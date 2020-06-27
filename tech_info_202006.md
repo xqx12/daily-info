@@ -112,6 +112,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20200627T12:20:44Z | Null | https://github.com/nikhils4/fuzzy-eureka | 0 | 1| 
 | 20200627T12:06:56Z | A Rust toolkit to combine property-based testing and fuzzing. | https://github.com/facebookincubator/propfuzz | 27 | 1| 
 | 20200627T11:48:09Z | Fuzzing Parsers with Tokens | https://github.com/uds-se/lFuzzer | 2 | 0| 
 | 20200627T11:18:57Z | OSS-Fuzz - continuous fuzzing of open source software. | https://github.com/google/oss-fuzz | 5349 | 1024| 
@@ -121,7 +122,6 @@
 | 20200627T08:15:28Z | Directory Traversal fuzzer using python requests and tkinter as gui | https://github.com/Radus1k/Directory-Traversal-Python-Tkinter | 0 | 0| 
 | 20200627T08:14:30Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 3002 | 687| 
 | 20200627T08:00:57Z | kubectl-fuzzy is a kubectl plugin providing a fuzzy finder selector. Uses go-fuzzyfinder, so there is no dependency on fzf binaries or anything else. | https://github.com/d-kuro/kubectl-fuzzy | 8 | 1| 
-| 20200627T06:55:20Z | coverage guided fuzz testing for python | https://github.com/fuzzitdev/pythonfuzz | 156 | 21| 
 
 
 
