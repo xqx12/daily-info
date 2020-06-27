@@ -97,6 +97,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20200627T12:18:45Z | Persistent backdoor access to all Android Devices | https://github.com/Hack2Gain/Android-RAT | 1 | 0| 
 | 20200627T07:27:59Z | Python Based Backdoor Maker | https://github.com/MrDabelyu/Backdoor | 0 | 0| 
 | 20200627T05:37:31Z | Advanced Attack toolkit, Native C++ RAT, Instagram Brute Force and Password Spraying over Tor, Mass Emailer, Malicious file Sentinel and more. | https://github.com/quantumcored/paradoxia | 118 | 20| 
 | 20200627T03:46:37Z | Null | https://github.com/Rm4n29/TSARG.BACKDOOR | 0 | 0| 
@@ -106,7 +107,6 @@
 | 20200626T20:57:45Z | Undetectable & Xor encrypting with custom KEY (FUD Metasploit Rat) bypass Top Antivirus like BitDefender,Malwarebytes,Avast,ESET-NOD32,AVG,... & Automatically Add ICON and MANIFEST to excitable | https://github.com/persianhydra/Xeexe-TopAntivirusEvasion | 22 | 9| 
 | 20200626T12:29:15Z | Mouse Framework is an iOS and macOS post-exploitation framework that gives you a command line session with extra functionality between you and a target machine using only a simple Mouse payload. Mouse gives you the power and convenience of uploading and downloading files, tab completion, taking pictures, location tracking, shell command execution, escalating privileges, password retrieval, and much more. | https://github.com/entynetproject/mouse | 162 | 61| 
 | 20200626T11:44:03Z | Ghost Framework is an Android post-exploitation framework that exploits the Android Debug Bridge to remotely access an Android device. Ghost Framework gives you the power and convenience of remote Android device administration. | https://github.com/entynetproject/ghost | 574 | 283| 
-| 20200626T11:36:40Z | Thoron Framework is a Linux post-exploitation framework that exploits Linux TCP vulnerability to provide a shell-like connection. Thoron Framework has the ability to create simple payloads to provide Linux TCP attack. | https://github.com/entynetproject/thoron | 66 | 25| 
 
 
 # fuzz on Github 推荐
