@@ -52,14 +52,14 @@
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20200627T11:48:03Z | Null | https://github.com/thierry-tct/KLEE-SEMu | 0 | 0| 
+| 20200627T10:55:13Z | A 4chan image browser written in SwiftUI | https://github.com/jackpal/KleeneStar | 7 | 0| 
 | 20200627T00:00:59Z | Create CFGs and compute complexity metrics for Python, C++, and Java code. | https://github.com/hmc-alpaqa/metrinome | 3 | 0| 
-| 20200626T22:45:38Z | Null | https://github.com/thierry-tct/KLEE-SEMu | 0 | 0| 
 | 20200626T20:12:37Z | ⬇️ File Upload/sharing application, used by thousands of webmasters since 2007.  | https://github.com/kleeja-official/kleeja | 100 | 32| 
-| 20200626T18:14:55Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1422 | 434| 
+| 20200626T18:14:55Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1422 | 435| 
 | 20200626T17:21:27Z | doctor robin | https://github.com/nondejus/kleefarts | 0 | 0| 
 | 20200626T08:38:34Z | Minecraft Mod. Allows breaking only one half of a double slab block. | https://github.com/blay09/KleeSlabs | 7 | 3| 
 | 20200625T04:17:31Z | Null | https://github.com/ayush-thakur/kleen_email-temp-ate | 0 | 0| 
-| 20200624T04:49:02Z | A 4chan image browser written in SwiftUI | https://github.com/jackpal/KleeneStar | 6 | 0| 
 | 20200624T03:40:26Z | Lazy python wrapper of KLEE for solving CTF challenges | https://github.com/L4ys/LazyKLEE | 40 | 6| 
 | 20200623T23:09:37Z | the thalamus disruptor | https://github.com/nondejus/doctor-kleef | 0 | 0| 
 
@@ -82,31 +82,31 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20200627T03:08:37Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 6623 | 1037| 
-| 20200627T03:02:19Z | This is a plugin for Minecraft that aids in building, as it gives the player creative mode and charges them for each block they place. All exploits are patched as well. | https://github.com/bsalha1/Printer | 1 | 0| 
-| 20200627T02:46:26Z | Kernel Exploits | https://github.com/connormcgarr/Kernel-Exploits | 0 | 0| 
-| 20200627T02:27:32Z | Disco-RD - Multi-Platform Discord mod! | https://github.com/FiskDk/discord-security-exploiting | 0 | 0| 
-| 20200627T01:55:37Z | CTFs I%ve played so far | https://github.com/AravGarg/CTFarchives | 9 | 2| 
-| 20200627T01:32:55Z | Null | https://github.com/skullarmy/web-exploits | 0 | 0| 
-| 20200627T00:47:20Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 2 | 1| 
-| 20200627T00:31:10Z | CTF framework and exploit development library | https://github.com/Gallopsled/pwntools | 6714 | 1255| 
-| 20200627T00:17:44Z | Null | https://github.com/nguyen-ngo/LotusCMS-3.0-RCE-exploit | 0 | 0| 
-| 20200627T00:05:50Z | this  bash script lets you choose a linux enumeration script, exploitation and utilities. read README.md file to learn about this script.. | https://github.com/FabioDefilippo/linuxallenum | 0 | 0| 
+| 20200627T11:49:02Z | SQL injection exploit time based/blind support target back-end MySQL/SQLite and HTTP headers attack | https://github.com/Reng-Deng-DenG/DumPyBlinD | 0 | 0| 
+| 20200627T11:41:02Z | Umbraco CMS 7.12.4 - (Authenticated) Remote Code Execution | https://github.com/noraj/Umbraco-RCE | 35 | 29| 
+| 20200627T11:34:49Z | this bash script let you download scripts and clone repos for remote exploits | https://github.com/FabioDefilippo/linuxallremote | 0 | 0| 
+| 20200627T11:25:09Z | A tool to identify and exploit sudo rules% misconfigurations and vulnerabilities within sudo | https://github.com/TH3xACE/SUDO_KILLER | 709 | 103| 
+| 20200627T11:16:04Z | This repository contains a some of the reports and memo I wrote during the short while I took the Offensive Technology course in my masters program. I learned the basics of reporting a found vulnerability, to tan organisation, exploiting and documentation showing proof of concepts. | https://github.com/mondayevidence/OffensiveTechnology | 0 | 0| 
+| 20200627T10:54:44Z | This repository contains the reports of some of the exercises and project done in my Security course. It includes reports on attacks and exploitation like Buffer Overflow, Integer overflow, Sql Injection, XSS, XSRF. It also includes test automation using Selenium with Java to automate True positive vulnerabilities found on a web app [to be updated]. | https://github.com/mondayevidence/SecurityTesting | 0 | 0| 
+| 20200627T10:38:26Z | PDSEGEN - ISPF Dialog application to exploit PDSE Version 2 Member Generations | https://github.com/lbdyck/pdsegen | 1 | 0| 
+| 20200627T09:53:48Z | for mass exploiting | https://github.com/jm33-m0/mec | 421 | 144| 
+| 20200627T09:52:50Z | JNDI命令注入利用 | https://github.com/sayers522/JNDI-Injection-Exploit | 0 | 0| 
+| 20200627T05:56:54Z | The official Exploit Database repository | https://github.com/offensive-security/exploitdb | 5354 | 1543| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20200627T07:27:59Z | Python Based Backdoor Maker | https://github.com/MrDabelyu/Backdoor | 0 | 0| 
+| 20200627T05:37:31Z | Advanced Attack toolkit, Native C++ RAT, Instagram Brute Force and Password Spraying over Tor, Mass Emailer, Malicious file Sentinel and more. | https://github.com/quantumcored/paradoxia | 118 | 20| 
 | 20200627T03:46:37Z | Null | https://github.com/Rm4n29/TSARG.BACKDOOR | 0 | 0| 
 | 20200627T02:20:15Z | knowledge distillation & backdoor | https://github.com/zhuangzi926/kdbackdoor | 0 | 0| 
 | 20200626T21:43:46Z | Patch PE, ELF, Mach-O binaries with shellcode (NOT Supported) | https://github.com/secretsquirrel/the-backdoor-factory | 2517 | 703| 
 | 20200626T21:29:44Z | Null | https://github.com/iK4oS/backdoor.exe | 1 | 0| 
 | 20200626T20:57:45Z | Undetectable & Xor encrypting with custom KEY (FUD Metasploit Rat) bypass Top Antivirus like BitDefender,Malwarebytes,Avast,ESET-NOD32,AVG,... & Automatically Add ICON and MANIFEST to excitable | https://github.com/persianhydra/Xeexe-TopAntivirusEvasion | 22 | 9| 
 | 20200626T12:29:15Z | Mouse Framework is an iOS and macOS post-exploitation framework that gives you a command line session with extra functionality between you and a target machine using only a simple Mouse payload. Mouse gives you the power and convenience of uploading and downloading files, tab completion, taking pictures, location tracking, shell command execution, escalating privileges, password retrieval, and much more. | https://github.com/entynetproject/mouse | 162 | 61| 
-| 20200626T11:55:31Z | Python Based Backdoor Maker | https://github.com/MrDabelyu/Backdoor | 0 | 0| 
 | 20200626T11:44:03Z | Ghost Framework is an Android post-exploitation framework that exploits the Android Debug Bridge to remotely access an Android device. Ghost Framework gives you the power and convenience of remote Android device administration. | https://github.com/entynetproject/ghost | 574 | 283| 
 | 20200626T11:36:40Z | Thoron Framework is a Linux post-exploitation framework that exploits Linux TCP vulnerability to provide a shell-like connection. Thoron Framework has the ability to create simple payloads to provide Linux TCP attack. | https://github.com/entynetproject/thoron | 66 | 25| 
-| 20200626T06:57:03Z | Null | https://github.com/kaidi-jin/backdoor_samples_detection | 0 | 0| 
 
 
 # fuzz on Github 推荐
