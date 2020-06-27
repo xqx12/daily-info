@@ -64,7 +64,7 @@
 | 20200623T23:09:37Z | the thalamus disruptor | https://github.com/nondejus/doctor-kleef | 0 | 0| 
 
 
-# klee on Github 推荐
+# s2e on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
 | 20200626T20:37:42Z | Electrical Power Prediction using Deep learning | https://github.com/chykoushik/S2E-dfki-Electrical-Power-Prediction | 0 | 0| 
@@ -79,7 +79,7 @@
 | 20200608T08:26:45Z | Serial to Ethernet Module based on W5500 & Cortex-M3 | https://github.com/Wiznet/WIZ550SR | 5 | 4| 
 
 
-# klee on Github 推荐
+# exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
 | 20200627T03:08:37Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 6623 | 1037| 
@@ -94,9 +94,10 @@
 | 20200627T00:05:50Z | this  bash script lets you choose a linux enumeration script, exploitation and utilities. read README.md file to learn about this script.. | https://github.com/FabioDefilippo/linuxallenum | 0 | 0| 
 
 
-# klee on Github 推荐
+# backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20200627T03:46:37Z | Null | https://github.com/Rm4n29/TSARG.BACKDOOR | 0 | 0| 
 | 20200627T02:20:15Z | knowledge distillation & backdoor | https://github.com/zhuangzi926/kdbackdoor | 0 | 0| 
 | 20200626T21:43:46Z | Patch PE, ELF, Mach-O binaries with shellcode (NOT Supported) | https://github.com/secretsquirrel/the-backdoor-factory | 2517 | 703| 
 | 20200626T21:29:44Z | Null | https://github.com/iK4oS/backdoor.exe | 1 | 0| 
@@ -106,12 +107,13 @@
 | 20200626T11:44:03Z | Ghost Framework is an Android post-exploitation framework that exploits the Android Debug Bridge to remotely access an Android device. Ghost Framework gives you the power and convenience of remote Android device administration. | https://github.com/entynetproject/ghost | 574 | 283| 
 | 20200626T11:36:40Z | Thoron Framework is a Linux post-exploitation framework that exploits Linux TCP vulnerability to provide a shell-like connection. Thoron Framework has the ability to create simple payloads to provide Linux TCP attack. | https://github.com/entynetproject/thoron | 66 | 25| 
 | 20200626T06:57:03Z | Null | https://github.com/kaidi-jin/backdoor_samples_detection | 0 | 0| 
-| 20200626T05:45:33Z | Backdoor is a fast growing IT and Technology based IT Professional Group. Everyone will get their own IT-based services and solutions. We will learn not only ourselves but also help others to learn so that one day the information-based Bangladesh will be formed, it is a strong bonded from Backdoor. | https://github.com/backdoordhaka/backdoordhaka.github.io | 0 | 0| 
 
 
-# klee on Github 推荐
+# fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20200627T03:34:14Z | libfuzzer modification for fuzzcoin-wasm | https://github.com/daehee87/fuzzcoin-llvm-wasm | 0 | 0| 
+| 20200627T03:31:59Z | OSS-Fuzz - continuous fuzzing of open source software. | https://github.com/google/oss-fuzz | 5348 | 1024| 
 | 20200627T02:47:45Z | 🎯 A collection of fuzzing targets written in Rust. | https://github.com/rust-fuzz/targets | 73 | 16| 
 | 20200627T02:20:37Z | Null | https://github.com/blanier/fuzzy-winner | 0 | 0| 
 | 20200627T00:59:45Z | FuzzBench - Fuzzer benchmarking as a service. | https://github.com/google/fuzzbench | 476 | 65| 
@@ -120,8 +122,6 @@
 | 20200626T23:28:42Z | Scalable fuzzing infrastructure. | https://github.com/google/clusterfuzz | 4250 | 374| 
 | 20200626T22:32:15Z | Null | https://github.com/veelkoov/fuzzrake | 6 | 0| 
 | 20200626T22:07:08Z | american fuzzy lop - a security-oriented fuzzer | https://github.com/google/AFL | 1212 | 193| 
-| 20200626T20:26:55Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 3002 | 686| 
-| 20200626T20:12:14Z | Fuzzy TS optimisation based on genetic algorithm | https://github.com/jairpaulino/fuzzy-ts-opt | 0 | 0| 
 
 
 
