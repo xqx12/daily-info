@@ -64,5 +64,65 @@
 | 20200623T23:09:37Z | the thalamus disruptor | https://github.com/nondejus/doctor-kleef | 0 | 0| 
 
 
+# klee on Github 推荐
+| ts | title | url | stars | forks| 
+| --- | --- | --- | --- | ---| 
+| 20200626T20:37:42Z | Electrical Power Prediction using Deep learning | https://github.com/chykoushik/S2E-dfki-Electrical-Power-Prediction | 0 | 0| 
+| 20200625T18:50:03Z | This is the archived S2E 1.0 repo. We do not maintain it anymore. | https://github.com/S2E/s2e-old | 302 | 170| 
+| 20200625T18:46:10Z | Your S2E project management tools. Visit https://s2e.systems/docs to get started. | https://github.com/S2E/s2e-env | 62 | 28| 
+| 20200625T18:24:53Z | This is the main S2E repository. Visit https://s2e.systems/docs to get started. | https://github.com/S2E/s2e | 45 | 13| 
+| 20200624T08:36:39Z | cicd logic and gitlab&github runner, centos base ,whith jdk/python/go, maven/npm,/kubectl/helm | https://github.com/chimeh/cicd-s2e-runner | 0 | 0| 
+| 20200624T07:37:13Z | Null | https://github.com/IuliiaZaitova/qualification_task_S2E | 0 | 0| 
+| 20200623T04:44:40Z | WIZnet Serial to Ethernet(S2E) module based on W7500 chip, WIZ107/108SR S2E compatible device | https://github.com/Wiznet/WIZ750SR | 12 | 11| 
+| 20200616T20:34:18Z | S2E website (s2e.systems) | https://github.com/S2E2/s2e2.github.io | 0 | 0| 
+| 20200612T14:58:44Z | Null | https://github.com/chykoushik/S2E-dfki-Predict-the-department-wide-sales-for-each-store | 0 | 0| 
+| 20200608T08:26:45Z | Serial to Ethernet Module based on W5500 & Cortex-M3 | https://github.com/Wiznet/WIZ550SR | 5 | 4| 
+
+
+# klee on Github 推荐
+| ts | title | url | stars | forks| 
+| --- | --- | --- | --- | ---| 
+| 20200627T03:08:37Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 6623 | 1037| 
+| 20200627T03:02:19Z | This is a plugin for Minecraft that aids in building, as it gives the player creative mode and charges them for each block they place. All exploits are patched as well. | https://github.com/bsalha1/Printer | 1 | 0| 
+| 20200627T02:46:26Z | Kernel Exploits | https://github.com/connormcgarr/Kernel-Exploits | 0 | 0| 
+| 20200627T02:27:32Z | Disco-RD - Multi-Platform Discord mod! | https://github.com/FiskDk/discord-security-exploiting | 0 | 0| 
+| 20200627T01:55:37Z | CTFs I%ve played so far | https://github.com/AravGarg/CTFarchives | 9 | 2| 
+| 20200627T01:32:55Z | Null | https://github.com/skullarmy/web-exploits | 0 | 0| 
+| 20200627T00:47:20Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 2 | 1| 
+| 20200627T00:31:10Z | CTF framework and exploit development library | https://github.com/Gallopsled/pwntools | 6714 | 1255| 
+| 20200627T00:17:44Z | Null | https://github.com/nguyen-ngo/LotusCMS-3.0-RCE-exploit | 0 | 0| 
+| 20200627T00:05:50Z | this  bash script lets you choose a linux enumeration script, exploitation and utilities. read README.md file to learn about this script.. | https://github.com/FabioDefilippo/linuxallenum | 0 | 0| 
+
+
+# klee on Github 推荐
+| ts | title | url | stars | forks| 
+| --- | --- | --- | --- | ---| 
+| 20200627T02:20:15Z | knowledge distillation & backdoor | https://github.com/zhuangzi926/kdbackdoor | 0 | 0| 
+| 20200626T21:43:46Z | Patch PE, ELF, Mach-O binaries with shellcode (NOT Supported) | https://github.com/secretsquirrel/the-backdoor-factory | 2517 | 703| 
+| 20200626T21:29:44Z | Null | https://github.com/iK4oS/backdoor.exe | 1 | 0| 
+| 20200626T20:57:45Z | Undetectable & Xor encrypting with custom KEY (FUD Metasploit Rat) bypass Top Antivirus like BitDefender,Malwarebytes,Avast,ESET-NOD32,AVG,... & Automatically Add ICON and MANIFEST to excitable | https://github.com/persianhydra/Xeexe-TopAntivirusEvasion | 22 | 9| 
+| 20200626T12:29:15Z | Mouse Framework is an iOS and macOS post-exploitation framework that gives you a command line session with extra functionality between you and a target machine using only a simple Mouse payload. Mouse gives you the power and convenience of uploading and downloading files, tab completion, taking pictures, location tracking, shell command execution, escalating privileges, password retrieval, and much more. | https://github.com/entynetproject/mouse | 162 | 61| 
+| 20200626T11:55:31Z | Python Based Backdoor Maker | https://github.com/MrDabelyu/Backdoor | 0 | 0| 
+| 20200626T11:44:03Z | Ghost Framework is an Android post-exploitation framework that exploits the Android Debug Bridge to remotely access an Android device. Ghost Framework gives you the power and convenience of remote Android device administration. | https://github.com/entynetproject/ghost | 574 | 283| 
+| 20200626T11:36:40Z | Thoron Framework is a Linux post-exploitation framework that exploits Linux TCP vulnerability to provide a shell-like connection. Thoron Framework has the ability to create simple payloads to provide Linux TCP attack. | https://github.com/entynetproject/thoron | 66 | 25| 
+| 20200626T06:57:03Z | Null | https://github.com/kaidi-jin/backdoor_samples_detection | 0 | 0| 
+| 20200626T05:45:33Z | Backdoor is a fast growing IT and Technology based IT Professional Group. Everyone will get their own IT-based services and solutions. We will learn not only ourselves but also help others to learn so that one day the information-based Bangladesh will be formed, it is a strong bonded from Backdoor. | https://github.com/backdoordhaka/backdoordhaka.github.io | 0 | 0| 
+
+
+# klee on Github 推荐
+| ts | title | url | stars | forks| 
+| --- | --- | --- | --- | ---| 
+| 20200627T02:47:45Z | 🎯 A collection of fuzzing targets written in Rust. | https://github.com/rust-fuzz/targets | 73 | 16| 
+| 20200627T02:20:37Z | Null | https://github.com/blanier/fuzzy-winner | 0 | 0| 
+| 20200627T00:59:45Z | FuzzBench - Fuzzer benchmarking as a service. | https://github.com/google/fuzzbench | 476 | 65| 
+| 20200627T00:29:14Z | Null | https://github.com/ericlay/fuzzy-pkg-finder | 1 | 1| 
+| 20200626T23:36:13Z | Null | https://github.com/SzymonZos/Fuzzy-Data-Analysis | 1 | 1| 
+| 20200626T23:28:42Z | Scalable fuzzing infrastructure. | https://github.com/google/clusterfuzz | 4250 | 374| 
+| 20200626T22:32:15Z | Null | https://github.com/veelkoov/fuzzrake | 6 | 0| 
+| 20200626T22:07:08Z | american fuzzy lop - a security-oriented fuzzer | https://github.com/google/AFL | 1212 | 193| 
+| 20200626T20:26:55Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 3002 | 686| 
+| 20200626T20:12:14Z | Fuzzy TS optimisation based on genetic algorithm | https://github.com/jairpaulino/fuzzy-ts-opt | 0 | 0| 
+
+
 
 # 日更新程序
