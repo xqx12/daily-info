@@ -52,16 +52,16 @@
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20200628T03:06:16Z | A simple quine generator (for sed). | https://github.com/Circiter/quine-kleene-generator | 0 | 0| 
 | 20200627T12:53:44Z | Null | https://github.com/thierry-tct/KLEE-SEMu | 0 | 0| 
 | 20200627T10:55:13Z | A 4chan image browser written in SwiftUI | https://github.com/jackpal/KleeneStar | 7 | 0| 
 | 20200627T00:00:59Z | Create CFGs and compute complexity metrics for Python, C++, and Java code. | https://github.com/hmc-alpaqa/metrinome | 3 | 0| 
 | 20200626T20:12:37Z | ⬇️ File Upload/sharing application, used by thousands of webmasters since 2007.  | https://github.com/kleeja-official/kleeja | 100 | 32| 
-| 20200626T18:14:55Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1422 | 435| 
+| 20200626T18:14:55Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1422 | 436| 
 | 20200626T17:21:27Z | doctor robin | https://github.com/nondejus/kleefarts | 0 | 0| 
 | 20200626T08:38:34Z | Minecraft Mod. Allows breaking only one half of a double slab block. | https://github.com/blay09/KleeSlabs | 7 | 3| 
 | 20200625T04:17:31Z | Null | https://github.com/ayush-thakur/kleen_email-temp-ate | 0 | 0| 
 | 20200624T03:40:26Z | Lazy python wrapper of KLEE for solving CTF challenges | https://github.com/L4ys/LazyKLEE | 40 | 6| 
-| 20200623T23:09:37Z | the thalamus disruptor | https://github.com/nondejus/doctor-kleef | 0 | 0| 
 
 
 # s2e on Github 推荐
@@ -97,16 +97,16 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20200628T01:51:21Z | Mouse Framework is an iOS and macOS post-exploitation framework that gives you a command line session with extra functionality between you and a target machine using only a simple Mouse payload. Mouse gives you the power and convenience of uploading and downloading files, tab completion, taking pictures, location tracking, shell command execution, escalating privileges, password retrieval, and much more. | https://github.com/entynetproject/mouse | 165 | 62| 
-| 20200628T01:16:30Z | A deck-building roguelike cyberpunk game. | https://github.com/uspgamedev/backdoor | 9 | 2| 
+| 20200628T11:27:40Z | Advanced Attack toolkit, Native C++ RAT, Instagram Brute Force and Password Spraying over Tor, Mass Emailer, Malicious file Sentinel and more. | https://github.com/quantumcored/paradoxia | 121 | 20| 
+| 20200628T10:14:16Z | A deck-building roguelike cyberpunk game. | https://github.com/uspgamedev/backdoor | 12 | 2| 
+| 20200628T07:11:21Z | A curated list of awesome backdoor learning research | https://github.com/THUYimingLi/awesome-backdoor-learning | 6 | 0| 
+| 20200628T06:31:27Z | Pupy is an opensource, cross-platform (Windows, Linux, OSX, Android) remote administration and post-exploitation tool mainly written in python | https://github.com/n1nj4sec/pupy | 5623 | 1486| 
+| 20200628T05:51:56Z | Multi-client Cross-platform Python Backdoor/Reverse Shell/RAT with AES Encryption | https://github.com/Y4hL/PyDoor | 15 | 9| 
+| 20200628T04:46:44Z | Ghost Framework is an Android post-exploitation framework that exploits the Android Debug Bridge to remotely access an Android device. Ghost Framework gives you the power and convenience of remote Android device administration. | https://github.com/entynetproject/ghost | 575 | 283| 
+| 20200628T04:10:28Z | Mouse Framework is an iOS and macOS post-exploitation framework that gives you a command line session with extra functionality between you and a target machine using only a simple Mouse payload. Mouse gives you the power and convenience of uploading and downloading files, tab completion, taking pictures, location tracking, shell command execution, escalating privileges, password retrieval, and much more. | https://github.com/entynetproject/mouse | 166 | 63| 
+| 20200628T02:27:31Z | Test | https://github.com/HammannFree/BackDoor | 0 | 0| 
+| 20200628T02:26:54Z | Undetectable & Xor encrypting with custom KEY (FUD Metasploit Rat) bypass Top Antivirus like BitDefender,Malwarebytes,Avast,ESET-NOD32,AVG,... & Automatically Add ICON and MANIFEST to excitable | https://github.com/persianhydra/Xeexe-TopAntivirusEvasion | 23 | 10| 
 | 20200627T22:21:18Z | UNIX PAM Backdoor with rolling passwords | https://github.com/moortality/pamdoor | 0 | 0| 
-| 20200627T21:47:44Z | Python Backdoor Written on Top of AI for Windows using Telegram-bot, ZMQ, and Socket as Its Back-ends. | https://github.com/wildonion/katyusha | 0 | 0| 
-| 20200627T21:12:10Z | Patch PE, ELF, Mach-O binaries with shellcode (NOT Supported) | https://github.com/secretsquirrel/the-backdoor-factory | 2516 | 703| 
-| 20200627T20:56:17Z | Pupy is an opensource, cross-platform (Windows, Linux, OSX, Android) remote administration and post-exploitation tool mainly written in python | https://github.com/n1nj4sec/pupy | 5622 | 1486| 
-| 20200627T18:00:37Z | Ghost Framework is an Android post-exploitation framework that exploits the Android Debug Bridge to remotely access an Android device. Ghost Framework gives you the power and convenience of remote Android device administration. | https://github.com/entynetproject/ghost | 574 | 283| 
-| 20200627T16:09:50Z | Backdoor is a fast growing IT and Technology based IT Professional Group. Everyone will get their own IT-based services and solutions. We will learn not only ourselves but also help others to learn so that one day the information-based Bangladesh will be formed, it is a strong bonded from Backdoor. | https://github.com/backdoordhaka/backdoordhaka.github.io | 0 | 0| 
-| 20200627T15:29:39Z | A sample app to demonstrate how to create Xamarin UITests using the Page Object architecture, Backdoor Methods and App Links (aka Deep Linking) | https://github.com/brminnick/UITestSampleApp | 26 | 23| 
-| 20200627T14:55:06Z | Multi-client Cross-platform Python Backdoor/Reverse Shell/RAT with AES Encryption | https://github.com/Y4hL/PyDoor | 14 | 8| 
 
 
 # fuzz on Github 推荐
