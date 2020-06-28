@@ -82,6 +82,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20200628T00:59:31Z | Null | https://github.com/RaizFor/File-Messyz-Exploit | 0 | 0| 
 | 20200628T00:41:49Z | Various cosmetics exploits for Minecraft 1.12.2, specifically for the server 2b2t.org | https://github.com/TheAlphaEpsilon/Templar-Cosmetics-Beta | 3 | 1| 
 | 20200628T00:31:30Z | PlayStation 2 DVD Player Exploit | https://github.com/CTurt/FreeDVDBoot | 48 | 3| 
 | 20200628T00:30:21Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 2878 | 438| 
@@ -91,7 +92,6 @@
 | 20200627T23:53:15Z | Kernel Exploits | https://github.com/connormcgarr/Kernel-Exploits | 0 | 0| 
 | 20200627T23:30:02Z | gotool to exploit misconfigured firebase instances | https://github.com/evilxorz/burnbase | 0 | 0| 
 | 20200627T23:21:55Z | this bash script let you download scripts and clone repos for remote exploits | https://github.com/FabioDefilippo/linuxallremote | 0 | 0| 
-| 20200627T22:57:18Z | Exploits project Hacking Command Center | https://github.com/chacka0101/exploits | 0 | 1| 
 
 
 # backdoor on Github 推荐
