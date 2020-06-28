@@ -82,6 +82,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20200628T00:15:34Z | ¿Sabes qué es un exploit y cómo funciona? Las definiciones habituales hablan de un programa o código que se aprovecha la vulnerabilidad de la seguridad de un sistema. | https://github.com/Pericena/xploitZ.github.io | 2 | 1| 
 | 20200628T00:06:00Z | PlayStation 2 DVD Player Exploit | https://github.com/CTurt/FreeDVDBoot | 45 | 1| 
 | 20200627T23:53:15Z | Kernel Exploits | https://github.com/connormcgarr/Kernel-Exploits | 0 | 0| 
 | 20200627T23:30:02Z | gotool to exploit misconfigured firebase instances | https://github.com/evilxorz/burnbase | 0 | 0| 
@@ -91,7 +92,6 @@
 | 20200627T22:33:43Z | Null | https://github.com/nguyen-ngo/LotusCMS-3.0-RCE-exploit | 0 | 0| 
 | 20200627T22:31:12Z | This is a plugin for Minecraft that aids in building, as it gives the player creative mode and charges them for each block they place. All exploits are patched as well. | https://github.com/bsalha1/Printer | 1 | 0| 
 | 20200627T22:21:55Z | Null | https://github.com/norrismw/exploit-dev | 0 | 0| 
-| 20200627T22:05:50Z | Oraxen is a minecraft plugin which allows to easily exploit Minecraft 1.14 new features in order to create new items with custom textures. It handles the resourcepack generation, upload (using Polymath) , is fully open source and has an extensible API. | https://github.com/oraxen/Oraxen | 60 | 10| 
 
 
 # backdoor on Github 推荐
