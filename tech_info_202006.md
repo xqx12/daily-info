@@ -82,9 +82,9 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20200628T00:06:00Z | PlayStation 2 DVD Player Exploit | https://github.com/CTurt/FreeDVDBoot | 45 | 1| 
 | 20200627T23:53:15Z | Kernel Exploits | https://github.com/connormcgarr/Kernel-Exploits | 0 | 0| 
 | 20200627T23:30:02Z | gotool to exploit misconfigured firebase instances | https://github.com/evilxorz/burnbase | 0 | 0| 
-| 20200627T23:25:26Z | PlayStation 2 DVD Player Exploit | https://github.com/CTurt/FreeDVDBoot | 44 | 1| 
 | 20200627T23:21:55Z | this bash script let you download scripts and clone repos for remote exploits | https://github.com/FabioDefilippo/linuxallremote | 0 | 0| 
 | 20200627T23:21:13Z | CTF framework and exploit development library | https://github.com/Gallopsled/pwntools | 6717 | 1255| 
 | 20200627T22:57:18Z | Exploits project Hacking Command Center | https://github.com/chacka0101/exploits | 0 | 1| 
