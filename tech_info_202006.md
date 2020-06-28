@@ -82,6 +82,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20200628T01:31:48Z | Exphub[漏洞利用脚本库] 包括Webloigc、Struts2、Tomcat、Nexus、Solr、Jboss、Drupal的漏洞利用脚本，优先更新高危且易利用的漏洞利用脚本，最新添加CVE-2020-11444、CVE-2020-10204、CVE-2020-10199、CVE-2020-1938、CVE-2020-2551、CVE-2020-2555、CVE-2020-2883、CVE-2019-17558、CVE-2019-6340 | https://github.com/zhzyker/exphub | 996 | 249| 
 | 20200628T01:31:23Z | CTF framework and exploit development library | https://github.com/Gallopsled/pwntools | 6717 | 1255| 
 | 20200628T00:59:31Z | Null | https://github.com/RaizFor/File-Messyz-Exploit | 0 | 0| 
 | 20200628T00:41:49Z | Various cosmetics exploits for Minecraft 1.12.2, specifically for the server 2b2t.org | https://github.com/TheAlphaEpsilon/Templar-Cosmetics-Beta | 3 | 1| 
@@ -91,7 +92,6 @@
 | 20200628T00:15:34Z | ¿Sabes qué es un exploit y cómo funciona? Las definiciones habituales hablan de un programa o código que se aprovecha la vulnerabilidad de la seguridad de un sistema. | https://github.com/Pericena/xploitZ.github.io | 2 | 1| 
 | 20200627T23:53:15Z | Kernel Exploits | https://github.com/connormcgarr/Kernel-Exploits | 0 | 0| 
 | 20200627T23:30:02Z | gotool to exploit misconfigured firebase instances | https://github.com/evilxorz/burnbase | 0 | 0| 
-| 20200627T23:21:55Z | this bash script let you download scripts and clone repos for remote exploits | https://github.com/FabioDefilippo/linuxallremote | 0 | 0| 
 
 
 # backdoor on Github 推荐
@@ -112,6 +112,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20200628T01:32:09Z | Null | https://github.com/TortoiseFuzz/TortoiseFuzz | 11 | 0| 
 | 20200628T00:58:40Z | Use AFL/libfuzzer/honggfuzz to fuzz libexpat/libplist/libucl | https://github.com/weiyx15/Fuzz-libexpat-libplist-libucl | 0 | 0| 
 | 20200628T00:39:40Z | Null | https://github.com/ottypes/fuzzer | 12 | 2| 
 | 20200627T23:32:04Z | A fuzzing library for C# | https://github.com/pensono/FuzzDotNet | 1 | 0| 
@@ -121,7 +122,6 @@
 | 20200627T22:07:00Z | A file format fuzzer base on deep neural networks. | https://github.com/m-zakeri/iust_deep_fuzz | 21 | 9| 
 | 20200627T21:45:48Z | Fastest recursive HTTP fuzzer, like a Ferrari. | https://github.com/riza/medusa | 9 | 0| 
 | 20200627T21:19:56Z | Null | https://github.com/ehsan-rezaei/victor-topsis-fuzzy | 0 | 0| 
-| 20200627T21:05:25Z | This project contains a simple dishwasher example to understanding fuzzy logic algorithm. | https://github.com/M-Clk/AI_FuzzyLogic_DishwasherExample | 0 | 0| 
 
 
 
