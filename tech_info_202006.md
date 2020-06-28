@@ -112,16 +112,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20200628T01:55:06Z | Null | https://github.com/ericlay/fuzzy-pkg-finder | 1 | 1| 
-| 20200628T01:32:09Z | Null | https://github.com/TortoiseFuzz/TortoiseFuzz | 11 | 0| 
-| 20200628T00:58:40Z | Use AFL/libfuzzer/honggfuzz to fuzz libexpat/libplist/libucl | https://github.com/weiyx15/Fuzz-libexpat-libplist-libucl | 0 | 0| 
-| 20200628T00:39:40Z | Null | https://github.com/ottypes/fuzzer | 12 | 2| 
-| 20200627T23:32:04Z | A fuzzing library for C# | https://github.com/pensono/FuzzDotNet | 1 | 0| 
-| 20200627T22:42:33Z | OSS-Fuzz - continuous fuzzing of open source software. | https://github.com/google/oss-fuzz | 5351 | 1024| 
-| 20200627T22:16:08Z | Clientside vulnerability / reflected xss fuzzer | https://github.com/FlameOfIgnis/puff | 10 | 0| 
-| 20200627T22:07:00Z | A file format fuzzer base on deep neural networks. | https://github.com/m-zakeri/iust_deep_fuzz | 21 | 9| 
-| 20200627T21:45:48Z | Fastest recursive HTTP fuzzer, like a Ferrari. | https://github.com/riza/medusa | 9 | 0| 
-| 20200627T21:19:56Z | Null | https://github.com/ehsan-rezaei/victor-topsis-fuzzy | 0 | 0| 
+| 20200628T11:51:13Z | Fastest recursive HTTP fuzzer, like a Ferrari. | https://github.com/riza/medusa | 13 | 0| 
+| 20200628T11:13:44Z | Null | https://github.com/ottypes/fuzzer | 12 | 2| 
+| 20200628T10:57:28Z | Clientside vulnerability / reflected xss fuzzer | https://github.com/FlameOfIgnis/puff | 17 | 1| 
+| 20200628T10:53:33Z | approximate string matching. | https://github.com/amirouche/fuzzbuzz | 1 | 0| 
+| 20200628T10:42:21Z | Null | https://github.com/lamisabin/fuzzy-robot- | 0 | 0| 
+| 20200628T10:20:41Z | A Fuzzing Framework for ESP32 applications | https://github.com/MaxCamillo/esp32-fuzzing-framework | 0 | 0| 
+| 20200628T08:37:10Z | RTSPhuzz - An RTSP Fuzzer written using the Boofuzz framework | https://github.com/IncludeSecurity/RTSPhuzz | 8 | 1| 
+| 20200628T07:58:30Z | Anything about kernel security.  CTF kernel pwn, kernel exploit, kernel fuzz and kernel defense paper, kernel debugging technique, kernel CVE debug. | https://github.com/bsauce/kernel-security-learning | 77 | 9| 
+| 20200628T07:52:26Z | Null | https://github.com/shobaseprg/fuzz_bizz_problem | 0 | 0| 
+| 20200628T07:38:16Z | Null | https://github.com/pgh87564231/fuzzy_CD | 0 | 0| 
 
 
 
