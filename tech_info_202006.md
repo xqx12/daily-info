@@ -82,16 +82,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20200628T01:57:25Z | Kernel Exploits | https://github.com/connormcgarr/Kernel-Exploits | 0 | 0| 
-| 20200628T01:49:30Z | PlayStation 2 DVD Player Exploit | https://github.com/CTurt/FreeDVDBoot | 49 | 3| 
-| 20200628T01:47:41Z | Exphub[漏洞利用脚本库] 包括Webloigc、Struts2、Tomcat、Nexus、Solr、Jboss、Drupal的漏洞利用脚本，优先更新高危且易利用的漏洞利用脚本，最新添加CVE-2020-11444、CVE-2020-10204、CVE-2020-10199、CVE-2020-1938、CVE-2020-2551、CVE-2020-2555、CVE-2020-2883、CVE-2019-17558、CVE-2019-6340 | https://github.com/zhzyker/exphub | 997 | 249| 
-| 20200628T01:33:34Z | CTF framework and exploit development library | https://github.com/Gallopsled/pwntools | 6717 | 1255| 
-| 20200628T00:59:31Z | Null | https://github.com/RaizFor/File-Messyz-Exploit | 0 | 0| 
-| 20200628T00:41:49Z | Various cosmetics exploits for Minecraft 1.12.2, specifically for the server 2b2t.org | https://github.com/TheAlphaEpsilon/Templar-Cosmetics-Beta | 3 | 1| 
-| 20200628T00:30:21Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 2878 | 438| 
-| 20200628T00:28:53Z | Resources for Windows exploit development | https://github.com/FULLSHADE/WindowsExploitationResources | 386 | 72| 
-| 20200628T00:15:34Z | ¿Sabes qué es un exploit y cómo funciona? Las definiciones habituales hablan de un programa o código que se aprovecha la vulnerabilidad de la seguridad de un sistema. | https://github.com/Pericena/xploitZ.github.io | 2 | 1| 
-| 20200627T23:30:02Z | gotool to exploit misconfigured firebase instances | https://github.com/evilxorz/burnbase | 0 | 0| 
+| 20200628T11:59:08Z | Exphub[漏洞利用脚本库] 包括Webloigc、Struts2、Tomcat、Nexus、Solr、Jboss、Drupal的漏洞利用脚本，优先更新高危且易利用的漏洞利用脚本，最新添加CVE-2020-11444、CVE-2020-10204、CVE-2020-10199、CVE-2020-1938、CVE-2020-2551、CVE-2020-2555、CVE-2020-2883、CVE-2019-17558、CVE-2019-6340 | https://github.com/zhzyker/exphub | 1018 | 249| 
+| 20200628T11:59:03Z | Null | https://github.com/zinfosec/exploits-repo | 0 | 0| 
+| 20200628T11:52:48Z | Some security stuff I learned at École Polytechnique de Montréal. Notion of entropy, cryptography, web security, buffer overflow, KaliLinux, Armitage, nmap, post exploitation etc. | https://github.com/int0TheW1ld/INF4420A | 3 | 1| 
+| 20200628T11:52:02Z | Panda Exploit ( Web Based ) | https://github.com/SkieAdmin/- | 0 | 0| 
+| 20200628T11:00:14Z | Solution to BFS Ekoparty 2019 Exploitation Challenge | https://github.com/ipbits/BFS-Ekoparty-2019 | 0 | 0| 
+| 20200628T10:59:35Z | k8gege.org - K8哥哥%s Blog | https://github.com/k8gege/k8gege.github.io | 8 | 2| 
+| 20200628T10:46:22Z | CTF framework and exploit development library | https://github.com/Gallopsled/pwntools | 6718 | 1258| 
+| 20200628T09:21:39Z | Collection of exploits I%ve written | https://github.com/notsoshant/sploits | 0 | 0| 
+| 20200628T07:58:30Z | Anything about kernel security.  CTF kernel pwn, kernel exploit, kernel fuzz and kernel defense paper, kernel debugging technique, kernel CVE debug. | https://github.com/bsauce/kernel-security-learning | 77 | 9| 
+| 20200628T07:19:55Z | This repository contain a Selenium/Python based data scrapper, optimized for the OECD stats page. Exploiting the <ul> - <li> induced tree structured it may be used and adapted for other databases like EUROSTAT. | https://github.com/jeMATHfischer/OECD_Scraper_Selenium | 0 | 0| 
 
 
 # backdoor on Github 推荐
