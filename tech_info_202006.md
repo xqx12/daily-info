@@ -112,12 +112,12 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20200628T01:55:06Z | Null | https://github.com/ericlay/fuzzy-pkg-finder | 1 | 1| 
 | 20200628T01:32:09Z | Null | https://github.com/TortoiseFuzz/TortoiseFuzz | 11 | 0| 
 | 20200628T00:58:40Z | Use AFL/libfuzzer/honggfuzz to fuzz libexpat/libplist/libucl | https://github.com/weiyx15/Fuzz-libexpat-libplist-libucl | 0 | 0| 
 | 20200628T00:39:40Z | Null | https://github.com/ottypes/fuzzer | 12 | 2| 
 | 20200627T23:32:04Z | A fuzzing library for C# | https://github.com/pensono/FuzzDotNet | 1 | 0| 
 | 20200627T22:42:33Z | OSS-Fuzz - continuous fuzzing of open source software. | https://github.com/google/oss-fuzz | 5351 | 1024| 
-| 20200627T22:17:25Z | Null | https://github.com/ericlay/fuzzy-pkg-finder | 1 | 1| 
 | 20200627T22:16:08Z | Clientside vulnerability / reflected xss fuzzer | https://github.com/FlameOfIgnis/puff | 10 | 0| 
 | 20200627T22:07:00Z | A file format fuzzer base on deep neural networks. | https://github.com/m-zakeri/iust_deep_fuzz | 21 | 9| 
 | 20200627T21:45:48Z | Fastest recursive HTTP fuzzer, like a Ferrari. | https://github.com/riza/medusa | 9 | 0| 
