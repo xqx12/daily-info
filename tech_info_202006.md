@@ -112,16 +112,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20200627T12:20:44Z | Null | https://github.com/nikhils4/fuzzy-eureka | 0 | 1| 
-| 20200627T12:06:56Z | A Rust toolkit to combine property-based testing and fuzzing. | https://github.com/facebookincubator/propfuzz | 27 | 1| 
-| 20200627T11:48:09Z | Fuzzing Parsers with Tokens | https://github.com/uds-se/lFuzzer | 2 | 0| 
-| 20200627T11:18:57Z | OSS-Fuzz - continuous fuzzing of open source software. | https://github.com/google/oss-fuzz | 5349 | 1024| 
-| 20200627T11:00:50Z | Kernel fuzzer inspired by Syzkaller | https://github.com/SunHao-0/healer | 4 | 0| 
-| 20200627T10:58:26Z | 参数 , 字典 collections | https://github.com/SmithEcon/Fuzz_dic | 3 | 1| 
-| 20200627T09:13:40Z | Null | https://github.com/toivootspere/fuzzy-guacamole | 0 | 0| 
-| 20200627T08:15:28Z | Directory Traversal fuzzer using python requests and tkinter as gui | https://github.com/Radus1k/Directory-Traversal-Python-Tkinter | 0 | 0| 
-| 20200627T08:14:30Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 3002 | 687| 
-| 20200627T08:00:57Z | kubectl-fuzzy is a kubectl plugin providing a fuzzy finder selector. Uses go-fuzzyfinder, so there is no dependency on fzf binaries or anything else. | https://github.com/d-kuro/kubectl-fuzzy | 8 | 1| 
+| 20200627T23:32:04Z | A fuzzing library for C# | https://github.com/pensono/FuzzDotNet | 1 | 0| 
+| 20200627T22:42:33Z | OSS-Fuzz - continuous fuzzing of open source software. | https://github.com/google/oss-fuzz | 5351 | 1024| 
+| 20200627T22:17:25Z | Null | https://github.com/ericlay/fuzzy-pkg-finder | 1 | 1| 
+| 20200627T22:16:08Z | Clientside vulnerability / reflected xss fuzzer | https://github.com/FlameOfIgnis/puff | 10 | 0| 
+| 20200627T22:07:00Z | A file format fuzzer base on deep neural networks. | https://github.com/m-zakeri/iust_deep_fuzz | 21 | 9| 
+| 20200627T21:45:48Z | Fastest recursive HTTP fuzzer, like a Ferrari. | https://github.com/riza/medusa | 9 | 0| 
+| 20200627T21:19:56Z | Null | https://github.com/ehsan-rezaei/victor-topsis-fuzzy | 0 | 0| 
+| 20200627T21:05:25Z | This project contains a simple dishwasher example to understanding fuzzy logic algorithm. | https://github.com/M-Clk/AI_FuzzyLogic_DishwasherExample | 0 | 0| 
+| 20200627T21:01:35Z | Null | https://github.com/renanreboredo/fuzzy-trader | 0 | 0| 
+| 20200627T20:38:52Z | small cocos2d-x game | https://github.com/beardog-ukr/fuzzy-panther | 0 | 0| 
 
 
 
