@@ -112,8 +112,8 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20200628T12:26:49Z | Fastest recursive HTTP fuzzer, like a Ferrari. | https://github.com/riza/medusa | 15 | 0| 
 | 20200628T12:24:37Z | State learner tool for DTLS which uses TLS-Attacker | https://github.com/assist-project/dtls-fuzzer | 2 | 0| 
-| 20200628T12:24:25Z | Fastest recursive HTTP fuzzer, like a Ferrari. | https://github.com/riza/medusa | 14 | 0| 
 | 20200628T11:13:44Z | Null | https://github.com/ottypes/fuzzer | 12 | 2| 
 | 20200628T10:57:28Z | Clientside vulnerability / reflected xss fuzzer | https://github.com/FlameOfIgnis/puff | 17 | 1| 
 | 20200628T10:53:33Z | approximate string matching. | https://github.com/amirouche/fuzzbuzz | 1 | 0| 
