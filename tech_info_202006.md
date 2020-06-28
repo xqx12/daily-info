@@ -82,8 +82,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20200628T01:33:21Z | CTF framework and exploit development library | https://github.com/Gallopsled/pwntools | 6717 | 1255| 
 | 20200628T01:31:48Z | Exphub[漏洞利用脚本库] 包括Webloigc、Struts2、Tomcat、Nexus、Solr、Jboss、Drupal的漏洞利用脚本，优先更新高危且易利用的漏洞利用脚本，最新添加CVE-2020-11444、CVE-2020-10204、CVE-2020-10199、CVE-2020-1938、CVE-2020-2551、CVE-2020-2555、CVE-2020-2883、CVE-2019-17558、CVE-2019-6340 | https://github.com/zhzyker/exphub | 996 | 249| 
-| 20200628T01:31:23Z | CTF framework and exploit development library | https://github.com/Gallopsled/pwntools | 6717 | 1255| 
 | 20200628T00:59:31Z | Null | https://github.com/RaizFor/File-Messyz-Exploit | 0 | 0| 
 | 20200628T00:41:49Z | Various cosmetics exploits for Minecraft 1.12.2, specifically for the server 2b2t.org | https://github.com/TheAlphaEpsilon/Templar-Cosmetics-Beta | 3 | 1| 
 | 20200628T00:31:30Z | PlayStation 2 DVD Player Exploit | https://github.com/CTurt/FreeDVDBoot | 48 | 3| 
