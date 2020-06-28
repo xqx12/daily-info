@@ -83,7 +83,7 @@
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
 | 20200628T00:41:49Z | Various cosmetics exploits for Minecraft 1.12.2, specifically for the server 2b2t.org | https://github.com/TheAlphaEpsilon/Templar-Cosmetics-Beta | 3 | 1| 
-| 20200628T00:31:30Z | PlayStation 2 DVD Player Exploit | https://github.com/CTurt/FreeDVDBoot | 48 | 2| 
+| 20200628T00:31:30Z | PlayStation 2 DVD Player Exploit | https://github.com/CTurt/FreeDVDBoot | 48 | 3| 
 | 20200628T00:30:21Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 2878 | 438| 
 | 20200628T00:28:53Z | Resources for Windows exploit development | https://github.com/FULLSHADE/WindowsExploitationResources | 386 | 72| 
 | 20200628T00:24:44Z | CTF framework and exploit development library | https://github.com/Gallopsled/pwntools | 6717 | 1255| 
