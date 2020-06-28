@@ -112,6 +112,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20200628T00:58:40Z | Use AFL/libfuzzer/honggfuzz to fuzz libexpat/libplist/libucl | https://github.com/weiyx15/Fuzz-libexpat-libplist-libucl | 0 | 0| 
 | 20200628T00:39:40Z | Null | https://github.com/ottypes/fuzzer | 12 | 2| 
 | 20200627T23:32:04Z | A fuzzing library for C# | https://github.com/pensono/FuzzDotNet | 1 | 0| 
 | 20200627T22:42:33Z | OSS-Fuzz - continuous fuzzing of open source software. | https://github.com/google/oss-fuzz | 5351 | 1024| 
@@ -121,7 +122,6 @@
 | 20200627T21:45:48Z | Fastest recursive HTTP fuzzer, like a Ferrari. | https://github.com/riza/medusa | 9 | 0| 
 | 20200627T21:19:56Z | Null | https://github.com/ehsan-rezaei/victor-topsis-fuzzy | 0 | 0| 
 | 20200627T21:05:25Z | This project contains a simple dishwasher example to understanding fuzzy logic algorithm. | https://github.com/M-Clk/AI_FuzzyLogic_DishwasherExample | 0 | 0| 
-| 20200627T21:01:35Z | Null | https://github.com/renanreboredo/fuzzy-trader | 0 | 0| 
 
 
 
