@@ -82,6 +82,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20200628T12:59:24Z | A simple exploit of a strcpy | https://github.com/danyopp/BufferOverflow | 0 | 0| 
+| 20200628T12:54:50Z | Null | https://github.com/zinfosec/EXPLOITS | 0 | 0| 
 | 20200628T12:52:20Z | Null | https://github.com/zinfosec/exploits-repo | 0 | 0| 
 | 20200628T12:34:55Z | Exphub[漏洞利用脚本库] 包括Webloigc、Struts2、Tomcat、Nexus、Solr、Jboss、Drupal的漏洞利用脚本，优先更新高危且易利用的漏洞利用脚本，最新添加CVE-2020-11444、CVE-2020-10204、CVE-2020-10199、CVE-2020-1938、CVE-2020-2551、CVE-2020-2555、CVE-2020-2883、CVE-2019-17558、CVE-2019-6340 | https://github.com/zhzyker/exphub | 1020 | 250| 
 | 20200628T12:21:59Z | onifw is a console framework for pentesting | https://github.com/w0bos/onifw | 4 | 0| 
@@ -90,8 +92,6 @@
 | 20200628T11:52:02Z | Panda Exploit ( Web Based ) | https://github.com/SkieAdmin/- | 0 | 0| 
 | 20200628T11:00:14Z | Solution to BFS Ekoparty 2019 Exploitation Challenge | https://github.com/ipbits/BFS-Ekoparty-2019 | 0 | 0| 
 | 20200628T10:59:35Z | k8gege.org - K8哥哥%s Blog | https://github.com/k8gege/k8gege.github.io | 8 | 2| 
-| 20200628T10:46:22Z | CTF framework and exploit development library | https://github.com/Gallopsled/pwntools | 6718 | 1258| 
-| 20200628T09:21:39Z | Collection of exploits I%ve written | https://github.com/notsoshant/sploits | 0 | 0| 
 
 
 # backdoor on Github 推荐
