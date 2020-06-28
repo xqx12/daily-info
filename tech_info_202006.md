@@ -82,8 +82,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20200628T12:52:20Z | Null | https://github.com/zinfosec/exploits-repo | 0 | 0| 
 | 20200628T12:34:55Z | Exphub[漏洞利用脚本库] 包括Webloigc、Struts2、Tomcat、Nexus、Solr、Jboss、Drupal的漏洞利用脚本，优先更新高危且易利用的漏洞利用脚本，最新添加CVE-2020-11444、CVE-2020-10204、CVE-2020-10199、CVE-2020-1938、CVE-2020-2551、CVE-2020-2555、CVE-2020-2883、CVE-2019-17558、CVE-2019-6340 | https://github.com/zhzyker/exphub | 1020 | 250| 
-| 20200628T12:22:24Z | Null | https://github.com/zinfosec/exploits-repo | 0 | 0| 
 | 20200628T12:21:59Z | onifw is a console framework for pentesting | https://github.com/w0bos/onifw | 4 | 0| 
 | 20200628T12:19:11Z | Examples of common 64-bit exploitation techniques on glibc%s memory allocator  | https://github.com/craids/heap-exploit-examples | 0 | 0| 
 | 20200628T11:52:48Z | Some security stuff I learned at École Polytechnique de Montréal. Notion of entropy, cryptography, web security, buffer overflow, KaliLinux, Armitage, nmap, post exploitation etc. | https://github.com/int0TheW1ld/INF4420A | 3 | 1| 
