@@ -27,6 +27,8 @@
 | 20200628 | Windows10(1909)中超300个系统dll可被DLL劫持攻击 | https://www.bleepingcomputer.com/news/security/almost-300-windows-10-executables-vulnerable-to-dll-hijacking/| 
 | 20200628 | 使用QASan对二进制文件进行Fuzzing以检查内存安全 | https://sec.today/pulses/fc209569-dfee-4cac-af72-ba9e7bac71ac/| 
 | 20200628 | Linux下的网络数据包和流量拦截器，可进行ARP欺骗和网络窃听 | https://sec.today/pulses/922091b9-a0ca-44ff-9c4c-2904e62cdf77/| 
+| 20200628 | 使用QASan对二进制文件进行Fuzzing以检查内存安全 | https://andreafioraldi.github.io/assets/qasan-secdev20.pdf| 
+| 20200628 | Linux下的网络数据包和流量拦截器，可进行ARP欺骗和网络窃听 | https://www.kitploit.com/2020/06/espionage-network-packet-and-traffic.html| 
 
 
 # 安全维基 推荐

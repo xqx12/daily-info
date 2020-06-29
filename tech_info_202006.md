@@ -27,6 +27,8 @@
 | 20200628 | Windows10(1909)中超300个系统dll可被DLL劫持攻击 | https://www.bleepingcomputer.com/news/security/almost-300-windows-10-executables-vulnerable-to-dll-hijacking/| 
 | 20200628 | 使用QASan对二进制文件进行Fuzzing以检查内存安全 | https://sec.today/pulses/fc209569-dfee-4cac-af72-ba9e7bac71ac/| 
 | 20200628 | Linux下的网络数据包和流量拦截器，可进行ARP欺骗和网络窃听 | https://sec.today/pulses/922091b9-a0ca-44ff-9c4c-2904e62cdf77/| 
+| 20200628 | 使用QASan对二进制文件进行Fuzzing以检查内存安全 | https://andreafioraldi.github.io/assets/qasan-secdev20.pdf| 
+| 20200628 | Linux下的网络数据包和流量拦截器，可进行ARP欺骗和网络窃听 | https://www.kitploit.com/2020/06/espionage-network-packet-and-traffic.html| 
 | 20200627 | Oracle VirtualBox VHWA UAF 提权漏洞的分析 | https://sec.today/pulses/f5471144-17a7-4c9e-a12a-96822bcaf7d1/| 
 | 20200627 | Bypass Office 365 禁用向外部邮件账户自动转发的安全策略 | https://sec.today/pulses/51ee0021-ddfe-4959-af95-b4f48dc12474/| 
 | 20200627 | ZDI-20-709: Heap Overflow in the NETGEAR Nighthawk R6700 Router | https://sec.today/pulses/8aaa0525-f826-4514-8488-56cc1b8e02ab/| 
@@ -34,8 +36,6 @@
 | 20200627 | F-Secure Labs 推出的攻击检测 Workshop #1 | https://sec.today/pulses/576f66f7-ca13-45ca-9100-835b8a5c2633/| 
 | 20200627 | F-Secure Labs 推出的攻击检测 Workshop #2 | https://sec.today/pulses/9a1baa4d-2a83-4eac-8c71-648b8f753b1d/| 
 | 20200627 | F-Secure Labs 推出的攻击检测 Workshop #3 | https://sec.today/pulses/de27ad58-aede-46a1-8efb-d1581e87a934/| 
-| 20200627 | F-Secure Labs 推出的攻击检测 Workshop #4 | https://sec.today/pulses/cc89812b-88e3-48c5-a7fa-246fb22d0c5a/| 
-| 20200627 | 卡巴斯基对 Magnitude exploit kit 的分析 | https://sec.today/pulses/b0ca11a0-419f-41a2-b3b8-2009c5c03d8b/| 
 
 
 # 安全维基 推荐
