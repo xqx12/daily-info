@@ -1,21 +1,25 @@
 # 互联网安全 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20200629 | Xserver：一款无需拖壳逆向即可解密APP的通信数据包插件 | https://www.freebuf.com/sectool/238841.html| 
+| 20200629 | 攻防演练实战中的若干Tips | https://www.freebuf.com/articles/es/240003.html| 
+| 20200629 | 挖洞经验 , 篡改密码重置的加密参数实现账号劫持研究 | https://www.freebuf.com/vuls/239483.html| 
+| 20200629 | 玖色直播安全情报报告 | https://www.freebuf.com/articles/terminal/239252.html| 
+| 20200629 | FreeBuf早报｜超过4000万个Telegram条目遭到泄露；巴西联邦警察调查发现总统数据泄漏；微博解散112万个涉黄、违法违规内容微博群 | https://www.freebuf.com/news/241381.html| 
+| 20200629 | 浅谈数据安全运营的一亩三分地 | https://www.freebuf.com/articles/database/238364.html| 
 | 20200628 | BurpCrypto: 万能网站密码爆破测试工具 | https://www.freebuf.com/sectool/238272.html| 
 | 20200628 | 云安全市场现状与需求调研 , 给AWS云找找“茬”（上） | https://www.freebuf.com/articles/paper/241272.html| 
 | 20200628 | 14多万条学生的个人信息被泄露 | https://www.freebuf.com/news/241309.html| 
 | 20200628 | 臭名昭著的Fxmsp如何一步步成为“暗网隐形的神” | https://www.freebuf.com/news/241168.html| 
-| 20200628 | 挖洞经验 , 利用系列视频创建功能删除任意Facebook平台图片（$10,000） | https://www.freebuf.com/vuls/239236.html| 
-| 20200628 | “维基解密”创始人被追加起诉与黑客合作窃密，或将面临175年监禁 | https://www.freebuf.com/news/241311.html| 
-| 20200628 | 「京麒安全沙龙」拍了拍你 , 快来康康6月30日的直播活动都有啥！ | https://www.freebuf.com/open/241099.html| 
-| 20200628 | 云WAF如何防止敏感信息泄漏 | https://www.freebuf.com/articles/web/239300.html| 
-| 20200628 | FreeBuf早报｜Apple iOS 14和macOS Big Sur中添加了新的隐私功能；VirusTotal增加了Cynet基于人工智能的恶意软件检测；德法院裁定Facebook需遵守监管命令 | https://www.freebuf.com/news/241133.html| 
-| 20200628 | 某租车系统Java代码审计之后台注入漏洞分析 | https://www.freebuf.com/vuls/238175.html| 
 
 
 # 玄武实验室 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20200629 | Vulnserver Exploit vs Windows Defender Exploit Guard | https://chadduffey.com/2020/06/27/VulnServerVSExploitGuard.html| 
+| 20200629 | Pwn2Own Mobile 2019 NETGEAR R6700v3 UPNP daemon 栈溢出漏洞的分析 | https://github.com/pedrib/PoC/blob/master/advisories/Pwn2Own/Tokyo_2019/tokyo_drift/tokyo_drift.md| 
+| 20200629 | 用 Frida 插桩一款国际象棋游戏 | https://cronop-io.github.io/posts/binary%20analysis/2020-06-25-dreamchess_frida/| 
+| 20200629 | 针对 PostgreSQL 数据库的 CREATE FUNCTION 目录穿越 RCE 漏洞 | https://srcincite.io/blog/2020/06/26/sql-injection-double-uppercut-how-to-achieve-remote-code-execution-against-postgresql.html| 
 | 20200628 | 通过学习挖掘DNS MX记录来以获取流行电子邮件的安全体系研究。 | https://medium.com/@jason_trost/mining-dns-mx-records-for-fun-and-profit-7a069da9ee2d| 
 | 20200628 | FreeDVDBoot-通过对其DVD播放器入侵PlayStation 2安全研究。 | https://cturt.github.io/freedvdboot.html| 
 | 20200628 | APC系列：KiUserApcDispatcher演变与Wow64技术的研究。 | https://repnz.github.io/posts/apc/wow64-user-apc/| 
@@ -32,45 +36,42 @@
 | 20200628 | SMBleedingGhost编写第三部分：从远程读取（SMBleed）到RCE | https://blog.zecops.com/vulnerabilities/smbleedingghost-writeup-part-iii-from-remote-read-smbleed-to-rce/| 
 | 20200628 | BSF-僵尸网络模拟框架 | https://www.kitploit.com/2020/06/bsf-botnet-simulation-framework.html| 
 | 20200628 | 如何在企业中进行外部黑盒渗透测试 | https://gbhackers.com/external-black-box-penetration-testing/| 
-| 20200627 | Oracle VirtualBox VHWA UAF 提权漏洞的分析 | https://sec.today/pulses/f5471144-17a7-4c9e-a12a-96822bcaf7d1/| 
-| 20200627 | Bypass Office 365 禁用向外部邮件账户自动转发的安全策略 | https://sec.today/pulses/51ee0021-ddfe-4959-af95-b4f48dc12474/| 
-| 20200627 | ZDI-20-709: Heap Overflow in the NETGEAR Nighthawk R6700 Router | https://sec.today/pulses/8aaa0525-f826-4514-8488-56cc1b8e02ab/| 
-| 20200627 | 一款用于企业内网辅助渗透的工具 | https://sec.today/pulses/6c788e10-e20a-42b0-a664-563f9672b50e/| 
 
 
 # 安全维基 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20200629 | 攻防演练实战中的若干Tips | https://www.freebuf.com/articles/es/240003.html| 
+| 20200629 | 渗透经验分享之SQL注入思路拓展 | https://xz.aliyun.com/t/7919| 
+| 20200629 | 图卷积神经网络在企业侧网络安全运营中的应用 | https://mp.weixin.qq.com/s/d6fpwQlNBUlBba3spJu3wA| 
+| 20200629 | 红蓝对抗之Windows内网渗透 | https://mp.weixin.qq.com/s/OGiDm3IHBP3_g0AOIHGCKA| 
+| 20200629 | 全球高级持续性威胁（APT）2020年中报告 | https://ti.qianxin.com/uploads/2020/06/29/e4663b4f11f01e5ec8a1a5d91a71dc72.pdf| 
+| 20200629 | 第五空间-WriteUp | https://mp.weixin.qq.com/s/TyJsK5Rkg6MXvADS13RIcA| 
+| 20200629 | 硬件分析的常用工具与基础方法 | https://mp.weixin.qq.com/s/KFm870IFHGEHRnsek9d3lg| 
+| 20200629 | SecWiki周刊（第330期) | https://www.sec-wiki.com/weekly/330| 
 | 20200628 | APT的思考: PowerShell命令混淆高级对抗 | https://mp.weixin.qq.com/s/Sg0LK8emSWP1m-yds4VGrQ| 
 | 20200628 | SPIDER: Enabling Fast Patch Propagation in Related Softwar... | https://securitygossip.com/blog/2020/05/26/spider-enabling-fast-patch-propagation-in-related-software-repositories/| 
-| 20200628 | Recovering Credentials from a Process inside a Docker Cont... | https://blog.pentesteracademy.com/recovering-credentials-from-a-docker-container-process-using-docker-checkpoint-and-gdb-ea22e8898d2b| 
-| 20200628 | Java Deserialization Exploitation With Customized Ysoseria... | https://rhinosecuritylabs.com/research/java-deserializationusing-ysoserial/| 
-| 20200628 | Using SQL Injection to perform SSRF/XSPA attacks | https://ibreak.software/2020/06/using-sql-injection-to-perform-ssrf-xspa-attacks/| 
-| 20200628 | Mining DNS MX Records for Fun and Profit | https://medium.com/@jason_trost/mining-dns-mx-records-for-fun-and-profit-7a069da9ee2d| 
-| 20200627 | PWDB - New generation of Password Mass-Analysis | https://github.com/FlameOfIgnis/Pwdb-Public| 
-| 20200627 | 从0到1学会搭建小型企业拓扑到由外向内的渗透测试 | https://www.anquanke.com/post/id/208992| 
-| 20200627 | 设备固件提取小结 | https://www.freebuf.com/articles/terminal/229567.html| 
-| 20200626 | Tomcat基于Servlet的无文件webshell的相关技术研究 | https://mp.weixin.qq.com/s/gYGrdDtIldzrE7NHSxTDYQ| 
 
 
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20200629T11:38:37Z | CVE-2020-11444 | Exphub[漏洞利用脚本库] 包括Webloigc、Struts2、Tomcat、Nexus、Solr、Jboss、Drupal的漏洞利用脚本，优先更新高危且易利用的漏洞利用脚本，最新添加CVE-2020-11444、CVE-2020-10204、CVE-2020-10199、CVE-2020-1938、CVE-2020-2551、CVE-2020-2555、CVE-2020-2883、CVE-2019-17558、CVE-2019-6340 | https://github.com/zhzyker/exphub | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 58 MINUTES 06 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200629T08:25:46Z | CVE-2020-0688 | Quick tool for checking CVE-2020-0688 on multiple hosts with a non-intrusive method. | https://github.com/onSec-fr/CVE-2020-0688-Scanner | | 
+| 20200629T07:41:12Z | 未知编号 | CVE Data Analysis, CVE Monitor, CVE EXP Prediction Based on Deep Learning. 1999-2020年存量CVE数据分析、监控CVE增量更新、基于深度学习的CVE EXP预测和自动化推送 | https://github.com/404notf0und/CVE-Flow | 未查询到CVE信息| 
+| 20200629T06:18:51Z | CVE-2020-12856 | A bluetooth-related vulnerability in some contact tracing apps | https://github.com/alwentiu/COVIDSafe-CVE-2020-12856 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 58 MINUTES 08 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200629T05:47:07Z | CVE-2020-10665 | POC for CVE-2020-10665 Docker Desktop Local Privilege Escalation | https://github.com/spaceraccoon/CVE-2020-10665 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 58 MINUTES 21 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200629T03:42:34Z | CVE-2020-1948 | Null | https://github.com/ctlyz123/CVE-2020-1948 | 未查询到CVE信息| 
 | 20200629T01:59:39Z | CVE-2020-0787 | Support ALL Windows Version | https://github.com/cbwang505/CVE-2020-0787-EXP-ALL-WINDOWS-VERSION | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  20 HOURS 43 MINUTES 37 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200629T01:37:30Z | CVE-2020-11444 | Exphub[漏洞利用脚本库] 包括Webloigc、Struts2、Tomcat、Nexus、Solr、Jboss、Drupal的漏洞利用脚本，优先更新高危且易利用的漏洞利用脚本，最新添加CVE-2020-11444、CVE-2020-10204、CVE-2020-10199、CVE-2020-1938、CVE-2020-2551、CVE-2020-2555、CVE-2020-2883、CVE-2019-17558、CVE-2019-6340 | https://github.com/zhzyker/exphub | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  20 HOURS 43 MINUTES 30 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200628T20:49:46Z | CVE-2020-10665 | POC for CVE-2020-10665 Docker Desktop Local Privilege Escalation | https://github.com/spaceraccoon/CVE-2020-10665 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  20 HOURS 43 MINUTES 47 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200628T15:22:04Z | CVE-2020-0121 | Null | https://github.com/mooneee/CVE-2020-0121 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  20 HOURS 43 MINUTES 49 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200628T14:23:04Z | 未知编号 | CVE Data Analysis, CVE Monitor, CVE EXP Prediction Based on Deep Learning. 1999-2020年存量CVE数据分析、监控CVE增量更新、基于深度学习的CVE EXP预测和自动化推送 | https://github.com/404notf0und/CVE-Flow | 未查询到CVE信息| 
-| 20200628T13:45:30Z | CVE-2020-12856 | A bluetooth-related vulnerability in some contact tracing apps | https://github.com/alwentiu/COVIDSafe-CVE-2020-12856 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  20 HOURS 43 MINUTES 33 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200628T13:35:45Z | CVE-2020-1948 | Null | https://github.com/ctlyz123/CVE-2020-1948 | 未查询到CVE信息| 
-| 20200628T08:19:59Z | CVE-2020-8163 | CVE-2020-8163 - Remote code execution of user-provided local names in Rails | https://github.com/sh286/CVE-2020-8163 | | 
-| 20200627T06:49:15Z | CVE-2020-1048 | POC exploit code for CVE-2020-1048(PrintDemon) | https://github.com/shubham0d/CVE-2020-1048 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  20 HOURS 43 MINUTES 45 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200626T14:17:11Z | cve-2020-1054 | LPE for CVE-2020-1054 targeting Windows 7 x64 | https://github.com/0xeb-bp/cve-2020-1054 | 当Windows内核模式驱动程序无法正确处理内存中的对象（也称为“ Win32k特权提升漏洞”）时，Windows中将存在特权提升漏洞。此CVE ID从CVE-2020-1143起是唯一的。| 
+| 20200628T15:22:04Z | CVE-2020-0121 | Null | https://github.com/mooneee/CVE-2020-0121 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 58 MINUTES 23 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200628T08:19:59Z | CVE-2020-8163 | CVE-2020-8163 - Remote code execution of user-provided local names in Rails | https://github.com/sh286/CVE-2020-8163 | 未查询到CVE信息| 
+| 20200627T06:49:15Z | CVE-2020-1048 | POC exploit code for CVE-2020-1048(PrintDemon) | https://github.com/shubham0d/CVE-2020-1048 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 58 MINUTES 19 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20200629T05:08:55Z | kleene is a library for building regular expression recognition automata - nfas, dfas, and some specialty structures. | https://github.com/davidkellis/kleene | 0 | 0| 
 | 20200628T03:06:16Z | A simple quine generator (for sed). | https://github.com/Circiter/quine-kleene-generator | 0 | 0| 
 | 20200627T12:53:44Z | Null | https://github.com/thierry-tct/KLEE-SEMu | 0 | 0| 
 | 20200627T10:55:13Z | A 4chan image browser written in SwiftUI | https://github.com/jackpal/KleeneStar | 7 | 0| 
@@ -80,7 +81,6 @@
 | 20200626T17:21:27Z | doctor robin | https://github.com/nondejus/kleefarts | 0 | 0| 
 | 20200626T08:38:34Z | Minecraft Mod. Allows breaking only one half of a double slab block. | https://github.com/blay09/KleeSlabs | 7 | 3| 
 | 20200625T04:17:31Z | Null | https://github.com/ayush-thakur/kleen_email-temp-ate | 0 | 0| 
-| 20200624T03:40:26Z | Lazy python wrapper of KLEE for solving CTF challenges | https://github.com/L4ys/LazyKLEE | 40 | 6| 
 
 
 # s2e on Github 推荐
@@ -88,11 +88,11 @@
 | --- | --- | --- | --- | ---| 
 | 20200626T20:37:42Z | Electrical Power Prediction using Deep learning | https://github.com/chykoushik/S2E-dfki-Electrical-Power-Prediction | 0 | 0| 
 | 20200625T18:50:03Z | This is the archived S2E 1.0 repo. We do not maintain it anymore. | https://github.com/S2E/s2e-old | 302 | 170| 
-| 20200625T18:46:10Z | Your S2E project management tools. Visit https://s2e.systems/docs to get started. | https://github.com/S2E/s2e-env | 62 | 28| 
+| 20200625T18:46:10Z | Your S2E project management tools. Visit https://s2e.systems/docs to get started. | https://github.com/S2E/s2e-env | 62 | 29| 
 | 20200625T18:24:53Z | This is the main S2E repository. Visit https://s2e.systems/docs to get started. | https://github.com/S2E/s2e | 45 | 14| 
 | 20200624T08:36:39Z | cicd logic and gitlab&github runner, centos base ,whith jdk/python/go, maven/npm,/kubectl/helm | https://github.com/chimeh/cicd-s2e-runner | 0 | 0| 
 | 20200624T07:37:13Z | Null | https://github.com/IuliiaZaitova/qualification_task_S2E | 0 | 0| 
-| 20200623T04:44:40Z | WIZnet Serial to Ethernet(S2E) module based on W7500 chip, WIZ107/108SR S2E compatible device | https://github.com/Wiznet/WIZ750SR | 12 | 11| 
+| 20200623T04:44:40Z | WIZnet Serial to Ethernet(S2E) module based on W7500 chip, WIZ107/108SR S2E compatible device | https://github.com/Wiznet/WIZ750SR | 12 | 12| 
 | 20200616T20:34:18Z | S2E website (s2e.systems) | https://github.com/S2E2/s2e2.github.io | 0 | 0| 
 | 20200612T14:58:44Z | Null | https://github.com/chykoushik/S2E-dfki-Predict-the-department-wide-sales-for-each-store | 0 | 0| 
 | 20200608T08:26:45Z | Serial to Ethernet Module based on W5500 & Cortex-M3 | https://github.com/Wiznet/WIZ550SR | 5 | 4| 
@@ -101,16 +101,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20200629T01:56:56Z | Automated All-in-One OS command injection and exploitation tool. | https://github.com/commixproject/commix | 2325 | 542| 
-| 20200629T01:50:31Z | PlayStation 2 DVD Player Exploit | https://github.com/CTurt/FreeDVDBoot | 146 | 11| 
-| 20200629T01:48:44Z | Null | https://github.com/norrismw/exploit-dev | 0 | 0| 
-| 20200629T01:34:05Z | Advanced Windows Exploitation/Offensive Security Exploitation Expert Preparation for Black Hat 2021 | https://github.com/connormcgarr/AWE-OSEE-Prep | 83 | 54| 
-| 20200629T01:22:36Z | Kernel Exploits | https://github.com/connormcgarr/Kernel-Exploits | 0 | 0| 
-| 20200629T01:21:06Z | All things Binary Exploitation, Memory, Assembly and Corruptions. | https://github.com/TeamUnderdawgs/BinaryExploitation-For-CTFs | 1 | 3| 
-| 20200629T01:20:58Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 6628 | 1038| 
-| 20200629T00:51:40Z | This Bufferflow Guide includes instructions and the scripts necessary for Buffer Overflow Exploitation. This guide is a supplement for TheCyberMentor%s walkthrough. Please watch his walkthrough if you%re confused. Feel free to implement Pull Requests or raise Issues. | https://github.com/planetxort/Buffer-Overflow-Guide | 20 | 3| 
-| 20200629T00:37:08Z | Various cosmetics exploits for Minecraft 1.12.2, specifically for the server 2b2t.org | https://github.com/TheAlphaEpsilon/Templar-Cosmetics-Beta | 3 | 1| 
-| 20200628T23:50:57Z | Script to check MikroTik Routers the  WinBox Authentication Bypass Disclosure & RouterOS Jailbreak vulnerabilities | https://github.com/s1l3nt78/MkCheck | 20 | 8| 
+| 20200629T12:00:28Z | Null | https://github.com/jcierocki/ExplorationAndExploitationModels | 0 | 0| 
+| 20200629T11:58:41Z | Brief reports of VulnHub machines exploitation | https://github.com/MPkerberos/Exploited-Machines | 0 | 0| 
+| 20200629T11:52:39Z | Silice is an open source language that simplifies writing complex algorithms fully exploiting FPGA architectures. | https://github.com/sylefeb/Silice | 4 | 0| 
+| 20200629T11:39:46Z | Kernel Exploits | https://github.com/connormcgarr/Kernel-Exploits | 10 | 1| 
+| 20200629T11:35:59Z | This Repository contains the stuff related to windows Active directory environment exploitation | https://github.com/incredibleindishell/Windows-AD-environment-related | 94 | 25| 
+| 20200629T11:17:23Z | Disco-RD - Multi-Platform Discord mod! | https://github.com/FiskDk/discord-security-exploiting | 0 | 0| 
+| 20200629T08:56:11Z | Null | https://github.com/Nikhilthegr8/exploit_development | 2 | 1| 
+| 20200629T07:41:10Z | Paid Exploit made and developed by Ez Mods. For more info, visit: tiny.cc/RobloxEzMods | https://github.com/debug420/Ez-Y-Exploit | 0 | 0| 
+| 20200629T07:03:16Z | All things Binary Exploitation, Memory, Assembly and Corruptions. | https://github.com/TeamUnderdawgs/BinaryExploitation-For-CTFs | 1 | 3| 
+| 20200629T06:49:21Z | Enabling and automating an exploit in Pokémon Tower Battle | https://github.com/manstie/PokemonTowerExploit | 0 | 0| 
 
 
 # backdoor on Github 推荐
@@ -131,16 +131,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20200629T02:01:55Z | FuzzyKnights: Protectors of the Forst - 16bit Adventure | https://github.com/mjnrock/fuzzyknights-arcade | 0 | 0| 
-| 20200629T01:50:06Z | Null | https://github.com/pgh87564231/fuzzy_CD | 1 | 0| 
-| 20200629T01:10:51Z | OSS-Fuzz - continuous fuzzing of open source software. | https://github.com/google/oss-fuzz | 5352 | 1025| 
-| 20200629T00:16:59Z | Null | https://github.com/leodealmeida/fuzzyTrader | 0 | 0| 
-| 20200628T22:17:25Z | Pedal Multiefecto para guitarra electrica (LoopBack, Delay, Fuzz y Wah-wah) | https://github.com/jrosmirez94/Pedal-Multiefecto | 0 | 0| 
-| 20200628T21:10:36Z | Null | https://github.com/renanreboredo/fuzzy-trader | 0 | 0| 
-| 20200628T21:01:06Z | Null | https://github.com/handong32/NicFuzzer | 0 | 0| 
-| 20200628T20:57:23Z | Null | https://github.com/bahadrzeren/InvPendFuzzyController | 0 | 0| 
-| 20200628T20:43:45Z | Null | https://github.com/rrkoti/fuzzy-journey | 0 | 0| 
-| 20200628T19:53:21Z | 🤖 Repeat tests. Repeat tests. Repeat tests. | https://github.com/ehmicky/test-each | 88 | 1| 
+| 20200629T12:00:00Z | Null | https://github.com/d0nskayad/fuzzy-octo-guacamole | 0 | 0| 
+| 20200629T11:34:41Z | Fuzz the vsomeip library | https://github.com/cfanatic/vsomeip-fuzzing | 0 | 0| 
+| 20200629T11:34:13Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 3008 | 687| 
+| 20200629T11:33:49Z | Null | https://github.com/divyanshsethi/fuzzy-octo-disco | 0 | 0| 
+| 20200629T11:28:33Z | 교내 팀 프로젝트 XSearch(xss fuzzer) / python flask / 개발중(2020.04 ~ 06) / nga & jhyeon & seonghyun_park | https://github.com/JHye0n/ync_xss_fuzzer | 0 | 0| 
+| 20200629T10:09:25Z | a File Navigator powered by fzf | https://github.com/SleepyBag/fuzzy-fs | 0 | 0| 
+| 20200629T09:49:28Z | A JavaScript Engine Fuzzer | https://github.com/googleprojectzero/fuzzilli | 945 | 151| 
+| 20200629T08:48:36Z | 参数 , 字典 collections | https://github.com/SmithEcon/Fuzz_dic | 3 | 1| 
+| 20200629T08:39:08Z | Fuzzy Project | https://github.com/Bruck1701/Fuzzy-Trader | 0 | 0| 
+| 20200629T07:57:17Z | A Fuzzing Framework for ESP32 applications | https://github.com/MaxCamillo/esp32-fuzzing-framework | 0 | 0| 
 
 
 
