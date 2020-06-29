@@ -29,13 +29,13 @@
 | 20200628 | Linux下的网络数据包和流量拦截器，可进行ARP欺骗和网络窃听 | https://sec.today/pulses/922091b9-a0ca-44ff-9c4c-2904e62cdf77/| 
 | 20200628 | 使用QASan对二进制文件进行Fuzzing以检查内存安全 | https://andreafioraldi.github.io/assets/qasan-secdev20.pdf| 
 | 20200628 | Linux下的网络数据包和流量拦截器，可进行ARP欺骗和网络窃听 | https://www.kitploit.com/2020/06/espionage-network-packet-and-traffic.html| 
+| 20200628 | SMBleedingGhost编写第三部分：从远程读取（SMBleed）到RCE | https://blog.zecops.com/vulnerabilities/smbleedingghost-writeup-part-iii-from-remote-read-smbleed-to-rce/| 
+| 20200628 | BSF-僵尸网络模拟框架 | https://www.kitploit.com/2020/06/bsf-botnet-simulation-framework.html| 
+| 20200628 | 如何在企业中进行外部黑盒渗透测试 | https://gbhackers.com/external-black-box-penetration-testing/| 
 | 20200627 | Oracle VirtualBox VHWA UAF 提权漏洞的分析 | https://sec.today/pulses/f5471144-17a7-4c9e-a12a-96822bcaf7d1/| 
 | 20200627 | Bypass Office 365 禁用向外部邮件账户自动转发的安全策略 | https://sec.today/pulses/51ee0021-ddfe-4959-af95-b4f48dc12474/| 
 | 20200627 | ZDI-20-709: Heap Overflow in the NETGEAR Nighthawk R6700 Router | https://sec.today/pulses/8aaa0525-f826-4514-8488-56cc1b8e02ab/| 
 | 20200627 | 一款用于企业内网辅助渗透的工具 | https://sec.today/pulses/6c788e10-e20a-42b0-a664-563f9672b50e/| 
-| 20200627 | F-Secure Labs 推出的攻击检测 Workshop #1 | https://sec.today/pulses/576f66f7-ca13-45ca-9100-835b8a5c2633/| 
-| 20200627 | F-Secure Labs 推出的攻击检测 Workshop #2 | https://sec.today/pulses/9a1baa4d-2a83-4eac-8c71-648b8f753b1d/| 
-| 20200627 | F-Secure Labs 推出的攻击检测 Workshop #3 | https://sec.today/pulses/de27ad58-aede-46a1-8efb-d1581e87a934/| 
 
 
 # 安全维基 推荐
@@ -56,15 +56,15 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20200629T01:37:30Z | CVE-2020-11444 | Exphub[漏洞利用脚本库] 包括Webloigc、Struts2、Tomcat、Nexus、Solr、Jboss、Drupal的漏洞利用脚本，优先更新高危且易利用的漏洞利用脚本，最新添加CVE-2020-11444、CVE-2020-10204、CVE-2020-10199、CVE-2020-1938、CVE-2020-2551、CVE-2020-2555、CVE-2020-2883、CVE-2019-17558、CVE-2019-6340 | https://github.com/zhzyker/exphub | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 19 MINUTES 30 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200629T01:24:46Z | CVE-2020-0787 | Support ALL Windows Version | https://github.com/cbwang505/CVE-2020-0787-EXP-ALL-WINDOWS-VERSION | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 19 MINUTES 37 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200628T20:49:46Z | CVE-2020-10665 | POC for CVE-2020-10665 Docker Desktop Local Privilege Escalation | https://github.com/spaceraccoon/CVE-2020-10665 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 19 MINUTES 51 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200628T15:22:04Z | CVE-2020-0121 | Null | https://github.com/mooneee/CVE-2020-0121 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 19 MINUTES 53 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200629T01:37:30Z | CVE-2020-11444 | Exphub[漏洞利用脚本库] 包括Webloigc、Struts2、Tomcat、Nexus、Solr、Jboss、Drupal的漏洞利用脚本，优先更新高危且易利用的漏洞利用脚本，最新添加CVE-2020-11444、CVE-2020-10204、CVE-2020-10199、CVE-2020-1938、CVE-2020-2551、CVE-2020-2555、CVE-2020-2883、CVE-2019-17558、CVE-2019-6340 | https://github.com/zhzyker/exphub | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 17 MINUTES 38 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200629T01:24:46Z | CVE-2020-0787 | Support ALL Windows Version | https://github.com/cbwang505/CVE-2020-0787-EXP-ALL-WINDOWS-VERSION | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 17 MINUTES 45 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200628T20:49:46Z | CVE-2020-10665 | POC for CVE-2020-10665 Docker Desktop Local Privilege Escalation | https://github.com/spaceraccoon/CVE-2020-10665 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 17 MINUTES 53 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200628T15:22:04Z | CVE-2020-0121 | Null | https://github.com/mooneee/CVE-2020-0121 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 17 MINUTES 55 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20200628T14:23:04Z | 未知编号 | CVE Data Analysis, CVE Monitor, CVE EXP Prediction Based on Deep Learning. 1999-2020年存量CVE数据分析、监控CVE增量更新、基于深度学习的CVE EXP预测和自动化推送 | https://github.com/404notf0und/CVE-Flow | 未查询到CVE信息| 
-| 20200628T13:45:30Z | CVE-2020-12856 | A bluetooth-related vulnerability in some contact tracing apps | https://github.com/alwentiu/COVIDSafe-CVE-2020-12856 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 19 MINUTES 32 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200628T13:45:30Z | CVE-2020-12856 | A bluetooth-related vulnerability in some contact tracing apps | https://github.com/alwentiu/COVIDSafe-CVE-2020-12856 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 17 MINUTES 41 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20200628T13:35:45Z | CVE-2020-1948 | Null | https://github.com/ctlyz123/CVE-2020-1948 | 未查询到CVE信息| 
-| 20200628T08:19:59Z | CVE-2020-8163 | CVE-2020-8163 - Remote code execution of user-provided local names in Rails | https://github.com/sh286/CVE-2020-8163 | | 
-| 20200627T06:49:15Z | CVE-2020-1048 | POC exploit code for CVE-2020-1048(PrintDemon) | https://github.com/shubham0d/CVE-2020-1048 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 19 MINUTES 49 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200628T08:19:59Z | CVE-2020-8163 | CVE-2020-8163 - Remote code execution of user-provided local names in Rails | https://github.com/sh286/CVE-2020-8163 | 未查询到CVE信息| 
+| 20200627T06:49:15Z | CVE-2020-1048 | POC exploit code for CVE-2020-1048(PrintDemon) | https://github.com/shubham0d/CVE-2020-1048 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 17 MINUTES 51 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20200626T14:17:11Z | cve-2020-1054 | LPE for CVE-2020-1054 targeting Windows 7 x64 | https://github.com/0xeb-bp/cve-2020-1054 | 当Windows内核模式驱动程序无法正确处理内存中的对象（也称为“ Win32k特权提升漏洞”）时，Windows中将存在特权提升漏洞。此CVE ID从CVE-2020-1143起是唯一的。| 
 
 
@@ -101,7 +101,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20200629T01:34:51Z | PlayStation 2 DVD Player Exploit | https://github.com/CTurt/FreeDVDBoot | 144 | 11| 
+| 20200629T01:40:01Z | PlayStation 2 DVD Player Exploit | https://github.com/CTurt/FreeDVDBoot | 144 | 11| 
 | 20200629T01:34:05Z | Advanced Windows Exploitation/Offensive Security Exploitation Expert Preparation for Black Hat 2021 | https://github.com/connormcgarr/AWE-OSEE-Prep | 83 | 54| 
 | 20200629T01:22:36Z | Kernel Exploits | https://github.com/connormcgarr/Kernel-Exploits | 0 | 0| 
 | 20200629T01:21:06Z | All things Binary Exploitation, Memory, Assembly and Corruptions. | https://github.com/TeamUnderdawgs/BinaryExploitation-For-CTFs | 1 | 3| 
