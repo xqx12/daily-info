@@ -1,52 +1,71 @@
 # 互联网安全 推荐
 | ts | title | url| 
 | --- | --- | ---| 
-| 20200626 | 每天有80000台打印机通过IPP在线曝光 | https://www.freebuf.com/news/241211.html| 
-| 20200626 | Poulight Stealer：来自俄罗斯的窃密恶意软件 | https://www.freebuf.com/articles/others-articles/236232.html| 
-| 20200626 | Himera与AbSent-Loader利用COVID-19传播恶意软件 | https://www.freebuf.com/articles/others-articles/238360.html| 
-| 20200626 | “驱动人生”挖矿病毒再更新，利用“新冠病毒”邮件传播 | https://www.freebuf.com/articles/terminal/238641.html| 
-| 20200626 | 用BurpSuit的Brida自定义插件搞定加密签名算法 | https://www.freebuf.com/sectool/236911.html| 
-| 20200626 | IoT设备网络数据包抓包改包环境搭建分享 | https://www.freebuf.com/sectool/236902.html| 
-| 20200625 | Ligolo：一款专为渗透测试人员设计的反向隧道 | https://www.freebuf.com/articles/network/238998.html| 
-| 20200625 | 伊朗Chafer APT组织攻击分析 | https://www.freebuf.com/articles/network/239296.html| 
-| 20200625 | 脚本系贼寇之风兴起，买卖体系堪比勒索软件 | https://www.freebuf.com/articles/system/238899.html| 
-| 20200625 | 为Elastalert增加参数遍历、周期性检测 | https://www.freebuf.com/sectool/238752.html| 
+| 20200628 | BurpCrypto: 万能网站密码爆破测试工具 | https://www.freebuf.com/sectool/238272.html| 
+| 20200628 | 云安全市场现状与需求调研 , 给AWS云找找“茬”（上） | https://www.freebuf.com/articles/paper/241272.html| 
+| 20200628 | 14多万条学生的个人信息被泄露 | https://www.freebuf.com/news/241309.html| 
+| 20200628 | 臭名昭著的Fxmsp如何一步步成为“暗网隐形的神” | https://www.freebuf.com/news/241168.html| 
+| 20200628 | 挖洞经验 , 利用系列视频创建功能删除任意Facebook平台图片（$10,000） | https://www.freebuf.com/vuls/239236.html| 
+| 20200628 | “维基解密”创始人被追加起诉与黑客合作窃密，或将面临175年监禁 | https://www.freebuf.com/news/241311.html| 
+| 20200628 | 「京麒安全沙龙」拍了拍你 , 快来康康6月30日的直播活动都有啥！ | https://www.freebuf.com/open/241099.html| 
+| 20200628 | 云WAF如何防止敏感信息泄漏 | https://www.freebuf.com/articles/web/239300.html| 
+| 20200628 | FreeBuf早报｜Apple iOS 14和macOS Big Sur中添加了新的隐私功能；VirusTotal增加了Cynet基于人工智能的恶意软件检测；德法院裁定Facebook需遵守监管命令 | https://www.freebuf.com/news/241133.html| 
+| 20200628 | 某租车系统Java代码审计之后台注入漏洞分析 | https://www.freebuf.com/vuls/238175.html| 
 
 
 # 玄武实验室 推荐
 | ts | title | url| 
 | --- | --- | ---| 
-| 20200625 | 针对Necurs僵尸网络的Locky勒索软件使用DDE攻击的分析研究。 | https://isc.sans.edu/forums/diary/Necurs+Botnet+malspam+pushes+Locky+using+DDE+attack/22946/| 
-| 20200625 | 如何使用dotnet-monitor诊断工具介绍，此工具轻松可以分析应用程序。 | https://devblogs.microsoft.com/dotnet/introducing-dotnet-monitor/| 
-| 20200625 | Windows漏洞利用资源以及漏洞利用的网站参考列表总结。 | https://github.com/bb1nfosec/Information-Security-Tasks/blob/master/Post%20Exploitation/Windows%20Exploitation%2C%20post%20exploitation%20sites%20for%20reference| 
+| 20200628 | 通过学习挖掘DNS MX记录来以获取流行电子邮件的安全体系研究。 | https://medium.com/@jason_trost/mining-dns-mx-records-for-fun-and-profit-7a069da9ee2d| 
+| 20200628 | FreeDVDBoot-通过对其DVD播放器入侵PlayStation 2安全研究。 | https://cturt.github.io/freedvdboot.html| 
+| 20200628 | APC系列：KiUserApcDispatcher演变与Wow64技术的研究。 | https://repnz.github.io/posts/apc/wow64-user-apc/| 
+| 20200628 | 在macOS平台下使用Swift做安全开发研究。 | https://medium.com/red-teaming-with-a-blue-team-mentaility/using-macos-internals-for-post-exploitation-b5faaa11e121?source=social.tw&_branch_match_id=805938169909134436| 
+| 20200628 | 如何在AWS Lambda上使用Swift进行开发 | https://github.com/swift-server/swift-aws-lambda-runtime/| 
+| 20200628 | 微软发布免费文件恢复工具 | https://support.microsoft.com/en-in/help/4538642/windows-10-restore-lost-files| 
+| 20200628 | linux内核调试视频教程第三节 | https://www.youtube.com/watch?v=unizGCcZg3Y&feature=youtu.be| 
+| 20200628 | 使用syzkaller对驱动程序进行Fuzzing | https://lwn.net/Articles/824598/rss| 
+| 20200628 | Windows10(1909)中超300个系统dll可被DLL劫持攻击 | https://www.bleepingcomputer.com/news/security/almost-300-windows-10-executables-vulnerable-to-dll-hijacking/| 
+| 20200628 | 使用QASan对二进制文件进行Fuzzing以检查内存安全 | https://sec.today/pulses/fc209569-dfee-4cac-af72-ba9e7bac71ac/| 
+| 20200628 | Linux下的网络数据包和流量拦截器，可进行ARP欺骗和网络窃听 | https://sec.today/pulses/922091b9-a0ca-44ff-9c4c-2904e62cdf77/| 
+| 20200627 | Oracle VirtualBox VHWA UAF 提权漏洞的分析 | https://sec.today/pulses/f5471144-17a7-4c9e-a12a-96822bcaf7d1/| 
+| 20200627 | Bypass Office 365 禁用向外部邮件账户自动转发的安全策略 | https://sec.today/pulses/51ee0021-ddfe-4959-af95-b4f48dc12474/| 
+| 20200627 | ZDI-20-709: Heap Overflow in the NETGEAR Nighthawk R6700 Router | https://sec.today/pulses/8aaa0525-f826-4514-8488-56cc1b8e02ab/| 
+| 20200627 | 一款用于企业内网辅助渗透的工具 | https://sec.today/pulses/6c788e10-e20a-42b0-a664-563f9672b50e/| 
+| 20200627 | F-Secure Labs 推出的攻击检测 Workshop #1 | https://sec.today/pulses/576f66f7-ca13-45ca-9100-835b8a5c2633/| 
+| 20200627 | F-Secure Labs 推出的攻击检测 Workshop #2 | https://sec.today/pulses/9a1baa4d-2a83-4eac-8c71-648b8f753b1d/| 
+| 20200627 | F-Secure Labs 推出的攻击检测 Workshop #3 | https://sec.today/pulses/de27ad58-aede-46a1-8efb-d1581e87a934/| 
+| 20200627 | F-Secure Labs 推出的攻击检测 Workshop #4 | https://sec.today/pulses/cc89812b-88e3-48c5-a7fa-246fb22d0c5a/| 
+| 20200627 | 卡巴斯基对 Magnitude exploit kit 的分析 | https://sec.today/pulses/b0ca11a0-419f-41a2-b3b8-2009c5c03d8b/| 
 
 
 # 安全维基 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20200628 | APT的思考: PowerShell命令混淆高级对抗 | https://mp.weixin.qq.com/s/Sg0LK8emSWP1m-yds4VGrQ| 
+| 20200628 | SPIDER: Enabling Fast Patch Propagation in Related Softwar... | https://securitygossip.com/blog/2020/05/26/spider-enabling-fast-patch-propagation-in-related-software-repositories/| 
+| 20200628 | Recovering Credentials from a Process inside a Docker Cont... | https://blog.pentesteracademy.com/recovering-credentials-from-a-docker-container-process-using-docker-checkpoint-and-gdb-ea22e8898d2b| 
+| 20200628 | Java Deserialization Exploitation With Customized Ysoseria... | https://rhinosecuritylabs.com/research/java-deserializationusing-ysoserial/| 
+| 20200628 | Using SQL Injection to perform SSRF/XSPA attacks | https://ibreak.software/2020/06/using-sql-injection-to-perform-ssrf-xspa-attacks/| 
+| 20200628 | Mining DNS MX Records for Fun and Profit | https://medium.com/@jason_trost/mining-dns-mx-records-for-fun-and-profit-7a069da9ee2d| 
+| 20200627 | PWDB - New generation of Password Mass-Analysis | https://github.com/FlameOfIgnis/Pwdb-Public| 
+| 20200627 | 从0到1学会搭建小型企业拓扑到由外向内的渗透测试 | https://www.anquanke.com/post/id/208992| 
+| 20200627 | 设备固件提取小结 | https://www.freebuf.com/articles/terminal/229567.html| 
 | 20200626 | Tomcat基于Servlet的无文件webshell的相关技术研究 | https://mp.weixin.qq.com/s/gYGrdDtIldzrE7NHSxTDYQ| 
-| 20200626 | 标签传播算法解读 | https://mp.weixin.qq.com/s/dX6CouK7LGNbXsRxRnS26w| 
-| 20200626 | 安全框架之综述 | https://mp.weixin.qq.com/s/4jec18NXjV6UwubzrYgwzg| 
-| 20200625 | 攻防演习-红军的反击 | https://mp.weixin.qq.com/s/WrQa0XoBSak3HM1l650HEg| 
-| 20200625 | Active Directory Exploitation Cheat Sheet | https://github.com/Integration-IT/Active-Directory-Exploitation-Cheat-Sheet| 
-| 20200625 | sqlmap绕过csrf检测进行注入 | https://blog.blankshell.com/2020/06/25/sqlmap%e7%bb%95%e8%bf%87csrf%e6%a3%80%e6%b5%8b%e8%bf%9b%e8%a1%8c%e6%b3%a8%e5%85%a5/| 
-| 20200625 | 自动化测试工具APPium初探 | https://mp.weixin.qq.com/s/wwlqd_kO7vfpP6vTPrW_6Q| 
-| 20200625 | DIMVA 2020 视频列表 | https://www.youtube.com/watch?v=8MM0qif7Qjw&list=PLm_RjVa4jQG9hGaSZQcsWgFO87CA_iTzq| 
 
 
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20200626T23:39:20Z | CVE-2020-10665 | POC for CVE-2020-10665 Docker Desktop Local Privilege Escalation | https://github.com/spaceraccoon/CVE-2020-10665 | Docker Desktop允许将本地特权提升到NT AUTHORITY \ SYSTEM，因为它使用管理员特权对诊断的收集进行了错误处理，从而导致任意DACL权限被覆盖和任意文件写入。这会影响2.1.0.9之前的Docker桌面企业版，2.2.0.4之前的Windows稳定版Docker桌面和2.2.2.0之前的Windows Edge的Docker桌面。| 
-| 20200626T19:56:05Z | CVE-2020-8163 | CVE-2020-8163 - Remote code execution of user-provided local names in Rails | https://github.com/sh286/CVE-2020-8163 | 未查询到CVE信息| 
+| 20200628T20:49:46Z | CVE-2020-10665 | POC for CVE-2020-10665 Docker Desktop Local Privilege Escalation | https://github.com/spaceraccoon/CVE-2020-10665 | Docker Desktop允许将本地特权提升到NT AUTHORITY \ SYSTEM，因为它使用管理员特权对诊断的收集进行了错误处理，从而导致任意DACL权限被覆盖和任意文件写入。这会影响2.1.0.9之前的Docker桌面企业版，2.2.0.4之前的Windows稳定版Docker桌面和2.2.2.0之前的Windows Edge的Docker桌面。| 
+| 20200628T15:22:04Z | CVE-2020-0121 | Null | https://github.com/mooneee/CVE-2020-0121 | 在AppOpsService.java的updateUidProcState中，由于逻辑错误，可能会绕过权限。这可能会导致具有所需的用户执行权限的位置数据的本地信息泄露。不需要用户交互即可进行开发。产品：Android版本：Android-10Android ID：A-148180766| 
+| 20200628T14:23:04Z | 未知编号 | CVE Data Analysis, CVE Monitor, CVE EXP Prediction Based on Deep Learning. 1999-2020年存量CVE数据分析、监控CVE增量更新、基于深度学习的CVE EXP预测和自动化推送 | https://github.com/404notf0und/CVE-Flow | 未查询到CVE信息| 
+| 20200628T13:45:30Z | CVE-2020-12856 | A bluetooth-related vulnerability in some contact tracing apps | https://github.com/alwentiu/COVIDSafe-CVE-2020-12856 | 在iOS和Android上通过COVIDSafe通过v1.0.17，TraceTogether，ABTraceTogether以及其他应用程序使用的OpenTrace，允许远程攻击者进行长期的重新标识攻击，并且可能由于蓝牙的使用而产生未指定的其他影响。| 
+| 20200628T13:35:45Z | CVE-2020-1948 | Null | https://github.com/ctlyz123/CVE-2020-1948 | 未查询到CVE信息| 
+| 20200628T12:34:55Z | CVE-2020-11444 | Exphub[漏洞利用脚本库] 包括Webloigc、Struts2、Tomcat、Nexus、Solr、Jboss、Drupal的漏洞利用脚本，优先更新高危且易利用的漏洞利用脚本，最新添加CVE-2020-11444、CVE-2020-10204、CVE-2020-10199、CVE-2020-1938、CVE-2020-2551、CVE-2020-2555、CVE-2020-2883、CVE-2019-17558、CVE-2019-6340 | https://github.com/zhzyker/exphub | 直至3.21.2（含）的Sonatype Nexus Repository Manager 3.x具有错误的访问控制。| 
+| 20200628T08:19:59Z | CVE-2020-8163 | CVE-2020-8163 - Remote code execution of user-provided local names in Rails | https://github.com/sh286/CVE-2020-8163 | | 
+| 20200628T05:38:01Z | CVE-2020-0787 | Support ALL Windows Version | https://github.com/cbwang505/CVE-2020-0787-EXP-ALL-WINDOWS-VERSION | 当Windows后台智能传输服务（BITS）不正确地处理符号链接时，即“ Windows后台智能传输服务特权提升漏洞”，则存在特权提升漏洞。| 
+| 20200627T06:49:15Z | CVE-2020-1048 | POC exploit code for CVE-2020-1048(PrintDemon) | https://github.com/shubham0d/CVE-2020-1048 | 当Windows Print Spooler服务不正确地允许任意写入文件系统时，即“ Windows Print Spooler特权提升漏洞”，则存在特权提升漏洞。此CVE ID在CVE-2020-1070中是唯一的。| 
 | 20200626T14:17:11Z | cve-2020-1054 | LPE for CVE-2020-1054 targeting Windows 7 x64 | https://github.com/0xeb-bp/cve-2020-1054 | 当Windows内核模式驱动程序无法正确处理内存中的对象（也称为“ Win32k特权提升漏洞”）时，Windows中将存在特权提升漏洞。此CVE ID从CVE-2020-1143起是唯一的。| 
-| 20200626T13:43:34Z | CVE-2020-0787 | Support ALL Windows Version | https://github.com/cbwang505/CVE-2020-0787-EXP-ALL-WINDOWS-VERSION | | 
-| 20200626T12:04:44Z | CVE-2020-14957 |  windows cleaning assistant | https://github.com/y5s5k5/CVE-2020-14957-CVE-2020-14956 | 未查询到CVE信息| 
-| 20200626T11:57:34Z | CVE-2020-14955 | Jiangmin | https://github.com/y5s5k5/CVE-2020-14955 | 在Jiangmin Antivirus 16.0.13.129中，驱动程序文件（KVFG.sys）允许本地用户由于未验证IOCtl 0x220440的输入值而导致拒绝服务（BSOD）或可能产生未指定的其他影响。| 
-| 20200626T11:03:03Z | CVE-2020-1048 | POC exploit code for CVE-2020-1048(PrintDemon) | https://github.com/shubham0d/CVE-2020-1048 | 当Windows Print Spooler服务不正确地允许任意写入文件系统时，即“ Windows Print Spooler特权提升漏洞”，则存在特权提升漏洞。此CVE ID在CVE-2020-1070中是唯一的。| 
-| 20200626T08:36:41Z | CVE-2020-11444 | Exphub[漏洞利用脚本库] 包括Webloigc、Struts2、Tomcat、Nexus、Solr、Jboss、Drupal的漏洞利用脚本，优先更新高危且易利用的漏洞利用脚本，最新添加CVE-2020-11444、CVE-2020-10204、CVE-2020-10199、CVE-2020-1938、CVE-2020-2551、CVE-2020-2555、CVE-2020-2883、CVE-2019-17558、CVE-2019-6340 | https://github.com/zhzyker/exphub | 直至3.21.2（含）的Sonatype Nexus Repository Manager 3.x具有错误的访问控制。| 
-| 20200626T03:41:21Z | CVE-2020-12856 | A bluetooth-related vulnerability in some contact tracing apps | https://github.com/alwentiu/COVIDSafe-CVE-2020-12856 | 在iOS和Android上通过COVIDSafe通过v1.0.17，TraceTogether，ABTraceTogether以及其他应用程序使用的OpenTrace，允许远程攻击者进行长期的重新标识攻击，并且可能由于蓝牙的使用而产生未指定的其他影响。| 
-| 20200624T15:58:56Z | 未知编号 | cve2020-8835 PoC armv7 | https://github.com/KashaMalaga/cve2020-8835 | 未查询到CVE信息| 
 
 
 # klee on Github 推荐
@@ -56,7 +75,7 @@
 | 20200627T12:53:44Z | Null | https://github.com/thierry-tct/KLEE-SEMu | 0 | 0| 
 | 20200627T10:55:13Z | A 4chan image browser written in SwiftUI | https://github.com/jackpal/KleeneStar | 7 | 0| 
 | 20200627T00:00:59Z | Create CFGs and compute complexity metrics for Python, C++, and Java code. | https://github.com/hmc-alpaqa/metrinome | 3 | 0| 
-| 20200626T20:12:37Z | ⬇️ File Upload/sharing application, used by thousands of webmasters since 2007.  | https://github.com/kleeja-official/kleeja | 100 | 32| 
+| 20200626T20:12:37Z | ⬇️ File Upload/sharing application, used by thousands of webmasters since 2007.  | https://github.com/kleeja-official/kleeja | 100 | 33| 
 | 20200626T18:14:55Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1422 | 436| 
 | 20200626T17:21:27Z | doctor robin | https://github.com/nondejus/kleefarts | 0 | 0| 
 | 20200626T08:38:34Z | Minecraft Mod. Allows breaking only one half of a double slab block. | https://github.com/blay09/KleeSlabs | 7 | 3| 
@@ -82,46 +101,46 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20200628T12:59:24Z | A simple exploit of a strcpy | https://github.com/danyopp/BufferOverflow | 0 | 0| 
-| 20200628T12:54:50Z | Null | https://github.com/zinfosec/EXPLOITS | 0 | 0| 
-| 20200628T12:52:20Z | Null | https://github.com/zinfosec/exploits-repo | 0 | 0| 
-| 20200628T12:34:55Z | Exphub[漏洞利用脚本库] 包括Webloigc、Struts2、Tomcat、Nexus、Solr、Jboss、Drupal的漏洞利用脚本，优先更新高危且易利用的漏洞利用脚本，最新添加CVE-2020-11444、CVE-2020-10204、CVE-2020-10199、CVE-2020-1938、CVE-2020-2551、CVE-2020-2555、CVE-2020-2883、CVE-2019-17558、CVE-2019-6340 | https://github.com/zhzyker/exphub | 1020 | 250| 
-| 20200628T12:21:59Z | onifw is a console framework for pentesting | https://github.com/w0bos/onifw | 4 | 0| 
-| 20200628T12:19:11Z | Examples of common 64-bit exploitation techniques on glibc%s memory allocator  | https://github.com/craids/heap-exploit-examples | 0 | 0| 
-| 20200628T11:52:48Z | Some security stuff I learned at École Polytechnique de Montréal. Notion of entropy, cryptography, web security, buffer overflow, KaliLinux, Armitage, nmap, post exploitation etc. | https://github.com/int0TheW1ld/INF4420A | 3 | 1| 
-| 20200628T11:52:02Z | Panda Exploit ( Web Based ) | https://github.com/SkieAdmin/- | 0 | 0| 
-| 20200628T11:00:14Z | Solution to BFS Ekoparty 2019 Exploitation Challenge | https://github.com/ipbits/BFS-Ekoparty-2019 | 0 | 0| 
-| 20200628T10:59:35Z | k8gege.org - K8哥哥%s Blog | https://github.com/k8gege/k8gege.github.io | 8 | 2| 
+| 20200628T23:52:57Z | This Bufferflow Guide includes instructions and the scripts necessary for Buffer Overflow Exploitation. This guide is a supplement for TheCyberMentor%s walkthrough. Please watch his walkthrough if you%re confused. Feel free to implement Pull Requests or raise Issues. | https://github.com/planetxort/Buffer-Overflow-Guide | 20 | 3| 
+| 20200628T23:50:57Z | Script to check MikroTik Routers the  WinBox Authentication Bypass Disclosure & RouterOS Jailbreak vulnerabilities | https://github.com/s1l3nt78/MkCheck | 20 | 8| 
+| 20200628T23:47:27Z | Null | https://github.com/Jb05s/Exploit-Dev-C | 1 | 4| 
+| 20200628T23:31:34Z | Kernel Exploits | https://github.com/connormcgarr/Kernel-Exploits | 0 | 0| 
+| 20200628T23:31:16Z | Solution to BFS Ekoparty 2019 Exploitation Challenge | https://github.com/skogafoss/BFS-Ekoparty-2019 | 0 | 0| 
+| 20200628T23:30:43Z | PlayStation 2 DVD Player Exploit | https://github.com/CTurt/FreeDVDBoot | 139 | 11| 
+| 20200628T23:27:24Z | This repository contains the reports of some of the exercises and project done in my Security course. It includes reports on attacks and exploitation like Buffer Overflow, Integer overflow, Sql Injection, XSS, XSRF. It also includes test automation using Selenium with Java to automate True positive vulnerabilities found on a web app [to be updated]. | https://github.com/mondayevidence/SecurityTesting | 0 | 0| 
+| 20200628T22:26:29Z | single file ctf/exploit client library - python3, type annotated | https://github.com/lunixbochs/mpwn | 36 | 5| 
+| 20200628T22:00:13Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 6629 | 1038| 
+| 20200628T21:53:28Z | Automated All-in-One OS command injection and exploitation tool. | https://github.com/commixproject/commix | 2324 | 542| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20200628T23:28:36Z | Undetectable & Xor encrypting with custom KEY (FUD Metasploit Rat) bypass Top Antivirus like BitDefender,Malwarebytes,Avast,ESET-NOD32,AVG,... & Automatically Add ICON and MANIFEST to excitable | https://github.com/persianhydra/Xeexe-TopAntivirusEvasion | 26 | 10| 
+| 20200628T22:45:33Z | Null | https://github.com/lrjunior123/BackdoorMan | 0 | 0| 
+| 20200628T22:33:24Z | UNIX PAM Backdoor with rolling passwords | https://github.com/moortality/pamdoor | 0 | 0| 
+| 20200628T21:46:11Z | Tool untuk membantu eksploitasi shell di linux target seperti membuat user backdoor dengan akses root, mendapatkan user dan password linux dari memory server dan menghapus jejak dari target server | https://github.com/kurniawandata/xcodeshellexploitation | 1 | 0| 
+| 20200628T21:42:55Z | Script backdoor upload untuk disisipkan pada file php yang ada di website target  | https://github.com/kurniawandata/xcodebackdoorupload | 0 | 0| 
+| 20200628T17:55:10Z | Pupy is an opensource, cross-platform (Windows, Linux, OSX, Android) remote administration and post-exploitation tool mainly written in python | https://github.com/n1nj4sec/pupy | 5623 | 1487| 
+| 20200628T17:38:16Z | A deck-building roguelike cyberpunk game. | https://github.com/uspgamedev/backdoor | 14 | 2| 
+| 20200628T15:59:51Z | Null | https://github.com/X-MarsHall/Shell-Backdoor | 0 | 0| 
+| 20200628T13:59:04Z | Patch PE, ELF, Mach-O binaries with shellcode new version in development, available only to sponsors | https://github.com/secretsquirrel/the-backdoor-factory | 2516 | 703| 
 | 20200628T11:27:40Z | Advanced Attack toolkit, Native C++ RAT, Instagram Brute Force and Password Spraying over Tor, Mass Emailer, Malicious file Sentinel and more. | https://github.com/quantumcored/paradoxia | 121 | 20| 
-| 20200628T10:14:16Z | A deck-building roguelike cyberpunk game. | https://github.com/uspgamedev/backdoor | 12 | 2| 
-| 20200628T07:11:21Z | A curated list of awesome backdoor learning research | https://github.com/THUYimingLi/awesome-backdoor-learning | 6 | 0| 
-| 20200628T06:31:27Z | Pupy is an opensource, cross-platform (Windows, Linux, OSX, Android) remote administration and post-exploitation tool mainly written in python | https://github.com/n1nj4sec/pupy | 5623 | 1486| 
-| 20200628T05:51:56Z | Multi-client Cross-platform Python Backdoor/Reverse Shell/RAT with AES Encryption | https://github.com/Y4hL/PyDoor | 15 | 9| 
-| 20200628T04:46:44Z | Ghost Framework is an Android post-exploitation framework that exploits the Android Debug Bridge to remotely access an Android device. Ghost Framework gives you the power and convenience of remote Android device administration. | https://github.com/entynetproject/ghost | 575 | 283| 
-| 20200628T04:10:28Z | Mouse Framework is an iOS and macOS post-exploitation framework that gives you a command line session with extra functionality between you and a target machine using only a simple Mouse payload. Mouse gives you the power and convenience of uploading and downloading files, tab completion, taking pictures, location tracking, shell command execution, escalating privileges, password retrieval, and much more. | https://github.com/entynetproject/mouse | 166 | 63| 
-| 20200628T02:27:31Z | Test | https://github.com/HammannFree/BackDoor | 0 | 0| 
-| 20200628T02:26:54Z | Undetectable & Xor encrypting with custom KEY (FUD Metasploit Rat) bypass Top Antivirus like BitDefender,Malwarebytes,Avast,ESET-NOD32,AVG,... & Automatically Add ICON and MANIFEST to excitable | https://github.com/persianhydra/Xeexe-TopAntivirusEvasion | 23 | 10| 
-| 20200627T22:21:18Z | UNIX PAM Backdoor with rolling passwords | https://github.com/moortality/pamdoor | 0 | 0| 
 
 
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20200628T12:57:30Z | approximate string matching. | https://github.com/amirouche/fuzzbuzz | 1 | 0| 
-| 20200628T12:52:17Z | Fastest recursive HTTP fuzzer, like a Ferrari. | https://github.com/riza/medusa | 19 | 0| 
-| 20200628T12:40:48Z | A Fuzzing Framework for ESP32 applications | https://github.com/MaxCamillo/esp32-fuzzing-framework | 0 | 0| 
-| 20200628T12:33:32Z | Clientside vulnerability / reflected xss fuzzer | https://github.com/FlameOfIgnis/puff | 18 | 1| 
-| 20200628T12:24:37Z | State learner tool for DTLS which uses TLS-Attacker | https://github.com/assist-project/dtls-fuzzer | 2 | 0| 
-| 20200628T11:13:44Z | Null | https://github.com/ottypes/fuzzer | 12 | 2| 
-| 20200628T10:42:21Z | Null | https://github.com/lamisabin/fuzzy-robot- | 0 | 0| 
-| 20200628T08:37:10Z | RTSPhuzz - An RTSP Fuzzer written using the Boofuzz framework | https://github.com/IncludeSecurity/RTSPhuzz | 8 | 1| 
-| 20200628T07:58:30Z | Anything about kernel security.  CTF kernel pwn, kernel exploit, kernel fuzz and kernel defense paper, kernel debugging technique, kernel CVE debug. | https://github.com/bsauce/kernel-security-learning | 77 | 9| 
-| 20200628T07:52:26Z | Null | https://github.com/shobaseprg/fuzz_bizz_problem | 0 | 0| 
+| 20200628T22:17:25Z | Pedal Multiefecto para guitarra electrica (LoopBack, Delay, Fuzz y Wah-wah) | https://github.com/jrosmirez94/Pedal-Multiefecto | 0 | 0| 
+| 20200628T21:10:36Z | Null | https://github.com/renanreboredo/fuzzy-trader | 0 | 0| 
+| 20200628T21:01:06Z | Null | https://github.com/handong32/NicFuzzer | 0 | 0| 
+| 20200628T20:57:23Z | Null | https://github.com/bahadrzeren/InvPendFuzzyController | 0 | 0| 
+| 20200628T20:43:45Z | Null | https://github.com/rrkoti/fuzzy-journey | 0 | 0| 
+| 20200628T19:53:21Z | 🤖 Repeat tests. Repeat tests. Repeat tests. | https://github.com/ehmicky/test-each | 88 | 1| 
+| 20200628T19:47:07Z | Null | https://github.com/BayooG/fuzzy-robot-avoding-obstacles | 1 | 0| 
+| 20200628T19:33:57Z | Null | https://github.com/leodealmeida/fuzzyTrader | 0 | 0| 
+| 20200628T19:08:42Z | Personal website of Laurence Hughes | https://github.com/fuzzylogicxx/fuzzylogic | 4 | 1| 
+| 20200628T18:17:36Z | Fuzzy System for Warehouse Ordering System | https://github.com/mariusraht1/AI_2_FuzzySystem | 0 | 0| 
 
 
 
