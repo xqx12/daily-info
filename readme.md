@@ -48,12 +48,12 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20200628T20:49:46Z | CVE-2020-10665 | POC for CVE-2020-10665 Docker Desktop Local Privilege Escalation | https://github.com/spaceraccoon/CVE-2020-10665 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  20 HOURS 49 MINUTES 51 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200628T15:22:04Z | CVE-2020-0121 | Null | https://github.com/mooneee/CVE-2020-0121 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  20 HOURS 49 MINUTES 53 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200628T20:49:46Z | CVE-2020-10665 | POC for CVE-2020-10665 Docker Desktop Local Privilege Escalation | https://github.com/spaceraccoon/CVE-2020-10665 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  20 HOURS 43 MINUTES 47 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200628T15:22:04Z | CVE-2020-0121 | Null | https://github.com/mooneee/CVE-2020-0121 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  20 HOURS 43 MINUTES 49 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20200628T14:23:04Z | 未知编号 | CVE Data Analysis, CVE Monitor, CVE EXP Prediction Based on Deep Learning. 1999-2020年存量CVE数据分析、监控CVE增量更新、基于深度学习的CVE EXP预测和自动化推送 | https://github.com/404notf0und/CVE-Flow | 未查询到CVE信息| 
-| 20200628T13:45:30Z | CVE-2020-12856 | A bluetooth-related vulnerability in some contact tracing apps | https://github.com/alwentiu/COVIDSafe-CVE-2020-12856 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  20 HOURS 49 MINUTES 37 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200628T13:45:30Z | CVE-2020-12856 | A bluetooth-related vulnerability in some contact tracing apps | https://github.com/alwentiu/COVIDSafe-CVE-2020-12856 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  20 HOURS 43 MINUTES 33 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20200628T13:35:45Z | CVE-2020-1948 | Null | https://github.com/ctlyz123/CVE-2020-1948 | 未查询到CVE信息| 
-| 20200628T08:19:59Z | CVE-2020-8163 | CVE-2020-8163 - Remote code execution of user-provided local names in Rails | https://github.com/sh286/CVE-2020-8163 | 未查询到CVE信息| 
+| 20200628T08:19:59Z | CVE-2020-8163 | CVE-2020-8163 - Remote code execution of user-provided local names in Rails | https://github.com/sh286/CVE-2020-8163 | | 
 
 
 # klee on Github 推荐
@@ -75,11 +75,11 @@
 | 20200628T23:31:16Z | Solution to BFS Ekoparty 2019 Exploitation Challenge | https://github.com/skogafoss/BFS-Ekoparty-2019 | 0 | 0| 
 | 20200628T23:27:24Z | This repository contains the reports of some of the exercises and project done in my Security course. It includes reports on attacks and exploitation like Buffer Overflow, Integer overflow, Sql Injection, XSS, XSRF. It also includes test automation using Selenium with Java to automate True positive vulnerabilities found on a web app [to be updated]. | https://github.com/mondayevidence/SecurityTesting | 0 | 0| 
 | 20200628T22:26:29Z | single file ctf/exploit client library - python3, type annotated | https://github.com/lunixbochs/mpwn | 36 | 5| 
-| 20200628T21:53:28Z | Automated All-in-One OS command injection and exploitation tool. | https://github.com/commixproject/commix | 2324 | 542| 
 | 20200628T21:44:03Z | Exploitation Framework for Embedded Devices | https://github.com/threat9/routersploit | 8102 | 1772| 
 | 20200628T21:34:54Z | *Frequently Updated. Sifter is a osint, recon & vulnerability scanner. It combines a plethara of tools within different module sets in order to quickly perform recon tasks, check network firewalling, enumerate remote and local hosts, and scan for the %blue% vulnerabilities within microsft and if unpatched, exploit them.  It uses tools like blackwidow and konan for webdir enumeration and attack surface mapping rapidly using ASM.  | https://github.com/s1l3nt78/sifter | 155 | 55| 
 | 20200628T21:07:25Z | This is an academic project, which aims to exploit PIC18 microcontroller%s capabilities for realtime control operations | https://github.com/oulkaid/Robot-Path-Programming-With-PIC18F45K22 | 0 | 0| 
 | 20200628T20:50:04Z | Disco-RD - Multi-Platform Discord mod! | https://github.com/FiskDk/discord-security-exploiting | 0 | 0| 
+| 20200628T19:14:25Z | Filter for Adblock Plus, uBlock Origin, etc. for scam, phishing, deceptive content, exploit, and tech support scam sites. PLEASE SUBMIT PULL REQUESTS TO THE %hexxiumthreatlist.txt% FILE! | https://github.com/HexxiumCreations/threat-list | 11 | 6| 
 
 
 # backdoor on Github 推荐
