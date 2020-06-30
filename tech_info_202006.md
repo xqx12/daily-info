@@ -56,16 +56,16 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20200629T23:45:12Z | CVE-2020-11444 | Exphub[漏洞利用脚本库] 包括Webloigc、Struts2、Tomcat、Nexus、Solr、Jboss、Drupal的漏洞利用脚本，优先更新高危且易利用的漏洞利用脚本，最新添加CVE-2020-11444、CVE-2020-10204、CVE-2020-10199、CVE-2020-1938、CVE-2020-2551、CVE-2020-2555、CVE-2020-2883、CVE-2019-17558、CVE-2019-6340 | https://github.com/zhzyker/exphub | 直至3.21.2（含）的Sonatype Nexus Repository Manager 3.x具有错误的访问控制。| 
-| 20200629T19:44:47Z | CVE-2020-2021 | CVE-2020-2021 | https://github.com/mr-r3b00t/CVE-2020-2021 | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS 在这种情况下，这是一个严重严重漏洞，其CVSS基本分数为10.0（CVSS：3.1 / AV：N / AC：L / PR：N / UI：N / S：C / C：H / I：H / A： H）。如果仅可通过受限管理网络访问Web界面，则问题将降低为CVSS基本分数9.6（CVSS：3.1 / AV：A / AC：L / PR：N / UI：N / S：C / C：H / I：H / A：H）。 Palo Alto Networks不知道有任何恶意尝试利用此漏洞。| 
-| 20200629T16:35:31Z | CVE-2020-13158 | CVE-2020-13158 - Artica Proxy before 4.30.000000 Community Edition allows Directory Traversal  | https://github.com/InfoSec4Fun/CVE-2020-13158 | 4.30.000000 Community Edition之前的Artica Proxy允许通过fw.progrss.details.php弹出参数进行目录遍历。| 
+| 20200629T23:45:12Z | CVE-2020-11444 | Exphub[漏洞利用脚本库] 包括Webloigc、Struts2、Tomcat、Nexus、Solr、Jboss、Drupal的漏洞利用脚本，优先更新高危且易利用的漏洞利用脚本，最新添加CVE-2020-11444、CVE-2020-10204、CVE-2020-10199、CVE-2020-1938、CVE-2020-2551、CVE-2020-2555、CVE-2020-2883、CVE-2019-17558、CVE-2019-6340 | https://github.com/zhzyker/exphub | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 55 MINUTES 17 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200629T19:44:47Z | CVE-2020-2021 | CVE-2020-2021 | https://github.com/mr-r3b00t/CVE-2020-2021 | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 54 MINUTES 44 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200629T16:35:31Z | CVE-2020-13158 | CVE-2020-13158 - Artica Proxy before 4.30.000000 Community Edition allows Directory Traversal  | https://github.com/InfoSec4Fun/CVE-2020-13158 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 55 MINUTES 30 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20200629T16:32:35Z | CVE-2020-8163 | CVE-2020-8163 - Remote code execution of user-provided local names in Rails | https://github.com/sh286/CVE-2020-8163 | 未查询到CVE信息| 
-| 20200629T14:15:28Z | CVE-2020-0688 | Quick tool for checking CVE-2020-0688 on multiple hosts with a non-intrusive method. | https://github.com/onSec-fr/CVE-2020-0688-Scanner | | 
+| 20200629T14:15:28Z | CVE-2020-0688 | Quick tool for checking CVE-2020-0688 on multiple hosts with a non-intrusive method. | https://github.com/onSec-fr/CVE-2020-0688-Scanner | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 55 MINUTES 16 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20200629T11:42:13Z | CVE-2020-12695 | Vulnerability checker for Callstranger (CVE-2020-12695) | https://github.com/yunuscadirci/CallStranger | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 52 MINUTES 22 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20200629T08:32:46Z | CVE-2020-1066 | CVE-2020-1066-EXP支持Windows 7和Windows Server 2008 R2操作系统 | https://github.com/cbwang505/CVE-2020-1066-EXP | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 52 MINUTES 19 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20200629T07:41:12Z | 未知编号 | CVE Data Analysis, CVE Monitor, CVE EXP Prediction Based on Deep Learning. 1999-2020年存量CVE数据分析、监控CVE增量更新、基于深度学习的CVE EXP预测和自动化推送 | https://github.com/404notf0und/CVE-Flow | 未查询到CVE信息| 
 | 20200629T07:40:46Z | CVE-2020-0787 | Support ALL Windows Version | https://github.com/cbwang505/CVE-2020-0787-EXP-ALL-WINDOWS-VERSION | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 52 MINUTES 24 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200629T06:18:51Z | CVE-2020-12856 | A bluetooth-related vulnerability in some contact tracing apps | https://github.com/alwentiu/COVIDSafe-CVE-2020-12856 | 在iOS和Android上通过COVIDSafe通过v1.0.17，TraceTogether，ABTraceTogether以及其他应用程序使用的OpenTrace，允许远程攻击者进行长期的重新标识攻击，并且可能由于蓝牙的使用而产生未指定的其他影响。| 
+| 20200629T06:18:51Z | CVE-2020-12856 | A bluetooth-related vulnerability in some contact tracing apps | https://github.com/alwentiu/COVIDSafe-CVE-2020-12856 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 55 MINUTES 20 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 
 
 # klee on Github 推荐
@@ -101,16 +101,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20200629T12:59:52Z | PlayStation 2 DVD Player Exploit | https://github.com/CTurt/FreeDVDBoot | 205 | 14| 
-| 20200629T12:47:22Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 2 | 1| 
-| 20200629T12:45:08Z | Brief reports of VulnHub machines exploitation | https://github.com/MPkerberos/Exploited-Machines | 0 | 0| 
-| 20200629T12:41:57Z | Silice is an open source language that simplifies writing complex algorithms fully exploiting FPGA architectures. | https://github.com/sylefeb/Silice | 6 | 0| 
-| 20200629T12:40:56Z | Null | https://github.com/jcierocki/ExplorationAndExploitationModels | 0 | 0| 
-| 20200629T12:35:12Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 6629 | 1038| 
-| 20200629T12:33:14Z | TouDoum a python scanner for memcached, dns and ntp DDOS exploit with udp | https://github.com/msterhuj/TouDoum-DDoS-Exploit | 0 | 0| 
-| 20200629T12:11:57Z | Exploits developed by me. | https://github.com/mikaelkall/exploits | 25 | 17| 
-| 20200629T12:04:02Z | Null | https://github.com/hexcellents/sss-exploit | 2 | 0| 
-| 20200629T11:39:46Z | Kernel Exploits | https://github.com/connormcgarr/Kernel-Exploits | 10 | 1| 
+| 20200630T00:05:08Z | Exploits archive | https://github.com/ricardomaia/exploits | 0 | 0| 
+| 20200630T00:03:36Z | PlayStation 2 DVD Player Exploit | https://github.com/CTurt/FreeDVDBoot | 455 | 27| 
+| 20200629T23:56:27Z | Null | https://github.com/Jb05s/Exploit-Dev-C | 2 | 4| 
+| 20200629T23:54:01Z | Silice is an open source language that simplifies writing algorithms fully exploiting FPGA architectures. | https://github.com/sylefeb/Silice | 61 | 2| 
+| 20200629T23:46:54Z | Source code from Hacking: The Art of Exploitation, 2nd Edition | https://github.com/amenasec/Hacking-The-Art-of-Exploitation | 0 | 0| 
+| 20200629T23:45:12Z | Exphub[漏洞利用脚本库] 包括Webloigc、Struts2、Tomcat、Nexus、Solr、Jboss、Drupal的漏洞利用脚本，优先更新高危且易利用的漏洞利用脚本，最新添加CVE-2020-11444、CVE-2020-10204、CVE-2020-10199、CVE-2020-1938、CVE-2020-2551、CVE-2020-2555、CVE-2020-2883、CVE-2019-17558、CVE-2019-6340 | https://github.com/zhzyker/exphub | 1046 | 255| 
+| 20200629T23:35:59Z | A simple example of a Multi-OS BTC malware that exploits the clipboard using Python 3 | https://github.com/PurityWasHere/BTCClipperMalware | 0 | 0| 
+| 20200629T23:30:31Z | Go deep or broad? Exploit hybrid network architecture for weakly supervised object classiﬁcation and localization. | https://github.com/GuangqianGuo/DB-HbridNet | 0 | 0| 
+| 20200629T23:00:13Z | FOCUS is a context-aware collaborative-filtering system that exploits cross relationships among OSS projects to suggest the inclusion of additional API invocations and concrete API usage patterns. | https://github.com/crossminer/FOCUS | 5 | 7| 
+| 20200629T22:58:07Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 6637 | 1039| 
 
 
 # backdoor on Github 推荐
