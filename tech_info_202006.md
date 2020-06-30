@@ -1,41 +1,41 @@
 # 互联网安全 推荐
 | ts | title | url| 
 | --- | --- | ---| 
-| 20200629 | Xserver：一款无需拖壳逆向即可解密APP的通信数据包插件 | https://www.freebuf.com/sectool/238841.html| 
-| 20200629 | 攻防演练实战中的若干Tips | https://www.freebuf.com/articles/es/240003.html| 
-| 20200629 | 挖洞经验 , 篡改密码重置的加密参数实现账号劫持研究 | https://www.freebuf.com/vuls/239483.html| 
-| 20200629 | 玖色直播安全情报报告 | https://www.freebuf.com/articles/terminal/239252.html| 
-| 20200629 | FreeBuf早报｜超过4000万个Telegram条目遭到泄露；巴西联邦警察调查发现总统数据泄漏；微博解散112万个涉黄、违法违规内容微博群 | https://www.freebuf.com/news/241381.html| 
-| 20200629 | 浅谈数据安全运营的一亩三分地 | https://www.freebuf.com/articles/database/238364.html| 
-| 20200628 | BurpCrypto: 万能网站密码爆破测试工具 | https://www.freebuf.com/sectool/238272.html| 
-| 20200628 | 云安全市场现状与需求调研 , 给AWS云找找“茬”（上） | https://www.freebuf.com/articles/paper/241272.html| 
-| 20200628 | 14多万条学生的个人信息被泄露 | https://www.freebuf.com/news/241309.html| 
-| 20200628 | 臭名昭著的Fxmsp如何一步步成为“暗网隐形的神” | https://www.freebuf.com/news/241168.html| 
+| 20200630 | 印度禁封59款中国App，微博、微信、TikTok等接连中招 | https://www.freebuf.com/news/241585.html| 
+| 20200630 | Spray：一款功能强大的活动目录凭证密码喷射工具 | https://www.freebuf.com/sectool/238863.html| 
+| 20200630 | 云安全市场现状与需求调研 , 给AWS云找找“茬”（下） | https://www.freebuf.com/articles/paper/241281.html| 
+| 20200630 | NBA巨星詹姆斯遭黑客威胁，公开所有秘密？ | https://www.freebuf.com/news/241550.html| 
+| 20200630 | 【FreeBuf字幕组】HackerOne优秀白帽黑客采访系列：Douglas Day | https://www.freebuf.com/video/241556.html| 
+| 20200630 | TrickBot新组件Nworm分析 | https://www.freebuf.com/articles/network/239375.html| 
+| 20200630 | PAN OS操作系统曝“10分”罕见漏洞，需立即修复 | https://www.freebuf.com/news/241526.html| 
+| 20200630 | 一文带你了解溢出漏洞 | https://www.freebuf.com/sectool/239706.html| 
+| 20200630 | FreeBuf精品公开课讲师招募 , 确认过眼神，你就是对的人！ | https://www.freebuf.com/open/225470.html| 
+| 20200630 | Volatility取证使用笔记 | https://www.freebuf.com/sectool/236591.html| 
 
 
 # 玄武实验室 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20200630 | Windows 处理 LNK search 文件格式时的拒绝服务 Bug 分析 | https://ezqelusia.blogspot.com/2020/06/some-dos-bugs-while-processing.html| 
+| 20200630 | Android 11 版本在安全性和隐私保护方面的改进 | https://security.googleblog.com/2020/06/11-weeks-of-android-privacy-and-security_29.html?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+GoogleOnlineSecurityBlog+%28Google+Online+Security+Blog%29| 
+| 20200630 | CVE-2019-5786 漏洞原理分析及利用 | https://paper.seebug.org/1257/| 
+| 20200630 | Learn XPC exploitation - Part 3: Code injections | https://wojciechregula.blog/post/learn-xpc-exploitation-part-3-code-injections/| 
+| 20200630 | IT 资产管理软件 CS Inventory NG v2.7 被发现 RCE 漏洞 | https://shells.systems/ocs-inventory-ng-v2-7-remote-command-execution-cve-2020-14947/| 
+| 20200630 | 将于 8 月份举办的 USENIX Security 20 会议的议题列表公开了 | https://www.usenix.org/conference/usenixsecurity20/technical-sessions| 
+| 20200630 | 0CTF的Chromium Fullchain题目，如何利用PartitionAlloc进行沙箱逃逸 | https://blog.perfect.blue/Chromium-Fullchain| 
+| 20200630 | Frida 12.10已经发布！ | https://frida.re/news/2020/06/29/frida-12-10-released/| 
+| 20200630 | TrickBot加密分析与破解 | https://zero2auto.com/2020/06/22/decrypting-trickbot-crypter/| 
+| 20200630 | 实用FRIDA进行内存fuzzing | https://sec.today/pulses/d33c0dbd-6f42-4ae8-a441-1414b140a5ec/| 
+| 20200630 | 可释放出VindInstaller广告软件的新型MacOS恶意软件分析 | https://sec.today/pulses/8603172f-f7a0-4028-8cec-c7bda13f325a/| 
+| 20200630 | 如何利用FRIDA提取Android应用程序程序源码和绕过SSL Pinning | https://sec.today/pulses/cec47160-480b-46cf-bb3e-24405d70b32c/| 
+| 20200630 | 基于YAML格式的云端攻击框架Leonidas发布 | https://sec.today/pulses/35f20610-5388-4699-8c37-73184289fe8a/| 
+| 20200630 | 移动安全项目RMS更新至1.3.2，更新了文件管理系统、控制台日志管理和增加了新的自定义Frida脚本（SSL Pinning和root绕过） | https://sec.today/pulses/2fcc9240-19e3-433c-a0b5-2f41f2784394/| 
 | 20200629 | Vulnserver Exploit vs Windows Defender Exploit Guard | https://chadduffey.com/2020/06/27/VulnServerVSExploitGuard.html| 
 | 20200629 | Pwn2Own Mobile 2019 NETGEAR R6700v3 UPNP daemon 栈溢出漏洞的分析 | https://github.com/pedrib/PoC/blob/master/advisories/Pwn2Own/Tokyo_2019/tokyo_drift/tokyo_drift.md| 
 | 20200629 | 用 Frida 插桩一款国际象棋游戏 | https://cronop-io.github.io/posts/binary%20analysis/2020-06-25-dreamchess_frida/| 
 | 20200629 | 针对 PostgreSQL 数据库的 CREATE FUNCTION 目录穿越 RCE 漏洞 | https://srcincite.io/blog/2020/06/26/sql-injection-double-uppercut-how-to-achieve-remote-code-execution-against-postgresql.html| 
 | 20200629 | 检测RunDLL32 ATT＆CK技术研究。 | https://dfirtnt.wordpress.com/2020/06/28/detecting-rundll32-attck-techniques/| 
 | 20200629 | 使用PowerShell日志记录进行模糊处理化测试。 | https://www.securityinbits.com/malware-analysis/deobfuscate-powershell-using-powershell-logging/| 
-| 20200628 | 通过学习挖掘DNS MX记录来以获取流行电子邮件的安全体系研究。 | https://medium.com/@jason_trost/mining-dns-mx-records-for-fun-and-profit-7a069da9ee2d| 
-| 20200628 | FreeDVDBoot-通过对其DVD播放器入侵PlayStation 2安全研究。 | https://cturt.github.io/freedvdboot.html| 
-| 20200628 | APC系列：KiUserApcDispatcher演变与Wow64技术的研究。 | https://repnz.github.io/posts/apc/wow64-user-apc/| 
-| 20200628 | 在macOS平台下使用Swift做安全开发研究。 | https://medium.com/red-teaming-with-a-blue-team-mentaility/using-macos-internals-for-post-exploitation-b5faaa11e121?source=social.tw&_branch_match_id=805938169909134436| 
-| 20200628 | 如何在AWS Lambda上使用Swift进行开发 | https://github.com/swift-server/swift-aws-lambda-runtime/| 
-| 20200628 | 微软发布免费文件恢复工具 | https://support.microsoft.com/en-in/help/4538642/windows-10-restore-lost-files| 
-| 20200628 | linux内核调试视频教程第三节 | https://www.youtube.com/watch?v=unizGCcZg3Y&feature=youtu.be| 
-| 20200628 | 使用syzkaller对驱动程序进行Fuzzing | https://lwn.net/Articles/824598/rss| 
-| 20200628 | Windows10(1909)中超300个系统dll可被DLL劫持攻击 | https://www.bleepingcomputer.com/news/security/almost-300-windows-10-executables-vulnerable-to-dll-hijacking/| 
-| 20200628 | 使用QASan对二进制文件进行Fuzzing以检查内存安全 | https://sec.today/pulses/fc209569-dfee-4cac-af72-ba9e7bac71ac/| 
-| 20200628 | Linux下的网络数据包和流量拦截器，可进行ARP欺骗和网络窃听 | https://sec.today/pulses/922091b9-a0ca-44ff-9c4c-2904e62cdf77/| 
-| 20200628 | 使用QASan对二进制文件进行Fuzzing以检查内存安全 | https://andreafioraldi.github.io/assets/qasan-secdev20.pdf| 
-| 20200628 | Linux下的网络数据包和流量拦截器，可进行ARP欺骗和网络窃听 | https://www.kitploit.com/2020/06/espionage-network-packet-and-traffic.html| 
-| 20200628 | SMBleedingGhost编写第三部分：从远程读取（SMBleed）到RCE | https://blog.zecops.com/vulnerabilities/smbleedingghost-writeup-part-iii-from-remote-read-smbleed-to-rce/| 
 
 
 # 安全维基 推荐
@@ -56,31 +56,31 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20200630T01:00:36Z | CVE-2020-11444 | Exphub[漏洞利用脚本库] 包括Webloigc、Struts2、Tomcat、Nexus、Solr、Jboss、Drupal的漏洞利用脚本，优先更新高危且易利用的漏洞利用脚本，最新添加CVE-2020-11444、CVE-2020-10204、CVE-2020-10199、CVE-2020-1938、CVE-2020-2551、CVE-2020-2555、CVE-2020-2883、CVE-2019-17558、CVE-2019-6340 | https://github.com/zhzyker/exphub | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  20 HOURS 59 MINUTES 29 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200630T11:43:33Z | CVE-2020-11444 | Exphub[漏洞利用脚本库] 包括Webloigc、Struts2、Tomcat、Nexus、Solr、Jboss、Drupal的漏洞利用脚本，优先更新高危且易利用的漏洞利用脚本，最新添加CVE-2020-11444、CVE-2020-10204、CVE-2020-10199、CVE-2020-1938、CVE-2020-2551、CVE-2020-2555、CVE-2020-2883、CVE-2019-17558、CVE-2019-6340 | https://github.com/zhzyker/exphub | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 58 MINUTES 11 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200630T11:04:21Z | CVE-2020-2021 | CVE-2020-2021 | https://github.com/mr-r3b00t/CVE-2020-2021 | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 57 MINUTES 49 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200630T10:10:55Z | CVE-2020-1948 | Null | https://github.com/ctlyz123/CVE-2020-1948 | 未查询到CVE信息| 
+| 20200630T07:15:44Z | cve-2020-0688 | cve-2020-0688 | https://github.com/Ridter/cve-2020-0688 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 58 MINUTES 09 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200630T06:37:33Z | CVE-2020-10665 | POC for CVE-2020-10665 Docker Desktop Local Privilege Escalation | https://github.com/spaceraccoon/CVE-2020-10665 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 57 MINUTES 46 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20200630T00:46:06Z | CVE-2020-8163 | CVE-2020-8163 - Remote code execution of user-provided local names in Rails | https://github.com/sh286/CVE-2020-8163 | 未查询到CVE信息| 
-| 20200629T19:44:47Z | CVE-2020-2021 | CVE-2020-2021 | https://github.com/mr-r3b00t/CVE-2020-2021 | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  20 HOURS 59 MINUTES 42 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20200629T16:56:25Z | cve-2020-1054 | LPE for CVE-2020-1054 targeting Windows 7 x64 | https://github.com/0xeb-bp/cve-2020-1054 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 35 MINUTES 32 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200629T16:35:31Z | CVE-2020-13158 | CVE-2020-13158 - Artica Proxy before 4.30.000000 Community Edition allows Directory Traversal  | https://github.com/InfoSec4Fun/CVE-2020-13158 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  20 HOURS 59 MINUTES 34 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200629T14:15:28Z | CVE-2020-0688 | Quick tool for checking CVE-2020-0688 on multiple hosts with a non-intrusive method. | https://github.com/onSec-fr/CVE-2020-0688-Scanner | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  20 HOURS 59 MINUTES 28 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200629T16:35:31Z | CVE-2020-13158 | CVE-2020-13158 - Artica Proxy before 4.30.000000 Community Edition allows Directory Traversal  | https://github.com/InfoSec4Fun/CVE-2020-13158 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 57 MINUTES 36 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200629T14:15:28Z | CVE-2020-0688 | Quick tool for checking CVE-2020-0688 on multiple hosts with a non-intrusive method. | https://github.com/onSec-fr/CVE-2020-0688-Scanner | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 58 MINUTES 10 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20200629T11:42:13Z | CVE-2020-12695 | Vulnerability checker for Callstranger (CVE-2020-12695) | https://github.com/yunuscadirci/CallStranger | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 52 MINUTES 22 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200629T08:32:46Z | CVE-2020-1066 | CVE-2020-1066-EXP支持Windows 7和Windows Server 2008 R2操作系统 | https://github.com/cbwang505/CVE-2020-1066-EXP | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 52 MINUTES 19 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200629T07:41:12Z | 未知编号 | CVE Data Analysis, CVE Monitor, CVE EXP Prediction Based on Deep Learning. 1999-2020年存量CVE数据分析、监控CVE增量更新、基于深度学习的CVE EXP预测和自动化推送 | https://github.com/404notf0und/CVE-Flow | 未查询到CVE信息| 
-| 20200629T07:40:46Z | CVE-2020-0787 | Support ALL Windows Version | https://github.com/cbwang505/CVE-2020-0787-EXP-ALL-WINDOWS-VERSION | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 52 MINUTES 24 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20200630T10:44:36Z | Null | https://github.com/s1monb/kleep | 0 | 0| 
+| 20200630T08:25:11Z | Null | https://github.com/VaibhaviMarihal14/Kleem-Care | 0 | 0| 
+| 20200630T04:55:42Z | kleene is a library for building regular expression recognition automata - nfas, dfas, and some specialty structures. | https://github.com/davidkellis/kleene | 0 | 0| 
 | 20200629T23:31:14Z | Create CFGs and compute complexity metrics for Python, C++, and Java code. | https://github.com/hmc-alpaqa/metrinome | 3 | 0| 
 | 20200629T21:24:58Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1422 | 436| 
 | 20200629T19:02:51Z | making project scaffolding in node a breeze | https://github.com/koficypher/kleece | 0 | 0| 
 | 20200629T14:57:17Z | Null | https://github.com/thierry-tct/KLEE-SEMu | 0 | 0| 
-| 20200629T05:08:55Z | kleene is a library for building regular expression recognition automata - nfas, dfas, and some specialty structures. | https://github.com/davidkellis/kleene | 0 | 0| 
 | 20200628T03:06:16Z | A simple quine generator (for sed). | https://github.com/Circiter/quine-kleene-generator | 0 | 0| 
 | 20200627T10:55:13Z | A 4chan image browser written in SwiftUI | https://github.com/jackpal/KleeneStar | 7 | 0| 
 | 20200626T20:12:37Z | ⬇️ File Upload/sharing application, used by thousands of webmasters since 2007.  | https://github.com/kleeja-official/kleeja | 100 | 33| 
-| 20200626T17:21:27Z | doctor robin | https://github.com/nondejus/kleefarts | 0 | 0| 
-| 20200626T08:38:34Z | Minecraft Mod. Allows breaking only one half of a double slab block. | https://github.com/blay09/KleeSlabs | 7 | 3| 
 
 
 # s2e on Github 推荐
@@ -131,16 +131,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20200630T01:56:02Z | 参数 , 字典 collections | https://github.com/SmithEcon/Fuzz_dic | 3 | 1| 
-| 20200630T01:26:08Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 3009 | 688| 
-| 20200630T01:24:00Z | Null | https://github.com/renanreboredo/fuzzy-trader | 0 | 0| 
-| 20200630T00:55:00Z | A fuzzy testing library for geocoding | https://github.com/pelias/fuzzy-tester | 2 | 7| 
-| 20200630T00:15:21Z | A Rust toolkit to combine property-based testing and fuzzing. | https://github.com/facebookincubator/propfuzz | 35 | 1| 
-| 20200630T00:01:03Z | VMI Kernel Fuzzer for Xen Project - VM forking, VMI & AFL integration demo | https://github.com/intel/kernel-fuzzer-for-xen-project | 134 | 20| 
-| 20200629T23:22:00Z | Null | https://github.com/GigasTaufan/providing-financial-assistance-using-fuzzy | 0 | 0| 
-| 20200629T23:19:01Z | Null | https://github.com/leodealmeida/fuzzyTrader | 0 | 0| 
-| 20200629T22:32:48Z | Null | https://github.com/lazygrey/fuzzing_with_cmaes | 0 | 0| 
-| 20200629T22:13:00Z | Wrote up fuzzy vault algorithm without implementing application specific pieces | https://github.com/jweezy24/Fuzzy_vault | 0 | 0| 
+| 20200630T12:01:13Z | OSS-Fuzz - continuous fuzzing of open source software. | https://github.com/google/oss-fuzz | 5353 | 1026| 
+| 20200630T11:57:47Z | Null | https://github.com/s9varesc/url-fuzzing | 0 | 0| 
+| 20200630T11:51:34Z | Null | https://github.com/BangLeCao/Control-DC-Motor-using-Algorithm-PID-Fuzzy-Logic | 0 | 0| 
+| 20200630T11:34:34Z | Personal website of Laurence Hughes | https://github.com/fuzzylogicxx/fuzzylogic | 4 | 1| 
+| 20200630T11:04:48Z | OWASP ZAP add-on containing the web-backdoors and attack files from FuzzDB | https://github.com/zaproxy/fuzzdb-offensive | 4 | 5| 
+| 20200630T10:05:06Z | Null | https://github.com/richhiey1996/Programming-Assignment---Fuzzy-Systems | 0 | 0| 
+| 20200630T10:00:14Z | Null | https://github.com/crismunoz/Fuzzy-Logic | 0 | 0| 
+| 20200630T09:58:47Z | h | https://github.com/ahmedzitawi/fuzzy-robot | 0 | 0| 
+| 20200630T09:55:33Z | 교내 팀 프로젝트 XSearch(xss fuzzer) / python flask / 개발중(2020.04 ~ 06) / nga & jhyeon & seonghyun_park | https://github.com/JHye0n/ync_xss_fuzzer | 0 | 0| 
+| 20200630T09:53:28Z | MemLock: Memory Usage Guided Fuzzing | https://github.com/wcventure/MemLock-Fuzz | 25 | 4| 
 
 
 
