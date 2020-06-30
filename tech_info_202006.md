@@ -30,12 +30,12 @@
 | 20200630 | 如何利用FRIDA提取Android应用程序程序源码和绕过SSL Pinning | https://sec.today/pulses/cec47160-480b-46cf-bb3e-24405d70b32c/| 
 | 20200630 | 基于YAML格式的云端攻击框架Leonidas发布 | https://sec.today/pulses/35f20610-5388-4699-8c37-73184289fe8a/| 
 | 20200630 | 移动安全项目RMS更新至1.3.2，更新了文件管理系统、控制台日志管理和增加了新的自定义Frida脚本（SSL Pinning和root绕过） | https://sec.today/pulses/2fcc9240-19e3-433c-a0b5-2f41f2784394/| 
+| 20200630 | 实用FRIDA进行内存fuzzing | https://hakin9.org/frida-api-fuzzer-experimental-fuzzer-meant-to-be-used-for-api-in-memory-fuzzing/| 
+| 20200630 | 可释放出VindInstaller广告软件的新型MacOS恶意软件分析 | https://www.sentinelone.com/blog/how-a-new-macos-malware-dropper-delivers-vindinstaller-adware/| 
+| 20200630 | 如何利用FRIDA提取Android应用程序程序源码和绕过SSL Pinning | https://vj0shii.info/android-app-testing-initial-steps/| 
+| 20200630 | 基于YAML格式的云端攻击框架Leonidas发布 | https://github.com/FSecureLABS/leonidas| 
+| 20200630 | 移动安全项目RMS更新至1.3.2，更新了文件管理系统、控制台日志管理和增加了新的自定义Frida脚本（SSL Pinning和root绕过） | https://github.com/m0bilesecurity/RMS-Runtime-Mobile-Security/releases/tag/1.3.2| 
 | 20200629 | Vulnserver Exploit vs Windows Defender Exploit Guard | https://chadduffey.com/2020/06/27/VulnServerVSExploitGuard.html| 
-| 20200629 | Pwn2Own Mobile 2019 NETGEAR R6700v3 UPNP daemon 栈溢出漏洞的分析 | https://github.com/pedrib/PoC/blob/master/advisories/Pwn2Own/Tokyo_2019/tokyo_drift/tokyo_drift.md| 
-| 20200629 | 用 Frida 插桩一款国际象棋游戏 | https://cronop-io.github.io/posts/binary%20analysis/2020-06-25-dreamchess_frida/| 
-| 20200629 | 针对 PostgreSQL 数据库的 CREATE FUNCTION 目录穿越 RCE 漏洞 | https://srcincite.io/blog/2020/06/26/sql-injection-double-uppercut-how-to-achieve-remote-code-execution-against-postgresql.html| 
-| 20200629 | 检测RunDLL32 ATT＆CK技术研究。 | https://dfirtnt.wordpress.com/2020/06/28/detecting-rundll32-attck-techniques/| 
-| 20200629 | 使用PowerShell日志记录进行模糊处理化测试。 | https://www.securityinbits.com/malware-analysis/deobfuscate-powershell-using-powershell-logging/| 
 
 
 # 安全维基 推荐
@@ -56,15 +56,15 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20200630T11:43:33Z | CVE-2020-11444 | Exphub[漏洞利用脚本库] 包括Webloigc、Struts2、Tomcat、Nexus、Solr、Jboss、Drupal的漏洞利用脚本，优先更新高危且易利用的漏洞利用脚本，最新添加CVE-2020-11444、CVE-2020-10204、CVE-2020-10199、CVE-2020-1938、CVE-2020-2551、CVE-2020-2555、CVE-2020-2883、CVE-2019-17558、CVE-2019-6340 | https://github.com/zhzyker/exphub | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 58 MINUTES 11 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200630T11:43:33Z | CVE-2020-11444 | Exphub[漏洞利用脚本库] 包括Webloigc、Struts2、Tomcat、Nexus、Solr、Jboss、Drupal的漏洞利用脚本，优先更新高危且易利用的漏洞利用脚本，最新添加CVE-2020-11444、CVE-2020-10204、CVE-2020-10199、CVE-2020-1938、CVE-2020-2551、CVE-2020-2555、CVE-2020-2883、CVE-2019-17558、CVE-2019-6340 | https://github.com/zhzyker/exphub | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 57 MINUTES 24 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20200630T11:04:21Z | CVE-2020-2021 | CVE-2020-2021 | https://github.com/mr-r3b00t/CVE-2020-2021 | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 57 MINUTES 49 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20200630T10:10:55Z | CVE-2020-1948 | Null | https://github.com/ctlyz123/CVE-2020-1948 | 未查询到CVE信息| 
-| 20200630T07:15:44Z | cve-2020-0688 | cve-2020-0688 | https://github.com/Ridter/cve-2020-0688 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 58 MINUTES 09 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200630T07:15:44Z | cve-2020-0688 | cve-2020-0688 | https://github.com/Ridter/cve-2020-0688 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 57 MINUTES 21 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20200630T06:37:33Z | CVE-2020-10665 | POC for CVE-2020-10665 Docker Desktop Local Privilege Escalation | https://github.com/spaceraccoon/CVE-2020-10665 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 57 MINUTES 46 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20200630T00:46:06Z | CVE-2020-8163 | CVE-2020-8163 - Remote code execution of user-provided local names in Rails | https://github.com/sh286/CVE-2020-8163 | 未查询到CVE信息| 
 | 20200629T16:56:25Z | cve-2020-1054 | LPE for CVE-2020-1054 targeting Windows 7 x64 | https://github.com/0xeb-bp/cve-2020-1054 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 35 MINUTES 32 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20200629T16:35:31Z | CVE-2020-13158 | CVE-2020-13158 - Artica Proxy before 4.30.000000 Community Edition allows Directory Traversal  | https://github.com/InfoSec4Fun/CVE-2020-13158 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 57 MINUTES 36 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200629T14:15:28Z | CVE-2020-0688 | Quick tool for checking CVE-2020-0688 on multiple hosts with a non-intrusive method. | https://github.com/onSec-fr/CVE-2020-0688-Scanner | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 58 MINUTES 10 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200629T14:15:28Z | CVE-2020-0688 | Quick tool for checking CVE-2020-0688 on multiple hosts with a non-intrusive method. | https://github.com/onSec-fr/CVE-2020-0688-Scanner | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 57 MINUTES 22 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20200629T11:42:13Z | CVE-2020-12695 | Vulnerability checker for Callstranger (CVE-2020-12695) | https://github.com/yunuscadirci/CallStranger | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 52 MINUTES 22 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 
 
@@ -101,16 +101,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20200630T01:54:00Z | PlayStation 2 DVD Player Exploit | https://github.com/CTurt/FreeDVDBoot | 474 | 29| 
-| 20200630T01:27:36Z | Exploits archive | https://github.com/ricardomaia/Exploits | 0 | 0| 
-| 20200630T01:23:05Z | CTF framework and exploit development library | https://github.com/Gallopsled/pwntools | 6724 | 1259| 
-| 20200630T01:13:52Z | Silice is an open source language that simplifies writing algorithms fully exploiting FPGA architectures. | https://github.com/sylefeb/Silice | 67 | 3| 
-| 20200630T01:12:38Z | Null | https://github.com/Jb05s/Exploit-Dev-C | 3 | 4| 
-| 20200630T01:00:36Z | Exphub[漏洞利用脚本库] 包括Webloigc、Struts2、Tomcat、Nexus、Solr、Jboss、Drupal的漏洞利用脚本，优先更新高危且易利用的漏洞利用脚本，最新添加CVE-2020-11444、CVE-2020-10204、CVE-2020-10199、CVE-2020-1938、CVE-2020-2551、CVE-2020-2555、CVE-2020-2883、CVE-2019-17558、CVE-2019-6340 | https://github.com/zhzyker/exphub | 1049 | 256| 
-| 20200630T00:48:20Z | A simple example of a Multi-OS BTC malware that exploits the clipboard using Python 3 | https://github.com/PurityWasHere/BTCClipperMalware | 0 | 0| 
-| 20200630T00:47:22Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 2 | 1| 
-| 20200630T00:26:37Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 6636 | 1039| 
-| 20200630T00:26:01Z | Exploits archive | https://github.com/ricardomaia/exploits | 0 | 0| 
+| 20200630T12:02:43Z | PlayStation 2 DVD Player Exploit | https://github.com/CTurt/FreeDVDBoot | 613 | 33| 
+| 20200630T12:00:04Z | [PHP][Web Version] RFM Open SID Auto Exploit by zeerx7 | https://github.com/404rgr/RFM_OpenSID | 0 | 0| 
+| 20200630T11:56:28Z | Isploit Exploiting By Turkish Cyber Army | https://github.com/BotNetX666/isploit | 0 | 0| 
+| 20200630T11:55:59Z | Roblox exploit | https://github.com/PCNSIROJ/Roblox-Hack-TH | 0 | 0| 
+| 20200630T11:37:42Z | A repository for examining the frequency and severity of vulnerabilities and exploits. | https://github.com/blackswanburst/WittyStatistician | 0 | 1| 
+| 20200630T11:31:41Z | Silice is an open source language that simplifies writing algorithms fully exploiting FPGA architectures. | https://github.com/sylefeb/Silice | 128 | 5| 
+| 20200630T11:13:40Z | Solution for BFS Ekoparty 2019 Exploitation Challenge | https://github.com/skogafoss/BFS-Ekoparty-2019 | 0 | 0| 
+| 20200630T11:09:53Z | Disco-RD - Multi-Platform Discord mod! | https://github.com/FiskDk/discord-security-exploiting | 0 | 0| 
+| 20200630T10:48:01Z | Null | https://github.com/FrancescoDiPilla/AutoExploitationProject | 0 | 0| 
+| 20200630T10:34:19Z | ya gitulah | https://github.com/fznrd/exploit-SEOmatic | 0 | 0| 
 
 
 # backdoor on Github 推荐
