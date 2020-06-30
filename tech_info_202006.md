@@ -56,15 +56,15 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20200630T11:43:33Z | CVE-2020-11444 | Exphub[漏洞利用脚本库] 包括Webloigc、Struts2、Tomcat、Nexus、Solr、Jboss、Drupal的漏洞利用脚本，优先更新高危且易利用的漏洞利用脚本，最新添加CVE-2020-11444、CVE-2020-10204、CVE-2020-10199、CVE-2020-1938、CVE-2020-2551、CVE-2020-2555、CVE-2020-2883、CVE-2019-17558、CVE-2019-6340 | https://github.com/zhzyker/exphub | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 11 MINUTES 27 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200630T11:04:21Z | CVE-2020-2021 | CVE-2020-2021 | https://github.com/mr-r3b00t/CVE-2020-2021 | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 11 MINUTES 43 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200630T11:43:33Z | CVE-2020-11444 | Exphub[漏洞利用脚本库] 包括Webloigc、Struts2、Tomcat、Nexus、Solr、Jboss、Drupal的漏洞利用脚本，优先更新高危且易利用的漏洞利用脚本，最新添加CVE-2020-11444、CVE-2020-10204、CVE-2020-10199、CVE-2020-1938、CVE-2020-2551、CVE-2020-2555、CVE-2020-2883、CVE-2019-17558、CVE-2019-6340 | https://github.com/zhzyker/exphub | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 09 MINUTES 27 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200630T11:04:21Z | CVE-2020-2021 | CVE-2020-2021 | https://github.com/mr-r3b00t/CVE-2020-2021 | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 09 MINUTES 42 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20200630T10:10:55Z | CVE-2020-1948 | Null | https://github.com/ctlyz123/CVE-2020-1948 | 未查询到CVE信息| 
-| 20200630T07:15:44Z | cve-2020-0688 | cve-2020-0688 | https://github.com/Ridter/cve-2020-0688 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 11 MINUTES 25 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200630T06:37:33Z | CVE-2020-10665 | POC for CVE-2020-10665 Docker Desktop Local Privilege Escalation | https://github.com/spaceraccoon/CVE-2020-10665 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 11 MINUTES 40 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200630T07:15:44Z | cve-2020-0688 | cve-2020-0688 | https://github.com/Ridter/cve-2020-0688 | | 
+| 20200630T06:37:33Z | CVE-2020-10665 | POC for CVE-2020-10665 Docker Desktop Local Privilege Escalation | https://github.com/spaceraccoon/CVE-2020-10665 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 09 MINUTES 40 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20200630T00:46:06Z | CVE-2020-8163 | CVE-2020-8163 - Remote code execution of user-provided local names in Rails | https://github.com/sh286/CVE-2020-8163 | 未查询到CVE信息| 
 | 20200629T16:56:25Z | cve-2020-1054 | LPE for CVE-2020-1054 targeting Windows 7 x64 | https://github.com/0xeb-bp/cve-2020-1054 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 35 MINUTES 32 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200629T16:35:31Z | CVE-2020-13158 | CVE-2020-13158 - Artica Proxy before 4.30.000000 Community Edition allows Directory Traversal  | https://github.com/InfoSec4Fun/CVE-2020-13158 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 11 MINUTES 33 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200629T14:15:28Z | CVE-2020-0688 | Quick tool for checking CVE-2020-0688 on multiple hosts with a non-intrusive method. | https://github.com/onSec-fr/CVE-2020-0688-Scanner | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 11 MINUTES 26 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200629T16:35:31Z | CVE-2020-13158 | CVE-2020-13158 - Artica Proxy before 4.30.000000 Community Edition allows Directory Traversal  | https://github.com/InfoSec4Fun/CVE-2020-13158 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 09 MINUTES 34 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200629T14:15:28Z | CVE-2020-0688 | Quick tool for checking CVE-2020-0688 on multiple hosts with a non-intrusive method. | https://github.com/onSec-fr/CVE-2020-0688-Scanner | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 09 MINUTES 25 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20200629T11:42:13Z | CVE-2020-12695 | Vulnerability checker for Callstranger (CVE-2020-12695) | https://github.com/yunuscadirci/CallStranger | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 52 MINUTES 22 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 
 
@@ -101,6 +101,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20200630T12:47:22Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 2 | 1| 
 | 20200630T12:44:29Z | PlayStation 2 DVD Player Exploit | https://github.com/CTurt/FreeDVDBoot | 628 | 34| 
 | 20200630T12:35:12Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 6638 | 1040| 
 | 20200630T12:31:41Z | Null | https://github.com/Kahvi-0/Vulnerabilities-and-Exploitations | 1 | 1| 
@@ -110,18 +111,17 @@
 | 20200630T11:37:42Z | A repository for examining the frequency and severity of vulnerabilities and exploits. | https://github.com/blackswanburst/WittyStatistician | 0 | 1| 
 | 20200630T11:31:41Z | Silice is an open source language that simplifies writing algorithms fully exploiting FPGA architectures. | https://github.com/sylefeb/Silice | 128 | 5| 
 | 20200630T11:13:40Z | Solution for BFS Ekoparty 2019 Exploitation Challenge | https://github.com/skogafoss/BFS-Ekoparty-2019 | 0 | 0| 
-| 20200630T11:09:53Z | Disco-RD - Multi-Platform Discord mod! | https://github.com/FiskDk/discord-security-exploiting | 0 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20200630T12:49:46Z | Pupy is an opensource, cross-platform (Windows, Linux, OSX, Android) remote administration and post-exploitation tool mainly written in python | https://github.com/n1nj4sec/pupy | 5623 | 1487| 
 | 20200630T12:43:54Z | Null | https://github.com/TDteach/backdoor | 0 | 0| 
 | 20200630T12:43:39Z | Undetectable & Xor encrypting with custom KEY (FUD Metasploit Rat) bypass Top Antivirus like BitDefender,Malwarebytes,Avast,ESET-NOD32,AVG,... & Automatically Add ICON and MANIFEST to excitable | https://github.com/persianhydra/Xeexe-TopAntivirusEvasion | 44 | 16| 
 | 20200630T12:21:37Z | OWASP ZAP add-on containing the web-backdoors and attack files from FuzzDB | https://github.com/zaproxy/fuzzdb-offensive | 4 | 5| 
 | 20200630T08:26:33Z | Using BDoor tool, you can transform any python file, snake, game etc, into a backdoor file to get access to people in the same network as you ! | https://github.com/Loubaris/BackDoor-Python-Hack | 0 | 0| 
 | 20200630T07:33:47Z | made by KARTIK SAXENA (under guidance of John Smilga) | https://github.com/kartiks2000/Backdoors | 0 | 0| 
-| 20200630T04:35:31Z | Pupy is an opensource, cross-platform (Windows, Linux, OSX, Android) remote administration and post-exploitation tool mainly written in python | https://github.com/n1nj4sec/pupy | 5624 | 1487| 
 | 20200630T04:35:24Z | Thefatrat a massive exploiting tool : Easy tool to generate backdoor and easy tool to post exploitation attack like browser attack and etc . This tool compiles a malware with popular payload and then the compiled malware can be execute on windows, android, mac . The malware that created with this tool also have an ability to bypass most AV software protection . | https://github.com/Screetsec/TheFatRat | 4329 | 1473| 
 | 20200630T03:05:07Z | A pytorch implement of paper %Label-Consistent Backdoor Attacks% | https://github.com/grasses/Label-Consistent-Backdoor | 0 | 0| 
 | 20200630T02:17:20Z | Create simple backdoor using python | https://github.com/tuannam96/backdoor | 0 | 0| 
