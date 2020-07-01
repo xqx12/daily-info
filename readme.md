@@ -46,8 +46,8 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20200630T23:05:04Z | CVE-2020-11519 | Technical Write-Up on and Poc Exploit for CVE-2020-11519 and CVE-2020-11520 | https://github.com/patois/winmagic_sd | 未查询到CVE信息| 
-| 20200630T20:51:18Z | CVE-2020-8835 | CVE-2020-8835 Exploit/PoC | https://github.com/socketcall/CVE-2020-8835 | | 
+| 20200630T23:05:04Z | CVE-2020-11519 | Technical Write-Up on and Poc Exploit for CVE-2020-11519 and CVE-2020-11520 | https://github.com/patois/winmagic_sd | | 
+| 20200630T20:51:18Z | CVE-2020-8835 | CVE-2020-8835 Exploit/PoC | https://github.com/socketcall/CVE-2020-8835 | 未查询到CVE信息| 
 | 20200630T19:26:49Z | CVE-2020-11444 | Exphub[漏洞利用脚本库] 包括Webloigc、Struts2、Tomcat、Nexus、Solr、Jboss、Drupal的漏洞利用脚本，优先更新高危且易利用的漏洞利用脚本，最新添加CVE-2020-11444、CVE-2020-10204、CVE-2020-10199、CVE-2020-1938、CVE-2020-2551、CVE-2020-2555、CVE-2020-2883、CVE-2019-17558、CVE-2019-6340 | https://github.com/zhzyker/exphub | 未查询到CVE信息| 
 | 20200630T18:47:53Z | CVE-2020-10665 | POC for CVE-2020-10665 Docker Desktop Local Privilege Escalation | https://github.com/spaceraccoon/CVE-2020-10665 | 未查询到CVE信息| 
 | 20200630T12:54:49Z | CVE-2020-2551 | CVE-2020-2551 | https://github.com/0nise/CVE-2020-2551 | 未查询到CVE信息| 
