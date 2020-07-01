@@ -57,7 +57,7 @@
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
 | 20200630T23:05:04Z | CVE-2020-11519 | Technical Write-Up on and Poc Exploit for CVE-2020-11519 and CVE-2020-11520 | https://github.com/patois/winmagic_sd | 未查询到CVE信息| 
-| 20200630T20:51:18Z | CVE-2020-8835 | CVE-2020-8835 Exploit/PoC | https://github.com/socketcall/CVE-2020-8835 | 未查询到CVE信息| 
+| 20200630T20:51:18Z | CVE-2020-8835 | CVE-2020-8835 Exploit/PoC | https://github.com/socketcall/CVE-2020-8835 | | 
 | 20200630T19:26:49Z | CVE-2020-11444 | Exphub[漏洞利用脚本库] 包括Webloigc、Struts2、Tomcat、Nexus、Solr、Jboss、Drupal的漏洞利用脚本，优先更新高危且易利用的漏洞利用脚本，最新添加CVE-2020-11444、CVE-2020-10204、CVE-2020-10199、CVE-2020-1938、CVE-2020-2551、CVE-2020-2555、CVE-2020-2883、CVE-2019-17558、CVE-2019-6340 | https://github.com/zhzyker/exphub | 未查询到CVE信息| 
 | 20200630T18:47:53Z | CVE-2020-10665 | POC for CVE-2020-10665 Docker Desktop Local Privilege Escalation | https://github.com/spaceraccoon/CVE-2020-10665 | 未查询到CVE信息| 
 | 20200630T12:54:49Z | CVE-2020-2551 | CVE-2020-2551 | https://github.com/0nise/CVE-2020-2551 | 未查询到CVE信息| 
@@ -132,7 +132,6 @@
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
 | 20200630T23:54:19Z | Null | https://github.com/JosLuna98/FuzzyLogicExercises | 0 | 0| 
-| 20200630T23:52:43Z | Null | https://github.com/fossegutten/FuzzyStoryEditor | 9 | 0| 
 | 20200630T23:22:01Z | Extendable module loader | https://github.com/terradistac/fuzzy-octo-engine | 0 | 0| 
 | 20200630T23:01:09Z | american fuzzy lop - a security-oriented fuzzer | https://github.com/google/AFL | 1218 | 195| 
 | 20200630T22:39:08Z | A fuzzy testing library for geocoding | https://github.com/pelias/fuzzy-tester | 2 | 7| 
@@ -141,6 +140,7 @@
 | 20200630T21:19:14Z | Fuzzing framework for the GENIVI/vsomeip library | https://github.com/cfanatic/vsomeip-fuzzing | 0 | 0| 
 | 20200630T21:10:44Z | Mongoose Fuzzy Searching Plugin | https://github.com/VassilisPallas/mongoose-fuzzy-searching | 60 | 18| 
 | 20200630T20:22:06Z | Null | https://github.com/crismunoz/Fuzzy-Logic | 0 | 0| 
+| 20200630T19:53:15Z | Make / fuzzy. | https://github.com/zsugabubus/fuzzysearch.nvim | 0 | 0| 
 
 
 
