@@ -59,7 +59,7 @@
 | 20200630T23:12:53Z | CVE-2020-12828 | CVE-2020-12828 PoC and Analysis.  | https://github.com/0xsha/ZombieVPN | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 37 MINUTES 55 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20200630T23:05:04Z | CVE-2020-11519 | Technical Write-Up on and Poc Exploit for CVE-2020-11519 and CVE-2020-11520 | https://github.com/patois/winmagic_sd | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 37 MINUTES 56 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20200630T20:51:18Z | CVE-2020-8835 | CVE-2020-8835 Exploit/PoC | https://github.com/socketcall/CVE-2020-8835 | | 
-| 20200630T19:26:49Z | CVE-2020-11444 | Exphub[漏洞利用脚本库] 包括Webloigc、Struts2、Tomcat、Nexus、Solr、Jboss、Drupal的漏洞利用脚本，优先更新高危且易利用的漏洞利用脚本，最新添加CVE-2020-11444、CVE-2020-10204、CVE-2020-10199、CVE-2020-1938、CVE-2020-2551、CVE-2020-2555、CVE-2020-2883、CVE-2019-17558、CVE-2019-6340 | https://github.com/zhzyker/exphub | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 38 MINUTES 11 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200630T19:26:49Z | CVE-2020-11444 | Exphub[漏洞利用脚本库] 包括Webloigc、Struts2、Tomcat、Nexus、Solr、Jboss、Drupal的漏洞利用脚本，优先更新高危且易利用的漏洞利用脚本，最新添加CVE-2020-11444、CVE-2020-10204、CVE-2020-10199、CVE-2020-1938、CVE-2020-2551、CVE-2020-2555、CVE-2020-2883、CVE-2019-17558、CVE-2019-6340 | https://github.com/zhzyker/exphub | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 37 MINUTES 02 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20200630T18:47:53Z | CVE-2020-10665 | POC for CVE-2020-10665 Docker Desktop Local Privilege Escalation | https://github.com/spaceraccoon/CVE-2020-10665 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 37 MINUTES 31 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20200630T12:54:49Z | CVE-2020-2551 | CVE-2020-2551 | https://github.com/0nise/CVE-2020-2551 | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
 | 20200630T11:04:21Z | CVE-2020-2021 | CVE-2020-2021 | https://github.com/mr-r3b00t/CVE-2020-2021 | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 37 MINUTES 43 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
@@ -102,7 +102,6 @@
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
 | 20200630T23:58:11Z | Script solo para Termux que automatiza la instalación de The Browser Exploitation Framework. | https://github.com/tony23x/BeEF-INSTALL | 0 | 0| 
-| 20200630T23:47:43Z | Silice is an open source language that simplifies writing algorithms fully exploiting FPGA architectures. | https://github.com/sylefeb/Silice | 163 | 6| 
 | 20200630T23:40:43Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 2882 | 439| 
 | 20200630T23:39:59Z | this  bash script lets you choose a linux enumeration script, exploitation and utilities. read README.md file to learn about this script.. | https://github.com/FabioDefilippo/linuxallenum | 0 | 0| 
 | 20200630T23:22:29Z | A phased Path Traversal scanning & exploitation tool in Python | https://github.com/VainlyStrain/Vailyn | 2 | 0| 
@@ -111,6 +110,7 @@
 | 20200630T21:43:40Z | Script or Exploit to create unlimitade account on Udemy. | https://github.com/HkrAmit/Unlimitade_account_on_udemy | 0 | 0| 
 | 20200630T21:40:38Z | This PoC explain how to exploit CSRF on ArGo Soft Mail Server 1.8.8.9 | https://github.com/V1n1v131r4/CSRF-on-ArGoSoft-Mail-Server | 0 | 0| 
 | 20200630T21:35:13Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 6640 | 1040| 
+| 20200630T21:16:37Z | Collection of things made during my preparation to take on OSCE | https://github.com/Pal1Sec/Exploit-Development | 0 | 0| 
 
 
 # backdoor on Github 推荐
