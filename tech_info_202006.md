@@ -137,7 +137,7 @@
 | 20200630T23:01:09Z | american fuzzy lop - a security-oriented fuzzer | https://github.com/google/AFL | 1218 | 195| 
 | 20200630T22:39:08Z | A fuzzy testing library for geocoding | https://github.com/pelias/fuzzy-tester | 2 | 7| 
 | 20200630T21:48:50Z | FuzzBench - Fuzzer benchmarking as a service. | https://github.com/google/fuzzbench | 476 | 65| 
-| 20200630T21:24:46Z | A Python based web application scanner to gather OSINT and fuzz for OWASP vulnerabilities on a target website. | https://github.com/1N3/BlackWidow | 745 | 240| 
+| 20200630T21:24:46Z | A Python based web application scanner to gather OSINT and fuzz for OWASP vulnerabilities on a target website. | https://github.com/1N3/BlackWidow | 745 | 241| 
 | 20200630T21:19:14Z | Fuzzing framework for the GENIVI/vsomeip library | https://github.com/cfanatic/vsomeip-fuzzing | 0 | 0| 
 | 20200630T21:10:44Z | Mongoose Fuzzy Searching Plugin | https://github.com/VassilisPallas/mongoose-fuzzy-searching | 60 | 18| 
 | 20200630T20:22:06Z | Null | https://github.com/crismunoz/Fuzzy-Logic | 0 | 0| 
