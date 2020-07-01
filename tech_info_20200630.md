@@ -35,6 +35,7 @@
 | 20200630 | 如何利用FRIDA提取Android应用程序程序源码和绕过SSL Pinning | https://vj0shii.info/android-app-testing-initial-steps/| 
 | 20200630 | 基于YAML格式的云端攻击框架Leonidas发布 | https://github.com/FSecureLABS/leonidas| 
 | 20200630 | 移动安全项目RMS更新至1.3.2，更新了文件管理系统、控制台日志管理和增加了新的自定义Frida脚本（SSL Pinning和root绕过） | https://github.com/m0bilesecurity/RMS-Runtime-Mobile-Security/releases/tag/1.3.2| 
+| 20200630 | QOMPLX知识：Active Directory信任关系的基础介绍。 | https://qomplx.com/qomplx-knowledge-fundamentals-of-active-directory-trust-relationships/?utm_content=132798045&utm_medium=social&utm_source=twitter&hss_channel=tw-936614477339926531| 
 
 
 # 安全维基 推荐
@@ -45,20 +46,24 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20200630T23:12:53Z | CVE-2020-12828 | CVE-2020-12828 PoC and Analysis.  | https://github.com/0xsha/ZombieVPN | 在1.3.3.218之前的AnchorFree VPN SDK中发现了一个问题。 VPN SDK服务通过绑定到本地主机的套接字获取某些可执行位置。绑定到套接字并提供恶意可执行文件所在的路径会导致以SYSTEM特权执行恶意可执行文件。| 
+| 20200630T23:05:04Z | CVE-2020-11519 | Technical Write-Up on and Poc Exploit for CVE-2020-11519 and CVE-2020-11520 | https://github.com/patois/winmagic_sd | WinMagic SecureDoc v8.5 和更早的 SDDisk2k.sys 驱动程序允许本地用户通过 \.\SecureDocDevice 句柄读取或写入物理光盘扇区。利用此漏洞会导致特权代码执行。| 
+| 20200630T20:51:18Z | CVE-2020-8835 | CVE-2020-8835 Exploit/PoC | https://github.com/socketcall/CVE-2020-8835 | 在Linux内核5.5.0及更高版本中，bpf验证程序（kernel / bpf / verifier.c）不能正确限制32位操作的寄存器范围，从而导致内核内存中的读取和写入越界。该漏洞还影响从v5.4.7开始的Linux 5.4稳定系列，因为引入的提交已反向移植到该分支。此漏洞已在5.6.1、5.5.14和5.4.29中修复。 （问题是ZDI-CAN-10780）| 
+| 20200630T19:26:49Z | CVE-2020-11444 | Exphub[漏洞利用脚本库] 包括Webloigc、Struts2、Tomcat、Nexus、Solr、Jboss、Drupal的漏洞利用脚本，优先更新高危且易利用的漏洞利用脚本，最新添加CVE-2020-11444、CVE-2020-10204、CVE-2020-10199、CVE-2020-1938、CVE-2020-2551、CVE-2020-2555、CVE-2020-2883、CVE-2019-17558、CVE-2019-6340 | https://github.com/zhzyker/exphub | 直至3.21.2（含）的Sonatype Nexus Repository Manager 3.x具有错误的访问控制。| 
+| 20200630T18:47:53Z | CVE-2020-10665 | POC for CVE-2020-10665 Docker Desktop Local Privilege Escalation | https://github.com/spaceraccoon/CVE-2020-10665 | Docker Desktop允许将本地特权提升到NT AUTHORITY \ SYSTEM，因为它使用管理员特权对诊断的收集进行了错误处理，从而导致任意DACL权限被覆盖和任意文件写入。这会影响2.1.0.9之前的Docker桌面企业版，2.2.0.4之前的Windows稳定版Docker桌面和2.2.2.0之前的Windows Edge的Docker桌面。| 
 | 20200630T12:54:49Z | CVE-2020-2551 | CVE-2020-2551 | https://github.com/0nise/CVE-2020-2551 | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
-| 20200630T11:43:33Z | CVE-2020-11444 | Exphub[漏洞利用脚本库] 包括Webloigc、Struts2、Tomcat、Nexus、Solr、Jboss、Drupal的漏洞利用脚本，优先更新高危且易利用的漏洞利用脚本，最新添加CVE-2020-11444、CVE-2020-10204、CVE-2020-10199、CVE-2020-1938、CVE-2020-2551、CVE-2020-2555、CVE-2020-2883、CVE-2019-17558、CVE-2019-6340 | https://github.com/zhzyker/exphub | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  09 HOURS 59 MINUTES 28 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200630T11:04:21Z | CVE-2020-2021 | CVE-2020-2021 | https://github.com/mr-r3b00t/CVE-2020-2021 | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  09 HOURS 59 MINUTES 42 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200630T11:04:21Z | CVE-2020-2021 | CVE-2020-2021 | https://github.com/mr-r3b00t/CVE-2020-2021 | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS 在这种情况下，这是一个严重严重漏洞，其CVSS基本分数为10.0（CVSS：3.1 / AV：N / AC：L / PR：N / UI：N / S：C / C：H / I：H / A： H）。如果仅可通过受限管理网络访问Web界面，则问题将降低为CVSS基本分数9.6（CVSS：3.1 / AV：A / AC：L / PR：N / UI：N / S：C / C：H / I：H / A：H）。 Palo Alto Networks不知道有任何恶意尝试利用此漏洞。| 
 | 20200630T10:10:55Z | CVE-2020-1948 | Null | https://github.com/ctlyz123/CVE-2020-1948 | 未查询到CVE信息| 
 | 20200630T07:15:44Z | cve-2020-0688 | cve-2020-0688 | https://github.com/Ridter/cve-2020-0688 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  09 HOURS 59 MINUTES 26 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200630T06:37:33Z | CVE-2020-10665 | POC for CVE-2020-10665 Docker Desktop Local Privilege Escalation | https://github.com/spaceraccoon/CVE-2020-10665 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  09 HOURS 59 MINUTES 41 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20200630T00:46:06Z | CVE-2020-8163 | CVE-2020-8163 - Remote code execution of user-provided local names in Rails | https://github.com/sh286/CVE-2020-8163 | 未查询到CVE信息| 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20200630T22:10:39Z | Create CFGs and compute complexity metrics for Python, C++, and Java code. | https://github.com/hmc-alpaqa/metrinome | 3 | 0| 
+| 20200630T16:53:26Z | Null | https://github.com/s1monb/kleep | 0 | 0| 
 | 20200630T12:11:19Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1423 | 436| 
-| 20200630T10:44:36Z | Null | https://github.com/s1monb/kleep | 0 | 0| 
 | 20200630T08:25:11Z | Null | https://github.com/VaibhaviMarihal14/Kleem-Care | 0 | 0| 
 | 20200630T04:55:42Z | kleene is a library for building regular expression recognition automata - nfas, dfas, and some specialty structures. | https://github.com/davidkellis/kleene | 0 | 0| 
 
@@ -71,16 +76,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20200630T13:00:41Z | Null | https://github.com/Pal1Sec/Exploit-Development | 0 | 0| 
-| 20200630T12:47:22Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 2 | 1| 
-| 20200630T12:44:29Z | PlayStation 2 DVD Player Exploit | https://github.com/CTurt/FreeDVDBoot | 628 | 34| 
-| 20200630T12:35:12Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 6638 | 1040| 
-| 20200630T12:31:41Z | Null | https://github.com/Kahvi-0/Vulnerabilities-and-Exploitations | 1 | 1| 
-| 20200630T12:13:07Z | Isploit Exploiting By Turkish Cyber Army | https://github.com/BotNetX666/isploit | 0 | 0| 
-| 20200630T12:00:04Z | [PHP][Web Version] RFM Open SID Auto Exploit by zeerx7 | https://github.com/404rgr/RFM_OpenSID | 0 | 0| 
-| 20200630T11:55:59Z | Roblox exploit | https://github.com/PCNSIROJ/Roblox-Hack-TH | 0 | 0| 
-| 20200630T11:37:42Z | A repository for examining the frequency and severity of vulnerabilities and exploits. | https://github.com/blackswanburst/WittyStatistician | 0 | 1| 
-| 20200630T11:31:41Z | Silice is an open source language that simplifies writing algorithms fully exploiting FPGA architectures. | https://github.com/sylefeb/Silice | 128 | 5| 
+| 20200630T23:58:11Z | Script solo para Termux que automatiza la instalación de The Browser Exploitation Framework. | https://github.com/tony23x/BeEF-INSTALL | 0 | 0| 
+| 20200630T23:47:43Z | Silice is an open source language that simplifies writing algorithms fully exploiting FPGA architectures. | https://github.com/sylefeb/Silice | 163 | 6| 
+| 20200630T23:40:43Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 2882 | 439| 
+| 20200630T23:39:59Z | this  bash script lets you choose a linux enumeration script, exploitation and utilities. read README.md file to learn about this script.. | https://github.com/FabioDefilippo/linuxallenum | 0 | 0| 
+| 20200630T23:22:29Z | A phased Path Traversal scanning & exploitation tool in Python | https://github.com/VainlyStrain/Vailyn | 2 | 0| 
+| 20200630T23:05:04Z | Technical Write-Up on and Poc Exploit for CVE-2020-11519 and CVE-2020-11520 | https://github.com/patois/winmagic_sd | 0 | 0| 
+| 20200630T22:08:00Z | OWASP Benchmark is a test suite designed to verify the speed and accuracy of software vulnerability detection tools. A fully runnable web app written in Java, it supports analysis by Static (SAST), Dynamic (DAST), and Runtime (IAST) tools that support Java. The idea is that since it is fully runnable and all the vulnerabilities are actually exploitable, it’s a fair test for any kind of vulnerability detection tool.  For more details on this project, please see the OWASP Benchmark Project home page. | https://github.com/OWASP/Benchmark | 264 | 164| 
+| 20200630T21:43:40Z | Script or Exploit to create unlimitade account on Udemy. | https://github.com/HkrAmit/Unlimitade_account_on_udemy | 0 | 0| 
+| 20200630T21:40:38Z | This PoC explain how to exploit CSRF on ArGo Soft Mail Server 1.8.8.9 | https://github.com/V1n1v131r4/CSRF-on-ArGoSoft-Mail-Server | 0 | 0| 
+| 20200630T21:35:13Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 6640 | 1040| 
 
 
 # backdoor on Github 推荐
@@ -101,16 +106,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20200630T12:51:31Z | Null | https://github.com/s9varesc/url-fuzzing | 0 | 0| 
-| 20200630T12:41:47Z | Clientside vulnerability / reflected xss fuzzer | https://github.com/FlameOfIgnis/puff | 48 | 6| 
-| 20200630T12:21:37Z | OWASP ZAP add-on containing the web-backdoors and attack files from FuzzDB | https://github.com/zaproxy/fuzzdb-offensive | 4 | 5| 
-| 20200630T12:02:41Z | Fuzzing Parsers with Tokens | https://github.com/uds-se/lFuzzer | 2 | 1| 
-| 20200630T12:01:13Z | OSS-Fuzz - continuous fuzzing of open source software. | https://github.com/google/oss-fuzz | 5353 | 1026| 
-| 20200630T11:51:34Z | Null | https://github.com/BangLeCao/Control-DC-Motor-using-Algorithm-PID-Fuzzy-Logic | 0 | 0| 
-| 20200630T11:34:34Z | Personal website of Laurence Hughes | https://github.com/fuzzylogicxx/fuzzylogic | 4 | 1| 
-| 20200630T10:05:06Z | Null | https://github.com/richhiey1996/Programming-Assignment---Fuzzy-Systems | 0 | 0| 
-| 20200630T10:00:14Z | Null | https://github.com/crismunoz/Fuzzy-Logic | 0 | 0| 
-| 20200630T09:58:47Z | h | https://github.com/ahmedzitawi/fuzzy-robot | 0 | 0| 
+| 20200630T23:54:19Z | Null | https://github.com/JosLuna98/FuzzyLogicExercises | 0 | 0| 
+| 20200630T23:52:43Z | Null | https://github.com/fossegutten/FuzzyStoryEditor | 9 | 0| 
+| 20200630T23:22:01Z | Extendable module loader | https://github.com/terradistac/fuzzy-octo-engine | 0 | 0| 
+| 20200630T23:01:09Z | american fuzzy lop - a security-oriented fuzzer | https://github.com/google/AFL | 1218 | 195| 
+| 20200630T22:45:13Z | OSS-Fuzz - continuous fuzzing of open source software. | https://github.com/google/oss-fuzz | 5353 | 1027| 
+| 20200630T22:39:08Z | A fuzzy testing library for geocoding | https://github.com/pelias/fuzzy-tester | 2 | 7| 
+| 20200630T21:48:50Z | FuzzBench - Fuzzer benchmarking as a service. | https://github.com/google/fuzzbench | 476 | 65| 
+| 20200630T21:24:46Z | A Python based web application scanner to gather OSINT and fuzz for OWASP vulnerabilities on a target website. | https://github.com/1N3/BlackWidow | 745 | 240| 
+| 20200630T21:19:14Z | Fuzzing framework for the GENIVI/vsomeip library | https://github.com/cfanatic/vsomeip-fuzzing | 0 | 0| 
+| 20200630T21:10:44Z | Mongoose Fuzzy Searching Plugin | https://github.com/VassilisPallas/mongoose-fuzzy-searching | 60 | 18| 
 
 
 
