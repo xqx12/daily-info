@@ -89,7 +89,7 @@
 | 20200626T20:37:42Z | Electrical Power Prediction using Deep learning | https://github.com/chykoushik/S2E-dfki-Electrical-Power-Prediction | 0 | 0| 
 | 20200625T18:50:03Z | This is the archived S2E 1.0 repo. We do not maintain it anymore. | https://github.com/S2E/s2e-old | 302 | 170| 
 | 20200625T18:46:10Z | Your S2E project management tools. Visit https://s2e.systems/docs to get started. | https://github.com/S2E/s2e-env | 62 | 29| 
-| 20200625T18:24:53Z | This is the main S2E repository. Visit https://s2e.systems/docs to get started. | https://github.com/S2E/s2e | 45 | 14| 
+| 20200625T18:24:53Z | This is the main S2E repository. Visit https://s2e.systems/docs to get started. | https://github.com/S2E/s2e | 45 | 15| 
 | 20200624T08:36:39Z | cicd logic and gitlab&github runner, centos base ,whith jdk/python/go, maven/npm,/kubectl/helm | https://github.com/chimeh/cicd-s2e-runner | 0 | 0| 
 | 20200624T07:37:13Z | Null | https://github.com/IuliiaZaitova/qualification_task_S2E | 0 | 0| 
 | 20200623T04:44:40Z | WIZnet Serial to Ethernet(S2E) module based on W7500 chip, WIZ107/108SR S2E compatible device | https://github.com/Wiznet/WIZ750SR | 12 | 12| 
