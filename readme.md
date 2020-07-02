@@ -17,6 +17,10 @@
 | 20200701 | 红蓝对抗之Windows内网渗透 | https://security.tencent.com/index.php/blog/msg/154| 
 | 20200701 | Nexus Repository Manager 2.x 命令注入漏洞 (CVE-2019-5475) 两次绕过 | https://sec.today/pulses/beff1ae6-543c-4a60-9b96-d9b20ac41b3f/| 
 | 20200701 | Nexus Repository Manager 2.x 命令注入漏洞 (CVE-2019-5475) 两次绕过 | http://paper.seebug.org/1260/| 
+| 20200701 | 通过对DLL劫持绕过AMSI（防恶意软件扫描接口）新思路。 | http://sensepost.com/blog/2020/resurrecting-an-old-amsi-bypass/| 
+| 20200701 | Ghidra逆向工程系列教程。 | https://hackaday.io/project/172292-introduction-to-reverse-engineering-with-ghidra| 
+| 20200701 | ELF恶意软件分析101：Linux安全威胁今后要重点看待。 | https://intezer.com/blog/linux/elf-malware-analysis-101-linux-threats-no-longer-an-afterthought/| 
+| 20200701 | 在Kali Linux中使用PowerShell脚本进行渗透测试。 | https://www.offensive-security.com/offsec/kali-linux-powershell-pentesting/| 
 
 
 # 安全维基 推荐
@@ -35,16 +39,18 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20200701T13:34:16Z | CVE-2020-11444 | Exphub[漏洞利用脚本库] 包括Webloigc、Struts2、Tomcat、Nexus、Solr、Jboss、Drupal的漏洞利用脚本，优先更新高危且易利用的漏洞利用脚本，最新添加CVE-2020-11444、CVE-2020-10204、CVE-2020-10199、CVE-2020-1938、CVE-2020-2551、CVE-2020-2555、CVE-2020-2883、CVE-2019-17558、CVE-2019-6340 | https://github.com/zhzyker/exphub | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  09 HOURS 19 MINUTES 33 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200701T12:42:55Z | CVE-2020-12828 | CVE-2020-12828 PoC and Analysis.  | https://github.com/0xsha/ZombieVPN | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  09 HOURS 20 MINUTES 51 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200701T10:00:07Z | CVE-2020-11519 | Technical Write-Up on and PoC Exploit for CVE-2020-11519 and CVE-2020-11520 | https://github.com/patois/winmagic_sd | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  09 HOURS 20 MINUTES 57 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200701T00:47:52Z | CVE-2020-0022 | This is a RCE bluetooth vulnerability on Android 8.0 and 9.0 | https://github.com/k3vinlusec/Bluefrag_CVE-2020-0022 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  09 HOURS 21 MINUTES 03 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200701T21:33:01Z | CVE-2020-11444 | Exphub[漏洞利用脚本库] 包括Webloigc、Struts2、Tomcat、Nexus、Solr、Jboss、Drupal的漏洞利用脚本，优先更新高危且易利用的漏洞利用脚本，最新添加CVE-2020-11444、CVE-2020-10204、CVE-2020-10199、CVE-2020-1938、CVE-2020-2551、CVE-2020-2555、CVE-2020-2883、CVE-2019-17558、CVE-2019-6340 | https://github.com/zhzyker/exphub | 直至3.21.2（含）的Sonatype Nexus Repository Manager 3.x具有错误的访问控制。| 
+| 20200701T15:49:01Z | CVE-2020-12828 | CVE-2020-12828 PoC and Analysis.  | https://github.com/0xsha/ZombieVPN | 在1.3.3.218之前的AnchorFree VPN SDK中发现了一个问题。 VPN SDK服务通过绑定到本地主机的套接字获取某些可执行位置。绑定到套接字并提供恶意可执行文件所在的路径会导致以SYSTEM特权执行恶意可执行文件。| 
+| 20200701T13:48:53Z | CVE-2020-2021 | CVE-2020-2021 | https://github.com/mr-r3b00t/CVE-2020-2021 | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS 在这种情况下，这是一个严重严重漏洞，其CVSS基本分数为10.0（CVSS：3.1 / AV：N / AC：L / PR：N / UI：N / S：C / C：H / I：H / A： H）。如果仅可通过受限管理网络访问Web界面，则问题将降低为CVSS基本分数9.6（CVSS：3.1 / AV：A / AC：L / PR：N / UI：N / S：C / C：H / I：H / A：H）。 Palo Alto Networks不知道有任何恶意尝试利用此漏洞。| 
+| 20200701T10:00:07Z | CVE-2020-11519 | Technical Write-Up on and PoC Exploit for CVE-2020-11519 and CVE-2020-11520 | https://github.com/patois/winmagic_sd | WinMagic SecureDoc v8.5 和更早的 SDDisk2k.sys 驱动程序允许本地用户通过 \.\SecureDocDevice 句柄读取或写入物理光盘扇区。利用此漏洞会导致特权代码执行。| 
+| 20200701T00:47:52Z | CVE-2020-0022 | This is a RCE bluetooth vulnerability on Android 8.0 and 9.0 | https://github.com/k3vinlusec/Bluefrag_CVE-2020-0022 | 在 reassemble_and_dispatch.cc packet_fragmenter中，由于边界计算不正确，可能会超出边界写入。这可能导致通过蓝牙执行远程代码，而不需要额外的执行权限。利用时不需要用户交互。产品： 安卓版本： 安卓 - 8.0 安卓 - 8.1 安卓 - 9 安卓 - 10Android ID： A - 143894715| 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20200701T12:11:53Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1424 | 436| 
+| 20200701T22:49:39Z | Create CFGs and compute complexity metrics for Python, C++, and Java code. | https://github.com/hmc-alpaqa/metrinome | 3 | 0| 
+| 20200701T14:52:46Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1424 | 437| 
 
 
 # s2e on Github 推荐
@@ -55,27 +61,28 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20200701T13:30:33Z | The outbreak of coronavirus disease 2019 (COVID-19) has been declared a public health emergency of international concern. Epidemic studies have been well described clinical features of patients with COVID-19. The abrupt rise in the Coronavirus cases after breakout in China in the month of January, there has been a shortage of rapid and highly sensitive reverse transcriptase polymerase chain reaction (RT-PCR) testing kits for the diagnosis of coronavirus disease 2019 (COVID-19). Therefore, there is a crucial need of tools to assist the community investigating the diagnosis of patients with COVID-19 using Articial Intelligence. We are planing to use available public data to develop an application to initially process data in a meaningful way and create a useful knowledge that can be exploited afterwards to make prediction on patient clinical outcome. Also, the scarcity of COVID dataset is handled by using various spatial transform augmentation techniques, the X-Ray and CT images are preprocessed to improve quality of image. Our application is a web as well as android application used to detect COVID-19 from either chest X-ray images or chest CT images. Our application can be used to increase productivity for Health Professionals by automaticaaly detecting Covid-19 infection using fast and reliable AI screening, reduce time and cost for the patients and provide assistance to overcome the problem of a lack of specialized physicians in remote villages. By using our application, the user will be able to detect AI prediction with confidence scores after uploading the Chest X-ray or CT image. The prediction results for Chest X-Ray could be across three possibilities: Normal, Pneumonia or COVID-19. Whereas, the prediction results for Chest CT could be across 2 possibilities: Covid or Non-Covid. Furthermore, Activation Map of Chest X-Ray can be viewed by the user for observing important features reflecting the portion of chest affected by the Virus. We applied a high-quality Deep Convolutional Neural Network model in our web application with an overall accuracy of 96%, COVID-19 sensitivity of 96% and COVID-19 positive prediction value (PPV) of 96% on test dataset of X-Rays which is evaluated as state of the art performance and far better than other existing AI models proposed over the recent months for Covid-19 image classification. | https://github.com/jaskirat111/Covid-AI-Assistant | 0 | 0| 
-| 20200701T13:29:02Z | Roblox exploit | https://github.com/PCNSIROJ/Roblox-Hack-TH | 0 | 0| 
-| 20200701T13:21:24Z | thewhiteh4t%s Blog | https://github.com/thewhiteh4t/thewhiteh4t.github.io | 8 | 3| 
-| 20200701T13:18:25Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 6643 | 1041| 
-| 20200701T13:03:22Z | Roblox- Exploit | https://github.com/DoomOfDecepti0n/X-19- | 0 | 0| 
-| 20200701T12:47:23Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 2 | 1| 
-| 20200701T12:41:53Z | Null | https://github.com/Nikhilthegr8/exploit_development | 2 | 1| 
-| 20200701T12:39:09Z | Silice is an open source language that simplifies writing algorithms fully exploiting FPGA architectures. | https://github.com/sylefeb/Silice | 177 | 10| 
-| 20200701T11:58:50Z | Anything about kernel security.  CTF kernel pwn, kernel exploit, kernel fuzz and kernel defense paper, kernel debugging technique, kernel CVE debug. | https://github.com/bsauce/kernel-security-learning | 78 | 9| 
-| 20200701T11:42:52Z | *Frequently Updated. Sifter is a osint, recon & vulnerability scanner. It combines a plethara of tools within different module sets in order to quickly perform recon tasks, check network firewalling, enumerate remote and local hosts, and scan for the %blue% vulnerabilities within microsft and if unpatched, exploit them.  It uses tools like blackwidow and konan for webdir enumeration and attack surface mapping rapidly using ASM.  | https://github.com/s1l3nt78/sifter | 170 | 57| 
+| 20200701T23:06:16Z | Silice is an open source language that simplifies writing algorithms fully exploiting FPGA architectures. | https://github.com/sylefeb/Silice | 197 | 12| 
+| 20200701T23:01:47Z | The writeups for hacking challenges and previous CTF | https://github.com/dev4ndr3w/writeups | 0 | 0| 
+| 20200701T22:52:11Z | Summarization of exploitation techniques and researches I learnt | https://github.com/dev4ndr3w/TIL | 0 | 0| 
+| 20200701T22:48:35Z | Quick and dirty demostration of a git exposure exploitation | https://github.com/wallee94/exploit-git-exposure | 0 | 0| 
+| 20200701T22:40:45Z | Exploits nested.parallel and nested.optimize to tune neuronal cell models | https://github.com/neurosutras/optimize_cells | 0 | 1| 
+| 20200701T21:35:10Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 6648 | 1041| 
+| 20200701T21:25:49Z | An app with really insecure crypto. To be used to see/test/exploit weak cryptographic implementations as well as to learn a little bit more about crypto, without the need to dive deep into the math behind it | https://github.com/DamnVulnerableCryptoApp/DamnVulnerableCryptoApp | 1 | 0| 
+| 20200701T21:10:37Z | GEF - GDB Enhanced Features for exploit devs & reversers | https://github.com/hugsy/gef | 2968 | 437| 
+| 20200701T21:09:37Z | Using opencv and orb detector feature detection exploited for augmented reality | https://github.com/Coderangshu/Augmented-Reality | 0 | 0| 
+| 20200701T20:09:32Z | this bash script let you download scripts and clone repos for remote exploits | https://github.com/FabioDefilippo/linuxallremote | 0 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20200701T13:28:34Z | Thefatrat a massive exploiting tool : Easy tool to generate backdoor and easy tool to post exploitation attack like browser attack and etc . This tool compiles a malware with popular payload and then the compiled malware can be execute on windows, android, mac . The malware that created with this tool also have an ability to bypass most AV software protection . | https://github.com/Screetsec/TheFatRat | 4332 | 1474| 
-| 20200701T13:12:30Z | Undetectable & Xor encrypting with custom KEY (FUD Metasploit Rat) bypass Top Antivirus like BitDefender,Malwarebytes,Avast,ESET-NOD32,AVG,... & Automatically Add ICON and MANIFEST to excitable | https://github.com/persianhydra/Xeexe-TopAntivirusEvasion | 55 | 17| 
-| 20200701T12:42:40Z | A great tool for Ethical Hackers, a malware programmed with Backdoor and Keylogger using C Language .. Use the File Readme for Instructions | https://github.com/avinashkranjan/MalwareUsingC | 2 | 0| 
-| 20200701T11:57:23Z | Yet another PHP Obfuscator | https://github.com/Cvar1984/yapo | 0 | 0| 
+| 20200701T23:18:52Z | Framework diseñado para automatizar el proceso de descarga e instalación de diferentes herramientas para pruebas de penetración, con una opción especial que permite generar puertas traseras mediante Metasploit Framework. | https://github.com/AdrMXR/KitHack | 63 | 21| 
+| 20200701T19:54:10Z | Thefatrat a massive exploiting tool : Easy tool to generate backdoor and easy tool to post exploitation attack like browser attack and etc . This tool compiles a malware with popular payload and then the compiled malware can be execute on windows, android, mac . The malware that created with this tool also have an ability to bypass most AV software protection . | https://github.com/Screetsec/TheFatRat | 4334 | 1475| 
+| 20200701T19:26:35Z | Easy to understand back door written in python  | https://github.com/alik604/myPyBackDoor | 8 | 5| 
+| 20200701T15:03:10Z | A great tool for Ethical Hackers, a malware programmed with Backdoor and Keylogger using C Language .. Use the File Readme for Instructions | https://github.com/avinashkranjan/MalwareUsingC | 3 | 0| 
+| 20200701T13:41:33Z | Undetectable & Xor encrypting with custom KEY (FUD Metasploit Rat) bypass Top Antivirus like BitDefender,Malwarebytes,Avast,ESET-NOD32,AVG,... & Automatically Add ICON and MANIFEST to excitable | https://github.com/persianhydra/Xeexe-TopAntivirusEvasion | 56 | 18| 
+| 20200701T11:57:23Z | Yet another PHP Obfuscator | https://github.com/Cvar1984/yapo | 0 | 1| 
 | 20200701T07:54:29Z | A curated list of awesome backdoor learning research | https://github.com/THUYimingLi/awesome-backdoor-learning | 6 | 0| 
-| 20200701T05:45:28Z | Framework diseñado para automatizar el proceso de descarga e instalación de diferentes herramientas para pruebas de penetración, con una opción especial que permite generar puertas traseras mediante Metasploit Framework. | https://github.com/AdrMXR/KitHack | 63 | 20| 
 | 20200701T04:54:19Z | Create simple backdoor using python | https://github.com/tuannam96/backdoor | 0 | 0| 
 | 20200701T00:59:10Z | Pupy is an opensource, cross-platform (Windows, Linux, OSX, Android) remote administration and post-exploitation tool mainly written in python | https://github.com/n1nj4sec/pupy | 5629 | 1487| 
 
