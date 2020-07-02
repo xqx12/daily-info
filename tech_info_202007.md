@@ -6,6 +6,14 @@
 # 玄武实验室 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20200702 | DisplayLink USB 图形软件任意文件删除本地提权漏洞分析 | https://offsec.almond.consulting/displaylink-usb-graphics-arbitrary-file-write-eop.html| 
+| 20200702 | QEMU 信息泄露漏洞 CVE-2015-5165 分析及利用 | https://programlife.net/2020/06/30/cve-2015-5165-qemu-rtl8139-vulnerability-analysis/| 
+| 20200702 | Apple 雷电口硬件级逆向分析 | https://nyansatan.github.io/lightning/| 
+| 20200702 | 特殊构造的 Javascript URL 对象可以实现 Firefox 信息泄漏 | https://talosintelligence.com/vulnerability_reports/TALOS-2020-1088| 
+| 20200702 | Time-travel Testing of Android Apps | https://mboehme.github.io/paper/ICSE20.TTT.pdf| 
+| 20200702 | Generating NDR Type Serializers for C# | https://www.tiraniddo.dev/2020/07/generating-ndr-type-serializers-for-c.html| 
+| 20200702 | Firefox 发布 78 版本漏洞公告 | https://www.mozilla.org/en-US/security/advisories/mfsa2020-24/| 
+| 20200702 | Resmack开发第二部分: 完整的Detour Fuzzer | https://narly.me/posts/resmack-detour-full-fuzzer-experiment/| 
 | 20200701 | SharpPdb - 解析 Windows PDB 调试符号文件的工具 | https://github.com/southpolenator/SharpPdb| 
 | 20200701 | iOS 版本 Firefox 浏览器修复退出隐私模式 indexdb 未清空的问题 | https://www.mozilla.org/en-US/security/advisories/mfsa2020-23/#CVE-2020-12414| 
 | 20200701 | from zero info to zero-day | https://secalert.net/from-zero-to-zeroday.html| 
@@ -18,41 +26,39 @@
 | 20200701 | Nexus Repository Manager 2.x 命令注入漏洞 (CVE-2019-5475) 两次绕过 | https://sec.today/pulses/beff1ae6-543c-4a60-9b96-d9b20ac41b3f/| 
 | 20200701 | Nexus Repository Manager 2.x 命令注入漏洞 (CVE-2019-5475) 两次绕过 | http://paper.seebug.org/1260/| 
 | 20200701 | 通过对DLL劫持绕过AMSI（防恶意软件扫描接口）新思路。 | http://sensepost.com/blog/2020/resurrecting-an-old-amsi-bypass/| 
-| 20200701 | Ghidra逆向工程系列教程。 | https://hackaday.io/project/172292-introduction-to-reverse-engineering-with-ghidra| 
-| 20200701 | ELF恶意软件分析101：Linux安全威胁今后要重点看待。 | https://intezer.com/blog/linux/elf-malware-analysis-101-linux-threats-no-longer-an-afterthought/| 
-| 20200701 | 在Kali Linux中使用PowerShell脚本进行渗透测试。 | https://www.offensive-security.com/offsec/kali-linux-powershell-pentesting/| 
-| 20200701 | 用于协助分析恶意软件的RedMimicry发布 | https://redmimicry.com/| 
-| 20200701 | 2012年以来一直存在的一种古老的恶意软件Alina重新流行起来，可通过DNS隧道窃取支付卡数据 | https://threatpost.com/alina-point-sale-malware-ongoing-campaign/157087/| 
-| 20200701 | 新型MacOS勒索软件EvilQuest 的沙箱分析结果 | https://www.joesecurity.org/reports/report-58680abd58baca826c2029f32e5b78b3.html| 
-| 20200701 | TrickBot恶意软件现在可通过检查屏幕分辨率以实现反分析 | https://www.bleepingcomputer.com/news/security/trickbot-malware-now-checks-screen-resolution-to-evade-analysis/| 
 
 
 # 安全维基 推荐
 | ts | title | url| 
 | --- | --- | ---| 
-| 20200701 | Docker安全性与攻击面分析 | https://mp.weixin.qq.com/s/BaeIGrBimww8SUtePDQ0jA| 
-| 20200701 | 子域名监控式漏洞扫描 | https://github.com/MisakiKata/crawlergo_sub| 
-| 20200701 | Automating DLL Hijack Discovery | https://posts.specterops.io/automating-dll-hijack-discovery-81c4295904b0| 
-| 20200701 | DDG的新征程——自研P2P协议构建混合P2P网络 | https://www.anquanke.com/post/id/209351| 
-| 20200701 | Hacking All The Cars - CAN总线逆向 | https://www.anquanke.com/post/id/209141| 
-| 20200701 | CVE-2020-1948 Apache Dubbo Hessian 反序列化漏洞分析 | https://www.anquanke.com/post/id/209251| 
-| 20200701 | Laravel 5.7反序列化漏洞(CVE-2019-9081+2020第五空间题解) | http://zeroyu.xyz/2020/06/28/Laravel-5-7%E5%8F%8D%E5%BA%8F%E5%88%97%E5%8C%96%E6%BC%8F%E6%B4%9E-CVE-2019-9081-2020%E7%AC%AC%E4%BA%94%E7%A9%BA%E9%97%B4%E9%A2%98%E8%A7%A3/| 
-| 20200701 | 浅谈 NLP 技术在威胁情报中的应用 | https://paper.seebug.org/1256/| 
+| 20200702 | Dubbo2.7.7 反序列化漏洞绕过分析 | https://paper.seebug.org/1263/| 
+| 20200702 | Windows/Linux文件下载方式汇总 | https://xz.aliyun.com/t/7937| 
+| 20200702 | 浅谈短信验证码漏洞 | https://xz.aliyun.com/t/7926| 
+| 20200702 | 对Linux 提权的简单总结 | https://xz.aliyun.com/t/7924| 
+| 20200702 | 踩坑记录-DNS Beacon | https://xz.aliyun.com/t/7938| 
+| 20200702 | Apple Lightning | https://nyansatan.github.io/lightning/| 
+| 20200702 | Netgear R6700v3 LAN RCE write-up and exploit | https://github.com/pedrib/PoC/blob/master/advisories/Pwn2Own/Tokyo_2019/tokyo_drift/tokyo_drift.md| 
+| 20200702 | Android App Source code Extraction and Bypassing Root and ... | https://vj0shii.info/android-app-testing-initial-steps/| 
+| 20200702 | leonidas: Automated Attack Simulation in the Cloud | https://github.com/FSecureLABS/leonidas| 
+| 20200702 | Exploiting an Envoy heap vulnerability | https://blog.envoyproxy.io/exploiting-an-envoy-heap-vulnerability-96173d41792| 
 
 
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20200702T10:45:16Z | CVE-2020-11444 | Exphub[漏洞利用脚本库] 包括Webloigc、Struts2、Tomcat、Nexus、Solr、Jboss、Drupal的漏洞利用脚本，优先更新高危且易利用的漏洞利用脚本，最新添加CVE-2020-11444、CVE-2020-10204、CVE-2020-10199、CVE-2020-1938、CVE-2020-2551、CVE-2020-2555、CVE-2020-2883、CVE-2019-17558、CVE-2019-6340 | https://github.com/zhzyker/exphub | | 
+| 20200702T10:11:45Z | CVE-2020-1948 | Null | https://github.com/ctlyz123/CVE-2020-1948 | | 
+| 20200702T10:11:44Z | cve-2020-1948 | Null | https://github.com/askDing/cve-2020-1948-poc | | 
+| 20200702T05:43:57Z | CVE-2020-2021 | CVE-2020-2021 | https://github.com/mr-r3b00t/CVE-2020-2021 | | 
 | 20200702T00:58:32Z | CVE-2020-0022 | This is a RCE bluetooth vulnerability on Android 8.0 and 9.0 | https://github.com/k3vinlusec/Bluefrag_CVE-2020-0022 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 01 MINUTES 22 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200702T00:53:06Z | CVE-2020-11444 | Exphub[漏洞利用脚本库] 包括Webloigc、Struts2、Tomcat、Nexus、Solr、Jboss、Drupal的漏洞利用脚本，优先更新高危且易利用的漏洞利用脚本，最新添加CVE-2020-11444、CVE-2020-10204、CVE-2020-10199、CVE-2020-1938、CVE-2020-2551、CVE-2020-2555、CVE-2020-2883、CVE-2019-17558、CVE-2019-6340 | https://github.com/zhzyker/exphub | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  20 HOURS 19 MINUTES 18 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200702T00:33:53Z | CVE-2020-12828 | CVE-2020-12828 PoC and Analysis.  | https://github.com/0xsha/ZombieVPN | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  20 HOURS 21 MINUTES 22 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200702T00:23:48Z | CVE-2020-2021 | CVE-2020-2021 | https://github.com/mr-r3b00t/CVE-2020-2021 | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  20 HOURS 21 MINUTES 08 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200701T10:00:07Z | CVE-2020-11519 | Technical Write-Up on and PoC Exploit for CVE-2020-11519 and CVE-2020-11520 | https://github.com/patois/winmagic_sd | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  20 HOURS 21 MINUTES 24 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200702T00:33:53Z | CVE-2020-12828 | CVE-2020-12828 PoC and Analysis.  | https://github.com/0xsha/ZombieVPN | | 
+| 20200701T10:00:07Z | CVE-2020-11519 | Technical Write-Up on and PoC Exploit for CVE-2020-11519 and CVE-2020-11520 | https://github.com/patois/winmagic_sd | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20200702T10:52:26Z | A 4chan image browser written in SwiftUI | https://github.com/jackpal/KleeneStar | 8 | 0| 
 | 20200701T22:49:39Z | Create CFGs and compute complexity metrics for Python, C++, and Java code. | https://github.com/hmc-alpaqa/metrinome | 3 | 0| 
 | 20200701T14:52:46Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1424 | 437| 
 
@@ -60,50 +66,52 @@
 # s2e on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20200702T07:37:32Z | WIZnet Serial to Ethernet(S2E) module based on W7500 chip, WIZ107/108SR S2E compatible device | https://github.com/Wiznet/WIZ750SR | 12 | 12| 
 
 
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20200702T02:21:08Z | Script to check MikroTik Routers the  WinBox Authentication Bypass Disclosure & RouterOS Jailbreak vulnerabilities | https://github.com/s1l3nt78/MkCheck | 21 | 8| 
-| 20200702T02:19:26Z | *Frequently Updated. Sifter is a osint, recon & vulnerability scanner. It combines a plethara of tools within different module sets in order to quickly perform recon tasks, check network firewalling, enumerate remote and local hosts, and scan for the %blue% vulnerabilities within microsft and if unpatched, exploit them.  It uses tools like blackwidow and konan for webdir enumeration and attack surface mapping rapidly using ASM.  | https://github.com/s1l3nt78/sifter | 171 | 57| 
-| 20200702T01:51:23Z | GEF - GDB Enhanced Features for exploit devs & reversers | https://github.com/hugsy/gef | 2969 | 437| 
-| 20200702T01:11:40Z | Quick and dirty demostration of a git exposure exploitation using python with asyncio | https://github.com/wallee94/exploit-git-exposure | 0 | 0| 
-| 20200702T01:11:03Z | One site among many, sharing scripts with other Roblox exploiters. | https://github.com/Supercolbat/RoXripts | 1 | 0| 
-| 20200702T01:04:31Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 6649 | 1042| 
-| 20200702T00:47:22Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 2 | 1| 
-| 20200702T00:31:55Z | Analyses/Exploits Of The 0Day Vulnerabilities I Found On Various Softwares | https://github.com/Enesdex/0Days | 0 | 0| 
-| 20200702T00:25:22Z | Silice is an open source language that simplifies writing algorithms fully exploiting FPGA architectures. | https://github.com/sylefeb/Silice | 199 | 12| 
-| 20200701T23:01:47Z | The writeups for hacking challenges and previous CTF | https://github.com/dev4ndr3w/writeups | 0 | 0| 
+| 20200702T11:44:33Z | The official Exploit Database repository | https://github.com/offensive-security/exploitdb | 5365 | 1547| 
+| 20200702T11:24:46Z | PlayStation 2 DVD Player Exploit | https://github.com/CTurt/FreeDVDBoot | 962 | 63| 
+| 20200702T10:46:33Z | A nuker for discord.py, designed to act as a regular bot. | https://github.com/Catterall/Stealth-Nuker | 0 | 0| 
+| 20200702T10:44:16Z | SpringBoot 相关漏洞学习资料，利用方法和技巧合集，黑盒安全评估 checklist | https://github.com/LandGrey/SpringBootVulExploit | 930 | 185| 
+| 20200702T10:14:30Z | A repository for examining the frequency and severity of vulnerabilities and exploits. | https://github.com/blackswanburst/WittyStatistician | 0 | 1| 
+| 20200702T09:41:21Z | The Browser Exploitation Framework Project | https://github.com/beefproject/beef | 5117 | 1228| 
+| 20200702T09:35:42Z | PoC exploiting Aligned Chunk Confusion on Windows kernel Segment Heap | https://github.com/synacktiv/Windows-kernel-SegmentHeap-Aligned-Chunk-Confusion | 56 | 19| 
+| 20200702T09:25:20Z | CVE Exploit PoC%s | https://github.com/lockedbyte/CVE-Exploits | 0 | 0| 
+| 20200702T08:20:29Z | All in one tool to Create, Exploit, Bind Payloads etcetera. The Perfect tool To create Payloads For Windows and Android. | https://github.com/SLICK-PUNK/ShatterFist | 0 | 0| 
+| 20200702T07:45:03Z | X Attacker Tool ☣ Website Vulnerability Scanner & Auto Exploiter | https://github.com/Moham3dRiahi/XAttacker | 752 | 362| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20200702T01:46:47Z | Undetectable & Xor encrypting with custom KEY (FUD Metasploit Rat) bypass Top Antivirus like BitDefender,Malwarebytes,Avast,ESET-NOD32,AVG,... & Automatically Add ICON and MANIFEST to excitable | https://github.com/persianhydra/Xeexe-TopAntivirusEvasion | 57 | 20| 
-| 20200702T00:50:20Z | Thefatrat a massive exploiting tool : Easy tool to generate backdoor and easy tool to post exploitation attack like browser attack and etc . This tool compiles a malware with popular payload and then the compiled malware can be execute on windows, android, mac . The malware that created with this tool also have an ability to bypass most AV software protection . | https://github.com/Screetsec/TheFatRat | 4335 | 1475| 
+| 20200702T10:22:34Z | Undetectable & Xor encrypting with custom KEY (FUD Metasploit Rat) bypass Top Antivirus like BitDefender,Malwarebytes,Avast,ESET-NOD32,AVG,... & Automatically Add ICON and MANIFEST to excitable | https://github.com/persianhydra/Xeexe-TopAntivirusEvasion | 62 | 22| 
+| 20200702T08:39:50Z | Yet another PHP Obfuscator | https://github.com/Cvar1984/yapo | 0 | 1| 
+| 20200702T03:40:15Z | A curated list of awesome backdoor learning research | https://github.com/THUYimingLi/awesome-backdoor-learning | 6 | 0| 
+| 20200702T03:17:11Z | Python3 based backdoor | https://github.com/its-mr-monday/Py_BackDoor | 0 | 0| 
+| 20200702T02:31:11Z | Null | https://github.com/PacmanHK-coder/backdoor | 0 | 0| 
+| 20200702T00:50:20Z | Thefatrat a massive exploiting tool : Easy tool to generate backdoor and easy tool to post exploitation attack like browser attack and etc . This tool compiles a malware with popular payload and then the compiled malware can be execute on windows, android, mac . The malware that created with this tool also have an ability to bypass most AV software protection . | https://github.com/Screetsec/TheFatRat | 4335 | 1476| 
 | 20200702T00:06:35Z | Framework diseñado para automatizar el proceso de descarga e instalación de diferentes herramientas para pruebas de penetración, con una opción especial que permite generar puertas traseras mediante Metasploit Framework. | https://github.com/AdrMXR/KitHack | 63 | 21| 
 | 20200701T19:26:35Z | Easy to understand back door written in python  | https://github.com/alik604/myPyBackDoor | 8 | 5| 
 | 20200701T15:03:10Z | A great tool for Ethical Hackers, a malware programmed with Backdoor and Keylogger using C Language .. Use the File Readme for Instructions | https://github.com/avinashkranjan/MalwareUsingC | 3 | 0| 
-| 20200701T11:57:23Z | Yet another PHP Obfuscator | https://github.com/Cvar1984/yapo | 0 | 1| 
-| 20200701T07:54:29Z | A curated list of awesome backdoor learning research | https://github.com/THUYimingLi/awesome-backdoor-learning | 6 | 0| 
 | 20200701T04:54:19Z | Create simple backdoor using python | https://github.com/tuannam96/backdoor | 0 | 0| 
-| 20200701T00:59:10Z | Pupy is an opensource, cross-platform (Windows, Linux, OSX, Android) remote administration and post-exploitation tool mainly written in python | https://github.com/n1nj4sec/pupy | 5629 | 1487| 
 
 
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20200702T02:37:11Z | OSS-Fuzz - continuous fuzzing of open source software. | https://github.com/google/oss-fuzz | 5357 | 1027| 
-| 20200702T02:32:28Z | Pluralsite demo repo! | https://github.com/EvolvedKiwi/fuzzy-spoon | 0 | 0| 
-| 20200702T02:29:16Z | A framework provides an interface to monitor and control fuzzers | https://github.com/pzread/fuzvisor | 13 | 0| 
-| 20200702T02:18:34Z | Null | https://github.com/guan15/fuzzy-waffle | 1 | 0| 
-| 20200702T01:33:56Z | A Rust toolkit to combine property-based testing and fuzzing. | https://github.com/facebookincubator/propfuzz | 37 | 1| 
-| 20200702T01:24:35Z | PID | https://github.com/LBJ-ARC/fuzzyPid | 0 | 0| 
-| 20200702T01:05:13Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 3014 | 689| 
-| 20200701T22:29:20Z | just a macro that generates the fuzz you need to deal with OpenGL | https://github.com/krux02/opengl-sandbox | 86 | 6| 
-| 20200701T22:15:32Z | Extendable module loader | https://github.com/terradistac/fuzzy-octo-engine | 0 | 0| 
-| 20200701T22:09:45Z | Null | https://github.com/googleinterns/zetasql-fuzzing | 0 | 0| 
+| 20200702T12:02:32Z | Null | https://github.com/lazygrey/fuzzing_with_cmaes | 0 | 0| 
+| 20200702T11:47:16Z | Null | https://github.com/kenkoooo/fuzzy-octo-fiesta | 0 | 0| 
+| 20200702T11:36:41Z | Null | https://github.com/s9varesc/url-fuzzing-docker | 0 | 0| 
+| 20200702T11:34:09Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 3016 | 689| 
+| 20200702T11:25:31Z | Null | https://github.com/janursa/fuzzy | 0 | 0| 
+| 20200702T11:06:50Z | Null | https://github.com/fossegutten/FuzzyStoryEditor | 50 | 0| 
+| 20200702T10:42:55Z | Null | https://github.com/s9varesc/url-fuzzing | 0 | 0| 
+| 20200702T10:32:08Z | Null | https://github.com/sokolovanatusik0273/fuzzy-disco | 0 | 0| 
+| 20200702T10:03:01Z | Null | https://github.com/Sambigeara/fuzzy-note | 1 | 0| 
+| 20200702T09:20:42Z | Pluralsite demo repo! | https://github.com/EvolvedKiwi/fuzzy-spoon | 0 | 0| 
 
 
 
