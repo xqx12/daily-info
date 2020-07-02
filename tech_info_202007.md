@@ -76,11 +76,11 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20200702T01:46:47Z | Undetectable & Xor encrypting with custom KEY (FUD Metasploit Rat) bypass Top Antivirus like BitDefender,Malwarebytes,Avast,ESET-NOD32,AVG,... & Automatically Add ICON and MANIFEST to excitable | https://github.com/persianhydra/Xeexe-TopAntivirusEvasion | 57 | 20| 
 | 20200702T00:50:20Z | Thefatrat a massive exploiting tool : Easy tool to generate backdoor and easy tool to post exploitation attack like browser attack and etc . This tool compiles a malware with popular payload and then the compiled malware can be execute on windows, android, mac . The malware that created with this tool also have an ability to bypass most AV software protection . | https://github.com/Screetsec/TheFatRat | 4335 | 1475| 
 | 20200702T00:06:35Z | Framework diseñado para automatizar el proceso de descarga e instalación de diferentes herramientas para pruebas de penetración, con una opción especial que permite generar puertas traseras mediante Metasploit Framework. | https://github.com/AdrMXR/KitHack | 63 | 21| 
 | 20200701T19:26:35Z | Easy to understand back door written in python  | https://github.com/alik604/myPyBackDoor | 8 | 5| 
 | 20200701T15:03:10Z | A great tool for Ethical Hackers, a malware programmed with Backdoor and Keylogger using C Language .. Use the File Readme for Instructions | https://github.com/avinashkranjan/MalwareUsingC | 3 | 0| 
-| 20200701T13:41:33Z | Undetectable & Xor encrypting with custom KEY (FUD Metasploit Rat) bypass Top Antivirus like BitDefender,Malwarebytes,Avast,ESET-NOD32,AVG,... & Automatically Add ICON and MANIFEST to excitable | https://github.com/persianhydra/Xeexe-TopAntivirusEvasion | 56 | 19| 
 | 20200701T11:57:23Z | Yet another PHP Obfuscator | https://github.com/Cvar1984/yapo | 0 | 1| 
 | 20200701T07:54:29Z | A curated list of awesome backdoor learning research | https://github.com/THUYimingLi/awesome-backdoor-learning | 6 | 0| 
 | 20200701T04:54:19Z | Create simple backdoor using python | https://github.com/tuannam96/backdoor | 0 | 0| 
