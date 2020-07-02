@@ -91,9 +91,9 @@
 | 20200701T22:00:35Z | Write unit and fuzz tests for Elm code. | https://github.com/elm-explorations/test | 173 | 21| 
 | 20200701T21:53:15Z | Wrote up fuzzy vault algorithm without implementing application specific pieces | https://github.com/jweezy24/Fuzzy_vault | 0 | 0| 
 | 20200701T21:11:31Z | Find the ideal fuzz targets in a Rust codebase | https://github.com/trailofbits/siderophile | 80 | 7| 
-| 20200701T20:57:36Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 3013 | 689| 
 | 20200701T20:41:56Z | Code for Taskcluster Tasks in Fuzzing | https://github.com/MozillaSecurity/fuzzing-tc | 2 | 2| 
 | 20200701T20:30:04Z | Null | https://github.com/Sambigeara/fuzzy-note | 1 | 0| 
+| 20200701T19:49:05Z | Null | https://github.com/lucianaribeiro/fuzzy-trader-test | 0 | 0| 
 
 
 
