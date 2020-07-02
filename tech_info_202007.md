@@ -46,13 +46,13 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20200702T10:45:16Z | CVE-2020-11444 | Exphub[漏洞利用脚本库] 包括Webloigc、Struts2、Tomcat、Nexus、Solr、Jboss、Drupal的漏洞利用脚本，优先更新高危且易利用的漏洞利用脚本，最新添加CVE-2020-11444、CVE-2020-10204、CVE-2020-10199、CVE-2020-1938、CVE-2020-2551、CVE-2020-2555、CVE-2020-2883、CVE-2019-17558、CVE-2019-6340 | https://github.com/zhzyker/exphub | | 
-| 20200702T10:11:45Z | CVE-2020-1948 | Null | https://github.com/ctlyz123/CVE-2020-1948 | | 
-| 20200702T10:11:44Z | cve-2020-1948 | Null | https://github.com/askDing/cve-2020-1948-poc | | 
-| 20200702T05:43:57Z | CVE-2020-2021 | CVE-2020-2021 | https://github.com/mr-r3b00t/CVE-2020-2021 | | 
+| 20200702T10:45:16Z | CVE-2020-11444 | Exphub[漏洞利用脚本库] 包括Webloigc、Struts2、Tomcat、Nexus、Solr、Jboss、Drupal的漏洞利用脚本，优先更新高危且易利用的漏洞利用脚本，最新添加CVE-2020-11444、CVE-2020-10204、CVE-2020-10199、CVE-2020-1938、CVE-2020-2551、CVE-2020-2555、CVE-2020-2883、CVE-2019-17558、CVE-2019-6340 | https://github.com/zhzyker/exphub | 未查询到CVE信息| 
+| 20200702T10:11:45Z | CVE-2020-1948 | Null | https://github.com/ctlyz123/CVE-2020-1948 | 未查询到CVE信息| 
+| 20200702T10:11:44Z | cve-2020-1948 | Null | https://github.com/askDing/cve-2020-1948-poc | 未查询到CVE信息| 
+| 20200702T05:43:57Z | CVE-2020-2021 | CVE-2020-2021 | https://github.com/mr-r3b00t/CVE-2020-2021 | 未查询到CVE信息| 
 | 20200702T00:58:32Z | CVE-2020-0022 | This is a RCE bluetooth vulnerability on Android 8.0 and 9.0 | https://github.com/k3vinlusec/Bluefrag_CVE-2020-0022 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 01 MINUTES 22 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200702T00:33:53Z | CVE-2020-12828 | CVE-2020-12828 PoC and Analysis.  | https://github.com/0xsha/ZombieVPN | | 
-| 20200701T10:00:07Z | CVE-2020-11519 | Technical Write-Up on and PoC Exploit for CVE-2020-11519 and CVE-2020-11520 | https://github.com/patois/winmagic_sd | | 
+| 20200702T00:33:53Z | CVE-2020-12828 | CVE-2020-12828 PoC and Analysis.  | https://github.com/0xsha/ZombieVPN | 未查询到CVE信息| 
+| 20200701T10:00:07Z | CVE-2020-11519 | Technical Write-Up on and PoC Exploit for CVE-2020-11519 and CVE-2020-11520 | https://github.com/patois/winmagic_sd | 未查询到CVE信息| 
 
 
 # klee on Github 推荐
@@ -72,16 +72,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20200702T12:22:46Z | Script to check MikroTik Routers the  WinBox Authentication Bypass Disclosure & RouterOS Jailbreak vulnerabilities | https://github.com/s1l3nt78/MkCheck | 22 | 8| 
+| 20200702T12:16:20Z | Pentest important small exploitation scripts  | https://github.com/cyberjatin/mynotes | 0 | 0| 
+| 20200702T12:13:22Z | onifw is a console framework for pentesting | https://github.com/w0bos/onifw | 4 | 0| 
+| 20200702T12:03:08Z | PlayStation 2 DVD Player Exploit | https://github.com/CTurt/FreeDVDBoot | 963 | 63| 
 | 20200702T11:44:33Z | The official Exploit Database repository | https://github.com/offensive-security/exploitdb | 5365 | 1547| 
-| 20200702T11:24:46Z | PlayStation 2 DVD Player Exploit | https://github.com/CTurt/FreeDVDBoot | 962 | 63| 
 | 20200702T10:46:33Z | A nuker for discord.py, designed to act as a regular bot. | https://github.com/Catterall/Stealth-Nuker | 0 | 0| 
 | 20200702T10:44:16Z | SpringBoot 相关漏洞学习资料，利用方法和技巧合集，黑盒安全评估 checklist | https://github.com/LandGrey/SpringBootVulExploit | 930 | 185| 
 | 20200702T10:14:30Z | A repository for examining the frequency and severity of vulnerabilities and exploits. | https://github.com/blackswanburst/WittyStatistician | 0 | 1| 
 | 20200702T09:41:21Z | The Browser Exploitation Framework Project | https://github.com/beefproject/beef | 5117 | 1228| 
 | 20200702T09:35:42Z | PoC exploiting Aligned Chunk Confusion on Windows kernel Segment Heap | https://github.com/synacktiv/Windows-kernel-SegmentHeap-Aligned-Chunk-Confusion | 56 | 19| 
-| 20200702T09:25:20Z | CVE Exploit PoC%s | https://github.com/lockedbyte/CVE-Exploits | 0 | 0| 
-| 20200702T08:20:29Z | All in one tool to Create, Exploit, Bind Payloads etcetera. The Perfect tool To create Payloads For Windows and Android. | https://github.com/SLICK-PUNK/ShatterFist | 0 | 0| 
-| 20200702T07:45:03Z | X Attacker Tool ☣ Website Vulnerability Scanner & Auto Exploiter | https://github.com/Moham3dRiahi/XAttacker | 752 | 362| 
 
 
 # backdoor on Github 推荐
