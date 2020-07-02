@@ -21,6 +21,10 @@
 | 20200701 | Ghidra逆向工程系列教程。 | https://hackaday.io/project/172292-introduction-to-reverse-engineering-with-ghidra| 
 | 20200701 | ELF恶意软件分析101：Linux安全威胁今后要重点看待。 | https://intezer.com/blog/linux/elf-malware-analysis-101-linux-threats-no-longer-an-afterthought/| 
 | 20200701 | 在Kali Linux中使用PowerShell脚本进行渗透测试。 | https://www.offensive-security.com/offsec/kali-linux-powershell-pentesting/| 
+| 20200701 | 用于协助分析恶意软件的RedMimicry发布 | https://redmimicry.com/| 
+| 20200701 | 2012年以来一直存在的一种古老的恶意软件Alina重新流行起来，可通过DNS隧道窃取支付卡数据 | https://threatpost.com/alina-point-sale-malware-ongoing-campaign/157087/| 
+| 20200701 | 新型MacOS勒索软件EvilQuest 的沙箱分析结果 | https://www.joesecurity.org/reports/report-58680abd58baca826c2029f32e5b78b3.html| 
+| 20200701 | TrickBot恶意软件现在可通过检查屏幕分辨率以实现反分析 | https://www.bleepingcomputer.com/news/security/trickbot-malware-now-checks-screen-resolution-to-evade-analysis/| 
 
 
 # 安全维基 推荐
@@ -39,7 +43,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20200701T10:00:07Z | CVE-2020-11519 | Technical Write-Up on and PoC Exploit for CVE-2020-11519 and CVE-2020-11520 | https://github.com/patois/winmagic_sd | 未查询到CVE信息| 
+| 20200701T10:00:07Z | CVE-2020-11519 | Technical Write-Up on and PoC Exploit for CVE-2020-11519 and CVE-2020-11520 | https://github.com/patois/winmagic_sd | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  20 HOURS 21 MINUTES 24 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 
 
 # klee on Github 推荐
@@ -61,12 +65,12 @@
 | 20200701T22:52:11Z | Summarization of exploitation techniques and researches I learnt | https://github.com/dev4ndr3w/TIL | 0 | 0| 
 | 20200701T22:40:45Z | Exploits nested.parallel and nested.optimize to tune neuronal cell models | https://github.com/neurosutras/optimize_cells | 0 | 1| 
 | 20200701T21:25:49Z | An app with really insecure crypto. To be used to see/test/exploit weak cryptographic implementations as well as to learn a little bit more about crypto, without the need to dive deep into the math behind it | https://github.com/DamnVulnerableCryptoApp/DamnVulnerableCryptoApp | 1 | 0| 
-| 20200701T21:10:37Z | GEF - GDB Enhanced Features for exploit devs & reversers | https://github.com/hugsy/gef | 2968 | 437| 
 | 20200701T21:09:37Z | Using opencv and orb detector feature detection exploited for augmented reality | https://github.com/Coderangshu/Augmented-Reality | 0 | 0| 
 | 20200701T20:09:32Z | this bash script let you download scripts and clone repos for remote exploits | https://github.com/FabioDefilippo/linuxallremote | 0 | 0| 
 | 20200701T19:46:10Z | Public Exploits + Extra-curriculum for OSCE Exam Preparation | https://github.com/bigb0sss/OSCE | 14 | 3| 
 | 20200701T19:45:17Z | POC of android exploit and android security tools | https://github.com/sleepyowl-beep/android_security | 0 | 0| 
 | 20200701T19:29:18Z | Software Exploit and Vulnerability | https://github.com/nvnprasanth/bufferOverFlow | 0 | 0| 
+| 20200701T19:13:06Z | 🎣  Fish for line detections by exploiting the known velocity structure of the disk. | https://github.com/richteague/gofish | 5 | 3| 
 
 
 # backdoor on Github 推荐
@@ -83,7 +87,6 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20200701T23:56:44Z | OSS-Fuzz - continuous fuzzing of open source software. | https://github.com/google/oss-fuzz | 5357 | 1027| 
 | 20200701T22:29:20Z | just a macro that generates the fuzz you need to deal with OpenGL | https://github.com/krux02/opengl-sandbox | 86 | 6| 
 | 20200701T22:15:32Z | Extendable module loader | https://github.com/terradistac/fuzzy-octo-engine | 0 | 0| 
 | 20200701T22:09:45Z | Null | https://github.com/googleinterns/zetasql-fuzzing | 0 | 0| 
@@ -93,6 +96,7 @@
 | 20200701T20:41:56Z | Code for Taskcluster Tasks in Fuzzing | https://github.com/MozillaSecurity/fuzzing-tc | 2 | 2| 
 | 20200701T20:30:04Z | Null | https://github.com/Sambigeara/fuzzy-note | 1 | 0| 
 | 20200701T19:49:05Z | Null | https://github.com/lucianaribeiro/fuzzy-trader-test | 0 | 0| 
+| 20200701T19:30:35Z | FuzzyKnights: Protectors of the Forst - 16bit Adventure | https://github.com/mjnrock/fuzzyknights-arcade | 0 | 0| 
 
 
 
