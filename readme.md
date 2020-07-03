@@ -31,14 +31,14 @@
 | --- | --- | --- | --- | ---| 
 | 20200703T11:15:23Z | CVE-2020-1948 | Null | https://github.com/ctlyz123/CVE-2020-1948 | 未查询到CVE信息| 
 | 20200703T10:28:20Z | CVE-2020-2551 | CVE-2020-2551 | https://github.com/0nise/CVE-2020-2551 | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
-| 20200703T10:20:07Z | CVE-2020-11444 | Exphub[漏洞利用脚本库] 包括Webloigc、Struts2、Tomcat、Nexus、Solr、Jboss、Drupal的漏洞利用脚本，优先更新高危且易利用的漏洞利用脚本，最新添加CVE-2020-11444、CVE-2020-10204、CVE-2020-10199、CVE-2020-1938、CVE-2020-2551、CVE-2020-2555、CVE-2020-2883、CVE-2019-17558、CVE-2019-6340 | https://github.com/zhzyker/exphub | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 57 MINUTES 07 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200703T09:52:10Z | CVE-2020-2021 | CVE-2020-2021 | https://github.com/mr-r3b00t/CVE-2020-2021 | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 56 MINUTES 22 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200703T07:43:51Z | CVE-2020-12856 | A bluetooth-related vulnerability in some contact tracing apps | https://github.com/alwentiu/COVIDSafe-CVE-2020-12856 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 57 MINUTES 08 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200703T06:21:33Z | CVE-2020-10665 | POC for CVE-2020-10665 Docker Desktop Local Privilege Escalation | https://github.com/spaceraccoon/CVE-2020-10665 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 57 MINUTES 18 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200703T05:01:47Z | CVE-2020-12828 | CVE-2020-12828 PoC and Analysis.  | https://github.com/0xsha/ZombieVPN | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 56 MINUTES 24 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200703T04:24:26Z | CVE-2020-13777 | Null | https://github.com/prprhyt/PoC_TLS1_3_CVE-2020-13777 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 57 MINUTES 14 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200703T02:46:55Z | CVE-2020-1948 | Apache Dubbo CVE-2020-1948 漏洞测试环境，亲测可用。 | https://github.com/DSO-Lab/Dubbo-CVE-2020-1948 | 未查询到CVE信息| 
-| 20200703T00:58:57Z | CVE-2020-14947 | The official exploit for OCS Inventory NG v2.7 Remote Command Execution CVE-2020-14947 | https://github.com/mhaskar/CVE-2020-14947 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 56 MINUTES 27 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200703T10:20:07Z | CVE-2020-11444 | Exphub[漏洞利用脚本库] 包括Webloigc、Struts2、Tomcat、Nexus、Solr、Jboss、Drupal的漏洞利用脚本，优先更新高危且易利用的漏洞利用脚本，最新添加CVE-2020-11444、CVE-2020-10204、CVE-2020-10199、CVE-2020-1938、CVE-2020-2551、CVE-2020-2555、CVE-2020-2883、CVE-2019-17558、CVE-2019-6340 | https://github.com/zhzyker/exphub | | 
+| 20200703T09:52:10Z | CVE-2020-2021 | CVE-2020-2021 | https://github.com/mr-r3b00t/CVE-2020-2021 | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 55 MINUTES 22 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200703T07:43:51Z | CVE-2020-12856 | A bluetooth-related vulnerability in some contact tracing apps | https://github.com/alwentiu/COVIDSafe-CVE-2020-12856 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 56 MINUTES 10 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200703T06:21:33Z | CVE-2020-10665 | POC for CVE-2020-10665 Docker Desktop Local Privilege Escalation | https://github.com/spaceraccoon/CVE-2020-10665 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 56 MINUTES 20 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200703T05:01:47Z | CVE-2020-12828 | CVE-2020-12828 PoC and Analysis.  | https://github.com/0xsha/ZombieVPN | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 55 MINUTES 24 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200703T04:24:26Z | CVE-2020-13777 | Null | https://github.com/prprhyt/PoC_TLS1_3_CVE-2020-13777 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 56 MINUTES 16 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200703T02:46:55Z | CVE-2020-1948 | Apache Dubbo CVE-2020-1948 漏洞测试环境，亲测可用。 | https://github.com/DSO-Lab/Dubbo-CVE-2020-1948 | | 
+| 20200703T00:58:57Z | CVE-2020-14947 | The official exploit for OCS Inventory NG v2.7 Remote Command Execution CVE-2020-14947 | https://github.com/mhaskar/CVE-2020-14947 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 55 MINUTES 27 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 
 
 # klee on Github 推荐
@@ -75,14 +75,18 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20200703T09:30:41Z | Null | https://github.com/BPHacks/Backdoor | 0 | 0| 
+| 20200703T08:40:56Z | Python source code obfuscation project. This is a mini project that supplements my main project the PyIris-backdoor project. | https://github.com/angus-y/PyCantRead | 1 | 0| 
+| 20200703T02:26:36Z | Undetectable & Xor encrypting with custom KEY (FUD Metasploit Rat) bypass Top Antivirus like BitDefender,Malwarebytes,Avast,ESET-NOD32,AVG,... & Automatically Add ICON and MANIFEST to excitable | https://github.com/persianhydra/Xeexe-TopAntivirusEvasion | 64 | 24| 
 | 20200703T00:22:37Z | A deck-building roguelike cyberpunk game. | https://github.com/uspgamedev/backdoor | 15 | 2| 
 
 
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20200703T12:02:38Z | Null | https://github.com/s9varesc/url-fuzzing | 0 | 0| 
+| 20200703T12:02:06Z | A genetic algorithm based android fuzzer | https://github.com/aga7hokakological/fuzzDr0id | 0 | 0| 
 | 20200703T11:56:38Z | Fuzzing Parsers with Tokens | https://github.com/uds-se/lFuzzer | 14 | 2| 
-| 20200703T11:51:42Z | Null | https://github.com/s9varesc/url-fuzzing | 0 | 0| 
 | 20200703T11:51:23Z | A JavaScript Engine Fuzzer | https://github.com/googleprojectzero/fuzzilli | 946 | 151| 
 | 20200703T11:44:59Z | Null | https://github.com/Boriver/fuzzy | 0 | 0| 
 | 20200703T11:09:41Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 3019 | 689| 
@@ -90,7 +94,6 @@
 | 20200703T09:42:30Z | Simple python web fuzzer | https://github.com/z3pp/ZFuzz | 24 | 3| 
 | 20200703T09:18:01Z | simple project to test fuzzy content compare | https://github.com/basalt79/fuzzy | 0 | 0| 
 | 20200703T09:17:53Z | Fuzzing framework for the GENIVI/vsomeip library | https://github.com/cfanatic/vsomeip-fuzzing | 0 | 0| 
-| 20200703T08:20:23Z | This contains a self made library in c++ from the motive of fuzzing. | https://github.com/DeepeshLall/Fuzzer | 1 | 1| 
 
 
 
