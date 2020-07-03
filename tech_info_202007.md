@@ -46,13 +46,13 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20200702T22:35:50Z | CVE-2020-0688 | Quick tool for checking CVE-2020-0688 on multiple hosts with a non-intrusive method. | https://github.com/onSec-fr/CVE-2020-0688-Scanner | | 
+| 20200702T22:35:50Z | CVE-2020-0688 | Quick tool for checking CVE-2020-0688 on multiple hosts with a non-intrusive method. | https://github.com/onSec-fr/CVE-2020-0688-Scanner | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 56 MINUTES 52 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20200702T18:34:04Z | CVE-2020-14947 | The official exploit for OCS Inventory NG v2.7 Remote Command Execution CVE-2020-14947 | https://github.com/mhaskar/CVE-2020-14947 | OCS Inventory NG 2.7允许通过Shell元字符进行远程命令执行需要require / commandLine / CommandLine.php，因为plugins / main_sections / ms_config / ms_snmp_config.php中的mib_file在get_mib_oid中处理不当。| 
-| 20200702T15:28:44Z | CVE-2020-2021 | CVE-2020-2021 | https://github.com/mr-r3b00t/CVE-2020-2021 | | 
+| 20200702T15:28:44Z | CVE-2020-2021 | CVE-2020-2021 | https://github.com/mr-r3b00t/CVE-2020-2021 | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 57 MINUTES 06 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20200702T14:50:42Z | CVE-2020-12828 | CVE-2020-12828 PoC and Analysis.  | https://github.com/0xsha/ZombieVPN | 在1.3.3.218之前的AnchorFree VPN SDK中发现了一个问题。 VPN SDK服务通过绑定到本地主机的套接字获取某些可执行位置。绑定到套接字并提供恶意可执行文件所在的路径会导致以SYSTEM特权执行恶意可执行文件。| 
-| 20200702T14:22:47Z | CVE-2020-11444 | Exphub[漏洞利用脚本库] 包括Webloigc、Struts2、Tomcat、Nexus、Solr、Jboss、Drupal的漏洞利用脚本，优先更新高危且易利用的漏洞利用脚本，最新添加CVE-2020-11444、CVE-2020-10204、CVE-2020-10199、CVE-2020-1938、CVE-2020-2551、CVE-2020-2555、CVE-2020-2883、CVE-2019-17558、CVE-2019-6340 | https://github.com/zhzyker/exphub | 直至3.21.2（含）的Sonatype Nexus Repository Manager 3.x具有错误的访问控制。| 
+| 20200702T14:22:47Z | CVE-2020-11444 | Exphub[漏洞利用脚本库] 包括Webloigc、Struts2、Tomcat、Nexus、Solr、Jboss、Drupal的漏洞利用脚本，优先更新高危且易利用的漏洞利用脚本，最新添加CVE-2020-11444、CVE-2020-10204、CVE-2020-10199、CVE-2020-1938、CVE-2020-2551、CVE-2020-2555、CVE-2020-2883、CVE-2019-17558、CVE-2019-6340 | https://github.com/zhzyker/exphub | | 
 | 20200702T12:34:05Z | 未知编号 | CVE Data Analysis, CVE Monitor, CVE EXP Prediction Based on Deep Learning. 1999-2020年存量CVE数据分析、监控CVE增量更新、基于深度学习的CVE EXP预测和自动化推送 | https://github.com/404notf0und/CVE-Flow | 未查询到CVE信息| 
-| 20200702T10:11:45Z | CVE-2020-1948 | Null | https://github.com/ctlyz123/CVE-2020-1948 | 未查询到CVE信息| 
+| 20200702T10:11:45Z | CVE-2020-1948 | Null | https://github.com/ctlyz123/CVE-2020-1948 | | 
 | 20200702T10:11:44Z | cve-2020-1948 | Null | https://github.com/askDing/cve-2020-1948-poc | 未查询到CVE信息| 
 | 20200702T00:58:32Z | CVE-2020-0022 | This is a RCE bluetooth vulnerability on Android 8.0 and 9.0 | https://github.com/k3vinlusec/Bluefrag_CVE-2020-0022 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 01 MINUTES 22 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20200701T10:00:07Z | CVE-2020-11519 | Technical Write-Up on and PoC Exploit for CVE-2020-11519 and CVE-2020-11520 | https://github.com/patois/winmagic_sd | WinMagic SecureDoc v8.5和更早版本的SDDisk2k.sys驱动程序允许本地用户通过\\。\ SecureDocDevice句柄读取或写入物理磁盘扇区。利用此漏洞将导致特权代码执行。| 
@@ -79,31 +79,31 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20200702T13:42:21Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 6654 | 1042| 
-| 20200702T13:33:28Z | PlayStation 2 DVD Player Exploit | https://github.com/CTurt/FreeDVDBoot | 968 | 63| 
-| 20200702T13:00:50Z | The popular GENIE Generator product is used by nearly all accelerator neutrino experiments and it plays a key role in the exploitation of neutrino data. The Generator implements a modern software framework and it includes state-of-the-art physics modules. It captures the latest results of the GENIE global analysis of neutrino scattering data and includes several tunes that were produced using the proprietary Comparisons and Tuning products. The GENIE physics model is universal and comprehensive:  It handles all neutrinos and targets, and all processes relevant from MeV to PeV energy scales. The Generator includes several tools (flux drivers, detector geometry navigators, specialized event generation apps, event reweighting engines) to simulate complex experimental setups in full detail and to support generator-related analysis tasks.  | https://github.com/GENIE-MC/Generator | 14 | 40| 
-| 20200702T12:59:33Z | A repository for examining the frequency and severity of vulnerabilities and exploits. | https://github.com/blackswanburst/WittyStatistician | 0 | 1| 
-| 20200702T12:56:32Z | InfiniteWP Client < 1.9.4.5 - Authentication Bypass | https://github.com/random-robbie/InfiniteWP-exploit | 6 | 3| 
-| 20200702T12:51:13Z | Panda Exploit ( Web Based ) | https://github.com/SkieAdmin/- | 0 | 0| 
-| 20200702T12:47:24Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 2 | 1| 
-| 20200702T12:47:22Z | Pentest important small exploitation scripts  | https://github.com/cyberjatin/mynotes | 0 | 0| 
-| 20200702T12:22:46Z | Script to check MikroTik Routers the  WinBox Authentication Bypass Disclosure & RouterOS Jailbreak vulnerabilities | https://github.com/s1l3nt78/MkCheck | 22 | 8| 
-| 20200702T12:13:22Z | onifw is a console framework for pentesting | https://github.com/w0bos/onifw | 4 | 0| 
+| 20200702T23:39:47Z | A General Repository for Exploit Patches on iOS (in case people are too lazy to look for a repo) | https://github.com/syns/iospatches | 1 | 0| 
+| 20200702T23:17:28Z | Null | https://github.com/Jb05s/Exploit-Dev-C | 5 | 4| 
+| 20200702T22:38:44Z | A cheat sheet that contains common enumeration and attack methods for Windows Active Directory. | https://github.com/Integration-IT/Active-Directory-Exploitation-Cheat-Sheet | 385 | 79| 
+| 20200702T22:35:10Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 6655 | 1042| 
+| 20200702T22:20:28Z | A nuker for discord.py, designed to act as a regular bot. | https://github.com/Catterall/Stealth-Nuker | 0 | 0| 
+| 20200702T22:12:23Z | EternalBlue suite remade in C includes: MS17-010 Exploit, EternalBlue vulnerability detector, DoublePulsar detector and DoublePulsar UploadDLL. | https://github.com/bhassani/EternalBlueC | 0 | 0| 
+| 20200702T20:58:55Z | A post exploitation framework designed to operate covertly on heavily monitored enviroments | https://github.com/bats3c/shad0w | 615 | 83| 
+| 20200702T20:37:25Z | CTF framework and exploit development library | https://github.com/Gallopsled/pwntools | 6734 | 1260| 
+| 20200702T20:25:59Z | Script solo para Termux que automatiza la instalación de The Browser Exploitation Framework. | https://github.com/tony23x/BeEF-INSTALL | 0 | 0| 
+| 20200702T20:22:09Z | An example of a vulnerable Wii homebrew application, as well as a homebrew loader via a stack overflow savegame exploit | https://github.com/Cubified/unsafe_4 | 0 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20200702T10:22:34Z | Undetectable & Xor encrypting with custom KEY (FUD Metasploit Rat) bypass Top Antivirus like BitDefender,Malwarebytes,Avast,ESET-NOD32,AVG,... & Automatically Add ICON and MANIFEST to excitable | https://github.com/persianhydra/Xeexe-TopAntivirusEvasion | 62 | 22| 
+| 20200702T20:39:40Z | A deck-building roguelike cyberpunk game. | https://github.com/uspgamedev/backdoor | 15 | 2| 
+| 20200702T16:56:47Z | Python source code obfuscation project. This is a mini project that supplements my main project the PyIris-backdoor project. | https://github.com/angus-y/PyCantRead | 1 | 0| 
+| 20200702T16:50:45Z | A great tool for Ethical Hackers, a malware programmed with Backdoor and Keylogger using C Language .. Use the File Readme for Instructions | https://github.com/avinashkranjan/MalwareUsingC | 3 | 0| 
+| 20200702T16:12:12Z | PyIris-backdoor is a modular, stealthy and flexible remote-access-toolkit written completely in python used to command and control other systems. It is now in the beta stage, possibly perpetually. There are bugs still present in the framework, feel free to contribute or help me out with this project its still under active development >_> | https://github.com/angus-y/PyIris-backdoor | 88 | 30| 
+| 20200702T15:15:22Z | knowledge distillation & backdoor | https://github.com/zhuangzi926/kdbackdoor | 0 | 0| 
+| 20200702T14:52:16Z | Undetectable & Xor encrypting with custom KEY (FUD Metasploit Rat) bypass Top Antivirus like BitDefender,Malwarebytes,Avast,ESET-NOD32,AVG,... & Automatically Add ICON and MANIFEST to excitable | https://github.com/persianhydra/Xeexe-TopAntivirusEvasion | 63 | 22| 
 | 20200702T08:39:50Z | Yet another PHP Obfuscator | https://github.com/Cvar1984/yapo | 0 | 1| 
 | 20200702T03:40:15Z | A curated list of awesome backdoor learning research | https://github.com/THUYimingLi/awesome-backdoor-learning | 6 | 0| 
 | 20200702T03:17:11Z | Python3 based backdoor | https://github.com/its-mr-monday/Py_BackDoor | 0 | 0| 
 | 20200702T02:31:11Z | Null | https://github.com/PacmanHK-coder/backdoor | 0 | 0| 
-| 20200702T00:50:20Z | Thefatrat a massive exploiting tool : Easy tool to generate backdoor and easy tool to post exploitation attack like browser attack and etc . This tool compiles a malware with popular payload and then the compiled malware can be execute on windows, android, mac . The malware that created with this tool also have an ability to bypass most AV software protection . | https://github.com/Screetsec/TheFatRat | 4335 | 1476| 
-| 20200702T00:06:35Z | Framework diseñado para automatizar el proceso de descarga e instalación de diferentes herramientas para pruebas de penetración, con una opción especial que permite generar puertas traseras mediante Metasploit Framework. | https://github.com/AdrMXR/KitHack | 63 | 21| 
-| 20200701T19:26:35Z | Easy to understand back door written in python  | https://github.com/alik604/myPyBackDoor | 8 | 5| 
-| 20200701T15:03:10Z | A great tool for Ethical Hackers, a malware programmed with Backdoor and Keylogger using C Language .. Use the File Readme for Instructions | https://github.com/avinashkranjan/MalwareUsingC | 3 | 0| 
-| 20200701T04:54:19Z | Create simple backdoor using python | https://github.com/tuannam96/backdoor | 0 | 0| 
 
 
 # fuzz on Github 推荐
