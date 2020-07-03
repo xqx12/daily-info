@@ -14,6 +14,7 @@
 | 20200702 | Generating NDR Type Serializers for C# | https://www.tiraniddo.dev/2020/07/generating-ndr-type-serializers-for-c.html| 
 | 20200702 | Firefox 发布 78 版本漏洞公告 | https://www.mozilla.org/en-US/security/advisories/mfsa2020-24/| 
 | 20200702 | Resmack开发第二部分: 完整的Detour Fuzzer | https://narly.me/posts/resmack-detour-full-fuzzer-experiment/| 
+| 20200702 | 漏洞利用与系统进程（DLL）注入检测。 | https://chadduffey.com/2020/07/01/ExploitGuardImageLoads.html| 
 | 20200701 | SharpPdb - 解析 Windows PDB 调试符号文件的工具 | https://github.com/southpolenator/SharpPdb| 
 | 20200701 | iOS 版本 Firefox 浏览器修复退出隐私模式 indexdb 未清空的问题 | https://www.mozilla.org/en-US/security/advisories/mfsa2020-23/#CVE-2020-12414| 
 | 20200701 | from zero info to zero-day | https://secalert.net/from-zero-to-zeroday.html| 
@@ -25,7 +26,6 @@
 | 20200701 | 红蓝对抗之Windows内网渗透 | https://security.tencent.com/index.php/blog/msg/154| 
 | 20200701 | Nexus Repository Manager 2.x 命令注入漏洞 (CVE-2019-5475) 两次绕过 | https://sec.today/pulses/beff1ae6-543c-4a60-9b96-d9b20ac41b3f/| 
 | 20200701 | Nexus Repository Manager 2.x 命令注入漏洞 (CVE-2019-5475) 两次绕过 | http://paper.seebug.org/1260/| 
-| 20200701 | 通过对DLL劫持绕过AMSI（防恶意软件扫描接口）新思路。 | http://sensepost.com/blog/2020/resurrecting-an-old-amsi-bypass/| 
 
 
 # 安全维基 推荐
@@ -46,24 +46,28 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20200702T22:35:50Z | CVE-2020-0688 | Quick tool for checking CVE-2020-0688 on multiple hosts with a non-intrusive method. | https://github.com/onSec-fr/CVE-2020-0688-Scanner | | 
+| 20200702T18:34:04Z | CVE-2020-14947 | The official exploit for OCS Inventory NG v2.7 Remote Command Execution CVE-2020-14947 | https://github.com/mhaskar/CVE-2020-14947 | OCS Inventory NG 2.7允许通过Shell元字符进行远程命令执行需要require / commandLine / CommandLine.php，因为plugins / main_sections / ms_config / ms_snmp_config.php中的mib_file在get_mib_oid中处理不当。| 
+| 20200702T15:28:44Z | CVE-2020-2021 | CVE-2020-2021 | https://github.com/mr-r3b00t/CVE-2020-2021 | | 
+| 20200702T14:50:42Z | CVE-2020-12828 | CVE-2020-12828 PoC and Analysis.  | https://github.com/0xsha/ZombieVPN | 在1.3.3.218之前的AnchorFree VPN SDK中发现了一个问题。 VPN SDK服务通过绑定到本地主机的套接字获取某些可执行位置。绑定到套接字并提供恶意可执行文件所在的路径会导致以SYSTEM特权执行恶意可执行文件。| 
+| 20200702T14:22:47Z | CVE-2020-11444 | Exphub[漏洞利用脚本库] 包括Webloigc、Struts2、Tomcat、Nexus、Solr、Jboss、Drupal的漏洞利用脚本，优先更新高危且易利用的漏洞利用脚本，最新添加CVE-2020-11444、CVE-2020-10204、CVE-2020-10199、CVE-2020-1938、CVE-2020-2551、CVE-2020-2555、CVE-2020-2883、CVE-2019-17558、CVE-2019-6340 | https://github.com/zhzyker/exphub | 直至3.21.2（含）的Sonatype Nexus Repository Manager 3.x具有错误的访问控制。| 
 | 20200702T12:34:05Z | 未知编号 | CVE Data Analysis, CVE Monitor, CVE EXP Prediction Based on Deep Learning. 1999-2020年存量CVE数据分析、监控CVE增量更新、基于深度学习的CVE EXP预测和自动化推送 | https://github.com/404notf0und/CVE-Flow | 未查询到CVE信息| 
-| 20200702T10:45:16Z | CVE-2020-11444 | Exphub[漏洞利用脚本库] 包括Webloigc、Struts2、Tomcat、Nexus、Solr、Jboss、Drupal的漏洞利用脚本，优先更新高危且易利用的漏洞利用脚本，最新添加CVE-2020-11444、CVE-2020-10204、CVE-2020-10199、CVE-2020-1938、CVE-2020-2551、CVE-2020-2555、CVE-2020-2883、CVE-2019-17558、CVE-2019-6340 | https://github.com/zhzyker/exphub | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  09 HOURS 17 MINUTES 58 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20200702T10:11:45Z | CVE-2020-1948 | Null | https://github.com/ctlyz123/CVE-2020-1948 | 未查询到CVE信息| 
 | 20200702T10:11:44Z | cve-2020-1948 | Null | https://github.com/askDing/cve-2020-1948-poc | 未查询到CVE信息| 
-| 20200702T05:43:57Z | CVE-2020-2021 | CVE-2020-2021 | https://github.com/mr-r3b00t/CVE-2020-2021 | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  09 HOURS 18 MINUTES 21 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20200702T00:58:32Z | CVE-2020-0022 | This is a RCE bluetooth vulnerability on Android 8.0 and 9.0 | https://github.com/k3vinlusec/Bluefrag_CVE-2020-0022 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 01 MINUTES 22 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200702T00:33:53Z | CVE-2020-12828 | CVE-2020-12828 PoC and Analysis.  | https://github.com/0xsha/ZombieVPN | | 
-| 20200701T10:00:07Z | CVE-2020-11519 | Technical Write-Up on and PoC Exploit for CVE-2020-11519 and CVE-2020-11520 | https://github.com/patois/winmagic_sd | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  09 HOURS 18 MINUTES 23 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200701T10:00:07Z | CVE-2020-11519 | Technical Write-Up on and PoC Exploit for CVE-2020-11519 and CVE-2020-11520 | https://github.com/patois/winmagic_sd | WinMagic SecureDoc v8.5和更早版本的SDDisk2k.sys驱动程序允许本地用户通过\\。\ SecureDocDevice句柄读取或写入物理磁盘扇区。利用此漏洞将导致特权代码执行。| 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20200702T23:04:19Z | Create CFGs and compute complexity metrics for Python, C++, and Java code. | https://github.com/hmc-alpaqa/metrinome | 3 | 0| 
+| 20200702T20:55:56Z | Null | https://github.com/chris-klee/chris-klee.github.io | 0 | 0| 
+| 20200702T18:01:33Z | making project scaffolding in node a breeze | https://github.com/koficypher/kleece | 0 | 0| 
 | 20200702T13:24:18Z | Null | https://github.com/shabroek/Kleedkamerscherm | 0 | 0| 
 | 20200702T13:23:43Z | Null | https://github.com/VaibhaviMarihal14/Kleem-Care | 0 | 0| 
 | 20200702T10:52:26Z | A 4chan image browser written in SwiftUI | https://github.com/jackpal/KleeneStar | 8 | 0| 
-| 20200701T22:49:39Z | Create CFGs and compute complexity metrics for Python, C++, and Java code. | https://github.com/hmc-alpaqa/metrinome | 3 | 0| 
-| 20200701T14:52:46Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1424 | 437| 
+| 20200701T14:52:46Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1424 | 438| 
 
 
 # s2e on Github 推荐
@@ -105,16 +109,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20200702T13:31:50Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 3017 | 689| 
-| 20200702T13:16:47Z | afl++ setup | https://github.com/LibreDWG/libredwg-fuzz | 0 | 0| 
-| 20200702T13:10:11Z | Null | https://github.com/YangSemo/fuzzy | 0 | 0| 
-| 20200702T13:09:23Z | simple project to test fuzzy content compare | https://github.com/basalt79/fuzzy | 0 | 0| 
-| 20200702T12:49:09Z | Part of our work for our Final Year Project - FinLit | https://github.com/shamilee05/Fin-Lit-Fuzzy | 0 | 2| 
-| 20200702T12:36:06Z | Null | https://github.com/fossegutten/FuzzyStoryEditor | 51 | 0| 
-| 20200702T12:35:47Z | Null | https://github.com/ivettamukhina/fuzzy-sniffle | 0 | 0| 
-| 20200702T12:24:39Z | Recent Fuzzing Paper | https://github.com/wcventure/FuzzingPaper | 372 | 67| 
-| 20200702T12:21:00Z | repo of scripts | https://github.com/johanvargas/fuzzy-projects | 0 | 0| 
-| 20200702T12:16:31Z | Null | https://github.com/ThomasD96/Fuzzy_string-with-Python | 0 | 0| 
+| 20200703T00:00:58Z | Security oriented software fuzzer. Supports evolutionary, feedback-driven fuzzing based on code coverage (SW and HW based) | https://github.com/google/honggfuzz | 1919 | 400| 
+| 20200702T23:33:45Z | Null | https://github.com/michelkeijzers/GermaniumFuzz | 0 | 0| 
+| 20200702T23:23:55Z | Pluralsite demo repo! | https://github.com/EvolvedKiwi/fuzzy-spoon | 0 | 1| 
+| 20200702T22:45:27Z | OSS-Fuzz - continuous fuzzing of open source software. | https://github.com/google/oss-fuzz | 5361 | 1027| 
+| 20200702T22:32:07Z | Null | https://github.com/Kath-art/fuzzy-palm-tree | 0 | 0| 
+| 20200702T22:29:59Z | Fastest recursive HTTP fuzzer, like a Ferrari. | https://github.com/riza/medusa | 44 | 1| 
+| 20200702T22:01:14Z | interactive `git` with the help of `fzf` | https://github.com/bigH/git-fuzzy | 1456 | 27| 
+| 20200702T21:40:12Z | Python library to compute a fuzzy time difference. | https://github.com/hXtreme/fuzzy_delta_time | 0 | 0| 
+| 20200702T21:05:39Z | Repository holding database dumps from getfursu.it | https://github.com/veelkoov/fuzzrake-data | 0 | 0| 
+| 20200702T20:40:27Z | just a macro that generates the fuzz you need to deal with OpenGL | https://github.com/krux02/opengl-sandbox | 86 | 6| 
 
 
 
