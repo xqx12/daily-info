@@ -6,6 +6,14 @@
 # 玄武实验室 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20200703 | Windows Telemetry 服务本地信息泄漏与代码执行漏洞 | https://secret.club/2020/07/01/diagtrack.html| 
+| 20200703 | 10 Years of Linux Security | https://grsecurity.net/10_years_of_linux_security.pdf| 
+| 20200703 | PANGOLIN: Incremental Hybrid Fuzzing with Polyhedral Path Abstraction | https://qingkaishi.github.io/public_pdfs/SP2020.pdf| 
+| 20200703 | Intel 基于自己的 Intel VT 和 Intel PT 实现的 AFL 版本，可以实现更高地执行和覆盖率收集效率 | https://github.com/IntelLabs/kAFL| 
+| 20200703 | Quarkslab 对三星 TrustZone 的深入分析 Part 3 | https://blog.quarkslab.com/a-deep-dive-into-samsungs-trustzone-part-3.html| 
+| 20200703 | Dubbo2.7.7 反序列化漏洞绕过分析 | http://paper.seebug.org/1263/| 
+| 20200703 | DNS 隧道数据传输的原理及相关的工具 | https://www.fortinet.com/blog/threat-research/into-the-rabbit-hole-offensive-dns-tunneling-rootkits?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+fortinet%2Fblog%2Fthreat-research+%28Fortinet+Threat+Research+Blog%29| 
+| 20200703 | 微软新增 API ExAllocatePool2/3 引导开发者解决 Kernel Pool 内存未初始化问题 | https://msrc-blog.microsoft.com/2020/07/02/solving-uninitialized-kernel-pool-memory-on-windows/| 
 | 20200702 | DisplayLink USB 图形软件任意文件删除本地提权漏洞分析 | https://offsec.almond.consulting/displaylink-usb-graphics-arbitrary-file-write-eop.html| 
 | 20200702 | QEMU 信息泄露漏洞 CVE-2015-5165 分析及利用 | https://programlife.net/2020/06/30/cve-2015-5165-qemu-rtl8139-vulnerability-analysis/| 
 | 20200702 | Apple 雷电口硬件级逆向分析 | https://nyansatan.github.io/lightning/| 
@@ -18,56 +26,49 @@
 | 20200702 | Yara规则性能测试工具Panopticon发布 | https://github.com/Neo23x0/panopticon| 
 | 20200702 | 请避免使用“特权”权限运行Docker | https://medium.com/better-programming/escaping-docker-privileged-containers-a7ae7d17f5a1| 
 | 20200702 | macOS安装程序本地root特权升级漏洞分析 | https://research.nccgroup.com/2020/07/02/technical-advisory-macos-installer-local-root-privilege-escalation-cve-2020-9817/| 
-| 20200701 | SharpPdb - 解析 Windows PDB 调试符号文件的工具 | https://github.com/southpolenator/SharpPdb| 
-| 20200701 | iOS 版本 Firefox 浏览器修复退出隐私模式 indexdb 未清空的问题 | https://www.mozilla.org/en-US/security/advisories/mfsa2020-23/#CVE-2020-12414| 
-| 20200701 | from zero info to zero-day | https://secalert.net/from-zero-to-zeroday.html| 
-| 20200701 | 一本关于嵌入式系统安全的书《Embedded Systems Security and TrustZone》 | https://embeddedsecurity.io/| 
-| 20200701 | 自动化发现 Windows 的 DLL 劫持漏洞 | http://posts.specterops.io/automating-dll-hijack-discovery-81c4295904b0| 
-| 20200701 | ZombieVPN - anchorFree VPN SDK SYSTEM 提权漏洞分析（CVE-2020-12828） | https://0xsha.io/posts/zombievpn-breaking-that-internet-security| 
-| 20200701 | 第三方库 Libalias 被发现越界访问漏洞，影响 VirtualBox 和 FreeBSD，来自 ZDI 的分析（CVE-2020-7454） | https://www.thezdi.com/blog/2020/6/29/cve-2020-7454-killing-two-systems-with-one-bug-in-libalias| 
-| 20200701 | Android 11 采用新内存分配器、编译器安全保护特性加固系统 | https://android-developers.googleblog.com/2020/06/system-hardening-in-android-11.html?m=1| 
 
 
 # 安全维基 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20200703 | Detect lateral movement with Azure Sentinel | https://zolder.io/2020/07/01/using-a-firewall-and-sentinel-to-detect-lateral-movement/?a=q| 
+| 20200703 | Taking over Azure DevOps Accounts with 1 Click | https://blog.assetnote.io/2020/06/28/subdomain-takeover-to-account-takeover/?v=2| 
+| 20200703 | FDEU-CVE-2019-10222 | https://full-disclosure.eu/reports/2019/FDEU-CVE-2019-10222-telia-savitarna-backdoor.html| 
+| 20200703 | SSRF on Zimbra Led to Dump All Credentials in Clear Text | https://medium.com/bugbountywriteup/story-of-a-2-5k-bounty-ssrf-on-zimbra-led-to-dump-all-credentials-in-clear-text-6fe826005ccc| 
+| 20200703 | 10 Years of Linux Security | https://grsecurity.net/10_years_of_linux_security.pdf| 
 | 20200702 | Dubbo2.7.7 反序列化漏洞绕过分析 | https://paper.seebug.org/1263/| 
 | 20200702 | Windows/Linux文件下载方式汇总 | https://xz.aliyun.com/t/7937| 
 | 20200702 | 浅谈短信验证码漏洞 | https://xz.aliyun.com/t/7926| 
 | 20200702 | 对Linux 提权的简单总结 | https://xz.aliyun.com/t/7924| 
 | 20200702 | 踩坑记录-DNS Beacon | https://xz.aliyun.com/t/7938| 
-| 20200702 | Apple Lightning | https://nyansatan.github.io/lightning/| 
-| 20200702 | Netgear R6700v3 LAN RCE write-up and exploit | https://github.com/pedrib/PoC/blob/master/advisories/Pwn2Own/Tokyo_2019/tokyo_drift/tokyo_drift.md| 
-| 20200702 | Android App Source code Extraction and Bypassing Root and ... | https://vj0shii.info/android-app-testing-initial-steps/| 
-| 20200702 | leonidas: Automated Attack Simulation in the Cloud | https://github.com/FSecureLABS/leonidas| 
-| 20200702 | Exploiting an Envoy heap vulnerability | https://blog.envoyproxy.io/exploiting-an-envoy-heap-vulnerability-96173d41792| 
 
 
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20200703T01:57:10Z | CVE-2020-11444 | Exphub[漏洞利用脚本库] 包括Webloigc、Struts2、Tomcat、Nexus、Solr、Jboss、Drupal的漏洞利用脚本，优先更新高危且易利用的漏洞利用脚本，最新添加CVE-2020-11444、CVE-2020-10204、CVE-2020-10199、CVE-2020-1938、CVE-2020-2551、CVE-2020-2555、CVE-2020-2883、CVE-2019-17558、CVE-2019-6340 | https://github.com/zhzyker/exphub | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  20 HOURS 45 MINUTES 54 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200703T01:49:16Z | CVE-2020-10665 | POC for CVE-2020-10665 Docker Desktop Local Privilege Escalation | https://github.com/spaceraccoon/CVE-2020-10665 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  20 HOURS 46 MINUTES 04 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200703T01:42:07Z | CVE-2020-12828 | CVE-2020-12828 PoC and Analysis.  | https://github.com/0xsha/ZombieVPN | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  20 HOURS 46 MINUTES 08 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200703T01:41:20Z | CVE-2020-1948 | Apache Dubbo CVE-2020-1948 漏洞测试环境，亲测可用。 | https://github.com/DSO-Lab/Dubbo-CVE-2020-1948 | 未查询到CVE信息| 
-| 20200703T00:58:57Z | CVE-2020-14947 | The official exploit for OCS Inventory NG v2.7 Remote Command Execution CVE-2020-14947 | https://github.com/mhaskar/CVE-2020-14947 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  20 HOURS 46 MINUTES 11 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200703T00:52:00Z | cve-2020-1948 | Null | https://github.com/askDing/cve-2020-1948-poc | 未查询到CVE信息| 
-| 20200702T22:35:50Z | CVE-2020-0688 | Quick tool for checking CVE-2020-0688 on multiple hosts with a non-intrusive method. | https://github.com/onSec-fr/CVE-2020-0688-Scanner | | 
-| 20200702T15:28:44Z | CVE-2020-2021 | CVE-2020-2021 | https://github.com/mr-r3b00t/CVE-2020-2021 | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  20 HOURS 46 MINUTES 07 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200702T12:34:05Z | 未知编号 | CVE Data Analysis, CVE Monitor, CVE EXP Prediction Based on Deep Learning. 1999-2020年存量CVE数据分析、监控CVE增量更新、基于深度学习的CVE EXP预测和自动化推送 | https://github.com/404notf0und/CVE-Flow | 未查询到CVE信息| 
-| 20200702T10:11:45Z | CVE-2020-1948 | Null | https://github.com/ctlyz123/CVE-2020-1948 | 未查询到CVE信息| 
+| 20200703T11:15:23Z | CVE-2020-1948 | Null | https://github.com/ctlyz123/CVE-2020-1948 | 未查询到CVE信息| 
+| 20200703T10:28:20Z | CVE-2020-2551 | CVE-2020-2551 | https://github.com/0nise/CVE-2020-2551 | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
+| 20200703T10:20:07Z | CVE-2020-11444 | Exphub[漏洞利用脚本库] 包括Webloigc、Struts2、Tomcat、Nexus、Solr、Jboss、Drupal的漏洞利用脚本，优先更新高危且易利用的漏洞利用脚本，最新添加CVE-2020-11444、CVE-2020-10204、CVE-2020-10199、CVE-2020-1938、CVE-2020-2551、CVE-2020-2555、CVE-2020-2883、CVE-2019-17558、CVE-2019-6340 | https://github.com/zhzyker/exphub | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 58 MINUTES 51 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200703T09:52:10Z | CVE-2020-2021 | CVE-2020-2021 | https://github.com/mr-r3b00t/CVE-2020-2021 | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 58 MINUTES 15 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200703T07:43:51Z | CVE-2020-12856 | A bluetooth-related vulnerability in some contact tracing apps | https://github.com/alwentiu/COVIDSafe-CVE-2020-12856 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 58 MINUTES 53 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200703T06:21:33Z | CVE-2020-10665 | POC for CVE-2020-10665 Docker Desktop Local Privilege Escalation | https://github.com/spaceraccoon/CVE-2020-10665 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 58 MINUTES 12 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200703T05:01:47Z | CVE-2020-12828 | CVE-2020-12828 PoC and Analysis.  | https://github.com/0xsha/ZombieVPN | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 58 MINUTES 18 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200703T04:24:26Z | CVE-2020-13777 | Null | https://github.com/prprhyt/PoC_TLS1_3_CVE-2020-13777 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 58 MINUTES 09 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200703T02:46:55Z | CVE-2020-1948 | Apache Dubbo CVE-2020-1948 漏洞测试环境，亲测可用。 | https://github.com/DSO-Lab/Dubbo-CVE-2020-1948 | 未查询到CVE信息| 
+| 20200703T00:58:57Z | CVE-2020-14947 | The official exploit for OCS Inventory NG v2.7 Remote Command Execution CVE-2020-14947 | https://github.com/mhaskar/CVE-2020-14947 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 58 MINUTES 21 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20200703T01:24:59Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1426 | 438| 
+| 20200703T10:20:35Z | Null | https://github.com/Sahana4321/kleemcare | 0 | 0| 
+| 20200703T10:11:03Z | Null | https://github.com/VaibhaviMarihal14/Kleem-Care | 0 | 0| 
+| 20200703T07:32:36Z | A 4chan image browser written in SwiftUI | https://github.com/jackpal/KleeneStar | 8 | 0| 
+| 20200703T01:24:59Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1426 | 439| 
 | 20200703T00:19:25Z | Create CFGs and compute complexity metrics for Python, C++, and Java code. | https://github.com/hmc-alpaqa/metrinome | 3 | 0| 
 | 20200702T20:55:56Z | Null | https://github.com/chris-klee/chris-klee.github.io | 0 | 0| 
 | 20200702T18:01:33Z | making project scaffolding in node a breeze | https://github.com/koficypher/kleece | 0 | 0| 
 | 20200702T13:24:18Z | Null | https://github.com/shabroek/Kleedkamerscherm | 0 | 0| 
-| 20200702T13:23:43Z | Null | https://github.com/VaibhaviMarihal14/Kleem-Care | 0 | 0| 
-| 20200702T10:52:26Z | A 4chan image browser written in SwiftUI | https://github.com/jackpal/KleeneStar | 8 | 0| 
 
 
 # s2e on Github 推荐
@@ -79,16 +80,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20200703T01:53:12Z | For lab use and purple team security testing only. Unless you make alot of money then 10% of the loot would be cewl too. | https://github.com/PrescottRowe/Exploits | 0 | 0| 
-| 20200703T01:35:48Z | exploit-database-papers | https://github.com/offensive-security/exploitdb-papers | 224 | 23| 
-| 20200703T01:12:14Z | Some patch for Navex (Precise and Scalable Exploit Generation for Dynamic Web Applications) | https://github.com/UUUUnotfound/Navex_fixed | 10 | 5| 
-| 20200703T00:55:00Z | *Frequently Updated. Sifter is a osint, recon & vulnerability scanner. It combines a plethara of tools within different module sets in order to quickly perform recon tasks, check network firewalling, enumerate remote and local hosts, and scan for the %blue% vulnerabilities within microsft and if unpatched, exploit them.  It uses tools like blackwidow and konan for webdir enumeration and attack surface mapping rapidly using ASM.  | https://github.com/s1l3nt78/sifter | 174 | 57| 
-| 20200703T00:47:23Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 2 | 1| 
-| 20200703T00:45:36Z | Null | https://github.com/kainesmicheal/BinaryExploitation | 0 | 0| 
-| 20200703T00:32:37Z | A phased Path Traversal scanning & exploitation tool in Python | https://github.com/VainlyStrain/Vailyn | 2 | 0| 
-| 20200703T00:25:40Z | Apollyon Roblox Exploit | https://github.com/LCBlevins/ApollyonRoblox | 0 | 0| 
-| 20200702T23:39:47Z | A General Repository for Exploit Patches on iOS (in case people are too lazy to look for a repo) | https://github.com/syns/iospatches | 1 | 0| 
-| 20200702T23:17:28Z | Null | https://github.com/Jb05s/Exploit-Dev-C | 5 | 4| 
+| 20200703T11:56:22Z | Null | https://github.com/hexcellents/sss-exploit | 2 | 0| 
+| 20200703T11:13:13Z | LZW is a lossless data compression algorithm capable of exploiting especially the presence of repetitive patterns, in the raw data, and acting a very effective compression. This repository contains some parallel implementations of the algorithm in order to compare them, their performances and to quantify the requested computational resources to get the best outcome. | https://github.com/FedericoBottoni/plzw | 0 | 0| 
+| 20200703T10:51:37Z | Increase the Exploitation of Mars Satellite Images Via Deep Learning Techniques | https://github.com/nzaki02/Mars | 0 | 0| 
+| 20200703T10:35:33Z | Roblox exploit | https://github.com/PCNSIROJ/Roblox-Hack-TH | 0 | 0| 
+| 20200703T10:34:12Z | Silice is an open source language that simplifies writing algorithms fully exploiting FPGA architectures. | https://github.com/sylefeb/Silice | 247 | 13| 
+| 20200703T09:49:54Z | Null | https://github.com/staz0t/exploits | 10 | 5| 
+| 20200703T09:31:52Z | Null | https://github.com/debug420/Ez-Hub-Ez-Y-Exploit-Edition- | 0 | 0| 
+| 20200703T09:20:25Z | This Repository contains the stuff related to windows Active directory environment exploitation | https://github.com/incredibleindishell/Windows-AD-environment-related | 94 | 25| 
+| 20200703T09:11:03Z | Software for recording and analyzing inputs during game session (rhythmanalysis) | https://github.com/GamesRythmAnalysis/RnGameDataExploitation | 5 | 0| 
+| 20200703T09:06:40Z | thewhiteh4t%s Blog | https://github.com/thewhiteh4t/thewhiteh4t.github.io | 8 | 3| 
 
 
 # backdoor on Github 推荐
@@ -109,16 +110,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20200703T02:00:45Z | OSS-Fuzz - continuous fuzzing of open source software. | https://github.com/google/oss-fuzz | 5361 | 1027| 
-| 20200703T01:41:56Z | A framework provides an interface to monitor and control fuzzers | https://github.com/pzread/fuzvisor | 19 | 0| 
-| 20200703T01:37:02Z | Take the current implementation and turning a microservice architecture | https://github.com/ccesarrod/FuzzyMicrosrvices | 0 | 0| 
-| 20200703T01:15:41Z | Pluralsite demo repo! | https://github.com/EvolvedKiwi/fuzzy-spoon | 0 | 1| 
-| 20200703T00:31:42Z | Scalable fuzzing infrastructure. | https://github.com/google/clusterfuzz | 4253 | 375| 
-| 20200703T00:00:58Z | Security oriented software fuzzer. Supports evolutionary, feedback-driven fuzzing based on code coverage (SW and HW based) | https://github.com/google/honggfuzz | 1919 | 400| 
-| 20200702T23:33:45Z | Null | https://github.com/michelkeijzers/GermaniumFuzz | 0 | 0| 
-| 20200702T22:32:07Z | Null | https://github.com/Kath-art/fuzzy-palm-tree | 0 | 0| 
-| 20200702T22:29:59Z | Fastest recursive HTTP fuzzer, like a Ferrari. | https://github.com/riza/medusa | 44 | 1| 
-| 20200702T22:01:14Z | interactive `git` with the help of `fzf` | https://github.com/bigH/git-fuzzy | 1456 | 27| 
+| 20200703T11:56:38Z | Fuzzing Parsers with Tokens | https://github.com/uds-se/lFuzzer | 14 | 2| 
+| 20200703T11:51:42Z | Null | https://github.com/s9varesc/url-fuzzing | 0 | 0| 
+| 20200703T11:51:23Z | A JavaScript Engine Fuzzer | https://github.com/googleprojectzero/fuzzilli | 946 | 151| 
+| 20200703T11:44:59Z | Null | https://github.com/Boriver/fuzzy | 0 | 0| 
+| 20200703T11:09:41Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 3019 | 689| 
+| 20200703T10:11:20Z | C++ library for tests (unit, fuzz, property), benchmarks, apps | https://github.com/project-arcana/nexus | 0 | 0| 
+| 20200703T09:42:30Z | Simple python web fuzzer | https://github.com/z3pp/ZFuzz | 24 | 3| 
+| 20200703T09:18:01Z | simple project to test fuzzy content compare | https://github.com/basalt79/fuzzy | 0 | 0| 
+| 20200703T09:17:53Z | Fuzzing framework for the GENIVI/vsomeip library | https://github.com/cfanatic/vsomeip-fuzzing | 0 | 0| 
+| 20200703T08:20:23Z | This contains a self made library in c++ from the motive of fuzzing. | https://github.com/DeepeshLall/Fuzzer | 1 | 1| 
 
 
 
