@@ -15,6 +15,9 @@
 | 20200702 | Firefox 发布 78 版本漏洞公告 | https://www.mozilla.org/en-US/security/advisories/mfsa2020-24/| 
 | 20200702 | Resmack开发第二部分: 完整的Detour Fuzzer | https://narly.me/posts/resmack-detour-full-fuzzer-experiment/| 
 | 20200702 | 漏洞利用与系统进程（DLL）注入检测。 | https://chadduffey.com/2020/07/01/ExploitGuardImageLoads.html| 
+| 20200702 | Yara规则性能测试工具Panopticon发布 | https://github.com/Neo23x0/panopticon| 
+| 20200702 | 请避免使用“特权”权限运行Docker | https://medium.com/better-programming/escaping-docker-privileged-containers-a7ae7d17f5a1| 
+| 20200702 | macOS安装程序本地root特权升级漏洞分析 | https://research.nccgroup.com/2020/07/02/technical-advisory-macos-installer-local-root-privilege-escalation-cve-2020-9817/| 
 
 
 # 安全维基 推荐
@@ -37,7 +40,6 @@
 | --- | --- | --- | --- | ---| 
 | 20200702T22:35:50Z | CVE-2020-0688 | Quick tool for checking CVE-2020-0688 on multiple hosts with a non-intrusive method. | https://github.com/onSec-fr/CVE-2020-0688-Scanner | 未查询到CVE信息| 
 | 20200702T15:28:44Z | CVE-2020-2021 | CVE-2020-2021 | https://github.com/mr-r3b00t/CVE-2020-2021 | 未查询到CVE信息| 
-| 20200702T14:50:42Z | CVE-2020-12828 | CVE-2020-12828 PoC and Analysis.  | https://github.com/0xsha/ZombieVPN | | 
 | 20200702T12:34:05Z | 未知编号 | CVE Data Analysis, CVE Monitor, CVE EXP Prediction Based on Deep Learning. 1999-2020年存量CVE数据分析、监控CVE增量更新、基于深度学习的CVE EXP预测和自动化推送 | https://github.com/404notf0und/CVE-Flow | 未查询到CVE信息| 
 | 20200702T10:11:45Z | CVE-2020-1948 | Null | https://github.com/ctlyz123/CVE-2020-1948 | 未查询到CVE信息| 
 | 20200702T00:58:32Z | CVE-2020-0022 | This is a RCE bluetooth vulnerability on Android 8.0 and 9.0 | https://github.com/k3vinlusec/Bluefrag_CVE-2020-0022 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 01 MINUTES 22 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 

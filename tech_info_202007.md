@@ -15,6 +15,9 @@
 | 20200702 | Firefox 发布 78 版本漏洞公告 | https://www.mozilla.org/en-US/security/advisories/mfsa2020-24/| 
 | 20200702 | Resmack开发第二部分: 完整的Detour Fuzzer | https://narly.me/posts/resmack-detour-full-fuzzer-experiment/| 
 | 20200702 | 漏洞利用与系统进程（DLL）注入检测。 | https://chadduffey.com/2020/07/01/ExploitGuardImageLoads.html| 
+| 20200702 | Yara规则性能测试工具Panopticon发布 | https://github.com/Neo23x0/panopticon| 
+| 20200702 | 请避免使用“特权”权限运行Docker | https://medium.com/better-programming/escaping-docker-privileged-containers-a7ae7d17f5a1| 
+| 20200702 | macOS安装程序本地root特权升级漏洞分析 | https://research.nccgroup.com/2020/07/02/technical-advisory-macos-installer-local-root-privilege-escalation-cve-2020-9817/| 
 | 20200701 | SharpPdb - 解析 Windows PDB 调试符号文件的工具 | https://github.com/southpolenator/SharpPdb| 
 | 20200701 | iOS 版本 Firefox 浏览器修复退出隐私模式 indexdb 未清空的问题 | https://www.mozilla.org/en-US/security/advisories/mfsa2020-23/#CVE-2020-12414| 
 | 20200701 | from zero info to zero-day | https://secalert.net/from-zero-to-zeroday.html| 
@@ -23,9 +26,6 @@
 | 20200701 | ZombieVPN - anchorFree VPN SDK SYSTEM 提权漏洞分析（CVE-2020-12828） | https://0xsha.io/posts/zombievpn-breaking-that-internet-security| 
 | 20200701 | 第三方库 Libalias 被发现越界访问漏洞，影响 VirtualBox 和 FreeBSD，来自 ZDI 的分析（CVE-2020-7454） | https://www.thezdi.com/blog/2020/6/29/cve-2020-7454-killing-two-systems-with-one-bug-in-libalias| 
 | 20200701 | Android 11 采用新内存分配器、编译器安全保护特性加固系统 | https://android-developers.googleblog.com/2020/06/system-hardening-in-android-11.html?m=1| 
-| 20200701 | 红蓝对抗之Windows内网渗透 | https://security.tencent.com/index.php/blog/msg/154| 
-| 20200701 | Nexus Repository Manager 2.x 命令注入漏洞 (CVE-2019-5475) 两次绕过 | https://sec.today/pulses/beff1ae6-543c-4a60-9b96-d9b20ac41b3f/| 
-| 20200701 | Nexus Repository Manager 2.x 命令注入漏洞 (CVE-2019-5475) 两次绕过 | http://paper.seebug.org/1260/| 
 
 
 # 安全维基 推荐
@@ -46,16 +46,16 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20200703T01:42:07Z | CVE-2020-12828 | CVE-2020-12828 PoC and Analysis.  | https://github.com/0xsha/ZombieVPN | 未查询到CVE信息| 
+| 20200703T01:41:20Z | CVE-2020-1948 | Apache Dubbo CVE-2020-1948 漏洞测试环境，亲测可用。 | https://github.com/DSO-Lab/Dubbo-CVE-2020-1948 | 未查询到CVE信息| 
 | 20200703T01:28:28Z | CVE-2020-11444 | Exphub[漏洞利用脚本库] 包括Webloigc、Struts2、Tomcat、Nexus、Solr、Jboss、Drupal的漏洞利用脚本，优先更新高危且易利用的漏洞利用脚本，最新添加CVE-2020-11444、CVE-2020-10204、CVE-2020-10199、CVE-2020-1938、CVE-2020-2551、CVE-2020-2555、CVE-2020-2883、CVE-2019-17558、CVE-2019-6340 | https://github.com/zhzyker/exphub | 未查询到CVE信息| 
-| 20200703T00:58:57Z | CVE-2020-14947 | The official exploit for OCS Inventory NG v2.7 Remote Command Execution CVE-2020-14947 | https://github.com/mhaskar/CVE-2020-14947 | 未查询到CVE信息| 
+| 20200703T00:58:57Z | CVE-2020-14947 | The official exploit for OCS Inventory NG v2.7 Remote Command Execution CVE-2020-14947 | https://github.com/mhaskar/CVE-2020-14947 | | 
 | 20200703T00:52:00Z | cve-2020-1948 | Null | https://github.com/askDing/cve-2020-1948-poc | 未查询到CVE信息| 
 | 20200702T22:35:50Z | CVE-2020-0688 | Quick tool for checking CVE-2020-0688 on multiple hosts with a non-intrusive method. | https://github.com/onSec-fr/CVE-2020-0688-Scanner | 未查询到CVE信息| 
 | 20200702T15:28:44Z | CVE-2020-2021 | CVE-2020-2021 | https://github.com/mr-r3b00t/CVE-2020-2021 | 未查询到CVE信息| 
-| 20200702T14:50:42Z | CVE-2020-12828 | CVE-2020-12828 PoC and Analysis.  | https://github.com/0xsha/ZombieVPN | | 
 | 20200702T12:34:05Z | 未知编号 | CVE Data Analysis, CVE Monitor, CVE EXP Prediction Based on Deep Learning. 1999-2020年存量CVE数据分析、监控CVE增量更新、基于深度学习的CVE EXP预测和自动化推送 | https://github.com/404notf0und/CVE-Flow | 未查询到CVE信息| 
 | 20200702T10:11:45Z | CVE-2020-1948 | Null | https://github.com/ctlyz123/CVE-2020-1948 | 未查询到CVE信息| 
 | 20200702T00:58:32Z | CVE-2020-0022 | This is a RCE bluetooth vulnerability on Android 8.0 and 9.0 | https://github.com/k3vinlusec/Bluefrag_CVE-2020-0022 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 01 MINUTES 22 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200701T10:00:07Z | CVE-2020-11519 | Technical Write-Up on and PoC Exploit for CVE-2020-11519 and CVE-2020-11520 | https://github.com/patois/winmagic_sd | 未查询到CVE信息| 
 
 
 # klee on Github 推荐
