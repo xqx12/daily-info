@@ -39,7 +39,7 @@
 | 20200703T15:15:03Z | CVE-2020-14947 | The official exploit for OCS Inventory NG v2.7 Remote Command Execution CVE-2020-14947 | https://github.com/mhaskar/CVE-2020-14947 | | 
 | 20200703T14:45:20Z | CVE-2020-1948 | Null | https://github.com/ctlyz123/CVE-2020-1948 | 未查询到CVE信息| 
 | 20200703T13:07:45Z | CVE-2020-2021 | CVE-2020-2021 | https://github.com/mr-r3b00t/CVE-2020-2021 | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 35 MINUTES 08 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200703T10:28:20Z | CVE-2020-2551 | CVE-2020-2551 | https://github.com/0nise/CVE-2020-2551 | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
+| 20200703T10:28:20Z | CVE-2020-2551 | CVE-2020-2551 | https://github.com/0nise/CVE-2020-2551 | | 
 | 20200703T07:43:51Z | CVE-2020-12856 | A bluetooth-related vulnerability in some contact tracing apps | https://github.com/alwentiu/COVIDSafe-CVE-2020-12856 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 33 MINUTES 42 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20200703T06:21:33Z | CVE-2020-10665 | POC for CVE-2020-10665 Docker Desktop Local Privilege Escalation | https://github.com/spaceraccoon/CVE-2020-10665 | | 
 | 20200703T04:24:26Z | CVE-2020-13777 | Null | https://github.com/prprhyt/PoC_TLS1_3_CVE-2020-13777 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 34 MINUTES 25 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
@@ -70,12 +70,12 @@
 | 20200703T23:01:47Z | A bootROM jailbreak for A4 devices utilizing the SHAtter exploit. This is meant for research, but can be maintained. | https://github.com/frdayboy/SHAdow | 0 | 0| 
 | 20200703T22:16:15Z | Null | https://github.com/hexcellents/sss-exploit | 3 | 0| 
 | 20200703T21:56:43Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 6662 | 1043| 
-| 20200703T21:53:56Z | Windows Exploit Suggester - Next Generation | https://github.com/bitsadmin/wesng | 1731 | 276| 
 | 20200703T21:05:59Z | Null | https://github.com/conpatto/discord-vc-exploit | 0 | 0| 
 | 20200703T21:05:11Z | Collection of things made during my preparation to take on OSCE | https://github.com/Pal1Sec/Exploit-Development | 0 | 0| 
 | 20200703T20:23:41Z | Disco-RD - Multi-Platform Discord mod! | https://github.com/FiskDk/discord-security-exploiting | 1 | 0| 
 | 20200703T19:28:38Z | exploit miss config at firebase instances | https://github.com/nullfil3/firethebase | 0 | 0| 
 | 20200703T19:03:06Z | A nuker for discord.py, designed to act as a regular bot. | https://github.com/Catterall/Stealth-Nuker | 0 | 0| 
+| 20200703T18:57:45Z | k8gege.org - K8哥哥%s Blog | https://github.com/k8gege/k8gege.github.io | 8 | 2| 
 
 
 # backdoor on Github 推荐

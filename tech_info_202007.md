@@ -53,7 +53,7 @@
 | 20200703T15:15:03Z | CVE-2020-14947 | The official exploit for OCS Inventory NG v2.7 Remote Command Execution CVE-2020-14947 | https://github.com/mhaskar/CVE-2020-14947 | | 
 | 20200703T14:45:20Z | CVE-2020-1948 | Null | https://github.com/ctlyz123/CVE-2020-1948 | 未查询到CVE信息| 
 | 20200703T13:07:45Z | CVE-2020-2021 | CVE-2020-2021 | https://github.com/mr-r3b00t/CVE-2020-2021 | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 35 MINUTES 08 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200703T10:28:20Z | CVE-2020-2551 | CVE-2020-2551 | https://github.com/0nise/CVE-2020-2551 | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
+| 20200703T10:28:20Z | CVE-2020-2551 | CVE-2020-2551 | https://github.com/0nise/CVE-2020-2551 | | 
 | 20200703T07:43:51Z | CVE-2020-12856 | A bluetooth-related vulnerability in some contact tracing apps | https://github.com/alwentiu/COVIDSafe-CVE-2020-12856 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 33 MINUTES 42 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20200703T06:21:33Z | CVE-2020-10665 | POC for CVE-2020-10665 Docker Desktop Local Privilege Escalation | https://github.com/spaceraccoon/CVE-2020-10665 | | 
 
@@ -82,6 +82,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20200704T01:27:00Z | Windows Exploit Suggester - Next Generation | https://github.com/bitsadmin/wesng | 1732 | 276| 
 | 20200704T01:24:38Z | Large Network Penetration Scanner & Cobalt Strike, Ladon for PowerShell, vulnerability / exploit / detection / MS17010 | https://github.com/k8gege/PowerLadon | 21 | 13| 
 | 20200704T01:24:32Z | Ladon for Cobalt Strike, Large Network Penetration Scanner, vulnerability / exploit / detection / MS17010 / password/brute-force/psexec/atexec/sshexec/webshell/smbexec/netcat/osscan/netscan/struts2Poc/weblogicExp | https://github.com/k8gege/Aggressor | 110 | 25| 
 | 20200704T01:24:28Z | 大型内网渗透扫描器&Cobalt Strike，Ladon6.6内置74个模块，包含信息收集/存活主机/IP扫描/端口扫描/服务识别/网络资产/密码爆破/漏洞检测/漏洞利用。漏洞检测含MS17010、SMBGhost、Weblogic、ActiveMQ、Tomcat、Struts2系列，密码口令爆破(Mysql、Oracle、MSSQL)、FTP、SSH(Linux)、VNC、Windows(IPC、WMI、SMB、LDAP、SmbHash、WmiHash、Winrm),远程执行命令(wmiexe/psexec/atexec/sshexec/webshell),降权提权Runas、GetSystem，Poc/Exploit,支持Cobalt Strike 3.X-4.0 | https://github.com/k8gege/Ladon | 1689 | 402| 
@@ -91,7 +92,6 @@
 | 20200704T00:18:22Z | A cheat sheet that contains common enumeration and attack methods for Windows Active Directory. | https://github.com/Integration-IT/Active-Directory-Exploitation-Cheat-Sheet | 391 | 81| 
 | 20200703T23:54:32Z | A set of libraries and accompanying tools for post-exploitation, written in Golang. | https://github.com/ofasgard/postex-tools | 0 | 0| 
 | 20200703T23:01:47Z | A bootROM jailbreak for A4 devices utilizing the SHAtter exploit. This is meant for research, but can be maintained. | https://github.com/frdayboy/SHAdow | 0 | 0| 
-| 20200703T22:16:15Z | Null | https://github.com/hexcellents/sss-exploit | 3 | 0| 
 
 
 # backdoor on Github 推荐
