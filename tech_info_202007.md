@@ -46,7 +46,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20200703T23:12:08Z | CVE-2020-0796 | Advanced scanner for CVE-2020-0796 - SMBv3 RCE  | https://github.com/x1n5h3n/SMBGhost | | 
+| 20200703T23:12:08Z | CVE-2020-0796 | Advanced scanner for CVE-2020-0796 - SMBv3 RCE  | https://github.com/x1n5h3n/SMBGhost | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 17 MINUTES 26 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20200703T21:33:45Z | CVE-2020-11444 | Exphub[漏洞利用脚本库] 包括Webloigc、Struts2、Tomcat、Nexus、Solr、Jboss、Drupal的漏洞利用脚本，优先更新高危且易利用的漏洞利用脚本，最新添加CVE-2020-11444、CVE-2020-10204、CVE-2020-10199、CVE-2020-1938、CVE-2020-2551、CVE-2020-2555、CVE-2020-2883、CVE-2019-17558、CVE-2019-6340 | https://github.com/zhzyker/exphub | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 17 MINUTES 37 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20200703T15:55:51Z | 未知编号 | CVE Data Analysis, CVE Monitor, CVE EXP Prediction Based on Deep Learning. 1999-2020年存量CVE数据分析、监控CVE增量更新、基于深度学习的CVE EXP预测和自动化推送 | https://github.com/404notf0und/CVE-Flow | 未查询到CVE信息| 
 | 20200703T15:15:03Z | CVE-2020-14947 | The official exploit for OCS Inventory NG v2.7 Remote Command Execution CVE-2020-14947 | https://github.com/mhaskar/CVE-2020-14947 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 19 MINUTES 17 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
@@ -112,7 +112,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20200704T00:23:13Z | The Python3 Fuzzing Module | https://github.com/jangelesg/Py3webfuzz | 0 | 0| 
+| 20200704T00:43:15Z | The Python3 Fuzzing Module | https://github.com/jangelesg/Py3webfuzz | 0 | 0| 
 | 20200703T23:44:15Z | Null | https://github.com/eliseuvideira/freedomain-fuzzy-match2 | 0 | 0| 
 | 20200703T23:04:09Z | Fuzzy System implementation in Python | https://github.com/libinjohn26/Fuzzy-System | 0 | 0| 
 | 20200703T22:35:06Z | Null | https://github.com/rnejdetsarikaya/Fuzzy-Based-Image-Segmentation | 0 | 0| 
