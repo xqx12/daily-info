@@ -112,7 +112,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20200704T01:12:48Z | The Python3 Fuzzing Module | https://github.com/jangelesg/Py3webfuzz | 0 | 0| 
+| 20200704T01:15:25Z | The Python3 Fuzzing Module | https://github.com/jangelesg/Py3webfuzz | 0 | 0| 
 | 20200704T01:02:30Z | FuzzyKnights: Protectors of the Forst - 16bit Adventure | https://github.com/mjnrock/fuzzyknights-arcade | 0 | 0| 
 | 20200703T23:44:15Z | Null | https://github.com/eliseuvideira/freedomain-fuzzy-match2 | 0 | 0| 
 | 20200703T23:04:09Z | Fuzzy System implementation in Python | https://github.com/libinjohn26/Fuzzy-System | 0 | 0| 
