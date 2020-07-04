@@ -112,7 +112,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20200704T00:44:01Z | The Python3 Fuzzing Module | https://github.com/jangelesg/Py3webfuzz | 0 | 0| 
+| 20200704T00:57:40Z | The Python3 Fuzzing Module | https://github.com/jangelesg/Py3webfuzz | 0 | 0| 
 | 20200703T23:44:15Z | Null | https://github.com/eliseuvideira/freedomain-fuzzy-match2 | 0 | 0| 
 | 20200703T23:04:09Z | Fuzzy System implementation in Python | https://github.com/libinjohn26/Fuzzy-System | 0 | 0| 
 | 20200703T22:35:06Z | Null | https://github.com/rnejdetsarikaya/Fuzzy-Based-Image-Segmentation | 0 | 0| 
