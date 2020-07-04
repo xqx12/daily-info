@@ -46,16 +46,16 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20200703T23:12:08Z | CVE-2020-0796 | Advanced scanner for CVE-2020-0796 - SMBv3 RCE  | https://github.com/x1n5h3n/SMBGhost | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 56 MINUTES 48 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200703T21:33:45Z | CVE-2020-11444 | Exphub[漏洞利用脚本库] 包括Webloigc、Struts2、Tomcat、Nexus、Solr、Jboss、Drupal的漏洞利用脚本，优先更新高危且易利用的漏洞利用脚本，最新添加CVE-2020-11444、CVE-2020-10204、CVE-2020-10199、CVE-2020-1938、CVE-2020-2551、CVE-2020-2555、CVE-2020-2883、CVE-2019-17558、CVE-2019-6340 | https://github.com/zhzyker/exphub | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 56 MINUTES 50 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200703T23:12:08Z | CVE-2020-0796 | Advanced scanner for CVE-2020-0796 - SMBv3 RCE  | https://github.com/x1n5h3n/SMBGhost | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 54 MINUTES 09 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200703T21:33:45Z | CVE-2020-11444 | Exphub[漏洞利用脚本库] 包括Webloigc、Struts2、Tomcat、Nexus、Solr、Jboss、Drupal的漏洞利用脚本，优先更新高危且易利用的漏洞利用脚本，最新添加CVE-2020-11444、CVE-2020-10204、CVE-2020-10199、CVE-2020-1938、CVE-2020-2551、CVE-2020-2555、CVE-2020-2883、CVE-2019-17558、CVE-2019-6340 | https://github.com/zhzyker/exphub | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 54 MINUTES 10 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20200703T15:55:51Z | 未知编号 | CVE Data Analysis, CVE Monitor, CVE EXP Prediction Based on Deep Learning. 1999-2020年存量CVE数据分析、监控CVE增量更新、基于深度学习的CVE EXP预测和自动化推送 | https://github.com/404notf0und/CVE-Flow | 未查询到CVE信息| 
-| 20200703T15:15:03Z | CVE-2020-14947 | The official exploit for OCS Inventory NG v2.7 Remote Command Execution CVE-2020-14947 | https://github.com/mhaskar/CVE-2020-14947 | OCS Inventory NG 2.7允许通过Shell元字符进行远程命令执行需要require / commandLine / CommandLine.php，因为plugins / main_sections / ms_config / ms_snmp_config.php中的mib_file在get_mib_oid中处理不当。| 
+| 20200703T15:15:03Z | CVE-2020-14947 | The official exploit for OCS Inventory NG v2.7 Remote Command Execution CVE-2020-14947 | https://github.com/mhaskar/CVE-2020-14947 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 53 MINUTES 26 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20200703T14:45:20Z | CVE-2020-1948 | Null | https://github.com/ctlyz123/CVE-2020-1948 | 未查询到CVE信息| 
-| 20200703T13:07:45Z | CVE-2020-2021 | CVE-2020-2021 | https://github.com/mr-r3b00t/CVE-2020-2021 | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS 在这种情况下，这是一个严重严重漏洞，其CVSS基本分数为10.0（CVSS：3.1 / AV：N / AC：L / PR：N / UI：N / S：C / C：H / I：H / A： H）。如果仅可通过受限管理网络访问Web界面，则问题将降低为CVSS基本分数9.6（CVSS：3.1 / AV：A / AC：L / PR：N / UI：N / S：C / C：H / I：H / A：H）。 Palo Alto Networks不知道有任何恶意尝试利用此漏洞。| 
+| 20200703T13:07:45Z | CVE-2020-2021 | CVE-2020-2021 | https://github.com/mr-r3b00t/CVE-2020-2021 | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 54 MINUTES 22 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20200703T10:28:20Z | CVE-2020-2551 | CVE-2020-2551 | https://github.com/0nise/CVE-2020-2551 | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
-| 20200703T07:43:51Z | CVE-2020-12856 | A bluetooth-related vulnerability in some contact tracing apps | https://github.com/alwentiu/COVIDSafe-CVE-2020-12856 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 56 MINUTES 51 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200703T06:21:33Z | CVE-2020-10665 | POC for CVE-2020-10665 Docker Desktop Local Privilege Escalation | https://github.com/spaceraccoon/CVE-2020-10665 | Docker Desktop允许将本地特权提升到NT AUTHORITY \ SYSTEM，因为它使用管理员特权对诊断的收集进行了错误处理，从而导致任意DACL权限被覆盖和任意文件写入。这会影响2.1.0.9之前的Docker桌面企业版，2.2.0.4之前的Windows稳定版Docker桌面和2.2.2.0之前的Windows Edge的Docker桌面。| 
-| 20200703T05:01:47Z | CVE-2020-12828 | CVE-2020-12828 PoC and Analysis.  | https://github.com/0xsha/ZombieVPN | 在1.3.3.218之前的AnchorFree VPN SDK中发现了一个问题。 VPN SDK服务通过绑定到本地主机的套接字获取某些可执行位置。绑定到套接字并提供恶意可执行文件所在的路径会导致以SYSTEM特权执行恶意可执行文件。| 
+| 20200703T07:43:51Z | CVE-2020-12856 | A bluetooth-related vulnerability in some contact tracing apps | https://github.com/alwentiu/COVIDSafe-CVE-2020-12856 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 54 MINUTES 12 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200703T06:21:33Z | CVE-2020-10665 | POC for CVE-2020-10665 Docker Desktop Local Privilege Escalation | https://github.com/spaceraccoon/CVE-2020-10665 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 54 MINUTES 19 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200703T05:01:47Z | CVE-2020-12828 | CVE-2020-12828 PoC and Analysis.  | https://github.com/0xsha/ZombieVPN | | 
 
 
 # klee on Github 推荐
@@ -112,16 +112,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20200703T12:59:38Z | This contains a self made library in c++ from the motive of fuzzing. | https://github.com/DeepeshLall/Fuzzer | 1 | 1| 
-| 20200703T12:19:47Z | Corpus of data used for libgdiplus fuzzing | https://github.com/hughbe/libgdiplus-fuzzer-corpus | 0 | 0| 
-| 20200703T12:08:36Z | Tools for fuzzing | https://github.com/Loveskyrim/Fuzz | 0 | 0| 
-| 20200703T12:06:08Z | Peach is a fuzzing framework which uses a DSL for building fuzzers and an observer based architecture to execute and monitor them. | https://github.com/MozillaSecurity/peach | 296 | 76| 
-| 20200703T12:02:38Z | Null | https://github.com/s9varesc/url-fuzzing | 0 | 0| 
-| 20200703T12:02:06Z | A genetic algorithm based android fuzzer | https://github.com/aga7hokakological/fuzzDr0id | 0 | 0| 
-| 20200703T11:56:38Z | Fuzzing Parsers with Tokens | https://github.com/uds-se/lFuzzer | 14 | 2| 
-| 20200703T11:51:23Z | A JavaScript Engine Fuzzer | https://github.com/googleprojectzero/fuzzilli | 946 | 151| 
-| 20200703T11:44:59Z | Null | https://github.com/Boriver/fuzzy | 0 | 0| 
-| 20200703T11:09:41Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 3019 | 689| 
+| 20200704T00:05:50Z | The Python3 Fuzzing Module | https://github.com/jangelesg/Py3webfuzz | 0 | 0| 
+| 20200703T23:44:15Z | Null | https://github.com/eliseuvideira/freedomain-fuzzy-match2 | 0 | 0| 
+| 20200703T23:04:09Z | Fuzzy System implementation in Python | https://github.com/libinjohn26/Fuzzy-System | 0 | 0| 
+| 20200703T22:35:06Z | Null | https://github.com/rnejdetsarikaya/Fuzzy-Based-Image-Segmentation | 0 | 0| 
+| 20200703T22:01:56Z | Null | https://github.com/Sambigeara/fuzzy-note | 1 | 0| 
+| 20200703T21:47:54Z | Dictionary for fuzzing server directories | https://github.com/xaleraf4ra/dffs | 0 | 0| 
+| 20200703T21:21:06Z |  🐰 Tool set for fuzz and stress testing your functions! | https://github.com/palekh/fuzzing | 3 | 0| 
+| 20200703T20:15:47Z | Null | https://github.com/serendatapy/fuzzy-net-works | 1 | 0| 
+| 20200703T20:12:34Z | Clientside vulnerability / reflected xss fuzzer | https://github.com/FlameOfIgnis/puff | 71 | 9| 
+| 20200703T20:10:59Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 3021 | 689| 
 
 
 
