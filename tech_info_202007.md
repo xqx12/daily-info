@@ -112,7 +112,8 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20200704T00:57:40Z | The Python3 Fuzzing Module | https://github.com/jangelesg/Py3webfuzz | 0 | 0| 
+| 20200704T01:02:30Z | FuzzyKnights: Protectors of the Forst - 16bit Adventure | https://github.com/mjnrock/fuzzyknights-arcade | 0 | 0| 
+| 20200704T01:01:55Z | The Python3 Fuzzing Module | https://github.com/jangelesg/Py3webfuzz | 0 | 0| 
 | 20200703T23:44:15Z | Null | https://github.com/eliseuvideira/freedomain-fuzzy-match2 | 0 | 0| 
 | 20200703T23:04:09Z | Fuzzy System implementation in Python | https://github.com/libinjohn26/Fuzzy-System | 0 | 0| 
 | 20200703T22:35:06Z | Null | https://github.com/rnejdetsarikaya/Fuzzy-Based-Image-Segmentation | 0 | 0| 
@@ -121,7 +122,6 @@
 | 20200703T21:21:06Z |  🐰 Tool set for fuzz and stress testing your functions! | https://github.com/palekh/fuzzing | 3 | 0| 
 | 20200703T20:15:47Z | Null | https://github.com/serendatapy/fuzzy-net-works | 1 | 0| 
 | 20200703T20:12:34Z | Clientside vulnerability / reflected xss fuzzer | https://github.com/FlameOfIgnis/puff | 71 | 9| 
-| 20200703T20:10:59Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 3021 | 689| 
 
 
 
