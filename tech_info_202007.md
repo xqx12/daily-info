@@ -46,14 +46,14 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20200705T12:00:54Z | CVE-2020-11444 | Exphub[漏洞利用脚本库] 包括Webloigc、Struts2、Tomcat、Nexus、Solr、Jboss、Drupal的漏洞利用脚本，优先更新高危且易利用的漏洞利用脚本，最新添加CVE-2020-11444、CVE-2020-10204、CVE-2020-10199、CVE-2020-1938、CVE-2020-2551、CVE-2020-2555、CVE-2020-2883、CVE-2019-17558、CVE-2019-6340 | https://github.com/zhzyker/exphub | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 58 MINUTES 20 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20200705T11:49:01Z | CVE-2020-5902 | BIG-IP RCE-LFI | https://github.com/xyele/CVE-2020-5902 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 58 MINUTES 36 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200705T11:14:39Z | CVE-2020-14947 | The official exploit for OCS Inventory NG v2.7 Remote Command Execution CVE-2020-14947 | https://github.com/mhaskar/CVE-2020-14947 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 59 MINUTES 28 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200705T10:14:15Z | CVE-2020-11444 | Exphub[漏洞利用脚本库] 包括Webloigc、Struts2、Tomcat、Nexus、Solr、Jboss、Drupal的漏洞利用脚本，优先更新高危且易利用的漏洞利用脚本，最新添加CVE-2020-11444、CVE-2020-10204、CVE-2020-10199、CVE-2020-1938、CVE-2020-2551、CVE-2020-2555、CVE-2020-2883、CVE-2019-17558、CVE-2019-6340 | https://github.com/zhzyker/exphub | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 59 MINUTES 18 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200705T09:13:58Z | CVE-2020-13777 | Null | https://github.com/prprhyt/PoC_TLS1_3_CVE-2020-13777 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 59 MINUTES 21 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200705T11:14:39Z | CVE-2020-14947 | The official exploit for OCS Inventory NG v2.7 Remote Command Execution CVE-2020-14947 | https://github.com/mhaskar/CVE-2020-14947 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 58 MINUTES 29 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200705T09:13:58Z | CVE-2020-13777 | Null | https://github.com/prprhyt/PoC_TLS1_3_CVE-2020-13777 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 58 MINUTES 23 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20200705T06:44:37Z | CVE-2020-5902 | Automated script for F5 BIG-IP scanner (CVE-2020-5902) using hosts retrieved from Shodan API. | https://github.com/aqhmal/CVE-2020-5902-Scanner | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 58 MINUTES 35 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200705T05:50:02Z | CVE-2020-5902 | CVE-2020-5902 | https://github.com/dwisiswant0/CVE-2020-5902 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 59 MINUTES 32 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200705T05:50:02Z | CVE-2020-5902 | CVE-2020-5902 | https://github.com/dwisiswant0/CVE-2020-5902 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 58 MINUTES 33 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20200704T16:40:22Z | CVE-2020-8835 | Null | https://github.com/snappyJack/Rick_write_exp_CVE-2020-8835 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 58 MINUTES 34 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200704T15:22:41Z | CVE-2020-12828 | CVE-2020-12828 PoC and Analysis.  | https://github.com/0xsha/ZombieVPN | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 59 MINUTES 25 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200704T15:22:41Z | CVE-2020-12828 | CVE-2020-12828 PoC and Analysis.  | https://github.com/0xsha/ZombieVPN | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 58 MINUTES 26 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20200704T14:44:45Z | CVE-2020-15392 | User Enumeration on Supravizio BPM 10.1.2 | https://github.com/inflixim4be/CVE-2020-15392 | 未查询到CVE信息| 
 | 20200704T14:44:07Z | CVE-2020-15367 | Brute Force on Supravizio BPM 10.1.2 | https://github.com/inflixim4be/CVE-2020-15367 | 未查询到CVE信息| 
 
@@ -99,31 +99,31 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20200705T08:38:56Z | Null | https://github.com/evi1ox/MSSQL_BackDoor | 1 | 0| 
+| 20200705T04:43:31Z | Persistence backdoor for Linux | https://github.com/atz5/persistent_backdoor-Linux | 0 | 0| 
+| 20200705T04:28:26Z | Null | https://github.com/swagkarna/FUD-Malware-dropper | 2 | 1| 
+| 20200705T03:53:26Z | A curated list of awesome backdoor learning research | https://github.com/THUYimingLi/awesome-backdoor-learning | 6 | 0| 
+| 20200705T02:19:26Z | This is a au3 script and with this you can make a fake exe to download your backdoor  | https://github.com/HarhsKS/autoDownload | 0 | 0| 
 | 20200705T01:44:10Z | Undetectable & Xor encrypting with custom KEY (FUD Metasploit Rat) bypass Top Antivirus like BitDefender,Malwarebytes,Avast,ESET-NOD32,AVG,... & Automatically Add ICON and MANIFEST to excitable | https://github.com/persianhydra/Xeexe-TopAntivirusEvasion | 71 | 25| 
 | 20200705T00:21:37Z | A sample app to demonstrate how to create Xamarin UITests using the Page Object architecture, Backdoor Methods and App Links (aka Deep Linking) | https://github.com/brminnick/UITestSampleApp | 28 | 24| 
 | 20200704T22:52:42Z | A native backdoor module for Microsoft IIS (Internet Information Services) | https://github.com/0x09AL/IIS-Raid | 309 | 75| 
 | 20200704T12:17:20Z | A backdoor application that gains control of another system | https://github.com/pan0sSt/reverse_backdoor | 1 | 1| 
 | 20200704T08:19:34Z | Thoron Framework is a Linux post-exploitation framework that exploits Linux TCP vulnerability to provide a shell-like connection. Thoron Framework has the ability to create simple payloads to provide Linux TCP attack. | https://github.com/entynetproject/thoron | 68 | 26| 
-| 20200704T08:17:51Z | Mouse Framework is an iOS and macOS post-exploitation framework that gives you a command line session with extra functionality between you and a target machine using only a simple Mouse payload. Mouse gives you the power and convenience of uploading and downloading files, tab completion, taking pictures, location tracking, shell command execution, escalating privileges, password retrieval, and much more. | https://github.com/entynetproject/mouse | 167 | 63| 
-| 20200704T07:59:10Z | kumpulan mini shell | https://github.com/Array-Gans/mini-shell-backdoor | 0 | 0| 
-| 20200704T07:08:25Z | Easy to understand back door written in python  | https://github.com/alik604/myPyBackDoor | 9 | 6| 
-| 20200704T04:49:42Z | A malware with lots of features!! and with backdoor. DO NOT MISUSE!! USE FOR EDUCATIONAL PURPOSE ONLY!! | https://github.com/Gauthamprasath/EtherealX | 0 | 0| 
-| 20200703T19:44:18Z | Rusty backdoor+spyware :bomb: :door: | https://github.com/talbor49/spyware | 8 | 0| 
 
 
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20200704T23:34:14Z | Fuzzy charrs are fuzzy. | https://github.com/marenubium87/FuzzyCharr | 0 | 0| 
-| 20200704T23:08:03Z | american fuzzy lop - a security-oriented fuzzer | https://github.com/google/AFL | 1223 | 196| 
-| 20200704T22:43:02Z | Null | https://github.com/renanreboredo/fuzzy-trader | 0 | 0| 
-| 20200704T22:32:19Z | Fuzzy TS optimisation based on genetic algorithm | https://github.com/jairpaulino/fuzzy-ts-opt | 0 | 0| 
-| 20200704T22:10:25Z | Null | https://github.com/lazygrey/fuzzing_with_cmaes | 0 | 0| 
-| 20200704T21:07:28Z | CLI to create file/folder with fuzzy-file matching autocomplete | https://github.com/JoeNg93/fuzzy-new-file | 0 | 0| 
-| 20200704T21:06:33Z | Simple tool to rename source files by matching a list of choices. | https://github.com/pcjco/PyFuzzy-renamer | 0 | 0| 
-| 20200704T20:14:56Z | The Python3 Fuzzing Module | https://github.com/jangelesg/py3webfuzz | 0 | 0| 
-| 20200704T20:07:33Z | Grammar-based Fuzzer that uses WebIDL as a grammar. | https://github.com/PrVrSs/idl2js | 0 | 0| 
-| 20200704T19:43:03Z | Null | https://github.com/nikhils4/fuzzy-eureka | 0 | 1| 
+| 20200705T12:01:52Z | Null | https://github.com/toivootspere/fuzzy-sniffle | 0 | 0| 
+| 20200705T11:50:58Z | Taint-based Directed Whitebox Fuzzing   | https://github.com/QIANZECHANG/BuzzFuzz | 0 | 0| 
+| 20200705T10:57:00Z | get off maa property | https://github.com/diogoaurelio/fuzzy-lumpkins | 0 | 0| 
+| 20200705T10:53:49Z | Collection of quality safety articles | https://github.com/tom0li/collection-document | 1133 | 384| 
+| 20200705T10:44:13Z | A grammar based feedback Fuzzer | https://github.com/nautilus-fuzz/nautilus | 124 | 16| 
+| 20200705T09:38:56Z | Several state-of-art fuzzy clustering algorithms, including Fuzzy c-means clustering, fuzzy subspace clustering and maximum entropy clustering algorithms | https://github.com/kailugaji/Fuzzy_Clustering_Algorithms | 1 | 0| 
+| 20200705T09:29:35Z | Null | https://github.com/nikhils4/fuzzy-eureka | 0 | 1| 
+| 20200705T08:58:43Z | Fuzzy Matching Library for Rust | https://github.com/lotabout/fuzzy-matcher | 35 | 4| 
+| 20200705T08:56:10Z | Fuzzing framework for the GENIVI/vsomeip library | https://github.com/cfanatic/vsomeip-fuzzing | 0 | 0| 
+| 20200705T08:55:22Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 3023 | 688| 
 
 
 
