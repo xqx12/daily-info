@@ -6,6 +6,15 @@
 # 玄武实验室 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20200706 | 用于验证 F5 BIG-IP ADC 高危 RCE 漏洞（CVE-2020-5902）的脚本 | https://gist.github.com/ykoster/11148b1783b2205f9a4981b251e522a0| 
+| 20200706 | EXE到DLL的转换工具EXE_to_DLL发布 | https://www.kitploit.com/2020/07/exetodll-converts-exe-into-dll.html| 
+| 20200706 | Microsoft Access的UNC路径注入 | https://medium.com/@rvrsh3ll/introduction-1d327afaf22d| 
+| 20200706 | 用于在网络上收集，抓取和监视洋葱站点的扩展工具 | https://github.com/danieleperera/OnionIngestor| 
+| 20200706 | Windows 的硬件断点与异常处理 | https://ling.re/hardware-breakpoints/| 
+| 20200706 | 一键拦截并分析所有Android HTTP（S）数据包 | https://httptoolkit.tech/android/| 
+| 20200706 | Mac下配置phpstorm+xdebug+docker(vmware虚拟机)进行断点调试 | https://cyto.top/2020/07/02/config-mac-phpstorm-xdebug-docker-vmware-ubuntu/| 
+| 20200706 | 借助文件描述符实现容器的逃逸 | https://labs.f-secure.com/blog/helping-root-out-of-the-container/| 
+| 20200705 | Dubbo RPC 框架发布 2.7.7 版本修复 CVE-2020-1948 漏洞的补丁被发现存在缺陷 | https://paper.seebug.org/1264/| 
 | 20200704 | 全球网络设备提供商F5 Networks发布了安全漏洞报告，该“远程代码执行“”漏洞影响全球的政府，银行，互联网服务提供商，云计算数据中心以及整个企业网络中安全威胁。 | https://www.zdnet.com/article/f5-patches-vulnerability-that-received-a-cvss-10-severity-score/| 
 | 20200704 | 使用Radare2-16逆向工程x64二进制文件（unix套接字基础知识） | https://artik.blue/reversing-radare-15| 
 | 20200703 | Windows Telemetry 服务本地信息泄漏与代码执行漏洞 | https://secret.club/2020/07/01/diagtrack.html| 
@@ -17,20 +26,13 @@
 | 20200703 | DNS 隧道数据传输的原理及相关的工具 | https://www.fortinet.com/blog/threat-research/into-the-rabbit-hole-offensive-dns-tunneling-rootkits?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+fortinet%2Fblog%2Fthreat-research+%28Fortinet+Threat+Research+Blog%29| 
 | 20200703 | 微软新增 API ExAllocatePool2/3 引导开发者解决 Kernel Pool 内存未初始化问题 | https://msrc-blog.microsoft.com/2020/07/02/solving-uninitialized-kernel-pool-memory-on-windows/| 
 | 20200703 | 逆向工程分析恶意软件，第4部分：Windows系统内部 | https://www.hackers-arise.com/post/2017/07/04/reverse-engineering-malware-part-4-windows-internals| 
-| 20200703 | 攻击检测基础知识教程：代码执行和持久性-实验1 | http://labs.f-secure.com/blog/attack-detection-fundamentals-code-execution-and-persistence-lab-1| 
-| 20200703 | 如何强化学习方法与对抗性思维论述。 | https://www.lightbluetouchpaper.org/2020/07/03/reinforcement-learning-and-adversarial-thinking/| 
-| 20200702 | DisplayLink USB 图形软件任意文件删除本地提权漏洞分析 | https://offsec.almond.consulting/displaylink-usb-graphics-arbitrary-file-write-eop.html| 
-| 20200702 | QEMU 信息泄露漏洞 CVE-2015-5165 分析及利用 | https://programlife.net/2020/06/30/cve-2015-5165-qemu-rtl8139-vulnerability-analysis/| 
-| 20200702 | Apple 雷电口硬件级逆向分析 | https://nyansatan.github.io/lightning/| 
-| 20200702 | 特殊构造的 Javascript URL 对象可以实现 Firefox 信息泄漏 | https://talosintelligence.com/vulnerability_reports/TALOS-2020-1088| 
-| 20200702 | Time-travel Testing of Android Apps | https://mboehme.github.io/paper/ICSE20.TTT.pdf| 
-| 20200702 | Generating NDR Type Serializers for C# | https://www.tiraniddo.dev/2020/07/generating-ndr-type-serializers-for-c.html| 
-| 20200702 | Firefox 发布 78 版本漏洞公告 | https://www.mozilla.org/en-US/security/advisories/mfsa2020-24/| 
 
 
 # 安全维基 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20200706 | SecWiki周刊（第331期) | https://www.sec-wiki.com/weekly/331| 
+| 20200706 | Security Detections on Windows Events with Recurrent Neura... | https://medium.com/@ditrizna/security-detections-on-windows-events-with-recurrent-neural-networks-346d0b2738fe| 
 | 20200705 | BIG IP CVE-2020-5902 漏洞检测 | https://bacde.me/post/big-ip-cve-2020-5902-check-poc/| 
 | 20200704 | 不一样的 反弹Shell 系统剖析 | https://mp.weixin.qq.com/s/VAHriOf4HVUna3FxhKg_OA| 
 | 20200704 | 初探网络安全智能决策 | https://mp.weixin.qq.com/s/EStPo05HwUTQHOTRx7qltg| 
@@ -39,23 +41,21 @@
 | 20200704 | CTF实战特训营实训真题 | https://zhuanlan.zhihu.com/p/148384035| 
 | 20200703 | Detect lateral movement with Azure Sentinel | https://zolder.io/2020/07/01/using-a-firewall-and-sentinel-to-detect-lateral-movement/?a=q| 
 | 20200703 | Taking over Azure DevOps Accounts with 1 Click | https://blog.assetnote.io/2020/06/28/subdomain-takeover-to-account-takeover/?v=2| 
-| 20200703 | FDEU-CVE-2019-10222 | https://full-disclosure.eu/reports/2019/FDEU-CVE-2019-10222-telia-savitarna-backdoor.html| 
-| 20200703 | SSRF on Zimbra Led to Dump All Credentials in Clear Text | https://medium.com/bugbountywriteup/story-of-a-2-5k-bounty-ssrf-on-zimbra-led-to-dump-all-credentials-in-clear-text-6fe826005ccc| 
 
 
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20200706T01:36:35Z | CVE-2020-5902 | exploit code for  F5-Big-IP (CVE-2020-5902) | https://github.com/yasserjanah/CVE-2020-5902 | 未查询到CVE信息| 
-| 20200706T01:35:36Z | CVE-2020-5902 | CVE-2020-5902 BIG-IP | https://github.com/jas502n/CVE-2020-5902 | 未查询到CVE信息| 
-| 20200706T01:17:11Z | CVE-2020-5902 | Automated script for F5 BIG-IP scanner (CVE-2020-5902) using hosts retrieved from Shodan API. | https://github.com/aqhmal/CVE-2020-5902-Scanner | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 21 MINUTES 31 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200706T01:03:12Z | CVE-2020-5902 | POC code for checking for this vulnerability. Since the code has been released, I decided to release this one as well. Patch Immediately! | https://github.com/ar0dd/CVE-2020-5902 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 17 MINUTES 23 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200706T01:01:43Z | CVE-2020-5902 | Proof of concept for CVE-2020-5902 | https://github.com/yassineaboukir/CVE-2020-5902 | 未查询到CVE信息| 
-| 20200706T00:59:37Z | CVE-2020-11444 | Exphub[漏洞利用脚本库] 包括Webloigc、Struts2、Tomcat、Nexus、Solr、Jboss、Drupal的漏洞利用脚本，优先更新高危且易利用的漏洞利用脚本，最新添加CVE-2020-11444、CVE-2020-10204、CVE-2020-10199、CVE-2020-1938、CVE-2020-2551、CVE-2020-2555、CVE-2020-2883、CVE-2019-17558、CVE-2019-6340 | https://github.com/zhzyker/exphub | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 19 MINUTES 53 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200705T23:54:18Z | CVE-2020-5902 | Null | https://github.com/nsflabs/CVE-2020-5902 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 17 MINUTES 23 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200705T23:27:34Z | CVE-2020-5902 | Proof of Concept for CVE-2020-5902 | https://github.com/Un4gi/CVE-2020-5902 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 17 MINUTES 23 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200705T22:34:59Z | CVE-2020-5902 | BIG-IP RCE-LFI | https://github.com/xyele/CVE-2020-5902 | 未查询到CVE信息| 
-| 20200705T22:07:02Z | CVE-2020-5902 | CVE-2020-5902 | https://github.com/dwisiswant0/CVE-2020-5902 | 未查询到CVE信息| 
+| 20200706T11:55:34Z | CVE-2020-5902 | CVE-2020-5902 BIG-IP | https://github.com/jas502n/CVE-2020-5902 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 59 MINUTES 17 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200706T11:50:57Z | CVE-2020-5902 | 批量扫描CVE-2020-5902，远程代码执行，已测试 | https://github.com/lijiaxing1997/CVE-2020-5902-POC-EXP | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 58 MINUTES 36 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200706T11:46:38Z | CVE-2020-5902 | Proof of concept for CVE-2020-5902 | https://github.com/yassineaboukir/CVE-2020-5902 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 59 MINUTES 18 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200706T11:28:03Z | CVE-2020-5902 | Automated script for F5 BIG-IP scanner (CVE-2020-5902) using hosts retrieved from Shodan API. | https://github.com/aqhmal/CVE-2020-5902-Scanner | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 59 MINUTES 16 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200706T11:20:04Z | CVE-2020-5902 | F5 Big-IP CVE-2020-5902 - LFI and RCE | https://github.com/dunderhay/CVE-2020-5902 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 58 MINUTES 31 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200706T10:41:23Z | CVE-2020-5902 | dummy poc | https://github.com/qlkwej/poc-CVE-2020-5902 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 58 MINUTES 37 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200706T09:43:42Z | CVE-2020-5902 | Null | https://github.com/sv3nbeast/CVE-2020-5902_RCE | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 58 MINUTES 33 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200706T09:41:59Z | CVE-2020-5902 | exploit code for  F5-Big-IP (CVE-2020-5902) | https://github.com/yasserjanah/CVE-2020-5902 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 59 MINUTES 22 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200706T08:51:04Z | CVE-2020-5902 | CVE-2020-5902 | https://github.com/tom0li/CVE-2020-5902 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 58 MINUTES 35 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200706T08:11:01Z | CVE-2020-5902 | Null | https://github.com/tututu12138/CVE-2020-5902 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 58 MINUTES 35 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 
 
 # klee on Github 推荐
@@ -84,46 +84,46 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20200706T01:40:43Z | exploit-database-papers | https://github.com/offensive-security/exploitdb-papers | 224 | 24| 
-| 20200706T01:36:35Z | exploit code for  F5-Big-IP (CVE-2020-5902) | https://github.com/yasserjanah/CVE-2020-5902 | 0 | 0| 
-| 20200706T01:31:28Z | Public Exploits + Extra-curriculum for OSCE Exam Preparation | https://github.com/bigb0sss/OSCE | 14 | 3| 
-| 20200706T01:24:19Z | Real world and CTFs exploiting web/binary POCs. | https://github.com/SadFud/Exploits | 49 | 21| 
-| 20200706T01:22:43Z | a iOS repo for exploit patches and fixes. not exactly meant for the public, but it%s open to be added. | https://github.com/syns/iospatches | 1 | 0| 
-| 20200706T01:03:21Z | PlayStation 2 DVD Player Exploit | https://github.com/CTurt/FreeDVDBoot | 1079 | 72| 
-| 20200706T00:53:02Z | Exploit injection library that facilitates the tethered booting of iOS devices. | https://github.com/synackuk/belladonna | 0 | 0| 
-| 20200706T00:38:14Z | A nuker for discord.py, designed to act as a regular bot. | https://github.com/Catterall/Stealth-Nuker | 0 | 0| 
-| 20200706T00:19:31Z | this  bash script lets you choose a linux enumeration script, exploitation and utilities. read README.md file to learn about this script.. | https://github.com/FabioDefilippo/linuxallenum | 0 | 0| 
-| 20200705T23:54:25Z | *Frequently Updated. Sifter is a osint, recon & vulnerability scanner. It combines a plethara of tools within different module sets in order to quickly perform recon tasks, check network firewalling, enumerate remote and local hosts, and scan for the %blue% vulnerabilities within microsft and if unpatched, exploit them.  It uses tools like blackwidow and konan for webdir enumeration and attack surface mapping rapidly using ASM.  | https://github.com/s1l3nt78/sifter | 179 | 57| 
+| 20200706T11:52:30Z | this bash script let you download scripts and clone repos for remote exploits | https://github.com/FabioDefilippo/linuxallremote | 0 | 0| 
+| 20200706T11:47:04Z | A curated set of algorithms that exploit the power and simplicity of golang | https://github.com/jeyabalajis/goalgos | 0 | 0| 
+| 20200706T11:39:13Z | Silice is an open source language that simplifies writing algorithms fully exploiting FPGA architectures. | https://github.com/sylefeb/Silice | 267 | 13| 
+| 20200706T11:09:36Z | The popular GENIE Generator product is used by nearly all accelerator neutrino experiments and it plays a key role in the exploitation of neutrino data. The Generator implements a modern software framework and it includes state-of-the-art physics modules. It captures the latest results of the GENIE global analysis of neutrino scattering data and includes several tunes that were produced using the proprietary Comparisons and Tuning products. The GENIE physics model is universal and comprehensive:  It handles all neutrinos and targets, and all processes relevant from MeV to PeV energy scales. The Generator includes several tools (flux drivers, detector geometry navigators, specialized event generation apps, event reweighting engines) to simulate complex experimental setups in full detail and to support generator-related analysis tasks.  | https://github.com/GENIE-MC/Generator | 14 | 40| 
+| 20200706T10:29:57Z | Vulnerabilities of Goby supported with exploitation. | https://github.com/gobysec/GobyVuls | 29 | 7| 
+| 20200706T09:58:12Z | A phased, evasive Path Traversal scanning & exploitation tool in Python | https://github.com/VainlyStrain/Vailyn | 2 | 0| 
+| 20200706T09:43:58Z | JSshell - A JavaScript reverse shell for exploiting XSS remotely or finding blind XSS, working with both Unix and Windows OS | https://github.com/shelld3v/JSshell | 80 | 17| 
+| 20200706T09:32:23Z | Apollo is a post-exploitation tool for managing, enumerating and pivotting on compromised machines. | https://github.com/thecoderstudio/apollo | 5 | 0| 
+| 20200706T09:30:55Z | This ABAP report is a post-exploitation means of retrieving password hashes in order to offline brute force them | https://github.com/kloris/SAP-Hash-Harvester | 0 | 0| 
+| 20200706T09:23:02Z | Exploiting Inter- and Intadependencies in Industry Portfolios | https://github.com/ElwinKardux/Time-SeriesEfficientReturns | 1 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20200706T01:15:03Z | Null | https://github.com/evi1ox/MSSQL_BackDoor | 13 | 0| 
-| 20200705T21:54:25Z | Undetectable & Xor encrypting with custom KEY (FUD Metasploit Rat) bypass Top Antivirus like BitDefender,Malwarebytes,Avast,ESET-NOD32,AVG,... & Automatically Add ICON and MANIFEST to excitable | https://github.com/persianhydra/Xeexe-TopAntivirusEvasion | 73 | 26| 
+| 20200706T09:19:41Z | Null | https://github.com/TDteach/backdoor | 0 | 0| 
+| 20200706T09:12:08Z | Null | https://github.com/evi1ox/MSSQL_BackDoor | 32 | 2| 
+| 20200706T08:39:37Z | Undetectable & Xor encrypting with custom KEY (FUD Metasploit Rat) bypass Top Antivirus like BitDefender,Malwarebytes,Avast,ESET-NOD32,AVG,... & Automatically Add ICON and MANIFEST to excitable | https://github.com/persianhydra/Xeexe-TopAntivirusEvasion | 74 | 26| 
+| 20200706T04:25:55Z | Null | https://github.com/swagkarna/FUD-Malware-dropper | 3 | 1| 
 | 20200705T16:34:06Z | Backdoor | https://github.com/fstreitzia/shinkakz | 0 | 0| 
 | 20200705T16:33:23Z | Private Backdoor | https://github.com/fstreitzia/Kill | 0 | 0| 
 | 20200705T04:43:31Z | Persistence backdoor for Linux | https://github.com/atz5/persistent_backdoor-Linux | 0 | 0| 
-| 20200705T04:28:26Z | Null | https://github.com/swagkarna/FUD-Malware-dropper | 2 | 1| 
 | 20200705T03:53:26Z | A curated list of awesome backdoor learning research | https://github.com/THUYimingLi/awesome-backdoor-learning | 6 | 0| 
 | 20200705T02:19:26Z | This is a au3 script and with this you can make a fake exe to download your backdoor  | https://github.com/HarhsKS/autoDownload | 0 | 0| 
 | 20200705T00:21:37Z | A sample app to demonstrate how to create Xamarin UITests using the Page Object architecture, Backdoor Methods and App Links (aka Deep Linking) | https://github.com/brminnick/UITestSampleApp | 28 | 24| 
-| 20200704T22:52:42Z | A native backdoor module for Microsoft IIS (Internet Information Services) | https://github.com/0x09AL/IIS-Raid | 309 | 75| 
 
 
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20200706T01:11:24Z | rfuzz: coverage-directed fuzzing for RTL research platform | https://github.com/ekiwi/rfuzz | 22 | 2| 
-| 20200706T01:01:23Z | FuzzyKnights: Protectors of the Forst - 16bit Adventure | https://github.com/mjnrock/fuzzyknights-arcade | 0 | 0| 
-| 20200706T00:38:14Z | Scalable fuzzing infrastructure. | https://github.com/google/clusterfuzz | 4251 | 377| 
-| 20200706T00:28:22Z | A fuzzy parser for C/C++ that creates semantic code property graphs | https://github.com/ShiftLeftSecurity/fuzzyc2cpg | 32 | 10| 
-| 20200706T00:26:58Z | Repository for second project code of Fuzzy Systems course. | https://github.com/Tom0497/BCS_fuzzy | 0 | 0| 
-| 20200705T23:26:07Z | Pedal Multiefecto para guitarra electrica (LoopBack, Delay, Fuzz y Wah-wah) | https://github.com/jrosmirez94/Pedal-Multiefecto | 0 | 0| 
-| 20200705T22:23:08Z | A framework provides an interface to monitor and control fuzzers | https://github.com/pzread/fuzvisor | 22 | 0| 
-| 20200705T22:17:41Z | Simple tool to rename source files by matching a list of choices. | https://github.com/pcjco/PyFuzzy-renamer | 0 | 0| 
-| 20200705T22:10:07Z | fuzzers corpus files for libzmq are stored in binary format in this repository | https://github.com/zeromq/libzmq-fuzz-corpora | 0 | 0| 
-| 20200705T22:01:58Z | Null | https://github.com/fossegutten/FuzzyStoryEditor | 68 | 1| 
+| 20200706T11:44:07Z | Live ticketing platform and online music streaming | https://github.com/SkNuwanTissera/FuzzyAdventure | 0 | 0| 
+| 20200706T11:37:10Z | Null | https://github.com/Songsongmxb/fuzzy-carnival | 0 | 0| 
+| 20200706T11:30:52Z | Null | https://github.com/tamaker/fuzzysort-search-demo | 0 | 0| 
+| 20200706T11:14:30Z | Ptrace fuzzer experiments | https://github.com/marcinguy/fuzzer | 0 | 0| 
+| 20200706T10:50:10Z | CLI to create file/folder with fuzzy-file matching autocomplete | https://github.com/JoeNg93/fuzzy-new-file | 0 | 0| 
+| 20200706T10:44:56Z | 📚 A ultimate collection wordlists of the best-known CMS | https://github.com/JavierOlmedo/UltimateCMSWordlists | 22 | 6| 
+| 20200706T10:39:38Z | Repository for second project code of Fuzzy Systems course. | https://github.com/Tom0497/BCS_fuzzy | 0 | 0| 
+| 20200706T10:26:37Z | Fuzzing framework for the GENIVI/vsomeip library | https://github.com/cfanatic/vsomeip-fuzzing | 0 | 0| 
+| 20200706T10:13:49Z | FLUFFI (Fully Localized Utility For Fuzzing Instantaneously) - A distributed evolutionary binary fuzzer for pentesters | https://github.com/siemens/fluffi | 28 | 5| 
+| 20200706T10:02:46Z | Null | https://github.com/PMiruna/RL-Fuzzing | 0 | 0| 
 
 
 
