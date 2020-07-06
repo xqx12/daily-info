@@ -17,23 +17,28 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20200705T12:34:54Z | CVE-2020-14947 | The official exploit for OCS Inventory NG v2.7 Remote Command Execution CVE-2020-14947 | https://github.com/mhaskar/CVE-2020-14947 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 00 MINUTES 31 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200705T12:27:04Z | CVE-2020-11444 | Exphub[漏洞利用脚本库] 包括Webloigc、Struts2、Tomcat、Nexus、Solr、Jboss、Drupal的漏洞利用脚本，优先更新高危且易利用的漏洞利用脚本，最新添加CVE-2020-11444、CVE-2020-10204、CVE-2020-10199、CVE-2020-1938、CVE-2020-2551、CVE-2020-2555、CVE-2020-2883、CVE-2019-17558、CVE-2019-6340 | https://github.com/zhzyker/exphub | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 00 MINUTES 23 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200705T11:49:01Z | CVE-2020-5902 | BIG-IP RCE-LFI | https://github.com/xyele/CVE-2020-5902 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 00 MINUTES 38 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200705T09:13:58Z | CVE-2020-13777 | Null | https://github.com/prprhyt/PoC_TLS1_3_CVE-2020-13777 | | 
-| 20200705T06:44:37Z | CVE-2020-5902 | Automated script for F5 BIG-IP scanner (CVE-2020-5902) using hosts retrieved from Shodan API. | https://github.com/aqhmal/CVE-2020-5902-Scanner | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 00 MINUTES 37 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200705T05:50:02Z | CVE-2020-5902 | CVE-2020-5902 | https://github.com/dwisiswant0/CVE-2020-5902 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 00 MINUTES 35 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200705T23:54:18Z | CVE-2020-5902 | Null | https://github.com/nsflabs/CVE-2020-5902 | 在BIG-IP版本15.0.0-15.1.0.3、14.1.0-14.1.2.5、13.1.0-13.1.3.3、12.1.0-12.1.5.1和11.6.1-11.6.5.1中，流量管理用户接口（TMUI），也称为“配置”实用程序，在未公开的页面中具有远程执行代码（RCE）漏洞。| 
+| 20200705T23:47:43Z | CVE-2020-5902 | CVE-2020-5902 BIG-IP | https://github.com/jas502n/CVE-2020-5902 | 在BIG-IP版本15.0.0-15.1.0.3、14.1.0-14.1.2.5、13.1.0-13.1.3.3、12.1.0-12.1.5.1和11.6.1-11.6.5.1中，流量管理用户接口（TMUI），也称为“配置”实用程序，在未公开的页面中具有远程执行代码（RCE）漏洞。| 
+| 20200705T23:27:34Z | CVE-2020-5902 | Proof of Concept for CVE-2020-5902 | https://github.com/Un4gi/CVE-2020-5902 | 在BIG-IP版本15.0.0-15.1.0.3、14.1.0-14.1.2.5、13.1.0-13.1.3.3、12.1.0-12.1.5.1和11.6.1-11.6.5.1中，流量管理用户接口（TMUI），也称为“配置”实用程序，在未公开的页面中具有远程执行代码（RCE）漏洞。| 
+| 20200705T22:34:59Z | CVE-2020-5902 | BIG-IP RCE-LFI | https://github.com/xyele/CVE-2020-5902 | 在BIG-IP版本15.0.0-15.1.0.3、14.1.0-14.1.2.5、13.1.0-13.1.3.3、12.1.0-12.1.5.1和11.6.1-11.6.5.1中，流量管理用户接口（TMUI），也称为“配置”实用程序，在未公开的页面中具有远程执行代码（RCE）漏洞。| 
+| 20200705T22:32:45Z | CVE-2020-5902 | Automated script for F5 BIG-IP scanner (CVE-2020-5902) using hosts retrieved from Shodan API. | https://github.com/aqhmal/CVE-2020-5902-Scanner | 在BIG-IP版本15.0.0-15.1.0.3、14.1.0-14.1.2.5、13.1.0-13.1.3.3、12.1.0-12.1.5.1和11.6.1-11.6.5.1中，流量管理用户接口（TMUI），也称为“配置”实用程序，在未公开的页面中具有远程执行代码（RCE）漏洞。| 
+| 20200705T22:29:37Z | CVE-2020-5902 | POC code for checking for this vulnerability. Since the code has been released, I decided to release this one as well. Patch Immediately! | https://github.com/ar0dd/CVE-2020-5902 | 在BIG-IP版本15.0.0-15.1.0.3、14.1.0-14.1.2.5、13.1.0-13.1.3.3、12.1.0-12.1.5.1和11.6.1-11.6.5.1中，流量管理用户接口（TMUI），也称为“配置”实用程序，在未公开的页面中具有远程执行代码（RCE）漏洞。| 
+| 20200705T22:07:02Z | CVE-2020-5902 | CVE-2020-5902 | https://github.com/dwisiswant0/CVE-2020-5902 | 在BIG-IP版本15.0.0-15.1.0.3、14.1.0-14.1.2.5、13.1.0-13.1.3.3、12.1.0-12.1.5.1和11.6.1-11.6.5.1中，流量管理用户接口（TMUI），也称为“配置”实用程序，在未公开的页面中具有远程执行代码（RCE）漏洞。| 
+| 20200705T20:24:34Z | CVE-2020-13640 | CVE-2020-13640 - SQL injection in wpDiscuz WordPress plugin <= 5.3.5 | https://github.com/asterite3/CVE-2020-13640 | gVectors wpDiscuz插件5.3.5和更早版本中的WordPress中的SQL注入问题允许远程攻击者通过wpdLoadMoreComments请求的order参数执行任意SQL命令。 （不影响7.x版本。）| 
+| 20200705T19:03:48Z | CVE-2020-5902 | Null | https://github.com/rwincey/CVE-2020-5902-NSE | 在BIG-IP版本15.0.0-15.1.0.3、14.1.0-14.1.2.5、13.1.0-13.1.3.3、12.1.0-12.1.5.1和11.6.1-11.6.5.1中，流量管理用户接口（TMUI），也称为“配置”实用程序，在未公开的页面中具有远程执行代码（RCE）漏洞。| 
+| 20200705T19:00:39Z | CVE-2020-5902 | Proof of concept for CVE-2020-5902 | https://github.com/yassineaboukir/CVE-2020-5902 | 在BIG-IP版本15.0.0-15.1.0.3、14.1.0-14.1.2.5、13.1.0-13.1.3.3、12.1.0-12.1.5.1和11.6.1-11.6.5.1中，流量管理用户接口（TMUI），也称为“配置”实用程序，在未公开的页面中具有远程执行代码（RCE）漏洞。| 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20200705T19:21:00Z | Null | https://github.com/Niemand200/Die-Entstehung-des-Klees | 1 | 0| 
 
 
 # s2e on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20200705T10:01:10Z | Q. Yao, H. Yang, B. Han, G. Niu, J. Kwok. Searching to Exploit Memorization Effect in Learning from Noisy Labels. International Conference on Machine Learning (ICML) 2020 | https://github.com/AutoML-4Paradigm/S2E | 0 | 0| 
+| 20200705T13:48:05Z | Q. Yao, H. Yang, B. Han, G. Niu, J. Kwok. Searching to Exploit Memorization Effect in Learning from Noisy Labels. International Conference on Machine Learning (ICML) 2020 | https://github.com/AutoML-4Paradigm/S2E | 1 | 0| 
 
 
 # exploit on Github 推荐
@@ -66,16 +71,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20200705T12:45:23Z | Null | https://github.com/fauzigalih/SistemPakarFuzzyMamdani | 1 | 0| 
-| 20200705T12:36:47Z | A DirBuster like web fuzzer implemented in Rust. | https://github.com/shhoalex/dirruster | 0 | 0| 
-| 20200705T12:20:24Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 3024 | 688| 
-| 20200705T12:01:52Z | Null | https://github.com/toivootspere/fuzzy-sniffle | 0 | 0| 
-| 20200705T11:50:58Z | Taint-based Directed Whitebox Fuzzing   | https://github.com/QIANZECHANG/BuzzFuzz | 0 | 0| 
-| 20200705T10:57:00Z | get off maa property | https://github.com/diogoaurelio/fuzzy-lumpkins | 0 | 0| 
-| 20200705T10:53:49Z | Collection of quality safety articles | https://github.com/tom0li/collection-document | 1133 | 383| 
-| 20200705T10:44:13Z | A grammar based feedback Fuzzer | https://github.com/nautilus-fuzz/nautilus | 124 | 16| 
-| 20200705T09:38:56Z | Several state-of-art fuzzy clustering algorithms, including Fuzzy c-means clustering, fuzzy subspace clustering and maximum entropy clustering algorithms | https://github.com/kailugaji/Fuzzy_Clustering_Algorithms | 1 | 0| 
-| 20200705T09:29:35Z | Null | https://github.com/nikhils4/fuzzy-eureka | 0 | 1| 
+| 20200705T23:26:07Z | Pedal Multiefecto para guitarra electrica (LoopBack, Delay, Fuzz y Wah-wah) | https://github.com/jrosmirez94/Pedal-Multiefecto | 0 | 0| 
+| 20200705T22:23:08Z | A framework provides an interface to monitor and control fuzzers | https://github.com/pzread/fuzvisor | 22 | 0| 
+| 20200705T22:17:41Z | Simple tool to rename source files by matching a list of choices. | https://github.com/pcjco/PyFuzzy-renamer | 0 | 0| 
+| 20200705T22:10:07Z | fuzzers corpus files for libzmq are stored in binary format in this repository | https://github.com/zeromq/libzmq-fuzz-corpora | 0 | 0| 
+| 20200705T22:01:58Z | Null | https://github.com/fossegutten/FuzzyStoryEditor | 68 | 1| 
+| 20200705T21:32:38Z | Repository for second project code of Fuzzy Systems course. | https://github.com/Tom0497/BCS_fuzzy | 0 | 0| 
+| 20200705T20:26:15Z | Fuzzy logic for Air Quality Monitoring App | https://github.com/adifdwimaulana/air-quality-fuzzy | 0 | 0| 
+| 20200705T20:12:30Z | TCP / UDP Socket Fuzzer | https://github.com/fatrolls/SimpleSocketFuzzer | 0 | 0| 
+| 20200705T19:50:26Z | Dictionary for fuzzing server directories | https://github.com/xaleraf4ra/dffs | 1 | 0| 
+| 20200705T19:31:58Z | Clientside vulnerability / reflected xss fuzzer | https://github.com/FlameOfIgnis/puff | 73 | 9| 
 
 
 
