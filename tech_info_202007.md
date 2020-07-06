@@ -84,16 +84,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20200705T12:41:11Z | Collection of things made during my preparation to take on OSCE | https://github.com/Pal1Sec/Exploit-Development | 0 | 0| 
-| 20200705T12:35:11Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 6664 | 1043| 
-| 20200705T12:18:51Z | Null | https://github.com/Manangoel98/SELOADDRIVER-EXPLOIT | 0 | 0| 
-| 20200705T12:12:27Z | A python script file to remotely analyse and exploit Microsoft Windows system via impacket. | https://github.com/BroadbentT/WIN-MASTER | 13 | 10| 
-| 20200705T11:52:47Z | Bash post exploitation toolkit | https://github.com/wintrmvte/Bashark | 472 | 77| 
-| 20200705T11:48:29Z | A phased, evasive Path Traversal scanning & exploitation tool in Python | https://github.com/VainlyStrain/Vailyn | 2 | 0| 
-| 20200705T11:40:05Z | A nuker for discord.py, designed to act as a regular bot. | https://github.com/Catterall/Stealth-Nuker | 0 | 0| 
-| 20200705T11:37:55Z | Prevents a certain De-Sync Exploit from affecting you. | https://github.com/HerpDerpinstine/USpeakerFix | 2 | 0| 
-| 20200705T11:26:38Z | JSshell - A JavaScript reverse shell for exploiting XSS remotely or finding blind XSS, working with both Unix and Windows OS | https://github.com/shelld3v/JSshell | 63 | 13| 
-| 20200705T10:01:10Z | Q. Yao, H. Yang, B. Han, G. Niu, J. Kwok. Searching to Exploit Memorization Effect in Learning from Noisy Labels. International Conference on Machine Learning (ICML) 2020 | https://github.com/AutoML-4Paradigm/S2E | 0 | 0| 
+| 20200705T23:54:25Z | *Frequently Updated. Sifter is a osint, recon & vulnerability scanner. It combines a plethara of tools within different module sets in order to quickly perform recon tasks, check network firewalling, enumerate remote and local hosts, and scan for the %blue% vulnerabilities within microsft and if unpatched, exploit them.  It uses tools like blackwidow and konan for webdir enumeration and attack surface mapping rapidly using ASM.  | https://github.com/s1l3nt78/sifter | 179 | 57| 
+| 20200705T23:53:34Z | a iOS repo for exploit patches and fixes. not exactly meant for the public, but it%s open to be added. | https://github.com/syns/iospatches | 1 | 0| 
+| 20200705T23:50:11Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 6665 | 1043| 
+| 20200705T23:18:20Z | Bukkit/BungeeCord plugin that aims on fixing Exploits in your Minecraft network. [Requires HamsterAPI to work] | https://github.com/2LStudios-M/ExploitFixer | 34 | 11| 
+| 20200705T23:12:49Z | EternalBlue suite remade in C includes: MS17-010 Exploit, EternalBlue vulnerability detector, DoublePulsar detector and DoublePulsar UploadDLL. | https://github.com/bhassani/EternalBlueC | 1 | 0| 
+| 20200705T23:09:15Z | Custom exploits that I made for Hack The Box machines! | https://github.com/nullarmor/hackthebox-exploits | 23 | 5| 
+| 20200705T22:46:15Z | A phased, evasive Path Traversal scanning & exploitation tool in Python | https://github.com/VainlyStrain/Vailyn | 2 | 0| 
+| 20200705T22:40:12Z | Real world and CTFs exploiting web/binary POCs. | https://github.com/SadFud/Exploits | 47 | 20| 
+| 20200705T22:21:33Z | Collection of things made during my preparation to take on OSCE | https://github.com/Pal1Sec/Exploit-Development | 0 | 0| 
+| 20200705T22:01:49Z | Python script for the shellshock vulnerability. | https://github.com/r4v10l1/shellshock_python_exploit | 2 | 0| 
 
 
 # backdoor on Github 推荐
