@@ -6,6 +6,16 @@
 # 玄武实验室 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20200707 | BinaryAI 的相关技术 Paper：《Order Matters: Semantic-Aware Neural Networks for Binary Code Similarity Detection》 | https://keenlab.tencent.com/en/whitepapers/Ordermatters.pdf| 
+| 20200707 | 腾讯科恩实验室开源的基于神经网络的二进制的代码相似度检测工具 | https://github.com/binaryai/sdk| 
+| 20200707 | 微软公开了一项服务 - Project Freta，用于在内存快照中检测恶意软件 | https://www.microsoft.com/en-us/research/blog/toward-trusted-sensing-for-the-cloud-introducing-project-freta/| 
+| 20200707 | CVE-2020-5902 BIG-IP RCE 漏洞目录枚举、文件读、RCE 攻击代码 | https://github.com/jas502n/CVE-2020-5902| 
+| 20200707 | Apache Guacamole Server RCE 漏洞分析 | https://research.checkpoint.com/2020/apache-guacamole-rce/| 
+| 20200707 | 在 Windows 内核中运行 Lua Coroutines | https://github.com/can1357/NtLua| 
+| 20200707 | OneDrive 启动式会尝试从 C:\Qt 加载 DLL，因此存在 DLL 劫持问题 | https://labs.redyops.com/index.php/2020/04/27/onedrive-privilege-of-escalation/| 
+| 20200707 | PlayStation 4 7.02 版本固件 setsockopt 结构体访问没有锁保护导致条件竞争漏洞 | https://hackerone.com/reports/826026| 
+| 20200707 | Patchless AMSI bypass using SharpBlock | https://www.pentestpartners.com/security-blog/patchless-amsi-bypass-using-sharpblock/| 
+| 20200707 | 有些 Android 恶意广告软件/库会将自己安装到系统分区防止被删除，来自卡巴斯基的分析 | https://sec.today/pulses/7b2d9a60-7683-4f32-a8da-4392bf36b7c7/| 
 | 20200706 | 用于验证 F5 BIG-IP ADC 高危 RCE 漏洞（CVE-2020-5902）的脚本 | https://gist.github.com/ykoster/11148b1783b2205f9a4981b251e522a0| 
 | 20200706 | EXE到DLL的转换工具EXE_to_DLL发布 | https://www.kitploit.com/2020/07/exetodll-converts-exe-into-dll.html| 
 | 20200706 | Microsoft Access的UNC路径注入 | https://medium.com/@rvrsh3ll/introduction-1d327afaf22d| 
@@ -16,46 +26,36 @@
 | 20200706 | 借助文件描述符实现容器的逃逸 | https://labs.f-secure.com/blog/helping-root-out-of-the-container/| 
 | 20200706 | 网络取证调查：提取易失数据研究（手动命令模式） | https://www.hackingarticles.in/forensic-investiagtion-extract-volatile-data-manually/| 
 | 20200706 | 通过修补Android应用程序smali代码感染安全问题解决思路。 | https://www.orderofsixangles.com/ru/2020/07/04/Infecting-android-app-the-new-way.html| 
-| 20200705 | Dubbo RPC 框架发布 2.7.7 版本修复 CVE-2020-1948 漏洞的补丁被发现存在缺陷 | https://paper.seebug.org/1264/| 
-| 20200704 | 全球网络设备提供商F5 Networks发布了安全漏洞报告，该“远程代码执行“”漏洞影响全球的政府，银行，互联网服务提供商，云计算数据中心以及整个企业网络中安全威胁。 | https://www.zdnet.com/article/f5-patches-vulnerability-that-received-a-cvss-10-severity-score/| 
-| 20200704 | 使用Radare2-16逆向工程x64二进制文件（unix套接字基础知识） | https://artik.blue/reversing-radare-15| 
-| 20200703 | Windows Telemetry 服务本地信息泄漏与代码执行漏洞 | https://secret.club/2020/07/01/diagtrack.html| 
-| 20200703 | 10 Years of Linux Security | https://grsecurity.net/10_years_of_linux_security.pdf| 
-| 20200703 | PANGOLIN: Incremental Hybrid Fuzzing with Polyhedral Path Abstraction | https://qingkaishi.github.io/public_pdfs/SP2020.pdf| 
-| 20200703 | Intel 基于自己的 Intel VT 和 Intel PT 实现的 AFL 版本，可以实现更高地执行和覆盖率收集效率 | https://github.com/IntelLabs/kAFL| 
-| 20200703 | Quarkslab 对三星 TrustZone 的深入分析 Part 3 | https://blog.quarkslab.com/a-deep-dive-into-samsungs-trustzone-part-3.html| 
-| 20200703 | Dubbo2.7.7 反序列化漏洞绕过分析 | http://paper.seebug.org/1263/| 
-| 20200703 | DNS 隧道数据传输的原理及相关的工具 | https://www.fortinet.com/blog/threat-research/into-the-rabbit-hole-offensive-dns-tunneling-rootkits?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+fortinet%2Fblog%2Fthreat-research+%28Fortinet+Threat+Research+Blog%29| 
 
 
 # 安全维基 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20200707 | 从剖析cs木马生成到开发免杀工具 | https://mp.weixin.qq.com/s/BUp3ignvFJhpm-unStrXig| 
+| 20200707 | 内网渗透之应用层隧道技术 | https://xz.aliyun.com/t/7956| 
+| 20200707 | Java代码审计 | https://xz.aliyun.com/t/7945| 
+| 20200707 | 红队攻防系列之花式鱼竿钓鱼篇 | https://xz.aliyun.com/t/7958| 
+| 20200707 | 斗鱼关注人数爬取—字体反爬的攻与防 | https://cjting.me/2020/07/01/douyu-crawler-and-font-anti-crawling/| 
+| 20200707 | 对《数据安全法》的理解和认识—数据分级分类 | https://mp.weixin.qq.com/s/iZGNGKG1Q36XaFVu0g_lHw| 
+| 20200707 | 对《数据安全法》的理解和认识—立法思路 | https://mp.weixin.qq.com/s/N239WbL9sBQmqPUt5aXp6Q| 
+| 20200707 | SCTF 2020 WriteUp | https://mp.weixin.qq.com/s/puJPmfKOsfbzV-11ggY75Q| 
+| 20200707 | Yet Another Froala 0-Day XSS | https://blog.compass-security.com/2020/07/yet-another-froala-0-day-xss/| 
 | 20200706 | SecWiki周刊（第331期) | https://www.sec-wiki.com/weekly/331| 
-| 20200706 | Security Detections on Windows Events with Recurrent Neura... | https://medium.com/@ditrizna/security-detections-on-windows-events-with-recurrent-neural-networks-346d0b2738fe| 
-| 20200706 | Java代码执行漏洞中类动态加载的应用 | https://mp.weixin.qq.com/s/5iYyRGnlOEEIJmW1DqAeXw| 
-| 20200705 | BIG IP CVE-2020-5902 漏洞检测 | https://bacde.me/post/big-ip-cve-2020-5902-check-poc/| 
-| 20200704 | 不一样的 反弹Shell 系统剖析 | https://mp.weixin.qq.com/s/VAHriOf4HVUna3FxhKg_OA| 
-| 20200704 | 初探网络安全智能决策 | https://mp.weixin.qq.com/s/EStPo05HwUTQHOTRx7qltg| 
-| 20200704 | 小议智能设备安全研究 | https://mp.weixin.qq.com/s/Wc6rE_2rVKHOPoCQzmGvKg| 
-| 20200704 | Oracle 注入学习（终结版） | https://mp.weixin.qq.com/s/BvZ0niXtofDMjzUpHxjKig| 
-| 20200704 | CTF实战特训营实训真题 | https://zhuanlan.zhihu.com/p/148384035| 
-| 20200703 | Detect lateral movement with Azure Sentinel | https://zolder.io/2020/07/01/using-a-firewall-and-sentinel-to-detect-lateral-movement/?a=q| 
 
 
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20200707T01:51:11Z | CVE-2020-5902 | Automated script for F5 BIG-IP scanner (CVE-2020-5902) using hosts retrieved from Shodan API. | https://github.com/aqhmal/CVE-2020-5902-Scanner | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 00 MINUTES 17 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200707T01:48:01Z | CVE-2020-0796 | SMBGhost (CVE-2020-0796) and SMBleed (CVE-2020-1206) Scanner | https://github.com/ZecOps/SMBGhost-SMBleed-scanner | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 00 MINUTES 35 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200707T01:24:02Z | CVE-2020-5902 | CVE-2020-5902 BIG-IP | https://github.com/jas502n/CVE-2020-5902 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 00 MINUTES 18 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200707T01:19:39Z | CVE-2020-5902 | Null | https://github.com/sv3nbeast/CVE-2020-5902_RCE | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 00 MINUTES 25 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200707T00:57:00Z | cve-2020-5902 | cve-2020-5902 POC exploit | https://github.com/r0ttenbeef/cve-2020-5902 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 00 MINUTES 23 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200706T23:39:25Z | CVE-2020-5902 | Proof of concept for CVE-2020-5902 | https://github.com/yassineaboukir/CVE-2020-5902 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 00 MINUTES 19 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200706T23:37:59Z | CVE-2020-5902 | F5 Big-IP CVE-2020-5902 - LFI and RCE | https://github.com/dunderhay/CVE-2020-5902 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 00 MINUTES 22 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200706T20:01:49Z | CVE-2020-5902 | Python script to check CVE-2020-5902 (F5 BIG-IP devices). | https://github.com/0xAbdullah/CVE-2020-5902 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 00 MINUTES 34 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200706T19:07:34Z | CVE-2020-5902 | Patch F5 appliance CVE-2020-5902 | https://github.com/GoodiesHQ/F5-Patch | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 00 MINUTES 38 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200706T15:55:37Z | CVE-2020-5902 | CVE-2020-5902 | https://github.com/jinnywc/CVE-2020-5902 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 00 MINUTES 37 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200707T12:00:28Z | CVE-2020-5902 | Scan from a given list for F5 BIG-IP and check for CVE-2020-5902 | https://github.com/inho28/CVE-2020-5902-F5-BIGIP | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 58 MINUTES 32 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200707T11:51:05Z | CVE-2020-5902 | CVE-2020-5902 BIG-IP | https://github.com/jas502n/CVE-2020-5902 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 58 MINUTES 09 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200707T11:36:53Z | CVE-2020-5902 | Null | https://github.com/k3nundrum/CVE-2020-5902 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 58 MINUTES 30 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200707T10:59:48Z | CVE-2020-5902 | Proof of concept for CVE-2020-5902 | https://github.com/yassineaboukir/CVE-2020-5902 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 58 MINUTES 11 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200707T10:59:18Z | CVE-2020-5902 | Python script to check CVE-2020-5902 (F5 BIG-IP devices). | https://github.com/0xAbdullah/CVE-2020-5902 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 58 MINUTES 22 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200707T10:31:00Z | CVE-2020-5902 | F5 Big-IP CVE-2020-5902 - LFI and RCE | https://github.com/dunderhay/CVE-2020-5902 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 58 MINUTES 12 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200707T08:15:13Z | CVE-2020-0796 | SMBGhost (CVE-2020-0796) and SMBleed (CVE-2020-1206) Scanner | https://github.com/ZecOps/SMBGhost-SMBleed-scanner | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 58 MINUTES 24 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200707T07:23:29Z | CVE-2020-5902 | Automated script for F5 BIG-IP scanner (CVE-2020-5902) using hosts retrieved from Shodan API. | https://github.com/aqhmal/CVE-2020-5902-Scanner | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 58 MINUTES 08 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200707T06:54:17Z | CVE-2020-5902 | 批量扫描CVE-2020-5902，远程代码执行，已测试 | https://github.com/lijiaxing1997/CVE-2020-5902-POC-EXP | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 58 MINUTES 17 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200707T05:54:24Z | CVE-2020-5902 | Null | https://github.com/Any3ite/CVE-2020-5902-F5BIG | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 58 MINUTES 29 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 
 
 # klee on Github 推荐
@@ -76,7 +76,7 @@
 # s2e on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20200707T01:56:54Z | cicd logic and gitlab&github runner, centos base ,whith jdk/python/go, maven/npm,/kubectl/helm | https://github.com/chimeh/cicd-s2e-runner | 0 | 0| 
+| 20200707T10:37:16Z | cicd logic and gitlab&github runner, centos base ,whith jdk/python/go, maven/npm,/kubectl/helm | https://github.com/chimeh/cicd-s2e-runner | 0 | 0| 
 | 20200705T13:48:05Z | Q. Yao, H. Yang, B. Han, G. Niu, J. Kwok. Searching to Exploit Memorization Effect in Learning from Noisy Labels. International Conference on Machine Learning (ICML) 2020 | https://github.com/AutoML-4Paradigm/S2E | 1 | 0| 
 | 20200703T03:07:12Z | WIZnet Serial to Ethernet(S2E) module based on W7500 chip, WIZ107/108SR S2E compatible device | https://github.com/Wiznet/WIZ750SR | 12 | 12| 
 
@@ -84,16 +84,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20200707T01:58:01Z | Exploiting Inter- and Intadependencies in Industry Portfolios | https://github.com/ElwinKardux/Time-SeriesEfficientReturns | 1 | 0| 
-| 20200707T01:49:50Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 6667 | 1043| 
-| 20200707T01:46:25Z | Null | https://github.com/Kahvi-0/Vulnerabilities-and-Exploitations | 1 | 1| 
-| 20200707T01:16:08Z | RCE exploit for AVideo < 8.9 | https://github.com/ahussam/AVideo3xploit | 1 | 0| 
-| 20200707T01:01:11Z | Summarization of exploitation techniques and researches I learnt | https://github.com/dev4ndr3w/TIL | 1 | 0| 
-| 20200707T00:58:17Z | For CTF and hacking challenges | https://github.com/dev4ndr3w/writeups | 0 | 0| 
-| 20200707T00:57:00Z | cve-2020-5902 POC exploit | https://github.com/r0ttenbeef/cve-2020-5902 | 1 | 0| 
-| 20200707T00:47:28Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 2 | 1| 
-| 20200707T00:42:08Z | some CTF pwn bins and exploits | https://github.com/sh1ner/ctf_pwn_repo | 0 | 0| 
-| 20200707T00:18:07Z | A repository for learning various heap exploitation techniques. | https://github.com/shellphish/how2heap | 3799 | 806| 
+| 20200707T11:46:12Z | https://krunker.io/ edit exploit for hacking | https://github.com/ZaResX/KrunkerZares | 5 | 3| 
+| 20200707T11:38:51Z | TouDoum a python scanner for memcached, dns and ntp for make a DDOS exploit with udp protocol | https://github.com/msterhuj/TouDoum-DDoS-Exploit | 0 | 0| 
+| 20200707T11:37:38Z | Null | https://github.com/Ruia-ruia/Exploits | 0 | 0| 
+| 20200707T11:33:36Z | Pairwise residue distances prediction tool. Exploits deep learning algorithms to achieve the goal. | https://github.com/vam-sin/pcons4-distance | 0 | 0| 
+| 20200707T11:31:53Z | A container analysis and exploitation tool for pentesters and engineers. | https://github.com/brompwnie/botb | 298 | 27| 
+| 20200707T11:12:57Z | this bash script let you download scripts and clone repos for remote exploits | https://github.com/FabioDefilippo/linuxallremote | 0 | 0| 
+| 20200707T10:50:55Z | Collection of things made during my preparation to take on OSCE | https://github.com/Pal1Sec/Exploit-Development | 0 | 0| 
+| 20200707T10:10:54Z | linux post-exploitation | https://github.com/jm33-m0/emp3r0r | 23 | 5| 
+| 20200707T09:47:39Z | An app with really insecure crypto. To be used to see/test/exploit weak cryptographic implementations as well as to learn a little bit more about crypto, without the need to dive deep into the math behind it | https://github.com/DamnVulnerableCryptoApp/DamnVulnerableCryptoApp | 2 | 0| 
+| 20200707T09:46:36Z | exploiting zentao 8.8.2. AWAE Practice | https://github.com/h-a-c/zentao-exploitdev | 0 | 0| 
 
 
 # backdoor on Github 推荐
@@ -114,16 +114,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20200707T01:58:21Z | Null | https://github.com/danbsts/domato-fuzzing-tutorial | 0 | 0| 
-| 20200707T01:56:10Z | Null | https://github.com/renanreboredo/fuzzy-trader | 0 | 0| 
-| 20200707T01:49:04Z | VMI Kernel Fuzzer for Xen Project - VM forking, VMI & AFL integration demo | https://github.com/intel/kernel-fuzzer-for-xen-project | 142 | 22| 
-| 20200707T01:48:31Z | Pedal Multiefecto para guitarra electrica (LoopBack, Delay, Fuzz y Wah-wah) | https://github.com/jrosmirez94/Pedal-Multiefecto | 0 | 0| 
-| 20200707T01:34:13Z | AFLNet: A Greybox Fuzzer for Network Protocols (https://thuanpv.github.io/publications/AFLNet_ICST20.pdf) | https://github.com/aflnet/aflnet | 234 | 31| 
-| 20200707T00:59:56Z | all manner of wordlists | https://github.com/thelikes/fuzzmost | 1 | 4| 
-| 20200707T00:59:27Z | The Python3 Fuzzing Module | https://github.com/jangelesg/py3webfuzz | 0 | 0| 
-| 20200707T00:44:41Z | Null | https://github.com/fossegutten/FuzzyStoryEditor | 71 | 1| 
-| 20200707T00:09:15Z | Scalable fuzzing infrastructure. | https://github.com/google/clusterfuzz | 4252 | 377| 
-| 20200706T23:56:48Z | Null | https://github.com/MelanieS918/fuzzy-system | 0 | 0| 
+| 20200707T11:56:53Z | Practicing AI coontrollers with java | https://github.com/traskimonias/fuzzy-sets | 0 | 0| 
+| 20200707T11:49:23Z | Ptrace fuzzer experiments | https://github.com/marcinguy/fuzzer | 1 | 0| 
+| 20200707T10:53:21Z | The Official Fuzzy Britches Repository | https://github.com/ThePapaw/fuzzybritches | 3 | 0| 
+| 20200707T10:35:00Z | Null | https://github.com/s9varesc/url-fuzzing-docker | 0 | 0| 
+| 20200707T10:31:36Z | OSS-Fuzz - continuous fuzzing of open source software. | https://github.com/google/oss-fuzz | 5368 | 1032| 
+| 20200707T10:17:03Z | Null | https://github.com/s9varesc/url-fuzzing | 0 | 0| 
+| 20200707T10:15:00Z | Collection of quality safety articles | https://github.com/tom0li/collection-document | 1136 | 382| 
+| 20200707T10:14:43Z | Null | https://github.com/crismunoz/Fuzzy-Logic | 0 | 0| 
+| 20200707T10:13:47Z | An AMQP 0-9-1 tester that implements AMQP from scratch. Comes with 5 different test cases and the ability to easily fuzz with the protocol. | https://github.com/petcap/AMQPTester | 1 | 0| 
+| 20200707T10:06:18Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 3027 | 690| 
 
 
 
