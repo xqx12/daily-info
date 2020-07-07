@@ -29,14 +29,14 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20200706T23:39:25Z | CVE-2020-5902 | Proof of concept for CVE-2020-5902 | https://github.com/yassineaboukir/CVE-2020-5902 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 11 MINUTES 18 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200706T23:37:59Z | CVE-2020-5902 | F5 Big-IP CVE-2020-5902 - LFI and RCE | https://github.com/dunderhay/CVE-2020-5902 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 11 MINUTES 22 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200706T20:54:52Z | CVE-2020-5902 | Automated script for F5 BIG-IP scanner (CVE-2020-5902) using hosts retrieved from Shodan API. | https://github.com/aqhmal/CVE-2020-5902-Scanner | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 11 MINUTES 17 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200706T20:01:49Z | CVE-2020-5902 | Python script to check CVE-2020-5902 (F5 BIG-IP devices). | https://github.com/0xAbdullah/CVE-2020-5902 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 11 MINUTES 34 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200706T19:07:34Z | CVE-2020-5902 | Patch F5 appliance CVE-2020-5902 | https://github.com/GoodiesHQ/F5-Patch | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 10 MINUTES 38 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200706T23:39:25Z | CVE-2020-5902 | Proof of concept for CVE-2020-5902 | https://github.com/yassineaboukir/CVE-2020-5902 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 10 MINUTES 20 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200706T23:37:59Z | CVE-2020-5902 | F5 Big-IP CVE-2020-5902 - LFI and RCE | https://github.com/dunderhay/CVE-2020-5902 | | 
+| 20200706T20:54:52Z | CVE-2020-5902 | Automated script for F5 BIG-IP scanner (CVE-2020-5902) using hosts retrieved from Shodan API. | https://github.com/aqhmal/CVE-2020-5902-Scanner | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 10 MINUTES 17 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200706T20:01:49Z | CVE-2020-5902 | Python script to check CVE-2020-5902 (F5 BIG-IP devices). | https://github.com/0xAbdullah/CVE-2020-5902 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 10 MINUTES 34 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200706T19:07:34Z | CVE-2020-5902 | Patch F5 appliance CVE-2020-5902 | https://github.com/GoodiesHQ/F5-Patch | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 09 MINUTES 32 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20200706T15:55:37Z | CVE-2020-5902 | CVE-2020-5902 | https://github.com/jinnywc/CVE-2020-5902 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 10 MINUTES 37 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200706T14:02:21Z | cve-2020-1764 | Null | https://github.com/jpts/cve-2020-1764-poc | | 
-| 20200706T13:47:41Z | CVE-2020-5902 | Null | https://github.com/Zinkuth/F5-BIG-IP-CVE-2020-5902 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 11 MINUTES 33 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200706T14:02:21Z | cve-2020-1764 | Null | https://github.com/jpts/cve-2020-1764-poc | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 10 MINUTES 33 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200706T13:47:41Z | CVE-2020-5902 | Null | https://github.com/Zinkuth/F5-BIG-IP-CVE-2020-5902 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 10 MINUTES 32 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20200706T12:47:12Z | CVE-2020-5902 | Null | https://github.com/rwincey/CVE-2020-5902-NSE | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 00 MINUTES 31 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20200706T12:20:49Z | CVE-2020-5902 | Null | https://github.com/nsflabs/CVE-2020-5902 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 00 MINUTES 32 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 
@@ -60,11 +60,11 @@
 | 20200706T23:20:33Z | Instructions And Scripts To Setup Windows Malware, Exploit Testing Environment | https://github.com/ohjeongwook/WindowsTestingEnvironment | 3 | 1| 
 | 20200706T23:11:34Z | A spigot based plugin dedicated to fixing glitches and exploits that have made it into final Minecraft releases. | https://github.com/dniym/IllegalStack | 18 | 5| 
 | 20200706T22:04:16Z | This repository contains several POCs, demonstrating the exploitation of the disk cache in Linux and Windows. | https://github.com/ek95/Disk-Cache-Attacks | 0 | 0| 
-| 20200706T21:35:11Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 6666 | 1043| 
 | 20200706T21:24:41Z | Roblox exploit | https://github.com/Riky47/R47Sploit-v4 | 0 | 0| 
 | 20200706T21:01:23Z | A nuker for discord.py, designed to act as a regular bot. | https://github.com/Catterall/Stealth-Nuker | 0 | 1| 
 | 20200706T19:34:16Z | Null | https://github.com/nikosChalk/binary-exploitation | 0 | 0| 
 | 20200706T19:33:43Z | An attack/exploit Detector that utilizes Polymorphism and Diversity | https://github.com/polyverse/polytect | 0 | 1| 
+| 20200706T18:44:01Z | EternalBlue suite remade in C includes: MS17-010 Exploit, EternalBlue vulnerability detector, DoublePulsar detector and DoublePulsar UploadDLL. | https://github.com/bhassani/EternalBlueC | 2 | 0| 
 
 
 # backdoor on Github 推荐
@@ -83,7 +83,6 @@
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
 | 20200706T23:56:48Z | Null | https://github.com/MelanieS918/fuzzy-system | 0 | 0| 
-| 20200706T22:58:29Z | VMI Kernel Fuzzer for Xen Project - VM forking, VMI & AFL integration demo | https://github.com/intel/kernel-fuzzer-for-xen-project | 142 | 22| 
 | 20200706T22:50:04Z | Null | https://github.com/E4tHam/Verilog-BrainFuzz-Interpreter | 0 | 0| 
 | 20200706T22:27:06Z | Null | https://github.com/tamaker/fuzzysort-search-demo | 0 | 0| 
 | 20200706T22:09:18Z | Tests the efficiency of Fuzzy Logic AI against Finite State Machine AI (Developed in Processing Engine) | https://github.com/AmitAshar72/Fuzzy-Logic-and-Finite-State-Machine-race-car | 0 | 0| 
@@ -92,6 +91,7 @@
 | 20200706T20:54:56Z | Null | https://github.com/renanreboredo/fuzzy-trader | 0 | 0| 
 | 20200706T20:42:21Z | Null | https://github.com/Sambigeara/fuzzy-note | 1 | 0| 
 | 20200706T20:29:57Z | Repository holding database dumps from getfursu.it | https://github.com/veelkoov/fuzzrake-data | 0 | 0| 
+| 20200706T20:15:23Z | JQF + Zest: Coverage-guided semantic fuzzing for Java. | https://github.com/rohanpadhye/JQF | 247 | 34| 
 
 
 
