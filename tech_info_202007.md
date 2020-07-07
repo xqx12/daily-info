@@ -16,6 +16,7 @@
 | 20200707 | PlayStation 4 7.02 版本固件 setsockopt 结构体访问没有锁保护导致条件竞争漏洞 | https://hackerone.com/reports/826026| 
 | 20200707 | Patchless AMSI bypass using SharpBlock | https://www.pentestpartners.com/security-blog/patchless-amsi-bypass-using-sharpblock/| 
 | 20200707 | 有些 Android 恶意广告软件/库会将自己安装到系统分区防止被删除，来自卡巴斯基的分析 | https://sec.today/pulses/7b2d9a60-7683-4f32-a8da-4392bf36b7c7/| 
+| 20200707 | 有些 Android 恶意广告软件/库会将自己安装到系统分区防止被删除，来自卡巴斯基的分析 | https://securelist.com/pig-in-a-poke-smartphone-adware/97607/| 
 | 20200706 | 用于验证 F5 BIG-IP ADC 高危 RCE 漏洞（CVE-2020-5902）的脚本 | https://gist.github.com/ykoster/11148b1783b2205f9a4981b251e522a0| 
 | 20200706 | EXE到DLL的转换工具EXE_to_DLL发布 | https://www.kitploit.com/2020/07/exetodll-converts-exe-into-dll.html| 
 | 20200706 | Microsoft Access的UNC路径注入 | https://medium.com/@rvrsh3ll/introduction-1d327afaf22d| 
@@ -25,7 +26,6 @@
 | 20200706 | Mac下配置phpstorm+xdebug+docker(vmware虚拟机)进行断点调试 | https://cyto.top/2020/07/02/config-mac-phpstorm-xdebug-docker-vmware-ubuntu/| 
 | 20200706 | 借助文件描述符实现容器的逃逸 | https://labs.f-secure.com/blog/helping-root-out-of-the-container/| 
 | 20200706 | 网络取证调查：提取易失数据研究（手动命令模式） | https://www.hackingarticles.in/forensic-investiagtion-extract-volatile-data-manually/| 
-| 20200706 | 通过修补Android应用程序smali代码感染安全问题解决思路。 | https://www.orderofsixangles.com/ru/2020/07/04/Infecting-android-app-the-new-way.html| 
 
 
 # 安全维基 推荐
@@ -99,16 +99,16 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20200707T11:24:37Z | Null | https://github.com/oleggrief/Shell_Backdoor | 0 | 0| 
+| 20200707T10:25:51Z | A executable to show my class how easy it is to infect a mac with a back door | https://github.com/alx365/BackdoorExecutable | 0 | 0| 
+| 20200707T09:32:45Z | Null | https://github.com/evi1ox/MSSQL_BackDoor | 46 | 5| 
+| 20200707T09:32:14Z | backdoortft | https://github.com/shihaamabr/backdoortft-android | 1 | 1| 
+| 20200707T05:41:58Z | Undetectable & Xor encrypting with custom KEY (FUD Metasploit Rat) bypass Top Antivirus like BitDefender,Malwarebytes,Avast,ESET-NOD32,AVG,... & Automatically Add ICON and MANIFEST to excitable | https://github.com/persianhydra/Xeexe-TopAntivirusEvasion | 76 | 27| 
 | 20200707T00:35:55Z | Null | https://github.com/Kokos09/backdoorwithpython | 0 | 0| 
-| 20200706T17:23:49Z | Null | https://github.com/evi1ox/MSSQL_BackDoor | 39 | 5| 
 | 20200706T16:37:55Z | Python Backdoor Written on Top of AI for Windows using Telegram-bot, ZMQ, and Socket as Its Back-ends. | https://github.com/wildonion/katyusha | 0 | 0| 
-| 20200706T15:11:50Z | Undetectable & Xor encrypting with custom KEY (FUD Metasploit Rat) bypass Top Antivirus like BitDefender,Malwarebytes,Avast,ESET-NOD32,AVG,... & Automatically Add ICON and MANIFEST to excitable | https://github.com/persianhydra/Xeexe-TopAntivirusEvasion | 75 | 26| 
 | 20200706T12:24:39Z | This is a new release of FireBackDoor this release also can bypass windows defender | https://github.com/BPHacks/BPHacks-Backdoor-v2.0-Defender-Bypass | 0 | 0| 
 | 20200706T12:20:02Z | This is a new release of FireDoorPro this version can bypass Windows defender too. | https://github.com/BPHacks/Backdoor-v2.0-Defender-Bypass | 0 | 0| 
 | 20200706T09:19:41Z | Null | https://github.com/TDteach/backdoor | 0 | 0| 
-| 20200706T04:25:55Z | Null | https://github.com/swagkarna/FUD-Malware-dropper | 3 | 1| 
-| 20200705T16:34:06Z | Backdoor | https://github.com/fstreitzia/shinkakz | 0 | 0| 
-| 20200705T16:33:23Z | Private Backdoor | https://github.com/fstreitzia/Kill | 0 | 0| 
 
 
 # fuzz on Github 推荐
