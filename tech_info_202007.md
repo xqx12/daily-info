@@ -48,8 +48,8 @@
 | --- | --- | --- | --- | ---| 
 | 20200707T23:57:00Z | CVE-2020-5902 | CVE-2020-5902 BIG-IP | https://github.com/jas502n/CVE-2020-5902 | 未查询到CVE信息| 
 | 20200707T23:49:31Z | CVE-2020-5902 | Proof of concept for CVE-2020-5902 | https://github.com/yassineaboukir/CVE-2020-5902 | 未查询到CVE信息| 
-| 20200707T22:22:40Z | CVE-2020-5902 | F5 Big-IP CVE-2020-5902 - LFI and RCE | https://github.com/dunderhay/CVE-2020-5902 | | 
-| 20200707T21:22:27Z | CVE-2020-0796 | SMBGhost (CVE-2020-0796) and SMBleed (CVE-2020-1206) Scanner | https://github.com/ZecOps/SMBGhost-SMBleed-scanner | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 34 MINUTES 49 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200707T22:22:40Z | CVE-2020-5902 | F5 Big-IP CVE-2020-5902 - LFI and RCE | https://github.com/dunderhay/CVE-2020-5902 | 未查询到CVE信息| 
+| 20200707T21:22:27Z | CVE-2020-0796 | SMBGhost (CVE-2020-0796) and SMBleed (CVE-2020-1206) Scanner | https://github.com/ZecOps/SMBGhost-SMBleed-scanner | 未查询到CVE信息| 
 | 20200707T20:19:05Z | CVE-2020-5902 | POC | https://github.com/ajdumanhug/CVE-2020-5902 | 未查询到CVE信息| 
 | 20200707T19:47:39Z | CVE-2020-5902 | Automated script for F5 BIG-IP scanner (CVE-2020-5902) using hosts retrieved from Shodan API. | https://github.com/aqhmal/CVE-2020-5902-Scanner | 未查询到CVE信息| 
 | 20200707T18:16:44Z | cve-2020- | Null | https://github.com/trump88/cve-2020-imind | 未查询到CVE信息| 
@@ -116,6 +116,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20200708T00:32:35Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 25718 | 12332| 
 | 20200708T00:18:23Z | rfuzz: coverage-directed fuzzing for RTL research platform | https://github.com/ekiwi/rfuzz | 22 | 2| 
 | 20200708T00:18:05Z | Furnace power control using Fuzzy Logic. GUI designed in JavaFX | https://github.com/Gefradus/FuzzyHeatControl | 0 | 0| 
 | 20200708T00:05:01Z | A Python3 module to assist in fuzzing web applications | https://github.com/jangelesg/py3webfuzz | 3 | 0| 
@@ -125,7 +126,6 @@
 | 20200707T21:36:04Z | A fuzzing management tools collection | https://github.com/MozillaSecurity/FuzzManager | 130 | 46| 
 | 20200707T21:28:41Z | OSS-Fuzz - continuous fuzzing of open source software. | https://github.com/google/oss-fuzz | 5369 | 1032| 
 | 20200707T21:17:35Z | Null | https://github.com/janursa/fuzzy | 0 | 0| 
-| 20200707T20:28:47Z | Null | https://github.com/timvanschie1/fuzzywuzzy-hans | 0 | 0| 
 
 
 
