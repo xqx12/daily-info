@@ -116,8 +116,8 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20200708T00:07:39Z | rfuzz: coverage-directed fuzzing for RTL research platform | https://github.com/ekiwi/rfuzz | 22 | 2| 
 | 20200708T00:05:01Z | A Python3 module to assist in fuzzing web applications | https://github.com/jangelesg/py3webfuzz | 3 | 0| 
-| 20200708T00:04:29Z | rfuzz: coverage-directed fuzzing for RTL research platform | https://github.com/ekiwi/rfuzz | 22 | 2| 
 | 20200707T23:58:45Z | A fuzzer framework built in Rust | https://github.com/microsoft/lain | 411 | 26| 
 | 20200707T23:48:12Z | Scalable fuzzing infrastructure. | https://github.com/google/clusterfuzz | 4252 | 377| 
 | 20200707T23:43:53Z | Furnace power control using Fuzzy Logic. GUI designed in JavaFX | https://github.com/Gefradus/FuzzyHeatControl | 0 | 0| 
