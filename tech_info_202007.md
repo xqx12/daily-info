@@ -116,6 +116,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20200708T01:53:16Z | A Python3 module to assist in fuzzing web applications | https://github.com/jangelesg/py3webfuzz | 3 | 0| 
 | 20200708T01:46:31Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 25719 | 12332| 
 | 20200708T01:42:00Z | OSS-Fuzz - continuous fuzzing of open source software. | https://github.com/google/oss-fuzz | 5369 | 1032| 
 | 20200708T01:23:12Z | Lightweight and versatile React components for implementing fuzzy search and filtering | https://github.com/wesm87/react-fuzzy-virtualized | 0 | 0| 
@@ -123,7 +124,6 @@
 | 20200708T01:09:45Z | rfuzz: coverage-directed fuzzing for RTL research platform | https://github.com/ekiwi/rfuzz | 22 | 2| 
 | 20200708T01:08:17Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 3027 | 690| 
 | 20200708T00:18:05Z | Furnace power control using Fuzzy Logic. GUI designed in JavaFX | https://github.com/Gefradus/FuzzyHeatControl | 0 | 0| 
-| 20200708T00:05:01Z | A Python3 module to assist in fuzzing web applications | https://github.com/jangelesg/py3webfuzz | 3 | 0| 
 | 20200707T23:58:45Z | A fuzzer framework built in Rust | https://github.com/microsoft/lain | 411 | 26| 
 | 20200707T23:48:12Z | Scalable fuzzing infrastructure. | https://github.com/google/clusterfuzz | 4252 | 377| 
 
