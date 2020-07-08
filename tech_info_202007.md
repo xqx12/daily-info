@@ -48,7 +48,7 @@
 | --- | --- | --- | --- | ---| 
 | 20200707T23:57:00Z | CVE-2020-5902 | CVE-2020-5902 BIG-IP | https://github.com/jas502n/CVE-2020-5902 | 未查询到CVE信息| 
 | 20200707T23:49:31Z | CVE-2020-5902 | Proof of concept for CVE-2020-5902 | https://github.com/yassineaboukir/CVE-2020-5902 | 未查询到CVE信息| 
-| 20200707T22:22:40Z | CVE-2020-5902 | F5 Big-IP CVE-2020-5902 - LFI and RCE | https://github.com/dunderhay/CVE-2020-5902 | 未查询到CVE信息| 
+| 20200707T22:22:40Z | CVE-2020-5902 | F5 Big-IP CVE-2020-5902 - LFI and RCE | https://github.com/dunderhay/CVE-2020-5902 | | 
 | 20200707T21:22:27Z | CVE-2020-0796 | SMBGhost (CVE-2020-0796) and SMBleed (CVE-2020-1206) Scanner | https://github.com/ZecOps/SMBGhost-SMBleed-scanner | 未查询到CVE信息| 
 | 20200707T20:19:05Z | CVE-2020-5902 | POC | https://github.com/ajdumanhug/CVE-2020-5902 | 未查询到CVE信息| 
 | 20200707T19:47:39Z | CVE-2020-5902 | Automated script for F5 BIG-IP scanner (CVE-2020-5902) using hosts retrieved from Shodan API. | https://github.com/aqhmal/CVE-2020-5902-Scanner | 未查询到CVE信息| 
@@ -76,8 +76,8 @@
 # s2e on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20200708T00:50:25Z | This is the main S2E repository. Visit https://s2e.systems/docs to get started. | https://github.com/S2E/s2e | 46 | 17| 
 | 20200707T22:24:13Z | Exporting data from salesforce in excel format | https://github.com/LuisTwilo/S2Exc | 0 | 0| 
-| 20200707T21:14:20Z | This is the main S2E repository. Visit https://s2e.systems/docs to get started. | https://github.com/S2E/s2e | 45 | 17| 
 | 20200707T10:37:16Z | cicd logic and gitlab&github runner, centos base ,whith jdk/python/go, maven/npm,/kubectl/helm | https://github.com/chimeh/cicd-s2e-runner | 0 | 0| 
 | 20200705T13:48:05Z | Q. Yao, H. Yang, B. Han, G. Niu, J. Kwok. Searching to Exploit Memorization Effect in Learning from Noisy Labels. International Conference on Machine Learning (ICML) 2020 | https://github.com/AutoML-4Paradigm/S2E | 1 | 0| 
 | 20200703T03:07:12Z | WIZnet Serial to Ethernet(S2E) module based on W7500 chip, WIZ107/108SR S2E compatible device | https://github.com/Wiznet/WIZ750SR | 12 | 12| 
@@ -86,6 +86,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20200708T00:47:27Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 2 | 1| 
 | 20200707T23:59:55Z | Release of Open Sources & its Released Method | https://github.com/SkieAdmin/Skycloud-Exploit | 2 | 1| 
 | 20200707T23:17:21Z | sar2html exploit that return a reverse shell | https://github.com/k1ngn4n0/sar2html_exploit | 0 | 0| 
 | 20200707T23:15:52Z | CTF framework and exploit development library | https://github.com/Gallopsled/pwntools | 6751 | 1260| 
@@ -95,7 +96,6 @@
 | 20200707T21:57:45Z | Analyses/Exploits Of The 0Day Vulnerabilities I Found On Various Softwares | https://github.com/Enesdex/0Days | 0 | 0| 
 | 20200707T21:13:07Z | Vulnerabilities, exploits, and PoCs | https://github.com/Accenture/AARO-Bugs | 2 | 0| 
 | 20200707T18:55:20Z | Exploits developed by me. And scripts I made and use for pentesting / getting bloods on HTB | https://github.com/OlivierLaflamme/Boschko_Exploits | 5 | 3| 
-| 20200707T18:47:27Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 2 | 1| 
 
 
 # backdoor on Github 推荐
@@ -116,7 +116,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20200708T00:42:23Z | FuzzBench - Fuzzer benchmarking as a service. | https://github.com/google/fuzzbench | 480 | 65| 
+| 20200708T00:46:23Z | FuzzBench - Fuzzer benchmarking as a service. | https://github.com/google/fuzzbench | 480 | 65| 
 | 20200708T00:32:35Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 25718 | 12332| 
 | 20200708T00:18:23Z | rfuzz: coverage-directed fuzzing for RTL research platform | https://github.com/ekiwi/rfuzz | 22 | 2| 
 | 20200708T00:18:05Z | Furnace power control using Fuzzy Logic. GUI designed in JavaFX | https://github.com/Gefradus/FuzzyHeatControl | 0 | 0| 

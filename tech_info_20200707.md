@@ -42,7 +42,7 @@
 | --- | --- | --- | --- | ---| 
 | 20200707T23:57:00Z | CVE-2020-5902 | CVE-2020-5902 BIG-IP | https://github.com/jas502n/CVE-2020-5902 | 未查询到CVE信息| 
 | 20200707T23:49:31Z | CVE-2020-5902 | Proof of concept for CVE-2020-5902 | https://github.com/yassineaboukir/CVE-2020-5902 | 未查询到CVE信息| 
-| 20200707T22:22:40Z | CVE-2020-5902 | F5 Big-IP CVE-2020-5902 - LFI and RCE | https://github.com/dunderhay/CVE-2020-5902 | 未查询到CVE信息| 
+| 20200707T22:22:40Z | CVE-2020-5902 | F5 Big-IP CVE-2020-5902 - LFI and RCE | https://github.com/dunderhay/CVE-2020-5902 | | 
 | 20200707T21:22:27Z | CVE-2020-0796 | SMBGhost (CVE-2020-0796) and SMBleed (CVE-2020-1206) Scanner | https://github.com/ZecOps/SMBGhost-SMBleed-scanner | 未查询到CVE信息| 
 | 20200707T20:19:05Z | CVE-2020-5902 | POC | https://github.com/ajdumanhug/CVE-2020-5902 | 未查询到CVE信息| 
 | 20200707T19:47:39Z | CVE-2020-5902 | Automated script for F5 BIG-IP scanner (CVE-2020-5902) using hosts retrieved from Shodan API. | https://github.com/aqhmal/CVE-2020-5902-Scanner | 未查询到CVE信息| 
@@ -64,7 +64,6 @@
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
 | 20200707T22:24:13Z | Exporting data from salesforce in excel format | https://github.com/LuisTwilo/S2Exc | 0 | 0| 
-| 20200707T21:14:20Z | This is the main S2E repository. Visit https://s2e.systems/docs to get started. | https://github.com/S2E/s2e | 45 | 17| 
 | 20200707T10:37:16Z | cicd logic and gitlab&github runner, centos base ,whith jdk/python/go, maven/npm,/kubectl/helm | https://github.com/chimeh/cicd-s2e-runner | 0 | 0| 
 
 
@@ -80,7 +79,7 @@
 | 20200707T21:57:45Z | Analyses/Exploits Of The 0Day Vulnerabilities I Found On Various Softwares | https://github.com/Enesdex/0Days | 0 | 0| 
 | 20200707T21:13:07Z | Vulnerabilities, exploits, and PoCs | https://github.com/Accenture/AARO-Bugs | 2 | 0| 
 | 20200707T18:55:20Z | Exploits developed by me. And scripts I made and use for pentesting / getting bloods on HTB | https://github.com/OlivierLaflamme/Boschko_Exploits | 5 | 3| 
-| 20200707T18:47:27Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 2 | 1| 
+| 20200707T18:21:31Z | Free Roblox Exploits | https://github.com/SILENTXPLOITS/SILENTSploits | 0 | 0| 
 
 
 # backdoor on Github 推荐
