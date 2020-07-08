@@ -55,7 +55,7 @@
 | 20200707T18:16:44Z | cve-2020- | Null | https://github.com/trump88/cve-2020-imind | 未查询到CVE信息| 
 | 20200707T17:33:24Z | CVE-2020-5902 | F5 BIG-IP Scanner (CVE-2020-5902) | https://github.com/jiansiting/CVE-2020-5902 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 29 MINUTES 11 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20200707T15:32:12Z | CVE-2020-5902 | F5 mass scanner and  CVE-2020-5902 checker | https://github.com/cristiano-corrado/f5_scanner | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 29 MINUTES 19 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200707T13:20:47Z | CVE-2020-5902 | Fix CVE-2020-5902 | https://github.com/wdlid/CVE-2020-5902-fix | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 29 MINUTES 12 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200707T13:20:47Z | CVE-2020-5902 | Fix CVE-2020-5902 | https://github.com/wdlid/CVE-2020-5902-fix | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 29 MINUTES 06 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 
 
 # klee on Github 推荐
@@ -116,16 +116,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20200708T01:01:01Z | rfuzz: coverage-directed fuzzing for RTL research platform | https://github.com/ekiwi/rfuzz | 22 | 2| 
-| 20200708T00:46:23Z | FuzzBench - Fuzzer benchmarking as a service. | https://github.com/google/fuzzbench | 480 | 65| 
+| 20200708T01:23:12Z | Lightweight and versatile React components for implementing fuzzy search and filtering | https://github.com/wesm87/react-fuzzy-virtualized | 0 | 0| 
+| 20200708T01:13:47Z | FuzzBench - Fuzzer benchmarking as a service. | https://github.com/google/fuzzbench | 479 | 65| 
+| 20200708T01:09:45Z | rfuzz: coverage-directed fuzzing for RTL research platform | https://github.com/ekiwi/rfuzz | 22 | 2| 
+| 20200708T01:08:17Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 3027 | 690| 
 | 20200708T00:32:35Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 25718 | 12332| 
 | 20200708T00:18:05Z | Furnace power control using Fuzzy Logic. GUI designed in JavaFX | https://github.com/Gefradus/FuzzyHeatControl | 0 | 0| 
 | 20200708T00:05:01Z | A Python3 module to assist in fuzzing web applications | https://github.com/jangelesg/py3webfuzz | 3 | 0| 
 | 20200707T23:58:45Z | A fuzzer framework built in Rust | https://github.com/microsoft/lain | 411 | 26| 
 | 20200707T23:48:12Z | Scalable fuzzing infrastructure. | https://github.com/google/clusterfuzz | 4252 | 377| 
 | 20200707T23:28:23Z | Calculating age via import datetime module of Python | https://github.com/bariscakir83/fuzzy-octo | 0 | 0| 
-| 20200707T21:36:04Z | A fuzzing management tools collection | https://github.com/MozillaSecurity/FuzzManager | 130 | 46| 
-| 20200707T21:28:41Z | OSS-Fuzz - continuous fuzzing of open source software. | https://github.com/google/oss-fuzz | 5369 | 1032| 
 
 
 
