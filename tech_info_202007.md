@@ -49,8 +49,8 @@
 | 20200708T11:57:37Z | CVE-2020-5902 | It is  a small script to fetch out the  subdomains/ip vulnerable to CVE-2020-5902 written in bash | https://github.com/GovindPalakkal/EvilRip | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 58 MINUTES 28 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20200708T11:50:24Z | CVE-2020-5902 | CVE-2020-5902 BIG-IP | https://github.com/jas502n/CVE-2020-5902 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 58 MINUTES 11 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20200708T10:52:37Z | CVE-2020-5902 | F5 BIG-IP 任意文件读取+远程命令执行RCE | https://github.com/zhzyker/CVE-2020-5902 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 58 MINUTES 26 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200708T10:45:37Z | CVE-2020-5902 | Exphub[漏洞利用脚本库] 包括Webloigc、Struts2、Tomcat、Nexus、Solr、Jboss、Drupal的漏洞利用脚本，最新添加CVE-2020-5902、CVE-2020-11444、CVE-2020-10204、CVE-2020-10199、CVE-2020-1938、CVE-2020-2551、CVE-2020-2555、CVE-2020-2883、CVE-2019-17558、CVE-2019-6340 | https://github.com/zhzyker/exphub | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 58 MINUTES 53 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200708T10:15:15Z | CVE-2020-0796 | SMBGhost (CVE-2020-0796) Automate Exploitation and Detection | https://github.com/Barriuso/SMBGhost_AutomateExploitation | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 58 MINUTES 55 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200708T10:45:37Z | CVE-2020-5902 | Exphub[漏洞利用脚本库] 包括Webloigc、Struts2、Tomcat、Nexus、Solr、Jboss、Drupal的漏洞利用脚本，最新添加CVE-2020-5902、CVE-2020-11444、CVE-2020-10204、CVE-2020-10199、CVE-2020-1938、CVE-2020-2551、CVE-2020-2555、CVE-2020-2883、CVE-2019-17558、CVE-2019-6340 | https://github.com/zhzyker/exphub | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 58 MINUTES 07 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200708T10:15:15Z | CVE-2020-0796 | SMBGhost (CVE-2020-0796) Automate Exploitation and Detection | https://github.com/Barriuso/SMBGhost_AutomateExploitation | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 58 MINUTES 08 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20200708T09:45:43Z | CVE-2020-5902 | Automated script for F5 BIG-IP scanner (CVE-2020-5902) using hosts retrieved from Shodan API. | https://github.com/aqhmal/CVE-2020-5902-Scanner | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 58 MINUTES 10 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20200708T06:46:15Z | CVE-2020-5902 | F5 mass scanner and  CVE-2020-5902 checker | https://github.com/cristiano-corrado/f5_scanner | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 58 MINUTES 24 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20200708T06:33:22Z | CVE-2020-5902 | CVE-2020-5902 | https://github.com/tom0li/CVE-2020-5902 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 58 MINUTES 14 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
@@ -101,16 +101,16 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20200708T01:30:12Z | Null | https://github.com/enomarozi/BackdoorCTF_Writeup | 0 | 0| 
-| 20200708T01:24:17Z | Null | https://github.com/evi1ox/MSSQL_BackDoor | 53 | 5| 
-| 20200707T20:20:26Z | Hacking tools pack & backdoors generator. | https://github.com/AdrMXR/KitHack | 65 | 21| 
+| 20200708T12:01:45Z | Null | https://github.com/enomarozi/BackdoorCTF_Writeup | 0 | 0| 
+| 20200708T10:05:40Z | Hacking tools pack & backdoors generator. | https://github.com/AdrMXR/KitHack | 66 | 21| 
+| 20200708T09:36:08Z | Undetectable & Xor encrypting with custom KEY (FUD Metasploit Rat) bypass Top Antivirus like BitDefender,Malwarebytes,Avast,ESET-NOD32,AVG,... & Automatically Add ICON and MANIFEST to excitable | https://github.com/persianhydra/Xeexe-TopAntivirusEvasion | 77 | 28| 
+| 20200708T09:25:12Z | Mouse Framework is an iOS and macOS post-exploitation framework that gives you a command line session with extra functionality between you and a target machine using only a simple Mouse payload. Mouse gives you the power and convenience of uploading and downloading files, tab completion, taking pictures, location tracking, shell command execution, escalating privileges, password retrieval, and much more. | https://github.com/entynetproject/mouse | 167 | 63| 
+| 20200708T07:27:21Z | A curated list of awesome backdoor learning research | https://github.com/THUYimingLi/awesome-backdoor-learning | 6 | 0| 
+| 20200708T04:46:24Z | Null | https://github.com/evi1ox/MSSQL_BackDoor | 56 | 5| 
 | 20200707T17:17:50Z | Repository for all the code related to Learn Python & Ethical Hacking From Scratch course. All the work is done on Kali Linux, using both Python 2.7 and 3.x version. | https://github.com/Maffey/ethical-hacking-course | 0 | 0| 
 | 20200707T16:57:08Z | Simple interactive remote shell exploiting a known backdoor on a web server | https://github.com/snix0/LFIsh | 0 | 0| 
 | 20200707T14:08:44Z | Null | https://github.com/Bradley-Hubbard/Linux-Backdoor | 0 | 0| 
 | 20200707T11:24:37Z | Null | https://github.com/oleggrief/Shell_Backdoor | 0 | 0| 
-| 20200707T10:25:51Z | A executable to show my class how easy it is to infect a mac with a back door | https://github.com/alx365/BackdoorExecutable | 0 | 0| 
-| 20200707T09:32:14Z | backdoortft | https://github.com/shihaamabr/backdoortft-android | 1 | 1| 
-| 20200707T05:41:58Z | Undetectable & Xor encrypting with custom KEY (FUD Metasploit Rat) bypass Top Antivirus like BitDefender,Malwarebytes,Avast,ESET-NOD32,AVG,... & Automatically Add ICON and MANIFEST to excitable | https://github.com/persianhydra/Xeexe-TopAntivirusEvasion | 76 | 27| 
 
 
 # fuzz on Github 推荐
