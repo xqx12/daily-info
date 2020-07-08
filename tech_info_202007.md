@@ -22,10 +22,10 @@
 | 20200707 | 通过BLS12-381进行配对的密码学介绍，第1部分：字段。 | https://research.nccgroup.com/2020/07/06/pairing-over-bls12-381-part-1-fields/| 
 | 20200707 | 如何利用Genesis框架、Metasploit和Docker构建跨平台的Dropper | https://khast3x.club/posts/2020-06-27-Cross-Platform-Dropper/| 
 | 20200707 | Microsoft为Linux提供了免费内存取证和Rootkit检测服务 | https://www.helpmegeek.com/microsoft-free-memory-forensics-and-rootkit-detection-linux/| 
+| 20200707 | 配置Windows域以动态分析混淆的横向移动工具 | https://www.fireeye.com/blog/threat-research/2020/07/configuring-windows-domain-dynamically-analyze-obfuscated-lateral-movement-tool.html| 
+| 20200707 | 针对AWS的渗透工具CloudGoat2.0 | https://rhinosecuritylabs.com/aws/introducing-cloudgoat-2/| 
 | 20200706 | 用于验证 F5 BIG-IP ADC 高危 RCE 漏洞（CVE-2020-5902）的脚本 | https://gist.github.com/ykoster/11148b1783b2205f9a4981b251e522a0| 
 | 20200706 | EXE到DLL的转换工具EXE_to_DLL发布 | https://www.kitploit.com/2020/07/exetodll-converts-exe-into-dll.html| 
-| 20200706 | Microsoft Access的UNC路径注入 | https://medium.com/@rvrsh3ll/introduction-1d327afaf22d| 
-| 20200706 | 用于在网络上收集，抓取和监视洋葱站点的扩展工具 | https://github.com/danieleperera/OnionIngestor| 
 
 
 # 安全维基 推荐
@@ -46,16 +46,16 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20200708T01:47:47Z | CVE-2020-5902 | CVE-2020-5902 BIG-IP | https://github.com/jas502n/CVE-2020-5902 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 09 MINUTES 17 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200708T01:33:09Z | CVE-2020-0796 | SMBGhost (CVE-2020-0796) and SMBleed (CVE-2020-1206) Scanner | https://github.com/ZecOps/SMBGhost-SMBleed-scanner | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 10 MINUTES 16 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200708T01:30:05Z | CVE-2020-0796 | SMBGhost (CVE-2020-0796) Automate Exploitation and Detection | https://github.com/Barriuso/SMBGhost_AutomateExploitation | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 09 MINUTES 08 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200707T23:49:31Z | CVE-2020-5902 | Proof of concept for CVE-2020-5902 | https://github.com/yassineaboukir/CVE-2020-5902 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 09 MINUTES 24 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200707T22:22:40Z | CVE-2020-5902 | F5 Big-IP CVE-2020-5902 - LFI and RCE | https://github.com/dunderhay/CVE-2020-5902 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 09 MINUTES 27 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200707T20:19:05Z | CVE-2020-5902 | POC | https://github.com/ajdumanhug/CVE-2020-5902 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 11 MINUTES 16 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200707T19:47:39Z | CVE-2020-5902 | Automated script for F5 BIG-IP scanner (CVE-2020-5902) using hosts retrieved from Shodan API. | https://github.com/aqhmal/CVE-2020-5902-Scanner | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 09 MINUTES 14 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200708T01:47:47Z | CVE-2020-5902 | CVE-2020-5902 BIG-IP | https://github.com/jas502n/CVE-2020-5902 | 未查询到CVE信息| 
+| 20200708T01:33:09Z | CVE-2020-0796 | SMBGhost (CVE-2020-0796) and SMBleed (CVE-2020-1206) Scanner | https://github.com/ZecOps/SMBGhost-SMBleed-scanner | 未查询到CVE信息| 
+| 20200708T01:30:05Z | CVE-2020-0796 | SMBGhost (CVE-2020-0796) Automate Exploitation and Detection | https://github.com/Barriuso/SMBGhost_AutomateExploitation | 未查询到CVE信息| 
+| 20200707T23:49:31Z | CVE-2020-5902 | Proof of concept for CVE-2020-5902 | https://github.com/yassineaboukir/CVE-2020-5902 | 未查询到CVE信息| 
+| 20200707T22:22:40Z | CVE-2020-5902 | F5 Big-IP CVE-2020-5902 - LFI and RCE | https://github.com/dunderhay/CVE-2020-5902 | 未查询到CVE信息| 
+| 20200707T20:19:05Z | CVE-2020-5902 | POC | https://github.com/ajdumanhug/CVE-2020-5902 | | 
+| 20200707T19:47:39Z | CVE-2020-5902 | Automated script for F5 BIG-IP scanner (CVE-2020-5902) using hosts retrieved from Shodan API. | https://github.com/aqhmal/CVE-2020-5902-Scanner | 未查询到CVE信息| 
 | 20200707T18:16:44Z | cve-2020- | Null | https://github.com/trump88/cve-2020-imind | 未查询到CVE信息| 
-| 20200707T17:33:24Z | CVE-2020-5902 | F5 BIG-IP Scanner (CVE-2020-5902) | https://github.com/jiansiting/CVE-2020-5902 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 10 MINUTES 48 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200707T15:32:12Z | CVE-2020-5902 | F5 mass scanner and  CVE-2020-5902 checker | https://github.com/cristiano-corrado/f5_scanner | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 11 MINUTES 13 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200707T17:33:24Z | CVE-2020-5902 | F5 BIG-IP Scanner (CVE-2020-5902) | https://github.com/jiansiting/CVE-2020-5902 | 未查询到CVE信息| 
+| 20200707T15:32:12Z | CVE-2020-5902 | F5 mass scanner and  CVE-2020-5902 checker | https://github.com/cristiano-corrado/f5_scanner | 未查询到CVE信息| 
 
 
 # klee on Github 推荐
