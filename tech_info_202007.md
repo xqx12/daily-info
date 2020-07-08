@@ -116,6 +116,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20200708T00:42:23Z | FuzzBench - Fuzzer benchmarking as a service. | https://github.com/google/fuzzbench | 480 | 65| 
 | 20200708T00:32:35Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 25718 | 12332| 
 | 20200708T00:18:23Z | rfuzz: coverage-directed fuzzing for RTL research platform | https://github.com/ekiwi/rfuzz | 22 | 2| 
 | 20200708T00:18:05Z | Furnace power control using Fuzzy Logic. GUI designed in JavaFX | https://github.com/Gefradus/FuzzyHeatControl | 0 | 0| 
@@ -125,7 +126,6 @@
 | 20200707T23:28:23Z | Calculating age via import datetime module of Python | https://github.com/bariscakir83/fuzzy-octo | 0 | 0| 
 | 20200707T21:36:04Z | A fuzzing management tools collection | https://github.com/MozillaSecurity/FuzzManager | 130 | 46| 
 | 20200707T21:28:41Z | OSS-Fuzz - continuous fuzzing of open source software. | https://github.com/google/oss-fuzz | 5369 | 1032| 
-| 20200707T21:17:35Z | Null | https://github.com/janursa/fuzzy | 0 | 0| 
 
 
 
