@@ -86,6 +86,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20200709T00:24:55Z | The Browser Exploitation Framework Project | https://github.com/beefproject/beef | 5124 | 1230| 
 | 20200708T23:40:22Z | Code for exploit for CVE-2020-12717 | https://github.com/wabzqem/covidsafe-CVE-2020-12717-exploit | 1 | 3| 
 | 20200708T23:39:57Z | A thorough library database to assist with binary exploitation tasks. | https://github.com/0xb0bb/karkinos | 158 | 13| 
 | 20200708T23:11:41Z | Null | https://github.com/MBThreatIntel/ExploitKits | 2 | 1| 
@@ -95,7 +96,6 @@
 | 20200708T22:23:02Z | CyberQueens lesson materials - learning resources and exercises for aspiring reverse engineers, exploit developers, and hackers 👩‍💻👨‍💻 | https://github.com/CyberQueens/CyberQueens | 16 | 6| 
 | 20200708T22:22:22Z | Learnings and custom code-template written for different algorithms such as Q-Learning, Deep-Q Learning, exploration and exploitation. | https://github.com/Ahanmr/Reinforcement-Learning | 0 | 0| 
 | 20200708T22:04:38Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 6672 | 1044| 
-| 20200708T21:39:19Z | Collection of things made during my preparation to take on OSCE | https://github.com/Pal1Sec/Exploit-Development | 0 | 0| 
 
 
 # backdoor on Github 推荐
