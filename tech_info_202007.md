@@ -52,7 +52,7 @@
 | 20200708T21:44:19Z | CVE-2020-5902 | Proof of Concept for CVE-2020-5902 | https://github.com/Un4gi/CVE-2020-5902 | 未查询到CVE信息| 
 | 20200708T19:15:12Z | CVE-2020-0796 | SMBGhost (CVE-2020-0796) Automate Exploitation and Detection | https://github.com/Barriuso/SMBGhost_AutomateExploitation | 未查询到CVE信息| 
 | 20200708T17:44:47Z | CVE-2020-15051 | CVE-2020-15051 : Artica Proxy before 4.30.000000 Community Edition allows Stored Cross Site Scripting. | https://github.com/pratikshad19/CVE-2020-15051 | 未查询到CVE信息| 
-| 20200708T16:39:57Z | CVE-2020-5902 | Null | https://github.com/dnerzker/CVE-2020-5902 | | 
+| 20200708T16:39:57Z | CVE-2020-5902 | Null | https://github.com/dnerzker/CVE-2020-5902 | 未查询到CVE信息| 
 | 20200708T16:14:58Z | CVE-2020-5902 | Exphub[漏洞利用脚本库] 包括Webloigc、Struts2、Tomcat、Nexus、Solr、Jboss、Drupal的漏洞利用脚本，最新添加CVE-2020-5902、CVE-2020-11444、CVE-2020-10204、CVE-2020-10199、CVE-2020-1938、CVE-2020-2551、CVE-2020-2555、CVE-2020-2883、CVE-2019-17558、CVE-2019-6340 | https://github.com/zhzyker/exphub | 未查询到CVE信息| 
 | 20200708T14:03:16Z | CVE-2020-5902 | 批量扫描CVE-2020-5902，远程代码执行，已测试 | https://github.com/lijiaxing1997/CVE-2020-5902-POC-EXP | 未查询到CVE信息| 
 | 20200708T13:06:25Z | CVE-2020-5902 | Null | https://github.com/k3nundrum/CVE-2020-5902 | 未查询到CVE信息| 
