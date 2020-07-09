@@ -16,16 +16,16 @@
 | 20200708 | 使用Rust开发安全应用程序的编程规则手册。 | https://www.ssi.gouv.fr/en/guide/programming-rules-to-develop-secure-applications-with-rust/| 
 | 20200708 | 如何使用PowerShell在Hyper-V (VM)中管理任务检查点工作。 | https://www.thomasmaurer.ch/2020/07/how-to-manage-hyper-v-vm-checkpoints-with-powershell/| 
 | 20200708 | 绕过越狱iOS设备检测-DVIAv2第2部分. | https://philkeeble.com/ios/reverse-engineering/iOS-Bypass-Jailbreak/| 
+| 20200708 | Pwn入门！ CTF中的hash碰撞题目write-up | https://hg8.sh/posts/pwnable/collision/| 
+| 20200708 | 微软推出一种基于虚拟化安全的内核数据保护（KDP）的新技术 | https://www.microsoft.com/security/blog/2020/07/08/introducing-kernel-data-protection-a-new-platform-security-technology-for-preventing-data-corruption/| 
+| 20200708 | 微软推出免费的Linux内存取证工具来检测恶意软件 | https://www.hackread.com/microsoft-free-linux-memory-forensics-tool-malware/| 
+| 20200708 | 如何利用Unicode字符进行SQL注入 | https://medium.com/bugbountywriteup/sql-injection-using-unicode-characters-8d360ead379c?source=rss----7b722bfd1b8d---4| 
 | 20200707 | BinaryAI 的相关技术 Paper：《Order Matters: Semantic-Aware Neural Networks for Binary Code Similarity Detection》 | https://keenlab.tencent.com/en/whitepapers/Ordermatters.pdf| 
 | 20200707 | 腾讯科恩实验室开源的基于神经网络的二进制的代码相似度检测工具 | https://github.com/binaryai/sdk| 
 | 20200707 | 微软公开了一项服务 - Project Freta，用于在内存快照中检测恶意软件 | https://www.microsoft.com/en-us/research/blog/toward-trusted-sensing-for-the-cloud-introducing-project-freta/| 
 | 20200707 | CVE-2020-5902 BIG-IP RCE 漏洞目录枚举、文件读、RCE 攻击代码 | https://github.com/jas502n/CVE-2020-5902| 
 | 20200707 | Apache Guacamole Server RCE 漏洞分析 | https://research.checkpoint.com/2020/apache-guacamole-rce/| 
 | 20200707 | 在 Windows 内核中运行 Lua Coroutines | https://github.com/can1357/NtLua| 
-| 20200707 | OneDrive 启动式会尝试从 C:\Qt 加载 DLL，因此存在 DLL 劫持问题 | https://labs.redyops.com/index.php/2020/04/27/onedrive-privilege-of-escalation/| 
-| 20200707 | PlayStation 4 7.02 版本固件 setsockopt 结构体访问没有锁保护导致条件竞争漏洞 | https://hackerone.com/reports/826026| 
-| 20200707 | Patchless AMSI bypass using SharpBlock | https://www.pentestpartners.com/security-blog/patchless-amsi-bypass-using-sharpblock/| 
-| 20200707 | 有些 Android 恶意广告软件/库会将自己安装到系统分区防止被删除，来自卡巴斯基的分析 | https://sec.today/pulses/7b2d9a60-7683-4f32-a8da-4392bf36b7c7/| 
 
 
 # 安全维基 推荐
@@ -46,16 +46,16 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20200709T01:45:56Z | CVE-2020-5902 | Exphub[漏洞利用脚本库] 包括Webloigc、Struts2、Tomcat、Nexus、Solr、Jboss、Drupal的漏洞利用脚本，最新添加CVE-2020-5902、CVE-2020-11444、CVE-2020-10204、CVE-2020-10199、CVE-2020-1938、CVE-2020-2551、CVE-2020-2555、CVE-2020-2883、CVE-2019-17558、CVE-2019-6340 | https://github.com/zhzyker/exphub | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 06 MINUTES 05 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200709T01:38:09Z | CVE-2020-5902 | CVE-2020-5902 BIG-IP | https://github.com/jas502n/CVE-2020-5902 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 06 MINUTES 10 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200708T23:40:22Z | CVE-2020-12717 | Code for exploit for CVE-2020-12717 | https://github.com/wabzqem/covidsafe-CVE-2020-12717-exploit | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 06 MINUTES 06 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200709T01:45:56Z | CVE-2020-5902 | Exphub[漏洞利用脚本库] 包括Webloigc、Struts2、Tomcat、Nexus、Solr、Jboss、Drupal的漏洞利用脚本，最新添加CVE-2020-5902、CVE-2020-11444、CVE-2020-10204、CVE-2020-10199、CVE-2020-1938、CVE-2020-2551、CVE-2020-2555、CVE-2020-2883、CVE-2019-17558、CVE-2019-6340 | https://github.com/zhzyker/exphub | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 05 MINUTES 04 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200709T01:38:09Z | CVE-2020-5902 | CVE-2020-5902 BIG-IP | https://github.com/jas502n/CVE-2020-5902 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 05 MINUTES 09 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200708T23:40:22Z | CVE-2020-12717 | Code for exploit for CVE-2020-12717 | https://github.com/wabzqem/covidsafe-CVE-2020-12717-exploit | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 05 MINUTES 05 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20200708T21:56:58Z | CVE-2020-5902 | A powershell script to check vulnerability CVE-2020-5902 of ip list | https://github.com/c130rg/checkvulnCVE2020590 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 05 MINUTES 27 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200708T21:44:19Z | CVE-2020-5902 | Proof of Concept for CVE-2020-5902 | https://github.com/Un4gi/CVE-2020-5902 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 06 MINUTES 11 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200708T19:15:12Z | CVE-2020-0796 | SMBGhost (CVE-2020-0796) Automate Exploitation and Detection | https://github.com/Barriuso/SMBGhost_AutomateExploitation | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 06 MINUTES 07 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200708T17:44:47Z | CVE-2020-15051 | CVE-2020-15051 : Artica Proxy before 4.30.000000 Community Edition allows Stored Cross Site Scripting. | https://github.com/pratikshad19/CVE-2020-15051 | | 
+| 20200708T21:44:19Z | CVE-2020-5902 | Proof of Concept for CVE-2020-5902 | https://github.com/Un4gi/CVE-2020-5902 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 05 MINUTES 11 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200708T19:15:12Z | CVE-2020-0796 | SMBGhost (CVE-2020-0796) Automate Exploitation and Detection | https://github.com/Barriuso/SMBGhost_AutomateExploitation | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 05 MINUTES 06 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200708T17:44:47Z | CVE-2020-15051 | CVE-2020-15051 : Artica Proxy before 4.30.000000 Community Edition allows Stored Cross Site Scripting. | https://github.com/pratikshad19/CVE-2020-15051 | 未查询到CVE信息| 
 | 20200708T16:39:57Z | CVE-2020-5902 | Null | https://github.com/dnerzker/CVE-2020-5902 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 05 MINUTES 26 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200708T14:03:16Z | CVE-2020-5902 | 批量扫描CVE-2020-5902，远程代码执行，已测试 | https://github.com/lijiaxing1997/CVE-2020-5902-POC-EXP | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 06 MINUTES 14 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200708T13:06:25Z | CVE-2020-5902 | Null | https://github.com/k3nundrum/CVE-2020-5902 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 06 MINUTES 18 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200708T14:03:16Z | CVE-2020-5902 | 批量扫描CVE-2020-5902，远程代码执行，已测试 | https://github.com/lijiaxing1997/CVE-2020-5902-POC-EXP | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 05 MINUTES 13 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200708T13:06:25Z | CVE-2020-5902 | Null | https://github.com/k3nundrum/CVE-2020-5902 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 05 MINUTES 17 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 
 
 # klee on Github 推荐
@@ -86,7 +86,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20200709T01:41:36Z | Exploiting DLL Hijacking by DLL Proxying Super Easily | https://github.com/tothi/dll-hijack-by-proxying | 6 | 3| 
+| 20200709T01:41:36Z | Exploiting DLL Hijacking by DLL Proxying Super Easily | https://github.com/tothi/dll-hijack-by-proxying | 6 | 4| 
 | 20200709T01:33:22Z | A nuker for discord.py, designed to act as a regular bot. | https://github.com/Catterall/Stealth-Nuker | 0 | 1| 
 | 20200709T01:30:32Z | A thorough library database to assist with binary exploitation tasks. | https://github.com/0xb0bb/karkinos | 158 | 13| 
 | 20200709T01:22:19Z | A simple LFI and cookie exploitation challenge | https://github.com/marzshine/LFI-Easy-Hacking-Challenge | 1 | 0| 
