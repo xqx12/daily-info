@@ -46,14 +46,14 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20200708T23:40:22Z | CVE-2020-12717 | Code for exploit for CVE-2020-12717 | https://github.com/wabzqem/covidsafe-CVE-2020-12717-exploit | 未查询到CVE信息| 
-| 20200708T23:38:17Z | CVE-2020-5902 | CVE-2020-5902 BIG-IP | https://github.com/jas502n/CVE-2020-5902 | 未查询到CVE信息| 
-| 20200708T21:56:58Z | CVE-2020-5902 | A powershell script to check vulnerability CVE-2020-5902 of ip list | https://github.com/c130rg/checkvulnCVE2020590 | 未查询到CVE信息| 
-| 20200708T21:44:19Z | CVE-2020-5902 | Proof of Concept for CVE-2020-5902 | https://github.com/Un4gi/CVE-2020-5902 | | 
-| 20200708T19:15:12Z | CVE-2020-0796 | SMBGhost (CVE-2020-0796) Automate Exploitation and Detection | https://github.com/Barriuso/SMBGhost_AutomateExploitation | | 
+| 20200708T23:40:22Z | CVE-2020-12717 | Code for exploit for CVE-2020-12717 | https://github.com/wabzqem/covidsafe-CVE-2020-12717-exploit | | 
+| 20200708T23:38:17Z | CVE-2020-5902 | CVE-2020-5902 BIG-IP | https://github.com/jas502n/CVE-2020-5902 | | 
+| 20200708T21:56:58Z | CVE-2020-5902 | A powershell script to check vulnerability CVE-2020-5902 of ip list | https://github.com/c130rg/checkvulnCVE2020590 | | 
+| 20200708T21:44:19Z | CVE-2020-5902 | Proof of Concept for CVE-2020-5902 | https://github.com/Un4gi/CVE-2020-5902 | 未查询到CVE信息| 
+| 20200708T19:15:12Z | CVE-2020-0796 | SMBGhost (CVE-2020-0796) Automate Exploitation and Detection | https://github.com/Barriuso/SMBGhost_AutomateExploitation | 未查询到CVE信息| 
 | 20200708T17:44:47Z | CVE-2020-15051 | CVE-2020-15051 : Artica Proxy before 4.30.000000 Community Edition allows Stored Cross Site Scripting. | https://github.com/pratikshad19/CVE-2020-15051 | 未查询到CVE信息| 
-| 20200708T16:39:57Z | CVE-2020-5902 | Null | https://github.com/dnerzker/CVE-2020-5902 | 未查询到CVE信息| 
-| 20200708T16:14:58Z | CVE-2020-5902 | Exphub[漏洞利用脚本库] 包括Webloigc、Struts2、Tomcat、Nexus、Solr、Jboss、Drupal的漏洞利用脚本，最新添加CVE-2020-5902、CVE-2020-11444、CVE-2020-10204、CVE-2020-10199、CVE-2020-1938、CVE-2020-2551、CVE-2020-2555、CVE-2020-2883、CVE-2019-17558、CVE-2019-6340 | https://github.com/zhzyker/exphub | 未查询到CVE信息| 
+| 20200708T16:39:57Z | CVE-2020-5902 | Null | https://github.com/dnerzker/CVE-2020-5902 | | 
+| 20200708T16:14:58Z | CVE-2020-5902 | Exphub[漏洞利用脚本库] 包括Webloigc、Struts2、Tomcat、Nexus、Solr、Jboss、Drupal的漏洞利用脚本，最新添加CVE-2020-5902、CVE-2020-11444、CVE-2020-10204、CVE-2020-10199、CVE-2020-1938、CVE-2020-2551、CVE-2020-2555、CVE-2020-2883、CVE-2019-17558、CVE-2019-6340 | https://github.com/zhzyker/exphub | | 
 | 20200708T14:03:16Z | CVE-2020-5902 | 批量扫描CVE-2020-5902，远程代码执行，已测试 | https://github.com/lijiaxing1997/CVE-2020-5902-POC-EXP | 未查询到CVE信息| 
 | 20200708T13:06:25Z | CVE-2020-5902 | Null | https://github.com/k3nundrum/CVE-2020-5902 | 未查询到CVE信息| 
 
@@ -101,16 +101,16 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20200708T12:30:05Z | Null | https://github.com/enomarozi/BackdoorCTF_Writeup | 0 | 0| 
+| 20200708T23:42:17Z | Official Repository for the CVPR 2020 paper %Universal Litmus Patterns: Revealing Backdoor Attacks in CNNs% | https://github.com/UMBCvision/Universal-Litmus-Patterns | 7 | 0| 
+| 20200708T21:53:03Z | My dream language to make my dream cyberpunk os embedded to any kind of files as backdoor, this language can be interpreted or compiled to bytecode or elf executable using phpp interpreter | https://github.com/Cvar1984/dl | 0 | 0| 
+| 20200708T17:53:10Z | Null | https://github.com/pistacchietto/Win-Python-Backdoor | 3 | 2| 
+| 20200708T16:06:05Z | Undetectable & Xor encrypting with custom KEY (FUD Metasploit Rat) bypass Top Antivirus like BitDefender,Malwarebytes,Avast,ESET-NOD32,AVG,... & Automatically Add ICON and MANIFEST to excitable | https://github.com/persianhydra/Xeexe-TopAntivirusEvasion | 78 | 29| 
+| 20200708T15:58:55Z | Contact: Maximilian Bachl, Alexander Hartl. Explores defenses against backdoors and poisoning attacks for Intrusion Detection Systems. | https://github.com/CN-TU/ids-backdoor | 3 | 3| 
+| 20200708T15:35:36Z | Null | https://github.com/Xinghui-Wu/ASR_Backdoor | 0 | 0| 
+| 20200708T15:05:57Z | Null | https://github.com/wrongsid3/Cpp-Reverse-Shell-Backdoor | 1 | 0| 
+| 20200708T14:09:41Z | Null | https://github.com/enomarozi/BackdoorCTF_Writeup | 0 | 0| 
 | 20200708T12:20:46Z | Null | https://github.com/evi1ox/MSSQL_BackDoor | 57 | 5| 
 | 20200708T10:05:40Z | Hacking tools pack & backdoors generator. | https://github.com/AdrMXR/KitHack | 66 | 21| 
-| 20200708T09:36:08Z | Undetectable & Xor encrypting with custom KEY (FUD Metasploit Rat) bypass Top Antivirus like BitDefender,Malwarebytes,Avast,ESET-NOD32,AVG,... & Automatically Add ICON and MANIFEST to excitable | https://github.com/persianhydra/Xeexe-TopAntivirusEvasion | 77 | 28| 
-| 20200708T09:25:12Z | Mouse Framework is an iOS and macOS post-exploitation framework that gives you a command line session with extra functionality between you and a target machine using only a simple Mouse payload. Mouse gives you the power and convenience of uploading and downloading files, tab completion, taking pictures, location tracking, shell command execution, escalating privileges, password retrieval, and much more. | https://github.com/entynetproject/mouse | 167 | 63| 
-| 20200708T07:27:21Z | A curated list of awesome backdoor learning research | https://github.com/THUYimingLi/awesome-backdoor-learning | 6 | 0| 
-| 20200707T17:17:50Z | Repository for all the code related to Learn Python & Ethical Hacking From Scratch course. All the work is done on Kali Linux, using both Python 2.7 and 3.x version. | https://github.com/Maffey/ethical-hacking-course | 0 | 0| 
-| 20200707T16:57:08Z | Simple interactive remote shell exploiting a known backdoor on a web server | https://github.com/snix0/LFIsh | 0 | 0| 
-| 20200707T14:08:44Z | Null | https://github.com/Bradley-Hubbard/Linux-Backdoor | 0 | 0| 
-| 20200707T11:24:37Z | Null | https://github.com/oleggrief/Shell_Backdoor | 0 | 0| 
 
 
 # fuzz on Github 推荐
