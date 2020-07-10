@@ -23,15 +23,15 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20200710T12:43:22Z | CVE-2020-5902 | Exphub[漏洞利用脚本库] 包括Webloigc、Struts2、Tomcat、Nexus、Solr、Jboss、Drupal的漏洞利用脚本，最新添加CVE-2020-5902、CVE-2020-11444、CVE-2020-10204、CVE-2020-10199、CVE-2020-1938、CVE-2020-2551、CVE-2020-2555、CVE-2020-2883、CVE-2019-17558、CVE-2019-6340 | https://github.com/zhzyker/exphub | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 11 MINUTES 03 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200710T11:03:22Z | CVE-2020-5902 | Exploits for CVE-2020-5902 POC  | https://github.com/itsjeffersonli/CVE-2020-5902 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 10 MINUTES 22 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200710T10:39:51Z | CVE-2020-11519 | Technical Write-Up on and PoC Exploit for CVE-2020-11519 and CVE-2020-11520 | https://github.com/patois/winmagic_sd | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 11 MINUTES 09 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200710T09:57:42Z | CVE-2020-0796 | SMBGhost (CVE-2020-0796) Automate Exploitation and Detection | https://github.com/Barriuso/SMBGhost_AutomateExploitation | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 11 MINUTES 08 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200710T09:38:50Z | CVE-2020-5902 | F5 Big-IP CVE-2020-5902 mass exploiter/fuzzer. | https://github.com/d4rk007/F5-Big-IP-CVE-2020-5902-mass-exploiter | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 10 MINUTES 21 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200710T09:30:50Z | CVE-2020-11651 | PoC exploit of CVE-2020-11651 and CVE-2020-11652 | https://github.com/jasperla/CVE-2020-11651-poc | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 11 MINUTES 05 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200710T07:54:22Z | CVE-2020-5902 | 批量检测CVE-2020-5902 | https://github.com/qiong-qi/CVE-2020-5902-POC | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 10 MINUTES 26 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200710T07:27:30Z | CVE-2020-5902 | Checker CVE-2020-5902: BIG-IP versions 15.0.0 through 15.1.0.3, 14.1.0 through 14.1.2.5, 13.1.0 through 13.1.3.3, 12.1.0 through 12.1.5.1, and 11.6.1 through 11.6.5.1 suffer from Traffic Management User Interface (TMUI) arbitrary file read and command execution vulnerabilities. | https://github.com/MrCl0wnLab/checker-CVE-2020-5902 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 10 MINUTES 25 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200710T04:08:17Z | CVE-2020-5902 | Null | https://github.com/Shu1L/CVE-2020-5902-fofa-scan | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 10 MINUTES 20 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200710T12:43:22Z | CVE-2020-5902 | Exphub[漏洞利用脚本库] 包括Webloigc、Struts2、Tomcat、Nexus、Solr、Jboss、Drupal的漏洞利用脚本，最新添加CVE-2020-5902、CVE-2020-11444、CVE-2020-10204、CVE-2020-10199、CVE-2020-1938、CVE-2020-2551、CVE-2020-2555、CVE-2020-2883、CVE-2019-17558、CVE-2019-6340 | https://github.com/zhzyker/exphub | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 10 MINUTES 03 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200710T11:03:22Z | CVE-2020-5902 | Exploits for CVE-2020-5902 POC  | https://github.com/itsjeffersonli/CVE-2020-5902 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 09 MINUTES 22 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200710T10:39:51Z | CVE-2020-11519 | Technical Write-Up on and PoC Exploit for CVE-2020-11519 and CVE-2020-11520 | https://github.com/patois/winmagic_sd | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 10 MINUTES 07 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200710T09:57:42Z | CVE-2020-0796 | SMBGhost (CVE-2020-0796) Automate Exploitation and Detection | https://github.com/Barriuso/SMBGhost_AutomateExploitation | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 10 MINUTES 06 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200710T09:38:50Z | CVE-2020-5902 | F5 Big-IP CVE-2020-5902 mass exploiter/fuzzer. | https://github.com/d4rk007/F5-Big-IP-CVE-2020-5902-mass-exploiter | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 09 MINUTES 21 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200710T09:30:50Z | CVE-2020-11651 | PoC exploit of CVE-2020-11651 and CVE-2020-11652 | https://github.com/jasperla/CVE-2020-11651-poc | | 
+| 20200710T07:54:22Z | CVE-2020-5902 | 批量检测CVE-2020-5902 | https://github.com/qiong-qi/CVE-2020-5902-POC | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 09 MINUTES 26 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200710T07:27:30Z | CVE-2020-5902 | Checker CVE-2020-5902: BIG-IP versions 15.0.0 through 15.1.0.3, 14.1.0 through 14.1.2.5, 13.1.0 through 13.1.3.3, 12.1.0 through 12.1.5.1, and 11.6.1 through 11.6.5.1 suffer from Traffic Management User Interface (TMUI) arbitrary file read and command execution vulnerabilities. | https://github.com/MrCl0wnLab/checker-CVE-2020-5902 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 09 MINUTES 24 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200710T04:08:17Z | CVE-2020-5902 | Null | https://github.com/Shu1L/CVE-2020-5902-fofa-scan | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 09 MINUTES 19 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 
 
 # klee on Github 推荐
@@ -66,7 +66,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20200710T12:48:30Z | Mouse Framework is an iOS and macOS post-exploitation framework that gives you a command line session with extra functionality between you and a target machine using only a simple Mouse payload. Mouse gives you the power and convenience of uploading and downloading files, tab completion, taking pictures, location tracking, shell command execution, escalating privileges, password retrieval, and much more. | https://github.com/entynetproject/mouse | 168 | 64| 
+| 20200710T12:48:30Z | Mouse Framework is an iOS and macOS post-exploitation framework that gives you a command line session with extra functionality between you and a target machine using only a simple Mouse payload. Mouse gives you the power and convenience of uploading and downloading files, tab completion, taking pictures, location tracking, shell command execution, escalating privileges, password retrieval, and much more. | https://github.com/entynetproject/mouse | 168 | 63| 
 | 20200710T12:32:17Z | Null | https://github.com/Satcomx00-x00/CanisRufus-Backdoor | 0 | 0| 
 | 20200710T12:26:00Z | Contact: Maximilian Bachl, Alexander Hartl. Explores defenses against backdoors and poisoning attacks for Intrusion Detection Systems. | https://github.com/CN-TU/ids-backdoor | 3 | 3| 
 | 20200710T12:07:51Z | Hacking tools pack & backdoors generator. | https://github.com/AdrMXR/KitHack | 69 | 21| 
@@ -81,6 +81,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20200710T12:49:46Z | Null | https://github.com/Sambigeara/fuzzy-note | 1 | 0| 
 | 20200710T12:37:05Z | A ground-truth binary fuzzing benchmark suite based on real programs with real bugs. | https://github.com/HexHive/magma | 28 | 10| 
 | 20200710T12:29:01Z | String comparison using fuzzy-wuzzy python | https://github.com/pravi19/fuzzy-wuzzy | 0 | 0| 
 | 20200710T12:15:46Z | basic block analyzer for fuzzers | https://github.com/firefoxxpyang/basic_block_analyzer | 0 | 0| 
@@ -90,7 +91,6 @@
 | 20200710T09:46:44Z | OSS-Fuzz - continuous fuzzing of open source software. | https://github.com/google/oss-fuzz | 5381 | 1035| 
 | 20200710T09:38:50Z | F5 Big-IP CVE-2020-5902 mass exploiter/fuzzer. | https://github.com/d4rk007/F5-Big-IP-CVE-2020-5902-mass-exploiter | 0 | 0| 
 | 20200710T09:22:12Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 3031 | 690| 
-| 20200710T09:17:59Z | Fuzzy matching for `company-mode%. | https://github.com/jcs-elpa/company-fuzzy | 30 | 1| 
 
 
 
