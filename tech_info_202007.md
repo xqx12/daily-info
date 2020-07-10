@@ -46,16 +46,16 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20200709T23:08:46Z | CVE-2020-9376 | Exploits for CVE-2020-9376 and CVE-2020-9377 | https://github.com/renatoalencar/dlink-dir610-exploits | **分配时不受支持** D-Link DIR-610设备允许通过SERVICES = DEVICE.ACCOUNT％0AAUTHORIZED_GROUP = 1到getcfg.php进行信息披露。注意：此漏洞仅影响维护者不再支持的产品。| 
-| 20200709T22:43:41Z | CVE-2020-11519 | Technical Write-Up on and PoC Exploit for CVE-2020-11519 and CVE-2020-11520 | https://github.com/patois/winmagic_sd | WinMagic SecureDoc v8.5和更早版本的SDDisk2k.sys驱动程序允许本地用户通过\\。\ SecureDocDevice句柄读取或写入物理磁盘扇区。利用此漏洞将导致特权代码执行。| 
-| 20200709T21:43:17Z | CVE-2020-5902 | F5 Big-IP CVE-2020-5902 mass exploiter/fuzzer. | https://github.com/d4rk007/F5-Big-IP-CVE-2020-5902-mass-exploiter | 在BIG-IP版本15.0.0-15.1.0.3、14.1.0-14.1.2.5、13.1.0-13.1.3.3、12.1.0-12.1.5.1和11.6.1-11.6.5.1中，流量管理用户接口（TMUI），也称为“配置”实用程序，在未公开的页面中具有远程执行代码（RCE）漏洞。| 
-| 20200709T17:20:24Z | CVE-2020-0796 | SMBGhost (CVE-2020-0796) Automate Exploitation and Detection | https://github.com/Barriuso/SMBGhost_AutomateExploitation | Microsoft服务器消息块3.1.1（SMBv3）协议处理某些请求的方式中存在一个远程执行代码漏洞，也称为“ Windows SMBv3客户端/服务器远程执行代码漏洞”。| 
-| 20200709T16:15:21Z | CVE-2020-5902 | A powershell script to check vulnerability CVE-2020-5902 of ip list | https://github.com/c130rg/checkvulnCVE2020590 | 在BIG-IP版本15.0.0-15.1.0.3、14.1.0-14.1.2.5、13.1.0-13.1.3.3、12.1.0-12.1.5.1和11.6.1-11.6.5.1中，流量管理用户接口（TMUI），也称为“配置”实用程序，在未公开的页面中具有远程执行代码（RCE）漏洞。| 
-| 20200709T15:30:27Z | CVE-2020-5902 | Exphub[漏洞利用脚本库] 包括Webloigc、Struts2、Tomcat、Nexus、Solr、Jboss、Drupal的漏洞利用脚本，最新添加CVE-2020-5902、CVE-2020-11444、CVE-2020-10204、CVE-2020-10199、CVE-2020-1938、CVE-2020-2551、CVE-2020-2555、CVE-2020-2883、CVE-2019-17558、CVE-2019-6340 | https://github.com/zhzyker/exphub | 在BIG-IP版本15.0.0-15.1.0.3、14.1.0-14.1.2.5、13.1.0-13.1.3.3、12.1.0-12.1.5.1和11.6.1-11.6.5.1中，流量管理用户接口（TMUI），也称为“配置”实用程序，在未公开的页面中具有远程执行代码（RCE）漏洞。| 
-| 20200709T14:24:22Z | CVE-2020-5902 | Exploit for CVE-2020-5902 POC (bash version) | https://github.com/itsjeffersonli/CVE-2020-5902 | 在BIG-IP版本15.0.0-15.1.0.3、14.1.0-14.1.2.5、13.1.0-13.1.3.3、12.1.0-12.1.5.1和11.6.1-11.6.5.1中，流量管理用户接口（TMUI），也称为“配置”实用程序，在未公开的页面中具有远程执行代码（RCE）漏洞。| 
+| 20200709T23:08:46Z | CVE-2020-9376 | Exploits for CVE-2020-9376 and CVE-2020-9377 | https://github.com/renatoalencar/dlink-dir610-exploits | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 56 MINUTES 21 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200709T22:43:41Z | CVE-2020-11519 | Technical Write-Up on and PoC Exploit for CVE-2020-11519 and CVE-2020-11520 | https://github.com/patois/winmagic_sd | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 57 MINUTES 01 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200709T21:43:17Z | CVE-2020-5902 | F5 Big-IP CVE-2020-5902 mass exploiter/fuzzer. | https://github.com/d4rk007/F5-Big-IP-CVE-2020-5902-mass-exploiter | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 56 MINUTES 19 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200709T17:20:24Z | CVE-2020-0796 | SMBGhost (CVE-2020-0796) Automate Exploitation and Detection | https://github.com/Barriuso/SMBGhost_AutomateExploitation | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 57 MINUTES 00 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200709T16:15:21Z | CVE-2020-5902 | A powershell script to check vulnerability CVE-2020-5902 of ip list | https://github.com/c130rg/checkvulnCVE2020590 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 56 MINUTES 15 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200709T15:30:27Z | CVE-2020-5902 | Exphub[漏洞利用脚本库] 包括Webloigc、Struts2、Tomcat、Nexus、Solr、Jboss、Drupal的漏洞利用脚本，最新添加CVE-2020-5902、CVE-2020-11444、CVE-2020-10204、CVE-2020-10199、CVE-2020-1938、CVE-2020-2551、CVE-2020-2555、CVE-2020-2883、CVE-2019-17558、CVE-2019-6340 | https://github.com/zhzyker/exphub | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 56 MINUTES 57 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200709T14:24:22Z | CVE-2020-5902 | Exploit for CVE-2020-5902 POC (bash version) | https://github.com/itsjeffersonli/CVE-2020-5902 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 56 MINUTES 20 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20200709T12:18:46Z | CVE-2020-5902 | It is  a small script to fetch out the  subdomains/ip vulnerable to CVE-2020-5902 written in bash | https://github.com/GovindPalakkal/EvilRip | 在BIG-IP版本15.0.0-15.1.0.3、14.1.0-14.1.2.5、13.1.0-13.1.3.3、12.1.0-12.1.5.1和11.6.1-11.6.5.1中，流量管理用户接口（TMUI），也称为“配置”实用程序，在未公开的页面中具有远程执行代码（RCE）漏洞。| 
 | 20200709T09:24:57Z | CVE-2020-5902 | 批量扫描CVE-2020-5902，远程代码执行，已测试 | https://github.com/lijiaxing1997/CVE-2020-5902-POC-EXP | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 57 MINUTES 05 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200709T08:06:36Z | CVE-2020-5902 | Null | https://github.com/Shu1L/CVE-2020-5902-fofa-scan | 在BIG-IP版本15.0.0-15.1.0.3、14.1.0-14.1.2.5、13.1.0-13.1.3.3、12.1.0-12.1.5.1和11.6.1-11.6.5.1中，流量管理用户接口（TMUI），也称为“配置”实用程序，在未公开的页面中具有远程执行代码（RCE）漏洞。| 
+| 20200709T08:06:36Z | CVE-2020-5902 | Null | https://github.com/Shu1L/CVE-2020-5902-fofa-scan | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 56 MINUTES 17 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 
 
 # klee on Github 推荐
@@ -116,16 +116,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20200709T12:48:54Z | Security oriented software fuzzer. Supports evolutionary, feedback-driven fuzzing based on code coverage (SW and HW based) | https://github.com/google/honggfuzz | 1920 | 402| 
-| 20200709T12:47:13Z | A differential fuzzer for x86 decoders | https://github.com/trailofbits/mishegos | 90 | 13| 
-| 20200709T12:47:05Z | 自用前端展示 | https://github.com/WayneDevMaze/CeresFuzzing | 0 | 0| 
-| 20200709T12:47:03Z | Null | https://github.com/ben-pick/COMP6447-Fuzzer | 0 | 0| 
-| 20200709T12:46:22Z | our fuzz | https://github.com/Lantern-r/fuzz | 0 | 0| 
-| 20200709T11:37:06Z | OSS-Fuzz - continuous fuzzing of open source software. | https://github.com/google/oss-fuzz | 5375 | 1034| 
-| 20200709T10:51:51Z | Fuzzing the linkers | https://github.com/nikolajsamsonow/ftl | 0 | 0| 
-| 20200709T10:40:37Z | Fuzzing en español | https://github.com/0xVIC/Diccionarios | 1 | 0| 
-| 20200709T10:12:40Z | F5 Big-IP CVE-2020-5902 mass exploiter/fuzzer. | https://github.com/d4rk007/F5-Big-IP-CVE-2020-5902-mass-exploiter | 0 | 0| 
-| 20200709T10:03:16Z | Null | https://github.com/wtwofire/A-systematic-review-of-fuzzing-based-on-machine-learning-techniques | 0 | 1| 
+| 20200709T23:54:05Z | Coverage-guided binary fuzzing powered by Frida Stalker | https://github.com/meme/hotwax | 2 | 0| 
+| 20200709T23:38:17Z | AFLNet: A Greybox Fuzzer for Network Protocols (https://thuanpv.github.io/publications/AFLNet_ICST20.pdf) | https://github.com/aflnet/aflnet | 237 | 32| 
+| 20200709T22:57:27Z | A set of utilities for interacting with OSS-Fuzz | https://github.com/rjotwani/oss-fuzz-utils | 0 | 0| 
+| 20200709T21:43:17Z | F5 Big-IP CVE-2020-5902 mass exploiter/fuzzer. | https://github.com/d4rk007/F5-Big-IP-CVE-2020-5902-mass-exploiter | 0 | 0| 
+| 20200709T21:27:48Z | euromillions statistic | https://github.com/C00lWizard1/fuzzy-octo-guide | 0 | 0| 
+| 20200709T21:18:25Z | OSS-Fuzz - continuous fuzzing of open source software. | https://github.com/google/oss-fuzz | 5378 | 1035| 
+| 20200709T21:05:05Z | FuzzBench - Fuzzer benchmarking as a service. | https://github.com/google/fuzzbench | 481 | 65| 
+| 20200709T20:49:32Z | The Book %Generating Software Tests% | https://github.com/uds-se/fuzzingbook | 404 | 79| 
+| 20200709T20:46:39Z | The fuzzingbook VM | https://github.com/vrthra/VM.Fuzzingbook | 0 | 0| 
+| 20200709T20:18:57Z | Null | https://github.com/Sambigeara/fuzzy-note | 1 | 0| 
 
 
 
