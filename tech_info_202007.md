@@ -20,12 +20,12 @@
 | 20200709 | ESET对Evilnum APT组织武器库以及攻击手法的详细分析 | https://www.welivesecurity.com/2020/07/09/more-evil-deep-look-evilnum-toolset/| 
 | 20200709 | 一个用于收集有效XSS payload的github集合 | https://github.com/terjanq/Tiny-XSS-Payloads| 
 | 20200709 | 如何在Windows环境中限制基于SMB的横向移动 | https://medium.com/palantir/restricting-smb-based-lateral-movement-in-a-windows-environment-ed033b888721?source=friends_link&sk=a51a65b034ad9ef38e3c60eaeff7e331| 
+| 20200709 | Google Tsunami漏洞扫描器现已开源 | https://securityaffairs.co/wordpress/105686/hacking/google-tsunami-open-source.html| 
 | 20200708 | Chrome 浏览器复制粘贴实现过程中的 UXSS 漏洞分析（CVE-2020-6456） | https://bugs.chromium.org/p/chromium/issues/detail?id=1040755| 
 | 20200708 | Firefox 浏览器对抗代码注入攻击的技术细节 | https://blog.mozilla.org/attack-and-defense/2020/07/07/hardening-firefox-against-injection-attacks-the-technical-details/| 
 | 20200708 | Android 内核的 Memory Tagging 内存保护技术与 Tag-Based KASAN | https://docs.google.com/presentation/d/10V_msbtEap9dNerKvTrRAzvfzYdrQFC8e2NYHCZYJDE/edit?usp=sharing| 
 | 20200708 | Nexus Repository Manager 3 EL 表达式注入漏洞（CVE-2018-16621）分析与补丁绕过 | https://securitylab.github.com/research/bean-validation-RCE/| 
 | 20200708 | Citrix ADC 流量管理产品被修复多个高危漏洞，厂商建议立即修复 | https://threatpost.com/citrix-bugs-allow-unauthenticated-code-injection-data-theft/157214/| 
-| 20200708 | Hacking iSmartgate 智能车库门开关 | https://www.pentestpartners.com/security-blog/pwning-smart-garage-door-openers/| 
 
 
 # 安全维基 推荐
@@ -47,14 +47,14 @@
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
 | 20200710T01:10:04Z | CVE-2020-5902 | F5 Big-IP CVE-2020-5902 mass exploiter/fuzzer. | https://github.com/d4rk007/F5-Big-IP-CVE-2020-5902-mass-exploiter | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 10 MINUTES 48 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200710T00:14:18Z | CVE-2020-5902 | Exphub[漏洞利用脚本库] 包括Webloigc、Struts2、Tomcat、Nexus、Solr、Jboss、Drupal的漏洞利用脚本，最新添加CVE-2020-5902、CVE-2020-11444、CVE-2020-10204、CVE-2020-10199、CVE-2020-1938、CVE-2020-2551、CVE-2020-2555、CVE-2020-2883、CVE-2019-17558、CVE-2019-6340 | https://github.com/zhzyker/exphub | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 11 MINUTES 24 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200710T00:14:18Z | CVE-2020-5902 | Exphub[漏洞利用脚本库] 包括Webloigc、Struts2、Tomcat、Nexus、Solr、Jboss、Drupal的漏洞利用脚本，最新添加CVE-2020-5902、CVE-2020-11444、CVE-2020-10204、CVE-2020-10199、CVE-2020-1938、CVE-2020-2551、CVE-2020-2555、CVE-2020-2883、CVE-2019-17558、CVE-2019-6340 | https://github.com/zhzyker/exphub | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 10 MINUTES 27 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20200709T23:08:46Z | CVE-2020-9376 | Exploits for CVE-2020-9376 and CVE-2020-9377 | https://github.com/renatoalencar/dlink-dir610-exploits | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 10 MINUTES 50 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200709T22:43:41Z | CVE-2020-11519 | Technical Write-Up on and PoC Exploit for CVE-2020-11519 and CVE-2020-11520 | https://github.com/patois/winmagic_sd | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 11 MINUTES 27 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200709T17:20:24Z | CVE-2020-0796 | SMBGhost (CVE-2020-0796) Automate Exploitation and Detection | https://github.com/Barriuso/SMBGhost_AutomateExploitation | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 11 MINUTES 26 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200709T22:43:41Z | CVE-2020-11519 | Technical Write-Up on and PoC Exploit for CVE-2020-11519 and CVE-2020-11520 | https://github.com/patois/winmagic_sd | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 10 MINUTES 31 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200709T17:20:24Z | CVE-2020-0796 | SMBGhost (CVE-2020-0796) Automate Exploitation and Detection | https://github.com/Barriuso/SMBGhost_AutomateExploitation | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 10 MINUTES 29 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20200709T16:15:21Z | CVE-2020-5902 | A powershell script to check vulnerability CVE-2020-5902 of ip list | https://github.com/c130rg/checkvulnCVE2020590 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 10 MINUTES 44 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20200709T14:24:22Z | CVE-2020-5902 | Exploit for CVE-2020-5902 POC (bash version) | https://github.com/itsjeffersonli/CVE-2020-5902 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 10 MINUTES 49 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20200709T12:18:46Z | CVE-2020-5902 | It is  a small script to fetch out the  subdomains/ip vulnerable to CVE-2020-5902 written in bash | https://github.com/GovindPalakkal/EvilRip | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 10 MINUTES 41 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200709T09:24:57Z | CVE-2020-5902 | 批量扫描CVE-2020-5902，远程代码执行，已测试 | https://github.com/lijiaxing1997/CVE-2020-5902-POC-EXP | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 11 MINUTES 30 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200709T09:24:57Z | CVE-2020-5902 | 批量扫描CVE-2020-5902，远程代码执行，已测试 | https://github.com/lijiaxing1997/CVE-2020-5902-POC-EXP | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 10 MINUTES 33 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20200709T08:06:36Z | CVE-2020-5902 | Null | https://github.com/Shu1L/CVE-2020-5902-fofa-scan | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 10 MINUTES 46 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 
 
@@ -101,7 +101,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20200710T01:28:01Z | Null | https://github.com/enomarozi/BackdoorCTF_Writeup | 0 | 0| 
+| 20200710T01:49:10Z | Null | https://github.com/enomarozi/BackdoorCTF_Writeup | 0 | 0| 
 | 20200709T23:49:21Z | Mouse Framework is an iOS and macOS post-exploitation framework that gives you a command line session with extra functionality between you and a target machine using only a simple Mouse payload. Mouse gives you the power and convenience of uploading and downloading files, tab completion, taking pictures, location tracking, shell command execution, escalating privileges, password retrieval, and much more. | https://github.com/entynetproject/mouse | 167 | 63| 
 | 20200709T21:04:54Z | Undetectable & Xor encrypting with custom KEY (FUD Metasploit Rat) bypass Top Antivirus like BitDefender,Malwarebytes,Avast,ESET-NOD32,AVG,... & Automatically Add ICON and MANIFEST to excitable | https://github.com/persianhydra/Xeexe-TopAntivirusEvasion | 79 | 29| 
 | 20200709T16:49:56Z | Contact: Maximilian Bachl, Alexander Hartl. Explores defenses against backdoors and poisoning attacks for Intrusion Detection Systems. | https://github.com/CN-TU/ids-backdoor | 3 | 3| 
