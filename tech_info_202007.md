@@ -11,6 +11,9 @@
 | 20200710 | Android 中的特殊攻击面（三）—— 隐蔽的 call 函数 | http://paper.seebug.org/1269/| 
 | 20200710 | F-Secure Labs 的 Attack Detection Workshop 系列文章之信息收集与横向渗透 #1 | https://labs.f-secure.com/blog/attack-detection-fundamentals-discovery-and-lateral-movement-lab-1| 
 | 20200710 | 从反序列化到类型混淆漏洞——记一次 ecshop 实例利用 | https://paper.seebug.org/1267/| 
+| 20200710 | 逆向工程DexGuard，第3部分–代码虚拟化。 | https://www.pnfsoftware.com/blog/reversing-dexguard-virtualization/| 
+| 20200710 | 使用WSL 2的.NET Core调试入门-PreviewPreview | https://marketplace.visualstudio.com/items?itemName=ms-azuretools.Dot-Net-Core-Debugging-With-Wsl2| 
+| 20200710 | 在Linux中使用命令检测memfd_create（）无文件恶意软件分析。 | https://www.sandflysecurity.com/blog/detecting-linux-memfd_create-fileless-malware-with-command-line-forensics/| 
 | 20200709 | libfiowrapper - Fuzz 过程中将文件读取操作映射为内存访问的库 | https://github.com/marekzmyslowski/libfiowrapper| 
 | 20200709 | 通过模拟 Client 的方式 Bypass 游戏反欺骗引擎 BattlEye 的检测 | https://secret.club/2020/07/06/bottleye.html| 
 | 20200709 | 基于 EM_GETHANDLE, WM_PASTE EM_SETWORDBREAKPROC 消息 Windows 进程注入 | https://modexp.wordpress.com/2020/07/07/wpi-wm-paste/| 
@@ -23,9 +26,6 @@
 | 20200709 | 臭名昭著的Joker恶意软件的新变种再次进入Google Play | https://threatpost.com/joker-android-malware-dupes-its-way-back-onto-google-play/157307/| 
 | 20200709 | 用于Fuzzing和爆破的python字典生成器 | https://www.kitploit.com/2020/07/wordlistgen-super-simple-python-word.html| 
 | 20200709 | ESET对Evilnum APT组织武器库以及攻击手法的详细分析 | https://www.welivesecurity.com/2020/07/09/more-evil-deep-look-evilnum-toolset/| 
-| 20200709 | 一个用于收集有效XSS payload的github集合 | https://github.com/terjanq/Tiny-XSS-Payloads| 
-| 20200709 | 如何在Windows环境中限制基于SMB的横向移动 | https://medium.com/palantir/restricting-smb-based-lateral-movement-in-a-windows-environment-ed033b888721?source=friends_link&sk=a51a65b034ad9ef38e3c60eaeff7e331| 
-| 20200709 | Google Tsunami漏洞扫描器现已开源 | https://securityaffairs.co/wordpress/105686/hacking/google-tsunami-open-source.html| 
 
 
 # 安全维基 推荐
@@ -46,24 +46,24 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20200710T21:50:44Z | CVE-2020-5902 | Mass exploit for CVE-2020-5902 | https://github.com/pwnhacker0x18/CVE-2020-5902-Mass | 在BIG-IP版本15.0.0-15.1.0.3、14.1.0-14.1.2.5、13.1.0-13.1.3.3、12.1.0-12.1.5.1和11.6.1-11.6.5.1中，流量管理用户接口（TMUI），也称为“配置”实用程序，在未公开的页面中具有远程执行代码（RCE）漏洞。| 
+| 20200710T21:03:22Z | CVE-2020-8193 | Citrix ADC Vulns | https://github.com/jas502n/CVE-2020-8193 | 13.0-58.30、12.1-57.18、12.0-63.21、11.1-64.14和10.5-70.18之前的Citrix ADC和Citrix Gateway版本中的访问控制不当以及11.1.1a，11.0.3d和10.2.7之前的Citrix SDWAN WAN-OP版本允许未经授权访问某些URL端点。| 
+| 20200710T19:11:06Z | cve-2020-5902 | F5 BIGIP RCE CVE-2020-5902 automatic check tool | https://github.com/theLSA/f5-bigip-rce-cve-2020-5902 | 在BIG-IP版本15.0.0-15.1.0.3、14.1.0-14.1.2.5、13.1.0-13.1.3.3、12.1.0-12.1.5.1和11.6.1-11.6.5.1中，流量管理用户接口（TMUI），也称为“配置”实用程序，在未公开的页面中具有远程执行代码（RCE）漏洞。| 
+| 20200710T18:02:59Z | CVE-2020-11519 | Technical Write-Up on and PoC Exploit for CVE-2020-11519 and CVE-2020-11520 | https://github.com/patois/winmagic_sd | WinMagic SecureDoc v8.5和更早版本的SDDisk2k.sys驱动程序允许本地用户通过\\。\ SecureDocDevice句柄读取或写入物理磁盘扇区。利用此漏洞将导致特权代码执行。| 
+| 20200710T17:56:51Z | 未知编号 | CVE Data Analysis, CVE Monitor, CVE EXP Prediction Based on Deep Learning. 1999-2020年存量CVE数据分析、监控CVE增量更新、基于深度学习的CVE EXP预测和自动化推送 | https://github.com/404notf0und/CVE-Flow | 未查询到CVE信息| 
+| 20200710T17:14:14Z | CVE-2020-5902 | F5 BIG IP Scanner for CVE-2020-5902 | https://github.com/halencarjunior/f5scan | | 
+| 20200710T15:31:09Z | CVE-2020-5902 | Checker CVE-2020-5902: BIG-IP versions 15.0.0 through 15.1.0.3, 14.1.0 through 14.1.2.5, 13.1.0 through 13.1.3.3, 12.1.0 through 12.1.5.1, and 11.6.1 through 11.6.5.1 suffer from Traffic Management User Interface (TMUI) arbitrary file read and command execution vulnerabilities. | https://github.com/MrCl0wnLab/checker-CVE-2020-5902 | 在BIG-IP版本15.0.0-15.1.0.3、14.1.0-14.1.2.5、13.1.0-13.1.3.3、12.1.0-12.1.5.1和11.6.1-11.6.5.1中，流量管理用户接口（TMUI），也称为“配置”实用程序，在未公开的页面中具有远程执行代码（RCE）漏洞。| 
+| 20200710T13:24:05Z | CVE-2020-5902 | Exploits for CVE-2020-5902 POC  | https://github.com/itsjeffersonli/CVE-2020-5902 | 在BIG-IP版本15.0.0-15.1.0.3、14.1.0-14.1.2.5、13.1.0-13.1.3.3、12.1.0-12.1.5.1和11.6.1-11.6.5.1中，流量管理用户接口（TMUI），也称为“配置”实用程序，在未公开的页面中具有远程执行代码（RCE）漏洞。| 
 | 20200710T12:43:22Z | CVE-2020-5902 | Exphub[漏洞利用脚本库] 包括Webloigc、Struts2、Tomcat、Nexus、Solr、Jboss、Drupal的漏洞利用脚本，最新添加CVE-2020-5902、CVE-2020-11444、CVE-2020-10204、CVE-2020-10199、CVE-2020-1938、CVE-2020-2551、CVE-2020-2555、CVE-2020-2883、CVE-2019-17558、CVE-2019-6340 | https://github.com/zhzyker/exphub | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 00 MINUTES 01 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200710T11:03:22Z | CVE-2020-5902 | Exploits for CVE-2020-5902 POC  | https://github.com/itsjeffersonli/CVE-2020-5902 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 00 MINUTES 22 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200710T10:39:51Z | CVE-2020-11519 | Technical Write-Up on and PoC Exploit for CVE-2020-11519 and CVE-2020-11520 | https://github.com/patois/winmagic_sd | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 00 MINUTES 06 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20200710T09:57:42Z | CVE-2020-0796 | SMBGhost (CVE-2020-0796) Automate Exploitation and Detection | https://github.com/Barriuso/SMBGhost_AutomateExploitation | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 00 MINUTES 05 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200710T09:38:50Z | CVE-2020-5902 | F5 Big-IP CVE-2020-5902 mass exploiter/fuzzer. | https://github.com/d4rk007/F5-Big-IP-CVE-2020-5902-mass-exploiter | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 00 MINUTES 20 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200710T09:30:50Z | CVE-2020-11651 | PoC exploit of CVE-2020-11651 and CVE-2020-11652 | https://github.com/jasperla/CVE-2020-11651-poc | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 00 MINUTES 02 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200710T07:54:22Z | CVE-2020-5902 | 批量检测CVE-2020-5902 | https://github.com/qiong-qi/CVE-2020-5902-POC | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 00 MINUTES 26 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200710T07:27:30Z | CVE-2020-5902 | Checker CVE-2020-5902: BIG-IP versions 15.0.0 through 15.1.0.3, 14.1.0 through 14.1.2.5, 13.1.0 through 13.1.3.3, 12.1.0 through 12.1.5.1, and 11.6.1 through 11.6.5.1 suffer from Traffic Management User Interface (TMUI) arbitrary file read and command execution vulnerabilities. | https://github.com/MrCl0wnLab/checker-CVE-2020-5902 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 00 MINUTES 24 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200710T04:08:17Z | CVE-2020-5902 | Null | https://github.com/Shu1L/CVE-2020-5902-fofa-scan | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 00 MINUTES 18 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200709T23:08:46Z | CVE-2020-9376 | Exploits for CVE-2020-9376 and CVE-2020-9377 | https://github.com/renatoalencar/dlink-dir610-exploits | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 00 MINUTES 23 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20200710T20:33:08Z | Create CFGs and compute complexity metrics for Python, C++, and Java code. | https://github.com/hmc-alpaqa/metrinome | 3 | 0| 
 | 20200710T12:30:18Z | Null | https://github.com/VaibhaviMarihal14/Kleem-Care | 0 | 0| 
 | 20200710T10:31:37Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1430 | 441| 
-| 20200709T20:31:19Z | Create CFGs and compute complexity metrics for Python, C++, and Java code. | https://github.com/hmc-alpaqa/metrinome | 3 | 0| 
 | 20200707T22:27:51Z | Null | https://github.com/thierry-tct/KLEE-SEMu | 0 | 0| 
 | 20200706T11:45:24Z | Null | https://github.com/Niemand200/Die-Entstehung-des-Klees | 2 | 0| 
 | 20200704T15:32:01Z | Python module execution timer for application | https://github.com/Edenskull/KleenTimer | 0 | 0| 
@@ -88,16 +88,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20200710T13:00:04Z | Null | https://github.com/y5s5k5/HEVD-Exploits | 0 | 0| 
-| 20200710T12:47:29Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 3 | 1| 
-| 20200710T12:43:23Z | Null | https://github.com/arush15june/ExploitSubmitter | 0 | 0| 
-| 20200710T12:35:12Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 6672 | 1044| 
-| 20200710T12:26:40Z | Oraxen is a minecraft plugin which allows to easily exploit Minecraft 1.14 new features in order to create new items with custom textures. It handles the resourcepack generation, upload (using Polymath) , is fully open source and has an extensible API. | https://github.com/oraxen/Oraxen | 62 | 11| 
-| 20200710T12:18:38Z | Null | https://github.com/Psychorot/ParadoxExploitGuncel | 0 | 0| 
-| 20200710T12:17:31Z | All in one tool to Create, Exploit, Bind Payloads etcetera. The Perfect tool To create Payloads For Windows and Android. | https://github.com/SLICK-PUNK/ShatterFist | 1 | 1| 
-| 20200710T11:53:01Z | k8gege.org - K8哥哥%s Blog | https://github.com/k8gege/k8gege.github.io | 8 | 2| 
-| 20200710T11:44:43Z | Ladon for Cobalt Strike, Large Network Penetration Scanner, vulnerability / exploit / detection / MS17010 / password/brute-force/psexec/atexec/sshexec/webshell/smbexec/netcat/osscan/netscan/struts2Poc/weblogicExp | https://github.com/k8gege/Aggressor | 111 | 25| 
-| 20200710T11:44:20Z | 大型内网渗透扫描器&Cobalt Strike，Ladon6.6内置74个模块，包含信息收集/存活主机/IP扫描/端口扫描/服务识别/网络资产/密码爆破/漏洞检测/漏洞利用。漏洞检测含MS17010、SMBGhost、Weblogic、ActiveMQ、Tomcat、Struts2系列，密码口令爆破(Mysql、Oracle、MSSQL)、FTP、SSH(Linux)、VNC、Windows(IPC、WMI、SMB、LDAP、SmbHash、WmiHash、Winrm),远程执行命令(wmiexe/psexec/atexec/sshexec/webshell),降权提权Runas、GetSystem，Poc/Exploit,支持Cobalt Strike 3.X-4.0 | https://github.com/k8gege/Ladon | 1703 | 406| 
+| 20200710T23:34:35Z | Null | https://github.com/Jb05s/Exploit-Dev-C | 5 | 4| 
+| 20200710T21:50:44Z | Mass exploit for CVE-2020-5902 | https://github.com/pwnhacker0x18/CVE-2020-5902-Mass | 0 | 0| 
+| 20200710T21:50:12Z | Disco-RD - Multi-Platform Discord mod! | https://github.com/FiskDk/discord-security-exploiting | 1 | 0| 
+| 20200710T21:35:12Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 6673 | 1044| 
+| 20200710T20:18:12Z | Main repository for project %Marine species do not need visas: the transboundary nature of the world’s exploited marine species% (FishForVisa) | https://github.com/jepa/FishForVisa | 0 | 0| 
+| 20200710T19:42:22Z | CTF framework and exploit development library | https://github.com/Gallopsled/pwntools | 6763 | 1259| 
+| 20200710T19:36:40Z | An attack/exploit Detector that utilizes Polymorphism and Diversity | https://github.com/polyverse/zerotect | 2 | 1| 
+| 20200710T19:23:01Z | Linguagem C | https://github.com/taeq1/Exploit-AtomixMP3-Trial | 0 | 0| 
+| 20200710T19:03:18Z | Python | https://github.com/taeq1/Exploit-VUplayer. | 0 | 0| 
+| 20200710T19:02:24Z | BufferOverFlow | https://github.com/taeq1/Exploit---AtomixMP3-Trial | 0 | 0| 
 
 
 # backdoor on Github 推荐
@@ -118,16 +118,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20200710T12:55:40Z | OSS-Fuzz - continuous fuzzing of open source software. | https://github.com/google/oss-fuzz | 5381 | 1035| 
-| 20200710T12:49:46Z | Null | https://github.com/Sambigeara/fuzzy-note | 1 | 0| 
-| 20200710T12:37:05Z | A ground-truth binary fuzzing benchmark suite based on real programs with real bugs. | https://github.com/HexHive/magma | 28 | 10| 
-| 20200710T12:29:01Z | String comparison using fuzzy-wuzzy python | https://github.com/pravi19/fuzzy-wuzzy | 0 | 0| 
-| 20200710T12:15:46Z | basic block analyzer for fuzzers | https://github.com/firefoxxpyang/basic_block_analyzer | 0 | 0| 
-| 20200710T11:54:26Z | 💹 API para utilização do Fuzzy Trader desenvolvida em Node.js | https://github.com/hugo-marcelo/fuzzy-trader-api | 0 | 0| 
-| 20200710T11:08:36Z | Ptrace fuzzer experiments | https://github.com/marcinguy/fuzzer | 3 | 0| 
-| 20200710T09:54:57Z | little university project about using fuzzy state machines in Unity | https://github.com/Idkwnisu/FuzzyStateMachineUnity | 0 | 0| 
-| 20200710T09:38:50Z | F5 Big-IP CVE-2020-5902 mass exploiter/fuzzer. | https://github.com/d4rk007/F5-Big-IP-CVE-2020-5902-mass-exploiter | 0 | 0| 
-| 20200710T09:22:12Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 3031 | 690| 
+| 20200710T23:28:06Z | FuzzyKnights: Protectors of the Forst - 16bit Adventure | https://github.com/mjnrock/fuzzyknights-arcade | 0 | 0| 
+| 20200710T23:14:46Z | A Python program implementing fuzzy matching between two sets of records. | https://github.com/tseastmond/fuzzylink | 0 | 0| 
+| 20200710T22:49:52Z | OSS-Fuzz - continuous fuzzing of open source software. | https://github.com/google/oss-fuzz | 5381 | 1035| 
+| 20200710T22:47:08Z | Rocket game made with pygame to use fuzzy control dynamics | https://github.com/luiz-gatelli/spacex-fuzzy | 0 | 0| 
+| 20200710T22:31:24Z | Pedal Multiefecto para guitarra electrica (LoopBack, Delay, Fuzz y Wah-wah) | https://github.com/jrosmirez94/Pedal-Multiefecto | 0 | 0| 
+| 20200710T22:29:12Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 3032 | 690| 
+| 20200710T22:25:16Z | Scalable fuzzing infrastructure. | https://github.com/google/clusterfuzz | 4257 | 378| 
+| 20200710T22:09:57Z | The Official Fuzzy Britches Repository | https://github.com/ThePapaw/fuzzybritches | 3 | 0| 
+| 20200710T21:09:03Z | Write unit and fuzz tests for Elm code. | https://github.com/elm-explorations/test | 175 | 23| 
+| 20200710T20:39:30Z | Fuzzy TS optimisation based on genetic algorithm | https://github.com/jairpaulino/fuzzy-ts-opt | 0 | 0| 
 
 
 
