@@ -46,14 +46,14 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20200710T21:50:44Z | CVE-2020-5902 | Mass exploit for CVE-2020-5902 | https://github.com/pwnhacker0x18/CVE-2020-5902-Mass | 在BIG-IP版本15.0.0-15.1.0.3、14.1.0-14.1.2.5、13.1.0-13.1.3.3、12.1.0-12.1.5.1和11.6.1-11.6.5.1中，流量管理用户接口（TMUI），也称为“配置”实用程序，在未公开的页面中具有远程执行代码（RCE）漏洞。| 
-| 20200710T21:03:22Z | CVE-2020-8193 | Citrix ADC Vulns | https://github.com/jas502n/CVE-2020-8193 | 13.0-58.30、12.1-57.18、12.0-63.21、11.1-64.14和10.5-70.18之前的Citrix ADC和Citrix Gateway版本中的访问控制不当以及11.1.1a，11.0.3d和10.2.7之前的Citrix SDWAN WAN-OP版本允许未经授权访问某些URL端点。| 
-| 20200710T19:11:06Z | cve-2020-5902 | F5 BIGIP RCE CVE-2020-5902 automatic check tool | https://github.com/theLSA/f5-bigip-rce-cve-2020-5902 | 在BIG-IP版本15.0.0-15.1.0.3、14.1.0-14.1.2.5、13.1.0-13.1.3.3、12.1.0-12.1.5.1和11.6.1-11.6.5.1中，流量管理用户接口（TMUI），也称为“配置”实用程序，在未公开的页面中具有远程执行代码（RCE）漏洞。| 
-| 20200710T18:02:59Z | CVE-2020-11519 | Technical Write-Up on and PoC Exploit for CVE-2020-11519 and CVE-2020-11520 | https://github.com/patois/winmagic_sd | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 58 MINUTES 05 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200710T21:50:44Z | CVE-2020-5902 | Mass exploit for CVE-2020-5902 | https://github.com/pwnhacker0x18/CVE-2020-5902-Mass | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 55 MINUTES 26 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200710T21:03:22Z | CVE-2020-8193 | Citrix ADC Vulns | https://github.com/jas502n/CVE-2020-8193 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 55 MINUTES 24 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200710T19:11:06Z | cve-2020-5902 | F5 BIGIP RCE CVE-2020-5902 automatic check tool | https://github.com/theLSA/f5-bigip-rce-cve-2020-5902 | | 
+| 20200710T18:02:59Z | CVE-2020-11519 | Technical Write-Up on and PoC Exploit for CVE-2020-11519 and CVE-2020-11520 | https://github.com/patois/winmagic_sd | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 56 MINUTES 08 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20200710T17:56:51Z | 未知编号 | CVE Data Analysis, CVE Monitor, CVE EXP Prediction Based on Deep Learning. 1999-2020年存量CVE数据分析、监控CVE增量更新、基于深度学习的CVE EXP预测和自动化推送 | https://github.com/404notf0und/CVE-Flow | 未查询到CVE信息| 
-| 20200710T17:14:14Z | CVE-2020-5902 | F5 BIG IP Scanner for CVE-2020-5902 | https://github.com/halencarjunior/f5scan | | 
-| 20200710T15:31:09Z | CVE-2020-5902 | Checker CVE-2020-5902: BIG-IP versions 15.0.0 through 15.1.0.3, 14.1.0 through 14.1.2.5, 13.1.0 through 13.1.3.3, 12.1.0 through 12.1.5.1, and 11.6.1 through 11.6.5.1 suffer from Traffic Management User Interface (TMUI) arbitrary file read and command execution vulnerabilities. | https://github.com/MrCl0wnLab/checker-CVE-2020-5902 | 在BIG-IP版本15.0.0-15.1.0.3、14.1.0-14.1.2.5、13.1.0-13.1.3.3、12.1.0-12.1.5.1和11.6.1-11.6.5.1中，流量管理用户接口（TMUI），也称为“配置”实用程序，在未公开的页面中具有远程执行代码（RCE）漏洞。| 
-| 20200710T13:24:05Z | CVE-2020-5902 | Exploits for CVE-2020-5902 POC  | https://github.com/itsjeffersonli/CVE-2020-5902 | 在BIG-IP版本15.0.0-15.1.0.3、14.1.0-14.1.2.5、13.1.0-13.1.3.3、12.1.0-12.1.5.1和11.6.1-11.6.5.1中，流量管理用户接口（TMUI），也称为“配置”实用程序，在未公开的页面中具有远程执行代码（RCE）漏洞。| 
+| 20200710T17:14:14Z | CVE-2020-5902 | F5 BIG IP Scanner for CVE-2020-5902 | https://github.com/halencarjunior/f5scan | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 56 MINUTES 14 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200710T15:31:09Z | CVE-2020-5902 | Checker CVE-2020-5902: BIG-IP versions 15.0.0 through 15.1.0.3, 14.1.0 through 14.1.2.5, 13.1.0 through 13.1.3.3, 12.1.0 through 12.1.5.1, and 11.6.1 through 11.6.5.1 suffer from Traffic Management User Interface (TMUI) arbitrary file read and command execution vulnerabilities. | https://github.com/MrCl0wnLab/checker-CVE-2020-5902 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 56 MINUTES 22 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200710T13:24:05Z | CVE-2020-5902 | Exploits for CVE-2020-5902 POC  | https://github.com/itsjeffersonli/CVE-2020-5902 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 56 MINUTES 19 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20200710T12:43:22Z | CVE-2020-5902 | Exphub[漏洞利用脚本库] 包括Webloigc、Struts2、Tomcat、Nexus、Solr、Jboss、Drupal的漏洞利用脚本，最新添加CVE-2020-5902、CVE-2020-11444、CVE-2020-10204、CVE-2020-10199、CVE-2020-1938、CVE-2020-2551、CVE-2020-2555、CVE-2020-2883、CVE-2019-17558、CVE-2019-6340 | https://github.com/zhzyker/exphub | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 00 MINUTES 01 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20200710T09:57:42Z | CVE-2020-0796 | SMBGhost (CVE-2020-0796) Automate Exploitation and Detection | https://github.com/Barriuso/SMBGhost_AutomateExploitation | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 00 MINUTES 05 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 
@@ -103,16 +103,16 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20200710T23:39:32Z | Null | https://github.com/enomarozi/BackdoorCTF_Writeup | 0 | 0| 
+| 20200710T22:15:14Z | Scripts for obtain info remotely of other computer | https://github.com/ZeuPlox/Backdoor-scripts | 0 | 0| 
+| 20200710T20:24:23Z | Gmod Backdoor Scanner Written in C++ | https://github.com/ProtoGrace/Gmod-Backdoor-Scanner | 5 | 1| 
+| 20200710T17:22:24Z | Yet another PHP Obfuscator | https://github.com/Cvar1984/yapo | 0 | 1| 
+| 20200710T17:10:52Z | A Modern Hacking tool in python to control Local Computers by only executing a snake game | https://github.com/Loubaris/Backdoor-Python | 1 | 0| 
+| 20200710T16:45:46Z | Null | https://github.com/Sp3ctr3r/Backdoor | 0 | 0| 
+| 20200710T15:53:36Z | Undetectable & Xor encrypting with custom KEY (FUD Metasploit Rat) bypass Top Antivirus like BitDefender,Malwarebytes,Avast,ESET-NOD32,AVG,... & Automatically Add ICON and MANIFEST to excitable | https://github.com/persianhydra/Xeexe-TopAntivirusEvasion | 81 | 31| 
+| 20200710T15:43:38Z | Contact: Maximilian Bachl, Alexander Hartl. Explores defenses against backdoors and poisoning attacks for Intrusion Detection Systems. | https://github.com/CN-TU/ids-backdoor | 3 | 3| 
+| 20200710T14:54:10Z | Python source code obfuscation project. This is a mini project that supplements my main project the PyIris-backdoor project. | https://github.com/angus-y/PyCantRead | 2 | 0| 
 | 20200710T12:48:30Z | Mouse Framework is an iOS and macOS post-exploitation framework that gives you a command line session with extra functionality between you and a target machine using only a simple Mouse payload. Mouse gives you the power and convenience of uploading and downloading files, tab completion, taking pictures, location tracking, shell command execution, escalating privileges, password retrieval, and much more. | https://github.com/entynetproject/mouse | 168 | 63| 
-| 20200710T12:32:17Z | Null | https://github.com/Satcomx00-x00/CanisRufus-Backdoor | 0 | 0| 
-| 20200710T12:26:00Z | Contact: Maximilian Bachl, Alexander Hartl. Explores defenses against backdoors and poisoning attacks for Intrusion Detection Systems. | https://github.com/CN-TU/ids-backdoor | 3 | 3| 
-| 20200710T12:07:51Z | Hacking tools pack & backdoors generator. | https://github.com/AdrMXR/KitHack | 69 | 21| 
-| 20200710T11:57:34Z | A curated list of awesome backdoor learning research | https://github.com/THUYimingLi/awesome-backdoor-learning | 9 | 1| 
-| 20200710T10:28:12Z | A Modern Hacking tool in python to control Local Computers by only executing a snake game | https://github.com/Loubaris/Backdoor-Python | 0 | 0| 
-| 20200710T08:49:24Z | Null | https://github.com/Slizarenlook/Digispark-Keyboard-Backdoor | 1 | 1| 
-| 20200710T08:06:02Z | A pure-Rust library for VMware host-guest protocol (%VMXh backdoor%) | https://github.com/lucab/vmw_backdoor-rs | 1 | 0| 
-| 20200710T04:15:43Z | Null | https://github.com/enomarozi/BackdoorCTF_Writeup | 0 | 0| 
-| 20200710T01:58:53Z | Undetectable & Xor encrypting with custom KEY (FUD Metasploit Rat) bypass Top Antivirus like BitDefender,Malwarebytes,Avast,ESET-NOD32,AVG,... & Automatically Add ICON and MANIFEST to excitable | https://github.com/persianhydra/Xeexe-TopAntivirusEvasion | 80 | 31| 
 
 
 # fuzz on Github 推荐
