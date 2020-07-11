@@ -31,36 +31,37 @@
 # 安全维基 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20200711 | 2020年中国网络安全产业统计报告 | http://www.dwcon.cn/upload/2020%E5%B9%B4%E4%B8%AD%E5%9B%BD%E7%BD%91%E7%BB%9C%E5%AE%89%E5%85%A8%E4%BA%A7%E4%B8%9A%E7%BB%9F%E8%AE%A1%E6%8A%A5%E5%91%8A.pdf| 
+| 20200711 | 鱼叉攻击-炮轰马的制作 | https://mp.weixin.qq.com/s/3GLmtGoP-rG1nBBSw_KxkQ| 
+| 20200711 | 方舟编译器环境支持的新浪新闻极速版APP分析 | https://zhuanlan.zhihu.com/p/154438363| 
+| 20200711 | 2020 人工智能白皮书 | https://ncstatic.clewm.net/rsrc/2020/0710/14/f361bbdf4dd9b48fb0459c2849093d44.pdf| 
+| 20200711 | F5 BIGIP RCE(CVE-2020-5902)漏洞检测工具 | https://github.com/theLSA/f5-bigip-rce-cve-2020-5902| 
+| 20200711 | 中国网络安全能力100强 | https://mp.weixin.qq.com/s/22wBFQ0hvFtTcAIdbjUTBg| 
 | 20200710 | 如何半天玩转一个“ES未授权利用”插件 | https://mp.weixin.qq.com/s/XZA37Cen9PexyPxuuEx1CQ| 
 | 20200710 | 企业级开源风险及治理模式研究 | https://mp.weixin.qq.com/s/hUML8M4gjjpXiimQNNpw-w| 
 | 20200709 | 我所认知的甲方信息安全建设经验 | https://mp.weixin.qq.com/s/0Uu_os9MB5ZHnowlWkYbEA| 
 | 20200709 | BERT在美团搜索核心排序的探索和实践 | https://mp.weixin.qq.com/s/mFRhp9pJRa9yHwqc98FMbg| 
-| 20200709 | DevSecOps在携程的最佳实践 | https://mp.weixin.qq.com/s/yOykOPU9wn77doz95s5LeA| 
-| 20200709 | 基于类型状态导向的Use-after-Free漏洞模糊测试技术 | https://mp.weixin.qq.com/s/RE19ba-BnQsZRST338lJHA| 
-| 20200707 | 从剖析cs木马生成到开发免杀工具 | https://mp.weixin.qq.com/s/BUp3ignvFJhpm-unStrXig| 
-| 20200707 | 内网渗透之应用层隧道技术 | https://xz.aliyun.com/t/7956| 
-| 20200707 | Java代码审计 | https://xz.aliyun.com/t/7945| 
-| 20200707 | 红队攻防系列之花式鱼竿钓鱼篇 | https://xz.aliyun.com/t/7958| 
 
 
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20200711T11:43:48Z | CVE-2020-5902 | F5 Big-IP CVE-2020-5902 mass exploiter/fuzzer. | https://github.com/d4rk007/F5-Big-IP-CVE-2020-5902-mass-exploiter | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 58 MINUTES 15 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200711T11:24:39Z | CVE-2020-8193 | Citrix ADC Vulns | https://github.com/jas502n/CVE-2020-8193 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 58 MINUTES 23 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200711T10:35:11Z | 未知编号 | CVE Data Analysis, CVE Monitor, CVE EXP Prediction Based on Deep Learning. 1999-2020年存量CVE数据分析、监控CVE增量更新、基于深度学习的CVE EXP预测和自动化推送 | https://github.com/404notf0und/CVE-Flow | 未查询到CVE信息| 
+| 20200711T09:43:39Z | cve-2020-5902 | F5 BIG-IP RCE CVE-2020-5902 automatic check tool | https://github.com/theLSA/f5-bigip-rce-cve-2020-5902 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 58 MINUTES 22 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200711T07:54:54Z | CVE-2020-5902 | It is  a small script to fetch out the  subdomains/ip vulnerable to CVE-2020-5902 written in bash | https://github.com/GovindPalakkal/EvilRip | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 58 MINUTES 07 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20200711T01:44:26Z | CVE-2020-5902 | Exphub[漏洞利用脚本库] 包括Webloigc、Struts2、Tomcat、Nexus、Solr、Jboss、Drupal的漏洞利用脚本，最新添加CVE-2020-5902、CVE-2020-11444、CVE-2020-10204、CVE-2020-10199、CVE-2020-1938、CVE-2020-2551、CVE-2020-2555、CVE-2020-2883、CVE-2019-17558、CVE-2019-6340 | https://github.com/zhzyker/exphub | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 09 MINUTES 02 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200711T01:26:23Z | CVE-2020-8193 | Citrix ADC Vulns | https://github.com/jas502n/CVE-2020-8193 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 00 MINUTES 25 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200711T00:58:49Z | CVE-2020-5902 | Mass exploit for CVE-2020-5902 | https://github.com/pwnhacker0x18/CVE-2020-5902-Mass | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 00 MINUTES 26 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200710T19:11:06Z | cve-2020-5902 | F5 BIGIP RCE CVE-2020-5902 automatic check tool | https://github.com/theLSA/f5-bigip-rce-cve-2020-5902 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 00 MINUTES 23 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200710T18:02:59Z | CVE-2020-11519 | Technical Write-Up on and PoC Exploit for CVE-2020-11519 and CVE-2020-11520 | https://github.com/patois/winmagic_sd | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  20 HOURS 59 MINUTES 53 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200710T17:56:51Z | 未知编号 | CVE Data Analysis, CVE Monitor, CVE EXP Prediction Based on Deep Learning. 1999-2020年存量CVE数据分析、监控CVE增量更新、基于深度学习的CVE EXP预测和自动化推送 | https://github.com/404notf0und/CVE-Flow | 未查询到CVE信息| 
-| 20200710T17:14:14Z | CVE-2020-5902 | F5 BIG IP Scanner for CVE-2020-5902 | https://github.com/halencarjunior/f5scan | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 00 MINUTES 13 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200710T15:31:09Z | CVE-2020-5902 | Checker CVE-2020-5902: BIG-IP versions 15.0.0 through 15.1.0.3, 14.1.0 through 14.1.2.5, 13.1.0 through 13.1.3.3, 12.1.0 through 12.1.5.1, and 11.6.1 through 11.6.5.1 suffer from Traffic Management User Interface (TMUI) arbitrary file read and command execution vulnerabilities. | https://github.com/MrCl0wnLab/checker-CVE-2020-5902 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 00 MINUTES 21 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200710T13:24:05Z | CVE-2020-5902 | Exploits for CVE-2020-5902 POC  | https://github.com/itsjeffersonli/CVE-2020-5902 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 00 MINUTES 19 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200710T09:57:42Z | CVE-2020-0796 | SMBGhost (CVE-2020-0796) Automate Exploitation and Detection | https://github.com/Barriuso/SMBGhost_AutomateExploitation | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 00 MINUTES 05 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200711T00:58:49Z | CVE-2020-5902 | Mass exploit for CVE-2020-5902 | https://github.com/pwnhacker0x18/CVE-2020-5902-Mass | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 58 MINUTES 24 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200710T18:02:59Z | CVE-2020-11519 | Technical Write-Up on and PoC Exploit for CVE-2020-11519 and CVE-2020-11520 | https://github.com/patois/winmagic_sd | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 58 MINUTES 03 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200710T17:14:14Z | CVE-2020-5902 | F5 BIG IP Scanner for CVE-2020-5902 | https://github.com/halencarjunior/f5scan | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 58 MINUTES 10 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200710T15:31:09Z | CVE-2020-5902 | Checker CVE-2020-5902: BIG-IP versions 15.0.0 through 15.1.0.3, 14.1.0 through 14.1.2.5, 13.1.0 through 13.1.3.3, 12.1.0 through 12.1.5.1, and 11.6.1 through 11.6.5.1 suffer from Traffic Management User Interface (TMUI) arbitrary file read and command execution vulnerabilities. | https://github.com/MrCl0wnLab/checker-CVE-2020-5902 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 58 MINUTES 19 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20200711T11:48:20Z | KLEE%s version of uClibc | https://github.com/klee/klee-uclibc | 26 | 28| 
 | 20200710T20:33:08Z | Create CFGs and compute complexity metrics for Python, C++, and Java code. | https://github.com/hmc-alpaqa/metrinome | 3 | 0| 
 | 20200710T12:30:18Z | Null | https://github.com/VaibhaviMarihal14/Kleem-Care | 0 | 0| 
 | 20200710T10:31:37Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1430 | 441| 
@@ -70,7 +71,6 @@
 | 20200704T15:28:36Z | ⬇️ File Upload/sharing application, used by thousands of webmasters since 2007.  | https://github.com/kleeja-official/kleeja | 100 | 33| 
 | 20200704T04:41:58Z | A 4chan image browser written in SwiftUI | https://github.com/jackpal/KleeneStar | 8 | 0| 
 | 20200703T20:51:52Z | Null | https://github.com/s1monb/kleep | 0 | 0| 
-| 20200703T10:20:35Z | Null | https://github.com/Sahana4321/kleemcare | 0 | 0| 
 
 
 # s2e on Github 推荐
@@ -88,46 +88,46 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20200711T01:41:11Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 6674 | 1044| 
-| 20200711T01:28:55Z | *Frequently Updated. Sifter is a osint, recon & vulnerability scanner. It combines a plethara of tools within different module sets in order to quickly perform recon tasks, check network firewalling, enumerate remote and local hosts, and scan for the %blue% vulnerabilities within microsft and if unpatched, exploit them.  It uses tools like blackwidow and konan for webdir enumeration and attack surface mapping rapidly using ASM.  | https://github.com/s1l3nt78/sifter | 184 | 60| 
-| 20200711T00:58:49Z | Mass exploit for CVE-2020-5902 | https://github.com/pwnhacker0x18/CVE-2020-5902-Mass | 1 | 0| 
-| 20200711T00:47:30Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 3 | 1| 
-| 20200711T00:16:07Z | Blog! | https://github.com/nonetype/nonetype.github.io | 0 | 0| 
-| 20200711T00:10:48Z | exploit code(incomplete) | https://github.com/fr0g2s/HackCTF-pwnable- | 0 | 0| 
-| 20200710T23:34:35Z | Null | https://github.com/Jb05s/Exploit-Dev-C | 5 | 4| 
-| 20200710T21:50:12Z | Disco-RD - Multi-Platform Discord mod! | https://github.com/FiskDk/discord-security-exploiting | 1 | 0| 
-| 20200710T20:18:12Z | Main repository for project %Marine species do not need visas: the transboundary nature of the world’s exploited marine species% (FishForVisa) | https://github.com/jepa/FishForVisa | 0 | 0| 
-| 20200710T19:42:22Z | CTF framework and exploit development library | https://github.com/Gallopsled/pwntools | 6763 | 1259| 
+| 20200711T11:55:35Z | Exploiting prnt.sc and its poor image hosting URLs. | https://github.com/SpiritedByte/ImageSnatcher | 0 | 0| 
+| 20200711T11:25:17Z | The official Exploit Database repository | https://github.com/offensive-security/exploitdb | 5381 | 1552| 
+| 20200711T11:19:58Z | Release of Open Sources & its Released Method | https://github.com/SkieAdmin/Skycloud-Exploit | 2 | 1| 
+| 20200711T10:06:47Z | this bash script let you download scripts and clone repos for remote exploits | https://github.com/FabioDefilippo/linuxallremote | 0 | 0| 
+| 20200711T09:53:30Z | Exploit Database binary exploits located in the /sploits directory | https://github.com/offensive-security/exploitdb-bin-sploits | 1266 | 446| 
+| 20200711T09:53:29Z | vsftpd 2.3.4 exploit written by c | https://github.com/kishirasuku/vsftpd-2.3.4-exploit-c | 0 | 0| 
+| 20200711T09:32:34Z | *Frequently Updated. Sifter is a osint, recon & vulnerability scanner. It combines a plethara of tools within different module sets in order to quickly perform recon tasks, check network firewalling, enumerate remote and local hosts, and scan for the %blue% vulnerabilities within microsft and if unpatched, exploit them.  It uses tools like blackwidow and konan for webdir enumeration and attack surface mapping rapidly using ASM.  | https://github.com/s1l3nt78/sifter | 184 | 60| 
+| 20200711T09:30:09Z | Null | https://github.com/Psychorot/ParadoxExploitGuncel | 0 | 0| 
+| 20200711T08:52:43Z | Null | https://github.com/Y3M/FreddyExploits | 0 | 0| 
+| 20200711T08:45:47Z | Linux Kernel Runtime Guard (LKRG). LKRG performs runtime integrity checking of the Linux kernel and detection of security vulnerability exploits against the kernel. Debian packaging fork only. Fork Homepage: https://www.whonix.org/wiki/Linux_Kernel_Runtime_Guard_LKRG Upstream original: https://www.openwall.com/lkrg/ | https://github.com/Whonix/lkrg | 9 | 3| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20200711T01:56:29Z | Null | https://github.com/enomarozi/BackdoorCTF_Writeup | 0 | 0| 
+| 20200711T11:19:53Z | Mouse Framework is an iOS and macOS post-exploitation framework that gives you a command line session with extra functionality between you and a target machine using only a simple Mouse payload. Mouse gives you the power and convenience of uploading and downloading files, tab completion, taking pictures, location tracking, shell command execution, escalating privileges, password retrieval, and much more. | https://github.com/entynetproject/mouse | 170 | 64| 
+| 20200711T09:11:46Z | A curated list of awesome backdoor learning research | https://github.com/THUYimingLi/awesome-backdoor-learning | 9 | 1| 
+| 20200711T03:39:46Z | Backdoor Generator & Listener (WAN) | https://github.com/Ba-hub/0p3n-d00r | 0 | 0| 
+| 20200711T03:10:55Z | Null | https://github.com/enomarozi/BackdoorCTF_Writeup | 0 | 0| 
 | 20200711T01:22:42Z | Hacking tools pack & backdoors generator. | https://github.com/AdrMXR/KitHack | 70 | 22| 
-| 20200711T00:26:51Z | Mouse Framework is an iOS and macOS post-exploitation framework that gives you a command line session with extra functionality between you and a target machine using only a simple Mouse payload. Mouse gives you the power and convenience of uploading and downloading files, tab completion, taking pictures, location tracking, shell command execution, escalating privileges, password retrieval, and much more. | https://github.com/entynetproject/mouse | 168 | 63| 
 | 20200710T22:15:14Z | Scripts for obtain info remotely of other computer | https://github.com/ZeuPlox/Backdoor-scripts | 0 | 0| 
 | 20200710T20:24:23Z | Gmod Backdoor Scanner Written in C++ | https://github.com/ProtoGrace/Gmod-Backdoor-Scanner | 5 | 1| 
 | 20200710T17:22:24Z | Yet another PHP Obfuscator | https://github.com/Cvar1984/yapo | 0 | 1| 
 | 20200710T17:10:52Z | A Modern Hacking tool in python to control Local Computers by only executing a snake game | https://github.com/Loubaris/Backdoor-Python | 1 | 0| 
 | 20200710T16:45:46Z | Null | https://github.com/Sp3ctr3r/Backdoor | 0 | 0| 
-| 20200710T15:53:36Z | Undetectable & Xor encrypting with custom KEY (FUD Metasploit Rat) bypass Top Antivirus like BitDefender,Malwarebytes,Avast,ESET-NOD32,AVG,... & Automatically Add ICON and MANIFEST to excitable | https://github.com/persianhydra/Xeexe-TopAntivirusEvasion | 81 | 31| 
-| 20200710T15:43:38Z | Contact: Maximilian Bachl, Alexander Hartl. Explores defenses against backdoors and poisoning attacks for Intrusion Detection Systems. | https://github.com/CN-TU/ids-backdoor | 3 | 3| 
 
 
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20200711T01:39:05Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 3033 | 690| 
-| 20200711T01:05:40Z | A fuzz tester for Zint and Okapi. | https://github.com/gredler/zcheck | 0 | 0| 
-| 20200711T01:03:35Z | Smart Greybox Fuzzing (https://thuanpv.github.io/publications/TSE19_aflsmart.pdf) | https://github.com/aflsmart/aflsmart | 355 | 72| 
-| 20200711T01:00:59Z | AFLNet: A Greybox Fuzzer for Network Protocols (https://thuanpv.github.io/publications/AFLNet_ICST20.pdf) | https://github.com/aflnet/aflnet | 239 | 33| 
-| 20200711T00:35:36Z | Fuzz testing corpora for WAVM | https://github.com/WAVM/wavm-fuzz-corpora | 1 | 0| 
-| 20200711T00:17:36Z | OSS-Fuzz - continuous fuzzing of open source software. | https://github.com/google/oss-fuzz | 5381 | 1035| 
-| 20200711T00:04:52Z | A set of utilities for interacting with OSS-Fuzz | https://github.com/rjotwani/oss-fuzz-utils | 0 | 0| 
-| 20200710T23:28:06Z | FuzzyKnights: Protectors of the Forst - 16bit Adventure | https://github.com/mjnrock/fuzzyknights-arcade | 0 | 0| 
-| 20200710T23:14:46Z | A Python program implementing fuzzy matching between two sets of records. | https://github.com/tseastmond/fuzzylink | 0 | 0| 
-| 20200710T22:47:08Z | Rocket game made with pygame to use fuzzy control dynamics | https://github.com/luiz-gatelli/spacex-fuzzy | 0 | 0| 
+| 20200711T11:56:35Z | Ptrace fuzzer experiments | https://github.com/marcinguy/fuzzer | 3 | 0| 
+| 20200711T11:39:41Z | A DirBuster like web fuzzer implemented in Rust. | https://github.com/shhoalex/dirruster | 0 | 0| 
+| 20200711T10:20:21Z | A curated list of different AFL forks and AFL inspired fuzzers with detailed equivalent academic papers with AFL-fuzzing tutorials | https://github.com/Microsvuln/Awesome-AFL | 272 | 31| 
+| 20200711T10:03:30Z | Differential Fuzzer for Ethereum 2.0 | https://github.com/sigp/beacon-fuzz | 26 | 4| 
+| 20200711T09:48:47Z | Fuzzy matching for `company-mode%. | https://github.com/jcs-elpa/company-fuzzy | 30 | 1| 
+| 20200711T07:04:02Z | Fuzzy charrs are fuzzy. | https://github.com/marenubium87/FuzzyCharr | 0 | 0| 
+| 20200711T06:49:33Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 3033 | 690| 
+| 20200711T06:39:07Z | A Powerful and Lightweight URL Fuzzer for Discovering Files and Directories on a Web Server | https://github.com/yxpl32/lotus | 0 | 0| 
+| 20200711T06:14:47Z | OSS-Fuzz - continuous fuzzing of open source software. | https://github.com/google/oss-fuzz | 5383 | 1035| 
+| 20200711T05:58:14Z | Security oriented software fuzzer. Supports evolutionary, feedback-driven fuzzing based on code coverage (SW and HW based) | https://github.com/google/honggfuzz | 1921 | 403| 
 
 
 
