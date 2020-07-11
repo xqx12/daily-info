@@ -46,16 +46,16 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20200711T12:24:43Z | CVE-2020-8193 | Citrix ADC Vulns | https://github.com/jas502n/CVE-2020-8193 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 25 MINUTES 21 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200711T11:43:48Z | CVE-2020-5902 | F5 Big-IP CVE-2020-5902 mass exploiter/fuzzer. | https://github.com/d4rk007/F5-Big-IP-CVE-2020-5902-mass-exploiter | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 25 MINUTES 13 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200711T12:50:44Z | CVE-2020-5902 | F5 Big-IP CVE-2020-5902 mass exploiter/fuzzer. | https://github.com/d4rk007/F5-Big-IP-CVE-2020-5902-mass-exploiter | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 00 MINUTES 08 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200711T12:24:43Z | CVE-2020-8193 | Citrix ADC Vulns | https://github.com/jas502n/CVE-2020-8193 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 00 MINUTES 16 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20200711T10:35:11Z | 未知编号 | CVE Data Analysis, CVE Monitor, CVE EXP Prediction Based on Deep Learning. 1999-2020年存量CVE数据分析、监控CVE增量更新、基于深度学习的CVE EXP预测和自动化推送 | https://github.com/404notf0und/CVE-Flow | 未查询到CVE信息| 
-| 20200711T09:43:39Z | cve-2020-5902 | F5 BIG-IP RCE CVE-2020-5902 automatic check tool | https://github.com/theLSA/f5-bigip-rce-cve-2020-5902 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 25 MINUTES 20 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200711T07:54:54Z | CVE-2020-5902 | It is  a small script to fetch out the  subdomains/ip vulnerable to CVE-2020-5902 written in bash | https://github.com/GovindPalakkal/EvilRip | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 25 MINUTES 06 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200711T09:43:39Z | cve-2020-5902 | F5 BIG-IP RCE CVE-2020-5902 automatic check tool | https://github.com/theLSA/f5-bigip-rce-cve-2020-5902 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 00 MINUTES 15 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200711T07:54:54Z | CVE-2020-5902 | It is  a small script to fetch out the  subdomains/ip vulnerable to CVE-2020-5902 written in bash | https://github.com/GovindPalakkal/EvilRip | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  09 HOURS 59 MINUTES 51 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20200711T01:44:26Z | CVE-2020-5902 | Exphub[漏洞利用脚本库] 包括Webloigc、Struts2、Tomcat、Nexus、Solr、Jboss、Drupal的漏洞利用脚本，最新添加CVE-2020-5902、CVE-2020-11444、CVE-2020-10204、CVE-2020-10199、CVE-2020-1938、CVE-2020-2551、CVE-2020-2555、CVE-2020-2883、CVE-2019-17558、CVE-2019-6340 | https://github.com/zhzyker/exphub | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 09 MINUTES 02 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200711T00:58:49Z | CVE-2020-5902 | Mass exploit for CVE-2020-5902 | https://github.com/pwnhacker0x18/CVE-2020-5902-Mass | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 25 MINUTES 22 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200710T18:02:59Z | CVE-2020-11519 | Technical Write-Up on and PoC Exploit for CVE-2020-11519 and CVE-2020-11520 | https://github.com/patois/winmagic_sd | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 25 MINUTES 01 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200710T17:14:14Z | CVE-2020-5902 | F5 BIG IP Scanner for CVE-2020-5902 | https://github.com/halencarjunior/f5scan | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 25 MINUTES 09 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200710T15:31:09Z | CVE-2020-5902 | Checker CVE-2020-5902: BIG-IP versions 15.0.0 through 15.1.0.3, 14.1.0 through 14.1.2.5, 13.1.0 through 13.1.3.3, 12.1.0 through 12.1.5.1, and 11.6.1 through 11.6.5.1 suffer from Traffic Management User Interface (TMUI) arbitrary file read and command execution vulnerabilities. | https://github.com/MrCl0wnLab/checker-CVE-2020-5902 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 25 MINUTES 17 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200711T00:58:49Z | CVE-2020-5902 | Mass exploit for CVE-2020-5902 | https://github.com/pwnhacker0x18/CVE-2020-5902-Mass | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 00 MINUTES 18 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200710T18:02:59Z | CVE-2020-11519 | Technical Write-Up on and PoC Exploit for CVE-2020-11519 and CVE-2020-11520 | https://github.com/patois/winmagic_sd | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  09 HOURS 59 MINUTES 47 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200710T17:14:14Z | CVE-2020-5902 | F5 BIG IP Scanner for CVE-2020-5902 | https://github.com/halencarjunior/f5scan | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  09 HOURS 59 MINUTES 52 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200710T15:31:09Z | CVE-2020-5902 | Checker CVE-2020-5902: BIG-IP versions 15.0.0 through 15.1.0.3, 14.1.0 through 14.1.2.5, 13.1.0 through 13.1.3.3, 12.1.0 through 12.1.5.1, and 11.6.1 through 11.6.5.1 suffer from Traffic Management User Interface (TMUI) arbitrary file read and command execution vulnerabilities. | https://github.com/MrCl0wnLab/checker-CVE-2020-5902 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 00 MINUTES 12 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 
 
 # klee on Github 推荐
@@ -88,6 +88,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20200711T12:55:34Z | LZW is a lossless data compression algorithm capable of exploiting especially the presence of repetitive patterns, in the raw data, and acting a very effective compression. This repository contains some parallel implementations of the algorithm in order to compare them, their performances and to quantify the requested computational resources to get the best outcome. | https://github.com/FedericoBottoni/plzw | 0 | 0| 
+| 20200711T12:50:44Z | F5 Big-IP CVE-2020-5902 mass exploiter/fuzzer. | https://github.com/d4rk007/F5-Big-IP-CVE-2020-5902-mass-exploiter | 1 | 1| 
 | 20200711T12:16:42Z | Exploiting prnt.sc and its poor image hosting URLs. | https://github.com/SpiritedByte/ImageSnatcher | 0 | 0| 
 | 20200711T12:09:22Z | this bash script let you download scripts and clone repos for remote exploits | https://github.com/FabioDefilippo/linuxallremote | 0 | 0| 
 | 20200711T12:08:13Z | Linux Kernel Runtime Guard (LKRG). LKRG performs runtime integrity checking of the Linux kernel and detection of security vulnerability exploits against the kernel. Debian packaging fork only. Fork Homepage: https://www.whonix.org/wiki/Linux_Kernel_Runtime_Guard_LKRG Upstream original: https://www.openwall.com/lkrg/ | https://github.com/Whonix/lkrg | 9 | 3| 
@@ -96,13 +98,12 @@
 | 20200711T09:53:30Z | Exploit Database binary exploits located in the /sploits directory | https://github.com/offensive-security/exploitdb-bin-sploits | 1266 | 446| 
 | 20200711T09:53:29Z | vsftpd 2.3.4 exploit written by c | https://github.com/kishirasuku/vsftpd-2.3.4-exploit-c | 0 | 0| 
 | 20200711T09:32:34Z | *Frequently Updated. Sifter is a osint, recon & vulnerability scanner. It combines a plethara of tools within different module sets in order to quickly perform recon tasks, check network firewalling, enumerate remote and local hosts, and scan for the %blue% vulnerabilities within microsft and if unpatched, exploit them.  It uses tools like blackwidow and konan for webdir enumeration and attack surface mapping rapidly using ASM.  | https://github.com/s1l3nt78/sifter | 184 | 60| 
-| 20200711T09:30:09Z | Null | https://github.com/Psychorot/ParadoxExploitGuncel | 0 | 0| 
-| 20200711T08:52:43Z | Null | https://github.com/Y3M/FreddyExploits | 0 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20200711T12:47:19Z | Null | https://github.com/iK4oS/backdoor.exe | 1 | 0| 
 | 20200711T12:19:53Z | Undetectable & Xor encrypting with custom KEY (FUD Metasploit Rat) bypass Top Antivirus like BitDefender,Malwarebytes,Avast,ESET-NOD32,AVG,... & Automatically Add ICON and MANIFEST to excitable | https://github.com/persianhydra/Xeexe-TopAntivirusEvasion | 81 | 31| 
 | 20200711T11:19:53Z | Mouse Framework is an iOS and macOS post-exploitation framework that gives you a command line session with extra functionality between you and a target machine using only a simple Mouse payload. Mouse gives you the power and convenience of uploading and downloading files, tab completion, taking pictures, location tracking, shell command execution, escalating privileges, password retrieval, and much more. | https://github.com/entynetproject/mouse | 170 | 64| 
 | 20200711T09:11:46Z | A curated list of awesome backdoor learning research | https://github.com/THUYimingLi/awesome-backdoor-learning | 9 | 1| 
@@ -112,12 +113,12 @@
 | 20200710T22:15:14Z | Scripts for obtain info remotely of other computer | https://github.com/ZeuPlox/Backdoor-scripts | 0 | 0| 
 | 20200710T20:24:23Z | Gmod Backdoor Scanner Written in C++ | https://github.com/ProtoGrace/Gmod-Backdoor-Scanner | 5 | 1| 
 | 20200710T17:22:24Z | Yet another PHP Obfuscator | https://github.com/Cvar1984/yapo | 0 | 1| 
-| 20200710T17:10:52Z | A Modern Hacking tool in python to control Local Computers by only executing a snake game | https://github.com/Loubaris/Backdoor-Python | 1 | 0| 
 
 
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20200711T12:50:44Z | F5 Big-IP CVE-2020-5902 mass exploiter/fuzzer. | https://github.com/d4rk007/F5-Big-IP-CVE-2020-5902-mass-exploiter | 1 | 1| 
 | 20200711T12:22:55Z | Security oriented software fuzzer. Supports evolutionary, feedback-driven fuzzing based on code coverage (SW and HW based) | https://github.com/google/honggfuzz | 1922 | 403| 
 | 20200711T12:14:41Z | Ptrace fuzzer experiments | https://github.com/marcinguy/fuzzer | 3 | 0| 
 | 20200711T12:04:35Z | OSS-Fuzz - continuous fuzzing of open source software. | https://github.com/google/oss-fuzz | 5384 | 1035| 
@@ -127,7 +128,6 @@
 | 20200711T09:48:47Z | Fuzzy matching for `company-mode%. | https://github.com/jcs-elpa/company-fuzzy | 30 | 1| 
 | 20200711T07:04:02Z | Fuzzy charrs are fuzzy. | https://github.com/marenubium87/FuzzyCharr | 0 | 0| 
 | 20200711T06:49:33Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 3033 | 690| 
-| 20200711T06:39:07Z | A Powerful and Lightweight URL Fuzzer for Discovering Files and Directories on a Web Server | https://github.com/yxpl32/lotus | 0 | 0| 
 
 
 
