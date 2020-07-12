@@ -23,14 +23,14 @@
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
 | 20200711T23:57:20Z | 未知编号 | CVE Data Analysis, CVE Monitor, CVE EXP Prediction Based on Deep Learning. 1999-2020年存量CVE数据分析、监控CVE增量更新、基于深度学习的CVE EXP预测和自动化推送 | https://github.com/404notf0und/CVE-Flow | 未查询到CVE信息| 
-| 20200711T18:43:38Z | CVE-2020-11519 | Technical Write-Up on and PoC Exploit for CVE-2020-11519 and CVE-2020-11520 | https://github.com/patois/winmagic_sd | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 29 MINUTES 01 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200711T18:38:36Z | cve-2020-5902 | F5 BIG-IP RCE CVE-2020-5902 automatic check tool | https://github.com/theLSA/f5-bigip-rce-cve-2020-5902 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 29 MINUTES 18 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200711T17:35:26Z | CVE-2020-8193 | Citrix ADC Vulns | https://github.com/jas502n/CVE-2020-8193 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 29 MINUTES 20 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200711T14:12:20Z | CVE-2020-5902 | CVE-2020-5902 | https://github.com/Al1ex/CVE-2020-5902 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 28 MINUTES 23 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200711T14:10:14Z | CVE-2020-5902 | F5 Big-IP CVE-2020-5902 mass exploiter/fuzzer. | https://github.com/d4rk007/F5-Big-IP-CVE-2020-5902-mass-exploiter | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 29 MINUTES 12 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200711T07:54:54Z | CVE-2020-5902 | It is  a small script to fetch out the  subdomains/ip vulnerable to CVE-2020-5902 written in bash | https://github.com/GovindPalakkal/EvilRip | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 29 MINUTES 05 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200711T18:43:38Z | CVE-2020-11519 | Technical Write-Up on and PoC Exploit for CVE-2020-11519 and CVE-2020-11520 | https://github.com/patois/winmagic_sd | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 17 MINUTES 37 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200711T18:38:36Z | cve-2020-5902 | F5 BIG-IP RCE CVE-2020-5902 automatic check tool | https://github.com/theLSA/f5-bigip-rce-cve-2020-5902 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 18 MINUTES 16 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200711T17:35:26Z | CVE-2020-8193 | Citrix ADC Vulns | https://github.com/jas502n/CVE-2020-8193 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 18 MINUTES 17 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200711T14:12:20Z | CVE-2020-5902 | CVE-2020-5902 | https://github.com/Al1ex/CVE-2020-5902 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 17 MINUTES 20 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200711T14:10:14Z | CVE-2020-5902 | F5 Big-IP CVE-2020-5902 mass exploiter/fuzzer. | https://github.com/d4rk007/F5-Big-IP-CVE-2020-5902-mass-exploiter | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 18 MINUTES 00 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200711T07:54:54Z | CVE-2020-5902 | It is  a small script to fetch out the  subdomains/ip vulnerable to CVE-2020-5902 written in bash | https://github.com/GovindPalakkal/EvilRip | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 17 MINUTES 42 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20200711T01:44:26Z | CVE-2020-5902 | Exphub[漏洞利用脚本库] 包括Webloigc、Struts2、Tomcat、Nexus、Solr、Jboss、Drupal的漏洞利用脚本，最新添加CVE-2020-5902、CVE-2020-11444、CVE-2020-10204、CVE-2020-10199、CVE-2020-1938、CVE-2020-2551、CVE-2020-2555、CVE-2020-2883、CVE-2019-17558、CVE-2019-6340 | https://github.com/zhzyker/exphub | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 09 MINUTES 02 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200711T00:58:49Z | CVE-2020-5902 | Mass exploit for CVE-2020-5902 | https://github.com/pwnhacker0x18/CVE-2020-5902-Mass | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 29 MINUTES 21 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200711T00:58:49Z | CVE-2020-5902 | Mass exploit for CVE-2020-5902 | https://github.com/pwnhacker0x18/CVE-2020-5902-Mass | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 18 MINUTES 19 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 
 
 # klee on Github 推荐
@@ -49,16 +49,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20200711T23:48:02Z | *Frequently Updated. Sifter is a osint, recon & vulnerability scanner. It combines a plethara of tools within different module sets in order to quickly perform recon tasks, check network firewalling, enumerate remote and local hosts, and scan for the %blue% vulnerabilities within microsft and if unpatched, exploit them.  It uses tools like blackwidow and konan for webdir enumeration and attack surface mapping rapidly using ASM.  | https://github.com/s1l3nt78/sifter | 183 | 60| 
 | 20200711T23:46:25Z | Academic papers related to fuzzing, binary analysis and exploit dev, that I want to read or have already read | https://github.com/0xricksanchez/paper_collection | 93 | 14| 
 | 20200711T23:20:52Z | Bukkit/BungeeCord plugin that aims on fixing Exploits in your Minecraft network. [Requires HamsterAPI to work] | https://github.com/2LStudios-M/ExploitFixer | 34 | 10| 
 | 20200711T22:45:37Z | CTF framework and exploit development library | https://github.com/Gallopsled/pwntools | 6766 | 1258| 
-| 20200711T22:05:13Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 6679 | 1045| 
 | 20200711T19:57:17Z | X Attacker Tool biohazard Website Vulnerability Scanner & Auto Exploiter You can use this tool to check the security by finding the vulnerability in your website or you can use this tool to Get Shells , Sends , Deface , cPanels , Databases All Credits To The Org Owners i Remade The API and added New Exploits To Joomla And Wordpress | https://github.com/NanoSecc/XAttacker-3.0 | 1 | 0| 
 | 20200711T19:42:57Z | Exploiting CNNs in order to classify audio excerpts of UrbanShound8K | https://github.com/andrea-t94/Audio_classification_CNN | 0 | 0| 
 | 20200711T19:42:24Z | Collection of exploits made during my preparation for osce. | https://github.com/Pal1Sec/Exploit-Development | 0 | 0| 
 | 20200711T19:24:40Z | Microsoft » Windows 10 : Security Vulnerabilities | https://github.com/nu11secur1ty/Windows10Exploits | 277 | 72| 
 | 20200711T19:14:59Z | Getting your hand dirty - Hacking- The art of Exploitation codes | https://github.com/AmalPrakash/C-PROGRAMMING--H_TAOE_ERICKSON | 0 | 0| 
+| 20200711T18:47:07Z | Null | https://github.com/iamfarooqh/docker-exploits | 0 | 0| 
+| 20200711T17:59:47Z | Sollaris Exploit Script Hub scripts | https://github.com/SollarisGP/scripts | 0 | 1| 
 
 
 # backdoor on Github 推荐
@@ -79,7 +79,6 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20200711T23:52:51Z | Null | https://github.com/eliyanto29/Fuzzy-Sentiment-Analisis | 0 | 0| 
 | 20200711T23:46:25Z | Academic papers related to fuzzing, binary analysis and exploit dev, that I want to read or have already read | https://github.com/0xricksanchez/paper_collection | 93 | 14| 
 | 20200711T23:41:08Z | This repository is a part of GSoC 2020 project on fuzzing the network stack of NetBSD using rumpkernel | https://github.com/NJnisarg/fuzznetrump | 0 | 1| 
 | 20200711T23:21:03Z | Framework for finding similar rows in a JDBC source | https://github.com/bmiller1009/fuzzy-row-matcher | 0 | 0| 
@@ -89,6 +88,7 @@
 | 20200711T21:21:25Z | Tutorials, examples, discussions, research proposals, and other resources related to fuzzing | https://github.com/google/fuzzing | 1328 | 188| 
 | 20200711T21:21:16Z | OSS-Fuzz - continuous fuzzing of open source software. | https://github.com/google/oss-fuzz | 5385 | 1038| 
 | 20200711T20:09:51Z | Repository holding database dumps from getfursu.it | https://github.com/veelkoov/fuzzrake-data | 0 | 0| 
+| 20200711T19:10:37Z | Null | https://github.com/ben-pick/COMP6447-Fuzzer | 0 | 0| 
 
 
 
