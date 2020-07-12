@@ -46,16 +46,16 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20200712T10:36:22Z | cve-2020-5902 | F5 BIG-IP RCE CVE-2020-5902 automatic check tool | https://github.com/theLSA/f5-bigip-rce-cve-2020-5902 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 59 MINUTES 16 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200712T10:36:22Z | cve-2020-5902 | F5 BIG-IP RCE CVE-2020-5902 automatic check tool | https://github.com/theLSA/f5-bigip-rce-cve-2020-5902 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 52 MINUTES 22 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20200712T10:31:29Z | 未知编号 | CVE Data Analysis, CVE Monitor, CVE EXP Prediction Based on Deep Learning. 1999-2020年存量CVE数据分析、监控CVE增量更新、基于深度学习的CVE EXP预测和自动化推送 | https://github.com/404notf0und/CVE-Flow | 未查询到CVE信息| 
-| 20200712T10:05:46Z | CVE-2020-0796 | CVE-2020-0796. Smbghost Local Privilege Escalation | https://github.com/getdrive/smbghost | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 58 MINUTES 23 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200712T09:46:29Z | CVE-2020-8193 | Citrix ADC Vulns | https://github.com/jas502n/CVE-2020-8193 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 58 MINUTES 18 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200712T09:11:18Z | CVE-2020-7693 | CVE-2020-7693: SockJS 0.3.19 Denial of Service POC | https://github.com/andsnw/sockjs-dos-py | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 58 MINUTES 45 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200712T07:53:49Z | CVE-2020-5902 | 批量扫描CVE-2020-5902，远程代码执行，已测试 | https://github.com/lijiaxing1997/CVE-2020-5902-POC-EXP | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 58 MINUTES 46 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200712T07:49:15Z | CVE-2020-5902 | Null | https://github.com/Shu1L/CVE-2020-5902-fofa-scan | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 58 MINUTES 53 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200712T07:16:19Z | CVE-2020-5902 | Checker CVE-2020-5902: BIG-IP versions 15.0.0 through 15.1.0.3, 14.1.0 through 14.1.2.5, 13.1.0 through 13.1.3.3, 12.1.0 through 12.1.5.1, and 11.6.1 through 11.6.5.1 suffer from Traffic Management User Interface (TMUI) arbitrary file read and command execution vulnerabilities. | https://github.com/MrCl0wnLab/checker-CVE-2020-5902 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 59 MINUTES 01 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200712T00:58:20Z | CVE-2020-11651 | PoC exploit of CVE-2020-11651 and CVE-2020-11652 | https://github.com/jasperla/CVE-2020-11651-poc | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 58 MINUTES 42 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200711T18:43:38Z | CVE-2020-11519 | Technical Write-Up on and PoC Exploit for CVE-2020-11519 and CVE-2020-11520 | https://github.com/patois/winmagic_sd | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 58 MINUTES 44 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200712T10:05:46Z | CVE-2020-0796 | CVE-2020-0796. Smbghost Local Privilege Escalation | https://github.com/getdrive/smbghost | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 52 MINUTES 27 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200712T09:46:29Z | CVE-2020-8193 | Citrix ADC Vulns | https://github.com/jas502n/CVE-2020-8193 | | 
+| 20200712T09:11:18Z | CVE-2020-7693 | CVE-2020-7693: SockJS 0.3.19 Denial of Service POC | https://github.com/andsnw/sockjs-dos-py | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 52 MINUTES 06 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200712T07:53:49Z | CVE-2020-5902 | 批量扫描CVE-2020-5902，远程代码执行，已测试 | https://github.com/lijiaxing1997/CVE-2020-5902-POC-EXP | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 52 MINUTES 08 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200712T07:49:15Z | CVE-2020-5902 | Null | https://github.com/Shu1L/CVE-2020-5902-fofa-scan | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 52 MINUTES 14 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200712T07:16:19Z | CVE-2020-5902 | Checker CVE-2020-5902: BIG-IP versions 15.0.0 through 15.1.0.3, 14.1.0 through 14.1.2.5, 13.1.0 through 13.1.3.3, 12.1.0 through 12.1.5.1, and 11.6.1 through 11.6.5.1 suffer from Traffic Management User Interface (TMUI) arbitrary file read and command execution vulnerabilities. | https://github.com/MrCl0wnLab/checker-CVE-2020-5902 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 52 MINUTES 20 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200712T00:58:20Z | CVE-2020-11651 | PoC exploit of CVE-2020-11651 and CVE-2020-11652 | https://github.com/jasperla/CVE-2020-11651-poc | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 52 MINUTES 04 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200711T18:43:38Z | CVE-2020-11519 | Technical Write-Up on and PoC Exploit for CVE-2020-11519 and CVE-2020-11520 | https://github.com/patois/winmagic_sd | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 52 MINUTES 05 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 
 
 # klee on Github 推荐
@@ -88,8 +88,9 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20200712T12:05:00Z | Null | https://github.com/y5s5k5/HEVD-Exploits | 1 | 0| 
+| 20200712T12:02:30Z | Null | https://github.com/gurugovind600/exploit | 0 | 0| 
 | 20200712T11:36:50Z | This code is an IRC BOT that can connect to an IRC server with SSL The main purpose of this bot is to scan for Open/Unsecured VNC servers. The bot can also search for credit card informations in the computer that the bot is running (removed in last version to optimize compilation process time). Added SSH takeover module/command.. There is also a DDoS module made in Python, for taking out the target from the network. | https://github.com/independentcod/PerlIRCSSL_VNCbypass | 14 | 7| 
-| 20200712T11:01:18Z | Null | https://github.com/y5s5k5/HEVD-Exploits | 0 | 0| 
 | 20200712T10:12:03Z | Blog! | https://github.com/nonetype/nonetype.github.io | 0 | 0| 
 | 20200712T09:27:03Z | exploit code or file | https://github.com/wotmd/CTF_Exploit | 2 | 3| 
 | 20200712T08:39:26Z | My HEVD C++ Exploit | https://github.com/zhuobo/HEVD-C-Exploit | 0 | 0| 
@@ -97,13 +98,12 @@
 | 20200712T08:02:05Z | onifw is a console framework for pentesting | https://github.com/w0bos/onifw | 4 | 0| 
 | 20200712T07:42:13Z | *Frequently Updated. Sifter is a osint, recon & vulnerability scanner. It combines a plethara of tools within different module sets in order to quickly perform recon tasks, check network firewalling, enumerate remote and local hosts, and scan for the %blue% vulnerabilities within microsft and if unpatched, exploit them.  It uses tools like blackwidow and konan for webdir enumeration and attack surface mapping rapidly using ASM.  | https://github.com/s1l3nt78/sifter | 185 | 61| 
 | 20200712T07:37:14Z | CTF framework and exploit development library | https://github.com/Gallopsled/pwntools | 6770 | 1259| 
-| 20200712T07:34:04Z | Official PyTorch implementation of %Puzzle Mix: Exploiting Saliency and Local Statistics for Optimal Mixup% (ICML%20) | https://github.com/snu-mllab/PuzzleMix | 1 | 1| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20200712T11:59:58Z | Null | https://github.com/enomarozi/BackdoorCTF_Writeup | 0 | 0| 
+| 20200712T12:03:49Z | Null | https://github.com/enomarozi/BackdoorCTF_Writeup | 0 | 0| 
 | 20200712T09:32:39Z | Undetectable & Xor encrypting with custom KEY (FUD Metasploit Rat) bypass Top Antivirus like BitDefender,Malwarebytes,Avast,ESET-NOD32,AVG,... & Automatically Add ICON and MANIFEST to excitable | https://github.com/persianhydra/Xeexe-TopAntivirusEvasion | 83 | 34| 
 | 20200712T09:12:20Z | Null | https://github.com/heegong/socket_python_backdoor | 0 | 0| 
 | 20200712T08:19:35Z | Null | https://github.com/evi1ox/MSSQL_BackDoor | 66 | 7| 
