@@ -38,8 +38,8 @@
 | 20200713T09:40:12Z | CVE-2020- | Null | https://github.com/h3llraiser/CVE-2020---iMind-2 | 未查询到CVE信息| 
 | 20200713T09:39:37Z | CVE-2020- | Null | https://github.com/h3llraiser/CVE-2020---iMind-1 | 未查询到CVE信息| 
 | 20200713T09:22:55Z | cve-2020-5902 | F5 BIG-IP RCE CVE-2020-5902 automatic check tool | https://github.com/theLSA/f5-bigip-rce-cve-2020-5902 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 28 MINUTES 20 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200713T08:20:12Z | CVE-2020-5902 | It is  a small script to fetch out the  subdomains/ip vulnerable to CVE-2020-5902 written in bash | https://github.com/GovindPalakkal/EvilRip | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 29 MINUTES 08 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200713T05:46:12Z | CVE-2020-11519 | Technical Write-Up on and PoC Exploit for CVE-2020-11519 and CVE-2020-11520 | https://github.com/patois/winmagic_sd | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 29 MINUTES 05 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200713T08:20:12Z | CVE-2020-5902 | It is  a small script to fetch out the  subdomains/ip vulnerable to CVE-2020-5902 written in bash | https://github.com/GovindPalakkal/EvilRip | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 28 MINUTES 11 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200713T05:46:12Z | CVE-2020-11519 | Technical Write-Up on and PoC Exploit for CVE-2020-11519 and CVE-2020-11520 | https://github.com/patois/winmagic_sd | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 28 MINUTES 08 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 
 
 # klee on Github 推荐
@@ -58,9 +58,9 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20200713T12:31:59Z | Academic papers related to fuzzing, binary analysis and exploit dev, that I want to read or have already read | https://github.com/0xricksanchez/paper_collection | 173 | 21| 
 | 20200713T11:41:28Z | Oraxen is a minecraft plugin which allows to easily exploit Minecraft 1.14 new features in order to create new items with custom textures. It handles the resourcepack generation, upload (using Polymath) , is fully open source and has an extensible API. | https://github.com/oraxen/Oraxen | 62 | 12| 
 | 20200713T11:35:25Z | Computer Network Exploitation (CNE) Field Manual | https://github.com/mzet-/z-field-manual | 0 | 0| 
-| 20200713T11:11:06Z | Academic papers related to fuzzing, binary analysis and exploit dev, that I want to read or have already read | https://github.com/0xricksanchez/paper_collection | 172 | 21| 
 | 20200713T11:06:54Z | this bash script let you download scripts and clone repos for remote exploits | https://github.com/FabioDefilippo/linuxallremote | 0 | 0| 
 | 20200713T10:33:10Z | this  bash script lets you choose a linux enumeration script, exploitation and utilities. read README.md file to learn about this script.. | https://github.com/FabioDefilippo/linuxallenum | 0 | 0| 
 | 20200713T10:08:12Z | xcube is a Python package for generating and exploiting data cubes powered by xarray, dask, and zarr. | https://github.com/dcs4cop/xcube | 59 | 10| 
@@ -83,10 +83,10 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20200713T12:32:25Z | Academic papers related to fuzzing, binary analysis and exploit dev, that I want to read or have already read | https://github.com/0xricksanchez/paper_collection | 174 | 21| 
 | 20200713T12:30:28Z | Null | https://github.com/2fgone/ospn_key_fuzzer | 0 | 0| 
 | 20200713T12:16:20Z | euromillions statistic | https://github.com/C00lWizard1/fuzzy-octo-guide | 0 | 0| 
 | 20200713T11:19:48Z | Fuzzing the linkers | https://github.com/nikolajsamsonow/ftl | 0 | 0| 
-| 20200713T11:11:06Z | Academic papers related to fuzzing, binary analysis and exploit dev, that I want to read or have already read | https://github.com/0xricksanchez/paper_collection | 172 | 21| 
 | 20200713T11:03:13Z | A Fuzzing Framework for ESP32 applications | https://github.com/MaxCamillo/esp32-fuzzing-framework | 0 | 0| 
 | 20200713T11:01:19Z | A JavaScript Engine Fuzzer | https://github.com/googleprojectzero/fuzzilli | 949 | 154| 
 | 20200713T10:53:42Z | Fast web fuzzer written in Go | https://github.com/ffuf/ffuf | 2445 | 286| 
