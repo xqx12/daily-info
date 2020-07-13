@@ -34,12 +34,12 @@
 | 20200713T11:43:23Z | CVE-2020-8193 | Citrix ADC Vulns | https://github.com/jas502n/CVE-2020-8193 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 40 MINUTES 22 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20200713T11:43:09Z | CVE-2020-8193 | Citrix ADC从权限绕过到RCE | https://github.com/Airboi/Citrix-ADC-RCE-CVE-2020-8193 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 40 MINUTES 27 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20200713T11:05:32Z | 未知编号 | CVE Data Analysis, CVE Monitor, CVE EXP Prediction Based on Deep Learning. 1999-2020年存量CVE数据分析、监控CVE增量更新、基于深度学习的CVE EXP预测和自动化推送 | https://github.com/404notf0und/CVE-Flow | 未查询到CVE信息| 
-| 20200713T11:01:49Z | CVE-2020-8193 | Scanning for CVE-2020-8193 - Auth Bypass check | https://github.com/PR3R00T/CVE-2020-8193-Citrix-Scanner | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 40 MINUTES 31 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200713T11:01:49Z | CVE-2020-8193 | Scanning for CVE-2020-8193 - Auth Bypass check | https://github.com/PR3R00T/CVE-2020-8193-Citrix-Scanner | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 39 MINUTES 24 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20200713T09:40:12Z | CVE-2020- | Null | https://github.com/h3llraiser/CVE-2020---iMind-2 | 未查询到CVE信息| 
 | 20200713T09:39:37Z | CVE-2020- | Null | https://github.com/h3llraiser/CVE-2020---iMind-1 | 未查询到CVE信息| 
 | 20200713T09:22:55Z | cve-2020-5902 | F5 BIG-IP RCE CVE-2020-5902 automatic check tool | https://github.com/theLSA/f5-bigip-rce-cve-2020-5902 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 40 MINUTES 21 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200713T08:20:12Z | CVE-2020-5902 | It is  a small script to fetch out the  subdomains/ip vulnerable to CVE-2020-5902 written in bash | https://github.com/GovindPalakkal/EvilRip | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 41 MINUTES 07 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200713T05:46:12Z | CVE-2020-11519 | Technical Write-Up on and PoC Exploit for CVE-2020-11519 and CVE-2020-11520 | https://github.com/patois/winmagic_sd | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 41 MINUTES 05 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200713T08:20:12Z | CVE-2020-5902 | It is  a small script to fetch out the  subdomains/ip vulnerable to CVE-2020-5902 written in bash | https://github.com/GovindPalakkal/EvilRip | | 
+| 20200713T05:46:12Z | CVE-2020-11519 | Technical Write-Up on and PoC Exploit for CVE-2020-11519 and CVE-2020-11520 | https://github.com/patois/winmagic_sd | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 40 MINUTES 11 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 
 
 # klee on Github 推荐
@@ -83,6 +83,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20200713T12:19:55Z | Null | https://github.com/2fgone/ospn_key_fuzzer | 0 | 0| 
 | 20200713T12:16:20Z | euromillions statistic | https://github.com/C00lWizard1/fuzzy-octo-guide | 0 | 0| 
 | 20200713T11:19:48Z | Fuzzing the linkers | https://github.com/nikolajsamsonow/ftl | 0 | 0| 
 | 20200713T11:11:06Z | Academic papers related to fuzzing, binary analysis and exploit dev, that I want to read or have already read | https://github.com/0xricksanchez/paper_collection | 172 | 21| 
@@ -92,7 +93,6 @@
 | 20200713T10:06:17Z | This is the repository of the journal paper: Adaptive binarization based on fuzzy integrals. Bardozzo et al.  | https://github.com/lodeguns/FuzzyAdaptiveBinarization | 0 | 0| 
 | 20200713T09:57:43Z | The Book %Generating Software Tests% | https://github.com/uds-se/fuzzingbook | 404 | 79| 
 | 20200713T09:52:19Z | Differential Fuzzer for Ethereum 2.0 | https://github.com/sigp/beacon-fuzz | 26 | 4| 
-| 20200713T09:42:19Z | The fuzzingbook VM | https://github.com/vrthra/VM.Fuzzingbook | 0 | 0| 
 
 
 
