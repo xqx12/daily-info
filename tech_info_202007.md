@@ -19,13 +19,13 @@
 | 20200713 | 用于网络审计和渗透测试的工具的集合dsniff | https://sec.today/pulses/7db0f486-7490-4780-a1fa-b7a3ea05ec5f/| 
 | 20200713 | 用于分析和解析pcap流量包的工具httpdump | https://github.com/hsiafan/httpdump| 
 | 20200713 | 用于网络审计和渗透测试的工具的集合dsniff | https://www.monkey.org/~dugsong/dsniff/| 
+| 20200713 | 内幕：解密隐藏JPEG图像中的数据. | https://blog.nviso.eu/2020/07/13/how-to-embed-secret-data-in-jpeg-files/| 
+| 20200713 | 如何利用Windows事件跟踪（ETW）来检测PPID欺骗和DLL注入。 | https://blog.f-secure.com/detecting-parent-pid-spoofing/| 
 | 20200710 | FreeBSD bsdiff 被发现高危漏洞 | http://www.x41-dsec.de/lab/advisories/x41-2020-006-bspatch/| 
 | 20200710 | Project Zero 研究员 Brandon Azad 对 unc0ver 最新越狱所用 0Day 漏洞的分析 | https://googleprojectzero.blogspot.com/2020/07/how-to-unc0ver-0-day-in-4-hours-or-less.html| 
 | 20200710 | Android 中的特殊攻击面（三）—— 隐蔽的 call 函数 | http://paper.seebug.org/1269/| 
 | 20200710 | F-Secure Labs 的 Attack Detection Workshop 系列文章之信息收集与横向渗透 #1 | https://labs.f-secure.com/blog/attack-detection-fundamentals-discovery-and-lateral-movement-lab-1| 
 | 20200710 | 从反序列化到类型混淆漏洞——记一次 ecshop 实例利用 | https://paper.seebug.org/1267/| 
-| 20200710 | 逆向工程DexGuard，第3部分–代码虚拟化。 | https://www.pnfsoftware.com/blog/reversing-dexguard-virtualization/| 
-| 20200710 | 使用WSL 2的.NET Core调试入门-PreviewPreview | https://marketplace.visualstudio.com/items?itemName=ms-azuretools.Dot-Net-Core-Debugging-With-Wsl2| 
 
 
 # 安全维基 推荐
@@ -46,37 +46,37 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20200713T11:43:23Z | CVE-2020-8193 | Citrix ADC Vulns | https://github.com/jas502n/CVE-2020-8193 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 00 MINUTES 22 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200713T11:43:09Z | CVE-2020-8193 | Citrix ADC从权限绕过到RCE | https://github.com/Airboi/Citrix-ADC-RCE-CVE-2020-8193 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 00 MINUTES 26 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200713T23:28:37Z | CVE-2020-11519 | Technical Write-Up on and PoC Exploit for CVE-2020-11519 and CVE-2020-11520 | https://github.com/patois/winmagic_sd | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 58 MINUTES 10 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200713T16:01:16Z | CVE-2020-8193 | Citrix ADC Vulns | https://github.com/jas502n/CVE-2020-8193 | 13.0-58.30、12.1-57.18、12.0-63.21、11.1-64.14和10.5-70.18之前的Citrix ADC和Citrix Gateway版本中的访问控制不当以及11.1.1a，11.0.3d和10.2.7之前的Citrix SDWAN WAN-OP版本允许未经授权访问某些URL端点。| 
+| 20200713T14:47:04Z | CVE-2020-9047 | Null | https://github.com/norrismw/CVE-2020-9047 | 存在一个漏洞，该漏洞可能允许在运行exacqVision Web Service版本20.06.3.0和更低版本以及exacqVision Enterprise Manager版本20.06.4.0和更低版本的系统上执行未经授权的代码或操作系统命令。具有管理特权的攻击者可能会下载并运行恶意可执行文件，该可执行文件可能允许在系统上注入OS命令。| 
+| 20200713T14:11:51Z | CVE-2020-11651 | PoC exploit of CVE-2020-11651 and CVE-2020-11652 | https://github.com/jasperla/CVE-2020-11651-poc | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 58 MINUTES 08 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200713T11:43:09Z | CVE-2020-8193 | Citrix ADC从权限绕过到RCE | https://github.com/Airboi/Citrix-ADC-RCE-CVE-2020-8193 | 13.0-58.30、12.1-57.18、12.0-63.21、11.1-64.14和10.5-70.18之前的Citrix ADC和Citrix Gateway版本中的访问控制不当以及11.1.1a，11.0.3d和10.2.7之前的Citrix SDWAN WAN-OP版本允许未经授权访问某些URL端点。| 
 | 20200713T11:05:32Z | 未知编号 | CVE Data Analysis, CVE Monitor, CVE EXP Prediction Based on Deep Learning. 1999-2020年存量CVE数据分析、监控CVE增量更新、基于深度学习的CVE EXP预测和自动化推送 | https://github.com/404notf0und/CVE-Flow | 未查询到CVE信息| 
-| 20200713T11:01:49Z | CVE-2020-8193 | Scanning for CVE-2020-8193 - Auth Bypass check | https://github.com/PR3R00T/CVE-2020-8193-Citrix-Scanner | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 00 MINUTES 30 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200713T11:01:49Z | CVE-2020-8193 | Scanning for CVE-2020-8193 - Auth Bypass check | https://github.com/PR3R00T/CVE-2020-8193-Citrix-Scanner | 13.0-58.30、12.1-57.18、12.0-63.21、11.1-64.14和10.5-70.18之前的Citrix ADC和Citrix Gateway版本中的访问控制不当以及11.1.1a，11.0.3d和10.2.7之前的Citrix SDWAN WAN-OP版本允许未经授权访问某些URL端点。| 
 | 20200713T09:40:12Z | CVE-2020- | Null | https://github.com/h3llraiser/CVE-2020---iMind-2 | 未查询到CVE信息| 
 | 20200713T09:39:37Z | CVE-2020- | Null | https://github.com/h3llraiser/CVE-2020---iMind-1 | 未查询到CVE信息| 
-| 20200713T09:22:55Z | cve-2020-5902 | F5 BIG-IP RCE CVE-2020-5902 automatic check tool | https://github.com/theLSA/f5-bigip-rce-cve-2020-5902 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 00 MINUTES 21 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200713T08:20:12Z | CVE-2020-5902 | It is  a small script to fetch out the  subdomains/ip vulnerable to CVE-2020-5902 written in bash | https://github.com/GovindPalakkal/EvilRip | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 00 MINUTES 13 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200713T05:46:12Z | CVE-2020-11519 | Technical Write-Up on and PoC Exploit for CVE-2020-11519 and CVE-2020-11520 | https://github.com/patois/winmagic_sd | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 00 MINUTES 11 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200712T18:05:14Z | CVE-2020-12717 | Code for exploit for CVE-2020-12717 | https://github.com/wabzqem/covidsafe-CVE-2020-12717-exploit | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 48 MINUTES 03 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200713T09:22:55Z | cve-2020-5902 | F5 BIG-IP RCE CVE-2020-5902 automatic check tool | https://github.com/theLSA/f5-bigip-rce-cve-2020-5902 | 在BIG-IP版本15.0.0-15.1.0.3、14.1.0-14.1.2.5、13.1.0-13.1.3.3、12.1.0-12.1.5.1和11.6.1-11.6.5.1中，流量管理用户接口（TMUI），也称为“配置”实用程序，在未公开的页面中具有远程执行代码（RCE）漏洞。| 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20200713T12:34:24Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1432 | 442| 
+| 20200713T23:48:30Z | Create CFGs and compute complexity metrics for Python, C++, and Java code. | https://github.com/hmc-alpaqa/metrinome | 3 | 0| 
+| 20200713T17:28:49Z | Relocatable Addressing Model for KLEE | https://github.com/davidtr1037/klee-ram | 0 | 0| 
+| 20200713T13:37:09Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1433 | 442| 
 | 20200713T10:43:53Z | Null | https://github.com/VaibhaviMarihal14/Kleem-Care | 0 | 0| 
 | 20200712T04:59:27Z | kleene is a library for building regular expression recognition automata - nfas, dfas, and some specialty structures. | https://github.com/davidkellis/kleene | 0 | 0| 
-| 20200711T20:55:10Z | Create CFGs and compute complexity metrics for Python, C++, and Java code. | https://github.com/hmc-alpaqa/metrinome | 3 | 0| 
 | 20200711T17:03:54Z | KLEE%s version of uClibc | https://github.com/klee/klee-uclibc | 26 | 28| 
 | 20200707T22:27:51Z | Null | https://github.com/thierry-tct/KLEE-SEMu | 0 | 0| 
 | 20200706T11:45:24Z | Null | https://github.com/Niemand200/Die-Entstehung-des-Klees | 2 | 0| 
 | 20200704T15:32:01Z | Python module execution timer for application | https://github.com/Edenskull/KleenTimer | 0 | 0| 
 | 20200704T15:28:36Z | ⬇️ File Upload/sharing application, used by thousands of webmasters since 2007.  | https://github.com/kleeja-official/kleeja | 100 | 32| 
-| 20200704T04:41:58Z | A 4chan image browser written in SwiftUI | https://github.com/jackpal/KleeneStar | 8 | 0| 
 
 
 # s2e on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20200713T09:06:14Z | cicd logic and gitlab&github runner, centos base ,whith jdk/python/go, maven/npm,/kubectl/helm | https://github.com/chimeh/cicd-s2e-runner | 0 | 0| 
+| 20200713T15:47:51Z | cicd logic and gitlab&github runner, centos base ,whith jdk/python/go, maven/npm,/kubectl/helm | https://github.com/chimeh/cicd-s2e-runner | 0 | 0| 
 | 20200710T11:39:25Z | Electrical Power Prediction using Deep learning | https://github.com/chykoushik/S2E-dfki-Electrical-Power-Prediction | 1 | 0| 
 | 20200710T11:39:23Z | Null | https://github.com/chykoushik/S2E-dfki-Predict-the-department-wide-sales-for-each-store | 1 | 0| 
 | 20200709T19:26:34Z | This is the main S2E repository. Visit https://s2e.systems/docs to get started. | https://github.com/S2E/s2e | 47 | 17| 
