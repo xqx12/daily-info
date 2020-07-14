@@ -89,16 +89,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20200713T12:49:45Z | OSS-Fuzz - continuous fuzzing of open source software. | https://github.com/google/oss-fuzz | 5387 | 1040| 
-| 20200713T12:42:10Z | Academic papers related to fuzzing, binary analysis and exploit dev, that I want to read or have already read | https://github.com/0xricksanchez/paper_collection | 175 | 21| 
-| 20200713T12:30:28Z | Null | https://github.com/2fgone/ospn_key_fuzzer | 0 | 0| 
-| 20200713T12:16:20Z | euromillions statistic | https://github.com/C00lWizard1/fuzzy-octo-guide | 0 | 0| 
-| 20200713T11:19:48Z | Fuzzing the linkers | https://github.com/nikolajsamsonow/ftl | 0 | 0| 
-| 20200713T11:03:13Z | A Fuzzing Framework for ESP32 applications | https://github.com/MaxCamillo/esp32-fuzzing-framework | 0 | 0| 
-| 20200713T11:01:19Z | A JavaScript Engine Fuzzer | https://github.com/googleprojectzero/fuzzilli | 949 | 154| 
-| 20200713T10:53:42Z | Fast web fuzzer written in Go | https://github.com/ffuf/ffuf | 2445 | 286| 
-| 20200713T10:06:17Z | This is the repository of the journal paper: Adaptive binarization based on fuzzy integrals. Bardozzo et al.  | https://github.com/lodeguns/FuzzyAdaptiveBinarization | 0 | 0| 
-| 20200713T09:57:43Z | The Book %Generating Software Tests% | https://github.com/uds-se/fuzzingbook | 404 | 79| 
+| 20200713T23:18:34Z | Academic papers related to fuzzing, binary analysis, and exploit dev, which I want to read or have already read | https://github.com/0xricksanchez/paper_collection | 196 | 21| 
+| 20200713T23:03:21Z | FuzzBench - Fuzzer benchmarking as a service. | https://github.com/google/fuzzbench | 484 | 66| 
+| 20200713T22:19:55Z | Implementation of the optimal fuzzy partition with centers placing as Voronoi diagrams. | https://github.com/Danleb/OptimalFuzzyPartition | 1 | 0| 
+| 20200713T22:19:41Z | Null | https://github.com/handong32/NicFuzzer | 0 | 0| 
+| 20200713T22:18:21Z | OSS-Fuzz - continuous fuzzing of open source software. | https://github.com/google/oss-fuzz | 5389 | 1041| 
+| 20200713T21:48:13Z | Null | https://github.com/fuzzbin/fuzzbin | 0 | 0| 
+| 20200713T21:47:08Z | Tidal autocoder | https://github.com/tidalcycles/tidal-fuzz | 0 | 0| 
+| 20200713T20:54:43Z | Null | https://github.com/googleinterns/zetasql-fuzzing | 0 | 1| 
+| 20200713T20:49:44Z | Null | https://github.com/fuzzyads/fuzzyads | 0 | 0| 
+| 20200713T20:30:16Z | JQF + Zest: Coverage-guided semantic fuzzing for Java. | https://github.com/rohanpadhye/JQF | 249 | 36| 
 
 
 
