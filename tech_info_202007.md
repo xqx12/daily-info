@@ -47,14 +47,14 @@
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
 | 20200714T10:46:27Z | CVE-2020-8193 | Citrix ADC Vulns | https://github.com/jas502n/CVE-2020-8193 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 57 MINUTES 29 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200714T10:20:17Z | CVE-2020-5902 | Exphub[漏洞利用脚本库] 包括Webloigc、Struts2、Tomcat、Nexus、Solr、Jboss、Drupal的漏洞利用脚本，最新添加CVE-2020-5902、CVE-2020-11444、CVE-2020-10204、CVE-2020-10199、CVE-2020-1938、CVE-2020-2551、CVE-2020-2555、CVE-2020-2883、CVE-2019-17558、CVE-2019-6340 | https://github.com/zhzyker/exphub | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 58 MINUTES 10 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200714T09:10:41Z | cve-2020-5902 | F5 BIG-IP RCE CVE-2020-5902 automatic check tool | https://github.com/theLSA/f5-bigip-rce-cve-2020-5902 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 58 MINUTES 19 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200714T10:20:17Z | CVE-2020-5902 | Exphub[漏洞利用脚本库] 包括Webloigc、Struts2、Tomcat、Nexus、Solr、Jboss、Drupal的漏洞利用脚本，最新添加CVE-2020-5902、CVE-2020-11444、CVE-2020-10204、CVE-2020-10199、CVE-2020-1938、CVE-2020-2551、CVE-2020-2555、CVE-2020-2883、CVE-2019-17558、CVE-2019-6340 | https://github.com/zhzyker/exphub | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 57 MINUTES 18 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200714T09:10:41Z | cve-2020-5902 | F5 BIG-IP RCE CVE-2020-5902 automatic check tool | https://github.com/theLSA/f5-bigip-rce-cve-2020-5902 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 57 MINUTES 28 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20200714T08:13:33Z | CVE-2020-5902 | CVE-2020-5902 | https://github.com/Al1ex/CVE-2020-5902 | | 
 | 20200714T06:20:46Z | 未知编号 | CVE Data Analysis, CVE Monitor, CVE EXP Prediction Based on Deep Learning. 1999-2020年存量CVE数据分析、监控CVE增量更新、基于深度学习的CVE EXP预测和自动化推送 | https://github.com/404notf0und/CVE-Flow | 未查询到CVE信息| 
 | 20200714T03:49:08Z | CVE-2020-0796 | CVE-2020-0796. Smbghost Local Privilege Escalation | https://github.com/getdrive/smbghost | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 57 MINUTES 32 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20200714T02:42:41Z | CVE-2020-1948 | [CVE-2020-1948] Apache Dubbo Provider default deserialization cause RCE | https://github.com/L0kiii/Dubbo-deserialization | 未查询到CVE信息| 
-| 20200713T23:28:37Z | CVE-2020-11519 | Technical Write-Up on and PoC Exploit for CVE-2020-11519 and CVE-2020-11520 | https://github.com/patois/winmagic_sd | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 58 MINUTES 12 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200713T14:47:04Z | CVE-2020-9047 | Null | https://github.com/norrismw/CVE-2020-9047 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 57 MINUTES 38 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200713T23:28:37Z | CVE-2020-11519 | Technical Write-Up on and PoC Exploit for CVE-2020-11519 and CVE-2020-11520 | https://github.com/patois/winmagic_sd | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 57 MINUTES 20 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200713T14:47:04Z | CVE-2020-9047 | Null | https://github.com/norrismw/CVE-2020-9047 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 56 MINUTES 38 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20200713T14:11:51Z | CVE-2020-11651 | PoC exploit of CVE-2020-11651 and CVE-2020-11652 | https://github.com/jasperla/CVE-2020-11651-poc | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  20 HOURS 54 MINUTES 13 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 
 
@@ -103,16 +103,16 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20200714T00:39:23Z | Null | https://github.com/evi1ox/MSSQL_BackDoor | 77 | 12| 
+| 20200714T08:51:45Z | papers for incentive and backdoor research in federated learning. | https://github.com/GillHwang/federated-learning-incentive-backdoor | 0 | 0| 
+| 20200714T08:30:43Z | A great backdoor written in python | https://github.com/MR-TN/PYbackdoor | 1 | 0| 
+| 20200714T06:02:50Z | Null | https://github.com/evi1ox/MSSQL_BackDoor | 79 | 13| 
+| 20200714T03:24:51Z | Null | https://github.com/kaidi-jin/backdoor_samples_detection | 1 | 0| 
 | 20200713T17:47:08Z | KuroSploit is an exploit tool, KuroSploit provides an easy way to create backdoors and payload. | https://github.com/pikpikcu/kurosploit | 1 | 0| 
 | 20200713T14:29:24Z | Pequeño backdoor escrito en C para realizar ataques en Windows 10  | https://github.com/danilodiez/Backdoor_en_C | 0 | 0| 
-| 20200713T14:22:22Z | Null | https://github.com/kaidi-jin/backdoor_samples_detection | 1 | 0| 
 | 20200713T13:33:24Z | A curated list of awesome backdoor learning research | https://github.com/THUYimingLi/awesome-backdoor-learning | 10 | 1| 
 | 20200713T13:03:44Z | The most complete Phishing Tool, with 32 templates +1 customizable. Usage of BackDoor for attacking targets without prior mutual consent is illegal. It%s the end user%s responsibility to obey all applicable local, state and federal laws. Developers assume no liability and are not responsible for any misuse or damage caused by this program. | https://github.com/murkworld/BackDoor | 0 | 0| 
 | 20200713T12:38:34Z | Repository for all the code related to Learn Python & Ethical Hacking From Scratch course. All the work is done on Kali Linux, using both Python 2.7 and 3.x version. | https://github.com/Maffey/ethical-hacking-course | 0 | 0| 
 | 20200713T12:16:52Z | Null | https://github.com/iK4oS/backdoor.exe | 1 | 0| 
-| 20200713T09:50:50Z | This is a basic post-exploitation linux backdoor program that I created purely for educational purposes in order to learn more about cybersecurity. This program should never be executed on any production system, nor should it be used for nefarious or illegal purposes. | https://github.com/nihaal-prasad/Basic-Linux-Backdoor | 0 | 0| 
-| 20200712T22:18:44Z | backdoor key to kafka topics | https://github.com/dixel/kafkus | 16 | 1| 
 
 
 # fuzz on Github 推荐
