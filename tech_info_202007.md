@@ -46,16 +46,16 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20200713T23:28:37Z | CVE-2020-11519 | Technical Write-Up on and PoC Exploit for CVE-2020-11519 and CVE-2020-11520 | https://github.com/patois/winmagic_sd | | 
-| 20200713T16:01:16Z | CVE-2020-8193 | Citrix ADC Vulns | https://github.com/jas502n/CVE-2020-8193 | | 
-| 20200713T14:47:04Z | CVE-2020-9047 | Null | https://github.com/norrismw/CVE-2020-9047 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 10 MINUTES 19 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200713T14:11:51Z | CVE-2020-11651 | PoC exploit of CVE-2020-11651 and CVE-2020-11652 | https://github.com/jasperla/CVE-2020-11651-poc | | 
-| 20200713T11:43:09Z | CVE-2020-8193 | Citrix ADC从权限绕过到RCE | https://github.com/Airboi/Citrix-ADC-RCE-CVE-2020-8193 | | 
-| 20200713T11:05:32Z | 未知编号 | CVE Data Analysis, CVE Monitor, CVE EXP Prediction Based on Deep Learning. 1999-2020年存量CVE数据分析、监控CVE增量更新、基于深度学习的CVE EXP预测和自动化推送 | https://github.com/404notf0und/CVE-Flow | 未查询到CVE信息| 
-| 20200713T11:01:49Z | CVE-2020-8193 | Scanning for CVE-2020-8193 - Auth Bypass check | https://github.com/PR3R00T/CVE-2020-8193-Citrix-Scanner | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 09 MINUTES 53 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200713T09:40:12Z | CVE-2020- | Null | https://github.com/h3llraiser/CVE-2020---iMind-2 | 未查询到CVE信息| 
+| 20200713T23:28:37Z | CVE-2020-11519 | Technical Write-Up on and PoC Exploit for CVE-2020-11519 and CVE-2020-11520 | https://github.com/patois/winmagic_sd | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  20 HOURS 55 MINUTES 15 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200713T16:01:16Z | CVE-2020-8193 | Citrix ADC Vulns | https://github.com/jas502n/CVE-2020-8193 | 未查询到CVE信息| 
+| 20200713T14:47:04Z | CVE-2020-9047 | Null | https://github.com/norrismw/CVE-2020-9047 | 未查询到CVE信息| 
+| 20200713T14:11:51Z | CVE-2020-11651 | PoC exploit of CVE-2020-11651 and CVE-2020-11652 | https://github.com/jasperla/CVE-2020-11651-poc | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  20 HOURS 55 MINUTES 14 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200713T11:43:09Z | CVE-2020-8193 | Citrix ADC从权限绕过到RCE | https://github.com/Airboi/Citrix-ADC-RCE-CVE-2020-8193 | 未查询到CVE信息| 
+| 20200713T11:05:32Z | 未知编号 | CVE Data Analysis, CVE Monitor, CVE EXP Prediction Based on Deep Learning. 1999-2020年存量CVE数据分析、监控CVE增量更新、基于深度学习的CVE EXP预测和自动化推送 | https://github.com/404notf0und/CVE-Flow | | 
+| 20200713T11:01:49Z | CVE-2020-8193 | Scanning for CVE-2020-8193 - Auth Bypass check | https://github.com/PR3R00T/CVE-2020-8193-Citrix-Scanner | 未查询到CVE信息| 
+| 20200713T09:40:12Z | CVE-2020- | Null | https://github.com/h3llraiser/CVE-2020---iMind-2 | | 
 | 20200713T09:39:37Z | CVE-2020- | Null | https://github.com/h3llraiser/CVE-2020---iMind-1 | 未查询到CVE信息| 
-| 20200713T09:22:55Z | cve-2020-5902 | F5 BIG-IP RCE CVE-2020-5902 automatic check tool | https://github.com/theLSA/f5-bigip-rce-cve-2020-5902 | | 
+| 20200713T09:22:55Z | cve-2020-5902 | F5 BIG-IP RCE CVE-2020-5902 automatic check tool | https://github.com/theLSA/f5-bigip-rce-cve-2020-5902 | 未查询到CVE信息| 
 
 
 # klee on Github 推荐
@@ -76,7 +76,7 @@
 # s2e on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20200713T15:47:51Z | cicd logic and gitlab&github runner, centos base ,whith jdk/python/go, maven/npm,/kubectl/helm | https://github.com/chimeh/cicd-s2e-runner | 0 | 0| 
+| 20200714T01:53:05Z | cicd logic and gitlab&github runner, centos base ,whith jdk/python/go, maven/npm,/kubectl/helm | https://github.com/chimeh/cicd-s2e-runner | 0 | 0| 
 | 20200710T11:39:25Z | Electrical Power Prediction using Deep learning | https://github.com/chykoushik/S2E-dfki-Electrical-Power-Prediction | 1 | 0| 
 | 20200710T11:39:23Z | Null | https://github.com/chykoushik/S2E-dfki-Predict-the-department-wide-sales-for-each-store | 1 | 0| 
 | 20200709T19:26:34Z | This is the main S2E repository. Visit https://s2e.systems/docs to get started. | https://github.com/S2E/s2e | 47 | 17| 
@@ -88,7 +88,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20200714T01:50:04Z | *Frequently Updated. Sifter is a osint, recon & vulnerability scanner. It combines a plethara of tools within different module sets in order to quickly perform recon tasks, check network firewalling, enumerate remote and local hosts, and scan for the %blue% vulnerabilities within microsft and if unpatched, exploit them.  It uses tools like blackwidow and konan for webdir enumeration and attack surface mapping rapidly using ASM.  | https://github.com/s1l3nt78/sifter | 186 | 62| 
+| 20200714T01:55:03Z | *Frequently Updated. Sifter is a osint, recon & vulnerability scanner. It combines a plethara of tools within different module sets in order to quickly perform recon tasks, check network firewalling, enumerate remote and local hosts, and scan for the %blue% vulnerabilities within microsft and if unpatched, exploit them.  It uses tools like blackwidow and konan for webdir enumeration and attack surface mapping rapidly using ASM.  | https://github.com/s1l3nt78/sifter | 186 | 62| 
 | 20200714T01:07:12Z | A UI library for Roblox. (Specifically for Synapse-X, a Roblox exploit.) | https://github.com/AnEverydayZomby/AEZLib | 0 | 0| 
 | 20200714T00:48:17Z | Advanced Windows Exploitation/Offensive Security Exploitation Expert Preparation for Black Hat 2021 | https://github.com/connormcgarr/AWE-OSEE-Prep | 84 | 56| 
 | 20200714T00:47:32Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 3 | 1| 
