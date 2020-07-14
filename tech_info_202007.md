@@ -46,16 +46,16 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20200713T23:28:37Z | CVE-2020-11519 | Technical Write-Up on and PoC Exploit for CVE-2020-11519 and CVE-2020-11520 | https://github.com/patois/winmagic_sd | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 57 MINUTES 02 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200713T16:01:16Z | CVE-2020-8193 | Citrix ADC Vulns | https://github.com/jas502n/CVE-2020-8193 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 56 MINUTES 57 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200713T14:47:04Z | CVE-2020-9047 | Null | https://github.com/norrismw/CVE-2020-9047 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 57 MINUTES 07 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200713T14:11:51Z | CVE-2020-11651 | PoC exploit of CVE-2020-11651 and CVE-2020-11652 | https://github.com/jasperla/CVE-2020-11651-poc | | 
-| 20200713T11:43:09Z | CVE-2020-8193 | Citrix ADC从权限绕过到RCE | https://github.com/Airboi/Citrix-ADC-RCE-CVE-2020-8193 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 57 MINUTES 02 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200713T11:05:32Z | 未知编号 | CVE Data Analysis, CVE Monitor, CVE EXP Prediction Based on Deep Learning. 1999-2020年存量CVE数据分析、监控CVE增量更新、基于深度学习的CVE EXP预测和自动化推送 | https://github.com/404notf0und/CVE-Flow | | 
-| 20200713T11:01:49Z | CVE-2020-8193 | Scanning for CVE-2020-8193 - Auth Bypass check | https://github.com/PR3R00T/CVE-2020-8193-Citrix-Scanner | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 57 MINUTES 05 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200713T09:40:12Z | CVE-2020- | Null | https://github.com/h3llraiser/CVE-2020---iMind-2 | | 
+| 20200713T23:28:37Z | CVE-2020-11519 | Technical Write-Up on and PoC Exploit for CVE-2020-11519 and CVE-2020-11520 | https://github.com/patois/winmagic_sd | | 
+| 20200713T16:01:16Z | CVE-2020-8193 | Citrix ADC Vulns | https://github.com/jas502n/CVE-2020-8193 | | 
+| 20200713T14:47:04Z | CVE-2020-9047 | Null | https://github.com/norrismw/CVE-2020-9047 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 55 MINUTES 33 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200713T14:11:51Z | CVE-2020-11651 | PoC exploit of CVE-2020-11651 and CVE-2020-11652 | https://github.com/jasperla/CVE-2020-11651-poc | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 55 MINUTES 11 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200713T11:43:09Z | CVE-2020-8193 | Citrix ADC从权限绕过到RCE | https://github.com/Airboi/Citrix-ADC-RCE-CVE-2020-8193 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 55 MINUTES 28 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200713T11:05:32Z | 未知编号 | CVE Data Analysis, CVE Monitor, CVE EXP Prediction Based on Deep Learning. 1999-2020年存量CVE数据分析、监控CVE增量更新、基于深度学习的CVE EXP预测和自动化推送 | https://github.com/404notf0und/CVE-Flow | 未查询到CVE信息| 
+| 20200713T11:01:49Z | CVE-2020-8193 | Scanning for CVE-2020-8193 - Auth Bypass check | https://github.com/PR3R00T/CVE-2020-8193-Citrix-Scanner | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 55 MINUTES 32 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200713T09:40:12Z | CVE-2020- | Null | https://github.com/h3llraiser/CVE-2020---iMind-2 | 未查询到CVE信息| 
 | 20200713T09:39:37Z | CVE-2020- | Null | https://github.com/h3llraiser/CVE-2020---iMind-1 | 未查询到CVE信息| 
-| 20200713T09:22:55Z | cve-2020-5902 | F5 BIG-IP RCE CVE-2020-5902 automatic check tool | https://github.com/theLSA/f5-bigip-rce-cve-2020-5902 | | 
+| 20200713T09:22:55Z | cve-2020-5902 | F5 BIG-IP RCE CVE-2020-5902 automatic check tool | https://github.com/theLSA/f5-bigip-rce-cve-2020-5902 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 55 MINUTES 22 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 
 
 # klee on Github 推荐
@@ -88,12 +88,12 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20200714T01:04:13Z | *Frequently Updated. Sifter is a osint, recon & vulnerability scanner. It combines a plethara of tools within different module sets in order to quickly perform recon tasks, check network firewalling, enumerate remote and local hosts, and scan for the %blue% vulnerabilities within microsft and if unpatched, exploit them.  It uses tools like blackwidow and konan for webdir enumeration and attack surface mapping rapidly using ASM.  | https://github.com/s1l3nt78/sifter | 186 | 62| 
 | 20200714T00:48:17Z | Advanced Windows Exploitation/Offensive Security Exploitation Expert Preparation for Black Hat 2021 | https://github.com/connormcgarr/AWE-OSEE-Prep | 84 | 56| 
 | 20200714T00:47:32Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 3 | 1| 
 | 20200714T00:28:40Z | random stuff for exploit dev practice | https://github.com/C-Brown/exploit_dev_practice | 0 | 0| 
 | 20200714T00:21:36Z | this bash script let you download scripts and clone repos for remote exploits | https://github.com/FabioDefilippo/linuxallremote | 0 | 0| 
 | 20200713T23:18:34Z | Academic papers related to fuzzing, binary analysis, and exploit dev, which I want to read or have already read | https://github.com/0xricksanchez/paper_collection | 196 | 21| 
-| 20200713T23:12:51Z | *Frequently Updated. Sifter is a osint, recon & vulnerability scanner. It combines a plethara of tools within different module sets in order to quickly perform recon tasks, check network firewalling, enumerate remote and local hosts, and scan for the %blue% vulnerabilities within microsft and if unpatched, exploit them.  It uses tools like blackwidow and konan for webdir enumeration and attack surface mapping rapidly using ASM.  | https://github.com/s1l3nt78/sifter | 186 | 62| 
 | 20200713T22:24:10Z | The House of Carbs is a system that automatically estimates and dispenses the amount of juice (or similar) according to the current patients% blood glucose values. The system is remotely accessible and customizable from a chatbot, exploits sensors and actuators to dispense the necessary amount of liquid carbohydrates. It relies on a cloud solution (Nightscout) to acquire the patient%s blood glucose values, which are constantly updated thanks to a commercial wearable continuous glucose monitor (CGM). | https://github.com/pra008/house-of-carbs | 0 | 0| 
 | 20200713T22:06:24Z | CTFs solutions and tips related to binary exploitation. | https://github.com/MaherAzzouzi/PWNing | 1 | 3| 
 | 20200713T21:36:02Z | Null | https://github.com/3salaz/meta-exploits | 0 | 0| 
