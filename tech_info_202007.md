@@ -6,6 +6,19 @@
 # 玄武实验室 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20200715 | ERICLAW 对 Web 代理自动发现协议（WPAD）的介绍 | https://textslashplain.com/2020/07/14/web-proxy-auto-discovery/| 
+| 20200715 | Check Point 对 Windows DNS Server 今天修复的蠕虫级高危 RCE 漏洞的分析 | https://research.checkpoint.com/2020/resolving-your-way-into-domain-admin-exploiting-a-17-year-old-bug-in-windows-dns-servers/| 
+| 20200715 | Intel/AMD 图形显卡驱动被发现多个高危漏洞 | https://blog.talosintelligence.com/2020/07/vuln-spotlight-intel-amd-microsoft-july-2020.html?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+feedburner%2FTalos+%28Talos%E2%84%A2+Blog%29| 
+| 20200715 | 基于 ee-outliers 开源框架，利用机器学习的方法从日志中检测威胁行为 | https://blog.nviso.eu/2020/07/14/using-word2vec-to-find-the-word-that-doesnt-belong/| 
+| 20200715 | Windows DNS Server 发布高危 RCE 漏洞补丁更新（CVE-2020-1350） | http://msrc-blog.microsoft.com/2020/07/14/july-2020-security-update-cve-2020-1350-vulnerability-in-windows-domain-name-system-dns-server/| 
+| 20200715 | 美高梅酒店集团泄漏的 1.42 亿用户的信息在暗网被出售 | https://threatpost.com/leaked-details-142-million-mgm-hotel-guests/157402/| 
+| 20200715 | F5 BIG-IP hsqldb(CVE-2020-5902) 漏洞复现过程 | https://paper.seebug.org/1271/| 
+| 20200715 | 如何在Excel中更好地隐藏恶意宏代码 | https://github.com/1d8/macros| 
+| 20200715 | Windows热修补机制介绍 | https://dev.to/pelock/windows-hot-patching-mechanism-explained-2m1f| 
+| 20200715 | ESET研究员发现一种聊天恶意软件，既能对受害者进行间谍监视又泄漏其数据 | https://sec.today/pulses/44f0c446-4490-4887-9eac-5fa47910d922/| 
+| 20200715 | 巴西银行木马Tetrade正在全球范围内扩散 | https://sec.today/pulses/6f094356-923d-45f2-b2c2-c0e8ce882bd0/| 
+| 20200715 | 如何防止Python Web应用程序中的HTML电子邮件注入 | https://sec.today/pulses/0c335b09-b2b0-44f1-bddd-27096594cef3/| 
+| 20200715 | 具有单向TCP流跟踪的DDoS保护工具flowtrackd | https://sec.today/pulses/991343d3-f9a5-446f-9b3a-b1a053023d4c/| 
 | 20200714 | Paper《Protecting Wi-Fi Beacons from Outsider Forgeries》 | https://papers.mathyvanhoef.com/wisec2020.pdf| 
 | 20200714 | 去年 PoC 会议的一个议题《Using Fault Injection to Turn Data Transfers into Arbitrary Execution》 | https://raelize.com/upload/using-fault-injection-for-turning-data-transfers-into-arbitrary-execution-poc2019-slides-1.0.pdf| 
 | 20200714 | Driver Store Explorer - 从 Driver Store 中枚举、安装、删除 Driver Package 的工具 | https://github.com/lostindark/DriverStoreExplorer| 
@@ -13,55 +26,42 @@
 | 20200714 | CDATA OLT 光纤设备固件被发现多个高危漏洞 | https://pierrekim.github.io/blog/2020-07-07-cdata-olt-0day-vulnerabilities.html| 
 | 20200714 | 分析DarkHotel 和 Magnitude EK 对CVE-2019-1367 的在野利用情况 | http://blog.confiant.com/internet-explorer-cve-2019-1367-in-the-wild-exploitation-prelude-ef546f19cd30| 
 | 20200714 | 可轻松执行Padding Oracle（填充Oracle）攻击的CLI工具和库 | https://www.kitploit.com/2020/07/padding-oracle-attacker-cli-tool-and.html| 
-| 20200714 | TrickBot的BazarBackdoor模块域名生成算法解析 | https://johannesbader.ch/blog/the-dga-of-bazarbackdoor/| 
-| 20200714 | 过SSH或RDP进行远程渗透测试的Docker容器-AriaCloud | https://github.com/iknowjason/AriaCloud| 
-| 20200714 | 恶意软件常用的dll注入技术视频教程 | https://sec.today/pulses/200ca482-cda8-4095-b5eb-cd309736ca25/| 
-| 20200714 | 一种隐藏恶意内存的新技术Phantom DLL hollowing | https://sec.today/pulses/00240832-0b12-4af3-8c38-ace8ac9c5399/| 
-| 20200714 | 恶意软件常用的dll注入技术视频教程 | http://www.debasish.in/2020/07/dll-injection-explained-in-10-minutes.html?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+debasish%2FEYdX+%28Debasish+Mandal%27s+Blog%29| 
-| 20200714 | 一种隐藏恶意内存的新技术Phantom DLL hollowing | https://securityboulevard.com/2020/07/masking-malicious-memory-artifacts-part-i-phantom-dll-hollowing/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+SecurityBloggersNetwork+%28Security+Bloggers+Network%29| 
-| 20200714 | X64Dbg-Windows的开源X64 / X32位逆向分析调试器。 | https://www.kitploit.com/2020/07/x64dbg-open-source-x64x32-debugger-for.html| 
-| 20200713 | WebView - Androids most convenient footgun | https://byte.how/posts/webview-androids-most-convenient-footgun/| 
-| 20200713 | 通过 53/udp 端口回传命令执行结果的 PowerShell 脚本 | https://gist.github.com/FlameOfIgnis/7a6121e4e75e34aa54cd1b2272a59683| 
-| 20200713 | Windows 恶意软件分析高级教程 | https://darungrim.com/research/2020-07-10-windows-malware-analysis-process-artifacts.html| 
-| 20200713 | DLL Proxy Loading Your Favourite C# Implant | https://redteaming.co.uk/2020/07/12/dll-proxy-loading-your-favorite-c-implant/| 
-| 20200713 | 用于解析 Procmon 内部文件格式（日志文件、配置文件）的 Python 库 | https://github.com/eronnen/procmon-parser| 
-| 20200713 | 一款可以直接以版本和补丁编号搜索 Windows 二进制文件的在线工具 | https://m417z.com/winbindex/| 
 
 
 # 安全维基 推荐
 | ts | title | url| 
 | --- | --- | ---| 
-| 20200713 | Android 中的特殊攻击面（三）—— 隐蔽的 call 函数 | https://paper.seebug.org/1269/| 
-| 20200713 | SecWiki周刊（第332期) | https://www.sec-wiki.com/weekly/332| 
-| 20200712 | ICS-Protocol-identify: 使用nmap的nse脚本对常见工控协议进行... | https://github.com/hi-KK/ICS-Protocol-identify| 
-| 20200712 | 嵌入式浏览器安全杂谈-electron框架 | https://mp.weixin.qq.com/s/J6eqcPPRp7wn06YQhue_Ug| 
-| 20200712 | 从沙盒逃逸看Python黑科技（下篇） | https://mp.weixin.qq.com/s/zSz4RZ8sfKERSroAUx1X0g| 
-| 20200712 | 从沙盒逃逸看Python黑科技（上篇） | https://mp.weixin.qq.com/s/f5Ra8BtCyEoJmH0gwuvGXg| 
-| 20200711 | 2020年中国网络安全产业统计报告 | http://www.dwcon.cn/upload/2020%E5%B9%B4%E4%B8%AD%E5%9B%BD%E7%BD%91%E7%BB%9C%E5%AE%89%E5%85%A8%E4%BA%A7%E4%B8%9A%E7%BB%9F%E8%AE%A1%E6%8A%A5%E5%91%8A.pdf| 
-| 20200711 | 鱼叉攻击-炮轰马的制作 | https://mp.weixin.qq.com/s/3GLmtGoP-rG1nBBSw_KxkQ| 
-| 20200711 | 方舟编译器环境支持的新浪新闻极速版APP分析 | https://zhuanlan.zhihu.com/p/154438363| 
-| 20200711 | 2020 人工智能白皮书 | https://ncstatic.clewm.net/rsrc/2020/0710/14/f361bbdf4dd9b48fb0459c2849093d44.pdf| 
+| 20200715 | Ex-vivo Dynamic Analysis Framework for Android Device Driv... | https://securitygossip.com/blog/2020/05/22/ex-vivo-dynamic-analysis-framework-for-android-device-drivers/| 
+| 20200715 | GeekPwn 2020 云靶场线上赛部分Web Writeup | http://l-team.org/archives/380.html| 
+| 20200715 | NTLM-SSP: NTLM中高级进阶进阶 | https://github.com/rootclay/NTLM-SSP| 
+| 20200715 | wireshark和威胁分析 | https://xz.aliyun.com/t/7802| 
+| 20200715 | 使用tar1090代替dump1090进行飞机追踪实验 | https://www.92ez.com/?action=show&id=23509| 
+| 20200715 | 密码找回中的套路 | https://xz.aliyun.com/t/7977| 
+| 20200715 | Zigator：分析Zigbee智能家居的安全性 | https://www.anquanke.com/post/id/210403| 
+| 20200715 | 使用 CodeQL 挖掘 CVE-2020-9297 | https://xz.aliyun.com/t/7979| 
+| 20200715 | 信息安全之路入坑指南 | https://security.tencent.com/index.php/blog/msg/155| 
+| 20200715 | 对《数据安全法》的理解和认识 | https://mp.weixin.qq.com/s/yWyrdIrz-KGxmltFoqHFiQ| 
 
 
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20200715T01:59:07Z | CVE-2020-1350 | PoC Checking script | https://github.com/ZephrFish/CVE-2020-1350 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 00 MINUTES 30 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200715T01:10:29Z | CVE-2020-5902 | Exphub[漏洞利用脚本库] 包括Webloigc、Struts2、Tomcat、Nexus、Solr、Jboss、Drupal的漏洞利用脚本，最新添加CVE-2020-5902、CVE-2020-11444、CVE-2020-10204、CVE-2020-10199、CVE-2020-1938、CVE-2020-2551、CVE-2020-2555、CVE-2020-2883、CVE-2019-17558、CVE-2019-6340 | https://github.com/zhzyker/exphub | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 00 MINUTES 13 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200714T23:17:59Z | cve-2020-1350 | Bash Proof-of-Concept (PoC) script to exploit SIGRed (CVE-2020-1350). Achieves Domain Admin on Domain Controllers running Windows Server 2003 up to Windows Server 2019. | https://github.com/tinkersec/cve-2020-1350 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 00 MINUTES 32 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200714T21:38:41Z | CVE-2020-1350 | Null | https://github.com/mr-r3b00t/CVE-2020-1350 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 00 MINUTES 31 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200714T19:30:57Z | CVE-2020-5902 | CVE-2020-5902 BIG-IP | https://github.com/jas502n/CVE-2020-5902 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 00 MINUTES 15 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200714T17:04:29Z | 未知编号 | CVE Data Analysis, CVE Monitor, CVE EXP Prediction Based on Deep Learning. 1999-2020年存量CVE数据分析、监控CVE增量更新、基于深度学习的CVE EXP预测和自动化推送 | https://github.com/404notf0und/CVE-Flow | 未查询到CVE信息| 
-| 20200714T16:37:38Z | CVE-2020-9047 | Null | https://github.com/norrismw/CVE-2020-9047 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 00 MINUTES 28 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200714T15:00:38Z | CVE-2020-8193 | This Metasploit-Framework module can be use to help companies to check the last Citrix vulnerability CVE-2020-8193, CVE-2020-8195 and CVE-2020-8196 (disclosed July 08, 2020). | https://github.com/Zeop-CyberSec/citrix_adc_netscaler_lfi | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 00 MINUTES 23 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200714T10:46:27Z | CVE-2020-8193 | Citrix ADC Vulns | https://github.com/jas502n/CVE-2020-8193 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 00 MINUTES 29 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200714T09:10:41Z | cve-2020-5902 | F5 BIG-IP RCE CVE-2020-5902 automatic check tool | https://github.com/theLSA/f5-bigip-rce-cve-2020-5902 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 00 MINUTES 18 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200715T12:00:25Z | CVE-2020-1350 | Bash Proof-of-Concept (PoC) script to exploit SIGRed (CVE-2020-1350). Achieves Domain Admin on Domain Controllers running Windows Server 2003 up to Windows Server 2019. | https://github.com/ZephrFish/CVE-2020-1350 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 58 MINUTES 27 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200715T11:42:11Z | CVE-2020-7283 | Null | https://github.com/RedyOpsResearchLabs/CVE-2020-7283-McAfee-Total-Protection-MTP-16.0.R26-EoP | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 58 MINUTES 12 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200715T11:38:57Z | CVE-2020-1350 | This Powershell Script is checking if your server is vulnerable for the CVE-2020-1350 Remote Code Execution flaw in the Windows DNS Service | https://github.com/T13nn3s/CVE-2020-1350 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 58 MINUTES 30 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200715T11:36:31Z | CVE-2020-8958 | A proof of concept for CVE-2020-8958 | https://github.com/qurbat/gpon | 未查询到CVE信息| 
+| 20200715T10:49:36Z | cve-2020-1350 | Bash Proof-of-Concept (PoC) script to exploit SIGRed (CVE-2020-1350). Achieves Domain Admin on Domain Controllers running Windows Server 2003 up to Windows Server 2019. | https://github.com/tinkersec/cve-2020-1350 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 58 MINUTES 29 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200715T10:07:29Z | 未知编号 | CVE Data Analysis, CVE Monitor, CVE EXP Prediction Based on Deep Learning. 1999-2020年存量CVE数据分析、监控CVE增量更新、基于深度学习的CVE EXP预测和自动化推送 | https://github.com/404notf0und/CVE-Flow | 未查询到CVE信息| 
+| 20200715T09:40:36Z | cve-2020-5902 | F5 BIG-IP RCE CVE-2020-5902 automatic check tool | https://github.com/theLSA/f5-bigip-rce-cve-2020-5902 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 58 MINUTES 16 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200715T08:57:12Z | CVE-2020-5902 | CVE-2020-5902 BIG-IP | https://github.com/jas502n/CVE-2020-5902 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 58 MINUTES 15 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200715T08:29:35Z | CVE-2020-5902 | Exphub[漏洞利用脚本库] 包括Webloigc、Struts2、Tomcat、Nexus、Solr、Jboss、Drupal的漏洞利用脚本，最新添加CVE-2020-5902、CVE-2020-11444、CVE-2020-10204、CVE-2020-10199、CVE-2020-1938、CVE-2020-2551、CVE-2020-2555、CVE-2020-2883、CVE-2019-17558、CVE-2019-6340 | https://github.com/zhzyker/exphub | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 58 MINUTES 11 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200715T08:02:20Z | CVE-2020-1350 | Null | https://github.com/mr-r3b00t/CVE-2020-1350 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 58 MINUTES 28 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20200714T23:34:21Z | Create CFGs and compute complexity metrics for Python, C++, and Java code. | https://github.com/hmc-alpaqa/metrinome | 3 | 0| 
+| 20200715T09:18:46Z | Create CFGs and compute complexity metrics for Python, C++, and Java code. | https://github.com/hmc-alpaqa/metrinome | 3 | 0| 
 | 20200714T06:18:10Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1434 | 442| 
 | 20200713T17:28:49Z | Relocatable Addressing Model for KLEE | https://github.com/davidtr1037/klee-ram | 0 | 0| 
 | 20200713T10:43:53Z | Null | https://github.com/VaibhaviMarihal14/Kleem-Care | 0 | 0| 
@@ -88,16 +88,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20200715T01:55:43Z | Blog! | https://github.com/nonetype/nonetype.github.io | 0 | 0| 
-| 20200715T01:49:19Z | Advanced Windows Exploitation/Offensive Security Exploitation Expert Preparation for Black Hat 2021 | https://github.com/connormcgarr/AWE-OSEE-Prep | 85 | 56| 
-| 20200715T01:40:52Z | exploit-database-papers | https://github.com/offensive-security/exploitdb-papers | 227 | 25| 
-| 20200715T01:11:58Z | *Frequently Updated. Sifter is a osint, recon & vulnerability scanner. It combines a plethara of tools within different module sets in order to quickly perform recon tasks, check network firewalling, enumerate remote and local hosts, and scan for the %blue% vulnerabilities within microsft and if unpatched, exploit them.  It uses tools like blackwidow and konan for webdir enumeration and attack surface mapping rapidly using ASM.  | https://github.com/s1l3nt78/sifter | 187 | 63| 
-| 20200715T01:03:22Z | Huawei DG8045 & HG633 Devices Exploitation Tool | https://github.com/Cyber-Atom/Huawei_Thief | 0 | 0| 
-| 20200715T00:47:33Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 3 | 1| 
-| 20200715T00:38:41Z | Tool for exploit RCE on plugin PHPThumb Version <= 1.7.9  (Stable!) | https://github.com/br6dsk/luna | 2 | 0| 
-| 20200715T00:30:37Z | basically  some scripts u can use to troll around client side on discord js  | https://github.com/NanoSecc/Discord_ClientSide_Scripts | 1 | 0| 
-| 20200714T23:50:12Z | Various techniques for exploiting Linux | https://github.com/billchaison/Linux-Trix | 1 | 0| 
-| 20200714T23:34:07Z | A python script file to remotely analyse and exploit Microsoft Windows system via impacket. | https://github.com/BroadbentT/WIN-MASTER | 13 | 10| 
+| 20200715T12:00:25Z | Bash Proof-of-Concept (PoC) script to exploit SIGRed (CVE-2020-1350). Achieves Domain Admin on Domain Controllers running Windows Server 2003 up to Windows Server 2019. | https://github.com/ZephrFish/CVE-2020-1350 | 102 | 40| 
+| 20200715T11:27:45Z | V0.4.2 | https://github.com/AGroupOfBoredPeople/-BUK-City-of-London-Exploit-Script | 0 | 0| 
+| 20200715T11:22:54Z | this  bash script lets you choose a linux enumeration script, exploitation and utilities. read README.md file to learn about this script.. | https://github.com/FabioDefilippo/linuxallenum | 0 | 0| 
+| 20200715T11:08:04Z | Null | https://github.com/ayushpathak29/Windows-PostExploitation | 0 | 0| 
+| 20200715T10:42:43Z | Computer Network Exploitation (CNE) Field Manual | https://github.com/mzet-/z-field-manual | 0 | 0| 
+| 20200715T10:33:50Z | A spigot based plugin dedicated to fixing glitches and exploits that have made it into final Minecraft releases. | https://github.com/dniym/IllegalStack | 18 | 5| 
+| 20200715T10:13:48Z | Null | https://github.com/y5s5k5/HEVD-Exploits | 1 | 0| 
+| 20200715T09:50:04Z | Java安全相关的漏洞和技术demo，原生Java、Fastjson、Jackson、Hessian2、XML反序列化漏洞利用和Spring、Dubbo、Shiro、CAS、Tomcat、RMI、Nexus等框架\中间件\功能的exploits以及Java Security Manager绕过、Dubbo-Hessian2安全加固等等实践代码。 | https://github.com/threedr3am/learnjavabug | 911 | 226| 
+| 20200715T09:41:47Z | The official Exploit Database repository | https://github.com/offensive-security/exploitdb | 5389 | 1552| 
+| 20200715T09:22:51Z | Custom exploit backup for hackthebox | https://github.com/CMatri/HTBScripts | 0 | 0| 
 
 
 # backdoor on Github 推荐
@@ -118,16 +118,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20200715T02:00:08Z | My notes from Brandon Falk%s (@gamozolabs) Fuzz Week 2020 | https://github.com/dancwpark/FuzzWeek2020-notes | 0 | 0| 
-| 20200715T01:45:12Z | 参数 , 字典 collections | https://github.com/SmithEcon/Fuzz_dic | 8 | 1| 
-| 20200715T01:43:19Z | Goofle | https://github.com/ed126/fuzzy- | 0 | 0| 
-| 20200715T01:37:41Z | OSS-Fuzz - continuous fuzzing of open source software. | https://github.com/google/oss-fuzz | 5392 | 1043| 
-| 20200715T01:09:16Z | Differential Fuzzer for Ethereum 2.0 | https://github.com/sigp/beacon-fuzz | 32 | 4| 
-| 20200715T00:46:05Z | Null | https://github.com/eliyanto29/Fuzzy-Sentiment-Analisis | 0 | 0| 
-| 20200715T00:27:34Z | ParmeSan: Sanitizer-guided Greybox Fuzzing | https://github.com/vusec/parmesan | 22 | 3| 
-| 20200714T23:56:42Z | AFLNet: A Greybox Fuzzer for Network Protocols (https://thuanpv.github.io/publications/AFLNet_ICST20.pdf) | https://github.com/aflnet/aflnet | 241 | 33| 
-| 20200714T23:50:20Z | FuzzBALL: Vine-based Binary Symbolic Execution | https://github.com/bitblaze-fuzzball/fuzzball | 198 | 52| 
-| 20200714T23:31:15Z | FuZZan: Efficient Sanitizer Metadata Design for Fuzzing | https://github.com/HexHive/FuZZan | 0 | 0| 
+| 20200715T12:00:55Z | Hacker max | https://github.com/Rama3214/fuzzy-octo-bassoon | 1 | 0| 
+| 20200715T11:58:17Z | Fuzzy command parser similar to what slack and discord show when you press Ctrl+k | https://github.com/TheZoq2/ElmFuzzyCommands | 0 | 0| 
+| 20200715T11:58:15Z | Differential Fuzzer for Ethereum 2.0 | https://github.com/sigp/beacon-fuzz | 33 | 5| 
+| 20200715T11:54:58Z | This implements paper %A fuzzy approach to digital image warping% in typescript | https://github.com/linwe2012/FuzzyWarp | 0 | 0| 
+| 20200715T11:47:44Z | Why fuzzing with emulators is amazing | https://github.com/gamozolabs/fuzz_with_emus | 9 | 0| 
+| 20200715T11:47:23Z | Light, fast fuzz | https://github.com/xvolume/qzz | 0 | 0| 
+| 20200715T11:42:55Z | Improving security and resilience of WebAssembly VMs/runtimes/parsers using fuzzing | https://github.com/pventuzelo/wasm_runtimes_fuzzing | 21 | 1| 
+| 20200715T11:37:39Z | fuzzing for config | https://github.com/chaos-mesh/matrix | 7 | 2| 
+| 20200715T11:02:44Z | User Web Site | https://github.com/fuzzyklein/fuzzyklein.github.io | 0 | 0| 
+| 20200715T10:23:52Z | Planning tool | https://github.com/HappyDustbunny/FuzzyFlexx | 1 | 0| 
 
 
 
