@@ -19,13 +19,13 @@
 | 20200715 | 巴西银行木马Tetrade正在全球范围内扩散 | https://sec.today/pulses/6f094356-923d-45f2-b2c2-c0e8ce882bd0/| 
 | 20200715 | 如何防止Python Web应用程序中的HTML电子邮件注入 | https://sec.today/pulses/0c335b09-b2b0-44f1-bddd-27096594cef3/| 
 | 20200715 | 具有单向TCP流跟踪的DDoS保护工具flowtrackd | https://sec.today/pulses/991343d3-f9a5-446f-9b3a-b1a053023d4c/| 
+| 20200715 | ESET研究员发现一种聊天恶意软件，既能对受害者进行间谍监视又泄漏其数据 | https://www.welivesecurity.com/2020/07/14/welcome-chat-secure-messaging-app-nothing-further-truth/| 
+| 20200715 | 巴西银行木马Tetrade正在全球范围内扩散 | https://securelist.com/the-tetrade-brazilian-banking-malware/97779/| 
+| 20200715 | 如何防止Python Web应用程序中的HTML电子邮件注入 | https://r2c.dev/blog/2020/how-to-prevent-HTML-email-injection-in-python-web-apps/| 
+| 20200715 | 具有单向TCP流跟踪的DDoS保护工具flowtrackd | https://blog.cloudflare.com/announcing-flowtrackd/| 
 | 20200714 | Paper《Protecting Wi-Fi Beacons from Outsider Forgeries》 | https://papers.mathyvanhoef.com/wisec2020.pdf| 
 | 20200714 | 去年 PoC 会议的一个议题《Using Fault Injection to Turn Data Transfers into Arbitrary Execution》 | https://raelize.com/upload/using-fault-injection-for-turning-data-transfers-into-arbitrary-execution-poc2019-slides-1.0.pdf| 
 | 20200714 | Driver Store Explorer - 从 Driver Store 中枚举、安装、删除 Driver Package 的工具 | https://github.com/lostindark/DriverStoreExplorer| 
-| 20200714 | SharpDllProxy - 自动化生成 DLL Sideloading Proxy DLL 的工具 | https://github.com/Flangvik/SharpDllProxy| 
-| 20200714 | CDATA OLT 光纤设备固件被发现多个高危漏洞 | https://pierrekim.github.io/blog/2020-07-07-cdata-olt-0day-vulnerabilities.html| 
-| 20200714 | 分析DarkHotel 和 Magnitude EK 对CVE-2019-1367 的在野利用情况 | http://blog.confiant.com/internet-explorer-cve-2019-1367-in-the-wild-exploitation-prelude-ef546f19cd30| 
-| 20200714 | 可轻松执行Padding Oracle（填充Oracle）攻击的CLI工具和库 | https://www.kitploit.com/2020/07/padding-oracle-attacker-cli-tool-and.html| 
 
 
 # 安全维基 推荐
@@ -103,6 +103,8 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20200715T11:28:06Z | Basic Windows reverse shell written in C++ | https://github.com/hacefresko/CppBackdoor | 0 | 0| 
+| 20200715T06:38:42Z | PHPStudy Backdoor Remote Code execution. | https://github.com/Awrrays/phpstudy_rce | 0 | 0| 
 | 20200714T23:43:25Z | Pequeño backdoor escrito en C para realizar ataques en Windows 10  | https://github.com/danilodiez/Backdoor_en_C | 0 | 0| 
 | 20200714T22:36:24Z | Null | https://github.com/X-MarsHall/Shell-Backdoor | 0 | 0| 
 | 20200714T21:45:21Z | Repository for all the code related to Learn Python & Ethical Hacking From Scratch course. All the work is done on Kali Linux, using both Python 2.7 and 3.x version. | https://github.com/Maffey/ethical-hacking-course | 0 | 0| 
@@ -111,8 +113,6 @@
 | 20200714T08:51:45Z | papers for incentive and backdoor research in federated learning. | https://github.com/GillHwang/federated-learning-incentive-backdoor | 0 | 0| 
 | 20200714T08:30:43Z | A great backdoor written in python | https://github.com/MR-TN/PYbackdoor | 1 | 0| 
 | 20200714T03:24:51Z | Null | https://github.com/kaidi-jin/backdoor_samples_detection | 1 | 0| 
-| 20200713T17:47:08Z | KuroSploit is an exploit tool, KuroSploit provides an easy way to create backdoors and payload. | https://github.com/pikpikcu/kurosploit | 1 | 1| 
-| 20200713T13:33:24Z | A curated list of awesome backdoor learning research | https://github.com/THUYimingLi/awesome-backdoor-learning | 10 | 1| 
 
 
 # fuzz on Github 推荐

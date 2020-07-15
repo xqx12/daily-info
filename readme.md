@@ -19,6 +19,10 @@
 | 20200715 | 巴西银行木马Tetrade正在全球范围内扩散 | https://sec.today/pulses/6f094356-923d-45f2-b2c2-c0e8ce882bd0/| 
 | 20200715 | 如何防止Python Web应用程序中的HTML电子邮件注入 | https://sec.today/pulses/0c335b09-b2b0-44f1-bddd-27096594cef3/| 
 | 20200715 | 具有单向TCP流跟踪的DDoS保护工具flowtrackd | https://sec.today/pulses/991343d3-f9a5-446f-9b3a-b1a053023d4c/| 
+| 20200715 | ESET研究员发现一种聊天恶意软件，既能对受害者进行间谍监视又泄漏其数据 | https://www.welivesecurity.com/2020/07/14/welcome-chat-secure-messaging-app-nothing-further-truth/| 
+| 20200715 | 巴西银行木马Tetrade正在全球范围内扩散 | https://securelist.com/the-tetrade-brazilian-banking-malware/97779/| 
+| 20200715 | 如何防止Python Web应用程序中的HTML电子邮件注入 | https://r2c.dev/blog/2020/how-to-prevent-HTML-email-injection-in-python-web-apps/| 
+| 20200715 | 具有单向TCP流跟踪的DDoS保护工具flowtrackd | https://blog.cloudflare.com/announcing-flowtrackd/| 
 
 
 # 安全维基 推荐
@@ -80,6 +84,8 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20200715T11:28:06Z | Basic Windows reverse shell written in C++ | https://github.com/hacefresko/CppBackdoor | 0 | 0| 
+| 20200715T06:38:42Z | PHPStudy Backdoor Remote Code execution. | https://github.com/Awrrays/phpstudy_rce | 0 | 0| 
 
 
 # fuzz on Github 推荐
