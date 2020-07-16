@@ -23,6 +23,7 @@
 | 20200715 | 巴西银行木马Tetrade正在全球范围内扩散 | https://securelist.com/the-tetrade-brazilian-banking-malware/97779/| 
 | 20200715 | 如何防止Python Web应用程序中的HTML电子邮件注入 | https://r2c.dev/blog/2020/how-to-prevent-HTML-email-injection-in-python-web-apps/| 
 | 20200715 | 具有单向TCP流跟踪的DDoS保护工具flowtrackd | https://blog.cloudflare.com/announcing-flowtrackd/| 
+| 20200715 | 容器分组技术讨论–第1部分：访问主机的根目录。 | https://blog.nody.cc/posts/container-breakouts-part1/| 
 
 
 # 安全维基 推荐
@@ -43,49 +44,55 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20200715T13:04:24Z | CVE-2020-1350 | Bash Proof-of-Concept (PoC) script to exploit SIGRed (CVE-2020-1350). Achieves Domain Admin on Domain Controllers running Windows Server 2003 up to Windows Server 2019. | https://github.com/ZephrFish/CVE-2020-1350 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  09 HOURS 47 MINUTES 22 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200715T13:01:35Z | cve-2020-1350 | Bash Proof-of-Concept (PoC) script to exploit SIGRed (CVE-2020-1350). Achieves Domain Admin on Domain Controllers running Windows Server 2003 up to Windows Server 2019. | https://github.com/tinkersec/cve-2020-1350 | | 
-| 20200715T12:58:41Z | 未知编号 | CVE Data Analysis, CVE Monitor, CVE EXP Prediction Based on Deep Learning. 1999-2020年存量CVE数据分析、监控CVE增量更新、基于深度学习的CVE EXP预测和自动化推送 | https://github.com/404notf0und/CVE-Flow | 未查询到CVE信息| 
-| 20200715T12:29:51Z | CVE-2020-5902 | Exphub[漏洞利用脚本库] 包括Webloigc、Struts2、Tomcat、Nexus、Solr、Jboss、Drupal的漏洞利用脚本，最新添加CVE-2020-5902、CVE-2020-11444、CVE-2020-10204、CVE-2020-10199、CVE-2020-1938、CVE-2020-2551、CVE-2020-2555、CVE-2020-2883、CVE-2019-17558、CVE-2019-6340 | https://github.com/zhzyker/exphub | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  09 HOURS 47 MINUTES 07 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200715T12:16:05Z | CVE-2020-8958 | A proof of concept for CVE-2020-8958 | https://github.com/qurbat/gpon | 未查询到CVE信息| 
-| 20200715T11:42:11Z | CVE-2020-7283 | Null | https://github.com/RedyOpsResearchLabs/CVE-2020-7283-McAfee-Total-Protection-MTP-16.0.R26-EoP | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  09 HOURS 47 MINUTES 09 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200715T11:38:57Z | CVE-2020-1350 | This Powershell Script is checking if your server is vulnerable for the CVE-2020-1350 Remote Code Execution flaw in the Windows DNS Service | https://github.com/T13nn3s/CVE-2020-1350 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  09 HOURS 47 MINUTES 24 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200715T09:40:36Z | cve-2020-5902 | F5 BIG-IP RCE CVE-2020-5902 automatic check tool | https://github.com/theLSA/f5-bigip-rce-cve-2020-5902 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  09 HOURS 47 MINUTES 13 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200715T08:57:12Z | CVE-2020-5902 | CVE-2020-5902 BIG-IP | https://github.com/jas502n/CVE-2020-5902 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  09 HOURS 47 MINUTES 11 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200715T08:02:20Z | CVE-2020-1350 | Null | https://github.com/mr-r3b00t/CVE-2020-1350 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  09 HOURS 47 MINUTES 23 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200715T23:57:50Z | cve-2020-1350 | Bash Proof-of-Concept (PoC) script to exploit SIGRed (CVE-2020-1350). Achieves Domain Admin on Domain Controllers running Windows Server 2003 up to Windows Server 2019. | https://github.com/tinkersec/cve-2020-1350 | 当Windows域名系统服务器无法正确处理请求（也称为“ Windows DNS服务器远程代码执行漏洞”）时，存在一个远程执行代码漏洞。| 
+| 20200715T23:56:44Z | CVE-2020-1350 | Bash Proof-of-Concept (PoC) script to exploit SIGRed (CVE-2020-1350). Achieves Domain Admin on Domain Controllers running Windows Server 2000 up to Windows Server 2019. | https://github.com/ZephrFish/CVE-2020-1350 | 当Windows域名系统服务器无法正确处理请求（也称为“ Windows DNS服务器远程代码执行漏洞”）时，存在一个远程执行代码漏洞。| 
+| 20200715T23:53:56Z | CVE-2020-1350 | A denial-of-service proof-of-concept for CVE-2020-1350 | https://github.com/maxpl0it/CVE-2020-1350-DoS | 当Windows域名系统服务器无法正确处理请求（也称为“ Windows DNS服务器远程代码执行漏洞”）时，存在一个远程执行代码漏洞。| 
+| 20200715T23:32:11Z | CVE-2020-1350 | Detection of attempts to exploit Microsoft Windows DNS server via CVE-2020-1350 (AKA SIGRed) | https://github.com/corelight/SIGRed | 当Windows域名系统服务器无法正确处理请求（也称为“ Windows DNS服务器远程代码执行漏洞”）时，存在一个远程执行代码漏洞。| 
+| 20200715T23:25:18Z | CVE-2020-6287 | PoC for CVE-2020-6287, CVE-2020-6286 (SAP RECON vulnerability) | https://github.com/chipik/SAP_RECON | SAP NetWeaver AS JAVA（LM配置向导）版本-7.30、7.31、7.34、7.50不执行身份验证检查，这允许未经事先身份验证的攻击者执行针对SAP Java系统执行关键操作的配置任务，包括以下功能：创建管理用户，从而损害系统的机密性，完整性和可用性，从而导致缺少身份验证检查。| 
+| 20200715T22:18:05Z | CVE-2020-7283 | Null | https://github.com/RedyOpsResearchLabs/CVE-2020-7283-McAfee-Total-Protection-MTP-16.0.R26-EoP | McAfee 全面保护 （MTP） 中的特权升级漏洞允许在 16.0.R26 之前允许本地用户通过符号链接操作在他们无法访问的位置创建和编辑文件。这是通过在目标计算机上运行恶意脚本或程序实现的。| 
+| 20200715T20:33:14Z | CVE-2020-1350 | Null | https://github.com/mr-r3b00t/CVE-2020-1350 | 当Windows域名系统服务器无法正确处理请求（也称为“ Windows DNS服务器远程代码执行漏洞”）时，存在一个远程执行代码漏洞。| 
+| 20200715T20:06:32Z | CVE-2020-1350 | This Powershell Script is checking if your server is vulnerable for the CVE-2020-1350 Remote Code Execution flaw in the Windows DNS Service | https://github.com/T13nn3s/CVE-2020-1350 | | 
+| 20200715T19:59:04Z | CVE-2020-1350 | Windows registry mitigation response to CVE-2020-1350 | https://github.com/jmaddington/dRMM-CVE-2020-1350-response | 当Windows域名系统服务器无法正确处理请求（也称为“ Windows DNS服务器远程代码执行漏洞”）时，存在一个远程执行代码漏洞。| 
+| 20200715T19:37:59Z | CVE-2020-5902 | CVE-2020-5902 BIG-IP | https://github.com/jas502n/CVE-2020-5902 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 58 MINUTES 02 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20200715T12:54:58Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1435 | 442| 
-| 20200715T09:18:46Z | Create CFGs and compute complexity metrics for Python, C++, and Java code. | https://github.com/hmc-alpaqa/metrinome | 3 | 0| 
+| 20200715T22:54:50Z | Create CFGs and compute complexity metrics for Python, C++, and Java code. | https://github.com/hmc-alpaqa/metrinome | 3 | 0| 
+| 20200715T21:06:46Z | Clean extract system to export folder content and sub content | https://github.com/Edenskull/KleenExtractor | 0 | 0| 
+| 20200715T18:12:06Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1437 | 442| 
+| 20200715T16:42:57Z | Null | https://github.com/folshost/klee_searchable | 0 | 0| 
 
 
 # s2e on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20200715T12:42:02Z | cicd logic and gitlab&github runner, centos base ,whith jdk/python/go, maven/npm,/kubectl/helm | https://github.com/chimeh/cicd-s2e-runner | 0 | 0| 
+| 20200715T14:09:25Z | cicd logic and gitlab&github runner, centos base ,whith jdk/python/go, maven/npm,/kubectl/helm | https://github.com/chimeh/cicd-s2e-runner | 0 | 0| 
 
 
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20200715T13:04:24Z | Bash Proof-of-Concept (PoC) script to exploit SIGRed (CVE-2020-1350). Achieves Domain Admin on Domain Controllers running Windows Server 2003 up to Windows Server 2019. | https://github.com/ZephrFish/CVE-2020-1350 | 110 | 44| 
-| 20200715T12:47:33Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 3 | 1| 
-| 20200715T12:35:13Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 6688 | 1051| 
-| 20200715T12:33:59Z | Website to exploit RFI vulnerability | https://github.com/FzFStormZ/RFI_exploit | 0 | 0| 
-| 20200715T12:08:13Z | This repo contains all the known RSA attacks to be used in CTF challenges | https://github.com/Vishvesh-rao/Crypto-Exploits-Attacks | 0 | 0| 
-| 20200715T11:27:45Z | V0.4.2 | https://github.com/AGroupOfBoredPeople/-BUK-City-of-London-Exploit-Script | 0 | 0| 
-| 20200715T11:22:54Z | this  bash script lets you choose a linux enumeration script, exploitation and utilities. read README.md file to learn about this script.. | https://github.com/FabioDefilippo/linuxallenum | 0 | 0| 
-| 20200715T11:08:04Z | Null | https://github.com/ayushpathak29/Windows-PostExploitation | 0 | 0| 
-| 20200715T10:42:43Z | Computer Network Exploitation (CNE) Field Manual | https://github.com/mzet-/z-field-manual | 0 | 0| 
-| 20200715T10:33:50Z | A spigot based plugin dedicated to fixing glitches and exploits that have made it into final Minecraft releases. | https://github.com/dniym/IllegalStack | 18 | 5| 
+| 20200715T23:56:44Z | Bash Proof-of-Concept (PoC) script to exploit SIGRed (CVE-2020-1350). Achieves Domain Admin on Domain Controllers running Windows Server 2000 up to Windows Server 2019. | https://github.com/ZephrFish/CVE-2020-1350 | 141 | 51| 
+| 20200715T23:32:11Z | Detection of attempts to exploit Microsoft Windows DNS server via CVE-2020-1350 (AKA SIGRed) | https://github.com/corelight/SIGRed | 0 | 0| 
+| 20200715T23:28:18Z | PlayStation 2 DVD Player Exploit | https://github.com/CTurt/FreeDVDBoot | 1169 | 80| 
+| 20200715T23:02:58Z | I%m posting the most interesting challenges for me( although I%ve done all the challenges myself). https://exploit-exercises.lains.space/nebula/ | https://github.com/SrCiruelo/Nebula_Exploits | 0 | 0| 
+| 20200715T22:54:40Z | An asynchronous, collaborative post-exploitation agent powered by Python and .NET%s DLR | https://github.com/byt3bl33d3r/SILENTTRINITY | 1341 | 290| 
+| 20200715T22:29:56Z | These Exploits are just for you to understand | https://github.com/Failsafe-0verflowme/Writeup | 1 | 0| 
+| 20200715T22:04:18Z | *Frequently Updated. Sifter is a osint, recon & vulnerability scanner. It combines a plethara of tools within different module sets in order to quickly perform recon tasks, check network firewalling, enumerate remote and local hosts, and scan for the %blue% vulnerabilities within microsft and if unpatched, exploit them.  It uses tools like blackwidow and konan for webdir enumeration and attack surface mapping rapidly using ASM.  | https://github.com/s1l3nt78/sifter | 189 | 63| 
+| 20200715T21:36:08Z | Taking Roblox Exploiting into next level | https://github.com/Rixxrd/Abraham-V1 | 0 | 0| 
+| 20200715T21:35:11Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 6689 | 1052| 
+| 20200715T21:27:45Z | Module of Metasploit to exploit the vulnerability Eternalblue-Doublepulsar. | https://github.com/ElevenPaths/Eternalblue-Doublepulsar-Metasploit | 864 | 522| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20200715T23:41:56Z | Pequeño backdoor escrito en C para realizar ataques en Windows 10  | https://github.com/danilodiez/Backdoor_en_C | 0 | 0| 
+| 20200715T21:12:04Z | Garry%s Mod Backdoor Menu | https://github.com/ProjectRebug/RebugV2-Release | 3 | 3| 
+| 20200715T17:33:46Z | A sample app to demonstrate how to create Xamarin UITests using the Page Object architecture, Backdoor Methods and App Links (aka Deep Linking) | https://github.com/brminnick/UITestSampleApp | 29 | 24| 
+| 20200715T13:54:12Z | Multi-client Cross-platform Python Backdoor/Reverse Shell/RAT with AES Encryption | https://github.com/Y4hL/PyDoor | 17 | 10| 
 | 20200715T11:28:06Z | Basic Windows reverse shell written in C++ | https://github.com/hacefresko/CppBackdoor | 0 | 0| 
 | 20200715T06:38:42Z | PHPStudy Backdoor Remote Code execution. | https://github.com/Awrrays/phpstudy_rce | 0 | 0| 
 
@@ -93,16 +100,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20200715T13:10:42Z | Improving security and resilience of WebAssembly VMs/runtimes/parsers using fuzzing | https://github.com/pventuzelo/wasm_runtimes_fuzzing | 21 | 1| 
-| 20200715T12:55:39Z | Null | https://github.com/BoB9-Web-Fuzzer-4-2/web_Fuzzer | 0 | 0| 
-| 20200715T12:52:40Z | Why fuzzing with emulators is amazing | https://github.com/gamozolabs/fuzz_with_emus | 10 | 1| 
-| 20200715T12:51:47Z | Null | https://github.com/WillRoque/simple-fuzzing | 0 | 0| 
-| 20200715T12:26:48Z | ParmeSan: Sanitizer-guided Greybox Fuzzing | https://github.com/vusec/parmesan | 25 | 3| 
-| 20200715T12:16:52Z | Fuzzy command parser similar to what slack and discord show when you press Ctrl+k | https://github.com/TheZoq2/elm-fuzzy-commands | 0 | 0| 
-| 20200715T12:03:11Z | Fuzzy command parser similar to what slack and discord show when you press Ctrl+k | https://github.com/TheZoq2/ElmFuzzyCommands | 0 | 0| 
-| 20200715T12:00:55Z | Hacker max | https://github.com/Rama3214/fuzzy-octo-bassoon | 1 | 0| 
-| 20200715T11:58:15Z | Differential Fuzzer for Ethereum 2.0 | https://github.com/sigp/beacon-fuzz | 33 | 5| 
-| 20200715T11:54:58Z | This implements paper %A fuzzy approach to digital image warping% in typescript | https://github.com/linwe2012/FuzzyWarp | 0 | 0| 
+| 20200715T23:58:18Z | ParmeSan: Sanitizer-guided Greybox Fuzzing | https://github.com/vusec/parmesan | 32 | 4| 
+| 20200715T23:31:29Z | Null | https://github.com/haylee430/fuzzy_friend_finder | 1 | 0| 
+| 20200715T23:14:46Z | Simple ARM THUMB2 32-bit opcode fuzzer | https://github.com/cerg2010cerg2010/thumb-op-fuzzer | 0 | 0| 
+| 20200715T22:59:32Z | Coverage-guided binary fuzzing powered by Frida Stalker | https://github.com/meme/hotwax | 95 | 14| 
+| 20200715T22:55:18Z | Tutorials, examples, discussions, research proposals, and other resources related to fuzzing | https://github.com/google/fuzzing | 1334 | 189| 
+| 20200715T22:34:24Z | Bazel Starlark extensions for defining fuzz tests in Bazel projects | https://github.com/googleinterns/bazel-rules-fuzzing | 2 | 0| 
+| 20200715T22:19:52Z | A Powerful and Lightweight URL Fuzzer written in Ruby for Discovering Files and Directories on a Web Server | https://github.com/yexploit/poison | 3 | 1| 
+| 20200715T21:55:36Z | euromillions statistic | https://github.com/C00lWizard1/fuzzy-octo-guide | 0 | 0| 
+| 20200715T21:29:02Z | Null | https://github.com/googleinterns/zetasql-fuzzing | 0 | 1| 
+| 20200715T21:26:30Z | Improving security and resilience of WebAssembly VMs/runtimes/parsers using fuzzing | https://github.com/pventuzelo/wasm_runtimes_fuzzing | 21 | 1| 
 
 
 
