@@ -44,16 +44,16 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20200715T23:57:50Z | cve-2020-1350 | Bash Proof-of-Concept (PoC) script to exploit SIGRed (CVE-2020-1350). Achieves Domain Admin on Domain Controllers running Windows Server 2003 up to Windows Server 2019. | https://github.com/tinkersec/cve-2020-1350 | 当Windows域名系统服务器无法正确处理请求（也称为“ Windows DNS服务器远程代码执行漏洞”）时，存在一个远程执行代码漏洞。| 
-| 20200715T23:56:44Z | CVE-2020-1350 | Bash Proof-of-Concept (PoC) script to exploit SIGRed (CVE-2020-1350). Achieves Domain Admin on Domain Controllers running Windows Server 2000 up to Windows Server 2019. | https://github.com/ZephrFish/CVE-2020-1350 | 当Windows域名系统服务器无法正确处理请求（也称为“ Windows DNS服务器远程代码执行漏洞”）时，存在一个远程执行代码漏洞。| 
-| 20200715T23:53:56Z | CVE-2020-1350 | A denial-of-service proof-of-concept for CVE-2020-1350 | https://github.com/maxpl0it/CVE-2020-1350-DoS | 当Windows域名系统服务器无法正确处理请求（也称为“ Windows DNS服务器远程代码执行漏洞”）时，存在一个远程执行代码漏洞。| 
-| 20200715T23:32:11Z | CVE-2020-1350 | Detection of attempts to exploit Microsoft Windows DNS server via CVE-2020-1350 (AKA SIGRed) | https://github.com/corelight/SIGRed | 当Windows域名系统服务器无法正确处理请求（也称为“ Windows DNS服务器远程代码执行漏洞”）时，存在一个远程执行代码漏洞。| 
-| 20200715T23:25:18Z | CVE-2020-6287 | PoC for CVE-2020-6287, CVE-2020-6286 (SAP RECON vulnerability) | https://github.com/chipik/SAP_RECON | SAP NetWeaver AS JAVA（LM配置向导）版本-7.30、7.31、7.34、7.50不执行身份验证检查，这允许未经事先身份验证的攻击者执行针对SAP Java系统执行关键操作的配置任务，包括以下功能：创建管理用户，从而损害系统的机密性，完整性和可用性，从而导致缺少身份验证检查。| 
-| 20200715T22:18:05Z | CVE-2020-7283 | Null | https://github.com/RedyOpsResearchLabs/CVE-2020-7283-McAfee-Total-Protection-MTP-16.0.R26-EoP | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 58 MINUTES 00 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200715T20:33:14Z | CVE-2020-1350 | Null | https://github.com/mr-r3b00t/CVE-2020-1350 | 当Windows域名系统服务器无法正确处理请求（也称为“ Windows DNS服务器远程代码执行漏洞”）时，存在一个远程执行代码漏洞。| 
-| 20200715T20:06:32Z | CVE-2020-1350 | This Powershell Script is checking if your server is vulnerable for the CVE-2020-1350 Remote Code Execution flaw in the Windows DNS Service | https://github.com/T13nn3s/CVE-2020-1350 | | 
-| 20200715T19:59:04Z | CVE-2020-1350 | Windows registry mitigation response to CVE-2020-1350 | https://github.com/jmaddington/dRMM-CVE-2020-1350-response | 当Windows域名系统服务器无法正确处理请求（也称为“ Windows DNS服务器远程代码执行漏洞”）时，存在一个远程执行代码漏洞。| 
-| 20200715T19:37:59Z | CVE-2020-5902 | CVE-2020-5902 BIG-IP | https://github.com/jas502n/CVE-2020-5902 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 58 MINUTES 02 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200715T23:57:50Z | cve-2020-1350 | Bash Proof-of-Concept (PoC) script to exploit SIGRed (CVE-2020-1350). Achieves Domain Admin on Domain Controllers running Windows Server 2003 up to Windows Server 2019. | https://github.com/tinkersec/cve-2020-1350 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 56 MINUTES 18 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200715T23:56:44Z | CVE-2020-1350 | Bash Proof-of-Concept (PoC) script to exploit SIGRed (CVE-2020-1350). Achieves Domain Admin on Domain Controllers running Windows Server 2000 up to Windows Server 2019. | https://github.com/ZephrFish/CVE-2020-1350 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 56 MINUTES 16 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200715T23:53:56Z | CVE-2020-1350 | A denial-of-service proof-of-concept for CVE-2020-1350 | https://github.com/maxpl0it/CVE-2020-1350-DoS | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 55 MINUTES 24 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200715T23:32:11Z | CVE-2020-1350 | Detection of attempts to exploit Microsoft Windows DNS server via CVE-2020-1350 (AKA SIGRed) | https://github.com/corelight/SIGRed | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 56 MINUTES 21 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200715T23:25:18Z | CVE-2020-6287 | PoC for CVE-2020-6287, CVE-2020-6286 (SAP RECON vulnerability) | https://github.com/chipik/SAP_RECON | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 55 MINUTES 21 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200715T22:18:05Z | CVE-2020-7283 | Null | https://github.com/RedyOpsResearchLabs/CVE-2020-7283-McAfee-Total-Protection-MTP-16.0.R26-EoP | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 56 MINUTES 07 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200715T20:33:14Z | CVE-2020-1350 | Null | https://github.com/mr-r3b00t/CVE-2020-1350 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 56 MINUTES 17 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200715T20:06:32Z | CVE-2020-1350 | This Powershell Script is checking if your server is vulnerable for the CVE-2020-1350 Remote Code Execution flaw in the Windows DNS Service | https://github.com/T13nn3s/CVE-2020-1350 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 56 MINUTES 20 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200715T19:59:04Z | CVE-2020-1350 | Windows registry mitigation response to CVE-2020-1350 | https://github.com/jmaddington/dRMM-CVE-2020-1350-response | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 55 MINUTES 23 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200715T19:37:59Z | CVE-2020-5902 | CVE-2020-5902 BIG-IP | https://github.com/jas502n/CVE-2020-5902 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 56 MINUTES 10 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 
 
 # klee on Github 推荐
@@ -101,7 +101,6 @@
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
 | 20200715T23:58:18Z | ParmeSan: Sanitizer-guided Greybox Fuzzing | https://github.com/vusec/parmesan | 32 | 4| 
-| 20200715T23:31:29Z | Null | https://github.com/haylee430/fuzzy_friend_finder | 1 | 0| 
 | 20200715T23:14:46Z | Simple ARM THUMB2 32-bit opcode fuzzer | https://github.com/cerg2010cerg2010/thumb-op-fuzzer | 0 | 0| 
 | 20200715T22:59:32Z | Coverage-guided binary fuzzing powered by Frida Stalker | https://github.com/meme/hotwax | 95 | 14| 
 | 20200715T22:55:18Z | Tutorials, examples, discussions, research proposals, and other resources related to fuzzing | https://github.com/google/fuzzing | 1334 | 189| 
@@ -110,6 +109,7 @@
 | 20200715T21:55:36Z | euromillions statistic | https://github.com/C00lWizard1/fuzzy-octo-guide | 0 | 0| 
 | 20200715T21:29:02Z | Null | https://github.com/googleinterns/zetasql-fuzzing | 0 | 1| 
 | 20200715T21:26:30Z | Improving security and resilience of WebAssembly VMs/runtimes/parsers using fuzzing | https://github.com/pventuzelo/wasm_runtimes_fuzzing | 21 | 1| 
+| 20200715T20:36:29Z | FuzzBench - Fuzzer benchmarking as a service. | https://github.com/google/fuzzbench | 485 | 66| 
 
 
 
