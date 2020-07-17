@@ -26,15 +26,15 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20200716T23:42:21Z | CVE-2020-1350 | Proof-of-Concept (PoC) script to exploit SIGRed (CVE-2020-1350). Achieves Domain Admin on Domain Controllers running Windows Server 2000 up to Windows Server 2019. | https://github.com/ZephrFish/CVE-2020-1350 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 54 MINUTES 13 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200716T23:11:35Z | CVE-2020-1350 | A denial-of-service proof-of-concept for CVE-2020-1350 | https://github.com/maxpl0it/CVE-2020-1350-DoS | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 53 MINUTES 26 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200716T23:42:21Z | CVE-2020-1350 | Proof-of-Concept (PoC) script to exploit SIGRed (CVE-2020-1350). Achieves Domain Admin on Domain Controllers running Windows Server 2000 up to Windows Server 2019. | https://github.com/ZephrFish/CVE-2020-1350 | | 
+| 20200716T23:11:35Z | CVE-2020-1350 | A denial-of-service proof-of-concept for CVE-2020-1350 | https://github.com/maxpl0it/CVE-2020-1350-DoS | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 52 MINUTES 26 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20200716T21:15:44Z | cve-2020-1350 | Bash Proof-of-Concept (PoC) script to exploit SIGRed (CVE-2020-1350). Achieves Domain Admin on Domain Controllers running Windows Server 2003 up to Windows Server 2019. | https://github.com/tinkersec/cve-2020-1350 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 53 MINUTES 18 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200716T20:41:23Z | CVE-2020-1350 | Denial of Service PoC for CVE-2020-1350 (SIGRed) | https://github.com/captainGeech42/CVE-2020-1350 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 53 MINUTES 27 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200716T18:30:20Z | CVE-2020-6287 | PoC for CVE-2020-6287, CVE-2020-6286 (SAP RECON vulnerability) | https://github.com/chipik/SAP_RECON | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 53 MINUTES 24 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200716T18:07:40Z | cve-2020-0688 | cve-2020-0688 UNIVERSAL Python implementation utilizing ASPX webshell for command output | https://github.com/w4fz5uck5/cve-2020-0688-webshell-upload-technique | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 54 MINUTES 04 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200716T16:16:40Z | CVE-2020-5902 | Null | https://github.com/dnerzker/CVE-2020-5902 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 54 MINUTES 10 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200716T20:41:23Z | CVE-2020-1350 | Denial of Service PoC for CVE-2020-1350 (SIGRed) | https://github.com/captainGeech42/CVE-2020-1350 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 52 MINUTES 27 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200716T18:30:20Z | CVE-2020-6287 | PoC for CVE-2020-6287, CVE-2020-6286 (SAP RECON vulnerability) | https://github.com/chipik/SAP_RECON | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 52 MINUTES 23 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200716T18:07:40Z | cve-2020-0688 | cve-2020-0688 UNIVERSAL Python implementation utilizing ASPX webshell for command output | https://github.com/w4fz5uck5/cve-2020-0688-webshell-upload-technique | | 
+| 20200716T16:16:40Z | CVE-2020-5902 | Null | https://github.com/dnerzker/CVE-2020-5902 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 53 MINUTES 14 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20200716T14:40:19Z | CVE-2020-1350 | Detection of attempts to exploit Microsoft Windows DNS server via CVE-2020-1350 (AKA SIGRed) | https://github.com/corelight/SIGRed | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 53 MINUTES 21 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200716T14:23:37Z | CVE-2020-5902 | Exphub[漏洞利用脚本库] 包括Webloigc、Struts2、Tomcat、Nexus、Solr、Jboss、Drupal的漏洞利用脚本，最新添加CVE-2020-5902、CVE-2020-11444、CVE-2020-10204、CVE-2020-10199、CVE-2020-1938、CVE-2020-2551、CVE-2020-2555、CVE-2020-2883、CVE-2019-17558、CVE-2019-6340 | https://github.com/zhzyker/exphub | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 54 MINUTES 03 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200716T14:23:37Z | CVE-2020-5902 | Exphub[漏洞利用脚本库] 包括Webloigc、Struts2、Tomcat、Nexus、Solr、Jboss、Drupal的漏洞利用脚本，最新添加CVE-2020-5902、CVE-2020-11444、CVE-2020-10204、CVE-2020-10199、CVE-2020-1938、CVE-2020-2551、CVE-2020-2555、CVE-2020-2883、CVE-2019-17558、CVE-2019-6340 | https://github.com/zhzyker/exphub | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 53 MINUTES 08 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20200716T12:45:38Z | 未知编号 | CVE Data Analysis, CVE Monitor, CVE EXP Prediction Based on Deep Learning. 1999-2020年存量CVE数据分析、监控CVE增量更新、基于深度学习的CVE EXP预测和自动化推送 | https://github.com/404notf0und/CVE-Flow | 未查询到CVE信息| 
 
 
@@ -86,16 +86,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20200716T13:20:29Z | Security oriented software fuzzer. Supports evolutionary, feedback-driven fuzzing based on code coverage (SW and HW based) | https://github.com/google/honggfuzz | 1929 | 405| 
-| 20200716T13:09:09Z | Null | https://github.com/brunoahcor/bxblue-fuzzy-trader | 0 | 0| 
-| 20200716T12:54:49Z | Improving security and resilience of WebAssembly VMs/runtimes/parsers using fuzzing | https://github.com/pventuzelo/wasm_runtimes_fuzzing | 21 | 1| 
-| 20200716T12:47:03Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 3042 | 692| 
-| 20200716T12:43:27Z | Tidal autocoder | https://github.com/tidalcycles/tidal-fuzz | 5 | 0| 
-| 20200716T12:39:03Z | Null | https://github.com/Ishaan29/fuzzy-chainsaw-algo | 1 | 0| 
-| 20200716T12:21:08Z | Snake URLs A Powerfull fuzzer Tools. Search And Find Report Results From Google - DocDocGO - Wikipedia And More... Writen By WitBlack Hacker. | https://github.com/witblack/snake_URLs | 0 | 1| 
-| 20200716T12:10:01Z | Null | https://github.com/ccesarrod/.NetCoreFuzzy | 0 | 0| 
-| 20200716T10:58:37Z | A JavaScript Engine Fuzzer | https://github.com/googleprojectzero/fuzzilli | 951 | 154| 
-| 20200716T10:33:10Z | Null | https://github.com/AnotherIntrovertMan/Fuzzy-Logic-for-choosing-brand-ambassador | 0 | 0| 
+| 20200716T23:50:25Z | this repo is used to demo aws codepipeline with eb | https://github.com/darichailu/fuzzy-telegram | 0 | 0| 
+| 20200716T23:49:28Z | A fuzzy parser for C/C++ that creates semantic code property graphs | https://github.com/ShiftLeftSecurity/fuzzyc2cpg | 33 | 11| 
+| 20200716T23:36:00Z | Null | https://github.com/brunoahcor/bxblue-fuzzy-trader | 0 | 0| 
+| 20200716T23:33:57Z | implementing text summary with fuzzy logic | https://github.com/jones345/text-summary-using-fuzzy-logic | 0 | 0| 
+| 20200716T23:24:35Z | FuzzyKnights: Protectors of the Forst - 16bit Adventure | https://github.com/mjnrock/fuzzyknights-arcade | 0 | 0| 
+| 20200716T23:18:57Z | Fuzz Guitar Pedal Tutorial and Explanation | https://github.com/AntoineMajor/FuzzPedal | 0 | 0| 
+| 20200716T22:57:36Z | Null | https://github.com/yeskenaydu/Fuzzy-system-for-cooler | 0 | 0| 
+| 20200716T22:42:25Z | Why fuzzing with emulators is amazing | https://github.com/gamozolabs/fuzz_with_emus | 32 | 3| 
+| 20200716T22:27:33Z | OSS-Fuzz - continuous fuzzing of open source software. | https://github.com/google/oss-fuzz | 5401 | 1045| 
+| 20200716T22:15:50Z | A python module and script to handle custom fuzzing against anything | https://github.com/shoriwe/bftool | 1 | 0| 
 
 
 
