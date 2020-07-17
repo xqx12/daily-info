@@ -16,6 +16,7 @@
 | 20200717 | Ghidra插件Intezer发布，可用于检测样本中的重用代码 | http://blog.rootshell.be/2020/07/16/detecting-code-reuse-in-ghidra-with-intezers-plugin/| 
 | 20200717 | Glibc 2.32的malloc中最新安全链接缓解绕过 | https://awaraucom.wordpress.com/2020/07/13/house-of-io/| 
 | 20200717 | Fireeye发布自动化恶意软件识别工具capa | https://sec.today/pulses/0b7d43ce-c3c5-4d3a-8a91-560b5da99069/| 
+| 20200717 | Fireeye发布自动化恶意软件识别工具capa | https://www.fireeye.com/blog/threat-research/2020/07/capa-automatically-identify-malware-capabilities.html| 
 | 20200716 | McAfee Total Protection (MTP) 本地提权漏洞分析(CVE-2020-7283) | https://labs.redyops.com/index.php/2020/07/14/mcafee-total-protection-mtp-16-0-r26-escalation-of-privilege-cve-2020-7283/| 
 | 20200716 | 昨天 Checkpoint 分析 Windows DNS Server RCE 漏洞报告发布之后，有研究员公开了一个可以导致拒绝服务的利用代码 | http://github.com/maxpl0it/CVE-2020-1350-DoS| 
 | 20200716 | Hunting for backdoors in Counterfeit Cisco devices | https://labs.f-secure.com/assets/BlogFiles/2020-07-the-fake-cisco.pdf| 
@@ -25,7 +26,6 @@
 | 20200716 | 微软公布 Top MSRC 2020 Q2 Security Researchers 榜单 | https://msrc-blog.microsoft.com/2020/07/15/msrc-q2-2020-leaderboard/| 
 | 20200716 | FreeBSD 最新版版本被发现并没有使用最新版本的 bspatch 代码，导致存在历史漏洞 | https://www.x41-dsec.de/security/news/working/research/2020/07/15/bspatch/| 
 | 20200716 | WebLogic 远程代码执行漏洞(CVE-2020-14645) | https://security.tencent.com/index.php/blog/msg/157| 
-| 20200716 | 使用Checkra1n与iOS BFU Triage脚本提取iOS完整文件系统–第1部分。 | https://www.sans.org/blog/checkra1n---part-1---prep/| 
 
 
 # 安全维基 推荐

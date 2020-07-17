@@ -16,6 +16,7 @@
 | 20200717 | Ghidra插件Intezer发布，可用于检测样本中的重用代码 | http://blog.rootshell.be/2020/07/16/detecting-code-reuse-in-ghidra-with-intezers-plugin/| 
 | 20200717 | Glibc 2.32的malloc中最新安全链接缓解绕过 | https://awaraucom.wordpress.com/2020/07/13/house-of-io/| 
 | 20200717 | Fireeye发布自动化恶意软件识别工具capa | https://sec.today/pulses/0b7d43ce-c3c5-4d3a-8a91-560b5da99069/| 
+| 20200717 | Fireeye发布自动化恶意软件识别工具capa | https://www.fireeye.com/blog/threat-research/2020/07/capa-automatically-identify-malware-capabilities.html| 
 
 
 # 安全维基 推荐
