@@ -17,6 +17,8 @@
 | 20200717 | Glibc 2.32的malloc中最新安全链接缓解绕过 | https://awaraucom.wordpress.com/2020/07/13/house-of-io/| 
 | 20200717 | Fireeye发布自动化恶意软件识别工具capa | https://sec.today/pulses/0b7d43ce-c3c5-4d3a-8a91-560b5da99069/| 
 | 20200717 | Fireeye发布自动化恶意软件识别工具capa | https://www.fireeye.com/blog/threat-research/2020/07/capa-automatically-identify-malware-capabilities.html| 
+| 20200717 | 介绍基于HTTP的Python脚本木马程序安全分析。 | https://medium.com/bugbountywriteup/python-http-based-trojan-for-remote-system-forensics-and-privilege-transfer-ae128891b4de?source=rss----7b722bfd1b8d---4| 
+| 20200717 | 被低估的混乱军团 -WellMess(APT-C-42)组织网络渗透和供应链攻击行动揭秘 | https://mp.weixin.qq.com/s/WmzryWNNJVV7mXABQ1Yu8g| 
 
 
 # 安全维基 推荐
@@ -33,21 +35,23 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20200717T12:37:26Z | CVE-2020-1350 | Denial of Service PoC for CVE-2020-1350 (SIGRed) | https://github.com/captainGeech42/CVE-2020-1350 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 01 MINUTES 30 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200717T12:26:31Z | CVE-2020-1362 | writeup of CVE-2020-1362 | https://github.com/Q4n/CVE-2020-1362 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 01 MINUTES 32 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200717T12:09:08Z | cve-2020-1350 | Bash Proof-of-Concept (PoC) script to exploit SIGRed (CVE-2020-1350). Achieves Domain Admin on Domain Controllers running Windows Server 2003 up to Windows Server 2019. | https://github.com/tinkersec/cve-2020-1350 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 01 MINUTES 20 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200717T11:41:02Z | CVE-2020-1350 | A denial-of-service proof-of-concept for CVE-2020-1350 | https://github.com/maxpl0it/CVE-2020-1350-DoS | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 01 MINUTES 28 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200717T11:01:56Z | CVE-2020-6287 | PoC for CVE-2020-6287, CVE-2020-6286 (SAP RECON vulnerability) | https://github.com/chipik/SAP_RECON | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 01 MINUTES 26 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200717T11:01:03Z | CVE-2020-5902 | CVE-2020-5902 BIG-IP | https://github.com/jas502n/CVE-2020-5902 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 01 MINUTES 14 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200717T08:09:32Z | CVE-2020-5902 | GUI | https://github.com/rockmelodies/CVE-2020-5902-rce-gui | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 01 MINUTES 31 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200717T07:14:59Z | 未知编号 | CVE Data Analysis, CVE Monitor, CVE EXP Prediction Based on Deep Learning. 1999-2020年存量CVE数据分析、监控CVE增量更新、基于深度学习的CVE EXP预测和自动化推送 | https://github.com/404notf0und/CVE-Flow | 未查询到CVE信息| 
-| 20200717T02:09:38Z | CVE-2020-1350 | Proof-of-Concept (PoC) script to exploit SIGRed (CVE-2020-1350). Achieves Domain Admin on Domain Controllers running Windows Server 2000 up to Windows Server 2019. | https://github.com/ZephrFish/CVE-2020-1350 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 01 MINUTES 17 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200717T01:39:25Z | CVE-2020-5902 | Exphub[漏洞利用脚本库] 包括Webloigc、Struts2、Tomcat、Nexus、Solr、Jboss、Drupal的漏洞利用脚本，最新添加CVE-2020-5902、CVE-2020-11444、CVE-2020-10204、CVE-2020-10199、CVE-2020-1938、CVE-2020-2551、CVE-2020-2555、CVE-2020-2883、CVE-2019-17558、CVE-2019-6340 | https://github.com/zhzyker/exphub | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 00 MINUTES 21 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200717T23:58:37Z | CVE-2020-1938 | Disables AJP connectors to remediate CVE-2020-1938! | https://github.com/MateoSec/ghostcatch | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
+| 20200717T23:53:39Z | CVE-2020-6287 | PoC for CVE-2020-6287, CVE-2020-6286 (SAP RECON vulnerability) | https://github.com/chipik/SAP_RECON | SAP NetWeaver AS JAVA（LM配置向导）版本-7.30、7.31、7.34、7.50不执行身份验证检查，这允许未经事先身份验证的攻击者执行针对SAP Java系统执行关键操作的配置任务，包括以下功能：创建管理用户，从而损害系统的机密性，完整性和可用性，从而导致缺少身份验证检查。| 
+| 20200717T23:51:09Z | CVE-2020-1350 | A denial-of-service proof-of-concept for CVE-2020-1350 | https://github.com/maxpl0it/CVE-2020-1350-DoS | 当Windows域名系统服务器无法正确处理请求（也称为“ Windows DNS服务器远程代码执行漏洞”）时，存在一个远程执行代码漏洞。| 
+| 20200717T23:51:07Z | CVE-2020-1362 | writeup of CVE-2020-1362 | https://github.com/Q4n/CVE-2020-1362 | Windows WalletService处理内存中对象的方式中存在一个特权提升漏洞，也称为“ Windows WalletService特权提升漏洞”。此CVE ID在CVE-2020-1344，CVE-2020-1369中是唯一的。| 
+| 20200717T23:43:03Z | CVE-2020-1350 | Proof-of-Concept (PoC) script to exploit SIGRed (CVE-2020-1350). Achieves Domain Admin on Domain Controllers running Windows Server 2000 up to Windows Server 2019. | https://github.com/ZephrFish/CVE-2020-1350 | 当Windows域名系统服务器无法正确处理请求（也称为“ Windows DNS服务器远程代码执行漏洞”）时，存在一个远程执行代码漏洞。| 
+| 20200717T21:57:11Z | CVE-2020-1350 | Fake exploit tool, designed to rickroll users attempting to actually exploit. | https://github.com/zoomerxsec/Fake_CVE-2020-1350 | 当Windows域名系统服务器无法正确处理请求（也称为“ Windows DNS服务器远程代码执行漏洞”）时，存在一个远程执行代码漏洞。| 
+| 20200717T21:12:11Z | CVE-2020-1350 | NSE scripts to detect CVE-2020-1350 SIGRED and CVE-2020-0796 SMBGHOST | https://github.com/pr4jwal/NSE-scripts | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 58 MINUTES 05 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200717T18:34:54Z | CVE-2020-1350 | This Powershell Script is checking if your server is vulnerable for the CVE-2020-1350 Remote Code Execution flaw in the Windows DNS Service | https://github.com/T13nn3s/CVE-2020-1350 | 当Windows域名系统服务器无法正确处理请求（也称为“ Windows DNS服务器远程代码执行漏洞”）时，存在一个远程执行代码漏洞。| 
+| 20200717T15:15:20Z | 未知编号 | CVE Data Analysis, CVE Monitor, CVE EXP Prediction Based on Deep Learning. 1999-2020年存量CVE数据分析、监控CVE增量更新、基于深度学习的CVE EXP预测和自动化推送 | https://github.com/404notf0und/CVE-Flow | 未查询到CVE信息| 
+| 20200717T13:58:07Z | CVE-2020-14199 | Null | https://github.com/nondejus/CVE-2020-14199 | 比特币协议规范中的BIP-143错误地处理了隔离见证交易的签名，这使攻击者可以在某些情况下欺骗用户进行两个签名，从而可能导致巨额交易费用。注意：这会影响所有硬件钱包。 Trezor One固定在1.9.1中，Trezor Model T固定在2.3.1中。| 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20200717T21:19:27Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1438 | 442| 
+| 20200717T13:26:48Z | Website for the KLEE project: https://klee.github.io/ | https://github.com/klee/klee.github.io | 13 | 42| 
 | 20200717T07:46:09Z | Clean extract system to export folder content and sub content | https://github.com/Edenskull/KleenExtractor | 0 | 0| 
 | 20200717T00:11:20Z | Create CFGs and compute complexity metrics for Python, C++, and Java code. | https://github.com/hmc-alpaqa/metrinome | 3 | 0| 
 
@@ -63,24 +67,25 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20200717T12:52:11Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 6693 | 1052| 
-| 20200717T12:47:34Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 3 | 1| 
-| 20200717T12:44:41Z | Decompilation of APK-files into .smali Format for Debugging and Analyzing fully compiled Android-APKs. | https://github.com/bmarv/SmaliCode-Exploiter | 1 | 0| 
-| 20200717T12:41:14Z | k8gege.org - K8哥哥%s Blog | https://github.com/k8gege/k8gege.github.io | 8 | 2| 
-| 20200717T12:33:45Z | CTF竞赛入门指南 | https://github.com/firmianay/CTF-All-In-One | 1872 | 395| 
-| 20200717T12:20:35Z | PS4 Exploit list | https://github.com/Hakkuraifu/PS4xploit | 0 | 0| 
-| 20200717T12:19:34Z | Official PyTorch implementation of %Puzzle Mix: Exploiting Saliency and Local Statistics for Optimal Mixup% (ICML%20) | https://github.com/snu-mllab/PuzzleMix | 11 | 1| 
-| 20200717T12:00:24Z | A post exploitation framework designed to operate covertly on heavily monitored enviroments | https://github.com/bats3c/shad0w | 705 | 96| 
-| 20200717T11:26:45Z | Discord Client Side Scripts That Run Current Functions that can set Objects on Userprofile or Pull Currentinfo. This Documentation on discords shitty JS.  | https://github.com/NanoSecc/Discord_ClientSide_Scripts | 7 | 2| 
-| 20200717T11:06:40Z | V0.4.2 | https://github.com/AGroupOfBoredPeople/-BUK-City-of-London-Exploit-Script | 0 | 1| 
+| 20200717T23:43:03Z | Proof-of-Concept (PoC) script to exploit SIGRed (CVE-2020-1350). Achieves Domain Admin on Domain Controllers running Windows Server 2000 up to Windows Server 2019. | https://github.com/ZephrFish/CVE-2020-1350 | 181 | 56| 
+| 20200717T23:14:48Z | this  bash script lets you choose a linux enumeration script, exploitation and utilities. read README.md file to learn about this script.. | https://github.com/FabioDefilippo/linuxallenum | 0 | 0| 
+| 20200717T23:06:55Z | Public Exploits + Extra-curriculum for OSCE Exam Preparation | https://github.com/bigb0sss/OSCE | 14 | 3| 
+| 20200717T22:52:11Z | this bash script let you download scripts and clone repos for remote exploits | https://github.com/FabioDefilippo/linuxallremote | 0 | 0| 
+| 20200717T21:57:11Z | Fake exploit tool, designed to rickroll users attempting to actually exploit. | https://github.com/zoomerxsec/Fake_CVE-2020-1350 | 0 | 0| 
+| 20200717T21:48:29Z | Null | https://github.com/Y3M/FreddyExploits | 0 | 0| 
+| 20200717T21:45:13Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 6696 | 1053| 
+| 20200717T21:36:24Z | my exploit kit | https://github.com/pyro57/pyrosploit | 0 | 0| 
+| 20200717T21:26:14Z | A cheat sheet that contains common enumeration and attack methods for Windows Active Directory. | https://github.com/S1ckB0y1337/Active-Directory-Exploitation-Cheat-Sheet | 586 | 159| 
+| 20200717T21:22:31Z | Null | https://github.com/hashes4merkle/delete_contacts_exploit | 0 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20200717T16:36:26Z | Null | https://github.com/Xinghui-Wu/ASR_Backdoor | 0 | 0| 
+| 20200717T14:01:35Z | Only for educational purposes | https://github.com/Levi-python/HHbackdoor-V0.3 | 0 | 0| 
 | 20200717T12:25:29Z | Null | https://github.com/enomarozi/BackdoorCTF_Writeup | 0 | 0| 
 | 20200717T11:38:16Z | Repository for all the code related to Learn Python & Ethical Hacking From Scratch course. All the work is done on Kali Linux, using both Python 2.7 and 3.x version. | https://github.com/Maffey/ethical-hacking-course | 0 | 0| 
-| 20200717T10:38:03Z | Only for educational purposes | https://github.com/Levi-python/HHbackdoor-V0.3 | 0 | 0| 
 | 20200717T07:46:05Z | Undetectable & Xor encrypting with custom KEY (FUD Metasploit Rat) bypass Top Antivirus like BitDefender,Malwarebytes,Avast,ESET-NOD32,AVG,... & Automatically Add ICON and MANIFEST to excitable | https://github.com/persianhydra/Xeexe-TopAntivirusEvasion | 85 | 36| 
 | 20200717T06:15:19Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 11 | 2| 
 | 20200717T03:17:55Z | PHPStudy Backdoor Remote Code execution. | https://github.com/Awrrays/phpstudy_rce | 0 | 0| 
