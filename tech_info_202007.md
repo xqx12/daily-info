@@ -120,16 +120,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20200717T12:54:18Z | Wordlists for Fuzzing | https://github.com/maverickNerd/wordlists | 0 | 0| 
-| 20200717T12:51:17Z | Find the ideal fuzz targets in a Rust codebase | https://github.com/trailofbits/siderophile | 82 | 7| 
-| 20200717T12:30:54Z | A little attempt to orthogonal architecture. | https://github.com/C00lWizard1/fuzzy-octo-guide | 0 | 0| 
-| 20200717T12:05:01Z | NeDB adapter for fuzzy search, api compatible with the MongoDB version | https://github.com/rayfoss/feathers-nedb-fuzzy-search | 7 | 4| 
-| 20200717T11:28:00Z | Structure-aware, in-process, coverage-guided, evolutionary fuzzing engine for Rust functions. | https://github.com/loiclec/fuzzcheck-rs | 139 | 4| 
-| 20200717T11:01:15Z | FuZzY Repository | https://github.com/rico1995/fuzzyrepo | 0 | 0| 
-| 20200717T10:53:21Z | Coding challenges with starter code and randomly generated test cases. | https://github.com/HackYourFutureBelgium/fuzz | 0 | 0| 
-| 20200717T10:05:34Z | A Fuzzer for COMP6447 | https://github.com/LachlanWaugh/fuzzer | 1 | 0| 
-| 20200717T09:27:05Z | 参数 , 字典 collections | https://github.com/SmithEcon/Fuzz_dic | 9 | 1| 
-| 20200717T08:41:16Z | Fuzz testing JavaScript parsers and suchlike programs. | https://github.com/lydell/eslump | 44 | 8| 
+| 20200717T23:55:46Z | fuzzy-telegram | https://github.com/raggopalgithub/fuzzy-telegram | 0 | 0| 
+| 20200717T22:41:23Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 25869 | 12456| 
+| 20200717T22:18:54Z | Scalable fuzzing infrastructure. | https://github.com/google/clusterfuzz | 4263 | 379| 
+| 20200717T22:12:27Z | Rust-based RISC-V emulator for fuzzing | https://github.com/Hamled/gamozo-emu | 0 | 0| 
+| 20200717T21:43:41Z | Bazel Starlark extensions for defining fuzz tests in Bazel projects | https://github.com/googleinterns/bazel-rules-fuzzing | 2 | 0| 
+| 20200717T21:19:19Z | Snake URLs A Powerfull fuzzer Tools. Search And Find Report Results From Google - DocDocGO - Wikipedia And More... Writen By WitBlack Hacker. | https://github.com/witblack/snake_URLs | 0 | 1| 
+| 20200717T20:58:00Z | Fuzzco Nuxt template. | https://github.com/fuzzco/fuzznuxt | 2 | 0| 
+| 20200717T20:54:41Z | OSS-Fuzz - continuous fuzzing of open source software. | https://github.com/google/oss-fuzz | 5403 | 1049| 
+| 20200717T20:30:25Z | Domain-Specific Fuzzing with Waypoints | https://github.com/rohanpadhye/FuzzFactory | 144 | 18| 
+| 20200717T20:29:30Z | A curated list of different AFL forks and AFL inspired fuzzers with detailed equivalent academic papers with AFL-fuzzing tutorials | https://github.com/Microsvuln/Awesome-AFL | 273 | 31| 
 
 
 
