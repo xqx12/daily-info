@@ -20,16 +20,16 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20200718T19:50:41Z | CVE-2020-1350 | Detection of attempts to exploit Microsoft Windows DNS server via CVE-2020-1350 (AKA SIGRed) | https://github.com/corelight/SIGRed | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 01 MINUTES 32 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200718T19:31:43Z | CVE-2020-6287 | PoC for CVE-2020-6287, CVE-2020-6286 (SAP RECON vulnerability) | https://github.com/chipik/SAP_RECON | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 01 MINUTES 41 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200718T19:50:41Z | CVE-2020-1350 | Detection of attempts to exploit Microsoft Windows DNS server via CVE-2020-1350 (AKA SIGRed) | https://github.com/corelight/SIGRed | 未查询到CVE信息| 
+| 20200718T19:31:43Z | CVE-2020-6287 | PoC for CVE-2020-6287, CVE-2020-6286 (SAP RECON vulnerability) | https://github.com/chipik/SAP_RECON | 未查询到CVE信息| 
 | 20200718T19:19:08Z | CVE-2020-11519 | Technical Write-Up on and PoC Exploit for CVE-2020-11519 and CVE-2020-11520 | https://github.com/patois/winmagic_sd | 未查询到CVE信息| 
-| 20200718T18:46:32Z | CVE-2020-1350 | A denial-of-service proof-of-concept for CVE-2020-1350 | https://github.com/maxpl0it/CVE-2020-1350-DoS | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 01 MINUTES 50 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200718T18:23:17Z | CVE-2020-1350 | Fake exploit tool, designed to rickroll users attempting to actually exploit. | https://github.com/zoomerxsec/Fake_CVE-2020-1350 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 01 MINUTES 05 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200718T18:02:41Z | CVE-2020-1350 | Proof-of-Concept (PoC) script to exploit SIGRed (CVE-2020-1350). Achieves Domain Admin on Domain Controllers running Windows Server 2000 up to Windows Server 2019. | https://github.com/ZephrFish/CVE-2020-1350 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 00 MINUTES 43 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200718T18:46:32Z | CVE-2020-1350 | A denial-of-service proof-of-concept for CVE-2020-1350 | https://github.com/maxpl0it/CVE-2020-1350-DoS | | 
+| 20200718T18:23:17Z | CVE-2020-1350 | Fake exploit tool, designed to rickroll users attempting to actually exploit. | https://github.com/zoomerxsec/Fake_CVE-2020-1350 | 未查询到CVE信息| 
+| 20200718T18:02:41Z | CVE-2020-1350 | Proof-of-Concept (PoC) script to exploit SIGRed (CVE-2020-1350). Achieves Domain Admin on Domain Controllers running Windows Server 2000 up to Windows Server 2019. | https://github.com/ZephrFish/CVE-2020-1350 | | 
 | 20200718T14:36:36Z | CVE-2020-1350 | NSE scripts to detect CVE-2020-1350 SIGRED and CVE-2020-0796 SMBGHOST | https://github.com/pr4jwal/NSE-scripts | 未查询到CVE信息| 
-| 20200718T14:05:57Z | CVE-2020-1350 | Scanner and Mitigator for CVE 2020-1350 | https://github.com/graph-inc/CVE-2020-1350 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 02 MINUTES 24 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200718T14:05:57Z | CVE-2020-1350 | Scanner and Mitigator for CVE 2020-1350 | https://github.com/graph-inc/CVE-2020-1350 | 未查询到CVE信息| 
 | 20200718T11:52:33Z | CVE-2020-15778 | Null | https://github.com/cpandya2909/CVE-2020-15778 | 未查询到CVE信息| 
-| 20200718T11:00:28Z | CVE-2020-1350 | This Powershell Script is checking if your server is vulnerable for the CVE-2020-1350 Remote Code Execution flaw in the Windows DNS Service | https://github.com/T13nn3s/CVE-2020-1350 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 01 MINUTES 23 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200718T11:00:28Z | CVE-2020-1350 | This Powershell Script is checking if your server is vulnerable for the CVE-2020-1350 Remote Code Execution flaw in the Windows DNS Service | https://github.com/T13nn3s/CVE-2020-1350 | 未查询到CVE信息| 
 
 
 # klee on Github 推荐
@@ -65,7 +65,6 @@
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
 | 20200718T23:10:13Z | Tool untuk membantu eksploitasi shell di linux target seperti membuat user backdoor dengan akses root, mendapatkan user dan password linux dari memory server dan menghapus jejak dari target server | https://github.com/kurniawandata/xcodeshellexploitation | 1 | 0| 
-| 20200718T19:47:40Z | Thefatrat a massive exploiting tool : Easy tool to generate backdoor and easy tool to post exploitation attack like browser attack and etc . This tool compiles a malware with popular payload and then the compiled malware can be execute on windows, android, mac . The malware that created with this tool also have an ability to bypass most AV software protection . | https://github.com/Screetsec/TheFatRat | 4376 | 1486| 
 | 20200718T19:41:06Z | This is an old version of the Bluetooth application that I used as a basis in order to develop a backdoor into vending machines. It can be used as a basis for having a custom communication between a Raspberry Pi and another device via Bluetooth. | https://github.com/Ion-Flare/Raspberry-Pi-BLE-Communication-Platform | 1 | 0| 
 | 20200718T14:17:18Z | Backdoor%d PE Files | https://github.com/dustinsilveri/pe-backdoors | 0 | 0| 
 | 20200718T10:06:09Z | PyIris-backdoor is a modular, stealthy and flexible remote-access-toolkit written completely in python used to command and control other systems. It is now in the beta stage, possibly perpetually. There are bugs still present in the framework, feel free to contribute or help me out with this project its still under active development >_> | https://github.com/angus-y/PyIris-backdoor | 89 | 31| 
