@@ -46,16 +46,16 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20200718T23:12:11Z | CVE-2020-1362 | writeup of CVE-2020-1362 | https://github.com/Q4n/CVE-2020-1362 | Windows WalletService处理内存中对象的方式中存在一个特权提升漏洞，也称为“ Windows WalletService特权提升漏洞”。此CVE ID在CVE-2020-1344，CVE-2020-1369中是唯一的。| 
-| 20200718T19:50:41Z | CVE-2020-1350 | Detection of attempts to exploit Microsoft Windows DNS server via CVE-2020-1350 (AKA SIGRed) | https://github.com/corelight/SIGRed | 当Windows域名系统服务器无法正确处理请求（也称为“ Windows DNS服务器远程代码执行漏洞”）时，存在一个远程执行代码漏洞。| 
-| 20200718T19:31:43Z | CVE-2020-6287 | PoC for CVE-2020-6287, CVE-2020-6286 (SAP RECON vulnerability) | https://github.com/chipik/SAP_RECON | SAP NetWeaver AS JAVA（LM配置向导）版本-7.30、7.31、7.34、7.50不执行身份验证检查，这允许未经事先身份验证的攻击者执行针对SAP Java系统执行关键操作的配置任务，包括以下功能：创建管理用户，从而损害系统的机密性，完整性和可用性，从而导致缺少身份验证检查。| 
-| 20200718T19:20:31Z | CVE-2020-8163 | Enviroment and exploit to rce test | https://github.com/h4ms1k/CVE-2020-8163 | 这是5.0.1之前的Rails版本中的代码注入漏洞，它使攻击者可以控制“ render”调用的“ locals”参数以执行RCE。| 
-| 20200718T19:19:08Z | CVE-2020-11519 | Technical Write-Up on and PoC Exploit for CVE-2020-11519 and CVE-2020-11520 | https://github.com/patois/winmagic_sd | WinMagic SecureDoc v8.5和更早版本的SDDisk2k.sys驱动程序允许本地用户通过\\。\ SecureDocDevice句柄读取或写入物理磁盘扇区。利用此漏洞将导致特权代码执行。| 
-| 20200718T18:46:32Z | CVE-2020-1350 | A denial-of-service proof-of-concept for CVE-2020-1350 | https://github.com/maxpl0it/CVE-2020-1350-DoS | 当Windows域名系统服务器无法正确处理请求（也称为“ Windows DNS服务器远程代码执行漏洞”）时，存在一个远程执行代码漏洞。| 
-| 20200718T18:23:17Z | CVE-2020-1350 | Fake exploit tool, designed to rickroll users attempting to actually exploit. | https://github.com/zoomerxsec/Fake_CVE-2020-1350 | 当Windows域名系统服务器无法正确处理请求（也称为“ Windows DNS服务器远程代码执行漏洞”）时，存在一个远程执行代码漏洞。| 
-| 20200718T18:02:41Z | CVE-2020-1350 | Proof-of-Concept (PoC) script to exploit SIGRed (CVE-2020-1350). Achieves Domain Admin on Domain Controllers running Windows Server 2000 up to Windows Server 2019. | https://github.com/ZephrFish/CVE-2020-1350 | 当Windows域名系统服务器无法正确处理请求（也称为“ Windows DNS服务器远程代码执行漏洞”）时，存在一个远程执行代码漏洞。| 
-| 20200718T14:36:36Z | CVE-2020-1350 | NSE scripts to detect CVE-2020-1350 SIGRED and CVE-2020-0796 SMBGHOST | https://github.com/pr4jwal/NSE-scripts | 当Windows域名系统服务器无法正确处理请求（也称为“ Windows DNS服务器远程代码执行漏洞”）时，存在一个远程执行代码漏洞。| 
-| 20200718T14:05:57Z | CVE-2020-1350 | Scanner and Mitigator for CVE 2020-1350 | https://github.com/graph-inc/CVE-2020-1350 | 当Windows域名系统服务器无法正确处理请求（也称为“ Windows DNS服务器远程代码执行漏洞”）时，存在一个远程执行代码漏洞。| 
+| 20200718T23:12:11Z | CVE-2020-1362 | writeup of CVE-2020-1362 | https://github.com/Q4n/CVE-2020-1362 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 55 MINUTES 20 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200718T19:50:41Z | CVE-2020-1350 | Detection of attempts to exploit Microsoft Windows DNS server via CVE-2020-1350 (AKA SIGRed) | https://github.com/corelight/SIGRed | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 56 MINUTES 12 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200718T19:31:43Z | CVE-2020-6287 | PoC for CVE-2020-6287, CVE-2020-6286 (SAP RECON vulnerability) | https://github.com/chipik/SAP_RECON | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 56 MINUTES 13 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200718T19:20:31Z | CVE-2020-8163 | Enviroment and exploit to rce test | https://github.com/h4ms1k/CVE-2020-8163 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 55 MINUTES 27 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200718T19:19:08Z | CVE-2020-11519 | Technical Write-Up on and PoC Exploit for CVE-2020-11519 and CVE-2020-11520 | https://github.com/patois/winmagic_sd | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 56 MINUTES 05 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200718T18:46:32Z | CVE-2020-1350 | A denial-of-service proof-of-concept for CVE-2020-1350 | https://github.com/maxpl0it/CVE-2020-1350-DoS | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 56 MINUTES 15 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200718T18:23:17Z | CVE-2020-1350 | Fake exploit tool, designed to rickroll users attempting to actually exploit. | https://github.com/zoomerxsec/Fake_CVE-2020-1350 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 56 MINUTES 09 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200718T18:02:41Z | CVE-2020-1350 | Proof-of-Concept (PoC) script to exploit SIGRed (CVE-2020-1350). Achieves Domain Admin on Domain Controllers running Windows Server 2000 up to Windows Server 2019. | https://github.com/ZephrFish/CVE-2020-1350 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 56 MINUTES 08 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200718T14:36:36Z | CVE-2020-1350 | NSE scripts to detect CVE-2020-1350 SIGRED and CVE-2020-0796 SMBGHOST | https://github.com/pr4jwal/NSE-scripts | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 56 MINUTES 03 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200718T14:05:57Z | CVE-2020-1350 | Scanner and Mitigator for CVE 2020-1350 | https://github.com/graph-inc/CVE-2020-1350 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 55 MINUTES 26 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 
 
 # klee on Github 推荐
@@ -90,31 +90,31 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20200718T12:37:25Z | We introduce a simple neural network architecture modification that enables composite pattern learning, increases expressiveness, and reduces training time. This expressibility improvement is explained by the density of the modified architecture in a new refined local Lp-space describing composite patterns. In contrast, most feed-forward neural network architectures with sigmoid activation functions are shown not to be dense in this space. In practice, restrictions have to be placed on the dimension of any architecture%s parameter space. L1 approximation bounds are obtained in terms of the number of the trainable parameters. Likewise, convergence guarantees are obtained as the imposed restrictions are asymptotically removed. By exploiting the new architecture%s structure, a parallelizable training meta-algorithm is provided, and numerical evaluations are made using the California housing dataset | https://github.com/bzamanlooy/Architopes | 0 | 0| 
-| 20200718T12:37:24Z | Null | https://github.com/ethushiroha/exploit_learn | 0 | 0| 
-| 20200718T12:35:07Z | Java安全相关的漏洞和技术demo，原生Java、Fastjson、Jackson、Hessian2、XML反序列化漏洞利用和Spring、Dubbo、Shiro、CAS、Tomcat、RMI、Nexus等框架\中间件\功能的exploits以及Java Security Manager绕过、Dubbo-Hessian2安全加固等等实践代码。 | https://github.com/threedr3am/learnjavabug | 916 | 229| 
-| 20200718T12:34:54Z | RCE (Remote Code Execution) for IPFire V2.15 Core Update 82 and below. Requires authentication and takes advantage of a ShellShock vulnerability within bash. | https://github.com/0xskunk/IPFire-2.15-Shellshock-Exploit | 0 | 0| 
-| 20200718T12:22:51Z | Mailpl0it is a small utility that hunts the homepage of exploit-db looking for user supplied quer(y/ies) and notifies the user via email if an exploit is found for the supplied query. | https://github.com/bad-bit/mailpl0it | 1 | 0| 
-| 20200718T11:41:03Z | PS4 Exploit list | https://github.com/Hakkuraifu/PS4xploit | 3 | 0| 
-| 20200718T10:38:41Z | Kernel Exploit PS4 Firmware 6.72 | https://github.com/playstationhacks/modificaps4_6.72 | 0 | 0| 
-| 20200718T10:32:30Z | Proof-of-Concept (PoC) script to exploit SIGRed (CVE-2020-1350). Achieves Domain Admin on Domain Controllers running Windows Server 2000 up to Windows Server 2019. | https://github.com/ZephrFish/CVE-2020-1350 | 183 | 56| 
-| 20200718T10:17:43Z | this bash script let you download scripts and clone repos for remote exploits | https://github.com/FabioDefilippo/linuxallremote | 0 | 0| 
-| 20200718T10:14:12Z | The official Exploit Database repository | https://github.com/offensive-security/exploitdb | 5395 | 1551| 
+| 20200718T23:48:34Z | Null | https://github.com/Roxxiie/SubHubRobloxExploit | 0 | 0| 
+| 20200718T23:16:25Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 6702 | 1056| 
+| 20200718T23:13:33Z | PlayStation 2 DVD Player Exploit | https://github.com/CTurt/FreeDVDBoot | 1178 | 82| 
+| 20200718T23:09:08Z | Script to check MikroTik Routers the  WinBox Authentication Bypass Disclosure & RouterOS Jailbreak vulnerabilities | https://github.com/s1l3nt78/MkCheck | 27 | 11| 
+| 20200718T22:16:06Z | Test the security of the environment by simulating attack scenarios and exploiting cloud configuration vulnerabilities, implement monitoring to identify insecure configurations and malicious activity, harden and secure the environment and Design a DevSecOps pipeline | https://github.com/david-delucas/aws-design-for-security-project | 0 | 0| 
+| 20200718T22:03:31Z | https://github.com/SecWiki/windows-kernel-exploits | https://github.com/mishmashclone/SecWiki-windows-kernel-exploits | 1 | 2| 
+| 20200718T21:08:52Z | Null | https://github.com/4wku/ExploitDetection | 0 | 0| 
+| 20200718T20:38:13Z | random stuff for exploit dev practice | https://github.com/C-Brown/exploit_dev_practice | 0 | 0| 
+| 20200718T19:53:26Z | Huawei DG8045 & HG633 Devices Exploitation Tool | https://github.com/Cyber-Atom/Huawei_Thief | 3 | 1| 
+| 20200718T19:47:40Z | Thefatrat a massive exploiting tool : Easy tool to generate backdoor and easy tool to post exploitation attack like browser attack and etc . This tool compiles a malware with popular payload and then the compiled malware can be execute on windows, android, mac . The malware that created with this tool also have an ability to bypass most AV software protection . | https://github.com/Screetsec/TheFatRat | 4376 | 1486| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20200718T23:10:13Z | Tool untuk membantu eksploitasi shell di linux target seperti membuat user backdoor dengan akses root, mendapatkan user dan password linux dari memory server dan menghapus jejak dari target server | https://github.com/kurniawandata/xcodeshellexploitation | 1 | 0| 
+| 20200718T19:47:40Z | Thefatrat a massive exploiting tool : Easy tool to generate backdoor and easy tool to post exploitation attack like browser attack and etc . This tool compiles a malware with popular payload and then the compiled malware can be execute on windows, android, mac . The malware that created with this tool also have an ability to bypass most AV software protection . | https://github.com/Screetsec/TheFatRat | 4376 | 1486| 
+| 20200718T19:41:06Z | This is an old version of the Bluetooth application that I used as a basis in order to develop a backdoor into vending machines. It can be used as a basis for having a custom communication between a Raspberry Pi and another device via Bluetooth. | https://github.com/Ion-Flare/Raspberry-Pi-BLE-Communication-Platform | 1 | 0| 
+| 20200718T14:17:18Z | Backdoor%d PE Files | https://github.com/dustinsilveri/pe-backdoors | 0 | 0| 
 | 20200718T10:06:09Z | PyIris-backdoor is a modular, stealthy and flexible remote-access-toolkit written completely in python used to command and control other systems. It is now in the beta stage, possibly perpetually. There are bugs still present in the framework, feel free to contribute or help me out with this project its still under active development >_> | https://github.com/angus-y/PyIris-backdoor | 89 | 31| 
 | 20200717T16:36:26Z | Null | https://github.com/Xinghui-Wu/ASR_Backdoor | 0 | 0| 
 | 20200717T14:01:35Z | Only for educational purposes | https://github.com/Levi-python/HHbackdoor-V0.3 | 0 | 0| 
 | 20200717T12:25:29Z | Null | https://github.com/enomarozi/BackdoorCTF_Writeup | 0 | 0| 
 | 20200717T11:38:16Z | Repository for all the code related to Learn Python & Ethical Hacking From Scratch course. All the work is done on Kali Linux, using both Python 2.7 and 3.x version. | https://github.com/Maffey/ethical-hacking-course | 0 | 0| 
 | 20200717T07:46:05Z | Undetectable & Xor encrypting with custom KEY (FUD Metasploit Rat) bypass Top Antivirus like BitDefender,Malwarebytes,Avast,ESET-NOD32,AVG,... & Automatically Add ICON and MANIFEST to excitable | https://github.com/persianhydra/Xeexe-TopAntivirusEvasion | 85 | 36| 
-| 20200717T06:15:19Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 11 | 2| 
-| 20200717T03:17:55Z | PHPStudy Backdoor Remote Code execution. | https://github.com/Awrrays/phpstudy_rce | 0 | 0| 
-| 20200717T03:16:16Z | Samsung Backdoor APK File | https://github.com/kamalu0426/apk-file | 0 | 0| 
-| 20200717T01:42:35Z | Null | https://github.com/ajszoke/vanguard-backdoor | 0 | 0| 
 
 
 # fuzz on Github 推荐
