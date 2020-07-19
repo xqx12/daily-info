@@ -13,26 +13,29 @@
 | --- | --- | ---| 
 | 20200718 | 谷歌学术指标2020年（计算机安全及加密） | https://mp.weixin.qq.com/s/hfUCDdMz2yAfR6NM7oqG-Q| 
 | 20200718 | 最新的nginx后门 | https://mp.weixin.qq.com/s/Vyfto0qn4L16s9dNfVOEqQ| 
+| 20200718 | PHP代码审计之旅 | https://xz.aliyun.com/t/7992| 
+| 20200718 | Metasploit & CobaltStrike 的shellcode分析 | https://xz.aliyun.com/t/7996| 
 
 
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20200718T12:24:49Z | CVE-2020-1362 | writeup of CVE-2020-1362 | https://github.com/Q4n/CVE-2020-1362 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 00 MINUTES 25 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200718T11:52:33Z | CVE-2020-15778 | Null | https://github.com/cpandya2909/CVE-2020-15778 | 未查询到CVE信息| 
-| 20200718T11:00:28Z | CVE-2020-1350 | This Powershell Script is checking if your server is vulnerable for the CVE-2020-1350 Remote Code Execution flaw in the Windows DNS Service | https://github.com/T13nn3s/CVE-2020-1350 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 00 MINUTES 16 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200718T10:32:30Z | CVE-2020-1350 | Proof-of-Concept (PoC) script to exploit SIGRed (CVE-2020-1350). Achieves Domain Admin on Domain Controllers running Windows Server 2000 up to Windows Server 2019. | https://github.com/ZephrFish/CVE-2020-1350 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 00 MINUTES 14 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200718T09:42:26Z | CVE-2020-1350 | A universal poc of CVE-2020-1350 that makes the dns.exe easy to crash | https://github.com/5ing/CVE-2020-1350-poc | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 00 MINUTES 30 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200718T09:41:57Z | CVE-2020-1350 | Fake exploit tool, designed to rickroll users attempting to actually exploit. | https://github.com/zoomerxsec/Fake_CVE-2020-1350 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 00 MINUTES 15 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200718T09:29:48Z | CVE-2020-1350 | A denial-of-service proof-of-concept for CVE-2020-1350 | https://github.com/maxpl0it/CVE-2020-1350-DoS | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 00 MINUTES 21 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200718T07:03:13Z | CVE-2020-6287 | PoC for CVE-2020-6287, CVE-2020-6286 (SAP RECON vulnerability) | https://github.com/chipik/SAP_RECON | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 00 MINUTES 19 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200718T04:01:51Z | CVE-2020-11519 | Technical Write-Up on and PoC Exploit for CVE-2020-11519 and CVE-2020-11520 | https://github.com/patois/winmagic_sd | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 00 MINUTES 11 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200718T03:43:50Z | 未知编号 | CVE Data Analysis, CVE Monitor, CVE EXP Prediction Based on Deep Learning. 1999-2020年存量CVE数据分析、监控CVE增量更新、基于深度学习的CVE EXP预测和自动化推送 | https://github.com/404notf0und/CVE-Flow | 未查询到CVE信息| 
+| 20200718T23:12:11Z | CVE-2020-1362 | writeup of CVE-2020-1362 | https://github.com/Q4n/CVE-2020-1362 | Windows WalletService处理内存中对象的方式中存在一个特权提升漏洞，也称为“ Windows WalletService特权提升漏洞”。此CVE ID在CVE-2020-1344，CVE-2020-1369中是唯一的。| 
+| 20200718T19:50:41Z | CVE-2020-1350 | Detection of attempts to exploit Microsoft Windows DNS server via CVE-2020-1350 (AKA SIGRed) | https://github.com/corelight/SIGRed | 当Windows域名系统服务器无法正确处理请求（也称为“ Windows DNS服务器远程代码执行漏洞”）时，存在一个远程执行代码漏洞。| 
+| 20200718T19:31:43Z | CVE-2020-6287 | PoC for CVE-2020-6287, CVE-2020-6286 (SAP RECON vulnerability) | https://github.com/chipik/SAP_RECON | SAP NetWeaver AS JAVA（LM配置向导）版本-7.30、7.31、7.34、7.50不执行身份验证检查，这允许未经事先身份验证的攻击者执行针对SAP Java系统执行关键操作的配置任务，包括以下功能：创建管理用户，从而损害系统的机密性，完整性和可用性，从而导致缺少身份验证检查。| 
+| 20200718T19:20:31Z | CVE-2020-8163 | Enviroment and exploit to rce test | https://github.com/h4ms1k/CVE-2020-8163 | 这是5.0.1之前的Rails版本中的代码注入漏洞，它使攻击者可以控制“ render”调用的“ locals”参数以执行RCE。| 
+| 20200718T19:19:08Z | CVE-2020-11519 | Technical Write-Up on and PoC Exploit for CVE-2020-11519 and CVE-2020-11520 | https://github.com/patois/winmagic_sd | WinMagic SecureDoc v8.5和更早版本的SDDisk2k.sys驱动程序允许本地用户通过\\。\ SecureDocDevice句柄读取或写入物理磁盘扇区。利用此漏洞将导致特权代码执行。| 
+| 20200718T18:46:32Z | CVE-2020-1350 | A denial-of-service proof-of-concept for CVE-2020-1350 | https://github.com/maxpl0it/CVE-2020-1350-DoS | 当Windows域名系统服务器无法正确处理请求（也称为“ Windows DNS服务器远程代码执行漏洞”）时，存在一个远程执行代码漏洞。| 
+| 20200718T18:23:17Z | CVE-2020-1350 | Fake exploit tool, designed to rickroll users attempting to actually exploit. | https://github.com/zoomerxsec/Fake_CVE-2020-1350 | 当Windows域名系统服务器无法正确处理请求（也称为“ Windows DNS服务器远程代码执行漏洞”）时，存在一个远程执行代码漏洞。| 
+| 20200718T18:02:41Z | CVE-2020-1350 | Proof-of-Concept (PoC) script to exploit SIGRed (CVE-2020-1350). Achieves Domain Admin on Domain Controllers running Windows Server 2000 up to Windows Server 2019. | https://github.com/ZephrFish/CVE-2020-1350 | 当Windows域名系统服务器无法正确处理请求（也称为“ Windows DNS服务器远程代码执行漏洞”）时，存在一个远程执行代码漏洞。| 
+| 20200718T14:36:36Z | CVE-2020-1350 | NSE scripts to detect CVE-2020-1350 SIGRED and CVE-2020-0796 SMBGHOST | https://github.com/pr4jwal/NSE-scripts | 当Windows域名系统服务器无法正确处理请求（也称为“ Windows DNS服务器远程代码执行漏洞”）时，存在一个远程执行代码漏洞。| 
+| 20200718T14:05:57Z | CVE-2020-1350 | Scanner and Mitigator for CVE 2020-1350 | https://github.com/graph-inc/CVE-2020-1350 | 当Windows域名系统服务器无法正确处理请求（也称为“ Windows DNS服务器远程代码执行漏洞”）时，存在一个远程执行代码漏洞。| 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20200718T21:18:20Z | Null | https://github.com/kleineMaus89/kleene | 0 | 0| 
 | 20200718T08:22:42Z | Null | https://github.com/mmjasim8/kleemz | 0 | 0| 
 | 20200718T06:10:20Z | A 4chan image browser written in SwiftUI | https://github.com/jackpal/KleeneStar | 9 | 0| 
 | 20200718T04:01:50Z | Create CFGs and compute complexity metrics for Python, C++, and Java code. | https://github.com/hmc-alpaqa/metrinome | 3 | 0| 
@@ -67,16 +70,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20200718T12:25:09Z | Fuzzing Infrastructure with k8s & cephfs | https://github.com/antojoseph/fc | 2 | 0| 
-| 20200718T11:57:28Z | Why fuzzing with emulators is amazing | https://github.com/gamozolabs/fuzz_with_emus | 38 | 3| 
-| 20200718T11:50:17Z | Null | https://github.com/NorfairKing/cursor-fuzzy-time | 2 | 0| 
-| 20200718T11:32:09Z | Null | https://github.com/BarisX/fuzzy-logic-climate | 0 | 0| 
-| 20200718T09:46:17Z | Simple web fuzzer based on file inclusion/ Directory Traversal using python | https://github.com/Radus1k/Directory-Traversal-Fuzzer | 0 | 0| 
-| 20200718T09:43:26Z | Test | https://github.com/chaitanya7404916902/FuzzyTelegram | 0 | 0| 
-| 20200718T09:21:07Z | 自用前端展示 | https://github.com/WayneDevMaze/CeresFuzzing | 0 | 0| 
-| 20200718T08:52:34Z | Null | https://github.com/nikhils4/fuzzy-eureka | 0 | 1| 
-| 20200718T08:40:12Z | Custom assertion to check whether a JSON string fuzzily matches a pattern for JVM languages. | https://github.com/orangain/json-fuzzy-match | 1 | 0| 
-| 20200718T07:51:16Z | Fuzzy logic merupakan salah satu logic yang digunakan untuk melakukan Teknik reasoning. Teknik reasoning yakni teknik penyelesaian masalah dengan cara merepresentasikan masalah kedalam basis pengetahuan menggunakan logic atau Bahasa formal(Bahasa yang diapahami komputer). Fuzzy logic digunakan untuk menyelesaikan masalah yang memiliki ketidakpastian. Didefinisikan sebagai suatu jenis logic yang bernilai ganda dan berhubungan dengan ketidakpastian dan kebenaran parsial. System yang emnggunakan aturan fuzzy menggunakan variable linguistic, variable linguistic adalah suatu interval numerik dan mempunyai nilai-nilai linguistic, yang semantiknya didefinisikan oleh fungsi keanggotaannya. Suatu system berbasis fuzzy yang lengkap terdiri dari tiga konponen utama yaitu fuzzification, inference, dan defuzzification. | https://github.com/angelmetanosaa/Fuzzy-Logic-with-Python | 0 | 0| 
+| 20200718T23:42:45Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 25882 | 12471| 
+| 20200718T22:22:31Z | FuzzyKnights: Protectors of the Forst - 16bit Adventure | https://github.com/mjnrock/fuzzyknights-arcade | 0 | 0| 
+| 20200718T22:20:26Z | Null | https://github.com/KunyuHe/AML-Chinese-Corporate-Name-Fuzzy-Matching | 0 | 0| 
+| 20200718T22:13:46Z | Grammar-based Fuzzer that uses WebIDL as a grammar. | https://github.com/PrVrSs/idl2js | 0 | 0| 
+| 20200718T22:04:59Z | Coding challenges with starter code and randomly generated test cases. | https://github.com/HackYourFutureBelgium/fuzz | 0 | 0| 
+| 20200718T21:50:33Z | Null | https://github.com/haylee430/fuzzy_friend_finder | 1 | 0| 
+| 20200718T19:02:55Z | Fuzzy TS optimisation based on genetic algorithm | https://github.com/jairpaulino/fuzzy-ts-opt | 0 | 0| 
+| 20200718T19:01:27Z | A little attempt to orthogonal architecture. | https://github.com/C00lWizard1/fuzzy-octo-guide | 0 | 0| 
+| 20200718T18:05:21Z | Wordlists for Fuzzing | https://github.com/maverickNerd/wordlists | 0 | 0| 
+| 20200718T15:48:43Z | The fuzzyparsers library is a python library designed to convert free-form user input into the correct type. It focuses mainly on a very tolerant date input parser. | https://github.com/jbmohler/fuzzyparsers | 0 | 0| 
 
 
 
