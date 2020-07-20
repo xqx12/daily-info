@@ -17,6 +17,7 @@
 | 20200720 | billboard.js 2.0发布！ 拥有更轻巧的体积和更高的性能。 | https://medium.com/@alberto.park/billboard-js-2-0-is-out-15e84b52ab11| 
 | 20200720 | oledump最新版本发布 | https://sec.today/pulses/6a0899f2-bbb6-4364-be43-470f2c0f9871/| 
 | 20200720 | 路径遍历综合指南 | https://sec.today/pulses/d3f61c65-45ac-4f46-9c40-8cccea507838/| 
+| 20200720 | oledump最新版本发布 | https://blog.didierstevens.com/2020/07/19/update-oledump-py-version-0-0-51/| 
 | 20200719 | Windows系统持久性安全分析：端口监视器 | https://www.hackingarticles.in/windows-persistence-port-monitors/| 
 | 20200719 | Vulnserver —第2部分（TRUN — EIP覆盖） | https://medium.com/bugbountywriteup/expdev-vulnserver-part-2-46de4dd7bdde?source=rss----7b722bfd1b8d---4| 
 | 20200717 | 解密 D-Link DIR3060 设备的加密固件 | https://0x00sec.org/t/breaking-the-d-link-dir3060-firmware-encryption-static-analysis-of-the-decryption-routine-part-2-2/22260| 
@@ -25,7 +26,6 @@
 | 20200717 | 嵌入式设备 Digi Connect ME 9210 信息泄漏漏洞分析（CVE-2020-11898） | https://blog.nviso.eu/2020/07/16/testing-ripple20-a-closer-look-and-proof-of-concept-script-for-cve-2020-11898/| 
 | 20200717 | 溯源黑帽利用 Web 编辑器漏洞非法植入 SEO 页面事件 | https://paper.seebug.org/1273/| 
 | 20200717 | 新型Android银行恶意软件将带有窃取社交软件账号密码的功能 | https://thehackernews.com/2020/07/android-password-hacker.html?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+TheHackersNews+%28The+Hackers+News+-+Cyber+Security+Blog%29| 
-| 20200717 | 开源内存扫描工具Moneta教程第二部分 | https://www.forrest-orr.net/post/masking-malicious-memory-artifacts-part-ii-insights-from-moneta| 
 
 
 # 安全维基 推荐
@@ -105,16 +105,16 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20200720T01:51:29Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 15 | 3| 
+| 20200720T11:58:37Z | Thefatrat a massive exploiting tool : Easy tool to generate backdoor and easy tool to post exploitation attack like browser attack and etc . This tool compiles a malware with popular payload and then the compiled malware can be execute on windows, android, mac . The malware that created with this tool also have an ability to bypass most AV software protection . | https://github.com/Screetsec/TheFatRat | 4381 | 1488| 
+| 20200720T11:33:31Z | Classic Backdoor | https://github.com/sercanyilmaz84/backdoor | 0 | 0| 
+| 20200720T10:29:30Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 16 | 3| 
+| 20200720T05:04:19Z | Ghost Framework is an Android post-exploitation framework that exploits the Android Debug Bridge to remotely access an Android device. Ghost Framework gives you the power and convenience of remote Android device administration. | https://github.com/entynetproject/ghost | 609 | 303| 
+| 20200720T03:27:17Z | PyIris-backdoor is a modular, stealthy and flexible remote-access-toolkit written completely in python used to command and control other systems. It is now in the beta stage, possibly perpetually. There are bugs still present in the framework, feel free to contribute or help me out with this project its still under active development >_> | https://github.com/angus-y/PyIris-backdoor | 89 | 31| 
+| 20200720T02:29:32Z | basic backdoor and listener | https://github.com/jonathanreno/Listener-Backdoor | 0 | 0| 
 | 20200720T01:09:38Z | Backdoor for Offensive security | https://github.com/edo92/Backdoor | 0 | 0| 
-| 20200720T00:33:57Z | Ghost Framework is an Android post-exploitation framework that exploits the Android Debug Bridge to remotely access an Android device. Ghost Framework gives you the power and convenience of remote Android device administration. | https://github.com/entynetproject/ghost | 608 | 303| 
 | 20200719T17:47:45Z | My backdoor into skyline | https://github.com/ZachDaChampion/Skyline-Backdoor | 0 | 0| 
 | 20200719T17:36:02Z | Python Backdoor Written on Top of AI for Windows using Telegram-bot, ZMQ, and Socket as Its Back-ends. | https://github.com/wildonion/katyusha | 0 | 0| 
-| 20200719T17:23:53Z | Thefatrat a massive exploiting tool : Easy tool to generate backdoor and easy tool to post exploitation attack like browser attack and etc . This tool compiles a malware with popular payload and then the compiled malware can be execute on windows, android, mac . The malware that created with this tool also have an ability to bypass most AV software protection . | https://github.com/Screetsec/TheFatRat | 4377 | 1488| 
 | 20200719T15:02:31Z | Null | https://github.com/pistacchietto/Win-Python-Backdoor | 3 | 2| 
-| 20200719T06:54:17Z | PyIris-backdoor is a modular, stealthy and flexible remote-access-toolkit written completely in python used to command and control other systems. It is now in the beta stage, possibly perpetually. There are bugs still present in the framework, feel free to contribute or help me out with this project its still under active development >_> | https://github.com/angus-y/PyIris-backdoor | 89 | 31| 
-| 20200719T04:10:07Z | SSH connection daemon for Debian/Raspbian/Ubuntu/etc | https://github.com/daradib/sidedoor | 91 | 18| 
-| 20200718T23:10:13Z | Tool untuk membantu eksploitasi shell di linux target seperti membuat user backdoor dengan akses root, mendapatkan user dan password linux dari memory server dan menghapus jejak dari target server | https://github.com/kurniawandata/xcodeshellexploitation | 1 | 0| 
 
 
 # fuzz on Github 推荐

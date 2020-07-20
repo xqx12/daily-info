@@ -17,6 +17,7 @@
 | 20200720 | billboard.js 2.0发布！ 拥有更轻巧的体积和更高的性能。 | https://medium.com/@alberto.park/billboard-js-2-0-is-out-15e84b52ab11| 
 | 20200720 | oledump最新版本发布 | https://sec.today/pulses/6a0899f2-bbb6-4364-be43-470f2c0f9871/| 
 | 20200720 | 路径遍历综合指南 | https://sec.today/pulses/d3f61c65-45ac-4f46-9c40-8cccea507838/| 
+| 20200720 | oledump最新版本发布 | https://blog.didierstevens.com/2020/07/19/update-oledump-py-version-0-0-51/| 
 
 
 # 安全维基 推荐
@@ -70,9 +71,13 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20200720T01:51:29Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 15 | 3| 
+| 20200720T11:58:37Z | Thefatrat a massive exploiting tool : Easy tool to generate backdoor and easy tool to post exploitation attack like browser attack and etc . This tool compiles a malware with popular payload and then the compiled malware can be execute on windows, android, mac . The malware that created with this tool also have an ability to bypass most AV software protection . | https://github.com/Screetsec/TheFatRat | 4381 | 1488| 
+| 20200720T11:33:31Z | Classic Backdoor | https://github.com/sercanyilmaz84/backdoor | 0 | 0| 
+| 20200720T10:29:30Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 16 | 3| 
+| 20200720T05:04:19Z | Ghost Framework is an Android post-exploitation framework that exploits the Android Debug Bridge to remotely access an Android device. Ghost Framework gives you the power and convenience of remote Android device administration. | https://github.com/entynetproject/ghost | 609 | 303| 
+| 20200720T03:27:17Z | PyIris-backdoor is a modular, stealthy and flexible remote-access-toolkit written completely in python used to command and control other systems. It is now in the beta stage, possibly perpetually. There are bugs still present in the framework, feel free to contribute or help me out with this project its still under active development >_> | https://github.com/angus-y/PyIris-backdoor | 89 | 31| 
+| 20200720T02:29:32Z | basic backdoor and listener | https://github.com/jonathanreno/Listener-Backdoor | 0 | 0| 
 | 20200720T01:09:38Z | Backdoor for Offensive security | https://github.com/edo92/Backdoor | 0 | 0| 
-| 20200720T00:33:57Z | Ghost Framework is an Android post-exploitation framework that exploits the Android Debug Bridge to remotely access an Android device. Ghost Framework gives you the power and convenience of remote Android device administration. | https://github.com/entynetproject/ghost | 608 | 303| 
 
 
 # fuzz on Github 推荐
