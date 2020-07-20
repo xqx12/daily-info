@@ -90,6 +90,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20200720T00:01:45Z | Exploits project Hacking Command Center | https://github.com/chacka0101/exploits | 0 | 1| 
 | 20200719T23:17:31Z | Rakhat - a set of deliberately exploitable VM’s designed to provide practice for penetration testing. | https://github.com/sarah-lishin/Rakhat | 0 | 0| 
 | 20200719T23:04:53Z | Custom version of the original Overthrow.  Bugs squashed and squashing, exploits punishable by death, new businesses plus much more, oh and high steriod use by the AI ;) Discord link  https://discord.gg/ZdMMq9x | https://github.com/GerhartPapaGee/Overthrow-Martial-Law | 0 | 0| 
 | 20200719T22:41:39Z | A series of CTF challenge solutions for binary exploitation (or pwn) and reverse engineering (or rev) challenges | https://github.com/docfate111/binary-exploitation-solution-scripts | 0 | 0| 
@@ -99,7 +100,6 @@
 | 20200719T21:18:23Z | PS4 browser based exploits repo | https://github.com/NFSS10/PS4-Jailbreak | 0 | 0| 
 | 20200719T21:09:48Z | Null | https://github.com/ibaitxo/ProtostarExploits | 0 | 0| 
 | 20200719T21:07:37Z | PS4 Exploit list | https://github.com/Hakkuraifu/PS4xploit | 6 | 2| 
-| 20200719T20:08:20Z | Web Server with exploitable code. DO NOT USE THIS FOR A SERVER | https://github.com/hmm-ship-it/Stinky-Server-Socks | 1 | 0| 
 
 
 # backdoor on Github 推荐
