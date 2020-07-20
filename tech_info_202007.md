@@ -18,6 +18,7 @@
 | 20200720 | oledump最新版本发布 | https://sec.today/pulses/6a0899f2-bbb6-4364-be43-470f2c0f9871/| 
 | 20200720 | 路径遍历综合指南 | https://sec.today/pulses/d3f61c65-45ac-4f46-9c40-8cccea507838/| 
 | 20200720 | oledump最新版本发布 | https://blog.didierstevens.com/2020/07/19/update-oledump-py-version-0-0-51/| 
+| 20200720 | 路径遍历综合指南 | https://www.hackingarticles.in/comprehensive-guide-on-path-traversal/| 
 | 20200719 | Windows系统持久性安全分析：端口监视器 | https://www.hackingarticles.in/windows-persistence-port-monitors/| 
 | 20200719 | Vulnserver —第2部分（TRUN — EIP覆盖） | https://medium.com/bugbountywriteup/expdev-vulnserver-part-2-46de4dd7bdde?source=rss----7b722bfd1b8d---4| 
 | 20200717 | 解密 D-Link DIR3060 设备的加密固件 | https://0x00sec.org/t/breaking-the-d-link-dir3060-firmware-encryption-static-analysis-of-the-decryption-routine-part-2-2/22260| 
@@ -25,7 +26,6 @@
 | 20200717 | Zoom 的 “Vanity URL” 特性被发现 0Day 漏洞，结合社会工程学可以泄漏敏感信息 | https://threatpost.com/zoom-vanity-url-zero-day/157510/| 
 | 20200717 | 嵌入式设备 Digi Connect ME 9210 信息泄漏漏洞分析（CVE-2020-11898） | https://blog.nviso.eu/2020/07/16/testing-ripple20-a-closer-look-and-proof-of-concept-script-for-cve-2020-11898/| 
 | 20200717 | 溯源黑帽利用 Web 编辑器漏洞非法植入 SEO 页面事件 | https://paper.seebug.org/1273/| 
-| 20200717 | 新型Android银行恶意软件将带有窃取社交软件账号密码的功能 | https://thehackernews.com/2020/07/android-password-hacker.html?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+TheHackersNews+%28The+Hackers+News+-+Cyber+Security+Blog%29| 
 
 
 # 安全维基 推荐
@@ -46,15 +46,15 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20200720T11:51:20Z | CVE-2020-1350 | A basic proof of concept for CVE-2020-1350 | https://github.com/Plazmaz/CVE-2020-1350-poc | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 58 MINUTES 43 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200720T11:43:36Z | CVE-2020-13925 | Null | https://github.com/bit4woo/CVE-2020-13925 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 58 MINUTES 45 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200720T11:51:20Z | CVE-2020-1350 | A basic proof of concept for CVE-2020-1350 | https://github.com/Plazmaz/CVE-2020-1350-poc | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 57 MINUTES 32 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200720T11:43:36Z | CVE-2020-13925 | Null | https://github.com/bit4woo/CVE-2020-13925 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 57 MINUTES 34 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20200720T11:40:13Z | CVE-2020-14645 | Null | https://github.com/DaBoQuan/CVE-2020-14645 | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
 | 20200720T10:27:31Z | CVE-2020-14645 | Weblogic CVE-2020-14645 UniversalExtractor JNDI injection getDatabaseMetaData() | https://github.com/Y4er/CVE-2020-14645 | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
 | 20200720T10:11:36Z | CVE-2020-6287 | PoC for CVE-2020-6287, CVE-2020-6286 (SAP RECON vulnerability) | https://github.com/chipik/SAP_RECON | | 
-| 20200720T10:11:22Z | CVE-2020-1350 | NSE scripts to detect CVE-2020-1350 SIGRED and CVE-2020-0796 SMBGHOST | https://github.com/pr4jwal/NSE-scripts | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 58 MINUTES 26 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200720T09:50:07Z | CVE-2020-8163 | Enviroment and exploit to rce test | https://github.com/h4ms1k/CVE-2020-8163 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 58 MINUTES 39 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200720T09:12:36Z | CVE-2020-1350 | Comprueba si su servidor DNS es vulnerable a la ejecución remota de código. | https://github.com/Secuora-Org/CVE-2020-1350-checker.ps1 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 58 MINUTES 44 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200720T07:29:08Z | CVE-2020-1350 | Proof-of-Concept (PoC) script to exploit SIGRed (CVE-2020-1350). Achieves Domain Admin on Domain Controllers running Windows Server 2000 up to Windows Server 2019. | https://github.com/ZephrFish/CVE-2020-1350 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 58 MINUTES 28 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200720T10:11:22Z | CVE-2020-1350 | NSE scripts to detect CVE-2020-1350 SIGRED and CVE-2020-0796 SMBGHOST | https://github.com/pr4jwal/NSE-scripts | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 57 MINUTES 15 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200720T09:50:07Z | CVE-2020-8163 | Enviroment and exploit to rce test | https://github.com/h4ms1k/CVE-2020-8163 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 57 MINUTES 27 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200720T09:12:36Z | CVE-2020-1350 | Comprueba si su servidor DNS es vulnerable a la ejecución remota de código. | https://github.com/Secuora-Org/CVE-2020-1350-checker.ps1 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 57 MINUTES 33 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200720T07:29:08Z | CVE-2020-1350 | Proof-of-Concept (PoC) script to exploit SIGRed (CVE-2020-1350). Achieves Domain Admin on Domain Controllers running Windows Server 2000 up to Windows Server 2019. | https://github.com/ZephrFish/CVE-2020-1350 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 57 MINUTES 16 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20200720T07:23:46Z | 未知编号 | CVE Data Analysis, CVE Monitor, CVE EXP Prediction Based on Deep Learning. 1999-2020年存量CVE数据分析、监控CVE增量更新、基于深度学习的CVE EXP预测和自动化推送 | https://github.com/404notf0und/CVE-Flow | 未查询到CVE信息| 
 
 
@@ -90,9 +90,9 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20200720T12:02:11Z | PS4 Exploit list | https://github.com/Hakkuraifu/PS4xploit | 6 | 1| 
 | 20200720T11:59:29Z | Exploration-Exploitation using MAB | https://github.com/aegoe/MAB | 0 | 1| 
 | 20200720T11:58:14Z | V0.4.2 | https://github.com/AGroupOfBoredPeople/-BUK-City-of-London-Exploit-Script | 0 | 0| 
-| 20200720T11:51:29Z | PS4 Exploit list | https://github.com/Hakkuraifu/PS4xploit | 6 | 1| 
 | 20200720T11:40:37Z | onifw is a console framework for pentesting | https://github.com/w0bos/onifw | 4 | 0| 
 | 20200720T10:02:41Z | Null | https://github.com/pwnd-root/exploits-and-stuff | 0 | 0| 
 | 20200720T10:01:19Z | A phased, evasive Path Traversal scanning & exploitation tool in Python | https://github.com/VainlyStrain/Vailyn | 2 | 0| 
