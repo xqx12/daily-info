@@ -36,15 +36,15 @@
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
 | 20200721T12:44:33Z | CVE-2020-13925 | Null | https://github.com/bit4woo/CVE-2020-13925 | | 
-| 20200721T12:44:10Z | CVE-2020-14645 | Weblogic CVE-2020-14645 UniversalExtractor JNDI injection getDatabaseMetaData() | https://github.com/Y4er/CVE-2020-14645 | | 
+| 20200721T12:44:10Z | CVE-2020-14645 | Weblogic CVE-2020-14645 UniversalExtractor JNDI injection getDatabaseMetaData() | https://github.com/Y4er/CVE-2020-14645 | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
 | 20200721T12:17:54Z | CVE-2020-12432 | Null | https://github.com/d7x/CVE-2020-12432 | 未查询到CVE信息| 
 | 20200721T11:24:46Z | CVE-2020-14645 | Weblogic CVE-2020-14645 coherence 反序列化漏洞验证程序 | https://github.com/DSO-Lab/Weblogic_CVE-2020-14645 | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
 | 20200721T09:54:29Z | cve-2020-9006 | Null | https://github.com/tz4678/cve-2020-9006 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 14 MINUTES 27 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200721T09:32:41Z | CVE-2020-6287 | PoC for CVE-2020-6287, CVE-2020-6286 (SAP RECON vulnerability) | https://github.com/chipik/SAP_RECON | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 15 MINUTES 08 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200721T06:52:33Z | CVE-2020-1350 | Proof-of-Concept (PoC) script to exploit SIGRed (CVE-2020-1350). Achieves Domain Admin on Domain Controllers running Windows Server 2000 up to Windows Server 2019. | https://github.com/ZephrFish/CVE-2020-1350 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 15 MINUTES 05 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200721T09:32:41Z | CVE-2020-6287 | PoC for CVE-2020-6287, CVE-2020-6286 (SAP RECON vulnerability) | https://github.com/chipik/SAP_RECON | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 14 MINUTES 15 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200721T06:52:33Z | CVE-2020-1350 | Proof-of-Concept (PoC) script to exploit SIGRed (CVE-2020-1350). Achieves Domain Admin on Domain Controllers running Windows Server 2000 up to Windows Server 2019. | https://github.com/ZephrFish/CVE-2020-1350 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 14 MINUTES 11 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20200721T03:39:09Z | CVE-2020-11896 | PoC for CVE-2020-11896 Treck TCP/IP stack and device asset investigation | https://github.com/Fans0n-Fan/Treck20-Related | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 14 MINUTES 25 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20200721T02:13:19Z | cve-2020-5902 | Null | https://github.com/f5devcentral/cve-2020-5902-ioc-bigip-checker | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 14 MINUTES 24 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200721T00:08:14Z | CVE-2020-1350 | Detection of attempts to exploit Microsoft Windows DNS server via CVE-2020-1350 (AKA SIGRed) | https://github.com/corelight/SIGRed | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 15 MINUTES 06 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200721T00:08:14Z | CVE-2020-1350 | Detection of attempts to exploit Microsoft Windows DNS server via CVE-2020-1350 (AKA SIGRed) | https://github.com/corelight/SIGRed | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 14 MINUTES 14 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 
 
 # klee on Github 推荐
@@ -62,6 +62,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20200721T12:45:31Z | Blog! | https://github.com/nonetype/nonetype.github.io | 0 | 0| 
 | 20200721T12:36:17Z | fastjson一键命令执行 | https://github.com/mrknow001/fastjson_rec_exploit | 1 | 1| 
 | 20200721T12:35:13Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 6723 | 1059| 
 | 20200721T12:02:05Z | Original repo by Nomi Sec https://github.com/nomi-sec/PoC-in-GitHub | https://github.com/saifuddinamri/Exploit-POC | 0 | 0| 
@@ -71,7 +72,6 @@
 | 20200721T09:55:16Z | Ghost Framework is an Android post-exploitation framework that exploits the Android Debug Bridge to remotely access an Android device. Ghost Framework gives you the power and convenience of remote Android device administration. | https://github.com/entynetproject/ghost | 609 | 303| 
 | 20200721T09:51:52Z | Decompilation of APK-files into .smali Format for Debugging and Analyzing fully compiled Android-APKs. | https://github.com/bmarv/SmaliCode-Exploiter | 1 | 0| 
 | 20200721T08:55:42Z | The GLua exploits for different servers / addons | https://github.com/StringExploder/GLua_Exploits | 0 | 0| 
-| 20200721T07:43:19Z | 常用漏洞集合 | https://github.com/Amzza0x00/Zerooo-Exploitation-Framework | 19 | 4| 
 
 
 # backdoor on Github 推荐
