@@ -17,6 +17,8 @@
 | 20200721 | Fastjson parseObject/parse Java 对象反序列化漏洞分析 | https://paper.seebug.org/1274/| 
 | 20200721 | GitHub安全团队在流行的Node.js changelog库中发现了远程代码执行漏洞 | https://sec.today/pulses/82212ab8-db2d-440b-88bc-c0015fbf0bea/| 
 | 20200721 | 恶意软件常用的反射dll注入技术视频教程 | https://sec.today/pulses/9b4415de-90e3-4294-9f88-002fc0a018cf/| 
+| 20200721 | GitHub安全团队在流行的Node.js changelog库中发现了远程代码执行漏洞 | https://portswigger.net/daily-swig/github-security-team-finds-remote-code-execution-bug-in-popular-node-js-changelog-library| 
+| 20200721 | 恶意软件常用的反射dll注入技术视频教程 | http://www.debasish.in/2020/07/videoreflective-dll-injection-explained.html?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+debasish%2FEYdX+%28Debasish+Mandal%27s+Blog%29| 
 | 20200720 | Windows WalletService 本地提权漏洞分析及利用（CVE-2020-1362） | https://github.com/Q4n/CVE-2020-1362| 
 | 20200720 | 微软开源了一个 Linux 版本的 Process Monitor | https://github.com/microsoft/ProcMon-for-Linux| 
 | 20200720 | 今年 DEF CON 28 Safe Mode 会议的议题列表公布了，会议将于 8 月 6~7 号在线上举办 | https://www.defcon.org/html/defcon-safemode/dc-safemode-schedule.html| 
@@ -24,8 +26,6 @@
 | 20200720 | 在开启 KVM 的 QEMU 虚拟机中执行 iOS | https://alephsecurity.com/2020/07/19/xnu-qemu-kvm/| 
 | 20200720 | 0CTF/TCTF 2020 Chromium 浏览器挑战的 Writeup | https://dmxcsnsbh.github.io/2020/07/20/0CTF-TCTF-2020-Chromium-series-challenge/| 
 | 20200720 | 利用 LOLBin 和 Donut 等工具制作 Symantec 反病毒软件的免杀样本 | https://cognosec.com/bypassing-symantec-endpoint-protection-for-fun-profit-defense-evasion/| 
-| 20200720 | ARM 栈溢出 Exploit 开发之利用 ret2plt Bypass ASLR | https://www.fortinet.com/blog/threat-research/tutorial-of-arm-stack-overflow-exploit-defeating-aslr-with-ret2plt?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+fortinet%2Fblog%2Fthreat-research+%28Fortinet+Threat+Research+Blog%29| 
-| 20200720 | billboard.js 2.0发布！ 拥有更轻巧的体积和更高的性能。 | https://medium.com/@alberto.park/billboard-js-2-0-is-out-15e84b52ab11| 
 
 
 # 安全维基 推荐
@@ -90,7 +90,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20200721T12:01:02Z | Original repo by Nomi Sec https://github.com/nomi-sec/PoC-in-GitHub | https://github.com/saifuddinamri/Exploit-POC | 0 | 0| 
+| 20200721T12:02:05Z | Original repo by Nomi Sec https://github.com/nomi-sec/PoC-in-GitHub | https://github.com/saifuddinamri/Exploit-POC | 0 | 0| 
 | 20200721T11:47:25Z | Fuel-Cms Rce Exploit (Single,Mass)  Version: 1.4.2 | https://github.com/SalimAlk/CVE-2018-16763- | 0 | 1| 
 | 20200721T11:12:58Z | A python script file to remotely analyse and exploit Microsoft Windows system via impacket. | https://github.com/BroadbentT/WIN-MASTER | 13 | 10| 
 | 20200721T09:59:57Z | Python and bash Scripts for exploiting specific vulnerabilities and getting a shell for the same !  | https://github.com/NullByte007/Exploits | 0 | 0| 
@@ -105,23 +105,23 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20200721T01:21:53Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 19 | 3| 
+| 20200721T09:55:16Z | Ghost Framework is an Android post-exploitation framework that exploits the Android Debug Bridge to remotely access an Android device. Ghost Framework gives you the power and convenience of remote Android device administration. | https://github.com/entynetproject/ghost | 609 | 303| 
+| 20200721T09:32:42Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 22 | 3| 
+| 20200721T08:56:27Z | List of possible Linux backdoors | https://github.com/gquere/linux_backdooring | 2 | 2| 
+| 20200721T05:59:35Z | Null | https://github.com/Thoyt810/nodeBackdoor | 0 | 0| 
+| 20200721T03:05:42Z | SSH connection daemon for Debian/Raspbian/Ubuntu/etc | https://github.com/daradib/sidedoor | 91 | 18| 
 | 20200720T23:47:26Z | Null | https://github.com/dheeraj7596/NlpBackdoor | 0 | 0| 
 | 20200720T23:38:22Z | Null | https://github.com/NinjaJc01/ssh-backdoor | 0 | 0| 
 | 20200720T20:07:09Z | Repository for all the code related to Learn Python & Ethical Hacking From Scratch course. All the work is done on Kali Linux, using both Python 2.7 and 3.x version. | https://github.com/Maffey/ethical-hacking-course | 0 | 0| 
-| 20200720T19:12:00Z | Ghost Framework is an Android post-exploitation framework that exploits the Android Debug Bridge to remotely access an Android device. Ghost Framework gives you the power and convenience of remote Android device administration. | https://github.com/entynetproject/ghost | 609 | 303| 
 | 20200720T19:07:19Z | Thoron Framework is a Linux post-exploitation framework that exploits Linux TCP vulnerability to provide a shell-like connection. Thoron Framework has the ability to create simple payloads to provide Linux TCP attack. | https://github.com/entynetproject/thoron | 70 | 26| 
 | 20200720T17:09:41Z | BackDoor echa en python3 con trafico encriptado en base85, esta back door no se puede mover entra carpetas, pero si puede ejecutar comandos en la maquina victima, esta es una version demos, pues se espera poder desarrollar una funcion con la que desplazarse entre carpetas, esta puerta trasera uas conexiones tcp y tambien dispone de unserver http que se puede personalizar y ejecutar en el dispositivo victima con lo que se podira descargar sus archivos. | https://github.com/desmonHak/BackDoor-Trafic-Encode-Base85 | 1 | 0| 
-| 20200720T13:51:46Z | Thefatrat a massive exploiting tool : Easy tool to generate backdoor and easy tool to post exploitation attack like browser attack and etc . This tool compiles a malware with popular payload and then the compiled malware can be execute on windows, android, mac . The malware that created with this tool also have an ability to bypass most AV software protection . | https://github.com/Screetsec/TheFatRat | 4380 | 1490| 
-| 20200720T13:24:16Z | Null | https://github.com/pistacchietto/Win-Python-Backdoor | 3 | 2| 
-| 20200720T13:20:16Z | Null | https://github.com/pistacchietto/OSX-Peristant-BackDoor | 2 | 5| 
 
 
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20200721T12:02:15Z | Null | https://github.com/WillRoque/simple-fuzzing | 0 | 0| 
 | 20200721T12:00:05Z | Null | https://github.com/andreafioraldi/weizz-fuzzer | 26 | 4| 
-| 20200721T11:56:15Z | Null | https://github.com/WillRoque/simple-fuzzing | 0 | 0| 
 | 20200721T11:48:54Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 25915 | 12489| 
 | 20200721T11:31:15Z | Create your Custom Wordlist For Fuzzing | https://github.com/D4Vinci/CWFF | 15 | 5| 
 | 20200721T11:04:49Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 3049 | 694| 

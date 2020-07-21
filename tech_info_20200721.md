@@ -17,6 +17,8 @@
 | 20200721 | Fastjson parseObject/parse Java 对象反序列化漏洞分析 | https://paper.seebug.org/1274/| 
 | 20200721 | GitHub安全团队在流行的Node.js changelog库中发现了远程代码执行漏洞 | https://sec.today/pulses/82212ab8-db2d-440b-88bc-c0015fbf0bea/| 
 | 20200721 | 恶意软件常用的反射dll注入技术视频教程 | https://sec.today/pulses/9b4415de-90e3-4294-9f88-002fc0a018cf/| 
+| 20200721 | GitHub安全团队在流行的Node.js changelog库中发现了远程代码执行漏洞 | https://portswigger.net/daily-swig/github-security-team-finds-remote-code-execution-bug-in-popular-node-js-changelog-library| 
+| 20200721 | 恶意软件常用的反射dll注入技术视频教程 | http://www.debasish.in/2020/07/videoreflective-dll-injection-explained.html?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+debasish%2FEYdX+%28Debasish+Mandal%27s+Blog%29| 
 
 
 # 安全维基 推荐
@@ -60,7 +62,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20200721T12:01:02Z | Original repo by Nomi Sec https://github.com/nomi-sec/PoC-in-GitHub | https://github.com/saifuddinamri/Exploit-POC | 0 | 0| 
+| 20200721T12:02:05Z | Original repo by Nomi Sec https://github.com/nomi-sec/PoC-in-GitHub | https://github.com/saifuddinamri/Exploit-POC | 0 | 0| 
 | 20200721T11:47:25Z | Fuel-Cms Rce Exploit (Single,Mass)  Version: 1.4.2 | https://github.com/SalimAlk/CVE-2018-16763- | 0 | 1| 
 | 20200721T11:12:58Z | A python script file to remotely analyse and exploit Microsoft Windows system via impacket. | https://github.com/BroadbentT/WIN-MASTER | 13 | 10| 
 | 20200721T09:59:57Z | Python and bash Scripts for exploiting specific vulnerabilities and getting a shell for the same !  | https://github.com/NullByte007/Exploits | 0 | 0| 
@@ -75,14 +77,18 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20200721T01:21:53Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 19 | 3| 
+| 20200721T09:55:16Z | Ghost Framework is an Android post-exploitation framework that exploits the Android Debug Bridge to remotely access an Android device. Ghost Framework gives you the power and convenience of remote Android device administration. | https://github.com/entynetproject/ghost | 609 | 303| 
+| 20200721T09:32:42Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 22 | 3| 
+| 20200721T08:56:27Z | List of possible Linux backdoors | https://github.com/gquere/linux_backdooring | 2 | 2| 
+| 20200721T05:59:35Z | Null | https://github.com/Thoyt810/nodeBackdoor | 0 | 0| 
+| 20200721T03:05:42Z | SSH connection daemon for Debian/Raspbian/Ubuntu/etc | https://github.com/daradib/sidedoor | 91 | 18| 
 
 
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20200721T12:02:15Z | Null | https://github.com/WillRoque/simple-fuzzing | 0 | 0| 
 | 20200721T12:00:05Z | Null | https://github.com/andreafioraldi/weizz-fuzzer | 26 | 4| 
-| 20200721T11:56:15Z | Null | https://github.com/WillRoque/simple-fuzzing | 0 | 0| 
 | 20200721T11:48:54Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 25915 | 12489| 
 | 20200721T11:31:15Z | Create your Custom Wordlist For Fuzzing | https://github.com/D4Vinci/CWFF | 15 | 5| 
 | 20200721T11:04:49Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 3049 | 694| 
