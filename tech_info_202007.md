@@ -46,26 +46,26 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20200720T11:51:20Z | CVE-2020-1350 | A basic proof of concept for CVE-2020-1350 | https://github.com/Plazmaz/CVE-2020-1350-poc | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 00 MINUTES 33 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200720T11:43:36Z | CVE-2020-13925 | Null | https://github.com/bit4woo/CVE-2020-13925 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 00 MINUTES 35 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200720T11:40:13Z | CVE-2020-14645 | Null | https://github.com/DaBoQuan/CVE-2020-14645 | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
-| 20200720T10:27:31Z | CVE-2020-14645 | Weblogic CVE-2020-14645 UniversalExtractor JNDI injection getDatabaseMetaData() | https://github.com/Y4er/CVE-2020-14645 | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
-| 20200720T10:11:36Z | CVE-2020-6287 | PoC for CVE-2020-6287, CVE-2020-6286 (SAP RECON vulnerability) | https://github.com/chipik/SAP_RECON | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 00 MINUTES 21 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200720T10:11:22Z | CVE-2020-1350 | NSE scripts to detect CVE-2020-1350 SIGRED and CVE-2020-0796 SMBGHOST | https://github.com/pr4jwal/NSE-scripts | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 00 MINUTES 14 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200720T09:50:07Z | CVE-2020-8163 | Enviroment and exploit to rce test | https://github.com/h4ms1k/CVE-2020-8163 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 00 MINUTES 28 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200720T09:12:36Z | CVE-2020-1350 | Comprueba si su servidor DNS es vulnerable a la ejecución remota de código. | https://github.com/Secuora-Org/CVE-2020-1350-checker.ps1 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 00 MINUTES 35 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200720T07:29:08Z | CVE-2020-1350 | Proof-of-Concept (PoC) script to exploit SIGRed (CVE-2020-1350). Achieves Domain Admin on Domain Controllers running Windows Server 2000 up to Windows Server 2019. | https://github.com/ZephrFish/CVE-2020-1350 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 00 MINUTES 16 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200720T07:23:46Z | 未知编号 | CVE Data Analysis, CVE Monitor, CVE EXP Prediction Based on Deep Learning. 1999-2020年存量CVE数据分析、监控CVE增量更新、基于深度学习的CVE EXP预测和自动化推送 | https://github.com/404notf0und/CVE-Flow | 未查询到CVE信息| 
+| 20200720T23:24:37Z | CVE-2020-14645 | Null | https://github.com/DaBoQuan/CVE-2020-14645 | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
+| 20200720T21:17:22Z | CVE-2020-14645 | Weblogic CVE-2020-14645 UniversalExtractor JNDI injection getDatabaseMetaData() | https://github.com/Y4er/CVE-2020-14645 | 未查询到CVE信息| 
+| 20200720T21:08:23Z | CVE-2020-8558 | Crafting raw TCP/IP packets to send to poorly configured servers - CVE-2020-8558 PoC | https://github.com/rhysemmas/martian-packets | 未查询到CVE信息| 
+| 20200720T20:32:49Z | CVE-2020-1350 | Proof-of-Concept (PoC) script to exploit SIGRed (CVE-2020-1350). Achieves Domain Admin on Domain Controllers running Windows Server 2000 up to Windows Server 2019. | https://github.com/ZephrFish/CVE-2020-1350 | 未查询到CVE信息| 
+| 20200720T19:51:04Z | cve-2020-5902 | Null | https://github.com/f5devcentral/cve-2020-5902-ioc-bigip-checker | 未查询到CVE信息| 
+| 20200720T19:40:58Z | CVE-2020-8163 | Enviroment and exploit to rce test | https://github.com/h4ms1k/CVE-2020-8163 | 未查询到CVE信息| 
+| 20200720T17:31:42Z | CVE-2020-1350 | A basic proof of concept for CVE-2020-1350 | https://github.com/Plazmaz/CVE-2020-1350-poc | 当Windows域名系统服务器无法正确处理请求（也称为“ Windows DNS服务器远程代码执行漏洞”）时，存在一个远程执行代码漏洞。| 
+| 20200720T16:22:23Z | CVE-2020-15051 | CVE-2020-15051 : Artica Proxy before 4.30.000000 Community Edition allows Stored Cross Site Scripting. | https://github.com/pratikshad19/CVE-2020-15051 | 未查询到CVE信息| 
+| 20200720T16:21:46Z | CVE-2020-15052 | Artica Proxy before 4.30.000000 Community Edition allows SQL Injection. | https://github.com/pratikshad19/CVE-2020-15052 | | 
+| 20200720T16:21:09Z | CVE-2020-15053 | Artica Proxy before 4.30.000000 Community Edition allows Reflected Cross Site Scripting. | https://github.com/pratikshad19/CVE-2020-15053 | 未查询到CVE信息| 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20200720T02:10:52Z | Create CFGs and compute complexity metrics for Python, C++, and Java code. | https://github.com/hmc-alpaqa/metrinome | 3 | 0| 
+| 20200720T23:21:17Z | Create CFGs and compute complexity metrics for Python, C++, and Java code. | https://github.com/hmc-alpaqa/metrinome | 3 | 0| 
+| 20200720T19:16:44Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1439 | 442| 
 | 20200719T06:45:41Z | Null | https://github.com/mmjasim8/kleemz | 0 | 0| 
 | 20200718T21:18:20Z | Null | https://github.com/kleineMaus89/kleene | 0 | 0| 
 | 20200718T06:10:20Z | A 4chan image browser written in SwiftUI | https://github.com/jackpal/KleeneStar | 9 | 0| 
-| 20200717T21:19:27Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1438 | 442| 
 | 20200717T13:26:48Z | Website for the KLEE project: https://klee.github.io/ | https://github.com/klee/klee.github.io | 13 | 42| 
 | 20200717T07:46:09Z | Clean extract system to export folder content and sub content | https://github.com/Edenskull/KleenExtractor | 0 | 0| 
 | 20200716T15:05:21Z | Null | https://github.com/thierry-tct/KLEE-SEMu | 0 | 0| 
@@ -105,31 +105,31 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20200720T11:58:37Z | Thefatrat a massive exploiting tool : Easy tool to generate backdoor and easy tool to post exploitation attack like browser attack and etc . This tool compiles a malware with popular payload and then the compiled malware can be execute on windows, android, mac . The malware that created with this tool also have an ability to bypass most AV software protection . | https://github.com/Screetsec/TheFatRat | 4381 | 1488| 
-| 20200720T11:33:31Z | Classic Backdoor | https://github.com/sercanyilmaz84/backdoor | 0 | 0| 
-| 20200720T10:29:30Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 16 | 3| 
-| 20200720T05:04:19Z | Ghost Framework is an Android post-exploitation framework that exploits the Android Debug Bridge to remotely access an Android device. Ghost Framework gives you the power and convenience of remote Android device administration. | https://github.com/entynetproject/ghost | 609 | 303| 
-| 20200720T03:27:17Z | PyIris-backdoor is a modular, stealthy and flexible remote-access-toolkit written completely in python used to command and control other systems. It is now in the beta stage, possibly perpetually. There are bugs still present in the framework, feel free to contribute or help me out with this project its still under active development >_> | https://github.com/angus-y/PyIris-backdoor | 89 | 31| 
-| 20200720T02:29:32Z | basic backdoor and listener | https://github.com/jonathanreno/Listener-Backdoor | 0 | 0| 
-| 20200720T01:09:38Z | Backdoor for Offensive security | https://github.com/edo92/Backdoor | 0 | 0| 
-| 20200719T17:47:45Z | My backdoor into skyline | https://github.com/ZachDaChampion/Skyline-Backdoor | 0 | 0| 
-| 20200719T17:36:02Z | Python Backdoor Written on Top of AI for Windows using Telegram-bot, ZMQ, and Socket as Its Back-ends. | https://github.com/wildonion/katyusha | 0 | 0| 
-| 20200719T15:02:31Z | Null | https://github.com/pistacchietto/Win-Python-Backdoor | 3 | 2| 
+| 20200720T23:47:26Z | Null | https://github.com/dheeraj7596/NlpBackdoor | 0 | 0| 
+| 20200720T23:38:22Z | Null | https://github.com/NinjaJc01/ssh-backdoor | 0 | 0| 
+| 20200720T20:07:09Z | Repository for all the code related to Learn Python & Ethical Hacking From Scratch course. All the work is done on Kali Linux, using both Python 2.7 and 3.x version. | https://github.com/Maffey/ethical-hacking-course | 0 | 0| 
+| 20200720T19:12:00Z | Ghost Framework is an Android post-exploitation framework that exploits the Android Debug Bridge to remotely access an Android device. Ghost Framework gives you the power and convenience of remote Android device administration. | https://github.com/entynetproject/ghost | 609 | 303| 
+| 20200720T19:07:19Z | Thoron Framework is a Linux post-exploitation framework that exploits Linux TCP vulnerability to provide a shell-like connection. Thoron Framework has the ability to create simple payloads to provide Linux TCP attack. | https://github.com/entynetproject/thoron | 70 | 26| 
+| 20200720T17:09:41Z | BackDoor echa en python3 con trafico encriptado en base85, esta back door no se puede mover entra carpetas, pero si puede ejecutar comandos en la maquina victima, esta es una version demos, pues se espera poder desarrollar una funcion con la que desplazarse entre carpetas, esta puerta trasera uas conexiones tcp y tambien dispone de unserver http que se puede personalizar y ejecutar en el dispositivo victima con lo que se podira descargar sus archivos. | https://github.com/desmonHak/BackDoor-Trafic-Encode-Base85 | 1 | 0| 
+| 20200720T15:17:05Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 17 | 3| 
+| 20200720T13:51:46Z | Thefatrat a massive exploiting tool : Easy tool to generate backdoor and easy tool to post exploitation attack like browser attack and etc . This tool compiles a malware with popular payload and then the compiled malware can be execute on windows, android, mac . The malware that created with this tool also have an ability to bypass most AV software protection . | https://github.com/Screetsec/TheFatRat | 4380 | 1490| 
+| 20200720T13:24:16Z | Null | https://github.com/pistacchietto/Win-Python-Backdoor | 3 | 2| 
+| 20200720T13:20:16Z | Null | https://github.com/pistacchietto/OSX-Peristant-BackDoor | 2 | 5| 
 
 
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20200720T12:59:55Z | Null | https://github.com/nhsd-ddce/dos-gp-fuzzy-search-api | 0 | 0| 
-| 20200720T12:40:31Z | A static blog generator script without any fuzz | https://github.com/dvwallin/ago | 2 | 1| 
-| 20200720T12:30:01Z | Scalable fuzzing infrastructure. | https://github.com/google/clusterfuzz | 4267 | 381| 
-| 20200720T12:29:11Z | Null | https://github.com/TUC-AFL-Amir/https-github.com-TUC-AFL-Amir-Fuzzy-Parameters | 0 | 0| 
-| 20200720T12:19:13Z | Collection of quality safety articles | https://github.com/tom0li/collection-document | 1158 | 385| 
-| 20200720T11:43:12Z | Null | https://github.com/s9varesc/url-fuzzing | 0 | 0| 
-| 20200720T11:33:55Z | A JavaScript Engine Fuzzer | https://github.com/googleprojectzero/fuzzilli | 951 | 155| 
-| 20200720T10:56:28Z | Why fuzzing with emulators is amazing | https://github.com/gamozolabs/fuzz_with_emus | 43 | 4| 
-| 20200720T10:37:09Z | Null | https://github.com/TUC-AFL-Amir/Fuzzy-Parameters | 0 | 0| 
-| 20200720T09:51:43Z | jQuery plugin for fuzzy search in autocomplete | https://github.com/aliask/fuzzycomplete | 15 | 6| 
+| 20200720T23:56:15Z | Create your Custom Wordlist For Fuzzing | https://github.com/D4Vinci/CWFF | 2 | 0| 
+| 20200720T23:50:24Z | OSS-Fuzz - continuous fuzzing of open source software. | https://github.com/google/oss-fuzz | 5406 | 1053| 
+| 20200720T23:10:40Z | Null | https://github.com/krisprad/FuzzySearch | 0 | 0| 
+| 20200720T23:09:01Z | A curated list of different AFL forks and AFL inspired fuzzers with detailed equivalent academic papers with AFL-fuzzing tutorials | https://github.com/Microsvuln/Awesome-AFL | 274 | 31| 
+| 20200720T23:03:27Z | FuzzBench - Fuzzer benchmarking as a service. | https://github.com/google/fuzzbench | 486 | 68| 
+| 20200720T22:39:23Z | Sistem Penunjang Pengambilan Keputusan menggunakan logika Fuzzy Tsukamoto untuk menentukan jumlah produksi nikel untuk mendukung upaya hilirisasi tambang mineral di indonesia (Decision Support Systems use Fuzzy Tsukamoto%s logic to determine the amount of nickel production to support the downstream efforts of mineral mines in Indonesia) | https://github.com/wilapdantop/Fuzzy-Tsukamoto-Nickel | 0 | 0| 
+| 20200720T22:21:45Z | Keep an eye of your fuzzing. CLI to interact with ElasticSearch. | https://github.com/misalabs/horuz | 6 | 0| 
+| 20200720T22:20:57Z | А procedural macro to be used for testing/fuzzing stateful models against a semantically equivalent but obviously correct implementation | https://github.com/jakubadamw/rutenspitz | 25 | 3| 
+| 20200720T22:18:09Z | Repo for GSOC %20 Project Code , Rump Kernel Sycall Fuzzing | https://github.com/adityavardhanpadala/rumpsyscallfuzz | 0 | 0| 
+| 20200720T22:12:55Z | SSL and TLS protocol test suite and fuzzer | https://github.com/tomato42/tlsfuzzer | 315 | 78| 
 
 
 
