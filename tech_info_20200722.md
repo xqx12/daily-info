@@ -83,10 +83,10 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20200722T12:47:33Z | Null | https://github.com/johan-martenson/settlers-fuzzing | 0 | 0| 
 | 20200722T12:28:28Z | Take the current implementation and turning a microservice architecture | https://github.com/ccesarrod/FuzzyMicrosrvices | 0 | 0| 
 | 20200722T12:07:20Z | Null | https://github.com/WillRoque/simple-fuzzing | 0 | 0| 
 | 20200722T12:06:20Z | Tidal autocoder | https://github.com/tidalcycles/tidal-fuzz | 6 | 1| 
-| 20200722T12:05:44Z | Null | https://github.com/johan-martenson/settlers-fuzzing | 0 | 0| 
 | 20200722T11:45:36Z | FuzzBench - Fuzzer benchmarking as a service. | https://github.com/google/fuzzbench | 488 | 68| 
 | 20200722T10:30:48Z | Quantitative Approach to the Core-Satellite Paradigm | https://github.com/Ligophorus/FuzzyQ | 0 | 0| 
 | 20200722T10:30:30Z | Scalable fuzzing infrastructure. | https://github.com/google/clusterfuzz | 4269 | 381| 
