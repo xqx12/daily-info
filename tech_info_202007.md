@@ -6,6 +6,19 @@
 # 玄武实验室 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20200722 | Secure Pool Internals : Dynamic KDP Behind The Hood | https://windows-internals.com/secure-pool/| 
+| 20200722 | 利用 Qiling 框架实现带有代码覆盖率信息的 PE 文件模拟执行 | https://pwnage.io/pe-code-coverage-emulation-qiling/| 
+| 20200722 | 攻击者可利用Windows 10 Microsoft Store名为 wsreset.exe的工具绕过杀软检测 | https://www.bleepingcomputer.com/news/security/windows-10-store-wsreset-tool-lets-attackers-bypass-antivirus/| 
+| 20200722 | 一种检测Windows操作系统中由于配置错误和缺少更新而导致的特权提升漏洞的工具dazzleUP | https://github.com/hlldz/dazzleUP| 
+| 20200722 | 利用 SharpSploit 的新 API - DInvoke 实现动态调用非托管代码 | https://thewover.github.io/Dynamic-Invoke/| 
+| 20200722 | 近些年的 Windows 内核漏洞 Exploit 资料收集整理 | https://kakyouim.hatenablog.com/entry/2020/05/27/010807| 
+| 20200722 | PThammer - 利用现代处理器地址翻译过程的缺陷攻击 Rowhammer 问题的缓解措施 | https://arxiv.org/abs/2007.08707| 
+| 20200722 | Abusing Java Remote Protocols in IBM WebSphere | https://www.thezdi.com/blog/2020/7/20/abusing-java-remote-protocols-in-ibm-websphere| 
+| 20200722 | Citrix Workspace 软件命名管道校验 Client 的漏洞实现获取 SYSTEM Shell | https://www.pentestpartners.com/security-blog/raining-system-shells-with-citrix-workspace-app/| 
+| 20200722 | Adobe 发布例外更新，紧急修复 Photoshop 产品的多个高危漏洞 | https://sec.today/pulses/d278f8cd-21a0-4a9d-8414-687a699427d9/| 
+| 20200722 | 卡巴斯基开源了几个 IDA Pro 的插件，用于高亮所有 CALL/BL 指令、识别已知函数、整合 YARA 规则 | https://sec.today/pulses/fda38afb-e073-4322-bd82-8b4b2ac4bf89/| 
+| 20200722 | Adobe 发布例外更新，紧急修复 Photoshop 产品的多个高危漏洞 | https://threatpost.com/critical-adobe-photoshop-flaws-patched-in-emergency-update/157581/| 
+| 20200722 | 卡巴斯基开源了几个 IDA Pro 的插件，用于高亮所有 CALL/BL 指令、识别已知函数、整合 YARA 规则 | https://securelist.com/great-ida-pro-plugins/97898/| 
 | 20200721 | SharePoint and Pwn :: Remote Code Execution Against SharePoint Server Abusing DataSet | https://srcincite.io/blog/2020/07/20/sharepoint-and-pwn-remote-code-execution-against-sharepoint-server-abusing-dataset.html| 
 | 20200721 | 用于为 Android 应用提供 BLE 设备连接的 Nordic 库被发现漏洞 | https://medium.com/bugbountywriteup/norec-attack-stripping-ble-encryption-from-nordics-library-cve-2020-15509-9798ab893b95| 
 | 20200721 | Exploiting an Envoy heap vulnerability | http://blog.envoyproxy.io/exploiting-an-envoy-heap-vulnerability-96173d41792| 
@@ -13,24 +26,13 @@
 | 20200721 | 如何利用新的oledump插件plugin_vbaproject破解VBA密码 | https://blog.didierstevens.com/2020/07/20/cracking-vba-project-passwords/| 
 | 20200721 | 从头开始编写iOS Kernel Exploit | http://secfault-security.com/blog/chain3.html| 
 | 20200721 | 线上举办的 Fuzz Week 2020 的视频公开了 | https://gamozolabs.github.io/2020/07/12/fuzz_week_2020.html| 
-| 20200721 | macOS 平台具有勒索行为的恶意软件 EvilQuest 的分析 | https://objective-see.com/blog/blog_0x59.html| 
-| 20200721 | Fastjson parseObject/parse Java 对象反序列化漏洞分析 | https://paper.seebug.org/1274/| 
-| 20200721 | GitHub安全团队在流行的Node.js changelog库中发现了远程代码执行漏洞 | https://sec.today/pulses/82212ab8-db2d-440b-88bc-c0015fbf0bea/| 
-| 20200721 | 恶意软件常用的反射dll注入技术视频教程 | https://sec.today/pulses/9b4415de-90e3-4294-9f88-002fc0a018cf/| 
-| 20200721 | GitHub安全团队在流行的Node.js changelog库中发现了远程代码执行漏洞 | https://portswigger.net/daily-swig/github-security-team-finds-remote-code-execution-bug-in-popular-node-js-changelog-library| 
-| 20200721 | 恶意软件常用的反射dll注入技术视频教程 | http://www.debasish.in/2020/07/videoreflective-dll-injection-explained.html?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+debasish%2FEYdX+%28Debasish+Mandal%27s+Blog%29| 
-| 20200721 | 《系统性能：企业和云》第二版书籍介绍。 | http://www.brendangregg.com/blog/2020-07-15/systems-performance-2nd-edition.html| 
-| 20200721 | 探索Windows活动时间轴，第2部分：跨设备平台同步。 | https://www.blackbagtech.com/blog/exploring-the-windows-activity-timeline-part-2-synching-across-devices/| 
-| 20200720 | Windows WalletService 本地提权漏洞分析及利用（CVE-2020-1362） | https://github.com/Q4n/CVE-2020-1362| 
-| 20200720 | 微软开源了一个 Linux 版本的 Process Monitor | https://github.com/microsoft/ProcMon-for-Linux| 
-| 20200720 | 今年 DEF CON 28 Safe Mode 会议的议题列表公布了，会议将于 8 月 6~7 号在线上举办 | https://www.defcon.org/html/defcon-safemode/dc-safemode-schedule.html| 
-| 20200720 | 二进制逆向分析工具 radare2 更新 4.5.0 版本 | https://github.com/radareorg/radare2/releases/tag/4.5.0| 
-| 20200720 | 在开启 KVM 的 QEMU 虚拟机中执行 iOS | https://alephsecurity.com/2020/07/19/xnu-qemu-kvm/| 
 
 
 # 安全维基 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20200722 | 记一次从零到getshell的渗透历程 | https://blog.blankshell.com/2020/07/22/%e8%ae%b0%e4%b8%80%e6%ac%a1%e4%bb%8e%e9%9b%b6%e5%88%b0getshell%e7%9a%84%e6%b8%97%e9%80%8f%e5%8e%86%e7%a8%8b/| 
+| 20200722 | 细说渗透江湖之披荆斩棘 | https://mp.weixin.qq.com/s/HVOpUfJbncp81GWFLcgIFw| 
 | 20200721 | 某企业授权渗透报告 | https://www.freebuf.com/articles/network/243831.html| 
 | 20200721 | 领导人高级别会谈如何反窃密 | https://mp.weixin.qq.com/s/2ySVlrHHnMpunY9VX0l3Zg| 
 | 20200721 | 朝鲜半岛APT组织Lazarus在MacOS平台上的攻击活动分析 | https://mp.weixin.qq.com/s/W0HuTvPI7CzM8queWNhXIQ| 
@@ -39,23 +41,21 @@
 | 20200721 | Gartner对SOAR的定义不断变化 | https://mp.weixin.qq.com/s/X0BoaaFG1a-p5xymokC1YQ| 
 | 20200721 | 前端九部 - 入门者手册2019 | https://www.yuque.com/fe9/basic| 
 | 20200721 | 告警聚合-无向图的动态连通性与union-find算法 | https://www.cdxy.me/?p=828| 
-| 20200720 | 再谈几种Nginx后门——发现与修复 | https://mp.weixin.qq.com/s/kzNRmpCgOOODI6J5A8L2Jg| 
-| 20200720 | SecWiki周刊（第333期) | https://www.sec-wiki.com/weekly/333| 
 
 
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20200722T11:19:57Z | CVE-2020-13925 | Null | https://github.com/bit4woo/CVE-2020-13925 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 57 MINUTES 46 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200722T11:01:53Z | CVE-2020-6287 | Null | https://github.com/Onapsis/CVE-2020-6287_RECON-scanner | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 58 MINUTES 04 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200722T10:07:09Z | CVE-2020-8559 | This is a PoC for CVE-2020-8559 Kubernetes Vulnerability  | https://github.com/tdwyer/CVE-2020-8559 | | 
+| 20200722T07:07:48Z | CVE-2020-6287 | PoC for CVE-2020-6287, CVE-2020-6286 (SAP RECON vulnerability) | https://github.com/chipik/SAP_RECON | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 57 MINUTES 31 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200722T05:28:17Z | CVE-2020-8558 | Information about Kubernetes CVE-2020-8558, including proof of concept exploit. | https://github.com/tabbysable/POC-2020-8558 | 未查询到CVE信息| 
+| 20200722T04:37:07Z | cve-2020-5902 | Null | https://github.com/f5devcentral/cve-2020-5902-ioc-bigip-checker | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 58 MINUTES 03 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200722T02:59:10Z | CVE-2020-14645 | Weblogic CVE-2020-14645 coherence 反序列化漏洞验证程序 | https://github.com/DSO-Lab/Weblogic_CVE-2020-14645 | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
+| 20200722T02:52:13Z | CVE-2020-1350 | Proof-of-Concept (PoC) script to exploit SIGRed (CVE-2020-1350). Achieves Domain Admin on Domain Controllers running Windows Server 2000 up to Windows Server 2019. | https://github.com/ZephrFish/CVE-2020-1350 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 57 MINUTES 27 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200722T02:41:21Z | CVE-2020-11896 | PoC for CVE-2020-11896 Treck TCP/IP stack and device asset investigation | https://github.com/Fans0n-Fan/Treck20-Related | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 58 MINUTES 05 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20200722T01:27:55Z | CVE-2020-14645 | Weblogic CVE-2020-14645 UniversalExtractor JNDI injection getDatabaseMetaData() | https://github.com/Y4er/CVE-2020-14645 | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
-| 20200722T01:02:10Z | CVE-2020-6287 | PoC for CVE-2020-6287, CVE-2020-6286 (SAP RECON vulnerability) | https://github.com/chipik/SAP_RECON | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 01 MINUTES 33 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200722T00:41:09Z | cve-2020-5902 | Null | https://github.com/f5devcentral/cve-2020-5902-ioc-bigip-checker | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 02 MINUTES 06 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200721T17:41:22Z | cve-2020-9006 | Null | https://github.com/tz4678/cve-2020-9006 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 02 MINUTES 19 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200721T17:37:53Z | CVE-2020-1350 | Proof-of-Concept (PoC) script to exploit SIGRed (CVE-2020-1350). Achieves Domain Admin on Domain Controllers running Windows Server 2000 up to Windows Server 2019. | https://github.com/ZephrFish/CVE-2020-1350 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 01 MINUTES 21 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200721T15:03:35Z | CVE-2020-8558 | Crafting raw TCP/IP packets to send to poorly configured servers - CVE-2020-8558 PoC | https://github.com/rhysemmas/martian-packets | 未查询到CVE信息| 
-| 20200721T13:24:54Z | CVE-2020-15052 | Artica Proxy before 4.30.000000 Community Edition allows SQL Injection. | https://github.com/pratikshad19/CVE-2020-15052 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 01 MINUTES 19 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200721T12:44:33Z | CVE-2020-13925 | Null | https://github.com/bit4woo/CVE-2020-13925 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 02 MINUTES 03 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200721T12:17:54Z | CVE-2020-12432 | Null | https://github.com/d7x/CVE-2020-12432 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 02 MINUTES 20 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200721T11:24:46Z | CVE-2020-14645 | Weblogic CVE-2020-14645 coherence 反序列化漏洞验证程序 | https://github.com/DSO-Lab/Weblogic_CVE-2020-14645 | | 
 
 
 # klee on Github 推荐
@@ -90,31 +90,31 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20200722T01:57:49Z | Null | https://github.com/Ibotenic/exploit-scripts | 0 | 0| 
-| 20200722T01:45:20Z | Scripts used in Blockchain Exploitation Blog | https://github.com/cclabsInc/BlockChainExploitation | 2 | 5| 
-| 20200722T01:44:44Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 6730 | 1059| 
-| 20200722T01:30:29Z | Null | https://github.com/Kahvi-0/Vulnerabilities-and-Exploitations | 1 | 1| 
-| 20200722T00:47:37Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 2 | 1| 
-| 20200722T00:04:35Z | this bash script let you download scripts and clone repos for remote exploits | https://github.com/FabioDefilippo/linuxallremote | 0 | 0| 
-| 20200721T23:58:53Z | Blog! | https://github.com/nonetype/nonetype.github.io | 0 | 0| 
-| 20200721T23:52:49Z | Exploits weaknesses in RC4 to mount a chosen-plaintext attack and recover the private key. It%s very similar to WEP cracking but it targets schemes where the initialisation vector precedes the long term key. | https://github.com/dj311/rc4-key-recovery-attacks | 0 | 0| 
-| 20200721T23:33:49Z | my exploit kit | https://github.com/pyro57/pyrosploit | 0 | 0| 
-| 20200721T23:32:14Z | Course Development of exploits for buffer overflow attacks | https://github.com/gustavosimon/exploits-bufferoverflow-attacks | 0 | 0| 
+| 20200722T11:54:11Z | A repository holding R experiments and data for the paper %Exploiting Relations, Sojourn-Times and Joint Conditional Probabilities for Automated Commit Classification% | https://github.com/MrShoenel/hmm-paper-2020-R-experiments | 0 | 0| 
+| 20200722T11:44:40Z | PS4 Exploit list | https://github.com/Hakkuraifu/PS4xploit | 7 | 1| 
+| 20200722T11:11:26Z | Exploits weaknesses in RC4 to mount a chosen-plaintext attack and recover the private key. It%s very similar to WEP cracking but it targets schemes where the initialisation vector precedes the long term key. | https://github.com/dj311/rc4-key-recovery-attacks | 0 | 0| 
+| 20200722T11:06:01Z | Java安全相关的漏洞和技术demo，原生Java、Fastjson、Jackson、Hessian2、XML反序列化漏洞利用和Spring、Dubbo、Shiro、CAS、Tomcat、RMI、Nexus等框架\中间件\功能的exploits以及Java Security Manager绕过、Dubbo-Hessian2安全加固等等实践代码。 | https://github.com/threedr3am/learnjavabug | 929 | 230| 
+| 20200722T11:02:31Z | PlayStation 2 DVD Player Exploit | https://github.com/CTurt/FreeDVDBoot | 1197 | 84| 
+| 20200722T10:41:20Z | This script runs powershell and downloads some ps1 sript for privilege escalation | https://github.com/FabioDefilippo/winallenum | 0 | 0| 
+| 20200722T10:34:51Z | CTF framework and exploit development library | https://github.com/Gallopsled/pwntools | 6809 | 1268| 
+| 20200722T10:27:20Z | Exploit Development - Weaponized Exploit and Proof of Concepts (PoC)  | https://github.com/VoidSec/Exploit-Development | 7 | 4| 
+| 20200722T10:16:56Z | Null | https://github.com/Ares-X/shiro-exploit | 1 | 0| 
+| 20200722T10:05:48Z | onifw is a console framework for pentesting | https://github.com/w0bos/onifw | 4 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20200722T11:03:40Z | Undetectable & Xor encrypting with custom KEY (FUD Metasploit Rat) bypass Top Antivirus like BitDefender,Malwarebytes,Avast,ESET-NOD32,AVG,... & Automatically Add ICON and MANIFEST to excitable | https://github.com/persianhydra/Xeexe-TopAntivirusEvasion | 92 | 37| 
+| 20200722T10:50:21Z | Ghost Framework is an Android post-exploitation framework that exploits the Android Debug Bridge to remotely access an Android device. Ghost Framework gives you the power and convenience of remote Android device administration. | https://github.com/entynetproject/ghost | 609 | 303| 
+| 20200722T09:52:14Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 23 | 4| 
+| 20200722T09:23:47Z | Null | https://github.com/UVvirus/backdoor | 0 | 0| 
+| 20200722T08:43:03Z | Backdoor | https://github.com/fstreitzia/shinkakz | 0 | 0| 
+| 20200722T07:32:52Z | Null | https://github.com/dheeraj7596/NlpBackdoor | 0 | 0| 
 | 20200721T23:21:00Z | Backdoor Shell | https://github.com/kaitolegion/Backdoor | 1 | 4| 
 | 20200721T22:23:15Z | A script to help set up an event handler in order to install a persistent backdoor that can be activated by sending a message. | https://github.com/checkymander/iMessagesBackdoor | 150 | 40| 
 | 20200721T21:59:34Z | Repository for all the code related to Learn Python & Ethical Hacking From Scratch course. All the work is done on Kali Linux, using both Python 2.7 and 3.x version. | https://github.com/Maffey/ethical-hacking-course | 0 | 0| 
 | 20200721T21:52:05Z | Null | https://github.com/Thoyt810/nodeBackdoor | 0 | 0| 
-| 20200721T17:44:33Z | Undetectable & Xor encrypting with custom KEY (FUD Metasploit Rat) bypass Top Antivirus like BitDefender,Malwarebytes,Avast,ESET-NOD32,AVG,... & Automatically Add ICON and MANIFEST to excitable | https://github.com/persianhydra/Xeexe-TopAntivirusEvasion | 89 | 37| 
-| 20200721T09:55:16Z | Ghost Framework is an Android post-exploitation framework that exploits the Android Debug Bridge to remotely access an Android device. Ghost Framework gives you the power and convenience of remote Android device administration. | https://github.com/entynetproject/ghost | 609 | 303| 
-| 20200721T09:32:42Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 22 | 4| 
-| 20200721T08:56:27Z | List of possible Linux backdoors | https://github.com/gquere/linux_backdooring | 2 | 2| 
-| 20200721T03:05:42Z | SSH connection daemon for Debian/Raspbian/Ubuntu/etc | https://github.com/daradib/sidedoor | 91 | 18| 
-| 20200720T23:47:26Z | Null | https://github.com/dheeraj7596/NlpBackdoor | 0 | 0| 
 
 
 # fuzz on Github 推荐
