@@ -82,11 +82,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20200722T01:30:51Z | Fast fuzzy search utility | https://github.com/EthanRutherford/fast-fuzzy | 21 | 5| 
-| 20200722T01:22:09Z | A JavaScript Engine Fuzzer | https://github.com/googleprojectzero/fuzzilli | 960 | 157| 
-| 20200722T00:59:04Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 25927 | 12497| 
-| 20200722T00:54:42Z | Null | https://github.com/https-www-verizon-com/fuzzy-waffle | 0 | 0| 
-| 20200722T00:25:52Z | Scalable fuzzing infrastructure. | https://github.com/google/clusterfuzz | 4268 | 381| 
+| 20200722T12:02:20Z | Null | https://github.com/johan-martenson/settlers-fuzzing | 0 | 0| 
+| 20200722T11:45:36Z | FuzzBench - Fuzzer benchmarking as a service. | https://github.com/google/fuzzbench | 488 | 68| 
+| 20200722T10:30:48Z | Quantitative Approach to the Core-Satellite Paradigm | https://github.com/Ligophorus/FuzzyQ | 0 | 0| 
+| 20200722T10:30:30Z | Scalable fuzzing infrastructure. | https://github.com/google/clusterfuzz | 4269 | 381| 
+| 20200722T09:46:06Z | Tidal autocoder | https://github.com/tidalcycles/tidal-fuzz | 6 | 1| 
+| 20200722T09:43:30Z | Null | https://github.com/Aoun-Hussain/Deployment-Optimization-for-Wireless-Sensor-Networks-Using-Fuzzy-Logic | 0 | 0| 
+| 20200722T09:35:04Z | A Type-2 Fuzzy Logic System that uses external symptoms to predict the possibility of a COVID-19 infection. (Project and Paper for CSE470/573 Theory of Fuzzy Systems). | https://github.com/Namerlight/C19-Prediction-via-Symptoms-with-Fuzzy-Logic | 0 | 0| 
+| 20200722T09:33:54Z | Bug hunting through fuzzer/*-sanitizer/etc... | https://github.com/hardenedlinux/harbian-qa | 55 | 13| 
+| 20200722T09:12:28Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 3048 | 695| 
+| 20200722T09:01:59Z | Tipping problem implemented in Fuzzy Logic using SciKit Fuzzy | https://github.com/Namerlight/TippingProblemFuzzyLogic | 0 | 0| 
 
 
 
