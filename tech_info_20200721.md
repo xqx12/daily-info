@@ -39,15 +39,15 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20200721T18:34:28Z | CVE-2020-6287 | PoC for CVE-2020-6287, CVE-2020-6286 (SAP RECON vulnerability) | https://github.com/chipik/SAP_RECON | SAP NetWeaver AS JAVA（LM配置向导）版本-7.30、7.31、7.34、7.50不执行身份验证检查，这允许未经事先身份验证的攻击者执行针对SAP Java系统执行关键操作的配置任务，包括以下功能：创建管理用户，从而损害系统的机密性，完整性和可用性，从而导致缺少身份验证检查。| 
-| 20200721T17:41:22Z | cve-2020-9006 | Null | https://github.com/tz4678/cve-2020-9006 | Popup Builder 插件 2.2.8 到 2.6.7.6 for WordPress 很容易受到 SQL 注入（在 sg_popup_ajax.php 中的 sgImportPopups 函数中），通过使用附件Url POST变量对攻击者控制的数据进行 PHP 去序列化。这允许创建任意的 WordPress 管理员帐户，从而导致可能的远程代码执行，因为管理员可以在 Wordpress 实例上运行 PHP 代码。（此问题已修复在弹出窗口生成器的 3.x 分支中。| 
-| 20200721T17:37:53Z | CVE-2020-1350 | Proof-of-Concept (PoC) script to exploit SIGRed (CVE-2020-1350). Achieves Domain Admin on Domain Controllers running Windows Server 2000 up to Windows Server 2019. | https://github.com/ZephrFish/CVE-2020-1350 | 当Windows域名系统服务器无法正确处理请求（也称为“ Windows DNS服务器远程代码执行漏洞”）时，存在一个远程执行代码漏洞。| 
+| 20200721T18:34:28Z | CVE-2020-6287 | PoC for CVE-2020-6287, CVE-2020-6286 (SAP RECON vulnerability) | https://github.com/chipik/SAP_RECON | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 56 MINUTES 10 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200721T17:41:22Z | cve-2020-9006 | Null | https://github.com/tz4678/cve-2020-9006 | | 
+| 20200721T17:37:53Z | CVE-2020-1350 | Proof-of-Concept (PoC) script to exploit SIGRed (CVE-2020-1350). Achieves Domain Admin on Domain Controllers running Windows Server 2000 up to Windows Server 2019. | https://github.com/ZephrFish/CVE-2020-1350 | | 
 | 20200721T15:07:23Z | CVE-2020-14645 | Weblogic CVE-2020-14645 UniversalExtractor JNDI injection getDatabaseMetaData() | https://github.com/Y4er/CVE-2020-14645 | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
 | 20200721T15:03:35Z | CVE-2020-8558 | Crafting raw TCP/IP packets to send to poorly configured servers - CVE-2020-8558 PoC | https://github.com/rhysemmas/martian-packets | 未查询到CVE信息| 
-| 20200721T14:35:12Z | cve-2020-5902 | Null | https://github.com/f5devcentral/cve-2020-5902-ioc-bigip-checker | 在BIG-IP版本15.0.0-15.1.0.3、14.1.0-14.1.2.5、13.1.0-13.1.3.3、12.1.0-12.1.5.1和11.6.1-11.6.5.1中，流量管理用户接口（TMUI），也称为“配置”实用程序，在未公开的页面中具有远程执行代码（RCE）漏洞。| 
-| 20200721T13:24:54Z | CVE-2020-15052 | Artica Proxy before 4.30.000000 Community Edition allows SQL Injection. | https://github.com/pratikshad19/CVE-2020-15052 | 在 4.28.030.418 之前在 Artica 代理 CE 中发现了一个问题。SQL 注入通过 Netmask、主机名和别名字段存在。| 
-| 20200721T12:44:33Z | CVE-2020-13925 | Null | https://github.com/bit4woo/CVE-2020-13925 | 类似于CVE-2020-1956，Kylin还有一个更宁静的API，它将API输入连接到OS命令中，然后在服务器上执行它们。而所报告的API缺少必要的输入验证，这使黑客有可能远程执行OS命令。 2.3之后的所有以前版本的用户应升级到3.1.0。| 
-| 20200721T12:17:54Z | CVE-2020-12432 | Null | https://github.com/d7x/CVE-2020-12432 | Vereign Collabora CODE 通过 4.2.2 集成的 WOPI API 没有正确限制向受害者浏览器交付 JavaScript，并且缺乏适当的 MIME 类型访问控制，这可能导致 XSS 通过 Cookie 或本地存储窃取帐户凭据。攻击者必须首先获取 API 访问令牌，如果攻击者能够上载 .docx 或 .odt 文件，就可以完成该令牌。用于利用的关联的 API 终结点是 /wopi/文件和 /wopi/getAccessToken。| 
+| 20200721T14:35:12Z | cve-2020-5902 | Null | https://github.com/f5devcentral/cve-2020-5902-ioc-bigip-checker | | 
+| 20200721T13:24:54Z | CVE-2020-15052 | Artica Proxy before 4.30.000000 Community Edition allows SQL Injection. | https://github.com/pratikshad19/CVE-2020-15052 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 56 MINUTES 05 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200721T12:44:33Z | CVE-2020-13925 | Null | https://github.com/bit4woo/CVE-2020-13925 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 56 MINUTES 17 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200721T12:17:54Z | CVE-2020-12432 | Null | https://github.com/d7x/CVE-2020-12432 | | 
 | 20200721T11:24:46Z | CVE-2020-14645 | Weblogic CVE-2020-14645 coherence 反序列化漏洞验证程序 | https://github.com/DSO-Lab/Weblogic_CVE-2020-14645 | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
 
 
