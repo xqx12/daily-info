@@ -6,6 +6,15 @@
 # 玄武实验室 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20200723 | Apple 将向合格的安全研究者发放 Apple 设备用于研究，可惜不包括中国研究员 | https://developer.apple.com/programs/security-research-device/| 
+| 20200723 | macOS 新增了一个虚拟化 Framework - Virtualization.framework | https://developer.apple.com/documentation/virtualization| 
+| 20200723 | Rustscan - 一个主打速度的端口扫描器，号称可以 8 秒内扫描 6 万多个端口 | https://github.com/brandonskerritt/RustScan| 
+| 20200723 | NCCGroup 开源的用于分析 U-Boot bootloader 的工具 | https://research.nccgroup.com/2020/07/22/depthcharge/| 
+| 20200723 | Exploiting Imported Libraries to Bypass Cloudflare WAF | https://medium.com/bugbountywriteup/exploiting-imported-libraries-to-bypass-cloudflare-waf-7aed99186c5a?source=rss----7b722bfd1b8d---4| 
+| 20200723 | OffensiveCon 2020 会议关于用 QEMU 模拟专用 Hypervisor 的议题 “Emulating Hypervisors: a Samsung RKP case study” | https://census-labs.com/news/2020/07/22/emulating-hypervisors-a-samsung-rkp-case-study-offensivecon-2020/| 
+| 20200723 | Checkpoint 发布《2020 年上半年网络攻击趋势报告》 | https://research.checkpoint.com/2019/cyber-attack-trends-2019-mid-year-report/| 
+| 20200723 | D-Link路由器漏洞：未加密映像中公开的固件密钥 | https://www.bleepingcomputer.com/news/security/d-link-blunder-firmware-encryption-key-exposed-in-unencrypted-image/| 
+| 20200723 | 卡巴爆出Lazarus新攻击框架MATA，可针对Windows，Linux、MacOS三平台发起攻击 | https://threatpost.com/lazarus-group-advanced-malware-framework/157636/| 
 | 20200722 | Secure Pool Internals : Dynamic KDP Behind The Hood | https://windows-internals.com/secure-pool/| 
 | 20200722 | 利用 Qiling 框架实现带有代码覆盖率信息的 PE 文件模拟执行 | https://pwnage.io/pe-code-coverage-emulation-qiling/| 
 | 20200722 | 攻击者可利用Windows 10 Microsoft Store名为 wsreset.exe的工具绕过杀软检测 | https://www.bleepingcomputer.com/news/security/windows-10-store-wsreset-tool-lets-attackers-bypass-antivirus/| 
@@ -17,54 +26,45 @@
 | 20200722 | Citrix Workspace 软件命名管道校验 Client 的漏洞实现获取 SYSTEM Shell | https://www.pentestpartners.com/security-blog/raining-system-shells-with-citrix-workspace-app/| 
 | 20200722 | Adobe 发布例外更新，紧急修复 Photoshop 产品的多个高危漏洞 | https://sec.today/pulses/d278f8cd-21a0-4a9d-8414-687a699427d9/| 
 | 20200722 | 卡巴斯基开源了几个 IDA Pro 的插件，用于高亮所有 CALL/BL 指令、识别已知函数、整合 YARA 规则 | https://sec.today/pulses/fda38afb-e073-4322-bd82-8b4b2ac4bf89/| 
-| 20200722 | Adobe 发布例外更新，紧急修复 Photoshop 产品的多个高危漏洞 | https://threatpost.com/critical-adobe-photoshop-flaws-patched-in-emergency-update/157581/| 
-| 20200722 | 卡巴斯基开源了几个 IDA Pro 的插件，用于高亮所有 CALL/BL 指令、识别已知函数、整合 YARA 规则 | https://securelist.com/great-ida-pro-plugins/97898/| 
-| 20200722 | 针对后门PE文件程序（带有ASLR）调试分析。 | https://hansesecure.de/2019/05/backdooring-pe-file-with-aslr/| 
-| 20200721 | SharePoint and Pwn :: Remote Code Execution Against SharePoint Server Abusing DataSet | https://srcincite.io/blog/2020/07/20/sharepoint-and-pwn-remote-code-execution-against-sharepoint-server-abusing-dataset.html| 
-| 20200721 | 用于为 Android 应用提供 BLE 设备连接的 Nordic 库被发现漏洞 | https://medium.com/bugbountywriteup/norec-attack-stripping-ble-encryption-from-nordics-library-cve-2020-15509-9798ab893b95| 
-| 20200721 | Exploiting an Envoy heap vulnerability | http://blog.envoyproxy.io/exploiting-an-envoy-heap-vulnerability-96173d41792| 
-| 20200721 | Everything Old is New Again: Binary Security of WebAssembly | http://www.software-lab.org/publications/usenixSec2020-WebAssembly.pdf| 
-| 20200721 | 如何利用新的oledump插件plugin_vbaproject破解VBA密码 | https://blog.didierstevens.com/2020/07/20/cracking-vba-project-passwords/| 
-| 20200721 | 从头开始编写iOS Kernel Exploit | http://secfault-security.com/blog/chain3.html| 
 
 
 # 安全维基 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20200723 | 论CISO的个人修养 | https://mp.weixin.qq.com/s/OQgfTosjAWVSEGlCuBKF5A| 
+| 20200723 | 网络靶场能力指南 | https://mp.weixin.qq.com/s/7HAorX_VurhxXI9OT6sILA| 
+| 20200723 | 权限维持 | https://www.yuque.com/docs/share/214295b1-5b6c-42ad-9e3d-7d3823ea3ee6| 
+| 20200723 | MATA: Multi-platform targeted malware framework | https://securelist.com/mata-multi-platform-targeted-malware-framework/97746/| 
 | 20200722 | 记一次从零到getshell的渗透历程 | https://blog.blankshell.com/2020/07/22/%e8%ae%b0%e4%b8%80%e6%ac%a1%e4%bb%8e%e9%9b%b6%e5%88%b0getshell%e7%9a%84%e6%b8%97%e9%80%8f%e5%8e%86%e7%a8%8b/| 
 | 20200722 | 细说渗透江湖之披荆斩棘 | https://mp.weixin.qq.com/s/HVOpUfJbncp81GWFLcgIFw| 
 | 20200721 | 某企业授权渗透报告 | https://www.freebuf.com/articles/network/243831.html| 
 | 20200721 | 领导人高级别会谈如何反窃密 | https://mp.weixin.qq.com/s/2ySVlrHHnMpunY9VX0l3Zg| 
 | 20200721 | 朝鲜半岛APT组织Lazarus在MacOS平台上的攻击活动分析 | https://mp.weixin.qq.com/s/W0HuTvPI7CzM8queWNhXIQ| 
 | 20200721 | 从APT29看网络威胁归因（上） | https://mp.weixin.qq.com/s/RFxS0xigAF-bMh59KR44cA| 
-| 20200721 | CVE-2020-0624 win32k漏洞分析笔记 | https://mp.weixin.qq.com/s/GHiTqWlxisyVWxVHcACpvg| 
-| 20200721 | Gartner对SOAR的定义不断变化 | https://mp.weixin.qq.com/s/X0BoaaFG1a-p5xymokC1YQ| 
-| 20200721 | 前端九部 - 入门者手册2019 | https://www.yuque.com/fe9/basic| 
-| 20200721 | 告警聚合-无向图的动态连通性与union-find算法 | https://www.cdxy.me/?p=828| 
 
 
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20200723T01:47:34Z | CVE-2020-8559 | This is a PoC for CVE-2020-8559 Kubernetes Vulnerability  | https://github.com/tdwyer/CVE-2020-8559 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 02 MINUTES 21 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200723T01:24:13Z | CVE-2020-6287 | Null | https://github.com/Onapsis/CVE-2020-6287_RECON-scanner | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 02 MINUTES 05 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200723T00:43:56Z | CVE-2020-6287 | PoC for CVE-2020-6287, CVE-2020-6286 (SAP RECON vulnerability) | https://github.com/chipik/SAP_RECON | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 01 MINUTES 59 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200723T00:39:42Z | CVE-2020-1350 | Proof-of-Concept (PoC) script to exploit SIGRed (CVE-2020-1350). Achieves Domain Admin on Domain Controllers running Windows Server 2000 up to Windows Server 2019. | https://github.com/ZephrFish/CVE-2020-1350 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 01 MINUTES 58 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200722T23:00:20Z | CVE-2020-8559 | Proof of Concept exploit for Kubernetes CVE-2020-8559 | https://github.com/tabbysable/POC-2020-8559 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 02 MINUTES 20 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200722T19:26:14Z | CVE-2020-8558 | Information about Kubernetes CVE-2020-8558, including proof of concept exploit. | https://github.com/tabbysable/POC-2020-8558 | 未查询到CVE信息| 
-| 20200722T18:06:06Z | CVE-2020-6287 | sap netweaver portal add user administrator | https://github.com/ynsmroztas/CVE-2020-6287-Sap-Add-User | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 02 MINUTES 24 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200722T17:13:24Z | 未知编号 | CVE Data Analysis, CVE Monitor, CVE EXP Prediction Based on Deep Learning. 1999-2020年存量CVE数据分析、监控CVE增量更新、基于深度学习的CVE EXP预测和自动化推送 | https://github.com/404notf0und/CVE-Flow | 未查询到CVE信息| 
-| 20200722T12:15:03Z | cve-2020-1350 | A powershell script to deploy the registry mitigation key for CVE-2020-1350 | https://github.com/gdwnet/cve-2020-1350 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 02 MINUTES 22 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200723T10:50:05Z | CVE-2020-8559 | Proof of Concept exploit for Kubernetes CVE-2020-8559 | https://github.com/tabbysable/POC-2020-8559 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 57 MINUTES 38 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200723T10:18:32Z | CVE-2020-8559 | This is a PoC exploit for CVE-2020-8559 Kubernetes Vulnerability  | https://github.com/tdwyer/CVE-2020-8559 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 57 MINUTES 39 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200723T08:13:26Z | CVE-2020-6287 | PoC for CVE-2020-6287, CVE-2020-6286 (SAP RECON vulnerability) | https://github.com/chipik/SAP_RECON | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 57 MINUTES 28 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200723T07:43:53Z | CVE-2020-6287 | Null | https://github.com/Onapsis/CVE-2020-6287_RECON-scanner | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 57 MINUTES 33 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200723T03:29:36Z | CVE-2020-8558 | Information about Kubernetes CVE-2020-8558, including proof of concept exploit. | https://github.com/tabbysable/POC-2020-8558 | 未查询到CVE信息| 
+| 20200723T02:18:30Z | 未知编号 | CVE Data Analysis, CVE Monitor, CVE EXP Prediction Based on Deep Learning. 1999-2020年存量CVE数据分析、监控CVE增量更新、基于深度学习的CVE EXP预测和自动化推送 | https://github.com/404notf0und/CVE-Flow | 未查询到CVE信息| 
+| 20200723T00:39:42Z | CVE-2020-1350 | Proof-of-Concept (PoC) script to exploit SIGRed (CVE-2020-1350). Achieves Domain Admin on Domain Controllers running Windows Server 2000 up to Windows Server 2019. | https://github.com/ZephrFish/CVE-2020-1350 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 57 MINUTES 26 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200722T18:06:06Z | CVE-2020-6287 | sap netweaver portal add user administrator | https://github.com/ynsmroztas/CVE-2020-6287-Sap-Add-User | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 57 MINUTES 41 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200722T12:15:03Z | cve-2020-1350 | A powershell script to deploy the registry mitigation key for CVE-2020-1350 | https://github.com/gdwnet/cve-2020-1350 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 57 MINUTES 40 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20200722T11:19:57Z | CVE-2020-13925 | Null | https://github.com/bit4woo/CVE-2020-13925 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  09 HOURS 59 MINUTES 47 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20200723T00:33:14Z | A tool that automatically calls Klee to solve for injection | https://github.com/Zzzode/KleeTool | 0 | 0| 
+| 20200723T10:39:00Z | A tool that automatically calls Klee to solve for injection | https://github.com/Zzzode/KleeTool | 0 | 0| 
+| 20200723T05:49:06Z | A 4chan image browser written in SwiftUI | https://github.com/jackpal/KleeneStar | 9 | 0| 
 | 20200722T20:07:12Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1442 | 442| 
 | 20200722T17:20:36Z | Readable String Sanitizer | https://github.com/schemenauero/kleen-js | 0 | 0| 
-| 20200722T15:04:22Z | A 4chan image browser written in SwiftUI | https://github.com/jackpal/KleeneStar | 9 | 0| 
 | 20200721T15:47:19Z | KLEE in the browser | https://github.com/klee/klee-web | 43 | 10| 
 | 20200721T02:23:34Z | Create CFGs and compute complexity metrics for Python, C++, and Java code. | https://github.com/hmc-alpaqa/metrinome | 3 | 0| 
 | 20200719T06:45:41Z | Null | https://github.com/mmjasim8/kleemz | 0 | 0| 
@@ -76,13 +76,13 @@
 # s2e on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20200722T14:32:18Z | Q. Yao, H. Yang, B. Han, G. Niu, J. Kwok. Searching to Exploit Memorization Effect in Learning from Noisy Labels. International Conference on Machine Learning (ICML) 2020 | https://github.com/AutoML-4Paradigm/S2E | 2 | 0| 
+| 20200723T06:38:01Z | This is the main S2E repository. Visit https://s2e.systems/docs to get started. | https://github.com/S2E/s2e | 48 | 17| 
+| 20200723T03:33:37Z | Q. Yao, H. Yang, B. Han, G. Niu, J. Kwok. Searching to Exploit Memorization Effect in Learning from Noisy Labels. International Conference on Machine Learning (ICML) 2020 | https://github.com/AutoML-4Paradigm/S2E | 5 | 1| 
 | 20200721T01:41:04Z | Null | https://github.com/cxzzzz/s2engine_mcu | 1 | 0| 
 | 20200717T03:00:58Z | cicd logic and gitlab&github runner, centos base ,whith jdk/python/go, maven/npm,/kubectl/helm | https://github.com/chimeh/cicd-s2e-runner | 0 | 0| 
 | 20200717T02:43:48Z | Null | https://github.com/benload/s2erunner-embed | 0 | 0| 
 | 20200710T11:39:25Z | Electrical Power Prediction using Deep learning | https://github.com/chykoushik/S2E-dfki-Electrical-Power-Prediction | 1 | 0| 
 | 20200710T11:39:23Z | Null | https://github.com/chykoushik/S2E-dfki-Predict-the-department-wide-sales-for-each-store | 1 | 0| 
-| 20200709T19:26:34Z | This is the main S2E repository. Visit https://s2e.systems/docs to get started. | https://github.com/S2E/s2e | 47 | 17| 
 | 20200707T22:24:13Z | Exporting data from salesforce in excel format | https://github.com/LuisTwilo/S2Exc | 0 | 0| 
 | 20200703T03:07:12Z | WIZnet Serial to Ethernet(S2E) module based on W7500 chip, WIZ107/108SR S2E compatible device | https://github.com/Wiznet/WIZ750SR | 12 | 12| 
 
@@ -90,16 +90,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20200723T01:52:12Z | A framework for exploiting padding oracles in network-based applications | https://github.com/swarley7/padoracle | 13 | 3| 
-| 20200723T00:55:13Z | MSFVIP Ia PowerFull Tools For Exploit | https://github.com/MRH02/MSFVIP | 0 | 0| 
-| 20200723T00:49:11Z | Skeleton code for writing buffer overflow exploit | https://github.com/hhexme/bof-skel | 0 | 0| 
-| 20200723T00:47:39Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 2 | 1| 
-| 20200723T00:26:56Z | Null | https://github.com/aatate98/PwnableExploitationWalkthroughs | 0 | 0| 
-| 20200723T00:21:33Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 2917 | 447| 
-| 20200723T00:03:33Z | Working directory of files related to my disseration, Exploit Development for Ada | https://github.com/bkungl/AdaExploiting | 0 | 0| 
-| 20200722T23:51:42Z | *Frequently Updated. Sifter is a osint, recon & vulnerability scanner. It combines a plethara of tools within different module sets in order to quickly perform recon tasks, check network firewalling, enumerate remote and local hosts, and scan for the %blue% vulnerabilities within microsft and if unpatched, exploit them.  It uses tools like blackwidow and konan for webdir enumeration and attack surface mapping rapidly using ASM.  | https://github.com/s1l3nt78/sifter | 195 | 64| 
-| 20200722T23:50:07Z | Null | https://github.com/Roxxiie/SubHubRobloxExploit | 0 | 0| 
-| 20200722T23:47:12Z | Exploits nested.parallel and nested.optimize to tune neuronal cell models | https://github.com/neurosutras/optimize_cells | 0 | 1| 
+| 20200723T12:00:00Z | Panda-Exploit Wrapper -_- | https://github.com/SkieAdmin/Panda-Wrapper | 0 | 0| 
+| 20200723T11:53:01Z | https://krunker.io/ edit exploit for hacking | https://github.com/ZaResX/KrunkerZares | 6 | 4| 
+| 20200723T11:39:01Z | iblessing is an iOS security exploiting toolkit, it mainly includes application information collection, static analysis and dynamic analysis. It can be used for reverse engineering, binary analysis and vulnerability mining. | https://github.com/Soulghost/iblessing | 9 | 1| 
+| 20200723T11:28:06Z | Vulnerabilities of Goby supported with exploitation. | https://github.com/gobysec/GobyVuls | 29 | 7| 
+| 20200723T11:26:39Z | A repository holding R experiments and data for the paper %Exploiting Relations, Sojourn-Times and Joint Conditional Probabilities for Automated Commit Classification% | https://github.com/MrShoenel/hmm-paper-2020-R-experiments | 0 | 0| 
+| 20200723T11:14:52Z | It is a java application designed to probe a server or host for open ports. Such an application may be used by administrators to verify security policies of their networks and by attackers to identify network services running on a host and exploit vulnerabilities. | https://github.com/itsankitdwivedi/PortScanner | 0 | 0| 
+| 20200723T11:13:35Z | Null | https://github.com/Ibotenic/exploit-scripts | 0 | 0| 
+| 20200723T11:04:11Z | Null | https://github.com/pwnd-root/exploits-and-stuff | 0 | 0| 
+| 20200723T10:57:28Z | xcube is a Python package for generating and exploiting data cubes powered by xarray, dask, and zarr. | https://github.com/dcs4cop/xcube | 59 | 10| 
+| 20200723T10:39:56Z | this bash script let you download scripts and clone repos for remote exploits | https://github.com/FabioDefilippo/linuxallremote | 0 | 0| 
 
 
 # backdoor on Github 推荐
@@ -120,16 +120,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20200723T01:49:37Z | Custom assertion to check whether a JSON string fuzzily matches a pattern for JVM languages. | https://github.com/orangain/json-fuzzy-match | 1 | 0| 
-| 20200723T01:35:16Z | Projects, Assignments | https://github.com/MHRupok/Neural-Networks-Fuzzy-System | 0 | 0| 
-| 20200723T01:04:14Z | FuzzBench - Fuzzer benchmarking as a service. | https://github.com/google/fuzzbench | 488 | 68| 
-| 20200723T00:48:17Z | 模糊搜索 | https://github.com/ZongAng123/FuzzySearch | 0 | 0| 
-| 20200723T00:22:36Z | A unit test-like interface for fuzzing and symbolic execution | https://github.com/trailofbits/deepstate | 546 | 53| 
-| 20200723T00:05:06Z | Take the current implementation and turning a microservice architecture | https://github.com/ccesarrod/FuzzyMicrosrvices | 0 | 0| 
-| 20200722T23:09:17Z | An API wrapper for fuzzysearch.net | https://github.com/Syfaro/fuzzysearch-rs | 0 | 0| 
-| 20200722T22:43:08Z | A minimal ruby gem to allow fuzzing native ruby code with afl. | https://github.com/richo/afl-ruby | 10 | 3| 
-| 20200722T22:39:46Z | Wrote up fuzzy vault algorithm without implementing application specific pieces | https://github.com/jweezy24/Fuzzy_vault | 0 | 0| 
-| 20200722T22:35:07Z | Null | https://github.com/haylee430/fuzzy_friend_finder | 1 | 0| 
+| 20200723T11:39:03Z | HTTP fuzzer engine security oriented | https://github.com/GouveaHeitor/nozaki | 20 | 3| 
+| 20200723T11:36:15Z | This library extends https://github.com/Bergvca/string_grouper for a specific use-case: fuzzy-matching Dublin-specific addresses and organisation names across datasets  | https://github.com/rdmolony/fuzzymatch-records | 0 | 0| 
+| 20200723T11:36:10Z | Quantitative Approach to the Core-Satellite Paradigm | https://github.com/Ligophorus/FuzzyQ | 0 | 0| 
+| 20200723T11:21:59Z | Scalable fuzzing infrastructure. | https://github.com/google/clusterfuzz | 4271 | 382| 
+| 20200723T11:09:42Z | Null | https://github.com/s9varesc/url-fuzzing | 0 | 0| 
+| 20200723T11:08:37Z | An XSS fuzzer for Django | https://github.com/tonybaloney/django-xss-fuzzer | 7 | 0| 
+| 20200723T10:49:31Z | Fast web fuzzer written in Go | https://github.com/ffuf/ffuf | 2485 | 292| 
+| 20200723T09:49:59Z | Null | https://github.com/Boriver/fuzzy | 0 | 0| 
+| 20200723T09:42:16Z | Null | https://github.com/WillRoque/simple-fuzzing | 0 | 0| 
+| 20200723T09:32:41Z | OSS-Fuzz - continuous fuzzing of open source software. | https://github.com/google/oss-fuzz | 5411 | 1054| 
 
 
 
