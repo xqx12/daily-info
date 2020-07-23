@@ -88,16 +88,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20200722T12:47:33Z | Null | https://github.com/johan-martenson/settlers-fuzzing | 0 | 0| 
-| 20200722T12:28:28Z | Take the current implementation and turning a microservice architecture | https://github.com/ccesarrod/FuzzyMicrosrvices | 0 | 0| 
-| 20200722T12:07:20Z | Null | https://github.com/WillRoque/simple-fuzzing | 0 | 0| 
-| 20200722T12:06:20Z | Tidal autocoder | https://github.com/tidalcycles/tidal-fuzz | 6 | 1| 
-| 20200722T11:45:36Z | FuzzBench - Fuzzer benchmarking as a service. | https://github.com/google/fuzzbench | 488 | 68| 
-| 20200722T10:30:48Z | Quantitative Approach to the Core-Satellite Paradigm | https://github.com/Ligophorus/FuzzyQ | 0 | 0| 
-| 20200722T10:30:30Z | Scalable fuzzing infrastructure. | https://github.com/google/clusterfuzz | 4269 | 381| 
-| 20200722T09:43:30Z | Null | https://github.com/Aoun-Hussain/Deployment-Optimization-for-Wireless-Sensor-Networks-Using-Fuzzy-Logic | 0 | 0| 
-| 20200722T09:35:04Z | A Type-2 Fuzzy Logic System that uses external symptoms to predict the possibility of a COVID-19 infection. (Project and Paper for CSE470/573 Theory of Fuzzy Systems). | https://github.com/Namerlight/C19-Prediction-via-Symptoms-with-Fuzzy-Logic | 0 | 0| 
-| 20200722T09:33:54Z | Bug hunting through fuzzer/*-sanitizer/etc... | https://github.com/hardenedlinux/harbian-qa | 55 | 13| 
+| 20200722T23:09:17Z | An API wrapper for fuzzysearch.net | https://github.com/Syfaro/fuzzysearch-rs | 0 | 0| 
+| 20200722T22:43:08Z | A minimal ruby gem to allow fuzzing native ruby code with afl. | https://github.com/richo/afl-ruby | 10 | 3| 
+| 20200722T22:39:46Z | Wrote up fuzzy vault algorithm without implementing application specific pieces | https://github.com/jweezy24/Fuzzy_vault | 0 | 0| 
+| 20200722T22:35:07Z | Null | https://github.com/haylee430/fuzzy_friend_finder | 1 | 0| 
+| 20200722T22:30:16Z | Experimental OS | https://github.com/scopeInfinity/FuzzyOS | 0 | 0| 
+| 20200722T22:26:20Z | Create your Custom Wordlist For Fuzzing | https://github.com/D4Vinci/CWFF | 43 | 11| 
+| 20200722T22:25:26Z | This repository is a part of GSoC 2020 project on fuzzing the network stack of NetBSD using rumpkernel | https://github.com/NJnisarg/fuzznetrump | 0 | 1| 
+| 20200722T21:35:47Z | Null | https://github.com/googleinterns/cloud-spanner-emulator-fuzzing | 0 | 0| 
+| 20200722T21:24:12Z | OSS-Fuzz - continuous fuzzing of open source software. | https://github.com/google/oss-fuzz | 5409 | 1054| 
+| 20200722T21:08:35Z | Null | https://github.com/handong32/NicFuzzer | 0 | 0| 
 
 
 
