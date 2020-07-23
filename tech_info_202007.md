@@ -46,10 +46,10 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20200723T00:43:56Z | CVE-2020-6287 | PoC for CVE-2020-6287, CVE-2020-6286 (SAP RECON vulnerability) | https://github.com/chipik/SAP_RECON | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 09 MINUTES 56 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200723T00:43:56Z | CVE-2020-6287 | PoC for CVE-2020-6287, CVE-2020-6286 (SAP RECON vulnerability) | https://github.com/chipik/SAP_RECON | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 08 MINUTES 43 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20200723T00:42:16Z | CVE-2020-8559 | This is a PoC for CVE-2020-8559 Kubernetes Vulnerability  | https://github.com/tdwyer/CVE-2020-8559 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 09 MINUTES 10 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200723T00:39:42Z | CVE-2020-1350 | Proof-of-Concept (PoC) script to exploit SIGRed (CVE-2020-1350). Achieves Domain Admin on Domain Controllers running Windows Server 2000 up to Windows Server 2019. | https://github.com/ZephrFish/CVE-2020-1350 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 09 MINUTES 55 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200723T00:01:05Z | CVE-2020-6287 | Null | https://github.com/Onapsis/CVE-2020-6287_RECON-scanner | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 10 MINUTES 01 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200723T00:39:42Z | CVE-2020-1350 | Proof-of-Concept (PoC) script to exploit SIGRed (CVE-2020-1350). Achieves Domain Admin on Domain Controllers running Windows Server 2000 up to Windows Server 2019. | https://github.com/ZephrFish/CVE-2020-1350 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 08 MINUTES 42 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200723T00:01:05Z | CVE-2020-6287 | Null | https://github.com/Onapsis/CVE-2020-6287_RECON-scanner | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 09 MINUTES 03 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20200722T23:00:20Z | CVE-2020-8559 | Proof of Concept exploit for Kubernetes CVE-2020-8559 | https://github.com/tabbysable/POC-2020-8559 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 09 MINUTES 09 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20200722T19:26:14Z | CVE-2020-8558 | Information about Kubernetes CVE-2020-8558, including proof of concept exploit. | https://github.com/tabbysable/POC-2020-8558 | 未查询到CVE信息| 
 | 20200722T18:06:06Z | CVE-2020-6287 | sap netweaver portal add user administrator | https://github.com/ynsmroztas/CVE-2020-6287-Sap-Add-User | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 09 MINUTES 13 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
@@ -90,6 +90,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20200723T00:51:22Z | MSFVIP Ia PowerFull Tools For Exploit | https://github.com/MRH02/MSFVIP | 0 | 0| 
 | 20200723T00:49:11Z | Skeleton code for writing buffer overflow exploit | https://github.com/hhexme/bof-skel | 0 | 0| 
 | 20200723T00:47:39Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 2 | 1| 
 | 20200723T00:26:56Z | Null | https://github.com/aatate98/PwnableExploitationWalkthroughs | 0 | 0| 
@@ -99,7 +100,6 @@
 | 20200722T23:50:07Z | Null | https://github.com/Roxxiie/SubHubRobloxExploit | 0 | 0| 
 | 20200722T23:47:12Z | Exploits nested.parallel and nested.optimize to tune neuronal cell models | https://github.com/neurosutras/optimize_cells | 0 | 1| 
 | 20200722T22:27:14Z | Tool to help exploit XXE vulnerabilities | https://github.com/luisfontes19/xxexploiter | 98 | 25| 
-| 20200722T22:08:07Z | This code is an IRC BOT that can connect to an IRC server with SSL The main purpose of this bot is to scan for Open/Unsecured VNC servers. The bot can also search for credit card informations in the computer that the bot is running (removed in last version to optimize compilation process time). Added SSH takeover module/command.. There is also a DDoS module made in Python, for taking out the target from the network. | https://github.com/independentcod/PerlIRCSSL_VNCbypass | 14 | 7| 
 
 
 # backdoor on Github 推荐
