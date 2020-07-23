@@ -90,6 +90,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20200723T01:52:12Z | A framework for exploiting padding oracles in network-based applications | https://github.com/swarley7/padoracle | 13 | 3| 
 | 20200723T00:55:13Z | MSFVIP Ia PowerFull Tools For Exploit | https://github.com/MRH02/MSFVIP | 0 | 0| 
 | 20200723T00:49:11Z | Skeleton code for writing buffer overflow exploit | https://github.com/hhexme/bof-skel | 0 | 0| 
 | 20200723T00:47:39Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 2 | 1| 
@@ -99,7 +100,6 @@
 | 20200722T23:51:42Z | *Frequently Updated. Sifter is a osint, recon & vulnerability scanner. It combines a plethara of tools within different module sets in order to quickly perform recon tasks, check network firewalling, enumerate remote and local hosts, and scan for the %blue% vulnerabilities within microsft and if unpatched, exploit them.  It uses tools like blackwidow and konan for webdir enumeration and attack surface mapping rapidly using ASM.  | https://github.com/s1l3nt78/sifter | 195 | 64| 
 | 20200722T23:50:07Z | Null | https://github.com/Roxxiie/SubHubRobloxExploit | 0 | 0| 
 | 20200722T23:47:12Z | Exploits nested.parallel and nested.optimize to tune neuronal cell models | https://github.com/neurosutras/optimize_cells | 0 | 1| 
-| 20200722T22:27:14Z | Tool to help exploit XXE vulnerabilities | https://github.com/luisfontes19/xxexploiter | 98 | 25| 
 
 
 # backdoor on Github 推荐
