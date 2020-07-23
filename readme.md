@@ -32,16 +32,16 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20200722T23:33:40Z | CVE-2020-8559 | This is a PoC for CVE-2020-8559 Kubernetes Vulnerability  | https://github.com/tdwyer/CVE-2020-8559 | 版本 v1.6-v1.15 中的 Kubernetes kube-apiserver 以及 v1.16.13、v1.17.9 和 v1.18.7 之前的版本容易受到代理升级请求的未验证重定向的影响，这些重定向可能允许攻击者将权限从节点泄露升级为完全群集泄露。| 
-| 20200722T23:00:20Z | CVE-2020-8559 | Proof of Concept exploit for Kubernetes CVE-2020-8559 | https://github.com/tabbysable/POC-2020-8559 | 版本 v1.6-v1.15 中的 Kubernetes kube-apiserver 以及 v1.16.13、v1.17.9 和 v1.18.7 之前的版本容易受到代理升级请求的未验证重定向的影响，这些重定向可能允许攻击者将权限从节点泄露升级为完全群集泄露。| 
-| 20200722T19:49:35Z | CVE-2020-1350 | Proof-of-Concept (PoC) script to exploit SIGRed (CVE-2020-1350). Achieves Domain Admin on Domain Controllers running Windows Server 2000 up to Windows Server 2019. | https://github.com/ZephrFish/CVE-2020-1350 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 58 MINUTES 01 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200722T23:33:40Z | CVE-2020-8559 | This is a PoC for CVE-2020-8559 Kubernetes Vulnerability  | https://github.com/tdwyer/CVE-2020-8559 | | 
+| 20200722T23:00:20Z | CVE-2020-8559 | Proof of Concept exploit for Kubernetes CVE-2020-8559 | https://github.com/tabbysable/POC-2020-8559 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 56 MINUTES 20 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200722T19:49:35Z | CVE-2020-1350 | Proof-of-Concept (PoC) script to exploit SIGRed (CVE-2020-1350). Achieves Domain Admin on Domain Controllers running Windows Server 2000 up to Windows Server 2019. | https://github.com/ZephrFish/CVE-2020-1350 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 56 MINUTES 07 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20200722T19:26:14Z | CVE-2020-8558 | Information about Kubernetes CVE-2020-8558, including proof of concept exploit. | https://github.com/tabbysable/POC-2020-8558 | 未查询到CVE信息| 
-| 20200722T18:06:06Z | CVE-2020-6287 | sap netweaver portal add user administrator | https://github.com/ynsmroztas/CVE-2020-6287-Sap-Add-User | SAP NetWeaver AS JAVA（LM配置向导）版本-7.30、7.31、7.34、7.50不执行身份验证检查，这允许未经事先身份验证的攻击者执行针对SAP Java系统执行关键操作的配置任务，包括以下功能：创建管理用户，从而损害系统的机密性，完整性和可用性，从而导致缺少身份验证检查。| 
+| 20200722T18:06:06Z | CVE-2020-6287 | sap netweaver portal add user administrator | https://github.com/ynsmroztas/CVE-2020-6287-Sap-Add-User | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 55 MINUTES 19 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20200722T17:13:24Z | 未知编号 | CVE Data Analysis, CVE Monitor, CVE EXP Prediction Based on Deep Learning. 1999-2020年存量CVE数据分析、监控CVE增量更新、基于深度学习的CVE EXP预测和自动化推送 | https://github.com/404notf0und/CVE-Flow | 未查询到CVE信息| 
-| 20200722T12:15:03Z | cve-2020-1350 | A powershell script to deploy the registry mitigation key for CVE-2020-1350 | https://github.com/gdwnet/cve-2020-1350 | 当Windows域名系统服务器无法正确处理请求（也称为“ Windows DNS服务器远程代码执行漏洞”）时，存在一个远程执行代码漏洞。| 
+| 20200722T12:15:03Z | cve-2020-1350 | A powershell script to deploy the registry mitigation key for CVE-2020-1350 | https://github.com/gdwnet/cve-2020-1350 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 56 MINUTES 21 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20200722T11:19:57Z | CVE-2020-13925 | Null | https://github.com/bit4woo/CVE-2020-13925 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  09 HOURS 59 MINUTES 47 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200722T07:07:48Z | CVE-2020-6287 | PoC for CVE-2020-6287, CVE-2020-6286 (SAP RECON vulnerability) | https://github.com/chipik/SAP_RECON | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 58 MINUTES 03 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200722T04:37:07Z | cve-2020-5902 | Null | https://github.com/f5devcentral/cve-2020-5902-ioc-bigip-checker | 在BIG-IP版本15.0.0-15.1.0.3、14.1.0-14.1.2.5、13.1.0-13.1.3.3、12.1.0-12.1.5.1和11.6.1-11.6.5.1中，流量管理用户接口（TMUI），也称为“配置”实用程序，在未公开的页面中具有远程执行代码（RCE）漏洞。| 
+| 20200722T07:07:48Z | CVE-2020-6287 | PoC for CVE-2020-6287, CVE-2020-6286 (SAP RECON vulnerability) | https://github.com/chipik/SAP_RECON | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 56 MINUTES 08 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200722T04:37:07Z | cve-2020-5902 | Null | https://github.com/f5devcentral/cve-2020-5902-ioc-bigip-checker | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 56 MINUTES 13 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 
 
 # klee on Github 推荐
@@ -75,10 +75,12 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20200722T22:10:13Z | Undetectable & Xor encrypting with custom KEY (FUD Metasploit Rat) bypass Top Antivirus like BitDefender,Malwarebytes,Avast,ESET-NOD32,AVG,... & Automatically Add ICON and MANIFEST to excitable | https://github.com/persianhydra/Xeexe-TopAntivirusEvasion | 93 | 37| 
+| 20200722T21:36:59Z | Ghost Framework is an Android post-exploitation framework that exploits the Android Debug Bridge to remotely access an Android device. Ghost Framework gives you the power and convenience of remote Android device administration. | https://github.com/entynetproject/ghost | 610 | 303| 
+| 20200722T20:22:52Z | FUD cross-platform python2 backdoor | https://github.com/7h3w4lk3r/pyback | 5 | 3| 
+| 20200722T18:00:58Z | A backdoor with a multitude of features. | https://github.com/thatcherclough/BetterBackdoor | 132 | 49| 
 | 20200722T12:51:53Z | Null | https://github.com/Samiha10/Backdoor | 0 | 0| 
 | 20200722T12:17:20Z | Null | https://github.com/pistacchietto/Win-Python-Backdoor | 3 | 2| 
-| 20200722T11:03:40Z | Undetectable & Xor encrypting with custom KEY (FUD Metasploit Rat) bypass Top Antivirus like BitDefender,Malwarebytes,Avast,ESET-NOD32,AVG,... & Automatically Add ICON and MANIFEST to excitable | https://github.com/persianhydra/Xeexe-TopAntivirusEvasion | 92 | 37| 
-| 20200722T10:50:21Z | Ghost Framework is an Android post-exploitation framework that exploits the Android Debug Bridge to remotely access an Android device. Ghost Framework gives you the power and convenience of remote Android device administration. | https://github.com/entynetproject/ghost | 609 | 303| 
 | 20200722T09:52:14Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 23 | 4| 
 | 20200722T09:23:47Z | Null | https://github.com/UVvirus/backdoor | 0 | 0| 
 | 20200722T08:43:03Z | Backdoor | https://github.com/fstreitzia/shinkakz | 0 | 0| 
