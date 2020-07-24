@@ -29,21 +29,25 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20200723T12:57:34Z | CVE-2020-8559 | This is a PoC exploit for CVE-2020-8559 Kubernetes Vulnerability  | https://github.com/tdwyer/CVE-2020-8559 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 00 MINUTES 25 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200723T10:50:05Z | CVE-2020-8559 | Proof of Concept exploit for Kubernetes CVE-2020-8559 | https://github.com/tabbysable/POC-2020-8559 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 00 MINUTES 24 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200723T08:13:26Z | CVE-2020-6287 | PoC for CVE-2020-6287, CVE-2020-6286 (SAP RECON vulnerability) | https://github.com/chipik/SAP_RECON | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 00 MINUTES 12 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200723T07:43:53Z | CVE-2020-6287 | Null | https://github.com/Onapsis/CVE-2020-6287_RECON-scanner | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 00 MINUTES 18 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200723T03:29:36Z | CVE-2020-8558 | Information about Kubernetes CVE-2020-8558, including proof of concept exploit. | https://github.com/tabbysable/POC-2020-8558 | | 
+| 20200723T22:14:29Z | CVE-2020-15367 | Brute Force on Supravizio BPM 10.1.2 | https://github.com/inflixim4be/CVE-2020-15367 | Venki Supravizio BPM 10.1.2 不限制身份验证尝试次数。未经身份验证的用户可能会利用此漏洞对登录页发起暴力身份验证攻击。| 
+| 20200723T20:00:14Z | CVE-2020-6287 | PoC for CVE-2020-6287, CVE-2020-6286 (SAP RECON vulnerability) | https://github.com/chipik/SAP_RECON | SAP NetWeaver AS JAVA（LM配置向导）版本-7.30、7.31、7.34、7.50不执行身份验证检查，这允许未经事先身份验证的攻击者执行针对SAP Java系统执行关键操作的配置任务，包括以下功能：创建管理用户，从而损害系统的机密性，完整性和可用性，从而导致缺少身份验证检查。| 
+| 20200723T19:18:23Z | CVE-2020-8559 | This is a PoC exploit for CVE-2020-8559 Kubernetes Vulnerability  | https://github.com/tdwyer/CVE-2020-8559 | 版本 v1.6-v1.15 中的 Kubernetes kube-apiserver 以及 v1.16.13、v1.17.9 和 v1.18.6 之前的版本容易受到代理升级请求的未验证重定向的影响，这些重定向可能允许攻击者将权限从节点泄露升级为完全群集泄露。| 
+| 20200723T16:26:14Z | cve-2020-5902 | Null | https://github.com/f5devcentral/cve-2020-5902-ioc-bigip-checker | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 58 MINUTES 15 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200723T15:32:30Z | CVE-2020-6287 | Null | https://github.com/Onapsis/CVE-2020-6287_RECON-scanner | SAP NetWeaver AS JAVA（LM配置向导）版本-7.30、7.31、7.34、7.50不执行身份验证检查，这允许未经事先身份验证的攻击者执行针对SAP Java系统执行关键操作的配置任务，包括以下功能：创建管理用户，从而损害系统的机密性，完整性和可用性，从而导致缺少身份验证检查。| 
+| 20200723T14:02:02Z | CVE-2020-11896 | PoC for CVE-2020-11896 Treck TCP/IP stack and device asset investigation | https://github.com/Fans0n-Fan/Treck20-Related | 6.0.1.66 之前 Treck TCP/IP 堆栈允许远程代码执行，与 IPv4 隧道有关。| 
+| 20200723T10:50:05Z | CVE-2020-8559 | Proof of Concept exploit for Kubernetes CVE-2020-8559 | https://github.com/tabbysable/POC-2020-8559 | 版本 v1.6-v1.15 中的 Kubernetes kube-apiserver 以及 v1.16.13、v1.17.9 和 v1.18.6 之前的版本容易受到代理升级请求的未验证重定向的影响，这些重定向可能允许攻击者将权限从节点泄露升级为完全群集泄露。| 
+| 20200723T03:29:36Z | CVE-2020-8558 | Information about Kubernetes CVE-2020-8558, including proof of concept exploit. | https://github.com/tabbysable/POC-2020-8558 | 未查询到CVE信息| 
 | 20200723T02:18:30Z | 未知编号 | CVE Data Analysis, CVE Monitor, CVE EXP Prediction Based on Deep Learning. 1999-2020年存量CVE数据分析、监控CVE增量更新、基于深度学习的CVE EXP预测和自动化推送 | https://github.com/404notf0und/CVE-Flow | 未查询到CVE信息| 
-| 20200723T00:39:42Z | CVE-2020-1350 | Proof-of-Concept (PoC) script to exploit SIGRed (CVE-2020-1350). Achieves Domain Admin on Domain Controllers running Windows Server 2000 up to Windows Server 2019. | https://github.com/ZephrFish/CVE-2020-1350 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 00 MINUTES 11 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200723T00:39:42Z | CVE-2020-1350 | Proof-of-Concept (PoC) script to exploit SIGRed (CVE-2020-1350). Achieves Domain Admin on Domain Controllers running Windows Server 2000 up to Windows Server 2019. | https://github.com/ZephrFish/CVE-2020-1350 | 当Windows域名系统服务器无法正确处理请求（也称为“ Windows DNS服务器远程代码执行漏洞”）时，存在一个远程执行代码漏洞。| 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20200723T23:09:13Z | A 4chan image browser written in SwiftUI | https://github.com/jackpal/KleeneStar | 10 | 0| 
+| 20200723T16:41:31Z | A tool that automatically calls Klee to solve for injection | https://github.com/Zzzode/KleeTool | 0 | 0| 
+| 20200723T16:29:57Z | redux, redux-saga, hooks, hooks-store, next.js, testing(jest+enzyme), routing, axios....more | https://github.com/klee214/klee214-React_Reference | 0 | 0| 
 | 20200723T11:24:20Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1444 | 442| 
-| 20200723T10:39:00Z | A tool that automatically calls Klee to solve for injection | https://github.com/Zzzode/KleeTool | 0 | 0| 
-| 20200723T05:49:06Z | A 4chan image browser written in SwiftUI | https://github.com/jackpal/KleeneStar | 9 | 0| 
 
 
 # s2e on Github 推荐
@@ -56,22 +60,28 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20200723T12:57:34Z | This is a PoC exploit for CVE-2020-8559 Kubernetes Vulnerability  | https://github.com/tdwyer/CVE-2020-8559 | 17 | 3| 
-| 20200723T12:53:29Z | iblessing is an iOS security exploiting toolkit, it mainly includes application information collection, static analysis and dynamic analysis. It can be used for reverse engineering, binary analysis and vulnerability mining. | https://github.com/Soulghost/iblessing | 9 | 1| 
-| 20200723T12:52:45Z | The AWS exploitation framework, designed for testing the security of Amazon Web Services environments. | https://github.com/RhinoSecurityLabs/pacu | 1517 | 275| 
-| 20200723T12:48:35Z | articles, writeups about JavaScriptCore exploitation | https://github.com/sploitem/jsc-pwn | 0 | 0| 
-| 20200723T12:35:13Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 6735 | 1062| 
-| 20200723T12:00:00Z | Panda-Exploit Wrapper -_- | https://github.com/SkieAdmin/Panda-Wrapper | 0 | 0| 
-| 20200723T11:53:01Z | https://krunker.io/ edit exploit for hacking | https://github.com/ZaResX/KrunkerZares | 6 | 4| 
-| 20200723T11:28:06Z | Vulnerabilities of Goby supported with exploitation. | https://github.com/gobysec/GobyVuls | 29 | 7| 
-| 20200723T11:26:39Z | A repository holding R experiments and data for the paper %Exploiting Relations, Sojourn-Times and Joint Conditional Probabilities for Automated Commit Classification% | https://github.com/MrShoenel/hmm-paper-2020-R-experiments | 0 | 0| 
-| 20200723T11:14:52Z | It is a java application designed to probe a server or host for open ports. Such an application may be used by administrators to verify security policies of their networks and by attackers to identify network services running on a host and exploit vulnerabilities. | https://github.com/itsankitdwivedi/PortScanner | 0 | 0| 
+| 20200723T23:54:34Z | DeimosC2 is a Golang command and control framework for post-exploitation. | https://github.com/DeimosC2/DeimosC2 | 43 | 3| 
+| 20200723T23:35:18Z | Scripts used in Blockchain Exploitation Blog | https://github.com/cclabsInc/BlockChainExploitation | 2 | 5| 
+| 20200723T23:15:12Z | More Stable Offline Exploit version of PS4 6.72 Jailbreak. | https://github.com/DarkModderVC/PS4JB | 27 | 14| 
+| 20200723T23:11:13Z | GEF - GDB Enhanced Features for exploit devs & reversers | https://github.com/hugsy/gef | 3004 | 439| 
+| 20200723T22:53:56Z | A ROBLOX exploit powered by CocoCC | https://github.com/MrDucxy/dove-III | 0 | 0| 
+| 20200723T22:33:41Z | this bash script let you download scripts and clone repos for remote exploits | https://github.com/FabioDefilippo/linuxallremote | 0 | 0| 
+| 20200723T22:28:17Z | The AWS exploitation framework, designed for testing the security of Amazon Web Services environments. | https://github.com/RhinoSecurityLabs/pacu | 1520 | 276| 
+| 20200723T22:14:26Z | Avorion mod that fixes crew hiring exploit, displays current and required crew workforce in a %Hire Crew% window | https://github.com/rinart73/Crewboard-Tweaks | 1 | 1| 
+| 20200723T21:35:11Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 6738 | 1064| 
+| 20200723T21:28:38Z | A phased, evasive Path Traversal scanning & exploitation tool in Python | https://github.com/VainlyStrain/Vailyn | 3 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20200723T10:09:29Z | Ghost Framework is an Android post-exploitation framework that exploits the Android Debug Bridge to remotely access an Android device. Ghost Framework gives you the power and convenience of remote Android device administration. | https://github.com/entynetproject/ghost | 613 | 304| 
+| 20200723T23:56:01Z | Open source implementation of the TrojDRL algorithm presented in TrojDRL: Evaluation of backdoor attacks on Deep Reinforcement Learning | https://github.com/pkiourti/rl_backdoor | 0 | 0| 
+| 20200723T23:02:41Z | Backdoor | https://github.com/fstreitzia/shinkakz | 1 | 1| 
+| 20200723T20:34:02Z | Ghost Framework is an Android post-exploitation framework that exploits the Android Debug Bridge to remotely access an Android device. Ghost Framework gives you the power and convenience of remote Android device administration. | https://github.com/entynetproject/ghost | 614 | 304| 
+| 20200723T16:29:41Z | Null | https://github.com/HarunResit-cyber/Backdoor---Trojan | 0 | 0| 
+| 20200723T16:02:39Z | Null | https://github.com/Backdoored/backdoored.github.io | 3 | 1| 
+| 20200723T15:07:53Z | This is a Simple reg Backdoor for Windows shell Hacking. You can fully compromise the target machine with this TOOL . For Advance backdoor with a dropper Contact ME. | https://github.com/khacker1024/shellcode | 0 | 1| 
+| 20200723T13:24:36Z | Null | https://github.com/SWDevStudio/backdoor | 0 | 0| 
 | 20200723T09:52:01Z | Python script that searches for sticky key backdoor | https://github.com/Abdullah-Alrasheed/StickyKeyDetector | 0 | 0| 
 | 20200723T05:01:47Z | A backdoor with a multitude of features. | https://github.com/thatcherclough/BetterBackdoor | 133 | 49| 
 | 20200723T03:08:23Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 24 | 4| 
@@ -80,16 +90,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20200723T12:44:08Z | Null | https://github.com/shuaibkhan27/fuzzy-winner | 0 | 0| 
-| 20200723T12:32:23Z | 部署定向模糊测试 | https://github.com/oneCoderMan/aflgo-fuzz | 0 | 0| 
-| 20200723T12:15:18Z | A fuzzy parser for C/C++ that creates semantic code property graphs | https://github.com/ShiftLeftSecurity/fuzzyc2cpg | 33 | 11| 
-| 20200723T11:39:03Z | HTTP fuzzer engine security oriented | https://github.com/GouveaHeitor/nozaki | 20 | 3| 
-| 20200723T11:36:15Z | This library extends https://github.com/Bergvca/string_grouper for a specific use-case: fuzzy-matching Dublin-specific addresses and organisation names across datasets  | https://github.com/rdmolony/fuzzymatch-records | 0 | 0| 
-| 20200723T11:36:10Z | Quantitative Approach to the Core-Satellite Paradigm | https://github.com/Ligophorus/FuzzyQ | 0 | 0| 
-| 20200723T11:21:59Z | Scalable fuzzing infrastructure. | https://github.com/google/clusterfuzz | 4271 | 382| 
-| 20200723T11:09:42Z | Null | https://github.com/s9varesc/url-fuzzing | 0 | 0| 
-| 20200723T11:08:37Z | An XSS fuzzer for Django | https://github.com/tonybaloney/django-xss-fuzzer | 7 | 0| 
-| 20200723T10:49:31Z | Fast web fuzzer written in Go | https://github.com/ffuf/ffuf | 2485 | 293| 
+| 20200723T23:51:59Z | css for brightcove player | https://github.com/metrograph-mr/fuzzy-octo-doodle | 0 | 1| 
+| 20200723T23:51:54Z | like a lazy fuzzer for bash? tries to not-run a thing every way it can run | https://github.com/abathur/faffer | 0 | 0| 
+| 20200723T23:37:02Z | OSS-Fuzz - continuous fuzzing of open source software. | https://github.com/google/oss-fuzz | 5413 | 1056| 
+| 20200723T22:36:09Z | FuzzBench - Fuzzer benchmarking as a service. | https://github.com/google/fuzzbench | 489 | 68| 
+| 20200723T18:29:47Z | Development environment for Fuzzwork Ore Compression utility with lp_solve PHP extension | https://github.com/deekthesqueak/FuzzworkCompressionDev | 0 | 0| 
+| 20200723T18:26:36Z | Sandbox to play with git functions.  | https://github.com/kraftbj/fuzzy-cyril | 1 | 0| 
+| 20200723T18:09:30Z | Fuzzco Nuxt template. | https://github.com/fuzzco/fuzznuxt | 2 | 0| 
+| 20200723T18:00:17Z | This repository is a part of GSoC 2020 project on fuzzing the network stack of NetBSD using rumpkernel | https://github.com/NJnisarg/fuzznetrump | 0 | 1| 
+| 20200723T17:55:10Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 3047 | 695| 
+| 20200723T17:21:36Z | Null | https://github.com/zhangxiaosa/fuzztools | 0 | 0| 
 
 
 
