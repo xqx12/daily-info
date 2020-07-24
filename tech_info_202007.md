@@ -50,11 +50,11 @@
 | 20200724T00:39:15Z | CVE-2020-3452 | Null | https://github.com/XDev05/CVE-2020-3452 | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
 | 20200723T22:14:29Z | CVE-2020-15367 | Brute Force on Supravizio BPM 10.1.2 | https://github.com/inflixim4be/CVE-2020-15367 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 18 MINUTES 07 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20200723T20:00:14Z | CVE-2020-6287 | PoC for CVE-2020-6287, CVE-2020-6286 (SAP RECON vulnerability) | https://github.com/chipik/SAP_RECON | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 18 MINUTES 13 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200723T19:18:23Z | CVE-2020-8559 | This is a PoC exploit for CVE-2020-8559 Kubernetes Vulnerability  | https://github.com/tdwyer/CVE-2020-8559 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 18 MINUTES 24 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200723T19:18:23Z | CVE-2020-8559 | This is a PoC exploit for CVE-2020-8559 Kubernetes Vulnerability  | https://github.com/tdwyer/CVE-2020-8559 | | 
 | 20200723T16:26:14Z | cve-2020-5902 | Null | https://github.com/f5devcentral/cve-2020-5902-ioc-bigip-checker | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 18 MINUTES 16 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20200723T15:32:30Z | CVE-2020-6287 | Null | https://github.com/Onapsis/CVE-2020-6287_RECON-scanner | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 18 MINUTES 18 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20200723T14:02:02Z | CVE-2020-11896 | PoC for CVE-2020-11896 Treck TCP/IP stack and device asset investigation | https://github.com/Fans0n-Fan/Treck20-Related | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 18 MINUTES 19 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200723T10:50:05Z | CVE-2020-8559 | Proof of Concept exploit for Kubernetes CVE-2020-8559 | https://github.com/tabbysable/POC-2020-8559 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 18 MINUTES 23 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200723T10:50:05Z | CVE-2020-8559 | Proof of Concept exploit for Kubernetes CVE-2020-8559 | https://github.com/tabbysable/POC-2020-8559 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 17 MINUTES 28 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20200723T03:29:36Z | CVE-2020-8558 | Information about Kubernetes CVE-2020-8558, including proof of concept exploit. | https://github.com/tabbysable/POC-2020-8558 | 未查询到CVE信息| 
 
 
@@ -91,6 +91,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20200724T00:41:54Z | The Browser Exploitation Framework Project | https://github.com/beefproject/beef | 5168 | 1244| 
 | 20200724T00:39:37Z | Critical Remote Code Execution Vulnerability (CVE-2018-11776) Found in Apache Struts. | https://github.com/LightC0der/Apache-Struts-0Day-Exploit | 4 | 2| 
 | 20200724T00:26:51Z | Null | https://github.com/xiuer2020/exploit | 0 | 0| 
 | 20200724T00:08:23Z | Storm Framework is a Windows post-exploitation framework that exploits Windows PowerShell vulnerability to get shell-like connection. Storm Framework has the ability to generate simple payloads to provide Windows PowerShell attack.  | https://github.com/entynetproject/storm | 3 | 1| 
@@ -100,7 +101,6 @@
 | 20200723T23:15:12Z | More Stable Offline Exploit version of PS4 6.72 Jailbreak. | https://github.com/DarkModderVC/PS4JB | 27 | 14| 
 | 20200723T23:11:13Z | GEF - GDB Enhanced Features for exploit devs & reversers | https://github.com/hugsy/gef | 3004 | 439| 
 | 20200723T22:53:56Z | A ROBLOX exploit powered by CocoCC | https://github.com/MrDucxy/dove-III | 0 | 0| 
-| 20200723T22:33:41Z | this bash script let you download scripts and clone repos for remote exploits | https://github.com/FabioDefilippo/linuxallremote | 0 | 0| 
 
 
 # backdoor on Github 推荐
