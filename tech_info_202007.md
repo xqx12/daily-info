@@ -48,12 +48,12 @@
 | --- | --- | --- | --- | ---| 
 | 20200724T00:49:42Z | CVE-2020-3452 | Null | https://github.com/XDev05/CVE-2020-3452-PoC | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
 | 20200724T00:39:15Z | CVE-2020-3452 | Null | https://github.com/XDev05/CVE-2020-3452 | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
-| 20200723T22:14:29Z | CVE-2020-15367 | Brute Force on Supravizio BPM 10.1.2 | https://github.com/inflixim4be/CVE-2020-15367 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 56 MINUTES 10 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200723T20:00:14Z | CVE-2020-6287 | PoC for CVE-2020-6287, CVE-2020-6286 (SAP RECON vulnerability) | https://github.com/chipik/SAP_RECON | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 56 MINUTES 16 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200723T22:14:29Z | CVE-2020-15367 | Brute Force on Supravizio BPM 10.1.2 | https://github.com/inflixim4be/CVE-2020-15367 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 55 MINUTES 12 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200723T20:00:14Z | CVE-2020-6287 | PoC for CVE-2020-6287, CVE-2020-6286 (SAP RECON vulnerability) | https://github.com/chipik/SAP_RECON | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 55 MINUTES 17 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20200723T19:18:23Z | CVE-2020-8559 | This is a PoC exploit for CVE-2020-8559 Kubernetes Vulnerability  | https://github.com/tdwyer/CVE-2020-8559 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 55 MINUTES 28 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200723T16:26:14Z | cve-2020-5902 | Null | https://github.com/f5devcentral/cve-2020-5902-ioc-bigip-checker | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 56 MINUTES 19 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200723T15:32:30Z | CVE-2020-6287 | Null | https://github.com/Onapsis/CVE-2020-6287_RECON-scanner | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 56 MINUTES 20 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200723T14:02:02Z | CVE-2020-11896 | PoC for CVE-2020-11896 Treck TCP/IP stack and device asset investigation | https://github.com/Fans0n-Fan/Treck20-Related | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 56 MINUTES 22 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200723T16:26:14Z | cve-2020-5902 | Null | https://github.com/f5devcentral/cve-2020-5902-ioc-bigip-checker | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 55 MINUTES 21 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200723T15:32:30Z | CVE-2020-6287 | Null | https://github.com/Onapsis/CVE-2020-6287_RECON-scanner | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 55 MINUTES 22 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200723T14:02:02Z | CVE-2020-11896 | PoC for CVE-2020-11896 Treck TCP/IP stack and device asset investigation | https://github.com/Fans0n-Fan/Treck20-Related | | 
 | 20200723T10:50:05Z | CVE-2020-8559 | Proof of Concept exploit for Kubernetes CVE-2020-8559 | https://github.com/tabbysable/POC-2020-8559 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 55 MINUTES 27 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20200723T03:29:36Z | CVE-2020-8558 | Information about Kubernetes CVE-2020-8558, including proof of concept exploit. | https://github.com/tabbysable/POC-2020-8558 | 未查询到CVE信息| 
 
@@ -121,12 +121,12 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20200724T01:05:22Z | This project is just me trying to replicate the work done by Brandon Falk during the Fuzz Week for learning purposes and experimentation. | https://github.com/jroimartin/riscv-emu | 0 | 0| 
 | 20200724T01:02:58Z | Scalable fuzzing infrastructure. | https://github.com/google/clusterfuzz | 4272 | 382| 
 | 20200724T00:40:03Z | md.repo.dot.files | https://github.com/https-github-com-artnoc1/fuzzy-tribble | 0 | 0| 
 | 20200724T00:39:34Z | VMI Kernel Fuzzer for Xen Project - VM forking, VMI & AFL integration demo | https://github.com/intel/kernel-fuzzer-for-xen-project | 145 | 22| 
 | 20200724T00:38:25Z | Pedal Multiefecto para guitarra electrica (LoopBack, Delay, Fuzz y Wah-wah) | https://github.com/jrosmirez94/Pedal-Multiefecto | 0 | 0| 
 | 20200724T00:33:47Z | JQF + Zest: Coverage-guided semantic fuzzing for Java. | https://github.com/rohanpadhye/JQF | 256 | 37| 
-| 20200724T00:30:31Z | This project is just me trying to replicate the work done by Brandon Falk during the fuzz week for learning purposes and experimentation. | https://github.com/jroimartin/riscv-emu | 0 | 0| 
 | 20200724T00:03:14Z | css for brightcove player | https://github.com/metrograph-mr/fuzzy-octo-doodle | 0 | 1| 
 | 20200723T23:51:54Z | like a lazy fuzzer for bash? tries to not-run a thing every way it can run | https://github.com/abathur/faffer | 0 | 0| 
 | 20200723T23:37:02Z | OSS-Fuzz - continuous fuzzing of open source software. | https://github.com/google/oss-fuzz | 5413 | 1056| 
