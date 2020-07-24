@@ -121,6 +121,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20200724T01:02:58Z | Scalable fuzzing infrastructure. | https://github.com/google/clusterfuzz | 4272 | 382| 
 | 20200724T00:40:03Z | md.repo.dot.files | https://github.com/https-github-com-artnoc1/fuzzy-tribble | 0 | 0| 
 | 20200724T00:39:34Z | VMI Kernel Fuzzer for Xen Project - VM forking, VMI & AFL integration demo | https://github.com/intel/kernel-fuzzer-for-xen-project | 145 | 22| 
 | 20200724T00:38:25Z | Pedal Multiefecto para guitarra electrica (LoopBack, Delay, Fuzz y Wah-wah) | https://github.com/jrosmirez94/Pedal-Multiefecto | 0 | 0| 
@@ -130,7 +131,6 @@
 | 20200723T23:51:54Z | like a lazy fuzzer for bash? tries to not-run a thing every way it can run | https://github.com/abathur/faffer | 0 | 0| 
 | 20200723T23:37:02Z | OSS-Fuzz - continuous fuzzing of open source software. | https://github.com/google/oss-fuzz | 5413 | 1056| 
 | 20200723T22:36:09Z | FuzzBench - Fuzzer benchmarking as a service. | https://github.com/google/fuzzbench | 489 | 68| 
-| 20200723T18:29:47Z | Development environment for Fuzzwork Ore Compression utility with lp_solve PHP extension | https://github.com/deekthesqueak/FuzzworkCompressionDev | 0 | 0| 
 
 
 
