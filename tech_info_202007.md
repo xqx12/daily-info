@@ -46,16 +46,16 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20200723T22:14:29Z | CVE-2020-15367 | Brute Force on Supravizio BPM 10.1.2 | https://github.com/inflixim4be/CVE-2020-15367 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 58 MINUTES 05 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200723T20:00:14Z | CVE-2020-6287 | PoC for CVE-2020-6287, CVE-2020-6286 (SAP RECON vulnerability) | https://github.com/chipik/SAP_RECON | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 58 MINUTES 12 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200723T19:18:23Z | CVE-2020-8559 | This is a PoC exploit for CVE-2020-8559 Kubernetes Vulnerability  | https://github.com/tdwyer/CVE-2020-8559 | 版本 v1.6-v1.15 中的 Kubernetes kube-apiserver 以及 v1.16.13、v1.17.9 和 v1.18.6 之前的版本容易受到代理升级请求的未验证重定向的影响，这些重定向可能允许攻击者将权限从节点泄露升级为完全群集泄露。| 
-| 20200723T16:26:14Z | cve-2020-5902 | Null | https://github.com/f5devcentral/cve-2020-5902-ioc-bigip-checker | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 58 MINUTES 15 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200723T15:32:30Z | CVE-2020-6287 | Null | https://github.com/Onapsis/CVE-2020-6287_RECON-scanner | SAP NetWeaver AS JAVA（LM配置向导）版本-7.30、7.31、7.34、7.50不执行身份验证检查，这允许未经事先身份验证的攻击者执行针对SAP Java系统执行关键操作的配置任务，包括以下功能：创建管理用户，从而损害系统的机密性，完整性和可用性，从而导致缺少身份验证检查。| 
-| 20200723T14:02:02Z | CVE-2020-11896 | PoC for CVE-2020-11896 Treck TCP/IP stack and device asset investigation | https://github.com/Fans0n-Fan/Treck20-Related | 6.0.1.66 之前 Treck TCP/IP 堆栈允许远程代码执行，与 IPv4 隧道有关。| 
-| 20200723T10:50:05Z | CVE-2020-8559 | Proof of Concept exploit for Kubernetes CVE-2020-8559 | https://github.com/tabbysable/POC-2020-8559 | 版本 v1.6-v1.15 中的 Kubernetes kube-apiserver 以及 v1.16.13、v1.17.9 和 v1.18.6 之前的版本容易受到代理升级请求的未验证重定向的影响，这些重定向可能允许攻击者将权限从节点泄露升级为完全群集泄露。| 
+| 20200723T22:14:29Z | CVE-2020-15367 | Brute Force on Supravizio BPM 10.1.2 | https://github.com/inflixim4be/CVE-2020-15367 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 57 MINUTES 07 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200723T20:00:14Z | CVE-2020-6287 | PoC for CVE-2020-6287, CVE-2020-6286 (SAP RECON vulnerability) | https://github.com/chipik/SAP_RECON | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 57 MINUTES 13 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200723T19:18:23Z | CVE-2020-8559 | This is a PoC exploit for CVE-2020-8559 Kubernetes Vulnerability  | https://github.com/tdwyer/CVE-2020-8559 | | 
+| 20200723T16:26:14Z | cve-2020-5902 | Null | https://github.com/f5devcentral/cve-2020-5902-ioc-bigip-checker | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 57 MINUTES 16 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200723T15:32:30Z | CVE-2020-6287 | Null | https://github.com/Onapsis/CVE-2020-6287_RECON-scanner | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 57 MINUTES 17 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200723T14:02:02Z | CVE-2020-11896 | PoC for CVE-2020-11896 Treck TCP/IP stack and device asset investigation | https://github.com/Fans0n-Fan/Treck20-Related | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 57 MINUTES 19 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200723T10:50:05Z | CVE-2020-8559 | Proof of Concept exploit for Kubernetes CVE-2020-8559 | https://github.com/tabbysable/POC-2020-8559 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 57 MINUTES 20 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20200723T03:29:36Z | CVE-2020-8558 | Information about Kubernetes CVE-2020-8558, including proof of concept exploit. | https://github.com/tabbysable/POC-2020-8558 | 未查询到CVE信息| 
 | 20200723T02:18:30Z | 未知编号 | CVE Data Analysis, CVE Monitor, CVE EXP Prediction Based on Deep Learning. 1999-2020年存量CVE数据分析、监控CVE增量更新、基于深度学习的CVE EXP预测和自动化推送 | https://github.com/404notf0und/CVE-Flow | 未查询到CVE信息| 
-| 20200723T00:39:42Z | CVE-2020-1350 | Proof-of-Concept (PoC) script to exploit SIGRed (CVE-2020-1350). Achieves Domain Admin on Domain Controllers running Windows Server 2000 up to Windows Server 2019. | https://github.com/ZephrFish/CVE-2020-1350 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 58 MINUTES 10 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200723T00:39:42Z | CVE-2020-1350 | Proof-of-Concept (PoC) script to exploit SIGRed (CVE-2020-1350). Achieves Domain Admin on Domain Controllers running Windows Server 2000 up to Windows Server 2019. | https://github.com/ZephrFish/CVE-2020-1350 | | 
 
 
 # klee on Github 推荐
@@ -120,7 +120,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20200723T23:51:59Z | css for brightcove player | https://github.com/metrograph-mr/fuzzy-octo-doodle | 0 | 1| 
+| 20200724T00:03:14Z | css for brightcove player | https://github.com/metrograph-mr/fuzzy-octo-doodle | 0 | 1| 
 | 20200723T23:51:54Z | like a lazy fuzzer for bash? tries to not-run a thing every way it can run | https://github.com/abathur/faffer | 0 | 0| 
 | 20200723T23:37:02Z | OSS-Fuzz - continuous fuzzing of open source software. | https://github.com/google/oss-fuzz | 5413 | 1056| 
 | 20200723T22:36:09Z | FuzzBench - Fuzzer benchmarking as a service. | https://github.com/google/fuzzbench | 489 | 68| 
