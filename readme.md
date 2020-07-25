@@ -17,10 +17,10 @@
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
 | 20200725T12:06:29Z | 未知编号 | CVE Data Analysis, CVE Monitor, CVE EXP Prediction Based on Deep Learning. 1999-2020年存量CVE数据分析、监控CVE增量更新、基于深度学习的CVE EXP预测和自动化推送 | https://github.com/404notf0und/CVE-Flow | 未查询到CVE信息| 
-| 20200725T11:56:52Z | CVE-2020-1054 | Null | https://github.com/HuaiPiqi/CVE-2020-1054 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 47 MINUTES 38 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200725T06:00:36Z | CVE-2020-8559 | This is a PoC exploit for CVE-2020-8559 Kubernetes Vulnerability  | https://github.com/tdwyer/CVE-2020-8559 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 48 MINUTES 28 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200725T11:56:52Z | CVE-2020-1054 | Null | https://github.com/HuaiPiqi/CVE-2020-1054 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 46 MINUTES 37 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200725T06:00:36Z | CVE-2020-8559 | This is a PoC exploit for CVE-2020-8559 Kubernetes Vulnerability  | https://github.com/tdwyer/CVE-2020-8559 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 47 MINUTES 29 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20200725T02:28:17Z | CVE-2020-3452 | CVE-2020-3452 Cisco ASA Scanner -unauth Path Traversal Check | https://github.com/PR3R00T/CVE-2020-3452-Cisco-Scanner | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
-| 20200725T00:25:34Z | CVE-2020-5902 | Simple Vulnerability Checker Wrote by me "@TheCyberViking" and A fellow Researcher who wanted to be left Nameless... you know who you are you beautiful bitch | https://github.com/TheCyberViking/CVE-2020-5902-Vuln-Checker | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 48 MINUTES 18 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200725T00:25:34Z | CVE-2020-5902 | Simple Vulnerability Checker Wrote by me "@TheCyberViking" and A fellow Researcher who wanted to be left Nameless... you know who you are you beautiful bitch | https://github.com/TheCyberViking/CVE-2020-5902-Vuln-Checker | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 47 MINUTES 19 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 
 
 # klee on Github 推荐
@@ -37,6 +37,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20200725T12:12:13Z | Scan/Exploit Windows 7 x86/x64 (EternalBlue MS17-010) Reverse Shell NETCAT [NO METASPLOIT] | https://github.com/d4t4s3c/Win7Blue | 8 | 4| 
 | 20200725T12:08:39Z | post_exploitation | https://github.com/dar3k93/post_exploitation | 1 | 0| 
 | 20200725T12:01:28Z | iblessing is an iOS security exploiting toolkit, it mainly includes application information collection, static analysis and dynamic analysis. It can be used for reverse engineering, binary analysis and vulnerability mining. | https://github.com/Soulghost/iblessing | 39 | 3| 
 | 20200725T11:58:50Z | Research on Anti-malware and other related security solutions | https://github.com/NtRaiseHardError/Antimalware-Research | 121 | 48| 
@@ -45,7 +46,6 @@
 | 20200725T11:23:28Z | Community powered annotations for CVE to identify source, sink, exploits and other information. | https://github.com/AppThreat/cve-annotations | 0 | 0| 
 | 20200725T11:17:59Z | *Frequently Updated. Sifter is a osint, recon & vulnerability scanner. It combines a plethara of tools within different module sets in order to quickly perform recon tasks, check network firewalling, enumerate remote and local hosts, and scan for the %blue% vulnerabilities within microsft and if unpatched, exploit them.  It uses tools like blackwidow and konan for webdir enumeration and attack surface mapping rapidly using ASM.  | https://github.com/s1l3nt78/sifter | 201 | 67| 
 | 20200725T11:16:16Z | DeimosC2 is a Golang command and control framework for post-exploitation. | https://github.com/DeimosC2/DeimosC2 | 120 | 12| 
-| 20200725T11:13:48Z | Scan/Exploit Windows 7 x86/x64 (EternalBlue MS17-010) Reverse Shell NETCAT [NO METASPLOIT] | https://github.com/d4t4s3c/Win7Blue | 8 | 4| 
 | 20200725T11:02:28Z | Null | https://github.com/Unknown482/RobloxExploits | 0 | 0| 
 
 
