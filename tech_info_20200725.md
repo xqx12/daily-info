@@ -17,10 +17,10 @@
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
 | 20200725T12:06:29Z | 未知编号 | CVE Data Analysis, CVE Monitor, CVE EXP Prediction Based on Deep Learning. 1999-2020年存量CVE数据分析、监控CVE增量更新、基于深度学习的CVE EXP预测和自动化推送 | https://github.com/404notf0und/CVE-Flow | 未查询到CVE信息| 
-| 20200725T11:56:52Z | CVE-2020-1054 | Null | https://github.com/HuaiPiqi/CVE-2020-1054 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 06 MINUTES 38 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200725T06:00:36Z | CVE-2020-8559 | This is a PoC exploit for CVE-2020-8559 Kubernetes Vulnerability  | https://github.com/tdwyer/CVE-2020-8559 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 07 MINUTES 29 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200725T11:56:52Z | CVE-2020-1054 | Null | https://github.com/HuaiPiqi/CVE-2020-1054 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 05 MINUTES 38 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200725T06:00:36Z | CVE-2020-8559 | This is a PoC exploit for CVE-2020-8559 Kubernetes Vulnerability  | https://github.com/tdwyer/CVE-2020-8559 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 06 MINUTES 29 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20200725T02:28:17Z | CVE-2020-3452 | CVE-2020-3452 Cisco ASA Scanner -unauth Path Traversal Check | https://github.com/PR3R00T/CVE-2020-3452-Cisco-Scanner | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
-| 20200725T00:25:34Z | CVE-2020-5902 | Simple Vulnerability Checker Wrote by me "@TheCyberViking" and A fellow Researcher who wanted to be left Nameless... you know who you are you beautiful bitch | https://github.com/TheCyberViking/CVE-2020-5902-Vuln-Checker | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 07 MINUTES 19 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200725T00:25:34Z | CVE-2020-5902 | Simple Vulnerability Checker Wrote by me "@TheCyberViking" and A fellow Researcher who wanted to be left Nameless... you know who you are you beautiful bitch | https://github.com/TheCyberViking/CVE-2020-5902-Vuln-Checker | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 06 MINUTES 18 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 
 
 # klee on Github 推荐
@@ -62,6 +62,8 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20200725T12:54:11Z | Common Web Managers Fuzz Wordlists | https://github.com/kaimi-io/web-fuzz-wordlists | 77 | 15| 
+| 20200725T12:54:02Z | Tool for findings bugs in epoll-based Linux servers | https://github.com/alexhultman/epoll_fuzzer | 2 | 0| 
 | 20200725T12:52:32Z | 模糊认知诊断模型Python实现 | https://github.com/zelo2/FuzzyCDF | 0 | 0| 
 | 20200725T12:28:03Z | Simple tool to rename source files by matching a list of choices. | https://github.com/pcjco/PyFuzzy-renamer | 0 | 0| 
 | 20200725T11:59:20Z | Fuzzy string matching, publicly callable using API | https://github.com/thepermanenturl/Fuzzymatchserver | 0 | 0| 
@@ -70,8 +72,6 @@
 | 20200725T10:12:54Z | SSL and TLS protocol test suite and fuzzer | https://github.com/tomato42/tlsfuzzer | 317 | 79| 
 | 20200725T08:37:26Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 3055 | 696| 
 | 20200725T08:14:31Z | Null | https://github.com/oneCoderMan/aflgo-fuzz | 0 | 0| 
-| 20200725T07:42:14Z | Null | https://github.com/IdoLevi235/Fuzzy-C-Means---Python | 0 | 0| 
-| 20200725T07:39:18Z | Null | https://github.com/IdoLevi235/Fuzzy-C-Means---Matlab | 0 | 0| 
 
 
 
