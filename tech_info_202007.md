@@ -32,6 +32,8 @@
 | ts | title | url| 
 | --- | --- | ---| 
 | 20200724 | RangeAMP：利用CDN+Range请求进行的HTTP放大攻击 | https://mp.weixin.qq.com/s/Dp5214aBdQjb-uuxP7T4zg| 
+| 20200724 | 编写可以上传json文件的“Shodan”Goby插件 | https://mp.weixin.qq.com/s/j28z7yrybH0xBi1Upxn4ZA| 
+| 20200724 | 编写查看摄像头快照的“Hikvision”Goby插件 | https://mp.weixin.qq.com/s/YExvYQ8RtBvrNC0VwwnV9A| 
 | 20200723 | 论CISO的个人修养 | https://mp.weixin.qq.com/s/OQgfTosjAWVSEGlCuBKF5A| 
 | 20200723 | 网络靶场能力指南 | https://mp.weixin.qq.com/s/7HAorX_VurhxXI9OT6sILA| 
 | 20200723 | 权限维持 | https://www.yuque.com/docs/share/214295b1-5b6c-42ad-9e3d-7d3823ea3ee6| 
@@ -39,36 +41,34 @@
 | 20200722 | 记一次从零到getshell的渗透历程 | https://blog.blankshell.com/2020/07/22/%e8%ae%b0%e4%b8%80%e6%ac%a1%e4%bb%8e%e9%9b%b6%e5%88%b0getshell%e7%9a%84%e6%b8%97%e9%80%8f%e5%8e%86%e7%a8%8b/| 
 | 20200722 | 细说渗透江湖之披荆斩棘 | https://mp.weixin.qq.com/s/HVOpUfJbncp81GWFLcgIFw| 
 | 20200721 | 某企业授权渗透报告 | https://www.freebuf.com/articles/network/243831.html| 
-| 20200721 | 领导人高级别会谈如何反窃密 | https://mp.weixin.qq.com/s/2ySVlrHHnMpunY9VX0l3Zg| 
-| 20200721 | 朝鲜半岛APT组织Lazarus在MacOS平台上的攻击活动分析 | https://mp.weixin.qq.com/s/W0HuTvPI7CzM8queWNhXIQ| 
 
 
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20200724T12:00:21Z | CVE-2020-8559 | This is a PoC exploit for CVE-2020-8559 Kubernetes Vulnerability  | https://github.com/tdwyer/CVE-2020-8559 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 00 MINUTES 19 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200724T19:41:40Z | cve-2020-5902 | Null | https://github.com/f5devcentral/cve-2020-5902-ioc-bigip-checker | 在BIG-IP版本15.0.0-15.1.0.3、14.1.0-14.1.2.5、13.1.0-13.1.3.3、12.1.0-12.1.5.1和11.6.1-11.6.5.1中，流量管理用户接口（TMUI），也称为“配置”实用程序，在未公开的页面中具有远程执行代码（RCE）漏洞。| 
+| 20200724T17:28:22Z | CVE-2020-8559 | Proof of Concept exploit for Kubernetes CVE-2020-8559 | https://github.com/tabbysable/POC-2020-8559 | v1.6-v1.15版本以及v1.16.13，v1.17.9和v1.18.6之前的版本中的Kubernetes kube-apiserver容易受到代理升级请求上未经验证的重定向的攻击，这可能使攻击者可以从服务器升级特权。节点折衷到完整集群折衷。| 
+| 20200724T17:25:37Z | CVE-2020-8559 | This is a PoC exploit for CVE-2020-8559 Kubernetes Vulnerability  | https://github.com/tdwyer/CVE-2020-8559 | | 
+| 20200724T17:11:07Z | CVE-2020-3452 | Null | https://github.com/mr-r3b00t/CVE-2020-3452 | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
+| 20200724T16:36:44Z | 未知编号 | CVE Data Analysis, CVE Monitor, CVE EXP Prediction Based on Deep Learning. 1999-2020年存量CVE数据分析、监控CVE增量更新、基于深度学习的CVE EXP预测和自动化推送 | https://github.com/404notf0und/CVE-Flow | 未查询到CVE信息| 
+| 20200724T15:15:22Z | CVE-2020-3452 | CVE-2020-3452 Cisco ASA Scanner -unauth Path Traversal Check | https://github.com/PR3R00T/CVE-2020-3452-Cisco-Scanner | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
 | 20200724T11:44:01Z | CVE-2020-13925 | Null | https://github.com/bit4woo/CVE-2020-13925 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 05 MINUTES 19 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20200724T11:27:06Z | CVE-2020-1350 | Proof-of-Concept (PoC) script to exploit SIGRed (CVE-2020-1350). Achieves Domain Admin on Domain Controllers running Windows Server 2000 up to Windows Server 2019. | https://github.com/ZephrFish/CVE-2020-1350 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  09 HOURS 59 MINUTES 59 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200724T10:06:24Z | CVE-2020-8559 | Proof of Concept exploit for Kubernetes CVE-2020-8559 | https://github.com/tabbysable/POC-2020-8559 | | 
-| 20200724T09:18:01Z | 未知编号 | CVE Data Analysis, CVE Monitor, CVE EXP Prediction Based on Deep Learning. 1999-2020年存量CVE数据分析、监控CVE增量更新、基于深度学习的CVE EXP预测和自动化推送 | https://github.com/404notf0und/CVE-Flow | 未查询到CVE信息| 
 | 20200724T06:02:21Z | cve-2020-3452 | unauth file read in cisco asa & firepower. | https://github.com/Loneyers/cve-2020-3452 | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
-| 20200724T03:12:02Z | CVE-2020-11896 | PoC for CVE-2020-11896 Treck TCP/IP stack and device asset investigation | https://github.com/Fans0n-Fan/Treck20-Related | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 00 MINUTES 09 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200724T02:10:02Z | CVE-2020-6287 | Null | https://github.com/Onapsis/CVE-2020-6287_RECON-scanner | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 00 MINUTES 07 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200724T01:54:56Z | CVE-2020-14645 | Weblogic CVE-2020-14645 coherence 反序列化漏洞验证程序 | https://github.com/DSO-Lab/Weblogic_CVE-2020-14645 | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
-| 20200724T00:49:42Z | CVE-2020-3452 | Null | https://github.com/XDev05/CVE-2020-3452-PoC | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
+| 20200724T03:12:02Z | CVE-2020-11896 | PoC for CVE-2020-11896 Treck TCP/IP stack and device asset investigation | https://github.com/Fans0n-Fan/Treck20-Related | 6.0.1.66之前的Treck TCP / IP堆栈允许进行与IPv4隧道相关的远程代码执行。| 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20200724T21:43:23Z | Create CFGs and compute complexity metrics for Python, C++, and Java code. | https://github.com/hmc-alpaqa/metrinome | 3 | 0| 
+| 20200724T18:55:37Z | A tool that automatically calls Klee to solve for injection | https://github.com/Zzzode/KleeTool | 0 | 0| 
 | 20200724T08:07:48Z | Symbiotic is a tool for finding bugs in computer programs based on instrumentation, program slicing and KLEE | https://github.com/staticafi/symbiotic | 195 | 32| 
 | 20200723T23:09:13Z | A 4chan image browser written in SwiftUI | https://github.com/jackpal/KleeneStar | 10 | 0| 
-| 20200723T16:41:31Z | A tool that automatically calls Klee to solve for injection | https://github.com/Zzzode/KleeTool | 0 | 0| 
 | 20200723T16:29:57Z | redux, redux-saga, hooks, hooks-store, next.js, testing(jest+enzyme), routing, axios....more | https://github.com/klee214/klee214-React_Reference | 0 | 0| 
 | 20200723T11:24:20Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1444 | 442| 
 | 20200722T17:20:36Z | Readable String Sanitizer | https://github.com/schemenauero/kleen-js | 0 | 0| 
 | 20200721T15:47:19Z | KLEE in the browser | https://github.com/klee/klee-web | 43 | 10| 
-| 20200721T02:23:34Z | Create CFGs and compute complexity metrics for Python, C++, and Java code. | https://github.com/hmc-alpaqa/metrinome | 3 | 0| 
 | 20200719T06:45:41Z | Null | https://github.com/mmjasim8/kleemz | 0 | 0| 
 | 20200718T21:18:20Z | Null | https://github.com/kleineMaus89/kleene | 0 | 0| 
 
@@ -91,46 +91,46 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20200724T12:52:21Z | Exploit PoC for CVE%s and non CVE%s alike | https://github.com/CCob/PoC | 8 | 4| 
-| 20200724T12:51:10Z | *Frequently Updated. Sifter is a osint, recon & vulnerability scanner. It combines a plethara of tools within different module sets in order to quickly perform recon tasks, check network firewalling, enumerate remote and local hosts, and scan for the %blue% vulnerabilities within microsft and if unpatched, exploit them.  It uses tools like blackwidow and konan for webdir enumeration and attack surface mapping rapidly using ASM.  | https://github.com/s1l3nt78/sifter | 197 | 67| 
-| 20200724T12:50:14Z | Null | https://github.com/smarinovic/exploits | 0 | 0| 
-| 20200724T12:40:41Z | Exploits weaknesses in RC4 to mount a chosen-plaintext attack and recover the private key. The vulnerability is similar to the one used to crack WEP, but it targets schemes where the initialisation vector precedes the long term key. | https://github.com/dj311/rc4-key-recovery-attacks | 0 | 0| 
-| 20200724T12:35:12Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 6742 | 1065| 
-| 20200724T12:31:46Z | Avorion mod that fIxes exodus mission exploit that allowed to get unlimited keys. | https://github.com/rinart73/Exodus-Fix | 0 | 1| 
-| 20200724T12:27:34Z | Thoron Framework is a Linux post-exploitation framework that exploits Linux TCP vulnerability to provide a shell-like connection. Thoron Framework has the ability to create simple payloads to provide Linux TCP attack. | https://github.com/entynetproject/thoron | 69 | 26| 
-| 20200724T12:27:10Z | it contain all Challenges of protostar .....:) | https://github.com/vipulvyas/Protostar_Binary_Exploitation | 0 | 0| 
-| 20200724T12:20:22Z | buffer overflow detection and exploitation tool for VERY low hanging fruit | https://github.com/kjcain/ruffer-overflow | 0 | 0| 
-| 20200724T12:17:17Z | Post-exploitation tool for lateral movement | https://github.com/tmenochet/PowerExec | 0 | 0| 
+| 20200724T23:57:56Z | exploitation of github repositories.🐱‍🏍 | https://github.com/KoZooDev/GitHubExplorer | 0 | 0| 
+| 20200724T23:37:11Z | Community powered annotations for CVE to identify source, sink, exploits and other information. | https://github.com/AppThreat/cve-annotations | 0 | 0| 
+| 20200724T23:17:59Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 6742 | 1066| 
+| 20200724T23:02:38Z | Une société automobile chinoise Teclov_chinese espère exploiter le marché américain en installant ses unités de fabrication et production de voitures locale afin de concurrencer leurs homologues américains et européens. Ils ont retenu les services d’une société d’experts-conseils en automobile pour comprendre les facteurs dont depend le prix des voitures. Plus précisément, ils veulent comprendre les facteurs qui influent sur le prix des voitures sur le marché américain. | https://github.com/asmaedk/projet-iddl | 0 | 0| 
+| 20200724T22:40:22Z | python | https://github.com/andrezG1/exploit | 0 | 0| 
+| 20200724T22:08:09Z | *Frequently Updated. Sifter is a osint, recon & vulnerability scanner. It combines a plethara of tools within different module sets in order to quickly perform recon tasks, check network firewalling, enumerate remote and local hosts, and scan for the %blue% vulnerabilities within microsft and if unpatched, exploit them.  It uses tools like blackwidow and konan for webdir enumeration and attack surface mapping rapidly using ASM.  | https://github.com/s1l3nt78/sifter | 200 | 67| 
+| 20200724T21:38:07Z | A phased, evasive Path Traversal scanning & exploitation tool in Python | https://github.com/VainlyStrain/Vailyn | 5 | 0| 
+| 20200724T21:35:33Z | DeimosC2 is a Golang command and control framework for post-exploitation. | https://github.com/DeimosC2/DeimosC2 | 105 | 11| 
+| 20200724T21:29:12Z | CMS Detection and Exploitation suite - Scan WordPress, Joomla, Drupal and over 180 other CMSs | https://github.com/Tuhinshubhra/CMSeeK | 1087 | 300| 
+| 20200724T21:21:18Z | PlayStation 2 DVD Player Exploit | https://github.com/CTurt/FreeDVDBoot | 1204 | 85| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20200724T12:43:19Z | FUD cross-platform python2 backdoor | https://github.com/7h3w4lk3r/pyback | 5 | 3| 
+| 20200724T23:56:32Z | FUD cross-platform python2 backdoor | https://github.com/7h3w4lk3r/pyback | 7 | 3| 
+| 20200724T21:51:09Z | Ghost Framework is an Android post-exploitation framework that exploits the Android Debug Bridge to remotely access an Android device. Ghost Framework gives you the power and convenience of remote Android device administration. | https://github.com/entynetproject/ghost | 617 | 305| 
+| 20200724T15:23:40Z | Shitty backdoor for Elixir ;) | https://github.com/hubertlepicki/backdoor | 0 | 0| 
+| 20200724T14:13:03Z | A deck-building roguelike cyberpunk game. | https://github.com/uspgamedev/backdoor | 16 | 2| 
 | 20200724T12:27:34Z | Thoron Framework is a Linux post-exploitation framework that exploits Linux TCP vulnerability to provide a shell-like connection. Thoron Framework has the ability to create simple payloads to provide Linux TCP attack. | https://github.com/entynetproject/thoron | 69 | 26| 
-| 20200724T10:22:08Z | Ghost Framework is an Android post-exploitation framework that exploits the Android Debug Bridge to remotely access an Android device. Ghost Framework gives you the power and convenience of remote Android device administration. | https://github.com/entynetproject/ghost | 615 | 305| 
 | 20200724T09:29:04Z | Shell Backdoor  | https://github.com/fstreitzia/shinkakz | 1 | 1| 
 | 20200724T08:51:30Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 25 | 4| 
 | 20200724T08:46:56Z | This is a Simple reg Backdoor for Windows shell Hacking. You can fully compromise the target machine with this TOOL . For Advance backdoor with a dropper Contact ME. | https://github.com/khacker1024/shellcode | 1 | 1| 
 | 20200724T04:11:06Z | PyIris-backdoor is a modular, stealthy and flexible remote-access-toolkit written completely in python used to command and control other systems. It is now in the beta stage, possibly perpetually. There are bugs still present in the framework, feel free to contribute or help me out with this project its still under active development >_> | https://github.com/angus-y/PyIris-backdoor | 90 | 31| 
 | 20200723T23:56:01Z | Open source implementation of the TrojDRL algorithm presented in TrojDRL: Evaluation of backdoor attacks on Deep Reinforcement Learning | https://github.com/pkiourti/rl_backdoor | 0 | 0| 
-| 20200723T16:29:41Z | Null | https://github.com/HarunResit-cyber/Backdoor---Trojan | 0 | 0| 
-| 20200723T16:02:39Z | Null | https://github.com/Backdoored/backdoored.github.io | 3 | 1| 
 
 
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20200724T12:57:46Z | Null | https://github.com/fakefobia/https-svn.code.sf.net-p-fuzzylogix-com-opensource-svn | 0 | 0| 
-| 20200724T12:53:20Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 3051 | 695| 
-| 20200724T12:09:36Z | Null | https://github.com/WillRoque/simple-fuzzing | 0 | 0| 
-| 20200724T12:09:35Z | A distributed fuzzing management framework | https://github.com/fkie-cad/LuckyCAT | 43 | 7| 
-| 20200724T12:03:02Z | Bug hunting through fuzzer/*-sanitizer/etc... | https://github.com/hardenedlinux/harbian-qa | 66 | 15| 
-| 20200724T12:02:31Z | Null | https://github.com/Ishaan29/fuzzy-chainsaw-algo | 1 | 0| 
-| 20200724T11:56:24Z | Null | https://github.com/evdd86/fuzzy-octo-app | 0 | 0| 
-| 20200724T10:51:15Z | 模糊认知诊断模型Python实现 | https://github.com/zelo2/FuzzyCDF | 0 | 0| 
-| 20200724T09:50:45Z | Null | https://github.com/jiniljeil/SW-Fuzzing | 0 | 0| 
-| 20200724T09:32:07Z | Bytecode-level coverage for fuzzing python programs with AFL. | https://github.com/dizzy57/python-afl37 | 0 | 0| 
+| 20200724T23:58:06Z | E | https://github.com/The-Maxs/fuzzy-garbanzo | 0 | 0| 
+| 20200724T23:41:49Z | OSS-Fuzz - continuous fuzzing of open source software. | https://github.com/google/oss-fuzz | 5417 | 1056| 
+| 20200724T23:35:31Z | Simple tool to rename source files by matching a list of choices. | https://github.com/pcjco/PyFuzzy-renamer | 0 | 0| 
+| 20200724T22:35:31Z | 🎲Utilities for fuzzing | https://github.com/garbles/fuzz-utils | 1 | 0| 
+| 20200724T22:21:48Z | FuzzBench - Fuzzer benchmarking as a service. | https://github.com/google/fuzzbench | 491 | 69| 
+| 20200724T22:20:37Z | Null | https://github.com/serdar066/fuzzy-potato | 0 | 0| 
+| 20200724T21:20:03Z | Null | https://github.com/fakefobia/https-github.com-fakefobia-https-svn.code.sf.net-p-fuzzylogix-com-opensource-svn-code | 0 | 0| 
+| 20200724T21:14:35Z | Null | https://github.com/randomicons/fuzzydoro | 0 | 1| 
+| 20200724T20:59:00Z | css for brightcove player | https://github.com/metrograph-mr/fuzzy-octo-doodle | 0 | 1| 
+| 20200724T20:33:45Z | This repository contains QGIS models that allow fuzzifying different spatial data types by using S function and linear function. | https://github.com/gulerdo/spatial-fuzzification | 0 | 0| 
 
 
 
