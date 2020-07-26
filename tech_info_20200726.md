@@ -62,6 +62,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20200726T12:31:40Z | zip-ada 52, afl fuzzer demo | https://github.com/Lightslicer/zip-ada-afl | 0 | 0| 
 | 20200726T12:13:04Z | A Fuzzy Logic Application for Master Of Science Thesis | https://github.com/kaaner/fuzzy-msc-v2 | 0 | 0| 
 | 20200726T12:09:28Z | This is an example of a project with continuous fuzzing integration | https://github.com/fuzzitdev/example-c | 7 | 3| 
 | 20200726T12:05:35Z | Server side ng-blog | https://github.com/panvicka/fuzzy-octo-journey | 0 | 0| 
@@ -71,7 +72,6 @@
 | 20200726T08:19:20Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 3058 | 696| 
 | 20200726T06:33:10Z | Highly experimental parser that calculates the way a pattern best matches a text, and how closely it matches the text, rather than calculates a binary match or parse error. | https://github.com/SamRoberts/fuzzy | 0 | 0| 
 | 20200726T05:46:46Z | Null | https://github.com/fuzzyads/Fuzzy-Ads-Typescript | 0 | 0| 
-| 20200726T03:24:50Z | Jan%s Fuzzy System (JFS) | https://github.com/inniyah/jfs-fuzzy | 0 | 0| 
 
 
 
