@@ -61,7 +61,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20200726T12:01:18Z | Quantitative Approach to the Core-Satellite Paradigm | https://github.com/Ligophorus/FuzzyQ | 0 | 0| 
+| 20200726T12:02:45Z | Quantitative Approach to the Core-Satellite Paradigm | https://github.com/Ligophorus/FuzzyQ | 0 | 0| 
 | 20200726T11:39:32Z | Server side ng-blog | https://github.com/panvicka/fuzzy-octo-journey | 0 | 0| 
 | 20200726T10:45:46Z | Interesting way to obfuscate search tenancies on google. Work in progress.  | https://github.com/ultirian/GoogleFuzzerPython | 0 | 0| 
 | 20200726T08:45:13Z | Null | https://github.com/Ishaan29/fuzzy-chainsaw-algo | 1 | 0| 
