@@ -62,7 +62,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20200726T12:31:40Z | zip-ada 52, afl fuzzer demo | https://github.com/Lightslicer/zip-ada-afl | 0 | 0| 
+| 20200726T12:35:37Z | zip-ada 52, afl fuzzer demo | https://github.com/Lightslicer/zip-ada-afl | 0 | 0| 
 | 20200726T12:13:04Z | A Fuzzy Logic Application for Master Of Science Thesis | https://github.com/kaaner/fuzzy-msc-v2 | 0 | 0| 
 | 20200726T12:09:28Z | This is an example of a project with continuous fuzzing integration | https://github.com/fuzzitdev/example-c | 7 | 3| 
 | 20200726T12:05:35Z | Server side ng-blog | https://github.com/panvicka/fuzzy-octo-journey | 0 | 0| 
