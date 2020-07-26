@@ -61,6 +61,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20200726T12:05:12Z | This is an example of a project with continuous fuzzing integration | https://github.com/fuzzitdev/example-c | 7 | 3| 
 | 20200726T12:02:45Z | Quantitative Approach to the Core-Satellite Paradigm | https://github.com/Ligophorus/FuzzyQ | 0 | 0| 
 | 20200726T11:39:32Z | Server side ng-blog | https://github.com/panvicka/fuzzy-octo-journey | 0 | 0| 
 | 20200726T10:45:46Z | Interesting way to obfuscate search tenancies on google. Work in progress.  | https://github.com/ultirian/GoogleFuzzerPython | 0 | 0| 
@@ -70,7 +71,6 @@
 | 20200726T05:46:46Z | Null | https://github.com/fuzzyads/Fuzzy-Ads-Typescript | 0 | 0| 
 | 20200726T03:24:50Z | Jan%s Fuzzy System (JFS) | https://github.com/inniyah/jfs-fuzzy | 0 | 0| 
 | 20200726T02:41:11Z | 模糊认知诊断模型Python实现 | https://github.com/zelo2/FuzzyCDF | 0 | 0| 
-| 20200726T02:16:54Z | Where i do things | https://github.com/fuzzy1450/Fuzzy1450.github.io | 13 | 1| 
 
 
 
