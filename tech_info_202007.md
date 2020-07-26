@@ -49,13 +49,13 @@
 | 20200726T12:16:56Z | cve-2020-3452 | Null | https://github.com/foulenzer/cve-2020-3452 | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
 | 20200726T08:13:21Z | 未知编号 | CVE Data Analysis, CVE Monitor, CVE EXP Prediction Based on Deep Learning. 1999-2020年存量CVE数据分析、监控CVE增量更新、基于深度学习的CVE EXP预测和自动化推送 | https://github.com/404notf0und/CVE-Flow | 未查询到CVE信息| 
 | 20200726T01:36:16Z | CVE-2020-14321 | Course enrolments allowed privilege escalation from teacher role into manager role to RCE | https://github.com/HoangKien1020/CVE-2020-14321 | 未查询到CVE信息| 
-| 20200725T20:02:48Z | CVE-2020-6287 | Null | https://github.com/Onapsis/CVE-2020-6287_RECON-scanner | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 34 MINUTES 23 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200725T15:34:00Z | CVE-2020-8559 | Proof of Concept exploit for Kubernetes CVE-2020-8559 | https://github.com/tabbysable/POC-2020-8559 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 34 MINUTES 26 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200725T11:56:52Z | CVE-2020-1054 | Null | https://github.com/HuaiPiqi/CVE-2020-1054 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 33 MINUTES 37 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200725T06:00:36Z | CVE-2020-8559 | This is a PoC exploit for CVE-2020-8559 Kubernetes Vulnerability  | https://github.com/tdwyer/CVE-2020-8559 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 34 MINUTES 27 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200725T20:02:48Z | CVE-2020-6287 | Null | https://github.com/Onapsis/CVE-2020-6287_RECON-scanner | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 33 MINUTES 24 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200725T15:34:00Z | CVE-2020-8559 | Proof of Concept exploit for Kubernetes CVE-2020-8559 | https://github.com/tabbysable/POC-2020-8559 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 33 MINUTES 27 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200725T11:56:52Z | CVE-2020-1054 | Null | https://github.com/HuaiPiqi/CVE-2020-1054 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 32 MINUTES 36 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200725T06:00:36Z | CVE-2020-8559 | This is a PoC exploit for CVE-2020-8559 Kubernetes Vulnerability  | https://github.com/tdwyer/CVE-2020-8559 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 33 MINUTES 28 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20200725T02:28:17Z | CVE-2020-3452 | CVE-2020-3452 Cisco ASA Scanner -unauth Path Traversal Check | https://github.com/PR3R00T/CVE-2020-3452-Cisco-Scanner | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
-| 20200725T00:25:34Z | CVE-2020-5902 | Simple Vulnerability Checker Wrote by me "@TheCyberViking" and A fellow Researcher who wanted to be left Nameless... you know who you are you beautiful bitch | https://github.com/TheCyberViking/CVE-2020-5902-Vuln-Checker | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 34 MINUTES 18 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200724T19:41:40Z | cve-2020-5902 | Null | https://github.com/f5devcentral/cve-2020-5902-ioc-bigip-checker | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 34 MINUTES 21 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200725T00:25:34Z | CVE-2020-5902 | Simple Vulnerability Checker Wrote by me "@TheCyberViking" and A fellow Researcher who wanted to be left Nameless... you know who you are you beautiful bitch | https://github.com/TheCyberViking/CVE-2020-5902-Vuln-Checker | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 33 MINUTES 21 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200724T19:41:40Z | cve-2020-5902 | Null | https://github.com/f5devcentral/cve-2020-5902-ioc-bigip-checker | | 
 
 
 # klee on Github 推荐
@@ -91,6 +91,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20200726T12:26:53Z | A MQTT Exploitation Toolkit | https://github.com/gonzalezkrause/citronella | 0 | 0| 
 | 20200726T11:58:43Z | PS4 Exploit list | https://github.com/Hakkuraifu/PS4xploit | 7 | 1| 
 | 20200726T11:38:07Z | More Stable Offline Exploit version of PS4 6.72 Jailbreak. | https://github.com/DarkModderVC/PS4JB | 32 | 15| 
 | 20200726T10:08:23Z | Null | https://github.com/vorlex-cyber/binary-exploitation-resources | 0 | 0| 
@@ -100,7 +101,6 @@
 | 20200726T08:28:50Z | this bash script let you download scripts and clone repos for remote exploits | https://github.com/FabioDefilippo/linuxallremote | 0 | 0| 
 | 20200726T08:17:14Z | Panda Exploit ( Web Based ) | https://github.com/SkieAdmin/- | 0 | 0| 
 | 20200726T07:53:22Z | Oraxen is a minecraft plugin which allows to easily exploit Minecraft 1.14 new features in order to create new items with custom textures. It handles the resourcepack generation, upload (using Polymath) , is fully open source and has an extensible API. | https://github.com/oraxen/Oraxen | 64 | 12| 
-| 20200726T07:51:58Z | Blog! | https://github.com/nonetype/nonetype.github.io | 0 | 0| 
 
 
 # backdoor on Github 推荐
