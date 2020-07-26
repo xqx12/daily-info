@@ -38,6 +38,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20200726T12:31:02Z | A MQTT Exploitation Toolkit | https://github.com/hcninja/citronella | 0 | 0| 
 | 20200726T12:29:45Z | A MQTT Exploitation Toolkit | https://github.com/gonzalezkrause/citronella | 0 | 0| 
 | 20200726T12:29:01Z | 3DS userland secondary exploit for SAFE_MODE system updater. It%s actually a pretty safe hax ( ͡° ͜ʖ ͡°). | https://github.com/zoogie/unSAFE_MODE | 60 | 2| 
 | 20200726T11:58:43Z | PS4 Exploit list | https://github.com/Hakkuraifu/PS4xploit | 7 | 1| 
@@ -47,7 +48,6 @@
 | 20200726T09:09:31Z | A phased, evasive Path Traversal scanning & exploitation tool in Python | https://github.com/VainlyStrain/Vailyn | 5 | 0| 
 | 20200726T08:31:55Z | This script runs powershell and downloads some ps1 sript for privilege escalation | https://github.com/FabioDefilippo/winallenum | 0 | 0| 
 | 20200726T08:28:50Z | this bash script let you download scripts and clone repos for remote exploits | https://github.com/FabioDefilippo/linuxallremote | 0 | 0| 
-| 20200726T08:17:14Z | Panda Exploit ( Web Based ) | https://github.com/SkieAdmin/- | 0 | 0| 
 
 
 # backdoor on Github 推荐
