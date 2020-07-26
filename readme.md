@@ -18,14 +18,14 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20200725T20:02:48Z | CVE-2020-6287 | Null | https://github.com/Onapsis/CVE-2020-6287_RECON-scanner | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 51 MINUTES 20 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200725T20:02:48Z | CVE-2020-6287 | Null | https://github.com/Onapsis/CVE-2020-6287_RECON-scanner | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 50 MINUTES 20 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20200725T16:47:37Z | cve-2020-3452 | Null | https://github.com/foulenzer/cve-2020-3452 | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
-| 20200725T15:34:00Z | CVE-2020-8559 | Proof of Concept exploit for Kubernetes CVE-2020-8559 | https://github.com/tabbysable/POC-2020-8559 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 51 MINUTES 22 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200725T15:34:00Z | CVE-2020-8559 | Proof of Concept exploit for Kubernetes CVE-2020-8559 | https://github.com/tabbysable/POC-2020-8559 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 50 MINUTES 23 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20200725T12:06:29Z | 未知编号 | CVE Data Analysis, CVE Monitor, CVE EXP Prediction Based on Deep Learning. 1999-2020年存量CVE数据分析、监控CVE增量更新、基于深度学习的CVE EXP预测和自动化推送 | https://github.com/404notf0und/CVE-Flow | 未查询到CVE信息| 
-| 20200725T11:56:52Z | CVE-2020-1054 | Null | https://github.com/HuaiPiqi/CVE-2020-1054 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 50 MINUTES 32 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200725T06:00:36Z | CVE-2020-8559 | This is a PoC exploit for CVE-2020-8559 Kubernetes Vulnerability  | https://github.com/tdwyer/CVE-2020-8559 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 51 MINUTES 23 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200725T02:28:17Z | CVE-2020-3452 | CVE-2020-3452 Cisco ASA Scanner -unauth Path Traversal Check | https://github.com/PR3R00T/CVE-2020-3452-Cisco-Scanner | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
-| 20200725T00:25:34Z | CVE-2020-5902 | Simple Vulnerability Checker Wrote by me "@TheCyberViking" and A fellow Researcher who wanted to be left Nameless... you know who you are you beautiful bitch | https://github.com/TheCyberViking/CVE-2020-5902-Vuln-Checker | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 51 MINUTES 14 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200725T11:56:52Z | CVE-2020-1054 | Null | https://github.com/HuaiPiqi/CVE-2020-1054 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 49 MINUTES 33 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200725T06:00:36Z | CVE-2020-8559 | This is a PoC exploit for CVE-2020-8559 Kubernetes Vulnerability  | https://github.com/tdwyer/CVE-2020-8559 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 50 MINUTES 24 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200725T02:28:17Z | CVE-2020-3452 | CVE-2020-3452 Cisco ASA Scanner -unauth Path Traversal Check | https://github.com/PR3R00T/CVE-2020-3452-Cisco-Scanner | | 
+| 20200725T00:25:34Z | CVE-2020-5902 | Simple Vulnerability Checker Wrote by me "@TheCyberViking" and A fellow Researcher who wanted to be left Nameless... you know who you are you beautiful bitch | https://github.com/TheCyberViking/CVE-2020-5902-Vuln-Checker | | 
 
 
 # klee on Github 推荐
@@ -71,7 +71,6 @@
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
 | 20200725T23:40:45Z | Null | https://github.com/syntaxbender/Multithread-URL-Fuzzer | 0 | 0| 
-| 20200725T23:35:46Z | CS-52 (Dartmouth) | https://github.com/akaapadm/fuzzwuzz.me | 0 | 0| 
 | 20200725T23:09:30Z |  TSK models using the hybrid method for classification problems | https://github.com/armando-domi/Fuzzy_Systems_Classification | 1 | 1| 
 | 20200725T22:30:08Z | TSK models that are using the hybrid method for regression problems | https://github.com/armando-domi/Fuzzy_Systems_Regression | 0 | 0| 
 | 20200725T22:03:15Z | https://github.com/secfigo/Awesome-Fuzzing | https://github.com/mishmashclone/secfigo-Awesome-Fuzzing | 0 | 0| 
@@ -80,6 +79,7 @@
 | 20200725T19:20:07Z | A Fuzzy Logic Application for Master Of Science Thesis | https://github.com/kaaner/fuzzy-msc | 0 | 0| 
 | 20200725T18:59:54Z | Null | https://github.com/fuzzyads/Fuzzy-Ads-Typescript | 0 | 0| 
 | 20200725T18:58:10Z | 🎲Utilities for fuzzing | https://github.com/garbles/fuzz-utils | 1 | 0| 
+| 20200725T18:07:19Z | information vulnerabilities | https://github.com/fakefobia/fakefobia.github.io-fakefobia-https-svn.code.sf.net-p-fuzzylogix-com-opensource-svn-code | 0 | 0| 
 
 
 
