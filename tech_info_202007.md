@@ -47,7 +47,7 @@
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
 | 20200726T23:16:53Z | CVE-2020-2551 | weblogic 漏洞扫描工具。目前包含 CVE-2014-4210、CVE-2016-0638、CVE-2016-3510、CVE-2017-3248、CVE-2017-3506、CVE-2017-10271、CVE-2018-2628、CVE-2018-2893、CVE-2018-2894、CVE-2018-3191、CVE-2018-3245、CVE-2018-3252、CVE-2019-2618、CVE-2019-2725、CVE-2019-2729、CVE-2019-2890、CVE-2020-2551 | https://github.com/0xn0ne/weblogicScanner | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
-| 20200726T23:13:41Z | CVE-2020-1350 | A registry-based workaround can be used to help protect an affected Windows server, and it can be implemented without requiring an administrator to restart the server. Because of the volatility of this vulnerability, administrators may have to implement the workaround before they apply the security update in order to enable them to update their systems by using a standard deployment cadence. | https://github.com/simeononsecurity/CVE-2020-1350-Fix | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 47 MINUTES 37 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200726T23:13:41Z | CVE-2020-1350 | A registry-based workaround can be used to help protect an affected Windows server, and it can be implemented without requiring an administrator to restart the server. Because of the volatility of this vulnerability, administrators may have to implement the workaround before they apply the security update in order to enable them to update their systems by using a standard deployment cadence. | https://github.com/simeononsecurity/CVE-2020-1350-Fix | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 46 MINUTES 39 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20200726T16:02:52Z | CVE-2020-15392 | User Enumeration on Supravizio BPM 10.1.2 | https://github.com/inflixim4be/CVE-2020-15392 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 47 MINUTES 17 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20200726T15:12:10Z | CVE-2020-14645 | Weblogic CVE-2020-14645 coherence 反序列化漏洞验证程序 | https://github.com/DSO-Lab/Weblogic_CVE-2020-14645 | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
 | 20200726T14:48:39Z | CVE-2020-5902 | Simple Vulnerability Checker Wrote by me "@TheCyberViking" and A fellow Researcher who wanted to be left Nameless... you know who you are you beautiful bitch | https://github.com/TheCyberViking/CVE-2020-5902-Vuln-Checker | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 47 MINUTES 20 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
@@ -121,7 +121,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20200727T01:08:47Z | Fast web fuzzer written in Go | https://github.com/ffuf/ffuf | 2563 | 302| 
+| 20200727T01:12:53Z | Fast web fuzzer written in Go | https://github.com/ffuf/ffuf | 2564 | 302| 
 | 20200727T00:27:35Z | Null | https://github.com/lazygrey/fuzzing_with_cmaes | 0 | 0| 
 | 20200727T00:26:57Z | Scalable fuzzing infrastructure. | https://github.com/google/clusterfuzz | 4276 | 382| 
 | 20200727T00:05:09Z | This project is just me trying to replicate the work done by Brandon Falk during the Fuzz Week for learning purposes and experimentation. | https://github.com/jroimartin/riscv-emu | 1 | 0| 
