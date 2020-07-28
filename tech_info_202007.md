@@ -47,7 +47,7 @@
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
 | 20200727T23:48:24Z | CVE-2020-2551 | weblogic 漏洞扫描工具。目前包含 CVE-2014-4210、CVE-2016-0638、CVE-2016-3510、CVE-2017-3248、CVE-2017-3506、CVE-2017-10271、CVE-2018-2628、CVE-2018-2893、CVE-2018-2894、CVE-2018-3191、CVE-2018-3245、CVE-2018-3252、CVE-2019-2618、CVE-2019-2725、CVE-2019-2729、CVE-2019-2890、CVE-2020-2551 | https://github.com/0xn0ne/weblogicScanner | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
-| 20200727T22:36:11Z | CVE-2020-9934 | CVE-2020–9934 POC | https://github.com/mattshockl/CVE-2020-9934 | | 
+| 20200727T22:36:11Z | CVE-2020-9934 | CVE-2020–9934 POC | https://github.com/mattshockl/CVE-2020-9934 | 未查询到CVE信息| 
 | 20200727T16:36:39Z | CVE-2020-1350 | NSE scripts to detect CVE-2020-1350 SIGRED and CVE-2020-0796 SMBGHOST | https://github.com/pr4jwal/NSE-scripts | 当Windows域名系统服务器无法正确处理请求（也称为“ Windows DNS服务器远程代码执行漏洞”）时，存在一个远程执行代码漏洞。| 
 | 20200727T16:20:09Z | CVE-2020-1350 | CVE-2020-1350 Proof-of-Concept | https://github.com/connormcgarr/CVE-2020-1350 | 当Windows域名系统服务器无法正确处理请求（也称为“ Windows DNS服务器远程代码执行漏洞”）时，存在一个远程执行代码漏洞。| 
 | 20200727T14:05:25Z | CVE-2020-11996 | tomcat-embed-core-9.0.31 CVE-2020-11996 Test PoC | https://github.com/rusakovichma/tomcat-embed-core-9.0.31-CVE-2020-11996 | 发送到Apache Tomcat 10.0.0-M1至10.0.0-M5、9.0.0.M1至9.0.35和8.5.0至8.5.55的特制HTTP / 2请求序列可能会在几秒钟内触发高CPU使用率。如果在并发HTTP / 2连接上发出足够数量的此类请求，则服务器可能会变得无响应。| 
@@ -121,16 +121,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20200727T12:59:00Z | 模糊认知诊断模型Python实现 | https://github.com/zelo2/FuzzyCDF | 0 | 0| 
-| 20200727T11:45:45Z | Null | https://github.com/WillRoque/simple-fuzzing | 0 | 0| 
-| 20200727T11:19:10Z | Fuzzing the linkers | https://github.com/nikolajsamsonow/ftl | 0 | 0| 
-| 20200727T11:03:12Z | Null | https://github.com/s9varesc/url-fuzzing | 0 | 0| 
-| 20200727T10:47:28Z | Just another repository | https://github.com/Nickb32/fuzzy-robot | 0 | 0| 
-| 20200727T09:36:08Z | Fast, robust, standards-compliant MIME decoder. Ships with extensive tests and fuzz tests. | https://github.com/ronomon/mime | 56 | 5| 
-| 20200727T09:28:06Z | Generates Elm types, JSON decoders, JSON encoders and fuzz tests from JSON schema specifications | https://github.com/dragonwasrobot/json-schema-to-elm | 52 | 7| 
-| 20200727T09:25:58Z | A fuzzy parser for C/C++ that creates semantic code property graphs | https://github.com/ShiftLeftSecurity/fuzzyc2cpg | 33 | 11| 
-| 20200727T09:16:00Z | Collection of quality safety articles | https://github.com/tom0li/collection-document | 1160 | 386| 
-| 20200727T09:10:10Z | Null | https://github.com/lazygrey/fuzzing_with_cmaes | 0 | 0| 
+| 20200727T23:57:55Z | FuzzBench - Fuzzer benchmarking as a service. | https://github.com/google/fuzzbench | 493 | 69| 
+| 20200727T23:52:14Z | Scalable fuzzing infrastructure. | https://github.com/google/clusterfuzz | 4278 | 382| 
+| 20200727T23:32:23Z | CS-52 (Dartmouth) - http://cs52.me/assignments/ | https://github.com/akaapadm/fuzzwuzz.me | 0 | 0| 
+| 20200727T23:13:40Z | basic url fuzzer  | https://github.com/Kr4nkh3it/Bastian | 0 | 0| 
+| 20200727T22:34:55Z | Dashboard em Shiny para estimativa do risco de incêndio utilizando lógica fuzzy (https://gabinetemilitar.shinyapps.io/fuzzyIncedio/).  | https://github.com/demusis/fuzzyIncendio | 0 | 0| 
+| 20200727T22:10:59Z | Null | https://github.com/lazygrey/fuzzing_with_cmaes | 0 | 0| 
+| 20200727T21:50:41Z | Random test-case generator for Generator | https://github.com/Icohedron/GeneratorFuzzer | 0 | 0| 
+| 20200727T21:47:25Z | js games and animations | https://github.com/frederickhazel6996/fuzzy-waddle | 0 | 0| 
+| 20200727T21:35:31Z | generate random valid Shift format ASTs | https://github.com/shapesecurity/shift-fuzzer-js | 12 | 3| 
+| 20200727T21:18:13Z | Code for Taskcluster Tasks in Fuzzing | https://github.com/MozillaSecurity/fuzzing-tc | 2 | 2| 
 
 
 
