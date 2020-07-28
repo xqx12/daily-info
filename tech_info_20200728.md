@@ -34,11 +34,11 @@
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
 | 20200728T12:41:06Z | CVE-2020-2551 | weblogic 漏洞扫描工具。目前包含 CVE-2014-4210、CVE-2016-0638、CVE-2016-3510、CVE-2017-3248、CVE-2017-3506、CVE-2017-10271、CVE-2018-2628、CVE-2018-2893、CVE-2018-2894、CVE-2018-3191、CVE-2018-3245、CVE-2018-3252、CVE-2019-2618、CVE-2019-2725、CVE-2019-2729、CVE-2019-2890、CVE-2020-2551 | https://github.com/0xn0ne/weblogicScanner | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
-| 20200728T11:33:42Z | CVE-2020-1349 | Null | https://github.com/0neb1n/CVE-2020-1349 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 17 MINUTES 25 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200728T10:46:59Z | CVE-2020-1350 | CVE-2020-1350 Proof-of-Concept | https://github.com/connormcgarr/CVE-2020-1350 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 18 MINUTES 14 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200728T09:45:44Z | CVE-2020-3187 | Null | https://github.com/pry0cc/CVE-2020-3187 | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 17 MINUTES 23 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200728T08:45:04Z | CVE-2020-5902 | Python script to exploit F5 Big-IP CVE-2020-5902  | https://github.com/dunderhay/CVE-2020-5902 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 18 MINUTES 12 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200728T08:33:25Z | CVE-2020-10663 | Workaround for CVE-2020-10663 (vulnerability in json gem) | https://github.com/rails-lts/json_cve_2020_10663 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 18 MINUTES 05 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200728T11:33:42Z | CVE-2020-1349 | Null | https://github.com/0neb1n/CVE-2020-1349 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 16 MINUTES 24 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200728T10:46:59Z | CVE-2020-1350 | CVE-2020-1350 Proof-of-Concept | https://github.com/connormcgarr/CVE-2020-1350 | | 
+| 20200728T09:45:44Z | CVE-2020-3187 | Null | https://github.com/pry0cc/CVE-2020-3187 | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 16 MINUTES 22 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200728T08:45:04Z | CVE-2020-5902 | Python script to exploit F5 Big-IP CVE-2020-5902  | https://github.com/dunderhay/CVE-2020-5902 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 17 MINUTES 13 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200728T08:33:25Z | CVE-2020-10663 | Workaround for CVE-2020-10663 (vulnerability in json gem) | https://github.com/rails-lts/json_cve_2020_10663 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 17 MINUTES 06 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20200728T07:18:55Z | 未知编号 | Cisco Adaptive Security Appliance and FTD Unauthorized Remote File Reading | https://github.com/MrCl0wnLab/checker-cve2020-3452 | 未查询到CVE信息| 
 | 20200728T03:42:57Z | CVE-2020-9934 | CVE-2020–9934 POC | https://github.com/mattshockl/CVE-2020-9934 | 未查询到CVE信息| 
 
@@ -59,6 +59,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20200728T12:42:38Z | Hello Zero helps you extract information about all hardware and software installed on your system and automatically crawl the darkweb everyday to find zero day exploits which target hardware/software you have on your system. In version 1.0 it only works on windows platform. | https://github.com/snippray/Hell0 | 0 | 0| 
 | 20200728T12:36:54Z | Oraxen is a minecraft plugin which allows to easily exploit Minecraft 1.14 new features in order to create new items with custom textures. It handles the resourcepack generation, upload (using Polymath) , is fully open source and has an extensible API. | https://github.com/oraxen/Oraxen | 65 | 10| 
 | 20200728T12:35:13Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 6757 | 1069| 
 | 20200728T12:31:35Z | windows and linux streams for post exploitation | https://github.com/kymb0/post_exploitation | 1 | 0| 
@@ -68,7 +69,6 @@
 | 20200728T12:17:35Z | Given a set of survey locations of an observer walking in the fleld or flying over a given areas, r.survey calculates best solid angle, 3D Distance, View Angle and Solid Angle for each pixel and for a given object size. It runs in GRASS GIS and exploits r.viewshed | https://github.com/IvanMarchesini/r.survey.py | 0 | 1| 
 | 20200728T12:12:52Z | Null | https://github.com/nikosChalk/exploitation-training | 0 | 0| 
 | 20200728T12:10:06Z | *Frequently Updated. Sifter is a osint, recon & vulnerability scanner. It combines a plethara of tools within different module sets in order to quickly perform recon tasks, check network firewalling, enumerate remote and local hosts, and scan for the %blue% vulnerabilities within microsft and if unpatched, exploit them.  It uses tools like blackwidow and konan for webdir enumeration and attack surface mapping rapidly using ASM.  | https://github.com/s1l3nt78/sifter | 207 | 68| 
-| 20200728T11:14:05Z | Null | https://github.com/GiantPluto/PS4Exploit | 0 | 0| 
 
 
 # backdoor on Github 推荐
@@ -84,12 +84,12 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20200728T12:42:57Z | Scalable fuzzing infrastructure. | https://github.com/google/clusterfuzz | 4279 | 383| 
 | 20200728T12:13:12Z | Null | https://github.com/WillRoque/fuzzing-action | 0 | 0| 
 | 20200728T11:59:04Z | Null | https://github.com/s9varesc/url-fuzzing | 0 | 0| 
 | 20200728T11:51:15Z | Null | https://github.com/roveldman/BadFuzz-VST | 0 | 0| 
 | 20200728T11:24:52Z | OSS-Fuzz - continuous fuzzing of open source software. | https://github.com/google/oss-fuzz | 5425 | 1060| 
 | 20200728T09:41:15Z | A fuzzy parser for C/C++ that creates semantic code property graphs | https://github.com/ShiftLeftSecurity/fuzzyc2cpg | 33 | 11| 
-| 20200728T08:36:08Z | Scalable fuzzing infrastructure. | https://github.com/google/clusterfuzz | 4278 | 383| 
 | 20200728T08:29:35Z | Null | https://github.com/refsam/Fuzzy-Clustering-C-means-Pemintan-Elektro | 0 | 0| 
 | 20200728T08:25:30Z | Null | https://github.com/nhsd-ddce/dos-service-fuzzy-search-api | 0 | 0| 
 | 20200728T08:22:29Z | fuzzyARTMAP R package | https://github.com/gbaquer/fuzzyARTMAP | 0 | 0| 
