@@ -46,16 +46,16 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20200728T11:33:42Z | CVE-2020-1349 | Null | https://github.com/0neb1n/CVE-2020-1349 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 47 MINUTES 31 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200728T11:33:42Z | CVE-2020-1349 | Null | https://github.com/0neb1n/CVE-2020-1349 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 46 MINUTES 29 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20200728T10:46:59Z | CVE-2020-1350 | CVE-2020-1350 Proof-of-Concept | https://github.com/connormcgarr/CVE-2020-1350 | | 
 | 20200728T09:51:30Z | CVE-2020-2551 | weblogic 漏洞扫描工具。目前包含 CVE-2014-4210、CVE-2016-0638、CVE-2016-3510、CVE-2017-3248、CVE-2017-3506、CVE-2017-10271、CVE-2018-2628、CVE-2018-2893、CVE-2018-2894、CVE-2018-3191、CVE-2018-3245、CVE-2018-3252、CVE-2019-2618、CVE-2019-2725、CVE-2019-2729、CVE-2019-2890、CVE-2020-2551 | https://github.com/0xn0ne/weblogicScanner | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
-| 20200728T09:45:44Z | CVE-2020-3187 | Null | https://github.com/pry0cc/CVE-2020-3187 | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 47 MINUTES 28 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200728T08:45:04Z | CVE-2020-5902 | Python script to exploit F5 Big-IP CVE-2020-5902  | https://github.com/dunderhay/CVE-2020-5902 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 48 MINUTES 17 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200728T08:33:25Z | CVE-2020-10663 | Workaround for CVE-2020-10663 (vulnerability in json gem) | https://github.com/rails-lts/json_cve_2020_10663 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 48 MINUTES 10 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200728T09:45:44Z | CVE-2020-3187 | Null | https://github.com/pry0cc/CVE-2020-3187 | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 46 MINUTES 27 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200728T08:45:04Z | CVE-2020-5902 | Python script to exploit F5 Big-IP CVE-2020-5902  | https://github.com/dunderhay/CVE-2020-5902 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 47 MINUTES 19 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200728T08:33:25Z | CVE-2020-10663 | Workaround for CVE-2020-10663 (vulnerability in json gem) | https://github.com/rails-lts/json_cve_2020_10663 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 47 MINUTES 12 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20200728T07:18:55Z | 未知编号 | Cisco Adaptive Security Appliance and FTD Unauthorized Remote File Reading | https://github.com/MrCl0wnLab/checker-cve2020-3452 | 未查询到CVE信息| 
-| 20200728T03:42:57Z | CVE-2020-9934 | CVE-2020–9934 POC | https://github.com/mattshockl/CVE-2020-9934 | | 
-| 20200727T16:36:39Z | CVE-2020-1350 | NSE scripts to detect CVE-2020-1350 SIGRED and CVE-2020-0796 SMBGHOST | https://github.com/pr4jwal/NSE-scripts | | 
-| 20200727T14:05:25Z | CVE-2020-11996 | tomcat-embed-core-9.0.31 CVE-2020-11996 Test PoC | https://github.com/rusakovichma/tomcat-embed-core-9.0.31-CVE-2020-11996 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 47 MINUTES 27 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200728T03:42:57Z | CVE-2020-9934 | CVE-2020–9934 POC | https://github.com/mattshockl/CVE-2020-9934 | 未查询到CVE信息| 
+| 20200727T16:36:39Z | CVE-2020-1350 | NSE scripts to detect CVE-2020-1350 SIGRED and CVE-2020-0796 SMBGHOST | https://github.com/pr4jwal/NSE-scripts | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 47 MINUTES 11 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200727T14:05:25Z | CVE-2020-11996 | tomcat-embed-core-9.0.31 CVE-2020-11996 Test PoC | https://github.com/rusakovichma/tomcat-embed-core-9.0.31-CVE-2020-11996 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 46 MINUTES 25 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 
 
 # klee on Github 推荐
@@ -91,6 +91,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20200728T12:12:52Z | Null | https://github.com/nikosChalk/exploitation-training | 0 | 0| 
 | 20200728T12:10:06Z | *Frequently Updated. Sifter is a osint, recon & vulnerability scanner. It combines a plethara of tools within different module sets in order to quickly perform recon tasks, check network firewalling, enumerate remote and local hosts, and scan for the %blue% vulnerabilities within microsft and if unpatched, exploit them.  It uses tools like blackwidow and konan for webdir enumeration and attack surface mapping rapidly using ASM.  | https://github.com/s1l3nt78/sifter | 207 | 68| 
 | 20200728T12:07:02Z | windows and linux streams for post exploitation | https://github.com/kymb0/post_exploitation | 1 | 0| 
 | 20200728T11:14:05Z | Null | https://github.com/GiantPluto/PS4Exploit | 0 | 0| 
@@ -100,7 +101,6 @@
 | 20200728T10:15:39Z |   Qui utilise quel service ? Quand ? À quel rythme ? L’intérêt des indicateurs mis en place par l’atelier est de mieux connaitre l’usage des différents services qui sont déployés dans les établissements et par le fait de mieux en organiser l’accès et de les faire évoluer. Aujourd’hui, l’objectif est d’harmoniser ces indicateurs pour pouvoir les exploiter à des échelles régionales et nationales. | https://github.com/EsupPortail/agimus-ng | 7 | 4| 
 | 20200728T09:19:19Z | PS4 Exploit list | https://github.com/Hakkuraifu/PS4xploit | 7 | 1| 
 | 20200728T08:45:04Z | Python script to exploit F5 Big-IP CVE-2020-5902  | https://github.com/dunderhay/CVE-2020-5902 | 29 | 7| 
-| 20200728T08:40:13Z | Attack and defend active directory using modern post exploitation adversary tradecraft activity | https://github.com/infosecn1nja/AD-Attack-Defense | 2337 | 599| 
 
 
 # backdoor on Github 推荐
@@ -121,6 +121,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20200728T12:13:12Z | Null | https://github.com/WillRoque/fuzzing-action | 0 | 0| 
 | 20200728T11:59:04Z | Null | https://github.com/s9varesc/url-fuzzing | 0 | 0| 
 | 20200728T11:51:15Z | Null | https://github.com/roveldman/BadFuzz-VST | 0 | 0| 
 | 20200728T11:24:52Z | OSS-Fuzz - continuous fuzzing of open source software. | https://github.com/google/oss-fuzz | 5425 | 1060| 
@@ -130,7 +131,6 @@
 | 20200728T08:25:30Z | Null | https://github.com/nhsd-ddce/dos-service-fuzzy-search-api | 0 | 0| 
 | 20200728T08:22:29Z | fuzzyARTMAP R package | https://github.com/gbaquer/fuzzyARTMAP | 0 | 0| 
 | 20200728T08:11:26Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 3068 | 700| 
-| 20200728T08:11:08Z | Null | https://github.com/ishika03/fuzzy-spoon | 0 | 0| 
 
 
 
