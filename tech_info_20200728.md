@@ -17,6 +17,8 @@
 | 20200728 | 臭名昭著的Android银行木马Cerberus的源码正在被其作者拍卖 | https://www.bleepingcomputer.com/news/security/cerberus-android-malware-source-code-offered-for-sale-for-100-000/| 
 | 20200728 | 基于Docker的渗透测试环境Pentesting | https://sec.today/pulses/cab2075a-54e3-47b1-ab16-e6374b587001/| 
 | 20200728 | 基于Docker的渗透测试环境Pentesting | https://www.hackingarticles.in/docker-for-pentester-pentesting-framework/| 
+| 20200728 | 基于Raspberry Pi的开源性廉价DIY IP-KVM系统。 | https://github.com/pikvm/pikvm| 
+| 20200728 | 深入对内核中的etw跟踪句柄研究。 | http://redplait.blogspot.com/2020/07/etw-tracing-handles-in-kernel.html| 
 
 
 # 安全维基 推荐
@@ -33,22 +35,25 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20200728T12:41:06Z | CVE-2020-2551 | weblogic 漏洞扫描工具。目前包含 CVE-2014-4210、CVE-2016-0638、CVE-2016-3510、CVE-2017-3248、CVE-2017-3506、CVE-2017-10271、CVE-2018-2628、CVE-2018-2893、CVE-2018-2894、CVE-2018-3191、CVE-2018-3245、CVE-2018-3252、CVE-2019-2618、CVE-2019-2725、CVE-2019-2729、CVE-2019-2890、CVE-2020-2551 | https://github.com/0xn0ne/weblogicScanner | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
-| 20200728T11:33:42Z | CVE-2020-1349 | Null | https://github.com/0neb1n/CVE-2020-1349 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 00 MINUTES 28 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200728T10:46:59Z | CVE-2020-1350 | CVE-2020-1350 Proof-of-Concept | https://github.com/connormcgarr/CVE-2020-1350 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 00 MINUTES 17 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200728T09:45:44Z | CVE-2020-3187 | Null | https://github.com/pry0cc/CVE-2020-3187 | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 00 MINUTES 26 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200728T08:45:04Z | CVE-2020-5902 | Python script to exploit F5 Big-IP CVE-2020-5902  | https://github.com/dunderhay/CVE-2020-5902 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 00 MINUTES 15 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200728T08:33:25Z | CVE-2020-10663 | Workaround for CVE-2020-10663 (vulnerability in json gem) | https://github.com/rails-lts/json_cve_2020_10663 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 00 MINUTES 08 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200728T07:18:55Z | 未知编号 | Cisco Adaptive Security Appliance and FTD Unauthorized Remote File Reading | https://github.com/MrCl0wnLab/checker-cve2020-3452 | 未查询到CVE信息| 
-| 20200728T03:42:57Z | CVE-2020-9934 | CVE-2020–9934 POC | https://github.com/mattshockl/CVE-2020-9934 | 未查询到CVE信息| 
+| 20200728T22:36:14Z | CVE-2020-5902 | A network detection package for CVE-2020-5902, a CVE10.0 vulnerability affecting F5 Networks, Inc BIG-IP devices. | https://github.com/corelight/CVE-2020-5902-F5BigIP | 在BIG-IP版本15.0.0-15.1.0.3、14.1.0-14.1.2.5、13.1.0-13.1.3.3、12.1.0-12.1.5.1和11.6.1-11.6.5.1中，流量管理用户接口（TMUI），也称为“配置”实用程序，在未公开的页面中具有远程执行代码（RCE）漏洞。| 
+| 20200728T20:13:56Z | CVE-2020-2551 | weblogic 漏洞扫描工具。目前包含 CVE-2014-4210、CVE-2016-0638、CVE-2016-3510、CVE-2017-3248、CVE-2017-3506、CVE-2017-10271、CVE-2018-2628、CVE-2018-2893、CVE-2018-2894、CVE-2018-3191、CVE-2018-3245、CVE-2018-3252、CVE-2019-2618、CVE-2019-2725、CVE-2019-2729、CVE-2019-2890、CVE-2020-2551 | https://github.com/0xn0ne/weblogicScanner | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
+| 20200728T18:46:18Z | CVE-2020-8558 | Crafting raw TCP/IP packets to send to poorly configured servers - CVE-2020-8558 PoC | https://github.com/rhysemmas/martian-packets | | 
+| 20200728T17:31:29Z | CVE-2020-11579 | Exploit code for CVE-2020-11579, an arbitrary file disclosure through the MySQL client in PHPKB | https://github.com/ShielderSec/CVE-2020-11579 | 未查询到CVE信息| 
+| 20200728T16:39:23Z | CVE-2020-9934 | CVE-2020–9934 POC | https://github.com/mattshockl/CVE-2020-9934 | 未查询到CVE信息| 
+| 20200728T13:36:42Z | CVE-2020-1349 | Null | https://github.com/0neb1n/CVE-2020-1349 | 当Microsoft Outlook软件无法正确处理内存中的对象（也称为“ Microsoft Outlook远程执行代码漏洞”）时，存在一个远程执行代码漏洞。| 
+| 20200728T13:05:13Z | CVE-2020-14645 | 环境下载 | https://github.com/ChenZIDu/CVE-2020-14645 | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
+| 20200728T10:46:59Z | CVE-2020-1350 | CVE-2020-1350 Proof-of-Concept | https://github.com/connormcgarr/CVE-2020-1350 | 当Windows域名系统服务器无法正确处理请求（也称为“ Windows DNS服务器远程代码执行漏洞”）时，存在一个远程执行代码漏洞。| 
+| 20200728T09:45:44Z | CVE-2020-3187 | Null | https://github.com/pry0cc/CVE-2020-3187 | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS 基础操作系统 （OS） 文件。重新加载受影响的设备将还原 Web 服务文件系统内的所有文件。| 
+| 20200728T08:45:04Z | CVE-2020-5902 | Python script to exploit F5 Big-IP CVE-2020-5902  | https://github.com/dunderhay/CVE-2020-5902 | 在BIG-IP版本15.0.0-15.1.0.3、14.1.0-14.1.2.5、13.1.0-13.1.3.3、12.1.0-12.1.5.1和11.6.1-11.6.5.1中，流量管理用户接口（TMUI），也称为“配置”实用程序，在未公开的页面中具有远程执行代码（RCE）漏洞。| 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20200728T21:17:36Z | Create CFGs and compute complexity metrics for Python, C++, and Java code. | https://github.com/hmc-alpaqa/metrinome | 3 | 0| 
+| 20200728T15:11:07Z | Relocatable Addressing Model for KLEE | https://github.com/davidtr1037/klee-ram | 0 | 0| 
 | 20200728T08:45:37Z | A tool that automatically calls Klee to solve for injection | https://github.com/Zzzode/KleeTool | 1 | 0| 
 | 20200728T07:01:10Z | ⬇️ File Upload/sharing application, used by thousands of webmasters since 2007.  | https://github.com/kleeja-official/kleeja | 102 | 32| 
-| 20200728T05:19:27Z | Create CFGs and compute complexity metrics for Python, C++, and Java code. | https://github.com/hmc-alpaqa/metrinome | 3 | 0| 
 
 
 # s2e on Github 推荐
@@ -59,24 +64,25 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20200728T12:53:55Z | V0.4.2 | https://github.com/AGroupOfBoredPeople/-BUK-City-of-London-Exploit-Script | 0 | 0| 
-| 20200728T12:53:31Z | Brief reports of VulnHub machines exploitation | https://github.com/MPkerberos/Exploited-Machines | 0 | 0| 
-| 20200728T12:52:08Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 6756 | 1069| 
-| 20200728T12:47:43Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 2 | 1| 
-| 20200728T12:43:50Z | Hello Zero helps you extract information about all hardware and software installed on your system and automatically crawl the darkweb everyday to find zero day exploits which target hardware/software you have on your system. In version 1.0 it only works on windows platform. | https://github.com/snippray/Hell0 | 0 | 0| 
-| 20200728T12:36:54Z | Oraxen is a minecraft plugin which allows to easily exploit Minecraft 1.14 new features in order to create new items with custom textures. It handles the resourcepack generation, upload (using Polymath) , is fully open source and has an extensible API. | https://github.com/oraxen/Oraxen | 65 | 10| 
-| 20200728T12:31:35Z | windows and linux streams for post exploitation | https://github.com/kymb0/post_exploitation | 1 | 0| 
-| 20200728T12:28:12Z | Panda Exploit ( Web Based ) | https://github.com/SkieAdmin/- | 0 | 0| 
-| 20200728T12:21:47Z | Geohazards Thematic Exploitation guide | https://github.com/Terradue/doc-tep-geohazards | 9 | 20| 
-| 20200728T12:21:46Z | this bash script let you download scripts and clone repos for remote exploits | https://github.com/FabioDefilippo/linuxallremote | 0 | 0| 
+| 20200728T23:29:53Z | DeimosC2 is a Golang command and control framework for post-exploitation. | https://github.com/DeimosC2/DeimosC2 | 168 | 18| 
+| 20200728T23:09:16Z | buffer overflow detection and exploitation tool for VERY low hanging fruit | https://github.com/kjcain/ruffer-overflow | 0 | 0| 
+| 20200728T22:45:44Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 6758 | 1069| 
+| 20200728T22:10:59Z | Repo for preparing for OSCE but to learn more about exploit development | https://github.com/tjnull/exploit-dev | 2 | 0| 
+| 20200728T21:48:38Z | Bachelor Thesis on Quantum Search with Time-Dependent Hamiltonian Quantum Walks. We look at particular graph topology (circular and complete) to explore the effects of having a quantum walks algorithm governed by time-dependent hamiltonian, exploiting some advantages of adiabatic quantum computing  | https://github.com/matteogarbellini/Quantum-Walk-Time-Dependent-Hamiltonian | 0 | 0| 
+| 20200728T21:47:28Z | A thorough library database to assist with binary exploitation tasks. | https://github.com/0xb0bb/karkinos | 160 | 14| 
+| 20200728T21:40:43Z | EternalBlue suite remade in C/C++ which includes: MS17-010 Exploit, EternalBlue vulnerability detector, DoublePulsar detector and DoublePulsar Shellcode & DLL uploader | https://github.com/bhassani/EternalBlueC | 18 | 2| 
+| 20200728T21:39:35Z | A phased, evasive Path Traversal scanning & exploitation tool in Python | https://github.com/VainlyStrain/Vailyn | 5 | 0| 
+| 20200728T21:19:12Z | V0.4.2 | https://github.com/AGroupOfBoredPeople/-BUK-City-of-London-Exploit-Script | 0 | 0| 
+| 20200728T20:16:37Z | PS4 Exploit list | https://github.com/Hakkuraifu/PS4xploit | 8 | 1| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20200728T22:18:43Z | Null | https://github.com/iK4oS/PremiumBackdoor.exe | 0 | 0| 
+| 20200728T15:42:22Z | Scripts for obtain info remotely of other computer | https://github.com/ZeuPlox/Backdoor-scripts | 0 | 0| 
+| 20200728T15:23:57Z | Hacking tools pack & backdoors generator. | https://github.com/AdrMXR/KitHack | 94 | 26| 
 | 20200728T12:39:01Z | Null | https://github.com/NonStopBle/backdoor | 0 | 0| 
-| 20200728T11:24:40Z | Null | https://github.com/iK4oS/PremiumBackdoor.exe | 0 | 0| 
-| 20200728T06:31:16Z | Hacking tools pack & backdoors generator. | https://github.com/AdrMXR/KitHack | 91 | 26| 
 | 20200728T04:23:51Z | a small backdoor management web system using flask and mysql | https://github.com/hucaigang/flask_with_db | 0 | 0| 
 | 20200728T00:43:31Z | A simple backdoor / reverse TCP shell creator | https://github.com/st4ined/backbreaker | 2 | 0| 
 
@@ -84,16 +90,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20200728T12:58:54Z | Null | https://github.com/WillRoque/fuzzing-action | 0 | 0| 
-| 20200728T12:44:10Z | Fuzzy search for matching records and score search results according to how closely they match | https://github.com/moj-analytical-services/fuzzyfinder | 0 | 0| 
-| 20200728T12:42:57Z | Scalable fuzzing infrastructure. | https://github.com/google/clusterfuzz | 4279 | 383| 
-| 20200728T11:59:04Z | Null | https://github.com/s9varesc/url-fuzzing | 0 | 0| 
-| 20200728T11:51:15Z | Null | https://github.com/roveldman/BadFuzz-VST | 0 | 0| 
-| 20200728T11:24:52Z | OSS-Fuzz - continuous fuzzing of open source software. | https://github.com/google/oss-fuzz | 5425 | 1060| 
-| 20200728T09:41:15Z | A fuzzy parser for C/C++ that creates semantic code property graphs | https://github.com/ShiftLeftSecurity/fuzzyc2cpg | 33 | 11| 
-| 20200728T08:29:35Z | Null | https://github.com/refsam/Fuzzy-Clustering-C-means-Pemintan-Elektro | 0 | 0| 
-| 20200728T08:25:30Z | Null | https://github.com/nhsd-ddce/dos-service-fuzzy-search-api | 0 | 0| 
-| 20200728T08:22:29Z | fuzzyARTMAP R package | https://github.com/gbaquer/fuzzyARTMAP | 0 | 0| 
+| 20200728T23:49:33Z | basic url fuzzer  | https://github.com/Kr4nkh3it/Bastian | 0 | 0| 
+| 20200728T23:19:45Z | FuzzBench - Fuzzer benchmarking as a service. | https://github.com/google/fuzzbench | 493 | 70| 
+| 20200728T23:06:56Z | OSS-Fuzz - continuous fuzzing of open source software. | https://github.com/google/oss-fuzz | 5426 | 1060| 
+| 20200728T22:50:54Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 26037 | 12585| 
+| 20200728T22:46:29Z | Tutorials, examples, discussions, research proposals, and other resources related to fuzzing | https://github.com/google/fuzzing | 1352 | 189| 
+| 20200728T22:33:30Z | Repo for GSOC %20 Project Code , Rump Kernel Sycall Fuzzing | https://github.com/adityavardhanpadala/rumpsyscallfuzz | 0 | 0| 
+| 20200728T22:16:00Z | :airplane: A fuzz testing tool for generating and performing system tests for Paparazzi auto pilot | https://github.com/MJafarMashhadi/pprz_tester | 0 | 0| 
+| 20200728T21:14:16Z | Fuzzco Nuxt template. | https://github.com/fuzzco/fuzznuxt | 2 | 0| 
+| 20200728T20:53:43Z | Pluralsight demo repository | https://github.com/rrochi/fuzzy-spoon | 0 | 0| 
+| 20200728T20:46:07Z | A differential fuzzer for x86 decoders | https://github.com/trailofbits/mishegos | 100 | 14| 
 
 
 
