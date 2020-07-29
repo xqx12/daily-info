@@ -39,7 +39,7 @@
 | 20200729T09:17:44Z | CVE-2020-9934 | CVE-2020–9934 POC | https://github.com/mattshockl/CVE-2020-9934 | 未查询到CVE信息| 
 | 20200729T09:13:53Z | CVE-2020-2551 | weblogic 漏洞扫描工具。目前包含 CVE-2014-4210、CVE-2016-0638、CVE-2016-3510、CVE-2017-3248、CVE-2017-3506、CVE-2017-10271、CVE-2018-2628、CVE-2018-2893、CVE-2018-2894、CVE-2018-3191、CVE-2018-3245、CVE-2018-3252、CVE-2019-2618、CVE-2019-2725、CVE-2019-2729、CVE-2019-2890、CVE-2020-2551 | https://github.com/0xn0ne/weblogicScanner | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
 | 20200729T04:25:51Z | CVE-2020-14645 | 环境下载 | https://github.com/ChenZIDu/CVE-2020-14645 | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
-| 20200729T01:28:56Z | CVE-2020-1349 | Null | https://github.com/0neb1n/CVE-2020-1349 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 20 MINUTES 26 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200729T01:28:56Z | CVE-2020-1349 | Null | https://github.com/0neb1n/CVE-2020-1349 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 19 MINUTES 25 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 
 
 # klee on Github 推荐
@@ -58,6 +58,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20200729T12:40:14Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 6759 | 1069| 
 | 20200729T12:30:15Z | Exploration-Exploitation using MAB | https://github.com/aegoe/MAB | 0 | 1| 
 | 20200729T12:16:36Z | A phased, evasive Path Traversal scanning & exploitation tool in Python | https://github.com/VainlyStrain/Vailyn | 5 | 0| 
 | 20200729T12:15:12Z | *Frequently Updated. Sifter is a osint, recon & vulnerability scanner. It combines a plethara of tools within different module sets in order to quickly perform recon tasks, check network firewalling, enumerate remote and local hosts, and scan for the %blue% vulnerabilities within microsft and if unpatched, exploit them.  It uses tools like blackwidow and konan for webdir enumeration and attack surface mapping rapidly using ASM.  | https://github.com/s1l3nt78/sifter | 206 | 68| 
@@ -67,7 +68,6 @@
 | 20200729T10:59:17Z | Null | https://github.com/Amadeus452/ShinobuExploit | 0 | 0| 
 | 20200729T10:48:45Z | Nanoscale L12-type ordered structures are commonly used in face-centred cubic (FCC) alloys to exploit their hardening capacity and thereby improve mechanical properties. These fine-scale particles are typically fully coherent with matrix with the same atomic configuration disregarding chemical species, which makes them challenging to be characterized. Spatial distribution maps (SDMs) are used to probe local order by interrogating the three-dimensional (3D) distribution of atoms within reconstructed atom probe tomography (APT) data. However, it is quite difficult and inefficient to manually analyse the complete point cloud in search for the partial crystallographic information retained within the data. Here, we proposed an intelligent L12-ordered structure recognition method based on convolutional neural networks (CNNs) for the first time. The SDMs of a simulated L12-ordered structure and of the FCC matrix were firstly generated. These simulated images combined with a small amount of experimental data were used to train a CNNs-based L12-ordered structure recognition model. Finally, the approach was successfully applied to reveal the 3D distribution of L12–type –Al3(LiMg) particles with an average radius of 3 nm in a FCC Al-Li-Mg system. The proposed method is promising to be extended to recognize other ordered structures in the future. | https://github.com/a356617605/Convolutional-neural-network-assisted-recognition-of-nanoscale-L12-ordered-structures-in-face-centre | 1 | 0| 
 | 20200729T10:36:45Z | Source code for the paper %Exploiting Performance Estimates for Augmenting Recommendation Ensembles% at RecSys%20 | https://github.com/Guzpenha/PerformanceEstimates | 0 | 0| 
-| 20200729T10:27:57Z |   Qui utilise quel service ? Quand ? À quel rythme ? L’intérêt des indicateurs mis en place par l’atelier est de mieux connaitre l’usage des différents services qui sont déployés dans les établissements et par le fait de mieux en organiser l’accès et de les faire évoluer. Aujourd’hui, l’objectif est d’harmoniser ces indicateurs pour pouvoir les exploiter à des échelles régionales et nationales. | https://github.com/EsupPortail/agimus-ng | 7 | 4| 
 
 
 # backdoor on Github 推荐
