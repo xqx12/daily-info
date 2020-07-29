@@ -42,8 +42,8 @@
 | 20200728T13:05:13Z | CVE-2020-14645 | 环境下载 | https://github.com/ChenZIDu/CVE-2020-14645 | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
 | 20200728T10:46:59Z | CVE-2020-1350 | CVE-2020-1350 Proof-of-Concept | https://github.com/connormcgarr/CVE-2020-1350 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 02 MINUTES 18 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20200728T09:45:44Z | CVE-2020-3187 | Null | https://github.com/pry0cc/CVE-2020-3187 | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 02 MINUTES 24 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200728T08:45:04Z | CVE-2020-5902 | Python script to exploit F5 Big-IP CVE-2020-5902  | https://github.com/dunderhay/CVE-2020-5902 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 03 MINUTES 13 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200728T08:33:25Z | CVE-2020-10663 | Workaround for CVE-2020-10663 (vulnerability in json gem) | https://github.com/rails-lts/json_cve_2020_10663 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 03 MINUTES 06 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200728T08:45:04Z | CVE-2020-5902 | Python script to exploit F5 Big-IP CVE-2020-5902  | https://github.com/dunderhay/CVE-2020-5902 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 02 MINUTES 15 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200728T08:33:25Z | CVE-2020-10663 | Workaround for CVE-2020-10663 (vulnerability in json gem) | https://github.com/rails-lts/json_cve_2020_10663 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 02 MINUTES 09 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20200728T07:18:55Z | 未知编号 | Cisco Adaptive Security Appliance and FTD Unauthorized Remote File Reading | https://github.com/MrCl0wnLab/checker-cve2020-3452 | 未查询到CVE信息| 
 
 
@@ -88,7 +88,6 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20200728T23:19:45Z | FuzzBench - Fuzzer benchmarking as a service. | https://github.com/google/fuzzbench | 493 | 70| 
 | 20200728T23:06:56Z | OSS-Fuzz - continuous fuzzing of open source software. | https://github.com/google/oss-fuzz | 5426 | 1060| 
 | 20200728T22:46:29Z | Tutorials, examples, discussions, research proposals, and other resources related to fuzzing | https://github.com/google/fuzzing | 1352 | 189| 
 | 20200728T22:33:30Z | Repo for GSOC %20 Project Code , Rump Kernel Sycall Fuzzing | https://github.com/adityavardhanpadala/rumpsyscallfuzz | 0 | 0| 
@@ -98,6 +97,7 @@
 | 20200728T20:24:34Z | Null | https://github.com/randomicons/fuzzydoro | 0 | 1| 
 | 20200728T20:20:21Z | А procedural macro to be used for testing/fuzzing stateful models against a semantically equivalent but obviously correct implementation | https://github.com/jakubadamw/rutenspitz | 25 | 3| 
 | 20200728T19:38:25Z | Null | https://github.com/crismunoz/Fuzzy-Logic | 0 | 0| 
+| 20200728T19:01:43Z | Scalable fuzzing infrastructure. | https://github.com/google/clusterfuzz | 4279 | 384| 
 
 
 
