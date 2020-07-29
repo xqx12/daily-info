@@ -21,6 +21,10 @@
 | 20200729 | MMS Exploit Part 3: Constructing the Memory Corruption Primitives | https://sec.today/pulses/7d90d44a-6269-49eb-a9d9-5903fd016db5/| 
 | 20200729 | Pwn2Own Tokyo 2020 比赛将于 11 月在线上举办 | https://sec.today/pulses/f1b37803-3752-4723-86ea-2584331f21eb/| 
 | 20200729 | Google Ticket 系统认证绕过漏洞分析 | https://www.ehpus.com/post/authorization-bypass-in-google-s-ticketing-system| 
+| 20200729 | Ligolo - 为渗透测试专门设计的一款反向 Socks5/TCP 隧道传输工具 | https://github.com/sysdream/ligolo| 
+| 20200729 | FireEye 发布的 Ghostwriter 行动分析报告 | https://www.fireeye.com/blog/threat-research/2020/07/ghostwriter-influence-campaign.html| 
+| 20200729 | MMS Exploit Part 3: Constructing the Memory Corruption Primitives | https://googleprojectzero.blogspot.com/2020/07/mms-exploit-part-3-constructing-primitives.html| 
+| 20200729 | Pwn2Own Tokyo 2020 比赛将于 11 月在线上举办 | https://www.thezdi.com/blog/2020/7/28/announcing-pwn2own-tokyo-2020-live-from-toronto| 
 
 
 # 安全维基 推荐
@@ -35,7 +39,7 @@
 | 20200729T09:17:44Z | CVE-2020-9934 | CVE-2020–9934 POC | https://github.com/mattshockl/CVE-2020-9934 | 未查询到CVE信息| 
 | 20200729T09:13:53Z | CVE-2020-2551 | weblogic 漏洞扫描工具。目前包含 CVE-2014-4210、CVE-2016-0638、CVE-2016-3510、CVE-2017-3248、CVE-2017-3506、CVE-2017-10271、CVE-2018-2628、CVE-2018-2893、CVE-2018-2894、CVE-2018-3191、CVE-2018-3245、CVE-2018-3252、CVE-2019-2618、CVE-2019-2725、CVE-2019-2729、CVE-2019-2890、CVE-2020-2551 | https://github.com/0xn0ne/weblogicScanner | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
 | 20200729T04:25:51Z | CVE-2020-14645 | 环境下载 | https://github.com/ChenZIDu/CVE-2020-14645 | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
-| 20200729T01:28:56Z | CVE-2020-1349 | Null | https://github.com/0neb1n/CVE-2020-1349 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 58 MINUTES 42 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200729T01:28:56Z | CVE-2020-1349 | Null | https://github.com/0neb1n/CVE-2020-1349 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 56 MINUTES 27 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 
 
 # klee on Github 推荐
