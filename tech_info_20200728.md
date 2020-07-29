@@ -35,15 +35,15 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20200728T22:36:14Z | CVE-2020-5902 | A network detection package for CVE-2020-5902, a CVE10.0 vulnerability affecting F5 Networks, Inc BIG-IP devices. | https://github.com/corelight/CVE-2020-5902-F5BigIP | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 28 MINUTES 23 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200728T22:36:14Z | CVE-2020-5902 | A network detection package for CVE-2020-5902, a CVE10.0 vulnerability affecting F5 Networks, Inc BIG-IP devices. | https://github.com/corelight/CVE-2020-5902-F5BigIP | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 27 MINUTES 24 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20200728T18:46:18Z | CVE-2020-8558 | Crafting raw TCP/IP packets to send to poorly configured servers - CVE-2020-8558 PoC | https://github.com/rhysemmas/martian-packets | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
 | 20200728T17:31:29Z | CVE-2020-11579 | Exploit code for CVE-2020-11579, an arbitrary file disclosure through the MySQL client in PHPKB | https://github.com/ShielderSec/CVE-2020-11579 | 未查询到CVE信息| 
 | 20200728T16:39:23Z | CVE-2020-9934 | CVE-2020–9934 POC | https://github.com/mattshockl/CVE-2020-9934 | 未查询到CVE信息| 
 | 20200728T13:05:13Z | CVE-2020-14645 | 环境下载 | https://github.com/ChenZIDu/CVE-2020-14645 | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
-| 20200728T10:46:59Z | CVE-2020-1350 | CVE-2020-1350 Proof-of-Concept | https://github.com/connormcgarr/CVE-2020-1350 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 29 MINUTES 16 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200728T09:45:44Z | CVE-2020-3187 | Null | https://github.com/pry0cc/CVE-2020-3187 | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 28 MINUTES 24 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200728T08:45:04Z | CVE-2020-5902 | Python script to exploit F5 Big-IP CVE-2020-5902  | https://github.com/dunderhay/CVE-2020-5902 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 29 MINUTES 13 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200728T08:33:25Z | CVE-2020-10663 | Workaround for CVE-2020-10663 (vulnerability in json gem) | https://github.com/rails-lts/json_cve_2020_10663 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 29 MINUTES 06 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200728T10:46:59Z | CVE-2020-1350 | CVE-2020-1350 Proof-of-Concept | https://github.com/connormcgarr/CVE-2020-1350 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 28 MINUTES 17 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200728T09:45:44Z | CVE-2020-3187 | Null | https://github.com/pry0cc/CVE-2020-3187 | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 27 MINUTES 25 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200728T08:45:04Z | CVE-2020-5902 | Python script to exploit F5 Big-IP CVE-2020-5902  | https://github.com/dunderhay/CVE-2020-5902 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 28 MINUTES 15 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200728T08:33:25Z | CVE-2020-10663 | Workaround for CVE-2020-10663 (vulnerability in json gem) | https://github.com/rails-lts/json_cve_2020_10663 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 28 MINUTES 08 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20200728T07:18:55Z | 未知编号 | Cisco Adaptive Security Appliance and FTD Unauthorized Remote File Reading | https://github.com/MrCl0wnLab/checker-cve2020-3452 | 未查询到CVE信息| 
 
 
@@ -68,11 +68,11 @@
 | 20200728T22:10:59Z | Repo for preparing for OSCE but to learn more about exploit development | https://github.com/tjnull/exploit-dev | 2 | 0| 
 | 20200728T21:48:38Z | Bachelor Thesis on Quantum Search with Time-Dependent Hamiltonian Quantum Walks. We look at particular graph topology (circular and complete) to explore the effects of having a quantum walks algorithm governed by time-dependent hamiltonian, exploiting some advantages of adiabatic quantum computing  | https://github.com/matteogarbellini/Quantum-Walk-Time-Dependent-Hamiltonian | 0 | 0| 
 | 20200728T21:47:28Z | A thorough library database to assist with binary exploitation tasks. | https://github.com/0xb0bb/karkinos | 160 | 14| 
-| 20200728T21:40:43Z | EternalBlue suite remade in C/C++ which includes: MS17-010 Exploit, EternalBlue vulnerability detector, DoublePulsar detector and DoublePulsar Shellcode & DLL uploader | https://github.com/bhassani/EternalBlueC | 18 | 2| 
 | 20200728T21:39:35Z | A phased, evasive Path Traversal scanning & exploitation tool in Python | https://github.com/VainlyStrain/Vailyn | 5 | 0| 
 | 20200728T21:19:12Z | V0.4.2 | https://github.com/AGroupOfBoredPeople/-BUK-City-of-London-Exploit-Script | 0 | 0| 
 | 20200728T20:16:37Z | PS4 Exploit list | https://github.com/Hakkuraifu/PS4xploit | 8 | 1| 
 | 20200728T20:14:15Z | Exploits project Hacking Command Center | https://github.com/chacka0101/exploits | 0 | 1| 
+| 20200728T19:21:35Z | A ROBLOX exploit powered by CocoCC | https://github.com/MrDucxy/dove-III | 0 | 0| 
 
 
 # backdoor on Github 推荐

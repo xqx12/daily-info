@@ -46,16 +46,16 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20200729T01:28:56Z | CVE-2020-1349 | Null | https://github.com/0neb1n/CVE-2020-1349 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 28 MINUTES 26 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200729T01:28:56Z | CVE-2020-1349 | Null | https://github.com/0neb1n/CVE-2020-1349 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 27 MINUTES 27 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20200729T01:11:44Z | CVE-2020-2551 | weblogic 漏洞扫描工具。目前包含 CVE-2014-4210、CVE-2016-0638、CVE-2016-3510、CVE-2017-3248、CVE-2017-3506、CVE-2017-10271、CVE-2018-2628、CVE-2018-2893、CVE-2018-2894、CVE-2018-3191、CVE-2018-3245、CVE-2018-3252、CVE-2019-2618、CVE-2019-2725、CVE-2019-2729、CVE-2019-2890、CVE-2020-2551 | https://github.com/0xn0ne/weblogicScanner | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
-| 20200728T22:36:14Z | CVE-2020-5902 | A network detection package for CVE-2020-5902, a CVE10.0 vulnerability affecting F5 Networks, Inc BIG-IP devices. | https://github.com/corelight/CVE-2020-5902-F5BigIP | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 28 MINUTES 23 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200728T22:36:14Z | CVE-2020-5902 | A network detection package for CVE-2020-5902, a CVE10.0 vulnerability affecting F5 Networks, Inc BIG-IP devices. | https://github.com/corelight/CVE-2020-5902-F5BigIP | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 27 MINUTES 24 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20200728T18:46:18Z | CVE-2020-8558 | Crafting raw TCP/IP packets to send to poorly configured servers - CVE-2020-8558 PoC | https://github.com/rhysemmas/martian-packets | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
 | 20200728T17:31:29Z | CVE-2020-11579 | Exploit code for CVE-2020-11579, an arbitrary file disclosure through the MySQL client in PHPKB | https://github.com/ShielderSec/CVE-2020-11579 | 未查询到CVE信息| 
 | 20200728T16:39:23Z | CVE-2020-9934 | CVE-2020–9934 POC | https://github.com/mattshockl/CVE-2020-9934 | 未查询到CVE信息| 
 | 20200728T13:05:13Z | CVE-2020-14645 | 环境下载 | https://github.com/ChenZIDu/CVE-2020-14645 | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
-| 20200728T10:46:59Z | CVE-2020-1350 | CVE-2020-1350 Proof-of-Concept | https://github.com/connormcgarr/CVE-2020-1350 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 29 MINUTES 16 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200728T09:45:44Z | CVE-2020-3187 | Null | https://github.com/pry0cc/CVE-2020-3187 | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 28 MINUTES 24 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200728T08:45:04Z | CVE-2020-5902 | Python script to exploit F5 Big-IP CVE-2020-5902  | https://github.com/dunderhay/CVE-2020-5902 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 29 MINUTES 13 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200728T10:46:59Z | CVE-2020-1350 | CVE-2020-1350 Proof-of-Concept | https://github.com/connormcgarr/CVE-2020-1350 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 28 MINUTES 17 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200728T09:45:44Z | CVE-2020-3187 | Null | https://github.com/pry0cc/CVE-2020-3187 | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 27 MINUTES 25 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200728T08:45:04Z | CVE-2020-5902 | Python script to exploit F5 Big-IP CVE-2020-5902  | https://github.com/dunderhay/CVE-2020-5902 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 28 MINUTES 15 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 
 
 # klee on Github 推荐
@@ -91,6 +91,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20200729T01:32:14Z | EternalBlue suite remade in C/C++ which includes: MS17-010 Exploit, EternalBlue vulnerability detector, DoublePulsar detector and DoublePulsar Shellcode & DLL uploader | https://github.com/bhassani/EternalBlueC | 18 | 2| 
 | 20200729T01:27:12Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 6758 | 1069| 
 | 20200729T01:20:43Z | Kernel Exploits | https://github.com/connormcgarr/Kernel-Exploits | 40 | 9| 
 | 20200729T01:17:33Z | This is predicted source code of a simple program by James Duffy that is purportedly a close representation of what exploiting a bug in SEPROM, found by the Pangu Team, could allow for — a way to get a bugged number of PIN attempts that may allow for a PIN brute-force attack. | https://github.com/Umarovm/DuffyAPP-IT-cracker-Representation-Predicted-Source | 0 | 0| 
@@ -100,7 +101,6 @@
 | 20200728T23:29:53Z | DeimosC2 is a Golang command and control framework for post-exploitation. | https://github.com/DeimosC2/DeimosC2 | 168 | 18| 
 | 20200728T23:09:16Z | buffer overflow detection and exploitation tool for VERY low hanging fruit | https://github.com/kjcain/ruffer-overflow | 0 | 0| 
 | 20200728T22:10:59Z | Repo for preparing for OSCE but to learn more about exploit development | https://github.com/tjnull/exploit-dev | 2 | 0| 
-| 20200728T21:48:38Z | Bachelor Thesis on Quantum Search with Time-Dependent Hamiltonian Quantum Walks. We look at particular graph topology (circular and complete) to explore the effects of having a quantum walks algorithm governed by time-dependent hamiltonian, exploiting some advantages of adiabatic quantum computing  | https://github.com/matteogarbellini/Quantum-Walk-Time-Dependent-Hamiltonian | 0 | 0| 
 
 
 # backdoor on Github 推荐
