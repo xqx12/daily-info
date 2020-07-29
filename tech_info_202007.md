@@ -20,12 +20,12 @@
 | 20200729 | FireEye 发布的 Ghostwriter 行动分析报告 | https://sec.today/pulses/48cf4be5-2937-4ca0-acac-0a0df627d1f9/| 
 | 20200729 | MMS Exploit Part 3: Constructing the Memory Corruption Primitives | https://sec.today/pulses/7d90d44a-6269-49eb-a9d9-5903fd016db5/| 
 | 20200729 | Pwn2Own Tokyo 2020 比赛将于 11 月在线上举办 | https://sec.today/pulses/f1b37803-3752-4723-86ea-2584331f21eb/| 
+| 20200729 | Google Ticket 系统认证绕过漏洞分析 | https://www.ehpus.com/post/authorization-bypass-in-google-s-ticketing-system| 
 | 20200728 | FireEye FLARE VM 开源的面向恶意软件分析和应急响应的 Windows 虚拟机 | https://github.com/fireeye/flare-vm| 
 | 20200728 | Frida 开源的基于 Dynamic Recompilation 的代码 Tracer | https://github.com/frida/cryptoshark| 
 | 20200728 | 为 Go 运行时环境增加对 Coverage Guided Fuzzing 的支持 | https://alexplaskett.github.io/coverage-guided-fuzzing-golang/| 
 | 20200728 | 利用 .terminal 终端配置文件 Bypass macOS GateKeeper 的检查 | https://medium.com/@metnew/exploiting-popular-macos-apps-with-a-single-terminal-file-f6c2efdfedaa| 
 | 20200728 | Mozilla 开源的 NSS SSL 库修复多个漏洞 | https://developer.mozilla.org/en-US/docs/Mozilla/Projects/NSS/NSS_3.55_release_notes| 
-| 20200728 | Revised Homograph Attacks - 浏览器与邮件客户端的 IDN 同形字攻击 | https://alephsecurity.com/2020/07/23/revised-homograph-attacks2/| 
 
 
 # 安全维基 推荐

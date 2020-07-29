@@ -20,6 +20,7 @@
 | 20200729 | FireEye 发布的 Ghostwriter 行动分析报告 | https://sec.today/pulses/48cf4be5-2937-4ca0-acac-0a0df627d1f9/| 
 | 20200729 | MMS Exploit Part 3: Constructing the Memory Corruption Primitives | https://sec.today/pulses/7d90d44a-6269-49eb-a9d9-5903fd016db5/| 
 | 20200729 | Pwn2Own Tokyo 2020 比赛将于 11 月在线上举办 | https://sec.today/pulses/f1b37803-3752-4723-86ea-2584331f21eb/| 
+| 20200729 | Google Ticket 系统认证绕过漏洞分析 | https://www.ehpus.com/post/authorization-bypass-in-google-s-ticketing-system| 
 
 
 # 安全维基 推荐
