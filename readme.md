@@ -35,19 +35,24 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20200729T22:34:10Z | CVE-2020-10713 | BootHole vulnerability (CVE-2020-10713). detection script, links and other mitigation related materials | https://github.com/eclypsium/BootHole | 未查询到CVE信息| 
+| 20200729T20:54:16Z | CVE-2020-9495 | Null | https://github.com/ggolawski/CVE-2020-9495 | | 
+| 20200729T18:14:58Z | CVE-2020-9934 | CVE-2020–9934 POC | https://github.com/mattshockl/CVE-2020-9934 | 未查询到CVE信息| 
+| 20200729T16:36:28Z | CVE-2020-1313 | Proof of concept exploit of Windows Update Orchestrator Service Elevation of Privilege Vulnerability | https://github.com/irsl/CVE-2020-1313 | 当Windows Update Orchestrator服务不正确地处理文件操作（也称为“ Windows Update Orchestrator服务特权提升漏洞”）时，存在特权提升漏洞。| 
+| 20200729T15:59:54Z | CVE-2020-3452 | CVE-2020-3452 : Cisco ASA and FTD Unauthorized Remote File Reading Nmap NSE Script | https://github.com/Gh0st0ne/http-vuln-cve2020-3452.nse | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
 | 20200729T12:58:09Z | CVE-2020-2551 | weblogic 漏洞扫描工具。目前包含 CVE-2014-4210、CVE-2016-0638、CVE-2016-3510、CVE-2017-3248、CVE-2017-3506、CVE-2017-10271、CVE-2018-2628、CVE-2018-2893、CVE-2018-2894、CVE-2018-3191、CVE-2018-3245、CVE-2018-3252、CVE-2019-2618、CVE-2019-2725、CVE-2019-2729、CVE-2019-2890、CVE-2020-2551 | https://github.com/0xn0ne/weblogicScanner | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
 | 20200729T12:55:44Z | CVE-2020-8558 | Crafting raw TCP/IP packets to send to poorly configured servers - CVE-2020-8558 PoC | https://github.com/rhysemmas/martian-packets | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
-| 20200729T12:51:31Z | CVE-2020-5902 | A network detection package for CVE-2020-5902, a CVE10.0 vulnerability affecting F5 Networks, Inc BIG-IP devices. | https://github.com/corelight/CVE-2020-5902-F5BigIP | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 00 MINUTES 23 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200729T09:17:44Z | CVE-2020-9934 | CVE-2020–9934 POC | https://github.com/mattshockl/CVE-2020-9934 | 未查询到CVE信息| 
+| 20200729T12:51:31Z | CVE-2020-5902 | A network detection package for CVE-2020-5902, a CVE10.0 vulnerability affecting F5 Networks, Inc BIG-IP devices. | https://github.com/corelight/CVE-2020-5902-F5BigIP | 在BIG-IP版本15.0.0-15.1.0.3、14.1.0-14.1.2.5、13.1.0-13.1.3.3、12.1.0-12.1.5.1和11.6.1-11.6.5.1中，流量管理用户接口（TMUI），也称为“配置”实用程序，在未公开的页面中具有远程执行代码（RCE）漏洞。| 
 | 20200729T04:25:51Z | CVE-2020-14645 | 环境下载 | https://github.com/ChenZIDu/CVE-2020-14645 | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
-| 20200729T01:28:56Z | CVE-2020-1349 | Null | https://github.com/0neb1n/CVE-2020-1349 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 00 MINUTES 27 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200729T01:28:56Z | CVE-2020-1349 | Null | https://github.com/0neb1n/CVE-2020-1349 | 当Microsoft Outlook软件无法正确处理内存中的对象（也称为“ Microsoft Outlook远程执行代码漏洞”）时，存在一个远程执行代码漏洞。| 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20200729T21:40:43Z | A tool that automatically calls Klee to solve for injection | https://github.com/Zzzode/KleeTool | 1 | 0| 
+| 20200729T18:27:20Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1448 | 443| 
 | 20200729T09:03:38Z | Null | https://github.com/thierry-tct/KLEE-SEMu | 1 | 0| 
-| 20200729T08:41:50Z | A tool that automatically calls Klee to solve for injection | https://github.com/Zzzode/KleeTool | 1 | 0| 
 | 20200729T04:24:25Z | Solving a sudoku puzzle using Klee to automatically find the solved puzzle | https://github.com/celinatala-1/Sudoku-Constraint | 0 | 0| 
 
 
@@ -59,41 +64,44 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20200729T12:52:37Z | As it says, bypasses the removal of @everyone with some simple lines of code | https://github.com/Luasyntax/GhostpingExploit | 0 | 0| 
-| 20200729T12:47:42Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 2 | 1| 
-| 20200729T12:40:14Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 6759 | 1069| 
-| 20200729T12:30:15Z | Exploration-Exploitation using MAB | https://github.com/aegoe/MAB | 0 | 1| 
-| 20200729T12:16:36Z | A phased, evasive Path Traversal scanning & exploitation tool in Python | https://github.com/VainlyStrain/Vailyn | 5 | 0| 
-| 20200729T12:15:12Z | *Frequently Updated. Sifter is a osint, recon & vulnerability scanner. It combines a plethara of tools within different module sets in order to quickly perform recon tasks, check network firewalling, enumerate remote and local hosts, and scan for the %blue% vulnerabilities within microsft and if unpatched, exploit them.  It uses tools like blackwidow and konan for webdir enumeration and attack surface mapping rapidly using ASM.  | https://github.com/s1l3nt78/sifter | 206 | 68| 
-| 20200729T11:47:14Z | PS4 Exploit list | https://github.com/Hakkuraifu/PS4xploit | 8 | 1| 
-| 20200729T11:20:22Z | The House of Carbs is a system that automatically estimates and dispenses the amount of juice (or similar) according to the current patients% blood glucose values. The system is remotely accessible and customizable from a chatbot, exploits sensors and actuators to dispense the necessary amount of liquid carbohydrates. It relies on a cloud solution (Nightscout) to acquire the patient%s blood glucose values, which are constantly updated thanks to a commercial wearable continuous glucose monitor (CGM). | https://github.com/pra008/house-of-carbs | 0 | 0| 
-| 20200729T11:15:47Z | Custom version of the original Overthrow.  Bugs squashed and squashing, exploits punishable by death, new businesses plus much more, oh and high steriod use by the AI ;) Discord link  https://discord.gg/ZdMMq9x | https://github.com/GerhartPapaGee/Overthrow-Martial-Law | 0 | 0| 
-| 20200729T10:59:17Z | Null | https://github.com/Amadeus452/ShinobuExploit | 0 | 0| 
+| 20200729T23:34:40Z | a script to display vulnerabilities on Edgenuity | https://github.com/Hynec/EdegenuityExploit | 0 | 0| 
+| 20200729T22:11:48Z | EternalBlue suite remade in C/C++ which includes: MS17-010 Exploit, EternalBlue vulnerability detector, DoublePulsar detector and DoublePulsar Shellcode & DLL uploader | https://github.com/bhassani/EternalBlueC | 18 | 2| 
+| 20200729T22:10:52Z | A phased, evasive Path Traversal scanning & exploitation tool in Python | https://github.com/VainlyStrain/Vailyn | 5 | 0| 
+| 20200729T22:01:48Z | It is a bunch of tools for your Roblox Game. They are NOT exploits. | https://github.com/aboutDavid/robloxcommunity | 0 | 0| 
+| 20200729T21:59:16Z | this bash script let you download scripts and clone repos for remote exploits | https://github.com/FabioDefilippo/linuxallremote | 0 | 0| 
+| 20200729T21:41:07Z | A bootROM jailbreak for A4 devices utilizing the SHAtter exploit. This is meant for research, but can be maintained. | https://github.com/Tar00a/SHAdow | 0 | 0| 
+| 20200729T21:35:15Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 6759 | 1070| 
+| 20200729T20:34:31Z | Python terminal utility exploiting Unicode and ANSI for pixel-ish graphics | https://github.com/larshb/PixTerm | 0 | 0| 
+| 20200729T20:17:17Z | DeimosC2 is a Golang command and control framework for post-exploitation. | https://github.com/DeimosC2/DeimosC2 | 181 | 21| 
+| 20200729T19:46:09Z | This repo contains the implementation of paper Exploiting Neuron and Synapse Filter Dynamics in Spatial Temporal Learning of Deep Spiking Neural Network. It trains spiking neural network to learn spatial temporal patterns. | https://github.com/Snow-Crash/snn-iir | 6 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20200729T12:21:26Z | Null | https://github.com/iK4oS/PremiumBackdoor.exe | 0 | 0| 
+| 20200729T22:35:25Z | Null | https://github.com/iK4oS/backdoor.exe | 1 | 0| 
+| 20200729T22:32:20Z | Null | https://github.com/iK4oS/PremiumBackdoor.exe | 0 | 0| 
+| 20200729T22:01:02Z | Hacking tools pack & backdoors generator. | https://github.com/AdrMXR/KitHack | 97 | 26| 
+| 20200729T18:47:06Z | Null | https://github.com/dheeraj7596/NlpBackdoor | 0 | 0| 
+| 20200729T18:40:18Z | PRISMO is an user space stealth reverse shell backdoor. | https://github.com/andreafabrizio/prismo | 0 | 0| 
+| 20200729T17:06:41Z | Private Reflected Backdoor | https://github.com/Cvar1984/R2 | 7 | 3| 
 | 20200729T11:04:43Z | Null | https://github.com/Xinghui-Wu/ASR_Backdoor | 2 | 0| 
-| 20200729T07:30:51Z | Null | https://github.com/dheeraj7596/NlpBackdoor | 0 | 0| 
-| 20200729T06:28:29Z | Hacking tools pack & backdoors generator. | https://github.com/AdrMXR/KitHack | 96 | 26| 
 | 20200729T03:11:40Z | Null | https://github.com/J-Singh99/BackDoor | 1 | 0| 
 
 
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20200729T12:57:54Z | A JavaScript Engine Fuzzer | https://github.com/googleprojectzero/fuzzilli | 983 | 159| 
-| 20200729T12:54:48Z | Null | https://github.com/charlicruz/fuzzy_patterns | 0 | 0| 
-| 20200729T12:54:16Z | Null | https://github.com/r-2007/Fuzzing-DTLS | 0 | 0| 
-| 20200729T12:51:38Z | A fuzzing introspection tool | https://github.com/gamozolabs/cookie_dough | 13 | 1| 
-| 20200729T12:27:00Z | Null | https://github.com/s9varesc/url-fuzzing | 0 | 0| 
-| 20200729T12:26:07Z | Null | https://github.com/WillRoque/fuzzing-action | 0 | 0| 
-| 20200729T12:12:51Z | A Linux Kernel Module that implements a fast snapshot mechanism for fuzzing. | https://github.com/AFLplusplus/AFL-Snapshot-LKM | 61 | 9| 
-| 20200729T11:44:54Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 3070 | 700| 
-| 20200729T11:14:51Z | Fuzzy search for matching records and score search results according to how closely they match | https://github.com/moj-analytical-services/fuzzyfinder | 0 | 0| 
-| 20200729T11:13:05Z | Null | https://github.com/crismunoz/Fuzzy-Logic | 0 | 0| 
+| 20200729T23:59:36Z | VMI Kernel Fuzzer for Xen Project - VM forking, VMI & AFL integration demo | https://github.com/intel/kernel-fuzzer-for-xen-project | 145 | 23| 
+| 20200729T23:00:06Z | FuzzBench - Fuzzer benchmarking as a service. | https://github.com/google/fuzzbench | 493 | 70| 
+| 20200729T22:46:38Z | Null | https://github.com/simoncheng987/fuzzy-guide | 0 | 0| 
+| 20200729T22:32:27Z | Null | https://github.com/haylee430/fuzzy_friend_finder | 1 | 0| 
+| 20200729T22:31:05Z | OSS-Fuzz - continuous fuzzing of open source software. | https://github.com/google/oss-fuzz | 5431 | 1062| 
+| 20200729T22:01:01Z | Tool for fuzzing with style 👌 | https://github.com/essentialkaos/fz | 1 | 0| 
+| 20200729T21:58:00Z | Repo for fuzzing basic repository with travis CI | https://github.com/Pascal-0x90/Travis-Fuzz-Basic | 0 | 0| 
+| 20200729T21:56:53Z | Plugin for Logrocket to mask request/response bodies by designated field names | https://github.com/LogRocket/logrocket-fuzzy-search-sanitizer | 12 | 4| 
+| 20200729T21:44:36Z | Quantitative Approach to the Core-Satellite Paradigm | https://github.com/Ligophorus/FuzzyQ | 0 | 0| 
+| 20200729T21:42:13Z | Null | https://github.com/fuzzbin/fuzzbin | 0 | 0| 
 
 
 
