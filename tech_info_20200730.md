@@ -42,7 +42,7 @@
 | 20200730T12:47:43Z | CVE-2020-1313 | Proof of concept exploit of Windows Update Orchestrator Service Elevation of Privilege Vulnerability | https://github.com/irsl/CVE-2020-1313 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 10 MINUTES 31 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20200730T12:28:10Z | CVE-2020-10713 | BootHole vulnerability (CVE-2020-10713). detection script, links and other mitigation related materials | https://github.com/eclypsium/BootHole | 未查询到CVE信息| 
 | 20200730T11:14:12Z | CVE-2020-2551 | weblogic 漏洞扫描工具。目前包含 CVE-2014-4210、CVE-2016-0638、CVE-2016-3510、CVE-2017-3248、CVE-2017-3506、CVE-2017-10271、CVE-2018-2628、CVE-2018-2893、CVE-2018-2894、CVE-2018-3191、CVE-2018-3245、CVE-2018-3252、CVE-2019-2618、CVE-2019-2725、CVE-2019-2729、CVE-2019-2890、CVE-2020-2551 | https://github.com/0xn0ne/weblogicScanner | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
-| 20200730T09:37:39Z | CVE-2020-1350 | NSE scripts to detect CVE-2020-1350 SIGRED and CVE-2020-0796 SMBGHOST | https://github.com/pr4jwal/NSE-scripts | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 11 MINUTES 13 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200730T09:37:39Z | CVE-2020-1350 | NSE scripts to detect CVE-2020-1350 SIGRED and CVE-2020-0796 SMBGHOST | https://github.com/pr4jwal/NSE-scripts | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 10 MINUTES 14 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20200730T08:19:08Z | CVE-2020-8558 | Crafting raw TCP/IP packets to send to poorly configured servers - CVE-2020-8558 PoC | https://github.com/rhysemmas/martian-packets | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
 | 20200730T08:11:38Z | CVE-2020-11579 | Exploit code for CVE-2020-11579, an arbitrary file disclosure through the MySQL client in PHPKB | https://github.com/ShielderSec/CVE-2020-11579 | 未查询到CVE信息| 
 | 20200730T07:14:13Z | CVE-2020-9495 | Null | https://github.com/ggolawski/CVE-2020-9495 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 10 MINUTES 34 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
@@ -88,7 +88,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20200730T12:49:07Z | School Project of Artificial Intelligence Course  | https://github.com/cibss/Fuzzy-Logic | 0 | 0| 
+| 20200730T12:50:16Z | School Project of Artificial Intelligence Course  | https://github.com/cibss/Fuzzy-Logic | 0 | 0| 
 | 20200730T12:46:29Z | Null | https://github.com/s9varesc/url-fuzzing | 0 | 0| 
 | 20200730T12:42:37Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 3073 | 700| 
 | 20200730T12:39:57Z | A ground-truth binary fuzzing benchmark suite based on real programs with real bugs. | https://github.com/HexHive/magma | 39 | 12| 
