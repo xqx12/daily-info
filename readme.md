@@ -52,8 +52,9 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20200731T12:30:09Z | Hypervisor Memory Introspection Core Library | https://github.com/hvmi/hvmi | 107 | 11| 
+| 20200731T12:29:58Z | On-line Trading of Exploration and Exploitation 2011 Proceedings | https://github.com/mlresearch/v26 | 0 | 0| 
 | 20200731T12:27:37Z | Null | https://github.com/karthikgs220/Server-Exploit-using-Buffer-Overflow | 0 | 0| 
-| 20200731T12:23:09Z | Hypervisor Memory Introspection Core Library | https://github.com/hvmi/hvmi | 106 | 11| 
 | 20200731T12:12:07Z | More Stable Offline Exploit version of PS4 6.72 Jailbreak. | https://github.com/DarkModderVC/PS4JB | 42 | 17| 
 | 20200731T11:52:23Z | PS4 Exploit 6.72 | https://github.com/PS4Xploit/672 | 0 | 0| 
 | 20200731T11:37:07Z | My exploits for challenges on pwnable.xyz | https://github.com/AravGarg/pwnable.xyz-My-exploits | 0 | 0| 
@@ -61,7 +62,6 @@
 | 20200731T11:19:23Z | SynPlus is a ROBLOX script that has many features, including script saving, a script editor, and a script hub. This is NOT an exploit, just a script. | https://github.com/RaptorDoesStuff/SynPlus | 0 | 0| 
 | 20200731T11:03:20Z | A collection of more than a 140+ tools, scripts, cheatsheets and other loots that I have developed over years for Penetration Testing and IT Security audits purposes. Most of them came handy at least once during my real-world engagements. | https://github.com/mgeeky/Penetration-Testing-Tools | 431 | 125| 
 | 20200731T10:26:58Z | Apereo CAS exploit tool | https://github.com/potats0/CasExp | 2 | 0| 
-| 20200731T10:08:33Z | This is an optimized and efficient scene segmentation model which exploits multi-scale feature fusion technique for capturing contextual information from the scene. This model produces less parameters and FLOPS compare to many existing real-time scene segmentation model. | https://github.com/tanmaysingha/FANet | 0 | 0| 
 
 
 # backdoor on Github 推荐
