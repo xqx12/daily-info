@@ -23,9 +23,9 @@
 | 20200730 | 滥用Docker Registry来访问已安装的卷 | http://blog.pentesteracademy.com/abusing-docker-registry-to-gain-access-to-a-mounted-volume-8649f8cc0b3e| 
 | 20200730 | Doki，一个以Docker服务器为目标的无法检测到的Linux后门 | http://securityaffairs.co/wordpress/106519/malware/doki-linux-backdoor-docker.html| 
 | 20200730 | 关于GRUB2中的BootHole漏洞对Windows和Linux系统的影响 | https://www.zdnet.com/article/boothole-attack-impacts-windows-and-linux-systems-using-grub2-and-secure-boot/| 
+| 20200730 | 使用Java代理解压缩/ Qealler拆包分析-第0x2部分。 | https://www.securityinbits.com/malware-analysis/unpacking/unpacking-pyrogenic-qealler-using-java-agent-part-0x2/| 
 | 20200729 | 盘古团队在MOSEC会议上展示了iOS中不可修复的SEP漏洞问题。 | https://androidrookies.com/team-pangu-demonstrates-unpatchable-secure-enclave-processor-sep-chip-vulnerability-in-ios/| 
 | 20200729 | Windows上的Visual Studio新版在WSL2中将支持远程调试.NET Core Linux应用程序。 | http://www.hanselman.com/blog/OfficialSupportForRemoteDebuggingANETCoreLinuxAppInWSL2FromVisualStudioOnWindows.aspx| 
-| 20200729 | Exploiting Electron Applications using Debug Feature | https://evren.ninja/en/post/exploiting-electron-applications-/| 
 
 
 # 安全维基 推荐
@@ -37,25 +37,25 @@
 | 20200730 | 构建基于攻防实效的安全体系 | https://mp.weixin.qq.com/s/75qiSkXkzP5CJ2pA_8tTyQ| 
 | 20200730 | 抛砖引玉之CobaltStrike4.1的BOF | https://mp.weixin.qq.com/s/-jU4HrPtB8rD4cmqAKZOZw| 
 | 20200730 | shiro 不需要dnslog gadget的探测方式（附工具下载) | https://mp.weixin.qq.com/s/U8Y_8DCPoPiTL-OHwry5Qw| 
+| 20200730 | Mining DNS MX Records for Fun and Profit | http://www.covert.io/mining-mx-records-for-fun-and-profit/| 
 | 20200728 | 现代化SOAR的产品化落地（一） | https://mp.weixin.qq.com/s/E72-K43f-TkLv2WIHqKyKA| 
 | 20200728 | 从开源组件安全现状浅谈开源组件安全运营 | https://zhuanlan.zhihu.com/p/164610491| 
 | 20200728 | 多模态知识图谱 | https://zhuanlan.zhihu.com/p/163278672| 
-| 20200728 | r3kapig：校园明星 CTF 战队的奇幻养成之旅 | https://zhuanlan.zhihu.com/p/163375485| 
 
 
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20200730T12:58:41Z | CVE-2020-11579 | Exploit code for CVE-2020-11579, an arbitrary file disclosure through the MySQL client in PHPKB | https://github.com/ShielderSec/CVE-2020-11579 | 未查询到CVE信息| 
-| 20200730T12:47:43Z | CVE-2020-1313 | Proof of concept exploit of Windows Update Orchestrator Service Elevation of Privilege Vulnerability | https://github.com/irsl/CVE-2020-1313 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 00 MINUTES 32 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200730T12:28:10Z | CVE-2020-10713 | BootHole vulnerability (CVE-2020-10713). detection script, links and other mitigation related materials | https://github.com/eclypsium/BootHole | 未查询到CVE信息| 
-| 20200730T11:14:12Z | CVE-2020-2551 | weblogic 漏洞扫描工具。目前包含 CVE-2014-4210、CVE-2016-0638、CVE-2016-3510、CVE-2017-3248、CVE-2017-3506、CVE-2017-10271、CVE-2018-2628、CVE-2018-2893、CVE-2018-2894、CVE-2018-3191、CVE-2018-3245、CVE-2018-3252、CVE-2019-2618、CVE-2019-2725、CVE-2019-2729、CVE-2019-2890、CVE-2020-2551 | https://github.com/0xn0ne/weblogicScanner | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
-| 20200730T09:37:39Z | CVE-2020-1350 | NSE scripts to detect CVE-2020-1350 SIGRED and CVE-2020-0796 SMBGHOST | https://github.com/pr4jwal/NSE-scripts | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 00 MINUTES 15 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200730T23:54:22Z | CVE-2020-3452 | CVE-2020-3452 : Cisco ASA and FTD Unauthorized Remote File Reading Nmap NSE Script | https://github.com/Gh0st0ne/http-vuln-cve2020-3452.nse | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
+| 20200730T23:53:07Z | CVE-2020-1313 | Proof of concept exploit of Windows Update Orchestrator Service Elevation of Privilege Vulnerability | https://github.com/irsl/CVE-2020-1313 | 当Windows Update Orchestrator服务不正确地处理文件操作（也称为“ Windows Update Orchestrator服务特权提升漏洞”）时，存在特权提升漏洞。| 
+| 20200730T23:34:31Z | CVE-2020-10713 | BootHole vulnerability (CVE-2020-10713). detection script, links and other mitigation related materials | https://github.com/eclypsium/BootHole | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
+| 20200730T22:43:05Z | CVE-2020-5902 | A network detection package for CVE-2020-5902, a CVE10.0 vulnerability affecting F5 Networks, Inc BIG-IP devices. | https://github.com/corelight/CVE-2020-5902-F5BigIP | 在BIG-IP版本15.0.0-15.1.0.3、14.1.0-14.1.2.5、13.1.0-13.1.3.3、12.1.0-12.1.5.1和11.6.1-11.6.5.1中，流量管理用户接口（TMUI），也称为“配置”实用程序，在未公开的页面中具有远程执行代码（RCE）漏洞。| 
+| 20200730T15:00:50Z | CVE-2020-2551 | weblogic 漏洞扫描工具。目前包含 CVE-2014-4210、CVE-2016-0638、CVE-2016-3510、CVE-2017-3248、CVE-2017-3506、CVE-2017-10271、CVE-2018-2628、CVE-2018-2893、CVE-2018-2894、CVE-2018-3191、CVE-2018-3245、CVE-2018-3252、CVE-2019-2618、CVE-2019-2725、CVE-2019-2729、CVE-2019-2890、CVE-2020-2551 | https://github.com/0xn0ne/weblogicScanner | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
+| 20200730T14:29:54Z | CVE-2020-11579 | Exploit code for CVE-2020-11579, an arbitrary file disclosure through the MySQL client in PHPKB | https://github.com/ShielderSec/CVE-2020-11579 | 未查询到CVE信息| 
+| 20200730T09:37:39Z | CVE-2020-1350 | NSE scripts to detect CVE-2020-1350 SIGRED and CVE-2020-0796 SMBGHOST | https://github.com/pr4jwal/NSE-scripts | 当Windows域名系统服务器无法正确处理请求（也称为“ Windows DNS服务器远程代码执行漏洞”）时，存在一个远程执行代码漏洞。| 
 | 20200730T08:19:08Z | CVE-2020-8558 | Crafting raw TCP/IP packets to send to poorly configured servers - CVE-2020-8558 PoC | https://github.com/rhysemmas/martian-packets | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
-| 20200730T07:14:13Z | CVE-2020-9495 | Null | https://github.com/ggolawski/CVE-2020-9495 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 00 MINUTES 34 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200730T07:14:13Z | CVE-2020-9495 | Null | https://github.com/ggolawski/CVE-2020-9495 | 2.2.5之前的Apache Archiva登录服务容易受到LDAP注入的攻击。攻击者可以通过为登录表单提供特殊值来从连接的LDAP服务器检索用户属性数据。使用某些字符，可以修改用于查询LDAP用户的LDAP过滤器。通过测量登录请求的响应时间，可以从LDAP用户对象中检索任意属性数据。| 
 | 20200729T18:14:58Z | CVE-2020-9934 | CVE-2020–9934 POC | https://github.com/mattshockl/CVE-2020-9934 | 未查询到CVE信息| 
-| 20200729T15:59:54Z | CVE-2020-3452 | CVE-2020-3452 : Cisco ASA and FTD Unauthorized Remote File Reading Nmap NSE Script | https://github.com/Gh0st0ne/http-vuln-cve2020-3452.nse | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
-| 20200729T12:51:31Z | CVE-2020-5902 | A network detection package for CVE-2020-5902, a CVE10.0 vulnerability affecting F5 Networks, Inc BIG-IP devices. | https://github.com/corelight/CVE-2020-5902-F5BigIP | | 
 
 
 # klee on Github 推荐
@@ -76,6 +76,7 @@
 # s2e on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20200730T14:16:11Z | Your S2E project management tools. Visit https://s2e.systems/docs to get started. | https://github.com/S2E/s2e-env | 62 | 29| 
 | 20200725T15:36:46Z | Null | https://github.com/PintTheDragon/S2E | 1 | 0| 
 | 20200724T00:38:22Z | Command line configuration & Test Tool for WIZnet Serial to Ethernet devices. | https://github.com/Wiznet/WIZnet-S2E-Tool | 6 | 3| 
 | 20200723T06:38:01Z | This is the main S2E repository. Visit https://s2e.systems/docs to get started. | https://github.com/S2E/s2e | 48 | 17| 
@@ -85,22 +86,21 @@
 | 20200717T02:43:48Z | Null | https://github.com/benload/s2erunner-embed | 0 | 0| 
 | 20200710T11:39:25Z | Electrical Power Prediction using Deep learning | https://github.com/chykoushik/S2E-dfki-Electrical-Power-Prediction | 1 | 0| 
 | 20200710T11:39:23Z | Null | https://github.com/chykoushik/S2E-dfki-Predict-the-department-wide-sales-for-each-store | 1 | 0| 
-| 20200707T22:24:13Z | Exporting data from salesforce in excel format | https://github.com/LuisTwilo/S2Exc | 0 | 0| 
 
 
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20200730T12:54:13Z | Null | https://github.com/Glumgam/vsftpd2.3.4-exploit-python | 0 | 0| 
-| 20200730T12:50:20Z | WITHCulture is a service that provides access to digital cultural heritage items from different repositories and offers a number of added-value services for the creative reuse and intelligent exploitation of that content. | https://github.com/ails-lab/with | 1 | 3| 
-| 20200730T12:47:44Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 2 | 1| 
-| 20200730T12:47:43Z | Proof of concept exploit of Windows Update Orchestrator Service Elevation of Privilege Vulnerability | https://github.com/irsl/CVE-2020-1313 | 13 | 4| 
-| 20200730T12:36:24Z | iblessing is an iOS security exploiting toolkit, it mainly includes application information collection, static analysis and dynamic analysis. It can be used for reverse engineering, binary analysis and vulnerability mining. | https://github.com/Soulghost/iblessing | 51 | 3| 
-| 20200730T12:35:16Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 6761 | 1071| 
-| 20200730T12:33:09Z | A cheat sheet that contains common enumeration and attack methods for Windows Active Directory. | https://github.com/S1ckB0y1337/Active-Directory-Exploitation-Cheat-Sheet | 607 | 167| 
-| 20200730T11:21:44Z | this bash script let you download scripts and clone repos for remote exploits | https://github.com/FabioDefilippo/linuxallremote | 0 | 0| 
-| 20200730T11:21:41Z | A repository for learning various heap exploitation techniques. | https://github.com/shellphish/how2heap | 3857 | 814| 
-| 20200730T10:57:34Z | Exploration-Exploitation using MAB | https://github.com/aegoe/MAB | 0 | 1| 
+| 20200730T23:19:31Z | Null | https://github.com/canadiansocialist/exploittesting | 0 | 0| 
+| 20200730T22:09:11Z | A collection of more than a 140+ tools, scripts, cheatsheets and other loots that I have developed over years for Penetration Testing and IT Security audits purposes. Most of them came handy at least once during my real-world engagements. | https://github.com/mgeeky/Penetration-Testing-Tools | 431 | 125| 
+| 20200730T22:01:15Z | 📢🔒 Exploit farm for attack-defense CTF competitions | https://github.com/DestructiveVoice/DestructiveFarm | 99 | 31| 
+| 20200730T21:55:21Z | Roblox exploit | https://github.com/Riky47/R47Sploit-v4 | 0 | 0| 
+| 20200730T21:49:36Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 6764 | 1073| 
+| 20200730T21:35:38Z | Critical Remote Code Execution Vulnerability (CVE-2018-11776) Found in Apache Struts. | https://github.com/LightC0der/Apache-Struts-0Day-Exploit | 4 | 2| 
+| 20200730T20:39:40Z | A windows kernel driver to Block symbolic link exploit used for privilege escalation. | https://github.com/shubham0d/SymBlock | 1 | 0| 
+| 20200730T19:52:38Z | A phased, evasive Path Traversal scanning & exploitation tool in Python | https://github.com/VainlyStrain/Vailyn | 5 | 0| 
+| 20200730T19:42:01Z | Scripts for roblox exploiting | https://github.com/ignRith/roblox-scripts | 0 | 0| 
+| 20200730T19:20:56Z | buffer overflow detection and exploitation tool for VERY low hanging fruit | https://github.com/kjcain/ruffer-overflow | 0 | 0| 
 
 
 # backdoor on Github 推荐
@@ -121,16 +121,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20200730T12:58:46Z | A Linux Kernel Module that implements a fast snapshot mechanism for fuzzing. | https://github.com/AFLplusplus/AFL-Snapshot-LKM | 61 | 9| 
-| 20200730T12:56:51Z | Fork of the hal-fuzz repository (%HALucinator: Firmware Re-Hosting through Abstraction Layer Emulation%) | https://github.com/daniele122008/hal-fuzz-fork | 0 | 0| 
-| 20200730T12:50:16Z | School Project of Artificial Intelligence Course  | https://github.com/cibss/Fuzzy-Logic | 0 | 0| 
-| 20200730T12:46:29Z | Null | https://github.com/s9varesc/url-fuzzing | 0 | 0| 
-| 20200730T12:42:37Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 3073 | 700| 
-| 20200730T12:39:57Z | A ground-truth binary fuzzing benchmark suite based on real programs with real bugs. | https://github.com/HexHive/magma | 39 | 12| 
-| 20200730T12:19:01Z | Null | https://github.com/lehacha/Mamdani_Fuzzy_Inference_Systems | 0 | 0| 
-| 20200730T12:04:01Z | Null | https://github.com/ccesarrod/.NetCoreFuzzy | 0 | 0| 
-| 20200730T11:54:49Z | 🎲Utilities for fuzzing | https://github.com/garbles/fuzz-utils | 1 | 0| 
-| 20200730T11:44:55Z | 📨 Email template generator. Making emails fun again. | https://github.com/luangjokaj/fuzzymail | 103 | 2| 
+| 20200730T23:54:48Z | OSS-Fuzz - continuous fuzzing of open source software. | https://github.com/google/oss-fuzz | 5432 | 1064| 
+| 20200730T23:36:03Z | CBOR RFC 7049 (Go/Golang) - safe & fast with standard API + toarray & keyasint, CBOR tags, float64/32/16, fuzz tested. | https://github.com/fxamacker/cbor | 191 | 14| 
+| 20200730T23:32:37Z | Null | https://github.com/TYIN321/WarmAndFuzzies | 0 | 0| 
+| 20200730T23:32:06Z | Null | https://github.com/fuzzyads/fuzzy-ads-app | 0 | 0| 
+| 20200730T23:21:07Z | FuzzBench - Fuzzer benchmarking as a service. | https://github.com/google/fuzzbench | 494 | 70| 
+| 20200730T23:18:52Z | :airplane: A fuzz testing tool for generating and performing system tests for Paparazzi auto pilot | https://github.com/MJafarMashhadi/pprz_tester | 0 | 0| 
+| 20200730T22:58:41Z | Got a hank pulled off her tail by the wheel of a chair. | https://github.com/Kali-Fuzzuss/Less-Fuzzy | 0 | 0| 
+| 20200730T22:49:26Z | A python implementation of the Fuzzy Connectedness Segmentation algorithm | https://github.com/flsantos/fuzzy_connectedness_python | 0 | 0| 
+| 20200730T22:00:22Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 3076 | 700| 
+| 20200730T21:56:29Z | A nim library for dealing with fuzzy logic. still very rudimentary but it at least works for the test case now | https://github.com/mhessler97/NimFuzzy | 0 | 0| 
 
 
 
