@@ -6,6 +6,15 @@
 # 玄武实验室 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20200731 | JinJava 任意文件读漏洞分析（CVE-2020-12668） | https://securitylab.github.com/advisories/GHSL-2020-072-hubspot_jinjava/| 
+| 20200731 | Issue 2035: iOS: PPL bypass due to incorrect argument verification in pmap_protect_options_internal() and pmap_remove_options_internal() | https://bugs.chromium.org/p/project-zero/issues/detail?id=2035| 
+| 20200731 | iOS App Starling Bank 的混淆技术分析 | https://hot3eed.github.io/2020/07/30/starling_p1_obfuscations.html| 
+| 20200731 | Napoca - Bitdefender 开源的 Hypervisor，提供多个安全相关的功能 | https://github.com/napocahv/napoca| 
+| 20200731 | Hunting 0-days in Cisco Data Center Network Manager (DCNM) with ShiftLeft Ocular | http://blog.shiftleft.io/hunting-0-days-in-cisco-dcnm-with-shiftleft-ocular-a3091bb8ef29| 
+| 20200731 | Zoom 服务的私有会议密码存在可爆破漏洞，导致会议密码可破解 | https://www.tomanthony.co.uk/blog/zoom-security-exploit-crack-private-meeting-passwords/| 
+| 20200731 | 如何基于 Office 365 提供的日志等信息分析商业邮箱入侵事件 | https://www.fireeye.com/blog/threat-research/2020/07/insights-into-office-365-attacks-and-how-managed-defense-investigates.html| 
+| 20200731 | One Byte to rule them all - 不依赖 Fake Mach Ports 技术，如何将一字节的堆溢出漏洞转换成任意地址读写 | https://googleprojectzero.blogspot.com/2020/07/one-byte-to-rule-them-all.html?m=1| 
+| 20200731 | 关于辅助实现自动化ATT＆CK归纳的python脚本 | https://github.com/mitre-attack/attack-scripts/tree/master/layers| 
 | 20200730 | 卡巴斯基发布的 2020 Q2 APT 趋势分析报告 | https://securelist.com/apt-trends-report-q2-2020/97937/| 
 | 20200730 | TCC 框架被发现漏洞,普通用户可以利用此漏洞直接访问隐私数据 | https://medium.com/@mattshockl/cve-2020-9934-bypassing-the-os-x-transparency-consent-and-control-tcc-framework-for-4e14806f1de8| 
 | 20200730 | 启动组件 GRUB2 被发现缓冲区溢出漏洞,可被利用 Bypass Secure Boot | https://capsule8.com/blog/grubbing-secure-boot-the-wrong-way-cve-2020-10713/| 
@@ -17,52 +26,43 @@
 | 20200730 | 如何在Process Monitor / Process Explorer中获得更好的堆栈跟踪 | https://techcommunity.microsoft.com/t5/iis-support-blog/getting-better-stack-traces-in-process-monitor-process-explorer/ba-p/376407?ranMID=43674&ranEAID=je6NUbpObpQ&ranSiteID=je6NUbpObpQ-G3JsV6MFnaBsEfpzTCjLvA&epi=je6NUbpObpQ-G3JsV6MFnaBsEfpzTCjLvA&irgwc=1&OCID=AID2000142_aff_7795_1243925&tduid=%28ir__yhztuxfujskftz11kk0sohzib32xim3zh61ypj9x00%29%287795%29%281243925%29%28je6NUbpObpQ-G3JsV6MFnaBsEfpzTCjLvA%29%28%29&irclickid=_yhztuxfujskftz11kk0sohzib32xim3zh61ypj9x00| 
 | 20200730 | WordPress wpDiscuz插件中的任意文件上传漏洞http：// | https://sec.today/pulses/27f5610d-c7d5-45c7-9be4-fcadd3c368d6/| 
 | 20200730 | 滥用Docker Registry来访问已安装的卷 | https://sec.today/pulses/3811d18f-85fb-4a6f-85c8-2cdf1bdf09c6/| 
-| 20200730 | Doki，一个以Docker服务器为目标的无法检测到的Linux后门 | https://sec.today/pulses/b10f8505-e5cd-4f71-b2c8-0a37bed79647/| 
-| 20200730 | 关于GRUB2中的BootHole漏洞对Windows和Linux系统的影响 | https://sec.today/pulses/0c44b3c4-ad3c-45b5-a2a3-4fce3db1038f/| 
-| 20200730 | WordPress wpDiscuz插件中的任意文件上传漏洞http：// | http://www.mannulinux.org/2020/07/file-upload-vulnerability-wpDiscuz.html| 
-| 20200730 | 滥用Docker Registry来访问已安装的卷 | http://blog.pentesteracademy.com/abusing-docker-registry-to-gain-access-to-a-mounted-volume-8649f8cc0b3e| 
-| 20200730 | Doki，一个以Docker服务器为目标的无法检测到的Linux后门 | http://securityaffairs.co/wordpress/106519/malware/doki-linux-backdoor-docker.html| 
-| 20200730 | 关于GRUB2中的BootHole漏洞对Windows和Linux系统的影响 | https://www.zdnet.com/article/boothole-attack-impacts-windows-and-linux-systems-using-grub2-and-secure-boot/| 
-| 20200730 | 使用Java代理解压缩/ Qealler拆包分析-第0x2部分。 | https://www.securityinbits.com/malware-analysis/unpacking/unpacking-pyrogenic-qealler-using-java-agent-part-0x2/| 
-| 20200730 | Android SMS蠕虫恶意软件正通过TikTok Pro在印度传播 | https://www.youtube.com/watch?v=mzkDxBjshI4&feature=youtu.be| 
-| 20200729 | 盘古团队在MOSEC会议上展示了iOS中不可修复的SEP漏洞问题。 | https://androidrookies.com/team-pangu-demonstrates-unpatchable-secure-enclave-processor-sep-chip-vulnerability-in-ios/| 
 
 
 # 安全维基 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20200731 | PHP Webshell那些事-攻击篇 | https://mp.weixin.qq.com/s/FgzIm-IK02rjEf3JvxOxrw| 
+| 20200731 | 记 MOSEC 2020 及上海一游 (2) | https://zhuanlan.zhihu.com/p/164905986| 
+| 20200731 | 记 MOSEC 2020 及上海一游 (1) | https://zhuanlan.zhihu.com/p/163528893| 
+| 20200731 | 记 MOSEC 2020 及上海一游 (2) | /news/28080| 
+| 20200731 | 记 MOSEC 2020 及上海一游 (1) | /news/28079| 
 | 20200730 | APT trends report Q2 2020 | https://securelist.com/apt-trends-report-q2-2020/97937/| 
 | 20200730 | 工控防火墙测试之功能篇_Fuzzing测试 | https://mp.weixin.qq.com/s/Qn7-bl5Qvw6_Qtg9QYKZ7w| 
 | 20200730 | 网络空间地理学+可视化技术 | https://mp.weixin.qq.com/s/53wDSOuSrvybTtHrh10i-Q| 
 | 20200730 | 构建基于攻防实效的安全体系 | https://mp.weixin.qq.com/s/75qiSkXkzP5CJ2pA_8tTyQ| 
 | 20200730 | 抛砖引玉之CobaltStrike4.1的BOF | https://mp.weixin.qq.com/s/-jU4HrPtB8rD4cmqAKZOZw| 
-| 20200730 | shiro 不需要dnslog gadget的探测方式（附工具下载) | https://mp.weixin.qq.com/s/U8Y_8DCPoPiTL-OHwry5Qw| 
-| 20200730 | Mining DNS MX Records for Fun and Profit | http://www.covert.io/mining-mx-records-for-fun-and-profit/| 
-| 20200728 | 现代化SOAR的产品化落地（一） | https://mp.weixin.qq.com/s/E72-K43f-TkLv2WIHqKyKA| 
-| 20200728 | 从开源组件安全现状浅谈开源组件安全运营 | https://zhuanlan.zhihu.com/p/164610491| 
-| 20200728 | 多模态知识图谱 | https://zhuanlan.zhihu.com/p/163278672| 
 
 
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20200731T01:49:21Z | CVE-2020-1313 | Proof of concept exploit of Windows Update Orchestrator Service Elevation of Privilege Vulnerability | https://github.com/irsl/CVE-2020-1313 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 00 MINUTES 20 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200731T00:50:37Z | CVE-2020-10713 | BootHole vulnerability (CVE-2020-10713). detection script, links and other mitigation related materials | https://github.com/eclypsium/BootHole | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
+| 20200731T09:52:37Z | CVE-2020-1313 | Proof of concept exploit of Windows Update Orchestrator Service Elevation of Privilege Vulnerability | https://github.com/irsl/CVE-2020-1313 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 58 MINUTES 35 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200731T09:42:49Z | CVE-2020-11579 | Exploit code for CVE-2020-11579, an arbitrary file disclosure through the MySQL client in PHPKB | https://github.com/ShielderSec/CVE-2020-11579 | 未查询到CVE信息| 
+| 20200731T07:50:51Z | CVE-2020-2551 | weblogic 漏洞扫描工具。目前包含 CVE-2014-4210、CVE-2016-0638、CVE-2016-3510、CVE-2017-3248、CVE-2017-3506、CVE-2017-10271、CVE-2018-2628、CVE-2018-2893、CVE-2018-2894、CVE-2018-3191、CVE-2018-3245、CVE-2018-3252、CVE-2019-2618、CVE-2019-2725、CVE-2019-2729、CVE-2019-2890、CVE-2020-2551 | https://github.com/0xn0ne/weblogicScanner | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
+| 20200731T07:36:37Z | CVE-2020-10713 | BootHole vulnerability (CVE-2020-10713). detection script, links and other mitigation related materials | https://github.com/eclypsium/BootHole | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
+| 20200731T02:12:23Z | CVE-2020-9934 | CVE-2020–9934 POC | https://github.com/mattshockl/CVE-2020-9934 | 未查询到CVE信息| 
 | 20200730T23:54:22Z | CVE-2020-3452 | CVE-2020-3452 : Cisco ASA and FTD Unauthorized Remote File Reading Nmap NSE Script | https://github.com/Gh0st0ne/http-vuln-cve2020-3452.nse | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
-| 20200730T22:43:05Z | CVE-2020-5902 | A network detection package for CVE-2020-5902, a CVE10.0 vulnerability affecting F5 Networks, Inc BIG-IP devices. | https://github.com/corelight/CVE-2020-5902-F5BigIP | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 00 MINUTES 13 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200730T15:00:50Z | CVE-2020-2551 | weblogic 漏洞扫描工具。目前包含 CVE-2014-4210、CVE-2016-0638、CVE-2016-3510、CVE-2017-3248、CVE-2017-3506、CVE-2017-10271、CVE-2018-2628、CVE-2018-2893、CVE-2018-2894、CVE-2018-3191、CVE-2018-3245、CVE-2018-3252、CVE-2019-2618、CVE-2019-2725、CVE-2019-2729、CVE-2019-2890、CVE-2020-2551 | https://github.com/0xn0ne/weblogicScanner | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
-| 20200730T14:29:54Z | CVE-2020-11579 | Exploit code for CVE-2020-11579, an arbitrary file disclosure through the MySQL client in PHPKB | https://github.com/ShielderSec/CVE-2020-11579 | 未查询到CVE信息| 
-| 20200730T09:37:39Z | CVE-2020-1350 | NSE scripts to detect CVE-2020-1350 SIGRED and CVE-2020-0796 SMBGHOST | https://github.com/pr4jwal/NSE-scripts | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 00 MINUTES 03 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200730T22:43:05Z | CVE-2020-5902 | A network detection package for CVE-2020-5902, a CVE10.0 vulnerability affecting F5 Networks, Inc BIG-IP devices. | https://github.com/corelight/CVE-2020-5902-F5BigIP | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 58 MINUTES 28 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200730T09:37:39Z | CVE-2020-1350 | NSE scripts to detect CVE-2020-1350 SIGRED and CVE-2020-0796 SMBGHOST | https://github.com/pr4jwal/NSE-scripts | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 58 MINUTES 17 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20200730T08:19:08Z | CVE-2020-8558 | Crafting raw TCP/IP packets to send to poorly configured servers - CVE-2020-8558 PoC | https://github.com/rhysemmas/martian-packets | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
-| 20200730T07:14:13Z | CVE-2020-9495 | Null | https://github.com/ggolawski/CVE-2020-9495 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 00 MINUTES 23 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200729T18:14:58Z | CVE-2020-9934 | CVE-2020–9934 POC | https://github.com/mattshockl/CVE-2020-9934 | 未查询到CVE信息| 
+| 20200730T07:14:13Z | CVE-2020-9495 | Null | https://github.com/ggolawski/CVE-2020-9495 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 58 MINUTES 37 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20200731T02:31:12Z | Create CFGs and compute complexity metrics for Python, C++, and Java code. | https://github.com/hmc-alpaqa/metrinome | 3 | 0| 
 | 20200731T00:42:38Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1449 | 443| 
-| 20200730T21:51:49Z | Create CFGs and compute complexity metrics for Python, C++, and Java code. | https://github.com/hmc-alpaqa/metrinome | 3 | 0| 
 | 20200730T12:13:18Z | A tool that automatically calls Klee to solve for injection | https://github.com/Zzzode/KleeTool | 1 | 0| 
 | 20200729T09:03:38Z | Null | https://github.com/thierry-tct/KLEE-SEMu | 1 | 0| 
 | 20200729T04:24:25Z | Solving a sudoku puzzle using Klee to automatically find the solved puzzle | https://github.com/celinatala-1/Sudoku-Constraint | 0 | 0| 
@@ -91,16 +91,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20200731T01:12:24Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 6765 | 1073| 
-| 20200731T00:47:43Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 2 | 1| 
-| 20200730T23:19:31Z | Null | https://github.com/canadiansocialist/exploittesting | 0 | 0| 
-| 20200730T22:09:11Z | A collection of more than a 140+ tools, scripts, cheatsheets and other loots that I have developed over years for Penetration Testing and IT Security audits purposes. Most of them came handy at least once during my real-world engagements. | https://github.com/mgeeky/Penetration-Testing-Tools | 431 | 125| 
-| 20200730T22:01:15Z | 📢🔒 Exploit farm for attack-defense CTF competitions | https://github.com/DestructiveVoice/DestructiveFarm | 99 | 31| 
-| 20200730T21:55:21Z | Roblox exploit | https://github.com/Riky47/R47Sploit-v4 | 0 | 0| 
-| 20200730T21:35:38Z | Critical Remote Code Execution Vulnerability (CVE-2018-11776) Found in Apache Struts. | https://github.com/LightC0der/Apache-Struts-0Day-Exploit | 4 | 2| 
-| 20200730T20:39:40Z | A windows kernel driver to Block symbolic link exploit used for privilege escalation. | https://github.com/shubham0d/SymBlock | 1 | 0| 
-| 20200730T19:52:38Z | A phased, evasive Path Traversal scanning & exploitation tool in Python | https://github.com/VainlyStrain/Vailyn | 5 | 0| 
-| 20200730T19:42:01Z | Scripts for roblox exploiting | https://github.com/ignRith/roblox-scripts | 0 | 0| 
+| 20200731T12:01:28Z | Hypervisor Memory Introspection Core Library | https://github.com/hvmi/hvmi | 103 | 11| 
+| 20200731T11:52:23Z | PS4 Exploit 6.72 | https://github.com/PS4Xploit/672 | 0 | 0| 
+| 20200731T11:37:07Z | My exploits for challenges on pwnable.xyz | https://github.com/AravGarg/pwnable.xyz-My-exploits | 0 | 0| 
+| 20200731T11:31:55Z | More Stable Offline Exploit version of PS4 6.72 Jailbreak. | https://github.com/DarkModderVC/PS4JB | 42 | 17| 
+| 20200731T11:25:16Z | Blog! | https://github.com/nonetype/nonetype.github.io | 0 | 0| 
+| 20200731T11:19:23Z | SynPlus is a ROBLOX script that has many features, including script saving, a script editor, and a script hub. This is NOT an exploit, just a script. | https://github.com/RaptorDoesStuff/SynPlus | 0 | 0| 
+| 20200731T11:03:20Z | A collection of more than a 140+ tools, scripts, cheatsheets and other loots that I have developed over years for Penetration Testing and IT Security audits purposes. Most of them came handy at least once during my real-world engagements. | https://github.com/mgeeky/Penetration-Testing-Tools | 431 | 125| 
+| 20200731T10:26:58Z | Apereo CAS exploit tool | https://github.com/potats0/CasExp | 2 | 0| 
+| 20200731T10:08:33Z | This is an optimized and efficient scene segmentation model which exploits multi-scale feature fusion technique for capturing contextual information from the scene. This model produces less parameters and FLOPS compare to many existing real-time scene segmentation model. | https://github.com/tanmaysingha/FANet | 0 | 0| 
+| 20200731T10:04:34Z | Pairwise residue distances prediction tool. Exploits deep learning algorithms to achieve the goal. | https://github.com/vam-sin/pconsc4-distance | 0 | 0| 
 
 
 # backdoor on Github 推荐
@@ -121,16 +121,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20200731T01:59:24Z | A fuzzing library in JavaScript. ✨ | https://github.com/MozillaSecurity/octo | 96 | 19| 
-| 20200731T01:21:01Z | 模糊认知诊断模型Python实现 | https://github.com/zelo2/FuzzyCDF | 0 | 0| 
-| 20200731T00:58:37Z | OSS-Fuzz - continuous fuzzing of open source software. | https://github.com/google/oss-fuzz | 5431 | 1064| 
-| 20200731T00:45:07Z | Pedal Multiefecto para guitarra electrica (LoopBack, Delay, Fuzz y Wah-wah) | https://github.com/jrosmirez94/Pedal-Multiefecto | 0 | 0| 
-| 20200731T00:40:02Z | A cross-platform browser fuzzing framework | https://github.com/MozillaSecurity/grizzly | 208 | 27| 
-| 20200731T00:37:24Z | Bazel Starlark extensions for defining fuzz tests in Bazel projects | https://github.com/googleinterns/bazel-rules-fuzzing | 2 | 1| 
-| 20200731T00:13:23Z | JQF + Zest: Coverage-guided semantic fuzzing for Java. | https://github.com/rohanpadhye/JQF | 258 | 37| 
-| 20200730T23:36:03Z | CBOR RFC 7049 (Go/Golang) - safe & fast with standard API + toarray & keyasint, CBOR tags, float64/32/16, fuzz tested. | https://github.com/fxamacker/cbor | 191 | 14| 
-| 20200730T23:32:37Z | Null | https://github.com/TYIN321/WarmAndFuzzies | 0 | 0| 
-| 20200730T23:32:06Z | Null | https://github.com/fuzzyads/fuzzy-ads-app | 0 | 0| 
+| 20200731T11:58:39Z | Lightweight fuzzy search highlighting component using fuse.js | https://github.com/metonym/react-fuzzy-highlighter | 6 | 1| 
+| 20200731T11:48:36Z | Null | https://github.com/s9varesc/url-fuzzing | 0 | 0| 
+| 20200731T11:25:12Z | Null | https://github.com/fuzzyads/fuzzy-ads-sdk | 0 | 0| 
+| 20200731T11:08:51Z | Null | https://github.com/dilippitchika/fuzzy-invention | 0 | 0| 
+| 20200731T10:52:53Z | basic url fuzzer  | https://github.com/Kr4nkh3it/Bastian | 0 | 0| 
+| 20200731T10:26:44Z | A fuzzing introspection tool | https://github.com/gamozolabs/cookie_dough | 85 | 7| 
+| 20200731T10:05:52Z | Fuzzy matching & sorting for Go | https://github.com/deanishe/go-fuzzy | 0 | 0| 
+| 20200731T09:54:02Z | A tool to enable fuzzing for Spectre vulnerabilities | https://github.com/OleksiiOleksenko/SpecFuzz | 9 | 2| 
+| 20200731T09:44:21Z | A fuzzy parser for C/C++ that creates semantic code property graphs | https://github.com/ShiftLeftSecurity/fuzzyc2cpg | 34 | 11| 
+| 20200731T09:32:25Z | A JavaScript Engine Fuzzer | https://github.com/googleprojectzero/fuzzilli | 983 | 160| 
 
 
 
