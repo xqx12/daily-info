@@ -77,8 +77,8 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20200731T12:44:14Z | A fuzzing introspection tool | https://github.com/gamozolabs/cookie_dough | 88 | 7| 
 | 20200731T12:39:47Z | Null | https://github.com/s9varesc/url-fuzzing | 0 | 0| 
-| 20200731T12:39:31Z | A fuzzing introspection tool | https://github.com/gamozolabs/cookie_dough | 87 | 7| 
 | 20200731T12:38:48Z | Null | https://github.com/WillRoque/simple-fuzzing | 0 | 0| 
 | 20200731T12:16:30Z | FuzzBench - Fuzzer benchmarking as a service. | https://github.com/google/fuzzbench | 493 | 70| 
 | 20200731T12:14:28Z | Null | https://github.com/Ryu-Miyaki/Fuzz4B | 5 | 0| 
