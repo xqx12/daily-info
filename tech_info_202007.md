@@ -106,16 +106,16 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20200731T11:48:03Z | backdoor-apk is a shell script that simplifies the process of adding a backdoor to any Android APK file. Users of this shell script should have working knowledge of Linux, Bash, Metasploit, Apktool, the Android SDK, smali, etc. This shell script is provided as-is without warranty of any kind and is intended for educational purposes only. | https://github.com/dana-at-cp/backdoor-apk | 1442 | 591| 
+| 20200731T10:00:58Z | Null | https://github.com/iK4oS/PremiumBackdoor.exe | 0 | 0| 
+| 20200731T07:14:42Z | Building a Backdoor and a Listener using Python | https://github.com/abhinav221999/Reverse_Backdoor | 0 | 0| 
+| 20200731T04:53:36Z | An exploit development kit with shellcodes and backdoors for various operating systems | https://github.com/xorond/l0l | 4 | 3| 
 | 20200731T01:49:47Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 30 | 4| 
 | 20200730T21:08:15Z | Hacking tools pack & backdoors generator. | https://github.com/AdrMXR/KitHack | 100 | 27| 
 | 20200730T20:59:11Z | Backdoor Script Bypass NextGen-Down | https://github.com/PredatoreSexe/Backdoor-Script-Bypass-NextGen-Down | 0 | 0| 
 | 20200730T18:52:16Z | A deck-building roguelike cyberpunk game. | https://github.com/uspgamedev/backdoor | 16 | 2| 
 | 20200730T17:16:01Z | Null | https://github.com/J-Singh99/BackDoor | 1 | 0| 
 | 20200730T09:36:10Z | PRISMO is an user space stealth reverse shell backdoor. | https://github.com/andreafabrizio/prismo | 1 | 0| 
-| 20200730T06:04:39Z | backdoor-apk is a shell script that simplifies the process of adding a backdoor to any Android APK file. Users of this shell script should have working knowledge of Linux, Bash, Metasploit, Apktool, the Android SDK, smali, etc. This shell script is provided as-is without warranty of any kind and is intended for educational purposes only. | https://github.com/dana-at-cp/backdoor-apk | 1441 | 591| 
-| 20200729T22:35:25Z | Null | https://github.com/iK4oS/backdoor.exe | 1 | 0| 
-| 20200729T22:32:20Z | Null | https://github.com/iK4oS/PremiumBackdoor.exe | 0 | 0| 
-| 20200729T18:47:06Z | Null | https://github.com/dheeraj7596/NlpBackdoor | 0 | 0| 
 
 
 # fuzz on Github 推荐
