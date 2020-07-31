@@ -52,10 +52,10 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20200731T12:53:22Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 6768 | 1075| 
 | 20200731T12:47:45Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 2 | 1| 
 | 20200731T12:45:48Z | 📈 A visualization of MetricQ data exploiting the advanctages of the HTA db backend  | https://github.com/metricq/metricq-webview | 0 | 0| 
 | 20200731T12:40:16Z | Null | https://github.com/karthikgs220/Server-Exploit-using-Buffer-Overflow | 0 | 0| 
-| 20200731T12:35:13Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 6767 | 1075| 
 | 20200731T12:30:09Z | Hypervisor Memory Introspection Core Library | https://github.com/hvmi/hvmi | 107 | 11| 
 | 20200731T12:29:58Z | On-line Trading of Exploration and Exploitation 2011 Proceedings | https://github.com/mlresearch/v26 | 0 | 0| 
 | 20200731T12:12:07Z | More Stable Offline Exploit version of PS4 6.72 Jailbreak. | https://github.com/DarkModderVC/PS4JB | 42 | 17| 
