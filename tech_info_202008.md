@@ -38,6 +38,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20200801T12:31:43Z | A paid level 6/7 ROBLOX exploit. | https://github.com/TERIHAX/Sympathy | 0 | 0| 
 | 20200801T12:25:06Z | iblessing is an iOS security exploiting toolkit, it mainly includes application information collection, static analysis and dynamic analysis. It can be used for reverse engineering, binary analysis and vulnerability mining. | https://github.com/Soulghost/iblessing | 63 | 6| 
 | 20200801T12:13:05Z | Bukkit/BungeeCord plugin that aims on fixing Exploits in your Minecraft network. [Requires HamsterAPI to work] | https://github.com/2LStudios-MC/ExploitFixer | 39 | 12| 
 | 20200801T12:12:08Z | Panda Exploit ( Web Based ) | https://github.com/SkieAdmin/- | 0 | 0| 
@@ -47,7 +48,6 @@
 | 20200801T10:04:34Z | A ROBLOX exploit powered by CocoCC | https://github.com/MrDucxy/dove-III | 0 | 0| 
 | 20200801T10:01:44Z | Blog! | https://github.com/nonetype/nonetype.github.io | 0 | 0| 
 | 20200801T09:43:36Z | k8gege.org - K8哥哥%s Blog | https://github.com/k8gege/k8gege.github.io | 9 | 4| 
-| 20200801T08:59:30Z | CVE-2020-3452 exploit | https://github.com/tacticalDevC/CVE-2020-3452 | 0 | 0| 
 
 
 # backdoor on Github 推荐
