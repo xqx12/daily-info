@@ -34,7 +34,7 @@
 | 20200731T20:11:17Z | CVE-2020-1313 | Proof of concept exploit of Windows Update Orchestrator Service Elevation of Privilege Vulnerability | https://github.com/irsl/CVE-2020-1313 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 51 MINUTES 16 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20200731T19:16:30Z | CVE-2020-10713 | BootHole vulnerability (CVE-2020-10713). detection script, links and other mitigation related materials | https://github.com/eclypsium/BootHole | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
 | 20200731T17:21:40Z | CVE-2020-2551 | weblogic 漏洞扫描工具。目前包含 CVE-2014-4210、CVE-2016-0638、CVE-2016-3510、CVE-2017-3248、CVE-2017-3506、CVE-2017-10271、CVE-2018-2628、CVE-2018-2893、CVE-2018-2894、CVE-2018-3191、CVE-2018-3245、CVE-2018-3252、CVE-2019-2618、CVE-2019-2725、CVE-2019-2729、CVE-2019-2890、CVE-2020-2551 | https://github.com/0xn0ne/weblogicScanner | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
-| 20200731T16:12:44Z | CVE-2020-1350 | NSE scripts to detect CVE-2020-1350 SIGRED and CVE-2020-0796 SMBGHOST | https://github.com/pr4jwal/NSE-scripts | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 51 MINUTES 57 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200731T16:12:44Z | CVE-2020-1350 | NSE scripts to detect CVE-2020-1350 SIGRED and CVE-2020-0796 SMBGHOST | https://github.com/pr4jwal/NSE-scripts | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 50 MINUTES 57 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20200731T16:12:21Z | 未知编号 | Cisco Adaptive Security Appliance and FTD Unauthorized Remote File Reading | https://github.com/MrCl0wnLab/checker-cve2020-3452 | 未查询到CVE信息| 
 | 20200731T16:00:19Z | CVE-2020-9495 | Null | https://github.com/ggolawski/CVE-2020-9495 | | 
 | 20200731T15:54:39Z | CVE-2020-9934 | CVE-2020–9934 POC | https://github.com/mattshockl/CVE-2020-9934 | 未查询到CVE信息| 
@@ -77,7 +77,6 @@
 | 20200731T18:45:21Z | Null | https://github.com/iK4oS/backdoor.exe | 1 | 0| 
 | 20200731T18:31:00Z | backdoor-apk is a shell script that simplifies the process of adding a backdoor to any Android APK file. Users of this shell script should have working knowledge of Linux, Bash, Metasploit, Apktool, the Android SDK, smali, etc. This shell script is provided as-is without warranty of any kind and is intended for educational purposes only. | https://github.com/dana-at-cp/backdoor-apk | 1443 | 591| 
 | 20200731T15:42:50Z | Null | https://github.com/Xinghui-Wu/ASR_Backdoor | 2 | 0| 
-| 20200731T13:00:51Z | Null | https://github.com/iK4oS/PremiumBackdoor.exe | 0 | 0| 
 | 20200731T07:14:42Z | Building a Backdoor and a Listener using Python | https://github.com/abhinav221999/Reverse_Backdoor | 0 | 0| 
 | 20200731T04:53:36Z | An exploit development kit with shellcodes and backdoors for various operating systems | https://github.com/xorond/l0l | 4 | 3| 
 | 20200731T01:49:47Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 30 | 4| 
