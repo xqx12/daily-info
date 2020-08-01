@@ -46,16 +46,16 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20200731T20:11:17Z | CVE-2020-1313 | Proof of concept exploit of Windows Update Orchestrator Service Elevation of Privilege Vulnerability | https://github.com/irsl/CVE-2020-1313 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 05 MINUTES 18 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200731T19:16:30Z | CVE-2020-10713 | BootHole vulnerability (CVE-2020-10713). detection script, links and other mitigation related materials | https://github.com/eclypsium/BootHole | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
+| 20200731T20:11:17Z | CVE-2020-1313 | Proof of concept exploit of Windows Update Orchestrator Service Elevation of Privilege Vulnerability | https://github.com/irsl/CVE-2020-1313 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 01 MINUTES 19 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200731T19:16:30Z | CVE-2020-10713 | BootHole vulnerability (CVE-2020-10713). detection script, links and other mitigation related materials | https://github.com/eclypsium/BootHole | | 
 | 20200731T17:21:40Z | CVE-2020-2551 | weblogic 漏洞扫描工具。目前包含 CVE-2014-4210、CVE-2016-0638、CVE-2016-3510、CVE-2017-3248、CVE-2017-3506、CVE-2017-10271、CVE-2018-2628、CVE-2018-2893、CVE-2018-2894、CVE-2018-3191、CVE-2018-3245、CVE-2018-3252、CVE-2019-2618、CVE-2019-2725、CVE-2019-2729、CVE-2019-2890、CVE-2020-2551 | https://github.com/0xn0ne/weblogicScanner | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
-| 20200731T16:12:44Z | CVE-2020-1350 | NSE scripts to detect CVE-2020-1350 SIGRED and CVE-2020-0796 SMBGHOST | https://github.com/pr4jwal/NSE-scripts | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 05 MINUTES 01 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200731T16:12:44Z | CVE-2020-1350 | NSE scripts to detect CVE-2020-1350 SIGRED and CVE-2020-0796 SMBGHOST | https://github.com/pr4jwal/NSE-scripts | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 02 MINUTES 02 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20200731T16:12:21Z | 未知编号 | Cisco Adaptive Security Appliance and FTD Unauthorized Remote File Reading | https://github.com/MrCl0wnLab/checker-cve2020-3452 | 未查询到CVE信息| 
-| 20200731T16:00:19Z | CVE-2020-9495 | Null | https://github.com/ggolawski/CVE-2020-9495 | | 
-| 20200731T15:54:39Z | CVE-2020-9934 | CVE-2020–9934 POC | https://github.com/mattshockl/CVE-2020-9934 | 未查询到CVE信息| 
+| 20200731T16:00:19Z | CVE-2020-9495 | Null | https://github.com/ggolawski/CVE-2020-9495 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 01 MINUTES 21 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200731T15:54:39Z | CVE-2020-9934 | CVE-2020–9934 POC | https://github.com/mattshockl/CVE-2020-9934 | | 
 | 20200731T09:42:49Z | CVE-2020-11579 | Exploit code for CVE-2020-11579, an arbitrary file disclosure through the MySQL client in PHPKB | https://github.com/ShielderSec/CVE-2020-11579 | 未查询到CVE信息| 
 | 20200730T23:54:22Z | CVE-2020-3452 | CVE-2020-3452 : Cisco ASA and FTD Unauthorized Remote File Reading Nmap NSE Script | https://github.com/Gh0st0ne/http-vuln-cve2020-3452.nse | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
-| 20200730T22:43:05Z | CVE-2020-5902 | A network detection package for CVE-2020-5902, a CVE10.0 vulnerability affecting F5 Networks, Inc BIG-IP devices. | https://github.com/corelight/CVE-2020-5902-F5BigIP | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 05 MINUTES 11 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200730T22:43:05Z | CVE-2020-5902 | A network detection package for CVE-2020-5902, a CVE10.0 vulnerability affecting F5 Networks, Inc BIG-IP devices. | https://github.com/corelight/CVE-2020-5902-F5BigIP | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 02 MINUTES 13 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 
 
 # klee on Github 推荐
@@ -91,7 +91,6 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20200731T23:55:50Z | Some discord exploits lol | https://github.com/Kappador/discord-exploits | 0 | 0| 
 | 20200731T23:44:46Z | *Frequently Updated. Sifter is a osint, recon & vulnerability scanner. It combines a plethara of tools within different module sets in order to quickly perform recon tasks, check network firewalling, enumerate remote and local hosts, and scan for the %blue% vulnerabilities within microsft and if unpatched, exploit them.  It uses tools like blackwidow and konan for webdir enumeration and attack surface mapping rapidly using ASM.  | https://github.com/s1l3nt78/sifter | 207 | 69| 
 | 20200731T23:30:06Z | picoCTF 2019 Binary Exploitation Section Writeups | https://github.com/paul-m-b/picoCTF2019-pwn | 0 | 0| 
 | 20200731T23:17:50Z | CTFs solutions and tips related to binary exploitation. | https://github.com/MaherAzzouzi/PWNing | 2 | 3| 
@@ -101,6 +100,7 @@
 | 20200731T20:52:21Z | More Stable Offline Exploit version of PS4 6.72 Jailbreak. | https://github.com/DarkModderVC/PS4JB | 43 | 18| 
 | 20200731T20:20:52Z | A python3 library for helping write exploits | https://github.com/l4tte/exploit.py | 0 | 0| 
 | 20200731T19:57:20Z | A Python script to exploit various features of the IP Webcam android app | https://github.com/Kinjalrk2k/IP-WebCam | 0 | 0| 
+| 20200731T19:50:06Z | Script to check MikroTik Routers the  WinBox Authentication Bypass Disclosure & RouterOS Jailbreak vulnerabilities | https://github.com/s1l3nt78/MkCheck | 33 | 12| 
 
 
 # backdoor on Github 推荐
@@ -126,11 +126,11 @@
 | 20200731T23:12:49Z | Snake URLs A Powerfull fuzzer Tools. Search And Find Report Results From Google - DocDocGO - Wikipedia And More... Writen By WitBlack Hacker. | https://github.com/witblack/snake_URLs | 0 | 1| 
 | 20200731T23:07:30Z | keep It Short and Simple | https://github.com/DukoreTech/fuzzy-adventure | 0 | 0| 
 | 20200731T21:44:06Z | FuzzBench - Fuzzer benchmarking as a service. | https://github.com/google/fuzzbench | 493 | 70| 
-| 20200731T21:27:50Z | Null | https://github.com/silveiraluiza/fuzzy_clustering_am | 0 | 0| 
 | 20200731T21:24:11Z | A collection of fuzzy cluster validity indices in the R language. | https://github.com/fernandase/fuzzy-cluster-validity-indices | 0 | 0| 
 | 20200731T21:21:41Z | OSS-Fuzz - continuous fuzzing of open source software. | https://github.com/google/oss-fuzz | 5434 | 1064| 
 | 20200731T20:32:02Z | This project is just me trying to replicate the work done by Brandon Falk during the Fuzz Week for learning purposes and experimentation. | https://github.com/jroimartin/riscv-emu | 1 | 0| 
 | 20200731T18:03:47Z | basic url fuzzer  | https://github.com/Kr4nkh3it/Bastian | 0 | 0| 
+| 20200731T18:00:19Z | CPython bytecode instrumentation and forkserver tools for fuzzing pure python and mixed python/c code using AFL | https://github.com/risicle/cpytraceafl | 10 | 1| 
 
 
 
