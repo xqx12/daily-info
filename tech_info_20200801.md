@@ -19,8 +19,8 @@
 | 20200801T10:08:51Z | CVE-2020-10713 | BootHole vulnerability (CVE-2020-10713). detection script, links and other mitigation related materials | https://github.com/eclypsium/BootHole | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
 | 20200801T08:59:30Z | CVE-2020-3452 | CVE-2020-3452 exploit | https://github.com/tacticalDevC/CVE-2020-3452 | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
 | 20200801T07:37:35Z | CVE-2020-2551 | weblogic 漏洞扫描工具。目前包含 CVE-2014-4210、CVE-2016-0638、CVE-2016-3510、CVE-2017-3248、CVE-2017-3506、CVE-2017-10271、CVE-2018-2628、CVE-2018-2893、CVE-2018-2894、CVE-2018-3191、CVE-2018-3245、CVE-2018-3252、CVE-2019-2618、CVE-2019-2725、CVE-2019-2729、CVE-2019-2890、CVE-2020-2551 | https://github.com/0xn0ne/weblogicScanner | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
-| 20200801T03:59:55Z | CVE-2020-1313 | Proof of concept exploit of Windows Update Orchestrator Service Elevation of Privilege Vulnerability | https://github.com/irsl/CVE-2020-1313 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 41 MINUTES 25 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200801T03:31:16Z | CVE-2020-9495 | Null | https://github.com/ggolawski/CVE-2020-9495 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 41 MINUTES 27 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200801T03:59:55Z | CVE-2020-1313 | Proof of concept exploit of Windows Update Orchestrator Service Elevation of Privilege Vulnerability | https://github.com/irsl/CVE-2020-1313 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 40 MINUTES 24 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200801T03:31:16Z | CVE-2020-9495 | Null | https://github.com/ggolawski/CVE-2020-9495 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 40 MINUTES 26 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 
 
 # klee on Github 推荐
@@ -60,6 +60,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20200801T12:18:49Z | Makefile for structure aware fuzzing with libfuzzer | https://github.com/mgayanov/libfuzzer_makefile | 0 | 0| 
 | 20200801T12:16:15Z | A fuzzing introspection tool | https://github.com/gamozolabs/cookie_dough | 98 | 7| 
 | 20200801T12:13:56Z | Tool for findings bugs in epoll-based Linux servers | https://github.com/alexhultman/epoll_fuzzer | 2 | 0| 
 | 20200801T12:00:50Z | This project is just me trying to replicate the work done by Brandon Falk during the Fuzz Week for learning purposes and experimentation. | https://github.com/jroimartin/riscv-emu | 1 | 0| 
@@ -69,7 +70,6 @@
 | 20200801T10:58:48Z | Null | https://github.com/charlicruz/fuzzy_patterns | 0 | 0| 
 | 20200801T10:38:25Z | A fuzzy parser for C/C++ that creates semantic code property graphs | https://github.com/ShiftLeftSecurity/fuzzyc2cpg | 34 | 11| 
 | 20200801T09:32:17Z | Null | https://github.com/scratchca/fuzzi | 0 | 0| 
-| 20200801T09:28:46Z | Null | https://github.com/rajroshan26/Soft-Computing-and-Fuzzy-Logic | 0 | 0| 
 
 
 
