@@ -25,24 +25,29 @@
 | 20200731 | 记 MOSEC 2020 及上海一游 (1) | https://zhuanlan.zhihu.com/p/163528893| 
 | 20200731 | 记 MOSEC 2020 及上海一游 (2) | /news/28080| 
 | 20200731 | 记 MOSEC 2020 及上海一游 (1) | /news/28079| 
+| 20200731 | 基于Redis的扫描器任务调度设计方案 | https://mp.weixin.qq.com/s/BoAcBD4cVaZZ4OZ_uHdBng| 
 
 
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20200731T12:55:07Z | CVE-2020-9495 | Null | https://github.com/ggolawski/CVE-2020-9495 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 00 MINUTES 19 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200731T12:48:14Z | CVE-2020-10713 | BootHole vulnerability (CVE-2020-10713). detection script, links and other mitigation related materials | https://github.com/eclypsium/BootHole | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
-| 20200731T09:52:37Z | CVE-2020-1313 | Proof of concept exploit of Windows Update Orchestrator Service Elevation of Privilege Vulnerability | https://github.com/irsl/CVE-2020-1313 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 00 MINUTES 17 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200731T20:11:17Z | CVE-2020-1313 | Proof of concept exploit of Windows Update Orchestrator Service Elevation of Privilege Vulnerability | https://github.com/irsl/CVE-2020-1313 | 当Windows Update Orchestrator服务不正确地处理文件操作（也称为“ Windows Update Orchestrator服务特权提升漏洞”）时，存在特权提升漏洞。| 
+| 20200731T19:16:30Z | CVE-2020-10713 | BootHole vulnerability (CVE-2020-10713). detection script, links and other mitigation related materials | https://github.com/eclypsium/BootHole | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
+| 20200731T17:21:40Z | CVE-2020-2551 | weblogic 漏洞扫描工具。目前包含 CVE-2014-4210、CVE-2016-0638、CVE-2016-3510、CVE-2017-3248、CVE-2017-3506、CVE-2017-10271、CVE-2018-2628、CVE-2018-2893、CVE-2018-2894、CVE-2018-3191、CVE-2018-3245、CVE-2018-3252、CVE-2019-2618、CVE-2019-2725、CVE-2019-2729、CVE-2019-2890、CVE-2020-2551 | https://github.com/0xn0ne/weblogicScanner | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
+| 20200731T16:12:44Z | CVE-2020-1350 | NSE scripts to detect CVE-2020-1350 SIGRED and CVE-2020-0796 SMBGHOST | https://github.com/pr4jwal/NSE-scripts | 当Windows域名系统服务器无法正确处理请求（也称为“ Windows DNS服务器远程代码执行漏洞”）时，存在一个远程执行代码漏洞。| 
+| 20200731T16:12:21Z | 未知编号 | Cisco Adaptive Security Appliance and FTD Unauthorized Remote File Reading | https://github.com/MrCl0wnLab/checker-cve2020-3452 | 未查询到CVE信息| 
+| 20200731T16:00:19Z | CVE-2020-9495 | Null | https://github.com/ggolawski/CVE-2020-9495 | 2.2.5之前的Apache Archiva登录服务容易受到LDAP注入的攻击。攻击者可以通过为登录表单提供特殊值来从连接的LDAP服务器检索用户属性数据。使用某些字符，可以修改用于查询LDAP用户的LDAP过滤器。通过测量登录请求的响应时间，可以从LDAP用户对象中检索任意属性数据。| 
+| 20200731T15:54:39Z | CVE-2020-9934 | CVE-2020–9934 POC | https://github.com/mattshockl/CVE-2020-9934 | | 
 | 20200731T09:42:49Z | CVE-2020-11579 | Exploit code for CVE-2020-11579, an arbitrary file disclosure through the MySQL client in PHPKB | https://github.com/ShielderSec/CVE-2020-11579 | 未查询到CVE信息| 
-| 20200731T07:50:51Z | CVE-2020-2551 | weblogic 漏洞扫描工具。目前包含 CVE-2014-4210、CVE-2016-0638、CVE-2016-3510、CVE-2017-3248、CVE-2017-3506、CVE-2017-10271、CVE-2018-2628、CVE-2018-2893、CVE-2018-2894、CVE-2018-3191、CVE-2018-3245、CVE-2018-3252、CVE-2019-2618、CVE-2019-2725、CVE-2019-2729、CVE-2019-2890、CVE-2020-2551 | https://github.com/0xn0ne/weblogicScanner | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
-| 20200731T02:12:23Z | CVE-2020-9934 | CVE-2020–9934 POC | https://github.com/mattshockl/CVE-2020-9934 | 未查询到CVE信息| 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20200731T02:31:12Z | Create CFGs and compute complexity metrics for Python, C++, and Java code. | https://github.com/hmc-alpaqa/metrinome | 3 | 0| 
-| 20200731T00:42:38Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1449 | 443| 
+| 20200731T22:45:33Z | Create CFGs and compute complexity metrics for Python, C++, and Java code. | https://github.com/hmc-alpaqa/metrinome | 3 | 0| 
+| 20200731T21:18:40Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1450 | 444| 
+| 20200731T20:30:18Z | Solving a sudoku puzzle using Klee to automatically find the solution | https://github.com/celinatala-1/Sudoku-Constraint | 0 | 0| 
+| 20200731T14:27:16Z | Null | https://github.com/Yesat/Kleene_Bachelor | 0 | 0| 
 
 
 # s2e on Github 推荐
@@ -53,24 +58,26 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20200731T12:53:58Z | Hypervisor Memory Introspection Core Library | https://github.com/hvmi/hvmi | 108 | 11| 
-| 20200731T12:53:43Z | Vulnerability Intelligence tool | https://github.com/leonov-av/vulristics | 0 | 0| 
-| 20200731T12:53:22Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 6768 | 1075| 
-| 20200731T12:47:45Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 2 | 1| 
-| 20200731T12:45:48Z | 📈 A visualization of MetricQ data exploiting the advanctages of the HTA db backend  | https://github.com/metricq/metricq-webview | 0 | 0| 
-| 20200731T12:40:16Z | Null | https://github.com/karthikgs220/Server-Exploit-using-Buffer-Overflow | 0 | 0| 
-| 20200731T12:29:58Z | On-line Trading of Exploration and Exploitation 2011 Proceedings | https://github.com/mlresearch/v26 | 0 | 0| 
-| 20200731T12:12:07Z | More Stable Offline Exploit version of PS4 6.72 Jailbreak. | https://github.com/DarkModderVC/PS4JB | 42 | 17| 
-| 20200731T11:52:23Z | PS4 Exploit 6.72 | https://github.com/PS4Xploit/672 | 0 | 0| 
-| 20200731T11:37:07Z | My exploits for challenges on pwnable.xyz | https://github.com/AravGarg/pwnable.xyz-My-exploits | 0 | 0| 
+| 20200731T23:55:50Z | Some discord exploits lol | https://github.com/Kappador/discord-exploits | 0 | 0| 
+| 20200731T23:44:46Z | *Frequently Updated. Sifter is a osint, recon & vulnerability scanner. It combines a plethara of tools within different module sets in order to quickly perform recon tasks, check network firewalling, enumerate remote and local hosts, and scan for the %blue% vulnerabilities within microsft and if unpatched, exploit them.  It uses tools like blackwidow and konan for webdir enumeration and attack surface mapping rapidly using ASM.  | https://github.com/s1l3nt78/sifter | 207 | 69| 
+| 20200731T23:30:06Z | picoCTF 2019 Binary Exploitation Section Writeups | https://github.com/paul-m-b/picoCTF2019-pwn | 0 | 0| 
+| 20200731T23:17:50Z | CTFs solutions and tips related to binary exploitation. | https://github.com/MaherAzzouzi/PWNing | 2 | 3| 
+| 20200731T23:11:09Z | Vulnerabilities, security advisories, exploit codes and proof-of-concept codes. | https://github.com/zeroscience/advisory | 4 | 4| 
+| 20200731T21:35:11Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 6768 | 1076| 
+| 20200731T21:26:38Z | RCE exploit for a .NET JSON deserialization vulnerability in Telerik UI for ASP.NET AJAX. | https://github.com/noperator/CVE-2019-18935 | 149 | 37| 
+| 20200731T20:52:21Z | More Stable Offline Exploit version of PS4 6.72 Jailbreak. | https://github.com/DarkModderVC/PS4JB | 43 | 18| 
+| 20200731T20:20:52Z | A python3 library for helping write exploits | https://github.com/l4tte/exploit.py | 0 | 0| 
+| 20200731T19:57:20Z | A Python script to exploit various features of the IP Webcam android app | https://github.com/Kinjalrk2k/IP-WebCam | 0 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20200731T12:57:58Z | Null | https://github.com/iK4oS/backdoor.exe | 1 | 0| 
-| 20200731T11:48:03Z | backdoor-apk is a shell script that simplifies the process of adding a backdoor to any Android APK file. Users of this shell script should have working knowledge of Linux, Bash, Metasploit, Apktool, the Android SDK, smali, etc. This shell script is provided as-is without warranty of any kind and is intended for educational purposes only. | https://github.com/dana-at-cp/backdoor-apk | 1442 | 591| 
-| 20200731T10:00:58Z | Null | https://github.com/iK4oS/PremiumBackdoor.exe | 0 | 0| 
+| 20200731T18:45:50Z | Easy to understand back door written in python  | https://github.com/alik604/myPyBackDoor | 9 | 6| 
+| 20200731T18:45:21Z | Null | https://github.com/iK4oS/backdoor.exe | 1 | 0| 
+| 20200731T18:31:00Z | backdoor-apk is a shell script that simplifies the process of adding a backdoor to any Android APK file. Users of this shell script should have working knowledge of Linux, Bash, Metasploit, Apktool, the Android SDK, smali, etc. This shell script is provided as-is without warranty of any kind and is intended for educational purposes only. | https://github.com/dana-at-cp/backdoor-apk | 1443 | 591| 
+| 20200731T15:42:50Z | Null | https://github.com/Xinghui-Wu/ASR_Backdoor | 2 | 0| 
+| 20200731T13:00:51Z | Null | https://github.com/iK4oS/PremiumBackdoor.exe | 0 | 0| 
 | 20200731T07:14:42Z | Building a Backdoor and a Listener using Python | https://github.com/abhinav221999/Reverse_Backdoor | 0 | 0| 
 | 20200731T04:53:36Z | An exploit development kit with shellcodes and backdoors for various operating systems | https://github.com/xorond/l0l | 4 | 3| 
 | 20200731T01:49:47Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 30 | 4| 
@@ -79,16 +86,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20200731T12:58:22Z | A fuzzy parser for C/C++ that creates semantic code property graphs | https://github.com/ShiftLeftSecurity/fuzzyc2cpg | 34 | 11| 
-| 20200731T12:53:02Z | Null | https://github.com/s9varesc/url-fuzzing | 0 | 0| 
-| 20200731T12:50:10Z | A JavaScript Engine Fuzzer | https://github.com/googleprojectzero/fuzzilli | 983 | 160| 
-| 20200731T12:47:08Z | Null | https://github.com/clxseizetheday/fuzzing | 0 | 0| 
-| 20200731T12:46:51Z | Null | https://github.com/WillRoque/simple-fuzzing | 0 | 0| 
-| 20200731T12:44:14Z | A fuzzing introspection tool | https://github.com/gamozolabs/cookie_dough | 88 | 7| 
-| 20200731T12:16:30Z | FuzzBench - Fuzzer benchmarking as a service. | https://github.com/google/fuzzbench | 493 | 70| 
-| 20200731T12:14:28Z | Null | https://github.com/Ryu-Miyaki/Fuzz4B | 5 | 0| 
-| 20200731T12:14:06Z | Fuzzy System for Warehouse Ordering System | https://github.com/mariusraht1/AI_2_FuzzySystem | 0 | 0| 
-| 20200731T11:58:39Z | Lightweight fuzzy search highlighting component using fuse.js | https://github.com/metonym/react-fuzzy-highlighter | 6 | 1| 
+| 20200731T23:40:00Z | Fuzzy matching & sorting for Go | https://github.com/deanishe/go-fuzzy | 1 | 0| 
+| 20200731T23:28:16Z | Simple generative fuzzer | https://github.com/dgryski/go-gramgen | 13 | 0| 
+| 20200731T23:12:49Z | Snake URLs A Powerfull fuzzer Tools. Search And Find Report Results From Google - DocDocGO - Wikipedia And More... Writen By WitBlack Hacker. | https://github.com/witblack/snake_URLs | 0 | 1| 
+| 20200731T23:07:30Z | keep It Short and Simple | https://github.com/DukoreTech/fuzzy-adventure | 0 | 0| 
+| 20200731T21:44:06Z | FuzzBench - Fuzzer benchmarking as a service. | https://github.com/google/fuzzbench | 493 | 70| 
+| 20200731T21:27:50Z | Null | https://github.com/silveiraluiza/fuzzy_clustering_am | 0 | 0| 
+| 20200731T21:24:11Z | A collection of fuzzy cluster validity indices in the R language. | https://github.com/fernandase/fuzzy-cluster-validity-indices | 0 | 0| 
+| 20200731T21:21:41Z | OSS-Fuzz - continuous fuzzing of open source software. | https://github.com/google/oss-fuzz | 5434 | 1064| 
+| 20200731T20:32:02Z | This project is just me trying to replicate the work done by Brandon Falk during the Fuzz Week for learning purposes and experimentation. | https://github.com/jroimartin/riscv-emu | 1 | 0| 
+| 20200731T18:03:47Z | basic url fuzzer  | https://github.com/Kr4nkh3it/Bastian | 0 | 0| 
 
 
 
