@@ -38,6 +38,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20200801T12:59:26Z | Thoron Framework is a Linux post-exploitation framework that exploits Linux TCP vulnerability to provide a shell-like connection. Thoron Framework has the ability to create simple payloads to provide Linux TCP attack. | https://github.com/entynetproject/thoron | 69 | 26| 
 | 20200801T12:58:36Z | Storm Framework is a Windows post-exploitation framework that exploits Windows PowerShell vulnerability to get shell-like connection. Storm Framework has the ability to generate simple payloads to provide Windows PowerShell attack.  | https://github.com/entynetproject/storm | 3 | 1| 
 | 20200801T12:47:20Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 6774 | 1077| 
 | 20200801T12:46:10Z | iblessing is an iOS security exploiting toolkit, it mainly includes application information collection, static analysis and dynamic analysis. It can be used for reverse engineering, binary analysis and vulnerability mining. | https://github.com/Soulghost/iblessing | 63 | 6| 
@@ -47,7 +48,6 @@
 | 20200801T12:13:05Z | Bukkit/BungeeCord plugin that aims on fixing Exploits in your Minecraft network. [Requires HamsterAPI to work] | https://github.com/2LStudios-MC/ExploitFixer | 39 | 12| 
 | 20200801T12:12:08Z | Panda Exploit ( Web Based ) | https://github.com/SkieAdmin/- | 0 | 0| 
 | 20200801T11:22:56Z | Null | https://github.com/Ruia-ruia/Exploits | 0 | 0| 
-| 20200801T10:52:31Z | This is a reproduction of %Hacking: The Art of Exploitation% on %Ubuntu 18.04.4 LTS% with various changes. | https://github.com/FromNand/Hacking | 0 | 0| 
 
 
 # backdoor on Github 推荐
