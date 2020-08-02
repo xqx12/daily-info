@@ -61,16 +61,21 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20200802T00:27:22Z | Ghost Framework is an Android post-exploitation framework that exploits the Android Debug Bridge to remotely access an Android device. Ghost Framework gives you the power and convenience of remote Android device administration. | https://github.com/entynetproject/ghost | 626 | 317| 
+| 20200802T11:21:51Z | Injectra injects code into mac OSX applications. | https://github.com/Taguar258/injectra | 3 | 2| 
+| 20200802T09:46:22Z | Thoron Framework is a Linux post-exploitation framework that exploits Linux TCP vulnerability to provide a shell-like connection. Thoron Framework has the ability to create simple payloads to provide Linux TCP attack. | https://github.com/entynetproject/thoron | 70 | 26| 
+| 20200802T09:22:00Z | I don%t know whats this method called as I did not find any information related to this backdooring technique . Its something that I came up with . This python scripts appends shell command to thye parameter of system() function in C binaries . Sometimes the binary gives segfault after executing the command  | https://github.com/cipher1234/Backdoor-garage | 0 | 0| 
+| 20200802T08:48:06Z | Null | https://github.com/1os/TorBackdoor | 0 | 0| 
+| 20200802T08:31:13Z | This is a backdoor discord bot | https://github.com/Jameison-Tech/BackdoorDiscordBot | 0 | 0| 
+| 20200802T07:22:36Z | Ghost Framework is an Android post-exploitation framework that exploits the Android Debug Bridge to remotely access an Android device. Ghost Framework gives you the power and convenience of remote Android device administration. | https://github.com/entynetproject/ghost | 628 | 318| 
 
 
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20200802T11:58:54Z | Personal website of Laurence Hughes | https://github.com/fuzzylogicxx/fuzzylogic | 4 | 1| 
+| 20200802T12:02:39Z | All Windows/Linux related personal projects | https://github.com/WintermuteZer0/Fuzzing | 0 | 0| 
+| 20200802T12:01:59Z | Personal website of Laurence Hughes | https://github.com/fuzzylogicxx/fuzzylogic | 4 | 1| 
 | 20200802T11:55:36Z | attempts to change fuzzing tools to test the Kotlin compiler | https://github.com/eugenpolytechnic/KFuzzing | 0 | 0| 
 | 20200802T11:54:16Z | Key-value collection to make fuzzy searches | https://github.com/VictorBulba/fuzzy_trie | 2 | 0| 
-| 20200802T11:51:24Z | All Windows/Linux related personal projects | https://github.com/WintermuteZer0/Fuzzing | 0 | 0| 
 | 20200802T11:31:56Z | AFLNet: A Greybox Fuzzer for Network Protocols (https://thuanpv.github.io/publications/AFLNet_ICST20.pdf) | https://github.com/aflnet/aflnet | 250 | 34| 
 | 20200802T11:25:13Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 3078 | 700| 
 | 20200802T10:56:18Z | arm_now is a qemu powered tool that allows instant setup of virtual machines on arm cpu, mips, powerpc, nios2, x86 and more, for reverse, exploit, fuzzing and programming purpose. | https://github.com/nongiach/arm_now | 670 | 85| 

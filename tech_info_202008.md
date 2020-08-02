@@ -28,7 +28,7 @@
 | 20200802T11:25:14Z | CVE-2020-3452 | CVE-2020-3452 exploit | https://github.com/tacticalDevC/CVE-2020-3452 | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
 | 20200802T08:53:40Z | CVE-2020-2551 | weblogic 漏洞扫描工具。目前包含 CVE-2014-4210、CVE-2016-0638、CVE-2016-3510、CVE-2017-3248、CVE-2017-3506、CVE-2017-10271、CVE-2018-2628、CVE-2018-2893、CVE-2018-2894、CVE-2018-3191、CVE-2018-3245、CVE-2018-3252、CVE-2019-2618、CVE-2019-2725、CVE-2019-2729、CVE-2019-2890、CVE-2020-2551 | https://github.com/0xn0ne/weblogicScanner | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
 | 20200802T05:07:12Z | CVE-2020-1313 | Proof of concept exploit of Windows Update Orchestrator Service Elevation of Privilege Vulnerability | https://github.com/irsl/CVE-2020-1313 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 58 MINUTES 13 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200802T02:01:37Z | CVE-2020-12717 | Code for exploit for CVE-2020-12717 | https://github.com/wabzqem/covidsafe-CVE-2020-12717-exploit | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 58 MINUTES 50 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200802T02:01:37Z | CVE-2020-12717 | Code for exploit for CVE-2020-12717 | https://github.com/wabzqem/covidsafe-CVE-2020-12717-exploit | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 58 MINUTES 01 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20200801T23:30:44Z | CVE-2020-15906 | Writeup of CVE-2020-15906 | https://github.com/S1lkys/CVE-2020-15906 | 未查询到CVE信息| 
 | 20200801T21:58:32Z | CVE-2020-13151 | Null | https://github.com/b4ny4n/CVE-2020-13151 | 未查询到CVE信息| 
 | 20200801T21:36:18Z | CVE-2020-10713 | BootHole vulnerability (CVE-2020-10713). detection script, links and other mitigation related materials | https://github.com/eclypsium/BootHole | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
@@ -69,25 +69,25 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20200802T00:27:22Z | Ghost Framework is an Android post-exploitation framework that exploits the Android Debug Bridge to remotely access an Android device. Ghost Framework gives you the power and convenience of remote Android device administration. | https://github.com/entynetproject/ghost | 626 | 317| 
+| 20200802T11:21:51Z | Injectra injects code into mac OSX applications. | https://github.com/Taguar258/injectra | 3 | 2| 
+| 20200802T09:46:22Z | Thoron Framework is a Linux post-exploitation framework that exploits Linux TCP vulnerability to provide a shell-like connection. Thoron Framework has the ability to create simple payloads to provide Linux TCP attack. | https://github.com/entynetproject/thoron | 70 | 26| 
+| 20200802T09:22:00Z | I don%t know whats this method called as I did not find any information related to this backdooring technique . Its something that I came up with . This python scripts appends shell command to thye parameter of system() function in C binaries . Sometimes the binary gives segfault after executing the command  | https://github.com/cipher1234/Backdoor-garage | 0 | 0| 
+| 20200802T08:48:06Z | Null | https://github.com/1os/TorBackdoor | 0 | 0| 
+| 20200802T08:31:13Z | This is a backdoor discord bot | https://github.com/Jameison-Tech/BackdoorDiscordBot | 0 | 0| 
+| 20200802T07:22:36Z | Ghost Framework is an Android post-exploitation framework that exploits the Android Debug Bridge to remotely access an Android device. Ghost Framework gives you the power and convenience of remote Android device administration. | https://github.com/entynetproject/ghost | 628 | 318| 
 | 20200801T22:06:14Z | An advanced reverse shell written in Python3. | https://github.com/sayak-brm/ShellBot | 11 | 5| 
 | 20200801T19:46:46Z | PENTESTING: Checks what webshell could be on a server to backdoor into it. | https://github.com/ManuGithubSteam/check-webshells | 0 | 0| 
 | 20200801T19:43:38Z | backdoor-apk is a shell script that simplifies the process of adding a backdoor to any Android APK file. Users of this shell script should have working knowledge of Linux, Bash, Metasploit, Apktool, the Android SDK, smali, etc. This shell script is provided as-is without warranty of any kind and is intended for educational purposes only. | https://github.com/dana-at-cp/backdoor-apk | 1444 | 592| 
 | 20200801T19:21:15Z | Apache Tomcat auto WAR deployment & pwning penetration testing tool. | https://github.com/mgeeky/tomcatWarDeployer | 251 | 96| 
-| 20200801T19:07:48Z | A minimalistic android backdoor | https://github.com/Ch0pin/AndroidWebDoor | 4 | 0| 
-| 20200801T18:09:26Z | Null | https://github.com/abhinav221999/Reverse_Backdoor | 0 | 0| 
-| 20200801T14:04:55Z | Voici les Filesteal/addons LaBaguetteRP GMOD non backdoor ! | https://github.com/IA-314/-Filesteal-addon-LaBaguetteRP-GMOD | 0 | 0| 
-| 20200801T13:53:35Z | Voici les addons de LaBaguetteRP , c addons ne sont pas backdoor  | https://github.com/IA-314/Addon-LaBaguetteRP | 0 | 0| 
-| 20200801T13:39:05Z | Thoron Framework is a Linux post-exploitation framework that exploits Linux TCP vulnerability to provide a shell-like connection. Thoron Framework has the ability to create simple payloads to provide Linux TCP attack. | https://github.com/entynetproject/thoron | 70 | 26| 
 
 
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20200802T11:58:54Z | Personal website of Laurence Hughes | https://github.com/fuzzylogicxx/fuzzylogic | 4 | 1| 
+| 20200802T12:02:39Z | All Windows/Linux related personal projects | https://github.com/WintermuteZer0/Fuzzing | 0 | 0| 
+| 20200802T12:01:59Z | Personal website of Laurence Hughes | https://github.com/fuzzylogicxx/fuzzylogic | 4 | 1| 
 | 20200802T11:55:36Z | attempts to change fuzzing tools to test the Kotlin compiler | https://github.com/eugenpolytechnic/KFuzzing | 0 | 0| 
 | 20200802T11:54:16Z | Key-value collection to make fuzzy searches | https://github.com/VictorBulba/fuzzy_trie | 2 | 0| 
-| 20200802T11:51:24Z | All Windows/Linux related personal projects | https://github.com/WintermuteZer0/Fuzzing | 0 | 0| 
 | 20200802T11:31:56Z | AFLNet: A Greybox Fuzzer for Network Protocols (https://thuanpv.github.io/publications/AFLNet_ICST20.pdf) | https://github.com/aflnet/aflnet | 250 | 34| 
 | 20200802T11:25:13Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 3078 | 700| 
 | 20200802T10:56:18Z | arm_now is a qemu powered tool that allows instant setup of virtual machines on arm cpu, mips, powerpc, nios2, x86 and more, for reverse, exploit, fuzzing and programming purpose. | https://github.com/nongiach/arm_now | 670 | 85| 
