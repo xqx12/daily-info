@@ -11,24 +11,36 @@
 # 安全维基 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20200802 | Shiro回显利用工具（更新为burp插件 | https://mp.weixin.qq.com/s/LSmO0R-9D2Tj-zRxDu7wWw| 
+| 20200802 | XSS Game 分析以及知识点总结 | https://www.freebuf.com/articles/web/245209.html| 
+| 20200802 | Android渗透测试HTTPS证书校验绕过 | https://xz.aliyun.com/t/8047| 
+| 20200802 | 小窥深度学习框架中的安全问题 | https://mp.weixin.qq.com/s/SQ3eF534Rr9dHWGLRVseIQ| 
+| 20200802 | mysql盲注总结 | https://mp.weixin.qq.com/s/y2gSwshj1Dl4v2CXqWXLGg| 
+| 20200802 | NETGEAR httpd缓冲区溢出漏洞分析 | https://mp.weixin.qq.com/s/bDCOmABucnhPfquvEmH0hA| 
+| 20200802 | RAID 2020 论文录用列表 | https://mp.weixin.qq.com/s/WoDK9X3bg_WNy12EC_Hz7g| 
+| 20200802 | 近源渗透测试之Keylogger实战 | https://mp.weixin.qq.com/s/ra_N5dkhZOcHmdHuzl-oQw| 
 
 
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20200802T11:46:40Z | CVE-2020-3452 | Little, stupid python validator(?) for CVE-2020-3452 on CISCO devices. | https://github.com/foulenzer/CVE-2020-3452 | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
+| 20200802T11:25:14Z | CVE-2020-3452 | CVE-2020-3452 exploit | https://github.com/tacticalDevC/CVE-2020-3452 | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
+| 20200802T08:53:40Z | CVE-2020-2551 | weblogic 漏洞扫描工具。目前包含 CVE-2014-4210、CVE-2016-0638、CVE-2016-3510、CVE-2017-3248、CVE-2017-3506、CVE-2017-10271、CVE-2018-2628、CVE-2018-2893、CVE-2018-2894、CVE-2018-3191、CVE-2018-3245、CVE-2018-3252、CVE-2019-2618、CVE-2019-2725、CVE-2019-2729、CVE-2019-2890、CVE-2020-2551 | https://github.com/0xn0ne/weblogicScanner | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
+| 20200802T05:07:12Z | CVE-2020-1313 | Proof of concept exploit of Windows Update Orchestrator Service Elevation of Privilege Vulnerability | https://github.com/irsl/CVE-2020-1313 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 58 MINUTES 13 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200802T02:01:37Z | CVE-2020-12717 | Code for exploit for CVE-2020-12717 | https://github.com/wabzqem/covidsafe-CVE-2020-12717-exploit | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 58 MINUTES 50 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20200801T23:30:44Z | CVE-2020-15906 | Writeup of CVE-2020-15906 | https://github.com/S1lkys/CVE-2020-15906 | 未查询到CVE信息| 
-| 20200801T23:29:01Z | CVE-2020-1313 | Proof of concept exploit of Windows Update Orchestrator Service Elevation of Privilege Vulnerability | https://github.com/irsl/CVE-2020-1313 | | 
-| 20200801T21:58:32Z | CVE-2020-13151 | Null | https://github.com/b4ny4n/CVE-2020-13151 | | 
+| 20200801T21:58:32Z | CVE-2020-13151 | Null | https://github.com/b4ny4n/CVE-2020-13151 | 未查询到CVE信息| 
 | 20200801T21:36:18Z | CVE-2020-10713 | BootHole vulnerability (CVE-2020-10713). detection script, links and other mitigation related materials | https://github.com/eclypsium/BootHole | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
 | 20200801T17:48:57Z | CVE-2020-11579 | Exploit code for CVE-2020-11579, an arbitrary file disclosure through the MySQL client in PHPKB | https://github.com/ShielderSec/CVE-2020-11579 | 未查询到CVE信息| 
-| 20200801T16:45:17Z | CVE-2020-3452 | CVE-2020-3452 exploit | https://github.com/tacticalDevC/CVE-2020-3452 | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
-| 20200801T15:02:38Z | CVE-2020-9495 | Null | https://github.com/ggolawski/CVE-2020-9495 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 00 MINUTES 27 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200801T07:37:35Z | CVE-2020-2551 | weblogic 漏洞扫描工具。目前包含 CVE-2014-4210、CVE-2016-0638、CVE-2016-3510、CVE-2017-3248、CVE-2017-3506、CVE-2017-10271、CVE-2018-2628、CVE-2018-2893、CVE-2018-2894、CVE-2018-3191、CVE-2018-3245、CVE-2018-3252、CVE-2019-2618、CVE-2019-2725、CVE-2019-2729、CVE-2019-2890、CVE-2020-2551 | https://github.com/0xn0ne/weblogicScanner | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
+| 20200801T15:02:38Z | CVE-2020-9495 | Null | https://github.com/ggolawski/CVE-2020-9495 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 58 MINUTES 15 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20200802T07:02:54Z | Null | https://github.com/KleeUT/kleeut.com | 0 | 0| 
+| 20200802T05:18:06Z | The front framework used for logic fabric brand | https://github.com/logic-fabric/klee | 0 | 0| 
 | 20200801T19:44:39Z | kleene is a library for building regular expression recognition automata - nfas, dfas, and some specialty structures. | https://github.com/davidkellis/kleene | 0 | 0| 
 
 
@@ -42,16 +54,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20200802T01:49:05Z | Null | https://github.com/ogfluffyy/Roblox-Exploits | 0 | 0| 
-| 20200802T01:29:17Z | A cheat sheet that contains common enumeration and attack methods for Windows Active Directory. | https://github.com/S1ckB0y1337/Active-Directory-Exploitation-Cheat-Sheet | 618 | 169| 
-| 20200802T01:05:05Z | An 8$ level 6/7 exploit that supports almost any script! Including OWL HUB! Buy Now! | https://github.com/TERIHAX/Sympathy | 0 | 0| 
-| 20200802T00:19:44Z | A phased, evasive Path Traversal scanning & exploitation tool in Python | https://github.com/VainlyStrain/Vailyn | 6 | 0| 
-| 20200801T23:30:44Z | Writeup of CVE-2020-15906 | https://github.com/S1lkys/CVE-2020-15906 | 1 | 0| 
-| 20200801T23:19:46Z | An attack/exploit Detector that utilizes Polymorphism and Diversity | https://github.com/polyverse/zerotect | 2 | 1| 
-| 20200801T22:54:14Z | WptsExtensions.dll for exploiting DLL hijacking of the task scheduler. | https://github.com/phackt/wptsextensions.dll | 0 | 0| 
-| 20200801T22:35:50Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 6781 | 1077| 
-| 20200801T22:28:07Z |  SharpSploit is a .NET post-exploitation library written in C# | https://github.com/cobbr/SharpSploit | 926 | 184| 
-| 20200801T20:36:11Z | calculator bruteforcer for port 1337 | https://github.com/musyoka101/Djinn-TryHackMe-port-1337-exploit | 0 | 0| 
+| 20200802T11:32:27Z | Blog! | https://github.com/nonetype/nonetype.github.io | 0 | 0| 
+| 20200802T10:58:29Z | Utopia Framework is a Linux post-exploitation framework that exploits Linux SSH vulnerability to provide a shell-like connection. Utopia Framework can be used to easily master Linux SSH exploitation. | https://github.com/entynetproject/utopia | 11 | 0| 
+| 20200802T10:56:18Z | arm_now is a qemu powered tool that allows instant setup of virtual machines on arm cpu, mips, powerpc, nios2, x86 and more, for reverse, exploit, fuzzing and programming purpose. | https://github.com/nongiach/arm_now | 670 | 85| 
+| 20200802T10:34:47Z | Aidez-nous à exploiter les API du navigateur pour faire la pire appli du monde | https://github.com/nanotee/pire_appli | 0 | 0| 
+| 20200802T10:23:07Z | iblessing is an iOS security exploiting toolkit, it mainly includes application information collection, static analysis and dynamic analysis. It can be used for reverse engineering, binary analysis and vulnerability mining. | https://github.com/Soulghost/iblessing | 70 | 9| 
+| 20200802T10:20:54Z | WptsExtensions.dll for exploiting DLL hijacking of the task scheduler. | https://github.com/phackt/wptsextensions.dll | 1 | 1| 
+| 20200802T10:01:17Z | k8gege.org - K8哥哥%s Blog | https://github.com/k8gege/k8gege.github.io | 9 | 4| 
+| 20200802T10:00:19Z | Storm Framework is a Windows post-exploitation framework that exploits Windows PowerShell vulnerability to get shell-like connection. Storm Framework has the ability to generate simple payloads to provide Windows PowerShell attack.  | https://github.com/entynetproject/storm | 3 | 1| 
+| 20200802T09:54:31Z | fix exploits on anarchy server | https://github.com/moom0o/AnarchyExploitFixes | 1 | 0| 
+| 20200802T09:54:00Z | Script to check MikroTik Routers the  WinBox Authentication Bypass Disclosure & RouterOS Jailbreak vulnerabilities | https://github.com/s1l3nt78/MkCheck | 34 | 12| 
 
 
 # backdoor on Github 推荐
@@ -72,16 +84,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20200802T01:57:49Z | Personal page by react and ant design | https://github.com/FuzzyChen/FuzzyChen.github.io | 0 | 0| 
-| 20200802T01:50:32Z | A CUDA compiler fuzzer | https://github.com/gongbell/CUDAsmith | 2 | 1| 
-| 20200802T01:48:08Z | Null | https://github.com/fuzzuss/fuzzuss.github.io | 0 | 0| 
-| 20200802T01:41:18Z | Null | https://github.com/zhangxiaosa/fuzztools | 0 | 1| 
-| 20200801T23:30:08Z | Simple generative fuzzer | https://github.com/dgryski/go-gramgen | 13 | 0| 
-| 20200801T23:10:55Z | This project is just me trying to replicate the work done by Brandon Falk during the Fuzz Week for learning purposes and experimentation. | https://github.com/jroimartin/riscv-emu | 1 | 0| 
-| 20200801T22:41:42Z | Fuzzy Trader. A technical challenge for BxBlue. | https://github.com/dmvvilela/fuzzy-trader | 0 | 0| 
-| 20200801T21:21:36Z | Null | https://github.com/niles87/fuzzy-doodle | 0 | 0| 
-| 20200801T21:19:58Z | Null | https://github.com/haylee430/fuzzy_friend_finder | 1 | 0| 
-| 20200801T20:39:00Z | FuzzyKnights: Protectors of the Forst - 16bit Adventure | https://github.com/mjnrock/fuzzyknights-arcade | 0 | 0| 
+| 20200802T11:58:54Z | Personal website of Laurence Hughes | https://github.com/fuzzylogicxx/fuzzylogic | 4 | 1| 
+| 20200802T11:55:36Z | attempts to change fuzzing tools to test the Kotlin compiler | https://github.com/eugenpolytechnic/KFuzzing | 0 | 0| 
+| 20200802T11:54:16Z | Key-value collection to make fuzzy searches | https://github.com/VictorBulba/fuzzy_trie | 2 | 0| 
+| 20200802T11:51:24Z | All Windows/Linux related personal projects | https://github.com/WintermuteZer0/Fuzzing | 0 | 0| 
+| 20200802T11:31:56Z | AFLNet: A Greybox Fuzzer for Network Protocols (https://thuanpv.github.io/publications/AFLNet_ICST20.pdf) | https://github.com/aflnet/aflnet | 250 | 34| 
+| 20200802T11:25:13Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 3078 | 700| 
+| 20200802T10:56:18Z | arm_now is a qemu powered tool that allows instant setup of virtual machines on arm cpu, mips, powerpc, nios2, x86 and more, for reverse, exploit, fuzzing and programming purpose. | https://github.com/nongiach/arm_now | 670 | 85| 
+| 20200802T10:30:08Z | Null | https://github.com/charlicruz/fuzzy_patterns | 0 | 0| 
+| 20200802T10:18:07Z | Search fuzzy words in intelligent speakers | https://github.com/kaibo-wang/Fuzzy-Words-Search | 2 | 0| 
+| 20200802T09:33:35Z | Explore URLs of domains fast and efficiently using fuzzing techniques | https://github.com/avilum/smart-url-fuzzer | 11 | 5| 
 
 
 
