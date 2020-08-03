@@ -82,7 +82,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20200803T12:25:24Z | Code repository with customisable Fuzzy Matching scripts in STATA and Python, especially useful when working with datasets containing Hindi text transliterated to English. | https://github.com/IDinsight/hin-fuzzy-merge | 0 | 0| 
+| 20200803T12:26:10Z | Code repository with customisable Fuzzy Matching scripts in STATA and Python, especially useful when working with datasets containing Hindi text transliterated to English. | https://github.com/IDinsight/hin-fuzzy-merge | 0 | 0| 
 | 20200803T11:54:50Z | Null | https://github.com/s9varesc/url-fuzzing | 0 | 0| 
 | 20200803T11:23:03Z | Tool for findings bugs in epoll-based Linux servers | https://github.com/uNetworking/libEpollFuzzer | 2 | 0| 
 | 20200803T11:15:25Z | 💹 Projeto para Fuzzy Trader desenvolvido em ReactJS | https://github.com/hugo-marcelo/fuzzy-trader-web | 0 | 0| 
