@@ -32,10 +32,10 @@
 | 20200802T19:37:14Z | CVE-2020-3452 | CVE-2020-3452 Cisco ASA Scanner -unauth Path Traversal Check | https://github.com/PR3R00T/CVE-2020-3452-Cisco-Scanner | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
 | 20200802T17:15:16Z | CVE-2020-2551 | weblogic 漏洞扫描工具。目前包含 CVE-2014-4210、CVE-2016-0638、CVE-2016-3510、CVE-2017-3248、CVE-2017-3506、CVE-2017-10271、CVE-2018-2628、CVE-2018-2893、CVE-2018-2894、CVE-2018-3191、CVE-2018-3245、CVE-2018-3252、CVE-2019-2618、CVE-2019-2725、CVE-2019-2729、CVE-2019-2890、CVE-2020-2551 | https://github.com/0xn0ne/weblogicScanner | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
 | 20200802T16:26:14Z | CVE-2020-3452 | Little, stupid python validator(?) for CVE-2020-3452 on CISCO devices. | https://github.com/foulenzer/CVE-2020-3452 | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
-| 20200802T14:49:24Z | CVE-2020-13424 |  Joomla! Plugin XCloner Backup 3.5.3 - Local File Inclusion (Authenticated) | https://github.com/mkelepce/CVE-2020-13424 | Joomla！3.5.4之前的XCloner组件！允许通过身份验证的本地文件披露。| 
-| 20200802T14:45:17Z | CVE-2020-13094 |  Dolibarr 11.0.3 - Persistent Cross-Site Scripting | https://github.com/mkelepce/CVE-2020-13094 | 11.0.4之前的Dolibarr允许XSS。| 
+| 20200802T14:49:24Z | CVE-2020-13424 |  Joomla! Plugin XCloner Backup 3.5.3 - Local File Inclusion (Authenticated) | https://github.com/mkelepce/CVE-2020-13424 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 54 MINUTES 15 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200802T14:45:17Z | CVE-2020-13094 |  Dolibarr 11.0.3 - Persistent Cross-Site Scripting | https://github.com/mkelepce/CVE-2020-13094 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 54 MINUTES 13 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20200802T11:25:14Z | CVE-2020-3452 | CVE-2020-3452 exploit | https://github.com/tacticalDevC/CVE-2020-3452 | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
-| 20200802T02:01:37Z | CVE-2020-12717 | Code for exploit for CVE-2020-12717 | https://github.com/wabzqem/covidsafe-CVE-2020-12717-exploit | 适用于iOS的COVIDSafe（澳大利亚）应用程序1.0和1.1允许远程攻击者使该应用程序崩溃，并通过包含太短制造商数据的蓝牙广告来干扰COVID-19联系人跟踪。发生此错误是由于错误的OpenTrace manuData.subdata调用。 ABTraceTogether（Alberta），ProteGO（波兰）和TraceTogether（新加坡）应用程序也受到影响。| 
+| 20200802T02:01:37Z | CVE-2020-12717 | Code for exploit for CVE-2020-12717 | https://github.com/wabzqem/covidsafe-CVE-2020-12717-exploit | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 55 MINUTES 00 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20200801T23:30:44Z | CVE-2020-15906 | Writeup of CVE-2020-15906 | https://github.com/S1lkys/CVE-2020-15906 | 未查询到CVE信息| 
 
 
@@ -59,6 +59,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20200803T00:04:37Z | A series of CTF challenge solutions for binary exploitation (or pwn) and reverse engineering (or rev) challenges | https://github.com/docfate111/binary-exploitation-solution-scripts | 0 | 0| 
 | 20200803T00:00:59Z | Roblox Exploit API | https://github.com/OpenGamerTips/Neuron-API | 1 | 0| 
 | 20200802T23:59:04Z | Exploits project Hacking Command Center | https://github.com/chacka0101/exploits | 0 | 1| 
 | 20200802T23:55:29Z | windows and linux streams for post exploitation | https://github.com/kymb0/post_exploitation | 1 | 0| 
@@ -68,7 +69,6 @@
 | 20200802T23:08:35Z | A phased, evasive Path Traversal scanning & exploitation tool in Python | https://github.com/VainlyStrain/Vailyn | 8 | 0| 
 | 20200802T23:04:04Z | *Frequently Updated. Sifter is a osint, recon & vulnerability scanner. It combines a plethara of tools within different module sets in order to quickly perform recon tasks, check network firewalling, enumerate remote and local hosts, and scan for the %blue% vulnerabilities within microsft and if unpatched, exploit them.  It uses tools like blackwidow and konan for webdir enumeration and attack surface mapping rapidly using ASM.  | https://github.com/s1l3nt78/sifter | 208 | 70| 
 | 20200802T22:50:24Z | A cheat sheet that contains common enumeration and attack methods for Windows Active Directory. | https://github.com/S1ckB0y1337/Active-Directory-Exploitation-Cheat-Sheet | 623 | 171| 
-| 20200802T22:17:02Z | It a REAL exploit for roblox! Free! Powerfull! And very good! DOWNLOAD NOW! | https://github.com/policere/manaco | 0 | 0| 
 
 
 # backdoor on Github 推荐
