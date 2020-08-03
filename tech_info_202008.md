@@ -35,7 +35,7 @@
 | 20200802T16:26:14Z | CVE-2020-3452 | Little, stupid python validator(?) for CVE-2020-3452 on CISCO devices. | https://github.com/foulenzer/CVE-2020-3452 | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
 | 20200802T14:49:24Z | CVE-2020-13424 |  Joomla! Plugin XCloner Backup 3.5.3 - Local File Inclusion (Authenticated) | https://github.com/mkelepce/CVE-2020-13424 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 17 MINUTES 21 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20200802T14:45:17Z | CVE-2020-13094 |  Dolibarr 11.0.3 - Persistent Cross-Site Scripting | https://github.com/mkelepce/CVE-2020-13094 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 17 MINUTES 19 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200802T02:01:37Z | CVE-2020-12717 | Code for exploit for CVE-2020-12717 | https://github.com/wabzqem/covidsafe-CVE-2020-12717-exploit | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 17 MINUTES 57 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200802T02:01:37Z | CVE-2020-12717 | Code for exploit for CVE-2020-12717 | https://github.com/wabzqem/covidsafe-CVE-2020-12717-exploit | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 17 MINUTES 04 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20200801T23:30:44Z | CVE-2020-15906 | Writeup of CVE-2020-15906 | https://github.com/S1lkys/CVE-2020-15906 | 未查询到CVE信息| 
 
 
@@ -89,6 +89,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20200803T01:43:33Z | Fuzzy finder for every AWS component | https://github.com/AndreZiviani/aws-fuzzy | 0 | 1| 
 | 20200803T01:27:37Z | Rápido e flexível web fuzzer escrito em Ruby | https://github.com/yato0x/poison | 5 | 1| 
 | 20200803T01:10:40Z | Compare performance of fuzzy vs. discrete haplotyping models. | https://github.com/bsmith89/fuzzy-haplo-model | 0 | 0| 
 | 20200803T01:07:39Z | Fuzzy Trader. A technical challenge for BxBlue. | https://github.com/dmvvilela/fuzzy-trader-server | 0 | 0| 
@@ -98,7 +99,6 @@
 | 20200802T23:54:25Z | Null | https://github.com/silveiraluiza/fuzzy_clustering_am | 0 | 0| 
 | 20200802T23:17:32Z | No idea what I%m doing | https://github.com/klecko/fuzz | 0 | 0| 
 | 20200802T23:07:59Z | Snake URLs A Powerfull fuzzer Tools. Search And Find Report Results From Google - DocDocGO - Wikipedia And More... Writen By WitBlack Hacker. | https://github.com/witblack/snake_URLs | 0 | 1| 
-| 20200802T22:25:22Z | Simple generative fuzzer | https://github.com/dgryski/go-gramgen | 13 | 0| 
 
 
 
