@@ -27,15 +27,15 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20200802T21:09:05Z | CVE-2020-1313 | Proof of concept exploit of Windows Update Orchestrator Service Elevation of Privilege Vulnerability | https://github.com/irsl/CVE-2020-1313 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 59 MINUTES 09 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200802T21:09:05Z | CVE-2020-1313 | Proof of concept exploit of Windows Update Orchestrator Service Elevation of Privilege Vulnerability | https://github.com/irsl/CVE-2020-1313 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 58 MINUTES 14 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20200802T20:29:45Z | CVE-2020-10713 | BootHole vulnerability (CVE-2020-10713). detection script, links and other mitigation related materials | https://github.com/eclypsium/BootHole | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
 | 20200802T19:37:14Z | CVE-2020-3452 | CVE-2020-3452 Cisco ASA Scanner -unauth Path Traversal Check | https://github.com/PR3R00T/CVE-2020-3452-Cisco-Scanner | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
 | 20200802T17:15:16Z | CVE-2020-2551 | weblogic 漏洞扫描工具。目前包含 CVE-2014-4210、CVE-2016-0638、CVE-2016-3510、CVE-2017-3248、CVE-2017-3506、CVE-2017-10271、CVE-2018-2628、CVE-2018-2893、CVE-2018-2894、CVE-2018-3191、CVE-2018-3245、CVE-2018-3252、CVE-2019-2618、CVE-2019-2725、CVE-2019-2729、CVE-2019-2890、CVE-2020-2551 | https://github.com/0xn0ne/weblogicScanner | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
 | 20200802T16:26:14Z | CVE-2020-3452 | Little, stupid python validator(?) for CVE-2020-3452 on CISCO devices. | https://github.com/foulenzer/CVE-2020-3452 | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
-| 20200802T14:49:24Z | CVE-2020-13424 |  Joomla! Plugin XCloner Backup 3.5.3 - Local File Inclusion (Authenticated) | https://github.com/mkelepce/CVE-2020-13424 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 59 MINUTES 17 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200802T14:45:17Z | CVE-2020-13094 |  Dolibarr 11.0.3 - Persistent Cross-Site Scripting | https://github.com/mkelepce/CVE-2020-13094 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 59 MINUTES 16 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200802T14:49:24Z | CVE-2020-13424 |  Joomla! Plugin XCloner Backup 3.5.3 - Local File Inclusion (Authenticated) | https://github.com/mkelepce/CVE-2020-13424 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 58 MINUTES 20 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200802T14:45:17Z | CVE-2020-13094 |  Dolibarr 11.0.3 - Persistent Cross-Site Scripting | https://github.com/mkelepce/CVE-2020-13094 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 58 MINUTES 19 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20200802T11:25:14Z | CVE-2020-3452 | CVE-2020-3452 exploit | https://github.com/tacticalDevC/CVE-2020-3452 | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
-| 20200802T02:01:37Z | CVE-2020-12717 | Code for exploit for CVE-2020-12717 | https://github.com/wabzqem/covidsafe-CVE-2020-12717-exploit | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 59 MINUTES 50 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200802T02:01:37Z | CVE-2020-12717 | Code for exploit for CVE-2020-12717 | https://github.com/wabzqem/covidsafe-CVE-2020-12717-exploit | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 58 MINUTES 59 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 
 
 # klee on Github 推荐
@@ -74,7 +74,6 @@
 | 20200802T21:12:41Z | This is a backdoor discord bot | https://github.com/Jameison-Tech/BackdoorDiscordBot | 0 | 0| 
 | 20200802T20:44:36Z | Null | https://github.com/Tdasu-Mainframes/CICING_IN_THE_BACKDOOR | 0 | 0| 
 | 20200802T14:01:18Z | Null | https://github.com/abhinav221999/Reverse_Backdoor | 0 | 0| 
-| 20200802T11:21:51Z | Injectra injects code into mac OSX applications. | https://github.com/Taguar258/injectra | 3 | 2| 
 | 20200802T09:46:22Z | Thoron Framework is a Linux post-exploitation framework that exploits Linux TCP vulnerability to provide a shell-like connection. Thoron Framework has the ability to create simple payloads to provide Linux TCP attack. | https://github.com/entynetproject/thoron | 70 | 26| 
 | 20200802T09:22:00Z | I don%t know whats this method called as I did not find any information related to this backdooring technique . Its something that I came up with . This python scripts appends shell command to thye parameter of system() function in C binaries . Sometimes the binary gives segfault after executing the command  | https://github.com/cipher1234/Backdoor-garage | 0 | 0| 
 | 20200802T08:48:06Z | Null | https://github.com/1os/TorBackdoor | 0 | 0| 
