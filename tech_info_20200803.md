@@ -17,6 +17,7 @@
 | 20200803 | Yossi Oren博士《对安全系统实施攻击》课程的相关资料已上传到github | https://github.com/Yossioren/AttacksonImplementationsCourseBook| 
 | 20200803 | 一例取证CTF题目的Writeup | https://sec.today/pulses/47aa7bf1-8532-4650-9a3a-d6540b5bfa76/| 
 | 20200803 | 使用签名的驱动程序删除内核回调 | https://sec.today/pulses/18c1d3b1-3ec5-4c14-b491-71524474d5bc/| 
+| 20200803 | 一例取证CTF题目的Writeup | https://github.com/5h3r10ck/CTF_Writeups/tree/master/InCTF| 
 
 
 # 安全维基 推荐
@@ -67,7 +68,14 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20200803T01:54:51Z | Injectra injects code into mac OSX applications. | https://github.com/Taguar258/injectra | 5 | 2| 
+| 20200803T10:19:53Z | • Listened for incoming connections to the given port, and responded to most requests with a valid HTTP 1.1 response. • Executed the command when receiving a GET request for a URL in the form of /exec/<command>, and returned an HTTP response with STDOUT of the executed command. | https://github.com/yuhsuanchuang/HTTP-1.1-Server-with-Backdoor-in-C | 0 | 0| 
+| 20200803T09:05:47Z | Null | https://github.com/knightrider27/backdoor | 0 | 0| 
+| 20200803T06:46:40Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 32 | 4| 
+| 20200803T06:24:32Z | Platform for shady deals | https://github.com/samusarr/backdoordeals | 0 | 0| 
+| 20200803T06:04:14Z | I don%t know whats this method called as I did not find any information related to this backdooring technique . Its something that I came up with . This python scripts appends shell command to thye parameter of system() function in C binaries . Sometimes the binary gives segfault after executing the command  | https://github.com/cipher1234/Backdoor-garage | 0 | 0| 
+| 20200803T04:25:32Z | Ghost Framework is an Android post-exploitation framework that exploits the Android Debug Bridge to remotely access an Android device. Ghost Framework gives you the power and convenience of remote Android device administration. | https://github.com/entynetproject/ghost | 629 | 321| 
+| 20200803T02:48:52Z | Null | https://github.com/cirrrr/backdoor-keyword-identification | 0 | 0| 
+| 20200803T01:54:51Z | Injectra injects code into mac OSX applications. | https://github.com/Taguar258/injectra | 5 | 3| 
 
 
 # fuzz on Github 推荐
