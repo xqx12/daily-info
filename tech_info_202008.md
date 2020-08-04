@@ -110,6 +110,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20200804T00:43:58Z | JQF + Zest: Coverage-guided semantic fuzzing for Java. | https://github.com/rohanpadhye/JQF | 260 | 37| 
 | 20200804T00:20:56Z | Experimental OS | https://github.com/scopeInfinity/FuzzyOS | 0 | 0| 
 | 20200804T00:10:54Z | american fuzzy lop - a security-oriented fuzzer | https://github.com/google/AFL | 1294 | 211| 
 | 20200803T23:47:46Z | Fuzz Implementations of BLS12-381 | https://github.com/kirk-baird/bls-fuzz | 1 | 0| 
@@ -119,7 +120,6 @@
 | 20200803T22:58:11Z | Null | https://github.com/fuzzyads/fuzzy-ads-app | 0 | 0| 
 | 20200803T22:25:56Z | Addon for Godot Engine 3.x | https://github.com/fossegutten/FuzzyDisplayTools | 0 | 0| 
 | 20200803T22:21:54Z | This project aims to achieve automated data extraction from dashcam images. | https://github.com/l1nd61am/fuzzy-octo-couscous | 0 | 0| 
-| 20200803T22:11:53Z | A fuzzy parser for C/C++ that creates semantic code property graphs | https://github.com/ShiftLeftSecurity/fuzzyc2cpg | 34 | 11| 
 
 
 
