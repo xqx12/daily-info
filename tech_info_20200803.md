@@ -37,10 +37,10 @@
 | 20200803T18:55:39Z | CVE-2020-13151 | POC for CVE-2020-13151 | https://github.com/b4ny4n/CVE-2020-13151 | 未查询到CVE信息| 
 | 20200803T16:12:57Z | CVE-2020-2551 | weblogic 漏洞扫描工具。目前包含 CVE-2014-4210、CVE-2016-0638、CVE-2016-3510、CVE-2017-3248、CVE-2017-3506、CVE-2017-10271、CVE-2018-2628、CVE-2018-2893、CVE-2018-2894、CVE-2018-3191、CVE-2018-3245、CVE-2018-3252、CVE-2019-2618、CVE-2019-2725、CVE-2019-2729、CVE-2019-2890、CVE-2020-2551 | https://github.com/0xn0ne/weblogicScanner | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
 | 20200803T15:15:09Z | CVE-2020-9934 | CVE-2020–9934 POC | https://github.com/mattshockl/CVE-2020-9934 | 未查询到CVE信息| 
-| 20200803T15:09:40Z | CVE-2020-9495 | Null | https://github.com/ggolawski/CVE-2020-9495 | | 
+| 20200803T15:09:40Z | CVE-2020-9495 | Null | https://github.com/ggolawski/CVE-2020-9495 | 2.2.5之前的Apache Archiva登录服务容易受到LDAP注入的攻击。攻击者可以通过为登录表单提供特殊值来从连接的LDAP服务器检索用户属性数据。使用某些字符，可以修改用于查询LDAP用户的LDAP过滤器。通过测量登录请求的响应时间，可以从LDAP用户对象中检索任意属性数据。| 
 | 20200803T13:28:24Z | CVE-2020-10713 | BootHole vulnerability (CVE-2020-10713). detection script, links and other mitigation related materials | https://github.com/eclypsium/BootHole | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
 | 20200803T12:21:51Z | CVE-2020-3452 | CVE-2020-3452 exploit | https://github.com/tacticalDevC/CVE-2020-3452 | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
-| 20200803T11:13:05Z | CVE-2020-5902 | Exphub[漏洞利用脚本库] 包括Webloigc、Struts2、Tomcat、Nexus、Solr、Jboss、Drupal的漏洞利用脚本，最新添加CVE-2020-5902、CVE-2020-11444、CVE-2020-10204、CVE-2020-10199、CVE-2020-1938、CVE-2020-2551、CVE-2020-2555、CVE-2020-2883、CVE-2019-17558、CVE-2019-6340 | https://github.com/zhzyker/exphub | | 
+| 20200803T11:13:05Z | CVE-2020-5902 | Exphub[漏洞利用脚本库] 包括Webloigc、Struts2、Tomcat、Nexus、Solr、Jboss、Drupal的漏洞利用脚本，最新添加CVE-2020-5902、CVE-2020-11444、CVE-2020-10204、CVE-2020-10199、CVE-2020-1938、CVE-2020-2551、CVE-2020-2555、CVE-2020-2883、CVE-2019-17558、CVE-2019-6340 | https://github.com/zhzyker/exphub | 在BIG-IP版本15.0.0-15.1.0.3、14.1.0-14.1.2.5、13.1.0-13.1.3.3、12.1.0-12.1.5.1和11.6.1-11.6.5.1中，流量管理用户接口（TMUI），也称为“配置”实用程序，在未公开的页面中具有远程执行代码（RCE）漏洞。| 
 | 20200803T11:03:24Z | CVE-2020-3452 | CVE-2020-3452 - directory traversal in Cisco ASA and Cisco Firepower Threat Defense | https://github.com/paran0id34/CVE-2020-3452 | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
 
 
@@ -90,16 +90,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20200803T12:29:44Z | Code repository with customisable Fuzzy Matching scripts in STATA and Python, especially useful when working with datasets containing Hindi text transliterated to English. | https://github.com/IDinsight/hin-fuzzy-merge | 0 | 0| 
-| 20200803T11:54:50Z | Null | https://github.com/s9varesc/url-fuzzing | 0 | 0| 
-| 20200803T11:23:03Z | Tool for findings bugs in epoll-based Linux servers | https://github.com/uNetworking/libEpollFuzzer | 2 | 0| 
-| 20200803T11:15:25Z | 💹 Projeto para Fuzzy Trader desenvolvido em ReactJS | https://github.com/hugo-marcelo/fuzzy-trader-web | 0 | 0| 
-| 20200803T11:06:19Z | Fuzzing the linkers | https://github.com/nikolajsamsonow/ftl | 0 | 0| 
-| 20200803T10:37:11Z | Null | https://github.com/a-cristi/fuzzit-test | 0 | 0| 
-| 20200803T10:34:14Z | Null | https://github.com/WillRoque/simple-fuzzing | 0 | 0| 
-| 20200803T10:19:46Z | Null | https://github.com/wasmx/wasm-fuzzing-corpus | 0 | 0| 
-| 20200803T09:26:30Z | fuzzyjs is a fuzzy search algorithm in javascript | https://github.com/gjuchault/fuzzyjs | 163 | 12| 
-| 20200803T09:05:47Z | hacking tools development. For now it include only a http/https bruteforce. Bruteforce include also a functionality that enable the user to perform fuzzing test on a given target, still in development. | https://github.com/luigi-cavallo/hacktool | 0 | 0| 
+| 20200803T23:47:46Z | Fuzz Implementations of BLS12-381 | https://github.com/kirk-baird/bls-fuzz | 1 | 0| 
+| 20200803T23:25:49Z | FuzzBench - Fuzzer benchmarking as a service. | https://github.com/google/fuzzbench | 493 | 70| 
+| 20200803T23:13:42Z | This Api makes executes inferences by fuzzy logic concept on Plain Old CLR Object associating an predicate defined in .NET native object called %Expression% | https://github.com/antonio-leonardo/FuzzyLogicApi | 6 | 1| 
+| 20200803T23:03:46Z | Rede Neural Implementada para o TCC. | https://github.com/feernando998/RNA-ARTMap-Fuzzy | 0 | 0| 
+| 20200803T22:58:11Z | Null | https://github.com/fuzzyads/fuzzy-ads-app | 0 | 0| 
+| 20200803T22:25:56Z | Addon for Godot Engine 3.x | https://github.com/fossegutten/FuzzyDisplayTools | 0 | 0| 
+| 20200803T22:21:54Z | This project aims to achieve automated data extraction from dashcam images. | https://github.com/l1nd61am/fuzzy-octo-couscous | 0 | 0| 
+| 20200803T22:11:53Z | A fuzzy parser for C/C++ that creates semantic code property graphs | https://github.com/ShiftLeftSecurity/fuzzyc2cpg | 34 | 11| 
+| 20200803T21:54:42Z | Fuzzing the linkers | https://github.com/nikolajsamsonow/ftl | 0 | 0| 
+| 20200803T21:47:03Z | Scalable fuzzing infrastructure. | https://github.com/google/clusterfuzz | 4288 | 384| 
 
 
 
