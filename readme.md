@@ -33,17 +33,21 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20200803T22:12:41Z | CVE-2020-1313 | Proof of concept exploit of Windows Update Orchestrator Service Elevation of Privilege Vulnerability | https://github.com/irsl/CVE-2020-1313 | 当Windows Update Orchestrator服务不正确地处理文件操作（也称为“ Windows Update Orchestrator服务特权提升漏洞”）时，存在特权提升漏洞。| 
+| 20200803T18:55:39Z | CVE-2020-13151 | POC for CVE-2020-13151 | https://github.com/b4ny4n/CVE-2020-13151 | 未查询到CVE信息| 
+| 20200803T16:12:57Z | CVE-2020-2551 | weblogic 漏洞扫描工具。目前包含 CVE-2014-4210、CVE-2016-0638、CVE-2016-3510、CVE-2017-3248、CVE-2017-3506、CVE-2017-10271、CVE-2018-2628、CVE-2018-2893、CVE-2018-2894、CVE-2018-3191、CVE-2018-3245、CVE-2018-3252、CVE-2019-2618、CVE-2019-2725、CVE-2019-2729、CVE-2019-2890、CVE-2020-2551 | https://github.com/0xn0ne/weblogicScanner | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
+| 20200803T15:15:09Z | CVE-2020-9934 | CVE-2020–9934 POC | https://github.com/mattshockl/CVE-2020-9934 | 未查询到CVE信息| 
+| 20200803T15:09:40Z | CVE-2020-9495 | Null | https://github.com/ggolawski/CVE-2020-9495 | | 
+| 20200803T13:28:24Z | CVE-2020-10713 | BootHole vulnerability (CVE-2020-10713). detection script, links and other mitigation related materials | https://github.com/eclypsium/BootHole | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
 | 20200803T12:21:51Z | CVE-2020-3452 | CVE-2020-3452 exploit | https://github.com/tacticalDevC/CVE-2020-3452 | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
-| 20200803T12:21:25Z | CVE-2020-1313 | Proof of concept exploit of Windows Update Orchestrator Service Elevation of Privilege Vulnerability | https://github.com/irsl/CVE-2020-1313 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 00 MINUTES 09 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200803T11:13:05Z | CVE-2020-5902 | Exphub[漏洞利用脚本库] 包括Webloigc、Struts2、Tomcat、Nexus、Solr、Jboss、Drupal的漏洞利用脚本，最新添加CVE-2020-5902、CVE-2020-11444、CVE-2020-10204、CVE-2020-10199、CVE-2020-1938、CVE-2020-2551、CVE-2020-2555、CVE-2020-2883、CVE-2019-17558、CVE-2019-6340 | https://github.com/zhzyker/exphub | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 00 MINUTES 01 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200803T11:13:05Z | CVE-2020-5902 | Exphub[漏洞利用脚本库] 包括Webloigc、Struts2、Tomcat、Nexus、Solr、Jboss、Drupal的漏洞利用脚本，最新添加CVE-2020-5902、CVE-2020-11444、CVE-2020-10204、CVE-2020-10199、CVE-2020-1938、CVE-2020-2551、CVE-2020-2555、CVE-2020-2883、CVE-2019-17558、CVE-2019-6340 | https://github.com/zhzyker/exphub | 在BIG-IP版本15.0.0-15.1.0.3、14.1.0-14.1.2.5、13.1.0-13.1.3.3、12.1.0-12.1.5.1和11.6.1-11.6.5.1中，流量管理用户接口（TMUI），也称为“配置”实用程序，在未公开的页面中具有远程执行代码（RCE）漏洞。| 
 | 20200803T11:03:24Z | CVE-2020-3452 | CVE-2020-3452 - directory traversal in Cisco ASA and Cisco Firepower Threat Defense | https://github.com/paran0id34/CVE-2020-3452 | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
-| 20200803T08:22:27Z | CVE-2020-2551 | weblogic 漏洞扫描工具。目前包含 CVE-2014-4210、CVE-2016-0638、CVE-2016-3510、CVE-2017-3248、CVE-2017-3506、CVE-2017-10271、CVE-2018-2628、CVE-2018-2893、CVE-2018-2894、CVE-2018-3191、CVE-2018-3245、CVE-2018-3252、CVE-2019-2618、CVE-2019-2725、CVE-2019-2729、CVE-2019-2890、CVE-2020-2551 | https://github.com/0xn0ne/weblogicScanner | | 
-| 20200803T05:57:44Z | CVE-2020-9934 | CVE-2020–9934 POC | https://github.com/mattshockl/CVE-2020-9934 | 未查询到CVE信息| 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20200803T17:37:11Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1451 | 444| 
 | 20200803T05:09:39Z | kleene is a library for building regular expression recognition automata - nfas, dfas, and some specialty structures. | https://github.com/davidkellis/kleene | 0 | 0| 
 
 
@@ -56,16 +60,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20200803T12:59:06Z | More Stable Offline Exploit version of PS4 6.72 Jailbreak. | https://github.com/DarkModderVC/PS4JB | 48 | 18| 
-| 20200803T12:58:55Z | Hypervisor Memory Introspection Core Library | https://github.com/hvmi/hvmi | 312 | 19| 
-| 20200803T12:55:36Z | Exploit developers | https://github.com/NemsploitsTM/Nem-AtKn-SPloits_TM | 0 | 0| 
-| 20200803T12:51:13Z | The official Exploit Database repository | https://github.com/offensive-security/exploitdb | 5431 | 1562| 
-| 20200803T12:43:02Z |   Qui utilise quel service ? Quand ? À quel rythme ? L’intérêt des indicateurs mis en place par l’atelier est de mieux connaitre l’usage des différents services qui sont déployés dans les établissements et par le fait de mieux en organiser l’accès et de les faire évoluer. Aujourd’hui, l’objectif est d’harmoniser ces indicateurs pour pouvoir les exploiter à des échelles régionales et nationales. | https://github.com/EsupPortail/agimus-ng | 7 | 4| 
-| 20200803T12:42:42Z | Self chatching ps4 exploit | https://github.com/maich557/ps4exploit.github.io | 0 | 0| 
-| 20200803T12:35:14Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 6784 | 1079| 
-| 20200803T12:29:25Z | Development of code to exploit LSST and VISTA imaging | https://github.com/lsst-uk/lsst-ir-fusion | 0 | 0| 
-| 20200803T12:20:30Z | The Browser Exploitation Framework Project | https://github.com/beefproject/beef | 5183 | 1250| 
-| 20200803T11:44:40Z | ObeyExploitV1.07 | https://github.com/Obey7/ObeyExploitV1.07 | 0 | 0| 
+| 20200803T23:43:13Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 6789 | 1080| 
+| 20200803T23:29:01Z | Golang Implant & Post-Exploitation Framework | https://github.com/maxlandon/wiregost | 26 | 4| 
+| 20200803T23:24:22Z | ####################################  #creator : H4CK1R                  # #Country : iran                    # #channel : https://t.me/ExploitTM  # #Team : ExploitTM Ddoser           # ####################################  you can attack on web sites by use this tool   ################################# # This a powerfull web attacker # #################################  for useing please followe this commands :  1 : cd Exploit-TM-Web-DDOSER  2 : python Exploit-TM-Web-DDOSER  3 : Enter your target IP  4 : Enter your target port  5 : Enjoy ;] and join us in telegram ==>> https://t.me/ExploitTM  | https://github.com/ExploitTM/Exploit-TM-Web-Ddoser | 0 | 0| 
+| 20200803T23:22:43Z | A cheat sheet that contains common enumeration and attack methods for Windows Active Directory. | https://github.com/S1ckB0y1337/Active-Directory-Exploitation-Cheat-Sheet | 629 | 172| 
+| 20200803T23:02:55Z | *Frequently Updated. Sifter is a osint, recon & vulnerability scanner. It combines a plethara of tools within different module sets in order to quickly perform recon tasks, check network firewalling, enumerate remote and local hosts, and scan for the %blue% vulnerabilities within microsft and if unpatched, exploit them.  It uses tools like blackwidow and konan for webdir enumeration and attack surface mapping rapidly using ASM.  | https://github.com/s1l3nt78/sifter | 208 | 70| 
+| 20200803T23:00:57Z | A silly visual script that exploits git%s ability to accept commits in the past written by Andrei Neagoie. | https://github.com/SLeeKinchen/Gitfiti | 0 | 0| 
+| 20200803T22:54:25Z | A ton of roblox scripts | https://github.com/BlaNKtext/Roblox-Exploits | 0 | 0| 
+| 20200803T22:17:53Z | Java DNS Post Exploitation Tool | https://github.com/kryptops/lycanthropy | 0 | 0| 
+| 20200803T22:10:07Z | Null | https://github.com/4m0r/exploits-and-stuff | 0 | 0| 
+| 20200803T20:40:38Z | Null | https://github.com/sepehrdaddev/packetstorm-exploits | 1 | 2| 
 
 
 # backdoor on Github 推荐
