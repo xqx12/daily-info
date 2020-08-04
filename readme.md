@@ -33,14 +33,14 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20200803T22:12:41Z | CVE-2020-1313 | Proof of concept exploit of Windows Update Orchestrator Service Elevation of Privilege Vulnerability | https://github.com/irsl/CVE-2020-1313 | | 
+| 20200803T22:12:41Z | CVE-2020-1313 | Proof of concept exploit of Windows Update Orchestrator Service Elevation of Privilege Vulnerability | https://github.com/irsl/CVE-2020-1313 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 22 MINUTES 08 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20200803T18:55:39Z | CVE-2020-13151 | POC for CVE-2020-13151 | https://github.com/b4ny4n/CVE-2020-13151 | 未查询到CVE信息| 
 | 20200803T16:12:57Z | CVE-2020-2551 | weblogic 漏洞扫描工具。目前包含 CVE-2014-4210、CVE-2016-0638、CVE-2016-3510、CVE-2017-3248、CVE-2017-3506、CVE-2017-10271、CVE-2018-2628、CVE-2018-2893、CVE-2018-2894、CVE-2018-3191、CVE-2018-3245、CVE-2018-3252、CVE-2019-2618、CVE-2019-2725、CVE-2019-2729、CVE-2019-2890、CVE-2020-2551 | https://github.com/0xn0ne/weblogicScanner | | 
 | 20200803T15:15:09Z | CVE-2020-9934 | CVE-2020–9934 POC | https://github.com/mattshockl/CVE-2020-9934 | 未查询到CVE信息| 
-| 20200803T15:09:40Z | CVE-2020-9495 | Null | https://github.com/ggolawski/CVE-2020-9495 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 23 MINUTES 16 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200803T15:09:40Z | CVE-2020-9495 | Null | https://github.com/ggolawski/CVE-2020-9495 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 21 MINUTES 15 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20200803T13:28:24Z | CVE-2020-10713 | BootHole vulnerability (CVE-2020-10713). detection script, links and other mitigation related materials | https://github.com/eclypsium/BootHole | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
 | 20200803T12:21:51Z | CVE-2020-3452 | CVE-2020-3452 exploit | https://github.com/tacticalDevC/CVE-2020-3452 | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
-| 20200803T11:13:05Z | CVE-2020-5902 | Exphub[漏洞利用脚本库] 包括Webloigc、Struts2、Tomcat、Nexus、Solr、Jboss、Drupal的漏洞利用脚本，最新添加CVE-2020-5902、CVE-2020-11444、CVE-2020-10204、CVE-2020-10199、CVE-2020-1938、CVE-2020-2551、CVE-2020-2555、CVE-2020-2883、CVE-2019-17558、CVE-2019-6340 | https://github.com/zhzyker/exphub | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 23 MINUTES 04 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200803T11:13:05Z | CVE-2020-5902 | Exphub[漏洞利用脚本库] 包括Webloigc、Struts2、Tomcat、Nexus、Solr、Jboss、Drupal的漏洞利用脚本，最新添加CVE-2020-5902、CVE-2020-11444、CVE-2020-10204、CVE-2020-10199、CVE-2020-1938、CVE-2020-2551、CVE-2020-2555、CVE-2020-2883、CVE-2019-17558、CVE-2019-6340 | https://github.com/zhzyker/exphub | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 21 MINUTES 58 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20200803T11:03:24Z | CVE-2020-3452 | CVE-2020-3452 - directory traversal in Cisco ASA and Cisco Firepower Threat Defense | https://github.com/paran0id34/CVE-2020-3452 | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
 
 
@@ -63,13 +63,13 @@
 | 20200803T23:43:13Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 6789 | 1080| 
 | 20200803T23:29:01Z | Golang Implant & Post-Exploitation Framework | https://github.com/maxlandon/wiregost | 26 | 4| 
 | 20200803T23:24:22Z | ####################################  #creator : H4CK1R                  # #Country : iran                    # #channel : https://t.me/ExploitTM  # #Team : ExploitTM Ddoser           # ####################################  you can attack on web sites by use this tool   ################################# # This a powerfull web attacker # #################################  for useing please followe this commands :  1 : cd Exploit-TM-Web-DDOSER  2 : python Exploit-TM-Web-DDOSER  3 : Enter your target IP  4 : Enter your target port  5 : Enjoy ;] and join us in telegram ==>> https://t.me/ExploitTM  | https://github.com/ExploitTM/Exploit-TM-Web-Ddoser | 0 | 0| 
-| 20200803T23:22:43Z | A cheat sheet that contains common enumeration and attack methods for Windows Active Directory. | https://github.com/S1ckB0y1337/Active-Directory-Exploitation-Cheat-Sheet | 629 | 172| 
 | 20200803T22:54:25Z | A ton of roblox scripts | https://github.com/BlaNKtext/Roblox-Exploits | 0 | 0| 
 | 20200803T22:17:53Z | Java DNS Post Exploitation Tool | https://github.com/kryptops/lycanthropy | 0 | 0| 
 | 20200803T22:10:07Z | Null | https://github.com/4m0r/exploits-and-stuff | 0 | 0| 
 | 20200803T20:40:38Z | Null | https://github.com/sepehrdaddev/packetstorm-exploits | 1 | 2| 
 | 20200803T20:08:09Z | Just a nice Roblox GUI for exploits | https://github.com/GamerBoi153/Just-Some-Scripts | 0 | 0| 
 | 20200803T18:56:56Z | A series of CTF challenge solutions for binary exploitation (or pwn) and reverse engineering (or rev) challenges | https://github.com/docfate111/binary-exploitation-solution-scripts | 0 | 0| 
+| 20200803T18:29:16Z | On-line Trading of Exploration and Exploitation 2011 Proceedings | https://github.com/mlresearch/v26 | 0 | 0| 
 
 
 # backdoor on Github 推荐
