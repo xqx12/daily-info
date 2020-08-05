@@ -41,7 +41,7 @@
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
 | 20200804T23:28:15Z | CVE-2020-10713 | BootHole vulnerability (CVE-2020-10713). detection script, links and other mitigation related materials | https://github.com/eclypsium/BootHole | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
-| 20200804T20:20:30Z | CVE-2020-8816 | Pi-hole Remote Code Execution authenticated Version >= 4.3.2 | https://github.com/cybervaca/CVE-2020-8816 | Pi-hole Web v4.3.2（aka AdminLTE）允许特权仪表板用户通过精心设计的DHCP静态租约进行远程代码执行。| 
+| 20200804T20:20:30Z | CVE-2020-8816 | Pi-hole Remote Code Execution authenticated Version >= 4.3.2 | https://github.com/cybervaca/CVE-2020-8816 | | 
 | 20200804T20:14:56Z | CVE-2020-13886 | Exploit CVE-2020-13886 - LFI Intelbras TIP 200 / 200 LITE /  | https://github.com/lucxssouza/CVE-2020-13886 | 未查询到CVE信息| 
 | 20200804T17:40:42Z | cve-2020-15956 | CVE things | https://github.com/megamagnus/cve-2020-15956 | ACTi NVR3 标准服务器 3.0.12.42 中的 ActiveMediaServer.exe 允许远程未经身份验证的攻击者通过格式错误的有效负载触发缓冲区溢出和应用程序终止。| 
 | 20200804T15:55:37Z | 未知编号 | Null | https://github.com/wdahlenburg/cve_2020_14645 | 未查询到CVE信息| 
@@ -107,11 +107,11 @@
 | 20200804T23:28:04Z | Security oriented software fuzzer. Supports evolutionary, feedback-driven fuzzing based on code coverage (SW and HW based) | https://github.com/google/honggfuzz | 1959 | 409| 
 | 20200804T22:58:31Z | FuzzBench - Fuzzer benchmarking as a service. | https://github.com/google/fuzzbench | 494 | 70| 
 | 20200804T22:43:28Z | Fuzz testing for go. | https://github.com/google/gofuzz | 824 | 78| 
-| 20200804T22:24:48Z | VMI Kernel Fuzzer for Xen Project - VM forking, VMI & AFL integration demo | https://github.com/intel/kernel-fuzzer-for-xen-project | 150 | 23| 
 | 20200804T22:22:57Z | Scalable fuzzing infrastructure. | https://github.com/google/clusterfuzz | 4290 | 384| 
 | 20200804T22:22:29Z | A cross-platform browser fuzzing framework | https://github.com/MozillaSecurity/grizzly | 208 | 27| 
 | 20200804T22:15:06Z | Working BlockFuzz App | https://github.com/BadProfessor/BlockFuzz | 0 | 0| 
 | 20200804T22:03:14Z | Null | https://github.com/CaptnBigShot/FuzzyDateHelper | 0 | 0| 
+| 20200804T21:50:55Z | Compare performance of fuzzy vs. discrete haplotyping models. | https://github.com/bsmith89/fuzzy-haplo-model | 0 | 0| 
 
 
 
