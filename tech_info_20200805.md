@@ -94,7 +94,6 @@
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
 | 20200805T23:36:52Z | OSS-Fuzz - continuous fuzzing of open source software. | https://github.com/google/oss-fuzz | 5447 | 1066| 
-| 20200805T23:25:54Z | A python implementation of the Fuzzy Connectedness Segmentation algorithm | https://github.com/flsantos/fuzzy_connectedness_python | 0 | 0| 
 | 20200805T23:15:54Z | Null | https://github.com/fuzzyads/fuzzy-ads-app | 0 | 0| 
 | 20200805T23:03:08Z | Scalable fuzzing infrastructure. | https://github.com/google/clusterfuzz | 4290 | 384| 
 | 20200805T22:58:34Z | Working BlockFuzz App | https://github.com/BadProfessor/BlockFuzz | 0 | 0| 
@@ -103,6 +102,7 @@
 | 20200805T21:46:44Z | A functional model of symbolic testing for differential privacy | https://github.com/hengchu/fuzzi-model | 1 | 0| 
 | 20200805T21:41:06Z | american fuzzy lop - a security-oriented fuzzer | https://github.com/google/AFL | 1298 | 214| 
 | 20200805T21:20:31Z | Bazel Starlark extensions for defining fuzz tests in Bazel projects | https://github.com/googleinterns/bazel-rules-fuzzing | 2 | 1| 
+| 20200805T21:11:21Z | Null | https://github.com/r-2007/Fuzzing-DTLS | 0 | 0| 
 
 
 

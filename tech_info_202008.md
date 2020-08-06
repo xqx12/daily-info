@@ -54,7 +54,7 @@
 | 20200805T03:52:01Z | CVE-2020-2551 | weblogic 漏洞扫描工具。目前包含 CVE-2014-4210、CVE-2016-0638、CVE-2016-3510、CVE-2017-3248、CVE-2017-3506、CVE-2017-10271、CVE-2018-2628、CVE-2018-2893、CVE-2018-2894、CVE-2018-3191、CVE-2018-3245、CVE-2018-3252、CVE-2019-2618、CVE-2019-2725、CVE-2019-2729、CVE-2019-2890、CVE-2020-2551 | https://github.com/0xn0ne/weblogicScanner | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
 | 20200805T03:46:04Z | CVE-2020-0108 | PoC of CVE-2020-0108 | https://github.com/wrlu/ServiceCheater | 未查询到CVE信息| 
 | 20200804T20:14:56Z | CVE-2020-13886 | Exploit CVE-2020-13886 - LFI Intelbras TIP 200 / 200 LITE /  | https://github.com/lucxssouza/CVE-2020-13886 | 未查询到CVE信息| 
-| 20200804T17:40:42Z | cve-2020-15956 | CVE things | https://github.com/megamagnus/cve-2020-15956 | ACTi NVR3 标准服务器 3.0.12.42 中的 ActiveMediaServer.exe 允许远程未经身份验证的攻击者通过格式错误的有效负载触发缓冲区溢出和应用程序终止。| 
+| 20200804T17:40:42Z | cve-2020-15956 | CVE things | https://github.com/megamagnus/cve-2020-15956 | | 
 | 20200804T15:55:37Z | 未知编号 | Null | https://github.com/wdahlenburg/cve_2020_14645 | 未查询到CVE信息| 
 
 
@@ -113,8 +113,8 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20200806T00:04:10Z | A python implementation of the Fuzzy Connectedness Segmentation algorithm | https://github.com/flsantos/fuzzy_connectedness_python | 1 | 0| 
 | 20200805T23:36:52Z | OSS-Fuzz - continuous fuzzing of open source software. | https://github.com/google/oss-fuzz | 5447 | 1066| 
-| 20200805T23:25:54Z | A python implementation of the Fuzzy Connectedness Segmentation algorithm | https://github.com/flsantos/fuzzy_connectedness_python | 0 | 0| 
 | 20200805T23:15:54Z | Null | https://github.com/fuzzyads/fuzzy-ads-app | 0 | 0| 
 | 20200805T23:03:08Z | Scalable fuzzing infrastructure. | https://github.com/google/clusterfuzz | 4290 | 384| 
 | 20200805T22:58:34Z | Working BlockFuzz App | https://github.com/BadProfessor/BlockFuzz | 0 | 0| 
