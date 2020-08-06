@@ -67,6 +67,10 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20200806T12:02:00Z | Arcane is a simple script designed to backdoor iOS packages (iphone-arm) and create the necessary resources for APT repositories. | https://github.com/tokyoneon/Arcane | 24 | 2| 
+| 20200806T10:11:43Z | FUD cross-platform python2 backdoor | https://github.com/7h3w4lk3r/pyback | 9 | 4| 
+| 20200806T07:59:03Z | A complete new rewrite to ABS, my Garry%s Mod Backdoor scanner & finder. with further optimizations, and better coding practices. (old project is a complte mess) | https://github.com/AragonArts/UltimateFileScanner | 0 | 0| 
+| 20200806T04:30:28Z | 👨🏻‍💻 A great tool for Ethical Hackers, a malware programmed with Backdoor and Keylogger using C Language .  | https://github.com/avinashkranjan/Malware-with-Backdoor-and-Keylogger | 4 | 1| 
 | 20200806T01:37:24Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 37 | 4| 
 
 
