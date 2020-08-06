@@ -38,7 +38,7 @@
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
 | 20200805T22:38:55Z | CVE-2020-8816 | Pi-hole Remote Code Execution authenticated Version >= 4.3.2 | https://github.com/cybervaca/CVE-2020-8816 | Pi-hole Web v4.3.2（aka AdminLTE）允许特权仪表板用户通过精心设计的DHCP静态租约进行远程代码执行。| 
-| 20200805T19:38:15Z | CVE-2020-5902 | Exphub[漏洞利用脚本库] 包括Webloigc、Struts2、Tomcat、Nexus、Solr、Jboss、Drupal的漏洞利用脚本，最新添加CVE-2020-5902、CVE-2020-11444、CVE-2020-10204、CVE-2020-10199、CVE-2020-1938、CVE-2020-2551、CVE-2020-2555、CVE-2020-2883、CVE-2019-17558、CVE-2019-6340 | https://github.com/zhzyker/exphub | | 
+| 20200805T19:38:15Z | CVE-2020-5902 | Exphub[漏洞利用脚本库] 包括Webloigc、Struts2、Tomcat、Nexus、Solr、Jboss、Drupal的漏洞利用脚本，最新添加CVE-2020-5902、CVE-2020-11444、CVE-2020-10204、CVE-2020-10199、CVE-2020-1938、CVE-2020-2551、CVE-2020-2555、CVE-2020-2883、CVE-2019-17558、CVE-2019-6340 | https://github.com/zhzyker/exphub | 在BIG-IP版本15.0.0-15.1.0.3、14.1.0-14.1.2.5、13.1.0-13.1.3.3、12.1.0-12.1.5.1和11.6.1-11.6.5.1中，流量管理用户接口（TMUI），也称为“配置”实用程序，在未公开的页面中具有远程执行代码（RCE）漏洞。| 
 | 20200805T17:42:36Z | CVE-2020- | Null | https://github.com/Revanthinfosec/CVE-2020-BIG-IP | 未查询到CVE信息| 
 | 20200805T16:58:08Z | CVE-2020-10713 | BootHole vulnerability (CVE-2020-10713). detection script, links and other mitigation related materials | https://github.com/eclypsium/BootHole | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
 | 20200805T05:39:46Z | CVE-2020-1313 | Proof of concept exploit of Windows Update Orchestrator Service Elevation of Privilege Vulnerability | https://github.com/irsl/CVE-2020-1313 | 当Windows Update Orchestrator服务不正确地处理文件操作（也称为“ Windows Update Orchestrator服务特权提升漏洞”）时，存在特权提升漏洞。| 
@@ -78,12 +78,15 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20200805T21:07:39Z | Arcane is a simple script designed to backdoor iOS packages (iphone-arm) and create the necessary resources for APT repositories. | https://github.com/tokyoneon/Arcane | 21 | 2| 
+| 20200805T19:43:02Z | Rusty backdoor+spyware :bomb: :door: | https://github.com/talbor49/spyware | 8 | 0| 
+| 20200805T18:27:33Z | Command-line tool for backdoor exploitation. | https://github.com/tz4678/backshell | 1 | 0| 
+| 20200805T16:23:04Z | Mnggal is a ruby ​​backdoor. The challenge was to %learn% the ruby ​​in 1 day and then do the backdoor. | https://github.com/3x1t1um/Ruby-Backdoor | 0 | 0| 
+| 20200805T15:13:24Z | Null | https://github.com/sinlee1/CS_Backdoor | 0 | 0| 
 | 20200805T12:34:36Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 36 | 4| 
 | 20200805T12:21:43Z | retard | https://github.com/Apmunute/backdoor-for-retard | 0 | 0| 
-| 20200805T12:09:30Z | Arcane is a simple script designed to backdoor iOS packages (iphone-arm) and create the necessary resources for APT repositories. | https://github.com/tokyoneon/Arcane | 18 | 1| 
-| 20200805T11:12:40Z | Command-line tool for backdoor exploitation. | https://github.com/tz4678/backshell | 1 | 0| 
 | 20200805T08:13:10Z | Null | https://github.com/dheeraj7596/NlpBackdoor | 0 | 0| 
-| 20200805T07:08:48Z | 👨🏻‍💻 A great tool for Ethical Hackers, a malware programmed with Backdoor and Keylogger using C Language .  | https://github.com/avinashkranjan/Malware-with-Backdoor-and-Keylogger | 3 | 0| 
+| 20200805T07:08:48Z | 👨🏻‍💻 A great tool for Ethical Hackers, a malware programmed with Backdoor and Keylogger using C Language .  | https://github.com/avinashkranjan/Malware-with-Backdoor-and-Keylogger | 3 | 1| 
 | 20200805T05:26:09Z | Null | https://github.com/evi1ox/MSSQL_BackDoor | 98 | 21| 
 
 
