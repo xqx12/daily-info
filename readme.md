@@ -40,7 +40,7 @@
 | 20200805T22:38:55Z | CVE-2020-8816 | Pi-hole Remote Code Execution authenticated Version >= 4.3.2 | https://github.com/cybervaca/CVE-2020-8816 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 55 MINUTES 38 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20200805T17:42:36Z | CVE-2020- | Null | https://github.com/Revanthinfosec/CVE-2020-BIG-IP | 未查询到CVE信息| 
 | 20200805T16:58:08Z | CVE-2020-10713 | BootHole vulnerability (CVE-2020-10713). detection script, links and other mitigation related materials | https://github.com/eclypsium/BootHole | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
-| 20200805T05:39:46Z | CVE-2020-1313 | Proof of concept exploit of Windows Update Orchestrator Service Elevation of Privilege Vulnerability | https://github.com/irsl/CVE-2020-1313 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 56 MINUTES 29 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200805T05:39:46Z | CVE-2020-1313 | Proof of concept exploit of Windows Update Orchestrator Service Elevation of Privilege Vulnerability | https://github.com/irsl/CVE-2020-1313 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 55 MINUTES 30 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20200805T03:52:01Z | CVE-2020-2551 | weblogic 漏洞扫描工具。目前包含 CVE-2014-4210、CVE-2016-0638、CVE-2016-3510、CVE-2017-3248、CVE-2017-3506、CVE-2017-10271、CVE-2018-2628、CVE-2018-2893、CVE-2018-2894、CVE-2018-3191、CVE-2018-3245、CVE-2018-3252、CVE-2019-2618、CVE-2019-2725、CVE-2019-2729、CVE-2019-2890、CVE-2020-2551 | https://github.com/0xn0ne/weblogicScanner | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
 | 20200805T03:46:04Z | CVE-2020-0108 | PoC of CVE-2020-0108 | https://github.com/wrlu/ServiceCheater | 未查询到CVE信息| 
 
@@ -66,12 +66,12 @@
 | 20200805T23:13:47Z | Aktaion is a machine learning open source & active defense (orchestration) prototype. The tool focuses on the detection of exploits based on machine learning techniques, independent of static-based signatures. | https://github.com/jzadeh/aktaion2 | 24 | 12| 
 | 20200805T23:10:44Z | *Frequently Updated. Sifter is a osint, recon & vulnerability scanner. It combines a plethara of tools within different module sets in order to quickly perform recon tasks, check network firewalling, enumerate remote and local hosts, and scan for the %blue% vulnerabilities within microsft and if unpatched, exploit them.  It uses tools like blackwidow and konan for webdir enumeration and attack surface mapping rapidly using ASM.  | https://github.com/s1l3nt78/sifter | 212 | 71| 
 | 20200805T23:09:19Z | anti-exploit lua fly,speed and jump | https://github.com/zxtDaring123/anti-exploit-in-lua | 0 | 0| 
-| 20200805T23:00:57Z | Offensive Software Exploitation Course | https://github.com/ashemery/exploitation-course | 9 | 3| 
 | 20200805T22:57:34Z | Old version of brute forcing program used to exploit a vulnerability in OSX 10.6 Snow Leopard to gain admin access on any account. | https://github.com/LampSteven17/AppleSnowLeopard---Firmware-Technique | 0 | 0| 
 | 20200805T21:44:20Z | Null | https://github.com/Artem-Malyi/binary-exploitation | 0 | 0| 
 | 20200805T21:42:25Z | Tools for exploiting ARIA standard products | https://github.com/aria-tools/ARIA-tools | 27 | 16| 
 | 20200805T21:41:16Z | Just a simple Roblox exploit I made using the WeAreDevs API so I could learn some C#. | https://github.com/ZipZap44/robloxploit | 0 | 0| 
 | 20200805T21:38:19Z | Null | https://github.com/Unknown482/RobloxExploits | 0 | 0| 
+| 20200805T20:55:02Z | A phased, evasive Path Traversal + LFI scanning & exploitation tool in Python | https://github.com/VainlyStrain/Vailyn | 13 | 0| 
 
 
 # backdoor on Github 推荐
