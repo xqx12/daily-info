@@ -46,15 +46,15 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20200806T01:48:48Z | CVE-2020-5902 | Exphub[漏洞利用脚本库] 包括Webloigc、Struts2、Tomcat、Nexus、Solr、Jboss、Drupal的漏洞利用脚本，最新添加CVE-2020-5902、CVE-2020-11444、CVE-2020-10204、CVE-2020-10199、CVE-2020-1938、CVE-2020-2551、CVE-2020-2555、CVE-2020-2883、CVE-2019-17558、CVE-2019-6340 | https://github.com/zhzyker/exphub | | 
-| 20200805T22:38:55Z | CVE-2020-8816 | Pi-hole Remote Code Execution authenticated Version >= 4.3.2 | https://github.com/cybervaca/CVE-2020-8816 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 07 MINUTES 39 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200806T01:48:48Z | CVE-2020-5902 | Exphub[漏洞利用脚本库] 包括Webloigc、Struts2、Tomcat、Nexus、Solr、Jboss、Drupal的漏洞利用脚本，最新添加CVE-2020-5902、CVE-2020-11444、CVE-2020-10204、CVE-2020-10199、CVE-2020-1938、CVE-2020-2551、CVE-2020-2555、CVE-2020-2883、CVE-2019-17558、CVE-2019-6340 | https://github.com/zhzyker/exphub | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 06 MINUTES 21 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200805T22:38:55Z | CVE-2020-8816 | Pi-hole Remote Code Execution authenticated Version >= 4.3.2 | https://github.com/cybervaca/CVE-2020-8816 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 05 MINUTES 39 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20200805T17:42:36Z | CVE-2020- | Null | https://github.com/Revanthinfosec/CVE-2020-BIG-IP | 未查询到CVE信息| 
 | 20200805T16:58:08Z | CVE-2020-10713 | BootHole vulnerability (CVE-2020-10713). detection script, links and other mitigation related materials | https://github.com/eclypsium/BootHole | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
-| 20200805T05:39:46Z | CVE-2020-1313 | Proof of concept exploit of Windows Update Orchestrator Service Elevation of Privilege Vulnerability | https://github.com/irsl/CVE-2020-1313 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 07 MINUTES 29 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200805T05:39:46Z | CVE-2020-1313 | Proof of concept exploit of Windows Update Orchestrator Service Elevation of Privilege Vulnerability | https://github.com/irsl/CVE-2020-1313 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 06 MINUTES 27 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20200805T03:52:01Z | CVE-2020-2551 | weblogic 漏洞扫描工具。目前包含 CVE-2014-4210、CVE-2016-0638、CVE-2016-3510、CVE-2017-3248、CVE-2017-3506、CVE-2017-10271、CVE-2018-2628、CVE-2018-2893、CVE-2018-2894、CVE-2018-3191、CVE-2018-3245、CVE-2018-3252、CVE-2019-2618、CVE-2019-2725、CVE-2019-2729、CVE-2019-2890、CVE-2020-2551 | https://github.com/0xn0ne/weblogicScanner | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
 | 20200805T03:46:04Z | CVE-2020-0108 | PoC of CVE-2020-0108 | https://github.com/wrlu/ServiceCheater | 未查询到CVE信息| 
 | 20200804T20:14:56Z | CVE-2020-13886 | Exploit CVE-2020-13886 - LFI Intelbras TIP 200 / 200 LITE /  | https://github.com/lucxssouza/CVE-2020-13886 | 未查询到CVE信息| 
-| 20200804T17:40:42Z | cve-2020-15956 | CVE things | https://github.com/megamagnus/cve-2020-15956 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 07 MINUTES 38 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200804T17:40:42Z | cve-2020-15956 | CVE things | https://github.com/megamagnus/cve-2020-15956 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 05 MINUTES 38 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20200804T15:55:37Z | 未知编号 | Null | https://github.com/wdahlenburg/cve_2020_14645 | 未查询到CVE信息| 
 
 
@@ -83,7 +83,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20200806T01:48:58Z | Soluciones a ejercicios de exploiting básicos en proceso de aprendizaje  | https://github.com/MatiaCornejo/Ejercicios-Exploiting | 0 | 0| 
+| 20200806T01:51:05Z | Soluciones a ejercicios de exploiting básicos en proceso de aprendizaje  | https://github.com/MatiaCornejo/Ejercicios-Exploiting | 0 | 0| 
 | 20200806T01:23:47Z | Q. Yao, H. Yang, B. Han, G. Niu, J. Kwok. Searching to Exploit Memorization Effect in Learning from Noisy Labels. International Conference on Machine Learning (ICML) 2020 | https://github.com/AutoML-4Paradigm/S2E | 9 | 1| 
 | 20200806T01:04:33Z | Offensive Software Exploitation Course | https://github.com/ashemery/exploitation-course | 10 | 3| 
 | 20200806T00:47:50Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 2 | 1| 
@@ -113,6 +113,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20200806T01:53:39Z | Hasil Kelompok 5 : | https://github.com/03Ramadhanty/Rekomendasi-Pemilihan-Laptop-Berbasis-Web-Menggunakan-Metode-Fuzzy-Kelompok-5---Proyek-Kekhususan | 0 | 0| 
 | 20200806T01:45:17Z | OSS-Fuzz - continuous fuzzing of open source software. | https://github.com/google/oss-fuzz | 5447 | 1066| 
 | 20200806T01:28:31Z | 🎲Utilities for fuzzing | https://github.com/garbles/fuzz-utils | 1 | 0| 
 | 20200806T01:09:56Z | Files used on Fuzzy Systems discipline. | https://github.com/marciorasf/fuzzy-systems | 0 | 0| 
@@ -122,7 +123,6 @@
 | 20200806T00:04:10Z | A python implementation of the Fuzzy Connectedness Segmentation algorithm | https://github.com/flsantos/fuzzy_connectedness_python | 1 | 0| 
 | 20200805T23:15:54Z | Null | https://github.com/fuzzyads/fuzzy-ads-app | 0 | 0| 
 | 20200805T23:03:08Z | Scalable fuzzing infrastructure. | https://github.com/google/clusterfuzz | 4290 | 384| 
-| 20200805T22:58:34Z | Working BlockFuzz App | https://github.com/BadProfessor/BlockFuzz | 0 | 0| 
 
 
 
