@@ -25,12 +25,13 @@
 | 20200805 | 基于Cookie的PHP本地文件包含漏洞 | https://medium.com/@tehmezovismayil/cookie-based-php-local-file-inclusion-bug-bounty-553f8b38d4dc?source=social.tw| 
 | 20200805 | 用于枚举子域wordlist，php文件路径，html文件路径和js文件路径的开源工具 | https://github.com/Droidzzzio/EnumerationList| 
 | 20200805 | 恶意内存隐藏第三部分-绕过杀软扫描 | https://securityboulevard.com/2020/08/masking-malicious-memory-artifacts-part-iii-bypassing-defensive-scanners/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+SecurityBloggersNetwork+%28Security+Bloggers+Network%29| 
-| 20200804 | 基于 NDSS 2019 一篇 Paper 实现的一个基于 Grammar、Coverage Guided 的 Fuzzer | https://github.com/nautilus-fuzz/nautilus| 
+| 20200805 | Openfire Admin Console 的两个漏洞：SSRF 和任意文件读 | https://swarm.ptsecurity.com/openfire-admin-console/| 
 
 
 # 安全维基 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20200805 | WMCTF2020 WP by 0x401 | https://mp.weixin.qq.com/s/Ll-f25pLOPbkjlo9zGFbFA| 
 | 20200804 | 人物图谱构建技术 | https://zhuanlan.zhihu.com/p/166587883| 
 | 20200804 | CVE-2020-14644 分析与 gadget 的一些思考 | https://paper.seebug.org/1281/| 
 | 20200804 | VT Code Similarity Yara Generator | https://github.com/arieljt/VTCodeSimilarity-YaraGen| 
@@ -40,28 +41,27 @@
 | 20200802 | Shiro回显利用工具（更新为burp插件 | https://mp.weixin.qq.com/s/LSmO0R-9D2Tj-zRxDu7wWw| 
 | 20200802 | XSS Game 分析以及知识点总结 | https://www.freebuf.com/articles/web/245209.html| 
 | 20200802 | Android渗透测试HTTPS证书校验绕过 | https://xz.aliyun.com/t/8047| 
-| 20200802 | 小窥深度学习框架中的安全问题 | https://mp.weixin.qq.com/s/SQ3eF534Rr9dHWGLRVseIQ| 
 
 
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20200805T09:48:23Z | CVE-2020-5902 | Exphub[漏洞利用脚本库] 包括Webloigc、Struts2、Tomcat、Nexus、Solr、Jboss、Drupal的漏洞利用脚本，最新添加CVE-2020-5902、CVE-2020-11444、CVE-2020-10204、CVE-2020-10199、CVE-2020-1938、CVE-2020-2551、CVE-2020-2555、CVE-2020-2883、CVE-2019-17558、CVE-2019-6340 | https://github.com/zhzyker/exphub | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 00 MINUTES 26 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200805T05:39:46Z | CVE-2020-1313 | Proof of concept exploit of Windows Update Orchestrator Service Elevation of Privilege Vulnerability | https://github.com/irsl/CVE-2020-1313 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 00 MINUTES 33 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200805T22:38:55Z | CVE-2020-8816 | Pi-hole Remote Code Execution authenticated Version >= 4.3.2 | https://github.com/cybervaca/CVE-2020-8816 | Pi-hole Web v4.3.2（aka AdminLTE）允许特权仪表板用户通过精心设计的DHCP静态租约进行远程代码执行。| 
+| 20200805T19:38:15Z | CVE-2020-5902 | Exphub[漏洞利用脚本库] 包括Webloigc、Struts2、Tomcat、Nexus、Solr、Jboss、Drupal的漏洞利用脚本，最新添加CVE-2020-5902、CVE-2020-11444、CVE-2020-10204、CVE-2020-10199、CVE-2020-1938、CVE-2020-2551、CVE-2020-2555、CVE-2020-2883、CVE-2019-17558、CVE-2019-6340 | https://github.com/zhzyker/exphub | | 
+| 20200805T17:42:36Z | CVE-2020- | Null | https://github.com/Revanthinfosec/CVE-2020-BIG-IP | 未查询到CVE信息| 
+| 20200805T16:58:08Z | CVE-2020-10713 | BootHole vulnerability (CVE-2020-10713). detection script, links and other mitigation related materials | https://github.com/eclypsium/BootHole | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
+| 20200805T05:39:46Z | CVE-2020-1313 | Proof of concept exploit of Windows Update Orchestrator Service Elevation of Privilege Vulnerability | https://github.com/irsl/CVE-2020-1313 | 当Windows Update Orchestrator服务不正确地处理文件操作（也称为“ Windows Update Orchestrator服务特权提升漏洞”）时，存在特权提升漏洞。| 
 | 20200805T03:52:01Z | CVE-2020-2551 | weblogic 漏洞扫描工具。目前包含 CVE-2014-4210、CVE-2016-0638、CVE-2016-3510、CVE-2017-3248、CVE-2017-3506、CVE-2017-10271、CVE-2018-2628、CVE-2018-2893、CVE-2018-2894、CVE-2018-3191、CVE-2018-3245、CVE-2018-3252、CVE-2019-2618、CVE-2019-2725、CVE-2019-2729、CVE-2019-2890、CVE-2020-2551 | https://github.com/0xn0ne/weblogicScanner | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
-| 20200805T03:46:04Z | CVE-2020-0108 | PoC of CVE-2020-0108 | https://github.com/wrlu/ServiceCheater | | 
-| 20200805T01:38:37Z | CVE-2020-8816 | Pi-hole Remote Code Execution authenticated Version >= 4.3.2 | https://github.com/cybervaca/CVE-2020-8816 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 00 MINUTES 43 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200804T23:28:15Z | CVE-2020-10713 | BootHole vulnerability (CVE-2020-10713). detection script, links and other mitigation related materials | https://github.com/eclypsium/BootHole | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
-| 20200804T20:14:56Z | CVE-2020-13886 | Exploit CVE-2020-13886 - LFI Intelbras TIP 200 / 200 LITE /  | https://github.com/lucxssouza/CVE-2020-13886 | 未查询到CVE信息| 
-| 20200804T17:40:42Z | cve-2020-15956 | CVE things | https://github.com/megamagnus/cve-2020-15956 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 00 MINUTES 41 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200805T03:46:04Z | CVE-2020-0108 | PoC of CVE-2020-0108 | https://github.com/wrlu/ServiceCheater | 未查询到CVE信息| 
+| 20200804T20:14:56Z | CVE-2020-13886 | Exploit CVE-2020-13886 - LFI Intelbras TIP 200 / 200 LITE /  | https://github.com/lucxssouza/CVE-2020-13886 | | 
+| 20200804T17:40:42Z | cve-2020-15956 | CVE things | https://github.com/megamagnus/cve-2020-15956 | ACTi NVR3 标准服务器 3.0.12.42 中的 ActiveMediaServer.exe 允许远程未经身份验证的攻击者通过格式错误的有效负载触发缓冲区溢出和应用程序终止。| 
 | 20200804T15:55:37Z | 未知编号 | Null | https://github.com/wdahlenburg/cve_2020_14645 | 未查询到CVE信息| 
-| 20200804T09:30:52Z | CVE-2020-11579 | Exploit code for CVE-2020-11579, an arbitrary file disclosure through the MySQL client in PHPKB | https://github.com/ShielderSec/CVE-2020-11579 | 未查询到CVE信息| 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20200805T11:47:30Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1453 | 444| 
+| 20200805T11:47:30Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1453 | 445| 
 | 20200805T04:05:32Z | A 4chan image browser written in SwiftUI | https://github.com/jackpal/KleeneStar | 9 | 0| 
 | 20200804T05:47:47Z | A CSS / JS framework and a design system | https://github.com/logic-fabric/klee | 0 | 0| 
 | 20200804T00:31:06Z | Create CFGs and compute complexity metrics for Python, C++, and Java code. | https://github.com/hmc-alpaqa/metrinome | 3 | 0| 
@@ -83,16 +83,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20200805T12:47:48Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 2 | 1| 
-| 20200805T12:35:13Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 6801 | 1081| 
-| 20200805T12:08:44Z | Golang Implant & Post-Exploitation Framework | https://github.com/maxlandon/wiregost | 31 | 5| 
-| 20200805T11:59:36Z | A website which combines useful links for gfn-exploiting. | https://github.com/helmutrocco13/helmutrocco13.github.io | 0 | 0| 
-| 20200805T11:58:06Z | A tale of non-developer guy trying to develop a simple website! | https://github.com/403exploit/403exploit.github.io | 0 | 0| 
-| 20200805T11:38:03Z | Shiro550/Shiro721 一键化利用工具，支持多种回显方式 | https://github.com/feihong-cs/ShiroExploit | 537 | 112| 
-| 20200805T11:04:16Z | 渗透工具搜集 | https://github.com/godspeedcurry/ExploitTools | 0 | 0| 
-| 20200805T11:02:55Z | The official Exploit Database repository | https://github.com/offensive-security/exploitdb | 5439 | 1563| 
-| 20200805T10:40:26Z | Hypervisor Memory Introspection Core Library | https://github.com/hvmi/hvmi | 329 | 21| 
-| 20200805T10:23:49Z | Scripts used for simulation in paper: Effects of Different Strategies for Exploiting Genomic Selection in Perennial Ryegrass Breeding Programs | https://github.com/hadigenetic/Ryegrass-simulation | 0 | 0| 
+| 20200806T00:00:40Z | Open source multi-api Roblox exploit | https://github.com/lidua/multiexploit | 0 | 0| 
+| 20200805T23:24:49Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 6806 | 1080| 
+| 20200805T23:13:47Z | Aktaion is a machine learning open source & active defense (orchestration) prototype. The tool focuses on the detection of exploits based on machine learning techniques, independent of static-based signatures. | https://github.com/jzadeh/aktaion2 | 24 | 12| 
+| 20200805T23:10:44Z | *Frequently Updated. Sifter is a osint, recon & vulnerability scanner. It combines a plethara of tools within different module sets in order to quickly perform recon tasks, check network firewalling, enumerate remote and local hosts, and scan for the %blue% vulnerabilities within microsft and if unpatched, exploit them.  It uses tools like blackwidow and konan for webdir enumeration and attack surface mapping rapidly using ASM.  | https://github.com/s1l3nt78/sifter | 212 | 71| 
+| 20200805T23:09:19Z | anti-exploit lua fly,speed and jump | https://github.com/zxtDaring123/anti-exploit-in-lua | 0 | 0| 
+| 20200805T23:00:57Z | Offensive Software Exploitation Course | https://github.com/ashemery/exploitation-course | 9 | 3| 
+| 20200805T22:57:34Z | Old version of brute forcing program used to exploit a vulnerability in OSX 10.6 Snow Leopard to gain admin access on any account. | https://github.com/LampSteven17/AppleSnowLeopard---Firmware-Technique | 0 | 0| 
+| 20200805T21:44:20Z | Null | https://github.com/Artem-Malyi/binary-exploitation | 0 | 0| 
+| 20200805T21:42:25Z | Tools for exploiting ARIA standard products | https://github.com/aria-tools/ARIA-tools | 27 | 16| 
+| 20200805T21:41:16Z | Just a simple Roblox exploit I made using the WeAreDevs API so I could learn some C#. | https://github.com/ZipZap44/robloxploit | 0 | 0| 
 
 
 # backdoor on Github 推荐
@@ -113,16 +113,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20200805T12:47:34Z | A library of fuzzy rough machine learning algorithms | https://github.com/oulenz/fuzzy-rough-learn | 1 | 0| 
-| 20200805T12:35:16Z | SSL and TLS protocol test suite and fuzzer | https://github.com/tomato42/tlsfuzzer | 316 | 78| 
-| 20200805T12:25:26Z | Simple python styleguide for fuzzy but lazy people | https://github.com/nyanye/fuzzy-lazy-python-styleguide | 0 | 0| 
-| 20200805T12:14:55Z | Null | https://github.com/jackhydez/fuzzyNumbers | 0 | 0| 
-| 20200805T12:06:05Z | A Fuzzer for COMP6447 | https://github.com/LachlanWaugh/fuzzer | 1 | 0| 
-| 20200805T12:05:37Z | Makefile for structure aware fuzzing with libfuzzer | https://github.com/mgayanov/libfuzzer_makefile | 0 | 0| 
-| 20200805T11:52:46Z | Fuzzing Jenkins hash for collisions | https://github.com/bshastry/jhash-fuzz | 0 | 0| 
-| 20200805T11:51:15Z | A python3 intruder that gave me bounties, easy to use and as fast as fuff | https://github.com/ElSicarius/SuperTruder | 11 | 1| 
-| 20200805T11:43:10Z | Potentially dangerous files | https://github.com/Bo0oM/fuzz.txt | 1246 | 222| 
-| 20200805T11:17:07Z | A python module and script to handle custom fuzzing against anything | https://github.com/shoriwe/bftool | 1 | 0| 
+| 20200805T23:36:52Z | OSS-Fuzz - continuous fuzzing of open source software. | https://github.com/google/oss-fuzz | 5447 | 1066| 
+| 20200805T23:25:54Z | A python implementation of the Fuzzy Connectedness Segmentation algorithm | https://github.com/flsantos/fuzzy_connectedness_python | 0 | 0| 
+| 20200805T23:15:54Z | Null | https://github.com/fuzzyads/fuzzy-ads-app | 0 | 0| 
+| 20200805T23:03:08Z | Scalable fuzzing infrastructure. | https://github.com/google/clusterfuzz | 4290 | 384| 
+| 20200805T22:58:34Z | Working BlockFuzz App | https://github.com/BadProfessor/BlockFuzz | 0 | 0| 
+| 20200805T22:53:28Z | Tool for fuzzing with style 👌 | https://github.com/essentialkaos/fz | 1 | 0| 
+| 20200805T21:56:35Z | Web application fuzzer | https://github.com/xmendez/wfuzz | 2999 | 755| 
+| 20200805T21:46:44Z | A functional model of symbolic testing for differential privacy | https://github.com/hengchu/fuzzi-model | 1 | 0| 
+| 20200805T21:41:06Z | american fuzzy lop - a security-oriented fuzzer | https://github.com/google/AFL | 1298 | 214| 
+| 20200805T21:20:31Z | Bazel Starlark extensions for defining fuzz tests in Bazel projects | https://github.com/googleinterns/bazel-rules-fuzzing | 2 | 1| 
 
 
 
