@@ -16,6 +16,7 @@
 | 20200806 | iOS内核逆向框架ghidra_kernelcache | https://github.com/0x36/ghidra_kernelcache| 
 | 20200806 | Pwn2Own 中的 Xxe2Rce 漏洞详解 | http://muffsec.com/blog/?p=608| 
 | 20200806 | PyPI 官方仓库遭遇request恶意包投毒 | https://sec.today/pulses/08549042-c9ae-4ee4-b6b9-daac143bb82a/| 
+| 20200806 | PyPI 官方仓库遭遇request恶意包投毒 | https://mp.weixin.qq.com/s/dkPdXfGfSK097GI6Ln92lA| 
 
 
 # 安全维基 推荐
@@ -28,12 +29,12 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20200806T11:59:10Z | CVE-2020-7471 | Null | https://github.com/Tempuss/CTF_CVE-2020-7471 | | 
-| 20200806T10:29:54Z | CVE-2020-5902 | Exphub[漏洞利用脚本库] 包括Webloigc、Struts2、Tomcat、Nexus、Solr、Jboss、Drupal的漏洞利用脚本，最新添加CVE-2020-5902、CVE-2020-11444、CVE-2020-10204、CVE-2020-10199、CVE-2020-1938、CVE-2020-2551、CVE-2020-2555、CVE-2020-2883、CVE-2019-17558、CVE-2019-6340 | https://github.com/zhzyker/exphub | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 58 MINUTES 26 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200806T11:59:10Z | CVE-2020-7471 | Null | https://github.com/Tempuss/CTF_CVE-2020-7471 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 56 MINUTES 22 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200806T10:29:54Z | CVE-2020-5902 | Exphub[漏洞利用脚本库] 包括Webloigc、Struts2、Tomcat、Nexus、Solr、Jboss、Drupal的漏洞利用脚本，最新添加CVE-2020-5902、CVE-2020-11444、CVE-2020-10204、CVE-2020-10199、CVE-2020-1938、CVE-2020-2551、CVE-2020-2555、CVE-2020-2883、CVE-2019-17558、CVE-2019-6340 | https://github.com/zhzyker/exphub | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 56 MINUTES 07 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20200806T06:00:50Z | CVE-2020-13886 | Exploit CVE-2020-13886 - LFI Intelbras TIP 200 / 200 LITE /  | https://github.com/lucxssouza/CVE-2020-13886 | 未查询到CVE信息| 
-| 20200806T05:30:24Z | CVE-2020-1313 | Proof of concept exploit of Windows Update Orchestrator Service Elevation of Privilege Vulnerability | https://github.com/irsl/CVE-2020-1313 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 58 MINUTES 34 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200806T04:09:52Z | CVE-2020-13151 | POC for CVE-2020-13151 | https://github.com/b4ny4n/CVE-2020-13151 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 58 MINUTES 36 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200806T02:13:03Z | cve-2020-15956 | CVE things | https://github.com/megamagnus/cve-2020-15956 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 58 MINUTES 42 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200806T05:30:24Z | CVE-2020-1313 | Proof of concept exploit of Windows Update Orchestrator Service Elevation of Privilege Vulnerability | https://github.com/irsl/CVE-2020-1313 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 56 MINUTES 14 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200806T04:09:52Z | CVE-2020-13151 | POC for CVE-2020-13151 | https://github.com/b4ny4n/CVE-2020-13151 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 56 MINUTES 17 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200806T02:13:03Z | cve-2020-15956 | CVE things | https://github.com/megamagnus/cve-2020-15956 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 56 MINUTES 24 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 
 
 # klee on Github 推荐
@@ -52,6 +53,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20200806T12:03:18Z | A ROBLOX exploit powered by CocoCC | https://github.com/MrDucxy/dove-III | 0 | 0| 
 | 20200806T11:48:48Z | A phased, evasive Path Traversal + LFI scanning & exploitation tool in Python | https://github.com/VainlyStrain/Vailyn | 14 | 0| 
 | 20200806T11:48:47Z | musyoka101/Injection-TryHackMe-exploit-script | https://github.com/musyoka101/Injection-TryHackMe-exploit-script | 1 | 1| 
 | 20200806T11:46:36Z | Free open-source Lua wrapper for ROBLOX | https://github.com/yuukixdev/Open-Source-Lua-Wrapper | 0 | 0| 
@@ -61,7 +63,6 @@
 | 20200806T10:07:05Z | this bash script let you download scripts and clone repos for remote exploits | https://github.com/FabioDefilippo/linuxallremote | 3 | 0| 
 | 20200806T10:00:35Z | Hypervisor Memory Introspection Core Library | https://github.com/hvmi/hvmi | 337 | 22| 
 | 20200806T09:14:16Z | This repository contains my findings specially about exploit kits, compromised web sites and another raw ioc information | https://github.com/AhmetHan/Strategic-Threat-Intelligence | 0 | 0| 
-| 20200806T09:08:01Z | Zhu et al., Exploiting Joint Sparsity for Pan-sharpening – the J-SparseFI Algorithm. IEEE Transactions on Geoscience and Remote Sensing 54(5), 2664-2681, 2016.  | https://github.com/zhu-xlab/J-SparseFI | 0 | 0| 
 
 
 # backdoor on Github 推荐
