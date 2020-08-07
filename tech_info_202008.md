@@ -19,13 +19,13 @@
 | 20200807 | Exploiting Android Messengers with WebRTC: Part 3 | https://sec.today/pulses/b006bd96-4cc0-46e8-b9ba-7fc43257977d/| 
 | 20200807 | 用中间人劫持的方法解决 MassLogger Anti-Analysis 的问题 | https://sec.today/pulses/db1e8d50-ebf7-4fc8-912e-dc2372bbdecc/| 
 | 20200807 | 一个字节的差错导致Cisco防火墙路由器远程代码执行 | https://sec.today/pulses/512d8e92-d0f4-4201-bb76-a89ec92381ed/| 
+| 20200807 | 卡巴斯基发布 2019 应急响应分析报告 | https://securelist.com/incident-response-analyst-report-2019/97974/| 
+| 20200807 | Exploiting Android Messengers with WebRTC: Part 3 | https://googleprojectzero.blogspot.com/2020/08/exploiting-android-messengers-part-3.html| 
+| 20200807 | 用中间人劫持的方法解决 MassLogger Anti-Analysis 的问题 | https://www.fireeye.com/blog/threat-research/2020/08/bypassing-masslogger-anti-analysis-man-in-the-middle-approach.html| 
 | 20200806 | 微软 MSRC’s 2020 Most Valuable Security Researchers 榜单公布 | https://msrc-blog.microsoft.com/2020/08/05/announcing-2020-msrc-most-valuable-security-researchers/| 
 | 20200806 | Exploiting Android Messengers with WebRTC: Part 2 | https://googleprojectzero.blogspot.com/2020/08/exploiting-android-messengers-part-2.html?m=1| 
 | 20200806 | Checkpoint 对反调试（Anti-Debug）技术的总结 | https://anti-debug.checkpoint.com/| 
 | 20200806 | JSON模式存储：所有常见JSON文件格式的模式- | https://www.schemastore.org/json/| 
-| 20200806 | IDA Pro逆向工程入门教程视频 | https://www.youtube.com/playlist?list=PLKwUZp9HwWoDDBPvoapdbJ1rdofowT67z| 
-| 20200806 | Web缓存纠缠，一种Web缓存中毒的新姿势 | https://portswigger.net/research/web-cache-entanglement| 
-| 20200806 | 2020年第二季度DDOS攻击分析报告 | https://blog.cloudflare.com/network-layer-ddos-attack-trends-for-q2-2020/| 
 
 
 # 安全维基 推荐
@@ -100,16 +100,16 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20200807T07:46:58Z | Winbackdoor implementation in golang (Documentation the documentation for go is coming soon) | https://github.com/Unam3dd/GoWinBackdoor | 0 | 0| 
+| 20200807T07:23:25Z | Bot Laravel Auto Exploit And Upload Backdoor | https://github.com/tobiphoenix/laravelbot | 0 | 0| 
+| 20200807T07:02:24Z | Cross-platform reverse backdoor and tools written in Python. | https://github.com/SWWILSO/simpleReverseBackdoor | 0 | 0| 
+| 20200807T06:35:03Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 40 | 4| 
+| 20200807T05:37:14Z | Null | https://github.com/CCCjiang/BackdoorNLP-Papers | 0 | 0| 
+| 20200807T04:57:15Z | Null | https://github.com/HeyThisHaku/SimpleBackdoor-Python | 0 | 0| 
 | 20200806T20:18:20Z | A deck-building roguelike cyberpunk game. | https://github.com/uspgamedev/backdoor | 16 | 2| 
 | 20200806T16:22:45Z | Null | https://github.com/pistacchietto/Win-Python-Backdoor | 3 | 2| 
 | 20200806T15:06:55Z | Vysecator Is a Python Script Obfuscator Tool, Which can be used to Obfuscate your hand written Malwares! | https://github.com/Vedant-Bhalgama/VySecator | 11 | 1| 
 | 20200806T12:02:00Z | Arcane is a simple script designed to backdoor iOS packages (iphone-arm) and create the necessary resources for APT repositories. | https://github.com/tokyoneon/Arcane | 24 | 2| 
-| 20200806T10:11:43Z | FUD cross-platform python2 backdoor | https://github.com/7h3w4lk3r/pyback | 9 | 4| 
-| 20200806T07:59:03Z | A complete new rewrite to ABS, my Garry%s Mod Backdoor scanner & finder. with further optimizations, and better coding practices. (old project is a complte mess) | https://github.com/AragonArts/UltimateFileScanner | 0 | 0| 
-| 20200806T04:30:28Z | 👨🏻‍💻 A great tool for Ethical Hackers, a malware programmed with Backdoor and Keylogger using C Language .  | https://github.com/avinashkranjan/Malware-with-Backdoor-and-Keylogger | 4 | 1| 
-| 20200806T01:37:24Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 37 | 4| 
-| 20200805T19:43:02Z | Rusty backdoor+spyware :bomb: :door: | https://github.com/talbor49/spyware | 8 | 0| 
-| 20200805T18:27:33Z | Command-line tool for backdoor exploitation. | https://github.com/tz4678/backshell | 1 | 0| 
 
 
 # fuzz on Github 推荐

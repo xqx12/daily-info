@@ -19,6 +19,9 @@
 | 20200807 | Exploiting Android Messengers with WebRTC: Part 3 | https://sec.today/pulses/b006bd96-4cc0-46e8-b9ba-7fc43257977d/| 
 | 20200807 | 用中间人劫持的方法解决 MassLogger Anti-Analysis 的问题 | https://sec.today/pulses/db1e8d50-ebf7-4fc8-912e-dc2372bbdecc/| 
 | 20200807 | 一个字节的差错导致Cisco防火墙路由器远程代码执行 | https://sec.today/pulses/512d8e92-d0f4-4201-bb76-a89ec92381ed/| 
+| 20200807 | 卡巴斯基发布 2019 应急响应分析报告 | https://securelist.com/incident-response-analyst-report-2019/97974/| 
+| 20200807 | Exploiting Android Messengers with WebRTC: Part 3 | https://googleprojectzero.blogspot.com/2020/08/exploiting-android-messengers-part-3.html| 
+| 20200807 | 用中间人劫持的方法解决 MassLogger Anti-Analysis 的问题 | https://www.fireeye.com/blog/threat-research/2020/08/bypassing-masslogger-anti-analysis-man-in-the-middle-approach.html| 
 
 
 # 安全维基 推荐
@@ -67,6 +70,12 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20200807T07:46:58Z | Winbackdoor implementation in golang (Documentation the documentation for go is coming soon) | https://github.com/Unam3dd/GoWinBackdoor | 0 | 0| 
+| 20200807T07:23:25Z | Bot Laravel Auto Exploit And Upload Backdoor | https://github.com/tobiphoenix/laravelbot | 0 | 0| 
+| 20200807T07:02:24Z | Cross-platform reverse backdoor and tools written in Python. | https://github.com/SWWILSO/simpleReverseBackdoor | 0 | 0| 
+| 20200807T06:35:03Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 40 | 4| 
+| 20200807T05:37:14Z | Null | https://github.com/CCCjiang/BackdoorNLP-Papers | 0 | 0| 
+| 20200807T04:57:15Z | Null | https://github.com/HeyThisHaku/SimpleBackdoor-Python | 0 | 0| 
 
 
 # fuzz on Github 推荐
