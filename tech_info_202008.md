@@ -46,10 +46,10 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20200806T23:56:42Z | CVE-2020-3452 | Little, stupid python validator(?) for CVE-2020-3452 on CISCO devices. | https://github.com/foulenzer/CVE-2020-3452 | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
+| 20200806T23:56:42Z | CVE-2020-3452 | Little, stupid python validator(?) for CVE-2020-3452 on CISCO devices. | https://github.com/foulenzer/CVE-2020-3452 | | 
 | 20200806T22:43:54Z | CVE-2020-13886 | Exploit CVE-2020-13886 - LFI Intelbras TIP 200 / 200 LITE /  | https://github.com/lucxssouza/CVE-2020-13886 | 未查询到CVE信息| 
 | 20200806T22:25:43Z | CVE-2020-1472 | Null | https://github.com/mingchen-script/CVE-2020-1472-visualizer | 未查询到CVE信息| 
-| 20200806T15:14:15Z | CVE-2020-8816 | Pi-hole ( <= 4.3.2)  authenticated remote code execution. | https://github.com/team0se7en/CVE-2020-8816 | Pi-hole Web v4.3.2（aka AdminLTE）允许特权仪表板用户通过精心设计的DHCP静态租约进行远程代码执行。| 
+| 20200806T15:14:15Z | CVE-2020-8816 | Pi-hole ( <= 4.3.2)  authenticated remote code execution. | https://github.com/team0se7en/CVE-2020-8816 | | 
 | 20200806T11:59:10Z | CVE-2020-7471 | Null | https://github.com/Tempuss/CTF_CVE-2020-7471 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 36 MINUTES 27 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20200806T10:29:54Z | CVE-2020-5902 | Exphub[漏洞利用脚本库] 包括Webloigc、Struts2、Tomcat、Nexus、Solr、Jboss、Drupal的漏洞利用脚本，最新添加CVE-2020-5902、CVE-2020-11444、CVE-2020-10204、CVE-2020-10199、CVE-2020-1938、CVE-2020-2551、CVE-2020-2555、CVE-2020-2883、CVE-2019-17558、CVE-2019-6340 | https://github.com/zhzyker/exphub | 在BIG-IP版本15.0.0-15.1.0.3、14.1.0-14.1.2.5、13.1.0-13.1.3.3、12.1.0-12.1.5.1和11.6.1-11.6.5.1中，流量管理用户接口（TMUI），也称为“配置”实用程序，在未公开的页面中具有远程执行代码（RCE）漏洞。| 
 | 20200806T05:30:24Z | CVE-2020-1313 | Proof of concept exploit of Windows Update Orchestrator Service Elevation of Privilege Vulnerability | https://github.com/irsl/CVE-2020-1313 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 00 MINUTES 20 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
@@ -84,7 +84,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20200806T23:55:32Z | Implementation of L3 cache (LLC) covert text channel exploit  | https://github.com/rshnn/covert | 0 | 0| 
+| 20200807T00:04:28Z | Implementation of L3 cache (LLC) covert text channel exploit  | https://github.com/rshnn/covert | 0 | 0| 
 | 20200806T23:44:50Z | Compromising the macOS Kernel through Safari by Chaining Six Vulnerabilities | https://github.com/sslab-gatech/pwn2own2020 | 16 | 4| 
 | 20200806T23:37:09Z | A series of CTF challenge solutions for binary exploitation (or pwn) and reverse engineering (or rev) challenges | https://github.com/docfate111/binary-exploitation-solution-scripts | 0 | 0| 
 | 20200806T23:28:16Z | Offensive Software Exploitation Course | https://github.com/ashemery/exploitation-course | 25 | 8| 
@@ -114,12 +114,12 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20200807T00:02:46Z | OSS-Fuzz - continuous fuzzing of open source software. | https://github.com/google/oss-fuzz | 5453 | 1065| 
 | 20200806T23:57:58Z | :airplane: A fuzz testing tool for generating and performing system tests for Paparazzi auto pilot | https://github.com/MJafarMashhadi/pprz_tester | 0 | 0| 
 | 20200806T23:54:31Z | Our paper “Robust Self-Sparse Fuzzy Clustering for Image Segmentation” has been accepted for publication in IEEE Access. 2020. | https://github.com/jiaxhsust/Robust-Self-Sparse-Fuzzy-Clustering-for-Image-Segmentation | 0 | 0| 
 | 20200806T23:23:32Z | Dashboard em Shiny para estimativa do risco de incêndio utilizando lógica fuzzy (https://gabinetemilitar.shinyapps.io/fuzzyIncedio/).  | https://github.com/demusis/fuzzyIncendio | 0 | 0| 
 | 20200806T23:23:30Z | Null | https://github.com/googleinterns/oss-fuzz-utils | 0 | 0| 
 | 20200806T23:23:26Z | Tutorials, examples, discussions, research proposals, and other resources related to fuzzing | https://github.com/google/fuzzing | 1366 | 192| 
-| 20200806T23:16:21Z | OSS-Fuzz - continuous fuzzing of open source software. | https://github.com/google/oss-fuzz | 5453 | 1065| 
 | 20200806T23:02:29Z | A Python3 module to assist in fuzzing web applications | https://github.com/jangelesg/py3webfuzz | 3 | 0| 
 | 20200806T22:49:45Z | Notebooks with definition and plot of fuzzy sets and their operations (triangular norms, triangular conorms), fuzzy arithmetics and fuzzy relations. | https://github.com/fernandase/fuzzy-set-operations | 0 | 0| 
 | 20200806T21:27:03Z | Null | https://github.com/zhangxiaosa/fuzztools | 0 | 1| 
