@@ -33,12 +33,12 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20200807T10:58:11Z | CVE-2020-1948 | [CVE-2020-1948] Apache Dubbo Provider default deserialization cause RCE | https://github.com/L0kiii/Dubbo-deserialization | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 57 MINUTES 14 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200807T10:58:11Z | CVE-2020-1948 | [CVE-2020-1948] Apache Dubbo Provider default deserialization cause RCE | https://github.com/L0kiii/Dubbo-deserialization | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 56 MINUTES 16 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20200807T09:52:18Z | 未知编号 | Null | https://github.com/potats0/cve_2020_14644 | 未查询到CVE信息| 
-| 20200807T08:06:36Z | 未知编号 | A local privilege escalation chain from user to kernel for MacOS < 10.15.5. CVE-2020–9854 | https://github.com/A2nkF/unauthd | | 
-| 20200807T06:31:00Z | CVE-2020-0796 | Null | https://github.com/DreamoneOnly/CVE-2020-0796-LPE | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 57 MINUTES 12 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200807T04:39:24Z | cve-2020-15956 | ActiveMediaServer.exe in ACTi NVR3 Standard Server 3.0.12.42 allows remote unauthenticated attackers to trigger a buffer overflow and application termination via a malformed payload. | https://github.com/megamagnus/cve-2020-15956 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 57 MINUTES 24 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200807T02:49:28Z | CVE-2020-5902 | Exphub[漏洞利用脚本库] 包括Webloigc、Struts2、Tomcat、Nexus、Solr、Jboss、Drupal的漏洞利用脚本，最新添加CVE-2020-5902、CVE-2020-11444、CVE-2020-10204、CVE-2020-10199、CVE-2020-1938、CVE-2020-2551、CVE-2020-2555、CVE-2020-2883、CVE-2019-17558、CVE-2019-6340 | https://github.com/zhzyker/exphub | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 57 MINUTES 11 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200807T08:06:36Z | 未知编号 | A local privilege escalation chain from user to kernel for MacOS < 10.15.5. CVE-2020–9854 | https://github.com/A2nkF/unauthd | 未查询到CVE信息| 
+| 20200807T06:31:00Z | CVE-2020-0796 | Null | https://github.com/DreamoneOnly/CVE-2020-0796-LPE | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 56 MINUTES 14 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200807T04:39:24Z | cve-2020-15956 | ActiveMediaServer.exe in ACTi NVR3 Standard Server 3.0.12.42 allows remote unauthenticated attackers to trigger a buffer overflow and application termination via a malformed payload. | https://github.com/megamagnus/cve-2020-15956 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 56 MINUTES 27 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200807T02:49:28Z | CVE-2020-5902 | Exphub[漏洞利用脚本库] 包括Webloigc、Struts2、Tomcat、Nexus、Solr、Jboss、Drupal的漏洞利用脚本，最新添加CVE-2020-5902、CVE-2020-11444、CVE-2020-10204、CVE-2020-10199、CVE-2020-1938、CVE-2020-2551、CVE-2020-2555、CVE-2020-2883、CVE-2019-17558、CVE-2019-6340 | https://github.com/zhzyker/exphub | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 56 MINUTES 13 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 
 
 # klee on Github 推荐
@@ -82,13 +82,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20200807T01:42:27Z | FuzzBench - Fuzzer benchmarking as a service. | https://github.com/google/fuzzbench | 495 | 71| 
-| 20200807T01:42:27Z | Scalable fuzzing infrastructure. | https://github.com/google/clusterfuzz | 4290 | 384| 
-| 20200807T01:39:03Z | Fuzzy Select Tool (like in GIMP) select a contiguous region on the basis of color | https://github.com/caioportela/fuzzy-select-tool | 1 | 0| 
-| 20200807T01:35:48Z | UAFuzz: Binary-level Directed Fuzzing for Use-After-Free Vulnerabilities | https://github.com/strongcourage/uafuzz | 4 | 0| 
-| 20200807T00:44:56Z | A fuzzing management tools collection | https://github.com/MozillaSecurity/FuzzManager | 131 | 46| 
-| 20200807T00:18:40Z | Tutorials, examples, discussions, research proposals, and other resources related to fuzzing | https://github.com/google/fuzzing | 1367 | 192| 
-| 20200807T00:02:46Z | OSS-Fuzz - continuous fuzzing of open source software. | https://github.com/google/oss-fuzz | 5453 | 1065| 
+| 20200807T11:57:23Z | A tool to enable fuzzing for Spectre vulnerabilities | https://github.com/OleksiiOleksenko/SpecFuzz | 9 | 3| 
+| 20200807T11:52:41Z | Code repository with customisable Fuzzy Matching scripts in STATA and Python, especially useful when working with datasets containing Hindi text transliterated to English. | https://github.com/IDinsight/hin-fuzzy-merge | 0 | 0| 
+| 20200807T11:50:00Z | Quantitative Approach to the Core-Satellite Paradigm | https://github.com/Ligophorus/FuzzyQ | 0 | 0| 
+| 20200807T11:11:24Z | Null | https://github.com/ApurvaB09/fuzzy-waffle | 0 | 0| 
+| 20200807T10:10:45Z | Tutorials, examples, discussions, research proposals, and other resources related to fuzzing | https://github.com/google/fuzzing | 1368 | 192| 
+| 20200807T09:01:50Z | Null | https://github.com/Ishaan29/fuzzy-chainsaw-algo | 1 | 0| 
+| 20200807T08:44:33Z | OSS-Fuzz - continuous fuzzing of open source software. | https://github.com/google/oss-fuzz | 5455 | 1065| 
+| 20200807T08:28:26Z | Null | https://github.com/Spourang/BoostingFuzzer_12_Projects | 0 | 0| 
+| 20200807T08:09:27Z | Scalable fuzzing infrastructure. | https://github.com/google/clusterfuzz | 4290 | 384| 
+| 20200807T08:07:48Z | Null | https://github.com/Tarik02/io-ts-fuzzy | 0 | 0| 
 
 
 
