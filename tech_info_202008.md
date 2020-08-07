@@ -51,11 +51,11 @@
 | 20200806T22:25:43Z | CVE-2020-1472 | Null | https://github.com/mingchen-script/CVE-2020-1472-visualizer | 未查询到CVE信息| 
 | 20200806T15:14:15Z | CVE-2020-8816 | Pi-hole ( <= 4.3.2)  authenticated remote code execution. | https://github.com/team0se7en/CVE-2020-8816 | | 
 | 20200806T11:59:10Z | CVE-2020-7471 | Null | https://github.com/Tempuss/CTF_CVE-2020-7471 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 36 MINUTES 27 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200806T10:29:54Z | CVE-2020-5902 | Exphub[漏洞利用脚本库] 包括Webloigc、Struts2、Tomcat、Nexus、Solr、Jboss、Drupal的漏洞利用脚本，最新添加CVE-2020-5902、CVE-2020-11444、CVE-2020-10204、CVE-2020-10199、CVE-2020-1938、CVE-2020-2551、CVE-2020-2555、CVE-2020-2883、CVE-2019-17558、CVE-2019-6340 | https://github.com/zhzyker/exphub | | 
+| 20200806T10:29:54Z | CVE-2020-5902 | Exphub[漏洞利用脚本库] 包括Webloigc、Struts2、Tomcat、Nexus、Solr、Jboss、Drupal的漏洞利用脚本，最新添加CVE-2020-5902、CVE-2020-11444、CVE-2020-10204、CVE-2020-10199、CVE-2020-1938、CVE-2020-2551、CVE-2020-2555、CVE-2020-2883、CVE-2019-17558、CVE-2019-6340 | https://github.com/zhzyker/exphub | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 49 MINUTES 13 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20200806T05:30:24Z | CVE-2020-1313 | Proof of concept exploit of Windows Update Orchestrator Service Elevation of Privilege Vulnerability | https://github.com/irsl/CVE-2020-1313 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 00 MINUTES 20 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200806T04:09:52Z | CVE-2020-13151 | POC for CVE-2020-13151 | https://github.com/b4ny4n/CVE-2020-13151 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 50 MINUTES 20 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200806T04:09:52Z | CVE-2020-13151 | POC for CVE-2020-13151 | https://github.com/b4ny4n/CVE-2020-13151 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 49 MINUTES 22 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20200806T02:54:35Z | CVE-2020-2551 | weblogic 漏洞扫描工具。目前包含 CVE-2014-4210、CVE-2016-0638、CVE-2016-3510、CVE-2017-3248、CVE-2017-3506、CVE-2017-10271、CVE-2018-2628、CVE-2018-2893、CVE-2018-2894、CVE-2018-3191、CVE-2018-3245、CVE-2018-3252、CVE-2019-2618、CVE-2019-2725、CVE-2019-2729、CVE-2019-2890、CVE-2020-2551 | https://github.com/0xn0ne/weblogicScanner | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
-| 20200806T02:13:03Z | cve-2020-15956 | CVE things | https://github.com/megamagnus/cve-2020-15956 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 50 MINUTES 26 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200806T02:13:03Z | cve-2020-15956 | CVE things | https://github.com/megamagnus/cve-2020-15956 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 49 MINUTES 28 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 
 
 # klee on Github 推荐
@@ -84,15 +84,15 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20200807T01:02:53Z | Compromising the macOS Kernel through Safari by Chaining Six Vulnerabilities | https://github.com/sslab-gatech/pwn2own2020 | 21 | 5| 
+| 20200807T01:08:46Z | Compromising the macOS Kernel through Safari by Chaining Six Vulnerabilities | https://github.com/sslab-gatech/pwn2own2020 | 22 | 5| 
+| 20200807T01:07:09Z | Null | https://github.com/secmob/TiYunZong-An-Exploit-Chain-to-Remotely-Root-Modern-Android-Devices | 6 | 3| 
 | 20200807T00:56:55Z | EternalBlue suite remade in C/C++ which includes: MS17-010 Exploit, EternalBlue vulnerability detector, DoublePulsar detector and DoublePulsar Shellcode & DLL uploader | https://github.com/bhassani/EternalBlueC | 103 | 26| 
-| 20200807T00:52:58Z | Null | https://github.com/secmob/TiYunZong-An-Exploit-Chain-to-Remotely-Root-Modern-Android-Devices | 5 | 3| 
 | 20200807T00:47:50Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 2 | 1| 
 | 20200807T00:40:17Z | This is a plugin for Minecraft that aids in building, as it gives the player creative mode and charges them for each block they place. All exploits are patched as well. | https://github.com/bsalha1/Printer | 1 | 0| 
 | 20200807T00:35:36Z | Exploit made for the Roblox game, %State of Anarchy% | https://github.com/BetrixEdits/SOAExploit | 0 | 0| 
 | 20200807T00:04:28Z | Implementation of L3 cache (LLC) covert text channel exploit  | https://github.com/rshnn/covert | 0 | 0| 
 | 20200806T23:37:09Z | A series of CTF challenge solutions for binary exploitation (or pwn) and reverse engineering (or rev) challenges | https://github.com/docfate111/binary-exploitation-solution-scripts | 0 | 0| 
-| 20200806T23:28:16Z | Offensive Software Exploitation Course | https://github.com/ashemery/exploitation-course | 25 | 8| 
+| 20200806T23:28:16Z | Offensive Software Exploitation Course | https://github.com/ashemery/exploitation-course | 25 | 9| 
 | 20200806T23:00:52Z | Oraxen is a minecraft plugin which allows to easily exploit Minecraft 1.14 new features in order to create new items with custom textures. It handles the resourcepack generation, upload (using Polymath) , is fully open source and has an extensible API. | https://github.com/oraxen/Oraxen | 66 | 10| 
 
 
