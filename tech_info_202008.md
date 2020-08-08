@@ -31,29 +31,29 @@
 # 安全维基 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20200808 | 第三届CBCTF官方WP | https://www.anquanke.com/post/id/212808| 
+| 20200808 | Weblogic 远程命令执行漏洞（CVE-2020-14645）分析 | https://paper.seebug.org/1287/| 
+| 20200808 | linbing: 临兵漏洞扫描系统 | https://github.com/taomujian/linbing| 
+| 20200808 | Watchdog: SRC资产管理系统 | https://github.com/CTF-MissFeng/Watchdog| 
+| 20200808 | OneThink前台注入分析 | https://xz.aliyun.com/t/8081| 
+| 20200808 | 关于检测web蜜罐利用jsonp获取信息的一些想法 | https://xz.aliyun.com/t/8111| 
+| 20200808 | 红蓝对抗之域名搜集方法总结 | https://mp.weixin.qq.com/s/rECW5vKbUfI89F31WEQjyw| 
+| 20200808 | 横向渗透的常见方法 | https://mp.weixin.qq.com/s/eMXWYV-5sKR0HfcqMJOBWg| 
+| 20200808 | Black Hat USA 2020-值得关注的11家热门初创企业 | https://www.4hou.com/posts/kDlE| 
 | 20200806 | Goby食用指南之红蓝对抗 | https://mp.weixin.qq.com/s/G-Vn4htAhjwlJb67v2TtRw| 
-| 20200806 | WMCTF-WriteUp | https://mp.weixin.qq.com/s/SddIi7Om8BACyo_X1Skdfg| 
-| 20200806 | Shiro 回显Burp插件（支持burp被动扫描功能 | https://mp.weixin.qq.com/s/zYL1TADYChRrPqdz81BOdA| 
-| 20200805 | WMCTF2020 WP by 0x401 | https://mp.weixin.qq.com/s/Ll-f25pLOPbkjlo9zGFbFA| 
-| 20200804 | 人物图谱构建技术 | https://zhuanlan.zhihu.com/p/166587883| 
-| 20200804 | CVE-2020-14644 分析与 gadget 的一些思考 | https://paper.seebug.org/1281/| 
-| 20200804 | VT Code Similarity Yara Generator | https://github.com/arieljt/VTCodeSimilarity-YaraGen| 
-| 20200804 | 实战绕过双重waf结合sqlmap tamper获取数据 | https://xz.aliyun.com/t/8064| 
-| 20200803 | SecWiki周刊（第335期) | https://www.sec-wiki.com/weekly/335| 
-| 20200803 | 天翼杯-WriteUp | https://mp.weixin.qq.com/s/LM5bRCieXR7s_g_mVMbjPA| 
 
 
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20200808T00:37:26Z | 未知编号 | Null | https://github.com/potats0/cve_2020_14644 | 未查询到CVE信息| 
-| 20200807T21:33:21Z | CVE-2020-5902 | Exphub[漏洞利用脚本库] 包括Webloigc、Struts2、Tomcat、Nexus、Solr、Jboss、Drupal的漏洞利用脚本，最新添加CVE-2020-5902、CVE-2020-11444、CVE-2020-10204、CVE-2020-10199、CVE-2020-1938、CVE-2020-2551、CVE-2020-2555、CVE-2020-2883、CVE-2019-17558、CVE-2019-6340 | https://github.com/zhzyker/exphub | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 00 MINUTES 13 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200807T18:19:31Z | CVE-2020-8816 | Pi-hole ( <= 4.3.2)  authenticated remote code execution. | https://github.com/team0se7en/CVE-2020-8816 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 00 MINUTES 29 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200808T10:00:15Z | 未知编号 | Null | https://github.com/potats0/cve_2020_14644 | 未查询到CVE信息| 
+| 20200808T08:35:01Z | CVE-2020-5902 | Exphub[漏洞利用脚本库] 包括Webloigc、Struts2、Tomcat、Nexus、Solr、Jboss、Drupal的漏洞利用脚本，最新添加CVE-2020-5902、CVE-2020-11444、CVE-2020-10204、CVE-2020-10199、CVE-2020-1938、CVE-2020-2551、CVE-2020-2555、CVE-2020-2883、CVE-2019-17558、CVE-2019-6340 | https://github.com/zhzyker/exphub | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 58 MINUTES 45 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200807T18:19:31Z | CVE-2020-8816 | Pi-hole ( <= 4.3.2)  authenticated remote code execution. | https://github.com/team0se7en/CVE-2020-8816 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 58 MINUTES 16 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20200807T13:45:47Z | CVE-2020-3452 | Little, stupid python validator(?) for CVE-2020-3452 on CISCO devices. | https://github.com/foulenzer/CVE-2020-3452 | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
-| 20200807T10:58:11Z | CVE-2020-1948 | [CVE-2020-1948] Apache Dubbo Provider default deserialization cause RCE | https://github.com/L0kiii/Dubbo-deserialization | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 00 MINUTES 16 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200807T10:58:11Z | CVE-2020-1948 | [CVE-2020-1948] Apache Dubbo Provider default deserialization cause RCE | https://github.com/L0kiii/Dubbo-deserialization | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 58 MINUTES 02 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20200807T08:06:36Z | 未知编号 | A local privilege escalation chain from user to kernel for MacOS < 10.15.5. CVE-2020–9854 | https://github.com/A2nkF/unauthd | 未查询到CVE信息| 
-| 20200807T06:31:00Z | CVE-2020-0796 | Null | https://github.com/DreamoneOnly/CVE-2020-0796-LPE | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 00 MINUTES 14 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200807T04:39:24Z | cve-2020-15956 | ActiveMediaServer.exe in ACTi NVR3 Standard Server 3.0.12.42 allows remote unauthenticated attackers to trigger a buffer overflow and application termination via a malformed payload. | https://github.com/megamagnus/cve-2020-15956 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 00 MINUTES 26 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200807T06:31:00Z | CVE-2020-0796 | Null | https://github.com/DreamoneOnly/CVE-2020-0796-LPE | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 58 MINUTES 46 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200807T04:39:24Z | cve-2020-15956 | ActiveMediaServer.exe in ACTi NVR3 Standard Server 3.0.12.42 allows remote unauthenticated attackers to trigger a buffer overflow and application termination via a malformed payload. | https://github.com/megamagnus/cve-2020-15956 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 58 MINUTES 12 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20200806T22:43:54Z | CVE-2020-13886 | Exploit CVE-2020-13886 - LFI Intelbras TIP 200 / 200 LITE /  | https://github.com/lucxssouza/CVE-2020-13886 | 未查询到CVE信息| 
 | 20200806T22:25:43Z | CVE-2020-1472 | Null | https://github.com/mingchen-script/CVE-2020-1472-visualizer | 未查询到CVE信息| 
 
@@ -61,6 +61,8 @@
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20200808T09:20:57Z | Null | https://github.com/KleeUT/kleeut.com | 0 | 0| 
+| 20200808T08:19:38Z | Null | https://github.com/thierry-tct/KLEE-SEMu | 1 | 0| 
 | 20200807T18:28:35Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1455 | 447| 
 | 20200807T02:52:30Z | Null | https://github.com/klee138/klee138 | 0 | 0| 
 | 20200806T12:26:23Z | A tool that automatically calls Klee to solve for injection | https://github.com/Zzzode/KleeTool | 1 | 0| 
@@ -69,7 +71,6 @@
 | 20200804T00:31:06Z | Create CFGs and compute complexity metrics for Python, C++, and Java code. | https://github.com/hmc-alpaqa/metrinome | 3 | 0| 
 | 20200803T05:09:39Z | kleene is a library for building regular expression recognition automata - nfas, dfas, and some specialty structures. | https://github.com/davidkellis/kleene | 0 | 0| 
 | 20200802T21:14:41Z | Solving a sudoku puzzle using Klee to automatically find the solution | https://github.com/celinatala-1/Sudoku-Constraint | 0 | 0| 
-| 20200802T07:02:54Z | Null | https://github.com/KleeUT/kleeut.com | 0 | 0| 
 
 
 # s2e on Github 推荐
@@ -115,16 +116,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20200808T01:49:25Z | Null | https://github.com/ArtieFuzz/ArtieFuzz | 0 | 0| 
-| 20200808T01:42:25Z | Web application fuzzer | https://github.com/xmendez/wfuzz | 3004 | 758| 
-| 20200808T01:41:07Z | basic url fuzzer  | https://github.com/Kr4nkh3it/Bastian | 0 | 0| 
-| 20200808T01:23:57Z | We plan to specify grammars of inputs for three selected benchmarks, which share similar API and grammars of inputs. Then we will use these grammars as the seeds to generate well-formated inputs via gramfuzz, a Python-based grammer fuzzer, to penetrate deep into benchmarks’ parsers. We expect that some potential errors of benchmarks would be detected in this project. In addition, we plan to design a runner program, which can feed the inputs into the benchmarks automatically, as enhancements to gramfuzz. | https://github.com/alyssahyq/gramfuzz-calc | 0 | 1| 
-| 20200808T01:12:01Z | Notebooks with definition and plot of fuzzy sets and their operations (triangular norms, triangular conorms), fuzzy arithmetics and fuzzy relations. | https://github.com/fernandase/fuzzy-set-operations | 0 | 0| 
-| 20200808T00:30:41Z | 📨 Email template generator. Making emails fun again. | https://github.com/luangjokaj/fuzzymail | 103 | 2| 
-| 20200808T00:17:41Z | Null | https://github.com/yashirajb/fuzzy-system | 0 | 0| 
-| 20200807T23:41:44Z | No idea what I%m doing | https://github.com/klecko/fuzz | 1 | 0| 
-| 20200807T23:35:10Z | Null | https://github.com/farif/ALC-LTL-Fuzzer | 0 | 0| 
-| 20200807T23:33:57Z | A Fuzzer for COMP6447 | https://github.com/LachlanWaugh/fuzzer | 1 | 0| 
+| 20200808T12:00:29Z | Null | https://github.com/charlicruz/fuzzy_patterns | 0 | 0| 
+| 20200808T11:58:12Z | Personal website of Laurence Hughes | https://github.com/fuzzylogicxx/fuzzylogic | 4 | 1| 
+| 20200808T11:05:44Z | Null | https://github.com/jiradeto/fuzzbench-result | 0 | 0| 
+| 20200808T10:34:21Z | ModbusTCP Fuzzing and DoS Tool. | https://github.com/imertayak/FuzzyModbus | 5 | 4| 
+| 20200808T10:32:57Z | No idea what I%m doing | https://github.com/klecko/fuzz | 1 | 0| 
+| 20200808T10:25:24Z | A Fuzzer for COMP6447 | https://github.com/LachlanWaugh/fuzzer | 1 | 0| 
+| 20200808T09:43:11Z | The code behind getfursu.it | https://github.com/veelkoov/fuzzrake | 6 | 0| 
+| 20200808T09:09:54Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 3085 | 703| 
+| 20200808T08:49:41Z | Null | https://github.com/jasonandrea/fuzzy-collision-avoidance | 0 | 1| 
+| 20200808T08:49:01Z | Null | https://github.com/SmitaGJoshi/fuzzy-fortnight | 0 | 0| 
 
 
 
