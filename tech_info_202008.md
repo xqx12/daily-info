@@ -47,12 +47,12 @@
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
 | 20200808T10:00:15Z | 未知编号 | Null | https://github.com/potats0/cve_2020_14644 | 未查询到CVE信息| 
-| 20200808T08:35:01Z | CVE-2020-5902 | Exphub[漏洞利用脚本库] 包括Webloigc、Struts2、Tomcat、Nexus、Solr、Jboss、Drupal的漏洞利用脚本，最新添加CVE-2020-5902、CVE-2020-11444、CVE-2020-10204、CVE-2020-10199、CVE-2020-1938、CVE-2020-2551、CVE-2020-2555、CVE-2020-2883、CVE-2019-17558、CVE-2019-6340 | https://github.com/zhzyker/exphub | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 58 MINUTES 45 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200808T08:35:01Z | CVE-2020-5902 | Exphub[漏洞利用脚本库] 包括Webloigc、Struts2、Tomcat、Nexus、Solr、Jboss、Drupal的漏洞利用脚本，最新添加CVE-2020-5902、CVE-2020-11444、CVE-2020-10204、CVE-2020-10199、CVE-2020-1938、CVE-2020-2551、CVE-2020-2555、CVE-2020-2883、CVE-2019-17558、CVE-2019-6340 | https://github.com/zhzyker/exphub | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 57 MINUTES 58 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20200807T18:19:31Z | CVE-2020-8816 | Pi-hole ( <= 4.3.2)  authenticated remote code execution. | https://github.com/team0se7en/CVE-2020-8816 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 58 MINUTES 16 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20200807T13:45:47Z | CVE-2020-3452 | Little, stupid python validator(?) for CVE-2020-3452 on CISCO devices. | https://github.com/foulenzer/CVE-2020-3452 | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
 | 20200807T10:58:11Z | CVE-2020-1948 | [CVE-2020-1948] Apache Dubbo Provider default deserialization cause RCE | https://github.com/L0kiii/Dubbo-deserialization | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 58 MINUTES 02 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20200807T08:06:36Z | 未知编号 | A local privilege escalation chain from user to kernel for MacOS < 10.15.5. CVE-2020–9854 | https://github.com/A2nkF/unauthd | 未查询到CVE信息| 
-| 20200807T06:31:00Z | CVE-2020-0796 | Null | https://github.com/DreamoneOnly/CVE-2020-0796-LPE | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 58 MINUTES 46 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200807T06:31:00Z | CVE-2020-0796 | Null | https://github.com/DreamoneOnly/CVE-2020-0796-LPE | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 58 MINUTES 00 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20200807T04:39:24Z | cve-2020-15956 | ActiveMediaServer.exe in ACTi NVR3 Standard Server 3.0.12.42 allows remote unauthenticated attackers to trigger a buffer overflow and application termination via a malformed payload. | https://github.com/megamagnus/cve-2020-15956 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 58 MINUTES 12 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20200806T22:43:54Z | CVE-2020-13886 | Exploit CVE-2020-13886 - LFI Intelbras TIP 200 / 200 LITE /  | https://github.com/lucxssouza/CVE-2020-13886 | 未查询到CVE信息| 
 | 20200806T22:25:43Z | CVE-2020-1472 | Null | https://github.com/mingchen-script/CVE-2020-1472-visualizer | 未查询到CVE信息| 
@@ -86,31 +86,31 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20200808T01:50:10Z | A ROBLOX exploit powered by CocoCC | https://github.com/MrDucxy/dove-III | 0 | 0| 
-| 20200808T01:46:39Z | CVE 안드로이드 루팅 익스플로잇 연구 고찰. | https://github.com/Xpl010Elz/CVE_Rooting_Exploit_Anlysis | 0 | 0| 
-| 20200808T01:45:13Z | Custom version of the original Overthrow.  Bugs squashed and squashing, exploits punishable by death, new businesses plus much more, oh and high steriod use by the AI ;) Discord link  https://discord.gg/ZdMMq9x | https://github.com/GerhartPapaGee/Overthrow-Martial-Law | 0 | 1| 
-| 20200808T01:39:04Z | Exploit for House Rental v1.0 Remote Code Execution (Unauthenticated) | https://github.com/hyd3sec/HouseRental_Unauth_RCE | 0 | 0| 
-| 20200808T01:30:28Z | Very basic Python 3 TCP server/client app with multithreading and sockets. Will be updated over time. Server.py can be exploited as of now. Goal is to get computations sent from clients to server and return data back to clients. | https://github.com/GemaSoftware/SimplePythonTCPServerClient | 0 | 0| 
-| 20200808T01:11:41Z | EternalBlue suite remade in C/C++ which includes: MS17-010 Exploit, EternalBlue vulnerability detector, DoublePulsar detector and DoublePulsar Shellcode & DLL uploader | https://github.com/bhassani/EternalBlueC | 108 | 27| 
-| 20200808T00:47:51Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 2 | 1| 
-| 20200808T00:45:09Z | DeimosC2 is a Golang command and control framework for post-exploitation. | https://github.com/DeimosC2/DeimosC2 | 246 | 36| 
-| 20200808T00:41:42Z | A phased, evasive Path Traversal + LFI scanning & exploitation tool in Python | https://github.com/VainlyStrain/Vailyn | 16 | 0| 
-| 20200808T00:38:57Z | Compromising the macOS Kernel through Safari by Chaining Six Vulnerabilities | https://github.com/sslab-gatech/pwn2own2020 | 114 | 30| 
+| 20200808T11:51:54Z | A curated set of algorithms that exploit the power and simplicity of golang | https://github.com/jeyabalajis/goalgos | 0 | 0| 
+| 20200808T11:37:52Z | More Stable Offline Exploit version of PS4 6.72 Jailbreak. | https://github.com/DarkModderVC/PS4JB | 52 | 20| 
+| 20200808T11:31:45Z | Python utilities for binary exploitation. | https://github.com/melnicek/buffer-overflow-toolkit | 0 | 0| 
+| 20200808T11:30:52Z | Offensive Software Exploitation Course | https://github.com/ashemery/exploitation-course | 51 | 16| 
+| 20200808T11:13:42Z | a simple example of csrftoken exploit | https://github.com/carlosyenh/csrf-token-exploit-example | 0 | 0| 
+| 20200808T10:48:59Z | Aktaion is a machine learning open source & active defense (orchestration) prototype. The tool focuses on the detection of exploits based on machine learning techniques, independent of static-based signatures. | https://github.com/jzadeh/aktaion2 | 28 | 12| 
+| 20200808T10:48:20Z | Process Hollowing Injection Technique | https://github.com/mcdulltii/ProcessHollowing | 0 | 0| 
+| 20200808T10:17:29Z | onifw is a console framework for pentesting | https://github.com/w0bos/onifw | 4 | 0| 
+| 20200808T09:48:05Z | Arranged the contents of %Hacking: Art of Exploitation% to work both 32bit and 64bit on %Ubuntu 18.04.4 LTS% | https://github.com/FromNand/Hacking | 0 | 0| 
+| 20200808T09:25:20Z | A standalone python script leveraging ntdll for UEFI variable enumeration. This uses elements from the %chipsec% toolkit for formatting when extracting NVRAM buffer from the ntdll library function and underlying runtime service. This is working on Windows 7 - 10 in testing.  | https://github.com/connormorley/OuterHaven-UEFI_exploitation_and_detection | 3 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20200808T09:00:27Z | Null | https://github.com/OgulcanKacarr/TrBackdoor | 0 | 0| 
+| 20200808T07:23:45Z | Null | https://github.com/kaidi-jin/backdoor_samples_detection | 1 | 0| 
+| 20200808T02:14:35Z | knowledge distillation & backdoor | https://github.com/zhuangzi926/kdbackdoor | 0 | 0| 
 | 20200807T20:48:11Z | Backdoor Script Bypass NextGen-Down | https://github.com/PredatoreSexe/Backdoor-Script-Bypass-NextGen-Down | 0 | 0| 
 | 20200807T20:16:21Z | Winbackdoor implementation in golang (the documentation for go is coming soon) | https://github.com/Unam3dd/WinBackdoor | 0 | 0| 
 | 20200807T19:37:06Z | Null | https://github.com/Xinghui-Wu/ASR_Backdoor | 2 | 0| 
 | 20200807T19:24:08Z | Vysecator Is a Python Script Obfuscator Tool, Which can be used to Obfuscate your hand written Malwares! | https://github.com/Vedant-Bhalgama/VySecator | 12 | 1| 
-| 20200807T19:13:24Z | Null | https://github.com/OgulcanKacarr/TrBackdoor | 0 | 0| 
 | 20200807T16:33:22Z | A Multi-Function backdoor application based on TCP Reverse Shell | https://github.com/HalukShan/HitDA | 7 | 0| 
 | 20200807T13:45:20Z | Only for educational purposes | https://github.com/Levi-python/HHbackdoor-V0.3 | 0 | 0| 
 | 20200807T13:36:44Z | List of possible Linux backdoors | https://github.com/gquere/linux_backdooring | 2 | 2| 
-| 20200807T13:28:49Z | Null | https://github.com/kaidi-jin/backdoor_samples_detection | 1 | 0| 
-| 20200807T07:46:58Z | Winbackdoor implementation in golang (Documentation the documentation for go is coming soon) | https://github.com/Unam3dd/GoWinBackdoor | 0 | 0| 
 
 
 # fuzz on Github 推荐
