@@ -46,14 +46,14 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20200807T21:33:21Z | CVE-2020-5902 | Exphub[漏洞利用脚本库] 包括Webloigc、Struts2、Tomcat、Nexus、Solr、Jboss、Drupal的漏洞利用脚本，最新添加CVE-2020-5902、CVE-2020-11444、CVE-2020-10204、CVE-2020-10199、CVE-2020-1938、CVE-2020-2551、CVE-2020-2555、CVE-2020-2883、CVE-2019-17558、CVE-2019-6340 | https://github.com/zhzyker/exphub | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 29 MINUTES 12 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200807T18:19:31Z | CVE-2020-8816 | Pi-hole ( <= 4.3.2)  authenticated remote code execution. | https://github.com/team0se7en/CVE-2020-8816 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 28 MINUTES 29 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200807T14:25:20Z | 未知编号 | Null | https://github.com/potats0/cve_2020_14644 | | 
+| 20200807T21:33:21Z | CVE-2020-5902 | Exphub[漏洞利用脚本库] 包括Webloigc、Struts2、Tomcat、Nexus、Solr、Jboss、Drupal的漏洞利用脚本，最新添加CVE-2020-5902、CVE-2020-11444、CVE-2020-10204、CVE-2020-10199、CVE-2020-1938、CVE-2020-2551、CVE-2020-2555、CVE-2020-2883、CVE-2019-17558、CVE-2019-6340 | https://github.com/zhzyker/exphub | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 28 MINUTES 12 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200807T18:19:31Z | CVE-2020-8816 | Pi-hole ( <= 4.3.2)  authenticated remote code execution. | https://github.com/team0se7en/CVE-2020-8816 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 27 MINUTES 29 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200807T14:25:20Z | 未知编号 | Null | https://github.com/potats0/cve_2020_14644 | 未查询到CVE信息| 
 | 20200807T13:45:47Z | CVE-2020-3452 | Little, stupid python validator(?) for CVE-2020-3452 on CISCO devices. | https://github.com/foulenzer/CVE-2020-3452 | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
-| 20200807T10:58:11Z | CVE-2020-1948 | [CVE-2020-1948] Apache Dubbo Provider default deserialization cause RCE | https://github.com/L0kiii/Dubbo-deserialization | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 29 MINUTES 16 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200807T10:58:11Z | CVE-2020-1948 | [CVE-2020-1948] Apache Dubbo Provider default deserialization cause RCE | https://github.com/L0kiii/Dubbo-deserialization | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 28 MINUTES 15 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20200807T08:06:36Z | 未知编号 | A local privilege escalation chain from user to kernel for MacOS < 10.15.5. CVE-2020–9854 | https://github.com/A2nkF/unauthd | 未查询到CVE信息| 
-| 20200807T06:31:00Z | CVE-2020-0796 | Null | https://github.com/DreamoneOnly/CVE-2020-0796-LPE | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 29 MINUTES 13 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200807T04:39:24Z | cve-2020-15956 | ActiveMediaServer.exe in ACTi NVR3 Standard Server 3.0.12.42 allows remote unauthenticated attackers to trigger a buffer overflow and application termination via a malformed payload. | https://github.com/megamagnus/cve-2020-15956 | | 
+| 20200807T06:31:00Z | CVE-2020-0796 | Null | https://github.com/DreamoneOnly/CVE-2020-0796-LPE | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 28 MINUTES 13 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200807T04:39:24Z | cve-2020-15956 | ActiveMediaServer.exe in ACTi NVR3 Standard Server 3.0.12.42 allows remote unauthenticated attackers to trigger a buffer overflow and application termination via a malformed payload. | https://github.com/megamagnus/cve-2020-15956 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 28 MINUTES 26 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20200806T22:43:54Z | CVE-2020-13886 | Exploit CVE-2020-13886 - LFI Intelbras TIP 200 / 200 LITE /  | https://github.com/lucxssouza/CVE-2020-13886 | 未查询到CVE信息| 
 | 20200806T22:25:43Z | CVE-2020-1472 | Null | https://github.com/mingchen-script/CVE-2020-1472-visualizer | 未查询到CVE信息| 
 
@@ -115,6 +115,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20200808T00:30:41Z | 📨 Email template generator. Making emails fun again. | https://github.com/luangjokaj/fuzzymail | 103 | 2| 
 | 20200808T00:20:43Z | We plan to specify grammars of inputs for three selected benchmarks, which share similar API and grammars of inputs. Then we will use these grammars as the seeds to generate well-formated inputs via gramfuzz, a Python-based grammer fuzzer, to penetrate deep into benchmarks’ parsers. We expect that some potential errors of benchmarks would be detected in this project. In addition, we plan to design a runner program, which can feed the inputs into the benchmarks automatically, as enhancements to gramfuzz. | https://github.com/alyssahyq/gramfuzz-calc | 0 | 1| 
 | 20200808T00:17:41Z | Null | https://github.com/yashirajb/fuzzy-system | 0 | 0| 
 | 20200807T23:56:51Z | Web application fuzzer | https://github.com/xmendez/wfuzz | 3003 | 758| 
@@ -124,7 +125,6 @@
 | 20200807T22:45:10Z | Notebooks with definition and plot of fuzzy sets and their operations (triangular norms, triangular conorms), fuzzy arithmetics and fuzzy relations. | https://github.com/fernandase/fuzzy-set-operations | 0 | 0| 
 | 20200807T22:16:49Z | Null | https://github.com/randomicons/fuzzydoro | 0 | 1| 
 | 20200807T22:07:38Z | OSS-Fuzz - continuous fuzzing of open source software. | https://github.com/google/oss-fuzz | 5454 | 1065| 
-| 20200807T22:06:39Z | Real firmware fuzz-tested in P2IM paper | https://github.com/RiS3-Lab/p2im-real_firmware | 1 | 0| 
 
 
 
