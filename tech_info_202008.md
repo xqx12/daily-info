@@ -46,24 +46,24 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20200807T12:58:04Z | CVE-2020-5902 | Exphub[漏洞利用脚本库] 包括Webloigc、Struts2、Tomcat、Nexus、Solr、Jboss、Drupal的漏洞利用脚本，最新添加CVE-2020-5902、CVE-2020-11444、CVE-2020-10204、CVE-2020-10199、CVE-2020-1938、CVE-2020-2551、CVE-2020-2555、CVE-2020-2883、CVE-2019-17558、CVE-2019-6340 | https://github.com/zhzyker/exphub | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 01 MINUTES 11 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200807T12:35:11Z | 未知编号 | Null | https://github.com/potats0/cve_2020_14644 | 未查询到CVE信息| 
-| 20200807T10:58:11Z | CVE-2020-1948 | [CVE-2020-1948] Apache Dubbo Provider default deserialization cause RCE | https://github.com/L0kiii/Dubbo-deserialization | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 01 MINUTES 15 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200807T21:33:21Z | CVE-2020-5902 | Exphub[漏洞利用脚本库] 包括Webloigc、Struts2、Tomcat、Nexus、Solr、Jboss、Drupal的漏洞利用脚本，最新添加CVE-2020-5902、CVE-2020-11444、CVE-2020-10204、CVE-2020-10199、CVE-2020-1938、CVE-2020-2551、CVE-2020-2555、CVE-2020-2883、CVE-2019-17558、CVE-2019-6340 | https://github.com/zhzyker/exphub | 在BIG-IP版本15.0.0-15.1.0.3、14.1.0-14.1.2.5、13.1.0-13.1.3.3、12.1.0-12.1.5.1和11.6.1-11.6.5.1中，流量管理用户接口（TMUI），也称为“配置”实用程序，在未公开的页面中具有远程执行代码（RCE）漏洞。| 
+| 20200807T18:19:31Z | CVE-2020-8816 | Pi-hole ( <= 4.3.2)  authenticated remote code execution. | https://github.com/team0se7en/CVE-2020-8816 | Pi-hole Web v4.3.2（aka AdminLTE）允许特权仪表板用户通过精心设计的DHCP静态租约进行远程代码执行。| 
+| 20200807T14:25:20Z | 未知编号 | Null | https://github.com/potats0/cve_2020_14644 | 未查询到CVE信息| 
+| 20200807T13:45:47Z | CVE-2020-3452 | Little, stupid python validator(?) for CVE-2020-3452 on CISCO devices. | https://github.com/foulenzer/CVE-2020-3452 | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
+| 20200807T10:58:11Z | CVE-2020-1948 | [CVE-2020-1948] Apache Dubbo Provider default deserialization cause RCE | https://github.com/L0kiii/Dubbo-deserialization | 此漏洞可能影响所有Dubbo用户停留在2.7.6或更低版本上。攻击者可以发送带有无法识别的服务名称或方法名称以及某些恶意参数有效载荷的RPC请求。反序列化恶意参数时，它将执行一些恶意代码。可以在下面找到更多详细信息。| 
 | 20200807T08:06:36Z | 未知编号 | A local privilege escalation chain from user to kernel for MacOS < 10.15.5. CVE-2020–9854 | https://github.com/A2nkF/unauthd | 未查询到CVE信息| 
-| 20200807T06:31:00Z | CVE-2020-0796 | Null | https://github.com/DreamoneOnly/CVE-2020-0796-LPE | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 01 MINUTES 12 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200807T04:39:24Z | cve-2020-15956 | ActiveMediaServer.exe in ACTi NVR3 Standard Server 3.0.12.42 allows remote unauthenticated attackers to trigger a buffer overflow and application termination via a malformed payload. | https://github.com/megamagnus/cve-2020-15956 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 01 MINUTES 24 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200806T23:56:42Z | CVE-2020-3452 | Little, stupid python validator(?) for CVE-2020-3452 on CISCO devices. | https://github.com/foulenzer/CVE-2020-3452 | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
+| 20200807T06:31:00Z | CVE-2020-0796 | Null | https://github.com/DreamoneOnly/CVE-2020-0796-LPE | Microsoft服务器消息块3.1.1（SMBv3）协议处理某些请求的方式中存在一个远程执行代码漏洞，也称为“ Windows SMBv3客户端/服务器远程执行代码漏洞”。| 
+| 20200807T04:39:24Z | cve-2020-15956 | ActiveMediaServer.exe in ACTi NVR3 Standard Server 3.0.12.42 allows remote unauthenticated attackers to trigger a buffer overflow and application termination via a malformed payload. | https://github.com/megamagnus/cve-2020-15956 | | 
 | 20200806T22:43:54Z | CVE-2020-13886 | Exploit CVE-2020-13886 - LFI Intelbras TIP 200 / 200 LITE /  | https://github.com/lucxssouza/CVE-2020-13886 | 未查询到CVE信息| 
 | 20200806T22:25:43Z | CVE-2020-1472 | Null | https://github.com/mingchen-script/CVE-2020-1472-visualizer | 未查询到CVE信息| 
-| 20200806T15:14:15Z | CVE-2020-8816 | Pi-hole ( <= 4.3.2)  authenticated remote code execution. | https://github.com/team0se7en/CVE-2020-8816 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 01 MINUTES 28 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20200807T18:28:35Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1455 | 447| 
 | 20200807T02:52:30Z | Null | https://github.com/klee138/klee138 | 0 | 0| 
 | 20200806T12:26:23Z | A tool that automatically calls Klee to solve for injection | https://github.com/Zzzode/KleeTool | 1 | 0| 
-| 20200806T06:09:06Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1455 | 447| 
 | 20200805T04:05:32Z | A 4chan image browser written in SwiftUI | https://github.com/jackpal/KleeneStar | 9 | 0| 
 | 20200804T05:47:47Z | A CSS / JS framework and a design system | https://github.com/logic-fabric/klee | 0 | 0| 
 | 20200804T00:31:06Z | Create CFGs and compute complexity metrics for Python, C++, and Java code. | https://github.com/hmc-alpaqa/metrinome | 3 | 0| 
@@ -85,46 +85,46 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20200807T12:51:41Z | A simple flutter app that exploits Newton%s Second Law to calculate heights given time | https://github.com/doc-dev/Height-Calculator | 0 | 0| 
-| 20200807T12:47:50Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 2 | 1| 
-| 20200807T12:45:30Z | Python utilities for binary exploitation. | https://github.com/melnicek/buffer-overflow-toolkit | 0 | 0| 
-| 20200807T12:43:47Z | Blog! | https://github.com/nonetype/nonetype.github.io | 0 | 0| 
-| 20200807T12:35:12Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 6817 | 1082| 
-| 20200807T12:32:49Z | This thesis investigates the relationship between employee sentiment, proxied by Glassdoor reviews and ratings, and excessive returns on corresponding bonds. While sentiment analysis is well studied for probing into how companies are perceived by investors or the general public, it is a novel idea to exploit sentiment of employees, which enables us to capture very important information for assessing companies% governance. Although a few studies scrutinising the relation employee sentiment and future stock returns have already appeared, this is the first attempt, to the best of my knowledge, to place this analysis to the universe of corporate bonds. | https://github.com/stancld/MSc-Project | 0 | 0| 
-| 20200807T12:25:01Z | More Stable Offline Exploit version of PS4 6.72 Jailbreak. | https://github.com/DarkModderVC/PS4JB | 51 | 19| 
-| 20200807T12:13:15Z | Null | https://github.com/Artem-Malyi/binary-exploitation | 0 | 0| 
-| 20200807T12:10:36Z | Development of code to exploit LSST and VISTA imaging | https://github.com/lsst-uk/lsst-ir-fusion | 0 | 0| 
-| 20200807T11:43:46Z | Custom version of the original Overthrow.  Bugs squashed and squashing, exploits punishable by death, new businesses plus much more, oh and high steriod use by the AI ;) Discord link  https://discord.gg/ZdMMq9x | https://github.com/GerhartPapaGee/Overthrow-Martial-Law | 0 | 1| 
+| 20200808T00:00:35Z | Just a nice Roblox GUI for exploits | https://github.com/GamerBoi153/Just-Some-Scripts | 0 | 0| 
+| 20200807T23:59:59Z | Compromising the macOS Kernel through Safari by Chaining Six Vulnerabilities | https://github.com/sslab-gatech/pwn2own2020 | 111 | 30| 
+| 20200807T23:59:08Z | CVE 안드로이드 루팅 익스플로잇 연구 고찰. | https://github.com/Xpl010Elz/CVE_Rooting_Exploit_Anlysis | 0 | 0| 
+| 20200807T23:49:43Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 6826 | 1085| 
+| 20200807T23:33:29Z | *Frequently Updated. Sifter is a osint, recon & vulnerability scanner. It combines a plethara of tools within different module sets in order to quickly perform recon tasks, check network firewalling, enumerate remote and local hosts, and scan for the %blue% vulnerabilities within microsft and if unpatched, exploit them.  It uses tools like blackwidow and konan for webdir enumeration and attack surface mapping rapidly using ASM.  | https://github.com/s1l3nt78/sifter | 218 | 71| 
+| 20200807T23:23:32Z | A series of CTF challenge solutions for binary exploitation (or pwn) and reverse engineering (or rev) challenges | https://github.com/docfate111/binary-exploitation-solution-scripts | 0 | 0| 
+| 20200807T23:09:04Z | Potential xss exploitation / Potentiel exploitation XSS | https://github.com/tonius85/contactform_xss | 0 | 0| 
+| 20200807T22:58:45Z | DeimosC2 is a Golang command and control framework for post-exploitation. | https://github.com/DeimosC2/DeimosC2 | 245 | 35| 
+| 20200807T22:55:58Z | Script to check MikroTik Routers the  WinBox Authentication Bypass Disclosure & RouterOS Jailbreak vulnerabilities | https://github.com/s1l3nt78/MkCheck | 35 | 12| 
+| 20200807T22:46:22Z | Null | https://github.com/Kahvi-0/Vulnerabilities-and-Exploitations | 1 | 1| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20200807T20:48:11Z | Backdoor Script Bypass NextGen-Down | https://github.com/PredatoreSexe/Backdoor-Script-Bypass-NextGen-Down | 0 | 0| 
+| 20200807T20:16:21Z | Winbackdoor implementation in golang (the documentation for go is coming soon) | https://github.com/Unam3dd/WinBackdoor | 0 | 0| 
+| 20200807T19:37:06Z | Null | https://github.com/Xinghui-Wu/ASR_Backdoor | 2 | 0| 
+| 20200807T19:24:08Z | Vysecator Is a Python Script Obfuscator Tool, Which can be used to Obfuscate your hand written Malwares! | https://github.com/Vedant-Bhalgama/VySecator | 12 | 1| 
+| 20200807T19:13:24Z | Null | https://github.com/OgulcanKacarr/TrBackdoor | 0 | 0| 
+| 20200807T16:33:22Z | A Multi-Function backdoor application based on TCP Reverse Shell | https://github.com/HalukShan/HitDA | 7 | 0| 
+| 20200807T13:45:20Z | Only for educational purposes | https://github.com/Levi-python/HHbackdoor-V0.3 | 0 | 0| 
+| 20200807T13:36:44Z | List of possible Linux backdoors | https://github.com/gquere/linux_backdooring | 2 | 2| 
+| 20200807T13:28:49Z | Null | https://github.com/kaidi-jin/backdoor_samples_detection | 1 | 0| 
 | 20200807T07:46:58Z | Winbackdoor implementation in golang (Documentation the documentation for go is coming soon) | https://github.com/Unam3dd/GoWinBackdoor | 0 | 0| 
-| 20200807T07:23:25Z | Bot Laravel Auto Exploit And Upload Backdoor | https://github.com/tobiphoenix/laravelbot | 0 | 0| 
-| 20200807T07:02:24Z | Cross-platform reverse backdoor and tools written in Python. | https://github.com/SWWILSO/simpleReverseBackdoor | 0 | 0| 
-| 20200807T06:35:03Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 40 | 4| 
-| 20200807T05:37:14Z | Null | https://github.com/CCCjiang/BackdoorNLP-Papers | 0 | 0| 
-| 20200807T04:57:15Z | Null | https://github.com/HeyThisHaku/SimpleBackdoor-Python | 0 | 0| 
-| 20200806T20:18:20Z | A deck-building roguelike cyberpunk game. | https://github.com/uspgamedev/backdoor | 16 | 2| 
-| 20200806T16:22:45Z | Null | https://github.com/pistacchietto/Win-Python-Backdoor | 3 | 2| 
-| 20200806T15:06:55Z | Vysecator Is a Python Script Obfuscator Tool, Which can be used to Obfuscate your hand written Malwares! | https://github.com/Vedant-Bhalgama/VySecator | 11 | 1| 
-| 20200806T12:02:00Z | Arcane is a simple script designed to backdoor iOS packages (iphone-arm) and create the necessary resources for APT repositories. | https://github.com/tokyoneon/Arcane | 24 | 2| 
 
 
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20200807T12:55:03Z | Null | https://github.com/yashirajb/fuzzy-system | 0 | 0| 
-| 20200807T12:54:41Z | Null | https://github.com/cfayard/fuzzy-carnival-haha-also-React-practice | 0 | 0| 
-| 20200807T12:51:40Z | A tool to enable fuzzing for Spectre vulnerabilities | https://github.com/OleksiiOleksenko/SpecFuzz | 9 | 3| 
-| 20200807T12:34:19Z | Fuzzy dataset plot component | https://github.com/manikantag/angular-fuzzy-plot | 0 | 0| 
-| 20200807T12:19:05Z | Automate search hidden directories and files on server | https://github.com/codebyzen/SiteDirectoryFuzzer | 0 | 0| 
-| 20200807T11:52:41Z | Code repository with customisable Fuzzy Matching scripts in STATA and Python, especially useful when working with datasets containing Hindi text transliterated to English. | https://github.com/IDinsight/hin-fuzzy-merge | 0 | 0| 
-| 20200807T11:50:00Z | Quantitative Approach to the Core-Satellite Paradigm | https://github.com/Ligophorus/FuzzyQ | 0 | 0| 
-| 20200807T11:11:24Z | Null | https://github.com/ApurvaB09/fuzzy-waffle | 0 | 0| 
-| 20200807T10:10:45Z | Tutorials, examples, discussions, research proposals, and other resources related to fuzzing | https://github.com/google/fuzzing | 1368 | 192| 
-| 20200807T09:01:50Z | Null | https://github.com/Ishaan29/fuzzy-chainsaw-algo | 1 | 0| 
+| 20200807T23:56:51Z | Web application fuzzer | https://github.com/xmendez/wfuzz | 3003 | 758| 
+| 20200807T23:41:44Z | No idea what I%m doing | https://github.com/klecko/fuzz | 1 | 0| 
+| 20200807T23:35:10Z | Null | https://github.com/farif/ALC-LTL-Fuzzer | 0 | 0| 
+| 20200807T23:33:57Z | A Fuzzer for COMP6447 | https://github.com/LachlanWaugh/fuzzer | 1 | 0| 
+| 20200807T22:45:10Z | Notebooks with definition and plot of fuzzy sets and their operations (triangular norms, triangular conorms), fuzzy arithmetics and fuzzy relations. | https://github.com/fernandase/fuzzy-set-operations | 0 | 0| 
+| 20200807T22:16:49Z | Null | https://github.com/randomicons/fuzzydoro | 0 | 1| 
+| 20200807T22:07:38Z | OSS-Fuzz - continuous fuzzing of open source software. | https://github.com/google/oss-fuzz | 5454 | 1065| 
+| 20200807T22:06:39Z | Real firmware fuzz-tested in P2IM paper | https://github.com/RiS3-Lab/p2im-real_firmware | 1 | 0| 
+| 20200807T22:01:52Z | Scalable fuzzing infrastructure. | https://github.com/google/clusterfuzz | 4290 | 384| 
+| 20200807T21:56:11Z | Null | https://github.com/niles87/fuzzy-doodle | 0 | 0| 
 
 
 
