@@ -6,6 +6,8 @@
 # 玄武实验室 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20200808 | Defcon 2020在线会议：卫星窃听和检测虚假的4G基站。 | https://www.rtl-sdr.com/defcon-2020-online-talks-satellite-eavesdropping-detecting-fake-4g-base-stations-more/| 
+| 20200808 | 网络取证调查：使用RegRipper开源工具对Windows注册表分析。 | https://www.hackingarticles.in/forensic-investigation-windows-registry-analysis/| 
 
 
 # 安全维基 推荐
@@ -25,9 +27,11 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20200808T12:38:23Z | 未知编号 | Null | https://github.com/potats0/cve_2020_14644 | 未查询到CVE信息| 
-| 20200808T12:27:52Z | CVE-2020-8816 | Pi-hole Remote Code Execution authenticated Version >= 4.3.2 | https://github.com/cybervaca/CVE-2020-8816 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  09 HOURS 45 MINUTES 14 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200808T08:35:01Z | CVE-2020-5902 | Exphub[漏洞利用脚本库] 包括Webloigc、Struts2、Tomcat、Nexus、Solr、Jboss、Drupal的漏洞利用脚本，最新添加CVE-2020-5902、CVE-2020-11444、CVE-2020-10204、CVE-2020-10199、CVE-2020-1938、CVE-2020-2551、CVE-2020-2555、CVE-2020-2883、CVE-2019-17558、CVE-2019-6340 | https://github.com/zhzyker/exphub | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  09 HOURS 45 MINUTES 01 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200808T20:05:23Z | 未知编号 | Null | https://github.com/potats0/cve_2020_14644 | 未查询到CVE信息| 
+| 20200808T18:49:19Z | CVE-2020-5902 | Exphub[漏洞利用脚本库] 包括Webloigc、Struts2、Tomcat、Nexus、Solr、Jboss、Drupal的漏洞利用脚本，最新添加CVE-2020-5902、CVE-2020-11444、CVE-2020-10204、CVE-2020-10199、CVE-2020-1938、CVE-2020-2551、CVE-2020-2555、CVE-2020-2883、CVE-2019-17558、CVE-2019-6340 | https://github.com/zhzyker/exphub | 在BIG-IP版本15.0.0-15.1.0.3、14.1.0-14.1.2.5、13.1.0-13.1.3.3、12.1.0-12.1.5.1和11.6.1-11.6.5.1中，流量管理用户接口（TMUI），也称为“配置”实用程序，在未公开的页面中具有远程执行代码（RCE）漏洞。| 
+| 20200808T16:31:03Z | CVE-2020-11579 | Exploit code for CVE-2020-11579, an arbitrary file disclosure through the MySQL client in PHPKB | https://github.com/ShielderSec/CVE-2020-11579 | 未查询到CVE信息| 
+| 20200808T16:00:35Z | CVE-2020-2034 | Determine the Version Running on the Palo Alto Network Firewall for the Global Protect Portal | https://github.com/blackhatethicalhacking/CVE-2020-2034-POC | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
+| 20200808T12:27:52Z | CVE-2020-8816 | Pi-hole Remote Code Execution authenticated Version >= 4.3.2 | https://github.com/cybervaca/CVE-2020-8816 | Pi-hole Web v4.3.2（aka AdminLTE）允许特权仪表板用户通过精心设计的DHCP静态租约进行远程代码执行。| 
 
 
 # klee on Github 推荐
@@ -45,16 +49,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20200808T12:57:21Z | Offensive Software Exploitation Course | https://github.com/ashemery/exploitation-course | 52 | 16| 
-| 20200808T12:35:10Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 6833 | 1087| 
-| 20200808T11:51:54Z | A curated set of algorithms that exploit the power and simplicity of golang | https://github.com/jeyabalajis/goalgos | 0 | 0| 
-| 20200808T11:37:52Z | More Stable Offline Exploit version of PS4 6.72 Jailbreak. | https://github.com/DarkModderVC/PS4JB | 52 | 20| 
-| 20200808T11:31:45Z | Python utilities for binary exploitation. | https://github.com/melnicek/buffer-overflow-toolkit | 0 | 0| 
-| 20200808T11:13:42Z | a simple example of csrftoken exploit | https://github.com/carlosyenh/csrf-token-exploit-example | 0 | 0| 
-| 20200808T10:48:59Z | Aktaion is a machine learning open source & active defense (orchestration) prototype. The tool focuses on the detection of exploits based on machine learning techniques, independent of static-based signatures. | https://github.com/jzadeh/aktaion2 | 28 | 12| 
-| 20200808T10:48:20Z | Process Hollowing Injection Technique | https://github.com/mcdulltii/ProcessHollowing | 0 | 0| 
-| 20200808T10:17:29Z | onifw is a console framework for pentesting | https://github.com/w0bos/onifw | 4 | 0| 
-| 20200808T09:48:05Z | Arranged the contents of %Hacking: Art of Exploitation% to work both 32bit and 64bit on %Ubuntu 18.04.4 LTS% | https://github.com/FromNand/Hacking | 0 | 0| 
+| 20200808T23:58:22Z | Python utilities for binary exploitation. | https://github.com/melnicek/buffer-overflow-toolkit | 0 | 0| 
+| 20200808T23:58:06Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 6843 | 1089| 
+| 20200808T23:29:52Z | A phased, evasive Path Traversal + LFI scanning & exploitation tool in Python | https://github.com/VainlyStrain/Vailyn | 18 | 0| 
+| 20200808T23:28:59Z | Null | https://github.com/smarinovic/exploits | 0 | 0| 
+| 20200808T23:00:46Z | Compromising the macOS Kernel through Safari by Chaining Six Vulnerabilities | https://github.com/sslab-gatech/pwn2own2020 | 151 | 37| 
+| 20200808T22:53:06Z | My Cybersecurity Blog - Learning Is Life | https://github.com/flast101/flast101.github.io | 0 | 0| 
+| 20200808T22:12:37Z | A tool for automatic scanning and exploit of a network or device | https://github.com/user951/Black-ufo | 1 | 0| 
+| 20200808T21:59:10Z | PaySmtp is a script to exploit the LFI vulnerability with SMTP and reverse shell. | https://github.com/ron020/PaySmTp | 0 | 0| 
+| 20200808T21:52:24Z | 📢 🔒  Exploit farm for attack-defense CTF competitions | https://github.com/DestructiveVoice/DestructiveFarm | 99 | 31| 
+| 20200808T21:49:53Z | CVE 안드로이드 루팅 익스플로잇 연구 고찰. | https://github.com/Xpl010Elz/CVE_Rooting_Exploit_Anlysis | 0 | 0| 
 
 
 # backdoor on Github 推荐
