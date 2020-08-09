@@ -54,7 +54,7 @@
 | 20200807T18:19:31Z | CVE-2020-8816 | Pi-hole ( <= 4.3.2)  authenticated remote code execution. | https://github.com/team0se7en/CVE-2020-8816 | Pi-hole Web v4.3.2（aka AdminLTE）允许特权仪表板用户通过精心设计的DHCP静态租约进行远程代码执行。| 
 | 20200807T13:45:47Z | CVE-2020-3452 | Little, stupid python validator(?) for CVE-2020-3452 on CISCO devices. | https://github.com/foulenzer/CVE-2020-3452 | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
 | 20200807T10:58:11Z | CVE-2020-1948 | [CVE-2020-1948] Apache Dubbo Provider default deserialization cause RCE | https://github.com/L0kiii/Dubbo-deserialization | 此漏洞可能影响所有Dubbo用户停留在2.7.6或更低版本上。攻击者可以发送带有无法识别的服务名称或方法名称以及某些恶意参数有效载荷的RPC请求。反序列化恶意参数时，它将执行一些恶意代码。可以在下面找到更多详细信息。| 
-| 20200807T08:06:36Z | 未知编号 | A local privilege escalation chain from user to kernel for MacOS < 10.15.5. CVE-2020–9854 | https://github.com/A2nkF/unauthd | 未查询到CVE信息| 
+| 20200807T08:06:36Z | 未知编号 | A local privilege escalation chain from user to kernel for MacOS < 10.15.5. CVE-2020–9854 | https://github.com/A2nkF/unauthd | | 
 | 20200807T06:31:00Z | CVE-2020-0796 | Null | https://github.com/DreamoneOnly/CVE-2020-0796-LPE | Microsoft服务器消息块3.1.1（SMBv3）协议处理某些请求的方式中存在一个远程执行代码漏洞，也称为“ Windows SMBv3客户端/服务器远程执行代码漏洞”。| 
 
 
@@ -86,6 +86,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20200809T00:03:22Z | Python utilities for binary exploitation. | https://github.com/melnicek/bot | 0 | 0| 
 | 20200809T00:01:39Z | Null | https://github.com/smarinovic/exploits | 0 | 0| 
 | 20200808T23:58:22Z | Python utilities for binary exploitation. | https://github.com/melnicek/buffer-overflow-toolkit | 0 | 0| 
 | 20200808T23:58:06Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 6843 | 1089| 
@@ -95,7 +96,6 @@
 | 20200808T22:12:37Z | A tool for automatic scanning and exploit of a network or device | https://github.com/user951/Black-ufo | 1 | 0| 
 | 20200808T21:59:10Z | PaySmtp is a script to exploit the LFI vulnerability with SMTP and reverse shell. | https://github.com/ron020/PaySmTp | 0 | 0| 
 | 20200808T21:52:24Z | 📢 🔒  Exploit farm for attack-defense CTF competitions | https://github.com/DestructiveVoice/DestructiveFarm | 99 | 31| 
-| 20200808T21:49:53Z | CVE 안드로이드 루팅 익스플로잇 연구 고찰. | https://github.com/Xpl010Elz/CVE_Rooting_Exploit_Anlysis | 0 | 0| 
 
 
 # backdoor on Github 推荐
