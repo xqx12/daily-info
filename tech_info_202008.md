@@ -46,16 +46,16 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20200808T20:05:23Z | 未知编号 | Null | https://github.com/potats0/cve_2020_14644 | | 
-| 20200808T18:49:19Z | CVE-2020-5902 | Exphub[漏洞利用脚本库] 包括Webloigc、Struts2、Tomcat、Nexus、Solr、Jboss、Drupal的漏洞利用脚本，最新添加CVE-2020-5902、CVE-2020-11444、CVE-2020-10204、CVE-2020-10199、CVE-2020-1938、CVE-2020-2551、CVE-2020-2555、CVE-2020-2883、CVE-2019-17558、CVE-2019-6340 | https://github.com/zhzyker/exphub | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 02 MINUTES 55 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200808T20:05:23Z | 未知编号 | Null | https://github.com/potats0/cve_2020_14644 | 未查询到CVE信息| 
+| 20200808T18:49:19Z | CVE-2020-5902 | Exphub[漏洞利用脚本库] 包括Webloigc、Struts2、Tomcat、Nexus、Solr、Jboss、Drupal的漏洞利用脚本，最新添加CVE-2020-5902、CVE-2020-11444、CVE-2020-10204、CVE-2020-10199、CVE-2020-1938、CVE-2020-2551、CVE-2020-2555、CVE-2020-2883、CVE-2019-17558、CVE-2019-6340 | https://github.com/zhzyker/exphub | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 01 MINUTES 03 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20200808T16:31:03Z | CVE-2020-11579 | Exploit code for CVE-2020-11579, an arbitrary file disclosure through the MySQL client in PHPKB | https://github.com/ShielderSec/CVE-2020-11579 | 未查询到CVE信息| 
 | 20200808T16:00:35Z | CVE-2020-2034 | Determine the Version Running on the Palo Alto Network Firewall for the Global Protect Portal | https://github.com/blackhatethicalhacking/CVE-2020-2034-POC | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
-| 20200808T12:27:52Z | CVE-2020-8816 | Pi-hole Remote Code Execution authenticated Version >= 4.3.2 | https://github.com/cybervaca/CVE-2020-8816 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 03 MINUTES 09 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200807T18:19:31Z | CVE-2020-8816 | Pi-hole ( <= 4.3.2)  authenticated remote code execution. | https://github.com/team0se7en/CVE-2020-8816 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 03 MINUTES 11 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200808T12:27:52Z | CVE-2020-8816 | Pi-hole Remote Code Execution authenticated Version >= 4.3.2 | https://github.com/cybervaca/CVE-2020-8816 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 01 MINUTES 15 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200807T18:19:31Z | CVE-2020-8816 | Pi-hole ( <= 4.3.2)  authenticated remote code execution. | https://github.com/team0se7en/CVE-2020-8816 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 01 MINUTES 17 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20200807T13:45:47Z | CVE-2020-3452 | Little, stupid python validator(?) for CVE-2020-3452 on CISCO devices. | https://github.com/foulenzer/CVE-2020-3452 | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
-| 20200807T10:58:11Z | CVE-2020-1948 | [CVE-2020-1948] Apache Dubbo Provider default deserialization cause RCE | https://github.com/L0kiii/Dubbo-deserialization | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 02 MINUTES 59 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200807T10:58:11Z | CVE-2020-1948 | [CVE-2020-1948] Apache Dubbo Provider default deserialization cause RCE | https://github.com/L0kiii/Dubbo-deserialization | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 01 MINUTES 06 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20200807T08:06:36Z | 未知编号 | A local privilege escalation chain from user to kernel for MacOS < 10.15.5. CVE-2020–9854 | https://github.com/A2nkF/unauthd | 未查询到CVE信息| 
-| 20200807T06:31:00Z | CVE-2020-0796 | Null | https://github.com/DreamoneOnly/CVE-2020-0796-LPE | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 02 MINUTES 57 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200807T06:31:00Z | CVE-2020-0796 | Null | https://github.com/DreamoneOnly/CVE-2020-0796-LPE | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 01 MINUTES 04 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 
 
 # klee on Github 推荐
@@ -86,10 +86,10 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20200809T01:57:38Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 6852 | 1089| 
 | 20200809T01:49:57Z | CVE 안드로이드 루팅 익스플로잇 연구 고찰. | https://github.com/Xpl010Elz/CVE_Rooting_Exploit_Anlysis | 0 | 0| 
 | 20200809T01:42:59Z | Exploit script | https://github.com/ColeSploits/SploitHub-V4--Redwood-Prison | 0 | 0| 
 | 20200809T01:34:49Z | A phased, evasive Path Traversal + LFI scanning & exploitation tool in Python | https://github.com/VainlyStrain/Vailyn | 19 | 0| 
-| 20200809T01:27:33Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 6851 | 1089| 
 | 20200809T01:22:39Z | Compromising the macOS Kernel through Safari by Chaining Six Vulnerabilities | https://github.com/sslab-gatech/pwn2own2020 | 153 | 37| 
 | 20200809T01:15:41Z | Null | https://github.com/quentin452/Cats-Exploitz-HUB | 0 | 0| 
 | 20200809T01:15:16Z | 📢 🔒  Exploit farm for attack-defense CTF competitions | https://github.com/DestructiveVoice/DestructiveFarm | 101 | 31| 
@@ -101,9 +101,9 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20200809T01:56:16Z | A Kotlin program used to analyse and discover backdoors in Java programs | https://github.com/Tigermouthbear/Theia | 26 | 3| 
 | 20200808T21:40:40Z | Single line PHP Backdoor | https://github.com/melbinkm/TinyPhpBackdoor | 0 | 0| 
 | 20200808T19:09:29Z | Null | https://github.com/kaidi-jin/backdoor_samples_detection | 2 | 0| 
-| 20200808T19:09:10Z | A Kotlin program used to analyse and discover backdoors in Java programs | https://github.com/Tigermouthbear/Theia | 25 | 3| 
 | 20200808T12:54:28Z | Yet another PHP Obfuscator | https://github.com/Cvar1984/yapo | 1 | 1| 
 | 20200808T09:00:27Z | Null | https://github.com/OgulcanKacarr/TrBackdoor | 0 | 0| 
 | 20200808T02:14:35Z | knowledge distillation & backdoor | https://github.com/zhuangzi926/kdbackdoor | 0 | 0| 
