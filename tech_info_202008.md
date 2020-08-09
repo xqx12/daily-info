@@ -86,10 +86,10 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20200809T00:01:39Z | Null | https://github.com/smarinovic/exploits | 0 | 0| 
 | 20200808T23:58:22Z | Python utilities for binary exploitation. | https://github.com/melnicek/buffer-overflow-toolkit | 0 | 0| 
 | 20200808T23:58:06Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 6843 | 1089| 
 | 20200808T23:29:52Z | A phased, evasive Path Traversal + LFI scanning & exploitation tool in Python | https://github.com/VainlyStrain/Vailyn | 18 | 0| 
-| 20200808T23:28:59Z | Null | https://github.com/smarinovic/exploits | 0 | 0| 
 | 20200808T23:00:46Z | Compromising the macOS Kernel through Safari by Chaining Six Vulnerabilities | https://github.com/sslab-gatech/pwn2own2020 | 151 | 37| 
 | 20200808T22:53:06Z | My Cybersecurity Blog - Learning Is Life | https://github.com/flast101/flast101.github.io | 0 | 0| 
 | 20200808T22:12:37Z | A tool for automatic scanning and exploit of a network or device | https://github.com/user951/Black-ufo | 1 | 0| 

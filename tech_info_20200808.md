@@ -52,13 +52,13 @@
 | 20200808T23:58:22Z | Python utilities for binary exploitation. | https://github.com/melnicek/buffer-overflow-toolkit | 0 | 0| 
 | 20200808T23:58:06Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 6843 | 1089| 
 | 20200808T23:29:52Z | A phased, evasive Path Traversal + LFI scanning & exploitation tool in Python | https://github.com/VainlyStrain/Vailyn | 18 | 0| 
-| 20200808T23:28:59Z | Null | https://github.com/smarinovic/exploits | 0 | 0| 
 | 20200808T23:00:46Z | Compromising the macOS Kernel through Safari by Chaining Six Vulnerabilities | https://github.com/sslab-gatech/pwn2own2020 | 151 | 37| 
 | 20200808T22:53:06Z | My Cybersecurity Blog - Learning Is Life | https://github.com/flast101/flast101.github.io | 0 | 0| 
 | 20200808T22:12:37Z | A tool for automatic scanning and exploit of a network or device | https://github.com/user951/Black-ufo | 1 | 0| 
 | 20200808T21:59:10Z | PaySmtp is a script to exploit the LFI vulnerability with SMTP and reverse shell. | https://github.com/ron020/PaySmTp | 0 | 0| 
 | 20200808T21:52:24Z | 📢 🔒  Exploit farm for attack-defense CTF competitions | https://github.com/DestructiveVoice/DestructiveFarm | 99 | 31| 
 | 20200808T21:49:53Z | CVE 안드로이드 루팅 익스플로잇 연구 고찰. | https://github.com/Xpl010Elz/CVE_Rooting_Exploit_Anlysis | 0 | 0| 
+| 20200808T20:21:15Z | Null | https://github.com/Kahvi-0/Vulnerabilities-and-Exploitations | 1 | 1| 
 
 
 # backdoor on Github 推荐
