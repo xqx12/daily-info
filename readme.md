@@ -64,25 +64,27 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20200808T21:40:40Z | Single line PHP Backdoor | https://github.com/melbinkm/TinyPhpBackdoor | 0 | 0| 
+| 20200808T19:09:29Z | Null | https://github.com/kaidi-jin/backdoor_samples_detection | 2 | 0| 
+| 20200808T19:09:10Z | A Kotlin program used to analyse and discover backdoors in Java programs | https://github.com/Tigermouthbear/Theia | 25 | 3| 
 | 20200808T12:54:28Z | Yet another PHP Obfuscator | https://github.com/Cvar1984/yapo | 1 | 1| 
 | 20200808T09:00:27Z | Null | https://github.com/OgulcanKacarr/TrBackdoor | 0 | 0| 
-| 20200808T07:23:45Z | Null | https://github.com/kaidi-jin/backdoor_samples_detection | 1 | 0| 
 | 20200808T02:14:35Z | knowledge distillation & backdoor | https://github.com/zhuangzi926/kdbackdoor | 0 | 0| 
 
 
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20200808T13:12:40Z | Null | https://github.com/Ishaan29/fuzzy-chainsaw-algo | 1 | 0| 
-| 20200808T13:10:42Z | This project is just me trying to replicate the work done by Brandon Falk during the Fuzz Week for learning purposes and experimentation. | https://github.com/jroimartin/riscv-emu | 2 | 0| 
-| 20200808T12:53:21Z | No idea what I%m doing | https://github.com/klecko/fuzz | 1 | 0| 
-| 20200808T12:47:11Z | Personal website of Laurence Hughes | https://github.com/fuzzylogicxx/fuzzylogic | 4 | 1| 
-| 20200808T12:12:12Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 3085 | 703| 
-| 20200808T12:00:29Z | Null | https://github.com/charlicruz/fuzzy_patterns | 0 | 0| 
-| 20200808T11:05:44Z | Null | https://github.com/jiradeto/fuzzbench-result | 0 | 0| 
-| 20200808T10:34:21Z | ModbusTCP Fuzzing and DoS Tool. | https://github.com/imertayak/FuzzyModbus | 5 | 4| 
-| 20200808T10:25:24Z | A Fuzzer for COMP6447 | https://github.com/LachlanWaugh/fuzzer | 1 | 0| 
-| 20200808T09:43:11Z | The code behind getfursu.it | https://github.com/veelkoov/fuzzrake | 6 | 0| 
+| 20200808T23:55:36Z | A Fuzzer for COMP6447 | https://github.com/LachlanWaugh/fuzzer | 1 | 0| 
+| 20200808T23:54:10Z | FuzzyKnights: Protectors of the Forst - 16bit Adventure | https://github.com/mjnrock/fuzzyknights-arcade | 0 | 0| 
+| 20200808T23:41:33Z | No idea what I%m doing | https://github.com/klecko/fuzz | 1 | 0| 
+| 20200808T23:37:24Z | Highly experimental parser that calculates the way a pattern best matches a text, and how closely it matches the text, rather than calculates a binary match or parse error. | https://github.com/SamRoberts/fuzzy | 0 | 0| 
+| 20200808T22:23:24Z | We plan to specify grammars of inputs for three selected benchmarks, which share similar API and grammars of inputs. Then we will use these grammars as the seeds to generate well-formated inputs via gramfuzz, a Python-based grammer fuzzer, to penetrate deep into benchmarks’ parsers. We expect that some potential errors of benchmarks would be detected in this project. In addition, we plan to design a runner program, which can feed the inputs into the benchmarks automatically, as enhancements to gramfuzz. | https://github.com/alyssahyq/gramfuzz-calc | 0 | 1| 
+| 20200808T22:08:17Z | Homework - Quiz | https://github.com/mbone1/fuzzy-lamp | 0 | 0| 
+| 20200808T21:59:49Z | A fuzzer suite for testing model-driven software engineering tools | https://github.com/hub-se/MoFuzz | 0 | 0| 
+| 20200808T21:54:13Z | AutoFIS and more | https://github.com/lucasthim/auto-fuzzy | 0 | 0| 
+| 20200808T21:41:46Z | FuzzBench - Fuzzer benchmarking as a service. | https://github.com/google/fuzzbench | 495 | 71| 
+| 20200808T21:21:09Z | OSS-Fuzz - continuous fuzzing of open source software. | https://github.com/google/oss-fuzz | 5456 | 1066| 
 
 
 
