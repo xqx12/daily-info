@@ -6,26 +6,30 @@
 # 玄武实验室 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20200809 | 使用PowerShell脚本将漏洞测试报告从Excel工作表写入Word介绍。 | https://www.redteam.cafe/reporting/excel-sheet-to-word-report-by-powershell| 
 
 
 # 安全维基 推荐
 | ts | title | url| 
 | --- | --- | ---| 
 | 20200809 | 云原生安全 , docker容器逃逸 | https://mp.weixin.qq.com/s/zvHrPwYT77oedXloVJHi8g| 
+| 20200809 | 某Nginx后门分析复现与改写 | https://mp.weixin.qq.com/s/U2trVwV75yEW5HpVn0Ki8A| 
 
 
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20200809T13:15:51Z | CVE-2020-0796 | Advanced scanner for CVE-2020-0796 - SMBv3 RCE  | https://github.com/w1ld3r/SMBGhost_Scanner | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  09 HOURS 38 MINUTES 49 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200809T12:10:28Z | CVE-2020-5902 | Automated F5 Big IP Remote Code Execution (CVE-2020-5902) Scanner Written In Python 3 | https://github.com/Technowlogy-Pushpender/CVE-2020-5902-Scanner | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  09 HOURS 39 MINUTES 06 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200809T10:19:19Z | CVE-2020-5902 | Exphub[漏洞利用脚本库] 包括Webloigc、Struts2、Tomcat、Nexus、Solr、Jboss、Drupal的漏洞利用脚本，最新添加CVE-2020-5902、CVE-2020-11444、CVE-2020-10204、CVE-2020-10199、CVE-2020-1938、CVE-2020-2551、CVE-2020-2555、CVE-2020-2883、CVE-2019-17558、CVE-2019-6340 | https://github.com/zhzyker/exphub | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  09 HOURS 38 MINUTES 50 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200809T21:12:45Z | CVE-2020-5902 | Exphub[漏洞利用脚本库] 包括Webloigc、Struts2、Tomcat、Nexus、Solr、Jboss、Drupal的漏洞利用脚本，最新添加CVE-2020-5902、CVE-2020-11444、CVE-2020-10204、CVE-2020-10199、CVE-2020-1938、CVE-2020-2551、CVE-2020-2555、CVE-2020-2883、CVE-2019-17558、CVE-2019-6340 | https://github.com/zhzyker/exphub | 在BIG-IP版本15.0.0-15.1.0.3、14.1.0-14.1.2.5、13.1.0-13.1.3.3、12.1.0-12.1.5.1和11.6.1-11.6.5.1中，流量管理用户接口（TMUI），也称为“配置”实用程序，在未公开的页面中具有远程执行代码（RCE）漏洞。| 
+| 20200809T20:13:40Z | CVE-2020-6514 | Null | https://github.com/cudi1999/CVE-2020-6514 | 在84.0.4147.89之前的Google Chrome中，WebRTC的不当实现允许攻击者处于特权网络位置，可以通过精心制作的SCTP流利用堆破坏。| 
+| 20200809T13:15:51Z | CVE-2020-0796 | Advanced scanner for CVE-2020-0796 - SMBv3 RCE  | https://github.com/w1ld3r/SMBGhost_Scanner | Microsoft服务器消息块3.1.1（SMBv3）协议处理某些请求的方式中存在一个远程执行代码漏洞，也称为“ Windows SMBv3客户端/服务器远程执行代码漏洞”。| 
+| 20200809T12:10:28Z | CVE-2020-5902 | Automated F5 Big IP Remote Code Execution (CVE-2020-5902) Scanner Written In Python 3 | https://github.com/Technowlogy-Pushpender/CVE-2020-5902-Scanner | 在BIG-IP版本15.0.0-15.1.0.3、14.1.0-14.1.2.5、13.1.0-13.1.3.3、12.1.0-12.1.5.1和11.6.1-11.6.5.1中，流量管理用户接口（TMUI），也称为“配置”实用程序，在未公开的页面中具有远程执行代码（RCE）漏洞。| 
 | 20200809T08:59:16Z | 未知编号 | Null | https://github.com/potats0/cve_2020_14644 | 未查询到CVE信息| 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20200809T15:21:24Z | A very fun and useful bot containing many features.  | https://github.com/QuantixOfficial/Kleebot | 1 | 0| 
 | 20200809T08:54:30Z | Null | https://github.com/KleeUT/kleeut.com | 0 | 0| 
 | 20200809T08:14:10Z | A CSS / JS framework and a design system (flat design) | https://github.com/logic-fabric/klee | 0 | 0| 
 
@@ -39,39 +43,42 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20200809T13:11:16Z | Null | https://github.com/Ascotbe/WindowsKernelExploits | 0 | 0| 
-| 20200809T13:02:32Z | Blog! | https://github.com/nonetype/nonetype.github.io | 0 | 0| 
-| 20200809T12:37:44Z | Offensive Software Exploitation Course | https://github.com/ashemery/exploitation-course | 58 | 19| 
-| 20200809T12:36:37Z | Dante is vulnerability, version scanner; exploitation tool and report generator | https://github.com/kelj0/dante | 0 | 0| 
-| 20200809T12:35:11Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 6856 | 1092| 
-| 20200809T12:30:17Z | Panda Exploit ( Web Based ) | https://github.com/SkieAdmin/- | 0 | 0| 
-| 20200809T12:30:04Z | iblessing is an iOS security exploiting toolkit, it mainly includes application information collection, static analysis and dynamic analysis. It can be used for reverse engineering, binary analysis and vulnerability mining. | https://github.com/Soulghost/iblessing | 87 | 12| 
-| 20200809T12:03:40Z | A python script file to remotely analyse and exploit Microsoft Windows system via impacket. | https://github.com/BroadbentT/WIN-MASTER | 13 | 10| 
-| 20200809T11:49:23Z | Custom version of the original Overthrow.  Bugs squashed and squashing, exploits punishable by death, new businesses plus much more, oh and high steriod use by the AI ;) Discord link  https://discord.gg/ZdMMq9x | https://github.com/GerhartPapaGee/Overthrow-Martial-Law | 0 | 1| 
-| 20200809T11:27:59Z | My Cybersecurity Blog - Learning Is Life | https://github.com/flast101/flast101.github.io | 0 | 0| 
+| 20200809T23:41:47Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 6862 | 1094| 
+| 20200809T23:39:36Z | SAE (Sentire Anti Exploit) is a anti-cheat that focuses on patching most known exploits. | https://github.com/NameDoesCode/SAE | 0 | 0| 
+| 20200809T23:33:18Z | Metasploit Utilities, Post Exploit Scripts and other scripts primarily for reference | https://github.com/reg1reg1/Exploits | 0 | 0| 
+| 20200809T23:13:15Z | A series of CTF challenge solutions for binary exploitation (or pwn) and reverse engineering (or rev) challenges | https://github.com/docfate111/binary-exploitation-solution-scripts | 0 | 0| 
+| 20200809T23:04:19Z | PaySmtp is a script to exploit the LFI vulnerability with SMTP and reverse shell. | https://github.com/ron020/PaySmTp | 2 | 0| 
+| 20200809T23:00:23Z | Tradução do exploit do Leefull | https://github.com/kakarotojmsc/kakarotojmsc.github.io | 0 | 0| 
+| 20200809T23:00:01Z | A phased, evasive Path Traversal + LFI scanning & exploitation tool in Python | https://github.com/VainlyStrain/Vailyn | 20 | 0| 
+| 20200809T22:10:24Z | This thesis investigates the relationship between employee sentiment, proxied by Glassdoor reviews and ratings, and excessive returns on corresponding bonds. While sentiment analysis is well studied for probing into how companies are perceived by investors or the general public, it is a novel idea to exploit sentiment of employees, which enables us to capture very important information for assessing companies% governance. Although a few studies scrutinising the relation employee sentiment and future stock returns have already appeared, this is the first attempt, to the best of my knowledge, to place this analysis to the universe of corporate bonds. | https://github.com/stancld/MSc-Project | 0 | 0| 
+| 20200809T21:57:57Z | The first MNS+ specific %hacktool% | https://github.com/basti564/MNSPlusTrasher | 5 | 0| 
+| 20200809T21:55:09Z | PoC materials for article https://habr.com/en/post/486856/ | https://github.com/Snawoot/hisilicon-dvr-telnet | 91 | 52| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20200809T23:13:19Z | A sample app to demonstrate how to create Xamarin UITests using the Page Object architecture, Backdoor Methods and App Links (aka Deep Linking) | https://github.com/brminnick/UITestSampleApp | 29 | 24| 
+| 20200809T23:12:39Z | A Kotlin program used to analyse and discover backdoors in Java programs | https://github.com/Tigermouthbear/Theia | 27 | 3| 
+| 20200809T16:14:26Z | Winbackdoor implementation in golang (the documentation for go is coming soon) | https://github.com/Unam3dd/WinBackdoor | 0 | 0| 
+| 20200809T14:26:33Z | Created by Haku Simple backdoor with python3. Feature: -Open Port Checker -Socket Backdoor Linux & Windows | https://github.com/HeyThisHaku/SimpleBackdoor-Python | 0 | 0| 
 | 20200809T12:17:12Z | Client applicion for feature-phone-android remote control framework. It helps feature-phone users to control their android devices with their old feature phone% vnote memo. | https://github.com/KYHSGeekCode/Remote-Controlled-Android-Client | 4 | 1| 
 | 20200809T03:38:31Z | Null | https://github.com/kaidi-jin/backdoor_samples_detection | 2 | 0| 
-| 20200809T01:56:16Z | A Kotlin program used to analyse and discover backdoors in Java programs | https://github.com/Tigermouthbear/Theia | 26 | 3| 
 
 
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20200809T13:15:39Z | The Official Fuzzy Britches Repository | https://github.com/ThePapaw/fuzzybritches | 3 | 1| 
-| 20200809T13:09:41Z | Highly experimental parser that calculates the way a pattern best matches a text, and how closely it matches the text, rather than calculates a binary match or parse error. | https://github.com/SamRoberts/fuzzy | 0 | 0| 
-| 20200809T13:05:36Z | Personal website of Laurence Hughes | https://github.com/fuzzylogicxx/fuzzylogic | 4 | 1| 
-| 20200809T13:05:34Z | No idea what I%m doing | https://github.com/klecko/fuzz | 1 | 0| 
-| 20200809T13:00:52Z | FuzzyKnights: Protectors of the Forst - 16bit Adventure | https://github.com/mjnrock/fuzzyknights-arcade | 0 | 0| 
-| 20200809T12:58:55Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 3085 | 704| 
-| 20200809T12:09:22Z | Null | https://github.com/fuzzysound/fuzzysound.github.io | 0 | 0| 
-| 20200809T10:34:44Z | Null | https://github.com/DevChuriwala/FuzzyAdventure | 0 | 0| 
-| 20200809T10:33:20Z | fuzztest | https://github.com/vishwaraj/fuzz.c | 0 | 0| 
-| 20200809T09:17:13Z | A conda-smithy repository for fuzzysearch. | https://github.com/conda-forge/fuzzysearch-feedstock | 0 | 2| 
+| 20200809T23:29:58Z | This repository contains %All You Ever Wanted to Know About Fuzzing PHP But Were Afraid to Ask!% | https://github.com/gaintcome/fuzz-php | 0 | 3| 
+| 20200809T23:12:14Z | Personal website of Laurence Hughes | https://github.com/fuzzylogicxx/fuzzylogic | 4 | 1| 
+| 20200809T22:51:24Z | Pedal Multiefecto para guitarra electrica (LoopBack, Delay, Fuzz y Wah-wah) | https://github.com/jrosmirez94/Pedal-Multiefecto | 0 | 0| 
+| 20200809T21:36:01Z | A corpus of fuzzing seeds. | https://github.com/stevenagy/fuzzing-seeds | 0 | 0| 
+| 20200809T21:25:21Z | Repository holding database dumps from getfursu.it | https://github.com/veelkoov/fuzzrake-data | 0 | 0| 
+| 20200809T21:21:16Z | No idea what I%m doing | https://github.com/klecko/fuzz | 1 | 0| 
+| 20200809T21:09:45Z | Tool for findings bugs in epoll-based Linux servers | https://github.com/uNetworking/libEpollFuzzer | 2 | 0| 
+| 20200809T20:34:18Z | :airplane: A fuzz testing tool for generating and performing system tests for Paparazzi auto pilot | https://github.com/MJafarMashhadi/pprz_tester | 0 | 0| 
+| 20200809T19:21:04Z | Null | https://github.com/DevChuriwala/FuzzyAdventure | 0 | 0| 
+| 20200809T19:01:55Z | Null | https://github.com/marcuusmelo/fuzzy_trader | 0 | 0| 
 
 
 
