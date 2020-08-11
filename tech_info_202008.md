@@ -54,7 +54,7 @@
 | 20200810T07:40:12Z | 未知编号 | A local privilege escalation chain from user to kernel for MacOS < 10.15.5. CVE-2020–9854 | https://github.com/A2nkF/unauthd | 未查询到CVE信息| 
 | 20200810T02:40:47Z | CVE-2020-8816 | Pi-hole ( <= 4.3.2)  authenticated remote code execution. | https://github.com/team0se7en/CVE-2020-8816 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 58 MINUTES 03 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20200809T20:13:40Z | CVE-2020-6514 | Null | https://github.com/cudi1999/CVE-2020-6514 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 58 MINUTES 08 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200809T13:15:51Z | CVE-2020-0796 | Advanced scanner for CVE-2020-0796 - SMBv3 RCE  | https://github.com/w1ld3r/SMBGhost_Scanner | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 58 MINUTES 41 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200809T13:15:51Z | CVE-2020-0796 | Advanced scanner for CVE-2020-0796 - SMBv3 RCE  | https://github.com/w1ld3r/SMBGhost_Scanner | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 57 MINUTES 53 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20200809T12:10:28Z | CVE-2020-5902 | Automated F5 Big IP Remote Code Execution (CVE-2020-5902) Scanner Written In Python 3 | https://github.com/Technowlogy-Pushpender/CVE-2020-5902-Scanner | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 58 MINUTES 07 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 
 
@@ -103,16 +103,16 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20200811T01:55:10Z | Discord Backdoor | https://github.com/Schnitzel337/Blox---Backdoor | 0 | 0| 
+| 20200811T10:04:25Z | M1n3r - is an advanced Python backdoor. | https://github.com/brestyck/M1n3r | 0 | 0| 
+| 20200811T03:16:43Z | knowledge distillation & backdoor | https://github.com/zhuangzi926/kdbackdoor | 0 | 0| 
+| 20200811T02:43:16Z | A Kotlin program used to analyse and discover backdoors in Java programs | https://github.com/Tigermouthbear/Theia | 27 | 3| 
+| 20200811T02:38:44Z | Discord Backdoor | https://github.com/Schnitzel337/Blox---Backdoor | 0 | 0| 
 | 20200811T01:53:50Z | Hacking tools pack & backdoors generator. | https://github.com/AdrMXR/KitHack | 115 | 28| 
 | 20200811T01:23:49Z | Null | https://github.com/iK4oS/PremiumBackdoor.exe | 0 | 0| 
 | 20200811T00:54:02Z | Null | https://github.com/dheeraj7596/NlpBackdoor | 0 | 0| 
 | 20200810T20:19:20Z | Python RCE Shell | https://github.com/tz4678/rc35h | 0 | 0| 
 | 20200810T12:47:35Z | Null | https://github.com/kaidi-jin/backdoor_samples_detection | 2 | 0| 
 | 20200810T01:20:30Z | TCP Backdoor For Windows OS | https://github.com/pamekasancode/Sanchezploit | 1 | 0| 
-| 20200809T23:13:19Z | A sample app to demonstrate how to create Xamarin UITests using the Page Object architecture, Backdoor Methods and App Links (aka Deep Linking) | https://github.com/brminnick/UITestSampleApp | 29 | 24| 
-| 20200809T23:12:39Z | A Kotlin program used to analyse and discover backdoors in Java programs | https://github.com/Tigermouthbear/Theia | 27 | 3| 
-| 20200809T16:14:26Z | Winbackdoor implementation in golang (the documentation for go is coming soon) | https://github.com/Unam3dd/WinBackdoor | 0 | 0| 
 
 
 # fuzz on Github 推荐

@@ -60,7 +60,10 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20200811T01:55:10Z | Discord Backdoor | https://github.com/Schnitzel337/Blox---Backdoor | 0 | 0| 
+| 20200811T10:04:25Z | M1n3r - is an advanced Python backdoor. | https://github.com/brestyck/M1n3r | 0 | 0| 
+| 20200811T03:16:43Z | knowledge distillation & backdoor | https://github.com/zhuangzi926/kdbackdoor | 0 | 0| 
+| 20200811T02:43:16Z | A Kotlin program used to analyse and discover backdoors in Java programs | https://github.com/Tigermouthbear/Theia | 27 | 3| 
+| 20200811T02:38:44Z | Discord Backdoor | https://github.com/Schnitzel337/Blox---Backdoor | 0 | 0| 
 | 20200811T01:53:50Z | Hacking tools pack & backdoors generator. | https://github.com/AdrMXR/KitHack | 115 | 28| 
 | 20200811T01:23:49Z | Null | https://github.com/iK4oS/PremiumBackdoor.exe | 0 | 0| 
 | 20200811T00:54:02Z | Null | https://github.com/dheeraj7596/NlpBackdoor | 0 | 0| 
