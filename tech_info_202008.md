@@ -6,6 +6,11 @@
 # 玄武实验室 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20200811 | Hacking Zoom: Uncovering Tales of Security Vulnerabilities in Zoom，Zoom 服务器、Linux 版本 App 多个漏洞的分析 | https://mazinahmed.net/blog/hacking-zoom/| 
+| 20200811 | 利用 Zoho ManageEngine ADSelfService Plus 软件的漏洞攻破 AD 域账户 | https://honoki.net/2020/08/10/cve-2020-11518-how-i-bruteforced-my-way-into-your-active-directory/| 
+| 20200811 | Barbervisor: Journey developing a snapshot fuzzer with Intel VT-x | https://blogs.cisco.com/security/talos/barbervisor| 
+| 20200811 | 玄武实验室研究员 Zhipeng Huo 和 Chuanda Ding 在 DEF CON Safe Mode 会议演讲 “Hack Windows Machines with Printer Protocol” 的 PPT | https://media.defcon.org/DEF%20CON%2028/DEF%20CON%20Safe%20Mode%20presentations/DEF%20CON%20Safe%20Mode%20-%20Zhipeng%20Huo%20-%20Evil%20Printer%20How%20to%20Hack%20Windows%20Machines%20with%20Printing%20Protocol.pdf| 
+| 20200811 | 玄武实验室研究员 Zhipeng Huo 和 Chuanda Ding 在 DEF CON Safe Mode 会议演讲 “Hack Windows Machines with Printer Protocol” 的视频 | https://www.youtube.com/watch?v=be2jOZM8Whs| 
 | 20200810 | 常见的Linux权限提升手法 | https://medium.com/bugbountywriteup/write-up-11-common-linux-privilege-escalation-92528853b616?source=rss----7b722bfd1b8d---4| 
 | 20200810 | Adobe Reader沙盒逆向 | http://dronesec.pw/blog/2020/08/07/digging-the-adobe-sandbox-internals/| 
 | 20200810 | 一款基于Yara的简单扫描仪IRFuzz | https://www.kitploit.com/2020/08/irfuzz-simple-scanner-with-yara-rule.html| 
@@ -21,54 +26,49 @@
 | 20200808 | 网络取证调查：使用RegRipper开源工具对Windows注册表分析。 | https://www.hackingarticles.in/forensic-investigation-windows-registry-analysis/| 
 | 20200807 | 绕过蓝牙认证，访问手机的数据，来自 BlackHat | https://i.blackhat.com/USA-20/Wednesday/us-20-Xu-Stealthily-Access-Your-Android-Phones-Bypass-The-Bluetooth-Authentication.pdf| 
 | 20200807 | 通过逆向多个产商的固件发现蓝牙低功耗设备的漏洞 | https://i.blackhat.com/USA-20/Wednesday/us-20-Kovah-Finding-New-Bluetooth-Low-Energy-Exploits-Via-Reverse-Engineering-Multiple-Vendors-Firmwares.pdf| 
-| 20200807 | 佳能公司内网遭遇勒索软件攻击 | https://threatpost.com/canon-ransomware-attack-employee-note/158157/| 
-| 20200807 | Blackhat 议题 “When TLS Hacks You” 的 PPT，利用 TLS 的固有行为实现通用 SSRF | https://github.com/jmdx/TLS-poison| 
-| 20200807 | BlackHat 议题 “Breaking Samsungs Root of Trust Exploiting Samsung Secure Boot” | https://github.com/TrapaSecurity/presentations| 
-| 20200807 | Capa - FireEye 开源的用于探测 PE 文件行为的工具 | https://github.com/fireeye/capa| 
-| 20200807 | Emulating Samsung’s Baseband for Security Testing | https://docs.google.com/presentation/d/1GjDboSQhMdNzm1BxejD_SOqY6brkpHYOh58VEYBs5cI/edit| 
 
 
 # 安全维基 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20200811 | When TLS Hacks You--BlackHat2020 | http://zeroyu.xyz/2020/08/11/When-TLS-Hacks-You-BlackHat2020/| 
+| 20200811 | 信息安全：研究体系（220页） | https://mp.weixin.qq.com/s/WeBXUyP3-gbzrRrHmPyY9w| 
+| 20200811 | 靶场竞品分析-CybExer网络靶场 | https://mp.weixin.qq.com/s/8-d0eB2VV0qvG3VNCaJ_zA| 
+| 20200811 | How Malicious Tor Relays are Exploiting Users in 2020 (Par... | https://medium.com/@nusenu/how-malicious-tor-relays-are-exploiting-users-in-2020-part-i-1097575c0cac| 
 | 20200810 | 神秘Palantir-平台介绍 | https://mp.weixin.qq.com/s/JgLkd4_J5s93FDuS31F-Cg| 
 | 20200810 | 美国安全自动化和IACD框架 | https://mp.weixin.qq.com/s/6IQD7pRsJ_tJ72umOnQiaA| 
 | 20200810 | SecWiki周刊（第336期) | https://www.sec-wiki.com/weekly/336| 
 | 20200810 | 美军DISA（国防信息系统局）解析 | https://mp.weixin.qq.com/s/ZT54zA39bqZauqvE_JVIQw| 
 | 20200810 | 美国网络空间安全新战略 | https://mp.weixin.qq.com/s/usiMcWM6lnU5ZorkpG8DUQ| 
 | 20200809 | 云原生安全 , docker容器逃逸 | https://mp.weixin.qq.com/s/zvHrPwYT77oedXloVJHi8g| 
-| 20200809 | 某Nginx后门分析复现与改写 | https://mp.weixin.qq.com/s/U2trVwV75yEW5HpVn0Ki8A| 
-| 20200808 | 第三届CBCTF官方WP | https://www.anquanke.com/post/id/212808| 
-| 20200808 | Weblogic 远程命令执行漏洞（CVE-2020-14645）分析 | https://paper.seebug.org/1287/| 
-| 20200808 | linbing: 临兵漏洞扫描系统 | https://github.com/taomujian/linbing| 
 
 
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20200811T01:36:39Z | CVE-2020-6519 | Null | https://github.com/PerimeterX/CVE-2020-6519 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 00 MINUTES 19 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200810T23:57:27Z | CVE-2020-0041 | Null | https://github.com/j4nn/CVE-2020-0041 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 00 MINUTES 23 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200811T11:20:27Z | CVE-2020-6519 | Null | https://github.com/PerimeterX/CVE-2020-6519 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 58 MINUTES 05 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200811T10:46:09Z | 未知编号 | Null | https://github.com/potats0/cve_2020_14644 | 未查询到CVE信息| 
+| 20200811T06:08:59Z | CVE-2020-5405 | CVE-2019-3799，CVE-2020-5405，CVE-2020-5410 三个漏洞的验证笔记。 | https://github.com/DSO-Lab/SpringCloudConfig-CVEs | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 58 MINUTES 09 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200811T05:55:17Z | CVE-2020-0041 | Null | https://github.com/j4nn/CVE-2020-0041 | | 
 | 20200810T09:01:38Z | CVE-2020-5902 | Exphub[漏洞利用脚本库] 包括Webloigc、Struts2、Tomcat、Nexus、Solr、Jboss、Drupal的漏洞利用脚本，最新添加CVE-2020-5902、CVE-2020-11444、CVE-2020-10204、CVE-2020-10199、CVE-2020-1938、CVE-2020-2551、CVE-2020-2555、CVE-2020-2883、CVE-2019-17558、CVE-2019-6340 | https://github.com/zhzyker/exphub | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  09 HOURS 59 MINUTES 03 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200810T08:31:16Z | 未知编号 | Null | https://github.com/potats0/cve_2020_14644 | 未查询到CVE信息| 
 | 20200810T07:40:12Z | 未知编号 | A local privilege escalation chain from user to kernel for MacOS < 10.15.5. CVE-2020–9854 | https://github.com/A2nkF/unauthd | 未查询到CVE信息| 
-| 20200810T02:40:47Z | CVE-2020-8816 | Pi-hole ( <= 4.3.2)  authenticated remote code execution. | https://github.com/team0se7en/CVE-2020-8816 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 00 MINUTES 16 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200809T20:13:40Z | CVE-2020-6514 | Null | https://github.com/cudi1999/CVE-2020-6514 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 00 MINUTES 22 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200809T13:15:51Z | CVE-2020-0796 | Advanced scanner for CVE-2020-0796 - SMBv3 RCE  | https://github.com/w1ld3r/SMBGhost_Scanner | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 00 MINUTES 07 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200809T12:10:28Z | CVE-2020-5902 | Automated F5 Big IP Remote Code Execution (CVE-2020-5902) Scanner Written In Python 3 | https://github.com/Technowlogy-Pushpender/CVE-2020-5902-Scanner | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 00 MINUTES 20 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200808T16:31:03Z | CVE-2020-11579 | Exploit code for CVE-2020-11579, an arbitrary file disclosure through the MySQL client in PHPKB | https://github.com/ShielderSec/CVE-2020-11579 | 未查询到CVE信息| 
+| 20200810T02:40:47Z | CVE-2020-8816 | Pi-hole ( <= 4.3.2)  authenticated remote code execution. | https://github.com/team0se7en/CVE-2020-8816 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 58 MINUTES 03 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200809T20:13:40Z | CVE-2020-6514 | Null | https://github.com/cudi1999/CVE-2020-6514 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 58 MINUTES 08 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200809T13:15:51Z | CVE-2020-0796 | Advanced scanner for CVE-2020-0796 - SMBv3 RCE  | https://github.com/w1ld3r/SMBGhost_Scanner | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 58 MINUTES 41 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200809T12:10:28Z | CVE-2020-5902 | Automated F5 Big IP Remote Code Execution (CVE-2020-5902) Scanner Written In Python 3 | https://github.com/Technowlogy-Pushpender/CVE-2020-5902-Scanner | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 58 MINUTES 07 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20200810T15:40:05Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1455 | 447| 
+| 20200811T07:45:06Z | A tool that automatically calls Klee to solve for injection | https://github.com/Zzzode/KleeTool | 1 | 0| 
+| 20200810T15:40:05Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1455 | 448| 
 | 20200810T01:05:43Z | School Project | https://github.com/nategrift/kleenex | 0 | 0| 
 | 20200809T15:21:24Z | A very fun and useful bot containing many features.  | https://github.com/QuantixOfficial/Kleebot | 1 | 0| 
 | 20200809T08:54:30Z | Null | https://github.com/KleeUT/kleeut.com | 0 | 0| 
 | 20200809T08:14:10Z | A CSS / JS framework and a design system (flat design) | https://github.com/logic-fabric/klee | 0 | 0| 
 | 20200808T08:19:38Z | Null | https://github.com/thierry-tct/KLEE-SEMu | 1 | 0| 
 | 20200807T02:52:30Z | Null | https://github.com/klee138/klee138 | 0 | 0| 
-| 20200806T12:26:23Z | A tool that automatically calls Klee to solve for injection | https://github.com/Zzzode/KleeTool | 1 | 0| 
 | 20200805T04:05:32Z | A 4chan image browser written in SwiftUI | https://github.com/jackpal/KleeneStar | 9 | 0| 
 | 20200804T00:31:06Z | Create CFGs and compute complexity metrics for Python, C++, and Java code. | https://github.com/hmc-alpaqa/metrinome | 3 | 0| 
 
@@ -88,16 +88,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20200811T01:52:31Z | *Frequently Updated. Sifter is a osint, recon & vulnerability scanner. It combines a plethara of tools within different module sets in order to quickly perform recon tasks, check network firewalling, enumerate remote and local hosts, and scan for the %blue% vulnerabilities within microsft and if unpatched, exploit them.  It uses tools like blackwidow and konan for webdir enumeration and attack surface mapping rapidly using ASM.  | https://github.com/s1l3nt78/sifter | 220 | 70| 
-| 20200811T01:49:26Z | Travel Management System v1.0 Unauthenticated RCE Exploit | https://github.com/hyd3sec/TravelManagementSystem_Unauth_RCE | 0 | 0| 
-| 20200811T01:44:32Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 6884 | 1095| 
-| 20200811T01:21:14Z | A phased, evasive Path Traversal + LFI scanning & exploitation tool in Python | https://github.com/VainlyStrain/Vailyn | 20 | 0| 
-| 20200811T01:09:56Z | Null | https://github.com/blaise21007/exploit | 0 | 0| 
-| 20200811T00:47:52Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 2 | 1| 
-| 20200811T00:39:11Z | CVE 안드로이드 루팅 익스플로잇 연구 고찰. | https://github.com/Xpl010Elz/CVE_Rooting_Exploit_Anlysis | 0 | 0| 
-| 20200811T00:27:03Z | PlayStation 2 DVD Player Exploit | https://github.com/CTurt/FreeDVDBoot | 1235 | 88| 
-| 20200810T23:55:07Z | bad_hoist exploit that actually works. The original exploit was written by https://github.com/Fire30 | https://github.com/sleirsgoevy/bad_hoist | 20 | 2| 
-| 20200810T23:50:06Z | General cybersecurity challenges(everything that is not binary exploitation or reverse engineering since I have a separate repo for that but is cybersecurity related) | https://github.com/docfate111/general-cybersecurity-challenges | 0 | 0| 
+| 20200811T12:01:26Z | Null | https://github.com/quentin452/Cats-Exploitz-HUB | 0 | 0| 
+| 20200811T11:56:02Z | PwnXSS: Vulnerability (XSS) scanner exploit | https://github.com/pwn0sec/PwnXSS | 42 | 16| 
+| 20200811T11:31:08Z | iblessing is an iOS security exploiting toolkit, it mainly includes application information collection, static analysis and dynamic analysis. It can be used for reverse engineering, binary analysis and vulnerability mining. | https://github.com/Soulghost/iblessing | 88 | 12| 
+| 20200811T10:33:27Z | Null | https://github.com/B4RC0DE-TM/hulk-exploit | 0 | 0| 
+| 20200811T10:30:46Z | Null | https://github.com/B4RC0DE-TM/New-Exploitv2-hulk | 0 | 0| 
+| 20200811T09:55:52Z | Exploiting stuff I learn | https://github.com/BlameTheKernel/Exploiting | 0 | 0| 
+| 20200811T09:14:55Z | Ultimate archive of exploits and vulnerable software. A great resource for penetration testers, vulnerability researchers, and security addicts. | https://github.com/TRSTN4/exploits | 1 | 0| 
+| 20200811T08:25:26Z | This script runs powershell by which you can downloads many ps1 scripts and use many utilities for enumeration, privilege escalation and much more | https://github.com/FabioDefilippo/winallenum | 0 | 0| 
+| 20200811T07:57:59Z | More Stable Offline Exploit version of PS4 6.72 Jailbreak. | https://github.com/DarkModderVC/PS4JB | 54 | 22| 
+| 20200811T07:46:33Z | Python script to search available exploits for a CVE-ID | https://github.com/nimish38/ExploitSearch | 0 | 0| 
 
 
 # backdoor on Github 推荐
@@ -118,16 +118,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20200811T01:49:34Z | Null | https://github.com/shpotes/fuzzy | 0 | 0| 
-| 20200811T01:46:21Z | A Fuzzer for COMP6447 | https://github.com/LachlanWaugh/fuzzer | 1 | 0| 
-| 20200811T01:44:08Z | Null | https://github.com/ben-pick/COMP6447-Fuzzer | 0 | 1| 
-| 20200811T01:34:52Z | Null | https://github.com/zdykstra/fuzzypkg | 0 | 0| 
-| 20200811T01:30:25Z | FuzzBench - Fuzzer benchmarking as a service. | https://github.com/google/fuzzbench | 497 | 71| 
-| 20200811T00:32:02Z | Scalable fuzzing infrastructure. | https://github.com/google/clusterfuzz | 4291 | 384| 
-| 20200811T00:11:46Z | interactive `git` with the help of `fzf` | https://github.com/bigH/git-fuzzy | 1494 | 27| 
-| 20200810T23:49:48Z | OSS-Fuzz - continuous fuzzing of open source software. | https://github.com/google/oss-fuzz | 5458 | 1067| 
-| 20200810T23:41:57Z | No idea what I%m doing | https://github.com/klecko/fuzz | 1 | 0| 
-| 20200810T23:40:32Z | FuzzyKnights: Protectors of the Forst - 16bit Adventure | https://github.com/mjnrock/fuzzyknights-arcade | 0 | 0| 
+| 20200811T11:35:25Z | yet another HarfBuzz C# binding | https://github.com/TJYSunset/HardFuzz | 2 | 0| 
+| 20200811T11:05:00Z | A library of fuzzy rough machine learning algorithms | https://github.com/oulenz/fuzzy-rough-learn | 1 | 0| 
+| 20200811T11:01:49Z | Null | https://github.com/SmitaGJoshi/fuzzy-fortnight | 0 | 0| 
+| 20200811T11:00:15Z | Planning tool | https://github.com/HappyDustbunny/FuzzyFlexx | 1 | 0| 
+| 20200811T10:50:12Z | A JavaScript Engine Fuzzer | https://github.com/googleprojectzero/fuzzilli | 993 | 163| 
+| 20200811T10:39:41Z | Null | https://github.com/ajjumaxy/fuzzy | 0 | 0| 
+| 20200811T10:23:58Z | Personal website of Laurence Hughes | https://github.com/fuzzylogicxx/fuzzylogic | 4 | 1| 
+| 20200811T09:06:30Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 3087 | 706| 
+| 20200811T08:27:24Z | OSS-Fuzz - continuous fuzzing of open source software. | https://github.com/google/oss-fuzz | 5458 | 1067| 
+| 20200811T08:25:29Z | No idea what I%m doing | https://github.com/klecko/fuzz | 1 | 0| 
 
 
 
