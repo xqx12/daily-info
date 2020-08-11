@@ -88,16 +88,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20200810T12:56:11Z | More Stable Offline Exploit version of PS4 6.72 Jailbreak. | https://github.com/DarkModderVC/PS4JB | 53 | 23| 
-| 20200810T12:55:38Z | A phased, evasive Path Traversal + LFI scanning & exploitation tool in Python | https://github.com/VainlyStrain/Vailyn | 20 | 0| 
-| 20200810T12:48:06Z | A collection of unpatched Discord bugs and exploits | https://github.com/0xchecksum/Discord-Exploit-Collection | 9 | 4| 
-| 20200810T12:41:41Z | https://krunker.io/ edit exploit for modding krunker | https://github.com/ZaResX/KrunkerZares | 8 | 6| 
-| 20200810T12:40:04Z | *Frequently Updated. Sifter is a osint, recon & vulnerability scanner. It combines a plethara of tools within different module sets in order to quickly perform recon tasks, check network firewalling, enumerate remote and local hosts, and scan for the %blue% vulnerabilities within microsft and if unpatched, exploit them.  It uses tools like blackwidow and konan for webdir enumeration and attack surface mapping rapidly using ASM.  | https://github.com/s1l3nt78/sifter | 219 | 71| 
-| 20200810T12:37:51Z | Null | https://github.com/quentin452/Cats-Exploitz-HUB | 0 | 0| 
-| 20200810T12:35:11Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 6875 | 1096| 
-| 20200810T12:25:41Z | Python script to search available exploits for a CVE-ID | https://github.com/nimish38/ExploitSearch | 0 | 0| 
-| 20200810T12:22:23Z | nuevo | https://github.com/B4RC0DE-TM/new-exploit | 0 | 0| 
-| 20200810T11:53:48Z | windows 提权漏洞利用合集，利用脚本都已经生成可执行文件 | https://github.com/Ascotbe/WindowsKernelExploits | 1 | 0| 
+| 20200811T00:00:36Z | CVE 안드로이드 루팅 익스플로잇 연구 고찰. | https://github.com/Xpl010Elz/CVE_Rooting_Exploit_Anlysis | 0 | 0| 
+| 20200810T23:55:07Z | bad_hoist exploit that actually works. The original exploit was written by https://github.com/Fire30 | https://github.com/sleirsgoevy/bad_hoist | 20 | 2| 
+| 20200810T23:50:06Z | General cybersecurity challenges(everything that is not binary exploitation or reverse engineering since I have a separate repo for that but is cybersecurity related) | https://github.com/docfate111/general-cybersecurity-challenges | 0 | 0| 
+| 20200810T23:16:55Z | PoC exploits I wrote. They%re as is and I will not offer support | https://github.com/straightblast/My-PoC-Exploits | 0 | 0| 
+| 20200810T22:32:32Z | Null | https://github.com/fantasmaxd/ps4exploit.github.io | 0 | 0| 
+| 20200810T21:53:35Z | *Frequently Updated. Sifter is a osint, recon & vulnerability scanner. It combines a plethara of tools within different module sets in order to quickly perform recon tasks, check network firewalling, enumerate remote and local hosts, and scan for the %blue% vulnerabilities within microsft and if unpatched, exploit them.  It uses tools like blackwidow and konan for webdir enumeration and attack surface mapping rapidly using ASM.  | https://github.com/s1l3nt78/sifter | 219 | 70| 
+| 20200810T21:36:04Z | Various cosmetics exploits for Minecraft 1.12.2, specifically for the server 2b2t.org | https://github.com/TheAlphaEpsilon/Templar-Cosmetics-Beta | 3 | 1| 
+| 20200810T21:35:10Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 6882 | 1096| 
+| 20200810T21:25:03Z | SAE (Sentire Anti Exploit) is a anti-cheat that focuses on patching most known exploits. | https://github.com/NameDoesCode/SAE | 1 | 0| 
+| 20200810T21:15:11Z | Null | https://github.com/Official0x57/XVIPER-EXPLOIT | 0 | 0| 
 
 
 # backdoor on Github 推荐
