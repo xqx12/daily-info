@@ -22,11 +22,11 @@
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
 | 20200810T23:57:27Z | CVE-2020-0041 | Null | https://github.com/j4nn/CVE-2020-0041 | 在binder.c的binder_transaction中，由于不正确的边界检查，可能存在越界写入。这可以导致特权的本地升级，而无需其他执行特权。开发不需要用户交互。产品：Android版本：Android内核Android ID：A-145988638参考：上游内核| 
-| 20200810T18:16:14Z | CVE-2020-6519 | Null | https://github.com/PerimeterX/CVE-2020-6519 | | 
+| 20200810T18:16:14Z | CVE-2020-6519 | Null | https://github.com/PerimeterX/CVE-2020-6519 | 在 84.0.4147.89 之前，Google Chrome 中的 CSP 中策略绕过，允许远程攻击者通过精心制作的 HTML 页面绕过内容安全策略。| 
 | 20200810T09:01:38Z | CVE-2020-5902 | Exphub[漏洞利用脚本库] 包括Webloigc、Struts2、Tomcat、Nexus、Solr、Jboss、Drupal的漏洞利用脚本，最新添加CVE-2020-5902、CVE-2020-11444、CVE-2020-10204、CVE-2020-10199、CVE-2020-1938、CVE-2020-2551、CVE-2020-2555、CVE-2020-2883、CVE-2019-17558、CVE-2019-6340 | https://github.com/zhzyker/exphub | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  09 HOURS 59 MINUTES 03 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20200810T08:31:16Z | 未知编号 | Null | https://github.com/potats0/cve_2020_14644 | 未查询到CVE信息| 
 | 20200810T07:40:12Z | 未知编号 | A local privilege escalation chain from user to kernel for MacOS < 10.15.5. CVE-2020–9854 | https://github.com/A2nkF/unauthd | 未查询到CVE信息| 
-| 20200810T02:40:47Z | CVE-2020-8816 | Pi-hole ( <= 4.3.2)  authenticated remote code execution. | https://github.com/team0se7en/CVE-2020-8816 | Pi-hole Web v4.3.2（aka AdminLTE）允许特权仪表板用户通过精心设计的DHCP静态租约进行远程代码执行。| 
+| 20200810T02:40:47Z | CVE-2020-8816 | Pi-hole ( <= 4.3.2)  authenticated remote code execution. | https://github.com/team0se7en/CVE-2020-8816 | | 
 
 
 # klee on Github 推荐
@@ -70,16 +70,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20200810T13:00:35Z | Null | https://github.com/marcuusmelo/fuzzy_trader | 0 | 0| 
-| 20200810T12:49:21Z | No idea what I%m doing | https://github.com/klecko/fuzz | 1 | 0| 
-| 20200810T12:24:46Z | Fuzzy logic library for python | https://github.com/Luferov/FuzzyLogicToolBox | 1 | 0| 
-| 20200810T12:22:45Z | AFLNet: A Greybox Fuzzer for Network Protocols (https://thuanpv.github.io/publications/AFLNet_ICST20.pdf) | https://github.com/aflnet/aflnet | 271 | 36| 
-| 20200810T12:22:42Z | Security oriented software fuzzer. Supports evolutionary, feedback-driven fuzzing based on code coverage (SW and HW based) | https://github.com/google/honggfuzz | 1963 | 408| 
-| 20200810T12:20:47Z | Null | https://github.com/s9varesc/url-fuzzing-docker | 0 | 0| 
-| 20200810T11:46:41Z | Null | https://github.com/ben-pick/COMP6447-Fuzzer | 0 | 1| 
-| 20200810T11:46:27Z | Fuzz hashing algos | https://github.com/bshastry/hash-fuzz | 0 | 0| 
-| 20200810T11:12:57Z | Null | https://github.com/jiradeto/fuzzbench-result | 0 | 0| 
-| 20200810T11:08:48Z | A tool to enable fuzzing for Spectre vulnerabilities | https://github.com/OleksiiOleksenko/SpecFuzz | 9 | 3| 
+| 20200810T23:49:48Z | OSS-Fuzz - continuous fuzzing of open source software. | https://github.com/google/oss-fuzz | 5458 | 1067| 
+| 20200810T23:45:41Z | interactive `git` with the help of `fzf` | https://github.com/bigH/git-fuzzy | 1494 | 27| 
+| 20200810T23:41:57Z | No idea what I%m doing | https://github.com/klecko/fuzz | 1 | 0| 
+| 20200810T23:40:32Z | FuzzyKnights: Protectors of the Forst - 16bit Adventure | https://github.com/mjnrock/fuzzyknights-arcade | 0 | 0| 
+| 20200810T22:17:15Z | Personal website of Laurence Hughes | https://github.com/fuzzylogicxx/fuzzylogic | 4 | 1| 
+| 20200810T21:17:25Z | Web application fuzzer | https://github.com/xmendez/wfuzz | 3013 | 760| 
+| 20200810T20:37:14Z | Several new approaches to the classic fuzzy string matching problem | https://github.com/ajaklevs/Fuzzy_String_Matching | 1 | 0| 
+| 20200810T20:33:04Z | Fuzz hashing algos | https://github.com/bshastry/hash-fuzz | 0 | 0| 
+| 20200810T20:32:32Z | A fork and successor of the Sulley Fuzzing Framework | https://github.com/jtpereyda/boofuzz | 1007 | 215| 
+| 20200810T19:54:58Z | Null | https://github.com/ben-pick/COMP6447-Fuzzer | 0 | 1| 
 
 
 
