@@ -53,7 +53,7 @@
 | 20200810T07:40:12Z | 未知编号 | A local privilege escalation chain from user to kernel for MacOS < 10.15.5. CVE-2020–9854 | https://github.com/A2nkF/unauthd | 未查询到CVE信息| 
 | 20200810T02:40:47Z | CVE-2020-8816 | Pi-hole ( <= 4.3.2)  authenticated remote code execution. | https://github.com/team0se7en/CVE-2020-8816 | | 
 | 20200809T20:13:40Z | CVE-2020-6514 | Null | https://github.com/cudi1999/CVE-2020-6514 | 在84.0.4147.89之前的Google Chrome中，WebRTC的不当实现允许攻击者处于特权网络位置，可以通过精心制作的SCTP流利用堆破坏。| 
-| 20200809T13:15:51Z | CVE-2020-0796 | Advanced scanner for CVE-2020-0796 - SMBv3 RCE  | https://github.com/w1ld3r/SMBGhost_Scanner | Microsoft服务器消息块3.1.1（SMBv3）协议处理某些请求的方式中存在一个远程执行代码漏洞，也称为“ Windows SMBv3客户端/服务器远程执行代码漏洞”。| 
+| 20200809T13:15:51Z | CVE-2020-0796 | Advanced scanner for CVE-2020-0796 - SMBv3 RCE  | https://github.com/w1ld3r/SMBGhost_Scanner | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 55 MINUTES 14 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20200809T12:10:28Z | CVE-2020-5902 | Automated F5 Big IP Remote Code Execution (CVE-2020-5902) Scanner Written In Python 3 | https://github.com/Technowlogy-Pushpender/CVE-2020-5902-Scanner | 在BIG-IP版本15.0.0-15.1.0.3、14.1.0-14.1.2.5、13.1.0-13.1.3.3、12.1.0-12.1.5.1和11.6.1-11.6.5.1中，流量管理用户接口（TMUI），也称为“配置”实用程序，在未公开的页面中具有远程执行代码（RCE）漏洞。| 
 | 20200808T16:31:03Z | CVE-2020-11579 | Exploit code for CVE-2020-11579, an arbitrary file disclosure through the MySQL client in PHPKB | https://github.com/ShielderSec/CVE-2020-11579 | 未查询到CVE信息| 
 
