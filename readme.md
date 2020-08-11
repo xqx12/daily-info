@@ -26,7 +26,7 @@
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
 | 20200811T12:32:10Z | CVE-2020-1337 | CVE-2020-1337 a bypass of (PrintDemon) CVE-2020-1048’s patch | https://github.com/VoidSec/CVE-2020-1337 | 未查询到CVE信息| 
-| 20200811T11:20:27Z | CVE-2020-6519 | Null | https://github.com/PerimeterX/CVE-2020-6519 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 05 MINUTES 12 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200811T11:20:27Z | CVE-2020-6519 | Null | https://github.com/PerimeterX/CVE-2020-6519 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 04 MINUTES 01 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20200811T10:46:09Z | 未知编号 | Null | https://github.com/potats0/cve_2020_14644 | 未查询到CVE信息| 
 | 20200811T06:08:59Z | CVE-2020-5405 | CVE-2019-3799，CVE-2020-5405，CVE-2020-5410 三个漏洞的验证笔记。 | https://github.com/DSO-Lab/SpringCloudConfig-CVEs | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 04 MINUTES 16 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20200811T05:55:17Z | CVE-2020-0041 | Null | https://github.com/j4nn/CVE-2020-0041 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 04 MINUTES 15 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
@@ -73,7 +73,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20200811T12:52:33Z | 渗透测试人员专用字典 Dictionary for penetration testers happy hacker 🎉 | https://github.com/ppbibo/PentesterSpecialDict | 0 | 0| 
+| 20200811T12:56:42Z | 渗透测试人员专用字典 Dictionary for penetration testers happy hacker 🎉 | https://github.com/ppbibo/PentesterSpecialDict | 1 | 0| 
 | 20200811T12:31:19Z | A JavaScript Engine Fuzzer | https://github.com/googleprojectzero/fuzzilli | 993 | 163| 
 | 20200811T12:14:17Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 3088 | 706| 
 | 20200811T12:07:34Z | Null | https://github.com/SmitaGJoshi/fuzzy-fortnight | 0 | 0| 
