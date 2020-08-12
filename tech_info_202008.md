@@ -46,16 +46,16 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20200811T19:49:40Z | CVE-2020-1337 | CVE-2020-1048 bypass: binary planting PoC | https://github.com/neofito/CVE-2020-1337 | 未查询到CVE信息| 
-| 20200811T19:10:37Z | CVE-2020-6519 | Null | https://github.com/PerimeterX/CVE-2020-6519 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 20 MINUTES 38 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200812T00:41:33Z | CVE-2020-1337 | CVE-2020-1048 bypass: binary planting PoC | https://github.com/neofito/CVE-2020-1337 | 未查询到CVE信息| 
+| 20200811T19:10:37Z | CVE-2020-6519 | Null | https://github.com/PerimeterX/CVE-2020-6519 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 14 MINUTES 50 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20200811T17:23:06Z | CVE-2020-1337 | CVE-2020-1337 a bypass of (PrintDemon) CVE-2020-1048’s patch | https://github.com/VoidSec/CVE-2020-1337 | 未查询到CVE信息| 
 | 20200811T15:41:04Z | 未知编号 | Null | https://github.com/potats0/cve_2020_14644 | 未查询到CVE信息| 
-| 20200811T06:08:59Z | CVE-2020-5405 | CVE-2019-3799，CVE-2020-5405，CVE-2020-5410 三个漏洞的验证笔记。 | https://github.com/DSO-Lab/SpringCloudConfig-CVEs | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 20 MINUTES 56 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200811T05:55:17Z | CVE-2020-0041 | Null | https://github.com/j4nn/CVE-2020-0041 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 20 MINUTES 51 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200811T06:08:59Z | CVE-2020-5405 | CVE-2019-3799，CVE-2020-5405，CVE-2020-5410 三个漏洞的验证笔记。 | https://github.com/DSO-Lab/SpringCloudConfig-CVEs | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 14 MINUTES 53 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200811T05:55:17Z | CVE-2020-0041 | Null | https://github.com/j4nn/CVE-2020-0041 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 14 MINUTES 49 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20200810T09:01:38Z | CVE-2020-5902 | Exphub[漏洞利用脚本库] 包括Webloigc、Struts2、Tomcat、Nexus、Solr、Jboss、Drupal的漏洞利用脚本，最新添加CVE-2020-5902、CVE-2020-11444、CVE-2020-10204、CVE-2020-10199、CVE-2020-1938、CVE-2020-2551、CVE-2020-2555、CVE-2020-2883、CVE-2019-17558、CVE-2019-6340 | https://github.com/zhzyker/exphub | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  09 HOURS 59 MINUTES 03 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200810T07:40:12Z | 未知编号 | A local privilege escalation chain from user to kernel for MacOS < 10.15.5. CVE-2020–9854 | https://github.com/A2nkF/unauthd | | 
-| 20200810T02:40:47Z | CVE-2020-8816 | Pi-hole ( <= 4.3.2)  authenticated remote code execution. | https://github.com/team0se7en/CVE-2020-8816 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 20 MINUTES 48 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200809T20:13:40Z | CVE-2020-6514 | Null | https://github.com/cudi1999/CVE-2020-6514 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 20 MINUTES 50 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200810T07:40:12Z | 未知编号 | A local privilege escalation chain from user to kernel for MacOS < 10.15.5. CVE-2020–9854 | https://github.com/A2nkF/unauthd | 未查询到CVE信息| 
+| 20200810T02:40:47Z | CVE-2020-8816 | Pi-hole ( <= 4.3.2)  authenticated remote code execution. | https://github.com/team0se7en/CVE-2020-8816 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 15 MINUTES 14 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200809T20:13:40Z | CVE-2020-6514 | Null | https://github.com/cudi1999/CVE-2020-6514 | | 
 
 
 # klee on Github 推荐
@@ -103,6 +103,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20200812T00:32:32Z | Null | https://github.com/iK4oS/PremiumBackdoor.exe | 0 | 0| 
 | 20200811T18:55:58Z | Simples criador de RAT (Remote Acess Trojan) / Backdoor. Base: Metasploit-Framework | https://github.com/LightHades/RatCreator | 0 | 0| 
 | 20200811T18:55:14Z | Advanced Attack toolkit, Native C++ RAT, Instagram Brute Force and Password Spraying over Tor, Mass Emailer, Malicious file Sentinel and more. | https://github.com/quantumcored/paradoxia | 125 | 25| 
 | 20200811T17:34:44Z | Hacking tools pack & backdoors generator. | https://github.com/AdrMXR/KitHack | 116 | 28| 
@@ -112,7 +113,6 @@
 | 20200811T03:16:43Z | knowledge distillation & backdoor | https://github.com/zhuangzi926/kdbackdoor | 0 | 0| 
 | 20200811T02:43:16Z | A Kotlin program used to analyse and discover backdoors in Java programs | https://github.com/Tigermouthbear/Theia | 27 | 3| 
 | 20200811T02:38:44Z | Discord Backdoor | https://github.com/Schnitzel337/Blox---Backdoor | 0 | 0| 
-| 20200811T01:23:49Z | Null | https://github.com/iK4oS/PremiumBackdoor.exe | 0 | 0| 
 
 
 # fuzz on Github 推荐
