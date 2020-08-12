@@ -31,8 +31,8 @@
 | 20200811T19:10:37Z | CVE-2020-6519 | Null | https://github.com/PerimeterX/CVE-2020-6519 | 在 84.0.4147.89 之前，Google Chrome 中的 CSP 中策略绕过，允许远程攻击者通过精心制作的 HTML 页面绕过内容安全策略。| 
 | 20200811T17:23:06Z | CVE-2020-1337 | CVE-2020-1337 a bypass of (PrintDemon) CVE-2020-1048’s patch | https://github.com/VoidSec/CVE-2020-1337 | 未查询到CVE信息| 
 | 20200811T15:41:04Z | 未知编号 | Null | https://github.com/potats0/cve_2020_14644 | 未查询到CVE信息| 
-| 20200811T06:08:59Z | CVE-2020-5405 | CVE-2019-3799，CVE-2020-5405，CVE-2020-5410 三个漏洞的验证笔记。 | https://github.com/DSO-Lab/SpringCloudConfig-CVEs | Spring 云配置、2.2.2.2 之前的版本 2.2.x、2.1.x 之前的版本以及较旧的不受支持的版本允许应用程序通过 spring 云配置服务器模块提供任意配置文件。恶意用户或攻击者可以使用专门制作的 URL 发送请求，该 URL 可能导致目录遍历攻击。| 
-| 20200811T05:55:17Z | CVE-2020-0041 | Null | https://github.com/j4nn/CVE-2020-0041 | 在binder.c的binder_transaction中，由于不正确的边界检查，可能存在越界写入。这可以导致特权的本地升级，而无需其他执行特权。开发不需要用户交互。产品：Android版本：Android内核Android ID：A-145988638参考：上游内核| 
+| 20200811T06:08:59Z | CVE-2020-5405 | CVE-2019-3799，CVE-2020-5405，CVE-2020-5410 三个漏洞的验证笔记。 | https://github.com/DSO-Lab/SpringCloudConfig-CVEs | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 55 MINUTES 14 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200811T05:55:17Z | CVE-2020-0041 | Null | https://github.com/j4nn/CVE-2020-0041 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 55 MINUTES 13 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 
 
 # klee on Github 推荐
