@@ -28,8 +28,8 @@
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
 | 20200811T17:23:06Z | CVE-2020-1337 | CVE-2020-1337 a bypass of (PrintDemon) CVE-2020-1048’s patch | https://github.com/VoidSec/CVE-2020-1337 | 未查询到CVE信息| 
-| 20200811T06:08:59Z | CVE-2020-5405 | CVE-2019-3799，CVE-2020-5405，CVE-2020-5410 三个漏洞的验证笔记。 | https://github.com/DSO-Lab/SpringCloudConfig-CVEs | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 38 MINUTES 20 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200811T05:55:17Z | CVE-2020-0041 | Null | https://github.com/j4nn/CVE-2020-0041 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 38 MINUTES 19 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200811T06:08:59Z | CVE-2020-5405 | CVE-2019-3799，CVE-2020-5405，CVE-2020-5410 三个漏洞的验证笔记。 | https://github.com/DSO-Lab/SpringCloudConfig-CVEs | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 36 MINUTES 18 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200811T05:55:17Z | CVE-2020-0041 | Null | https://github.com/j4nn/CVE-2020-0041 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 36 MINUTES 17 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 
 
 # klee on Github 推荐
@@ -49,7 +49,6 @@
 | --- | --- | --- | --- | ---| 
 | 20200811T23:48:18Z | General cybersecurity challenges(everything that is not binary exploitation or reverse engineering since I have a separate repo for that but is cybersecurity related) | https://github.com/docfate111/general-cybersecurity-challenges | 0 | 0| 
 | 20200811T23:47:34Z | :factory: :bar_chart: Online monitoring and exploitation of data in a company using Ignition and SAP ERP. | https://github.com/2MoreThings/Distributed-Lines-Management | 0 | 0| 
-| 20200811T23:38:15Z | CVE 안드로이드 루팅 익스플로잇 연구 고찰. | https://github.com/Xpl010Elz/CVE_Rooting_Exploit_Anlysis | 0 | 0| 
 | 20200811T22:54:31Z | Network Pivoting and Post Exploitation Framework. | https://github.com/quantumcored/maalik | 3 | 0| 
 | 20200811T22:54:22Z | This basic web server is used to serve all of the tools I need for exploitation and post-exploitation within the OSCP lab environment.  It also includes a basic file upload for easy data exfiltration. | https://github.com/PygmyGecko/mothership | 0 | 0| 
 | 20200811T21:58:02Z | some experiments with scripts from the book Hacking: The art of exploitation | https://github.com/renanavs/artofexploitaition | 0 | 0| 
@@ -57,6 +56,7 @@
 | 20200811T21:50:52Z | this bash script let you download scripts and clone repos for remote exploits | https://github.com/FabioDefilippo/linuxallremote | 3 | 0| 
 | 20200811T21:04:22Z | Null | https://github.com/user421921/fun-batchfiles-and-vbs-exploits | 1 | 0| 
 | 20200811T20:23:15Z | Unsorted, raw, ugly & probably poorly usable tools for reversing, exploit and pentest | https://github.com/hugsy/stuff | 138 | 45| 
+| 20200811T20:02:05Z | Null | https://github.com/gcheca/exploits | 0 | 0| 
 
 
 # backdoor on Github 推荐
