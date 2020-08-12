@@ -11,6 +11,8 @@
 | 20200811 | Barbervisor: Journey developing a snapshot fuzzer with Intel VT-x | https://blogs.cisco.com/security/talos/barbervisor| 
 | 20200811 | 玄武实验室研究员 Zhipeng Huo 和 Chuanda Ding 在 DEF CON Safe Mode 会议演讲 “Hack Windows Machines with Printer Protocol” 的 PPT | https://media.defcon.org/DEF%20CON%2028/DEF%20CON%20Safe%20Mode%20presentations/DEF%20CON%20Safe%20Mode%20-%20Zhipeng%20Huo%20-%20Evil%20Printer%20How%20to%20Hack%20Windows%20Machines%20with%20Printing%20Protocol.pdf| 
 | 20200811 | 玄武实验室研究员 Zhipeng Huo 和 Chuanda Ding 在 DEF CON Safe Mode 会议演讲 “Hack Windows Machines with Printer Protocol” 的视频 | https://www.youtube.com/watch?v=be2jOZM8Whs| 
+| 20200811 | DEF CON 安全会议 - Yamila Levalle - 过3D打印技术绕过生物识别系统视频。 | https://www.youtube.com/watch?v=hJ35ApLKpN4&feature=youtu.be| 
+| 20200811 | 汇编语言/逆向/恶意软件分析教程学习资源。 | https://gist.github.com/navneetmuffin/ff678b1fda17e6188aa0462a99626121| 
 
 
 # 安全维基 推荐
@@ -25,11 +27,12 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20200811T12:32:10Z | CVE-2020-1337 | CVE-2020-1337 a bypass of (PrintDemon) CVE-2020-1048’s patch | https://github.com/VoidSec/CVE-2020-1337 | 未查询到CVE信息| 
-| 20200811T11:20:27Z | CVE-2020-6519 | Null | https://github.com/PerimeterX/CVE-2020-6519 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 00 MINUTES 11 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200811T10:46:09Z | 未知编号 | Null | https://github.com/potats0/cve_2020_14644 | 未查询到CVE信息| 
-| 20200811T06:08:59Z | CVE-2020-5405 | CVE-2019-3799，CVE-2020-5405，CVE-2020-5410 三个漏洞的验证笔记。 | https://github.com/DSO-Lab/SpringCloudConfig-CVEs | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 00 MINUTES 16 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200811T05:55:17Z | CVE-2020-0041 | Null | https://github.com/j4nn/CVE-2020-0041 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 00 MINUTES 15 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200811T19:49:40Z | CVE-2020-1337 | CVE-2020-1048 bypass: binary planting PoC | https://github.com/neofito/CVE-2020-1337 | 未查询到CVE信息| 
+| 20200811T19:10:37Z | CVE-2020-6519 | Null | https://github.com/PerimeterX/CVE-2020-6519 | 在 84.0.4147.89 之前，Google Chrome 中的 CSP 中策略绕过，允许远程攻击者通过精心制作的 HTML 页面绕过内容安全策略。| 
+| 20200811T17:23:06Z | CVE-2020-1337 | CVE-2020-1337 a bypass of (PrintDemon) CVE-2020-1048’s patch | https://github.com/VoidSec/CVE-2020-1337 | 未查询到CVE信息| 
+| 20200811T15:41:04Z | 未知编号 | Null | https://github.com/potats0/cve_2020_14644 | 未查询到CVE信息| 
+| 20200811T06:08:59Z | CVE-2020-5405 | CVE-2019-3799，CVE-2020-5405，CVE-2020-5410 三个漏洞的验证笔记。 | https://github.com/DSO-Lab/SpringCloudConfig-CVEs | Spring 云配置、2.2.2.2 之前的版本 2.2.x、2.1.x 之前的版本以及较旧的不受支持的版本允许应用程序通过 spring 云配置服务器模块提供任意配置文件。恶意用户或攻击者可以使用专门制作的 URL 发送请求，该 URL 可能导致目录遍历攻击。| 
+| 20200811T05:55:17Z | CVE-2020-0041 | Null | https://github.com/j4nn/CVE-2020-0041 | 在binder.c的binder_transaction中，由于不正确的边界检查，可能存在越界写入。这可以导致特权的本地升级，而无需其他执行特权。开发不需要用户交互。产品：Android版本：Android内核Android ID：A-145988638参考：上游内核| 
 
 
 # klee on Github 推荐
@@ -41,21 +44,22 @@
 # s2e on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20200811T19:00:35Z | cicd logic and gitlab&github runner, centos base ,whith jdk/python/go, maven/npm,/kubectl/helm | https://github.com/chimeh/cicd-s2e-runner | 1 | 0| 
 
 
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20200811T12:51:54Z | COMSATS E-learning portal is an application to extend classroom conversations and learning by getting students and teachers to engage with class material online. Online discussions are often arranged by learning portals. E-Learning exploits interactive technologies and communication systems to improve the learning experience. It has the potential to transform the way we teach and learn across the board. It can raise standards, and widen participation in lifelong learning. | https://github.com/Rizwan801/E-learning-site-in-MVC | 0 | 0| 
-| 20200811T12:47:54Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 2 | 1| 
-| 20200811T12:45:12Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 6889 | 1096| 
-| 20200811T12:44:23Z | Panda Exploit ( Web Based ) | https://github.com/SkieAdmin/- | 0 | 0| 
-| 20200811T12:40:37Z | iblessing is an iOS security exploiting toolkit, it mainly includes application information collection, static analysis and dynamic analysis. It can be used for reverse engineering, binary analysis and vulnerability mining. | https://github.com/Soulghost/iblessing | 88 | 12| 
-| 20200811T12:32:10Z | CVE-2020-1337 a bypass of (PrintDemon) CVE-2020-1048’s patch | https://github.com/VoidSec/CVE-2020-1337 | 0 | 0| 
-| 20200811T12:20:36Z | Null | https://github.com/sophieschmieg/exploits | 3 | 1| 
-| 20200811T12:01:26Z | Null | https://github.com/quentin452/Cats-Exploitz-HUB | 0 | 0| 
-| 20200811T11:56:02Z | PwnXSS: Vulnerability (XSS) scanner exploit | https://github.com/pwn0sec/PwnXSS | 42 | 16| 
-| 20200811T10:33:27Z | Null | https://github.com/B4RC0DE-TM/hulk-exploit | 0 | 0| 
+| 20200811T23:48:18Z | General cybersecurity challenges(everything that is not binary exploitation or reverse engineering since I have a separate repo for that but is cybersecurity related) | https://github.com/docfate111/general-cybersecurity-challenges | 0 | 0| 
+| 20200811T23:47:34Z | :factory: :bar_chart: Online monitoring and exploitation of data in a company using Ignition and SAP ERP. | https://github.com/2MoreThings/Distributed-Lines-Management | 0 | 0| 
+| 20200811T23:39:58Z | Null | https://github.com/quentin452/Cats-Exploitz-HUB | 0 | 0| 
+| 20200811T23:38:15Z | CVE 안드로이드 루팅 익스플로잇 연구 고찰. | https://github.com/Xpl010Elz/CVE_Rooting_Exploit_Anlysis | 0 | 0| 
+| 20200811T22:54:31Z | Network Pivoting and Post Exploitation Framework. | https://github.com/quantumcored/maalik | 3 | 0| 
+| 20200811T22:54:22Z | This basic web server is used to serve all of the tools I need for exploitation and post-exploitation within the OSCP lab environment.  It also includes a basic file upload for easy data exfiltration. | https://github.com/PygmyGecko/mothership | 0 | 0| 
+| 20200811T22:48:32Z | PlayStation 2 DVD Player Exploit | https://github.com/CTurt/FreeDVDBoot | 1235 | 88| 
+| 20200811T22:00:28Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 6900 | 1099| 
+| 20200811T21:58:02Z | some experiments with scripts from the book Hacking: The art of exploitation | https://github.com/renanavs/artofexploitaition | 0 | 0| 
+| 20200811T21:56:42Z | This script runs powershell by which you can downloads many ps1 scripts and use many utilities for enumeration, privilege escalation and much more | https://github.com/FabioDefilippo/winallenum | 0 | 0| 
 
 
 # backdoor on Github 推荐
@@ -73,16 +77,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20200811T12:56:42Z | 渗透测试人员专用字典 Dictionary for penetration testers happy hacker 🎉 | https://github.com/ppbibo/PentesterSpecialDict | 1 | 0| 
-| 20200811T12:31:19Z | A JavaScript Engine Fuzzer | https://github.com/googleprojectzero/fuzzilli | 993 | 163| 
-| 20200811T12:14:17Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 3088 | 706| 
-| 20200811T12:07:34Z | Null | https://github.com/SmitaGJoshi/fuzzy-fortnight | 0 | 0| 
-| 20200811T12:04:29Z | No idea what I%m doing | https://github.com/klecko/fuzz | 1 | 0| 
-| 20200811T11:35:25Z | yet another HarfBuzz C# binding | https://github.com/TJYSunset/HardFuzz | 2 | 0| 
-| 20200811T11:05:00Z | A library of fuzzy rough machine learning algorithms | https://github.com/oulenz/fuzzy-rough-learn | 1 | 0| 
-| 20200811T11:00:15Z | Planning tool | https://github.com/HappyDustbunny/FuzzyFlexx | 1 | 0| 
-| 20200811T10:39:41Z | Null | https://github.com/ajjumaxy/fuzzy | 0 | 0| 
-| 20200811T10:23:58Z | Personal website of Laurence Hughes | https://github.com/fuzzylogicxx/fuzzylogic | 4 | 1| 
+| 20200811T23:43:20Z | OSS-Fuzz - continuous fuzzing of open source software. | https://github.com/google/oss-fuzz | 5460 | 1068| 
+| 20200811T23:41:07Z | Null | https://github.com/abdulkhoifan/Air-Classification-and-Monitoring-using-Fuzzy-Logic | 0 | 0| 
+| 20200811T23:03:24Z | FuzzBench - Fuzzer benchmarking as a service. | https://github.com/google/fuzzbench | 498 | 71| 
+| 20200811T22:48:24Z | No idea what I%m doing | https://github.com/klecko/fuzz | 1 | 0| 
+| 20200811T22:07:21Z | Personal website of Laurence Hughes | https://github.com/fuzzylogicxx/fuzzylogic | 4 | 1| 
+| 20200811T21:54:19Z | Concurrency | https://github.com/wcventure/ConcurrencyFuzzer | 1 | 1| 
+| 20200811T21:51:28Z | Dashboard that matches independent data feeds by Levenshtein distance | https://github.com/vladGriguta/dashboardFuzzyMatching | 0 | 0| 
+| 20200811T21:30:42Z | FuzzyKnights: Protectors of the Forst - 16bit Adventure | https://github.com/mjnrock/fuzzyknights-arcade | 0 | 0| 
+| 20200811T21:28:20Z | Topology files which crash/hang sof testbench | https://github.com/ymdatta/sof_testbench_fuzz_files | 0 | 0| 
+| 20200811T21:22:13Z | Chip tools, primarily around security fuzzing (laser, EM, UV, etc) | https://github.com/JohnDMcMaster/icfuzz | 4 | 1| 
 
 
 
