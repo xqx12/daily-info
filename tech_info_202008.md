@@ -103,16 +103,16 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20200811T18:55:58Z | Simples criador de RAT (Remote Acess Trojan) / Backdoor. Base: Metasploit-Framework | https://github.com/LightHades/RatCreator | 0 | 0| 
+| 20200811T18:55:14Z | Advanced Attack toolkit, Native C++ RAT, Instagram Brute Force and Password Spraying over Tor, Mass Emailer, Malicious file Sentinel and more. | https://github.com/quantumcored/paradoxia | 125 | 25| 
+| 20200811T17:34:44Z | Hacking tools pack & backdoors generator. | https://github.com/AdrMXR/KitHack | 116 | 28| 
+| 20200811T15:15:22Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 44 | 6| 
+| 20200811T13:40:13Z | backdoor web | https://github.com/byteSalgado/backdoor-werb | 0 | 0| 
 | 20200811T10:04:25Z | M1n3r - is an advanced Python backdoor. | https://github.com/brestyck/M1n3r | 0 | 0| 
 | 20200811T03:16:43Z | knowledge distillation & backdoor | https://github.com/zhuangzi926/kdbackdoor | 0 | 0| 
 | 20200811T02:43:16Z | A Kotlin program used to analyse and discover backdoors in Java programs | https://github.com/Tigermouthbear/Theia | 27 | 3| 
 | 20200811T02:38:44Z | Discord Backdoor | https://github.com/Schnitzel337/Blox---Backdoor | 0 | 0| 
-| 20200811T01:53:50Z | Hacking tools pack & backdoors generator. | https://github.com/AdrMXR/KitHack | 115 | 28| 
 | 20200811T01:23:49Z | Null | https://github.com/iK4oS/PremiumBackdoor.exe | 0 | 0| 
-| 20200811T00:54:02Z | Null | https://github.com/dheeraj7596/NlpBackdoor | 0 | 0| 
-| 20200810T20:19:20Z | Python RCE Shell | https://github.com/tz4678/rc35h | 0 | 0| 
-| 20200810T12:47:35Z | Null | https://github.com/kaidi-jin/backdoor_samples_detection | 2 | 0| 
-| 20200810T01:20:30Z | TCP Backdoor For Windows OS | https://github.com/pamekasancode/Sanchezploit | 1 | 0| 
 
 
 # fuzz on Github 推荐
