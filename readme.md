@@ -17,6 +17,8 @@
 | 20200812 | 利用 Windows 的调试框架在 .NET 进程内直接触发任意 .NET 方法 | https://blog.xpnsec.com/debugging-into-net/| 
 | 20200812 | Adobe Acrobat Reader 发布补丁更新，修复多个漏洞 | https://sec.today/pulses/b98c6012-4543-4fd3-acbe-88e0d58fdef8/| 
 | 20200812 | Windows Print Spooler 五月份本地提权漏洞 PrintDemon 的补丁可被绕过，来自 ZDI 的分析 | https://sec.today/pulses/dce17b0d-cff4-420e-b4a1-fc504bfb0dcc/| 
+| 20200812 | Adobe Acrobat Reader 发布补丁更新，修复多个漏洞 | https://threatpost.com/critical-adobe-acrobat-reader-bugs-rce/158261/| 
+| 20200812 | Windows Print Spooler 五月份本地提权漏洞 PrintDemon 的补丁可被绕过，来自 ZDI 的分析 | https://www.thezdi.com/blog/2020/8/11/windows-print-spooler-patch-bypass-re-enables-persistent-backdoor| 
 
 
 # 安全维基 推荐
@@ -68,6 +70,10 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20200812T10:25:49Z | Undetectable & Xor encrypting with custom KEY (FUD Metasploit Rat) bypass Top Antivirus like BitDefender,Malwarebytes,Avast,ESET-NOD32,AVG,... & Automatically Add ICON and MANIFEST to excitable | https://github.com/persianhydra/Xeexe-TopAntivirusEvasion | 120 | 40| 
+| 20200812T08:57:19Z | Null | https://github.com/dheeraj7596/NlpBackdoor | 0 | 0| 
+| 20200812T06:29:47Z | An easy tool to generate backdoor and easy tool to post exploitation attack like browser attack,dll . This tool compiles a malware with popular payload and then the compiled malware can be execute on windows, android, mac . The malware that created with this tool also have an ability to bypass most AV software protection . | https://github.com/jawaharputti/TheFatRat-a-Massive-Exploiting-Tool | 0 | 0| 
+| 20200812T05:22:29Z | A Multi-Function backdoor application based on TCP Reverse Shell | https://github.com/HalukShan/HitDA | 7 | 0| 
 | 20200812T00:32:32Z | Null | https://github.com/iK4oS/PremiumBackdoor.exe | 0 | 0| 
 
 
