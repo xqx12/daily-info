@@ -81,7 +81,6 @@
 | --- | --- | --- | --- | ---| 
 | 20200811T23:43:20Z | OSS-Fuzz - continuous fuzzing of open source software. | https://github.com/google/oss-fuzz | 5460 | 1068| 
 | 20200811T23:41:07Z | Null | https://github.com/abdulkhoifan/Air-Classification-and-Monitoring-using-Fuzzy-Logic | 0 | 0| 
-| 20200811T23:03:24Z | FuzzBench - Fuzzer benchmarking as a service. | https://github.com/google/fuzzbench | 498 | 72| 
 | 20200811T22:48:24Z | No idea what I%m doing | https://github.com/klecko/fuzz | 1 | 0| 
 | 20200811T22:07:21Z | Personal website of Laurence Hughes | https://github.com/fuzzylogicxx/fuzzylogic | 4 | 1| 
 | 20200811T21:54:19Z | Concurrency | https://github.com/wcventure/ConcurrencyFuzzer | 1 | 1| 
@@ -89,6 +88,7 @@
 | 20200811T21:30:42Z | FuzzyKnights: Protectors of the Forst - 16bit Adventure | https://github.com/mjnrock/fuzzyknights-arcade | 0 | 0| 
 | 20200811T21:28:20Z | Topology files which crash/hang sof testbench | https://github.com/ymdatta/sof_testbench_fuzz_files | 0 | 0| 
 | 20200811T21:22:13Z | Chip tools, primarily around security fuzzing (laser, EM, UV, etc) | https://github.com/JohnDMcMaster/icfuzz | 4 | 1| 
+| 20200811T19:55:34Z | Python implementation of a fuzzing-based gas analysis tool | https://github.com/danno-s/gas-fuzzer | 0 | 0| 
 
 
 
