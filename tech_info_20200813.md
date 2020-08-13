@@ -72,6 +72,9 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20200813T10:09:49Z | a persistent backdoor written in c,with keylogger functions  | https://github.com/FrancescoLucarini/malware-c | 0 | 0| 
+| 20200813T09:11:27Z | Hacking tools pack & backdoors generator. | https://github.com/AdrMXR/KitHack | 118 | 29| 
+| 20200813T05:36:27Z | Backdoor Shell | https://github.com/kaitolegion/Backdoor | 1 | 4| 
 | 20200813T01:49:39Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 44 | 6| 
 
 
