@@ -118,6 +118,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20200813T00:53:29Z | Null | https://github.com/mdempsky/go114-fuzz-build | 6 | 2| 
 | 20200813T00:41:28Z | This project is just me trying to replicate the work done by Brandon Falk during the Fuzz Week for learning purposes and experimentation. | https://github.com/jroimartin/riscv-emu | 2 | 0| 
 | 20200813T00:37:06Z | OSS-Fuzz - continuous fuzzing of open source software. | https://github.com/google/oss-fuzz | 5466 | 1070| 
 | 20200813T00:22:05Z | Null | https://github.com/zhangxiaosa/fuzztools | 0 | 2| 
@@ -127,7 +128,6 @@
 | 20200812T23:21:41Z | A neural network using fuzzing-style feedback rather than back-propagation | https://github.com/gamozolabs/fuzzyneural | 12 | 2| 
 | 20200812T23:21:25Z | A fast Rust-based safe and thead-friendly grammar-based fuzz generator | https://github.com/gamozolabs/fzero_fuzzer | 170 | 11| 
 | 20200812T23:21:13Z | A fuzzing introspection tool | https://github.com/gamozolabs/cookie_dough | 116 | 10| 
-| 20200812T23:21:07Z | Why fuzzing with emulators is amazing | https://github.com/gamozolabs/fuzz_with_emus | 59 | 8| 
 
 
 
