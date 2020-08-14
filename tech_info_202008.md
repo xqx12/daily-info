@@ -21,11 +21,11 @@
 | 20200813 | 一个协助恶意软件分析的Docker-Ciphey | https://docs.remnux.org/run-tools-in-containers/remnux-containers#ciphey| 
 | 20200813 | LiteWAF-一款轻型Web防火墙 | https://github.com/echo-devim/litewaf| 
 | 20200813 | Windows PhoneBook UAF漏洞（CVE-2020-1530）详细分析 | https://symeonp.github.io/2020/12/08/phonebook-uaf-analysis.html| 
+| 20200813 | 朝鲜黑客组织袭击以色列国防工业 | https://www.nytimes.com/2020/08/12/world/middleeast/north-korea-hackers-israel.html?referringSource=articleShare| 
+| 20200813 | wget缓存中毒 | https://medium.com/bugbountywriteup/cache-poisoning-of-wget-94a4d70104b1?source=rss----7b722bfd1b8d---4| 
 | 20200812 | CVE-2020-8163 - Remote code execution of user-provided local names in Rails | https://github.com/sh286/CVE-2020-8163| 
 | 20200812 | 研究员 brightiup 公开了一个 macOS/iOS socket sa_family 校验不当导致的越界访问漏洞 PoC | http://github.com/brightiup/research/tree/master/Apple/CVE-2019-8744| 
 | 20200812 | Windows Print Spooler CVE-2020-1337 本地提权漏洞 Exploit | https://github.com/math1as/CVE-2020-1337-exploit| 
-| 20200812 | Issue 1050003: CVE-2020-8648 CrOS: Vulnerability reported in Linux kernel | https://bugs.chromium.org/p/chromium/issues/detail?id=1050003| 
-| 20200812 | FMMX1 - 三星手机 Find My Mobile 组件多个漏洞分析 | https://char49.com/tech-reports/fmmx1-report.pdf| 
 
 
 # 安全维基 推荐
@@ -48,13 +48,13 @@
 | --- | --- | --- | --- | ---| 
 | 20200814T01:45:10Z | cve-2020-1337 | poc for CVE-2020-1337 (Windows Print Spooler Elevation of Privilege) | https://github.com/sailay1996/cve-2020-1337-poc | 未查询到CVE信息| 
 | 20200813T21:36:59Z | CVE-2020-15931 | Netwrix Account Lockout Examiner 4.1 Domain Admin Account Credential Disclosure Vulnerability | https://github.com/optiv/CVE-2020-15931 | 未查询到CVE信息| 
-| 20200813T15:59:38Z | CVE-2020-6287 | [CVE-2020-6287] SAP NetWeaver AS JAVA (LM Configuration Wizard) Authentication Bypass (Create Simple & Administrator Java User) | https://github.com/murataydemir/CVE-2020-6287 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 12 MINUTES 59 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200813T15:59:38Z | CVE-2020-6287 | [CVE-2020-6287] SAP NetWeaver AS JAVA (LM Configuration Wizard) Authentication Bypass (Create Simple & Administrator Java User) | https://github.com/murataydemir/CVE-2020-6287 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 11 MINUTES 02 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20200813T15:11:59Z | CVE-2020-3452 | CVE-2020-3452 Cisco ASA Scanner -unauth Path Traversal Check | https://github.com/PR3R00T/CVE-2020-3452-Cisco-Scanner | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
-| 20200813T13:49:50Z | CVE-2020-6519 | Null | https://github.com/PerimeterX/CVE-2020-6519 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 12 MINUTES 49 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200813T13:49:50Z | CVE-2020-6519 | Null | https://github.com/PerimeterX/CVE-2020-6519 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 10 MINUTES 51 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20200813T13:28:36Z | CVE-2020-1337 | CVE-2020-1048 bypass: binary planting PoC | https://github.com/neofito/CVE-2020-1337 | 未查询到CVE信息| 
-| 20200813T12:46:09Z | CVE-2020-6286 | [CVE-2020-6286] SAP NetWeaver AS JAVA (LM Configuration Wizard) Directory Traversal | https://github.com/murataydemir/CVE-2020-6286 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 12 MINUTES 57 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200813T11:55:18Z | CVE-2020-5902 | [CVE-2020-5902] F5 BIG-IP Remote Code Execution (RCE) | https://github.com/murataydemir/CVE-2020-5902 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 12 MINUTES 55 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200813T09:10:10Z | CVE-2020-4463 | IBM Maximo Asset Management is vulnerable to Information Disclosure via XXE Vulnerability (CVE-2020-4463) | https://github.com/Ibonok/CVE-2020-4463 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 12 MINUTES 58 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200813T12:46:09Z | CVE-2020-6286 | [CVE-2020-6286] SAP NetWeaver AS JAVA (LM Configuration Wizard) Directory Traversal | https://github.com/murataydemir/CVE-2020-6286 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 10 MINUTES 59 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200813T11:55:18Z | CVE-2020-5902 | [CVE-2020-5902] F5 BIG-IP Remote Code Execution (RCE) | https://github.com/murataydemir/CVE-2020-5902 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 10 MINUTES 58 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200813T09:10:10Z | CVE-2020-4463 | IBM Maximo Asset Management is vulnerable to Information Disclosure via XXE Vulnerability (CVE-2020-4463) | https://github.com/Ibonok/CVE-2020-4463 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 11 MINUTES 00 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20200813T08:39:21Z | CVE-2020-3452 | [CVE-2020-3452] Cisco ASA & Firepower Unauthenticated File Read | https://github.com/murataydemir/CVE-2020-3452 | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
 
 
