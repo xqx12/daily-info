@@ -78,7 +78,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20200814T12:04:47Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 3093 | 707| 
+| 20200814T12:45:41Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 3093 | 707| 
 | 20200814T11:35:57Z | Potentially dangerous files | https://github.com/Bo0oM/fuzz.txt | 1253 | 224| 
 | 20200814T11:24:02Z | 📨 Email template generator. Making emails fun again. | https://github.com/luangjokaj/fuzzymail | 104 | 2| 
 | 20200814T10:39:05Z | Wordlists for Fuzzing | https://github.com/maverickNerd/wordlists | 3 | 2| 
