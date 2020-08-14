@@ -39,7 +39,7 @@
 | 20200813T21:36:59Z | CVE-2020-15931 | Netwrix Account Lockout Examiner 4.1 Domain Admin Account Credential Disclosure Vulnerability | https://github.com/optiv/CVE-2020-15931 | 未查询到CVE信息| 
 | 20200813T15:59:38Z | CVE-2020-6287 | [CVE-2020-6287] SAP NetWeaver AS JAVA (LM Configuration Wizard) Authentication Bypass (Create Simple & Administrator Java User) | https://github.com/murataydemir/CVE-2020-6287 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 27 MINUTES 06 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20200813T15:11:59Z | CVE-2020-3452 | CVE-2020-3452 Cisco ASA Scanner -unauth Path Traversal Check | https://github.com/PR3R00T/CVE-2020-3452-Cisco-Scanner | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
-| 20200813T13:49:50Z | CVE-2020-6519 | Null | https://github.com/PerimeterX/CVE-2020-6519 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 27 MINUTES 52 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200813T13:49:50Z | CVE-2020-6519 | Null | https://github.com/PerimeterX/CVE-2020-6519 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 26 MINUTES 54 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20200813T13:28:36Z | CVE-2020-1337 | CVE-2020-1048 bypass: binary planting PoC | https://github.com/neofito/CVE-2020-1337 | 未查询到CVE信息| 
 | 20200813T12:46:09Z | CVE-2020-6286 | [CVE-2020-6286] SAP NetWeaver AS JAVA (LM Configuration Wizard) Directory Traversal | https://github.com/murataydemir/CVE-2020-6286 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 27 MINUTES 03 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20200813T11:55:18Z | CVE-2020-5902 | [CVE-2020-5902] F5 BIG-IP Remote Code Execution (RCE) | https://github.com/murataydemir/CVE-2020-5902 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 27 MINUTES 02 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
@@ -65,7 +65,6 @@
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
 | 20200813T22:30:24Z | Exploits nested.parallel and nested.optimize to tune neuronal cell models | https://github.com/neurosutras/optimize_cells | 0 | 1| 
-| 20200813T21:19:59Z | Null | https://github.com/quentin452/Cats-Exploitz-HUB | 0 | 0| 
 | 20200813T20:53:03Z | A container analysis and exploitation tool for pentesters and engineers. | https://github.com/brompwnie/botb | 314 | 30| 
 | 20200813T20:00:59Z | Playing with security tools studying vulnerabilities writing exploits | https://github.com/violentr/infosec_playground | 1 | 1| 
 | 20200813T19:48:30Z | Exploits & programs i will be writing for the purpose of learning furthermore deep within the Exploit-Development field. | https://github.com/whitecr0wz/Study-Exploits | 0 | 0| 
@@ -74,6 +73,7 @@
 | 20200813T19:13:24Z | Vbulletin RCE Exploit | https://github.com/nako48/CVE-2019-16759 | 0 | 0| 
 | 20200813T18:47:55Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 2 | 2| 
 | 20200813T18:47:44Z | Null | https://github.com/caldonovan/Dirty-COW-Exploit | 1 | 0| 
+| 20200813T18:22:48Z | *Frequently Updated. Sifter is a osint, recon & vulnerability scanner. It combines a plethara of tools within different module sets in order to quickly perform recon tasks, check network firewalling, enumerate remote and local hosts, and scan for the %blue% vulnerabilities within microsft and if unpatched, exploit them.  It uses tools like blackwidow and konan for webdir enumeration and attack surface mapping rapidly using ASM.  | https://github.com/s1l3nt78/sifter | 221 | 70| 
 
 
 # backdoor on Github 推荐
