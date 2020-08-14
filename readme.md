@@ -78,6 +78,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20200814T12:48:15Z | WIP A Front-End for Fuzzy Finder Applications | https://github.com/10sr/fuzzy-finder-el | 0 | 0| 
 | 20200814T12:45:41Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 3093 | 707| 
 | 20200814T11:35:57Z | Potentially dangerous files | https://github.com/Bo0oM/fuzz.txt | 1253 | 224| 
 | 20200814T11:24:02Z | 📨 Email template generator. Making emails fun again. | https://github.com/luangjokaj/fuzzymail | 104 | 2| 
@@ -87,7 +88,6 @@
 | 20200814T09:01:36Z | Tidal autocoder | https://github.com/tidalcycles/tidal-fuzz | 6 | 1| 
 | 20200814T08:47:49Z | Scalable fuzzing infrastructure. | https://github.com/google/clusterfuzz | 4294 | 384| 
 | 20200814T08:46:08Z | 🧢渗透测试人员专用精简化字典👒 😊 Dictionary for penetration testers happy hacker 🎉 | https://github.com/ppbibo/PentesterSpecialDict | 8 | 1| 
-| 20200814T06:59:31Z | I use the basic genetic algorithm  to solve a fuzzy flexible jobshop scheduling problem  | https://github.com/zhangzhengmin/GA-for-fuzzy-FJSP-problem | 0 | 0| 
 
 
 
