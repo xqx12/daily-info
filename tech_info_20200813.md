@@ -95,16 +95,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20200813T14:21:42Z | OSS-Fuzz - continuous fuzzing of open source software. | https://github.com/google/oss-fuzz | 5469 | 1070| 
-| 20200813T14:18:28Z | Null | https://github.com/Nexucis/fuzzy | 0 | 0| 
-| 20200813T14:11:04Z | Simple and fast web fuzzer written in python | https://github.com/ScRiPt1337/pyffuf | 1 | 0| 
-| 20200813T13:56:47Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 3093 | 707| 
-| 20200813T13:52:20Z | 🧢渗透测试人员专用精简化字典👒 😊 Dictionary for penetration testers happy hacker 🎉 | https://github.com/ppbibo/PentesterSpecialDict | 7 | 1| 
-| 20200813T13:50:22Z | No idea what I%m doing | https://github.com/klecko/fuzz | 1 | 0| 
-| 20200813T13:47:49Z | Fork of the hal-fuzz repository (%HALucinator: Firmware Re-Hosting through Abstraction Layer Emulation%) | https://github.com/daniele122008/hal-fuzz-fork | 0 | 0| 
-| 20200813T13:20:03Z | MPC Controllers Vs FuzzyLogic Controller Vs PID controller | https://github.com/LINOSNCHENA/Monitoring-Fuzzy-Logic-Controller | 0 | 0| 
-| 20200813T13:01:20Z | Fuzzy matching publications for fatcat. | https://github.com/miku/fuzzycat | 0 | 0| 
-| 20200813T12:49:41Z | FuzzyKnights: Protectors of the Forst - 16bit Adventure | https://github.com/mjnrock/fuzzyknights-arcade | 0 | 0| 
+| 20200813T23:52:54Z | OSS-Fuzz - continuous fuzzing of open source software. | https://github.com/google/oss-fuzz | 5469 | 1070| 
+| 20200813T22:49:13Z | FuzzBench - Fuzzer benchmarking as a service. | https://github.com/google/fuzzbench | 501 | 72| 
+| 20200813T22:10:20Z | Null | https://github.com/alicelambda/FuzzyFileSystemFuzzer | 0 | 0| 
+| 20200813T22:00:24Z | Frida-based general purpose fuzzer | https://github.com/demantz/frizzer | 118 | 19| 
+| 20200813T21:54:47Z | Framework for finding similar rows in a JDBC source | https://github.com/bmiller1009/fuzzy-row-matcher | 0 | 0| 
+| 20200813T21:44:56Z | css for brightcove player | https://github.com/metrograph-mr/fuzzy-octo-doodle | 0 | 1| 
+| 20200813T21:42:37Z | Null | https://github.com/szymin22/fuzzy-umbrella | 0 | 0| 
+| 20200813T21:31:43Z | Null | https://github.com/cautiousEurekaDemoOrg/fuzzy-garbanzo | 0 | 0| 
+| 20200813T21:23:52Z | A curated list of different AFL forks and AFL inspired fuzzers with detailed equivalent academic papers with AFL-fuzzing tutorials | https://github.com/Microsvuln/Awesome-AFL | 285 | 37| 
+| 20200813T21:17:01Z | generate random valid Shift format ASTs | https://github.com/shapesecurity/shift-fuzzer-js | 12 | 3| 
 
 
 
