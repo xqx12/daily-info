@@ -54,6 +54,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20200814T12:09:12Z | MSFVIP Ia PowerFull Tools For Exploit | https://github.com/RizzSploit/MSFVIP | 0 | 0| 
 | 20200814T12:07:04Z | Advanced Exploit Mitigation Paper | https://github.com/CxVercility/Windows-Internals | 0 | 0| 
 | 20200814T12:00:28Z | Telia Technicolor TG389ac v.17.1.7992 Samba privilege escalation exploit | https://github.com/full-disclosure/FDEU-CVE-2020-1FC5 | 0 | 0| 
 | 20200814T11:03:16Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 6924 | 1102| 
@@ -63,7 +64,6 @@
 | 20200814T09:31:50Z | 🎮 - A ROBLOX Exploit I created then abandoned out of boredom. | https://github.com/SpencerComputers/LimeHub | 0 | 0| 
 | 20200814T09:21:44Z | Exploits for CTF Challenges | https://github.com/akulpillai/CTF-exploits | 2 | 0| 
 | 20200814T08:01:15Z | Vbulletin RCE Exploit | https://github.com/nako48/CVE-2019-16759 | 0 | 0| 
-| 20200814T06:54:01Z | Null | https://github.com/quentin452/Cats-Exploitz-HUB | 0 | 0| 
 
 
 # backdoor on Github 推荐
