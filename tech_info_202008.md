@@ -17,6 +17,8 @@
 | 20200814 | 广告过滤插件对用户搜索产品和购买行为的影响 | https://www.usenix.org/conference/usenixsecurity20/presentation/frik| 
 | 20200814 | NXNSAttack - 针对 DNS 系统的数据包放大攻击 | https://sec.today/pulses/06ba9b23-036e-4464-b9f6-f649a592bc63/| 
 | 20200814 | Padding Ain’t Enough: Assessing the Privacy Guarantees of Encrypted DNS (Paper) | https://sec.today/pulses/d2e71caf-ae67-41e1-94d4-f0e06045273e/| 
+| 20200814 | NXNSAttack - 针对 DNS 系统的数据包放大攻击 | https://www.usenix.org/system/files/sec20-afek.pdf| 
+| 20200814 | Padding Ain’t Enough: Assessing the Privacy Guarantees of Encrypted DNS (Paper) | https://www.usenix.org/system/files/foci20-paper-bushart.pdf| 
 | 20200813 | Sinter - 基于 Apple EndpointSecurity 框架 API 写的一款终端安全软件 | https://blog.trailofbits.com/2020/08/12/sinter-new-user-mode-security-enforcement-for-macos/| 
 | 20200813 | 从 7zip 中直接将文件拖拽到 VMware 虚拟机导致的虚拟机崩溃调试分析 | http://paper.seebug.org/1291/| 
 | 20200813 | 活动目录 ACE 错误配置到 RCE | http://sensepost.com/blog/2020/ace-to-rce/| 
@@ -24,8 +26,6 @@
 | 20200813 | 卡巴发布Internet Explorer 11远程执行代码漏洞分析 | https://securelist.com/ie-and-windows-zero-day-operation-powerfall/97976/| 
 | 20200813 | Citrix 移动设备管理软件 XenMobile Server 被发现两个高危漏洞 | https://threatpost.com/citrix-warns-of-critical-flaws-in-xenmobile-server/158293/| 
 | 20200813 | 如何将Golang的二进制文件转换为shellcode并注入到其他进程中 | https://www.redteam.cafe/red-team/golang/converting-your-go-bins-to-shellcode-and-using-them-in-c| 
-| 20200813 | Nautilus-一款基于语法的反馈Fuzzer | https://www.kitploit.com/2020/08/nautilus-grammar-based-feedback-fuzzer.html| 
-| 20200813 | MMS Exploit Part 5: Defeating Android ASLR, Getting RCE | https://googleprojectzero.blogspot.com/2020/08/mms-exploit-part-5-defeating-aslr-getting-rce.html?m=1| 
 
 
 # 安全维基 推荐
@@ -50,11 +50,11 @@
 | 20200814T10:37:28Z | cve-2020-1337 | poc for CVE-2020-1337 (Windows Print Spooler Elevation of Privilege) | https://github.com/sailay1996/cve-2020-1337-poc | 未查询到CVE信息| 
 | 20200814T09:24:36Z | CVE-2020-2034 | Determine the Version Running on the Palo Alto Network Firewall for the Global Protect Portal | https://github.com/blackhatethicalhacking/CVE-2020-2034-POC | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
 | 20200813T21:36:59Z | CVE-2020-15931 | Netwrix Account Lockout Examiner 4.1 Domain Admin Account Credential Disclosure Vulnerability | https://github.com/optiv/CVE-2020-15931 | 未查询到CVE信息| 
-| 20200813T15:59:38Z | CVE-2020-6287 | [CVE-2020-6287] SAP NetWeaver AS JAVA (LM Configuration Wizard) Authentication Bypass (Create Simple & Administrator Java User) | https://github.com/murataydemir/CVE-2020-6287 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 58 MINUTES 37 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200813T15:59:38Z | CVE-2020-6287 | [CVE-2020-6287] SAP NetWeaver AS JAVA (LM Configuration Wizard) Authentication Bypass (Create Simple & Administrator Java User) | https://github.com/murataydemir/CVE-2020-6287 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 56 MINUTES 34 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20200813T15:11:59Z | CVE-2020-3452 | CVE-2020-3452 Cisco ASA Scanner -unauth Path Traversal Check | https://github.com/PR3R00T/CVE-2020-3452-Cisco-Scanner | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
-| 20200813T13:49:50Z | CVE-2020-6519 | Null | https://github.com/PerimeterX/CVE-2020-6519 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 58 MINUTES 27 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200813T13:49:50Z | CVE-2020-6519 | Null | https://github.com/PerimeterX/CVE-2020-6519 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 56 MINUTES 24 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20200813T13:28:36Z | CVE-2020-1337 | CVE-2020-1048 bypass: binary planting PoC | https://github.com/neofito/CVE-2020-1337 | 未查询到CVE信息| 
-| 20200813T12:46:09Z | CVE-2020-6286 | [CVE-2020-6286] SAP NetWeaver AS JAVA (LM Configuration Wizard) Directory Traversal | https://github.com/murataydemir/CVE-2020-6286 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 58 MINUTES 35 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200813T12:46:09Z | CVE-2020-6286 | [CVE-2020-6286] SAP NetWeaver AS JAVA (LM Configuration Wizard) Directory Traversal | https://github.com/murataydemir/CVE-2020-6286 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 56 MINUTES 31 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20200813T11:55:18Z | CVE-2020-5902 | [CVE-2020-5902] F5 BIG-IP Remote Code Execution (RCE) | https://github.com/murataydemir/CVE-2020-5902 | | 
 
 

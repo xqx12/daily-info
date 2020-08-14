@@ -17,6 +17,8 @@
 | 20200814 | 广告过滤插件对用户搜索产品和购买行为的影响 | https://www.usenix.org/conference/usenixsecurity20/presentation/frik| 
 | 20200814 | NXNSAttack - 针对 DNS 系统的数据包放大攻击 | https://sec.today/pulses/06ba9b23-036e-4464-b9f6-f649a592bc63/| 
 | 20200814 | Padding Ain’t Enough: Assessing the Privacy Guarantees of Encrypted DNS (Paper) | https://sec.today/pulses/d2e71caf-ae67-41e1-94d4-f0e06045273e/| 
+| 20200814 | NXNSAttack - 针对 DNS 系统的数据包放大攻击 | https://www.usenix.org/system/files/sec20-afek.pdf| 
+| 20200814 | Padding Ain’t Enough: Assessing the Privacy Guarantees of Encrypted DNS (Paper) | https://www.usenix.org/system/files/foci20-paper-bushart.pdf| 
 
 
 # 安全维基 推荐
