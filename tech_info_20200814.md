@@ -54,6 +54,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20200814T12:59:08Z | Docker container that has all the CLI tooling for binary exploitation (thanks to @LiveOverflow) | https://github.com/sogonsec/docker-binaryexploitation | 2 | 0| 
 | 20200814T12:55:45Z | Silice is an open source language that simplifies writing algorithms fully exploiting FPGA architectures. | https://github.com/sylefeb/Silice | 321 | 19| 
 | 20200814T12:55:30Z | Telia Technicolor TG389ac v.17.1.7992 Samba privilege escalation exploit | https://github.com/full-disclosure/FDEU-CVE-2020-1FC5 | 0 | 0| 
 | 20200814T12:47:56Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 2 | 2| 
@@ -63,7 +64,6 @@
 | 20200814T12:10:31Z | My Cybersecurity Blog - Learning Is Life | https://github.com/flast101/flast101.github.io | 0 | 0| 
 | 20200814T12:09:12Z | MSFVIP Ia PowerFull Tools For Exploit | https://github.com/RizzSploit/MSFVIP | 0 | 0| 
 | 20200814T12:07:04Z | Advanced Exploit Mitigation Paper | https://github.com/CxVercility/Windows-Internals | 0 | 0| 
-| 20200814T10:56:54Z | Some exploits and pocs. | https://github.com/wugedz/CVEs | 0 | 0| 
 
 
 # backdoor on Github 推荐
