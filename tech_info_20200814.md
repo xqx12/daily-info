@@ -33,15 +33,16 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20200814T12:55:30Z | CVE-2020-1 | Telia Technicolor TG389ac v.17.1.7992 Samba privilege escalation exploit | https://github.com/full-disclosure/FDEU-CVE-2020-1FC5 | 未查询到CVE信息| 
-| 20200814T10:37:28Z | cve-2020-1337 | poc for CVE-2020-1337 (Windows Print Spooler Elevation of Privilege) | https://github.com/sailay1996/cve-2020-1337-poc | 未查询到CVE信息| 
+| 20200814T19:04:18Z | cve-2020-1337 | poc for CVE-2020-1337 (Windows Print Spooler Elevation of Privilege) | https://github.com/sailay1996/cve-2020-1337-poc | | 
+| 20200814T17:50:58Z | CVE-2020-1 | Telia Technicolor TG389ac v.17.1.7992 Samba privilege escalation exploit | https://github.com/full-disclosure/FDEU-CVE-2020-1FC5 | 未查询到CVE信息| 
 | 20200814T09:24:36Z | CVE-2020-2034 | Determine the Version Running on the Palo Alto Network Firewall for the Global Protect Portal | https://github.com/blackhatethicalhacking/CVE-2020-2034-POC | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20200814T10:30:01Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1457 | 448| 
+| 20200814T23:17:38Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1458 | 448| 
+| 20200814T14:12:23Z | Minecraft Mod. Allows breaking only one half of a double slab block. | https://github.com/blay09/KleeSlabs | 7 | 3| 
 | 20200814T06:40:42Z | Null | https://github.com/shabroek/Kleedkamerscherm | 0 | 0| 
 
 
@@ -54,40 +55,43 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20200814T12:59:08Z | Docker container that has all the CLI tooling for binary exploitation (thanks to @LiveOverflow) | https://github.com/sogonsec/docker-binaryexploitation | 2 | 0| 
-| 20200814T12:55:45Z | Silice is an open source language that simplifies writing algorithms fully exploiting FPGA architectures. | https://github.com/sylefeb/Silice | 321 | 19| 
-| 20200814T12:55:30Z | Telia Technicolor TG389ac v.17.1.7992 Samba privilege escalation exploit | https://github.com/full-disclosure/FDEU-CVE-2020-1FC5 | 0 | 0| 
-| 20200814T12:47:56Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 2 | 2| 
-| 20200814T12:47:13Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 6926 | 1102| 
-| 20200814T12:23:23Z | Null | https://github.com/quentin452/Cats-Exploitz-HUB | 0 | 0| 
-| 20200814T12:19:36Z | A proxy aware C2 framework used to aid red teamers with post-exploitation and lateral movement. | https://github.com/nettitude/PoshC2 | 504 | 132| 
-| 20200814T12:10:31Z | My Cybersecurity Blog - Learning Is Life | https://github.com/flast101/flast101.github.io | 0 | 0| 
-| 20200814T12:09:12Z | MSFVIP Ia PowerFull Tools For Exploit | https://github.com/RizzSploit/MSFVIP | 0 | 0| 
-| 20200814T12:07:04Z | Advanced Exploit Mitigation Paper | https://github.com/CxVercility/Windows-Internals | 0 | 0| 
+| 20200814T23:19:42Z | Null | https://github.com/quentin452/Cats-Exploitz-HUB | 0 | 0| 
+| 20200814T22:32:13Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 6932 | 1104| 
+| 20200814T22:15:34Z | An attack/exploit Detector that utilizes Polymorphism and Diversity | https://github.com/polyverse/zerotect | 4 | 1| 
+| 20200814T22:05:13Z | A Roblox Exploit Script | https://github.com/lavacastred/lavacast | 0 | 0| 
+| 20200814T21:16:43Z | EternalBlue suite remade in C/C++ which includes: MS17-010 Exploit, EternalBlue vulnerability detector, DoublePulsar detector and DoublePulsar Shellcode & DLL uploader | https://github.com/bhassani/EternalBlueC | 116 | 29| 
+| 20200814T20:41:17Z | go build Jaws.go and file will output as Jaws then zmap by %zmap -pyourport -wlist , ./Jaws% | https://github.com/BlazingRuns/GO-Exploit-Jaws-IP-Camera | 0 | 0| 
+| 20200814T20:35:48Z | *Frequently Updated. Sifter is a osint, recon & vulnerability scanner. It combines a plethara of tools within different module sets in order to quickly perform recon tasks, check network firewalling, enumerate remote and local hosts, and scan for the %blue% vulnerabilities within microsft and if unpatched, exploit them.  It uses tools like blackwidow and konan for webdir enumeration and attack surface mapping rapidly using ASM.  | https://github.com/s1l3nt78/sifter | 221 | 70| 
+| 20200814T19:50:10Z | Open Source Roblox Exploit | https://github.com/Vyperium-Group/Vyperium-Lite-Exploit | 0 | 0| 
+| 20200814T19:21:26Z | 📈 A visualization of MetricQ data exploiting the advanctages of the HTA db backend  | https://github.com/metricq/metricq-webview | 0 | 0| 
+| 20200814T19:06:47Z | Null | https://github.com/Anon-Exploiter/Anon-Exploiter | 1 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20200814T19:04:29Z | Repository for all the code related to Learn Python & Ethical Hacking From Scratch course. All the work is done on Kali Linux, using both Python 2.7 and 3.x version. | https://github.com/Maffey/ethical-hacking-course | 0 | 0| 
+| 20200814T15:50:15Z | Vysecator Is a Python Script Obfuscator Tool, Which can be used to Obfuscate your hand written Malwares! | https://github.com/Vedant-Bhalgama/VySecator | 19 | 1| 
+| 20200814T15:36:39Z | a persistent backdoor written in c,with keylogger functions  | https://github.com/FrancescoLucarini/malware-c | 1 | 0| 
+| 20200814T14:47:48Z | Hacking tools pack & backdoors generator. | https://github.com/AdrMXR/KitHack | 119 | 29| 
 | 20200814T12:37:11Z | Linux backdoor with the ablility to issue custom commands and linux commands. | https://github.com/Bradley-Hubbard/Linux-Backdoor | 0 | 0| 
 | 20200814T05:30:38Z | This tool will create backdoor | https://github.com/krishpranav/Backdoorcreator | 0 | 0| 
-| 20200814T03:33:26Z | Hacking tools pack & backdoors generator. | https://github.com/AdrMXR/KitHack | 118 | 29| 
 | 20200814T03:10:40Z | A deck-building roguelike cyberpunk game. | https://github.com/uspgamedev/backdoor | 16 | 2| 
 
 
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20200814T12:56:29Z | Fuzzy Clustering Using Hybrid Fuzzy c-means and Fuzzy Particle Swarm Optimization (A Research Paper Implementation) | https://github.com/AkalyaAsokan/Fuzzy_Clustering-Hybrid_CMeans_PSO | 0 | 0| 
-| 20200814T12:55:45Z | WIP A Front-End for Fuzzy Finder Applications | https://github.com/10sr/fuzzy-finder-el | 0 | 0| 
-| 20200814T12:45:41Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 3093 | 707| 
-| 20200814T11:35:57Z | Potentially dangerous files | https://github.com/Bo0oM/fuzz.txt | 1253 | 224| 
-| 20200814T11:24:02Z | 📨 Email template generator. Making emails fun again. | https://github.com/luangjokaj/fuzzymail | 104 | 2| 
-| 20200814T10:39:05Z | Wordlists for Fuzzing | https://github.com/maverickNerd/wordlists | 3 | 2| 
-| 20200814T09:54:12Z | FuzzBench - Fuzzer benchmarking as a service. | https://github.com/google/fuzzbench | 502 | 73| 
-| 20200814T09:24:07Z | A JavaScript Engine Fuzzer | https://github.com/googleprojectzero/fuzzilli | 1002 | 163| 
-| 20200814T09:01:36Z | Tidal autocoder | https://github.com/tidalcycles/tidal-fuzz | 6 | 1| 
-| 20200814T08:47:49Z | Scalable fuzzing infrastructure. | https://github.com/google/clusterfuzz | 4294 | 384| 
+| 20200814T23:44:30Z | A cross-platform browser fuzzing framework | https://github.com/MozillaSecurity/grizzly | 209 | 27| 
+| 20200814T23:44:20Z | Comming soon... | https://github.com/zjuchenyuan/dockerized_fuzzing | 14 | 0| 
+| 20200814T23:43:47Z | css for brightcove player | https://github.com/metrograph-mr/fuzzy-octo-doodle | 0 | 1| 
+| 20200814T23:16:47Z | Dashboard that matches independent data feeds by Levenshtein distance | https://github.com/vladGriguta/dashboardFuzzyMatching | 0 | 0| 
+| 20200814T23:01:52Z | Null | https://github.com/alicelambda/FuzzyFileSystemFuzzer | 0 | 0| 
+| 20200814T22:47:21Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 3094 | 707| 
+| 20200814T22:22:19Z | Personal website of Laurence Hughes | https://github.com/fuzzylogicxx/fuzzylogic | 4 | 1| 
+| 20200814T22:02:07Z | Prevod | https://github.com/mensurmemo/fuzzy-octo-engine | 0 | 0| 
+| 20200814T21:44:00Z | No idea what I%m doing | https://github.com/klecko/fuzz | 1 | 0| 
+| 20200814T21:24:00Z | OSS-Fuzz - continuous fuzzing of open source software. | https://github.com/google/oss-fuzz | 5473 | 1071| 
 
 
 
