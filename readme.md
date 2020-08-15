@@ -37,7 +37,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20200815T12:14:55Z | iblessing is an iOS security exploiting toolkit, it mainly includes application information collection, static analysis and dynamic analysis. It can be used for reverse engineering, binary analysis and vulnerability mining. | https://github.com/Soulghost/iblessing | 101 | 12| 
+| 20200815T12:15:42Z | iblessing is an iOS security exploiting toolkit, it mainly includes application information collection, static analysis and dynamic analysis. It can be used for reverse engineering, binary analysis and vulnerability mining. | https://github.com/Soulghost/iblessing | 102 | 12| 
 | 20200815T12:14:53Z | k8gege.org - K8哥哥%s Blog | https://github.com/k8gege/k8gege.github.io | 9 | 4| 
 | 20200815T12:08:39Z | Null | https://github.com/Saad-Alareqi/Android-PS4-Exploit-Host | 3 | 0| 
 | 20200815T12:05:15Z | PS4 Exploit list | https://github.com/Hakkuraifu/PS4xploit | 9 | 1| 
@@ -59,6 +59,8 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20200815T12:15:11Z | Null | https://github.com/toivootspere/fuzzy-sniffle | 0 | 0| 
+| 20200815T12:14:54Z | Null | https://github.com/toivootspere/fuzzy-meme | 0 | 0| 
 | 20200815T12:12:10Z | The code behind getfursu.it | https://github.com/veelkoov/fuzzrake | 6 | 0| 
 | 20200815T11:36:03Z | fuzzers corpus files for libzmq are stored in binary format in this repository | https://github.com/zeromq/libzmq-fuzz-corpora | 0 | 0| 
 | 20200815T11:35:29Z | No idea what I%m doing | https://github.com/klecko/fuzz | 1 | 0| 
@@ -67,8 +69,6 @@
 | 20200815T10:08:11Z | Null | https://github.com/sanataha/fuzzy | 0 | 0| 
 | 20200815T06:48:46Z | Null | https://github.com/manukapz/fuzzy-journey | 0 | 0| 
 | 20200815T06:43:16Z | sample of decision making for RPM based of cloths amount and dirtiness with fuzzy logic for washing machines | https://github.com/pooya-rostami/fuzzy-logic-for-wahing-machine | 0 | 0| 
-| 20200815T06:32:07Z | Tutorials, examples, discussions, research proposals, and other resources related to fuzzing | https://github.com/google/fuzzing | 1378 | 194| 
-| 20200815T05:40:12Z | A curated list of fuzzing resources ( Books, courses - free and paid, videos, tools, tutorials and vulnerable applications to practice on ) for learning Fuzzing and initial phases of Exploit Development like root cause analysis. | https://github.com/secfigo/Awesome-Fuzzing | 3224 | 654| 
 
 
 
