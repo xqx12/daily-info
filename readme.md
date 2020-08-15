@@ -55,7 +55,6 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20200814T23:19:42Z | Null | https://github.com/quentin452/Cats-Exploitz-HUB | 0 | 0| 
 | 20200814T22:32:13Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 6932 | 1104| 
 | 20200814T22:15:34Z | An attack/exploit Detector that utilizes Polymorphism and Diversity | https://github.com/polyverse/zerotect | 4 | 1| 
 | 20200814T22:05:13Z | A Roblox Exploit Script | https://github.com/lavacastred/lavacast | 0 | 0| 
@@ -65,6 +64,7 @@
 | 20200814T19:50:10Z | Open Source Roblox Exploit | https://github.com/Vyperium-Group/Vyperium-Lite-Exploit | 0 | 0| 
 | 20200814T19:21:26Z | 📈 A visualization of MetricQ data exploiting the advanctages of the HTA db backend  | https://github.com/metricq/metricq-webview | 0 | 0| 
 | 20200814T19:06:47Z | Null | https://github.com/Anon-Exploiter/Anon-Exploiter | 1 | 0| 
+| 20200814T18:47:55Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 2 | 2| 
 
 
 # backdoor on Github 推荐
