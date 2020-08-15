@@ -37,6 +37,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20200815T12:35:12Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 6935 | 1106| 
 | 20200815T12:28:47Z | Build a database of libc offsets to simplify exploitation | https://github.com/niklasb/libc-database | 987 | 171| 
 | 20200815T12:15:42Z | iblessing is an iOS security exploiting toolkit, it mainly includes application information collection, static analysis and dynamic analysis. It can be used for reverse engineering, binary analysis and vulnerability mining. | https://github.com/Soulghost/iblessing | 102 | 12| 
 | 20200815T12:14:53Z | k8gege.org - K8哥哥%s Blog | https://github.com/k8gege/k8gege.github.io | 9 | 4| 
@@ -46,7 +47,6 @@
 | 20200815T11:35:16Z | Null | https://github.com/musyoka101/Bolt-CMS-version-3.7.1-RCE-Exploit | 0 | 0| 
 | 20200815T10:42:23Z | 大型内网渗透扫描器&Cobalt Strike，Ladon7.0内置83个模块，包含信息收集/存活主机/IP扫描/端口扫描/服务识别/网络资产/密码爆破/漏洞检测/漏洞利用。漏洞检测含MS17010、SMBGhost、Weblogic、ActiveMQ、Tomcat、Struts2系列，密码口令爆破(Mysql、Oracle、MSSQL)、FTP、SSH(Linux)、VNC、Windows(IPC、WMI、SMB、LDAP、SmbHash、WmiHash、Winrm),远程执行命令(wmiexe/psexec/atexec/sshexec/webshell),降权提权Runas、GetSystem，Poc/Exploit,支持Cobalt Strike 3.X-4.0 | https://github.com/k8gege/Ladon | 1763 | 432| 
 | 20200815T10:38:53Z | Null | https://github.com/purplewall1206/EXPLOIT-practice | 0 | 0| 
-| 20200815T09:08:36Z | K8工具合集(内网渗透/提权工具/远程溢出/漏洞利用/扫描工具/密码破解/免杀工具/Exploit/APT/0day/Shellcode/Payload/priviledge/BypassUAC/OverFlow/WebShell/PenTest) Web GetShell Exploit(Struts2/Zimbra/Weblogic/Tomcat/Apache/Jboss/DotNetNuke/zabbix) | https://github.com/k8gege/K8tools | 3070 | 1423| 
 
 
 # backdoor on Github 推荐
