@@ -51,11 +51,11 @@
 | 20200815T03:55:19Z | cve-2020-1337 | poc for CVE-2020-1337 (Windows Print Spooler Elevation of Privilege) | https://github.com/sailay1996/cve-2020-1337-poc | 未查询到CVE信息| 
 | 20200814T09:24:36Z | CVE-2020-2034 | Determine the Version Running on the Palo Alto Network Firewall for the Global Protect Portal | https://github.com/blackhatethicalhacking/CVE-2020-2034-POC | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
 | 20200813T21:36:59Z | CVE-2020-15931 | Netwrix Account Lockout Examiner 4.1 Domain Admin Account Credential Disclosure Vulnerability | https://github.com/optiv/CVE-2020-15931 | 未查询到CVE信息| 
-| 20200813T15:59:38Z | CVE-2020-6287 | [CVE-2020-6287] SAP NetWeaver AS JAVA (LM Configuration Wizard) Authentication Bypass (Create Simple & Administrator Java User) | https://github.com/murataydemir/CVE-2020-6287 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 47 MINUTES 32 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200813T15:59:38Z | CVE-2020-6287 | [CVE-2020-6287] SAP NetWeaver AS JAVA (LM Configuration Wizard) Authentication Bypass (Create Simple & Administrator Java User) | https://github.com/murataydemir/CVE-2020-6287 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 45 MINUTES 35 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20200813T15:11:59Z | CVE-2020-3452 | CVE-2020-3452 Cisco ASA Scanner -unauth Path Traversal Check | https://github.com/PR3R00T/CVE-2020-3452-Cisco-Scanner | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
-| 20200813T13:49:50Z | CVE-2020-6519 | Null | https://github.com/PerimeterX/CVE-2020-6519 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 47 MINUTES 20 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200813T13:49:50Z | CVE-2020-6519 | Null | https://github.com/PerimeterX/CVE-2020-6519 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 45 MINUTES 25 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20200813T13:28:36Z | CVE-2020-1337 | CVE-2020-1048 bypass: binary planting PoC | https://github.com/neofito/CVE-2020-1337 | 未查询到CVE信息| 
-| 20200813T12:46:09Z | CVE-2020-6286 | [CVE-2020-6286] SAP NetWeaver AS JAVA (LM Configuration Wizard) Directory Traversal | https://github.com/murataydemir/CVE-2020-6286 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 47 MINUTES 30 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200813T12:46:09Z | CVE-2020-6286 | [CVE-2020-6286] SAP NetWeaver AS JAVA (LM Configuration Wizard) Directory Traversal | https://github.com/murataydemir/CVE-2020-6286 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 45 MINUTES 33 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 
 
 # klee on Github 推荐
@@ -88,16 +88,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20200815T12:14:55Z | iblessing is an iOS security exploiting toolkit, it mainly includes application information collection, static analysis and dynamic analysis. It can be used for reverse engineering, binary analysis and vulnerability mining. | https://github.com/Soulghost/iblessing | 101 | 12| 
+| 20200815T12:14:53Z | k8gege.org - K8哥哥%s Blog | https://github.com/k8gege/k8gege.github.io | 9 | 4| 
 | 20200815T12:08:39Z | Null | https://github.com/Saad-Alareqi/Android-PS4-Exploit-Host | 3 | 0| 
 | 20200815T12:05:15Z | PS4 Exploit list | https://github.com/Hakkuraifu/PS4xploit | 9 | 1| 
 | 20200815T11:58:57Z | https://krunker.io/ edit exploit for modding krunker | https://github.com/ZaResX/KrunkerZares | 8 | 7| 
-| 20200815T11:45:13Z | iblessing is an iOS security exploiting toolkit, it mainly includes application information collection, static analysis and dynamic analysis. It can be used for reverse engineering, binary analysis and vulnerability mining. | https://github.com/Soulghost/iblessing | 100 | 12| 
 | 20200815T11:35:16Z | Null | https://github.com/musyoka101/Bolt-CMS-version-3.7.1-RCE-Exploit | 0 | 0| 
 | 20200815T10:42:23Z | 大型内网渗透扫描器&Cobalt Strike，Ladon7.0内置83个模块，包含信息收集/存活主机/IP扫描/端口扫描/服务识别/网络资产/密码爆破/漏洞检测/漏洞利用。漏洞检测含MS17010、SMBGhost、Weblogic、ActiveMQ、Tomcat、Struts2系列，密码口令爆破(Mysql、Oracle、MSSQL)、FTP、SSH(Linux)、VNC、Windows(IPC、WMI、SMB、LDAP、SmbHash、WmiHash、Winrm),远程执行命令(wmiexe/psexec/atexec/sshexec/webshell),降权提权Runas、GetSystem，Poc/Exploit,支持Cobalt Strike 3.X-4.0 | https://github.com/k8gege/Ladon | 1763 | 432| 
 | 20200815T10:38:53Z | Null | https://github.com/purplewall1206/EXPLOIT-practice | 0 | 0| 
 | 20200815T09:08:36Z | K8工具合集(内网渗透/提权工具/远程溢出/漏洞利用/扫描工具/密码破解/免杀工具/Exploit/APT/0day/Shellcode/Payload/priviledge/BypassUAC/OverFlow/WebShell/PenTest) Web GetShell Exploit(Struts2/Zimbra/Weblogic/Tomcat/Apache/Jboss/DotNetNuke/zabbix) | https://github.com/k8gege/K8tools | 3070 | 1423| 
 | 20200815T08:55:53Z | Null | https://github.com/quentin452/Cats-Exploitz-HUB | 0 | 0| 
-| 20200815T06:01:52Z | Lab solutions for RPISec automated using bash. | https://github.com/kainesmicheal/BinaryExploitation | 0 | 0| 
 
 
 # backdoor on Github 推荐
