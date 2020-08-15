@@ -37,6 +37,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20200815T12:08:39Z | Null | https://github.com/Saad-Alareqi/Android-PS4-Exploit-Host | 3 | 0| 
 | 20200815T12:05:15Z | PS4 Exploit list | https://github.com/Hakkuraifu/PS4xploit | 9 | 1| 
 | 20200815T11:58:57Z | https://krunker.io/ edit exploit for modding krunker | https://github.com/ZaResX/KrunkerZares | 8 | 7| 
 | 20200815T11:45:13Z | iblessing is an iOS security exploiting toolkit, it mainly includes application information collection, static analysis and dynamic analysis. It can be used for reverse engineering, binary analysis and vulnerability mining. | https://github.com/Soulghost/iblessing | 100 | 12| 
@@ -45,7 +46,6 @@
 | 20200815T10:38:53Z | Null | https://github.com/purplewall1206/EXPLOIT-practice | 0 | 0| 
 | 20200815T09:08:36Z | K8工具合集(内网渗透/提权工具/远程溢出/漏洞利用/扫描工具/密码破解/免杀工具/Exploit/APT/0day/Shellcode/Payload/priviledge/BypassUAC/OverFlow/WebShell/PenTest) Web GetShell Exploit(Struts2/Zimbra/Weblogic/Tomcat/Apache/Jboss/DotNetNuke/zabbix) | https://github.com/k8gege/K8tools | 3070 | 1423| 
 | 20200815T08:55:53Z | Null | https://github.com/quentin452/Cats-Exploitz-HUB | 0 | 0| 
-| 20200815T08:40:47Z | Null | https://github.com/Saad-Alareqi/Android-PS4-Exploit-Host | 2 | 0| 
 | 20200815T06:01:52Z | Lab solutions for RPISec automated using bash. | https://github.com/kainesmicheal/BinaryExploitation | 0 | 0| 
 
 
