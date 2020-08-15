@@ -20,7 +20,7 @@
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
 | 20200815T11:10:09Z | 未知编号 | CVE Data Analysis, CVE Monitor, CVE EXP Prediction Based on Deep Learning. 1999-2020年存量CVE数据分析、监控CVE增量更新、基于深度学习的CVE EXP预测和自动化推送 | https://github.com/404notf0und/CVE-Flow | 未查询到CVE信息| 
-| 20200815T09:55:41Z | CVE-2020-1 | Telia Technicolor TG389ac v.17.1.7992 Samba privilege escalation exploit | https://github.com/full-disclosure/FDEU-CVE-2020-1FC5 | | 
+| 20200815T09:55:41Z | CVE-2020-1 | Telia Technicolor TG389ac v.17.1.7992 Samba privilege escalation exploit | https://github.com/full-disclosure/FDEU-CVE-2020-1FC5 | 未查询到CVE信息| 
 | 20200815T03:55:19Z | cve-2020-1337 | poc for CVE-2020-1337 (Windows Print Spooler Elevation of Privilege) | https://github.com/sailay1996/cve-2020-1337-poc | 未查询到CVE信息| 
 
 
@@ -59,6 +59,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20200815T12:49:19Z | Null | https://github.com/lucasthim/electrical-consumer-groups-fuzzy-clustering | 0 | 0| 
 | 20200815T12:45:40Z | Repository holding database dumps from getfursu.it | https://github.com/veelkoov/fuzzrake-data | 0 | 0| 
 | 20200815T12:44:27Z | The code behind getfursu.it | https://github.com/veelkoov/fuzzrake | 6 | 0| 
 | 20200815T12:15:11Z | Null | https://github.com/toivootspere/fuzzy-sniffle | 0 | 0| 
@@ -68,7 +69,6 @@
 | 20200815T10:14:30Z | Fork of the hal-fuzz repository (%HALucinator: Firmware Re-Hosting through Abstraction Layer Emulation%) | https://github.com/daniele122008/hal-fuzz-fork | 0 | 0| 
 | 20200815T10:08:11Z | Null | https://github.com/sanataha/fuzzy | 0 | 0| 
 | 20200815T06:48:46Z | Null | https://github.com/manukapz/fuzzy-journey | 0 | 0| 
-| 20200815T06:43:16Z | sample of decision making for RPM based of cloths amount and dirtiness with fuzzy logic for washing machines | https://github.com/pooya-rostami/fuzzy-logic-for-wahing-machine | 0 | 0| 
 
 
 
