@@ -57,7 +57,6 @@
 | --- | --- | --- | --- | ---| 
 | 20200814T22:32:13Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 6932 | 1105| 
 | 20200814T22:15:34Z | An attack/exploit Detector that utilizes Polymorphism and Diversity | https://github.com/polyverse/zerotect | 4 | 1| 
-| 20200814T22:05:13Z | A Roblox Exploit Script | https://github.com/lavacastred/lavacast | 0 | 0| 
 | 20200814T21:16:43Z | EternalBlue suite remade in C/C++ which includes: MS17-010 Exploit, EternalBlue vulnerability detector, DoublePulsar detector and DoublePulsar Shellcode & DLL uploader | https://github.com/bhassani/EternalBlueC | 116 | 29| 
 | 20200814T20:41:17Z | go build Jaws.go and file will output as Jaws then zmap by %zmap -pyourport -wlist , ./Jaws% | https://github.com/BlazingRuns/GO-Exploit-Jaws-IP-Camera | 0 | 0| 
 | 20200814T20:35:48Z | *Frequently Updated. Sifter is a osint, recon & vulnerability scanner. It combines a plethara of tools within different module sets in order to quickly perform recon tasks, check network firewalling, enumerate remote and local hosts, and scan for the %blue% vulnerabilities within microsft and if unpatched, exploit them.  It uses tools like blackwidow and konan for webdir enumeration and attack surface mapping rapidly using ASM.  | https://github.com/s1l3nt78/sifter | 221 | 70| 
@@ -65,6 +64,7 @@
 | 20200814T19:21:26Z | 📈 A visualization of MetricQ data exploiting the advanctages of the HTA db backend  | https://github.com/metricq/metricq-webview | 0 | 0| 
 | 20200814T19:06:47Z | Null | https://github.com/Anon-Exploiter/Anon-Exploiter | 1 | 0| 
 | 20200814T18:30:09Z | 🎣    Fish for line detections by exploiting the known velocity structure of the disk. | https://github.com/richteague/gofish | 7 | 4| 
+| 20200814T17:58:39Z | Null | https://github.com/gcheca/exploits | 0 | 0| 
 
 
 # backdoor on Github 推荐
