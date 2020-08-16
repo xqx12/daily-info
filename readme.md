@@ -20,9 +20,9 @@
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
 | 20200816T11:25:56Z | 未知编号 | CVE Data Analysis, CVE Monitor, CVE EXP Prediction Based on Deep Learning. 1999-2020年存量CVE数据分析、监控CVE增量更新、基于深度学习的CVE EXP预测和自动化推送 | https://github.com/404notf0und/CVE-Flow | 未查询到CVE信息| 
-| 20200816T03:41:02Z | CVE-2020-6519 | Null | https://github.com/PerimeterX/CVE-2020-6519 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 23 MINUTES 22 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200816T03:41:02Z | CVE-2020-6519 | Null | https://github.com/PerimeterX/CVE-2020-6519 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 22 MINUTES 22 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20200816T03:35:02Z | cve-2020-1337 | poc for CVE-2020-1337 (Windows Print Spooler Elevation of Privilege) | https://github.com/sailay1996/cve-2020-1337-poc | 未查询到CVE信息| 
-| 20200816T01:04:03Z | CVE-2020-9496 | Null | https://github.com/dwisiswant0/CVE-2020-9496 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 22 MINUTES 34 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200816T01:04:03Z | CVE-2020-9496 | Null | https://github.com/dwisiswant0/CVE-2020-9496 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 21 MINUTES 33 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 
 
 # klee on Github 推荐
@@ -39,8 +39,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20200816T12:37:59Z | stuff for exploiting | https://github.com/supersonicfan111/exploitstuff | 0 | 0| 
 | 20200816T11:03:08Z | this bash script let you download scripts and clone repos for remote exploits | https://github.com/FabioDefilippo/linuxallremote | 4 | 0| 
-| 20200816T10:39:17Z | stuff for exploiting | https://github.com/supersonicfan111/exploitstuff | 0 | 0| 
 | 20200816T10:31:45Z | A brand new Script Hub for Exploit | https://github.com/kelvinfung1-dumbass/Kelvin-Hub-Azure-Ui- | 0 | 0| 
 | 20200816T10:24:38Z | iblessing is an iOS security exploiting toolkit, it mainly includes application information collection, static analysis and dynamic analysis. It can be used for reverse engineering, binary analysis and vulnerability mining. | https://github.com/Soulghost/iblessing | 107 | 12| 
 | 20200816T10:00:17Z | Null | https://github.com/nikosChalk/exploitation-training | 0 | 0| 
