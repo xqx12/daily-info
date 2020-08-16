@@ -23,8 +23,8 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20200815T14:50:55Z | CVE-2020-9496 | Null | https://github.com/dwisiswant0/CVE-2020-9496 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 34 MINUTES 30 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200815T13:10:01Z | CVE-2020-0041 | Null | https://github.com/j4nn/CVE-2020-0041 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 34 MINUTES 16 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200815T14:50:55Z | CVE-2020-9496 | Null | https://github.com/dwisiswant0/CVE-2020-9496 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 31 MINUTES 32 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200815T13:10:01Z | CVE-2020-0041 | Null | https://github.com/j4nn/CVE-2020-0041 | | 
 | 20200815T11:10:09Z | 未知编号 | CVE Data Analysis, CVE Monitor, CVE EXP Prediction Based on Deep Learning. 1999-2020年存量CVE数据分析、监控CVE增量更新、基于深度学习的CVE EXP预测和自动化推送 | https://github.com/404notf0und/CVE-Flow | 未查询到CVE信息| 
 | 20200815T09:55:41Z | CVE-2020-1 | Telia Technicolor TG389ac v.17.1.7992 Samba privilege escalation exploit | https://github.com/full-disclosure/FDEU-CVE-2020-1FC5 | 未查询到CVE信息| 
 | 20200815T03:55:19Z | cve-2020-1337 | poc for CVE-2020-1337 (Windows Print Spooler Elevation of Privilege) | https://github.com/sailay1996/cve-2020-1337-poc | 未查询到CVE信息| 
@@ -50,10 +50,10 @@
 | 20200815T23:08:25Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 6939 | 1109| 
 | 20200815T23:07:46Z | Null | https://github.com/Saad-Alareqi/Android-PS4-Exploit-Host | 10 | 0| 
 | 20200815T22:47:42Z | this bash script let you download scripts and clone repos for remote exploits | https://github.com/FabioDefilippo/linuxallremote | 4 | 0| 
-| 20200815T22:32:19Z | This script runs powershell by which you can downloads many ps1 scripts and use many utilities for enumeration, privilege escalation and much more | https://github.com/FabioDefilippo/winallenum | 0 | 0| 
 | 20200815T22:21:13Z | General Scripts | https://github.com/RikunjSindhwad/exploitscirpt | 0 | 0| 
 | 20200815T21:21:12Z | Collection of exploits made during my preparation for my osce. | https://github.com/Pal1Sec/Exploit-Development | 1 | 0| 
 | 20200815T20:34:01Z | General cybersecurity challenges(everything that is not binary exploitation or reverse engineering since I have a separate repo for that but is cybersecurity related) | https://github.com/docfate111/general-cybersecurity-challenges | 0 | 0| 
+| 20200815T20:17:07Z | Null | https://github.com/musyoka101/Bolt-CMS-version-3.7.1-RCE-Exploit | 0 | 0| 
 
 
 # backdoor on Github 推荐
