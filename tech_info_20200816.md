@@ -20,9 +20,9 @@
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
 | 20200816T11:25:56Z | 未知编号 | CVE Data Analysis, CVE Monitor, CVE EXP Prediction Based on Deep Learning. 1999-2020年存量CVE数据分析、监控CVE增量更新、基于深度学习的CVE EXP预测和自动化推送 | https://github.com/404notf0und/CVE-Flow | 未查询到CVE信息| 
-| 20200816T03:41:02Z | CVE-2020-6519 | Null | https://github.com/PerimeterX/CVE-2020-6519 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 49 MINUTES 22 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200816T03:41:02Z | CVE-2020-6519 | Null | https://github.com/PerimeterX/CVE-2020-6519 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 48 MINUTES 21 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20200816T03:35:02Z | cve-2020-1337 | poc for CVE-2020-1337 (Windows Print Spooler Elevation of Privilege) | https://github.com/sailay1996/cve-2020-1337-poc | 未查询到CVE信息| 
-| 20200816T01:04:03Z | CVE-2020-9496 | Null | https://github.com/dwisiswant0/CVE-2020-9496 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 48 MINUTES 35 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200816T01:04:03Z | CVE-2020-9496 | Null | https://github.com/dwisiswant0/CVE-2020-9496 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 47 MINUTES 33 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 
 
 # klee on Github 推荐
@@ -54,7 +54,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20200816T12:05:13Z | Null | https://github.com/voila1106/backdoor | 0 | 0| 
+| 20200816T12:11:40Z | Null | https://github.com/voila1106/backdoor | 0 | 0| 
 | 20200816T10:32:02Z | A Permanent Backdoor For Windows | https://github.com/Dr-Savage/Backdoor-Windows | 0 | 0| 
 | 20200816T08:08:33Z | This Script Will Help You To Setup A Metasploit Framework Backdoor Listener Easily. | https://github.com/chinnidiwakar/MSFListener | 0 | 3| 
 | 20200816T07:09:16Z | VySecator Is a Python Script Obfuscation Tool, Which can be used to Obfuscate your hand written Malwares and your Hand Written Scripts! | https://github.com/Vedant-Bhalgama/VySecator | 19 | 1| 
