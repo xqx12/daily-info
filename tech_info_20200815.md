@@ -59,6 +59,11 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20200815T23:03:44Z | Null | https://github.com/brianfte/backdoor | 0 | 0| 
+| 20200815T22:36:00Z | Repository for all the code related to Learn Python & Ethical Hacking From Scratch course. All the work is done on Kali Linux, using both Python 2.7 and 3.x version. | https://github.com/Maffey/ethical-hacking-course | 0 | 0| 
+| 20200815T18:09:50Z | A deck-building roguelike cyberpunk game. | https://github.com/uspgamedev/backdoor | 16 | 2| 
+| 20200815T16:55:00Z | Spigot 1.16.1 backdoor | https://github.com/Apmunute/spigot-backdoor | 0 | 1| 
+| 20200815T13:24:46Z | Extended Bitcoin Clipper from Nyan Cat | https://github.com/SmokingWalrus/BTC-Clipper | 1 | 0| 
 | 20200815T07:17:06Z | Kermini-Backdoor : a gmod simple backdoor System | https://github.com/Maxime48/Kermini-Backdoor-Gmod | 1 | 0| 
 | 20200815T02:03:49Z | Null | https://github.com/brianfte/Backdoor-virus-exploit-con-Python | 0 | 0| 
 

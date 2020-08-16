@@ -88,7 +88,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20200816T00:01:07Z | Null | https://github.com/quentin452/Cats-Exploitz-HUB | 0 | 0| 
+| 20200816T00:02:08Z | Null | https://github.com/quentin452/Cats-Exploitz-HUB | 0 | 0| 
 | 20200815T23:40:21Z | Code for the CVPR%19 paper %Explore-Exploit Graph Traversal for Image Retrieval% | https://github.com/layer6ai-labs/EGT | 30 | 7| 
 | 20200815T23:31:03Z | themed version of leeful menu exploit for ps4. this is v5 | https://github.com/Saad-Alareqi/Saad-Alareqi.github.io | 0 | 0| 
 | 20200815T23:09:38Z | This is a plugin for Minecraft that aids in building, as it gives the player creative mode and charges them for each block they place. All exploits are patched as well. | https://github.com/bsalha1/Printer | 1 | 0| 
@@ -103,16 +103,16 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20200815T23:03:44Z | Null | https://github.com/brianfte/backdoor | 0 | 0| 
+| 20200815T22:36:00Z | Repository for all the code related to Learn Python & Ethical Hacking From Scratch course. All the work is done on Kali Linux, using both Python 2.7 and 3.x version. | https://github.com/Maffey/ethical-hacking-course | 0 | 0| 
+| 20200815T18:09:50Z | A deck-building roguelike cyberpunk game. | https://github.com/uspgamedev/backdoor | 16 | 2| 
+| 20200815T16:55:00Z | Spigot 1.16.1 backdoor | https://github.com/Apmunute/spigot-backdoor | 0 | 1| 
+| 20200815T13:24:46Z | Extended Bitcoin Clipper from Nyan Cat | https://github.com/SmokingWalrus/BTC-Clipper | 1 | 0| 
 | 20200815T07:17:06Z | Kermini-Backdoor : a gmod simple backdoor System | https://github.com/Maxime48/Kermini-Backdoor-Gmod | 1 | 0| 
 | 20200815T02:03:49Z | Null | https://github.com/brianfte/Backdoor-virus-exploit-con-Python | 0 | 0| 
-| 20200814T19:04:29Z | Repository for all the code related to Learn Python & Ethical Hacking From Scratch course. All the work is done on Kali Linux, using both Python 2.7 and 3.x version. | https://github.com/Maffey/ethical-hacking-course | 0 | 0| 
 | 20200814T15:50:15Z | Vysecator Is a Python Script Obfuscator Tool, Which can be used to Obfuscate your hand written Malwares! | https://github.com/Vedant-Bhalgama/VySecator | 19 | 1| 
 | 20200814T15:36:39Z | a persistent backdoor written in c,with keylogger functions  | https://github.com/FrancescoLucarini/malware-c | 1 | 0| 
 | 20200814T14:47:48Z | Hacking tools pack & backdoors generator. | https://github.com/AdrMXR/KitHack | 119 | 29| 
-| 20200814T12:37:11Z | Linux backdoor with the ablility to issue custom commands and linux commands. | https://github.com/Bradley-Hubbard/Linux-Backdoor | 0 | 0| 
-| 20200814T05:30:38Z | This tool will create backdoor | https://github.com/krishpranav/Backdoorcreator | 0 | 0| 
-| 20200814T03:10:40Z | A deck-building roguelike cyberpunk game. | https://github.com/uspgamedev/backdoor | 16 | 2| 
-| 20200813T22:45:20Z | Garry%s Mod Backdoor Menu | https://github.com/ProjectRebug/RebugV2-Release | 3 | 4| 
 
 
 # fuzz on Github 推荐
