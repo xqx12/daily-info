@@ -6,6 +6,8 @@
 # 玄武实验室 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20200816 | 物联网安全：学习7个必不可少的安全知识体系。 | https://blog.paloaltonetworks.com/2020/08/iot-security-7-essential-must-knows/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+PaloAltoNetworks+%28Palo+Alto+Networks+Research+Center%29| 
+| 20200816 | Weblogic漏洞利用猫池挖矿事件分析. | https://www.freebuf.com/articles/terminal/246830.html| 
 
 
 # 安全维基 推荐
@@ -19,15 +21,17 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20200816T11:25:56Z | 未知编号 | CVE Data Analysis, CVE Monitor, CVE EXP Prediction Based on Deep Learning. 1999-2020年存量CVE数据分析、监控CVE增量更新、基于深度学习的CVE EXP预测和自动化推送 | https://github.com/404notf0und/CVE-Flow | 未查询到CVE信息| 
-| 20200816T03:41:02Z | CVE-2020-6519 | Null | https://github.com/PerimeterX/CVE-2020-6519 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 00 MINUTES 22 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200816T03:35:02Z | cve-2020-1337 | poc for CVE-2020-1337 (Windows Print Spooler Elevation of Privilege) | https://github.com/sailay1996/cve-2020-1337-poc | 未查询到CVE信息| 
-| 20200816T01:04:03Z | CVE-2020-9496 | Null | https://github.com/dwisiswant0/CVE-2020-9496 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 00 MINUTES 34 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200816T18:27:04Z | CVE-2020-0041 | Null | https://github.com/j4nn/CVE-2020-0041 | 在binder.c的binder_transaction中，由于不正确的边界检查，可能存在越界写入。这可以导致特权的本地升级，而无需其他执行特权。开发不需要用户交互。产品：Android版本：Android内核Android ID：A-145988638参考：上游内核| 
+| 20200816T15:40:02Z | CVE-2020-9496 | Null | https://github.com/dwisiswant0/CVE-2020-9496 | | 
+| 20200816T15:03:23Z | 未知编号 | CVE Data Analysis, CVE Monitor, CVE EXP Prediction Based on Deep Learning. 1999-2020年存量CVE数据分析、监控CVE增量更新、基于深度学习的CVE EXP预测和自动化推送 | https://github.com/404notf0und/CVE-Flow | 未查询到CVE信息| 
+| 20200816T13:01:45Z | cve-2020-1337 | poc for CVE-2020-1337 (Windows Print Spooler Elevation of Privilege) | https://github.com/sailay1996/cve-2020-1337-poc | 未查询到CVE信息| 
+| 20200816T03:41:02Z | CVE-2020-6519 | Null | https://github.com/PerimeterX/CVE-2020-6519 | 在84.0.4147.89之前的Google Chrome中，CSP中的策略绕行允许远程攻击者通过精心制作的HTML页面绕过内容安全策略。| 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20200816T21:35:24Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1459 | 448| 
 | 20200816T07:40:37Z | Null | https://github.com/MrPoopey/klee622-235-lab2 | 0 | 0| 
 
 
@@ -39,16 +43,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20200816T12:47:00Z | Heap Overflow notetaking, from Rapid7 tutorial @ https://blog.rapid7.com/2019/06/12/heap-overflow-exploitation-on-windows-10-explained/ | https://github.com/r0ss1n1/HeapOverflow_Rapid7_notes | 0 | 0| 
-| 20200816T12:37:59Z | stuff for exploiting | https://github.com/supersonicfan111/exploitstuff | 0 | 0| 
-| 20200816T11:03:08Z | this bash script let you download scripts and clone repos for remote exploits | https://github.com/FabioDefilippo/linuxallremote | 4 | 0| 
-| 20200816T10:31:45Z | A brand new Script Hub for Exploit | https://github.com/kelvinfung1-dumbass/Kelvin-Hub-Azure-Ui- | 0 | 0| 
-| 20200816T10:24:38Z | iblessing is an iOS security exploiting toolkit, it mainly includes application information collection, static analysis and dynamic analysis. It can be used for reverse engineering, binary analysis and vulnerability mining. | https://github.com/Soulghost/iblessing | 107 | 12| 
-| 20200816T10:00:17Z | Null | https://github.com/nikosChalk/exploitation-training | 0 | 0| 
-| 20200816T09:23:43Z | Just a temporary website to post my ctf writeups and journey into binary/android exploitation/malware analysis/exploit development | https://github.com/blackbeard666/pwn_exhibit | 1 | 1| 
-| 20200816T09:21:53Z | Blog! | https://github.com/nonetype/nonetype.github.io | 0 | 0| 
-| 20200816T09:20:19Z | Windows Exploit Suggester - Next Generation | https://github.com/bitsadmin/wesng | 1792 | 290| 
-| 20200816T08:56:01Z | exploit api for roblox remotes | https://github.com/supersonicfan111/remoteapi | 0 | 0| 
+| 20200816T23:37:43Z | A series of CTF challenge solutions for binary exploitation (or pwn) and reverse engineering (or rev) challenges | https://github.com/docfate111/binary-exploitation-solution-scripts | 0 | 0| 
+| 20200816T22:39:46Z | Exploits written by me | https://github.com/spagzy/Exploits | 0 | 0| 
+| 20200816T22:39:44Z | Custom version of the original Overthrow.  Bugs squashed and squashing, exploits punishable by death, new businesses plus much more, oh and high steriod use by the AI ;) Discord link  https://discord.gg/ZdMMq9x | https://github.com/GerhartPapaGee/Overthrow-Martial-Law | 0 | 1| 
+| 20200816T22:25:09Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 6947 | 1108| 
+| 20200816T22:23:54Z | Bludit <= 3.9.2 - Authentication Bruteforce Mitigation Bypass | https://github.com/noraj/Bludit-auth-BF-bypass | 1 | 0| 
+| 20200816T22:11:12Z | *Frequently Updated. Sifter is a osint, recon & vulnerability scanner. It combines a plethara of tools within different module sets in order to quickly perform recon tasks, check network firewalling, enumerate remote and local hosts, and scan for the %blue% vulnerabilities within microsft and if unpatched, exploit them.  It uses tools like blackwidow and konan for webdir enumeration and attack surface mapping rapidly using ASM.  | https://github.com/s1l3nt78/sifter | 224 | 71| 
+| 20200816T20:11:21Z | this bash script let you download scripts and clone repos for remote exploits | https://github.com/FabioDefilippo/linuxallremote | 4 | 0| 
+| 20200816T20:00:18Z | The Multi-armed bandit problem is one of the classical reinforcements learning problems that describe the friction between the agent%s exploration and exploitation. | https://github.com/trustycoder83/multi-armed-bandit | 0 | 0| 
+| 20200816T19:27:32Z | Build a database of libc offsets to simplify exploitation | https://github.com/niklasb/libc-database | 987 | 171| 
+| 20200816T19:17:08Z | Null | https://github.com/TahmidNil/Wp-Install-Exploiter | 0 | 0| 
 
 
 # backdoor on Github 推荐
@@ -67,16 +71,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20200816T12:17:29Z | Null | https://github.com/duslabo/fuzzbus | 0 | 0| 
-| 20200816T11:45:51Z | A chat application built using react, firebase and context api | https://github.com/FuzzySid/fuzzy-chat | 0 | 0| 
-| 20200816T10:48:53Z | fuzzers corpus files for libzmq are stored in binary format in this repository | https://github.com/zeromq/libzmq-fuzz-corpora | 0 | 0| 
-| 20200816T10:37:53Z | Simple tool to rename source files by matching a list of choices. | https://github.com/pcjco/PyFuzzy-renamer | 0 | 0| 
-| 20200816T10:27:52Z | Null | https://github.com/manukapz/fuzzy-journey | 0 | 0| 
-| 20200816T10:15:41Z | FuzzBench - Fuzzer benchmarking as a service. | https://github.com/google/fuzzbench | 505 | 73| 
-| 20200816T08:47:25Z | Null | https://github.com/weiqinke-code/fuzzy-happiness | 0 | 0| 
-| 20200816T08:12:42Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 3094 | 707| 
-| 20200816T07:59:40Z | Null | https://github.com/Fuzzy9knot82/Fuzzy9knot82.github.io | 0 | 0| 
-| 20200816T07:28:39Z | A fuzzing library for C# | https://github.com/pensono/FuzzDotNet | 1 | 0| 
+| 20200816T23:34:08Z | We plan to specify grammars of inputs for three selected benchmarks, which share similar API and grammars of inputs. Then we will use these grammars as the seeds to generate well-formated inputs via gramfuzz, a Python-based grammer fuzzer, to penetrate deep into benchmarks’ parsers. We expect that some potential errors of benchmarks would be detected in this project. In addition, we plan to design a runner program, which can feed the inputs into the benchmarks automatically, as enhancements to gramfuzz. | https://github.com/alyssahyq/gramfuzz-calc | 0 | 1| 
+| 20200816T23:23:29Z | OSS-Fuzz - continuous fuzzing of open source software. | https://github.com/google/oss-fuzz | 5479 | 1071| 
+| 20200816T23:16:31Z | Segmentation of HER2 overexpression in histopathology images with fuzzy decision tree | https://github.com/sborquez/HER2_Fuzzy_Logic | 0 | 0| 
+| 20200816T22:25:50Z | Fast SublimeText-like fuzzy search for JavaScript. | https://github.com/farzher/fuzzysort | 2294 | 112| 
+| 20200816T22:14:12Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 3095 | 708| 
+| 20200816T22:03:16Z | basic url fuzzer  | https://github.com/Kr4nkh3it/Bastian | 0 | 0| 
+| 20200816T21:49:34Z | arduino project codes | https://github.com/GoktugAkkas/Fuzzy_water | 0 | 0| 
+| 20200816T21:21:47Z | Fully automated python fuzzer built to test if code actually is production ready in seconds. | https://github.com/CodyKochmann/battle_tested | 58 | 2| 
+| 20200816T21:15:22Z | Fuzzy logic library for python | https://github.com/Luferov/FuzzyLogicToolBox | 1 | 0| 
+| 20200816T21:09:02Z | Null | https://github.com/haylee430/fuzzy_friend_finder | 1 | 0| 
 
 
 
