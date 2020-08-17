@@ -24,10 +24,10 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20200816T15:40:02Z | CVE-2020-9496 | Null | https://github.com/dwisiswant0/CVE-2020-9496 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 01 MINUTES 33 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200816T15:40:02Z | CVE-2020-9496 | Null | https://github.com/dwisiswant0/CVE-2020-9496 | | 
 | 20200816T15:03:23Z | 未知编号 | CVE Data Analysis, CVE Monitor, CVE EXP Prediction Based on Deep Learning. 1999-2020年存量CVE数据分析、监控CVE增量更新、基于深度学习的CVE EXP预测和自动化推送 | https://github.com/404notf0und/CVE-Flow | 未查询到CVE信息| 
 | 20200816T13:01:45Z | cve-2020-1337 | poc for CVE-2020-1337 (Windows Print Spooler Elevation of Privilege) | https://github.com/sailay1996/cve-2020-1337-poc | 未查询到CVE信息| 
-| 20200816T03:41:02Z | CVE-2020-6519 | Null | https://github.com/PerimeterX/CVE-2020-6519 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 02 MINUTES 20 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200816T03:41:02Z | CVE-2020-6519 | Null | https://github.com/PerimeterX/CVE-2020-6519 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 01 MINUTES 20 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 
 
 # klee on Github 推荐
@@ -79,7 +79,7 @@
 | 20200816T23:23:29Z | OSS-Fuzz - continuous fuzzing of open source software. | https://github.com/google/oss-fuzz | 5479 | 1071| 
 | 20200816T23:16:31Z | Segmentation of HER2 overexpression in histopathology images with fuzzy decision tree | https://github.com/sborquez/HER2_Fuzzy_Logic | 0 | 0| 
 | 20200816T22:25:50Z | Fast SublimeText-like fuzzy search for JavaScript. | https://github.com/farzher/fuzzysort | 2294 | 112| 
-| 20200816T22:14:12Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 3095 | 708| 
+| 20200816T22:14:12Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 3095 | 707| 
 | 20200816T22:03:16Z | basic url fuzzer  | https://github.com/Kr4nkh3it/Bastian | 0 | 0| 
 | 20200816T21:49:34Z | arduino project codes | https://github.com/GoktugAkkas/Fuzzy_water | 0 | 0| 
 | 20200816T21:21:47Z | Fully automated python fuzzer built to test if code actually is production ready in seconds. | https://github.com/CodyKochmann/battle_tested | 58 | 2| 
