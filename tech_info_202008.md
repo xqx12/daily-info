@@ -103,16 +103,16 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20200817T00:31:15Z | Pupy is an opensource, cross-platform (Windows, Linux, OSX, Android) remote administration and post-exploitation tool mainly written in python | https://github.com/n1nj4sec/pupy | 5735 | 1503| 
-| 20200816T23:28:02Z | Hacking tools pack & backdoors generator. | https://github.com/AdrMXR/KitHack | 121 | 30| 
-| 20200816T21:11:00Z | Null | https://github.com/voila1106/backdoor | 0 | 0| 
+| 20200817T11:43:08Z | is Backdoor Crypter & Creator with Automatic IP Poisener. | https://github.com/yezz123/SpyDroid | 2 | 0| 
+| 20200817T11:38:30Z | Spigot 1.16.1 backdoor | https://github.com/Apmunute/spigot-backdoor | 1 | 1| 
+| 20200817T07:39:27Z | A Multi-Function backdoor application based on TCP Reverse Shell | https://github.com/HalukShan/HitDA | 7 | 0| 
+| 20200817T07:11:16Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 47 | 6| 
+| 20200817T06:08:26Z | Null | https://github.com/voila1106/backdoor | 0 | 0| 
+| 20200817T06:02:12Z | Hacking tools pack & backdoors generator. | https://github.com/AdrMXR/KitHack | 121 | 30| 
+| 20200817T03:54:04Z | Pupy is an opensource, cross-platform (Windows, Linux, OSX, Android) remote administration and post-exploitation tool mainly written in python | https://github.com/n1nj4sec/pupy | 5737 | 1503| 
 | 20200816T19:46:02Z | A Kotlin program used to analyse and discover backdoors in Java programs | https://github.com/Tigermouthbear/Theia | 30 | 4| 
 | 20200816T19:01:21Z | Repository for all the code related to Learn Python & Ethical Hacking From Scratch course. All the work is done on Kali Linux, using both Python 2.7 and 3.x version. | https://github.com/Maffey/ethical-hacking-course | 0 | 0| 
 | 20200816T17:56:32Z | A sample app to demonstrate how to create Xamarin UITests using the Page Object architecture, Backdoor Methods and App Links (aka Deep Linking) | https://github.com/brminnick/UITestSampleApp | 29 | 23| 
-| 20200816T12:54:12Z | [Training] Tooling for providing admin backdoor to k8s node | https://github.com/naumvd95/k8s-node-backdoor | 0 | 0| 
-| 20200816T10:32:02Z | A Permanent Backdoor For Windows | https://github.com/Dr-Savage/Backdoor-Windows | 0 | 0| 
-| 20200816T08:08:33Z | This Script Will Help You To Setup A Metasploit Framework Backdoor Listener Easily. | https://github.com/chinnidiwakar/MSFListener | 0 | 3| 
-| 20200816T07:09:16Z | VySecator Is a Python Script Obfuscation Tool, Which can be used to Obfuscate your hand written Malwares and your Hand Written Scripts! | https://github.com/Vedant-Bhalgama/VySecator | 19 | 1| 
 
 
 # fuzz on Github 推荐

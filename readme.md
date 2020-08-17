@@ -62,7 +62,13 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20200817T00:31:15Z | Pupy is an opensource, cross-platform (Windows, Linux, OSX, Android) remote administration and post-exploitation tool mainly written in python | https://github.com/n1nj4sec/pupy | 5735 | 1503| 
+| 20200817T11:43:08Z | is Backdoor Crypter & Creator with Automatic IP Poisener. | https://github.com/yezz123/SpyDroid | 2 | 0| 
+| 20200817T11:38:30Z | Spigot 1.16.1 backdoor | https://github.com/Apmunute/spigot-backdoor | 1 | 1| 
+| 20200817T07:39:27Z | A Multi-Function backdoor application based on TCP Reverse Shell | https://github.com/HalukShan/HitDA | 7 | 0| 
+| 20200817T07:11:16Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 47 | 6| 
+| 20200817T06:08:26Z | Null | https://github.com/voila1106/backdoor | 0 | 0| 
+| 20200817T06:02:12Z | Hacking tools pack & backdoors generator. | https://github.com/AdrMXR/KitHack | 121 | 30| 
+| 20200817T03:54:04Z | Pupy is an opensource, cross-platform (Windows, Linux, OSX, Android) remote administration and post-exploitation tool mainly written in python | https://github.com/n1nj4sec/pupy | 5737 | 1503| 
 
 
 # fuzz on Github 推荐
