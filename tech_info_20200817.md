@@ -27,7 +27,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20200817T12:43:58Z | CVE-2020-0688 | [CVE-2020-0688] Microsoft Exchange Server Fixed Cryptographic Key Remote Code Execution (RCE) | https://github.com/murataydemir/CVE-2020-0688 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 03 MINUTES 13 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200817T12:43:58Z | CVE-2020-0688 | [CVE-2020-0688] Microsoft Exchange Server Fixed Cryptographic Key Remote Code Execution (RCE) | https://github.com/murataydemir/CVE-2020-0688 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 01 MINUTES 11 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20200817T07:43:44Z | CVE-2020-1 | Telia Technicolor TG389ac v.17.1.7992 Samba privilege escalation exploit | https://github.com/full-disclosure/FDEU-CVE-2020-1FC5 | 未查询到CVE信息| 
 | 20200817T02:10:19Z | CVE-2020-1337 | CVE-2020-1048 bypass: binary planting PoC | https://github.com/neofito/CVE-2020-1337 | 未查询到CVE信息| 
 | 20200817T02:10:02Z | cve-2020-1337 | poc for CVE-2020-1337 (Windows Print Spooler Elevation of Privilege) | https://github.com/sailay1996/cve-2020-1337-poc | 未查询到CVE信息| 
@@ -75,8 +75,8 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20200817T12:53:29Z | No idea what I%m doing | https://github.com/klecko/fuzz | 1 | 0| 
 | 20200817T12:43:23Z | Mirror of Envoy for a fuzzing codelab. Pinned at Envoy version 1.14.1 | https://github.com/asraa/envoy-fuzzing-codelab | 0 | 0| 
-| 20200817T12:40:33Z | No idea what I%m doing | https://github.com/klecko/fuzz | 1 | 0| 
 | 20200817T12:29:50Z | C++ library for tests (unit, fuzz, property), benchmarks, apps | https://github.com/project-arcana/nexus | 0 | 0| 
 | 20200817T12:28:28Z | A fork of AFL for fuzzing Windows binaries | https://github.com/googleprojectzero/winafl | 1514 | 391| 
 | 20200817T12:28:27Z | Potentially dangerous files | https://github.com/Bo0oM/fuzz.txt | 1259 | 224| 
