@@ -30,7 +30,7 @@
 | 20200817T07:43:44Z | CVE-2020-1 | Telia Technicolor TG389ac v.17.1.7992 Samba privilege escalation exploit | https://github.com/full-disclosure/FDEU-CVE-2020-1FC5 | 未查询到CVE信息| 
 | 20200817T02:10:19Z | CVE-2020-1337 | CVE-2020-1048 bypass: binary planting PoC | https://github.com/neofito/CVE-2020-1337 | 未查询到CVE信息| 
 | 20200817T02:10:02Z | cve-2020-1337 | poc for CVE-2020-1337 (Windows Print Spooler Elevation of Privilege) | https://github.com/sailay1996/cve-2020-1337-poc | 未查询到CVE信息| 
-| 20200817T01:22:36Z | CVE-2020-0041 | Null | https://github.com/j4nn/CVE-2020-0041 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 26 MINUTES 09 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200817T01:22:36Z | CVE-2020-0041 | Null | https://github.com/j4nn/CVE-2020-0041 | | 
 
 
 # klee on Github 推荐
@@ -47,6 +47,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20200817T12:35:13Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 6950 | 1110| 
 | 20200817T12:32:49Z | Java Message Exploitation Tool | https://github.com/matthiaskaiser/jmet | 310 | 80| 
 | 20200817T12:29:30Z | Dante is vulnerability, version scanner; exploitation tool and report generator | https://github.com/kelj0/dante | 0 | 0| 
 | 20200817T12:24:21Z | Hypervisor Memory Introspection Core Library | https://github.com/hvmi/hvmi | 348 | 24| 
@@ -56,7 +57,6 @@
 | 20200817T12:01:26Z | kadimus is a tool to check and exploit lfi vulnerability. | https://github.com/P0cL4bs/kadimus | 425 | 112| 
 | 20200817T11:56:46Z | Development of code to exploit LSST and VISTA imaging | https://github.com/lsst-uk/lsst-ir-fusion | 0 | 0| 
 | 20200817T11:45:12Z | A collection of notes about penetration testing and offensive security. | https://github.com/0xffsec/book | 0 | 0| 
-| 20200817T11:34:15Z | On-line Trading of Exploration and Exploitation 2011 Proceedings | https://github.com/mlresearch/v26 | 0 | 0| 
 
 
 # backdoor on Github 推荐
