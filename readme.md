@@ -30,7 +30,7 @@
 | 20200817T07:43:44Z | CVE-2020-1 | Telia Technicolor TG389ac v.17.1.7992 Samba privilege escalation exploit | https://github.com/full-disclosure/FDEU-CVE-2020-1FC5 | 未查询到CVE信息| 
 | 20200817T02:10:19Z | CVE-2020-1337 | CVE-2020-1048 bypass: binary planting PoC | https://github.com/neofito/CVE-2020-1337 | 未查询到CVE信息| 
 | 20200817T02:10:02Z | cve-2020-1337 | poc for CVE-2020-1337 (Windows Print Spooler Elevation of Privilege) | https://github.com/sailay1996/cve-2020-1337-poc | 未查询到CVE信息| 
-| 20200817T01:22:36Z | CVE-2020-0041 | Null | https://github.com/j4nn/CVE-2020-0041 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 20 MINUTES 06 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200817T01:22:36Z | CVE-2020-0041 | Null | https://github.com/j4nn/CVE-2020-0041 | | 
 
 
 # klee on Github 推荐
@@ -74,6 +74,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20200817T12:40:33Z | No idea what I%m doing | https://github.com/klecko/fuzz | 1 | 0| 
 | 20200817T12:29:50Z | C++ library for tests (unit, fuzz, property), benchmarks, apps | https://github.com/project-arcana/nexus | 0 | 0| 
 | 20200817T12:28:28Z | A fork of AFL for fuzzing Windows binaries | https://github.com/googleprojectzero/winafl | 1514 | 391| 
 | 20200817T12:28:27Z | Potentially dangerous files | https://github.com/Bo0oM/fuzz.txt | 1259 | 224| 
@@ -83,7 +84,6 @@
 | 20200817T10:40:54Z | 瓶颈渗透,web渗透,red红队,fuzz param,注释,js字典,ctf | https://github.com/7dog7/bottleneckOsmosis | 294 | 43| 
 | 20200817T10:36:11Z | Simple and fast web fuzzer written in python | https://github.com/ScRiPt1337/pyffuf | 2 | 0| 
 | 20200817T10:22:44Z | Null | https://github.com/r-2007/Fuzzing-DTLS | 0 | 0| 
-| 20200817T10:12:27Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 3097 | 708| 
 
 
 
