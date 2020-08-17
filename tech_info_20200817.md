@@ -30,7 +30,7 @@
 | 20200817T07:43:44Z | CVE-2020-1 | Telia Technicolor TG389ac v.17.1.7992 Samba privilege escalation exploit | https://github.com/full-disclosure/FDEU-CVE-2020-1FC5 | 未查询到CVE信息| 
 | 20200817T02:10:19Z | CVE-2020-1337 | CVE-2020-1048 bypass: binary planting PoC | https://github.com/neofito/CVE-2020-1337 | 未查询到CVE信息| 
 | 20200817T02:10:02Z | cve-2020-1337 | poc for CVE-2020-1337 (Windows Print Spooler Elevation of Privilege) | https://github.com/sailay1996/cve-2020-1337-poc | 未查询到CVE信息| 
-| 20200817T01:22:36Z | CVE-2020-0041 | Null | https://github.com/j4nn/CVE-2020-0041 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 58 MINUTES 05 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200817T01:22:36Z | CVE-2020-0041 | Null | https://github.com/j4nn/CVE-2020-0041 | | 
 
 
 # klee on Github 推荐
@@ -74,11 +74,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20200817T01:50:22Z | An XSS fuzzer for Django | https://github.com/tonybaloney/django-xss-fuzzer | 19 | 1| 
-| 20200817T01:23:48Z | Null | https://github.com/silveiraluiza/fuzzy_clustering_am | 0 | 0| 
-| 20200817T01:05:03Z | Null | https://github.com/hftdashuaibi/fuzzy-parakeet | 0 | 1| 
-| 20200817T00:55:32Z | This project is just me trying to replicate the work done by Brandon Falk during the Fuzz Week for learning purposes and experimentation. | https://github.com/jroimartin/riscv-emu | 2 | 0| 
-| 20200817T00:46:13Z | Collected fuzzing payloads from different resources  | https://github.com/osamahamad/FUZZING | 1 | 0| 
+| 20200817T11:57:15Z | Null | https://github.com/lemar-97/fuzzy-sniffle | 0 | 0| 
+| 20200817T11:13:27Z | Null | https://github.com/Fuzzy9knot82/Fuzzy9knot82.github.io | 0 | 0| 
+| 20200817T11:10:29Z | A JavaScript Engine Fuzzer | https://github.com/googleprojectzero/fuzzilli | 1005 | 163| 
+| 20200817T10:40:54Z | 瓶颈渗透,web渗透,red红队,fuzz param,注释,js字典,ctf | https://github.com/7dog7/bottleneckOsmosis | 294 | 43| 
+| 20200817T10:36:11Z | Simple and fast web fuzzer written in python | https://github.com/ScRiPt1337/pyffuf | 2 | 0| 
+| 20200817T10:22:44Z | Null | https://github.com/r-2007/Fuzzing-DTLS | 0 | 0| 
+| 20200817T10:12:27Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 3097 | 708| 
+| 20200817T09:41:30Z | Null | https://github.com/HaoJame/WinFuzzingAFL | 0 | 0| 
+| 20200817T09:18:26Z | Potentially dangerous files | https://github.com/Bo0oM/fuzz.txt | 1258 | 224| 
+| 20200817T09:04:38Z | Differential Fuzzer for Ethereum 2.0 | https://github.com/sigp/beacon-fuzz | 37 | 6| 
 
 
 
