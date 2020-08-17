@@ -6,6 +6,7 @@
 # 玄武实验室 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20200817 | 将VMProtect虚拟化为优化的VTIL并编译回x64项目 | https://github.com/can1357/NoVmp| 
 | 20200816 | 物联网安全：学习7个必不可少的安全知识体系。 | https://blog.paloaltonetworks.com/2020/08/iot-security-7-essential-must-knows/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+PaloAltoNetworks+%28Palo+Alto+Networks+Research+Center%29| 
 | 20200816 | Weblogic漏洞利用猫池挖矿事件分析. | https://www.freebuf.com/articles/terminal/246830.html| 
 | 20200816 | XSSMAP-一款快速检测Web应用程序中的XSS漏洞的开源工具 | http://github.com/Jewel591/xssmap| 
@@ -25,37 +26,36 @@
 | 20200814 | NXNSAttack - 针对 DNS 系统的数据包放大攻击 | https://www.usenix.org/system/files/sec20-afek.pdf| 
 | 20200814 | Padding Ain’t Enough: Assessing the Privacy Guarantees of Encrypted DNS (Paper) | https://www.usenix.org/system/files/foci20-paper-bushart.pdf| 
 | 20200813 | Sinter - 基于 Apple EndpointSecurity 框架 API 写的一款终端安全软件 | https://blog.trailofbits.com/2020/08/12/sinter-new-user-mode-security-enforcement-for-macos/| 
-| 20200813 | 从 7zip 中直接将文件拖拽到 VMware 虚拟机导致的虚拟机崩溃调试分析 | http://paper.seebug.org/1291/| 
 
 
 # 安全维基 推荐
 | ts | title | url| 
 | --- | --- | ---| 
-| 20200816 | 固件提取系列(一)-固件载体 | https://mp.weixin.qq.com/s/xWUoAwilc6v_0BMZXpbZqA| 
-| 20200816 | 中小型银行实战攻防演练经验分享 | https://mp.weixin.qq.com/s/sGoGelUKd8ehYlghOgg7gw| 
-| 20200816 | 网络赌博的管辖权、代理、赌资、四方的法律规定 | https://mp.weixin.qq.com/s/XAp40kxf-I0nmOjDBAD7Dg| 
-| 20200815 | 浅谈蓝队反制手段 | https://mp.weixin.qq.com/s/qjM7Fh0u0Edsz5C7L_ErGQ| 
-| 20200815 | Awesome CobaltStrike | https://github.com/zer0yu/Awesome-CobaltStrike| 
-| 20200815 | Windows通用应用平台UWP持久化 | https://mp.weixin.qq.com/s/rHE2Xj335RzhlB-KvxJLpQ| 
-| 20200815 | Decrypting HTTPS: How to Snoop on Your Own Requests | https://bitwiser.dev/2020/08/14/decrypting-https-how-to-snoop-on-your-own-requests/| 
-| 20200815 | 从现状看威胁情报发展趋势 | https://zhuanlan.zhihu.com/p/183993203| 
-| 20200815 | 护网自动化脚本 | https://mp.weixin.qq.com/s/uHNx28XFZ5M6KwykMC4Jsg| 
-| 20200815 | JSP Webshell那些事 -- 攻击篇(上) | https://mp.weixin.qq.com/s/XZvQgh6g69AUNUi_QK9FbQ| 
+| 20200817 | CodeQL 若干问题思考及 CVE-2019-3560 审计详解 | https://lenny233.github.io/2020/02/20/codql-and-cve-2019-3560/| 
+| 20200817 | PHPCMS V9 前台RCE挖掘分析 | https://mp.weixin.qq.com/s/zLXJtekT9O3OuzwBLigMsA| 
+| 20200817 | OpenSA: 运维自动化平台 | https://github.com/latentgod/OpenSA| 
+| 20200817 | 写给技术创业者的创业思考框架 | https://zhuanlan.zhihu.com/p/84058442| 
+| 20200817 | 软件源码安全攻防之道（上） | https://mp.weixin.qq.com/s/jb3VQyK3U6BQS0-0ad0K_w| 
+| 20200817 | JSP Webshell那些事 -- 攻击篇(下) | https://mp.weixin.qq.com/s/YhiOHWnqXVqvLNH7XSxC9w| 
+| 20200817 | 揭秘CVE-2020-1464 Windows文件签名验证绕过漏洞疑云 | https://mp.weixin.qq.com/s/CRdDJeen-Zqc0RCnMr4kzQ| 
+| 20200817 | 2019-2020网络安全态势观察报告 | https://www.venustech.com.cn/uploads/2020/08/170947121504.pdf| 
+| 20200817 | 无字母数字webshell总结 | https://xz.aliyun.com/t/8107| 
+| 20200817 | 浅探内网横向移动-Pass The Hash | https://xz.aliyun.com/t/8117| 
 
 
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20200817T01:22:36Z | CVE-2020-0041 | Null | https://github.com/j4nn/CVE-2020-0041 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 00 MINUTES 24 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200816T15:40:02Z | CVE-2020-9496 | Null | https://github.com/dwisiswant0/CVE-2020-9496 | | 
-| 20200816T15:03:23Z | 未知编号 | CVE Data Analysis, CVE Monitor, CVE EXP Prediction Based on Deep Learning. 1999-2020年存量CVE数据分析、监控CVE增量更新、基于深度学习的CVE EXP预测和自动化推送 | https://github.com/404notf0und/CVE-Flow | | 
-| 20200816T13:01:45Z | cve-2020-1337 | poc for CVE-2020-1337 (Windows Print Spooler Elevation of Privilege) | https://github.com/sailay1996/cve-2020-1337-poc | 未查询到CVE信息| 
-| 20200816T03:41:02Z | CVE-2020-6519 | Null | https://github.com/PerimeterX/CVE-2020-6519 | | 
-| 20200815T09:55:41Z | CVE-2020-1 | Telia Technicolor TG389ac v.17.1.7992 Samba privilege escalation exploit | https://github.com/full-disclosure/FDEU-CVE-2020-1FC5 | 未查询到CVE信息| 
+| 20200817T07:43:44Z | CVE-2020-1 | Telia Technicolor TG389ac v.17.1.7992 Samba privilege escalation exploit | https://github.com/full-disclosure/FDEU-CVE-2020-1FC5 | 未查询到CVE信息| 
+| 20200817T02:10:19Z | CVE-2020-1337 | CVE-2020-1048 bypass: binary planting PoC | https://github.com/neofito/CVE-2020-1337 | 未查询到CVE信息| 
+| 20200817T02:10:02Z | cve-2020-1337 | poc for CVE-2020-1337 (Windows Print Spooler Elevation of Privilege) | https://github.com/sailay1996/cve-2020-1337-poc | 未查询到CVE信息| 
+| 20200817T01:22:36Z | CVE-2020-0041 | Null | https://github.com/j4nn/CVE-2020-0041 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 58 MINUTES 05 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200816T15:40:02Z | CVE-2020-9496 | Null | https://github.com/dwisiswant0/CVE-2020-9496 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 58 MINUTES 16 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200816T15:03:23Z | 未知编号 | CVE Data Analysis, CVE Monitor, CVE EXP Prediction Based on Deep Learning. 1999-2020年存量CVE数据分析、监控CVE增量更新、基于深度学习的CVE EXP预测和自动化推送 | https://github.com/404notf0und/CVE-Flow | 未查询到CVE信息| 
+| 20200816T03:41:02Z | CVE-2020-6519 | Null | https://github.com/PerimeterX/CVE-2020-6519 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 58 MINUTES 03 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20200814T09:24:36Z | CVE-2020-2034 | Determine the Version Running on the Palo Alto Network Firewall for the Global Protect Portal | https://github.com/blackhatethicalhacking/CVE-2020-2034-POC | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
-| 20200813T21:36:59Z | CVE-2020-15931 | Netwrix Account Lockout Examiner 4.1 Domain Admin Account Credential Disclosure Vulnerability | https://github.com/optiv/CVE-2020-15931 | 未查询到CVE信息| 
-| 20200813T15:59:38Z | CVE-2020-6287 | [CVE-2020-6287] SAP NetWeaver AS JAVA (LM Configuration Wizard) Authentication Bypass (Create Simple & Administrator Java User) | https://github.com/murataydemir/CVE-2020-6287 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 00 MINUTES 31 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200813T15:11:59Z | CVE-2020-3452 | CVE-2020-3452 Cisco ASA Scanner -unauth Path Traversal Check | https://github.com/PR3R00T/CVE-2020-3452-Cisco-Scanner | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
+| 20200813T21:36:59Z | CVE-2020-15931 | Netwrix Account Lockout Examiner 4.1 Domain Admin Account Credential Disclosure Vulnerability | https://github.com/optiv/CVE-2020-15931 | | 
+| 20200813T15:59:38Z | CVE-2020-6287 | [CVE-2020-6287] SAP NetWeaver AS JAVA (LM Configuration Wizard) Authentication Bypass (Create Simple & Administrator Java User) | https://github.com/murataydemir/CVE-2020-6287 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 58 MINUTES 13 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 
 
 # klee on Github 推荐
@@ -76,7 +76,7 @@
 # s2e on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20200814T12:08:22Z | cicd logic and gitlab&github runner, centos base ,whith jdk/python/go, maven/npm,/kubectl/helm | https://github.com/chimeh/cicd-s2e-runner | 1 | 0| 
+| 20200817T10:05:21Z | cicd logic and gitlab&github runner, centos base ,whith jdk/python/go, maven/npm,/kubectl/helm | https://github.com/chimeh/cicd-s2e-runner | 1 | 0| 
 | 20200813T20:01:18Z | Null | https://github.com/JeffShao96/S2E-NS-3 | 0 | 0| 
 | 20200813T07:41:33Z | This is the main S2E repository. Visit https://s2e.systems/docs to get started. | https://github.com/S2E/s2e | 51 | 18| 
 | 20200809T03:05:46Z | Null | https://github.com/cxzzzz/s2engine_mcu | 1 | 0| 
@@ -88,16 +88,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20200817T01:42:57Z | Null | https://github.com/quentin452/Cats-Exploitz-HUB | 0 | 0| 
-| 20200817T01:26:09Z | Motorola Defy MBM exploit | https://github.com/CyanogenDefy/mbmhax | 0 | 0| 
-| 20200817T01:16:27Z | this bash script let you download scripts and clone repos for remote exploits | https://github.com/FabioDefilippo/linuxallremote | 4 | 0| 
-| 20200817T01:12:15Z | Auto Exploiter For Android Devices | https://github.com/ctoslab/AE | 1 | 0| 
-| 20200817T01:10:56Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 6947 | 1108| 
-| 20200817T00:59:24Z | Null | https://github.com/R1C4RD0x/Exploits | 0 | 0| 
-| 20200817T00:41:34Z | Null | https://github.com/OOFERGANG6969/exploithub-public | 0 | 0| 
-| 20200817T00:36:35Z | Null | https://github.com/OOFERGANG6969/exploithub | 0 | 0| 
-| 20200817T00:35:40Z | Bludit <= 3.9.2 - Authentication Bruteforce Mitigation Bypass | https://github.com/noraj/Bludit-auth-BF-bypass | 2 | 0| 
-| 20200817T00:01:31Z | PlayStation 4 Exploit Host for 5.05 and 6.72 FW | https://github.com/xforce505/PS4-BETA-Menu-1.0 | 0 | 0| 
+| 20200817T12:01:26Z | kadimus is a tool to check and exploit lfi vulnerability. | https://github.com/P0cL4bs/kadimus | 425 | 112| 
+| 20200817T11:56:46Z | Development of code to exploit LSST and VISTA imaging | https://github.com/lsst-uk/lsst-ir-fusion | 0 | 0| 
+| 20200817T11:48:00Z | Yubo 1 Factor Authentication Vuln+Exploit | https://github.com/projectintel-anon/yubo1factor | 0 | 0| 
+| 20200817T11:45:12Z | A collection of notes about penetration testing and offensive security. | https://github.com/0xffsec/book | 0 | 0| 
+| 20200817T11:34:15Z | On-line Trading of Exploration and Exploitation 2011 Proceedings | https://github.com/mlresearch/v26 | 0 | 0| 
+| 20200817T10:52:29Z | this bash script let you download scripts and clone repos for remote exploits | https://github.com/FabioDefilippo/linuxallremote | 4 | 0| 
+| 20200817T10:52:23Z | PS4 FW 6.72 Exploit Menu | https://github.com/00x1024/672 | 0 | 0| 
+| 20200817T10:33:33Z | Exploration-Exploitation using MAB | https://github.com/aegoe/MAB | 0 | 1| 
+| 20200817T10:28:42Z | Apollo is a post-exploitation tool for managing, enumerating and pivotting on compromised machines. | https://github.com/thecoderstudio/apollo | 5 | 0| 
+| 20200817T10:07:41Z | Custom version of the original Overthrow.  Bugs squashed and squashing, exploits punishable by death, new businesses plus much more, oh and high steriod use by the AI ;) Discord link  https://discord.gg/ZdMMq9x | https://github.com/GerhartPapaGee/Overthrow-Martial-Law | 0 | 1| 
 
 
 # backdoor on Github 推荐
