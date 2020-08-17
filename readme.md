@@ -22,7 +22,7 @@
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
 | 20200816T18:27:04Z | CVE-2020-0041 | Null | https://github.com/j4nn/CVE-2020-0041 | 在binder.c的binder_transaction中，由于不正确的边界检查，可能存在越界写入。这可以导致特权的本地升级，而无需其他执行特权。开发不需要用户交互。产品：Android版本：Android内核Android ID：A-145988638参考：上游内核| 
-| 20200816T15:40:02Z | CVE-2020-9496 | Null | https://github.com/dwisiswant0/CVE-2020-9496 | | 
+| 20200816T15:40:02Z | CVE-2020-9496 | Null | https://github.com/dwisiswant0/CVE-2020-9496 | XML-RPC请求容易受到Apache OFBiz 17.12.03中不安全的反序列化和跨站点脚本问题的攻击| 
 | 20200816T15:03:23Z | 未知编号 | CVE Data Analysis, CVE Monitor, CVE EXP Prediction Based on Deep Learning. 1999-2020年存量CVE数据分析、监控CVE增量更新、基于深度学习的CVE EXP预测和自动化推送 | https://github.com/404notf0und/CVE-Flow | 未查询到CVE信息| 
 | 20200816T13:01:45Z | cve-2020-1337 | poc for CVE-2020-1337 (Windows Print Spooler Elevation of Privilege) | https://github.com/sailay1996/cve-2020-1337-poc | 未查询到CVE信息| 
 | 20200816T03:41:02Z | CVE-2020-6519 | Null | https://github.com/PerimeterX/CVE-2020-6519 | 在84.0.4147.89之前的Google Chrome中，CSP中的策略绕行允许远程攻击者通过精心制作的HTML页面绕过内容安全策略。| 
@@ -58,14 +58,16 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20200816T23:28:02Z | Hacking tools pack & backdoors generator. | https://github.com/AdrMXR/KitHack | 121 | 30| 
+| 20200816T23:18:26Z | Pupy is an opensource, cross-platform (Windows, Linux, OSX, Android) remote administration and post-exploitation tool mainly written in python | https://github.com/n1nj4sec/pupy | 5734 | 1503| 
+| 20200816T21:11:00Z | Null | https://github.com/voila1106/backdoor | 0 | 0| 
+| 20200816T19:46:02Z | A Kotlin program used to analyse and discover backdoors in Java programs | https://github.com/Tigermouthbear/Theia | 30 | 4| 
+| 20200816T19:01:21Z | Repository for all the code related to Learn Python & Ethical Hacking From Scratch course. All the work is done on Kali Linux, using both Python 2.7 and 3.x version. | https://github.com/Maffey/ethical-hacking-course | 0 | 0| 
+| 20200816T17:56:32Z | A sample app to demonstrate how to create Xamarin UITests using the Page Object architecture, Backdoor Methods and App Links (aka Deep Linking) | https://github.com/brminnick/UITestSampleApp | 29 | 23| 
 | 20200816T12:54:12Z | [Training] Tooling for providing admin backdoor to k8s node | https://github.com/naumvd95/k8s-node-backdoor | 0 | 0| 
-| 20200816T12:13:11Z | Null | https://github.com/voila1106/backdoor | 0 | 0| 
 | 20200816T10:32:02Z | A Permanent Backdoor For Windows | https://github.com/Dr-Savage/Backdoor-Windows | 0 | 0| 
 | 20200816T08:08:33Z | This Script Will Help You To Setup A Metasploit Framework Backdoor Listener Easily. | https://github.com/chinnidiwakar/MSFListener | 0 | 3| 
 | 20200816T07:09:16Z | VySecator Is a Python Script Obfuscation Tool, Which can be used to Obfuscate your hand written Malwares and your Hand Written Scripts! | https://github.com/Vedant-Bhalgama/VySecator | 19 | 1| 
-| 20200816T06:49:25Z | Pupy is an opensource, cross-platform (Windows, Linux, OSX, Android) remote administration and post-exploitation tool mainly written in python | https://github.com/n1nj4sec/pupy | 5732 | 1503| 
-| 20200816T05:45:52Z | a simple backdoor in Nim | https://github.com/kensh1ro/NimTeleBackdoor | 1 | 1| 
-| 20200816T03:51:41Z | Backdoor Shell | https://github.com/kaitolegion/Backdoor | 1 | 4| 
 
 
 # fuzz on Github 推荐
