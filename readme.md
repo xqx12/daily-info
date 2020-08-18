@@ -26,8 +26,8 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20200818T11:26:50Z | cve-2020-1337 | poc for CVE-2020-1337 (Windows Print Spooler Elevation of Privilege) | https://github.com/sailay1996/cve-2020-1337-poc | | 
-| 20200818T02:55:36Z | 未知编号 | CVE Data Analysis, CVE Monitor, CVE EXP Prediction Based on Deep Learning. 1999-2020年存量CVE数据分析、监控CVE增量更新、基于深度学习的CVE EXP预测和自动化推送 | https://github.com/404notf0und/CVE-Flow | 未查询到CVE信息| 
+| 20200818T11:26:50Z | cve-2020-1337 | poc for CVE-2020-1337 (Windows Print Spooler Elevation of Privilege) | https://github.com/sailay1996/cve-2020-1337-poc | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 06 MINUTES 00 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200818T02:55:36Z | 未知编号 | CVE Data Analysis, CVE Monitor, CVE EXP Prediction Based on Deep Learning. 1999-2020年存量CVE数据分析、监控CVE增量更新、基于深度学习的CVE EXP预测和自动化推送 | https://github.com/404notf0und/CVE-Flow | | 
 
 
 # klee on Github 推荐
@@ -70,6 +70,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20200818T12:54:36Z | A differential fuzzer for x86 decoders | https://github.com/trailofbits/mishegos | 103 | 15| 
 | 20200818T12:48:26Z | OSS-Fuzz - continuous fuzzing of open source software. | https://github.com/google/oss-fuzz | 5485 | 1072| 
 | 20200818T12:38:57Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 26335 | 12778| 
 | 20200818T12:38:30Z | Null | https://github.com/dNataly/fuzzy-succotash | 0 | 0| 
@@ -79,7 +80,6 @@
 | 20200818T11:59:37Z | Null | https://github.com/darmariduan/fuzzy-sugeno | 1 | 1| 
 | 20200818T11:50:25Z | Ethereum smart contract fuzzer | https://github.com/crytic/echidna | 456 | 72| 
 | 20200818T11:48:35Z | Null | https://github.com/patricia-gallardo/insecure-fuzz | 2 | 1| 
-| 20200818T11:40:44Z | Null | https://github.com/sunho/fuzz-the-vita-gpu | 0 | 0| 
 
 
 
