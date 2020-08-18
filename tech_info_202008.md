@@ -7,6 +7,9 @@
 | ts | title | url| 
 | --- | --- | ---| 
 | 20200817 | 将VMProtect虚拟化为优化的VTIL并编译回x64项目 | https://github.com/can1357/NoVmp| 
+| 20200817 | SassyKitdi：内核模式TCP套接字+ LSASS转储。 | https://zerosum0x0.blogspot.com/2020/08/sassykitdi-kernel-mode-tcp-sockets.html| 
+| 20200817 | 了解与防止LDAP恶意注入安全研究。 | https://www.securecoding.com/understanding-and-preventing-ldap-injection/| 
+| 20200817 | PowerShell事件响应命令总结 | https://www.securityinbits.com/incident-response/powershell-commands-for-incident-response/| 
 | 20200816 | 物联网安全：学习7个必不可少的安全知识体系。 | https://blog.paloaltonetworks.com/2020/08/iot-security-7-essential-must-knows/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+PaloAltoNetworks+%28Palo+Alto+Networks+Research+Center%29| 
 | 20200816 | Weblogic漏洞利用猫池挖矿事件分析. | https://www.freebuf.com/articles/terminal/246830.html| 
 | 20200816 | XSSMAP-一款快速检测Web应用程序中的XSS漏洞的开源工具 | http://github.com/Jewel591/xssmap| 
@@ -23,9 +26,6 @@
 | 20200814 | 广告过滤插件对用户搜索产品和购买行为的影响 | https://www.usenix.org/conference/usenixsecurity20/presentation/frik| 
 | 20200814 | NXNSAttack - 针对 DNS 系统的数据包放大攻击 | https://sec.today/pulses/06ba9b23-036e-4464-b9f6-f649a592bc63/| 
 | 20200814 | Padding Ain’t Enough: Assessing the Privacy Guarantees of Encrypted DNS (Paper) | https://sec.today/pulses/d2e71caf-ae67-41e1-94d4-f0e06045273e/| 
-| 20200814 | NXNSAttack - 针对 DNS 系统的数据包放大攻击 | https://www.usenix.org/system/files/sec20-afek.pdf| 
-| 20200814 | Padding Ain’t Enough: Assessing the Privacy Guarantees of Encrypted DNS (Paper) | https://www.usenix.org/system/files/foci20-paper-bushart.pdf| 
-| 20200813 | Sinter - 基于 Apple EndpointSecurity 框架 API 写的一款终端安全软件 | https://blog.trailofbits.com/2020/08/12/sinter-new-user-mode-security-enforcement-for-macos/| 
 
 
 # 安全维基 推荐
@@ -46,16 +46,16 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20200817T12:43:58Z | CVE-2020-0688 | [CVE-2020-0688] Microsoft Exchange Server Fixed Cryptographic Key Remote Code Execution (RCE) | https://github.com/murataydemir/CVE-2020-0688 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  09 HOURS 44 MINUTES 12 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200817T19:13:38Z | CVE-2020-0041 | Null | https://github.com/j4nn/CVE-2020-0041 | 在binder.c的binder_transaction中，由于不正确的边界检查，可能存在越界写入。这可以导致特权的本地升级，而无需其他执行特权。开发不需要用户交互。产品：Android版本：Android内核Android ID：A-145988638参考：上游内核| 
+| 20200817T18:46:16Z | 未知编号 | CVE Data Analysis, CVE Monitor, CVE EXP Prediction Based on Deep Learning. 1999-2020年存量CVE数据分析、监控CVE增量更新、基于深度学习的CVE EXP预测和自动化推送 | https://github.com/404notf0und/CVE-Flow | 未查询到CVE信息| 
+| 20200817T16:49:37Z | CVE-2020-1350 | NSE scripts to detect CVE-2020-1350 SIGRED and CVE-2020-0796 SMBGHOST | https://github.com/psc4re/NSE-scripts | 当Windows域名系统服务器无法正确处理请求（也称为“ Windows DNS服务器远程代码执行漏洞”）时，存在一个远程执行代码漏洞。| 
+| 20200817T15:16:29Z | cve-2020-1337 | poc for CVE-2020-1337 (Windows Print Spooler Elevation of Privilege) | https://github.com/sailay1996/cve-2020-1337-poc | 当 Windows 打印后台服务器服务不正确地允许任意写入文件系统（也称为%Windows 打印后台脱机特权漏洞提升%）时，存在特权提升漏洞。| 
+| 20200817T14:30:08Z | CVE-2020-0688 | [CVE-2020-0688] Microsoft Exchange Server Fixed Cryptographic Key Remote Code Execution (RCE) | https://github.com/murataydemir/CVE-2020-0688 | 当Microsoft Exchange软件无法正确处理内存中的对象（也称为“ Microsoft Exchange内存损坏漏洞”）时，将存在一个远程执行代码漏洞。| 
+| 20200817T13:30:06Z | CVE-2020-6519 | Null | https://github.com/PerimeterX/CVE-2020-6519 | 在84.0.4147.89之前的Google Chrome中，CSP中的策略绕行允许远程攻击者通过精心制作的HTML页面绕过内容安全策略。| 
 | 20200817T07:43:44Z | CVE-2020-1 | Telia Technicolor TG389ac v.17.1.7992 Samba privilege escalation exploit | https://github.com/full-disclosure/FDEU-CVE-2020-1FC5 | 未查询到CVE信息| 
-| 20200817T02:10:19Z | CVE-2020-1337 | CVE-2020-1048 bypass: binary planting PoC | https://github.com/neofito/CVE-2020-1337 | 未查询到CVE信息| 
-| 20200817T02:10:02Z | cve-2020-1337 | poc for CVE-2020-1337 (Windows Print Spooler Elevation of Privilege) | https://github.com/sailay1996/cve-2020-1337-poc | 未查询到CVE信息| 
-| 20200817T01:22:36Z | CVE-2020-0041 | Null | https://github.com/j4nn/CVE-2020-0041 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  09 HOURS 44 MINUTES 00 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200816T15:40:02Z | CVE-2020-9496 | Null | https://github.com/dwisiswant0/CVE-2020-9496 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  09 HOURS 44 MINUTES 11 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200816T15:03:23Z | 未知编号 | CVE Data Analysis, CVE Monitor, CVE EXP Prediction Based on Deep Learning. 1999-2020年存量CVE数据分析、监控CVE增量更新、基于深度学习的CVE EXP预测和自动化推送 | https://github.com/404notf0und/CVE-Flow | 未查询到CVE信息| 
-| 20200816T03:41:02Z | CVE-2020-6519 | Null | https://github.com/PerimeterX/CVE-2020-6519 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  09 HOURS 43 MINUTES 57 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200817T02:10:19Z | CVE-2020-1337 | CVE-2020-1048 bypass: binary planting PoC | https://github.com/neofito/CVE-2020-1337 | 当 Windows 打印后台服务器服务不正确地允许任意写入文件系统（也称为%Windows 打印后台脱机特权漏洞提升%）时，存在特权提升漏洞。| 
+| 20200816T15:40:02Z | CVE-2020-9496 | Null | https://github.com/dwisiswant0/CVE-2020-9496 | XML-RPC请求容易受到Apache OFBiz 17.12.03中不安全的反序列化和跨站点脚本问题的攻击| 
 | 20200814T09:24:36Z | CVE-2020-2034 | Determine the Version Running on the Palo Alto Network Firewall for the Global Protect Portal | https://github.com/blackhatethicalhacking/CVE-2020-2034-POC | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
-| 20200813T21:36:59Z | CVE-2020-15931 | Netwrix Account Lockout Examiner 4.1 Domain Admin Account Credential Disclosure Vulnerability | https://github.com/optiv/CVE-2020-15931 | 未查询到CVE信息| 
 
 
 # klee on Github 推荐
@@ -88,46 +88,46 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20200817T13:14:50Z | Collection of exploits made during my preparation for my osce. | https://github.com/Pal1Sec/Exploit-Development | 1 | 0| 
-| 20200817T13:11:55Z | History of my exploits | https://github.com/Ordered-Chaos/Pwnfolio | 0 | 0| 
-| 20200817T12:59:07Z | Yubo 1 Factor Authentication Vuln+Exploit | https://github.com/projectintel-anon/yubo1factor | 0 | 0| 
-| 20200817T12:53:41Z | Apollo is a post-exploitation tool for managing, enumerating and pivotting on compromised machines. | https://github.com/thecoderstudio/apollo | 5 | 0| 
-| 20200817T12:35:13Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 6950 | 1110| 
-| 20200817T12:32:49Z | Java Message Exploitation Tool | https://github.com/matthiaskaiser/jmet | 310 | 80| 
-| 20200817T12:29:30Z | Dante is vulnerability, version scanner; exploitation tool and report generator | https://github.com/kelj0/dante | 0 | 0| 
-| 20200817T12:24:21Z | Hypervisor Memory Introspection Core Library | https://github.com/hvmi/hvmi | 348 | 24| 
-| 20200817T12:13:32Z | stuff for exploiting | https://github.com/supersonicfan111/exploitstuff | 0 | 0| 
-| 20200817T12:01:26Z | kadimus is a tool to check and exploit lfi vulnerability. | https://github.com/P0cL4bs/kadimus | 425 | 112| 
+| 20200817T23:48:34Z | 「Hacking: The Art of Exploitation」on 「Ubuntu 18.04.4」 | https://github.com/FromNand/Hacking | 0 | 0| 
+| 20200817T23:46:38Z | PowerSploit - A PowerShell Post-Exploitation Framework | https://github.com/PowerShellMafia/PowerSploit | 7318 | 2818| 
+| 20200817T23:41:49Z | A tool for automatic scanning and exploit of a network or device | https://github.com/user951/Black-ufo | 2 | 0| 
+| 20200817T23:33:54Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 6959 | 1111| 
+| 20200817T23:06:16Z | i was bored | https://github.com/Toluhunter/exploit | 0 | 0| 
+| 20200817T22:17:18Z | A series of CTF challenge solutions for binary exploitation (or pwn) and reverse engineering (or rev) challenges | https://github.com/docfate111/binary-exploitation-solution-scripts | 0 | 0| 
+| 20200817T21:11:19Z | Null | https://github.com/musyoka101/Bolt-CMS-version-3.7.1-RCE-Exploit | 0 | 0| 
+| 20200817T20:37:35Z | bad_hoist exploit that actually works. The original exploit was written by https://github.com/Fire30 | https://github.com/sleirsgoevy/bad_hoist | 21 | 4| 
+| 20200817T20:21:42Z | Working directory of files related to my disseration, Exploit Development for Ada | https://github.com/bkungl/AdaExploiting | 0 | 0| 
+| 20200817T20:11:06Z | This repo is the part of my preparation to OSCP exam. | https://github.com/Artem-Malyi/binary-exploitation | 0 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20200817T22:45:57Z | Pupy is an opensource, cross-platform (Windows, Linux, OSX, Android) remote administration and post-exploitation tool mainly written in python | https://github.com/n1nj4sec/pupy | 5738 | 1503| 
+| 20200817T20:40:08Z | Simples criador de RAT (Remote Acess Trojan) / Backdoor. Base: Metasploit-Framework | https://github.com/LightHades/RatCreator | 1 | 0| 
+| 20200817T17:26:33Z | Repository for all the code related to Learn Python & Ethical Hacking From Scratch course. All the work is done on Kali Linux, using both Python 2.7 and 3.x version. | https://github.com/Maffey/ethical-hacking-course | 0 | 0| 
+| 20200817T15:10:35Z | Is a script for Skript plugin in Minecraft which sends the password, player nickname and IP address to HTTP server. | https://github.com/piotrbednarski-hub/minecraft-backdoor | 0 | 0| 
+| 20200817T13:31:12Z | Hacking tools pack & backdoors generator. | https://github.com/AdrMXR/KitHack | 122 | 30| 
 | 20200817T11:43:08Z | is Backdoor Crypter & Creator with Automatic IP Poisener. | https://github.com/yezz123/SpyDroid | 2 | 0| 
 | 20200817T11:38:30Z | Spigot 1.16.1 backdoor | https://github.com/Apmunute/spigot-backdoor | 1 | 1| 
 | 20200817T07:39:27Z | A Multi-Function backdoor application based on TCP Reverse Shell | https://github.com/HalukShan/HitDA | 7 | 0| 
 | 20200817T07:11:16Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 47 | 6| 
 | 20200817T06:08:26Z | Null | https://github.com/voila1106/backdoor | 0 | 0| 
-| 20200817T06:02:12Z | Hacking tools pack & backdoors generator. | https://github.com/AdrMXR/KitHack | 121 | 30| 
-| 20200817T03:54:04Z | Pupy is an opensource, cross-platform (Windows, Linux, OSX, Android) remote administration and post-exploitation tool mainly written in python | https://github.com/n1nj4sec/pupy | 5737 | 1503| 
-| 20200816T19:46:02Z | A Kotlin program used to analyse and discover backdoors in Java programs | https://github.com/Tigermouthbear/Theia | 30 | 4| 
-| 20200816T19:01:21Z | Repository for all the code related to Learn Python & Ethical Hacking From Scratch course. All the work is done on Kali Linux, using both Python 2.7 and 3.x version. | https://github.com/Maffey/ethical-hacking-course | 0 | 0| 
-| 20200816T17:56:32Z | A sample app to demonstrate how to create Xamarin UITests using the Page Object architecture, Backdoor Methods and App Links (aka Deep Linking) | https://github.com/brminnick/UITestSampleApp | 29 | 23| 
 
 
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20200817T12:53:29Z | No idea what I%m doing | https://github.com/klecko/fuzz | 1 | 0| 
-| 20200817T12:43:23Z | Mirror of Envoy for a fuzzing codelab. Pinned at Envoy version 1.14.1 | https://github.com/asraa/envoy-fuzzing-codelab | 0 | 0| 
-| 20200817T12:29:50Z | C++ library for tests (unit, fuzz, property), benchmarks, apps | https://github.com/project-arcana/nexus | 0 | 0| 
-| 20200817T12:28:28Z | A fork of AFL for fuzzing Windows binaries | https://github.com/googleprojectzero/winafl | 1514 | 391| 
-| 20200817T12:28:27Z | Potentially dangerous files | https://github.com/Bo0oM/fuzz.txt | 1259 | 224| 
-| 20200817T11:57:15Z | Null | https://github.com/lemar-97/fuzzy-sniffle | 0 | 0| 
-| 20200817T11:13:27Z | Null | https://github.com/Fuzzy9knot82/Fuzzy9knot82.github.io | 0 | 0| 
-| 20200817T11:10:29Z | A JavaScript Engine Fuzzer | https://github.com/googleprojectzero/fuzzilli | 1005 | 163| 
-| 20200817T10:40:54Z | 瓶颈渗透,web渗透,red红队,fuzz param,注释,js字典,ctf | https://github.com/7dog7/bottleneckOsmosis | 294 | 43| 
-| 20200817T10:36:11Z | Simple and fast web fuzzer written in python | https://github.com/ScRiPt1337/pyffuf | 2 | 0| 
+| 20200817T23:42:40Z | Ethereum smart contract fuzzer | https://github.com/crytic/echidna | 456 | 71| 
+| 20200817T23:18:42Z | Fuzzy matching publications for fatcat (wip). | https://github.com/miku/fuzzycat | 0 | 0| 
+| 20200817T23:04:44Z | Null | https://github.com/srafique98/Fuzzy-Search | 0 | 0| 
+| 20200817T22:59:45Z | This project is just me trying to replicate the work done by Brandon Falk during the Fuzz Week for learning purposes and experimentation. | https://github.com/jroimartin/riscv-emu | 2 | 0| 
+| 20200817T22:26:51Z | Fast fuzzy search utility | https://github.com/EthanRutherford/fast-fuzzy | 22 | 5| 
+| 20200817T22:11:30Z | Null | https://github.com/HharoldShi/ECE653-Fuzzing | 0 | 0| 
+| 20200817T21:57:55Z | FuzzBench - Fuzzer benchmarking as a service. | https://github.com/google/fuzzbench | 506 | 74| 
+| 20200817T21:49:10Z | Tutorials, examples, discussions, research proposals, and other resources related to fuzzing | https://github.com/google/fuzzing | 1384 | 195| 
+| 20200817T20:52:57Z | Repository holding database dumps from getfursu.it | https://github.com/veelkoov/fuzzrake-data | 0 | 0| 
+| 20200817T20:45:37Z | Mirror of Envoy for a fuzzing codelab. Pinned at Envoy version 1.14.1 | https://github.com/asraa/envoy-fuzzing-codelab | 0 | 0| 
 
 
 
