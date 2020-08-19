@@ -6,31 +6,32 @@
 # 玄武实验室 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20200819 | Linux内核运行时防护（LKRG）会议演示文稿。 | https://www.openwall.com/presentations/OSTconf2020-LKRG-In-A-Nutshell/| 
+| 20200819 | OWASP ZAP版本发布：用于测试Web应用程序中漏洞的渗透测试工具。 | https://securityonline.info/owasp-zap-web-app-pentest-tool/| 
+| 20200819 | Awesome CobaltStrike | https://github.com/zer0yu/Awesome-CobaltStrike| 
+| 20200819 | Electron.js Hacking 相关的资料收集整理 | https://github.com/doyensec/awesome-electronjs-hacking| 
+| 20200819 | 用于自动化收集渗透测试所需信息的平台 | https://github.com/yogeshojha/rengine| 
+| 20200819 | Radare2 插件，用于将 RetDec 反汇编工具集成进 Radare2 | https://github.com/avast/retdec-r2plugin| 
+| 20200819 | Cisco 7937G 设备 CVE-2020-16139/16138/16137 漏洞一键攻击代码 | https://packetstormsecurity.com/files/158817| 
+| 20200819 | Fuzzer 性能的评估以及评估过程的可视化 | https://hexgolems.com/2020/08/on-measuring-and-visualizing-fuzzer-performance/| 
+| 20200819 | Samsung Qmage MMS Exploit (CVE-2020-8899) | https://github.com/googleprojectzero/SkCodecFuzzer/tree/master/mms_exploit| 
+| 20200819 | 特斯拉 NFC 中继攻击（CVE-2020-15912） | https://sec.today/pulses/7c7a1186-453c-49d2-8e79-8165b3b5a97c/| 
+| 20200819 | EVGA Precision X1 Windows 本地提权漏洞分析（CVE-2020–14979） | https://sec.today/pulses/d80c3bc5-9872-4a76-9920-a2898d313a2c/| 
+| 20200819 | vBulletin Remote Code Execution (CVE-2020-7373) | https://sec.today/pulses/eeba0adc-3eab-4b18-b982-b4fa021da614/| 
+| 20200819 | 利用 Windows 加密实现的问题实现 EXE 证书验证欺骗（CVE-2020–1464） | https://sec.today/pulses/c69915ba-53fb-4e7d-865a-e31aba715f36/| 
+| 20200819 | Hacker101 CTF Android 方向题目的 Writeup | https://sec.today/pulses/d247a5c6-3dbf-418d-a777-4eaa499f7e71/| 
+| 20200819 | QBDI 在白盒加密方向的应用 - Whiteboxes and Collision-Based Attacks With QBDI | https://sec.today/pulses/5b319968-5565-458e-93b4-404f2159eebd/| 
 | 20200818 | 如何利用Emotet恶意软件漏洞进行防御 | https://www.binarydefense.com/emocrash-exploiting-a-vulnerability-in-emotet-malware-for-defense/| 
 | 20200818 | TCTF / 0CTF js相关题目Writeup分享 | https://share.weiyun.com/5HjUBNL| 
 | 20200818 | 利用 Echidna Fuzzer 测试智能合约库 | https://blog.trailofbits.com/2020/08/17/using-echidna-to-test-a-smart-contract-library/| 
 | 20200818 | 新型MacOS恶意软件完整分析报告 | https://documents.trendmicro.com/assets/pdf/XCSSET_Technical_Brief.pdf| 
 | 20200818 | WebSphere CVE-2020-4450 反序列化远程代码执行漏洞深度分析 | http://blog.topsec.com.cn/websphere-cve-2020-4450-%e5%8f%8d%e5%ba%8f%e5%88%97%e5%8c%96%e8%bf%9c%e7%a8%8b%e4%bb%a3%e7%a0%81%e6%89%a7%e8%a1%8c%e6%bc%8f%e6%b4%9e%e6%b7%b1%e5%ba%a6%e5%88%86%e6%9e%90/| 
-| 20200818 | GitHub 出现 Apache Struts 2 漏洞 PoC | https://threatpost.com/poc-exploit-github-apache-struts/158393/| 
-| 20200818 | 以太坊安全之 EVM与短地址攻击。 | http://paper.seebug.org/1296/| 
-| 20200818 | 破解三星的固件,并将S8 / S9 / S10型号手机DIY成Proxmark开源的RFID安全研究工具。 | https://www.pentestpartners.com/security-blog/breaking-samsung-firmware-or-turning-your-s8-s9-s10-into-a-diy-proxmark/| 
-| 20200817 | 将VMProtect虚拟化为优化的VTIL并编译回x64项目 | https://github.com/can1357/NoVmp| 
-| 20200817 | SassyKitdi：内核模式TCP套接字+ LSASS转储。 | https://zerosum0x0.blogspot.com/2020/08/sassykitdi-kernel-mode-tcp-sockets.html| 
-| 20200817 | 了解与防止LDAP恶意注入安全研究。 | https://www.securecoding.com/understanding-and-preventing-ldap-injection/| 
-| 20200817 | PowerShell事件响应命令总结 | https://www.securityinbits.com/incident-response/powershell-commands-for-incident-response/| 
-| 20200816 | 物联网安全：学习7个必不可少的安全知识体系。 | https://blog.paloaltonetworks.com/2020/08/iot-security-7-essential-must-knows/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+PaloAltoNetworks+%28Palo+Alto+Networks+Research+Center%29| 
-| 20200816 | Weblogic漏洞利用猫池挖矿事件分析. | https://www.freebuf.com/articles/terminal/246830.html| 
-| 20200816 | XSSMAP-一款快速检测Web应用程序中的XSS漏洞的开源工具 | http://github.com/Jewel591/xssmap| 
-| 20200816 | 适用于maubot的GitLab客户端和Webhook接收器。 | https://github.com/maubot/gitlab| 
-| 20200816 | 一些恶意软件分析会用到的工具和资源集合 | https://github.com/hslatman/awesome-malware-analysis| 
-| 20200814 | 实时检测 4G 伪基站 | https://i.blackhat.com/USA-20/Wednesday/us-20-Quintin-Detecting-Fake-4G-Base-Stations-In-Real-Time.pdf| 
-| 20200814 | 将要发布的 Chome 86 版本将改进地址栏显示 URL 的方式，以防御地址栏欺骗 | https://blog.chromium.org/2020/08/helping-people-spot-spoofs-url.html?m=1| 
-| 20200814 | 无需 root 和重打包，将 App 安装到克隆 App 内实现动态分析 | https://github.com/darvincisec/VirtualDynamicAnalysis| 
 
 
 # 安全维基 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20200819 | DataCon2020 恶意代码分析冠军writeup | https://mp.weixin.qq.com/s/e69Fg9UBX3B2BFiGvsg4Gg| 
 | 20200818 | 冰蝎3.0简要分析 | https://mp.weixin.qq.com/s/4FeZwDlLdWOjgITdWH1ucQ| 
 | 20200818 | 半自动化冰蝎流量分析的实践 | https://mp.weixin.qq.com/s/w40qI2iPNLx9GjgkYRyhpg| 
 | 20200818 | 哥斯拉Godzilla shell管理工具 | https://mp.weixin.qq.com/s/_4ACLzaImDMQbZWfhSHnwg| 
@@ -40,29 +41,28 @@
 | 20200817 | PHPCMS V9 前台RCE挖掘分析 | https://mp.weixin.qq.com/s/zLXJtekT9O3OuzwBLigMsA| 
 | 20200817 | OpenSA: 运维自动化平台 | https://github.com/latentgod/OpenSA| 
 | 20200817 | 写给技术创业者的创业思考框架 | https://zhuanlan.zhihu.com/p/84058442| 
-| 20200817 | 软件源码安全攻防之道（上） | https://mp.weixin.qq.com/s/jb3VQyK3U6BQS0-0ad0K_w| 
 
 
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20200819T00:38:29Z | cve-2020-1337 | poc for CVE-2020-1337 (Windows Print Spooler Elevation of Privilege) | https://github.com/sailay1996/cve-2020-1337-poc | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  20 HOURS 44 MINUTES 26 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200818T23:36:43Z | CVE-2020-0041 | Null | https://github.com/j4nn/CVE-2020-0041 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  20 HOURS 44 MINUTES 23 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200818T17:32:02Z | 未知编号 | CVE Data Analysis, CVE Monitor, CVE EXP Prediction Based on Deep Learning. 1999-2020年存量CVE数据分析、监控CVE增量更新、基于深度学习的CVE EXP预测和自动化推送 | https://github.com/404notf0und/CVE-Flow | 未查询到CVE信息| 
-| 20200818T16:25:19Z | CVE-2020-9496 | Null | https://github.com/dwisiswant0/CVE-2020-9496 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  20 HOURS 44 MINUTES 33 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200818T15:04:33Z | cve-2020-5902 | Null | https://github.com/superzerosec/cve-2020-5902 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  20 HOURS 44 MINUTES 35 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200817T16:49:37Z | CVE-2020-1350 | NSE scripts to detect CVE-2020-1350 SIGRED and CVE-2020-0796 SMBGHOST | https://github.com/psc4re/NSE-scripts | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  20 HOURS 44 MINUTES 19 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200817T14:30:08Z | CVE-2020-0688 | [CVE-2020-0688] Microsoft Exchange Server Fixed Cryptographic Key Remote Code Execution (RCE) | https://github.com/murataydemir/CVE-2020-0688 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  20 HOURS 44 MINUTES 34 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200817T13:30:06Z | CVE-2020-6519 | Null | https://github.com/PerimeterX/CVE-2020-6519 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  20 HOURS 44 MINUTES 22 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200819T10:39:52Z | cve-2020-1337 | poc for CVE-2020-1337 (Windows Print Spooler Elevation of Privilege) | https://github.com/sailay1996/cve-2020-1337-poc | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 58 MINUTES 27 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200819T09:31:18Z | CVE-2020-0688 | [CVE-2020-0688] Microsoft Exchange Server Fixed Cryptographic Key Remote Code Execution (RCE) | https://github.com/murataydemir/CVE-2020-0688 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 58 MINUTES 38 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200819T09:15:33Z | CVE-2020-2883 | WebLogic利用CVE-2020-2883打Shiro rememberMe反序列化漏洞，一键注册filter内存shell | https://github.com/Y4er/WebLogic-Shiro-shell | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
+| 20200819T05:13:01Z | 未知编号 | CVE Data Analysis, CVE Monitor, CVE EXP Prediction Based on Deep Learning. 1999-2020年存量CVE数据分析、监控CVE增量更新、基于深度学习的CVE EXP预测和自动化推送 | https://github.com/404notf0und/CVE-Flow | 未查询到CVE信息| 
+| 20200818T23:36:43Z | CVE-2020-0041 | Null | https://github.com/j4nn/CVE-2020-0041 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 58 MINUTES 25 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200818T16:25:19Z | CVE-2020-9496 | Null | https://github.com/dwisiswant0/CVE-2020-9496 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 58 MINUTES 36 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200818T15:04:33Z | cve-2020-5902 | Null | https://github.com/superzerosec/cve-2020-5902 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 58 MINUTES 39 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200817T16:49:37Z | CVE-2020-1350 | NSE scripts to detect CVE-2020-1350 SIGRED and CVE-2020-0796 SMBGHOST | https://github.com/psc4re/NSE-scripts | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 58 MINUTES 20 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200817T13:30:06Z | CVE-2020-6519 | Null | https://github.com/PerimeterX/CVE-2020-6519 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 58 MINUTES 24 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20200817T07:43:44Z | CVE-2020-1 | Telia Technicolor TG389ac v.17.1.7992 Samba privilege escalation exploit | https://github.com/full-disclosure/FDEU-CVE-2020-1FC5 | 未查询到CVE信息| 
-| 20200817T02:10:19Z | CVE-2020-1337 | CVE-2020-1048 bypass: binary planting PoC | https://github.com/neofito/CVE-2020-1337 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  20 HOURS 44 MINUTES 25 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
 | 20200818T12:25:28Z | A tool that automatically calls Klee to solve for injection | https://github.com/Zzzode/KleeTool | 1 | 0| 
-| 20200816T21:35:24Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1459 | 449| 
+| 20200816T21:35:24Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1459 | 450| 
 | 20200816T07:40:37Z | Null | https://github.com/MrPoopey/klee622-235-lab2 | 0 | 0| 
 | 20200815T17:43:33Z | Null | https://github.com/aznv/kleetcode | 0 | 0| 
 | 20200815T02:27:32Z | ⬇️ File Upload/sharing application, used by thousands of webmasters since 2007.  | https://github.com/kleeja-official/kleeja | 103 | 32| 
@@ -76,8 +76,8 @@
 # s2e on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20200819T02:50:59Z | Q. Yao, H. Yang, B. Han, G. Niu, J. Kwok. Searching to Exploit Memorization Effect in Learning from Noisy Labels. International Conference on Machine Learning (ICML) 2020 | https://github.com/AutoML-4Paradigm/S2E | 9 | 1| 
 | 20200818T10:19:17Z | cicd logic and gitlab&github runner, centos base ,whith jdk/python/go, maven/npm,/kubectl/helm | https://github.com/chimeh/cicd-s2e-runner | 1 | 0| 
-| 20200818T07:16:52Z | Q. Yao, H. Yang, B. Han, G. Niu, J. Kwok. Searching to Exploit Memorization Effect in Learning from Noisy Labels. International Conference on Machine Learning (ICML) 2020 | https://github.com/AutoML-4Paradigm/S2E | 9 | 1| 
 | 20200813T20:01:18Z | Null | https://github.com/JeffShao96/S2E-NS-3 | 0 | 0| 
 | 20200813T07:41:33Z | This is the main S2E repository. Visit https://s2e.systems/docs to get started. | https://github.com/S2E/s2e | 51 | 18| 
 | 20200809T03:05:46Z | Null | https://github.com/cxzzzz/s2engine_mcu | 1 | 0| 
@@ -88,16 +88,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20200819T02:08:03Z | Null | https://github.com/purplewall1206/EXPLOIT-practice | 0 | 0| 
-| 20200819T01:59:09Z | Null | https://github.com/Kahvi-0/Vulnerabilities-and-Exploitations | 1 | 1| 
-| 20200819T01:54:00Z | Custom version of the original Overthrow.  Bugs squashed and squashing, exploits punishable by death, new businesses plus much more, oh and high steriod use by the AI ;) Discord link  https://discord.gg/ZdMMq9x | https://github.com/GerhartPapaGee/Overthrow-Martial-Law | 0 | 1| 
-| 20200819T01:34:40Z | Exploit Database binary exploits located in the /sploits directory | https://github.com/offensive-security/exploitdb-bin-sploits | 1284 | 456| 
-| 20200819T01:15:24Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 6973 | 1114| 
-| 20200819T01:06:35Z | Null | https://github.com/quentin452/Cats-Exploitz-HUB | 0 | 1| 
-| 20200819T01:01:27Z | Synful - Synful is a very powerful exploit with many functions and features for use, no key system, and free to use! Why not try it?  | https://github.com/EntityObscure-net/SynfulProjects | 0 | 0| 
-| 20200819T00:42:06Z | PlayStation 2 DVD Player Exploit | https://github.com/CTurt/FreeDVDBoot | 1257 | 89| 
-| 20200818T23:48:59Z | i was bored | https://github.com/Toluhunter/exploit | 0 | 0| 
-| 20200818T23:34:55Z | Exploit developers | https://github.com/NemsploitsTM/Nem-AtKn-SPloits_TM | 0 | 0| 
+| 20200819T11:35:20Z | My exploits for challenges on pwnable.tw | https://github.com/AravGarg/pwnable.tw | 0 | 0| 
+| 20200819T11:25:25Z | Denoising framework for SAR images (Synthetic Aperture Radar) based on the FFDNet. Final project of MVA course %Remote sensing data: from sensor to large-scale geospatial data exploitation% | https://github.com/MathieuRita/SAR_denoising | 1 | 0| 
+| 20200819T11:20:20Z | Exploit tool samples | https://github.com/devilsastry/Samples | 0 | 0| 
+| 20200819T11:12:59Z | Command injection 0-day exploits for r00ntu%s vulnerable APIs | https://github.com/0xchecksum/CTW-Auth-API-0day | 2 | 1| 
+| 20200819T10:58:13Z | ROBLOX Hacks - Exploits - Scripts | https://github.com/AdenSTUDIO/ROBLOX_Hacks-Exploits-Scripts | 0 | 0| 
+| 20200819T10:52:49Z | History of my exploits | https://github.com/Ordered-Chaos/Pwnfolio | 0 | 0| 
+| 20200819T09:54:47Z | Roblox exploit. Only Lua C | https://github.com/CovERUshKA/Roblox-Exploit | 0 | 1| 
+| 20200819T09:47:29Z | This thesis investigates the relationship between employee sentiment, proxied by Glassdoor reviews and ratings, and excessive returns on corresponding bonds. While sentiment analysis is well studied for probing into how companies are perceived by investors or the general public, it is a novel idea to exploit sentiment of employees, which enables us to capture very important information for assessing companies% governance. Although a few studies scrutinising the relation employee sentiment and future stock returns have already appeared, this is the first attempt, to the best of my knowledge, to place this analysis to the universe of corporate bonds. | https://github.com/stancld/MSc-Project | 0 | 0| 
+| 20200819T09:03:30Z | Root shell exploit for several Xiaomi routers: 4A Gigabit, 4A 100M, 4C, 3Gv2, 4Q, miWifi 3C... | https://github.com/acecilia/OpenWRTInvasion | 155 | 30| 
+| 20200819T09:01:29Z | More Stable Offline Exploit version of PS4 6.72 Jailbreak. | https://github.com/DarkModderVC/PS4JB | 61 | 23| 
 
 
 # backdoor on Github 推荐
