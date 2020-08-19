@@ -12,6 +12,8 @@
 | 20200818 | 新型MacOS恶意软件完整分析报告 | https://documents.trendmicro.com/assets/pdf/XCSSET_Technical_Brief.pdf| 
 | 20200818 | WebSphere CVE-2020-4450 反序列化远程代码执行漏洞深度分析 | http://blog.topsec.com.cn/websphere-cve-2020-4450-%e5%8f%8d%e5%ba%8f%e5%88%97%e5%8c%96%e8%bf%9c%e7%a8%8b%e4%bb%a3%e7%a0%81%e6%89%a7%e8%a1%8c%e6%bc%8f%e6%b4%9e%e6%b7%b1%e5%ba%a6%e5%88%86%e6%9e%90/| 
 | 20200818 | GitHub 出现 Apache Struts 2 漏洞 PoC | https://threatpost.com/poc-exploit-github-apache-struts/158393/| 
+| 20200818 | 以太坊安全之 EVM与短地址攻击。 | http://paper.seebug.org/1296/| 
+| 20200818 | 破解三星的固件,并将S8 / S9 / S10型号手机DIY成Proxmark开源的RFID安全研究工具。 | https://www.pentestpartners.com/security-blog/breaking-samsung-firmware-or-turning-your-s8-s9-s10-into-a-diy-proxmark/| 
 | 20200817 | 将VMProtect虚拟化为优化的VTIL并编译回x64项目 | https://github.com/can1357/NoVmp| 
 | 20200817 | SassyKitdi：内核模式TCP套接字+ LSASS转储。 | https://zerosum0x0.blogspot.com/2020/08/sassykitdi-kernel-mode-tcp-sockets.html| 
 | 20200817 | 了解与防止LDAP恶意注入安全研究。 | https://www.securecoding.com/understanding-and-preventing-ldap-injection/| 
@@ -24,8 +26,6 @@
 | 20200814 | 实时检测 4G 伪基站 | https://i.blackhat.com/USA-20/Wednesday/us-20-Quintin-Detecting-Fake-4G-Base-Stations-In-Real-Time.pdf| 
 | 20200814 | 将要发布的 Chome 86 版本将改进地址栏显示 URL 的方式，以防御地址栏欺骗 | https://blog.chromium.org/2020/08/helping-people-spot-spoofs-url.html?m=1| 
 | 20200814 | 无需 root 和重打包，将 App 安装到克隆 App 内实现动态分析 | https://github.com/darvincisec/VirtualDynamicAnalysis| 
-| 20200814 | Kibana CVE-2019-7609 RCE Exploit 代码 | https://github.com/kisec/CVE-2019-7609?fbclid=IwAR02m1XrcGDleYn8KzrjBRuIFNXzwJumhrYi2n7zSFeq9fvPk39FxPyAyWY| 
-| 20200814 | 利用固件模拟的技术实现针对蓝牙模块的无线 Fuzz | https://www.usenix.org/conference/usenixsecurity20/presentation/ruge| 
 
 
 # 安全维基 推荐
@@ -35,27 +35,27 @@
 | 20200818 | 半自动化冰蝎流量分析的实践 | https://mp.weixin.qq.com/s/w40qI2iPNLx9GjgkYRyhpg| 
 | 20200818 | 哥斯拉Godzilla shell管理工具 | https://mp.weixin.qq.com/s/_4ACLzaImDMQbZWfhSHnwg| 
 | 20200818 | FAQs on Getting Started in Cyber Threat Intelligence | https://medium.com/katies-five-cents/faqs-on-getting-started-in-cyber-threat-intelligence-f567f267348e| 
+| 20200818 | 物联网安全之MQTT协议安全 | https://bacde.me/post/mqtt-security-part-one/| 
 | 20200817 | CodeQL 若干问题思考及 CVE-2019-3560 审计详解 | https://lenny233.github.io/2020/02/20/codql-and-cve-2019-3560/| 
 | 20200817 | PHPCMS V9 前台RCE挖掘分析 | https://mp.weixin.qq.com/s/zLXJtekT9O3OuzwBLigMsA| 
 | 20200817 | OpenSA: 运维自动化平台 | https://github.com/latentgod/OpenSA| 
 | 20200817 | 写给技术创业者的创业思考框架 | https://zhuanlan.zhihu.com/p/84058442| 
 | 20200817 | 软件源码安全攻防之道（上） | https://mp.weixin.qq.com/s/jb3VQyK3U6BQS0-0ad0K_w| 
-| 20200817 | JSP Webshell那些事 -- 攻击篇(下) | https://mp.weixin.qq.com/s/YhiOHWnqXVqvLNH7XSxC9w| 
 
 
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20200818T11:26:50Z | cve-2020-1337 | poc for CVE-2020-1337 (Windows Print Spooler Elevation of Privilege) | https://github.com/sailay1996/cve-2020-1337-poc | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  09 HOURS 59 MINUTES 54 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200818T02:55:36Z | 未知编号 | CVE Data Analysis, CVE Monitor, CVE EXP Prediction Based on Deep Learning. 1999-2020年存量CVE数据分析、监控CVE增量更新、基于深度学习的CVE EXP预测和自动化推送 | https://github.com/404notf0und/CVE-Flow | 未查询到CVE信息| 
-| 20200817T19:13:38Z | CVE-2020-0041 | Null | https://github.com/j4nn/CVE-2020-0041 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  09 HOURS 59 MINUTES 51 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200817T16:49:37Z | CVE-2020-1350 | NSE scripts to detect CVE-2020-1350 SIGRED and CVE-2020-0796 SMBGHOST | https://github.com/psc4re/NSE-scripts | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  09 HOURS 59 MINUTES 45 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200817T14:30:08Z | CVE-2020-0688 | [CVE-2020-0688] Microsoft Exchange Server Fixed Cryptographic Key Remote Code Execution (RCE) | https://github.com/murataydemir/CVE-2020-0688 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 00 MINUTES 04 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200817T13:30:06Z | CVE-2020-6519 | Null | https://github.com/PerimeterX/CVE-2020-6519 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  09 HOURS 59 MINUTES 50 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200818T23:36:43Z | CVE-2020-0041 | Null | https://github.com/j4nn/CVE-2020-0041 | 在binder.c的binder_transaction中，由于不正确的边界检查，可能存在越界写入。这可以导致特权的本地升级，而无需其他执行特权。开发不需要用户交互。产品：Android版本：Android内核Android ID：A-145988638参考：上游内核| 
+| 20200818T17:32:02Z | 未知编号 | CVE Data Analysis, CVE Monitor, CVE EXP Prediction Based on Deep Learning. 1999-2020年存量CVE数据分析、监控CVE增量更新、基于深度学习的CVE EXP预测和自动化推送 | https://github.com/404notf0und/CVE-Flow | 未查询到CVE信息| 
+| 20200818T16:25:19Z | CVE-2020-9496 | Null | https://github.com/dwisiswant0/CVE-2020-9496 | XML-RPC请求容易受到Apache OFBiz 17.12.03中不安全的反序列化和跨站点脚本问题的攻击| 
+| 20200818T15:49:45Z | cve-2020-1337 | poc for CVE-2020-1337 (Windows Print Spooler Elevation of Privilege) | https://github.com/sailay1996/cve-2020-1337-poc | 当 Windows 打印后台服务器服务不正确地允许任意写入文件系统（也称为%Windows 打印后台脱机特权漏洞提升%）时，存在特权提升漏洞。| 
+| 20200818T15:04:33Z | cve-2020-5902 | Null | https://github.com/superzerosec/cve-2020-5902 | 在BIG-IP版本15.0.0-15.1.0.3、14.1.0-14.1.2.5、13.1.0-13.1.3.3、12.1.0-12.1.5.1和11.6.1-11.6.5.1中，流量管理用户接口（TMUI），也称为“配置”实用程序，在未公开的页面中具有远程执行代码（RCE）漏洞。| 
+| 20200817T16:49:37Z | CVE-2020-1350 | NSE scripts to detect CVE-2020-1350 SIGRED and CVE-2020-0796 SMBGHOST | https://github.com/psc4re/NSE-scripts | 当Windows域名系统服务器无法正确处理请求（也称为“ Windows DNS服务器远程代码执行漏洞”）时，存在一个远程执行代码漏洞。| 
+| 20200817T14:30:08Z | CVE-2020-0688 | [CVE-2020-0688] Microsoft Exchange Server Fixed Cryptographic Key Remote Code Execution (RCE) | https://github.com/murataydemir/CVE-2020-0688 | 当Microsoft Exchange软件无法正确处理内存中的对象（也称为“ Microsoft Exchange内存损坏漏洞”）时，将存在一个远程执行代码漏洞。| 
+| 20200817T13:30:06Z | CVE-2020-6519 | Null | https://github.com/PerimeterX/CVE-2020-6519 | 在84.0.4147.89之前的Google Chrome中，CSP中的策略绕行允许远程攻击者通过精心制作的HTML页面绕过内容安全策略。| 
 | 20200817T07:43:44Z | CVE-2020-1 | Telia Technicolor TG389ac v.17.1.7992 Samba privilege escalation exploit | https://github.com/full-disclosure/FDEU-CVE-2020-1FC5 | 未查询到CVE信息| 
-| 20200817T02:10:19Z | CVE-2020-1337 | CVE-2020-1048 bypass: binary planting PoC | https://github.com/neofito/CVE-2020-1337 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  09 HOURS 59 MINUTES 53 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200816T15:40:02Z | CVE-2020-9496 | Null | https://github.com/dwisiswant0/CVE-2020-9496 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 00 MINUTES 03 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200816T09:37:06Z | 未知编号 | A local privilege escalation chain from user to kernel for MacOS < 10.15.5. CVE-2020–9854 | https://github.com/A2nkF/unauthd | 未查询到CVE信息| 
+| 20200817T02:10:19Z | CVE-2020-1337 | CVE-2020-1048 bypass: binary planting PoC | https://github.com/neofito/CVE-2020-1337 | 当 Windows 打印后台服务器服务不正确地允许任意写入文件系统（也称为%Windows 打印后台脱机特权漏洞提升%）时，存在特权提升漏洞。| 
 
 
 # klee on Github 推荐
@@ -88,46 +88,46 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20200818T13:00:00Z | PS4 browser based exploits repo | https://github.com/NFSS10/PS4-Jailbreak | 0 | 0| 
-| 20200818T12:57:16Z | On-line Trading of Exploration and Exploitation 2011 Proceedings | https://github.com/mlresearch/v26 | 0 | 0| 
-| 20200818T12:50:01Z | Null | https://github.com/purplewall1206/EXPLOIT-practice | 0 | 0| 
-| 20200818T12:47:59Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 3 | 2| 
-| 20200818T12:46:06Z | Null | https://github.com/quentin452/Cats-Exploitz-HUB | 0 | 1| 
-| 20200818T12:40:49Z | Blog! | https://github.com/nonetype/nonetype.github.io | 0 | 0| 
-| 20200818T12:36:31Z | Fast jacobian computation through sparsity exploitation and matrix coloring | https://github.com/JuliaDiff/SparseDiffTools.jl | 78 | 13| 
-| 20200818T12:35:13Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 6964 | 1111| 
-| 20200818T12:10:20Z | The official Exploit Database repository | https://github.com/offensive-security/exploitdb | 5467 | 1572| 
-| 20200818T10:40:53Z | Custom version of the original Overthrow.  Bugs squashed and squashing, exploits punishable by death, new businesses plus much more, oh and high steriod use by the AI ;) Discord link  https://discord.gg/ZdMMq9x | https://github.com/GerhartPapaGee/Overthrow-Martial-Law | 0 | 1| 
+| 20200818T23:48:59Z | i was bored | https://github.com/Toluhunter/exploit | 0 | 0| 
+| 20200818T23:34:55Z | Exploit developers | https://github.com/NemsploitsTM/Nem-AtKn-SPloits_TM | 0 | 0| 
+| 20200818T23:28:07Z | A Roblox Exploit Script | https://github.com/lavacastred/lavacast | 0 | 0| 
+| 20200818T23:21:54Z | Extensible framework for analyzing publicly available information about vulnerabilities | https://github.com/leonov-av/vulristics | 7 | 0| 
+| 20200818T22:42:15Z | Some tools to do stuff | https://github.com/Hynec/Rbx-Exploiting | 0 | 0| 
+| 20200818T22:06:38Z | Synful - Synful is a very powerful exploit with many functions and features for use, no key system, and free to use! Why not try it?  | https://github.com/EntityObscure-net/SynfulProjects | 0 | 0| 
+| 20200818T22:04:36Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 6972 | 1114| 
+| 20200818T21:56:27Z | Null | https://github.com/quentin452/Cats-Exploitz-HUB | 0 | 1| 
+| 20200818T21:50:23Z | Null | https://github.com/guttir14/dead-by-daylight-exploits | 0 | 0| 
+| 20200818T21:32:06Z | Build a database of libc offsets to simplify exploitation | https://github.com/niklasb/libc-database | 987 | 171| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20200818T23:48:03Z | Simples criador de RAT (Remote Acess Trojan) / Backdoor. Base: Metasploit-Framework | https://github.com/LightHades/RatCreator | 1 | 0| 
+| 20200818T23:45:14Z | Null | https://github.com/yakup126/backdoor | 0 | 0| 
+| 20200818T23:40:50Z | Hacking tools pack & backdoors generator. | https://github.com/AdrMXR/KitHack | 124 | 30| 
+| 20200818T21:45:28Z | Null | https://github.com/drycko/python_backdoor | 0 | 0| 
+| 20200818T17:58:37Z | Pupy is an opensource, cross-platform (Windows, Linux, OSX, Android) remote administration and post-exploitation tool mainly written in python | https://github.com/n1nj4sec/pupy | 5739 | 1503| 
+| 20200818T16:04:01Z | VySecator Is a Python Script Obfuscation Tool, Which can be used to Obfuscate your hand written Malwares and your Hand Written Scripts! | https://github.com/Vedant-Bhalgama/VySecator | 22 | 2| 
+| 20200818T15:25:17Z | Backdoor Shell | https://github.com/kaitolegion/Backdoor | 1 | 4| 
 | 20200818T09:59:50Z | Repository for all the code related to Learn Python & Ethical Hacking From Scratch course. All the work is done on Kali Linux, using both Python 2.7 and 3.x version. | https://github.com/Maffey/ethical-hacking-course | 0 | 0| 
-| 20200818T07:53:33Z | VySecator Is a Python Script Obfuscation Tool, Which can be used to Obfuscate your hand written Malwares and your Hand Written Scripts! | https://github.com/Vedant-Bhalgama/VySecator | 20 | 2| 
 | 20200818T06:59:34Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 49 | 6| 
-| 20200818T02:28:03Z | Pupy is an opensource, cross-platform (Windows, Linux, OSX, Android) remote administration and post-exploitation tool mainly written in python | https://github.com/n1nj4sec/pupy | 5737 | 1503| 
-| 20200817T20:40:08Z | Simples criador de RAT (Remote Acess Trojan) / Backdoor. Base: Metasploit-Framework | https://github.com/LightHades/RatCreator | 1 | 0| 
 | 20200817T15:10:35Z | Is a script for Skript plugin in Minecraft which sends the password, player nickname and IP address to HTTP server. | https://github.com/piotrbednarski-hub/minecraft-backdoor | 0 | 0| 
-| 20200817T13:31:12Z | Hacking tools pack & backdoors generator. | https://github.com/AdrMXR/KitHack | 122 | 30| 
-| 20200817T11:43:08Z | is Backdoor Crypter & Creator with Automatic IP Poisener. | https://github.com/yezz123/SpyDroid | 2 | 0| 
-| 20200817T11:38:30Z | Spigot 1.16.1 backdoor | https://github.com/Apmunute/spigot-backdoor | 1 | 1| 
-| 20200817T07:39:27Z | A Multi-Function backdoor application based on TCP Reverse Shell | https://github.com/HalukShan/HitDA | 7 | 0| 
 
 
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20200818T13:00:33Z | A JavaScript Engine Fuzzer | https://github.com/googleprojectzero/fuzzilli | 1004 | 163| 
-| 20200818T12:58:50Z | Fuzzy search a Jira project to quickly identify issues and open them in a web browser | https://github.com/DamonBaker/fuzzy-jira | 1 | 0| 
-| 20200818T12:54:36Z | A differential fuzzer for x86 decoders | https://github.com/trailofbits/mishegos | 103 | 15| 
-| 20200818T12:48:26Z | OSS-Fuzz - continuous fuzzing of open source software. | https://github.com/google/oss-fuzz | 5485 | 1072| 
-| 20200818T12:38:57Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 26335 | 12778| 
-| 20200818T12:38:30Z | Null | https://github.com/dNataly/fuzzy-succotash | 0 | 0| 
-| 20200818T12:29:08Z | Docker registry UI made with love | https://github.com/Tchoupinax/fuzzy-engine | 8 | 0| 
-| 20200818T12:18:43Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 3099 | 710| 
-| 20200818T12:00:32Z | Null | https://github.com/Nexucis/fuzzy | 1 | 0| 
-| 20200818T11:59:37Z | Null | https://github.com/darmariduan/fuzzy-sugeno | 1 | 1| 
+| 20200818T23:14:05Z | FuzzyKnights: Protectors of the Forst - 16bit Adventure | https://github.com/mjnrock/fuzzyknights-arcade | 0 | 0| 
+| 20200818T22:23:03Z | OSS-Fuzz - continuous fuzzing of open source software. | https://github.com/google/oss-fuzz | 5486 | 1073| 
+| 20200818T22:17:13Z | An university COiTB project using Spark as base for Fuzzy SQL operations. | https://github.com/mateher624/SparkFuzzySQL | 0 | 0| 
+| 20200818T21:14:44Z | Fuzzy Clustering of Uncertain Data Streams in Distributed Data Processing Systems | https://github.com/Kirkirillka/FuzzyClusteringOnUncertainDataStream | 0 | 0| 
+| 20200818T21:08:38Z | Null | https://github.com/r-2007/Fuzzing-DTLS | 0 | 0| 
+| 20200818T21:05:54Z | Null | https://github.com/Abrahim09/fuzzy-waffle | 0 | 0| 
+| 20200818T21:03:21Z | Null | https://github.com/HharoldShi/ECE653-Fuzzing | 0 | 0| 
+| 20200818T20:57:49Z | Null | https://github.com/Abrahim09/fuzzy-engine | 0 | 0| 
+| 20200818T20:24:00Z | FuzzBench - Fuzzer benchmarking as a service. | https://github.com/google/fuzzbench | 507 | 74| 
+| 20200818T20:22:04Z | Library for structured fuzzing with protobuffers | https://github.com/google/libprotobuf-mutator | 272 | 61| 
 
 
 
