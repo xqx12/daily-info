@@ -67,18 +67,27 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20200819T11:44:30Z | Pupy is an opensource, cross-platform (Windows, Linux, OSX, Android) remote administration and post-exploitation tool mainly written in python | https://github.com/n1nj4sec/pupy | 5741 | 1503| 
+| 20200819T10:50:51Z | adding a backdooruser using win32api | https://github.com/jfmaes/Backdoorplz | 0 | 0| 
+| 20200819T09:12:04Z | Hacking tools pack & backdoors generator. | https://github.com/AdrMXR/KitHack | 125 | 30| 
+| 20200819T08:01:17Z | Null | https://github.com/narasimha-swamy/python-backdoor | 0 | 0| 
+| 20200819T07:45:26Z | VySecator Is a Python Script Obfuscation Tool, Which can be used to Obfuscate your hand written Malwares and your Hand Written Scripts! | https://github.com/Vedant-Bhalgama/VySecator | 22 | 2| 
 | 20200819T01:42:29Z | Simples criador de RAT (Remote Acess Trojan) / Backdoor. Base: Metasploit-Framework | https://github.com/LightHades/RatCreator | 1 | 0| 
 
 
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20200819T02:13:44Z | Scalable fuzzing infrastructure. | https://github.com/google/clusterfuzz | 4296 | 384| 
-| 20200819T01:54:40Z | OSS-Fuzz - continuous fuzzing of open source software. | https://github.com/google/oss-fuzz | 5487 | 1073| 
-| 20200819T01:50:38Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 3099 | 710| 
-| 20200819T01:47:18Z | Web application fuzzer | https://github.com/xmendez/wfuzz | 3038 | 763| 
-| 20200819T00:58:41Z | FuzzBench - Fuzzer benchmarking as a service. | https://github.com/google/fuzzbench | 507 | 74| 
-| 20200819T00:36:54Z | FuzzyKnights: Protectors of the Forst - 16bit Adventure | https://github.com/mjnrock/fuzzyknights-arcade | 0 | 0| 
+| 20200819T11:57:27Z | Bug Bounty Collection | https://github.com/themastersunil/Fuzzing | 0 | 0| 
+| 20200819T11:28:39Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 3100 | 711| 
+| 20200819T11:04:29Z | WIP A Front-End for Fuzzy Finder Applications | https://github.com/10sr/fuzzy-finder-el | 0 | 0| 
+| 20200819T10:55:15Z | Source code for the paper %Fuzzy Gaussian mixture optimization of the newsvendor problem: mixing online reviews and judgemental demand data%, by F. Fathizadeh, Y. Rekik, J. Savinien | https://github.com/savinien/Fuzzy-Newsvendor-paper | 0 | 0| 
+| 20200819T10:52:54Z | Null | https://github.com/FhadilahIL/fuzzy_php | 0 | 0| 
+| 20200819T10:49:54Z | Research project on Software Technology for WebAssembly WASM (on superoptimization, diversification, fuzzing) | https://github.com/KTH/slumps | 14 | 4| 
+| 20200819T10:26:51Z | No idea what I%m doing | https://github.com/klecko/fuzz | 1 | 0| 
+| 20200819T10:19:04Z | FuZzY Repository | https://github.com/rico1995/fuzzyrepo | 0 | 0| 
+| 20200819T10:02:57Z | Null | https://github.com/zdy226/Fuzz-node-analyse | 0 | 0| 
+| 20200819T09:43:06Z | Scalable fuzzing infrastructure. | https://github.com/google/clusterfuzz | 4297 | 384| 
 
 
 
