@@ -46,15 +46,15 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20200819T10:39:52Z | cve-2020-1337 | poc for CVE-2020-1337 (Windows Print Spooler Elevation of Privilege) | https://github.com/sailay1996/cve-2020-1337-poc | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 41 MINUTES 20 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200819T09:31:18Z | CVE-2020-0688 | [CVE-2020-0688] Microsoft Exchange Server Fixed Cryptographic Key Remote Code Execution (RCE) | https://github.com/murataydemir/CVE-2020-0688 | | 
+| 20200819T10:39:52Z | cve-2020-1337 | poc for CVE-2020-1337 (Windows Print Spooler Elevation of Privilege) | https://github.com/sailay1996/cve-2020-1337-poc | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 39 MINUTES 19 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200819T09:31:18Z | CVE-2020-0688 | [CVE-2020-0688] Microsoft Exchange Server Fixed Cryptographic Key Remote Code Execution (RCE) | https://github.com/murataydemir/CVE-2020-0688 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 38 MINUTES 32 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20200819T09:15:33Z | CVE-2020-2883 | WebLogic利用CVE-2020-2883打Shiro rememberMe反序列化漏洞，一键注册filter内存shell | https://github.com/Y4er/WebLogic-Shiro-shell | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
 | 20200819T05:13:01Z | 未知编号 | CVE Data Analysis, CVE Monitor, CVE EXP Prediction Based on Deep Learning. 1999-2020年存量CVE数据分析、监控CVE增量更新、基于深度学习的CVE EXP预测和自动化推送 | https://github.com/404notf0und/CVE-Flow | 未查询到CVE信息| 
-| 20200818T23:36:43Z | CVE-2020-0041 | Null | https://github.com/j4nn/CVE-2020-0041 | | 
-| 20200818T16:25:19Z | CVE-2020-9496 | Null | https://github.com/dwisiswant0/CVE-2020-9496 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 41 MINUTES 30 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200818T15:04:33Z | cve-2020-5902 | Null | https://github.com/superzerosec/cve-2020-5902 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 41 MINUTES 31 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200817T16:49:37Z | CVE-2020-1350 | NSE scripts to detect CVE-2020-1350 SIGRED and CVE-2020-0796 SMBGHOST | https://github.com/psc4re/NSE-scripts | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 41 MINUTES 14 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200817T13:30:06Z | CVE-2020-6519 | Null | https://github.com/PerimeterX/CVE-2020-6519 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 41 MINUTES 19 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200818T23:36:43Z | CVE-2020-0041 | Null | https://github.com/j4nn/CVE-2020-0041 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 39 MINUTES 18 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200818T16:25:19Z | CVE-2020-9496 | Null | https://github.com/dwisiswant0/CVE-2020-9496 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 38 MINUTES 31 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200818T15:04:33Z | cve-2020-5902 | Null | https://github.com/superzerosec/cve-2020-5902 | | 
+| 20200817T16:49:37Z | CVE-2020-1350 | NSE scripts to detect CVE-2020-1350 SIGRED and CVE-2020-0796 SMBGHOST | https://github.com/psc4re/NSE-scripts | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 39 MINUTES 12 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200817T13:30:06Z | CVE-2020-6519 | Null | https://github.com/PerimeterX/CVE-2020-6519 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 39 MINUTES 16 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20200817T07:43:44Z | CVE-2020-1 | Telia Technicolor TG389ac v.17.1.7992 Samba privilege escalation exploit | https://github.com/full-disclosure/FDEU-CVE-2020-1FC5 | 未查询到CVE信息| 
 
 
@@ -103,11 +103,11 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20200819T12:19:42Z | VySecator Is a Python Script Obfuscation Tool, Which can be used to Obfuscate your hand written Malwares and your Hand Written Scripts! | https://github.com/Vedant-Bhalgama/VySecator | 22 | 2| 
 | 20200819T11:44:30Z | Pupy is an opensource, cross-platform (Windows, Linux, OSX, Android) remote administration and post-exploitation tool mainly written in python | https://github.com/n1nj4sec/pupy | 5741 | 1503| 
 | 20200819T10:50:51Z | adding a backdooruser using win32api | https://github.com/jfmaes/Backdoorplz | 0 | 0| 
 | 20200819T09:12:04Z | Hacking tools pack & backdoors generator. | https://github.com/AdrMXR/KitHack | 125 | 30| 
 | 20200819T08:01:17Z | Null | https://github.com/narasimha-swamy/python-backdoor | 0 | 0| 
-| 20200819T07:45:26Z | VySecator Is a Python Script Obfuscation Tool, Which can be used to Obfuscate your hand written Malwares and your Hand Written Scripts! | https://github.com/Vedant-Bhalgama/VySecator | 22 | 2| 
 | 20200819T01:42:29Z | Simples criador de RAT (Remote Acess Trojan) / Backdoor. Base: Metasploit-Framework | https://github.com/LightHades/RatCreator | 1 | 0| 
 | 20200818T23:45:14Z | Null | https://github.com/yakup126/backdoor | 0 | 0| 
 | 20200818T21:45:28Z | Null | https://github.com/drycko/python_backdoor | 0 | 0| 
