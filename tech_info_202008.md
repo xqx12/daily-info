@@ -17,6 +17,8 @@
 | 20200820 | Chrome 浏览器将在 86 版本对 HTTPS 站点的表单提交 HTTP 链接发出警告 | https://blog.chromium.org/2020/08/protecting-google-chrome-users-from.html| 
 | 20200820 | Horde Groupware Webmail 代码审计与 RCE 漏洞分析 | https://sec.today/pulses/3c945659-a732-4034-a365-58c19a7574e3/| 
 | 20200820 | Apache Struts2 使用某些标签时会造成 OGNL 表达式执行(S2-059 漏洞分析) | https://sec.today/pulses/1bf6aabb-eb00-4c64-90e0-b712a534ce9d/| 
+| 20200820 | Horde Groupware Webmail 代码审计与 RCE 漏洞分析 | https://srcincite.io/blog/2020/08/19/a-smorgashorde-of-vulnerabilities-a-comparative-analysis-of-discovery.html| 
+| 20200820 | Apache Struts2 使用某些标签时会造成 OGNL 表达式执行(S2-059 漏洞分析) | http://blog.topsec.com.cn/struts2-s2-059-%e6%bc%8f%e6%b4%9e%e5%88%86%e6%9e%90/| 
 | 20200819 | Linux内核运行时防护（LKRG）会议演示文稿。 | https://www.openwall.com/presentations/OSTconf2020-LKRG-In-A-Nutshell/| 
 | 20200819 | OWASP ZAP版本发布：用于测试Web应用程序中漏洞的渗透测试工具。 | https://securityonline.info/owasp-zap-web-app-pentest-tool/| 
 | 20200819 | Awesome CobaltStrike | https://github.com/zer0yu/Awesome-CobaltStrike| 
@@ -24,8 +26,6 @@
 | 20200819 | 用于自动化收集渗透测试所需信息的平台 | https://github.com/yogeshojha/rengine| 
 | 20200819 | Radare2 插件，用于将 RetDec 反汇编工具集成进 Radare2 | https://github.com/avast/retdec-r2plugin| 
 | 20200819 | Cisco 7937G 设备 CVE-2020-16139/16138/16137 漏洞一键攻击代码 | https://packetstormsecurity.com/files/158817| 
-| 20200819 | Fuzzer 性能的评估以及评估过程的可视化 | https://hexgolems.com/2020/08/on-measuring-and-visualizing-fuzzer-performance/| 
-| 20200819 | Samsung Qmage MMS Exploit (CVE-2020-8899) | https://github.com/googleprojectzero/SkCodecFuzzer/tree/master/mms_exploit| 
 
 
 # 安全维基 推荐
@@ -88,16 +88,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20200820T01:42:15Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 4 | 2| 
-| 20200820T01:40:37Z | exploit-database-papers | https://github.com/offensive-security/exploitdb-papers | 235 | 25| 
-| 20200820T01:39:54Z | A phased, evasive Path Traversal + LFI scanning & exploitation tool in Python | https://github.com/VainlyStrain/Vailyn | 33 | 0| 
-| 20200820T00:48:06Z | this bash script let you download scripts and clone repos for remote exploits | https://github.com/FabioDefilippo/linuxallremote | 4 | 0| 
-| 20200820T00:32:39Z | Null | https://github.com/Kahvi-0/Vulnerabilities-and-Exploitations | 1 | 1| 
-| 20200820T00:30:28Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 6986 | 1119| 
-| 20200819T23:57:35Z | Null | https://github.com/TheMolb/YT-Exploit | 0 | 0| 
-| 20200819T23:54:06Z | Build a database of libc offsets to simplify exploitation | https://github.com/niklasb/libc-database | 988 | 171| 
-| 20200819T22:38:27Z | Null | https://github.com/quentin452/Cats-Exploitz-HUB | 0 | 1| 
-| 20200819T22:34:47Z | Tools and exploits by WhiteWizard | https://github.com/MrMindKeeper/tcpf | 1 | 0| 
+| 20200820T11:50:30Z | *Frequently Updated. Sifter is a osint, recon & vulnerability scanner. It combines a plethara of tools within different module sets in order to quickly perform recon tasks, check network firewalling, enumerate remote and local hosts, and scan for the %blue% vulnerabilities within microsft and if unpatched, exploit them.  It uses tools like blackwidow and konan for webdir enumeration and attack surface mapping rapidly using ASM.  | https://github.com/s1l3nt78/sifter | 226 | 73| 
+| 20200820T11:49:23Z | A repository for learning various heap exploitation techniques. | https://github.com/shellphish/how2heap | 3910 | 821| 
+| 20200820T11:30:42Z | This thesis investigates the relationship between employee sentiment, proxied by Glassdoor reviews and ratings, and excessive returns on corresponding bonds. While sentiment analysis is well studied for probing into how companies are perceived by investors or the general public, it is a novel idea to exploit sentiment of employees, which enables us to capture very important information for assessing companies% governance. Although a few studies scrutinising the relation employee sentiment and future stock returns have already appeared, this is the first attempt, to the best of my knowledge, to place this analysis to the universe of corporate bonds. | https://github.com/stancld/MSc-Project | 0 | 0| 
+| 20200820T11:04:48Z | Null | https://github.com/hawkwheels/Exploit_scripts | 0 | 0| 
+| 20200820T11:02:06Z | A website which combines useful links for gfn-exploiting. | https://github.com/helmutrocco13/helmutrocco13.github.io | 0 | 0| 
+| 20200820T10:53:22Z | this bash script let you download scripts and clone repos for remote exploits | https://github.com/FabioDefilippo/linuxallremote | 4 | 0| 
+| 20200820T10:42:48Z | A proxy aware C2 framework used to aid red teamers with post-exploitation and lateral movement. | https://github.com/nettitude/PoshC2 | 509 | 134| 
+| 20200820T10:30:48Z | Build a database of libc offsets to simplify exploitation | https://github.com/niklasb/libc-database | 988 | 171| 
+| 20200820T10:21:41Z | A website I created for my fathers 60th birthday. Full of photoshopped images of his triumphs and a poem about his exploits. | https://github.com/monolithprod/pageforfather | 0 | 0| 
+| 20200820T10:04:51Z | windows 提权漏洞利用合集，利用脚本都已经生成可执行文件 | https://github.com/Ascotbe/WindowsKernelExploits | 3 | 2| 
 
 
 # backdoor on Github 推荐
