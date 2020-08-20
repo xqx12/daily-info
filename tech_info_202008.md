@@ -6,6 +6,17 @@
 # 玄武实验室 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20200820 | Issue 2043: Samsung Android heap buffer overflow and other issues in the Skia Qmage image codec (fuzzing iteration #2) | https://bugs.chromium.org/p/project-zero/issues/detail?id=2043| 
+| 20200820 | Issue 2042: PAC and JIT Hardening Bypass in WebKit on iOS | https://bugs.chromium.org/p/project-zero/issues/detail?id=2042| 
+| 20200820 | Issue 2044: PAC bypass due to unprotected function pointer imports | https://bugs.chromium.org/p/project-zero/issues/detail?id=2044| 
+| 20200820 | 运行 OpenLDAP 的 Docker 镜像环境 | https://github.com/osixia/docker-openldap| 
+| 20200820 | Agamotto: Accelerating Kernel Driver Fuzzing with Lightweight Virtual Machine Checkpoints | https://github.com/securesystemslab/agamotto| 
+| 20200820 | GNU libc 三角图形相关实现缓冲区溢出漏洞分析（CVE-2020-10029） | https://securityboulevard.com/2020/08/cve-2020-10029-buffer-overflow-in-gnu-libc-trigonometry-functions/| 
+| 20200820 | RCE in any MS Exchange via Exchange Trusted Subsystem | https://github.com/SecureAuthCorp/impacket/pull/857| 
+| 20200820 | DotNet Core Toolset installer 本地 SYSTEM 提权漏洞分析 | https://itm4n.github.io/dotnet-sdk-eop/| 
+| 20200820 | Chrome 浏览器将在 86 版本对 HTTPS 站点的表单提交 HTTP 链接发出警告 | https://blog.chromium.org/2020/08/protecting-google-chrome-users-from.html| 
+| 20200820 | Horde Groupware Webmail 代码审计与 RCE 漏洞分析 | https://sec.today/pulses/3c945659-a732-4034-a365-58c19a7574e3/| 
+| 20200820 | Apache Struts2 使用某些标签时会造成 OGNL 表达式执行(S2-059 漏洞分析) | https://sec.today/pulses/1bf6aabb-eb00-4c64-90e0-b712a534ce9d/| 
 | 20200819 | Linux内核运行时防护（LKRG）会议演示文稿。 | https://www.openwall.com/presentations/OSTconf2020-LKRG-In-A-Nutshell/| 
 | 20200819 | OWASP ZAP版本发布：用于测试Web应用程序中漏洞的渗透测试工具。 | https://securityonline.info/owasp-zap-web-app-pentest-tool/| 
 | 20200819 | Awesome CobaltStrike | https://github.com/zer0yu/Awesome-CobaltStrike| 
@@ -15,62 +26,51 @@
 | 20200819 | Cisco 7937G 设备 CVE-2020-16139/16138/16137 漏洞一键攻击代码 | https://packetstormsecurity.com/files/158817| 
 | 20200819 | Fuzzer 性能的评估以及评估过程的可视化 | https://hexgolems.com/2020/08/on-measuring-and-visualizing-fuzzer-performance/| 
 | 20200819 | Samsung Qmage MMS Exploit (CVE-2020-8899) | https://github.com/googleprojectzero/SkCodecFuzzer/tree/master/mms_exploit| 
-| 20200819 | 特斯拉 NFC 中继攻击（CVE-2020-15912） | https://sec.today/pulses/7c7a1186-453c-49d2-8e79-8165b3b5a97c/| 
-| 20200819 | EVGA Precision X1 Windows 本地提权漏洞分析（CVE-2020–14979） | https://sec.today/pulses/d80c3bc5-9872-4a76-9920-a2898d313a2c/| 
-| 20200819 | vBulletin Remote Code Execution (CVE-2020-7373) | https://sec.today/pulses/eeba0adc-3eab-4b18-b982-b4fa021da614/| 
-| 20200819 | 利用 Windows 加密实现的问题实现 EXE 证书验证欺骗（CVE-2020–1464） | https://sec.today/pulses/c69915ba-53fb-4e7d-865a-e31aba715f36/| 
-| 20200819 | Hacker101 CTF Android 方向题目的 Writeup | https://sec.today/pulses/d247a5c6-3dbf-418d-a777-4eaa499f7e71/| 
-| 20200819 | QBDI 在白盒加密方向的应用 - Whiteboxes and Collision-Based Attacks With QBDI | https://sec.today/pulses/5b319968-5565-458e-93b4-404f2159eebd/| 
-| 20200819 | 特斯拉 NFC 中继攻击（CVE-2020-15912） | https://www.anquanke.com/post/id/213885| 
-| 20200819 | EVGA Precision X1 Windows 本地提权漏洞分析（CVE-2020–14979） | http://posts.specterops.io/cve-2020-14979-local-privilege-escalation-in-evga-precisionx1-cf63c6b95896| 
-| 20200819 | vBulletin Remote Code Execution (CVE-2020-7373) | https://www.trustwave.com/en-us/resources/blogs/spiderlabs-blog/vbulletin-remote-code-execution-cve-2020-7373/| 
-| 20200819 | 利用 Windows 加密实现的问题实现 EXE 证书验证欺骗（CVE-2020–1464） | https://medium.com/@TalBeerySec/glueball-the-story-of-cve-2020-1464-50091a1f98bd?source=social.tw| 
-| 20200819 | Hacker101 CTF Android 方向题目的 Writeup | https://medium.com/bugbountywriteup/hacker101-ctf-android-challenge-writeups-f830a382c3ce| 
 
 
 # 安全维基 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20200820 | 冰蝎3.0、哥斯拉后门检测 | https://mp.weixin.qq.com/s/GpGubo6CRL9OOEumkyL29A| 
+| 20200820 | 利用 ZoomEye 追踪多种 Redteam C&C 后渗透攻击框架 | https://mp.weixin.qq.com/s/H66J0ab8UAyVrxRb1RLO4g| 
+| 20200820 | 云安全环境下恶意脚本检测的最佳实践 | http://yundunpr.oss-cn-hangzhou.aliyuncs.com/2020/xcon2020.pdf| 
+| 20200820 | 大规模数据安全分类系统架构实践 | https://mp.weixin.qq.com/s/mRmDEuDKJSJ_xrYyBMn4Dw| 
+| 20200820 | Fraudar算法在京东关系网络反欺诈中的应用 | https://mp.weixin.qq.com/s/Qp1Yrlu92LwZ-n4kipq0sw| 
 | 20200819 | DataCon2020 恶意代码分析冠军writeup | https://mp.weixin.qq.com/s/e69Fg9UBX3B2BFiGvsg4Gg| 
 | 20200819 | 2020黑帽大会亮点议题&技术观察 | https://www.secrss.com/articles/24820| 
 | 20200819 | 数据中台：基于标签体系的360°用户画像 | https://mp.weixin.qq.com/s/zIbhQjP9OTIPG9uRr64xtA| 
 | 20200819 | 公安部关于修改《公安机关办理刑事案件程序规定》的决定 | http://www.gov.cn/zhengce/zhengceku/2020-08/16/content_5535125.htm| 
 | 20200818 | 冰蝎3.0简要分析 | https://mp.weixin.qq.com/s/4FeZwDlLdWOjgITdWH1ucQ| 
-| 20200818 | 半自动化冰蝎流量分析的实践 | https://mp.weixin.qq.com/s/w40qI2iPNLx9GjgkYRyhpg| 
-| 20200818 | 哥斯拉Godzilla shell管理工具 | https://mp.weixin.qq.com/s/_4ACLzaImDMQbZWfhSHnwg| 
-| 20200818 | FAQs on Getting Started in Cyber Threat Intelligence | https://medium.com/katies-five-cents/faqs-on-getting-started-in-cyber-threat-intelligence-f567f267348e| 
-| 20200818 | 物联网安全之MQTT协议安全 | https://bacde.me/post/mqtt-security-part-one/| 
-| 20200817 | CodeQL 若干问题思考及 CVE-2019-3560 审计详解 | https://lenny233.github.io/2020/02/20/codql-and-cve-2019-3560/| 
 
 
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20200820T01:55:40Z | CVE-2020-2883 | WebLogic利用CVE-2020-2883打Shiro rememberMe反序列化漏洞，一键注册filter内存shell | https://github.com/Y4er/WebLogic-Shiro-shell | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
-| 20200819T17:51:51Z | CVE-2020-0688 | [CVE-2020-0688] Microsoft Exchange Server Fixed Cryptographic Key Remote Code Execution (RCE) | https://github.com/murataydemir/CVE-2020-0688 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 00 MINUTES 25 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200819T14:45:41Z | CVE-2020-0041 | Null | https://github.com/minutesinch/CVE-2020-0041-Original | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 00 MINUTES 29 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200819T14:45:02Z | CVE-2020-0041 | Null | https://github.com/minutesinch/CVE-2020-0041 | | 
+| 20200820T09:02:49Z | cve-2020-1337 | poc for CVE-2020-1337 (Windows Print Spooler Elevation of Privilege) | https://github.com/sailay1996/cve-2020-1337-poc | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 58 MINUTES 16 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200820T08:06:03Z | CVE-2020-2883 | WebLogic利用CVE-2020-2883打Shiro rememberMe反序列化漏洞，一键注册蚁剑filter内存shell | https://github.com/Y4er/WebLogic-Shiro-shell | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
+| 20200819T17:51:51Z | CVE-2020-0688 | [CVE-2020-0688] Microsoft Exchange Server Fixed Cryptographic Key Remote Code Execution (RCE) | https://github.com/murataydemir/CVE-2020-0688 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 58 MINUTES 25 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200819T14:45:41Z | CVE-2020-0041 | Null | https://github.com/minutesinch/CVE-2020-0041-Original | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 58 MINUTES 29 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200819T14:45:02Z | CVE-2020-0041 | Null | https://github.com/minutesinch/CVE-2020-0041 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 58 MINUTES 28 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20200819T14:30:55Z | CVE-2020-1 | Telia Technicolor TG389ac v.17.1.7992 Samba privilege escalation exploit | https://github.com/full-disclosure/FDEU-CVE-2020-1FC5 | 未查询到CVE信息| 
-| 20200819T10:39:52Z | cve-2020-1337 | poc for CVE-2020-1337 (Windows Print Spooler Elevation of Privilege) | https://github.com/sailay1996/cve-2020-1337-poc | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 00 MINUTES 16 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200819T05:13:01Z | 未知编号 | CVE Data Analysis, CVE Monitor, CVE EXP Prediction Based on Deep Learning. 1999-2020年存量CVE数据分析、监控CVE增量更新、基于深度学习的CVE EXP预测和自动化推送 | https://github.com/404notf0und/CVE-Flow | 未查询到CVE信息| 
+| 20200819T05:13:01Z | 未知编号 | CVE Data Analysis, CVE Monitor, CVE EXP Prediction Based on Deep Learning. 1999-2020年存量CVE数据分析、监控CVE增量更新、基于深度学习的CVE EXP预测和自动化推送 | https://github.com/404notf0und/CVE-Flow | | 
 | 20200818T23:36:43Z | CVE-2020-0041 | Null | https://github.com/j4nn/CVE-2020-0041 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  09 HOURS 54 MINUTES 33 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200818T16:25:19Z | CVE-2020-9496 | Null | https://github.com/dwisiswant0/CVE-2020-9496 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 00 MINUTES 24 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200818T15:04:33Z | cve-2020-5902 | Null | https://github.com/superzerosec/cve-2020-5902 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 00 MINUTES 26 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200818T16:25:19Z | CVE-2020-9496 | Null | https://github.com/dwisiswant0/CVE-2020-9496 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 58 MINUTES 24 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200818T15:04:33Z | cve-2020-5902 | Null | https://github.com/superzerosec/cve-2020-5902 | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20200820T09:25:19Z | A tool that automatically calls Klee to solve for injection | https://github.com/Zzzode/KleeTool | 1 | 0| 
+| 20200820T05:01:39Z | A 4chan image browser written in SwiftUI | https://github.com/jackpal/KleeneStar | 10 | 0| 
+| 20200820T03:19:01Z | kleene is a library for building regular expression recognition automata - nfas, dfas, and some specialty structures. | https://github.com/davidkellis/kleene | 0 | 0| 
+| 20200820T02:00:22Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1461 | 450| 
 | 20200820T01:30:52Z | Create CFGs and compute complexity metrics for Python, C++, and Java code. | https://github.com/hmc-alpaqa/metrinome | 3 | 0| 
-| 20200820T00:55:13Z | A tool that automatically calls Klee to solve for injection | https://github.com/Zzzode/KleeTool | 1 | 0| 
-| 20200819T16:23:50Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1460 | 450| 
 | 20200816T07:40:37Z | Null | https://github.com/MrPoopey/klee622-235-lab2 | 0 | 0| 
 | 20200815T17:43:33Z | Null | https://github.com/aznv/kleetcode | 0 | 0| 
 | 20200815T02:27:32Z | ⬇️ File Upload/sharing application, used by thousands of webmasters since 2007.  | https://github.com/kleeja-official/kleeja | 103 | 32| 
 | 20200814T14:12:23Z | Minecraft Mod. Allows breaking only one half of a double slab block. | https://github.com/blay09/KleeSlabs | 7 | 3| 
 | 20200814T06:40:42Z | Null | https://github.com/shabroek/Kleedkamerscherm | 0 | 0| 
-| 20200813T12:23:41Z | Kleesiek lab webpage | https://github.com/IKIM-Essen/kleesieklab | 0 | 0| 
-| 20200813T11:57:22Z | Scala library for generation and manipulation of images treated as a point => color function. | https://github.com/skac112/klee | 0 | 0| 
 
 
 # s2e on Github 推荐
@@ -118,16 +118,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20200820T01:10:31Z | Null | https://github.com/abdulr7mann/sqliFuzzer | 0 | 0| 
-| 20200820T01:09:26Z | Collection of quality safety articles | https://github.com/tom0li/collection-document | 1183 | 391| 
-| 20200820T00:56:57Z | Null | https://github.com/ewetolw/flume-fuzzy-interceptor | 0 | 0| 
-| 20200820T00:56:41Z | Collected fuzzing payloads from different resources  | https://github.com/osamahamad/FUZZING | 1 | 0| 
-| 20200820T00:42:38Z | american fuzzy lop - a security-oriented fuzzer | https://github.com/google/AFL | 1325 | 216| 
-| 20200820T00:25:48Z | A pytest-inspired, DAST framework, capable of identifying vulnerabilities in a distributed, micro-service ecosystem through chaos engineering testing and stateful, Swagger fuzzing. | https://github.com/Yelp/fuzz-lightyear | 97 | 13| 
-| 20200820T00:08:58Z | Tidal autocoder | https://github.com/tidalcycles/tidal-fuzz | 6 | 1| 
-| 20200820T00:03:38Z | Null | https://github.com/miguelriosoliveira/fuzzy-trader | 0 | 0| 
-| 20200819T23:57:49Z | No idea what I%m doing | https://github.com/klecko/fuzz | 1 | 0| 
-| 20200819T23:26:46Z | A cross-platform browser fuzzing framework | https://github.com/MozillaSecurity/grizzly | 208 | 27| 
+| 20200820T10:21:54Z | No idea what I%m doing | https://github.com/klecko/fuzz | 1 | 0| 
+| 20200820T10:15:58Z | Research project on Software Technology for WebAssembly WASM (on superoptimization, diversification, fuzzing) | https://github.com/KTH/slumps | 14 | 4| 
+| 20200820T09:55:24Z | This repository contains the codes performed during NNFL Labs. | https://github.com/Sid-149/Neural-Networks-and-Fuzzy-Logic | 0 | 0| 
+| 20200820T09:32:03Z | White-box fuzzer for Java bytecode | https://github.com/vorpal-research/kex | 1 | 4| 
+| 20200820T09:07:56Z | 模糊认知诊断模型Python实现 | https://github.com/zelo2/FuzzyCDF | 1 | 1| 
+| 20200820T09:04:29Z | Null | https://github.com/ethereum/solidity-fuzzing-corpus | 9 | 2| 
+| 20200820T08:59:41Z | Null | https://github.com/Grd17/fuzzy-robot | 0 | 0| 
+| 20200820T08:41:06Z | Null | https://github.com/sunle-af/fuzzing-101 | 0 | 0| 
+| 20200820T08:19:21Z | Potentially dangerous files | https://github.com/Bo0oM/fuzz.txt | 1261 | 226| 
+| 20200820T08:08:43Z | Null | https://github.com/zdy226/Fuzz-node-analyse | 0 | 0| 
 
 
 
