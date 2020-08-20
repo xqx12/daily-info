@@ -46,16 +46,16 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20200819T17:51:51Z | CVE-2020-0688 | [CVE-2020-0688] Microsoft Exchange Server Fixed Cryptographic Key Remote Code Execution (RCE) | https://github.com/murataydemir/CVE-2020-0688 | 当Microsoft Exchange软件无法正确处理内存中的对象（也称为“ Microsoft Exchange内存损坏漏洞”）时，将存在一个远程执行代码漏洞。| 
+| 20200819T17:51:51Z | CVE-2020-0688 | [CVE-2020-0688] Microsoft Exchange Server Fixed Cryptographic Key Remote Code Execution (RCE) | https://github.com/murataydemir/CVE-2020-0688 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 55 MINUTES 26 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20200819T15:13:29Z | CVE-2020-2883 | WebLogic利用CVE-2020-2883打Shiro rememberMe反序列化漏洞，一键注册filter内存shell | https://github.com/Y4er/WebLogic-Shiro-shell | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
-| 20200819T14:45:41Z | CVE-2020-0041 | Null | https://github.com/minutesinch/CVE-2020-0041-Original | 在binder.c的binder_transaction中，由于不正确的边界检查，可能存在越界写入。这可以导致特权的本地升级，而无需其他执行特权。开发不需要用户交互。产品：Android版本：Android内核Android ID：A-145988638参考：上游内核| 
-| 20200819T14:45:02Z | CVE-2020-0041 | Null | https://github.com/minutesinch/CVE-2020-0041 | 在binder.c的binder_transaction中，由于不正确的边界检查，可能存在越界写入。这可以导致特权的本地升级，而无需其他执行特权。开发不需要用户交互。产品：Android版本：Android内核Android ID：A-145988638参考：上游内核| 
+| 20200819T14:45:41Z | CVE-2020-0041 | Null | https://github.com/minutesinch/CVE-2020-0041-Original | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 55 MINUTES 31 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200819T14:45:02Z | CVE-2020-0041 | Null | https://github.com/minutesinch/CVE-2020-0041 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 55 MINUTES 29 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20200819T14:30:55Z | CVE-2020-1 | Telia Technicolor TG389ac v.17.1.7992 Samba privilege escalation exploit | https://github.com/full-disclosure/FDEU-CVE-2020-1FC5 | 未查询到CVE信息| 
-| 20200819T10:39:52Z | cve-2020-1337 | poc for CVE-2020-1337 (Windows Print Spooler Elevation of Privilege) | https://github.com/sailay1996/cve-2020-1337-poc | 当 Windows 打印后台服务器服务不正确地允许任意写入文件系统（也称为%Windows 打印后台脱机特权漏洞提升%）时，存在特权提升漏洞。| 
+| 20200819T10:39:52Z | cve-2020-1337 | poc for CVE-2020-1337 (Windows Print Spooler Elevation of Privilege) | https://github.com/sailay1996/cve-2020-1337-poc | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 56 MINUTES 13 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20200819T05:13:01Z | 未知编号 | CVE Data Analysis, CVE Monitor, CVE EXP Prediction Based on Deep Learning. 1999-2020年存量CVE数据分析、监控CVE增量更新、基于深度学习的CVE EXP预测和自动化推送 | https://github.com/404notf0und/CVE-Flow | 未查询到CVE信息| 
 | 20200818T23:36:43Z | CVE-2020-0041 | Null | https://github.com/j4nn/CVE-2020-0041 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  09 HOURS 54 MINUTES 33 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200818T16:25:19Z | CVE-2020-9496 | Null | https://github.com/dwisiswant0/CVE-2020-9496 | XML-RPC请求容易受到Apache OFBiz 17.12.03中不安全的反序列化和跨站点脚本问题的攻击| 
-| 20200818T15:04:33Z | cve-2020-5902 | Null | https://github.com/superzerosec/cve-2020-5902 | 在BIG-IP版本15.0.0-15.1.0.3、14.1.0-14.1.2.5、13.1.0-13.1.3.3、12.1.0-12.1.5.1和11.6.1-11.6.5.1中，流量管理用户接口（TMUI），也称为“配置”实用程序，在未公开的页面中具有远程执行代码（RCE）漏洞。| 
+| 20200818T16:25:19Z | CVE-2020-9496 | Null | https://github.com/dwisiswant0/CVE-2020-9496 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 55 MINUTES 24 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200818T15:04:33Z | cve-2020-5902 | Null | https://github.com/superzerosec/cve-2020-5902 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 55 MINUTES 27 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 
 
 # klee on Github 推荐
@@ -103,16 +103,16 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20200819T12:19:42Z | VySecator Is a Python Script Obfuscation Tool, Which can be used to Obfuscate your hand written Malwares and your Hand Written Scripts! | https://github.com/Vedant-Bhalgama/VySecator | 22 | 2| 
-| 20200819T11:44:30Z | Pupy is an opensource, cross-platform (Windows, Linux, OSX, Android) remote administration and post-exploitation tool mainly written in python | https://github.com/n1nj4sec/pupy | 5741 | 1503| 
-| 20200819T10:50:51Z | adding a backdooruser using win32api | https://github.com/jfmaes/Backdoorplz | 0 | 0| 
-| 20200819T09:12:04Z | Hacking tools pack & backdoors generator. | https://github.com/AdrMXR/KitHack | 125 | 30| 
+| 20200819T22:18:07Z | PCI Express DIY hacking toolkit for Xilinx SP605 | https://github.com/Cr4sh/s6_pcie_microblaze | 234 | 55| 
+| 20200819T22:02:14Z | adding a backdooruser using win32api | https://github.com/jfmaes/Backdoorplz | 4 | 2| 
+| 20200819T21:22:15Z | Hacking tools pack & backdoors generator. | https://github.com/AdrMXR/KitHack | 126 | 30| 
+| 20200819T18:18:41Z | Rusty backdoor+spyware :bomb: :door: | https://github.com/talbor49/spyware | 8 | 0| 
+| 20200819T15:59:43Z | Pupy is an opensource, cross-platform (Windows, Linux, OSX, Android) remote administration and post-exploitation tool mainly written in python | https://github.com/n1nj4sec/pupy | 5742 | 1502| 
+| 20200819T14:34:23Z | VySecator Is a Python Script Obfuscation Tool, Which can be used to Obfuscate your hand written Malwares and your Hand Written Scripts! | https://github.com/Vedant-Bhalgama/VySecator | 23 | 2| 
+| 20200819T13:31:41Z | Null | https://github.com/kaidi-jin/backdoor_samples_detection | 2 | 0| 
 | 20200819T08:01:17Z | Null | https://github.com/narasimha-swamy/python-backdoor | 0 | 0| 
-| 20200819T01:42:29Z | Simples criador de RAT (Remote Acess Trojan) / Backdoor. Base: Metasploit-Framework | https://github.com/LightHades/RatCreator | 1 | 0| 
+| 20200819T01:42:29Z | Simples criador de RAT (Remote Acess Trojan) / Backdoor. Base: Metasploit-Framework | https://github.com/LightHades/RatCreator | 1 | 1| 
 | 20200818T23:45:14Z | Null | https://github.com/yakup126/backdoor | 0 | 0| 
-| 20200818T21:45:28Z | Null | https://github.com/drycko/python_backdoor | 0 | 0| 
-| 20200818T15:25:17Z | Backdoor Shell | https://github.com/kaitolegion/Backdoor | 1 | 4| 
-| 20200818T09:59:50Z | Repository for all the code related to Learn Python & Ethical Hacking From Scratch course. All the work is done on Kali Linux, using both Python 2.7 and 3.x version. | https://github.com/Maffey/ethical-hacking-course | 0 | 0| 
 
 
 # fuzz on Github 推荐
