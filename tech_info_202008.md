@@ -46,16 +46,16 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20200820T09:02:49Z | cve-2020-1337 | poc for CVE-2020-1337 (Windows Print Spooler Elevation of Privilege) | https://github.com/sailay1996/cve-2020-1337-poc | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 49 MINUTES 10 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200820T09:02:49Z | cve-2020-1337 | poc for CVE-2020-1337 (Windows Print Spooler Elevation of Privilege) | https://github.com/sailay1996/cve-2020-1337-poc | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 48 MINUTES 09 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20200820T08:06:03Z | CVE-2020-2883 | WebLogic利用CVE-2020-2883打Shiro rememberMe反序列化漏洞，一键注册蚁剑filter内存shell | https://github.com/Y4er/WebLogic-Shiro-shell | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
-| 20200819T17:51:51Z | CVE-2020-0688 | [CVE-2020-0688] Microsoft Exchange Server Fixed Cryptographic Key Remote Code Execution (RCE) | https://github.com/murataydemir/CVE-2020-0688 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 49 MINUTES 19 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200819T14:45:41Z | CVE-2020-0041 | Null | https://github.com/minutesinch/CVE-2020-0041-Original | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 48 MINUTES 23 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200819T14:45:02Z | CVE-2020-0041 | Null | https://github.com/minutesinch/CVE-2020-0041 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 49 MINUTES 23 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200819T17:51:51Z | CVE-2020-0688 | [CVE-2020-0688] Microsoft Exchange Server Fixed Cryptographic Key Remote Code Execution (RCE) | https://github.com/murataydemir/CVE-2020-0688 | | 
+| 20200819T14:45:41Z | CVE-2020-0041 | Null | https://github.com/minutesinch/CVE-2020-0041-Original | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 47 MINUTES 24 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200819T14:45:02Z | CVE-2020-0041 | Null | https://github.com/minutesinch/CVE-2020-0041 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 47 MINUTES 23 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20200819T14:30:55Z | CVE-2020-1 | Telia Technicolor TG389ac v.17.1.7992 Samba privilege escalation exploit | https://github.com/full-disclosure/FDEU-CVE-2020-1FC5 | 未查询到CVE信息| 
 | 20200819T05:13:01Z | 未知编号 | CVE Data Analysis, CVE Monitor, CVE EXP Prediction Based on Deep Learning. 1999-2020年存量CVE数据分析、监控CVE增量更新、基于深度学习的CVE EXP预测和自动化推送 | https://github.com/404notf0und/CVE-Flow | 未查询到CVE信息| 
 | 20200818T23:36:43Z | CVE-2020-0041 | Null | https://github.com/j4nn/CVE-2020-0041 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  09 HOURS 54 MINUTES 33 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200818T16:25:19Z | CVE-2020-9496 | Null | https://github.com/dwisiswant0/CVE-2020-9496 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 49 MINUTES 18 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200818T15:04:33Z | cve-2020-5902 | Null | https://github.com/superzerosec/cve-2020-5902 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 49 MINUTES 20 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200818T16:25:19Z | CVE-2020-9496 | Null | https://github.com/dwisiswant0/CVE-2020-9496 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 48 MINUTES 18 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200818T15:04:33Z | cve-2020-5902 | Null | https://github.com/superzerosec/cve-2020-5902 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 47 MINUTES 20 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 
 
 # klee on Github 推荐
@@ -103,8 +103,8 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20200820T12:11:42Z | PCI Express DIY hacking toolkit for Xilinx SP605 | https://github.com/Cr4sh/s6_pcie_microblaze | 246 | 57| 
 | 20200820T12:01:36Z | Backdoor is going to be an interactive web console for Elixir & Phoenix projects | https://github.com/amberbit/backdoor | 0 | 0| 
-| 20200820T10:13:07Z | PCI Express DIY hacking toolkit for Xilinx SP605 | https://github.com/Cr4sh/s6_pcie_microblaze | 245 | 57| 
 | 20200820T09:42:46Z | adding a backdooruser using win32api | https://github.com/jfmaes/Backdoorplz | 11 | 4| 
 | 20200820T09:03:55Z | VySecator Is a Python Script Obfuscation Tool, Which can be used to Obfuscate your hand written Malwares and your Hand Written Scripts! | https://github.com/Vedant-Bhalgama/VySecator | 25 | 2| 
 | 20200820T09:00:47Z | Hacking tools pack & backdoors generator. | https://github.com/AdrMXR/KitHack | 127 | 31| 
@@ -118,6 +118,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20200820T12:11:01Z | A fork of AFL for fuzzing Windows binaries | https://github.com/googleprojectzero/winafl | 1518 | 392| 
 | 20200820T10:21:54Z | No idea what I%m doing | https://github.com/klecko/fuzz | 1 | 0| 
 | 20200820T10:15:58Z | Research project on Software Technology for WebAssembly WASM (on superoptimization, diversification, fuzzing) | https://github.com/KTH/slumps | 14 | 4| 
 | 20200820T09:55:24Z | This repository contains the codes performed during NNFL Labs. | https://github.com/Sid-149/Neural-Networks-and-Fuzzy-Logic | 0 | 0| 
@@ -127,7 +128,6 @@
 | 20200820T08:59:41Z | Null | https://github.com/Grd17/fuzzy-robot | 0 | 0| 
 | 20200820T08:41:06Z | Null | https://github.com/sunle-af/fuzzing-101 | 0 | 0| 
 | 20200820T08:19:21Z | Potentially dangerous files | https://github.com/Bo0oM/fuzz.txt | 1261 | 226| 
-| 20200820T08:08:43Z | Null | https://github.com/zdy226/Fuzz-node-analyse | 0 | 0| 
 
 
 
