@@ -32,37 +32,38 @@
 | ts | title | url| 
 | --- | --- | ---| 
 | 20200819 | DataCon2020 恶意代码分析冠军writeup | https://mp.weixin.qq.com/s/e69Fg9UBX3B2BFiGvsg4Gg| 
+| 20200819 | 2020黑帽大会亮点议题&技术观察 | https://www.secrss.com/articles/24820| 
+| 20200819 | 数据中台：基于标签体系的360°用户画像 | https://mp.weixin.qq.com/s/zIbhQjP9OTIPG9uRr64xtA| 
+| 20200819 | 公安部关于修改《公安机关办理刑事案件程序规定》的决定 | http://www.gov.cn/zhengce/zhengceku/2020-08/16/content_5535125.htm| 
 | 20200818 | 冰蝎3.0简要分析 | https://mp.weixin.qq.com/s/4FeZwDlLdWOjgITdWH1ucQ| 
 | 20200818 | 半自动化冰蝎流量分析的实践 | https://mp.weixin.qq.com/s/w40qI2iPNLx9GjgkYRyhpg| 
 | 20200818 | 哥斯拉Godzilla shell管理工具 | https://mp.weixin.qq.com/s/_4ACLzaImDMQbZWfhSHnwg| 
 | 20200818 | FAQs on Getting Started in Cyber Threat Intelligence | https://medium.com/katies-five-cents/faqs-on-getting-started-in-cyber-threat-intelligence-f567f267348e| 
 | 20200818 | 物联网安全之MQTT协议安全 | https://bacde.me/post/mqtt-security-part-one/| 
 | 20200817 | CodeQL 若干问题思考及 CVE-2019-3560 审计详解 | https://lenny233.github.io/2020/02/20/codql-and-cve-2019-3560/| 
-| 20200817 | PHPCMS V9 前台RCE挖掘分析 | https://mp.weixin.qq.com/s/zLXJtekT9O3OuzwBLigMsA| 
-| 20200817 | OpenSA: 运维自动化平台 | https://github.com/latentgod/OpenSA| 
-| 20200817 | 写给技术创业者的创业思考框架 | https://zhuanlan.zhihu.com/p/84058442| 
 
 
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20200819T10:39:52Z | cve-2020-1337 | poc for CVE-2020-1337 (Windows Print Spooler Elevation of Privilege) | https://github.com/sailay1996/cve-2020-1337-poc | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  09 HOURS 54 MINUTES 35 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200819T09:31:18Z | CVE-2020-0688 | [CVE-2020-0688] Microsoft Exchange Server Fixed Cryptographic Key Remote Code Execution (RCE) | https://github.com/murataydemir/CVE-2020-0688 | | 
-| 20200819T09:15:33Z | CVE-2020-2883 | WebLogic利用CVE-2020-2883打Shiro rememberMe反序列化漏洞，一键注册filter内存shell | https://github.com/Y4er/WebLogic-Shiro-shell | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
+| 20200819T17:51:51Z | CVE-2020-0688 | [CVE-2020-0688] Microsoft Exchange Server Fixed Cryptographic Key Remote Code Execution (RCE) | https://github.com/murataydemir/CVE-2020-0688 | 当Microsoft Exchange软件无法正确处理内存中的对象（也称为“ Microsoft Exchange内存损坏漏洞”）时，将存在一个远程执行代码漏洞。| 
+| 20200819T15:13:29Z | CVE-2020-2883 | WebLogic利用CVE-2020-2883打Shiro rememberMe反序列化漏洞，一键注册filter内存shell | https://github.com/Y4er/WebLogic-Shiro-shell | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
+| 20200819T14:45:41Z | CVE-2020-0041 | Null | https://github.com/minutesinch/CVE-2020-0041-Original | 在binder.c的binder_transaction中，由于不正确的边界检查，可能存在越界写入。这可以导致特权的本地升级，而无需其他执行特权。开发不需要用户交互。产品：Android版本：Android内核Android ID：A-145988638参考：上游内核| 
+| 20200819T14:45:02Z | CVE-2020-0041 | Null | https://github.com/minutesinch/CVE-2020-0041 | 在binder.c的binder_transaction中，由于不正确的边界检查，可能存在越界写入。这可以导致特权的本地升级，而无需其他执行特权。开发不需要用户交互。产品：Android版本：Android内核Android ID：A-145988638参考：上游内核| 
+| 20200819T14:30:55Z | CVE-2020-1 | Telia Technicolor TG389ac v.17.1.7992 Samba privilege escalation exploit | https://github.com/full-disclosure/FDEU-CVE-2020-1FC5 | 未查询到CVE信息| 
+| 20200819T10:39:52Z | cve-2020-1337 | poc for CVE-2020-1337 (Windows Print Spooler Elevation of Privilege) | https://github.com/sailay1996/cve-2020-1337-poc | 当 Windows 打印后台服务器服务不正确地允许任意写入文件系统（也称为%Windows 打印后台脱机特权漏洞提升%）时，存在特权提升漏洞。| 
 | 20200819T05:13:01Z | 未知编号 | CVE Data Analysis, CVE Monitor, CVE EXP Prediction Based on Deep Learning. 1999-2020年存量CVE数据分析、监控CVE增量更新、基于深度学习的CVE EXP预测和自动化推送 | https://github.com/404notf0und/CVE-Flow | 未查询到CVE信息| 
 | 20200818T23:36:43Z | CVE-2020-0041 | Null | https://github.com/j4nn/CVE-2020-0041 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  09 HOURS 54 MINUTES 33 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200818T16:25:19Z | CVE-2020-9496 | Null | https://github.com/dwisiswant0/CVE-2020-9496 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  09 HOURS 54 MINUTES 45 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200818T15:04:33Z | cve-2020-5902 | Null | https://github.com/superzerosec/cve-2020-5902 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  09 HOURS 54 MINUTES 46 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200817T16:49:37Z | CVE-2020-1350 | NSE scripts to detect CVE-2020-1350 SIGRED and CVE-2020-0796 SMBGHOST | https://github.com/psc4re/NSE-scripts | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  09 HOURS 54 MINUTES 28 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200817T13:30:06Z | CVE-2020-6519 | Null | https://github.com/PerimeterX/CVE-2020-6519 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  09 HOURS 54 MINUTES 32 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200817T07:43:44Z | CVE-2020-1 | Telia Technicolor TG389ac v.17.1.7992 Samba privilege escalation exploit | https://github.com/full-disclosure/FDEU-CVE-2020-1FC5 | 未查询到CVE信息| 
+| 20200818T16:25:19Z | CVE-2020-9496 | Null | https://github.com/dwisiswant0/CVE-2020-9496 | XML-RPC请求容易受到Apache OFBiz 17.12.03中不安全的反序列化和跨站点脚本问题的攻击| 
+| 20200818T15:04:33Z | cve-2020-5902 | Null | https://github.com/superzerosec/cve-2020-5902 | 在BIG-IP版本15.0.0-15.1.0.3、14.1.0-14.1.2.5、13.1.0-13.1.3.3、12.1.0-12.1.5.1和11.6.1-11.6.5.1中，流量管理用户接口（TMUI），也称为“配置”实用程序，在未公开的页面中具有远程执行代码（RCE）漏洞。| 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20200818T12:25:28Z | A tool that automatically calls Klee to solve for injection | https://github.com/Zzzode/KleeTool | 1 | 0| 
-| 20200816T21:35:24Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1459 | 450| 
+| 20200819T23:37:16Z | Create CFGs and compute complexity metrics for Python, C++, and Java code. | https://github.com/hmc-alpaqa/metrinome | 3 | 0| 
+| 20200819T23:30:23Z | A tool that automatically calls Klee to solve for injection | https://github.com/Zzzode/KleeTool | 1 | 0| 
+| 20200819T16:23:50Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1460 | 450| 
 | 20200816T07:40:37Z | Null | https://github.com/MrPoopey/klee622-235-lab2 | 0 | 0| 
 | 20200815T17:43:33Z | Null | https://github.com/aznv/kleetcode | 0 | 0| 
 | 20200815T02:27:32Z | ⬇️ File Upload/sharing application, used by thousands of webmasters since 2007.  | https://github.com/kleeja-official/kleeja | 103 | 32| 
@@ -70,7 +71,6 @@
 | 20200814T06:40:42Z | Null | https://github.com/shabroek/Kleedkamerscherm | 0 | 0| 
 | 20200813T12:23:41Z | Kleesiek lab webpage | https://github.com/IKIM-Essen/kleesieklab | 0 | 0| 
 | 20200813T11:57:22Z | Scala library for generation and manipulation of images treated as a point => color function. | https://github.com/skac112/klee | 0 | 0| 
-| 20200810T01:05:43Z | School Project | https://github.com/nategrift/kleenex | 0 | 0| 
 
 
 # s2e on Github 推荐
@@ -88,16 +88,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20200819T12:49:10Z | This exploit is an all-in-one tool for Cisco 7937G | https://github.com/Fans0n-Fan/Cisco-7937G-All-In-One-Exploiter | 0 | 0| 
-| 20200819T12:47:58Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 3 | 2| 
-| 20200819T12:35:13Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 6977 | 1118| 
-| 20200819T11:35:20Z | My exploits for challenges on pwnable.tw | https://github.com/AravGarg/pwnable.tw | 0 | 0| 
-| 20200819T11:25:25Z | Denoising framework for SAR images (Synthetic Aperture Radar) based on the FFDNet. Final project of MVA course %Remote sensing data: from sensor to large-scale geospatial data exploitation% | https://github.com/MathieuRita/SAR_denoising | 1 | 0| 
-| 20200819T11:20:20Z | Exploit tool samples | https://github.com/devilsastry/Samples | 0 | 0| 
-| 20200819T11:12:59Z | Command injection 0-day exploits for r00ntu%s vulnerable APIs | https://github.com/0xchecksum/CTW-Auth-API-0day | 2 | 1| 
-| 20200819T10:58:13Z | ROBLOX Hacks - Exploits - Scripts | https://github.com/AdenSTUDIO/ROBLOX_Hacks-Exploits-Scripts | 0 | 0| 
-| 20200819T10:52:49Z | History of my exploits | https://github.com/Ordered-Chaos/Pwnfolio | 0 | 0| 
-| 20200819T09:54:47Z | Roblox exploit. Only Lua C | https://github.com/CovERUshKA/Roblox-Exploit | 0 | 1| 
+| 20200819T23:57:35Z | Null | https://github.com/TheMolb/YT-Exploit | 0 | 0| 
+| 20200819T23:54:06Z | Build a database of libc offsets to simplify exploitation | https://github.com/niklasb/libc-database | 988 | 171| 
+| 20200819T23:34:48Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 6985 | 1119| 
+| 20200819T23:14:54Z | Null | https://github.com/Kahvi-0/Vulnerabilities-and-Exploitations | 1 | 1| 
+| 20200819T22:38:27Z | Null | https://github.com/quentin452/Cats-Exploitz-HUB | 0 | 1| 
+| 20200819T22:34:47Z | Tools and exploits by WhiteWizard | https://github.com/MrMindKeeper/tcpf | 1 | 0| 
+| 20200819T21:50:54Z | Hacking Tricks, Techniques & Tools | https://github.com/rambasnet/Hacking-Notebooks | 8 | 2| 
+| 20200819T21:18:31Z | Tools for exploiting ARIA standard products | https://github.com/aria-tools/ARIA-tools | 30 | 16| 
+| 20200819T21:10:32Z | An attack/exploit Detector that utilizes Polymorphism and Diversity | https://github.com/polyverse/zerotect | 4 | 1| 
+| 20200819T21:08:53Z | A proxy aware C2 framework used to aid red teamers with post-exploitation and lateral movement. | https://github.com/nettitude/PoshC2 | 508 | 134| 
 
 
 # backdoor on Github 推荐
@@ -118,16 +118,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20200819T13:05:57Z | A JavaScript Engine Fuzzer | https://github.com/googleprojectzero/fuzzilli | 1006 | 163| 
-| 20200819T13:03:36Z | Fast fuzzy regex matcher: specify max edit distance to find approximate matches | https://github.com/Genivia/FuzzyMatcher | 8 | 2| 
-| 20200819T13:02:20Z | A ground-truth binary fuzzing benchmark suite based on real programs with real bugs. | https://github.com/HexHive/magma | 44 | 16| 
-| 20200819T12:47:03Z | FuzzyKnights: Protectors of the Forst - 16bit Adventure | https://github.com/mjnrock/fuzzyknights-arcade | 0 | 0| 
-| 20200819T12:37:26Z | A differential fuzzer for x86 decoders | https://github.com/trailofbits/mishegos | 103 | 15| 
-| 20200819T12:06:02Z | Null | https://github.com/zdy226/Fuzz-node-analyse | 0 | 0| 
-| 20200819T11:57:27Z | Bug Bounty Collection | https://github.com/themastersunil/Fuzzing | 0 | 0| 
-| 20200819T11:28:39Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 3100 | 711| 
-| 20200819T11:04:29Z | WIP A Front-End for Fuzzy Finder Applications | https://github.com/10sr/fuzzy-finder-el | 0 | 0| 
-| 20200819T10:55:15Z | Source code for the paper %Fuzzy Gaussian mixture optimization of the newsvendor problem: mixing online reviews and judgemental demand data%, by F. Fathizadeh, Y. Rekik, J. Savinien | https://github.com/savinien/Fuzzy-Newsvendor-paper | 0 | 0| 
+| 20200819T23:57:49Z | No idea what I%m doing | https://github.com/klecko/fuzz | 1 | 0| 
+| 20200819T23:26:46Z | A cross-platform browser fuzzing framework | https://github.com/MozillaSecurity/grizzly | 208 | 27| 
+| 20200819T22:48:29Z | Web application fuzzer | https://github.com/xmendez/wfuzz | 3039 | 764| 
+| 20200819T22:34:32Z | Fuzz 403/401ing endpoints for bypasses | https://github.com/intrudir/403fuzzer | 3 | 2| 
+| 20200819T21:56:55Z | Null | https://github.com/abdulr7mann/sqliFuzzer | 0 | 0| 
+| 20200819T21:54:24Z | FuzzyKnights: Protectors of the Forst - 16bit Adventure | https://github.com/mjnrock/fuzzyknights-arcade | 0 | 0| 
+| 20200819T21:52:25Z | A pytest-inspired, DAST framework, capable of identifying vulnerabilities in a distributed, micro-service ecosystem through chaos engineering testing and stateful, Swagger fuzzing. | https://github.com/Yelp/fuzz-lightyear | 96 | 13| 
+| 20200819T21:48:01Z | Null | https://github.com/noloerino/eye-fuzz | 0 | 0| 
+| 20200819T21:19:38Z | Null | https://github.com/r-2007/Fuzzing-DTLS | 0 | 0| 
+| 20200819T20:50:27Z | Null | https://github.com/HharoldShi/ECE653-Fuzzing | 0 | 0| 
 
 
 
