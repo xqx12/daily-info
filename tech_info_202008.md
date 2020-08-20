@@ -46,16 +46,16 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20200820T09:02:49Z | cve-2020-1337 | poc for CVE-2020-1337 (Windows Print Spooler Elevation of Privilege) | https://github.com/sailay1996/cve-2020-1337-poc | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 58 MINUTES 16 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200820T09:02:49Z | cve-2020-1337 | poc for CVE-2020-1337 (Windows Print Spooler Elevation of Privilege) | https://github.com/sailay1996/cve-2020-1337-poc | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 56 MINUTES 12 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20200820T08:06:03Z | CVE-2020-2883 | WebLogic利用CVE-2020-2883打Shiro rememberMe反序列化漏洞，一键注册蚁剑filter内存shell | https://github.com/Y4er/WebLogic-Shiro-shell | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
-| 20200819T17:51:51Z | CVE-2020-0688 | [CVE-2020-0688] Microsoft Exchange Server Fixed Cryptographic Key Remote Code Execution (RCE) | https://github.com/murataydemir/CVE-2020-0688 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 58 MINUTES 25 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200819T14:45:41Z | CVE-2020-0041 | Null | https://github.com/minutesinch/CVE-2020-0041-Original | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 58 MINUTES 29 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200819T14:45:02Z | CVE-2020-0041 | Null | https://github.com/minutesinch/CVE-2020-0041 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 58 MINUTES 28 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200819T17:51:51Z | CVE-2020-0688 | [CVE-2020-0688] Microsoft Exchange Server Fixed Cryptographic Key Remote Code Execution (RCE) | https://github.com/murataydemir/CVE-2020-0688 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 56 MINUTES 21 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200819T14:45:41Z | CVE-2020-0041 | Null | https://github.com/minutesinch/CVE-2020-0041-Original | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 55 MINUTES 24 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200819T14:45:02Z | CVE-2020-0041 | Null | https://github.com/minutesinch/CVE-2020-0041 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 55 MINUTES 23 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20200819T14:30:55Z | CVE-2020-1 | Telia Technicolor TG389ac v.17.1.7992 Samba privilege escalation exploit | https://github.com/full-disclosure/FDEU-CVE-2020-1FC5 | 未查询到CVE信息| 
-| 20200819T05:13:01Z | 未知编号 | CVE Data Analysis, CVE Monitor, CVE EXP Prediction Based on Deep Learning. 1999-2020年存量CVE数据分析、监控CVE增量更新、基于深度学习的CVE EXP预测和自动化推送 | https://github.com/404notf0und/CVE-Flow | | 
+| 20200819T05:13:01Z | 未知编号 | CVE Data Analysis, CVE Monitor, CVE EXP Prediction Based on Deep Learning. 1999-2020年存量CVE数据分析、监控CVE增量更新、基于深度学习的CVE EXP预测和自动化推送 | https://github.com/404notf0und/CVE-Flow | 未查询到CVE信息| 
 | 20200818T23:36:43Z | CVE-2020-0041 | Null | https://github.com/j4nn/CVE-2020-0041 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  09 HOURS 54 MINUTES 33 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200818T16:25:19Z | CVE-2020-9496 | Null | https://github.com/dwisiswant0/CVE-2020-9496 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 58 MINUTES 24 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200818T15:04:33Z | cve-2020-5902 | Null | https://github.com/superzerosec/cve-2020-5902 | | 
+| 20200818T16:25:19Z | CVE-2020-9496 | Null | https://github.com/dwisiswant0/CVE-2020-9496 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 56 MINUTES 19 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200818T15:04:33Z | cve-2020-5902 | Null | https://github.com/superzerosec/cve-2020-5902 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 56 MINUTES 22 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 
 
 # klee on Github 推荐
@@ -103,16 +103,16 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20200820T01:48:24Z | adding a backdooruser using win32api | https://github.com/jfmaes/Backdoorplz | 7 | 2| 
-| 20200820T01:33:01Z | PCI Express DIY hacking toolkit for Xilinx SP605 | https://github.com/Cr4sh/s6_pcie_microblaze | 238 | 55| 
-| 20200819T21:22:15Z | Hacking tools pack & backdoors generator. | https://github.com/AdrMXR/KitHack | 126 | 30| 
+| 20200820T12:01:36Z | Backdoor is going to be an interactive web console for Elixir & Phoenix projects | https://github.com/amberbit/backdoor | 0 | 0| 
+| 20200820T10:13:07Z | PCI Express DIY hacking toolkit for Xilinx SP605 | https://github.com/Cr4sh/s6_pcie_microblaze | 245 | 57| 
+| 20200820T09:42:46Z | adding a backdooruser using win32api | https://github.com/jfmaes/Backdoorplz | 11 | 4| 
+| 20200820T09:03:55Z | VySecator Is a Python Script Obfuscation Tool, Which can be used to Obfuscate your hand written Malwares and your Hand Written Scripts! | https://github.com/Vedant-Bhalgama/VySecator | 25 | 2| 
+| 20200820T09:00:47Z | Hacking tools pack & backdoors generator. | https://github.com/AdrMXR/KitHack | 127 | 31| 
+| 20200820T08:51:41Z | Null | https://github.com/kaidi-jin/backdoor_samples_detection | 2 | 0| 
+| 20200820T08:05:58Z | Pupy is an opensource, cross-platform (Windows, Linux, OSX, Android) remote administration and post-exploitation tool mainly written in python | https://github.com/n1nj4sec/pupy | 5746 | 1503| 
 | 20200819T18:18:41Z | Rusty backdoor+spyware :bomb: :door: | https://github.com/talbor49/spyware | 8 | 0| 
-| 20200819T15:59:43Z | Pupy is an opensource, cross-platform (Windows, Linux, OSX, Android) remote administration and post-exploitation tool mainly written in python | https://github.com/n1nj4sec/pupy | 5742 | 1502| 
-| 20200819T14:34:23Z | VySecator Is a Python Script Obfuscation Tool, Which can be used to Obfuscate your hand written Malwares and your Hand Written Scripts! | https://github.com/Vedant-Bhalgama/VySecator | 23 | 2| 
-| 20200819T13:31:41Z | Null | https://github.com/kaidi-jin/backdoor_samples_detection | 2 | 0| 
 | 20200819T08:01:17Z | Null | https://github.com/narasimha-swamy/python-backdoor | 0 | 0| 
 | 20200819T01:42:29Z | Simples criador de RAT (Remote Acess Trojan) / Backdoor. Base: Metasploit-Framework | https://github.com/LightHades/RatCreator | 1 | 1| 
-| 20200818T23:45:14Z | Null | https://github.com/yakup126/backdoor | 0 | 0| 
 
 
 # fuzz on Github 推荐

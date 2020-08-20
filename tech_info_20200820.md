@@ -34,7 +34,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20200820T09:02:49Z | cve-2020-1337 | poc for CVE-2020-1337 (Windows Print Spooler Elevation of Privilege) | https://github.com/sailay1996/cve-2020-1337-poc | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 58 MINUTES 16 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200820T09:02:49Z | cve-2020-1337 | poc for CVE-2020-1337 (Windows Print Spooler Elevation of Privilege) | https://github.com/sailay1996/cve-2020-1337-poc | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 56 MINUTES 12 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20200820T08:06:03Z | CVE-2020-2883 | WebLogic利用CVE-2020-2883打Shiro rememberMe反序列化漏洞，一键注册蚁剑filter内存shell | https://github.com/Y4er/WebLogic-Shiro-shell | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
 
 
@@ -71,8 +71,13 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20200820T01:48:24Z | adding a backdooruser using win32api | https://github.com/jfmaes/Backdoorplz | 7 | 2| 
-| 20200820T01:33:01Z | PCI Express DIY hacking toolkit for Xilinx SP605 | https://github.com/Cr4sh/s6_pcie_microblaze | 238 | 55| 
+| 20200820T12:01:36Z | Backdoor is going to be an interactive web console for Elixir & Phoenix projects | https://github.com/amberbit/backdoor | 0 | 0| 
+| 20200820T10:13:07Z | PCI Express DIY hacking toolkit for Xilinx SP605 | https://github.com/Cr4sh/s6_pcie_microblaze | 245 | 57| 
+| 20200820T09:42:46Z | adding a backdooruser using win32api | https://github.com/jfmaes/Backdoorplz | 11 | 4| 
+| 20200820T09:03:55Z | VySecator Is a Python Script Obfuscation Tool, Which can be used to Obfuscate your hand written Malwares and your Hand Written Scripts! | https://github.com/Vedant-Bhalgama/VySecator | 25 | 2| 
+| 20200820T09:00:47Z | Hacking tools pack & backdoors generator. | https://github.com/AdrMXR/KitHack | 127 | 31| 
+| 20200820T08:51:41Z | Null | https://github.com/kaidi-jin/backdoor_samples_detection | 2 | 0| 
+| 20200820T08:05:58Z | Pupy is an opensource, cross-platform (Windows, Linux, OSX, Android) remote administration and post-exploitation tool mainly written in python | https://github.com/n1nj4sec/pupy | 5746 | 1503| 
 
 
 # fuzz on Github 推荐
