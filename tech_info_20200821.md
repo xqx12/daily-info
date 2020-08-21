@@ -88,6 +88,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20200821T13:24:37Z | A JavaScript Engine Fuzzer | https://github.com/googleprojectzero/fuzzilli | 1009 | 163| 
 | 20200821T13:21:40Z | CLI for static asset revisioning and reference updating. | https://github.com/robmclarty/fuzzle | 0 | 0| 
 | 20200821T13:08:46Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 26390 | 12805| 
 | 20200821T13:04:58Z | Null | https://github.com/bob9-hackathon/web_fuzzer | 0 | 0| 
@@ -97,7 +98,6 @@
 | 20200821T12:24:46Z | Null | https://github.com/mtanveer1/A-Fuzzy-Universum-Support-Vector-Machine-Based-on-Information-Entropy | 0 | 0| 
 | 20200821T12:18:54Z | Take the current implementation and turning a microservice architecture | https://github.com/ccesarrod/FuzzyMicrosrvices | 0 | 0| 
 | 20200821T12:03:51Z | Null | https://github.com/ccesarrod/.NetCoreFuzzy | 0 | 0| 
-| 20200821T12:03:39Z | A  playground to learn computer graphics | https://github.com/patiboh/fuzzy-playground | 0 | 0| 
 
 
 
