@@ -38,10 +38,10 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20200820T16:00:01Z | CVE-2020-0796 | Multithread SMB scanner to check CVE-2020-0796 for SMB v3.11 | https://github.com/gabimarti/SMBScanner | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 08 MINUTES 06 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200820T15:15:53Z | CVE-2020-1337 | CVE-2020-1048 bypass: binary planting PoC | https://github.com/neofito/CVE-2020-1337 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 08 MINUTES 10 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200820T16:00:01Z | CVE-2020-0796 | Multithread SMB scanner to check CVE-2020-0796 for SMB v3.11 | https://github.com/gabimarti/SMBScanner | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 07 MINUTES 07 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200820T15:15:53Z | CVE-2020-1337 | CVE-2020-1048 bypass: binary planting PoC | https://github.com/neofito/CVE-2020-1337 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 07 MINUTES 10 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20200820T12:36:02Z | 未知编号 | Null | https://github.com/potats0/cve_2020_14644 | 未查询到CVE信息| 
-| 20200820T12:24:10Z | CVE-2020-17496 | Null | https://github.com/ctlyz123/CVE-2020-17496 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 07 MINUTES 24 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200820T12:24:10Z | CVE-2020-17496 | Null | https://github.com/ctlyz123/CVE-2020-17496 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 06 MINUTES 23 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20200820T09:02:49Z | cve-2020-1337 | poc for CVE-2020-1337 (Windows Print Spooler Elevation of Privilege) | https://github.com/sailay1996/cve-2020-1337-poc | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 00 MINUTES 09 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20200820T05:39:39Z | CVE-2020-0041 | Null | https://github.com/j4nn/CVE-2020-0041 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 39 MINUTES 11 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 
@@ -93,7 +93,6 @@
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
 | 20200820T23:36:55Z | Pedal Multiefecto para guitarra electrica (LoopBack, Delay, Fuzz y Wah-wah) | https://github.com/jrosmirez94/Pedal-Multiefecto | 0 | 0| 
-| 20200820T23:36:17Z | A curated list of different AFL forks and AFL inspired fuzzers with detailed equivalent academic papers with AFL-fuzzing tutorials | https://github.com/Microsvuln/Awesome-AFL | 291 | 37| 
 | 20200820T22:37:20Z | A Python program implementing fuzzy matching between two sets of records. | https://github.com/tseastmond/fuzzylink | 0 | 0| 
 | 20200820T22:23:43Z | Null | https://github.com/BoB9-Web-Fuzzer-4-2/web_Fuzzer | 0 | 0| 
 | 20200820T22:21:35Z | We plan to specify grammars of inputs for three selected benchmarks, which share similar API and grammars of inputs. Then we will use these grammars as the seeds to generate well-formated inputs via gramfuzz, a Python-based grammer fuzzer, to penetrate deep into benchmarks’ parsers. We expect that some potential errors of benchmarks would be detected in this project. In addition, we plan to design a runner program, which can feed the inputs into the benchmarks automatically, as enhancements to gramfuzz. | https://github.com/alyssahyq/gramfuzz-calc | 0 | 1| 
@@ -102,6 +101,7 @@
 | 20200820T21:00:57Z | A unit test-like interface for fuzzing and symbolic execution | https://github.com/trailofbits/deepstate | 551 | 54| 
 | 20200820T21:00:24Z | Null | https://github.com/randomicons/fuzzydoro | 0 | 1| 
 | 20200820T20:39:45Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 3102 | 713| 
+| 20200820T20:37:59Z | Machine Learning discipline project, UFPE, 2019.1. | https://github.com/DelmiroDaladier/Multi-view-relational-fuzzy-c-medoid-vectors-clustering-algorithm | 0 | 0| 
 
 
 
