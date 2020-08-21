@@ -62,6 +62,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20200821T13:34:24Z | Malicious PHP files used to infect Wordpress sites | https://github.com/Am0rphous/PHP-Malware | 0 | 0| 
 | 20200821T13:00:40Z | exploit for buffer overflow | https://github.com/psgareja/fuzzer | 0 | 0| 
 | 20200821T12:48:01Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 4 | 2| 
 | 20200821T12:35:12Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 6998 | 1121| 
@@ -71,7 +72,6 @@
 | 20200821T12:01:38Z | Technicolor router config decryption and injection exploit | https://github.com/antnks/technicolor-config-decrypt | 0 | 0| 
 | 20200821T12:00:43Z | 📈 A visualization of MetricQ data exploiting the advanctages of the HTA db backend  | https://github.com/metricq/metricq-webview | 0 | 0| 
 | 20200821T11:34:12Z | OpenEMR <= 5.0.1 - (Authenticated) Remote Code Execution | https://github.com/noraj/OpenEMR-RCE | 3 | 0| 
-| 20200821T11:31:38Z | AtMail Email Server Appliance 6.4 - Exploit toolchain (XSS > CSRF > RCE) | https://github.com/noraj/Atmail-exploit-toolchain | 4 | 1| 
 
 
 # backdoor on Github 推荐
@@ -88,16 +88,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20200821T13:34:49Z | Null | https://github.com/bob9-hackathon/web_fuzzer | 0 | 0| 
+| 20200821T13:41:40Z | Null | https://github.com/dNataly/fuzzy-succotash | 0 | 0| 
+| 20200821T13:40:12Z | Null | https://github.com/bob9-hackathon/web_fuzzer | 0 | 0| 
+| 20200821T13:39:03Z | Light, fast fuzz. Быстрый, как понос | https://github.com/xvolume/fuzzmap | 0 | 0| 
+| 20200821T13:36:30Z | CLI for static asset revisioning and reference updating. | https://github.com/robmclarty/fuzzle | 0 | 0| 
 | 20200821T13:24:37Z | A JavaScript Engine Fuzzer | https://github.com/googleprojectzero/fuzzilli | 1009 | 163| 
-| 20200821T13:21:40Z | CLI for static asset revisioning and reference updating. | https://github.com/robmclarty/fuzzle | 0 | 0| 
 | 20200821T13:08:46Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 26390 | 12805| 
 | 20200821T13:00:40Z | exploit for buffer overflow | https://github.com/psgareja/fuzzer | 0 | 0| 
 | 20200821T12:57:28Z | FuzzyBIO is a fuzzy continuous representation of discontinuous entities. This repository contains scripts to transform your data and analyse the impact on NER and normalization. | https://github.com/AnneDirkson/FuzzyBIO | 0 | 0| 
 | 20200821T12:38:21Z | Null | https://github.com/hnemati/refinedGrammar_fuzzing | 0 | 0| 
 | 20200821T12:24:46Z | Null | https://github.com/mtanveer1/A-Fuzzy-Universum-Support-Vector-Machine-Based-on-Information-Entropy | 0 | 0| 
-| 20200821T12:18:54Z | Take the current implementation and turning a microservice architecture | https://github.com/ccesarrod/FuzzyMicrosrvices | 0 | 0| 
-| 20200821T12:03:51Z | Null | https://github.com/ccesarrod/.NetCoreFuzzy | 0 | 0| 
 
 
 
