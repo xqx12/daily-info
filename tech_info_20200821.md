@@ -19,6 +19,8 @@
 | 20200821 | 利用 ZoomEye 追踪多种 Redteam C&C 后渗透攻击框架 | https://sec.today/pulses/20a8fc7f-5f0f-4881-907d-8de4f3308a9f/| 
 | 20200821 | gRPC 通信框架实现存在数据泄露等安全问题 | https://sec.today/pulses/11733141-43c1-449b-ad94-9993bf7abf8f/| 
 | 20200821 | Play Web 框架 CSRF 保护 Bypass 漏洞分析 | https://blog.doyensec.com/2020/08/20/playframework-csrf-bypass.html| 
+| 20200821 | 利用 ZoomEye 追踪多种 Redteam C&C 后渗透攻击框架 | http://paper.seebug.org/1301/| 
+| 20200821 | gRPC 通信框架实现存在数据泄露等安全问题 | https://blog.trendmicro.com/trendlabs-security-intelligence/unsecure-grpc-implementations-compromise-apis-applications/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+Anti-MalwareBlog+%28Trendlabs+Security+Intelligence+Blog%29| 
 
 
 # 安全维基 推荐
@@ -75,15 +77,18 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20200821T00:06:01Z | A command line PHP backdoor with the simplest stager ever. | https://github.com/Zeta314/Str4W | 0 | 0| 
-| 20200821T00:05:53Z | adding a backdooruser using win32api | https://github.com/jfmaes/Backdoorplz | 18 | 5| 
-| 20200821T00:01:15Z | Hacking tools pack & backdoors generator. | https://github.com/AdrMXR/KitHack | 127 | 31| 
+| 20200821T11:11:08Z | PCI Express DIY hacking toolkit for Xilinx SP605 | https://github.com/Cr4sh/s6_pcie_microblaze | 255 | 58| 
+| 20200821T09:54:33Z | A command line PHP backdoor with the simplest stager ever. | https://github.com/Zeta314/Str4W | 0 | 0| 
+| 20200821T09:09:12Z | Pupy is an opensource, cross-platform (Windows, Linux, OSX, Android) remote administration and post-exploitation tool mainly written in python | https://github.com/n1nj4sec/pupy | 5750 | 1503| 
+| 20200821T05:06:16Z | Hacking tools pack & backdoors generator. | https://github.com/AdrMXR/KitHack | 128 | 31| 
+| 20200821T02:13:59Z | adding a backdooruser using win32api | https://github.com/jfmaes/Backdoorplz | 19 | 6| 
 
 
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20200821T12:02:33Z | A  playground to learn computer graphics | https://github.com/patiboh/fuzzy-playground | 0 | 0| 
+| 20200821T12:03:51Z | Null | https://github.com/ccesarrod/.NetCoreFuzzy | 0 | 0| 
+| 20200821T12:03:39Z | A  playground to learn computer graphics | https://github.com/patiboh/fuzzy-playground | 0 | 0| 
 | 20200821T11:50:55Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 26389 | 12805| 
 | 20200821T11:42:32Z | Differential Fuzzer for Ethereum 2.0 | https://github.com/sigp/beacon-fuzz | 37 | 6| 
 | 20200821T11:34:29Z | Fuzzy matching for `company-mode%. | https://github.com/jcs-elpa/company-fuzzy | 34 | 2| 
@@ -92,7 +97,6 @@
 | 20200821T11:03:41Z | A fork of AFL for fuzzing Windows binaries | https://github.com/googleprojectzero/winafl | 1519 | 394| 
 | 20200821T10:12:05Z | A tool to enable fuzzing for Spectre vulnerabilities | https://github.com/OleksiiOleksenko/SpecFuzz | 10 | 3| 
 | 20200821T09:37:57Z | Null | https://github.com/ethereum/solidity-fuzzing-corpus | 9 | 2| 
-| 20200821T09:29:46Z | A JavaScript Engine Fuzzer | https://github.com/googleprojectzero/fuzzilli | 1009 | 163| 
 
 
 

@@ -19,13 +19,13 @@
 | 20200821 | 利用 ZoomEye 追踪多种 Redteam C&C 后渗透攻击框架 | https://sec.today/pulses/20a8fc7f-5f0f-4881-907d-8de4f3308a9f/| 
 | 20200821 | gRPC 通信框架实现存在数据泄露等安全问题 | https://sec.today/pulses/11733141-43c1-449b-ad94-9993bf7abf8f/| 
 | 20200821 | Play Web 框架 CSRF 保护 Bypass 漏洞分析 | https://blog.doyensec.com/2020/08/20/playframework-csrf-bypass.html| 
+| 20200821 | 利用 ZoomEye 追踪多种 Redteam C&C 后渗透攻击框架 | http://paper.seebug.org/1301/| 
+| 20200821 | gRPC 通信框架实现存在数据泄露等安全问题 | https://blog.trendmicro.com/trendlabs-security-intelligence/unsecure-grpc-implementations-compromise-apis-applications/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+Anti-MalwareBlog+%28Trendlabs+Security+Intelligence+Blog%29| 
 | 20200820 | Issue 2043: Samsung Android heap buffer overflow and other issues in the Skia Qmage image codec (fuzzing iteration #2) | https://bugs.chromium.org/p/project-zero/issues/detail?id=2043| 
 | 20200820 | Issue 2042: PAC and JIT Hardening Bypass in WebKit on iOS | https://bugs.chromium.org/p/project-zero/issues/detail?id=2042| 
 | 20200820 | Issue 2044: PAC bypass due to unprotected function pointer imports | https://bugs.chromium.org/p/project-zero/issues/detail?id=2044| 
 | 20200820 | 运行 OpenLDAP 的 Docker 镜像环境 | https://github.com/osixia/docker-openldap| 
 | 20200820 | Agamotto: Accelerating Kernel Driver Fuzzing with Lightweight Virtual Machine Checkpoints | https://github.com/securesystemslab/agamotto| 
-| 20200820 | GNU libc 三角图形相关实现缓冲区溢出漏洞分析（CVE-2020-10029） | https://securityboulevard.com/2020/08/cve-2020-10029-buffer-overflow-in-gnu-libc-trigonometry-functions/| 
-| 20200820 | RCE in any MS Exchange via Exchange Trusted Subsystem | https://github.com/SecureAuthCorp/impacket/pull/857| 
 
 
 # 安全维基 推荐
@@ -49,13 +49,13 @@
 | 20200821T09:10:30Z | CVE-2020-2551 | weblogic 漏洞扫描工具。目前包含 CVE-2014-4210、CVE-2016-0638、CVE-2016-3510、CVE-2017-3248、CVE-2017-3506、CVE-2017-10271、CVE-2018-2628、CVE-2018-2893、CVE-2018-2894、CVE-2018-3191、CVE-2018-3245、CVE-2018-3252、CVE-2019-2618、CVE-2019-2725、CVE-2019-2729、CVE-2019-2890、CVE-2020-2551 | https://github.com/0xn0ne/weblogicScanner | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
 | 20200821T07:47:09Z | CVE-2020-2883 | WebLogic利用CVE-2020-2883打Shiro rememberMe反序列化漏洞，一键注册蚁剑filter内存shell | https://github.com/Y4er/WebLogic-Shiro-shell | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
 | 20200821T01:03:52Z | 未知编号 | CVE Data Analysis, CVE Monitor, CVE EXP Prediction Based on Deep Learning. 1999-2020年存量CVE数据分析、监控CVE增量更新、基于深度学习的CVE EXP预测和自动化推送 | https://github.com/404notf0und/CVE-Flow | 未查询到CVE信息| 
-| 20200820T16:00:01Z | CVE-2020-0796 | Multithread SMB scanner to check CVE-2020-0796 for SMB v3.11 | https://github.com/gabimarti/SMBScanner | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 57 MINUTES 41 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200820T15:15:53Z | CVE-2020-1337 | CVE-2020-1048 bypass: binary planting PoC | https://github.com/neofito/CVE-2020-1337 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 57 MINUTES 45 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200820T16:00:01Z | CVE-2020-0796 | Multithread SMB scanner to check CVE-2020-0796 for SMB v3.11 | https://github.com/gabimarti/SMBScanner | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 55 MINUTES 37 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200820T15:15:53Z | CVE-2020-1337 | CVE-2020-1048 bypass: binary planting PoC | https://github.com/neofito/CVE-2020-1337 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 55 MINUTES 41 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20200820T12:36:02Z | 未知编号 | Null | https://github.com/potats0/cve_2020_14644 | 未查询到CVE信息| 
-| 20200820T12:24:10Z | CVE-2020-17496 | Null | https://github.com/ctlyz123/CVE-2020-17496 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 57 MINUTES 56 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200820T12:24:10Z | CVE-2020-17496 | Null | https://github.com/ctlyz123/CVE-2020-17496 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 55 MINUTES 55 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20200820T09:02:49Z | cve-2020-1337 | poc for CVE-2020-1337 (Windows Print Spooler Elevation of Privilege) | https://github.com/sailay1996/cve-2020-1337-poc | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 00 MINUTES 09 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20200820T05:39:39Z | CVE-2020-0041 | Null | https://github.com/j4nn/CVE-2020-0041 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 39 MINUTES 11 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200819T17:51:51Z | CVE-2020-0688 | [CVE-2020-0688] Microsoft Exchange Server Fixed Cryptographic Key Remote Code Execution (RCE) | https://github.com/murataydemir/CVE-2020-0688 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 57 MINUTES 51 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200819T17:51:51Z | CVE-2020-0688 | [CVE-2020-0688] Microsoft Exchange Server Fixed Cryptographic Key Remote Code Execution (RCE) | https://github.com/murataydemir/CVE-2020-0688 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 55 MINUTES 49 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 
 
 # klee on Github 推荐
@@ -103,13 +103,13 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20200821T00:06:01Z | A command line PHP backdoor with the simplest stager ever. | https://github.com/Zeta314/Str4W | 0 | 0| 
-| 20200821T00:05:53Z | adding a backdooruser using win32api | https://github.com/jfmaes/Backdoorplz | 18 | 5| 
-| 20200821T00:01:15Z | Hacking tools pack & backdoors generator. | https://github.com/AdrMXR/KitHack | 127 | 31| 
+| 20200821T11:11:08Z | PCI Express DIY hacking toolkit for Xilinx SP605 | https://github.com/Cr4sh/s6_pcie_microblaze | 255 | 58| 
+| 20200821T09:54:33Z | A command line PHP backdoor with the simplest stager ever. | https://github.com/Zeta314/Str4W | 0 | 0| 
+| 20200821T09:09:12Z | Pupy is an opensource, cross-platform (Windows, Linux, OSX, Android) remote administration and post-exploitation tool mainly written in python | https://github.com/n1nj4sec/pupy | 5750 | 1503| 
+| 20200821T05:06:16Z | Hacking tools pack & backdoors generator. | https://github.com/AdrMXR/KitHack | 128 | 31| 
+| 20200821T02:13:59Z | adding a backdooruser using win32api | https://github.com/jfmaes/Backdoorplz | 19 | 6| 
 | 20200820T22:12:20Z | Null | https://github.com/iK4oS/PremiumBackdoor.exe | 0 | 0| 
-| 20200820T21:39:18Z | PCI Express DIY hacking toolkit for Xilinx SP605 | https://github.com/Cr4sh/s6_pcie_microblaze | 252 | 58| 
 | 20200820T18:07:43Z | Null | https://github.com/iK4oS/backdoor.exe | 1 | 0| 
-| 20200820T16:25:22Z | Pupy is an opensource, cross-platform (Windows, Linux, OSX, Android) remote administration and post-exploitation tool mainly written in python | https://github.com/n1nj4sec/pupy | 5749 | 1503| 
 | 20200820T12:01:36Z | Backdoor is going to be an interactive web console for Elixir & Phoenix projects | https://github.com/amberbit/backdoor | 0 | 0| 
 | 20200820T09:03:55Z | VySecator Is a Python Script Obfuscation Tool, Which can be used to Obfuscate your hand written Malwares and your Hand Written Scripts! | https://github.com/Vedant-Bhalgama/VySecator | 25 | 2| 
 | 20200820T08:51:41Z | Null | https://github.com/kaidi-jin/backdoor_samples_detection | 2 | 0| 
@@ -118,7 +118,8 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20200821T12:02:33Z | A  playground to learn computer graphics | https://github.com/patiboh/fuzzy-playground | 0 | 0| 
+| 20200821T12:03:51Z | Null | https://github.com/ccesarrod/.NetCoreFuzzy | 0 | 0| 
+| 20200821T12:03:39Z | A  playground to learn computer graphics | https://github.com/patiboh/fuzzy-playground | 0 | 0| 
 | 20200821T11:50:55Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 26389 | 12805| 
 | 20200821T11:42:32Z | Differential Fuzzer for Ethereum 2.0 | https://github.com/sigp/beacon-fuzz | 37 | 6| 
 | 20200821T11:34:29Z | Fuzzy matching for `company-mode%. | https://github.com/jcs-elpa/company-fuzzy | 34 | 2| 
@@ -127,7 +128,6 @@
 | 20200821T11:03:41Z | A fork of AFL for fuzzing Windows binaries | https://github.com/googleprojectzero/winafl | 1519 | 394| 
 | 20200821T10:12:05Z | A tool to enable fuzzing for Spectre vulnerabilities | https://github.com/OleksiiOleksenko/SpecFuzz | 10 | 3| 
 | 20200821T09:37:57Z | Null | https://github.com/ethereum/solidity-fuzzing-corpus | 9 | 2| 
-| 20200821T09:29:46Z | A JavaScript Engine Fuzzer | https://github.com/googleprojectzero/fuzzilli | 1009 | 163| 
 
 
 
