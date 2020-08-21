@@ -118,16 +118,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20200820T12:50:48Z | Null | https://github.com/miguelriosoliveira/fuzzy-trader | 0 | 0| 
-| 20200820T12:43:58Z | A color scheme tool with layout and text fuzzing. Uses colr.org and randomtext.me APIs | https://github.com/cooperdozier/color-scheme-explorer | 0 | 0| 
-| 20200820T12:34:19Z | harness for fuzzing with winafl. both public and my own which i have released. | https://github.com/hardik05/winafl-harness | 0 | 0| 
-| 20200820T12:29:24Z | This repository contains the codes performed during NNFL Labs. | https://github.com/Sid-149/Neural-Networks-and-Fuzzy-Logic | 0 | 0| 
-| 20200820T12:22:30Z | Research project on Software Technology for WebAssembly WASM (on superoptimization, diversification, fuzzing) | https://github.com/KTH/slumps | 14 | 4| 
-| 20200820T12:11:01Z | A fork of AFL for fuzzing Windows binaries | https://github.com/googleprojectzero/winafl | 1518 | 392| 
-| 20200820T10:21:54Z | No idea what I%m doing | https://github.com/klecko/fuzz | 1 | 0| 
-| 20200820T09:32:03Z | White-box fuzzer for Java bytecode | https://github.com/vorpal-research/kex | 1 | 4| 
-| 20200820T09:07:56Z | 模糊认知诊断模型Python实现 | https://github.com/zelo2/FuzzyCDF | 1 | 1| 
-| 20200820T09:04:29Z | Null | https://github.com/ethereum/solidity-fuzzing-corpus | 9 | 2| 
+| 20200820T23:36:55Z | Pedal Multiefecto para guitarra electrica (LoopBack, Delay, Fuzz y Wah-wah) | https://github.com/jrosmirez94/Pedal-Multiefecto | 0 | 0| 
+| 20200820T23:36:17Z | A curated list of different AFL forks and AFL inspired fuzzers with detailed equivalent academic papers with AFL-fuzzing tutorials | https://github.com/Microsvuln/Awesome-AFL | 291 | 37| 
+| 20200820T22:37:20Z | A Python program implementing fuzzy matching between two sets of records. | https://github.com/tseastmond/fuzzylink | 0 | 0| 
+| 20200820T22:26:18Z | OSS-Fuzz - continuous fuzzing of open source software. | https://github.com/google/oss-fuzz | 5494 | 1077| 
+| 20200820T22:23:43Z | Null | https://github.com/BoB9-Web-Fuzzer-4-2/web_Fuzzer | 0 | 0| 
+| 20200820T22:21:35Z | We plan to specify grammars of inputs for three selected benchmarks, which share similar API and grammars of inputs. Then we will use these grammars as the seeds to generate well-formated inputs via gramfuzz, a Python-based grammer fuzzer, to penetrate deep into benchmarks’ parsers. We expect that some potential errors of benchmarks would be detected in this project. In addition, we plan to design a runner program, which can feed the inputs into the benchmarks automatically, as enhancements to gramfuzz. | https://github.com/alyssahyq/gramfuzz-calc | 0 | 1| 
+| 20200820T22:17:23Z | CLI for static asset revisioning and reference updating. | https://github.com/robmclarty/fuzzle | 0 | 0| 
+| 20200820T21:07:46Z | Null | https://github.com/abdulr7mann/sqliFuzzer | 0 | 0| 
+| 20200820T21:00:57Z | A unit test-like interface for fuzzing and symbolic execution | https://github.com/trailofbits/deepstate | 551 | 54| 
+| 20200820T21:00:24Z | Null | https://github.com/randomicons/fuzzydoro | 0 | 1| 
 
 
 
