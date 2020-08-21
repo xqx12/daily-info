@@ -19,6 +19,9 @@
 | 20200820 | Apache Struts2 使用某些标签时会造成 OGNL 表达式执行(S2-059 漏洞分析) | https://sec.today/pulses/1bf6aabb-eb00-4c64-90e0-b712a534ce9d/| 
 | 20200820 | Horde Groupware Webmail 代码审计与 RCE 漏洞分析 | https://srcincite.io/blog/2020/08/19/a-smorgashorde-of-vulnerabilities-a-comparative-analysis-of-discovery.html| 
 | 20200820 | Apache Struts2 使用某些标签时会造成 OGNL 表达式执行(S2-059 漏洞分析) | http://blog.topsec.com.cn/struts2-s2-059-%e6%bc%8f%e6%b4%9e%e5%88%86%e6%9e%90/| 
+| 20200820 | 渗透测试Web Shell方法总结。 | http://cisoclub.ru/pentesting-web-shells/| 
+| 20200820 | TNT小组–分析窃取AWS凭证的加密矿蠕虫溯源。 | https://www.cadosecurity.com/2020/08/17/teamtnt-the-first-crypto-mining-worm-to-steal-aws-credentials/| 
+| 20200820 | FritzFrog： 针对以Golang语言编写的僵尸网络恶意软件分析。 | https://www.guardicore.com/2020/08/fritzfrog-p2p-botnet-infects-ssh-servers/| 
 
 
 # 安全维基 推荐
@@ -29,26 +32,30 @@
 | 20200820 | 云安全环境下恶意脚本检测的最佳实践 | http://yundunpr.oss-cn-hangzhou.aliyuncs.com/2020/xcon2020.pdf| 
 | 20200820 | 大规模数据安全分类系统架构实践 | https://mp.weixin.qq.com/s/mRmDEuDKJSJ_xrYyBMn4Dw| 
 | 20200820 | Fraudar算法在京东关系网络反欺诈中的应用 | https://mp.weixin.qq.com/s/Qp1Yrlu92LwZ-n4kipq0sw| 
+| 20200820 | 关于运用大数据推进防范治理电信网络诈骗长效机制建设工作方案 | http://www.miit.gov.cn/n1146285/n1146352/n3054355/n3057724/n3057728/c8056526/content.html| 
 
 
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20200820T23:57:23Z | CVE-2020-2883 | WebLogic利用CVE-2020-2883打Shiro rememberMe反序列化漏洞，一键注册蚁剑filter内存shell | https://github.com/Y4er/WebLogic-Shiro-shell | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
+| 20200820T16:00:01Z | CVE-2020-0796 | Multithread SMB scanner to check CVE-2020-0796 for SMB v3.11 | https://github.com/gabimarti/SMBScanner | Microsoft服务器消息块3.1.1（SMBv3）协议处理某些请求的方式中存在一个远程执行代码漏洞，也称为“ Windows SMBv3客户端/服务器远程执行代码漏洞”。| 
+| 20200820T15:15:53Z | CVE-2020-1337 | CVE-2020-1048 bypass: binary planting PoC | https://github.com/neofito/CVE-2020-1337 | 当 Windows 打印后台服务器服务不正确地允许任意写入文件系统（也称为%Windows 打印后台脱机特权漏洞提升%）时，存在特权提升漏洞。| 
 | 20200820T12:36:02Z | 未知编号 | Null | https://github.com/potats0/cve_2020_14644 | 未查询到CVE信息| 
-| 20200820T12:24:10Z | CVE-2020-17496 | Null | https://github.com/ctlyz123/CVE-2020-17496 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 00 MINUTES 25 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200820T12:24:10Z | CVE-2020-17496 | Null | https://github.com/ctlyz123/CVE-2020-17496 | vBulletin 5.5.4至5.6.2允许通过ajax / render / widget_tabbedcontainer_tab_panel请求中的精巧subWidgets数据执行远程命令。注意：由于CVE-2019-16759的修复不完整，所以存在此问题。| 
 | 20200820T09:02:49Z | cve-2020-1337 | poc for CVE-2020-1337 (Windows Print Spooler Elevation of Privilege) | https://github.com/sailay1996/cve-2020-1337-poc | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 00 MINUTES 09 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200820T08:06:03Z | CVE-2020-2883 | WebLogic利用CVE-2020-2883打Shiro rememberMe反序列化漏洞，一键注册蚁剑filter内存shell | https://github.com/Y4er/WebLogic-Shiro-shell | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
 | 20200820T05:39:39Z | CVE-2020-0041 | Null | https://github.com/j4nn/CVE-2020-0041 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 15 MINUTES 15 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20200820T23:14:52Z | Create CFGs and compute complexity metrics for Python, C++, and Java code. | https://github.com/hmc-alpaqa/metrinome | 3 | 0| 
+| 20200820T22:54:05Z | Back-office app for the Kleer website | https://github.com/kleer-la/kleer.core | 0 | 0| 
 | 20200820T09:25:19Z | A tool that automatically calls Klee to solve for injection | https://github.com/Zzzode/KleeTool | 1 | 0| 
 | 20200820T05:01:39Z | A 4chan image browser written in SwiftUI | https://github.com/jackpal/KleeneStar | 10 | 0| 
 | 20200820T03:19:01Z | kleene is a library for building regular expression recognition automata - nfas, dfas, and some specialty structures. | https://github.com/davidkellis/kleene | 0 | 0| 
 | 20200820T02:00:22Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1461 | 450| 
-| 20200820T01:30:52Z | Create CFGs and compute complexity metrics for Python, C++, and Java code. | https://github.com/hmc-alpaqa/metrinome | 3 | 0| 
 
 
 # s2e on Github 推荐
@@ -59,28 +66,30 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20200820T12:49:21Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 6992 | 1120| 
-| 20200820T12:48:00Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 4 | 2| 
-| 20200820T12:44:46Z | Automated All-in-One OS command injection and exploitation tool. | https://github.com/commixproject/commix | 2368 | 553| 
-| 20200820T12:29:03Z | A proxy aware C2 framework used to aid red teamers with post-exploitation and lateral movement. | https://github.com/nettitude/PoshC2 | 510 | 134| 
-| 20200820T11:50:30Z | *Frequently Updated. Sifter is a osint, recon & vulnerability scanner. It combines a plethara of tools within different module sets in order to quickly perform recon tasks, check network firewalling, enumerate remote and local hosts, and scan for the %blue% vulnerabilities within microsft and if unpatched, exploit them.  It uses tools like blackwidow and konan for webdir enumeration and attack surface mapping rapidly using ASM.  | https://github.com/s1l3nt78/sifter | 226 | 73| 
-| 20200820T11:49:23Z | A repository for learning various heap exploitation techniques. | https://github.com/shellphish/how2heap | 3910 | 821| 
-| 20200820T11:30:42Z | This thesis investigates the relationship between employee sentiment, proxied by Glassdoor reviews and ratings, and excessive returns on corresponding bonds. While sentiment analysis is well studied for probing into how companies are perceived by investors or the general public, it is a novel idea to exploit sentiment of employees, which enables us to capture very important information for assessing companies% governance. Although a few studies scrutinising the relation employee sentiment and future stock returns have already appeared, this is the first attempt, to the best of my knowledge, to place this analysis to the universe of corporate bonds. | https://github.com/stancld/MSc-Project | 0 | 0| 
-| 20200820T11:04:48Z | Null | https://github.com/hawkwheels/Exploit_scripts | 0 | 0| 
-| 20200820T11:02:06Z | A website which combines useful links for gfn-exploiting. | https://github.com/helmutrocco13/helmutrocco13.github.io | 0 | 0| 
-| 20200820T10:53:22Z | this bash script let you download scripts and clone repos for remote exploits | https://github.com/FabioDefilippo/linuxallremote | 4 | 0| 
+| 20200820T23:57:45Z | Exploits & programs i will be writing for the purpose of learning furthermore deep within the Exploit-Development field. | https://github.com/whitecr0wz/Study-Exploits | 0 | 0| 
+| 20200820T23:56:36Z | k8gege.org - K8哥哥%s Blog | https://github.com/k8gege/k8gege.github.io | 9 | 4| 
+| 20200820T23:54:54Z | Null | https://github.com/quentin452/Cats-Exploitz-HUB | 0 | 1| 
+| 20200820T23:07:59Z | A cheat sheet that contains common enumeration and attack methods for Windows Active Directory. | https://github.com/S1ckB0y1337/Active-Directory-Exploitation-Cheat-Sheet | 644 | 181| 
+| 20200820T22:24:09Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 6995 | 1121| 
+| 20200820T22:23:10Z | lol | https://github.com/Kak-ashi/lego-exploits | 1 | 0| 
+| 20200820T21:52:54Z | Windows usermode exploitation | https://github.com/FULLSHADE/OSCE | 99 | 27| 
+| 20200820T21:49:07Z | Inferious Cheats: Top Script Utility At Your Fingertips. Proving You With Top Roblox Scripts And Software. | https://github.com/MattLawz/1nferiousCheats | 1 | 0| 
+| 20200820T21:35:21Z | Null | https://github.com/Unknown482/RobloxExploits | 0 | 0| 
+| 20200820T21:34:27Z | An exploit targeting the Nostromo 1.9.6 vulnerability re-written for Python 3. | https://github.com/Curtish96/NostromoPython3 | 0 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20200820T12:26:23Z | PCI Express DIY hacking toolkit for Xilinx SP605 | https://github.com/Cr4sh/s6_pcie_microblaze | 247 | 57| 
+| 20200820T23:54:03Z | A command line PHP backdoor with the simplest stager ever. | https://github.com/Zeta314/Str4W | 0 | 0| 
+| 20200820T22:12:20Z | Null | https://github.com/iK4oS/PremiumBackdoor.exe | 0 | 0| 
+| 20200820T21:39:18Z | PCI Express DIY hacking toolkit for Xilinx SP605 | https://github.com/Cr4sh/s6_pcie_microblaze | 252 | 58| 
+| 20200820T19:08:16Z | adding a backdooruser using win32api | https://github.com/jfmaes/Backdoorplz | 17 | 5| 
+| 20200820T18:07:43Z | Null | https://github.com/iK4oS/backdoor.exe | 1 | 0| 
+| 20200820T16:25:22Z | Pupy is an opensource, cross-platform (Windows, Linux, OSX, Android) remote administration and post-exploitation tool mainly written in python | https://github.com/n1nj4sec/pupy | 5749 | 1503| 
 | 20200820T12:01:36Z | Backdoor is going to be an interactive web console for Elixir & Phoenix projects | https://github.com/amberbit/backdoor | 0 | 0| 
-| 20200820T09:42:46Z | adding a backdooruser using win32api | https://github.com/jfmaes/Backdoorplz | 11 | 4| 
 | 20200820T09:03:55Z | VySecator Is a Python Script Obfuscation Tool, Which can be used to Obfuscate your hand written Malwares and your Hand Written Scripts! | https://github.com/Vedant-Bhalgama/VySecator | 25 | 2| 
-| 20200820T09:00:47Z | Hacking tools pack & backdoors generator. | https://github.com/AdrMXR/KitHack | 127 | 31| 
 | 20200820T08:51:41Z | Null | https://github.com/kaidi-jin/backdoor_samples_detection | 2 | 0| 
-| 20200820T08:05:58Z | Pupy is an opensource, cross-platform (Windows, Linux, OSX, Android) remote administration and post-exploitation tool mainly written in python | https://github.com/n1nj4sec/pupy | 5746 | 1503| 
 
 
 # fuzz on Github 推荐
