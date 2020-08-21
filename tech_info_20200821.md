@@ -42,7 +42,7 @@
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
 | 20200821T09:10:30Z | CVE-2020-2551 | weblogic 漏洞扫描工具。目前包含 CVE-2014-4210、CVE-2016-0638、CVE-2016-3510、CVE-2017-3248、CVE-2017-3506、CVE-2017-10271、CVE-2018-2628、CVE-2018-2893、CVE-2018-2894、CVE-2018-3191、CVE-2018-3245、CVE-2018-3252、CVE-2019-2618、CVE-2019-2725、CVE-2019-2729、CVE-2019-2890、CVE-2020-2551 | https://github.com/0xn0ne/weblogicScanner | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
-| 20200821T07:47:09Z | CVE-2020-2883 | WebLogic利用CVE-2020-2883打Shiro rememberMe反序列化漏洞，一键注册蚁剑filter内存shell | https://github.com/Y4er/WebLogic-Shiro-shell | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
+| 20200821T07:47:09Z | CVE-2020-2883 | WebLogic利用CVE-2020-2883打Shiro rememberMe反序列化漏洞，一键注册蚁剑filter内存shell | https://github.com/Y4er/WebLogic-Shiro-shell | | 
 | 20200821T01:03:52Z | 未知编号 | CVE Data Analysis, CVE Monitor, CVE EXP Prediction Based on Deep Learning. 1999-2020年存量CVE数据分析、监控CVE增量更新、基于深度学习的CVE EXP预测和自动化推送 | https://github.com/404notf0und/CVE-Flow | 未查询到CVE信息| 
 
 
@@ -62,21 +62,22 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20200821T12:57:35Z | exploit for buffer overflow | https://github.com/psgareja/fuzzer | 0 | 0| 
+| 20200821T12:48:01Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 4 | 2| 
+| 20200821T12:35:12Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 6998 | 1121| 
+| 20200821T12:33:17Z | Custom version of the original Overthrow.  Bugs squashed and squashing, exploits punishable by death, new businesses plus much more, oh and high steriod use by the AI ;) Discord link  https://discord.gg/ZdMMq9x | https://github.com/GerhartPapaGee/Overthrow-Martial-Law | 0 | 1| 
+| 20200821T12:16:07Z | Apollo is a post-exploitation tool for managing, enumerating and pivotting on compromised machines. | https://github.com/thecoderstudio/apollo | 5 | 0| 
+| 20200821T12:10:32Z | this bash script let you download scripts and clone repos for remote exploits | https://github.com/FabioDefilippo/linuxallremote | 4 | 0| 
 | 20200821T12:01:38Z | Technicolor router config decryption and injection exploit | https://github.com/antnks/technicolor-config-decrypt | 0 | 0| 
 | 20200821T12:00:43Z | 📈 A visualization of MetricQ data exploiting the advanctages of the HTA db backend  | https://github.com/metricq/metricq-webview | 0 | 0| 
 | 20200821T11:34:12Z | OpenEMR <= 5.0.1 - (Authenticated) Remote Code Execution | https://github.com/noraj/OpenEMR-RCE | 3 | 0| 
 | 20200821T11:31:38Z | AtMail Email Server Appliance 6.4 - Exploit toolchain (XSS > CSRF > RCE) | https://github.com/noraj/Atmail-exploit-toolchain | 4 | 1| 
-| 20200821T11:22:29Z | Umbraco CMS 7.12.4 - (Authenticated) Remote Code Execution | https://github.com/noraj/Umbraco-RCE | 44 | 33| 
-| 20200821T11:17:51Z | Development of code to exploit LSST and VISTA imaging | https://github.com/lsst-uk/lsst-ir-fusion | 0 | 0| 
-| 20200821T11:10:29Z | Bludit <= 3.9.2 - Authentication Bruteforce Mitigation Bypass | https://github.com/noraj/Bludit-auth-BF-bypass | 8 | 0| 
-| 20200821T11:02:34Z | Vulnerabilities of Goby supported with exploitation. | https://github.com/gobysec/GobyVuls | 32 | 7| 
-| 20200821T10:03:34Z | phpBB versions 2.0.15 and below denial of service exploit that makes use of a flaw that relates to registering multiple users. C version of the exploit. | https://github.com/Parcer0/phpBB-2.0.15-Multiple-DoS-Vulnerabilities | 0 | 0| 
-| 20200821T09:41:31Z | this bash script let you download scripts and clone repos for remote exploits | https://github.com/FabioDefilippo/linuxallremote | 4 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20200821T12:55:33Z | Null | https://github.com/BlackHoleSecurity/backdoor | 4 | 4| 
 | 20200821T11:11:08Z | PCI Express DIY hacking toolkit for Xilinx SP605 | https://github.com/Cr4sh/s6_pcie_microblaze | 255 | 58| 
 | 20200821T09:54:33Z | A command line PHP backdoor with the simplest stager ever. | https://github.com/Zeta314/Str4W | 0 | 0| 
 | 20200821T09:09:12Z | Pupy is an opensource, cross-platform (Windows, Linux, OSX, Android) remote administration and post-exploitation tool mainly written in python | https://github.com/n1nj4sec/pupy | 5750 | 1503| 
@@ -87,16 +88,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20200821T12:57:35Z | exploit for buffer overflow | https://github.com/psgareja/fuzzer | 0 | 0| 
+| 20200821T12:57:28Z | FuzzyBIO is a fuzzy continuous representation of discontinuous entities. This repository contains scripts to transform your data and analyse the impact on NER and normalization. | https://github.com/AnneDirkson/FuzzyBIO | 0 | 0| 
+| 20200821T12:53:13Z | Null | https://github.com/bob9-hackathon/web_fuzzer | 0 | 0| 
+| 20200821T12:38:21Z | Null | https://github.com/hnemati/refinedGrammar_fuzzing | 0 | 0| 
+| 20200821T12:24:46Z | Null | https://github.com/mtanveer1/A-Fuzzy-Universum-Support-Vector-Machine-Based-on-Information-Entropy | 0 | 0| 
+| 20200821T12:18:54Z | Take the current implementation and turning a microservice architecture | https://github.com/ccesarrod/FuzzyMicrosrvices | 0 | 0| 
 | 20200821T12:03:51Z | Null | https://github.com/ccesarrod/.NetCoreFuzzy | 0 | 0| 
 | 20200821T12:03:39Z | A  playground to learn computer graphics | https://github.com/patiboh/fuzzy-playground | 0 | 0| 
 | 20200821T11:50:55Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 26389 | 12805| 
 | 20200821T11:42:32Z | Differential Fuzzer for Ethereum 2.0 | https://github.com/sigp/beacon-fuzz | 37 | 6| 
-| 20200821T11:34:29Z | Fuzzy matching for `company-mode%. | https://github.com/jcs-elpa/company-fuzzy | 34 | 2| 
-| 20200821T11:21:51Z | Null | https://github.com/lazygrey/fuzzing_with_cmaes | 0 | 0| 
-| 20200821T11:16:49Z | Null | https://github.com/bob9-hackathon/web_fuzzer | 0 | 0| 
-| 20200821T11:03:41Z | A fork of AFL for fuzzing Windows binaries | https://github.com/googleprojectzero/winafl | 1519 | 394| 
-| 20200821T10:12:05Z | A tool to enable fuzzing for Spectre vulnerabilities | https://github.com/OleksiiOleksenko/SpecFuzz | 10 | 3| 
-| 20200821T09:37:57Z | Null | https://github.com/ethereum/solidity-fuzzing-corpus | 9 | 2| 
 
 
 
