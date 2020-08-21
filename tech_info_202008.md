@@ -48,8 +48,8 @@
 | --- | --- | --- | --- | ---| 
 | 20200821T01:03:52Z | 未知编号 | CVE Data Analysis, CVE Monitor, CVE EXP Prediction Based on Deep Learning. 1999-2020年存量CVE数据分析、监控CVE增量更新、基于深度学习的CVE EXP预测和自动化推送 | https://github.com/404notf0und/CVE-Flow | 未查询到CVE信息| 
 | 20200820T23:57:23Z | CVE-2020-2883 | WebLogic利用CVE-2020-2883打Shiro rememberMe反序列化漏洞，一键注册蚁剑filter内存shell | https://github.com/Y4er/WebLogic-Shiro-shell | | 
-| 20200820T16:00:01Z | CVE-2020-0796 | Multithread SMB scanner to check CVE-2020-0796 for SMB v3.11 | https://github.com/gabimarti/SMBScanner | | 
-| 20200820T15:15:53Z | CVE-2020-1337 | CVE-2020-1048 bypass: binary planting PoC | https://github.com/neofito/CVE-2020-1337 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 55 MINUTES 07 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200820T16:00:01Z | CVE-2020-0796 | Multithread SMB scanner to check CVE-2020-0796 for SMB v3.11 | https://github.com/gabimarti/SMBScanner | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 54 MINUTES 08 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200820T15:15:53Z | CVE-2020-1337 | CVE-2020-1048 bypass: binary planting PoC | https://github.com/neofito/CVE-2020-1337 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 54 MINUTES 12 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20200820T12:36:02Z | 未知编号 | Null | https://github.com/potats0/cve_2020_14644 | 未查询到CVE信息| 
 | 20200820T12:24:10Z | CVE-2020-17496 | Null | https://github.com/ctlyz123/CVE-2020-17496 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 54 MINUTES 25 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20200820T09:02:49Z | cve-2020-1337 | poc for CVE-2020-1337 (Windows Print Spooler Elevation of Privilege) | https://github.com/sailay1996/cve-2020-1337-poc | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 00 MINUTES 09 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
@@ -88,6 +88,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20200821T01:04:12Z | L%objectif de ce projet est de fournir un environnement interactif d%analyse de données, doté d%outils graphiques performants et permettant une adaptation aisée aux besoins des utilisateurs, depuis l%exécution de tâches routinières jusqu%au développement d%applications entières. Toute l’analyse s’est faite à l’aide des logiciels statistique R, SAS et PYTHON. À cet égard, nous remercions ici toute la communauté des chercheurs qui travaillent continuellement à améliorer ces outils de travail de qualité, accessible gratuitement et d’une grande puissance. R est un langage de programmation pour l’analyse et la modélisation des données. R peut être utilise comme un langage oriente objet tout comme un environnement statistique dans lequel des listes d’instructions peuvent être exécutées en séquence sans l’intervention de l’utilisateur. SAS est un système intégré pour la manipulation, l’analyse et la présentation des données. C’est un système modulaire, de nombreux modules pouvant être ajoutés au système de base : SAS Base. Le langage Python est très compact mais dispose d’une grande quantité d’extensions et de librairies qui permettent d’effectuer un grand nombre de tâches • Les plus utilisées pour la Statistique, le Data Mining et le Machine Learning sont NumPy, SciPy et Matplotlib. Étant conscient que la science est basée sur la critique, nous sommes toujours intéressés à recevoir toutes les remarques ou suggestions de correction ou d’amélioration de ce qui a été présenté dans ce mémoire.  | https://github.com/Doumbaly/Exploitation-de-donn-es | 0 | 0| 
 | 20200821T01:02:03Z | A cheat sheet that contains common enumeration and attack methods for Windows Active Directory. | https://github.com/S1ckB0y1337/Active-Directory-Exploitation-Cheat-Sheet | 645 | 181| 
 | 20200821T00:59:13Z | Null | https://github.com/quentin452/Cats-Exploitz-HUB | 0 | 1| 
 | 20200821T00:47:59Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 4 | 2| 
@@ -97,7 +98,6 @@
 | 20200820T23:56:36Z | k8gege.org - K8哥哥%s Blog | https://github.com/k8gege/k8gege.github.io | 9 | 4| 
 | 20200820T22:24:09Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 6995 | 1121| 
 | 20200820T22:23:10Z | lol | https://github.com/Kak-ashi/lego-exploits | 1 | 0| 
-| 20200820T21:52:54Z | Windows usermode exploitation | https://github.com/FULLSHADE/OSCE | 99 | 27| 
 
 
 # backdoor on Github 推荐
