@@ -65,7 +65,6 @@
 | --- | --- | --- | --- | ---| 
 | 20200821T23:41:31Z | Fag1 Is Typing... | https://github.com/Stealth-1337/Discord-Typing-Exploit | 0 | 0| 
 | 20200821T23:20:21Z | Exploits & programs i will be writing for the purpose of learning furthermore deep within the Exploit-Development field. | https://github.com/whitecr0wz/Study-Exploits | 0 | 0| 
-| 20200821T22:35:56Z | Public Exploits + Extra-curriculum for OSCE Exam Preparation | https://github.com/bigb0sss/OSCE | 24 | 9| 
 | 20200821T22:25:38Z | My exploits for challenges on pwnable.tw | https://github.com/AravGarg/pwnable.tw | 0 | 0| 
 | 20200821T21:45:13Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 7001 | 1122| 
 | 20200821T21:41:12Z | This script runs powershell by which you can downloads many ps1 scripts and use many utilities for enumeration, privilege escalation and much more | https://github.com/FabioDefilippo/winallenum | 0 | 0| 
@@ -73,6 +72,7 @@
 | 20200821T21:27:18Z | Telerik UI for ASP.NET AJAX File upload and .NET deserialisation exploit (CVE-2017-11317, CVE-2017-11357, CVE-2019-18935) | https://github.com/bao7uo/RAU_crypto | 84 | 29| 
 | 20200821T20:38:24Z | NUMASK is skip list designed to exploit the characteristics of Non-Uniform Memory Access (NUMA) architectures to improve performance | https://github.com/sss-lehigh/numask | 0 | 0| 
 | 20200821T20:37:16Z | GEF - GDB Enhanced Features for exploit devs & reversers | https://github.com/hugsy/gef | 3041 | 447| 
+| 20200821T20:25:54Z | Vulnerabilities, security advisories, exploit codes and proof-of-concept codes. | https://github.com/zeroscience/advisory | 4 | 4| 
 
 
 # backdoor on Github 推荐
