@@ -14,14 +14,15 @@
 | 20200822 | 机器学习的模型评估与调参(附代码) | https://mp.weixin.qq.com/s/Uenwe66pwl4SzcW1P2B7Iw| 
 | 20200822 | 萌新从0开始的专业渗透测试报告编写指南 | https://mp.weixin.qq.com/s/BKwPy27aVM4fSrTSlLbq7g| 
 | 20200822 | 软件漏洞挖掘方法探索 | http://netsec.ccert.edu.cn/files/slides/chao-fuzzing-small.pdf| 
+| 20200822 | Jenkins的后门实现（密码窃取,命令执行） | https://mp.weixin.qq.com/s/C002y-fBZVFv-dQztdC6Bg| 
 
 
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20200822T10:02:50Z | cve-2020-7471 | Null | https://github.com/victomteng1997/cve-2020-7471-Time_Blind_SQLi | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 56 MINUTES 07 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200822T10:02:50Z | cve-2020-7471 | Null | https://github.com/victomteng1997/cve-2020-7471-Time_Blind_SQLi | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  09 HOURS 54 MINUTES 18 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20200822T06:33:07Z | CVE-2020-2883 | WebLogic利用CVE-2020-2883打Shiro rememberMe反序列化漏洞，一键注册蚁剑filter内存shell | https://github.com/Y4er/WebLogic-Shiro-shell | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
-| 20200822T00:03:24Z | CVE-2020-5902 | A network detection package for CVE-2020-5902, a CVE10.0 vulnerability affecting F5 Networks, Inc BIG-IP devices. | https://github.com/corelight/CVE-2020-5902-F5BigIP | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 55 MINUTES 54 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200822T00:03:24Z | CVE-2020-5902 | A network detection package for CVE-2020-5902, a CVE10.0 vulnerability affecting F5 Networks, Inc BIG-IP devices. | https://github.com/corelight/CVE-2020-5902-F5BigIP | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  09 HOURS 54 MINUTES 06 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 
 
 # klee on Github 推荐
@@ -40,6 +41,9 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20200822T12:51:05Z | Blog! | https://github.com/nonetype/nonetype.github.io | 0 | 0| 
+| 20200822T12:42:27Z | The old version of bakasploit, a roblox exploit (includes source code too) | https://github.com/fateamplex/BakaSploitV1 | 0 | 0| 
+| 20200822T12:35:11Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 7006 | 1122| 
 | 20200822T11:51:35Z | A tool for remote ADB exploitation in Python3 for all Machines. | https://github.com/01010000-kumar/PhoneSploit | 5 | 4| 
 | 20200822T11:25:28Z | The repository contains code snippets to aid in exploit development | https://github.com/ianwolf99/EXPLOIT | 2 | 2| 
 | 20200822T10:24:43Z | Stealth post-exploitation framework | https://github.com/nil0x42/phpsploit | 962 | 300| 
@@ -47,9 +51,6 @@
 | 20200822T09:53:46Z | My Cybersecurity Blog - Learning Is Life | https://github.com/flast101/flast101.github.io | 0 | 0| 
 | 20200822T09:42:27Z | this bash script let you download scripts and clone repos for remote exploits | https://github.com/FabioDefilippo/linuxallremote | 4 | 0| 
 | 20200822T08:14:13Z | Automated All-in-One OS command injection and exploitation tool. | https://github.com/commixproject/commix | 2370 | 554| 
-| 20200822T07:30:56Z | Blog! | https://github.com/nonetype/nonetype.github.io | 0 | 0| 
-| 20200822T07:25:16Z | Popular Pentesting scanner in Python3.6 for SQLi/XSS/LFI/RFI and other Vulns | https://github.com/v3n0m-Scanner/V3n0M-Scanner | 743 | 315| 
-| 20200822T07:22:20Z | *Frequently Updated. Sifter is a osint, recon & vulnerability scanner. It combines a plethara of tools within different module sets in order to quickly perform recon tasks, check network firewalling, enumerate remote and local hosts, and scan for the %blue% vulnerabilities within microsft and if unpatched, exploit them.  It uses tools like blackwidow and konan for webdir enumeration and attack surface mapping rapidly using ASM.  | https://github.com/s1l3nt78/sifter | 227 | 73| 
 
 
 # backdoor on Github 推荐
@@ -67,16 +68,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20200822T12:33:21Z | Web application fuzzer | https://github.com/xmendez/wfuzz | 3046 | 767| 
+| 20200822T12:06:44Z | FuzzyKnights: Protectors of the Forst - 16bit Adventure | https://github.com/mjnrock/fuzzyknights-arcade | 0 | 0| 
 | 20200822T11:01:01Z | Null | https://github.com/FhadilahIL/fuzzy_php | 0 | 0| 
 | 20200822T10:07:48Z | harness for fuzzing with winafl. both public and my own which i have released. | https://github.com/hardik05/winafl-harness | 5 | 1| 
 | 20200822T10:00:06Z | 30 Days VS Javascript  | https://github.com/panvicka/fuzzy-meme | 0 | 0| 
 | 20200822T09:30:41Z | Fast web fuzzer written in Go | https://github.com/ffuf/ffuf | 2779 | 317| 
 | 20200822T09:28:42Z | OSS-Fuzz - continuous fuzzing of open source software. | https://github.com/google/oss-fuzz | 5501 | 1077| 
-| 20200822T09:18:49Z | Web application fuzzer | https://github.com/xmendez/wfuzz | 3045 | 767| 
 | 20200822T09:09:05Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 3106 | 713| 
 | 20200822T08:45:38Z | A  playground to learn computer graphics | https://github.com/patiboh/fuzzy-playground | 0 | 0| 
 | 20200822T07:16:32Z | Null | https://github.com/miguelriosoliveira/fuzzy-trader | 0 | 0| 
-| 20200822T06:27:39Z | Tool for findings bugs in epoll-based Linux servers | https://github.com/uNetworking/libEpollFuzzer | 11 | 2| 
 
 
 
