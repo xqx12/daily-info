@@ -49,6 +49,7 @@
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20200821T20:12:45Z | Create CFGs and compute complexity metrics for Python, C++, and Java code. | https://github.com/hmc-alpaqa/metrinome | 3 | 0| 
 | 20200821T10:06:17Z | Null | https://github.com/MrPoopey/klee622-235-lab3 | 0 | 0| 
 | 20200821T07:56:58Z | A front framework | https://github.com/logic-fabric/klee | 0 | 0| 
 
@@ -62,42 +63,46 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20200821T13:49:47Z | Malicious PHP files used to infect Wordpress sites | https://github.com/Am0rphous/PHP-Malware | 0 | 0| 
-| 20200821T13:00:40Z | exploit for buffer overflow | https://github.com/psgareja/fuzzer | 0 | 0| 
-| 20200821T12:48:01Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 4 | 2| 
-| 20200821T12:35:12Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 6998 | 1121| 
-| 20200821T12:33:17Z | Custom version of the original Overthrow.  Bugs squashed and squashing, exploits punishable by death, new businesses plus much more, oh and high steriod use by the AI ;) Discord link  https://discord.gg/ZdMMq9x | https://github.com/GerhartPapaGee/Overthrow-Martial-Law | 0 | 1| 
-| 20200821T12:16:07Z | Apollo is a post-exploitation tool for managing, enumerating and pivotting on compromised machines. | https://github.com/thecoderstudio/apollo | 5 | 0| 
-| 20200821T12:10:32Z | this bash script let you download scripts and clone repos for remote exploits | https://github.com/FabioDefilippo/linuxallremote | 4 | 0| 
-| 20200821T12:01:38Z | Technicolor router config decryption and injection exploit | https://github.com/antnks/technicolor-config-decrypt | 0 | 0| 
-| 20200821T12:00:43Z | 📈 A visualization of MetricQ data exploiting the advanctages of the HTA db backend  | https://github.com/metricq/metricq-webview | 0 | 0| 
-| 20200821T11:34:12Z | OpenEMR <= 5.0.1 - (Authenticated) Remote Code Execution | https://github.com/noraj/OpenEMR-RCE | 3 | 0| 
+| 20200821T23:41:31Z | Fag1 Is Typing... | https://github.com/Stealth-1337/Discord-Typing-Exploit | 0 | 0| 
+| 20200821T23:39:31Z | Tentando Criar um Exploit | https://github.com/robertpaschoal/TryExploit | 0 | 0| 
+| 20200821T23:20:21Z | Exploits & programs i will be writing for the purpose of learning furthermore deep within the Exploit-Development field. | https://github.com/whitecr0wz/Study-Exploits | 0 | 0| 
+| 20200821T22:35:56Z | Public Exploits + Extra-curriculum for OSCE Exam Preparation | https://github.com/bigb0sss/OSCE | 24 | 9| 
+| 20200821T22:25:38Z | My exploits for challenges on pwnable.tw | https://github.com/AravGarg/pwnable.tw | 0 | 0| 
+| 20200821T21:45:13Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 7001 | 1122| 
+| 20200821T21:41:12Z | This script runs powershell by which you can downloads many ps1 scripts and use many utilities for enumeration, privilege escalation and much more | https://github.com/FabioDefilippo/winallenum | 0 | 0| 
+| 20200821T21:30:19Z | How Hackers Exploit WordPress Websites with Pending Updates | https://github.com/WolfEsq/2020-Slides-WordCamp-MSP | 0 | 0| 
+| 20200821T21:27:18Z | Telerik UI for ASP.NET AJAX File upload and .NET deserialisation exploit (CVE-2017-11317, CVE-2017-11357, CVE-2019-18935) | https://github.com/bao7uo/RAU_crypto | 84 | 29| 
+| 20200821T20:38:24Z | NUMASK is skip list designed to exploit the characteristics of Non-Uniform Memory Access (NUMA) architectures to improve performance | https://github.com/sss-lehigh/numask | 0 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20200821T22:31:52Z | An advanced reverse shell written in Python3. | https://github.com/sayak-brm/ShellBot | 10 | 5| 
+| 20200821T18:53:53Z | Pupy is an opensource, cross-platform (Windows, Linux, OSX, Android) remote administration and post-exploitation tool mainly written in python | https://github.com/n1nj4sec/pupy | 5750 | 1504| 
+| 20200821T18:46:30Z | VySecator Is a Python Script Obfuscation Tool, Which can be used to Obfuscate your hand written Malwares and your Hand Written Scripts! | https://github.com/Vedant-Bhalgama/VySecator | 26 | 2| 
+| 20200821T18:00:53Z | Null | https://github.com/manasp2004/Backdoor | 0 | 0| 
+| 20200821T17:57:55Z | adding a backdooruser using win32api | https://github.com/jfmaes/Backdoorplz | 22 | 6| 
+| 20200821T14:31:16Z | PCI Express DIY hacking toolkit for Xilinx SP605 | https://github.com/Cr4sh/s6_pcie_microblaze | 256 | 58| 
+| 20200821T14:11:23Z | A Kotlin program used to analyse and discover backdoors in Java programs | https://github.com/Tigermouthbear/Theia | 30 | 4| 
 | 20200821T12:55:33Z | Null | https://github.com/BlackHoleSecurity/backdoor | 4 | 4| 
-| 20200821T11:11:08Z | PCI Express DIY hacking toolkit for Xilinx SP605 | https://github.com/Cr4sh/s6_pcie_microblaze | 255 | 58| 
 | 20200821T09:54:33Z | A command line PHP backdoor with the simplest stager ever. | https://github.com/Zeta314/Str4W | 0 | 0| 
-| 20200821T09:09:12Z | Pupy is an opensource, cross-platform (Windows, Linux, OSX, Android) remote administration and post-exploitation tool mainly written in python | https://github.com/n1nj4sec/pupy | 5750 | 1503| 
 | 20200821T05:06:16Z | Hacking tools pack & backdoors generator. | https://github.com/AdrMXR/KitHack | 128 | 31| 
-| 20200821T02:13:59Z | adding a backdooruser using win32api | https://github.com/jfmaes/Backdoorplz | 19 | 6| 
 
 
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20200821T14:03:26Z | CLI for static asset revisioning and reference updating. | https://github.com/robmclarty/fuzzle | 0 | 0| 
-| 20200821T13:56:11Z | FuzzBench - Fuzzer benchmarking as a service. | https://github.com/google/fuzzbench | 509 | 73| 
-| 20200821T13:49:13Z | Light, fast fuzz. Быстрый, как понос | https://github.com/xvolume/fuzzmap | 0 | 0| 
-| 20200821T13:43:43Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 26391 | 12805| 
-| 20200821T13:41:40Z | Null | https://github.com/dNataly/fuzzy-succotash | 0 | 0| 
-| 20200821T13:40:12Z | Null | https://github.com/bob9-hackathon/web_fuzzer | 0 | 0| 
-| 20200821T13:24:37Z | A JavaScript Engine Fuzzer | https://github.com/googleprojectzero/fuzzilli | 1009 | 163| 
-| 20200821T13:00:40Z | exploit for buffer overflow | https://github.com/psgareja/fuzzer | 0 | 0| 
-| 20200821T12:57:28Z | FuzzyBIO is a fuzzy continuous representation of discontinuous entities. This repository contains scripts to transform your data and analyse the impact on NER and normalization. | https://github.com/AnneDirkson/FuzzyBIO | 0 | 0| 
-| 20200821T12:38:21Z | Null | https://github.com/hnemati/refinedGrammar_fuzzing | 0 | 0| 
+| 20200821T23:52:27Z | OSS-Fuzz - continuous fuzzing of open source software. | https://github.com/google/oss-fuzz | 5499 | 1077| 
+| 20200821T23:41:55Z | A differential fuzzer for x86 decoders | https://github.com/trailofbits/mishegos | 103 | 15| 
+| 20200821T23:36:47Z | Null | https://github.com/googleinterns/zetasql-fuzzing | 1 | 1| 
+| 20200821T23:18:17Z | A fork and successor of the Sulley Fuzzing Framework | https://github.com/jtpereyda/boofuzz | 1018 | 216| 
+| 20200821T20:57:48Z | FuzzBench - Fuzzer benchmarking as a service. | https://github.com/google/fuzzbench | 509 | 73| 
+| 20200821T20:27:04Z | Bazel Starlark extensions for defining fuzz tests in Bazel projects | https://github.com/googleinterns/bazel-rules-fuzzing | 2 | 1| 
+| 20200821T20:02:13Z | A cross-platform browser fuzzing framework | https://github.com/MozillaSecurity/grizzly | 208 | 27| 
+| 20200821T19:34:35Z | 🤖 Repeat tests. Repeat tests. Repeat tests. | https://github.com/ehmicky/test-each | 89 | 2| 
+| 20200821T19:27:48Z | Null | https://github.com/HharoldShi/ECE653-Fuzzing | 0 | 0| 
+| 20200821T19:25:20Z | FuzzyKnights: Protectors of the Forst - 16bit Adventure | https://github.com/mjnrock/fuzzyknights-arcade | 0 | 0| 
 
 
 
