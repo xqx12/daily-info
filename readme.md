@@ -84,7 +84,6 @@
 | 20200821T18:00:53Z | Null | https://github.com/manasp2004/Backdoor | 0 | 0| 
 | 20200821T17:57:55Z | adding a backdooruser using win32api | https://github.com/jfmaes/Backdoorplz | 22 | 6| 
 | 20200821T14:31:16Z | PCI Express DIY hacking toolkit for Xilinx SP605 | https://github.com/Cr4sh/s6_pcie_microblaze | 256 | 58| 
-| 20200821T14:11:23Z | A Kotlin program used to analyse and discover backdoors in Java programs | https://github.com/Tigermouthbear/Theia | 30 | 4| 
 | 20200821T12:55:33Z | Null | https://github.com/BlackHoleSecurity/backdoor | 4 | 4| 
 | 20200821T09:54:33Z | A command line PHP backdoor with the simplest stager ever. | https://github.com/Zeta314/Str4W | 0 | 0| 
 | 20200821T05:06:16Z | Hacking tools pack & backdoors generator. | https://github.com/AdrMXR/KitHack | 128 | 31| 
