@@ -118,6 +118,8 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20200823T02:14:42Z | Null | https://github.com/miguelriosoliveira/fuzzy-trader-server | 0 | 0| 
+| 20200823T02:14:25Z | Null | https://github.com/miguelriosoliveira/fuzzy-trader | 0 | 0| 
 | 20200823T02:02:42Z | Fuzzy Simple Linear Iterative Clustering (Suitable for noise environment.) | https://github.com/Alicewithrabbit/Fuzzy-SLIC | 2 | 1| 
 | 20200823T01:56:17Z | bug bench with high interpretability for fuzzers evaluation | https://github.com/zeqiii/Bench4I | 0 | 0| 
 | 20200823T01:32:05Z | A ground-truth binary fuzzing benchmark suite based on real programs with real bugs. | https://github.com/HexHive/magma | 46 | 16| 
@@ -125,8 +127,6 @@
 | 20200822T23:43:55Z | This project is just me trying to replicate the work done by Brandon Falk during the Fuzz Week for learning purposes and experimentation. | https://github.com/jroimartin/riscv-emu | 2 | 0| 
 | 20200822T23:22:35Z | FuzzyKnights: Protectors of the Forst - 16bit Adventure | https://github.com/mjnrock/fuzzyknights-arcade | 0 | 0| 
 | 20200822T23:20:26Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 26411 | 12822| 
-| 20200822T22:59:43Z | Null | https://github.com/miguelriosoliveira/fuzzy-trader-server | 0 | 0| 
-| 20200822T22:19:43Z | Null | https://github.com/miguelriosoliveira/fuzzy-trader | 0 | 0| 
 | 20200822T22:17:48Z | Null | https://github.com/HharoldShi/ECE653-Fuzzing | 0 | 0| 
 
 
