@@ -75,16 +75,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20200822T13:43:54Z | Null | https://github.com/abhinav518/fuzzy | 1 | 0| 
-| 20200822T13:28:48Z | This project is just me trying to replicate the work done by Brandon Falk during the Fuzz Week for learning purposes and experimentation. | https://github.com/jroimartin/riscv-emu | 2 | 0| 
-| 20200822T12:33:21Z | Web application fuzzer | https://github.com/xmendez/wfuzz | 3046 | 767| 
-| 20200822T12:06:44Z | FuzzyKnights: Protectors of the Forst - 16bit Adventure | https://github.com/mjnrock/fuzzyknights-arcade | 0 | 0| 
-| 20200822T11:01:01Z | Null | https://github.com/FhadilahIL/fuzzy_php | 0 | 0| 
-| 20200822T10:07:48Z | harness for fuzzing with winafl. both public and my own which i have released. | https://github.com/hardik05/winafl-harness | 5 | 1| 
-| 20200822T10:00:06Z | 30 Days VS Javascript  | https://github.com/panvicka/fuzzy-meme | 0 | 0| 
-| 20200822T09:30:41Z | Fast web fuzzer written in Go | https://github.com/ffuf/ffuf | 2779 | 317| 
-| 20200822T09:28:42Z | OSS-Fuzz - continuous fuzzing of open source software. | https://github.com/google/oss-fuzz | 5501 | 1077| 
-| 20200822T09:09:05Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 3106 | 713| 
+| 20200822T23:43:55Z | This project is just me trying to replicate the work done by Brandon Falk during the Fuzz Week for learning purposes and experimentation. | https://github.com/jroimartin/riscv-emu | 2 | 0| 
+| 20200822T23:22:35Z | FuzzyKnights: Protectors of the Forst - 16bit Adventure | https://github.com/mjnrock/fuzzyknights-arcade | 0 | 0| 
+| 20200822T23:20:26Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 26411 | 12822| 
+| 20200822T22:59:43Z | Null | https://github.com/miguelriosoliveira/fuzzy-trader-server | 0 | 0| 
+| 20200822T22:19:43Z | Null | https://github.com/miguelriosoliveira/fuzzy-trader | 0 | 0| 
+| 20200822T22:17:48Z | Null | https://github.com/HharoldShi/ECE653-Fuzzing | 0 | 0| 
+| 20200822T21:43:53Z | The code behind getfursu.it | https://github.com/veelkoov/fuzzrake | 6 | 0| 
+| 20200822T21:31:21Z | Funny Fuzzing Wordlist | https://github.com/koaj/ffw-content-discovery | 0 | 1| 
+| 20200822T19:47:20Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 3106 | 714| 
+| 20200822T19:29:00Z | We plan to specify grammars of inputs for three selected benchmarks, which share similar API and grammars of inputs. Then we will use these grammars as the seeds to generate well-formated inputs via gramfuzz, a Python-based grammer fuzzer, to penetrate deep into benchmarks’ parsers. We expect that some potential errors of benchmarks would be detected in this project. In addition, we plan to design a runner program, which can feed the inputs into the benchmarks automatically, as enhancements to gramfuzz. | https://github.com/alyssahyq/gramfuzz-calc | 0 | 1| 
 
 
 
