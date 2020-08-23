@@ -61,6 +61,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20200823T12:53:26Z | Null | https://github.com/QAZI-98/Fuzzy-safety-caclulator | 0 | 0| 
 | 20200823T12:51:04Z | FANS: Fuzzing Android Native System Services | https://github.com/iromise/fans | 44 | 4| 
 | 20200823T12:38:42Z | A ground-truth binary fuzzing benchmark suite based on real programs with real bugs. | https://github.com/HexHive/magma | 47 | 16| 
 | 20200823T12:16:39Z | AFLNet: A Greybox Fuzzer for Network Protocols (https://thuanpv.github.io/publications/AFLNet_ICST20.pdf) | https://github.com/aflnet/aflnet | 276 | 38| 
@@ -70,7 +71,6 @@
 | 20200823T10:06:06Z | A fuzzy parser for C/C++ that creates semantic code property graphs | https://github.com/ShiftLeftSecurity/fuzzyc2cpg | 36 | 11| 
 | 20200823T09:24:33Z | No idea what I%m doing | https://github.com/klecko/fuzz | 1 | 0| 
 | 20200823T09:15:52Z | Find forgotten database dumps using this small but quick fuzz list | https://github.com/0x00gum/DatabaseDumps | 0 | 0| 
-| 20200823T08:14:12Z | Null | https://github.com/SOPHIA-LIT/Fuzzy-Matching | 0 | 0| 
 
 
 
