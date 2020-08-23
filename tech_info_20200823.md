@@ -35,6 +35,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20200823T12:44:13Z | Updated Axon for ROBLOX. Axon is shit so this exploit is still pretty shitty but it works! | https://github.com/Xekser/Axon-Updated | 0 | 0| 
 | 20200823T12:41:12Z | Null | https://github.com/vulsio/go-exploitdb | 60 | 20| 
 | 20200823T12:35:10Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 7011 | 1122| 
 | 20200823T12:34:45Z | this  bash script lets you choose a linux enumeration script, exploitation and utilities. read README.md file to learn about this script.. | https://github.com/FabioDefilippo/linuxallenum | 1 | 0| 
@@ -44,7 +45,6 @@
 | 20200823T10:11:22Z | some fun php exploits  | https://github.com/m4p1e/php-exploit | 0 | 0| 
 | 20200823T10:03:31Z | A phased, evasive Path Traversal + LFI scanning & exploitation tool in Python | https://github.com/VainlyStrain/Vailyn | 35 | 0| 
 | 20200823T09:16:57Z | 通达OA<v11.5&v11.6版本RCE Exploit | https://github.com/admintony/TongdaRCE | 1 | 1| 
-| 20200823T08:46:58Z | Build a database of libc offsets to simplify exploitation | https://github.com/niklasb/libc-database | 989 | 171| 
 
 
 # backdoor on Github 推荐
