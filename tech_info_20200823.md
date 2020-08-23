@@ -61,7 +61,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20200823T12:53:26Z | Null | https://github.com/QAZI-98/Fuzzy-safety-caclulator | 0 | 0| 
+| 20200823T12:57:14Z | Null | https://github.com/QAZI-98/Fuzzy-safety-caclulator | 0 | 0| 
 | 20200823T12:51:04Z | FANS: Fuzzing Android Native System Services | https://github.com/iromise/fans | 44 | 4| 
 | 20200823T12:38:42Z | A ground-truth binary fuzzing benchmark suite based on real programs with real bugs. | https://github.com/HexHive/magma | 47 | 16| 
 | 20200823T12:16:39Z | AFLNet: A Greybox Fuzzer for Network Protocols (https://thuanpv.github.io/publications/AFLNet_ICST20.pdf) | https://github.com/aflnet/aflnet | 276 | 38| 
