@@ -88,6 +88,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20200823T00:03:10Z | k8gege.org - K8哥哥%s Blog | https://github.com/k8gege/k8gege.github.io | 9 | 4| 
 | 20200822T23:58:09Z | Public Exploits + Extra-curriculum for OSCE Exam Preparation | https://github.com/bigb0sss/OSCE | 24 | 9| 
 | 20200822T21:54:22Z | Roblox Exploits | https://github.com/Vertigio/Exploits | 0 | 0| 
 | 20200822T21:35:10Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 7009 | 1122| 
@@ -97,7 +98,6 @@
 | 20200822T19:13:39Z | This simple bash script use radare2 and grep to search vulnerable functions in ELF files | https://github.com/FabioDefilippo/search-weaknesses | 0 | 0| 
 | 20200822T18:35:37Z | GitHub Pages | https://github.com/gamer23232323/EvilExploit | 0 | 0| 
 | 20200822T18:18:40Z | https://krunker.io/ edit exploit for modding krunker | https://github.com/ZaResX/KrunkerZares | 7 | 8| 
-| 20200822T17:39:49Z | A phased, evasive Path Traversal + LFI scanning & exploitation tool in Python | https://github.com/VainlyStrain/Vailyn | 35 | 0| 
 
 
 # backdoor on Github 推荐
