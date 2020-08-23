@@ -61,6 +61,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20200823T12:16:39Z | AFLNet: A Greybox Fuzzer for Network Protocols (https://thuanpv.github.io/publications/AFLNet_ICST20.pdf) | https://github.com/aflnet/aflnet | 276 | 38| 
 | 20200823T11:25:54Z | FANS: Fuzzing Android Native System Services | https://github.com/iromise/fans | 43 | 3| 
 | 20200823T11:18:24Z | Personal website of Laurence Hughes | https://github.com/fuzzylogicxx/fuzzylogic | 4 | 1| 
 | 20200823T10:31:56Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 3106 | 714| 
@@ -70,7 +71,6 @@
 | 20200823T09:15:52Z | Find forgotten database dumps using this small but quick fuzz list | https://github.com/0x00gum/DatabaseDumps | 0 | 0| 
 | 20200823T08:14:12Z | Null | https://github.com/SOPHIA-LIT/Fuzzy-Matching | 0 | 0| 
 | 20200823T07:30:40Z | Get Started with AFLplusplus. Run AFL++ & get FUZZING! in a jiffy.. | https://github.com/ch3332xr/AFLplusplus | 2 | 1| 
-| 20200823T07:29:43Z | Get started with SYZKALLER. FUZZ LINUX Kernels on the go | https://github.com/ch3332xr/SYZKALLER | 2 | 0| 
 
 
 
