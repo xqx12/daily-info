@@ -63,7 +63,7 @@
 | --- | --- | --- | --- | ---| 
 | 20200823T12:38:42Z | A ground-truth binary fuzzing benchmark suite based on real programs with real bugs. | https://github.com/HexHive/magma | 47 | 16| 
 | 20200823T12:16:39Z | AFLNet: A Greybox Fuzzer for Network Protocols (https://thuanpv.github.io/publications/AFLNet_ICST20.pdf) | https://github.com/aflnet/aflnet | 276 | 38| 
-| 20200823T11:25:54Z | FANS: Fuzzing Android Native System Services | https://github.com/iromise/fans | 43 | 3| 
+| 20200823T11:25:54Z | FANS: Fuzzing Android Native System Services | https://github.com/iromise/fans | 43 | 4| 
 | 20200823T11:18:24Z | Personal website of Laurence Hughes | https://github.com/fuzzylogicxx/fuzzylogic | 4 | 1| 
 | 20200823T10:31:56Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 3106 | 714| 
 | 20200823T10:18:26Z | Run fuzzing experiments in Docker | https://github.com/zjuchenyuan/dockerized_fuzzing | 28 | 1| 
