@@ -35,8 +35,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20200823T12:48:51Z | Updated Axon for ROBLOX. Axon is shit so this exploit is still pretty shitty but it works! | https://github.com/Xekser/Axon-Updated | 0 | 0| 
 | 20200823T12:47:05Z | Colossus supports Owl Hub | https://github.com/GOGMANGOS/Colossus-Exploit | 0 | 0| 
-| 20200823T12:46:57Z | Updated Axon for ROBLOX. Axon is shit so this exploit is still pretty shitty but it works! | https://github.com/Xekser/Axon-Updated | 0 | 0| 
 | 20200823T12:41:12Z | Null | https://github.com/vulsio/go-exploitdb | 60 | 20| 
 | 20200823T12:35:10Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 7011 | 1122| 
 | 20200823T12:34:45Z | this  bash script lets you choose a linux enumeration script, exploitation and utilities. read README.md file to learn about this script.. | https://github.com/FabioDefilippo/linuxallenum | 1 | 0| 
@@ -61,9 +61,9 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20200823T12:51:04Z | FANS: Fuzzing Android Native System Services | https://github.com/iromise/fans | 44 | 4| 
 | 20200823T12:38:42Z | A ground-truth binary fuzzing benchmark suite based on real programs with real bugs. | https://github.com/HexHive/magma | 47 | 16| 
 | 20200823T12:16:39Z | AFLNet: A Greybox Fuzzer for Network Protocols (https://thuanpv.github.io/publications/AFLNet_ICST20.pdf) | https://github.com/aflnet/aflnet | 276 | 38| 
-| 20200823T11:25:54Z | FANS: Fuzzing Android Native System Services | https://github.com/iromise/fans | 43 | 4| 
 | 20200823T11:18:24Z | Personal website of Laurence Hughes | https://github.com/fuzzylogicxx/fuzzylogic | 4 | 1| 
 | 20200823T10:31:56Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 3106 | 714| 
 | 20200823T10:18:26Z | Run fuzzing experiments in Docker | https://github.com/zjuchenyuan/dockerized_fuzzing | 28 | 1| 
