@@ -6,6 +6,10 @@
 # 玄武实验室 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20200823 | Vault 101：Samsung CTF App逆向工程挑战赛题目。 | https://medium.com/bugbountywriteup/vault-101-samsung-ctf-android-reverse-engineering-challenge-write-up-d5a2b16a9212| 
+| 20200823 | 深入理解水坑式攻击安全研究。 | https://www.keepnetlabs.com/watering-hole-attacks/| 
+| 20200823 | Programming Clojure - 编程书籍 | https://www.programmer-books.com/programming-clojure/| 
+| 20200823 | [面向初学者]使用IDAPython修复IDA中的Coronalock（BigLock）IAT. | https://poxyran.github.io/poxyblog/src/pages/21-08-2020-using-idapython-to-fix-coronalock-iat.html| 
 
 
 # 安全维基 推荐
@@ -18,59 +22,66 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20200823T11:35:14Z | 未知编号 | CVE Data Analysis, CVE Monitor, CVE EXP Prediction Based on Deep Learning. 1999-2020年存量CVE数据分析、监控CVE增量更新、基于深度学习的CVE EXP预测和自动化推送 | https://github.com/404notf0und/CVE-Flow | 未查询到CVE信息| 
+| 20200823T23:19:46Z | CVE-2020-13886 | Exploit CVE-2020-13886 - LFI Intelbras TIP 200 / 200 LITE /  | https://github.com/lucxssouza/CVE-2020-13886 | 未查询到CVE信息| 
+| 20200823T16:29:33Z | 未知编号 | CVE Data Analysis, CVE Monitor, CVE EXP Prediction Based on Deep Learning. 1999-2020年存量CVE数据分析、监控CVE增量更新、基于深度学习的CVE EXP预测和自动化推送 | https://github.com/404notf0und/CVE-Flow | 未查询到CVE信息| 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20200823T21:23:53Z | A tool that automatically calls Klee to solve for injection | https://github.com/Zzzode/KleeTool | 1 | 0| 
 | 20200823T09:51:53Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1463 | 450| 
 
 
 # s2e on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20200823T21:45:35Z | Q. Yao, H. Yang, B. Han, G. Niu, J. Kwok. Searching to Exploit Memorization Effect in Learning from Noisy Labels. International Conference on Machine Learning (ICML) 2020 | https://github.com/AutoML-4Paradigm/S2E | 9 | 1| 
 
 
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20200823T12:59:17Z | 通达OA<v11.5&v11.6版本RCE Exploit | https://github.com/admintony/TongdaRCE | 2 | 1| 
-| 20200823T12:57:03Z | Small forum website for practising basic web exploits. | https://github.com/jib1337/websandbox | 0 | 0| 
-| 20200823T12:48:51Z | Updated Axon for ROBLOX. Axon is shit so this exploit is still pretty shitty but it works! | https://github.com/Xekser/Axon-Updated | 0 | 0| 
-| 20200823T12:47:05Z | Colossus supports Owl Hub | https://github.com/GOGMANGOS/Colossus-Exploit | 0 | 0| 
-| 20200823T12:41:12Z | Null | https://github.com/vulsio/go-exploitdb | 60 | 20| 
-| 20200823T12:35:10Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 7011 | 1122| 
-| 20200823T12:34:45Z | this  bash script lets you choose a linux enumeration script, exploitation and utilities. read README.md file to learn about this script.. | https://github.com/FabioDefilippo/linuxallenum | 1 | 0| 
-| 20200823T12:18:06Z | Very simple script(s) to hasten binary exploit creation | https://github.com/152334H/pwnscripts | 1 | 0| 
-| 20200823T11:02:58Z | Null | https://github.com/quentin452/Cats-Exploitz-HUB | 0 | 1| 
-| 20200823T10:11:22Z | some fun php exploits  | https://github.com/m4p1e/php-exploit | 0 | 0| 
+| 20200823T23:45:03Z | Null | https://github.com/pharcyd3x/Exploits-OSCEprep | 0 | 0| 
+| 20200823T23:36:36Z | Null | https://github.com/zeroeuns/exploits | 0 | 0| 
+| 20200823T23:31:30Z | This script runs powershell by which you can downloads many ps1 scripts and use many utilities for enumeration, privilege escalation and much more | https://github.com/FabioDefilippo/winallenum | 0 | 0| 
+| 20200823T23:19:46Z | Exploit CVE-2020-13886 - LFI Intelbras TIP 200 / 200 LITE /  | https://github.com/lucxssouza/CVE-2020-13886 | 3 | 1| 
+| 20200823T22:39:26Z | arm_now is a qemu powered tool that allows instant setup of virtual machines on arm cpu, mips, powerpc, nios2, x86 and more, for reverse, exploit, fuzzing and programming purpose. | https://github.com/nongiach/arm_now | 674 | 85| 
+| 20200823T22:27:59Z | Motorola OMAP MBM exploit | https://github.com/CyanogenDefy/mbmhax | 0 | 0| 
+| 20200823T22:20:26Z | Unreal IRC version 3.2.8.1 exploit | https://github.com/Ch4ng3TheW0rld/Unreal-IRC-exploit | 0 | 0| 
+| 20200823T22:08:51Z | Null | https://github.com/quentin452/Cats-Exploitz-HUB | 0 | 1| 
+| 20200823T21:58:08Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 2966 | 455| 
+| 20200823T21:53:21Z | A remote code execution vulnerability exists in the HTTP protocol stack (HTTP.sys) that is caused when HTTP.sys improperly parses specially crafted HTTP requests. An attacker who successfully exploited this vulnerability could execute arbitrary code in the context of the System account.  To exploit this vulnerability, an attacker would have to send a specially crafted HTTP request to the affected system. The update addresses the vulnerability by modifying how the Windows HTTP stack handles requests. | https://github.com/jc-base4sec/MS15-034 | 1 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20200823T12:16:00Z | Null | https://github.com/Xinghui-Wu/ASR_Backdoor | 2 | 0| 
+| 20200823T23:42:00Z | Null | https://github.com/dheeraj7596/NlpBackdoor | 0 | 0| 
+| 20200823T23:28:29Z | PCI Express DIY hacking toolkit for Xilinx SP605 | https://github.com/Cr4sh/s6_pcie_microblaze | 261 | 62| 
+| 20200823T23:10:41Z | Repository for all the code related to Learn Python & Ethical Hacking From Scratch course. All the work is done on Kali Linux, using both Python 2.7 and 3.x version. | https://github.com/Maffey/ethical-hacking-course | 0 | 0| 
+| 20200823T19:57:53Z | Ghost Framework is an Android post-exploitation framework that exploits the Android Debug Bridge to remotely access an Android device. Ghost Framework gives you the power and convenience of remote Android device administration. | https://github.com/entynetproject/ghost | 668 | 335| 
+| 20200823T16:38:49Z | JS script to calculate password for ZKTeco devices admin user | https://github.com/InThU/BackdoorTFT.JS | 0 | 0| 
+| 20200823T15:53:12Z | LKM rootkit for Linux Kernels 2.6.x/3.x/4.x/5.x (x86 and x86_64) | https://github.com/m0nad/Diamorphine | 614 | 241| 
+| 20200823T15:16:40Z | Null | https://github.com/Xinghui-Wu/ASR_Backdoor | 2 | 0| 
 | 20200823T11:05:11Z | Full-featured C2 framework which silently persists on webserver via evil PHP oneliner | https://github.com/nil0x42/phpsploit | 963 | 300| 
 | 20200823T09:59:34Z | Only for educational purposes | https://github.com/Levi-python/HHbackdoor-V0.3 | 0 | 0| 
 | 20200823T09:08:06Z | A simple python reverse shell written just for fun. | https://github.com/4n4nk3/TinkererShell | 59 | 14| 
-| 20200823T05:26:46Z | VySecator Is a Python Script Obfuscation Tool, Which can be used to Obfuscate your hand written Malwares and your Hand Written Scripts! | https://github.com/Vedant-Bhalgama/VySecator | 27 | 2| 
-| 20200823T02:58:50Z | PAM Backdoor | https://github.com/rek7/madlib | 4 | 0| 
 
 
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20200823T12:57:14Z | Null | https://github.com/QAZI-98/Fuzzy-safety-caclulator | 0 | 0| 
-| 20200823T12:51:04Z | FANS: Fuzzing Android Native System Services | https://github.com/iromise/fans | 44 | 4| 
-| 20200823T12:38:42Z | A ground-truth binary fuzzing benchmark suite based on real programs with real bugs. | https://github.com/HexHive/magma | 47 | 16| 
-| 20200823T12:16:39Z | AFLNet: A Greybox Fuzzer for Network Protocols (https://thuanpv.github.io/publications/AFLNet_ICST20.pdf) | https://github.com/aflnet/aflnet | 276 | 38| 
-| 20200823T11:18:24Z | Personal website of Laurence Hughes | https://github.com/fuzzylogicxx/fuzzylogic | 4 | 1| 
-| 20200823T10:31:56Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 3106 | 714| 
-| 20200823T10:18:26Z | Run fuzzing experiments in Docker | https://github.com/zjuchenyuan/dockerized_fuzzing | 28 | 1| 
-| 20200823T10:06:06Z | A fuzzy parser for C/C++ that creates semantic code property graphs | https://github.com/ShiftLeftSecurity/fuzzyc2cpg | 36 | 11| 
-| 20200823T09:24:33Z | No idea what I%m doing | https://github.com/klecko/fuzz | 1 | 0| 
-| 20200823T09:15:52Z | Find forgotten database dumps using this small but quick fuzz list | https://github.com/0x00gum/DatabaseDumps | 0 | 0| 
+| 20200823T23:51:08Z | Null | https://github.com/zepelini/bxblue-fuzzy-trader | 0 | 0| 
+| 20200823T22:39:26Z | arm_now is a qemu powered tool that allows instant setup of virtual machines on arm cpu, mips, powerpc, nios2, x86 and more, for reverse, exploit, fuzzing and programming purpose. | https://github.com/nongiach/arm_now | 674 | 85| 
+| 20200823T22:36:11Z | My implementations of various pentest tools: clients, servers, fuzzers, proxies, etc | https://github.com/k-lazarev/offensive-python | 0 | 0| 
+| 20200823T22:11:20Z | Null | https://github.com/FhadilahIL/fuzzy_php | 0 | 0| 
+| 20200823T21:43:13Z | menu system for vim/neovim, using fzf for fuzzy selection | https://github.com/laher/fuzzymenu.vim | 43 | 3| 
+| 20200823T21:11:38Z | OSS-Fuzz - continuous fuzzing of open source software. | https://github.com/google/oss-fuzz | 5502 | 1079| 
+| 20200823T21:06:08Z | Null | https://github.com/jiradeto/fuzzbench-result | 0 | 0| 
+| 20200823T20:51:08Z | Coverage-guided binary fuzzing powered by Frida Stalker | https://github.com/meme/hotwax | 122 | 18| 
+| 20200823T20:40:00Z | c# fuzz-aldrin-plus port | https://github.com/mrxrsd/dotnet-fuzz-aldrin-plus | 0 | 0| 
+| 20200823T19:37:59Z | Fully automated python fuzzer built to test if code actually is production ready in seconds. | https://github.com/CodyKochmann/battle_tested | 58 | 2| 
 
 
 
