@@ -21,13 +21,14 @@
 | 20200824 | SecWiki周刊（第338期) | https://www.sec-wiki.com/weekly/338| 
 | 20200824 | MITRE Shield 积极防御知识库 | https://mp.weixin.qq.com/s/cljI9AFVNEb4YkglzYayDg| 
 | 20200824 | JavaScript Engine Fuzzing and Exploitation Reading List | https://zon8.re/posts/javascript-engine-fuzzing-and-exploitation-reading-list/| 
+| 20200824 | 入职一月的体感与思考 | https://mp.weixin.qq.com/s/O2CpObfiGOLa8CZbkP08Hg| 
 
 
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
 | 20200824T12:33:03Z | 未知编号 | CVE Data Analysis, CVE Monitor, CVE EXP Prediction Based on Deep Learning. 1999-2020年存量CVE数据分析、监控CVE增量更新、基于深度学习的CVE EXP预测和自动化推送 | https://github.com/404notf0und/CVE-Flow | 未查询到CVE信息| 
-| 20200824T03:44:31Z | cve-2020-5902 | Null | https://github.com/f5devcentral/cve-2020-5902-ioc-bigip-checker | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 10 MINUTES 21 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200824T03:44:31Z | cve-2020-5902 | Null | https://github.com/f5devcentral/cve-2020-5902-ioc-bigip-checker | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 09 MINUTES 09 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20200824T01:39:40Z | CVE-2020-2883 | WebLogic利用CVE-2020-2883打Shiro rememberMe反序列化漏洞，一键注册蚁剑filter内存shell | https://github.com/Y4er/WebLogic-Shiro-shell | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
 
 
@@ -46,11 +47,11 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20200824T12:50:21Z | Exploration-Exploitation using MAB | https://github.com/aegoe/MAB | 0 | 1| 
 | 20200824T12:46:24Z | Null | https://github.com/dvkom/exploit-finder | 0 | 0| 
 | 20200824T12:35:13Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 7039 | 1134| 
 | 20200824T12:33:25Z | this bash script let you download scripts and clone repos for remote exploits | https://github.com/FabioDefilippo/linuxallremote | 5 | 0| 
 | 20200824T12:32:14Z | Quickhen FW5.05 Exploit chain to load .bin Payloads and Payload Chainloader | https://github.com/Storm21CH/PS4-Quickhen-FW5.05 | 0 | 0| 
-| 20200824T12:12:48Z | Exploration-Exploitation using MAB | https://github.com/aegoe/MAB | 0 | 1| 
 | 20200824T12:01:04Z | my CTF exploit codes, write-ups and Useful Tools | https://github.com/wooeong2/ctfs | 2 | 0| 
 | 20200824T11:58:35Z | Very simple script(s) to hasten binary exploit creation | https://github.com/152334H/pwnscripts | 1 | 0| 
 | 20200824T11:41:56Z | My exploits for challenges on pwnable.tw | https://github.com/AravGarg/pwnable.tw | 0 | 0| 
