@@ -6,6 +6,12 @@
 # 玄武实验室 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20200824 | Cached and Confused: Web Cache Deception in the Wild | https://www.usenix.org/system/files/sec20-mirheidari.pdf| 
+| 20200824 | Breaking the D-Link DIR3060 Firmware Encryption - Recon - Part 1 | https://0x434b.dev/breaking-the-d-link-dir3060-firmware-encryption-recon-part-1/| 
+| 20200824 | PHP 对象反序列化的安全漏洞分析 | https://medium.com/bugbountywriteup/demystifying-insecure-deserialization-in-php-684cab9c4d24| 
+| 20200824 | Struts2 S2-059 漏洞的 PoC | https://github.com/ramoncjs3/CVE-2019-0230| 
+| 20200824 | 渗透测试有关的POC、EXP、脚本、提权、小工具 | https://github.com/Mr-xn/Penetration_Testing_POC| 
+| 20200824 | JavaScript Engine Fuzzing and Exploitation Reading List | https://zon8.re/posts/javascript-engine-fuzzing-and-exploitation-reading-list/| 
 | 20200823 | Vault 101：Samsung CTF App逆向工程挑战赛题目。 | https://medium.com/bugbountywriteup/vault-101-samsung-ctf-android-reverse-engineering-challenge-write-up-d5a2b16a9212| 
 | 20200823 | 深入理解水坑式攻击安全研究。 | https://www.keepnetlabs.com/watering-hole-attacks/| 
 | 20200823 | Programming Clojure - 编程书籍 | https://www.programmer-books.com/programming-clojure/| 
@@ -20,49 +26,43 @@
 | 20200821 | LiSa - Linux 恶意软件自动化分析的沙盒 | https://github.com/danieluhricek/LiSa| 
 | 20200821 | GitHub Security Lab 已公开的资料 | https://github.com/github/securitylab| 
 | 20200821 | Play Web 框架 CSRF 保护 Bypass 漏洞分析 | https://sec.today/pulses/929e00be-3044-4239-81d6-ebfcdc375bf5/| 
-| 20200821 | 利用 ZoomEye 追踪多种 Redteam C&C 后渗透攻击框架 | https://sec.today/pulses/20a8fc7f-5f0f-4881-907d-8de4f3308a9f/| 
-| 20200821 | gRPC 通信框架实现存在数据泄露等安全问题 | https://sec.today/pulses/11733141-43c1-449b-ad94-9993bf7abf8f/| 
-| 20200821 | Play Web 框架 CSRF 保护 Bypass 漏洞分析 | https://blog.doyensec.com/2020/08/20/playframework-csrf-bypass.html| 
-| 20200821 | 利用 ZoomEye 追踪多种 Redteam C&C 后渗透攻击框架 | http://paper.seebug.org/1301/| 
-| 20200821 | gRPC 通信框架实现存在数据泄露等安全问题 | https://blog.trendmicro.com/trendlabs-security-intelligence/unsecure-grpc-implementations-compromise-apis-applications/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+Anti-MalwareBlog+%28Trendlabs+Security+Intelligence+Blog%29| 
-| 20200820 | Issue 2043: Samsung Android heap buffer overflow and other issues in the Skia Qmage image codec (fuzzing iteration #2) | https://bugs.chromium.org/p/project-zero/issues/detail?id=2043| 
 
 
 # 安全维基 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20200824 | 网络空间安全工程技术人才培养体系指南 (2.0版) | https://ncstatic.clewm.net/rsrc/2020/0822/14/2810c081b58c321c0c416ff98ef00e92.pdf| 
+| 20200824 | SecWiki周刊（第338期) | https://www.sec-wiki.com/weekly/338| 
+| 20200824 | MITRE Shield 积极防御知识库 | https://mp.weixin.qq.com/s/cljI9AFVNEb4YkglzYayDg| 
+| 20200824 | JavaScript Engine Fuzzing and Exploitation Reading List | https://zon8.re/posts/javascript-engine-fuzzing-and-exploitation-reading-list/| 
 | 20200823 | Lilac 2020 暑期pwn培训课件 | https://github.com/7Hxz233/Lilac_2020_summer_pwn| 
 | 20200823 | 以OpenRASP为基础-展开来港港RASP的类加载 | https://xz.aliyun.com/t/8148| 
 | 20200822 | 机器学习的模型评估与调参(附代码) | https://mp.weixin.qq.com/s/Uenwe66pwl4SzcW1P2B7Iw| 
 | 20200822 | 萌新从0开始的专业渗透测试报告编写指南 | https://mp.weixin.qq.com/s/BKwPy27aVM4fSrTSlLbq7g| 
 | 20200822 | 软件漏洞挖掘方法探索 | http://netsec.ccert.edu.cn/files/slides/chao-fuzzing-small.pdf| 
 | 20200822 | Jenkins的后门实现（密码窃取,命令执行） | https://mp.weixin.qq.com/s/C002y-fBZVFv-dQztdC6Bg| 
-| 20200821 | 浅谈哥斯拉内存Shell技术 | https://mp.weixin.qq.com/s/D0ACXtPsj91chP4zmGpUjQ| 
-| 20200821 | Angr_CTF从精通到弃坑 | https://www.anquanke.com/post/id/214288| 
-| 20200821 | 通达OA11.6 preauth RCE 0day分析 | https://drivertom.blogspot.com/2020/08/oa116-preauth-rce-0day.html| 
-| 20200821 | 智能合约中的那些后门漏洞 | https://paper.seebug.org/1300/| 
 
 
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20200824T10:30:30Z | 未知编号 | CVE Data Analysis, CVE Monitor, CVE EXP Prediction Based on Deep Learning. 1999-2020年存量CVE数据分析、监控CVE增量更新、基于深度学习的CVE EXP预测和自动化推送 | https://github.com/404notf0und/CVE-Flow | 未查询到CVE信息| 
+| 20200824T03:44:31Z | cve-2020-5902 | Null | https://github.com/f5devcentral/cve-2020-5902-ioc-bigip-checker | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 59 MINUTES 08 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20200824T01:39:40Z | CVE-2020-2883 | WebLogic利用CVE-2020-2883打Shiro rememberMe反序列化漏洞，一键注册蚁剑filter内存shell | https://github.com/Y4er/WebLogic-Shiro-shell | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
 | 20200823T23:19:46Z | CVE-2020-13886 | Exploit CVE-2020-13886 - LFI Intelbras TIP 200 / 200 LITE /  | https://github.com/lucxssouza/CVE-2020-13886 | 未查询到CVE信息| 
-| 20200823T16:29:33Z | 未知编号 | CVE Data Analysis, CVE Monitor, CVE EXP Prediction Based on Deep Learning. 1999-2020年存量CVE数据分析、监控CVE增量更新、基于深度学习的CVE EXP预测和自动化推送 | https://github.com/404notf0und/CVE-Flow | 未查询到CVE信息| 
-| 20200822T15:17:21Z | CVE-2020-17496 | Auto Shell upload & Patch vulnerability | https://github.com/noopslide/vBulletin-0Day-Auto-shell-CVE-2020-17496- | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 01 MINUTES 02 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200822T14:26:17Z | cve-2020-7471 | Null | https://github.com/victomteng1997/cve-2020-7471-Time_Blind_SQLi- | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 01 MINUTES 12 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200822T15:17:21Z | CVE-2020-17496 | Auto Shell upload & Patch vulnerability | https://github.com/noopslide/vBulletin-0Day-Auto-shell-CVE-2020-17496- | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 58 MINUTES 23 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200822T14:26:17Z | cve-2020-7471 | Null | https://github.com/victomteng1997/cve-2020-7471-Time_Blind_SQLi- | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 58 MINUTES 34 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20200822T13:42:41Z | cve-2020-7471 | Null | https://github.com/victomteng1997/cve-2020-7471-Time_Blind_SQLi | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  08 HOURS 56 MINUTES 41 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200822T00:03:24Z | CVE-2020-5902 | A network detection package for CVE-2020-5902, a CVE10.0 vulnerability affecting F5 Networks, Inc BIG-IP devices. | https://github.com/corelight/CVE-2020-5902-F5BigIP | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 00 MINUTES 59 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200822T00:03:24Z | CVE-2020-5902 | A network detection package for CVE-2020-5902, a CVE10.0 vulnerability affecting F5 Networks, Inc BIG-IP devices. | https://github.com/corelight/CVE-2020-5902-F5BigIP | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 58 MINUTES 20 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20200821T09:10:30Z | CVE-2020-2551 | weblogic 漏洞扫描工具。目前包含 CVE-2014-4210、CVE-2016-0638、CVE-2016-3510、CVE-2017-3248、CVE-2017-3506、CVE-2017-10271、CVE-2018-2628、CVE-2018-2893、CVE-2018-2894、CVE-2018-3191、CVE-2018-3245、CVE-2018-3252、CVE-2019-2618、CVE-2019-2725、CVE-2019-2729、CVE-2019-2890、CVE-2020-2551 | https://github.com/0xn0ne/weblogicScanner | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
-| 20200820T16:00:01Z | CVE-2020-0796 | Multithread SMB scanner to check CVE-2020-0796 for SMB v3.11 | https://github.com/gabimarti/SMBScanner | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 00 MINUTES 56 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200820T15:15:53Z | CVE-2020-1337 | CVE-2020-1048 bypass: binary planting PoC | https://github.com/neofito/CVE-2020-1337 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 01 MINUTES 01 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200820T16:00:01Z | CVE-2020-0796 | Multithread SMB scanner to check CVE-2020-0796 for SMB v3.11 | https://github.com/gabimarti/SMBScanner | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 59 MINUTES 06 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20200823T21:23:53Z | A tool that automatically calls Klee to solve for injection | https://github.com/Zzzode/KleeTool | 1 | 0| 
-| 20200823T09:51:53Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1463 | 450| 
+| 20200824T11:36:02Z | A tool that automatically calls Klee to solve for injection | https://github.com/Zzzode/KleeTool | 1 | 0| 
+| 20200824T03:53:11Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1465 | 450| 
 | 20200822T21:56:38Z | Website for the KLEE project: https://klee.github.io/ | https://github.com/klee/klee.github.io | 13 | 42| 
 | 20200822T14:08:41Z | Null | https://github.com/L0n35/AAAStrataKleen | 0 | 0| 
 | 20200822T10:59:12Z | Null | https://github.com/kleerenn/kleerenn.github.io | 0 | 0| 
@@ -88,16 +88,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20200824T01:52:31Z | windows 提权漏洞利用合集，利用脚本都已经生成可执行文件 | https://github.com/Ascotbe/WindowsKernelExploits | 3 | 2| 
-| 20200824T01:50:05Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 7023 | 1124| 
-| 20200824T01:18:14Z | Arm64 Exploitable Programs | https://github.com/maxcompston/arm64_exploitable | 0 | 0| 
-| 20200824T01:17:02Z | Public Exploits + Extra-curriculum for OSCE Exam Preparation | https://github.com/bigb0sss/OSCE | 25 | 9| 
-| 20200824T01:15:45Z | A phased, evasive Path Traversal + LFI scanning & exploitation tool in Python | https://github.com/VainlyStrain/Vailyn | 36 | 0| 
-| 20200824T01:04:57Z | Custom version of the original Overthrow.  Bugs squashed and squashing, exploits punishable by death, new businesses plus much more, oh and high steriod use by the AI ;) Discord link  https://discord.gg/ZdMMq9x | https://github.com/GerhartPapaGee/Overthrow-Martial-Law | 0 | 1| 
-| 20200824T00:57:54Z | An intentionally buggy puzzle program designed to teach software bug exploitation (hacking).  If you type the correct password, a secret message is printed, however; you could find another way to the secret. | https://github.com/LeStarch/gwc-puzzlebox | 0 | 0| 
-| 20200824T00:39:29Z | Just a temporary website to post my ctf writeups and journey into binary/android exploitation/malware analysis/exploit development | https://github.com/blackbeard666/pwn_exhibit | 1 | 1| 
-| 20200824T00:05:43Z | this bash script let you download scripts and clone repos for remote exploits | https://github.com/FabioDefilippo/linuxallremote | 5 | 0| 
-| 20200823T23:45:03Z | Null | https://github.com/pharcyd3x/Exploits-OSCEprep | 0 | 0| 
+| 20200824T12:01:04Z | my CTF exploit codes, write-ups and Useful Tools | https://github.com/wooeong2/ctfs | 2 | 0| 
+| 20200824T11:58:35Z | Very simple script(s) to hasten binary exploit creation | https://github.com/152334H/pwnscripts | 1 | 0| 
+| 20200824T11:53:20Z | Exploration-Exploitation using MAB | https://github.com/aegoe/MAB | 0 | 1| 
+| 20200824T11:41:56Z | My exploits for challenges on pwnable.tw | https://github.com/AravGarg/pwnable.tw | 0 | 0| 
+| 20200824T11:17:14Z | A living document for penetration testing and offensive security. | https://github.com/0xffsec/book | 1 | 1| 
+| 20200824T10:25:52Z | Search an exploit in the local exploitdb database by its CVE | https://github.com/andreafioraldi/cve_searchsploit | 70 | 20| 
+| 20200824T10:18:47Z | 📈 A visualization of MetricQ data exploiting the advanctages of the HTA db backend  | https://github.com/metricq/metricq-webview | 0 | 0| 
+| 20200824T09:37:42Z | Null | https://github.com/eXedna/exploit_download_assistant | 0 | 0| 
+| 20200824T08:51:12Z | COURIER IMAPD EXPLOIT | https://github.com/KillerTheBee/COURIERIMAPDEXPLOIT | 0 | 0| 
+| 20200824T08:43:54Z | Hypervisor Memory Introspection Core Library | https://github.com/hvmi/hvmi | 350 | 26| 
 
 
 # backdoor on Github 推荐
