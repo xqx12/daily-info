@@ -27,7 +27,7 @@
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
 | 20200824T12:33:03Z | 未知编号 | CVE Data Analysis, CVE Monitor, CVE EXP Prediction Based on Deep Learning. 1999-2020年存量CVE数据分析、监控CVE增量更新、基于深度学习的CVE EXP预测和自动化推送 | https://github.com/404notf0und/CVE-Flow | 未查询到CVE信息| 
-| 20200824T03:44:31Z | cve-2020-5902 | Null | https://github.com/f5devcentral/cve-2020-5902-ioc-bigip-checker | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 22 MINUTES 20 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200824T03:44:31Z | cve-2020-5902 | Null | https://github.com/f5devcentral/cve-2020-5902-ioc-bigip-checker | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 21 MINUTES 19 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20200824T01:39:40Z | CVE-2020-2883 | WebLogic利用CVE-2020-2883打Shiro rememberMe反序列化漏洞，一键注册蚁剑filter内存shell | https://github.com/Y4er/WebLogic-Shiro-shell | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
 
 
@@ -72,6 +72,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20200824T12:37:16Z | Null | https://github.com/Vita3K/fuzz-the-vita-gpu | 0 | 0| 
 | 20200824T12:07:00Z | Null | https://github.com/zepelini/bxblue-fuzzy-trader | 0 | 0| 
 | 20200824T11:33:45Z | SSL and TLS protocol test suite and fuzzer | https://github.com/tomato42/tlsfuzzer | 318 | 80| 
 | 20200824T11:30:02Z | Fuzzing the linkers | https://github.com/nikolajsamsonow/ftl | 0 | 0| 
@@ -81,7 +82,6 @@
 | 20200824T11:22:39Z | Null | https://github.com/thomas-harris-git/fuzzy-logic-PID | 0 | 0| 
 | 20200824T11:19:34Z | A fuzzy testing library for geocoding | https://github.com/pelias/fuzzy-tester | 3 | 7| 
 | 20200824T11:14:01Z | This repository is for testing a number of open source applications for vulnerabilities using multiple fuzzers. | https://github.com/bartholomewHarris/fuzzingNode.jsApplications | 0 | 0| 
-| 20200824T10:53:48Z | FuzzyBIO is a fuzzy continuous representation of discontinuous entities. This repository contains scripts to transform your data and analyse the impact on NER and normalization. | https://github.com/AnneDirkson/FuzzyBIO | 0 | 0| 
 
 
 
