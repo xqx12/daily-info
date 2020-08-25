@@ -48,14 +48,14 @@
 | --- | --- | --- | --- | ---| 
 | 20200824T23:16:41Z | CVE-2020-10713 | BootHole vulnerability (CVE-2020-10713). detection script, links and other mitigation related materials | https://github.com/eclypsium/BootHole | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
 | 20200824T22:31:06Z | 未知编号 | CVE Data Analysis, CVE Monitor, CVE EXP Prediction Based on Deep Learning. 1999-2020年存量CVE数据分析、监控CVE增量更新、基于深度学习的CVE EXP预测和自动化推送 | https://github.com/404notf0und/CVE-Flow | 未查询到CVE信息| 
-| 20200824T20:44:45Z | cve-2020-24572 | Null | https://github.com/lb0x/cve-2020-24572 | 在 RaspAP 2.5 中的包括/webconsole.php 中发现了一个问题。通过经过身份验证的访问，攻击者可以使用配置错误（几乎不受限制）的 Web 控制台攻击运行此软件的基础操作系统（树莓派），并在系统上执行命令（包括用于上载文件和执行代码的命令）。| 
-| 20200824T19:45:22Z | CVE-2020-12695 | Zeek Plugin that detects CallStranger (CVE-2020-12695) attempts (http://callstranger.com/) | https://github.com/corelight/callstranger-detector | | 
-| 20200824T19:34:41Z | CVE-2020-0022 | CVE-2020-0022 vulnerability exploitation on Bouygues BBox Miami (Android TV 8.0 - ARM32 Cortex A9) | https://github.com/Polo35/CVE-2020-0022 | 在packet_fragmenter.cc的reassemble_and_dispatch中，由于边界计算不正确，可能会超出范围。这可以导致通过蓝牙远程执行代码，而无需其他执行特权。无需用户交互即可进行开发。产品：Android版本：Android-8.0 Android-8.1 Android-9 Android-10Android ID：A-143894715| 
-| 20200824T03:44:31Z | cve-2020-5902 | Null | https://github.com/f5devcentral/cve-2020-5902-ioc-bigip-checker | 在BIG-IP版本15.0.0-15.1.0.3、14.1.0-14.1.2.5、13.1.0-13.1.3.3、12.1.0-12.1.5.1和11.6.1-11.6.5.1中，流量管理用户接口（TMUI），也称为“配置”实用程序，在未公开的页面中具有远程执行代码（RCE）漏洞。| 
+| 20200824T20:44:45Z | cve-2020-24572 | Null | https://github.com/lb0x/cve-2020-24572 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 55 MINUTES 12 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200824T19:45:22Z | CVE-2020-12695 | Zeek Plugin that detects CallStranger (CVE-2020-12695) attempts (http://callstranger.com/) | https://github.com/corelight/callstranger-detector | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 55 MINUTES 55 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200824T19:34:41Z | CVE-2020-0022 | CVE-2020-0022 vulnerability exploitation on Bouygues BBox Miami (Android TV 8.0 - ARM32 Cortex A9) | https://github.com/Polo35/CVE-2020-0022 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 55 MINUTES 14 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200824T03:44:31Z | cve-2020-5902 | Null | https://github.com/f5devcentral/cve-2020-5902-ioc-bigip-checker | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 55 MINUTES 58 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20200824T01:39:40Z | CVE-2020-2883 | WebLogic利用CVE-2020-2883打Shiro rememberMe反序列化漏洞，一键注册蚁剑filter内存shell | https://github.com/Y4er/WebLogic-Shiro-shell | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
 | 20200823T23:19:46Z | CVE-2020-13886 | Exploit CVE-2020-13886 - LFI Intelbras TIP 200 / 200 LITE /  | https://github.com/lucxssouza/CVE-2020-13886 | 未查询到CVE信息| 
-| 20200822T15:17:21Z | CVE-2020-17496 | Auto Shell upload & Patch vulnerability | https://github.com/noopslide/vBulletin-0Day-Auto-shell-CVE-2020-17496- | vBulletin 5.5.4至5.6.2允许通过ajax / render / widget_tabbedcontainer_tab_panel请求中的精巧subWidgets数据执行远程命令。注意：由于CVE-2019-16759的修复不完整，所以存在此问题。| 
-| 20200822T14:26:17Z | cve-2020-7471 | Null | https://github.com/victomteng1997/cve-2020-7471-Time_Blind_SQLi- | 如果将不受信任的数据用作StringAgg分隔符，则1.11.28之前的Django 1.11、2.2.10之前的2.2和3.0.3之前的3.0允许SQL注入（例如，在Django应用程序中，该应用程序与用户一起以一系列行的形式下载数据） -指定的列分隔符）。通过将适当设计的定界符传递给contrib.postgres.aggregates.StringAgg实例，可以打破转义并注入恶意SQL。| 
+| 20200822T15:17:21Z | CVE-2020-17496 | Auto Shell upload & Patch vulnerability | https://github.com/noopslide/vBulletin-0Day-Auto-shell-CVE-2020-17496- | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 56 MINUTES 03 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200822T14:26:17Z | cve-2020-7471 | Null | https://github.com/victomteng1997/cve-2020-7471-Time_Blind_SQLi- | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 55 MINUTES 11 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 
 
 # klee on Github 推荐
@@ -88,7 +88,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20200824T23:51:54Z | Custom version of the original Overthrow.  Bugs squashed and squashing, exploits punishable by death, new businesses plus much more, oh and high steriod use by the AI ;) Discord link  https://discord.gg/ZdMMq9x | https://github.com/GerhartPapaGee/Overthrow-Martial-Law | 0 | 1| 
+| 20200825T00:04:21Z | Custom version of the original Overthrow.  Bugs squashed and squashing, exploits punishable by death, new businesses plus much more, oh and high steriod use by the AI ;) Discord link  https://discord.gg/ZdMMq9x | https://github.com/GerhartPapaGee/Overthrow-Martial-Law | 0 | 1| 
 | 20200824T23:49:56Z | Null | https://github.com/the8bitdude11/EasyExploits-Template | 0 | 0| 
 | 20200824T23:49:41Z | Útil herramienta para realizar tipos de shell reversas usando metasploit | https://github.com/Fabr1x/kit-exploiting-shell | 1 | 0| 
 | 20200824T23:38:48Z | Solutions to https://github.com/Billy-Ellis/Exploit-Challenges | https://github.com/KingCyrin/Exploit-Challenges-Solutions | 7 | 1| 
