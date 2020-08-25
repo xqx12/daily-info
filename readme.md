@@ -18,7 +18,7 @@
 | --- | --- | --- | --- | ---| 
 | 20200825T11:33:47Z | CVE-2020-1493 | Null | https://github.com/0neb1n/CVE-2020-1493 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 58 MINUTES 23 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20200825T11:25:12Z | 未知编号 | CVE Data Analysis, CVE Monitor, CVE EXP Prediction Based on Deep Learning. 1999-2020年存量CVE数据分析、监控CVE增量更新、基于深度学习的CVE EXP预测和自动化推送 | https://github.com/404notf0und/CVE-Flow | 未查询到CVE信息| 
-| 20200825T11:14:07Z | cve-2020-5902 | Null | https://github.com/f5devcentral/cve-2020-5902-ioc-bigip-checker | | 
+| 20200825T11:14:07Z | cve-2020-5902 | Null | https://github.com/f5devcentral/cve-2020-5902-ioc-bigip-checker | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 58 MINUTES 07 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20200825T10:21:48Z | CVE-2020-0022 | CVE-2020-0022 vulnerability exploitation on Bouygues BBox Miami (Android TV 8.0 - ARM32 Cortex A9) | https://github.com/Polo35/CVE-2020-0022 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 58 MINUTES 22 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20200825T09:19:29Z | cve-2020-24572 | Null | https://github.com/lb0x/cve-2020-24572 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 58 MINUTES 21 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20200825T07:32:38Z | CVE-2020-2551 | weblogic 漏洞扫描工具。目前包含 CVE-2014-4210、CVE-2016-0638、CVE-2016-3510、CVE-2017-3248、CVE-2017-3506、CVE-2017-10271、CVE-2018-2628、CVE-2018-2893、CVE-2018-2894、CVE-2018-3191、CVE-2018-3245、CVE-2018-3252、CVE-2019-2618、CVE-2019-2725、CVE-2019-2729、CVE-2019-2890、CVE-2020-2551 | https://github.com/0xn0ne/weblogicScanner | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
@@ -70,11 +70,11 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20200825T12:02:36Z | Null | https://github.com/Vita3K/fuzz-the-vita-gpu | 1 | 0| 
 | 20200825T11:56:30Z | Light, fast fuzz. Быстрый, как понос | https://github.com/xvolume/fuzzmap | 0 | 0| 
 | 20200825T11:35:53Z | Differential Fuzzer for Ethereum 2.0 | https://github.com/sigp/beacon-fuzz | 39 | 6| 
 | 20200825T11:18:15Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 3106 | 713| 
 | 20200825T10:45:25Z | Lists for fuzzing taken from the wild | https://github.com/tonyarris/Lists | 0 | 0| 
-| 20200825T09:27:33Z | Null | https://github.com/Vita3K/fuzz-the-vita-gpu | 0 | 0| 
 | 20200825T09:22:34Z | Code repository with customisable Fuzzy Matching scripts in STATA and Python, especially useful when working with datasets containing Hindi text transliterated to English. | https://github.com/IDinsight/hindi-fuzzy-merge | 0 | 0| 
 | 20200825T09:15:29Z | Research project on Software Technology for WebAssembly WASM (on superoptimization, diversification, fuzzing) | https://github.com/KTH/slumps | 14 | 4| 
 | 20200825T08:59:38Z | Null | https://github.com/zdy226/Fuzz-node-analyse | 0 | 0| 
