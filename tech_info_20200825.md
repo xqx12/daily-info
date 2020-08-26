@@ -17,10 +17,10 @@
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
 | 20200825T12:44:42Z | CVE-2020-2883 | WebLogic利用CVE-2020-2883打Shiro rememberMe反序列化漏洞，一键注册蚁剑filter内存shell | https://github.com/Y4er/WebLogic-Shiro-shell | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
-| 20200825T11:14:07Z | cve-2020-5902 | Null | https://github.com/f5devcentral/cve-2020-5902-ioc-bigip-checker | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 14 MINUTES 11 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200825T10:21:48Z | CVE-2020-0022 | CVE-2020-0022 vulnerability exploitation on Bouygues BBox Miami (Android TV 8.0 - ARM32 Cortex A9) | https://github.com/Polo35/CVE-2020-0022 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 13 MINUTES 24 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200825T09:19:29Z | cve-2020-24572 | Null | https://github.com/lb0x/cve-2020-24572 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 14 MINUTES 25 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200825T07:32:38Z | CVE-2020-2551 | weblogic 漏洞扫描工具。目前包含 CVE-2014-4210、CVE-2016-0638、CVE-2016-3510、CVE-2017-3248、CVE-2017-3506、CVE-2017-10271、CVE-2018-2628、CVE-2018-2893、CVE-2018-2894、CVE-2018-3191、CVE-2018-3245、CVE-2018-3252、CVE-2019-2618、CVE-2019-2725、CVE-2019-2729、CVE-2019-2890、CVE-2020-2551 | https://github.com/0xn0ne/weblogicScanner | | 
+| 20200825T11:14:07Z | cve-2020-5902 | Null | https://github.com/f5devcentral/cve-2020-5902-ioc-bigip-checker | | 
+| 20200825T10:21:48Z | CVE-2020-0022 | CVE-2020-0022 vulnerability exploitation on Bouygues BBox Miami (Android TV 8.0 - ARM32 Cortex A9) | https://github.com/Polo35/CVE-2020-0022 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 12 MINUTES 27 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200825T09:19:29Z | cve-2020-24572 | Null | https://github.com/lb0x/cve-2020-24572 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 12 MINUTES 26 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200825T07:32:38Z | CVE-2020-2551 | weblogic 漏洞扫描工具。目前包含 CVE-2014-4210、CVE-2016-0638、CVE-2016-3510、CVE-2017-3248、CVE-2017-3506、CVE-2017-10271、CVE-2018-2628、CVE-2018-2893、CVE-2018-2894、CVE-2018-3191、CVE-2018-3245、CVE-2018-3252、CVE-2019-2618、CVE-2019-2725、CVE-2019-2729、CVE-2019-2890、CVE-2020-2551 | https://github.com/0xn0ne/weblogicScanner | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
 | 20200825T04:32:43Z | CVE-2020-10713 | BootHole vulnerability (CVE-2020-10713). detection script, links and other mitigation related materials | https://github.com/eclypsium/BootHole | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
 
 
@@ -60,11 +60,11 @@
 | 20200825T21:50:45Z | This is a backdoor banking malware that delivers malware on point-of-sale and banking malware trojan. The TinyLoader malware runs on Windows for C2C. (Fidelissecurity.com) The malware uses a Kernel32.dll.  | https://github.com/Cyberweasel777/TinyLoaderMalware | 0 | 0| 
 | 20200825T19:52:45Z | Application backdoor client, server Python | https://github.com/Sheepy69/slave-backdoor-software | 0 | 0| 
 | 20200825T18:30:36Z | Protect your server against backdoors. | https://github.com/Xalalau/gmod-backdoor-shield | 0 | 0| 
+| 20200825T16:44:16Z | Full-featured C2 framework which silently persists on webserver via evil PHP oneliner :smiling_imp: | https://github.com/nil0x42/phpsploit | 965 | 300| 
 | 20200825T16:21:26Z | backdoor key to kafka topics | https://github.com/dixel/kafkus | 16 | 2| 
 | 20200825T15:12:29Z | Hides the sethc.exe backdoor. | https://github.com/PGgamer2/sethc-backdoor-hider | 1 | 1| 
 | 20200825T14:17:16Z | Injectra injects code into mac OSX applications. | https://github.com/Taguar258/injectra | 6 | 3| 
 | 20200825T10:51:50Z | Hacking tools pack & backdoors generator. | https://github.com/AdrMXR/KitHack | 133 | 33| 
-| 20200825T09:57:56Z | papers for incentive and backdoor research in federated learning. | https://github.com/GillHwang/federated-learning-incentive-backdoor | 1 | 0| 
 
 
 # fuzz on Github 推荐
