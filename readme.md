@@ -45,7 +45,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20200826T12:51:13Z | Null | https://github.com/quentin452/Cats-Exploitz-HUB | 0 | 1| 
+| 20200826T12:51:34Z | Null | https://github.com/quentin452/Cats-Exploitz-HUB | 0 | 1| 
 | 20200826T12:37:26Z | A collection of POP exploits. | https://github.com/zhengmin1989/POP_AND_PUSH | 2 | 0| 
 | 20200826T12:35:12Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 7068 | 1138| 
 | 20200826T12:30:22Z | CTF竞赛入门指南 | https://github.com/firmianay/CTF-All-In-One | 1916 | 410| 
