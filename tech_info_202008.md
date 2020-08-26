@@ -46,7 +46,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20200825T22:28:21Z | 未知编号 | CVE Data Analysis, CVE Monitor, CVE EXP Prediction Based on Deep Learning. 1999-2020年存量CVE数据分析、监控CVE增量更新、基于深度学习的CVE EXP预测和自动化推送 | https://github.com/404notf0und/CVE-Flow | 未查询到CVE信息| 
+| 20200825T22:28:21Z | 未知编号 | CVE Data Analysis, CVE Monitor, CVE EXP Prediction Based on Deep Learning. 1999-2020年存量CVE数据分析、监控CVE增量更新、基于深度学习的CVE EXP预测和自动化推送 | https://github.com/404notf0und/CVE-Flow | | 
 | 20200825T16:15:09Z | CVE-2020-1493 | Null | https://github.com/0neb1n/CVE-2020-1493 | 将文件附加到Outlook邮件时，存在一个信息泄漏漏洞，也称为“ Microsoft Outlook信息泄漏漏洞”。| 
 | 20200825T12:44:42Z | CVE-2020-2883 | WebLogic利用CVE-2020-2883打Shiro rememberMe反序列化漏洞，一键注册蚁剑filter内存shell | https://github.com/Y4er/WebLogic-Shiro-shell | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
 | 20200825T11:14:07Z | cve-2020-5902 | Null | https://github.com/f5devcentral/cve-2020-5902-ioc-bigip-checker | 在BIG-IP版本15.0.0-15.1.0.3、14.1.0-14.1.2.5、13.1.0-13.1.3.3、12.1.0-12.1.5.1和11.6.1-11.6.5.1中，流量管理用户接口（TMUI），也称为“配置”实用程序，在未公开的页面中具有远程执行代码（RCE）漏洞。| 
@@ -118,7 +118,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20200826T00:01:39Z | The fastest Intel-PT decoder for fuzzing | https://github.com/nyx-fuzz/libxdc | 5 | 0| 
+| 20200826T00:01:39Z | The fastest Intel-PT decoder for fuzzing | https://github.com/nyx-fuzz/libxdc | 5 | 1| 
 | 20200825T23:53:52Z | Fast fuzzy search utility | https://github.com/EthanRutherford/fast-fuzzy | 22 | 5| 
 | 20200825T23:46:05Z | Null | https://github.com/jtchow/WarmAndFuzzies | 0 | 0| 
 | 20200825T23:42:35Z | OSS-Fuzz - continuous fuzzing of open source software. | https://github.com/google/oss-fuzz | 5508 | 1079| 
