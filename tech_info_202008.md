@@ -52,7 +52,7 @@
 | 20200826T09:53:51Z | CVE-2020-2551 | weblogic 漏洞扫描工具。目前包含 CVE-2014-4210、CVE-2016-0638、CVE-2016-3510、CVE-2017-3248、CVE-2017-3506、CVE-2017-10271、CVE-2018-2628、CVE-2018-2893、CVE-2018-2894、CVE-2018-3191、CVE-2018-3245、CVE-2018-3252、CVE-2019-2618、CVE-2019-2725、CVE-2019-2729、CVE-2019-2890、CVE-2020-2551 | https://github.com/0xn0ne/weblogicScanner | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
 | 20200826T06:22:52Z | CVE-2020-1493 | Null | https://github.com/0neb1n/CVE-2020-1493 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 58 MINUTES 28 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20200826T03:48:37Z | CVE-2020-24597 | Directory traversal in com_media to RCE | https://github.com/HoangKien1020/CVE-2020-24597 | 未查询到CVE信息| 
-| 20200825T11:14:07Z | cve-2020-5902 | Null | https://github.com/f5devcentral/cve-2020-5902-ioc-bigip-checker | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 59 MINUTES 08 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200825T11:14:07Z | cve-2020-5902 | Null | https://github.com/f5devcentral/cve-2020-5902-ioc-bigip-checker | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 58 MINUTES 13 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20200825T10:21:48Z | CVE-2020-0022 | CVE-2020-0022 vulnerability exploitation on Bouygues BBox Miami (Android TV 8.0 - ARM32 Cortex A9) | https://github.com/Polo35/CVE-2020-0022 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 58 MINUTES 27 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20200825T09:19:29Z | cve-2020-24572 | Null | https://github.com/lb0x/cve-2020-24572 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 58 MINUTES 25 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20200825T04:32:43Z | CVE-2020-10713 | BootHole vulnerability (CVE-2020-10713). detection script, links and other mitigation related materials | https://github.com/eclypsium/BootHole | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
@@ -88,16 +88,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20200826T01:56:01Z | Very simple script(s) to hasten binary exploit creation | https://github.com/152334H/pwnscripts | 1 | 0| 
-| 20200826T01:52:38Z | Dont use PHP frameworks exploit them! | https://github.com/millancore/fulli | 0 | 0| 
-| 20200826T01:50:49Z | A collection of Discord bugs and exploits | https://github.com/0xchecksum/Discord-Exploit-Collection | 21 | 5| 
-| 20200826T01:49:31Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 7062 | 1138| 
-| 20200826T01:18:11Z | Null | https://github.com/XinGodDev/Discord-Typing-Exploit | 1 | 0| 
-| 20200826T00:48:05Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 5 | 2| 
-| 20200826T00:43:35Z | Hotkeyed commands, automated exploits, and other chaotic obscenities can be found here! :D | https://github.com/TheOGMiyagi/Minecraft-Server-Scripts | 0 | 0| 
-| 20200826T00:00:53Z | FallGuys cheats, hacks, exploits | https://github.com/shalzuth/FallGuysSharp | 0 | 0| 
-| 20200825T23:44:36Z | Script to check MikroTik Routers the  WinBox Authentication Bypass Disclosure & RouterOS Jailbreak vulnerabilities | https://github.com/s1l3nt78/MkCheck | 38 | 12| 
-| 20200825T23:41:00Z | exploit gui and submodules | https://github.com/EclipsisExploits/Eclipse | 0 | 0| 
+| 20200826T11:55:48Z | [MICCAI%19] k-t NEXT: Dynamic MR Image Reconstruction Exploiting Spatio-Temporal Correlations | https://github.com/cq615/kt-Dynamic-MRI-Reconstruction | 0 | 0| 
+| 20200826T11:54:10Z | THE GRADUATION PROJECTS IDEAS MANAGER% a website as we spoke ,inspiration and projects , Its about students and teachers who are searching for an idea or want to share their ideas whith others, And if all of these ideas  can be captured and exploited easily and effectively? New generations of powerful digital tools have clearly changed the situation. They now make it possible to collect and process these ideas with just a few clicks | https://github.com/HowkMii/Ghub_App | 3 | 0| 
+| 20200826T11:50:49Z | Automated All-in-One OS command injection and exploitation tool. | https://github.com/commixproject/commix | 2370 | 554| 
+| 20200826T11:49:57Z | Academic papers related to fuzzing, binary analysis, and exploit dev, which I want to read or have already read | https://github.com/0xricksanchez/paper_collection | 328 | 38| 
+| 20200826T11:48:45Z | Small forum website for practicing basic web exploits. | https://github.com/jib1337/websandbox | 0 | 0| 
+| 20200826T11:48:05Z | A collection of Destiny 2 macros built with AutoHotKey | https://github.com/preco21/destiny-macros | 8 | 2| 
+| 20200826T10:49:25Z | Hotkeyed commands, automated exploits, and other chaotic obscenities can be found here! :D | https://github.com/TheOGMiyagi/Minecraft-Server-Scripts | 0 | 0| 
+| 20200826T10:28:39Z | A collection of POP exploits. | https://github.com/zhengmin1989/POP_AND_PUSH | 1 | 0| 
+| 20200826T10:11:20Z | this bash script let you download scripts and clone repos for remote exploits | https://github.com/FabioDefilippo/linuxallremote | 5 | 0| 
+| 20200826T09:27:23Z | A living document for penetration testing and offensive security. | https://github.com/0xffsec/handbook | 1 | 1| 
 
 
 # backdoor on Github 推荐
