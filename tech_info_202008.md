@@ -50,12 +50,12 @@
 | 20200826T11:38:28Z | CVE-2020-11794 | I have discovered a vulnerability in OpenTouch Multimedia Services, making it possible for an attacker with  administration rights to execute code on the server via web requests with high privileges. | https://github.com/w4cky/CVE-2020-11794 | 未查询到CVE信息| 
 | 20200826T10:29:48Z | 未知编号 | CVE Data Analysis, CVE Monitor, CVE EXP Prediction Based on Deep Learning. 1999-2020年存量CVE数据分析、监控CVE增量更新、基于深度学习的CVE EXP预测和自动化推送 | https://github.com/404notf0und/CVE-Flow | 未查询到CVE信息| 
 | 20200826T09:53:51Z | CVE-2020-2551 | weblogic 漏洞扫描工具。目前包含 CVE-2014-4210、CVE-2016-0638、CVE-2016-3510、CVE-2017-3248、CVE-2017-3506、CVE-2017-10271、CVE-2018-2628、CVE-2018-2893、CVE-2018-2894、CVE-2018-3191、CVE-2018-3245、CVE-2018-3252、CVE-2019-2618、CVE-2019-2725、CVE-2019-2729、CVE-2019-2890、CVE-2020-2551 | https://github.com/0xn0ne/weblogicScanner | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
-| 20200826T06:22:52Z | CVE-2020-1493 | Null | https://github.com/0neb1n/CVE-2020-1493 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 19 MINUTES 31 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200826T06:22:52Z | CVE-2020-1493 | Null | https://github.com/0neb1n/CVE-2020-1493 | | 
 | 20200826T03:48:37Z | CVE-2020-24597 | Directory traversal in com_media to RCE | https://github.com/HoangKien1020/CVE-2020-24597 | 未查询到CVE信息| 
-| 20200825T11:14:07Z | cve-2020-5902 | Null | https://github.com/f5devcentral/cve-2020-5902-ioc-bigip-checker | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 20 MINUTES 15 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200825T10:21:48Z | CVE-2020-0022 | CVE-2020-0022 vulnerability exploitation on Bouygues BBox Miami (Android TV 8.0 - ARM32 Cortex A9) | https://github.com/Polo35/CVE-2020-0022 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 19 MINUTES 29 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200825T09:19:29Z | cve-2020-24572 | Null | https://github.com/lb0x/cve-2020-24572 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 19 MINUTES 28 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200825T04:32:43Z | CVE-2020-10713 | BootHole vulnerability (CVE-2020-10713). detection script, links and other mitigation related materials | https://github.com/eclypsium/BootHole | | 
+| 20200825T11:14:07Z | cve-2020-5902 | Null | https://github.com/f5devcentral/cve-2020-5902-ioc-bigip-checker | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 19 MINUTES 17 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200825T10:21:48Z | CVE-2020-0022 | CVE-2020-0022 vulnerability exploitation on Bouygues BBox Miami (Android TV 8.0 - ARM32 Cortex A9) | https://github.com/Polo35/CVE-2020-0022 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 18 MINUTES 29 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200825T09:19:29Z | cve-2020-24572 | Null | https://github.com/lb0x/cve-2020-24572 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 18 MINUTES 28 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200825T04:32:43Z | CVE-2020-10713 | BootHole vulnerability (CVE-2020-10713). detection script, links and other mitigation related materials | https://github.com/eclypsium/BootHole | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
 
 
 # klee on Github 推荐
@@ -88,7 +88,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20200826T12:40:08Z | Null | https://github.com/quentin452/Cats-Exploitz-HUB | 0 | 1| 
+| 20200826T12:41:04Z | Null | https://github.com/quentin452/Cats-Exploitz-HUB | 0 | 1| 
 | 20200826T12:37:26Z | A collection of POP exploits. | https://github.com/zhengmin1989/POP_AND_PUSH | 2 | 0| 
 | 20200826T12:35:12Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 7068 | 1138| 
 | 20200826T12:30:22Z | CTF竞赛入门指南 | https://github.com/firmianay/CTF-All-In-One | 1916 | 410| 
@@ -103,10 +103,10 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20200826T12:41:21Z | PCI Express DIY hacking toolkit for Xilinx SP605 | https://github.com/Cr4sh/s6_pcie_microblaze | 273 | 67| 
 | 20200826T11:13:33Z | Python Backdoor Written on Top of AI for Windows using Telegram-bot, ZMQ, and Socket as Its Back-ends. | https://github.com/wildonion/katyusha | 0 | 0| 
 | 20200826T09:57:06Z | LKM rootkit for Linux Kernels 2.6.x/3.x/4.x/5.x (x86 and x86_64) | https://github.com/m0nad/Diamorphine | 619 | 243| 
 | 20200826T09:33:35Z | tcp,udp backdoor | https://github.com/HalukShan/BackDoor | 0 | 0| 
-| 20200826T09:06:16Z | PCI Express DIY hacking toolkit for Xilinx SP605 | https://github.com/Cr4sh/s6_pcie_microblaze | 272 | 67| 
 | 20200826T07:16:35Z | This tool will create backdoor | https://github.com/krishpranav/Backdoorcreator | 0 | 0| 
 | 20200825T21:50:45Z | This is a backdoor banking malware that delivers malware on point-of-sale and banking malware trojan. The TinyLoader malware runs on Windows for C2C. (Fidelissecurity.com) The malware uses a Kernel32.dll.  | https://github.com/Cyberweasel777/TinyLoaderMalware | 0 | 0| 
 | 20200825T19:52:45Z | Application backdoor client, server Python | https://github.com/Sheepy69/slave-backdoor-software | 0 | 0| 
@@ -118,6 +118,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20200826T12:40:22Z | The fastest Intel-PT decoder for fuzzing | https://github.com/nyx-fuzz/libxdc | 24 | 7| 
 | 20200826T12:37:53Z | A fuzzy testing library for geocoding | https://github.com/pelias/fuzzy-tester | 4 | 8| 
 | 20200826T12:03:38Z | FuzzBall - Fuzzy audio plugin | https://github.com/kesara/fuzzball | 0 | 0| 
 | 20200826T11:57:04Z | A JavaScript Engine Fuzzer | https://github.com/googleprojectzero/fuzzilli | 1009 | 163| 
@@ -127,7 +128,6 @@
 | 20200826T11:11:48Z | Gallery project from Udemy(Edwin Diaz) | https://github.com/rico1995/fuzzygallery | 1 | 0| 
 | 20200826T10:29:38Z | OSS-Fuzz - continuous fuzzing of open source software. | https://github.com/google/oss-fuzz | 5510 | 1081| 
 | 20200826T10:25:52Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 3106 | 713| 
-| 20200826T09:34:45Z | Bug Bounty Collection | https://github.com/themastersunil/Fuzzing | 0 | 0| 
 
 
 
