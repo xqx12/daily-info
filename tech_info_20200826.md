@@ -23,7 +23,7 @@
 | 20200826T11:38:28Z | CVE-2020-11794 | I have discovered a vulnerability in OpenTouch Multimedia Services, making it possible for an attacker with  administration rights to execute code on the server via web requests with high privileges. | https://github.com/w4cky/CVE-2020-11794 | 未查询到CVE信息| 
 | 20200826T10:29:48Z | 未知编号 | CVE Data Analysis, CVE Monitor, CVE EXP Prediction Based on Deep Learning. 1999-2020年存量CVE数据分析、监控CVE增量更新、基于深度学习的CVE EXP预测和自动化推送 | https://github.com/404notf0und/CVE-Flow | 未查询到CVE信息| 
 | 20200826T09:53:51Z | CVE-2020-2551 | weblogic 漏洞扫描工具。目前包含 CVE-2014-4210、CVE-2016-0638、CVE-2016-3510、CVE-2017-3248、CVE-2017-3506、CVE-2017-10271、CVE-2018-2628、CVE-2018-2893、CVE-2018-2894、CVE-2018-3191、CVE-2018-3245、CVE-2018-3252、CVE-2019-2618、CVE-2019-2725、CVE-2019-2729、CVE-2019-2890、CVE-2020-2551 | https://github.com/0xn0ne/weblogicScanner | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
-| 20200826T06:22:52Z | CVE-2020-1493 | Null | https://github.com/0neb1n/CVE-2020-1493 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 28 MINUTES 33 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200826T06:22:52Z | CVE-2020-1493 | Null | https://github.com/0neb1n/CVE-2020-1493 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 27 MINUTES 30 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20200826T03:48:37Z | CVE-2020-24597 | Directory traversal in com_media to RCE | https://github.com/HoangKien1020/CVE-2020-24597 | 未查询到CVE信息| 
 
 
@@ -45,6 +45,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20200826T12:30:22Z | CTF竞赛入门指南 | https://github.com/firmianay/CTF-All-In-One | 1916 | 410| 
 | 20200826T12:05:28Z | [MICCAI%19] k-t NEXT: Dynamic MR Image Reconstruction Exploiting Spatio-Temporal Correlations | https://github.com/cq615/kt-Dynamic-MRI-Reconstruction | 0 | 0| 
 | 20200826T11:54:10Z | THE GRADUATION PROJECTS IDEAS MANAGER% a website as we spoke ,inspiration and projects , Its about students and teachers who are searching for an idea or want to share their ideas whith others, And if all of these ideas  can be captured and exploited easily and effectively? New generations of powerful digital tools have clearly changed the situation. They now make it possible to collect and process these ideas with just a few clicks | https://github.com/HowkMii/Ghub_App | 3 | 0| 
 | 20200826T11:50:49Z | Automated All-in-One OS command injection and exploitation tool. | https://github.com/commixproject/commix | 2370 | 554| 
@@ -54,7 +55,6 @@
 | 20200826T10:49:25Z | Hotkeyed commands, automated exploits, and other chaotic obscenities can be found here! :D | https://github.com/TheOGMiyagi/Minecraft-Server-Scripts | 0 | 0| 
 | 20200826T10:28:39Z | A collection of POP exploits. | https://github.com/zhengmin1989/POP_AND_PUSH | 1 | 0| 
 | 20200826T10:11:20Z | this bash script let you download scripts and clone repos for remote exploits | https://github.com/FabioDefilippo/linuxallremote | 5 | 0| 
-| 20200826T09:27:23Z | A living document for penetration testing and offensive security. | https://github.com/0xffsec/handbook | 1 | 1| 
 
 
 # backdoor on Github 推荐
