@@ -46,6 +46,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20200827T12:29:29Z | Tool for automatic exploitation of XXE vulnerability using direct and different out of band methods. | https://github.com/enjoiz/XXEinjector | 970 | 251| 
 | 20200827T12:24:49Z | The best tool for finding one gadget RCE in libc.so.6 | https://github.com/david942j/one_gadget | 1148 | 102| 
 | 20200827T12:21:29Z | Using This Powerfull Tool, You Can Automate Finding And Exploiting LFI Vulnerability | https://github.com/rezasarvani/BitSecurity-LFIFinder | 1 | 0| 
 | 20200827T12:10:40Z | Null | https://github.com/severnake/OWASP-Xenotix-XSS-Exploit-Framework | 0 | 0| 
@@ -55,7 +56,6 @@
 | 20200827T11:29:10Z | This script runs powershell by which you can downloads many ps1 scripts and use many utilities for enumeration, privilege escalation and much more | https://github.com/FabioDefilippo/winallenum | 0 | 0| 
 | 20200827T10:58:17Z | mYCODE | https://github.com/NhatNam-Kyoto/Exploit_Code_ctf | 0 | 0| 
 | 20200827T10:53:02Z | A living document for penetration testing and offensive security. | https://github.com/0xffsec/handbook | 2 | 1| 
-| 20200827T10:46:00Z | Development of code to exploit LSST and VISTA imaging | https://github.com/lsst-uk/lsst-ir-fusion | 0 | 0| 
 
 
 # backdoor on Github 推荐
