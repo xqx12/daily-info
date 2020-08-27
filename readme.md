@@ -71,7 +71,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20200827T12:25:22Z | The fastest Intel-PT decoder for fuzzing | https://github.com/nyx-fuzz/libxdc | 38 | 9| 
+| 20200827T12:50:10Z | The fastest Intel-PT decoder for fuzzing | https://github.com/nyx-fuzz/libxdc | 39 | 9| 
 | 20200827T11:57:44Z | This tool uses fzf(1)-like fuzzy-finder to do partial or fuzzy search of Kubernetes resources. Instead of specifying full resource names to kubectl commands, you can choose them from an interactive list that you can filter by typing a few characters. | https://github.com/d-kuro/kubectl-fuzzy | 32 | 3| 
 | 20200827T11:43:15Z | Generate wordlists for fuzzing API method names | https://github.com/sorokinpf/ApiWordlistGenerator | 33 | 7| 
 | 20200827T10:50:38Z | A JavaScript Engine Fuzzer | https://github.com/googleprojectzero/fuzzilli | 1009 | 162| 
