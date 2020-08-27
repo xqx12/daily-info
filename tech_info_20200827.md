@@ -46,6 +46,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20200827T12:08:11Z | Null | https://github.com/severnake/OWASP-Xenotix-XSS-Exploit-Framework | 0 | 0| 
 | 20200827T12:00:04Z | Exploit Development, Reverse Engineering & Cryptography | https://github.com/alanvivona/pwnshop | 144 | 35| 
 | 20200827T11:53:35Z | This thesis investigates the relationship between employee sentiment, proxied by Glassdoor reviews and ratings, and excessive returns on corresponding bonds. While sentiment analysis is well studied for probing into how companies are perceived by investors or the general public, it is a novel idea to exploit sentiment of employees, which enables us to capture very important information for assessing companies% governance. Although a few studies scrutinising the relation employee sentiment and future stock returns have already appeared, this is the first attempt, to the best of my knowledge, to place this analysis to the universe of corporate bonds. | https://github.com/stancld/MSc-Project | 0 | 0| 
 | 20200827T11:49:25Z | Collection of exploits made during my preparation for my osce. | https://github.com/Pal1Sec/Exploit-Development | 1 | 0| 
@@ -55,7 +56,6 @@
 | 20200827T10:46:00Z | Development of code to exploit LSST and VISTA imaging | https://github.com/lsst-uk/lsst-ir-fusion | 0 | 0| 
 | 20200827T10:45:36Z | this bash script let you download scripts and clone repos for remote exploits | https://github.com/FabioDefilippo/linuxallremote | 5 | 0| 
 | 20200827T10:42:37Z | Null | https://github.com/ActorExpose/exploits | 0 | 0| 
-| 20200827T10:15:48Z | A template-based lowerer for RDF repositories exploiting Apache Velocity. | https://github.com/cefriel/rdf-lowerer | 0 | 0| 
 
 
 # backdoor on Github 推荐
