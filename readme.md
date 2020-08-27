@@ -46,6 +46,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20200827T12:54:53Z | The best tool for finding one gadget RCE in libc.so.6 | https://github.com/david942j/one_gadget | 1148 | 102| 
 | 20200827T12:53:22Z | This repository contains my public exploits, shellcodes, etc | https://github.com/daortz/PoC | 0 | 0| 
 | 20200827T12:48:04Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 5 | 2| 
 | 20200827T12:36:10Z | Collection of exploits made during my preparation for my osce. | https://github.com/Pal1Sec/Exploit-Development | 1 | 0| 
@@ -53,7 +54,6 @@
 | 20200827T12:35:13Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 7081 | 1140| 
 | 20200827T12:33:28Z | Tool for automatic exploitation of XXE vulnerability using direct and different out of band methods. | https://github.com/enjoiz/XXEinjector | 970 | 251| 
 | 20200827T12:32:46Z | iblessing is an iOS security exploiting toolkit, it mainly includes application information collection, static analysis and dynamic analysis. It can be used for reverse engineering, binary analysis and vulnerability mining. | https://github.com/Soulghost/iblessing | 127 | 15| 
-| 20200827T12:24:49Z | The best tool for finding one gadget RCE in libc.so.6 | https://github.com/david942j/one_gadget | 1148 | 102| 
 | 20200827T12:21:29Z | Using This Powerfull Tool, You Can Automate Finding And Exploiting LFI Vulnerability | https://github.com/rezasarvani/BitSecurity-LFIFinder | 1 | 0| 
 | 20200827T12:10:40Z | Null | https://github.com/severnake/OWASP-Xenotix-XSS-Exploit-Framework | 0 | 0| 
 
