@@ -46,6 +46,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20200827T12:48:04Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 5 | 2| 
 | 20200827T12:36:10Z | Collection of exploits made during my preparation for my osce. | https://github.com/Pal1Sec/Exploit-Development | 1 | 0| 
 | 20200827T12:35:55Z | Droping test bombs | https://github.com/lbrabus/light_exploit_tests | 0 | 0| 
 | 20200827T12:35:13Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 7081 | 1140| 
@@ -55,7 +56,6 @@
 | 20200827T12:21:29Z | Using This Powerfull Tool, You Can Automate Finding And Exploiting LFI Vulnerability | https://github.com/rezasarvani/BitSecurity-LFIFinder | 1 | 0| 
 | 20200827T12:10:40Z | Null | https://github.com/severnake/OWASP-Xenotix-XSS-Exploit-Framework | 0 | 0| 
 | 20200827T12:00:04Z | Exploit Development, Reverse Engineering & Cryptography | https://github.com/alanvivona/pwnshop | 144 | 35| 
-| 20200827T11:53:35Z | This thesis investigates the relationship between employee sentiment, proxied by Glassdoor reviews and ratings, and excessive returns on corresponding bonds. While sentiment analysis is well studied for probing into how companies are perceived by investors or the general public, it is a novel idea to exploit sentiment of employees, which enables us to capture very important information for assessing companies% governance. Although a few studies scrutinising the relation employee sentiment and future stock returns have already appeared, this is the first attempt, to the best of my knowledge, to place this analysis to the universe of corporate bonds. | https://github.com/stancld/MSc-Project | 0 | 0| 
 
 
 # backdoor on Github 推荐
