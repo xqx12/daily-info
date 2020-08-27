@@ -46,6 +46,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20200827T12:53:22Z | This repository contains my public exploits, shellcodes, etc | https://github.com/daortz/PoC | 0 | 0| 
 | 20200827T12:48:04Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 5 | 2| 
 | 20200827T12:36:10Z | Collection of exploits made during my preparation for my osce. | https://github.com/Pal1Sec/Exploit-Development | 1 | 0| 
 | 20200827T12:35:55Z | Droping test bombs | https://github.com/lbrabus/light_exploit_tests | 0 | 0| 
@@ -55,7 +56,6 @@
 | 20200827T12:24:49Z | The best tool for finding one gadget RCE in libc.so.6 | https://github.com/david942j/one_gadget | 1148 | 102| 
 | 20200827T12:21:29Z | Using This Powerfull Tool, You Can Automate Finding And Exploiting LFI Vulnerability | https://github.com/rezasarvani/BitSecurity-LFIFinder | 1 | 0| 
 | 20200827T12:10:40Z | Null | https://github.com/severnake/OWASP-Xenotix-XSS-Exploit-Framework | 0 | 0| 
-| 20200827T12:00:04Z | Exploit Development, Reverse Engineering & Cryptography | https://github.com/alanvivona/pwnshop | 144 | 35| 
 
 
 # backdoor on Github 推荐
