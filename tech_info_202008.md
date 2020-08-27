@@ -11,6 +11,7 @@
 | 20200826 | 针对透明部落APT报告：进化分析，第2部分。 | https://securelist.com/transparent-tribe-part-2/98233/| 
 | 20200826 | WebSphere 远程命令执行漏洞（CVE-2020-4450）分析。 | http://paper.seebug.org/1315/| 
 | 20200826 | 避免通过DHCP选项进行渗透检测。 | http://sensepost.com/blog/2020/avoiding-detection-via-dhcp-options/| 
+| 20200826 | F-Secure发布Lazarus Group在加密货币方向的分析报告 | https://labs.f-secure.com/publications/ti-report-lazarus-group-cryptocurrency-vertical/| 
 | 20200825 | 开源恶意流量检测系统Maltrail更新 | https://securityonline.info/maltrail-malicious-traffic-detection-system/| 
 | 20200824 | Cached and Confused: Web Cache Deception in the Wild | https://www.usenix.org/system/files/sec20-mirheidari.pdf| 
 | 20200824 | Breaking the D-Link DIR3060 Firmware Encryption - Recon - Part 1 | https://0x434b.dev/breaking-the-d-link-dir3060-firmware-encryption-recon-part-1/| 
@@ -25,7 +26,6 @@
 | 20200824 | 使用特定字符模式获取MD5研究。 | https://stackoverflow.com/questions/21636042/getting-md5-with-certain-character-pattern| 
 | 20200824 | 提高企业可视性：Mitre ATT＆CK的集成防御部署。 | https://pentestmag.com/increasing-enterprise-visibility-integrated-defense-with-mitre-attck/| 
 | 20200824 | Mcafee发布关于COVID-19相关的专项威胁分析报告 | https://www.mcafee.com/enterprise/en-us/assets/reports/rp-quarterly-threats-july-2020.pdf?utm_source=twitter_mcafee_labs&utm_medium=social_organic&utm_term=&utm_content=&utm_campaign=&sf237110528=1| 
-| 20200824 | 赛门铁克发布2020年第二季度安全威胁报告 | https://symantec-enterprise-blogs.security.com/blogs/threat-intelligence/threat-landscape-trends-q2-2020| 
 
 
 # 安全维基 推荐
@@ -49,13 +49,13 @@
 | 20200827T01:23:41Z | CVE-2020-2883 | WebLogic利用CVE-2020-2883打Shiro rememberMe反序列化漏洞，一键注册蚁剑filter内存shell | https://github.com/Y4er/WebLogic-Shiro-shell | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
 | 20200826T16:19:57Z | CVE-2020-10713 | BootHole vulnerability (CVE-2020-10713). detection script, links and other mitigation related materials | https://github.com/eclypsium/BootHole | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
 | 20200826T13:30:31Z | CVE-2020-11794 | I have discovered a vulnerability in OpenTouch Multimedia Services, making it possible for an attacker with  administration rights to execute code on the server via web requests with high privileges. | https://github.com/w4cky/CVE-2020-11794 | 未查询到CVE信息| 
-| 20200826T10:29:48Z | 未知编号 | CVE Data Analysis, CVE Monitor, CVE EXP Prediction Based on Deep Learning. 1999-2020年存量CVE数据分析、监控CVE增量更新、基于深度学习的CVE EXP预测和自动化推送 | https://github.com/404notf0und/CVE-Flow | | 
-| 20200826T09:53:51Z | CVE-2020-2551 | weblogic 漏洞扫描工具。目前包含 CVE-2014-4210、CVE-2016-0638、CVE-2016-3510、CVE-2017-3248、CVE-2017-3506、CVE-2017-10271、CVE-2018-2628、CVE-2018-2893、CVE-2018-2894、CVE-2018-3191、CVE-2018-3245、CVE-2018-3252、CVE-2019-2618、CVE-2019-2725、CVE-2019-2729、CVE-2019-2890、CVE-2020-2551 | https://github.com/0xn0ne/weblogicScanner | | 
-| 20200826T06:22:52Z | CVE-2020-1493 | Null | https://github.com/0neb1n/CVE-2020-1493 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 22 MINUTES 13 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200826T03:48:37Z | CVE-2020-24597 | Directory traversal in com_media to RCE | https://github.com/HoangKien1020/CVE-2020-24597 | | 
-| 20200825T11:14:07Z | cve-2020-5902 | Null | https://github.com/f5devcentral/cve-2020-5902-ioc-bigip-checker | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 23 MINUTES 00 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200825T10:21:48Z | CVE-2020-0022 | CVE-2020-0022 vulnerability exploitation on Bouygues BBox Miami (Android TV 8.0 - ARM32 Cortex A9) | https://github.com/Polo35/CVE-2020-0022 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 23 MINUTES 13 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200825T09:19:29Z | cve-2020-24572 | Null | https://github.com/lb0x/cve-2020-24572 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 23 MINUTES 12 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200826T10:29:48Z | 未知编号 | CVE Data Analysis, CVE Monitor, CVE EXP Prediction Based on Deep Learning. 1999-2020年存量CVE数据分析、监控CVE增量更新、基于深度学习的CVE EXP预测和自动化推送 | https://github.com/404notf0und/CVE-Flow | 未查询到CVE信息| 
+| 20200826T09:53:51Z | CVE-2020-2551 | weblogic 漏洞扫描工具。目前包含 CVE-2014-4210、CVE-2016-0638、CVE-2016-3510、CVE-2017-3248、CVE-2017-3506、CVE-2017-10271、CVE-2018-2628、CVE-2018-2893、CVE-2018-2894、CVE-2018-3191、CVE-2018-3245、CVE-2018-3252、CVE-2019-2618、CVE-2019-2725、CVE-2019-2729、CVE-2019-2890、CVE-2020-2551 | https://github.com/0xn0ne/weblogicScanner | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
+| 20200826T06:22:52Z | CVE-2020-1493 | Null | https://github.com/0neb1n/CVE-2020-1493 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 21 MINUTES 14 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200826T03:48:37Z | CVE-2020-24597 | Directory traversal in com_media to RCE | https://github.com/HoangKien1020/CVE-2020-24597 | 未查询到CVE信息| 
+| 20200825T11:14:07Z | cve-2020-5902 | Null | https://github.com/f5devcentral/cve-2020-5902-ioc-bigip-checker | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 21 MINUTES 57 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200825T10:21:48Z | CVE-2020-0022 | CVE-2020-0022 vulnerability exploitation on Bouygues BBox Miami (Android TV 8.0 - ARM32 Cortex A9) | https://github.com/Polo35/CVE-2020-0022 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 21 MINUTES 12 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200825T09:19:29Z | cve-2020-24572 | Null | https://github.com/lb0x/cve-2020-24572 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 21 MINUTES 11 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 
 
 # klee on Github 推荐
@@ -76,6 +76,7 @@
 # s2e on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20200826T23:11:47Z | Fork of S2E/s2e-env | https://github.com/OrderLab/violet-s2e-env | 0 | 0| 
 | 20200826T18:02:18Z | This is the main S2E repository. Visit https://s2e.systems/docs to get started. | https://github.com/S2E/s2e | 54 | 18| 
 | 20200826T11:05:57Z | cicd logic and gitlab&github runner, centos base ,whith jdk/python/go, maven/npm,/kubectl/helm | https://github.com/chimeh/cicd-s2e-runner | 1 | 0| 
 | 20200823T21:45:35Z | Q. Yao, H. Yang, B. Han, G. Niu, J. Kwok. Searching to Exploit Memorization Effect in Learning from Noisy Labels. International Conference on Machine Learning (ICML) 2020 | https://github.com/AutoML-4Paradigm/S2E | 9 | 1| 
