@@ -24,8 +24,8 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20200827T12:16:47Z | CVE-2020-2883 | WebLogic利用CVE-2020-2883打Shiro rememberMe反序列化漏洞，一键注册蚁剑filter内存shell | https://github.com/Y4er/WebLogic-Shiro-shell | | 
-| 20200827T09:34:41Z | CVE-2020-2551 | weblogic 漏洞扫描工具。目前包含 CVE-2014-4210、CVE-2016-0638、CVE-2016-3510、CVE-2017-3248、CVE-2017-3506、CVE-2017-10271、CVE-2018-2628、CVE-2018-2893、CVE-2018-2894、CVE-2018-3191、CVE-2018-3245、CVE-2018-3252、CVE-2019-2618、CVE-2019-2725、CVE-2019-2729、CVE-2019-2890、CVE-2020-2551 | https://github.com/0xn0ne/weblogicScanner | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
+| 20200827T12:16:47Z | CVE-2020-2883 | WebLogic利用CVE-2020-2883打Shiro rememberMe反序列化漏洞，一键注册蚁剑filter内存shell | https://github.com/Y4er/WebLogic-Shiro-shell | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
+| 20200827T09:34:41Z | CVE-2020-2551 | weblogic 漏洞扫描工具。目前包含 CVE-2014-4210、CVE-2016-0638、CVE-2016-3510、CVE-2017-3248、CVE-2017-3506、CVE-2017-10271、CVE-2018-2628、CVE-2018-2893、CVE-2018-2894、CVE-2018-3191、CVE-2018-3245、CVE-2018-3252、CVE-2019-2618、CVE-2019-2725、CVE-2019-2729、CVE-2019-2890、CVE-2020-2551 | https://github.com/0xn0ne/weblogicScanner | | 
 
 
 # klee on Github 推荐
@@ -46,6 +46,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20200827T12:24:49Z | The best tool for finding one gadget RCE in libc.so.6 | https://github.com/david942j/one_gadget | 1148 | 102| 
+| 20200827T12:21:29Z | Using This Powerfull Tool, You Can Automate Finding And Exploiting LFI Vulnerability | https://github.com/rezasarvani/BitSecurity-LFIFinder | 1 | 0| 
 | 20200827T12:10:40Z | Null | https://github.com/severnake/OWASP-Xenotix-XSS-Exploit-Framework | 0 | 0| 
 | 20200827T12:00:04Z | Exploit Development, Reverse Engineering & Cryptography | https://github.com/alanvivona/pwnshop | 144 | 35| 
 | 20200827T11:53:35Z | This thesis investigates the relationship between employee sentiment, proxied by Glassdoor reviews and ratings, and excessive returns on corresponding bonds. While sentiment analysis is well studied for probing into how companies are perceived by investors or the general public, it is a novel idea to exploit sentiment of employees, which enables us to capture very important information for assessing companies% governance. Although a few studies scrutinising the relation employee sentiment and future stock returns have already appeared, this is the first attempt, to the best of my knowledge, to place this analysis to the universe of corporate bonds. | https://github.com/stancld/MSc-Project | 0 | 0| 
@@ -54,8 +56,6 @@
 | 20200827T10:58:17Z | mYCODE | https://github.com/NhatNam-Kyoto/Exploit_Code_ctf | 0 | 0| 
 | 20200827T10:53:02Z | A living document for penetration testing and offensive security. | https://github.com/0xffsec/handbook | 2 | 1| 
 | 20200827T10:46:00Z | Development of code to exploit LSST and VISTA imaging | https://github.com/lsst-uk/lsst-ir-fusion | 0 | 0| 
-| 20200827T10:45:36Z | this bash script let you download scripts and clone repos for remote exploits | https://github.com/FabioDefilippo/linuxallremote | 5 | 0| 
-| 20200827T10:42:37Z | Null | https://github.com/ActorExpose/exploits | 0 | 0| 
 
 
 # backdoor on Github 推荐
@@ -71,10 +71,10 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20200827T12:25:22Z | The fastest Intel-PT decoder for fuzzing | https://github.com/nyx-fuzz/libxdc | 38 | 9| 
 | 20200827T11:57:44Z | This tool uses fzf(1)-like fuzzy-finder to do partial or fuzzy search of Kubernetes resources. Instead of specifying full resource names to kubectl commands, you can choose them from an interactive list that you can filter by typing a few characters. | https://github.com/d-kuro/kubectl-fuzzy | 32 | 3| 
 | 20200827T11:43:15Z | Generate wordlists for fuzzing API method names | https://github.com/sorokinpf/ApiWordlistGenerator | 33 | 7| 
 | 20200827T10:50:38Z | A JavaScript Engine Fuzzer | https://github.com/googleprojectzero/fuzzilli | 1009 | 162| 
-| 20200827T10:42:00Z | The fastest Intel-PT decoder for fuzzing | https://github.com/nyx-fuzz/libxdc | 37 | 9| 
 | 20200827T10:33:23Z | PHP with Laravel for beginners - Become a Master in Laravel (Edwin Diaz) | https://github.com/rico1995/fuzzylaravel | 0 | 0| 
 | 20200827T10:31:06Z | A fuzzing management tools collection | https://github.com/MozillaSecurity/FuzzManager | 131 | 46| 
 | 20200827T10:28:01Z | Fuzzy filename matching | https://github.com/dtrace4linux/fuzzy | 0 | 0| 
