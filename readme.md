@@ -87,12 +87,12 @@
 | 20200827T23:41:37Z | Manage & generate prefs.js files | https://github.com/MozillaSecurity/prefpicker | 1 | 0| 
 | 20200827T21:09:00Z | Distributed fuzzing platform | https://github.com/qlyoung/lagopus | 0 | 0| 
 | 20200827T19:59:36Z | small cocos2d-x game | https://github.com/beardog-ukr/fuzzy-panther | 0 | 0| 
-| 20200827T19:14:34Z | FuzzBench - Fuzzer benchmarking as a service. | https://github.com/google/fuzzbench | 512 | 74| 
 | 20200827T18:47:57Z | Bazel Starlark extensions for defining fuzz tests in Bazel projects | https://github.com/googleinterns/bazel-rules-fuzzing | 2 | 0| 
 | 20200827T18:47:34Z | The code behind getfursu.it | https://github.com/veelkoov/fuzzrake | 6 | 0| 
 | 20200827T16:47:19Z | Sample DatoCMS website built with GatsbyJS | https://github.com/fuzzinc45/fuzzinc | 0 | 0| 
 | 20200827T16:45:00Z | 渗透测试、SRC漏洞挖掘、爆破、Fuzzing、Pentesting、BugBounty Hunter、BruteForce等字典收集项目 | https://github.com/insightglacier/Dictionary-Of-Pentesting | 31 | 11| 
 | 20200827T16:36:29Z | How to forecast Coronavirus infection cases using fuzzy time series | https://github.com/Qmoein/Time-series-prediction-using-Fuzzy-Logic | 0 | 0| 
+| 20200827T16:22:58Z | A Java library that helps to build human readable date/time messages. | https://github.com/amaasch/jFuzzyDate | 1 | 0| 
 
 
 
