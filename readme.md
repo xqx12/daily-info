@@ -30,7 +30,6 @@
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
 | 20200827T17:38:33Z | CVE-2020-10713 | BootHole vulnerability (CVE-2020-10713). detection script, links and other mitigation related materials | https://github.com/eclypsium/BootHole | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
-| 20200827T15:07:28Z | CVE-2020-2883 | WebLogic利用CVE-2020-2883打Shiro rememberMe反序列化漏洞，一键注册蚁剑filter内存shell | https://github.com/Y4er/WebLogic-Shiro-shell | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
 | 20200827T09:34:41Z | CVE-2020-2551 | weblogic 漏洞扫描工具。目前包含 CVE-2014-4210、CVE-2016-0638、CVE-2016-3510、CVE-2017-3248、CVE-2017-3506、CVE-2017-10271、CVE-2018-2628、CVE-2018-2893、CVE-2018-2894、CVE-2018-3191、CVE-2018-3245、CVE-2018-3252、CVE-2019-2618、CVE-2019-2725、CVE-2019-2729、CVE-2019-2890、CVE-2020-2551 | https://github.com/0xn0ne/weblogicScanner | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
 
 
@@ -90,9 +89,9 @@
 | 20200827T18:47:57Z | Bazel Starlark extensions for defining fuzz tests in Bazel projects | https://github.com/googleinterns/bazel-rules-fuzzing | 2 | 0| 
 | 20200827T18:47:34Z | The code behind getfursu.it | https://github.com/veelkoov/fuzzrake | 6 | 0| 
 | 20200827T16:47:19Z | Sample DatoCMS website built with GatsbyJS | https://github.com/fuzzinc45/fuzzinc | 0 | 0| 
-| 20200827T16:45:00Z | 渗透测试、SRC漏洞挖掘、爆破、Fuzzing、Pentesting、BugBounty Hunter、BruteForce等字典收集项目 | https://github.com/insightglacier/Dictionary-Of-Pentesting | 31 | 11| 
 | 20200827T16:36:29Z | How to forecast Coronavirus infection cases using fuzzy time series | https://github.com/Qmoein/Time-series-prediction-using-Fuzzy-Logic | 0 | 0| 
 | 20200827T16:22:58Z | A Java library that helps to build human readable date/time messages. | https://github.com/amaasch/jFuzzyDate | 1 | 0| 
+| 20200827T16:21:13Z | OSS-Fuzz - continuous fuzzing of open source software. | https://github.com/google/oss-fuzz | 5510 | 1082| 
 
 
 
