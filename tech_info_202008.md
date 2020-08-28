@@ -51,11 +51,11 @@
 | 20200827T09:34:41Z | CVE-2020-2551 | weblogic 漏洞扫描工具。目前包含 CVE-2014-4210、CVE-2016-0638、CVE-2016-3510、CVE-2017-3248、CVE-2017-3506、CVE-2017-10271、CVE-2018-2628、CVE-2018-2893、CVE-2018-2894、CVE-2018-3191、CVE-2018-3245、CVE-2018-3252、CVE-2019-2618、CVE-2019-2725、CVE-2019-2729、CVE-2019-2890、CVE-2020-2551 | https://github.com/0xn0ne/weblogicScanner | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
 | 20200826T13:30:31Z | CVE-2020-11794 | I have discovered a vulnerability in OpenTouch Multimedia Services, making it possible for an attacker with  administration rights to execute code on the server via web requests with high privileges. | https://github.com/w4cky/CVE-2020-11794 | 未查询到CVE信息| 
 | 20200826T10:29:48Z | 未知编号 | CVE Data Analysis, CVE Monitor, CVE EXP Prediction Based on Deep Learning. 1999-2020年存量CVE数据分析、监控CVE增量更新、基于深度学习的CVE EXP预测和自动化推送 | https://github.com/404notf0und/CVE-Flow | 未查询到CVE信息| 
-| 20200826T06:22:52Z | CVE-2020-1493 | Null | https://github.com/0neb1n/CVE-2020-1493 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 08 MINUTES 19 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200826T03:48:37Z | CVE-2020-24597 | Directory traversal in com_media to RCE | https://github.com/HoangKien1020/CVE-2020-24597 | | 
-| 20200825T11:14:07Z | cve-2020-5902 | Null | https://github.com/f5devcentral/cve-2020-5902-ioc-bigip-checker | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 09 MINUTES 03 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200825T10:21:48Z | CVE-2020-0022 | CVE-2020-0022 vulnerability exploitation on Bouygues BBox Miami (Android TV 8.0 - ARM32 Cortex A9) | https://github.com/Polo35/CVE-2020-0022 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 08 MINUTES 17 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200825T09:19:29Z | cve-2020-24572 | Null | https://github.com/lb0x/cve-2020-24572 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 08 MINUTES 16 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200826T06:22:52Z | CVE-2020-1493 | Null | https://github.com/0neb1n/CVE-2020-1493 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 07 MINUTES 18 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200826T03:48:37Z | CVE-2020-24597 | Directory traversal in com_media to RCE | https://github.com/HoangKien1020/CVE-2020-24597 | 未查询到CVE信息| 
+| 20200825T11:14:07Z | cve-2020-5902 | Null | https://github.com/f5devcentral/cve-2020-5902-ioc-bigip-checker | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 08 MINUTES 04 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200825T10:21:48Z | CVE-2020-0022 | CVE-2020-0022 vulnerability exploitation on Bouygues BBox Miami (Android TV 8.0 - ARM32 Cortex A9) | https://github.com/Polo35/CVE-2020-0022 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 07 MINUTES 16 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200825T09:19:29Z | cve-2020-24572 | Null | https://github.com/lb0x/cve-2020-24572 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 07 MINUTES 15 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 
 
 # klee on Github 推荐
@@ -76,11 +76,11 @@
 # s2e on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20200828T01:52:06Z | This is the main S2E repository. Visit https://s2e.systems/docs to get started. | https://github.com/S2E/s2e | 55 | 18| 
 | 20200827T20:44:30Z | Performance analyzer for logs generated from violet S2E plugin | https://github.com/OrderLab/violet-trace-analyzer | 0 | 0| 
 | 20200827T07:02:04Z | Null | https://github.com/OrderLab/violet-s2e-guest-images | 0 | 0| 
 | 20200827T06:37:50Z | Custom S2E plugins for Violet project | https://github.com/OrderLab/violet-s2e-plugins | 0 | 0| 
 | 20200826T23:11:47Z | Fork of S2E/s2e-env | https://github.com/OrderLab/violet-s2e-env | 0 | 0| 
-| 20200826T18:02:18Z | This is the main S2E repository. Visit https://s2e.systems/docs to get started. | https://github.com/S2E/s2e | 54 | 18| 
 | 20200826T11:05:57Z | cicd logic and gitlab&github runner, centos base ,whith jdk/python/go, maven/npm,/kubectl/helm | https://github.com/chimeh/cicd-s2e-runner | 1 | 0| 
 | 20200823T21:45:35Z | Q. Yao, H. Yang, B. Han, G. Niu, J. Kwok. Searching to Exploit Memorization Effect in Learning from Noisy Labels. International Conference on Machine Learning (ICML) 2020 | https://github.com/AutoML-4Paradigm/S2E | 9 | 1| 
 | 20200813T20:01:18Z | Null | https://github.com/JeffShao96/S2E-NS-3 | 0 | 0| 
