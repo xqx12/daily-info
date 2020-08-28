@@ -91,7 +91,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20200828T01:39:12Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 7087 | 1140| 
+| 20200828T01:41:28Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 7088 | 1141| 
 | 20200828T01:21:53Z | Null | https://github.com/Minishapp/ExploitUi | 0 | 0| 
 | 20200828T01:17:49Z | Null | https://github.com/Minishapp/ExploitUi-FastExecutor | 0 | 0| 
 | 20200828T01:11:55Z | A Exploit UI for roblox exploits using EasyXploits , FastColoredTextbox | https://github.com/Minishapp/FastExecutor-ExploitUI | 0 | 0| 
