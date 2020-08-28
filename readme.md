@@ -47,7 +47,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20200828T12:13:52Z | PoC exploit that converts an AKS cluster user to a cluster-admin | https://github.com/easimon/make-me-aks-admin | 0 | 0| 
+| 20200828T12:26:09Z | PoC exploit that converts an AKS cluster user to a cluster-admin | https://github.com/easimon/make-me-aks-admin | 0 | 0| 
 | 20200828T12:12:06Z | Development of code to exploit LSST and VISTA imaging | https://github.com/lsst-uk/lsst-ir-fusion | 0 | 0| 
 | 20200828T11:54:12Z | CTF framework and exploit development library | https://github.com/Gallopsled/pwntools | 6934 | 1278| 
 | 20200828T11:53:32Z | this bash script let you download scripts and clone repos for remote exploits | https://github.com/FabioDefilippo/linuxallremote | 5 | 0| 
