@@ -45,6 +45,7 @@
 # s2e on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20200827T20:44:30Z | Performance analyzer for logs generated from violet S2E plugin | https://github.com/OrderLab/violet-trace-analyzer | 0 | 0| 
 | 20200827T07:02:04Z | Null | https://github.com/OrderLab/violet-s2e-guest-images | 0 | 0| 
 | 20200827T06:37:50Z | Custom S2E plugins for Violet project | https://github.com/OrderLab/violet-s2e-plugins | 0 | 0| 
 

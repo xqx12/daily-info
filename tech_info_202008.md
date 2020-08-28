@@ -76,6 +76,7 @@
 # s2e on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20200827T20:44:30Z | Performance analyzer for logs generated from violet S2E plugin | https://github.com/OrderLab/violet-trace-analyzer | 0 | 0| 
 | 20200827T07:02:04Z | Null | https://github.com/OrderLab/violet-s2e-guest-images | 0 | 0| 
 | 20200827T06:37:50Z | Custom S2E plugins for Violet project | https://github.com/OrderLab/violet-s2e-plugins | 0 | 0| 
 | 20200826T23:11:47Z | Fork of S2E/s2e-env | https://github.com/OrderLab/violet-s2e-env | 0 | 0| 
@@ -85,7 +86,6 @@
 | 20200813T20:01:18Z | Null | https://github.com/JeffShao96/S2E-NS-3 | 0 | 0| 
 | 20200809T03:05:46Z | Null | https://github.com/cxzzzz/s2engine_mcu | 1 | 0| 
 | 20200805T12:28:57Z | WIZnet Serial to Ethernet(S2E) module based on W7500 chip, WIZ107/108SR S2E compatible device | https://github.com/Wiznet/WIZ750SR | 13 | 12| 
-| 20200804T14:45:06Z | This is the archived S2E 1.0 repo. We do not maintain it anymore. | https://github.com/S2E/s2e-old | 302 | 170| 
 
 
 # exploit on Github 推荐
