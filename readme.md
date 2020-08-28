@@ -26,8 +26,8 @@
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
 | 20200828T09:52:39Z | CVE-2020-2883 | WebLogic利用CVE-2020-2883打Shiro rememberMe反序列化漏洞，一键注册蚁剑filter内存shell | https://github.com/Y4er/WebLogic-Shiro-shell | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
-| 20200828T09:21:02Z | CVE-2020-0796 | 该资源为CVE-2020-0796漏洞复现，包括Python版本和C++版本。主要是集合了github大神们的资源，希望您喜欢~ | https://github.com/eastmountyxz/CVE-2020-0796-SMB | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 50 MINUTES 16 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200828T09:13:10Z | CVE-2020-17496 | Auto Shell upload & Patch vulnerability | https://github.com/0x00fy/vBulletin-0Day-Auto-shell-CVE-2020-17496- | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 50 MINUTES 25 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200828T09:21:02Z | CVE-2020-0796 | 该资源为CVE-2020-0796漏洞复现，包括Python版本和C++版本。主要是集合了github大神们的资源，希望您喜欢~ | https://github.com/eastmountyxz/CVE-2020-0796-SMB | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 49 MINUTES 14 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200828T09:13:10Z | CVE-2020-17496 | Auto Shell upload & Patch vulnerability | https://github.com/0x00fy/vBulletin-0Day-Auto-shell-CVE-2020-17496- | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 49 MINUTES 22 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20200828T08:56:37Z | CVE-2020-2551 | weblogic 漏洞扫描工具。目前包含 CVE-2014-4210、CVE-2016-0638、CVE-2016-3510、CVE-2017-3248、CVE-2017-3506、CVE-2017-10271、CVE-2018-2628、CVE-2018-2893、CVE-2018-2894、CVE-2018-3191、CVE-2018-3245、CVE-2018-3252、CVE-2019-2618、CVE-2019-2725、CVE-2019-2729、CVE-2019-2890、CVE-2020-2551 | https://github.com/0xn0ne/weblogicScanner | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
 | 20200828T02:34:35Z | 未知编号 | CVE Data Analysis, CVE Monitor, CVE EXP Prediction Based on Deep Learning. 1999-2020年存量CVE数据分析、监控CVE增量更新、基于深度学习的CVE EXP预测和自动化推送 | https://github.com/404notf0und/CVE-Flow | 未查询到CVE信息| 
 
@@ -47,10 +47,10 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20200828T12:10:39Z | PoC exploit that converts an AKS cluster user to a cluster-admin | https://github.com/easimon/make-me-aks-admin | 0 | 0| 
 | 20200828T11:54:12Z | CTF framework and exploit development library | https://github.com/Gallopsled/pwntools | 6934 | 1278| 
 | 20200828T11:53:32Z | this bash script let you download scripts and clone repos for remote exploits | https://github.com/FabioDefilippo/linuxallremote | 5 | 0| 
 | 20200828T11:52:22Z | Hypervisor Memory Introspection Core Library | https://github.com/hvmi/hvmi | 356 | 28| 
-| 20200828T11:50:30Z | PoC exploit that converts an AKS cluster user to a cluster-admin | https://github.com/easimon/make-me-aks-admin | 0 | 0| 
 | 20200828T11:47:38Z | Smart Install Exploitation Tool | https://github.com/Sab0tag3d/SIET | 438 | 130| 
 | 20200828T11:25:44Z | This repo will contain my exploit development scripts from 2010. I put here for archival purposes. | https://github.com/modpr0be/exploit-dev | 6 | 2| 
 | 20200828T11:18:11Z | A cheat sheet that contains common enumeration and attack methods for Windows Active Directory. | https://github.com/S1ckB0y1337/Active-Directory-Exploitation-Cheat-Sheet | 665 | 183| 
