@@ -54,7 +54,6 @@
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
 | 20200827T23:53:36Z | An exploit for CVE-2019-17026. It pops xcalc and was tested on Ubuntu (x64). | https://github.com/maxpl0it/CVE-2019-17026-Exploit | 4 | 1| 
-| 20200827T23:43:30Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 7084 | 1140| 
 | 20200827T23:36:22Z | *Frequently Updated. Sifter is a osint, recon & vulnerability scanner. It combines a plethara of tools within different module sets in order to quickly perform recon tasks, check network firewalling, enumerate remote and local hosts, and scan for the %blue% vulnerabilities within microsft and if unpatched, exploit them.  It uses tools like blackwidow and konan for webdir enumeration and attack surface mapping rapidly using ASM.  | https://github.com/s1l3nt78/sifter | 232 | 73| 
 | 20200827T23:35:11Z | Safira en un script programado en bash que nos permite de manera automatica conectar y crear payload y los ejecuta atraves de metasploit automaticos y nos podemos encontrar con exploit ha un activos solo se necesitan los datos como la ip  | https://github.com/cripton666/Safira | 0 | 0| 
 | 20200827T23:08:03Z | A phased, evasive Path Traversal + LFI scanning & exploitation tool in Python | https://github.com/VainlyStrain/Vailyn | 39 | 0| 
@@ -63,6 +62,7 @@
 | 20200827T21:25:15Z | Dante is vulnerability, version scanner; exploitation tool and report generator | https://github.com/kelj0/dante | 0 | 0| 
 | 20200827T21:23:47Z | Coming Soon | https://github.com/Mellonyt/Roblox-Adress-Dumper | 1 | 0| 
 | 20200827T20:10:08Z | A tool for automatic scanning and exploit of a network or device | https://github.com/user951/Black-ufo | 2 | 0| 
+| 20200827T20:03:24Z | Exploration-Exploitation using MAB | https://github.com/aegoe/MAB | 0 | 1| 
 
 
 # backdoor on Github 推荐
