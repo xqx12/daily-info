@@ -47,14 +47,14 @@
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
 | 20200828T22:19:08Z | CVE-2020-2883 | WebLogic利用CVE-2020-2883打Shiro rememberMe反序列化漏洞，一键注册蚁剑filter内存shell | https://github.com/Y4er/WebLogic-Shiro-shell | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
-| 20200828T14:55:16Z | CVE-2020-0688 | [CVE-2020-0688] Microsoft Exchange Server Fixed Cryptographic Key Remote Code Execution (RCE) | https://github.com/murataydemir/CVE-2020-0688 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 10 MINUTES 24 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200828T14:55:16Z | CVE-2020-0688 | [CVE-2020-0688] Microsoft Exchange Server Fixed Cryptographic Key Remote Code Execution (RCE) | https://github.com/murataydemir/CVE-2020-0688 | | 
 | 20200828T14:40:11Z | CVE-2020-2551 | weblogic 漏洞扫描工具。目前包含 CVE-2014-4210、CVE-2016-0638、CVE-2016-3510、CVE-2017-3248、CVE-2017-3506、CVE-2017-10271、CVE-2018-2628、CVE-2018-2893、CVE-2018-2894、CVE-2018-3191、CVE-2018-3245、CVE-2018-3252、CVE-2019-2618、CVE-2019-2725、CVE-2019-2729、CVE-2019-2890、CVE-2020-2551 | https://github.com/0xn0ne/weblogicScanner | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
-| 20200828T09:21:02Z | CVE-2020-0796 | 该资源为CVE-2020-0796漏洞复现，包括Python版本和C++版本。主要是集合了github大神们的资源，希望您喜欢~ | https://github.com/eastmountyxz/CVE-2020-0796-SMB | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 10 MINUTES 13 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200828T09:13:10Z | CVE-2020-17496 | Auto Shell upload & Patch vulnerability | https://github.com/0x00fy/vBulletin-0Day-Auto-shell-CVE-2020-17496- | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 10 MINUTES 22 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200828T02:34:35Z | 未知编号 | CVE Data Analysis, CVE Monitor, CVE EXP Prediction Based on Deep Learning. 1999-2020年存量CVE数据分析、监控CVE增量更新、基于深度学习的CVE EXP预测和自动化推送 | https://github.com/404notf0und/CVE-Flow | 未查询到CVE信息| 
+| 20200828T09:21:02Z | CVE-2020-0796 | 该资源为CVE-2020-0796漏洞复现，包括Python版本和C++版本。主要是集合了github大神们的资源，希望您喜欢~ | https://github.com/eastmountyxz/CVE-2020-0796-SMB | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 09 MINUTES 13 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200828T09:13:10Z | CVE-2020-17496 | Auto Shell upload & Patch vulnerability | https://github.com/0x00fy/vBulletin-0Day-Auto-shell-CVE-2020-17496- | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 09 MINUTES 22 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200828T02:34:35Z | 未知编号 | CVE Data Analysis, CVE Monitor, CVE EXP Prediction Based on Deep Learning. 1999-2020年存量CVE数据分析、监控CVE增量更新、基于深度学习的CVE EXP预测和自动化推送 | https://github.com/404notf0und/CVE-Flow | | 
 | 20200827T17:38:33Z | CVE-2020-10713 | BootHole vulnerability (CVE-2020-10713). detection script, links and other mitigation related materials | https://github.com/eclypsium/BootHole | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
 | 20200826T13:30:31Z | CVE-2020-11794 | I have discovered a vulnerability in OpenTouch Multimedia Services, making it possible for an attacker with  administration rights to execute code on the server via web requests with high privileges. | https://github.com/w4cky/CVE-2020-11794 | 未查询到CVE信息| 
-| 20200826T06:22:52Z | CVE-2020-1493 | Null | https://github.com/0neb1n/CVE-2020-1493 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 09 MINUTES 29 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200826T06:22:52Z | CVE-2020-1493 | Null | https://github.com/0neb1n/CVE-2020-1493 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 08 MINUTES 31 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20200826T03:48:37Z | CVE-2020-24597 | Directory traversal in com_media to RCE | https://github.com/HoangKien1020/CVE-2020-24597 | 未查询到CVE信息| 
 
 
@@ -91,6 +91,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20200829T00:50:18Z | Hotkeyed commands, automated exploits, and other chaotic obscenities can be found here! :D | https://github.com/TheOGMiyagi/Minecraft-Server-Scripts | 0 | 0| 
 | 20200829T00:48:07Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 5 | 2| 
 | 20200828T23:52:42Z | Null | https://github.com/quentin452/Cats-Exploitz-HUB | 0 | 1| 
 | 20200828T22:49:55Z | Mouse Framework is an iOS and macOS post-exploitation framework that gives you a command line session with extra functionality between you and a target machine using only a simple Mouse payload. Mouse gives you the power and convenience of uploading and downloading files, tab completion, taking pictures, location tracking, shell command execution, escalating privileges, password retrieval, and much more. | https://github.com/entynetproject/mouse | 174 | 71| 
@@ -100,7 +101,6 @@
 | 20200828T22:44:09Z | Entropy Toolkit is a set of tools to provide Netwave and GoAhead IP webcams attacks. Entropy Toolkit is a powerful toolkit for webcams penetration testing. | https://github.com/entynetproject/entropy | 122 | 61| 
 | 20200828T22:42:46Z | Ghost Framework is an Android post-exploitation framework that exploits the Android Debug Bridge to remotely access an Android device. Ghost Framework gives you the power and convenience of remote Android device administration. | https://github.com/entynetproject/ghost | 674 | 341| 
 | 20200828T22:12:09Z | fix exploits on anarchy server | https://github.com/moom0o/AnarchyExploitFixes | 2 | 1| 
-| 20200828T21:48:42Z | This thesis investigates the relationship between employee sentiment, proxied by Glassdoor reviews and ratings, and excessive returns on corresponding bonds. While sentiment analysis is well studied for probing into how companies are perceived by investors or the general public, it is a novel idea to exploit sentiment of employees, which enables us to capture very important information for assessing companies% governance. Although a few studies scrutinising the relation employee sentiment and future stock returns have already appeared, this is the first attempt, to the best of my knowledge, to place this analysis to the universe of corporate bonds. | https://github.com/stancld/MSc-Project | 0 | 0| 
 
 
 # backdoor on Github 推荐
