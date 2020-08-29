@@ -17,9 +17,9 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20200829T11:21:24Z | CVE-2020-17496 | Auto Shell upload & Patch vulnerability | https://github.com/0x00fy/vBulletin-0Day-Auto-shell-CVE-2020-17496- | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 43 MINUTES 22 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200829T11:21:24Z | CVE-2020-17496 | Auto Shell upload & Patch vulnerability | https://github.com/0x00fy/vBulletin-0Day-Auto-shell-CVE-2020-17496- | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 42 MINUTES 22 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20200829T06:22:11Z | CVE-2020-2883 | WebLogic利用CVE-2020-2883打Shiro rememberMe反序列化漏洞，一键注册蚁剑filter内存shell | https://github.com/Y4er/WebLogic-Shiro-shell | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
-| 20200829T05:39:57Z | CVE-2020-0796 | SMBGhost(CVE-2020-0796) is a Security Vulnerability with wormlike features, that affects Windows 10 computers and was first reported publicly on 10 March 2020. Proof-of-Concept exploit code was published 1 June 2020 on Github by a security researcher. | https://github.com/iamramahibrah/smbghost | | 
+| 20200829T05:39:57Z | CVE-2020-0796 | SMBGhost(CVE-2020-0796) is a Security Vulnerability with wormlike features, that affects Windows 10 computers and was first reported publicly on 10 March 2020. Proof-of-Concept exploit code was published 1 June 2020 on Github by a security researcher. | https://github.com/iamramahibrah/smbghost | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 41 MINUTES 29 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 
 
 # klee on Github 推荐
@@ -63,8 +63,8 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20200829T12:18:26Z | FuzzBall - Fuzzy audio plugin | https://github.com/kesara/fuzzball | 0 | 0| 
 | 20200829T12:17:20Z | a c program containing vulnerable code for common types of vulnerabilities, can be used to show fuzzing concepts. | https://github.com/hardik05/Damn_Vulnerable_C_Program | 22 | 3| 
-| 20200829T12:16:10Z | FuzzBall - Fuzzy audio plugin | https://github.com/kesara/fuzzball | 0 | 0| 
 | 20200829T10:51:24Z | 渗透测试、SRC漏洞挖掘、爆破、Fuzzing等字典收集项目 | https://github.com/insightglacier/Dictionary-Of-Pentesting | 48 | 18| 
 | 20200829T10:16:28Z | Repo for GSOC %20 Project Code , Rump Kernel Sycall Fuzzing | https://github.com/adityavardhanpadala/rumpsyscallfuzz | 1 | 0| 
 | 20200829T10:16:08Z | code accompanying the paper %AutoFuzz: Grammar-Based Fuzzing forSelf-Driving Car Controller% | https://github.com/autofuzz2020/AutoFuzz | 0 | 0| 
