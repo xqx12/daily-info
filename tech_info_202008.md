@@ -36,26 +36,26 @@
 | 20200830 | CloudPentestCheatsheets: 云渗透的一些参考命令 | https://github.com/dafthack/CloudPentestCheatsheets| 
 | 20200830 | Nali IP地理信息和CDN服务商查询 | https://blog.lgf.im/2020/nali-golang.html| 
 | 20200830 | Weblogic12c T3 协议安全漫谈 | https://paper.seebug.org/1321/| 
+| 20200830 | 从剖析CS木马生成到开发免杀工具 | https://xz.aliyun.com/t/8103| 
 | 20200829 | 联盟链智能合约安全浅析 | https://paper.seebug.org/1317/| 
 | 20200829 | 跨域漏洞那些事儿（cors、jsonp) | https://mp.weixin.qq.com/s/cHOvEbYtYNfl2lQ8-N3qtA| 
 | 20200829 | DataCon 2020 DNS恶意域名分析方向冠军writeup | https://mp.weixin.qq.com/s/y0Wv5ci30HIhXp5bbCZxRg| 
 | 20200829 | 《中国禁止出口限制出口技术目录》网络安全技术 | https://mp.weixin.qq.com/s/vdPakV3Y26ew2qxRiRVV4Q| 
-| 20200828 | ​GODNSLOG , 开源一个新鲜的DNSLOG | https://mp.weixin.qq.com/s/SVrEAgeqwtj6JZSfcspxXA| 
 
 
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20200830T11:03:01Z | CVE-2020-8218 | Tool to test for existence of CVE-2020-8218 | https://github.com/withdk/pulse-gosecure-rce-poc | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 48 MINUTES 24 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200830T11:03:01Z | CVE-2020-8218 | Tool to test for existence of CVE-2020-8218 | https://github.com/withdk/pulse-gosecure-rce-poc | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 45 MINUTES 24 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20200830T10:29:51Z | 未知编号 | CVE Data Analysis, CVE Monitor, CVE EXP Prediction Based on Deep Learning. 1999-2020年存量CVE数据分析、监控CVE增量更新、基于深度学习的CVE EXP预测和自动化推送 | https://github.com/404notf0und/CVE-Flow | 未查询到CVE信息| 
 | 20200830T08:11:54Z | CVE-2020-2883 | WebLogic利用CVE-2020-2883打Shiro rememberMe反序列化漏洞，一键注册蚁剑filter内存shell | https://github.com/Y4er/WebLogic-Shiro-shell | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
-| 20200830T00:24:01Z | CVE-2020-5902 | [CVE-2020-5902] F5 BIG-IP Remote Code Execution (RCE) | https://github.com/murataydemir/CVE-2020-5902 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 48 MINUTES 04 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200830T00:01:25Z | CVE-2020-3452 | [CVE-2020-3452] Cisco Adaptive Security Appliance (ASA) & Cisco Firepower Threat Defense (FTD) Web Service Read-Only Directory Traversal | https://github.com/murataydemir/CVE-2020-3452 | | 
-| 20200829T23:49:51Z | CVE-2020-6286 | [CVE-2020-6286] SAP NetWeaver AS JAVA (LM Configuration Wizard) Directory Traversal | https://github.com/murataydemir/CVE-2020-6286 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 48 MINUTES 06 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200829T23:46:39Z | CVE-2020-6287 | [CVE-2020-6287] SAP NetWeaver AS JAVA (LM Configuration Wizard) Authentication Bypass (Create Simple & Administrator Java User) | https://github.com/murataydemir/CVE-2020-6287 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 48 MINUTES 07 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200829T21:00:58Z | CVE-2020-0688 | [CVE-2020-0688] Microsoft Exchange Server Fixed Cryptographic Key Remote Code Execution (RCE) | https://github.com/murataydemir/CVE-2020-0688 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 48 MINUTES 13 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200829T18:49:57Z | CVE-2020-1493 | Null | https://github.com/0neb1n/CVE-2020-1493 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 48 MINUTES 20 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200829T11:21:24Z | CVE-2020-17496 | Auto Shell upload & Patch vulnerability | https://github.com/0x00fy/vBulletin-0Day-Auto-shell-CVE-2020-17496- | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 48 MINUTES 03 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200830T00:24:01Z | CVE-2020-5902 | [CVE-2020-5902] F5 BIG-IP Remote Code Execution (RCE) | https://github.com/murataydemir/CVE-2020-5902 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 45 MINUTES 04 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200830T00:01:25Z | CVE-2020-3452 | [CVE-2020-3452] Cisco Adaptive Security Appliance (ASA) & Cisco Firepower Threat Defense (FTD) Web Service Read-Only Directory Traversal | https://github.com/murataydemir/CVE-2020-3452 | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
+| 20200829T23:49:51Z | CVE-2020-6286 | [CVE-2020-6286] SAP NetWeaver AS JAVA (LM Configuration Wizard) Directory Traversal | https://github.com/murataydemir/CVE-2020-6286 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 45 MINUTES 06 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200829T23:46:39Z | CVE-2020-6287 | [CVE-2020-6287] SAP NetWeaver AS JAVA (LM Configuration Wizard) Authentication Bypass (Create Simple & Administrator Java User) | https://github.com/murataydemir/CVE-2020-6287 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 45 MINUTES 10 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200829T21:00:58Z | CVE-2020-0688 | [CVE-2020-0688] Microsoft Exchange Server Fixed Cryptographic Key Remote Code Execution (RCE) | https://github.com/murataydemir/CVE-2020-0688 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 45 MINUTES 13 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200829T18:49:57Z | CVE-2020-1493 | Null | https://github.com/0neb1n/CVE-2020-1493 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 45 MINUTES 20 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200829T11:21:24Z | CVE-2020-17496 | Auto Shell upload & Patch vulnerability | https://github.com/0x00fy/vBulletin-0Day-Auto-shell-CVE-2020-17496- | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 45 MINUTES 56 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 
 
 # klee on Github 推荐
@@ -106,6 +106,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20200830T12:13:42Z | php webshell for backdoor | https://github.com/sundarlal12/wbshell | 0 | 0| 
 | 20200830T10:41:11Z | Hacking tools pack & backdoors generator. | https://github.com/AdrMXR/KitHack | 139 | 34| 
 | 20200830T07:33:44Z | A file interceptor to replace the download program files with backdoor or any file we need th victim to download. | https://github.com/gouthamk-cryptichub/DownloadFile_interceptor | 0 | 0| 
 | 20200830T06:33:15Z | Protect your server against backdoors. | https://github.com/Xalalau/backdoor-shield | 0 | 0| 
@@ -115,7 +116,6 @@
 | 20200829T23:47:46Z | A simple python backdoor which is easy to use just enter the IP and port number in the code, in-built upload and download function, more features will be added soon | https://github.com/Mr-Akuma/Backdoorpython-v-1.0 | 1 | 1| 
 | 20200829T22:17:03Z | Ghost Framework is an Android post-exploitation framework that exploits the Android Debug Bridge to remotely access an Android device. Ghost Framework gives you the power and convenience of remote Android device administration. | https://github.com/entynetproject/ghost | 675 | 342| 
 | 20200829T21:16:47Z | Null | https://github.com/ikigaidaisuki/Simple-Backdoor-php | 0 | 0| 
-| 20200829T19:39:16Z | Null | https://github.com/J-Singh99/BackDoor | 1 | 0| 
 
 
 # fuzz on Github 推荐
