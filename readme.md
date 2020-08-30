@@ -46,7 +46,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20200830T12:55:25Z | Null | https://github.com/royanpng2/ExploitKey123 | 0 | 0| 
+| 20200830T12:55:55Z | Null | https://github.com/royanpng2/ExploitKey123 | 0 | 0| 
 | 20200830T12:54:23Z | this bash script let you download scripts and clone repos for remote exploits | https://github.com/FabioDefilippo/linuxallremote | 5 | 0| 
 | 20200830T12:43:47Z | Blog! | https://github.com/nonetype/nonetype.github.io | 0 | 0| 
 | 20200830T12:38:41Z | Avyukt is a Exploitation Framework which can be used to generate Malicious Payloads and exploit Windows OS | https://github.com/Vedant-Bhalgama/Avyukt | 1 | 0| 
