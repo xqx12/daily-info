@@ -31,39 +31,39 @@
 # 安全维基 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20200830 | WMIHACKER：免杀横向移动命令执行测试工具(无需445端口) | https://github.com/360-Linton-Lab/WMIHACKER/blob/master/README_zh.md| 
+| 20200830 | FileMonitor: 文件变化实时监控工具 | https://github.com/TheKingOfDuck/FileMonitor| 
+| 20200830 | CloudPentestCheatsheets: 云渗透的一些参考命令 | https://github.com/dafthack/CloudPentestCheatsheets| 
+| 20200830 | Nali IP地理信息和CDN服务商查询 | https://blog.lgf.im/2020/nali-golang.html| 
 | 20200829 | 联盟链智能合约安全浅析 | https://paper.seebug.org/1317/| 
 | 20200829 | 跨域漏洞那些事儿（cors、jsonp) | https://mp.weixin.qq.com/s/cHOvEbYtYNfl2lQ8-N3qtA| 
 | 20200829 | DataCon 2020 DNS恶意域名分析方向冠军writeup | https://mp.weixin.qq.com/s/y0Wv5ci30HIhXp5bbCZxRg| 
 | 20200829 | 《中国禁止出口限制出口技术目录》网络安全技术 | https://mp.weixin.qq.com/s/vdPakV3Y26ew2qxRiRVV4Q| 
 | 20200828 | ​GODNSLOG , 开源一个新鲜的DNSLOG | https://mp.weixin.qq.com/s/SVrEAgeqwtj6JZSfcspxXA| 
 | 20200828 | 开源数据分析各省及全国暴力犯罪态势 | https://mp.weixin.qq.com/s/wY1QYyIRcKINuxofJIfvZQ| 
-| 20200828 | 数据安全怎么做：数据分类分级 | https://mp.weixin.qq.com/s/x6C51zvD3b-27t_o28tI5w| 
-| 20200828 | 逃逸攻击上篇 | https://mp.weixin.qq.com/s/97PVYEJ5gjE92U6xWhHyig| 
-| 20200828 | 通达OA 11.5版本某处SQL注入漏洞复现分析 | https://mp.weixin.qq.com/s/XKZnsdY31N1_6gB9u8Yu8Q| 
-| 20200828 | 人工智能之认知图谱 | https://static.aminer.cn/misc/pdf/CognitiveGraph.pdf| 
 
 
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20200830T00:24:01Z | CVE-2020-5902 | [CVE-2020-5902] F5 BIG-IP Remote Code Execution (RCE) | https://github.com/murataydemir/CVE-2020-5902 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 00 MINUTES 15 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200830T11:03:01Z | CVE-2020-8218 | Tool to test for existence of CVE-2020-8218 | https://github.com/withdk/pulse-gosecure-rce-poc | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 54 MINUTES 34 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200830T10:29:51Z | 未知编号 | CVE Data Analysis, CVE Monitor, CVE EXP Prediction Based on Deep Learning. 1999-2020年存量CVE数据分析、监控CVE增量更新、基于深度学习的CVE EXP预测和自动化推送 | https://github.com/404notf0und/CVE-Flow | 未查询到CVE信息| 
+| 20200830T08:11:54Z | CVE-2020-2883 | WebLogic利用CVE-2020-2883打Shiro rememberMe反序列化漏洞，一键注册蚁剑filter内存shell | https://github.com/Y4er/WebLogic-Shiro-shell | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
+| 20200830T00:24:01Z | CVE-2020-5902 | [CVE-2020-5902] F5 BIG-IP Remote Code Execution (RCE) | https://github.com/murataydemir/CVE-2020-5902 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 54 MINUTES 19 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20200830T00:01:25Z | CVE-2020-3452 | [CVE-2020-3452] Cisco Adaptive Security Appliance (ASA) & Cisco Firepower Threat Defense (FTD) Web Service Read-Only Directory Traversal | https://github.com/murataydemir/CVE-2020-3452 | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
-| 20200829T23:49:51Z | CVE-2020-6286 | [CVE-2020-6286] SAP NetWeaver AS JAVA (LM Configuration Wizard) Directory Traversal | https://github.com/murataydemir/CVE-2020-6286 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 00 MINUTES 17 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200829T23:46:39Z | CVE-2020-6287 | [CVE-2020-6287] SAP NetWeaver AS JAVA (LM Configuration Wizard) Authentication Bypass (Create Simple & Administrator Java User) | https://github.com/murataydemir/CVE-2020-6287 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 00 MINUTES 18 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200829T21:00:58Z | CVE-2020-0688 | [CVE-2020-0688] Microsoft Exchange Server Fixed Cryptographic Key Remote Code Execution (RCE) | https://github.com/murataydemir/CVE-2020-0688 | | 
-| 20200829T18:49:57Z | CVE-2020-1493 | Null | https://github.com/0neb1n/CVE-2020-1493 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 00 MINUTES 24 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200829T17:04:37Z | CVE-2020-8218 | Tool to test for existence of CVE-2020-8218 | https://github.com/withdk/pulse-gosecure-rce-poc | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 00 MINUTES 27 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200829T11:21:24Z | CVE-2020-17496 | Auto Shell upload & Patch vulnerability | https://github.com/0x00fy/vBulletin-0Day-Auto-shell-CVE-2020-17496- | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 00 MINUTES 13 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200829T06:22:11Z | CVE-2020-2883 | WebLogic利用CVE-2020-2883打Shiro rememberMe反序列化漏洞，一键注册蚁剑filter内存shell | https://github.com/Y4er/WebLogic-Shiro-shell | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
-| 20200829T05:39:57Z | CVE-2020-0796 | SMBGhost(CVE-2020-0796) is a Security Vulnerability with wormlike features, that affects Windows 10 computers and was first reported publicly on 10 March 2020. Proof-of-Concept exploit code was published 1 June 2020 on Github by a security researcher. | https://github.com/iamramahibrah/smbghost | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 00 MINUTES 25 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200829T23:49:51Z | CVE-2020-6286 | [CVE-2020-6286] SAP NetWeaver AS JAVA (LM Configuration Wizard) Directory Traversal | https://github.com/murataydemir/CVE-2020-6286 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 53 MINUTES 58 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200829T23:46:39Z | CVE-2020-6287 | [CVE-2020-6287] SAP NetWeaver AS JAVA (LM Configuration Wizard) Authentication Bypass (Create Simple & Administrator Java User) | https://github.com/murataydemir/CVE-2020-6287 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 54 MINUTES 02 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200829T21:00:58Z | CVE-2020-0688 | [CVE-2020-0688] Microsoft Exchange Server Fixed Cryptographic Key Remote Code Execution (RCE) | https://github.com/murataydemir/CVE-2020-0688 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 54 MINUTES 20 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200829T18:49:57Z | CVE-2020-1493 | Null | https://github.com/0neb1n/CVE-2020-1493 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 54 MINUTES 27 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200829T11:21:24Z | CVE-2020-17496 | Auto Shell upload & Patch vulnerability | https://github.com/0x00fy/vBulletin-0Day-Auto-shell-CVE-2020-17496- | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 54 MINUTES 01 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20200830T11:35:57Z | A tool that automatically calls Klee to solve for injection | https://github.com/Zzzode/KleeTool | 1 | 0| 
+| 20200830T03:50:38Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1473 | 451| 
 | 20200829T22:05:27Z | Exploring possible implementations of a conjunction expression for Kleene Expressions. | https://github.com/ostomachion/KleeneConj | 0 | 0| 
-| 20200829T21:39:37Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1472 | 451| 
-| 20200829T18:27:19Z | A tool that automatically calls Klee to solve for injection | https://github.com/Zzzode/KleeTool | 1 | 0| 
 | 20200829T17:28:09Z | RVT is a collection of tools/libraries to support both static and dynamic verification of Rust programs. | https://github.com/project-oak/rust-verification-tools | 0 | 0| 
 | 20200828T19:22:07Z | Create CFGs and compute complexity metrics for Python, C++, and Java code. | https://github.com/hmc-alpaqa/metrinome | 3 | 0| 
 | 20200827T04:43:42Z | An opinionated front framework | https://github.com/logic-fabric/klee | 0 | 0| 
@@ -91,31 +91,31 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20200830T01:40:48Z | *Frequently Updated. Sifter is a osint, recon & vulnerability scanner. It combines a plethara of tools within different module sets in order to quickly perform recon tasks, check network firewalling, enumerate remote and local hosts, and scan for the %blue% vulnerabilities within microsft and if unpatched, exploit them.  It uses tools like blackwidow and konan for webdir enumeration and attack surface mapping rapidly using ASM.  | https://github.com/s1l3nt78/sifter | 232 | 73| 
-| 20200830T00:46:28Z | A collection of Discord bugs and exploits | https://github.com/ecriminal/Discord-Exploit-Collection | 27 | 6| 
-| 20200830T00:45:01Z | Null | https://github.com/junkeira13/exploit-linux-4.14---privilege-scalation | 0 | 0| 
-| 20200830T00:41:38Z | This repository was made for the subject Database II. An application that can be exploited by SQL Injection. | https://github.com/lucasrennok/SQLInjectionSample | 0 | 0| 
-| 20200829T23:55:49Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 7108 | 1145| 
-| 20200829T23:25:21Z | Arm64 Shell Code Exploit | https://github.com/maxcompston/arm64_shellcode_exploit | 0 | 0| 
-| 20200829T23:12:16Z | Prep for AWAE collections of exploits & notes | https://github.com/latortuga71/AWAE-Prep-Exploits-Notes | 0 | 0| 
-| 20200829T23:09:13Z | fix exploits on anarchy server | https://github.com/moom0o/AnarchyExploitFixes | 2 | 1| 
-| 20200829T22:39:02Z | Null | https://github.com/quentin452/Cats-Exploitz-HUB | 0 | 1| 
-| 20200829T22:14:06Z | A small cross platform strategy game for my master degree cource %Game Design%. The player takes controll over a planet exploit corporation with the goal to get the most profit out of all the planets in reach. | https://github.com/BlackLambert/exploit-inc | 0 | 0| 
+| 20200830T11:28:55Z | Silice is an open source language that simplifies writing algorithms fully exploiting FPGA architectures. | https://github.com/sylefeb/Silice | 323 | 23| 
+| 20200830T10:41:07Z | Null | https://github.com/pynox/malware-reverse-exploitdev | 2 | 0| 
+| 20200830T09:11:41Z | A cheat sheet that contains common enumeration and attack methods for Windows Active Directory. | https://github.com/Integration-IT/Active-Directory-Exploitation-Cheat-Sheet | 497 | 111| 
+| 20200830T08:56:45Z | This repository was made for the Database II subject. An application that can be exploited by SQL Injection. | https://github.com/lucasrennok/SQLInjectionSample | 0 | 0| 
+| 20200830T08:54:54Z | Netflow traffic monitoring exploiting Polycube services | https://github.com/s41m0n/polycube_netflow | 0 | 0| 
+| 20200830T08:24:53Z | Can you use daily news to exploit the stock market ? | https://github.com/robnix74/new-s-tock | 0 | 0| 
+| 20200830T08:21:36Z | A collection of Discord bugs and exploits | https://github.com/ecriminal/Discord-Exploit-Collection | 27 | 6| 
+| 20200830T08:17:00Z | Collection of docker images to be used for exploit development and testing | https://github.com/mishrasunny174/pwn-docker | 0 | 0| 
+| 20200830T08:10:15Z | These are certain exploits I have taken from exploitdb and tried to recreate it on my own in lieu of OSCE pre-prep | https://github.com/ironspideytrip/OSCE-Prep-Zero-day-practice | 1 | 0| 
+| 20200830T07:05:26Z | Null | https://github.com/royanpng2/ExploitKey123 | 0 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20200830T10:41:11Z | Hacking tools pack & backdoors generator. | https://github.com/AdrMXR/KitHack | 139 | 34| 
+| 20200830T07:33:44Z | A file interceptor to replace the download program files with backdoor or any file we need th victim to download. | https://github.com/gouthamk-cryptichub/DownloadFile_interceptor | 0 | 0| 
+| 20200830T06:33:15Z | Protect your server against backdoors. | https://github.com/Xalalau/backdoor-shield | 0 | 0| 
+| 20200830T05:45:41Z | Null | https://github.com/ru-faraon/the-backdoor-factory | 0 | 1| 
+| 20200830T04:41:42Z | Backdoor Shell | https://github.com/kaitolegion/Backdoor | 1 | 4| 
 | 20200830T01:55:41Z | Null | https://github.com/voila1106/backdoor | 0 | 0| 
-| 20200830T01:52:46Z | Protect your server against backdoors. | https://github.com/Xalalau/backdoor-shield | 0 | 1| 
 | 20200829T23:47:46Z | A simple python backdoor which is easy to use just enter the IP and port number in the code, in-built upload and download function, more features will be added soon | https://github.com/Mr-Akuma/Backdoorpython-v-1.0 | 1 | 1| 
-| 20200829T22:17:03Z | Ghost Framework is an Android post-exploitation framework that exploits the Android Debug Bridge to remotely access an Android device. Ghost Framework gives you the power and convenience of remote Android device administration. | https://github.com/entynetproject/ghost | 675 | 341| 
+| 20200829T22:17:03Z | Ghost Framework is an Android post-exploitation framework that exploits the Android Debug Bridge to remotely access an Android device. Ghost Framework gives you the power and convenience of remote Android device administration. | https://github.com/entynetproject/ghost | 675 | 342| 
 | 20200829T21:16:47Z | Null | https://github.com/ikigaidaisuki/Simple-Backdoor-php | 0 | 0| 
 | 20200829T19:39:16Z | Null | https://github.com/J-Singh99/BackDoor | 1 | 0| 
-| 20200829T19:05:56Z | it%s a simple backdoor which bypasses any av  | https://github.com/jaaabir/backdoor | 0 | 0| 
-| 20200829T19:03:49Z | Application backdoor client, server Python | https://github.com/Sheepy69/slave-backdoor-software | 0 | 0| 
-| 20200829T14:20:55Z | Null | https://github.com/Xinghui-Wu/ASR_Backdoor | 2 | 0| 
-| 20200829T09:27:15Z | Full-featured C2 framework which silently persists on webserver via evil PHP oneliner :smiling_imp: | https://github.com/nil0x42/phpsploit | 974 | 301| 
 
 
 # fuzz on Github 推荐
