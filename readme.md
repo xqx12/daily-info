@@ -67,6 +67,8 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20200831T07:40:27Z | Avyukt is a Exploitation Framework which can be used to generate Malicious Payloads and exploit Windows OS | https://github.com/Vedant-Bhalgama/Avyukt | 2 | 0| 
+| 20200831T04:56:48Z | Ghost Framework is an Android post-exploitation framework that exploits the Android Debug Bridge to remotely access an Android device. Ghost Framework gives you the power and convenience of remote Android device administration. | https://github.com/entynetproject/ghost | 678 | 343| 
 | 20200831T01:33:13Z | Protect your server against backdoors. | https://github.com/Xalalau/backdoor-shield | 0 | 0| 
 | 20200831T00:10:54Z | Null | https://github.com/Dan3DTV/backdoors | 0 | 0| 
 
@@ -74,6 +76,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20200831T12:02:26Z | Data of different type of incidents is read from firebase then fed to the algo which computes results for each type in parrallel then the results are combined to provide cumulative result which provides a safety value index for an area | https://github.com/QAZI-98/Fuzzy-safety-caclulator | 0 | 0| 
 | 20200831T12:01:38Z | a c program containing vulnerable code for common types of vulnerabilities, can be used to show fuzzing concepts. | https://github.com/hardik05/Damn_Vulnerable_C_Program | 46 | 6| 
 | 20200831T12:00:36Z | A Neural Network Language Model-Guided JavaScript Engine Fuzzer | https://github.com/WSP-LAB/Montage | 13 | 0| 
 | 20200831T11:50:37Z | Web application fuzzer | https://github.com/xmendez/wfuzz | 3066 | 768| 
@@ -83,7 +86,6 @@
 | 20200831T10:41:44Z | Collection of quality safety articles | https://github.com/tom0li/collection-document | 1202 | 396| 
 | 20200831T10:29:05Z | fuzzygit aim to ease the usage of common git commands by applying a simple interactive interface based on https://github.com/junegunn/fzf. | https://github.com/DennisBayer/fuzzygit | 0 | 0| 
 | 20200831T10:08:11Z | exploit for buffer overflow | https://github.com/psgareja/fuzzer | 0 | 0| 
-| 20200831T09:44:44Z | Null | https://github.com/DaniloAraneda123/Fuzzy-patterns | 0 | 0| 
 
 
 
