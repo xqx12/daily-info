@@ -18,6 +18,9 @@
 | 20200831 | 利用 Slack Desktop 的跳转漏洞最终实现 RCE | https://sec.today/pulses/27408f33-112b-440e-92b1-9454c086eece/| 
 | 20200831 | CISCO ISE 密码原始明文还原 | https://sec.today/pulses/8badaf64-a00c-4acd-ac5e-87b8009776b9/| 
 | 20200831 | 为 Bug Bounty Hunters 入门整理的资料 | https://sec.today/pulses/2a77fba0-504a-4090-9c52-81afb79833f5/| 
+| 20200831 | 利用 Slack Desktop 的跳转漏洞最终实现 RCE | https://hackerone.com/reports/783877| 
+| 20200831 | CISCO ISE 密码原始明文还原 | https://www.synacktiv.com/publications/cisco-ise-15-passwords-decryption.html| 
+| 20200831 | 为 Bug Bounty Hunters 入门整理的资料 | https://github.com/nahamsec/Resources-for-Beginner-Bug-Bounty-Hunters| 
 
 
 # 安全维基 推荐
@@ -33,7 +36,7 @@
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
 | 20200831T11:48:15Z | 未知编号 | CVE Data Analysis, CVE Monitor, CVE EXP Prediction Based on Deep Learning. 1999-2020年存量CVE数据分析、监控CVE增量更新、基于深度学习的CVE EXP预测和自动化推送 | https://github.com/404notf0und/CVE-Flow | 未查询到CVE信息| 
-| 20200831T08:42:17Z | CVE-2020-8218 | Tool to test for existence of CVE-2020-8218 | https://github.com/withdk/pulse-gosecure-rce-poc | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 58 MINUTES 31 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200831T08:42:17Z | CVE-2020-8218 | Tool to test for existence of CVE-2020-8218 | https://github.com/withdk/pulse-gosecure-rce-poc | | 
 | 20200831T07:59:04Z | CVE-2020-2883 | WebLogic利用CVE-2020-2883打Shiro rememberMe反序列化漏洞，一键注册蚁剑filter内存shell | https://github.com/Y4er/WebLogic-Shiro-shell | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
 | 20200831T00:52:03Z | CVE-2020-3452 | CVE-2020-3452 Cisco ASA Scanner -unauth Path Traversal Check | https://github.com/PR3R00T/CVE-2020-3452-Cisco-Scanner | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
 
