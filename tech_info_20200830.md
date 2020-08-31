@@ -23,7 +23,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20200830T18:37:11Z | CVE-2020-24765 | Null | https://github.com/trump88/CVE-2020-24765 | 未查询到CVE信息| 
+| 20200830T18:37:11Z | CVE-2020-24765 | Null | https://github.com/trump88/CVE-2020-24765 | | 
 | 20200830T18:16:28Z | CVE-2020-8218 | Tool to test for existence of CVE-2020-8218 | https://github.com/withdk/pulse-gosecure-rce-poc | | 
 | 20200830T12:18:16Z | CVE-2020-16152 | Explanation and PoC for CVE-2020-16152 | https://github.com/eriknl/CVE-2020-16152 | 未查询到CVE信息| 
 | 20200830T00:24:01Z | CVE-2020-5902 | [CVE-2020-5902] F5 BIG-IP Remote Code Execution (RCE) | https://github.com/murataydemir/CVE-2020-5902 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 27 MINUTES 20 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
@@ -70,8 +70,8 @@
 | 20200830T12:43:43Z | Null | https://github.com/iK4oS/backdoor.exe | 1 | 1| 
 | 20200830T12:13:42Z | php webshell for backdoor | https://github.com/sundarlal12/wbshell | 0 | 0| 
 | 20200830T07:33:44Z | A file interceptor to replace the download program files with backdoor or any file we need th victim to download. | https://github.com/gouthamk-cryptichub/DownloadFile_interceptor | 0 | 0| 
-| 20200830T06:33:15Z | Protect your server against backdoors. | https://github.com/Xalalau/backdoor-shield | 0 | 0| 
 | 20200830T05:45:41Z | Null | https://github.com/ru-faraon/the-backdoor-factory | 0 | 1| 
+| 20200830T04:41:42Z | Backdoor Shell | https://github.com/kaitolegion/Backdoor | 1 | 4| 
 
 
 # fuzz on Github 推荐

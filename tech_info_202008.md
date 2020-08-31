@@ -49,7 +49,7 @@
 | 20200831T01:11:55Z | CVE-2020-2883 | WebLogic利用CVE-2020-2883打Shiro rememberMe反序列化漏洞，一键注册蚁剑filter内存shell | https://github.com/Y4er/WebLogic-Shiro-shell | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
 | 20200831T00:52:03Z | CVE-2020-3452 | CVE-2020-3452 Cisco ASA Scanner -unauth Path Traversal Check | https://github.com/PR3R00T/CVE-2020-3452-Cisco-Scanner | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
 | 20200831T00:31:33Z | 未知编号 | CVE Data Analysis, CVE Monitor, CVE EXP Prediction Based on Deep Learning. 1999-2020年存量CVE数据分析、监控CVE增量更新、基于深度学习的CVE EXP预测和自动化推送 | https://github.com/404notf0und/CVE-Flow | 未查询到CVE信息| 
-| 20200830T18:37:11Z | CVE-2020-24765 | Null | https://github.com/trump88/CVE-2020-24765 | 未查询到CVE信息| 
+| 20200830T18:37:11Z | CVE-2020-24765 | Null | https://github.com/trump88/CVE-2020-24765 | | 
 | 20200830T18:16:28Z | CVE-2020-8218 | Tool to test for existence of CVE-2020-8218 | https://github.com/withdk/pulse-gosecure-rce-poc | | 
 | 20200830T12:18:16Z | CVE-2020-16152 | Explanation and PoC for CVE-2020-16152 | https://github.com/eriknl/CVE-2020-16152 | 未查询到CVE信息| 
 | 20200830T00:24:01Z | CVE-2020-5902 | [CVE-2020-5902] F5 BIG-IP Remote Code Execution (RCE) | https://github.com/murataydemir/CVE-2020-5902 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 27 MINUTES 20 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
@@ -106,6 +106,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20200831T01:33:13Z | Protect your server against backdoors. | https://github.com/Xalalau/backdoor-shield | 0 | 0| 
 | 20200831T00:10:54Z | Null | https://github.com/Dan3DTV/backdoors | 0 | 0| 
 | 20200830T23:01:18Z | Repository for all the code related to Learn Python & Ethical Hacking From Scratch course. All the work is done on Kali Linux, using both Python 2.7 and 3.x version. | https://github.com/Maffey/ethical-hacking-course | 0 | 0| 
 | 20200830T18:39:14Z | Hacking tools pack & backdoors generator. | https://github.com/AdrMXR/KitHack | 141 | 34| 
@@ -115,7 +116,6 @@
 | 20200830T12:43:43Z | Null | https://github.com/iK4oS/backdoor.exe | 1 | 1| 
 | 20200830T12:13:42Z | php webshell for backdoor | https://github.com/sundarlal12/wbshell | 0 | 0| 
 | 20200830T07:33:44Z | A file interceptor to replace the download program files with backdoor or any file we need th victim to download. | https://github.com/gouthamk-cryptichub/DownloadFile_interceptor | 0 | 0| 
-| 20200830T06:33:15Z | Protect your server against backdoors. | https://github.com/Xalalau/backdoor-shield | 0 | 0| 
 
 
 # fuzz on Github 推荐
