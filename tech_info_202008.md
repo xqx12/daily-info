@@ -47,22 +47,22 @@
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
 | 20200831T12:31:05Z | 未知编号 | CVE Data Analysis, CVE Monitor, CVE EXP Prediction Based on Deep Learning. 1999-2020年存量CVE数据分析、监控CVE增量更新、基于深度学习的CVE EXP预测和自动化推送 | https://github.com/404notf0und/CVE-Flow | 未查询到CVE信息| 
-| 20200831T08:42:17Z | CVE-2020-8218 | Tool to test for existence of CVE-2020-8218 | https://github.com/withdk/pulse-gosecure-rce-poc | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 26 MINUTES 55 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200831T08:42:17Z | CVE-2020-8218 | Tool to test for existence of CVE-2020-8218 | https://github.com/withdk/pulse-gosecure-rce-poc | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 23 MINUTES 22 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20200831T07:59:04Z | CVE-2020-2883 | WebLogic利用CVE-2020-2883打Shiro rememberMe反序列化漏洞，一键注册蚁剑filter内存shell | https://github.com/Y4er/WebLogic-Shiro-shell | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
 | 20200831T00:52:03Z | CVE-2020-3452 | CVE-2020-3452 Cisco ASA Scanner -unauth Path Traversal Check | https://github.com/PR3R00T/CVE-2020-3452-Cisco-Scanner | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
 | 20200830T18:37:11Z | CVE-2020-24765 | Null | https://github.com/trump88/CVE-2020-24765 | 未查询到CVE信息| 
-| 20200830T12:18:16Z | CVE-2020-16152 | Explanation and PoC for CVE-2020-16152 | https://github.com/eriknl/CVE-2020-16152 | | 
-| 20200830T00:24:01Z | CVE-2020-5902 | [CVE-2020-5902] F5 BIG-IP Remote Code Execution (RCE) | https://github.com/murataydemir/CVE-2020-5902 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 26 MINUTES 44 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200830T12:18:16Z | CVE-2020-16152 | Explanation and PoC for CVE-2020-16152 | https://github.com/eriknl/CVE-2020-16152 | 未查询到CVE信息| 
+| 20200830T00:24:01Z | CVE-2020-5902 | [CVE-2020-5902] F5 BIG-IP Remote Code Execution (RCE) | https://github.com/murataydemir/CVE-2020-5902 | | 
 | 20200830T00:01:25Z | CVE-2020-3452 | [CVE-2020-3452] Cisco Adaptive Security Appliance (ASA) & Cisco Firepower Threat Defense (FTD) Web Service Read-Only Directory Traversal | https://github.com/murataydemir/CVE-2020-3452 | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
-| 20200829T23:49:51Z | CVE-2020-6286 | [CVE-2020-6286] SAP NetWeaver AS JAVA (LM Configuration Wizard) Directory Traversal | https://github.com/murataydemir/CVE-2020-6286 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 26 MINUTES 45 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200829T23:46:39Z | CVE-2020-6287 | [CVE-2020-6287] SAP NetWeaver AS JAVA (LM Configuration Wizard) Authentication Bypass (Create Simple & Administrator Java User) | https://github.com/murataydemir/CVE-2020-6287 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 26 MINUTES 46 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200829T23:49:51Z | CVE-2020-6286 | [CVE-2020-6286] SAP NetWeaver AS JAVA (LM Configuration Wizard) Directory Traversal | https://github.com/murataydemir/CVE-2020-6286 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 24 MINUTES 12 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200829T23:46:39Z | CVE-2020-6287 | [CVE-2020-6287] SAP NetWeaver AS JAVA (LM Configuration Wizard) Authentication Bypass (Create Simple & Administrator Java User) | https://github.com/murataydemir/CVE-2020-6287 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 24 MINUTES 14 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20200831T12:33:15Z | A tool that automatically calls Klee to solve for injection | https://github.com/Zzzode/KleeTool | 1 | 0| 
 | 20200831T04:29:14Z | My Personal Portfolio | https://github.com/klee4505/klee4505.github.io | 0 | 0| 
-| 20200830T22:17:18Z | A tool that automatically calls Klee to solve for injection | https://github.com/Zzzode/KleeTool | 1 | 0| 
 | 20200830T21:08:05Z | Exploring possible implementations of a conjunction expression for Kleene Expressions. | https://github.com/ostomachion/KleeneConj | 0 | 0| 
 | 20200830T20:55:23Z | KleeneExpressions | https://github.com/ostomachion/Kleene | 1 | 0| 
 | 20200830T03:50:38Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1473 | 450| 
@@ -91,10 +91,10 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20200831T12:35:11Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 7119 | 1146| 
 | 20200831T12:22:07Z | exploiting and defending neural networks(神经网络攻防专栏) | https://github.com/AIPwn/HackingNeuralNetworks | 0 | 0| 
 | 20200831T12:14:55Z | iblessing is an iOS security exploiting toolkit, it mainly includes application information collection, static analysis and dynamic analysis. It can be used for reverse engineering, binary analysis and vulnerability mining. | https://github.com/Soulghost/iblessing | 151 | 25| 
 | 20200831T11:53:08Z |    Energy management system (EMS) market is expected to grow at a moderate rate during the forecast period 2019-2025. The energy management system (EMS) is used to control, monitor and conserve energy in various areas such as home and building or organization. In the process, energy consumption is metered and collects data, and the EMS system reduce the energy consumption.  The EMS is considered as the tool to improvise systems for heating, ventilation, air-conditioning and lighting and reduces the amount of energy consume. The price of electricity is increasing, therefore, the need for energy saving system is increasing globally. The EMS controls and reduces energy consumption, reduce carbon emission and reduces environmental risk. Smart EMS with renewable source allows to optimize demand and supply, through setting optimal comfort levels and scheduling appliances. For instance, the home energy system can be managed through the scheduling appliances such as washing machines and dishwashers. The technique exploits renewable sources such as wind energy and solar energy, and enables homes/buildings to reduce dependence on grid power. | https://github.com/pooja2893/Energy-management-system-Market-Trends-Size-Forecast---2019-2025- | 0 | 0| 
-| 20200831T11:30:25Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 7119 | 1146| 
 | 20200831T11:17:21Z | Asynchronous Python implementation of SlowLoris DoS attack | https://github.com/maxkrivich/SlowLoris | 43 | 22| 
 | 20200831T11:13:07Z | It have the book example code | https://github.com/dev-frog/Art_Of_Exploitation | 0 | 1| 
 | 20200831T10:08:11Z | exploit for buffer overflow | https://github.com/psgareja/fuzzer | 0 | 0| 
@@ -124,7 +124,7 @@
 | 20200831T12:29:52Z | Repository for the artifact evaluation of the ACSAC 2020 paper %Cupid: Automatic Fuzzer Selection for Collaborative Fuzzing% | https://github.com/egueler/cupid-artifact-eval | 0 | 0| 
 | 20200831T12:14:33Z | Null | https://github.com/SYSTRAN/fuzzy-match | 0 | 0| 
 | 20200831T12:02:26Z | Data of different type of incidents is read from firebase then fed to the algo which computes results for each type in parrallel then the results are combined to provide cumulative result which provides a safety value index for an area | https://github.com/QAZI-98/Fuzzy-safety-caclulator | 0 | 0| 
-| 20200831T12:01:38Z | a c program containing vulnerable code for common types of vulnerabilities, can be used to show fuzzing concepts. | https://github.com/hardik05/Damn_Vulnerable_C_Program | 46 | 7| 
+| 20200831T12:01:38Z | a c program containing vulnerable code for common types of vulnerabilities, can be used to show fuzzing concepts. | https://github.com/hardik05/Damn_Vulnerable_C_Program | 46 | 6| 
 | 20200831T12:00:36Z | A Neural Network Language Model-Guided JavaScript Engine Fuzzer | https://github.com/WSP-LAB/Montage | 13 | 0| 
 | 20200831T11:50:37Z | Web application fuzzer | https://github.com/xmendez/wfuzz | 3066 | 768| 
 | 20200831T11:47:26Z | Fuzz Ball - Fuzzy audio plugin | https://github.com/fake-industries/fuzzball | 1 | 0| 
