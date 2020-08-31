@@ -6,6 +6,18 @@
 # 玄武实验室 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20200831 | 海康萤石智能门锁的网关分析 | http://paper.seebug.org/1320/| 
+| 20200831 | 美国电信公司 CenturyLink 路由问题导致 Cloudflare 等多家公司网络故障 | https://sec.today/pulses/02fee915-198c-436f-8955-3efef4c4fd59/| 
+| 20200831 | 手机色情软件中的“偷拍者” | http://blogs.360.cn/post/shou-ji-se-qing-ruan-jian-zhong-de-tou-pai-zhe.html| 
+| 20200831 | Windows SMB 协议 CVE-2020-0796 导致本地任意地址写过程分析 | http://blog.topsec.com.cn/cve-2020-0796-lpe-%e6%b7%b1%e5%ba%a6%e5%88%86%e6%9e%90/| 
+| 20200831 | 基于 Event Tracing for Windows (ETW) 而不再依赖驱动实现的 Process Monitor | https://github.com/zodiacon/ProcMonXv2| 
+| 20200831 | 如何构造一个 Node.js NPM 恶意软件包 | https://blog.phylum.io/malicious-javascript-code-in-npm-malware/| 
+| 20200831 | Odyssey 越狱工具的开源代码 | https://github.com/TheOdysseyJB/Odyssey| 
+| 20200831 | Weblogic12c T3 协议安全漫谈 | http://paper.seebug.org/1321/| 
+| 20200831 | Graphtage - 支持对 JSON 文件进行 Diff 比对的工具 | https://blog.trailofbits.com/2020/08/28/graphtage/| 
+| 20200831 | 利用 Slack Desktop 的跳转漏洞最终实现 RCE | https://sec.today/pulses/27408f33-112b-440e-92b1-9454c086eece/| 
+| 20200831 | CISCO ISE 密码原始明文还原 | https://sec.today/pulses/8badaf64-a00c-4acd-ac5e-87b8009776b9/| 
+| 20200831 | 为 Bug Bounty Hunters 入门整理的资料 | https://sec.today/pulses/2a77fba0-504a-4090-9c52-81afb79833f5/| 
 | 20200828 | Ubiquiti UniFi Cloud Key Gen2 Plus 设备调试接口搭建以及管理接口漏洞分析 | https://medium.com/tenable-techblog/exploring-the-ubiquiti-unifi-cloud-key-gen2-plus-f5b0f7ca688| 
 | 20200828 | Bypass Windows Defender Credential Guard 保护 | https://teamhydra.blog/2020/08/25/bypassing-credential-guard/| 
 | 20200828 | Abusing COM & DCOM objects | https://packetstormsecurity.com/files/158974| 
@@ -14,69 +26,57 @@
 | 20200828 | Android Security Awesome，Android 安全方向的资料整理 | https://github.com/ashishb/android-security-awesome| 
 | 20200828 | 漏洞库 MITRE 新增了一个漏洞类型：嵌套调用导致的代码重入漏洞，来自 ZDI 的介绍 | https://www.thezdi.com/blog/2020/8/25/introducing-cwe-1265-a-new-way-to-understand-vulnerable-reentrant-control-flows| 
 | 20200828 | Exploiting CVE-2019-17026 - A Firefox JIT Bug | http://labs.f-secure.com/blog/exploiting-cve-2019-17026-a-firefox-jit-bug/| 
-| 20200828 | Cisco NX-OS软件CLI中存在任意命令执行漏洞。 | https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20180620-nx-os-cli-execution?vs_f=Cisco%20Security%20Advisory&vs_cat=Security%20Intelligence&vs_type=RSS&vs_p=Cisco%20NX-OS%20Software%20CLI%20Arbitrary%20Command%20Execution%20Vulnerability&vs_k=1&utm_source=dlvr.it&utm_medium=twitter| 
-| 20200828 | 身份验证绕过漏洞：Google Cloud服务帐户与项目泄漏。 | https://www.ezequiel.tech/2020/08/leaking-google-cloud-projects.html?m=1| 
-| 20200827 | A Tale of Escaping a Hardened Docker container | https://www.redtimmy.com/docker/a-tale-of-escaping-a-hardened-docker-container/| 
-| 20200827 | Exploiting Intel ME - USB 劫持 | https://kakaroto.ca/2020/08/exploiting-intels-management-engine-part-3-usb-hijacking-intel-sa-00086/| 
-| 20200827 | 代码审计从0到1 —— Centreon One-click To RCE | http://paper.seebug.org/1313/| 
-| 20200827 | Pwn2Own 迈阿密比赛中 Triangle MicroWorks SCADA Data Gateway 工控漏洞及利用的细节分析 | https://www.thezdi.com/blog/2020/8/24/cve-2020-10611-achieving-code-execution-on-the-triangle-microworks-scada-data-gateway| 
-| 20200827 | Google Chrome WebGL UAF 漏洞 (CVE-2020-8620)的分析 | https://blog.talosintelligence.com/2020/08/vuln-spotlight-chrome-use-free-aug-2020.html?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+feedburner%2FTalos+%28Talos%E2%84%A2+Blog%29| 
-| 20200827 | 卡巴斯基对 DeathStalker 恶意样本的分析 | https://securelist.com/deathstalker-mercenary-triumvirate/98177/| 
-| 20200827 | 网络钓鱼的秘密：攻击与保护-电子书预览。 | https://hakin9.org/download/phishing-secrets-attack-protection-preview/| 
-| 20200827 | 2018年Android流行威胁的恶意软件资源库。 | https://github.com/sk3ptre/AndroidMalware_2018| 
-| 20200827 | 利用Speakeasy模拟恶意软件Shellcode分析研究。 | https://www.fireeye.com/blog/threat-research/2020/08/emulation-of-malicious-shellcode-with-speakeasy.html| 
-| 20200827 | 网络介绍, 初学者的网络基础-OSI模型学习视频。 | https://www.youtube.com/watch?v=rIZ61PyDkH8&feature=youtu.be| 
 
 
 # 安全维基 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20200831 | 反制攻击队和防守人员 | https://tom0li.github.io/%E5%8F%8D%E5%88%B6%E6%94%BB%E5%87%BB%E9%98%9F%E5%92%8C%E9%98%B2%E5%AE%88%E4%BA%BA%E5%91%98/| 
+| 20200831 | SecWiki周刊（第339期) | https://www.sec-wiki.com/weekly/339| 
+| 20200831 | 我所亲历的信息安全建设之变迁-[2] | https://mp.weixin.qq.com/s/5dpqVcYEEpz4K_45MUZwxg| 
+| 20200831 | 美国追踪与追回朝鲜黑客窃取的数字货币 | https://mp.weixin.qq.com/s/fSVfWFKsO9yYRrB48GyNyg| 
 | 20200830 | WMIHACKER：免杀横向移动命令执行测试工具(无需445端口) | https://github.com/360-Linton-Lab/WMIHACKER/blob/master/README_zh.md| 
 | 20200830 | FileMonitor: 文件变化实时监控工具 | https://github.com/TheKingOfDuck/FileMonitor| 
 | 20200830 | CloudPentestCheatsheets: 云渗透的一些参考命令 | https://github.com/dafthack/CloudPentestCheatsheets| 
 | 20200830 | Nali IP地理信息和CDN服务商查询 | https://blog.lgf.im/2020/nali-golang.html| 
 | 20200830 | Weblogic12c T3 协议安全漫谈 | https://paper.seebug.org/1321/| 
 | 20200830 | 从剖析CS木马生成到开发免杀工具 | https://xz.aliyun.com/t/8103| 
-| 20200830 | 海康萤石智能门锁的网关分析 | https://bbs.pediy.com/thread-261679.htm| 
-| 20200829 | 联盟链智能合约安全浅析 | https://paper.seebug.org/1317/| 
-| 20200829 | 跨域漏洞那些事儿（cors、jsonp) | https://mp.weixin.qq.com/s/cHOvEbYtYNfl2lQ8-N3qtA| 
-| 20200829 | DataCon 2020 DNS恶意域名分析方向冠军writeup | https://mp.weixin.qq.com/s/y0Wv5ci30HIhXp5bbCZxRg| 
 
 
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20200831T01:11:55Z | CVE-2020-2883 | WebLogic利用CVE-2020-2883打Shiro rememberMe反序列化漏洞，一键注册蚁剑filter内存shell | https://github.com/Y4er/WebLogic-Shiro-shell | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
+| 20200831T11:48:15Z | 未知编号 | CVE Data Analysis, CVE Monitor, CVE EXP Prediction Based on Deep Learning. 1999-2020年存量CVE数据分析、监控CVE增量更新、基于深度学习的CVE EXP预测和自动化推送 | https://github.com/404notf0und/CVE-Flow | 未查询到CVE信息| 
+| 20200831T08:42:17Z | CVE-2020-8218 | Tool to test for existence of CVE-2020-8218 | https://github.com/withdk/pulse-gosecure-rce-poc | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 58 MINUTES 31 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200831T07:59:04Z | CVE-2020-2883 | WebLogic利用CVE-2020-2883打Shiro rememberMe反序列化漏洞，一键注册蚁剑filter内存shell | https://github.com/Y4er/WebLogic-Shiro-shell | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
 | 20200831T00:52:03Z | CVE-2020-3452 | CVE-2020-3452 Cisco ASA Scanner -unauth Path Traversal Check | https://github.com/PR3R00T/CVE-2020-3452-Cisco-Scanner | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
-| 20200831T00:31:33Z | 未知编号 | CVE Data Analysis, CVE Monitor, CVE EXP Prediction Based on Deep Learning. 1999-2020年存量CVE数据分析、监控CVE增量更新、基于深度学习的CVE EXP预测和自动化推送 | https://github.com/404notf0und/CVE-Flow | 未查询到CVE信息| 
 | 20200830T18:37:11Z | CVE-2020-24765 | Null | https://github.com/trump88/CVE-2020-24765 | 未查询到CVE信息| 
-| 20200830T18:16:28Z | CVE-2020-8218 | Tool to test for existence of CVE-2020-8218 | https://github.com/withdk/pulse-gosecure-rce-poc | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 00 MINUTES 26 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200830T12:18:16Z | CVE-2020-16152 | Explanation and PoC for CVE-2020-16152 | https://github.com/eriknl/CVE-2020-16152 | | 
-| 20200830T00:24:01Z | CVE-2020-5902 | [CVE-2020-5902] F5 BIG-IP Remote Code Execution (RCE) | https://github.com/murataydemir/CVE-2020-5902 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 00 MINUTES 13 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200830T00:01:25Z | CVE-2020-3452 | [CVE-2020-3452] Cisco Adaptive Security Appliance (ASA) & Cisco Firepower Threat Defense (FTD) Web Service Read-Only Directory Traversal | https://github.com/murataydemir/CVE-2020-3452 | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
-| 20200829T23:49:51Z | CVE-2020-6286 | [CVE-2020-6286] SAP NetWeaver AS JAVA (LM Configuration Wizard) Directory Traversal | https://github.com/murataydemir/CVE-2020-6286 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 00 MINUTES 14 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200829T23:46:39Z | CVE-2020-6287 | [CVE-2020-6287] SAP NetWeaver AS JAVA (LM Configuration Wizard) Authentication Bypass (Create Simple & Administrator Java User) | https://github.com/murataydemir/CVE-2020-6287 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 00 MINUTES 15 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200830T12:18:16Z | CVE-2020-16152 | Explanation and PoC for CVE-2020-16152 | https://github.com/eriknl/CVE-2020-16152 | 未查询到CVE信息| 
+| 20200830T00:24:01Z | CVE-2020-5902 | [CVE-2020-5902] F5 BIG-IP Remote Code Execution (RCE) | https://github.com/murataydemir/CVE-2020-5902 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 58 MINUTES 18 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200830T00:01:25Z | CVE-2020-3452 | [CVE-2020-3452] Cisco Adaptive Security Appliance (ASA) & Cisco Firepower Threat Defense (FTD) Web Service Read-Only Directory Traversal | https://github.com/murataydemir/CVE-2020-3452 | | 
+| 20200829T23:49:51Z | CVE-2020-6286 | [CVE-2020-6286] SAP NetWeaver AS JAVA (LM Configuration Wizard) Directory Traversal | https://github.com/murataydemir/CVE-2020-6286 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 58 MINUTES 20 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200829T23:46:39Z | CVE-2020-6287 | [CVE-2020-6287] SAP NetWeaver AS JAVA (LM Configuration Wizard) Authentication Bypass (Create Simple & Administrator Java User) | https://github.com/murataydemir/CVE-2020-6287 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 58 MINUTES 21 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20200831T04:29:14Z | My Personal Portfolio | https://github.com/klee4505/klee4505.github.io | 0 | 0| 
 | 20200830T22:17:18Z | A tool that automatically calls Klee to solve for injection | https://github.com/Zzzode/KleeTool | 1 | 0| 
 | 20200830T21:08:05Z | Exploring possible implementations of a conjunction expression for Kleene Expressions. | https://github.com/ostomachion/KleeneConj | 0 | 0| 
 | 20200830T20:55:23Z | KleeneExpressions | https://github.com/ostomachion/Kleene | 1 | 0| 
-| 20200830T03:50:38Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1473 | 451| 
+| 20200830T03:50:38Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1473 | 450| 
 | 20200829T17:28:09Z | RVT is a collection of tools/libraries to support both static and dynamic verification of Rust programs. | https://github.com/project-oak/rust-verification-tools | 0 | 0| 
 | 20200828T19:22:07Z | Create CFGs and compute complexity metrics for Python, C++, and Java code. | https://github.com/hmc-alpaqa/metrinome | 3 | 0| 
 | 20200827T04:43:42Z | An opinionated front framework | https://github.com/logic-fabric/klee | 0 | 0| 
 | 20200826T10:30:51Z | Symbiotic is a tool for finding bugs in computer programs based on instrumentation, program slicing and KLEE | https://github.com/staticafi/symbiotic | 195 | 33| 
 | 20200826T00:39:04Z | Ejercicios curso Klee | https://github.com/agustin-tecso/kbot | 0 | 0| 
-| 20200824T19:05:23Z | Null | https://github.com/LaniusZ/FacturaKleer | 0 | 0| 
 
 
 # s2e on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20200828T01:52:06Z | This is the main S2E repository. Visit https://s2e.systems/docs to get started. | https://github.com/S2E/s2e | 55 | 18| 
+| 20200828T01:52:06Z | This is the main S2E repository. Visit https://s2e.systems/docs to get started. | https://github.com/S2E/s2e | 55 | 17| 
 | 20200827T20:44:30Z | Performance analyzer for logs generated from violet S2E plugin | https://github.com/OrderLab/violet-trace-analyzer | 0 | 0| 
 | 20200827T07:02:04Z | Null | https://github.com/OrderLab/violet-s2e-guest-images | 0 | 0| 
 | 20200827T06:37:50Z | Custom S2E plugins for Violet project | https://github.com/OrderLab/violet-s2e-plugins | 0 | 0| 
@@ -91,16 +91,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20200831T01:23:36Z | Text series dedicated to exploiting certain systems (updated as I find interesting things) | https://github.com/Brhsoftco/TheExploitBible | 0 | 0| 
-| 20200831T01:12:29Z | Get GTFOBins info about a given exploit for given commands | https://github.com/CristinaSolana/ggtfobins | 0 | 0| 
-| 20200831T00:33:03Z | Arm64 Return Oriented Programming (ROP) Exploit | https://github.com/maxcompston/arm64_rop_exploit | 0 | 0| 
-| 20200831T00:10:40Z | A cheat sheet that contains common enumeration and attack methods for Windows Active Directory. | https://github.com/Integration-IT/Active-Directory-Exploitation-Cheat-Sheet | 497 | 111| 
-| 20200830T23:55:08Z | this bash script let you download scripts and clone repos for remote exploits | https://github.com/FabioDefilippo/linuxallremote | 5 | 0| 
-| 20200830T23:29:06Z | More rigorous, complete DESFire emulation support in the ChameleonMini firmware. Also, to be used as a testbed for exploiting faulty crypto-lacking implementations on certain door readers. | https://github.com/maxieds/ChameleonMiniFirmwareDESFireStack | 2 | 0| 
-| 20200830T23:07:40Z | this  bash script lets you choose a linux enumeration script, exploitation and utilities. read README.md file to learn about this script.. | https://github.com/FabioDefilippo/linuxallenum | 1 | 0| 
-| 20200830T21:48:49Z | Null | https://github.com/adgray09/Jinja2-ExploitMe | 0 | 0| 
-| 20200830T21:44:19Z | Advanced Windows Exploitation/Offensive Security Exploitation Expert Preparation for Black Hat 2021 | https://github.com/connormcgarr/AWE-OSEE-Prep | 86 | 57| 
-| 20200830T21:35:09Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 7114 | 1145| 
+| 20200831T11:53:08Z |    Energy management system (EMS) market is expected to grow at a moderate rate during the forecast period 2019-2025. The energy management system (EMS) is used to control, monitor and conserve energy in various areas such as home and building or organization. In the process, energy consumption is metered and collects data, and the EMS system reduce the energy consumption.  The EMS is considered as the tool to improvise systems for heating, ventilation, air-conditioning and lighting and reduces the amount of energy consume. The price of electricity is increasing, therefore, the need for energy saving system is increasing globally. The EMS controls and reduces energy consumption, reduce carbon emission and reduces environmental risk. Smart EMS with renewable source allows to optimize demand and supply, through setting optimal comfort levels and scheduling appliances. For instance, the home energy system can be managed through the scheduling appliances such as washing machines and dishwashers. The technique exploits renewable sources such as wind energy and solar energy, and enables homes/buildings to reduce dependence on grid power. | https://github.com/pooja2893/Energy-management-system-Market-Trends-Size-Forecast---2019-2025- | 0 | 0| 
+| 20200831T11:30:25Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 7119 | 1146| 
+| 20200831T11:17:21Z | Asynchronous Python implementation of SlowLoris DoS attack | https://github.com/maxkrivich/SlowLoris | 43 | 22| 
+| 20200831T11:13:07Z | It have the book example code | https://github.com/dev-frog/Art_Of_Exploitation | 0 | 1| 
+| 20200831T10:08:11Z | exploit for buffer overflow | https://github.com/psgareja/fuzzer | 0 | 0| 
+| 20200831T10:00:42Z | macos/ios exploit writeup | https://github.com/houjingyi233/macos-ios-exploit-writeup | 4 | 1| 
+| 20200831T09:54:56Z | application d%analyse de la trésorerie des exploitations agricoles tunisiennes | https://github.com/agrarian-systems-consulting/endagri-front | 0 | 0| 
+| 20200831T09:41:57Z | SQL injection exploit time based/blind support target back-end MySQL/SQLite and HTTP headers attack | https://github.com/Reng-Deng-DenG/DumPyBlinD | 0 | 1| 
+| 20200831T09:41:09Z | Null | https://github.com/royanpng2/ExploitKey123 | 0 | 0| 
+| 20200831T09:26:44Z | Exploit developers | https://github.com/NemsploitsTM/Nem-AtKn-SPloits_TM | 0 | 0| 
 
 
 # backdoor on Github 推荐
@@ -121,16 +121,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20200831T01:52:16Z | Differential Fuzzer for Ethereum 2.0 | https://github.com/sigp/beacon-fuzz | 40 | 8| 
-| 20200831T01:40:31Z | Null | https://github.com/zdy226/Fuzz-node-analyse | 0 | 0| 
-| 20200831T01:35:58Z | For my friends and I to create our first video game. | https://github.com/LydaGames/fuzzy-ferret | 0 | 0| 
-| 20200831T01:32:58Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 26522 | 12908| 
-| 20200831T01:23:18Z | AFL++ as a library: gives you all the tools necessary to craft the best fuzzer for your targets with ease! | https://github.com/AFLplusplus/LibAFL | 22 | 0| 
-| 20200831T01:02:05Z | No idea what I%m doing | https://github.com/klecko/fuzz | 1 | 0| 
-| 20200831T00:49:17Z | Null | https://github.com/castellanos94/FuzzyLogicPy | 0 | 0| 
-| 20200831T00:24:19Z | FuzzBench - Fuzzer benchmarking as a service. | https://github.com/google/fuzzbench | 512 | 74| 
-| 20200830T23:14:22Z | Null | https://github.com/wuchenxi/fuzzy | 0 | 0| 
-| 20200830T23:00:28Z | Pedal Multiefecto para guitarra electrica (LoopBack, Delay, Fuzz y Wah-wah) | https://github.com/jrosmirez94/Pedal-Multiefecto | 0 | 0| 
+| 20200831T12:01:38Z | a c program containing vulnerable code for common types of vulnerabilities, can be used to show fuzzing concepts. | https://github.com/hardik05/Damn_Vulnerable_C_Program | 46 | 6| 
+| 20200831T12:00:36Z | A Neural Network Language Model-Guided JavaScript Engine Fuzzer | https://github.com/WSP-LAB/Montage | 13 | 0| 
+| 20200831T11:50:37Z | Web application fuzzer | https://github.com/xmendez/wfuzz | 3066 | 768| 
+| 20200831T11:47:26Z | Fuzz Ball - Fuzzy audio plugin | https://github.com/fake-industries/fuzzball | 1 | 0| 
+| 20200831T11:31:03Z | My github user account pages | https://github.com/fuzzbomb/fuzzbomb.github.io | 0 | 0| 
+| 20200831T11:09:28Z | Repository for the artifact evaluation of the ACSAC 2020 paper %Cupid: Automatic Fuzzer Selection for Collaborative Fuzzing% | https://github.com/egueler/cupid-artifact-eval | 0 | 0| 
+| 20200831T10:41:44Z | Collection of quality safety articles | https://github.com/tom0li/collection-document | 1202 | 396| 
+| 20200831T10:29:05Z | fuzzygit aim to ease the usage of common git commands by applying a simple interactive interface based on https://github.com/junegunn/fzf. | https://github.com/DennisBayer/fuzzygit | 0 | 0| 
+| 20200831T10:08:11Z | exploit for buffer overflow | https://github.com/psgareja/fuzzer | 0 | 0| 
+| 20200831T09:44:44Z | Null | https://github.com/DaniloAraneda123/Fuzzy-patterns | 0 | 0| 
 
 
 
