@@ -36,8 +36,8 @@
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
 | 20200831T12:31:05Z | 未知编号 | CVE Data Analysis, CVE Monitor, CVE EXP Prediction Based on Deep Learning. 1999-2020年存量CVE数据分析、监控CVE增量更新、基于深度学习的CVE EXP预测和自动化推送 | https://github.com/404notf0und/CVE-Flow | 未查询到CVE信息| 
-| 20200831T08:42:17Z | CVE-2020-8218 | Tool to test for existence of CVE-2020-8218 | https://github.com/withdk/pulse-gosecure-rce-poc | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 12 MINUTES 19 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200831T07:59:04Z | CVE-2020-2883 | WebLogic利用CVE-2020-2883打Shiro rememberMe反序列化漏洞，一键注册蚁剑filter内存shell | https://github.com/Y4er/WebLogic-Shiro-shell | | 
+| 20200831T08:42:17Z | CVE-2020-8218 | Tool to test for existence of CVE-2020-8218 | https://github.com/withdk/pulse-gosecure-rce-poc | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 10 MINUTES 28 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200831T07:59:04Z | CVE-2020-2883 | WebLogic利用CVE-2020-2883打Shiro rememberMe反序列化漏洞，一键注册蚁剑filter内存shell | https://github.com/Y4er/WebLogic-Shiro-shell | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
 | 20200831T00:52:03Z | CVE-2020-3452 | CVE-2020-3452 Cisco ASA Scanner -unauth Path Traversal Check | https://github.com/PR3R00T/CVE-2020-3452-Cisco-Scanner | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
 
 
@@ -56,16 +56,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20200831T12:48:42Z | iblessing is an iOS security exploiting toolkit, it mainly includes application information collection, static analysis and dynamic analysis. It can be used for reverse engineering, binary analysis and vulnerability mining. | https://github.com/Soulghost/iblessing | 152 | 25| 
+| 20200831T12:47:48Z | Hypervisor Memory Introspection Core Library | https://github.com/hvmi/hvmi | 359 | 28| 
 | 20200831T12:37:03Z | 📈 A visualization of MetricQ data exploiting the advanctages of the HTA db backend  | https://github.com/metricq/metricq-webview | 0 | 0| 
 | 20200831T12:35:11Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 7119 | 1146| 
 | 20200831T12:22:07Z | exploiting and defending neural networks(神经网络攻防专栏) | https://github.com/AIPwn/HackingNeuralNetworks | 0 | 0| 
-| 20200831T12:14:55Z | iblessing is an iOS security exploiting toolkit, it mainly includes application information collection, static analysis and dynamic analysis. It can be used for reverse engineering, binary analysis and vulnerability mining. | https://github.com/Soulghost/iblessing | 151 | 25| 
 | 20200831T11:53:08Z |    Energy management system (EMS) market is expected to grow at a moderate rate during the forecast period 2019-2025. The energy management system (EMS) is used to control, monitor and conserve energy in various areas such as home and building or organization. In the process, energy consumption is metered and collects data, and the EMS system reduce the energy consumption.  The EMS is considered as the tool to improvise systems for heating, ventilation, air-conditioning and lighting and reduces the amount of energy consume. The price of electricity is increasing, therefore, the need for energy saving system is increasing globally. The EMS controls and reduces energy consumption, reduce carbon emission and reduces environmental risk. Smart EMS with renewable source allows to optimize demand and supply, through setting optimal comfort levels and scheduling appliances. For instance, the home energy system can be managed through the scheduling appliances such as washing machines and dishwashers. The technique exploits renewable sources such as wind energy and solar energy, and enables homes/buildings to reduce dependence on grid power. | https://github.com/pooja2893/Energy-management-system-Market-Trends-Size-Forecast---2019-2025- | 0 | 0| 
 | 20200831T11:17:21Z | Asynchronous Python implementation of SlowLoris DoS attack | https://github.com/maxkrivich/SlowLoris | 43 | 22| 
 | 20200831T11:13:07Z | It have the book example code | https://github.com/dev-frog/Art_Of_Exploitation | 0 | 1| 
 | 20200831T10:08:11Z | exploit for buffer overflow | https://github.com/psgareja/fuzzer | 0 | 0| 
 | 20200831T10:00:42Z | macos/ios exploit writeup | https://github.com/houjingyi233/macos-ios-exploit-writeup | 4 | 1| 
-| 20200831T09:54:56Z | application d%analyse de la trésorerie des exploitations agricoles tunisiennes | https://github.com/agrarian-systems-consulting/endagri-front | 0 | 0| 
 
 
 # backdoor on Github 推荐
