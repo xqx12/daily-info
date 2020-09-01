@@ -50,6 +50,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20200901T12:35:11Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 7124 | 1148| 
 | 20200901T12:31:57Z | Null | https://github.com/Ruia-ruia/Exploits | 2 | 0| 
 | 20200901T12:29:26Z | The tool exfiltrates data from Couchbase database by exploiting N1QL injection vulnerabilities. | https://github.com/FSecureLABS/N1QLMap | 0 | 0| 
 | 20200901T12:24:07Z | [PROGRESSING] The v0id-fraud project is a malware bundle project that aims at cryptocurrency exploits and monetization. | https://github.com/gudako/v0id-fraudcore | 2 | 0| 
@@ -59,7 +60,6 @@
 | 20200901T10:30:48Z | Null | https://github.com/madesh6/exploits | 0 | 0| 
 | 20200901T10:11:14Z | CTF竞赛入门指南 | https://github.com/firmianay/CTF-All-In-One | 1932 | 410| 
 | 20200901T10:08:19Z | *Frequently Updated. Sifter is a osint, recon & vulnerability scanner. It combines a plethara of tools within different module sets in order to quickly perform recon tasks, check network firewalling, enumerate remote and local hosts, and scan for the %blue% vulnerabilities within microsft and if unpatched, exploit them.  It uses tools like blackwidow and konan for webdir enumeration and attack surface mapping rapidly using ASM.  | https://github.com/s1l3nt78/sifter | 233 | 73| 
-| 20200901T09:50:13Z | A small cross platform strategy game for my master degree cource %Game Design%. The player takes controll over a planet exploit corporation with the goal to get the most profit out of all the planets in reach. | https://github.com/BlackLambert/exploit-inc | 0 | 0| 
 
 
 # backdoor on Github 推荐
