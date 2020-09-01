@@ -30,7 +30,7 @@
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
 | 20200901T12:40:00Z | 未知编号 | CVE Data Analysis, CVE Monitor, CVE EXP Prediction Based on Deep Learning. 1999-2020年存量CVE数据分析、监控CVE增量更新、基于深度学习的CVE EXP预测和自动化推送 | https://github.com/404notf0und/CVE-Flow | 未查询到CVE信息| 
-| 20200901T10:38:29Z | CVE-2020-8218 | Tool to test for existence of CVE-2020-8218 | https://github.com/withdk/pulse-gosecure-rce-poc | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 15 MINUTES 28 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200901T10:38:29Z | CVE-2020-8218 | Tool to test for existence of CVE-2020-8218 | https://github.com/withdk/pulse-gosecure-rce-poc | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 14 MINUTES 28 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20200901T05:22:26Z | CVE-2020-16152 | Explanation and PoC for CVE-2020-16152 | https://github.com/eriknl/CVE-2020-16152 | 未查询到CVE信息| 
 
 
@@ -73,6 +73,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20200901T12:46:10Z | AFLNet: A Greybox Fuzzer for Network Protocols (https://thuanpv.github.io/publications/AFLNet_ICST20.pdf) | https://github.com/aflnet/aflnet | 285 | 40| 
 | 20200901T12:38:37Z | Null | https://github.com/fajarwijaya1707/Fuzzy-Sugeno-Logic | 0 | 0| 
 | 20200901T12:32:04Z | My second Repo | https://github.com/Devshital17/Fuzzy-Spoon | 0 | 0| 
 | 20200901T12:30:12Z | Null | https://github.com/Pigsas/fuzzysearch | 0 | 0| 
@@ -82,7 +83,6 @@
 | 20200901T11:58:12Z | AFL++ as a library: gives you all the tools necessary to craft the best fuzzer for your targets with ease! | https://github.com/AFLplusplus/LibAFL | 59 | 2| 
 | 20200901T11:37:57Z | Null | https://github.com/fuzzydeep/fuzzydeep | 0 | 0| 
 | 20200901T11:35:53Z | Null | https://github.com/plawhatre/Mamdani-Fuzzy-Inference-System | 0 | 0| 
-| 20200901T10:44:56Z | about fuzz | https://github.com/yezihagendasi/fuzz | 0 | 0| 
 
 
 
