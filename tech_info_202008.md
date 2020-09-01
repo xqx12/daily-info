@@ -121,7 +121,6 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20200831T23:33:37Z | OSS-Fuzz - continuous fuzzing of open source software. | https://github.com/google/oss-fuzz | 5513 | 1082| 
 | 20200831T23:18:45Z | Scalable fuzzing infrastructure. | https://github.com/google/clusterfuzz | 4312 | 386| 
 | 20200831T23:10:41Z | Fuzzy TS optimisation based on genetic algorithm | https://github.com/jairpaulino/fuzzy-ts-opt | 0 | 0| 
 | 20200831T22:29:31Z | Null | https://github.com/Jayitha/Uncertain-Database-Systems-and-Fuzzy-Set-Theory | 0 | 0| 
@@ -131,6 +130,7 @@
 | 20200831T21:04:13Z | The fuzzer afl++ is afl with community patches, AFLfast power schedules, qemu 3.1 upgrade + laf-intel support, MOpt mutators, InsTrim instrumentation, unicorn_mode, Redqueen and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 863 | 212| 
 | 20200831T20:56:13Z | Null | https://github.com/qianzhanghk/BigFuzz | 0 | 0| 
 | 20200831T20:49:49Z | A cross-platform browser fuzzing framework | https://github.com/MozillaSecurity/grizzly | 210 | 27| 
+| 20200831T20:36:00Z | Code for fuzzy monkeys. | https://github.com/fuzzyatelin/fuzzyatelin.github.io | 1 | 9| 
 
 
 
