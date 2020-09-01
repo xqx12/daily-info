@@ -41,8 +41,8 @@
 | 20200831T18:46:09Z | CVE-2020-24030 | Null | https://github.com/underprotection/CVE-2020-24030 | 未查询到CVE信息| 
 | 20200831T18:24:01Z | CVE-2020-24028 | Null | https://github.com/underprotection/CVE-2020-24028 | 未查询到CVE信息| 
 | 20200831T14:15:42Z | CVE-2020-3452 | (CVE-2020-3452) Cisco Adaptive Security Appliance Software - Local File Inclusion Vuln Test sciript | https://github.com/ludy-dev/Cisco-ASA-LFI | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
-| 20200831T13:53:06Z | CVE-2020-13259 | PoC of Full Account Takeover on RAD SecFlow-1v  | https://github.com/UrielYochpaz/CVE-2020-13259 | | 
-| 20200831T08:42:17Z | CVE-2020-8218 | Tool to test for existence of CVE-2020-8218 | https://github.com/withdk/pulse-gosecure-rce-poc | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 04 MINUTES 24 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200831T13:53:06Z | CVE-2020-13259 | PoC of Full Account Takeover on RAD SecFlow-1v  | https://github.com/UrielYochpaz/CVE-2020-13259 | 未查询到CVE信息| 
+| 20200831T08:42:17Z | CVE-2020-8218 | Tool to test for existence of CVE-2020-8218 | https://github.com/withdk/pulse-gosecure-rce-poc | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 03 MINUTES 22 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20200831T07:59:04Z | CVE-2020-2883 | WebLogic利用CVE-2020-2883打Shiro rememberMe反序列化漏洞，一键注册蚁剑filter内存shell | https://github.com/Y4er/WebLogic-Shiro-shell | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
 | 20200831T00:52:03Z | CVE-2020-3452 | CVE-2020-3452 Cisco ASA Scanner -unauth Path Traversal Check | https://github.com/PR3R00T/CVE-2020-3452-Cisco-Scanner | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
 
@@ -96,11 +96,11 @@
 | 20200831T22:29:31Z | Null | https://github.com/Jayitha/Uncertain-Database-Systems-and-Fuzzy-Set-Theory | 0 | 0| 
 | 20200831T22:17:10Z | FuzzyKnights: Protectors of the Forst - 16bit Adventure | https://github.com/mjnrock/fuzzyknights-arcade | 0 | 0| 
 | 20200831T22:13:06Z | Null | https://github.com/haylee430/fuzzy_friend_finder | 1 | 0| 
-| 20200831T21:32:15Z | AFL++ as a library: gives you all the tools necessary to craft the best fuzzer for your targets with ease! | https://github.com/AFLplusplus/LibAFL | 49 | 1| 
 | 20200831T21:04:13Z | The fuzzer afl++ is afl with community patches, AFLfast power schedules, qemu 3.1 upgrade + laf-intel support, MOpt mutators, InsTrim instrumentation, unicorn_mode, Redqueen and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 863 | 212| 
 | 20200831T20:56:13Z | Null | https://github.com/qianzhanghk/BigFuzz | 0 | 0| 
 | 20200831T20:49:49Z | A cross-platform browser fuzzing framework | https://github.com/MozillaSecurity/grizzly | 210 | 27| 
 | 20200831T20:36:00Z | Code for fuzzy monkeys. | https://github.com/fuzzyatelin/fuzzyatelin.github.io | 1 | 9| 
+| 20200831T20:14:25Z | Null | https://github.com/castellanos94/FuzzyLogicPy | 0 | 0| 
 
 
 
