@@ -48,7 +48,7 @@
 | --- | --- | --- | --- | ---| 
 | 20200831T18:46:30Z | CVE-2020-24029 | Null | https://github.com/underprotection/CVE-2020-24029 | 未查询到CVE信息| 
 | 20200831T18:46:09Z | CVE-2020-24030 | Null | https://github.com/underprotection/CVE-2020-24030 | 未查询到CVE信息| 
-| 20200831T18:24:01Z | CVE-2020-24028 | Null | https://github.com/underprotection/CVE-2020-24028 | 未查询到CVE信息| 
+| 20200831T18:24:01Z | CVE-2020-24028 | Null | https://github.com/underprotection/CVE-2020-24028 | | 
 | 20200831T14:15:42Z | CVE-2020-3452 | (CVE-2020-3452) Cisco Adaptive Security Appliance Software - Local File Inclusion Vuln Test sciript | https://github.com/ludy-dev/Cisco-ASA-LFI | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
 | 20200831T13:53:06Z | CVE-2020-13259 | PoC of Full Account Takeover on RAD SecFlow-1v  | https://github.com/UrielYochpaz/CVE-2020-13259 | 未查询到CVE信息| 
 | 20200831T08:42:17Z | CVE-2020-8218 | Tool to test for existence of CVE-2020-8218 | https://github.com/withdk/pulse-gosecure-rce-poc | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 07 MINUTES 15 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
