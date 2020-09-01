@@ -42,7 +42,7 @@
 | 20200831T18:24:01Z | CVE-2020-24028 | Null | https://github.com/underprotection/CVE-2020-24028 | 未查询到CVE信息| 
 | 20200831T14:15:42Z | CVE-2020-3452 | (CVE-2020-3452) Cisco Adaptive Security Appliance Software - Local File Inclusion Vuln Test sciript | https://github.com/ludy-dev/Cisco-ASA-LFI | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
 | 20200831T13:53:06Z | CVE-2020-13259 | PoC of Full Account Takeover on RAD SecFlow-1v  | https://github.com/UrielYochpaz/CVE-2020-13259 | 未查询到CVE信息| 
-| 20200831T08:42:17Z | CVE-2020-8218 | Tool to test for existence of CVE-2020-8218 | https://github.com/withdk/pulse-gosecure-rce-poc | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 43 MINUTES 21 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200831T08:42:17Z | CVE-2020-8218 | Tool to test for existence of CVE-2020-8218 | https://github.com/withdk/pulse-gosecure-rce-poc | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 41 MINUTES 06 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20200831T07:59:04Z | CVE-2020-2883 | WebLogic利用CVE-2020-2883打Shiro rememberMe反序列化漏洞，一键注册蚁剑filter内存shell | https://github.com/Y4er/WebLogic-Shiro-shell | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
 | 20200831T00:52:03Z | CVE-2020-3452 | CVE-2020-3452 Cisco ASA Scanner -unauth Path Traversal Check | https://github.com/PR3R00T/CVE-2020-3452-Cisco-Scanner | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
 
@@ -66,13 +66,13 @@
 | 20200831T22:57:34Z | Exploits & programs i will be writing for the purpose of learning furthermore deep within the Exploit-Development field. | https://github.com/whitecr0wz/Study-Exploits | 0 | 0| 
 | 20200831T22:07:38Z | Null | https://github.com/ZeroTwoooo/roblox-exploiting | 0 | 0| 
 | 20200831T21:38:32Z | Exploration-Exploitation using MAB | https://github.com/aegoe/MAB | 0 | 1| 
-| 20200831T21:35:14Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 7120 | 1147| 
 | 20200831T21:29:11Z | The Multi-armed bandit problem is one of the classical reinforcements learning problems that describe the friction between the agent%s exploration and exploitation. | https://github.com/trustycoder83/multi-armed-bandit | 0 | 0| 
 | 20200831T21:05:18Z | Root repository for CS 6265: Information Security Lab - Reverse Engineering and Binary Exploitation | https://github.com/one2blame/cs6265 | 0 | 0| 
 | 20200831T21:02:47Z | A cheat sheet that contains common enumeration and attack methods for Windows Active Directory. | https://github.com/Integration-IT/Active-Directory-Exploitation-Cheat-Sheet | 498 | 111| 
 | 20200831T20:58:39Z | this bash script let you download scripts and clone repos for remote exploits | https://github.com/FabioDefilippo/linuxallremote | 5 | 0| 
 | 20200831T20:58:02Z | An attack/exploit Detector that utilizes Polymorphism and Diversity | https://github.com/polyverse/zerotect | 4 | 1| 
 | 20200831T20:05:53Z | Null | https://github.com/MoonToolsVIP/DiscordTypingExploit | 0 | 0| 
+| 20200831T19:49:07Z | Custom version of the original Overthrow.  Bugs squashed and squashing, exploits punishable by death, new businesses plus much more, oh and high steriod use by the AI ;) Discord link  https://discord.gg/ZdMMq9x | https://github.com/GerhartPapaGee/Overthrow-Martial-Law | 0 | 1| 
 
 
 # backdoor on Github 推荐
