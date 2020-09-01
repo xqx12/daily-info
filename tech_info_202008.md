@@ -92,7 +92,6 @@
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
 | 20200831T22:57:34Z | Exploits & programs i will be writing for the purpose of learning furthermore deep within the Exploit-Development field. | https://github.com/whitecr0wz/Study-Exploits | 0 | 0| 
-| 20200831T22:43:05Z | Null | https://github.com/quentin452/Cats-Exploitz-HUB | 0 | 1| 
 | 20200831T22:07:38Z | Null | https://github.com/ZeroTwoooo/roblox-exploiting | 0 | 0| 
 | 20200831T21:38:32Z | Exploration-Exploitation using MAB | https://github.com/aegoe/MAB | 0 | 1| 
 | 20200831T21:35:14Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 7120 | 1147| 
@@ -101,6 +100,7 @@
 | 20200831T21:02:47Z | A cheat sheet that contains common enumeration and attack methods for Windows Active Directory. | https://github.com/Integration-IT/Active-Directory-Exploitation-Cheat-Sheet | 498 | 111| 
 | 20200831T20:58:39Z | this bash script let you download scripts and clone repos for remote exploits | https://github.com/FabioDefilippo/linuxallremote | 5 | 0| 
 | 20200831T20:58:02Z | An attack/exploit Detector that utilizes Polymorphism and Diversity | https://github.com/polyverse/zerotect | 4 | 1| 
+| 20200831T20:05:53Z | Null | https://github.com/MoonToolsVIP/DiscordTypingExploit | 0 | 0| 
 
 
 # backdoor on Github 推荐
