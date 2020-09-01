@@ -30,7 +30,7 @@
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
 | 20200901T11:35:55Z | 未知编号 | CVE Data Analysis, CVE Monitor, CVE EXP Prediction Based on Deep Learning. 1999-2020年存量CVE数据分析、监控CVE增量更新、基于深度学习的CVE EXP预测和自动化推送 | https://github.com/404notf0und/CVE-Flow | 未查询到CVE信息| 
-| 20200901T10:38:29Z | CVE-2020-8218 | Tool to test for existence of CVE-2020-8218 | https://github.com/withdk/pulse-gosecure-rce-poc | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 37 MINUTES 29 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200901T10:38:29Z | CVE-2020-8218 | Tool to test for existence of CVE-2020-8218 | https://github.com/withdk/pulse-gosecure-rce-poc | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 36 MINUTES 28 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20200901T05:22:26Z | CVE-2020-16152 | Explanation and PoC for CVE-2020-16152 | https://github.com/eriknl/CVE-2020-16152 | 未查询到CVE信息| 
 
 
@@ -50,8 +50,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20200901T12:24:07Z | [PROGRESSING] The v0id-fraud project is a malware bundle project that aims at cryptocurrency exploits and monetization. | https://github.com/gudako/v0id-fraudcore | 2 | 0| 
 | 20200901T12:13:21Z | Malicious PHP files used to infect Wordpress sites | https://github.com/Am0rphous/PHP-Malware | 0 | 0| 
-| 20200901T12:06:26Z | [PROGRESSING] The v0id-fraud project is a malware bundle project that aims at cryptocurrency exploits and monetization. | https://github.com/gudako/v0id-fraudcore | 2 | 0| 
 | 20200901T12:02:45Z | Avyukt is a Exploitation Framework which can be used to generate Malicious Payloads and exploit Windows OS | https://github.com/Vedant-Bhalgama/Avyukt | 3 | 0| 
 | 20200901T11:21:14Z | application d%analyse de la trésorerie des exploitations agricoles tunisiennes | https://github.com/agrarian-systems-consulting/endagri-front | 0 | 0| 
 | 20200901T10:30:48Z | Null | https://github.com/madesh6/exploits | 0 | 0| 
@@ -73,7 +73,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20200901T12:23:20Z | fuzzyjs is a fuzzy search algorithm in javascript | https://github.com/gjuchault/fuzzyjs | 164 | 12| 
+| 20200901T12:23:48Z | fuzzyjs is a fuzzy search algorithm in javascript | https://github.com/gjuchault/fuzzyjs | 164 | 12| 
 | 20200901T12:20:22Z | A fuzzy parser for C/C++ that creates semantic code property graphs | https://github.com/ShiftLeftSecurity/fuzzyc2cpg | 36 | 11| 
 | 20200901T12:14:22Z | Null | https://github.com/fajarwijaya1707/Fuzzy-Sugeno-Logic | 0 | 0| 
 | 20200901T12:08:25Z | Null | https://github.com/fatihgurel/DirFuzzPython | 0 | 0| 
