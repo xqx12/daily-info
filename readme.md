@@ -30,8 +30,8 @@
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
 | 20200901T12:25:54Z | 未知编号 | CVE Data Analysis, CVE Monitor, CVE EXP Prediction Based on Deep Learning. 1999-2020年存量CVE数据分析、监控CVE增量更新、基于深度学习的CVE EXP预测和自动化推送 | https://github.com/404notf0und/CVE-Flow | 未查询到CVE信息| 
-| 20200901T10:38:29Z | CVE-2020-8218 | Tool to test for existence of CVE-2020-8218 | https://github.com/withdk/pulse-gosecure-rce-poc | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 29 MINUTES 30 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200901T05:22:26Z | CVE-2020-16152 | Explanation and PoC for CVE-2020-16152 | https://github.com/eriknl/CVE-2020-16152 | | 
+| 20200901T10:38:29Z | CVE-2020-8218 | Tool to test for existence of CVE-2020-8218 | https://github.com/withdk/pulse-gosecure-rce-poc | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 28 MINUTES 28 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200901T05:22:26Z | CVE-2020-16152 | Explanation and PoC for CVE-2020-16152 | https://github.com/eriknl/CVE-2020-16152 | 未查询到CVE信息| 
 
 
 # klee on Github 推荐
@@ -50,6 +50,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20200901T12:31:57Z | Null | https://github.com/Ruia-ruia/Exploits | 2 | 0| 
 | 20200901T12:29:26Z | The tool exfiltrates data from Couchbase database by exploiting N1QL injection vulnerabilities. | https://github.com/FSecureLABS/N1QLMap | 0 | 0| 
 | 20200901T12:24:07Z | [PROGRESSING] The v0id-fraud project is a malware bundle project that aims at cryptocurrency exploits and monetization. | https://github.com/gudako/v0id-fraudcore | 2 | 0| 
 | 20200901T12:13:21Z | Malicious PHP files used to infect Wordpress sites | https://github.com/Am0rphous/PHP-Malware | 0 | 0| 
@@ -59,7 +60,6 @@
 | 20200901T10:11:14Z | CTF竞赛入门指南 | https://github.com/firmianay/CTF-All-In-One | 1932 | 410| 
 | 20200901T10:08:19Z | *Frequently Updated. Sifter is a osint, recon & vulnerability scanner. It combines a plethara of tools within different module sets in order to quickly perform recon tasks, check network firewalling, enumerate remote and local hosts, and scan for the %blue% vulnerabilities within microsft and if unpatched, exploit them.  It uses tools like blackwidow and konan for webdir enumeration and attack surface mapping rapidly using ASM.  | https://github.com/s1l3nt78/sifter | 233 | 73| 
 | 20200901T09:50:13Z | A small cross platform strategy game for my master degree cource %Game Design%. The player takes controll over a planet exploit corporation with the goal to get the most profit out of all the planets in reach. | https://github.com/BlackLambert/exploit-inc | 0 | 0| 
-| 20200901T09:08:50Z | Collection of docker images to be used for exploit development and testing | https://github.com/mishrasunny174/pwn-docker | 0 | 0| 
 
 
 # backdoor on Github 推荐
@@ -73,6 +73,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20200901T12:32:04Z | My second Repo | https://github.com/Devshital17/Fuzzy-Spoon | 0 | 0| 
 | 20200901T12:30:12Z | Null | https://github.com/Pigsas/fuzzysearch | 0 | 0| 
 | 20200901T12:27:18Z | Null | https://github.com/fajarwijaya1707/Fuzzy-Sugeno-Logic | 0 | 0| 
 | 20200901T12:23:48Z | fuzzyjs is a fuzzy search algorithm in javascript | https://github.com/gjuchault/fuzzyjs | 164 | 12| 
@@ -82,7 +83,6 @@
 | 20200901T11:37:57Z | Null | https://github.com/fuzzydeep/fuzzydeep | 0 | 0| 
 | 20200901T11:35:53Z | Null | https://github.com/plawhatre/Mamdani-Fuzzy-Inference-System | 0 | 0| 
 | 20200901T10:44:56Z | about fuzz | https://github.com/yezihagendasi/fuzz | 0 | 0| 
-| 20200901T10:43:24Z | A c# tool that allows you to recon a website | https://github.com/Mr-Xpl0it/Fuzzy | 0 | 0| 
 
 
 
