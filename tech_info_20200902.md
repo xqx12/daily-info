@@ -35,8 +35,8 @@
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
 | 20200902T06:18:01Z | 未知编号 | CVE Data Analysis, CVE Monitor, CVE EXP Prediction Based on Deep Learning. 1999-2020年存量CVE数据分析、监控CVE增量更新、基于深度学习的CVE EXP预测和自动化推送 | https://github.com/404notf0und/CVE-Flow | 未查询到CVE信息| 
-| 20200902T04:09:48Z | CVE-2020-16152 | Explanation and PoC for CVE-2020-16152 | https://github.com/eriknl/CVE-2020-16152 | 未查询到CVE信息| 
-| 20200902T03:01:10Z | CVE-2020-24955 | SUPERAntiSyware Professional X Trial <= 10.0.1206 Local Privilege Escalation | https://github.com/b1nary0x1/CVE-2020-24955 | | 
+| 20200902T04:09:48Z | CVE-2020-16152 | Explanation and PoC for CVE-2020-16152 | https://github.com/eriknl/CVE-2020-16152 | | 
+| 20200902T03:01:10Z | CVE-2020-24955 | SUPERAntiSyware Professional X Trial <= 10.0.1206 Local Privilege Escalation | https://github.com/b1nary0x1/CVE-2020-24955 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 46 MINUTES 35 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 
 
 # klee on Github 推荐
@@ -78,11 +78,11 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20200902T12:14:21Z | A fuzzy parser for C/C++ that creates semantic code property graphs | https://github.com/ShiftLeftSecurity/fuzzyc2cpg | 36 | 11| 
 | 20200902T11:26:45Z | Escaya fuzzer | https://github.com/escaya/escaya-fuzzer | 0 | 0| 
 | 20200902T10:45:33Z | Web application fuzzer | https://github.com/xmendez/wfuzz | 3071 | 769| 
 | 20200902T10:14:52Z | workspace for random R projects | https://github.com/henryhansen/fuzzy-giggle | 0 | 0| 
 | 20200902T09:43:57Z | Null | https://github.com/fatihgurel/DirFuzzPython | 3 | 0| 
-| 20200902T08:59:33Z | A fuzzy parser for C/C++ that creates semantic code property graphs | https://github.com/ShiftLeftSecurity/fuzzyc2cpg | 36 | 11| 
 | 20200902T08:38:54Z | Null | https://github.com/fuzzydeep/fuzzydeep | 0 | 0| 
 | 20200902T08:36:49Z | An app intended for fuzzing the Android Binder interface and System Services | https://github.com/ChickenHook/BinderFuzzy | 14 | 2| 
 | 20200902T08:31:25Z | The fuzzer afl++ is afl with community patches, AFLfast power schedules, qemu 3.1 upgrade + laf-intel support, MOpt mutators, InsTrim instrumentation, unicorn_mode, Redqueen and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 865 | 214| 
