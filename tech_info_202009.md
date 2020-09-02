@@ -19,19 +19,23 @@
 | 20200901 | Apple 错误地将 Shlayer 恶意软件标记为 notarized,导致 Shlayer 成功在最新版 macOS 执行 | https://sec.today/pulses/f82cb8e3-70ad-4a86-a724-355d17a605a6/| 
 | 20200901 | IDA-ObjCExplorer - 用于实现 Objective C classdump 的 IDA Pro 插件 | https://github.com/ChiChou/IDA-ObjCExplorer| 
 | 20200901 | Apple 错误地将 Shlayer 恶意软件标记为 notarized,导致 Shlayer 成功在最新版 macOS 执行 | https://objective-see.com/blog/blog_0x4E.html| 
+| 20200901 | C ++内存损坏-第1部分。 | https://blog.infosectcbr.com.au/2020/08/c-memory-corruption-part-1.html| 
+| 20200901 | 最佳前十的SAP测试工具（SAP自动化工具）推荐。 | http://www.softwaretestinghelp.com/best-sap-testing-tools/| 
 
 
 # 安全维基 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20200901 | saferwall: 下一代开源恶意软件分析平台 | https://github.com/saferwall/saferwall| 
+| 20200901 | 使用 CodeQL 分析闭源 Java 程序 | https://paper.seebug.org/1324/| 
 
 
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20200901T12:40:00Z | 未知编号 | CVE Data Analysis, CVE Monitor, CVE EXP Prediction Based on Deep Learning. 1999-2020年存量CVE数据分析、监控CVE增量更新、基于深度学习的CVE EXP预测和自动化推送 | https://github.com/404notf0und/CVE-Flow | 未查询到CVE信息| 
-| 20200901T10:38:29Z | CVE-2020-8218 | Tool to test for existence of CVE-2020-8218 | https://github.com/withdk/pulse-gosecure-rce-poc | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 00 MINUTES 29 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200901T05:22:26Z | CVE-2020-16152 | Explanation and PoC for CVE-2020-16152 | https://github.com/eriknl/CVE-2020-16152 | | 
+| 20200901T18:57:13Z | CVE-2020-8218 | Tool to test for existence of CVE-2020-8218 | https://github.com/withdk/pulse-gosecure-rce-poc | Pulse Connect 安全 #9.1R8 中存在代码注入漏洞，允许攻击者制作 URI，以便通过管理员 Web 界面执行任意代码执行。| 
+| 20200901T18:24:07Z | CVE-2020-16152 | Explanation and PoC for CVE-2020-16152 | https://github.com/eriknl/CVE-2020-16152 | 未查询到CVE信息| 
+| 20200901T14:58:00Z | 未知编号 | CVE Data Analysis, CVE Monitor, CVE EXP Prediction Based on Deep Learning. 1999-2020年存量CVE数据分析、监控CVE增量更新、基于深度学习的CVE EXP预测和自动化推送 | https://github.com/404notf0und/CVE-Flow | 未查询到CVE信息| 
 
 
 # klee on Github 推荐
@@ -50,16 +54,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20200901T12:53:42Z | *Frequently Updated. Sifter is a osint, recon & vulnerability scanner. It combines a plethara of tools within different module sets in order to quickly perform recon tasks, check network firewalling, enumerate remote and local hosts, and scan for the %blue% vulnerabilities within microsft and if unpatched, exploit them.  It uses tools like blackwidow and konan for webdir enumeration and attack surface mapping rapidly using ASM.  | https://github.com/s1l3nt78/sifter | 233 | 73| 
-| 20200901T12:49:50Z | [PROGRESSING] The v0id-fraud project is a malware bundle project that aims at cryptocurrency exploits and monetization. | https://github.com/gudako/v0id-fraudcore | 2 | 0| 
-| 20200901T12:48:49Z | The tool exfiltrates data from Couchbase database by exploiting N1QL injection vulnerabilities. | https://github.com/FSecureLABS/N1QLMap | 0 | 0| 
-| 20200901T12:43:14Z | this bash script let you download scripts and clone repos for remote exploits | https://github.com/FabioDefilippo/linuxallremote | 5 | 0| 
-| 20200901T12:35:11Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 7124 | 1148| 
-| 20200901T12:31:57Z | Null | https://github.com/Ruia-ruia/Exploits | 2 | 0| 
-| 20200901T12:13:21Z | Malicious PHP files used to infect Wordpress sites | https://github.com/Am0rphous/PHP-Malware | 0 | 0| 
-| 20200901T12:02:45Z | Avyukt is a Exploitation Framework which can be used to generate Malicious Payloads and exploit Windows OS | https://github.com/Vedant-Bhalgama/Avyukt | 3 | 0| 
-| 20200901T11:21:14Z | application d%analyse de la trésorerie des exploitations agricoles tunisiennes | https://github.com/agrarian-systems-consulting/endagri-front | 0 | 0| 
-| 20200901T10:30:48Z | Null | https://github.com/madesh6/exploits | 0 | 0| 
+| 20200901T23:30:59Z | fix exploits on anarchy server | https://github.com/moom0o/AnarchyExploitFixes | 2 | 1| 
+| 20200901T22:38:55Z | This Repo is the consolidation of models and code to implement the a RL Agent which learns how to maximizes the sensitivity of the a battery to produce better estimation results by exploiting near optimal Fisher Information | https://github.com/JonnyD1117/Battery_Active_Learning | 0 | 1| 
+| 20200901T22:28:29Z | this bash script let you download scripts and clone repos for remote exploits | https://github.com/FabioDefilippo/linuxallremote | 5 | 0| 
+| 20200901T22:18:18Z | Motorola OMAP MBM exploit | https://github.com/CyanogenDefy/mbmhax | 0 | 0| 
+| 20200901T21:35:11Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 7128 | 1150| 
+| 20200901T21:28:15Z | Avyukt is a Exploitation Framework which can be used to generate Malicious Payloads and exploit Windows OS | https://github.com/Vedant-Bhalgama/Avyukt | 4 | 0| 
+| 20200901T21:20:50Z | An application that can be exploited by SQL Injection. | https://github.com/lucasrennok/SQLInjectionSample | 2 | 0| 
+| 20200901T21:06:02Z | Build a database of libc offsets to simplify exploitation | https://github.com/niklasb/libc-database | 991 | 172| 
+| 20200901T20:38:32Z | Proofs-of-concept | https://github.com/thezdi/PoC | 402 | 145| 
+| 20200901T20:35:34Z | Tools for exploiting ARIA standard products | https://github.com/aria-tools/ARIA-tools | 30 | 17| 
 
 
 # backdoor on Github 推荐
@@ -73,16 +77,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20200901T12:52:51Z | a clone repo of fuzzer | https://github.com/chauncey-77/libFuzzer | 0 | 0| 
-| 20200901T12:46:10Z | AFLNet: A Greybox Fuzzer for Network Protocols (https://thuanpv.github.io/publications/AFLNet_ICST20.pdf) | https://github.com/aflnet/aflnet | 285 | 40| 
-| 20200901T12:38:37Z | Null | https://github.com/fajarwijaya1707/Fuzzy-Sugeno-Logic | 0 | 0| 
-| 20200901T12:32:04Z | My second Repo | https://github.com/Devshital17/Fuzzy-Spoon | 0 | 0| 
-| 20200901T12:30:12Z | Null | https://github.com/Pigsas/fuzzysearch | 0 | 0| 
-| 20200901T12:23:48Z | fuzzyjs is a fuzzy search algorithm in javascript | https://github.com/gjuchault/fuzzyjs | 164 | 12| 
-| 20200901T12:20:22Z | A fuzzy parser for C/C++ that creates semantic code property graphs | https://github.com/ShiftLeftSecurity/fuzzyc2cpg | 36 | 11| 
-| 20200901T12:08:25Z | Null | https://github.com/fatihgurel/DirFuzzPython | 0 | 0| 
-| 20200901T11:58:12Z | AFL++ as a library: gives you all the tools necessary to craft the best fuzzer for your targets with ease! | https://github.com/AFLplusplus/LibAFL | 59 | 2| 
-| 20200901T11:37:57Z | Null | https://github.com/fuzzydeep/fuzzydeep | 0 | 0| 
+| 20200901T23:58:32Z | Null | https://github.com/kmolano/FuzzyHelpChatbot | 0 | 0| 
+| 20200901T23:50:06Z | LogicaFuzzy with Python | https://github.com/Nocthus/SI_LogicaFuzzy_Python | 0 | 0| 
+| 20200901T23:45:50Z | Null | https://github.com/DaniloAraneda123/Fuzzy-patterns | 0 | 0| 
+| 20200901T23:03:34Z | Files used on Fuzzy Systems discipline. | https://github.com/marciorasf/fuzzy-systems | 0 | 0| 
+| 20200901T22:20:45Z | The fuzzer afl++ is afl with community patches, AFLfast power schedules, qemu 3.1 upgrade + laf-intel support, MOpt mutators, InsTrim instrumentation, unicorn_mode, Redqueen and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 864 | 214| 
+| 20200901T22:00:38Z | Null | https://github.com/yuriloliveira/nordtalk_fuzzy | 0 | 0| 
+| 20200901T21:43:30Z | tic tac toe made by a kid | https://github.com/DinVin24/fuzzy-bassoon | 0 | 0| 
+| 20200901T21:09:14Z | Null | https://github.com/Steniapage/fuzzy-octo-enigma | 0 | 0| 
+| 20200901T21:07:27Z | Null | https://github.com/ethereum/solidity-fuzzing-corpus | 9 | 2| 
+| 20200901T20:55:47Z | OSS-Fuzz - continuous fuzzing of open source software. | https://github.com/google/oss-fuzz | 5515 | 1082| 
 
 
 
