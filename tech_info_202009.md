@@ -81,6 +81,8 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20200902T01:44:01Z | A ground-truth binary fuzzing benchmark suite based on real programs with real bugs. | https://github.com/HexHive/magma | 53 | 16| 
+| 20200902T01:43:51Z | A place to put some notes | https://github.com/weigoldj/fuzzy-cat | 0 | 0| 
 | 20200902T01:39:48Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 3117 | 716| 
 | 20200902T01:36:19Z | Files used on Fuzzy Systems discipline. | https://github.com/marciorasf/fuzzy-systems | 0 | 0| 
 | 20200902T01:24:59Z | Fuzzaldrin plus - fast using native c bindings | https://github.com/atom-ide-community/fuzzaldrin-plus-fast | 1 | 1| 
@@ -89,8 +91,6 @@
 | 20200902T00:46:21Z | Null | https://github.com/srhodes/Fuzzy-Logic | 0 | 0| 
 | 20200902T00:11:56Z | OSS-Fuzz - continuous fuzzing of open source software. | https://github.com/google/oss-fuzz | 5516 | 1082| 
 | 20200901T23:58:32Z | Null | https://github.com/kmolano/FuzzyHelpChatbot | 0 | 0| 
-| 20200901T23:50:06Z | LogicaFuzzy with Python | https://github.com/Nocthus/SI_LogicaFuzzy_Python | 0 | 0| 
-| 20200901T23:45:50Z | Null | https://github.com/DaniloAraneda123/Fuzzy-patterns | 0 | 0| 
 
 
 
