@@ -81,7 +81,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20200902T01:06:55Z | about fuzz | https://github.com/yezihagendasi/fuzz | 0 | 0| 
+| 20200902T01:09:36Z | about fuzz | https://github.com/yezihagendasi/fuzz | 0 | 0| 
 | 20200902T00:46:21Z | Null | https://github.com/srhodes/Fuzzy-Logic | 0 | 0| 
 | 20200902T00:42:35Z | Fuzzaldrin plus - fast using native c bindings | https://github.com/atom-ide-community/fuzzaldrin-plus-fast | 1 | 1| 
 | 20200902T00:11:56Z | OSS-Fuzz - continuous fuzzing of open source software. | https://github.com/google/oss-fuzz | 5516 | 1082| 
