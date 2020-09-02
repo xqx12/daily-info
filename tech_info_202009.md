@@ -33,7 +33,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20200901T18:57:13Z | CVE-2020-8218 | Tool to test for existence of CVE-2020-8218 | https://github.com/withdk/pulse-gosecure-rce-poc | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 47 MINUTES 29 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200901T18:57:13Z | CVE-2020-8218 | Tool to test for existence of CVE-2020-8218 | https://github.com/withdk/pulse-gosecure-rce-poc | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 46 MINUTES 26 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20200901T18:24:07Z | CVE-2020-16152 | Explanation and PoC for CVE-2020-16152 | https://github.com/eriknl/CVE-2020-16152 | 未查询到CVE信息| 
 | 20200901T14:58:00Z | 未知编号 | CVE Data Analysis, CVE Monitor, CVE EXP Prediction Based on Deep Learning. 1999-2020年存量CVE数据分析、监控CVE增量更新、基于深度学习的CVE EXP预测和自动化推送 | https://github.com/404notf0und/CVE-Flow | 未查询到CVE信息| 
 
@@ -54,6 +54,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20200902T00:12:52Z | Make School , BEW 2.3 , SSTI | https://github.com/KitsuneNoctus/Jinja2-ExploitMe | 0 | 0| 
 | 20200901T23:30:59Z | fix exploits on anarchy server | https://github.com/moom0o/AnarchyExploitFixes | 2 | 1| 
 | 20200901T22:38:55Z | This Repo is the consolidation of models and code to implement the a RL Agent which learns how to maximizes the sensitivity of the a battery to produce better estimation results by exploiting near optimal Fisher Information | https://github.com/JonnyD1117/Battery_Active_Learning | 0 | 1| 
 | 20200901T22:28:29Z | this bash script let you download scripts and clone repos for remote exploits | https://github.com/FabioDefilippo/linuxallremote | 5 | 0| 
@@ -63,7 +64,6 @@
 | 20200901T21:20:50Z | An application that can be exploited by SQL Injection. | https://github.com/lucasrennok/SQLInjectionSample | 2 | 0| 
 | 20200901T21:06:02Z | Build a database of libc offsets to simplify exploitation | https://github.com/niklasb/libc-database | 991 | 172| 
 | 20200901T20:38:32Z | Proofs-of-concept | https://github.com/thezdi/PoC | 402 | 145| 
-| 20200901T20:35:34Z | Tools for exploiting ARIA standard products | https://github.com/aria-tools/ARIA-tools | 30 | 17| 
 
 
 # backdoor on Github 推荐
