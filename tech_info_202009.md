@@ -33,7 +33,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20200901T18:57:13Z | CVE-2020-8218 | Tool to test for existence of CVE-2020-8218 | https://github.com/withdk/pulse-gosecure-rce-poc | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 48 MINUTES 28 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200901T18:57:13Z | CVE-2020-8218 | Tool to test for existence of CVE-2020-8218 | https://github.com/withdk/pulse-gosecure-rce-poc | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 47 MINUTES 29 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20200901T18:24:07Z | CVE-2020-16152 | Explanation and PoC for CVE-2020-16152 | https://github.com/eriknl/CVE-2020-16152 | 未查询到CVE信息| 
 | 20200901T14:58:00Z | 未知编号 | CVE Data Analysis, CVE Monitor, CVE EXP Prediction Based on Deep Learning. 1999-2020年存量CVE数据分析、监控CVE增量更新、基于深度学习的CVE EXP预测和自动化推送 | https://github.com/404notf0und/CVE-Flow | 未查询到CVE信息| 
 
@@ -81,6 +81,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20200902T00:11:56Z | OSS-Fuzz - continuous fuzzing of open source software. | https://github.com/google/oss-fuzz | 5516 | 1082| 
 | 20200901T23:58:32Z | Null | https://github.com/kmolano/FuzzyHelpChatbot | 0 | 0| 
 | 20200901T23:50:06Z | LogicaFuzzy with Python | https://github.com/Nocthus/SI_LogicaFuzzy_Python | 0 | 0| 
 | 20200901T23:45:50Z | Null | https://github.com/DaniloAraneda123/Fuzzy-patterns | 0 | 0| 
@@ -90,7 +91,6 @@
 | 20200901T21:43:30Z | tic tac toe made by a kid | https://github.com/DinVin24/fuzzy-bassoon | 0 | 0| 
 | 20200901T21:09:14Z | Null | https://github.com/Steniapage/fuzzy-octo-enigma | 0 | 0| 
 | 20200901T21:07:27Z | Null | https://github.com/ethereum/solidity-fuzzing-corpus | 9 | 2| 
-| 20200901T20:55:47Z | OSS-Fuzz - continuous fuzzing of open source software. | https://github.com/google/oss-fuzz | 5515 | 1082| 
 
 
 
