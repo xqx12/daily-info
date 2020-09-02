@@ -34,7 +34,7 @@
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
 | 20200902T01:27:48Z | 未知编号 | CVE Data Analysis, CVE Monitor, CVE EXP Prediction Based on Deep Learning. 1999-2020年存量CVE数据分析、监控CVE增量更新、基于深度学习的CVE EXP预测和自动化推送 | https://github.com/404notf0und/CVE-Flow | 未查询到CVE信息| 
-| 20200901T18:57:13Z | CVE-2020-8218 | Tool to test for existence of CVE-2020-8218 | https://github.com/withdk/pulse-gosecure-rce-poc | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 01 MINUTES 28 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200901T18:57:13Z | CVE-2020-8218 | Tool to test for existence of CVE-2020-8218 | https://github.com/withdk/pulse-gosecure-rce-poc | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 00 MINUTES 27 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20200901T18:24:07Z | CVE-2020-16152 | Explanation and PoC for CVE-2020-16152 | https://github.com/eriknl/CVE-2020-16152 | 未查询到CVE信息| 
 
 
@@ -81,7 +81,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20200902T01:57:15Z | Coverage-guided binary fuzzing powered by Frida Stalker | https://github.com/meme/hotwax | 123 | 19| 
+| 20200902T01:58:25Z | Coverage-guided binary fuzzing powered by Frida Stalker | https://github.com/meme/hotwax | 123 | 19| 
 | 20200902T01:46:28Z | Null | https://github.com/yuriloliveira/nordtalk_fuzzy | 0 | 0| 
 | 20200902T01:44:01Z | A ground-truth binary fuzzing benchmark suite based on real programs with real bugs. | https://github.com/HexHive/magma | 53 | 16| 
 | 20200902T01:43:51Z | A place to put some notes | https://github.com/weigoldj/fuzzy-cat | 0 | 0| 
