@@ -69,9 +69,12 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20200901T12:02:45Z | Avyukt is a Exploitation Framework which can be used to generate Malicious Payloads and exploit Windows OS | https://github.com/Vedant-Bhalgama/Avyukt | 3 | 0| 
-| 20200901T11:22:00Z | Null | https://github.com/kuro-1/backdoor | 0 | 0| 
-| 20200901T09:47:50Z | Full-featured C2 framework which silently persists on webserver via evil PHP oneliner :smiling_imp: | https://github.com/nil0x42/phpsploit | 980 | 302| 
+| 20200901T22:48:46Z | Full-featured C2 framework which silently persists on webserver via evil PHP oneliner :smiling_imp: | https://github.com/nil0x42/phpsploit | 981 | 302| 
+| 20200901T21:28:15Z | Avyukt is a Exploitation Framework which can be used to generate Malicious Payloads and exploit Windows OS | https://github.com/Vedant-Bhalgama/Avyukt | 4 | 0| 
+| 20200901T19:44:56Z | Null | https://github.com/dheeraj7596/NlpBackdoor | 0 | 0| 
+| 20200901T18:43:16Z | Backdoor Script Bypass NextGen-Down | https://github.com/PredatoreSexe/Backdoor-Script-Bypass-NextGen-Down | 0 | 0| 
+| 20200901T17:49:40Z | Backdoor that can open web-pages remotely | https://github.com/pro-extremecoder/URLBackdoor | 0 | 0| 
+| 20200901T16:57:37Z | Null | https://github.com/kuro-1/backdoor | 0 | 0| 
 
 
 # fuzz on Github 推荐
