@@ -6,26 +6,32 @@
 # 玄武实验室 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20200902 | 固件与 Windows 内核启动早期的代码保护机制分析 | https://www.microsoft.com/security/blog/2020/09/01/force-firmware-code-to-be-measured-and-attested-by-secure-launch-on-windows-10/| 
+| 20200902 | 以 Krk Bike 应用为例介绍 Android 应用的逆向分析过程 | https://epic.blog/reverse-engineering/2020/07/27/reverse-engineering-android-app.html| 
+| 20200902 | Apache Camel 服务端模板注入漏洞分析 | https://securitylab.github.com/advisories/GHSL-2020-086-087-088-089-apache-camel/| 
+| 20200902 | 基于 Puppeteer 编写的一个更注重交互的浏览器环境 | https://github.com/jsoverson/hackium| 
+| 20200902 | Android APK 恶意软件自动化分析评分系统 | https://github.com/quark-engine/quark-engine| 
+| 20200902 | 用于辅助 IDA 分析 UEFI 固件的插件 | https://github.com/binarly-io/efiXplorer| 
+| 20200902 | The fastest Intel-PT decoder for fuzzing | https://github.com/nyx-fuzz/libxdc| 
+| 20200902 | 利用 Azure Resource Manager 模拟搭建微软 Active Directory 等安全测试环境 | https://github.com/microsoft/DefendTheFlag| 
+| 20200902 | JITSploitation I: A JIT Bug, Safari WebKit JIT 漏洞利用之各种内存保护机制的绕过 | https://googleprojectzero.blogspot.com/2020/09/jitsploitation-three.html| 
+| 20200902 | JITSploitation I: A JIT Bug, Safari WebKit JIT 漏洞利用之读写能力的获得 | https://sec.today/pulses/08cfd6f8-9efe-40e3-be05-a2eeb96b25fe/| 
+| 20200902 | JITSploitation I: A JIT Bug, Safari WebKit JIT 漏洞分析 | https://sec.today/pulses/5d386c8c-9a47-4db4-90ec-3f8c4b8046e7/| 
+| 20200902 | FreeBSD sendmsg 系统调用 TOCTOU 漏洞导致的内核提权漏洞分析 | https://sec.today/pulses/c6cac531-4627-4d14-85fe-3ccf2efaa85c/| 
+| 20200902 | 有研究员公开了 ComRAT v4 恶意软件样本静态分析的 IDB 数据库 | https://sec.today/pulses/a63ef9ff-4252-4213-86eb-6b554531be91/| 
+| 20200902 | JITSploitation I: A JIT Bug, Safari WebKit JIT 漏洞利用之读写能力的获得 | https://googleprojectzero.blogspot.com/2020/09/jitsploitation-two.html| 
+| 20200902 | JITSploitation I: A JIT Bug, Safari WebKit JIT 漏洞分析 | https://googleprojectzero.blogspot.com/2020/09/jitsploitation-one.html| 
+| 20200902 | FreeBSD sendmsg 系统调用 TOCTOU 漏洞导致的内核提权漏洞分析 | https://www.thezdi.com/blog/2020/9/1/cve-2020-7460-freebsd-kernel-privilege-escalation| 
+| 20200902 | 有研究员公开了 ComRAT v4 恶意软件样本静态分析的 IDB 数据库 | https://www.msreverseengineering.com/blog/2020/8/31/an-exhaustively-analyzed-idb-for-comrat-v4| 
 | 20200901 | Identifying RPC Telemetry for Detection Engineers | https://ipc-research.readthedocs.io/en/latest/subpages/RPC.html| 
 | 20200901 | 区块链相关的工具和技术资料整理 | https://github.com/gokulsan/awesome-blockchain-security-platforms| 
 | 20200901 | 为 v8 FixedArray 85bc1b0cab31cc064efc65e05adb81fee814261b 编写的 Exploit | https://github.com/r4j0x00/exploits/blob/master/chrome-exploit/exploit.js| 
-| 20200901 | Iblessing - An iOS Security Exploiting Toolkit | https://www.kitploit.com/2020/08/iblessing-ios-security-exploiting.html| 
-| 20200901 | 通过 Shodan 搜索网站图标 Hash, 用这种方法可以发现 Cloudflare 背后的真实 IP, 视频: https://www.youtube.com/watch?v=JrWlUI8mVJg&feature=youtu.be | https://gist.github.com/yehgdotnet/b9dfc618108d2f05845c4d8e28c5fc6a| 
-| 20200901 | 用于优化 IDA Hex-Rays 反编译器处理 VMX 指令的插件 | https://github.com/synacktiv/vmx_intrinsics| 
-| 20200901 | QNAP NAS 在野漏洞攻击事件分析 | https://blog.netlab.360.com/in-the-wild-qnap-nas-attacks/| 
-| 20200901 | 使用 CodeQL 分析闭源 Java 程序 | http://paper.seebug.org/1324/| 
-| 20200901 | 恶意软件开发之 Go 语言中的模块动态加载 | http://posts.specterops.io/malware-development-pt-1-dynamic-module-loading-in-go-1121f07f3a5a| 
-| 20200901 | IDA-ObjCExplorer - 用于实现 Objective C classdump 的 IDA Pro 插件 | https://sec.today/pulses/0246ed39-a9fc-4421-b052-bf2b2da92efb/| 
-| 20200901 | Apple 错误地将 Shlayer 恶意软件标记为 notarized,导致 Shlayer 成功在最新版 macOS 执行 | https://sec.today/pulses/f82cb8e3-70ad-4a86-a724-355d17a605a6/| 
-| 20200901 | IDA-ObjCExplorer - 用于实现 Objective C classdump 的 IDA Pro 插件 | https://github.com/ChiChou/IDA-ObjCExplorer| 
-| 20200901 | Apple 错误地将 Shlayer 恶意软件标记为 notarized,导致 Shlayer 成功在最新版 macOS 执行 | https://objective-see.com/blog/blog_0x4E.html| 
-| 20200901 | C ++内存损坏-第1部分。 | https://blog.infosectcbr.com.au/2020/08/c-memory-corruption-part-1.html| 
-| 20200901 | 最佳前十的SAP测试工具（SAP自动化工具）推荐。 | http://www.softwaretestinghelp.com/best-sap-testing-tools/| 
 
 
 # 安全维基 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20200902 | 如何开发一个Goby主题插件 | http://mp.weixin.qq.com/s?__biz=MzI4MzcwNTAzOQ==&mid=2247484005&idx=1&sn=b1f9a68d55b43fd9653cf5c65e655516&chksm=eb87e9c5dcf060d35f5d23cce1e7c06a335091b491723d74b33b993ff5c4fed4cac2bc78827b&token=225023830&lang=zh_CN#rd| 
 | 20200901 | saferwall: 下一代开源恶意软件分析平台 | https://github.com/saferwall/saferwall| 
 | 20200901 | 使用 CodeQL 分析闭源 Java 程序 | https://paper.seebug.org/1324/| 
 
@@ -33,37 +39,39 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20200902T01:27:48Z | 未知编号 | CVE Data Analysis, CVE Monitor, CVE EXP Prediction Based on Deep Learning. 1999-2020年存量CVE数据分析、监控CVE增量更新、基于深度学习的CVE EXP预测和自动化推送 | https://github.com/404notf0und/CVE-Flow | 未查询到CVE信息| 
-| 20200901T18:57:13Z | CVE-2020-8218 | Tool to test for existence of CVE-2020-8218 | https://github.com/withdk/pulse-gosecure-rce-poc | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 00 MINUTES 27 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200901T18:24:07Z | CVE-2020-16152 | Explanation and PoC for CVE-2020-16152 | https://github.com/eriknl/CVE-2020-16152 | 未查询到CVE信息| 
+| 20200902T06:18:01Z | 未知编号 | CVE Data Analysis, CVE Monitor, CVE EXP Prediction Based on Deep Learning. 1999-2020年存量CVE数据分析、监控CVE增量更新、基于深度学习的CVE EXP预测和自动化推送 | https://github.com/404notf0und/CVE-Flow | 未查询到CVE信息| 
+| 20200902T04:09:48Z | CVE-2020-16152 | Explanation and PoC for CVE-2020-16152 | https://github.com/eriknl/CVE-2020-16152 | 未查询到CVE信息| 
+| 20200902T03:01:10Z | CVE-2020-24955 | SUPERAntiSyware Professional X Trial <= 10.0.1206 Local Privilege Escalation | https://github.com/b1nary0x1/CVE-2020-24955 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 58 MINUTES 31 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200901T18:57:13Z | CVE-2020-8218 | Tool to test for existence of CVE-2020-8218 | https://github.com/withdk/pulse-gosecure-rce-poc | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 58 MINUTES 27 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20200901T11:59:45Z | RVT is a collection of tools/libraries to support both static and dynamic verification of Rust programs. | https://github.com/project-oak/rust-verification-tools | 0 | 1| 
+| 20200902T07:55:40Z | A tool that automatically calls Klee to solve for injection | https://github.com/Zzzode/KleeTool | 1 | 0| 
+| 20200902T06:31:36Z | RVT is a collection of tools/libraries to support both static and dynamic verification of Rust programs. | https://github.com/project-oak/rust-verification-tools | 1 | 1| 
 | 20200901T11:33:44Z | Symbiotic is a tool for finding bugs in computer programs based on instrumentation, program slicing and KLEE | https://github.com/staticafi/symbiotic | 195 | 33| 
-| 20200901T04:42:04Z | A tool that automatically calls Klee to solve for injection | https://github.com/Zzzode/KleeTool | 1 | 0| 
 
 
 # s2e on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20200902T09:18:36Z | New version of OCELOT (including new script to run it) | https://github.com/Hector-Mauricio-Castaneda-Cortes/S2E_FEL_dev_gen | 0 | 0| 
 
 
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20200902T01:51:13Z | Proofs-of-concept | https://github.com/thezdi/PoC | 404 | 145| 
-| 20200902T01:40:46Z | exploit-database-papers | https://github.com/offensive-security/exploitdb-papers | 236 | 26| 
-| 20200902T01:25:04Z | More Stable Offline Exploit version of PS4 6.72 Jailbreak. | https://github.com/DarkModderVC/PS4JB | 66 | 27| 
-| 20200902T00:48:10Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 5 | 2| 
-| 20200902T00:12:52Z | Make School , BEW 2.3 , SSTI | https://github.com/KitsuneNoctus/Jinja2-ExploitMe | 0 | 0| 
-| 20200901T23:30:59Z | fix exploits on anarchy server | https://github.com/moom0o/AnarchyExploitFixes | 2 | 1| 
-| 20200901T22:38:55Z | This Repo is the consolidation of models and code to implement the a RL Agent which learns how to maximizes the sensitivity of the a battery to produce better estimation results by exploiting near optimal Fisher Information | https://github.com/JonnyD1117/Battery_Active_Learning | 0 | 1| 
-| 20200901T22:28:29Z | this bash script let you download scripts and clone repos for remote exploits | https://github.com/FabioDefilippo/linuxallremote | 5 | 0| 
-| 20200901T22:18:18Z | Motorola OMAP MBM exploit | https://github.com/CyanogenDefy/mbmhax | 0 | 0| 
-| 20200901T21:35:11Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 7128 | 1150| 
+| 20200902T11:45:23Z | The tool exfiltrates data from Couchbase database by exploiting N1QL injection vulnerabilities. | https://github.com/FSecureLABS/N1QLMap | 1 | 0| 
+| 20200902T11:41:38Z | A phased, evasive Path Traversal + LFI scanning & exploitation tool in Python | https://github.com/VainlyStrain/Vailyn | 43 | 0| 
+| 20200902T11:40:23Z | Compiled exploits and other useful things for pentesting. | https://github.com/Mortalus/CompiledCrap | 0 | 0| 
+| 20200902T11:36:32Z | iblessing is an iOS security exploiting toolkit, it mainly includes application information collection, static analysis and dynamic analysis. It can be used for reverse engineering, binary analysis and vulnerability mining. | https://github.com/Soulghost/iblessing | 171 | 26| 
+| 20200902T11:22:46Z | Null | https://github.com/gmatuz/cve-scanner-exploiting-pocs | 0 | 0| 
+| 20200902T11:19:18Z | Windows Exploit Suggester - Next Generation | https://github.com/bitsadmin/wesng | 1825 | 295| 
+| 20200902T10:07:21Z | this bash script let you download scripts and clone repos for remote exploits | https://github.com/FabioDefilippo/linuxallremote | 5 | 0| 
+| 20200902T09:55:48Z | Exploit tool samples | https://github.com/devilsastry/Samples | 0 | 0| 
+| 20200902T09:24:30Z | Vbulletin RCE Exploit | https://github.com/nako48/CVE-2019-16759 | 1 | 0| 
+| 20200902T08:59:56Z | application d%analyse de la trésorerie des exploitations agricoles tunisiennes | https://github.com/agrarian-systems-consulting/endagri-front | 0 | 0| 
 
 
 # backdoor on Github 推荐
@@ -81,16 +89,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20200902T01:58:25Z | Coverage-guided binary fuzzing powered by Frida Stalker | https://github.com/meme/hotwax | 123 | 19| 
-| 20200902T01:46:28Z | Null | https://github.com/yuriloliveira/nordtalk_fuzzy | 0 | 0| 
-| 20200902T01:44:01Z | A ground-truth binary fuzzing benchmark suite based on real programs with real bugs. | https://github.com/HexHive/magma | 53 | 16| 
-| 20200902T01:43:51Z | A place to put some notes | https://github.com/weigoldj/fuzzy-cat | 0 | 0| 
-| 20200902T01:39:48Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 3117 | 716| 
-| 20200902T01:36:19Z | Files used on Fuzzy Systems discipline. | https://github.com/marciorasf/fuzzy-systems | 0 | 0| 
-| 20200902T01:24:59Z | Fuzzaldrin plus - fast using native c bindings | https://github.com/atom-ide-community/fuzzaldrin-plus-fast | 1 | 1| 
-| 20200902T01:22:58Z | interactive `git` with the help of `fzf` | https://github.com/bigH/git-fuzzy | 1511 | 26| 
-| 20200902T01:09:36Z | about fuzz | https://github.com/yezihagendasi/fuzz | 0 | 0| 
-| 20200902T00:46:21Z | Null | https://github.com/srhodes/Fuzzy-Logic | 0 | 0| 
+| 20200902T11:26:45Z | Escaya fuzzer | https://github.com/escaya/escaya-fuzzer | 0 | 0| 
+| 20200902T10:45:33Z | Web application fuzzer | https://github.com/xmendez/wfuzz | 3071 | 769| 
+| 20200902T10:14:52Z | workspace for random R projects | https://github.com/henryhansen/fuzzy-giggle | 0 | 0| 
+| 20200902T09:43:57Z | Null | https://github.com/fatihgurel/DirFuzzPython | 3 | 0| 
+| 20200902T08:59:33Z | A fuzzy parser for C/C++ that creates semantic code property graphs | https://github.com/ShiftLeftSecurity/fuzzyc2cpg | 36 | 11| 
+| 20200902T08:38:54Z | Null | https://github.com/fuzzydeep/fuzzydeep | 0 | 0| 
+| 20200902T08:36:49Z | An app intended for fuzzing the Android Binder interface and System Services | https://github.com/ChickenHook/BinderFuzzy | 14 | 2| 
+| 20200902T08:31:25Z | The fuzzer afl++ is afl with community patches, AFLfast power schedules, qemu 3.1 upgrade + laf-intel support, MOpt mutators, InsTrim instrumentation, unicorn_mode, Redqueen and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 865 | 214| 
+| 20200902T08:11:17Z | Fuzzaldrin plus - fast using native c bindings | https://github.com/atom-ide-community/fuzzaldrin-plus-fast | 1 | 1| 
+| 20200902T08:08:52Z | A subdomain fuzzing tool | https://github.com/netsecurity-as/subfuz | 22 | 3| 
 
 
 
