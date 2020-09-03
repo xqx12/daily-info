@@ -68,6 +68,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20200903T01:14:37Z | Grants you the power to play twinkle twinkle little star on The Wild West Roblox with the press of a single key. | https://github.com/JustinJoyCode/ThePowerfulExploit | 0 | 0| 
+| 20200903T01:13:48Z | Exploit tool samples | https://github.com/devilsastry/Samples | 0 | 0| 
 | 20200903T01:09:39Z | Sifter is a osint, recon & vulnerability scanner. It combines a plethara of tools within different module sets in order to quickly perform recon tasks, check network firewalling, enumerate remote and local hosts, and scan for the %blue% vulnerabilities within microsft and if unpatched, exploit them.  It uses tools like blackwidow and konan for webdir enumeration and attack surface mapping rapidly using ASM.  | https://github.com/s1l3nt78/sifter | 235 | 73| 
 | 20200903T00:48:10Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 5 | 2| 
 | 20200903T00:11:47Z | A collection of curated resources and CVEs I use for research. | https://github.com/drtychai/browser-exploitation | 15 | 3| 
@@ -76,8 +78,6 @@
 | 20200902T22:57:33Z | A phased, evasive Path Traversal + LFI scanning & exploitation tool in Python | https://github.com/VainlyStrain/Vailyn | 43 | 0| 
 | 20200902T21:35:11Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 7140 | 1153| 
 | 20200902T21:23:47Z | Null | https://github.com/quentin452/Cats-Exploitz-HUB | 0 | 1| 
-| 20200902T21:17:07Z | Continuous Integration and Development ExploiteR | https://github.com/spaceB0x/cider | 76 | 14| 
-| 20200902T20:31:16Z | Source code and exploit of the 2020 Defenit CTF %Input Test Driver% prob | https://github.com/V4bel/2020_defenit_ctf | 3 | 0| 
 
 
 # backdoor on Github 推荐
