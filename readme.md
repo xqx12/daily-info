@@ -37,12 +37,12 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20200902T21:30:21Z | CVE-2020-13162 | Null | https://github.com/redtimmy/tu-TOCTOU-kaiu-TOCMEU-CVE-2020-13162- | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 49 MINUTES 39 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200902T21:30:21Z | CVE-2020-13162 | Null | https://github.com/redtimmy/tu-TOCTOU-kaiu-TOCMEU-CVE-2020-13162- | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 47 MINUTES 37 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20200902T17:26:09Z | CVE-2020-16152 | Explanation and PoC for CVE-2020-16152 | https://github.com/eriknl/CVE-2020-16152 | 未查询到CVE信息| 
 | 20200902T16:21:15Z | CVE-2020-2551 | weblogic 漏洞扫描工具。目前包含 CVE-2014-4210、CVE-2016-0638、CVE-2016-3510、CVE-2017-3248、CVE-2017-3506、CVE-2017-10271、CVE-2018-2628、CVE-2018-2893、CVE-2018-2894、CVE-2018-3191、CVE-2018-3245、CVE-2018-3252、CVE-2019-2618、CVE-2019-2725、CVE-2019-2729、CVE-2019-2890、CVE-2020-2551 | https://github.com/0xn0ne/weblogicScanner | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
-| 20200902T15:55:31Z | CVE-2020-8218 | Tool to test for existence of CVE-2020-8218 | https://github.com/withdk/pulse-gosecure-rce-poc | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 49 MINUTES 32 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200902T15:55:31Z | CVE-2020-8218 | Tool to test for existence of CVE-2020-8218 | https://github.com/withdk/pulse-gosecure-rce-poc | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 48 MINUTES 30 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20200902T14:54:02Z | CVE-2020-25068 | Python script to exploit CVE-2020-25068.  | https://github.com/bryanroma/CVE-2020-25068 | 未查询到CVE信息| 
-| 20200902T03:01:10Z | CVE-2020-24955 | SUPERAntiSyware Professional X Trial <= 10.0.1206 Local Privilege Escalation | https://github.com/b1nary0x1/CVE-2020-24955 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 49 MINUTES 37 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200902T03:01:10Z | CVE-2020-24955 | SUPERAntiSyware Professional X Trial <= 10.0.1206 Local Privilege Escalation | https://github.com/b1nary0x1/CVE-2020-24955 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 47 MINUTES 35 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 
 
 # klee on Github 推荐
@@ -64,7 +64,6 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20200902T23:08:17Z | Sifter is a osint, recon & vulnerability scanner. It combines a plethara of tools within different module sets in order to quickly perform recon tasks, check network firewalling, enumerate remote and local hosts, and scan for the %blue% vulnerabilities within microsft and if unpatched, exploit them.  It uses tools like blackwidow and konan for webdir enumeration and attack surface mapping rapidly using ASM.  | https://github.com/s1l3nt78/sifter | 235 | 73| 
 | 20200902T22:57:33Z | A phased, evasive Path Traversal + LFI scanning & exploitation tool in Python | https://github.com/VainlyStrain/Vailyn | 43 | 0| 
 | 20200902T21:35:11Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 7140 | 1153| 
 | 20200902T21:23:47Z | Null | https://github.com/quentin452/Cats-Exploitz-HUB | 0 | 1| 
@@ -74,6 +73,7 @@
 | 20200902T19:59:34Z | Bosploit. The roblox exploit. | https://github.com/ttvfimin/Bosploit | 0 | 0| 
 | 20200902T19:32:48Z | This repo describe how to exploit unrestricted file upload vulnerability on SiteMagic CMS 4.4.2 | https://github.com/V1n1v131r4/Unrestricted-File-Upload-on-SiteMagic-CMS-4.4.2 | 0 | 0| 
 | 20200902T16:40:36Z | Tools and exploits by WhiteWizard | https://github.com/MrMindKeeper/tcpf | 1 | 0| 
+| 20200902T16:33:25Z | So im pretty new to GitHub but im posting this on here bc I don%t think I have the skill necessary to pull it off, today I found a Zoom Exploit. the exploit is fairly common among programs written in C, where you can bypass an input limit in something like a sign-in and access memory you are not supposed to, the thing is this can happen in Zoom when you type in the meeting ID, I dunno what triggered the bug but maybe you can find it, if this is not the place to post this let me know. | https://github.com/Anon-byte/Possible-Zoom-Exploit | 0 | 0| 
 
 
 # backdoor on Github 推荐
