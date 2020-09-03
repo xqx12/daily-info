@@ -38,12 +38,12 @@
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
 | 20200902T22:28:58Z | 未知编号 | CVE Data Analysis, CVE Monitor, CVE EXP Prediction Based on Deep Learning. 1999-2020年存量CVE数据分析、监控CVE增量更新、基于深度学习的CVE EXP预测和自动化推送 | https://github.com/404notf0und/CVE-Flow | 未查询到CVE信息| 
-| 20200902T21:30:21Z | CVE-2020-13162 | Null | https://github.com/redtimmy/tu-TOCTOU-kaiu-TOCMEU-CVE-2020-13162- | 适用于Windows的9.1.6之前的5.3 R70（运行于NT AUTHORITY / SYSTEM）的PulseSecure Client版本中的PulseSecureService.exe中的Check-of-time使用时间漏洞允许无特权的用户运行Microsoft Installer可执行文件具有更高的特权。| 
+| 20200902T21:30:21Z | CVE-2020-13162 | Null | https://github.com/redtimmy/tu-TOCTOU-kaiu-TOCMEU-CVE-2020-13162- | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 55 MINUTES 39 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20200902T17:26:09Z | CVE-2020-16152 | Explanation and PoC for CVE-2020-16152 | https://github.com/eriknl/CVE-2020-16152 | | 
 | 20200902T16:21:15Z | CVE-2020-2551 | weblogic 漏洞扫描工具。目前包含 CVE-2014-4210、CVE-2016-0638、CVE-2016-3510、CVE-2017-3248、CVE-2017-3506、CVE-2017-10271、CVE-2018-2628、CVE-2018-2893、CVE-2018-2894、CVE-2018-3191、CVE-2018-3245、CVE-2018-3252、CVE-2019-2618、CVE-2019-2725、CVE-2019-2729、CVE-2019-2890、CVE-2020-2551 | https://github.com/0xn0ne/weblogicScanner | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
 | 20200902T15:55:31Z | CVE-2020-8218 | Tool to test for existence of CVE-2020-8218 | https://github.com/withdk/pulse-gosecure-rce-poc | Pulse Connect 安全 #9.1R8 中存在代码注入漏洞，允许攻击者制作 URI，以便通过管理员 Web 界面执行任意代码执行。| 
 | 20200902T14:54:02Z | CVE-2020-25068 | Python script to exploit CVE-2020-25068.  | https://github.com/bryanroma/CVE-2020-25068 | 未查询到CVE信息| 
-| 20200902T03:01:10Z | CVE-2020-24955 | SUPERAntiSyware Professional X Trial <= 10.0.1206 Local Privilege Escalation | https://github.com/b1nary0x1/CVE-2020-24955 | SUPERAntiSyware Professional X Trial 10.0.1206容易受到本地特权升级的影响，因为它允许无特权的用户通过NTFS目录联结将恶意DLL从隔离区还原到system32文件夹中，如通过精心制作的ualapi.dll文件被检测为恶意软件所示。| 
+| 20200902T03:01:10Z | CVE-2020-24955 | SUPERAntiSyware Professional X Trial <= 10.0.1206 Local Privilege Escalation | https://github.com/b1nary0x1/CVE-2020-24955 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 55 MINUTES 37 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 
 
 # klee on Github 推荐
