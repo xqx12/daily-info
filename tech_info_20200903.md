@@ -26,11 +26,11 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20200903T10:53:52Z | CVE-2020-11896 | PoC for CVE-2020-11896 Treck TCP/IP stack and device asset investigation | https://github.com/Fans0n-Fan/Treck20-Related | | 
+| 20200903T10:53:52Z | CVE-2020-11896 | PoC for CVE-2020-11896 Treck TCP/IP stack and device asset investigation | https://github.com/Fans0n-Fan/Treck20-Related | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 49 MINUTES 15 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20200903T10:29:19Z | 未知编号 | CVE Data Analysis, CVE Monitor, CVE EXP Prediction Based on Deep Learning. 1999-2020年存量CVE数据分析、监控CVE增量更新、基于深度学习的CVE EXP预测和自动化推送 | https://github.com/404notf0und/CVE-Flow | 未查询到CVE信息| 
-| 20200903T10:20:58Z | cve-2020-24616 | cve-2020-24616 poc | https://github.com/Kamimuka/cve-2020-24616-poc | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 49 MINUTES 32 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200903T10:01:26Z | CVE-2020-13162 | Null | https://github.com/redtimmy/tu-TOCTOU-kaiu-TOCMEU-CVE-2020-13162- | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 50 MINUTES 29 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200903T08:29:12Z | CVE-2020-8218 | Tool to test for existence of CVE-2020-8218 | https://github.com/withdk/pulse-gosecure-rce-poc | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 50 MINUTES 22 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200903T10:20:58Z | cve-2020-24616 | cve-2020-24616 poc | https://github.com/Kamimuka/cve-2020-24616-poc | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 48 MINUTES 31 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200903T10:01:26Z | CVE-2020-13162 | Null | https://github.com/redtimmy/tu-TOCTOU-kaiu-TOCMEU-CVE-2020-13162- | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 49 MINUTES 31 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200903T08:29:12Z | CVE-2020-8218 | Tool to test for existence of CVE-2020-8218 | https://github.com/withdk/pulse-gosecure-rce-poc | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 49 MINUTES 24 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 
 
 # klee on Github 推荐
@@ -78,9 +78,9 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20200903T12:10:41Z | The Official Fuzzy Britches Repository | https://github.com/ThePapaw/fuzzybritches | 3 | 1| 
 | 20200903T12:05:57Z | Fast web fuzzer written in Go | https://github.com/ffuf/ffuf | 2873 | 327| 
 | 20200903T12:00:37Z | Fast HTTP enumerator | https://github.com/RedTeamPentesting/monsoon | 89 | 12| 
-| 20200903T11:56:13Z | The Official Fuzzy Britches Repository | https://github.com/ThePapaw/fuzzybritches | 3 | 1| 
 | 20200903T11:42:53Z | Common Web Managers Fuzz Wordlists | https://github.com/kaimi-io/web-fuzz-wordlists | 82 | 16| 
 | 20200903T11:38:04Z | Search and download dictionaries for testing, bruteforcing, fuzzing and exploit-development. | https://github.com/pownjs/dicts | 9 | 0| 
 | 20200903T11:09:24Z | Potentially dangerous files | https://github.com/Bo0oM/fuzz.txt | 1267 | 228| 
