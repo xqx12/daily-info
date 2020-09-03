@@ -23,9 +23,9 @@
 | 20200902 | JITSploitation I: A JIT Bug, Safari WebKit JIT 漏洞分析 | https://googleprojectzero.blogspot.com/2020/09/jitsploitation-one.html| 
 | 20200902 | FreeBSD sendmsg 系统调用 TOCTOU 漏洞导致的内核提权漏洞分析 | https://www.thezdi.com/blog/2020/9/1/cve-2020-7460-freebsd-kernel-privilege-escalation| 
 | 20200902 | 有研究员公开了 ComRAT v4 恶意软件样本静态分析的 IDB 数据库 | https://www.msreverseengineering.com/blog/2020/8/31/an-exhaustively-analyzed-idb-for-comrat-v4| 
-| 20200901 | Identifying RPC Telemetry for Detection Engineers | https://ipc-research.readthedocs.io/en/latest/subpages/RPC.html| 
-| 20200901 | 区块链相关的工具和技术资料整理 | https://github.com/gokulsan/awesome-blockchain-security-platforms| 
-| 20200901 | 为 v8 FixedArray 85bc1b0cab31cc064efc65e05adb81fee814261b 编写的 Exploit | https://github.com/r4j0x00/exploits/blob/master/chrome-exploit/exploit.js| 
+| 20200902 | Azure AD PRT令牌之旅：通过令牌传递与证书传递访问。 | https://o365blog.com/post/prt/| 
+| 20200902 | 数字取证，第11部分：从计算机系统提取浏览器中的存储的密码。 | https://www.hackers-arise.com/post/2019/08/27/digital-forensics-part-11-recovering-stored-passwords-from-the-browser| 
+| 20200902 | 混合IPID分配的非路径TCP攻击利用。 | https://arxiv.org/abs/2008.12981| 
 
 
 # 安全维基 推荐
@@ -39,10 +39,13 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20200902T12:30:13Z | CVE-2020-8218 | Tool to test for existence of CVE-2020-8218 | https://github.com/withdk/pulse-gosecure-rce-poc | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 00 MINUTES 28 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200902T06:18:01Z | 未知编号 | CVE Data Analysis, CVE Monitor, CVE EXP Prediction Based on Deep Learning. 1999-2020年存量CVE数据分析、监控CVE增量更新、基于深度学习的CVE EXP预测和自动化推送 | https://github.com/404notf0und/CVE-Flow | 未查询到CVE信息| 
-| 20200902T04:09:48Z | CVE-2020-16152 | Explanation and PoC for CVE-2020-16152 | https://github.com/eriknl/CVE-2020-16152 | 未查询到CVE信息| 
-| 20200902T03:01:10Z | CVE-2020-24955 | SUPERAntiSyware Professional X Trial <= 10.0.1206 Local Privilege Escalation | https://github.com/b1nary0x1/CVE-2020-24955 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 00 MINUTES 32 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200902T22:28:58Z | 未知编号 | CVE Data Analysis, CVE Monitor, CVE EXP Prediction Based on Deep Learning. 1999-2020年存量CVE数据分析、监控CVE增量更新、基于深度学习的CVE EXP预测和自动化推送 | https://github.com/404notf0und/CVE-Flow | 未查询到CVE信息| 
+| 20200902T21:30:21Z | CVE-2020-13162 | Null | https://github.com/redtimmy/tu-TOCTOU-kaiu-TOCMEU-CVE-2020-13162- | 适用于Windows的9.1.6之前的5.3 R70（运行于NT AUTHORITY / SYSTEM）的PulseSecure Client版本中的PulseSecureService.exe中的Check-of-time使用时间漏洞允许无特权的用户运行Microsoft Installer可执行文件具有更高的特权。| 
+| 20200902T17:26:09Z | CVE-2020-16152 | Explanation and PoC for CVE-2020-16152 | https://github.com/eriknl/CVE-2020-16152 | 未查询到CVE信息| 
+| 20200902T16:21:15Z | CVE-2020-2551 | weblogic 漏洞扫描工具。目前包含 CVE-2014-4210、CVE-2016-0638、CVE-2016-3510、CVE-2017-3248、CVE-2017-3506、CVE-2017-10271、CVE-2018-2628、CVE-2018-2893、CVE-2018-2894、CVE-2018-3191、CVE-2018-3245、CVE-2018-3252、CVE-2019-2618、CVE-2019-2725、CVE-2019-2729、CVE-2019-2890、CVE-2020-2551 | https://github.com/0xn0ne/weblogicScanner | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
+| 20200902T15:55:31Z | CVE-2020-8218 | Tool to test for existence of CVE-2020-8218 | https://github.com/withdk/pulse-gosecure-rce-poc | Pulse Connect 安全 #9.1R8 中存在代码注入漏洞，允许攻击者制作 URI，以便通过管理员 Web 界面执行任意代码执行。| 
+| 20200902T14:54:02Z | CVE-2020-25068 | Python script to exploit CVE-2020-25068.  | https://github.com/bryanroma/CVE-2020-25068 | 未查询到CVE信息| 
+| 20200902T03:01:10Z | CVE-2020-24955 | SUPERAntiSyware Professional X Trial <= 10.0.1206 Local Privilege Escalation | https://github.com/b1nary0x1/CVE-2020-24955 | SUPERAntiSyware Professional X Trial 10.0.1206容易受到本地特权升级的影响，因为它允许无特权的用户通过NTFS目录联结将恶意DLL从隔离区还原到system32文件夹中，如通过精心制作的ualapi.dll文件被检测为恶意软件所示。| 
 
 
 # klee on Github 推荐
@@ -62,29 +65,31 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20200902T12:57:05Z | Null | https://github.com/quentin452/Cats-Exploitz-HUB | 0 | 1| 
-| 20200902T12:42:01Z | Windows Exploit Suggester - Next Generation | https://github.com/bitsadmin/wesng | 1826 | 295| 
-| 20200902T12:41:45Z | A phased, evasive Path Traversal + LFI scanning & exploitation tool in Python | https://github.com/VainlyStrain/Vailyn | 43 | 0| 
-| 20200902T12:35:12Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 7136 | 1152| 
-| 20200902T11:45:23Z | The tool exfiltrates data from Couchbase database by exploiting N1QL injection vulnerabilities. | https://github.com/FSecureLABS/N1QLMap | 1 | 0| 
-| 20200902T11:40:23Z | Compiled exploits and other useful things for pentesting. | https://github.com/Mortalus/CompiledCrap | 0 | 0| 
-| 20200902T11:36:32Z | iblessing is an iOS security exploiting toolkit, it mainly includes application information collection, static analysis and dynamic analysis. It can be used for reverse engineering, binary analysis and vulnerability mining. | https://github.com/Soulghost/iblessing | 171 | 26| 
-| 20200902T11:22:46Z | Null | https://github.com/gmatuz/cve-scanner-exploiting-pocs | 0 | 0| 
-| 20200902T10:07:21Z | this bash script let you download scripts and clone repos for remote exploits | https://github.com/FabioDefilippo/linuxallremote | 5 | 0| 
-| 20200902T09:55:48Z | Exploit tool samples | https://github.com/devilsastry/Samples | 0 | 0| 
+| 20200902T23:51:30Z | An attack/exploit Detector that utilizes Polymorphism and Diversity | https://github.com/polyverse/zerotect | 4 | 1| 
+| 20200902T23:45:12Z | Null | https://github.com/eszterk/exploitation_lab | 0 | 0| 
+| 20200902T23:08:17Z | Sifter is a osint, recon & vulnerability scanner. It combines a plethara of tools within different module sets in order to quickly perform recon tasks, check network firewalling, enumerate remote and local hosts, and scan for the %blue% vulnerabilities within microsft and if unpatched, exploit them.  It uses tools like blackwidow and konan for webdir enumeration and attack surface mapping rapidly using ASM.  | https://github.com/s1l3nt78/sifter | 235 | 73| 
+| 20200902T22:57:33Z | A phased, evasive Path Traversal + LFI scanning & exploitation tool in Python | https://github.com/VainlyStrain/Vailyn | 43 | 0| 
+| 20200902T21:35:11Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 7140 | 1153| 
+| 20200902T21:23:47Z | Null | https://github.com/quentin452/Cats-Exploitz-HUB | 0 | 1| 
+| 20200902T21:17:07Z | Continuous Integration and Development ExploiteR | https://github.com/spaceB0x/cider | 76 | 14| 
+| 20200902T20:31:16Z | Source code and exploit of the 2020 Defenit CTF %Input Test Driver% prob | https://github.com/V4bel/2020_defenit_ctf | 3 | 0| 
+| 20200902T20:19:36Z | PS4 Exploit  | https://github.com/Shahabkhan99/PS4X | 1 | 0| 
+| 20200902T19:59:34Z | Bosploit. The roblox exploit. | https://github.com/ttvfimin/Bosploit | 0 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20200902T09:38:59Z | Full-featured C2 framework which silently persists on webserver via evil PHP oneliner :smiling_imp: | https://github.com/nil0x42/phpsploit | 983 | 302| 
+| 20200902T23:13:02Z | Creacion de puertas traseras (backdoors) para Metasploit-framework | https://github.com/byteSalgado/msfpayload | 1 | 0| 
+| 20200902T22:24:42Z | Avyukt is a Exploitation Framework which can be used to generate Malicious Payloads and exploit Windows OS | https://github.com/Vedant-Bhalgama/Avyukt | 5 | 0| 
+| 20200902T22:12:27Z | A deck-building roguelike cyberpunk game. | https://github.com/uspgamedev/backdoor | 16 | 2| 
+| 20200902T19:21:36Z | A Backdoor written in Python 3 that enables the attacker to execute commands on the remote machine being undetectable. | https://github.com/Ryan-AW/Backdoor-Trojan | 0 | 0| 
+| 20200902T19:07:45Z | Full-featured C2 framework which silently persists on webserver via evil PHP oneliner :smiling_imp: | https://github.com/nil0x42/phpsploit | 984 | 302| 
+| 20200902T16:35:43Z | Reverse shell using socket programming in python | https://github.com/YashSahsani/Multiclient-Reverse-shell | 0 | 0| 
+| 20200902T16:29:39Z | Null | https://github.com/iK4oS/backdoor.exe | 1 | 1| 
 | 20200902T07:35:32Z | Hacking tools pack & backdoors generator. | https://github.com/AdrMXR/KitHack | 146 | 34| 
-| 20200902T04:48:47Z | A Backdoor written in Python 3 that enables the attacker to execute commands to the remote machine being undetectable. | https://github.com/Ryan-AW/Backdoor-Trojan | 0 | 0| 
-| 20200901T21:28:15Z | Avyukt is a Exploitation Framework which can be used to generate Malicious Payloads and exploit Windows OS | https://github.com/Vedant-Bhalgama/Avyukt | 4 | 0| 
 | 20200901T19:44:56Z | Null | https://github.com/dheeraj7596/NlpBackdoor | 0 | 0| 
 | 20200901T18:43:16Z | Backdoor Script Bypass NextGen-Down | https://github.com/PredatoreSexe/Backdoor-Script-Bypass-NextGen-Down | 0 | 0| 
-| 20200901T17:49:40Z | Backdoor that can open web-pages remotely | https://github.com/pro-extremecoder/URLBackdoor | 0 | 0| 
-| 20200901T16:57:37Z | Null | https://github.com/kuro-1/backdoor | 0 | 0| 
 
 
 # fuzz on Github 推荐
