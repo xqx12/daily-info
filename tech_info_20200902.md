@@ -39,7 +39,7 @@
 | --- | --- | --- | --- | ---| 
 | 20200902T22:28:58Z | 未知编号 | CVE Data Analysis, CVE Monitor, CVE EXP Prediction Based on Deep Learning. 1999-2020年存量CVE数据分析、监控CVE增量更新、基于深度学习的CVE EXP预测和自动化推送 | https://github.com/404notf0und/CVE-Flow | 未查询到CVE信息| 
 | 20200902T21:30:21Z | CVE-2020-13162 | Null | https://github.com/redtimmy/tu-TOCTOU-kaiu-TOCMEU-CVE-2020-13162- | 适用于Windows的9.1.6之前的5.3 R70（运行于NT AUTHORITY / SYSTEM）的PulseSecure Client版本中的PulseSecureService.exe中的Check-of-time使用时间漏洞允许无特权的用户运行Microsoft Installer可执行文件具有更高的特权。| 
-| 20200902T17:26:09Z | CVE-2020-16152 | Explanation and PoC for CVE-2020-16152 | https://github.com/eriknl/CVE-2020-16152 | 未查询到CVE信息| 
+| 20200902T17:26:09Z | CVE-2020-16152 | Explanation and PoC for CVE-2020-16152 | https://github.com/eriknl/CVE-2020-16152 | | 
 | 20200902T16:21:15Z | CVE-2020-2551 | weblogic 漏洞扫描工具。目前包含 CVE-2014-4210、CVE-2016-0638、CVE-2016-3510、CVE-2017-3248、CVE-2017-3506、CVE-2017-10271、CVE-2018-2628、CVE-2018-2893、CVE-2018-2894、CVE-2018-3191、CVE-2018-3245、CVE-2018-3252、CVE-2019-2618、CVE-2019-2725、CVE-2019-2729、CVE-2019-2890、CVE-2020-2551 | https://github.com/0xn0ne/weblogicScanner | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
 | 20200902T15:55:31Z | CVE-2020-8218 | Tool to test for existence of CVE-2020-8218 | https://github.com/withdk/pulse-gosecure-rce-poc | Pulse Connect 安全 #9.1R8 中存在代码注入漏洞，允许攻击者制作 URI，以便通过管理员 Web 界面执行任意代码执行。| 
 | 20200902T14:54:02Z | CVE-2020-25068 | Python script to exploit CVE-2020-25068.  | https://github.com/bryanroma/CVE-2020-25068 | 未查询到CVE信息| 
@@ -90,16 +90,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20200902T12:56:12Z | Generates target specific word lists for Fuzzing with fuff | https://github.com/ethicalhackingplayground/wordlistgen | 0 | 0| 
-| 20200902T12:23:07Z | Dény® tools for archiving, visualization and fuzzing purposes.  | https://github.com/iomonad/deny-toolkit | 0 | 0| 
-| 20200902T12:14:21Z | A fuzzy parser for C/C++ that creates semantic code property graphs | https://github.com/ShiftLeftSecurity/fuzzyc2cpg | 36 | 11| 
-| 20200902T11:26:45Z | Escaya fuzzer | https://github.com/escaya/escaya-fuzzer | 0 | 0| 
-| 20200902T10:45:33Z | Web application fuzzer | https://github.com/xmendez/wfuzz | 3071 | 769| 
-| 20200902T10:14:52Z | workspace for random R projects | https://github.com/henryhansen/fuzzy-giggle | 0 | 0| 
-| 20200902T09:43:57Z | Null | https://github.com/fatihgurel/DirFuzzPython | 3 | 0| 
-| 20200902T08:38:54Z | Null | https://github.com/fuzzydeep/fuzzydeep | 0 | 0| 
-| 20200902T08:36:49Z | An app intended for fuzzing the Android Binder interface and System Services | https://github.com/ChickenHook/BinderFuzzy | 14 | 2| 
-| 20200902T08:31:25Z | The fuzzer afl++ is afl with community patches, AFLfast power schedules, qemu 3.1 upgrade + laf-intel support, MOpt mutators, InsTrim instrumentation, unicorn_mode, Redqueen and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 865 | 214| 
+| 20200902T23:58:35Z | Scalable fuzzing infrastructure. | https://github.com/google/clusterfuzz | 4312 | 386| 
+| 20200902T23:39:23Z | OSS-Fuzz - continuous fuzzing of open source software. | https://github.com/google/oss-fuzz | 5515 | 1083| 
+| 20200902T23:25:29Z | Null | https://github.com/corootine/fuzzy | 0 | 0| 
+| 20200902T23:21:44Z | Null | https://github.com/castellanos94/FuzzyLogicPy | 0 | 0| 
+| 20200902T21:14:44Z | Extendable module loader | https://github.com/terradistac/fuzzy-octo-engine | 0 | 0| 
+| 20200902T20:55:57Z | AFL++ as a library: gives you all the tools necessary to craft the best fuzzer for your targets with ease! | https://github.com/AFLplusplus/LibAFL | 67 | 2| 
+| 20200902T20:43:43Z | My Dotfile repository | https://github.com/bbunes/fuzzy-computing-machine-MyDFR | 0 | 0| 
+| 20200902T20:42:51Z | Code for fuzzy monkeys. | https://github.com/fuzzyatelin/fuzzyatelin.github.io | 1 | 9| 
+| 20200902T20:06:18Z | Music Synth Type Stuff | https://github.com/danfuzz/fuzz-synth | 0 | 0| 
+| 20200902T20:02:04Z | Fuzzy finder for every AWS component | https://github.com/AndreZiviani/aws-fuzzy | 0 | 1| 
 
 
 
