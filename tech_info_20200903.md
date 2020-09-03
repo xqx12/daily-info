@@ -26,11 +26,11 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20200903T12:10:43Z | CVE-2020-13162 | Exploit for CVE-2020-13162 | https://github.com/redtimmy/tu-TOCTOU-kaiu-TOCMEU-CVE-2020-13162- | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 13 MINUTES 26 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200903T10:53:52Z | CVE-2020-11896 | PoC for CVE-2020-11896 Treck TCP/IP stack and device asset investigation | https://github.com/Fans0n-Fan/Treck20-Related | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 13 MINUTES 13 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200903T12:10:43Z | CVE-2020-13162 | Exploit for CVE-2020-13162 | https://github.com/redtimmy/tu-TOCTOU-kaiu-TOCMEU-CVE-2020-13162- | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 11 MINUTES 28 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200903T10:53:52Z | CVE-2020-11896 | PoC for CVE-2020-11896 Treck TCP/IP stack and device asset investigation | https://github.com/Fans0n-Fan/Treck20-Related | | 
 | 20200903T10:29:19Z | 未知编号 | CVE Data Analysis, CVE Monitor, CVE EXP Prediction Based on Deep Learning. 1999-2020年存量CVE数据分析、监控CVE增量更新、基于深度学习的CVE EXP预测和自动化推送 | https://github.com/404notf0und/CVE-Flow | 未查询到CVE信息| 
-| 20200903T10:20:58Z | cve-2020-24616 | cve-2020-24616 poc | https://github.com/Kamimuka/cve-2020-24616-poc | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 13 MINUTES 28 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200903T08:29:12Z | CVE-2020-8218 | Tool to test for existence of CVE-2020-8218 | https://github.com/withdk/pulse-gosecure-rce-poc | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 13 MINUTES 19 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200903T10:20:58Z | cve-2020-24616 | cve-2020-24616 poc | https://github.com/Kamimuka/cve-2020-24616-poc | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 11 MINUTES 29 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200903T08:29:12Z | CVE-2020-8218 | Tool to test for existence of CVE-2020-8218 | https://github.com/withdk/pulse-gosecure-rce-poc | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 12 MINUTES 16 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 
 
 # klee on Github 推荐
@@ -49,6 +49,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20200903T12:48:11Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 5 | 2| 
+| 20200903T12:47:56Z | Null | https://github.com/sepehrdaddev/packetstorm-exploits | 2 | 4| 
 | 20200903T12:41:52Z | The official Exploit Database repository | https://github.com/offensive-security/exploitdb | 5499 | 1580| 
 | 20200903T12:35:11Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 7144 | 1153| 
 | 20200903T12:22:35Z | A curated set of algorithms that exploit the power and simplicity of golang | https://github.com/jeyabalajis/goalgos | 0 | 0| 
@@ -57,8 +59,6 @@
 | 20200903T11:01:02Z | This script runs powershell by which you can downloads many ps1 scripts and use many utilities for enumeration, privilege escalation and much more | https://github.com/FabioDefilippo/winallenum | 1 | 0| 
 | 20200903T10:43:48Z | Memcrashed ddos exploit - auto install with api shodan  :  PSKINdQe1GyxGgecYz2191H2JoS9qvgD | https://github.com/AleksZavg/memcrashed-ddos | 14 | 11| 
 | 20200903T10:40:30Z | anon-exploiter.github.io | https://github.com/Anon-Exploiter/anon-exploiter.github.io | 0 | 0| 
-| 20200903T10:13:44Z | Hypervisor Memory Introspection Core Library | https://github.com/hvmi/hvmi | 362 | 28| 
-| 20200903T09:12:07Z | A helpful Java Deserialization exploit framework based on ysoserial | https://github.com/wh1t3p1g/ysomap | 211 | 17| 
 
 
 # backdoor on Github 推荐
