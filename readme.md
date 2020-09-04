@@ -26,18 +26,23 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20200903T12:10:43Z | CVE-2020-13162 | Exploit for CVE-2020-13162 | https://github.com/redtimmy/tu-TOCTOU-kaiu-TOCMEU-CVE-2020-13162- | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 00 MINUTES 24 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200903T10:53:52Z | CVE-2020-11896 | PoC for CVE-2020-11896 Treck TCP/IP stack and device asset investigation | https://github.com/Fans0n-Fan/Treck20-Related | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 00 MINUTES 10 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200903T10:29:19Z | 未知编号 | CVE Data Analysis, CVE Monitor, CVE EXP Prediction Based on Deep Learning. 1999-2020年存量CVE数据分析、监控CVE增量更新、基于深度学习的CVE EXP预测和自动化推送 | https://github.com/404notf0und/CVE-Flow | 未查询到CVE信息| 
-| 20200903T10:20:58Z | cve-2020-24616 | cve-2020-24616 poc | https://github.com/Kamimuka/cve-2020-24616-poc | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 00 MINUTES 26 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200903T08:29:12Z | CVE-2020-8218 | Tool to test for existence of CVE-2020-8218 | https://github.com/withdk/pulse-gosecure-rce-poc | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 00 MINUTES 17 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200903T23:17:25Z | CVE-2020-8218 | Tool to test for existence of CVE-2020-8218 | https://github.com/withdk/pulse-gosecure-rce-poc | Pulse Connect 安全 #9.1R8 中存在代码注入漏洞，允许攻击者制作 URI，以便通过管理员 Web 界面执行任意代码执行。| 
+| 20200903T20:31:27Z | CVE-2020-13162 | Exploit for CVE-2020-13162 | https://github.com/redtimmy/tu-TOCTOU-kaiu-TOCMEU-CVE-2020-13162- | 适用于Windows的9.1.6之前的5.3 R70（运行于NT AUTHORITY / SYSTEM）的PulseSecure Client版本中的PulseSecureService.exe中的Check-of-time使用时间漏洞允许无特权的用户运行Microsoft Installer可执行文件具有更高的特权。| 
+| 20200903T14:48:25Z | 未知编号 | CVE Data Analysis, CVE Monitor, CVE EXP Prediction Based on Deep Learning. 1999-2020年存量CVE数据分析、监控CVE增量更新、基于深度学习的CVE EXP预测和自动化推送 | https://github.com/404notf0und/CVE-Flow | 未查询到CVE信息| 
+| 20200903T14:46:47Z | CVE-2020-17496 | (CVE-2020-17496) vBulletin 5.x Widget_tabbedcontainer_tab_panel RCE Vuln Test script | https://github.com/ludy-dev/vBulletin_5.x-tab_panel-RCE | vBulletin 5.5.4至5.6.2允许通过ajax / render / widget_tabbedcontainer_tab_panel请求中的精巧subWidgets数据执行远程命令。注意：由于CVE-2019-16759的修复不完整，所以存在此问题。| 
+| 20200903T13:27:21Z | CVE-2020-25068 | Python script to exploit CVE-2020-25068.  | https://github.com/bryanroma/CVE-2020-25068 | Setelsa Conacwin v3.7.1.2 易受本地文件包含漏洞的影响。此漏洞允许远程未经身份验证的攻击者通过 http：IP：PORT/. 读取服务器上的内部文件。/../路径/file_to_disclose遍历 URI。| 
+| 20200903T10:53:52Z | CVE-2020-11896 | PoC for CVE-2020-11896 Treck TCP/IP stack and device asset investigation | https://github.com/Fans0n-Fan/Treck20-Related | 6.0.1.66之前的Treck TCP / IP堆栈允许进行与IPv4隧道相关的远程代码执行。| 
+| 20200903T10:20:58Z | cve-2020-24616 | cve-2020-24616 poc | https://github.com/Kamimuka/cve-2020-24616-poc | FasterXML jackson-databin 在 2.9.10.6 之前处理序列化小工具和键入之间的交互，与 br.com.anteros.dbcp.AnterosDBCPDataSource （又名 Anteros-DBCP） 有关。| 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20200903T08:28:14Z | Null | https://github.com/chris-klee/chris-klee.github.io-portfolio-ChristianKlefke | 0 | 0| 
-| 20200903T04:22:05Z | RVT is a collection of tools/libraries to support both static and dynamic verification of Rust programs. | https://github.com/project-oak/rust-verification-tools | 4 | 1| 
+| 20200903T22:29:35Z | RVT is a collection of tools/libraries to support both static and dynamic verification of Rust programs. | https://github.com/project-oak/rust-verification-tools | 17 | 1| 
+| 20200903T21:10:20Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1477 | 452| 
+| 20200903T18:31:37Z | One place for all of my workshops | https://github.com/kleenxcoder/kleenxcoder-workshops | 0 | 0| 
+| 20200903T15:12:29Z | A tool that automatically calls Klee to solve for injection | https://github.com/Zzzode/KleeTool | 1 | 0| 
+| 20200903T13:49:16Z | Null | https://github.com/chris-klee/chris-klee.github.io-portfolio-ChristianKlefke | 1 | 0| 
 
 
 # s2e on Github 推荐
@@ -64,30 +69,31 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20200903T22:48:17Z | Hacking tools pack & backdoors generator. | https://github.com/AdrMXR/KitHack | 151 | 34| 
+| 20200903T22:46:16Z | PAM Backdoor | https://github.com/rek7/madlib | 4 | 1| 
+| 20200903T19:21:58Z | Creacion de puertas traseras (backdoors) para Metasploit-framework | https://github.com/byteSalgado/msfpayload | 10 | 2| 
+| 20200903T18:32:38Z | Backdoor that can open web-pages remotely | https://github.com/pro-extremecoder/URLBackdoor | 0 | 0| 
+| 20200903T17:00:21Z | adding a backdooruser using win32api | https://github.com/jfmaes/Backdoorplz | 28 | 9| 
+| 20200903T16:50:11Z | Testing malware for the windows os | https://github.com/Webins/windows-backdoor | 1 | 0| 
+| 20200903T16:41:48Z | 针对windows远程控制木马，具有一定隐蔽能力 | https://github.com/xd0419/SecretWindowsBackdoor | 0 | 0| 
+| 20200903T13:36:58Z | Full-featured C2 framework which silently persists on webserver via evil PHP oneliner :smiling_imp: | https://github.com/nil0x42/phpsploit | 985 | 302| 
 | 20200903T10:48:52Z | Null | https://github.com/LinyueSong/backdoor | 0 | 0| 
-| 20200903T09:40:25Z | Full-featured C2 framework which silently persists on webserver via evil PHP oneliner :smiling_imp: | https://github.com/nil0x42/phpsploit | 985 | 302| 
 | 20200903T09:15:00Z | Reverse shell using socket programming in python | https://github.com/YashSahsani/Multiclient-Reverse-shell | 0 | 0| 
-| 20200903T08:29:09Z | Hacking tools pack & backdoors generator. | https://github.com/AdrMXR/KitHack | 150 | 34| 
-| 20200903T06:34:04Z | Null | https://github.com/mayurikhadpe/Malware-backdoor-injection-in-OT-networks | 0 | 0| 
-| 20200903T05:34:19Z | Null | https://github.com/dheeraj7596/NlpBackdoor | 0 | 0| 
-| 20200903T03:46:51Z | Avyukt is a Exploitation Framework which can be used to generate Malicious Payloads and exploit Windows OS | https://github.com/Vedant-Bhalgama/Avyukt | 6 | 0| 
-| 20200903T01:00:38Z | Client applicion for feature-phone-android remote control framework. It helps feature-phone users to control their android devices with their old feature phone% vnote memo. | https://github.com/KYHSGeekCode/Remote-Controlled-Android-Client | 5 | 1| 
-| 20200903T00:10:05Z | Creacion de puertas traseras (backdoors) para Metasploit-framework | https://github.com/byteSalgado/msfpayload | 3 | 0| 
 
 
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20200903T12:57:42Z | Null | https://github.com/thepermanenturl/Fuzz-FirebaseAWS-deployed | 0 | 0| 
-| 20200903T12:46:56Z | Fast HTTP enumerator | https://github.com/RedTeamPentesting/monsoon | 89 | 12| 
-| 20200903T12:45:32Z | Null | https://github.com/RajatSablok/fuzzy-happiness-bookmarks | 0 | 0| 
-| 20200903T12:39:58Z | Fast web fuzzer written in Go | https://github.com/ffuf/ffuf | 2875 | 327| 
-| 20200903T12:38:15Z | Fuzzy string matching, publicly callable using API | https://github.com/thepermanenturl/Fuzzymatchserver | 0 | 0| 
-| 20200903T12:10:41Z | The Official Fuzzy Britches Repository | https://github.com/ThePapaw/fuzzybritches | 3 | 1| 
-| 20200903T11:42:53Z | Common Web Managers Fuzz Wordlists | https://github.com/kaimi-io/web-fuzz-wordlists | 82 | 16| 
-| 20200903T11:38:04Z | Search and download dictionaries for testing, bruteforcing, fuzzing and exploit-development. | https://github.com/pownjs/dicts | 9 | 0| 
-| 20200903T11:09:24Z | Potentially dangerous files | https://github.com/Bo0oM/fuzz.txt | 1267 | 228| 
-| 20200903T10:35:36Z | No idea what I%m doing | https://github.com/klecko/fuzz | 1 | 0| 
+| 20200903T23:54:59Z | The full R code that builds the FFAF system | https://github.com/owairdhi/FuzzyFAIR | 0 | 0| 
+| 20200903T23:50:12Z | OSS-Fuzz - continuous fuzzing of open source software. | https://github.com/google/oss-fuzz | 5517 | 1085| 
+| 20200903T23:24:22Z | Escaya fuzzer | https://github.com/escaya/escaya-fuzzer | 0 | 0| 
+| 20200903T23:11:42Z | Null | https://github.com/googleinterns/hw-fuzzing | 0 | 0| 
+| 20200903T23:00:18Z | repo of scripts | https://github.com/johanvargas/fuzzy-projects | 0 | 0| 
+| 20200903T22:39:31Z | Null | https://github.com/linzmcfab/fuzzy-couscous | 0 | 0| 
+| 20200903T22:14:05Z | Null | https://github.com/d0g4nay/elasticsearch-fuzzy | 0 | 0| 
+| 20200903T21:34:13Z | Fuzzy matching publications for fatcat (wip). | https://github.com/miku/fuzzycat | 0 | 0| 
+| 20200903T21:18:47Z | Fuzzco Nuxt template. | https://github.com/fuzzco/fuzznuxt | 2 | 0| 
+| 20200903T21:00:26Z | Test package for prebuilt fuzzaldrin-plus-fast | https://github.com/rajendrant/fuzzaldrin-plus-fast-test | 0 | 0| 
 
 
 
