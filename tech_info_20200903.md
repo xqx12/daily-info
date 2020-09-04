@@ -27,10 +27,10 @@
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
 | 20200903T23:17:25Z | CVE-2020-8218 | Tool to test for existence of CVE-2020-8218 | https://github.com/withdk/pulse-gosecure-rce-poc | Pulse Connect 安全 #9.1R8 中存在代码注入漏洞，允许攻击者制作 URI，以便通过管理员 Web 界面执行任意代码执行。| 
-| 20200903T20:31:27Z | CVE-2020-13162 | Exploit for CVE-2020-13162 | https://github.com/redtimmy/tu-TOCTOU-kaiu-TOCMEU-CVE-2020-13162- | 适用于Windows的9.1.6之前的5.3 R70（运行于NT AUTHORITY / SYSTEM）的PulseSecure Client版本中的PulseSecureService.exe中的Check-of-time使用时间漏洞允许无特权的用户运行Microsoft Installer可执行文件具有更高的特权。| 
+| 20200903T20:31:27Z | CVE-2020-13162 | Exploit for CVE-2020-13162 | https://github.com/redtimmy/tu-TOCTOU-kaiu-TOCMEU-CVE-2020-13162- | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 55 MINUTES 25 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20200903T14:48:25Z | 未知编号 | CVE Data Analysis, CVE Monitor, CVE EXP Prediction Based on Deep Learning. 1999-2020年存量CVE数据分析、监控CVE增量更新、基于深度学习的CVE EXP预测和自动化推送 | https://github.com/404notf0und/CVE-Flow | 未查询到CVE信息| 
 | 20200903T14:46:47Z | CVE-2020-17496 | (CVE-2020-17496) vBulletin 5.x Widget_tabbedcontainer_tab_panel RCE Vuln Test script | https://github.com/ludy-dev/vBulletin_5.x-tab_panel-RCE | vBulletin 5.5.4至5.6.2允许通过ajax / render / widget_tabbedcontainer_tab_panel请求中的精巧subWidgets数据执行远程命令。注意：由于CVE-2019-16759的修复不完整，所以存在此问题。| 
-| 20200903T13:27:21Z | CVE-2020-25068 | Python script to exploit CVE-2020-25068.  | https://github.com/bryanroma/CVE-2020-25068 | Setelsa Conacwin v3.7.1.2 易受本地文件包含漏洞的影响。此漏洞允许远程未经身份验证的攻击者通过 http：IP：PORT/. 读取服务器上的内部文件。/../路径/file_to_disclose遍历 URI。| 
+| 20200903T13:27:21Z | CVE-2020-25068 | Python script to exploit CVE-2020-25068.  | https://github.com/bryanroma/CVE-2020-25068 | | 
 | 20200903T10:53:52Z | CVE-2020-11896 | PoC for CVE-2020-11896 Treck TCP/IP stack and device asset investigation | https://github.com/Fans0n-Fan/Treck20-Related | 6.0.1.66之前的Treck TCP / IP堆栈允许进行与IPv4隧道相关的远程代码执行。| 
 | 20200903T10:20:58Z | cve-2020-24616 | cve-2020-24616 poc | https://github.com/Kamimuka/cve-2020-24616-poc | FasterXML jackson-databin 在 2.9.10.6 之前处理序列化小工具和键入之间的交互，与 br.com.anteros.dbcp.AnterosDBCPDataSource （又名 Anteros-DBCP） 有关。| 
 
@@ -48,6 +48,8 @@
 # s2e on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20200903T15:12:33Z | Performance analyzer for logs generated from violet S2E plugin | https://github.com/OrderLab/violet-trace-analyzer | 0 | 0| 
+| 20200903T15:10:09Z | Custom S2E plugins for Violet project | https://github.com/OrderLab/violet-s2e-plugins | 0 | 0| 
 | 20200903T07:25:54Z | Your S2E project management tools. Visit https://s2e.systems/docs to get started. | https://github.com/S2E/s2e-env | 63 | 29| 
 
 
