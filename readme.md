@@ -41,12 +41,12 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20200904T09:43:03Z | CVE-2020-13162 | Exploit for CVE-2020-13162 | https://github.com/redtimmy/tu-TOCTOU-kaiu-TOCMEU-CVE-2020-13162- | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 38 MINUTES 03 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200904T09:22:52Z | CVE-2020-0014 | CVE-2020-0014-Toast-复现 | https://github.com/tea9/CVE-2020-0014-Toast | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 38 MINUTES 07 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200904T09:43:03Z | CVE-2020-13162 | Exploit for CVE-2020-13162 | https://github.com/redtimmy/tu-TOCTOU-kaiu-TOCMEU-CVE-2020-13162- | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 36 MINUTES 08 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200904T09:22:52Z | CVE-2020-0014 | CVE-2020-0014-Toast-复现 | https://github.com/tea9/CVE-2020-0014-Toast | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 35 MINUTES 12 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20200904T08:53:52Z | 未知编号 | 2020l4web-first-repository-DanCvejn created by GitHub Classroom | https://github.com/pslib-cz/2020l4web-first-repository-DanCvejn | 未查询到CVE信息| 
 | 20200904T08:23:05Z | 未知编号 | CVE Data Analysis, CVE Monitor, CVE EXP Prediction Based on Deep Learning. 1999-2020年存量CVE数据分析、监控CVE增量更新、基于深度学习的CVE EXP预测和自动化推送 | https://github.com/404notf0und/CVE-Flow | 未查询到CVE信息| 
-| 20200904T08:20:43Z | CVE-2020-2551 | weblogic 漏洞扫描工具。目前包含 CVE-2014-4210、CVE-2016-0638、CVE-2016-3510、CVE-2017-3248、CVE-2017-3506、CVE-2017-10271、CVE-2018-2628、CVE-2018-2893、CVE-2018-2894、CVE-2018-3191、CVE-2018-3245、CVE-2018-3252、CVE-2019-2618、CVE-2019-2725、CVE-2019-2729、CVE-2019-2890、CVE-2020-2551 | https://github.com/0xn0ne/weblogicScanner | | 
-| 20200904T04:50:03Z | CVE-2020-8218 | Tool to test for existence of CVE-2020-8218 | https://github.com/withdk/pulse-gosecure-rce-poc | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 37 MINUTES 55 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200904T08:20:43Z | CVE-2020-2551 | weblogic 漏洞扫描工具。目前包含 CVE-2014-4210、CVE-2016-0638、CVE-2016-3510、CVE-2017-3248、CVE-2017-3506、CVE-2017-10271、CVE-2018-2628、CVE-2018-2893、CVE-2018-2894、CVE-2018-3191、CVE-2018-3245、CVE-2018-3252、CVE-2019-2618、CVE-2019-2725、CVE-2019-2729、CVE-2019-2890、CVE-2020-2551 | https://github.com/0xn0ne/weblogicScanner | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
+| 20200904T04:50:03Z | CVE-2020-8218 | Tool to test for existence of CVE-2020-8218 | https://github.com/withdk/pulse-gosecure-rce-poc | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 36 MINUTES 01 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 
 
 # klee on Github 推荐
@@ -95,6 +95,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20200904T12:23:40Z | Fuzzy Quantification of Common and Rare Species in Ecological Communities | https://github.com/Ligophorus/FuzzyQ | 0 | 0| 
 | 20200904T12:08:23Z | Library and command line utility to do approximate string matching of a source against a bitext index and get matched source and target.  | https://github.com/SYSTRAN/fuzzy-match | 2 | 0| 
 | 20200904T11:30:29Z | Fuzzy Match a name with a standard list | https://github.com/India-Alliance/Fuzzy-Matcher | 0 | 0| 
 | 20200904T11:08:07Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 3116 | 715| 
@@ -104,7 +105,6 @@
 | 20200904T09:35:23Z | Conduct OOB Fuzzing of targets with custom payloads towards callback server | https://github.com/CasperGN/oobfuzz | 0 | 0| 
 | 20200904T09:13:37Z | Just a collection of short projects/models I build | https://github.com/mitaliyadav/fuzzy-potato | 0 | 0| 
 | 20200904T09:04:22Z | Fuzzy matching publications for fatcat (wip). | https://github.com/miku/fuzzycat | 0 | 0| 
-| 20200904T09:00:59Z | 📚Experimenting with API testing: schema validation, generative tests, fuzzing and BDD | https://github.com/BenEdridge/test-thy-api | 0 | 1| 
 
 
 
