@@ -75,16 +75,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20200903T12:48:11Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 5 | 2| 
-| 20200903T12:47:56Z | Null | https://github.com/sepehrdaddev/packetstorm-exploits | 2 | 4| 
-| 20200903T12:41:52Z | The official Exploit Database repository | https://github.com/offensive-security/exploitdb | 5499 | 1580| 
-| 20200903T12:35:11Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 7144 | 1153| 
-| 20200903T12:22:35Z | A curated set of algorithms that exploit the power and simplicity of golang | https://github.com/jeyabalajis/goalgos | 0 | 0| 
-| 20200903T11:38:04Z | Search and download dictionaries for testing, bruteforcing, fuzzing and exploit-development. | https://github.com/pownjs/dicts | 9 | 0| 
-| 20200903T11:09:37Z | All things Binary Exploitation, Memory, Assembly and Corruptions. | https://github.com/TeamUnderdawgs/BinaryExploitation-For-CTFs | 1 | 3| 
-| 20200903T11:01:02Z | This script runs powershell by which you can downloads many ps1 scripts and use many utilities for enumeration, privilege escalation and much more | https://github.com/FabioDefilippo/winallenum | 1 | 0| 
-| 20200903T10:43:48Z | Memcrashed ddos exploit - auto install with api shodan  :  PSKINdQe1GyxGgecYz2191H2JoS9qvgD | https://github.com/AleksZavg/memcrashed-ddos | 14 | 11| 
-| 20200903T10:40:30Z | anon-exploiter.github.io | https://github.com/Anon-Exploiter/anon-exploiter.github.io | 0 | 0| 
+| 20200903T23:20:40Z | The AWS exploitation framework, designed for testing the security of Amazon Web Services environments. | https://github.com/RhinoSecurityLabs/pacu | 1591 | 290| 
+| 20200903T23:20:27Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 7147 | 1153| 
+| 20200903T22:47:50Z | A roblox exploit | https://github.com/zBackDoor-dev/BipolarityX | 0 | 0| 
+| 20200903T22:36:36Z | Automated All-in-One OS command injection and exploitation tool. | https://github.com/commixproject/commix | 2378 | 553| 
+| 20200903T21:50:24Z | A cheat sheet that contains common enumeration and attack methods for Windows Active Directory. | https://github.com/Integration-IT/Active-Directory-Exploitation-Cheat-Sheet | 502 | 113| 
+| 20200903T21:29:52Z | An asynchronous, collaborative post-exploitation agent powered by Python and .NET%s DLR | https://github.com/byt3bl33d3r/SILENTTRINITY | 1391 | 295| 
+| 20200903T21:19:33Z | Dante is vulnerability, version scanner; exploitation tool and report generator | https://github.com/kelj0/dante | 0 | 0| 
+| 20200903T21:10:02Z | Make School , BEW 2.3 , SSTI | https://github.com/KitsuneNoctus/Jinja2-ExploitMe | 0 | 0| 
+| 20200903T21:03:39Z | Exploits for vulnserver commands. | https://github.com/ruvolof/vulnserver-exploits | 0 | 0| 
+| 20200903T20:23:32Z | gekke exploit jwz | https://github.com/HIHIQY1/epic_noordhoff_online_antwoorden_exploit | 1 | 0| 
 
 
 # backdoor on Github 推荐
@@ -105,7 +105,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20200903T23:54:59Z | The full R code that builds the FFAF system | https://github.com/owairdhi/FuzzyFAIR | 0 | 0| 
+| 20200904T00:02:33Z | The full R code that builds the FFAF system | https://github.com/owairdhi/FuzzyFAIR | 0 | 0| 
 | 20200903T23:50:12Z | OSS-Fuzz - continuous fuzzing of open source software. | https://github.com/google/oss-fuzz | 5517 | 1085| 
 | 20200903T23:24:22Z | Escaya fuzzer | https://github.com/escaya/escaya-fuzzer | 0 | 0| 
 | 20200903T23:11:42Z | Null | https://github.com/googleinterns/hw-fuzzing | 0 | 0| 
