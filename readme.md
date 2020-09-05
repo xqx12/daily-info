@@ -21,7 +21,7 @@
 | --- | --- | --- | --- | ---| 
 | 20200905T10:31:37Z | 未知编号 | CVE Data Analysis, CVE Monitor, CVE EXP Prediction Based on Deep Learning. 1999-2020年存量CVE数据分析、监控CVE增量更新、基于深度学习的CVE EXP预测和自动化推送 | https://github.com/404notf0und/CVE-Flow | 未查询到CVE信息| 
 | 20200905T09:16:15Z | CVE-2020-2551 | weblogic 漏洞扫描工具。目前包含 CVE-2014-4210、CVE-2016-0638、CVE-2016-3510、CVE-2017-3248、CVE-2017-3506、CVE-2017-10271、CVE-2018-2628、CVE-2018-2893、CVE-2018-2894、CVE-2018-3191、CVE-2018-3245、CVE-2018-3252、CVE-2019-2618、CVE-2019-2725、CVE-2019-2729、CVE-2019-2890、CVE-2020-2551 | https://github.com/0xn0ne/weblogicScanner | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
-| 20200905T08:36:02Z | CVE-2020-8218 | Tool to test for existence of CVE-2020-8218 | https://github.com/withdk/pulse-gosecure-rce-poc | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 51 MINUTES 01 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200905T08:36:02Z | CVE-2020-8218 | Tool to test for existence of CVE-2020-8218 | https://github.com/withdk/pulse-gosecure-rce-poc | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 49 MINUTES 59 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 
 
 # klee on Github 推荐
@@ -43,6 +43,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20200905T12:10:24Z | An unsupervised method that combines Transformers and Capsule Networks to exploit spatial relations of different parts of an image. | https://github.com/karayanni/Stacked-Capsule-Autoencoder | 0 | 0| 
+| 20200905T12:09:44Z | Writeups, scripts and solutions for CTFs, Hack the Box, Vulnhub, exploit challenges, pwnables, crackmes, etc. Anything goes. | https://github.com/alichtman/writeups | 4 | 1| 
 | 20200905T11:50:08Z | Null | https://github.com/zed-zahir/zed-post-exploitation | 0 | 0| 
 | 20200905T10:56:32Z | Null | https://github.com/quentin452/Cats-Exploitz-HUB | 0 | 1| 
 | 20200905T10:46:16Z | PDSEGEN - ISPF Dialog application to exploit PDSE Version 2 Member Generations | https://github.com/lbdyck/pdsegen | 1 | 0| 
@@ -51,8 +53,6 @@
 | 20200905T09:06:15Z | Linux kernel exploitation notları | https://github.com/figbux/kernel-notlari | 1 | 0| 
 | 20200905T08:58:30Z | Null | https://github.com/Shadow-Developer/EasyExploits | 0 | 0| 
 | 20200905T07:59:28Z | Paradox Exploit code here | https://github.com/Matweuk2000/ParadoxExploit | 0 | 0| 
-| 20200905T07:51:28Z | iblessing is an iOS security exploiting toolkit, it mainly includes application information collection, static analysis and dynamic analysis. It can be used for reverse engineering, binary analysis and vulnerability mining. | https://github.com/Soulghost/iblessing | 180 | 29| 
-| 20200905T07:43:12Z | All scripts used in exploits are here | https://github.com/Matweuk2000/Scripts | 0 | 0| 
 
 
 # backdoor on Github 推荐
