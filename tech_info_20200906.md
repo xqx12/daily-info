@@ -40,6 +40,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20200906T12:41:32Z | A spigot based plugin dedicated to fixing glitches and exploits that have made it into final Minecraft releases. | https://github.com/dniym/IllegalStack | 21 | 9| 
 | 20200906T12:27:09Z | CSGO Spectators Analyzer will find if the spectator bug is being exploited. | https://github.com/redmantis0/csgo-spectators-analyzer | 0 | 0| 
 | 20200906T12:04:27Z | Build a database of libc offsets to simplify exploitation | https://github.com/niklasb/libc-database | 994 | 172| 
 | 20200906T11:49:54Z | this bash script let you download scripts and clone repos for remote exploits | https://github.com/FabioDefilippo/linuxallremote | 5 | 0| 
@@ -49,7 +50,6 @@
 | 20200906T11:34:29Z | A python based semi-automatic buffer overflow exploit script  | https://github.com/evets007/BOF-SemiAutomatic | 5 | 0| 
 | 20200906T11:28:57Z | Vulnerabilities, security advisories, exploit codes and proof-of-concept codes. | https://github.com/zeroscience/advisory | 4 | 4| 
 | 20200906T11:26:34Z | 1C Exploit Kit | https://github.com/KraudSecurity/1C-Exploit-Kit | 0 | 0| 
-| 20200906T10:58:20Z | This repository contains my findings specially about exploit kits, compromised web sites and another raw ioc information | https://github.com/AhmetHan/Strategic-Threat-Intelligence | 0 | 0| 
 
 
 # backdoor on Github 推荐
