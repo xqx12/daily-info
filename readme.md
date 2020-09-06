@@ -40,12 +40,12 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20200906T12:04:27Z | Build a database of libc offsets to simplify exploitation | https://github.com/niklasb/libc-database | 994 | 172| 
 | 20200906T12:02:18Z | CSGO Spectators Analyzer will find if the spectator bug is being exploited. | https://github.com/redmantis0/csgo-spectators-analyzer | 0 | 0| 
 | 20200906T11:49:54Z | this bash script let you download scripts and clone repos for remote exploits | https://github.com/FabioDefilippo/linuxallremote | 5 | 0| 
 | 20200906T11:45:27Z | Roblox exploit | https://github.com/PCNSIROJ/Roblox-Hack-TH | 0 | 0| 
 | 20200906T11:44:46Z | Blog! | https://github.com/nonetype/nonetype.github.io | 0 | 0| 
 | 20200906T11:35:10Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 7162 | 1161| 
-| 20200906T11:34:49Z | Build a database of libc offsets to simplify exploitation | https://github.com/niklasb/libc-database | 993 | 172| 
 | 20200906T11:34:29Z | A python based semi-automatic buffer overflow exploit script  | https://github.com/evets007/BOF-SemiAutomatic | 5 | 0| 
 | 20200906T11:28:57Z | Vulnerabilities, security advisories, exploit codes and proof-of-concept codes. | https://github.com/zeroscience/advisory | 4 | 4| 
 | 20200906T11:26:34Z | 1C Exploit Kit | https://github.com/KraudSecurity/1C-Exploit-Kit | 0 | 0| 
@@ -55,8 +55,11 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20200906T11:47:06Z | adding a backdooruser using win32api | https://github.com/jfmaes/Backdoorplz | 32 | 10| 
+| 20200906T09:28:21Z | Avyukt is a Exploitation Framework which can be used to generate Malicious Payloads and exploit Windows OS | https://github.com/Vedant-Bhalgama/Avyukt | 8 | 0| 
+| 20200906T09:04:50Z | Hacking tools pack & backdoors generator. | https://github.com/AdrMXR/KitHack | 153 | 33| 
+| 20200906T08:35:41Z | Null | https://github.com/edsonphx/Backdoor-BETA | 0 | 0| 
 | 20200906T02:29:11Z | A Backdoor written in Python 3 that enables the attacker to execute commands on the remote machine being undetectable. | https://github.com/Ryan-AW/Backdoor-Trojan | 0 | 0| 
-| 20200906T01:31:21Z | Hacking tools pack & backdoors generator. | https://github.com/AdrMXR/KitHack | 152 | 33| 
 
 
 # fuzz on Github 推荐
