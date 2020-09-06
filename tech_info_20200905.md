@@ -20,9 +20,9 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20200905T20:47:12Z | CVE-2020-8218 | Tool to test for existence of CVE-2020-8218 | https://github.com/withdk/pulse-gosecure-rce-poc | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 19 MINUTES 54 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200905T20:47:12Z | CVE-2020-8218 | Tool to test for existence of CVE-2020-8218 | https://github.com/withdk/pulse-gosecure-rce-poc | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 17 MINUTES 44 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20200905T14:08:54Z | CVE-2020-9484 | Null | https://github.com/anjai94/CVE-2020-9484-exploit | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
-| 20200905T09:16:15Z | CVE-2020-2551 | weblogic 漏洞扫描工具。目前包含 CVE-2014-4210、CVE-2016-0638、CVE-2016-3510、CVE-2017-3248、CVE-2017-3506、CVE-2017-10271、CVE-2018-2628、CVE-2018-2893、CVE-2018-2894、CVE-2018-3191、CVE-2018-3245、CVE-2018-3252、CVE-2019-2618、CVE-2019-2725、CVE-2019-2729、CVE-2019-2890、CVE-2020-2551 | https://github.com/0xn0ne/weblogicScanner | | 
+| 20200905T09:16:15Z | CVE-2020-2551 | weblogic 漏洞扫描工具。目前包含 CVE-2014-4210、CVE-2016-0638、CVE-2016-3510、CVE-2017-3248、CVE-2017-3506、CVE-2017-10271、CVE-2018-2628、CVE-2018-2893、CVE-2018-2894、CVE-2018-3191、CVE-2018-3245、CVE-2018-3252、CVE-2019-2618、CVE-2019-2725、CVE-2019-2729、CVE-2019-2890、CVE-2020-2551 | https://github.com/0xn0ne/weblogicScanner | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
 
 
 # klee on Github 推荐
@@ -72,7 +72,6 @@
 | --- | --- | --- | --- | ---| 
 | 20200905T23:27:05Z | Test | https://github.com/daniel-endraws/fuzzy-fiesta | 0 | 0| 
 | 20200905T23:17:53Z | A markov chain based fuzzer written in Go | https://github.com/baileywickham/fuzzer | 0 | 0| 
-| 20200905T23:08:47Z | Null | https://github.com/thiagodiasbispo/fuzzyclustering | 0 | 0| 
 | 20200905T22:34:37Z | Null | https://github.com/randomicons/fuzzydoro | 0 | 1| 
 | 20200905T22:08:03Z | No idea what I%m doing | https://github.com/klecko/fuzz | 1 | 0| 
 | 20200905T20:37:28Z | A human-readable clock for the Gnome-Shell panel | https://github.com/dallagi/gnome-shell-fuzzy-clock | 4 | 2| 
@@ -80,6 +79,7 @@
 | 20200905T20:25:42Z | The fastest functions for fuzzy search and items filtering | https://github.com/axules/fuzzy-tools | 0 | 0| 
 | 20200905T18:43:41Z | Differential Fuzzer for Ethereum 2.0 | https://github.com/sigp/beacon-fuzz | 42 | 8| 
 | 20200905T17:49:08Z | Null | https://github.com/wuchenxi/fuzzy | 0 | 0| 
+| 20200905T17:37:33Z | Basic BizzFuzz programme in Python. | https://github.com/orneto-inc/Python-bizz-fuzz- | 0 | 0| 
 
 
 
