@@ -31,38 +31,39 @@
 # 安全维基 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20200906 | WPA 企业模式的安全性和部署 | https://mp.weixin.qq.com/s/K0QRsJBpd57jmOQBGXBh-Q| 
+| 20200906 | 大学新生网络信息安全知识教育手册 | https://mp.weixin.qq.com/s/qUuGvRiAyhJBhtj7iW5Hcw| 
+| 20200906 | Cobalt Strike with CloudFlare | https://mp.weixin.qq.com/s/d6hu8YE-SGy-eruIWOwbXg| 
+| 20200906 | 国家安全微电影《危爱》 | https://mp.weixin.qq.com/s/nrNfuVEx44lGTD8aLPQN2w| 
 | 20200905 | PDF文件密码破解 | https://mp.weixin.qq.com/s/EH7Z_mJvuWxtbQdcXf3h4w| 
 | 20200905 | 红蓝对抗之邮件钓鱼攻击 | https://mp.weixin.qq.com/s/YKZ6yWWxOhn2KjTV5lDP7w| 
 | 20200905 | 基于因果关系的攻击溯源图构建技术 | https://mp.weixin.qq.com/s/ofP4j2TEfNoCYqrLhMsvZA| 
 | 20200904 | 基于inotify的Linux文件实时监控扫描 | https://github.com/MisakiKata/watchfile| 
 | 20200904 | 设备指纹指南：下篇 | https://www.anquanke.com/post/id/216262| 
 | 20200904 | Kunlun-Mirror 专注于安全研究员使用的审计辅助工具 | https://github.com/LoRexxar/Kunlun-M| 
-| 20200904 | 记一次对某非法站点从SQL注入到整站打包与本地搭建全过程 | https://xz.aliyun.com/t/8213| 
-| 20200904 | 极验反爬虫防护分析 | https://www.52pojie.cn/thread-1162979-1-1.html| 
-| 20200904 | 某终端检测响应平台代码审计挖掘（RCE） | https://mp.weixin.qq.com/s/3TC7TRAFceBWgj_ANA2etQ| 
-| 20200904 | 设备指纹指南：上篇 | https://www.anquanke.com/post/id/216259| 
 
 
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20200906T00:29:10Z | 未知编号 | CVE Data Analysis, CVE Monitor, CVE EXP Prediction Based on Deep Learning. 1999-2020年存量CVE数据分析、监控CVE增量更新、基于深度学习的CVE EXP预测和自动化推送 | https://github.com/404notf0und/CVE-Flow | 未查询到CVE信息| 
-| 20200905T20:47:12Z | CVE-2020-8218 | Tool to test for existence of CVE-2020-8218 | https://github.com/withdk/pulse-gosecure-rce-poc | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  20 HOURS 31 MINUTES 17 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200906T10:30:01Z | 未知编号 | CVE Data Analysis, CVE Monitor, CVE EXP Prediction Based on Deep Learning. 1999-2020年存量CVE数据分析、监控CVE增量更新、基于深度学习的CVE EXP预测和自动化推送 | https://github.com/404notf0und/CVE-Flow | 未查询到CVE信息| 
+| 20200906T06:22:09Z | CVE-2020-3452 | CVE-2020-3452 Cisco ASA Scanner -unauth Path Traversal Check | https://github.com/PR3R00T/CVE-2020-3452-Cisco-Scanner | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
+| 20200905T20:47:12Z | CVE-2020-8218 | Tool to test for existence of CVE-2020-8218 | https://github.com/withdk/pulse-gosecure-rce-poc | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 59 MINUTES 08 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20200905T14:08:54Z | CVE-2020-9484 | Null | https://github.com/anjai94/CVE-2020-9484-exploit | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
 | 20200905T09:16:15Z | CVE-2020-2551 | weblogic 漏洞扫描工具。目前包含 CVE-2014-4210、CVE-2016-0638、CVE-2016-3510、CVE-2017-3248、CVE-2017-3506、CVE-2017-10271、CVE-2018-2628、CVE-2018-2893、CVE-2018-2894、CVE-2018-3191、CVE-2018-3245、CVE-2018-3252、CVE-2019-2618、CVE-2019-2725、CVE-2019-2729、CVE-2019-2890、CVE-2020-2551 | https://github.com/0xn0ne/weblogicScanner | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
-| 20200904T20:34:52Z | CVE-2020-0014 | CVE-2020-0014-Toast-复现 | https://github.com/tea9/CVE-2020-0014-Toast | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  20 HOURS 31 MINUTES 28 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200904T18:13:47Z | CVE-2020-5902 | Exploits for CVE-2020-5902 POC  | https://github.com/itsjeffersonli/CVE-2020-5902 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  20 HOURS 31 MINUTES 13 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200904T09:43:03Z | CVE-2020-13162 | Exploit for CVE-2020-13162 | https://github.com/redtimmy/tu-TOCTOU-kaiu-TOCMEU-CVE-2020-13162- | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  20 HOURS 31 MINUTES 23 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200904T20:34:52Z | CVE-2020-0014 | CVE-2020-0014-Toast-复现 | https://github.com/tea9/CVE-2020-0014-Toast | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 59 MINUTES 19 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200904T18:13:47Z | CVE-2020-5902 | Exploits for CVE-2020-5902 POC  | https://github.com/itsjeffersonli/CVE-2020-5902 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 59 MINUTES 04 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200904T09:43:03Z | CVE-2020-13162 | Exploit for CVE-2020-13162 | https://github.com/redtimmy/tu-TOCTOU-kaiu-TOCMEU-CVE-2020-13162- | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 59 MINUTES 15 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20200904T08:53:52Z | 未知编号 | 2020l4web-first-repository-DanCvejn created by GitHub Classroom | https://github.com/pslib-cz/2020l4web-first-repository-DanCvejn | 未查询到CVE信息| 
-| 20200903T14:46:47Z | CVE-2020-17496 | (CVE-2020-17496) vBulletin 5.x Widget_tabbedcontainer_tab_panel RCE Vuln Test script | https://github.com/ludy-dev/vBulletin_5.x-tab_panel-RCE | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  20 HOURS 31 MINUTES 26 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200903T13:27:21Z | CVE-2020-25068 | Python script to exploit CVE-2020-25068.  | https://github.com/bryanroma/CVE-2020-25068 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  20 HOURS 31 MINUTES 22 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200903T14:46:47Z | CVE-2020-17496 | (CVE-2020-17496) vBulletin 5.x Widget_tabbedcontainer_tab_panel RCE Vuln Test script | https://github.com/ludy-dev/vBulletin_5.x-tab_panel-RCE | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 59 MINUTES 17 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20200906T00:43:38Z | RVT is a collection of tools/libraries to support both static and dynamic verification of Rust programs. | https://github.com/project-oak/rust-verification-tools | 63 | 2| 
-| 20200905T19:37:00Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1484 | 453| 
+| 20200906T09:04:27Z | RVT is a collection of tools/libraries to support both static and dynamic verification of Rust programs. | https://github.com/project-oak/rust-verification-tools | 64 | 2| 
+| 20200906T04:24:22Z | Null | https://github.com/KleeUT/kleeut.com | 0 | 0| 
+| 20200906T03:02:32Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1485 | 453| 
 | 20200905T11:32:37Z | Null | https://github.com/shabroek/Kleedkamerscherm | 0 | 0| 
 | 20200904T13:10:22Z | Create CFGs and compute complexity metrics for Python, C++, and Java code. | https://github.com/hmc-alpaqa/metrinome | 3 | 0| 
 | 20200904T06:27:40Z | Fork of S2E/klee | https://github.com/OrderLab/violet-s2e-klee | 0 | 0| 
@@ -70,7 +71,6 @@
 | 20200903T18:31:37Z | One place for all of my workshops | https://github.com/kleenxcoder/kleenxcoder-workshops | 0 | 0| 
 | 20200903T13:49:16Z | Null | https://github.com/chris-klee/chris-klee.github.io-portfolio-ChristianKlefke | 1 | 0| 
 | 20200902T21:46:02Z | Urban Evidence Based Policy (SPPA667) | https://github.com/KLeeDE/PUS2020_KLee | 0 | 0| 
-| 20200902T17:54:25Z | KLEE in the browser | https://github.com/klee/klee-web | 43 | 10| 
 
 
 # s2e on Github 推荐
@@ -91,16 +91,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20200906T01:45:09Z | Null | https://github.com/s0wr0b1ndef/Active-Directory-Exploitation- | 0 | 0| 
-| 20200906T01:32:02Z | Null | https://github.com/quentin452/Cats-Exploitz-HUB | 0 | 1| 
-| 20200906T00:23:40Z | An attack/exploit Detector that utilizes Polymorphism and Diversity | https://github.com/polyverse/zerotect | 9 | 1| 
-| 20200906T00:22:00Z | Collect exploit databases into a single SQLite file | https://github.com/notnullgames/exploitdb | 0 | 0| 
-| 20200906T00:03:53Z | Simple automated enumeration and exploitation helper through a reverse shell connection. This project is still in its infancy, please come back in a few weeks or months for more! | https://github.com/Pheelbert/phcat | 0 | 0| 
-| 20200905T23:25:03Z | Fast jacobian computation through sparsity exploitation and matrix coloring | https://github.com/JuliaDiff/SparseDiffTools.jl | 79 | 14| 
-| 20200905T23:16:48Z | Single-WebApp-Target essentials testing methodology tool starting at recon-information gathering for the juicy stuff ended up in exploitation. | https://github.com/osamahamad/Interesting-Things | 1 | 1| 
-| 20200905T23:16:43Z | Hacking the Art of Exploitation, learning about buffer overflows,heap overflows,race conditions and the c language features in general like pointers and syscalls | https://github.com/Nathan-Kimutai/the-art-of-exploitation | 0 | 0| 
-| 20200905T23:11:53Z | Null | https://github.com/Nlody/My-Exploit-With-Something-Cool | 0 | 0| 
-| 20200905T22:54:06Z | PS4 Exploit Host Menu for 6.72 FW | https://github.com/xforce505/Project-BETA | 0 | 0| 
+| 20200906T11:49:54Z | this bash script let you download scripts and clone repos for remote exploits | https://github.com/FabioDefilippo/linuxallremote | 5 | 0| 
+| 20200906T11:45:27Z | Roblox exploit | https://github.com/PCNSIROJ/Roblox-Hack-TH | 0 | 0| 
+| 20200906T11:44:46Z | Blog! | https://github.com/nonetype/nonetype.github.io | 0 | 0| 
+| 20200906T11:35:10Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 7162 | 1161| 
+| 20200906T11:34:49Z | Build a database of libc offsets to simplify exploitation | https://github.com/niklasb/libc-database | 993 | 172| 
+| 20200906T11:34:29Z | A python based semi-automatic buffer overflow exploit script  | https://github.com/evets007/BOF-SemiAutomatic | 5 | 0| 
+| 20200906T11:28:57Z | Vulnerabilities, security advisories, exploit codes and proof-of-concept codes. | https://github.com/zeroscience/advisory | 4 | 4| 
+| 20200906T11:26:34Z | 1C Exploit Kit | https://github.com/KraudSecurity/1C-Exploit-Kit | 0 | 0| 
+| 20200906T10:58:20Z | This repository contains my findings specially about exploit kits, compromised web sites and another raw ioc information | https://github.com/AhmetHan/Strategic-Threat-Intelligence | 0 | 0| 
+| 20200906T09:51:36Z | Null | https://github.com/Psychorot/ParadoxExploitGuncel | 0 | 0| 
 
 
 # backdoor on Github 推荐
@@ -121,16 +121,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20200906T11:00:13Z | The code behind getfursu.it | https://github.com/veelkoov/fuzzrake | 6 | 0| 
+| 20200906T09:49:17Z | The scripts that I developed for fuzzing, cracking, automating tasks... during pentesting boxes or challenges on HackTheBox | https://github.com/XMA-Lab/HTB-Scripts | 1 | 0| 
+| 20200906T08:34:31Z | Differential Fuzzer for Ethereum 2.0 | https://github.com/sigp/beacon-fuzz | 42 | 8| 
+| 20200906T07:04:37Z | OpenAPI 2.0 (Swagger) fuzzer written in python. Basically TnT for your API. | https://github.com/Teebytes/TnT-Fuzzer | 46 | 17| 
+| 20200906T06:57:04Z | Angora fuzzer for distributed environment | https://github.com/chowisely/D-Angora | 0 | 0| 
+| 20200906T06:00:09Z | 瓶颈渗透,web渗透,red红队,fuzz param,注释,js字典,ctf | https://github.com/7dog7/bottleneckOsmosis | 320 | 47| 
+| 20200906T04:38:18Z | Null | https://github.com/DaniloAraneda123/Fuzzy-patterns | 0 | 0| 
+| 20200906T04:02:54Z | Null | https://github.com/diogocarvalhorochamkt/fuzzy-octo-inven-o | 0 | 0| 
 | 20200906T02:23:29Z | Generate random valid Escaya format ASTs | https://github.com/escaya/escaya-fuzzer | 0 | 0| 
 | 20200906T01:38:58Z | Null | https://github.com/thiagodiasbispo/fuzzyclustering | 0 | 0| 
-| 20200906T01:10:28Z | Null | https://github.com/KevLehman/fuzzy-talk-api | 0 | 0| 
-| 20200906T01:05:51Z | Null | https://github.com/KevLehman/fuzzy-talk-web | 0 | 0| 
-| 20200905T23:27:05Z | Test | https://github.com/daniel-endraws/fuzzy-fiesta | 0 | 0| 
-| 20200905T23:17:53Z | A markov chain based fuzzer written in Go | https://github.com/baileywickham/fuzzer | 0 | 0| 
-| 20200905T22:34:37Z | Null | https://github.com/randomicons/fuzzydoro | 0 | 1| 
-| 20200905T22:08:03Z | No idea what I%m doing | https://github.com/klecko/fuzz | 1 | 0| 
-| 20200905T20:37:28Z | A human-readable clock for the Gnome-Shell panel | https://github.com/dallagi/gnome-shell-fuzzy-clock | 4 | 2| 
-| 20200905T20:29:50Z | The fastest Intel-PT decoder for fuzzing | https://github.com/nyx-fuzz/libxdc | 90 | 17| 
 
 
 
