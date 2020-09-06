@@ -66,6 +66,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20200906T12:41:33Z | This repository contains the codes performed during NNFL Labs. | https://github.com/Sid-149/Neural-Networks-and-Fuzzy-Logic | 0 | 0| 
 | 20200906T11:00:13Z | The code behind getfursu.it | https://github.com/veelkoov/fuzzrake | 6 | 0| 
 | 20200906T09:49:17Z | The scripts that I developed for fuzzing, cracking, automating tasks... during pentesting boxes or challenges on HackTheBox | https://github.com/XMA-Lab/HTB-Scripts | 1 | 0| 
 | 20200906T08:34:31Z | Differential Fuzzer for Ethereum 2.0 | https://github.com/sigp/beacon-fuzz | 42 | 8| 
@@ -75,7 +76,6 @@
 | 20200906T04:38:18Z | Null | https://github.com/DaniloAraneda123/Fuzzy-patterns | 0 | 0| 
 | 20200906T04:02:54Z | Null | https://github.com/diogocarvalhorochamkt/fuzzy-octo-inven-o | 0 | 0| 
 | 20200906T02:23:29Z | Generate random valid Escaya format ASTs | https://github.com/escaya/escaya-fuzzer | 0 | 0| 
-| 20200906T01:38:58Z | Null | https://github.com/thiagodiasbispo/fuzzyclustering | 0 | 0| 
 
 
 
