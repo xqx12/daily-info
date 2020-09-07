@@ -26,10 +26,10 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20200907T10:56:00Z | CVE-2020-0096 | CVE-2020-0096-StrandHogg2 复现 | https://github.com/tea9/CVE-2020-0096-StrandHogg2 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 44 MINUTES 31 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200907T10:56:00Z | CVE-2020-0096 | CVE-2020-0096-StrandHogg2 复现 | https://github.com/tea9/CVE-2020-0096-StrandHogg2 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 43 MINUTES 29 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20200907T10:28:24Z | 未知编号 | CVE Data Analysis, CVE Monitor, CVE EXP Prediction Based on Deep Learning. 1999-2020年存量CVE数据分析、监控CVE增量更新、基于深度学习的CVE EXP预测和自动化推送 | https://github.com/404notf0und/CVE-Flow | 未查询到CVE信息| 
-| 20200907T06:34:44Z | CVE-2020-0014 | CVE-2020-0014-Toast-复现 | https://github.com/tea9/CVE-2020-0014-Toast | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 44 MINUTES 28 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200907T06:22:52Z | cve-2020-24616 | cve-2020-24616 poc | https://github.com/Kamimuka/cve-2020-24616-poc | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 44 MINUTES 25 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200907T06:34:44Z | CVE-2020-0014 | CVE-2020-0014-Toast-复现 | https://github.com/tea9/CVE-2020-0014-Toast | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 43 MINUTES 26 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200907T06:22:52Z | cve-2020-24616 | cve-2020-24616 poc | https://github.com/Kamimuka/cve-2020-24616-poc | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 43 MINUTES 23 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 
 
 # klee on Github 推荐
@@ -46,7 +46,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20200907T12:07:21Z | Exploiting location data using computational inference algorithms | https://github.com/jaschoe/inference-algorithms | 0 | 0| 
+| 20200907T12:16:22Z | Exploiting GPS location data using computational inference algorithms to determine the exact home address of a target. | https://github.com/jaschoe/inference-algorithms | 0 | 0| 
 | 20200907T12:05:57Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 7168 | 1162| 
 | 20200907T11:55:11Z | Avyukt is a Exploitation Framework which can be used to generate Malicious Payloads and exploit Windows OS | https://github.com/Vedant-Bhalgama/Avyukt | 9 | 0| 
 | 20200907T11:51:48Z | My exploits for challenges on pwnable.kr | https://github.com/AravGarg/pwnable.kr | 0 | 0| 
