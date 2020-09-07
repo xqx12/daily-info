@@ -46,16 +46,16 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20200907T10:56:00Z | CVE-2020-0096 | CVE-2020-0096-StrandHogg2 复现 | https://github.com/tea9/CVE-2020-0096-StrandHogg2 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 39 MINUTES 30 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200907T10:28:24Z | 未知编号 | CVE Data Analysis, CVE Monitor, CVE EXP Prediction Based on Deep Learning. 1999-2020年存量CVE数据分析、监控CVE增量更新、基于深度学习的CVE EXP预测和自动化推送 | https://github.com/404notf0und/CVE-Flow | 未查询到CVE信息| 
-| 20200907T06:34:44Z | CVE-2020-0014 | CVE-2020-0014-Toast-复现 | https://github.com/tea9/CVE-2020-0014-Toast | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 39 MINUTES 27 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200907T06:22:52Z | cve-2020-24616 | cve-2020-24616 poc | https://github.com/Kamimuka/cve-2020-24616-poc | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 39 MINUTES 24 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200907T10:56:00Z | CVE-2020-0096 | CVE-2020-0096-StrandHogg2 复现 | https://github.com/tea9/CVE-2020-0096-StrandHogg2 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 36 MINUTES 30 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200907T10:28:24Z | 未知编号 | CVE Data Analysis, CVE Monitor, CVE EXP Prediction Based on Deep Learning. 1999-2020年存量CVE数据分析、监控CVE增量更新、基于深度学习的CVE EXP预测和自动化推送 | https://github.com/404notf0und/CVE-Flow | | 
+| 20200907T06:34:44Z | CVE-2020-0014 | CVE-2020-0014-Toast-复现 | https://github.com/tea9/CVE-2020-0014-Toast | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 37 MINUTES 28 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200907T06:22:52Z | cve-2020-24616 | cve-2020-24616 poc | https://github.com/Kamimuka/cve-2020-24616-poc | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 37 MINUTES 25 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20200906T16:59:30Z | CVE-2020-2551 | weblogic 漏洞扫描工具。目前包含 CVE-2014-4210、CVE-2016-0638、CVE-2016-3510、CVE-2017-3248、CVE-2017-3506、CVE-2017-10271、CVE-2018-2628、CVE-2018-2893、CVE-2018-2894、CVE-2018-3191、CVE-2018-3245、CVE-2018-3252、CVE-2019-2618、CVE-2019-2725、CVE-2019-2729、CVE-2019-2890、CVE-2020-2551 | https://github.com/0xn0ne/weblogicScanner | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
 | 20200906T06:22:09Z | CVE-2020-3452 | CVE-2020-3452 Cisco ASA Scanner -unauth Path Traversal Check | https://github.com/PR3R00T/CVE-2020-3452-Cisco-Scanner | | 
-| 20200905T20:47:12Z | CVE-2020-8218 | Tool to test for existence of CVE-2020-8218 | https://github.com/withdk/pulse-gosecure-rce-poc | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 39 MINUTES 16 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200905T20:47:12Z | CVE-2020-8218 | Tool to test for existence of CVE-2020-8218 | https://github.com/withdk/pulse-gosecure-rce-poc | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 37 MINUTES 16 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20200905T14:08:54Z | CVE-2020-9484 | Null | https://github.com/anjai94/CVE-2020-9484-exploit | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
-| 20200904T18:13:47Z | CVE-2020-5902 | Exploits for CVE-2020-5902 POC  | https://github.com/itsjeffersonli/CVE-2020-5902 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 39 MINUTES 13 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200904T09:43:03Z | CVE-2020-13162 | Exploit for CVE-2020-13162 | https://github.com/redtimmy/tu-TOCTOU-kaiu-TOCMEU-CVE-2020-13162- | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 39 MINUTES 23 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200904T18:13:47Z | CVE-2020-5902 | Exploits for CVE-2020-5902 POC  | https://github.com/itsjeffersonli/CVE-2020-5902 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 37 MINUTES 13 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200904T09:43:03Z | CVE-2020-13162 | Exploit for CVE-2020-13162 | https://github.com/redtimmy/tu-TOCTOU-kaiu-TOCMEU-CVE-2020-13162- | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 37 MINUTES 23 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 
 
 # klee on Github 推荐
@@ -91,6 +91,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20200907T12:21:48Z | :cat2:MedusaIt is an integrated platform with functions such as vulnerability scanning, vulnerability exploitation, subdomain detection, C segment scanning, asset discovery, and sensitive information detection. Currently contains 200+ vulnerabilities http://medusa.ascotbe.com | https://github.com/Ascotbe/Medusa | 416 | 115| 
 | 20200907T12:20:14Z | Exploiting GPS location data using computational inference algorithms to determine the exact home address of a target. | https://github.com/jaschoe/inference-algorithms | 0 | 0| 
 | 20200907T12:05:57Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 7168 | 1162| 
 | 20200907T11:55:11Z | Avyukt is a Exploitation Framework which can be used to generate Malicious Payloads and exploit Windows OS | https://github.com/Vedant-Bhalgama/Avyukt | 9 | 0| 
@@ -100,7 +101,6 @@
 | 20200907T11:13:41Z | Custom version of the original Overthrow.  Bugs squashed and squashing, exploits punishable by death, new businesses plus much more, oh and high steriod use by the AI ;) Discord link  https://discord.gg/ZdMMq9x | https://github.com/GerhartPapaGee/Overthrow-Martial-Law | 0 | 1| 
 | 20200907T10:41:43Z | Null | https://github.com/quentin452/Cats-Exploitz-HUB | 0 | 1| 
 | 20200907T10:41:17Z | an amazon react-clone that exploits react router and other cool stuff | https://github.com/rid3thespiral/amazon-react-clone | 0 | 0| 
-| 20200907T10:06:27Z | Blog! | https://github.com/nonetype/nonetype.github.io | 0 | 0| 
 
 
 # backdoor on Github 推荐
