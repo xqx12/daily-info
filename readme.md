@@ -27,7 +27,7 @@
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
 | 20200906T22:31:22Z | 未知编号 | CVE Data Analysis, CVE Monitor, CVE EXP Prediction Based on Deep Learning. 1999-2020年存量CVE数据分析、监控CVE增量更新、基于深度学习的CVE EXP预测和自动化推送 | https://github.com/404notf0und/CVE-Flow | 未查询到CVE信息| 
-| 20200906T16:59:30Z | CVE-2020-2551 | weblogic 漏洞扫描工具。目前包含 CVE-2014-4210、CVE-2016-0638、CVE-2016-3510、CVE-2017-3248、CVE-2017-3506、CVE-2017-10271、CVE-2018-2628、CVE-2018-2893、CVE-2018-2894、CVE-2018-3191、CVE-2018-3245、CVE-2018-3252、CVE-2019-2618、CVE-2019-2725、CVE-2019-2729、CVE-2019-2890、CVE-2020-2551 | https://github.com/0xn0ne/weblogicScanner | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
+| 20200906T16:59:30Z | CVE-2020-2551 | weblogic 漏洞扫描工具。目前包含 CVE-2014-4210、CVE-2016-0638、CVE-2016-3510、CVE-2017-3248、CVE-2017-3506、CVE-2017-10271、CVE-2018-2628、CVE-2018-2893、CVE-2018-2894、CVE-2018-3191、CVE-2018-3245、CVE-2018-3252、CVE-2019-2618、CVE-2019-2725、CVE-2019-2729、CVE-2019-2890、CVE-2020-2551 | https://github.com/0xn0ne/weblogicScanner | | 
 | 20200906T06:22:09Z | CVE-2020-3452 | CVE-2020-3452 Cisco ASA Scanner -unauth Path Traversal Check | https://github.com/PR3R00T/CVE-2020-3452-Cisco-Scanner | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
 
 
@@ -75,7 +75,6 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20200906T23:44:31Z | A Fuzz guitar effect pedal, designed with inspiration for some classic Fuzz pedals. | https://github.com/felipeb-oliveira/Fuzz-pedal | 0 | 0| 
 | 20200906T23:11:05Z | Pedal Multiefecto para guitarra electrica (LoopBack, Delay, Fuzz y Wah-wah) | https://github.com/jrosmirez94/Pedal-Multiefecto | 0 | 0| 
 | 20200906T20:37:39Z | FuzzBench - Fuzzer benchmarking as a service. | https://github.com/google/fuzzbench | 516 | 76| 
 | 20200906T20:12:24Z | Null | https://github.com/corootine/fuzzy | 0 | 0| 
@@ -85,6 +84,7 @@
 | 20200906T16:34:14Z | Null | https://github.com/himanish58/fuzzy-search | 0 | 0| 
 | 20200906T16:26:45Z | No idea what I%m doing | https://github.com/klecko/fuzz | 1 | 0| 
 | 20200906T16:00:09Z | Null | https://github.com/maxwellbade/fuzzy_matching | 0 | 0| 
+| 20200906T15:54:03Z | There are some attachments in the paper. | https://github.com/cwlin199809/Cost-Driven-Scheduling-for-Deadline-Based-Scientific-Workflows-within-a-Fuzzy-Edge-Cloud-Environment | 0 | 0| 
 
 
 
