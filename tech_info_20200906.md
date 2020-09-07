@@ -70,7 +70,6 @@
 | 20200906T11:47:06Z | adding a backdooruser using win32api | https://github.com/jfmaes/Backdoorplz | 32 | 10| 
 | 20200906T09:04:50Z | Hacking tools pack & backdoors generator. | https://github.com/AdrMXR/KitHack | 153 | 33| 
 | 20200906T08:35:41Z | Null | https://github.com/edsonphx/Backdoor-BETA | 0 | 0| 
-| 20200906T02:29:11Z | A Backdoor written in Python 3 that enables the attacker to execute commands on the remote machine being undetectable. | https://github.com/Ryan-AW/Backdoor-Trojan | 0 | 0| 
 
 
 # fuzz on Github 推荐
