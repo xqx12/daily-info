@@ -6,6 +6,9 @@
 # 玄武实验室 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20200906 | WSUS攻击第1部分：PyWSUS简介。 | https://www.gosecure.net/blog/2020/09/03/wsus-attacks-part-1-introducing-pywsus/| 
+| 20200906 | 源代码分析与利用API密钥研究。 | https://medium.com/bugbountywriteup/source-code-analysis-and-api-keys-exploitations-1796b3e731eb?source=rss----7b722bfd1b8d---4| 
+| 20200906 | 追踪Goddi –探索MITER ATT＆CK发现框架策略和技巧。 | https://awakesecurity.com/blog/hunting-for-goddi-uncovering-mitre-attck-discovery-tactics-techniques/| 
 
 
 # 安全维基 推荐
@@ -15,21 +18,27 @@
 | 20200906 | 大学新生网络信息安全知识教育手册 | https://mp.weixin.qq.com/s/qUuGvRiAyhJBhtj7iW5Hcw| 
 | 20200906 | Cobalt Strike with CloudFlare | https://mp.weixin.qq.com/s/d6hu8YE-SGy-eruIWOwbXg| 
 | 20200906 | 国家安全微电影《危爱》 | https://mp.weixin.qq.com/s/nrNfuVEx44lGTD8aLPQN2w| 
+| 20200906 | 文本对抗攻击基础、前沿及相关资源 | https://aminer.cn/research_report/5f50600e3c99ce0ab7bcb539?download=false| 
+| 20200906 | 《自然语言处理入门》详细笔记 | https://github.com/NLP-LOVE/Introduction-NLP| 
+| 20200906 | 2020年中国网络安全市场全景图 | https://mp.weixin.qq.com/s/W5SNkDjqFiD6hl0qQv0JUA| 
 
 
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20200906T12:29:07Z | 未知编号 | CVE Data Analysis, CVE Monitor, CVE EXP Prediction Based on Deep Learning. 1999-2020年存量CVE数据分析、监控CVE增量更新、基于深度学习的CVE EXP预测和自动化推送 | https://github.com/404notf0und/CVE-Flow | 未查询到CVE信息| 
+| 20200906T22:31:22Z | 未知编号 | CVE Data Analysis, CVE Monitor, CVE EXP Prediction Based on Deep Learning. 1999-2020年存量CVE数据分析、监控CVE增量更新、基于深度学习的CVE EXP预测和自动化推送 | https://github.com/404notf0und/CVE-Flow | 未查询到CVE信息| 
+| 20200906T16:59:30Z | CVE-2020-2551 | weblogic 漏洞扫描工具。目前包含 CVE-2014-4210、CVE-2016-0638、CVE-2016-3510、CVE-2017-3248、CVE-2017-3506、CVE-2017-10271、CVE-2018-2628、CVE-2018-2893、CVE-2018-2894、CVE-2018-3191、CVE-2018-3245、CVE-2018-3252、CVE-2019-2618、CVE-2019-2725、CVE-2019-2729、CVE-2019-2890、CVE-2020-2551 | https://github.com/0xn0ne/weblogicScanner | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
 | 20200906T06:22:09Z | CVE-2020-3452 | CVE-2020-3452 Cisco ASA Scanner -unauth Path Traversal Check | https://github.com/PR3R00T/CVE-2020-3452-Cisco-Scanner | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20200906T09:04:27Z | RVT is a collection of tools/libraries to support both static and dynamic verification of Rust programs. | https://github.com/project-oak/rust-verification-tools | 64 | 2| 
+| 20200906T22:34:29Z | Scala library for generation and manipulation of images treated as a point => color function. | https://github.com/skac112/klee | 0 | 0| 
+| 20200906T21:44:41Z | RVT is a collection of tools/libraries to support both static and dynamic verification of Rust programs. | https://github.com/project-oak/rust-verification-tools | 68 | 2| 
+| 20200906T18:45:55Z | Assets to be used for linking and Gists | https://github.com/lahiri-phdworks/Assets | 0 | 0| 
+| 20200906T15:45:43Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1487 | 454| 
 | 20200906T04:24:22Z | Null | https://github.com/KleeUT/kleeut.com | 0 | 0| 
-| 20200906T03:02:32Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1485 | 453| 
 
 
 # s2e on Github 推荐
@@ -40,24 +49,25 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20200906T12:56:16Z | CSGO Spectators Analyzer will find if the spectator bug is being exploited. | https://github.com/redmantis0/csgo-spectators-analyzer | 0 | 0| 
-| 20200906T12:46:53Z | this bash script let you download scripts and clone repos for remote exploits | https://github.com/FabioDefilippo/linuxallremote | 5 | 0| 
-| 20200906T12:46:02Z | Null | https://github.com/quentin452/Cats-Exploitz-HUB | 0 | 1| 
-| 20200906T12:43:00Z | this  bash script lets you choose a linux enumeration script, exploitation and utilities. read README.md file to learn about this script.. | https://github.com/FabioDefilippo/linuxallenum | 1 | 0| 
-| 20200906T12:41:32Z | A spigot based plugin dedicated to fixing glitches and exploits that have made it into final Minecraft releases. | https://github.com/dniym/IllegalStack | 21 | 9| 
-| 20200906T12:04:27Z | Build a database of libc offsets to simplify exploitation | https://github.com/niklasb/libc-database | 994 | 172| 
-| 20200906T11:45:27Z | Roblox exploit | https://github.com/PCNSIROJ/Roblox-Hack-TH | 0 | 0| 
-| 20200906T11:44:46Z | Blog! | https://github.com/nonetype/nonetype.github.io | 0 | 0| 
-| 20200906T11:35:10Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 7162 | 1161| 
-| 20200906T11:34:29Z | A python based semi-automatic buffer overflow exploit script  | https://github.com/evets007/BOF-SemiAutomatic | 5 | 0| 
+| 20200906T23:39:30Z | An attack/exploit Detector that utilizes Polymorphism and Diversity | https://github.com/polyverse/zerotect | 9 | 1| 
+| 20200906T22:54:27Z | A collection of Discord bugs and exploits | https://github.com/ecriminal/Discord-Exploit-Collection | 40 | 7| 
+| 20200906T22:41:43Z | Prep for AWAE collections of exploits & notes | https://github.com/latortuga71/AWAE-Prep-Exploits-Notes | 0 | 0| 
+| 20200906T22:32:27Z | Exploit Roblox | https://github.com/ZeeKayRBLX/ZeeSploit | 0 | 0| 
+| 20200906T22:18:36Z | Cyber Security Website Focusing on Penetration Testing, Exploit Development and Malware Analysis.  | https://github.com/bluehood/bluehood.github.io | 0 | 0| 
+| 20200906T22:02:19Z | Exploiter CSRF | https://github.com/apidotmy/CSRF | 0 | 0| 
+| 20200906T21:57:05Z | Vbulletin RCE Exploits | https://github.com/apidotmy/CVE-2019-16759 | 0 | 0| 
+| 20200906T21:16:07Z | A collection of solutions to binary exploitation challanges/CTFs | https://github.com/rmccarth/binexp | 1 | 0| 
+| 20200906T20:56:28Z | Java DNS Post Exploitation Tool | https://github.com/kryptops/lycanthropy | 1 | 0| 
+| 20200906T20:35:12Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 7163 | 1161| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20200906T12:29:36Z | Backdoor in C to learn windows socket programming and threads | https://github.com/PauloHenriqueFP/Ethical_Backdoor | 0 | 0| 
+| 20200906T20:10:25Z | Ghost Framework is an Android post-exploitation framework that exploits the Android Debug Bridge to remotely access an Android device. Ghost Framework gives you the power and convenience of remote Android device administration. | https://github.com/entynetproject/ghost | 685 | 347| 
+| 20200906T15:14:25Z | Avyukt is a Exploitation Framework which can be used to generate Malicious Payloads and exploit Windows OS | https://github.com/Vedant-Bhalgama/Avyukt | 8 | 0| 
+| 20200906T13:27:39Z | Backdoor in C to learn windows socket programming and threads | https://github.com/PauloHenriqueFP/Ethical_Backdoor | 0 | 0| 
 | 20200906T11:47:06Z | adding a backdooruser using win32api | https://github.com/jfmaes/Backdoorplz | 32 | 10| 
-| 20200906T09:28:21Z | Avyukt is a Exploitation Framework which can be used to generate Malicious Payloads and exploit Windows OS | https://github.com/Vedant-Bhalgama/Avyukt | 8 | 0| 
 | 20200906T09:04:50Z | Hacking tools pack & backdoors generator. | https://github.com/AdrMXR/KitHack | 153 | 33| 
 | 20200906T08:35:41Z | Null | https://github.com/edsonphx/Backdoor-BETA | 0 | 0| 
 | 20200906T02:29:11Z | A Backdoor written in Python 3 that enables the attacker to execute commands on the remote machine being undetectable. | https://github.com/Ryan-AW/Backdoor-Trojan | 0 | 0| 
@@ -66,16 +76,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20200906T12:43:46Z | Web application fuzzer | https://github.com/xmendez/wfuzz | 3079 | 776| 
-| 20200906T12:41:33Z | This repository contains the codes performed during NNFL Labs. | https://github.com/Sid-149/Neural-Networks-and-Fuzzy-Logic | 0 | 0| 
-| 20200906T11:00:13Z | The code behind getfursu.it | https://github.com/veelkoov/fuzzrake | 6 | 0| 
-| 20200906T09:49:17Z | The scripts that I developed for fuzzing, cracking, automating tasks... during pentesting boxes or challenges on HackTheBox | https://github.com/XMA-Lab/HTB-Scripts | 1 | 0| 
-| 20200906T08:34:31Z | Differential Fuzzer for Ethereum 2.0 | https://github.com/sigp/beacon-fuzz | 42 | 8| 
-| 20200906T07:04:37Z | OpenAPI 2.0 (Swagger) fuzzer written in python. Basically TnT for your API. | https://github.com/Teebytes/TnT-Fuzzer | 46 | 17| 
-| 20200906T06:57:04Z | Angora fuzzer for distributed environment | https://github.com/chowisely/D-Angora | 0 | 0| 
-| 20200906T06:00:09Z | 瓶颈渗透,web渗透,red红队,fuzz param,注释,js字典,ctf | https://github.com/7dog7/bottleneckOsmosis | 320 | 47| 
-| 20200906T04:38:18Z | Null | https://github.com/DaniloAraneda123/Fuzzy-patterns | 0 | 0| 
-| 20200906T04:02:54Z | Null | https://github.com/diogocarvalhorochamkt/fuzzy-octo-inven-o | 0 | 0| 
+| 20200906T23:44:31Z | A Fuzz guitar effect pedal, designed with inspiration for some classic Fuzz pedals. | https://github.com/felipeb-oliveira/Fuzz-pedal | 0 | 0| 
+| 20200906T23:11:05Z | Pedal Multiefecto para guitarra electrica (LoopBack, Delay, Fuzz y Wah-wah) | https://github.com/jrosmirez94/Pedal-Multiefecto | 0 | 0| 
+| 20200906T20:37:39Z | FuzzBench - Fuzzer benchmarking as a service. | https://github.com/google/fuzzbench | 516 | 76| 
+| 20200906T20:12:24Z | Null | https://github.com/corootine/fuzzy | 0 | 0| 
+| 20200906T19:43:57Z | A human-readable clock for the Gnome-Shell panel | https://github.com/dallagi/gnome-shell-fuzzy-clock | 4 | 2| 
+| 20200906T19:20:08Z | Repository holding database dumps from getfursu.it | https://github.com/veelkoov/fuzzrake-data | 0 | 0| 
+| 20200906T19:03:07Z | Null | https://github.com/castellanos94/FuzzyLogicPy | 0 | 0| 
+| 20200906T16:34:14Z | Null | https://github.com/himanish58/fuzzy-search | 0 | 0| 
+| 20200906T16:26:45Z | No idea what I%m doing | https://github.com/klecko/fuzz | 1 | 0| 
+| 20200906T16:00:09Z | Null | https://github.com/maxwellbade/fuzzy_matching | 0 | 0| 
 
 
 
