@@ -6,6 +6,15 @@
 # 玄武实验室 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20200907 | r2con2020 会议的视频在 Youtube 公开了 | http://radare.org/con/2020/youtube| 
+| 20200907 | R2Con 2020 会议代码反混淆 Workshop 的 PPT 和工具 | https://github.com/mrphrazer/r2con2020_deobfuscation| 
+| 20200907 | ARM Memory Tagging Extension 保护机制的介绍 | https://proteas.github.io/ios/2020/09/04/mte-intro-zhCN.html| 
+| 20200907 | 红蓝对抗之邮件钓鱼攻击 | https://security.tencent.com/index.php/blog/msg/165| 
+| 20200907 | Ghdira 插件，为 Ghdira 提供调用 Angr 符号执行引擎的支持 | https://github.com/Nalen98/AngryGhidra| 
+| 20200907 | 利用规则匹配的方式禁用 Windows Event Logging，避免被防御者检测到 | https://blog.dylan.codes/pwning-windows-event-logging/| 
+| 20200907 | Simple Bugs With Complex Exploits, V8 Issue 2046 漏洞分析及利用的细节 | https://www.elttam.com/blog/simple-bugs-with-complex-exploits/| 
+| 20200907 | Shell Create Object Task Server 本地提权漏洞分析及 PoC | https://docs.google.com/document/d/e/2PACX-1vTP5OvJToWToMOKyeMyPcIPJhqbnESgWY6dYje9seJY96-ezCEJbXsMkfMWhoqPRaCNRs6BOO7urQyF/pub| 
+| 20200907 | 利用 Prototype 污染的方法绕过常见的 HTML XSS 检查器 | https://research.securitum.com/prototype-pollution-and-bypassing-client-side-html-sanitizers/| 
 | 20200906 | WSUS攻击第1部分：PyWSUS简介。 | https://www.gosecure.net/blog/2020/09/03/wsus-attacks-part-1-introducing-pywsus/| 
 | 20200906 | 源代码分析与利用API密钥研究。 | https://medium.com/bugbountywriteup/source-code-analysis-and-api-keys-exploitations-1796b3e731eb?source=rss----7b722bfd1b8d---4| 
 | 20200906 | 追踪Goddi –探索MITER ATT＆CK发现框架策略和技巧。 | https://awakesecurity.com/blog/hunting-for-goddi-uncovering-mitre-attck-discovery-tactics-techniques/| 
@@ -17,20 +26,12 @@
 | 20200904 | Collection of Twitter Bug Bounty Tips and Tricks | https://github.com/giteshnxtlvl/YourNextBugTip| 
 | 20200904 | 利用机器学习和 AMSI 接口阻断 Active Directory 和其他渗透工具的执行 | https://www.microsoft.com/security/blog/2020/08/27/stopping-active-directory-attacks-and-other-post-exploitation-behavior-with-amsi-and-machine-learning/| 
 | 20200904 | PTSecurity 安全团队总结的 IDA Pro 逆向分析中常用的几个小技巧 | https://swarm.ptsecurity.com/ida-pro-tips/| 
-| 20200904 | 攻击者滥用 Google DNS over HTTPS 下载恶意软件 | https://sec.today/pulses/3ed4d143-48b5-4bfc-a7e3-c135949d724f/| 
-| 20200904 | FLUFFI - A distributed evolutionary binary fuzzer for pentesters. | https://github.com/siemens/fluffi| 
-| 20200904 | Facebook 将在它管理的开源代码中挖掘漏洞并披露给相关厂商 | https://sec.today/pulses/ce0e51ee-7995-42b8-ac27-b99b15432e0a/| 
-| 20200904 | ZDI 对 Adobe Reader Render 进程一个 UAF 漏洞的分析 | https://sec.today/pulses/5314e84f-c91f-408d-9617-87a4656419ec/| 
-| 20200904 | Windows 10 最新版 Hyper-V 拒绝服务漏洞分析 | https://sec.today/pulses/f510b047-54d8-43fe-843e-cda0d2c7e956/| 
-| 20200904 | Facebook 将在它管理的开源代码中挖掘漏洞并披露给相关厂商 | https://www.zdnet.com/article/facebook-explains-how-it-will-notify-third-parties-about-bugs-in-their-products/| 
-| 20200904 | ZDI 对 Adobe Reader Render 进程一个 UAF 漏洞的分析 | https://www.thezdi.com/blog/2020/9/2/cve-2020-9715-exploiting-a-use-after-free-in-adobe-reader| 
-| 20200904 | Windows 10 最新版 Hyper-V 拒绝服务漏洞分析 | https://hvinternals.blogspot.com/2020/09/hyper-v-nested-virtualization-dos.html| 
-| 20200903 | PowerShell Remoting from Linux to Windows | https://blog.quickbreach.io/blog/powershell-remoting-from-linux-to-windows/| 
 
 
 # 安全维基 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20200907 | JavaParse(AST)获取Java Web API list | https://mp.weixin.qq.com/s/ATpoEN9QI-D5vkxDimQ8FQ| 
 | 20200906 | WPA 企业模式的安全性和部署 | https://mp.weixin.qq.com/s/K0QRsJBpd57jmOQBGXBh-Q| 
 | 20200906 | 大学新生网络信息安全知识教育手册 | https://mp.weixin.qq.com/s/qUuGvRiAyhJBhtj7iW5Hcw| 
 | 20200906 | Cobalt Strike with CloudFlare | https://mp.weixin.qq.com/s/d6hu8YE-SGy-eruIWOwbXg| 
@@ -40,22 +41,21 @@
 | 20200906 | 2020年中国网络安全市场全景图 | https://mp.weixin.qq.com/s/W5SNkDjqFiD6hl0qQv0JUA| 
 | 20200905 | PDF文件密码破解 | https://mp.weixin.qq.com/s/EH7Z_mJvuWxtbQdcXf3h4w| 
 | 20200905 | 红蓝对抗之邮件钓鱼攻击 | https://mp.weixin.qq.com/s/YKZ6yWWxOhn2KjTV5lDP7w| 
-| 20200905 | 基于因果关系的攻击溯源图构建技术 | https://mp.weixin.qq.com/s/ofP4j2TEfNoCYqrLhMsvZA| 
 
 
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20200906T22:31:22Z | 未知编号 | CVE Data Analysis, CVE Monitor, CVE EXP Prediction Based on Deep Learning. 1999-2020年存量CVE数据分析、监控CVE增量更新、基于深度学习的CVE EXP预测和自动化推送 | https://github.com/404notf0und/CVE-Flow | 未查询到CVE信息| 
+| 20200907T10:56:00Z | CVE-2020-0096 | CVE-2020-0096-StrandHogg2 复现 | https://github.com/tea9/CVE-2020-0096-StrandHogg2 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 58 MINUTES 38 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200907T10:28:24Z | 未知编号 | CVE Data Analysis, CVE Monitor, CVE EXP Prediction Based on Deep Learning. 1999-2020年存量CVE数据分析、监控CVE增量更新、基于深度学习的CVE EXP预测和自动化推送 | https://github.com/404notf0und/CVE-Flow | 未查询到CVE信息| 
+| 20200907T06:34:44Z | CVE-2020-0014 | CVE-2020-0014-Toast-复现 | https://github.com/tea9/CVE-2020-0014-Toast | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 58 MINUTES 35 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200907T06:22:52Z | cve-2020-24616 | cve-2020-24616 poc | https://github.com/Kamimuka/cve-2020-24616-poc | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 58 MINUTES 32 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20200906T16:59:30Z | CVE-2020-2551 | weblogic 漏洞扫描工具。目前包含 CVE-2014-4210、CVE-2016-0638、CVE-2016-3510、CVE-2017-3248、CVE-2017-3506、CVE-2017-10271、CVE-2018-2628、CVE-2018-2893、CVE-2018-2894、CVE-2018-3191、CVE-2018-3245、CVE-2018-3252、CVE-2019-2618、CVE-2019-2725、CVE-2019-2729、CVE-2019-2890、CVE-2020-2551 | https://github.com/0xn0ne/weblogicScanner | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
 | 20200906T06:22:09Z | CVE-2020-3452 | CVE-2020-3452 Cisco ASA Scanner -unauth Path Traversal Check | https://github.com/PR3R00T/CVE-2020-3452-Cisco-Scanner | | 
-| 20200905T20:47:12Z | CVE-2020-8218 | Tool to test for existence of CVE-2020-8218 | https://github.com/withdk/pulse-gosecure-rce-poc | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 00 MINUTES 12 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200905T20:47:12Z | CVE-2020-8218 | Tool to test for existence of CVE-2020-8218 | https://github.com/withdk/pulse-gosecure-rce-poc | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 58 MINUTES 24 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20200905T14:08:54Z | CVE-2020-9484 | Null | https://github.com/anjai94/CVE-2020-9484-exploit | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
-| 20200904T20:34:52Z | CVE-2020-0014 | CVE-2020-0014-Toast-复现 | https://github.com/tea9/CVE-2020-0014-Toast | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 00 MINUTES 23 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200904T18:13:47Z | CVE-2020-5902 | Exploits for CVE-2020-5902 POC  | https://github.com/itsjeffersonli/CVE-2020-5902 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 00 MINUTES 09 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200904T09:43:03Z | CVE-2020-13162 | Exploit for CVE-2020-13162 | https://github.com/redtimmy/tu-TOCTOU-kaiu-TOCMEU-CVE-2020-13162- | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 00 MINUTES 20 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200904T08:53:52Z | 未知编号 | 2020l4web-first-repository-DanCvejn created by GitHub Classroom | https://github.com/pslib-cz/2020l4web-first-repository-DanCvejn | 未查询到CVE信息| 
-| 20200903T14:46:47Z | CVE-2020-17496 | (CVE-2020-17496) vBulletin 5.x Widget_tabbedcontainer_tab_panel RCE Vuln Test script | https://github.com/ludy-dev/vBulletin_5.x-tab_panel-RCE | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 00 MINUTES 21 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200904T18:13:47Z | CVE-2020-5902 | Exploits for CVE-2020-5902 POC  | https://github.com/itsjeffersonli/CVE-2020-5902 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 58 MINUTES 21 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200904T09:43:03Z | CVE-2020-13162 | Exploit for CVE-2020-13162 | https://github.com/redtimmy/tu-TOCTOU-kaiu-TOCMEU-CVE-2020-13162- | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 58 MINUTES 31 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 
 
 # klee on Github 推荐
@@ -91,16 +91,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20200907T01:34:30Z | Null | https://github.com/davbro17/exploit | 0 | 0| 
-| 20200907T01:23:42Z | Exploiting BERT for End-to-End Aspect-based Sentiment Analysis (W-NUT@EMNLP 2019) | https://github.com/lixin4ever/BERT-E2E-ABSA | 135 | 29| 
-| 20200907T00:39:16Z | Scripts used in Blockchain Exploitation Blog | https://github.com/cclabsInc/BlockChainExploitation | 2 | 5| 
-| 20200907T00:27:15Z | Working exploit code for the POODLE attack on SSLv3 | https://github.com/SteffeyDev/poodle | 6 | 3| 
-| 20200906T23:39:30Z | An attack/exploit Detector that utilizes Polymorphism and Diversity | https://github.com/polyverse/zerotect | 9 | 1| 
-| 20200906T22:54:27Z | A collection of Discord bugs and exploits | https://github.com/ecriminal/Discord-Exploit-Collection | 40 | 7| 
-| 20200906T22:41:43Z | Prep for AWAE collections of exploits & notes | https://github.com/latortuga71/AWAE-Prep-Exploits-Notes | 0 | 0| 
-| 20200906T22:32:27Z | Exploit Roblox | https://github.com/ZeeKayRBLX/ZeeSploit | 0 | 0| 
-| 20200906T22:18:36Z | Cyber Security Website Focusing on Penetration Testing, Exploit Development and Malware Analysis.  | https://github.com/bluehood/bluehood.github.io | 0 | 0| 
-| 20200906T22:02:19Z | Exploiter CSRF | https://github.com/apidotmy/CSRF | 0 | 0| 
+| 20200907T11:55:11Z | Avyukt is a Exploitation Framework which can be used to generate Malicious Payloads and exploit Windows OS | https://github.com/Vedant-Bhalgama/Avyukt | 9 | 0| 
+| 20200907T11:53:41Z | Exploiting location data using computational inference algorithms | https://github.com/jaschoe/inference-algorithms | 0 | 0| 
+| 20200907T11:51:48Z | My exploits for challenges on pwnable.kr | https://github.com/AravGarg/pwnable.kr | 0 | 0| 
+| 20200907T11:49:34Z | Apollo is a post-exploitation tool for managing, enumerating and pivotting on compromised machines. | https://github.com/thecoderstudio/apollo | 5 | 0| 
+| 20200907T11:37:51Z | Exploiting location data using computational inference algorithms | https://github.com/Schoepplenberg/inference-algorithms | 0 | 0| 
+| 20200907T11:35:11Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 7167 | 1162| 
+| 20200907T11:13:41Z | Custom version of the original Overthrow.  Bugs squashed and squashing, exploits punishable by death, new businesses plus much more, oh and high steriod use by the AI ;) Discord link  https://discord.gg/ZdMMq9x | https://github.com/GerhartPapaGee/Overthrow-Martial-Law | 0 | 1| 
+| 20200907T10:41:43Z | Null | https://github.com/quentin452/Cats-Exploitz-HUB | 0 | 1| 
+| 20200907T10:41:17Z | an amazon react-clone that exploits react router and other cool stuff | https://github.com/rid3thespiral/amazon-react-clone | 0 | 0| 
+| 20200907T10:06:27Z | Blog! | https://github.com/nonetype/nonetype.github.io | 0 | 0| 
 
 
 # backdoor on Github 推荐
@@ -121,16 +121,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20200907T00:59:54Z | A Fuzz guitar effect pedal, designed with inspiration for some classic Fuzz pedals. | https://github.com/felipeb-oliveira/Fuzz-pedal | 0 | 0| 
-| 20200907T00:59:12Z | AFL++ as a library: gives you all the tools necessary to craft the best fuzzer for your targets with ease! | https://github.com/AFLplusplus/LibAFL | 72 | 2| 
-| 20200906T23:11:05Z | Pedal Multiefecto para guitarra electrica (LoopBack, Delay, Fuzz y Wah-wah) | https://github.com/jrosmirez94/Pedal-Multiefecto | 0 | 0| 
-| 20200906T20:37:39Z | FuzzBench - Fuzzer benchmarking as a service. | https://github.com/google/fuzzbench | 516 | 76| 
-| 20200906T20:12:24Z | Null | https://github.com/corootine/fuzzy | 0 | 0| 
-| 20200906T19:43:57Z | A human-readable clock for the Gnome-Shell panel | https://github.com/dallagi/gnome-shell-fuzzy-clock | 4 | 2| 
-| 20200906T19:20:08Z | Repository holding database dumps from getfursu.it | https://github.com/veelkoov/fuzzrake-data | 0 | 0| 
-| 20200906T19:03:07Z | Null | https://github.com/castellanos94/FuzzyLogicPy | 0 | 0| 
-| 20200906T16:34:14Z | Null | https://github.com/himanish58/fuzzy-search | 0 | 0| 
-| 20200906T16:26:45Z | No idea what I%m doing | https://github.com/klecko/fuzz | 1 | 0| 
+| 20200907T11:54:45Z | Null | https://github.com/Ishaan29/fuzzy-chainsaw-algo | 1 | 0| 
+| 20200907T11:53:57Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 26637 | 12978| 
+| 20200907T11:16:42Z | My Implementation Of A Multi Paradigm Programming Language | https://github.com/ScarletMetal/fuzz | 0 | 0| 
+| 20200907T11:02:57Z | A JavaScript Engine Fuzzer | https://github.com/googleprojectzero/fuzzilli | 1015 | 163| 
+| 20200907T11:00:59Z | Null | https://github.com/johan-martenson/settlers-fuzzing | 0 | 0| 
+| 20200907T10:30:42Z | Tidal autocoder | https://github.com/tidalcycles/tidal-fuzz | 6 | 1| 
+| 20200907T10:22:56Z | Fuzzy match candidates from an input string. | https://github.com/vindarel/fuzzy-match | 6 | 0| 
+| 20200907T10:07:49Z | Differential Fuzzer for Ethereum 2.0 | https://github.com/sigp/beacon-fuzz | 42 | 8| 
+| 20200907T09:48:46Z | Null | https://github.com/gbftdlie/Graph-based-fuzz-testing | 1 | 0| 
+| 20200907T09:25:48Z | OSS-Fuzz - continuous fuzzing of open source software. | https://github.com/google/oss-fuzz | 5520 | 1083| 
 
 
 
