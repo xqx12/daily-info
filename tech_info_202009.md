@@ -6,6 +6,15 @@
 # 玄武实验室 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20200908 | WhatsApp 修复了 6 个漏洞 | https://gbhackers.com/whatsapp-vulnerability-2/| 
+| 20200908 | CVE-2019-2215 Android Binder Use-after-free on Samsung S9 | https://duasynt.com/blog/cve-2019-2215-android-binder-uaf-s9| 
+| 20200908 | 支持在 ARM 平台 Linux 系统运行的 Ghidra | https://assets.checkra.in/labo/ghidra/| 
+| 20200908 | 从公开的渠道收集信息，挖掘可能存在的开源项目的漏洞 | https://arxiv.org/abs/2009.01694| 
+| 20200908 | Issue 1086890: Security: Missing array size check in NewFixedArray | https://bugs.chromium.org/p/chromium/issues/detail?id=1086890| 
+| 20200908 | TREVORspray - 微软 Office 365 密码爆破工具 | https://github.com/blacklanternsecurity/TREVORspray| 
+| 20200908 | YaraSploit - 为 Metasploit Shellcodes 生成的 Yara Rules | https://github.com/thewhiteninja/yarasploit| 
+| 20200908 | Google CTF 2020 teleport Chromium sandbox escape | https://trungnguyen1909.github.io/blog/post/GGCTF20/| 
+| 20200908 | Adobe AEM CMS 产品的多个漏洞的分析 | https://labs.f-secure.com/blog/securing-aem-with-dispatcher| 
 | 20200907 | r2con2020 会议的视频在 Youtube 公开了 | http://radare.org/con/2020/youtube| 
 | 20200907 | R2Con 2020 会议代码反混淆 Workshop 的 PPT 和工具 | https://github.com/mrphrazer/r2con2020_deobfuscation| 
 | 20200907 | ARM Memory Tagging Extension 保护机制的介绍 | https://proteas.github.io/ios/2020/09/04/mte-intro-zhCN.html| 
@@ -17,15 +26,6 @@
 | 20200907 | 利用 Prototype 污染的方法绕过常见的 HTML XSS 检查器 | https://research.securitum.com/prototype-pollution-and-bypassing-client-side-html-sanitizers/| 
 | 20200907 | 通过对Windows Update引用注册表项发掘测试。 | https://www.hexacorn.com/blog/2020/09/06/beyond-good-ol-run-key-part-127-testhooks-bonus/| 
 | 20200907 | ARM64逆向开发系列-第3部分-简单的ROP链。 | http://highaltitudehacks.com/2020/09/06/arm64-reversing-and-exploitation-part-3-a-simple-rop-chain/| 
-| 20200907 | [使用WinAFL进行模糊测试]在Windows上使用WinAFL进行简单的C语言程序模糊测试。 | https://hardik05.wordpress.com/2020/09/06/fuzzing-with-winafl-fuzzing-a-simple-c-program-using-winafl-on-windows/| 
-| 20200907 | TryHackMe。利用EternalBlue漏洞演练研究。 | https://medium.com/bugbountywriteup/tryhackme-exploiting-eternalblue-vulnerability-24fed2799540?source=rss----7b722bfd1b8d---4| 
-| 20200906 | WSUS攻击第1部分：PyWSUS简介。 | https://www.gosecure.net/blog/2020/09/03/wsus-attacks-part-1-introducing-pywsus/| 
-| 20200906 | 源代码分析与利用API密钥研究。 | https://medium.com/bugbountywriteup/source-code-analysis-and-api-keys-exploitations-1796b3e731eb?source=rss----7b722bfd1b8d---4| 
-| 20200906 | 追踪Goddi –探索MITER ATT＆CK发现框架策略和技巧。 | https://awakesecurity.com/blog/hunting-for-goddi-uncovering-mitre-attck-discovery-tactics-techniques/| 
-| 20200905 | WPS Office 堆损坏漏洞 | http://zeifan.my/security/rce/heap/2020/09/03/wps-rce-heap.html| 
-| 20200904 | CVE-2019-3396: Exploiting the Confluence Vulnerability | https://www.trendmicro.com/en_us/research/19/e/cve-2019-3396-redux-confluence-vulnerability-exploited-to-deliver-cryptocurrency-miner-with-rootkit.html?utm_source=trendmicroresearch&utm_medium=socal| 
-| 20200904 | Linux 图形库 libEMF CVE-2020-11863 未初始化内存漏洞的分析 | https://www.mcafee.com/blogs/other-blogs/mcafee-labs/vulnerability-discovery-in-open-source-libraries-analyzing-cve-2020-11863/| 
-| 20200904 | vBulletin Pre-Auth RCE 漏洞 CVE-2020-17496 的分析和利用 | https://unit42.paloaltonetworks.com/cve-2020-17496/| 
 
 
 # 安全维基 推荐
@@ -46,28 +46,28 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20200907T20:28:00Z | 未知编号 | CVE Data Analysis, CVE Monitor, CVE EXP Prediction Based on Deep Learning. 1999-2020年存量CVE数据分析、监控CVE增量更新、基于深度学习的CVE EXP预测和自动化推送 | https://github.com/404notf0und/CVE-Flow | 未查询到CVE信息| 
-| 20200907T14:09:35Z | CVE-2020-17496 | (CVE-2020-17496) vBulletin 5.x Widget_tabbedcontainer_tab_panel RCE Vuln Test script | https://github.com/ludy-dev/vBulletin_5.x-tab_panel-RCE | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  20 HOURS 54 MINUTES 28 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200907T10:56:00Z | CVE-2020-0096 | CVE-2020-0096-StrandHogg2 复现 | https://github.com/tea9/CVE-2020-0096-StrandHogg2 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  20 HOURS 54 MINUTES 31 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200907T06:34:44Z | CVE-2020-0014 | CVE-2020-0014-Toast-复现 | https://github.com/tea9/CVE-2020-0014-Toast | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  20 HOURS 54 MINUTES 30 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200907T06:22:52Z | cve-2020-24616 | cve-2020-24616 poc | https://github.com/Kamimuka/cve-2020-24616-poc | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  20 HOURS 54 MINUTES 27 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200906T16:59:30Z | CVE-2020-2551 | weblogic 漏洞扫描工具。目前包含 CVE-2014-4210、CVE-2016-0638、CVE-2016-3510、CVE-2017-3248、CVE-2017-3506、CVE-2017-10271、CVE-2018-2628、CVE-2018-2893、CVE-2018-2894、CVE-2018-3191、CVE-2018-3245、CVE-2018-3252、CVE-2019-2618、CVE-2019-2725、CVE-2019-2729、CVE-2019-2890、CVE-2020-2551 | https://github.com/0xn0ne/weblogicScanner | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
-| 20200906T06:22:09Z | CVE-2020-3452 | CVE-2020-3452 Cisco ASA Scanner -unauth Path Traversal Check | https://github.com/PR3R00T/CVE-2020-3452-Cisco-Scanner | | 
-| 20200905T20:47:12Z | CVE-2020-8218 | Tool to test for existence of CVE-2020-8218 | https://github.com/withdk/pulse-gosecure-rce-poc | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  20 HOURS 54 MINUTES 18 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200905T14:08:54Z | CVE-2020-9484 | Null | https://github.com/anjai94/CVE-2020-9484-exploit | | 
-| 20200904T18:13:47Z | CVE-2020-5902 | Exploits for CVE-2020-5902 POC  | https://github.com/itsjeffersonli/CVE-2020-5902 | | 
+| 20200908T06:09:57Z | CVE-2020-0114 | Null | https://github.com/tea9/CVE-2020-0114-systemui | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 59 MINUTES 25 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200908T05:59:43Z | CVE-2020-8218 | Tool to test for existence of CVE-2020-8218 | https://github.com/withdk/pulse-gosecure-rce-poc | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 59 MINUTES 14 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200908T05:48:50Z | CVE-2020-25200 | pritunl-CVE-2020-25200 | https://github.com/lukaszstu/pritunl | 未查询到CVE信息| 
+| 20200908T05:28:00Z | 未知编号 | CVE Data Analysis, CVE Monitor, CVE EXP Prediction Based on Deep Learning. 1999-2020年存量CVE数据分析、监控CVE增量更新、基于深度学习的CVE EXP预测和自动化推送 | https://github.com/404notf0und/CVE-Flow | 未查询到CVE信息| 
+| 20200908T03:06:41Z | CVE-2020-2551 | weblogic 漏洞扫描工具。目前包含 CVE-2014-4210、CVE-2016-0638、CVE-2016-3510、CVE-2017-3248、CVE-2017-3506、CVE-2017-10271、CVE-2018-2628、CVE-2018-2893、CVE-2018-2894、CVE-2018-3191、CVE-2018-3245、CVE-2018-3252、CVE-2019-2618、CVE-2019-2725、CVE-2019-2729、CVE-2019-2890、CVE-2020-2551 | https://github.com/0xn0ne/weblogicScanner | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
+| 20200908T02:14:25Z | CVE-2020-14292 | Details of CVE-2020-14292 | https://github.com/alwentiu/CVE-2020-14292 | 未查询到CVE信息| 
+| 20200907T14:09:35Z | CVE-2020-17496 | (CVE-2020-17496) vBulletin 5.x Widget_tabbedcontainer_tab_panel RCE Vuln Test script | https://github.com/ludy-dev/vBulletin_5.x-tab_panel-RCE | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 59 MINUTES 19 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200907T10:56:00Z | CVE-2020-0096 | CVE-2020-0096-StrandHogg2 复现 | https://github.com/tea9/CVE-2020-0096-StrandHogg2 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 59 MINUTES 24 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200907T06:34:44Z | CVE-2020-0014 | CVE-2020-0014-Toast-复现 | https://github.com/tea9/CVE-2020-0014-Toast | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 59 MINUTES 21 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200907T06:22:52Z | cve-2020-24616 | cve-2020-24616 poc | https://github.com/Kamimuka/cve-2020-24616-poc | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 59 MINUTES 18 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20200908T00:32:20Z | Ironhack project #2 | https://github.com/ymenuet/KLEEN | 1 | 1| 
+| 20200908T11:08:21Z | RVT is a collection of tools/libraries to support both static and dynamic verification of Rust programs. | https://github.com/project-oak/rust-verification-tools | 69 | 3| 
+| 20200908T04:23:22Z | Ironhack project #2 | https://github.com/ymenuet/KLEEN | 1 | 1| 
+| 20200908T02:38:36Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1488 | 455| 
 | 20200908T00:19:51Z | Exploring possible implementations of a conjunction expression for Kleene Expressions. | https://github.com/ostomachion/KleeneConj | 0 | 0| 
 | 20200907T21:31:52Z | A PDDL to C converter for Carpark planning probem. The C code is executable by KLEE/TracerX which find a solution to the benchmark using Symbolic Execution.  | https://github.com/daneshvar-amrollahi/Carpark-PDDL2C | 0 | 0| 
-| 20200907T13:33:43Z | RVT is a collection of tools/libraries to support both static and dynamic verification of Rust programs. | https://github.com/project-oak/rust-verification-tools | 68 | 3| 
 | 20200906T22:34:29Z | Scala library for generation and manipulation of images treated as a point => color function. | https://github.com/skac112/klee | 0 | 0| 
 | 20200906T18:45:55Z | Assets to be used for linking and Gists | https://github.com/lahiri-phdworks/Assets | 0 | 0| 
-| 20200906T15:45:43Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1487 | 455| 
 | 20200906T04:24:22Z | Null | https://github.com/KleeUT/kleeut.com | 0 | 0| 
 | 20200905T11:32:37Z | Null | https://github.com/shabroek/Kleedkamerscherm | 0 | 0| 
 | 20200904T13:10:22Z | Create CFGs and compute complexity metrics for Python, C++, and Java code. | https://github.com/hmc-alpaqa/metrinome | 3 | 0| 
@@ -91,16 +91,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20200908T02:04:40Z | Exploiting BERT for End-to-End Aspect-based Sentiment Analysis (W-NUT@EMNLP 2019) | https://github.com/lixin4ever/BERT-E2E-ABSA | 135 | 29| 
-| 20200908T02:00:13Z | ASLR Evasion, Egghunters, SEH Overwrites | https://github.com/freddiebarrsmith/Advanced-Windows-Exploit-Development-Practice | 9 | 1| 
-| 20200908T02:00:05Z | Root shell exploit for several Xiaomi routers: 4A Gigabit, 4A 100M, 4C, 3Gv2, 4Q, miWifi 3C... | https://github.com/acecilia/OpenWRTInvasion | 172 | 32| 
-| 20200908T01:58:21Z | Null | https://github.com/xforce505/PS4-AIO-Exploit-Host | 0 | 0| 
-| 20200908T01:51:27Z | Working directory of files related to my disseration, Exploit Development for Ada | https://github.com/bkungl/AdaExploiting | 0 | 0| 
-| 20200908T01:51:11Z | Stash for Binary Exploitation and Reverse Engineering Resources | https://github.com/0xroman1/Scuffed-Low-Level-Stash | 1 | 1| 
-| 20200908T00:58:12Z | Advanced dork Search & Mass Exploit Scanner | https://github.com/AlisamTechnology/ATSCAN | 694 | 284| 
-| 20200908T00:58:10Z | Automated All-in-One OS command injection and exploitation tool. | https://github.com/commixproject/commix | 2379 | 554| 
-| 20200908T00:52:01Z | PS4 Exploit Host Menu for 5.05 and 6.72 FW | https://github.com/xforce505/PS4-Exploit-Menu | 2 | 0| 
-| 20200908T00:45:18Z | A phased, evasive Path Traversal + LFI scanning & exploitation tool in Python | https://github.com/VainlyStrain/Vailyn | 47 | 0| 
+| 20200908T11:56:58Z | Very simple script(s) to hasten binary exploit creation | https://github.com/152334H/pwnscripts | 1 | 0| 
+| 20200908T11:35:12Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 7179 | 1164| 
+| 20200908T10:49:53Z | This repository contains my findings specially about exploit kits, compromised web sites and another raw ioc information | https://github.com/AhmetHan/Strategic-Threat-Intelligence | 0 | 0| 
+| 20200908T10:28:09Z | A phased, evasive Path Traversal + LFI scanning & exploitation tool in Python | https://github.com/VainlyStrain/Vailyn | 47 | 0| 
+| 20200908T10:18:10Z | Implementation of an x86 CPU backdoor in Qemu with an exploit for Linux | https://github.com/AdamKostrzewa/qemux86CPUBackdoor | 0 | 0| 
+| 20200908T10:15:22Z | TI 83PCE boot patch aiming to provide helper tool for further exploitation | https://github.com/TheMachine02/Cauldron | 0 | 0| 
+| 20200908T10:08:18Z | Null | https://github.com/musyoka101/CuteNews_2.1.2_RCE_exploit | 0 | 0| 
+| 20200908T09:40:18Z | A repository for learning various heap exploitation techniques. | https://github.com/shellphish/how2heap | 3936 | 831| 
+| 20200908T09:22:28Z | 1C Exploit Kit | https://github.com/KraudSecurity/1C-Exploit-Kit | 1 | 0| 
+| 20200908T09:09:28Z | 📈 A visualization of MetricQ data exploiting the advanctages of the HTA db backend  | https://github.com/metricq/metricq-webview | 0 | 0| 
 
 
 # backdoor on Github 推荐
@@ -121,16 +121,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20200908T01:59:05Z | Null | https://github.com/kmolano/HelpFuzzyChat | 0 | 0| 
-| 20200908T01:31:40Z | Null | https://github.com/KylaBendrik/fuzzy-computing-machine | 1 | 0| 
-| 20200908T01:10:01Z | A fast/stable directory fuzzer using map() | https://github.com/r1skdev/dirfaster | 1 | 1| 
-| 20200908T00:56:41Z | Scalable fuzzing infrastructure. | https://github.com/google/clusterfuzz | 4312 | 387| 
-| 20200908T00:34:47Z | OSS-Fuzz - continuous fuzzing of open source software. | https://github.com/google/oss-fuzz | 5521 | 1084| 
-| 20200908T00:29:43Z | FuzzBench - Fuzzer benchmarking as a service. | https://github.com/google/fuzzbench | 516 | 76| 
-| 20200907T23:37:08Z | Null | https://github.com/gbftdlie/Graph-based-fuzz-testing | 1 | 0| 
-| 20200907T23:33:28Z | 718611388 | https://github.com/promvotha/fuzzy-octo-journey | 0 | 0| 
-| 20200907T22:48:50Z | A Fuzz guitar effect pedal, designed with inspiration for some classic Fuzz pedals. | https://github.com/felipeb-oliveira/Fuzz-pedal | 1 | 0| 
-| 20200907T22:44:28Z | Generate random valid Escaya format ASTs | https://github.com/escaya/escaya-fuzzer | 0 | 0| 
+| 20200908T12:01:05Z | FormatFuzzer is a framework for high-efficiency, high-quality generation and parsing of binary inputs. | https://github.com/uds-se/FormatFuzzer | 8 | 0| 
+| 20200908T11:59:10Z | Collection of quality safety articles | https://github.com/tom0li/collection-document | 1215 | 401| 
+| 20200908T11:49:59Z | Web Application Fuzzer and Parser | https://github.com/huseyince/Ganama | 1 | 0| 
+| 20200908T11:25:08Z | OSS-Fuzz - continuous fuzzing of open source software. | https://github.com/google/oss-fuzz | 5522 | 1084| 
+| 20200908T11:24:33Z | A JavaScript Engine Fuzzer | https://github.com/googleprojectzero/fuzzilli | 1015 | 163| 
+| 20200908T11:02:46Z | 渗透测试、SRC漏洞挖掘、爆破、Fuzzing等字典收集项目 | https://github.com/insightglacier/Dictionary-Of-Pentesting | 186 | 53| 
+| 20200908T10:32:39Z | Apache Spark implementation of various fuzzy algorithms. | https://github.com/antcc/fuzzyspark | 1 | 0| 
+| 20200908T10:18:26Z | A toolset for reverse engineering and fuzzing Protobuf-based apps | https://github.com/marin-m/pbtk | 710 | 83| 
+| 20200908T09:33:56Z | 模糊认知诊断模型Python实现 | https://github.com/zelo2/FuzzyCDF | 1 | 1| 
+| 20200908T09:03:40Z | a c program containing vulnerable code for common types of vulnerabilities, can be used to show fuzzing concepts. | https://github.com/hardik05/Damn_Vulnerable_C_Program | 75 | 9| 
 
 
 
