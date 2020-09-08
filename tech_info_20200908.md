@@ -25,8 +25,8 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20200908T06:09:57Z | CVE-2020-0114 | Null | https://github.com/tea9/CVE-2020-0114-systemui | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 59 MINUTES 25 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200908T05:59:43Z | CVE-2020-8218 | Tool to test for existence of CVE-2020-8218 | https://github.com/withdk/pulse-gosecure-rce-poc | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 59 MINUTES 14 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200908T06:09:57Z | CVE-2020-0114 | Null | https://github.com/tea9/CVE-2020-0114-systemui | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 56 MINUTES 35 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200908T05:59:43Z | CVE-2020-8218 | Tool to test for existence of CVE-2020-8218 | https://github.com/withdk/pulse-gosecure-rce-poc | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 56 MINUTES 24 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20200908T05:48:50Z | CVE-2020-25200 | pritunl-CVE-2020-25200 | https://github.com/lukaszstu/pritunl | 未查询到CVE信息| 
 | 20200908T05:28:00Z | 未知编号 | CVE Data Analysis, CVE Monitor, CVE EXP Prediction Based on Deep Learning. 1999-2020年存量CVE数据分析、监控CVE增量更新、基于深度学习的CVE EXP预测和自动化推送 | https://github.com/404notf0und/CVE-Flow | 未查询到CVE信息| 
 | 20200908T03:06:41Z | CVE-2020-2551 | weblogic 漏洞扫描工具。目前包含 CVE-2014-4210、CVE-2016-0638、CVE-2016-3510、CVE-2017-3248、CVE-2017-3506、CVE-2017-10271、CVE-2018-2628、CVE-2018-2893、CVE-2018-2894、CVE-2018-3191、CVE-2018-3245、CVE-2018-3252、CVE-2019-2618、CVE-2019-2725、CVE-2019-2729、CVE-2019-2890、CVE-2020-2551 | https://github.com/0xn0ne/weblogicScanner | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
@@ -50,6 +50,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20200908T12:02:49Z | 1C Exploit Kit | https://github.com/KraudSecurity/1C-Exploit-Kit | 2 | 0| 
 | 20200908T11:56:58Z | Very simple script(s) to hasten binary exploit creation | https://github.com/152334H/pwnscripts | 1 | 0| 
 | 20200908T11:35:12Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 7179 | 1164| 
 | 20200908T10:49:53Z | This repository contains my findings specially about exploit kits, compromised web sites and another raw ioc information | https://github.com/AhmetHan/Strategic-Threat-Intelligence | 0 | 0| 
@@ -58,20 +59,23 @@
 | 20200908T10:15:22Z | TI 83PCE boot patch aiming to provide helper tool for further exploitation | https://github.com/TheMachine02/Cauldron | 0 | 0| 
 | 20200908T10:08:18Z | Null | https://github.com/musyoka101/CuteNews_2.1.2_RCE_exploit | 0 | 0| 
 | 20200908T09:40:18Z | A repository for learning various heap exploitation techniques. | https://github.com/shellphish/how2heap | 3936 | 831| 
-| 20200908T09:22:28Z | 1C Exploit Kit | https://github.com/KraudSecurity/1C-Exploit-Kit | 1 | 0| 
 | 20200908T09:09:28Z | 📈 A visualization of MetricQ data exploiting the advanctages of the HTA db backend  | https://github.com/metricq/metricq-webview | 0 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20200908T00:54:07Z | Ghost Framework is an Android post-exploitation framework that exploits the Android Debug Bridge to remotely access an Android device. Ghost Framework gives you the power and convenience of remote Android device administration. | https://github.com/entynetproject/ghost | 687 | 347| 
+| 20200908T10:18:10Z | Implementation of an x86 CPU backdoor in Qemu with an exploit for Linux | https://github.com/AdamKostrzewa/qemux86CPUBackdoor | 0 | 0| 
+| 20200908T08:18:16Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 57 | 7| 
+| 20200908T07:51:55Z | Pupy is an opensource, cross-platform (Windows, Linux, OSX, Android) remote administration and post-exploitation tool mainly written in python | https://github.com/n1nj4sec/pupy | 5778 | 1510| 
+| 20200908T07:07:35Z | Null | https://github.com/edsonphx/Backdoor-BETA | 0 | 0| 
+| 20200908T06:13:07Z | Ghost Framework is an Android post-exploitation framework that exploits the Android Debug Bridge to remotely access an Android device. Ghost Framework gives you the power and convenience of remote Android device administration. | https://github.com/entynetproject/ghost | 688 | 347| 
 
 
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20200908T12:01:05Z | FormatFuzzer is a framework for high-efficiency, high-quality generation and parsing of binary inputs. | https://github.com/uds-se/FormatFuzzer | 8 | 0| 
+| 20200908T12:01:37Z | FormatFuzzer is a framework for high-efficiency, high-quality generation and parsing of binary inputs. | https://github.com/uds-se/FormatFuzzer | 9 | 0| 
 | 20200908T11:59:10Z | Collection of quality safety articles | https://github.com/tom0li/collection-document | 1215 | 401| 
 | 20200908T11:49:59Z | Web Application Fuzzer and Parser | https://github.com/huseyince/Ganama | 1 | 0| 
 | 20200908T11:25:08Z | OSS-Fuzz - continuous fuzzing of open source software. | https://github.com/google/oss-fuzz | 5522 | 1084| 
