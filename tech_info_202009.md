@@ -47,15 +47,15 @@
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
 | 20200909T12:33:32Z | 未知编号 | CVE Data Analysis, CVE Monitor, CVE EXP Prediction Based on Deep Learning. 1999-2020年存量CVE数据分析、监控CVE增量更新、基于深度学习的CVE EXP预测和自动化推送 | https://github.com/404notf0und/CVE-Flow | 未查询到CVE信息| 
-| 20200909T10:47:53Z | CVE-2020-13933 | CVE-2020-13933 靶场： shiro < 1.6.0 认证绕过漏洞 | https://github.com/lyy289065406/CVE-2020-13933 | | 
+| 20200909T10:47:53Z | CVE-2020-13933 | CVE-2020-13933 靶场： shiro < 1.6.0 认证绕过漏洞 | https://github.com/lyy289065406/CVE-2020-13933 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 10 MINUTES 41 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20200909T07:20:59Z | CVE-2020-0890 | CVE-2020-0890 , Windows Hyper-V Denial of Service Vulnerability proof-of-concept code | https://github.com/gerhart01/hyperv_local_dos_poc | 未查询到CVE信息| 
-| 20200909T06:43:33Z | CVE-2020-0114 | Null | https://github.com/tea9/CVE-2020-0114-systemui | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 12 MINUTES 41 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200909T06:43:33Z | CVE-2020-0114 | Null | https://github.com/tea9/CVE-2020-0114-systemui | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 10 MINUTES 40 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20200909T04:32:14Z | CVE-2020-2551 | weblogic 漏洞扫描工具。目前包含 CVE-2014-4210、CVE-2016-0638、CVE-2016-3510、CVE-2017-3248、CVE-2017-3506、CVE-2017-10271、CVE-2018-2628、CVE-2018-2893、CVE-2018-2894、CVE-2018-3191、CVE-2018-3245、CVE-2018-3252、CVE-2019-2618、CVE-2019-2725、CVE-2019-2729、CVE-2019-2890、CVE-2020-2551 | https://github.com/0xn0ne/weblogicScanner | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
-| 20200908T05:59:43Z | CVE-2020-8218 | Tool to test for existence of CVE-2020-8218 | https://github.com/withdk/pulse-gosecure-rce-poc | | 
+| 20200908T05:59:43Z | CVE-2020-8218 | Tool to test for existence of CVE-2020-8218 | https://github.com/withdk/pulse-gosecure-rce-poc | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 10 MINUTES 28 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20200908T05:48:50Z | CVE-2020-25200 | pritunl-CVE-2020-25200 | https://github.com/lukaszstu/pritunl | 未查询到CVE信息| 
 | 20200908T02:14:25Z | CVE-2020-14292 | Details of CVE-2020-14292 | https://github.com/alwentiu/CVE-2020-14292 | 未查询到CVE信息| 
-| 20200907T14:09:35Z | CVE-2020-17496 | (CVE-2020-17496) vBulletin 5.x Widget_tabbedcontainer_tab_panel RCE Vuln Test script | https://github.com/ludy-dev/vBulletin_5.x-tab_panel-RCE | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 12 MINUTES 34 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200907T10:56:00Z | CVE-2020-0096 | CVE-2020-0096-StrandHogg2 复现 | https://github.com/tea9/CVE-2020-0096-StrandHogg2 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 12 MINUTES 40 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200907T14:09:35Z | CVE-2020-17496 | (CVE-2020-17496) vBulletin 5.x Widget_tabbedcontainer_tab_panel RCE Vuln Test script | https://github.com/ludy-dev/vBulletin_5.x-tab_panel-RCE | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 10 MINUTES 33 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200907T10:56:00Z | CVE-2020-0096 | CVE-2020-0096-StrandHogg2 复现 | https://github.com/tea9/CVE-2020-0096-StrandHogg2 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 10 MINUTES 38 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 
 
 # klee on Github 推荐
@@ -91,6 +91,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20200909T12:48:22Z | My exploits for challenges on pwnable.tw | https://github.com/AravGarg/pwnable.tw | 0 | 0| 
+| 20200909T12:48:14Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 5 | 2| 
 | 20200909T12:30:28Z | Blog! | https://github.com/nonetype/nonetype.github.io | 0 | 0| 
 | 20200909T11:43:26Z | Null | https://github.com/quentin452/Cats-Exploitz-HUB | 0 | 1| 
 | 20200909T11:37:15Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 7189 | 1168| 
@@ -99,8 +101,6 @@
 | 20200909T09:37:32Z | A phased, evasive Path Traversal + LFI scanning & exploitation tool in Python | https://github.com/VainlyStrain/Vailyn | 47 | 0| 
 | 20200909T09:05:14Z | he use of the SameSite policy. However this feature is still “experimental” and for the use case of allowing your web api to be potentially used by anyone, using a SameSite policy would not work.  The abuse of this mechanism (i.e. the browser sending the cookies automatically) is what CSRF exploits.  | https://github.com/DevNet472/Anti-forgery-validation-with-ASP.Net-Core-and-Angular | 0 | 0| 
 | 20200909T08:16:03Z | Tool to estimate purity of tumor samples exploiting DNA Methylation data | https://github.com/cgplab/PAMES | 8 | 7| 
-| 20200909T07:47:38Z | Very simple script(s) to hasten binary exploit creation | https://github.com/152334H/pwnscripts | 1 | 0| 
-| 20200909T07:34:56Z | Implementation of %Induction of Subgoal Automata for Reinforcement Learning% (AAAI-20) and %Induction and Exploitation of Subgoal Automata for Reinforcement Learning% (Preprint). | https://github.com/ertsiger/induction-subgoal-automata-rl | 2 | 0| 
 
 
 # backdoor on Github 推荐
