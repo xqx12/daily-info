@@ -37,7 +37,7 @@
 | --- | --- | --- | --- | ---| 
 | 20200909T22:27:40Z | 未知编号 | CVE Data Analysis, CVE Monitor, CVE EXP Prediction Based on Deep Learning. 1999-2020年存量CVE数据分析、监控CVE增量更新、基于深度学习的CVE EXP预测和自动化推送 | https://github.com/404notf0und/CVE-Flow | 未查询到CVE信息| 
 | 20200909T21:46:47Z | CVE-2020-5902 | (CVE-2020-5902) BIG IP F5 TMUI RCE Vulnerability RCE PoC/ Test Script  | https://github.com/ludy-dev/BIG-IP-F5-TMUI-RCE-Vulnerability | 在BIG-IP版本15.0.0-15.1.0.3、14.1.0-14.1.2.5、13.1.0-13.1.3.3、12.1.0-12.1.5.1和11.6.1-11.6.5.1中，流量管理用户接口（TMUI），也称为“配置”实用程序，在未公开的页面中具有远程执行代码（RCE）漏洞。| 
-| 20200909T21:42:44Z | CVE-2020-3452 | (CVE-2020-3452) Cisco Adaptive Security Appliance Software - Local File Inclusion Vuln Test sciript | https://github.com/ludy-dev/Cisco-ASA-LFI | | 
+| 20200909T21:42:44Z | CVE-2020-3452 | (CVE-2020-3452) Cisco Adaptive Security Appliance Software - Local File Inclusion Vuln Test sciript | https://github.com/ludy-dev/Cisco-ASA-LFI | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
 | 20200909T21:34:24Z | CVE-2020-17496 | (CVE-2020-17496) vBulletin 5.x Widget_tabbedcontainer_tab_panel RCE Vuln Test script | https://github.com/ludy-dev/vBulletin_5.x-tab_panel-RCE | vBulletin 5.5.4至5.6.2允许通过ajax / render / widget_tabbedcontainer_tab_panel请求中的精巧subWidgets数据执行远程命令。注意：由于CVE-2019-16759的修复不完整，所以存在此问题。| 
 | 20200909T17:54:16Z | CVE-2020-9460 | Stored Cross Site Scripting - Oempro  | https://github.com/g-rubert/CVE-2020-9460 | Octech Oempro 4.7 到 4.11 允许经过身份验证的用户使用 XSS。市场活动中的参数市场活动名称.create 易受攻击。| 
 | 20200909T17:52:44Z | CVE-2020-9461 | Stored Cross Site Scripting - Oempro  | https://github.com/g-rubert/CVE-2020-9461 | Octech Oempro 4.7 到 4.11 允许经过身份验证的用户存储 XSS。Media.createFolder 命令的文件夹名称参数易受攻击。| 
@@ -68,7 +68,6 @@
 | --- | --- | --- | --- | ---| 
 | 20200909T23:58:37Z | Null | https://github.com/quentin452/Cats-Exploitz-HUB | 0 | 1| 
 | 20200909T23:54:07Z | A method for exploiting vulnerabilities in JavaScript code that allows the user to modify obfuscated self-invoking JavaScript functions. | https://github.com/jrghndl/Javascript-Exploit | 0 | 0| 
-| 20200909T23:43:54Z | Sifter is a osint, recon & vulnerability scanner. It combines a plethara of tools within different module sets in order to quickly perform recon tasks, check network firewalling, enumerate remote and local hosts, and scan for the %blue% vulnerabilities within microsft and if unpatched, exploit them.  It uses tools like blackwidow and konan for webdir enumeration and attack surface mapping rapidly using ASM.  | https://github.com/s1l3nt78/sifter | 241 | 75| 
 | 20200909T23:02:33Z | Cyber Security Website Focusing on Penetration Testing, Exploit Development and Malware Analysis.  | https://github.com/bluehood/bluehood.github.io | 0 | 0| 
 | 20200909T22:54:12Z | PS4 Exploit Menu for 6.72 FW | https://github.com/xforce505/PS4-Project-BETA-Menu | 0 | 0| 
 | 20200909T22:41:01Z | this bash script let you download scripts and clone repos for remote exploits | https://github.com/FabioDefilippo/linuxallremote | 5 | 0| 
@@ -76,6 +75,7 @@
 | 20200909T22:06:38Z | PS4 Exploit Menu for 5.05 and 6.72 FW | https://github.com/xforce505/PS4-Exploit-Menu-Release-Version- | 0 | 0| 
 | 20200909T22:01:58Z | Windows Exploit Suggester - Next Generation | https://github.com/bitsadmin/wesng | 1833 | 296| 
 | 20200909T21:28:20Z | Null | https://github.com/carpetdev/exploits | 0 | 0| 
+| 20200909T21:23:28Z | Working directory of files related to my disseration, Exploit Development for Ada | https://github.com/bkungl/AdaExploiting | 0 | 0| 
 
 
 # backdoor on Github 推荐
