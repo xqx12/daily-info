@@ -55,7 +55,7 @@
 | 20200909T21:46:47Z | CVE-2020-5902 | (CVE-2020-5902) BIG IP F5 TMUI RCE Vulnerability RCE PoC/ Test Script  | https://github.com/ludy-dev/BIG-IP-F5-TMUI-RCE-Vulnerability | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 58 MINUTES 24 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20200909T21:42:44Z | CVE-2020-3452 | (CVE-2020-3452) Cisco Adaptive Security Appliance Software - Local File Inclusion Vuln Test sciript | https://github.com/ludy-dev/Cisco-ASA-LFI | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
 | 20200909T21:34:24Z | CVE-2020-17496 | (CVE-2020-17496) vBulletin 5.x Widget_tabbedcontainer_tab_panel RCE Vuln Test script | https://github.com/ludy-dev/vBulletin_5.x-tab_panel-RCE | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 58 MINUTES 16 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200909T17:54:16Z | CVE-2020-9460 | Stored Cross Site Scripting - Oempro  | https://github.com/g-rubert/CVE-2020-9460 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 58 MINUTES 54 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200909T17:54:16Z | CVE-2020-9460 | Stored Cross Site Scripting - Oempro  | https://github.com/g-rubert/CVE-2020-9460 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 58 MINUTES 07 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 
 
 # klee on Github 推荐
@@ -106,16 +106,16 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20200910T01:18:25Z | Ghost Framework is an Android post-exploitation framework that exploits the Android Debug Bridge to remotely access an Android device. Ghost Framework gives you the power and convenience of remote Android device administration. | https://github.com/entynetproject/ghost | 689 | 349| 
+| 20200910T11:13:59Z | Null | https://github.com/edsonphx/Backdoor-BETA | 0 | 0| 
+| 20200910T10:51:01Z | Backdoor in C to learn windows socket programming and threads | https://github.com/PauloHenriqueFP/Ethical_Backdoor | 0 | 0| 
+| 20200910T09:58:05Z | shell backdoor | https://github.com/rizkipoloyo/shell | 0 | 0| 
+| 20200910T09:36:39Z | Multiplatform, post-exploitation tool to maintain the continuous access to a computer using irc as communication bus and capable of spawning a remote shell. | https://github.com/giwiro/s3ntineL-irc | 0 | 0| 
+| 20200910T04:40:59Z | Ghost Framework is an Android post-exploitation framework that exploits the Android Debug Bridge to remotely access an Android device. Ghost Framework gives you the power and convenience of remote Android device administration. | https://github.com/entynetproject/ghost | 688 | 349| 
+| 20200910T02:26:29Z | Backdoor Script Bypass NextGen-Down | https://github.com/PredatoreSexe/Backdoor-Script-Bypass-NextGen-Down | 0 | 0| 
 | 20200910T00:37:33Z | Remot3d: is a simple tool created for large pentesters as well as just for the pleasure of defacers to control server by backdoors | https://github.com/KeepWannabe/Remot3d | 237 | 61| 
 | 20200909T23:27:34Z | PAM Backdoor | https://github.com/rek7/madlib | 4 | 0| 
 | 20200909T22:42:59Z | Hacking tools pack & backdoors generator. | https://github.com/AdrMXR/KitHack | 155 | 33| 
 | 20200909T18:30:18Z | list of crappy %server side% developers -- basically developers which create backdoors in games | https://github.com/pozm/ss-devs | 0 | 0| 
-| 20200909T15:20:56Z | Avyukt is a Exploitation Framework which can be used to generate Malicious Payloads and exploit Windows OS | https://github.com/Vedant-Bhalgama/Avyukt | 9 | 0| 
-| 20200909T15:01:13Z | Null | https://github.com/wrongsid3/Cpp-Reverse-Shell-Backdoor | 1 | 0| 
-| 20200909T11:56:18Z | Pupy is an opensource, cross-platform (Windows, Linux, OSX, Android) remote administration and post-exploitation tool mainly written in python | https://github.com/n1nj4sec/pupy | 5781 | 1508| 
-| 20200909T02:03:45Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 57 | 7| 
-| 20200908T19:11:58Z | Backdoor in C to learn windows socket programming and threads | https://github.com/PauloHenriqueFP/Ethical_Backdoor | 0 | 0| 
 
 
 # fuzz on Github 推荐

@@ -68,7 +68,12 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20200910T01:18:25Z | Ghost Framework is an Android post-exploitation framework that exploits the Android Debug Bridge to remotely access an Android device. Ghost Framework gives you the power and convenience of remote Android device administration. | https://github.com/entynetproject/ghost | 689 | 349| 
+| 20200910T11:13:59Z | Null | https://github.com/edsonphx/Backdoor-BETA | 0 | 0| 
+| 20200910T10:51:01Z | Backdoor in C to learn windows socket programming and threads | https://github.com/PauloHenriqueFP/Ethical_Backdoor | 0 | 0| 
+| 20200910T09:58:05Z | shell backdoor | https://github.com/rizkipoloyo/shell | 0 | 0| 
+| 20200910T09:36:39Z | Multiplatform, post-exploitation tool to maintain the continuous access to a computer using irc as communication bus and capable of spawning a remote shell. | https://github.com/giwiro/s3ntineL-irc | 0 | 0| 
+| 20200910T04:40:59Z | Ghost Framework is an Android post-exploitation framework that exploits the Android Debug Bridge to remotely access an Android device. Ghost Framework gives you the power and convenience of remote Android device administration. | https://github.com/entynetproject/ghost | 688 | 349| 
+| 20200910T02:26:29Z | Backdoor Script Bypass NextGen-Down | https://github.com/PredatoreSexe/Backdoor-Script-Bypass-NextGen-Down | 0 | 0| 
 | 20200910T00:37:33Z | Remot3d: is a simple tool created for large pentesters as well as just for the pleasure of defacers to control server by backdoors | https://github.com/KeepWannabe/Remot3d | 237 | 61| 
 
 
