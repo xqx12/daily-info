@@ -28,10 +28,10 @@
 | --- | --- | --- | --- | ---| 
 | 20200910T12:34:15Z | CVE-2020-17453 | Information/PoC For CVE-2020-17453 | https://github.com/JHHAX/CVE-2020-17453 | 未查询到CVE信息| 
 | 20200910T12:31:07Z | 未知编号 | CVE Data Analysis, CVE Monitor, CVE EXP Prediction Based on Deep Learning. 1999-2020年存量CVE数据分析、监控CVE增量更新、基于深度学习的CVE EXP预测和自动化推送 | https://github.com/404notf0und/CVE-Flow | 未查询到CVE信息| 
-| 20200910T12:28:07Z | CVE-2020-13933 | CVE-2020-13933 靶场： shiro < 1.6.0 认证绕过漏洞 | https://github.com/lyy289065406/CVE-2020-13933 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 05 MINUTES 22 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200910T12:28:07Z | CVE-2020-13933 | CVE-2020-13933 靶场： shiro < 1.6.0 认证绕过漏洞 | https://github.com/lyy289065406/CVE-2020-13933 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 03 MINUTES 23 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20200910T11:45:27Z | CVE-2020-8150 | CVE-2020-8150 – Remote Code Execution as SYSTEM/root via Backblaze | https://github.com/geffner/CVE-2020-8150 | 未查询到CVE信息| 
-| 20200910T06:34:31Z | CVE-2020-3187 | Null | https://github.com/Basu-banakar/CVE-2020-3187 | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 05 MINUTES 27 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200910T04:07:15Z | CVE-2020-0890 | CVE-2020-0890 , Windows Hyper-V Denial of Service Vulnerability proof-of-concept code | https://github.com/gerhart01/hyperv_local_dos_poc | 未查询到CVE信息| 
+| 20200910T06:34:31Z | CVE-2020-3187 | Null | https://github.com/Basu-banakar/CVE-2020-3187 | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 02 MINUTES 28 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200910T04:07:15Z | CVE-2020-0890 | CVE-2020-0890 , Windows Hyper-V Denial of Service Vulnerability proof-of-concept code | https://github.com/gerhart01/hyperv_local_dos_poc | | 
 
 
 # klee on Github 推荐
@@ -53,6 +53,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20200910T12:56:53Z | this bash script let you download scripts and clone repos for remote exploits | https://github.com/FabioDefilippo/linuxallremote | 5 | 0| 
 | 20200910T12:34:37Z | Custom version of the original Overthrow.  Bugs squashed and squashing, exploits punishable by death, new businesses plus much more, oh and high steriod use by the AI ;) Discord link  https://discord.gg/ZdMMq9x | https://github.com/GerhartPapaGee/Overthrow-Martial-Law | 0 | 1| 
 | 20200910T12:23:47Z | OpenAPI%s exploitation made easy. | https://github.com/creekorful/boom | 1 | 0| 
 | 20200910T12:10:04Z | Null | https://github.com/quentin452/Cats-Exploitz-HUB | 0 | 1| 
@@ -62,7 +63,6 @@
 | 20200910T11:29:08Z | This is a minecraft plugin that simulates the gamemode creative to prevent players from exploiting. | https://github.com/SnakeAmazing/FakeCreative | 0 | 0| 
 | 20200910T11:18:57Z | My thoughts and rant about Penetration Testing, GNU/Linux, Low-level/Kernel Development, Exploits and more. | https://github.com/PedroSFreitas/PedroSFreitas.github.io | 0 | 0| 
 | 20200910T11:17:00Z | Attacking wordpress local website by using different exploits and vulnerabilities of the web | https://github.com/yuvalzolo/Cyber_Attack_on_wordpress | 0 | 0| 
-| 20200910T10:40:49Z | A tool to identify and exploit sudo rules% misconfigurations and vulnerabilities within sudo | https://github.com/TH3xACE/SUDO_KILLER | 770 | 112| 
 
 
 # backdoor on Github 推荐
@@ -80,7 +80,8 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20200910T12:53:10Z | Match lines of a text file against another text file with optional additional fields | https://github.com/IMSA-ITS/fuzzy-match | 0 | 0| 
+| 20200910T12:55:45Z | Fuzzy finder for every AWS component | https://github.com/AndreZiviani/aws-fuzzy | 0 | 1| 
+| 20200910T12:54:52Z | Match lines of a text file against another text file with optional additional fields | https://github.com/IMSA-ITS/fuzzy-match | 0 | 0| 
 | 20200910T12:40:35Z | Null | https://github.com/r-2007/Fuzzing-DTLS | 0 | 0| 
 | 20200910T12:27:54Z | The fuzzer afl++ is afl with community patches, AFLfast power schedules, qemu 3.1 upgrade + laf-intel support, MOpt mutators, InsTrim instrumentation, unicorn_mode, Redqueen and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 873 | 216| 
 | 20200910T12:18:20Z | 模糊认知诊断模型Python实现 | https://github.com/zelo2/FuzzyCDF | 1 | 1| 
@@ -89,7 +90,6 @@
 | 20200910T11:24:43Z | A JavaScript Engine Fuzzer | https://github.com/googleprojectzero/fuzzilli | 1018 | 163| 
 | 20200910T10:43:06Z | C++ library for tests (unit, fuzz, property), benchmarks, apps | https://github.com/project-arcana/nexus | 0 | 0| 
 | 20200910T10:18:37Z | Personal website of Laurence Hughes | https://github.com/fuzzylogicxx/fuzzylogic | 4 | 1| 
-| 20200910T09:56:12Z | Null | https://github.com/Dobatymo/fuzzycollections | 0 | 0| 
 
 
 
