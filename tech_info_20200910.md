@@ -27,9 +27,9 @@
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
 | 20200910T11:45:27Z | CVE-2020-8150 | CVE-2020-8150 – Remote Code Execution as SYSTEM/root via Backblaze | https://github.com/geffner/CVE-2020-8150 | 未查询到CVE信息| 
-| 20200910T11:14:06Z | 未知编号 | CVE Data Analysis, CVE Monitor, CVE EXP Prediction Based on Deep Learning. 1999-2020年存量CVE数据分析、监控CVE增量更新、基于深度学习的CVE EXP预测和自动化推送 | https://github.com/404notf0und/CVE-Flow | | 
-| 20200910T09:45:13Z | CVE-2020-13933 | CVE-2020-13933 靶场： shiro < 1.6.0 认证绕过漏洞 | https://github.com/lyy289065406/CVE-2020-13933 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 52 MINUTES 21 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200910T06:34:31Z | CVE-2020-3187 | Null | https://github.com/Basu-banakar/CVE-2020-3187 | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 51 MINUTES 26 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200910T11:14:06Z | 未知编号 | CVE Data Analysis, CVE Monitor, CVE EXP Prediction Based on Deep Learning. 1999-2020年存量CVE数据分析、监控CVE增量更新、基于深度学习的CVE EXP预测和自动化推送 | https://github.com/404notf0und/CVE-Flow | 未查询到CVE信息| 
+| 20200910T09:45:13Z | CVE-2020-13933 | CVE-2020-13933 靶场： shiro < 1.6.0 认证绕过漏洞 | https://github.com/lyy289065406/CVE-2020-13933 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 51 MINUTES 21 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200910T06:34:31Z | CVE-2020-3187 | Null | https://github.com/Basu-banakar/CVE-2020-3187 | | 
 | 20200910T04:07:15Z | CVE-2020-0890 | CVE-2020-0890 , Windows Hyper-V Denial of Service Vulnerability proof-of-concept code | https://github.com/gerhart01/hyperv_local_dos_poc | 未查询到CVE信息| 
 | 20200910T00:00:49Z | CVE-2020-17453 | Information/PoC For CVE-2020-17453 | https://github.com/JHHAX/CVE-2020-17453 | 未查询到CVE信息| 
 
