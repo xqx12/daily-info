@@ -14,6 +14,10 @@
 | 20200910 | FuzzCon Europe 2020 会议的视频 | https://www.youtube.com/playlist?list=PLI0R_0_8-TV4JArtdlgnuPtgXALZxAYqu| 
 | 20200910 | Intel Owl - 批量收集 IP、文件、域名情报信息的工具 | https://github.com/intelowlproject/IntelOwl| 
 | 20200910 | Fuzzing JavaScript Engines with Fuzzilli | https://blog.doyensec.com/2020/09/09/fuzzilli-jerryscript.html| 
+| 20200910 | 针对以Linux上运行CDRThief恶意软件瞄准了运营商网络中的VoIP设备，并窃取电话元数据。 | https://threatpost.com/cdrthief-malware-voip-gear-carrier-networks/159100/| 
+| 20200910 | 研究人员发现罗克韦尔自动化和西门子等顶级ICS供应商使用的第三方工业组件中存在严重漏洞。 | https://threatpost.com/severe-industrial-bugs-takeover-critical-systems/159068/| 
+| 20200910 | 蓝牙SIG发布关于利用蓝牙经典版和蓝牙低功耗漏洞（BLURtooth）中的交叉传输密钥安全声明。 | https://www.bluetooth.com/learn-about-bluetooth/bluetooth-technology/bluetooth-security/blurtooth/| 
+| 20200910 | 通过手动修改绕过AMSI触发器第二部分-Invoke-Mimikatz。 | https://s3cur3th1ssh1t.github.io/Bypass-AMSI-by-manual-modification-part-II/| 
 
 
 # 安全维基 推荐
@@ -21,26 +25,32 @@
 | --- | --- | ---| 
 | 20200910 | 2020上半年出行行业黑灰产研究报告 | https://mp.weixin.qq.com/s/sQJRZZonTF7bjCs1jd_H9A| 
 | 20200910 | 有关Angr的正确学习路线 | https://zhuanlan.zhihu.com/p/102582636| 
+| 20200910 | 工业控制系统风险评估典型流程 | http://blog.nsfocus.net/industry-control-system-risk-assessment-0902/| 
+| 20200910 | 利用OpenVpn配置文件反制的武器化探索 | https://mp.weixin.qq.com/s/hOHzmr6qCS2EwranvVEY1w| 
+| 20200910 | 人工智能对抗的场景探究 | https://mp.weixin.qq.com/s/CwoX9n3gEA7u8NOFoNiuZA| 
 
 
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20200910T23:42:03Z | CVE-2020-8150 | CVE-2020-8150 – Remote Code Execution as SYSTEM/root via Backblaze | https://github.com/geffner/CVE-2020-8150 | | 
+| 20200910T15:37:16Z | CVE-2020-13933 | CVE-2020-13933 靶场： shiro < 1.6.0 认证绕过漏洞 | https://github.com/lyy289065406/CVE-2020-13933 | 1.6.0之前的Apache Shiro，在使用Apache Shiro时，特制的HTTP请求可能会导致身份验证绕过。| 
 | 20200910T12:34:15Z | CVE-2020-17453 | Information/PoC For CVE-2020-17453 | https://github.com/JHHAX/CVE-2020-17453 | 未查询到CVE信息| 
 | 20200910T12:31:07Z | 未知编号 | CVE Data Analysis, CVE Monitor, CVE EXP Prediction Based on Deep Learning. 1999-2020年存量CVE数据分析、监控CVE增量更新、基于深度学习的CVE EXP预测和自动化推送 | https://github.com/404notf0und/CVE-Flow | 未查询到CVE信息| 
-| 20200910T12:28:07Z | CVE-2020-13933 | CVE-2020-13933 靶场： shiro < 1.6.0 认证绕过漏洞 | https://github.com/lyy289065406/CVE-2020-13933 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 00 MINUTES 22 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200910T11:45:27Z | CVE-2020-8150 | CVE-2020-8150 – Remote Code Execution as SYSTEM/root via Backblaze | https://github.com/geffner/CVE-2020-8150 | 未查询到CVE信息| 
-| 20200910T06:34:31Z | CVE-2020-3187 | Null | https://github.com/Basu-banakar/CVE-2020-3187 | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 00 MINUTES 26 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200910T06:34:31Z | CVE-2020-3187 | Null | https://github.com/Basu-banakar/CVE-2020-3187 | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS 基础操作系统（OS）文件。重新加载受影响的设备将还原Web服务文件系统中的所有文件。| 
 | 20200910T04:07:15Z | CVE-2020-0890 | CVE-2020-0890 , Windows Hyper-V Denial of Service Vulnerability proof-of-concept code | https://github.com/gerhart01/hyperv_local_dos_poc | 未查询到CVE信息| 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20200910T12:37:14Z | RVT is a collection of tools/libraries to support both static and dynamic verification of Rust programs. | https://github.com/project-oak/rust-verification-tools | 76 | 3| 
+| 20200910T22:28:37Z | Ironhack project #2 | https://github.com/ymenuet/KLEEN | 1 | 1| 
+| 20200910T21:18:22Z | The compiler inputs a PDDL benchmark of the Carpark planning problem and converts it to an equivalent C code which is used for solving the planning problem by program verification tools such as KLEE/TracerX. | https://github.com/daneshvar-amrollahi/Carpark-PDDL2C | 0 | 0| 
+| 20200910T20:01:52Z | RVT is a collection of tools/libraries to support both static and dynamic verification of Rust programs. | https://github.com/project-oak/rust-verification-tools | 76 | 3| 
+| 20200910T16:13:14Z | KLEE in the browser | https://github.com/klee/klee-web | 43 | 10| 
+| 20200910T13:39:24Z | Scala library for generation and manipulation of images treated as a point => color function. | https://github.com/skac112/klee | 0 | 0| 
 | 20200910T06:07:31Z | One place for all of my workshops | https://github.com/kleenxcoder/kleenxcoder-workshops | 0 | 0| 
 | 20200910T06:05:03Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1494 | 455| 
-| 20200910T01:46:03Z | Ironhack project #2 | https://github.com/ymenuet/KLEEN | 1 | 1| 
 
 
 # s2e on Github 推荐
@@ -53,43 +63,46 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20200910T12:56:53Z | this bash script let you download scripts and clone repos for remote exploits | https://github.com/FabioDefilippo/linuxallremote | 5 | 0| 
-| 20200910T12:34:37Z | Custom version of the original Overthrow.  Bugs squashed and squashing, exploits punishable by death, new businesses plus much more, oh and high steriod use by the AI ;) Discord link  https://discord.gg/ZdMMq9x | https://github.com/GerhartPapaGee/Overthrow-Martial-Law | 0 | 1| 
-| 20200910T12:23:47Z | OpenAPI%s exploitation made easy. | https://github.com/creekorful/boom | 1 | 0| 
-| 20200910T12:10:04Z | Null | https://github.com/quentin452/Cats-Exploitz-HUB | 0 | 1| 
-| 20200910T11:50:30Z | Assembly block for finding and calling the windows API functions inside import address table(IAT) of the running PE file. | https://github.com/EgeBalci/IAT_API | 18 | 9| 
-| 20200910T11:48:14Z | Code for %Exploiting Unsupervised Inputs for Accurate Few-Shot Classification% | https://github.com/yhu01/transfer-sgc | 7 | 1| 
-| 20200910T11:35:13Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 7195 | 1170| 
-| 20200910T11:29:08Z | This is a minecraft plugin that simulates the gamemode creative to prevent players from exploiting. | https://github.com/SnakeAmazing/FakeCreative | 0 | 0| 
-| 20200910T11:18:57Z | My thoughts and rant about Penetration Testing, GNU/Linux, Low-level/Kernel Development, Exploits and more. | https://github.com/PedroSFreitas/PedroSFreitas.github.io | 0 | 0| 
-| 20200910T11:17:00Z | Attacking wordpress local website by using different exploits and vulnerabilities of the web | https://github.com/yuvalzolo/Cyber_Attack_on_wordpress | 0 | 0| 
+| 20200910T23:45:04Z | Inferious Cheats: Top Script Utility At Your Fingertips. Proving You With Top Roblox Scripts And Software. | https://github.com/MattLawz/1nferiousCheats | 1 | 0| 
+| 20200910T23:09:22Z | Null | https://github.com/quentin452/Cats-Exploitz-HUB | 0 | 1| 
+| 20200910T22:55:28Z | WebRTC exploits documented by Google Project Zero (https://bugs.chromium.org/p/project-zero/issues/detail?id=2034#c6) | https://github.com/whunt1965/GP_ZERO_WEBRTC | 0 | 0| 
+| 20200910T22:45:42Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 7199 | 1171| 
+| 20200910T22:29:37Z | steal the fucking code you damn kids without even reading it  | https://github.com/NikolaT3sla/wp-file-manager-0day-exploiter | 0 | 0| 
+| 20200910T22:12:07Z | Sifter is a osint, recon & vulnerability scanner. It combines a plethara of tools within different module sets in order to quickly perform recon tasks, check network firewalling, enumerate remote and local hosts, and scan for the %blue% vulnerabilities within microsft and if unpatched, exploit them.  It uses tools like blackwidow and konan for webdir enumeration and attack surface mapping rapidly using ASM.  | https://github.com/s1l3nt78/sifter | 244 | 76| 
+| 20200910T22:06:39Z | OpenAPI%s exploitation made easy. | https://github.com/creekorful/boom | 1 | 0| 
+| 20200910T21:59:18Z | Cyber Security Website Focusing on Penetration Testing, Exploit Development and Malware Analysis.  | https://github.com/bluehood/bluehood.github.io | 0 | 0| 
+| 20200910T21:38:48Z | thewhiteh4t%s Blog | https://github.com/thewhiteh4t/thewhiteh4t.github.io | 9 | 3| 
+| 20200910T19:38:39Z | Numerical examples from %Greedy inference with structure-exploiting lazy maps% | https://github.com/MichaelCBrennan/lazymaps | 0 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20200910T22:03:49Z | Pupy is an opensource, cross-platform (Windows, Linux, OSX, Android) remote administration and post-exploitation tool mainly written in python | https://github.com/n1nj4sec/pupy | 5784 | 1509| 
+| 20200910T21:51:28Z | A tool which utilizes Shodan to detect vulnerable IoT devices. | https://github.com/malwaredllc/bamf | 241 | 75| 
+| 20200910T20:05:20Z | Offensive Terraform module which creates an IAM role with trust relationship with attacker%s AWS account and attaches managed IAM Policy to an IAM role. | https://github.com/offensive-terraform/terraform-aws-cross-account-persistence | 0 | 0| 
+| 20200910T15:52:37Z | Full-featured C2 framework which silently persists on webserver via evil PHP oneliner :smiling_imp: | https://github.com/nil0x42/phpsploit | 987 | 302| 
 | 20200910T11:13:59Z | Null | https://github.com/edsonphx/Backdoor-BETA | 0 | 0| 
 | 20200910T10:51:01Z | Backdoor in C to learn windows socket programming and threads | https://github.com/PauloHenriqueFP/Ethical_Backdoor | 0 | 0| 
 | 20200910T09:58:05Z | shell backdoor | https://github.com/rizkipoloyo/shell | 0 | 0| 
 | 20200910T09:36:39Z | Multiplatform, post-exploitation tool to maintain the continuous access to a computer using irc as communication bus and capable of spawning a remote shell. | https://github.com/giwiro/s3ntineL-irc | 0 | 0| 
 | 20200910T04:40:59Z | Ghost Framework is an Android post-exploitation framework that exploits the Android Debug Bridge to remotely access an Android device. Ghost Framework gives you the power and convenience of remote Android device administration. | https://github.com/entynetproject/ghost | 688 | 349| 
 | 20200910T02:26:29Z | Backdoor Script Bypass NextGen-Down | https://github.com/PredatoreSexe/Backdoor-Script-Bypass-NextGen-Down | 0 | 0| 
-| 20200910T00:37:33Z | Remot3d: is a simple tool created for large pentesters as well as just for the pleasure of defacers to control server by backdoors | https://github.com/KeepWannabe/Remot3d | 237 | 61| 
 
 
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20200910T12:55:45Z | Fuzzy finder for every AWS component | https://github.com/AndreZiviani/aws-fuzzy | 0 | 1| 
-| 20200910T12:54:52Z | Match lines of a text file against another text file with optional additional fields | https://github.com/IMSA-ITS/fuzzy-match | 0 | 0| 
-| 20200910T12:40:35Z | Null | https://github.com/r-2007/Fuzzing-DTLS | 0 | 0| 
-| 20200910T12:27:54Z | The fuzzer afl++ is afl with community patches, AFLfast power schedules, qemu 3.1 upgrade + laf-intel support, MOpt mutators, InsTrim instrumentation, unicorn_mode, Redqueen and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 873 | 216| 
-| 20200910T12:18:20Z | 模糊认知诊断模型Python实现 | https://github.com/zelo2/FuzzyCDF | 1 | 1| 
-| 20200910T11:59:55Z | Null | https://github.com/sbtown/Fuzzy-CBR | 0 | 0| 
-| 20200910T11:33:40Z | Null | https://github.com/ethereum/solidity-fuzzing-corpus | 9 | 2| 
-| 20200910T11:24:43Z | A JavaScript Engine Fuzzer | https://github.com/googleprojectzero/fuzzilli | 1018 | 163| 
-| 20200910T10:43:06Z | C++ library for tests (unit, fuzz, property), benchmarks, apps | https://github.com/project-arcana/nexus | 0 | 0| 
-| 20200910T10:18:37Z | Personal website of Laurence Hughes | https://github.com/fuzzylogicxx/fuzzylogic | 4 | 1| 
+| 20200910T23:53:37Z | Null | https://github.com/Fuzzwah/simhub-dash-fuzzwah-v2 | 1 | 1| 
+| 20200910T23:24:31Z | A JavaScript Engine Fuzzer | https://github.com/googleprojectzero/fuzzilli | 1019 | 163| 
+| 20200910T23:05:45Z | Distributed fuzzing platform | https://github.com/qlyoung/lagopus | 0 | 0| 
+| 20200910T22:44:58Z | Scalable fuzzing infrastructure. | https://github.com/google/clusterfuzz | 4313 | 387| 
+| 20200910T22:29:41Z | The fuzzer afl++ is afl with community patches, AFLfast power schedules, qemu 3.1 upgrade + laf-intel support, MOpt mutators, InsTrim instrumentation, unicorn_mode, Redqueen and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 875 | 216| 
+| 20200910T21:23:23Z | Null | https://github.com/bahadrzeren/InvPendFuzzyController | 0 | 0| 
+| 20200910T21:14:03Z | typescript-express api | https://github.com/HTCicek/fuzzy-guap | 0 | 0| 
+| 20200910T20:34:54Z | OSS-Fuzz - continuous fuzzing of open source software. | https://github.com/google/oss-fuzz | 5528 | 1084| 
+| 20200910T20:09:10Z | Null | https://github.com/SimarPreetSingh/FuzzyLite | 0 | 0| 
+| 20200910T20:01:12Z | Fuzzco Nuxt template. | https://github.com/fuzzco/fuzznuxt | 2 | 0| 
 
 
 
