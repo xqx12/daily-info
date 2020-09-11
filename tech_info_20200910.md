@@ -35,7 +35,7 @@
 | --- | --- | --- | --- | ---| 
 | 20200910T23:42:03Z | CVE-2020-8150 | CVE-2020-8150 – Remote Code Execution as SYSTEM/root via Backblaze | https://github.com/geffner/CVE-2020-8150 | 未查询到CVE信息| 
 | 20200910T12:34:15Z | CVE-2020-17453 | Information/PoC For CVE-2020-17453 | https://github.com/JHHAX/CVE-2020-17453 | 未查询到CVE信息| 
-| 20200910T12:31:07Z | 未知编号 | CVE Data Analysis, CVE Monitor, CVE EXP Prediction Based on Deep Learning. 1999-2020年存量CVE数据分析、监控CVE增量更新、基于深度学习的CVE EXP预测和自动化推送 | https://github.com/404notf0und/CVE-Flow | 未查询到CVE信息| 
+| 20200910T12:31:07Z | 未知编号 | CVE Data Analysis, CVE Monitor, CVE EXP Prediction Based on Deep Learning. 1999-2020年存量CVE数据分析、监控CVE增量更新、基于深度学习的CVE EXP预测和自动化推送 | https://github.com/404notf0und/CVE-Flow | | 
 | 20200910T06:34:31Z | CVE-2020-3187 | Null | https://github.com/Basu-banakar/CVE-2020-3187 | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 47 MINUTES 27 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20200910T04:07:15Z | CVE-2020-0890 | CVE-2020-0890 , Windows Hyper-V Denial of Service Vulnerability proof-of-concept code | https://github.com/gerhart01/hyperv_local_dos_poc | 未查询到CVE信息| 
 
@@ -65,13 +65,13 @@
 | 20200910T23:45:04Z | Inferious Cheats: Top Script Utility At Your Fingertips. Proving You With Top Roblox Scripts And Software. | https://github.com/MattLawz/1nferiousCheats | 1 | 0| 
 | 20200910T23:09:22Z | Null | https://github.com/quentin452/Cats-Exploitz-HUB | 0 | 1| 
 | 20200910T22:55:28Z | WebRTC exploits documented by Google Project Zero (https://bugs.chromium.org/p/project-zero/issues/detail?id=2034#c6) | https://github.com/whunt1965/GP_ZERO_WEBRTC | 0 | 0| 
-| 20200910T22:45:42Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 7199 | 1171| 
 | 20200910T22:29:37Z | steal the fucking code you damn kids without even reading it  | https://github.com/NikolaT3sla/wp-file-manager-0day-exploiter | 0 | 0| 
 | 20200910T22:12:07Z | Sifter is a osint, recon & vulnerability scanner. It combines a plethara of tools within different module sets in order to quickly perform recon tasks, check network firewalling, enumerate remote and local hosts, and scan for the %blue% vulnerabilities within microsft and if unpatched, exploit them.  It uses tools like blackwidow and konan for webdir enumeration and attack surface mapping rapidly using ASM.  | https://github.com/s1l3nt78/sifter | 244 | 76| 
 | 20200910T22:06:39Z | OpenAPI%s exploitation made easy. | https://github.com/creekorful/boom | 1 | 0| 
 | 20200910T21:59:18Z | Cyber Security Website Focusing on Penetration Testing, Exploit Development and Malware Analysis.  | https://github.com/bluehood/bluehood.github.io | 0 | 0| 
 | 20200910T21:38:48Z | thewhiteh4t%s Blog | https://github.com/thewhiteh4t/thewhiteh4t.github.io | 9 | 3| 
 | 20200910T19:38:39Z | Numerical examples from %Greedy inference with structure-exploiting lazy maps% | https://github.com/MichaelCBrennan/lazymaps | 0 | 0| 
+| 20200910T19:03:36Z | BeEF is short for The Browser Exploitation Framework. It is a penetration testing tool that focuses on the web browser. You can exploitation and attack OVER WAN with this tool. You can also custom HTML as you wish and can choose your source code to use as a Web browser to target. This tool requires to Ngrok for all to function. | https://github.com/kp300/beef-over-wan | 0 | 0| 
 
 
 # backdoor on Github 推荐
