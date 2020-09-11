@@ -46,16 +46,16 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20200911T08:24:04Z | CVE-2020-1948 | [CVE-2020-1948] Apache Dubbo Provider default deserialization cause RCE | https://github.com/L0kiii/Dubbo-deserialization | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 52 MINUTES 25 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200911T07:38:26Z | CVE-2020-0787 | Support ALL Windows Version | https://github.com/cbwang505/CVE-2020-0787-EXP-ALL-WINDOWS-VERSION | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 52 MINUTES 23 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200911T03:06:56Z | CVE-2020-0096 | CVE-2020-0096-StrandHogg2 复现 | https://github.com/tea9/CVE-2020-0096-StrandHogg2 | | 
-| 20200911T00:30:21Z | CVE-2020-13933 | CVE-2020-13933 靶场： shiro < 1.6.0 认证绕过漏洞 | https://github.com/lyy289065406/CVE-2020-13933 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 52 MINUTES 32 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200911T08:24:04Z | CVE-2020-1948 | [CVE-2020-1948] Apache Dubbo Provider default deserialization cause RCE | https://github.com/L0kiii/Dubbo-deserialization | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 51 MINUTES 23 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200911T07:38:26Z | CVE-2020-0787 | Support ALL Windows Version | https://github.com/cbwang505/CVE-2020-0787-EXP-ALL-WINDOWS-VERSION | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 51 MINUTES 20 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200911T03:06:56Z | CVE-2020-0096 | CVE-2020-0096-StrandHogg2 复现 | https://github.com/tea9/CVE-2020-0096-StrandHogg2 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 51 MINUTES 27 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200911T00:30:21Z | CVE-2020-13933 | CVE-2020-13933 靶场： shiro < 1.6.0 认证绕过漏洞 | https://github.com/lyy289065406/CVE-2020-13933 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 51 MINUTES 30 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20200910T23:42:03Z | CVE-2020-8150 | CVE-2020-8150 – Remote Code Execution as SYSTEM/root via Backblaze | https://github.com/geffner/CVE-2020-8150 | 未查询到CVE信息| 
 | 20200910T12:34:15Z | CVE-2020-17453 | Information/PoC For CVE-2020-17453 | https://github.com/JHHAX/CVE-2020-17453 | 未查询到CVE信息| 
-| 20200910T12:31:07Z | 未知编号 | CVE Data Analysis, CVE Monitor, CVE EXP Prediction Based on Deep Learning. 1999-2020年存量CVE数据分析、监控CVE增量更新、基于深度学习的CVE EXP预测和自动化推送 | https://github.com/404notf0und/CVE-Flow | | 
-| 20200910T06:34:31Z | CVE-2020-3187 | Null | https://github.com/Basu-banakar/CVE-2020-3187 | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 52 MINUTES 36 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200910T12:31:07Z | 未知编号 | CVE Data Analysis, CVE Monitor, CVE EXP Prediction Based on Deep Learning. 1999-2020年存量CVE数据分析、监控CVE增量更新、基于深度学习的CVE EXP预测和自动化推送 | https://github.com/404notf0und/CVE-Flow | 未查询到CVE信息| 
+| 20200910T06:34:31Z | CVE-2020-3187 | Null | https://github.com/Basu-banakar/CVE-2020-3187 | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 51 MINUTES 34 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20200910T04:07:15Z | CVE-2020-0890 | CVE-2020-0890 , Windows Hyper-V Denial of Service Vulnerability proof-of-concept code | https://github.com/gerhart01/hyperv_local_dos_poc | 未查询到CVE信息| 
-| 20200909T21:46:47Z | CVE-2020-5902 | (CVE-2020-5902) BIG IP F5 TMUI RCE Vulnerability RCE PoC/ Test Script  | https://github.com/ludy-dev/BIG-IP-F5-TMUI-RCE-Vulnerability | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 52 MINUTES 34 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200909T21:46:47Z | CVE-2020-5902 | (CVE-2020-5902) BIG IP F5 TMUI RCE Vulnerability RCE PoC/ Test Script  | https://github.com/ludy-dev/BIG-IP-F5-TMUI-RCE-Vulnerability | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 51 MINUTES 32 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 
 
 # klee on Github 推荐
@@ -121,6 +121,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20200911T12:08:50Z | 🤖 Repeat tests. Repeat tests. Repeat tests. | https://github.com/ehmicky/test-each | 91 | 2| 
 | 20200911T11:17:34Z | Fuzzer for comp6447 | https://github.com/JarrodCameron/fuzz | 1 | 0| 
 | 20200911T11:14:08Z | FormatFuzzer is a framework for high-efficiency, high-quality generation and parsing of binary inputs. | https://github.com/uds-se/FormatFuzzer | 48 | 3| 
 | 20200911T11:09:48Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 3124 | 719| 
@@ -130,7 +131,6 @@
 | 20200911T09:58:00Z | Library and command line utility to do approximate string matching of a source against a bitext index and get matched source and target.  | https://github.com/SYSTRAN/fuzzy-match | 4 | 0| 
 | 20200911T09:47:49Z | Simple implementation of Robust Rank Correlation Coefficients on the Basis of Fuzzy Orderings paper. | https://github.com/mikulatomas/fuzzycorr | 0 | 0| 
 | 20200911T09:03:26Z | Linear Regression with Math | https://github.com/Dravid92/fuzzy-rotary-phone | 0 | 0| 
-| 20200911T08:25:15Z | 按照三部分对模糊测试入门进行介绍： | https://github.com/WayneDevMaze/Fuzzing-Introduction | 2 | 2| 
 
 
 
