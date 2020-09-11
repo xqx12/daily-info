@@ -95,13 +95,13 @@
 | 20200910T23:53:37Z | Null | https://github.com/Fuzzwah/simhub-dash-fuzzwah-v2 | 1 | 1| 
 | 20200910T23:24:31Z | A JavaScript Engine Fuzzer | https://github.com/googleprojectzero/fuzzilli | 1019 | 163| 
 | 20200910T23:05:45Z | Distributed fuzzing platform | https://github.com/qlyoung/lagopus | 0 | 0| 
-| 20200910T22:44:58Z | Scalable fuzzing infrastructure. | https://github.com/google/clusterfuzz | 4313 | 387| 
 | 20200910T22:29:41Z | The fuzzer afl++ is afl with community patches, AFLfast power schedules, qemu 3.1 upgrade + laf-intel support, MOpt mutators, InsTrim instrumentation, unicorn_mode, Redqueen and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 875 | 216| 
 | 20200910T21:23:23Z | Null | https://github.com/bahadrzeren/InvPendFuzzyController | 0 | 0| 
 | 20200910T21:14:03Z | typescript-express api | https://github.com/HTCicek/fuzzy-guap | 0 | 0| 
 | 20200910T20:34:54Z | OSS-Fuzz - continuous fuzzing of open source software. | https://github.com/google/oss-fuzz | 5528 | 1084| 
 | 20200910T20:09:10Z | Null | https://github.com/SimarPreetSingh/FuzzyLite | 0 | 0| 
 | 20200910T20:01:12Z | Fuzzco Nuxt template. | https://github.com/fuzzco/fuzznuxt | 2 | 0| 
+| 20200910T18:39:37Z | VMI Kernel Fuzzer for Xen Project - VM forking, VMI & AFL integration demo | https://github.com/intel/kernel-fuzzer-for-xen-project | 152 | 23| 
 
 
 

@@ -46,16 +46,16 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20200911T00:30:21Z | CVE-2020-13933 | CVE-2020-13933 靶场： shiro < 1.6.0 认证绕过漏洞 | https://github.com/lyy289065406/CVE-2020-13933 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 09 MINUTES 22 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200911T00:30:21Z | CVE-2020-13933 | CVE-2020-13933 靶场： shiro < 1.6.0 认证绕过漏洞 | https://github.com/lyy289065406/CVE-2020-13933 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 08 MINUTES 22 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20200910T23:42:03Z | CVE-2020-8150 | CVE-2020-8150 – Remote Code Execution as SYSTEM/root via Backblaze | https://github.com/geffner/CVE-2020-8150 | 未查询到CVE信息| 
 | 20200910T12:34:15Z | CVE-2020-17453 | Information/PoC For CVE-2020-17453 | https://github.com/JHHAX/CVE-2020-17453 | 未查询到CVE信息| 
 | 20200910T12:31:07Z | 未知编号 | CVE Data Analysis, CVE Monitor, CVE EXP Prediction Based on Deep Learning. 1999-2020年存量CVE数据分析、监控CVE增量更新、基于深度学习的CVE EXP预测和自动化推送 | https://github.com/404notf0und/CVE-Flow | 未查询到CVE信息| 
 | 20200910T06:34:31Z | CVE-2020-3187 | Null | https://github.com/Basu-banakar/CVE-2020-3187 | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 08 MINUTES 26 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20200910T04:07:15Z | CVE-2020-0890 | CVE-2020-0890 , Windows Hyper-V Denial of Service Vulnerability proof-of-concept code | https://github.com/gerhart01/hyperv_local_dos_poc | 未查询到CVE信息| 
-| 20200909T21:46:47Z | CVE-2020-5902 | (CVE-2020-5902) BIG IP F5 TMUI RCE Vulnerability RCE PoC/ Test Script  | https://github.com/ludy-dev/BIG-IP-F5-TMUI-RCE-Vulnerability | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 09 MINUTES 24 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200909T21:46:47Z | CVE-2020-5902 | (CVE-2020-5902) BIG IP F5 TMUI RCE Vulnerability RCE PoC/ Test Script  | https://github.com/ludy-dev/BIG-IP-F5-TMUI-RCE-Vulnerability | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 08 MINUTES 24 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20200909T21:42:44Z | CVE-2020-3452 | (CVE-2020-3452) Cisco Adaptive Security Appliance Software - Local File Inclusion Vuln Test sciript | https://github.com/ludy-dev/Cisco-ASA-LFI | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
-| 20200909T21:34:24Z | CVE-2020-17496 | (CVE-2020-17496) vBulletin 5.x Widget_tabbedcontainer_tab_panel RCE Vuln Test script | https://github.com/ludy-dev/vBulletin_5.x-tab_panel-RCE | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 09 MINUTES 16 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200909T17:54:16Z | CVE-2020-9460 | Stored Cross Site Scripting - Oempro  | https://github.com/g-rubert/CVE-2020-9460 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 09 MINUTES 07 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200909T21:34:24Z | CVE-2020-17496 | (CVE-2020-17496) vBulletin 5.x Widget_tabbedcontainer_tab_panel RCE Vuln Test script | https://github.com/ludy-dev/vBulletin_5.x-tab_panel-RCE | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 08 MINUTES 17 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200909T17:54:16Z | CVE-2020-9460 | Stored Cross Site Scripting - Oempro  | https://github.com/g-rubert/CVE-2020-9460 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 08 MINUTES 09 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 
 
 # klee on Github 推荐
@@ -121,6 +121,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20200911T00:52:15Z | Scalable fuzzing infrastructure. | https://github.com/google/clusterfuzz | 4313 | 387| 
 | 20200911T00:10:50Z | Code for fuzzy monkeys. | https://github.com/fuzzyatelin/fuzzyatelin.github.io | 1 | 9| 
 | 20200911T00:05:45Z | A ground-truth binary fuzzing benchmark suite based on real programs with real bugs. | https://github.com/HexHive/magma | 55 | 18| 
 | 20200911T00:01:02Z | Experimental projects | https://github.com/tannmatter/fuzzy-happiness | 0 | 0| 
@@ -128,7 +129,6 @@
 | 20200910T23:53:37Z | Null | https://github.com/Fuzzwah/simhub-dash-fuzzwah-v2 | 1 | 1| 
 | 20200910T23:24:31Z | A JavaScript Engine Fuzzer | https://github.com/googleprojectzero/fuzzilli | 1019 | 163| 
 | 20200910T23:05:45Z | Distributed fuzzing platform | https://github.com/qlyoung/lagopus | 0 | 0| 
-| 20200910T22:44:58Z | Scalable fuzzing infrastructure. | https://github.com/google/clusterfuzz | 4313 | 387| 
 | 20200910T22:29:41Z | The fuzzer afl++ is afl with community patches, AFLfast power schedules, qemu 3.1 upgrade + laf-intel support, MOpt mutators, InsTrim instrumentation, unicorn_mode, Redqueen and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 875 | 216| 
 | 20200910T21:23:23Z | Null | https://github.com/bahadrzeren/InvPendFuzzyController | 0 | 0| 
 
