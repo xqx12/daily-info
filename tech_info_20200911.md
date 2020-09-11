@@ -27,11 +27,11 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20200911T12:24:40Z | CVE-2020-1472 | Test tool for CVE-2020-1472 | https://github.com/SecuraBV/CVE-2020-1472 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 10 MINUTES 26 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200911T08:24:04Z | CVE-2020-1948 | [CVE-2020-1948] Apache Dubbo Provider default deserialization cause RCE | https://github.com/L0kiii/Dubbo-deserialization | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 10 MINUTES 22 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200911T07:38:26Z | CVE-2020-0787 | Support ALL Windows Version | https://github.com/cbwang505/CVE-2020-0787-EXP-ALL-WINDOWS-VERSION | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 10 MINUTES 19 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200911T03:06:56Z | CVE-2020-0096 | CVE-2020-0096-StrandHogg2 复现 | https://github.com/tea9/CVE-2020-0096-StrandHogg2 | | 
-| 20200911T00:30:21Z | CVE-2020-13933 | CVE-2020-13933 靶场： shiro < 1.6.0 认证绕过漏洞 | https://github.com/lyy289065406/CVE-2020-13933 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 10 MINUTES 28 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200911T12:24:40Z | CVE-2020-1472 | Test tool for CVE-2020-1472 | https://github.com/SecuraBV/CVE-2020-1472 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 09 MINUTES 27 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200911T08:24:04Z | CVE-2020-1948 | [CVE-2020-1948] Apache Dubbo Provider default deserialization cause RCE | https://github.com/L0kiii/Dubbo-deserialization | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 09 MINUTES 21 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200911T07:38:26Z | CVE-2020-0787 | Support ALL Windows Version | https://github.com/cbwang505/CVE-2020-0787-EXP-ALL-WINDOWS-VERSION | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 09 MINUTES 18 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200911T03:06:56Z | CVE-2020-0096 | CVE-2020-0096-StrandHogg2 复现 | https://github.com/tea9/CVE-2020-0096-StrandHogg2 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 09 MINUTES 26 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200911T00:30:21Z | CVE-2020-13933 | CVE-2020-13933 靶场： shiro < 1.6.0 认证绕过漏洞 | https://github.com/lyy289065406/CVE-2020-13933 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 09 MINUTES 28 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 
 
 # klee on Github 推荐
@@ -76,7 +76,8 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20200911T12:47:51Z | A JavaScript Engine Fuzzer | https://github.com/googleprojectzero/fuzzilli | 1020 | 164| 
+| 20200911T12:51:15Z | Fuzzy finder for every AWS component | https://github.com/AndreZiviani/aws-fuzzy | 0 | 1| 
+| 20200911T12:49:07Z | A JavaScript Engine Fuzzer | https://github.com/googleprojectzero/fuzzilli | 1020 | 164| 
 | 20200911T12:08:50Z | 🤖 Repeat tests. Repeat tests. Repeat tests. | https://github.com/ehmicky/test-each | 91 | 2| 
 | 20200911T11:17:34Z | Fuzzer for comp6447 | https://github.com/JarrodCameron/fuzz | 1 | 0| 
 | 20200911T11:14:08Z | FormatFuzzer is a framework for high-efficiency, high-quality generation and parsing of binary inputs. | https://github.com/uds-se/FormatFuzzer | 48 | 3| 
@@ -85,7 +86,6 @@
 | 20200911T10:08:06Z | Example Rossum webhook for vendor matching based on vendor name, address or VAT ID | https://github.com/rossumai/fuzzy-vendor-matching-webhook-python | 3 | 1| 
 | 20200911T09:58:00Z | Library and command line utility to do approximate string matching of a source against a bitext index and get matched source and target.  | https://github.com/SYSTRAN/fuzzy-match | 4 | 0| 
 | 20200911T09:47:49Z | Simple implementation of Robust Rank Correlation Coefficients on the Basis of Fuzzy Orderings paper. | https://github.com/mikulatomas/fuzzycorr | 0 | 0| 
-| 20200911T09:03:26Z | Linear Regression with Math | https://github.com/Dravid92/fuzzy-rotary-phone | 0 | 0| 
 
 
 
