@@ -18,7 +18,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20200912T12:17:07Z | CVE-2020-1472 | Test tool for CVE-2020-1472 | https://github.com/SecuraBV/CVE-2020-1472 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 39 MINUTES 43 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200912T12:17:07Z | CVE-2020-1472 | Test tool for CVE-2020-1472 | https://github.com/SecuraBV/CVE-2020-1472 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 38 MINUTES 41 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20200912T05:32:03Z | 未知编号 | CVE Data Analysis, CVE Monitor, CVE EXP Prediction Based on Deep Learning. 1999-2020年存量CVE数据分析、监控CVE增量更新、基于深度学习的CVE EXP预测和自动化推送 | https://github.com/404notf0und/CVE-Flow | 未查询到CVE信息| 
 
 
@@ -35,13 +35,13 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20200912T12:21:09Z | this bash script let you download scripts and clone repos for remote exploits | https://github.com/FabioDefilippo/linuxallremote | 5 | 0| 
 | 20200912T12:09:37Z | ROBLOX Lua Wrapper made with Lua 5.1 Just-In-Time compiler | https://github.com/yuukixdev/LuaJIT-Wrapper | 0 | 0| 
 | 20200912T12:08:29Z | Null | https://github.com/Dayvidson/Beco-do-Exploit | 0 | 0| 
 | 20200912T11:59:23Z | Jing Lou*, Huan Wang, Longtao Chen, Fenglei Xu, Qingyuan Xia, Wei Zhu, Mingwu Ren*, %Exploiting Color Name Space for Salient Object Detection,% Multimedia Tools and Applications, vol. 79, no. 15, pp. 10873-10897, 2020. | https://github.com/jinglou/p2019-cns-sod | 0 | 0| 
 | 20200912T11:35:11Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 7214 | 1173| 
 | 20200912T11:28:43Z | Null | https://github.com/royanpng2/ExploitKey123 | 0 | 0| 
 | 20200912T11:26:45Z | Key | https://github.com/royanpng2/KeyForExploit | 0 | 0| 
-| 20200912T11:17:49Z | this bash script let you download scripts and clone repos for remote exploits | https://github.com/FabioDefilippo/linuxallremote | 5 | 0| 
 | 20200912T10:36:31Z | A faithful recreation of the Windows 96 exploitation system. | https://github.com/beurkinger/windows-96 | 0 | 0| 
 | 20200912T10:29:29Z | An unsupervised method that combines Transformers and Capsule Networks to exploit spatial relations of different parts of an image. | https://github.com/karayanni/Stacked-Capsule-Autoencoder | 0 | 0| 
 | 20200912T10:20:16Z | Null | https://github.com/quentin452/Cats-Exploitz-HUB | 0 | 1| 
