@@ -17,15 +17,15 @@
 | 20200911 | Pen Test Partners 对众筹项目 360LOCK 智能锁的逆向分析 | https://www.pentestpartners.com/security-blog/360lock-smart-lock-review/| 
 | 20200911 | Quarkslab 对 August 智能锁的攻击面测试 | https://sec.today/pulses/88370db2-f0ea-48c7-84ef-eb5d6e044349/| 
 | 20200911 | Quarkslab 对 August 智能锁的攻击面测试 | https://blog.quarkslab.com/examining-the-august-smart-lock.html| 
+| 20200911 | 腾讯科恩实验公布5G安全漏洞演示视频。 | https://www.youtube.com/watch?v=Ca9lPMMToi0&feature=youtu.be| 
+| 20200911 | 乌克兰最大的IT公司之一SoftServe遭受网络攻击安全威胁。 | http://ain.ua/2020/09/01/softserve-haknuli/| 
+| 20200911 | 如何使用逆向工具Ghidra的内置“ git”服务器进行共享项目控制工作。 | https://byte.how/posts/collaborative-reverse-engineering/| 
 | 20200910 | Application Security Knowledgebase | https://ishaqmohammed.me/posts/application-security-knowledgebase/| 
 | 20200910 | 研究员 Atum 对另一条推送中手机被盗资金被窃事件的技术分析与思考 | https://zhuanlan.zhihu.com/p/231106722?utm_source=wechat_session| 
 | 20200910 | 一部手机失窃而揭露的窃取个人信息实现资金盗取的黑色产业链 | https://mp.weixin.qq.com/s/3UeZzw2LmPsM3cU7Rhmb8w| 
 | 20200910 | PEzor - 一款开源的 PE 文件加壳工具，绕过杀软检测 | https://securityonline.info/pezor-powerful-tool-for-bypassing-av-solutions/| 
 | 20200910 | Windows Projected File System NTFS symlink mitigation bypass | https://docs.google.com/document/d/13ZGDSa4eLRA-Uyhxi52t6U_zb2XXJcBEsEzNUcj7V2o/edit?usp=sharing| 
 | 20200910 | FuzzCon Europe 2020 会议的视频 | https://www.youtube.com/playlist?list=PLI0R_0_8-TV4JArtdlgnuPtgXALZxAYqu| 
-| 20200910 | Intel Owl - 批量收集 IP、文件、域名情报信息的工具 | https://github.com/intelowlproject/IntelOwl| 
-| 20200910 | Fuzzing JavaScript Engines with Fuzzilli | https://blog.doyensec.com/2020/09/09/fuzzilli-jerryscript.html| 
-| 20200910 | 针对以Linux上运行CDRThief恶意软件瞄准了运营商网络中的VoIP设备，并窃取电话元数据。 | https://threatpost.com/cdrthief-malware-voip-gear-carrier-networks/159100/| 
 
 
 # 安全维基 推荐
@@ -46,24 +46,24 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20200911T12:24:40Z | CVE-2020-1472 | Test tool for CVE-2020-1472 | https://github.com/SecuraBV/CVE-2020-1472 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 01 MINUTES 28 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200911T08:24:04Z | CVE-2020-1948 | [CVE-2020-1948] Apache Dubbo Provider default deserialization cause RCE | https://github.com/L0kiii/Dubbo-deserialization | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 01 MINUTES 20 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200911T07:38:26Z | CVE-2020-0787 | Support ALL Windows Version | https://github.com/cbwang505/CVE-2020-0787-EXP-ALL-WINDOWS-VERSION | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 01 MINUTES 19 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200911T03:06:56Z | CVE-2020-0096 | CVE-2020-0096-StrandHogg2 复现 | https://github.com/tea9/CVE-2020-0096-StrandHogg2 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 01 MINUTES 25 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200911T00:30:21Z | CVE-2020-13933 | CVE-2020-13933 靶场： shiro < 1.6.0 认证绕过漏洞 | https://github.com/lyy289065406/CVE-2020-13933 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 01 MINUTES 29 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200911T23:19:30Z | CVE-2020-1472 | Test tool for CVE-2020-1472 | https://github.com/SecuraBV/CVE-2020-1472 | 当攻击者使用 Netlogon 远程协议 （MS-NRPC）（也称为%Netlogon 特权提升漏洞%）建立易受 Netlogon 安全通道连接到域控制器时，存在特权提升漏洞。| 
+| 20200911T22:30:33Z | 未知编号 | CVE Data Analysis, CVE Monitor, CVE EXP Prediction Based on Deep Learning. 1999-2020年存量CVE数据分析、监控CVE增量更新、基于深度学习的CVE EXP预测和自动化推送 | https://github.com/404notf0und/CVE-Flow | 未查询到CVE信息| 
+| 20200911T20:00:54Z | CVE-2020-17496 | (CVE-2020-17496) vBulletin 5.x Widget_tabbedcontainer_tab_panel RCE Vuln Test script | https://github.com/ludy-dev/vBulletin_5.x-tab_panel-RCE | vBulletin 5.5.4至5.6.2允许通过ajax / render / widget_tabbedcontainer_tab_panel请求中的精巧subWidgets数据执行远程命令。注意：由于CVE-2019-16759的修复不完整，所以存在此问题。| 
+| 20200911T19:58:32Z | CVE-2020-3452 | (CVE-2020-3452) Cisco Adaptive Security Appliance Software - Local File Inclusion Vuln Test sciript | https://github.com/ludy-dev/Cisco-ASA-LFI | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
+| 20200911T17:14:21Z | CVE-2020-13933 | CVE-2020-13933 靶场： shiro < 1.6.0 认证绕过漏洞 | https://github.com/lyy289065406/CVE-2020-13933 | 1.6.0之前的Apache Shiro，在使用Apache Shiro时，特制的HTTP请求可能会导致身份验证绕过。| 
+| 20200911T08:24:04Z | CVE-2020-1948 | [CVE-2020-1948] Apache Dubbo Provider default deserialization cause RCE | https://github.com/L0kiii/Dubbo-deserialization | | 
+| 20200911T07:38:26Z | CVE-2020-0787 | Support ALL Windows Version | https://github.com/cbwang505/CVE-2020-0787-EXP-ALL-WINDOWS-VERSION | 当 Windows 后台智能传输服务 （BITS） 不当处理符号链接（也称为%Windows 后台智能传输服务特权漏洞提升%）时，存在特权提升漏洞。| 
+| 20200911T03:06:56Z | CVE-2020-0096 | CVE-2020-0096-StrandHogg2 复现 | https://github.com/tea9/CVE-2020-0096-StrandHogg2 | 在ActivityStartController.java的startActivities中，由于代理人的困惑，可能会导致特权升级。这可能导致特权的本地升级，而无需其他执行特权。不需要用户交互即可进行开发。产品：Android版本：Android-8.0 Android-8.1 Android-9Android ID：A-145669109| 
 | 20200910T23:42:03Z | CVE-2020-8150 | CVE-2020-8150 – Remote Code Execution as SYSTEM/root via Backblaze | https://github.com/geffner/CVE-2020-8150 | 未查询到CVE信息| 
-| 20200910T12:34:15Z | CVE-2020-17453 | Information/PoC For CVE-2020-17453 | https://github.com/JHHAX/CVE-2020-17453 | 未查询到CVE信息| 
-| 20200910T12:31:07Z | 未知编号 | CVE Data Analysis, CVE Monitor, CVE EXP Prediction Based on Deep Learning. 1999-2020年存量CVE数据分析、监控CVE增量更新、基于深度学习的CVE EXP预测和自动化推送 | https://github.com/404notf0und/CVE-Flow | 未查询到CVE信息| 
-| 20200910T06:34:31Z | CVE-2020-3187 | Null | https://github.com/Basu-banakar/CVE-2020-3187 | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 01 MINUTES 33 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200910T04:07:15Z | CVE-2020-0890 | CVE-2020-0890 , Windows Hyper-V Denial of Service Vulnerability proof-of-concept code | https://github.com/gerhart01/hyperv_local_dos_poc | 未查询到CVE信息| 
+| 20200910T12:34:15Z | CVE-2020-17453 | Information/PoC For CVE-2020-17453 | https://github.com/JHHAX/CVE-2020-17453 | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20200911T11:53:45Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1495 | 455| 
-| 20200911T10:37:47Z | RVT is a collection of tools/libraries to support both static and dynamic verification of Rust programs. | https://github.com/project-oak/rust-verification-tools | 79 | 3| 
-| 20200911T05:33:07Z | Ironhack project #2 | https://github.com/ymenuet/KLEEN | 1 | 1| 
+| 20200911T18:08:38Z | Ironhack project #2 | https://github.com/ymenuet/KLEEN | 1 | 1| 
+| 20200911T17:29:19Z | RVT is a collection of tools/libraries to support both static and dynamic verification of Rust programs. | https://github.com/project-oak/rust-verification-tools | 79 | 3| 
+| 20200911T16:38:47Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1496 | 455| 
 | 20200910T21:18:22Z | The compiler inputs a PDDL benchmark of the Carpark planning problem and converts it to an equivalent C code which is used for solving the planning problem by program verification tools such as KLEE/TracerX. | https://github.com/daneshvar-amrollahi/Carpark-PDDL2C | 0 | 0| 
 | 20200910T16:13:14Z | KLEE in the browser | https://github.com/klee/klee-web | 43 | 10| 
 | 20200910T13:39:24Z | Scala library for generation and manipulation of images treated as a point => color function. | https://github.com/skac112/klee | 0 | 0| 
@@ -91,16 +91,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20200911T12:48:43Z | Sifter is a OSINT, recon & vulnerability scanner. It incorporates a plethara of tools within different module sets that tries to cover every attack vector. Allowing you to quickly person recon tasks and organize the results in one place. From OSINT to recon, exploitation, post-exploitation, OpSec, Threat Analysis, XSS, SQLi.. Sifter should be able to cover it all. | https://github.com/s1l3nt78/sifter | 244 | 76| 
-| 20200911T12:48:16Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 5 | 2| 
-| 20200911T12:41:51Z | Null | https://github.com/a-s-995/Buffer_overflow-exercises-with-exploit | 0 | 0| 
-| 20200911T12:37:54Z | Null | https://github.com/Psychorot/ParadoxExploitGuncel | 0 | 0| 
-| 20200911T12:00:55Z | 📈 A visualization of MetricQ data exploiting the advanctages of the HTA db backend  | https://github.com/metricq/metricq-webview | 0 | 0| 
-| 20200911T11:50:21Z | Python implementation of [Exploiting Music Play Sequence for Music Recommendation](https://www.ijcai.org/Proceedings/2017/0511.pdf) | https://github.com/kushmadlani/imf2vec | 0 | 0| 
-| 20200911T11:47:55Z | RMIScout uses wordlist and bruteforce strategies to enumerate Java RMI functions and exploit RMI parameter unmarshalling vulnerabilities | https://github.com/BishopFox/rmiscout | 208 | 35| 
-| 20200911T11:39:18Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 7205 | 1171| 
-| 20200911T11:10:32Z | Stash for Binary Exploitation and Reverse Engineering Resources | https://github.com/0xroman1/Scuffed_Low_Level_Stash | 10 | 1| 
-| 20200911T11:02:22Z | Writeups, scripts and solutions for CTFs, Hack the Box, Vulnhub, exploit challenges, pwnables, crackmes, etc. Anything goes. | https://github.com/alichtman/writeups | 4 | 1| 
+| 20200911T23:47:45Z | Null | https://github.com/quentin452/Cats-Exploitz-HUB | 0 | 1| 
+| 20200911T23:43:05Z | A phased, evasive Path Traversal + LFI scanning & exploitation tool in Python | https://github.com/VainlyStrain/Vailyn | 49 | 0| 
+| 20200911T23:37:50Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 7211 | 1171| 
+| 20200911T23:11:28Z | IoT 固件漏洞复现环境 | https://github.com/firmianay/IoT-vulhub | 1 | 0| 
+| 20200911T23:11:17Z | Null | https://github.com/reybango/Exploits | 0 | 0| 
+| 20200911T22:58:23Z | X Attacker Tool ☣ Website Vulnerability Scanner & Auto Exploiter | https://github.com/Moham3dRiahi/XAttacker | 791 | 379| 
+| 20200911T22:35:36Z | Cyber Security Website Focusing on Penetration Testing, Exploit Development, Malware Analysis and Shellcode.  | https://github.com/bluehood/bluehood.github.io | 0 | 0| 
+| 20200911T22:34:43Z | Null | https://github.com/guttir14/dead-by-daylight-exploits | 0 | 1| 
+| 20200911T21:30:50Z | Root shell exploit for several Xiaomi routers: 4A Gigabit, 4A 100M, 4C, 3Gv2, 4Q, miWifi 3C... | https://github.com/acecilia/OpenWRTInvasion | 176 | 34| 
+| 20200911T21:14:29Z | Null | https://github.com/SeanLossef/modern-binary-exploitation | 0 | 0| 
 
 
 # backdoor on Github 推荐
