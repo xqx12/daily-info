@@ -58,7 +58,8 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20200912T12:14:43Z | Null | https://github.com/WarNote/fuzzySearchTests | 0 | 0| 
+| 20200912T12:21:09Z | Null | https://github.com/WarNote/fuzzySearchTests | 0 | 0| 
+| 20200912T12:18:04Z | A simple fuzzer search that allows you to select a active docker container and a command to execute on it | https://github.com/kb05/docker-fuzzy-executer | 0 | 0| 
 | 20200912T12:10:55Z | Null | https://github.com/Kapp1/fuzzy-octo | 0 | 0| 
 | 20200912T12:03:06Z | Null | https://github.com/Ma-devv/JSONObjectFuzzer | 0 | 0| 
 | 20200912T11:56:37Z | fzf-like fuzzy-finder as a Go library | https://github.com/ktr0731/go-fuzzyfinder | 188 | 16| 
@@ -67,7 +68,6 @@
 | 20200912T11:28:30Z | Highly experimental parser that calculates the way a pattern best matches a text, and how closely it matches the text, rather than calculates a binary match or parse error. | https://github.com/SamRoberts/fuzzy | 0 | 0| 
 | 20200912T11:26:19Z | Null | https://github.com/pyVarad/fuzzy-fortnight | 0 | 0| 
 | 20200912T11:21:26Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 3124 | 719| 
-| 20200912T11:15:10Z | Experimental fuzzer for PHP libraries | https://github.com/nikic/PHP-Fuzzer | 255 | 9| 
 
 
 
