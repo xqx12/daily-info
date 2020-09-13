@@ -17,7 +17,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20200913T11:49:00Z | CVE-2020-1472 | Test tool for CVE-2020-1472 | https://github.com/SecuraBV/CVE-2020-1472 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 58 MINUTES 37 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200913T11:49:00Z | CVE-2020-1472 | Test tool for CVE-2020-1472 | https://github.com/SecuraBV/CVE-2020-1472 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 57 MINUTES 39 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20200913T10:36:44Z | 未知编号 | EasyAntiCheat Integrity check bypass by mimicking memory changes | https://github.com/thesecretclub/CVEAC-2020 | 未查询到CVE信息| 
 
 
@@ -50,7 +50,12 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20200913T01:48:18Z | Pwning the Nuro issued Huawei HG8045Q | https://github.com/meh301/HG8045Q | 11 | 1| 
+| 20200913T11:29:21Z | Shtirlitz Garry%s Mod Backdoor Panel | https://github.com/OzaronZ/shtirlitz-panel | 1 | 0| 
+| 20200913T08:44:55Z | An advanced PHP backdoor management and generation tool featuring end to end encrypted payload streaming. Features end to end encryption with request unique encryption keys, and payload streaming designed to bypass WAF, IDS, SIEM systems. | https://github.com/gellin/bantam | 2 | 0| 
+| 20200913T05:53:42Z | This tool will create backdoor | https://github.com/krishpranav/Backdoorcreator | 2 | 0| 
+| 20200913T03:49:36Z | Full-featured C2 framework which silently persists on webserver via evil PHP oneliner :smiling_imp: | https://github.com/nil0x42/phpsploit | 989 | 303| 
+| 20200913T03:00:43Z | Pwning the Nuro issued Huawei HG8045Q | https://github.com/meh301/HG8045Q | 12 | 1| 
+| 20200913T02:59:21Z | A tool which utilizes Shodan to detect vulnerable IoT devices. | https://github.com/malwaredllc/bamf | 242 | 75| 
 
 
 # fuzz on Github 推荐
