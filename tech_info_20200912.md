@@ -67,16 +67,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20200912T12:55:30Z | Null | https://github.com/Ma-devv/JSONObjectFuzzer | 0 | 0| 
-| 20200912T12:53:26Z | Null | https://github.com/WarNote/fuzzySearchTests | 0 | 0| 
-| 20200912T12:26:13Z | Take the current implementation and turning a microservice architecture | https://github.com/ccesarrod/FuzzyMicrosrvices | 0 | 0| 
-| 20200912T12:18:04Z | A simple fuzzer search that allows you to select a active docker container and a command to execute on it | https://github.com/kb05/docker-fuzzy-executer | 0 | 0| 
-| 20200912T12:10:55Z | Null | https://github.com/Kapp1/fuzzy-octo | 0 | 0| 
-| 20200912T11:56:37Z | fzf-like fuzzy-finder as a Go library | https://github.com/ktr0731/go-fuzzyfinder | 188 | 16| 
-| 20200912T11:44:22Z | A Python implementation of Fuzzy C Means Clustering algorithm. | https://github.com/samyak24jain/FuzzyCMeans | 32 | 37| 
-| 20200912T11:33:43Z | The Book %Generating Software Tests% | https://github.com/uds-se/fuzzingbook | 420 | 85| 
-| 20200912T11:28:30Z | Highly experimental parser that calculates the way a pattern best matches a text, and how closely it matches the text, rather than calculates a binary match or parse error. | https://github.com/SamRoberts/fuzzy | 0 | 0| 
-| 20200912T11:26:19Z | Null | https://github.com/pyVarad/fuzzy-fortnight | 0 | 0| 
+| 20200912T23:57:00Z | Null | https://github.com/nayramartins/fuzzer-mvp | 0 | 0| 
+| 20200912T23:50:21Z | Null | https://github.com/olegsych/fuzzy | 0 | 0| 
+| 20200912T23:25:26Z | OSS-Fuzz - continuous fuzzing of open source software. | https://github.com/google/oss-fuzz | 5536 | 1084| 
+| 20200912T23:17:38Z | port of https://github.com/seatgeek/fuzzywuzzy | https://github.com/logannc/fuzzyrusty | 16 | 2| 
+| 20200912T21:22:14Z | Code for fuzzy monkeys. | https://github.com/fuzzyatelin/fuzzyatelin.github.io | 1 | 9| 
+| 20200912T20:44:29Z | Null | https://github.com/bahadrzeren/InvPendFuzzyController | 0 | 0| 
+| 20200912T20:02:45Z | A DOM fuzzer | https://github.com/sslab-gatech/freedom | 4 | 0| 
+| 20200912T19:40:50Z | Fast web fuzzer written in Go | https://github.com/ffuf/ffuf | 2940 | 340| 
+| 20200912T19:37:42Z | Fuzzy Trader API - Node.JS | https://github.com/diltheyaislan/fuzzy-trader-api | 0 | 0| 
+| 20200912T19:15:54Z | My first repository | https://github.com/z11rubinaz1/fuzzy-journal | 0 | 0| 
 
 
 

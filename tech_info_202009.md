@@ -49,12 +49,12 @@
 | 20200912T23:39:15Z | CVE-2020-1472 | Test tool for CVE-2020-1472 | https://github.com/SecuraBV/CVE-2020-1472 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 56 MINUTES 38 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20200912T22:06:31Z | CVE-2020-11881 | CVE-2020-11881: unauthenticated remote DoS for MikroTik SMB service. | https://github.com/botlabsDev/CVE-2020-11881 | 未查询到CVE信息| 
 | 20200912T05:32:03Z | 未知编号 | CVE Data Analysis, CVE Monitor, CVE EXP Prediction Based on Deep Learning. 1999-2020年存量CVE数据分析、监控CVE增量更新、基于深度学习的CVE EXP预测和自动化推送 | https://github.com/404notf0und/CVE-Flow | 未查询到CVE信息| 
-| 20200911T20:00:54Z | CVE-2020-17496 | (CVE-2020-17496) vBulletin 5.x Widget_tabbedcontainer_tab_panel RCE Vuln Test script | https://github.com/ludy-dev/vBulletin_5.x-tab_panel-RCE | vBulletin 5.5.4至5.6.2允许通过ajax / render / widget_tabbedcontainer_tab_panel请求中的精巧subWidgets数据执行远程命令。注意：由于CVE-2019-16759的修复不完整，所以存在此问题。| 
+| 20200911T20:00:54Z | CVE-2020-17496 | (CVE-2020-17496) vBulletin 5.x Widget_tabbedcontainer_tab_panel RCE Vuln Test script | https://github.com/ludy-dev/vBulletin_5.x-tab_panel-RCE | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 56 MINUTES 33 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20200911T19:58:32Z | CVE-2020-3452 | (CVE-2020-3452) Cisco Adaptive Security Appliance Software - Local File Inclusion Vuln Test sciript | https://github.com/ludy-dev/Cisco-ASA-LFI | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
 | 20200911T17:14:21Z | CVE-2020-13933 | CVE-2020-13933 靶场： shiro < 1.6.0 认证绕过漏洞 | https://github.com/lyy289065406/CVE-2020-13933 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 56 MINUTES 39 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200911T08:24:04Z | CVE-2020-1948 | [CVE-2020-1948] Apache Dubbo Provider default deserialization cause RCE | https://github.com/L0kiii/Dubbo-deserialization | 此漏洞可能影响所有Dubbo用户停留在2.7.6或更低版本上。攻击者可以发送带有无法识别的服务名称或方法名称以及某些恶意参数有效载荷的RPC请求。反序列化恶意参数时，它将执行一些恶意代码。可以在下面找到更多详细信息。| 
-| 20200911T07:38:26Z | CVE-2020-0787 | Support ALL Windows Version | https://github.com/cbwang505/CVE-2020-0787-EXP-ALL-WINDOWS-VERSION | 当 Windows 后台智能传输服务 （BITS） 不当处理符号链接（也称为%Windows 后台智能传输服务特权漏洞提升%）时，存在特权提升漏洞。| 
-| 20200911T03:06:56Z | CVE-2020-0096 | CVE-2020-0096-StrandHogg2 复现 | https://github.com/tea9/CVE-2020-0096-StrandHogg2 | 在ActivityStartController.java的startActivities中，由于代理人的困惑，可能会导致特权升级。这可能导致特权的本地升级，而无需其他执行特权。不需要用户交互即可进行开发。产品：Android版本：Android-8.0 Android-8.1 Android-9Android ID：A-145669109| 
+| 20200911T08:24:04Z | CVE-2020-1948 | [CVE-2020-1948] Apache Dubbo Provider default deserialization cause RCE | https://github.com/L0kiii/Dubbo-deserialization | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 56 MINUTES 31 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200911T07:38:26Z | CVE-2020-0787 | Support ALL Windows Version | https://github.com/cbwang505/CVE-2020-0787-EXP-ALL-WINDOWS-VERSION | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 56 MINUTES 28 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200911T03:06:56Z | CVE-2020-0096 | CVE-2020-0096-StrandHogg2 复现 | https://github.com/tea9/CVE-2020-0096-StrandHogg2 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 56 MINUTES 35 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20200910T23:42:03Z | CVE-2020-8150 | CVE-2020-8150 – Remote Code Execution as SYSTEM/root via Backblaze | https://github.com/geffner/CVE-2020-8150 | 未查询到CVE信息| 
 
 
@@ -121,16 +121,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20200912T12:55:30Z | Null | https://github.com/Ma-devv/JSONObjectFuzzer | 0 | 0| 
-| 20200912T12:53:26Z | Null | https://github.com/WarNote/fuzzySearchTests | 0 | 0| 
-| 20200912T12:26:13Z | Take the current implementation and turning a microservice architecture | https://github.com/ccesarrod/FuzzyMicrosrvices | 0 | 0| 
-| 20200912T12:18:04Z | A simple fuzzer search that allows you to select a active docker container and a command to execute on it | https://github.com/kb05/docker-fuzzy-executer | 0 | 0| 
-| 20200912T12:10:55Z | Null | https://github.com/Kapp1/fuzzy-octo | 0 | 0| 
-| 20200912T11:56:37Z | fzf-like fuzzy-finder as a Go library | https://github.com/ktr0731/go-fuzzyfinder | 188 | 16| 
-| 20200912T11:44:22Z | A Python implementation of Fuzzy C Means Clustering algorithm. | https://github.com/samyak24jain/FuzzyCMeans | 32 | 37| 
-| 20200912T11:33:43Z | The Book %Generating Software Tests% | https://github.com/uds-se/fuzzingbook | 420 | 85| 
-| 20200912T11:28:30Z | Highly experimental parser that calculates the way a pattern best matches a text, and how closely it matches the text, rather than calculates a binary match or parse error. | https://github.com/SamRoberts/fuzzy | 0 | 0| 
-| 20200912T11:26:19Z | Null | https://github.com/pyVarad/fuzzy-fortnight | 0 | 0| 
+| 20200912T23:57:00Z | Null | https://github.com/nayramartins/fuzzer-mvp | 0 | 0| 
+| 20200912T23:50:21Z | Null | https://github.com/olegsych/fuzzy | 0 | 0| 
+| 20200912T23:25:26Z | OSS-Fuzz - continuous fuzzing of open source software. | https://github.com/google/oss-fuzz | 5536 | 1084| 
+| 20200912T23:17:38Z | port of https://github.com/seatgeek/fuzzywuzzy | https://github.com/logannc/fuzzyrusty | 16 | 2| 
+| 20200912T21:22:14Z | Code for fuzzy monkeys. | https://github.com/fuzzyatelin/fuzzyatelin.github.io | 1 | 9| 
+| 20200912T20:44:29Z | Null | https://github.com/bahadrzeren/InvPendFuzzyController | 0 | 0| 
+| 20200912T20:02:45Z | A DOM fuzzer | https://github.com/sslab-gatech/freedom | 4 | 0| 
+| 20200912T19:40:50Z | Fast web fuzzer written in Go | https://github.com/ffuf/ffuf | 2940 | 340| 
+| 20200912T19:37:42Z | Fuzzy Trader API - Node.JS | https://github.com/diltheyaislan/fuzzy-trader-api | 0 | 0| 
+| 20200912T19:15:54Z | My first repository | https://github.com/z11rubinaz1/fuzzy-journal | 0 | 0| 
 
 
 
