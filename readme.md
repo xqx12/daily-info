@@ -21,7 +21,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20200912T23:39:15Z | CVE-2020-1472 | Test tool for CVE-2020-1472 | https://github.com/SecuraBV/CVE-2020-1472 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 44 MINUTES 38 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200912T23:39:15Z | CVE-2020-1472 | Test tool for CVE-2020-1472 | https://github.com/SecuraBV/CVE-2020-1472 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 43 MINUTES 37 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20200912T22:06:31Z | CVE-2020-11881 | CVE-2020-11881: unauthenticated remote DoS for MikroTik SMB service. | https://github.com/botlabsDev/CVE-2020-11881 | 未查询到CVE信息| 
 | 20200912T05:32:03Z | 未知编号 | CVE Data Analysis, CVE Monitor, CVE EXP Prediction Based on Deep Learning. 1999-2020年存量CVE数据分析、监控CVE增量更新、基于深度学习的CVE EXP预测和自动化推送 | https://github.com/404notf0und/CVE-Flow | 未查询到CVE信息| 
 
@@ -74,7 +74,7 @@
 | 20200912T21:22:14Z | Code for fuzzy monkeys. | https://github.com/fuzzyatelin/fuzzyatelin.github.io | 1 | 9| 
 | 20200912T20:44:29Z | Null | https://github.com/bahadrzeren/InvPendFuzzyController | 0 | 0| 
 | 20200912T20:02:45Z | A DOM fuzzer | https://github.com/sslab-gatech/freedom | 4 | 0| 
-| 20200912T19:40:50Z | Fast web fuzzer written in Go | https://github.com/ffuf/ffuf | 2940 | 340| 
+| 20200912T19:40:50Z | Fast web fuzzer written in Go | https://github.com/ffuf/ffuf | 2940 | 341| 
 | 20200912T19:37:42Z | Fuzzy Trader API - Node.JS | https://github.com/diltheyaislan/fuzzy-trader-api | 0 | 0| 
 | 20200912T19:15:54Z | My first repository | https://github.com/z11rubinaz1/fuzzy-journal | 0 | 0| 
 
