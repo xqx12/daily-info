@@ -22,8 +22,8 @@
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
 | 20200912T23:39:15Z | CVE-2020-1472 | Test tool for CVE-2020-1472 | https://github.com/SecuraBV/CVE-2020-1472 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 03 MINUTES 35 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200912T22:06:31Z | CVE-2020-11881 | CVE-2020-11881: unauthenticated remote DoS for MikroTik SMB service. | https://github.com/botlabsDev/CVE-2020-11881 | | 
-| 20200912T05:32:03Z | 未知编号 | CVE Data Analysis, CVE Monitor, CVE EXP Prediction Based on Deep Learning. 1999-2020年存量CVE数据分析、监控CVE增量更新、基于深度学习的CVE EXP预测和自动化推送 | https://github.com/404notf0und/CVE-Flow | 未查询到CVE信息| 
+| 20200912T22:06:31Z | CVE-2020-11881 | CVE-2020-11881: unauthenticated remote DoS for MikroTik SMB service. | https://github.com/botlabsDev/CVE-2020-11881 | 未查询到CVE信息| 
+| 20200912T05:32:03Z | 未知编号 | CVE Data Analysis, CVE Monitor, CVE EXP Prediction Based on Deep Learning. 1999-2020年存量CVE数据分析、监控CVE增量更新、基于深度学习的CVE EXP预测和自动化推送 | https://github.com/404notf0und/CVE-Flow | | 
 
 
 # klee on Github 推荐
@@ -67,7 +67,6 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20200912T23:57:00Z | Null | https://github.com/nayramartins/fuzzer-mvp | 0 | 0| 
 | 20200912T23:50:21Z | Null | https://github.com/olegsych/fuzzy | 0 | 0| 
 | 20200912T23:25:26Z | OSS-Fuzz - continuous fuzzing of open source software. | https://github.com/google/oss-fuzz | 5536 | 1084| 
 | 20200912T23:17:38Z | port of https://github.com/seatgeek/fuzzywuzzy | https://github.com/logannc/fuzzyrusty | 16 | 2| 
@@ -77,6 +76,7 @@
 | 20200912T19:40:50Z | Fast web fuzzer written in Go | https://github.com/ffuf/ffuf | 2940 | 341| 
 | 20200912T19:37:42Z | Fuzzy Trader API - Node.JS | https://github.com/diltheyaislan/fuzzy-trader-api | 0 | 0| 
 | 20200912T19:15:54Z | My first repository | https://github.com/z11rubinaz1/fuzzy-journal | 0 | 0| 
+| 20200912T19:04:21Z | Fuzzy Lookup function for Splunk. Find near-matches in a lookup to enrich search results. | https://github.com/deductiv/fuzzylookup | 0 | 0| 
 
 
 
