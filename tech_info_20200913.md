@@ -17,7 +17,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20200913T12:47:28Z | CVE-2020-1472 | Test tool for CVE-2020-1472 | https://github.com/SecuraBV/CVE-2020-1472 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 10 MINUTES 39 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200913T12:47:28Z | CVE-2020-1472 | Test tool for CVE-2020-1472 | https://github.com/SecuraBV/CVE-2020-1472 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 09 MINUTES 38 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20200913T12:33:31Z | CVE-2020-8150 | CVE-2020-8150 – Remote Code Execution as SYSTEM/root via Backblaze | https://github.com/geffner/CVE-2020-8150 | 未查询到CVE信息| 
 | 20200913T10:36:44Z | 未知编号 | EasyAntiCheat Integrity check bypass by mimicking memory changes | https://github.com/thesecretclub/CVEAC-2020 | 未查询到CVE信息| 
 
@@ -62,6 +62,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20200913T12:50:20Z | No idea what I%m doing | https://github.com/klecko/fuzz | 1 | 0| 
 | 20200913T12:26:35Z | Tools for stress testing applications. | https://github.com/stbraun/fuzzing | 12 | 3| 
 | 20200913T12:06:45Z | Personal website of Laurence Hughes | https://github.com/fuzzylogicxx/fuzzylogic | 4 | 1| 
 | 20200913T11:42:39Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 3124 | 719| 
@@ -71,7 +72,6 @@
 | 20200913T10:10:10Z | Null | https://github.com/bahadrzeren/InvPendFuzzyController | 0 | 0| 
 | 20200913T09:33:56Z | Null | https://github.com/Ma-devv/JSONObjectFuzzer | 0 | 0| 
 | 20200913T09:17:02Z | Null | https://github.com/Ishaan29/fuzzy-chainsaw-algo | 1 | 0| 
-| 20200913T09:06:36Z | Collection of quality safety articles | https://github.com/tom0li/collection-document | 1220 | 401| 
 
 
 
