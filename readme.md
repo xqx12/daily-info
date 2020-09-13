@@ -17,7 +17,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20200913T12:39:09Z | CVE-2020-1472 | Test tool for CVE-2020-1472 | https://github.com/SecuraBV/CVE-2020-1472 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 18 MINUTES 38 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200913T12:39:09Z | CVE-2020-1472 | Test tool for CVE-2020-1472 | https://github.com/SecuraBV/CVE-2020-1472 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 16 MINUTES 38 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20200913T12:33:31Z | CVE-2020-8150 | CVE-2020-8150 – Remote Code Execution as SYSTEM/root via Backblaze | https://github.com/geffner/CVE-2020-8150 | 未查询到CVE信息| 
 | 20200913T10:36:44Z | 未知编号 | EasyAntiCheat Integrity check bypass by mimicking memory changes | https://github.com/thesecretclub/CVEAC-2020 | 未查询到CVE信息| 
 
@@ -36,6 +36,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20200913T12:41:50Z | You%ll find here some CTF writeups , Reversing engineering and binary exploitation related topics. | https://github.com/m3moryleak/m3moryleak.github.io | 0 | 0| 
 | 20200913T12:36:24Z | A Windforce X , ROBLOX Exploit | https://github.com/ZenDenMeme/Windforce-X | 0 | 0| 
 | 20200913T12:09:42Z | A faithful recreation of the Windows 96 exploitation system. | https://github.com/beurkinger/windows-96 | 0 | 0| 
 | 20200913T11:47:52Z | Practice pwn and some useful resources. | https://github.com/rudrapwn/binary-exploitation | 3 | 2| 
@@ -45,7 +46,6 @@
 | 20200913T11:22:56Z | Null | https://github.com/quentin452/Cats-Exploitz-HUB | 0 | 1| 
 | 20200913T11:20:55Z | Null | https://github.com/Psychorot/ParadoxExploitGuncel | 0 | 0| 
 | 20200913T11:00:36Z | Development of code to exploit LSST and VISTA imaging | https://github.com/lsst-uk/lsst-ir-fusion | 0 | 0| 
-| 20200913T10:59:28Z | this bash script let you download scripts and clone repos for remote exploits | https://github.com/FabioDefilippo/linuxallremote | 5 | 0| 
 
 
 # backdoor on Github 推荐
