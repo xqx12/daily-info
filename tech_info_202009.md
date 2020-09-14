@@ -6,6 +6,8 @@
 # 玄武实验室 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20200913 | 利用Windows服务权限弱点与Powershell脚本提权的总结方法。 | https://medium.com/bugbountywriteup/weak-permissions-on-windows-service-privilege-escalation-e8fa97ce4a54?source=rss----7b722bfd1b8d---4| 
+| 20200913 | Docker for Pentester：图像漏洞评估使用说明。 | https://www.hackingarticles.in/docker-for-pentester-image-vulnerability-assessment/| 
 | 20200911 | iOS iBoot 启动过程分析 | https://h3adsh0tzz.com/inside-xnu/iboot/intro| 
 | 20200911 | vx-underground 团队发了一篇 Paper，研究如何将 C 语言编译成 Shellcode | https://vxug.fakedoma.in/papers/VXUG/Exclusive/FromaCprojectthroughassemblytoshellcodeHasherezade.pdf| 
 | 20200911 | Hyper-V (hvix64) 类型混淆任意地址解引用漏洞分析（CVE-2020-0904） | https://labs.bluefrostsecurity.de/advisories/bfs-sa-2020-003/| 
@@ -24,8 +26,6 @@
 | 20200910 | 研究员 Atum 对另一条推送中手机被盗资金被窃事件的技术分析与思考 | https://zhuanlan.zhihu.com/p/231106722?utm_source=wechat_session| 
 | 20200910 | 一部手机失窃而揭露的窃取个人信息实现资金盗取的黑色产业链 | https://mp.weixin.qq.com/s/3UeZzw2LmPsM3cU7Rhmb8w| 
 | 20200910 | PEzor - 一款开源的 PE 文件加壳工具，绕过杀软检测 | https://securityonline.info/pezor-powerful-tool-for-bypassing-av-solutions/| 
-| 20200910 | Windows Projected File System NTFS symlink mitigation bypass | https://docs.google.com/document/d/13ZGDSa4eLRA-Uyhxi52t6U_zb2XXJcBEsEzNUcj7V2o/edit?usp=sharing| 
-| 20200910 | FuzzCon Europe 2020 会议的视频 | https://www.youtube.com/playlist?list=PLI0R_0_8-TV4JArtdlgnuPtgXALZxAYqu| 
 
 
 # 安全维基 推荐
@@ -46,22 +46,22 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20200913T12:52:42Z | CVE-2020-1472 | Test tool for CVE-2020-1472 | https://github.com/SecuraBV/CVE-2020-1472 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 00 MINUTES 37 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200913T23:56:02Z | CVE-2020-1472 | Test tool for CVE-2020-1472 | https://github.com/SecuraBV/CVE-2020-1472 | 当攻击者使用Netlogon远程协议（MS-NRPC）（又称为“ Netlogon特权提升漏洞”）建立与域控制器的易受攻击的Netlogon安全通道连接时，将存在特权提升漏洞。| 
+| 20200913T23:29:42Z | 未知编号 | EasyAntiCheat Integrity check bypass by mimicking memory changes | https://github.com/thesecretclub/CVEAC-2020 | 未查询到CVE信息| 
+| 20200913T23:23:05Z | CVE-2020-15505 | CVE-2020-15505: RCE on MobileIron MDM PoC | https://github.com/swiper/CVE-2020-15505 | MobileIron Core和Connector 10.6和更早版本以及Sentry 9.8和更早版本中的远程执行代码漏洞，允许远程攻击者通过未指定的向量执行任意代码。| 
+| 20200913T18:40:15Z | 未知编号 | This is the exploit PoC for CVE 2020 16875 | https://github.com/Kr0ff/cvs-2020-16875 | 未查询到CVE信息| 
+| 20200913T14:32:51Z | 未知编号 | CVE Data Analysis, CVE Monitor, CVE EXP Prediction Based on Deep Learning. 1999-2020年存量CVE数据分析、监控CVE增量更新、基于深度学习的CVE EXP预测和自动化推送 | https://github.com/404notf0und/CVE-Flow | 未查询到CVE信息| 
 | 20200913T12:33:31Z | CVE-2020-8150 | CVE-2020-8150 – Remote Code Execution as SYSTEM/root via Backblaze | https://github.com/geffner/CVE-2020-8150 | 未查询到CVE信息| 
-| 20200913T10:36:44Z | 未知编号 | EasyAntiCheat Integrity check bypass by mimicking memory changes | https://github.com/thesecretclub/CVEAC-2020 | | 
 | 20200912T22:06:31Z | CVE-2020-11881 | CVE-2020-11881: unauthenticated remote DoS for MikroTik SMB service. | https://github.com/botlabsDev/CVE-2020-11881 | 未查询到CVE信息| 
-| 20200912T05:32:03Z | 未知编号 | CVE Data Analysis, CVE Monitor, CVE EXP Prediction Based on Deep Learning. 1999-2020年存量CVE数据分析、监控CVE增量更新、基于深度学习的CVE EXP预测和自动化推送 | https://github.com/404notf0und/CVE-Flow | 未查询到CVE信息| 
-| 20200911T20:00:54Z | CVE-2020-17496 | (CVE-2020-17496) vBulletin 5.x Widget_tabbedcontainer_tab_panel RCE Vuln Test script | https://github.com/ludy-dev/vBulletin_5.x-tab_panel-RCE | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 00 MINUTES 34 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200911T20:00:54Z | CVE-2020-17496 | (CVE-2020-17496) vBulletin 5.x Widget_tabbedcontainer_tab_panel RCE Vuln Test script | https://github.com/ludy-dev/vBulletin_5.x-tab_panel-RCE | vBulletin 5.5.4至5.6.2允许通过ajax / render / widget_tabbedcontainer_tab_panel请求中的精巧subWidgets数据执行远程命令。注意：由于CVE-2019-16759的修复不完整，所以存在此问题。| 
 | 20200911T19:58:32Z | CVE-2020-3452 | (CVE-2020-3452) Cisco Adaptive Security Appliance Software - Local File Inclusion Vuln Test sciript | https://github.com/ludy-dev/Cisco-ASA-LFI | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
-| 20200911T17:14:21Z | CVE-2020-13933 | CVE-2020-13933 靶场： shiro < 1.6.0 认证绕过漏洞 | https://github.com/lyy289065406/CVE-2020-13933 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 00 MINUTES 38 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200911T08:24:04Z | CVE-2020-1948 | [CVE-2020-1948] Apache Dubbo Provider default deserialization cause RCE | https://github.com/L0kiii/Dubbo-deserialization | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 00 MINUTES 31 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200911T07:38:26Z | CVE-2020-0787 | Support ALL Windows Version | https://github.com/cbwang505/CVE-2020-0787-EXP-ALL-WINDOWS-VERSION | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 00 MINUTES 28 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200911T17:14:21Z | CVE-2020-13933 | CVE-2020-13933 靶场： shiro < 1.6.0 认证绕过漏洞 | https://github.com/lyy289065406/CVE-2020-13933 | 1.6.0之前的Apache Shiro，在使用Apache Shiro时，特制的HTTP请求可能会导致身份验证绕过。| 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20200913T09:29:12Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1497 | 455| 
+| 20200913T20:11:56Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1498 | 455| 
 | 20200912T15:58:26Z | Sample node.js agent with modest negotiation skills that uses RegEx for NLP. | https://github.com/humaine-anac/agent-kleene | 0 | 1| 
 | 20200911T18:08:38Z | Ironhack project #2 | https://github.com/ymenuet/KLEEN | 1 | 1| 
 | 20200911T17:29:19Z | RVT is a collection of tools/libraries to support both static and dynamic verification of Rust programs. | https://github.com/project-oak/rust-verification-tools | 79 | 4| 
@@ -91,46 +91,46 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20200913T12:41:50Z | You%ll find here some CTF writeups , Reversing engineering and binary exploitation related topics. | https://github.com/m3moryleak/m3moryleak.github.io | 0 | 0| 
-| 20200913T12:36:24Z | A Windforce X , ROBLOX Exploit | https://github.com/ZenDenMeme/Windforce-X | 0 | 0| 
-| 20200913T12:09:42Z | A faithful recreation of the Windows 96 exploitation system. | https://github.com/beurkinger/windows-96 | 0 | 0| 
-| 20200913T11:47:52Z | Practice pwn and some useful resources. | https://github.com/rudrapwn/binary-exploitation | 3 | 2| 
-| 20200913T11:35:11Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 7224 | 1175| 
-| 20200913T11:32:38Z | Advanced Exploit Mitigation Paper | https://github.com/CxVercility/Windows-Internals | 0 | 0| 
-| 20200913T11:32:21Z | I made a script to get remote code execution on the box %Travel% on hackthebox, I was particularly proud of this script since the exploit chain was so long. | https://github.com/0xlimE/HTB-TRAVEL-RCE | 0 | 0| 
-| 20200913T11:22:56Z | Null | https://github.com/quentin452/Cats-Exploitz-HUB | 0 | 1| 
-| 20200913T11:20:55Z | Null | https://github.com/Psychorot/ParadoxExploitGuncel | 0 | 0| 
-| 20200913T11:00:36Z | Development of code to exploit LSST and VISTA imaging | https://github.com/lsst-uk/lsst-ir-fusion | 0 | 0| 
+| 20200913T23:51:09Z | A faithful recreation of the Windows 96 exploitation system. | https://github.com/beurkinger/windows-96 | 0 | 0| 
+| 20200913T23:39:41Z | this bash script let you download scripts and clone repos for remote exploits | https://github.com/FabioDefilippo/linuxallremote | 5 | 0| 
+| 20200913T23:30:20Z | Metasploit Utilities, Post Exploit Scripts and other scripts primarily for reference | https://github.com/reg1reg1/Exploits | 0 | 0| 
+| 20200913T23:03:45Z | Very simple script(s) to hasten binary exploit creation | https://github.com/152334H/pwnscripts | 3 | 0| 
+| 20200913T22:47:35Z | Null | https://github.com/Dayvidson/Beco-do-Exploit | 0 | 0| 
+| 20200913T22:41:39Z | CTFs and their solutions for linux binary exploitation. | https://github.com/MaherAzzouzi/PWNing | 2 | 3| 
+| 20200913T22:37:54Z | A collection of solutions to binary exploitation challanges/CTFs | https://github.com/rmccarth/binexp | 1 | 0| 
+| 20200913T22:30:36Z | A phased, evasive Path Traversal + LFI scanning & exploitation tool in Python | https://github.com/VainlyStrain/Vailyn | 49 | 0| 
+| 20200913T21:30:24Z | Water Tanks and Swimming Pools Detection in Satellite Images: Exploiting Shallow and Deep-Based Strategies | https://github.com/EduardoFernandes1410/PATREO-Dengue | 0 | 0| 
+| 20200913T21:20:39Z | Advanced Exploit Mitigation Paper | https://github.com/CxVercility/Windows-Internals | 0 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20200913T21:30:15Z | Simple Python Backdoor | https://github.com/zNairy/Sonaris | 0 | 0| 
+| 20200913T21:02:58Z | Null | https://github.com/dheeraj7596/NlpBackdoor | 0 | 0| 
+| 20200913T20:44:19Z | A PHP backdoor management and generation tool featuring end to end encrypted payload streaming designed to bypass WAF, IDS, SIEM systems. | https://github.com/gellin/bantam | 2 | 0| 
+| 20200913T18:42:18Z | it%s a simple backdoor which bypasses any av  | https://github.com/jaaabir/backdoor | 1 | 0| 
+| 20200913T17:47:17Z | Null | https://github.com/edsonphx/Backdoor-BETA | 0 | 0| 
+| 20200913T17:06:45Z | Just a simple backdoor with custom listener. | https://github.com/TheRavehorn/Simple-Backdoor | 0 | 0| 
+| 20200913T15:53:12Z | Pwning the Nuro issued Huawei HG8045Q | https://github.com/meh301/HG8045Q | 14 | 1| 
+| 20200913T15:39:48Z | Full-featured C2 framework which silently persists on webserver via evil PHP oneliner :smiling_imp: | https://github.com/nil0x42/phpsploit | 990 | 303| 
 | 20200913T11:29:21Z | Shtirlitz Garry%s Mod Backdoor Panel | https://github.com/OzaronZ/shtirlitz-panel | 1 | 0| 
-| 20200913T08:44:55Z | An advanced PHP backdoor management and generation tool featuring end to end encrypted payload streaming. Features end to end encryption with request unique encryption keys, and payload streaming designed to bypass WAF, IDS, SIEM systems. | https://github.com/gellin/bantam | 2 | 0| 
 | 20200913T05:53:42Z | This tool will create backdoor | https://github.com/krishpranav/Backdoorcreator | 2 | 0| 
-| 20200913T03:49:36Z | Full-featured C2 framework which silently persists on webserver via evil PHP oneliner :smiling_imp: | https://github.com/nil0x42/phpsploit | 989 | 303| 
-| 20200913T03:00:43Z | Pwning the Nuro issued Huawei HG8045Q | https://github.com/meh301/HG8045Q | 12 | 1| 
-| 20200913T02:59:21Z | A tool which utilizes Shodan to detect vulnerable IoT devices. | https://github.com/malwaredllc/bamf | 242 | 75| 
-| 20200912T18:19:55Z | a proof of concept backdoor for the most bare-bone access | https://github.com/AdrianDucao/goatse | 0 | 0| 
-| 20200912T16:56:10Z | Hides the sethc.exe backdoor. | https://github.com/PGgamer2/sethc-backdoor-hider | 1 | 1| 
-| 20200912T13:06:34Z | Backdoor that can open web-pages remotely | https://github.com/pro-extremecoder/URLBackdoor | 0 | 0| 
-| 20200912T09:09:51Z | Advanced Attack toolkit, Native C++ RAT, Instagram Brute Force and Password Spraying over Tor, Mass Emailer, Malicious file Sentinel and more. | https://github.com/quantumcored/paradoxia | 144 | 28| 
 
 
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20200913T12:50:20Z | No idea what I%m doing | https://github.com/klecko/fuzz | 1 | 0| 
-| 20200913T12:26:35Z | Tools for stress testing applications. | https://github.com/stbraun/fuzzing | 12 | 3| 
-| 20200913T12:06:45Z | Personal website of Laurence Hughes | https://github.com/fuzzylogicxx/fuzzylogic | 4 | 1| 
-| 20200913T11:42:39Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 3124 | 719| 
-| 20200913T11:32:13Z | Add fuzzy $search to mongodb service.find queries | https://github.com/arve0/feathers-mongodb-fuzzy-search | 33 | 9| 
-| 20200913T11:25:38Z | Fuzzy guidance demo | https://github.com/kotborealis/FuzzyGuidance | 0 | 0| 
-| 20200913T10:51:40Z | Fast web fuzzer written in Go | https://github.com/ffuf/ffuf | 2941 | 341| 
-| 20200913T10:10:10Z | Null | https://github.com/bahadrzeren/InvPendFuzzyController | 0 | 0| 
-| 20200913T09:33:56Z | Null | https://github.com/Ma-devv/JSONObjectFuzzer | 0 | 0| 
-| 20200913T09:17:02Z | Null | https://github.com/Ishaan29/fuzzy-chainsaw-algo | 1 | 0| 
+| 20200913T23:45:53Z | Server Side API Weather Application | https://github.com/alizehssn/fuzzy-octo-enigma | 0 | 0| 
+| 20200913T23:38:04Z | A tool made in Go to fuzz directories in webapps | https://github.com/FallAngel1337/DirBrute | 0 | 0| 
+| 20200913T23:14:56Z | Pedal Multiefecto para guitarra electrica (LoopBack, Delay, Fuzz y Wah-wah) | https://github.com/jrosmirez94/Pedal-Multiefecto | 0 | 0| 
+| 20200913T22:55:27Z | Null | https://github.com/max-pok/fuzzy-giggle | 0 | 0| 
+| 20200913T22:39:53Z | generate contextually sensible fuzz tests for servant apps | https://github.com/mwotton/roboservant | 6 | 0| 
+| 20200913T22:13:20Z | Null | https://github.com/nayramartins/fuzzer-mvp | 0 | 0| 
+| 20200913T21:32:07Z | The Official Fuzzy Britches Repository | https://github.com/ThePapaw/fuzzybritches | 3 | 1| 
+| 20200913T21:31:54Z | Fuzzy Trader API - Node.JS | https://github.com/diltheyaislan/fuzzy-trader-api | 0 | 0| 
+| 20200913T21:22:21Z | Null | https://github.com/diltheyaislan/fuzzy-trader-frontend | 0 | 0| 
+| 20200913T20:46:50Z | Fast web fuzzer written in Go | https://github.com/ffuf/ffuf | 2946 | 341| 
 
 
 
