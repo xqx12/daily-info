@@ -20,7 +20,7 @@
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
 | 20200913T23:29:42Z | 未知编号 | EasyAntiCheat Integrity check bypass by mimicking memory changes | https://github.com/thesecretclub/CVEAC-2020 | | 
-| 20200913T23:23:05Z | CVE-2020-15505 | CVE-2020-15505: RCE on MobileIron MDM PoC | https://github.com/swiper/CVE-2020-15505 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 54 MINUTES 36 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200913T23:23:05Z | CVE-2020-15505 | CVE-2020-15505: RCE on MobileIron MDM PoC | https://github.com/swiper/CVE-2020-15505 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 53 MINUTES 35 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20200913T18:40:15Z | 未知编号 | This is the exploit PoC for CVE 2020 16875 | https://github.com/Kr0ff/cvs-2020-16875 | 未查询到CVE信息| 
 | 20200913T14:32:51Z | 未知编号 | CVE Data Analysis, CVE Monitor, CVE EXP Prediction Based on Deep Learning. 1999-2020年存量CVE数据分析、监控CVE增量更新、基于深度学习的CVE EXP预测和自动化推送 | https://github.com/404notf0und/CVE-Flow | 未查询到CVE信息| 
 | 20200913T12:33:31Z | CVE-2020-8150 | CVE-2020-8150 – Remote Code Execution as SYSTEM/root via Backblaze | https://github.com/geffner/CVE-2020-8150 | 未查询到CVE信息| 
@@ -71,7 +71,6 @@
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
 | 20200913T23:45:53Z | Server Side API Weather Application | https://github.com/alizehssn/fuzzy-octo-enigma | 0 | 0| 
-| 20200913T23:38:04Z | A tool made in Go to fuzz directories in webapps | https://github.com/FallAngel1337/DirBrute | 0 | 0| 
 | 20200913T23:14:56Z | Pedal Multiefecto para guitarra electrica (LoopBack, Delay, Fuzz y Wah-wah) | https://github.com/jrosmirez94/Pedal-Multiefecto | 0 | 0| 
 | 20200913T22:55:27Z | Null | https://github.com/max-pok/fuzzy-giggle | 0 | 0| 
 | 20200913T22:39:53Z | generate contextually sensible fuzz tests for servant apps | https://github.com/mwotton/roboservant | 6 | 0| 
@@ -80,6 +79,7 @@
 | 20200913T21:31:54Z | Fuzzy Trader API - Node.JS | https://github.com/diltheyaislan/fuzzy-trader-api | 0 | 0| 
 | 20200913T21:22:21Z | Null | https://github.com/diltheyaislan/fuzzy-trader-frontend | 0 | 0| 
 | 20200913T20:46:50Z | Fast web fuzzer written in Go | https://github.com/ffuf/ffuf | 2946 | 341| 
+| 20200913T20:34:07Z | FuzzBench - Fuzzer benchmarking as a service. | https://github.com/google/fuzzbench | 521 | 78| 
 
 
 
