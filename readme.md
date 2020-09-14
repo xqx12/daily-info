@@ -29,12 +29,12 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20200914T12:49:59Z | CVE-2020-1472 | Test tool for CVE-2020-1472 | https://github.com/SecuraBV/CVE-2020-1472 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 03 MINUTES 32 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200914T12:48:51Z | CVE-2020-6468 | for 供養 | https://github.com/Goyotan/CVE-2020-6468-PoC | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 03 MINUTES 39 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200914T12:47:11Z | CVE-2020-15505 | CVE-2020-15505: RCE on MobileIron MDM PoC | https://github.com/swiper/CVE-2020-15505 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 03 MINUTES 38 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200914T12:49:59Z | CVE-2020-1472 | Test tool for CVE-2020-1472 | https://github.com/SecuraBV/CVE-2020-1472 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 01 MINUTES 25 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200914T12:48:51Z | CVE-2020-6468 | for 供養 | https://github.com/Goyotan/CVE-2020-6468-PoC | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 01 MINUTES 33 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200914T12:47:11Z | CVE-2020-15505 | CVE-2020-15505: RCE on MobileIron MDM PoC | https://github.com/swiper/CVE-2020-15505 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 01 MINUTES 32 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20200914T08:58:04Z | 未知编号 | CVE Data Analysis, CVE Monitor, CVE EXP Prediction Based on Deep Learning. 1999-2020年存量CVE数据分析、监控CVE增量更新、基于深度学习的CVE EXP预测和自动化推送 | https://github.com/404notf0und/CVE-Flow | 未查询到CVE信息| 
 | 20200914T08:41:24Z | 未知编号 | EasyAntiCheat Integrity check bypass by mimicking memory changes | https://github.com/thesecretclub/CVEAC-2020 | 未查询到CVE信息| 
-| 20200914T03:11:02Z | CVE-2020-0787 | Support ALL Windows Version | https://github.com/cbwang505/CVE-2020-0787-EXP-ALL-WINDOWS-VERSION | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 03 MINUTES 25 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200914T03:11:02Z | CVE-2020-0787 | Support ALL Windows Version | https://github.com/cbwang505/CVE-2020-0787-EXP-ALL-WINDOWS-VERSION | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 01 MINUTES 18 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 
 
 # klee on Github 推荐
@@ -84,9 +84,9 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20200914T12:56:05Z | 一些常见字典 | https://github.com/yuanhaiGreg/Fuzz-Dict | 0 | 0| 
+| 20200914T12:59:14Z | Fuzzy Quantification of Common and Rare Species in Ecological Communities | https://github.com/Ligophorus/FuzzyQ | 0 | 0| 
+| 20200914T12:58:24Z | 一些常见字典 | https://github.com/yuanhaiGreg/Fuzz-Dict | 0 | 0| 
 | 20200914T12:51:21Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 26752 | 13069| 
-| 20200914T12:50:52Z | Fuzzy Quantification of Common and Rare Species in Ecological Communities | https://github.com/Ligophorus/FuzzyQ | 0 | 0| 
 | 20200914T12:49:19Z | FuzzSplore: Visualizing Feedback-Driven Fuzzing Techniques | https://github.com/andreafioraldi/FuzzSplore | 4 | 0| 
 | 20200914T12:44:05Z | PoC | https://github.com/FuzzQuery/fuzzquery.github.io | 0 | 0| 
 | 20200914T12:40:29Z | White-box fuzzer for Java bytecode | https://github.com/vorpal-research/kex | 1 | 4| 
