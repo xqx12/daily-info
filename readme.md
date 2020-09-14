@@ -20,7 +20,7 @@
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
 | 20200913T23:29:42Z | 未知编号 | EasyAntiCheat Integrity check bypass by mimicking memory changes | https://github.com/thesecretclub/CVEAC-2020 | 未查询到CVE信息| 
-| 20200913T23:23:05Z | CVE-2020-15505 | CVE-2020-15505: RCE on MobileIron MDM PoC | https://github.com/swiper/CVE-2020-15505 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 15 MINUTES 38 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200913T23:23:05Z | CVE-2020-15505 | CVE-2020-15505: RCE on MobileIron MDM PoC | https://github.com/swiper/CVE-2020-15505 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 13 MINUTES 40 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20200913T18:40:15Z | 未知编号 | This is the exploit PoC for CVE 2020 16875 | https://github.com/Kr0ff/cvs-2020-16875 | 未查询到CVE信息| 
 | 20200913T14:32:51Z | 未知编号 | CVE Data Analysis, CVE Monitor, CVE EXP Prediction Based on Deep Learning. 1999-2020年存量CVE数据分析、监控CVE增量更新、基于深度学习的CVE EXP预测和自动化推送 | https://github.com/404notf0und/CVE-Flow | 未查询到CVE信息| 
 | 20200913T12:33:31Z | CVE-2020-8150 | CVE-2020-8150 – Remote Code Execution as SYSTEM/root via Backblaze | https://github.com/geffner/CVE-2020-8150 | 未查询到CVE信息| 
@@ -57,7 +57,6 @@
 | --- | --- | --- | --- | ---| 
 | 20200913T21:30:15Z | Simple Python Backdoor | https://github.com/zNairy/Sonaris | 0 | 0| 
 | 20200913T21:02:58Z | Null | https://github.com/dheeraj7596/NlpBackdoor | 0 | 0| 
-| 20200913T20:44:19Z | A PHP backdoor management and generation tool featuring end to end encrypted payload streaming designed to bypass WAF, IDS, SIEM systems. | https://github.com/gellin/bantam | 2 | 0| 
 | 20200913T18:42:18Z | it%s a simple backdoor which bypasses any av  | https://github.com/jaaabir/backdoor | 1 | 0| 
 | 20200913T17:47:17Z | Null | https://github.com/edsonphx/Backdoor-BETA | 0 | 0| 
 | 20200913T17:06:45Z | Just a simple backdoor with custom listener. | https://github.com/TheRavehorn/Simple-Backdoor | 0 | 0| 
@@ -65,6 +64,7 @@
 | 20200913T15:39:48Z | Full-featured C2 framework which silently persists on webserver via evil PHP oneliner :smiling_imp: | https://github.com/nil0x42/phpsploit | 990 | 303| 
 | 20200913T11:29:21Z | Shtirlitz Garry%s Mod Backdoor Panel | https://github.com/OzaronZ/shtirlitz-panel | 1 | 0| 
 | 20200913T05:53:42Z | This tool will create backdoor | https://github.com/krishpranav/Backdoorcreator | 2 | 0| 
+| 20200913T02:59:21Z | A tool which utilizes Shodan to detect vulnerable IoT devices. | https://github.com/malwaredllc/bamf | 242 | 75| 
 
 
 # fuzz on Github 推荐
