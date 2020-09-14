@@ -60,7 +60,6 @@
 | 20200913T18:42:18Z | it%s a simple backdoor which bypasses any av  | https://github.com/jaaabir/backdoor | 1 | 0| 
 | 20200913T17:47:17Z | Null | https://github.com/edsonphx/Backdoor-BETA | 0 | 0| 
 | 20200913T17:06:45Z | Just a simple backdoor with custom listener. | https://github.com/TheRavehorn/Simple-Backdoor | 0 | 0| 
-| 20200913T15:53:12Z | Pwning the Nuro issued Huawei HG8045Q | https://github.com/meh301/HG8045Q | 14 | 1| 
 | 20200913T15:39:48Z | Full-featured C2 framework which silently persists on webserver via evil PHP oneliner :smiling_imp: | https://github.com/nil0x42/phpsploit | 990 | 303| 
 | 20200913T11:29:21Z | Shtirlitz Garry%s Mod Backdoor Panel | https://github.com/OzaronZ/shtirlitz-panel | 1 | 0| 
 | 20200913T05:53:42Z | This tool will create backdoor | https://github.com/krishpranav/Backdoorcreator | 2 | 0| 
