@@ -46,27 +46,27 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20200914T23:55:50Z | CVE-2020-1472 | PoC for Zerologon - all research credits go to Tom Tervoort of Secura | https://github.com/dirkjanm/CVE-2020-1472 | 当攻击者使用Netlogon远程协议（MS-NRPC）（又称为“ Netlogon特权提升漏洞”）建立与域控制器的易受攻击的Netlogon安全通道连接时，将存在特权提升漏洞。| 
-| 20200914T23:52:54Z | CVE-2020-1472 | Test tool for CVE-2020-1472 | https://github.com/SecuraBV/CVE-2020-1472 | | 
-| 20200914T23:09:21Z | CVE-2020-1472 | Null | https://github.com/cube0x0/CVE-2020-1472 | 当攻击者使用Netlogon远程协议（MS-NRPC）（又称为“ Netlogon特权提升漏洞”）建立与域控制器的易受攻击的Netlogon安全通道连接时，将存在特权提升漏洞。| 
-| 20200914T23:08:19Z | cve-2020-1472 | Exploit for zerologon cve-2020-1472 | https://github.com/risksense/zerologon | 当攻击者使用Netlogon远程协议（MS-NRPC）（又称为“ Netlogon特权提升漏洞”）建立与域控制器的易受攻击的Netlogon安全通道连接时，将存在特权提升漏洞。| 
-| 20200914T22:13:36Z | CVE-2020-1472 | Abuse CVE-2020-1472 (Zerologon) to take over a domain and then repair the local stored machine account password. | https://github.com/bb00/zer0dump | 当攻击者使用Netlogon远程协议（MS-NRPC）（又称为“ Netlogon特权提升漏洞”）建立与域控制器的易受攻击的Netlogon安全通道连接时，将存在特权提升漏洞。| 
+| 20200914T23:55:50Z | CVE-2020-1472 | PoC for Zerologon - all research credits go to Tom Tervoort of Secura | https://github.com/dirkjanm/CVE-2020-1472 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 54 MINUTES 27 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200914T23:52:54Z | CVE-2020-1472 | Test tool for CVE-2020-1472 | https://github.com/SecuraBV/CVE-2020-1472 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 54 MINUTES 19 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200914T23:09:21Z | CVE-2020-1472 | Null | https://github.com/cube0x0/CVE-2020-1472 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 54 MINUTES 26 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200914T23:08:19Z | cve-2020-1472 | Exploit for zerologon cve-2020-1472 | https://github.com/risksense/zerologon | | 
+| 20200914T22:13:36Z | CVE-2020-1472 | Abuse CVE-2020-1472 (Zerologon) to take over a domain and then repair the local stored machine account password. | https://github.com/bb00/zer0dump | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 53 MINUTES 31 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20200914T21:58:01Z | 未知编号 | A local privilege escalation chain from user to kernel for MacOS < 10.15.5. CVE-2020–9854 | https://github.com/A2nkF/unauthd | 未查询到CVE信息| 
-| 20200914T21:06:41Z | CVE-2020-1472 | Exploit Code for CVE-2020-1472 aka Zerologon | https://github.com/VoidSec/CVE-2020-1472 | | 
-| 20200914T18:48:03Z | CVE-2020-15505 | CVE-2020-15505: RCE on MobileIron MDM PoC | https://github.com/swiper/CVE-2020-15505 | MobileIron Core和Connector 10.6和更早版本以及Sentry 9.8和更早版本中的远程执行代码漏洞，允许远程攻击者通过未指定的向量执行任意代码。| 
-| 20200914T15:58:25Z | CVE-2020-6468 | for 供養 | https://github.com/Goyotan/CVE-2020-6468-PoC | 83.0.4103.61之前的Google Chrome V8中的类型混乱使远程攻击者可以通过精心制作的HTML页面利用堆破坏。| 
+| 20200914T21:06:41Z | CVE-2020-1472 | Exploit Code for CVE-2020-1472 aka Zerologon | https://github.com/VoidSec/CVE-2020-1472 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 53 MINUTES 29 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200914T18:48:03Z | CVE-2020-15505 | CVE-2020-15505: RCE on MobileIron MDM PoC | https://github.com/swiper/CVE-2020-15505 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 54 MINUTES 24 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200914T15:58:25Z | CVE-2020-6468 | for 供養 | https://github.com/Goyotan/CVE-2020-6468-PoC | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 54 MINUTES 25 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20200914T15:55:59Z | 未知编号 | EasyAntiCheat Integrity check bypass by mimicking memory changes | https://github.com/thesecretclub/CVEAC-2020 | 未查询到CVE信息| 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20200914T23:50:03Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1500 | 455| 
+| 20200915T00:05:43Z | Ironhack project #2 | https://github.com/ymenuet/KLEEN | 1 | 1| 
+| 20200914T23:50:03Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1500 | 456| 
 | 20200914T16:39:48Z | Wordpress template for ATX Alaskan Klee Kai | https://github.com/devwithdana/atxakk | 0 | 0| 
 | 20200914T04:06:17Z | RVT is a collection of tools/libraries to support both static and dynamic verification of Rust programs. | https://github.com/project-oak/rust-verification-tools | 80 | 4| 
 | 20200914T02:17:24Z | Null | https://github.com/CharlesKleeven/CharlesKleeven.github.io | 0 | 0| 
 | 20200912T15:58:26Z | Sample node.js agent with modest negotiation skills that uses RegEx for NLP. | https://github.com/humaine-anac/agent-kleene | 0 | 1| 
-| 20200911T18:08:38Z | Ironhack project #2 | https://github.com/ymenuet/KLEEN | 1 | 1| 
 | 20200910T21:18:22Z | The compiler inputs a PDDL benchmark of the Carpark planning problem and converts it to an equivalent C code which is used for solving the planning problem by program verification tools such as KLEE/TracerX. | https://github.com/daneshvar-amrollahi/Carpark-PDDL2C | 0 | 0| 
 | 20200910T16:13:14Z | KLEE in the browser | https://github.com/klee/klee-web | 43 | 10| 
 | 20200910T13:39:24Z | Scala library for generation and manipulation of images treated as a point => color function. | https://github.com/skac112/klee | 0 | 0| 
