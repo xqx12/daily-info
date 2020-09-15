@@ -47,12 +47,12 @@
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
 | 20200914T23:55:50Z | CVE-2020-1472 | PoC for Zerologon - all research credits go to Tom Tervoort of Secura | https://github.com/dirkjanm/CVE-2020-1472 | 当攻击者使用Netlogon远程协议（MS-NRPC）（又称为“ Netlogon特权提升漏洞”）建立与域控制器的易受攻击的Netlogon安全通道连接时，将存在特权提升漏洞。| 
-| 20200914T23:52:54Z | CVE-2020-1472 | Test tool for CVE-2020-1472 | https://github.com/SecuraBV/CVE-2020-1472 | 当攻击者使用Netlogon远程协议（MS-NRPC）（又称为“ Netlogon特权提升漏洞”）建立与域控制器的易受攻击的Netlogon安全通道连接时，将存在特权提升漏洞。| 
+| 20200914T23:52:54Z | CVE-2020-1472 | Test tool for CVE-2020-1472 | https://github.com/SecuraBV/CVE-2020-1472 | | 
 | 20200914T23:09:21Z | CVE-2020-1472 | Null | https://github.com/cube0x0/CVE-2020-1472 | 当攻击者使用Netlogon远程协议（MS-NRPC）（又称为“ Netlogon特权提升漏洞”）建立与域控制器的易受攻击的Netlogon安全通道连接时，将存在特权提升漏洞。| 
-| 20200914T23:08:19Z | cve-2020-1472 | Exploit for zerologon cve-2020-1472 | https://github.com/risksense/zerologon | | 
+| 20200914T23:08:19Z | cve-2020-1472 | Exploit for zerologon cve-2020-1472 | https://github.com/risksense/zerologon | 当攻击者使用Netlogon远程协议（MS-NRPC）（又称为“ Netlogon特权提升漏洞”）建立与域控制器的易受攻击的Netlogon安全通道连接时，将存在特权提升漏洞。| 
 | 20200914T22:13:36Z | CVE-2020-1472 | Abuse CVE-2020-1472 (Zerologon) to take over a domain and then repair the local stored machine account password. | https://github.com/bb00/zer0dump | 当攻击者使用Netlogon远程协议（MS-NRPC）（又称为“ Netlogon特权提升漏洞”）建立与域控制器的易受攻击的Netlogon安全通道连接时，将存在特权提升漏洞。| 
 | 20200914T21:58:01Z | 未知编号 | A local privilege escalation chain from user to kernel for MacOS < 10.15.5. CVE-2020–9854 | https://github.com/A2nkF/unauthd | 未查询到CVE信息| 
-| 20200914T21:06:41Z | CVE-2020-1472 | Exploit Code for CVE-2020-1472 aka Zerologon | https://github.com/VoidSec/CVE-2020-1472 | 当攻击者使用Netlogon远程协议（MS-NRPC）（又称为“ Netlogon特权提升漏洞”）建立与域控制器的易受攻击的Netlogon安全通道连接时，将存在特权提升漏洞。| 
+| 20200914T21:06:41Z | CVE-2020-1472 | Exploit Code for CVE-2020-1472 aka Zerologon | https://github.com/VoidSec/CVE-2020-1472 | | 
 | 20200914T18:48:03Z | CVE-2020-15505 | CVE-2020-15505: RCE on MobileIron MDM PoC | https://github.com/swiper/CVE-2020-15505 | MobileIron Core和Connector 10.6和更早版本以及Sentry 9.8和更早版本中的远程执行代码漏洞，允许远程攻击者通过未指定的向量执行任意代码。| 
 | 20200914T15:58:25Z | CVE-2020-6468 | for 供養 | https://github.com/Goyotan/CVE-2020-6468-PoC | 83.0.4103.61之前的Google Chrome V8中的类型混乱使远程攻击者可以通过精心制作的HTML页面利用堆破坏。| 
 | 20200914T15:55:59Z | 未知编号 | EasyAntiCheat Integrity check bypass by mimicking memory changes | https://github.com/thesecretclub/CVEAC-2020 | 未查询到CVE信息| 
@@ -121,6 +121,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20200915T00:03:23Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 3126 | 720| 
 | 20200915T00:00:30Z | Automated btrfs fuzzer | https://github.com/danobi/btrfs-fuzz | 0 | 0| 
 | 20200914T22:56:20Z | Scalable fuzzing infrastructure. | https://github.com/google/clusterfuzz | 4315 | 387| 
 | 20200914T22:40:41Z | Null | https://github.com/rao-aditya/fuzzy-invention | 0 | 0| 
@@ -130,7 +131,6 @@
 | 20200914T21:40:00Z | Null | https://github.com/rochabianca/fuzzy-tip | 1 | 0| 
 | 20200914T21:36:38Z | FuzzBench - Fuzzer benchmarking as a service. | https://github.com/google/fuzzbench | 521 | 78| 
 | 20200914T21:18:37Z | # Some Awesome Projects About Fuzzy Logic And Systems :) | https://github.com/Arash-Mari-Oriyad/fuzzy_logic_and_systems | 0 | 0| 
-| 20200914T20:47:44Z | Null | https://github.com/abdulr7mann/sqliFuzzer | 0 | 0| 
 
 
 
