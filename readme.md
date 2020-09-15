@@ -33,13 +33,12 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20200914T23:08:19Z | cve-2020-1472 | Exploit for zerologon cve-2020-1472 | https://github.com/risksense/zerologon | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 42 MINUTES 28 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200914T22:13:36Z | CVE-2020-1472 | Abuse CVE-2020-1472 (Zerologon) to take over a domain and then repair the local stored machine account password. | https://github.com/bb00/zer0dump | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 42 MINUTES 29 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200914T22:13:36Z | CVE-2020-1472 | Abuse CVE-2020-1472 (Zerologon) to take over a domain and then repair the local stored machine account password. | https://github.com/bb00/zer0dump | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 41 MINUTES 27 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20200914T21:58:01Z | 未知编号 | A local privilege escalation chain from user to kernel for MacOS < 10.15.5. CVE-2020–9854 | https://github.com/A2nkF/unauthd | 未查询到CVE信息| 
-| 20200914T21:06:41Z | CVE-2020-1472 | Exploit Code for CVE-2020-1472 aka Zerologon | https://github.com/VoidSec/CVE-2020-1472 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 43 MINUTES 26 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200914T15:58:25Z | CVE-2020-6468 | for 供養 | https://github.com/Goyotan/CVE-2020-6468-PoC | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 43 MINUTES 22 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200914T21:06:41Z | CVE-2020-1472 | Exploit Code for CVE-2020-1472 aka Zerologon | https://github.com/VoidSec/CVE-2020-1472 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 41 MINUTES 25 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200914T15:58:25Z | CVE-2020-6468 | for 供養 | https://github.com/Goyotan/CVE-2020-6468-PoC | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 42 MINUTES 22 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20200914T15:55:59Z | 未知编号 | EasyAntiCheat Integrity check bypass by mimicking memory changes | https://github.com/thesecretclub/CVEAC-2020 | 未查询到CVE信息| 
-| 20200914T13:54:49Z | CVE-2020-0787 | Support ALL Windows Version | https://github.com/cbwang505/CVE-2020-0787-EXP-ALL-WINDOWS-VERSION | | 
+| 20200914T13:54:49Z | CVE-2020-0787 | Support ALL Windows Version | https://github.com/cbwang505/CVE-2020-0787-EXP-ALL-WINDOWS-VERSION | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 42 MINUTES 10 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20200914T08:58:04Z | 未知编号 | CVE Data Analysis, CVE Monitor, CVE EXP Prediction Based on Deep Learning. 1999-2020年存量CVE数据分析、监控CVE增量更新、基于深度学习的CVE EXP预测和自动化推送 | https://github.com/404notf0und/CVE-Flow | 未查询到CVE信息| 
 
 
@@ -66,13 +65,13 @@
 | 20200914T23:55:49Z | nanodisco: a toolbox for discovering and exploiting multiple types of DNA methylation from individual bacteria and microbiomes using nanopore sequencing. | https://github.com/fanglab/nanodisco | 6 | 0| 
 | 20200914T23:29:33Z | Null | https://github.com/quentin452/Cats-Exploitz-HUB | 0 | 1| 
 | 20200914T23:15:30Z | Metasploit Utilities, Post Exploit Scripts and other scripts primarily for reference | https://github.com/reg1reg1/Exploits | 0 | 0| 
-| 20200914T23:08:19Z | Exploit for zerologon cve-2020-1472 | https://github.com/risksense/zerologon | 4 | 1| 
 | 20200914T22:30:37Z | A faithful recreation of the Windows 96 exploitation system. | https://github.com/beurkinger/windows-96 | 0 | 0| 
 | 20200914T21:58:01Z | A local privilege escalation chain from user to kernel for MacOS < 10.15.5. CVE-2020–9854 | https://github.com/A2nkF/unauthd | 73 | 10| 
 | 20200914T21:10:17Z | Advanced Exploit Mitigation Paper | https://github.com/CxVercility/Windows-Internals | 0 | 0| 
 | 20200914T21:06:41Z | Exploit Code for CVE-2020-1472 aka Zerologon | https://github.com/VoidSec/CVE-2020-1472 | 1 | 0| 
 | 20200914T21:06:39Z | CVE-2019-15107 exploit | https://github.com/n0obit4/Webmin_1.890-POC | 1 | 0| 
 | 20200914T21:02:19Z | Tool for using libc infoleaks to identify libc version from within your exploit. | https://github.com/guyinatuxedo/The_Night | 7 | 0| 
+| 20200914T20:22:45Z | The Eclipse Foundation has been a partner in many publicly funded research projects since 2013. We help organizations to successfully create, publish, and sustain an open source software platform, making the results of the research projects available for commercial or public exploitation. | https://github.com/EclipseFdn/eclipse.org-research | 0 | 8| 
 
 
 # backdoor on Github 推荐
