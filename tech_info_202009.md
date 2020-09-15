@@ -17,15 +17,15 @@
 | 20200914 | 针对POS机的Dexter和Project Hook恶意软件正在活跃 | http://threatpost.com/dexter-project-hook-pos-malware-campaigns-persist/104655/| 
 | 20200914 | 通过http/s协议提供反向连接的渗透测试工具HTTP-revshell | https://sec.today/pulses/925ca257-76c3-4201-927f-e478e6c72f07/| 
 | 20200914 | 通过http/s协议提供反向连接的渗透测试工具HTTP-revshell | https://www.kitploit.com/2020/09/http-revshell-powershell-reverse-shell.html| 
+| 20200914 | 乐鑫ESP32：绕过Flash加密安全漏洞（CVE-2020-15048）。 | https://raelize.com/posts/espressif-systems-esp32-bypassing-flash-encryption/| 
+| 20200914 | 用伪日志攻击SIEM研究。 | https://letsdefend.io/blog/attacking-siem-with-fake-logs/| 
+| 20200914 | 使用RAM转储解密数据库-运行状况数据。 | https://www.cellebrite.com/en/blog/decrypting-databases-using-ram-dump-health-data/| 
 | 20200913 | 利用Windows服务权限弱点与Powershell脚本提权的总结方法。 | https://medium.com/bugbountywriteup/weak-permissions-on-windows-service-privilege-escalation-e8fa97ce4a54?source=rss----7b722bfd1b8d---4| 
 | 20200913 | Docker for Pentester：图像漏洞评估使用说明。 | https://www.hackingarticles.in/docker-for-pentester-image-vulnerability-assessment/| 
 | 20200911 | iOS iBoot 启动过程分析 | https://h3adsh0tzz.com/inside-xnu/iboot/intro| 
 | 20200911 | vx-underground 团队发了一篇 Paper，研究如何将 C 语言编译成 Shellcode | https://vxug.fakedoma.in/papers/VXUG/Exclusive/FromaCprojectthroughassemblytoshellcodeHasherezade.pdf| 
 | 20200911 | Hyper-V (hvix64) 类型混淆任意地址解引用漏洞分析（CVE-2020-0904） | https://labs.bluefrostsecurity.de/advisories/bfs-sa-2020-003/| 
 | 20200911 | Windows Exchage Server DlpUtils AddTenantDlpPolicy RCE 漏洞，认证通过后才能触发该漏洞 | https://srcincite.io/advisories/src-2020-0019/| 
-| 20200911 | BlindSide - VUSec 团队研究在仅有一个内核溢出漏洞的基础上，不依靠其他信息泄露漏洞，利用 Spectre 侧信道漏洞实现 BROP - Blind ROP | https://www.vusec.net/projects/blindside/| 
-| 20200911 | 从分析 F5 BIG-IP TMUI CVE-2020-5902 漏洞公告到编写 RCE Exploit | https://www.criticalstart.com/f5-big-ip-remote-code-execution-exploit/| 
-| 20200911 | 卡巴斯基发布针对Linux平台的攻击的团伙（包括APT）的概要分析 | https://securelist.com/an-overview-of-targeted-attacks-and-apts-on-linux/98440/| 
 
 
 # 安全维基 推荐
@@ -33,6 +33,7 @@
 | --- | --- | ---| 
 | 20200914 | API越权风险检测方式浅谈 | https://mp.weixin.qq.com/s/eS8NgNXaIYlUQ__Gb3y0kg| 
 | 20200914 | SecWiki周刊（第341期) | https://www.sec-wiki.com/weekly/341| 
+| 20200914 | 软件源码安全攻防之道（中） | https://mp.weixin.qq.com/s/8L7c6WOtF5nmcmPnuFubfA| 
 | 20200913 | 物联网安全之MQTT渗透实战 | https://bacde.me/post/mqtt-security-part-two/| 
 | 20200912 | 探索MITRE Shield如何用于主动防御 | https://mp.weixin.qq.com/s/K95QEs2UaUyvoUsVvUGDXg| 
 | 20200912 | 美军红队评估体系建设现状及启示 | https://mp.weixin.qq.com/s/JZef789soLqK2SdskBV5WQ| 
@@ -40,28 +41,28 @@
 | 20200912 | IoT-vulhub: IoT 固件漏洞复现环境 | https://github.com/firmianay/IoT-vulhub| 
 | 20200912 | bugbounty之我是如何侵入电信网络的 | https://xz.aliyun.com/t/8255| 
 | 20200910 | 2020上半年出行行业黑灰产研究报告 | https://mp.weixin.qq.com/s/sQJRZZonTF7bjCs1jd_H9A| 
-| 20200910 | 有关Angr的正确学习路线 | https://zhuanlan.zhihu.com/p/102582636| 
 
 
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20200914T12:49:59Z | CVE-2020-1472 | Test tool for CVE-2020-1472 | https://github.com/SecuraBV/CVE-2020-1472 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 01 MINUTES 25 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200914T12:48:51Z | CVE-2020-6468 | for 供養 | https://github.com/Goyotan/CVE-2020-6468-PoC | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 01 MINUTES 33 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200914T12:47:11Z | CVE-2020-15505 | CVE-2020-15505: RCE on MobileIron MDM PoC | https://github.com/swiper/CVE-2020-15505 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 01 MINUTES 32 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200914T08:58:04Z | 未知编号 | CVE Data Analysis, CVE Monitor, CVE EXP Prediction Based on Deep Learning. 1999-2020年存量CVE数据分析、监控CVE增量更新、基于深度学习的CVE EXP预测和自动化推送 | https://github.com/404notf0und/CVE-Flow | 未查询到CVE信息| 
-| 20200914T08:41:24Z | 未知编号 | EasyAntiCheat Integrity check bypass by mimicking memory changes | https://github.com/thesecretclub/CVEAC-2020 | 未查询到CVE信息| 
-| 20200914T03:11:02Z | CVE-2020-0787 | Support ALL Windows Version | https://github.com/cbwang505/CVE-2020-0787-EXP-ALL-WINDOWS-VERSION | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 01 MINUTES 18 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200913T18:40:15Z | 未知编号 | This is the exploit PoC for CVE 2020 16875 | https://github.com/Kr0ff/cvs-2020-16875 | 未查询到CVE信息| 
-| 20200913T12:33:31Z | CVE-2020-8150 | CVE-2020-8150 – Remote Code Execution as SYSTEM/root via Backblaze | https://github.com/geffner/CVE-2020-8150 | 未查询到CVE信息| 
-| 20200912T22:06:31Z | CVE-2020-11881 | CVE-2020-11881: unauthenticated remote DoS for MikroTik SMB service. | https://github.com/botlabsDev/CVE-2020-11881 | 未查询到CVE信息| 
-| 20200911T20:00:54Z | CVE-2020-17496 | (CVE-2020-17496) vBulletin 5.x Widget_tabbedcontainer_tab_panel RCE Vuln Test script | https://github.com/ludy-dev/vBulletin_5.x-tab_panel-RCE | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 01 MINUTES 23 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200914T23:55:50Z | CVE-2020-1472 | PoC for Zerologon - all research credits go to Tom Tervoort of Secura | https://github.com/dirkjanm/CVE-2020-1472 | 当攻击者使用Netlogon远程协议（MS-NRPC）（又称为“ Netlogon特权提升漏洞”）建立与域控制器的易受攻击的Netlogon安全通道连接时，将存在特权提升漏洞。| 
+| 20200914T23:52:54Z | CVE-2020-1472 | Test tool for CVE-2020-1472 | https://github.com/SecuraBV/CVE-2020-1472 | 当攻击者使用Netlogon远程协议（MS-NRPC）（又称为“ Netlogon特权提升漏洞”）建立与域控制器的易受攻击的Netlogon安全通道连接时，将存在特权提升漏洞。| 
+| 20200914T23:09:21Z | CVE-2020-1472 | Null | https://github.com/cube0x0/CVE-2020-1472 | 当攻击者使用Netlogon远程协议（MS-NRPC）（又称为“ Netlogon特权提升漏洞”）建立与域控制器的易受攻击的Netlogon安全通道连接时，将存在特权提升漏洞。| 
+| 20200914T23:08:19Z | cve-2020-1472 | Exploit for zerologon cve-2020-1472 | https://github.com/risksense/zerologon | | 
+| 20200914T22:13:36Z | CVE-2020-1472 | Abuse CVE-2020-1472 (Zerologon) to take over a domain and then repair the local stored machine account password. | https://github.com/bb00/zer0dump | 当攻击者使用Netlogon远程协议（MS-NRPC）（又称为“ Netlogon特权提升漏洞”）建立与域控制器的易受攻击的Netlogon安全通道连接时，将存在特权提升漏洞。| 
+| 20200914T21:58:01Z | 未知编号 | A local privilege escalation chain from user to kernel for MacOS < 10.15.5. CVE-2020–9854 | https://github.com/A2nkF/unauthd | 未查询到CVE信息| 
+| 20200914T21:06:41Z | CVE-2020-1472 | Exploit Code for CVE-2020-1472 aka Zerologon | https://github.com/VoidSec/CVE-2020-1472 | 当攻击者使用Netlogon远程协议（MS-NRPC）（又称为“ Netlogon特权提升漏洞”）建立与域控制器的易受攻击的Netlogon安全通道连接时，将存在特权提升漏洞。| 
+| 20200914T18:48:03Z | CVE-2020-15505 | CVE-2020-15505: RCE on MobileIron MDM PoC | https://github.com/swiper/CVE-2020-15505 | MobileIron Core和Connector 10.6和更早版本以及Sentry 9.8和更早版本中的远程执行代码漏洞，允许远程攻击者通过未指定的向量执行任意代码。| 
+| 20200914T15:58:25Z | CVE-2020-6468 | for 供養 | https://github.com/Goyotan/CVE-2020-6468-PoC | 83.0.4103.61之前的Google Chrome V8中的类型混乱使远程攻击者可以通过精心制作的HTML页面利用堆破坏。| 
+| 20200914T15:55:59Z | 未知编号 | EasyAntiCheat Integrity check bypass by mimicking memory changes | https://github.com/thesecretclub/CVEAC-2020 | 未查询到CVE信息| 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20200914T09:15:22Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1499 | 455| 
+| 20200914T23:50:03Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1500 | 455| 
+| 20200914T16:39:48Z | Wordpress template for ATX Alaskan Klee Kai | https://github.com/devwithdana/atxakk | 0 | 0| 
 | 20200914T04:06:17Z | RVT is a collection of tools/libraries to support both static and dynamic verification of Rust programs. | https://github.com/project-oak/rust-verification-tools | 80 | 4| 
 | 20200914T02:17:24Z | Null | https://github.com/CharlesKleeven/CharlesKleeven.github.io | 0 | 0| 
 | 20200912T15:58:26Z | Sample node.js agent with modest negotiation skills that uses RegEx for NLP. | https://github.com/humaine-anac/agent-kleene | 0 | 1| 
@@ -70,67 +71,66 @@
 | 20200910T16:13:14Z | KLEE in the browser | https://github.com/klee/klee-web | 43 | 10| 
 | 20200910T13:39:24Z | Scala library for generation and manipulation of images treated as a point => color function. | https://github.com/skac112/klee | 0 | 0| 
 | 20200910T06:07:31Z | One place for all of my workshops | https://github.com/kleenxcoder/kleenxcoder-workshops | 0 | 0| 
-| 20200909T05:42:00Z | Create CFGs and compute complexity metrics for Python, C++, and Java code. | https://github.com/hmc-alpaqa/metrinome | 4 | 0| 
 
 
 # s2e on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20200914T22:27:08Z | s2e develop  | https://github.com/xqx12/xqx | 6 | 12| 
+| 20200914T13:35:02Z | Null | https://github.com/cxzzzz/s2engine_mcu | 1 | 0| 
 | 20200914T07:57:37Z | cicd logic and gitlab&github runner&jenkins agent container, centos base ,whith jdk/python/go, maven/npm,/kubectl/helm | https://github.com/chimeh/cicd-s2e-runner | 1 | 0| 
 | 20200911T12:13:16Z | Null | https://github.com/Complete58158/s2ea5fthktwsyqd | 0 | 0| 
 | 20200910T05:02:01Z | This is the main S2E repository. Visit https://s2e.systems/docs to get started. | https://github.com/S2E/s2e | 57 | 17| 
-| 20200905T12:28:25Z | s2e develop  | https://github.com/xqx12/xqx | 6 | 12| 
 | 20200905T08:38:26Z | Performance analyzer for logs generated from violet S2E plugin | https://github.com/OrderLab/violet-trace-analyzer | 0 | 0| 
 | 20200905T07:40:31Z | Custom S2E plugins for Violet project | https://github.com/OrderLab/violet-s2e-plugins | 0 | 0| 
 | 20200904T11:57:45Z | Q. Yao, H. Yang, B. Han, G. Niu, J. Kwok. Searching to Exploit Memorization Effect in Learning from Noisy Labels. International Conference on Machine Learning (ICML) 2020 | https://github.com/AutoML-4Paradigm/S2E | 10 | 1| 
 | 20200904T07:44:31Z | Fork of S2E/guest-tools | https://github.com/OrderLab/violet-s2e-guest-tools | 0 | 0| 
 | 20200904T06:28:20Z | Fork of S2E/libs2ecore | https://github.com/OrderLab/violet-libs2ecore | 0 | 0| 
-| 20200904T06:27:40Z | Fork of S2E/klee | https://github.com/OrderLab/violet-s2e-klee | 0 | 0| 
 
 
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20200914T12:48:18Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 5 | 2| 
-| 20200914T12:27:49Z | iblessing is an iOS security exploiting toolkit, it mainly includes application information collection, static analysis and dynamic analysis. It can be used for reverse engineering, binary analysis and vulnerability mining. | https://github.com/Soulghost/iblessing | 189 | 29| 
-| 20200914T12:06:18Z | Exploiter CSRF | https://github.com/apidotmy/CSRF | 0 | 0| 
-| 20200914T12:03:20Z | A collection of awesome videos, articles, books and resources about ARM exploitation. | https://github.com/HenryHoggard/awesome-arm-exploitation | 38 | 12| 
-| 20200914T11:41:28Z | Commodity Injection Signatures, Malicious Inputs, XSS, HTTP Header Injection, XXE, RCE, Javascript, XSLT | https://github.com/xsscx/Commodity-Injection-Signatures | 235 | 98| 
-| 20200914T11:35:12Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 7227 | 1182| 
-| 20200914T11:33:27Z | Null | https://github.com/nondejus/mediapark-medische-database-exploits-van-persoonlijke-gegevens | 0 | 0| 
-| 20200914T11:29:36Z | this bash script let you download scripts and clone repos for remote exploits | https://github.com/FabioDefilippo/linuxallremote | 5 | 0| 
-| 20200914T11:25:16Z | Evolutionary Feature Synthesis (EFS), a regression method that generates readable, nonlinear models of small to medium size datasets in seconds. EFS is the fastest regression tool based on evolutionary computation reported to date. The feature search involved in the proposed method is composed of two main steps: feature composition and feature subset selection. EFS adopts a bottom-up feature composition strategy that eliminates the need for a symbolic representation of the features and exploits the variable selection process involved in pathwise regularized linear regression to perform the feature subset selection step. The result is a regression method that is competitive against neural networks, and outperforms both linear methods and Multiple Regression Genetic Programming, up to now the best regression tool based on evolutionary computation. | https://github.com/chamikasudusinghe/efs | 0 | 0| 
-| 20200914T10:30:54Z | Null | https://github.com/juustio/Exploit | 0 | 0| 
+| 20200914T23:55:49Z | nanodisco: a toolbox for discovering and exploiting multiple types of DNA methylation from individual bacteria and microbiomes using nanopore sequencing. | https://github.com/fanglab/nanodisco | 6 | 0| 
+| 20200914T23:29:33Z | Null | https://github.com/quentin452/Cats-Exploitz-HUB | 0 | 1| 
+| 20200914T23:15:30Z | Metasploit Utilities, Post Exploit Scripts and other scripts primarily for reference | https://github.com/reg1reg1/Exploits | 0 | 0| 
+| 20200914T23:08:19Z | Exploit for zerologon cve-2020-1472 | https://github.com/risksense/zerologon | 4 | 1| 
+| 20200914T22:30:37Z | A faithful recreation of the Windows 96 exploitation system. | https://github.com/beurkinger/windows-96 | 0 | 0| 
+| 20200914T21:58:01Z | A local privilege escalation chain from user to kernel for MacOS < 10.15.5. CVE-2020–9854 | https://github.com/A2nkF/unauthd | 73 | 10| 
+| 20200914T21:10:17Z | Advanced Exploit Mitigation Paper | https://github.com/CxVercility/Windows-Internals | 0 | 0| 
+| 20200914T21:06:41Z | Exploit Code for CVE-2020-1472 aka Zerologon | https://github.com/VoidSec/CVE-2020-1472 | 1 | 0| 
+| 20200914T21:06:39Z | CVE-2019-15107 exploit | https://github.com/n0obit4/Webmin_1.890-POC | 1 | 0| 
+| 20200914T21:02:19Z | Tool for using libc infoleaks to identify libc version from within your exploit. | https://github.com/guyinatuxedo/The_Night | 7 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20200914T12:55:56Z | A PHP backdoor management and generation tool featuring end to end encrypted payload streaming designed to bypass WAF, IDS, SIEM systems. | https://github.com/gellin/bantam | 18 | 4| 
+| 20200914T22:35:29Z | Simple Python Backdoor | https://github.com/zNairy/Sonaris | 1 | 0| 
+| 20200914T20:57:11Z | A PHP backdoor management and generation tool featuring end to end encrypted payload streaming designed to bypass WAF, IDS, SIEM systems. | https://github.com/gellin/bantam | 27 | 4| 
+| 20200914T19:33:14Z | Null | https://github.com/iK4oS/PremiumBackdoor.exe | 0 | 0| 
+| 20200914T18:17:21Z | Advanced Client - Server connection, Get full access of Client%s computer with backdoor. | https://github.com/itsrohanvj/RAT | 3 | 1| 
+| 20200914T17:57:40Z | A deck-building roguelike cyberpunk game. | https://github.com/uspgamedev/backdoor | 17 | 2| 
+| 20200914T16:10:44Z | Full-featured C2 framework which silently persists on webserver via evil PHP oneliner :smiling_imp: | https://github.com/nil0x42/phpsploit | 993 | 303| 
+| 20200914T15:23:47Z | simple reverse shell backdoor with IRC bot | https://github.com/rofl0r/backdoor-py | 3 | 1| 
+| 20200914T15:12:38Z | Creacion de puertas traseras (backdoors) para Metasploit-framework | https://github.com/byteSalgado/msfpayload | 11 | 2| 
 | 20200914T12:24:50Z | Null | https://github.com/mohdhumaid/BackdoorPython27 | 1 | 0| 
 | 20200914T12:04:17Z | Pwning the Nuro issued Huawei HG8045Q | https://github.com/meh301/HG8045Q | 20 | 1| 
-| 20200914T10:23:55Z | A deck-building roguelike cyberpunk game. | https://github.com/uspgamedev/backdoor | 17 | 2| 
-| 20200914T06:58:20Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 58 | 7| 
-| 20200914T03:58:07Z | Advanced Attack toolkit, Native C++ RAT, Instagram Brute Force and Password Spraying over Tor, Mass Emailer, Malicious file Sentinel and more. | https://github.com/quantumcored/paradoxia | 147 | 28| 
-| 20200914T03:29:52Z | Null | https://github.com/LinyueSong/backdoor | 0 | 0| 
-| 20200914T02:39:00Z | Null | https://github.com/dheeraj7596/NlpBackdoor | 0 | 0| 
-| 20200914T02:36:54Z | A sample app to demonstrate how to create Xamarin UITests using the Page Object architecture, Backdoor Methods and App Links (aka Deep Linking) | https://github.com/brminnick/UITestSampleApp | 29 | 24| 
-| 20200914T01:57:56Z | Tool to find potential backdoor/security holes in your endpoint | https://github.com/subasgit/backdoorfinder | 0 | 0| 
 
 
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20200914T12:59:14Z | Fuzzy Quantification of Common and Rare Species in Ecological Communities | https://github.com/Ligophorus/FuzzyQ | 0 | 0| 
-| 20200914T12:58:24Z | 一些常见字典 | https://github.com/yuanhaiGreg/Fuzz-Dict | 0 | 0| 
-| 20200914T12:51:21Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 26752 | 13069| 
-| 20200914T12:49:19Z | FuzzSplore: Visualizing Feedback-Driven Fuzzing Techniques | https://github.com/andreafioraldi/FuzzSplore | 4 | 0| 
-| 20200914T12:44:05Z | PoC | https://github.com/FuzzQuery/fuzzquery.github.io | 0 | 0| 
-| 20200914T12:40:29Z | White-box fuzzer for Java bytecode | https://github.com/vorpal-research/kex | 1 | 4| 
-| 20200914T12:13:07Z | No idea what I%m doing | https://github.com/klecko/fuzz | 1 | 0| 
-| 20200914T11:46:45Z | Null | https://github.com/BigSean6979/fuzzy-chainsaw | 0 | 0| 
-| 20200914T11:09:31Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 3124 | 720| 
-| 20200914T10:27:39Z | Potentially dangerous files | https://github.com/Bo0oM/fuzz.txt | 1270 | 232| 
+| 20200915T00:00:30Z | Automated btrfs fuzzer | https://github.com/danobi/btrfs-fuzz | 0 | 0| 
+| 20200914T22:56:20Z | Scalable fuzzing infrastructure. | https://github.com/google/clusterfuzz | 4315 | 387| 
+| 20200914T22:40:41Z | Null | https://github.com/rao-aditya/fuzzy-invention | 0 | 0| 
+| 20200914T22:26:39Z | Fast web fuzzer written in Go | https://github.com/ffuf/ffuf | 2952 | 341| 
+| 20200914T22:02:21Z | Null | https://github.com/Ma-devv/JSONObjectFuzzer | 0 | 0| 
+| 20200914T21:43:10Z | Fast HTTP enumerator | https://github.com/RedTeamPentesting/monsoon | 130 | 19| 
+| 20200914T21:40:00Z | Null | https://github.com/rochabianca/fuzzy-tip | 1 | 0| 
+| 20200914T21:36:38Z | FuzzBench - Fuzzer benchmarking as a service. | https://github.com/google/fuzzbench | 521 | 78| 
+| 20200914T21:18:37Z | # Some Awesome Projects About Fuzzy Logic And Systems :) | https://github.com/Arash-Mari-Oriyad/fuzzy_logic_and_systems | 0 | 0| 
+| 20200914T20:47:44Z | Null | https://github.com/abdulr7mann/sqliFuzzer | 0 | 0| 
 
 
 
