@@ -46,22 +46,22 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20200916T01:21:39Z | CVE-2020-1472 | PoC for Zerologon - all research credits go to Tom Tervoort of Secura | https://github.com/dirkjanm/CVE-2020-1472 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 36 MINUTES 24 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200916T01:20:03Z | cve-2020-1472 | Exploit for zerologon cve-2020-1472 | https://github.com/risksense/zerologon | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 36 MINUTES 26 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200916T01:21:39Z | CVE-2020-1472 | PoC for Zerologon - all research credits go to Tom Tervoort of Secura | https://github.com/dirkjanm/CVE-2020-1472 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 35 MINUTES 23 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200916T01:20:03Z | cve-2020-1472 | Exploit for zerologon cve-2020-1472 | https://github.com/risksense/zerologon | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 35 MINUTES 26 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20200916T01:17:09Z | CVE-2020-1472 | Ladon Moudle CVE-2020-1472 Exploit 域控提权神器 | https://github.com/k8gege/CVE-2020-1472-EXP | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 35 MINUTES 33 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200916T00:53:51Z | CVE-2020-1472 | Abuse CVE-2020-1472 (Zerologon) to take over a domain and then repair the local stored machine account password. | https://github.com/bb00/zer0dump | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 36 MINUTES 27 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200916T00:53:49Z | CVE-2020-1472 | Exploit Code for CVE-2020-1472 aka Zerologon | https://github.com/VoidSec/CVE-2020-1472 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 36 MINUTES 25 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200916T00:46:51Z | CVE-2020-1472 | Null | https://github.com/cube0x0/CVE-2020-1472 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 36 MINUTES 22 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200916T00:35:26Z | CVE-2020-1472 | PoC for Zerologon (CVE-2020-1472)  - Research credits to Tom Tervoort of Secura & exploit credits to dirkjanm | https://github.com/harshil-shah004/zerologon-CVE-2020-1472 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 36 MINUTES 33 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200915T21:49:42Z | CVE-2020-10558 | Tesla Model 3 Hack DoS Entire Touchscreen Interface CVE-2020-10558 | https://github.com/nuzzl/CVE-2020-10558 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 36 MINUTES 15 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200916T00:53:51Z | CVE-2020-1472 | Abuse CVE-2020-1472 (Zerologon) to take over a domain and then repair the local stored machine account password. | https://github.com/bb00/zer0dump | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 35 MINUTES 27 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200916T00:53:49Z | CVE-2020-1472 | Exploit Code for CVE-2020-1472 aka Zerologon | https://github.com/VoidSec/CVE-2020-1472 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 35 MINUTES 24 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200916T00:46:51Z | CVE-2020-1472 | Null | https://github.com/cube0x0/CVE-2020-1472 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 35 MINUTES 22 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200916T00:35:26Z | CVE-2020-1472 | PoC for Zerologon (CVE-2020-1472)  - Research credits to Tom Tervoort of Secura & exploit credits to dirkjanm | https://github.com/harshil-shah004/zerologon-CVE-2020-1472 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 35 MINUTES 32 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200915T21:49:42Z | CVE-2020-10558 | Tesla Model 3 Hack DoS Entire Touchscreen Interface CVE-2020-10558 | https://github.com/nuzzl/CVE-2020-10558 | | 
 | 20200915T16:38:47Z | CVE-2020-1472 | CVE-2020-1472 | https://github.com/422926799/CVE-2020-1472 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 35 MINUTES 34 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200915T14:53:04Z | CVE-2020-15505 | CVE-2020-15505: RCE on MobileIron MDM PoC | https://github.com/swiper/CVE-2020-15505 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 36 MINUTES 20 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200915T14:53:04Z | CVE-2020-15505 | CVE-2020-15505: RCE on MobileIron MDM PoC | https://github.com/swiper/CVE-2020-15505 | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20200916T00:58:44Z | Null | https://github.com/CharlesKleeven/CharlesKleeven.github.io | 0 | 0| 
+| 20200916T01:23:14Z | Null | https://github.com/CharlesKleeven/CharlesKleeven.github.io | 0 | 0| 
 | 20200915T17:20:32Z | RVT is a collection of tools/libraries to support both static and dynamic verification of Rust programs. | https://github.com/project-oak/rust-verification-tools | 81 | 4| 
 | 20200915T12:37:48Z | Symbiotic is a tool for finding bugs in computer programs based on instrumentation, program slicing and KLEE | https://github.com/staticafi/symbiotic | 195 | 33| 
 | 20200915T07:57:55Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1501 | 456| 
@@ -106,6 +106,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20200916T01:24:52Z | Tool to find potential backdoor/security holes in your endpoint | https://github.com/subasgit/backdoorfinder | 0 | 0| 
 | 20200916T01:16:55Z | Este Backdoor Logra Que Accedas A Cualquier PC Escrito En Python.... | https://github.com/Samuel3928/Backdoor-Para-Acceder-A-Cualquier-PC | 1 | 0| 
 | 20200915T23:30:01Z | Undetectable & Xor encrypting with custom KEY (FUD Metasploit Rat) bypass Top Antivirus like BitDefender,Malwarebytes,Avast,ESET-NOD32,AVG,... & Automatically Add ICON and MANIFEST to excitable | https://github.com/persianhydra/Xeexe-TopAntivirusEvasion | 157 | 49| 
 | 20200915T21:39:16Z | Advanced Client - Server connection, Get full access of Client%s computer with backdoor. | https://github.com/itsrohanvj/RAT | 3 | 1| 
@@ -114,7 +115,6 @@
 | 20200915T18:17:14Z | Full-featured C2 framework which silently persists on webserver via evil PHP oneliner :smiling_imp: | https://github.com/nil0x42/phpsploit | 996 | 306| 
 | 20200915T11:49:57Z | A pure-Rust library for VMware host-guest protocol (%VMXh backdoor%) | https://github.com/lucab/vmw_backdoor-rs | 2 | 0| 
 | 20200915T11:22:10Z | A PHP backdoor management and generation tool featuring end to end encrypted payload streaming designed to bypass WAF, IDS, SIEM systems. | https://github.com/gellin/bantam | 28 | 6| 
-| 20200915T01:55:56Z | Tool to find potential backdoor/security holes in your endpoint | https://github.com/subasgit/backdoorfinder | 0 | 0| 
 | 20200914T22:35:29Z | Simple Python Backdoor | https://github.com/zNairy/Sonaris | 1 | 0| 
 
 
