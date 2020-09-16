@@ -18,6 +18,7 @@
 | 20200915 | 使用服务DLL文件加载到系统进程svchost.exe中方法。 | https://www.ired.team/offensive-security/persistence/persisting-in-svchost.exe-with-a-service-dll-servicemain| 
 | 20200915 | 针对EMV智能卡支付标准的有趣测试研究。 | https://www.schneier.com/blog/archives/2020/09/interesting-attack-on-the-emv-smartcard-payment-standard.html| 
 | 20200915 | 创建修补二进制文件进行渗透测试. | https://isc.sans.edu/diary/rss/26560| 
+| 20200915 | Spyre：基于YARA的简单IOC扫描器 | https://kalilinuxtutorials.com/spyre/| 
 | 20200914 | FPGA XC2064 芯片的硬件级逆向分析 | http://www.righto.com/2020/09/reverse-engineering-first-fpga-chip.html| 
 | 20200914 | 今年 Google CTF 所有赛题源码 | https://github.com/google/google-ctf/tree/master/2020/quals| 
 | 20200914 | Linux kernel Cgroup BPF Use-After-Free 漏洞的分析 | http://blog.pi3.com.pl/?p=720| 
@@ -25,7 +26,6 @@
 | 20200914 | Lucid - 一款开源的用于交互式查看 IDA Pro Hex-Rays 微码的工具 | https://blog.ret2.io/2020/09/11/lucid-hexrays-microcode-explorer/| 
 | 20200914 | CrossC2 framework - 生成 CobaltStrike 的跨平台 beacon | https://github.com/gloxec/CrossC2| 
 | 20200914 | CRLFuzz - 用于扫描 CRLF 漏洞的工具 | https://github.com/dwisiswant0/crlfuzz| 
-| 20200914 | Ghidra插件Dragon Dance发布，可协助分析二进制数据 | https://securityonline.info/dragon-dance-binary-code-coverage-visualizer-plugin-for-ghidra/| 
 
 
 # 安全维基 推荐
@@ -46,22 +46,22 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20200916T01:24:47Z | CVE-2020-1472 | PoC for Zerologon - all research credits go to Tom Tervoort of Secura | https://github.com/dirkjanm/CVE-2020-1472 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 32 MINUTES 24 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200916T01:20:03Z | cve-2020-1472 | Exploit for zerologon cve-2020-1472 | https://github.com/risksense/zerologon | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 32 MINUTES 26 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200916T01:17:09Z | CVE-2020-1472 | Ladon Moudle CVE-2020-1472 Exploit 域控提权神器 | https://github.com/k8gege/CVE-2020-1472-EXP | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 32 MINUTES 33 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200916T00:53:51Z | CVE-2020-1472 | Abuse CVE-2020-1472 (Zerologon) to take over a domain and then repair the local stored machine account password. | https://github.com/bb00/zer0dump | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 32 MINUTES 27 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200916T00:53:49Z | CVE-2020-1472 | Exploit Code for CVE-2020-1472 aka Zerologon | https://github.com/VoidSec/CVE-2020-1472 | | 
-| 20200916T00:46:51Z | CVE-2020-1472 | Null | https://github.com/cube0x0/CVE-2020-1472 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 32 MINUTES 23 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200916T00:35:26Z | CVE-2020-1472 | PoC for Zerologon (CVE-2020-1472)  - Research credits to Tom Tervoort of Secura & exploit credits to dirkjanm | https://github.com/harshil-shah004/zerologon-CVE-2020-1472 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 32 MINUTES 32 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200915T21:49:42Z | CVE-2020-10558 | Tesla Model 3 Hack DoS Entire Touchscreen Interface CVE-2020-10558 | https://github.com/nuzzl/CVE-2020-10558 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 32 MINUTES 17 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200915T16:38:47Z | CVE-2020-1472 | CVE-2020-1472 | https://github.com/422926799/CVE-2020-1472 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 32 MINUTES 34 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200915T14:53:04Z | CVE-2020-15505 | CVE-2020-15505: RCE on MobileIron MDM PoC | https://github.com/swiper/CVE-2020-15505 | | 
+| 20200916T01:29:14Z | CVE-2020-1472 | PoC for Zerologon - all research credits go to Tom Tervoort of Secura | https://github.com/dirkjanm/CVE-2020-1472 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 30 MINUTES 19 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200916T01:20:03Z | cve-2020-1472 | Exploit for zerologon cve-2020-1472 | https://github.com/risksense/zerologon | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 30 MINUTES 21 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200916T01:17:09Z | CVE-2020-1472 | Ladon Moudle CVE-2020-1472 Exploit 域控提权神器 | https://github.com/k8gege/CVE-2020-1472-EXP | | 
+| 20200916T00:53:51Z | CVE-2020-1472 | Abuse CVE-2020-1472 (Zerologon) to take over a domain and then repair the local stored machine account password. | https://github.com/bb00/zer0dump | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 30 MINUTES 22 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200916T00:53:49Z | CVE-2020-1472 | Exploit Code for CVE-2020-1472 aka Zerologon | https://github.com/VoidSec/CVE-2020-1472 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 30 MINUTES 20 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200916T00:46:51Z | CVE-2020-1472 | Null | https://github.com/cube0x0/CVE-2020-1472 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 30 MINUTES 18 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200916T00:35:26Z | CVE-2020-1472 | PoC for Zerologon (CVE-2020-1472)  - Research credits to Tom Tervoort of Secura & exploit credits to dirkjanm | https://github.com/harshil-shah004/zerologon-CVE-2020-1472 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 29 MINUTES 26 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200915T21:49:42Z | CVE-2020-10558 | Tesla Model 3 Hack DoS Entire Touchscreen Interface CVE-2020-10558 | https://github.com/nuzzl/CVE-2020-10558 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 30 MINUTES 10 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200915T16:38:47Z | CVE-2020-1472 | CVE-2020-1472 | https://github.com/422926799/CVE-2020-1472 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 29 MINUTES 27 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200915T14:53:04Z | CVE-2020-15505 | CVE-2020-15505: RCE on MobileIron MDM PoC | https://github.com/swiper/CVE-2020-15505 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 30 MINUTES 15 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20200916T01:25:53Z | Null | https://github.com/CharlesKleeven/CharlesKleeven.github.io | 0 | 0| 
+| 20200916T01:28:56Z | Null | https://github.com/CharlesKleeven/CharlesKleeven.github.io | 0 | 0| 
 | 20200915T17:20:32Z | RVT is a collection of tools/libraries to support both static and dynamic verification of Rust programs. | https://github.com/project-oak/rust-verification-tools | 81 | 4| 
 | 20200915T12:37:48Z | Symbiotic is a tool for finding bugs in computer programs based on instrumentation, program slicing and KLEE | https://github.com/staticafi/symbiotic | 195 | 33| 
 | 20200915T07:57:55Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1501 | 456| 
@@ -121,6 +121,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20200916T01:30:03Z | Recent Fuzzing Paper | https://github.com/fengjixuchui/FuzzingPaper | 273 | 108| 
 | 20200916T01:19:55Z | Not nodemon. | https://github.com/ViGi-P/fuzz-branacle-watch | 0 | 0| 
 | 20200916T01:18:38Z | AFL++ as a library: gives you all the tools necessary to craft the best fuzzer for your targets with ease! | https://github.com/AFLplusplus/LibAFL | 85 | 3| 
 | 20200916T01:02:15Z | Randomized testing for Go | https://github.com/dvyukov/go-fuzz | 3619 | 209| 
@@ -130,7 +131,6 @@
 | 20200916T00:43:14Z | Data Projects & Programs | https://github.com/rhaws87/fuzzy-computing-machine | 0 | 0| 
 | 20200915T23:59:23Z | Fuzzy Logic SciKit (Toolkit for SciPy) | https://github.com/scikit-fuzzy/scikit-fuzzy | 460 | 187| 
 | 20200915T23:36:38Z | Group Project For Capstone Class | https://github.com/RafaelQuarles/FuzzyLogicChessAI | 0 | 0| 
-| 20200915T23:31:49Z | OSS-Fuzz - continuous fuzzing of open source software. | https://github.com/google/oss-fuzz | 5544 | 1086| 
 
 
 
