@@ -46,16 +46,16 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20200916T00:35:26Z | CVE-2020-1472 | PoC for Zerologon (CVE-2020-1472)  - Research credits to Tom Tervoort of Secura & exploit credits to dirkjanm | https://github.com/harshil-shah004/zerologon-CVE-2020-1472 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 16 MINUTES 32 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200916T00:32:03Z | CVE-2020-1472 | PoC for Zerologon - all research credits go to Tom Tervoort of Secura | https://github.com/dirkjanm/CVE-2020-1472 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 16 MINUTES 25 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200916T00:20:48Z | CVE-2020-1472 | Abuse CVE-2020-1472 (Zerologon) to take over a domain and then repair the local stored machine account password. | https://github.com/bb00/zer0dump | | 
-| 20200915T23:56:17Z | cve-2020-1472 | Exploit for zerologon cve-2020-1472 | https://github.com/risksense/zerologon | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 16 MINUTES 27 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200915T23:13:33Z | CVE-2020-1472 | Ladon Moudle CVE-2020-1472 Exploit 域控提权神器 | https://github.com/k8gege/CVE-2020-1472-EXP | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 16 MINUTES 33 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200915T21:49:42Z | CVE-2020-10558 | Tesla Model 3 Hack DoS Entire Touchscreen Interface CVE-2020-10558 | https://github.com/nuzzl/CVE-2020-10558 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 16 MINUTES 17 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200915T21:17:04Z | CVE-2020-1472 | Exploit Code for CVE-2020-1472 aka Zerologon | https://github.com/VoidSec/CVE-2020-1472 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 16 MINUTES 26 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200915T16:48:59Z | CVE-2020-1472 | Null | https://github.com/cube0x0/CVE-2020-1472 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 16 MINUTES 24 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200916T00:35:26Z | CVE-2020-1472 | PoC for Zerologon (CVE-2020-1472)  - Research credits to Tom Tervoort of Secura & exploit credits to dirkjanm | https://github.com/harshil-shah004/zerologon-CVE-2020-1472 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 15 MINUTES 33 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200916T00:32:03Z | CVE-2020-1472 | PoC for Zerologon - all research credits go to Tom Tervoort of Secura | https://github.com/dirkjanm/CVE-2020-1472 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 15 MINUTES 24 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200916T00:20:48Z | CVE-2020-1472 | Abuse CVE-2020-1472 (Zerologon) to take over a domain and then repair the local stored machine account password. | https://github.com/bb00/zer0dump | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 15 MINUTES 28 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200915T23:56:17Z | cve-2020-1472 | Exploit for zerologon cve-2020-1472 | https://github.com/risksense/zerologon | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 15 MINUTES 27 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200915T23:13:33Z | CVE-2020-1472 | Ladon Moudle CVE-2020-1472 Exploit 域控提权神器 | https://github.com/k8gege/CVE-2020-1472-EXP | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 15 MINUTES 34 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200915T21:49:42Z | CVE-2020-10558 | Tesla Model 3 Hack DoS Entire Touchscreen Interface CVE-2020-10558 | https://github.com/nuzzl/CVE-2020-10558 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 15 MINUTES 16 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200915T21:17:04Z | CVE-2020-1472 | Exploit Code for CVE-2020-1472 aka Zerologon | https://github.com/VoidSec/CVE-2020-1472 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 15 MINUTES 25 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200915T16:48:59Z | CVE-2020-1472 | Null | https://github.com/cube0x0/CVE-2020-1472 | | 
 | 20200915T16:38:47Z | CVE-2020-1472 | CVE-2020-1472 | https://github.com/422926799/CVE-2020-1472 | | 
-| 20200915T14:53:04Z | CVE-2020-15505 | CVE-2020-15505: RCE on MobileIron MDM PoC | https://github.com/swiper/CVE-2020-15505 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 16 MINUTES 21 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200915T14:53:04Z | CVE-2020-15505 | CVE-2020-15505: RCE on MobileIron MDM PoC | https://github.com/swiper/CVE-2020-15505 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 15 MINUTES 22 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 
 
 # klee on Github 推荐
@@ -91,6 +91,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20200916T00:42:26Z | Official PyTorch implementation of %Puzzle Mix: Exploiting Saliency and Local Statistics for Optimal Mixup% (ICML%20) | https://github.com/snu-mllab/PuzzleMix | 32 | 2| 
 | 20200916T00:36:07Z | Curated list of Unix binaries that can be exploited to bypass system security restrictions | https://github.com/GTFOBins/GTFOBins.github.io | 3290 | 461| 
 | 20200916T00:21:54Z | Null | https://github.com/quentin452/Cats-Exploitz-HUB | 0 | 1| 
 | 20200916T00:15:36Z | this bash script let you download scripts and clone repos for remote exploits | https://github.com/FabioDefilippo/linuxallremote | 5 | 0| 
@@ -100,7 +101,6 @@
 | 20200915T23:27:04Z | Select proof-of-concept exploits for software vulnerabilities to aid in identifying and testing vulnerable systems. | https://github.com/CERTCC/PoC-Exploits | 95 | 20| 
 | 20200915T23:23:32Z | Offical Roblox Exploit | https://github.com/26926802306236/XShark-Offical | 0 | 0| 
 | 20200915T22:28:04Z | Practice pwn and some useful resources. | https://github.com/rudrapwn/binary-exploitation | 3 | 2| 
-| 20200915T21:48:50Z | A modular framework for building plugin-driven virtual networks - for hackers to explore and exploit. | https://github.com/gustavdersjo/project-accela | 1 | 0| 
 
 
 # backdoor on Github 推荐
@@ -122,7 +122,7 @@
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
 | 20200916T00:43:14Z | Data Projects & Programs | https://github.com/rhaws87/fuzzy-computing-machine | 0 | 0| 
-| 20200916T00:41:08Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 64 | 1| 
+| 20200916T00:41:08Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 64 | 2| 
 | 20200915T23:59:23Z | Fuzzy Logic SciKit (Toolkit for SciPy) | https://github.com/scikit-fuzzy/scikit-fuzzy | 460 | 187| 
 | 20200915T23:36:38Z | Group Project For Capstone Class | https://github.com/RafaelQuarles/FuzzyLogicChessAI | 0 | 0| 
 | 20200915T23:31:49Z | OSS-Fuzz - continuous fuzzing of open source software. | https://github.com/google/oss-fuzz | 5544 | 1086| 
