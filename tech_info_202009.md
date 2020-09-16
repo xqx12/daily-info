@@ -91,9 +91,9 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20200916T12:15:18Z | Implementation of our paper %Data Rejuvenation: Exploiting Inactive Training Examples for Neural Machine Translation% to appear in EMNLP2020. | https://github.com/wxjiao/Data-Rejuvenation | 5 | 0| 
 | 20200916T12:14:13Z | Silice is an open source language that simplifies writing algorithms fully exploiting FPGA architectures. | https://github.com/sylefeb/Silice | 333 | 24| 
 | 20200916T12:13:55Z | A faithful recreation of the Windows 96 exploitation system. | https://github.com/beurkinger/windows-96 | 0 | 0| 
-| 20200916T12:12:42Z | Implementation of our paper %Data Rejuvenation: Exploiting Inactive Training Examples for Neural Machine Translation% to appear in EMNLP2020. | https://github.com/wxjiao/Data-Rejuvenation | 5 | 0| 
 | 20200916T12:11:57Z | Commands, snippets, exploits, tools, lists, collections and techniques I used on my journey to becoming an OSCP.  | https://github.com/CountablyInfinite/oscp_cheatsheet | 0 | 0| 
 | 20200916T12:01:27Z | Curated list of Unix binaries that can be exploited to bypass system security restrictions | https://github.com/GTFOBins/GTFOBins.github.io | 3293 | 461| 
 | 20200916T12:00:41Z | steal the fucking code you damn kids without even reading it  | https://github.com/NikolaT3sla/wp-file-manager-0day-exploiter | 1 | 0| 
