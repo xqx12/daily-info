@@ -6,6 +6,18 @@
 # 玄武实验室 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20200916 | LLVM 2020 开发者大会的议题列表 | https://llvm.org/devmtg/2020-09/schedule/| 
+| 20200916 | Awesome ARM Exploitation | https://github.com/HenryHoggard/awesome-arm-exploitation| 
+| 20200916 | 汽车安全研究方向的 Paper 收集 | https://github.com/autoguard/awesome-vehicle-security-and-safety| 
+| 20200916 | 提供 Trace 和 Replay 功能的自动化逆向分析框架 REVEN 更新 2.6 版本 | https://blog.tetrane.com/2020/Announcing-REVEN-Version-2-6.html| 
+| 20200916 | Acronis Cyber Backup 组件 SSRF 漏洞的利用 | https://www.rcesecurity.com/2020/09/CVE-2020-16171-Exploiting-Acronis-Cyber-Backup-for-Fun-and-Emails/| 
+| 20200916 | Docker for Pentester: Abusing Docker API | https://www.hackingarticles.in/docker-for-pentester-abusing-docker-api/| 
+| 20200916 | Windows 进程 Mitigation 策略枚举工具 | https://github.com/yardenshafir/MitigationFlagsCliTool| 
+| 20200916 | How I hacked redbus | https://sec.today/pulses/3548fe57-1f59-40e9-a5d6-05cb882d02b6/| 
+| 20200916 | IBM Spectrum Protect Plus 数据存储解决方案产品被发现 RCE 漏洞 | https://threatpost.com/ibm-flaws-spectrum-protect-plus/159268/| 
+| 20200916 | NCC Group 为 Zerologon CVE-2020-1472 漏洞编写的 .NET 版本的 Exploit | https://sec.today/pulses/e69a34fd-d4cb-4108-ae68-4faf3e750daf/| 
+| 20200916 | QEMU slirp 组件路径穿越漏洞补丁 | https://sec.today/pulses/daead9dd-3403-4e59-9d84-721f4e7be84c/| 
+| 20200916 | 微软宣布开源 OneFuzz 框架，帮助开发者在开发测试过程中发现安全漏洞 | https://sec.today/pulses/42fc8241-a3f7-4f8c-95df-f8925f22d898/| 
 | 20200915 | Secura 发布的对 Netlogon Zeologon 漏洞(CVE-2020-1472)的分析 Paper | http://www.secura.com/blog/zero-logon| 
 | 20200915 | XXE bruteforce wordlist | https://gist.github.com/honoki/d7035c3ccca1698ec7b541c77b9410cf| 
 | 20200915 | Compromising the macOS Kernel through Safari by Chaining Six Vulnerabilities | https://github.com/sslab-gatech/pwn2own2020| 
@@ -14,23 +26,14 @@
 | 20200915 | iometa - 从 ARM64 Darwin 内核提取 C++ 类信息的工具 | https://github.com/Siguza/iometa| 
 | 20200915 | win32k.sys CVE-2020-1310 Use-After-Free 漏洞 PoC | https://cpr-zero.checkpoint.com/vulns/cprid-2155/| 
 | 20200915 | Symbolizer - 为进程执行 Trace、Crash Dump 提供调试符号的工具 | https://github.com/0vercl0k/symbolizer| 
-| 20200915 | 利用 BPF 劫持 Zoom 发送的加密流量 | https://confused.ai/posts/intercepting-zoom-tls-encryption-bpf-uprobes| 
-| 20200915 | 使用服务DLL文件加载到系统进程svchost.exe中方法。 | https://www.ired.team/offensive-security/persistence/persisting-in-svchost.exe-with-a-service-dll-servicemain| 
-| 20200915 | 针对EMV智能卡支付标准的有趣测试研究。 | https://www.schneier.com/blog/archives/2020/09/interesting-attack-on-the-emv-smartcard-payment-standard.html| 
-| 20200915 | 创建修补二进制文件进行渗透测试. | https://isc.sans.edu/diary/rss/26560| 
-| 20200915 | Spyre：基于YARA的简单IOC扫描器 | https://kalilinuxtutorials.com/spyre/| 
-| 20200914 | FPGA XC2064 芯片的硬件级逆向分析 | http://www.righto.com/2020/09/reverse-engineering-first-fpga-chip.html| 
-| 20200914 | 今年 Google CTF 所有赛题源码 | https://github.com/google/google-ctf/tree/master/2020/quals| 
-| 20200914 | Linux kernel Cgroup BPF Use-After-Free 漏洞的分析 | http://blog.pi3.com.pl/?p=720| 
-| 20200914 | How I Hacked Facebook Again! Unauthenticated RCE on MobileIron MDM | https://blog.orange.tw/2020/09/how-i-hacked-facebook-again-mobileiron-mdm-rce.html?m=1| 
-| 20200914 | Lucid - 一款开源的用于交互式查看 IDA Pro Hex-Rays 微码的工具 | https://blog.ret2.io/2020/09/11/lucid-hexrays-microcode-explorer/| 
-| 20200914 | CrossC2 framework - 生成 CobaltStrike 的跨平台 beacon | https://github.com/gloxec/CrossC2| 
-| 20200914 | CRLFuzz - 用于扫描 CRLF 漏洞的工具 | https://github.com/dwisiswant0/crlfuzz| 
 
 
 # 安全维基 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20200916 | 如何利用Goby进行外围打点 | https://mp.weixin.qq.com/s/3JWq4aO6KvMABKH2Q8jGIw| 
+| 20200916 | 中国大陆信息网络安全学术研究的影响力分析 | http://www.sicris.cn/CN/abstract/abstract822.shtml| 
+| 20200916 | 2020中国网络安全产业分析报告 | https://mp.weixin.qq.com/s/0aikqrvyt-YODDy8D6qj5Q| 
 | 20200914 | API越权风险检测方式浅谈 | https://mp.weixin.qq.com/s/eS8NgNXaIYlUQ__Gb3y0kg| 
 | 20200914 | SecWiki周刊（第341期) | https://www.sec-wiki.com/weekly/341| 
 | 20200914 | 软件源码安全攻防之道（中） | https://mp.weixin.qq.com/s/8L7c6WOtF5nmcmPnuFubfA| 
@@ -38,33 +41,30 @@
 | 20200912 | 探索MITRE Shield如何用于主动防御 | https://mp.weixin.qq.com/s/K95QEs2UaUyvoUsVvUGDXg| 
 | 20200912 | 美军红队评估体系建设现状及启示 | https://mp.weixin.qq.com/s/JZef789soLqK2SdskBV5WQ| 
 | 20200912 | ARL: 资产侦察灯塔系统 | https://github.com/TophantTechnology/ARL| 
-| 20200912 | IoT-vulhub: IoT 固件漏洞复现环境 | https://github.com/firmianay/IoT-vulhub| 
-| 20200912 | bugbounty之我是如何侵入电信网络的 | https://xz.aliyun.com/t/8255| 
-| 20200910 | 2020上半年出行行业黑灰产研究报告 | https://mp.weixin.qq.com/s/sQJRZZonTF7bjCs1jd_H9A| 
 
 
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20200916T01:55:07Z | CVE-2020-1472 | PoC for Zerologon - all research credits go to Tom Tervoort of Secura | https://github.com/dirkjanm/CVE-2020-1472 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 00 MINUTES 23 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200916T01:51:26Z | CVE-2020-1472 | Abuse CVE-2020-1472 (Zerologon) to take over a domain and then repair the local stored machine account password. | https://github.com/bb00/zer0dump | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 00 MINUTES 26 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200916T01:51:23Z | CVE-2020-1472 | Exploit Code for CVE-2020-1472 aka Zerologon | https://github.com/VoidSec/CVE-2020-1472 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 00 MINUTES 24 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200916T01:47:55Z | cve-2020-1472 | Exploit for zerologon cve-2020-1472 | https://github.com/risksense/zerologon | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 00 MINUTES 25 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200916T01:47:33Z | CVE-2020-1472 | Ladon Moudle CVE-2020-1472 Exploit 域控提权神器 | https://github.com/k8gege/CVE-2020-1472-EXP | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 00 MINUTES 33 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200916T00:46:51Z | CVE-2020-1472 | Null | https://github.com/cube0x0/CVE-2020-1472 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 00 MINUTES 22 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200916T00:35:26Z | CVE-2020-1472 | PoC for Zerologon (CVE-2020-1472)  - Research credits to Tom Tervoort of Secura & exploit credits to dirkjanm | https://github.com/harshil-shah004/zerologon-CVE-2020-1472 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 00 MINUTES 31 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200915T21:49:42Z | CVE-2020-10558 | Tesla Model 3 Hack DoS Entire Touchscreen Interface CVE-2020-10558 | https://github.com/nuzzl/CVE-2020-10558 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 00 MINUTES 14 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200915T16:38:47Z | CVE-2020-1472 | CVE-2020-1472 | https://github.com/422926799/CVE-2020-1472 | | 
-| 20200915T14:53:04Z | CVE-2020-15505 | CVE-2020-15505: RCE on MobileIron MDM PoC | https://github.com/swiper/CVE-2020-15505 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 00 MINUTES 19 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200916T11:53:25Z | CVE-2020-1472 | PoC for Zerologon - all research credits go to Tom Tervoort of Secura | https://github.com/dirkjanm/CVE-2020-1472 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 58 MINUTES 30 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200916T11:50:56Z | CVE-2020-1472 | Test tool for CVE-2020-1472 | https://github.com/SecuraBV/CVE-2020-1472 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 58 MINUTES 28 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200916T11:35:17Z | CVE-2020-1472 | Exploit Code for CVE-2020-1472 aka Zerologon | https://github.com/VoidSec/CVE-2020-1472 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 58 MINUTES 31 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200916T11:30:11Z | CVE-2020-1472 | Ladon Moudle CVE-2020-1472 Exploit 域控提权神器 | https://github.com/k8gege/CVE-2020-1472-EXP | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 58 MINUTES 37 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200916T11:28:23Z | CVE-2020-1472 | PoC for Zerologon (CVE-2020-1472) - Exploit | https://github.com/harshil-shah004/zerologon-CVE-2020-1472 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 58 MINUTES 36 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200916T10:57:14Z | CVE-2020-1472 | Abuse CVE-2020-1472 (Zerologon) to take over a domain and then repair the local stored machine account password. | https://github.com/bb00/zer0dump | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 58 MINUTES 32 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200916T09:59:34Z | CVE-2020-1472 | https://github.com/dirkjanm/CVE-2020-1472 | https://github.com/npocmak/CVE-2020-1472 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 58 MINUTES 46 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200916T09:13:47Z | cve-2020-1472 | cve-2020-1472_Tool collection | https://github.com/0xcccc666/cve-2020-1472_Tool-collection | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 58 MINUTES 45 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200916T08:45:08Z | CVE-2020-1472 | CVE-2020-1472复现流程 | https://github.com/NAXG/CVE-2020-1472 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 58 MINUTES 34 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200916T08:39:09Z | CVE-2020-1472 | CVE-2020-1472 - Zero Logon vulnerability Python implementation | https://github.com/CanciuCostin/CVE-2020-1472 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 58 MINUTES 44 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20200916T01:32:36Z | Null | https://github.com/CharlesKleeven/CharlesKleeven.github.io | 0 | 0| 
+| 20200916T08:50:32Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1503 | 456| 
+| 20200916T05:44:21Z | Null | https://github.com/CharlesKleeven/CharlesKleeven.github.io | 0 | 0| 
 | 20200915T17:20:32Z | RVT is a collection of tools/libraries to support both static and dynamic verification of Rust programs. | https://github.com/project-oak/rust-verification-tools | 81 | 4| 
 | 20200915T12:37:48Z | Symbiotic is a tool for finding bugs in computer programs based on instrumentation, program slicing and KLEE | https://github.com/staticafi/symbiotic | 195 | 33| 
-| 20200915T07:57:55Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1501 | 456| 
 | 20200915T03:45:47Z | Urban Evidence Based Policy (SPPA667) | https://github.com/KLeeDE/PUS2020_KLee | 0 | 0| 
 | 20200915T00:09:53Z | Ironhack project #2 | https://github.com/ymenuet/KLEEN | 1 | 1| 
 | 20200914T16:39:48Z | Wordpress template for ATX Alaskan Klee Kai | https://github.com/devwithdana/atxakk | 0 | 0| 
@@ -106,31 +106,31 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20200916T10:03:29Z | for yo epic backdoor codez | https://github.com/zapp04/printallnets | 0 | 0| 
+| 20200916T09:16:24Z | Avyukt is a Exploitation Framework which can be used to generate Malicious Payloads and exploit Windows OS | https://github.com/Vedant-Bhalgama/Avyukt | 9 | 0| 
+| 20200916T05:10:52Z | Null | https://github.com/dheeraj7596/NlpBackdoor | 0 | 0| 
+| 20200916T03:25:36Z | Gmod Backdoor Scanner Written in C++ | https://github.com/ProtoGrace/Gmod-Backdoor-Scanner | 6 | 2| 
 | 20200916T01:24:52Z | Tool to find potential backdoor/security holes in your endpoint | https://github.com/subasgit/backdoorfinder | 0 | 0| 
 | 20200916T01:16:55Z | Este Backdoor Logra Que Accedas A Cualquier PC Escrito En Python.... | https://github.com/Samuel3928/Backdoor-Para-Acceder-A-Cualquier-PC | 1 | 0| 
 | 20200915T23:30:01Z | Undetectable & Xor encrypting with custom KEY (FUD Metasploit Rat) bypass Top Antivirus like BitDefender,Malwarebytes,Avast,ESET-NOD32,AVG,... & Automatically Add ICON and MANIFEST to excitable | https://github.com/persianhydra/Xeexe-TopAntivirusEvasion | 157 | 49| 
 | 20200915T21:39:16Z | Advanced Client - Server connection, Get full access of Client%s computer with backdoor. | https://github.com/itsrohanvj/RAT | 3 | 1| 
 | 20200915T18:49:27Z | Null | https://github.com/iK4oS/PremiumBackdoor.exe | 0 | 0| 
 | 20200915T18:42:29Z | Backdoor that can open web-pages remotely | https://github.com/pro-extremecoder/URLBackdoor | 0 | 0| 
-| 20200915T18:17:14Z | Full-featured C2 framework which silently persists on webserver via evil PHP oneliner :smiling_imp: | https://github.com/nil0x42/phpsploit | 996 | 306| 
-| 20200915T11:49:57Z | A pure-Rust library for VMware host-guest protocol (%VMXh backdoor%) | https://github.com/lucab/vmw_backdoor-rs | 2 | 0| 
-| 20200915T11:22:10Z | A PHP backdoor management and generation tool featuring end to end encrypted payload streaming designed to bypass WAF, IDS, SIEM systems. | https://github.com/gellin/bantam | 28 | 6| 
-| 20200914T22:35:29Z | Simple Python Backdoor | https://github.com/zNairy/Sonaris | 1 | 0| 
 
 
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20200916T01:58:22Z | Not nodemon. | https://github.com/ViGi-P/fuzz-barnacle-watch | 0 | 0| 
-| 20200916T01:40:55Z | Not nodemon. | https://github.com/ViGi-P/fuzz-branacle-watch | 0 | 0| 
-| 20200916T01:34:51Z | Drinks-by-the-pool | https://github.com/jillypop/fuzzy-navel-drinks | 0 | 0| 
-| 20200916T01:30:03Z | Recent Fuzzing Paper | https://github.com/fengjixuchui/FuzzingPaper | 273 | 108| 
-| 20200916T01:18:38Z | AFL++ as a library: gives you all the tools necessary to craft the best fuzzer for your targets with ease! | https://github.com/AFLplusplus/LibAFL | 85 | 3| 
-| 20200916T01:02:15Z | Randomized testing for Go | https://github.com/dvyukov/go-fuzz | 3619 | 209| 
-| 20200916T00:59:58Z | Edit, fuzz, and replay packets from a pcap to a socket. | https://github.com/s1xtw03/brutefuzz | 0 | 0| 
-| 20200916T00:57:08Z | Null | https://github.com/Kevponce194/fuzzy-system | 0 | 0| 
-| 20200916T00:56:23Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 73 | 2| 
-| 20200916T00:43:14Z | Data Projects & Programs | https://github.com/rhaws87/fuzzy-computing-machine | 0 | 0| 
+| 20200916T12:01:16Z | Null | https://github.com/Rajeet97/FuzzLogic_CovidCare_FrontEnd | 0 | 0| 
+| 20200916T11:39:44Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 3128 | 721| 
+| 20200916T11:37:20Z | Generate random valid Escaya format ASTs | https://github.com/escaya/escaya-fuzzer | 1 | 0| 
+| 20200916T11:35:06Z | Fast HTTP enumerator | https://github.com/RedTeamPentesting/monsoon | 136 | 20| 
+| 20200916T11:33:39Z | Fuzzy Quantification of Common and Rare Species in Ecological Communities | https://github.com/Ligophorus/FuzzyQ | 0 | 0| 
+| 20200916T11:24:12Z | Null | https://github.com/vrthra/bFuzzer | 0 | 0| 
+| 20200916T11:15:55Z | Fuzzy matching for `company-mode%. | https://github.com/jcs-elpa/company-fuzzy | 34 | 1| 
+| 20200916T11:09:16Z | 🔭 Lightweight URL fuzzer and spider: Discover a web server%s undisclosed files, directories and VHOSTs | https://github.com/liamg/scout | 195 | 17| 
+| 20200916T11:05:33Z | Null | https://github.com/Ma-devv/JSONObjectFuzzer | 0 | 0| 
+| 20200916T10:32:46Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 26792 | 13099| 
 
 
 
