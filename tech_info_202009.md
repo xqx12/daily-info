@@ -22,10 +22,10 @@
 | 20200916 | NCC Group 为 Zerologon CVE-2020-1472 漏洞编写的 .NET 版本的 Exploit | https://github.com/nccgroup/nccfsas/tree/main/Tools/SharpZeroLogon| 
 | 20200916 | QEMU slirp 组件路径穿越漏洞补丁 | https://gitlab.freedesktop.org/slirp/libslirp/commit/14ec36e107a8c9af7d0a80c3571fe39b291ff1d4| 
 | 20200916 | 微软宣布开源 OneFuzz 框架，帮助开发者在开发测试过程中发现安全漏洞 | https://www.microsoft.com/security/blog/2020/09/15/microsoft-onefuzz-framework-open-source-developer-tool-fix-bugs/| 
+| 20200916 | 使用黑客的思维模式恢复丢失的手机里的电话号码。 | https://medium.com/bugbountywriteup/recovering-a-lost-phone-number-using-hacker-mindset-5e7e7a30edbd| 
+| 20200916 | 为Windows部署配置802.1x身份验证–第1部分–搭建802.1x计算机身份验证脚本。 | https://www.asquaredozen.com/2018/07/29/configuring-802-1x-authentication-for-windows-deployment-part-1-building-an-802-1x-computer-authentication-script/| 
 | 20200915 | Secura 发布的对 Netlogon Zeologon 漏洞(CVE-2020-1472)的分析 Paper | http://www.secura.com/blog/zero-logon| 
 | 20200915 | XXE bruteforce wordlist | https://gist.github.com/honoki/d7035c3ccca1698ec7b541c77b9410cf| 
-| 20200915 | Compromising the macOS Kernel through Safari by Chaining Six Vulnerabilities | https://github.com/sslab-gatech/pwn2own2020| 
-| 20200915 | Post-Exploitation 工具如何躲避终端安全产品的检测 | https://github.com/mdsecresearch/Publications/blob/master/presentations/Offensive%20Development%20-%20Post-Exploitation%20Tradecraft%20in%20an%20EDR%20World%20-%20x33fcon%202020.pdf| 
 
 
 # 安全维基 推荐
@@ -46,31 +46,31 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20200916T12:55:59Z | CVE-2020-1472 | PoC for Zerologon - all research credits go to Tom Tervoort of Secura | https://github.com/dirkjanm/CVE-2020-1472 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 00 MINUTES 14 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200916T12:55:33Z | CVE-2020-1472 | Test tool for CVE-2020-1472 | https://github.com/SecuraBV/CVE-2020-1472 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 00 MINUTES 12 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200916T12:28:43Z | CVE-2020-1472 | Ladon Moudle CVE-2020-1472 Exploit 域控提权神器 | https://github.com/k8gege/CVE-2020-1472-EXP | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 00 MINUTES 21 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200916T11:35:17Z | CVE-2020-1472 | Exploit Code for CVE-2020-1472 aka Zerologon | https://github.com/VoidSec/CVE-2020-1472 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 00 MINUTES 15 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200916T11:28:23Z | CVE-2020-1472 | PoC for Zerologon (CVE-2020-1472) - Exploit | https://github.com/harshil-shah004/zerologon-CVE-2020-1472 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 00 MINUTES 20 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200916T10:57:14Z | CVE-2020-1472 | Abuse CVE-2020-1472 (Zerologon) to take over a domain and then repair the local stored machine account password. | https://github.com/bb00/zer0dump | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 00 MINUTES 16 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200916T09:59:34Z | CVE-2020-1472 | https://github.com/dirkjanm/CVE-2020-1472 | https://github.com/npocmak/CVE-2020-1472 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 00 MINUTES 30 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200916T09:13:47Z | cve-2020-1472 | cve-2020-1472_Tool collection | https://github.com/0xcccc666/cve-2020-1472_Tool-collection | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 00 MINUTES 28 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200916T08:45:08Z | CVE-2020-1472 | CVE-2020-1472复现流程 | https://github.com/NAXG/CVE-2020-1472 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 00 MINUTES 18 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200916T08:39:09Z | CVE-2020-1472 | CVE-2020-1472 - Zero Logon vulnerability Python implementation | https://github.com/CanciuCostin/CVE-2020-1472 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 00 MINUTES 27 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200916T23:58:03Z | CVE-2020-1472 | Test tool for CVE-2020-1472 | https://github.com/SecuraBV/CVE-2020-1472 | 当攻击者使用Netlogon远程协议（MS-NRPC）（又称为“ Netlogon特权提升漏洞”）建立与域控制器的易受攻击的Netlogon安全通道连接时，将存在特权提升漏洞。| 
+| 20200916T23:12:03Z | CVE-2020-1472 | CVE-2020-1472 - Zero Logon vulnerability Python implementation | https://github.com/CanciuCostin/CVE-2020-1472 | 当攻击者使用Netlogon远程协议（MS-NRPC）（又称为“ Netlogon特权提升漏洞”）建立与域控制器的易受攻击的Netlogon安全通道连接时，将存在特权提升漏洞。| 
+| 20200916T22:06:43Z | CVE-2020-8835 | spl0itz | https://github.com/socketcall/CVE-2020-8835 | 在Linux内核5.5.0及更高版本中，bpf验证程序（kernel / bpf / verifier.c）不能正确限制32位操作的寄存器范围，从而导致内核内存中的读取和写入越界。该漏洞还影响从v5.4.7开始的Linux 5.4稳定系列，因为引入的提交已反向移植到该分支。此漏洞已在5.6.1、5.5.14和5.4.29中修复。 （问题是ZDI-CAN-10780）| 
+| 20200916T21:00:01Z | CVE-2020-1472 | [CVE-2020-1472] Netlogon Remote Protocol Call (MS-NRPC) Privilege Escalation (Zerologon) | https://github.com/murataydemir/CVE-2020-1472 | 当攻击者使用Netlogon远程协议（MS-NRPC）（又称为“ Netlogon特权提升漏洞”）建立与域控制器的易受攻击的Netlogon安全通道连接时，将存在特权提升漏洞。| 
+| 20200916T20:50:04Z | CVE-2020-3452 | [CVE-2020-3452] Cisco Adaptive Security Appliance (ASA) & Cisco Firepower Threat Defense (FTD) Web Service Read-Only Directory Traversal | https://github.com/murataydemir/CVE-2020-3452 | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
+| 20200916T20:43:56Z | CVE-2020-1472 | Abuse CVE-2020-1472 (Zerologon) to take over a domain and then repair the local stored machine account password. | https://github.com/bb00/zer0dump | 当攻击者使用Netlogon远程协议（MS-NRPC）（又称为“ Netlogon特权提升漏洞”）建立与域控制器的易受攻击的Netlogon安全通道连接时，将存在特权提升漏洞。| 
+| 20200916T18:54:50Z | CVE-2020-6287 | [CVE-2020-6287] SAP NetWeaver AS JAVA (LM Configuration Wizard) Authentication Bypass (Create Simple & Administrator Java User) | https://github.com/murataydemir/CVE-2020-6287 | | 
+| 20200916T16:03:01Z | CVE-2020-1472 | Ladon Moudle CVE-2020-1472 Exploit 域控提权神器 | https://github.com/k8gege/CVE-2020-1472-EXP | 当攻击者使用Netlogon远程协议（MS-NRPC）（又称为“ Netlogon特权提升漏洞”）建立与域控制器的易受攻击的Netlogon安全通道连接时，将存在特权提升漏洞。| 
+| 20200916T15:03:34Z | cve-2020-1472 | cve-2020-1472  复现利用及其exp | https://github.com/mstxq17/cve-2020-1472 | 当攻击者使用Netlogon远程协议（MS-NRPC）（又称为“ Netlogon特权提升漏洞”）建立与域控制器的易受攻击的Netlogon安全通道连接时，将存在特权提升漏洞。| 
+| 20200916T14:28:55Z | CVE-2020-1472 | Null | https://github.com/victim10wq3/CVE-2020-1472 | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20200916T08:50:32Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1503 | 456| 
-| 20200916T05:44:21Z | Null | https://github.com/CharlesKleeven/CharlesKleeven.github.io | 0 | 0| 
+| 20200916T22:08:54Z | Null | https://github.com/CharlesKleeven/CharlesKleeven.github.io | 0 | 0| 
+| 20200916T20:18:51Z | Urban Evidence Based Policy (SPPA667) | https://github.com/KLeeDE/PUS2020_KLee | 0 | 0| 
+| 20200916T19:14:57Z | Create CFGs and compute complexity metrics for Python, C++, and Java code. | https://github.com/hmc-alpaqa/metrinome | 4 | 0| 
+| 20200916T08:50:32Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1503 | 457| 
 | 20200915T17:20:32Z | RVT is a collection of tools/libraries to support both static and dynamic verification of Rust programs. | https://github.com/project-oak/rust-verification-tools | 81 | 4| 
 | 20200915T12:37:48Z | Symbiotic is a tool for finding bugs in computer programs based on instrumentation, program slicing and KLEE | https://github.com/staticafi/symbiotic | 195 | 33| 
-| 20200915T03:45:47Z | Urban Evidence Based Policy (SPPA667) | https://github.com/KLeeDE/PUS2020_KLee | 0 | 0| 
 | 20200915T00:09:53Z | Ironhack project #2 | https://github.com/ymenuet/KLEEN | 1 | 1| 
 | 20200914T16:39:48Z | Wordpress template for ATX Alaskan Klee Kai | https://github.com/devwithdana/atxakk | 0 | 0| 
 | 20200912T15:58:26Z | Sample node.js agent with modest negotiation skills that uses RegEx for NLP. | https://github.com/humaine-anac/agent-kleene | 0 | 1| 
 | 20200910T21:18:22Z | The compiler inputs a PDDL benchmark of the Carpark planning problem and converts it to an equivalent C code which is used for solving the planning problem by program verification tools such as KLEE/TracerX. | https://github.com/daneshvar-amrollahi/Carpark-PDDL2C | 0 | 0| 
-| 20200910T16:13:14Z | KLEE in the browser | https://github.com/klee/klee-web | 43 | 10| 
 
 
 # s2e on Github 推荐
@@ -91,16 +91,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20200916T12:48:18Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 5 | 2| 
-| 20200916T12:32:14Z | A faithful recreation of the Windows 96 exploitation system. | https://github.com/beurkinger/windows-96 | 0 | 0| 
-| 20200916T12:23:33Z | Null | https://github.com/quentin452/Cats-Exploitz-HUB | 0 | 1| 
-| 20200916T12:22:30Z | Implementation of our paper %Data Rejuvenation: Exploiting Inactive Training Examples for Neural Machine Translation% to appear in EMNLP2020. | https://github.com/wxjiao/Data-Rejuvenation | 5 | 0| 
-| 20200916T12:21:06Z | PoC exploit that converts an AKS cluster user to a cluster-admin | https://github.com/easimon/make-me-aks-admin | 0 | 0| 
-| 20200916T12:14:13Z | Silice is an open source language that simplifies writing algorithms fully exploiting FPGA architectures. | https://github.com/sylefeb/Silice | 333 | 24| 
-| 20200916T12:11:57Z | Commands, snippets, exploits, tools, lists, collections and techniques I used on my journey to becoming an OSCP.  | https://github.com/CountablyInfinite/oscp_cheatsheet | 0 | 0| 
-| 20200916T12:01:27Z | Curated list of Unix binaries that can be exploited to bypass system security restrictions | https://github.com/GTFOBins/GTFOBins.github.io | 3293 | 461| 
-| 20200916T12:00:41Z | steal the fucking code you damn kids without even reading it  | https://github.com/NikolaT3sla/wp-file-manager-0day-exploiter | 1 | 0| 
-| 20200916T11:54:31Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 7247 | 1185| 
+| 20200916T23:53:11Z | A description of the %House of Corrosion% GLIBC heap exploitation technique. | https://github.com/CptGibbon/House-of-Corrosion | 196 | 24| 
+| 20200916T23:13:50Z | Sifter is a OSINT, recon & vulnerability scanner. It incorporates a plethara of tools within different module sets that tries to cover every attack vector. Allowing you to quickly perform recon tasks and organize the results in one place. From OSINT to Recon, Exploitation, Post-Exploitation, OpSec, Threat Analysis, XSS, SQLinjection, Network Scanning, WebApp Analysis or DNS enumeration.. Sifter should be able to cover it all. | https://github.com/s1l3nt78/sifter | 246 | 78| 
+| 20200916T22:48:45Z | Curated list of Unix binaries that can be exploited to bypass system security restrictions | https://github.com/GTFOBins/GTFOBins.github.io | 3294 | 461| 
+| 20200916T22:43:30Z | Official KRNL ROBLOX Exploit Bootstrapper v3. | https://github.com/MirayXS/downloadKRNL | 0 | 0| 
+| 20200916T22:25:54Z | This Repo is the consolidation of models and code to implement the a RL Agent which learns how to maximizes the sensitivity of the a battery to produce better estimation results by exploiting near optimal Fisher Information | https://github.com/JonnyD1117/Battery_Active_Learning | 0 | 1| 
+| 20200916T22:05:35Z | A novel context-sensitive spelling corrector that exploits clusterings in GloVe embeddings as a learned notion of context. | https://github.com/ferdiko/MMST-spelling-correction | 0 | 0| 
+| 20200916T21:15:57Z | A faithful recreation of the Windows 96 exploitation system. | https://github.com/beurkinger/windows-96 | 0 | 0| 
+| 20200916T21:15:28Z | Null | https://github.com/quentin452/Cats-Exploitz-HUB | 0 | 1| 
+| 20200916T20:46:56Z | A proxy aware C2 framework used to aid red teamers with post-exploitation and lateral movement. | https://github.com/nettitude/PoshC2 | 548 | 143| 
+| 20200916T20:35:12Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 7248 | 1186| 
 
 
 # backdoor on Github 推荐
