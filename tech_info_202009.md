@@ -121,16 +121,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20200917T11:58:38Z | Simple fuzzer for OpenAPI 3 specification based APIs | https://github.com/vwt-digital/openapi3-fuzzer | 1 | 0| 
+| 20200917T12:26:52Z | Simple fuzzer for OpenAPI 3 specification based APIs | https://github.com/vwt-digital/openapi3-fuzzer | 1 | 0| 
+| 20200917T12:26:30Z | This tool uses fzf(1)-like fuzzy-finder to do partial or fuzzy search of Kubernetes resources. Instead of specifying full resource names to kubectl commands, you can choose them from an interactive list that you can filter by typing a few characters. | https://github.com/d-kuro/kubectl-fuzzy | 42 | 4| 
+| 20200917T12:25:55Z | Conduct OOB Fuzzing of targets with custom payloads towards callback server | https://github.com/CasperGN/oobfuzz | 4 | 3| 
+| 20200917T12:23:03Z | Null | https://github.com/ikulagin89/fuzzysearch | 0 | 0| 
 | 20200917T11:44:01Z | Null | https://github.com/rico9000/fuzzy-fortnight | 0 | 0| 
 | 20200917T11:32:13Z | A Fuzzy Classifier based on the algortithm from Yuan, Yufei, & Michael J. Shaw. %Induction of fuzzy decision trees%.      Fuzzy Sets and Systems 69, n.º 2 (27th January 1995): 125-39.      doi:10.1016/0165-0114(94)00229-Z. | https://github.com/juanmabelda/FuzzyClassifier | 0 | 1| 
 | 20200917T11:16:03Z | 模糊认知诊断模型Python实现 | https://github.com/zelo2/FuzzyCDF | 1 | 1| 
 | 20200917T10:59:35Z | The Book %Generating Software Tests% | https://github.com/uds-se/fuzzingbook | 421 | 86| 
 | 20200917T10:52:54Z | Null | https://github.com/kita-bingung/fuzzy-umbrella | 0 | 0| 
 | 20200917T10:52:31Z | Fuzz Ball - Fuzzy audio plugin | https://github.com/fake-industries/fuzzball | 2 | 0| 
-| 20200917T10:46:15Z | A JavaScript Engine Fuzzer | https://github.com/googleprojectzero/fuzzilli | 1026 | 166| 
-| 20200917T10:36:54Z | No idea what I%m doing | https://github.com/klecko/fuzz | 1 | 0| 
-| 20200917T10:19:26Z | Montage: A Neural Network Language Model-Guided JavaScript Engine Fuzzer | https://github.com/WSP-LAB/Montage | 18 | 0| 
 
 
 
