@@ -46,16 +46,16 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20200916T23:58:03Z | CVE-2020-1472 | Test tool for CVE-2020-1472 | https://github.com/SecuraBV/CVE-2020-1472 | 当攻击者使用Netlogon远程协议（MS-NRPC）（又称为“ Netlogon特权提升漏洞”）建立与域控制器的易受攻击的Netlogon安全通道连接时，将存在特权提升漏洞。| 
-| 20200916T23:12:03Z | CVE-2020-1472 | CVE-2020-1472 - Zero Logon vulnerability Python implementation | https://github.com/CanciuCostin/CVE-2020-1472 | 当攻击者使用Netlogon远程协议（MS-NRPC）（又称为“ Netlogon特权提升漏洞”）建立与域控制器的易受攻击的Netlogon安全通道连接时，将存在特权提升漏洞。| 
-| 20200916T22:06:43Z | CVE-2020-8835 | spl0itz | https://github.com/socketcall/CVE-2020-8835 | 在Linux内核5.5.0及更高版本中，bpf验证程序（kernel / bpf / verifier.c）不能正确限制32位操作的寄存器范围，从而导致内核内存中的读取和写入越界。该漏洞还影响从v5.4.7开始的Linux 5.4稳定系列，因为引入的提交已反向移植到该分支。此漏洞已在5.6.1、5.5.14和5.4.29中修复。 （问题是ZDI-CAN-10780）| 
-| 20200916T21:00:01Z | CVE-2020-1472 | [CVE-2020-1472] Netlogon Remote Protocol Call (MS-NRPC) Privilege Escalation (Zerologon) | https://github.com/murataydemir/CVE-2020-1472 | 当攻击者使用Netlogon远程协议（MS-NRPC）（又称为“ Netlogon特权提升漏洞”）建立与域控制器的易受攻击的Netlogon安全通道连接时，将存在特权提升漏洞。| 
+| 20200916T23:58:03Z | CVE-2020-1472 | Test tool for CVE-2020-1472 | https://github.com/SecuraBV/CVE-2020-1472 | | 
+| 20200916T23:12:03Z | CVE-2020-1472 | CVE-2020-1472 - Zero Logon vulnerability Python implementation | https://github.com/CanciuCostin/CVE-2020-1472 | | 
+| 20200916T22:06:43Z | CVE-2020-8835 | spl0itz | https://github.com/socketcall/CVE-2020-8835 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 53 MINUTES 33 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200916T21:00:01Z | CVE-2020-1472 | [CVE-2020-1472] Netlogon Remote Protocol Call (MS-NRPC) Privilege Escalation (Zerologon) | https://github.com/murataydemir/CVE-2020-1472 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 53 MINUTES 29 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20200916T20:50:04Z | CVE-2020-3452 | [CVE-2020-3452] Cisco Adaptive Security Appliance (ASA) & Cisco Firepower Threat Defense (FTD) Web Service Read-Only Directory Traversal | https://github.com/murataydemir/CVE-2020-3452 | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
-| 20200916T20:43:56Z | CVE-2020-1472 | Abuse CVE-2020-1472 (Zerologon) to take over a domain and then repair the local stored machine account password. | https://github.com/bb00/zer0dump | 当攻击者使用Netlogon远程协议（MS-NRPC）（又称为“ Netlogon特权提升漏洞”）建立与域控制器的易受攻击的Netlogon安全通道连接时，将存在特权提升漏洞。| 
-| 20200916T18:54:50Z | CVE-2020-6287 | [CVE-2020-6287] SAP NetWeaver AS JAVA (LM Configuration Wizard) Authentication Bypass (Create Simple & Administrator Java User) | https://github.com/murataydemir/CVE-2020-6287 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 56 MINUTES 14 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200916T16:03:01Z | CVE-2020-1472 | Ladon Moudle CVE-2020-1472 Exploit 域控提权神器 | https://github.com/k8gege/CVE-2020-1472-EXP | 当攻击者使用Netlogon远程协议（MS-NRPC）（又称为“ Netlogon特权提升漏洞”）建立与域控制器的易受攻击的Netlogon安全通道连接时，将存在特权提升漏洞。| 
-| 20200916T15:03:34Z | cve-2020-1472 | cve-2020-1472  复现利用及其exp | https://github.com/mstxq17/cve-2020-1472 | 当攻击者使用Netlogon远程协议（MS-NRPC）（又称为“ Netlogon特权提升漏洞”）建立与域控制器的易受攻击的Netlogon安全通道连接时，将存在特权提升漏洞。| 
-| 20200916T14:28:55Z | CVE-2020-1472 | Null | https://github.com/victim10wq3/CVE-2020-1472 | | 
+| 20200916T20:43:56Z | CVE-2020-1472 | Abuse CVE-2020-1472 (Zerologon) to take over a domain and then repair the local stored machine account password. | https://github.com/bb00/zer0dump | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 54 MINUTES 14 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200916T18:54:50Z | CVE-2020-6287 | [CVE-2020-6287] SAP NetWeaver AS JAVA (LM Configuration Wizard) Authentication Bypass (Create Simple & Administrator Java User) | https://github.com/murataydemir/CVE-2020-6287 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 54 MINUTES 12 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200916T16:03:01Z | CVE-2020-1472 | Ladon Moudle CVE-2020-1472 Exploit 域控提权神器 | https://github.com/k8gege/CVE-2020-1472-EXP | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 54 MINUTES 18 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200916T15:03:34Z | cve-2020-1472 | cve-2020-1472  复现利用及其exp | https://github.com/mstxq17/cve-2020-1472 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 54 MINUTES 22 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200916T14:28:55Z | CVE-2020-1472 | Null | https://github.com/victim10wq3/CVE-2020-1472 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 53 MINUTES 32 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 
 
 # klee on Github 推荐
@@ -106,16 +106,16 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20200916T23:47:09Z | Tool to find potential backdoor/security holes in your endpoint | https://github.com/subasgit/backdoorfinder | 0 | 0| 
+| 20200916T22:39:11Z | A PHP backdoor management and generation tool featuring end to end encrypted payload streaming designed to bypass WAF, IDS, SIEM systems. | https://github.com/gellin/bantam | 57 | 8| 
+| 20200916T21:35:47Z | Hacking tools pack & backdoors generator. | https://github.com/AdrMXR/KitHack | 162 | 39| 
+| 20200916T21:08:36Z | A tool to install PAM backdoors on Linux and FreeBSD | https://github.com/FlamingSpork/libpam_spooky | 0 | 0| 
+| 20200916T19:30:13Z | Null | https://github.com/dheeraj7596/NlpBackdoor | 0 | 0| 
+| 20200916T16:41:16Z | Full-featured C2 framework which silently persists on webserver via evil PHP oneliner :smiling_imp: | https://github.com/nil0x42/phpsploit | 997 | 306| 
+| 20200916T15:21:44Z | shell backdoor | https://github.com/rizkipoloyo/shell | 0 | 0| 
 | 20200916T10:03:29Z | for yo epic backdoor codez | https://github.com/zapp04/printallnets | 0 | 0| 
 | 20200916T09:16:24Z | Avyukt is a Exploitation Framework which can be used to generate Malicious Payloads and exploit Windows OS | https://github.com/Vedant-Bhalgama/Avyukt | 9 | 0| 
-| 20200916T05:10:52Z | Null | https://github.com/dheeraj7596/NlpBackdoor | 0 | 0| 
 | 20200916T03:25:36Z | Gmod Backdoor Scanner Written in C++ | https://github.com/ProtoGrace/Gmod-Backdoor-Scanner | 6 | 2| 
-| 20200916T01:24:52Z | Tool to find potential backdoor/security holes in your endpoint | https://github.com/subasgit/backdoorfinder | 0 | 0| 
-| 20200916T01:16:55Z | Este Backdoor Logra Que Accedas A Cualquier PC Escrito En Python.... | https://github.com/Samuel3928/Backdoor-Para-Acceder-A-Cualquier-PC | 1 | 0| 
-| 20200915T23:30:01Z | Undetectable & Xor encrypting with custom KEY (FUD Metasploit Rat) bypass Top Antivirus like BitDefender,Malwarebytes,Avast,ESET-NOD32,AVG,... & Automatically Add ICON and MANIFEST to excitable | https://github.com/persianhydra/Xeexe-TopAntivirusEvasion | 157 | 49| 
-| 20200915T21:39:16Z | Advanced Client - Server connection, Get full access of Client%s computer with backdoor. | https://github.com/itsrohanvj/RAT | 3 | 1| 
-| 20200915T18:49:27Z | Null | https://github.com/iK4oS/PremiumBackdoor.exe | 0 | 0| 
-| 20200915T18:42:29Z | Backdoor that can open web-pages remotely | https://github.com/pro-extremecoder/URLBackdoor | 0 | 0| 
 
 
 # fuzz on Github 推荐
