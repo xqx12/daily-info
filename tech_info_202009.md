@@ -52,7 +52,7 @@
 | 20200916T21:00:01Z | CVE-2020-1472 | [CVE-2020-1472] Netlogon Remote Protocol Call (MS-NRPC) Privilege Escalation (Zerologon) | https://github.com/murataydemir/CVE-2020-1472 | 当攻击者使用Netlogon远程协议（MS-NRPC）（又称为“ Netlogon特权提升漏洞”）建立与域控制器的易受攻击的Netlogon安全通道连接时，将存在特权提升漏洞。| 
 | 20200916T20:50:04Z | CVE-2020-3452 | [CVE-2020-3452] Cisco Adaptive Security Appliance (ASA) & Cisco Firepower Threat Defense (FTD) Web Service Read-Only Directory Traversal | https://github.com/murataydemir/CVE-2020-3452 | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
 | 20200916T20:43:56Z | CVE-2020-1472 | Abuse CVE-2020-1472 (Zerologon) to take over a domain and then repair the local stored machine account password. | https://github.com/bb00/zer0dump | 当攻击者使用Netlogon远程协议（MS-NRPC）（又称为“ Netlogon特权提升漏洞”）建立与域控制器的易受攻击的Netlogon安全通道连接时，将存在特权提升漏洞。| 
-| 20200916T18:54:50Z | CVE-2020-6287 | [CVE-2020-6287] SAP NetWeaver AS JAVA (LM Configuration Wizard) Authentication Bypass (Create Simple & Administrator Java User) | https://github.com/murataydemir/CVE-2020-6287 | | 
+| 20200916T18:54:50Z | CVE-2020-6287 | [CVE-2020-6287] SAP NetWeaver AS JAVA (LM Configuration Wizard) Authentication Bypass (Create Simple & Administrator Java User) | https://github.com/murataydemir/CVE-2020-6287 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 56 MINUTES 14 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20200916T16:03:01Z | CVE-2020-1472 | Ladon Moudle CVE-2020-1472 Exploit 域控提权神器 | https://github.com/k8gege/CVE-2020-1472-EXP | 当攻击者使用Netlogon远程协议（MS-NRPC）（又称为“ Netlogon特权提升漏洞”）建立与域控制器的易受攻击的Netlogon安全通道连接时，将存在特权提升漏洞。| 
 | 20200916T15:03:34Z | cve-2020-1472 | cve-2020-1472  复现利用及其exp | https://github.com/mstxq17/cve-2020-1472 | 当攻击者使用Netlogon远程协议（MS-NRPC）（又称为“ Netlogon特权提升漏洞”）建立与域控制器的易受攻击的Netlogon安全通道连接时，将存在特权提升漏洞。| 
 | 20200916T14:28:55Z | CVE-2020-1472 | Null | https://github.com/victim10wq3/CVE-2020-1472 | | 
@@ -121,16 +121,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20200916T12:58:01Z | Library for structured fuzzing with protobuffers | https://github.com/google/libprotobuf-mutator | 282 | 62| 
-| 20200916T12:52:25Z | Montage: A Neural Network Language Model-Guided JavaScript Engine Fuzzer | https://github.com/WSP-LAB/Montage | 18 | 0| 
-| 20200916T12:44:23Z | Not nodemon. | https://github.com/ViGi-P/fuzz-barnacle-watch | 0 | 0| 
-| 20200916T12:40:54Z | Fuzz 403/401ing endpoints for bypasses | https://github.com/intrudir/403fuzzer | 7 | 2| 
-| 20200916T12:34:55Z | Null | https://github.com/Rajeet97/FuzzLogic_CovidCare_FrontEnd | 0 | 0| 
-| 20200916T12:29:10Z | Web application fuzzer | https://github.com/xmendez/wfuzz | 3097 | 781| 
-| 20200916T11:39:44Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 3128 | 721| 
-| 20200916T11:37:20Z | Generate random valid Escaya format ASTs | https://github.com/escaya/escaya-fuzzer | 1 | 0| 
-| 20200916T11:35:06Z | Fast HTTP enumerator | https://github.com/RedTeamPentesting/monsoon | 136 | 20| 
-| 20200916T11:33:39Z | Fuzzy Quantification of Common and Rare Species in Ecological Communities | https://github.com/Ligophorus/FuzzyQ | 0 | 0| 
+| 20200916T22:10:42Z | Automated btrfs fuzzer | https://github.com/danobi/btrfs-fuzz | 0 | 0| 
+| 20200916T21:47:20Z | Experimental projects | https://github.com/tannmatter/fuzzy-happiness | 0 | 0| 
+| 20200916T21:38:55Z | Framework for finding similar rows in a JDBC source | https://github.com/bmiller1009/fuzzy-row-matcher | 0 | 0| 
+| 20200916T21:30:23Z | A tool made in Go to fuzz directories in webapps | https://github.com/FallAngel1337/DirBrute | 0 | 0| 
+| 20200916T21:26:50Z | mock json data | https://github.com/kartikadur/fuzzy-potato | 0 | 0| 
+| 20200916T21:05:34Z | WebPage for B[ORDERS] Zine showcase | https://github.com/fuzzy-binaires/fuzzy-zines_web | 0 | 0| 
+| 20200916T20:18:58Z | Fuzzy file finding for neovim | https://github.com/cloudhead/neovim-fuzzy | 96 | 14| 
+| 20200916T20:05:19Z | Fuzzco Nuxt template. | https://github.com/fuzzco/fuzznuxt | 2 | 0| 
+| 20200916T19:56:51Z | Web software for the design of fuzzy systems. | https://github.com/souzamarcelo/fuzzy-studio | 0 | 0| 
+| 20200916T19:48:11Z | Null | https://github.com/Fuzzwah/simhub-dash-fuzzwah-v2 | 1 | 1| 
 
 
 
