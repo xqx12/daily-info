@@ -106,16 +106,16 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20200918T09:27:06Z | ncat backdoor for windows | https://github.com/yuhcoon/ncat-backdoor | 0 | 0| 
+| 20200918T08:37:21Z | A PHP backdoor management and generation tool featuring end to end encrypted payload streaming designed to bypass WAF, IDS, SIEM systems. | https://github.com/gellin/bantam | 110 | 10| 
+| 20200918T07:54:21Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 59 | 7| 
+| 20200918T07:05:47Z | Ghost Framework is an Android post-exploitation framework that exploits the Android Debug Bridge to remotely access an Android device. Ghost Framework gives you the power and convenience of remote Android device administration. | https://github.com/entynetproject/ghost | 706 | 360| 
+| 20200918T05:12:52Z | Offensive Terraform module which creates an IAM role with trust relationship with attacker%s AWS account and attaches managed IAM Policy to an IAM role. | https://github.com/offensive-terraform/terraform-aws-cross-account-persistence | 0 | 0| 
+| 20200918T04:12:58Z | Avyukt is a Exploitation Framework which can be used to generate Malicious Payloads and exploit Windows OS | https://github.com/Vedant-Bhalgama/Avyukt | 9 | 0| 
 | 20200918T01:44:05Z | Backdoor Feito em C | https://github.com/Kripto-Sec/Cbackdoor | 1 | 0| 
 | 20200918T01:40:42Z | Tool to find potential backdoor/security holes in your endpoint | https://github.com/subasgit/backdoorfinder | 0 | 0| 
-| 20200918T01:07:33Z | A PHP backdoor management and generation tool featuring end to end encrypted payload streaming designed to bypass WAF, IDS, SIEM systems. | https://github.com/gellin/bantam | 105 | 7| 
-| 20200918T00:27:53Z | Ghost Framework is an Android post-exploitation framework that exploits the Android Debug Bridge to remotely access an Android device. Ghost Framework gives you the power and convenience of remote Android device administration. | https://github.com/entynetproject/ghost | 704 | 359| 
 | 20200917T21:52:04Z | Ascaris  | https://github.com/salimicali/Ascaris | 0 | 0| 
 | 20200917T18:34:26Z | Null | https://github.com/iK4oS/PremiumBackdoor.exe | 0 | 0| 
-| 20200917T16:22:50Z | Full-featured C2 framework which silently persists on webserver via evil PHP oneliner :smiling_imp: | https://github.com/nil0x42/phpsploit | 999 | 306| 
-| 20200917T15:11:58Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 58 | 7| 
-| 20200917T11:24:34Z | This is just for me ok! | https://github.com/GetRektBoy724/sementara | 1 | 0| 
-| 20200917T03:58:10Z | Hacking tools pack & backdoors generator. | https://github.com/AdrMXR/KitHack | 162 | 39| 
 
 
 # fuzz on Github 推荐
