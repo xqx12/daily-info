@@ -61,16 +61,16 @@
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20200917T21:39:48Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1506 | 458| 
+| 20200917T13:00:49Z | Assets to be used for linking and Gists | https://github.com/lahiri-phdworks/Assets | 0 | 0| 
 | 20200917T06:07:13Z | Null | https://github.com/CharlesKleeven/CharlesKleeven.github.io | 0 | 0| 
 | 20200916T20:18:51Z | Urban Evidence Based Policy (SPPA667) | https://github.com/KLeeDE/PUS2020_KLee | 0 | 0| 
 | 20200916T19:14:57Z | Create CFGs and compute complexity metrics for Python, C++, and Java code. | https://github.com/hmc-alpaqa/metrinome | 4 | 0| 
-| 20200916T08:50:32Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1503 | 458| 
 | 20200915T17:20:32Z | RVT is a collection of tools/libraries to support both static and dynamic verification of Rust programs. | https://github.com/project-oak/rust-verification-tools | 81 | 4| 
 | 20200915T12:37:48Z | Symbiotic is a tool for finding bugs in computer programs based on instrumentation, program slicing and KLEE | https://github.com/staticafi/symbiotic | 195 | 33| 
 | 20200915T00:09:53Z | Ironhack project #2 | https://github.com/ymenuet/KLEEN | 1 | 1| 
 | 20200914T16:39:48Z | Wordpress template for ATX Alaskan Klee Kai | https://github.com/devwithdana/atxakk | 0 | 0| 
 | 20200912T15:58:26Z | Sample node.js agent with modest negotiation skills that uses RegEx for NLP. | https://github.com/humaine-anac/agent-kleene | 0 | 1| 
-| 20200910T21:18:22Z | The compiler inputs a PDDL benchmark of the Carpark planning problem and converts it to an equivalent C code which is used for solving the planning problem by program verification tools such as KLEE/TracerX. | https://github.com/daneshvar-amrollahi/Carpark-PDDL2C | 0 | 0| 
 
 
 # s2e on Github 推荐
@@ -106,16 +106,16 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20200917T12:30:11Z | A PHP backdoor management and generation tool featuring end to end encrypted payload streaming designed to bypass WAF, IDS, SIEM systems. | https://github.com/gellin/bantam | 84 | 7| 
+| 20200917T21:52:04Z | Ascaris  | https://github.com/salimicali/Ascaris | 0 | 0| 
+| 20200917T21:25:26Z | A PHP backdoor management and generation tool featuring end to end encrypted payload streaming designed to bypass WAF, IDS, SIEM systems. | https://github.com/gellin/bantam | 102 | 7| 
+| 20200917T18:34:26Z | Null | https://github.com/iK4oS/PremiumBackdoor.exe | 0 | 0| 
+| 20200917T16:22:50Z | Full-featured C2 framework which silently persists on webserver via evil PHP oneliner :smiling_imp: | https://github.com/nil0x42/phpsploit | 999 | 306| 
+| 20200917T15:11:58Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 58 | 7| 
+| 20200917T13:29:57Z | Ghost Framework is an Android post-exploitation framework that exploits the Android Debug Bridge to remotely access an Android device. Ghost Framework gives you the power and convenience of remote Android device administration. | https://github.com/entynetproject/ghost | 703 | 358| 
 | 20200917T11:24:34Z | This is just for me ok! | https://github.com/GetRektBoy724/sementara | 1 | 0| 
-| 20200917T08:42:27Z | Full-featured C2 framework which silently persists on webserver via evil PHP oneliner :smiling_imp: | https://github.com/nil0x42/phpsploit | 998 | 306| 
 | 20200917T04:55:59Z | Backdoor Feito em C | https://github.com/Kripto-Sec/Cbackdoor | 0 | 0| 
 | 20200917T03:58:10Z | Hacking tools pack & backdoors generator. | https://github.com/AdrMXR/KitHack | 162 | 39| 
 | 20200917T02:19:58Z | Undetectable & Xor encrypting with custom KEY (FUD Metasploit Rat) bypass Top Antivirus like BitDefender,Malwarebytes,Avast,ESET-NOD32,AVG,... & Automatically Add ICON and MANIFEST to excitable | https://github.com/persianhydra/Xeexe-TopAntivirusEvasion | 158 | 49| 
-| 20200916T23:47:09Z | Tool to find potential backdoor/security holes in your endpoint | https://github.com/subasgit/backdoorfinder | 0 | 0| 
-| 20200916T21:08:36Z | A tool to install PAM backdoors on Linux and FreeBSD | https://github.com/FlamingSpork/libpam_spooky | 0 | 0| 
-| 20200916T19:30:13Z | Null | https://github.com/dheeraj7596/NlpBackdoor | 0 | 0| 
-| 20200916T15:21:44Z | shell backdoor | https://github.com/rizkipoloyo/shell | 0 | 0| 
 
 
 # fuzz on Github 推荐
