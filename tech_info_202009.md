@@ -47,15 +47,15 @@
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
 | 20200918T00:46:30Z | cve-2020-1472 | cve-2020-1472  复现利用及其exp | https://github.com/mstxq17/cve-2020-1472 | 未查询到CVE信息| 
-| 20200918T00:43:20Z | CVE-2020-1472 | Test tool for CVE-2020-1472 | https://github.com/SecuraBV/CVE-2020-1472 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 12 MINUTES 21 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200918T00:23:30Z | CVE-2020-1472 | Test script for CVE-2020-1472 for both RPC/TCP and RPC/SMB | https://github.com/zeronetworks/zerologon | | 
-| 20200918T00:20:47Z | CVE-2020-1472 |  CVE-2020-1472复现时使用的py文件整理打包 | https://github.com/sv3nbeast/CVE-2020-1472 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 11 MINUTES 35 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200918T00:43:20Z | CVE-2020-1472 | Test tool for CVE-2020-1472 | https://github.com/SecuraBV/CVE-2020-1472 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 11 MINUTES 19 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200918T00:23:30Z | CVE-2020-1472 | Test script for CVE-2020-1472 for both RPC/TCP and RPC/SMB | https://github.com/zeronetworks/zerologon | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 10 MINUTES 35 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200918T00:20:47Z | CVE-2020-1472 |  CVE-2020-1472复现时使用的py文件整理打包 | https://github.com/sv3nbeast/CVE-2020-1472 | | 
 | 20200918T00:01:02Z | cve-2020-14386 | Null | https://github.com/cgwalters/cve-2020-14386 | 未查询到CVE信息| 
 | 20200918T00:00:15Z | 未知编号 | Null | https://github.com/mos165/CVE-20200-1472 | 未查询到CVE信息| 
-| 20200917T23:09:00Z | CVE-2020-8835 | Null | https://github.com/socketcall/CVE-2020-8835 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 12 MINUTES 30 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200917T22:10:00Z | CVE-2020-1472 | Exploit Code for CVE-2020-1472 aka Zerologon | https://github.com/VoidSec/CVE-2020-1472 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 12 MINUTES 22 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200917T20:50:53Z | CVE-2020-1472 | CVE-2020-1472复现流程 | https://github.com/NAXG/CVE-2020-1472 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 12 MINUTES 25 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200917T18:19:19Z | CVE-2020-1472 | Abuse CVE-2020-1472 (Zerologon) to take over a domain and then repair the local stored machine account password. | https://github.com/bb00/zer0dump | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 12 MINUTES 23 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200917T23:09:00Z | CVE-2020-8835 | Null | https://github.com/socketcall/CVE-2020-8835 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 11 MINUTES 31 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200917T22:10:00Z | CVE-2020-1472 | Exploit Code for CVE-2020-1472 aka Zerologon | https://github.com/VoidSec/CVE-2020-1472 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 11 MINUTES 20 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200917T20:50:53Z | CVE-2020-1472 | CVE-2020-1472复现流程 | https://github.com/NAXG/CVE-2020-1472 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 11 MINUTES 23 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200917T18:19:19Z | CVE-2020-1472 | Abuse CVE-2020-1472 (Zerologon) to take over a domain and then repair the local stored machine account password. | https://github.com/bb00/zer0dump | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 11 MINUTES 22 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 
 
 # klee on Github 推荐
@@ -91,6 +91,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20200918T00:48:18Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 5 | 2| 
 | 20200918T00:47:15Z | this  bash script lets you choose a linux enumeration script, exploitation and utilities. read README.md file to learn about this script.. | https://github.com/FabioDefilippo/linuxallenum | 1 | 0| 
 | 20200918T00:44:48Z | Offical Roblox Exploit | https://github.com/26926802306236/XShark-Offical | 0 | 0| 
 | 20200918T00:35:27Z | Null | https://github.com/quentin452/Cats-Exploitz-HUB | 0 | 1| 
@@ -100,7 +101,6 @@
 | 20200917T23:58:44Z | Inferious Cheats: Top Script Utility At Your Fingertips. Proving You With Top Roblox Scripts And Software. | https://github.com/MattLawz/1nferiousCheats | 1 | 0| 
 | 20200917T23:37:59Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 3027 | 464| 
 | 20200917T22:48:30Z | A faithful recreation of the Windows 96 exploitation system. | https://github.com/beurkinger/windows-96 | 0 | 0| 
-| 20200917T21:42:09Z | Exploit maker tool  with Metasploit Framework as a core. | https://github.com/n0obit4/Friendzone | 0 | 0| 
 
 
 # backdoor on Github 推荐
