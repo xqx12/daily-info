@@ -18,19 +18,21 @@
 | 20200917 | Insinuator 团队对胰岛素泵医疗设备安全漏洞的分析 | https://sec.today/pulses/89011fea-5715-4fb9-9dfa-d353b8fec0ba/| 
 | 20200917 | 波场 DeFi 项目 Myrose 无法提现 USDT 技术分析 | https://paper.seebug.org/1337/| 
 | 20200917 | Insinuator 团队对胰岛素泵医疗设备安全漏洞的分析 | https://insinuator.net/2020/09/white-paper-69/| 
+| 20200917 | 路由以及对应的处理类。 | https://blog.knownsec.com| 
+| 20200917 | Wireshark 3.3.0发布，具有协议和捕获文件支持新功能。 | https://gbhackers.com/wireshark-3-3-0-released/| 
+| 20200917 | 回顾Linux系统被APT攻击的过去十年探讨。 | https://www.intezer.com/blog/cloud-security/looking-back-on-the-last-decade-of-linux-apt-attacks/?utm_campaign=Looking%20Back%20on%20the%20Last%20Decade%20of%20Linux%20APT%20Attacks&utm_content=140071737&utm_medium=social&utm_source=twitter&hss_channel=tw-3315266420| 
 | 20200916 | LLVM 2020 开发者大会的议题列表 | https://llvm.org/devmtg/2020-09/schedule/| 
 | 20200916 | Awesome ARM Exploitation | https://github.com/HenryHoggard/awesome-arm-exploitation| 
 | 20200916 | 汽车安全研究方向的 Paper 收集 | https://github.com/autoguard/awesome-vehicle-security-and-safety| 
 | 20200916 | 提供 Trace 和 Replay 功能的自动化逆向分析框架 REVEN 更新 2.6 版本 | https://blog.tetrane.com/2020/Announcing-REVEN-Version-2-6.html| 
 | 20200916 | Acronis Cyber Backup 组件 SSRF 漏洞的利用 | https://www.rcesecurity.com/2020/09/CVE-2020-16171-Exploiting-Acronis-Cyber-Backup-for-Fun-and-Emails/| 
-| 20200916 | Docker for Pentester: Abusing Docker API | https://www.hackingarticles.in/docker-for-pentester-abusing-docker-api/| 
-| 20200916 | Windows 进程 Mitigation 策略枚举工具 | https://github.com/yardenshafir/MitigationFlagsCliTool| 
-| 20200916 | How I hacked redbus | https://sec.today/pulses/3548fe57-1f59-40e9-a5d6-05cb882d02b6/| 
 
 
 # 安全维基 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20200917 | 从IOC的一些真相谈对其的评价标准 | https://mp.weixin.qq.com/s/95jB4DfaXau6NDotNSpwdA| 
+| 20200917 | Linux系统中APT攻击总结 | https://mp.weixin.qq.com/s/HK3TlJQSrUtxoXl9HG6ORA| 
 | 20200916 | 如何利用Goby进行外围打点 | https://mp.weixin.qq.com/s/3JWq4aO6KvMABKH2Q8jGIw| 
 | 20200916 | 中国大陆信息网络安全学术研究的影响力分析 | http://www.sicris.cn/CN/abstract/abstract822.shtml| 
 | 20200916 | 2020中国网络安全产业分析报告 | https://mp.weixin.qq.com/s/0aikqrvyt-YODDy8D6qj5Q| 
@@ -39,23 +41,21 @@
 | 20200914 | 软件源码安全攻防之道（中） | https://mp.weixin.qq.com/s/8L7c6WOtF5nmcmPnuFubfA| 
 | 20200913 | 物联网安全之MQTT渗透实战 | https://bacde.me/post/mqtt-security-part-two/| 
 | 20200912 | 探索MITRE Shield如何用于主动防御 | https://mp.weixin.qq.com/s/K95QEs2UaUyvoUsVvUGDXg| 
-| 20200912 | 美军红队评估体系建设现状及启示 | https://mp.weixin.qq.com/s/JZef789soLqK2SdskBV5WQ| 
-| 20200912 | ARL: 资产侦察灯塔系统 | https://github.com/TophantTechnology/ARL| 
 
 
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20200917T12:54:19Z | CVE-2020-1472 | Test tool for CVE-2020-1472 | https://github.com/SecuraBV/CVE-2020-1472 | | 
-| 20200917T12:52:11Z | CVE-2020-1472 | Exploit Code for CVE-2020-1472 aka Zerologon | https://github.com/VoidSec/CVE-2020-1472 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 01 MINUTES 20 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200917T12:29:37Z | CVE-2020-1472 | An elevation of privilege vulnerability exists in Netlogon secure channel connection using Netlogon Remote Protocol (MS-NRPC) to a domain controller. When expoliting this vulnerability against the domain controller, an unauthenticated attacker can connect to a domain controller and obtain domain administrator access. | https://github.com/ClarotyICS/CVE-2020-1472 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 25 MINUTES 37 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200917T11:33:27Z | CVE-2020-1472 | Abuse CVE-2020-1472 (Zerologon) to take over a domain and then repair the local stored machine account password. | https://github.com/bb00/zer0dump | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 01 MINUTES 21 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200917T09:23:33Z | cve-2020-1472 | cve-2020-1472  复现利用及其exp | https://github.com/mstxq17/cve-2020-1472 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 01 MINUTES 25 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200917T07:17:13Z | CVE-2020-1472 | CVE-2020-1472 - Zero Logon vulnerability Python implementation | https://github.com/CanciuCostin/CVE-2020-1472 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 01 MINUTES 28 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200917T06:44:15Z | CVE-2020-0796 | Null | https://github.com/rsmudge/CVE-2020-0796-BOF | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 01 MINUTES 36 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200917T04:29:16Z | cve-2020-1472 | cve-2020-1472_Tool collection | https://github.com/0xcccc666/cve-2020-1472_Tool-collection | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 01 MINUTES 30 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200917T02:33:21Z | CVE-2020-8835 | spl0itz | https://github.com/socketcall/CVE-2020-8835 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 01 MINUTES 34 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200916T21:00:01Z | CVE-2020-1472 | [CVE-2020-1472] Netlogon Remote Protocol Call (MS-NRPC) Privilege Escalation (Zerologon) | https://github.com/murataydemir/CVE-2020-1472 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 01 MINUTES 31 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200918T00:01:02Z | cve-2020-14386 | Null | https://github.com/cgwalters/cve-2020-14386 | 未查询到CVE信息| 
+| 20200918T00:00:15Z | 未知编号 | Null | https://github.com/mos165/CVE-20200-1472 | 未查询到CVE信息| 
+| 20200917T23:51:46Z | CVE-2020-1472 | Test tool for CVE-2020-1472 | https://github.com/SecuraBV/CVE-2020-1472 | 当攻击者使用Netlogon远程协议（MS-NRPC）（又称为“ Netlogon特权提升漏洞”）建立与域控制器的易受攻击的Netlogon安全通道连接时，将存在特权提升漏洞。| 
+| 20200917T23:09:00Z | CVE-2020-8835 | Null | https://github.com/socketcall/CVE-2020-8835 | 在Linux内核5.5.0及更高版本中，bpf验证程序（kernel / bpf / verifier.c）不能正确限制32位操作的寄存器范围，从而导致内核内存中的读取和写入越界。该漏洞还影响从v5.4.7开始的Linux 5.4稳定系列，因为引入的提交已反向移植到该分支。此漏洞已在5.6.1、5.5.14和5.4.29中修复。 （问题是ZDI-CAN-10780）| 
+| 20200917T22:10:00Z | CVE-2020-1472 | Exploit Code for CVE-2020-1472 aka Zerologon | https://github.com/VoidSec/CVE-2020-1472 | 当攻击者使用Netlogon远程协议（MS-NRPC）（又称为“ Netlogon特权提升漏洞”）建立与域控制器的易受攻击的Netlogon安全通道连接时，将存在特权提升漏洞。| 
+| 20200917T21:33:09Z | CVE-2020-1472 | Test script for CVE-2020-1472 for both RPC/TCP and RPC/SMB | https://github.com/zeronetworks/zerologon | 当攻击者使用Netlogon远程协议（MS-NRPC）（又称为“ Netlogon特权提升漏洞”）建立与域控制器的易受攻击的Netlogon安全通道连接时，将存在特权提升漏洞。| 
+| 20200917T20:50:53Z | CVE-2020-1472 | CVE-2020-1472复现流程 | https://github.com/NAXG/CVE-2020-1472 | 当攻击者使用Netlogon远程协议（MS-NRPC）（又称为“ Netlogon特权提升漏洞”）建立与域控制器的易受攻击的Netlogon安全通道连接时，将存在特权提升漏洞。| 
+| 20200917T18:19:19Z | CVE-2020-1472 | Abuse CVE-2020-1472 (Zerologon) to take over a domain and then repair the local stored machine account password. | https://github.com/bb00/zer0dump | 当攻击者使用Netlogon远程协议（MS-NRPC）（又称为“ Netlogon特权提升漏洞”）建立与域控制器的易受攻击的Netlogon安全通道连接时，将存在特权提升漏洞。| 
+| 20200917T18:07:00Z | cve-2020-1472 | Exploit for zerologon cve-2020-1472 | https://github.com/risksense/zerologon | 未查询到CVE信息| 
+| 20200917T15:34:20Z | cve-2020-1472 | cve-2020-1472  复现利用及其exp | https://github.com/mstxq17/cve-2020-1472 | 未查询到CVE信息| 
 
 
 # klee on Github 推荐
@@ -91,16 +91,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20200917T12:58:45Z | Just a nice Roblox GUI for exploits | https://github.com/GamerBoi153/Just-Some-Scripts | 0 | 0| 
-| 20200917T12:49:50Z | Generate a post exploit script to download an arbitrary file using HTML5%s Blob object (https://developer.mozilla.org/en-US/docs/Web/API/Blob) | https://github.com/demetrius-ford/dbd | 0 | 0| 
-| 20200917T12:48:19Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 5 | 2| 
-| 20200917T12:29:53Z | Shellshock Auto Exploit & Reverse Shell By GhostSecID | https://github.com/GhostSecID/Shellshock | 0 | 0| 
-| 20200917T12:25:07Z | A cheat sheet that contains common enumeration and attack methods for Windows Active Directory. | https://github.com/S1ckB0y1337/Active-Directory-Exploitation-Cheat-Sheet | 693 | 188| 
-| 20200917T12:24:10Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 3025 | 465| 
-| 20200917T11:43:14Z | Blog! | https://github.com/nonetype/nonetype.github.io | 0 | 0| 
-| 20200917T11:40:05Z | this bash script let you download scripts and clone repos for remote exploits | https://github.com/FabioDefilippo/linuxallremote | 5 | 0| 
-| 20200917T11:35:12Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 7248 | 1187| 
-| 20200917T11:33:19Z | Joomla Component com_foxcontact Arbitrary File Upload https://cxsecurity.com/issue/WLB-2016050072  Auto Exploiter (Shell Upload, Auto Deface, and Auto Submit Zone -H) | https://github.com/GhostOffensive/FoxContactAutoExploit | 1 | 0| 
+| 20200917T23:58:44Z | Inferious Cheats: Top Script Utility At Your Fingertips. Proving You With Top Roblox Scripts And Software. | https://github.com/MattLawz/1nferiousCheats | 1 | 0| 
+| 20200917T23:37:59Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 3027 | 464| 
+| 20200917T23:36:54Z | Null | https://github.com/quentin452/Cats-Exploitz-HUB | 0 | 1| 
+| 20200917T23:22:19Z | Generate a post exploit script to download an arbitrary file using HTML5%s Blob object (https://developer.mozilla.org/en-US/docs/Web/API/Blob) | https://github.com/demetrius-ford/dbd | 0 | 0| 
+| 20200917T22:48:30Z | A faithful recreation of the Windows 96 exploitation system. | https://github.com/beurkinger/windows-96 | 0 | 0| 
+| 20200917T21:42:09Z | Exploit maker tool  with Metasploit Framework as a core. | https://github.com/n0obit4/Friendzone | 0 | 0| 
+| 20200917T21:38:54Z | Apple Fortnite Cheat Exploits, i got and i will get will be posted on this page | https://github.com/syros156/FortniteCheatExploits | 0 | 0| 
+| 20200917T21:07:49Z | This repo contains various scripts used to exploit vulnerabilities in Windows XP and Windows Server 2008 VMs using metasploit. | https://github.com/Alex-Sandoval12/Intro-to-metasploit | 0 | 0| 
+| 20200917T20:56:56Z | Select proof-of-concept exploits for software vulnerabilities to aid in identifying and testing vulnerable systems. | https://github.com/CERTCC/PoC-Exploits | 97 | 20| 
+| 20200917T20:35:11Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 7251 | 1187| 
 
 
 # backdoor on Github 推荐
@@ -121,16 +121,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20200917T12:59:00Z | Conduct OOB Fuzzing of targets with custom payloads towards callback server | https://github.com/CasperGN/oobfuzz | 5 | 3| 
-| 20200917T12:54:28Z | Null | https://github.com/dharandbz/fuzzy-tribble | 0 | 0| 
-| 20200917T12:50:49Z | This tool uses fzf(1)-like fuzzy-finder to do partial or fuzzy search of Kubernetes resources. Instead of specifying full resource names to kubectl commands, you can choose them from an interactive list that you can filter by typing a few characters. | https://github.com/d-kuro/kubectl-fuzzy | 42 | 4| 
-| 20200917T12:42:58Z | Montage: A Neural Network Language Model-Guided JavaScript Engine Fuzzer | https://github.com/WSP-LAB/Montage | 18 | 0| 
-| 20200917T12:31:36Z | Simple fuzzer for OpenAPI 3 specification based APIs | https://github.com/vwt-digital/openapi3-fuzzer | 1 | 0| 
-| 20200917T12:23:03Z | Null | https://github.com/ikulagin89/fuzzysearch | 0 | 0| 
-| 20200917T11:44:01Z | Null | https://github.com/rico9000/fuzzy-fortnight | 0 | 0| 
-| 20200917T11:32:13Z | A Fuzzy Classifier based on the algortithm from Yuan, Yufei, & Michael J. Shaw. %Induction of fuzzy decision trees%.      Fuzzy Sets and Systems 69, n.º 2 (27th January 1995): 125-39.      doi:10.1016/0165-0114(94)00229-Z. | https://github.com/juanmabelda/FuzzyClassifier | 0 | 1| 
-| 20200917T11:16:03Z | 模糊认知诊断模型Python实现 | https://github.com/zelo2/FuzzyCDF | 1 | 1| 
-| 20200917T10:59:35Z | The Book %Generating Software Tests% | https://github.com/uds-se/fuzzingbook | 421 | 86| 
+| 20200917T23:28:34Z | Workspace for KNU-fuzzing class, 2020 Autumn Semester | https://github.com/darkrsw/knu-fuzzing | 0 | 0| 
+| 20200917T23:03:29Z | Null | https://github.com/corootine/fuzzy | 0 | 0| 
+| 20200917T22:45:24Z | The personal site of William Duyck | https://github.com/fuzzyfox/fuzzyfox.github.io | 0 | 0| 
+| 20200917T22:44:38Z | Null | https://github.com/luqman252/fuzzy-sniffle | 0 | 0| 
+| 20200917T22:25:04Z | AFL++ as a library: gives you all the tools necessary to craft the best fuzzer for your targets with ease! | https://github.com/AFLplusplus/LibAFL | 86 | 3| 
+| 20200917T22:17:45Z | FuzzBench - Fuzzer benchmarking as a service. | https://github.com/google/fuzzbench | 525 | 78| 
+| 20200917T22:09:27Z | Null | https://github.com/Kevponce194/fuzzy-system | 0 | 0| 
+| 20200917T22:05:23Z | Null | https://github.com/kita-bingung/fuzzy-umbrella | 0 | 0| 
+| 20200917T21:46:09Z | A differential fuzzer for x86 decoders | https://github.com/trailofbits/mishegos | 105 | 15| 
+| 20200917T21:41:17Z | Null | https://github.com/vent-lab/URL-Fuzzer | 0 | 0| 
 
 
 
