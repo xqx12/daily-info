@@ -47,15 +47,15 @@
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
 | 20200919T00:26:07Z | cve-2020-1472 | Exploit for zerologon cve-2020-1472 | https://github.com/risksense/zerologon | 未查询到CVE信息| 
-| 20200918T22:14:17Z | CVE-2020-1472 | Test tool for CVE-2020-1472 | https://github.com/SecuraBV/CVE-2020-1472 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 27 MINUTES 14 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200918T17:54:43Z | CVE-2020-1472 | Exploit Code for CVE-2020-1472 aka Zerologon | https://github.com/VoidSec/CVE-2020-1472 | | 
-| 20200918T16:49:43Z | CVE-2020-0796 | Null | https://github.com/rsmudge/CVE-2020-0796-BOF | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 27 MINUTES 18 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200918T15:18:24Z | CVE-2020-6287 | [CVE-2020-6287] SAP NetWeaver AS JAVA (LM Configuration Wizard) Authentication Bypass (Create Simple & Administrator Java User) | https://github.com/murataydemir/CVE-2020-6287 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 27 MINUTES 13 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200918T15:06:02Z | CVE-2020-25749 | CVE-2020-25749 | https://github.com/jet-pentest/CVE-2020-25749 | | 
-| 20200918T15:04:20Z | CVE-2020-25748 | CVE-2020-25748 | https://github.com/jet-pentest/CVE-2020-25748 | 未查询到CVE信息| 
+| 20200918T22:14:17Z | CVE-2020-1472 | Test tool for CVE-2020-1472 | https://github.com/SecuraBV/CVE-2020-1472 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 25 MINUTES 14 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200918T17:54:43Z | CVE-2020-1472 | Exploit Code for CVE-2020-1472 aka Zerologon | https://github.com/VoidSec/CVE-2020-1472 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 25 MINUTES 15 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200918T16:49:43Z | CVE-2020-0796 | Null | https://github.com/rsmudge/CVE-2020-0796-BOF | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 25 MINUTES 19 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200918T15:18:24Z | CVE-2020-6287 | [CVE-2020-6287] SAP NetWeaver AS JAVA (LM Configuration Wizard) Authentication Bypass (Create Simple & Administrator Java User) | https://github.com/murataydemir/CVE-2020-6287 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 25 MINUTES 12 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200918T15:06:02Z | CVE-2020-25749 | CVE-2020-25749 | https://github.com/jet-pentest/CVE-2020-25749 | 未查询到CVE信息| 
+| 20200918T15:04:20Z | CVE-2020-25748 | CVE-2020-25748 | https://github.com/jet-pentest/CVE-2020-25748 | | 
 | 20200918T15:02:53Z | CVE-2020-25747 | CVE-2020-25747 | https://github.com/jet-pentest/CVE-2020-25747 | 未查询到CVE信息| 
-| 20200918T14:50:35Z | cve-2020-14386 | Null | https://github.com/cgwalters/cve-2020-14386 | 未查询到CVE信息| 
-| 20200918T13:51:11Z | CVE-2020-2555 | Null | https://github.com/Uvemode/CVE-2020-2555 | | 
+| 20200918T14:50:35Z | cve-2020-14386 | Null | https://github.com/cgwalters/cve-2020-14386 | | 
+| 20200918T13:51:11Z | CVE-2020-2555 | Null | https://github.com/Uvemode/CVE-2020-2555 | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
 
 
 # klee on Github 推荐
@@ -91,14 +91,14 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20200919T00:34:45Z | Null | https://github.com/archsploit/packages-exploitation | 0 | 0| 
+| 20200919T00:34:45Z | Sifter is a OSINT, recon & vulnerability scanner. It incorporates a plethara of tools within different module sets that tries to cover every attack vector. Allowing you to quickly perform recon tasks and organize the results in one place. From OSINT to Recon, Exploitation, Post-Exploitation, OpSec, Threat Analysis, XSS, SQLinjection, Network Scanning, WebApp Analysis or DNS enumeration.. Sifter should be able to cover it all. | https://github.com/s1l3nt78/sifter | 247 | 77| 
 | 20200919T00:33:03Z | The first MNS+ specific %hacktool% | https://github.com/basti564/MNSPlusTrasher | 9 | 0| 
-| 20200919T00:26:09Z | Sifter is a OSINT, recon & vulnerability scanner. It incorporates a plethara of tools within different module sets that tries to cover every attack vector. Allowing you to quickly perform recon tasks and organize the results in one place. From OSINT to Recon, Exploitation, Post-Exploitation, OpSec, Threat Analysis, XSS, SQLinjection, Network Scanning, WebApp Analysis or DNS enumeration.. Sifter should be able to cover it all. | https://github.com/s1l3nt78/sifter | 247 | 77| 
 | 20200919T00:24:50Z | OWASP Benchmark is a test suite designed to verify the speed and accuracy of software vulnerability detection tools. A fully runnable web app written in Java, it supports analysis by Static (SAST), Dynamic (DAST), and Runtime (IAST) tools that support Java. The idea is that since it is fully runnable and all the vulnerabilities are actually exploitable, it’s a fair test for any kind of vulnerability detection tool.  For more details on this project, please see the OWASP Benchmark Project home page. | https://github.com/OWASP/Benchmark | 286 | 189| 
 | 20200918T23:46:20Z | Vulnerabilities, security advisories, exploit codes and proof-of-concept codes. | https://github.com/zeroscience/advisory | 4 | 4| 
 | 20200918T23:45:56Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 3028 | 464| 
 | 20200918T23:20:20Z | A new server outage exploit that was found yesterday and then fixed today as discord added a ratelimit. | https://github.com/Yaekith/ServerOutageExploitV2 | 1 | 0| 
 | 20200918T23:03:35Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 7256 | 1189| 
-| 20200918T23:01:55Z | Null | https://github.com/archsploit/packages-exploitation | 0 | 0| 
 | 20200918T22:27:53Z | Null | https://github.com/quentin452/Cats-Exploitz-HUB | 0 | 1| 
 | 20200918T21:40:23Z | A faithful recreation of the Windows 96 exploitation system. | https://github.com/beurkinger/windows-96 | 0 | 0| 
 
@@ -121,11 +121,11 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20200919T00:33:50Z | Null | https://github.com/olegsych/fuzzy | 0 | 0| 
 | 20200919T00:27:40Z | A personal web fuzzer | https://github.com/n0obit4/Fuzzpy | 0 | 0| 
 | 20200919T00:23:08Z | jQuery plugin for fuzzy search in autocomplete | https://github.com/aliask/fuzzycomplete | 15 | 6| 
 | 20200919T00:23:06Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 947 | 49| 
 | 20200919T00:16:55Z | Null | https://github.com/vent-lab/URL-Fuzzer | 0 | 0| 
-| 20200918T23:57:50Z | Null | https://github.com/olegsych/fuzzy | 0 | 0| 
 | 20200918T23:49:45Z | Unsupervised coverage-guided btrfs fuzzer | https://github.com/danobi/btrfs-fuzz | 0 | 0| 
 | 20200918T23:21:53Z | Experimental projects | https://github.com/tannmatter/fuzzy-happiness | 0 | 0| 
 | 20200918T23:13:27Z | Fuzzing on ZigBee Protocol Implementation | https://github.com/zigbeeprotocol/Z-Fuzzer | 1 | 0| 
