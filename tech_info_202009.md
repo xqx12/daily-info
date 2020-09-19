@@ -46,16 +46,16 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20200919T00:44:14Z | CVE-2020-0796 | Null | https://github.com/rsmudge/CVE-2020-0796-BOF | | 
+| 20200919T00:44:14Z | CVE-2020-0796 | Null | https://github.com/rsmudge/CVE-2020-0796-BOF | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 19 MINUTES 21 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20200919T00:26:07Z | cve-2020-1472 | Exploit for zerologon cve-2020-1472 | https://github.com/risksense/zerologon | 未查询到CVE信息| 
-| 20200918T22:14:17Z | CVE-2020-1472 | Test tool for CVE-2020-1472 | https://github.com/SecuraBV/CVE-2020-1472 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 21 MINUTES 14 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200918T17:54:43Z | CVE-2020-1472 | Exploit Code for CVE-2020-1472 aka Zerologon | https://github.com/VoidSec/CVE-2020-1472 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 21 MINUTES 15 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200918T15:18:24Z | CVE-2020-6287 | [CVE-2020-6287] SAP NetWeaver AS JAVA (LM Configuration Wizard) Authentication Bypass (Create Simple & Administrator Java User) | https://github.com/murataydemir/CVE-2020-6287 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 21 MINUTES 13 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200918T15:06:02Z | CVE-2020-25749 | CVE-2020-25749 | https://github.com/jet-pentest/CVE-2020-25749 | 未查询到CVE信息| 
+| 20200918T22:14:17Z | CVE-2020-1472 | Test tool for CVE-2020-1472 | https://github.com/SecuraBV/CVE-2020-1472 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 19 MINUTES 16 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200918T17:54:43Z | CVE-2020-1472 | Exploit Code for CVE-2020-1472 aka Zerologon | https://github.com/VoidSec/CVE-2020-1472 | | 
+| 20200918T15:18:24Z | CVE-2020-6287 | [CVE-2020-6287] SAP NetWeaver AS JAVA (LM Configuration Wizard) Authentication Bypass (Create Simple & Administrator Java User) | https://github.com/murataydemir/CVE-2020-6287 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 19 MINUTES 15 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200918T15:06:02Z | CVE-2020-25749 | CVE-2020-25749 | https://github.com/jet-pentest/CVE-2020-25749 | | 
 | 20200918T15:04:20Z | CVE-2020-25748 | CVE-2020-25748 | https://github.com/jet-pentest/CVE-2020-25748 | 未查询到CVE信息| 
 | 20200918T15:02:53Z | CVE-2020-25747 | CVE-2020-25747 | https://github.com/jet-pentest/CVE-2020-25747 | 未查询到CVE信息| 
 | 20200918T14:50:35Z | cve-2020-14386 | Null | https://github.com/cgwalters/cve-2020-14386 | 未查询到CVE信息| 
-| 20200918T13:51:11Z | CVE-2020-2555 | Null | https://github.com/Uvemode/CVE-2020-2555 | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
+| 20200918T13:51:11Z | CVE-2020-2555 | Null | https://github.com/Uvemode/CVE-2020-2555 | | 
 
 
 # klee on Github 推荐
@@ -91,7 +91,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20200919T01:39:08Z | The first MNS+ specific %hacktool% | https://github.com/basti564/MNSPlusTrasher | 9 | 0| 
+| 20200919T01:40:20Z | The first MNS+ specific %hacktool% | https://github.com/basti564/MNSPlusTrasher | 9 | 0| 
 | 20200919T01:25:15Z | Null | https://github.com/quentin452/Cats-Exploitz-HUB | 0 | 1| 
 | 20200919T01:14:13Z | Various techniques for exploiting Windows | https://github.com/billchaison/Windows-Trix | 5 | 0| 
 | 20200919T01:01:45Z | GEF - GDB Enhanced Features for exploit devs & reversers | https://github.com/hugsy/gef | 3122 | 456| 
