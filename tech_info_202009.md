@@ -46,13 +46,13 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20200919T12:22:21Z | CVE-2020-0796 | Null | https://github.com/rsmudge/CVE-2020-0796-BOF | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 22 MINUTES 26 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200919T12:22:21Z | CVE-2020-0796 | Null | https://github.com/rsmudge/CVE-2020-0796-BOF | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 21 MINUTES 23 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20200919T11:47:03Z | cve-2020-1472 | Exploit for zerologon cve-2020-1472 | https://github.com/risksense/zerologon | 未查询到CVE信息| 
-| 20200919T11:06:31Z | CVE-2020-1472 | Test tool for CVE-2020-1472 | https://github.com/SecuraBV/CVE-2020-1472 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 22 MINUTES 21 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200919T09:46:32Z | CVE-2020-1472 | Test script for CVE-2020-1472 for both RPC/TCP and RPC/SMB | https://github.com/zeronetworks/zerologon | | 
+| 20200919T11:06:31Z | CVE-2020-1472 | Test tool for CVE-2020-1472 | https://github.com/SecuraBV/CVE-2020-1472 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 21 MINUTES 19 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200919T09:46:32Z | CVE-2020-1472 | Test script for CVE-2020-1472 for both RPC/TCP and RPC/SMB | https://github.com/zeronetworks/zerologon | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 21 MINUTES 25 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20200919T07:40:14Z | CVE-2020-24765 | Null | https://github.com/trump88/CVE-2020-24765 | 未查询到CVE信息| 
-| 20200918T17:54:43Z | CVE-2020-1472 | Exploit Code for CVE-2020-1472 aka Zerologon | https://github.com/VoidSec/CVE-2020-1472 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 22 MINUTES 22 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200918T15:18:24Z | CVE-2020-6287 | [CVE-2020-6287] SAP NetWeaver AS JAVA (LM Configuration Wizard) Authentication Bypass (Create Simple & Administrator Java User) | https://github.com/murataydemir/CVE-2020-6287 | | 
+| 20200918T17:54:43Z | CVE-2020-1472 | Exploit Code for CVE-2020-1472 aka Zerologon | https://github.com/VoidSec/CVE-2020-1472 | | 
+| 20200918T15:18:24Z | CVE-2020-6287 | [CVE-2020-6287] SAP NetWeaver AS JAVA (LM Configuration Wizard) Authentication Bypass (Create Simple & Administrator Java User) | https://github.com/murataydemir/CVE-2020-6287 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 21 MINUTES 18 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20200918T15:06:02Z | CVE-2020-25749 | CVE-2020-25749 | https://github.com/jet-pentest/CVE-2020-25749 | 未查询到CVE信息| 
 | 20200918T15:04:20Z | CVE-2020-25748 | CVE-2020-25748 | https://github.com/jet-pentest/CVE-2020-25748 | | 
 | 20200918T15:02:53Z | CVE-2020-25747 | CVE-2020-25747 | https://github.com/jet-pentest/CVE-2020-25747 | 未查询到CVE信息| 
@@ -91,6 +91,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20200919T12:38:55Z | Null | https://github.com/quentin452/Cats-Exploitz-HUB | 0 | 1| 
 | 20200919T12:36:52Z | Null | https://github.com/Abhaysoft-inc/exploiter | 0 | 0| 
 | 20200919T12:19:45Z | A faithful recreation of the Windows 96 exploitation system. | https://github.com/beurkinger/windows-96 | 0 | 0| 
 | 20200919T11:59:39Z | Null | https://github.com/FuflyPaladium/exploitcraftlauncher.github.io | 0 | 0| 
@@ -100,7 +101,6 @@
 | 20200919T11:27:38Z | Storm Framework is a Windows post-exploitation framework that exploits Windows PowerShell vulnerability to get shell-like connection. Storm Framework has the ability to generate simple payloads to provide Windows PowerShell attack.  | https://github.com/entynetproject/storm | 3 | 1| 
 | 20200919T11:22:39Z | Ghost Framework is an Android post-exploitation framework that exploits the Android Debug Bridge to remotely access an Android device. Ghost Framework gives you the power and convenience of remote Android device administration. | https://github.com/entynetproject/ghost | 708 | 362| 
 | 20200919T10:57:43Z | Null | https://github.com/DeanOGHub/ExploitDEPBypass | 0 | 0| 
-| 20200919T10:35:12Z | Advanced Exploit Mitigation Paper | https://github.com/CxVercility/Windows-Internals | 0 | 0| 
 
 
 # backdoor on Github 推荐
@@ -121,7 +121,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20200919T12:24:41Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 1085 | 57| 
+| 20200919T12:38:48Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 1086 | 57| 
 | 20200919T12:09:55Z | Tools and workflows for fuzz testing | https://github.com/LeastAuthority/lafuzz | 0 | 0| 
 | 20200919T11:20:47Z | fuzzygit aims to ease the usage of common git commands by applying a simple interactive interface based on https://github.com/junegunn/fzf. | https://github.com/DennisBayer/fuzzygit | 1 | 0| 
 | 20200919T11:15:23Z | dharma grammars used for fuzzing libyang | https://github.com/sartura/dharma-libyang | 0 | 0| 
