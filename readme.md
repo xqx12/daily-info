@@ -17,10 +17,10 @@
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
 | 20200919T11:47:03Z | cve-2020-1472 | Exploit for zerologon cve-2020-1472 | https://github.com/risksense/zerologon | 未查询到CVE信息| 
-| 20200919T11:06:31Z | CVE-2020-1472 | Test tool for CVE-2020-1472 | https://github.com/SecuraBV/CVE-2020-1472 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 51 MINUTES 21 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200919T09:46:32Z | CVE-2020-1472 | Test script for CVE-2020-1472 for both RPC/TCP and RPC/SMB | https://github.com/zeronetworks/zerologon | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 51 MINUTES 27 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200919T11:06:31Z | CVE-2020-1472 | Test tool for CVE-2020-1472 | https://github.com/SecuraBV/CVE-2020-1472 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 50 MINUTES 18 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200919T09:46:32Z | CVE-2020-1472 | Test script for CVE-2020-1472 for both RPC/TCP and RPC/SMB | https://github.com/zeronetworks/zerologon | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 50 MINUTES 25 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20200919T07:40:14Z | CVE-2020-24765 | Null | https://github.com/trump88/CVE-2020-24765 | 未查询到CVE信息| 
-| 20200919T03:14:49Z | CVE-2020-0796 | Null | https://github.com/rsmudge/CVE-2020-0796-BOF | | 
+| 20200919T03:14:49Z | CVE-2020-0796 | Null | https://github.com/rsmudge/CVE-2020-0796-BOF | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 50 MINUTES 23 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 
 
 # klee on Github 推荐
@@ -62,6 +62,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20200919T12:09:55Z | Tools and workflows for fuzz testing | https://github.com/LeastAuthority/lafuzz | 0 | 0| 
 | 20200919T11:20:47Z | fuzzygit aims to ease the usage of common git commands by applying a simple interactive interface based on https://github.com/junegunn/fzf. | https://github.com/DennisBayer/fuzzygit | 1 | 0| 
 | 20200919T11:15:23Z | dharma grammars used for fuzzing libyang | https://github.com/sartura/dharma-libyang | 0 | 0| 
 | 20200919T11:12:04Z | AFL++ as a library: gives you all the tools necessary to craft the best fuzzer for your targets with ease! | https://github.com/AFLplusplus/LibAFL | 86 | 3| 
@@ -71,7 +72,6 @@
 | 20200919T09:55:38Z | 30 Days VS Javascript  | https://github.com/panvicka/fuzzy-meme | 0 | 0| 
 | 20200919T06:53:34Z | Null | https://github.com/Ishaan29/fuzzy-chainsaw-algo | 1 | 0| 
 | 20200919T06:34:24Z | Collection of quality safety articles | https://github.com/tom0li/collection-document | 1223 | 403| 
-| 20200919T06:19:15Z | This repo is under process.. | https://github.com/themastersunil/Fuzzing | 1 | 0| 
 
 
 
