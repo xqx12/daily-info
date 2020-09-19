@@ -106,16 +106,16 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20200918T12:56:33Z | Full-featured C2 framework which silently persists on webserver via evil PHP oneliner :smiling_imp: | https://github.com/nil0x42/phpsploit | 1000 | 306| 
-| 20200918T12:03:10Z | A PHP backdoor management and generation tool featuring end to end encrypted payload streaming designed to bypass WAF, IDS, SIEM systems. | https://github.com/gellin/bantam | 111 | 10| 
+| 20200918T21:03:07Z | A PHP backdoor management and generation tool featuring end to end encrypted payload streaming designed to bypass WAF, IDS, SIEM systems. | https://github.com/gellin/bantam | 116 | 10| 
+| 20200918T20:44:20Z | Ghost Framework is an Android post-exploitation framework that exploits the Android Debug Bridge to remotely access an Android device. Ghost Framework gives you the power and convenience of remote Android device administration. | https://github.com/entynetproject/ghost | 706 | 361| 
+| 20200918T20:19:19Z | Full-featured C2 framework which silently persists on webserver via evil PHP oneliner :smiling_imp: | https://github.com/nil0x42/phpsploit | 1001 | 306| 
+| 20200918T19:11:45Z | Hacking tools pack & backdoors generator. | https://github.com/AdrMXR/KitHack | 163 | 39| 
+| 20200918T17:32:52Z | Backdoor Feito em C | https://github.com/Kripto-Sec/Cbackdoor | 3 | 0| 
+| 20200918T17:12:23Z | shell backdoor buat peretas website, di jamin tembus di segala perang :) , sudah di test di beberapa  website bahkan server windows sekalipun rasanya ANJING BANGET | https://github.com/beruangsalju/shell | 1 | 0| 
+| 20200918T16:25:34Z | A New Minecraft Exploit that Can Be Used To Get Acess To A Minecraft Server With Spigot Plugins It Uses RCE (Remote Code Execution) To Gain Acess To The Server%s Command Line This Has Not Been Fixed Yet And Will Probably Not Any Time Soon Use This To Force Op Yourself Change, The Game Mode, Ban Or Kick Players And Much More Just Get Creative And Have Fun And Dont Forget To Use A Alt Account Account Or You May Loose your Main. | https://github.com/SmokinSpectre/Minecraft-Server-Backdoor | 1 | 0| 
+| 20200918T14:33:46Z | Just a simple backdoor with custom listener. | https://github.com/TheRavehorn/Simple-Backdoor | 0 | 0| 
+| 20200918T14:09:33Z | Null | https://github.com/Jabster28/node-backdoor | 0 | 0| 
 | 20200918T09:27:06Z | ncat backdoor for windows | https://github.com/yuhcoon/ncat-backdoor | 0 | 0| 
-| 20200918T07:54:21Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 59 | 7| 
-| 20200918T07:05:47Z | Ghost Framework is an Android post-exploitation framework that exploits the Android Debug Bridge to remotely access an Android device. Ghost Framework gives you the power and convenience of remote Android device administration. | https://github.com/entynetproject/ghost | 706 | 360| 
-| 20200918T05:12:52Z | Offensive Terraform module which creates an IAM role with trust relationship with attacker%s AWS account and attaches managed IAM Policy to an IAM role. | https://github.com/offensive-terraform/terraform-aws-cross-account-persistence | 0 | 0| 
-| 20200918T04:12:58Z | Avyukt is a Exploitation Framework which can be used to generate Malicious Payloads and exploit Windows OS | https://github.com/Vedant-Bhalgama/Avyukt | 9 | 0| 
-| 20200918T01:44:05Z | Backdoor Feito em C | https://github.com/Kripto-Sec/Cbackdoor | 1 | 0| 
-| 20200918T01:40:42Z | Tool to find potential backdoor/security holes in your endpoint | https://github.com/subasgit/backdoorfinder | 0 | 0| 
-| 20200917T21:52:04Z | Ascaris  | https://github.com/salimicali/Ascaris | 0 | 0| 
 
 
 # fuzz on Github 推荐
