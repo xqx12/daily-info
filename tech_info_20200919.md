@@ -16,11 +16,11 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20200919T12:22:21Z | CVE-2020-0796 | Null | https://github.com/rsmudge/CVE-2020-0796-BOF | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 28 MINUTES 25 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200919T12:22:21Z | CVE-2020-0796 | Null | https://github.com/rsmudge/CVE-2020-0796-BOF | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 27 MINUTES 23 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20200919T11:47:03Z | cve-2020-1472 | Exploit for zerologon cve-2020-1472 | https://github.com/risksense/zerologon | 未查询到CVE信息| 
-| 20200919T11:06:31Z | CVE-2020-1472 | Test tool for CVE-2020-1472 | https://github.com/SecuraBV/CVE-2020-1472 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 28 MINUTES 19 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200919T09:46:32Z | CVE-2020-1472 | Test script for CVE-2020-1472 for both RPC/TCP and RPC/SMB | https://github.com/zeronetworks/zerologon | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 28 MINUTES 26 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200919T07:40:14Z | CVE-2020-24765 | Null | https://github.com/trump88/CVE-2020-24765 | | 
+| 20200919T11:06:31Z | CVE-2020-1472 | Test tool for CVE-2020-1472 | https://github.com/SecuraBV/CVE-2020-1472 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 27 MINUTES 17 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200919T09:46:32Z | CVE-2020-1472 | Test script for CVE-2020-1472 for both RPC/TCP and RPC/SMB | https://github.com/zeronetworks/zerologon | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 27 MINUTES 24 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200919T07:40:14Z | CVE-2020-24765 | Null | https://github.com/trump88/CVE-2020-24765 | 未查询到CVE信息| 
 
 
 # klee on Github 推荐
@@ -36,6 +36,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20200919T12:31:44Z | Null | https://github.com/Abhaysoft-inc/exploiter | 0 | 0| 
 | 20200919T12:19:45Z | A faithful recreation of the Windows 96 exploitation system. | https://github.com/beurkinger/windows-96 | 0 | 0| 
 | 20200919T11:59:39Z | Null | https://github.com/FuflyPaladium/exploitcraftlauncher.github.io | 0 | 0| 
 | 20200919T11:53:19Z | uwu | https://github.com/FuflyPaladium/ExploitCraftLauncher | 0 | 0| 
@@ -45,7 +46,6 @@
 | 20200919T11:22:39Z | Ghost Framework is an Android post-exploitation framework that exploits the Android Debug Bridge to remotely access an Android device. Ghost Framework gives you the power and convenience of remote Android device administration. | https://github.com/entynetproject/ghost | 708 | 362| 
 | 20200919T10:57:43Z | Null | https://github.com/DeanOGHub/ExploitDEPBypass | 0 | 0| 
 | 20200919T10:35:12Z | Advanced Exploit Mitigation Paper | https://github.com/CxVercility/Windows-Internals | 0 | 0| 
-| 20200919T10:27:12Z | this bash script let you download scripts and clone repos for remote exploits | https://github.com/FabioDefilippo/linuxallremote | 5 | 0| 
 
 
 # backdoor on Github 推荐
