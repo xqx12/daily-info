@@ -46,16 +46,16 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20200919T01:56:40Z | CVE-2020-0796 | Null | https://github.com/rsmudge/CVE-2020-0796-BOF | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 01 MINUTES 18 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200919T00:26:07Z | cve-2020-1472 | Exploit for zerologon cve-2020-1472 | https://github.com/risksense/zerologon | 未查询到CVE信息| 
-| 20200918T22:14:17Z | CVE-2020-1472 | Test tool for CVE-2020-1472 | https://github.com/SecuraBV/CVE-2020-1472 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 01 MINUTES 11 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200918T17:54:43Z | CVE-2020-1472 | Exploit Code for CVE-2020-1472 aka Zerologon | https://github.com/VoidSec/CVE-2020-1472 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 01 MINUTES 13 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200918T15:18:24Z | CVE-2020-6287 | [CVE-2020-6287] SAP NetWeaver AS JAVA (LM Configuration Wizard) Authentication Bypass (Create Simple & Administrator Java User) | https://github.com/murataydemir/CVE-2020-6287 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 01 MINUTES 10 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200919T11:47:03Z | cve-2020-1472 | Exploit for zerologon cve-2020-1472 | https://github.com/risksense/zerologon | 未查询到CVE信息| 
+| 20200919T11:06:31Z | CVE-2020-1472 | Test tool for CVE-2020-1472 | https://github.com/SecuraBV/CVE-2020-1472 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 59 MINUTES 17 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200919T09:46:32Z | CVE-2020-1472 | Test script for CVE-2020-1472 for both RPC/TCP and RPC/SMB | https://github.com/zeronetworks/zerologon | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 59 MINUTES 23 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200919T07:40:14Z | CVE-2020-24765 | Null | https://github.com/trump88/CVE-2020-24765 | 未查询到CVE信息| 
+| 20200919T03:14:49Z | CVE-2020-0796 | Null | https://github.com/rsmudge/CVE-2020-0796-BOF | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 59 MINUTES 22 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200918T17:54:43Z | CVE-2020-1472 | Exploit Code for CVE-2020-1472 aka Zerologon | https://github.com/VoidSec/CVE-2020-1472 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 59 MINUTES 18 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200918T15:18:24Z | CVE-2020-6287 | [CVE-2020-6287] SAP NetWeaver AS JAVA (LM Configuration Wizard) Authentication Bypass (Create Simple & Administrator Java User) | https://github.com/murataydemir/CVE-2020-6287 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 59 MINUTES 15 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20200918T15:06:02Z | CVE-2020-25749 | CVE-2020-25749 | https://github.com/jet-pentest/CVE-2020-25749 | 未查询到CVE信息| 
 | 20200918T15:04:20Z | CVE-2020-25748 | CVE-2020-25748 | https://github.com/jet-pentest/CVE-2020-25748 | 未查询到CVE信息| 
 | 20200918T15:02:53Z | CVE-2020-25747 | CVE-2020-25747 | https://github.com/jet-pentest/CVE-2020-25747 | 未查询到CVE信息| 
-| 20200918T14:50:35Z | cve-2020-14386 | Null | https://github.com/cgwalters/cve-2020-14386 | 未查询到CVE信息| 
-| 20200918T13:51:11Z | CVE-2020-2555 | Null | https://github.com/Uvemode/CVE-2020-2555 | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
 
 
 # klee on Github 推荐
@@ -91,16 +91,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20200919T01:52:20Z | Null | https://github.com/quentin452/Cats-Exploitz-HUB | 0 | 1| 
-| 20200919T01:40:20Z | The first MNS+ specific %hacktool% | https://github.com/basti564/MNSPlusTrasher | 9 | 0| 
-| 20200919T01:14:13Z | Various techniques for exploiting Windows | https://github.com/billchaison/Windows-Trix | 5 | 0| 
-| 20200919T01:01:45Z | GEF - GDB Enhanced Features for exploit devs & reversers | https://github.com/hugsy/gef | 3122 | 456| 
-| 20200919T00:58:46Z | Exploit Database binary exploits located in the /sploits directory | https://github.com/offensive-security/exploitdb-bin-sploits | 1293 | 459| 
-| 20200919T00:48:20Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 5 | 2| 
-| 20200919T00:44:09Z | Sifter is a OSINT, recon & vulnerability scanner. It incorporates a plethara of tools within different module sets that tries to cover every attack vector. Allowing you to quickly perform recon tasks and organize the results in one place. From OSINT to Recon, Exploitation, Post-Exploitation, OpSec, Threat Analysis, XSS, SQLinjection, Network Scanning, WebApp Analysis or DNS enumeration.. Sifter should be able to cover it all. | https://github.com/s1l3nt78/sifter | 247 | 77| 
-| 20200919T00:34:45Z | Null | https://github.com/archsploit/packages-exploitation | 0 | 0| 
-| 20200919T00:24:50Z | OWASP Benchmark is a test suite designed to verify the speed and accuracy of software vulnerability detection tools. A fully runnable web app written in Java, it supports analysis by Static (SAST), Dynamic (DAST), and Runtime (IAST) tools that support Java. The idea is that since it is fully runnable and all the vulnerabilities are actually exploitable, it’s a fair test for any kind of vulnerability detection tool.  For more details on this project, please see the OWASP Benchmark Project home page. | https://github.com/OWASP/Benchmark | 286 | 189| 
-| 20200918T23:46:20Z | Vulnerabilities, security advisories, exploit codes and proof-of-concept codes. | https://github.com/zeroscience/advisory | 4 | 4| 
+| 20200919T11:59:39Z | Null | https://github.com/FuflyPaladium/exploitcraftlauncher.github.io | 0 | 0| 
+| 20200919T11:53:19Z | uwu | https://github.com/FuflyPaladium/ExploitCraftLauncher | 0 | 0| 
+| 20200919T11:52:13Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 7259 | 1189| 
+| 20200919T11:50:54Z | Mouse Framework is an iOS and macOS post-exploitation framework that gives you a command line session with extra functionality between you and a target machine using only a simple Mouse payload. Mouse gives you the power and convenience of uploading and downloading files, tab completion, taking pictures, location tracking, shell command execution, escalating privileges, password retrieval, and much more. | https://github.com/entynetproject/mouse | 181 | 72| 
+| 20200919T11:27:38Z | Storm Framework is a Windows post-exploitation framework that exploits Windows PowerShell vulnerability to get shell-like connection. Storm Framework has the ability to generate simple payloads to provide Windows PowerShell attack.  | https://github.com/entynetproject/storm | 3 | 1| 
+| 20200919T11:22:39Z | Ghost Framework is an Android post-exploitation framework that exploits the Android Debug Bridge to remotely access an Android device. Ghost Framework gives you the power and convenience of remote Android device administration. | https://github.com/entynetproject/ghost | 708 | 362| 
+| 20200919T10:57:43Z | Null | https://github.com/DeanOGHub/ExploitDEPBypass | 0 | 0| 
+| 20200919T10:35:12Z | Advanced Exploit Mitigation Paper | https://github.com/CxVercility/Windows-Internals | 0 | 0| 
+| 20200919T10:27:12Z | this bash script let you download scripts and clone repos for remote exploits | https://github.com/FabioDefilippo/linuxallremote | 5 | 0| 
+| 20200919T09:51:30Z | :skull_and_crossbones: Delightful Node.js packages useful for penetration testing, exploiting, reverse engineer, cryptography ... | https://github.com/jesusprubio/awesome-nodejs-pentest | 279 | 42| 
 
 
 # backdoor on Github 推荐
@@ -121,16 +121,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20200919T01:56:23Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 957 | 49| 
-| 20200919T01:50:15Z | Null | https://github.com/JackiyWu/fuzzy_sentiment | 0 | 0| 
-| 20200919T01:37:21Z | An automated tool for finding hidden files and directories within a web server using a fuzzing technique, allowing further attack vendors to be found. | https://github.com/vent-lab/URL-Fuzzer | 0 | 0| 
-| 20200919T00:59:56Z | Unsupervised coverage-guided btrfs fuzzer | https://github.com/danobi/btrfs-fuzz | 0 | 0| 
-| 20200919T00:33:50Z | Null | https://github.com/olegsych/fuzzy | 0 | 0| 
-| 20200919T00:27:40Z | A personal web fuzzer | https://github.com/n0obit4/Fuzzpy | 0 | 0| 
-| 20200919T00:23:08Z | jQuery plugin for fuzzy search in autocomplete | https://github.com/aliask/fuzzycomplete | 15 | 6| 
-| 20200918T23:21:53Z | Experimental projects | https://github.com/tannmatter/fuzzy-happiness | 0 | 0| 
-| 20200918T23:13:27Z | Fuzzing on ZigBee Protocol Implementation | https://github.com/zigbeeprotocol/Z-Fuzzer | 1 | 0| 
-| 20200918T23:11:08Z | My codes for ECE 624 - Fuzzy Sets in Human-Centric Systems, University of Alberta. | https://github.com/JokyLee/fuzzyset | 0 | 0| 
+| 20200919T11:20:47Z | fuzzygit aims to ease the usage of common git commands by applying a simple interactive interface based on https://github.com/junegunn/fzf. | https://github.com/DennisBayer/fuzzygit | 1 | 0| 
+| 20200919T11:15:23Z | dharma grammars used for fuzzing libyang | https://github.com/sartura/dharma-libyang | 0 | 0| 
+| 20200919T11:12:04Z | AFL++ as a library: gives you all the tools necessary to craft the best fuzzer for your targets with ease! | https://github.com/AFLplusplus/LibAFL | 86 | 3| 
+| 20200919T10:36:34Z | Null | https://github.com/vrthra/bFuzzer | 0 | 0| 
+| 20200919T10:30:37Z | Personal website of Laurence Hughes | https://github.com/fuzzylogicxx/fuzzylogic | 4 | 1| 
+| 20200919T10:17:12Z | Simple script to search for open S3 buckets | https://github.com/zentoid/s3_search_fuzzer | 0 | 0| 
+| 20200919T09:55:38Z | 30 Days VS Javascript  | https://github.com/panvicka/fuzzy-meme | 0 | 0| 
+| 20200919T06:53:34Z | Null | https://github.com/Ishaan29/fuzzy-chainsaw-algo | 1 | 0| 
+| 20200919T06:34:24Z | Collection of quality safety articles | https://github.com/tom0li/collection-document | 1223 | 403| 
+| 20200919T06:19:15Z | This repo is under process.. | https://github.com/themastersunil/Fuzzing | 1 | 0| 
 
 
 
