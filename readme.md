@@ -24,12 +24,14 @@
 | 20200919T21:27:41Z | CVE-2020-1472 | A simple implementation/code smash of a bunch of other repos | https://github.com/midpipps/CVE-2020-1472-Easy | 当攻击者使用Netlogon远程协议（MS-NRPC）（又称为“ Netlogon特权提升漏洞”）建立与域控制器的易受攻击的Netlogon安全通道连接时，将存在特权提升漏洞。| 
 | 20200919T15:29:14Z | CVE-2020-0796 | Null | https://github.com/rsmudge/CVE-2020-0796-BOF | Microsoft服务器消息块3.1.1（SMBv3）协议处理某些请求的方式中存在一个远程执行代码漏洞，也称为“ Windows SMBv3客户端/服务器远程执行代码漏洞”。| 
 | 20200919T09:46:32Z | CVE-2020-1472 | Test script for CVE-2020-1472 for both RPC/TCP and RPC/SMB | https://github.com/zeronetworks/zerologon | 当攻击者使用Netlogon远程协议（MS-NRPC）（又称为“ Netlogon特权提升漏洞”）建立与域控制器的易受攻击的Netlogon安全通道连接时，将存在特权提升漏洞。| 
-| 20200919T07:40:14Z | CVE-2020-24765 | Null | https://github.com/trump88/CVE-2020-24765 | | 
+| 20200919T07:40:14Z | CVE-2020-24765 | Null | https://github.com/trump88/CVE-2020-24765 | 未查询到CVE信息| 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20200919T19:02:06Z | The compiler inputs a PDDL benchmark of the Carpark planning problem and converts it to an equivalent C code which is used for solving the planning problem by program verification tools such as KLEE/TracerX. | https://github.com/daneshvar-amrollahi/Carpark-PDDL2C | 0 | 0| 
+| 20200919T18:00:39Z | RVT is a collection of tools/libraries to support both static and dynamic verification of Rust programs. | https://github.com/project-oak/rust-verification-tools | 83 | 4| 
 
 
 # s2e on Github 推荐
@@ -40,16 +42,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20200919T12:59:20Z | Null | https://github.com/quentin452/Cats-Exploitz-HUB | 0 | 1| 
-| 20200919T12:43:11Z | Joomla Component com_fabrik Arbitrary File Upload Author: Et04 & bL@cKID  Google Dork inurl:/index.php?option=com_fabrik  Auto Exploiter (Auto Upload & Auto Submit Zone-H) Coded by: L0c4lh34rtz - IndoXploit | https://github.com/GhostOffensive/Com_FabrikAFU | 1 | 0| 
-| 20200919T12:36:52Z | Null | https://github.com/Abhaysoft-inc/exploiter | 0 | 0| 
-| 20200919T12:19:45Z | A faithful recreation of the Windows 96 exploitation system. | https://github.com/beurkinger/windows-96 | 0 | 0| 
-| 20200919T11:59:39Z | Null | https://github.com/FuflyPaladium/exploitcraftlauncher.github.io | 0 | 0| 
-| 20200919T11:53:19Z | uwu | https://github.com/FuflyPaladium/ExploitCraftLauncher | 0 | 0| 
-| 20200919T11:52:13Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 7259 | 1189| 
-| 20200919T11:50:54Z | Mouse Framework is an iOS and macOS post-exploitation framework that gives you a command line session with extra functionality between you and a target machine using only a simple Mouse payload. Mouse gives you the power and convenience of uploading and downloading files, tab completion, taking pictures, location tracking, shell command execution, escalating privileges, password retrieval, and much more. | https://github.com/entynetproject/mouse | 181 | 72| 
-| 20200919T11:27:38Z | Storm Framework is a Windows post-exploitation framework that exploits Windows PowerShell vulnerability to get shell-like connection. Storm Framework has the ability to generate simple payloads to provide Windows PowerShell attack.  | https://github.com/entynetproject/storm | 3 | 1| 
-| 20200919T11:22:39Z | Ghost Framework is an Android post-exploitation framework that exploits the Android Debug Bridge to remotely access an Android device. Ghost Framework gives you the power and convenience of remote Android device administration. | https://github.com/entynetproject/ghost | 708 | 362| 
+| 20200919T23:52:38Z | Hi, we%re back again. I%m releasing this new method because literally, we all know it%s going to be fixed within 24 hours. So have fun. | https://github.com/Yaekith/ServerOutageExploitV3 | 5 | 4| 
+| 20200919T23:50:44Z | Popular Pentesting scanner in Python3.6 for SQLi/XSS/LFI/RFI and other Vulns | https://github.com/v3n0m-Scanner/V3n0M-Scanner | 764 | 318| 
+| 20200919T23:46:46Z | Null | https://github.com/HideakiAtsuyo/Yaekith-ServerOutageExploitV3 | 0 | 0| 
+| 20200919T23:15:37Z | Custom version of the original Overthrow.  Bugs squashed and squashing, exploits punishable by death, new businesses plus much more, oh and high steriod use by the AI ;) Discord link  https://discord.gg/ZdMMq9x | https://github.com/GerhartPapaGee/Overthrow-Martial-Law | 0 | 1| 
+| 20200919T23:13:32Z | This script runs powershell by which you can downloads many ps1 scripts and use many utilities for enumeration, privilege escalation and much more | https://github.com/FabioDefilippo/winallenum | 1 | 0| 
+| 20200919T22:40:16Z | A discord server outage exploit, found by iLinked, that we abused until it got fixed this morning. | https://github.com/Yaekith/ServerOutageExploitV1 | 0 | 0| 
+| 20200919T22:34:55Z | A new server outage exploit that was found yesterday and then fixed today as discord added a ratelimit. | https://github.com/Yaekith/ServerOutageExploitV2 | 4 | 0| 
+| 20200919T22:31:15Z | Zerologon Exploit , CVE-2020-1472 | https://github.com/batmanli61/Zerologon | 0 | 0| 
+| 20200919T22:12:50Z | CS 373 - Defense Against the Dark Arts  I used a python script to create a .m3u file that crashes the RealPlayer software due to stack overflow. I used python instead of perl and Immunity Debugger with the Mona plugin, rather than Metasploit. Enjoy the video  This is very similar to the very well know exploitation done by the corelan team: https://www.corelan.be/index.php/2009/07/19/exploit-writing-tutorial-part-1-stack-based-overflows/ | https://github.com/PembleC/WindowsXP_Exploit | 0 | 0| 
+| 20200919T21:58:22Z | Null | https://github.com/quentin452/Cats-Exploitz-HUB | 0 | 1| 
 
 
 # backdoor on Github 推荐
