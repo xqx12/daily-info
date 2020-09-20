@@ -31,43 +31,43 @@
 # 安全维基 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20200920 | RASP攻防 —— RASP安全应用与局限性浅析 | https://mp.weixin.qq.com/s/pjZDWG0YT9dxtNyO1g8ISw| 
+| 20200920 | 通过一封钓鱼邮件溯源分析背后的产业链 | https://mp.weixin.qq.com/s/G9qwMTBznSlMNQSCqvAyWg| 
+| 20200920 | 中国网络版权产业发展报告（2019） | https://ncstatic.clewm.net/rsrc/2020/0916/13/0730595a715d9981490a9605154ca231.pptx| 
+| 20200920 | 从僵⼫⽹络谈公有云威胁检测 | https://static.cdxy.me/DataCon-2020-bonet-share20200920-lezhen.pdf| 
+| 20200920 | 解密俄罗斯情报机构 | https://mp.weixin.qq.com/s/OPvkERr3Ox_OvnbimhZqnA| 
+| 20200920 | DataCon2020 僵尸网络追踪第三题writeup | https://zhuanlan.zhihu.com/p/186948840| 
+| 20200920 | 用麒麟框架深入分析实模式二进制文件 | https://mp.weixin.qq.com/s/cMVpMCdlvC-yVMP5COZjfw| 
 | 20200918 | 自定义PoC配合插件怎么玩？ | https://mp.weixin.qq.com/s/dQau-s0FoieXrMW3EAnSEQ| 
 | 20200918 | HackBrowserData: 全平台运行的浏览器数据导出解密工具 | https://github.com/moonD4rk/HackBrowserData| 
 | 20200918 | 威胁事件告警分析技巧及处置（二） | https://mp.weixin.qq.com/s/2oRtUkJBUwtWEWf4bm2PrQ| 
-| 20200918 | 威胁事件告警分析技巧及处置（一） | https://mp.weixin.qq.com/s/vgLs2H46YH2ClVgKtCWN8Q| 
-| 20200918 | CVE-2020-14364 QEMU逃逸 漏洞分析 (含完整EXP) | https://mp.weixin.qq.com/s/MQyczZXRfOsIQewNf7cfXw| 
-| 20200917 | 从IOC的一些真相谈对其的评价标准 | https://mp.weixin.qq.com/s/95jB4DfaXau6NDotNSpwdA| 
-| 20200917 | Linux系统中APT攻击总结 | https://mp.weixin.qq.com/s/HK3TlJQSrUtxoXl9HG6ORA| 
-| 20200916 | 如何利用Goby进行外围打点 | https://mp.weixin.qq.com/s/3JWq4aO6KvMABKH2Q8jGIw| 
-| 20200916 | 中国大陆信息网络安全学术研究的影响力分析 | http://www.sicris.cn/CN/abstract/abstract822.shtml| 
-| 20200916 | 2020中国网络安全产业分析报告 | https://mp.weixin.qq.com/s/0aikqrvyt-YODDy8D6qj5Q| 
 
 
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20200920T01:38:25Z | CVE-2020-1472 | Test tool for CVE-2020-1472 | https://github.com/SecuraBV/CVE-2020-1472 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 00 MINUTES 19 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200920T11:03:56Z | CVE-2020-1472 | Test tool for CVE-2020-1472 | https://github.com/SecuraBV/CVE-2020-1472 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 59 MINUTES 05 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200920T10:56:09Z | cve-2020-1472 | Exploit for zerologon cve-2020-1472 | https://github.com/risksense/zerologon | 未查询到CVE信息| 
+| 20200920T10:37:03Z | 未知编号 | Null | https://github.com/dima5455/CVE2020 | | 
+| 20200920T03:27:49Z | CVE-2020-1472 | Exploit Code for CVE-2020-1472 aka Zerologon | https://github.com/VoidSec/CVE-2020-1472 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 59 MINUTES 07 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200920T03:14:51Z | CVE-2020-1472 |  CVE-2020-1472复现时使用的py文件整理打包 | https://github.com/sv3nbeast/CVE-2020-1472 | | 
 | 20200920T00:28:07Z | CVE-2020-0796 | Null | https://github.com/rsmudge/CVE-2020-0796-BOF | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 00 MINUTES 23 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200919T23:15:54Z | CVE-2020-1472 | Null | https://github.com/hectorgie/CVE-2020-1472 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 00 MINUTES 32 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200919T22:31:15Z | CVE-2020-1472 | Zerologon Exploit , CVE-2020-1472 | https://github.com/batmanli61/Zerologon | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 00 MINUTES 31 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200919T22:25:16Z | CVE-2020-1472 | Exploit Code for CVE-2020-1472 aka Zerologon | https://github.com/VoidSec/CVE-2020-1472 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 00 MINUTES 21 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200919T22:17:38Z | cve-2020-1472 | Exploit for zerologon cve-2020-1472 | https://github.com/risksense/zerologon | 未查询到CVE信息| 
-| 20200919T21:27:41Z | CVE-2020-1472 | A simple implementation/code smash of a bunch of other repos | https://github.com/midpipps/CVE-2020-1472-Easy | | 
-| 20200919T09:46:32Z | CVE-2020-1472 | Test script for CVE-2020-1472 for both RPC/TCP and RPC/SMB | https://github.com/zeronetworks/zerologon | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 00 MINUTES 25 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200919T07:40:14Z | CVE-2020-24765 | Null | https://github.com/trump88/CVE-2020-24765 | | 
-| 20200918T15:18:24Z | CVE-2020-6287 | [CVE-2020-6287] SAP NetWeaver AS JAVA (LM Configuration Wizard) Authentication Bypass (Create Simple & Administrator Java User) | https://github.com/murataydemir/CVE-2020-6287 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 00 MINUTES 18 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200919T23:15:54Z | CVE-2020-1472 | Null | https://github.com/hectorgie/CVE-2020-1472 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 58 MINUTES 30 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200919T22:31:15Z | CVE-2020-1472 | Zerologon Exploit , CVE-2020-1472 | https://github.com/batmanli61/Zerologon | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 58 MINUTES 29 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200919T21:27:41Z | CVE-2020-1472 | A simple implementation/code smash of a bunch of other repos | https://github.com/midpipps/CVE-2020-1472-Easy | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 58 MINUTES 28 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200919T09:46:32Z | CVE-2020-1472 | Test script for CVE-2020-1472 for both RPC/TCP and RPC/SMB | https://github.com/zeronetworks/zerologon | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 58 MINUTES 22 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20200919T19:02:06Z | The compiler inputs a PDDL benchmark of the Carpark planning problem and converts it to an equivalent C code which is used for solving the planning problem by program verification tools such as KLEE/TracerX. | https://github.com/daneshvar-amrollahi/Carpark-PDDL2C | 0 | 0| 
+| 20200920T08:30:06Z | The compiler inputs a PDDL benchmark of the Carpark planning problem and converts it to an equivalent C code which is used for solving the planning problem by program verification tools such as KLEE/TracerX. | https://github.com/daneshvar-amrollahi/Carpark-PDDL2C | 0 | 0| 
+| 20200920T03:14:25Z | Null | https://github.com/CharlesKleeven/CharlesKleeven.github.io | 0 | 0| 
 | 20200919T18:00:39Z | RVT is a collection of tools/libraries to support both static and dynamic verification of Rust programs. | https://github.com/project-oak/rust-verification-tools | 83 | 4| 
 | 20200918T16:37:41Z | Assets to be used for linking and Gists | https://github.com/lahiri-phdworks/Assets | 0 | 0| 
 | 20200918T12:42:36Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1509 | 458| 
 | 20200918T08:23:31Z | Algorithme pour tester les regex de Kleene sur des chaines de caractères | https://github.com/TP-TD-Informatique/Kleene | 0 | 0| 
 | 20200918T07:49:15Z | Kleene algebra, regular expressions | https://github.com/phadej/kleene | 26 | 1| 
-| 20200917T06:07:13Z | Null | https://github.com/CharlesKleeven/CharlesKleeven.github.io | 0 | 0| 
 | 20200916T20:18:51Z | Urban Evidence Based Policy (SPPA667) | https://github.com/KLeeDE/PUS2020_KLee | 0 | 0| 
 | 20200916T19:14:57Z | Create CFGs and compute complexity metrics for Python, C++, and Java code. | https://github.com/hmc-alpaqa/metrinome | 4 | 0| 
 | 20200915T12:37:48Z | Symbiotic is a tool for finding bugs in computer programs based on instrumentation, program slicing and KLEE | https://github.com/staticafi/symbiotic | 195 | 33| 
@@ -76,6 +76,7 @@
 # s2e on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20200920T05:38:08Z | Q. Yao, H. Yang, B. Han, G. Niu, J. Kwok. Searching to Exploit Memorization Effect in Learning from Noisy Labels. International Conference on Machine Learning (ICML) 2020 | https://github.com/AutoML-4Paradigm/S2E | 11 | 2| 
 | 20200915T13:53:05Z | Compiler for S2Engine architecure , an CNN accelerator | https://github.com/BUAA-CI-Lab/S2EngineCompiler | 0 | 0| 
 | 20200915T13:40:24Z | Simulator for S2Engine architucture , a CNN accelerator | https://github.com/BUAA-CI-Lab/S2EngineSimulator | 0 | 0| 
 | 20200915T10:44:55Z | cicd logic and gitlab&github runner&jenkins agent container, centos base ,whith jdk/python/go, maven/npm,/kubectl/helm | https://github.com/chimeh/cicd-s2e-runner | 0 | 0| 
@@ -85,22 +86,21 @@
 | 20200910T05:02:01Z | This is the main S2E repository. Visit https://s2e.systems/docs to get started. | https://github.com/S2E/s2e | 57 | 18| 
 | 20200905T08:38:26Z | Performance analyzer for logs generated from violet S2E plugin | https://github.com/OrderLab/violet-trace-analyzer | 0 | 0| 
 | 20200905T07:40:31Z | Custom S2E plugins for Violet project | https://github.com/OrderLab/violet-s2e-plugins | 0 | 0| 
-| 20200904T11:57:45Z | Q. Yao, H. Yang, B. Han, G. Niu, J. Kwok. Searching to Exploit Memorization Effect in Learning from Noisy Labels. International Conference on Machine Learning (ICML) 2020 | https://github.com/AutoML-4Paradigm/S2E | 10 | 2| 
 
 
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20200920T01:48:01Z | Open Source Roblox Exploit | https://github.com/Vyperium-Group/Vyperium-Lite-Exploit | 2 | 0| 
-| 20200920T01:33:50Z | this repository contains some notes and tips for exploit development and shellcoding and reverse engineering , it can be useful for those who are interested in these topics or preparing for oscp,osce exam | https://github.com/omarwhadidi/exploit_development | 0 | 0| 
-| 20200920T01:26:07Z | Null | https://github.com/quentin452/Cats-Exploitz-HUB | 0 | 1| 
-| 20200920T00:44:48Z | Tool Bash para automatizar y penetrar fallas de SQL en sitios webs. | https://github.com/byteSalgado/web-exploit | 0 | 0| 
-| 20200920T00:42:31Z | Metasploit Utilities, Post Exploit Scripts and other scripts primarily for reference | https://github.com/reg1reg1/Exploits | 0 | 0| 
-| 20200920T00:28:32Z | Hi, we%re back again. I%m releasing this new method because literally, we all know it%s going to be fixed within 24 hours. So have fun. | https://github.com/Yaekith/ServerOutageExploitV3 | 5 | 4| 
-| 20200920T00:23:17Z | This script runs powershell by which you can downloads many ps1 scripts and use many utilities for enumeration, privilege escalation and much more | https://github.com/FabioDefilippo/winallenum | 1 | 0| 
-| 20200919T23:50:44Z | Popular Pentesting scanner in Python3.6 for SQLi/XSS/LFI/RFI and other Vulns | https://github.com/v3n0m-Scanner/V3n0M-Scanner | 764 | 318| 
-| 20200919T23:46:46Z | Null | https://github.com/HideakiAtsuyo/Yaekith-ServerOutageExploitV3 | 0 | 0| 
-| 20200919T23:15:37Z | Custom version of the original Overthrow.  Bugs squashed and squashing, exploits punishable by death, new businesses plus much more, oh and high steriod use by the AI ;) Discord link  https://discord.gg/ZdMMq9x | https://github.com/GerhartPapaGee/Overthrow-Martial-Law | 0 | 1| 
+| 20200920T11:46:35Z | The energy system transformation is facing the challenge of increasing decentralised renewable energy injec-tion into an infrastructure originally laid out for centralised, dispatchable power generation. Due to limited transmission capacity and flexibility, large amounts of renewable electricity are curtailed. In this paper,we assess how Power-to-Gas facilities can provide spatial and temporal flexibility by shifting pressure fromthe electricity grid to the gas infrastructure. For this purpose, we propose a two-stage model incorporating the day-head spot market and subsequent redispatch. We introduce Power-to-Gas as a redispatch optionand apply the model to the German electricity system. Instead of curtailing renewable electricity, syntheticn atural gas can be produced and injected into the gas grid for later usage. Results show a reduction on curtailment of renewables by 12 % through installing Power-to-Gas at a small set of nodes frequently facingcurtailment. With the benefits of decentralised synthetic natural gas injection and usage, we exploit theadvantages of coupling the two energy systems. The introduction of Power-to-Gas provides flexibility to the electricity system, while contributing to a higher effective utilisation of renewable energy sources as well as the natural gas grid. | https://github.com/bobbyxiong/redispatch-ptg | 0 | 0| 
+| 20200920T11:35:10Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 7261 | 1190| 
+| 20200920T11:27:07Z | Github Pages | https://github.com/conan-exploits/conan-exploits.github.io | 1 | 0| 
+| 20200920T11:03:22Z | Sifter is a OSINT, recon & vulnerability scanner. It incorporates a plethara of tools within different module sets that tries to cover every attack vector. Allowing you to quickly perform recon tasks and organize the results in one place. From OSINT to Recon, Exploitation, Post-Exploitation, OpSec, Threat Analysis, XSS, SQLinjection, Network Scanning, WebApp Analysis or DNS enumeration.. Sifter should be able to cover it all. | https://github.com/s1l3nt78/sifter | 248 | 78| 
+| 20200920T10:53:22Z | Note.com vulnerable API that allows you to bruteforce | https://github.com/kkent030315/NOTE.COM-EXPLOIT-2020 | 0 | 0| 
+| 20200920T10:51:01Z | A vulnerable API that allows you to bruteforce without getting limited. | https://github.com/kkent030315/ESL-Exploit-2020 | 0 | 0| 
+| 20200920T10:19:48Z | I%m The Owner & Creator Of This Project, This Was Made In  | https://github.com/0205-Admin/Intermediate-Discord-private-Channels-Exploit | 1 | 0| 
+| 20200920T10:16:39Z | This repository will be a collection of all the exploits that can be used for exploiting vulnerabilities. Proper write up for all the exploit is mandatory*** | https://github.com/aravinddathd/ExpolitDatabase | 0 | 0| 
+| 20200920T10:07:05Z | Null | https://github.com/AravGarg/cpp-exploitation | 0 | 0| 
+| 20200920T09:55:00Z | Jing Lou*, Huan Wang, Longtao Chen, Fenglei Xu, Qingyuan Xia, Wei Zhu, Mingwu Ren*, %Exploiting Color Name Space for Salient Object Detection,% Multimedia Tools and Applications, vol. 79, no. 15, pp. 10873-10897, 2020. doi:10.1007/s11042-019-07970-x | https://github.com/jinglou/p2019-cns-sod | 0 | 0| 
 
 
 # backdoor on Github 推荐
@@ -121,16 +121,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20200919T23:51:45Z | Fuzzy finder for a collection of pdf files | https://github.com/MarioJim/fuzzy-pdf | 0 | 0| 
-| 20200919T23:45:25Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 1174 | 61| 
-| 20200919T22:29:42Z | Null | https://github.com/JohnPeng47/fuzz_emus | 0 | 0| 
-| 20200919T22:28:14Z | Null | https://github.com/fuzzylogicxx/fuzzy-emergency | 0 | 0| 
-| 20200919T21:38:03Z | Personal website of Laurence Hughes | https://github.com/fuzzylogicxx/fuzzylogic | 4 | 1| 
-| 20200919T21:34:44Z | Null | https://github.com/vrthra/bFuzzer | 0 | 0| 
-| 20200919T21:17:54Z | Fuzzy Kingdom Minecraft Server | https://github.com/HyenaLtd/FuzzyKingdomMC | 0 | 0| 
-| 20200919T21:17:11Z | An automated tool for finding hidden files and directories within a web server using a fuzzing technique, allowing further attack vendors to be found. | https://github.com/vent-lab/URL-Fuzzer | 0 | 0| 
-| 20200919T21:01:06Z | FuzzBench - Fuzzer benchmarking as a service. | https://github.com/google/fuzzbench | 525 | 79| 
-| 20200919T20:46:01Z | Null | https://github.com/mregungor/fuzzyKNN-EOG-region-detection-for-VR | 0 | 0| 
+| 20200920T11:41:38Z | Fuzzy Logic Implementation - Java | https://github.com/encepsuryana/Fuzzy-Logic | 0 | 0| 
+| 20200920T11:30:18Z | Null | https://github.com/victomteng1997/RESTAPI_Fuzzer | 0 | 0| 
+| 20200920T10:21:07Z | a string fuzzy search algorithm implementation | https://github.com/IWANABETHATGUY/fuzzy-search | 0 | 0| 
+| 20200920T09:14:18Z | Tools and workflows for fuzz testing | https://github.com/LeastAuthority/lafuzz | 0 | 0| 
+| 20200920T09:07:09Z | Null | https://github.com/noloerino/eye-fuzz | 0 | 0| 
+| 20200920T08:16:44Z | Library to wrap all file calls when fuzzing with AFL++ | https://github.com/marekzmyslowski/libfiowrapper | 31 | 2| 
+| 20200920T08:16:04Z | Fuzzy finder for a collection of pdf files | https://github.com/MarioJim/fuzzy-pdf | 0 | 0| 
+| 20200920T08:04:29Z | A framework provides an interface to monitor and control fuzzers | https://github.com/pzread/fuzvisor | 26 | 0| 
+| 20200920T05:54:40Z | A fast/stable directory fuzzer. | https://github.com/r1skdev/dirfaster | 0 | 0| 
+| 20200920T04:01:26Z | Null | https://github.com/olegsych/fuzzy | 0 | 0| 
 
 
 
