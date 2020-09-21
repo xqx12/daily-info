@@ -106,16 +106,16 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20200921T09:34:00Z | A PHP backdoor management and generation tool/C2 featuring end to end encrypted payload streaming designed to bypass WAF, IDS, SIEM systems. | https://github.com/gellin/bantam | 124 | 11| 
+| 20200921T05:26:20Z | Ghost Framework is an Android post-exploitation framework that exploits the Android Debug Bridge to remotely access an Android device. Ghost Framework gives you the power and convenience of remote Android device administration. | https://github.com/entynetproject/ghost | 711 | 362| 
+| 20200921T04:38:42Z | Null | https://github.com/SRX-YT/SimpleBackdoor | 0 | 0| 
 | 20200921T00:22:07Z | A Backdoor written in Python 3 that enables the attacker to execute commands on the remote machine being undetectable. | https://github.com/Ryan-AW/Backdoor-Trojan | 1 | 0| 
 | 20200920T18:26:08Z | Null | https://github.com/Jabster28/node-backdoor | 0 | 0| 
 | 20200920T18:21:54Z | shell backdoor | https://github.com/rizkipoloyo/shell | 0 | 0| 
 | 20200920T17:52:11Z | Just a simple backdoor with custom listener. | https://github.com/TheRavehorn/Simple-Backdoor | 0 | 0| 
 | 20200920T15:00:16Z | Hacking tools pack & backdoors generator. | https://github.com/AdrMXR/KitHack | 164 | 39| 
-| 20200920T14:36:24Z | Ghost Framework is an Android post-exploitation framework that exploits the Android Debug Bridge to remotely access an Android device. Ghost Framework gives you the power and convenience of remote Android device administration. | https://github.com/entynetproject/ghost | 710 | 362| 
-| 20200920T13:06:49Z | A PHP backdoor management and generation tool/C2 featuring end to end encrypted payload streaming designed to bypass WAF, IDS, SIEM systems. | https://github.com/gellin/bantam | 121 | 11| 
 | 20200920T11:39:54Z | Full-featured C2 framework which silently persists on webserver via evil PHP oneliner :smiling_imp: | https://github.com/nil0x42/phpsploit | 1005 | 306| 
 | 20200920T08:45:56Z | Null | https://github.com/iK4oS/PremiumBackdoor.exe | 0 | 0| 
-| 20200920T02:27:44Z | Backdoor Feito em C | https://github.com/Kripto-Sec/Cbackdoor | 3 | 0| 
 
 
 # fuzz on Github 推荐
