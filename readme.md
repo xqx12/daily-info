@@ -57,10 +57,10 @@
 | 20200920T23:25:26Z | Metasploit Utilities, Post Exploit Scripts and other scripts primarily for reference | https://github.com/reg1reg1/Exploits | 0 | 0| 
 | 20200920T23:20:55Z | Blog! | https://github.com/nonetype/nonetype.github.io | 0 | 0| 
 | 20200920T22:35:05Z | Advanced dork Search & Mass Exploit Scanner | https://github.com/AlisamTechnology/ATSCAN | 698 | 286| 
-| 20200920T22:28:13Z | Null | https://github.com/quentin452/Cats-Exploitz-HUB | 0 | 1| 
 | 20200920T22:16:34Z | A faithful recreation of the Windows 96 exploitation system. | https://github.com/beurkinger/windows-96 | 0 | 0| 
 | 20200920T21:03:07Z | A python script file to remotely analyse and exploit Microsoft Windows system via impacket. | https://github.com/BroadbentT/WIN-MASTER | 13 | 10| 
 | 20200920T20:37:05Z | Albatar is a SQLi exploitation framework in Python | https://github.com/lanjelot/albatar | 90 | 27| 
+| 20200920T20:35:10Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 7261 | 1192| 
 
 
 # backdoor on Github 推荐
