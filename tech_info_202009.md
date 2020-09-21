@@ -54,7 +54,7 @@
 | 20200920T03:27:49Z | CVE-2020-1472 | Exploit Code for CVE-2020-1472 aka Zerologon | https://github.com/VoidSec/CVE-2020-1472 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 00 MINUTES 20 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20200920T03:14:51Z | CVE-2020-1472 |  CVE-2020-1472复现时使用的py文件整理打包 | https://github.com/sv3nbeast/CVE-2020-1472 | 当攻击者使用Netlogon远程协议（MS-NRPC）（又称为“ Netlogon特权提升漏洞”）建立与域控制器的易受攻击的Netlogon安全通道连接时，将存在特权提升漏洞。| 
 | 20200920T00:28:07Z | CVE-2020-0796 | Null | https://github.com/rsmudge/CVE-2020-0796-BOF | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 00 MINUTES 23 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200919T23:15:54Z | CVE-2020-1472 | Null | https://github.com/hectorgie/CVE-2020-1472 | | 
+| 20200919T23:15:54Z | CVE-2020-1472 | Null | https://github.com/hectorgie/CVE-2020-1472 | 当攻击者使用Netlogon远程协议（MS-NRPC）（又称为“ Netlogon特权提升漏洞”）建立与域控制器的易受攻击的Netlogon安全通道连接时，将存在特权提升漏洞。| 
 | 20200919T22:31:15Z | CVE-2020-1472 | Zerologon Exploit , CVE-2020-1472 | https://github.com/batmanli61/Zerologon | 当攻击者使用Netlogon远程协议（MS-NRPC）（又称为“ Netlogon特权提升漏洞”）建立与域控制器的易受攻击的Netlogon安全通道连接时，将存在特权提升漏洞。| 
 
 
@@ -91,6 +91,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20200921T00:02:06Z | Collection of Multi-platform Scripts for Rubber Ducky that exploit the css webkit filter attack to crash Internet Explorer, Edge or Safari, crashing the target machine Compatibility: Windows - MacOs - Linux (Ubuntu) | https://github.com/JonnyBanana/DUCKY_REAPER | 9 | 10| 
 | 20200920T23:56:58Z | Null | https://github.com/Zellix67/discord-exploit | 0 | 0| 
 | 20200920T23:55:13Z | A Simple Script for Rubber Ducky which Exploits Windows $MFT Vulnerability | https://github.com/JonnyBanana/-MFT-Duck-Crasher | 12 | 9| 
 | 20200920T23:46:48Z | this repository contains some notes and tips for exploit development and shellcoding and reverse engineering , it can be useful for those who are interested in these topics or preparing for oscp,osce exam | https://github.com/omarwhadidi/exploit_development | 0 | 0| 
@@ -100,7 +101,6 @@
 | 20200920T22:28:13Z | Null | https://github.com/quentin452/Cats-Exploitz-HUB | 0 | 1| 
 | 20200920T22:16:34Z | A faithful recreation of the Windows 96 exploitation system. | https://github.com/beurkinger/windows-96 | 0 | 0| 
 | 20200920T21:03:07Z | A python script file to remotely analyse and exploit Microsoft Windows system via impacket. | https://github.com/BroadbentT/WIN-MASTER | 13 | 10| 
-| 20200920T20:37:05Z | Albatar is a SQLi exploitation framework in Python | https://github.com/lanjelot/albatar | 90 | 27| 
 
 
 # backdoor on Github 推荐
