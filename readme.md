@@ -25,7 +25,7 @@
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
 | 20200920T20:47:52Z | cve-2020-1472 | Exploit for zerologon cve-2020-1472 | https://github.com/risksense/zerologon | 未查询到CVE信息| 
-| 20200920T19:19:37Z | cve-2020-5410 | Null | https://github.com/mugisyahid/ki-vuln-cve-2020-5410 | | 
+| 20200920T19:19:37Z | cve-2020-5410 | Null | https://github.com/mugisyahid/ki-vuln-cve-2020-5410 | 未查询到CVE信息| 
 | 20200920T13:53:23Z | cve-2020-1472 | Null | https://github.com/johnpathe/zerologon-cve-2020-1472-notes | 未查询到CVE信息| 
 | 20200920T12:12:23Z | CVE-2020-1472 | Test tool for CVE-2020-1472 | https://github.com/SecuraBV/CVE-2020-1472 | | 
 | 20200920T10:37:03Z | 未知编号 | Null | https://github.com/dima5455/CVE2020 | 未查询到CVE信息| 
@@ -53,13 +53,13 @@
 | 20200920T23:56:58Z | Null | https://github.com/Zellix67/discord-exploit | 0 | 0| 
 | 20200920T23:55:13Z | A Simple Script for Rubber Ducky which Exploits Windows $MFT Vulnerability | https://github.com/JonnyBanana/-MFT-Duck-Crasher | 12 | 9| 
 | 20200920T23:46:48Z | this repository contains some notes and tips for exploit development and shellcoding and reverse engineering , it can be useful for those who are interested in these topics or preparing for oscp,osce exam | https://github.com/omarwhadidi/exploit_development | 0 | 0| 
-| 20200920T23:25:26Z | Metasploit Utilities, Post Exploit Scripts and other scripts primarily for reference | https://github.com/reg1reg1/Exploits | 0 | 0| 
 | 20200920T23:20:55Z | Blog! | https://github.com/nonetype/nonetype.github.io | 0 | 0| 
 | 20200920T22:35:05Z | Advanced dork Search & Mass Exploit Scanner | https://github.com/AlisamTechnology/ATSCAN | 698 | 286| 
 | 20200920T22:16:34Z | A faithful recreation of the Windows 96 exploitation system. | https://github.com/beurkinger/windows-96 | 0 | 0| 
 | 20200920T21:03:07Z | A python script file to remotely analyse and exploit Microsoft Windows system via impacket. | https://github.com/BroadbentT/WIN-MASTER | 13 | 10| 
 | 20200920T20:37:05Z | Albatar is a SQLi exploitation framework in Python | https://github.com/lanjelot/albatar | 90 | 27| 
 | 20200920T20:35:10Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 7261 | 1192| 
+| 20200920T19:15:31Z | exploring and exploiting ts/js | https://github.com/phooning/proving-grounds | 0 | 0| 
 
 
 # backdoor on Github 推荐
@@ -88,7 +88,7 @@
 | 20200920T21:04:00Z | Tools and workflows for fuzz testing | https://github.com/LeastAuthority/fleece | 0 | 0| 
 | 20200920T20:35:32Z | Null | https://github.com/r888800009/fuzz | 0 | 0| 
 | 20200920T20:34:57Z | OSS-Fuzz - continuous fuzzing of open source software. | https://github.com/google/oss-fuzz | 5552 | 1086| 
-| 20200920T19:38:44Z | Fuzzy finder for a collection of pdf files | https://github.com/MarioJim/fuzzy-pdf | 0 | 0| 
+| 20200920T18:53:53Z | Null | https://github.com/elnazrahmati/fuzzy_truck_backer_upper | 0 | 0| 
 
 
 
