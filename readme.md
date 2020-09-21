@@ -18,22 +18,26 @@
 | 20200920 | 解密俄罗斯情报机构 | https://mp.weixin.qq.com/s/OPvkERr3Ox_OvnbimhZqnA| 
 | 20200920 | DataCon2020 僵尸网络追踪第三题writeup | https://zhuanlan.zhihu.com/p/186948840| 
 | 20200920 | 用麒麟框架深入分析实模式二进制文件 | https://mp.weixin.qq.com/s/cMVpMCdlvC-yVMP5COZjfw| 
+| 20200920 | 曝光APT组织会产生怎样的威慑效果？ | https://mp.weixin.qq.com/s/OWISagB-qYrMJIVo713iVw| 
 
 
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20200920T20:47:52Z | cve-2020-1472 | Exploit for zerologon cve-2020-1472 | https://github.com/risksense/zerologon | 未查询到CVE信息| 
+| 20200920T19:19:37Z | cve-2020-5410 | Null | https://github.com/mugisyahid/ki-vuln-cve-2020-5410 | 未查询到CVE信息| 
+| 20200920T13:53:23Z | cve-2020-1472 | Null | https://github.com/johnpathe/zerologon-cve-2020-1472-notes | 未查询到CVE信息| 
 | 20200920T12:12:23Z | CVE-2020-1472 | Test tool for CVE-2020-1472 | https://github.com/SecuraBV/CVE-2020-1472 | | 
-| 20200920T10:56:09Z | cve-2020-1472 | Exploit for zerologon cve-2020-1472 | https://github.com/risksense/zerologon | 未查询到CVE信息| 
 | 20200920T10:37:03Z | 未知编号 | Null | https://github.com/dima5455/CVE2020 | 未查询到CVE信息| 
 | 20200920T03:27:49Z | CVE-2020-1472 | Exploit Code for CVE-2020-1472 aka Zerologon | https://github.com/VoidSec/CVE-2020-1472 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 00 MINUTES 20 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200920T03:14:51Z | CVE-2020-1472 |  CVE-2020-1472复现时使用的py文件整理打包 | https://github.com/sv3nbeast/CVE-2020-1472 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 00 MINUTES 24 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200920T03:14:51Z | CVE-2020-1472 |  CVE-2020-1472复现时使用的py文件整理打包 | https://github.com/sv3nbeast/CVE-2020-1472 | 当攻击者使用Netlogon远程协议（MS-NRPC）（又称为“ Netlogon特权提升漏洞”）建立与域控制器的易受攻击的Netlogon安全通道连接时，将存在特权提升漏洞。| 
 | 20200920T00:28:07Z | CVE-2020-0796 | Null | https://github.com/rsmudge/CVE-2020-0796-BOF | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 00 MINUTES 23 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20200920T22:07:43Z | Null | https://github.com/amit517/HydroKleen_Preview | 0 | 0| 
 | 20200920T08:30:06Z | The compiler inputs a PDDL benchmark of the Carpark planning problem and converts it to an equivalent C code which is used for solving the planning problem by program verification tools such as KLEE/TracerX. | https://github.com/daneshvar-amrollahi/Carpark-PDDL2C | 0 | 0| 
 | 20200920T03:14:25Z | Null | https://github.com/CharlesKleeven/CharlesKleeven.github.io | 0 | 0| 
 
@@ -47,40 +51,45 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20200920T12:54:42Z | A note.com vulnerable API that allows you to bruteforce without getting limited. | https://github.com/kkent030315/Note.com-Exploit-2020 | 0 | 0| 
-| 20200920T12:52:09Z | repository of MEDC2020 exploiting | https://github.com/zita-ch/MEDC2020 | 0 | 0| 
-| 20200920T12:51:48Z | Shiro550/Shiro721 一键化利用工具，支持多种回显方式 | https://github.com/feihong-cs/ShiroExploit | 655 | 140| 
-| 20200920T12:40:55Z | Github Pages | https://github.com/conan-exploits/conan-exploits.github.io | 1 | 0| 
-| 20200920T12:30:31Z | Note.com vulnerable API that allows you to bruteforce | https://github.com/kkent030315/NOTE.COM-EXPLOIT-2020 | 0 | 0| 
-| 20200920T12:19:06Z | This repo will hold my WriteUps and solutions for Hack the Box, TryHackMe, Vulnhub, exploit challenges, pwnables, crackmes, etc. | https://github.com/chryssfish/WriteUps | 0 | 0| 
-| 20200920T11:46:35Z | The energy system transformation is facing the challenge of increasing decentralised renewable energy injec-tion into an infrastructure originally laid out for centralised, dispatchable power generation. Due to limited transmission capacity and flexibility, large amounts of renewable electricity are curtailed. In this paper,we assess how Power-to-Gas facilities can provide spatial and temporal flexibility by shifting pressure fromthe electricity grid to the gas infrastructure. For this purpose, we propose a two-stage model incorporating the day-head spot market and subsequent redispatch. We introduce Power-to-Gas as a redispatch optionand apply the model to the German electricity system. Instead of curtailing renewable electricity, syntheticn atural gas can be produced and injected into the gas grid for later usage. Results show a reduction on curtailment of renewables by 12 % through installing Power-to-Gas at a small set of nodes frequently facingcurtailment. With the benefits of decentralised synthetic natural gas injection and usage, we exploit theadvantages of coupling the two energy systems. The introduction of Power-to-Gas provides flexibility to the electricity system, while contributing to a higher effective utilisation of renewable energy sources as well as the natural gas grid. | https://github.com/bobbyxiong/redispatch-ptg | 0 | 0| 
-| 20200920T11:35:10Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 7261 | 1190| 
-| 20200920T11:03:22Z | Sifter is a OSINT, recon & vulnerability scanner. It incorporates a plethara of tools within different module sets that tries to cover every attack vector. Allowing you to quickly perform recon tasks and organize the results in one place. From OSINT to Recon, Exploitation, Post-Exploitation, OpSec, Threat Analysis, XSS, SQLinjection, Network Scanning, WebApp Analysis or DNS enumeration.. Sifter should be able to cover it all. | https://github.com/s1l3nt78/sifter | 248 | 78| 
-| 20200920T10:51:01Z | A vulnerable API that allows you to bruteforce without getting limited. | https://github.com/kkent030315/ESL-Exploit-2020 | 0 | 0| 
+| 20200920T23:56:58Z | Null | https://github.com/Zellix67/discord-exploit | 0 | 0| 
+| 20200920T23:55:13Z | A Simple Script for Rubber Ducky which Exploits Windows $MFT Vulnerability | https://github.com/JonnyBanana/-MFT-Duck-Crasher | 12 | 9| 
+| 20200920T23:46:48Z | this repository contains some notes and tips for exploit development and shellcoding and reverse engineering , it can be useful for those who are interested in these topics or preparing for oscp,osce exam | https://github.com/omarwhadidi/exploit_development | 0 | 0| 
+| 20200920T23:25:26Z | Metasploit Utilities, Post Exploit Scripts and other scripts primarily for reference | https://github.com/reg1reg1/Exploits | 0 | 0| 
+| 20200920T23:20:55Z | Blog! | https://github.com/nonetype/nonetype.github.io | 0 | 0| 
+| 20200920T22:35:05Z | Advanced dork Search & Mass Exploit Scanner | https://github.com/AlisamTechnology/ATSCAN | 698 | 286| 
+| 20200920T22:28:13Z | Null | https://github.com/quentin452/Cats-Exploitz-HUB | 0 | 1| 
+| 20200920T22:16:34Z | A faithful recreation of the Windows 96 exploitation system. | https://github.com/beurkinger/windows-96 | 0 | 0| 
+| 20200920T21:03:07Z | A python script file to remotely analyse and exploit Microsoft Windows system via impacket. | https://github.com/BroadbentT/WIN-MASTER | 13 | 10| 
+| 20200920T20:37:05Z | Albatar is a SQLi exploitation framework in Python | https://github.com/lanjelot/albatar | 90 | 27| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20200920T18:26:08Z | Null | https://github.com/Jabster28/node-backdoor | 0 | 0| 
+| 20200920T18:21:54Z | shell backdoor | https://github.com/rizkipoloyo/shell | 0 | 0| 
+| 20200920T17:52:11Z | Just a simple backdoor with custom listener. | https://github.com/TheRavehorn/Simple-Backdoor | 0 | 0| 
+| 20200920T15:00:16Z | Hacking tools pack & backdoors generator. | https://github.com/AdrMXR/KitHack | 164 | 39| 
+| 20200920T14:36:24Z | Ghost Framework is an Android post-exploitation framework that exploits the Android Debug Bridge to remotely access an Android device. Ghost Framework gives you the power and convenience of remote Android device administration. | https://github.com/entynetproject/ghost | 710 | 362| 
+| 20200920T13:06:49Z | A PHP backdoor management and generation tool/C2 featuring end to end encrypted payload streaming designed to bypass WAF, IDS, SIEM systems. | https://github.com/gellin/bantam | 121 | 11| 
 | 20200920T11:39:54Z | Full-featured C2 framework which silently persists on webserver via evil PHP oneliner :smiling_imp: | https://github.com/nil0x42/phpsploit | 1005 | 306| 
 | 20200920T08:45:56Z | Null | https://github.com/iK4oS/PremiumBackdoor.exe | 0 | 0| 
-| 20200920T05:17:45Z | Ghost Framework is an Android post-exploitation framework that exploits the Android Debug Bridge to remotely access an Android device. Ghost Framework gives you the power and convenience of remote Android device administration. | https://github.com/entynetproject/ghost | 710 | 362| 
 | 20200920T02:27:44Z | Backdoor Feito em C | https://github.com/Kripto-Sec/Cbackdoor | 3 | 0| 
 
 
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20200920T12:57:10Z | AFL++ as a library: gives you all the tools necessary to craft the best fuzzer for your targets with ease! | https://github.com/AFLplusplus/LibAFL | 86 | 3| 
-| 20200920T12:44:58Z | fuzzy-telegram | https://github.com/kevinkim0/fuzzy-telegram | 0 | 0| 
-| 20200920T11:41:38Z | Fuzzy Logic Implementation - Java | https://github.com/encepsuryana/Fuzzy-Logic | 0 | 0| 
-| 20200920T11:30:18Z | Null | https://github.com/victomteng1997/RESTAPI_Fuzzer | 0 | 0| 
-| 20200920T10:21:07Z | a string fuzzy search algorithm implementation | https://github.com/IWANABETHATGUY/fuzzy-search | 0 | 0| 
-| 20200920T09:14:18Z | Tools and workflows for fuzz testing | https://github.com/LeastAuthority/lafuzz | 0 | 0| 
-| 20200920T09:07:09Z | Null | https://github.com/noloerino/eye-fuzz | 0 | 0| 
-| 20200920T08:16:44Z | Library to wrap all file calls when fuzzing with AFL++ | https://github.com/marekzmyslowski/libfiowrapper | 31 | 2| 
-| 20200920T08:16:04Z | Fuzzy finder for a collection of pdf files | https://github.com/MarioJim/fuzzy-pdf | 0 | 0| 
-| 20200920T08:04:29Z | A framework provides an interface to monitor and control fuzzers | https://github.com/pzread/fuzvisor | 26 | 0| 
+| 20200920T23:34:19Z | Pedal Multiefecto para guitarra electrica (LoopBack, Delay, Fuzz y Wah-wah) | https://github.com/jrosmirez94/Pedal-Multiefecto | 0 | 0| 
+| 20200920T23:16:06Z | 🏆 Collection of bugs uncovered by fuzzing Rust code | https://github.com/rust-fuzz/trophy-case | 197 | 32| 
+| 20200920T22:49:48Z | Fuzzy logic implemented into Unity3D, using a cooking cheff for it | https://github.com/somozadev/FuzzyLogic-CookingCheff | 0 | 0| 
+| 20200920T22:37:50Z | Framework for finding similar rows in a JDBC source | https://github.com/bmiller1009/fuzzy-row-matcher | 0 | 0| 
+| 20200920T21:57:47Z | An automated tool for finding hidden files and directories within a web server using a fuzzing technique, allowing further attack vendors to be found. | https://github.com/vent-lab/URL-Fuzzer | 0 | 0| 
+| 20200920T21:37:29Z | Tools for stress testing applications. | https://github.com/stbraun/fuzzing | 12 | 3| 
+| 20200920T21:04:00Z | Tools and workflows for fuzz testing | https://github.com/LeastAuthority/fleece | 0 | 0| 
+| 20200920T20:35:32Z | Null | https://github.com/r888800009/fuzz | 0 | 0| 
+| 20200920T20:34:57Z | OSS-Fuzz - continuous fuzzing of open source software. | https://github.com/google/oss-fuzz | 5552 | 1086| 
+| 20200920T19:38:44Z | Fuzzy finder for a collection of pdf files | https://github.com/MarioJim/fuzzy-pdf | 0 | 0| 
 
 
 
