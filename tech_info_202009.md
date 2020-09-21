@@ -46,16 +46,16 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20200920T20:47:52Z | cve-2020-1472 | Exploit for zerologon cve-2020-1472 | https://github.com/risksense/zerologon | | 
+| 20200920T20:47:52Z | cve-2020-1472 | Exploit for zerologon cve-2020-1472 | https://github.com/risksense/zerologon | 未查询到CVE信息| 
 | 20200920T19:19:37Z | cve-2020-5410 | Null | https://github.com/mugisyahid/ki-vuln-cve-2020-5410 | 未查询到CVE信息| 
 | 20200920T13:53:23Z | cve-2020-1472 | Null | https://github.com/johnpathe/zerologon-cve-2020-1472-notes | 未查询到CVE信息| 
 | 20200920T12:12:23Z | CVE-2020-1472 | Test tool for CVE-2020-1472 | https://github.com/SecuraBV/CVE-2020-1472 | | 
 | 20200920T10:37:03Z | 未知编号 | Null | https://github.com/dima5455/CVE2020 | 未查询到CVE信息| 
 | 20200920T03:27:49Z | CVE-2020-1472 | Exploit Code for CVE-2020-1472 aka Zerologon | https://github.com/VoidSec/CVE-2020-1472 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 00 MINUTES 20 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200920T03:14:51Z | CVE-2020-1472 |  CVE-2020-1472复现时使用的py文件整理打包 | https://github.com/sv3nbeast/CVE-2020-1472 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 43 MINUTES 20 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200920T03:14:51Z | CVE-2020-1472 |  CVE-2020-1472复现时使用的py文件整理打包 | https://github.com/sv3nbeast/CVE-2020-1472 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 41 MINUTES 22 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20200920T00:28:07Z | CVE-2020-0796 | Null | https://github.com/rsmudge/CVE-2020-0796-BOF | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 00 MINUTES 23 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200919T23:15:54Z | CVE-2020-1472 | Null | https://github.com/hectorgie/CVE-2020-1472 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 43 MINUTES 26 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200919T22:31:15Z | CVE-2020-1472 | Zerologon Exploit , CVE-2020-1472 | https://github.com/batmanli61/Zerologon | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 43 MINUTES 25 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200919T23:15:54Z | CVE-2020-1472 | Null | https://github.com/hectorgie/CVE-2020-1472 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 41 MINUTES 29 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200919T22:31:15Z | CVE-2020-1472 | Zerologon Exploit , CVE-2020-1472 | https://github.com/batmanli61/Zerologon | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 41 MINUTES 27 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 
 
 # klee on Github 推荐
@@ -91,8 +91,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20200921T00:17:57Z | Null | https://github.com/quentin452/Cats-Exploitz-HUB | 0 | 1| 
 | 20200921T00:04:18Z |  :hatched_chick: :hatched_chick: :hatched_chick:   A very quickly script for rubber ducky which exploits the gatherNetworkInfo.vbs file in the C: \ Windows \ System32 folder to steal different information from the victim machine. It Requires twin Duck Firmware    :hatched_chick: :hatched_chick: :hatched_chick: | https://github.com/JonnyBanana/Rubber_Ducky_Gather_Network_Info | 13 | 6| 
-| 20200921T00:03:36Z | Null | https://github.com/quentin452/Cats-Exploitz-HUB | 0 | 1| 
 | 20200921T00:03:22Z |  A Python script for Codebug that which exploits the Coindesk and Bitstamp API (V2 and v2)  to display the price of Bitcoins in real time on the codebug led display. The price is in dollars. | https://github.com/JonnyBanana/Codebug_BTC_RealTime_Price | 11 | 3| 
 | 20200921T00:02:06Z | Collection of Multi-platform Scripts for Rubber Ducky that exploit the css webkit filter attack to crash Internet Explorer, Edge or Safari, crashing the target machine Compatibility: Windows - MacOs - Linux (Ubuntu) | https://github.com/JonnyBanana/DUCKY_REAPER | 9 | 10| 
 | 20200920T23:56:58Z | Null | https://github.com/Zellix67/discord-exploit | 0 | 0| 
