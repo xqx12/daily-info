@@ -72,8 +72,9 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20200921T12:57:07Z | Fast web fuzzer written in Go | https://github.com/ffuf/ffuf | 2997 | 343| 
+| 20200921T12:56:41Z | Null | https://github.com/utgwkk/App-PerlFuzzyTokenFinder | 0 | 0| 
 | 20200921T12:55:02Z | The fuzzer afl++ is afl with community patches, AFLfast power schedules, qemu 3.1 upgrade + laf-intel support, MOpt mutators, InsTrim instrumentation, unicorn_mode, Redqueen and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 886 | 221| 
-| 20200921T12:38:44Z | Fast web fuzzer written in Go | https://github.com/ffuf/ffuf | 2996 | 343| 
 | 20200921T11:47:59Z | My task about Fuzzy Logic for Artifical Intelligence Class | https://github.com/hasbiabdulmajid/AI_Fuzzy | 0 | 0| 
 | 20200921T11:22:26Z | Fuzzy geolocation Proof of Concept | https://github.com/Geonovum/fuzzy-geolocation-poc | 0 | 0| 
 | 20200921T11:12:28Z | Tools and workflows for fuzz testing | https://github.com/LeastAuthority/fleece | 0 | 0| 
@@ -81,7 +82,6 @@
 | 20200921T10:38:51Z | Null | https://github.com/cprom/fuzzilogic | 0 | 0| 
 | 20200921T10:26:30Z | Null | https://github.com/jakkab/gp-fuzz-search | 0 | 0| 
 | 20200921T10:24:29Z | Null | https://github.com/sartura/periodic-fuzzer | 0 | 0| 
-| 20200921T10:02:51Z | Null | https://github.com/tarun-hacker/libhevc-fuzz-exp | 0 | 0| 
 
 
 
