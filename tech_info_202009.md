@@ -54,7 +54,7 @@
 | 20200920T03:27:49Z | CVE-2020-1472 | Exploit Code for CVE-2020-1472 aka Zerologon | https://github.com/VoidSec/CVE-2020-1472 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 00 MINUTES 20 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20200920T03:14:51Z | CVE-2020-1472 |  CVE-2020-1472复现时使用的py文件整理打包 | https://github.com/sv3nbeast/CVE-2020-1472 | 当攻击者使用Netlogon远程协议（MS-NRPC）（又称为“ Netlogon特权提升漏洞”）建立与域控制器的易受攻击的Netlogon安全通道连接时，将存在特权提升漏洞。| 
 | 20200920T00:28:07Z | CVE-2020-0796 | Null | https://github.com/rsmudge/CVE-2020-0796-BOF | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 00 MINUTES 23 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200919T23:15:54Z | CVE-2020-1472 | Null | https://github.com/hectorgie/CVE-2020-1472 | 当攻击者使用Netlogon远程协议（MS-NRPC）（又称为“ Netlogon特权提升漏洞”）建立与域控制器的易受攻击的Netlogon安全通道连接时，将存在特权提升漏洞。| 
+| 20200919T23:15:54Z | CVE-2020-1472 | Null | https://github.com/hectorgie/CVE-2020-1472 | | 
 | 20200919T22:31:15Z | CVE-2020-1472 | Zerologon Exploit , CVE-2020-1472 | https://github.com/batmanli61/Zerologon | 当攻击者使用Netlogon远程协议（MS-NRPC）（又称为“ Netlogon特权提升漏洞”）建立与域控制器的易受攻击的Netlogon安全通道连接时，将存在特权提升漏洞。| 
 
 
@@ -91,6 +91,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20200921T00:04:18Z |  :hatched_chick: :hatched_chick: :hatched_chick:   A very quickly script for rubber ducky which exploits the gatherNetworkInfo.vbs file in the C: \ Windows \ System32 folder to steal different information from the victim machine. It Requires twin Duck Firmware    :hatched_chick: :hatched_chick: :hatched_chick: | https://github.com/JonnyBanana/Rubber_Ducky_Gather_Network_Info | 13 | 6| 
 | 20200921T00:03:36Z | Null | https://github.com/quentin452/Cats-Exploitz-HUB | 0 | 1| 
 | 20200921T00:03:22Z |  A Python script for Codebug that which exploits the Coindesk and Bitstamp API (V2 and v2)  to display the price of Bitcoins in real time on the codebug led display. The price is in dollars. | https://github.com/JonnyBanana/Codebug_BTC_RealTime_Price | 11 | 3| 
 | 20200921T00:02:06Z | Collection of Multi-platform Scripts for Rubber Ducky that exploit the css webkit filter attack to crash Internet Explorer, Edge or Safari, crashing the target machine Compatibility: Windows - MacOs - Linux (Ubuntu) | https://github.com/JonnyBanana/DUCKY_REAPER | 9 | 10| 
@@ -100,7 +101,6 @@
 | 20200920T23:25:26Z | Metasploit Utilities, Post Exploit Scripts and other scripts primarily for reference | https://github.com/reg1reg1/Exploits | 0 | 0| 
 | 20200920T23:20:55Z | Blog! | https://github.com/nonetype/nonetype.github.io | 0 | 0| 
 | 20200920T22:35:05Z | Advanced dork Search & Mass Exploit Scanner | https://github.com/AlisamTechnology/ATSCAN | 698 | 286| 
-| 20200920T22:16:34Z | A faithful recreation of the Windows 96 exploitation system. | https://github.com/beurkinger/windows-96 | 0 | 0| 
 
 
 # backdoor on Github 推荐
