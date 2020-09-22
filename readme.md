@@ -52,6 +52,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20200922T12:39:37Z | Blog! | https://github.com/nonetype/nonetype.github.io | 0 | 0| 
 | 20200922T12:38:37Z | Some stack-based buffer overflow exploits. | https://github.com/MohamedEmbaby00/BOF | 0 | 0| 
 | 20200922T12:29:11Z | exploit-exam | https://github.com/vapvin/exploit-exam | 0 | 0| 
 | 20200922T12:20:26Z | The Eclipse Foundation has been a partner in many publicly funded research projects since 2013. We help organizations to successfully create, publish, and sustain an open source software platform, making the results of the research projects available for commercial or public exploitation. | https://github.com/EclipseFdn/eclipse.org-research | 0 | 8| 
@@ -61,7 +62,6 @@
 | 20200922T11:40:37Z | A proxy aware C2 framework used to aid red teamers with post-exploitation and lateral movement. | https://github.com/nettitude/PoshC2 | 554 | 143| 
 | 20200922T11:35:12Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 7265 | 1195| 
 | 20200922T10:55:36Z | Fast and free old 3ds browser exploit for latest firmware. | https://github.com/zoogie/old-browserhax | 24 | 1| 
-| 20200922T10:54:33Z | Development of code to exploit LSST and VISTA imaging | https://github.com/lsst-uk/lsst-ir-fusion | 0 | 0| 
 
 
 # backdoor on Github 推荐
