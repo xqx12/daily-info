@@ -33,14 +33,14 @@
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
 | 20200922T11:30:55Z | 未知编号 | All five experiments of computer vision courses opened at Xidian University. CV XDU | https://github.com/Jiehuishun/CVExp-XDU-2020-CS5201 | 未查询到CVE信息| 
-| 20200922T11:05:24Z | CVE-2020-15148 | 几条关于CVE-2020-15148（yii2反序列化）的绕过 | https://github.com/Maskhe/CVE-2020-15148-bypasses | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 08 MINUTES 34 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200922T02:08:37Z | CVE-2020-25790 | Exploit for CVE-2020-25790 | https://github.com/t0gu/CVE-2020-25790 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 08 MINUTES 36 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200922T11:05:24Z | CVE-2020-15148 | 几条关于CVE-2020-15148（yii2反序列化）的绕过 | https://github.com/Maskhe/CVE-2020-15148-bypasses | | 
+| 20200922T02:08:37Z | CVE-2020-25790 | Exploit for CVE-2020-25790 | https://github.com/t0gu/CVE-2020-25790 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 06 MINUTES 36 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20200922T12:51:28Z | Website for the KLEE project: https://klee.github.io/ | https://github.com/klee/klee.github.io | 13 | 42| 
+| 20200922T12:51:42Z | Website for the KLEE project: https://klee.github.io/ | https://github.com/klee/klee.github.io | 13 | 42| 
 | 20200922T04:57:49Z | Create CFGs and compute complexity metrics for Python, C++, and Java code. | https://github.com/hmc-alpaqa/metrinome | 4 | 0| 
 | 20200922T01:51:39Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1510 | 458| 
 
@@ -53,7 +53,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20200922T12:50:53Z | Implementation of our paper %Data Rejuvenation: Exploiting Inactive Training Examples for Neural Machine Translation% to appear in EMNLP2020. | https://github.com/wxjiao/Data-Rejuvenation | 11 | 0| 
+| 20200922T12:52:16Z | Exploit Router Hacking | https://github.com/JulianPedro/Exploit-Win-240 | 1 | 0| 
+| 20200922T12:52:09Z | Implementation of our paper %Data Rejuvenation: Exploiting Inactive Training Examples for Neural Machine Translation% to appear in EMNLP2020. | https://github.com/wxjiao/Data-Rejuvenation | 11 | 0| 
 | 20200922T12:50:45Z | Some stack-based buffer overflow exploits. | https://github.com/MohamedEmbaby00/BOF | 0 | 0| 
 | 20200922T12:43:29Z | A script to exploit invdos CVE-2018-17145 on any bitcoin based network | https://github.com/eabz/invdos | 0 | 0| 
 | 20200922T12:39:37Z | Blog! | https://github.com/nonetype/nonetype.github.io | 0 | 0| 
@@ -62,7 +63,6 @@
 | 20200922T12:07:06Z | IoT 固件漏洞复现环境 | https://github.com/firmianay/IoT-vulhub | 49 | 6| 
 | 20200922T12:05:06Z | Network Pivoting and Post Exploitation Framework for Windows with Reflective DLL Injection, Keystroke logging, Automatic Eternal Blue, Reverse Shell and more. | https://github.com/quantumcored/maalik | 4 | 0| 
 | 20200922T11:50:24Z | A faithful recreation of the Windows 96 exploitation system. | https://github.com/beurkinger/windows-96 | 0 | 0| 
-| 20200922T11:40:37Z | A proxy aware C2 framework used to aid red teamers with post-exploitation and lateral movement. | https://github.com/nettitude/PoshC2 | 554 | 143| 
 
 
 # backdoor on Github 推荐
