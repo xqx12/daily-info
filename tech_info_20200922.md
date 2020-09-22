@@ -78,6 +78,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20200922T12:46:25Z | A vst plugin to distort audio with waveshaper using teeth like function | https://github.com/bartoszOsn/FuzzTeeth | 0 | 0| 
 | 20200922T12:18:07Z | Null | https://github.com/xqus/laravel-fuzz | 0 | 0| 
 | 20200922T11:58:06Z | To make fuzzing Rust easy | https://github.com/smoelius/test-fuzz | 0 | 0| 
 | 20200922T11:48:17Z | A JavaScript Engine Fuzzer | https://github.com/googleprojectzero/fuzzilli | 1028 | 169| 
@@ -87,7 +88,6 @@
 | 20200922T10:47:34Z | AFL++ as a library: gives you all the tools necessary to craft the best fuzzer for your targets with ease! | https://github.com/AFLplusplus/LibAFL | 87 | 3| 
 | 20200922T10:44:37Z | Demo of Tailwind Laravel Setup | https://github.com/elder-university/fuzzy-umbrella | 0 | 0| 
 | 20200922T10:42:51Z | Null | https://github.com/Aman-Gohel/fuzzy-couscous | 0 | 0| 
-| 20200922T10:34:13Z | Another fuzzing list... | https://github.com/Rbcafe/fuzzlst | 1 | 0| 
 
 
 
