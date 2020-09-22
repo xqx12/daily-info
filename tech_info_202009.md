@@ -17,6 +17,8 @@
 | 20200922 | Netgear Nighthawk R8300 upnpd PreAuth RCE | https://ssd-disclosure.com/ssd-advisory-netgear-nighthawk-r8300-upnpd-preauth-rce/| 
 | 20200922 | 利用 Citrix Workspace MSI 安装包验证逻辑的漏洞实现 SYSTEM 提权 | https://sec.today/pulses/4dff5b24-8620-456c-81c4-a8b1a036a9df/| 
 | 20200922 | 自动化代码审计的发展史及如何进行自动化静态代码审计 | https://sec.today/pulses/4ecdedd4-0bac-4ce9-9c92-6ede3fdc6b34/| 
+| 20200922 | 利用 Citrix Workspace MSI 安装包验证逻辑的漏洞实现 SYSTEM 提权 | https://www.pentestpartners.com/security-blog/the-return-of-raining-system-shells-with-citrix-workspace-app/| 
+| 20200922 | 自动化代码审计的发展史及如何进行自动化静态代码审计 | https://paper.seebug.org/1339/| 
 | 20200921 | 独家专访腾讯玄武实验室TK：为什么要推出快充安全检测服务 | https://passport.weibo.com/visitor/visitor?entry=miniblog&a=enter&url=https%3A%2F%2Fweibo.com%2Fttarticle%2Fp%2Fshow%3Fid%3D2309404550446948941966&domain=.weibo.com&ua=php-sso_sdk_client-0.6.36&_rand=1600689623.0853| 
 | 20200921 | How I bypassed Cloudflares SQL Injection filter | https://www.astrocamel.com/web/2020/09/04/how-i-bypassed-cloudflares-sql-injection-filter.html| 
 | 20200921 | Checkpoint 对 Rampant Kitten 伊朗间谍组织的分析报告 | https://research.checkpoint.com/2020/rampant-kitten-an-iranian-espionage-campaign/| 
@@ -24,8 +26,6 @@
 | 20200921 | EvilQuest 恶意软件 macOS 平台的样本分析 | https://reverse.put.as/2020/09/17/evilquest-revisited/| 
 | 20200921 | RASP攻防 —— RASP安全应用与局限性浅析 | http://security.tencent.com/index.php/blog/msg/166| 
 | 20200921 | Chromium IPC Sniffer - 有研究员开发了一个监控 Chromium 浏览器命名管道通信消息的工具 | https://github.com/tomer8007/chromium-ipc-sniffer| 
-| 20200921 | 上周推送的微软的 OneFuzz 平台的源码公开了 | https://github.com/microsoft/onefuzz| 
-| 20200921 | Bug Bounty 工具整理脑图文件 | https://blog.it-securityguard.com/pbbt.pdf| 
 
 
 # 安全维基 推荐
@@ -106,16 +106,16 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20200922T01:58:47Z | A PHP backdoor management and generation tool/C2 featuring end to end encrypted payload streaming designed to bypass WAF, IDS, SIEM systems. | https://github.com/gellin/bantam | 127 | 11| 
-| 20200922T01:24:06Z | Antivirus evasion project  | https://github.com/Ch0pin/AVIator | 404 | 120| 
+| 20200922T07:09:34Z | A PHP backdoor management and generation tool/C2 featuring end to end encrypted payload streaming designed to bypass WAF, IDS, SIEM systems. | https://github.com/gellin/bantam | 130 | 11| 
+| 20200922T07:07:54Z | Avyukt is a Exploitation Framework which can be used to generate Malicious Payloads and exploit Windows OS | https://github.com/Vedant-Bhalgama/Avyukt | 10 | 0| 
+| 20200922T06:41:41Z | Antivirus evasion project  | https://github.com/Ch0pin/AVIator | 405 | 120| 
+| 20200922T06:19:11Z | Hacking tools pack & backdoors generator. | https://github.com/AdrMXR/KitHack | 167 | 42| 
+| 20200922T06:03:50Z | Null | https://github.com/SRX-YT/SimpleBackdoor | 0 | 0| 
 | 20200922T00:43:51Z | Tool to find potential backdoor/security holes in your endpoint | https://github.com/subasgit/backdoorfinder | 0 | 0| 
 | 20200921T23:20:25Z | Null | https://github.com/dheeraj7596/NlpBackdoor | 0 | 0| 
 | 20200921T22:06:42Z | A deck-building roguelike cyberpunk game. | https://github.com/uspgamedev/backdoor | 17 | 2| 
-| 20200921T19:30:32Z | Hacking tools pack & backdoors generator. | https://github.com/AdrMXR/KitHack | 165 | 40| 
-| 20200921T05:26:20Z | Ghost Framework is an Android post-exploitation framework that exploits the Android Debug Bridge to remotely access an Android device. Ghost Framework gives you the power and convenience of remote Android device administration. | https://github.com/entynetproject/ghost | 711 | 362| 
-| 20200921T04:38:42Z | Null | https://github.com/SRX-YT/SimpleBackdoor | 0 | 0| 
+| 20200921T05:26:20Z | Ghost Framework is an Android post-exploitation framework that exploits the Android Debug Bridge to remotely access an Android device. Ghost Framework gives you the power and convenience of remote Android device administration. | https://github.com/entynetproject/ghost | 711 | 363| 
 | 20200921T00:22:07Z | A Backdoor written in Python 3 that enables the attacker to execute commands on the remote machine being undetectable. | https://github.com/Ryan-AW/Backdoor-Trojan | 1 | 0| 
-| 20200920T18:26:08Z | Null | https://github.com/Jabster28/node-backdoor | 0 | 0| 
 
 
 # fuzz on Github 推荐

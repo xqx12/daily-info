@@ -17,6 +17,8 @@
 | 20200922 | Netgear Nighthawk R8300 upnpd PreAuth RCE | https://ssd-disclosure.com/ssd-advisory-netgear-nighthawk-r8300-upnpd-preauth-rce/| 
 | 20200922 | 利用 Citrix Workspace MSI 安装包验证逻辑的漏洞实现 SYSTEM 提权 | https://sec.today/pulses/4dff5b24-8620-456c-81c4-a8b1a036a9df/| 
 | 20200922 | 自动化代码审计的发展史及如何进行自动化静态代码审计 | https://sec.today/pulses/4ecdedd4-0bac-4ce9-9c92-6ede3fdc6b34/| 
+| 20200922 | 利用 Citrix Workspace MSI 安装包验证逻辑的漏洞实现 SYSTEM 提权 | https://www.pentestpartners.com/security-blog/the-return-of-raining-system-shells-with-citrix-workspace-app/| 
+| 20200922 | 自动化代码审计的发展史及如何进行自动化静态代码审计 | https://paper.seebug.org/1339/| 
 
 
 # 安全维基 推荐
@@ -65,8 +67,11 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20200922T01:58:47Z | A PHP backdoor management and generation tool/C2 featuring end to end encrypted payload streaming designed to bypass WAF, IDS, SIEM systems. | https://github.com/gellin/bantam | 127 | 11| 
-| 20200922T01:24:06Z | Antivirus evasion project  | https://github.com/Ch0pin/AVIator | 404 | 120| 
+| 20200922T07:09:34Z | A PHP backdoor management and generation tool/C2 featuring end to end encrypted payload streaming designed to bypass WAF, IDS, SIEM systems. | https://github.com/gellin/bantam | 130 | 11| 
+| 20200922T07:07:54Z | Avyukt is a Exploitation Framework which can be used to generate Malicious Payloads and exploit Windows OS | https://github.com/Vedant-Bhalgama/Avyukt | 10 | 0| 
+| 20200922T06:41:41Z | Antivirus evasion project  | https://github.com/Ch0pin/AVIator | 405 | 120| 
+| 20200922T06:19:11Z | Hacking tools pack & backdoors generator. | https://github.com/AdrMXR/KitHack | 167 | 42| 
+| 20200922T06:03:50Z | Null | https://github.com/SRX-YT/SimpleBackdoor | 0 | 0| 
 | 20200922T00:43:51Z | Tool to find potential backdoor/security holes in your endpoint | https://github.com/subasgit/backdoorfinder | 0 | 0| 
 
 
