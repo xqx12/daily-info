@@ -53,8 +53,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20200922T12:53:44Z | Implementation of our paper %Data Rejuvenation: Exploiting Inactive Training Examples for Neural Machine Translation% to appear in EMNLP2020. | https://github.com/wxjiao/Data-Rejuvenation | 11 | 0| 
 | 20200922T12:52:16Z | Exploit Router Hacking | https://github.com/JulianPedro/Exploit-Win-240 | 1 | 0| 
-| 20200922T12:52:09Z | Implementation of our paper %Data Rejuvenation: Exploiting Inactive Training Examples for Neural Machine Translation% to appear in EMNLP2020. | https://github.com/wxjiao/Data-Rejuvenation | 11 | 0| 
 | 20200922T12:50:45Z | Some stack-based buffer overflow exploits. | https://github.com/MohamedEmbaby00/BOF | 0 | 0| 
 | 20200922T12:43:29Z | A script to exploit invdos CVE-2018-17145 on any bitcoin based network | https://github.com/eabz/invdos | 0 | 0| 
 | 20200922T12:39:37Z | Blog! | https://github.com/nonetype/nonetype.github.io | 0 | 0| 
