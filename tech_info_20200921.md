@@ -27,15 +27,22 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20200921T12:54:21Z | CVE-2020-15148 | 几条关于CVE-2020-15148（yii2反序列化）的绕过 | https://github.com/Maskhe/CVE-2020-15148-bypasses | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 00 MINUTES 29 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200921T07:24:16Z | CVE-2020-1472 | Null | https://github.com/t31m0/CVE-2020-1472 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 00 MINUTES 30 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200921T23:24:14Z | CVE-2020-1472 | Test script for CVE-2020-1472 for both RPC/TCP and RPC/SMB | https://github.com/zeronetworks/zerologon | 当攻击者使用Netlogon远程协议（MS-NRPC）（又称为“ Netlogon特权提升漏洞”）建立与域控制器的易受攻击的Netlogon安全通道连接时，将存在特权提升漏洞。| 
+| 20200921T19:30:10Z | CVE-2020-15148 | 几条关于CVE-2020-15148（yii2反序列化）的绕过 | https://github.com/Maskhe/CVE-2020-15148-bypasses | 如果应用程序对任意用户输入调用%非程序化%，版本 2.0.38 之前的第 ii 2（yiisoft/yii2）很容易受到远程代码执行的影响。这在版本 2.0.38 中是固定的。链接的通报中提供了不升级的可能解决方法。| 
+| 20200921T19:18:07Z | 未知编号 | 2020l4web-typography-css-library-DanCvejn created by GitHub Classroom | https://github.com/pslib-cz/2020l4web-typography-css-library-DanCvejn | 未查询到CVE信息| 
+| 20200921T07:24:16Z | CVE-2020-1472 | Null | https://github.com/t31m0/CVE-2020-1472 | 当攻击者使用Netlogon远程协议（MS-NRPC）（又称为“ Netlogon特权提升漏洞”）建立与域控制器的易受攻击的Netlogon安全通道连接时，将存在特权提升漏洞。| 
 | 20200921T01:27:12Z | CVE-2020-1472 |  CVE-2020-1472复现时使用的py文件整理打包 | https://github.com/sv3nbeast/CVE-2020-1472 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 00 MINUTES 18 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200921T00:45:28Z | CVE-2020-0796 | cobaltstrike cna for CVE-2020-0796 | https://github.com/aloswoya/CVE-2020-0796-cobaltstrike-cna | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 00 MINUTES 26 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200921T00:45:28Z | CVE-2020-0796 | cobaltstrike cna for CVE-2020-0796 | https://github.com/aloswoya/CVE-2020-0796-cobaltstrike-cna | Microsoft服务器消息块3.1.1（SMBv3）协议处理某些请求的方式中存在一个远程执行代码漏洞，也称为“ Windows SMBv3客户端/服务器远程执行代码漏洞”。| 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20200921T22:05:23Z | Null | https://github.com/thierry-tct/KLEE-SEMu | 1 | 0| 
+| 20200921T19:28:39Z | Website for the KLEE project: https://klee.github.io/ | https://github.com/klee/klee.github.io | 13 | 42| 
+| 20200921T17:43:41Z | Create CFGs and compute complexity metrics for Python, C++, and Java code. | https://github.com/hmc-alpaqa/metrinome | 4 | 0| 
+| 20200921T17:08:18Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1509 | 458| 
+| 20200921T15:39:52Z | RVT is a collection of tools/libraries to support both static and dynamic verification of Rust programs. | https://github.com/project-oak/rust-verification-tools | 83 | 4| 
 | 20200921T12:28:51Z | Symbiotic is a tool for finding bugs in computer programs based on instrumentation, program slicing and KLEE | https://github.com/staticafi/symbiotic | 195 | 33| 
 | 20200921T03:52:43Z | Urban Evidence Based Policy (SPPA667) | https://github.com/KLeeDE/PUS2020_KLee | 0 | 0| 
 
@@ -48,22 +55,26 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20200921T12:53:47Z | A remote administration tool for Windows, written in C# | https://github.com/robitec97/LightCosmosRat | 18 | 6| 
-| 20200921T12:41:57Z | Computer Network Exploitation (CNE) Field Manual | https://github.com/mzet-/z-field-manual | 0 | 0| 
-| 20200921T12:38:57Z | The Eclipse Foundation has been a partner in many publicly funded research projects since 2013. We help organizations to successfully create, publish, and sustain an open source software platform, making the results of the research projects available for commercial or public exploitation. | https://github.com/EclipseFdn/eclipse.org-research | 0 | 8| 
-| 20200921T12:23:53Z | Null | https://github.com/illuzian/exploit_scaffolding | 0 | 0| 
-| 20200921T12:22:02Z | A curated list of all the resources I have exploited so far. | https://github.com/sashankneupane7/grow-with-me | 0 | 0| 
-| 20200921T12:13:07Z | Creates a mapping of {edbid  => [CVE1 CVE2 ... CVEn]} | https://github.com/jnahorny/exploitdb2cve | 0 | 1| 
-| 20200921T12:06:51Z | Very simple script(s) to hasten binary exploit creation | https://github.com/152334H/pwnscripts | 6 | 0| 
-| 20200921T12:06:44Z | Null | https://github.com/Zellix67/discord-exploit | 0 | 0| 
-| 20200921T11:44:48Z | Extension for GDB | https://github.com/miyase256/exgdb | 88 | 4| 
-| 20200921T11:35:12Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 7260 | 1193| 
+| 20200921T23:09:27Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 7264 | 1196| 
+| 20200921T22:51:00Z | Null | https://github.com/quentin452/Cats-Exploitz-HUB | 0 | 1| 
+| 20200921T21:55:34Z | this bash script let you download scripts and clone repos for remote exploits | https://github.com/FabioDefilippo/linuxallremote | 5 | 0| 
+| 20200921T21:20:40Z | Null | https://github.com/EmperorParzival/ExploitScripts | 0 | 0| 
+| 20200921T21:04:29Z | This repository contains the POC and the scanner to catch the Shortcut Hotkey Exploitation method. | https://github.com/Idov31/hotkey_exploitation | 1 | 0| 
+| 20200921T21:03:27Z | xDSL Botnet Exploit | https://github.com/TerritoryThe3rd/xDLS-Exploit | 0 | 0| 
+| 20200921T20:30:00Z | this repository contains some notes and tips for exploit development and shellcoding and reverse engineering , it can be useful for those who are interested in these topics or preparing for oscp,osce exam | https://github.com/omarwhadidi/exploit_development | 0 | 0| 
+| 20200921T19:55:01Z | A simple Python Exploit to Write Data to Insecure/vulnerable firebase databases! Commonly found inside Mobile Apps. If the owner of the app have set the security rules as true for both %read% & %write% an attacker can probably dump database and write his own data to firebase db. | https://github.com/MuhammadKhizerJaved/Insecure-Firebase-Exploit | 86 | 27| 
+| 20200921T19:43:27Z | Null | https://github.com/JHollenb/exploits | 0 | 0| 
+| 20200921T19:41:11Z | Null | https://github.com/1ghostly/ghostly-lua | 0 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20200921T12:16:35Z | A PHP backdoor management and generation tool/C2 featuring end to end encrypted payload streaming designed to bypass WAF, IDS, SIEM systems. | https://github.com/gellin/bantam | 125 | 11| 
+| 20200921T23:20:25Z | Null | https://github.com/dheeraj7596/NlpBackdoor | 0 | 0| 
+| 20200921T22:06:42Z | A deck-building roguelike cyberpunk game. | https://github.com/uspgamedev/backdoor | 17 | 2| 
+| 20200921T19:30:32Z | Hacking tools pack & backdoors generator. | https://github.com/AdrMXR/KitHack | 165 | 40| 
+| 20200921T18:04:01Z | Antivirus evasion project  | https://github.com/Ch0pin/AVIator | 403 | 119| 
+| 20200921T16:18:24Z | A PHP backdoor management and generation tool/C2 featuring end to end encrypted payload streaming designed to bypass WAF, IDS, SIEM systems. | https://github.com/gellin/bantam | 126 | 11| 
 | 20200921T05:26:20Z | Ghost Framework is an Android post-exploitation framework that exploits the Android Debug Bridge to remotely access an Android device. Ghost Framework gives you the power and convenience of remote Android device administration. | https://github.com/entynetproject/ghost | 711 | 362| 
 | 20200921T04:38:42Z | Null | https://github.com/SRX-YT/SimpleBackdoor | 0 | 0| 
 | 20200921T00:22:07Z | A Backdoor written in Python 3 that enables the attacker to execute commands on the remote machine being undetectable. | https://github.com/Ryan-AW/Backdoor-Trojan | 1 | 0| 
@@ -72,16 +83,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20200921T12:59:18Z | Null | https://github.com/utgwkk/App-PerlFuzzyTokenFinder | 0 | 0| 
-| 20200921T12:57:07Z | Fast web fuzzer written in Go | https://github.com/ffuf/ffuf | 2997 | 343| 
-| 20200921T12:55:02Z | The fuzzer afl++ is afl with community patches, AFLfast power schedules, qemu 3.1 upgrade + laf-intel support, MOpt mutators, InsTrim instrumentation, unicorn_mode, Redqueen and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 886 | 221| 
-| 20200921T11:47:59Z | My task about Fuzzy Logic for Artifical Intelligence Class | https://github.com/hasbiabdulmajid/AI_Fuzzy | 0 | 0| 
-| 20200921T11:22:26Z | Fuzzy geolocation Proof of Concept | https://github.com/Geonovum/fuzzy-geolocation-poc | 0 | 0| 
-| 20200921T11:12:28Z | Tools and workflows for fuzz testing | https://github.com/LeastAuthority/fleece | 0 | 0| 
-| 20200921T10:59:28Z | 一些常见字典 | https://github.com/yuanhaiGreg/Fuzz-Dict | 3 | 0| 
-| 20200921T10:38:51Z | Null | https://github.com/cprom/fuzzilogic | 0 | 0| 
-| 20200921T10:26:30Z | Null | https://github.com/jakkab/gp-fuzz-search | 0 | 0| 
-| 20200921T10:24:29Z | Null | https://github.com/sartura/periodic-fuzzer | 0 | 0| 
+| 20200921T23:51:30Z | Generate random valid Escaya format ASTs | https://github.com/escaya/escaya-fuzzer | 1 | 0| 
+| 20200921T23:19:14Z | FuzzBench - Fuzzer benchmarking as a service. | https://github.com/google/fuzzbench | 526 | 80| 
+| 20200921T23:17:17Z | Null | https://github.com/jakkab/gp-fuzz-search | 0 | 0| 
+| 20200921T22:59:55Z | AFL++ as a library: gives you all the tools necessary to craft the best fuzzer for your targets with ease! | https://github.com/AFLplusplus/LibAFL | 87 | 3| 
+| 20200921T22:57:17Z | Unsupervised coverage-guided btrfs fuzzer | https://github.com/danobi/btrfs-fuzz | 0 | 0| 
+| 20200921T21:55:09Z | Framework for finding similar rows in a JDBC source | https://github.com/bmiller1009/fuzzy-row-matcher | 0 | 0| 
+| 20200921T21:47:11Z | Code for fuzzy monkeys. | https://github.com/fuzzyatelin/fuzzyatelin.github.io | 1 | 9| 
+| 20200921T21:21:08Z | 🏆 Collection of bugs uncovered by fuzzing Rust code | https://github.com/rust-fuzz/trophy-case | 198 | 31| 
+| 20200921T21:20:49Z | Fuzzy finder for every AWS component | https://github.com/AndreZiviani/aws-fuzzy | 0 | 1| 
+| 20200921T20:33:03Z | Null | https://github.com/ottypes/fuzzer | 12 | 3| 
 
 
 
