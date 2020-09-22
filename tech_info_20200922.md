@@ -32,15 +32,15 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20200922T12:54:19Z | CVE-2020-15148 | 几条关于CVE-2020-15148（yii2反序列化）的绕过 | https://github.com/Maskhe/CVE-2020-15148-bypasses | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 05 MINUTES 25 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200922T12:54:19Z | CVE-2020-15148 | 几条关于CVE-2020-15148（yii2反序列化）的绕过 | https://github.com/Maskhe/CVE-2020-15148-bypasses | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 03 MINUTES 32 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20200922T11:30:55Z | 未知编号 | All five experiments of computer vision courses opened at Xidian University. CV XDU | https://github.com/Jiehuishun/CVExp-XDU-2020-CS5201 | 未查询到CVE信息| 
-| 20200922T02:08:37Z | CVE-2020-25790 | Exploit for CVE-2020-25790 | https://github.com/t0gu/CVE-2020-25790 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 05 MINUTES 25 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200922T02:08:37Z | CVE-2020-25790 | Exploit for CVE-2020-25790 | https://github.com/t0gu/CVE-2020-25790 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 03 MINUTES 35 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20200922T12:51:42Z | Website for the KLEE project: https://klee.github.io/ | https://github.com/klee/klee.github.io | 13 | 42| 
+| 20200922T12:56:38Z | Website for the KLEE project: https://klee.github.io/ | https://github.com/klee/klee.github.io | 13 | 42| 
 | 20200922T04:57:49Z | Create CFGs and compute complexity metrics for Python, C++, and Java code. | https://github.com/hmc-alpaqa/metrinome | 4 | 0| 
 | 20200922T01:51:39Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1510 | 458| 
 
@@ -53,9 +53,9 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20200922T12:53:44Z | Implementation of our paper %Data Rejuvenation: Exploiting Inactive Training Examples for Neural Machine Translation% to appear in EMNLP2020. | https://github.com/wxjiao/Data-Rejuvenation | 11 | 0| 
+| 20200922T12:55:47Z | Some stack-based buffer overflow exploits. | https://github.com/MohamedEmbaby00/BOF | 0 | 0| 
+| 20200922T12:55:38Z | Implementation of our paper %Data Rejuvenation: Exploiting Inactive Training Examples for Neural Machine Translation% to appear in EMNLP 2020. | https://github.com/wxjiao/Data-Rejuvenation | 11 | 0| 
 | 20200922T12:52:16Z | Exploit Router Hacking | https://github.com/JulianPedro/Exploit-Win-240 | 1 | 0| 
-| 20200922T12:50:45Z | Some stack-based buffer overflow exploits. | https://github.com/MohamedEmbaby00/BOF | 0 | 0| 
 | 20200922T12:43:29Z | A script to exploit invdos CVE-2018-17145 on any bitcoin based network | https://github.com/eabz/invdos | 0 | 0| 
 | 20200922T12:39:37Z | Blog! | https://github.com/nonetype/nonetype.github.io | 0 | 0| 
 | 20200922T12:29:11Z | exploit-exam | https://github.com/vapvin/exploit-exam | 0 | 0| 
@@ -79,9 +79,9 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20200922T12:52:16Z | Null | https://github.com/guidovranken/wolf-ssl-ssh-fuzzers | 0 | 0| 
+| 20200922T12:53:40Z | Null | https://github.com/xqus/laravel-fuzz | 0 | 0| 
+| 20200922T12:52:27Z | Null | https://github.com/guidovranken/wolf-ssl-ssh-fuzzers | 0 | 0| 
 | 20200922T12:46:25Z | A vst plugin to distort audio with waveshaper using teeth like function | https://github.com/bartoszOsn/FuzzTeeth | 0 | 0| 
-| 20200922T12:18:07Z | Null | https://github.com/xqus/laravel-fuzz | 0 | 0| 
 | 20200922T11:58:06Z | To make fuzzing Rust easy | https://github.com/smoelius/test-fuzz | 0 | 0| 
 | 20200922T11:48:17Z | A JavaScript Engine Fuzzer | https://github.com/googleprojectzero/fuzzilli | 1028 | 169| 
 | 20200922T11:38:27Z | Ogawa-Morita-Kobayashi Model(1988). A fuzzy document retrieval system using the keyword connection matrix and a learning method. | https://github.com/ryan-rozario/fuzzy_doc_ranking | 0 | 0| 
