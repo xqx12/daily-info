@@ -27,7 +27,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20200921T23:24:14Z | CVE-2020-1472 | Test script for CVE-2020-1472 for both RPC/TCP and RPC/SMB | https://github.com/zeronetworks/zerologon | 当攻击者使用Netlogon远程协议（MS-NRPC）（又称为“ Netlogon特权提升漏洞”）建立与域控制器的易受攻击的Netlogon安全通道连接时，将存在特权提升漏洞。| 
+| 20200921T23:24:14Z | CVE-2020-1472 | Test script for CVE-2020-1472 for both RPC/TCP and RPC/SMB | https://github.com/zeronetworks/zerologon | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 55 MINUTES 17 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20200921T19:30:10Z | CVE-2020-15148 | 几条关于CVE-2020-15148（yii2反序列化）的绕过 | https://github.com/Maskhe/CVE-2020-15148-bypasses | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 55 MINUTES 29 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20200921T19:18:07Z | 未知编号 | 2020l4web-typography-css-library-DanCvejn created by GitHub Classroom | https://github.com/pslib-cz/2020l4web-typography-css-library-DanCvejn | 未查询到CVE信息| 
 | 20200921T07:24:16Z | CVE-2020-1472 | Null | https://github.com/t31m0/CVE-2020-1472 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 55 MINUTES 30 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
