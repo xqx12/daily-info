@@ -27,11 +27,11 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20200921T23:24:14Z | CVE-2020-1472 | Test script for CVE-2020-1472 for both RPC/TCP and RPC/SMB | https://github.com/zeronetworks/zerologon | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 16 MINUTES 15 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200921T23:24:14Z | CVE-2020-1472 | Test script for CVE-2020-1472 for both RPC/TCP and RPC/SMB | https://github.com/zeronetworks/zerologon | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 15 MINUTES 13 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20200921T19:18:07Z | 未知编号 | 2020l4web-typography-css-library-DanCvejn created by GitHub Classroom | https://github.com/pslib-cz/2020l4web-typography-css-library-DanCvejn | 未查询到CVE信息| 
 | 20200921T07:24:16Z | CVE-2020-1472 | Null | https://github.com/t31m0/CVE-2020-1472 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 15 MINUTES 27 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20200921T01:27:12Z | CVE-2020-1472 |  CVE-2020-1472复现时使用的py文件整理打包 | https://github.com/sv3nbeast/CVE-2020-1472 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 00 MINUTES 18 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200921T00:45:28Z | CVE-2020-0796 | cobaltstrike cna for CVE-2020-0796 | https://github.com/aloswoya/CVE-2020-0796-cobaltstrike-cna | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 16 MINUTES 25 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200921T00:45:28Z | CVE-2020-0796 | cobaltstrike cna for CVE-2020-0796 | https://github.com/aloswoya/CVE-2020-0796-cobaltstrike-cna | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 15 MINUTES 24 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 
 
 # klee on Github 推荐
@@ -84,7 +84,6 @@
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
 | 20200921T23:51:30Z | Generate random valid Escaya format ASTs | https://github.com/escaya/escaya-fuzzer | 1 | 0| 
-| 20200921T23:19:14Z | FuzzBench - Fuzzer benchmarking as a service. | https://github.com/google/fuzzbench | 526 | 80| 
 | 20200921T23:17:17Z | Null | https://github.com/jakkab/gp-fuzz-search | 0 | 0| 
 | 20200921T21:55:09Z | Framework for finding similar rows in a JDBC source | https://github.com/bmiller1009/fuzzy-row-matcher | 0 | 0| 
 | 20200921T21:47:11Z | Code for fuzzy monkeys. | https://github.com/fuzzyatelin/fuzzyatelin.github.io | 1 | 9| 
@@ -93,6 +92,7 @@
 | 20200921T20:33:03Z | Null | https://github.com/ottypes/fuzzer | 12 | 3| 
 | 20200921T20:22:59Z | just a macro that generates the fuzz you need to deal with OpenGL | https://github.com/krux02/opengl-sandbox | 92 | 6| 
 | 20200921T20:17:16Z | Null | https://github.com/highperformance70/fuzzy-invention | 0 | 0| 
+| 20200921T20:15:13Z | Fuzzy Lookup function for Splunk. Find near-matches in a lookup to enrich search results. | https://github.com/deductiv/fuzzylookup | 0 | 0| 
 
 
 
