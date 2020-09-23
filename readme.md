@@ -70,20 +70,26 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20200923T08:00:14Z | Hacking tools pack & backdoors generator. | https://github.com/AdrMXR/KitHack | 170 | 42| 
+| 20200923T03:23:37Z | Antivirus evasion project  | https://github.com/Ch0pin/AVIator | 406 | 121| 
+| 20200923T02:39:49Z | here i made a few scritps where you can deploy and execute a backdoor just by plugging in your arduino into a computer ! DISCLAIMER ONLY WORKS FOR WINDOWS! | https://github.com/MalwareMix/ardunio-scripts | 0 | 0| 
+| 20200923T02:09:37Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 61 | 7| 
 | 20200923T00:11:33Z | Tool to find potential backdoor/security holes in your endpoint | https://github.com/subasgit/backdoorfinder | 0 | 0| 
 
 
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20200923T01:54:33Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 1627 | 79| 
-| 20200923T01:52:30Z | Null | https://github.com/BokalinaR/Computational-Inteligence_FuzzyNeuralNetwork | 0 | 0| 
-| 20200923T01:49:43Z | Unsupervised coverage-guided btrfs fuzzer | https://github.com/danobi/btrfs-fuzz | 0 | 0| 
-| 20200923T01:47:03Z | Null | https://github.com/noloerino/eye-fuzz | 0 | 0| 
-| 20200923T01:42:02Z | To make fuzzing Rust easy | https://github.com/smoelius/test-fuzz | 0 | 0| 
-| 20200923T01:19:47Z | Scalable fuzzing infrastructure. | https://github.com/google/clusterfuzz | 4331 | 389| 
-| 20200923T01:19:07Z | Null | https://github.com/sclauguico/Adaptive-Neuro-Fuzzy-Inference-System-on-Aquaphotomics-Development-for-Aquaponic-Water-Nutrient-Asse | 0 | 0| 
-| 20200923T00:41:24Z | OSS-Fuzz - continuous fuzzing of open source software. | https://github.com/google/oss-fuzz | 5563 | 1091| 
+| 20200923T11:56:20Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 3138 | 723| 
+| 20200923T11:55:46Z | Potentially dangerous files | https://github.com/Bo0oM/fuzz.txt | 1273 | 232| 
+| 20200923T11:40:28Z | AFL++ as a library: gives you all the tools necessary to craft the best fuzzer for your targets with ease! | https://github.com/AFLplusplus/LibAFL | 86 | 3| 
+| 20200923T11:34:47Z | Montage: A Neural Network Language Model-Guided JavaScript Engine Fuzzer | https://github.com/WSP-LAB/Montage | 23 | 0| 
+| 20200923T11:28:38Z | Null | https://github.com/s9varesc/url-fuzzing | 0 | 0| 
+| 20200923T11:16:53Z | Triển khai 3 thuật toán dựa trên phân cụm mờ (FCM), cùng với các tiêu chí đánh giá khác nhau. | https://github.com/huulinhcvp/Fuzzy-C-Means-Algorithm-and-Clustering-Validity-Criterions | 1 | 1| 
+| 20200923T11:15:29Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 26907 | 13170| 
+| 20200923T10:59:19Z | Null | https://github.com/Software-Analysis-Team/Unit-Test-Fuzzer | 0 | 0| 
+| 20200923T10:48:42Z | Null | https://github.com/Bjoegold/fuzzy-octo-enigma | 0 | 0| 
+| 20200923T10:33:54Z | Null | https://github.com/ekhtiram/FuzzyLogic_and_AI | 0 | 0| 
 
 
 
