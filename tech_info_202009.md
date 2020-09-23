@@ -46,15 +46,15 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20200923T01:34:55Z | CVE-2020-15148 | 几条关于CVE-2020-15148（yii2反序列化）的绕过 | https://github.com/Maskhe/CVE-2020-15148-bypasses | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 19 MINUTES 30 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200923T01:34:55Z | CVE-2020-15148 | 几条关于CVE-2020-15148（yii2反序列化）的绕过 | https://github.com/Maskhe/CVE-2020-15148-bypasses | | 
 | 20200922T23:30:19Z | CVE-2020-17382 | Null | https://github.com/fdiskyou/CVE-2020-17382 | 未查询到CVE信息| 
-| 20200922T21:33:33Z | CVE-2020-1472 | Test script for CVE-2020-1472 for both RPC/TCP and RPC/SMB | https://github.com/zeronetworks/zerologon | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 19 MINUTES 22 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200922T21:33:33Z | CVE-2020-1472 | Test script for CVE-2020-1472 for both RPC/TCP and RPC/SMB | https://github.com/zeronetworks/zerologon | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 18 MINUTES 23 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20200922T17:44:47Z | CVE-2020-25515 | Unrestricted File Upload in Simple Library Management System 1.0 | https://github.com/Ko-kn3t/CVE-2020-25515 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 18 MINUTES 37 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20200922T17:06:49Z | CVE-2020-25488 | Login Bypass in Zoo Management System V1.0 | https://github.com/Ko-kn3t/CVE-2020-25488 | 未查询到CVE信息| 
-| 20200922T16:58:44Z | CVE-2020-25514 | Login Bypass in  Simple Library Management System 1.0 | https://github.com/Ko-kn3t/CVE-2020-25514 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 19 MINUTES 35 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200922T16:41:59Z | CVE-2020-25487 | SQL injection Vulnerability in Zoo Management System | https://github.com/Ko-kn3t/CVE-2020-25487 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 19 MINUTES 34 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200922T16:58:44Z | CVE-2020-25514 | Login Bypass in  Simple Library Management System 1.0 | https://github.com/Ko-kn3t/CVE-2020-25514 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 18 MINUTES 36 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200922T16:41:59Z | CVE-2020-25487 | SQL injection Vulnerability in Zoo Management System | https://github.com/Ko-kn3t/CVE-2020-25487 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 18 MINUTES 35 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20200922T11:30:55Z | 未知编号 | All five experiments of computer vision courses opened at Xidian University. CV XDU | https://github.com/Jiehuishun/CVExp-XDU-2020-CS5201 | 未查询到CVE信息| 
-| 20200922T02:08:37Z | CVE-2020-25790 | Exploit for CVE-2020-25790 | https://github.com/t0gu/CVE-2020-25790 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 19 MINUTES 32 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200922T02:08:37Z | CVE-2020-25790 | Exploit for CVE-2020-25790 | https://github.com/t0gu/CVE-2020-25790 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 18 MINUTES 33 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20200921T19:18:07Z | 未知编号 | 2020l4web-typography-css-library-DanCvejn created by GitHub Classroom | https://github.com/pslib-cz/2020l4web-typography-css-library-DanCvejn | 未查询到CVE信息| 
 
 
@@ -121,7 +121,8 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20200923T01:31:43Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 1622 | 79| 
+| 20200923T01:42:02Z | To make fuzzing Rust easy | https://github.com/smoelius/test-fuzz | 0 | 0| 
+| 20200923T01:39:22Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 1623 | 79| 
 | 20200923T01:19:47Z | Scalable fuzzing infrastructure. | https://github.com/google/clusterfuzz | 4331 | 389| 
 | 20200923T01:19:07Z | Null | https://github.com/sclauguico/Adaptive-Neuro-Fuzzy-Inference-System-on-Aquaphotomics-Development-for-Aquaponic-Water-Nutrient-Asse | 0 | 0| 
 | 20200923T00:41:24Z | OSS-Fuzz - continuous fuzzing of open source software. | https://github.com/google/oss-fuzz | 5563 | 1091| 
@@ -130,7 +131,6 @@
 | 20200922T23:31:27Z | Null | https://github.com/BokalinaR/Computational-Inteligence_FuzzyNeuralNetwork | 0 | 0| 
 | 20200922T23:05:00Z | docker fuzz lnd | https://github.com/Crypt-iQ/docker-fuzz-lnd | 0 | 0| 
 | 20200922T22:12:48Z | RcppDeepState, a simple way to fuzz test code in Rcpp packages | https://github.com/akhikolla/RcppDeepState | 0 | 0| 
-| 20200922T21:51:26Z | Null | https://github.com/corootine/fuzzy | 0 | 0| 
 
 
 
