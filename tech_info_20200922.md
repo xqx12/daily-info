@@ -34,9 +34,9 @@
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
 | 20200922T23:30:19Z | CVE-2020-17382 | Null | https://github.com/fdiskyou/CVE-2020-17382 | 未查询到CVE信息| 
-| 20200922T21:33:33Z | CVE-2020-1472 | Test script for CVE-2020-1472 for both RPC/TCP and RPC/SMB | https://github.com/zeronetworks/zerologon | 当攻击者使用Netlogon远程协议（MS-NRPC）（又称为“ Netlogon特权提升漏洞”）建立与域控制器的易受攻击的Netlogon安全通道连接时，将存在特权提升漏洞。| 
-| 20200922T17:44:47Z | CVE-2020-25515 | Unrestricted File Upload in Simple Library Management System 1.0 | https://github.com/Ko-kn3t/CVE-2020-25515 | 源代码代码简单图书馆管理系统1.0受通过书籍和书籍的不安全权限影响，http://&lt;site&gt;/lms/index.php？page+书籍。&lt;/site&gt;| 
-| 20200922T17:32:57Z | CVE-2020-15148 | 几条关于CVE-2020-15148（yii2反序列化）的绕过 | https://github.com/Maskhe/CVE-2020-15148-bypasses | 如果应用程序对任意用户输入调用%非程序化%，版本 2.0.38 之前的第 ii 2（yiisoft/yii2）很容易受到远程代码执行的影响。这在版本 2.0.38 中是固定的。链接的通报中提供了不升级的可能解决方法。| 
+| 20200922T21:33:33Z | CVE-2020-1472 | Test script for CVE-2020-1472 for both RPC/TCP and RPC/SMB | https://github.com/zeronetworks/zerologon | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 53 MINUTES 23 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200922T17:44:47Z | CVE-2020-25515 | Unrestricted File Upload in Simple Library Management System 1.0 | https://github.com/Ko-kn3t/CVE-2020-25515 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 52 MINUTES 39 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200922T17:32:57Z | CVE-2020-15148 | 几条关于CVE-2020-15148（yii2反序列化）的绕过 | https://github.com/Maskhe/CVE-2020-15148-bypasses | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 53 MINUTES 31 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20200922T17:06:49Z | CVE-2020-25488 | Login Bypass in Zoo Management System V1.0 | https://github.com/Ko-kn3t/CVE-2020-25488 | 未查询到CVE信息| 
 | 20200922T16:58:44Z | CVE-2020-25514 | Login Bypass in  Simple Library Management System 1.0 | https://github.com/Ko-kn3t/CVE-2020-25514 | 源代码代码简单库管理系统1.0受登录面板（登录面板&lt;site&gt;）http:///admin.php 的影响。&lt;/site&gt;| 
 | 20200922T16:41:59Z | CVE-2020-25487 | SQL injection Vulnerability in Zoo Management System | https://github.com/Ko-kn3t/CVE-2020-25487 | 使用 PHP 和 MySQL 版本 1.0 的 PHPGURUKUL 动物园管理系统受：通过 zms/动物细节.php 进行 SQL 注入。| 
