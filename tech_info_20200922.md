@@ -38,7 +38,7 @@
 | 20200922T17:44:47Z | CVE-2020-25515 | Unrestricted File Upload in Simple Library Management System 1.0 | https://github.com/Ko-kn3t/CVE-2020-25515 | 源代码代码简单图书馆管理系统1.0受通过书籍和书籍的不安全权限影响，http://&lt;site&gt;/lms/index.php？page+书籍。&lt;/site&gt;| 
 | 20200922T17:32:57Z | CVE-2020-15148 | 几条关于CVE-2020-15148（yii2反序列化）的绕过 | https://github.com/Maskhe/CVE-2020-15148-bypasses | 如果应用程序对任意用户输入调用%非程序化%，版本 2.0.38 之前的第 ii 2（yiisoft/yii2）很容易受到远程代码执行的影响。这在版本 2.0.38 中是固定的。链接的通报中提供了不升级的可能解决方法。| 
 | 20200922T17:06:49Z | CVE-2020-25488 | Login Bypass in Zoo Management System V1.0 | https://github.com/Ko-kn3t/CVE-2020-25488 | 未查询到CVE信息| 
-| 20200922T16:58:44Z | CVE-2020-25514 | Login Bypass in  Simple Library Management System 1.0 | https://github.com/Ko-kn3t/CVE-2020-25514 | | 
+| 20200922T16:58:44Z | CVE-2020-25514 | Login Bypass in  Simple Library Management System 1.0 | https://github.com/Ko-kn3t/CVE-2020-25514 | 源代码代码简单库管理系统1.0受登录面板（登录面板&lt;site&gt;）http:///admin.php 的影响。&lt;/site&gt;| 
 | 20200922T16:41:59Z | CVE-2020-25487 | SQL injection Vulnerability in Zoo Management System | https://github.com/Ko-kn3t/CVE-2020-25487 | 使用 PHP 和 MySQL 版本 1.0 的 PHPGURUKUL 动物园管理系统受：通过 zms/动物细节.php 进行 SQL 注入。| 
 | 20200922T11:30:55Z | 未知编号 | All five experiments of computer vision courses opened at Xidian University. CV XDU | https://github.com/Jiehuishun/CVExp-XDU-2020-CS5201 | 未查询到CVE信息| 
 | 20200922T02:08:37Z | CVE-2020-25790 | Exploit for CVE-2020-25790 | https://github.com/t0gu/CVE-2020-25790 | Typesetter CMS 5.x到5.1允许管理员通过ZIP存档中的.php文件上传并执行任意PHP代码。注意：供应商对本报告的重要性提出异议，因为“管理员被认为是可信赖的”；但是，该行为“与我们的安全策略矛盾”，并且在5.2中已修复。| 
