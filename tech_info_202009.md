@@ -17,6 +17,8 @@
 | 20200923 | frp - 是一个专注于内网穿透的高性能的反向代理应用 | https://github.com/fatedier/frp| 
 | 20200923 | WebSphere XXE 漏洞分析(CVE-2020-4643) | https://sec.today/pulses/f67c753a-bf23-42da-9467-9ad8ab17159a/| 
 | 20200923 | Android 11 锁屏和身份验证过程改进的细节 | https://sec.today/pulses/94f78c80-c71f-4962-87f6-338cc33a20e5/| 
+| 20200923 | WebSphere XXE 漏洞分析(CVE-2020-4643) | https://paper.seebug.org/1342/| 
+| 20200923 | Android 11 锁屏和身份验证过程改进的细节 | https://security.googleblog.com/2020/09/lockscreen-and-authentication.html| 
 | 20200922 | 利用 macOS Dock 实现攻击持久化 | http://posts.specterops.io/are-you-docking-kidding-me-9aa79c24bdc1| 
 | 20200922 | macOS 平台第三方框架导致的进程注入漏洞 | https://www.trustedsec.com/blog/macos-injection-via-third-party-frameworks/| 
 | 20200922 | iOS 14 新增的一些安全特性 | https://arstechnica.com/tech-policy/2020/09/a-bevy-of-new-features-makes-ios-14-the-most-secure-mobile-os-ever/| 
@@ -24,8 +26,6 @@
 | 20200922 | 对多米诺行动所用 0DAY JScript 漏洞(CVE-2020-0968)的详细分析 | https://ti.dbappsecurity.com.cn/blog/index.php/2020/09/18/cve-2020-0968/| 
 | 20200922 | 利用 QEMU 的方案为 IOT 设备提供虚拟化环境 | http://blog.khonggianmang.vn/iot-vulnerabilities-research-series-virtualizing-devices-with-qemu/| 
 | 20200922 | 越狱工具 checkra1n 发布 0.11.0 版本，开始支持部分设备的 iOS 14 版本的越狱 | http://checkra.in/news/2020/09/iOS-14-announcement| 
-| 20200922 | Linux 5.7 版本安全相关特性的变化 | https://outflux.net/blog/archives/2020/09/21/security-things-in-linux-v5-7/| 
-| 20200922 | Netgear Nighthawk R8300 upnpd PreAuth RCE | https://ssd-disclosure.com/ssd-advisory-netgear-nighthawk-r8300-upnpd-preauth-rce/| 
 
 
 # 安全维基 推荐
@@ -46,10 +46,10 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20200923T09:55:30Z | CVE-2020-15148 | 几条关于CVE-2020-15148（yii2反序列化）的绕过 | https://github.com/Maskhe/CVE-2020-15148-bypasses | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 58 MINUTES 35 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200923T09:31:19Z | CVE-2020-25487 | SQL injection Vulnerability in Zoo Management System | https://github.com/Ko-kn3t/CVE-2020-25487 | | 
-| 20200923T08:51:32Z | CVE-2020-1472 | PoC for Zerologon - all research credits go to Tom Tervoort of Secura | https://github.com/dirkjanm/CVE-2020-1472 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 58 MINUTES 31 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200923T08:43:32Z | CVE-2020-1472 | Test tool for CVE-2020-1472 | https://github.com/SecuraBV/CVE-2020-1472 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 58 MINUTES 30 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200923T09:55:30Z | CVE-2020-15148 | 几条关于CVE-2020-15148（yii2反序列化）的绕过 | https://github.com/Maskhe/CVE-2020-15148-bypasses | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 57 MINUTES 23 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200923T09:31:19Z | CVE-2020-25487 | SQL injection Vulnerability in Zoo Management System | https://github.com/Ko-kn3t/CVE-2020-25487 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 57 MINUTES 26 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200923T08:51:32Z | CVE-2020-1472 | PoC for Zerologon - all research credits go to Tom Tervoort of Secura | https://github.com/dirkjanm/CVE-2020-1472 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 57 MINUTES 18 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200923T08:43:32Z | CVE-2020-1472 | Test tool for CVE-2020-1472 | https://github.com/SecuraBV/CVE-2020-1472 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 57 MINUTES 17 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20200923T07:11:25Z | CVE-2020-17382 | Null | https://github.com/fdiskyou/CVE-2020-17382 | 未查询到CVE信息| 
 | 20200923T04:34:25Z | CVE-2020-25273 | Online Bus Booking System 1.0,  there is Authentication bypass on the Admin Login screen in admin.php via username or password SQL injection. | https://github.com/Ko-kn3t/CVE-2020-25273 | 未查询到CVE信息| 
 | 20200923T04:28:17Z | CVE-2020-25272 | Online Bus Booking System 1.0,there is XSS through the name parameter in book_now.php | https://github.com/Ko-kn3t/CVE-2020-25272 | 未查询到CVE信息| 
