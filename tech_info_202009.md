@@ -91,6 +91,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20200924T00:04:00Z |  C# program to load .Net assemblies. | https://github.com/m8r0wn/EAPrimer | 0 | 0| 
+| 20200924T00:03:04Z | A brand new Script Hub for Exploit | https://github.com/kelvinfung1-dumbass/ImGui-KelvinHub | 0 | 0| 
 | 20200923T23:48:48Z | Null | https://github.com/quentin452/Cats-Exploitz-HUB | 0 | 1| 
 | 20200923T23:27:48Z | he use of the SameSite policy. However this feature is still “experimental” and for the use case of allowing your web api to be potentially used by anyone, using a SameSite policy would not work.  The abuse of this mechanism (i.e. the browser sending the cookies automatically) is what CSRF exploits.  | https://github.com/DevNet472/Anti-forgery-validation-with-ASP.Net-Core-and-Angular | 0 | 0| 
 | 20200923T23:11:01Z | Null | https://github.com/kojenov/hisilicon-iptv-exploits | 4 | 1| 
@@ -99,8 +101,6 @@
 | 20200923T22:30:07Z | Null | https://github.com/SeanLossef/modern-binary-exploitation | 0 | 0| 
 | 20200923T22:11:33Z | XSHOCK Shellshock Exploit  | https://github.com/capture0x/XSHOCK | 59 | 16| 
 | 20200923T22:02:46Z | Hi, we%re back again. I%m releasing this new method because literally, we all know it%s going to be fixed within 24 hours. So have fun. | https://github.com/Yaekith/ServerOutageExploitV3 | 5 | 4| 
-| 20200923T21:59:47Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 7268 | 1195| 
-| 20200923T21:57:17Z | Quick walktrough for vulnhub with exploits. see report.md or notes.md for each box | https://github.com/NeuronAddict/vulnhub-quick-walkthrough | 1 | 0| 
 
 
 # backdoor on Github 推荐
