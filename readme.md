@@ -35,14 +35,14 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20200923T21:28:10Z | CVE-2020-1472 | PoC for Zerologon - all research credits go to Tom Tervoort of Secura | https://github.com/dirkjanm/CVE-2020-1472 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 33 MINUTES 25 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200923T21:28:10Z | CVE-2020-1472 | PoC for Zerologon - all research credits go to Tom Tervoort of Secura | https://github.com/dirkjanm/CVE-2020-1472 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 32 MINUTES 24 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20200923T17:28:45Z | CVE-2020-17382 | Null | https://github.com/fdiskyou/CVE-2020-17382 | 未查询到CVE信息| 
 | 20200923T14:55:34Z | 未知编号 | All five experiments of computer vision courses opened at Xidian University. CV XDU | https://github.com/Jiehuishun/CVExp-XDU-2020-CS5201 | 未查询到CVE信息| 
-| 20200923T09:55:30Z | CVE-2020-15148 | 几条关于CVE-2020-15148（yii2反序列化）的绕过 | https://github.com/Maskhe/CVE-2020-15148-bypasses | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 33 MINUTES 29 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200923T09:31:19Z | CVE-2020-25487 | SQL injection Vulnerability in Zoo Management System | https://github.com/Ko-kn3t/CVE-2020-25487 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 33 MINUTES 34 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200923T09:55:30Z | CVE-2020-15148 | 几条关于CVE-2020-15148（yii2反序列化）的绕过 | https://github.com/Maskhe/CVE-2020-15148-bypasses | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 32 MINUTES 28 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200923T09:31:19Z | CVE-2020-25487 | SQL injection Vulnerability in Zoo Management System | https://github.com/Ko-kn3t/CVE-2020-25487 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 32 MINUTES 32 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20200923T04:34:25Z | CVE-2020-25273 | Online Bus Booking System 1.0,  there is Authentication bypass on the Admin Login screen in admin.php via username or password SQL injection. | https://github.com/Ko-kn3t/CVE-2020-25273 | 未查询到CVE信息| 
 | 20200923T04:28:17Z | CVE-2020-25272 | Online Bus Booking System 1.0,there is XSS through the name parameter in book_now.php | https://github.com/Ko-kn3t/CVE-2020-25272 | 未查询到CVE信息| 
-| 20200923T03:49:17Z | CVE-2020-25271 | Null | https://github.com/Ko-kn3t/CVE-2020-25271 | | 
+| 20200923T03:49:17Z | CVE-2020-25271 | Null | https://github.com/Ko-kn3t/CVE-2020-25271 | 未查询到CVE信息| 
 | 20200923T03:22:49Z | CVE-2020-25270 | PHPGurukul hostel-management-system 2.1 allows XSS via  Guardian Name, Guardian Relation,  Guardian Contact no,  Address, City | https://github.com/Ko-kn3t/CVE-2020-25270 | 未查询到CVE信息| 
 | 20200923T02:00:15Z | cve-2020-13933 | cve-2020-13933 apache shiro权限绕过漏洞 | https://github.com/Kamimuka/cve-2020-13933 | 未查询到CVE信息| 
 
@@ -66,7 +66,6 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20200923T23:48:48Z | Null | https://github.com/quentin452/Cats-Exploitz-HUB | 0 | 1| 
 | 20200923T23:27:48Z | he use of the SameSite policy. However this feature is still “experimental” and for the use case of allowing your web api to be potentially used by anyone, using a SameSite policy would not work.  The abuse of this mechanism (i.e. the browser sending the cookies automatically) is what CSRF exploits.  | https://github.com/DevNet472/Anti-forgery-validation-with-ASP.Net-Core-and-Angular | 0 | 0| 
 | 20200923T23:11:01Z | Null | https://github.com/kojenov/hisilicon-iptv-exploits | 4 | 1| 
 | 20200923T22:48:00Z | A post exploitation framework designed to operate covertly on heavily monitored environments | https://github.com/bats3c/shad0w | 895 | 133| 
@@ -76,6 +75,7 @@
 | 20200923T22:02:46Z | Hi, we%re back again. I%m releasing this new method because literally, we all know it%s going to be fixed within 24 hours. So have fun. | https://github.com/Yaekith/ServerOutageExploitV3 | 5 | 4| 
 | 20200923T21:59:47Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 7268 | 1195| 
 | 20200923T21:57:17Z | Quick walktrough for vulnhub with exploits. see report.md or notes.md for each box | https://github.com/NeuronAddict/vulnhub-quick-walkthrough | 1 | 0| 
+| 20200923T21:46:27Z | Exploit, Malware and Vulnerability Scoring Application  | https://github.com/idaholab/EMV | 1 | 1| 
 
 
 # backdoor on Github 推荐
