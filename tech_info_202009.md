@@ -6,6 +6,17 @@
 # 玄武实验室 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20200924 | 基于Yara的简单IOC扫描器Spyre | https://github.com/spyre-project/spyre| 
+| 20200924 | bombus - 陌陌开源的合规审计平台 | https://github.com/momosecurity/bombus| 
+| 20200924 | RTTIDumper - 注入目标进程 Dump 虚函数表的工具 | https://github.com/samsonpianofingers/RTTIDumper| 
+| 20200924 | ZeroLogon(CVE-2020-1472) 漏洞的攻击与防御 | https://blog.zsec.uk/zerologon-attacking-defending/| 
+| 20200924 | Shield - 研究员 theevilbit 为 macOS 平台写了一个进程注入防护工具 | https://theevilbit.github.io/shield/| 
+| 20200924 | 如何用 libFuzzer Fuzz 涉及浮点数的代码 | https://rigtorp.se/fuzzing-floating-point-code/| 
+| 20200924 | 微软 BING 搜索因为公开的 ES 服务器导致泄露 6.5 TB 的数据 | https://www.theregister.com/2020/09/23/microsoft_leaks_over_65tb_bing/| 
+| 20200924 | Redefining Impossible: XSS without arbitrary JavaScript | https://portswigger.net/research/redefining-impossible-xss-without-arbitrary-javascript| 
+| 20200924 | Windows Group Policy Caching 本地 SYSTEM 提权漏洞（CVE-2020-1317）的分析 | https://decoder.cloud/2020/09/23/abusing-group-policy-caching/| 
+| 20200924 | Guys 30 Reverse Engineering Tips & Tricks | https://sec.today/pulses/322736f4-8130-48cb-81e5-b4bf0d998e2f/| 
+| 20200924 | Guys 30 Reverse Engineering Tips & Tricks | https://blog.whtaguy.com/2020/04/guys-30-reverse-engineering-tips-tricks.html?m=1| 
 | 20200923 | Crowdsec - 一款开源的、轻量级的异常行为检测 Agent，适用于容器和虚拟机环境 | https://github.com/crowdsecurity/crowdsec/| 
 | 20200923 | Exploiting Tiny Tiny RSS | https://www.digeex.de/blog/tinytinyrss/| 
 | 20200923 | IBM SIEM 产品 QRadar 软件 Windows 本地提权漏洞（CVE-2020-4485/4486）的分析 | https://labs.redyops.com/index.php/2020/09/11/ibm-qradar-wincollect-escalation-of-privileges-cve-2020-4485-cve-2020-4486/| 
@@ -15,17 +26,6 @@
 | 20200923 | Linux内核AF_PACKET原生套接字漏洞（CVE-2020-14386）分析 | https://mp.weixin.qq.com/s/uv3BiznUCUy8do_ullnXUw| 
 | 20200923 | ssldump - SSLv3/TLS 网络协议 Analyzer | https://github.com/adulau/ssldump| 
 | 20200923 | frp - 是一个专注于内网穿透的高性能的反向代理应用 | https://github.com/fatedier/frp| 
-| 20200923 | WebSphere XXE 漏洞分析(CVE-2020-4643) | https://sec.today/pulses/f67c753a-bf23-42da-9467-9ad8ab17159a/| 
-| 20200923 | Android 11 锁屏和身份验证过程改进的细节 | https://sec.today/pulses/94f78c80-c71f-4962-87f6-338cc33a20e5/| 
-| 20200923 | WebSphere XXE 漏洞分析(CVE-2020-4643) | https://paper.seebug.org/1342/| 
-| 20200923 | Android 11 锁屏和身份验证过程改进的细节 | https://security.googleblog.com/2020/09/lockscreen-and-authentication.html| 
-| 20200923 | 红蓝对抗中的近源渗透 | https://security.tencent.com/index.php/blog/msg/167| 
-| 20200923 | Rapid7团队发布2020年第二季度季度威胁报告。 | https://blog.rapid7.com/2020/09/22/rapid7-releases-q2-2020-quarterly-threat-report/| 
-| 20200922 | 利用 macOS Dock 实现攻击持久化 | http://posts.specterops.io/are-you-docking-kidding-me-9aa79c24bdc1| 
-| 20200922 | macOS 平台第三方框架导致的进程注入漏洞 | https://www.trustedsec.com/blog/macos-injection-via-third-party-frameworks/| 
-| 20200922 | iOS 14 新增的一些安全特性 | https://arstechnica.com/tech-policy/2020/09/a-bevy-of-new-features-makes-ios-14-the-most-secure-mobile-os-ever/| 
-| 20200922 | 有研究员公开 Android 版本 Firefox 浏览器漏洞，同一个 WiFi 下可以强制受害者 Firefox 打开任意网站 | https://threatpost.com/firefox-android-bug-rick-rolling/159397/| 
-| 20200922 | 对多米诺行动所用 0DAY JScript 漏洞(CVE-2020-0968)的详细分析 | https://ti.dbappsecurity.com.cn/blog/index.php/2020/09/18/cve-2020-0968/| 
 
 
 # 安全维基 推荐
@@ -46,26 +46,26 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20200924T00:58:07Z | CVE-2020-1472 | Test tool for CVE-2020-1472 | https://github.com/SecuraBV/CVE-2020-1472 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 00 MINUTES 24 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200923T21:28:10Z | CVE-2020-1472 | PoC for Zerologon - all research credits go to Tom Tervoort of Secura | https://github.com/dirkjanm/CVE-2020-1472 | | 
-| 20200923T17:28:45Z | CVE-2020-17382 | Null | https://github.com/fdiskyou/CVE-2020-17382 | 未查询到CVE信息| 
+| 20200924T11:54:37Z | CVE-2020-17382 | PoC exploits for CVE-2020-17382 | https://github.com/uf0o/CVE-2020-17382 | 未查询到CVE信息| 
+| 20200924T11:23:39Z | CVE-2020-17382 | Null | https://github.com/fdiskyou/CVE-2020-17382 | 未查询到CVE信息| 
+| 20200924T11:18:39Z | CVE-2020-1472 | PoC for Zerologon - all research credits go to Tom Tervoort of Secura | https://github.com/dirkjanm/CVE-2020-1472 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 59 MINUTES 21 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200924T10:04:30Z | CVE-2020-14293 | This repository holds the advisory, exploits and vulnerable software of the CVE-2020-14293 | https://github.com/patrickhener/CVE-2020-14293 | | 
+| 20200924T10:02:24Z | CVE-2020-15492 | This repository holds the advisory, exploits and vulnerable software of the CVE-2020-15492 | https://github.com/patrickhener/CVE-2020-15492 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 59 MINUTES 30 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200924T09:55:20Z | CVE-2020-14294 | This repository holds the advisory of the CVE-2020-14294 | https://github.com/patrickhener/CVE-2020-14294 | 未查询到CVE信息| 
+| 20200924T03:36:15Z | CVE-2020-1472 | Test tool for CVE-2020-1472 | https://github.com/SecuraBV/CVE-2020-1472 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 59 MINUTES 19 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20200923T14:55:34Z | 未知编号 | All five experiments of computer vision courses opened at Xidian University. CV XDU | https://github.com/Jiehuishun/CVExp-XDU-2020-CS5201 | 未查询到CVE信息| 
 | 20200923T09:55:30Z | CVE-2020-15148 | 几条关于CVE-2020-15148（yii2反序列化）的绕过 | https://github.com/Maskhe/CVE-2020-15148-bypasses | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 00 MINUTES 27 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200923T09:31:19Z | CVE-2020-25487 | SQL injection Vulnerability in Zoo Management System | https://github.com/Ko-kn3t/CVE-2020-25487 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 00 MINUTES 32 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200923T04:34:25Z | CVE-2020-25273 | Online Bus Booking System 1.0,  there is Authentication bypass on the Admin Login screen in admin.php via username or password SQL injection. | https://github.com/Ko-kn3t/CVE-2020-25273 | 未查询到CVE信息| 
-| 20200923T04:28:17Z | CVE-2020-25272 | Online Bus Booking System 1.0,there is XSS through the name parameter in book_now.php | https://github.com/Ko-kn3t/CVE-2020-25272 | 未查询到CVE信息| 
-| 20200923T03:49:17Z | CVE-2020-25271 | Null | https://github.com/Ko-kn3t/CVE-2020-25271 | 未查询到CVE信息| 
-| 20200923T03:22:49Z | CVE-2020-25270 | PHPGurukul hostel-management-system 2.1 allows XSS via  Guardian Name, Guardian Relation,  Guardian Contact no,  Address, City | https://github.com/Ko-kn3t/CVE-2020-25270 | 未查询到CVE信息| 
+| 20200923T09:31:19Z | CVE-2020-25487 | SQL injection Vulnerability in Zoo Management System | https://github.com/Ko-kn3t/CVE-2020-25487 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 59 MINUTES 26 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20200924T10:04:27Z | Null | https://github.com/Planet-Source-Code/alexander-kleehaus-multiuser-server-client__1-13540 | 0 | 0| 
 | 20200923T22:20:24Z | Null | https://github.com/robenkleene/roben-kleene.novaextension | 0 | 0| 
 | 20200923T20:48:01Z | Urban Evidence Based Policy (SPPA667) | https://github.com/KLeeDE/PUS2020_KLee | 0 | 0| 
 | 20200923T19:20:08Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1514 | 459| 
 | 20200923T05:50:15Z | Create CFGs and compute complexity metrics for Python, C++, and Java code. | https://github.com/hmc-alpaqa/metrinome | 4 | 0| 
-| 20200922T16:04:13Z | Null | https://github.com/Planet-Source-Code/alexander-kleehaus-multiuser-server-client__1-13540 | 0 | 0| 
 | 20200922T14:52:17Z | Website for the KLEE project: https://klee.github.io/ | https://github.com/klee/klee.github.io | 13 | 42| 
 | 20200922T14:06:10Z | RVT is a collection of tools/libraries to support both static and dynamic verification of Rust programs. | https://github.com/project-oak/rust-verification-tools | 83 | 4| 
 | 20200921T22:05:23Z | Null | https://github.com/thierry-tct/KLEE-SEMu | 1 | 0| 
@@ -76,13 +76,13 @@
 # s2e on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20200924T05:08:14Z | cicd logic and gitlab&github runner&jenkins agent container, centos base ,whith jdk/python/go, maven/npm,/kubectl/helm | https://github.com/chimeh/cicd-s2e-runner | 0 | 0| 
 | 20200923T16:08:28Z | Null | https://github.com/JeffShao96/S2E-NS-3 | 0 | 0| 
 | 20200923T12:59:55Z | Your S2E project management tools. Visit https://s2e.systems/docs to get started. | https://github.com/S2E/s2e-env | 64 | 29| 
 | 20200922T14:21:58Z | This is the main S2E repository. Visit https://s2e.systems/docs to get started. | https://github.com/S2E/s2e | 58 | 18| 
 | 20200921T17:56:59Z | Q. Yao, H. Yang, B. Han, G. Niu, J. Kwok. Searching to Exploit Memorization Effect in Learning from Noisy Labels. International Conference on Machine Learning (ICML) 2020 | https://github.com/AutoML-4Paradigm/S2E | 12 | 2| 
 | 20200915T13:53:05Z | Compiler for S2Engine architecure , an CNN accelerator | https://github.com/BUAA-CI-Lab/S2EngineCompiler | 0 | 0| 
 | 20200915T13:40:24Z | Simulator for S2Engine architucture , a CNN accelerator | https://github.com/BUAA-CI-Lab/S2EngineSimulator | 0 | 0| 
-| 20200915T10:44:55Z | cicd logic and gitlab&github runner&jenkins agent container, centos base ,whith jdk/python/go, maven/npm,/kubectl/helm | https://github.com/chimeh/cicd-s2e-runner | 0 | 0| 
 | 20200914T22:27:08Z | s2e develop  | https://github.com/xqx12/xqx | 6 | 12| 
 | 20200914T13:35:02Z | Null | https://github.com/cxzzzz/s2engine_mcu | 1 | 0| 
 | 20200911T12:13:16Z | Null | https://github.com/Complete58158/s2ea5fthktwsyqd | 0 | 0| 
@@ -91,16 +91,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20200924T01:55:24Z | macos/ios exploit writeup | https://github.com/houjingyi233/macos-ios-exploit-writeup | 4 | 1| 
-| 20200924T01:52:30Z | Null | https://github.com/srk-20/Digital-Signature-Forgery-by-Exploiting-python-RSA-Vulnerability-CVE-2016-1494 | 0 | 0| 
-| 20200924T01:46:50Z | Null | https://github.com/srk-20/Digital-Signature-Forgery-by-Exploiting-python-RSA-Vulnerability---CVE-2016-1494 | 0 | 0| 
-| 20200924T01:41:01Z | exploit-database-papers | https://github.com/offensive-security/exploitdb-papers | 241 | 26| 
-| 20200924T01:39:54Z | Null | https://github.com/quentin452/Cats-Exploitz-HUB | 0 | 1| 
-| 20200924T00:48:23Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 5 | 2| 
-| 20200924T00:23:31Z | Null | https://github.com/Planet-Source-Code/unix-exploits-ip-zero-counter__8-524 | 0 | 0| 
-| 20200924T00:04:00Z |  C# program to load .Net assemblies. | https://github.com/m8r0wn/EAPrimer | 0 | 0| 
-| 20200924T00:03:04Z | A brand new Script Hub for Exploit | https://github.com/kelvinfung1-dumbass/ImGui-KelvinHub | 0 | 0| 
-| 20200923T23:27:48Z | he use of the SameSite policy. However this feature is still “experimental” and for the use case of allowing your web api to be potentially used by anyone, using a SameSite policy would not work.  The abuse of this mechanism (i.e. the browser sending the cookies automatically) is what CSRF exploits.  | https://github.com/DevNet472/Anti-forgery-validation-with-ASP.Net-Core-and-Angular | 0 | 0| 
+| 20200924T11:54:37Z | PoC exploits for CVE-2020-17382 | https://github.com/uf0o/CVE-2020-17382 | 3 | 1| 
+| 20200924T11:35:12Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 7270 | 1195| 
+| 20200924T11:26:18Z | Github Pages | https://github.com/conan-exploits/conan-exploits.github.io | 1 | 0| 
+| 20200924T11:21:28Z | Attack and defend active directory using modern post exploitation adversary tradecraft activity | https://github.com/infosecn1nja/AD-Attack-Defense | 2412 | 631| 
+| 20200924T11:20:21Z | A tool to identify and exploit sudo rules% misconfigurations and vulnerabilities within sudo | https://github.com/TH3xACE/SUDO_KILLER | 805 | 116| 
+| 20200924T11:00:42Z | A faithful recreation of the Windows 96 exploitation system. | https://github.com/beurkinger/windows-96 | 0 | 0| 
+| 20200924T10:49:04Z | A post exploitation framework designed to operate covertly on heavily monitored environments | https://github.com/bats3c/shad0w | 896 | 133| 
+| 20200924T10:38:23Z | macos/ios exploit writeup | https://github.com/houjingyi233/macos-ios-exploit-writeup | 4 | 1| 
+| 20200924T10:04:30Z | This repository holds the advisory, exploits and vulnerable software of the CVE-2020-14293 | https://github.com/patrickhener/CVE-2020-14293 | 0 | 0| 
+| 20200924T10:02:24Z | This repository holds the advisory, exploits and vulnerable software of the CVE-2020-15492 | https://github.com/patrickhener/CVE-2020-15492 | 0 | 1| 
 
 
 # backdoor on Github 推荐
