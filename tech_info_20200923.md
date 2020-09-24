@@ -36,7 +36,7 @@
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
 | 20200923T21:28:10Z | CVE-2020-1472 | PoC for Zerologon - all research credits go to Tom Tervoort of Secura | https://github.com/dirkjanm/CVE-2020-1472 | 当攻击者使用Netlogon远程协议（MS-NRPC）（又称为“ Netlogon特权提升漏洞”）建立与域控制器的易受攻击的Netlogon安全通道连接时，将存在特权提升漏洞。| 
-| 20200923T20:31:36Z | CVE-2020-1472 | Test tool for CVE-2020-1472 | https://github.com/SecuraBV/CVE-2020-1472 | | 
+| 20200923T20:31:36Z | CVE-2020-1472 | Test tool for CVE-2020-1472 | https://github.com/SecuraBV/CVE-2020-1472 | 当攻击者使用Netlogon远程协议（MS-NRPC）（又称为“ Netlogon特权提升漏洞”）建立与域控制器的易受攻击的Netlogon安全通道连接时，将存在特权提升漏洞。| 
 | 20200923T17:28:45Z | CVE-2020-17382 | Null | https://github.com/fdiskyou/CVE-2020-17382 | 未查询到CVE信息| 
 | 20200923T14:55:34Z | 未知编号 | All five experiments of computer vision courses opened at Xidian University. CV XDU | https://github.com/Jiehuishun/CVExp-XDU-2020-CS5201 | 未查询到CVE信息| 
 | 20200923T09:55:30Z | CVE-2020-15148 | 几条关于CVE-2020-15148（yii2反序列化）的绕过 | https://github.com/Maskhe/CVE-2020-15148-bypasses | 如果应用程序对任意用户输入调用%非程序化%，版本 2.0.38 之前的第 ii 2（yiisoft/yii2）很容易受到远程代码执行的影响。这在版本 2.0.38 中是固定的。链接的通报中提供了不升级的可能解决方法。| 
