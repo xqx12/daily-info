@@ -19,60 +19,70 @@
 | 20200923 | Android 11 锁屏和身份验证过程改进的细节 | https://sec.today/pulses/94f78c80-c71f-4962-87f6-338cc33a20e5/| 
 | 20200923 | WebSphere XXE 漏洞分析(CVE-2020-4643) | https://paper.seebug.org/1342/| 
 | 20200923 | Android 11 锁屏和身份验证过程改进的细节 | https://security.googleblog.com/2020/09/lockscreen-and-authentication.html| 
+| 20200923 | 红蓝对抗中的近源渗透 | https://security.tencent.com/index.php/blog/msg/167| 
+| 20200923 | Rapid7团队发布2020年第二季度季度威胁报告。 | https://blog.rapid7.com/2020/09/22/rapid7-releases-q2-2020-quarterly-threat-report/| 
 
 
 # 安全维基 推荐
 | ts | title | url| 
 | --- | --- | ---| 
 | 20200923 | 2488链锁网站大全，新站免费收录，自动审核收录，友情链接，网... | /book/69| 
+| 20200923 | 浅谈网络靶场的关键能力与应用方向 | https://mp.weixin.qq.com/s/6thyoH3ejzmeRfK5OruEew| 
+| 20200923 | 南京大学《软件分析》课程 | https://zhuanlan.zhihu.com/p/136697432| 
+| 20200923 | 杂谈Java内存Webshell的攻与防 | https://mp.weixin.qq.com/s/DRbGeVOcJ8m9xo7Gin45kQ| 
 
 
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20200923T09:55:30Z | CVE-2020-15148 | 几条关于CVE-2020-15148（yii2反序列化）的绕过 | https://github.com/Maskhe/CVE-2020-15148-bypasses | | 
-| 20200923T09:31:19Z | CVE-2020-25487 | SQL injection Vulnerability in Zoo Management System | https://github.com/Ko-kn3t/CVE-2020-25487 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 00 MINUTES 32 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200923T08:51:32Z | CVE-2020-1472 | PoC for Zerologon - all research credits go to Tom Tervoort of Secura | https://github.com/dirkjanm/CVE-2020-1472 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 00 MINUTES 25 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200923T08:43:32Z | CVE-2020-1472 | Test tool for CVE-2020-1472 | https://github.com/SecuraBV/CVE-2020-1472 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 00 MINUTES 24 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200923T07:11:25Z | CVE-2020-17382 | Null | https://github.com/fdiskyou/CVE-2020-17382 | 未查询到CVE信息| 
+| 20200923T21:28:10Z | CVE-2020-1472 | PoC for Zerologon - all research credits go to Tom Tervoort of Secura | https://github.com/dirkjanm/CVE-2020-1472 | 当攻击者使用Netlogon远程协议（MS-NRPC）（又称为“ Netlogon特权提升漏洞”）建立与域控制器的易受攻击的Netlogon安全通道连接时，将存在特权提升漏洞。| 
+| 20200923T20:31:36Z | CVE-2020-1472 | Test tool for CVE-2020-1472 | https://github.com/SecuraBV/CVE-2020-1472 | | 
+| 20200923T17:28:45Z | CVE-2020-17382 | Null | https://github.com/fdiskyou/CVE-2020-17382 | 未查询到CVE信息| 
+| 20200923T14:55:34Z | 未知编号 | All five experiments of computer vision courses opened at Xidian University. CV XDU | https://github.com/Jiehuishun/CVExp-XDU-2020-CS5201 | 未查询到CVE信息| 
+| 20200923T09:55:30Z | CVE-2020-15148 | 几条关于CVE-2020-15148（yii2反序列化）的绕过 | https://github.com/Maskhe/CVE-2020-15148-bypasses | 如果应用程序对任意用户输入调用%非程序化%，版本 2.0.38 之前的第 ii 2（yiisoft/yii2）很容易受到远程代码执行的影响。这在版本 2.0.38 中是固定的。链接的通报中提供了不升级的可能解决方法。| 
+| 20200923T09:31:19Z | CVE-2020-25487 | SQL injection Vulnerability in Zoo Management System | https://github.com/Ko-kn3t/CVE-2020-25487 | 使用 PHP 和 MySQL 版本 1.0 的 PHPGURUKUL 动物园管理系统受：通过 zms/动物细节.php 的 SQL 注入。| 
 | 20200923T04:34:25Z | CVE-2020-25273 | Online Bus Booking System 1.0,  there is Authentication bypass on the Admin Login screen in admin.php via username or password SQL injection. | https://github.com/Ko-kn3t/CVE-2020-25273 | 未查询到CVE信息| 
 | 20200923T04:28:17Z | CVE-2020-25272 | Online Bus Booking System 1.0,there is XSS through the name parameter in book_now.php | https://github.com/Ko-kn3t/CVE-2020-25272 | 未查询到CVE信息| 
 | 20200923T03:49:17Z | CVE-2020-25271 | Null | https://github.com/Ko-kn3t/CVE-2020-25271 | 未查询到CVE信息| 
 | 20200923T03:22:49Z | CVE-2020-25270 | PHPGurukul hostel-management-system 2.1 allows XSS via  Guardian Name, Guardian Relation,  Guardian Contact no,  Address, City | https://github.com/Ko-kn3t/CVE-2020-25270 | 未查询到CVE信息| 
-| 20200923T02:00:15Z | cve-2020-13933 | cve-2020-13933 apache shiro权限绕过漏洞 | https://github.com/Kamimuka/cve-2020-13933 | 未查询到CVE信息| 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20200923T22:20:24Z | Null | https://github.com/robenkleene/roben-kleene.novaextension | 0 | 0| 
+| 20200923T20:48:01Z | Urban Evidence Based Policy (SPPA667) | https://github.com/KLeeDE/PUS2020_KLee | 0 | 0| 
+| 20200923T19:20:08Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1514 | 459| 
 | 20200923T05:50:15Z | Create CFGs and compute complexity metrics for Python, C++, and Java code. | https://github.com/hmc-alpaqa/metrinome | 4 | 0| 
-| 20200923T04:00:52Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1512 | 459| 
 
 
 # s2e on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20200923T16:08:28Z | Null | https://github.com/JeffShao96/S2E-NS-3 | 0 | 0| 
+| 20200923T12:59:55Z | Your S2E project management tools. Visit https://s2e.systems/docs to get started. | https://github.com/S2E/s2e-env | 64 | 29| 
 
 
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20200923T12:58:02Z | Null | https://github.com/quentin452/Cats-Exploitz-HUB | 0 | 1| 
-| 20200923T12:45:17Z | Exploit Docker Daemon - Unprotected TCP Socket | https://github.com/0thm4n3/Docker-Exorcise | 0 | 0| 
-| 20200923T12:43:08Z | Travail Pratique #1 du cours en exploitation de base de données. | https://github.com/platinumlynx/TP1_ExploitationDB | 0 | 0| 
-| 20200923T12:11:34Z | Modern Binary Exploitation - CSCI 4968 (🐣) | https://github.com/YanhuiJessica/MBE-Learning | 0 | 0| 
-| 20200923T11:59:55Z | Weevely is a web shell designed for post-exploitation purposes that can be extended over the network at runtime. | https://github.com/PhHitachi/Weevely | 0 | 0| 
-| 20200923T11:58:46Z | Null | https://github.com/xiuer2020/exploit | 0 | 0| 
-| 20200923T11:39:29Z | Null | https://github.com/scanxin/exploit | 0 | 0| 
-| 20200923T11:37:26Z | A proxy aware C2 framework used to aid red teamers with post-exploitation and lateral movement. | https://github.com/nettitude/PoshC2 | 556 | 142| 
-| 20200923T11:35:15Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 7264 | 1194| 
-| 20200923T11:25:23Z | Blog! | https://github.com/nonetype/nonetype.github.io | 0 | 0| 
+| 20200923T23:48:48Z | Null | https://github.com/quentin452/Cats-Exploitz-HUB | 0 | 1| 
+| 20200923T23:27:48Z | he use of the SameSite policy. However this feature is still “experimental” and for the use case of allowing your web api to be potentially used by anyone, using a SameSite policy would not work.  The abuse of this mechanism (i.e. the browser sending the cookies automatically) is what CSRF exploits.  | https://github.com/DevNet472/Anti-forgery-validation-with-ASP.Net-Core-and-Angular | 0 | 0| 
+| 20200923T23:11:01Z | Null | https://github.com/kojenov/hisilicon-iptv-exploits | 4 | 1| 
+| 20200923T22:48:00Z | A post exploitation framework designed to operate covertly on heavily monitored environments | https://github.com/bats3c/shad0w | 895 | 132| 
+| 20200923T22:47:42Z | Exploit-Development | https://github.com/h3ll0clar1c3/Exploit-Development | 0 | 0| 
+| 20200923T22:30:07Z | Null | https://github.com/SeanLossef/modern-binary-exploitation | 0 | 0| 
+| 20200923T22:11:33Z | XSHOCK Shellshock Exploit  | https://github.com/capture0x/XSHOCK | 59 | 16| 
+| 20200923T22:02:46Z | Hi, we%re back again. I%m releasing this new method because literally, we all know it%s going to be fixed within 24 hours. So have fun. | https://github.com/Yaekith/ServerOutageExploitV3 | 5 | 4| 
+| 20200923T21:59:47Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 7268 | 1195| 
+| 20200923T21:57:17Z | Quick walktrough for vulnhub with exploits. see report.md or notes.md for each box | https://github.com/NeuronAddict/vulnhub-quick-walkthrough | 1 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20200923T08:00:14Z | Hacking tools pack & backdoors generator. | https://github.com/AdrMXR/KitHack | 170 | 42| 
+| 20200923T22:25:08Z | Hacking tools pack & backdoors generator. | https://github.com/AdrMXR/KitHack | 172 | 42| 
+| 20200923T17:30:57Z | A basic reverse backdoor that will work on all operatin systems. Useful for pentestin labs. | https://github.com/jonathanreno/Reverse_Backdoor | 0 | 0| 
 | 20200923T03:23:37Z | Antivirus evasion project  | https://github.com/Ch0pin/AVIator | 406 | 121| 
 | 20200923T02:39:49Z | here i made a few scritps where you can deploy and execute a backdoor just by plugging in your arduino into a computer ! DISCLAIMER ONLY WORKS FOR WINDOWS! | https://github.com/MalwareMix/ardunio-scripts | 0 | 0| 
 | 20200923T02:09:37Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 61 | 7| 
@@ -82,16 +92,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20200923T13:00:09Z | Collection of HTTP scanners and fuzzers. | https://github.com/buffermet/bug-bounty-tools | 0 | 0| 
-| 20200923T12:59:37Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 26909 | 13173| 
-| 20200923T12:51:51Z | RcppDeepState, a simple way to fuzz test code in Rcpp packages | https://github.com/akhikolla/RcppDeepState | 0 | 0| 
-| 20200923T12:50:58Z | Montage: A Neural Network Language Model-Guided JavaScript Engine Fuzzer | https://github.com/WSP-LAB/Montage | 23 | 0| 
-| 20200923T12:33:46Z | Ptrace fuzzer experiments | https://github.com/marcinguy/fuzzer | 28 | 7| 
-| 20200923T12:32:55Z | Null | https://github.com/s9varesc/url-fuzzing | 0 | 0| 
-| 20200923T12:29:54Z | A vst plugin to distort audio with waveshaper using teeth like function | https://github.com/bartoszOsn/FuzzTeeth | 0 | 0| 
-| 20200923T12:25:10Z | A python3 intruder that gave me bounties, easy to use and as fast as fuff | https://github.com/ElSicarius/SuperTruder | 16 | 2| 
-| 20200923T11:56:20Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 3138 | 723| 
-| 20200923T11:55:46Z | Potentially dangerous files | https://github.com/Bo0oM/fuzz.txt | 1273 | 232| 
+| 20200923T23:48:28Z | Rmarkdown documents with definition and plot of fuzzy sets and their operations (triangular norms, triangular conorms), fuzzy arithmetic, and fuzzy relations. | https://github.com/fernandase/fuzzy-set-operations | 0 | 0| 
+| 20200923T23:23:26Z | Scalable fuzzing infrastructure. | https://github.com/google/clusterfuzz | 4334 | 390| 
+| 20200923T22:56:20Z | Unsupervised coverage-guided btrfs fuzzer | https://github.com/danobi/btrfs-fuzz | 0 | 0| 
+| 20200923T22:19:39Z | Web application fuzzer | https://github.com/xmendez/wfuzz | 3122 | 788| 
+| 20200923T21:38:23Z | Experimental projects | https://github.com/tannmatter/fuzzy-happiness | 0 | 0| 
+| 20200923T20:58:27Z | RcppDeepState, a simple way to fuzz test code in Rcpp packages | https://github.com/akhikolla/RcppDeepState | 0 | 0| 
+| 20200923T19:07:55Z | FuzzBench - Fuzzer benchmarking as a service. | https://github.com/google/fuzzbench | 526 | 80| 
+| 20200923T18:43:44Z | Fuzzy logic system for air conditioner  | https://github.com/ashokmeghvanshi/Fuzzy-Logic-System-For-Air-Conditioner | 0 | 0| 
+| 20200923T18:12:30Z | Null | https://github.com/vrthra/bFuzzer | 0 | 0| 
+| 20200923T17:55:26Z | OSS-Fuzz - continuous fuzzing of open source software. | https://github.com/google/oss-fuzz | 5564 | 1092| 
 
 
 
