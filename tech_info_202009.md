@@ -121,6 +121,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20200925T01:22:39Z | Unsupervised coverage-guided btrfs fuzzer | https://github.com/danobi/btrfs-fuzz | 0 | 0| 
 | 20200925T01:06:13Z | OSS-Fuzz - continuous fuzzing of open source software. | https://github.com/google/oss-fuzz | 5567 | 1092| 
 | 20200925T01:01:28Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 1838 | 82| 
 | 20200925T00:59:02Z | FuzzyScript is a prototyped dsl made to simplify the documentation of fuzzy sets and inspire the use of fuzzy logic | https://github.com/synth-me/FuzzyScript | 0 | 0| 
@@ -130,7 +131,6 @@
 | 20200925T00:16:44Z | Files used on Fuzzy Systems discipline. | https://github.com/marciorasf/fuzzy-systems | 0 | 0| 
 | 20200924T23:56:00Z | RcppDeepState, a simple way to fuzz test code in Rcpp packages | https://github.com/akhikolla/RcppDeepState | 0 | 0| 
 | 20200924T23:40:36Z | Null | https://github.com/WarNote/fuzzySearchTests | 0 | 0| 
-| 20200924T23:14:13Z | Null | https://github.com/ccarrylab/API-FUZZ-Testing | 0 | 0| 
 
 
 
