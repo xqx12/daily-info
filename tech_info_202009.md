@@ -46,14 +46,14 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20200925T00:44:14Z | CVE-2020-25790 | Exploit for CVE-2020-25790 | https://github.com/t0gu/CVE-2020-25790 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 15 MINUTES 29 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200925T00:35:11Z | CVE-2020-1472 | Test tool for CVE-2020-1472 | https://github.com/SecuraBV/CVE-2020-1472 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 15 MINUTES 26 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200925T00:46:16Z | CVE-2020-25790 | Exploit for CVE-2020-25790 | https://github.com/t0gu/CVE-2020-25790 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 13 MINUTES 30 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200925T00:35:11Z | CVE-2020-1472 | Test tool for CVE-2020-1472 | https://github.com/SecuraBV/CVE-2020-1472 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 13 MINUTES 26 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20200924T23:45:08Z | CVE-2020-9992 | CVE-2020-9992 - A design flaw in MobileDevice.framework/Xcode and iOS/iPadOS/tvOS Development Tools allows an attacker in the same network to gain remote code execution on a target device | https://github.com/c0ntextomy/c0ntextomy | 未查询到CVE信息| 
-| 20200924T22:58:17Z | CVE-2020-1472 | PoC for Zerologon - all research credits go to Tom Tervoort of Secura | https://github.com/dirkjanm/CVE-2020-1472 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 15 MINUTES 27 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200924T22:58:17Z | CVE-2020-1472 | PoC for Zerologon - all research credits go to Tom Tervoort of Secura | https://github.com/dirkjanm/CVE-2020-1472 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 13 MINUTES 28 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20200924T22:09:21Z | CVE-2020-17382 | Null | https://github.com/fdiskyou/CVE-2020-17382 | 未查询到CVE信息| 
-| 20200924T21:25:36Z | CVE-2020-5902 | Clone with backwards compatibility with bro-pkg.meta added | https://github.com/corelight-ricky/CVE-2020-5902-F5BigIP | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 15 MINUTES 38 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200924T21:25:36Z | CVE-2020-5902 | Clone with backwards compatibility with bro-pkg.meta added | https://github.com/corelight-ricky/CVE-2020-5902-F5BigIP | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 13 MINUTES 37 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20200924T20:36:13Z | CVE-2020-17382 | PoC exploits for CVE-2020-17382 | https://github.com/uf0o/CVE-2020-17382 | 未查询到CVE信息| 
-| 20200924T20:08:43Z | CVE-2020-1472 | CVE 2020-1472 Script de validación  | https://github.com/grupooruss/CVE-2020-1472 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 15 MINUTES 37 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200924T20:08:43Z | CVE-2020-1472 | CVE 2020-1472 Script de validación  | https://github.com/grupooruss/CVE-2020-1472 | | 
 | 20200924T12:28:50Z | CVE-2020-25867 | Null | https://github.com/thomasfady/CVE-2020-25867 | 未查询到CVE信息| 
 | 20200924T12:27:44Z | CVE-2020-25867 | Null | https://github.com/thomasfady/CVE-2020-25867_SoPlanning-Sharing_Key_Bypass | 未查询到CVE信息| 
 
@@ -91,7 +91,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20200925T00:44:54Z | Exploit for CVE-2020-25790 | https://github.com/t0gu/CVE-2020-25790 | 0 | 0| 
+| 20200925T00:46:16Z | Exploit for CVE-2020-25790 | https://github.com/t0gu/CVE-2020-25790 | 0 | 0| 
 | 20200925T00:44:16Z | This repository contains the source of %ARM Binary Exploitaiton% book. | https://github.com/cpuu/arm_exploitation | 1 | 0| 
 | 20200925T00:20:40Z | This is to automate the process of grabbing an exploit from exploit db and putting it into Metasploit | https://github.com/Raavtube/auto-python-exploitdb | 1 | 0| 
 | 20200924T23:04:51Z | Experiments and evaluation for the paper %DAG Scheduling and Analysis on Multiprocessor Systems: Exploitation of Parallelism and Dependency%, RTSS 2020. | https://github.com/automaticdai/research-dag-scheduling-analysis | 0 | 0| 
