@@ -46,16 +46,16 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20200925T01:22:26Z | CVE-2020-17382 | PoC exploits for CVE-2020-17382 | https://github.com/uf0o/CVE-2020-17382 | | 
-| 20200925T01:08:53Z | CVE-2020-1472 | PoC for Zerologon - all research credits go to Tom Tervoort of Secura | https://github.com/dirkjanm/CVE-2020-1472 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 26 MINUTES 27 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200925T01:33:30Z | 未知编号 | Null | https://github.com/defjamvan/cve20201472 | 未查询到CVE信息| 
+| 20200925T01:22:26Z | CVE-2020-17382 | PoC exploits for CVE-2020-17382 | https://github.com/uf0o/CVE-2020-17382 | 未查询到CVE信息| 
+| 20200925T01:08:53Z | CVE-2020-1472 | PoC for Zerologon - all research credits go to Tom Tervoort of Secura | https://github.com/dirkjanm/CVE-2020-1472 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 25 MINUTES 27 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20200925T00:48:20Z | CVE-2020-9992 | CVE-2020-9992 - A design flaw in MobileDevice.framework/Xcode and iOS/iPadOS/tvOS Development Tools allows an attacker in the same network to gain remote code execution on a target device | https://github.com/c0ntextomy/c0ntextomy | 未查询到CVE信息| 
-| 20200925T00:47:02Z | CVE-2020-25790 | Exploit for CVE-2020-25790 | https://github.com/t0gu/CVE-2020-25790 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 26 MINUTES 28 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200925T00:35:11Z | CVE-2020-1472 | Test tool for CVE-2020-1472 | https://github.com/SecuraBV/CVE-2020-1472 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 26 MINUTES 26 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200925T00:47:02Z | CVE-2020-25790 | Exploit for CVE-2020-25790 | https://github.com/t0gu/CVE-2020-25790 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 25 MINUTES 29 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200925T00:35:11Z | CVE-2020-1472 | Test tool for CVE-2020-1472 | https://github.com/SecuraBV/CVE-2020-1472 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 25 MINUTES 26 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20200924T22:09:21Z | CVE-2020-17382 | Null | https://github.com/fdiskyou/CVE-2020-17382 | 未查询到CVE信息| 
-| 20200924T21:25:36Z | CVE-2020-5902 | Clone with backwards compatibility with bro-pkg.meta added | https://github.com/corelight-ricky/CVE-2020-5902-F5BigIP | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 26 MINUTES 38 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200924T20:08:43Z | CVE-2020-1472 | CVE 2020-1472 Script de validación  | https://github.com/grupooruss/CVE-2020-1472 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 26 MINUTES 37 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200924T21:25:36Z | CVE-2020-5902 | Clone with backwards compatibility with bro-pkg.meta added | https://github.com/corelight-ricky/CVE-2020-5902-F5BigIP | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 25 MINUTES 38 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200924T20:08:43Z | CVE-2020-1472 | CVE 2020-1472 Script de validación  | https://github.com/grupooruss/CVE-2020-1472 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 25 MINUTES 37 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20200924T12:28:50Z | CVE-2020-25867 | Null | https://github.com/thomasfady/CVE-2020-25867 | 未查询到CVE信息| 
-| 20200924T12:27:44Z | CVE-2020-25867 | Null | https://github.com/thomasfady/CVE-2020-25867_SoPlanning-Sharing_Key_Bypass | 未查询到CVE信息| 
 
 
 # klee on Github 推荐
@@ -121,16 +121,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20200925T01:27:08Z | MemLock: Memory Usage Guided Fuzzing | https://github.com/wcventure/MemLock-Fuzz | 33 | 4| 
-| 20200925T01:22:39Z | Unsupervised coverage-guided btrfs fuzzer | https://github.com/danobi/btrfs-fuzz | 0 | 0| 
+| 20200925T01:35:10Z | This is a demo | https://github.com/sushrutikarthik/fuzzy_logic | 0 | 0| 
+| 20200925T01:34:01Z | this is a test repo to learn from | https://github.com/L1SABEE/fuzzy-engine | 0 | 0| 
+| 20200925T01:33:55Z | This is a repo about fuzzy engines. | https://github.com/juneslee/fuzzy-engine2 | 0 | 0| 
+| 20200925T01:33:54Z | This is a repo about fuzzy engines. | https://github.com/verythorough/fuzzy-engine | 0 | 0| 
+| 20200925T01:32:49Z | MemLock: Memory Usage Guided Fuzzing | https://github.com/wcventure/MemLock-Fuzz | 33 | 4| 
+| 20200925T01:32:31Z | write the docs test repo | https://github.com/lenapivotal/fuzzy_engine | 0 | 0| 
+| 20200925T01:31:33Z | Unsupervised coverage-guided btrfs fuzzer | https://github.com/danobi/btrfs-fuzz | 0 | 0| 
 | 20200925T01:06:13Z | OSS-Fuzz - continuous fuzzing of open source software. | https://github.com/google/oss-fuzz | 5567 | 1092| 
 | 20200925T01:01:28Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 1838 | 82| 
 | 20200925T00:59:02Z | FuzzyScript is a prototyped dsl made to simplify the documentation of fuzzy sets and inspire the use of fuzzy logic | https://github.com/synth-me/FuzzyScript | 0 | 0| 
-| 20200925T00:44:22Z | Null | https://github.com/notsothorough/fuzzy-engine-1 | 0 | 0| 
-| 20200925T00:34:23Z | Experimental projects | https://github.com/tannmatter/fuzzy-happiness | 0 | 0| 
-| 20200925T00:25:06Z | pluralsight demo repository | https://github.com/Hashinology/fuzzy.spoon | 0 | 0| 
-| 20200925T00:16:44Z | Files used on Fuzzy Systems discipline. | https://github.com/marciorasf/fuzzy-systems | 0 | 0| 
-| 20200924T23:56:00Z | RcppDeepState, a simple way to fuzz test code in Rcpp packages | https://github.com/akhikolla/RcppDeepState | 0 | 0| 
 
 
 
