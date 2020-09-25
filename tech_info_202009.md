@@ -121,9 +121,9 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20200925T01:01:28Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 1838 | 82| 
 | 20200925T00:59:02Z | FuzzyScript is a prototyped dsl made to simplify the documentation of fuzzy sets and inspire the use of fuzzy logic | https://github.com/synth-me/FuzzyScript | 0 | 0| 
 | 20200925T00:44:22Z | Null | https://github.com/notsothorough/fuzzy-engine-1 | 0 | 0| 
-| 20200925T00:42:08Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 1837 | 82| 
 | 20200925T00:40:53Z | OSS-Fuzz - continuous fuzzing of open source software. | https://github.com/google/oss-fuzz | 5567 | 1092| 
 | 20200925T00:34:23Z | Experimental projects | https://github.com/tannmatter/fuzzy-happiness | 0 | 0| 
 | 20200925T00:25:06Z | pluralsight demo repository | https://github.com/Hashinology/fuzzy.spoon | 0 | 0| 
