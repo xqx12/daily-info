@@ -121,16 +121,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20200925T01:35:10Z | This is a demo | https://github.com/sushrutikarthik/fuzzy_logic | 0 | 0| 
-| 20200925T01:34:01Z | this is a test repo to learn from | https://github.com/L1SABEE/fuzzy-engine | 0 | 0| 
-| 20200925T01:33:55Z | This is a repo about fuzzy engines. | https://github.com/juneslee/fuzzy-engine2 | 0 | 0| 
-| 20200925T01:33:54Z | This is a repo about fuzzy engines. | https://github.com/verythorough/fuzzy-engine | 0 | 0| 
+| 20200925T01:53:22Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 1840 | 83| 
+| 20200925T01:51:31Z | My collection of homemade ethical hacking tools. Includes a Key Logger, Fuzzer, Mac Changer, Network Scanner, and more. | https://github.com/allenwest24/Ethical-Hacking-Toolbox | 0 | 1| 
+| 20200925T01:48:48Z | This is a repo about fuzzy engines. | https://github.com/juneslee/fuzzy-engine2 | 0 | 0| 
+| 20200925T01:48:39Z | This is a repo about fuzzy engines. | https://github.com/verythorough/fuzzy-engine | 0 | 3| 
+| 20200925T01:46:29Z | this is a test repo to learn from | https://github.com/L1SABEE/fuzzy-engine | 0 | 0| 
+| 20200925T01:46:24Z | This is a demo | https://github.com/sushrutikarthik/fuzzy_logic | 0 | 0| 
+| 20200925T01:46:04Z | Null | https://github.com/doporg/Fuzz | 0 | 0| 
+| 20200925T01:37:21Z | write the docs test repo | https://github.com/lenapivotal/fuzzy_engine | 0 | 0| 
 | 20200925T01:32:49Z | MemLock: Memory Usage Guided Fuzzing | https://github.com/wcventure/MemLock-Fuzz | 33 | 4| 
-| 20200925T01:32:31Z | write the docs test repo | https://github.com/lenapivotal/fuzzy_engine | 0 | 0| 
 | 20200925T01:31:33Z | Unsupervised coverage-guided btrfs fuzzer | https://github.com/danobi/btrfs-fuzz | 0 | 0| 
-| 20200925T01:06:13Z | OSS-Fuzz - continuous fuzzing of open source software. | https://github.com/google/oss-fuzz | 5567 | 1092| 
-| 20200925T01:01:28Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 1838 | 82| 
-| 20200925T00:59:02Z | FuzzyScript is a prototyped dsl made to simplify the documentation of fuzzy sets and inspire the use of fuzzy logic | https://github.com/synth-me/FuzzyScript | 0 | 0| 
 
 
 
