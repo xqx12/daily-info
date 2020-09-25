@@ -46,16 +46,16 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20200925T12:45:07Z | CVE-2020-1472 | Test tool for CVE-2020-1472 | https://github.com/SecuraBV/CVE-2020-1472 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 12 MINUTES 32 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200925T12:44:04Z | CVE-2020-1472 | PoC for Zerologon - all research credits go to Tom Tervoort of Secura | https://github.com/dirkjanm/CVE-2020-1472 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 12 MINUTES 34 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200925T12:45:07Z | CVE-2020-1472 | Test tool for CVE-2020-1472 | https://github.com/SecuraBV/CVE-2020-1472 | | 
+| 20200925T12:44:04Z | CVE-2020-1472 | PoC for Zerologon - all research credits go to Tom Tervoort of Secura | https://github.com/dirkjanm/CVE-2020-1472 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 10 MINUTES 34 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20200925T12:28:36Z | CVE-2020-17382 | PoC exploits for CVE-2020-17382 | https://github.com/uf0o/CVE-2020-17382 | 未查询到CVE信息| 
 | 20200925T11:26:35Z | CVE-2020-9992 | CVE-2020-9992 - A design flaw in MobileDevice.framework/Xcode and iOS/iPadOS/tvOS Development Tools allows an attacker in the same network to gain remote code execution on a target device | https://github.com/c0ntextomy/c0ntextomy | 未查询到CVE信息| 
 | 20200925T09:05:19Z | 未知编号 | 2020l4web-typography-css-library-DanCvejn created by GitHub Classroom | https://github.com/pslib-cz/2020l4web-typography-css-library-DanCvejn | 未查询到CVE信息| 
 | 20200925T05:35:48Z | 未知编号 | Patch and enforcement key assessment for CVE 2020-1472 | https://github.com/technion/ZeroLogonAssess | 未查询到CVE信息| 
 | 20200925T01:33:30Z | 未知编号 | Null | https://github.com/defjamvan/cve20201472 | 未查询到CVE信息| 
-| 20200925T00:47:02Z | CVE-2020-25790 | Exploit for CVE-2020-25790 | https://github.com/t0gu/CVE-2020-25790 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 12 MINUTES 36 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200925T00:47:02Z | CVE-2020-25790 | Exploit for CVE-2020-25790 | https://github.com/t0gu/CVE-2020-25790 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 10 MINUTES 36 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20200924T22:09:21Z | CVE-2020-17382 | Null | https://github.com/fdiskyou/CVE-2020-17382 | 未查询到CVE信息| 
-| 20200924T21:25:36Z | CVE-2020-5902 | Clone with backwards compatibility with bro-pkg.meta added | https://github.com/corelight-ricky/CVE-2020-5902-F5BigIP | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 12 MINUTES 43 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200924T21:25:36Z | CVE-2020-5902 | Clone with backwards compatibility with bro-pkg.meta added | https://github.com/corelight-ricky/CVE-2020-5902-F5BigIP | | 
 
 
 # klee on Github 推荐
@@ -91,6 +91,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20200925T12:48:43Z | Experiments and evaluation for the paper %DAG Scheduling and Analysis on Multiprocessor Systems: Exploitation of Parallelism and Dependency%, RTSS 2020. | https://github.com/automaticdai/research-dag-scheduling-analysis | 0 | 0| 
 | 20200925T12:15:32Z | Null | https://github.com/quentin452/Cats-Exploitz-HUB | 0 | 1| 
 | 20200925T11:55:06Z | Binary exploitation learning notes and resources | https://github.com/satan1sm/pwnnn | 0 | 0| 
 | 20200925T11:46:05Z | Apollo is a post-exploitation tool for managing, enumerating and pivotting on compromised machines. | https://github.com/thecoderstudio/apollo | 5 | 0| 
@@ -100,7 +101,6 @@
 | 20200925T10:40:04Z | Zenith configs. Exploit them at your own risk. | https://github.com/egorbelibov/unix_configs | 1 | 0| 
 | 20200925T10:22:11Z | A tool for exploiting Moxie Marlinspike%s SSL %stripping% attack. | https://github.com/jayluxferro/sslstrip | 0 | 0| 
 | 20200925T10:07:28Z | WhatsApp related discoveries/exploits/utilities | https://github.com/lordfme/whatsapp | 0 | 1| 
-| 20200925T07:52:07Z | PCAP Samples for Different Post Exploitation Techniques  | https://github.com/sbousseaden/PCAP-ATTACK | 115 | 27| 
 
 
 # backdoor on Github 推荐
