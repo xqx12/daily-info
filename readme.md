@@ -16,13 +16,13 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20200925T23:46:35Z | CVE-2020-17382 | PoC exploits for CVE-2020-17382 | https://github.com/uf0o/CVE-2020-17382 | 未查询到CVE信息| 
+| 20200925T23:46:35Z | CVE-2020-17382 | PoC exploits for CVE-2020-17382 | https://github.com/uf0o/CVE-2020-17382 | | 
 | 20200925T23:32:59Z | CVE-2020-9992 | CVE-2020-9992 - A design flaw in MobileDevice.framework/Xcode and iOS/iPadOS/tvOS Development Tools allows an attacker in the same network to gain remote code execution on a target device | https://github.com/c0ntextomy/c0ntextomy | 未查询到CVE信息| 
-| 20200925T21:52:02Z | CVE-2020-5902 | A network detection package for CVE-2020-5902, a CVE10.0 vulnerability affecting F5 Networks, Inc BIG-IP devices. | https://github.com/corelight/CVE-2020-5902-F5BigIP | 在BIG-IP版本15.0.0-15.1.0.3、14.1.0-14.1.2.5、13.1.0-13.1.3.3、12.1.0-12.1.5.1和11.6.1-11.6.5.1中，流量管理用户接口（TMUI），也称为“配置”实用程序，在未公开的页面中具有远程执行代码（RCE）漏洞。| 
+| 20200925T21:52:02Z | CVE-2020-5902 | A network detection package for CVE-2020-5902, a CVE10.0 vulnerability affecting F5 Networks, Inc BIG-IP devices. | https://github.com/corelight/CVE-2020-5902-F5BigIP | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 53 MINUTES 22 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20200925T21:43:42Z | CVE-2020-17382 | Null | https://github.com/fdiskyou/CVE-2020-17382 | 未查询到CVE信息| 
 | 20200925T20:55:58Z | CVE-2020-3433 | PoCs and technical analysis of three vulnerabilities found on Cisco AnyConnect for Windows: CVE-2020-3433, CVE-2020-3434 and CVE-2020-3435  | https://github.com/goichot/CVE-2020-3433 | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
-| 20200925T20:13:51Z | CVE-2020-1472 | PoC for Zerologon - all research credits go to Tom Tervoort of Secura | https://github.com/dirkjanm/CVE-2020-1472 | 当攻击者使用Netlogon远程协议（MS-NRPC）（又称为“ Netlogon特权提升漏洞”）建立与域控制器的易受攻击的Netlogon安全通道连接时，将存在特权提升漏洞。| 
-| 20200925T18:50:58Z | CVE-2020-1472 | Test tool for CVE-2020-1472 | https://github.com/SecuraBV/CVE-2020-1472 | 当攻击者使用Netlogon远程协议（MS-NRPC）（又称为“ Netlogon特权提升漏洞”）建立与域控制器的易受攻击的Netlogon安全通道连接时，将存在特权提升漏洞。| 
+| 20200925T20:13:51Z | CVE-2020-1472 | PoC for Zerologon - all research credits go to Tom Tervoort of Secura | https://github.com/dirkjanm/CVE-2020-1472 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 53 MINUTES 26 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200925T18:50:58Z | CVE-2020-1472 | Test tool for CVE-2020-1472 | https://github.com/SecuraBV/CVE-2020-1472 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 53 MINUTES 24 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20200925T09:05:19Z | 未知编号 | 2020l4web-typography-css-library-DanCvejn created by GitHub Classroom | https://github.com/pslib-cz/2020l4web-typography-css-library-DanCvejn | 未查询到CVE信息| 
 | 20200925T05:35:48Z | 未知编号 | Patch and enforcement key assessment for CVE 2020-1472 | https://github.com/technion/ZeroLogonAssess | 未查询到CVE信息| 
 | 20200925T01:33:30Z | 未知编号 | Null | https://github.com/defjamvan/cve20201472 | 未查询到CVE信息| 
@@ -76,16 +76,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20200925T13:12:45Z | A Distrubted Setup for AFL that allows a rapidly scalable fuzzing setup against binaries of your choosing | https://github.com/SmoothHacker/Spotlight | 0 | 0| 
-| 20200925T12:54:54Z | Null | https://github.com/i1garde/fuzzy-kpi-lab2 | 0 | 0| 
-| 20200925T12:53:33Z | Null | https://github.com/s9varesc/url-fuzzing | 0 | 0| 
-| 20200925T12:34:05Z | Fuzzing | https://github.com/dnsdudrla97/Fuzz | 0 | 0| 
-| 20200925T12:32:37Z | Null | https://github.com/rogpeppe/go-fuzz-profiling | 0 | 0| 
-| 20200925T12:24:00Z | This application is to use apollo-link-state with a React application | https://github.com/benfluleck/fuzzy-sniffle | 1 | 0| 
-| 20200925T12:20:08Z | A JavaScript Engine Fuzzer | https://github.com/googleprojectzero/fuzzilli | 1035 | 170| 
-| 20200925T12:12:50Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 3143 | 724| 
-| 20200925T11:20:31Z | Fuzzing the Rust crypto library orion with honggfuzz-rs | https://github.com/brycx/orion-fuzz | 0 | 1| 
-| 20200925T10:32:36Z | Null | https://github.com/Planet-Source-Code/lefteris-eleftheriades-fuzzy-game-check-it-out__1-34699 | 0 | 0| 
+| 20200925T23:47:24Z | Experimental projects | https://github.com/tannmatter/fuzzy-happiness | 0 | 0| 
+| 20200925T23:41:19Z | Fuzz testing for go. | https://github.com/google/gofuzz | 875 | 83| 
+| 20200925T23:40:11Z | Null | https://github.com/WarNote/fuzzySearchTests | 0 | 0| 
+| 20200925T23:10:11Z | Unsupervised coverage-guided btrfs fuzzer | https://github.com/danobi/btrfs-fuzz | 0 | 0| 
+| 20200925T23:06:40Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 26940 | 13199| 
+| 20200925T22:53:43Z | Null | https://github.com/antonio-morales/EkoParty_Advanced_Fuzzing_Workshop | 6 | 1| 
+| 20200925T22:42:59Z | Null | https://github.com/corootine/fuzzy | 0 | 0| 
+| 20200925T22:28:19Z | FuzzBench - Fuzzer benchmarking as a service. | https://github.com/google/fuzzbench | 526 | 81| 
+| 20200925T22:21:45Z | Null | https://github.com/nishantjr/fuzzing-with-k | 0 | 0| 
+| 20200925T21:42:28Z | Null | https://github.com/noloerino/eye-fuzz | 0 | 0| 
 
 
 
