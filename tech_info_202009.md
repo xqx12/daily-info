@@ -46,31 +46,31 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20200925T23:46:35Z | CVE-2020-17382 | PoC exploits for CVE-2020-17382 | https://github.com/uf0o/CVE-2020-17382 | 未查询到CVE信息| 
-| 20200925T23:32:59Z | CVE-2020-9992 | CVE-2020-9992 - A design flaw in MobileDevice.framework/Xcode and iOS/iPadOS/tvOS Development Tools allows an attacker in the same network to gain remote code execution on a target device | https://github.com/c0ntextomy/c0ntextomy | | 
-| 20200925T21:52:02Z | CVE-2020-5902 | A network detection package for CVE-2020-5902, a CVE10.0 vulnerability affecting F5 Networks, Inc BIG-IP devices. | https://github.com/corelight/CVE-2020-5902-F5BigIP | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  20 HOURS 49 MINUTES 32 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200925T21:43:42Z | CVE-2020-17382 | Null | https://github.com/fdiskyou/CVE-2020-17382 | 未查询到CVE信息| 
-| 20200925T20:55:58Z | CVE-2020-3433 | PoCs and technical analysis of three vulnerabilities found on Cisco AnyConnect for Windows: CVE-2020-3433, CVE-2020-3434 and CVE-2020-3435  | https://github.com/goichot/CVE-2020-3433 | | 
-| 20200925T20:13:51Z | CVE-2020-1472 | PoC for Zerologon - all research credits go to Tom Tervoort of Secura | https://github.com/dirkjanm/CVE-2020-1472 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  20 HOURS 49 MINUTES 36 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200925T18:50:58Z | CVE-2020-1472 | Test tool for CVE-2020-1472 | https://github.com/SecuraBV/CVE-2020-1472 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  20 HOURS 49 MINUTES 34 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200926T11:50:04Z | CVE-2020-1472 | PoC for Zerologon - all research credits go to Tom Tervoort of Secura | https://github.com/dirkjanm/CVE-2020-1472 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 59 MINUTES 35 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200926T11:32:58Z | CVE-2020-17382 | Null | https://github.com/fdiskyou/CVE-2020-17382 | 未查询到CVE信息| 
+| 20200926T11:26:35Z | CVE-2020-17382 | PoC exploits for CVE-2020-17382 | https://github.com/uf0o/CVE-2020-17382 | 未查询到CVE信息| 
+| 20200926T10:10:23Z | CVE-2020-1472 | Test tool for CVE-2020-1472 | https://github.com/SecuraBV/CVE-2020-1472 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 59 MINUTES 34 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200926T08:44:44Z | CVE-2020-1472 | Null | https://github.com/striveben/CVE-2020-1472 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 59 MINUTES 48 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200926T07:22:38Z | CVE-2020-3433 | PoCs and technical analysis of three vulnerabilities found on Cisco AnyConnect for Windows: CVE-2020-3433, CVE-2020-3434 and CVE-2020-3435  | https://github.com/goichot/CVE-2020-3433 | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
+| 20200926T05:41:46Z | CVE-2020-9992 | CVE-2020-9992 - A design flaw in MobileDevice.framework/Xcode and iOS/iPadOS/tvOS Development Tools allows an attacker in the same network to gain remote code execution on a target device | https://github.com/c0ntextomy/c0ntextomy | 未查询到CVE信息| 
+| 20200926T03:43:20Z | CVE-2020-25273 | Online Bus Booking System 1.0,  there is Authentication bypass on the Admin Login screen in admin.php via username or password SQL injection. | https://github.com/Ko-kn3t/CVE-2020-25273 | 未查询到CVE信息| 
+| 20200925T21:52:02Z | CVE-2020-5902 | A network detection package for CVE-2020-5902, a CVE10.0 vulnerability affecting F5 Networks, Inc BIG-IP devices. | https://github.com/corelight/CVE-2020-5902-F5BigIP | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 59 MINUTES 33 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20200925T09:05:19Z | 未知编号 | 2020l4web-typography-css-library-DanCvejn created by GitHub Classroom | https://github.com/pslib-cz/2020l4web-typography-css-library-DanCvejn | 未查询到CVE信息| 
-| 20200925T05:35:48Z | 未知编号 | Patch and enforcement key assessment for CVE 2020-1472 | https://github.com/technion/ZeroLogonAssess | 未查询到CVE信息| 
-| 20200925T01:33:30Z | 未知编号 | Null | https://github.com/defjamvan/cve20201472 | 未查询到CVE信息| 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20200926T09:55:50Z | Minecraft Mod. Allows breaking only one half of a double slab block. | https://github.com/blay09/KleeSlabs | 7 | 3| 
+| 20200926T03:17:15Z | Create CFGs and compute complexity metrics for Python, C++, and Java code. | https://github.com/hmc-alpaqa/metrinome | 4 | 0| 
 | 20200925T20:25:01Z | The compiler inputs a PDDL benchmark of the Carpark planning problem and converts it to an equivalent C code which is used for solving the planning problem by program verification tools such as KLEE/TracerX. | https://github.com/daneshvar-amrollahi/Carpark-PDDL2C | 0 | 0| 
 | 20200925T14:57:16Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1516 | 459| 
 | 20200925T12:29:33Z | Symbiotic is a tool for finding bugs in computer programs based on instrumentation, program slicing and KLEE | https://github.com/staticafi/symbiotic | 196 | 33| 
-| 20200925T02:42:30Z | Create CFGs and compute complexity metrics for Python, C++, and Java code. | https://github.com/hmc-alpaqa/metrinome | 4 | 0| 
 | 20200925T00:44:15Z | A tool that automatically calls Klee to solve for injection | https://github.com/Zzzode/KleeTool | 1 | 0| 
 | 20200924T19:06:07Z | Null | https://github.com/Planet-Source-Code/alexander-kleehaus-multiuser-server-client__1-13540 | 0 | 0| 
 | 20200924T12:04:15Z | Null | https://github.com/thierry-tct/KLEE-SEMu | 1 | 0| 
 | 20200923T22:20:24Z | Null | https://github.com/robenkleene/roben-kleene.novaextension | 0 | 0| 
 | 20200923T20:48:01Z | Urban Evidence Based Policy (SPPA667) | https://github.com/KLeeDE/PUS2020_KLee | 0 | 0| 
-| 20200922T14:52:17Z | Website for the KLEE project: https://klee.github.io/ | https://github.com/klee/klee.github.io | 13 | 42| 
 
 
 # s2e on Github 推荐
@@ -91,46 +91,46 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20200926T00:48:24Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 5 | 2| 
-| 20200926T00:13:01Z | This is a vanity url exploit a recently made. The py is the source code and the exe is if you dont got py and your a lazy mf. dont skid this or imma skid ur face into a curb | https://github.com/REZIZT1337/VANITY-EXPLOIT | 2 | 1| 
-| 20200926T00:00:06Z | Null | https://github.com/Iamisen/Exploitation-donn-es-classe | 0 | 0| 
-| 20200925T23:48:57Z | Null | https://github.com/Planet-Source-Code/unix-exploits-ip-zero-counter__8-524 | 0 | 0| 
-| 20200925T23:43:14Z | This is a minecraft plugin that simulates the gamemode creative to prevent players from exploiting. | https://github.com/SnakeAmazing/FakeCreative | 0 | 0| 
-| 20200925T21:46:46Z | Null | https://github.com/quentin452/Cats-Exploitz-HUB | 0 | 1| 
-| 20200925T21:44:47Z | Silice is an open source language that simplifies writing algorithms fully exploiting FPGA architectures. | https://github.com/sylefeb/Silice | 338 | 23| 
-| 20200925T21:40:13Z | Zenith configs. Exploit them at your own risk. | https://github.com/egorbelibov/unix_configs | 1 | 0| 
-| 20200925T21:26:52Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 7277 | 1196| 
-| 20200925T21:22:52Z | Null | https://github.com/Planet-Source-Code/stephan-blanchard-iis-exploiter__1-25143 | 0 | 0| 
+| 20200926T11:50:15Z | Pattern-Exploiting Training在中文上的简单实验 | https://github.com/bojone/Pattern-Exploiting-Training | 0 | 0| 
+| 20200926T11:43:01Z | In this paper, a new stochastic optimizer, which is called slime mould algorithm (SMA), is proposed based upon the oscillation mode of slime mould in nature. The proposed SMA has several new features with a unique mathematical model that uses adaptive weights to simulate the process of producing positive and negative feedback of the propagation wave of slime mould based on bio-oscillator to form the optimal path for connecting food with excellent exploratory ability and exploitation propensity. The proposed SMA is compared with up-to-date metaheuristics in an extensive set of benchmarks to verify the efficiency. Moreover, four classical engineering structure problems are utilized to estimate the efficacy of the algorithm in optimizing engineering problems. The results demonstrate that the algorithm proposed benefits from competitive, often outstanding performance on different search landscapes. The source codes and info of SMA are publicly available at: http://www.alimirjalili.com/SMA.html | https://github.com/aliasghar68/Slime-Mould-Algorithm-A-New-Method-for-Stochastic-Optimization- | 3 | 1| 
+| 20200926T11:40:13Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 7281 | 1198| 
+| 20200926T11:34:13Z | Exploit-Development | https://github.com/h3ll0clar1c3/Exploit-Development | 0 | 0| 
+| 20200926T11:26:35Z | PoC exploits for CVE-2020-17382 | https://github.com/uf0o/CVE-2020-17382 | 33 | 8| 
+| 20200926T11:18:29Z | Null | https://github.com/quentin452/Cats-Exploitz-HUB | 0 | 1| 
+| 20200926T10:47:28Z | My Exploits | https://github.com/Aporlorxl23/0Days | 1 | 0| 
+| 20200926T09:50:05Z | Zenith configs. Exploit them at your own risk. | https://github.com/egorbelibov/unix_configs | 1 | 0| 
+| 20200926T09:43:54Z | Windows Exploit Suggester - Next Generation | https://github.com/bitsadmin/wesng | 1855 | 297| 
+| 20200926T08:59:27Z | CTF framework and exploit development library | https://github.com/Gallopsled/pwntools | 7053 | 1284| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20200926T11:59:37Z | An Artificial Intelligence Poisoned Data Detection & Cleanse System | https://github.com/RidiculousDoge/AIPDC | 0 | 0| 
+| 20200926T11:46:12Z | This is a Simple Tkinter based Chat-App built from scrach for my Students. | https://github.com/jugurtha114/Tkinter_Chat-App | 1 | 0| 
+| 20200926T08:45:42Z | Telegram bot for BackdoorTFT | https://github.com/shihaamabr/backdoortft-py-telebot | 0 | 1| 
+| 20200926T07:42:56Z | Null | https://github.com/slzhffktm/backdoor-frontend | 0 | 0| 
+| 20200926T04:30:10Z | Tool to find potential backdoor/security holes in your endpoint | https://github.com/subasgit/backdoorfinder | 0 | 0| 
+| 20200926T04:14:00Z | Ghost Framework is an Android post-exploitation framework that exploits the Android Debug Bridge to remotely access an Android device. Ghost Framework gives you the power and convenience of remote Android device administration. | https://github.com/entynetproject/ghost | 720 | 364| 
 | 20200925T23:32:40Z | FUD cross-platform python2 backdoor | https://github.com/7h3w4lk3r/pyback | 9 | 4| 
 | 20200925T19:15:17Z | Hacking tools pack & backdoors generator. | https://github.com/AdrMXR/KitHack | 174 | 42| 
-| 20200925T18:39:11Z | Tool to find potential backdoor/security holes in your endpoint | https://github.com/subasgit/backdoorfinder | 0 | 0| 
 | 20200925T17:17:15Z | Backdoor that can open web-pages remotely | https://github.com/pro-extremecoder/URLBackdoor | 0 | 0| 
 | 20200925T14:51:43Z | Abitti%s NSA %backdoor% mock | https://github.com/developerfromjokela/abitti-nsa-mock | 0 | 0| 
-| 20200925T14:42:44Z | Ghost Framework is an Android post-exploitation framework that exploits the Android Debug Bridge to remotely access an Android device. Ghost Framework gives you the power and convenience of remote Android device administration. | https://github.com/entynetproject/ghost | 719 | 364| 
-| 20200925T12:01:14Z | Antivirus evasion project  | https://github.com/Ch0pin/AVIator | 411 | 122| 
-| 20200925T04:23:12Z | Reverse Backdoor and Listener | https://github.com/jonathanreno/Rev-Shell | 0 | 0| 
-| 20200925T01:48:49Z | Backdoor Feito em C | https://github.com/Kripto-Sec/Cbackdoor | 3 | 0| 
-| 20200925T01:01:21Z | This is a Simple Tkinter based Chat-App built from scrach for my Students. | https://github.com/jugurtha114/Tkinter_Chat-App | 1 | 0| 
 
 
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20200926T01:50:17Z | Null | https://github.com/antonio-morales/EkoParty_Advanced_Fuzzing_Workshop | 8 | 2| 
-| 20200926T01:49:56Z | Not nodemon; not chokidar. | https://github.com/ViGi-P/fuzz-barnacle-watch | 0 | 0| 
-| 20200926T01:45:05Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 26942 | 13199| 
-| 20200926T01:38:23Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 1906 | 85| 
-| 20200926T01:33:48Z | Collection of quality safety articles | https://github.com/tom0li/collection-document | 1235 | 403| 
-| 20200926T01:12:29Z | Fuzz testing for go. | https://github.com/google/gofuzz | 877 | 83| 
-| 20200926T01:04:24Z | Null | https://github.com/WarNote/fuzzySearchTests | 0 | 0| 
-| 20200926T00:31:07Z | Unsupervised coverage-guided btrfs fuzzer | https://github.com/danobi/btrfs-fuzz | 0 | 0| 
-| 20200926T00:15:05Z | Accuracy assessment for PEM using fuzzy classification | https://github.com/kdaust/PEM_FuzzyiAA | 0 | 0| 
-| 20200925T23:47:24Z | Experimental projects | https://github.com/tannmatter/fuzzy-happiness | 0 | 0| 
+| 20200926T12:00:59Z | Null | https://github.com/WarNote/fuzzySearchTests | 0 | 0| 
+| 20200926T11:56:46Z | Null | https://github.com/doporg/Fuzz | 0 | 0| 
+| 20200926T11:10:49Z | The fuzzer afl++ is afl with community patches, AFLfast power schedules, qemu 3.1 upgrade + laf-intel support, MOpt mutators, InsTrim instrumentation, unicorn_mode, Redqueen and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 894 | 224| 
+| 20200926T11:08:50Z | AFL++ as a library: gives you all the tools necessary to craft the best fuzzer for your targets with ease! | https://github.com/AFLplusplus/LibAFL | 87 | 4| 
+| 20200926T11:08:46Z | This project consists of a simulation of a search-and-rescue environment for discrete path-planning of agents using a Fuzzy Inference System (FIS)-based controller and a Model Predictive Control (MPC)-based controller to optimise FIS parameters. | https://github.com/craigmax-dev/Integrated-Model-Predictive-Fuzzy-Control-for-Disaster-Victim-Detection-Path-Planning-in-MATLAB | 0 | 1| 
+| 20200926T11:06:50Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 1925 | 85| 
+| 20200926T10:58:24Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 3143 | 725| 
+| 20200926T09:21:41Z | FormatFuzzer is a framework for high-efficiency, high-quality generation and parsing of binary inputs. | https://github.com/uds-se/FormatFuzzer | 62 | 4| 
+| 20200926T09:20:37Z | Heterogeneous fuzzy XML data integration based on structrual and semantic similarities , Amir Shokri - translate this article to persian(farsi) | https://github.com/amirshnll/Heterogeneous-fuzzy-XML-data-integration | 0 | 0| 
+| 20200926T08:56:54Z | Null | https://github.com/ptv1811/fuzzy-giggle | 0 | 0| 
 
 
 
