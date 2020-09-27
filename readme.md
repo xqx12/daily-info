@@ -63,6 +63,10 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20200927T11:51:40Z | Null | https://github.com/ssloxford/biometric-backdoors | 0 | 0| 
+| 20200927T11:00:57Z | Undetectable & Xor encrypting with custom KEY (FUD Metasploit Rat) bypass Top Antivirus like BitDefender,Malwarebytes,Avast,ESET-NOD32,AVG,... & Automatically Add ICON and MANIFEST to excitable | https://github.com/persianhydra/Xeexe-TopAntivirusEvasion | 172 | 50| 
+| 20200927T09:49:51Z | as name as description .. i did just clean some tools and show for u the tricks of backdoors :v  | https://github.com/0xtn/Writeups-and-Tools | 0 | 0| 
+| 20200927T06:32:10Z | An Artificial Intelligence Poisoned Data Detection & Cleanse System | https://github.com/RidiculousDoge/AIPDC | 0 | 0| 
 | 20200927T01:36:40Z | Hacking tools pack & backdoors generator. | https://github.com/AdrMXR/KitHack | 175 | 43| 
 
 

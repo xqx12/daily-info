@@ -106,16 +106,16 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20200927T11:51:40Z | Null | https://github.com/ssloxford/biometric-backdoors | 0 | 0| 
+| 20200927T11:00:57Z | Undetectable & Xor encrypting with custom KEY (FUD Metasploit Rat) bypass Top Antivirus like BitDefender,Malwarebytes,Avast,ESET-NOD32,AVG,... & Automatically Add ICON and MANIFEST to excitable | https://github.com/persianhydra/Xeexe-TopAntivirusEvasion | 172 | 50| 
+| 20200927T09:49:51Z | as name as description .. i did just clean some tools and show for u the tricks of backdoors :v  | https://github.com/0xtn/Writeups-and-Tools | 0 | 0| 
+| 20200927T06:32:10Z | An Artificial Intelligence Poisoned Data Detection & Cleanse System | https://github.com/RidiculousDoge/AIPDC | 0 | 0| 
 | 20200927T01:36:40Z | Hacking tools pack & backdoors generator. | https://github.com/AdrMXR/KitHack | 175 | 43| 
 | 20200926T18:56:34Z | Reverse Backdoor and Listener | https://github.com/jonathanreno/Rev-Shell | 0 | 0| 
 | 20200926T18:24:53Z | Backdoor that can open web-pages remotely | https://github.com/pro-extremecoder/URLBackdoor | 0 | 0| 
 | 20200926T17:26:41Z | Ghost Framework is an Android post-exploitation framework that exploits the Android Debug Bridge to remotely access an Android device. Ghost Framework gives you the power and convenience of remote Android device administration. | https://github.com/entynetproject/ghost | 721 | 364| 
 | 20200926T13:49:21Z | Null | https://github.com/Decodeless/backdoor | 0 | 0| 
-| 20200926T13:23:28Z | An Artificial Intelligence Poisoned Data Detection & Cleanse System | https://github.com/RidiculousDoge/AIPDC | 0 | 0| 
 | 20200926T13:07:02Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 61 | 7| 
-| 20200926T11:46:12Z | This is a Simple Tkinter based Chat-App built from scrach for my Students. | https://github.com/jugurtha114/Tkinter_Chat-App | 1 | 0| 
-| 20200926T08:45:42Z | Telegram bot for BackdoorTFT | https://github.com/shihaamabr/backdoortft-py-telebot | 0 | 1| 
-| 20200926T07:42:56Z | Null | https://github.com/slzhffktm/backdoor-frontend | 0 | 0| 
 
 
 # fuzz on Github 推荐
