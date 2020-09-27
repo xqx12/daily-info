@@ -46,16 +46,16 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20200926T20:36:56Z | CVE-2020-1472 | PoC for Zerologon - all research credits go to Tom Tervoort of Secura | https://github.com/dirkjanm/CVE-2020-1472 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 25 MINUTES 34 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200926T20:36:56Z | CVE-2020-1472 | PoC for Zerologon - all research credits go to Tom Tervoort of Secura | https://github.com/dirkjanm/CVE-2020-1472 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 24 MINUTES 33 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20200926T20:27:18Z | CVE-2020-9992 | CVE-2020-9992 - A design flaw in MobileDevice.framework/Xcode and iOS/iPadOS/tvOS Development Tools allows an attacker in the same network to gain remote code execution on a target device | https://github.com/c0ntextomy/c0ntextomy | 未查询到CVE信息| 
 | 20200926T16:17:03Z | CVE-2020-17382 | PoC exploits for CVE-2020-17382 | https://github.com/uf0o/CVE-2020-17382 | 未查询到CVE信息| 
 | 20200926T16:07:01Z | CVE-2020-25273 | Online Bus Booking System 1.0,  there is Authentication bypass on the Admin Login screen in admin.php via username or password SQL injection. | https://github.com/Ko-kn3t/CVE-2020-25273 | 未查询到CVE信息| 
-| 20200926T14:32:10Z | CVE-2020-1472 | Test tool for CVE-2020-1472 | https://github.com/SecuraBV/CVE-2020-1472 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 25 MINUTES 33 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200926T13:33:30Z | CVE-2020-11881 | CVE-2020-11881: unauthenticated remote DoS for MikroTik SMB service. | https://github.com/botlabsDev/CVE-2020-11881 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 25 MINUTES 30 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200926T14:32:10Z | CVE-2020-1472 | Test tool for CVE-2020-1472 | https://github.com/SecuraBV/CVE-2020-1472 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 24 MINUTES 32 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200926T13:33:30Z | CVE-2020-11881 | CVE-2020-11881: unauthenticated remote DoS for MikroTik SMB service. | https://github.com/botlabsDev/CVE-2020-11881 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 24 MINUTES 29 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20200926T12:09:50Z | CVE-2020-3433 | PoCs and technical analysis of three vulnerabilities found on Cisco AnyConnect for Windows: CVE-2020-3433, CVE-2020-3434 and CVE-2020-3435  | https://github.com/goichot/CVE-2020-3433 | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
 | 20200926T11:32:58Z | CVE-2020-17382 | Null | https://github.com/fdiskyou/CVE-2020-17382 | | 
-| 20200926T08:44:44Z | CVE-2020-1472 | Null | https://github.com/striveben/CVE-2020-1472 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 24 MINUTES 48 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200925T21:52:02Z | CVE-2020-5902 | A network detection package for CVE-2020-5902, a CVE10.0 vulnerability affecting F5 Networks, Inc BIG-IP devices. | https://github.com/corelight/CVE-2020-5902-F5BigIP | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 25 MINUTES 31 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200926T08:44:44Z | CVE-2020-1472 | Null | https://github.com/striveben/CVE-2020-1472 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 23 MINUTES 48 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200925T21:52:02Z | CVE-2020-5902 | A network detection package for CVE-2020-5902, a CVE10.0 vulnerability affecting F5 Networks, Inc BIG-IP devices. | https://github.com/corelight/CVE-2020-5902-F5BigIP | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 24 MINUTES 30 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 
 
 # klee on Github 推荐
@@ -91,7 +91,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20200927T00:32:34Z | LMAO, we%re back again, another exploit found to down a server. This is going to be fixed within 24 hours so take this and abuse it, kthnx. I%ll just find another method when it does. Requires manage channel permissions to operate. | https://github.com/Yaekith/ServerOutageExploitV4 | 0 | 0| 
+| 20200927T00:35:13Z | LMAO, we%re back again, another exploit found to down a server. This is going to be fixed within 24 hours so take this and abuse it, kthnx. I%ll just find another method when it does. Requires manage channel permissions to operate. | https://github.com/Yaekith/ServerOutageExploitV4 | 0 | 0| 
 | 20200927T00:21:05Z | Just a temporary website to post my ctf writeups and journey into binary/android exploitation/malware analysis/exploit development | https://github.com/blackbeard666/pwn_exhibit | 1 | 1| 
 | 20200926T23:26:23Z | A series of CTF challenge solutions for binary exploitation (or pwn) and reverse engineering (or rev) challenges | https://github.com/docfate111/binary-exploitation-solution-scripts | 0 | 0| 
 | 20200926T23:24:44Z | Null | https://github.com/haniefaktivisme/ExploitFb | 0 | 0| 
