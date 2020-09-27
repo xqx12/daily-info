@@ -47,15 +47,15 @@
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
 | 20200927T11:10:05Z | CVE-2020-3433 | PoCs and technical analysis of three vulnerabilities found on Cisco AnyConnect for Windows: CVE-2020-3433, CVE-2020-3434 and CVE-2020-3435  | https://github.com/goichot/CVE-2020-3433 | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
-| 20200927T09:42:43Z | CVE-2020-1472 | PoC for Zerologon - all research credits go to Tom Tervoort of Secura | https://github.com/dirkjanm/CVE-2020-1472 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 32 MINUTES 33 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200927T06:06:49Z | CVE-2020-17382 | PoC exploits for CVE-2020-17382 | https://github.com/uf0o/CVE-2020-17382 | 未查询到CVE信息| 
-| 20200927T05:36:32Z | CVE-2020-1472 | Test tool for CVE-2020-1472 | https://github.com/SecuraBV/CVE-2020-1472 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 32 MINUTES 31 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200927T09:42:43Z | CVE-2020-1472 | PoC for Zerologon - all research credits go to Tom Tervoort of Secura | https://github.com/dirkjanm/CVE-2020-1472 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 31 MINUTES 33 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200927T06:06:49Z | CVE-2020-17382 | PoC exploits for CVE-2020-17382 | https://github.com/uf0o/CVE-2020-17382 | | 
+| 20200927T05:36:32Z | CVE-2020-1472 | Test tool for CVE-2020-1472 | https://github.com/SecuraBV/CVE-2020-1472 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 31 MINUTES 32 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20200927T01:30:10Z | CVE-2020-9992 | CVE-2020-9992 - A design flaw in MobileDevice.framework/Xcode and iOS/iPadOS/tvOS Development Tools allows an attacker in the same network to gain remote code execution on a target device | https://github.com/c0ntextomy/c0ntextomy | 未查询到CVE信息| 
 | 20200926T16:07:01Z | CVE-2020-25273 | Online Bus Booking System 1.0,  there is Authentication bypass on the Admin Login screen in admin.php via username or password SQL injection. | https://github.com/Ko-kn3t/CVE-2020-25273 | 未查询到CVE信息| 
-| 20200926T13:33:30Z | CVE-2020-11881 | CVE-2020-11881: unauthenticated remote DoS for MikroTik SMB service. | https://github.com/botlabsDev/CVE-2020-11881 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 32 MINUTES 28 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200926T13:33:30Z | CVE-2020-11881 | CVE-2020-11881: unauthenticated remote DoS for MikroTik SMB service. | https://github.com/botlabsDev/CVE-2020-11881 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 31 MINUTES 29 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20200926T11:32:58Z | CVE-2020-17382 | Null | https://github.com/fdiskyou/CVE-2020-17382 | | 
-| 20200926T08:44:44Z | CVE-2020-1472 | Null | https://github.com/striveben/CVE-2020-1472 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 31 MINUTES 49 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200925T21:52:02Z | CVE-2020-5902 | A network detection package for CVE-2020-5902, a CVE10.0 vulnerability affecting F5 Networks, Inc BIG-IP devices. | https://github.com/corelight/CVE-2020-5902-F5BigIP | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 32 MINUTES 30 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200926T08:44:44Z | CVE-2020-1472 | Null | https://github.com/striveben/CVE-2020-1472 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 30 MINUTES 50 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200925T21:52:02Z | CVE-2020-5902 | A network detection package for CVE-2020-5902, a CVE10.0 vulnerability affecting F5 Networks, Inc BIG-IP devices. | https://github.com/corelight/CVE-2020-5902-F5BigIP | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 31 MINUTES 30 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 
 
 # klee on Github 推荐
@@ -91,6 +91,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20200927T12:28:46Z | Null | https://github.com/tiga047/Exploration-Exploitation | 0 | 0| 
 | 20200927T12:23:43Z | This repository consits of stuffs related to binary exploitation | https://github.com/TamilHackz/awsm-binary-exploitation | 0 | 0| 
 | 20200927T12:14:09Z | Pattern-Exploiting Training在中文上的简单实验 | https://github.com/bojone/Pattern-Exploiting-Training | 2 | 0| 
 | 20200927T12:05:13Z | Advanced dork Search & Mass Exploit Scanner | https://github.com/AlisamTechnology/ATSCAN | 704 | 286| 
@@ -100,7 +101,6 @@
 | 20200927T11:46:07Z | Vulnerable User-Authentication Protocol For LegionJP | https://github.com/kkent030315/LegionJP-Exploit | 0 | 0| 
 | 20200927T11:35:11Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 7284 | 1197| 
 | 20200927T11:28:49Z | Une exploitation des open #DataESR pour concevoir des indicateurs clés de performances pour les établissements de l%ESR. | https://github.com/cpesr/kpiESR | 0 | 1| 
-| 20200927T11:16:18Z | https://krunker.io/ edit exploit for modding krunker | https://github.com/ZaResX/KrunkerZares | 8 | 7| 
 
 
 # backdoor on Github 推荐
@@ -121,16 +121,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20200927T12:21:04Z | Fuzzy score typescript implementation | https://github.com/kwunshing123/fuzzy-score | 0 | 0| 
+| 20200927T12:28:07Z | a fuzzy distance controller for a following vehicle in a bidirectional movement space. This is a simple test to demonstrate the mechanics of such a controller. The driving behaviour and the current distance are taken into account. Further components can be easily added. The output variable is the adjustment of the speed. | https://github.com/Perledition/fuzzy-controller | 0 | 0| 
+| 20200927T12:25:42Z | Fuzzy score typescript implementation | https://github.com/kwunshing123/fuzzy-score | 0 | 0| 
+| 20200927T12:25:32Z | Web application fuzzer | https://github.com/xmendez/wfuzz | 3132 | 793| 
+| 20200927T12:24:52Z | MIPS32 emulation fuzzing | https://github.com/klecko/mips-fuzz | 1 | 0| 
 | 20200927T12:20:12Z | Fuzzy matching for helm source. | https://github.com/jcs-elpa/helm-fuzzy | 1 | 1| 
 | 20200927T12:16:54Z | Takagi-Sugeno-Kang for the FEHIS course in the Sileisan University of Technology doctorate studies | https://github.com/pribalta/takagi_sugeno_kang_fuzzy_system | 0 | 0| 
 | 20200927T11:53:15Z | Null | https://github.com/pribalta/takagi_sugeno_fuzzy_system | 0 | 0| 
 | 20200927T11:37:49Z | Null | https://github.com/Software-Analysis-Team/Unit-Test-Fuzzer | 0 | 0| 
 | 20200927T11:36:24Z | Null | https://github.com/i1garde/fuzzy-kpi-lab2 | 0 | 0| 
 | 20200927T11:17:14Z | Null | https://github.com/pkudlacik/NeuroFuzzy_Lips | 0 | 0| 
-| 20200927T10:37:34Z | Null | https://github.com/pkudlacik/FuzzLib | 0 | 0| 
-| 20200927T10:31:14Z | Null | https://github.com/s9varesc/url-fuzzing | 0 | 0| 
-| 20200927T10:14:29Z | Web application fuzzer | https://github.com/xmendez/wfuzz | 3131 | 793| 
 
 
 
