@@ -46,28 +46,28 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20200926T12:47:34Z | CVE-2020-1472 | PoC for Zerologon - all research credits go to Tom Tervoort of Secura | https://github.com/dirkjanm/CVE-2020-1472 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 00 MINUTES 38 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200926T12:43:21Z | CVE-2020-17382 | PoC exploits for CVE-2020-17382 | https://github.com/uf0o/CVE-2020-17382 | 未查询到CVE信息| 
+| 20200926T20:36:56Z | CVE-2020-1472 | PoC for Zerologon - all research credits go to Tom Tervoort of Secura | https://github.com/dirkjanm/CVE-2020-1472 | 当攻击者使用Netlogon远程协议（MS-NRPC）（又称为“ Netlogon特权提升漏洞”）建立与域控制器的易受攻击的Netlogon安全通道连接时，将存在特权提升漏洞。| 
+| 20200926T20:27:18Z | CVE-2020-9992 | CVE-2020-9992 - A design flaw in MobileDevice.framework/Xcode and iOS/iPadOS/tvOS Development Tools allows an attacker in the same network to gain remote code execution on a target device | https://github.com/c0ntextomy/c0ntextomy | 未查询到CVE信息| 
+| 20200926T16:17:03Z | CVE-2020-17382 | PoC exploits for CVE-2020-17382 | https://github.com/uf0o/CVE-2020-17382 | 未查询到CVE信息| 
+| 20200926T16:07:01Z | CVE-2020-25273 | Online Bus Booking System 1.0,  there is Authentication bypass on the Admin Login screen in admin.php via username or password SQL injection. | https://github.com/Ko-kn3t/CVE-2020-25273 | 未查询到CVE信息| 
+| 20200926T14:32:10Z | CVE-2020-1472 | Test tool for CVE-2020-1472 | https://github.com/SecuraBV/CVE-2020-1472 | 当攻击者使用Netlogon远程协议（MS-NRPC）（又称为“ Netlogon特权提升漏洞”）建立与域控制器的易受攻击的Netlogon安全通道连接时，将存在特权提升漏洞。| 
+| 20200926T13:33:30Z | CVE-2020-11881 | CVE-2020-11881: unauthenticated remote DoS for MikroTik SMB service. | https://github.com/botlabsDev/CVE-2020-11881 | MikroTik RouterOS 6.41.3至6.46.5和7.x至7.0 Beta5中的数组索引错误允许未经身份验证的远程攻击者通过修改后的安装请求数据包（也称为SUP-12964）使SMB服务器崩溃。| 
 | 20200926T12:09:50Z | CVE-2020-3433 | PoCs and technical analysis of three vulnerabilities found on Cisco AnyConnect for Windows: CVE-2020-3433, CVE-2020-3434 and CVE-2020-3435  | https://github.com/goichot/CVE-2020-3433 | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
 | 20200926T11:32:58Z | CVE-2020-17382 | Null | https://github.com/fdiskyou/CVE-2020-17382 | | 
-| 20200926T10:10:23Z | CVE-2020-1472 | Test tool for CVE-2020-1472 | https://github.com/SecuraBV/CVE-2020-1472 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 00 MINUTES 37 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200926T08:44:44Z | CVE-2020-1472 | Null | https://github.com/striveben/CVE-2020-1472 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 00 MINUTES 48 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200926T05:41:46Z | CVE-2020-9992 | CVE-2020-9992 - A design flaw in MobileDevice.framework/Xcode and iOS/iPadOS/tvOS Development Tools allows an attacker in the same network to gain remote code execution on a target device | https://github.com/c0ntextomy/c0ntextomy | 未查询到CVE信息| 
-| 20200926T03:43:20Z | CVE-2020-25273 | Online Bus Booking System 1.0,  there is Authentication bypass on the Admin Login screen in admin.php via username or password SQL injection. | https://github.com/Ko-kn3t/CVE-2020-25273 | 未查询到CVE信息| 
-| 20200925T21:52:02Z | CVE-2020-5902 | A network detection package for CVE-2020-5902, a CVE10.0 vulnerability affecting F5 Networks, Inc BIG-IP devices. | https://github.com/corelight/CVE-2020-5902-F5BigIP | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 00 MINUTES 36 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200925T09:05:19Z | 未知编号 | 2020l4web-typography-css-library-DanCvejn created by GitHub Classroom | https://github.com/pslib-cz/2020l4web-typography-css-library-DanCvejn | 未查询到CVE信息| 
+| 20200926T08:44:44Z | CVE-2020-1472 | Null | https://github.com/striveben/CVE-2020-1472 | 当攻击者使用Netlogon远程协议（MS-NRPC）（又称为“ Netlogon特权提升漏洞”）建立与域控制器的易受攻击的Netlogon安全通道连接时，将存在特权提升漏洞。| 
+| 20200925T21:52:02Z | CVE-2020-5902 | A network detection package for CVE-2020-5902, a CVE10.0 vulnerability affecting F5 Networks, Inc BIG-IP devices. | https://github.com/corelight/CVE-2020-5902-F5BigIP | 在BIG-IP版本15.0.0-15.1.0.3、14.1.0-14.1.2.5、13.1.0-13.1.3.3、12.1.0-12.1.5.1和11.6.1-11.6.5.1中，流量管理用户接口（TMUI），也称为“配置”实用程序，在未公开的页面中具有远程执行代码（RCE）漏洞。| 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20200926T21:40:36Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1515 | 459| 
+| 20200926T19:23:48Z | Null | https://github.com/Planet-Source-Code/alexander-kleehaus-multiuser-server-client__1-13540 | 0 | 0| 
 | 20200926T09:55:50Z | Minecraft Mod. Allows breaking only one half of a double slab block. | https://github.com/blay09/KleeSlabs | 7 | 3| 
 | 20200926T03:17:15Z | Create CFGs and compute complexity metrics for Python, C++, and Java code. | https://github.com/hmc-alpaqa/metrinome | 4 | 0| 
 | 20200925T20:25:01Z | The compiler inputs a PDDL benchmark of the Carpark planning problem and converts it to an equivalent C code which is used for solving the planning problem by program verification tools such as KLEE/TracerX. | https://github.com/daneshvar-amrollahi/Carpark-PDDL2C | 0 | 0| 
-| 20200925T14:57:16Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1516 | 459| 
 | 20200925T12:29:33Z | Symbiotic is a tool for finding bugs in computer programs based on instrumentation, program slicing and KLEE | https://github.com/staticafi/symbiotic | 196 | 33| 
 | 20200925T00:44:15Z | A tool that automatically calls Klee to solve for injection | https://github.com/Zzzode/KleeTool | 1 | 0| 
-| 20200924T19:06:07Z | Null | https://github.com/Planet-Source-Code/alexander-kleehaus-multiuser-server-client__1-13540 | 0 | 0| 
 | 20200924T12:04:15Z | Null | https://github.com/thierry-tct/KLEE-SEMu | 1 | 0| 
 | 20200923T22:20:24Z | Null | https://github.com/robenkleene/roben-kleene.novaextension | 0 | 0| 
 | 20200923T20:48:01Z | Urban Evidence Based Policy (SPPA667) | https://github.com/KLeeDE/PUS2020_KLee | 0 | 0| 
@@ -91,46 +91,46 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20200926T12:54:15Z | Windows Usermode Exploitation | https://github.com/sizet0x80/Usermode-Exploit-Development | 1 | 0| 
-| 20200926T12:48:09Z | Windows Exploit Suggester - Next Generation | https://github.com/bitsadmin/wesng | 1856 | 298| 
-| 20200926T12:46:38Z | Elysionx Exploit! Discord: https://discord.gg/kGK4PYw | https://github.com/Elysionx/elysionx | 0 | 0| 
-| 20200926T12:43:21Z | PoC exploits for CVE-2020-17382 | https://github.com/uf0o/CVE-2020-17382 | 34 | 8| 
-| 20200926T12:32:35Z | Buffer overflows Proof of Concept Exploits written in Python | https://github.com/sizet0x80/Buffer-overflow-PoC | 0 | 0| 
-| 20200926T12:27:39Z | Python Exploit | https://github.com/realxnesia/UDP | 0 | 0| 
-| 20200926T12:27:05Z | Null | https://github.com/quentin452/Cats-Exploitz-HUB | 0 | 1| 
-| 20200926T12:02:46Z | This bash script will help you to hack remote hosts  | https://github.com/FabioDefilippo/linuxallremote | 0 | 0| 
-| 20200926T12:01:54Z | exploit-exam | https://github.com/vapvin/exploit-exam | 0 | 0| 
-| 20200926T11:50:15Z | Pattern-Exploiting Training在中文上的简单实验 | https://github.com/bojone/Pattern-Exploiting-Training | 0 | 0| 
+| 20200926T23:26:23Z | A series of CTF challenge solutions for binary exploitation (or pwn) and reverse engineering (or rev) challenges | https://github.com/docfate111/binary-exploitation-solution-scripts | 0 | 0| 
+| 20200926T23:24:44Z | Null | https://github.com/haniefaktivisme/ExploitFb | 0 | 0| 
+| 20200926T20:35:11Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 7282 | 1197| 
+| 20200926T19:32:03Z | Advanced Exploit Mitigation Paper | https://github.com/CxVercility/Windows-Internals | 0 | 0| 
+| 20200926T19:09:26Z | Null | https://github.com/Planet-Source-Code/alan-perelman-command-prompt-through-iis-exploit__1-25149 | 0 | 0| 
+| 20200926T19:07:34Z | Solutions for ctf challenges | https://github.com/BigB00st/ctf-solutions | 0 | 0| 
+| 20200926T19:05:49Z | Exploit-Development | https://github.com/h3ll0clar1c3/Exploit-Development | 0 | 0| 
+| 20200926T19:01:03Z | Null | https://github.com/rooo7/PS4-6.72-Exploit-Menu | 0 | 0| 
+| 20200926T19:01:01Z | Custom version of the original Overthrow.  Bugs squashed and squashing, exploits punishable by death, new businesses plus much more, oh and high steriod use by the AI ;) Discord link  https://discord.gg/ZdMMq9x | https://github.com/GerhartPapaGee/Overthrow-Martial-Law | 0 | 1| 
+| 20200926T18:15:37Z | Hello Zero helps you extract information about all hardware and software installed on your system and automatically crawl the darkweb everyday to find zero day exploits which target hardware/software you have on your system. In version 1.0 it only works on windows platform. | https://github.com/snippray/Hell0 | 0 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20200926T12:41:09Z | Null | https://github.com/Decodeless/backdoor | 0 | 0| 
-| 20200926T12:11:12Z | An Artificial Intelligence Poisoned Data Detection & Cleanse System | https://github.com/RidiculousDoge/AIPDC | 0 | 0| 
+| 20200926T20:32:05Z | Hacking tools pack & backdoors generator. | https://github.com/AdrMXR/KitHack | 175 | 43| 
+| 20200926T18:56:34Z | Reverse Backdoor and Listener | https://github.com/jonathanreno/Rev-Shell | 0 | 0| 
+| 20200926T18:24:53Z | Backdoor that can open web-pages remotely | https://github.com/pro-extremecoder/URLBackdoor | 0 | 0| 
+| 20200926T17:26:41Z | Ghost Framework is an Android post-exploitation framework that exploits the Android Debug Bridge to remotely access an Android device. Ghost Framework gives you the power and convenience of remote Android device administration. | https://github.com/entynetproject/ghost | 721 | 364| 
+| 20200926T13:49:21Z | Null | https://github.com/Decodeless/backdoor | 0 | 0| 
+| 20200926T13:23:28Z | An Artificial Intelligence Poisoned Data Detection & Cleanse System | https://github.com/RidiculousDoge/AIPDC | 0 | 0| 
+| 20200926T13:07:02Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 61 | 7| 
 | 20200926T11:46:12Z | This is a Simple Tkinter based Chat-App built from scrach for my Students. | https://github.com/jugurtha114/Tkinter_Chat-App | 1 | 0| 
 | 20200926T08:45:42Z | Telegram bot for BackdoorTFT | https://github.com/shihaamabr/backdoortft-py-telebot | 0 | 1| 
 | 20200926T07:42:56Z | Null | https://github.com/slzhffktm/backdoor-frontend | 0 | 0| 
-| 20200926T04:30:10Z | Tool to find potential backdoor/security holes in your endpoint | https://github.com/subasgit/backdoorfinder | 0 | 0| 
-| 20200926T04:14:00Z | Ghost Framework is an Android post-exploitation framework that exploits the Android Debug Bridge to remotely access an Android device. Ghost Framework gives you the power and convenience of remote Android device administration. | https://github.com/entynetproject/ghost | 720 | 364| 
-| 20200925T23:32:40Z | FUD cross-platform python2 backdoor | https://github.com/7h3w4lk3r/pyback | 9 | 4| 
-| 20200925T19:15:17Z | Hacking tools pack & backdoors generator. | https://github.com/AdrMXR/KitHack | 174 | 42| 
-| 20200925T17:17:15Z | Backdoor that can open web-pages remotely | https://github.com/pro-extremecoder/URLBackdoor | 0 | 0| 
 
 
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20200926T12:52:01Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 1929 | 86| 
-| 20200926T12:35:03Z | Null | https://github.com/i1garde/fuzzy-kpi-lab2 | 0 | 0| 
-| 20200926T12:20:55Z | Null | https://github.com/WarNote/fuzzySearchTests | 0 | 0| 
-| 20200926T11:56:46Z | Null | https://github.com/doporg/Fuzz | 0 | 0| 
-| 20200926T11:10:49Z | The fuzzer afl++ is afl with community patches, AFLfast power schedules, qemu 3.1 upgrade + laf-intel support, MOpt mutators, InsTrim instrumentation, unicorn_mode, Redqueen and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 894 | 224| 
-| 20200926T11:08:50Z | AFL++ as a library: gives you all the tools necessary to craft the best fuzzer for your targets with ease! | https://github.com/AFLplusplus/LibAFL | 87 | 4| 
-| 20200926T11:08:46Z | This project consists of a simulation of a search-and-rescue environment for discrete path-planning of agents using a Fuzzy Inference System (FIS)-based controller and a Model Predictive Control (MPC)-based controller to optimise FIS parameters. | https://github.com/craigmax-dev/Integrated-Model-Predictive-Fuzzy-Control-for-Disaster-Victim-Detection-Path-Planning-in-MATLAB | 0 | 1| 
-| 20200926T10:58:24Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 3143 | 725| 
-| 20200926T09:21:41Z | FormatFuzzer is a framework for high-efficiency, high-quality generation and parsing of binary inputs. | https://github.com/uds-se/FormatFuzzer | 62 | 4| 
-| 20200926T09:20:37Z | Heterogeneous fuzzy XML data integration based on structrual and semantic similarities , Amir Shokri - translate this article to persian(farsi) | https://github.com/amirshnll/Heterogeneous-fuzzy-XML-data-integration | 0 | 0| 
+| 20200926T23:50:56Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 1951 | 86| 
+| 20200926T23:44:35Z | Null | https://github.com/alesegdia/chess-fuzz | 0 | 0| 
+| 20200926T23:08:44Z | No idea what I%m doing | https://github.com/klecko/fuzz | 1 | 0| 
+| 20200926T23:02:46Z | Tidal autocoder | https://github.com/tidalcycles/tidal-fuzz | 6 | 1| 
+| 20200926T22:28:40Z | Null | https://github.com/olegsych/fuzzy | 0 | 0| 
+| 20200926T22:25:37Z | A fuzzy parser for C/C++ that creates semantic code property graphs | https://github.com/ShiftLeftSecurity/fuzzyc2cpg | 37 | 11| 
+| 20200926T22:23:53Z | OSS-Fuzz - continuous fuzzing of open source software. | https://github.com/google/oss-fuzz | 5571 | 1095| 
+| 20200926T21:55:37Z | Null | https://github.com/corootine/fuzzy | 0 | 0| 
+| 20200926T21:49:42Z | generate contextually sensible fuzz tests for servant apps | https://github.com/mwotton/roboservant | 9 | 0| 
+| 20200926T21:40:33Z | The fuzzer afl++ is afl with community patches, AFLfast power schedules, qemu 3.1 upgrade + laf-intel support, MOpt mutators, InsTrim instrumentation, unicorn_mode, Redqueen and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 892 | 223| 
 
 
 
