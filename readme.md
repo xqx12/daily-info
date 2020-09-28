@@ -31,7 +31,7 @@
 | --- | --- | --- | --- | ---| 
 | 20200927T23:54:14Z | CVE-2020-1472 | Test tool for CVE-2020-1472 | https://github.com/SecuraBV/CVE-2020-1472 | 当攻击者使用Netlogon远程协议（MS-NRPC）（又称为“ Netlogon特权提升漏洞”）建立与域控制器的易受攻击的Netlogon安全通道连接时，将存在特权提升漏洞。| 
 | 20200927T19:59:02Z | CVE-2020-17382 | PoC exploits for CVE-2020-17382 | https://github.com/uf0o/CVE-2020-17382 | 未查询到CVE信息| 
-| 20200927T16:36:28Z | CVE-2020-1472 | PoC for Zerologon - all research credits go to Tom Tervoort of Secura | https://github.com/dirkjanm/CVE-2020-1472 | 当攻击者使用Netlogon远程协议（MS-NRPC）（又称为“ Netlogon特权提升漏洞”）建立与域控制器的易受攻击的Netlogon安全通道连接时，将存在特权提升漏洞。| 
+| 20200927T16:36:28Z | CVE-2020-1472 | PoC for Zerologon - all research credits go to Tom Tervoort of Secura | https://github.com/dirkjanm/CVE-2020-1472 | | 
 | 20200927T11:10:05Z | CVE-2020-3433 | PoCs and technical analysis of three vulnerabilities found on Cisco AnyConnect for Windows: CVE-2020-3433, CVE-2020-3434 and CVE-2020-3435  | https://github.com/goichot/CVE-2020-3433 | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
 | 20200927T01:30:10Z | CVE-2020-9992 | CVE-2020-9992 - A design flaw in MobileDevice.framework/Xcode and iOS/iPadOS/tvOS Development Tools allows an attacker in the same network to gain remote code execution on a target device | https://github.com/c0ntextomy/c0ntextomy | 未查询到CVE信息| 
 
@@ -54,7 +54,6 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20200927T23:57:54Z | Free exploit made with Synapse X Api. No key required just download and use! | https://github.com/Kenyan2Slick/SlickSploit-2.0 | 0 | 0| 
 | 20200927T23:57:33Z | Null | https://github.com/Planet-Source-Code/john-galanopoulos-exploit-kill-active-win95-98-password-protected-screensaver-using-api__1-29565 | 0 | 0| 
 | 20200927T23:08:42Z | Exploit-Development | https://github.com/h3ll0clar1c3/Exploit-Development | 0 | 0| 
 | 20200927T22:58:26Z | A living document for penetration testing and offensive security. | https://github.com/0xffsec/handbook | 2 | 2| 
@@ -64,6 +63,7 @@
 | 20200927T21:21:00Z | Null | https://github.com/1ghostly/ghostly-lua | 1 | 0| 
 | 20200927T21:04:42Z | A tool designed to help when developing buffer overflow exploits. | https://github.com/javiervidrua/exploithelper | 1 | 0| 
 | 20200927T20:55:10Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 7284 | 1197| 
+| 20200927T20:47:04Z | This tool is used to check if  gmail adress exist (bypass google rate limiting with little exploit) | https://github.com/0x539-Samy/gmail-checker | 0 | 0| 
 
 
 # backdoor on Github 推荐
