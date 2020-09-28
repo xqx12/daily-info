@@ -47,15 +47,15 @@
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
 | 20200928T00:29:58Z | CVE-2020-17382 | PoC exploits for CVE-2020-17382 | https://github.com/uf0o/CVE-2020-17382 | 未查询到CVE信息| 
-| 20200928T00:10:10Z | CVE-2020-1472 | Test tool for CVE-2020-1472 | https://github.com/SecuraBV/CVE-2020-1472 | | 
-| 20200927T16:36:28Z | CVE-2020-1472 | PoC for Zerologon - all research credits go to Tom Tervoort of Secura | https://github.com/dirkjanm/CVE-2020-1472 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 00 MINUTES 28 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200928T00:10:10Z | CVE-2020-1472 | Test tool for CVE-2020-1472 | https://github.com/SecuraBV/CVE-2020-1472 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 59 MINUTES 29 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200927T16:36:28Z | CVE-2020-1472 | PoC for Zerologon - all research credits go to Tom Tervoort of Secura | https://github.com/dirkjanm/CVE-2020-1472 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 59 MINUTES 31 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20200927T13:37:22Z | CVE-2020-25272 | Online Bus Booking System 1.0,there is XSS through the name parameter in book_now.php | https://github.com/Ko-kn3t/CVE-2020-25272 | | 
 | 20200927T11:10:05Z | CVE-2020-3433 | PoCs and technical analysis of three vulnerabilities found on Cisco AnyConnect for Windows: CVE-2020-3433, CVE-2020-3434 and CVE-2020-3435  | https://github.com/goichot/CVE-2020-3433 | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
 | 20200927T01:30:10Z | CVE-2020-9992 | CVE-2020-9992 - A design flaw in MobileDevice.framework/Xcode and iOS/iPadOS/tvOS Development Tools allows an attacker in the same network to gain remote code execution on a target device | https://github.com/c0ntextomy/c0ntextomy | 未查询到CVE信息| 
 | 20200926T16:07:01Z | CVE-2020-25273 | Online Bus Booking System 1.0,  there is Authentication bypass on the Admin Login screen in admin.php via username or password SQL injection. | https://github.com/Ko-kn3t/CVE-2020-25273 | 未查询到CVE信息| 
-| 20200926T13:33:30Z | CVE-2020-11881 | CVE-2020-11881: unauthenticated remote DoS for MikroTik SMB service. | https://github.com/botlabsDev/CVE-2020-11881 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 00 MINUTES 25 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200926T13:33:30Z | CVE-2020-11881 | CVE-2020-11881: unauthenticated remote DoS for MikroTik SMB service. | https://github.com/botlabsDev/CVE-2020-11881 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 59 MINUTES 27 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20200926T11:32:58Z | CVE-2020-17382 | Null | https://github.com/fdiskyou/CVE-2020-17382 | | 
-| 20200926T08:44:44Z | CVE-2020-1472 | Null | https://github.com/striveben/CVE-2020-1472 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 00 MINUTES 44 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200926T08:44:44Z | CVE-2020-1472 | Null | https://github.com/striveben/CVE-2020-1472 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 59 MINUTES 42 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 
 
 # klee on Github 推荐
@@ -91,6 +91,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20200928T01:00:37Z | One tool of exploit vuln in batch!!! | https://github.com/tangxiaofeng7/TSLab-Exploit | 8 | 0| 
+| 20200928T00:58:42Z | An attack/exploit Detector that utilizes Polymorphism and Diversity | https://github.com/polyverse/zerotect | 13 | 1| 
 | 20200928T00:40:22Z | Post exploitation tool for configuration management servers. | https://github.com/master-of-servers/mose | 37 | 7| 
 | 20200928T00:39:01Z | This repo will hold my WriteUps and solutions for Hack the Box, TryHackMe, Vulnhub, exploit challenges, pwnables, crackmes, etc. | https://github.com/chryssfish/WriteUps | 1 | 0| 
 | 20200928T00:02:39Z | Free exploit made with Synapse X Api. No key required just download and use! | https://github.com/Kenyan2Slick/SlickSploit-2.0 | 0 | 0| 
@@ -99,8 +101,6 @@
 | 20200927T22:58:26Z | A living document for penetration testing and offensive security. | https://github.com/0xffsec/handbook | 2 | 2| 
 | 20200927T22:32:15Z | A list of roblox exploits i%ve made/found. | https://github.com/Teedie/roblox-exploits | 0 | 0| 
 | 20200927T22:29:09Z | Custom version of the original Overthrow.  Bugs squashed and squashing, exploits punishable by death, new businesses plus much more, oh and high steriod use by the AI ;) Discord link  https://discord.gg/ZdMMq9x | https://github.com/GerhartPapaGee/Overthrow-Martial-Law | 0 | 1| 
-| 20200927T21:41:14Z | PwnXSS: Vulnerability (XSS) scanner exploit | https://github.com/pwn0sec/PwnXSS | 107 | 25| 
-| 20200927T21:21:00Z | Null | https://github.com/1ghostly/ghostly-lua | 1 | 0| 
 
 
 # backdoor on Github 推荐
