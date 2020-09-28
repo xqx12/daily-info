@@ -6,6 +6,19 @@
 # 玄武实验室 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20200928 | Windows 系统第三方 MSI Ambient Link 驱动漏洞的分析及利用 | https://www.matteomalvica.com/blog/2020/09/24/weaponizing-cve-2020-17382/| 
+| 20200928 | MEDUZA - 基于 Frida，针对越狱 iOS 系统编写的 SSL unpinning 工具 | https://github.com/kov4l3nko/MEDUZA| 
+| 20200928 | svchost.exe 进程及其支持的命令行参数分析 | https://medium.com/@nasbench/demystifying-the-svchost-exe-process-and-its-command-line-options-508e9114e747| 
+| 20200928 | 用于从 IDL 接口文件中提取 RPC 接口定义的 IDA 插件 | https://github.com/tenable/mIDA| 
+| 20200928 | macOS 平台 FinSpy 恶意软件样本的分析 | https://objective-see.com/blog/blog_0x4F.html| 
+| 20200928 | Android 10 及更新版本的 Fastboot OEM 命令枚举 | https://carlo.marag.no/posts/undocumented-fastboot-oem/| 
+| 20200928 | 1-click meterpreter exploit chain with BeEF and AV/AMSI bypass | https://medium.com/@bluedenkare/1-click-meterpreter-exploit-chain-with-beef-and-av-amsi-bypass-96b0eb61f1b6| 
+| 20200928 | Windows 系统各类攻击和渗透行为的 Events 样本收集 | https://github.com/sbousseaden/EVTX-ATTACK-SAMPLES| 
+| 20200928 | LLVM 中代码插桩 gcov 的实现 | https://maskray.me/blog/2020-09-27-gcov-and-llvm| 
+| 20200928 | webfuzz -针对 Web 应用的 Fuzz 工具 | https://sec.today/pulses/91bba1ac-80c4-4ca9-8d69-09d9518bba9c/| 
+| 20200928 | NodeBB 论坛软件账户接管 Web 提权漏洞分析 | https://sec.today/pulses/a21a9933-fd37-43af-8605-4ec6e37fbd21/| 
+| 20200928 | webfuzz -针对 Web 应用的 Fuzz 工具 | https://github.com/catenacyber/webfuzz| 
+| 20200928 | NodeBB 论坛软件账户接管 Web 提权漏洞分析 | https://medium.com/bugbountywriteup/privilege-escalation-via-account-takeover-on-nodebb-forum-software-512-a593a7b1b4a4| 
 | 20200927 | Pwn2Own 2020 比赛利用 Oracle VirtualBox 网卡、USB 设备驱动实现虚拟机逃逸的细节 | https://starlabs.sg/blog/2020/09/pwn2own-2020-oracle-virtualbox-escape/| 
 | 20200927 | V8 脚本引擎 Slack Tracking 机制的介绍 | https://v8.dev/blog/slack-tracking| 
 | 20200927 | Instagram RCE - Android/iOS 版本的 Instagram 因使用 Mozjpeg 开源图像处理库导致 RCE 漏洞 | https://research.checkpoint.com/2020/instagram_rce-code-execution-vulnerability-in-instagram-app-for-android-and-ios/| 
@@ -13,19 +26,6 @@
 | 20200927 | iOS Development Tools MobileDevice 框架存在漏洞，同一个 WiFi 的攻击者可以中间人身份攻击手机 | http://blog.zimperium.com/c0ntextomy-lets-debug-together-cve-2020-9992/| 
 | 20200927 | 幽灵在行动：Specter分析报告 | https://blog.netlab.360.com/malware-specter-report/| 
 | 20200927 | F-Secure Labs 对 Lazarus APT 组织攻击样本检测方法的分析 | https://labs.f-secure.com/blog/catching-lazarus-threat-intelligence-to-real-detection-logic/| 
-| 20200927 | FortiGate VPN 存在证书问题，超 20 万家企业存在被中间人攻击的威胁 | https://threatpost.com/fortigate-vpn-default-config-mitm-attacks/159586/| 
-| 20200927 | Linux系统内核 AF_PACKET 原生套接字漏洞（CVE-2020-14386）分析。 | https://paper.seebug.org/1348/| 
-| 20200927 | VkFFT-Vulkan快速傅立叶变换库 | https://github.com/DTolm/VkFFT| 
-| 20200924 | 基于Yara的简单IOC扫描器Spyre | https://github.com/spyre-project/spyre| 
-| 20200924 | bombus - 陌陌开源的合规审计平台 | https://github.com/momosecurity/bombus| 
-| 20200924 | RTTIDumper - 注入目标进程 Dump 虚函数表的工具 | https://github.com/samsonpianofingers/RTTIDumper| 
-| 20200924 | ZeroLogon(CVE-2020-1472) 漏洞的攻击与防御 | https://blog.zsec.uk/zerologon-attacking-defending/| 
-| 20200924 | Shield - 研究员 theevilbit 为 macOS 平台写了一个进程注入防护工具 | https://theevilbit.github.io/shield/| 
-| 20200924 | 如何用 libFuzzer Fuzz 涉及浮点数的代码 | https://rigtorp.se/fuzzing-floating-point-code/| 
-| 20200924 | 微软 BING 搜索因为公开的 ES 服务器导致泄露 6.5 TB 的数据 | https://www.theregister.com/2020/09/23/microsoft_leaks_over_65tb_bing/| 
-| 20200924 | Redefining Impossible: XSS without arbitrary JavaScript | https://portswigger.net/research/redefining-impossible-xss-without-arbitrary-javascript| 
-| 20200924 | Windows Group Policy Caching 本地 SYSTEM 提权漏洞（CVE-2020-1317）的分析 | https://decoder.cloud/2020/09/23/abusing-group-policy-caching/| 
-| 20200924 | Guys 30 Reverse Engineering Tips & Tricks | https://sec.today/pulses/322736f4-8130-48cb-81e5-b4bf0d998e2f/| 
 
 
 # 安全维基 推荐
@@ -46,27 +46,27 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20200928T01:47:06Z | CVE-2020-17382 | PoC exploits for CVE-2020-17382 | https://github.com/uf0o/CVE-2020-17382 | 未查询到CVE信息| 
-| 20200928T01:42:40Z | CVE-2020-1472 | PoC for Zerologon - all research credits go to Tom Tervoort of Secura | https://github.com/dirkjanm/CVE-2020-1472 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 00 MINUTES 24 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200928T11:54:35Z | CVE-2020-17382 | PoC exploits for CVE-2020-17382 | https://github.com/uf0o/CVE-2020-17382 | 未查询到CVE信息| 
+| 20200928T11:03:20Z | CVE-2020-1472 | PoC for Zerologon - all research credits go to Tom Tervoort of Secura | https://github.com/dirkjanm/CVE-2020-1472 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 59 MINUTES 13 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200928T10:00:34Z | CVE-2020-1472 | CVE-2020-1472 | https://github.com/Whippet0/CVE-2020-1472 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 59 MINUTES 24 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200928T06:53:54Z | CVE-2020-1472 | Null | https://github.com/Fa1c0n35/CVE-2020-1472-02- | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 59 MINUTES 23 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200928T05:37:37Z | CVE-2020-0796 | To crash Windows-10 easily | https://github.com/codewithpradhan/SMBGhost-CVE-2020-0796- | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 59 MINUTES 21 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200928T05:08:46Z | CVE-2020-3452 | Just basic scanner abusing CVE-2020-3452 to enumerate the standard files accessible in the Web Directory of the CISCO ASA applicances. | https://github.com/3ndG4me/CVE-2020-3452-Scanner | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
+| 20200928T03:26:08Z | 未知编号 | CVE Data Analysis, CVE Monitor, CVE EXP Prediction Based on Deep Learning. 1999-2020年存量CVE数据分析、监控CVE增量更新、基于深度学习的CVE EXP预测和自动化推送 | https://github.com/404notf0und/CVE-Flow | 未查询到CVE信息| 
 | 20200928T00:10:10Z | CVE-2020-1472 | Test tool for CVE-2020-1472 | https://github.com/SecuraBV/CVE-2020-1472 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 00 MINUTES 23 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20200927T13:37:22Z | CVE-2020-25272 | Online Bus Booking System 1.0,there is XSS through the name parameter in book_now.php | https://github.com/Ko-kn3t/CVE-2020-25272 | | 
 | 20200927T11:10:05Z | CVE-2020-3433 | PoCs and technical analysis of three vulnerabilities found on Cisco AnyConnect for Windows: CVE-2020-3433, CVE-2020-3434 and CVE-2020-3435  | https://github.com/goichot/CVE-2020-3433 | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
-| 20200927T01:30:10Z | CVE-2020-9992 | CVE-2020-9992 - A design flaw in MobileDevice.framework/Xcode and iOS/iPadOS/tvOS Development Tools allows an attacker in the same network to gain remote code execution on a target device | https://github.com/c0ntextomy/c0ntextomy | 未查询到CVE信息| 
-| 20200926T16:07:01Z | CVE-2020-25273 | Online Bus Booking System 1.0,  there is Authentication bypass on the Admin Login screen in admin.php via username or password SQL injection. | https://github.com/Ko-kn3t/CVE-2020-25273 | 未查询到CVE信息| 
-| 20200926T13:33:30Z | CVE-2020-11881 | CVE-2020-11881: unauthenticated remote DoS for MikroTik SMB service. | https://github.com/botlabsDev/CVE-2020-11881 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 00 MINUTES 19 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200926T11:32:58Z | CVE-2020-17382 | Null | https://github.com/fdiskyou/CVE-2020-17382 | | 
-| 20200926T08:44:44Z | CVE-2020-1472 | Null | https://github.com/striveben/CVE-2020-1472 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 00 MINUTES 42 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20200928T03:20:07Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1514 | 459| 
 | 20200927T20:35:24Z | The compiler inputs a PDDL benchmark of the Carpark planning problem and converts it to an equivalent C code which is used for solving the planning problem by program verification tools such as KLEE/TracerX. | https://github.com/daneshvar-amrollahi/Carpark-PDDL2C | 0 | 0| 
 | 20200927T20:31:41Z | Create CFGs and compute complexity metrics for Python, C++, and Java code. | https://github.com/hmc-alpaqa/metrinome | 4 | 0| 
 | 20200927T11:26:20Z | ⬇️ File Upload/sharing application, used by thousands of webmasters since 2007.  | https://github.com/kleeja-official/kleeja | 101 | 32| 
 | 20200927T11:25:28Z | Null | https://github.com/Planet-Source-Code/alexander-kleehaus-multiuser-server-client__1-13540 | 0 | 0| 
 | 20200927T08:34:11Z | Symbiotic is a tool for finding bugs in computer programs based on instrumentation, program slicing and KLEE | https://github.com/staticafi/symbiotic | 197 | 33| 
-| 20200926T21:40:36Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1515 | 459| 
 | 20200926T09:55:50Z | Minecraft Mod. Allows breaking only one half of a double slab block. | https://github.com/blay09/KleeSlabs | 7 | 3| 
 | 20200925T00:44:15Z | A tool that automatically calls Klee to solve for injection | https://github.com/Zzzode/KleeTool | 1 | 0| 
 | 20200924T12:04:15Z | Null | https://github.com/thierry-tct/KLEE-SEMu | 1 | 0| 
@@ -91,16 +91,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20200928T01:57:14Z | Pattern-Exploiting Training在中文上的简单实验 | https://github.com/bojone/Pattern-Exploiting-Training | 8 | 1| 
-| 20200928T01:54:20Z | An attack/exploit Detector that utilizes Polymorphism and Diversity | https://github.com/polyverse/zerotect | 13 | 1| 
-| 20200928T01:30:28Z | Sentire Anti Exploit Version 2 | https://github.com/NameDoesCode/SAEV2 | 1 | 0| 
-| 20200928T01:07:46Z | One tool of exploit vuln in batch!!! | https://github.com/tangxiaofeng7/TSLab-Exploit | 8 | 0| 
-| 20200928T00:40:22Z | Post exploitation tool for configuration management servers. | https://github.com/master-of-servers/mose | 37 | 7| 
-| 20200928T00:39:01Z | This repo will hold my WriteUps and solutions for Hack the Box, TryHackMe, Vulnhub, exploit challenges, pwnables, crackmes, etc. | https://github.com/chryssfish/WriteUps | 1 | 0| 
-| 20200928T00:02:39Z | Free exploit made with Synapse X Api. No key required just download and use! | https://github.com/Kenyan2Slick/SlickSploit-2.0 | 0 | 0| 
-| 20200927T23:57:33Z | Null | https://github.com/Planet-Source-Code/john-galanopoulos-exploit-kill-active-win95-98-password-protected-screensaver-using-api__1-29565 | 0 | 0| 
-| 20200927T23:08:42Z | Exploit-Development | https://github.com/h3ll0clar1c3/Exploit-Development | 0 | 0| 
-| 20200927T22:58:26Z | A living document for penetration testing and offensive security. | https://github.com/0xffsec/handbook | 2 | 2| 
+| 20200928T11:45:50Z | mikrot8over: Fast exploitation tool for Mikrotik RouterOS up to 6.38.4 | https://github.com/vulnersCom/mikrot8over | 10 | 5| 
+| 20200928T11:39:56Z | A list of roblox exploits i%ve made/found. | https://github.com/Teedie/roblox-exploits | 0 | 0| 
+| 20200928T11:39:21Z | Sentire Anti Exploit Version 2 | https://github.com/NameDoesCode/SAEV2 | 1 | 0| 
+| 20200928T11:38:46Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 7285 | 1198| 
+| 20200928T11:34:22Z | Just a temporary website to post my ctf writeups and journey into binary/android exploitation/malware analysis/exploit development | https://github.com/blackbeard666/pwn_exhibit | 1 | 1| 
+| 20200928T11:31:05Z | Development of code to exploit LSST and VISTA imaging | https://github.com/lsst-uk/lsst-ir-fusion | 0 | 0| 
+| 20200928T11:26:53Z | Blog! | https://github.com/nonetype/nonetype.github.io | 0 | 0| 
+| 20200928T11:04:11Z | A module for making exploits for a certain thingy (can%t say for legal reasons) | https://github.com/Passiv-e/NegativeAPI | 0 | 0| 
+| 20200928T10:32:02Z | iblessing is an iOS security exploiting toolkit, it mainly includes application information collection, static analysis and dynamic analysis. It can be used for reverse engineering, binary analysis and vulnerability mining. | https://github.com/Soulghost/iblessing | 192 | 30| 
+| 20200928T10:30:51Z | A Collection of Cyber Security Projects, Applications, Reports, and Exploits, implemented in Python. | https://github.com/AliAlimohammadi/Information-Security | 0 | 0| 
 
 
 # backdoor on Github 推荐
