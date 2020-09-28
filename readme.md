@@ -15,6 +15,7 @@
 | 20200927 | F-Secure Labs 对 Lazarus APT 组织攻击样本检测方法的分析 | https://labs.f-secure.com/blog/catching-lazarus-threat-intelligence-to-real-detection-logic/| 
 | 20200927 | FortiGate VPN 存在证书问题，超 20 万家企业存在被中间人攻击的威胁 | https://threatpost.com/fortigate-vpn-default-config-mitm-attacks/159586/| 
 | 20200927 | Linux系统内核 AF_PACKET 原生套接字漏洞（CVE-2020-14386）分析。 | https://paper.seebug.org/1348/| 
+| 20200927 | VkFFT-Vulkan快速傅立叶变换库 | https://github.com/DTolm/VkFFT| 
 
 
 # 安全维基 推荐
@@ -29,7 +30,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20200927T16:36:28Z | CVE-2020-1472 | PoC for Zerologon - all research credits go to Tom Tervoort of Secura | https://github.com/dirkjanm/CVE-2020-1472 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 36 MINUTES 33 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200927T16:36:28Z | CVE-2020-1472 | PoC for Zerologon - all research credits go to Tom Tervoort of Secura | https://github.com/dirkjanm/CVE-2020-1472 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 34 MINUTES 29 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20200927T13:37:22Z | CVE-2020-25272 | Online Bus Booking System 1.0,there is XSS through the name parameter in book_now.php | https://github.com/Ko-kn3t/CVE-2020-25272 | | 
 | 20200927T11:10:05Z | CVE-2020-3433 | PoCs and technical analysis of three vulnerabilities found on Cisco AnyConnect for Windows: CVE-2020-3433, CVE-2020-3434 and CVE-2020-3435  | https://github.com/goichot/CVE-2020-3433 | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
 | 20200927T01:30:10Z | CVE-2020-9992 | CVE-2020-9992 - A design flaw in MobileDevice.framework/Xcode and iOS/iPadOS/tvOS Development Tools allows an attacker in the same network to gain remote code execution on a target device | https://github.com/c0ntextomy/c0ntextomy | 未查询到CVE信息| 

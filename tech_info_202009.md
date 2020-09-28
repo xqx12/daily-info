@@ -15,6 +15,7 @@
 | 20200927 | F-Secure Labs 对 Lazarus APT 组织攻击样本检测方法的分析 | https://labs.f-secure.com/blog/catching-lazarus-threat-intelligence-to-real-detection-logic/| 
 | 20200927 | FortiGate VPN 存在证书问题，超 20 万家企业存在被中间人攻击的威胁 | https://threatpost.com/fortigate-vpn-default-config-mitm-attacks/159586/| 
 | 20200927 | Linux系统内核 AF_PACKET 原生套接字漏洞（CVE-2020-14386）分析。 | https://paper.seebug.org/1348/| 
+| 20200927 | VkFFT-Vulkan快速傅立叶变换库 | https://github.com/DTolm/VkFFT| 
 | 20200924 | 基于Yara的简单IOC扫描器Spyre | https://github.com/spyre-project/spyre| 
 | 20200924 | bombus - 陌陌开源的合规审计平台 | https://github.com/momosecurity/bombus| 
 | 20200924 | RTTIDumper - 注入目标进程 Dump 虚函数表的工具 | https://github.com/samsonpianofingers/RTTIDumper| 
@@ -25,7 +26,6 @@
 | 20200924 | Redefining Impossible: XSS without arbitrary JavaScript | https://portswigger.net/research/redefining-impossible-xss-without-arbitrary-javascript| 
 | 20200924 | Windows Group Policy Caching 本地 SYSTEM 提权漏洞（CVE-2020-1317）的分析 | https://decoder.cloud/2020/09/23/abusing-group-policy-caching/| 
 | 20200924 | Guys 30 Reverse Engineering Tips & Tricks | https://sec.today/pulses/322736f4-8130-48cb-81e5-b4bf0d998e2f/| 
-| 20200924 | Guys 30 Reverse Engineering Tips & Tricks | https://blog.whtaguy.com/2020/04/guys-30-reverse-engineering-tips-tricks.html?m=1| 
 
 
 # 安全维基 推荐
@@ -47,15 +47,15 @@
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
 | 20200928T00:29:58Z | CVE-2020-17382 | PoC exploits for CVE-2020-17382 | https://github.com/uf0o/CVE-2020-17382 | 未查询到CVE信息| 
-| 20200928T00:10:10Z | CVE-2020-1472 | Test tool for CVE-2020-1472 | https://github.com/SecuraBV/CVE-2020-1472 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 36 MINUTES 31 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200927T16:36:28Z | CVE-2020-1472 | PoC for Zerologon - all research credits go to Tom Tervoort of Secura | https://github.com/dirkjanm/CVE-2020-1472 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 36 MINUTES 33 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200928T00:10:10Z | CVE-2020-1472 | Test tool for CVE-2020-1472 | https://github.com/SecuraBV/CVE-2020-1472 | | 
+| 20200927T16:36:28Z | CVE-2020-1472 | PoC for Zerologon - all research credits go to Tom Tervoort of Secura | https://github.com/dirkjanm/CVE-2020-1472 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 34 MINUTES 29 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20200927T13:37:22Z | CVE-2020-25272 | Online Bus Booking System 1.0,there is XSS through the name parameter in book_now.php | https://github.com/Ko-kn3t/CVE-2020-25272 | | 
 | 20200927T11:10:05Z | CVE-2020-3433 | PoCs and technical analysis of three vulnerabilities found on Cisco AnyConnect for Windows: CVE-2020-3433, CVE-2020-3434 and CVE-2020-3435  | https://github.com/goichot/CVE-2020-3433 | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
 | 20200927T01:30:10Z | CVE-2020-9992 | CVE-2020-9992 - A design flaw in MobileDevice.framework/Xcode and iOS/iPadOS/tvOS Development Tools allows an attacker in the same network to gain remote code execution on a target device | https://github.com/c0ntextomy/c0ntextomy | 未查询到CVE信息| 
 | 20200926T16:07:01Z | CVE-2020-25273 | Online Bus Booking System 1.0,  there is Authentication bypass on the Admin Login screen in admin.php via username or password SQL injection. | https://github.com/Ko-kn3t/CVE-2020-25273 | 未查询到CVE信息| 
-| 20200926T13:33:30Z | CVE-2020-11881 | CVE-2020-11881: unauthenticated remote DoS for MikroTik SMB service. | https://github.com/botlabsDev/CVE-2020-11881 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 36 MINUTES 29 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200926T13:33:30Z | CVE-2020-11881 | CVE-2020-11881: unauthenticated remote DoS for MikroTik SMB service. | https://github.com/botlabsDev/CVE-2020-11881 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 34 MINUTES 26 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20200926T11:32:58Z | CVE-2020-17382 | Null | https://github.com/fdiskyou/CVE-2020-17382 | | 
-| 20200926T08:44:44Z | CVE-2020-1472 | Null | https://github.com/striveben/CVE-2020-1472 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 36 MINUTES 43 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200926T08:44:44Z | CVE-2020-1472 | Null | https://github.com/striveben/CVE-2020-1472 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 34 MINUTES 39 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 
 
 # klee on Github 推荐
