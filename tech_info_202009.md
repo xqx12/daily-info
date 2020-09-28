@@ -47,10 +47,10 @@
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
 | 20200928T11:54:35Z | CVE-2020-17382 | PoC exploits for CVE-2020-17382 | https://github.com/uf0o/CVE-2020-17382 | 未查询到CVE信息| 
-| 20200928T11:03:20Z | CVE-2020-1472 | PoC for Zerologon - all research credits go to Tom Tervoort of Secura | https://github.com/dirkjanm/CVE-2020-1472 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 50 MINUTES 24 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200928T10:00:34Z | CVE-2020-1472 | CVE-2020-1472 | https://github.com/Whippet0/CVE-2020-1472 | | 
-| 20200928T06:53:54Z | CVE-2020-1472 | Null | https://github.com/Fa1c0n35/CVE-2020-1472-02- | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 50 MINUTES 37 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200928T05:37:37Z | CVE-2020-0796 | To crash Windows-10 easily | https://github.com/codewithpradhan/SMBGhost-CVE-2020-0796- | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 50 MINUTES 36 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200928T11:03:20Z | CVE-2020-1472 | PoC for Zerologon - all research credits go to Tom Tervoort of Secura | https://github.com/dirkjanm/CVE-2020-1472 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 49 MINUTES 22 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200928T10:00:34Z | CVE-2020-1472 | CVE-2020-1472 | https://github.com/Whippet0/CVE-2020-1472 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 48 MINUTES 36 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200928T06:53:54Z | CVE-2020-1472 | Null | https://github.com/Fa1c0n35/CVE-2020-1472-02- | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 48 MINUTES 34 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200928T05:37:37Z | CVE-2020-0796 | To crash Windows-10 easily | https://github.com/codewithpradhan/SMBGhost-CVE-2020-0796- | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 49 MINUTES 37 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20200928T05:08:46Z | CVE-2020-3452 | Just basic scanner abusing CVE-2020-3452 to enumerate the standard files accessible in the Web Directory of the CISCO ASA applicances. | https://github.com/3ndG4me/CVE-2020-3452-Scanner | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
 | 20200928T03:26:08Z | 未知编号 | CVE Data Analysis, CVE Monitor, CVE EXP Prediction Based on Deep Learning. 1999-2020年存量CVE数据分析、监控CVE增量更新、基于深度学习的CVE EXP预测和自动化推送 | https://github.com/404notf0und/CVE-Flow | 未查询到CVE信息| 
 | 20200928T00:10:10Z | CVE-2020-1472 | Test tool for CVE-2020-1472 | https://github.com/SecuraBV/CVE-2020-1472 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 00 MINUTES 23 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
@@ -91,7 +91,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20200928T12:08:54Z | Numerical examples from %Greedy inference with structure-exploiting lazy maps% | https://github.com/MichaelCBrennan/lazymaps | 0 | 0| 
+| 20200928T12:09:13Z | Numerical examples from %Greedy inference with structure-exploiting lazy maps% | https://github.com/MichaelCBrennan/lazymaps | 0 | 0| 
 | 20200928T12:07:49Z | Advanced Exploit Mitigation Paper | https://github.com/CxVercility/Windows-Internals | 0 | 0| 
 | 20200928T11:45:50Z | mikrot8over: Fast exploitation tool for Mikrotik RouterOS up to 6.38.4 | https://github.com/vulnersCom/mikrot8over | 10 | 5| 
 | 20200928T11:39:56Z | A list of roblox exploits i%ve made/found. | https://github.com/Teedie/roblox-exploits | 0 | 0| 
@@ -121,6 +121,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20200928T12:10:57Z | OSS-Fuzz - continuous fuzzing of open source software. | https://github.com/google/oss-fuzz | 5576 | 1095| 
 | 20200928T11:54:29Z | MIPS32 emulation fuzzing | https://github.com/klecko/mips-fuzz | 1 | 0| 
 | 20200928T11:33:35Z | FLUFFI (Fully Localized Utility For Fuzzing Instantaneously) - A distributed evolutionary binary fuzzer for pentesters | https://github.com/siemens/fluffi | 55 | 11| 
 | 20200928T10:22:07Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 3147 | 725| 
@@ -130,7 +131,6 @@
 | 20200928T09:36:51Z | The Book %Generating Software Tests% | https://github.com/uds-se/fuzzingbook | 425 | 86| 
 | 20200928T09:26:38Z | Null | https://github.com/s9varesc/url-fuzzing | 0 | 0| 
 | 20200928T09:14:19Z | Fuzzing JavaScript WebAssembly APIs using Dharma/Domato (Chrome/v8, etc.) | https://github.com/pventuzelo/fuzzing_browsers_wasm_js | 20 | 0| 
-| 20200928T09:07:17Z | Collection of quality safety articles | https://github.com/tom0li/collection-document | 1236 | 403| 
 
 
 
