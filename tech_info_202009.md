@@ -47,10 +47,10 @@
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
 | 20200928T11:54:35Z | CVE-2020-17382 | PoC exploits for CVE-2020-17382 | https://github.com/uf0o/CVE-2020-17382 | 未查询到CVE信息| 
-| 20200928T11:03:20Z | CVE-2020-1472 | PoC for Zerologon - all research credits go to Tom Tervoort of Secura | https://github.com/dirkjanm/CVE-2020-1472 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 59 MINUTES 13 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200928T10:00:34Z | CVE-2020-1472 | CVE-2020-1472 | https://github.com/Whippet0/CVE-2020-1472 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 59 MINUTES 24 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200928T06:53:54Z | CVE-2020-1472 | Null | https://github.com/Fa1c0n35/CVE-2020-1472-02- | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 59 MINUTES 23 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200928T05:37:37Z | CVE-2020-0796 | To crash Windows-10 easily | https://github.com/codewithpradhan/SMBGhost-CVE-2020-0796- | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 59 MINUTES 21 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200928T11:03:20Z | CVE-2020-1472 | PoC for Zerologon - all research credits go to Tom Tervoort of Secura | https://github.com/dirkjanm/CVE-2020-1472 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 57 MINUTES 28 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200928T10:00:34Z | CVE-2020-1472 | CVE-2020-1472 | https://github.com/Whippet0/CVE-2020-1472 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 57 MINUTES 41 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200928T06:53:54Z | CVE-2020-1472 | Null | https://github.com/Fa1c0n35/CVE-2020-1472-02- | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 57 MINUTES 39 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200928T05:37:37Z | CVE-2020-0796 | To crash Windows-10 easily | https://github.com/codewithpradhan/SMBGhost-CVE-2020-0796- | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 57 MINUTES 38 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20200928T05:08:46Z | CVE-2020-3452 | Just basic scanner abusing CVE-2020-3452 to enumerate the standard files accessible in the Web Directory of the CISCO ASA applicances. | https://github.com/3ndG4me/CVE-2020-3452-Scanner | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
 | 20200928T03:26:08Z | 未知编号 | CVE Data Analysis, CVE Monitor, CVE EXP Prediction Based on Deep Learning. 1999-2020年存量CVE数据分析、监控CVE增量更新、基于深度学习的CVE EXP预测和自动化推送 | https://github.com/404notf0und/CVE-Flow | 未查询到CVE信息| 
 | 20200928T00:10:10Z | CVE-2020-1472 | Test tool for CVE-2020-1472 | https://github.com/SecuraBV/CVE-2020-1472 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 00 MINUTES 23 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
@@ -106,31 +106,31 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20200928T11:42:30Z | Null | https://github.com/petkakisgeorge/Local-BackDoor-for-Windows | 0 | 0| 
+| 20200928T08:50:56Z | Code for %Biometric Backdoors: A Poisoning Attack Against Unsupervised Template Updating% | https://github.com/ssloxford/biometric-backdoors | 2 | 0| 
+| 20200928T08:45:03Z | An innovative python backdoor. | https://github.com/FrancescoLucarini/BackdoorPy | 0 | 0| 
+| 20200928T08:05:27Z | Full-featured C2 framework which silently persists on webserver via evil PHP oneliner :smiling_imp: | https://github.com/nil0x42/phpsploit | 1018 | 307| 
+| 20200928T08:01:47Z | Backdoor is going to be an interactive web console for Elixir & Phoenix projects | https://github.com/amberbit/backdoor | 1 | 1| 
+| 20200928T07:52:22Z | Null | https://github.com/CO0Ki3/genshin_backdoor | 0 | 0| 
+| 20200928T07:12:02Z |  https://github.com/amberbit/backdoor ,> study | https://github.com/raetam/backdoor | 0 | 0| 
+| 20200928T06:44:13Z | Some of my programming for pentest assignment and project code The automaticsqlinjection.py code automatically runs sql injection to a vulnerable website (the code was made to sql inject a vulnerable website made for our assignment). The revershell.py code acts like a backdoor to a spesific victim with specific ip address and port number that we want to connect the victim through so that we can run command on their system and send the results of those commands to our system. | https://github.com/dewanggaptra/Programming-for-Penestration-Testing-codes | 0 | 0| 
 | 20200928T01:39:25Z | Hacking tools pack & backdoors generator. | https://github.com/AdrMXR/KitHack | 176 | 43| 
 | 20200927T23:44:17Z | Linux PAM Backdoor | https://github.com/zephrax/linux-pam-backdoor | 73 | 20| 
-| 20200927T22:21:20Z | Full-featured C2 framework which silently persists on webserver via evil PHP oneliner :smiling_imp: | https://github.com/nil0x42/phpsploit | 1017 | 307| 
-| 20200927T21:52:09Z | An innovative python backdoor. | https://github.com/FrancescoLucarini/BackdoorPy | 0 | 0| 
-| 20200927T20:10:03Z | Backdoor is going to be an interactive web console for Elixir & Phoenix projects | https://github.com/amberbit/backdoor | 0 | 0| 
-| 20200927T17:46:06Z | Basic Windows reverse shell written in C++ | https://github.com/hacefresko/CppBackdoor | 0 | 0| 
-| 20200927T16:52:15Z | Code for %Biometric Backdoors: A Poisoning Attack Against Unsupervised Template Updating% | https://github.com/ssloxford/biometric-backdoors | 1 | 0| 
-| 20200927T15:08:25Z | as name as description .. i did just clean some tools and show for u the tricks of backdoors :v  | https://github.com/0xtn/Writeups-and-Tools | 2 | 0| 
-| 20200927T14:32:42Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 63 | 7| 
-| 20200927T13:44:56Z | End-to-end encrypted messaging app, keep em backdoors away! | https://github.com/EllartOtt/e2ee-message-app | 0 | 0| 
 
 
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20200928T01:54:07Z | web fuzzing && bug hunter | https://github.com/zer0yu/BugBounty | 0 | 0| 
-| 20200928T01:53:00Z | fuzzing test | https://github.com/hao-wang/fuzzing | 0 | 0| 
-| 20200927T23:58:27Z | Null | https://github.com/WarNote/fuzzySearchTests | 0 | 0| 
-| 20200927T23:42:42Z | Unsupervised coverage-guided btrfs fuzzer | https://github.com/danobi/btrfs-fuzz | 0 | 0| 
-| 20200927T23:15:10Z | 🎯 A collection of fuzzing targets written in Rust. | https://github.com/rust-fuzz/targets | 77 | 16| 
-| 20200927T22:51:48Z | Fast web fuzzer written in Go | https://github.com/ffuf/ffuf | 3034 | 346| 
-| 20200927T22:20:55Z | Pedal Multiefecto para guitarra electrica (LoopBack, Delay, Fuzz y Wah-wah) | https://github.com/jrosmirez94/Pedal-Multiefecto | 0 | 0| 
-| 20200927T21:16:34Z | MIPS32 emulation fuzzing | https://github.com/klecko/mips-fuzz | 1 | 0| 
-| 20200927T20:52:47Z | Personal website of Laurence Hughes | https://github.com/fuzzylogicxx/fuzzylogic | 4 | 1| 
-| 20200927T20:31:16Z | Fuzzy Logic SciKit (Toolkit for SciPy) | https://github.com/scikit-fuzzy/scikit-fuzzy | 464 | 187| 
+| 20200928T11:54:29Z | MIPS32 emulation fuzzing | https://github.com/klecko/mips-fuzz | 1 | 0| 
+| 20200928T11:33:35Z | FLUFFI (Fully Localized Utility For Fuzzing Instantaneously) - A distributed evolutionary binary fuzzer for pentesters | https://github.com/siemens/fluffi | 55 | 11| 
+| 20200928T10:22:07Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 3147 | 725| 
+| 20200928T10:15:30Z | Tools and workflows for fuzz testing | https://github.com/LeastAuthority/fleece | 0 | 0| 
+| 20200928T10:12:44Z | Null | https://github.com/pkudlacik/NeuroFuzzy_Lips | 0 | 0| 
+| 20200928T09:41:19Z | Null | https://github.com/vrthra/bFuzzer | 0 | 0| 
+| 20200928T09:36:51Z | The Book %Generating Software Tests% | https://github.com/uds-se/fuzzingbook | 425 | 86| 
+| 20200928T09:26:38Z | Null | https://github.com/s9varesc/url-fuzzing | 0 | 0| 
+| 20200928T09:14:19Z | Fuzzing JavaScript WebAssembly APIs using Dharma/Domato (Chrome/v8, etc.) | https://github.com/pventuzelo/fuzzing_browsers_wasm_js | 20 | 0| 
+| 20200928T09:07:17Z | Collection of quality safety articles | https://github.com/tom0li/collection-document | 1236 | 403| 
 
 
 
