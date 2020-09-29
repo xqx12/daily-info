@@ -47,13 +47,13 @@
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
 | 20200928T22:35:39Z | CVE-2020-17382 | PoC exploits for CVE-2020-17382 | https://github.com/uf0o/CVE-2020-17382 | 未查询到CVE信息| 
-| 20200928T21:00:59Z | CVE-2020-1472 | PoC for Zerologon - all research credits go to Tom Tervoort of Secura | https://github.com/dirkjanm/CVE-2020-1472 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 33 MINUTES 26 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200928T21:00:59Z | CVE-2020-1472 | PoC for Zerologon - all research credits go to Tom Tervoort of Secura | https://github.com/dirkjanm/CVE-2020-1472 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 31 MINUTES 27 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20200928T13:11:18Z | CVE-2020-14294 | This repository holds the advisory of the CVE-2020-14294 | https://github.com/patrickhener/CVE-2020-14294 | 未查询到CVE信息| 
 | 20200928T11:27:25Z | CVE-2020-1472 | Test tool for CVE-2020-1472 | https://github.com/SecuraBV/CVE-2020-1472 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 33 MINUTES 25 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200928T10:00:34Z | CVE-2020-1472 | CVE-2020-1472 | https://github.com/Whippet0/CVE-2020-1472 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 33 MINUTES 39 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200928T06:53:54Z | CVE-2020-1472 | Null | https://github.com/Fa1c0n35/CVE-2020-1472-02- | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 33 MINUTES 38 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200928T05:37:37Z | CVE-2020-0796 | To crash Windows-10 easily | https://github.com/codewithpradhan/SMBGhost-CVE-2020-0796- | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 33 MINUTES 36 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200928T05:08:46Z | CVE-2020-3452 | Just basic scanner abusing CVE-2020-3452 to enumerate the standard files accessible in the Web Directory of the CISCO ASA applicances. | https://github.com/3ndG4me/CVE-2020-3452-Scanner | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
+| 20200928T10:00:34Z | CVE-2020-1472 | CVE-2020-1472 | https://github.com/Whippet0/CVE-2020-1472 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 31 MINUTES 39 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200928T06:53:54Z | CVE-2020-1472 | Null | https://github.com/Fa1c0n35/CVE-2020-1472-02- | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 31 MINUTES 38 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200928T05:37:37Z | CVE-2020-0796 | To crash Windows-10 easily | https://github.com/codewithpradhan/SMBGhost-CVE-2020-0796- | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 31 MINUTES 37 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200928T05:08:46Z | CVE-2020-3452 | Just basic scanner abusing CVE-2020-3452 to enumerate the standard files accessible in the Web Directory of the CISCO ASA applicances. | https://github.com/3ndG4me/CVE-2020-3452-Scanner | | 
 | 20200928T03:26:08Z | 未知编号 | CVE Data Analysis, CVE Monitor, CVE EXP Prediction Based on Deep Learning. 1999-2020年存量CVE数据分析、监控CVE增量更新、基于深度学习的CVE EXP预测和自动化推送 | https://github.com/404notf0und/CVE-Flow | 未查询到CVE信息| 
 | 20200927T13:37:22Z | CVE-2020-25272 | Online Bus Booking System 1.0,there is XSS through the name parameter in book_now.php | https://github.com/Ko-kn3t/CVE-2020-25272 | | 
 
@@ -91,10 +91,10 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20200929T00:21:55Z | TecnoHub was a script hub that I worked on for about 4-5 months, I discontinued it shortly after losing interest in Roblox Exploiting, published it here for learning purposes | https://github.com/Tecnobase/TecnoHub | 0 | 0| 
+| 20200929T00:28:55Z | Null | https://github.com/Ahendall/AhendallExploiting | 0 | 0| 
+| 20200929T00:28:20Z | TecnoHub was a script hub that I worked on for about 4-5 months, I discontinued it shortly after losing interest in Roblox Exploiting, published it here for learning purposes | https://github.com/Tecnobase/TecnoHub | 0 | 0| 
 | 20200929T00:16:57Z | A module for making exploits for a certain thingy (discord) all for educational purposes ;) | https://github.com/Passiv-e/NegativeAPI | 0 | 0| 
 | 20200929T00:15:49Z | Internal Among Us Exploit by hypnotic#4516 | https://github.com/hypno1337/AmongUs | 0 | 0| 
-| 20200929T00:10:56Z | Null | https://github.com/Ahendall/AhendallExploiting | 0 | 0| 
 | 20200928T23:45:34Z | What a beautiful day outside, the birds are singing, the flowers are blooming.. what a perfect day for crashing | https://github.com/Yaekith/ServerOutageExploitV5 | 2 | 0| 
 | 20200928T22:14:44Z | Commodity Injection Signatures, Malicious Inputs, XSS, HTTP Header Injection, XXE, RCE, Javascript, XSLT | https://github.com/xsscx/Commodity-Injection-Signatures | 235 | 97| 
 | 20200928T22:10:06Z | The Browser Exploitation Framework Project | https://github.com/beefproject/beef | 5272 | 1276| 
@@ -121,6 +121,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20200929T00:27:43Z | Null | https://github.com/gicesario/robo-fuzzy | 0 | 0| 
 | 20200928T23:52:35Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 3148 | 725| 
 | 20200928T23:47:41Z | Null | https://github.com/bolek42/randomFuzz | 5 | 0| 
 | 20200928T23:42:09Z | Null | https://github.com/WarNote/fuzzySearchTests | 0 | 0| 
@@ -130,7 +131,6 @@
 | 20200928T21:40:58Z | Pedal Multiefecto para guitarra electrica (LoopBack, Delay, Fuzz y Wah-wah) | https://github.com/jrosmirez94/Pedal-Multiefecto | 0 | 0| 
 | 20200928T21:40:16Z | Web application fuzzer | https://github.com/xmendez/wfuzz | 3134 | 795| 
 | 20200928T21:37:35Z | OSS-Fuzz - continuous fuzzing of open source software. | https://github.com/google/oss-fuzz | 5577 | 1095| 
-| 20200928T21:33:52Z | Repository holding database dumps from getfursu.it | https://github.com/veelkoov/fuzzrake-data | 0 | 0| 
 
 
 
