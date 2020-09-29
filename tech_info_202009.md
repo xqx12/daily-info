@@ -54,7 +54,7 @@
 | 20200928T06:53:54Z | CVE-2020-1472 | Null | https://github.com/Fa1c0n35/CVE-2020-1472-02- | 当攻击者使用Netlogon远程协议（MS-NRPC）（又称为“ Netlogon特权提升漏洞”）建立与域控制器的易受攻击的Netlogon安全通道连接时，将存在特权提升漏洞。| 
 | 20200928T05:37:37Z | CVE-2020-0796 | To crash Windows-10 easily | https://github.com/codewithpradhan/SMBGhost-CVE-2020-0796- | Microsoft服务器消息块3.1.1（SMBv3）协议处理某些请求的方式中存在一个远程执行代码漏洞，也称为“ Windows SMBv3客户端/服务器远程执行代码漏洞”。| 
 | 20200928T05:08:46Z | CVE-2020-3452 | Just basic scanner abusing CVE-2020-3452 to enumerate the standard files accessible in the Web Directory of the CISCO ASA applicances. | https://github.com/3ndG4me/CVE-2020-3452-Scanner | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
-| 20200928T03:26:08Z | 未知编号 | CVE Data Analysis, CVE Monitor, CVE EXP Prediction Based on Deep Learning. 1999-2020年存量CVE数据分析、监控CVE增量更新、基于深度学习的CVE EXP预测和自动化推送 | https://github.com/404notf0und/CVE-Flow | | 
+| 20200928T03:26:08Z | 未知编号 | CVE Data Analysis, CVE Monitor, CVE EXP Prediction Based on Deep Learning. 1999-2020年存量CVE数据分析、监控CVE增量更新、基于深度学习的CVE EXP预测和自动化推送 | https://github.com/404notf0und/CVE-Flow | 未查询到CVE信息| 
 | 20200927T13:37:22Z | CVE-2020-25272 | Online Bus Booking System 1.0,there is XSS through the name parameter in book_now.php | https://github.com/Ko-kn3t/CVE-2020-25272 | | 
 
 
@@ -91,16 +91,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20200928T12:53:52Z | Binary exploitation practice with Linux/Windows | https://github.com/arty-hlr/exploitdev-practice | 1 | 1| 
-| 20200928T12:53:02Z | xcube is a Python package for generating and exploiting data cubes powered by xarray, dask, and zarr. | https://github.com/dcs4cop/xcube | 62 | 10| 
-| 20200928T12:48:26Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 5 | 2| 
-| 20200928T12:09:13Z | Numerical examples from %Greedy inference with structure-exploiting lazy maps% | https://github.com/MichaelCBrennan/lazymaps | 0 | 0| 
-| 20200928T12:07:49Z | Advanced Exploit Mitigation Paper | https://github.com/CxVercility/Windows-Internals | 0 | 0| 
-| 20200928T11:45:50Z | mikrot8over: Fast exploitation tool for Mikrotik RouterOS up to 6.38.4 | https://github.com/vulnersCom/mikrot8over | 10 | 5| 
-| 20200928T11:39:56Z | A list of roblox exploits i%ve made/found. | https://github.com/Teedie/roblox-exploits | 0 | 0| 
-| 20200928T11:39:21Z | Sentire Anti Exploit Version 2 | https://github.com/NameDoesCode/SAEV2 | 1 | 0| 
-| 20200928T11:38:46Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 7285 | 1198| 
-| 20200928T11:34:22Z | Just a temporary website to post my ctf writeups and journey into binary/android exploitation/malware analysis/exploit development | https://github.com/blackbeard666/pwn_exhibit | 1 | 1| 
+| 20200928T23:56:42Z | TecnoHub was a script hub that I worked on for about 4-5 months, I discontinued it shortly after losing interest in Roblox Exploiting, published it here for learning purposes | https://github.com/Tecnobase/TecnoHub | 0 | 0| 
+| 20200928T23:45:34Z | What a beautiful day outside, the birds are singing, the flowers are blooming.. what a perfect day for crashing | https://github.com/Yaekith/ServerOutageExploitV5 | 2 | 0| 
+| 20200928T22:14:44Z | Commodity Injection Signatures, Malicious Inputs, XSS, HTTP Header Injection, XXE, RCE, Javascript, XSLT | https://github.com/xsscx/Commodity-Injection-Signatures | 235 | 97| 
+| 20200928T22:10:06Z | The Browser Exploitation Framework Project | https://github.com/beefproject/beef | 5272 | 1276| 
+| 20200928T21:21:18Z | Null | https://github.com/WesleyEspinoza/Jinja2-ExploitMe | 0 | 0| 
+| 20200928T21:08:06Z | A tool that helps you build buffer overflow exploits. | https://github.com/javiervidrua/exploithelper | 1 | 0| 
+| 20200928T21:03:34Z | A module for making exploits for a certain thingy (can%t say for legal reasons) | https://github.com/Passiv-e/NegativeAPI | 0 | 0| 
+| 20200928T20:35:12Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 7286 | 1198| 
+| 20200928T19:42:09Z | Stuff for Prosa binary reversing, exploitation and shellcoding workshop | https://github.com/RobertLarsen/ProsaWorkshop | 24 | 5| 
+| 20200928T19:36:11Z | Working directory of files related to my disseration, Exploit Development for Ada | https://github.com/bkungl/AdaExploiting | 0 | 0| 
 
 
 # backdoor on Github 推荐
