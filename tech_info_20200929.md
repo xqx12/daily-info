@@ -36,10 +36,10 @@
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
 | 20200929T11:47:03Z | CVE-2020-17382 | PoC exploits for CVE-2020-17382 | https://github.com/uf0o/CVE-2020-17382 | 未查询到CVE信息| 
-| 20200929T08:18:17Z | CVE-2020-1472 | PoC for Zerologon - all research credits go to Tom Tervoort of Secura | https://github.com/dirkjanm/CVE-2020-1472 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 20 MINUTES 04 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200929T08:18:17Z | CVE-2020-1472 | PoC for Zerologon - all research credits go to Tom Tervoort of Secura | https://github.com/dirkjanm/CVE-2020-1472 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 18 MINUTES 13 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20200929T05:51:30Z | CVE-2020-14294 | This repository holds the advisory of the CVE-2020-14294 | https://github.com/patrickhener/CVE-2020-14294 | 未查询到CVE信息| 
 | 20200929T05:51:04Z | CVE-2020-14293 | This repository holds the advisory, exploits and vulnerable software of the CVE-2020-14293 | https://github.com/patrickhener/CVE-2020-14293 | 未查询到CVE信息| 
-| 20200929T02:38:31Z | 未知编号 | Snort rule for CVE 2020-1472 Detection | https://github.com/Sajuwithgithub/CVE2020-1472 | | 
+| 20200929T02:38:31Z | 未知编号 | Snort rule for CVE 2020-1472 Detection | https://github.com/Sajuwithgithub/CVE2020-1472 | 未查询到CVE信息| 
 
 
 # klee on Github 推荐
@@ -57,6 +57,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20200929T12:36:17Z | exploit-exam | https://github.com/vapvin/exploit-exam | 0 | 0| 
 | 20200929T12:21:06Z | Feature-rich Post Exploitation Framework. | https://github.com/quantumcored/maalik | 15 | 2| 
 | 20200929T11:58:54Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 7290 | 1199| 
 | 20200929T11:58:24Z | Apollo is a post-exploitation tool for managing, enumerating and pivotting on compromised machines. | https://github.com/thecoderstudio/apollo | 5 | 0| 
@@ -66,7 +67,6 @@
 | 20200929T10:42:00Z | Repository of a Roblox exploit named Lurenzz. Hope you enjoy :) | https://github.com/tststrumble/lurenzz | 0 | 0| 
 | 20200929T10:40:13Z | A few simple binary exploits | https://github.com/samoilescusebastian/exploits | 0 | 0| 
 | 20200929T10:21:33Z | My collection of exploit development skeletons for fuzzing, overwriting the stack, remote code execution, etc. | https://github.com/shipcod3/sploitchits | 11 | 5| 
-| 20200929T10:09:36Z | Basic Exploit Development for OSCP Preparation | https://github.com/raghavmishra/exploitDev.github.io | 0 | 0| 
 
 
 # backdoor on Github 推荐
