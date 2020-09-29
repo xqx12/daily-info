@@ -19,13 +19,13 @@
 | 20200928 | NodeBB 论坛软件账户接管 Web 提权漏洞分析 | https://sec.today/pulses/a21a9933-fd37-43af-8605-4ec6e37fbd21/| 
 | 20200928 | webfuzz -针对 Web 应用的 Fuzz 工具 | https://github.com/catenacyber/webfuzz| 
 | 20200928 | NodeBB 论坛软件账户接管 Web 提权漏洞分析 | https://medium.com/bugbountywriteup/privilege-escalation-via-account-takeover-on-nodebb-forum-software-512-a593a7b1b4a4| 
+| 20200928 | Cobalt Strike 绕过流量审计. | https://paper.seebug.org/1349/| 
 | 20200927 | Pwn2Own 2020 比赛利用 Oracle VirtualBox 网卡、USB 设备驱动实现虚拟机逃逸的细节 | https://starlabs.sg/blog/2020/09/pwn2own-2020-oracle-virtualbox-escape/| 
 | 20200927 | V8 脚本引擎 Slack Tracking 机制的介绍 | https://v8.dev/blog/slack-tracking| 
 | 20200927 | Instagram RCE - Android/iOS 版本的 Instagram 因使用 Mozjpeg 开源图像处理库导致 RCE 漏洞 | https://research.checkpoint.com/2020/instagram_rce-code-execution-vulnerability-in-instagram-app-for-android-and-ios/| 
 | 20200927 | AutoDirbuster – Automatically Run and Save DirBuster Scans for Multiple IPs | https://blog.netspi.com/autodirbuster/| 
 | 20200927 | iOS Development Tools MobileDevice 框架存在漏洞，同一个 WiFi 的攻击者可以中间人身份攻击手机 | http://blog.zimperium.com/c0ntextomy-lets-debug-together-cve-2020-9992/| 
 | 20200927 | 幽灵在行动：Specter分析报告 | https://blog.netlab.360.com/malware-specter-report/| 
-| 20200927 | F-Secure Labs 对 Lazarus APT 组织攻击样本检测方法的分析 | https://labs.f-secure.com/blog/catching-lazarus-threat-intelligence-to-real-detection-logic/| 
 
 
 # 安全维基 推荐
@@ -46,21 +46,22 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20200928T11:54:35Z | CVE-2020-17382 | PoC exploits for CVE-2020-17382 | https://github.com/uf0o/CVE-2020-17382 | 未查询到CVE信息| 
+| 20200928T22:35:39Z | CVE-2020-17382 | PoC exploits for CVE-2020-17382 | https://github.com/uf0o/CVE-2020-17382 | 未查询到CVE信息| 
+| 20200928T21:00:59Z | CVE-2020-1472 | PoC for Zerologon - all research credits go to Tom Tervoort of Secura | https://github.com/dirkjanm/CVE-2020-1472 | 当攻击者使用Netlogon远程协议（MS-NRPC）（又称为“ Netlogon特权提升漏洞”）建立与域控制器的易受攻击的Netlogon安全通道连接时，将存在特权提升漏洞。| 
+| 20200928T13:11:18Z | CVE-2020-14294 | This repository holds the advisory of the CVE-2020-14294 | https://github.com/patrickhener/CVE-2020-14294 | 未查询到CVE信息| 
 | 20200928T11:27:25Z | CVE-2020-1472 | Test tool for CVE-2020-1472 | https://github.com/SecuraBV/CVE-2020-1472 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 33 MINUTES 25 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200928T11:03:20Z | CVE-2020-1472 | PoC for Zerologon - all research credits go to Tom Tervoort of Secura | https://github.com/dirkjanm/CVE-2020-1472 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 00 MINUTES 15 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200928T10:00:34Z | CVE-2020-1472 | CVE-2020-1472 | https://github.com/Whippet0/CVE-2020-1472 | | 
-| 20200928T06:53:54Z | CVE-2020-1472 | Null | https://github.com/Fa1c0n35/CVE-2020-1472-02- | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 00 MINUTES 37 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200928T05:37:37Z | CVE-2020-0796 | To crash Windows-10 easily | https://github.com/codewithpradhan/SMBGhost-CVE-2020-0796- | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 00 MINUTES 35 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200928T10:00:34Z | CVE-2020-1472 | CVE-2020-1472 | https://github.com/Whippet0/CVE-2020-1472 | 当攻击者使用Netlogon远程协议（MS-NRPC）（又称为“ Netlogon特权提升漏洞”）建立与域控制器的易受攻击的Netlogon安全通道连接时，将存在特权提升漏洞。| 
+| 20200928T06:53:54Z | CVE-2020-1472 | Null | https://github.com/Fa1c0n35/CVE-2020-1472-02- | 当攻击者使用Netlogon远程协议（MS-NRPC）（又称为“ Netlogon特权提升漏洞”）建立与域控制器的易受攻击的Netlogon安全通道连接时，将存在特权提升漏洞。| 
+| 20200928T05:37:37Z | CVE-2020-0796 | To crash Windows-10 easily | https://github.com/codewithpradhan/SMBGhost-CVE-2020-0796- | Microsoft服务器消息块3.1.1（SMBv3）协议处理某些请求的方式中存在一个远程执行代码漏洞，也称为“ Windows SMBv3客户端/服务器远程执行代码漏洞”。| 
 | 20200928T05:08:46Z | CVE-2020-3452 | Just basic scanner abusing CVE-2020-3452 to enumerate the standard files accessible in the Web Directory of the CISCO ASA applicances. | https://github.com/3ndG4me/CVE-2020-3452-Scanner | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
-| 20200928T03:26:08Z | 未知编号 | CVE Data Analysis, CVE Monitor, CVE EXP Prediction Based on Deep Learning. 1999-2020年存量CVE数据分析、监控CVE增量更新、基于深度学习的CVE EXP预测和自动化推送 | https://github.com/404notf0und/CVE-Flow | 未查询到CVE信息| 
+| 20200928T03:26:08Z | 未知编号 | CVE Data Analysis, CVE Monitor, CVE EXP Prediction Based on Deep Learning. 1999-2020年存量CVE数据分析、监控CVE增量更新、基于深度学习的CVE EXP预测和自动化推送 | https://github.com/404notf0und/CVE-Flow | | 
 | 20200927T13:37:22Z | CVE-2020-25272 | Online Bus Booking System 1.0,there is XSS through the name parameter in book_now.php | https://github.com/Ko-kn3t/CVE-2020-25272 | | 
-| 20200927T11:10:05Z | CVE-2020-3433 | PoCs and technical analysis of three vulnerabilities found on Cisco AnyConnect for Windows: CVE-2020-3433, CVE-2020-3434 and CVE-2020-3435  | https://github.com/goichot/CVE-2020-3433 | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20200928T23:49:07Z | Urban Evidence Based Policy (SPPA667) | https://github.com/KLeeDE/PUS2020_KLee | 0 | 0| 
 | 20200928T03:20:07Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1514 | 459| 
 | 20200927T20:35:24Z | The compiler inputs a PDDL benchmark of the Carpark planning problem and converts it to an equivalent C code which is used for solving the planning problem by program verification tools such as KLEE/TracerX. | https://github.com/daneshvar-amrollahi/Carpark-PDDL2C | 0 | 0| 
 | 20200927T20:31:41Z | Create CFGs and compute complexity metrics for Python, C++, and Java code. | https://github.com/hmc-alpaqa/metrinome | 4 | 0| 
@@ -70,7 +71,6 @@
 | 20200926T09:55:50Z | Minecraft Mod. Allows breaking only one half of a double slab block. | https://github.com/blay09/KleeSlabs | 7 | 3| 
 | 20200925T00:44:15Z | A tool that automatically calls Klee to solve for injection | https://github.com/Zzzode/KleeTool | 1 | 0| 
 | 20200924T12:04:15Z | Null | https://github.com/thierry-tct/KLEE-SEMu | 1 | 0| 
-| 20200923T22:20:24Z | Null | https://github.com/robenkleene/roben-kleene.novaextension | 0 | 0| 
 
 
 # s2e on Github 推荐
@@ -106,31 +106,31 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20200928T12:59:10Z | A Discord reverse shell or backdoor  | https://github.com/NullByte75/DiscordReverseShell | 0 | 0| 
-| 20200928T12:30:58Z | Rusty backdoor+spyware :bomb: :door: | https://github.com/talbor49/spyware | 8 | 0| 
+| 20200928T23:52:42Z | Simple Python Backdoor | https://github.com/zNairy/Sonaris | 3 | 0| 
+| 20200928T23:32:56Z | FUD cross-platform python2 backdoor | https://github.com/7h3w4lk3r/pyback | 9 | 4| 
+| 20200928T20:42:28Z | A deck-building roguelike cyberpunk game. | https://github.com/uspgamedev/backdoor | 17 | 2| 
+| 20200928T20:22:00Z | Remote access Backdoor with MSF-GEN | https://github.com/SisaNutur/MSF-GEN | 0 | 0| 
+| 20200928T17:09:10Z | A Discord reverse shell or backdoor  | https://github.com/NullByte75/DiscordReverseShell | 1 | 0| 
+| 20200928T15:36:54Z | I didnt finish | https://github.com/gurkanguler/python_backdoor | 0 | 0| 
+| 20200928T13:45:45Z | Rusty backdoor+spyware :bomb: :door: | https://github.com/talbor49/spyware | 8 | 0| 
 | 20200928T12:22:28Z | Delete Genshin backdoor | https://github.com/Sleeeeeepy/GenshinCleaner | 0 | 0| 
 | 20200928T11:42:30Z | Null | https://github.com/petkakisgeorge/Local-BackDoor-for-Windows | 0 | 0| 
 | 20200928T08:50:56Z | Code for %Biometric Backdoors: A Poisoning Attack Against Unsupervised Template Updating% | https://github.com/ssloxford/biometric-backdoors | 2 | 0| 
-| 20200928T08:45:03Z | An innovative python backdoor. | https://github.com/FrancescoLucarini/BackdoorPy | 0 | 0| 
-| 20200928T08:05:27Z | Full-featured C2 framework which silently persists on webserver via evil PHP oneliner :smiling_imp: | https://github.com/nil0x42/phpsploit | 1018 | 307| 
-| 20200928T08:01:47Z | Backdoor is going to be an interactive web console for Elixir & Phoenix projects | https://github.com/amberbit/backdoor | 1 | 1| 
-| 20200928T07:52:22Z | Null | https://github.com/CO0Ki3/genshin_backdoor | 0 | 0| 
-| 20200928T07:12:02Z |  https://github.com/amberbit/backdoor ,> study | https://github.com/raetam/backdoor | 0 | 0| 
 
 
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20200928T13:00:13Z | Null | https://github.com/WarNote/fuzzySearchTests | 0 | 0| 
-| 20200928T12:58:33Z | Null | https://github.com/s9varesc/url-fuzzing | 0 | 0| 
-| 20200928T12:44:07Z | Personal website of Laurence Hughes | https://github.com/fuzzylogicxx/fuzzylogic | 4 | 1| 
-| 20200928T12:10:57Z | OSS-Fuzz - continuous fuzzing of open source software. | https://github.com/google/oss-fuzz | 5576 | 1095| 
-| 20200928T12:10:38Z | web fuzzing && bug hunter | https://github.com/zer0yu/BugBounty | 4 | 0| 
-| 20200928T11:54:29Z | MIPS32 emulation fuzzing | https://github.com/klecko/mips-fuzz | 1 | 0| 
-| 20200928T11:33:35Z | FLUFFI (Fully Localized Utility For Fuzzing Instantaneously) - A distributed evolutionary binary fuzzer for pentesters | https://github.com/siemens/fluffi | 55 | 11| 
-| 20200928T10:22:07Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 3147 | 725| 
-| 20200928T10:15:30Z | Tools and workflows for fuzz testing | https://github.com/LeastAuthority/fleece | 0 | 0| 
-| 20200928T10:12:44Z | Null | https://github.com/pkudlacik/NeuroFuzzy_Lips | 0 | 0| 
+| 20200928T23:52:35Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 3148 | 725| 
+| 20200928T23:47:41Z | Null | https://github.com/bolek42/randomFuzz | 5 | 0| 
+| 20200928T23:42:09Z | Null | https://github.com/WarNote/fuzzySearchTests | 0 | 0| 
+| 20200928T23:37:34Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2054 | 88| 
+| 20200928T23:01:55Z | Null | https://github.com/nishantjr/fuzzing-with-k | 0 | 0| 
+| 20200928T22:18:40Z | MIPS32 emulation fuzzing | https://github.com/klecko/mips-fuzz | 1 | 0| 
+| 20200928T21:40:58Z | Pedal Multiefecto para guitarra electrica (LoopBack, Delay, Fuzz y Wah-wah) | https://github.com/jrosmirez94/Pedal-Multiefecto | 0 | 0| 
+| 20200928T21:40:16Z | Web application fuzzer | https://github.com/xmendez/wfuzz | 3134 | 795| 
+| 20200928T21:37:35Z | OSS-Fuzz - continuous fuzzing of open source software. | https://github.com/google/oss-fuzz | 5577 | 1095| 
+| 20200928T21:33:52Z | Repository holding database dumps from getfursu.it | https://github.com/veelkoov/fuzzrake-data | 0 | 0| 
 
 
 
