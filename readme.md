@@ -36,7 +36,7 @@
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
 | 20200929T13:25:56Z | CVE-2020-17382 | PoC exploits for CVE-2020-17382 | https://github.com/uf0o/CVE-2020-17382 | 未查询到CVE信息| 
-| 20200929T08:18:17Z | CVE-2020-1472 | PoC for Zerologon - all research credits go to Tom Tervoort of Secura | https://github.com/dirkjanm/CVE-2020-1472 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  09 HOURS 30 MINUTES 34 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200929T08:18:17Z | CVE-2020-1472 | PoC for Zerologon - all research credits go to Tom Tervoort of Secura | https://github.com/dirkjanm/CVE-2020-1472 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  09 HOURS 27 MINUTES 23 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20200929T05:51:30Z | CVE-2020-14294 | This repository holds the advisory of the CVE-2020-14294 | https://github.com/patrickhener/CVE-2020-14294 | 未查询到CVE信息| 
 | 20200929T05:51:04Z | CVE-2020-14293 | This repository holds the advisory, exploits and vulnerable software of the CVE-2020-14293 | https://github.com/patrickhener/CVE-2020-14293 | 未查询到CVE信息| 
 | 20200929T02:38:31Z | 未知编号 | Snort rule for CVE 2020-1472 Detection | https://github.com/Sajuwithgithub/CVE2020-1472 | 未查询到CVE信息| 
@@ -57,7 +57,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20200929T13:28:36Z | Development of code to exploit LSST and VISTA imaging | https://github.com/lsst-uk/lsst-ir-fusion | 0 | 0| 
+| 20200929T13:30:34Z | Development of code to exploit LSST and VISTA imaging | https://github.com/lsst-uk/lsst-ir-fusion | 0 | 0| 
+| 20200929T13:30:23Z | xcube is a Python package for generating and exploiting data cubes powered by xarray, dask, and zarr. | https://github.com/dcs4cop/xcube | 62 | 10| 
 | 20200929T13:25:43Z | Null | https://github.com/Maks1116/roblox-exploit-database | 0 | 0| 
 | 20200929T13:01:13Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 7291 | 1200| 
 | 20200929T12:48:27Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 5 | 2| 
@@ -66,7 +67,6 @@
 | 20200929T12:21:06Z | Feature-rich Post Exploitation Framework. | https://github.com/quantumcored/maalik | 15 | 2| 
 | 20200929T11:45:10Z | A tool that helps you build buffer overflow exploits. | https://github.com/javiervidrua/exploithelper | 1 | 0| 
 | 20200929T11:04:30Z | Null | https://github.com/aliaksoy322/exploitmaster | 0 | 0| 
-| 20200929T10:42:00Z | Repository of a Roblox exploit named Lurenzz. Hope you enjoy :) | https://github.com/tststrumble/lurenzz | 0 | 0| 
 
 
 # backdoor on Github 推荐
