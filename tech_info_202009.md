@@ -106,6 +106,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20200929T16:26:05Z | Basic Windows reverse shell written in C++ | https://github.com/hacefresko/CppBackdoor | 0 | 0| 
 | 20200929T11:55:07Z | A simple to use windows backdoor. | https://github.com/KaliLinux2306/sturdy-bdoor | 0 | 0| 
 | 20200929T06:17:24Z | Null | https://github.com/mr403forbidden/Shell-Backdoor | 1 | 0| 
 | 20200929T05:09:14Z | Null | https://github.com/simonlkch/backdoor | 0 | 0| 
@@ -115,7 +116,6 @@
 | 20200928T23:32:56Z | FUD cross-platform python2 backdoor | https://github.com/7h3w4lk3r/pyback | 9 | 4| 
 | 20200928T20:42:28Z | A deck-building roguelike cyberpunk game. | https://github.com/uspgamedev/backdoor | 17 | 2| 
 | 20200928T20:22:00Z | Remote access Backdoor with MSF-GEN | https://github.com/SisaNutur/MSF-GEN | 0 | 0| 
-| 20200928T17:09:10Z | A Discord reverse shell or backdoor  | https://github.com/NullByte75/DiscordReverseShell | 1 | 0| 
 
 
 # fuzz on Github 推荐

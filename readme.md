@@ -79,6 +79,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20200929T16:26:05Z | Basic Windows reverse shell written in C++ | https://github.com/hacefresko/CppBackdoor | 0 | 0| 
 | 20200929T11:55:07Z | A simple to use windows backdoor. | https://github.com/KaliLinux2306/sturdy-bdoor | 0 | 0| 
 | 20200929T06:17:24Z | Null | https://github.com/mr403forbidden/Shell-Backdoor | 1 | 0| 
 | 20200929T05:09:14Z | Null | https://github.com/simonlkch/backdoor | 0 | 0| 
