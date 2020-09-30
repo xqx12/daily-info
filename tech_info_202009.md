@@ -46,24 +46,24 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20200930T01:51:01Z | CVE-2020-6287 | PoC for CVE-2020-6287, CVE-2020-6286 (SAP RECON vulnerability) | https://github.com/chipik/SAP_RECON | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  20 HOURS 41 MINUTES 26 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200929T19:45:34Z | CVE-2020-1472 | PoC for Zerologon - all research credits go to Tom Tervoort of Secura | https://github.com/dirkjanm/CVE-2020-1472 | | 
-| 20200929T18:45:44Z | CVE-2020-1472 | POC for checking multiple hosts for Zerologon vulnerability | https://github.com/WiIs0n/Zerologon_CVE-2020-1472 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  20 HOURS 41 MINUTES 39 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200929T13:45:47Z | CVE-2020-15492 | This repository holds the advisory, exploits and vulnerable software of the CVE-2020-15492 | https://github.com/patrickhener/CVE-2020-15492 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  20 HOURS 41 MINUTES 30 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200929T13:25:56Z | CVE-2020-17382 | PoC exploits for CVE-2020-17382 | https://github.com/uf0o/CVE-2020-17382 | 未查询到CVE信息| 
+| 20200930T08:58:25Z | CVE-2020-17382 | PoC exploits for CVE-2020-17382 | https://github.com/uf0o/CVE-2020-17382 | 未查询到CVE信息| 
+| 20200930T08:27:55Z | CVE-2020-0674 | Null | https://github.com/Ken-Abruzzi/CVE-2020-0674 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 59 MINUTES 28 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200930T07:57:36Z | cve-2020-1472 | Null | https://github.com/Ken-Abruzzi/cve-2020-1472 | 未查询到CVE信息| 
+| 20200930T02:28:59Z | CVE-2020-1472 | PoC for Zerologon - all research credits go to Tom Tervoort of Secura | https://github.com/dirkjanm/CVE-2020-1472 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 59 MINUTES 14 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200930T01:51:01Z | CVE-2020-6287 | PoC for CVE-2020-6287, CVE-2020-6286 (SAP RECON vulnerability) | https://github.com/chipik/SAP_RECON | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 59 MINUTES 12 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200929T18:45:44Z | CVE-2020-1472 | POC for checking multiple hosts for Zerologon vulnerability | https://github.com/WiIs0n/Zerologon_CVE-2020-1472 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 59 MINUTES 27 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200929T13:45:47Z | CVE-2020-15492 | This repository holds the advisory, exploits and vulnerable software of the CVE-2020-15492 | https://github.com/patrickhener/CVE-2020-15492 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 59 MINUTES 17 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20200929T05:51:30Z | CVE-2020-14294 | This repository holds the advisory of the CVE-2020-14294 | https://github.com/patrickhener/CVE-2020-14294 | 未查询到CVE信息| 
 | 20200929T05:51:04Z | CVE-2020-14293 | This repository holds the advisory, exploits and vulnerable software of the CVE-2020-14293 | https://github.com/patrickhener/CVE-2020-14293 | 未查询到CVE信息| 
 | 20200929T02:38:31Z | 未知编号 | Snort rule for CVE 2020-1472 Detection | https://github.com/Sajuwithgithub/CVE2020-1472 | 未查询到CVE信息| 
-| 20200928T11:27:25Z | CVE-2020-1472 | Test tool for CVE-2020-1472 | https://github.com/SecuraBV/CVE-2020-1472 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 33 MINUTES 25 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200928T10:00:34Z | CVE-2020-1472 | CVE-2020-1472 | https://github.com/Whippet0/CVE-2020-1472 | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20200930T01:58:34Z | Create CFGs and compute complexity metrics for Python, C++, and Java code. | https://github.com/hmc-alpaqa/metrinome | 4 | 0| 
+| 20200930T09:37:44Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1516 | 460| 
+| 20200930T08:35:09Z | Create CFGs and compute complexity metrics for Python, C++, and Java code. | https://github.com/hmc-alpaqa/metrinome | 4 | 0| 
 | 20200929T20:07:54Z | One place for all of my workshops | https://github.com/kleenxcoder/kleenxcoder-workshops | 0 | 0| 
-| 20200929T07:36:35Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1515 | 460| 
 | 20200929T00:02:53Z | Urban Evidence Based Policy (SPPA667) | https://github.com/KLeeDE/PUS2020_KLee | 0 | 0| 
 | 20200927T20:35:24Z | The compiler inputs a PDDL benchmark of the Carpark planning problem and converts it to an equivalent C code which is used for solving the planning problem by program verification tools such as KLEE/TracerX. | https://github.com/daneshvar-amrollahi/Carpark-PDDL2C | 0 | 0| 
 | 20200927T11:26:20Z | ⬇️ File Upload/sharing application, used by thousands of webmasters since 2007.  | https://github.com/kleeja-official/kleeja | 101 | 32| 
@@ -91,46 +91,46 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20200930T01:36:34Z | exploit-database-papers | https://github.com/offensive-security/exploitdb-papers | 244 | 27| 
-| 20200930T00:53:55Z | Sifter is a OSINT, recon & vulnerability scanner. It incorporates a plethara of tools within different module sets that tries to cover every attack vector. Allowing you to quickly perform recon tasks and organize the results in one place. From OSINT to Recon, Exploitation, Post-Exploitation, OpSec, Threat Analysis, XSS, SQLinjection, Network Scanning, WebApp Analysis or DNS enumeration.. Sifter should be able to cover it all. | https://github.com/s1l3nt78/sifter | 250 | 79| 
-| 20200930T00:48:27Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 5 | 2| 
-| 20200930T00:40:39Z | VirusMike-Stable-Exploit-Menu-6.72-V1 | https://github.com/ImVirusMike/1 | 0 | 0| 
-| 20200930T00:33:16Z | VirusMike-Stable-Exploit-Menu-6.72-V1 | https://github.com/ImVirusMike/VirusMike-Stable-Exploit-Menu-6.72-V1 | 0 | 0| 
-| 20200930T00:03:54Z | TecnoHub was a script hub that I worked on for about 4-5 months, I discontinued it shortly after losing interest in Roblox Exploiting, published it here for learning purposes | https://github.com/Tecnobase/TecnoHub | 0 | 0| 
-| 20200929T23:31:28Z | Thi powershell script has got to run in remote windows host, even for pivoting | https://github.com/FabioDefilippo/winallenum | 0 | 0| 
-| 20200929T23:20:32Z | This bash script will help you to hack remote hosts  | https://github.com/FabioDefilippo/linuxallremote | 0 | 0| 
-| 20200929T23:02:12Z | Simulate searching through a twitter like database. Built using hash table and exploited all of its properties. Focused on time efficiency.  | https://github.com/gregorywalfish/TwitterAlgorithms | 0 | 0| 
-| 20200929T22:50:25Z | Custom version of the original Overthrow.  Bugs squashed and squashing, exploits punishable by death, new businesses plus much more, oh and high steriod use by the AI ;) Discord link  https://discord.gg/ZdMMq9x | https://github.com/GerhartPapaGee/Overthrow-Martial-Law | 0 | 1| 
+| 20200930T11:59:45Z | Null | https://github.com/quentin452/Cats-Exploitz-HUB | 0 | 1| 
+| 20200930T11:37:05Z | Sifter is a OSINT, recon & vulnerability scanner. It incorporates a plethara of tools within different module sets that tries to cover every attack vector. Allowing you to quickly perform recon tasks and organize the results in one place. From OSINT to Recon, Exploitation, Post-Exploitation, OpSec, Threat Analysis, XSS, SQLinjection, Network Scanning, WebApp Analysis or DNS enumeration.. Sifter should be able to cover it all. | https://github.com/s1l3nt78/sifter | 250 | 79| 
+| 20200930T11:35:12Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 7295 | 1202| 
+| 20200930T11:11:28Z | checks if required hotfix that fixes the zerologon exploit is installed | https://github.com/aaronlyy/zerologon-hotfix-check | 0 | 0| 
+| 20200930T10:48:51Z | This repository contains scripts and config files used to create the IoT-oriented network traces with the use of several botnet mechanism, exploits and the background noise.  | https://github.com/PioFro/iot-traces | 0 | 0| 
+| 20200930T10:25:27Z | The official Exploit Database repository | https://github.com/offensive-security/exploitdb | 5537 | 1587| 
+| 20200930T10:18:10Z | An app with really insecure crypto. To be used to see/test/exploit weak cryptographic implementations as well as to learn a little bit more about crypto, without the need to dive deep into the math behind it | https://github.com/DamnVulnerableCryptoApp/DamnVulnerableCryptoApp | 4 | 1| 
+| 20200930T10:07:44Z | xcube is a Python package for generating and exploiting data cubes powered by xarray, dask, and zarr. | https://github.com/dcs4cop/xcube | 62 | 10| 
+| 20200930T09:12:46Z | More Stable Offline Exploit version of PS4 6.72 Jailbreak. | https://github.com/DarkModderVC/PS4JB | 74 | 30| 
+| 20200930T09:09:23Z | Very vulnerable ARM/AARCH64 application (CTF style exploitation tutorial with 14 vulnerability techniques) | https://github.com/bkerler/exploit_me | 637 | 111| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20200930T10:06:17Z | AI based Backdoor Written for Windows using Telegram-bot, ZMQ, and Socket as Its Back-ends. | https://github.com/wildonion/katyusha | 1 | 0| 
+| 20200930T06:57:13Z | This tool will create backdoor | https://github.com/krishpranav/Backdoorcreator | 2 | 0| 
+| 20200930T05:01:00Z | Tool to find potential backdoor/security holes in your endpoint | https://github.com/subasgit/backdoorfinder | 1 | 0| 
 | 20200929T16:26:05Z | Basic Windows reverse shell written in C++ | https://github.com/hacefresko/CppBackdoor | 0 | 0| 
 | 20200929T11:55:07Z | A simple to use windows backdoor. | https://github.com/KaliLinux2306/sturdy-bdoor | 0 | 0| 
 | 20200929T06:17:24Z | Null | https://github.com/mr403forbidden/Shell-Backdoor | 1 | 0| 
 | 20200929T05:09:14Z | Null | https://github.com/simonlkch/backdoor | 0 | 0| 
 | 20200929T03:14:03Z | Reverse Backdoor and Listener | https://github.com/jonathanreno/Rev-Shell | 0 | 0| 
-| 20200929T01:06:52Z | Tool to find potential backdoor/security holes in your endpoint | https://github.com/subasgit/backdoorfinder | 1 | 0| 
 | 20200929T00:20:38Z | Simple Python Backdoor | https://github.com/zNairy/Sonaris | 3 | 0| 
 | 20200928T23:32:56Z | FUD cross-platform python2 backdoor | https://github.com/7h3w4lk3r/pyback | 9 | 4| 
-| 20200928T20:42:28Z | A deck-building roguelike cyberpunk game. | https://github.com/uspgamedev/backdoor | 17 | 2| 
-| 20200928T20:22:00Z | Remote access Backdoor with MSF-GEN | https://github.com/SisaNutur/MSF-GEN | 0 | 0| 
 
 
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20200930T02:12:22Z | Null | https://github.com/vrthra/bFuzzer | 0 | 0| 
-| 20200930T02:06:14Z | Null | https://github.com/haylee430/fuzzy_friend_finder | 1 | 0| 
-| 20200930T01:54:01Z | Null | https://github.com/olegsych/fuzzy | 0 | 0| 
-| 20200930T01:47:52Z | Unsupervised coverage-guided btrfs fuzzer | https://github.com/danobi/btrfs-fuzz | 0 | 0| 
-| 20200930T01:30:29Z | Null | https://github.com/almeidaw/fuzzynlp | 0 | 0| 
-| 20200930T00:32:54Z | Null | https://github.com/mrdonliu/fuzz | 0 | 0| 
-| 20200930T00:05:02Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2066 | 90| 
-| 20200930T00:02:12Z | Null | https://github.com/ersatzavian/yellow_fuzz | 0 | 0| 
-| 20200929T23:52:01Z | Tutorials, examples, discussions, research proposals, and other resources related to fuzzing | https://github.com/google/fuzzing | 1442 | 206| 
-| 20200929T23:46:40Z | Null | https://github.com/zdykstra/fuzzypkg | 1 | 0| 
+| 20200930T11:39:21Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2070 | 91| 
+| 20200930T11:34:32Z | Fuzzing | https://github.com/dnsdudrla97/Fuzz | 0 | 0| 
+| 20200930T11:28:09Z | the use of PID and fuzzy logic in air regulation in green houses and also into e-money payments | https://github.com/reksa26/PID_FuzzyLogic_IoT | 0 | 0| 
+| 20200930T10:49:35Z | Personal website of Laurence Hughes | https://github.com/fuzzylogicxx/fuzzylogic | 4 | 1| 
+| 20200930T10:38:03Z | Differential Fuzzer for Ethereum 2.0 | https://github.com/sigp/beacon-fuzz | 46 | 9| 
+| 20200930T10:35:03Z | OSS-Fuzz - continuous fuzzing of open source software. | https://github.com/google/oss-fuzz | 5579 | 1096| 
+| 20200930T10:20:42Z | Fuzzy Quantification of Common and Rare Species in Ecological Communities | https://github.com/Ligophorus/FuzzyQ | 0 | 0| 
+| 20200930T10:08:57Z | Assignment data | https://github.com/SwethaMamidipoodi/NeuralNetworks-FuzzyLogic | 0 | 0| 
+| 20200930T08:31:54Z | Null | https://github.com/Tcheetox/Excel-Fuzzy-Search | 0 | 0| 
+| 20200930T07:25:21Z | Simple fuzzer for OpenAPI 3 specification based APIs | https://github.com/vwt-digital/openapi3-fuzzer | 1 | 0| 
 
 
 
