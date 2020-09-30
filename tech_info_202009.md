@@ -47,12 +47,12 @@
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
 | 20200930T08:58:25Z | CVE-2020-17382 | PoC exploits for CVE-2020-17382 | https://github.com/uf0o/CVE-2020-17382 | 未查询到CVE信息| 
-| 20200930T08:27:55Z | CVE-2020-0674 | Null | https://github.com/Ken-Abruzzi/CVE-2020-0674 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 55 MINUTES 36 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200930T08:27:55Z | CVE-2020-0674 | Null | https://github.com/Ken-Abruzzi/CVE-2020-0674 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 52 MINUTES 36 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20200930T07:57:36Z | cve-2020-1472 | Null | https://github.com/Ken-Abruzzi/cve-2020-1472 | 未查询到CVE信息| 
-| 20200930T02:28:59Z | CVE-2020-1472 | PoC for Zerologon - all research credits go to Tom Tervoort of Secura | https://github.com/dirkjanm/CVE-2020-1472 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 55 MINUTES 22 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200930T01:51:01Z | CVE-2020-6287 | PoC for CVE-2020-6287, CVE-2020-6286 (SAP RECON vulnerability) | https://github.com/chipik/SAP_RECON | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 55 MINUTES 19 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200929T18:45:44Z | CVE-2020-1472 | POC for checking multiple hosts for Zerologon vulnerability | https://github.com/WiIs0n/Zerologon_CVE-2020-1472 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 55 MINUTES 34 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200929T13:45:47Z | CVE-2020-15492 | This repository holds the advisory, exploits and vulnerable software of the CVE-2020-15492 | https://github.com/patrickhener/CVE-2020-15492 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 55 MINUTES 24 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200930T02:28:59Z | CVE-2020-1472 | PoC for Zerologon - all research credits go to Tom Tervoort of Secura | https://github.com/dirkjanm/CVE-2020-1472 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 53 MINUTES 23 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200930T01:51:01Z | CVE-2020-6287 | PoC for CVE-2020-6287, CVE-2020-6286 (SAP RECON vulnerability) | https://github.com/chipik/SAP_RECON | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 53 MINUTES 20 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200929T18:45:44Z | CVE-2020-1472 | POC for checking multiple hosts for Zerologon vulnerability | https://github.com/WiIs0n/Zerologon_CVE-2020-1472 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 53 MINUTES 34 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200929T13:45:47Z | CVE-2020-15492 | This repository holds the advisory, exploits and vulnerable software of the CVE-2020-15492 | https://github.com/patrickhener/CVE-2020-15492 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 53 MINUTES 25 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20200929T05:51:30Z | CVE-2020-14294 | This repository holds the advisory of the CVE-2020-14294 | https://github.com/patrickhener/CVE-2020-14294 | 未查询到CVE信息| 
 | 20200929T05:51:04Z | CVE-2020-14293 | This repository holds the advisory, exploits and vulnerable software of the CVE-2020-14293 | https://github.com/patrickhener/CVE-2020-14293 | 未查询到CVE信息| 
 | 20200929T02:38:31Z | 未知编号 | Snort rule for CVE 2020-1472 Detection | https://github.com/Sajuwithgithub/CVE2020-1472 | 未查询到CVE信息| 
@@ -61,7 +61,7 @@
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20200930T09:37:44Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1516 | 460| 
+| 20200930T12:05:53Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1515 | 460| 
 | 20200930T08:35:09Z | Create CFGs and compute complexity metrics for Python, C++, and Java code. | https://github.com/hmc-alpaqa/metrinome | 4 | 0| 
 | 20200929T20:07:54Z | One place for all of my workshops | https://github.com/kleenxcoder/kleenxcoder-workshops | 0 | 0| 
 | 20200929T00:02:53Z | Urban Evidence Based Policy (SPPA667) | https://github.com/KLeeDE/PUS2020_KLee | 0 | 0| 
@@ -91,7 +91,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20200930T12:04:11Z | Null | https://github.com/quentin452/Cats-Exploitz-HUB | 0 | 1| 
+| 20200930T12:05:59Z | Null | https://github.com/quentin452/Cats-Exploitz-HUB | 0 | 1| 
 | 20200930T11:37:05Z | Sifter is a OSINT, recon & vulnerability scanner. It incorporates a plethara of tools within different module sets that tries to cover every attack vector. Allowing you to quickly perform recon tasks and organize the results in one place. From OSINT to Recon, Exploitation, Post-Exploitation, OpSec, Threat Analysis, XSS, SQLinjection, Network Scanning, WebApp Analysis or DNS enumeration.. Sifter should be able to cover it all. | https://github.com/s1l3nt78/sifter | 250 | 79| 
 | 20200930T11:35:12Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 7295 | 1202| 
 | 20200930T11:11:28Z | checks if required hotfix that fixes the zerologon exploit is installed | https://github.com/aaronlyy/zerologon-hotfix-check | 0 | 0| 
