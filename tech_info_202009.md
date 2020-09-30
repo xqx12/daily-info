@@ -46,16 +46,16 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20200930T13:01:49Z | CVE-2020-1472 | POC for checking multiple hosts for Zerologon vulnerability | https://github.com/WiIs0n/Zerologon_CVE-2020-1472 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  09 HOURS 57 MINUTES 28 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200930T13:01:49Z | CVE-2020-1472 | POC for checking multiple hosts for Zerologon vulnerability | https://github.com/WiIs0n/Zerologon_CVE-2020-1472 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  09 HOURS 52 MINUTES 37 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20200930T08:58:25Z | CVE-2020-17382 | PoC exploits for CVE-2020-17382 | https://github.com/uf0o/CVE-2020-17382 | 未查询到CVE信息| 
-| 20200930T08:27:55Z | CVE-2020-0674 | Null | https://github.com/Ken-Abruzzi/CVE-2020-0674 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  09 HOURS 57 MINUTES 30 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200930T08:27:55Z | CVE-2020-0674 | Null | https://github.com/Ken-Abruzzi/CVE-2020-0674 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  09 HOURS 52 MINUTES 38 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20200930T07:57:36Z | cve-2020-1472 | Null | https://github.com/Ken-Abruzzi/cve-2020-1472 | 未查询到CVE信息| 
-| 20200930T02:28:59Z | CVE-2020-1472 | PoC for Zerologon - all research credits go to Tom Tervoort of Secura | https://github.com/dirkjanm/CVE-2020-1472 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  09 HOURS 57 MINUTES 16 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200930T01:51:01Z | CVE-2020-6287 | PoC for CVE-2020-6287, CVE-2020-6286 (SAP RECON vulnerability) | https://github.com/chipik/SAP_RECON | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  09 HOURS 57 MINUTES 13 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200929T13:45:47Z | CVE-2020-15492 | This repository holds the advisory, exploits and vulnerable software of the CVE-2020-15492 | https://github.com/patrickhener/CVE-2020-15492 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  09 HOURS 57 MINUTES 18 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200930T02:28:59Z | CVE-2020-1472 | PoC for Zerologon - all research credits go to Tom Tervoort of Secura | https://github.com/dirkjanm/CVE-2020-1472 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  09 HOURS 52 MINUTES 24 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200930T01:51:01Z | CVE-2020-6287 | PoC for CVE-2020-6287, CVE-2020-6286 (SAP RECON vulnerability) | https://github.com/chipik/SAP_RECON | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  09 HOURS 52 MINUTES 21 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20200929T13:45:47Z | CVE-2020-15492 | This repository holds the advisory, exploits and vulnerable software of the CVE-2020-15492 | https://github.com/patrickhener/CVE-2020-15492 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  09 HOURS 52 MINUTES 26 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20200929T05:51:30Z | CVE-2020-14294 | This repository holds the advisory of the CVE-2020-14294 | https://github.com/patrickhener/CVE-2020-14294 | 未查询到CVE信息| 
 | 20200929T05:51:04Z | CVE-2020-14293 | This repository holds the advisory, exploits and vulnerable software of the CVE-2020-14293 | https://github.com/patrickhener/CVE-2020-14293 | 未查询到CVE信息| 
-| 20200929T02:38:31Z | 未知编号 | Snort rule for CVE 2020-1472 Detection | https://github.com/Sajuwithgithub/CVE2020-1472 | | 
+| 20200929T02:38:31Z | 未知编号 | Snort rule for CVE 2020-1472 Detection | https://github.com/Sajuwithgithub/CVE2020-1472 | 未查询到CVE信息| 
 
 
 # klee on Github 推荐
@@ -91,7 +91,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20200930T12:55:18Z | Null | https://github.com/fifikobayashi/EMN-Exploit-study | 5 | 1| 
+| 20200930T13:07:13Z | Null | https://github.com/fifikobayashi/EMN-Exploit-study | 6 | 1| 
 | 20200930T12:51:44Z | Development of code to exploit LSST and VISTA imaging | https://github.com/lsst-uk/lsst-ir-fusion | 0 | 0| 
 | 20200930T12:48:28Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 5 | 2| 
 | 20200930T12:47:18Z | access the telnet of the technicolor tc8715 router for a couple of seconds at startup | https://github.com/XoticStudios/tc8715exploit | 1 | 0| 
