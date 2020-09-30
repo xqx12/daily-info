@@ -19,13 +19,13 @@
 | 20200929 | VirusTotal APK恶意软件检测数据-第39周 | https://sec.today/pulses/18175e9e-58be-4701-860e-68424255e4b9/| 
 | 20200929 | 利用不安全的 JSONP 调用接管 Kolesa 站点的任意账户 | https://medium.com/bugbountywriteup/taking-down-the-sso-account-takeover-in-3-websites-of-kolesa-due-to-insecure-jsonp-call-facd79732e45| 
 | 20200929 | VirusTotal APK恶意软件检测数据-第39周 | https://blog.trustlook.com/virustotal-apk-malware-detection-data-week-39-20200921-20200927/| 
+| 20200929 | OWASP ModSecurity核心规则集（CRS）资源合集。 | https://github.com/coreruleset/coreruleset| 
+| 20200929 | Netzob：用于协议逆向工程，建模与模糊测试项目脚本工具。 | https://github.com/netzob/netzob| 
 | 20200928 | Windows 系统第三方 MSI Ambient Link 驱动漏洞的分析及利用 | https://www.matteomalvica.com/blog/2020/09/24/weaponizing-cve-2020-17382/| 
 | 20200928 | MEDUZA - 基于 Frida，针对越狱 iOS 系统编写的 SSL unpinning 工具 | https://github.com/kov4l3nko/MEDUZA| 
 | 20200928 | svchost.exe 进程及其支持的命令行参数分析 | https://medium.com/@nasbench/demystifying-the-svchost-exe-process-and-its-command-line-options-508e9114e747| 
 | 20200928 | 用于从 IDL 接口文件中提取 RPC 接口定义的 IDA 插件 | https://github.com/tenable/mIDA| 
 | 20200928 | macOS 平台 FinSpy 恶意软件样本的分析 | https://objective-see.com/blog/blog_0x4F.html| 
-| 20200928 | Android 10 及更新版本的 Fastboot OEM 命令枚举 | https://carlo.marag.no/posts/undocumented-fastboot-oem/| 
-| 20200928 | 1-click meterpreter exploit chain with BeEF and AV/AMSI bypass | https://medium.com/@bluedenkare/1-click-meterpreter-exploit-chain-with-beef-and-av-amsi-bypass-96b0eb61f1b6| 
 
 
 # 安全维基 推荐
@@ -37,30 +37,31 @@
 | 20200929 | Go二进制文件逆向分析从基础到进阶——Tips与实战案例 | https://www.anquanke.com/post/id/218674| 
 | 20200929 | Go二进制文件逆向分析从基础到进阶——数据类型 | https://www.anquanke.com/post/id/215820| 
 | 20200929 | Go二进制文件逆向分析从基础到进阶——MetaInfo、函数符号和源... | https://www.anquanke.com/post/id/215419| 
+| 20200929 | 基于甲方视角的漏洞发现 | https://mp.weixin.qq.com/s/eBPp4eyaGs827POFTesqOA| 
 | 20200927 | AoiAWD: 专为比赛设计，便携性好，低权限运行的EDR系统 | https://github.com/DasSecurity-Labs/AoiAWD| 
 | 20200927 | docker搭建wooyun 8.8w漏洞库 | https://www.freebuf.com/sectool/250960.html| 
 | 20200927 | CVE-2020-15148 Yii2反序列化RCE POP链分析 | https://xz.aliyun.com/t/8307| 
-| 20200927 | 记一次偶遇Adminer | https://xz.aliyun.com/t/8309| 
 
 
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20200929T19:45:34Z | CVE-2020-1472 | PoC for Zerologon - all research credits go to Tom Tervoort of Secura | https://github.com/dirkjanm/CVE-2020-1472 | 当攻击者使用Netlogon远程协议（MS-NRPC）（又称为“ Netlogon特权提升漏洞”）建立与域控制器的易受攻击的Netlogon安全通道连接时，将存在特权提升漏洞。| 
+| 20200929T18:45:44Z | CVE-2020-1472 | POC for checking multiple hosts for Zerologon vulnerability | https://github.com/WiIs0n/Zerologon_CVE-2020-1472 | 当攻击者使用Netlogon远程协议（MS-NRPC）（又称为“ Netlogon特权提升漏洞”）建立与域控制器的易受攻击的Netlogon安全通道连接时，将存在特权提升漏洞。| 
+| 20200929T17:20:14Z | CVE-2020-6287 | PoC for CVE-2020-6287, CVE-2020-6286 (SAP RECON vulnerability) | https://github.com/chipik/SAP_RECON | SAP NetWeaver AS JAVA（LM配置向导）版本-7.30、7.31、7.34、7.50不执行身份验证检查，这允许未经事先身份验证的攻击者执行针对SAP Java系统执行关键操作的配置任务，包括以下功能：创建管理用户，从而损害系统的机密性，完整性和可用性，从而导致缺少身份验证检查。| 
+| 20200929T13:45:47Z | CVE-2020-15492 | This repository holds the advisory, exploits and vulnerable software of the CVE-2020-15492 | https://github.com/patrickhener/CVE-2020-15492 | 在INNEO Startup TOOLS 2017 M021 12.0.66.3784至2018 M040 13.0.70.3804中发现了一个问题。 sut_srv.exe Web应用程序（在TCP端口85上提供）包括用户输入文件系统访问权限，而无需任何进一步的验证。这可能允许未经身份验证的攻击者通过目录遍历读取服务器上的文件，或者可能具有未指定的其他影响。| 
 | 20200929T13:25:56Z | CVE-2020-17382 | PoC exploits for CVE-2020-17382 | https://github.com/uf0o/CVE-2020-17382 | 未查询到CVE信息| 
-| 20200929T08:18:17Z | CVE-2020-1472 | PoC for Zerologon - all research credits go to Tom Tervoort of Secura | https://github.com/dirkjanm/CVE-2020-1472 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  09 HOURS 20 MINUTES 23 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20200929T05:51:30Z | CVE-2020-14294 | This repository holds the advisory of the CVE-2020-14294 | https://github.com/patrickhener/CVE-2020-14294 | 未查询到CVE信息| 
 | 20200929T05:51:04Z | CVE-2020-14293 | This repository holds the advisory, exploits and vulnerable software of the CVE-2020-14293 | https://github.com/patrickhener/CVE-2020-14293 | 未查询到CVE信息| 
 | 20200929T02:38:31Z | 未知编号 | Snort rule for CVE 2020-1472 Detection | https://github.com/Sajuwithgithub/CVE2020-1472 | 未查询到CVE信息| 
 | 20200928T11:27:25Z | CVE-2020-1472 | Test tool for CVE-2020-1472 | https://github.com/SecuraBV/CVE-2020-1472 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 33 MINUTES 25 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200928T10:00:34Z | CVE-2020-1472 | CVE-2020-1472 | https://github.com/Whippet0/CVE-2020-1472 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  09 HOURS 20 MINUTES 35 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200928T06:53:54Z | CVE-2020-1472 | Null | https://github.com/Fa1c0n35/CVE-2020-1472-02- | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  09 HOURS 20 MINUTES 34 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200928T05:37:37Z | CVE-2020-0796 | To crash Windows-10 easily | https://github.com/codewithpradhan/SMBGhost-CVE-2020-0796- | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  09 HOURS 20 MINUTES 33 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20200928T05:08:46Z | CVE-2020-3452 | Just basic scanner abusing CVE-2020-3452 to enumerate the standard files accessible in the Web Directory of the CISCO ASA applicances. | https://github.com/3ndG4me/CVE-2020-3452-Scanner | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
+| 20200928T10:00:34Z | CVE-2020-1472 | CVE-2020-1472 | https://github.com/Whippet0/CVE-2020-1472 | 当攻击者使用Netlogon远程协议（MS-NRPC）（又称为“ Netlogon特权提升漏洞”）建立与域控制器的易受攻击的Netlogon安全通道连接时，将存在特权提升漏洞。| 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20200929T20:07:54Z | One place for all of my workshops | https://github.com/kleenxcoder/kleenxcoder-workshops | 0 | 0| 
 | 20200929T07:36:35Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1515 | 460| 
 | 20200929T00:02:53Z | Urban Evidence Based Policy (SPPA667) | https://github.com/KLeeDE/PUS2020_KLee | 0 | 0| 
 | 20200927T20:35:24Z | The compiler inputs a PDDL benchmark of the Carpark planning problem and converts it to an equivalent C code which is used for solving the planning problem by program verification tools such as KLEE/TracerX. | https://github.com/daneshvar-amrollahi/Carpark-PDDL2C | 0 | 0| 
@@ -70,7 +71,6 @@
 | 20200927T08:34:11Z | Symbiotic is a tool for finding bugs in computer programs based on instrumentation, program slicing and KLEE | https://github.com/staticafi/symbiotic | 197 | 33| 
 | 20200926T09:55:50Z | Minecraft Mod. Allows breaking only one half of a double slab block. | https://github.com/blay09/KleeSlabs | 7 | 3| 
 | 20200925T00:44:15Z | A tool that automatically calls Klee to solve for injection | https://github.com/Zzzode/KleeTool | 1 | 0| 
-| 20200924T12:04:15Z | Null | https://github.com/thierry-tct/KLEE-SEMu | 1 | 0| 
 
 
 # s2e on Github 推荐
@@ -91,16 +91,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20200929T13:35:53Z | Repository of a Roblox exploit named Lurenzz. Hope you enjoy :) | https://github.com/tststrumble/lurenzz | 0 | 0| 
-| 20200929T13:35:25Z | Null | https://github.com/Maks1116/roblox-exploit-database | 0 | 0| 
-| 20200929T13:33:48Z | Development of code to exploit LSST and VISTA imaging | https://github.com/lsst-uk/lsst-ir-fusion | 0 | 0| 
-| 20200929T13:30:23Z | xcube is a Python package for generating and exploiting data cubes powered by xarray, dask, and zarr. | https://github.com/dcs4cop/xcube | 62 | 10| 
-| 20200929T13:01:13Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 7291 | 1200| 
-| 20200929T12:48:27Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 5 | 2| 
-| 20200929T12:44:59Z | Apollo is a post-exploitation tool for managing, enumerating and pivotting on compromised machines. | https://github.com/thecoderstudio/apollo | 5 | 0| 
-| 20200929T12:36:17Z | exploit-exam | https://github.com/vapvin/exploit-exam | 0 | 0| 
-| 20200929T12:21:06Z | Feature-rich Post Exploitation Framework. | https://github.com/quantumcored/maalik | 15 | 2| 
-| 20200929T11:45:10Z | A tool that helps you build buffer overflow exploits. | https://github.com/javiervidrua/exploithelper | 1 | 0| 
+| 20200929T23:31:28Z | Thi powershell script has got to run in remote windows host, even for pivoting | https://github.com/FabioDefilippo/winallenum | 0 | 0| 
+| 20200929T23:24:20Z | Sifter is a OSINT, recon & vulnerability scanner. It incorporates a plethara of tools within different module sets that tries to cover every attack vector. Allowing you to quickly perform recon tasks and organize the results in one place. From OSINT to Recon, Exploitation, Post-Exploitation, OpSec, Threat Analysis, XSS, SQLinjection, Network Scanning, WebApp Analysis or DNS enumeration.. Sifter should be able to cover it all. | https://github.com/s1l3nt78/sifter | 250 | 79| 
+| 20200929T23:20:32Z | This bash script will help you to hack remote hosts  | https://github.com/FabioDefilippo/linuxallremote | 0 | 0| 
+| 20200929T23:02:12Z | Simulate searching through a twitter like database. Built using hash table and exploited all of its properties. Focused on time efficiency.  | https://github.com/gregorywalfish/TwitterAlgorithms | 0 | 0| 
+| 20200929T22:50:25Z | Custom version of the original Overthrow.  Bugs squashed and squashing, exploits punishable by death, new businesses plus much more, oh and high steriod use by the AI ;) Discord link  https://discord.gg/ZdMMq9x | https://github.com/GerhartPapaGee/Overthrow-Martial-Law | 0 | 1| 
+| 20200929T22:34:31Z | Roblox Exploit Named %REKID% | https://github.com/ExoticN01/Rekid | 0 | 0| 
+| 20200929T22:25:22Z | code from the the art of exploitation book | https://github.com/af-orozcog/Exploitation | 0 | 0| 
+| 20200929T21:58:37Z | The unlikely Mass Deface! | https://github.com/TavernaDosHackers/Nagazaky | 3 | 0| 
+| 20200929T21:51:02Z | Null | https://github.com/DockerExploitationToolkit/DockerExploitationToolkit.github.io | 0 | 0| 
+| 20200929T20:41:55Z | AgroTrust is a blockchain enabled traceability solution with the aim of integrating of global food value chains. Small landholding farmers across the country are suffering due to fragile market linkages, weak bargaining power, exploitation by middlemen and high spillage & spoilage. On the other end, consumers are rarely aware about agricultural products they consume, their quality, safety, and sustainability. They are even more oblivious about how much of their paid price goes back to the farmer. Only when the farmer knows the complete story of his product from farm to fork and the consumer knows the complete story of his food from fork to farm, these problems could be addressed. Only when the both ends of the value chain – the farmer and the consumer – are aware about each other, will the players in the middle be incentivized to ensure better products and fair prices. | https://github.com/ganeshanantwar/AgroTrust-QRiosity | 0 | 0| 
 
 
 # backdoor on Github 推荐
@@ -121,16 +121,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20200929T13:35:21Z | Fuzzy matching for `company-mode%. | https://github.com/jcs-elpa/company-fuzzy | 37 | 2| 
-| 20200929T13:34:48Z | BITS Y3S1 DEL | https://github.com/Karthik-Sujit/Neural-Networks-and-Fuzzy-Logic | 0 | 0| 
-| 20200929T13:30:40Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2065 | 89| 
-| 20200929T13:17:14Z | generate contextually sensible fuzz tests for servant apps | https://github.com/mwotton/roboservant | 9 | 0| 
-| 20200929T13:11:34Z | Web Fuzz , LFI Log File | https://github.com/jstigerwalt/WEB-Fuzz | 0 | 0| 
-| 20200929T12:58:50Z | Software for fuzzing, used on web application pentestings. | https://github.com/NESCAU-UFLA/FuzzyingTool | 0 | 0| 
-| 20200929T12:52:33Z | The Book %Generating Software Tests% | https://github.com/uds-se/fuzzingbook | 425 | 86| 
-| 20200929T12:33:17Z | Null | https://github.com/lazygrey/fuzzing_with_cmaes | 0 | 1| 
-| 20200929T12:13:53Z | Null | https://github.com/frightempire/FuzzyExpert | 1 | 0| 
-| 20200929T11:35:48Z | Null | https://github.com/vrthra/bFuzzer | 0 | 0| 
+| 20200929T23:54:21Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2066 | 90| 
+| 20200929T23:52:01Z | Tutorials, examples, discussions, research proposals, and other resources related to fuzzing | https://github.com/google/fuzzing | 1442 | 206| 
+| 20200929T23:46:40Z | Null | https://github.com/zdykstra/fuzzypkg | 1 | 0| 
+| 20200929T23:34:58Z | Null | https://github.com/ersatzavian/yellow_fuzz | 0 | 0| 
+| 20200929T23:31:50Z | Unsupervised coverage-guided btrfs fuzzer | https://github.com/danobi/btrfs-fuzz | 0 | 0| 
+| 20200929T23:27:49Z | Scalable fuzzing infrastructure. | https://github.com/google/clusterfuzz | 4341 | 391| 
+| 20200929T22:04:45Z | Null | https://github.com/maxwellbade/fuzzy_matching | 0 | 0| 
+| 20200929T21:17:38Z | Null | https://github.com/vaanyap/fuzzy-octo-robot | 0 | 0| 
+| 20200929T21:02:25Z | OSS-Fuzz - continuous fuzzing of open source software. | https://github.com/google/oss-fuzz | 5579 | 1095| 
+| 20200929T20:36:41Z | Null | https://github.com/castellanos94/FuzzyLogicPy | 0 | 0| 
 
 
 
