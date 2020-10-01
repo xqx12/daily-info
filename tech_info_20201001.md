@@ -16,7 +16,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20201001T10:41:54Z | CVE-2020-1472 | POC for checking multiple hosts for Zerologon vulnerability | https://github.com/WiIs0n/Zerologon_CVE-2020-1472 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 23 MINUTES 36 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201001T10:41:54Z | CVE-2020-1472 | POC for checking multiple hosts for Zerologon vulnerability | https://github.com/WiIs0n/Zerologon_CVE-2020-1472 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 21 MINUTES 39 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 
 
 # klee on Github 推荐
@@ -57,6 +57,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20201001T12:38:21Z | Null | https://github.com/senac-ia/logica-fuzzy | 0 | 0| 
 | 20201001T12:32:29Z | Differential Fuzzer for Ethereum 2.0 | https://github.com/sigp/beacon-fuzz | 46 | 9| 
 | 20201001T12:22:26Z | Null | https://github.com/vrthra/bFuzzer | 0 | 0| 
 | 20201001T12:05:40Z | Fuzzy matching for `company-mode%. | https://github.com/jcs-elpa/company-fuzzy | 38 | 2| 
@@ -66,7 +67,6 @@
 | 20201001T11:40:35Z | haze binary fuzzer | https://github.com/richinseattle/haze | 17 | 3| 
 | 20201001T11:25:06Z | A collection of fuzzers in a harness for testing the SpiderMonkey JavaScript engine. | https://github.com/MozillaSecurity/funfuzz | 546 | 124| 
 | 20201001T11:03:16Z | Null | https://github.com/andrea286/gingado-fuzzy | 0 | 0| 
-| 20201001T10:51:34Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 3153 | 725| 
 
 
 
