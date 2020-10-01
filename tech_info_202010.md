@@ -36,6 +36,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20201001T13:09:33Z | Android Kernel Exploitation | https://github.com/cloudfuzz/android-kernel-exploitation | 232 | 50| 
 | 20201001T13:07:40Z | Commands, snippets, exploits, tools, lists, collections and techniques I used on my journey to becoming an OSCP.  | https://github.com/CountablyInfinite/oscp_cheatsheet | 7 | 1| 
 | 20201001T13:05:03Z | Spam script POC for API rate limiting exploit | https://github.com/Cr1nc/EmailDos | 0 | 0| 
 | 20201001T12:57:14Z | Null | https://github.com/ShamimShahraeini/Deep-CNNs-for-image-classification-by-exploiting-transfer-learning-and-feature-concatenation | 0 | 0| 
@@ -45,7 +46,6 @@
 | 20201001T11:27:41Z | A Simple android remote administration tool using sockets. It uses java on the client side and python on the server side | https://github.com/karma9874/AndroRAT | 56 | 27| 
 | 20201001T11:17:14Z | How To Discover & Exploit Basic File Upload Vulnerabilities to Hack Websites | https://github.com/rahulrbk/FileUpVuln | 0 | 0| 
 | 20201001T10:51:32Z | writeup on some exploits that can be performed on metasploitable 2. | https://github.com/nithinchowdary007/Metasploitable2 | 0 | 0| 
-| 20201001T10:04:07Z | Null | https://github.com/civil88/exploit | 0 | 1| 
 
 
 # backdoor on Github 推荐
