@@ -57,6 +57,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20201001T12:01:50Z | Fuzzy matching for `company-mode%. | https://github.com/jcs-elpa/company-fuzzy | 38 | 2| 
 | 20201001T11:58:19Z | A curated list of different AFL forks and AFL inspired fuzzers with detailed equivalent academic papers and AFL-fuzzing tutorials | https://github.com/Microsvuln/Awesome-AFL | 318 | 37| 
 | 20201001T11:55:47Z | Kingtolic  | https://github.com/powerprove/JACKPOT_FUZZER | 0 | 0| 
 | 20201001T11:55:19Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2083 | 93| 
@@ -66,7 +67,6 @@
 | 20201001T10:51:34Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 3153 | 725| 
 | 20201001T10:45:30Z | The fuzzer afl++ is afl with community patches, AFLfast power schedules, qemu 3.1 upgrade + laf-intel support, MOpt mutators, InsTrim instrumentation, unicorn_mode, Redqueen and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 897 | 224| 
 | 20201001T10:39:48Z | Security oriented software fuzzer. Supports evolutionary, feedback-driven fuzzing based on code coverage (SW and HW based) | https://github.com/google/honggfuzz | 2016 | 414| 
-| 20201001T10:17:33Z | A JavaScript Engine Fuzzer | https://github.com/googleprojectzero/fuzzilli | 1041 | 170| 
 
 
 
