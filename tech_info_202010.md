@@ -16,7 +16,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20201001T10:41:54Z | CVE-2020-1472 | POC for checking multiple hosts for Zerologon vulnerability | https://github.com/WiIs0n/Zerologon_CVE-2020-1472 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  09 HOURS 50 MINUTES 38 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201001T10:41:54Z | CVE-2020-1472 | POC for checking multiple hosts for Zerologon vulnerability | https://github.com/WiIs0n/Zerologon_CVE-2020-1472 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  09 HOURS 46 MINUTES 28 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 
 
 # klee on Github 推荐
@@ -59,16 +59,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20201001T13:14:16Z | Null | https://github.com/vrthra/bFuzzer | 0 | 0| 
+| 20201001T13:13:34Z | Null | https://github.com/senac-ia/logica-fuzzy | 0 | 0| 
+| 20201001T13:10:53Z | Null | https://github.com/nhsd-exeter/dos-service-fuzzy-search-api | 0 | 0| 
+| 20201001T13:10:11Z | Fast web fuzzer written in Go | https://github.com/ffuf/ffuf | 3061 | 349| 
 | 20201001T13:05:14Z | Differential Fuzzer for Ethereum 2.0 | https://github.com/sigp/beacon-fuzz | 46 | 9| 
 | 20201001T13:03:44Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 3153 | 725| 
 | 20201001T13:02:00Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 27032 | 13279| 
 | 20201001T13:01:30Z | A collection of fuzzers in a harness for testing the SpiderMonkey JavaScript engine. | https://github.com/MozillaSecurity/funfuzz | 546 | 124| 
 | 20201001T13:00:26Z | Null | https://github.com/mosk120/fuzzy-octo-pancake | 0 | 0| 
-| 20201001T12:56:09Z | Null | https://github.com/senac-ia/logica-fuzzy | 0 | 0| 
 | 20201001T12:52:44Z | Simple fuzzer for OpenAPI 3 specification based APIs | https://github.com/vwt-digital/openapi3-fuzzer | 1 | 0| 
-| 20201001T12:44:33Z | Fast web fuzzer written in Go | https://github.com/ffuf/ffuf | 3060 | 349| 
-| 20201001T12:41:40Z | Null | https://github.com/vrthra/bFuzzer | 0 | 0| 
-| 20201001T12:05:40Z | Fuzzy matching for `company-mode%. | https://github.com/jcs-elpa/company-fuzzy | 38 | 2| 
 
 
 
