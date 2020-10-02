@@ -16,11 +16,11 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20201002T10:38:03Z | CVE-2020-14293 | This repository holds the advisory, exploits and vulnerable software of the CVE-2020-14293 | https://github.com/patrickhener/CVE-2020-14293 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 22 MINUTES 38 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20201002T10:37:49Z | CVE-2020-14294 | This repository holds the advisory of the CVE-2020-14294 | https://github.com/patrickhener/CVE-2020-14294 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 22 MINUTES 37 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201002T10:38:03Z | CVE-2020-14293 | This repository holds the advisory, exploits and vulnerable software of the CVE-2020-14293 | https://github.com/patrickhener/CVE-2020-14293 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 21 MINUTES 38 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201002T10:37:49Z | CVE-2020-14294 | This repository holds the advisory of the CVE-2020-14294 | https://github.com/patrickhener/CVE-2020-14294 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 21 MINUTES 37 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20201002T09:13:48Z | CVE-2020-26527 | Null | https://github.com/lukaszstu/SmartAsset-CORS-CVE-2020-26527 | 未查询到CVE信息| 
 | 20201002T08:04:17Z | 未知编号 | 2020l4web-typography-css-library-DanCvejn created by GitHub Classroom | https://github.com/pslib-cz/2020l4web-typography-css-library-DanCvejn | 未查询到CVE信息| 
-| 20201002T07:20:01Z | CVE-2020-26524 | CodeLathe FileCloud before 20.2.0.11915 allows username enumeration | https://github.com/lukaszstu/filecloud-UE-CVE-2020-26524 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 22 MINUTES 47 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201002T07:20:01Z | CVE-2020-26524 | CodeLathe FileCloud before 20.2.0.11915 allows username enumeration | https://github.com/lukaszstu/filecloud-UE-CVE-2020-26524 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 21 MINUTES 47 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20201002T07:19:21Z | CVE-2020-26525 | Damstra Smart Asset 2020.7 has SQL injection via the API/api/Asset originator parameter. | https://github.com/lukaszstu/SmartAsset-SQLinj-CVE-2020-26525 | 未查询到CVE信息| 
 | 20201002T07:18:50Z | CVE-2020-26526 | It is possible to enumerate valid usernames on the login page. | https://github.com/lukaszstu/SmartAsset-UE-CVE-2020-26526 | 未查询到CVE信息| 
 
@@ -54,7 +54,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20201002T12:31:45Z | Null | https://github.com/Lin1337/docker-msf-backdoor | 0 | 0| 
+| 20201002T12:38:50Z | Null | https://github.com/Lin1337/docker-msf-backdoor | 0 | 0| 
 | 20201002T10:00:21Z | scan for backdoor shell in your website directory | https://github.com/abemin/cliShellScanner | 0 | 0| 
 | 20201002T06:15:25Z | Pupy is an opensource, cross-platform (Windows, Linux, OSX, Android) remote administration and post-exploitation tool mainly written in python | https://github.com/n1nj4sec/pupy | 5818 | 1518| 
 | 20201002T01:20:07Z | Tool to find potential backdoor/security holes in your endpoint | https://github.com/subasgit/backdoorfinder | 1 | 0| 
