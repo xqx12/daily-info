@@ -17,7 +17,7 @@
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
 | 20201001T13:27:40Z | CVE-2020-17382 | PoC exploits for CVE-2020-17382 | https://github.com/uf0o/CVE-2020-17382 | 未查询到CVE信息| 
-| 20201001T10:41:54Z | CVE-2020-1472 | POC for checking multiple hosts for Zerologon vulnerability | https://github.com/WiIs0n/Zerologon_CVE-2020-1472 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 44 MINUTES 38 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201001T10:41:54Z | CVE-2020-1472 | POC for checking multiple hosts for Zerologon vulnerability | https://github.com/WiIs0n/Zerologon_CVE-2020-1472 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 42 MINUTES 41 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 
 
 # klee on Github 推荐
@@ -37,7 +37,6 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20201001T22:55:09Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 7302 | 1203| 
 | 20201001T22:04:43Z | A faithful recreation of the Windows 96 exploitation system. | https://github.com/beurkinger/windows-96 | 0 | 0| 
 | 20201001T21:57:05Z | CTF framework and exploit development library | https://github.com/Gallopsled/pwntools | 7064 | 1286| 
 | 20201001T21:37:05Z | Null | https://github.com/UnknownAD/PgExploit | 0 | 0| 
@@ -47,6 +46,7 @@
 | 20201001T18:48:29Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 5 | 2| 
 | 20201001T18:25:45Z | Null | https://github.com/slimsevernake/The-Browser-Exploitation-Framework-Project- | 0 | 0| 
 | 20201001T18:17:30Z | Null | https://github.com/0xpink/resources-and-exploits | 0 | 4| 
+| 20201001T17:42:35Z | Built a X3D based Virtual Museum exploiting HTML5, CSS3, X3D (X3DOM), JavaScript , jQuery, Bootstrap 4, AJAX for asynchronous update of HTML contents, JSON for data transfer from the backend to the frontend, PHP to access data from a SQLite database, and all configured in a MVC design pattern. And, of course, a selection of 3D Models made by myself. | https://github.com/dr271/Web-3D-Virtual-Museum | 1 | 0| 
 
 
 # backdoor on Github 推荐
