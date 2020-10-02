@@ -16,15 +16,15 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20201002T10:38:03Z | CVE-2020-14293 | This repository holds the advisory, exploits and vulnerable software of the CVE-2020-14293 | https://github.com/patrickhener/CVE-2020-14293 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 54 MINUTES 39 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20201002T10:37:49Z | CVE-2020-14294 | This repository holds the advisory of the CVE-2020-14294 | https://github.com/patrickhener/CVE-2020-14294 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 54 MINUTES 38 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201002T10:38:03Z | CVE-2020-14293 | This repository holds the advisory, exploits and vulnerable software of the CVE-2020-14293 | https://github.com/patrickhener/CVE-2020-14293 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 53 MINUTES 34 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201002T10:37:49Z | CVE-2020-14294 | This repository holds the advisory of the CVE-2020-14294 | https://github.com/patrickhener/CVE-2020-14294 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 53 MINUTES 33 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20201002T09:13:48Z | CVE-2020-26527 | Null | https://github.com/lukaszstu/SmartAsset-CORS-CVE-2020-26527 | 未查询到CVE信息| 
 | 20201002T08:04:17Z | 未知编号 | 2020l4web-typography-css-library-DanCvejn created by GitHub Classroom | https://github.com/pslib-cz/2020l4web-typography-css-library-DanCvejn | 未查询到CVE信息| 
-| 20201002T07:20:01Z | CVE-2020-26524 | CodeLathe FileCloud before 20.2.0.11915 allows username enumeration | https://github.com/lukaszstu/filecloud-UE-CVE-2020-26524 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 54 MINUTES 46 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201002T07:20:01Z | CVE-2020-26524 | CodeLathe FileCloud before 20.2.0.11915 allows username enumeration | https://github.com/lukaszstu/filecloud-UE-CVE-2020-26524 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 52 MINUTES 46 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20201002T07:19:21Z | CVE-2020-26525 | Damstra Smart Asset 2020.7 has SQL injection via the API/api/Asset originator parameter. | https://github.com/lukaszstu/SmartAsset-SQLinj-CVE-2020-26525 | 未查询到CVE信息| 
 | 20201002T07:18:50Z | CVE-2020-26526 | It is possible to enumerate valid usernames on the login page. | https://github.com/lukaszstu/SmartAsset-UE-CVE-2020-26526 | 未查询到CVE信息| 
-| 20201001T13:27:40Z | CVE-2020-17382 | PoC exploits for CVE-2020-17382 | https://github.com/uf0o/CVE-2020-17382 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 54 MINUTES 35 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20201001T10:41:54Z | CVE-2020-1472 | POC for checking multiple hosts for Zerologon vulnerability | https://github.com/WiIs0n/Zerologon_CVE-2020-1472 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 54 MINUTES 44 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201001T13:27:40Z | CVE-2020-17382 | PoC exploits for CVE-2020-17382 | https://github.com/uf0o/CVE-2020-17382 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 53 MINUTES 31 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201001T10:41:54Z | CVE-2020-1472 | POC for checking multiple hosts for Zerologon vulnerability | https://github.com/WiIs0n/Zerologon_CVE-2020-1472 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 53 MINUTES 40 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 
 
 # klee on Github 推荐
@@ -75,13 +75,13 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20201002T12:06:39Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 27051 | 13297| 
 | 20201002T12:03:59Z | Tools and workflows for fuzz testing | https://github.com/LeastAuthority/fleece | 0 | 0| 
 | 20201002T12:02:02Z | A Fuzzer for OpenRedirect issues  | https://github.com/devanshbatham/OpenRedireX | 154 | 46| 
 | 20201002T11:53:03Z | Fuzzy string matching like a boss. It uses Levenshtein Distance to calculate the differences between sequences. python-Levenshtein provides a 4-10x speedup in String Matching. the Levenshtein distance is a string metric for measuring the difference between two sequences. Informally, the Levenshtein distance between two words is the minimum number of single-character edits (insertions, deletions or substitutions) required to change one word into the other. It is named after the Soviet mathematician Vladimir Levenshtein, who considered this distance in 1965 | https://github.com/IshanSingh611/Fuzzy-String-Matching-Using-FuzzyWuzzy-Library | 0 | 0| 
 | 20201002T11:33:05Z | Differential Fuzzer for Ethereum 2.0 | https://github.com/sigp/beacon-fuzz | 47 | 9| 
 | 20201002T10:46:42Z | Null | https://github.com/vrthra/bFuzzer | 0 | 0| 
 | 20201002T10:42:49Z | A fuzzer for a patched version of bintext.exe | https://github.com/0rphon/bintext_fuzzer | 0 | 0| 
-| 20201002T10:41:17Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 27050 | 13297| 
 | 20201002T10:10:58Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 3153 | 726| 
 | 20201002T09:17:15Z | MIPS32 emulation fuzzing | https://github.com/klecko/mips-fuzz | 1 | 0| 
 | 20201002T08:28:50Z | haze binary fuzzer | https://github.com/richinseattle/haze | 20 | 5| 
