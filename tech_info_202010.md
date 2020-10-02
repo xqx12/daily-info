@@ -17,7 +17,7 @@
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
 | 20201001T13:27:40Z | CVE-2020-17382 | PoC exploits for CVE-2020-17382 | https://github.com/uf0o/CVE-2020-17382 | 未查询到CVE信息| 
-| 20201001T10:41:54Z | CVE-2020-1472 | POC for checking multiple hosts for Zerologon vulnerability | https://github.com/WiIs0n/Zerologon_CVE-2020-1472 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 04 MINUTES 38 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201001T10:41:54Z | CVE-2020-1472 | POC for checking multiple hosts for Zerologon vulnerability | https://github.com/WiIs0n/Zerologon_CVE-2020-1472 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 01 MINUTES 39 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 
 
 # klee on Github 推荐
@@ -37,7 +37,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20201002T00:54:04Z | Library developed while solving the challenges at cryptopals.com | https://github.com/hallgrimur1471/cryptography_exploits | 0 | 0| 
+| 20201002T00:56:00Z | Library developed while solving the challenges at cryptopals.com | https://github.com/hallgrimur1471/cryptography_exploits | 0 | 0| 
 | 20201002T00:48:28Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 5 | 2| 
 | 20201002T00:35:35Z | Null | https://github.com/civil88/exploit | 0 | 1| 
 | 20201002T00:17:51Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 7301 | 1203| 
