@@ -17,7 +17,7 @@
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
 | 20201001T13:27:40Z | CVE-2020-17382 | PoC exploits for CVE-2020-17382 | https://github.com/uf0o/CVE-2020-17382 | 未查询到CVE信息| 
-| 20201001T10:41:54Z | CVE-2020-1472 | POC for checking multiple hosts for Zerologon vulnerability | https://github.com/WiIs0n/Zerologon_CVE-2020-1472 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 23 MINUTES 38 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201001T10:41:54Z | CVE-2020-1472 | POC for checking multiple hosts for Zerologon vulnerability | https://github.com/WiIs0n/Zerologon_CVE-2020-1472 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 21 MINUTES 44 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 
 
 # klee on Github 推荐
@@ -69,7 +69,6 @@
 | --- | --- | --- | --- | ---| 
 | 20201001T23:41:41Z | Null | https://github.com/redrosetv/fuzzy-dollop | 0 | 0| 
 | 20201001T23:29:49Z | Null | https://github.com/Quicksilver972/fuzzy-meme-testing | 0 | 0| 
-| 20201001T23:28:23Z | Scalable fuzzing infrastructure. | https://github.com/google/clusterfuzz | 4341 | 391| 
 | 20201001T23:21:39Z | Metode Fuzzy Mamdani merupakan salah satu bagian dari Fuzzy Inference System yang berguna untuk penarikan kesimpulan atau suatu keputusan terbaik dalam permasalahan yang tidak pasti (Bova, 2010). | https://github.com/FadlyKnight/fuzzy-penentuanBeasiswa | 0 | 0| 
 | 20201001T22:18:23Z | Unsupervised coverage-guided btrfs fuzzer | https://github.com/danobi/btrfs-fuzz | 0 | 0| 
 | 20201001T21:28:00Z | A short quiz about movies | https://github.com/charwood217/Fuzz-Bead | 0 | 0| 
@@ -77,6 +76,7 @@
 | 20201001T19:58:37Z | A cross-platform browser fuzzing framework | https://github.com/MozillaSecurity/grizzly | 211 | 27| 
 | 20201001T19:58:05Z | Null | https://github.com/pkudlacik/NeuroFuzzy_Lips | 0 | 0| 
 | 20201001T19:47:05Z | Manage & generate prefs.js files | https://github.com/MozillaSecurity/prefpicker | 1 | 0| 
+| 20201001T19:43:30Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 3153 | 726| 
 
 
 
