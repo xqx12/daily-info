@@ -16,8 +16,8 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20201002T10:38:03Z | CVE-2020-14293 | This repository holds the advisory, exploits and vulnerable software of the CVE-2020-14293 | https://github.com/patrickhener/CVE-2020-14293 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 39 MINUTES 33 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20201002T10:37:49Z | CVE-2020-14294 | This repository holds the advisory of the CVE-2020-14294 | https://github.com/patrickhener/CVE-2020-14294 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 39 MINUTES 33 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201002T10:38:03Z | CVE-2020-14293 | This repository holds the advisory, exploits and vulnerable software of the CVE-2020-14293 | https://github.com/patrickhener/CVE-2020-14293 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 38 MINUTES 36 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201002T10:37:49Z | CVE-2020-14294 | This repository holds the advisory of the CVE-2020-14294 | https://github.com/patrickhener/CVE-2020-14294 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 38 MINUTES 36 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20201002T09:13:48Z | CVE-2020-26527 | Null | https://github.com/lukaszstu/SmartAsset-CORS-CVE-2020-26527 | 未查询到CVE信息| 
 | 20201002T08:04:17Z | 未知编号 | 2020l4web-typography-css-library-DanCvejn created by GitHub Classroom | https://github.com/pslib-cz/2020l4web-typography-css-library-DanCvejn | 未查询到CVE信息| 
 | 20201002T07:20:01Z | CVE-2020-26524 | CodeLathe FileCloud before 20.2.0.11915 allows username enumeration | https://github.com/lukaszstu/filecloud-UE-CVE-2020-26524 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 38 MINUTES 47 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
@@ -39,6 +39,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20201002T12:21:41Z | Null | https://github.com/AravGarg/VM-exploitation | 0 | 0| 
 | 20201002T11:35:11Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 7301 | 1203| 
 | 20201002T11:31:39Z | This is just my roblox antiexploits in the past months. I don%t know if some of the scripts is patched, but you can test it out. But soon im going to make more roblox antiexploit scripts, its really easy to use/make if your expert in lua and if you know what is antiexploit and how it works. | https://github.com/NightScepterOfficial/RobloxAntiExploits1 | 0 | 0| 
 | 20201002T11:18:07Z | Sifter is a OSINT, recon & vulnerability scanner. It incorporates a plethara of tools within different module sets that tries to cover every attack vector. Allowing you to quickly perform recon tasks and organize the results in one place. From OSINT to Recon, Exploitation, Post-Exploitation, OpSec, Threat Analysis, XSS, SQLinjection, Network Scanning, WebApp Analysis or DNS enumeration.. Sifter should be able to cover it all. | https://github.com/s1l3nt78/sifter | 253 | 80| 
@@ -48,13 +49,12 @@
 | 20201002T09:43:53Z | Vue.js data exploitations | https://github.com/Locky-dev/Gojibo-Test | 0 | 0| 
 | 20201002T09:25:45Z | Exploits nested.parallel and nested.optimize to tune neuronal cell models | https://github.com/neurosutras/optimize_cells | 1 | 1| 
 | 20201002T09:22:10Z | Just a temporary website to post my ctf writeups and journey into binary exploitation/malware analysis/exploit development | https://github.com/blackbeard666/blackbeard666.github.io | 0 | 0| 
-| 20201002T09:01:23Z | Additional resources and references for linux-exploit-suggester.sh | https://github.com/mzet-/les-res | 10 | 2| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20201002T11:41:54Z | Null | https://github.com/Lin1337/docker-msf-backdoor | 0 | 0| 
+| 20201002T12:21:39Z | Null | https://github.com/Lin1337/docker-msf-backdoor | 0 | 0| 
 | 20201002T10:00:21Z | scan for backdoor shell in your website directory | https://github.com/abemin/cliShellScanner | 0 | 0| 
 | 20201002T06:15:25Z | Pupy is an opensource, cross-platform (Windows, Linux, OSX, Android) remote administration and post-exploitation tool mainly written in python | https://github.com/n1nj4sec/pupy | 5818 | 1518| 
 | 20201002T01:20:07Z | Tool to find potential backdoor/security holes in your endpoint | https://github.com/subasgit/backdoorfinder | 1 | 0| 
