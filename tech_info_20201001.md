@@ -16,14 +16,15 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20201001T10:41:54Z | CVE-2020-1472 | POC for checking multiple hosts for Zerologon vulnerability | https://github.com/WiIs0n/Zerologon_CVE-2020-1472 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  09 HOURS 42 MINUTES 41 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201001T13:27:40Z | CVE-2020-17382 | PoC exploits for CVE-2020-17382 | https://github.com/uf0o/CVE-2020-17382 | 未查询到CVE信息| 
+| 20201001T10:41:54Z | CVE-2020-1472 | POC for checking multiple hosts for Zerologon vulnerability | https://github.com/WiIs0n/Zerologon_CVE-2020-1472 | 当攻击者使用Netlogon远程协议（MS-NRPC）（又称为“ Netlogon特权提升漏洞”）建立与域控制器的易受攻击的Netlogon安全通道连接时，将存在特权提升漏洞。| 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20201001T18:32:27Z | Website for the KLEE project: https://klee.github.io/ | https://github.com/klee/klee.github.io | 13 | 42| 
 | 20201001T12:21:34Z | RVT is a collection of tools/libraries to support both static and dynamic verification of Rust programs. | https://github.com/project-oak/rust-verification-tools | 84 | 4| 
-| 20201001T11:41:37Z | Website for the KLEE project: https://klee.github.io/ | https://github.com/klee/klee.github.io | 13 | 42| 
 | 20201001T10:18:14Z | Create CFGs and compute complexity metrics for Python, C++, and Java code. | https://github.com/hmc-alpaqa/metrinome | 4 | 0| 
 | 20201001T09:51:59Z | Null | https://github.com/VaibhaviMarihal14/kleemcare | 0 | 0| 
 
@@ -36,39 +37,46 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20201001T13:17:47Z | Null | https://github.com/ShamimShahraeini/Deep-CNNs-for-image-classification-by-exploiting-transfer-learning-and-feature-concatenation | 0 | 0| 
-| 20201001T13:09:33Z | Android Kernel Exploitation | https://github.com/cloudfuzz/android-kernel-exploitation | 232 | 50| 
-| 20201001T13:07:40Z | Commands, snippets, exploits, tools, lists, collections and techniques I used on my journey to becoming an OSCP.  | https://github.com/CountablyInfinite/oscp_cheatsheet | 7 | 1| 
-| 20201001T13:05:03Z | Spam script POC for API rate limiting exploit | https://github.com/Cr1nc/EmailDos | 0 | 0| 
-| 20201001T12:47:32Z | The Eclipse Foundation has been a partner in many publicly funded research projects since 2013. We help organizations to successfully create, publish, and sustain an open source software platform, making the results of the research projects available for commercial or public exploitation. | https://github.com/EclipseFdn/eclipse.org-research | 0 | 9| 
-| 20201001T12:45:34Z | Null | https://github.com/0xpink/resources-and-exploits | 0 | 3| 
-| 20201001T12:35:13Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 7300 | 1201| 
-| 20201001T11:27:41Z | A Simple android remote administration tool using sockets. It uses java on the client side and python on the server side | https://github.com/karma9874/AndroRAT | 56 | 27| 
-| 20201001T11:17:14Z | How To Discover & Exploit Basic File Upload Vulnerabilities to Hack Websites | https://github.com/rahulrbk/FileUpVuln | 0 | 0| 
-| 20201001T10:51:32Z | writeup on some exploits that can be performed on metasploitable 2. | https://github.com/nithinchowdary007/Metasploitable2 | 0 | 0| 
+| 20201001T22:55:09Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 7302 | 1203| 
+| 20201001T22:04:43Z | A faithful recreation of the Windows 96 exploitation system. | https://github.com/beurkinger/windows-96 | 0 | 0| 
+| 20201001T21:57:05Z | CTF framework and exploit development library | https://github.com/Gallopsled/pwntools | 7064 | 1286| 
+| 20201001T21:37:05Z | Null | https://github.com/UnknownAD/PgExploit | 0 | 0| 
+| 20201001T20:00:13Z | post_exploitation | https://github.com/dar3k93/post_exploitation | 1 | 0| 
+| 20201001T19:23:52Z | gekke exploit jwz | https://github.com/HIHIQY1/epic_noordhoff_online_antwoorden_exploit | 2 | 1| 
+| 20201001T19:04:31Z | Pupy is an opensource, cross-platform (Windows, Linux, OSX, Android) remote administration and post-exploitation tool mainly written in python | https://github.com/n1nj4sec/pupy | 5818 | 1517| 
+| 20201001T18:48:29Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 5 | 2| 
+| 20201001T18:25:45Z | Null | https://github.com/slimsevernake/The-Browser-Exploitation-Framework-Project- | 0 | 0| 
+| 20201001T18:17:30Z | Null | https://github.com/0xpink/resources-and-exploits | 0 | 4| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20201001T13:06:04Z | Null | https://github.com/Lin1337/docker-msf-backdoor | 0 | 0| 
+| 20201001T22:52:38Z | Hacking tools pack & backdoors generator. | https://github.com/AdrMXR/KitHack | 178 | 43| 
+| 20201001T21:17:45Z | Ghost Framework is an Android post-exploitation framework that exploits the Android Debug Bridge to remotely access an Android device. Ghost Framework gives you the power and convenience of remote Android device administration. | https://github.com/entynetproject/ghost | 731 | 370| 
+| 20201001T19:04:31Z | Pupy is an opensource, cross-platform (Windows, Linux, OSX, Android) remote administration and post-exploitation tool mainly written in python | https://github.com/n1nj4sec/pupy | 5818 | 1517| 
+| 20201001T18:52:07Z | Advanced Attack toolkit, Native C++ RAT, Instagram Brute Force and Password Spraying over Tor, Mass Emailer, Malicious file Sentinel and more. | https://github.com/quantumcored/paradoxia | 180 | 33| 
+| 20201001T15:28:39Z | Null | https://github.com/Lin1337/docker-msf-backdoor | 0 | 0| 
+| 20201001T14:29:11Z | This is for various ethical hacking tools | https://github.com/gaurav25122000/Ethical_Hacking | 2 | 2| 
+| 20201001T13:32:33Z | This is a backdoor created with golang its not FUD will be working on it later | https://github.com/BEN00262/golang-windows-backdoor | 1 | 1| 
+| 20201001T13:19:56Z | Patch PE, ELF, Mach-O binaries with shellcode new version in development, available only to sponsors | https://github.com/secretsquirrel/the-backdoor-factory | 2586 | 712| 
+| 20201001T13:17:11Z | Simple PHP Backdoor  | https://github.com/Toxic-Omega/Gaster-X | 0 | 0| 
 | 20201001T11:27:41Z | A Simple android remote administration tool using sockets. It uses java on the client side and python on the server side | https://github.com/karma9874/AndroRAT | 56 | 27| 
-| 20201001T09:31:25Z | Python Tools | https://github.com/Error-200/Hack-X | 3 | 2| 
 
 
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20201001T13:17:19Z | Simple fuzzer for OpenAPI 3 specification based APIs | https://github.com/vwt-digital/openapi3-fuzzer | 1 | 0| 
-| 20201001T13:15:53Z | Null | https://github.com/senac-ia/logica-fuzzy | 0 | 0| 
-| 20201001T13:14:16Z | Null | https://github.com/vrthra/bFuzzer | 0 | 0| 
-| 20201001T13:10:53Z | Null | https://github.com/nhsd-exeter/dos-service-fuzzy-search-api | 0 | 0| 
-| 20201001T13:10:11Z | Fast web fuzzer written in Go | https://github.com/ffuf/ffuf | 3061 | 349| 
-| 20201001T13:05:14Z | Differential Fuzzer for Ethereum 2.0 | https://github.com/sigp/beacon-fuzz | 46 | 9| 
-| 20201001T13:03:44Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 3153 | 726| 
-| 20201001T13:02:00Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 27032 | 13279| 
-| 20201001T13:01:30Z | A collection of fuzzers in a harness for testing the SpiderMonkey JavaScript engine. | https://github.com/MozillaSecurity/funfuzz | 546 | 124| 
-| 20201001T13:00:26Z | Null | https://github.com/mosk120/fuzzy-octo-pancake | 0 | 0| 
+| 20201001T23:41:41Z | Null | https://github.com/redrosetv/fuzzy-dollop | 0 | 0| 
+| 20201001T23:34:34Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2085 | 93| 
+| 20201001T23:29:49Z | Null | https://github.com/Quicksilver972/fuzzy-meme-testing | 0 | 0| 
+| 20201001T23:28:23Z | Scalable fuzzing infrastructure. | https://github.com/google/clusterfuzz | 4341 | 391| 
+| 20201001T23:21:39Z | Metode Fuzzy Mamdani merupakan salah satu bagian dari Fuzzy Inference System yang berguna untuk penarikan kesimpulan atau suatu keputusan terbaik dalam permasalahan yang tidak pasti (Bova, 2010). | https://github.com/FadlyKnight/fuzzy-penentuanBeasiswa | 0 | 0| 
+| 20201001T22:18:23Z | Unsupervised coverage-guided btrfs fuzzer | https://github.com/danobi/btrfs-fuzz | 0 | 0| 
+| 20201001T21:28:00Z | A short quiz about movies | https://github.com/charwood217/Fuzz-Bead | 0 | 0| 
+| 20201001T20:18:41Z | A JavaScript Engine Fuzzer | https://github.com/googleprojectzero/fuzzilli | 1042 | 172| 
+| 20201001T19:58:37Z | A cross-platform browser fuzzing framework | https://github.com/MozillaSecurity/grizzly | 211 | 27| 
+| 20201001T19:58:05Z | Null | https://github.com/pkudlacik/NeuroFuzzy_Lips | 0 | 0| 
 
 
 
