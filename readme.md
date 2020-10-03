@@ -16,13 +16,16 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20201002T10:38:03Z | CVE-2020-14293 | This repository holds the advisory, exploits and vulnerable software of the CVE-2020-14293 | https://github.com/patrickhener/CVE-2020-14293 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 00 MINUTES 37 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20201002T10:37:49Z | CVE-2020-14294 | This repository holds the advisory of the CVE-2020-14294 | https://github.com/patrickhener/CVE-2020-14294 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 00 MINUTES 36 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20201002T09:13:48Z | CVE-2020-26527 | Null | https://github.com/lukaszstu/SmartAsset-CORS-CVE-2020-26527 | 未查询到CVE信息| 
-| 20201002T08:04:17Z | 未知编号 | 2020l4web-typography-css-library-DanCvejn created by GitHub Classroom | https://github.com/pslib-cz/2020l4web-typography-css-library-DanCvejn | 未查询到CVE信息| 
-| 20201002T07:20:01Z | CVE-2020-26524 | CodeLathe FileCloud before 20.2.0.11915 allows username enumeration | https://github.com/lukaszstu/filecloud-UE-CVE-2020-26524 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 00 MINUTES 47 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20201002T07:19:21Z | CVE-2020-26525 | Damstra Smart Asset 2020.7 has SQL injection via the API/api/Asset originator parameter. | https://github.com/lukaszstu/SmartAsset-SQLinj-CVE-2020-26525 | 未查询到CVE信息| 
-| 20201002T07:18:50Z | CVE-2020-26526 | It is possible to enumerate valid usernames on the login page. | https://github.com/lukaszstu/SmartAsset-UE-CVE-2020-26526 | 未查询到CVE信息| 
+| 20201002T18:45:45Z | CVE-2020-17382 | PoC exploits for CVE-2020-17382 | https://github.com/uf0o/CVE-2020-17382 | MSI 环境链接 MsIo64 驱动程序 1.0.0.8 具有缓冲区溢出 （0x80102040、0x80102044、0x80102050 和 0x80102054）。| 
+| 20201002T16:06:32Z | 未知编号 | 2020l4web-typography-css-library-DanCvejn created by GitHub Classroom | https://github.com/pslib-cz/2020l4web-typography-css-library-DanCvejn | 未查询到CVE信息| 
+| 20201002T15:17:14Z | CVE-2020-1472 | POC for checking multiple hosts for Zerologon vulnerability | https://github.com/WiIs0n/Zerologon_CVE-2020-1472 | 当攻击者使用Netlogon远程协议（MS-NRPC）（又称为“ Netlogon特权提升漏洞”）建立与域控制器的易受攻击的Netlogon安全通道连接时，将存在特权提升漏洞。| 
+| 20201002T14:38:48Z | CVE-2020-1472 | Exploit Code for CVE-2020-1472 aka Zerologon | https://github.com/VoidSec/CVE-2020-1472 | 当攻击者使用Netlogon远程协议（MS-NRPC）（又称为“ Netlogon特权提升漏洞”）建立与域控制器的易受攻击的Netlogon安全通道连接时，将存在特权提升漏洞。| 
+| 20201002T13:00:24Z | CVE-2020-1472 | Zerologon AutoExploit Tool , CVE-2020-1472 | https://github.com/Privia-Security/ADZero | 当攻击者使用Netlogon远程协议（MS-NRPC）（又称为“ Netlogon特权提升漏洞”）建立与域控制器的易受攻击的Netlogon安全通道连接时，将存在特权提升漏洞。| 
+| 20201002T10:38:03Z | CVE-2020-14293 | This repository holds the advisory, exploits and vulnerable software of the CVE-2020-14293 | https://github.com/patrickhener/CVE-2020-14293 | | 
+| 20201002T10:37:49Z | CVE-2020-14294 | This repository holds the advisory of the CVE-2020-14294 | https://github.com/patrickhener/CVE-2020-14294 | 在 Secudos Qiata FTA 1.70.19 中发现了一个问题。注释功能允许在读取传输注释或全局通知板时执行持久 XSS。| 
+| 20201002T09:13:48Z | CVE-2020-26527 | Null | https://github.com/lukaszstu/SmartAsset-CORS-CVE-2020-26527 | 在 Damstra 智能资产 2020.7 中的 API/api/版本中发现了一个问题。跨源资源共享通过接受任意的%源：example.com%标头和 200 OK 和通配符%访问-控制-允许-源：*%标头来信任随机源。| 
+| 20201002T07:20:01Z | CVE-2020-26524 | CodeLathe FileCloud before 20.2.0.11915 allows username enumeration | https://github.com/lukaszstu/filecloud-UE-CVE-2020-26524 | 20.2.0.11915 之前的代码文件云允许用户名枚举。| 
+| 20201002T07:19:21Z | CVE-2020-26525 | Damstra Smart Asset 2020.7 has SQL injection via the API/api/Asset originator parameter. | https://github.com/lukaszstu/SmartAsset-SQLinj-CVE-2020-26525 | Damstra 智能资产 2020.7 通过 API/api/资产创建器参数进行 SQL 注入。这允许强制数据库和服务器启动到第三方 DNS 服务器的远程连接。| 
 
 
 # klee on Github 推荐
@@ -39,26 +42,31 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20201002T12:50:13Z | Curated list of Unix binaries that can be exploited to bypass system security restrictions | https://github.com/GTFOBins/GTFOBins.github.io | 3361 | 473| 
-| 20201002T12:37:05Z | xnu_gym is a pongoOS module that patches XNU out of various kernel jailbreak mitigations and measures. This is an easy way to practice kernel exploitation jailbreak development! | https://github.com/tjkr0wn/xnu_gym | 0 | 0| 
-| 20201002T12:23:11Z | Development of code to exploit LSST and VISTA imaging | https://github.com/lsst-uk/lsst-ir-fusion | 0 | 0| 
-| 20201002T12:21:41Z | Null | https://github.com/AravGarg/VM-exploitation | 0 | 0| 
-| 20201002T11:35:11Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 7301 | 1203| 
-| 20201002T11:31:39Z | This is just my roblox antiexploits in the past months. I don%t know if some of the scripts is patched, but you can test it out. But soon im going to make more roblox antiexploit scripts, its really easy to use/make if your expert in lua and if you know what is antiexploit and how it works. | https://github.com/NightScepterOfficial/RobloxAntiExploits1 | 0 | 0| 
-| 20201002T11:18:07Z | Sifter is a OSINT, recon & vulnerability scanner. It incorporates a plethara of tools within different module sets that tries to cover every attack vector. Allowing you to quickly perform recon tasks and organize the results in one place. From OSINT to Recon, Exploitation, Post-Exploitation, OpSec, Threat Analysis, XSS, SQLinjection, Network Scanning, WebApp Analysis or DNS enumeration.. Sifter should be able to cover it all. | https://github.com/s1l3nt78/sifter | 253 | 80| 
-| 20201002T10:49:27Z | Null | https://github.com/ShamimShahraeini/Deep-CNNs-for-image-classification-by-exploiting-transfer-learning-and-feature-concatenation | 0 | 0| 
-| 20201002T10:38:03Z | This repository holds the advisory, exploits and vulnerable software of the CVE-2020-14293 | https://github.com/patrickhener/CVE-2020-14293 | 0 | 0| 
-| 20201002T10:23:05Z | A Level 6 Roblox Exploit API | https://github.com/TERIHAX/DesireAPI | 1 | 0| 
+| 20201002T22:58:45Z | Root shell exploit for several Xiaomi routers: 4A Gigabit, 4A 100M, 4C, 3Gv2, 4Q, miWifi 3C... | https://github.com/acecilia/OpenWRTInvasion | 196 | 37| 
+| 20201002T22:26:52Z | Library developed while solving the challenges at cryptopals.com | https://github.com/hallgrimur1471/cryptography_exploits | 0 | 0| 
+| 20201002T21:52:55Z | Repository for Crow Exploit | https://github.com/KiwiCoding69/Crow-Exploit | 0 | 0| 
+| 20201002T21:21:15Z | Null | https://github.com/quentin452/Cats-Exploitz-HUB | 0 | 1| 
+| 20201002T21:17:19Z | Numerical examples from %Greedy inference with structure-exploiting lazy maps% | https://github.com/MichaelCBrennan/lazymaps | 0 | 0| 
+| 20201002T21:11:07Z | Extraction et exploitation des données de conversations Messenger | https://github.com/adrien-chinour/statistiques-messenger | 0 | 0| 
+| 20201002T20:37:04Z | Exploit-Development | https://github.com/h3ll0clar1c3/Exploit-Development | 0 | 0| 
+| 20201002T20:35:13Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 7302 | 1204| 
+| 20201002T19:53:29Z | This Repo is the consolidation of models and code to implement the a RL Agent which learns how to maximizes the sensitivity of the a battery to produce better estimation results by exploiting near optimal Fisher Information | https://github.com/JonnyD1117/Battery_Active_Learning | 0 | 1| 
+| 20201002T19:39:22Z | Repository containing a writeup and exploit code for challenge %Federated Sophia% from Pwn2Win 2019 CTF | https://github.com/nahueldsanchez/pwn2win_ctf_federated_sophia_writeup | 0 | 1| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20201002T23:55:33Z | Hacking tools pack & backdoors generator. | https://github.com/AdrMXR/KitHack | 180 | 44| 
+| 20201002T20:09:02Z | Thefatrat a massive exploiting tool : Easy tool to generate backdoor and easy tool to post exploitation attack like browser attack and etc . This tool compiles a malware with popular payload and then the compiled malware can be execute on windows, android, mac . The malware that created with this tool also have an ability to bypass most AV software protection . | https://github.com/Screetsec/TheFatRat | 4580 | 1543| 
+| 20201002T19:43:34Z | Full-featured C2 framework which silently persists on webserver via evil PHP oneliner :smiling_imp: | https://github.com/nil0x42/phpsploit | 1022 | 310| 
+| 20201002T18:18:00Z | A deck-building roguelike cyberpunk game. | https://github.com/uspgamedev/backdoor | 17 | 2| 
+| 20201002T17:15:02Z | Advanced Attack toolkit, Native C++ RAT, Instagram Brute Force and Password Spraying over Tor, Mass Emailer, Malicious file Sentinel and more. | https://github.com/quantumcored/paradoxia | 179 | 33| 
+| 20201002T16:32:58Z | Hides the sethc.exe backdoor. | https://github.com/PGgamer2/sethc-backdoor-hider | 1 | 1| 
+| 20201002T13:34:32Z | Remot3d: is a simple tool created for large pentesters as well as just for the pleasure of defacers to control server by backdoors | https://github.com/KeepWannabe/Remot3d | 239 | 62| 
 | 20201002T12:41:23Z | Null | https://github.com/Lin1337/docker-msf-backdoor | 0 | 0| 
 | 20201002T10:00:21Z | scan for backdoor shell in your website directory | https://github.com/abemin/cliShellScanner | 0 | 0| 
 | 20201002T06:15:25Z | Pupy is an opensource, cross-platform (Windows, Linux, OSX, Android) remote administration and post-exploitation tool mainly written in python | https://github.com/n1nj4sec/pupy | 5818 | 1518| 
-| 20201002T01:20:07Z | Tool to find potential backdoor/security holes in your endpoint | https://github.com/subasgit/backdoorfinder | 1 | 0| 
-| 20201002T01:08:24Z | Thefatrat a massive exploiting tool : Easy tool to generate backdoor and easy tool to post exploitation attack like browser attack and etc . This tool compiles a malware with popular payload and then the compiled malware can be execute on windows, android, mac . The malware that created with this tool also have an ability to bypass most AV software protection . | https://github.com/Screetsec/TheFatRat | 4578 | 1543| 
 
 
 # fuzz on Github 推荐
