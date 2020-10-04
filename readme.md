@@ -23,7 +23,7 @@
 | --- | --- | --- | --- | ---| 
 | 20201004T11:33:19Z | 未知编号 | 📝 learning notes about hacking : https://ctflag.org | https://github.com/CTFlag/CTFlag-book | 未查询到CVE信息| 
 | 20201004T03:36:11Z | CVE-2020-1472 | Exploit Code for CVE-2020-1472 aka Zerologon | https://github.com/VoidSec/CVE-2020-1472 | | 
-| 20201004T02:25:31Z | CVE-2020-0796 | Scanner for CVE-2020-0796 - SMBv3 RCE | https://github.com/ollypwn/SMBGhost | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 10 MINUTES 23 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201004T02:25:31Z | CVE-2020-0796 | Scanner for CVE-2020-0796 - SMBv3 RCE | https://github.com/ollypwn/SMBGhost | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 09 MINUTES 20 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 
 
 # klee on Github 推荐
@@ -41,8 +41,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20201004T12:50:56Z | notes about Reverse Engineering and Exploit Development | https://github.com/bmedicke/REED | 0 | 0| 
 | 20201004T12:46:56Z | Exploit-Development | https://github.com/h3ll0clar1c3/Exploit-Development | 0 | 0| 
-| 20201004T12:14:10Z | notes about Reverse Engineering and Exploit Development | https://github.com/bmedicke/REED | 0 | 0| 
 | 20201004T12:14:02Z | Null | https://github.com/royanpng2/MyExploit | 0 | 0| 
 | 20201004T12:11:49Z | A Go library for manipulating Windows processes. | https://github.com/jamesmoriarty/gomem | 6 | 0| 
 | 20201004T12:09:51Z | Null | https://github.com/quentin452/Cats-Exploitz-HUB | 0 | 1| 
