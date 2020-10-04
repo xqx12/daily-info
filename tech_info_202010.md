@@ -18,16 +18,16 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20201003T12:35:59Z | CVE-2020-5902 | Exphub[漏洞利用脚本库] 包括Webloigc、Struts2、Tomcat、Nexus、Solr、Jboss、Drupal的漏洞利用脚本，最新添加CVE-2020-5902、CVE-2020-11444、CVE-2020-10204、CVE-2020-10199、CVE-2020-1938、CVE-2020-2551、CVE-2020-2555、CVE-2020-2883、CVE-2019-17558、CVE-2019-6340 | https://github.com/zhzyker/exphub | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 57 MINUTES 28 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20201003T09:30:47Z | CVE-2020-14064 | Null | https://github.com/masoud-zivari/CVE-2020-14064 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 57 MINUTES 46 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20201003T09:19:26Z | CVE-2020-14066 | Null | https://github.com/networksecure/CVE-2020-14066 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 57 MINUTES 29 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20201003T09:17:50Z | CVE-2020-14066 | Null | https://github.com/masoud-zivari/CVE-2020-14066 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 57 MINUTES 44 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20201003T09:13:34Z | CVE-2020-14065 | Null | https://github.com/masoud-zivari/CVE-2020-14065 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 57 MINUTES 43 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20201003T03:05:09Z | CVE-2020-17382 | PoC exploits for CVE-2020-17382 | https://github.com/uf0o/CVE-2020-17382 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 57 MINUTES 33 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201003T12:35:59Z | CVE-2020-5902 | Exphub[漏洞利用脚本库] 包括Webloigc、Struts2、Tomcat、Nexus、Solr、Jboss、Drupal的漏洞利用脚本，最新添加CVE-2020-5902、CVE-2020-11444、CVE-2020-10204、CVE-2020-10199、CVE-2020-1938、CVE-2020-2551、CVE-2020-2555、CVE-2020-2883、CVE-2019-17558、CVE-2019-6340 | https://github.com/zhzyker/exphub | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 55 MINUTES 26 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201003T09:30:47Z | CVE-2020-14064 | Null | https://github.com/masoud-zivari/CVE-2020-14064 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 54 MINUTES 45 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201003T09:19:26Z | CVE-2020-14066 | Null | https://github.com/networksecure/CVE-2020-14066 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 55 MINUTES 27 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201003T09:17:50Z | CVE-2020-14066 | Null | https://github.com/masoud-zivari/CVE-2020-14066 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 54 MINUTES 43 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201003T09:13:34Z | CVE-2020-14065 | Null | https://github.com/masoud-zivari/CVE-2020-14065 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 54 MINUTES 42 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201003T03:05:09Z | CVE-2020-17382 | PoC exploits for CVE-2020-17382 | https://github.com/uf0o/CVE-2020-17382 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 55 MINUTES 31 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20201002T16:06:32Z | 未知编号 | 2020l4web-typography-css-library-DanCvejn created by GitHub Classroom | https://github.com/pslib-cz/2020l4web-typography-css-library-DanCvejn | 未查询到CVE信息| 
-| 20201002T15:17:14Z | CVE-2020-1472 | POC for checking multiple hosts for Zerologon vulnerability | https://github.com/WiIs0n/Zerologon_CVE-2020-1472 | | 
-| 20201002T14:38:48Z | CVE-2020-1472 | Exploit Code for CVE-2020-1472 aka Zerologon | https://github.com/VoidSec/CVE-2020-1472 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 57 MINUTES 32 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20201002T13:00:24Z | CVE-2020-1472 | Zerologon AutoExploit Tool , CVE-2020-1472 | https://github.com/Privia-Security/ADZero | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 57 MINUTES 36 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201002T15:17:14Z | CVE-2020-1472 | POC for checking multiple hosts for Zerologon vulnerability | https://github.com/WiIs0n/Zerologon_CVE-2020-1472 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 55 MINUTES 34 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201002T14:38:48Z | CVE-2020-1472 | Exploit Code for CVE-2020-1472 aka Zerologon | https://github.com/VoidSec/CVE-2020-1472 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 55 MINUTES 30 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201002T13:00:24Z | CVE-2020-1472 | Zerologon AutoExploit Tool , CVE-2020-1472 | https://github.com/Privia-Security/ADZero | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 55 MINUTES 35 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 
 
 # klee on Github 推荐
@@ -50,6 +50,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20201004T00:59:46Z | Library developed while solving the challenges at cryptopals.com | https://github.com/hallgrimur1471/cryptography_exploits | 0 | 0| 
 | 20201004T00:42:48Z | An open-source post-exploitation framework for students, researchers and developers. | https://github.com/malwaredllc/byob | 5085 | 1019| 
 | 20201004T00:12:15Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 7304 | 1204| 
 | 20201004T00:04:54Z | Xenon X Exploit Created Using EasyExploits API. | https://github.com/ShitpostMDX/Xenon-X | 0 | 0| 
@@ -59,7 +60,6 @@
 | 20201003T22:42:47Z | Sifter is a OSINT, recon & vulnerability scanner. It incorporates a plethara of tools within different module sets that tries to cover every attack vector. Allowing you to quickly perform recon tasks and organize the results in one place. From OSINT to Recon, Exploitation, Post-Exploitation, OpSec, Threat Analysis, XSS, SQLinjection, Network Scanning, WebApp Analysis or DNS enumeration.. Sifter should be able to cover it all. | https://github.com/s1l3nt78/sifter | 255 | 80| 
 | 20201003T22:00:15Z | Null | https://github.com/Obey7/Exploit-Maker | 0 | 0| 
 | 20201003T21:57:50Z | proof of concepts for select binary exploitation techniques | https://github.com/juliancs101/pwn-pocs | 0 | 0| 
-| 20201003T21:56:32Z | Extraction et exploitation des données de conversations Messenger | https://github.com/adrien-chinour/statistiques-messenger | 0 | 0| 
 
 
 # backdoor on Github 推荐
@@ -80,6 +80,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20201004T01:04:39Z | Chip tools, primarily around security fuzzing (laser, EM, UV, etc) | https://github.com/JohnDMcMaster/icfuzz | 4 | 1| 
 | 20201004T00:23:51Z | Fuzzy Engine | https://github.com/RanHuii/Fuzzy | 0 | 0| 
 | 20201003T23:40:15Z | menu system for vim/neovim, using fzf for fuzzy selection | https://github.com/laher/fuzzymenu.vim | 44 | 3| 
 | 20201003T22:36:18Z | RcppDeepState, a simple way to fuzz test code in Rcpp packages | https://github.com/akhikolla/RcppDeepState | 0 | 0| 
@@ -89,7 +90,6 @@
 | 20201003T19:58:15Z | A suite of Android apps (widget, screensaver, watchface) with Fuzzy clock faces | https://github.com/tuur29/fuzzyclock | 6 | 2| 
 | 20201003T19:49:46Z | Null | https://github.com/lacygoill/vim-fuzzy | 0 | 0| 
 | 20201003T19:48:31Z | 🤖 Repeat tests. Repeat tests. Repeat tests. | https://github.com/ehmicky/test-each | 91 | 2| 
-| 20201003T19:24:41Z | These are payloads to hunt for various bugs in web applications. from SQLi, xss, RCE to path traversal and more with XSS and fuzzing. | https://github.com/atulgrayhat/allpayloads | 1 | 2| 
 
 
 
