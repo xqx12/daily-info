@@ -12,22 +12,24 @@
 | ts | title | url| 
 | --- | --- | ---| 
 | 20201003 | Win the 0-Day Racing Game Against Botnet on Cloud | https://static.cdxy.me/asia-20-Xu-Win-The-0-Day-Racing-Game-Against-Botnet-In-Public-Cloud.pdf| 
+| 20201003 | 渗透环境标准化 | https://mp.weixin.qq.com/s/A5E2VRYg7R1LrLrCpiGYAw| 
 
 
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20201003T12:35:59Z | CVE-2020-5902 | Exphub[漏洞利用脚本库] 包括Webloigc、Struts2、Tomcat、Nexus、Solr、Jboss、Drupal的漏洞利用脚本，最新添加CVE-2020-5902、CVE-2020-11444、CVE-2020-10204、CVE-2020-10199、CVE-2020-1938、CVE-2020-2551、CVE-2020-2555、CVE-2020-2883、CVE-2019-17558、CVE-2019-6340 | https://github.com/zhzyker/exphub | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 00 MINUTES 27 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20201003T09:30:47Z | CVE-2020-14064 | Null | https://github.com/masoud-zivari/CVE-2020-14064 | | 
-| 20201003T09:19:26Z | CVE-2020-14066 | Null | https://github.com/networksecure/CVE-2020-14066 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 00 MINUTES 29 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20201003T09:17:50Z | CVE-2020-14066 | Null | https://github.com/masoud-zivari/CVE-2020-14066 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 00 MINUTES 44 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20201003T09:13:34Z | CVE-2020-14065 | Null | https://github.com/masoud-zivari/CVE-2020-14065 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 00 MINUTES 43 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20201003T03:05:09Z | CVE-2020-17382 | PoC exploits for CVE-2020-17382 | https://github.com/uf0o/CVE-2020-17382 | | 
+| 20201003T12:35:59Z | CVE-2020-5902 | Exphub[漏洞利用脚本库] 包括Webloigc、Struts2、Tomcat、Nexus、Solr、Jboss、Drupal的漏洞利用脚本，最新添加CVE-2020-5902、CVE-2020-11444、CVE-2020-10204、CVE-2020-10199、CVE-2020-1938、CVE-2020-2551、CVE-2020-2555、CVE-2020-2883、CVE-2019-17558、CVE-2019-6340 | https://github.com/zhzyker/exphub | 在BIG-IP版本15.0.0-15.1.0.3、14.1.0-14.1.2.5、13.1.0-13.1.3.3、12.1.0-12.1.5.1和11.6.1-11.6.5.1中，流量管理用户接口（TMUI），也称为“配置”实用程序，在未公开的页面中具有远程执行代码（RCE）漏洞。| 
+| 20201003T09:30:47Z | CVE-2020-14064 | Null | https://github.com/masoud-zivari/CVE-2020-14064 | 爱思华宝电子邮件服务器12.3.0.1的用户帐户访问控制不正确。| 
+| 20201003T09:19:26Z | CVE-2020-14066 | Null | https://github.com/networksecure/CVE-2020-14066 | 爱思华宝电子邮件服务器12.3.0.1允许远程攻击者上载对客户端来说很危险的JavaScript文件。| 
+| 20201003T09:17:50Z | CVE-2020-14066 | Null | https://github.com/masoud-zivari/CVE-2020-14066 | 爱思华宝电子邮件服务器12.3.0.1允许远程攻击者上载对客户端来说很危险的JavaScript文件。| 
+| 20201003T09:13:34Z | CVE-2020-14065 | Null | https://github.com/masoud-zivari/CVE-2020-14065 | 爱思华宝电子邮件服务器12.3.0.1允许远程攻击者上传文件并消耗磁盘空间。| 
+| 20201003T03:05:09Z | CVE-2020-17382 | PoC exploits for CVE-2020-17382 | https://github.com/uf0o/CVE-2020-17382 | MSI AmbientLink MsIo64驱动程序1.0.0.8具有缓冲区溢出（0x80102040、0x80102044、0x80102050和0x80102054）。| 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20201003T23:51:01Z | Null | https://github.com/klee0589/klee0589.github.io | 0 | 0| 
 | 20201003T01:06:42Z | Null | https://github.com/KleeUT/kleeut.com | 0 | 0| 
 
 
@@ -39,16 +41,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20201003T12:58:15Z | Script to monitor pastebin.com%s public pastes for sensitive data leakage | https://github.com/OdinF13/Monitor-pastebin-leaks | 0 | 0| 
-| 20201003T12:40:54Z | notes about Reverse Engineering and Exploit Development | https://github.com/bmedicke/REED | 0 | 0| 
-| 20201003T12:35:59Z | Exphub[漏洞利用脚本库] 包括Webloigc、Struts2、Tomcat、Nexus、Solr、Jboss、Drupal的漏洞利用脚本，最新添加CVE-2020-5902、CVE-2020-11444、CVE-2020-10204、CVE-2020-10199、CVE-2020-1938、CVE-2020-2551、CVE-2020-2555、CVE-2020-2883、CVE-2019-17558、CVE-2019-6340 | https://github.com/zhzyker/exphub | 1905 | 494| 
-| 20201003T11:45:48Z | Null | https://github.com/kbobrowski/apollo-subscription-exploit | 0 | 0| 
-| 20201003T11:45:42Z | A tool for remote ADB exploitation in Python3 for all Machines. | https://github.com/01010000-kumar/PhoneSploit | 30 | 19| 
-| 20201003T11:36:20Z | CTF framework and exploit development library | https://github.com/Gallopsled/pwntools | 7070 | 1287| 
-| 20201003T11:35:11Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 7303 | 1204| 
-| 20201003T10:47:04Z | Blog! | https://github.com/nonetype/nonetype.github.io | 0 | 0| 
-| 20201003T10:42:58Z | Sifter is a OSINT, recon & vulnerability scanner. It incorporates a plethara of tools within different module sets that tries to cover every attack vector. Allowing you to quickly perform recon tasks and organize the results in one place. From OSINT to Recon, Exploitation, Post-Exploitation, OpSec, Threat Analysis, XSS, SQLinjection, Network Scanning, WebApp Analysis or DNS enumeration.. Sifter should be able to cover it all. | https://github.com/s1l3nt78/sifter | 253 | 80| 
-| 20201003T10:10:42Z | Curated list of Unix binaries that can be exploited to bypass system security restrictions | https://github.com/GTFOBins/GTFOBins.github.io | 3363 | 473| 
+| 20201003T23:59:04Z | Xenon X Exploit Created Using EasyExploits API. | https://github.com/ShitpostMDX/Xenon-X | 0 | 0| 
+| 20201003T23:49:11Z |  SharpSploit is a .NET post-exploitation library written in C# | https://github.com/cobbr/SharpSploit | 971 | 196| 
+| 20201003T23:46:17Z | An open-source post-exploitation framework for students, researchers and developers. | https://github.com/malwaredllc/byob | 5083 | 1019| 
+| 20201003T23:30:01Z | Post exploitation tool for configuration management servers. | https://github.com/master-of-servers/mose | 38 | 7| 
+| 20201003T22:56:49Z | Null | https://github.com/quentin452/Cats-Exploitz-HUB | 0 | 1| 
+| 20201003T22:42:47Z | Sifter is a OSINT, recon & vulnerability scanner. It incorporates a plethara of tools within different module sets that tries to cover every attack vector. Allowing you to quickly perform recon tasks and organize the results in one place. From OSINT to Recon, Exploitation, Post-Exploitation, OpSec, Threat Analysis, XSS, SQLinjection, Network Scanning, WebApp Analysis or DNS enumeration.. Sifter should be able to cover it all. | https://github.com/s1l3nt78/sifter | 255 | 80| 
+| 20201003T22:28:01Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 7303 | 1204| 
+| 20201003T22:00:15Z | Null | https://github.com/Obey7/Exploit-Maker | 0 | 0| 
+| 20201003T21:57:50Z | proof of concepts for select binary exploitation techniques | https://github.com/juliancs101/pwn-pocs | 0 | 0| 
+| 20201003T21:56:32Z | Extraction et exploitation des données de conversations Messenger | https://github.com/adrien-chinour/statistiques-messenger | 0 | 0| 
 
 
 # backdoor on Github 推荐
