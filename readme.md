@@ -22,8 +22,8 @@
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
 | 20201004T11:33:19Z | 未知编号 | 📝 learning notes about hacking : https://ctflag.org | https://github.com/CTFlag/CTFlag-book | 未查询到CVE信息| 
-| 20201004T03:36:11Z | CVE-2020-1472 | Exploit Code for CVE-2020-1472 aka Zerologon | https://github.com/VoidSec/CVE-2020-1472 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 43 MINUTES 26 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20201004T02:25:31Z | CVE-2020-0796 | Scanner for CVE-2020-0796 - SMBv3 RCE | https://github.com/ollypwn/SMBGhost | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 43 MINUTES 22 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201004T03:36:11Z | CVE-2020-1472 | Exploit Code for CVE-2020-1472 aka Zerologon | https://github.com/VoidSec/CVE-2020-1472 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 41 MINUTES 27 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201004T02:25:31Z | CVE-2020-0796 | Scanner for CVE-2020-0796 - SMBv3 RCE | https://github.com/ollypwn/SMBGhost | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 41 MINUTES 23 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 
 
 # klee on Github 推荐
@@ -67,6 +67,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20201004T12:16:56Z | haze binary fuzzer | https://github.com/richinseattle/haze | 27 | 5| 
 | 20201004T11:52:30Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2108 | 94| 
 | 20201004T11:22:39Z | :pig: Tiny and fast fuzzy search in Go | https://github.com/lithammer/fuzzysearch | 551 | 30| 
 | 20201004T10:44:46Z | Null | https://github.com/vrthra/bFuzzer | 0 | 0| 
@@ -76,7 +77,6 @@
 | 20201004T08:45:04Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 3153 | 727| 
 | 20201004T07:07:57Z | Null | https://github.com/abdjamsh/Fuzzy-Keyword-Search-Over-Encrypted-Data-Using-Cloud-Computing | 1 | 0| 
 | 20201004T06:01:59Z | DL backed AFL styled Fuzzer. | https://github.com/Snehal-Reddy/DL_Fuzzer | 0 | 0| 
-| 20201004T03:50:21Z | Personal website of Laurence Hughes | https://github.com/fuzzylogicxx/fuzzylogic | 4 | 1| 
 
 
 
