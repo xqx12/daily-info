@@ -22,8 +22,8 @@
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
 | 20201004T11:33:19Z | 未知编号 | 📝 learning notes about hacking : https://ctflag.org | https://github.com/CTFlag/CTFlag-book | 未查询到CVE信息| 
-| 20201004T03:36:11Z | CVE-2020-1472 | Exploit Code for CVE-2020-1472 aka Zerologon | https://github.com/VoidSec/CVE-2020-1472 | | 
-| 20201004T02:25:31Z | CVE-2020-0796 | Scanner for CVE-2020-0796 - SMBv3 RCE | https://github.com/ollypwn/SMBGhost | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 07 MINUTES 23 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201004T03:36:11Z | CVE-2020-1472 | Exploit Code for CVE-2020-1472 aka Zerologon | https://github.com/VoidSec/CVE-2020-1472 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 05 MINUTES 25 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201004T02:25:31Z | CVE-2020-0796 | Scanner for CVE-2020-0796 - SMBv3 RCE | https://github.com/ollypwn/SMBGhost | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 05 MINUTES 22 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 
 
 # klee on Github 推荐
@@ -41,7 +41,9 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20201004T12:50:56Z | notes about Reverse Engineering and Exploit Development | https://github.com/bmedicke/REED | 0 | 0| 
+| 20201004T12:54:48Z | Floki is made for creating wordlists from words in a better way. It is also useful for pwn/Binary-Exploitation challanges. | https://github.com/luckythandel/Floki | 0 | 0| 
+| 20201004T12:54:27Z | gekke exploit jwz | https://github.com/HIHIQY1/epic_noordhoff_online_antwoorden_exploit | 2 | 1| 
+| 20201004T12:54:21Z | notes about Reverse Engineering and Exploit Development | https://github.com/bmedicke/REED | 0 | 0| 
 | 20201004T12:46:56Z | Exploit-Development | https://github.com/h3ll0clar1c3/Exploit-Development | 0 | 0| 
 | 20201004T12:14:02Z | Null | https://github.com/royanpng2/MyExploit | 0 | 0| 
 | 20201004T12:11:49Z | A Go library for manipulating Windows processes. | https://github.com/jamesmoriarty/gomem | 6 | 0| 
@@ -49,8 +51,6 @@
 | 20201004T12:05:35Z | CMS Lokomedia Auto Exploit | https://github.com/fauzanw/Lokmed-AutoExploit | 1 | 1| 
 | 20201004T11:50:25Z | Collection of notes, exploits and tips | https://github.com/ComplexSec/tryhackme | 0 | 0| 
 | 20201004T11:48:47Z | iblessing is an iOS security exploiting toolkit, it mainly includes application information collection, static analysis and dynamic analysis. It can be used for reverse engineering, binary analysis and vulnerability mining. | https://github.com/Soulghost/iblessing | 194 | 29| 
-| 20201004T11:46:22Z | A python script file to remotely analyse and exploit Microsoft Windows system via impacket. | https://github.com/BroadbentT/WIN-MASTER | 13 | 10| 
-| 20201004T11:40:12Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 7307 | 1204| 
 
 
 # backdoor on Github 推荐
