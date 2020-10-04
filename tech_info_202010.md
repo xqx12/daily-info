@@ -50,7 +50,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20201003T23:59:04Z | Xenon X Exploit Created Using EasyExploits API. | https://github.com/ShitpostMDX/Xenon-X | 0 | 0| 
+| 20201004T00:01:31Z | Xenon X Exploit Created Using EasyExploits API. | https://github.com/ShitpostMDX/Xenon-X | 0 | 0| 
 | 20201003T23:49:11Z |  SharpSploit is a .NET post-exploitation library written in C# | https://github.com/cobbr/SharpSploit | 971 | 196| 
 | 20201003T23:46:17Z | An open-source post-exploitation framework for students, researchers and developers. | https://github.com/malwaredllc/byob | 5083 | 1019| 
 | 20201003T23:30:01Z | Post exploitation tool for configuration management servers. | https://github.com/master-of-servers/mose | 38 | 7| 
@@ -65,16 +65,16 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20201003T11:54:26Z | Full-featured C2 framework which silently persists on webserver via evil PHP oneliner :smiling_imp: | https://github.com/nil0x42/phpsploit | 1023 | 310| 
+| 20201003T23:08:18Z | Null | https://github.com/Lin1337/docker-msf-backdoor | 0 | 0| 
+| 20201003T22:56:09Z | Rose Multi-Language Backdoor | https://github.com/0x06060606/Rose_Backdoor | 1 | 0| 
+| 20201003T22:49:32Z | Full-featured C2 framework which silently persists on webserver via evil PHP oneliner :smiling_imp: | https://github.com/nil0x42/phpsploit | 1024 | 310| 
+| 20201003T20:37:54Z | Null | https://github.com/wac-dirka/mjt-admin-backdoor | 0 | 0| 
+| 20201003T17:55:48Z | gives u op | https://github.com/cheeziest/backdoor-plugin-EZ | 0 | 0| 
+| 20201003T16:51:16Z | Backdoor that can open web-pages remotely | https://github.com/pro-extremecoder/URLBackdoor | 0 | 0| 
+| 20201003T15:55:56Z | Null | https://github.com/Riyadh2033/backdoordhaka-ssmbd | 0 | 0| 
 | 20201003T11:30:26Z | Thefatrat a massive exploiting tool : Easy tool to generate backdoor and easy tool to post exploitation attack like browser attack and etc . This tool compiles a malware with popular payload and then the compiled malware can be execute on windows, android, mac . The malware that created with this tool also have an ability to bypass most AV software protection . | https://github.com/Screetsec/TheFatRat | 4581 | 1544| 
 | 20201003T10:03:07Z | A deck-building roguelike cyberpunk game. | https://github.com/uspgamedev/backdoor | 17 | 2| 
 | 20201003T07:21:03Z | This tool will create backdoor | https://github.com/krishpranav/Backdoorcreator | 2 | 1| 
-| 20201003T00:54:09Z | Tool to find potential backdoor/security holes in your endpoint | https://github.com/subasgit/backdoorfinder | 1 | 0| 
-| 20201002T23:55:33Z | Hacking tools pack & backdoors generator. | https://github.com/AdrMXR/KitHack | 180 | 45| 
-| 20201002T17:15:02Z | Advanced Attack toolkit, Native C++ RAT, Instagram Brute Force and Password Spraying over Tor, Mass Emailer, Malicious file Sentinel and more. | https://github.com/quantumcored/paradoxia | 179 | 33| 
-| 20201002T16:32:58Z | Hides the sethc.exe backdoor. | https://github.com/PGgamer2/sethc-backdoor-hider | 1 | 1| 
-| 20201002T13:34:32Z | Remot3d: is a simple tool created for large pentesters as well as just for the pleasure of defacers to control server by backdoors | https://github.com/KeepWannabe/Remot3d | 239 | 62| 
-| 20201002T12:41:23Z | Null | https://github.com/Lin1337/docker-msf-backdoor | 0 | 0| 
 
 
 # fuzz on Github 推荐
