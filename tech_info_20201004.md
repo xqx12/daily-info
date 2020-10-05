@@ -21,10 +21,10 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20201004T18:58:04Z | CVE-2020-1472 | Exploit Code for CVE-2020-1472 aka Zerologon | https://github.com/VoidSec/CVE-2020-1472 | 当攻击者使用Netlogon远程协议（MS-NRPC）（又称为“ Netlogon特权提升漏洞”）建立与域控制器的易受攻击的Netlogon安全通道连接时，将存在特权提升漏洞。| 
-| 20201004T16:18:47Z | CVE-2020-11651 | CVE-2020-11651&&CVE-2020-11652 EXP | https://github.com/heikanet/CVE-2020-11651-CVE-2020-11652-EXP | 在2019.2.4之前的SaltStack Salt和3000.2。之前的3000中发现了一个问题。盐主进程ClearFuncs类无法正确验证方法调用。这使远程用户无需身份验证即可访问某些方法。这些方法可用于从盐主服务器检索用户令牌和/或在盐小仆上运行任意命令。| 
+| 20201004T18:58:04Z | CVE-2020-1472 | Exploit Code for CVE-2020-1472 aka Zerologon | https://github.com/VoidSec/CVE-2020-1472 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 56 MINUTES 28 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201004T16:18:47Z | CVE-2020-11651 | CVE-2020-11651&&CVE-2020-11652 EXP | https://github.com/heikanet/CVE-2020-11651-CVE-2020-11652-EXP | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 56 MINUTES 26 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20201004T13:18:24Z | 未知编号 | 📝 learning notes about hacking : https://ctflag.org | https://github.com/CTFlag/CTFlag-book | 未查询到CVE信息| 
-| 20201004T02:25:31Z | CVE-2020-0796 | Scanner for CVE-2020-0796 - SMBv3 RCE | https://github.com/ollypwn/SMBGhost | Microsoft服务器消息块3.1.1（SMBv3）协议处理某些请求的方式中存在一个远程执行代码漏洞，也称为“ Windows SMBv3客户端/服务器远程执行代码漏洞”。| 
+| 20201004T02:25:31Z | CVE-2020-0796 | Scanner for CVE-2020-0796 - SMBv3 RCE | https://github.com/ollypwn/SMBGhost | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 56 MINUTES 23 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 
 
 # klee on Github 推荐
