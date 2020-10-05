@@ -23,16 +23,16 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20201004T18:58:04Z | CVE-2020-1472 | Exploit Code for CVE-2020-1472 aka Zerologon | https://github.com/VoidSec/CVE-2020-1472 | | 
-| 20201004T16:18:47Z | CVE-2020-11651 | CVE-2020-11651&&CVE-2020-11652 EXP | https://github.com/heikanet/CVE-2020-11651-CVE-2020-11652-EXP | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 21 MINUTES 26 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201004T18:58:04Z | CVE-2020-1472 | Exploit Code for CVE-2020-1472 aka Zerologon | https://github.com/VoidSec/CVE-2020-1472 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 20 MINUTES 27 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201004T16:18:47Z | CVE-2020-11651 | CVE-2020-11651&&CVE-2020-11652 EXP | https://github.com/heikanet/CVE-2020-11651-CVE-2020-11652-EXP | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 20 MINUTES 24 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20201004T13:18:24Z | 未知编号 | 📝 learning notes about hacking : https://ctflag.org | https://github.com/CTFlag/CTFlag-book | 未查询到CVE信息| 
-| 20201004T02:25:31Z | CVE-2020-0796 | Scanner for CVE-2020-0796 - SMBv3 RCE | https://github.com/ollypwn/SMBGhost | | 
-| 20201003T12:35:59Z | CVE-2020-5902 | Exphub[漏洞利用脚本库] 包括Webloigc、Struts2、Tomcat、Nexus、Solr、Jboss、Drupal的漏洞利用脚本，最新添加CVE-2020-5902、CVE-2020-11444、CVE-2020-10204、CVE-2020-10199、CVE-2020-1938、CVE-2020-2551、CVE-2020-2555、CVE-2020-2883、CVE-2019-17558、CVE-2019-6340 | https://github.com/zhzyker/exphub | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 21 MINUTES 24 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20201003T09:30:47Z | CVE-2020-14064 | Null | https://github.com/masoud-zivari/CVE-2020-14064 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 20 MINUTES 41 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20201003T09:19:26Z | CVE-2020-14066 | Null | https://github.com/networksecure/CVE-2020-14066 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 21 MINUTES 27 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20201003T09:17:50Z | CVE-2020-14066 | Null | https://github.com/masoud-zivari/CVE-2020-14066 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 21 MINUTES 40 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20201003T09:13:34Z | CVE-2020-14065 | Null | https://github.com/masoud-zivari/CVE-2020-14065 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 21 MINUTES 39 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20201003T03:05:09Z | CVE-2020-17382 | PoC exploits for CVE-2020-17382 | https://github.com/uf0o/CVE-2020-17382 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 21 MINUTES 28 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201004T02:25:31Z | CVE-2020-0796 | Scanner for CVE-2020-0796 - SMBv3 RCE | https://github.com/ollypwn/SMBGhost | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 20 MINUTES 22 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201003T12:35:59Z | CVE-2020-5902 | Exphub[漏洞利用脚本库] 包括Webloigc、Struts2、Tomcat、Nexus、Solr、Jboss、Drupal的漏洞利用脚本，最新添加CVE-2020-5902、CVE-2020-11444、CVE-2020-10204、CVE-2020-10199、CVE-2020-1938、CVE-2020-2551、CVE-2020-2555、CVE-2020-2883、CVE-2019-17558、CVE-2019-6340 | https://github.com/zhzyker/exphub | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 20 MINUTES 23 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201003T09:30:47Z | CVE-2020-14064 | Null | https://github.com/masoud-zivari/CVE-2020-14064 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 19 MINUTES 40 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201003T09:19:26Z | CVE-2020-14066 | Null | https://github.com/networksecure/CVE-2020-14066 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 20 MINUTES 25 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201003T09:17:50Z | CVE-2020-14066 | Null | https://github.com/masoud-zivari/CVE-2020-14066 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 19 MINUTES 39 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201003T09:13:34Z | CVE-2020-14065 | Null | https://github.com/masoud-zivari/CVE-2020-14065 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 19 MINUTES 38 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201003T03:05:09Z | CVE-2020-17382 | PoC exploits for CVE-2020-17382 | https://github.com/uf0o/CVE-2020-17382 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 20 MINUTES 28 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 
 
 # klee on Github 推荐
@@ -58,16 +58,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20201005T01:39:21Z | Go package that aids in binary analysis and exploitation | https://github.com/zznop/sploit | 22 | 1| 
+| 20201005T01:35:26Z | This repo includes Zhang2019%s CLSTM implemented using keras(tensorflow2).  Zhang2019:Zhang, Haokui, et al. %Exploiting temporal consistency for real-time video depth estimation.% Proceedings of the IEEE International Conference on Computer Vision. 2019. | https://github.com/catdance124/Zhang2019_custom_CLSTM | 0 | 0| 
 | 20201005T01:32:36Z | This repo includes Zhang2019%s CLSTM implemented using keras(tensorflow2).  Zhang2019:Zhang, Haokui, et al. %Exploiting temporal consistency for real-time video depth estimation.% Proceedings of the IEEE International Conference on Computer Vision. 2019. | https://github.com/catdance124/Zhang2019_CLSTM | 0 | 0| 
 | 20201005T01:27:50Z | Sifter is a OSINT, recon & vulnerability scanner. It incorporates a plethara of tools within different module sets that tries to cover every attack vector. Allowing you to quickly perform recon tasks and organize the results in one place. From OSINT to Recon, Exploitation, Post-Exploitation, OpSec, Threat Analysis, XSS, SQLinjection, Network Scanning, WebApp Analysis or DNS enumeration.. Sifter should be able to cover it all. | https://github.com/s1l3nt78/sifter | 255 | 81| 
 | 20201005T00:44:35Z | Library developed while solving the challenges at cryptopals.com | https://github.com/hallgrimur1471/cryptography_exploits | 0 | 0| 
-| 20201005T00:22:51Z | Go package that aids in binary analysis and exploitation | https://github.com/zznop/sploit | 21 | 1| 
 | 20201004T23:52:36Z | A Solid Resource for Windows RE and Binary Exploitation and what%s the difference with Linux Pwn and RE. | https://github.com/SmoothHacker/NoPressure | 0 | 0| 
 | 20201004T22:56:57Z | CTF framework and exploit development library | https://github.com/Gallopsled/pwntools | 7076 | 1288| 
 | 20201004T22:23:17Z | PwnXSS: Vulnerability (XSS) scanner exploit | https://github.com/pwn0sec/PwnXSS | 156 | 36| 
 | 20201004T22:20:31Z | AMWSCAN (Antimalware Scanner) is a php antimalware/antivirus scanner console script written in php for scan your project. This can work on php projects and a lot of others platform.  | https://github.com/marcocesarato/PHP-Antimalware-Scanner | 90 | 25| 
 | 20201004T21:53:42Z | Prep for AWAE collections of exploits & notes | https://github.com/latortuga71/AWAE-Prep-Exploits-Notes | 0 | 0| 
-| 20201004T21:37:50Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 7308 | 1204| 
 
 
 # backdoor on Github 推荐
