@@ -21,10 +21,10 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20201004T18:58:04Z | CVE-2020-1472 | Exploit Code for CVE-2020-1472 aka Zerologon | https://github.com/VoidSec/CVE-2020-1472 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 58 MINUTES 26 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20201004T16:18:47Z | CVE-2020-11651 | CVE-2020-11651&&CVE-2020-11652 EXP | https://github.com/heikanet/CVE-2020-11651-CVE-2020-11652-EXP | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 58 MINUTES 24 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201004T18:58:04Z | CVE-2020-1472 | Exploit Code for CVE-2020-1472 aka Zerologon | https://github.com/VoidSec/CVE-2020-1472 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 57 MINUTES 25 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201004T16:18:47Z | CVE-2020-11651 | CVE-2020-11651&&CVE-2020-11652 EXP | https://github.com/heikanet/CVE-2020-11651-CVE-2020-11652-EXP | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 57 MINUTES 24 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20201004T13:18:24Z | 未知编号 | 📝 learning notes about hacking : https://ctflag.org | https://github.com/CTFlag/CTFlag-book | 未查询到CVE信息| 
-| 20201004T02:25:31Z | CVE-2020-0796 | Scanner for CVE-2020-0796 - SMBv3 RCE | https://github.com/ollypwn/SMBGhost | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 58 MINUTES 21 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201004T02:25:31Z | CVE-2020-0796 | Scanner for CVE-2020-0796 - SMBv3 RCE | https://github.com/ollypwn/SMBGhost | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 57 MINUTES 22 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 
 
 # klee on Github 推荐
@@ -76,7 +76,6 @@
 | --- | --- | --- | --- | ---| 
 | 20201004T23:58:31Z | RcppDeepState, a simple way to fuzz test code in Rcpp packages | https://github.com/akhikolla/RcppDeepState | 0 | 0| 
 | 20201004T23:10:12Z | Null | https://github.com/bulenteroglu/fuzzy-telegram | 0 | 0| 
-| 20201004T21:58:50Z | The fuzzer afl++ is afl with community patches, AFLfast power schedules, qemu 3.1 upgrade + laf-intel support, MOpt mutators, InsTrim instrumentation, unicorn_mode, Redqueen and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 901 | 225| 
 | 20201004T21:45:57Z | FuzzBench - Fuzzer benchmarking as a service. | https://github.com/google/fuzzbench | 529 | 81| 
 | 20201004T19:12:43Z | Obiekt fuzzy zawiera pola i metody zbiorów rozmytych.  | https://github.com/sq5riv/fuzzy_ops | 0 | 0| 
 | 20201004T18:46:19Z | A Linux Kernel Module that implements a fast snapshot mechanism for fuzzing. | https://github.com/AFLplusplus/AFL-Snapshot-LKM | 85 | 10| 
@@ -84,6 +83,7 @@
 | 20201004T18:13:18Z | Null | https://github.com/break2make/fuzzing-tutorial | 1 | 0| 
 | 20201004T18:06:21Z | Null | https://github.com/davidmickens/fuzzy | 0 | 0| 
 | 20201004T17:14:44Z | no fuzz configurator | https://github.com/roxiness/configent | 0 | 0| 
+| 20201004T16:59:11Z | Fuzzer | https://github.com/ManuelBerrueta/berrfuzz | 0 | 0| 
 
 
 
