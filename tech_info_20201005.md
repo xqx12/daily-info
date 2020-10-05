@@ -17,9 +17,9 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20201005T11:33:31Z | CVE-2020-17382 | PoC exploits for CVE-2020-17382 | https://github.com/uf0o/CVE-2020-17382 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 11 MINUTES 30 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20201005T11:14:21Z | CVE-2020-8958 | A proof of concept for CVE-2020-8958 written in Python. | https://github.com/qurbat/gpon | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 11 MINUTES 27 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20201005T07:47:04Z | CVE-2020-1472 | POC for checking multiple hosts for Zerologon vulnerability | https://github.com/WiIs0n/Zerologon_CVE-2020-1472 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 11 MINUTES 33 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201005T11:33:31Z | CVE-2020-17382 | PoC exploits for CVE-2020-17382 | https://github.com/uf0o/CVE-2020-17382 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 10 MINUTES 30 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201005T11:14:21Z | CVE-2020-8958 | A proof of concept for CVE-2020-8958 written in Python. | https://github.com/qurbat/gpon | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 10 MINUTES 29 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201005T07:47:04Z | CVE-2020-1472 | POC for checking multiple hosts for Zerologon vulnerability | https://github.com/WiIs0n/Zerologon_CVE-2020-1472 | | 
 
 
 # klee on Github 推荐
@@ -62,6 +62,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20201005T12:49:26Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 27107 | 13332| 
 | 20201005T12:18:25Z | Null | https://github.com/WarNote/fuzzySearchTests | 0 | 0| 
 | 20201005T12:06:18Z | Null | https://github.com/AbhishekSinghKushwaha/Fuzzy-Clustering | 0 | 0| 
 | 20201005T11:32:00Z | FLUFFI (Fully Localized Utility For Fuzzing Instantaneously) - A distributed evolutionary binary fuzzer for pentesters | https://github.com/siemens/fluffi | 58 | 11| 
@@ -69,7 +70,6 @@
 | 20201005T11:14:35Z | Fast web fuzzer written in Go | https://github.com/ffuf/ffuf | 3079 | 353| 
 | 20201005T11:11:49Z | This repository contains my assignments and other course related contents for my disciplinary elective course at BITS Pilani | https://github.com/lakshya0904/BITS-F312-Neural-Networks-Fuzzy-Logic | 0 | 0| 
 | 20201005T11:10:31Z | Null | https://github.com/bulenteroglu/fuzzy-telegram | 0 | 0| 
-| 20201005T10:55:33Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 27106 | 13332| 
 | 20201005T10:34:32Z | Tools and workflows for fuzz testing | https://github.com/LeastAuthority/fleece | 0 | 0| 
 | 20201005T10:17:47Z | 111 | https://github.com/Yansmilesmile/fuzzy-disco | 0 | 0| 
 
