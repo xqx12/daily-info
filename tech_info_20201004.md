@@ -21,10 +21,10 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20201004T18:58:04Z | CVE-2020-1472 | Exploit Code for CVE-2020-1472 aka Zerologon | https://github.com/VoidSec/CVE-2020-1472 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 34 MINUTES 28 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20201004T16:18:47Z | CVE-2020-11651 | CVE-2020-11651&&CVE-2020-11652 EXP | https://github.com/heikanet/CVE-2020-11651-CVE-2020-11652-EXP | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 34 MINUTES 25 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201004T18:58:04Z | CVE-2020-1472 | Exploit Code for CVE-2020-1472 aka Zerologon | https://github.com/VoidSec/CVE-2020-1472 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 33 MINUTES 27 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201004T16:18:47Z | CVE-2020-11651 | CVE-2020-11651&&CVE-2020-11652 EXP | https://github.com/heikanet/CVE-2020-11651-CVE-2020-11652-EXP | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 33 MINUTES 25 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20201004T13:18:24Z | 未知编号 | 📝 learning notes about hacking : https://ctflag.org | https://github.com/CTFlag/CTFlag-book | 未查询到CVE信息| 
-| 20201004T02:25:31Z | CVE-2020-0796 | Scanner for CVE-2020-0796 - SMBv3 RCE | https://github.com/ollypwn/SMBGhost | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 34 MINUTES 23 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201004T02:25:31Z | CVE-2020-0796 | Scanner for CVE-2020-0796 - SMBv3 RCE | https://github.com/ollypwn/SMBGhost | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 33 MINUTES 22 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 
 
 # klee on Github 推荐
@@ -44,7 +44,6 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20201004T23:57:27Z | Go package that aids in binary analysis and exploitation | https://github.com/zznop/sploit | 20 | 1| 
 | 20201004T23:52:36Z | A Solid Resource for Windows RE and Binary Exploitation and what%s the difference with Linux Pwn and RE. | https://github.com/SmoothHacker/NoPressure | 0 | 0| 
 | 20201004T23:51:43Z | Library developed while solving the challenges at cryptopals.com | https://github.com/hallgrimur1471/cryptography_exploits | 0 | 0| 
 | 20201004T22:58:06Z | Sifter is a OSINT, recon & vulnerability scanner. It incorporates a plethara of tools within different module sets that tries to cover every attack vector. Allowing you to quickly perform recon tasks and organize the results in one place. From OSINT to Recon, Exploitation, Post-Exploitation, OpSec, Threat Analysis, XSS, SQLinjection, Network Scanning, WebApp Analysis or DNS enumeration.. Sifter should be able to cover it all. | https://github.com/s1l3nt78/sifter | 255 | 81| 
@@ -54,6 +53,7 @@
 | 20201004T21:53:42Z | Prep for AWAE collections of exploits & notes | https://github.com/latortuga71/AWAE-Prep-Exploits-Notes | 0 | 0| 
 | 20201004T21:37:50Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 7308 | 1204| 
 | 20201004T21:05:29Z | Unit 1: Basic Web Exploits | https://github.com/alethiometer/prework | 0 | 0| 
+| 20201004T21:00:30Z | proof of concepts for select binary exploitation techniques | https://github.com/juliancs101/pwn-pocs | 0 | 0| 
 
 
 # backdoor on Github 推荐
