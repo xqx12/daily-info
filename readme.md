@@ -17,11 +17,11 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20201006T11:37:29Z | CVE-2020-5902 | Exphub[漏洞利用脚本库] 包括Webloigc、Struts2、Tomcat、Nexus、Solr、Jboss、Drupal的漏洞利用脚本，最新添加CVE-2020-5902、CVE-2020-11444、CVE-2020-10204、CVE-2020-10199、CVE-2020-1938、CVE-2020-2551、CVE-2020-2555、CVE-2020-2883、CVE-2019-17558、CVE-2019-6340 | https://github.com/zhzyker/exphub | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 44 MINUTES 23 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20201006T10:32:07Z | CVE-2020-14293 | This repository holds the advisory, exploits and vulnerable software of the CVE-2020-14293 | https://github.com/patrickhener/CVE-2020-14293 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 44 MINUTES 33 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20201006T06:58:58Z | CVE-2020-1472 | Exploit Code for CVE-2020-1472 aka Zerologon | https://github.com/VoidSec/CVE-2020-1472 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 44 MINUTES 29 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201006T11:37:29Z | CVE-2020-5902 | Exphub[漏洞利用脚本库] 包括Webloigc、Struts2、Tomcat、Nexus、Solr、Jboss、Drupal的漏洞利用脚本，最新添加CVE-2020-5902、CVE-2020-11444、CVE-2020-10204、CVE-2020-10199、CVE-2020-1938、CVE-2020-2551、CVE-2020-2555、CVE-2020-2883、CVE-2019-17558、CVE-2019-6340 | https://github.com/zhzyker/exphub | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 43 MINUTES 12 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201006T10:32:07Z | CVE-2020-14293 | This repository holds the advisory, exploits and vulnerable software of the CVE-2020-14293 | https://github.com/patrickhener/CVE-2020-14293 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 43 MINUTES 26 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201006T06:58:58Z | CVE-2020-1472 | Exploit Code for CVE-2020-1472 aka Zerologon | https://github.com/VoidSec/CVE-2020-1472 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 43 MINUTES 21 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20201006T04:50:24Z | 未知编号 | CVE20206558 | https://github.com/MIAIONE/CVE20206558 | 未查询到CVE信息| 
-| 20201006T03:40:21Z | CVE-2020-7934 | Authenticated Stored XSS in LifeRay 7.2.0 GA1 via MyAccountPortlet executed by Search Results | https://github.com/3ndG4me/liferay-xss-7.2.1GA2-poc-report-CVE-2020-7934 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 44 MINUTES 22 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201006T03:40:21Z | CVE-2020-7934 | Authenticated Stored XSS in LifeRay 7.2.0 GA1 via MyAccountPortlet executed by Search Results | https://github.com/3ndG4me/liferay-xss-7.2.1GA2-poc-report-CVE-2020-7934 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 43 MINUTES 10 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 
 
 # klee on Github 推荐
@@ -64,6 +64,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20201006T12:17:24Z | Null | https://github.com/anoymous-authors/directed-compiler-fuzzing | 0 | 0| 
 | 20201006T11:53:42Z | Null | https://github.com/andrew-kudrenko/fuzzy-searcher | 0 | 0| 
 | 20201006T11:26:52Z | This repo is under process.. | https://github.com/themastersunil/Fuzzing | 1 | 0| 
 | 20201006T11:09:17Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 27125 | 13340| 
@@ -73,7 +74,6 @@
 | 20201006T08:11:33Z | Automatic SSRF fuzzer and exploitation tool | https://github.com/swisskyrepo/SSRFmap | 1195 | 245| 
 | 20201006T08:03:50Z | Null | https://github.com/demetrius-ford/mutation-fuzzer | 0 | 0| 
 | 20201006T07:54:45Z | Fuzzy finder for a collection of pdf files | https://github.com/MarioJim/fuzzy-pdf | 0 | 0| 
-| 20201006T07:42:03Z | Null | https://github.com/MStoykov/goja-regexp2-fuzzing | 0 | 0| 
 
 
 
