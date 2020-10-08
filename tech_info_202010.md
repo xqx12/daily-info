@@ -26,22 +26,22 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20201007T09:02:07Z | CVE-2020-5902 | Exphub[漏洞利用脚本库] 包括Webloigc、Struts2、Tomcat、Nexus、Solr、Jboss、Drupal的漏洞利用脚本，最新添加CVE-2020-5902、CVE-2020-11444、CVE-2020-10204、CVE-2020-10199、CVE-2020-1938、CVE-2020-2551、CVE-2020-2555、CVE-2020-2883、CVE-2019-17558、CVE-2019-6340 | https://github.com/zhzyker/exphub | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  09 HOURS 59 MINUTES 51 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20201007T08:09:12Z | CVE-2020-0688 | Quick tool for checking CVE-2020-0688 on multiple hosts with a non-intrusive method. | https://github.com/onSec-fr/CVE-2020-0688-Scanner | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  09 HOURS 59 MINUTES 50 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20201007T01:33:36Z | CVE-2020-17382 | PoC exploits for CVE-2020-17382 | https://github.com/uf0o/CVE-2020-17382 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  09 HOURS 59 MINUTES 58 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20201006T16:46:51Z | CVE-2020-1472 | Exploit Code for CVE-2020-1472 aka Zerologon | https://github.com/VoidSec/CVE-2020-1472 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  09 HOURS 59 MINUTES 57 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20201006T10:32:07Z | CVE-2020-14293 | This repository holds the advisory, exploits and vulnerable software of the CVE-2020-14293 | https://github.com/patrickhener/CVE-2020-14293 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 00 MINUTES 02 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201007T20:37:42Z | CVE-2020-1472 | Exploit Code for CVE-2020-1472 aka Zerologon | https://github.com/VoidSec/CVE-2020-1472 | 当攻击者使用Netlogon远程协议（MS-NRPC）（又称为“ Netlogon特权提升漏洞”）建立与域控制器的易受攻击的Netlogon安全通道连接时，将存在特权提升漏洞。| 
+| 20201007T09:02:07Z | CVE-2020-5902 | Exphub[漏洞利用脚本库] 包括Webloigc、Struts2、Tomcat、Nexus、Solr、Jboss、Drupal的漏洞利用脚本，最新添加CVE-2020-5902、CVE-2020-11444、CVE-2020-10204、CVE-2020-10199、CVE-2020-1938、CVE-2020-2551、CVE-2020-2555、CVE-2020-2883、CVE-2019-17558、CVE-2019-6340 | https://github.com/zhzyker/exphub | 在BIG-IP版本15.0.0-15.1.0.3、14.1.0-14.1.2.5、13.1.0-13.1.3.3、12.1.0-12.1.5.1和11.6.1-11.6.5.1中，流量管理用户接口（TMUI），也称为“配置”实用程序，在未公开的页面中具有远程执行代码（RCE）漏洞。| 
+| 20201007T08:09:12Z | CVE-2020-0688 | Quick tool for checking CVE-2020-0688 on multiple hosts with a non-intrusive method. | https://github.com/onSec-fr/CVE-2020-0688-Scanner | 当Microsoft Exchange软件无法正确处理内存中的对象（也称为“ Microsoft Exchange内存损坏漏洞”）时，将存在一个远程执行代码漏洞。| 
+| 20201007T01:33:36Z | CVE-2020-17382 | PoC exploits for CVE-2020-17382 | https://github.com/uf0o/CVE-2020-17382 | MSI AmbientLink MsIo64驱动程序1.0.0.8具有缓冲区溢出（0x80102040、0x80102044、0x80102050和0x80102054）。| 
+| 20201006T10:32:07Z | CVE-2020-14293 | This repository holds the advisory, exploits and vulnerable software of the CVE-2020-14293 | https://github.com/patrickhener/CVE-2020-14293 | Secudos DOMOS 5.8中的conf_datetime允许远程攻击者通过zone字段中的shell元字符（从Web界面获取）以root用户身份执行任意命令。| 
 | 20201006T04:50:24Z | 未知编号 | CVE20206558 | https://github.com/MIAIONE/CVE20206558 | 未查询到CVE信息| 
 | 20201006T03:40:21Z | CVE-2020-7934 | Authenticated Stored XSS in LifeRay 7.2.0 GA1 via MyAccountPortlet executed by Search Results | https://github.com/3ndG4me/liferay-xss-7.2.1GA2-poc-report-CVE-2020-7934 | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
-| 20201005T15:23:40Z | CVE-2020-26061 | CVE-2020-26061 - ClickStudios Passwordstate Password Reset Portal | https://github.com/missing0x00/CVE-2020-26061 | | 
-| 20201005T14:07:16Z | CVE-2020-0796 | cobaltstrike cna for CVE-2020-0796 | https://github.com/aloswoya/CVE-2020-0796-cobaltstrike-cna | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 00 MINUTES 00 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20201005T11:14:21Z | CVE-2020-8958 | A proof of concept for CVE-2020-8958 written in Python. | https://github.com/qurbat/gpon | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  09 HOURS 59 MINUTES 55 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201005T15:23:40Z | CVE-2020-26061 | CVE-2020-26061 - ClickStudios Passwordstate Password Reset Portal | https://github.com/missing0x00/CVE-2020-26061 | 版本8501之前的ClickStudios Passwordstate密码重置门户受到身份验证绕过漏洞的影响。 ResetPassword函数不会验证用户是否已使用安全性问题成功认证。未经身份验证的远程攻击者可以将精心制作的HTTP请求发送到/ account / ResetPassword页，以为任何注册用户设置新密码。| 
+| 20201005T14:07:16Z | CVE-2020-0796 | cobaltstrike cna for CVE-2020-0796 | https://github.com/aloswoya/CVE-2020-0796-cobaltstrike-cna | Microsoft服务器消息块3.1.1（SMBv3）协议处理某些请求的方式中存在一个远程执行代码漏洞，也称为“ Windows SMBv3客户端/服务器远程执行代码漏洞”。| 
+| 20201005T11:14:21Z | CVE-2020-8958 | A proof of concept for CVE-2020-8958 written in Python. | https://github.com/qurbat/gpon | 广州1GE ONU V2801RW 1.9.1-181203至2.9.0-181024和V2804RGW 1.9.1-181203至2.9.0-181024设备允许远程攻击者通过boaform / admin / form中的Shell元字符执行任意OS命令Ping目标IP地址领域。| 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20201007T11:55:32Z | RVT is a collection of tools/libraries to support both static and dynamic verification of Rust programs. | https://github.com/project-oak/rust-verification-tools | 88 | 4| 
+| 20201007T16:29:44Z | RVT is a collection of tools/libraries to support both static and dynamic verification of Rust programs. | https://github.com/project-oak/rust-verification-tools | 88 | 4| 
 | 20201007T04:38:54Z | Urban Evidence Based Policy (SPPA667) | https://github.com/KLeeDE/PUS2020_KLee | 0 | 1| 
 | 20201006T16:59:45Z | Setup for developing in node through fully containerized services. | https://github.com/kumquatexpress/kleen-node | 0 | 0| 
 | 20201006T14:22:58Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1516 | 463| 
@@ -62,46 +62,46 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20201007T12:53:50Z | Exploit Manager for Challenges | https://github.com/Omnicrist/exploit_manager | 0 | 0| 
-| 20201007T12:50:49Z | The official Exploit Database repository | https://github.com/offensive-security/exploitdb | 5560 | 1593| 
-| 20201007T12:50:29Z | application d%analyse de la trésorerie des exploitations agricoles tunisiennes | https://github.com/agrarian-systems-consulting/endagri-front | 0 | 0| 
-| 20201007T12:44:19Z | notes about 🔍 Reverse Engineering and 🔥 Exploit Development | https://github.com/bmedicke/REED | 2 | 1| 
-| 20201007T12:31:03Z | Null | https://github.com/quentin452/Cats-Exploitz-HUB | 0 | 1| 
-| 20201007T11:50:12Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 3072 | 469| 
-| 20201007T11:35:11Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 7320 | 1206| 
-| 20201007T10:57:39Z | A container analysis and exploitation tool for pentesters and engineers. | https://github.com/brompwnie/botb | 330 | 32| 
-| 20201007T10:55:00Z | Exploit code for the my InfoSec Writeups at https://pwnokefalos.eu | https://github.com/astasinos/Infosec-Writeups | 2 | 1| 
-| 20201007T09:28:17Z | PwnXSS: Vulnerability (XSS) scanner exploit | https://github.com/pwn0sec/PwnXSS | 157 | 36| 
+| 20201007T22:24:57Z | Null | https://github.com/quentin452/Cats-Exploitz-HUB | 0 | 1| 
+| 20201007T22:24:21Z | An attack/exploit Detector that utilizes Polymorphism and Diversity | https://github.com/polyverse/zerotect | 14 | 1| 
+| 20201007T22:06:11Z | Extraction et exploitation des données de conversations Messenger | https://github.com/adrien-chinour/statistiques-messenger | 0 | 0| 
+| 20201007T21:05:20Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 7323 | 1207| 
+| 20201007T21:04:44Z | This repo will hold my WriteUps and solutions for Hack the Box, TryHackMe, Vulnhub, exploit challenges, pwnables, crackmes, etc. | https://github.com/chryssfish/WriteUps | 1 | 0| 
+| 20201007T20:35:37Z | notes about 🔍 Reverse Engineering and 🔥 Exploit Development | https://github.com/bmedicke/REED | 2 | 1| 
+| 20201007T20:34:14Z | post_exploitation | https://github.com/dar3k93/post_exploitation | 1 | 0| 
+| 20201007T20:32:15Z | AMWSCAN (Antimalware Scanner) is a php antimalware/antivirus scanner console script written in php for scan your project. This can work on php projects and a lot of others platform.  | https://github.com/marcocesarato/PHP-Antimalware-Scanner | 91 | 25| 
+| 20201007T20:26:52Z | Aktaion is a machine learning open source & active defense (orchestration) prototype. The tool focuses on the detection of exploits based on machine learning techniques, independent of static-based signatures. | https://github.com/jzadeh/aktaion2 | 39 | 16| 
+| 20201007T20:20:18Z | Multi-library tool, innitially developed for binary exploitation. | https://github.com/mickdec/Esper | 0 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20201007T12:52:05Z | Null | https://github.com/marychev-akvelon/xamarin-demoapp-backdoor | 0 | 0| 
-| 20201007T09:36:57Z | C backdoor with shell and tftp servers, specifically meant to run on Linux routers. | https://github.com/ykrinsky/Shell-Your-Router | 0 | 0| 
-| 20201007T05:15:13Z | Null | https://github.com/sac103-boop/backdoor | 0 | 0| 
-| 20201007T05:14:52Z | Null | https://github.com/rabbitx1337/backdoor | 0 | 0| 
-| 20201007T04:41:57Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 65 | 8| 
-| 20201007T04:38:07Z | Tool to find potential backdoor/security holes in your endpoint | https://github.com/subasgit/backdoorfinder | 1 | 0| 
-| 20201007T01:47:48Z | A simple embedded Linux backdoor. | https://github.com/nccgroup/thetick | 170 | 26| 
-| 20201007T01:42:18Z | An Android library that opens a persistent binary SMS backdoor with the ability to define your own remote command handler. | https://github.com/evilthreads669966/SmsBackdoor | 0 | 0| 
-| 20201007T01:24:59Z | Null | https://github.com/dheeraj7596/NlpBackdoor | 0 | 0| 
-| 20201006T22:59:10Z | AMWSCAN (Antimalware Scanner) is a php antimalware/antivirus scanner console script written in php for scan your project. This can work on php projects and a lot of others platform.  | https://github.com/marcocesarato/PHP-Antimalware-Scanner | 90 | 25| 
+| 20201007T23:42:09Z | A sample app to demonstrate how to create Xamarin UITests using the Page Object architecture, Backdoor Methods and App Links (aka Deep Linking) | https://github.com/brminnick/UITestSampleApp | 29 | 24| 
+| 20201007T22:01:54Z | Null | https://github.com/sac103-boop/backdoor | 0 | 0| 
+| 20201007T21:54:13Z | Some malware samples or suspicious files I found and their reports. | https://github.com/CYB3RMX/MalwareAnalysis101 | 8 | 0| 
+| 20201007T20:32:15Z | AMWSCAN (Antimalware Scanner) is a php antimalware/antivirus scanner console script written in php for scan your project. This can work on php projects and a lot of others platform.  | https://github.com/marcocesarato/PHP-Antimalware-Scanner | 91 | 25| 
+| 20201007T19:20:30Z | A Discord reverse shell or backdoor  | https://github.com/NullByte75/DiscordReverseShell | 1 | 0| 
+| 20201007T17:07:48Z | Simple backdoor written in Rust based on a Discord bots. | https://github.com/DmitrijVC/DataCargo | 1 | 0| 
+| 20201007T17:01:57Z | Null | https://github.com/dheeraj7596/NlpBackdoor | 0 | 0| 
+| 20201007T16:01:13Z | Only for educational purposes | https://github.com/Levi-python/HHbackdoor-V0.3 | 1 | 0| 
+| 20201007T15:04:55Z | Null | https://github.com/marychev-akvelon/xamarin-demoapp-backdoor | 0 | 0| 
+| 20201007T14:55:26Z | A pure-Rust library for VMware host-guest protocol (%VMXh backdoor%) | https://github.com/lucab/vmw_backdoor-rs | 2 | 0| 
 
 
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20201007T12:53:11Z | Fork of the hal-fuzz repository (%HALucinator: Firmware Re-Hosting through Abstraction Layer Emulation%) | https://github.com/daniele122008/hal-fuzz-extra | 0 | 0| 
-| 20201007T12:48:33Z | Null | https://github.com/brunnodev/fuzzy-trader | 0 | 0| 
-| 20201007T12:42:14Z | Fuzzing assignment group 12 | https://github.com/StotoV/SS.Fuzzing | 0 | 0| 
-| 20201007T12:38:03Z | Null | https://github.com/anoymous-authors/directed-compiler-fuzzing | 0 | 0| 
-| 20201007T12:32:06Z | FormatFuzzer is a framework for high-efficiency, high-quality generation and parsing of binary inputs. | https://github.com/uds-se/FormatFuzzer | 64 | 4| 
-| 20201007T12:28:52Z | AFL++ as a library: gives you all the tools necessary to craft the best fuzzer for your targets with ease! | https://github.com/AFLplusplus/LibAFL | 86 | 4| 
-| 20201007T12:13:32Z | The Art, Science, and Engineering of Fuzzing: A Survey | https://github.com/SoftSec-KAIST/Fuzzing-Survey | 75 | 10| 
-| 20201007T11:42:22Z | A fuzzy parser for C/C++ that creates semantic code property graphs | https://github.com/ShiftLeftSecurity/fuzzyc2cpg | 37 | 11| 
-| 20201007T11:12:56Z | The fuzzer afl++ is afl with community patches, AFLfast power schedules, qemu 3.1 upgrade + laf-intel support, MOpt mutators, InsTrim instrumentation, unicorn_mode, Redqueen and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 905 | 225| 
-| 20201007T10:59:29Z | Simple fuzzer for OpenAPI 3 specification based APIs | https://github.com/vwt-digital/openapi3-fuzzer | 2 | 0| 
+| 20201007T23:39:06Z | Null | https://github.com/noloerino/eye-fuzz | 0 | 0| 
+| 20201007T23:25:27Z | VMI Kernel Fuzzer for Xen Project - VM forking, VMI & AFL integration demo | https://github.com/intel/kernel-fuzzer-for-xen-project | 152 | 23| 
+| 20201007T23:23:03Z | fuzzy matching everywhere | https://github.com/amirrezaask/fuzzy.nvim | 0 | 0| 
+| 20201007T22:18:24Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2127 | 95| 
+| 20201007T22:14:07Z | Null | https://github.com/lazygrey/fuzzing_with_cmaes | 0 | 1| 
+| 20201007T22:08:06Z | Command line helpers for fuzzing | https://github.com/rust-fuzz/cargo-fuzz | 664 | 50| 
+| 20201007T22:02:32Z | Null | https://github.com/googleinterns/hw-fuzzing | 0 | 0| 
+| 20201007T21:59:07Z | Null | https://github.com/brunnodev/fuzzy-trader | 0 | 0| 
+| 20201007T21:40:48Z | Contains code for fuzz testing a Beaglebone Green running a buggy server. | https://github.com/tjzhang1/bbg-fuzz-testing | 0 | 0| 
+| 20201007T21:30:58Z | repo of scripts | https://github.com/johanvargas/fuzzy-projects | 0 | 0| 
 
 
 
