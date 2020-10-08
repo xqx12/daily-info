@@ -17,7 +17,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20201008T09:32:25Z | CVE-2020-5902 | Exphub[漏洞利用脚本库] 包括Webloigc、Struts2、Tomcat、Nexus、Solr、Jboss、Drupal的漏洞利用脚本，最新添加CVE-2020-5902、CVE-2020-11444、CVE-2020-10204、CVE-2020-10199、CVE-2020-1938、CVE-2020-2551、CVE-2020-2555、CVE-2020-2883、CVE-2019-17558、CVE-2019-6340 | https://github.com/zhzyker/exphub | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 28 MINUTES 22 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201008T09:32:25Z | CVE-2020-5902 | Exphub[漏洞利用脚本库] 包括Webloigc、Struts2、Tomcat、Nexus、Solr、Jboss、Drupal的漏洞利用脚本，最新添加CVE-2020-5902、CVE-2020-11444、CVE-2020-10204、CVE-2020-10199、CVE-2020-1938、CVE-2020-2551、CVE-2020-2555、CVE-2020-2883、CVE-2019-17558、CVE-2019-6340 | https://github.com/zhzyker/exphub | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 27 MINUTES 23 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20201008T01:43:04Z | CVE-2020-7934 | Authenticated Stored XSS in LifeRay 7.2.0 GA1 via MyAccountPortlet executed by Search Results | https://github.com/3ndG4me/liferay-xss-7.2.1GA2-poc-report-CVE-2020-7934 | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
 
 
@@ -36,6 +36,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20201008T12:32:39Z | The official Exploit Database repository | https://github.com/offensive-security/exploitdb | 5567 | 1594| 
 | 20201008T12:24:12Z | Blog! | https://github.com/nonetype/nonetype.github.io | 0 | 0| 
 | 20201008T12:01:32Z | A MATLAB like user friendly scientific programming environment that uses Groovy as a scripting engine together with JShell of Java 9+ and exploits a large number of Java scientific libraries. Also, JShellLab is a similar environment that emphasizes on  Shell based scripting: https://github.com/papdim/JShellLab | https://github.com/sterglee/GroovyLab | 40 | 3| 
 | 20201008T11:57:09Z | roblox exploit client using EasyExploit written in C# via Visual Studio%s Windows Form Applications with .NET Framework 4.8 | https://github.com/joswinjohn/Sploiter | 0 | 0| 
@@ -45,7 +46,6 @@
 | 20201008T11:16:15Z | Agent meant to be deployed on compromised machines to connect back to Apollo, a post-exploitation tool for managing, enumerating and pivoting on compromised machines. | https://github.com/thecoderstudio/apollo-agent | 0 | 0| 
 | 20201008T10:50:36Z | These exploits are made by AJAY (ME) | https://github.com/TamilHackz/i-make-exploits | 1 | 1| 
 | 20201008T10:46:32Z | Writeups, scripts and solutions for CTFs, Hack the Box, Vulnhub, exploit challenges, pwnables, crackmes, etc. Anything goes. | https://github.com/alichtman/writeups | 4 | 1| 
-| 20201008T10:44:03Z | exploit-exam | https://github.com/vapvin/exploit-exam | 0 | 0| 
 
 
 # backdoor on Github 推荐
