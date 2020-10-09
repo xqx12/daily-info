@@ -17,8 +17,8 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20201008T20:27:47Z | CVE-2020-1472 | Exploit Code for CVE-2020-1472 aka Zerologon | https://github.com/VoidSec/CVE-2020-1472 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 02 MINUTES 27 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20201008T16:30:51Z | CVE-2020-5902 | Exphub[漏洞利用脚本库] 包括Webloigc、Struts2、Tomcat、Nexus、Solr、Jboss、Drupal的漏洞利用脚本，最新添加CVE-2020-5902、CVE-2020-11444、CVE-2020-10204、CVE-2020-10199、CVE-2020-1938、CVE-2020-2551、CVE-2020-2555、CVE-2020-2883、CVE-2019-17558、CVE-2019-6340 | https://github.com/zhzyker/exphub | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 02 MINUTES 21 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201008T20:27:47Z | CVE-2020-1472 | Exploit Code for CVE-2020-1472 aka Zerologon | https://github.com/VoidSec/CVE-2020-1472 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 00 MINUTES 29 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201008T16:30:51Z | CVE-2020-5902 | Exphub[漏洞利用脚本库] 包括Webloigc、Struts2、Tomcat、Nexus、Solr、Jboss、Drupal的漏洞利用脚本，最新添加CVE-2020-5902、CVE-2020-11444、CVE-2020-10204、CVE-2020-10199、CVE-2020-1938、CVE-2020-2551、CVE-2020-2555、CVE-2020-2883、CVE-2019-17558、CVE-2019-6340 | https://github.com/zhzyker/exphub | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 00 MINUTES 23 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20201008T15:43:15Z | CVE-2020-15169 | Null | https://github.com/glasses618/CVE-2020-15169 | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
 | 20201008T13:03:10Z | CVE-2020-24765 | Null | https://github.com/trump88/CVE-2020-24765 | 未查询到CVE信息| 
 | 20201008T01:43:04Z | CVE-2020-7934 | Authenticated Stored XSS in LifeRay 7.2.0 GA1 via MyAccountPortlet executed by Search Results | https://github.com/3ndG4me/liferay-xss-7.2.1GA2-poc-report-CVE-2020-7934 | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
@@ -76,10 +76,10 @@
 | 20201008T22:52:08Z | Null | https://github.com/googleinterns/hw-fuzzing | 0 | 0| 
 | 20201008T22:46:41Z | FuzzBench - Fuzzer benchmarking as a service. | https://github.com/google/fuzzbench | 530 | 81| 
 | 20201008T22:45:57Z | RcppDeepState, a simple way to fuzz test code in Rcpp packages | https://github.com/akhikolla/RcppDeepState | 0 | 0| 
-| 20201008T22:36:16Z | 御剑目录扫描专业版v1.0，一款简单实用的命令行网站目录扫描工具，支持UA自定义、假404自动过滤、扫描限速、fuzz和自定义字典、字典变量等功能。 | https://github.com/foryujian/yjdirscan | 34 | 8| 
 | 20201008T22:02:50Z | A TCP/UDP based network daemon fuzzer | https://github.com/denandz/fuzzotron | 258 | 55| 
 | 20201008T22:00:56Z | Personal website of Laurence Hughes | https://github.com/fuzzylogicxx/fuzzylogic | 4 | 1| 
 | 20201008T21:58:41Z | Benchmarking different fuzzy search libraries | https://github.com/Samuel-Lewis/fuzzy-benchmarking | 0 | 0| 
+| 20201008T21:14:06Z | Null | https://github.com/aidanoleary/FuzzyStringMatching | 0 | 0| 
 
 
 

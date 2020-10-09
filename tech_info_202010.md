@@ -26,16 +26,16 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20201008T20:27:47Z | CVE-2020-1472 | Exploit Code for CVE-2020-1472 aka Zerologon | https://github.com/VoidSec/CVE-2020-1472 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 02 MINUTES 27 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20201008T16:30:51Z | CVE-2020-5902 | Exphub[漏洞利用脚本库] 包括Webloigc、Struts2、Tomcat、Nexus、Solr、Jboss、Drupal的漏洞利用脚本，最新添加CVE-2020-5902、CVE-2020-11444、CVE-2020-10204、CVE-2020-10199、CVE-2020-1938、CVE-2020-2551、CVE-2020-2555、CVE-2020-2883、CVE-2019-17558、CVE-2019-6340 | https://github.com/zhzyker/exphub | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 02 MINUTES 21 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201008T20:27:47Z | CVE-2020-1472 | Exploit Code for CVE-2020-1472 aka Zerologon | https://github.com/VoidSec/CVE-2020-1472 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 00 MINUTES 29 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201008T16:30:51Z | CVE-2020-5902 | Exphub[漏洞利用脚本库] 包括Webloigc、Struts2、Tomcat、Nexus、Solr、Jboss、Drupal的漏洞利用脚本，最新添加CVE-2020-5902、CVE-2020-11444、CVE-2020-10204、CVE-2020-10199、CVE-2020-1938、CVE-2020-2551、CVE-2020-2555、CVE-2020-2883、CVE-2019-17558、CVE-2019-6340 | https://github.com/zhzyker/exphub | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 00 MINUTES 23 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20201008T15:43:15Z | CVE-2020-15169 | Null | https://github.com/glasses618/CVE-2020-15169 | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
 | 20201008T13:03:10Z | CVE-2020-24765 | Null | https://github.com/trump88/CVE-2020-24765 | 未查询到CVE信息| 
 | 20201008T01:43:04Z | CVE-2020-7934 | Authenticated Stored XSS in LifeRay 7.2.0 GA1 via MyAccountPortlet executed by Search Results | https://github.com/3ndG4me/liferay-xss-7.2.1GA2-poc-report-CVE-2020-7934 | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
-| 20201007T08:09:12Z | CVE-2020-0688 | Quick tool for checking CVE-2020-0688 on multiple hosts with a non-intrusive method. | https://github.com/onSec-fr/CVE-2020-0688-Scanner | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 02 MINUTES 20 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20201007T01:33:36Z | CVE-2020-17382 | PoC exploits for CVE-2020-17382 | https://github.com/uf0o/CVE-2020-17382 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 02 MINUTES 28 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20201006T10:32:07Z | CVE-2020-14293 | This repository holds the advisory, exploits and vulnerable software of the CVE-2020-14293 | https://github.com/patrickhener/CVE-2020-14293 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 02 MINUTES 30 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201007T08:09:12Z | CVE-2020-0688 | Quick tool for checking CVE-2020-0688 on multiple hosts with a non-intrusive method. | https://github.com/onSec-fr/CVE-2020-0688-Scanner | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 00 MINUTES 22 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201007T01:33:36Z | CVE-2020-17382 | PoC exploits for CVE-2020-17382 | https://github.com/uf0o/CVE-2020-17382 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 00 MINUTES 30 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201006T10:32:07Z | CVE-2020-14293 | This repository holds the advisory, exploits and vulnerable software of the CVE-2020-14293 | https://github.com/patrickhener/CVE-2020-14293 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 00 MINUTES 32 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20201006T04:50:24Z | 未知编号 | CVE20206558 | https://github.com/MIAIONE/CVE20206558 | 未查询到CVE信息| 
-| 20201005T15:23:40Z | CVE-2020-26061 | CVE-2020-26061 - ClickStudios Passwordstate Password Reset Portal | https://github.com/missing0x00/CVE-2020-26061 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 02 MINUTES 36 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201005T15:23:40Z | CVE-2020-26061 | CVE-2020-26061 - ClickStudios Passwordstate Password Reset Portal | https://github.com/missing0x00/CVE-2020-26061 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 59 MINUTES 37 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 
 
 # klee on Github 推荐
@@ -62,6 +62,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20201009T00:59:03Z | Open Source Roblox Exploit | https://github.com/Vyperium-Group/Vyperium-Lite-Exploit | 2 | 0| 
 | 20201009T00:48:34Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 5 | 3| 
 | 20201009T00:40:07Z | Vulnerable server used for learning software exploitation | https://github.com/stephenbradshaw/vulnserver | 381 | 132| 
 | 20201009T00:14:43Z | Null | https://github.com/quentin452/Cats-Exploitz-HUB | 0 | 1| 
@@ -71,7 +72,6 @@
 | 20201008T20:35:12Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 7327 | 1207| 
 | 20201008T19:53:05Z | Exploits nested.parallel and nested.optimize to tune neuronal cell models | https://github.com/neurosutras/optimize_cells | 1 | 1| 
 | 20201008T19:42:41Z | Exploits project Hacking Command Center | https://github.com/chacka0101/exploits | 0 | 1| 
-| 20201008T19:36:45Z | Bot/Exploitation Developer Enviroment | https://github.com/J4ck3LSyN/Al13N | 5 | 0| 
 
 
 # backdoor on Github 推荐
@@ -92,6 +92,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20201009T01:00:18Z | 御剑目录扫描专业版v1.0，一款简单实用的命令行网站目录扫描工具，支持UA自定义、假404自动过滤、扫描限速、fuzz和自定义字典、字典变量等功能。 | https://github.com/foryujian/yjdirscan | 35 | 8| 
 | 20201009T00:43:05Z | fuzzy matching everywhere | https://github.com/amirrezaask/fuzzy.nvim | 1 | 0| 
 | 20201009T00:16:56Z | This tool uses fzf(1)-like fuzzy-finder to do partial or fuzzy search of Kubernetes resources. Instead of specifying full resource names to kubectl commands, you can choose them from an interactive list that you can filter by typing a few characters. | https://github.com/d-kuro/kubectl-fuzzy | 48 | 4| 
 | 20201008T23:56:14Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2126 | 95| 
@@ -100,7 +101,6 @@
 | 20201008T22:52:08Z | Null | https://github.com/googleinterns/hw-fuzzing | 0 | 0| 
 | 20201008T22:46:41Z | FuzzBench - Fuzzer benchmarking as a service. | https://github.com/google/fuzzbench | 530 | 81| 
 | 20201008T22:45:57Z | RcppDeepState, a simple way to fuzz test code in Rcpp packages | https://github.com/akhikolla/RcppDeepState | 0 | 0| 
-| 20201008T22:36:16Z | 御剑目录扫描专业版v1.0，一款简单实用的命令行网站目录扫描工具，支持UA自定义、假404自动过滤、扫描限速、fuzz和自定义字典、字典变量等功能。 | https://github.com/foryujian/yjdirscan | 34 | 8| 
 | 20201008T22:02:50Z | A TCP/UDP based network daemon fuzzer | https://github.com/denandz/fuzzotron | 258 | 55| 
 
 
