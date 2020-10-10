@@ -26,15 +26,15 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20201009T19:00:14Z | CVE-2020-1472 | POC for checking multiple hosts for Zerologon vulnerability | https://github.com/WiIs0n/Zerologon_CVE-2020-1472 | 当攻击者使用Netlogon远程协议（MS-NRPC）（又称为“ Netlogon特权提升漏洞”）建立与域控制器的易受攻击的Netlogon安全通道连接时，将存在特权提升漏洞。| 
+| 20201009T19:00:14Z | CVE-2020-1472 | POC for checking multiple hosts for Zerologon vulnerability | https://github.com/WiIs0n/Zerologon_CVE-2020-1472 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 57 MINUTES 23 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20201009T16:39:56Z | CVE-2020-15227 | CVE-2020-15227 exploit | https://github.com/Langriklol/CVE-2020-15227 | Nette版本2.0.19、2.1.13、2.2.10、2.3.14、2.4.16、3.0.6之前的版本很容易受到代码注入攻击，方法是将特殊格式的参数传递给URL，这有可能导致RCE。 Nette是一个PHP / Composer MVC框架。| 
 | 20201009T12:35:28Z | CVE-2020-5248 | Proof of Concept (PoC) for CVE-2020-5248. | https://github.com/devious-way/CVE-2020-5248 | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
 | 20201009T10:02:33Z | CVE-2020-5902 | Exphub[漏洞利用脚本库] 包括Webloigc、Struts2、Tomcat、Nexus、Solr、Jboss、Drupal的漏洞利用脚本，最新添加CVE-2020-5902、CVE-2020-11444、CVE-2020-10204、CVE-2020-10199、CVE-2020-1938、CVE-2020-2551、CVE-2020-2555、CVE-2020-2883、CVE-2019-17558、CVE-2019-6340 | https://github.com/zhzyker/exphub | 在BIG-IP版本15.0.0-15.1.0.3、14.1.0-14.1.2.5、13.1.0-13.1.3.3、12.1.0-12.1.5.1和11.6.1-11.6.5.1中，流量管理用户接口（TMUI），也称为“配置”实用程序，在未公开的页面中具有远程执行代码（RCE）漏洞。| 
 | 20201009T09:30:51Z | CVE-2020-25790 | Typesetter CMS文件上传漏洞环境 | https://github.com/7Mitu/CVE-2020-25790 | Typesetter CMS 5.x到5.1允许管理员通过ZIP存档中的.php文件上传并执行任意PHP代码。注意：供应商对本报告的重要性提出异议，因为“管理员被认为是可信赖的”；但是，该行为“与我们的安全策略矛盾”，并且在5.2中已修复。| 
-| 20201009T05:00:30Z | CVE-2020-1472 | Exploit Code for CVE-2020-1472 aka Zerologon | https://github.com/VoidSec/CVE-2020-1472 | 当攻击者使用Netlogon远程协议（MS-NRPC）（又称为“ Netlogon特权提升漏洞”）建立与域控制器的易受攻击的Netlogon安全通道连接时，将存在特权提升漏洞。| 
+| 20201009T05:00:30Z | CVE-2020-1472 | Exploit Code for CVE-2020-1472 aka Zerologon | https://github.com/VoidSec/CVE-2020-1472 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 57 MINUTES 20 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20201009T03:51:14Z | CVE-2020-14955 | Jiangmin | https://github.com/y5s5k5/CVE-2020-14955 | 在江民防病毒 16.0.13.129 中，驱动程序文件 （KVFG.sys） 允许本地用户导致拒绝服务 （BSOD） 或可能因为未验证 IOCtl 0x220440 的输入值而产生未指定的其他影响。| 
 | 20201009T02:57:03Z | CVE-2020-17382 | PoC exploits for CVE-2020-17382 | https://github.com/uf0o/CVE-2020-17382 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 00 MINUTES 25 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20201008T15:43:15Z | CVE-2020-15169 | Null | https://github.com/glasses618/CVE-2020-15169 | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
+| 20201008T15:43:15Z | CVE-2020-15169 | Null | https://github.com/glasses618/CVE-2020-15169 | | 
 | 20201008T13:03:10Z | CVE-2020-24765 | Null | https://github.com/trump88/CVE-2020-24765 | 未查询到CVE信息| 
 
 
