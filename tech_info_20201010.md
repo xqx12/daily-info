@@ -17,7 +17,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20201010T22:15:54Z | CVE-2020-1472 | Exploit Code for CVE-2020-1472 aka Zerologon | https://github.com/VoidSec/CVE-2020-1472 | | 
+| 20201010T22:15:54Z | CVE-2020-1472 | Exploit Code for CVE-2020-1472 aka Zerologon | https://github.com/VoidSec/CVE-2020-1472 | 当攻击者使用Netlogon远程协议（MS-NRPC）（又称为“ Netlogon特权提升漏洞”）建立与域控制器的易受攻击的Netlogon安全通道连接时，将存在特权提升漏洞。| 
 | 20201010T21:30:04Z | CVE-2020-15227 | CVE-2020-15227 exploit | https://github.com/hu4wufu/CVE-2020-15227 | Nette版本2.0.19、2.1.13、2.2.10、2.3.14、2.4.16、3.0.6之前的版本很容易受到代码注入攻击，方法是将特殊格式的参数传递给URL，这有可能导致RCE。 Nette是一个PHP / Composer MVC框架。| 
 | 20201010T17:19:53Z | CVE-2020-3452 | Just basic scanner abusing CVE-2020-3452 to enumerate the standard files accessible in the Web Directory of the CISCO ASA applicances. | https://github.com/3ndG4me/CVE-2020-3452-Exploit | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
 | 20201010T09:51:10Z | 未知编号 | Null | https://github.com/Ken-Abruzzi/cve_2020_0688 | 未查询到CVE信息| 
@@ -64,16 +64,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20201010T12:51:09Z | BITS Y3S1 DEL | https://github.com/Karthik-Sujit/Neural-Networks-and-Fuzzy-Logic | 0 | 0| 
-| 20201010T12:23:45Z | 御剑目录扫描专业版，简单实用的命令行网站目录扫描工具，支持爬虫、fuzz、自定义字典、字典变量、UA修改、假404自动过滤、扫描控速等功能。 | https://github.com/foryujian/yjdirscan | 63 | 15| 
-| 20201010T11:54:39Z | This is the 1st assignment of the Neural Nets and Fuzzy Logic Course provided at BITS Pilani | https://github.com/Pnsahu94/Neural-Nets-and-Fuzzy-Logic-Assgnment-1 | 0 | 0| 
-| 20201010T11:43:11Z | Null | https://github.com/Britoweb/fuzzywuzzy | 0 | 0| 
-| 20201010T11:39:10Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 3165 | 730| 
-| 20201010T10:13:01Z | 渗透测试人员专用精简化字典  Dictionary for penetration testers happy hacker 🎉 | https://github.com/ppbibo/PentesterSpecialDict | 105 | 28| 
-| 20201010T09:39:06Z | A suite of Android apps (widget, screensaver, watchface) with Fuzzy clock faces | https://github.com/tuur29/fuzzyclock | 6 | 2| 
-| 20201010T09:37:40Z | Null | https://github.com/vinay1316/SPEED-CONTROL-OF-INDUCTION-MOTOR-USING-FUZZY-LOGIC-APPROACH | 0 | 0| 
-| 20201010T08:58:05Z | Personal website of Laurence Hughes | https://github.com/fuzzylogicxx/fuzzylogic | 4 | 1| 
-| 20201010T08:56:32Z | Null | https://github.com/imbawenzi/Fuzzing_Paper_Note | 0 | 0| 
+| 20201010T23:44:14Z | @my personal emails and my *FAMILY | https://github.com/Zeencaal/69fuzzy-live.com | 1 | 0| 
+| 20201010T22:40:10Z | Null | https://github.com/aidanoleary/FuzzyStringMatching | 0 | 0| 
+| 20201010T21:41:15Z |  A CLI tool that generates example data from JSON Typedef schemas | https://github.com/jsontypedef/json-typedef-fuzz | 0 | 0| 
+| 20201010T20:54:21Z | collection of helper tools for fuzzing | https://github.com/fuzzah/fuzzaide | 0 | 0| 
+| 20201010T20:42:23Z | RcppDeepState, a simple way to fuzz test code in Rcpp packages | https://github.com/akhikolla/RcppDeepState | 0 | 0| 
+| 20201010T20:12:10Z | An implementation for fuzzy logic in typescript | https://github.com/andreabbondanza/fuzzy-ts | 0 | 0| 
+| 20201010T20:02:50Z | Security oriented software fuzzer. Supports evolutionary, feedback-driven fuzzing based on code coverage (SW and HW based) | https://github.com/google/honggfuzz | 2020 | 415| 
+| 20201010T19:32:35Z | fuzzy matching everywhere | https://github.com/amirrezaask/fuzzy.nvim | 1 | 0| 
+| 20201010T19:08:08Z | Null | https://github.com/rajeshweta14/Fuzzymatcher | 0 | 0| 
+| 20201010T18:32:50Z | The Art, Science, and Engineering of Fuzzing: A Survey | https://github.com/SoftSec-KAIST/Fuzzing-Survey | 75 | 10| 
 
 
 
