@@ -18,7 +18,7 @@
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
 | 20201011T10:47:12Z | 未知编号 | Null | https://github.com/dima5455/CVE2020 | 未查询到CVE信息| 
-| 20201011T06:00:00Z | CVE-2020-5902 | Exphub[漏洞利用脚本库] 包括Webloigc、Struts2、Tomcat、Nexus、Solr、Jboss、Drupal的漏洞利用脚本，最新添加CVE-2020-5902、CVE-2020-11444、CVE-2020-10204、CVE-2020-10199、CVE-2020-1938、CVE-2020-2551、CVE-2020-2555、CVE-2020-2883、CVE-2019-17558、CVE-2019-6340 | https://github.com/zhzyker/exphub | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 59 MINUTES 23 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201011T06:00:00Z | CVE-2020-5902 | Exphub[漏洞利用脚本库] 包括Webloigc、Struts2、Tomcat、Nexus、Solr、Jboss、Drupal的漏洞利用脚本，最新添加CVE-2020-5902、CVE-2020-11444、CVE-2020-10204、CVE-2020-10199、CVE-2020-1938、CVE-2020-2551、CVE-2020-2555、CVE-2020-2883、CVE-2019-17558、CVE-2019-6340 | https://github.com/zhzyker/exphub | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 57 MINUTES 27 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 
 
 # klee on Github 推荐
@@ -38,8 +38,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20201011T12:00:33Z | notes about 🔍 Reverse Engineering and 🔥 Exploit Development | https://github.com/bmedicke/REED | 2 | 1| 
-| 20201011T11:59:50Z | [PROGRESSING] The v0id-fraud project is a malware bundle project that aims at cryptocurrency exploits and monetization. | https://github.com/gudako/v0id-fraudcore | 2 | 0| 
+| 20201011T12:02:31Z | notes about 🔍 Reverse Engineering and 🔥 Exploit Development | https://github.com/bmedicke/REED | 2 | 1| 
+| 20201011T12:01:40Z | [PROGRESSING] Warning: The project pends big reformation. We are on work of this. This document is not making sense here. | https://github.com/gudako/v0id-fraudcore | 2 | 0| 
 | 20201011T11:56:40Z | Null | https://github.com/ImVirusMike/VirusMike-Stable-Exploit-Menu-6.72-V3.0.1 | 0 | 0| 
 | 20201011T10:04:56Z | exploit-exam | https://github.com/vapvin/exploit-exam | 0 | 0| 
 | 20201011T10:02:27Z | exploit 4 brainpan.exe | https://github.com/wtfflya/brainpan | 0 | 0| 
