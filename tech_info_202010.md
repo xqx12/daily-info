@@ -26,24 +26,24 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20201011T12:17:27Z | CVE-2020-5902 | Exphub[漏洞利用脚本库] 包括Webloigc、Struts2、Tomcat、Nexus、Solr、Jboss、Drupal的漏洞利用脚本，最新添加CVE-2020-5902、CVE-2020-11444、CVE-2020-10204、CVE-2020-10199、CVE-2020-1938、CVE-2020-2551、CVE-2020-2555、CVE-2020-2883、CVE-2019-17558、CVE-2019-6340 | https://github.com/zhzyker/exphub | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 00 MINUTES 26 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201011T16:54:22Z | CVE-2020-5902 | Exphub[漏洞利用脚本库] 包括Webloigc、Struts2、Tomcat、Nexus、Solr、Jboss、Drupal的漏洞利用脚本，最新添加CVE-2020-5902、CVE-2020-11444、CVE-2020-10204、CVE-2020-10199、CVE-2020-1938、CVE-2020-2551、CVE-2020-2555、CVE-2020-2883、CVE-2019-17558、CVE-2019-6340 | https://github.com/zhzyker/exphub | 在BIG-IP版本15.0.0-15.1.0.3、14.1.0-14.1.2.5、13.1.0-13.1.3.3、12.1.0-12.1.5.1和11.6.1-11.6.5.1中，流量管理用户接口（TMUI），也称为“配置”实用程序，在未公开的页面中具有远程执行代码（RCE）漏洞。| 
 | 20201011T10:47:12Z | 未知编号 | Null | https://github.com/dima5455/CVE2020 | 未查询到CVE信息| 
-| 20201010T22:15:54Z | CVE-2020-1472 | Exploit Code for CVE-2020-1472 aka Zerologon | https://github.com/VoidSec/CVE-2020-1472 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 00 MINUTES 28 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20201010T21:30:04Z | CVE-2020-15227 | CVE-2020-15227 exploit | https://github.com/hu4wufu/CVE-2020-15227 | | 
+| 20201010T22:15:54Z | CVE-2020-1472 | Exploit Code for CVE-2020-1472 aka Zerologon | https://github.com/VoidSec/CVE-2020-1472 | 当攻击者使用Netlogon远程协议（MS-NRPC）（又称为“ Netlogon特权提升漏洞”）建立与域控制器的易受攻击的Netlogon安全通道连接时，将存在特权提升漏洞。| 
+| 20201010T21:30:04Z | CVE-2020-15227 | CVE-2020-15227 exploit | https://github.com/hu4wufu/CVE-2020-15227 | Nette版本2.0.19、2.1.13、2.2.10、2.3.14、2.4.16、3.0.6之前的版本很容易受到代码注入攻击，方法是将特殊格式的参数传递给URL，这有可能导致RCE。 Nette是一个PHP / Composer MVC框架。| 
 | 20201010T17:19:53Z | CVE-2020-3452 | Just basic scanner abusing CVE-2020-3452 to enumerate the standard files accessible in the Web Directory of the CISCO ASA applicances. | https://github.com/3ndG4me/CVE-2020-3452-Exploit | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
 | 20201010T09:51:10Z | 未知编号 | Null | https://github.com/Ken-Abruzzi/cve_2020_0688 | 未查询到CVE信息| 
 | 20201010T09:22:23Z | 未知编号 | Null | https://github.com/Ken-Abruzzi/cve_2020_0796 | 未查询到CVE信息| 
 | 20201010T09:02:55Z | cve-2020-1472 | Null | https://github.com/shanfenglan/cve-2020-1472 | 未查询到CVE信息| 
-| 20201010T08:24:37Z | CVE-2020-14955 | Jiangmin | https://github.com/intrigus-lgtm/CVE-2020-14955 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 00 MINUTES 35 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20201009T19:00:14Z | CVE-2020-1472 | POC for checking multiple hosts for Zerologon vulnerability | https://github.com/WiIs0n/Zerologon_CVE-2020-1472 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 00 MINUTES 32 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201010T08:24:37Z | CVE-2020-14955 | Jiangmin | https://github.com/intrigus-lgtm/CVE-2020-14955 | 在Jiangmin Antivirus 16.0.13.129中，驱动程序文件（KVFG.sys）允许本地用户由于未验证IOCtl 0x220440的输入值而导致拒绝服务（BSOD）或可能具有未指定的其他影响。| 
+| 20201009T19:00:14Z | CVE-2020-1472 | POC for checking multiple hosts for Zerologon vulnerability | https://github.com/WiIs0n/Zerologon_CVE-2020-1472 | 当攻击者使用Netlogon远程协议（MS-NRPC）（又称为“ Netlogon特权提升漏洞”）建立与域控制器的易受攻击的Netlogon安全通道连接时，将存在特权提升漏洞。| 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20201011T14:18:01Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1518 | 463| 
 | 20201011T10:52:55Z | Kleek interactive momo ecommerce platform | https://github.com/RockHardJim/kleek | 0 | 0| 
 | 20201011T07:36:43Z | Symbiotic is a tool for finding bugs in computer programs based on instrumentation, program slicing and KLEE | https://github.com/staticafi/symbiotic | 198 | 33| 
-| 20201011T03:57:45Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1517 | 463| 
 | 20201011T02:54:05Z | Create CFGs and compute complexity metrics for Python, C++, and Java code. | https://github.com/hmc-alpaqa/metrinome | 4 | 0| 
 | 20201009T17:41:23Z | RVT is a collection of tools/libraries to support both static and dynamic verification of Rust programs. | https://github.com/project-oak/rust-verification-tools | 88 | 5| 
 | 20201009T12:48:14Z | modify klee to support thread and multiloop | https://github.com/zhaoxiahust/klee_modify | 1 | 1| 
@@ -56,52 +56,52 @@
 # s2e on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20201002T07:03:00Z | Your S2E project management tools. Visit https://s2e.systems/docs to get started. | https://github.com/S2E/s2e-env | 65 | 29| 
+| 20201011T13:49:16Z | Your S2E project management tools. Visit https://s2e.systems/docs to get started. | https://github.com/S2E/s2e-env | 66 | 30| 
 
 
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20201011T12:58:52Z | Null | https://github.com/ImVirusMike/VirusMike-Exploit-Menu-6.72-V3.0.1 | 0 | 0| 
-| 20201011T12:56:18Z | Null | https://github.com/ImVirusMike/VirusMike-StExploit-Menu-6.72-V3.0.1 | 0 | 0| 
-| 20201011T12:08:40Z | VirusMike Stable Exploit Menu 6.72 V3.0.1 | https://github.com/ImVirusMike/VirusMikeExploit-Menu-6.72-V3.01.github.io | 0 | 0| 
-| 20201011T12:06:26Z | Null | https://github.com/EGCEpix/RobloxExploit | 0 | 0| 
-| 20201011T12:04:06Z | notes about 🔍 Reverse Engineering and 🔥 Exploit Development | https://github.com/bmedicke/REED | 2 | 1| 
-| 20201011T12:01:40Z | [PROGRESSING] Warning: The project pends big reformation. We are on work of this. This document is not making sense here. | https://github.com/gudako/v0id-fraudcore | 2 | 0| 
-| 20201011T11:56:40Z | Null | https://github.com/ImVirusMike/VirusMike-Stable-Exploit-Menu-6.72-V3.0.1 | 0 | 0| 
-| 20201011T10:04:56Z | exploit-exam | https://github.com/vapvin/exploit-exam | 0 | 0| 
-| 20201011T10:02:27Z | exploit 4 brainpan.exe | https://github.com/wtfflya/brainpan | 0 | 0| 
-| 20201011T09:06:32Z | Increase the Exploitation of Mars Satellite Images Via Deep Learning Techniques | https://github.com/nzaki02/Mars | 1 | 1| 
+| 20201011T23:38:25Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 7351 | 1222| 
+| 20201011T23:35:47Z | Null | https://github.com/quentin452/Cats-Exploitz-HUB | 0 | 1| 
+| 20201011T23:31:43Z | A phased, evasive Path Traversal + LFI scanning & exploitation tool in Python | https://github.com/VainlyStrain/Vailyn | 55 | 1| 
+| 20201011T22:56:55Z | Sifter is a OSINT, recon & vulnerability scanner. It incorporates a plethara of tools within different module sets that tries to cover every attack vector. Allowing you to quickly perform recon tasks and organize the results in one place. From OSINT to Recon, Exploitation, Post-Exploitation, OpSec, Threat Analysis, XSS, SQLinjection, Network Scanning, WebApp Analysis or DNS enumeration.. Sifter should be able to cover it all. | https://github.com/s1l3nt78/sifter | 257 | 81| 
+| 20201011T21:45:07Z | Rust implementation of the Fusée Gelée exploit (CVE-2018-6242) for Tegra processors. | https://github.com/austinhartzheim/fusee-gelee | 0 | 0| 
+| 20201011T21:19:30Z | Exploit do 3DS que acessa o nds-bootstrap do firmware DSi | https://github.com/Nintendo-Homebrew/Seedminer | 0 | 0| 
+| 20201011T21:19:17Z | Exploit mais recente do 3DS, acessado por QR code | https://github.com/Nintendo-Homebrew/BrowserHax_2020 | 0 | 0| 
+| 20201011T21:05:16Z | Exploits project Hacking Command Center | https://github.com/chacka0101/exploits | 0 | 1| 
+| 20201011T20:20:53Z | Linux source code for ISCA 2020 paper %Enhancing and Exploiting Contiguity for Fast Memory Virtualization% | https://github.com/cslab-ntua/contiguity-isca2020 | 0 | 0| 
+| 20201011T19:48:42Z | exploits for ftpd | https://github.com/Madhava-mng/PortNumber21-exploits | 1 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20201011T22:08:08Z | Null | https://github.com/dogeTheCoder/nodeBackdoor | 0 | 0| 
+| 20201011T22:04:40Z | A deck-building roguelike cyberpunk game. | https://github.com/uspgamedev/backdoor | 18 | 3| 
+| 20201011T22:00:22Z | python storage control backdoor, for local network. | https://github.com/ExsoKamabay/CTRL | 0 | 0| 
+| 20201011T16:43:36Z | Pupy is an opensource, cross-platform (Windows, Linux, OSX, Android) remote administration and post-exploitation tool mainly written in python | https://github.com/n1nj4sec/pupy | 5844 | 1523| 
+| 20201011T16:04:44Z | PyIris-backdoor is a modular, stealthy and flexible remote-access-toolkit written completely in python used to command and control other systems. It is now in the beta stage, possibly perpetually. There are bugs still present in the framework, feel free to contribute or help me out with this project its still under active development >_> | https://github.com/angus-y/PyIris-backdoor | 119 | 39| 
+| 20201011T14:03:55Z | Null | https://github.com/Adk2001tech/Biometric-Backdoors | 0 | 0| 
 | 20201011T03:37:13Z | An Artificial Intelligence Poisoned Data Detection & Cleanse System | https://github.com/RidiculousDoge/AIPDC | 2 | 2| 
-| 20201010T22:50:11Z | Pupy is an opensource, cross-platform (Windows, Linux, OSX, Android) remote administration and post-exploitation tool mainly written in python | https://github.com/n1nj4sec/pupy | 5842 | 1523| 
 | 20201010T16:06:04Z | This is a Simple Tkinter based Chat-App built from scrach for my Students. | https://github.com/jugurtha114/Tkinter_Chat-App | 1 | 0| 
 | 20201010T14:15:01Z | botnet and backdoor for hacker using python | https://github.com/NH-web/NH-botnet | 0 | 0| 
 | 20201010T13:28:32Z | In the later period of intranet penetration, the posture of the back door, including windows and linux, is to be improved | https://github.com/jiexiaobai/Operating-system-backdoor-for-intranet-penetration | 1 | 0| 
-| 20201010T10:42:01Z | Null | https://github.com/scanned/sshbackdoor | 1 | 0| 
-| 20201010T04:21:21Z | This will attempt to create a list of companies and their benefits info. This will be SUPER useful for people who want to maximize their 401k/IRA contributions (using mega backdoor) | https://github.com/davidtian02/401k-Info-for-Tech-companies | 0 | 0| 
-| 20201009T22:23:40Z | A deck-building roguelike cyberpunk game. | https://github.com/uspgamedev/backdoor | 17 | 2| 
-| 20201009T20:52:07Z | Simple backdoor written in Rust based on a Discord bots. | https://github.com/DmitrijVC/DataCargo | 1 | 0| 
-| 20201009T17:53:53Z | it%s a simple backdoor which bypasses any av  | https://github.com/jaaabir/backdoor | 2 | 1| 
 
 
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20201011T12:15:48Z | Dev support : M. Ridho Iryarahadi | https://github.com/jeff137/ProjectFuzzy | 0 | 0| 
-| 20201011T12:04:57Z | A curated list of different AFL forks and AFL inspired fuzzers with detailed equivalent academic papers and AFL-fuzzing tutorials | https://github.com/Microsvuln/Awesome-AFL | 324 | 39| 
-| 20201011T11:42:17Z | Null | https://github.com/abhishek-singhal/quotient-fuzzy | 0 | 0| 
-| 20201011T11:09:30Z | Repository holding database dumps from getfursu.it | https://github.com/veelkoov/fuzzrake-data | 0 | 0| 
-| 20201011T10:48:43Z | Personal website of Laurence Hughes | https://github.com/fuzzylogicxx/fuzzylogic | 4 | 1| 
-| 20201011T09:49:33Z | Null | https://github.com/sushilasipai/fuzzy-pattern-matching | 1 | 0| 
-| 20201011T09:00:04Z | Null | https://github.com/adia9070/fuzzy-lookup | 0 | 0| 
-| 20201011T08:17:18Z | The Art, Science, and Engineering of Fuzzing: A Survey | https://github.com/SoftSec-KAIST/Fuzzing-Survey | 75 | 10| 
-| 20201011T06:41:28Z | Automated Fuzzing Testbed | https://github.com/baalAzZubab/aft | 0 | 0| 
-| 20201011T06:24:08Z | Null | https://github.com/Manojsuthar2000/Understanding-the-stress-level-of-students-using-neuro-fuzzy-system | 1 | 0| 
+| 20201011T23:29:01Z | RcppDeepState, a simple way to fuzz test code in Rcpp packages | https://github.com/akhikolla/RcppDeepState | 0 | 0| 
+| 20201011T22:35:49Z | FuzzBench - Fuzzer benchmarking as a service. | https://github.com/google/fuzzbench | 532 | 81| 
+| 20201011T22:27:48Z | Null | https://github.com/crismunoz/Fuzzy-Logic | 0 | 0| 
+| 20201011T21:44:09Z | Python implementation of fuzzy partition algorithm. | https://github.com/krisanovdev/FuzzyPartition | 0 | 1| 
+| 20201011T21:05:23Z | Null | https://github.com/demetrius-ford/mutation-fuzzer | 0 | 0| 
+| 20201011T20:36:22Z | Null | https://github.com/td512/fuzzy-succotash | 0 | 0| 
+| 20201011T20:08:28Z | The Art, Science, and Engineering of Fuzzing: A Survey | https://github.com/SoftSec-KAIST/Fuzzing-Survey | 75 | 10| 
+| 20201011T19:44:56Z | Pedal Multiefecto para guitarra electrica (LoopBack, Delay, Fuzz y Wah-wah) | https://github.com/jrosmirez94/Pedal-Multiefecto | 0 | 0| 
+| 20201011T19:08:37Z | port of https://github.com/seatgeek/fuzzywuzzy | https://github.com/logannc/fuzzywuzzy-rs | 17 | 2| 
+| 20201011T18:55:07Z | Null | https://github.com/ersatzavian/yellow_fuzz | 0 | 0| 
 
 
 
