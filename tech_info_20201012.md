@@ -18,6 +18,9 @@
 | 20201012 | NVIDIA 驱动系统管理接口（SMI）DLL 注入漏洞的分析 | https://sec.today/pulses/1b52633f-4603-4fd5-89eb-fab0ea158312/| 
 | 20201012 | 检测 Microsoft 365 与 Azure 活动目录的后门 | https://sec.today/pulses/fa10a1ae-c3c1-4cca-9764-ac07b7eb6434/| 
 | 20201012 | ZDI 对 IBM WebSphere IIOP 协议远程漏洞的分析 | https://sec.today/pulses/c5e7cce9-a1b6-458d-a791-3b4182761397/| 
+| 20201012 | NVIDIA 驱动系统管理接口（SMI）DLL 注入漏洞的分析 | https://www.pentestpartners.com/security-blog/dll-hijacking-in-nvidia-smi/| 
+| 20201012 | 检测 Microsoft 365 与 Azure 活动目录的后门 | https://www.fireeye.com/blog/threat-research/2020/09/detecting-microsoft-365-azure-active-directory-backdoors.html| 
+| 20201012 | ZDI 对 IBM WebSphere IIOP 协议远程漏洞的分析 | https://www.thezdi.com/blog/2020/9/29/exploiting-other-remote-protocols-in-ibm-websphere| 
 
 
 # 安全维基 推荐
@@ -75,6 +78,12 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20201012T11:56:21Z | Null | https://github.com/marychev-akvelon/xamarin-demoapp-backdoor | 0 | 0| 
+| 20201012T11:46:50Z | Null | https://github.com/irepublica/monitor_backdoor | 0 | 0| 
+| 20201012T08:49:36Z | Null | https://github.com/Adk2001tech/Biometric-Backdoors | 0 | 0| 
+| 20201012T07:18:13Z | reverse shell from udemy course: Coding Botnet & Backdoor In Python For Ethical Hacking! | https://github.com/cmoelvad/ReverseShell | 0 | 0| 
+| 20201012T06:12:02Z | Pupy is an opensource, cross-platform (Windows, Linux, OSX, Android) remote administration and post-exploitation tool mainly written in python | https://github.com/n1nj4sec/pupy | 5844 | 1524| 
+| 20201012T05:19:40Z | Null | https://github.com/rabbitx1337/backdoor | 0 | 0| 
 
 
 # fuzz on Github 推荐
