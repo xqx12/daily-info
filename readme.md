@@ -63,7 +63,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20201012T12:51:25Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 7436 | 1229| 
+| 20201012T12:53:26Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 7437 | 1230| 
 | 20201012T12:37:56Z | notes about 🔍 Reverse Engineering and 🔥 Exploit Development | https://github.com/bmedicke/REED | 2 | 1| 
 | 20201012T12:24:52Z | Null | https://github.com/WeLoveuSyrus/Discord-Voice-Call-Exploit | 0 | 0| 
 | 20201012T12:19:01Z | Enumerate missing KBs and suggest exploits for useful Privilege Escalation vulnerabilities | https://github.com/rasta-mouse/Watson | 764 | 138| 
