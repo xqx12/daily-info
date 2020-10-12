@@ -17,7 +17,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20201011T10:47:12Z | 未知编号 | Null | https://github.com/dima5455/CVE2020 | | 
+| 20201011T10:47:12Z | 未知编号 | Null | https://github.com/dima5455/CVE2020 | 未查询到CVE信息| 
 
 
 # klee on Github 推荐
