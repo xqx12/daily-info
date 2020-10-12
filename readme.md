@@ -38,7 +38,6 @@
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
 | 20201011T23:31:43Z | A phased, evasive Path Traversal + LFI scanning & exploitation tool in Python | https://github.com/VainlyStrain/Vailyn | 55 | 1| 
-| 20201011T22:56:55Z | Sifter is a OSINT, recon & vulnerability scanner. It incorporates a plethara of tools within different module sets that tries to cover every attack vector. Allowing you to quickly perform recon tasks and organize the results in one place. From OSINT to Recon, Exploitation, Post-Exploitation, OpSec, Threat Analysis, XSS, SQLinjection, Network Scanning, WebApp Analysis or DNS enumeration.. Sifter should be able to cover it all. | https://github.com/s1l3nt78/sifter | 257 | 81| 
 | 20201011T21:45:07Z | Rust implementation of the Fusée Gelée exploit (CVE-2018-6242) for Tegra processors. | https://github.com/austinhartzheim/fusee-gelee | 0 | 0| 
 | 20201011T21:19:30Z | Exploit do 3DS que acessa o nds-bootstrap do firmware DSi | https://github.com/Nintendo-Homebrew/Seedminer | 0 | 0| 
 | 20201011T21:19:17Z | Exploit mais recente do 3DS, acessado por QR code | https://github.com/Nintendo-Homebrew/BrowserHax_2020 | 0 | 0| 
@@ -47,6 +46,7 @@
 | 20201011T19:48:42Z | exploits for ftpd | https://github.com/Madhava-mng/PortNumber21-exploits | 1 | 0| 
 | 20201011T18:21:40Z | Null | https://github.com/Ranjan-Das-cloud/exploit | 0 | 0| 
 | 20201011T17:42:46Z | To exploit on jQuuery lively | https://github.com/edunush/MY-IP3 | 0 | 0| 
+| 20201011T16:57:01Z | Collection of docker images to be used for exploit development and testing | https://github.com/mishrasunny174/pwn-docker | 2 | 1| 
 
 
 # backdoor on Github 推荐
