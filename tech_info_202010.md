@@ -26,16 +26,16 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20201012T00:41:33Z | CVE-2020-5902 | Exphub[漏洞利用脚本库] 包括Webloigc、Struts2、Tomcat、Nexus、Solr、Jboss、Drupal的漏洞利用脚本，最新添加CVE-2020-5902、CVE-2020-11444、CVE-2020-10204、CVE-2020-10199、CVE-2020-1938、CVE-2020-2551、CVE-2020-2555、CVE-2020-2883、CVE-2019-17558、CVE-2019-6340 | https://github.com/zhzyker/exphub | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 34 MINUTES 24 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201012T00:41:33Z | CVE-2020-5902 | Exphub[漏洞利用脚本库] 包括Webloigc、Struts2、Tomcat、Nexus、Solr、Jboss、Drupal的漏洞利用脚本，最新添加CVE-2020-5902、CVE-2020-11444、CVE-2020-10204、CVE-2020-10199、CVE-2020-1938、CVE-2020-2551、CVE-2020-2555、CVE-2020-2883、CVE-2019-17558、CVE-2019-6340 | https://github.com/zhzyker/exphub | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 33 MINUTES 25 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20201011T10:47:12Z | 未知编号 | Null | https://github.com/dima5455/CVE2020 | 未查询到CVE信息| 
-| 20201010T22:15:54Z | CVE-2020-1472 | Exploit Code for CVE-2020-1472 aka Zerologon | https://github.com/VoidSec/CVE-2020-1472 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 34 MINUTES 27 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20201010T21:30:04Z | CVE-2020-15227 | CVE-2020-15227 exploit | https://github.com/hu4wufu/CVE-2020-15227 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 33 MINUTES 40 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201010T22:15:54Z | CVE-2020-1472 | Exploit Code for CVE-2020-1472 aka Zerologon | https://github.com/VoidSec/CVE-2020-1472 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 33 MINUTES 28 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201010T21:30:04Z | CVE-2020-15227 | CVE-2020-15227 exploit | https://github.com/hu4wufu/CVE-2020-15227 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 32 MINUTES 40 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20201010T17:19:53Z | CVE-2020-3452 | Just basic scanner abusing CVE-2020-3452 to enumerate the standard files accessible in the Web Directory of the CISCO ASA applicances. | https://github.com/3ndG4me/CVE-2020-3452-Exploit | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
 | 20201010T09:51:10Z | 未知编号 | Null | https://github.com/Ken-Abruzzi/cve_2020_0688 | 未查询到CVE信息| 
 | 20201010T09:22:23Z | 未知编号 | Null | https://github.com/Ken-Abruzzi/cve_2020_0796 | 未查询到CVE信息| 
-| 20201010T09:02:55Z | cve-2020-1472 | Null | https://github.com/shanfenglan/cve-2020-1472 | | 
-| 20201010T08:24:37Z | CVE-2020-14955 | Jiangmin | https://github.com/intrigus-lgtm/CVE-2020-14955 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 34 MINUTES 35 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20201009T19:00:14Z | CVE-2020-1472 | POC for checking multiple hosts for Zerologon vulnerability | https://github.com/WiIs0n/Zerologon_CVE-2020-1472 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 34 MINUTES 32 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201010T09:02:55Z | cve-2020-1472 | Null | https://github.com/shanfenglan/cve-2020-1472 | 未查询到CVE信息| 
+| 20201010T08:24:37Z | CVE-2020-14955 | Jiangmin | https://github.com/intrigus-lgtm/CVE-2020-14955 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 33 MINUTES 36 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201009T19:00:14Z | CVE-2020-1472 | POC for checking multiple hosts for Zerologon vulnerability | https://github.com/WiIs0n/Zerologon_CVE-2020-1472 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 33 MINUTES 33 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 
 
 # klee on Github 推荐
@@ -62,8 +62,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20201012T01:25:00Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 7355 | 1222| 
 | 20201012T01:11:26Z | Null | https://github.com/quentin452/Cats-Exploitz-HUB | 0 | 1| 
-| 20201012T00:58:45Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 7354 | 1222| 
 | 20201011T23:31:43Z | A phased, evasive Path Traversal + LFI scanning & exploitation tool in Python | https://github.com/VainlyStrain/Vailyn | 55 | 1| 
 | 20201011T22:56:55Z | Sifter is a OSINT, recon & vulnerability scanner. It incorporates a plethara of tools within different module sets that tries to cover every attack vector. Allowing you to quickly perform recon tasks and organize the results in one place. From OSINT to Recon, Exploitation, Post-Exploitation, OpSec, Threat Analysis, XSS, SQLinjection, Network Scanning, WebApp Analysis or DNS enumeration.. Sifter should be able to cover it all. | https://github.com/s1l3nt78/sifter | 257 | 81| 
 | 20201011T21:45:07Z | Rust implementation of the Fusée Gelée exploit (CVE-2018-6242) for Tegra processors. | https://github.com/austinhartzheim/fusee-gelee | 0 | 0| 
@@ -92,6 +92,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20201012T01:27:03Z | The fuzzer afl++ is afl with community patches, AFLfast power schedules, qemu 3.1 upgrade + laf-intel support, MOpt mutators, InsTrim instrumentation, unicorn_mode, Redqueen and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 914 | 229| 
 | 20201012T01:23:35Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2141 | 99| 
 | 20201012T00:59:34Z | fuzzy matching everywhere | https://github.com/amirrezaask/fuzzy.nvim | 1 | 0| 
 | 20201012T00:54:28Z | Scalable fuzzing infrastructure. | https://github.com/google/clusterfuzz | 4344 | 393| 
@@ -101,7 +102,6 @@
 | 20201011T22:27:48Z | Null | https://github.com/crismunoz/Fuzzy-Logic | 0 | 0| 
 | 20201011T21:44:09Z | Python implementation of fuzzy partition algorithm. | https://github.com/krisanovdev/FuzzyPartition | 0 | 1| 
 | 20201011T21:05:23Z | Null | https://github.com/demetrius-ford/mutation-fuzzer | 0 | 0| 
-| 20201011T20:36:22Z | Null | https://github.com/td512/fuzzy-succotash | 0 | 0| 
 
 
 
