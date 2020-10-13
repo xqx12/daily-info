@@ -100,16 +100,16 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20201013T01:17:58Z | Pupy is an opensource, cross-platform (Windows, Linux, OSX, Android) remote administration and post-exploitation tool mainly written in python | https://github.com/n1nj4sec/pupy | 5845 | 1522| 
+| 20201013T11:16:29Z | Null | https://github.com/marychev-akvelon/xamarin-demoapp-backdoor | 0 | 0| 
+| 20201013T06:56:17Z | Null | https://github.com/sahil3112/Python-Reverse-Backdoor | 0 | 0| 
+| 20201013T06:53:42Z | Pupy is an opensource, cross-platform (Windows, Linux, OSX, Android) remote administration and post-exploitation tool mainly written in python | https://github.com/n1nj4sec/pupy | 5846 | 1522| 
+| 20201013T05:42:45Z | Avyukt is a Exploitation Framework which can be used to generate Malicious Payloads and exploit Windows OS | https://github.com/Vedant-Bhalgama/Avyukt | 14 | 5| 
 | 20201013T01:05:21Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 69 | 8| 
 | 20201013T00:48:27Z | Backdoor Feito em C | https://github.com/Kripto-Sec/Cbackdoor | 5 | 0| 
 | 20201012T23:02:56Z | Null | https://github.com/irepublica/monitor_backdoor | 0 | 0| 
 | 20201012T20:44:32Z | python storage control backdoor, for local network. | https://github.com/ExsoKamabay/CTRL | 0 | 0| 
 | 20201012T19:06:37Z | Tool to find potential backdoor/security holes in your endpoint | https://github.com/subasgit/backdoorfinder | 1 | 0| 
 | 20201012T17:10:07Z | Basic Windows reverse shell written in C++ | https://github.com/hacefresko/CppBackdoor | 0 | 0| 
-| 20201012T16:33:23Z | Null | https://github.com/marychev-akvelon/xamarin-demoapp-backdoor | 0 | 0| 
-| 20201012T08:49:36Z | Null | https://github.com/Adk2001tech/Biometric-Backdoors | 0 | 0| 
-| 20201012T07:18:13Z | reverse shell from udemy course: Coding Botnet & Backdoor In Python For Ethical Hacking! | https://github.com/cmoelvad/ReverseShell | 0 | 0| 
 
 
 # fuzz on Github 推荐

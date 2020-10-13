@@ -62,7 +62,10 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20201013T01:17:58Z | Pupy is an opensource, cross-platform (Windows, Linux, OSX, Android) remote administration and post-exploitation tool mainly written in python | https://github.com/n1nj4sec/pupy | 5845 | 1522| 
+| 20201013T11:16:29Z | Null | https://github.com/marychev-akvelon/xamarin-demoapp-backdoor | 0 | 0| 
+| 20201013T06:56:17Z | Null | https://github.com/sahil3112/Python-Reverse-Backdoor | 0 | 0| 
+| 20201013T06:53:42Z | Pupy is an opensource, cross-platform (Windows, Linux, OSX, Android) remote administration and post-exploitation tool mainly written in python | https://github.com/n1nj4sec/pupy | 5846 | 1522| 
+| 20201013T05:42:45Z | Avyukt is a Exploitation Framework which can be used to generate Malicious Payloads and exploit Windows OS | https://github.com/Vedant-Bhalgama/Avyukt | 14 | 5| 
 | 20201013T01:05:21Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 69 | 8| 
 | 20201013T00:48:27Z | Backdoor Feito em C | https://github.com/Kripto-Sec/Cbackdoor | 5 | 0| 
 
