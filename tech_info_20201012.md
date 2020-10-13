@@ -43,7 +43,7 @@
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
 | 20201012T12:20:34Z | CVE-2020-5902 | Exphub[漏洞利用脚本库] 包括Webloigc、Struts2、Tomcat、Nexus、Solr、Jboss、Drupal的漏洞利用脚本，最新添加CVE-2020-5902、CVE-2020-11444、CVE-2020-10204、CVE-2020-10199、CVE-2020-1938、CVE-2020-2551、CVE-2020-2555、CVE-2020-2883、CVE-2019-17558、CVE-2019-6340 | https://github.com/zhzyker/exphub | 在BIG-IP版本15.0.0-15.1.0.3、14.1.0-14.1.2.5、13.1.0-13.1.3.3、12.1.0-12.1.5.1和11.6.1-11.6.5.1中，流量管理用户接口（TMUI），也称为“配置”实用程序，在未公开的页面中具有远程执行代码（RCE）漏洞。| 
-| 20201012T10:43:26Z | CVE-2020-25213 | https://medium.com/@mansoorr/exploiting-cve-2020-25213-wp-file-manager-wordpress-plugin-6-9-3f79241f0cd8 | https://github.com/mansoorr123/wp-file-manager-CVE-2020-25213 | WordPress 6.9之前的文件管理器（wp-file-manager）插件允许远程攻击者上传和执行任意PHP代码，因为它将不安全的示例elFinder连接器文件重命名为具有.php扩展名。例如，这允许攻击者运行elFinder upload（或mkfile和put）命令将PHP代码写入wp-content / plugins / wp-file-manager / lib / files /目录。 2020年8月和9月在野外进行了开发。| 
+| 20201012T10:43:26Z | CVE-2020-25213 | https://medium.com/@mansoorr/exploiting-cve-2020-25213-wp-file-manager-wordpress-plugin-6-9-3f79241f0cd8 | https://github.com/mansoorr123/wp-file-manager-CVE-2020-25213 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 55 MINUTES 31 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 
 
 # klee on Github 推荐
@@ -83,7 +83,6 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20201012T23:58:04Z | Backdoor Feito em C | https://github.com/Kripto-Sec/Cbackdoor | 4 | 0| 
 | 20201012T23:02:56Z | Null | https://github.com/irepublica/monitor_backdoor | 0 | 0| 
 | 20201012T20:44:32Z | python storage control backdoor, for local network. | https://github.com/ExsoKamabay/CTRL | 0 | 0| 
 | 20201012T19:06:37Z | Tool to find potential backdoor/security holes in your endpoint | https://github.com/subasgit/backdoorfinder | 1 | 0| 
@@ -100,7 +99,6 @@
 | --- | --- | --- | --- | ---| 
 | 20201012T23:48:31Z | Null | https://github.com/castellanos94/FuzzyLogicPy | 0 | 0| 
 | 20201012T23:35:58Z | collection of helper tools for fuzzing | https://github.com/fuzzah/fuzzaide | 0 | 0| 
-| 20201012T23:13:23Z | VMI Kernel Fuzzer for Xen Project - VM forking, VMI & AFL integration demo | https://github.com/intel/kernel-fuzzer-for-xen-project | 152 | 24| 
 | 20201012T22:43:00Z | Null | https://github.com/christheblog/trie-fuzzy-search | 0 | 0| 
 | 20201012T22:27:11Z | FuzzBench - Fuzzer benchmarking as a service. | https://github.com/google/fuzzbench | 532 | 82| 
 | 20201012T22:12:23Z | The Fuzzbunny In Stitches store | https://github.com/jason44406/fuzzbunny-in-stitches | 0 | 0| 
@@ -108,6 +106,7 @@
 | 20201012T21:50:41Z | Null | https://github.com/cclinus/AV-Fuzzer | 0 | 0| 
 | 20201012T21:17:52Z | Null | https://github.com/Ikarona/fuzzer | 0 | 0| 
 | 20201012T21:17:32Z | Null | https://github.com/aidanoleary/FuzzyStringMatching | 0 | 0| 
+| 20201012T21:04:13Z | Null | https://github.com/googleinterns/hw-fuzzing | 2 | 0| 
 
 
 

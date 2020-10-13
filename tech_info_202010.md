@@ -43,15 +43,15 @@
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
 | 20201012T12:20:34Z | CVE-2020-5902 | Exphub[漏洞利用脚本库] 包括Webloigc、Struts2、Tomcat、Nexus、Solr、Jboss、Drupal的漏洞利用脚本，最新添加CVE-2020-5902、CVE-2020-11444、CVE-2020-10204、CVE-2020-10199、CVE-2020-1938、CVE-2020-2551、CVE-2020-2555、CVE-2020-2883、CVE-2019-17558、CVE-2019-6340 | https://github.com/zhzyker/exphub | 在BIG-IP版本15.0.0-15.1.0.3、14.1.0-14.1.2.5、13.1.0-13.1.3.3、12.1.0-12.1.5.1和11.6.1-11.6.5.1中，流量管理用户接口（TMUI），也称为“配置”实用程序，在未公开的页面中具有远程执行代码（RCE）漏洞。| 
-| 20201012T10:43:26Z | CVE-2020-25213 | https://medium.com/@mansoorr/exploiting-cve-2020-25213-wp-file-manager-wordpress-plugin-6-9-3f79241f0cd8 | https://github.com/mansoorr123/wp-file-manager-CVE-2020-25213 | WordPress 6.9之前的文件管理器（wp-file-manager）插件允许远程攻击者上传和执行任意PHP代码，因为它将不安全的示例elFinder连接器文件重命名为具有.php扩展名。例如，这允许攻击者运行elFinder upload（或mkfile和put）命令将PHP代码写入wp-content / plugins / wp-file-manager / lib / files /目录。 2020年8月和9月在野外进行了开发。| 
+| 20201012T10:43:26Z | CVE-2020-25213 | https://medium.com/@mansoorr/exploiting-cve-2020-25213-wp-file-manager-wordpress-plugin-6-9-3f79241f0cd8 | https://github.com/mansoorr123/wp-file-manager-CVE-2020-25213 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 55 MINUTES 31 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20201011T10:47:12Z | 未知编号 | Null | https://github.com/dima5455/CVE2020 | 未查询到CVE信息| 
 | 20201010T22:15:54Z | CVE-2020-1472 | Exploit Code for CVE-2020-1472 aka Zerologon | https://github.com/VoidSec/CVE-2020-1472 | 当攻击者使用Netlogon远程协议（MS-NRPC）（又称为“ Netlogon特权提升漏洞”）建立与域控制器的易受攻击的Netlogon安全通道连接时，将存在特权提升漏洞。| 
-| 20201010T21:30:04Z | CVE-2020-15227 | CVE-2020-15227 exploit | https://github.com/hu4wufu/CVE-2020-15227 | Nette版本2.0.19、2.1.13、2.2.10、2.3.14、2.4.16、3.0.6之前的版本很容易受到代码注入攻击，方法是将特殊格式的参数传递给URL，这有可能导致RCE。 Nette是一个PHP / Composer MVC框架。| 
+| 20201010T21:30:04Z | CVE-2020-15227 | CVE-2020-15227 exploit | https://github.com/hu4wufu/CVE-2020-15227 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 55 MINUTES 29 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20201010T17:19:53Z | CVE-2020-3452 | Just basic scanner abusing CVE-2020-3452 to enumerate the standard files accessible in the Web Directory of the CISCO ASA applicances. | https://github.com/3ndG4me/CVE-2020-3452-Exploit | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
 | 20201010T09:51:10Z | 未知编号 | Null | https://github.com/Ken-Abruzzi/cve_2020_0688 | 未查询到CVE信息| 
 | 20201010T09:22:23Z | 未知编号 | Null | https://github.com/Ken-Abruzzi/cve_2020_0796 | 未查询到CVE信息| 
 | 20201010T09:02:55Z | cve-2020-1472 | Null | https://github.com/shanfenglan/cve-2020-1472 | 未查询到CVE信息| 
-| 20201010T08:24:37Z | CVE-2020-14955 | Jiangmin | https://github.com/intrigus-lgtm/CVE-2020-14955 | 在Jiangmin Antivirus 16.0.13.129中，驱动程序文件（KVFG.sys）允许本地用户由于未验证IOCtl 0x220440的输入值而导致拒绝服务（BSOD）或可能具有未指定的其他影响。| 
+| 20201010T08:24:37Z | CVE-2020-14955 | Jiangmin | https://github.com/intrigus-lgtm/CVE-2020-14955 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 55 MINUTES 25 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 
 
 # klee on Github 推荐
@@ -95,7 +95,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20201012T23:58:04Z | Backdoor Feito em C | https://github.com/Kripto-Sec/Cbackdoor | 4 | 0| 
+| 20201013T00:04:01Z | Backdoor Feito em C | https://github.com/Kripto-Sec/Cbackdoor | 4 | 0| 
 | 20201012T23:02:56Z | Null | https://github.com/irepublica/monitor_backdoor | 0 | 0| 
 | 20201012T20:44:32Z | python storage control backdoor, for local network. | https://github.com/ExsoKamabay/CTRL | 0 | 0| 
 | 20201012T19:06:37Z | Tool to find potential backdoor/security holes in your endpoint | https://github.com/subasgit/backdoorfinder | 1 | 0| 
@@ -110,10 +110,10 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20201013T00:03:23Z | VMI Kernel Fuzzer for Xen Project - VM forking, VMI & AFL integration demo | https://github.com/intel/kernel-fuzzer-for-xen-project | 152 | 24| 
 | 20201013T00:01:03Z | Null | https://github.com/HeitorTerra/HeitorTerra-Algoritmos-De-IA_Fuzzy-C-Means_KNN_K-Means-e-Decision-Tree | 0 | 0| 
 | 20201012T23:48:31Z | Null | https://github.com/castellanos94/FuzzyLogicPy | 0 | 0| 
 | 20201012T23:35:58Z | collection of helper tools for fuzzing | https://github.com/fuzzah/fuzzaide | 0 | 0| 
-| 20201012T23:13:23Z | VMI Kernel Fuzzer for Xen Project - VM forking, VMI & AFL integration demo | https://github.com/intel/kernel-fuzzer-for-xen-project | 152 | 24| 
 | 20201012T22:43:00Z | Null | https://github.com/christheblog/trie-fuzzy-search | 0 | 0| 
 | 20201012T22:27:11Z | FuzzBench - Fuzzer benchmarking as a service. | https://github.com/google/fuzzbench | 532 | 82| 
 | 20201012T22:12:23Z | The Fuzzbunny In Stitches store | https://github.com/jason44406/fuzzbunny-in-stitches | 0 | 0| 
