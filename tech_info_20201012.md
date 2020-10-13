@@ -42,8 +42,8 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20201012T12:20:34Z | CVE-2020-5902 | Exphub[漏洞利用脚本库] 包括Webloigc、Struts2、Tomcat、Nexus、Solr、Jboss、Drupal的漏洞利用脚本，最新添加CVE-2020-5902、CVE-2020-11444、CVE-2020-10204、CVE-2020-10199、CVE-2020-1938、CVE-2020-2551、CVE-2020-2555、CVE-2020-2883、CVE-2019-17558、CVE-2019-6340 | https://github.com/zhzyker/exphub | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 35 MINUTES 15 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20201012T10:43:26Z | CVE-2020-25213 | https://medium.com/@mansoorr/exploiting-cve-2020-25213-wp-file-manager-wordpress-plugin-6-9-3f79241f0cd8 | https://github.com/mansoorr123/wp-file-manager-CVE-2020-25213 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 35 MINUTES 28 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201012T12:20:34Z | CVE-2020-5902 | Exphub[漏洞利用脚本库] 包括Webloigc、Struts2、Tomcat、Nexus、Solr、Jboss、Drupal的漏洞利用脚本，最新添加CVE-2020-5902、CVE-2020-11444、CVE-2020-10204、CVE-2020-10199、CVE-2020-1938、CVE-2020-2551、CVE-2020-2555、CVE-2020-2883、CVE-2019-17558、CVE-2019-6340 | https://github.com/zhzyker/exphub | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 34 MINUTES 14 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201012T10:43:26Z | CVE-2020-25213 | https://medium.com/@mansoorr/exploiting-cve-2020-25213-wp-file-manager-wordpress-plugin-6-9-3f79241f0cd8 | https://github.com/mansoorr123/wp-file-manager-CVE-2020-25213 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 33 MINUTES 29 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 
 
 # klee on Github 推荐
@@ -70,7 +70,6 @@
 | --- | --- | --- | --- | ---| 
 | 20201012T23:39:15Z | Sifter is a OSINT, recon & vulnerability scanner. It incorporates a plethara of tools within different module sets that tries to cover every attack vector. Allowing you to quickly perform recon tasks and organize the results in one place. From OSINT to Recon, Exploitation, Post-Exploitation, OpSec, Threat Analysis, XSS, SQLinjection, Network Scanning, WebApp Analysis or DNS enumeration.. Sifter should be able to cover it all. | https://github.com/s1l3nt78/sifter | 258 | 81| 
 | 20201012T22:38:33Z | This repository contains the code for %Exploiting Cloze Questions for Few-Shot Text Classification and Natural Language Inference% | https://github.com/timoschick/pet | 515 | 68| 
-| 20201012T21:37:50Z | Null | https://github.com/quentin452/Cats-Exploitz-HUB | 0 | 1| 
 | 20201012T21:25:37Z | Java script minecraft exploit | https://github.com/GabrielHD150/StormBreaker | 0 | 0| 
 | 20201012T21:00:07Z | Null | https://github.com/can-ozkan/ExploitDevelopment | 0 | 0| 
 | 20201012T20:56:36Z | Experiments and evaluation for the paper %DAG Scheduling and Analysis on Multiprocessor Systems: Exploitation of Parallelism and Dependency%, RTSS 2020. | https://github.com/automaticdai/research-dag-scheduling-analysis | 0 | 0| 
@@ -78,6 +77,7 @@
 | 20201012T19:49:35Z | Exercice permettant de s%initier à la création de bases de données simples et à leur exploitation en PHP. | https://github.com/M2i-DWWM-0920-Lyon-AURA/s05-php-bdd-horoscope | 0 | 0| 
 | 20201012T19:03:15Z | Im trying to reverse engineer and exploit the tile bluetooth tracker | https://github.com/lumagician/tile-reversed | 0 | 0| 
 | 20201012T19:02:34Z | CTFs I%ve played so far | https://github.com/AravGarg/CTFarchives | 14 | 3| 
+| 20201012T18:45:50Z | All of my scripts that I have made for ROBLOX Exploiting. | https://github.com/SynicalMC/robloxscripts | 0 | 0| 
 
 
 # backdoor on Github 推荐
