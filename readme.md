@@ -68,26 +68,30 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20201012T13:17:53Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 7438 | 1230| 
-| 20201012T13:14:11Z | To exploit on jQuuery lively | https://github.com/edunush/MY-IP3 | 0 | 0| 
-| 20201012T13:11:21Z | notes about 🔍 Reverse Engineering and 🔥 Exploit Development | https://github.com/bmedicke/REED | 2 | 1| 
-| 20201012T13:06:38Z | Exploration-Exploitation using MAB | https://github.com/aegoe/MAB | 0 | 1| 
-| 20201012T12:24:52Z | Null | https://github.com/WeLoveuSyrus/Discord-Voice-Call-Exploit | 0 | 0| 
-| 20201012T12:19:01Z | Enumerate missing KBs and suggest exploits for useful Privilege Escalation vulnerabilities | https://github.com/rasta-mouse/Watson | 764 | 138| 
-| 20201012T12:11:58Z | Apollo is a post-exploitation tool for managing, enumerating and pivotting on compromised machines. | https://github.com/thecoderstudio/apollo | 5 | 0| 
-| 20201012T12:03:00Z | Blog! | https://github.com/nonetype/nonetype.github.io | 0 | 0| 
-| 20201012T11:46:22Z | The popular GENIE Generator product is used by nearly all accelerator neutrino experiments and it plays a key role in the exploitation of neutrino data. The Generator implements a modern software framework and it includes state-of-the-art physics modules. It captures the latest results of the GENIE global analysis of neutrino scattering data and includes several tunes that were produced using the proprietary Comparisons and Tuning products. The GENIE physics model is universal and comprehensive:  It handles all neutrinos and targets, and all processes relevant from MeV to PeV energy scales. The Generator includes several tools (flux drivers, detector geometry navigators, specialized event generation apps, event reweighting engines) to simulate complex experimental setups in full detail and to support generator-related analysis tasks.  | https://github.com/GENIE-MC/Generator | 16 | 44| 
-| 20201012T11:31:38Z | Another collection of CVEs Exploits  | https://github.com/Yashvendra/CVE | 0 | 0| 
+| 20201012T23:59:33Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 7586 | 1238| 
+| 20201012T23:39:15Z | Sifter is a OSINT, recon & vulnerability scanner. It incorporates a plethara of tools within different module sets that tries to cover every attack vector. Allowing you to quickly perform recon tasks and organize the results in one place. From OSINT to Recon, Exploitation, Post-Exploitation, OpSec, Threat Analysis, XSS, SQLinjection, Network Scanning, WebApp Analysis or DNS enumeration.. Sifter should be able to cover it all. | https://github.com/s1l3nt78/sifter | 258 | 81| 
+| 20201012T22:38:33Z | This repository contains the code for %Exploiting Cloze Questions for Few-Shot Text Classification and Natural Language Inference% | https://github.com/timoschick/pet | 515 | 68| 
+| 20201012T21:37:50Z | Null | https://github.com/quentin452/Cats-Exploitz-HUB | 0 | 1| 
+| 20201012T21:25:37Z | Java script minecraft exploit | https://github.com/GabrielHD150/StormBreaker | 0 | 0| 
+| 20201012T21:00:07Z | Null | https://github.com/can-ozkan/ExploitDevelopment | 0 | 0| 
+| 20201012T20:56:36Z | Experiments and evaluation for the paper %DAG Scheduling and Analysis on Multiprocessor Systems: Exploitation of Parallelism and Dependency%, RTSS 2020. | https://github.com/automaticdai/research-dag-scheduling-analysis | 0 | 0| 
+| 20201012T20:33:17Z | Null | https://github.com/buyabez/cloudme1112_exploit | 0 | 0| 
+| 20201012T19:49:35Z | Exercice permettant de s%initier à la création de bases de données simples et à leur exploitation en PHP. | https://github.com/M2i-DWWM-0920-Lyon-AURA/s05-php-bdd-horoscope | 0 | 0| 
+| 20201012T19:03:15Z | Im trying to reverse engineer and exploit the tile bluetooth tracker | https://github.com/lumagician/tile-reversed | 0 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20201012T12:49:50Z | Null | https://github.com/irepublica/monitor_backdoor | 0 | 0| 
-| 20201012T12:11:37Z | Null | https://github.com/marychev-akvelon/xamarin-demoapp-backdoor | 0 | 0| 
+| 20201012T23:58:04Z | Backdoor Feito em C | https://github.com/Kripto-Sec/Cbackdoor | 4 | 0| 
+| 20201012T23:02:56Z | Null | https://github.com/irepublica/monitor_backdoor | 0 | 0| 
+| 20201012T20:44:32Z | python storage control backdoor, for local network. | https://github.com/ExsoKamabay/CTRL | 0 | 0| 
+| 20201012T19:06:37Z | Tool to find potential backdoor/security holes in your endpoint | https://github.com/subasgit/backdoorfinder | 1 | 0| 
+| 20201012T17:10:07Z | Basic Windows reverse shell written in C++ | https://github.com/hacefresko/CppBackdoor | 0 | 0| 
+| 20201012T16:33:23Z | Null | https://github.com/marychev-akvelon/xamarin-demoapp-backdoor | 0 | 0| 
+| 20201012T15:13:58Z | Pupy is an opensource, cross-platform (Windows, Linux, OSX, Android) remote administration and post-exploitation tool mainly written in python | https://github.com/n1nj4sec/pupy | 5845 | 1522| 
 | 20201012T08:49:36Z | Null | https://github.com/Adk2001tech/Biometric-Backdoors | 0 | 0| 
 | 20201012T07:18:13Z | reverse shell from udemy course: Coding Botnet & Backdoor In Python For Ethical Hacking! | https://github.com/cmoelvad/ReverseShell | 0 | 0| 
-| 20201012T06:12:02Z | Pupy is an opensource, cross-platform (Windows, Linux, OSX, Android) remote administration and post-exploitation tool mainly written in python | https://github.com/n1nj4sec/pupy | 5844 | 1524| 
 | 20201012T05:19:40Z | Null | https://github.com/rabbitx1337/backdoor | 0 | 0| 
 
 
