@@ -21,6 +21,7 @@
 | 20201012 | NVIDIA 驱动系统管理接口（SMI）DLL 注入漏洞的分析 | https://www.pentestpartners.com/security-blog/dll-hijacking-in-nvidia-smi/| 
 | 20201012 | 检测 Microsoft 365 与 Azure 活动目录的后门 | https://www.fireeye.com/blog/threat-research/2020/09/detecting-microsoft-365-azure-active-directory-backdoors.html| 
 | 20201012 | ZDI 对 IBM WebSphere IIOP 协议远程漏洞的分析 | https://www.thezdi.com/blog/2020/9/29/exploiting-other-remote-protocols-in-ibm-websphere| 
+| 20201012 | 漏洞利用图谱方法–通过查找作者编写的恶意软件指纹来寻找漏洞利用。 | https://research.checkpoint.com/2020/graphology-of-an-exploit-volodya/| 
 
 
 # 安全维基 推荐
@@ -41,13 +42,15 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20201012T12:20:34Z | CVE-2020-5902 | Exphub[漏洞利用脚本库] 包括Webloigc、Struts2、Tomcat、Nexus、Solr、Jboss、Drupal的漏洞利用脚本，最新添加CVE-2020-5902、CVE-2020-11444、CVE-2020-10204、CVE-2020-10199、CVE-2020-1938、CVE-2020-2551、CVE-2020-2555、CVE-2020-2883、CVE-2019-17558、CVE-2019-6340 | https://github.com/zhzyker/exphub | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  09 HOURS 42 MINUTES 16 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20201012T10:43:26Z | CVE-2020-25213 | https://medium.com/@mansoorr/exploiting-cve-2020-25213-wp-file-manager-wordpress-plugin-6-9-3f79241f0cd8 | https://github.com/mansoorr123/wp-file-manager-CVE-2020-25213 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  09 HOURS 42 MINUTES 29 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201012T12:20:34Z | CVE-2020-5902 | Exphub[漏洞利用脚本库] 包括Webloigc、Struts2、Tomcat、Nexus、Solr、Jboss、Drupal的漏洞利用脚本，最新添加CVE-2020-5902、CVE-2020-11444、CVE-2020-10204、CVE-2020-10199、CVE-2020-1938、CVE-2020-2551、CVE-2020-2555、CVE-2020-2883、CVE-2019-17558、CVE-2019-6340 | https://github.com/zhzyker/exphub | 在BIG-IP版本15.0.0-15.1.0.3、14.1.0-14.1.2.5、13.1.0-13.1.3.3、12.1.0-12.1.5.1和11.6.1-11.6.5.1中，流量管理用户接口（TMUI），也称为“配置”实用程序，在未公开的页面中具有远程执行代码（RCE）漏洞。| 
+| 20201012T10:43:26Z | CVE-2020-25213 | https://medium.com/@mansoorr/exploiting-cve-2020-25213-wp-file-manager-wordpress-plugin-6-9-3f79241f0cd8 | https://github.com/mansoorr123/wp-file-manager-CVE-2020-25213 | WordPress 6.9之前的文件管理器（wp-file-manager）插件允许远程攻击者上传和执行任意PHP代码，因为它将不安全的示例elFinder连接器文件重命名为具有.php扩展名。例如，这允许攻击者运行elFinder upload（或mkfile和put）命令将PHP代码写入wp-content / plugins / wp-file-manager / lib / files /目录。 2020年8月和9月在野外进行了开发。| 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20201012T20:25:46Z | Urban Evidence Based Policy (SPPA667) | https://github.com/KLeeDE/PUS2020_KLee | 0 | 1| 
+| 20201012T15:15:09Z | Null | https://github.com/mitchklee35/MitchKlee.com | 0 | 0| 
 | 20201012T10:31:11Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1519 | 463| 
 | 20201012T09:55:05Z | Create CFGs and compute complexity metrics for Python, C++, and Java code. | https://github.com/hmc-alpaqa/metrinome | 4 | 0| 
 | 20201012T08:51:20Z | RVT is a collection of tools/libraries to support both static and dynamic verification of Rust programs. | https://github.com/project-oak/rust-verification-tools | 89 | 5| 
@@ -57,6 +60,8 @@
 # s2e on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20201012T22:11:25Z | Null | https://github.com/JeffShao96/S2E-NS-3 | 0 | 0| 
+| 20201012T21:47:16Z | Your S2E project management tools. Visit https://s2e.systems/docs to get started. | https://github.com/S2E/s2e-env | 67 | 30| 
 | 20201012T05:10:30Z | WIZnet Serial to Ethernet(S2E) module based on W7500 chip, WIZ107/108SR S2E compatible device | https://github.com/Wiznet/WIZ750SR | 13 | 13| 
 
 
@@ -89,16 +94,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20201012T13:03:03Z | Fuzzy Logic for UFRRJ Classroom Students | https://github.com/zavaleta/Fuzzy_logic_UFRRJ | 0 | 0| 
-| 20201012T13:01:18Z | Null | https://github.com/lazygrey/fuzzing_with_cmaes | 0 | 1| 
-| 20201012T12:39:37Z | VMI Kernel Fuzzer for Xen Project - VM forking, VMI & AFL integration demo | https://github.com/intel/kernel-fuzzer-for-xen-project | 152 | 24| 
-| 20201012T12:20:47Z | Fuzzy filename matching | https://github.com/dtrace4linux/fuzzy | 0 | 0| 
-| 20201012T11:47:25Z | Fuzzer for Kotlin compiler. Found > 65 unique bugs in kotlinc v1.1.4-3. | https://github.com/ItsLastDay/KotlinFuzzer | 6 | 0| 
-| 20201012T11:07:43Z | Null | https://github.com/FDU-Program-Analysis/chunk-fuzzer-pass | 0 | 0| 
-| 20201012T10:53:29Z | fuzzy matching everywhere | https://github.com/amirrezaask/fuzzy.nvim | 1 | 0| 
-| 20201012T10:50:44Z | Null | https://github.com/pkudlacik/NeuroFuzzy_Lips | 0 | 0| 
-| 20201012T10:41:06Z | Wordlists for Fuzzing | https://github.com/maverickNerd/wordlists | 10 | 7| 
-| 20201012T10:39:23Z | Null | https://github.com/johan-martenson/settlers-fuzzing | 0 | 0| 
+| 20201012T23:48:31Z | Null | https://github.com/castellanos94/FuzzyLogicPy | 0 | 0| 
+| 20201012T23:35:58Z | collection of helper tools for fuzzing | https://github.com/fuzzah/fuzzaide | 0 | 0| 
+| 20201012T23:13:23Z | VMI Kernel Fuzzer for Xen Project - VM forking, VMI & AFL integration demo | https://github.com/intel/kernel-fuzzer-for-xen-project | 152 | 24| 
+| 20201012T22:43:00Z | Null | https://github.com/christheblog/trie-fuzzy-search | 0 | 0| 
+| 20201012T22:27:11Z | FuzzBench - Fuzzer benchmarking as a service. | https://github.com/google/fuzzbench | 532 | 82| 
+| 20201012T22:12:23Z | The Fuzzbunny In Stitches store | https://github.com/jason44406/fuzzbunny-in-stitches | 0 | 0| 
+| 20201012T22:05:56Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2146 | 100| 
+| 20201012T21:50:41Z | Null | https://github.com/cclinus/AV-Fuzzer | 0 | 0| 
+| 20201012T21:17:52Z | Null | https://github.com/Ikarona/fuzzer | 0 | 0| 
+| 20201012T21:17:32Z | Null | https://github.com/aidanoleary/FuzzyStringMatching | 0 | 0| 
 
 
 
