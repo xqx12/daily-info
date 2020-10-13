@@ -42,16 +42,16 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20201012T12:20:34Z | CVE-2020-5902 | Exphub[漏洞利用脚本库] 包括Webloigc、Struts2、Tomcat、Nexus、Solr、Jboss、Drupal的漏洞利用脚本，最新添加CVE-2020-5902、CVE-2020-11444、CVE-2020-10204、CVE-2020-10199、CVE-2020-1938、CVE-2020-2551、CVE-2020-2555、CVE-2020-2883、CVE-2019-17558、CVE-2019-6340 | https://github.com/zhzyker/exphub | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 55 MINUTES 53 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20201012T10:43:26Z | CVE-2020-25213 | https://medium.com/@mansoorr/exploiting-cve-2020-25213-wp-file-manager-wordpress-plugin-6-9-3f79241f0cd8 | https://github.com/mansoorr123/wp-file-manager-CVE-2020-25213 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 55 MINUTES 22 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201012T12:20:34Z | CVE-2020-5902 | Exphub[漏洞利用脚本库] 包括Webloigc、Struts2、Tomcat、Nexus、Solr、Jboss、Drupal的漏洞利用脚本，最新添加CVE-2020-5902、CVE-2020-11444、CVE-2020-10204、CVE-2020-10199、CVE-2020-1938、CVE-2020-2551、CVE-2020-2555、CVE-2020-2883、CVE-2019-17558、CVE-2019-6340 | https://github.com/zhzyker/exphub | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 55 MINUTES 05 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201012T10:43:26Z | CVE-2020-25213 | https://medium.com/@mansoorr/exploiting-cve-2020-25213-wp-file-manager-wordpress-plugin-6-9-3f79241f0cd8 | https://github.com/mansoorr123/wp-file-manager-CVE-2020-25213 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 54 MINUTES 31 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20201011T10:47:12Z | 未知编号 | Null | https://github.com/dima5455/CVE2020 | 未查询到CVE信息| 
 | 20201010T22:15:54Z | CVE-2020-1472 | Exploit Code for CVE-2020-1472 aka Zerologon | https://github.com/VoidSec/CVE-2020-1472 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 55 MINUTES 09 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20201010T21:30:04Z | CVE-2020-15227 | CVE-2020-15227 exploit | https://github.com/hu4wufu/CVE-2020-15227 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 55 MINUTES 20 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201010T21:30:04Z | CVE-2020-15227 | CVE-2020-15227 exploit | https://github.com/hu4wufu/CVE-2020-15227 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 54 MINUTES 28 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20201010T17:19:53Z | CVE-2020-3452 | Just basic scanner abusing CVE-2020-3452 to enumerate the standard files accessible in the Web Directory of the CISCO ASA applicances. | https://github.com/3ndG4me/CVE-2020-3452-Exploit | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
 | 20201010T09:51:10Z | 未知编号 | Null | https://github.com/Ken-Abruzzi/cve_2020_0688 | 未查询到CVE信息| 
 | 20201010T09:22:23Z | 未知编号 | Null | https://github.com/Ken-Abruzzi/cve_2020_0796 | 未查询到CVE信息| 
-| 20201010T09:02:55Z | cve-2020-1472 | Null | https://github.com/shanfenglan/cve-2020-1472 | | 
-| 20201010T08:24:37Z | CVE-2020-14955 | Jiangmin | https://github.com/intrigus-lgtm/CVE-2020-14955 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 55 MINUTES 15 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201010T09:02:55Z | cve-2020-1472 | Null | https://github.com/shanfenglan/cve-2020-1472 | 未查询到CVE信息| 
+| 20201010T08:24:37Z | CVE-2020-14955 | Jiangmin | https://github.com/intrigus-lgtm/CVE-2020-14955 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 54 MINUTES 23 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 
 
 # klee on Github 推荐
@@ -95,6 +95,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20201013T01:05:21Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 69 | 8| 
 | 20201013T00:48:27Z | Backdoor Feito em C | https://github.com/Kripto-Sec/Cbackdoor | 5 | 0| 
 | 20201012T23:02:56Z | Null | https://github.com/irepublica/monitor_backdoor | 0 | 0| 
 | 20201012T20:44:32Z | python storage control backdoor, for local network. | https://github.com/ExsoKamabay/CTRL | 0 | 0| 
@@ -104,7 +105,6 @@
 | 20201012T15:13:58Z | Pupy is an opensource, cross-platform (Windows, Linux, OSX, Android) remote administration and post-exploitation tool mainly written in python | https://github.com/n1nj4sec/pupy | 5845 | 1522| 
 | 20201012T08:49:36Z | Null | https://github.com/Adk2001tech/Biometric-Backdoors | 0 | 0| 
 | 20201012T07:18:13Z | reverse shell from udemy course: Coding Botnet & Backdoor In Python For Ethical Hacking! | https://github.com/cmoelvad/ReverseShell | 0 | 0| 
-| 20201012T05:19:40Z | Null | https://github.com/rabbitx1337/backdoor | 0 | 0| 
 
 
 # fuzz on Github 推荐
