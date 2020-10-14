@@ -14,6 +14,7 @@
 | 20201013 | We Hacked Apple for 3 Months: Here’s What We Found | https://samcurry.net/hacking-apple/| 
 | 20201013 | 在 IDA Hexrays AST 级别搜索代码特征的工具 | https://github.com/patois/HexraysToolbox| 
 | 20201013 | Voyager - 为 Windows 10 x64 Hyper-v 框架提供模块注入以及 vmexit hook 功能的工具 | https://githacks.org/xerox/voyager| 
+| 20201013 | 《Professional CMake - A Practical Guide》的中文翻译版资源。 | https://github.com/xiaoweiChen/Professional-CMake| 
 | 20201012 | 拆解基于DST80的车机防盗系统 | http://tches.iacr.org/index.php/TCHES/article/view/8546/8111| 
 | 20201012 | 利用 CodeQL 分析工具检测 C++ 迭代器失效导致的安全漏洞 | https://blog.trailofbits.com/2020/10/09/detecting-iterator-invalidation-with-codeql/| 
 | 20201012 | HEH Botnet, 一个处于开发阶段的 IoT P2P Botnet | http://blog.netlab.360.com/heh-an-iot-p2p-botnet-cn/| 
@@ -25,7 +26,6 @@
 | 20201012 | D-Link 路由器家庭网络管理协议（HNAP）认证绕过漏洞的分析 | https://www.thezdi.com/blog/2020/9/30/the-anatomy-of-a-bug-door-dissecting-two-d-link-router-authentication-bypasses| 
 | 20201012 | NVIDIA 驱动系统管理接口（SMI）DLL 注入漏洞的分析 | https://sec.today/pulses/1b52633f-4603-4fd5-89eb-fab0ea158312/| 
 | 20201012 | 检测 Microsoft 365 与 Azure 活动目录的后门 | https://sec.today/pulses/fa10a1ae-c3c1-4cca-9764-ac07b7eb6434/| 
-| 20201012 | ZDI 对 IBM WebSphere IIOP 协议远程漏洞的分析 | https://sec.today/pulses/c5e7cce9-a1b6-458d-a791-3b4182761397/| 
 
 
 # 安全维基 推荐
@@ -46,31 +46,31 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20201013T11:13:40Z | CVE-2020-2021 | CVE-2020-2021 | https://github.com/mr-r3b00t/CVE-2020-2021 | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  09 HOURS 23 MINUTES 21 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20201013T07:11:28Z | CVE-2020-5902 | Exphub[漏洞利用脚本库] 包括Webloigc、Struts2、Tomcat、Nexus、Solr、Jboss、Drupal的漏洞利用脚本，最新添加CVE-2020-5902、CVE-2020-11444、CVE-2020-10204、CVE-2020-10199、CVE-2020-1938、CVE-2020-2551、CVE-2020-2555、CVE-2020-2883、CVE-2019-17558、CVE-2019-6340 | https://github.com/zhzyker/exphub | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  09 HOURS 23 MINUTES 20 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20201013T05:04:47Z | CVE-2020-25213 | https://medium.com/@mansoorr/exploiting-cve-2020-25213-wp-file-manager-wordpress-plugin-6-9-3f79241f0cd8 | https://github.com/mansoorr123/wp-file-manager-CVE-2020-25213 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  09 HOURS 23 MINUTES 37 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20201011T10:47:12Z | 未知编号 | Null | https://github.com/dima5455/CVE2020 | | 
-| 20201010T22:15:54Z | CVE-2020-1472 | Exploit Code for CVE-2020-1472 aka Zerologon | https://github.com/VoidSec/CVE-2020-1472 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  09 HOURS 23 MINUTES 23 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20201010T21:30:04Z | CVE-2020-15227 | CVE-2020-15227 exploit | https://github.com/hu4wufu/CVE-2020-15227 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  09 HOURS 23 MINUTES 34 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201013T23:54:06Z | CVE-2020-16898 | CVE-202-16898 (Bad Neighbor) Microsoft Windows TCP/IP Vulnerability Detection Logic and Rule | https://github.com/advanced-threat-research/CVE-2020-16898 | 未查询到CVE信息| 
+| 20201013T22:05:16Z | CVE-2020-16899 | CVE-2020-16899 - Microsoft Windows TCP/IP Vulnerability Detection Logic and Rule | https://github.com/advanced-threat-research/CVE-2020-16899 | 未查询到CVE信息| 
+| 20201013T18:42:49Z | CVE-2020-25213 | https://medium.com/@mansoorr/exploiting-cve-2020-25213-wp-file-manager-wordpress-plugin-6-9-3f79241f0cd8 | https://github.com/mansoorr123/wp-file-manager-CVE-2020-25213 | WordPress 6.9之前的文件管理器（wp-file-manager）插件允许远程攻击者上传和执行任意PHP代码，因为它将不安全的示例elFinder连接器文件重命名为具有.php扩展名。例如，这允许攻击者运行elFinder upload（或mkfile和put）命令将PHP代码写入wp-content / plugins / wp-file-manager / lib / files /目录。 2020年8月和9月在野外进行了开发。| 
+| 20201013T18:39:05Z | CVE-2020-5902 | Exphub[漏洞利用脚本库] 包括Webloigc、Struts2、Tomcat、Nexus、Solr、Jboss、Drupal的漏洞利用脚本，最新添加CVE-2020-5902、CVE-2020-11444、CVE-2020-10204、CVE-2020-10199、CVE-2020-1938、CVE-2020-2551、CVE-2020-2555、CVE-2020-2883、CVE-2019-17558、CVE-2019-6340 | https://github.com/zhzyker/exphub | 在BIG-IP版本15.0.0-15.1.0.3、14.1.0-14.1.2.5、13.1.0-13.1.3.3、12.1.0-12.1.5.1和11.6.1-11.6.5.1中，流量管理用户接口（TMUI），也称为“配置”实用程序，在未公开的页面中具有远程执行代码（RCE）漏洞。| 
+| 20201013T11:13:40Z | CVE-2020-2021 | CVE-2020-2021 | https://github.com/mr-r3b00t/CVE-2020-2021 | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS 在这种情况下，这是 CVSS 基本分数为 10.0（CVSS：3.1/AV：N/AC：L/PR：N/UI：N/S：C/C：H/I：H/A：H）的严重性漏洞。 然后问题降低到 CVSS 基本分数 9.6 （CVSS：3.1/AV：A/AC：L/PR：N/UI：N/S：C/C：H/I：H/A：H）。 Palo Alto 网络公司不知道有任何恶意企图利用此漏洞。| 
+| 20201011T10:47:12Z | 未知编号 | Null | https://github.com/dima5455/CVE2020 | 未查询到CVE信息| 
+| 20201010T22:15:54Z | CVE-2020-1472 | Exploit Code for CVE-2020-1472 aka Zerologon | https://github.com/VoidSec/CVE-2020-1472 | 当攻击者使用Netlogon远程协议（MS-NRPC）（又称为“ Netlogon特权提升漏洞”）建立与域控制器的易受攻击的Netlogon安全通道连接时，将存在特权提升漏洞。| 
+| 20201010T21:30:04Z | CVE-2020-15227 | CVE-2020-15227 exploit | https://github.com/hu4wufu/CVE-2020-15227 | Nette版本2.0.19、2.1.13、2.2.10、2.3.14、2.4.16、3.0.6之前的版本很容易受到代码注入攻击，方法是将特殊格式的参数传递给URL，这有可能导致RCE。 Nette是一个PHP / Composer MVC框架。| 
 | 20201010T17:19:53Z | CVE-2020-3452 | Just basic scanner abusing CVE-2020-3452 to enumerate the standard files accessible in the Web Directory of the CISCO ASA applicances. | https://github.com/3ndG4me/CVE-2020-3452-Exploit | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
-| 20201010T09:51:10Z | 未知编号 | Null | https://github.com/Ken-Abruzzi/cve_2020_0688 | | 
-| 20201010T09:22:23Z | 未知编号 | Null | https://github.com/Ken-Abruzzi/cve_2020_0796 | 未查询到CVE信息| 
-| 20201010T09:02:55Z | cve-2020-1472 | Null | https://github.com/shanfenglan/cve-2020-1472 | 未查询到CVE信息| 
+| 20201010T09:51:10Z | 未知编号 | Null | https://github.com/Ken-Abruzzi/cve_2020_0688 | 未查询到CVE信息| 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20201013T10:53:34Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1520 | 463| 
+| 20201013T23:04:38Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1522 | 463| 
+| 20201013T21:40:55Z | Ecommerce platform integrating the Momo API | https://github.com/MabuselaYolanda/kleekproject | 0 | 0| 
+| 20201013T15:57:07Z | Urban Evidence Based Policy (SPPA667) | https://github.com/KLeeDE/PUS2020_KLee | 0 | 1| 
 | 20201013T06:35:02Z | Create CFGs and compute complexity metrics for Python, C++, and Java code. | https://github.com/hmc-alpaqa/metrinome | 4 | 0| 
-| 20201012T20:25:46Z | Urban Evidence Based Policy (SPPA667) | https://github.com/KLeeDE/PUS2020_KLee | 0 | 1| 
 | 20201012T15:15:09Z | Null | https://github.com/mitchklee35/MitchKlee.com | 0 | 0| 
 | 20201012T08:51:20Z | RVT is a collection of tools/libraries to support both static and dynamic verification of Rust programs. | https://github.com/project-oak/rust-verification-tools | 89 | 5| 
 | 20201012T08:40:24Z | Website for the KLEE project: https://klee.github.io/ | https://github.com/klee/klee.github.io | 13 | 43| 
 | 20201011T10:52:55Z | Kleek interactive momo ecommerce platform | https://github.com/RockHardJim/kleek | 0 | 0| 
 | 20201011T07:36:43Z | Symbiotic is a tool for finding bugs in computer programs based on instrumentation, program slicing and KLEE | https://github.com/staticafi/symbiotic | 198 | 33| 
 | 20201009T12:48:14Z | modify klee to support thread and multiloop | https://github.com/zhaoxiahust/klee_modify | 1 | 1| 
-| 20201009T12:45:01Z | Null | https://github.com/klee30810/klee30810 | 1 | 0| 
 
 
 # s2e on Github 推荐
@@ -85,46 +85,46 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20201013T13:28:20Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 7764 | 1249| 
-| 20201013T13:25:56Z | Apache Solr Exploits  🌟 | https://github.com/Imanfeng/Apache-Solr-RCE | 61 | 14| 
-| 20201013T13:07:38Z | WITHCulture is a service that provides access to digital cultural heritage items from different repositories and offers a number of added-value services for the creative reuse and intelligent exploitation of that content. | https://github.com/ails-lab/with | 1 | 3| 
-| 20201013T13:01:46Z | xcube is a Python package for generating and exploiting data cubes powered by xarray, dask, and zarr. | https://github.com/dcs4cop/xcube | 65 | 11| 
-| 20201013T12:48:37Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 5 | 3| 
-| 20201013T12:45:12Z | CTFs I%ve played so far | https://github.com/AravGarg/CTFarchives | 14 | 4| 
-| 20201013T12:09:11Z | Exploit tool samples | https://github.com/devilsastry/Samples | 0 | 0| 
-| 20201013T11:59:43Z | Exploit for the Ultimate Project Manager by unique_coder [<= 2.0.5]. | https://github.com/Nagomez97/UPM-PRO-by-unique_coder-exploit-2.0.5- | 0 | 0| 
-| 20201013T11:43:33Z | Exploit code for the my InfoSec Writeups at https://pwnokefalos.eu | https://github.com/astasinos/Infosec-Writeups | 2 | 1| 
-| 20201013T11:41:29Z | GEF - GDB Enhanced Features for exploit devs & reversers | https://github.com/hugsy/gef | 3169 | 461| 
+| 20201013T23:57:54Z | Basic cuckoo egg exploit as well as potential shield program | https://github.com/watsonaiden/Cuckoo_egg | 0 | 0| 
+| 20201013T23:48:08Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 7865 | 1249| 
+| 20201013T23:43:29Z | This is basically just v7 and v4 but on a voice channel. (How doesnt discord ratelimit that .-.) | https://github.com/Yaekith/ServerOutageExploitV9 | 3 | 0| 
+| 20201013T23:34:15Z | Null | https://github.com/0-777/TrashExploitsWithKeySystems | 0 | 0| 
+| 20201013T23:14:34Z | Null | https://github.com/quentin452/Cats-Exploitz-HUB | 0 | 1| 
+| 20201013T23:08:55Z | some shit for mac exploits | https://github.com/RjchenDev/some-shit | 0 | 0| 
+| 20201013T23:08:44Z | CTF framework and exploit development library | https://github.com/Gallopsled/pwntools | 7115 | 1295| 
+| 20201013T22:18:48Z | Null | https://github.com/Ahendall/AhendallExploiting | 0 | 0| 
+| 20201013T22:06:17Z | Null | https://github.com/exploitz86/exploitz86.github.io | 0 | 0| 
+| 20201013T21:59:08Z | Advanced Exploit Mitigation Paper | https://github.com/CxVercility/Windows-Internals | 0 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20201013T13:30:01Z | Full-featured C2 framework which silently persists on webserver via evil PHP oneliner :smiling_imp: | https://github.com/nil0x42/phpsploit | 1037 | 316| 
+| 20201013T22:21:53Z | A deck-building roguelike cyberpunk game. | https://github.com/uspgamedev/backdoor | 18 | 3| 
+| 20201013T20:44:17Z | python storage control backdoor, for local network. | https://github.com/ExsoKamabay/CTRL | 0 | 0| 
+| 20201013T20:02:01Z | Full-featured C2 framework which silently persists on webserver via evil PHP oneliner :smiling_imp: | https://github.com/nil0x42/phpsploit | 1040 | 316| 
+| 20201013T18:50:28Z | ParadoxiaRat : Native Windows Remote access Tool. | https://github.com/quantumcored/paradoxiaRAT | 185 | 33| 
 | 20201013T11:16:29Z | Null | https://github.com/marychev-akvelon/xamarin-demoapp-backdoor | 0 | 0| 
 | 20201013T06:56:17Z | Null | https://github.com/sahil3112/Python-Reverse-Backdoor | 0 | 0| 
-| 20201013T06:53:42Z | Pupy is an opensource, cross-platform (Windows, Linux, OSX, Android) remote administration and post-exploitation tool mainly written in python | https://github.com/n1nj4sec/pupy | 5846 | 1522| 
+| 20201013T06:53:42Z | Pupy is an opensource, cross-platform (Windows, Linux, OSX, Android) remote administration and post-exploitation tool mainly written in python | https://github.com/n1nj4sec/pupy | 5846 | 1521| 
 | 20201013T05:42:45Z | Avyukt is a Exploitation Framework which can be used to generate Malicious Payloads and exploit Windows OS | https://github.com/Vedant-Bhalgama/Avyukt | 14 | 5| 
 | 20201013T01:05:21Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 69 | 8| 
 | 20201013T00:48:27Z | Backdoor Feito em C | https://github.com/Kripto-Sec/Cbackdoor | 5 | 0| 
-| 20201012T23:02:56Z | Null | https://github.com/irepublica/monitor_backdoor | 0 | 0| 
-| 20201012T20:44:32Z | python storage control backdoor, for local network. | https://github.com/ExsoKamabay/CTRL | 0 | 0| 
-| 20201012T19:06:37Z | Tool to find potential backdoor/security holes in your endpoint | https://github.com/subasgit/backdoorfinder | 1 | 0| 
 
 
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20201013T13:36:04Z | [CodAffection] React with Firebase CRUD Operations | https://github.com/keithtmccartney/fuzzy-computing-machine | 0 | 0| 
-| 20201013T13:35:39Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2148 | 101| 
-| 20201013T13:20:56Z | VMI Kernel Fuzzer for Xen Project - VM forking, VMI & AFL integration demo | https://github.com/intel/kernel-fuzzer-for-xen-project | 152 | 24| 
-| 20201013T13:17:25Z | Fuzzy Match a name with a standard list | https://github.com/India-Alliance/Fuzzy-Matcher | 1 | 0| 
-| 20201013T13:12:20Z | 2D platformer skeleton built with LWJGL and a vendored fork of Slick2D | https://github.com/FOShameDotOrg/fuzzy-octo-shame | 3 | 3| 
-| 20201013T12:59:27Z | Fuzzy Logic for UFRRJ Classroom Students | https://github.com/zavaleta/Fuzzy_logic_UFRRJ | 0 | 0| 
-| 20201013T12:43:15Z | Null | https://github.com/imbawenzi/Fuzzing_Paper_Note | 0 | 0| 
-| 20201013T12:35:48Z | A Java library that helps to build human readable date/time messages. | https://github.com/amaasch/jFuzzyDate | 1 | 0| 
-| 20201013T12:10:18Z | OSS-Fuzz - continuous fuzzing of open source software. | https://github.com/google/oss-fuzz | 5599 | 1100| 
-| 20201013T11:56:01Z | repo of scripts | https://github.com/johanvargas/fuzzy-projects | 0 | 0| 
+| 20201013T23:22:40Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2149 | 101| 
+| 20201013T23:04:35Z | Tutorials, examples, discussions, research proposals, and other resources related to fuzzing | https://github.com/google/fuzzing | 1453 | 212| 
+| 20201013T22:54:52Z | Null | https://github.com/googleinterns/hw-fuzzing | 2 | 0| 
+| 20201013T22:43:40Z | Null | https://github.com/almosteverywhere/fuzzy-system | 0 | 0| 
+| 20201013T22:29:04Z | Null | https://github.com/zeddzorandder/fuzzy-couscous | 0 | 0| 
+| 20201013T22:15:46Z | Null | https://github.com/MAT501-AbertayUni/FuzzyLogicUnity | 0 | 0| 
+| 20201013T22:04:34Z | A conda-smithy repository for fuzzysearch. | https://github.com/conda-forge/fuzzysearch-feedstock | 0 | 2| 
+| 20201013T21:09:58Z | Null | https://github.com/fuzzylogicxx/fuzzy-speedlify | 0 | 0| 
+| 20201013T21:04:43Z | Dockerfile for load balancing mutliple Radamsa fuzzing servers under HAProxy | https://github.com/DougHaber/radamsa-haproxy | 0 | 0| 
+| 20201013T20:30:02Z | OSS-Fuzz - continuous fuzzing of open source software. | https://github.com/google/oss-fuzz | 5600 | 1101| 
 
 
 
