@@ -28,9 +28,9 @@
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
 | 20201013T22:05:16Z | CVE-2020-16899 | CVE-2020-16899 - Microsoft Windows TCP/IP Vulnerability Detection Logic and Rule | https://github.com/advanced-threat-research/CVE-2020-16899 | 未查询到CVE信息| 
-| 20201013T18:42:49Z | CVE-2020-25213 | https://medium.com/@mansoorr/exploiting-cve-2020-25213-wp-file-manager-wordpress-plugin-6-9-3f79241f0cd8 | https://github.com/mansoorr123/wp-file-manager-CVE-2020-25213 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 58 MINUTES 19 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20201013T18:39:05Z | CVE-2020-5902 | Exphub[漏洞利用脚本库] 包括Webloigc、Struts2、Tomcat、Nexus、Solr、Jboss、Drupal的漏洞利用脚本，最新添加CVE-2020-5902、CVE-2020-11444、CVE-2020-10204、CVE-2020-10199、CVE-2020-1938、CVE-2020-2551、CVE-2020-2555、CVE-2020-2883、CVE-2019-17558、CVE-2019-6340 | https://github.com/zhzyker/exphub | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 58 MINUTES 58 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20201013T11:13:40Z | CVE-2020-2021 | CVE-2020-2021 | https://github.com/mr-r3b00t/CVE-2020-2021 | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 59 MINUTES 04 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201013T18:42:49Z | CVE-2020-25213 | https://medium.com/@mansoorr/exploiting-cve-2020-25213-wp-file-manager-wordpress-plugin-6-9-3f79241f0cd8 | https://github.com/mansoorr123/wp-file-manager-CVE-2020-25213 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  20 HOURS 49 MINUTES 15 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201013T18:39:05Z | CVE-2020-5902 | Exphub[漏洞利用脚本库] 包括Webloigc、Struts2、Tomcat、Nexus、Solr、Jboss、Drupal的漏洞利用脚本，最新添加CVE-2020-5902、CVE-2020-11444、CVE-2020-10204、CVE-2020-10199、CVE-2020-1938、CVE-2020-2551、CVE-2020-2555、CVE-2020-2883、CVE-2019-17558、CVE-2019-6340 | https://github.com/zhzyker/exphub | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  20 HOURS 48 MINUTES 58 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201013T11:13:40Z | CVE-2020-2021 | CVE-2020-2021 | https://github.com/mr-r3b00t/CVE-2020-2021 | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  20 HOURS 49 MINUTES 00 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 
 
 # klee on Github 推荐
@@ -53,7 +53,6 @@
 | --- | --- | --- | --- | ---| 
 | 20201013T23:57:54Z | Basic cuckoo egg exploit as well as potential shield program | https://github.com/watsonaiden/Cuckoo_egg | 0 | 0| 
 | 20201013T23:34:15Z | Null | https://github.com/0-777/TrashExploitsWithKeySystems | 0 | 0| 
-| 20201013T23:14:34Z | Null | https://github.com/quentin452/Cats-Exploitz-HUB | 0 | 1| 
 | 20201013T23:08:55Z | some shit for mac exploits | https://github.com/RjchenDev/some-shit | 0 | 0| 
 | 20201013T23:08:44Z | CTF framework and exploit development library | https://github.com/Gallopsled/pwntools | 7115 | 1295| 
 | 20201013T22:18:48Z | Null | https://github.com/Ahendall/AhendallExploiting | 0 | 0| 
@@ -61,6 +60,7 @@
 | 20201013T21:59:08Z | Advanced Exploit Mitigation Paper | https://github.com/CxVercility/Windows-Internals | 0 | 0| 
 | 20201013T21:55:44Z | This is once again, another fixed method that used to be able to crash a discord server. | https://github.com/Yaekith/ServerOutageExploitV7 | 0 | 0| 
 | 20201013T20:56:21Z | A demo of how a bad Content Security Policy (CSP) can exacerbate a XSS vulnerability | https://github.com/brightonsbox/xss-csp-exploit-example | 0 | 0| 
+| 20201013T20:17:20Z | Representing nine ways to exploit XSS (vulnerable app!) | https://github.com/kevin-valerio/NineXSS | 0 | 0| 
 
 
 # backdoor on Github 推荐
@@ -69,7 +69,7 @@
 | 20201013T22:21:53Z | A deck-building roguelike cyberpunk game. | https://github.com/uspgamedev/backdoor | 18 | 3| 
 | 20201013T20:44:17Z | python storage control backdoor, for local network. | https://github.com/ExsoKamabay/CTRL | 0 | 0| 
 | 20201013T20:02:01Z | Full-featured C2 framework which silently persists on webserver via evil PHP oneliner :smiling_imp: | https://github.com/nil0x42/phpsploit | 1040 | 316| 
-| 20201013T18:50:28Z | ParadoxiaRat : Native Windows Remote access Tool. | https://github.com/quantumcored/paradoxiaRAT | 185 | 33| 
+| 20201013T18:50:28Z | ParadoxiaRat : Native Windows Remote access Tool. | https://github.com/quantumcored/paradoxiaRAT | 185 | 34| 
 | 20201013T11:16:29Z | Null | https://github.com/marychev-akvelon/xamarin-demoapp-backdoor | 0 | 0| 
 | 20201013T06:56:17Z | Null | https://github.com/sahil3112/Python-Reverse-Backdoor | 0 | 0| 
 | 20201013T05:42:45Z | Avyukt is a Exploitation Framework which can be used to generate Malicious Payloads and exploit Windows OS | https://github.com/Vedant-Bhalgama/Avyukt | 14 | 5| 
@@ -80,16 +80,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20201013T23:22:40Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2149 | 101| 
 | 20201013T23:04:35Z | Tutorials, examples, discussions, research proposals, and other resources related to fuzzing | https://github.com/google/fuzzing | 1453 | 212| 
 | 20201013T22:54:52Z | Null | https://github.com/googleinterns/hw-fuzzing | 2 | 0| 
-| 20201013T22:43:40Z | Null | https://github.com/almosteverywhere/fuzzy-system | 0 | 0| 
 | 20201013T22:29:04Z | Null | https://github.com/zeddzorandder/fuzzy-couscous | 0 | 0| 
 | 20201013T22:15:46Z | Null | https://github.com/MAT501-AbertayUni/FuzzyLogicUnity | 0 | 0| 
 | 20201013T22:04:34Z | A conda-smithy repository for fuzzysearch. | https://github.com/conda-forge/fuzzysearch-feedstock | 0 | 2| 
 | 20201013T21:09:58Z | Null | https://github.com/fuzzylogicxx/fuzzy-speedlify | 0 | 0| 
 | 20201013T21:04:43Z | Dockerfile for load balancing mutliple Radamsa fuzzing servers under HAProxy | https://github.com/DougHaber/radamsa-haproxy | 0 | 0| 
 | 20201013T20:30:02Z | OSS-Fuzz - continuous fuzzing of open source software. | https://github.com/google/oss-fuzz | 5600 | 1101| 
+| 20201013T20:29:34Z | Fuzzing Rest apis using golang  | https://github.com/Fingann/JsonRestFuzzer | 0 | 0| 
+| 20201013T20:26:28Z | Repository holding database dumps from getfursu.it | https://github.com/veelkoov/fuzzrake-data | 0 | 0| 
 
 
 
