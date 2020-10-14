@@ -17,6 +17,7 @@
 | 20201014 | Fortinet 对 Phobos 勒索软件变种样本的分析 | https://www.fortinet.com/blog/threat-research/deep-analysis-the-eking-variant-of-phobos-ransomware?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+fortinet%2Fblog%2Fthreat-research+%28Fortinet+Threat+Research+Blog%29| 
 | 20201014 | Hindotech HK1 电视盒子存在 ROOT 任意命令执行漏洞，用户信息可被窃取 | https://sec.today/pulses/a81f3878-09f5-41ea-a1fd-040c84d41ef7/| 
 | 20201014 | 浅谈大规模红蓝对抗攻与防 | https://sec.today/pulses/24334530-bbff-42b6-89c2-0193d66bf97d/| 
+| 20201014 | Hindotech HK1 电视盒子存在 ROOT 任意命令执行漏洞，用户信息可被窃取 | https://threatpost.com/authentication-bug-android-smart-tv-data-theft/160025/| 
 | 20201013 | Windows 版本 Firefox 浏览器 Mozilla Maintenance 服务 SYSTEM 本地提权漏洞的分析 | https://blog.mozilla.org/attack-and-defense/2020/10/12/guest-blog-post-rollback-attack/| 
 | 20201013 | 微软 MSRC 对 CHERI ISA 内存保护机制的介绍 | https://github.com/microsoft/MSRC-Security-Research/blob/master/papers/2020/Security%20analysis%20of%20CHERI%20ISA.pdf| 
 | 20201013 | Windows rundll32.exe 进程的深入分析 | https://medium.com/@nasbench/a-deep-dive-into-rundll32-exe-642344b41e90| 
@@ -25,7 +26,6 @@
 | 20201013 | We Hacked Apple for 3 Months: Here’s What We Found | https://samcurry.net/hacking-apple/| 
 | 20201013 | 在 IDA Hexrays AST 级别搜索代码特征的工具 | https://github.com/patois/HexraysToolbox| 
 | 20201013 | Voyager - 为 Windows 10 x64 Hyper-v 框架提供模块注入以及 vmexit hook 功能的工具 | https://githacks.org/xerox/voyager| 
-| 20201013 | 《Professional CMake - A Practical Guide》的中文翻译版资源。 | https://github.com/xiaoweiChen/Professional-CMake| 
 
 
 # 安全维基 推荐
@@ -100,21 +100,22 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20201014T11:22:10Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 70 | 8| 
+| 20201014T10:21:03Z | Exploit / Backdoor patcher / preventer for gmod.  | https://github.com/Kamanoo/ExPatch | 0 | 0| 
+| 20201014T10:15:27Z | Null | https://github.com/tm2904/Backdoors_Xray | 0 | 0| 
+| 20201014T07:29:38Z | Avyukt is a Exploitation Framework which can be used to generate Malicious Payloads and exploit Windows OS | https://github.com/Vedant-Bhalgama/Avyukt | 14 | 5| 
+| 20201014T05:48:45Z | ParadoxiaRat : Native Windows Remote access Tool. | https://github.com/quantumcored/paradoxiaRAT | 186 | 34| 
 | 20201014T00:26:26Z | Pupy is an opensource, cross-platform (Windows, Linux, OSX, Android) remote administration and post-exploitation tool mainly written in python | https://github.com/n1nj4sec/pupy | 5847 | 1521| 
 | 20201013T22:21:53Z | A deck-building roguelike cyberpunk game. | https://github.com/uspgamedev/backdoor | 18 | 3| 
 | 20201013T20:44:17Z | python storage control backdoor, for local network. | https://github.com/ExsoKamabay/CTRL | 0 | 0| 
 | 20201013T20:02:01Z | Full-featured C2 framework which silently persists on webserver via evil PHP oneliner :smiling_imp: | https://github.com/nil0x42/phpsploit | 1040 | 316| 
-| 20201013T18:50:28Z | ParadoxiaRat : Native Windows Remote access Tool. | https://github.com/quantumcored/paradoxiaRAT | 185 | 34| 
 | 20201013T11:16:29Z | Null | https://github.com/marychev-akvelon/xamarin-demoapp-backdoor | 0 | 0| 
-| 20201013T06:56:17Z | Null | https://github.com/sahil3112/Python-Reverse-Backdoor | 0 | 0| 
-| 20201013T05:42:45Z | Avyukt is a Exploitation Framework which can be used to generate Malicious Payloads and exploit Windows OS | https://github.com/Vedant-Bhalgama/Avyukt | 14 | 5| 
-| 20201013T01:05:21Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 69 | 8| 
-| 20201013T00:48:27Z | Backdoor Feito em C | https://github.com/Kripto-Sec/Cbackdoor | 5 | 0| 
 
 
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20201014T12:01:57Z | This project consists of a simulation of a search-and-rescue environment for discrete path-planning of agents using a Fuzzy Inference System (FIS)-based controller and a Model Predictive Control (MPC)-based controller to optimise FIS parameters. | https://github.com/craigmax-dev/Integrated-Model-Predictive-Fuzzy-Control-for-Disaster-Victim-Detection-Path-Planning-in-MATLAB | 2 | 1| 
 | 20201014T11:59:54Z | Fuzzy Match a name with a standard list | https://github.com/India-Alliance/Fuzzy-Matcher | 1 | 0| 
 | 20201014T11:56:44Z | Fuzzy filename matching | https://github.com/dtrace4linux/fuzzy | 0 | 0| 
 | 20201014T11:53:28Z | Academic papers related to fuzzing, binary analysis, and exploit dev, which I want to read or have already read | https://github.com/0xricksanchez/paper_collection | 348 | 41| 
@@ -124,7 +125,6 @@
 | 20201014T09:09:02Z | Null | https://github.com/Caglankaan/fuzz-me-hard | 0 | 0| 
 | 20201014T09:02:24Z | Reversed Overtaking Kit -- An HTTP response fuzzer to test security scanners. | https://github.com/AvalZ/RevOK | 10 | 0| 
 | 20201014T08:53:34Z | A Framework for fuzzing USB Drivers by Device Emulation | https://github.com/HexHive/USBFuzz | 3 | 1| 
-| 20201014T08:51:08Z | Null | https://github.com/jyotidabass/Fuzzy-classification | 1 | 0| 
 
 
 
