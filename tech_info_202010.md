@@ -48,11 +48,11 @@
 | --- | --- | --- | --- | ---| 
 | 20201015T12:32:29Z | CVE-2020-16898 | CVE-2020-16898 (Bad Neighbor) Microsoft Windows TCP/IP Vulnerability Detection Logic and Rule | https://github.com/advanced-threat-research/CVE-2020-16898 | 未查询到CVE信息| 
 | 20201015T11:39:53Z | CVE-2020-16898 | Proof-of-Concept (PoC) script to exploit IPv6 (CVE-2020-16898). | https://github.com/ZephrFish/CVE-2020-16898 | 未查询到CVE信息| 
-| 20201015T10:46:10Z | CVE-2020-15227 | CVE-2020-15227 exploit | https://github.com/hu4wufu/CVE-2020-15227 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 09 MINUTES 27 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201015T10:46:10Z | CVE-2020-15227 | CVE-2020-15227 exploit | https://github.com/hu4wufu/CVE-2020-15227 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 07 MINUTES 28 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20201015T08:54:48Z | CVE-2020-2883 | Null | https://github.com/FancyDoesSecurity/CVE-2020-2883 | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
-| 20201015T08:53:29Z | CVE-2020-5902 | Exphub[漏洞利用脚本库] 包括Webloigc、Struts2、Tomcat、Nexus、Solr、Jboss、Drupal的漏洞利用脚本，最新添加CVE-2020-5902、CVE-2020-11444、CVE-2020-10204、CVE-2020-10199、CVE-2020-1938、CVE-2020-2551、CVE-2020-2555、CVE-2020-2883、CVE-2019-17558、CVE-2019-6340 | https://github.com/zhzyker/exphub | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 09 MINUTES 22 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201015T08:53:29Z | CVE-2020-5902 | Exphub[漏洞利用脚本库] 包括Webloigc、Struts2、Tomcat、Nexus、Solr、Jboss、Drupal的漏洞利用脚本，最新添加CVE-2020-5902、CVE-2020-11444、CVE-2020-10204、CVE-2020-10199、CVE-2020-1938、CVE-2020-2551、CVE-2020-2555、CVE-2020-2883、CVE-2019-17558、CVE-2019-6340 | https://github.com/zhzyker/exphub | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 07 MINUTES 22 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20201015T08:11:57Z | CVE-2020-16898 | A network detection package for CVE-2020-16898 (Windows TCP/IP Remote Code Execution Vulnerability) | https://github.com/corelight/CVE-2020-16898 | 未查询到CVE信息| 
-| 20201015T07:43:51Z | CVE-2020-16899 | CVE-2020-16899 - Microsoft Windows TCP/IP Vulnerability Detection Logic and Rule | https://github.com/advanced-threat-research/CVE-2020-16899 | 未查询到CVE信息| 
+| 20201015T07:43:51Z | CVE-2020-16899 | CVE-2020-16899 - Microsoft Windows TCP/IP Vulnerability Detection Logic and Rule | https://github.com/advanced-threat-research/CVE-2020-16899 | | 
 | 20201015T07:29:42Z | CVE-2020-16898 | Windows RDNSS RCE | https://github.com/sn0x736e/CVE-2020-16898 | 未查询到CVE信息| 
 | 20201015T05:56:00Z | CVE-2020-16898 | Zeek detection for CVE-2020-16898-"Bad Neighbor" | https://github.com/initconf/CVE-2020-16898-Bad-Neighbor | 未查询到CVE信息| 
 | 20201015T04:32:42Z | cve-2020-16898 | Detects CVE-2020-16898: "Bad Neighbor" | https://github.com/esnet-security/cve-2020-16898 | 未查询到CVE信息| 
@@ -85,12 +85,12 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20201015T12:50:33Z | Null | https://github.com/quentin452/Cats-Exploitz-HUB | 0 | 1| 
+| 20201015T12:52:46Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 8211 | 1267| 
+| 20201015T12:51:16Z | Null | https://github.com/quentin452/Cats-Exploitz-HUB | 0 | 1| 
 | 20201015T12:48:38Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 5 | 3| 
 | 20201015T12:48:28Z | editoRT: A client-server architecture that exploits the CRDT algorithm in order to implement a complete Shared Editor solution. | https://github.com/nopesir/pds-project | 1 | 0| 
 | 20201015T12:47:32Z | Enumerate missing KBs and suggest exploits for useful Privilege Escalation vulnerabilities | https://github.com/rasta-mouse/Watson | 784 | 140| 
 | 20201015T12:47:18Z | Sifter is a OSINT, recon & vulnerability scanner. It incorporates a plethara of tools within different module sets that tries to cover every attack vector. Allowing you to quickly perform recon tasks and organize the results in one place. From OSINT to Recon, Exploitation, Post-Exploitation, OpSec, Threat Analysis, XSS, SQLinjection, Network Scanning, WebApp Analysis or DNS enumeration.. Sifter should be able to cover it all. | https://github.com/s1l3nt78/sifter | 259 | 82| 
-| 20201015T12:44:28Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 8209 | 1267| 
 | 20201015T12:40:37Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 3085 | 471| 
 | 20201015T12:38:32Z | notes about 🔍 Reverse Engineering and 🔥 Exploit Development | https://github.com/bmedicke/REED | 2 | 1| 
 | 20201015T12:36:45Z | Compiling useful exploits | https://github.com/heyhujiao/known-exploits | 0 | 0| 
