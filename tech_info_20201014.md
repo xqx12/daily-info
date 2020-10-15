@@ -34,14 +34,14 @@
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
 | 20201014T23:41:52Z | CVE-2020-16898 | A network detection package for CVE-2020-16898 (Windows TCP/IP Remote Code Execution Vulnerability) | https://github.com/corelight/CVE-2020-16898 | 未查询到CVE信息| 
-| 20201014T23:34:28Z | CVE-2020-25213 | https://medium.com/@mansoorr/exploiting-cve-2020-25213-wp-file-manager-wordpress-plugin-6-9-3f79241f0cd8 | https://github.com/mansoorr123/wp-file-manager-CVE-2020-25213 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 04 MINUTES 28 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201014T23:34:28Z | CVE-2020-25213 | https://medium.com/@mansoorr/exploiting-cve-2020-25213-wp-file-manager-wordpress-plugin-6-9-3f79241f0cd8 | https://github.com/mansoorr123/wp-file-manager-CVE-2020-25213 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 03 MINUTES 30 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20201014T23:27:29Z | CVE-2020-16899 | CVE-2020-16899 - Microsoft Windows TCP/IP Vulnerability Detection Logic and Rule | https://github.com/advanced-threat-research/CVE-2020-16899 | 未查询到CVE信息| 
 | 20201014T23:14:51Z | CVE-2020-2883 | Null | https://github.com/FancyDoesSecurity/CVE-2020-2883 | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
 | 20201014T22:55:24Z | CVE-2020-16898 | Proof-of-Concept (PoC) script to exploit IPv6 (CVE-2020-16898). | https://github.com/ZephrFish/CVE-2020-16898 | 未查询到CVE信息| 
 | 20201014T22:33:21Z | CVE-2020-16898 | Minor powershell script that checks for vulnerable interfaces. | https://github.com/Maliek/CVE-2020-16898_Check | 未查询到CVE信息| 
 | 20201014T22:09:19Z | CVE-2020-16898 | Zeek detection for CVE-2020-16898-"Bad Neighbor" | https://github.com/initconf/CVE-2020-16898-Bad-Neighbor | 未查询到CVE信息| 
 | 20201014T21:39:25Z | cve-2020-16898 | Detects CVE-2020-16898: "Bad Neighbor" | https://github.com/esnet-security/cve-2020-16898 | 未查询到CVE信息| 
-| 20201014T20:27:33Z | CVE-2020-5902 | Exphub[漏洞利用脚本库] 包括Webloigc、Struts2、Tomcat、Nexus、Solr、Jboss、Drupal的漏洞利用脚本，最新添加CVE-2020-5902、CVE-2020-11444、CVE-2020-10204、CVE-2020-10199、CVE-2020-1938、CVE-2020-2551、CVE-2020-2555、CVE-2020-2883、CVE-2019-17558、CVE-2019-6340 | https://github.com/zhzyker/exphub | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 04 MINUTES 22 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201014T20:27:33Z | CVE-2020-5902 | Exphub[漏洞利用脚本库] 包括Webloigc、Struts2、Tomcat、Nexus、Solr、Jboss、Drupal的漏洞利用脚本，最新添加CVE-2020-5902、CVE-2020-11444、CVE-2020-10204、CVE-2020-10199、CVE-2020-1938、CVE-2020-2551、CVE-2020-2555、CVE-2020-2883、CVE-2019-17558、CVE-2019-6340 | https://github.com/zhzyker/exphub | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 03 MINUTES 23 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20201014T19:10:16Z | CVE-2020-16898 | https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2020-16898 | https://github.com/Gangana3/bad_neighbor | 未查询到CVE信息| 
 
 
@@ -62,7 +62,6 @@
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
 | 20201014T23:15:43Z | Library developed while solving the challenges at cryptopals.com | https://github.com/hallgrimur1471/cryptography_exploits | 0 | 0| 
-| 20201014T22:40:43Z | Null | https://github.com/davidrazmadze/Buffer_Overflow_Exploit | 0 | 0| 
 | 20201014T22:40:27Z | Exploit Manager for Challenges | https://github.com/Omnicrist/exploit_manager | 1 | 0| 
 | 20201014T22:32:25Z | This exploit doesn%t really outage a guild, but it does cause problems on discord%s servers :^) (Just for fun, run this and eventually your target server should go down anyways) | https://github.com/Yaekith/ServerOutageExploitV10 | 0 | 0| 
 | 20201014T22:13:31Z | Sifter is a OSINT, recon & vulnerability scanner. It incorporates a plethara of tools within different module sets that tries to cover every attack vector. Allowing you to quickly perform recon tasks and organize the results in one place. From OSINT to Recon, Exploitation, Post-Exploitation, OpSec, Threat Analysis, XSS, SQLinjection, Network Scanning, WebApp Analysis or DNS enumeration.. Sifter should be able to cover it all. | https://github.com/s1l3nt78/sifter | 258 | 81| 
@@ -71,6 +70,7 @@
 | 20201014T21:50:19Z | Some tools and exploits for the NVIDIA Falcon v5.  | https://github.com/CAmadeus/falcon-tools | 5 | 0| 
 | 20201014T21:17:42Z | Shadow sploit x roblox exploit source code | https://github.com/ProCode1337/ShadowSploitXSource | 0 | 0| 
 | 20201014T21:10:32Z | Router exploit scanner (barebones Zarp) | https://github.com/thunder182/pwner | 0 | 0| 
+| 20201014T21:00:06Z | use exploit/windows/fileformat/adobe_pdf_embedded_exe_nojs  set lhost  set lport 4040  set filename mypdf.pdf  exploit  $ mv -v .......... /sdcard  msfconsole   use exploit/multi/handler  set lhost  set lport  exploit | https://github.com/rajamrit12/Metasploit-Payload-apk-binder- | 0 | 3| 
 
 
 # backdoor on Github 推荐
