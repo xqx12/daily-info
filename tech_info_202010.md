@@ -48,14 +48,14 @@
 | --- | --- | --- | --- | ---| 
 | 20201014T23:41:52Z | CVE-2020-16898 | A network detection package for CVE-2020-16898 (Windows TCP/IP Remote Code Execution Vulnerability) | https://github.com/corelight/CVE-2020-16898 | 未查询到CVE信息| 
 | 20201014T23:37:54Z | CVE-2020-16898 | CVE-2020-16898 (Bad Neighbor) Microsoft Windows TCP/IP Vulnerability Detection Logic and Rule | https://github.com/advanced-threat-research/CVE-2020-16898 | 未查询到CVE信息| 
-| 20201014T23:34:28Z | CVE-2020-25213 | https://medium.com/@mansoorr/exploiting-cve-2020-25213-wp-file-manager-wordpress-plugin-6-9-3f79241f0cd8 | https://github.com/mansoorr123/wp-file-manager-CVE-2020-25213 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 46 MINUTES 30 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201014T23:34:28Z | CVE-2020-25213 | https://medium.com/@mansoorr/exploiting-cve-2020-25213-wp-file-manager-wordpress-plugin-6-9-3f79241f0cd8 | https://github.com/mansoorr123/wp-file-manager-CVE-2020-25213 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 44 MINUTES 30 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20201014T23:27:29Z | CVE-2020-16899 | CVE-2020-16899 - Microsoft Windows TCP/IP Vulnerability Detection Logic and Rule | https://github.com/advanced-threat-research/CVE-2020-16899 | 未查询到CVE信息| 
-| 20201014T23:14:51Z | CVE-2020-2883 | Null | https://github.com/FancyDoesSecurity/CVE-2020-2883 | | 
+| 20201014T23:14:51Z | CVE-2020-2883 | Null | https://github.com/FancyDoesSecurity/CVE-2020-2883 | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
 | 20201014T22:55:24Z | CVE-2020-16898 | Proof-of-Concept (PoC) script to exploit IPv6 (CVE-2020-16898). | https://github.com/ZephrFish/CVE-2020-16898 | 未查询到CVE信息| 
 | 20201014T22:33:21Z | CVE-2020-16898 | Minor powershell script that checks for vulnerable interfaces. | https://github.com/Maliek/CVE-2020-16898_Check | 未查询到CVE信息| 
 | 20201014T22:09:19Z | CVE-2020-16898 | Zeek detection for CVE-2020-16898-"Bad Neighbor" | https://github.com/initconf/CVE-2020-16898-Bad-Neighbor | 未查询到CVE信息| 
 | 20201014T21:39:25Z | cve-2020-16898 | Detects CVE-2020-16898: "Bad Neighbor" | https://github.com/esnet-security/cve-2020-16898 | 未查询到CVE信息| 
-| 20201014T20:27:33Z | CVE-2020-5902 | Exphub[漏洞利用脚本库] 包括Webloigc、Struts2、Tomcat、Nexus、Solr、Jboss、Drupal的漏洞利用脚本，最新添加CVE-2020-5902、CVE-2020-11444、CVE-2020-10204、CVE-2020-10199、CVE-2020-1938、CVE-2020-2551、CVE-2020-2555、CVE-2020-2883、CVE-2019-17558、CVE-2019-6340 | https://github.com/zhzyker/exphub | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 46 MINUTES 24 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201014T20:27:33Z | CVE-2020-5902 | Exphub[漏洞利用脚本库] 包括Webloigc、Struts2、Tomcat、Nexus、Solr、Jboss、Drupal的漏洞利用脚本，最新添加CVE-2020-5902、CVE-2020-11444、CVE-2020-10204、CVE-2020-10199、CVE-2020-1938、CVE-2020-2551、CVE-2020-2555、CVE-2020-2883、CVE-2019-17558、CVE-2019-6340 | https://github.com/zhzyker/exphub | | 
 
 
 # klee on Github 推荐
@@ -85,7 +85,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20201015T01:00:34Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 8098 | 1260| 
+| 20201015T01:14:54Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 8099 | 1260| 
 | 20201015T00:47:33Z | Blog! | https://github.com/nonetype/nonetype.github.io | 0 | 0| 
 | 20201015T00:38:33Z | Configure graphics, environments and objects for better performance, if your computer cannot run Roblox perfectly. | https://github.com/GRIPPERTV/FPS-Booster | 0 | 0| 
 | 20201015T00:28:45Z | Null | https://github.com/ZZZCCSZZ/Exploit | 0 | 0| 
@@ -100,7 +100,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20201015T00:43:40Z | A tool to install PAM backdoors on Linux and FreeBSD | https://github.com/FlamingSpork/libpam_spooky | 0 | 0| 
+| 20201015T01:14:26Z | A tool to install PAM backdoors on Linux and FreeBSD | https://github.com/FlamingSpork/libpam_spooky | 0 | 0| 
 | 20201015T00:43:13Z | Tool to find potential backdoor/security holes in your endpoint | https://github.com/subasgit/backdoorfinder | 1 | 0| 
 | 20201015T00:36:17Z | Full-featured C2 framework which silently persists on webserver via evil PHP oneliner :smiling_imp: | https://github.com/nil0x42/phpsploit | 1041 | 316| 
 | 20201014T20:57:02Z | LKM rootkit for Linux Kernels 2.6.x/3.x/4.x/5.x (x86/x86_64 and ARM64) | https://github.com/m0nad/Diamorphine | 642 | 250| 
