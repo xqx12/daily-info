@@ -23,6 +23,7 @@
 | 20201015 | 星外虚拟主机提权实战案例 | https://mp.weixin.qq.com/s/Uen-ARbVY0trFvAXdeeW5g| 
 | 20201015 | Hacking All The Cars之Tesla API分析与利用（上） | https://bacde.me/post/hacking-all-the-cars-tesla-api-exploit-part-one/| 
 | 20201015 | 折腾MobSF APP隐私合规如何与技术检查结合（一） | https://blog.csdn.net/bloodzero_new/article/details/109105051| 
+| 20201015 | 利用不安全的JSONP绕过SSO实现账户接管（分析+实践） | https://xz.aliyun.com/t/8350| 
 
 
 # CVE Github 推荐
@@ -30,9 +31,9 @@
 | --- | --- | --- | --- | ---| 
 | 20201015T12:32:29Z | CVE-2020-16898 | CVE-2020-16898 (Bad Neighbor) Microsoft Windows TCP/IP Vulnerability Detection Logic and Rule | https://github.com/advanced-threat-research/CVE-2020-16898 | 未查询到CVE信息| 
 | 20201015T11:39:53Z | CVE-2020-16898 | Proof-of-Concept (PoC) script to exploit IPv6 (CVE-2020-16898). | https://github.com/ZephrFish/CVE-2020-16898 | 未查询到CVE信息| 
-| 20201015T10:46:10Z | CVE-2020-15227 | CVE-2020-15227 exploit | https://github.com/hu4wufu/CVE-2020-15227 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 11 MINUTES 32 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201015T10:46:10Z | CVE-2020-15227 | CVE-2020-15227 exploit | https://github.com/hu4wufu/CVE-2020-15227 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 09 MINUTES 27 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20201015T08:54:48Z | CVE-2020-2883 | Null | https://github.com/FancyDoesSecurity/CVE-2020-2883 | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
-| 20201015T08:53:29Z | CVE-2020-5902 | Exphub[漏洞利用脚本库] 包括Webloigc、Struts2、Tomcat、Nexus、Solr、Jboss、Drupal的漏洞利用脚本，最新添加CVE-2020-5902、CVE-2020-11444、CVE-2020-10204、CVE-2020-10199、CVE-2020-1938、CVE-2020-2551、CVE-2020-2555、CVE-2020-2883、CVE-2019-17558、CVE-2019-6340 | https://github.com/zhzyker/exphub | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 11 MINUTES 27 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201015T08:53:29Z | CVE-2020-5902 | Exphub[漏洞利用脚本库] 包括Webloigc、Struts2、Tomcat、Nexus、Solr、Jboss、Drupal的漏洞利用脚本，最新添加CVE-2020-5902、CVE-2020-11444、CVE-2020-10204、CVE-2020-10199、CVE-2020-1938、CVE-2020-2551、CVE-2020-2555、CVE-2020-2883、CVE-2019-17558、CVE-2019-6340 | https://github.com/zhzyker/exphub | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 09 MINUTES 22 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20201015T08:11:57Z | CVE-2020-16898 | A network detection package for CVE-2020-16898 (Windows TCP/IP Remote Code Execution Vulnerability) | https://github.com/corelight/CVE-2020-16898 | 未查询到CVE信息| 
 | 20201015T07:43:51Z | CVE-2020-16899 | CVE-2020-16899 - Microsoft Windows TCP/IP Vulnerability Detection Logic and Rule | https://github.com/advanced-threat-research/CVE-2020-16899 | 未查询到CVE信息| 
 | 20201015T07:29:42Z | CVE-2020-16898 | Windows RDNSS RCE | https://github.com/sn0x736e/CVE-2020-16898 | 未查询到CVE信息| 
@@ -53,6 +54,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20201015T12:50:33Z | Null | https://github.com/quentin452/Cats-Exploitz-HUB | 0 | 1| 
 | 20201015T12:48:38Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 5 | 3| 
 | 20201015T12:48:28Z | editoRT: A client-server architecture that exploits the CRDT algorithm in order to implement a complete Shared Editor solution. | https://github.com/nopesir/pds-project | 1 | 0| 
 | 20201015T12:47:32Z | Enumerate missing KBs and suggest exploits for useful Privilege Escalation vulnerabilities | https://github.com/rasta-mouse/Watson | 784 | 140| 
@@ -62,7 +64,6 @@
 | 20201015T12:38:32Z | notes about 🔍 Reverse Engineering and 🔥 Exploit Development | https://github.com/bmedicke/REED | 2 | 1| 
 | 20201015T12:36:45Z | Compiling useful exploits | https://github.com/heyhujiao/known-exploits | 0 | 0| 
 | 20201015T12:16:11Z | SpringBoot Actuator未授权自动化利用，支持信息泄漏/RCE | https://github.com/LFYSec/ActuatorExploit | 5 | 0| 
-| 20201015T12:10:19Z | Final security/exploitation project for 42 school. | https://github.com/skuppers/Override | 0 | 0| 
 
 
 # backdoor on Github 推荐
@@ -82,16 +83,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20201015T12:50:51Z | The Official Fuzzy Britches Repository. | https://github.com/ThePapaw/fuzzybritches | 0 | 0| 
+| 20201015T12:47:45Z | The fuzzer afl++ is afl with community patches, AFLfast power schedules, qemu 3.1 upgrade + laf-intel support, MOpt mutators, InsTrim instrumentation, unicorn_mode, Redqueen and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 922 | 228| 
 | 20201015T12:32:06Z | Personal website of Laurence Hughes | https://github.com/fuzzylogicxx/fuzzylogic | 4 | 1| 
 | 20201015T12:28:09Z | A little Node app for browsing longreads - in beta. | https://github.com/Tee1er/FuzzReads | 0 | 0| 
 | 20201015T12:25:35Z | Automated Fuzzing Testbed | https://github.com/baalAzZubab/aft | 0 | 0| 
 | 20201015T12:20:47Z | fuzzy matching everywhere | https://github.com/amirrezaask/fuzzy.nvim | 1 | 0| 
 | 20201015T11:40:59Z | Null | https://github.com/fuzz88/fuzz88 | 0 | 0| 
 | 20201015T11:39:42Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 3173 | 734| 
-| 20201015T11:34:59Z | The Official Fuzzy Britches Repository. | https://github.com/ThePapaw/fuzzybritches | 0 | 0| 
 | 20201015T11:31:20Z | Null | https://github.com/nhsd-exeter/dos-service-fuzzy-search-api | 0 | 0| 
 | 20201015T10:23:15Z | Scalable fuzzing infrastructure. | https://github.com/google/clusterfuzz | 4348 | 394| 
-| 20201015T10:03:23Z | Null | https://github.com/ahiskali/warm_fuzzies | 0 | 0| 
 
 
 
