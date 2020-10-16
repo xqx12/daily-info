@@ -71,15 +71,26 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20201016T11:25:58Z | Full-featured C2 framework which silently persists on webserver with a single-line PHP backdoor | https://github.com/nil0x42/phpsploit | 1051 | 318| 
+| 20201016T07:57:56Z | Null | https://github.com/marychev-akvelon/xamarin-demoapp-backdoor | 0 | 0| 
+| 20201016T07:38:42Z | Ghost Framework is an Android post-exploitation framework that exploits the Android Debug Bridge to remotely access an Android device. Ghost Framework gives you the power and convenience of remote Android device administration. | https://github.com/entynetproject/ghost | 749 | 384| 
+| 20201016T06:31:47Z | Repository for all the code related to Learn Python & Ethical Hacking From Scratch course. All the work is done on Kali Linux, using both Python 2.7 and 3.x version. | https://github.com/Maffey/ethical-hacking-course | 0 | 0| 
+| 20201016T06:17:15Z | A Backdoor written in Python 3 that enables the attacker to execute commands on the remote machine being undetectable. | https://github.com/Ryan-AW/Backdoor-Trojan | 1 | 0| 
 
 
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20201016T01:30:07Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2159 | 102| 
-| 20201016T01:20:25Z | New repository for C# project | https://github.com/DedInsade/fuzzy-octo-sharpe | 0 | 0| 
-| 20201016T00:27:34Z | Null | https://github.com/mgree/smoosh-fuzz | 0 | 0| 
-| 20201016T00:15:07Z | This repository is for testing a number of open source applications for vulnerabilities using multiple fuzzers. | https://github.com/bartholomewHarris/fuzzingNode.jsApplications | 0 | 0| 
+| 20201016T12:01:00Z | fuzzy matching everywhere | https://github.com/amirrezaask/fuzzy.nvim | 17 | 0| 
+| 20201016T11:39:11Z | Null | https://github.com/stuartly/Kernel-Fuzzing | 0 | 2| 
+| 20201016T11:29:58Z | MIPS32 emulation fuzzing | https://github.com/klecko/mips-fuzz | 3 | 1| 
+| 20201016T11:17:57Z | Null | https://github.com/gibaja/PracticasFuzzyJavaWeka | 0 | 0| 
+| 20201016T10:59:37Z | Null | https://github.com/lacygoill/vim-fuzzy | 0 | 0| 
+| 20201016T10:49:43Z | Fuzzing Collection for Web Application | https://github.com/tungpdv/Fuzzing-Dictionary | 1 | 0| 
+| 20201016T10:36:16Z | Collection of HTTP scanners and fuzzers. | https://github.com/buffermet/bug-bounty-tools | 1 | 0| 
+| 20201016T10:08:55Z | Robert Wang%s WIP customize framework for fuzzing and machine learning | https://github.com/wangwwno1/RWWheels | 0 | 0| 
+| 20201016T09:22:13Z | Null | https://github.com/the-mog/tari-fuzzer | 0 | 0| 
+| 20201016T09:06:04Z | Null | https://github.com/ahiskali/warm_fuzzies | 0 | 0| 
 
 
 

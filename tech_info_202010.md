@@ -101,31 +101,31 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20201016T11:25:58Z | Full-featured C2 framework which silently persists on webserver with a single-line PHP backdoor | https://github.com/nil0x42/phpsploit | 1051 | 318| 
+| 20201016T07:57:56Z | Null | https://github.com/marychev-akvelon/xamarin-demoapp-backdoor | 0 | 0| 
+| 20201016T07:38:42Z | Ghost Framework is an Android post-exploitation framework that exploits the Android Debug Bridge to remotely access an Android device. Ghost Framework gives you the power and convenience of remote Android device administration. | https://github.com/entynetproject/ghost | 749 | 384| 
+| 20201016T06:31:47Z | Repository for all the code related to Learn Python & Ethical Hacking From Scratch course. All the work is done on Kali Linux, using both Python 2.7 and 3.x version. | https://github.com/Maffey/ethical-hacking-course | 0 | 0| 
+| 20201016T06:17:15Z | A Backdoor written in Python 3 that enables the attacker to execute commands on the remote machine being undetectable. | https://github.com/Ryan-AW/Backdoor-Trojan | 1 | 0| 
 | 20201015T21:29:43Z | A simple, effective python based Backdoor for Windows 10 Victim machines for research purposes | https://github.com/govind-menon110/FUD-Python-Backdoor | 3 | 2| 
 | 20201015T19:58:00Z | shell backdoor scanner | https://github.com/yngwld13/yngwld | 0 | 0| 
-| 20201015T18:08:00Z | Ghost Framework is an Android post-exploitation framework that exploits the Android Debug Bridge to remotely access an Android device. Ghost Framework gives you the power and convenience of remote Android device administration. | https://github.com/entynetproject/ghost | 746 | 384| 
 | 20201015T16:57:43Z | Contact: Maximilian Bachl, Alexander Hartl. Explores defenses against backdoors and poisoning attacks for Intrusion Detection Systems. Code for %EagerNet% is in the %eager% branch.  | https://github.com/CN-TU/ids-backdoor | 3 | 3| 
 | 20201015T15:54:43Z | LKM rootkit for Linux Kernels 2.6.x/3.x/4.x/5.x (x86/x86_64 and ARM64) | https://github.com/m0nad/Diamorphine | 643 | 250| 
-| 20201015T15:36:45Z | Null | https://github.com/marychev-akvelon/xamarin-demoapp-backdoor | 0 | 0| 
 | 20201015T13:37:02Z | Backdoor is a standalone browser based code editor that operates on a LASP (Linux, Apache, SQLite, PHP) server, providing all basic development tools and more. | https://github.com/RecaMedia/Backdoor | 6 | 2| 
-| 20201015T13:23:17Z | This is a ready to go compiled version of BKDR (Backdoor in-browser code editor). To access the development version of Backdoor, and would like to contribute to the development, please visit https://github.com/RecaMedia/Backdoor. | https://github.com/RecaMedia/Backdoor-Release | 9 | 6| 
-| 20201015T11:52:55Z | A backdoor with a multitude of features. | https://github.com/thatcherclough/BetterBackdoor | 167 | 58| 
-| 20201015T11:51:12Z | Final code of the Input-aware Backdoor Attack | https://github.com/VinAIResearch/input-aware-backdoor-attack-release | 0 | 0| 
 
 
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20201016T01:30:07Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2159 | 102| 
-| 20201016T01:20:25Z | New repository for C# project | https://github.com/DedInsade/fuzzy-octo-sharpe | 0 | 0| 
-| 20201016T00:27:34Z | Null | https://github.com/mgree/smoosh-fuzz | 0 | 0| 
-| 20201016T00:15:07Z | This repository is for testing a number of open source applications for vulnerabilities using multiple fuzzers. | https://github.com/bartholomewHarris/fuzzingNode.jsApplications | 0 | 0| 
-| 20201015T23:52:05Z | This tool uses fzf(1)-like fuzzy-finder to do partial or fuzzy search of Kubernetes resources. Instead of specifying full resource names to kubectl commands, you can choose them from an interactive list that you can filter by typing a few characters. | https://github.com/d-kuro/kubectl-fuzzy | 50 | 5| 
-| 20201015T23:34:38Z | Collection of HTTP scanners and fuzzers. | https://github.com/buffermet/bug-bounty-tools | 0 | 0| 
-| 20201015T23:17:32Z | The Art, Science, and Engineering of Fuzzing: A Survey | https://github.com/SoftSec-KAIST/Fuzzing-Survey | 75 | 10| 
-| 20201015T22:34:46Z | Null | https://github.com/ASINGH786/fuzzy-umbrella | 0 | 0| 
-| 20201015T22:33:30Z | Fuzz | https://github.com/HernanRodriguez1/Fuzz0x | 1 | 0| 
-| 20201015T22:20:34Z | Fuzzer for Kotlin compiler. Found > 65 unique bugs in kotlinc v1.1.4-3. | https://github.com/ItsLastDay/KotlinFuzzer | 6 | 0| 
+| 20201016T12:01:00Z | fuzzy matching everywhere | https://github.com/amirrezaask/fuzzy.nvim | 17 | 0| 
+| 20201016T11:39:11Z | Null | https://github.com/stuartly/Kernel-Fuzzing | 0 | 2| 
+| 20201016T11:29:58Z | MIPS32 emulation fuzzing | https://github.com/klecko/mips-fuzz | 3 | 1| 
+| 20201016T11:17:57Z | Null | https://github.com/gibaja/PracticasFuzzyJavaWeka | 0 | 0| 
+| 20201016T10:59:37Z | Null | https://github.com/lacygoill/vim-fuzzy | 0 | 0| 
+| 20201016T10:49:43Z | Fuzzing Collection for Web Application | https://github.com/tungpdv/Fuzzing-Dictionary | 1 | 0| 
+| 20201016T10:36:16Z | Collection of HTTP scanners and fuzzers. | https://github.com/buffermet/bug-bounty-tools | 1 | 0| 
+| 20201016T10:08:55Z | Robert Wang%s WIP customize framework for fuzzing and machine learning | https://github.com/wangwwno1/RWWheels | 0 | 0| 
+| 20201016T09:22:13Z | Null | https://github.com/the-mog/tari-fuzzer | 0 | 0| 
+| 20201016T09:06:04Z | Null | https://github.com/ahiskali/warm_fuzzies | 0 | 0| 
 
 
 
