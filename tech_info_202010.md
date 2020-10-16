@@ -51,7 +51,7 @@
 | 20201016T11:17:23Z | CVE-2020-16898 | PoC Bad Neighbor BSOD exploit | https://github.com/Q1984/CVE-2020-16898 | 未查询到CVE信息| 
 | 20201016T09:20:02Z | CVE-2020-16898 | Minor powershell script that checks for vulnerable interfaces. | https://github.com/Maliek/CVE-2020-16898_Check | 未查询到CVE信息| 
 | 20201016T08:57:38Z | 未知编号 | 2020l4web-typography-css-library-DanCvejn created by GitHub Classroom | https://github.com/pslib-cz/2020l4web-typography-css-library-DanCvejn | 未查询到CVE信息| 
-| 20201016T08:33:30Z | CVE-2020-25213 | https://medium.com/@mansoorr/exploiting-cve-2020-25213-wp-file-manager-wordpress-plugin-6-9-3f79241f0cd8 | https://github.com/mansoorr123/wp-file-manager-CVE-2020-25213 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 05 MINUTES 15 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201016T08:33:30Z | CVE-2020-25213 | https://medium.com/@mansoorr/exploiting-cve-2020-25213-wp-file-manager-wordpress-plugin-6-9-3f79241f0cd8 | https://github.com/mansoorr123/wp-file-manager-CVE-2020-25213 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 03 MINUTES 17 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20201016T04:31:37Z | CVE-2020-16898 | Proof-of-Concept (PoC) script to exploit IPv6 (CVE-2020-16898). | https://github.com/ZephrFish/CVE-2020-16898 | 未查询到CVE信息| 
 | 20201016T04:10:56Z | 未知编号 | A local privilege escalation chain from user to kernel for MacOS < 10.15.5. CVE-2020–9854 | https://github.com/A2nkF/unauthd | 未查询到CVE信息| 
 | 20201015T23:09:24Z | CVE-2020-16898 | A network detection package for CVE-2020-16898 (Windows TCP/IP Remote Code Execution Vulnerability) | https://github.com/corelight/CVE-2020-16898 | 未查询到CVE信息| 
@@ -116,6 +116,8 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20201016T12:56:04Z | Obiekt fuzzy zawiera pola i metody zbiorów rozmytych.  | https://github.com/sq5riv/fuzzy_ops | 0 | 0| 
+| 20201016T12:48:01Z | A fuzzy finder with GUI (inspired by fzf) | https://github.com/jimmykarily/fuzzygui | 0 | 0| 
 | 20201016T12:34:04Z | Simulation and Fuzzy controller design for a second-order inverted pendulum system | https://github.com/ftmghorbani/Fuzzy-controller-for-a-second-order-inverted-pendulum | 0 | 0| 
 | 20201016T12:33:42Z | Generate wordlists for fuzzing API method names | https://github.com/sorokinpf/ApiWordlistGenerator | 38 | 8| 
 | 20201016T12:01:00Z | fuzzy matching everywhere | https://github.com/amirrezaask/fuzzy.nvim | 17 | 0| 
@@ -124,8 +126,6 @@
 | 20201016T11:17:57Z | Null | https://github.com/gibaja/PracticasFuzzyJavaWeka | 0 | 0| 
 | 20201016T10:59:37Z | Null | https://github.com/lacygoill/vim-fuzzy | 0 | 0| 
 | 20201016T10:49:43Z | Fuzzing Collection for Web Application | https://github.com/tungpdv/Fuzzing-Dictionary | 1 | 0| 
-| 20201016T10:36:16Z | Collection of HTTP scanners and fuzzers. | https://github.com/buffermet/bug-bounty-tools | 1 | 0| 
-| 20201016T10:08:55Z | Robert Wang%s WIP customize framework for fuzzing and machine learning | https://github.com/wangwwno1/RWWheels | 0 | 0| 
 
 
 
