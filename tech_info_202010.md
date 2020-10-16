@@ -85,8 +85,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20201016T00:04:05Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 8305 | 1270| 
 | 20201015T23:59:56Z | A static library, wrapper for mhyprot vulnerable driver, execute exploits and tests | https://github.com/kkent030315/libmhyprot | 0 | 0| 
-| 20201015T23:56:35Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 8304 | 1270| 
 | 20201015T23:49:40Z | Tests | https://github.com/axenedu/exploitsandshells | 0 | 0| 
 | 20201015T23:28:38Z | A phased, evasive Path Traversal + LFI scanning & exploitation tool in Python | https://github.com/VainlyStrain/Vailyn | 55 | 1| 
 | 20201015T23:22:42Z | My slides from my HASK talk on defeating non-executable stacks. | https://github.com/r0kit/HASK-2020---Binary-Exploitation---Defeating-Non-Executable-Stacks-with-ROP-Chaining | 0 | 0| 
