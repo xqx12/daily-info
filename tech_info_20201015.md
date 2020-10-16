@@ -41,7 +41,7 @@
 | 20201015T21:35:17Z | CVE-2020-16947 | PoC of CVE-2020-16947 (Microsoft Outlook RCE vulnerablility) | https://github.com/0neb1n/CVE-2020-16947 | 未查询到CVE信息| 
 | 20201015T16:34:40Z | CVE-2020-16899 | CVE-2020-16899 - Microsoft Windows TCP/IP Vulnerability Detection Logic and Rule | https://github.com/advanced-threat-research/CVE-2020-16899 | 未查询到CVE信息| 
 | 20201015T15:50:41Z | CVE-2020-1472 | Check for events that indicate non compatible devices -> CVE-2020-1472 | https://github.com/maikelnight/zerologon | 当攻击者使用Netlogon远程协议（MS-NRPC）（又称为“ Netlogon特权提升漏洞”）建立与域控制器的易受攻击的Netlogon安全通道连接时，将存在特权提升漏洞。| 
-| 20201015T15:39:52Z | cve-2020-16898 | Detects CVE-2020-16898: "Bad Neighbor" | https://github.com/esnet-security/cve-2020-16898 | | 
+| 20201015T15:39:52Z | cve-2020-16898 | Detects CVE-2020-16898: "Bad Neighbor" | https://github.com/esnet-security/cve-2020-16898 | 未查询到CVE信息| 
 | 20201015T15:07:15Z | CVE-2020-16270 | Null | https://github.com/Security-AVS/CVE-2020-16270 | 未查询到CVE信息| 
 | 20201015T10:46:10Z | CVE-2020-15227 | CVE-2020-15227 exploit | https://github.com/hu4wufu/CVE-2020-15227 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 00 MINUTES 23 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 
