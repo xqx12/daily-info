@@ -17,6 +17,8 @@
 | 20201016 | 有研究员公开了一份从 GitHub 搜索敏感信息的 Docks 关键词列表 | https://github.com/obheda12/GitDorker/tree/master/Dorks| 
 | 20201016 | 微软 MSRC 公布 Top MSRC 2020 Q3 安全研究员榜单 | https://sec.today/pulses/a4e108a4-90d3-4482-919e-ff2dc846496d/| 
 | 20201016 | 与 JXA 有关的用于实现 macOS 系统攻击常驻的方法收集 | https://sec.today/pulses/b40c1854-df0c-4ed0-9750-66d8d8df442e/| 
+| 20201016 | 微软 MSRC 公布 Top MSRC 2020 Q3 安全研究员榜单 | https://msrc-blog.microsoft.com/2020/10/15/announcing-the-top-msrc-2020-q3-security-researchers/| 
+| 20201016 | 与 JXA 有关的用于实现 macOS 系统攻击常驻的方法收集 | https://github.com/D00MFist/PersistentJXA| 
 
 
 # 安全维基 推荐
@@ -31,11 +33,11 @@
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
 | 20201016T11:34:03Z | CVE-2020-16947 | PoC of CVE-2020-16947 (Microsoft Outlook RCE vulnerablility) | https://github.com/0neb1n/CVE-2020-16947 | 未查询到CVE信息| 
-| 20201016T11:17:23Z | CVE-2020-16898 | PoC Bad Neighbor BSOD exploit | https://github.com/Q1984/CVE-2020-16898 | 未查询到CVE信息| 
+| 20201016T11:17:23Z | CVE-2020-16898 | PoC Bad Neighbor BSOD exploit | https://github.com/Q1984/CVE-2020-16898 | | 
 | 20201016T09:20:02Z | CVE-2020-16898 | Minor powershell script that checks for vulnerable interfaces. | https://github.com/Maliek/CVE-2020-16898_Check | 未查询到CVE信息| 
 | 20201016T08:57:38Z | 未知编号 | 2020l4web-typography-css-library-DanCvejn created by GitHub Classroom | https://github.com/pslib-cz/2020l4web-typography-css-library-DanCvejn | 未查询到CVE信息| 
 | 20201016T08:48:53Z | CVE-2020-16898 | CVE-2020-16898 (Bad Neighbor) Microsoft Windows TCP/IP Vulnerability Detection Logic and Rule | https://github.com/advanced-threat-research/CVE-2020-16898 | 未查询到CVE信息| 
-| 20201016T08:33:30Z | CVE-2020-25213 | https://medium.com/@mansoorr/exploiting-cve-2020-25213-wp-file-manager-wordpress-plugin-6-9-3f79241f0cd8 | https://github.com/mansoorr123/wp-file-manager-CVE-2020-25213 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 58 MINUTES 22 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201016T08:33:30Z | CVE-2020-25213 | https://medium.com/@mansoorr/exploiting-cve-2020-25213-wp-file-manager-wordpress-plugin-6-9-3f79241f0cd8 | https://github.com/mansoorr123/wp-file-manager-CVE-2020-25213 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 54 MINUTES 17 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20201016T04:31:37Z | CVE-2020-16898 | Proof-of-Concept (PoC) script to exploit IPv6 (CVE-2020-16898). | https://github.com/ZephrFish/CVE-2020-16898 | 未查询到CVE信息| 
 | 20201016T04:10:56Z | 未知编号 | A local privilege escalation chain from user to kernel for MacOS < 10.15.5. CVE-2020–9854 | https://github.com/A2nkF/unauthd | 未查询到CVE信息| 
 
