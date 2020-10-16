@@ -46,7 +46,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20201015T23:33:14Z | CVE-2020-16898 | CVE-2020-16898 (Bad Neighbor) Microsoft Windows TCP/IP Vulnerability Detection Logic and Rule | https://github.com/advanced-threat-research/CVE-2020-16898 | | 
+| 20201015T23:33:14Z | CVE-2020-16898 | CVE-2020-16898 (Bad Neighbor) Microsoft Windows TCP/IP Vulnerability Detection Logic and Rule | https://github.com/advanced-threat-research/CVE-2020-16898 | 未查询到CVE信息| 
 | 20201015T23:09:24Z | CVE-2020-16898 | A network detection package for CVE-2020-16898 (Windows TCP/IP Remote Code Execution Vulnerability) | https://github.com/corelight/CVE-2020-16898 | 未查询到CVE信息| 
 | 20201015T22:57:01Z | CVE-2020-16898 | Proof-of-Concept (PoC) script to exploit IPv6 (CVE-2020-16898). | https://github.com/ZephrFish/CVE-2020-16898 | 未查询到CVE信息| 
 | 20201015T22:45:19Z | 未知编号 | A local privilege escalation chain from user to kernel for MacOS < 10.15.5. CVE-2020–9854 | https://github.com/A2nkF/unauthd | 未查询到CVE信息| 
@@ -115,16 +115,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20201015T12:59:12Z | VMI Kernel Fuzzer for Xen Project - VM forking, VMI & AFL integration demo | https://github.com/intel/kernel-fuzzer-for-xen-project | 152 | 24| 
-| 20201015T12:50:51Z | The Official Fuzzy Britches Repository. | https://github.com/ThePapaw/fuzzybritches | 0 | 0| 
-| 20201015T12:47:45Z | The fuzzer afl++ is afl with community patches, AFLfast power schedules, qemu 3.1 upgrade + laf-intel support, MOpt mutators, InsTrim instrumentation, unicorn_mode, Redqueen and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 922 | 228| 
-| 20201015T12:32:06Z | Personal website of Laurence Hughes | https://github.com/fuzzylogicxx/fuzzylogic | 4 | 1| 
-| 20201015T12:28:09Z | A little Node app for browsing longreads - in beta. | https://github.com/Tee1er/FuzzReads | 0 | 0| 
-| 20201015T12:25:35Z | Automated Fuzzing Testbed | https://github.com/baalAzZubab/aft | 0 | 0| 
-| 20201015T12:20:47Z | fuzzy matching everywhere | https://github.com/amirrezaask/fuzzy.nvim | 1 | 0| 
-| 20201015T11:40:59Z | Null | https://github.com/fuzz88/fuzz88 | 0 | 0| 
-| 20201015T11:39:42Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 3173 | 734| 
-| 20201015T11:31:20Z | Null | https://github.com/nhsd-exeter/dos-service-fuzzy-search-api | 0 | 0| 
+| 20201015T23:52:05Z | This tool uses fzf(1)-like fuzzy-finder to do partial or fuzzy search of Kubernetes resources. Instead of specifying full resource names to kubectl commands, you can choose them from an interactive list that you can filter by typing a few characters. | https://github.com/d-kuro/kubectl-fuzzy | 50 | 5| 
+| 20201015T23:37:38Z | Null | https://github.com/mgree/smoosh-fuzz | 0 | 0| 
+| 20201015T23:34:38Z | Collection of HTTP scanners and fuzzers. | https://github.com/buffermet/bug-bounty-tools | 0 | 0| 
+| 20201015T23:17:32Z | The Art, Science, and Engineering of Fuzzing: A Survey | https://github.com/SoftSec-KAIST/Fuzzing-Survey | 75 | 10| 
+| 20201015T22:34:46Z | Null | https://github.com/ASINGH786/fuzzy-umbrella | 0 | 0| 
+| 20201015T22:33:30Z | Fuzz | https://github.com/HernanRodriguez1/Fuzz0x | 1 | 0| 
+| 20201015T22:20:34Z | Fuzzer for Kotlin compiler. Found > 65 unique bugs in kotlinc v1.1.4-3. | https://github.com/ItsLastDay/KotlinFuzzer | 6 | 0| 
+| 20201015T22:18:37Z | all manner of wordlists | https://github.com/thelikes/fuzzmost | 4 | 8| 
+| 20201015T22:09:25Z | Fuzzer for elliptic curve crypto | https://github.com/shamatar/algebraic_fuzzer | 2 | 0| 
+| 20201015T21:59:26Z | FuzzBench - Fuzzer benchmarking as a service. | https://github.com/google/fuzzbench | 535 | 83| 
 
 
 
