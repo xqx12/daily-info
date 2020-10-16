@@ -37,7 +37,7 @@
 | 20201015T23:33:14Z | CVE-2020-16898 | CVE-2020-16898 (Bad Neighbor) Microsoft Windows TCP/IP Vulnerability Detection Logic and Rule | https://github.com/advanced-threat-research/CVE-2020-16898 | 未查询到CVE信息| 
 | 20201015T23:09:24Z | CVE-2020-16898 | A network detection package for CVE-2020-16898 (Windows TCP/IP Remote Code Execution Vulnerability) | https://github.com/corelight/CVE-2020-16898 | 未查询到CVE信息| 
 | 20201015T22:57:01Z | CVE-2020-16898 | Proof-of-Concept (PoC) script to exploit IPv6 (CVE-2020-16898). | https://github.com/ZephrFish/CVE-2020-16898 | 未查询到CVE信息| 
-| 20201015T22:45:19Z | 未知编号 | A local privilege escalation chain from user to kernel for MacOS < 10.15.5. CVE-2020–9854 | https://github.com/A2nkF/unauthd | 未查询到CVE信息| 
+| 20201015T22:45:19Z | 未知编号 | A local privilege escalation chain from user to kernel for MacOS < 10.15.5. CVE-2020–9854 | https://github.com/A2nkF/unauthd | | 
 | 20201015T21:35:17Z | CVE-2020-16947 | PoC of CVE-2020-16947 (Microsoft Outlook RCE vulnerablility) | https://github.com/0neb1n/CVE-2020-16947 | 未查询到CVE信息| 
 | 20201015T16:34:40Z | CVE-2020-16899 | CVE-2020-16899 - Microsoft Windows TCP/IP Vulnerability Detection Logic and Rule | https://github.com/advanced-threat-research/CVE-2020-16899 | 未查询到CVE信息| 
 | 20201015T15:50:41Z | CVE-2020-1472 | Check for events that indicate non compatible devices -> CVE-2020-1472 | https://github.com/maikelnight/zerologon | 当攻击者使用Netlogon远程协议（MS-NRPC）（又称为“ Netlogon特权提升漏洞”）建立与域控制器的易受攻击的Netlogon安全通道连接时，将存在特权提升漏洞。| 
