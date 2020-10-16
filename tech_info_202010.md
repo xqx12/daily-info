@@ -46,12 +46,12 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20201016T12:09:08Z | CVE-2020-16947 | PoC of CVE-2020-16947 (Microsoft Outlook RCE vulnerablility) | https://github.com/0neb1n/CVE-2020-16947 | 未查询到CVE信息| 
+| 20201016T12:31:51Z | CVE-2020-16947 | PoC of CVE-2020-16947 (Microsoft Outlook RCE vulnerablility) | https://github.com/0neb1n/CVE-2020-16947 | 未查询到CVE信息| 
+| 20201016T12:21:52Z | CVE-2020-16898 | CVE-2020-16898 (Bad Neighbor) Microsoft Windows TCP/IP Vulnerability Detection Logic and Rule | https://github.com/advanced-threat-research/CVE-2020-16898 | 未查询到CVE信息| 
 | 20201016T11:17:23Z | CVE-2020-16898 | PoC Bad Neighbor BSOD exploit | https://github.com/Q1984/CVE-2020-16898 | 未查询到CVE信息| 
-| 20201016T09:20:02Z | CVE-2020-16898 | Minor powershell script that checks for vulnerable interfaces. | https://github.com/Maliek/CVE-2020-16898_Check | 未查询到CVE信息| 
+| 20201016T09:20:02Z | CVE-2020-16898 | Minor powershell script that checks for vulnerable interfaces. | https://github.com/Maliek/CVE-2020-16898_Check | | 
 | 20201016T08:57:38Z | 未知编号 | 2020l4web-typography-css-library-DanCvejn created by GitHub Classroom | https://github.com/pslib-cz/2020l4web-typography-css-library-DanCvejn | 未查询到CVE信息| 
-| 20201016T08:48:53Z | CVE-2020-16898 | CVE-2020-16898 (Bad Neighbor) Microsoft Windows TCP/IP Vulnerability Detection Logic and Rule | https://github.com/advanced-threat-research/CVE-2020-16898 | 未查询到CVE信息| 
-| 20201016T08:33:30Z | CVE-2020-25213 | https://medium.com/@mansoorr/exploiting-cve-2020-25213-wp-file-manager-wordpress-plugin-6-9-3f79241f0cd8 | https://github.com/mansoorr123/wp-file-manager-CVE-2020-25213 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 48 MINUTES 17 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201016T08:33:30Z | CVE-2020-25213 | https://medium.com/@mansoorr/exploiting-cve-2020-25213-wp-file-manager-wordpress-plugin-6-9-3f79241f0cd8 | https://github.com/mansoorr123/wp-file-manager-CVE-2020-25213 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 25 MINUTES 12 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20201016T04:31:37Z | CVE-2020-16898 | Proof-of-Concept (PoC) script to exploit IPv6 (CVE-2020-16898). | https://github.com/ZephrFish/CVE-2020-16898 | 未查询到CVE信息| 
 | 20201016T04:10:56Z | 未知编号 | A local privilege escalation chain from user to kernel for MacOS < 10.15.5. CVE-2020–9854 | https://github.com/A2nkF/unauthd | 未查询到CVE信息| 
 | 20201015T23:09:24Z | CVE-2020-16898 | A network detection package for CVE-2020-16898 (Windows TCP/IP Remote Code Execution Vulnerability) | https://github.com/corelight/CVE-2020-16898 | 未查询到CVE信息| 
@@ -86,12 +86,12 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20201016T12:22:57Z | This project is perfect. No need for changes or exploit fixes | https://github.com/Z-100/CardGameAPI | 0 | 0| 
 | 20201016T11:54:46Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 8378 | 1275| 
 | 20201016T11:45:10Z | Null | https://github.com/KraudSecurity/Exploits | 0 | 0| 
 | 20201016T11:42:12Z | Modern Binary Exploitation solutions. | https://github.com/whatsyourask/MBE-writeups | 0 | 0| 
 | 20201016T11:39:09Z | Null | https://github.com/KraudSecurity/IPMI_Exploits | 13 | 5| 
 | 20201016T11:36:09Z | Plugin to fix exploits and add functionality to anarchy servers | https://github.com/L2X9org/L2X9Core | 0 | 0| 
-| 20201016T11:34:42Z | This project is perfect. No need for changes or exploit fixes | https://github.com/Z-100/CardGameAPI | 0 | 0| 
 | 20201016T11:31:22Z | Null | https://github.com/jungel2star/Exploiting-Local-Feature-Patterns-for-UDA | 0 | 0| 
 | 20201016T11:17:23Z | PoC Bad Neighbor BSOD exploit | https://github.com/Q1984/CVE-2020-16898 | 0 | 0| 
 | 20201016T11:12:12Z | exploit-exam | https://github.com/vapvin/exploit-exam | 0 | 0| 
@@ -101,6 +101,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20201016T12:14:45Z | Backdoor that can open web-pages remotely | https://github.com/pro-extremecoder/URLBackdoor | 0 | 0| 
 | 20201016T11:25:58Z | Full-featured C2 framework which silently persists on webserver with a single-line PHP backdoor | https://github.com/nil0x42/phpsploit | 1051 | 318| 
 | 20201016T07:57:56Z | Null | https://github.com/marychev-akvelon/xamarin-demoapp-backdoor | 0 | 0| 
 | 20201016T07:38:42Z | Ghost Framework is an Android post-exploitation framework that exploits the Android Debug Bridge to remotely access an Android device. Ghost Framework gives you the power and convenience of remote Android device administration. | https://github.com/entynetproject/ghost | 749 | 384| 
@@ -110,12 +111,13 @@
 | 20201015T19:58:00Z | shell backdoor scanner | https://github.com/yngwld13/yngwld | 0 | 0| 
 | 20201015T16:57:43Z | Contact: Maximilian Bachl, Alexander Hartl. Explores defenses against backdoors and poisoning attacks for Intrusion Detection Systems. Code for %EagerNet% is in the %eager% branch.  | https://github.com/CN-TU/ids-backdoor | 3 | 3| 
 | 20201015T15:54:43Z | LKM rootkit for Linux Kernels 2.6.x/3.x/4.x/5.x (x86/x86_64 and ARM64) | https://github.com/m0nad/Diamorphine | 643 | 250| 
-| 20201015T13:37:02Z | Backdoor is a standalone browser based code editor that operates on a LASP (Linux, Apache, SQLite, PHP) server, providing all basic development tools and more. | https://github.com/RecaMedia/Backdoor | 6 | 2| 
 
 
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20201016T12:34:04Z | Simulation and Fuzzy controller design for a second-order inverted pendulum system | https://github.com/ftmghorbani/Fuzzy-controller-for-a-second-order-inverted-pendulum | 0 | 0| 
+| 20201016T12:33:42Z | Generate wordlists for fuzzing API method names | https://github.com/sorokinpf/ApiWordlistGenerator | 38 | 8| 
 | 20201016T12:01:00Z | fuzzy matching everywhere | https://github.com/amirrezaask/fuzzy.nvim | 17 | 0| 
 | 20201016T11:39:11Z | Null | https://github.com/stuartly/Kernel-Fuzzing | 0 | 2| 
 | 20201016T11:29:58Z | MIPS32 emulation fuzzing | https://github.com/klecko/mips-fuzz | 3 | 1| 
@@ -124,8 +126,6 @@
 | 20201016T10:49:43Z | Fuzzing Collection for Web Application | https://github.com/tungpdv/Fuzzing-Dictionary | 1 | 0| 
 | 20201016T10:36:16Z | Collection of HTTP scanners and fuzzers. | https://github.com/buffermet/bug-bounty-tools | 1 | 0| 
 | 20201016T10:08:55Z | Robert Wang%s WIP customize framework for fuzzing and machine learning | https://github.com/wangwwno1/RWWheels | 0 | 0| 
-| 20201016T09:22:13Z | Null | https://github.com/the-mog/tari-fuzzer | 0 | 0| 
-| 20201016T09:06:04Z | Null | https://github.com/ahiskali/warm_fuzzies | 0 | 0| 
 
 
 
