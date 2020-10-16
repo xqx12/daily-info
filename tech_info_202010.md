@@ -15,6 +15,7 @@
 | 20201015 | 对标 AMD SME，Intel 为其新一代 Ice Lake 处理器新增内存加密技术的支持 | https://threatpost.com/intel-encryption-security-ice-lake-chips/160083/| 
 | 20201015 | Osquery: Using D-Bus to query systemd data | https://blog.trailofbits.com/2020/10/14/osquery-using-d-bus-to-query-systemd-data/| 
 | 20201015 | FireEye 对 FIN11 APT 组织近期攻击活动的分析报告 | https://www.fireeye.com/blog/threat-research/2020/10/fin11-email-campaigns-precursor-for-ransomware-data-theft.html| 
+| 20201015 | Rapid7团队在InsightIDR中引入增强型端点遥测（EET）功能介绍。 | https://blog.rapid7.com/2020/10/15/introducing-enhanced-endpoint-telemetry-eet-in-insightidr/| 
 | 20201014 | 微软发布 10 月份 Windows 系统漏洞补丁更新 | https://threatpost.com/october-patch-tuesday-wormable-bug/160044/| 
 | 20201014 | BleedingTooth - Linux 蓝牙协议栈 Zero-Click RCE 漏洞 Demo 视频 | https://www.youtube.com/watch?v=qPYrLRausSw| 
 | 20201014 | Running JXA Payloads from macOS Office Macros | https://medium.com/red-teaming-with-a-blue-team-mentaility/a-look-at-python-less-office-macros-for-macos-b1bf5c1488f1| 
@@ -25,7 +26,6 @@
 | 20201014 | Crash Reproduction Series: IE Developer Console UAF | https://blog.zecops.com/vulnerabilities/crash-reproduction-series-ie-developer-console-uaf/| 
 | 20201014 | Fortinet 对 Phobos 勒索软件变种样本的分析 | https://www.fortinet.com/blog/threat-research/deep-analysis-the-eking-variant-of-phobos-ransomware?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+fortinet%2Fblog%2Fthreat-research+%28Fortinet+Threat+Research+Blog%29| 
 | 20201014 | Hindotech HK1 电视盒子存在 ROOT 任意命令执行漏洞，用户信息可被窃取 | https://sec.today/pulses/a81f3878-09f5-41ea-a1fd-040c84d41ef7/| 
-| 20201014 | 浅谈大规模红蓝对抗攻与防 | https://sec.today/pulses/24334530-bbff-42b6-89c2-0193d66bf97d/| 
 
 
 # 安全维基 推荐
@@ -37,37 +37,37 @@
 | 20201015 | 利用不安全的JSONP绕过SSO实现账户接管（分析+实践） | https://xz.aliyun.com/t/8350| 
 | 20201015 | 2019 BDCI互联网金融新实体发现 | https://github.com/light8lee/2019-BDCI-FinancialEntityDiscovery| 
 | 20201015 | 针对中东石油和天然气供应链的攻击 | https://paper.seebug.org/1368/| 
+| 20201015 | IAST安全测试如何防止数据污染 | https://mp.weixin.qq.com/s/VeUscKDI0o1jL9uDYywgow| 
+| 20201015 | 网络访问权限检查工具PropertyScanner | https://www.anquanke.com/post/id/219093| 
 | 20201014 | 基于协议判断主机是否出网 | https://mp.weixin.qq.com/s/JpZqcjFTOu16Im4JAkCb5Q| 
 | 20201014 | 电报（telegram）开源情报工具及技巧 | https://mp.weixin.qq.com/s/9HLP4Gcgo0yx3WVB-odK9A| 
-| 20201013 | 浅谈大规模红蓝对抗攻与防 | https://mp.weixin.qq.com/s/s0osF1NCb8M6O-uq-8idPA| 
-| 20201013 | Kali Linux渗透测试技术详解 | /book/70| 
 
 
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20201015T12:56:40Z | CVE-2020-16898 | A network detection package for CVE-2020-16898 (Windows TCP/IP Remote Code Execution Vulnerability) | https://github.com/corelight/CVE-2020-16898 | 未查询到CVE信息| 
-| 20201015T12:53:52Z | CVE-2020-16898 | CVE-2020-16898 (Bad Neighbor) Microsoft Windows TCP/IP Vulnerability Detection Logic and Rule | https://github.com/advanced-threat-research/CVE-2020-16898 | 未查询到CVE信息| 
-| 20201015T11:39:53Z | CVE-2020-16898 | Proof-of-Concept (PoC) script to exploit IPv6 (CVE-2020-16898). | https://github.com/ZephrFish/CVE-2020-16898 | 未查询到CVE信息| 
+| 20201015T23:33:14Z | CVE-2020-16898 | CVE-2020-16898 (Bad Neighbor) Microsoft Windows TCP/IP Vulnerability Detection Logic and Rule | https://github.com/advanced-threat-research/CVE-2020-16898 | | 
+| 20201015T23:09:24Z | CVE-2020-16898 | A network detection package for CVE-2020-16898 (Windows TCP/IP Remote Code Execution Vulnerability) | https://github.com/corelight/CVE-2020-16898 | 未查询到CVE信息| 
+| 20201015T22:57:01Z | CVE-2020-16898 | Proof-of-Concept (PoC) script to exploit IPv6 (CVE-2020-16898). | https://github.com/ZephrFish/CVE-2020-16898 | 未查询到CVE信息| 
+| 20201015T22:45:19Z | 未知编号 | A local privilege escalation chain from user to kernel for MacOS < 10.15.5. CVE-2020–9854 | https://github.com/A2nkF/unauthd | 未查询到CVE信息| 
+| 20201015T21:35:17Z | CVE-2020-16947 | PoC of CVE-2020-16947 (Microsoft Outlook RCE vulnerablility) | https://github.com/0neb1n/CVE-2020-16947 | 未查询到CVE信息| 
+| 20201015T16:34:40Z | CVE-2020-16899 | CVE-2020-16899 - Microsoft Windows TCP/IP Vulnerability Detection Logic and Rule | https://github.com/advanced-threat-research/CVE-2020-16899 | 未查询到CVE信息| 
+| 20201015T15:50:41Z | CVE-2020-1472 | Check for events that indicate non compatible devices -> CVE-2020-1472 | https://github.com/maikelnight/zerologon | 当攻击者使用Netlogon远程协议（MS-NRPC）（又称为“ Netlogon特权提升漏洞”）建立与域控制器的易受攻击的Netlogon安全通道连接时，将存在特权提升漏洞。| 
+| 20201015T15:39:52Z | cve-2020-16898 | Detects CVE-2020-16898: "Bad Neighbor" | https://github.com/esnet-security/cve-2020-16898 | 未查询到CVE信息| 
+| 20201015T15:07:15Z | CVE-2020-16270 | Null | https://github.com/Security-AVS/CVE-2020-16270 | 未查询到CVE信息| 
 | 20201015T10:46:10Z | CVE-2020-15227 | CVE-2020-15227 exploit | https://github.com/hu4wufu/CVE-2020-15227 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 00 MINUTES 23 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20201015T08:54:48Z | CVE-2020-2883 | Null | https://github.com/FancyDoesSecurity/CVE-2020-2883 | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
-| 20201015T08:53:29Z | CVE-2020-5902 | Exphub[漏洞利用脚本库] 包括Webloigc、Struts2、Tomcat、Nexus、Solr、Jboss、Drupal的漏洞利用脚本，最新添加CVE-2020-5902、CVE-2020-11444、CVE-2020-10204、CVE-2020-10199、CVE-2020-1938、CVE-2020-2551、CVE-2020-2555、CVE-2020-2883、CVE-2019-17558、CVE-2019-6340 | https://github.com/zhzyker/exphub | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 00 MINUTES 18 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20201015T07:43:51Z | CVE-2020-16899 | CVE-2020-16899 - Microsoft Windows TCP/IP Vulnerability Detection Logic and Rule | https://github.com/advanced-threat-research/CVE-2020-16899 | 未查询到CVE信息| 
-| 20201015T07:29:42Z | CVE-2020-16898 | Windows RDNSS RCE | https://github.com/sn0x736e/CVE-2020-16898 | 未查询到CVE信息| 
-| 20201015T05:56:00Z | CVE-2020-16898 | Zeek detection for CVE-2020-16898-"Bad Neighbor" | https://github.com/initconf/CVE-2020-16898-Bad-Neighbor | | 
-| 20201015T04:32:42Z | cve-2020-16898 | Detects CVE-2020-16898: "Bad Neighbor" | https://github.com/esnet-security/cve-2020-16898 | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20201015T19:23:30Z | Website for the KLEE project: https://klee.github.io/ | https://github.com/klee/klee.github.io | 13 | 43| 
 | 20201014T19:52:29Z | Urban Evidence Based Policy (SPPA667) | https://github.com/KLeeDE/PUS2020_KLee | 0 | 1| 
-| 20201014T11:44:32Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1524 | 463| 
+| 20201014T11:44:32Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1524 | 464| 
 | 20201013T21:40:55Z | Ecommerce platform integrating the Momo API | https://github.com/MabuselaYolanda/kleekproject | 0 | 0| 
 | 20201013T06:35:02Z | Create CFGs and compute complexity metrics for Python, C++, and Java code. | https://github.com/hmc-alpaqa/metrinome | 4 | 0| 
 | 20201012T15:15:09Z | Null | https://github.com/mitchklee35/MitchKlee.com | 0 | 0| 
 | 20201012T08:51:20Z | RVT is a collection of tools/libraries to support both static and dynamic verification of Rust programs. | https://github.com/project-oak/rust-verification-tools | 89 | 5| 
-| 20201012T08:40:24Z | Website for the KLEE project: https://klee.github.io/ | https://github.com/klee/klee.github.io | 13 | 43| 
 | 20201011T10:52:55Z | Kleek interactive momo ecommerce platform | https://github.com/RockHardJim/kleek | 0 | 0| 
 | 20201011T07:36:43Z | Symbiotic is a tool for finding bugs in computer programs based on instrumentation, program slicing and KLEE | https://github.com/staticafi/symbiotic | 198 | 33| 
 | 20201009T12:48:14Z | modify klee to support thread and multiloop | https://github.com/zhaoxiahust/klee_modify | 1 | 1| 
@@ -85,31 +85,31 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20201015T12:57:47Z | Compiling useful exploits | https://github.com/heyhujiao/known-exploits | 0 | 0| 
-| 20201015T12:55:14Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 8212 | 1267| 
-| 20201015T12:51:16Z | Null | https://github.com/quentin452/Cats-Exploitz-HUB | 0 | 1| 
-| 20201015T12:48:38Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 5 | 3| 
-| 20201015T12:48:28Z | editoRT: A client-server architecture that exploits the CRDT algorithm in order to implement a complete Shared Editor solution. | https://github.com/nopesir/pds-project | 1 | 0| 
-| 20201015T12:47:32Z | Enumerate missing KBs and suggest exploits for useful Privilege Escalation vulnerabilities | https://github.com/rasta-mouse/Watson | 784 | 140| 
-| 20201015T12:47:18Z | Sifter is a OSINT, recon & vulnerability scanner. It incorporates a plethara of tools within different module sets that tries to cover every attack vector. Allowing you to quickly perform recon tasks and organize the results in one place. From OSINT to Recon, Exploitation, Post-Exploitation, OpSec, Threat Analysis, XSS, SQLinjection, Network Scanning, WebApp Analysis or DNS enumeration.. Sifter should be able to cover it all. | https://github.com/s1l3nt78/sifter | 259 | 82| 
-| 20201015T12:40:37Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 3085 | 471| 
-| 20201015T12:38:32Z | notes about 🔍 Reverse Engineering and 🔥 Exploit Development | https://github.com/bmedicke/REED | 2 | 1| 
-| 20201015T12:16:11Z | SpringBoot Actuator未授权自动化利用，支持信息泄漏/RCE | https://github.com/LFYSec/ActuatorExploit | 5 | 0| 
+| 20201015T23:59:56Z | A static library, wrapper for mhyprot vulnerable driver, execute exploits and tests | https://github.com/kkent030315/libmhyprot | 0 | 0| 
+| 20201015T23:56:35Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 8304 | 1270| 
+| 20201015T23:49:40Z | Tests | https://github.com/axenedu/exploitsandshells | 0 | 0| 
+| 20201015T23:28:38Z | A phased, evasive Path Traversal + LFI scanning & exploitation tool in Python | https://github.com/VainlyStrain/Vailyn | 55 | 1| 
+| 20201015T23:22:42Z | My slides from my HASK talk on defeating non-executable stacks. | https://github.com/r0kit/HASK-2020---Binary-Exploitation---Defeating-Non-Executable-Stacks-with-ROP-Chaining | 0 | 0| 
+| 20201015T22:56:08Z | This is my exploit for a 0day vulnerability in the squirrel VM as part of CSCG2020 | https://github.com/A2nkF/SquirrelAsAServive | 0 | 0| 
+| 20201015T22:45:19Z | A local privilege escalation chain from user to kernel for MacOS < 10.15.5. CVE-2020–9854 | https://github.com/A2nkF/unauthd | 76 | 10| 
+| 20201015T21:42:16Z | Repository For Post Exploitation Techniques | https://github.com/zflemingg1/Post-Exploitation | 0 | 0| 
+| 20201015T20:24:21Z | A proxy aware C2 framework used to aid red teamers with post-exploitation and lateral movement. | https://github.com/nettitude/PoshC2 | 574 | 144| 
+| 20201015T20:11:32Z | [SPOILER ALERT] Tools, notes and custom exploits | https://github.com/limitedeternity/HackTheBox | 0 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20201015T12:35:30Z | Null | https://github.com/marychev-akvelon/xamarin-demoapp-backdoor | 0 | 0| 
+| 20201015T21:29:43Z | A simple, effective python based Backdoor for Windows 10 Victim machines for research purposes | https://github.com/govind-menon110/FUD-Python-Backdoor | 3 | 2| 
+| 20201015T19:58:00Z | shell backdoor scanner | https://github.com/yngwld13/yngwld | 0 | 0| 
+| 20201015T18:08:00Z | Ghost Framework is an Android post-exploitation framework that exploits the Android Debug Bridge to remotely access an Android device. Ghost Framework gives you the power and convenience of remote Android device administration. | https://github.com/entynetproject/ghost | 746 | 384| 
+| 20201015T16:57:43Z | Contact: Maximilian Bachl, Alexander Hartl. Explores defenses against backdoors and poisoning attacks for Intrusion Detection Systems. Code for %EagerNet% is in the %eager% branch.  | https://github.com/CN-TU/ids-backdoor | 3 | 3| 
+| 20201015T15:54:43Z | LKM rootkit for Linux Kernels 2.6.x/3.x/4.x/5.x (x86/x86_64 and ARM64) | https://github.com/m0nad/Diamorphine | 643 | 250| 
+| 20201015T15:36:45Z | Null | https://github.com/marychev-akvelon/xamarin-demoapp-backdoor | 0 | 0| 
+| 20201015T13:37:02Z | Backdoor is a standalone browser based code editor that operates on a LASP (Linux, Apache, SQLite, PHP) server, providing all basic development tools and more. | https://github.com/RecaMedia/Backdoor | 6 | 2| 
+| 20201015T13:23:17Z | This is a ready to go compiled version of BKDR (Backdoor in-browser code editor). To access the development version of Backdoor, and would like to contribute to the development, please visit https://github.com/RecaMedia/Backdoor. | https://github.com/RecaMedia/Backdoor-Release | 9 | 6| 
 | 20201015T11:52:55Z | A backdoor with a multitude of features. | https://github.com/thatcherclough/BetterBackdoor | 167 | 58| 
 | 20201015T11:51:12Z | Final code of the Input-aware Backdoor Attack | https://github.com/VinAIResearch/input-aware-backdoor-attack-release | 0 | 0| 
-| 20201015T11:43:28Z | FUD cross-platform python2 backdoor | https://github.com/7h3w4lk3r/pyback | 9 | 4| 
-| 20201015T04:34:21Z | Backdoor Feito em C | https://github.com/Kripto-Sec/Cbackdoor | 5 | 0| 
-| 20201015T03:43:59Z | Code Appendix of the Paper %Backdoor Triggers Hurt Deep Learning for Chest Radiography%. | https://github.com/tm2904/Backdoors_Xray | 0 | 0| 
-| 20201015T02:05:20Z | Full-featured C2 framework which silently persists on webserver via evil PHP oneliner :smiling_imp: | https://github.com/nil0x42/phpsploit | 1042 | 316| 
-| 20201015T01:14:26Z | A tool to install PAM backdoors on Linux and FreeBSD | https://github.com/FlamingSpork/libpam_spooky | 0 | 0| 
-| 20201015T00:43:13Z | Tool to find potential backdoor/security holes in your endpoint | https://github.com/subasgit/backdoorfinder | 1 | 0| 
-| 20201014T20:57:02Z | LKM rootkit for Linux Kernels 2.6.x/3.x/4.x/5.x (x86/x86_64 and ARM64) | https://github.com/m0nad/Diamorphine | 642 | 250| 
 
 
 # fuzz on Github 推荐
