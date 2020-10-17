@@ -34,43 +34,43 @@
 | 20201016 | Goby自定义漏洞之EXP | https://mp.weixin.qq.com/s/J1JW66Uh_6Nc0x2YY_5V6Q| 
 | 20201016 | 如何将Xray联动到Goby里 | https://mp.weixin.qq.com/s?__biz=MzI4MzcwNTAzOQ==&mid=2247484111&idx=1&sn=24c82f5c21e16f9104fb300bd9177b06&chksm=eb87e96fdcf06079e202941de1e060db5de8b1e3d6a0641fb6c02a34dd9781dd877ed439342d&token=414317712&lang=zh_CN#rd| 
 | 20201016 | 追击黑手画像 | https://mp.weixin.qq.com/s/rPu9HL5lvjcxfkUUUfEMFw| 
+| 20201016 | Xcheck之Golang安全检查引擎 | https://mp.weixin.qq.com/s/VzjcXp3O8zc97aIppy4LUA| 
 | 20201015 | 星外虚拟主机提权实战案例 | https://mp.weixin.qq.com/s/Uen-ARbVY0trFvAXdeeW5g| 
 | 20201015 | Hacking All The Cars之Tesla API分析与利用（上） | https://bacde.me/post/hacking-all-the-cars-tesla-api-exploit-part-one/| 
 | 20201015 | 折腾MobSF APP隐私合规如何与技术检查结合（一） | https://blog.csdn.net/bloodzero_new/article/details/109105051| 
 | 20201015 | 利用不安全的JSONP绕过SSO实现账户接管（分析+实践） | https://xz.aliyun.com/t/8350| 
 | 20201015 | 2019 BDCI互联网金融新实体发现 | https://github.com/light8lee/2019-BDCI-FinancialEntityDiscovery| 
 | 20201015 | 针对中东石油和天然气供应链的攻击 | https://paper.seebug.org/1368/| 
-| 20201015 | IAST安全测试如何防止数据污染 | https://mp.weixin.qq.com/s/VeUscKDI0o1jL9uDYywgow| 
 
 
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20201016T13:13:30Z | CVE-2020-16947 | PoC of CVE-2020-16947 (Microsoft Outlook RCE vulnerablility) | https://github.com/0neb1n/CVE-2020-16947 | 未查询到CVE信息| 
-| 20201016T12:21:52Z | CVE-2020-16898 | CVE-2020-16898 (Bad Neighbor) Microsoft Windows TCP/IP Vulnerability Detection Logic and Rule | https://github.com/advanced-threat-research/CVE-2020-16898 | 未查询到CVE信息| 
-| 20201016T11:17:23Z | CVE-2020-16898 | PoC Bad Neighbor BSOD exploit | https://github.com/Q1984/CVE-2020-16898 | 未查询到CVE信息| 
-| 20201016T09:20:02Z | CVE-2020-16898 | Minor powershell script that checks for vulnerable interfaces. | https://github.com/Maliek/CVE-2020-16898_Check | 未查询到CVE信息| 
+| 20201016T23:12:54Z | cve-2020-16898 | PoC BSOD for CVE-2020-16898 (badneighbor) | https://github.com/0xeb-bp/cve-2020-16898 | 未查询到CVE信息| 
+| 20201016T22:41:50Z | CVE-2020-16898 | CVE-2020-16898 (Bad Neighbor) Microsoft Windows TCP/IP Vulnerability Detection Logic and Rule | https://github.com/advanced-threat-research/CVE-2020-16898 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 57 MINUTES 03 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201016T22:13:07Z | CVE-2020-16947 | PoC of CVE-2020-16947 (Microsoft Outlook RCE vulnerablility) | https://github.com/0neb1n/CVE-2020-16947 | 当软件无法正确处理内存中的对象时，Microsoft Outlook 软件中存在远程代码执行漏洞，也称为%Microsoft Outlook 远程代码执行漏洞%。| 
+| 20201016T18:38:19Z | CVE-2020-16899 | Windows RDNSS RCE | https://github.com/bkerler/CVE-2020-16899 | 当 Windows TCP/IP 堆栈不当处理 ICMPv6 路由器播发数据包（也称为%Windows TCP/IP 拒绝服务漏洞%）时，存在拒绝服务漏洞。| 
+| 20201016T14:57:47Z | CVE-2020-1472 | Check for events that indicate non compatible devices -> CVE-2020-1472 | https://github.com/maikelnight/zerologon | 当攻击者使用Netlogon远程协议（MS-NRPC）（又称为“ Netlogon特权提升漏洞”）建立与域控制器的易受攻击的Netlogon安全通道连接时，将存在特权提升漏洞。| 
+| 20201016T11:17:23Z | CVE-2020-16898 | PoC Bad Neighbor BSOD exploit | https://github.com/Q1984/CVE-2020-16898 | 当 Windows TCP/IP 堆栈不当处理 ICMPv6 路由器播发数据包（也称为%Windows TCP/IP 远程代码执行漏洞%）时，存在远程代码执行漏洞。| 
+| 20201016T09:20:02Z | CVE-2020-16898 | Minor powershell script that checks for vulnerable interfaces. | https://github.com/Maliek/CVE-2020-16898_Check | 当 Windows TCP/IP 堆栈不当处理 ICMPv6 路由器播发数据包（也称为%Windows TCP/IP 远程代码执行漏洞%）时，存在远程代码执行漏洞。| 
 | 20201016T08:57:38Z | 未知编号 | 2020l4web-typography-css-library-DanCvejn created by GitHub Classroom | https://github.com/pslib-cz/2020l4web-typography-css-library-DanCvejn | 未查询到CVE信息| 
-| 20201016T08:33:30Z | CVE-2020-25213 | https://medium.com/@mansoorr/exploiting-cve-2020-25213-wp-file-manager-wordpress-plugin-6-9-3f79241f0cd8 | https://github.com/mansoorr123/wp-file-manager-CVE-2020-25213 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  09 HOURS 41 MINUTES 19 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20201016T04:31:37Z | CVE-2020-16898 | Proof-of-Concept (PoC) script to exploit IPv6 (CVE-2020-16898). | https://github.com/ZephrFish/CVE-2020-16898 | 未查询到CVE信息| 
-| 20201016T04:10:56Z | 未知编号 | A local privilege escalation chain from user to kernel for MacOS < 10.15.5. CVE-2020–9854 | https://github.com/A2nkF/unauthd | 未查询到CVE信息| 
-| 20201015T23:09:24Z | CVE-2020-16898 | A network detection package for CVE-2020-16898 (Windows TCP/IP Remote Code Execution Vulnerability) | https://github.com/corelight/CVE-2020-16898 | 未查询到CVE信息| 
-| 20201015T16:34:40Z | CVE-2020-16899 | CVE-2020-16899 - Microsoft Windows TCP/IP Vulnerability Detection Logic and Rule | https://github.com/advanced-threat-research/CVE-2020-16899 | 未查询到CVE信息| 
+| 20201016T08:33:30Z | CVE-2020-25213 | https://medium.com/@mansoorr/exploiting-cve-2020-25213-wp-file-manager-wordpress-plugin-6-9-3f79241f0cd8 | https://github.com/mansoorr123/wp-file-manager-CVE-2020-25213 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 57 MINUTES 04 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201016T04:31:37Z | CVE-2020-16898 | Proof-of-Concept (PoC) script to exploit IPv6 (CVE-2020-16898). | https://github.com/ZephrFish/CVE-2020-16898 | 当 Windows TCP/IP 堆栈不当处理 ICMPv6 路由器播发数据包（也称为%Windows TCP/IP 远程代码执行漏洞%）时，存在远程代码执行漏洞。| 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20201016T06:59:14Z | RVT is a collection of tools/libraries to support both static and dynamic verification of Rust programs. | https://github.com/project-oak/rust-verification-tools | 89 | 5| 
+| 20201016T22:18:27Z | Null | https://github.com/OleDakotaJoe/peachy-kleen | 0 | 0| 
+| 20201016T19:16:57Z | Hommage à %Hommage à Paul Klee% | https://github.com/dmitric/klee | 9 | 1| 
+| 20201016T18:43:54Z | Website for the KLEE project: https://klee.github.io/ | https://github.com/klee/klee.github.io | 13 | 43| 
+| 20201016T15:48:45Z | RVT is a collection of tools/libraries to support both static and dynamic verification of Rust programs. | https://github.com/project-oak/rust-verification-tools | 89 | 5| 
 | 20201016T03:07:28Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1523 | 464| 
-| 20201015T19:23:30Z | Website for the KLEE project: https://klee.github.io/ | https://github.com/klee/klee.github.io | 13 | 43| 
 | 20201014T19:52:29Z | Urban Evidence Based Policy (SPPA667) | https://github.com/KLeeDE/PUS2020_KLee | 0 | 1| 
 | 20201013T21:40:55Z | Ecommerce platform integrating the Momo API | https://github.com/MabuselaYolanda/kleekproject | 0 | 0| 
 | 20201013T06:35:02Z | Create CFGs and compute complexity metrics for Python, C++, and Java code. | https://github.com/hmc-alpaqa/metrinome | 4 | 0| 
 | 20201012T15:15:09Z | Null | https://github.com/mitchklee35/MitchKlee.com | 0 | 0| 
 | 20201011T10:52:55Z | Kleek interactive momo ecommerce platform | https://github.com/RockHardJim/kleek | 0 | 0| 
-| 20201011T07:36:43Z | Symbiotic is a tool for finding bugs in computer programs based on instrumentation, program slicing and KLEE | https://github.com/staticafi/symbiotic | 198 | 33| 
-| 20201009T12:48:14Z | modify klee to support thread and multiloop | https://github.com/zhaoxiahust/klee_modify | 1 | 1| 
 
 
 # s2e on Github 推荐
@@ -86,46 +86,46 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20201016T13:18:10Z | Plugin to fix exploits and add functionality to anarchy servers | https://github.com/L2X9org/L2X9Core | 0 | 3| 
-| 20201016T13:11:44Z | AD Enum is a pentesting tool that allows to find misconfiguration through the the protocol LDAP and exploit some of those weaknesses with kerberos. | https://github.com/SecuProject/ADenum | 4 | 0| 
-| 20201016T13:09:48Z | A phased, evasive Path Traversal + LFI scanning & exploitation tool in Python | https://github.com/VainlyStrain/Vailyn | 55 | 1| 
-| 20201016T12:54:14Z | Blog! | https://github.com/nonetype/nonetype.github.io | 0 | 0| 
-| 20201016T12:53:58Z | Null | https://github.com/quentin452/Cats-Exploitz-HUB | 0 | 1| 
-| 20201016T12:49:43Z | A Anti-DDoS script to protect Nginx web servers using Lua with a HTML Javascript based authentication puzzle inspired by Cloudflare I am under attack mode an Anti-DDoS authentication page protect yourself from every attack type All Layer 7 Attacks Mitigating Historic Attacks DoS DoS Implications DDoS All Brute Force Attacks Zero day exploits Social Engineering Rainbow Tables Password Cracking Tools Password Lists Dictionary Attacks Time Delay Any Hosting Provider Any CMS or Custom Website Unlimited Attempt Frequency Search Attacks HTTP Basic Authentication HTTP Digest Authentication HTML Form Based Authentication Mask Attacks Rule-Based Search Attacks Combinator Attacks Botnet Attacks Unauthorized IPs IP Whitelisting Bruter THC Hydra John the Ripper Brutus Ophcrack unauthorized logins Injection Broken Authentication and Session Management Sensitive Data Exposure XML External Entities (XXE) Broken Access Control Security Misconfiguration Cross-Site Scripting (XSS) Insecure Deserialization Using Components with Known Vulnerabilities Insufficient Logging & Monitoring Drupal WordPress Joomla Flash Magento PHP Plone WHMCS Atlassian Products malicious traffic Adult video script avs KVS Kernel Video Sharing Clip Bucket Tube sites Content Management Systems Social networks scripts backends proxy proxies PHP Python Porn sites xxx adult gaming networks servers sites forums vbulletin phpbb mybb smf simple machines forum xenforo web hosting video streaming buffering ldap upstream downstream download upload rtmp vod video over dl hls dash hds mss livestream drm mp4 mp3 swf css js html php python sex m3u zip rar archive compressed mitigation code source sourcecode chan 4chan 4chan.org 8chan.net 8ch 8ch.net infinite chan 8kun 8kun.net anonymous anon tor services .onion torproject.org nginx.org nginx.com openresty.org darknet dark net deepweb deep web darkweb dark web mirror vpn reddit reddit.com adobe flash hackthissite.org dreamhack hack hacked hacking hacker hackers hackerz hackz hacks code coding script scripting scripter source leaks leaked leaking cve vulnerability great firewall china america japan russia .gov government http1 http2 http3 quic q3 litespeedtech litespeed apache torrents torrent torrenting webtorrent bittorrent bitorrent bit-torrent cyberlocker cyberlockers cyber locker cyberbunker warez keygen key generator free irc internet relay chat peer-to-peer p2p cryptocurrency crypto bitcoin miner browser xmr monero coinhive coin hive coin-hive litecoin ethereum cpu cycles popads pop-ads advert advertisement networks banner ads protect ovh blazingfast.io amazon steampowered valve store.steampowered.com steamcommunity thepiratebay lulzsec antisec xhamster pornhub porn.com pornhub.com xhamster.com xvideos xvdideos.com xnxx xnxx.com popads popcash cpm ppc | https://github.com/C0nw0nk/Nginx-Lua-Anti-DDoS | 218 | 88| 
-| 20201016T12:48:38Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 5 | 3| 
-| 20201016T12:22:57Z | This project is perfect. No need for changes or exploit fixes | https://github.com/Z-100/CardGameAPI | 0 | 0| 
-| 20201016T11:54:46Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 8378 | 1275| 
-| 20201016T11:45:10Z | Null | https://github.com/KraudSecurity/Exploits | 0 | 0| 
+| 20201016T23:53:14Z | Null | https://github.com/powerpow09/bcvs-exploits | 0 | 0| 
+| 20201016T23:45:54Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 8382 | 1278| 
+| 20201016T23:28:49Z | RCE exploit for a .NET JSON deserialization vulnerability in Telerik UI for ASP.NET AJAX. | https://github.com/noperator/CVE-2019-18935 | 158 | 42| 
+| 20201016T22:19:03Z | Library developed while solving the challenges at cryptopals.com | https://github.com/hallgrimur1471/cryptography_exploits | 0 | 0| 
+| 20201016T21:52:02Z | Null | https://github.com/Kahvi-0/Vulnerabilities-and-Exploitations | 1 | 1| 
+| 20201016T21:11:15Z | Converted with tweaks from a metasploit module as an exercise for OSCP studying and exploit development | https://github.com/cd6629/CVE-2015-3306-Python-PoC | 0 | 0| 
+| 20201016T20:32:59Z | Sifter is a OSINT, recon & vulnerability scanner. It incorporates a plethara of tools within different module sets that tries to cover every attack vector. Allowing you to quickly perform recon tasks and organize the results in one place. From OSINT to Recon, Exploitation, Post-Exploitation, OpSec, Threat Analysis, XSS, SQLinjection, Network Scanning, WebApp Analysis or DNS enumeration.. Sifter should be able to cover it all. | https://github.com/s1l3nt78/sifter | 263 | 82| 
+| 20201016T20:22:08Z | Null | https://github.com/ImmuneLion318/Nihon-Exploit | 0 | 0| 
+| 20201016T19:53:19Z | Advanced dork Search & Mass Exploit Scanner | https://github.com/AlisamTechnology/ATSCAN | 715 | 291| 
+| 20201016T19:26:21Z | A phased, evasive Path Traversal + LFI scanning & exploitation tool in Python | https://github.com/VainlyStrain/Vailyn | 55 | 1| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20201016T23:53:04Z | Tool to find potential backdoor/security holes in your endpoint | https://github.com/subasgit/backdoorfinder | 1 | 0| 
+| 20201016T19:57:56Z | Ghost Framework is an Android post-exploitation framework that exploits the Android Debug Bridge to remotely access an Android device. Ghost Framework gives you the power and convenience of remote Android device administration. | https://github.com/entynetproject/ghost | 751 | 385| 
+| 20201016T19:06:15Z | A deck-building roguelike cyberpunk game. | https://github.com/uspgamedev/backdoor | 18 | 3| 
+| 20201016T16:47:55Z | Backdoor that can open web-pages remotely | https://github.com/pro-extremecoder/URLBackdoor | 0 | 0| 
 | 20201016T13:02:44Z | Null | https://github.com/marychev-akvelon/xamarin-demoapp-backdoor | 0 | 0| 
-| 20201016T12:14:45Z | Backdoor that can open web-pages remotely | https://github.com/pro-extremecoder/URLBackdoor | 0 | 0| 
 | 20201016T11:25:58Z | Full-featured C2 framework which silently persists on webserver with a single-line PHP backdoor | https://github.com/nil0x42/phpsploit | 1051 | 318| 
-| 20201016T07:38:42Z | Ghost Framework is an Android post-exploitation framework that exploits the Android Debug Bridge to remotely access an Android device. Ghost Framework gives you the power and convenience of remote Android device administration. | https://github.com/entynetproject/ghost | 749 | 384| 
 | 20201016T06:31:47Z | Repository for all the code related to Learn Python & Ethical Hacking From Scratch course. All the work is done on Kali Linux, using both Python 2.7 and 3.x version. | https://github.com/Maffey/ethical-hacking-course | 0 | 0| 
 | 20201016T06:17:15Z | A Backdoor written in Python 3 that enables the attacker to execute commands on the remote machine being undetectable. | https://github.com/Ryan-AW/Backdoor-Trojan | 1 | 0| 
 | 20201015T21:29:43Z | A simple, effective python based Backdoor for Windows 10 Victim machines for research purposes | https://github.com/govind-menon110/FUD-Python-Backdoor | 3 | 2| 
 | 20201015T19:58:00Z | shell backdoor scanner | https://github.com/yngwld13/yngwld | 0 | 0| 
-| 20201015T16:57:43Z | Contact: Maximilian Bachl, Alexander Hartl. Explores defenses against backdoors and poisoning attacks for Intrusion Detection Systems. Code for %EagerNet% is in the %eager% branch.  | https://github.com/CN-TU/ids-backdoor | 3 | 3| 
-| 20201015T15:54:43Z | LKM rootkit for Linux Kernels 2.6.x/3.x/4.x/5.x (x86/x86_64 and ARM64) | https://github.com/m0nad/Diamorphine | 643 | 250| 
 
 
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20201016T12:56:04Z | Obiekt fuzzy zawiera pola i metody zbiorów rozmytych.  | https://github.com/sq5riv/fuzzy_ops | 0 | 0| 
-| 20201016T12:48:01Z | A fuzzy finder with GUI (inspired by fzf) | https://github.com/jimmykarily/fuzzygui | 0 | 0| 
-| 20201016T12:34:04Z | Simulation and Fuzzy controller design for a second-order inverted pendulum system | https://github.com/ftmghorbani/Fuzzy-controller-for-a-second-order-inverted-pendulum | 0 | 0| 
-| 20201016T12:33:42Z | Generate wordlists for fuzzing API method names | https://github.com/sorokinpf/ApiWordlistGenerator | 38 | 8| 
-| 20201016T12:01:00Z | fuzzy matching everywhere | https://github.com/amirrezaask/fuzzy.nvim | 17 | 0| 
-| 20201016T11:39:11Z | Null | https://github.com/stuartly/Kernel-Fuzzing | 0 | 2| 
-| 20201016T11:29:58Z | MIPS32 emulation fuzzing | https://github.com/klecko/mips-fuzz | 3 | 1| 
-| 20201016T11:17:57Z | Null | https://github.com/gibaja/PracticasFuzzyJavaWeka | 0 | 0| 
-| 20201016T10:59:37Z | Null | https://github.com/lacygoill/vim-fuzzy | 0 | 0| 
-| 20201016T10:49:43Z | Fuzzing Collection for Web Application | https://github.com/tungpdv/Fuzzing-Dictionary | 1 | 0| 
+| 20201016T23:44:07Z | OSS-Fuzz - continuous fuzzing of open source software. | https://github.com/google/oss-fuzz | 5602 | 1101| 
+| 20201016T23:39:27Z | An idea for improving fuzz testing | https://github.com/benjaminy/FuzzingSymbolicAssist | 0 | 0| 
+| 20201016T23:11:24Z | fuzzy matching everywhere | https://github.com/amirrezaask/fuzzy.nvim | 17 | 0| 
+| 20201016T22:39:45Z | Null | https://github.com/fuzzylogicxx/fuzzy-speedlify | 0 | 0| 
+| 20201016T21:55:13Z | Null | https://github.com/jeff137/Prediction-of-PCC-Type-Cement-Demand-Using-the-Fuzzy-Tsukamoto-Method | 1 | 1| 
+| 20201016T21:44:04Z | data analytics from kaggle | https://github.com/CYKDataWorld/fuzzy-carnival | 0 | 0| 
+| 20201016T21:40:09Z | Check out and manage git branches painlessly with the power of fzf | https://github.com/drewbrokke/git-fuzzy-checkout | 0 | 0| 
+| 20201016T21:34:47Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2161 | 102| 
+| 20201016T21:33:27Z | Null | https://github.com/googleinterns/hw-fuzzing | 2 | 0| 
+| 20201016T20:57:22Z | Null | https://github.com/starlab-io/docker-linux-fuzz-testing | 0 | 0| 
 
 
 
