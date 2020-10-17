@@ -46,23 +46,24 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20201017T00:38:22Z | CVE-2020-16898 | CVE-2020-16898 (Bad Neighbor) Microsoft Windows TCP/IP Vulnerability Detection Logic and Rule | https://github.com/advanced-threat-research/CVE-2020-16898 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 00 MINUTES 09 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20201017T00:19:43Z | CVE-2020-1472 | C# Vulnerability Checker for CVE-2020-1472 Aka Zerologon | https://github.com/CPO-EH/ZeroLogonChecker | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 00 MINUTES 23 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20201017T00:14:04Z | CVE-2020-1472 | C# Checker for CVE-2020-1472 vulnerability Aka Zerologon | https://github.com/CPO-EH/ZeroLogonChecker.Old | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 41 MINUTES 27 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20201016T23:12:54Z | cve-2020-16898 | PoC BSOD for CVE-2020-16898 (badneighbor) | https://github.com/0xeb-bp/cve-2020-16898 | 未查询到CVE信息| 
-| 20201016T22:13:07Z | CVE-2020-16947 | PoC of CVE-2020-16947 (Microsoft Outlook RCE vulnerablility) | https://github.com/0neb1n/CVE-2020-16947 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 00 MINUTES 18 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20201016T18:38:19Z | CVE-2020-16899 | Windows RDNSS RCE | https://github.com/bkerler/CVE-2020-16899 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 00 MINUTES 22 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20201016T14:57:47Z | CVE-2020-1472 | Check for events that indicate non compatible devices -> CVE-2020-1472 | https://github.com/maikelnight/zerologon | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 00 MINUTES 19 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20201016T11:17:23Z | CVE-2020-16898 | PoC Bad Neighbor BSOD exploit | https://github.com/Q1984/CVE-2020-16898 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 00 MINUTES 20 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20201016T09:20:02Z | CVE-2020-16898 | Minor powershell script that checks for vulnerable interfaces. | https://github.com/Maliek/CVE-2020-16898_Check | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 00 MINUTES 12 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20201016T08:57:38Z | 未知编号 | 2020l4web-typography-css-library-DanCvejn created by GitHub Classroom | https://github.com/pslib-cz/2020l4web-typography-css-library-DanCvejn | 未查询到CVE信息| 
+| 20201017T11:39:36Z | CVE-2020-16899 | CVE-2020-16899 - Microsoft Windows TCP/IP Vulnerability Detection Logic and Rule | https://github.com/advanced-threat-research/CVE-2020-16899 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 59 MINUTES 22 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201017T11:03:34Z | CVE-2020-1472 | C# Vulnerability Checker for CVE-2020-1472 Aka Zerologon | https://github.com/CPO-EH/CVE-2020-1472_ZeroLogonChecker | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 59 MINUTES 32 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201017T10:55:36Z | CVE-2020-16898 | Check all Network Interfaces for CVE-2020-16898 Vulnerability | https://github.com/CPO-EH/CVE-2020-16898_Checker | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 58 MINUTES 36 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201017T10:46:42Z | cve-2020-16898 | PoC BSOD for CVE-2020-16898 | https://github.com/jiansiting/cve-2020-16898 | 未查询到CVE信息| 
+| 20201017T10:28:02Z | CVE-2020-16898 | PowerShell Script Workaround for VCE-220-16898 Vulnerability | https://github.com/CPO-EH/CVE-2020-16898_Workaround | | 
+| 20201017T09:39:22Z | CVE-2020-16947 | PoC of CVE-2020-16947 (Microsoft Outlook RCE vulnerablility) | https://github.com/0neb1n/CVE-2020-16947 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 59 MINUTES 27 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201017T08:34:51Z | CVE-2020-7961 | Detect vulns liferay CVE-2020-7961 by Nattroc (EOG Team) | https://github.com/shacojx/GLiferay | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 59 MINUTES 34 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201017T08:14:52Z | 未知编号 | Null | https://github.com/Ken-Abruzzi/cve_2020_16947 | 未查询到CVE信息| 
+| 20201017T06:19:31Z | CVE-2020-16898 | CVE-2020-16898 (Bad Neighbor) Microsoft Windows TCP/IP Vulnerability Detection Logic and Rule | https://github.com/advanced-threat-research/CVE-2020-16898 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 59 MINUTES 21 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201017T06:15:17Z | CVE-2020-16898 | Zeek detection for CVE-2020-16898-"Bad Neighbor" | https://github.com/initconf/CVE-2020-16898-Bad-Neighbor | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 59 MINUTES 25 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20201017T07:03:35Z | Hommage à %Hommage à Paul Klee% | https://github.com/dmitric/klee | 10 | 1| 
+| 20201017T05:21:37Z | Null | https://github.com/raynard2/SwiftKleen | 0 | 0| 
 | 20201016T22:18:27Z | Null | https://github.com/OleDakotaJoe/peachy-kleen | 0 | 0| 
-| 20201016T19:16:57Z | Hommage à %Hommage à Paul Klee% | https://github.com/dmitric/klee | 9 | 1| 
 | 20201016T18:43:54Z | Website for the KLEE project: https://klee.github.io/ | https://github.com/klee/klee.github.io | 13 | 43| 
 | 20201016T15:48:45Z | RVT is a collection of tools/libraries to support both static and dynamic verification of Rust programs. | https://github.com/project-oak/rust-verification-tools | 89 | 5| 
 | 20201016T03:07:28Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1523 | 464| 
@@ -70,7 +71,6 @@
 | 20201013T21:40:55Z | Ecommerce platform integrating the Momo API | https://github.com/MabuselaYolanda/kleekproject | 0 | 0| 
 | 20201013T06:35:02Z | Create CFGs and compute complexity metrics for Python, C++, and Java code. | https://github.com/hmc-alpaqa/metrinome | 4 | 0| 
 | 20201012T15:15:09Z | Null | https://github.com/mitchklee35/MitchKlee.com | 0 | 0| 
-| 20201011T10:52:55Z | Kleek interactive momo ecommerce platform | https://github.com/RockHardJim/kleek | 0 | 0| 
 
 
 # s2e on Github 推荐
@@ -86,22 +86,24 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20201017T01:58:10Z | Null | https://github.com/mathieufortin01/linux-exploit | 0 | 0| 
-| 20201017T00:56:18Z | Plugin to fix exploits and add functionality to anarchy servers | https://github.com/L2X9org/L2X9Core | 0 | 4| 
-| 20201017T00:52:08Z | Null | https://github.com/sepehrdaddev/packetstorm-exploits | 2 | 5| 
-| 20201017T00:51:25Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 8383 | 1279| 
-| 20201017T00:48:39Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 5 | 3| 
-| 20201017T00:16:46Z | Null | https://github.com/powerpow09/bcvs-exploits | 0 | 0| 
-| 20201016T23:28:49Z | RCE exploit for a .NET JSON deserialization vulnerability in Telerik UI for ASP.NET AJAX. | https://github.com/noperator/CVE-2019-18935 | 158 | 42| 
-| 20201016T22:19:03Z | Library developed while solving the challenges at cryptopals.com | https://github.com/hallgrimur1471/cryptography_exploits | 0 | 0| 
-| 20201016T21:52:02Z | Null | https://github.com/Kahvi-0/Vulnerabilities-and-Exploitations | 1 | 1| 
-| 20201016T21:11:15Z | Converted with tweaks from a metasploit module as an exercise for OSCP studying and exploit development | https://github.com/cd6629/CVE-2015-3306-Python-PoC | 0 | 0| 
+| 20201017T11:58:05Z | :palm_tree:Windows exploits提权漏洞合集，附带编译环境，演示GIF图，漏洞详细信息，可执行文件 | https://github.com/Ascotbe/Kernelhub | 473 | 78| 
+| 20201017T11:54:08Z | The official Exploit Database repository | https://github.com/offensive-security/exploitdb | 5593 | 1600| 
+| 20201017T11:38:05Z | Ghost Framework is an Android post-exploitation framework that exploits the Android Debug Bridge to remotely access an Android device. Ghost Framework gives you the power and convenience of remote Android device administration. | https://github.com/entynetproject/ghost | 751 | 385| 
+| 20201017T11:35:12Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 8387 | 1281| 
+| 20201017T11:33:19Z | Plugin to fix exploits and add functionality to anarchy servers | https://github.com/L2X9org/L2X9Core | 0 | 4| 
+| 20201017T11:07:11Z | Exploit Manager for Challenges | https://github.com/Omnicrist/exploit_manager | 2 | 0| 
+| 20201017T11:05:03Z | Sim0n is a Linux remote shell exploit that exploits memory vulnerabilities via shell code generated with execve system call. | https://github.com/enty8080/sim0n | 1 | 0| 
+| 20201017T10:22:28Z | Tools for detection and exploitation of chosen vulnerability classes in web appliactions - Engineer%s Thesis - AGH UST | https://github.com/gregxsunday/tools-for-exploiting-webapps | 2 | 0| 
+| 20201017T08:23:42Z | Custom version of the original Overthrow.  Bugs squashed and squashing, exploits punishable by death, new businesses plus much more, oh and high steriod use by the AI ;) Discord link  https://discord.gg/ZdMMq9x | https://github.com/GerhartPapaGee/Overthrow-Martial-Law | 0 | 1| 
+| 20201017T07:57:12Z | A website which combines useful links for gfn-exploiting. | https://github.com/helmutrocco13/helmutrocco13.github.io | 0 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20201017T00:42:54Z | Ghost Framework is an Android post-exploitation framework that exploits the Android Debug Bridge to remotely access an Android device. Ghost Framework gives you the power and convenience of remote Android device administration. | https://github.com/entynetproject/ghost | 752 | 385| 
+| 20201017T11:38:05Z | Ghost Framework is an Android post-exploitation framework that exploits the Android Debug Bridge to remotely access an Android device. Ghost Framework gives you the power and convenience of remote Android device administration. | https://github.com/entynetproject/ghost | 751 | 385| 
+| 20201017T07:38:28Z | Final code of the Input-aware Backdoor Attack | https://github.com/VinAIResearch/input-aware-backdoor-attack-release | 0 | 0| 
+| 20201017T03:28:52Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 71 | 8| 
 | 20201016T23:53:04Z | Tool to find potential backdoor/security holes in your endpoint | https://github.com/subasgit/backdoorfinder | 1 | 0| 
 | 20201016T19:06:15Z | A deck-building roguelike cyberpunk game. | https://github.com/uspgamedev/backdoor | 18 | 3| 
 | 20201016T16:47:55Z | Backdoor that can open web-pages remotely | https://github.com/pro-extremecoder/URLBackdoor | 0 | 0| 
@@ -109,8 +111,6 @@
 | 20201016T11:25:58Z | Full-featured C2 framework which silently persists on webserver with a single-line PHP backdoor | https://github.com/nil0x42/phpsploit | 1051 | 318| 
 | 20201016T06:31:47Z | Repository for all the code related to Learn Python & Ethical Hacking From Scratch course. All the work is done on Kali Linux, using both Python 2.7 and 3.x version. | https://github.com/Maffey/ethical-hacking-course | 0 | 0| 
 | 20201016T06:17:15Z | A Backdoor written in Python 3 that enables the attacker to execute commands on the remote machine being undetectable. | https://github.com/Ryan-AW/Backdoor-Trojan | 1 | 0| 
-| 20201015T21:29:43Z | A simple, effective python based Backdoor for Windows 10 Victim machines for research purposes | https://github.com/govind-menon110/FUD-Python-Backdoor | 3 | 2| 
-| 20201015T19:58:00Z | shell backdoor scanner | https://github.com/yngwld13/yngwld | 0 | 0| 
 
 
 # fuzz on Github 推荐
