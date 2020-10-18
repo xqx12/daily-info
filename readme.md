@@ -20,7 +20,7 @@
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
 | 20201018T09:12:40Z | CVE-2020-8835 | Null | https://github.com/SplendidSky/CVE-2020-8835 | | 
-| 20201018T08:35:16Z | CVE-2020-11989 | Null | https://github.com/HYWZ36/HYWZ36-CVE-2020-11989-code | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 55 MINUTES 43 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201018T08:35:16Z | CVE-2020-11989 | Null | https://github.com/HYWZ36/HYWZ36-CVE-2020-11989-code | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 54 MINUTES 42 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20201018T07:48:01Z | cve-2020-16898 | PoC BSOD for CVE-2020-16898 (badneighbor) | https://github.com/0xeb-bp/cve-2020-16898 | 未查询到CVE信息| 
 | 20201018T03:24:22Z | cve-2020-1472 | Exploit for zerologon cve-2020-1472 | https://github.com/risksense/zerologon | 未查询到CVE信息| 
 
@@ -65,10 +65,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20201018T01:52:12Z | Collection of HTTP scanners and fuzzers. | https://github.com/buffermet/bug-bounty-tools | 4 | 1| 
-| 20201018T01:19:31Z | Repositorio proyecto de titulación %Desarrollo de un sistema de control basado en lógica difusa en un ordenador de placa reducida% | https://github.com/g-valenzuela/Fuzzy_controller | 0 | 0| 
-| 20201018T01:14:26Z | A collection of fuzzy cluster validity indices in the R language. | https://github.com/fernandase/fuzzy-cluster-validity-indices | 0 | 0| 
-| 20201018T01:09:12Z | Null | https://github.com/olegsych/fuzzy | 0 | 0| 
+| 20201018T12:06:07Z | Null | https://github.com/pramod726/fuzzy | 0 | 0| 
+| 20201018T12:02:21Z | 御剑目录扫描专业版，简单实用的命令行网站目录扫描工具，支持爬虫、fuzz、自定义字典、字典变量、UA修改、假404自动过滤、扫描控速等功能。 | https://github.com/foryujian/yjdirscan | 77 | 16| 
+| 20201018T11:20:25Z | a c program containing vulnerable code for common types of vulnerabilities, can be used to show fuzzing concepts. | https://github.com/hardik05/Damn_Vulnerable_C_Program | 81 | 10| 
+| 20201018T10:50:48Z | Personal website of Laurence Hughes | https://github.com/fuzzylogicxx/fuzzylogic | 4 | 1| 
+| 20201018T10:21:18Z | AI based fuzzer based on imitation learning | https://github.com/eth-sri/ilf | 47 | 8| 
+| 20201018T10:10:47Z | Null | https://github.com/pkudlacik/NeuroFuzzy_Lips | 0 | 0| 
+| 20201018T09:19:06Z | Collection of HTTP scanners and fuzzers. | https://github.com/buffermet/bug-bounty-tools | 5 | 1| 
+| 20201018T08:45:23Z | School project | https://github.com/DavidLindtner/FuzzyController-simulink | 0 | 0| 
+| 20201018T08:11:43Z | The Art, Science, and Engineering of Fuzzing: A Survey | https://github.com/SoftSec-KAIST/Fuzzing-Survey | 76 | 10| 
+| 20201018T07:32:44Z | Assignment data | https://github.com/SwethaMamidipoodi/NeuralNetworks-FuzzyLogic | 0 | 0| 
 
 
 
