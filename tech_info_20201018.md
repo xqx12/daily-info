@@ -20,8 +20,8 @@
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
 | 20201018T19:51:57Z | cve-2020-16898 | PoC BSOD for CVE-2020-16898 (badneighbor) | https://github.com/0xeb-bp/cve-2020-16898 | 未查询到CVE信息| 
-| 20201018T09:12:40Z | CVE-2020-8835 | Null | https://github.com/SplendidSky/CVE-2020-8835 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 46 MINUTES 44 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20201018T08:35:16Z | CVE-2020-11989 | Null | https://github.com/HYWZ36/HYWZ36-CVE-2020-11989-code | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 46 MINUTES 45 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201018T09:12:40Z | CVE-2020-8835 | Null | https://github.com/SplendidSky/CVE-2020-8835 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 44 MINUTES 44 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201018T08:35:16Z | CVE-2020-11989 | Null | https://github.com/HYWZ36/HYWZ36-CVE-2020-11989-code | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 44 MINUTES 46 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20201018T03:24:22Z | cve-2020-1472 | Exploit for zerologon cve-2020-1472 | https://github.com/risksense/zerologon | 未查询到CVE信息| 
 
 
@@ -43,13 +43,13 @@
 | 20201018T23:52:49Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 8398 | 1283| 
 | 20201018T23:49:16Z | Null | https://github.com/Flyerrx/FlyHi-Exploit-Roblox | 0 | 0| 
 | 20201018T22:32:12Z | XSScope is one of the most powerful and advanced GUI Framework for Modern Browser exploitation via XSS. | https://github.com/kleiton0x00/XSScope | 52 | 14| 
-| 20201018T21:03:10Z | Mutate a target to generate %possible% exploit candidates. | https://github.com/demetrius-ford/mutation-fuzzer | 0 | 0| 
 | 20201018T20:25:48Z | This repository is for my senior year capstone. For my capstone I am developing a multipurpose web exploitation tool in python3. | https://github.com/nicholas-lueth/Web-Exploitation-Tool-Capstone | 0 | 0| 
 | 20201018T20:15:44Z | Tools for detection and exploitation of chosen vulnerability classes in web appliactions - Engineer%s Thesis - AGH UST | https://github.com/gregxsunday/tools-for-exploiting-webapps | 2 | 0| 
 | 20201018T20:15:04Z | A static library, wrapper for mhyprot vulnerable driver, execute exploits and tests | https://github.com/kkent030315/libmhyprot | 3 | 0| 
 | 20201018T18:35:27Z | Vulnerabilities, security advisories, exploit codes and proof-of-concept codes. | https://github.com/zeroscience/advisory | 4 | 4| 
 | 20201018T18:31:46Z | Rodent Framework is an iOS and macOS post-exploitation framework that gives you  a command line session with extra functionality between you and a target machine  using only a simple Rodent payload. Rodent gives you the power and convenience of  uploading and downloading files, tab completion, taking pictures, location tracking,  shell command execution, escalating privileges, password retrieval, and much more. | https://github.com/TheHertzProject/Rodent | 0 | 0| 
 | 20201018T18:12:26Z | PS4 FW6.72 Exploit Menu with .js and .bin Payload Loader and Payload Chainloader. All important payloads are included! | https://github.com/Storm21CH/PS4-FW6.72-Exploit-Menu | 0 | 0| 
+| 20201018T18:06:44Z | Haven Framework is a Linux post-exploitation framework that exploits Linux SSH vulnerability to provide a shell-like connection. Haven Framework can be used to easily master Linux SSH exploitation. | https://github.com/TheHertzProject/Haven | 0 | 0| 
 
 
 # backdoor on Github 推荐
