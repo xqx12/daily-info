@@ -17,6 +17,8 @@
 | 20201019 | pi3 对上周 Windows 修复的 Bad Neighbor （CVE-2020-16898） IPv6 RCE 漏洞的分析 | http://blog.pi3.com.pl/?p=780| 
 | 20201019 | Operationalising Calendar Alerts: Persistence on macOS | https://sec.today/pulses/d265295e-d61f-4fe1-aaae-008270631ac7/| 
 | 20201019 | Quarkslab 对上周 Windows 修复的 Bad Neighbor （CVE-2020-16898） IPv6 RCE 漏洞的分析 | https://sec.today/pulses/7967339e-a5ca-4067-8c8e-c1d202cf729d/| 
+| 20201019 | Operationalising Calendar Alerts: Persistence on macOS | https://labs.f-secure.com/blog/operationalising-calendar-alerts-persistence-on-macos/| 
+| 20201019 | Quarkslab 对上周 Windows 修复的 Bad Neighbor （CVE-2020-16898） IPv6 RCE 漏洞的分析 | http://blog.quarkslab.com/beware-the-bad-neighbor-analysis-and-poc-of-the-windows-ipv6-router-advertisement-vulnerability-cve-2020-16898.html| 
 | 20201016 | Crowdsec - 一款开源的终端安全检测产品 | https://github.com/crowdsecurity/crowdsec| 
 | 20201016 | Hacking HTTP CORS from inside out | https://medium.com/bugbountywriteup/hacking-http-cors-from-inside-out-512cb125c528| 
 | 20201016 | 关于智能卡 JavaCard 相关的资料收集 | https://github.com/EnigmaBridge/javacard-curated-list| 
@@ -24,8 +26,6 @@
 | 20201016 | Windows Defender 应用控制的推荐阻断规则分析 | https://bohops.com/2020/10/15/exploring-the-wdac-microsoft-recommended-block-rules-visualuiaverifynative/| 
 | 20201016 | 利用 Go Fuzz 工具搭建环境实际测试项目的视频 | https://www.youtube.com/watch?v=pA4E8rvQGmY| 
 | 20201016 | PoC of CVE-2020-16947 (Microsoft Outlook RCE vulnerablility) | https://github.com/0neb1n/CVE-2020-16947| 
-| 20201016 | 在有代码执行漏洞但是目录不可写的情况下如何创建 Web Shell | https://www.mdsec.co.uk/2020/10/covert-web-shells-in-net-with-read-only-web-paths/| 
-| 20201016 | 有研究员公开了一份从 GitHub 搜索敏感信息的 Docks 关键词列表 | https://github.com/obheda12/GitDorker/tree/master/Dorks| 
 
 
 # 安全维基 推荐
@@ -47,13 +47,13 @@
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
 | 20201019T11:47:27Z | cve-2020-16898 | PoC BSOD for CVE-2020-16898 (badneighbor) | https://github.com/0xeb-bp/cve-2020-16898 | 未查询到CVE信息| 
-| 20201019T10:16:49Z | CVE-2020-25540 | ThinkAdmin CVE-2020-25540 poc | https://github.com/ChaoYangDongYongGuaiGe/CVE-2020-25540 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 58 MINUTES 29 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201019T10:16:49Z | CVE-2020-25540 | ThinkAdmin CVE-2020-25540 poc | https://github.com/ChaoYangDongYongGuaiGe/CVE-2020-25540 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 57 MINUTES 28 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20201019T09:05:12Z | cve-2020-16898 | PoC BSOD for CVE-2020-16898 | https://github.com/jiansiting/cve-2020-16898 | 未查询到CVE信息| 
-| 20201019T08:52:49Z | CVE-2020-11989 | Null | https://github.com/HYWZ36/HYWZ36-CVE-2020-11989-code | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 58 MINUTES 27 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201019T08:52:49Z | CVE-2020-11989 | Null | https://github.com/HYWZ36/HYWZ36-CVE-2020-11989-code | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 57 MINUTES 26 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20201019T06:55:24Z | cve-2020-1472 | Null | https://github.com/johnpathe/zerologon-cve-2020-1472-notes | 未查询到CVE信息| 
 | 20201019T03:25:00Z | CVE-2020-24771 | Null | https://github.com/qlh831/CVE-2020-24771 | 未查询到CVE信息| 
-| 20201019T01:59:15Z | CVE-2020-16898 | Null | https://github.com/momika233/CVE-2020-16898-exp | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 58 MINUTES 25 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20201018T09:12:40Z | CVE-2020-8835 | Null | https://github.com/SplendidSky/CVE-2020-8835 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 58 MINUTES 26 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201019T01:59:15Z | CVE-2020-16898 | Null | https://github.com/momika233/CVE-2020-16898-exp | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 57 MINUTES 24 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201018T09:12:40Z | CVE-2020-8835 | Null | https://github.com/SplendidSky/CVE-2020-8835 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 57 MINUTES 25 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20201018T03:24:22Z | cve-2020-1472 | Exploit for zerologon cve-2020-1472 | https://github.com/risksense/zerologon | 未查询到CVE信息| 
 | 20201017T18:05:31Z | CVE-2020-16947 | PoC of CVE-2020-16947 (Microsoft Outlook RCE vulnerablility) | https://github.com/0neb1n/CVE-2020-16947 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 00 MINUTES 29 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 
