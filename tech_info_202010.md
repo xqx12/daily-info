@@ -116,10 +116,10 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20201019T00:03:56Z | Null | https://github.com/castellanos94/FuzzyLogicPy | 0 | 0| 
 | 20201019T00:00:01Z | Null | https://github.com/chelseybrown0520/Fuzzy-Farmer | 0 | 0| 
 | 20201018T23:57:10Z | Learn Coding Learn Playing | https://github.com/HACKaz-Unaux/-fuzzy-robot | 0 | 0| 
 | 20201018T23:55:10Z | Null | https://github.com/nishantjr/fuzzing-with-k | 0 | 0| 
-| 20201018T23:49:12Z | Null | https://github.com/castellanos94/FuzzyLogicPy | 0 | 0| 
 | 20201018T23:46:16Z | Scalable fuzzing infrastructure. | https://github.com/google/clusterfuzz | 4349 | 394| 
 | 20201018T23:32:41Z | FuzzBench - Fuzzer benchmarking as a service. | https://github.com/google/fuzzbench | 536 | 84| 
 | 20201018T23:31:55Z | Null | https://github.com/Aura-Buddy/FuzzyController | 0 | 0| 

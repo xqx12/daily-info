@@ -70,7 +70,6 @@
 | --- | --- | --- | --- | ---| 
 | 20201018T23:57:10Z | Learn Coding Learn Playing | https://github.com/HACKaz-Unaux/-fuzzy-robot | 0 | 0| 
 | 20201018T23:55:10Z | Null | https://github.com/nishantjr/fuzzing-with-k | 0 | 0| 
-| 20201018T23:49:12Z | Null | https://github.com/castellanos94/FuzzyLogicPy | 0 | 0| 
 | 20201018T23:46:16Z | Scalable fuzzing infrastructure. | https://github.com/google/clusterfuzz | 4349 | 394| 
 | 20201018T23:32:41Z | FuzzBench - Fuzzer benchmarking as a service. | https://github.com/google/fuzzbench | 536 | 84| 
 | 20201018T23:31:55Z | Null | https://github.com/Aura-Buddy/FuzzyController | 0 | 0| 
@@ -78,6 +77,7 @@
 | 20201018T22:33:20Z | Null | https://github.com/KiaranCilkenny/fuzzy-couscous | 0 | 0| 
 | 20201018T22:14:33Z | A random basic test ROM generator for the GBA | https://github.com/DenSinH/FuzzARM | 10 | 1| 
 | 20201018T22:13:14Z | RcppDeepState, a simple way to fuzz test code in Rcpp packages | https://github.com/akhikolla/RcppDeepState | 0 | 0| 
+| 20201018T21:56:19Z | Personal website of Laurence Hughes | https://github.com/fuzzylogicxx/fuzzylogic | 4 | 1| 
 
 
 
