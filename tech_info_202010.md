@@ -101,31 +101,31 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20201019T11:58:22Z | Null | https://github.com/marychev-akvelon/xamarin-demoapp-backdoor | 0 | 0| 
+| 20201019T10:04:38Z | PyIris-backdoor is a modular, stealthy and flexible remote-access-toolkit written completely in python used to command and control other systems. It is now in the beta stage, possibly perpetually. There are bugs still present in the framework, feel free to contribute or help me out with this project its still under active development >_> | https://github.com/angus-y/PyIris-backdoor | 121 | 39| 
+| 20201019T06:39:20Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 73 | 8| 
+| 20201019T05:42:38Z | Final code of the Input-aware Backdoor Attack | https://github.com/VinAIResearch/input-aware-backdoor-attack-release | 3 | 0| 
 | 20201019T00:40:31Z | Full-featured C2 framework which silently persists on webserver with a single-line PHP backdoor | https://github.com/nil0x42/phpsploit | 1053 | 318| 
 | 20201018T23:45:45Z | Null | https://github.com/irepublica/monitor_backdoor | 0 | 0| 
-| 20201018T19:55:41Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 73 | 8| 
 | 20201018T13:42:47Z | This tool will create backdoor | https://github.com/krishpranav/Backdoorcreator | 2 | 1| 
 | 20201018T11:31:14Z | simple reverse shell backdoor with IRC bot | https://github.com/rofl0r/backdoor-py | 3 | 1| 
 | 20201018T08:07:31Z | An Artificial Intelligence Poisoned Data Detection & Cleanse System | https://github.com/RidiculousDoge/AIPDC | 2 | 2| 
 | 20201018T05:29:56Z | Code repository for dynamic backdoor attacks on NLP tasks | https://github.com/HaojiXu/dynamic-backdoor-language-attack | 0 | 0| 
-| 20201018T00:00:14Z | End-to-end encrypted messaging app, keep em backdoors away! | https://github.com/EllartOtt/encrypted-messaging | 0 | 0| 
-| 20201017T16:30:26Z | Code submission for the paper %On the Robustness of the Backdoor-based Watermarking in Deep Neural Networks% | https://github.com/CodeSubmission642/WatermarkRobustness | 0 | 0| 
-| 20201017T14:09:39Z | A backdoor with a multitude of features. | https://github.com/thatcherclough/BetterBackdoor | 168 | 58| 
 
 
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20201019T01:52:42Z | [ICSE2020] MemLock: Memory Usage Guided Fuzzing | https://github.com/wcventure/MemLock-Fuzz | 35 | 4| 
-| 20201019T01:39:51Z | JP2KLib.dll harness for WinAFL | https://github.com/ronwai/jp2k_fuzz | 0 | 0| 
-| 20201019T01:36:32Z | Recent Fuzzing Paper | https://github.com/wcventure/FuzzingPaper | 526 | 97| 
-| 20201019T01:33:33Z | Mutate a target to generate %possible% exploit candidates. | https://github.com/demetrius-ford/mutation-fuzzer | 0 | 0| 
-| 20201019T01:27:50Z | Null | https://github.com/castellanos94/FuzzyLogicPy | 0 | 0| 
-| 20201019T01:17:18Z | Learn Coding Learn Playing | https://github.com/HACKaz-Unaux/-fuzzy-robot | 0 | 0| 
-| 20201019T00:58:39Z | Web application fuzzer | https://github.com/xmendez/wfuzz | 3178 | 805| 
-| 20201019T00:50:56Z | Fuzzing the Kernel Using Unicornafl and AFL++ | https://github.com/fgsect/unicorefuzz | 245 | 29| 
-| 20201019T00:46:08Z | RcppDeepState, a simple way to fuzz test code in Rcpp packages | https://github.com/akhikolla/RcppDeepState | 0 | 0| 
-| 20201019T00:00:01Z | Null | https://github.com/chelseybrown0520/Fuzzy-Farmer | 0 | 0| 
+| 20201019T11:47:09Z | idea上传 | https://github.com/SnakeBabaluo/fuzzy-funicular | 0 | 0| 
+| 20201019T11:26:29Z | Null | https://github.com/Ryu-Miyaki/Fuzz4B | 7 | 0| 
+| 20201019T11:11:22Z | Tidal autocoder | https://github.com/tidalcycles/tidal-fuzz | 6 | 1| 
+| 20201019T10:52:07Z | A @rust-lang library aiming to provide regexes with fuzzy matching | https://github.com/8573/fuzzy-regex.rs | 1 | 0| 
+| 20201019T10:48:29Z | Null | https://github.com/Shazeb01/GrammarFuzzer | 0 | 0| 
+| 20201019T10:26:28Z | The Art, Science, and Engineering of Fuzzing: A Survey | https://github.com/SoftSec-KAIST/Fuzzing-Survey | 78 | 12| 
+| 20201019T09:25:37Z | Null | https://github.com/ethereum/solidity-fuzzing-corpus | 9 | 3| 
+| 20201019T09:25:23Z | Scalable fuzzing infrastructure. | https://github.com/google/clusterfuzz | 4349 | 394| 
+| 20201019T09:18:58Z | fuzzy matching everywhere | https://github.com/amirrezaask/fuzzy.nvim | 18 | 0| 
+| 20201019T09:16:19Z | Null | https://github.com/stuartly/Kernel-Fuzzing | 0 | 2| 
 
 
 
