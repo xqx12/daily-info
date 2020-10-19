@@ -39,12 +39,12 @@
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
 | 20201019T11:47:27Z | cve-2020-16898 | PoC BSOD for CVE-2020-16898 (badneighbor) | https://github.com/0xeb-bp/cve-2020-16898 | 未查询到CVE信息| 
-| 20201019T10:16:49Z | CVE-2020-25540 | ThinkAdmin CVE-2020-25540 poc | https://github.com/ChaoYangDongYongGuaiGe/CVE-2020-25540 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 34 MINUTES 29 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201019T10:16:49Z | CVE-2020-25540 | ThinkAdmin CVE-2020-25540 poc | https://github.com/ChaoYangDongYongGuaiGe/CVE-2020-25540 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 31 MINUTES 31 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20201019T09:05:12Z | cve-2020-16898 | PoC BSOD for CVE-2020-16898 | https://github.com/jiansiting/cve-2020-16898 | 未查询到CVE信息| 
-| 20201019T08:52:49Z | CVE-2020-11989 | Null | https://github.com/HYWZ36/HYWZ36-CVE-2020-11989-code | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 34 MINUTES 27 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201019T08:52:49Z | CVE-2020-11989 | Null | https://github.com/HYWZ36/HYWZ36-CVE-2020-11989-code | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 32 MINUTES 27 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20201019T06:55:24Z | cve-2020-1472 | Null | https://github.com/johnpathe/zerologon-cve-2020-1472-notes | 未查询到CVE信息| 
 | 20201019T03:25:00Z | CVE-2020-24771 | Null | https://github.com/qlh831/CVE-2020-24771 | 未查询到CVE信息| 
-| 20201019T01:59:15Z | CVE-2020-16898 | Null | https://github.com/momika233/CVE-2020-16898-exp | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 34 MINUTES 25 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201019T01:59:15Z | CVE-2020-16898 | Null | https://github.com/momika233/CVE-2020-16898-exp | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 32 MINUTES 25 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 
 
 # klee on Github 推荐
@@ -63,7 +63,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20201019T12:23:50Z | Modern Binary Exploitation solutions. | https://github.com/whatsyourask/MBE-writeups | 0 | 0| 
+| 20201019T12:26:35Z | Modern Binary Exploitation solutions. | https://github.com/whatsyourask/MBE-writeups | 0 | 0| 
 | 20201019T12:23:33Z | Exploits targeting Symfony | https://github.com/ambionics/symfony-exploits | 0 | 0| 
 | 20201019T11:44:09Z | Null | https://github.com/dthibau/exploit-springboot | 0 | 0| 
 | 20201019T11:35:13Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 8405 | 1285| 
