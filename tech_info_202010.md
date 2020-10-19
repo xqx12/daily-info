@@ -6,6 +6,17 @@
 # 玄武实验室 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20201019 | 域渗透——使用MachineAccount实现DCSync | https://3gstudent.github.io/3gstudent.github.io/%E5%9F%9F%E6%B8%97%E9%80%8F-%E4%BD%BF%E7%94%A8MachineAccount%E5%AE%9E%E7%8E%B0DCSync/| 
+| 20201019 | Edge 漏洞研究团队对 iOS Chromium 漏洞的研究 | https://microsoftedge.github.io/edgevr/posts/Hacking-Chrome-iOS/| 
+| 20201019 | TP-Link Archer A7 漏洞的分析和利用 | https://starlabs.sg/blog/2020/10/analysis-exploitation-of-a-recent-tp-link-archer-a7-vulnerability/| 
+| 20201019 | 游戏社区聊天应用 Discord RCE 漏洞分析 | https://mksben.l0.cm/2020/10/discord-desktop-rce.html| 
+| 20201019 | Hacking Android Apps with Frida（视频） | https://www.youtube.com/watch?v=iMNs8YAy6pk&feature=youtu.be| 
+| 20201019 | GitHub - RCE via git option injection (almost) - $20,000 Bounty | https://devcraft.io/2020/10/18/github-rce-git-inject.html| 
+| 20201019 | BAM - 用于收集 Windows 平台补丁更新、调试符号等信息的工具 | https://github.com/nsacyber/BAM| 
+| 20201019 | 微软发布例外更新修复 VSCode 以及 Codecs 库的 RCE 漏洞 | https://threatpost.com/microsoft-rce-flaws-windows-update/160244/| 
+| 20201019 | pi3 对上周 Windows 修复的 Bad Neighbor （CVE-2020-16898） IPv6 RCE 漏洞的分析 | http://blog.pi3.com.pl/?p=780| 
+| 20201019 | Operationalising Calendar Alerts: Persistence on macOS | https://sec.today/pulses/d265295e-d61f-4fe1-aaae-008270631ac7/| 
+| 20201019 | Quarkslab 对上周 Windows 修复的 Bad Neighbor （CVE-2020-16898） IPv6 RCE 漏洞的分析 | https://sec.today/pulses/7967339e-a5ca-4067-8c8e-c1d202cf729d/| 
 | 20201016 | Crowdsec - 一款开源的终端安全检测产品 | https://github.com/crowdsecurity/crowdsec| 
 | 20201016 | Hacking HTTP CORS from inside out | https://medium.com/bugbountywriteup/hacking-http-cors-from-inside-out-512cb125c528| 
 | 20201016 | 关于智能卡 JavaCard 相关的资料收集 | https://github.com/EnigmaBridge/javacard-curated-list| 
@@ -15,47 +26,36 @@
 | 20201016 | PoC of CVE-2020-16947 (Microsoft Outlook RCE vulnerablility) | https://github.com/0neb1n/CVE-2020-16947| 
 | 20201016 | 在有代码执行漏洞但是目录不可写的情况下如何创建 Web Shell | https://www.mdsec.co.uk/2020/10/covert-web-shells-in-net-with-read-only-web-paths/| 
 | 20201016 | 有研究员公开了一份从 GitHub 搜索敏感信息的 Docks 关键词列表 | https://github.com/obheda12/GitDorker/tree/master/Dorks| 
-| 20201016 | 微软 MSRC 公布 Top MSRC 2020 Q3 安全研究员榜单 | https://sec.today/pulses/a4e108a4-90d3-4482-919e-ff2dc846496d/| 
-| 20201016 | 与 JXA 有关的用于实现 macOS 系统攻击常驻的方法收集 | https://sec.today/pulses/b40c1854-df0c-4ed0-9750-66d8d8df442e/| 
-| 20201016 | 微软 MSRC 公布 Top MSRC 2020 Q3 安全研究员榜单 | https://msrc-blog.microsoft.com/2020/10/15/announcing-the-top-msrc-2020-q3-security-researchers/| 
-| 20201016 | 与 JXA 有关的用于实现 macOS 系统攻击常驻的方法收集 | https://github.com/D00MFist/PersistentJXA| 
-| 20201015 | AMD Ryzen Master 驱动漏洞的分析和利用（CVE-2020-12928） | https://h0mbre.github.io/RyzenMaster_CVE/| 
-| 20201015 | DOS2RCE - V8 引擎空指针引用漏洞的新利用方法 | https://sec.today/pulses/95cad03a-8a49-4b2a-8904-16dc20bc042f/| 
-| 20201015 | Finding Bugs Using Your Own Code - 检测代码中功能相似但代码不一致的 Pattern | https://www.longlu.org/publication/fics/| 
-| 20201015 | 2014 款奥迪 A7 娱乐系统蓝牙名字展示存在格式化字符串漏洞 | https://tiger-team-1337.blogspot.com/2020/10/audi-a7-2014-mmi-mishandles-format.html| 
-| 20201015 | 利用 Linux 内核中的栈上变量未初始化漏洞泄露内核指针 | https://www.usenix.org/system/files/woot20-paper1-slides-cho.pdf| 
-| 20201015 | SonicWall VPN portal 被发现蠕虫级 RCE 漏洞 | https://threatpost.com/critical-sonicwall-vpn-bug/160108/| 
-| 20201015 | 对标 AMD SME，Intel 为其新一代 Ice Lake 处理器新增内存加密技术的支持 | https://threatpost.com/intel-encryption-security-ice-lake-chips/160083/| 
 
 
 # 安全维基 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20201019 | SecWiki周刊（第346期) | https://www.sec-wiki.com/weekly/346| 
+| 20201019 | Gartner2020年十大安全项目详解 | https://mp.weixin.qq.com/s/yuNalHkhcJJIPNE4QjG_aw| 
+| 20201019 | 美国国防部信息网(DODIN)架构剖析 | https://mp.weixin.qq.com/s/m4wvjk2w5J2ZrWcJhHdQNw| 
+| 20201019 | 对中东石油和天然气供应链产业的APT攻击 | https://mp.weixin.qq.com/s/EMvi2K9TiRhjNY_o2ZMU0g| 
+| 20201019 | 护网行动中的安全产品优化 | https://mp.weixin.qq.com/s/87N-Bvveqr9mQ4i1ibPCgg| 
+| 20201019 | 域渗透之SPN | https://mp.weixin.qq.com/s/aQqvo4l7XZCfirsrJxJg4w| 
+| 20201019 | VHAdmin虚拟主机提权实战案例 | https://mp.weixin.qq.com/s/LmXi6niSJ4s-Cmq3jWSjaQ| 
+| 20201019 | Msfvenom命令自动补全方法 | https://mp.weixin.qq.com/s/-3-NsYPguyNjhl-_D0lYnQ| 
+| 20201019 | MSSQL注入DNS带外问题解决 | https://mp.weixin.qq.com/s/xcX7XnIhFjj-r3OKvHH7DQ| 
 | 20201018 | 最右sign-v2签名算法追踪及逆向还原 | https://mp.weixin.qq.com/s/5hmsU_CNGp7habqwSVVckg| 
-| 20201018 | 详尽的 HTTPS 原理详解图 | https://segmentfault.com/a/1190000021494676| 
-| 20201018 | 机器学习中的特征工程总结 | https://mp.weixin.qq.com/s/RgSejEbxwhnFUKR2POmqmg| 
-| 20201016 | Goby自定义漏洞之EXP | https://mp.weixin.qq.com/s/J1JW66Uh_6Nc0x2YY_5V6Q| 
-| 20201016 | 如何将Xray联动到Goby里 | https://mp.weixin.qq.com/s?__biz=MzI4MzcwNTAzOQ==&mid=2247484111&idx=1&sn=24c82f5c21e16f9104fb300bd9177b06&chksm=eb87e96fdcf06079e202941de1e060db5de8b1e3d6a0641fb6c02a34dd9781dd877ed439342d&token=414317712&lang=zh_CN#rd| 
-| 20201016 | 追击黑手画像 | https://mp.weixin.qq.com/s/rPu9HL5lvjcxfkUUUfEMFw| 
-| 20201016 | Xcheck之Golang安全检查引擎 | https://mp.weixin.qq.com/s/VzjcXp3O8zc97aIppy4LUA| 
-| 20201015 | 星外虚拟主机提权实战案例 | https://mp.weixin.qq.com/s/Uen-ARbVY0trFvAXdeeW5g| 
-| 20201015 | Hacking All The Cars之Tesla API分析与利用（上） | https://bacde.me/post/hacking-all-the-cars-tesla-api-exploit-part-one/| 
-| 20201015 | 折腾MobSF APP隐私合规如何与技术检查结合（一） | https://blog.csdn.net/bloodzero_new/article/details/109105051| 
 
 
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20201018T19:51:57Z | cve-2020-16898 | PoC BSOD for CVE-2020-16898 (badneighbor) | https://github.com/0xeb-bp/cve-2020-16898 | 未查询到CVE信息| 
-| 20201018T09:12:40Z | CVE-2020-8835 | Null | https://github.com/SplendidSky/CVE-2020-8835 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 00 MINUTES 44 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20201018T08:35:16Z | CVE-2020-11989 | Null | https://github.com/HYWZ36/HYWZ36-CVE-2020-11989-code | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 00 MINUTES 45 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201019T11:47:27Z | cve-2020-16898 | PoC BSOD for CVE-2020-16898 (badneighbor) | https://github.com/0xeb-bp/cve-2020-16898 | 未查询到CVE信息| 
+| 20201019T10:16:49Z | CVE-2020-25540 | ThinkAdmin CVE-2020-25540 poc | https://github.com/ChaoYangDongYongGuaiGe/CVE-2020-25540 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 58 MINUTES 29 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201019T09:05:12Z | cve-2020-16898 | PoC BSOD for CVE-2020-16898 | https://github.com/jiansiting/cve-2020-16898 | 未查询到CVE信息| 
+| 20201019T08:52:49Z | CVE-2020-11989 | Null | https://github.com/HYWZ36/HYWZ36-CVE-2020-11989-code | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 58 MINUTES 27 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201019T06:55:24Z | cve-2020-1472 | Null | https://github.com/johnpathe/zerologon-cve-2020-1472-notes | 未查询到CVE信息| 
+| 20201019T03:25:00Z | CVE-2020-24771 | Null | https://github.com/qlh831/CVE-2020-24771 | 未查询到CVE信息| 
+| 20201019T01:59:15Z | CVE-2020-16898 | Null | https://github.com/momika233/CVE-2020-16898-exp | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 58 MINUTES 25 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201018T09:12:40Z | CVE-2020-8835 | Null | https://github.com/SplendidSky/CVE-2020-8835 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 58 MINUTES 26 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20201018T03:24:22Z | cve-2020-1472 | Exploit for zerologon cve-2020-1472 | https://github.com/risksense/zerologon | 未查询到CVE信息| 
-| 20201017T22:20:27Z | CVE-2020-16898 | Null | https://github.com/momika233/CVE-2020-16898-exp | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 00 MINUTES 43 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20201017T18:05:31Z | CVE-2020-16947 | PoC of CVE-2020-16947 (Microsoft Outlook RCE vulnerablility) | https://github.com/0neb1n/CVE-2020-16947 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 00 MINUTES 29 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20201017T12:20:41Z | CVE-2020-16898 | CVE-2020-16898 (Bad Neighbor) Microsoft Windows TCP/IP Vulnerability Detection Logic and Rule | https://github.com/advanced-threat-research/CVE-2020-16898 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 00 MINUTES 23 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20201017T11:39:36Z | CVE-2020-16899 | CVE-2020-16899 - Microsoft Windows TCP/IP Vulnerability Detection Logic and Rule | https://github.com/advanced-threat-research/CVE-2020-16899 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 16 MINUTES 28 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20201017T11:03:34Z | CVE-2020-1472 | C# Vulnerability Checker for CVE-2020-1472 Aka Zerologon | https://github.com/CPO-EH/CVE-2020-1472_ZeroLogonChecker | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 00 MINUTES 38 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20201017T10:55:36Z | CVE-2020-16898 | Check all Network Interfaces for CVE-2020-16898 Vulnerability | https://github.com/CPO-EH/CVE-2020-16898_Checker | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 00 MINUTES 42 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 
 
 # klee on Github 推荐
@@ -86,16 +86,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20201019T01:44:11Z | This repository contains the source of %ARM Binary Exploitaiton% book. | https://github.com/cpuu/arm_exploitation | 1 | 0| 
-| 20201019T01:33:33Z | Mutate a target to generate %possible% exploit candidates. | https://github.com/demetrius-ford/mutation-fuzzer | 0 | 0| 
-| 20201019T01:29:48Z | Perl Programming Language - [bind-shell-perl] | https://github.com/hoanguyen01/exploit-code | 0 | 7| 
-| 20201019T00:57:46Z | Sifter is a OSINT, recon & vulnerability scanner. It incorporates a plethara of tools within different module sets that tries to cover every attack vector. Allowing you to quickly perform recon tasks and organize the results in one place. From OSINT to Recon, Exploitation, Post-Exploitation, OpSec, Threat Analysis, XSS, SQLinjection, Network Scanning, WebApp Analysis or DNS enumeration.. Sifter should be able to cover it all. | https://github.com/s1l3nt78/sifter | 263 | 82| 
-| 20201019T00:39:31Z | OSINT, Threat Hunting, Network and Web Recon, Discovery, Enumeration, Vulnerability Mapping, Exploitation, Reporting | https://github.com/aryanguenthner/365 | 2 | 1| 
-| 20201019T00:14:16Z | An open-source post-exploitation framework for students, researchers and developers. | https://github.com/malwaredllc/byob | 5327 | 1097| 
-| 20201019T00:07:37Z | xnu_gym is a pongoOS module that patches XNU out of various kernel jailbreak mitigations and measures. This is an easy way to practice kernel exploitation jailbreak development! | https://github.com/tjkr0wn/xnu_gym | 0 | 0| 
-| 20201018T23:52:49Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 8398 | 1283| 
-| 20201018T23:49:16Z | Null | https://github.com/Flyerrx/FlyHi-Exploit-Roblox | 0 | 0| 
-| 20201018T22:32:12Z | XSScope is one of the most powerful and advanced GUI Framework for Modern Browser exploitation via XSS. | https://github.com/kleiton0x00/XSScope | 52 | 14| 
+| 20201019T11:44:09Z | Null | https://github.com/dthibau/exploit-springboot | 0 | 0| 
+| 20201019T11:35:13Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 8405 | 1285| 
+| 20201019T10:52:21Z | CTF竞赛权威指南(Pwn篇) | https://github.com/firmianay/CTF-All-In-One | 2061 | 424| 
+| 20201019T10:51:43Z | Development of code to exploit LSST and VISTA imaging | https://github.com/lsst-uk/lsst-ir-fusion | 0 | 0| 
+| 20201019T10:48:11Z | Configure graphics, environments and objects for better performance, if your computer cannot run Roblox perfectly. | https://github.com/GRIPPERTV/FPS-Booster | 0 | 0| 
+| 20201019T10:46:15Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 3093 | 473| 
+| 20201019T09:55:20Z | This bash script will help you to hack remote hosts  | https://github.com/FabioDefilippo/linuxallremote | 1 | 0| 
+| 20201019T09:40:36Z | This Repository contains the stuff related to windows Active directory environment exploitation | https://github.com/incredibleindishell/Windows-AD-environment-related | 97 | 25| 
+| 20201019T09:29:44Z | Build a database of libc offsets to simplify exploitation | https://github.com/niklasb/libc-database | 1028 | 178| 
+| 20201019T09:02:34Z | Plugin to fix exploits and add functionality to anarchy servers | https://github.com/L2X9org/L2X9Core | 0 | 5| 
 
 
 # backdoor on Github 推荐
