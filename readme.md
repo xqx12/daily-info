@@ -64,7 +64,12 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20201020T01:20:20Z | Code submission for the paper %On the Robustness of the Backdoor-based Watermarking in Deep Neural Networks% | https://github.com/CodeSubmission642/WatermarkRobustness | 0 | 0| 
+| 20201020T11:31:12Z | An Artificial Intelligence Poisoned Data Detection & Cleanse System | https://github.com/RidiculousDoge/AIPDC | 2 | 2| 
+| 20201020T07:45:19Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 73 | 8| 
+| 20201020T07:02:32Z | Black Eagle Team , Shell Backdoor | https://github.com/pauldarknet/BET | 0 | 0| 
+| 20201020T06:56:04Z | Final code of the Input-aware Backdoor Attack | https://github.com/VinAIResearch/input-aware-backdoor-attack-release | 4 | 0| 
+| 20201020T04:22:28Z | Code submission for the paper %On the Robustness of the Backdoor-based Watermarking in Deep Neural Networks% | https://github.com/CodeSubmission642/WatermarkRobustness | 0 | 0| 
+| 20201020T02:33:16Z | Null | https://github.com/laurobmb/backdoor_linux | 0 | 0| 
 | 20201020T00:53:58Z | Back Door Scanner Mod - An Automated Garrys Mod Backdoor Scanner; for Windows | https://github.com/g-l-i-t-c-h-o-r-s-e/B.D.S.M | 0 | 0| 
 
 

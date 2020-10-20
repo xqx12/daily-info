@@ -54,7 +54,7 @@
 | 20201020T02:15:04Z | CVE-2020-25540 | ThinkAdmin CVE-2020-25540 poc | https://github.com/ChaoYangDongYongGuaiGe/CVE-2020-25540 | | 
 | 20201020T00:56:40Z | cve-2020-16898 | PoC BSOD for CVE-2020-16898 | https://github.com/jiansiting/cve-2020-16898 | | 
 | 20201019T13:58:48Z | CVE-2020-16899 | CVE-2020-16899 - Microsoft Windows TCP/IP Vulnerability Detection Logic and Rule | https://github.com/advanced-threat-research/CVE-2020-16899 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 58 MINUTES 23 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20201019T13:57:40Z | CVE-2020-16898 | CVE-2020-16898 (Bad Neighbor) Microsoft Windows TCP/IP Vulnerability Detection Logic and Rule | https://github.com/advanced-threat-research/CVE-2020-16898 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 59 MINUTES 09 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201019T13:57:40Z | CVE-2020-16898 | CVE-2020-16898 (Bad Neighbor) Microsoft Windows TCP/IP Vulnerability Detection Logic and Rule | https://github.com/advanced-threat-research/CVE-2020-16898 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 58 MINUTES 22 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20201019T08:52:49Z | CVE-2020-11989 | Null | https://github.com/HYWZ36/HYWZ36-CVE-2020-11989-code | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 58 MINUTES 32 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 
 
@@ -101,16 +101,16 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20201020T01:20:20Z | Code submission for the paper %On the Robustness of the Backdoor-based Watermarking in Deep Neural Networks% | https://github.com/CodeSubmission642/WatermarkRobustness | 0 | 0| 
+| 20201020T11:31:12Z | An Artificial Intelligence Poisoned Data Detection & Cleanse System | https://github.com/RidiculousDoge/AIPDC | 2 | 2| 
+| 20201020T07:45:19Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 73 | 8| 
+| 20201020T07:02:32Z | Black Eagle Team , Shell Backdoor | https://github.com/pauldarknet/BET | 0 | 0| 
+| 20201020T06:56:04Z | Final code of the Input-aware Backdoor Attack | https://github.com/VinAIResearch/input-aware-backdoor-attack-release | 4 | 0| 
+| 20201020T04:22:28Z | Code submission for the paper %On the Robustness of the Backdoor-based Watermarking in Deep Neural Networks% | https://github.com/CodeSubmission642/WatermarkRobustness | 0 | 0| 
+| 20201020T02:33:16Z | Null | https://github.com/laurobmb/backdoor_linux | 0 | 0| 
 | 20201020T00:53:58Z | Back Door Scanner Mod - An Automated Garrys Mod Backdoor Scanner; for Windows | https://github.com/g-l-i-t-c-h-o-r-s-e/B.D.S.M | 0 | 0| 
 | 20201019T23:12:34Z | Full-featured C2 framework which silently persists on webserver with a single-line PHP backdoor | https://github.com/nil0x42/phpsploit | 1055 | 318| 
 | 20201019T22:44:14Z | Ghost Framework is an Android post-exploitation framework that exploits the Android Debug Bridge to remotely access an Android device. Ghost Framework gives you the power and convenience of remote Android device administration. | https://github.com/entynetproject/ghost | 753 | 386| 
 | 20201019T19:00:43Z | A deck-building roguelike cyberpunk game. | https://github.com/uspgamedev/backdoor | 18 | 3| 
-| 20201019T18:11:35Z | PyIris-backdoor is a modular, stealthy and flexible remote-access-toolkit written completely in python used to command and control other systems. It is now in the beta stage, possibly perpetually. There are bugs still present in the framework, feel free to contribute or help me out with this project its still under active development >_> | https://github.com/angus-y/PyIris-backdoor | 122 | 40| 
-| 20201019T17:51:20Z | PAM Backdoor | https://github.com/rek7/madlib | 3 | 0| 
-| 20201019T13:07:47Z | Null | https://github.com/marychev-akvelon/xamarin-demoapp-backdoor | 0 | 0| 
-| 20201019T12:19:55Z | An Artificial Intelligence Poisoned Data Detection & Cleanse System | https://github.com/RidiculousDoge/AIPDC | 2 | 2| 
-| 20201019T06:39:20Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 73 | 8| 
 
 
 # fuzz on Github 推荐
