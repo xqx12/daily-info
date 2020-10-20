@@ -27,12 +27,12 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20201020T09:11:28Z | cve-2020-14644 | cve-2020-14644 漏洞环境 | https://github.com/Kamimuka/cve-2020-14644 | | 
-| 20201020T08:28:48Z | CVE-2020-16898 | Null | https://github.com/momika233/CVE-2020-16898-exp | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 55 MINUTES 27 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201020T09:11:28Z | cve-2020-14644 | cve-2020-14644 漏洞环境 | https://github.com/Kamimuka/cve-2020-14644 | 未查询到CVE信息| 
+| 20201020T08:28:48Z | CVE-2020-16898 | Null | https://github.com/momika233/CVE-2020-16898-exp | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 53 MINUTES 28 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20201020T05:53:55Z | cve-2020-16898 | PoC BSOD for CVE-2020-16898 (badneighbor) | https://github.com/0xeb-bp/cve-2020-16898 | 未查询到CVE信息| 
-| 20201020T05:51:54Z | CVE-2020-16898 | CVE-2020-16898 Windows TCP/IP远程代码执行漏洞 EXP&POC | https://github.com/komomon/CVE-2020-16898 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 55 MINUTES 32 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20201020T02:40:56Z | cve-2020-1948 | Null | https://github.com/askDing/cve-2020-1948-poc | | 
-| 20201020T02:15:04Z | CVE-2020-25540 | ThinkAdmin CVE-2020-25540 poc | https://github.com/ChaoYangDongYongGuaiGe/CVE-2020-25540 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 55 MINUTES 31 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201020T05:51:54Z | CVE-2020-16898 | CVE-2020-16898 Windows TCP/IP远程代码执行漏洞 EXP&POC | https://github.com/komomon/CVE-2020-16898 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 53 MINUTES 33 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201020T02:40:56Z | cve-2020-1948 | Null | https://github.com/askDing/cve-2020-1948-poc | 未查询到CVE信息| 
+| 20201020T02:15:04Z | CVE-2020-25540 | ThinkAdmin CVE-2020-25540 poc | https://github.com/ChaoYangDongYongGuaiGe/CVE-2020-25540 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 53 MINUTES 32 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20201020T00:56:40Z | cve-2020-16898 | PoC BSOD for CVE-2020-16898 | https://github.com/jiansiting/cve-2020-16898 | 未查询到CVE信息| 
 
 
@@ -50,9 +50,9 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20201020T12:06:58Z | Sifter is a OSINT, recon & vulnerability scanner. It incorporates a plethara of tools within different module sets that tries to cover every attack vector. Allowing you to quickly perform recon tasks and organize the results in one place. From OSINT to Recon, Exploitation, Post-Exploitation, OpSec, Threat Analysis, XSS, SQLinjection, Network Scanning, WebApp Analysis or DNS enumeration.. Sifter should be able to cover it all. | https://github.com/s1l3nt78/sifter | 264 | 82| 
 | 20201020T11:55:09Z | Python3 Веб-сервер с эксплоитом для PS4 с прошивкой 6.72   | https://github.com/StepanovPlaton/PyServer_with_PS4_Exploit_v6.72 | 0 | 0| 
 | 20201020T11:35:14Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 8413 | 1288| 
-| 20201020T11:34:59Z | Sifter is a OSINT, recon & vulnerability scanner. It incorporates a plethara of tools within different module sets that tries to cover every attack vector. Allowing you to quickly perform recon tasks and organize the results in one place. From OSINT to Recon, Exploitation, Post-Exploitation, OpSec, Threat Analysis, XSS, SQLinjection, Network Scanning, WebApp Analysis or DNS enumeration.. Sifter should be able to cover it all. | https://github.com/s1l3nt78/sifter | 264 | 82| 
 | 20201020T11:09:52Z | Reverse Shell as a Service | https://github.com/lukechilds/reverse-shell | 1175 | 152| 
 | 20201020T10:33:42Z | Exploits CuteNews 2.1.2 via poor file upload checks used when uploading an avatar image leading to RCE. | https://github.com/mt-code/CVE-2019-11447 | 0 | 0| 
 | 20201020T10:12:51Z | Set of Exploitable security Code defects | https://github.com/11CConnolly/SECdefects | 0 | 0| 
