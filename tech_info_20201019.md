@@ -44,7 +44,7 @@
 | 20201019T13:57:40Z | CVE-2020-16898 | CVE-2020-16898 (Bad Neighbor) Microsoft Windows TCP/IP Vulnerability Detection Logic and Rule | https://github.com/advanced-threat-research/CVE-2020-16898 | 当Windows TCP / IP堆栈不正确地处理ICMPv6路由器播发数据包（也称为“ Windows TCP / IP远程执行代码漏洞”）时，存在一个远程执行代码漏洞。| 
 | 20201019T11:47:27Z | cve-2020-16898 | PoC BSOD for CVE-2020-16898 (badneighbor) | https://github.com/0xeb-bp/cve-2020-16898 | 未查询到CVE信息| 
 | 20201019T10:16:49Z | CVE-2020-25540 | ThinkAdmin CVE-2020-25540 poc | https://github.com/ChaoYangDongYongGuaiGe/CVE-2020-25540 | ThinkAdmin v6受到目录遍历漏洞的影响。未经授权的攻击者可以通过GET request编码参数任意读取远程服务器上的文件。| 
-| 20201019T08:52:49Z | CVE-2020-11989 | Null | https://github.com/HYWZ36/HYWZ36-CVE-2020-11989-code | | 
+| 20201019T08:52:49Z | CVE-2020-11989 | Null | https://github.com/HYWZ36/HYWZ36-CVE-2020-11989-code | 1.5.3之前的Apache Shiro，将Apache Shiro与Spring动态控制器一起使用时，特制请求可能会导致身份验证绕过。| 
 | 20201019T06:55:24Z | cve-2020-1472 | Null | https://github.com/johnpathe/zerologon-cve-2020-1472-notes | 未查询到CVE信息| 
 | 20201019T03:25:00Z | CVE-2020-24771 | Null | https://github.com/qlh831/CVE-2020-24771 | 未查询到CVE信息| 
 | 20201019T01:59:15Z | CVE-2020-16898 | Null | https://github.com/momika233/CVE-2020-16898-exp | 当Windows TCP / IP堆栈不正确地处理ICMPv6路由器播发数据包（也称为“ Windows TCP / IP远程执行代码漏洞”）时，存在一个远程执行代码漏洞。| 
