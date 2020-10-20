@@ -40,14 +40,14 @@
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
 | 20201019T14:27:59Z | cve-2020-16898 | PoC BSOD for CVE-2020-16898 | https://github.com/jiansiting/cve-2020-16898 | 未查询到CVE信息| 
-| 20201019T13:58:48Z | CVE-2020-16899 | CVE-2020-16899 - Microsoft Windows TCP/IP Vulnerability Detection Logic and Rule | https://github.com/advanced-threat-research/CVE-2020-16899 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 49 MINUTES 15 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20201019T13:57:40Z | CVE-2020-16898 | CVE-2020-16898 (Bad Neighbor) Microsoft Windows TCP/IP Vulnerability Detection Logic and Rule | https://github.com/advanced-threat-research/CVE-2020-16898 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 49 MINUTES 15 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20201019T11:47:27Z | cve-2020-16898 | PoC BSOD for CVE-2020-16898 (badneighbor) | https://github.com/0xeb-bp/cve-2020-16898 | 未查询到CVE信息| 
-| 20201019T10:16:49Z | CVE-2020-25540 | ThinkAdmin CVE-2020-25540 poc | https://github.com/ChaoYangDongYongGuaiGe/CVE-2020-25540 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 49 MINUTES 29 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20201019T08:52:49Z | CVE-2020-11989 | Null | https://github.com/HYWZ36/HYWZ36-CVE-2020-11989-code | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 49 MINUTES 28 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20201019T06:55:24Z | cve-2020-1472 | Null | https://github.com/johnpathe/zerologon-cve-2020-1472-notes | | 
-| 20201019T03:25:00Z | CVE-2020-24771 | Null | https://github.com/qlh831/CVE-2020-24771 | | 
-| 20201019T01:59:15Z | CVE-2020-16898 | Null | https://github.com/momika233/CVE-2020-16898-exp | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 49 MINUTES 25 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201019T13:58:48Z | CVE-2020-16899 | CVE-2020-16899 - Microsoft Windows TCP/IP Vulnerability Detection Logic and Rule | https://github.com/advanced-threat-research/CVE-2020-16899 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 47 MINUTES 17 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201019T13:57:40Z | CVE-2020-16898 | CVE-2020-16898 (Bad Neighbor) Microsoft Windows TCP/IP Vulnerability Detection Logic and Rule | https://github.com/advanced-threat-research/CVE-2020-16898 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 47 MINUTES 16 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201019T11:47:27Z | cve-2020-16898 | PoC BSOD for CVE-2020-16898 (badneighbor) | https://github.com/0xeb-bp/cve-2020-16898 | | 
+| 20201019T10:16:49Z | CVE-2020-25540 | ThinkAdmin CVE-2020-25540 poc | https://github.com/ChaoYangDongYongGuaiGe/CVE-2020-25540 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 47 MINUTES 29 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201019T08:52:49Z | CVE-2020-11989 | Null | https://github.com/HYWZ36/HYWZ36-CVE-2020-11989-code | | 
+| 20201019T06:55:24Z | cve-2020-1472 | Null | https://github.com/johnpathe/zerologon-cve-2020-1472-notes | 未查询到CVE信息| 
+| 20201019T03:25:00Z | CVE-2020-24771 | Null | https://github.com/qlh831/CVE-2020-24771 | 未查询到CVE信息| 
+| 20201019T01:59:15Z | CVE-2020-16898 | Null | https://github.com/momika233/CVE-2020-16898-exp | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 47 MINUTES 26 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 
 
 # klee on Github 推荐
@@ -68,7 +68,6 @@
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
 | 20201019T23:33:28Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 8410 | 1288| 
-| 20201019T23:24:20Z | Null | https://github.com/mathitam/BOF_Exploit | 0 | 0| 
 | 20201019T23:04:29Z | Malicious PHP files used to infect Wordpress sites | https://github.com/Am0rphous/Malware-Collection | 0 | 0| 
 | 20201019T22:45:01Z | Tutorial series :D :D | https://github.com/AbdelMoumene-Hadfi/ExploitDevelopment-101 | 1 | 0| 
 | 20201019T22:36:08Z | The package is linked to the paper %The Forecast Error Paradox of Proper Scoring Rules% by D%Amore (2020). The R function ScorlogPFS implements the Diebold-Mariano Test (1995) to statistically test forecast accuracy equivalence for 2 sets of predictions belonging to the Paradox Free Space (see D%Amore (2020)) and exploiting a Logarithmic scoring rule and a uniform kernel density function. | https://github.com/GabrieleDAmore/ForecastErrorParadox | 0 | 0| 
@@ -77,12 +76,12 @@
 | 20201019T21:21:21Z | Collection of notes, exploits and tips | https://github.com/ComplexSec/tryhackme | 3 | 0| 
 | 20201019T20:39:28Z | A phased, evasive Path Traversal + LFI scanning & exploitation tool in Python | https://github.com/VainlyStrain/Vailyn | 56 | 1| 
 | 20201019T20:14:13Z | Post-exploitation tool for attacking Active Directory domain controllers | https://github.com/tmenochet/ADThief | 3 | 0| 
+| 20201019T20:13:08Z | Post-exploitation tool for lateral movement | https://github.com/tmenochet/PowerExec | 0 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20201019T23:30:45Z | Code submission for the paper %On the Robustness of the Backdoor-based Watermarking in Deep Neural Networks% | https://github.com/CodeSubmission642/WatermarkRobustness | 0 | 0| 
 | 20201019T23:12:34Z | Full-featured C2 framework which silently persists on webserver with a single-line PHP backdoor | https://github.com/nil0x42/phpsploit | 1055 | 318| 
 | 20201019T22:44:14Z | Ghost Framework is an Android post-exploitation framework that exploits the Android Debug Bridge to remotely access an Android device. Ghost Framework gives you the power and convenience of remote Android device administration. | https://github.com/entynetproject/ghost | 753 | 386| 
 | 20201019T20:23:33Z | Back Door Scanner Mod - An Automated Garrys Mod Backdoor Scanner; for Windows | https://github.com/g-l-i-t-c-h-o-r-s-e/B.D.S.M | 0 | 0| 
@@ -92,6 +91,7 @@
 | 20201019T13:07:47Z | Null | https://github.com/marychev-akvelon/xamarin-demoapp-backdoor | 0 | 0| 
 | 20201019T12:19:55Z | An Artificial Intelligence Poisoned Data Detection & Cleanse System | https://github.com/RidiculousDoge/AIPDC | 2 | 2| 
 | 20201019T06:39:20Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 73 | 8| 
+| 20201019T05:42:38Z | Final code of the Input-aware Backdoor Attack | https://github.com/VinAIResearch/input-aware-backdoor-attack-release | 3 | 0| 
 
 
 # fuzz on Github 推荐
