@@ -29,9 +29,9 @@
 | --- | --- | --- | --- | ---| 
 | 20201021T10:53:22Z | CVE-2020-14645 | Null | https://github.com/HYWZ36/CVE-2020-14645-code | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
 | 20201021T09:42:48Z | CVE-2020-1472 | Null | https://github.com/puckiestyle/CVE-2020-1472 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 36 MINUTES 45 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20201021T09:41:31Z | CVE-2020-16898 | Null | https://github.com/momika233/CVE-2020-16898-exp | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 37 MINUTES 36 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20201021T06:51:18Z | CVE-2020-25540 | ThinkAdmin CVE-2020-25540 poc | https://github.com/ChaoYangDongYongGuaiGe/CVE-2020-25540 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 37 MINUTES 40 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20201021T06:45:23Z | CVE-2020-16898 | CVE-2020-16898 Windows TCP/IP远程代码执行漏洞 EXP&POC | https://github.com/komomon/CVE-2020-16898 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 37 MINUTES 42 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201021T09:41:31Z | CVE-2020-16898 | Null | https://github.com/momika233/CVE-2020-16898-exp | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 36 MINUTES 38 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201021T06:51:18Z | CVE-2020-25540 | ThinkAdmin CVE-2020-25540 poc | https://github.com/ChaoYangDongYongGuaiGe/CVE-2020-25540 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 36 MINUTES 42 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201021T06:45:23Z | CVE-2020-16898 | CVE-2020-16898 Windows TCP/IP远程代码执行漏洞 EXP&POC | https://github.com/komomon/CVE-2020-16898 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 36 MINUTES 43 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 
 
 # klee on Github 推荐
@@ -48,6 +48,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20201021T12:23:36Z | Silice is an open source language that simplifies writing algorithms fully exploiting FPGA architectures. | https://github.com/sylefeb/Silice | 350 | 27| 
 | 20201021T12:20:46Z | Blog! | https://github.com/nonetype/nonetype.github.io | 0 | 0| 
 | 20201021T11:55:55Z | Representing nine ways to exploit XSS (vulnerable app!) | https://github.com/kevin-valerio/NineXSS | 0 | 0| 
 | 20201021T11:47:57Z | Router exploit scanner (barebones Zarp) | https://github.com/thunder182/pwner | 0 | 0| 
@@ -57,7 +58,6 @@
 | 20201021T11:15:42Z | AgroTrust is a blockchain enabled traceability solution with the aim of integrating of global food value chains. Small landholding farmers across the country are suffering due to fragile market linkages, weak bargaining power, exploitation by middlemen and high spillage & spoilage. On the other end, consumers are rarely aware about agricultural products they consume, their quality, safety, and sustainability. They are even more oblivious about how much of their paid price goes back to the farmer. Only when the farmer knows the complete story of his product from farm to fork and the consumer knows the complete story of his food from fork to farm, these problems could be addressed. Only when the both ends of the value chain – the farmer and the consumer – are aware about each other, will the players in the middle be incentivized to ensure better products and fair prices. | https://github.com/ganeshanantwar/AgroTrust-QRiosity | 0 | 0| 
 | 20201021T10:31:08Z | FarZun is an exploit. My first infact. It runs on WeAreDevs API V1 and has some features. This is also V0.02. | https://github.com/VeryCoolMike/FarZun | 0 | 0| 
 | 20201021T10:24:48Z | exploit | https://github.com/VeryCoolMike/exploit | 0 | 0| 
-| 20201021T10:12:32Z | pwninit - automate starting binary exploit challenges | https://github.com/io12/pwninit | 107 | 7| 
 
 
 # backdoor on Github 推荐
@@ -76,7 +76,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20201021T12:17:05Z | Null | https://github.com/exarchou/Fuzzy-Systems | 0 | 0| 
+| 20201021T12:17:31Z | Null | https://github.com/exarchou/Fuzzy-Systems | 0 | 0| 
 | 20201021T12:15:34Z | For a relaxing time | https://github.com/henrik716/fuzzy-fiesta | 0 | 0| 
 | 20201021T12:09:54Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 3188 | 735| 
 | 20201021T11:58:17Z | fuzzy matching everywhere | https://github.com/amirrezaask/fuzzy.nvim | 18 | 0| 
