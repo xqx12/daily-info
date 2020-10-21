@@ -101,16 +101,16 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20201020T20:27:32Z | Hacking tools pack & backdoors generator. | https://github.com/AdrMXR/KitHack | 197 | 45| 
+| 20201020T20:15:45Z | Final code of the Input-aware Backdoor Attack | https://github.com/VinAIResearch/input-aware-backdoor-attack-release | 5 | 1| 
+| 20201020T17:55:35Z | Ghost Framework is an Android post-exploitation framework that exploits the Android Debug Bridge to remotely access an Android device. Ghost Framework gives you the power and convenience of remote Android device administration. | https://github.com/EntySec/ghost | 753 | 386| 
+| 20201020T17:51:11Z | Thoron Framework is a Linux post-exploitation framework that exploits Linux TCP vulnerability to provide a shell-like connection. Thoron Framework has the ability to create simple payloads to provide Linux TCP attack. | https://github.com/EntySec/thoron | 75 | 27| 
+| 20201020T16:23:47Z | Null | https://github.com/Adk2001tech/Biometric-Backdoors | 0 | 0| 
+| 20201020T16:05:35Z | Null | https://github.com/dheeraj7596/NlpBackdoor | 0 | 0| 
+| 20201020T15:01:52Z | Null | https://github.com/laurobmb/backdoor_linux | 0 | 0| 
+| 20201020T13:16:36Z | Null | https://github.com/Biramon/Backdoor-Simulation | 0 | 0| 
 | 20201020T11:31:12Z | An Artificial Intelligence Poisoned Data Detection & Cleanse System | https://github.com/RidiculousDoge/AIPDC | 2 | 2| 
 | 20201020T07:45:19Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 73 | 8| 
-| 20201020T07:02:32Z | Black Eagle Team , Shell Backdoor | https://github.com/pauldarknet/BET | 0 | 0| 
-| 20201020T06:56:04Z | Final code of the Input-aware Backdoor Attack | https://github.com/VinAIResearch/input-aware-backdoor-attack-release | 4 | 0| 
-| 20201020T04:22:28Z | Code submission for the paper %On the Robustness of the Backdoor-based Watermarking in Deep Neural Networks% | https://github.com/CodeSubmission642/WatermarkRobustness | 0 | 0| 
-| 20201020T02:33:16Z | Null | https://github.com/laurobmb/backdoor_linux | 0 | 0| 
-| 20201020T00:53:58Z | Back Door Scanner Mod - An Automated Garrys Mod Backdoor Scanner; for Windows | https://github.com/g-l-i-t-c-h-o-r-s-e/B.D.S.M | 0 | 0| 
-| 20201019T23:12:34Z | Full-featured C2 framework which silently persists on webserver with a single-line PHP backdoor | https://github.com/nil0x42/phpsploit | 1055 | 318| 
-| 20201019T22:44:14Z | Ghost Framework is an Android post-exploitation framework that exploits the Android Debug Bridge to remotely access an Android device. Ghost Framework gives you the power and convenience of remote Android device administration. | https://github.com/entynetproject/ghost | 753 | 386| 
-| 20201019T19:00:43Z | A deck-building roguelike cyberpunk game. | https://github.com/uspgamedev/backdoor | 18 | 3| 
 
 
 # fuzz on Github 推荐
