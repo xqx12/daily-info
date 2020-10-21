@@ -27,10 +27,10 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20201021T12:31:43Z | CVE-2020-16898 | CVE-2020-16898 (Bad Neighbor) Microsoft Windows TCP/IP Vulnerability Detection Logic and Rule | https://github.com/advanced-threat-research/CVE-2020-16898 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 27 MINUTES 30 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201021T12:31:43Z | CVE-2020-16898 | CVE-2020-16898 (Bad Neighbor) Microsoft Windows TCP/IP Vulnerability Detection Logic and Rule | https://github.com/advanced-threat-research/CVE-2020-16898 | | 
 | 20201021T10:53:22Z | CVE-2020-14645 | Null | https://github.com/HYWZ36/CVE-2020-14645-code | | 
 | 20201021T09:42:48Z | CVE-2020-1472 | Null | https://github.com/puckiestyle/CVE-2020-1472 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 26 MINUTES 46 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20201021T09:41:31Z | CVE-2020-16898 | Null | https://github.com/momika233/CVE-2020-16898-exp | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 27 MINUTES 38 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201021T09:41:31Z | CVE-2020-16898 | Null | https://github.com/momika233/CVE-2020-16898-exp | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 26 MINUTES 39 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20201021T06:51:18Z | CVE-2020-25540 | ThinkAdmin CVE-2020-25540 poc | https://github.com/ChaoYangDongYongGuaiGe/CVE-2020-25540 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 26 MINUTES 44 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20201021T06:45:23Z | CVE-2020-16898 | CVE-2020-16898 Windows TCP/IP远程代码执行漏洞 EXP&POC | https://github.com/komomon/CVE-2020-16898 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 26 MINUTES 45 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 
@@ -49,9 +49,9 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20201021T12:33:51Z | Representing nine ways to exploit XSS (vulnerable app!) | https://github.com/kevin-valerio/NineXSS | 0 | 0| 
 | 20201021T12:23:36Z | Silice is an open source language that simplifies writing algorithms fully exploiting FPGA architectures. | https://github.com/sylefeb/Silice | 350 | 27| 
 | 20201021T12:20:46Z | Blog! | https://github.com/nonetype/nonetype.github.io | 0 | 0| 
-| 20201021T11:55:55Z | Representing nine ways to exploit XSS (vulnerable app!) | https://github.com/kevin-valerio/NineXSS | 0 | 0| 
 | 20201021T11:47:57Z | Router exploit scanner (barebones Zarp) | https://github.com/thunder182/pwner | 0 | 0| 
 | 20201021T11:35:12Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 8430 | 1288| 
 | 20201021T11:30:21Z | Bludit <= 3.9.2 - Authentication Bruteforce Mitigation Bypass Exploit/PoC | https://github.com/ColdFusionX/CVE-2019-17240-Exploit-Bludit-BF-bypass | 0 | 0| 
@@ -77,6 +77,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20201021T12:33:30Z | FIRM-AFL is the first high-throughput greybox fuzzer for IoT firmware.  | https://github.com/zyw-200/FirmAFL | 195 | 45| 
 | 20201021T12:27:08Z | RcppDeepState, a simple way to fuzz test code in Rcpp packages | https://github.com/akhikolla/RcppDeepState | 0 | 0| 
 | 20201021T12:25:34Z | Run fuzzing experiments in Docker | https://github.com/zjuchenyuan/dockerized_fuzzing | 38 | 5| 
 | 20201021T12:17:31Z | Null | https://github.com/exarchou/Fuzzy-Systems | 0 | 0| 
@@ -86,7 +87,6 @@
 | 20201021T11:38:52Z | A JavaScript Engine Fuzzer | https://github.com/googleprojectzero/fuzzilli | 1055 | 176| 
 | 20201021T11:26:51Z | A fuzzer that generates random Go programs | https://github.com/ALTree/microsmith | 6 | 0| 
 | 20201021T10:38:27Z | Fuzzy matching publications for fatcat (wip). | https://github.com/miku/fuzzycat | 0 | 0| 
-| 20201021T10:36:46Z | Null | https://github.com/rbusybee/fuzzy-angular | 0 | 0| 
 
 
 
