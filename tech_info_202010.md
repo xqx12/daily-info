@@ -86,31 +86,31 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20201021T01:50:52Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 8422 | 1288| 
-| 20201021T01:35:09Z | A series of Exploitation and Reverse Engineering scripts written for Ghidra | https://github.com/TheJareBear/Ghidra-Exploitation-Scripts | 0 | 0| 
-| 20201021T01:34:24Z | Material utilizado nos desafios do Hacking Dojo do Beco do Exploit. | https://github.com/0xNymerio/hacking_dojo_becoxpl | 0 | 0| 
-| 20201021T00:48:42Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 5 | 3| 
-| 20201021T00:17:48Z | Go Search, this is a tool made in go search for exploits. | https://github.com/blkzy/Goploit-Finder | 1 | 0| 
-| 20201020T22:53:39Z | A phased, evasive Path Traversal + LFI scanning & exploitation tool in Python | https://github.com/VainlyStrain/Vailyn | 57 | 1| 
-| 20201020T22:53:33Z | An open-source post-exploitation framework for students, researchers and developers. | https://github.com/malwaredllc/byob | 5346 | 1102| 
-| 20201020T22:49:19Z | The unlikely Mass Deface! | https://github.com/TavernaDosHackers/Nagazaky | 5 | 1| 
-| 20201020T22:47:31Z | Collection of notes, exploits and tips | https://github.com/ComplexSec/tryhackme | 3 | 0| 
-| 20201020T21:41:41Z | Repo for the paper %GEOMetrics: Exploiting Geometric Structure for Graph-Encoded Objects% | https://github.com/EdwardSmith1884/GEOMetrics | 102 | 13| 
+| 20201021T11:55:55Z | Representing nine ways to exploit XSS (vulnerable app!) | https://github.com/kevin-valerio/NineXSS | 0 | 0| 
+| 20201021T11:47:57Z | Router exploit scanner (barebones Zarp) | https://github.com/thunder182/pwner | 0 | 0| 
+| 20201021T11:35:12Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 8430 | 1288| 
+| 20201021T11:30:21Z | Bludit <= 3.9.2 - Authentication Bruteforce Mitigation Bypass Exploit/PoC | https://github.com/ColdFusionX/CVE-2019-17240-Exploit-Bludit-BF-bypass | 0 | 0| 
+| 20201021T11:18:41Z | Hacking the Art of Exploitation, learning about buffer overflows,heap overflows,race conditions and the c language features in general like pointers and syscalls | https://github.com/Nathan-Kimutai/the-art-of-exploitation | 0 | 0| 
+| 20201021T11:15:42Z | AgroTrust is a blockchain enabled traceability solution with the aim of integrating of global food value chains. Small landholding farmers across the country are suffering due to fragile market linkages, weak bargaining power, exploitation by middlemen and high spillage & spoilage. On the other end, consumers are rarely aware about agricultural products they consume, their quality, safety, and sustainability. They are even more oblivious about how much of their paid price goes back to the farmer. Only when the farmer knows the complete story of his product from farm to fork and the consumer knows the complete story of his food from fork to farm, these problems could be addressed. Only when the both ends of the value chain – the farmer and the consumer – are aware about each other, will the players in the middle be incentivized to ensure better products and fair prices. | https://github.com/ganeshanantwar/AgroTrust-QRiosity | 0 | 0| 
+| 20201021T10:31:08Z | FarZun is an exploit. My first infact. It runs on WeAreDevs API V1 and has some features. This is also V0.02. | https://github.com/VeryCoolMike/FarZun | 0 | 0| 
+| 20201021T10:24:48Z | exploit | https://github.com/VeryCoolMike/exploit | 0 | 0| 
+| 20201021T10:12:32Z | pwninit - automate starting binary exploit challenges | https://github.com/io12/pwninit | 107 | 7| 
+| 20201021T10:08:17Z | Custom version of the original Overthrow.  Bugs squashed and squashing, exploits punishable by death, new businesses plus much more, oh and high steriod use by the AI ;) Discord link  https://discord.gg/ZdMMq9x | https://github.com/GerhartPapaGee/Overthrow-Martial-Law | 0 | 1| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20201021T11:20:07Z | Hacking tools pack & backdoors generator. | https://github.com/AdrMXR/KitHack | 198 | 45| 
+| 20201021T10:41:16Z | Ghost Framework is an Android post-exploitation framework that exploits the Android Debug Bridge to remotely access an Android device. Ghost Framework gives you the power and convenience of remote Android device administration. | https://github.com/EntySec/ghost | 756 | 387| 
+| 20201021T09:45:27Z | Null | https://github.com/Adk2001tech/Biometric-Backdoors | 1 | 0| 
+| 20201021T08:48:39Z | Null | https://github.com/tigerk00/backdoor | 0 | 0| 
+| 20201021T06:34:47Z | Thoron Framework is a Linux post-exploitation framework that exploits Linux TCP vulnerability to provide a shell-like connection. Thoron Framework has the ability to create simple payloads to provide Linux TCP attack. | https://github.com/EntySec/thoron | 76 | 27| 
+| 20201021T05:56:34Z | This tool will create backdoor | https://github.com/krishpranav/Backdoorcreator | 2 | 1| 
+| 20201021T05:00:05Z | Final code of the Input-aware Backdoor Attack | https://github.com/VinAIResearch/input-aware-backdoor-attack-release | 6 | 1| 
 | 20201021T01:07:42Z | Tool to find potential backdoor/security holes in your endpoint | https://github.com/subasgit/backdoorfinder | 1 | 0| 
-| 20201020T20:27:32Z | Hacking tools pack & backdoors generator. | https://github.com/AdrMXR/KitHack | 197 | 45| 
-| 20201020T20:15:45Z | Final code of the Input-aware Backdoor Attack | https://github.com/VinAIResearch/input-aware-backdoor-attack-release | 5 | 1| 
-| 20201020T17:55:35Z | Ghost Framework is an Android post-exploitation framework that exploits the Android Debug Bridge to remotely access an Android device. Ghost Framework gives you the power and convenience of remote Android device administration. | https://github.com/EntySec/ghost | 753 | 386| 
-| 20201020T17:51:11Z | Thoron Framework is a Linux post-exploitation framework that exploits Linux TCP vulnerability to provide a shell-like connection. Thoron Framework has the ability to create simple payloads to provide Linux TCP attack. | https://github.com/EntySec/thoron | 75 | 27| 
-| 20201020T16:23:47Z | Null | https://github.com/Adk2001tech/Biometric-Backdoors | 0 | 0| 
 | 20201020T16:05:35Z | Null | https://github.com/dheeraj7596/NlpBackdoor | 0 | 0| 
 | 20201020T15:01:52Z | Null | https://github.com/laurobmb/backdoor_linux | 0 | 0| 
-| 20201020T13:16:36Z | Null | https://github.com/Biramon/Backdoor-Simulation | 0 | 0| 
-| 20201020T11:31:12Z | An Artificial Intelligence Poisoned Data Detection & Cleanse System | https://github.com/RidiculousDoge/AIPDC | 2 | 2| 
 
 
 # fuzz on Github 推荐
