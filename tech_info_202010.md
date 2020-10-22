@@ -17,6 +17,8 @@
 | 20201022 | 绕过 NTFS 的文件权限限制，实现任意文件读漏洞（CVE-2020-16938） | https://github.com/ioncodes/CVE-2020-16938| 
 | 20201022 | Spring Boot 框架多个 RCE 漏洞分析 | https://sec.today/pulses/39a4e8b6-abb0-41a9-90e8-ff3b77f06a52/| 
 | 20201022 | ODAT - 针对 Oracle 数据库的开源渗透测试工具 | https://sec.today/pulses/162ac386-bea7-44ca-acee-b565268a19fd/| 
+| 20201022 | Spring Boot 框架多个 RCE 漏洞分析 | https://github.com/pyn3rd/Spring-Boot-Vulnerability| 
+| 20201022 | ODAT - 针对 Oracle 数据库的开源渗透测试工具 | https://github.com/quentinhardy/odat| 
 | 20201021 | 渗透测试中如何隐藏自己的 Windows 服务 | https://www.sans.org/blog/red-team-tactics-hiding-windows-services/| 
 | 20201021 | 利用 LD_AUDIT 检测 Linux Library Preloading 技术 | https://labs.sentinelone.com/leveraging-ld_audit-to-beat-the-traditional-linux-library-preloading-technique/| 
 | 20201021 | Abusing pipelines to hijack production | https://flangvik.com/azure/devops/privesc/abuse/2020/10/15/from-pipeline-to-production.html| 
@@ -24,8 +26,6 @@
 | 20201021 | There’s A Hole In Your SoC - MediaTek SOC 芯片电压级别的攻击 | https://research.nccgroup.com/2020/10/15/theres-a-hole-in-your-soc-glitching-the-mediatek-bootrom/| 
 | 20201021 | HackerOne 最近公开了几个 GitLab 的漏洞的分析 | https://mp.weixin.qq.com/s/m8AZuqXgGGitcwsP4l-sVQ| 
 | 20201021 | Adobe 修复涉及 Illustrator 等多个产品的 16 个高危漏洞 | https://threatpost.com/adobe-critical-code-execution-bugs/160369/| 
-| 20201021 | 漏洞“军火商” Exodus Intelligence 对 Firefox WebAssembly 整数溢出漏洞（CVE-2018-2093）的分析 | https://blog.exodusintel.com/2020/10/20/firefox-vulnerability-research/?utm_source=rss&utm_medium=rss&utm_campaign=firefox-vulnerability-research| 
-| 20201021 | 利用 User-Intent MACL Bypass macOS TCC 隐私保护 | https://blog.xpnsec.com/we-need-to-talk-about-macl/| 
 
 
 # 安全维基 推荐
@@ -46,16 +46,16 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20201022T11:47:23Z | CVE-2020-16938 | Bypassing NTFS permissions to read any files as unprivileged user. | https://github.com/ioncodes/CVE-2020-16938 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 58 MINUTES 33 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20201022T10:05:59Z | CVE-2020-10238 | CVE-2020-10238: Incorrect Access Control in com_templates PoC | https://github.com/HoangKien1020/CVE-2020-10238 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 58 MINUTES 18 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20201022T09:56:07Z | CVE-2020-16947 | PoC of CVE-2020-16947 (Microsoft Outlook RCE vulnerablility) | https://github.com/0neb1n/CVE-2020-16947 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 58 MINUTES 23 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20201022T08:51:46Z | CVE-2020-1472 | Test tool for CVE-2020-1472 | https://github.com/SecuraBV/CVE-2020-1472 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 58 MINUTES 20 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201022T12:02:28Z | CVE-2020-16938 | Bypassing NTFS permissions to read any files as unprivileged user. | https://github.com/ioncodes/CVE-2020-16938 | | 
+| 20201022T10:05:59Z | CVE-2020-10238 | CVE-2020-10238: Incorrect Access Control in com_templates PoC | https://github.com/HoangKien1020/CVE-2020-10238 | | 
+| 20201022T09:56:07Z | CVE-2020-16947 | PoC of CVE-2020-16947 (Microsoft Outlook RCE vulnerablility) | https://github.com/0neb1n/CVE-2020-16947 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 56 MINUTES 23 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201022T08:51:46Z | CVE-2020-1472 | Test tool for CVE-2020-1472 | https://github.com/SecuraBV/CVE-2020-1472 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 56 MINUTES 20 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20201022T07:31:50Z | CVE-2020-27199 | Null | https://github.com/9lyph/CVE-2020-27199 | 未查询到CVE信息| 
-| 20201022T03:38:14Z | CVE-2020-15931 | Netwrix Account Lockout Examiner 4.1 Domain Admin Account Credential Disclosure Vulnerability | https://github.com/optiv/CVE-2020-15931 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 58 MINUTES 19 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201022T03:38:14Z | CVE-2020-15931 | Netwrix Account Lockout Examiner 4.1 Domain Admin Account Credential Disclosure Vulnerability | https://github.com/optiv/CVE-2020-15931 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 56 MINUTES 19 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20201022T01:16:45Z | CVE-2020-14645 | Null | https://github.com/HYWZ36/CVE-2020-14645-code | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
-| 20201022T00:39:03Z | CVE-2020-16898 | CVE-2020-16898 (Bad Neighbor) Microsoft Windows TCP/IP Vulnerability Detection Logic and Rule | https://github.com/advanced-threat-research/CVE-2020-16898 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 58 MINUTES 21 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20201021T17:45:24Z | CVE-2020-16898 | Check all Network Interfaces for CVE-2020-16898 Vulnerability | https://github.com/CPO-EH/CVE-2020-16898_Checker | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 58 MINUTES 25 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20201021T16:45:04Z | CVE-2020-16898 | PowerShell Script Workaround for VCE-220-16898 Vulnerability | https://github.com/CPO-EH/CVE-2020-16898_Workaround | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 58 MINUTES 24 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201022T00:39:03Z | CVE-2020-16898 | CVE-2020-16898 (Bad Neighbor) Microsoft Windows TCP/IP Vulnerability Detection Logic and Rule | https://github.com/advanced-threat-research/CVE-2020-16898 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 56 MINUTES 21 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201021T17:45:24Z | CVE-2020-16898 | Check all Network Interfaces for CVE-2020-16898 Vulnerability | https://github.com/CPO-EH/CVE-2020-16898_Checker | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 56 MINUTES 24 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201021T16:45:04Z | CVE-2020-16898 | PowerShell Script Workaround for VCE-220-16898 Vulnerability | https://github.com/CPO-EH/CVE-2020-16898_Workaround | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 56 MINUTES 24 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 
 
 # klee on Github 推荐
