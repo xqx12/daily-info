@@ -76,7 +76,7 @@
 # s2e on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20201021T16:35:19Z | s2engineers content collection | https://github.com/sinnerschrader/s2engineers-content | 1 | 1| 
+| 20201022T10:17:16Z | s2engineers content collection | https://github.com/sinnerschrader/s2engineers-content | 2 | 0| 
 | 20201016T00:16:55Z | GUI Configuration tool for WIZnet serial to ethernet devices. | https://github.com/Wiznet/WIZnet-S2E-Tool-GUI | 9 | 6| 
 | 20201014T07:37:03Z | Null | https://github.com/JeffShao96/S2E-NS-3 | 0 | 0| 
 | 20201012T21:47:16Z | Your S2E project management tools. Visit https://s2e.systems/docs to get started. | https://github.com/S2E/s2e-env | 67 | 30| 
@@ -89,7 +89,7 @@
 | 20201022T11:54:27Z | Null | https://github.com/Paulin-Zumstein/td3-systemeExploitation | 1 | 0| 
 | 20201022T11:54:12Z | AD Enum is a pentesting tool that allows to find misconfiguration through the the protocol LDAP and exploit some of those weaknesses with kerberos. | https://github.com/SecuProject/ADenum | 4 | 0| 
 | 20201022T11:42:34Z | CUDA application that uses multiple GPUs to compute matrix-matrix multiplication. The matrix is tiled to run from 1 to 8 devices. This code was part of my Bachelor thesis: %A Study on the Computational Exploitation of Remote Virtualized Graphics Cards% (https://bit.ly/37tIG0D) | https://github.com/ChristosMatzoros/CUDA-MultiGPU-Tiled-Matrix-Multiplication-using-CUDA-Streams | 0 | 0| 
-| 20201022T11:40:10Z | Unicorn Framework is a Linux post-exploitation framework that exploits Linux TCP vulnerability to get interactive shell connection with a lot of features such as downloading files, uploading files, getting system information and etc. | https://github.com/EntySec/unicorn | 0 | 0| 
+| 20201022T11:40:10Z | Unicorn Framework is a Linux post-exploitation framework that exploits Linux TCP vulnerability to get interactive shell connection with a lot of features such as downloading files, uploading files, getting system information and etc. | https://github.com/EntySec/unicorn | 0 | 1| 
 | 20201022T11:35:16Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 8434 | 1287| 
 | 20201022T11:30:52Z | Shared library for intercepting CUDA Runtime API calls. This was part of my Bachelor thesis: A Study on the Computational Exploitation of Remote Virtualized Graphics Cards (https://bit.ly/37tIG0D) | https://github.com/ChristosMatzoros/CUDA-Runtime-API-calls-interception | 0 | 0| 
 | 20201022T11:23:37Z | Python3 Веб-сервер с эксплоитом для PS4 с прошивкой 6.72   | https://github.com/StepanovPlaton/PyServer_with_PS4_Exploit_v6.72 | 0 | 0| 
@@ -101,16 +101,16 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20201022T00:46:06Z | Hacking tools pack & backdoors generator. | https://github.com/AdrMXR/KitHack | 201 | 45| 
-| 20201022T00:36:19Z | Eficaz herramienta capaz de inyectar un backdoor a casi cualquier app Android actual | https://github.com/yaxter/BACKDROID | 0 | 0| 
+| 20201022T11:40:10Z | Unicorn Framework is a Linux post-exploitation framework that exploits Linux TCP vulnerability to get interactive shell connection with a lot of features such as downloading files, uploading files, getting system information and etc. | https://github.com/EntySec/unicorn | 0 | 1| 
+| 20201022T11:39:22Z | Repository for all the code related to Learn Python & Ethical Hacking From Scratch course. All the work is done on Kali Linux, using both Python 2.7 and 3.x version. | https://github.com/Maffey/ethical-hacking-course | 0 | 0| 
+| 20201022T11:26:29Z | Hacking tools pack & backdoors generator. | https://github.com/AdrMXR/KitHack | 206 | 45| 
+| 20201022T09:55:50Z | Code for %On the Trade-off between Adversarial and Backdoor Robustness% (NIPS 2020) | https://github.com/nthu-datalab/On.the.Trade-off.between.Adversarial.and.Backdoor.Robustness | 0 | 0| 
+| 20201022T09:11:27Z | Ghost Framework is an Android post-exploitation framework that exploits the Android Debug Bridge to remotely access an Android device. Ghost Framework gives you the power and convenience of remote Android device administration. | https://github.com/EntySec/ghost | 758 | 387| 
+| 20201022T07:43:52Z | Null | https://github.com/tigerk00/backdoor | 0 | 0| 
+| 20201022T05:27:47Z | Eficaz herramienta capaz de inyectar un backdoor a casi cualquier app Android actual | https://github.com/yaxter/BACKDROID | 1 | 0| 
 | 20201021T23:00:33Z | Official Repository for the CVPR 2020 paper %Universal Litmus Patterns: Revealing Backdoor Attacks in CNNs% | https://github.com/UMBCvision/Universal-Litmus-Patterns | 12 | 1| 
 | 20201021T22:58:35Z | Python Backdoor Searcher | https://github.com/edgardokrause/PBS | 0 | 0| 
 | 20201021T21:36:38Z | Null | https://github.com/nightowllx/zeus_backdoor | 0 | 0| 
-| 20201021T19:44:35Z | Ghost Framework is an Android post-exploitation framework that exploits the Android Debug Bridge to remotely access an Android device. Ghost Framework gives you the power and convenience of remote Android device administration. | https://github.com/EntySec/ghost | 757 | 387| 
-| 20201021T17:18:31Z | Null | https://github.com/tigerk00/backdoor | 0 | 0| 
-| 20201021T14:29:31Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 74 | 8| 
-| 20201021T09:45:27Z | Null | https://github.com/Adk2001tech/Biometric-Backdoors | 1 | 0| 
-| 20201021T06:34:47Z | Thoron Framework is a Linux post-exploitation framework that exploits Linux TCP vulnerability to provide a shell-like connection. Thoron Framework has the ability to create simple payloads to provide Linux TCP attack. | https://github.com/EntySec/thoron | 76 | 27| 
 
 
 # fuzz on Github 推荐
