@@ -6,6 +6,17 @@
 # 玄武实验室 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20201022 | AssaultCube 射击游戏 RCE 漏洞分析 | https://medium.com/@elongl/assaultcube-rce-technical-analysis-e12dedf680e5| 
+| 20201022 | 基于 DNS 协议向外渗透数据的工具 | https://github.com/vp777/DNS-data-exfiltration| 
+| 20201022 | Awesome Android Security GitHub Repo | https://github.com/saeidshirazi/awesome-android-security| 
+| 20201022 | 近几年蓝牙协议相关的漏洞列表 | https://gist.github.com/tdec/128751d818e9753364a72086b961390b| 
+| 20201022 | Apache containerd 敏感信息泄露漏洞 - ContainerDrip 的分析（CVE-2020-15157） | https://darkbit.io/blog/cve-2020-15157-containerdrip| 
+| 20201022 | Compromising virtualization without attacking the hypervisor | https://theori.io/research/compromising-dom0-in-xen/| 
+| 20201022 | GWTMap - 用于分析基于 Google Web Toolkit (GWT) 框架编写的应用的攻击面 | https://labs.f-secure.com/blog/gwtmap-reverse-engineering-google-web-toolkit-applications/| 
+| 20201022 | Google Chrome WebGL Buffer11::getBufferStorage code execution vulnerability (CVE-2020-6555) | https://blog.talosintelligence.com/2020/10/vuln-spotlight-chrome-web-gl-.html?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+feedburner%2FTalos+%28Talos%E2%84%A2+Blog%29| 
+| 20201022 | 绕过 NTFS 的文件权限限制，实现任意文件读漏洞（CVE-2020-16938） | https://github.com/ioncodes/CVE-2020-16938| 
+| 20201022 | Spring Boot 框架多个 RCE 漏洞分析 | https://sec.today/pulses/39a4e8b6-abb0-41a9-90e8-ff3b77f06a52/| 
+| 20201022 | ODAT - 针对 Oracle 数据库的开源渗透测试工具 | https://sec.today/pulses/162ac386-bea7-44ca-acee-b565268a19fd/| 
 | 20201021 | 渗透测试中如何隐藏自己的 Windows 服务 | https://www.sans.org/blog/red-team-tactics-hiding-windows-services/| 
 | 20201021 | 利用 LD_AUDIT 检测 Linux Library Preloading 技术 | https://labs.sentinelone.com/leveraging-ld_audit-to-beat-the-traditional-linux-library-preloading-technique/| 
 | 20201021 | Abusing pipelines to hijack production | https://flangvik.com/azure/devops/privesc/abuse/2020/10/15/from-pipeline-to-production.html| 
@@ -15,53 +26,42 @@
 | 20201021 | Adobe 修复涉及 Illustrator 等多个产品的 16 个高危漏洞 | https://threatpost.com/adobe-critical-code-execution-bugs/160369/| 
 | 20201021 | 漏洞“军火商” Exodus Intelligence 对 Firefox WebAssembly 整数溢出漏洞（CVE-2018-2093）的分析 | https://blog.exodusintel.com/2020/10/20/firefox-vulnerability-research/?utm_source=rss&utm_medium=rss&utm_campaign=firefox-vulnerability-research| 
 | 20201021 | 利用 User-Intent MACL Bypass macOS TCC 隐私保护 | https://blog.xpnsec.com/we-need-to-talk-about-macl/| 
-| 20201020 | 趋势科技对 Earth Kitsune 攻击行动 SLUB 恶意软件的分析 | https://www.trendmicro.com/vinfo/us/security/news/cyber-attacks/operation-earth-kitsune-tracking-slub-s-current-operations/| 
-| 20201020 | 云安全研究测试相关的工具收集 | https://cloudberry.engineering/tool/| 
-| 20201020 | Issue 2068: Chrome: Use-after-free in USB::OnServiceConnectionError | https://bugs.chromium.org/p/project-zero/issues/detail?id=2068| 
-| 20201020 | iOS 1.0 到 iOS 14 版本，系统所用编程语言的趋势变化 | https://blog.timac.org/2020/1019-evolution-of-the-programming-languages-from-iphone-os-to-ios-14/| 
-| 20201020 | 桌面版本 Wire 应用因使用 Electron 不当导致 RCE 漏洞 | http://github.com/wireapp/wire-desktop/security/advisories/GHSA-5gpx-9976-ggpm| 
-| 20201020 | Kaitai Struct - 用于为二进制格式自动化生成 Parser API 的工具 | http://kaitai.io/news/2020/10/16/kaitai-struct-v0.9-released.html| 
-| 20201020 | 显式内存管理与自动垃圾回收算法的性能比较（paper） | http://people.cs.umass.edu/~emery/pubs/gcvsmalloc.pdf| 
-| 20201020 | Windows 内核提权漏洞（CVE-2020-1034）分析 | https://sec.today/pulses/a3c6fc15-119e-4ab0-8db5-bfc07bb35481/| 
-| 20201020 | 卡巴斯基对 GravityRAT 间谍软件的分析 | https://securelist.com/gravityrat-the-spy-returns/99097/| 
-| 20201020 | 探索低版本 .Net 反序列化实现 Exchange RCE | https://sec.today/pulses/f43f2a05-39be-4492-acde-c30cf21af1d1/| 
-| 20201020 | 探索低版本 .Net 反序列化实现 Exchange RCE | https://paper.seebug.org/1371/| 
 
 
 # 安全维基 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20201022 | Metasploit内网使用三种方法 | https://mp.weixin.qq.com/s/Pvq5D9I1FchnfR2uPUcPAw| 
+| 20201022 | Mysql 数据库攻击面 | https://www.anquanke.com/post/id/219892| 
+| 20201022 | Docker渗透思路调研 | https://forum.90sec.com/t/topic/1338| 
+| 20201022 | 一次简单的内网渗透靶场实验 | https://xz.aliyun.com/t/8394| 
+| 20201022 | Twitter 黑客攻击调查报告 | https://www.solidot.org/story?sid=65858| 
+| 20201022 | APP隐私合规_个人信息保护合规评估工具 | https://blog.csdn.net/bloodzero_new/article/details/109220410| 
+| 20201022 | 中华人民共和国个人信息保护法（草案） | http://www.npc.gov.cn/flcaw/flca/ff80808175265dd401754405c03f154c/attachment.pdf| 
 | 20201021 | 微服务架构下的越权风险 | https://mp.weixin.qq.com/s/0vK2q1EEaDR-zsQbFKi4PQ| 
 | 20201021 | 记一次因“打码”不严的渗透测试 | https://mp.weixin.qq.com/s/M_E1OkEdTiMAkawxprwI3A| 
 | 20201019 | SecWiki周刊（第346期) | https://www.sec-wiki.com/weekly/346| 
-| 20201019 | Gartner2020年十大安全项目详解 | https://mp.weixin.qq.com/s/yuNalHkhcJJIPNE4QjG_aw| 
-| 20201019 | 美国国防部信息网(DODIN)架构剖析 | https://mp.weixin.qq.com/s/m4wvjk2w5J2ZrWcJhHdQNw| 
-| 20201019 | 对中东石油和天然气供应链产业的APT攻击 | https://mp.weixin.qq.com/s/EMvi2K9TiRhjNY_o2ZMU0g| 
-| 20201019 | 护网行动中的安全产品优化 | https://mp.weixin.qq.com/s/87N-Bvveqr9mQ4i1ibPCgg| 
-| 20201019 | 域渗透之SPN | https://mp.weixin.qq.com/s/aQqvo4l7XZCfirsrJxJg4w| 
-| 20201019 | VHAdmin虚拟主机提权实战案例 | https://mp.weixin.qq.com/s/LmXi6niSJ4s-Cmq3jWSjaQ| 
-| 20201019 | Msfvenom命令自动补全方法 | https://mp.weixin.qq.com/s/-3-NsYPguyNjhl-_D0lYnQ| 
 
 
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20201022T01:57:03Z | CVE-2020-16938 | Bypassing NTFS permissions to read any files as unprivileged user. | https://github.com/ioncodes/CVE-2020-16938 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 01 MINUTES 45 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201022T11:47:23Z | CVE-2020-16938 | Bypassing NTFS permissions to read any files as unprivileged user. | https://github.com/ioncodes/CVE-2020-16938 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 58 MINUTES 33 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201022T10:05:59Z | CVE-2020-10238 | CVE-2020-10238: Incorrect Access Control in com_templates PoC | https://github.com/HoangKien1020/CVE-2020-10238 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 58 MINUTES 18 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201022T09:56:07Z | CVE-2020-16947 | PoC of CVE-2020-16947 (Microsoft Outlook RCE vulnerablility) | https://github.com/0neb1n/CVE-2020-16947 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 58 MINUTES 23 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201022T08:51:46Z | CVE-2020-1472 | Test tool for CVE-2020-1472 | https://github.com/SecuraBV/CVE-2020-1472 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 58 MINUTES 20 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201022T07:31:50Z | CVE-2020-27199 | Null | https://github.com/9lyph/CVE-2020-27199 | 未查询到CVE信息| 
+| 20201022T03:38:14Z | CVE-2020-15931 | Netwrix Account Lockout Examiner 4.1 Domain Admin Account Credential Disclosure Vulnerability | https://github.com/optiv/CVE-2020-15931 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 58 MINUTES 19 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20201022T01:16:45Z | CVE-2020-14645 | Null | https://github.com/HYWZ36/CVE-2020-14645-code | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
-| 20201022T00:39:03Z | CVE-2020-16898 | CVE-2020-16898 (Bad Neighbor) Microsoft Windows TCP/IP Vulnerability Detection Logic and Rule | https://github.com/advanced-threat-research/CVE-2020-16898 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 01 MINUTES 30 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20201021T17:45:24Z | CVE-2020-16898 | Check all Network Interfaces for CVE-2020-16898 Vulnerability | https://github.com/CPO-EH/CVE-2020-16898_Checker | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 01 MINUTES 36 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20201021T17:26:57Z | CVE-2020-1472 | Test tool for CVE-2020-1472 | https://github.com/SecuraBV/CVE-2020-1472 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 01 MINUTES 29 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20201021T16:45:04Z | CVE-2020-16898 | PowerShell Script Workaround for VCE-220-16898 Vulnerability | https://github.com/CPO-EH/CVE-2020-16898_Workaround | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 01 MINUTES 34 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20201021T09:42:48Z | CVE-2020-1472 | Null | https://github.com/puckiestyle/CVE-2020-1472 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 01 MINUTES 42 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20201021T09:41:31Z | CVE-2020-16898 | Null | https://github.com/momika233/CVE-2020-16898-exp | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 01 MINUTES 37 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20201021T06:51:18Z | CVE-2020-25540 | ThinkAdmin CVE-2020-25540 poc | https://github.com/ChaoYangDongYongGuaiGe/CVE-2020-25540 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 01 MINUTES 40 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20201021T06:45:23Z | CVE-2020-16898 | CVE-2020-16898 Windows TCP/IP远程代码执行漏洞 EXP&POC | https://github.com/komomon/CVE-2020-16898 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 01 MINUTES 41 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201022T00:39:03Z | CVE-2020-16898 | CVE-2020-16898 (Bad Neighbor) Microsoft Windows TCP/IP Vulnerability Detection Logic and Rule | https://github.com/advanced-threat-research/CVE-2020-16898 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 58 MINUTES 21 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201021T17:45:24Z | CVE-2020-16898 | Check all Network Interfaces for CVE-2020-16898 Vulnerability | https://github.com/CPO-EH/CVE-2020-16898_Checker | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 58 MINUTES 25 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201021T16:45:04Z | CVE-2020-16898 | PowerShell Script Workaround for VCE-220-16898 Vulnerability | https://github.com/CPO-EH/CVE-2020-16898_Workaround | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 58 MINUTES 24 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20201021T22:13:28Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1526 | 464| 
+| 20201022T02:03:43Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1527 | 466| 
 | 20201021T16:32:26Z | RVT is a collection of tools/libraries to support both static and dynamic verification of Rust programs. | https://github.com/project-oak/rust-verification-tools | 90 | 5| 
 | 20201020T15:59:34Z | Urban Evidence Based Policy (SPPA667) | https://github.com/KLeeDE/PUS2020_KLee | 0 | 1| 
 | 20201020T15:15:59Z | A tool that automatically calls Klee to solve for injection | https://github.com/Zzzode/KleeTool | 1 | 0| 
@@ -86,16 +86,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20201022T01:57:58Z | A static library, wrapper for mhyprot vulnerable driver, execute exploits and tests | https://github.com/kkent030315/libmhyprot | 6 | 1| 
-| 20201022T01:54:07Z | Null | https://github.com/powerpow09/bcvs-exploits | 0 | 0| 
-| 20201022T01:30:51Z | The best tool for finding one gadget RCE in libc.so.6 | https://github.com/david942j/one_gadget | 1202 | 106| 
-| 20201022T01:16:54Z | This is my progress towards http://security.cs.rpi.edu/courses/binexp-spring2015/ | https://github.com/cribdragg3r/modern_bin_exploitation | 0 | 0| 
-| 20201022T00:48:42Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 5 | 3| 
-| 20201022T00:44:36Z | Sifter is a OSINT, recon & vulnerability scanner. It incorporates a plethara of tools within different module sets that tries to cover every attack vector. Allowing you to quickly perform recon tasks and organize the results in one place. From OSINT to Recon, Exploitation, Post-Exploitation, OpSec, Threat Analysis, XSS, SQLinjection, Network Scanning, WebApp Analysis or DNS enumeration.. Sifter should be able to cover it all. | https://github.com/s1l3nt78/sifter | 265 | 82| 
-| 20201022T00:37:05Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 8431 | 1287| 
-| 20201021T23:41:02Z | Null | https://github.com/Kahvi-0/Vulnerabilities-and-Exploitations | 1 | 1| 
-| 20201021T23:32:01Z | Null | https://github.com/CosmeticCodes/Cosmic-Exploit | 0 | 0| 
-| 20201021T23:04:50Z | A Brand New SpiceSouls Branded Official Login System is out! Can you exploit it using a basic buffer overflow exploit to log in as admin? | https://github.com/spicesouls/vuln-login | 1 | 0| 
+| 20201022T11:54:27Z | Null | https://github.com/Paulin-Zumstein/td3-systemeExploitation | 1 | 0| 
+| 20201022T11:54:12Z | AD Enum is a pentesting tool that allows to find misconfiguration through the the protocol LDAP and exploit some of those weaknesses with kerberos. | https://github.com/SecuProject/ADenum | 4 | 0| 
+| 20201022T11:42:34Z | CUDA application that uses multiple GPUs to compute matrix-matrix multiplication. The matrix is tiled to run from 1 to 8 devices. This code was part of my Bachelor thesis: %A Study on the Computational Exploitation of Remote Virtualized Graphics Cards% (https://bit.ly/37tIG0D) | https://github.com/ChristosMatzoros/CUDA-MultiGPU-Tiled-Matrix-Multiplication-using-CUDA-Streams | 0 | 0| 
+| 20201022T11:40:10Z | Unicorn Framework is a Linux post-exploitation framework that exploits Linux TCP vulnerability to get interactive shell connection with a lot of features such as downloading files, uploading files, getting system information and etc. | https://github.com/EntySec/unicorn | 0 | 0| 
+| 20201022T11:35:16Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 8434 | 1287| 
+| 20201022T11:30:52Z | Shared library for intercepting CUDA Runtime API calls. This was part of my Bachelor thesis: A Study on the Computational Exploitation of Remote Virtualized Graphics Cards (https://bit.ly/37tIG0D) | https://github.com/ChristosMatzoros/CUDA-Runtime-API-calls-interception | 0 | 0| 
+| 20201022T11:23:37Z | Python3 Веб-сервер с эксплоитом для PS4 с прошивкой 6.72   | https://github.com/StepanovPlaton/PyServer_with_PS4_Exploit_v6.72 | 0 | 0| 
+| 20201022T11:08:26Z | XSScope is one of the most powerful and advanced GUI Framework for Modern Browser exploitation via XSS. | https://github.com/kleiton0x00/XSScope | 53 | 15| 
+| 20201022T10:52:49Z | Unicorn Framework is a Linux post-exploitation framework that exploits Linux TCP vulnerability to get shell-like connection with a lot of function such as download, upload and etc. | https://github.com/enty8080/unicorn | 0 | 0| 
+| 20201022T10:48:31Z | :palm_tree:Windows exploits提权漏洞合集，附带编译环境，演示GIF图，漏洞详细信息，可执行文件 | https://github.com/Ascotbe/Kernelhub | 514 | 85| 
 
 
 # backdoor on Github 推荐
@@ -116,16 +116,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20201022T01:59:09Z | this fuzzer detect DOM based XSS in chrome extension  | https://github.com/kurotojp/fuzzer | 0 | 0| 
-| 20201022T01:13:06Z | The Art, Science, and Engineering of Fuzzing: A Survey | https://github.com/SoftSec-KAIST/Fuzzing-Survey | 80 | 13| 
-| 20201022T01:09:36Z | OSS-Fuzz - continuous fuzzing of open source software. | https://github.com/google/oss-fuzz | 5606 | 1104| 
-| 20201022T00:34:30Z | FuzzBench - Fuzzer benchmarking as a service. | https://github.com/google/fuzzbench | 540 | 85| 
-| 20201022T00:31:54Z | github webpage test for some eureka | https://github.com/spaepak/fuzzy-eureka.github.io | 0 | 0| 
-| 20201021T23:59:41Z | Scalable fuzzing infrastructure. | https://github.com/google/clusterfuzz | 4351 | 395| 
-| 20201021T23:53:59Z | Null | https://github.com/exarchou/Fuzzy-Systems | 0 | 0| 
-| 20201021T23:49:05Z | A plugin based fuzzer | https://github.com/elast0ny/CROWDFUZZ | 2 | 0| 
-| 20201021T23:23:48Z | Null | https://github.com/javiercarpio57/fuzzy_logic | 0 | 0| 
-| 20201021T23:13:52Z | Null | https://github.com/googleinterns/hw-fuzzing | 2 | 0| 
+| 20201022T11:54:37Z | mongoose plugin for fuzzy search | https://github.com/lorenzofox3/mongoose-fuzzy-search | 0 | 0| 
+| 20201022T11:53:47Z | The Book %Generating Software Tests% | https://github.com/uds-se/fuzzingbook | 426 | 87| 
+| 20201022T11:24:14Z | Null | https://github.com/7evy/Fuzzy_Queries | 0 | 0| 
+| 20201022T11:15:55Z | 御剑目录扫描专业版，简单实用的命令行网站目录扫描工具，支持爬虫、fuzz、自定义字典、字典变量、UA修改、假404自动过滤、扫描控速等功能。 | https://github.com/foryujian/yjdirscan | 89 | 17| 
+| 20201022T10:55:03Z | For a relaxing time | https://github.com/henrik716/fuzzy-fiesta | 0 | 0| 
+| 20201022T10:49:22Z | Definitely not for fuzzing | https://github.com/gamozolabs/freetype_harness | 4 | 0| 
+| 20201022T10:47:08Z | Simple fuzzer for OpenAPI 3 specification based APIs | https://github.com/vwt-digital/openapi3-fuzzer | 2 | 0| 
+| 20201022T10:14:13Z | A collection of fuzzers for the Kakoune code editor | https://github.com/kakoune-editor/kakoune-fuzzers | 0 | 0| 
+| 20201022T10:11:43Z | Null | https://github.com/rbusybee/fuzzy-angular | 0 | 0| 
+| 20201022T09:51:21Z | Null | https://github.com/snow1989-dev/fuzzy-dev | 0 | 0| 
 
 
 
