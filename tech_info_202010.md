@@ -46,28 +46,28 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20201021T12:35:04Z | CVE-2020-16898 | CVE-2020-16898 (Bad Neighbor) Microsoft Windows TCP/IP Vulnerability Detection Logic and Rule | https://github.com/advanced-threat-research/CVE-2020-16898 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 00 MINUTES 28 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20201021T10:53:22Z | CVE-2020-14645 | Null | https://github.com/HYWZ36/CVE-2020-14645-code | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
-| 20201021T09:42:48Z | CVE-2020-1472 | Null | https://github.com/puckiestyle/CVE-2020-1472 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 00 MINUTES 43 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20201021T09:41:31Z | CVE-2020-16898 | Null | https://github.com/momika233/CVE-2020-16898-exp | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 00 MINUTES 36 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20201021T06:51:18Z | CVE-2020-25540 | ThinkAdmin CVE-2020-25540 poc | https://github.com/ChaoYangDongYongGuaiGe/CVE-2020-25540 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 00 MINUTES 40 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20201021T06:45:23Z | CVE-2020-16898 | CVE-2020-16898 Windows TCP/IP远程代码执行漏洞 EXP&POC | https://github.com/komomon/CVE-2020-16898 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 00 MINUTES 42 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20201020T20:10:00Z | CVE-2020-16947 | PoC of CVE-2020-16947 (Microsoft Outlook RCE vulnerablility) | https://github.com/0neb1n/CVE-2020-16947 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 00 MINUTES 31 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20201020T09:11:28Z | cve-2020-14644 | cve-2020-14644 漏洞环境 | https://github.com/Kamimuka/cve-2020-14644 | 未查询到CVE信息| 
-| 20201020T05:53:55Z | cve-2020-16898 | PoC BSOD for CVE-2020-16898 (badneighbor) | https://github.com/0xeb-bp/cve-2020-16898 | 未查询到CVE信息| 
-| 20201020T02:40:56Z | cve-2020-1948 | Null | https://github.com/askDing/cve-2020-1948-poc | 未查询到CVE信息| 
+| 20201021T23:34:32Z | CVE-2020-16938 | Bypassing NTFS permissions to read any files as unprivileged user. | https://github.com/ioncodes/CVE-2020-16938 | 当Windows内核不适当地处理内存中的对象时，即称为“ Windows内核信息泄露漏洞”，则存在一个信息泄露漏洞。此CVE ID从CVE-2020-16901起是唯一的。| 
+| 20201021T21:34:29Z | CVE-2020-16898 | CVE-2020-16898 (Bad Neighbor) Microsoft Windows TCP/IP Vulnerability Detection Logic and Rule | https://github.com/advanced-threat-research/CVE-2020-16898 | 当Windows TCP / IP堆栈不正确地处理ICMPv6路由器播发数据包（也称为“ Windows TCP / IP远程执行代码漏洞”）时，存在一个远程执行代码漏洞。| 
+| 20201021T17:45:24Z | CVE-2020-16898 | Check all Network Interfaces for CVE-2020-16898 Vulnerability | https://github.com/CPO-EH/CVE-2020-16898_Checker | 当Windows TCP / IP堆栈不正确地处理ICMPv6路由器播发数据包（也称为“ Windows TCP / IP远程执行代码漏洞”）时，存在一个远程执行代码漏洞。| 
+| 20201021T17:26:57Z | CVE-2020-1472 | Test tool for CVE-2020-1472 | https://github.com/SecuraBV/CVE-2020-1472 | 当攻击者使用Netlogon远程协议（MS-NRPC）（又称为“ Netlogon特权提升漏洞”）建立与域控制器的易受攻击的Netlogon安全通道连接时，将存在特权提升漏洞。| 
+| 20201021T16:45:04Z | CVE-2020-16898 | PowerShell Script Workaround for VCE-220-16898 Vulnerability | https://github.com/CPO-EH/CVE-2020-16898_Workaround | 当Windows TCP / IP堆栈不正确地处理ICMPv6路由器播发数据包（也称为“ Windows TCP / IP远程执行代码漏洞”）时，存在一个远程执行代码漏洞。| 
+| 20201021T13:50:04Z | CVE-2020-14645 | Null | https://github.com/HYWZ36/CVE-2020-14645-code | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
+| 20201021T09:42:48Z | CVE-2020-1472 | Null | https://github.com/puckiestyle/CVE-2020-1472 | 当攻击者使用Netlogon远程协议（MS-NRPC）（又称为“ Netlogon特权提升漏洞”）建立与域控制器的易受攻击的Netlogon安全通道连接时，将存在特权提升漏洞。| 
+| 20201021T09:41:31Z | CVE-2020-16898 | Null | https://github.com/momika233/CVE-2020-16898-exp | | 
+| 20201021T06:51:18Z | CVE-2020-25540 | ThinkAdmin CVE-2020-25540 poc | https://github.com/ChaoYangDongYongGuaiGe/CVE-2020-25540 | ThinkAdmin v6受到目录遍历漏洞的影响。未经授权的攻击者可以通过GET request编码参数任意读取远程服务器上的文件。| 
+| 20201021T06:45:23Z | CVE-2020-16898 | CVE-2020-16898 Windows TCP/IP远程代码执行漏洞 EXP&POC | https://github.com/komomon/CVE-2020-16898 | 当Windows TCP / IP堆栈不正确地处理ICMPv6路由器播发数据包（也称为“ Windows TCP / IP远程执行代码漏洞”）时，存在一个远程执行代码漏洞。| 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20201021T22:13:28Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1526 | 464| 
+| 20201021T16:32:26Z | RVT is a collection of tools/libraries to support both static and dynamic verification of Rust programs. | https://github.com/project-oak/rust-verification-tools | 90 | 5| 
 | 20201020T15:59:34Z | Urban Evidence Based Policy (SPPA667) | https://github.com/KLeeDE/PUS2020_KLee | 0 | 1| 
 | 20201020T15:15:59Z | A tool that automatically calls Klee to solve for injection | https://github.com/Zzzode/KleeTool | 1 | 0| 
 | 20201020T10:49:45Z | One place for all of my workshops | https://github.com/kleenxcoder/kleenxcoder-workshops | 0 | 0| 
 | 20201019T18:46:52Z | Website for the KLEE project: https://klee.github.io/ | https://github.com/klee/klee.github.io | 13 | 43| 
-| 20201019T08:53:16Z | RVT is a collection of tools/libraries to support both static and dynamic verification of Rust programs. | https://github.com/project-oak/rust-verification-tools | 90 | 5| 
 | 20201019T08:20:08Z | Symbiotic is a tool for finding bugs in computer programs based on instrumentation, program slicing and KLEE | https://github.com/staticafi/symbiotic | 199 | 33| 
-| 20201019T07:45:33Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1524 | 464| 
 | 20201018T20:15:58Z | Create CFGs and compute complexity metrics for Python, C++, and Java code. | https://github.com/hmc-alpaqa/metrinome | 4 | 0| 
 | 20201017T20:08:09Z | Null | https://github.com/raynard2/SwiftKleen | 0 | 0| 
 | 20201017T13:50:45Z | Hommage à %Hommage à Paul Klee% | https://github.com/dmitric/klee | 11 | 1| 
@@ -76,7 +76,7 @@
 # s2e on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20201021T12:50:57Z | s2engineers content collection | https://github.com/sinnerschrader/s2engineers-content | 1 | 1| 
+| 20201021T16:35:19Z | s2engineers content collection | https://github.com/sinnerschrader/s2engineers-content | 1 | 1| 
 | 20201016T00:16:55Z | GUI Configuration tool for WIZnet serial to ethernet devices. | https://github.com/Wiznet/WIZnet-S2E-Tool-GUI | 9 | 6| 
 | 20201014T07:37:03Z | Null | https://github.com/JeffShao96/S2E-NS-3 | 0 | 0| 
 | 20201012T21:47:16Z | Your S2E project management tools. Visit https://s2e.systems/docs to get started. | https://github.com/S2E/s2e-env | 67 | 30| 
@@ -86,46 +86,46 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20201021T12:33:51Z | Representing nine ways to exploit XSS (vulnerable app!) | https://github.com/kevin-valerio/NineXSS | 0 | 0| 
-| 20201021T12:23:36Z | Silice is an open source language that simplifies writing algorithms fully exploiting FPGA architectures. | https://github.com/sylefeb/Silice | 350 | 27| 
-| 20201021T12:20:46Z | Blog! | https://github.com/nonetype/nonetype.github.io | 0 | 0| 
-| 20201021T11:47:57Z | Router exploit scanner (barebones Zarp) | https://github.com/thunder182/pwner | 0 | 0| 
-| 20201021T11:35:12Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 8430 | 1288| 
-| 20201021T11:30:21Z | Bludit <= 3.9.2 - Authentication Bruteforce Mitigation Bypass Exploit/PoC | https://github.com/ColdFusionX/CVE-2019-17240-Exploit-Bludit-BF-bypass | 0 | 0| 
-| 20201021T11:18:41Z | Hacking the Art of Exploitation, learning about buffer overflows,heap overflows,race conditions and the c language features in general like pointers and syscalls | https://github.com/Nathan-Kimutai/the-art-of-exploitation | 0 | 0| 
-| 20201021T11:15:42Z | AgroTrust is a blockchain enabled traceability solution with the aim of integrating of global food value chains. Small landholding farmers across the country are suffering due to fragile market linkages, weak bargaining power, exploitation by middlemen and high spillage & spoilage. On the other end, consumers are rarely aware about agricultural products they consume, their quality, safety, and sustainability. They are even more oblivious about how much of their paid price goes back to the farmer. Only when the farmer knows the complete story of his product from farm to fork and the consumer knows the complete story of his food from fork to farm, these problems could be addressed. Only when the both ends of the value chain – the farmer and the consumer – are aware about each other, will the players in the middle be incentivized to ensure better products and fair prices. | https://github.com/ganeshanantwar/AgroTrust-QRiosity | 0 | 0| 
-| 20201021T10:31:08Z | FarZun is an exploit. My first infact. It runs on WeAreDevs API V1 and has some features. This is also V0.02. | https://github.com/VeryCoolMike/FarZun | 0 | 0| 
-| 20201021T10:24:48Z | exploit | https://github.com/VeryCoolMike/exploit | 0 | 0| 
+| 20201021T23:41:02Z | Null | https://github.com/Kahvi-0/Vulnerabilities-and-Exploitations | 1 | 1| 
+| 20201021T23:32:01Z | Null | https://github.com/CosmeticCodes/Cosmic-Exploit | 0 | 0| 
+| 20201021T23:04:50Z | A Brand New SpiceSouls Branded Official Login System is out! Can you exploit it using a basic buffer overflow exploit to log in as admin? | https://github.com/spicesouls/vuln-login | 1 | 0| 
+| 20201021T22:36:55Z | The best tool for finding one gadget RCE in libc.so.6 | https://github.com/david942j/one_gadget | 1202 | 106| 
+| 20201021T22:35:10Z | X86 and ARM Buffer Overflow and ROP Exploits - Assignment 2 for Systems Security and Malicious Code Analysis Course  | https://github.com/aagarwal21/cs6332-assignment-2 | 0 | 0| 
+| 20201021T21:57:43Z | A phased, evasive Path Traversal + LFI scanning & exploitation tool in Python | https://github.com/VainlyStrain/Vailyn | 58 | 1| 
+| 20201021T21:48:08Z | anarchy type beat | https://github.com/not-ilinked/VC-lag-exploit | 5 | 1| 
+| 20201021T21:20:53Z | Sifter is a OSINT, recon & vulnerability scanner. It incorporates a plethara of tools within different module sets that tries to cover every attack vector. Allowing you to quickly perform recon tasks and organize the results in one place. From OSINT to Recon, Exploitation, Post-Exploitation, OpSec, Threat Analysis, XSS, SQLinjection, Network Scanning, WebApp Analysis or DNS enumeration.. Sifter should be able to cover it all. | https://github.com/s1l3nt78/sifter | 265 | 82| 
+| 20201021T20:35:14Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 8430 | 1287| 
+| 20201021T20:18:12Z | Utilio is a digital assistant built on the RASA stack that enhances customer engagement. This project plans on exploiting various popular customer support codes and features across platforms to build a strong AI powered, multi-lingual, analytical assistant. | https://github.com/priyalParab/chatbots-utilities-utilio | 0 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20201021T11:20:07Z | Hacking tools pack & backdoors generator. | https://github.com/AdrMXR/KitHack | 198 | 45| 
-| 20201021T10:41:16Z | Ghost Framework is an Android post-exploitation framework that exploits the Android Debug Bridge to remotely access an Android device. Ghost Framework gives you the power and convenience of remote Android device administration. | https://github.com/EntySec/ghost | 756 | 387| 
+| 20201021T23:00:33Z | Official Repository for the CVPR 2020 paper %Universal Litmus Patterns: Revealing Backdoor Attacks in CNNs% | https://github.com/UMBCvision/Universal-Litmus-Patterns | 12 | 1| 
+| 20201021T22:58:35Z | Python Backdoor Searcher | https://github.com/edgardokrause/PBS | 0 | 0| 
+| 20201021T21:36:38Z | Null | https://github.com/nightowllx/zeus_backdoor | 0 | 0| 
+| 20201021T19:44:35Z | Ghost Framework is an Android post-exploitation framework that exploits the Android Debug Bridge to remotely access an Android device. Ghost Framework gives you the power and convenience of remote Android device administration. | https://github.com/EntySec/ghost | 757 | 387| 
+| 20201021T19:44:16Z | Hacking tools pack & backdoors generator. | https://github.com/AdrMXR/KitHack | 199 | 45| 
+| 20201021T17:18:31Z | Null | https://github.com/tigerk00/backdoor | 0 | 0| 
+| 20201021T14:29:31Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 74 | 8| 
 | 20201021T09:45:27Z | Null | https://github.com/Adk2001tech/Biometric-Backdoors | 1 | 0| 
-| 20201021T08:48:39Z | Null | https://github.com/tigerk00/backdoor | 0 | 0| 
 | 20201021T06:34:47Z | Thoron Framework is a Linux post-exploitation framework that exploits Linux TCP vulnerability to provide a shell-like connection. Thoron Framework has the ability to create simple payloads to provide Linux TCP attack. | https://github.com/EntySec/thoron | 76 | 27| 
 | 20201021T05:56:34Z | This tool will create backdoor | https://github.com/krishpranav/Backdoorcreator | 2 | 1| 
-| 20201021T05:00:05Z | Final code of the Input-aware Backdoor Attack | https://github.com/VinAIResearch/input-aware-backdoor-attack-release | 6 | 1| 
-| 20201021T01:07:42Z | Tool to find potential backdoor/security holes in your endpoint | https://github.com/subasgit/backdoorfinder | 1 | 0| 
-| 20201020T16:05:35Z | Null | https://github.com/dheeraj7596/NlpBackdoor | 0 | 0| 
-| 20201020T15:01:52Z | Null | https://github.com/laurobmb/backdoor_linux | 0 | 0| 
 
 
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20201021T12:58:56Z | RcppDeepState, a simple way to fuzz test code in Rcpp packages | https://github.com/akhikolla/RcppDeepState | 0 | 0| 
-| 20201021T12:56:13Z | Potentially dangerous files | https://github.com/Bo0oM/fuzz.txt | 1284 | 234| 
-| 20201021T12:50:26Z | Here are example files of dockerized_fuzzing, including compiled binaries and outputs | https://github.com/unifuzz/dockerized_fuzzing_examples | 3 | 1| 
-| 20201021T12:45:52Z | Null | https://github.com/exarchou/Fuzzy-Systems | 0 | 0| 
-| 20201021T12:37:44Z | For a relaxing time | https://github.com/henrik716/fuzzy-fiesta | 0 | 0| 
-| 20201021T12:33:30Z | FIRM-AFL is the first high-throughput greybox fuzzer for IoT firmware.  | https://github.com/zyw-200/FirmAFL | 195 | 45| 
-| 20201021T12:25:34Z | Run fuzzing experiments in Docker | https://github.com/zjuchenyuan/dockerized_fuzzing | 38 | 5| 
-| 20201021T12:09:54Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 3188 | 735| 
-| 20201021T11:58:17Z | fuzzy matching everywhere | https://github.com/amirrezaask/fuzzy.nvim | 18 | 0| 
-| 20201021T11:38:52Z | A JavaScript Engine Fuzzer | https://github.com/googleprojectzero/fuzzilli | 1055 | 176| 
+| 20201021T23:59:41Z | Scalable fuzzing infrastructure. | https://github.com/google/clusterfuzz | 4351 | 395| 
+| 20201021T23:53:59Z | Null | https://github.com/exarchou/Fuzzy-Systems | 0 | 0| 
+| 20201021T23:49:05Z | A plugin based fuzzer | https://github.com/elast0ny/CROWDFUZZ | 2 | 0| 
+| 20201021T23:23:48Z | Null | https://github.com/javiercarpio57/fuzzy_logic | 0 | 0| 
+| 20201021T23:13:52Z | Null | https://github.com/googleinterns/hw-fuzzing | 2 | 0| 
+| 20201021T22:54:14Z | saphIR is an Intermediate Representation with amd64 and arm64 backends. Also included: a compiler, an arm64 lifter, an arm64 to amd64 dynamic binary translator, and a fuzzer. | https://github.com/balayette/saphIR-project | 16 | 0| 
+| 20201021T22:54:01Z | Fuzzy matching publications for fatcat (wip). | https://github.com/miku/fuzzycat | 0 | 0| 
+| 20201021T22:29:41Z | Fast web fuzzer written in Go | https://github.com/ffuf/ffuf | 3163 | 363| 
+| 20201021T21:38:07Z | all manner of wordlists | https://github.com/thelikes/fuzzmost | 4 | 8| 
+| 20201021T21:12:22Z | Fuzzy matching for Neovim | https://github.com/amirrezaask/fuzzy.nvim | 18 | 0| 
 
 
 
