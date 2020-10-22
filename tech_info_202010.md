@@ -50,10 +50,10 @@
 | 20201021T21:34:29Z | CVE-2020-16898 | CVE-2020-16898 (Bad Neighbor) Microsoft Windows TCP/IP Vulnerability Detection Logic and Rule | https://github.com/advanced-threat-research/CVE-2020-16898 | 当Windows TCP / IP堆栈不正确地处理ICMPv6路由器播发数据包（也称为“ Windows TCP / IP远程执行代码漏洞”）时，存在一个远程执行代码漏洞。| 
 | 20201021T17:45:24Z | CVE-2020-16898 | Check all Network Interfaces for CVE-2020-16898 Vulnerability | https://github.com/CPO-EH/CVE-2020-16898_Checker | 当Windows TCP / IP堆栈不正确地处理ICMPv6路由器播发数据包（也称为“ Windows TCP / IP远程执行代码漏洞”）时，存在一个远程执行代码漏洞。| 
 | 20201021T17:26:57Z | CVE-2020-1472 | Test tool for CVE-2020-1472 | https://github.com/SecuraBV/CVE-2020-1472 | 当攻击者使用Netlogon远程协议（MS-NRPC）（又称为“ Netlogon特权提升漏洞”）建立与域控制器的易受攻击的Netlogon安全通道连接时，将存在特权提升漏洞。| 
-| 20201021T16:45:04Z | CVE-2020-16898 | PowerShell Script Workaround for VCE-220-16898 Vulnerability | https://github.com/CPO-EH/CVE-2020-16898_Workaround | 当Windows TCP / IP堆栈不正确地处理ICMPv6路由器播发数据包（也称为“ Windows TCP / IP远程执行代码漏洞”）时，存在一个远程执行代码漏洞。| 
+| 20201021T16:45:04Z | CVE-2020-16898 | PowerShell Script Workaround for VCE-220-16898 Vulnerability | https://github.com/CPO-EH/CVE-2020-16898_Workaround | | 
 | 20201021T13:50:04Z | CVE-2020-14645 | Null | https://github.com/HYWZ36/CVE-2020-14645-code | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
 | 20201021T09:42:48Z | CVE-2020-1472 | Null | https://github.com/puckiestyle/CVE-2020-1472 | 当攻击者使用Netlogon远程协议（MS-NRPC）（又称为“ Netlogon特权提升漏洞”）建立与域控制器的易受攻击的Netlogon安全通道连接时，将存在特权提升漏洞。| 
-| 20201021T09:41:31Z | CVE-2020-16898 | Null | https://github.com/momika233/CVE-2020-16898-exp | | 
+| 20201021T09:41:31Z | CVE-2020-16898 | Null | https://github.com/momika233/CVE-2020-16898-exp | 当Windows TCP / IP堆栈不正确地处理ICMPv6路由器播发数据包（也称为“ Windows TCP / IP远程执行代码漏洞”）时，存在一个远程执行代码漏洞。| 
 | 20201021T06:51:18Z | CVE-2020-25540 | ThinkAdmin CVE-2020-25540 poc | https://github.com/ChaoYangDongYongGuaiGe/CVE-2020-25540 | ThinkAdmin v6受到目录遍历漏洞的影响。未经授权的攻击者可以通过GET request编码参数任意读取远程服务器上的文件。| 
 | 20201021T06:45:23Z | CVE-2020-16898 | CVE-2020-16898 Windows TCP/IP远程代码执行漏洞 EXP&POC | https://github.com/komomon/CVE-2020-16898 | 当Windows TCP / IP堆栈不正确地处理ICMPv6路由器播发数据包（也称为“ Windows TCP / IP远程执行代码漏洞”）时，存在一个远程执行代码漏洞。| 
 
