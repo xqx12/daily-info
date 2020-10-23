@@ -19,13 +19,13 @@
 | 20201022 | ODAT - 针对 Oracle 数据库的开源渗透测试工具 | https://sec.today/pulses/162ac386-bea7-44ca-acee-b565268a19fd/| 
 | 20201022 | Spring Boot 框架多个 RCE 漏洞分析 | https://github.com/pyn3rd/Spring-Boot-Vulnerability| 
 | 20201022 | ODAT - 针对 Oracle 数据库的开源渗透测试工具 | https://github.com/quentinhardy/odat| 
+| 20201022 | 利用Rubeus PTT攻击对滥用RDP服务器用户远程凭据保护存在安全威胁。 | https://www.pentestpartners.com/security-blog/abusing-rdps-remote-credential-guard-with-rubeus-ptt/| 
 | 20201021 | 渗透测试中如何隐藏自己的 Windows 服务 | https://www.sans.org/blog/red-team-tactics-hiding-windows-services/| 
 | 20201021 | 利用 LD_AUDIT 检测 Linux Library Preloading 技术 | https://labs.sentinelone.com/leveraging-ld_audit-to-beat-the-traditional-linux-library-preloading-technique/| 
 | 20201021 | Abusing pipelines to hijack production | https://flangvik.com/azure/devops/privesc/abuse/2020/10/15/from-pipeline-to-production.html| 
 | 20201021 | HackerOne 平台 10 个密码重置漏洞案例 | https://www.anugrahsr.me/posts/10-Password-reset-flaws/| 
 | 20201021 | There’s A Hole In Your SoC - MediaTek SOC 芯片电压级别的攻击 | https://research.nccgroup.com/2020/10/15/theres-a-hole-in-your-soc-glitching-the-mediatek-bootrom/| 
 | 20201021 | HackerOne 最近公开了几个 GitLab 的漏洞的分析 | https://mp.weixin.qq.com/s/m8AZuqXgGGitcwsP4l-sVQ| 
-| 20201021 | Adobe 修复涉及 Illustrator 等多个产品的 16 个高危漏洞 | https://threatpost.com/adobe-critical-code-execution-bugs/160369/| 
 
 
 # 安全维基 推荐
@@ -46,21 +46,22 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20201022T12:46:11Z | CVE-2020-16938 | Bypassing NTFS permissions to read any files as unprivileged user. | https://github.com/ioncodes/CVE-2020-16938 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 01 MINUTES 26 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20201022T10:05:59Z | CVE-2020-10238 | CVE-2020-10238: Incorrect Access Control in com_templates PoC | https://github.com/HoangKien1020/CVE-2020-10238 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 01 MINUTES 10 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20201022T09:56:07Z | CVE-2020-16947 | PoC of CVE-2020-16947 (Microsoft Outlook RCE vulnerablility) | https://github.com/0neb1n/CVE-2020-16947 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 01 MINUTES 15 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20201022T08:51:46Z | CVE-2020-1472 | Test tool for CVE-2020-1472 | https://github.com/SecuraBV/CVE-2020-1472 | | 
+| 20201022T23:22:44Z | CVE-2020-16938 | Bypassing NTFS permissions to read any files as unprivileged user. | https://github.com/ioncodes/CVE-2020-16938 | | 
+| 20201022T21:12:06Z | CVE-2020-16898 | Zeek detection for CVE-2020-16898-"Bad Neighbor" | https://github.com/initconf/CVE-2020-16898-Bad-Neighbor | 当Windows TCP / IP堆栈不正确地处理ICMPv6路由器播发数据包（也称为“ Windows TCP / IP远程执行代码漏洞”）时，存在一个远程执行代码漏洞。| 
+| 20201022T18:54:40Z | CVE-2020-16947 | PoC of CVE-2020-16947 (Microsoft Outlook RCE vulnerablility) | https://github.com/0neb1n/CVE-2020-16947 | 当该软件无法正确处理内存中的对象时，Microsoft Outlook软件中便存在一个远程执行代码漏洞，也就是“ Microsoft Outlook远程执行代码漏洞”。| 
+| 20201022T18:17:50Z | CVE-2020-1472 | Test tool for CVE-2020-1472 | https://github.com/SecuraBV/CVE-2020-1472 | 当攻击者使用Netlogon远程协议（MS-NRPC）（又称为“ Netlogon特权提升漏洞”）建立与域控制器的易受攻击的Netlogon安全通道连接时，将存在特权提升漏洞。| 
+| 20201022T17:33:48Z | CVE-2020-16898 | CVE-2020-16898 (Bad Neighbor) Microsoft Windows TCP/IP Vulnerability Detection Logic and Rule | https://github.com/advanced-threat-research/CVE-2020-16898 | 当Windows TCP / IP堆栈不正确地处理ICMPv6路由器播发数据包（也称为“ Windows TCP / IP远程执行代码漏洞”）时，存在一个远程执行代码漏洞。| 
+| 20201022T15:22:30Z | CVE-2020-16898 | A network detection package for CVE-2020-16898 (Windows TCP/IP Remote Code Execution Vulnerability) | https://github.com/corelight/CVE-2020-16898 | 当Windows TCP / IP堆栈不正确地处理ICMPv6路由器播发数据包（也称为“ Windows TCP / IP远程执行代码漏洞”）时，存在一个远程执行代码漏洞。| 
+| 20201022T10:05:59Z | CVE-2020-10238 | CVE-2020-10238: Incorrect Access Control in com_templates PoC | https://github.com/HoangKien1020/CVE-2020-10238 | 在Joomla中发现了一个问题！ 3.9.16之前。 com_templates中的各种操作缺少必需的ACL检查，从而导致各种潜在的攻击媒介。| 
 | 20201022T07:31:50Z | CVE-2020-27199 | Null | https://github.com/9lyph/CVE-2020-27199 | 未查询到CVE信息| 
-| 20201022T03:38:14Z | CVE-2020-15931 | Netwrix Account Lockout Examiner 4.1 Domain Admin Account Credential Disclosure Vulnerability | https://github.com/optiv/CVE-2020-15931 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 01 MINUTES 12 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201022T03:38:14Z | CVE-2020-15931 | Netwrix Account Lockout Examiner 4.1 Domain Admin Account Credential Disclosure Vulnerability | https://github.com/optiv/CVE-2020-15931 | 5.1之前的Netwrix帐户锁定检查器允许远程攻击者通过生成单个Kerberos预身份验证失败（ID 4771）事件来捕获Domain Administrator的Net-NTLMv1 / v2身份验证质询哈希（在产品中以其安装状态进行配置）在域控制器上。| 
 | 20201022T01:16:45Z | CVE-2020-14645 | Null | https://github.com/HYWZ36/CVE-2020-14645-code | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
-| 20201022T00:39:03Z | CVE-2020-16898 | CVE-2020-16898 (Bad Neighbor) Microsoft Windows TCP/IP Vulnerability Detection Logic and Rule | https://github.com/advanced-threat-research/CVE-2020-16898 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 01 MINUTES 13 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20201021T17:45:24Z | CVE-2020-16898 | Check all Network Interfaces for CVE-2020-16898 Vulnerability | https://github.com/CPO-EH/CVE-2020-16898_Checker | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 01 MINUTES 16 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20201021T16:45:04Z | CVE-2020-16898 | PowerShell Script Workaround for VCE-220-16898 Vulnerability | https://github.com/CPO-EH/CVE-2020-16898_Workaround | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 01 MINUTES 16 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20201022T22:45:02Z | Create CFGs and compute complexity metrics for Python, C++, and Java code. | https://github.com/hmc-alpaqa/metrinome | 4 | 0| 
 | 20201022T02:03:43Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1527 | 466| 
 | 20201021T16:32:26Z | RVT is a collection of tools/libraries to support both static and dynamic verification of Rust programs. | https://github.com/project-oak/rust-verification-tools | 90 | 5| 
 | 20201020T15:59:34Z | Urban Evidence Based Policy (SPPA667) | https://github.com/KLeeDE/PUS2020_KLee | 0 | 1| 
@@ -68,7 +69,6 @@
 | 20201020T10:49:45Z | One place for all of my workshops | https://github.com/kleenxcoder/kleenxcoder-workshops | 0 | 0| 
 | 20201019T18:46:52Z | Website for the KLEE project: https://klee.github.io/ | https://github.com/klee/klee.github.io | 13 | 43| 
 | 20201019T08:20:08Z | Symbiotic is a tool for finding bugs in computer programs based on instrumentation, program slicing and KLEE | https://github.com/staticafi/symbiotic | 199 | 33| 
-| 20201018T20:15:58Z | Create CFGs and compute complexity metrics for Python, C++, and Java code. | https://github.com/hmc-alpaqa/metrinome | 4 | 0| 
 | 20201017T20:08:09Z | Null | https://github.com/raynard2/SwiftKleen | 0 | 0| 
 | 20201017T13:50:45Z | Hommage à %Hommage à Paul Klee% | https://github.com/dmitric/klee | 11 | 1| 
 
@@ -86,46 +86,46 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20201022T12:51:17Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 8435 | 1287| 
-| 20201022T12:48:43Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 5 | 3| 
-| 20201022T12:40:28Z | Null | https://github.com/Ahendall/AhendallExploiting | 1 | 0| 
-| 20201022T12:32:59Z | Curated list of links, references, books videos, tutorials (Free or Paid), Exploit, CTFs, Hacking Practices etc. which are related to AWS Security | https://github.com/jassics/awesome-aws-security | 67 | 19| 
-| 20201022T12:11:13Z | Unicorn Framework is a Linux post-exploitation framework that exploits Linux TCP vulnerability to get interactive shell connection with a lot of features such as downloading files, uploading files, getting system information and etc. | https://github.com/EntySec/unicorn | 1 | 1| 
-| 20201022T11:54:27Z | Null | https://github.com/Paulin-Zumstein/td3-systemeExploitation | 1 | 0| 
-| 20201022T11:54:12Z | AD Enum is a pentesting tool that allows to find misconfiguration through the the protocol LDAP and exploit some of those weaknesses with kerberos. | https://github.com/SecuProject/ADenum | 4 | 0| 
-| 20201022T11:42:34Z | CUDA application that uses multiple GPUs to compute matrix-matrix multiplication. The matrix is tiled to run from 1 to 8 devices. This code was part of my Bachelor thesis: %A Study on the Computational Exploitation of Remote Virtualized Graphics Cards% (https://bit.ly/37tIG0D) | https://github.com/ChristosMatzoros/CUDA-MultiGPU-Tiled-Matrix-Multiplication-using-CUDA-Streams | 0 | 0| 
-| 20201022T11:30:52Z | Shared library for intercepting CUDA Runtime API calls. This was part of my Bachelor thesis: A Study on the Computational Exploitation of Remote Virtualized Graphics Cards (https://bit.ly/37tIG0D) | https://github.com/ChristosMatzoros/CUDA-Runtime-API-calls-interception | 0 | 0| 
-| 20201022T11:23:37Z | Python3 Веб-сервер с эксплоитом для PS4 с прошивкой 6.72   | https://github.com/StepanovPlaton/PyServer_with_PS4_Exploit_v6.72 | 0 | 0| 
+| 20201022T23:42:44Z | A phased, evasive Path Traversal + LFI scanning & exploitation tool in Python | https://github.com/VainlyStrain/Vailyn | 58 | 1| 
+| 20201022T23:38:32Z | This is a study project which aims to implement an application that help constructing and exploiting Semantic networks in java  | https://github.com/averroes96/SemanticNetwork | 0 | 0| 
+| 20201022T23:35:12Z |  :hatched_chick: :hatched_chick: :hatched_chick:   A very quickly script for rubber ducky which exploits the gatherNetworkInfo.vbs file in the C: \ Windows \ System32 folder to steal different information from the victim machine. It Requires twin Duck Firmware    :hatched_chick: :hatched_chick: :hatched_chick: | https://github.com/JonnyBanana/Rubber_Ducky_Gather_Network_Info | 12 | 6| 
+| 20201022T23:34:47Z |  A Python script for Codebug that which exploits the Coindesk and Bitstamp API (V2 and v2)  to display the price of Bitcoins in real time on the codebug led display. The price is in dollars. | https://github.com/JonnyBanana/Codebug_BTC_RealTime_Price | 11 | 3| 
+| 20201022T23:34:07Z | Collection of Multi-platform Scripts for Rubber Ducky that exploit the css webkit filter attack to crash Internet Explorer, Edge or Safari, crashing the target machine Compatibility: Windows - MacOs - Linux (Ubuntu) | https://github.com/JonnyBanana/DUCKY_REAPER | 9 | 10| 
+| 20201022T23:33:10Z | Unfinished/Practice/Roblox Exploiting Scripts | https://github.com/yogurtsss/Practice-Projects- | 0 | 0| 
+| 20201022T23:31:10Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 8436 | 1287| 
+| 20201022T23:28:34Z | A Simple Script for Rubber Ducky which Exploits Windows $MFT Vulnerability | https://github.com/JonnyBanana/-MFT-Duck-Crasher | 12 | 9| 
+| 20201022T23:26:24Z | This package, written in php, can scan PHP files and analyze your project for find malicious code inside it. It provides a text terminal console interface to scan files in a given directory and find PHP code files the seem to contain malicious code. | https://github.com/marcocesarato/PHP-Antimalware-Scanner | 127 | 27| 
+| 20201022T22:41:47Z | Null | https://github.com/caddickzac/Motivated-Reasoning-in-a-Causal-Explore-Exploit-Task | 0 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20201022T12:11:13Z | Unicorn Framework is a Linux post-exploitation framework that exploits Linux TCP vulnerability to get interactive shell connection with a lot of features such as downloading files, uploading files, getting system information and etc. | https://github.com/EntySec/unicorn | 1 | 1| 
-| 20201022T11:39:22Z | Repository for all the code related to Learn Python & Ethical Hacking From Scratch course. All the work is done on Kali Linux, using both Python 2.7 and 3.x version. | https://github.com/Maffey/ethical-hacking-course | 0 | 0| 
-| 20201022T11:26:29Z | Hacking tools pack & backdoors generator. | https://github.com/AdrMXR/KitHack | 206 | 45| 
-| 20201022T09:55:50Z | Code for %On the Trade-off between Adversarial and Backdoor Robustness% (NIPS 2020) | https://github.com/nthu-datalab/On.the.Trade-off.between.Adversarial.and.Backdoor.Robustness | 0 | 0| 
-| 20201022T09:11:27Z | Ghost Framework is an Android post-exploitation framework that exploits the Android Debug Bridge to remotely access an Android device. Ghost Framework gives you the power and convenience of remote Android device administration. | https://github.com/EntySec/ghost | 758 | 388| 
-| 20201022T07:43:52Z | Null | https://github.com/tigerk00/backdoor | 0 | 0| 
-| 20201022T05:27:47Z | Eficaz herramienta capaz de inyectar un backdoor a casi cualquier app Android actual | https://github.com/yaxter/BACKDROID | 1 | 0| 
-| 20201021T23:00:33Z | Official Repository for the CVPR 2020 paper %Universal Litmus Patterns: Revealing Backdoor Attacks in CNNs% | https://github.com/UMBCvision/Universal-Litmus-Patterns | 12 | 1| 
-| 20201021T22:58:35Z | Python Backdoor Searcher | https://github.com/edgardokrause/PBS | 0 | 0| 
-| 20201021T21:36:38Z | Null | https://github.com/nightowllx/zeus_backdoor | 0 | 0| 
+| 20201022T23:26:24Z | This package, written in php, can scan PHP files and analyze your project for find malicious code inside it. It provides a text terminal console interface to scan files in a given directory and find PHP code files the seem to contain malicious code. | https://github.com/marcocesarato/PHP-Antimalware-Scanner | 127 | 27| 
+| 20201022T22:31:04Z | A sample app to demonstrate how to create Xamarin UITests using the Page Object architecture, Backdoor Methods and App Links (aka Deep Linking) | https://github.com/brminnick/UITestSampleApp | 29 | 25| 
+| 20201022T22:26:03Z | Tool to find potential backdoor/security holes in your endpoint | https://github.com/subasgit/backdoorfinder | 1 | 0| 
+| 20201022T21:56:56Z | Backdoor is a standalone browser based code editor that operates on a LASP (Linux, Apache, SQLite, PHP) server, providing all basic development tools and more. | https://github.com/RecaMedia/Backdoor | 6 | 2| 
+| 20201022T21:54:29Z | This is a ready to go compiled version of BKDR (Backdoor in-browser code editor). To access the development version of Backdoor, and would like to contribute to the development, please visit https://github.com/RecaMedia/Backdoor. | https://github.com/RecaMedia/Backdoor-Release | 9 | 6| 
+| 20201022T19:28:29Z | Null | https://github.com/nightowllx/zeus_backdoor | 0 | 0| 
+| 20201022T19:04:32Z | Eficaz herramienta capaz de inyectar un backdoor a casi cualquier app Android actual | https://github.com/yaxter/BACKDROID | 1 | 0| 
+| 20201022T18:34:11Z | Unicorn Framework is a Linux post-exploitation framework that exploits Linux TCP vulnerability to get interactive shell connection with a lot of features such as downloading files, uploading files, getting system information and etc. | https://github.com/EntySec/unicorn | 2 | 1| 
+| 20201022T18:13:48Z | An advanced reverse shell written in Python3. | https://github.com/sayak-brm/ShellBot | 11 | 5| 
+| 20201022T18:09:35Z | Ghost Framework is an Android post-exploitation framework that exploits the Android Debug Bridge to remotely access an Android device. Ghost Framework gives you the power and convenience of remote Android device administration. | https://github.com/EntySec/ghost | 759 | 389| 
 
 
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20201022T12:56:32Z | sistem cerdas dengan menggunakan logika fuzzy  | https://github.com/waodezalmawati/logika-fuzzy | 0 | 0| 
-| 20201022T12:55:15Z | Null | https://github.com/7evy/Fuzzy_Queries | 0 | 0| 
-| 20201022T12:45:21Z | The repository contains codes for performing fuzzy map comparison. | https://github.com/beatriznegreiros/fuzzycorr | 1 | 0| 
-| 20201022T12:38:00Z | Write unit and fuzz tests for Elm code. | https://github.com/elm-explorations/test | 185 | 26| 
-| 20201022T11:54:37Z | mongoose plugin for fuzzy search | https://github.com/lorenzofox3/mongoose-fuzzy-search | 0 | 0| 
-| 20201022T11:53:47Z | The Book %Generating Software Tests% | https://github.com/uds-se/fuzzingbook | 426 | 87| 
-| 20201022T11:15:55Z | 御剑目录扫描专业版，简单实用的命令行网站目录扫描工具，支持爬虫、fuzz、自定义字典、字典变量、UA修改、假404自动过滤、扫描控速等功能。 | https://github.com/foryujian/yjdirscan | 89 | 17| 
-| 20201022T10:55:03Z | For a relaxing time | https://github.com/henrik716/fuzzy-fiesta | 0 | 0| 
-| 20201022T10:49:22Z | Definitely not for fuzzing | https://github.com/gamozolabs/freetype_harness | 4 | 0| 
-| 20201022T10:47:08Z | Simple fuzzer for OpenAPI 3 specification based APIs | https://github.com/vwt-digital/openapi3-fuzzer | 2 | 0| 
+| 20201022T23:58:43Z | saphIR is an Intermediate Representation with amd64 and arm64 backends. Also included: a compiler, an arm64 lifter, an arm64 to amd64 dynamic binary translator, and a fuzzer. | https://github.com/balayette/saphIR-project | 17 | 0| 
+| 20201022T23:50:10Z | Scalable fuzzing infrastructure. | https://github.com/google/clusterfuzz | 4351 | 395| 
+| 20201022T23:44:19Z | OSS-Fuzz - continuous fuzzing of open source software. | https://github.com/google/oss-fuzz | 5607 | 1106| 
+| 20201022T23:42:35Z | Fuzzy matching for Neovim | https://github.com/amirrezaask/fuzzy.nvim | 18 | 0| 
+| 20201022T23:14:02Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2167 | 104| 
+| 20201022T22:53:31Z | A plugin based fuzzer | https://github.com/elast0ny/CROWDFUZZ | 2 | 0| 
+| 20201022T22:35:02Z | Unsupervised coverage-guided btrfs fuzzer | https://github.com/danobi/btrfs-fuzz | 0 | 0| 
+| 20201022T21:56:14Z | Code for fuzzy monkeys. | https://github.com/fuzzyatelin/fuzzyatelin.github.io | 3 | 9| 
+| 20201022T21:01:17Z | repo of scripts | https://github.com/johanvargas/fuzzy-projects | 0 | 0| 
+| 20201022T21:00:20Z | fuzzyset.js - A fuzzy string set for javascript | https://github.com/Glench/fuzzyset.js | 1142 | 93| 
 
 
 
