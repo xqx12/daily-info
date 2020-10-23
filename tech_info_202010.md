@@ -86,31 +86,31 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20201023T01:51:04Z | Null | https://github.com/powerpow09/bcvs-exploits | 0 | 0| 
-| 20201023T01:43:42Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 8437 | 1288| 
-| 20201023T01:32:46Z | :palm_tree:Windows exploits提权漏洞合集，附带编译环境，演示GIF图，漏洞详细信息，可执行文件 | https://github.com/Ascotbe/Kernelhub | 515 | 85| 
-| 20201023T00:55:43Z | A phased, evasive Path Traversal + LFI scanning & exploitation tool in Python | https://github.com/VainlyStrain/Vailyn | 58 | 1| 
-| 20201023T00:51:54Z | An attack/exploit Detector that utilizes Polymorphism and Diversity | https://github.com/polyverse/zerotect | 17 | 1| 
-| 20201023T00:48:43Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 5 | 3| 
-| 20201023T00:42:00Z | Null | https://github.com/quentin452/Cats-Exploitz-HUB | 0 | 1| 
-| 20201022T23:38:32Z | This is a study project which aims to implement an application that help constructing and exploiting Semantic networks in java  | https://github.com/averroes96/SemanticNetwork | 0 | 0| 
-| 20201022T23:35:12Z |  :hatched_chick: :hatched_chick: :hatched_chick:   A very quickly script for rubber ducky which exploits the gatherNetworkInfo.vbs file in the C: \ Windows \ System32 folder to steal different information from the victim machine. It Requires twin Duck Firmware    :hatched_chick: :hatched_chick: :hatched_chick: | https://github.com/JonnyBanana/Rubber_Ducky_Gather_Network_Info | 12 | 6| 
-| 20201022T23:34:47Z |  A Python script for Codebug that which exploits the Coindesk and Bitstamp API (V2 and v2)  to display the price of Bitcoins in real time on the codebug led display. The price is in dollars. | https://github.com/JonnyBanana/Codebug_BTC_RealTime_Price | 11 | 3| 
+| 20201023T12:01:17Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 3108 | 473| 
+| 20201023T11:57:41Z | Null | https://github.com/ColdFusionX/ColdFusionX.github.io | 0 | 0| 
+| 20201023T11:35:14Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 8438 | 1289| 
+| 20201023T11:29:45Z | An exploit is a piece of software, a chunk of data, or a sequence of commands that takes advantage of a bug or vulnerability to cause unintended or unanticipated behavior to occur on computer software, hardware, or something electronic | https://github.com/shanx48/exploit | 0 | 1| 
+| 20201023T11:15:13Z | Unicorn Framework is a Linux post-exploitation framework that exploits Linux TCP vulnerability to get interactive shell connection with a lot of features such as downloading files, uploading files, getting system information and etc. | https://github.com/EntySec/unicorn | 4 | 1| 
+| 20201023T10:45:26Z | Vulmap是一款漏洞扫描工具，可对Web容器、Web服务器、Web中间件以及CMS等Web程序进行漏洞扫描，并且具备漏洞利用功能。 相关测试人员可以使用vulmap检测目标是否存在特定漏洞，并且可以使用漏洞利用功能验证漏洞是否真实存在。 | https://github.com/zhzyker/vulmap | 266 | 46| 
+| 20201023T10:25:26Z | libc_database python wrapper for exploit automation | https://github.com/Neetx/pylibcdb | 0 | 0| 
+| 20201023T09:48:24Z | Resources for the generation and exploitation of the KG - Drugs4Covid  | https://github.com/oeg-upm/drugs4covid19-kg | 1 | 1| 
+| 20201023T09:46:01Z | A demo of how a bad Content Security Policy (CSP) can exacerbate a XSS vulnerability | https://github.com/brightonsbox/xss-csp-exploit-example | 0 | 0| 
+| 20201023T09:34:42Z | Writeup of CVE-2020-15906 | https://github.com/S1lkys/CVE-2020-15906 | 2 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20201023T01:10:11Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 74 | 9| 
-| 20201022T23:26:24Z | This package, written in php, can scan PHP files and analyze your project for find malicious code inside it. It provides a text terminal console interface to scan files in a given directory and find PHP code files the seem to contain malicious code. | https://github.com/marcocesarato/PHP-Antimalware-Scanner | 127 | 27| 
+| 20201023T11:31:10Z | Code repository for dynamic backdoor attacks on NLP tasks | https://github.com/HaojiXu/dynamic-backdoor-language-attack | 0 | 0| 
+| 20201023T11:22:09Z | PHP后门检测POC | https://github.com/Du4t/Phpstudy_backdoor | 0 | 0| 
+| 20201023T11:15:13Z | Unicorn Framework is a Linux post-exploitation framework that exploits Linux TCP vulnerability to get interactive shell connection with a lot of features such as downloading files, uploading files, getting system information and etc. | https://github.com/EntySec/unicorn | 4 | 1| 
+| 20201023T11:03:02Z | Full-featured C2 framework which silently persists on webserver with a single-line PHP backdoor | https://github.com/nil0x42/phpsploit | 1057 | 318| 
+| 20201023T09:33:21Z | Null | https://github.com/Adk2001tech/Biometric-Backdoors | 1 | 0| 
+| 20201023T08:12:59Z | This package, written in php, can scan PHP files and analyze your project for find malicious code inside it. It provides a text terminal console interface to scan files in a given directory and find PHP code files the seem to contain malicious code. | https://github.com/marcocesarato/PHP-Antimalware-Scanner | 129 | 27| 
+| 20201023T05:57:31Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 76 | 9| 
 | 20201022T22:31:04Z | A sample app to demonstrate how to create Xamarin UITests using the Page Object architecture, Backdoor Methods and App Links (aka Deep Linking) | https://github.com/brminnick/UITestSampleApp | 29 | 25| 
 | 20201022T22:26:03Z | Tool to find potential backdoor/security holes in your endpoint | https://github.com/subasgit/backdoorfinder | 1 | 0| 
 | 20201022T21:56:56Z | Backdoor is a standalone browser based code editor that operates on a LASP (Linux, Apache, SQLite, PHP) server, providing all basic development tools and more. | https://github.com/RecaMedia/Backdoor | 6 | 2| 
-| 20201022T21:54:29Z | This is a ready to go compiled version of BKDR (Backdoor in-browser code editor). To access the development version of Backdoor, and would like to contribute to the development, please visit https://github.com/RecaMedia/Backdoor. | https://github.com/RecaMedia/Backdoor-Release | 9 | 6| 
-| 20201022T19:28:29Z | Null | https://github.com/nightowllx/zeus_backdoor | 0 | 0| 
-| 20201022T19:04:32Z | Eficaz herramienta capaz de inyectar un backdoor a casi cualquier app Android actual | https://github.com/yaxter/BACKDROID | 1 | 0| 
-| 20201022T18:34:11Z | Unicorn Framework is a Linux post-exploitation framework that exploits Linux TCP vulnerability to get interactive shell connection with a lot of features such as downloading files, uploading files, getting system information and etc. | https://github.com/EntySec/unicorn | 2 | 1| 
-| 20201022T18:13:48Z | An advanced reverse shell written in Python3. | https://github.com/sayak-brm/ShellBot | 11 | 5| 
 
 
 # fuzz on Github 推荐
