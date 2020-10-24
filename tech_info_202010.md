@@ -53,8 +53,8 @@
 | 20201023T16:01:47Z | 未知编号 | Null | https://github.com/kursataker/cve303_fall_2020 | 未查询到CVE信息| 
 | 20201023T09:13:05Z | CVE-2020-16947 | PoC of CVE-2020-16947 (Microsoft Outlook RCE vulnerablility) | https://github.com/0neb1n/CVE-2020-16947 | 当该软件无法正确处理内存中的对象时，Microsoft Outlook软件中便存在一个远程执行代码漏洞，也就是“ Microsoft Outlook远程执行代码漏洞”。| 
 | 20201023T08:17:18Z | 未知编号 | 2020l4web-typography-css-library-DanCvejn created by GitHub Classroom | https://github.com/pslib-cz/2020l4web-typography-css-library-DanCvejn | 未查询到CVE信息| 
-| 20201023T00:45:26Z | CVE-2020-27199 | Null | https://github.com/9lyph/CVE-2020-27199 | 未查询到CVE信息| 
-| 20201022T21:12:06Z | CVE-2020-16898 | Zeek detection for CVE-2020-16898-"Bad Neighbor" | https://github.com/initconf/CVE-2020-16898-Bad-Neighbor | | 
+| 20201023T00:45:26Z | CVE-2020-27199 | Null | https://github.com/9lyph/CVE-2020-27199 | | 
+| 20201022T21:12:06Z | CVE-2020-16898 | Zeek detection for CVE-2020-16898-"Bad Neighbor" | https://github.com/initconf/CVE-2020-16898-Bad-Neighbor | 当Windows TCP / IP堆栈不正确地处理ICMPv6路由器播发数据包（也称为“ Windows TCP / IP远程执行代码漏洞”）时，存在一个远程执行代码漏洞。| 
 | 20201022T17:33:48Z | CVE-2020-16898 | CVE-2020-16898 (Bad Neighbor) Microsoft Windows TCP/IP Vulnerability Detection Logic and Rule | https://github.com/advanced-threat-research/CVE-2020-16898 | 当Windows TCP / IP堆栈不正确地处理ICMPv6路由器播发数据包（也称为“ Windows TCP / IP远程执行代码漏洞”）时，存在一个远程执行代码漏洞。| 
 
 
@@ -86,6 +86,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20201024T00:03:01Z | Alat eksploitasi untuk tanam shell | https://github.com/Mr-XxX01/Tools-exploit-superstorefinder | 0 | 0| 
 | 20201023T23:40:38Z | A collection of curated resources and CVEs I use for research. | https://github.com/drtychai/browser-exploitation | 15 | 3| 
 | 20201023T23:35:27Z | anarchy type beat | https://github.com/not-ilinked/VC-lag-exploit | 9 | 2| 
 | 20201023T23:32:54Z | notes about 🔍 Reverse Engineering and 🔥 Exploit Development | https://github.com/bmedicke/REED | 2 | 1| 
@@ -95,22 +96,21 @@
 | 20201023T21:27:37Z | windows and linux streams for post exploitation | https://github.com/kymb0/post_exploitation | 1 | 0| 
 | 20201023T20:57:48Z | WYSIWYG: Exploiting Visibility for 3D Object Detection, CVPR 2020 (Oral) | https://github.com/peiyunh/wysiwyg | 48 | 10| 
 | 20201023T20:54:51Z | Null | https://github.com/caddickzac/Motivated-Reasoning-in-a-Causal-Explore-Exploit-Task | 0 | 0| 
-| 20201023T20:54:12Z | A phased, evasive Path Traversal + LFI scanning & exploitation tool in Python | https://github.com/VainlyStrain/Vailyn | 58 | 1| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20201023T12:42:47Z | Full-featured C2 framework which silently persists on webserver with a single-line PHP backdoor | https://github.com/nil0x42/phpsploit | 1058 | 318| 
+| 20201023T21:07:30Z | Simple mini backdoor in Perl | https://github.com/Exo-poulpe/MiniBackDoor | 1 | 0| 
+| 20201023T20:22:19Z | Full-featured C2 framework which silently persists on webserver with a single-line PHP backdoor | https://github.com/nil0x42/phpsploit | 1057 | 318| 
+| 20201023T19:55:12Z | Unicorn Framework is a Linux post-exploitation framework that exploits Linux TCP vulnerability to get interactive shell connection with a lot of features such as downloading files, uploading files, getting system information and etc. | https://github.com/EntySec/unicorn | 4 | 1| 
+| 20201023T17:32:08Z | Null | https://github.com/Lin1337/docker-msf-backdoor | 0 | 0| 
+| 20201023T16:42:33Z | Eficaz herramienta capaz de inyectar un backdoor a casi cualquier app Android actual | https://github.com/yaxter/BACKDROID | 1 | 0| 
+| 20201023T16:06:26Z | This package, written in php, can scan PHP files and analyze your project for find malicious code inside it. It provides a text terminal console interface to scan files in a given directory and find PHP code files the seem to contain malicious code. | https://github.com/marcocesarato/PHP-Antimalware-Scanner | 130 | 27| 
+| 20201023T14:44:45Z | Msf-Sadap adalah tool untuk memudahkan kita membuat backdoor dan menjalankan metasploit tanpa ketik ini dan itu | https://github.com/OfficialCyberTeam/Msf-Sadap | 0 | 0| 
 | 20201023T11:31:10Z | Code repository for dynamic backdoor attacks on NLP tasks | https://github.com/HaojiXu/dynamic-backdoor-language-attack | 0 | 0| 
 | 20201023T11:22:09Z | PHP后门检测POC | https://github.com/Du4t/Phpstudy_backdoor | 0 | 0| 
-| 20201023T11:15:13Z | Unicorn Framework is a Linux post-exploitation framework that exploits Linux TCP vulnerability to get interactive shell connection with a lot of features such as downloading files, uploading files, getting system information and etc. | https://github.com/EntySec/unicorn | 4 | 1| 
 | 20201023T09:33:21Z | Null | https://github.com/Adk2001tech/Biometric-Backdoors | 1 | 0| 
-| 20201023T08:12:59Z | This package, written in php, can scan PHP files and analyze your project for find malicious code inside it. It provides a text terminal console interface to scan files in a given directory and find PHP code files the seem to contain malicious code. | https://github.com/marcocesarato/PHP-Antimalware-Scanner | 129 | 27| 
-| 20201023T05:57:31Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 76 | 9| 
-| 20201022T22:31:04Z | A sample app to demonstrate how to create Xamarin UITests using the Page Object architecture, Backdoor Methods and App Links (aka Deep Linking) | https://github.com/brminnick/UITestSampleApp | 29 | 25| 
-| 20201022T22:26:03Z | Tool to find potential backdoor/security holes in your endpoint | https://github.com/subasgit/backdoorfinder | 1 | 0| 
-| 20201022T21:56:56Z | Backdoor is a standalone browser based code editor that operates on a LASP (Linux, Apache, SQLite, PHP) server, providing all basic development tools and more. | https://github.com/RecaMedia/Backdoor | 6 | 2| 
 
 
 # fuzz on Github 推荐
