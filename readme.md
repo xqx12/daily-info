@@ -16,10 +16,10 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20201024T08:47:33Z | CVE-2020-16947 | PoC of CVE-2020-16947 (Microsoft Outlook RCE vulnerablility) | https://github.com/0neb1n/CVE-2020-16947 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 11 MINUTES 27 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201024T08:47:33Z | CVE-2020-16947 | PoC of CVE-2020-16947 (Microsoft Outlook RCE vulnerablility) | https://github.com/0neb1n/CVE-2020-16947 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 10 MINUTES 28 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20201024T05:58:19Z | CVE-2020-16938 | Bypassing NTFS permissions to read any files as unprivileged user. | https://github.com/ioncodes/CVE-2020-16938 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 10 MINUTES 35 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20201024T05:54:21Z | CVE-2020-15906 | Writeup of CVE-2020-15906 | https://github.com/S1lkys/CVE-2020-15906 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 11 MINUTES 19 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20201024T02:59:18Z | CVE-2020-1472 | Test tool for CVE-2020-1472 | https://github.com/SecuraBV/CVE-2020-1472 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 11 MINUTES 21 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201024T05:54:21Z | CVE-2020-15906 | Writeup of CVE-2020-15906 | https://github.com/S1lkys/CVE-2020-15906 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 10 MINUTES 19 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201024T02:59:18Z | CVE-2020-1472 | Test tool for CVE-2020-1472 | https://github.com/SecuraBV/CVE-2020-1472 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 10 MINUTES 21 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 
 
 # klee on Github 推荐
@@ -50,8 +50,8 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20201024T12:49:30Z | This package, written in php, can scan PHP files and analyze your project for find malicious code inside it. It provides a text terminal console interface to scan files in a given directory and find PHP code files the seem to contain malicious code. | https://github.com/marcocesarato/PHP-Antimalware-Scanner | 132 | 28| 
 | 20201024T11:42:42Z | Hikvision backdoor IP camera | https://github.com/sania-owner/hik_reset | 0 | 0| 
-| 20201024T10:50:28Z | This package, written in php, can scan PHP files and analyze your project for find malicious code inside it. It provides a text terminal console interface to scan files in a given directory and find PHP code files the seem to contain malicious code. | https://github.com/marcocesarato/PHP-Antimalware-Scanner | 131 | 28| 
 | 20201024T10:35:26Z | Null | https://github.com/rabbitx1337/backdoor | 0 | 0| 
 | 20201024T08:56:20Z | Code repository for dynamic backdoor attacks on NLP tasks | https://github.com/HaojiXu/dynamic-backdoor-language-attack | 0 | 0| 
 | 20201024T07:59:25Z | its not mine | https://github.com/Teo79/encrypt-php-backdoor | 0 | 0| 
