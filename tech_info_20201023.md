@@ -33,13 +33,13 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20201023T20:55:37Z | CVE-2020-15906 | Writeup of CVE-2020-15906 | https://github.com/S1lkys/CVE-2020-15906 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 24 MINUTES 09 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20201023T20:13:28Z | CVE-2020-5977 | PoC Exploit Code for CVE-2020-5977 | https://github.com/CuckooEXE/CVE-2020-5977 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 24 MINUTES 25 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20201023T18:47:50Z | CVE-2020-1472 | Test tool for CVE-2020-1472 | https://github.com/SecuraBV/CVE-2020-1472 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 24 MINUTES 11 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201023T20:55:37Z | CVE-2020-15906 | Writeup of CVE-2020-15906 | https://github.com/S1lkys/CVE-2020-15906 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 23 MINUTES 06 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201023T20:13:28Z | CVE-2020-5977 | PoC Exploit Code for CVE-2020-5977 | https://github.com/CuckooEXE/CVE-2020-5977 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 22 MINUTES 24 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201023T18:47:50Z | CVE-2020-1472 | Test tool for CVE-2020-1472 | https://github.com/SecuraBV/CVE-2020-1472 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 23 MINUTES 08 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20201023T16:01:47Z | 未知编号 | Null | https://github.com/kursataker/cve303_fall_2020 | 未查询到CVE信息| 
-| 20201023T09:13:05Z | CVE-2020-16947 | PoC of CVE-2020-16947 (Microsoft Outlook RCE vulnerablility) | https://github.com/0neb1n/CVE-2020-16947 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 24 MINUTES 17 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201023T09:13:05Z | CVE-2020-16947 | PoC of CVE-2020-16947 (Microsoft Outlook RCE vulnerablility) | https://github.com/0neb1n/CVE-2020-16947 | | 
 | 20201023T08:17:18Z | 未知编号 | 2020l4web-typography-css-library-DanCvejn created by GitHub Classroom | https://github.com/pslib-cz/2020l4web-typography-css-library-DanCvejn | 未查询到CVE信息| 
-| 20201023T00:45:26Z | CVE-2020-27199 | Null | https://github.com/9lyph/CVE-2020-27199 | | 
+| 20201023T00:45:26Z | CVE-2020-27199 | Null | https://github.com/9lyph/CVE-2020-27199 | 未查询到CVE信息| 
 
 
 # klee on Github 推荐
@@ -63,11 +63,11 @@
 | 20201023T23:32:54Z | notes about 🔍 Reverse Engineering and 🔥 Exploit Development | https://github.com/bmedicke/REED | 2 | 1| 
 | 20201023T23:23:31Z | Vulnerabilities% Risk of Exploitation | https://github.com/thiagofigcosta/V-REx | 0 | 0| 
 | 20201023T22:23:32Z |  exploits that I have created for vulnerable programs. | https://github.com/nobodyatall648/exploits | 0 | 0| 
-| 20201023T21:30:31Z | Sifter is a OSINT, recon & vulnerability scanner. It incorporates a plethara of tools within different module sets that tries to cover every attack vector. Allowing you to quickly perform recon tasks and organize the results in one place. From OSINT to Recon, Exploitation, Post-Exploitation, OpSec, Threat Analysis, XSS, SQLinjection, Network Scanning, WebApp Analysis or DNS enumeration.. Sifter should be able to cover it all. | https://github.com/s1l3nt78/sifter | 266 | 83| 
 | 20201023T21:27:37Z | windows and linux streams for post exploitation | https://github.com/kymb0/post_exploitation | 1 | 0| 
 | 20201023T20:57:48Z | WYSIWYG: Exploiting Visibility for 3D Object Detection, CVPR 2020 (Oral) | https://github.com/peiyunh/wysiwyg | 48 | 10| 
 | 20201023T20:54:51Z | Null | https://github.com/caddickzac/Motivated-Reasoning-in-a-Causal-Explore-Exploit-Task | 0 | 0| 
-| 20201023T20:54:12Z | A phased, evasive Path Traversal + LFI scanning & exploitation tool in Python | https://github.com/VainlyStrain/Vailyn | 58 | 1| 
+| 20201023T20:13:40Z | Custom version of the original Overthrow.  Bugs squashed and squashing, exploits punishable by death, new businesses plus much more, oh and high steriod use by the AI ;) Discord link  https://discord.gg/ZdMMq9x | https://github.com/GerhartPapaGee/Overthrow-Martial-Law | 0 | 1| 
+| 20201023T20:13:28Z | PoC Exploit Code for CVE-2020-5977 | https://github.com/CuckooEXE/CVE-2020-5977 | 0 | 0| 
 
 
 # backdoor on Github 推荐
