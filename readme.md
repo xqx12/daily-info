@@ -20,9 +20,9 @@
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
 | 20201025T11:41:00Z | CVE-2020-16938 | Bypassing NTFS permissions to read any files as unprivileged user. | https://github.com/ioncodes/CVE-2020-16938 | | 
-| 20201025T11:38:56Z | CVE-2020-15906 | Writeup of CVE-2020-15906 | https://github.com/S1lkys/CVE-2020-15906 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  11 HOURS 39 MINUTES 31 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20201025T08:07:58Z | CVE-2020-15931 | Netwrix Account Lockout Examiner 4.1 Domain Admin Account Credential Disclosure Vulnerability | https://github.com/optiv/CVE-2020-15931 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  11 HOURS 39 MINUTES 32 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20201025T03:27:56Z | CVE-2020-1472 | Test tool for CVE-2020-1472 | https://github.com/SecuraBV/CVE-2020-1472 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  11 HOURS 39 MINUTES 33 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201025T11:38:56Z | CVE-2020-15906 | Writeup of CVE-2020-15906 | https://github.com/S1lkys/CVE-2020-15906 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  11 HOURS 38 MINUTES 31 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201025T08:07:58Z | CVE-2020-15931 | Netwrix Account Lockout Examiner 4.1 Domain Admin Account Credential Disclosure Vulnerability | https://github.com/optiv/CVE-2020-15931 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  11 HOURS 38 MINUTES 32 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201025T03:27:56Z | CVE-2020-1472 | Test tool for CVE-2020-1472 | https://github.com/SecuraBV/CVE-2020-1472 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  11 HOURS 38 MINUTES 33 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 
 
 # klee on Github 推荐
@@ -39,9 +39,9 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20201025T12:21:29Z | Tegra 3 and Tegra 4 TrustZone UEFI variable services handler exploit and Secure Boot unlock tool | https://github.com/NekomimiRouter/yahallo | 12 | 0| 
 | 20201025T11:35:13Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 8447 | 1291| 
 | 20201025T11:21:47Z | Sifter is a OSINT, recon & vulnerability scanner. It incorporates a plethara of tools within different module sets that tries to cover every attack vector. Allowing you to quickly perform recon tasks and organize the results in one place. From OSINT to Recon, Exploitation, Post-Exploitation, OpSec, Threat Analysis, XSS, SQLinjection, Network Scanning, WebApp Analysis or DNS enumeration.. Sifter should be able to cover it all. | https://github.com/s1l3nt78/sifter | 268 | 84| 
-| 20201025T11:15:22Z | Tegra 3 and Tegra 4 TrustZone UEFI variable services handler exploit and Secure Boot unlock tool | https://github.com/NekomimiRouter/yahallo | 11 | 0| 
 | 20201025T11:07:40Z | The Browser Exploitation Framework Project | https://github.com/beefproject/beef | 5320 | 1282| 
 | 20201025T11:04:03Z | NodeSpy is an accurate malicious website generator for stealing information. | https://github.com/VerviumStrike/NodeSpy | 1 | 0| 
 | 20201025T10:21:17Z | This package, written in php, can scan PHP files and analyze your project for find malicious code inside it. It provides a text terminal console interface to scan files in a given directory and find PHP code files the seem to contain malicious code. | https://github.com/marcocesarato/PHP-Antimalware-Scanner | 137 | 28| 
