@@ -31,6 +31,9 @@
 # 安全维基 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20201025 | 绕过360安全卫士提权实战案例 | https://mp.weixin.qq.com/s/4iJCx40yEvgG0on6uGQv-g| 
+| 20201025 | Meterpreter中文乱码的解决 | https://mp.weixin.qq.com/s/9hyWeoo8Vn1i-whG9cjDKQ| 
+| 20201025 | 图解Transformer | https://mp.weixin.qq.com/s/cJqhESxTMy5cfj0EXh9s4w| 
 | 20201023 | 《个人信息保护法(草案)》与GDPR的比较 | https://mp.weixin.qq.com/s/4n3lYjzPRSbjIsPqzyDDmQ| 
 | 20201023 | 谷歌开源内部代码评审规范 | https://mp.weixin.qq.com/s/8vPXLxzD1iZ8E_emhruSHQ| 
 | 20201023 | 用友GRP-U8任意SQL语句执行漏洞分析 | https://mp.weixin.qq.com/s/FliS-RfLAL0mtnODGyBh1Q| 
@@ -38,24 +41,21 @@
 | 20201023 | 移动目标防御技术 | https://mp.weixin.qq.com/s/M9buBsx9rs3aB9Ckzzudpw| 
 | 20201023 | bypass安全狗 sql注入与xss | https://mp.weixin.qq.com/s/LAzIrJXV3pUkSabkoQl1Ag| 
 | 20201023 | 技术干货 , “红蓝对抗”在金融业网络安全建设中的实践与思考 | https://mp.weixin.qq.com/s/AVOLACnMJIt0Sgx-hsWXYA| 
-| 20201023 | 等保2.0体系互联网合规实践白皮书 | https://share.weiyun.com/Arv7TL7F| 
-| 20201022 | Metasploit内网使用三种方法 | https://mp.weixin.qq.com/s/Pvq5D9I1FchnfR2uPUcPAw| 
-| 20201022 | Mysql 数据库攻击面 | https://www.anquanke.com/post/id/219892| 
 
 
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20201024T21:58:05Z | CVE-2020-16938 | Bypassing NTFS permissions to read any files as unprivileged user. | https://github.com/ioncodes/CVE-2020-16938 | | 
-| 20201024T17:18:15Z | CVE-2020-16947 | PoC of CVE-2020-16947 (Microsoft Outlook RCE vulnerablility) | https://github.com/0neb1n/CVE-2020-16947 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 00 MINUTES 31 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20201024T14:23:22Z | CVE-2020-16898 | Null | https://github.com/Passiv-e/CVE-2020-16898 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 00 MINUTES 38 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20201024T05:54:21Z | CVE-2020-15906 | Writeup of CVE-2020-15906 | https://github.com/S1lkys/CVE-2020-15906 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 00 MINUTES 24 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20201024T02:59:18Z | CVE-2020-1472 | Test tool for CVE-2020-1472 | https://github.com/SecuraBV/CVE-2020-1472 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 00 MINUTES 25 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20201023T20:13:28Z | CVE-2020-5977 | PoC Exploit Code for CVE-2020-5977 | https://github.com/CuckooEXE/CVE-2020-5977 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 00 MINUTES 37 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201025T11:41:00Z | CVE-2020-16938 | Bypassing NTFS permissions to read any files as unprivileged user. | https://github.com/ioncodes/CVE-2020-16938 | | 
+| 20201025T11:38:56Z | CVE-2020-15906 | Writeup of CVE-2020-15906 | https://github.com/S1lkys/CVE-2020-15906 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  11 HOURS 59 MINUTES 23 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201025T08:07:58Z | CVE-2020-15931 | Netwrix Account Lockout Examiner 4.1 Domain Admin Account Credential Disclosure Vulnerability | https://github.com/optiv/CVE-2020-15931 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  11 HOURS 59 MINUTES 24 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201025T03:27:56Z | CVE-2020-1472 | Test tool for CVE-2020-1472 | https://github.com/SecuraBV/CVE-2020-1472 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  11 HOURS 59 MINUTES 25 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201024T17:18:15Z | CVE-2020-16947 | PoC of CVE-2020-16947 (Microsoft Outlook RCE vulnerablility) | https://github.com/0neb1n/CVE-2020-16947 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  11 HOURS 59 MINUTES 30 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201024T14:23:22Z | CVE-2020-16898 | Null | https://github.com/Passiv-e/CVE-2020-16898 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  11 HOURS 59 MINUTES 39 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201023T20:13:28Z | CVE-2020-5977 | PoC Exploit Code for CVE-2020-5977 | https://github.com/CuckooEXE/CVE-2020-5977 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  11 HOURS 59 MINUTES 38 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20201023T16:01:47Z | 未知编号 | Null | https://github.com/kursataker/cve303_fall_2020 | 未查询到CVE信息| 
 | 20201023T08:17:18Z | 未知编号 | 2020l4web-typography-css-library-DanCvejn created by GitHub Classroom | https://github.com/pslib-cz/2020l4web-typography-css-library-DanCvejn | 未查询到CVE信息| 
 | 20201023T00:45:26Z | CVE-2020-27199 | Null | https://github.com/9lyph/CVE-2020-27199 | 未查询到CVE信息| 
-| 20201022T21:12:06Z | CVE-2020-16898 | Zeek detection for CVE-2020-16898-"Bad Neighbor" | https://github.com/initconf/CVE-2020-16898-Bad-Neighbor | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 00 MINUTES 29 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 
 
 # klee on Github 推荐
@@ -86,16 +86,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20201025T01:41:11Z | All my blogs for ExpDev, HTB, BinaryExploit, Etc. | https://github.com/bigb0sss/exploit_writeups_by_bigb0ss | 2 | 1| 
-| 20201025T01:38:39Z | A phased, evasive Path Traversal + LFI scanning & exploitation tool in Python | https://github.com/VainlyStrain/Vailyn | 59 | 1| 
-| 20201025T01:13:08Z | Writeups/exploit code for CTFs I%ve done | https://github.com/captainGeech42/ctf-writeups | 9 | 2| 
-| 20201025T01:09:45Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 8445 | 1291| 
-| 20201025T00:39:19Z | Exploit Database binary exploits located in the /sploits directory | https://github.com/offensive-security/exploitdb-bin-sploits | 1314 | 472| 
-| 20201025T00:20:00Z | An attempt to make AWS SSM Parameter Store interaction easier and exploit its full potential. | https://github.com/askainet/aws-stash | 1 | 0| 
-| 20201024T23:56:28Z | Collection of exploits created for vulnerable programs, web applications, firmware, etc. | https://github.com/nobodyatall648/exploits | 0 | 0| 
-| 20201024T23:50:04Z | This repository contains the source of %ARM Binary Exploitaiton% book. | https://github.com/cpuu/arm_exploitation | 1 | 0| 
-| 20201024T23:46:42Z | Just my little fun exploiting playground! | https://github.com/ItsProyal/CounterBlox | 0 | 0| 
-| 20201024T23:34:12Z | This package, written in php, can scan PHP files and analyze your project for find malicious code inside it. It provides a text terminal console interface to scan files in a given directory and find PHP code files the seem to contain malicious code. | https://github.com/marcocesarato/PHP-Antimalware-Scanner | 136 | 28| 
+| 20201025T11:35:13Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 8447 | 1291| 
+| 20201025T11:21:47Z | Sifter is a OSINT, recon & vulnerability scanner. It incorporates a plethara of tools within different module sets that tries to cover every attack vector. Allowing you to quickly perform recon tasks and organize the results in one place. From OSINT to Recon, Exploitation, Post-Exploitation, OpSec, Threat Analysis, XSS, SQLinjection, Network Scanning, WebApp Analysis or DNS enumeration.. Sifter should be able to cover it all. | https://github.com/s1l3nt78/sifter | 268 | 84| 
+| 20201025T11:15:22Z | Tegra 3 and Tegra 4 TrustZone UEFI variable services handler exploit and Secure Boot unlock tool | https://github.com/NekomimiRouter/yahallo | 11 | 0| 
+| 20201025T11:07:40Z | The Browser Exploitation Framework Project | https://github.com/beefproject/beef | 5320 | 1282| 
+| 20201025T11:04:03Z | NodeSpy is an accurate malicious website generator for stealing information. | https://github.com/VerviumStrike/NodeSpy | 1 | 0| 
+| 20201025T10:21:17Z | This package, written in php, can scan PHP files and analyze your project for find malicious code inside it. It provides a text terminal console interface to scan files in a given directory and find PHP code files the seem to contain malicious code. | https://github.com/marcocesarato/PHP-Antimalware-Scanner | 137 | 28| 
+| 20201025T09:43:04Z | Vulmap是一款漏洞扫描工具，可对Web容器、Web服务器、Web中间件以及CMS等Web程序进行漏洞扫描，并且具备漏洞利用功能。 相关测试人员可以使用vulmap检测目标是否存在特定漏洞，并且可以使用漏洞利用功能验证漏洞是否真实存在。 | https://github.com/zhzyker/vulmap | 274 | 46| 
+| 20201025T08:30:35Z | Web dorking by Google Hacking Database Issue [Exploit-DB] | https://github.com/nalonal/ghdb | 0 | 0| 
+| 20201025T08:05:19Z | 6.72 PS4 JAILBREAK EXPLOIT V9  | https://github.com/Eddz123/EddzPS4JB.github.io | 0 | 0| 
+| 20201025T07:45:36Z | Une exploitation des données Parcoursup | https://github.com/juliengossa/parcoursup | 0 | 0| 
 
 
 # backdoor on Github 推荐
@@ -116,16 +116,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20201025T01:35:05Z | This tool uses fzf(1)-like fuzzy-finder to do partial or fuzzy search of Kubernetes resources. Instead of specifying full resource names to kubectl commands, you can choose them from an interactive list that you can filter by typing a few characters. | https://github.com/d-kuro/kubectl-fuzzy | 54 | 5| 
-| 20201025T01:21:11Z | Null | https://github.com/barneymerah/fuzzy-doodle | 0 | 0| 
-| 20201025T01:13:19Z | RcppDeepState, a simple way to fuzz test code in Rcpp packages | https://github.com/akhikolla/RcppDeepState | 0 | 0| 
-| 20201025T00:32:38Z | Fuzzy matching for Neovim | https://github.com/amirrezaask/fuzzy.nvim | 18 | 0| 
-| 20201025T00:11:06Z | Code for fuzzy monkeys. | https://github.com/fuzzyatelin/fuzzyatelin.github.io | 3 | 9| 
-| 20201024T23:26:23Z | cafe it up backend | https://github.com/redxzeta/fuzzy-waddle | 0 | 0| 
-| 20201024T22:53:22Z | OSS-Fuzz - continuous fuzzing of open source software. | https://github.com/google/oss-fuzz | 5606 | 1106| 
-| 20201024T22:44:02Z | The code behind getfursu.it | https://github.com/veelkoov/fuzzrake | 6 | 0| 
-| 20201024T22:27:46Z | A JavaScript Engine Fuzzer | https://github.com/googleprojectzero/fuzzilli | 1061 | 178| 
-| 20201024T22:26:17Z | Repository holding database dumps from getfursu.it | https://github.com/veelkoov/fuzzrake-data | 0 | 0| 
+| 20201025T11:31:02Z | A fuzzer made in golang for finding issues like xss, lfi, rce, ssti...that detects issues using change in content length and verify it using signatures | https://github.com/Shivangx01b/BountyIt | 3 | 0| 
+| 20201025T11:10:01Z | a File Navigator powered by fzf | https://github.com/SleepyBag/fuzzy-fs | 8 | 1| 
+| 20201025T11:06:31Z | Planning tool | https://github.com/HappyDustbunny/FuzzyFlexx | 1 | 0| 
+| 20201025T10:44:44Z | Null | https://github.com/blaquez/FuzzyFinder | 0 | 0| 
+| 20201025T10:31:30Z | Null | https://github.com/khdinh496/Fuzzy_Wuzzy | 0 | 0| 
+| 20201025T10:18:10Z | Null | https://github.com/reskyppo/FuzzyLogic_Calculator | 0 | 0| 
+| 20201025T10:10:04Z | The repository contains codes for performing fuzzy map comparison. | https://github.com/beatriznegreiros/fuzzycorr | 1 | 0| 
+| 20201025T09:54:37Z | Simple web input/cookie/url scanner written in python. | https://github.com/iwakura1ain/Fuzzit-Web-Scanner | 0 | 0| 
+| 20201025T09:52:27Z | Examples of complete SharpFuzz fuzzing projects | https://github.com/Metalnem/sharpfuzz-samples | 2 | 0| 
+| 20201025T09:31:57Z | Null | https://github.com/fa-fa97/Fuzzy_controller_for_Inverted_Pendulum | 0 | 0| 
 
 
 
