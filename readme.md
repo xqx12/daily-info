@@ -16,10 +16,11 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20201024T08:47:33Z | CVE-2020-16947 | PoC of CVE-2020-16947 (Microsoft Outlook RCE vulnerablility) | https://github.com/0neb1n/CVE-2020-16947 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 00 MINUTES 27 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20201024T05:58:19Z | CVE-2020-16938 | Bypassing NTFS permissions to read any files as unprivileged user. | https://github.com/ioncodes/CVE-2020-16938 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 00 MINUTES 34 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20201024T05:54:21Z | CVE-2020-15906 | Writeup of CVE-2020-15906 | https://github.com/S1lkys/CVE-2020-15906 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 00 MINUTES 20 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20201024T02:59:18Z | CVE-2020-1472 | Test tool for CVE-2020-1472 | https://github.com/SecuraBV/CVE-2020-1472 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 00 MINUTES 22 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201024T21:58:05Z | CVE-2020-16938 | Bypassing NTFS permissions to read any files as unprivileged user. | https://github.com/ioncodes/CVE-2020-16938 | 当Windows内核不适当地处理内存中的对象时，即称为“ Windows内核信息泄露漏洞”，则存在一个信息泄露漏洞。此CVE ID从CVE-2020-16901起是唯一的。| 
+| 20201024T17:18:15Z | CVE-2020-16947 | PoC of CVE-2020-16947 (Microsoft Outlook RCE vulnerablility) | https://github.com/0neb1n/CVE-2020-16947 | 当该软件无法正确处理内存中的对象时，Microsoft Outlook软件中便存在一个远程执行代码漏洞，也就是“ Microsoft Outlook远程执行代码漏洞”。| 
+| 20201024T14:23:22Z | CVE-2020-16898 | Null | https://github.com/Passiv-e/CVE-2020-16898 | 当Windows TCP / IP堆栈不正确地处理ICMPv6路由器播发数据包（也称为“ Windows TCP / IP远程执行代码漏洞”）时，存在一个远程执行代码漏洞。| 
+| 20201024T05:54:21Z | CVE-2020-15906 | Writeup of CVE-2020-15906 | https://github.com/S1lkys/CVE-2020-15906 | 在21.2之前的Tiki中，tiki-login.php将50次无效登录尝试后的管理员密码设置为空白值。| 
+| 20201024T02:59:18Z | CVE-2020-1472 | Test tool for CVE-2020-1472 | https://github.com/SecuraBV/CVE-2020-1472 | 当攻击者使用Netlogon远程协议（MS-NRPC）（又称为“ Netlogon特权提升漏洞”）建立与域控制器的易受攻击的Netlogon安全通道连接时，将存在特权提升漏洞。| 
 
 
 # klee on Github 推荐
@@ -35,45 +36,46 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20201024T12:39:09Z | Exploration-Exploitation using MAB | https://github.com/aegoe/MAB | 0 | 1| 
-| 20201024T12:22:28Z | CTF framework and exploit development library | https://github.com/Gallopsled/pwntools | 7163 | 1295| 
-| 20201024T11:47:05Z | Null | https://github.com/litvacksamuel/exploit-gna | 0 | 0| 
-| 20201024T11:45:47Z | Null | https://github.com/pynox/malware-reverse-exploitdev | 3 | 0| 
-| 20201024T11:40:29Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 8441 | 1290| 
-| 20201024T11:34:44Z | libc_database python wrapper for exploit automation | https://github.com/Neetx/pylibcdb | 0 | 0| 
-| 20201024T11:28:07Z | Flame+ is a Roblox Exploit that has a Custom DLL, No Key system, and a Clean & Consistent UI. | https://github.com/davidTube7/FlamePlus-WPF | 0 | 0| 
-| 20201024T10:53:25Z | Basic NodeJS Exploitation for data exfiltration and reverse shells | https://github.com/RoqueNight/NodeJS-Exploitation | 0 | 0| 
-| 20201024T10:46:46Z | Curated list of Unix binaries that can be exploited to bypass system security restrictions | https://github.com/GTFOBins/GTFOBins.github.io | 3454 | 487| 
-| 20201024T10:45:50Z | Bludit <= 3.9.2 - Authentication Bruteforce Mitigation Bypass Exploit/PoC | https://github.com/ColdFusionX/CVE-2019-17240-Exploit-Bludit-BF-bypass | 0 | 0| 
+| 20201024T23:56:28Z | Collection of exploits created for vulnerable programs, web applications, firmware, etc. | https://github.com/nobodyatall648/exploits | 0 | 0| 
+| 20201024T23:50:04Z | This repository contains the source of %ARM Binary Exploitaiton% book. | https://github.com/cpuu/arm_exploitation | 1 | 0| 
+| 20201024T23:46:42Z | Just my little fun exploiting playground! | https://github.com/ItsProyal/CounterBlox | 0 | 0| 
+| 20201024T23:36:25Z | A phased, evasive Path Traversal + LFI scanning & exploitation tool in Python | https://github.com/VainlyStrain/Vailyn | 59 | 1| 
+| 20201024T23:34:12Z | This package, written in php, can scan PHP files and analyze your project for find malicious code inside it. It provides a text terminal console interface to scan files in a given directory and find PHP code files the seem to contain malicious code. | https://github.com/marcocesarato/PHP-Antimalware-Scanner | 136 | 28| 
+| 20201024T22:54:59Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 8444 | 1290| 
+| 20201024T22:42:36Z | Docker based DNS component of the PS4 Exploit Host | https://github.com/Al-Azif/exploit-host-dns | 0 | 0| 
+| 20201024T22:32:44Z | Sifter is a OSINT, recon & vulnerability scanner. It incorporates a plethara of tools within different module sets that tries to cover every attack vector. Allowing you to quickly perform recon tasks and organize the results in one place. From OSINT to Recon, Exploitation, Post-Exploitation, OpSec, Threat Analysis, XSS, SQLinjection, Network Scanning, WebApp Analysis or DNS enumeration.. Sifter should be able to cover it all. | https://github.com/s1l3nt78/sifter | 268 | 83| 
+| 20201024T22:07:40Z | this bash script is for remote linux hosts hacked! | https://github.com/FabioDefilippo/linuxallenum | 8 | 0| 
+| 20201024T21:59:15Z | Goploit is a tool focused on WebHacking, which is still in development! in your initial project phase. Counting from the start with just 5 commands. You can use the -h parameter to see the Goploit help! | https://github.com/blkzy/Goploit | 5 | 2| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20201024T12:49:30Z | This package, written in php, can scan PHP files and analyze your project for find malicious code inside it. It provides a text terminal console interface to scan files in a given directory and find PHP code files the seem to contain malicious code. | https://github.com/marcocesarato/PHP-Antimalware-Scanner | 132 | 28| 
-| 20201024T11:42:42Z | Hikvision backdoor IP camera | https://github.com/sania-owner/hik_reset | 0 | 0| 
+| 20201024T23:55:08Z | for educational purposes only! | https://github.com/Crystallinqq/qqBackdoor-OS | 7 | 1| 
+| 20201024T23:34:12Z | This package, written in php, can scan PHP files and analyze your project for find malicious code inside it. It provides a text terminal console interface to scan files in a given directory and find PHP code files the seem to contain malicious code. | https://github.com/marcocesarato/PHP-Antimalware-Scanner | 136 | 28| 
+| 20201024T20:42:24Z | Collection of subprojects that are not big enough to warrant their own repository  | https://github.com/thewhiteninja/miscellaneous | 0 | 0| 
+| 20201024T20:09:19Z | Full-featured C2 framework which silently persists on webserver with a single-line PHP backdoor | https://github.com/nil0x42/phpsploit | 1057 | 318| 
+| 20201024T15:46:24Z | Hikvision backdoor IP camera | https://github.com/sania-owner/hik_reset | 0 | 0| 
+| 20201024T15:22:25Z | Null | https://github.com/Lin1337/docker-msf-backdoor | 0 | 0| 
+| 20201024T15:02:11Z | Null | https://github.com/chenscomon/Py_backdoors | 0 | 0| 
+| 20201024T14:42:18Z | A protocol capable of individually backdooring any secret communication by multiple separate state authorities. | https://github.com/fbv81bp/Law_enforcing_E2E | 0 | 0| 
+| 20201024T14:21:43Z | Null | https://github.com/Adk2001tech/Biometric-Backdoors | 0 | 0| 
 | 20201024T10:35:26Z | Null | https://github.com/rabbitx1337/backdoor | 0 | 0| 
-| 20201024T08:56:20Z | Code repository for dynamic backdoor attacks on NLP tasks | https://github.com/HaojiXu/dynamic-backdoor-language-attack | 0 | 0| 
-| 20201024T07:59:25Z | its not mine | https://github.com/Teo79/encrypt-php-backdoor | 0 | 0| 
-| 20201024T04:17:37Z | Null | https://github.com/Adk2001tech/Biometric-Backdoors | 0 | 0| 
-| 20201024T01:26:40Z | Collection of subprojects that are not big enough to warrant their own repository  | https://github.com/thewhiteninja/miscellaneous | 0 | 0| 
-| 20201024T00:42:47Z | Unicorn Framework is a Linux post-exploitation framework that exploits Linux TCP vulnerability to get interactive shell connection with a lot of features such as downloading files, uploading files, getting system information and etc. | https://github.com/EntySec/unicorn | 5 | 1| 
-| 20201024T00:08:18Z | Tool to find potential backdoor/security holes in your endpoint | https://github.com/subasgit/backdoorfinder | 1 | 0| 
 
 
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20201024T12:59:04Z | Personal website of Laurence Hughes | https://github.com/fuzzylogicxx/fuzzylogic | 4 | 1| 
-| 20201024T12:20:31Z | Null | https://github.com/lucashilles/fuzzy-sniffle | 0 | 0| 
-| 20201024T11:47:48Z | Project on FuzzBuzz program using a software development process called Task-Driven Development (TDD) that relies on the repetition of a very short development cycle: requirements are turned into very specific test cases, then the code is improved so that the tests pass. | https://github.com/nikhilvenkatkumsetty/FuzzBuzz-TDD | 0 | 0| 
-| 20201024T11:14:14Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 3193 | 736| 
-| 20201024T10:50:23Z | The Book %Generating Software Tests% | https://github.com/uds-se/fuzzingbook | 426 | 87| 
-| 20201024T09:31:03Z | Null | https://github.com/rbusybee/fuzzy-angular | 0 | 0| 
-| 20201024T08:52:12Z | With this tool, projects can be compiled easily for fuzzing with AFL or for static code analysis with tools like CBMC. One-line-scan hooks into the compilation process and wraps calls to the compiler with other compilers. Besides the compilation wrappers, one-line-scan ships with basic analysis jobs, that allow to analyze a project right after compilation with the following tools: AFL, cppcheck, CBMC, Fortify. | https://github.com/awslabs/one-line-scan | 14 | 4| 
-| 20201024T08:07:50Z | Collecting and analyzing various metrics from fuzzing experiments. | https://github.com/unifuzz/metrics | 2 | 1| 
-| 20201024T08:03:23Z | Null | https://github.com/demetrius-ford/mutation-fuzzer | 0 | 0| 
-| 20201024T05:23:29Z | The fuzzer afl++ is afl with community patches, AFLfast power schedules, qemu 3.1 upgrade + laf-intel support, MOpt mutators, InsTrim instrumentation, unicorn_mode, Redqueen and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 941 | 227| 
+| 20201024T23:26:23Z | cafe it up backend | https://github.com/redxzeta/fuzzy-waddle | 0 | 0| 
+| 20201024T22:53:22Z | OSS-Fuzz - continuous fuzzing of open source software. | https://github.com/google/oss-fuzz | 5606 | 1106| 
+| 20201024T22:44:02Z | The code behind getfursu.it | https://github.com/veelkoov/fuzzrake | 6 | 0| 
+| 20201024T22:27:46Z | A JavaScript Engine Fuzzer | https://github.com/googleprojectzero/fuzzilli | 1061 | 178| 
+| 20201024T22:26:17Z | Repository holding database dumps from getfursu.it | https://github.com/veelkoov/fuzzrake-data | 0 | 0| 
+| 20201024T21:32:23Z | RcppDeepState, a simple way to fuzz test code in Rcpp packages | https://github.com/akhikolla/RcppDeepState | 0 | 0| 
+| 20201024T21:02:57Z | Null | https://github.com/acolytec3/fuzzy-giggle | 0 | 0| 
+| 20201024T20:36:05Z | mongoose plugin for fuzzy search | https://github.com/lorenzofox3/mongoose-fuzzy-search | 0 | 0| 
+| 20201024T18:44:28Z | FUZZ Guitar pedal based on well-known BigMuffPi 🎸🎸🎸 | https://github.com/alberand/fuzzpedal | 2 | 1| 
+| 20201024T18:28:21Z | A simple python implementation of Fuzzy C-means algorithm. | https://github.com/omadson/fuzzy-c-means | 17 | 8| 
 
 
 
