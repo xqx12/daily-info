@@ -21,10 +21,10 @@
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
 | 20201025T22:54:56Z | CVE-2020-27199 | Null | https://github.com/9lyph/CVE-2020-27199 | 未查询到CVE信息| 
-| 20201025T22:18:59Z | CVE-2020-15906 | Writeup of CVE-2020-15906 | https://github.com/S1lkys/CVE-2020-15906 | 在21.2之前的Tiki中，tiki-login.php将50次无效登录尝试后的管理员密码设置为空白值。| 
-| 20201025T19:56:43Z | CVE-2020-15931 | Netwrix Account Lockout Examiner 4.1 Domain Admin Account Credential Disclosure Vulnerability | https://github.com/optiv/CVE-2020-15931 | 5.1之前的Netwrix帐户锁定检查器允许远程攻击者通过生成单个Kerberos预身份验证失败（ID 4771）事件来捕获Domain Administrator的Net-NTLMv1 / v2身份验证质询哈希（在产品中以其安装状态进行配置）在域控制器上。| 
-| 20201025T17:25:09Z | CVE-2020-16938 | Bypassing NTFS permissions to read any files as unprivileged user. | https://github.com/ioncodes/CVE-2020-16938 | 当Windows内核不适当地处理内存中的对象时，即称为“ Windows内核信息泄露漏洞”，则存在一个信息泄露漏洞。此CVE ID从CVE-2020-16901起是唯一的。| 
-| 20201025T03:27:56Z | CVE-2020-1472 | Test tool for CVE-2020-1472 | https://github.com/SecuraBV/CVE-2020-1472 | 当攻击者使用Netlogon远程协议（MS-NRPC）（又称为“ Netlogon特权提升漏洞”）建立与域控制器的易受攻击的Netlogon安全通道连接时，将存在特权提升漏洞。| 
+| 20201025T22:18:59Z | CVE-2020-15906 | Writeup of CVE-2020-15906 | https://github.com/S1lkys/CVE-2020-15906 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  23 HOURS 57 MINUTES 24 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201025T19:56:43Z | CVE-2020-15931 | Netwrix Account Lockout Examiner 4.1 Domain Admin Account Credential Disclosure Vulnerability | https://github.com/optiv/CVE-2020-15931 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  23 HOURS 57 MINUTES 24 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201025T17:25:09Z | CVE-2020-16938 | Bypassing NTFS permissions to read any files as unprivileged user. | https://github.com/ioncodes/CVE-2020-16938 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  23 HOURS 56 MINUTES 43 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201025T03:27:56Z | CVE-2020-1472 | Test tool for CVE-2020-1472 | https://github.com/SecuraBV/CVE-2020-1472 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  23 HOURS 57 MINUTES 25 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 
 
 # klee on Github 推荐
@@ -43,7 +43,6 @@
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
 | 20201025T23:54:04Z | Python exploit for CVE-2012-2982 | https://github.com/OstojaOfficial/CVE-2012-2982 | 1 | 0| 
-| 20201025T23:49:44Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 8448 | 1290| 
 | 20201025T23:49:24Z | Tegra 3 and Tegra 4 TrustZone UEFI variable services handler exploit and Secure Boot unlock tool | https://github.com/NekomimiRouter/yahallo | 27 | 2| 
 | 20201025T23:45:38Z | Docker based HTTP(S) component of the PS4 Exploit Host  | https://github.com/Al-Azif/exploit-host-http | 0 | 0| 
 | 20201025T23:45:07Z | Null | https://github.com/neuralfilter/exploit_training | 0 | 0| 
@@ -52,18 +51,22 @@
 | 20201025T22:56:03Z | This package, written in php, can scan PHP files and analyze your project for find malicious code inside it. It provides a text terminal console interface to scan files in a given directory and find PHP code files the seem to contain malicious code. | https://github.com/marcocesarato/PHP-Antimalware-Scanner | 137 | 28| 
 | 20201025T22:49:08Z | An open-source post-exploitation framework for students, researchers and developers. | https://github.com/malwaredllc/byob | 5386 | 1115| 
 | 20201025T22:04:02Z | Null | https://github.com/quentin452/Cats-Exploitz-HUB | 0 | 1| 
+| 20201025T21:26:21Z | A phased, evasive Path Traversal + LFI scanning & exploitation tool in Python | https://github.com/VainlyStrain/Vailyn | 59 | 1| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20201025T12:59:46Z | Unicorn Framework is a Linux post-exploitation framework that exploits Linux TCP vulnerability to get interactive shell connection with a lot of features such as downloading files, uploading files, getting system information and etc. | https://github.com/EntySec/unicorn | 5 | 1| 
+| 20201025T22:56:03Z | This package, written in php, can scan PHP files and analyze your project for find malicious code inside it. It provides a text terminal console interface to scan files in a given directory and find PHP code files the seem to contain malicious code. | https://github.com/marcocesarato/PHP-Antimalware-Scanner | 137 | 28| 
+| 20201025T22:45:24Z | for educational purposes only! | https://github.com/Crystallinqq/qqBackdoor-OS | 11 | 4| 
+| 20201025T19:47:07Z | Null | https://github.com/Kris796u/backdoor | 0 | 0| 
+| 20201025T19:21:46Z | Unicorn Framework is a Linux post-exploitation framework that exploits Linux TCP vulnerability to get interactive shell connection with a lot of features such as downloading files, uploading files, getting system information and etc. | https://github.com/EntySec/unicorn | 5 | 1| 
+| 20201025T18:37:36Z | Thoron Framework is a Linux post-exploitation framework that exploits Linux TCP vulnerability to provide a shell-like connection. Thoron Framework has the ability to create simple payloads to provide Linux TCP attack. | https://github.com/EntySec/thoron | 76 | 27| 
+| 20201025T16:49:24Z | Full-featured C2 framework which silently persists on webserver with a single-line PHP backdoor | https://github.com/nil0x42/phpsploit | 1057 | 318| 
+| 20201025T16:30:25Z | A simple embedded Linux backdoor. | https://github.com/nccgroup/thetick | 170 | 26| 
+| 20201025T16:07:10Z | PyIris-backdoor is a modular, stealthy and flexible remote-access-toolkit written completely in python used to command and control other systems. It is now in the beta stage, possibly perpetually. There are bugs still present in the framework, feel free to contribute or help me out with this project its still under active development >_> | https://github.com/angus-y/PyIris-backdoor | 122 | 40| 
+| 20201025T15:13:08Z | Shell Backdoor | https://github.com/0dayherman/Backdoor | 0 | 1| 
 | 20201025T12:41:34Z | virus backdoor | https://github.com/mytham-20122000/virussssssssssss | 0 | 0| 
-| 20201025T11:19:23Z | A simple embedded Linux backdoor. | https://github.com/nccgroup/thetick | 171 | 26| 
-| 20201025T10:21:17Z | This package, written in php, can scan PHP files and analyze your project for find malicious code inside it. It provides a text terminal console interface to scan files in a given directory and find PHP code files the seem to contain malicious code. | https://github.com/marcocesarato/PHP-Antimalware-Scanner | 137 | 28| 
-| 20201025T10:10:13Z | Collection of php malware/backdoors/shell | https://github.com/marcocesarato/PHP-Malware-Collection | 5 | 8| 
-| 20201025T06:55:16Z | for educational purposes only! | https://github.com/Crystallinqq/qqBackdoor-OS | 10 | 4| 
-| 20201025T06:09:20Z | A netcat backdoor | https://github.com/NeoDoggy/fake_chrome_update | 0 | 0| 
 
 
 # fuzz on Github 推荐
