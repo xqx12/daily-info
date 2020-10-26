@@ -22,7 +22,7 @@
 | --- | --- | --- | --- | ---| 
 | 20201025T22:54:56Z | CVE-2020-27199 | Null | https://github.com/9lyph/CVE-2020-27199 | 未查询到CVE信息| 
 | 20201025T22:18:59Z | CVE-2020-15906 | Writeup of CVE-2020-15906 | https://github.com/S1lkys/CVE-2020-15906 | 在21.2之前的Tiki中，tiki-login.php将50次无效登录尝试后的管理员密码设置为空白值。| 
-| 20201025T19:56:43Z | CVE-2020-15931 | Netwrix Account Lockout Examiner 4.1 Domain Admin Account Credential Disclosure Vulnerability | https://github.com/optiv/CVE-2020-15931 | | 
+| 20201025T19:56:43Z | CVE-2020-15931 | Netwrix Account Lockout Examiner 4.1 Domain Admin Account Credential Disclosure Vulnerability | https://github.com/optiv/CVE-2020-15931 | 5.1之前的Netwrix帐户锁定检查器允许远程攻击者通过生成单个Kerberos预身份验证失败（ID 4771）事件来捕获Domain Administrator的Net-NTLMv1 / v2身份验证质询哈希（在产品中以其安装状态进行配置）在域控制器上。| 
 | 20201025T17:25:09Z | CVE-2020-16938 | Bypassing NTFS permissions to read any files as unprivileged user. | https://github.com/ioncodes/CVE-2020-16938 | 当Windows内核不适当地处理内存中的对象时，即称为“ Windows内核信息泄露漏洞”，则存在一个信息泄露漏洞。此CVE ID从CVE-2020-16901起是唯一的。| 
 | 20201025T03:27:56Z | CVE-2020-1472 | Test tool for CVE-2020-1472 | https://github.com/SecuraBV/CVE-2020-1472 | 当攻击者使用Netlogon远程协议（MS-NRPC）（又称为“ Netlogon特权提升漏洞”）建立与域控制器的易受攻击的Netlogon安全通道连接时，将存在特权提升漏洞。| 
 
