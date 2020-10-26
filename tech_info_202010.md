@@ -6,6 +6,7 @@
 # 玄武实验室 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20201025 | 用Rust编写的具有串行日志记录和调试支持的UEFI运行时驱动程序项目。 | https://github.com/x1tan/rust-uefi-runtime-driver| 
 | 20201023 | Exploring an Assembly Loading Technique and Detection Mechanism for the GfxDownloadWrapper.exe LOLBIN | https://bohops.com/2020/10/21/exploring-an-assembly-loading-technique-and-detection-mechanism-for-the-gfxdownloadwrapper-exe-lolbin/| 
 | 20201023 | IBM QRadar Java 反序列化漏洞分析（CVE-2020–4280） | https://medium.com/@testbnull/cve-2020-4280-ibm-qradar-java-deserialization-anlysis-and-bypass-c3fe57207057| 
 | 20201023 | feroxbuster - Web 目录递归发现工具 | https://github.com/epi052/feroxbuster| 
@@ -25,7 +26,6 @@
 | 20201022 | Google Chrome WebGL Buffer11::getBufferStorage code execution vulnerability (CVE-2020-6555) | https://blog.talosintelligence.com/2020/10/vuln-spotlight-chrome-web-gl-.html?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+feedburner%2FTalos+%28Talos%E2%84%A2+Blog%29| 
 | 20201022 | 绕过 NTFS 的文件权限限制，实现任意文件读漏洞（CVE-2020-16938） | https://github.com/ioncodes/CVE-2020-16938| 
 | 20201022 | Spring Boot 框架多个 RCE 漏洞分析 | https://sec.today/pulses/39a4e8b6-abb0-41a9-90e8-ff3b77f06a52/| 
-| 20201022 | ODAT - 针对 Oracle 数据库的开源渗透测试工具 | https://sec.today/pulses/162ac386-bea7-44ca-acee-b565268a19fd/| 
 
 
 # 安全维基 推荐
@@ -46,25 +46,25 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20201025T11:41:00Z | CVE-2020-16938 | Bypassing NTFS permissions to read any files as unprivileged user. | https://github.com/ioncodes/CVE-2020-16938 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  11 HOURS 00 MINUTES 44 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20201025T11:38:56Z | CVE-2020-15906 | Writeup of CVE-2020-15906 | https://github.com/S1lkys/CVE-2020-15906 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  11 HOURS 00 MINUTES 30 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20201025T08:07:58Z | CVE-2020-15931 | Netwrix Account Lockout Examiner 4.1 Domain Admin Account Credential Disclosure Vulnerability | https://github.com/optiv/CVE-2020-15931 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  11 HOURS 00 MINUTES 31 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20201025T03:27:56Z | CVE-2020-1472 | Test tool for CVE-2020-1472 | https://github.com/SecuraBV/CVE-2020-1472 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  11 HOURS 00 MINUTES 32 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20201024T17:18:15Z | CVE-2020-16947 | PoC of CVE-2020-16947 (Microsoft Outlook RCE vulnerablility) | https://github.com/0neb1n/CVE-2020-16947 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  11 HOURS 00 MINUTES 37 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20201024T14:23:22Z | CVE-2020-16898 | Null | https://github.com/Passiv-e/CVE-2020-16898 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  11 HOURS 00 MINUTES 46 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20201023T20:13:28Z | CVE-2020-5977 | PoC Exploit Code for CVE-2020-5977 | https://github.com/CuckooEXE/CVE-2020-5977 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  11 HOURS 00 MINUTES 45 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201025T22:54:56Z | CVE-2020-27199 | Null | https://github.com/9lyph/CVE-2020-27199 | 未查询到CVE信息| 
+| 20201025T22:18:59Z | CVE-2020-15906 | Writeup of CVE-2020-15906 | https://github.com/S1lkys/CVE-2020-15906 | 在21.2之前的Tiki中，tiki-login.php将50次无效登录尝试后的管理员密码设置为空白值。| 
+| 20201025T19:56:43Z | CVE-2020-15931 | Netwrix Account Lockout Examiner 4.1 Domain Admin Account Credential Disclosure Vulnerability | https://github.com/optiv/CVE-2020-15931 | | 
+| 20201025T17:25:09Z | CVE-2020-16938 | Bypassing NTFS permissions to read any files as unprivileged user. | https://github.com/ioncodes/CVE-2020-16938 | 当Windows内核不适当地处理内存中的对象时，即称为“ Windows内核信息泄露漏洞”，则存在一个信息泄露漏洞。此CVE ID从CVE-2020-16901起是唯一的。| 
+| 20201025T03:27:56Z | CVE-2020-1472 | Test tool for CVE-2020-1472 | https://github.com/SecuraBV/CVE-2020-1472 | 当攻击者使用Netlogon远程协议（MS-NRPC）（又称为“ Netlogon特权提升漏洞”）建立与域控制器的易受攻击的Netlogon安全通道连接时，将存在特权提升漏洞。| 
+| 20201024T17:18:15Z | CVE-2020-16947 | PoC of CVE-2020-16947 (Microsoft Outlook RCE vulnerablility) | https://github.com/0neb1n/CVE-2020-16947 | 当该软件无法正确处理内存中的对象时，Microsoft Outlook软件中便存在一个远程执行代码漏洞，也就是“ Microsoft Outlook远程执行代码漏洞”。| 
+| 20201024T14:23:22Z | CVE-2020-16898 | Null | https://github.com/Passiv-e/CVE-2020-16898 | 当Windows TCP / IP堆栈不正确地处理ICMPv6路由器播发数据包（也称为“ Windows TCP / IP远程执行代码漏洞”）时，存在一个远程执行代码漏洞。| 
+| 20201023T20:13:28Z | CVE-2020-5977 | PoC Exploit Code for CVE-2020-5977 | https://github.com/CuckooEXE/CVE-2020-5977 | NVIDIA GeForce Experience（3.20.5.70之前的所有版本）在NVIDIA Web Helper NodeJS Web服务器中包含一个漏洞，该漏洞中使用不受控制的搜索路径加载节点模块，这可能导致代码执行，拒绝服务，特权升级。以及信息披露。| 
 | 20201023T16:01:47Z | 未知编号 | Null | https://github.com/kursataker/cve303_fall_2020 | 未查询到CVE信息| 
 | 20201023T08:17:18Z | 未知编号 | 2020l4web-typography-css-library-DanCvejn created by GitHub Classroom | https://github.com/pslib-cz/2020l4web-typography-css-library-DanCvejn | 未查询到CVE信息| 
-| 20201023T00:45:26Z | CVE-2020-27199 | Null | https://github.com/9lyph/CVE-2020-27199 | 未查询到CVE信息| 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20201025T21:32:38Z | Create CFGs and compute complexity metrics for Python, C++, and Java code. | https://github.com/hmc-alpaqa/metrinome | 4 | 0| 
 | 20201025T00:27:05Z | Null | https://github.com/KleeUT/kleeut.com | 0 | 0| 
 | 20201023T11:54:35Z | Symbiotic is a tool for finding bugs in computer programs based on instrumentation, program slicing and KLEE | https://github.com/staticafi/symbiotic | 199 | 33| 
-| 20201023T01:43:28Z | Create CFGs and compute complexity metrics for Python, C++, and Java code. | https://github.com/hmc-alpaqa/metrinome | 4 | 0| 
-| 20201022T02:03:43Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1527 | 467| 
+| 20201022T02:03:43Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1527 | 466| 
 | 20201021T16:32:26Z | RVT is a collection of tools/libraries to support both static and dynamic verification of Rust programs. | https://github.com/project-oak/rust-verification-tools | 90 | 5| 
 | 20201020T15:59:34Z | Urban Evidence Based Policy (SPPA667) | https://github.com/KLeeDE/PUS2020_KLee | 0 | 1| 
 | 20201020T15:15:59Z | A tool that automatically calls Klee to solve for injection | https://github.com/Zzzode/KleeTool | 1 | 0| 
@@ -86,16 +86,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20201025T12:59:46Z | Unicorn Framework is a Linux post-exploitation framework that exploits Linux TCP vulnerability to get interactive shell connection with a lot of features such as downloading files, uploading files, getting system information and etc. | https://github.com/EntySec/unicorn | 5 | 1| 
-| 20201025T12:58:51Z | Web dorking by Google Hacking Database Issue [Exploit-DB] | https://github.com/nalonal/ghdb | 0 | 0| 
-| 20201025T12:47:53Z | Tegra 3 and Tegra 4 TrustZone UEFI variable services handler exploit and Secure Boot unlock tool | https://github.com/NekomimiRouter/yahallo | 15 | 0| 
-| 20201025T12:42:17Z | NodeSpy is an accurate malicious website generator for stealing information. | https://github.com/VerviumStrike/NodeSpy | 0 | 0| 
-| 20201025T11:35:13Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 8447 | 1291| 
-| 20201025T11:21:47Z | Sifter is a OSINT, recon & vulnerability scanner. It incorporates a plethara of tools within different module sets that tries to cover every attack vector. Allowing you to quickly perform recon tasks and organize the results in one place. From OSINT to Recon, Exploitation, Post-Exploitation, OpSec, Threat Analysis, XSS, SQLinjection, Network Scanning, WebApp Analysis or DNS enumeration.. Sifter should be able to cover it all. | https://github.com/s1l3nt78/sifter | 268 | 84| 
-| 20201025T11:07:40Z | The Browser Exploitation Framework Project | https://github.com/beefproject/beef | 5320 | 1282| 
-| 20201025T10:21:17Z | This package, written in php, can scan PHP files and analyze your project for find malicious code inside it. It provides a text terminal console interface to scan files in a given directory and find PHP code files the seem to contain malicious code. | https://github.com/marcocesarato/PHP-Antimalware-Scanner | 137 | 28| 
-| 20201025T09:43:04Z | Vulmap是一款漏洞扫描工具，可对Web容器、Web服务器、Web中间件以及CMS等Web程序进行漏洞扫描，并且具备漏洞利用功能。 相关测试人员可以使用vulmap检测目标是否存在特定漏洞，并且可以使用漏洞利用功能验证漏洞是否真实存在。 | https://github.com/zhzyker/vulmap | 274 | 46| 
-| 20201025T08:05:19Z | 6.72 PS4 JAILBREAK EXPLOIT V9  | https://github.com/Eddz123/EddzPS4JB.github.io | 0 | 0| 
+| 20201026T00:00:56Z | Docker based DNS component of the PS4 Exploit Host | https://github.com/Al-Azif/exploit-host-dns | 0 | 0| 
+| 20201025T23:54:04Z | Python exploit for CVE-2012-2982 | https://github.com/OstojaOfficial/CVE-2012-2982 | 1 | 0| 
+| 20201025T23:49:44Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 8448 | 1290| 
+| 20201025T23:49:24Z | Tegra 3 and Tegra 4 TrustZone UEFI variable services handler exploit and Secure Boot unlock tool | https://github.com/NekomimiRouter/yahallo | 27 | 2| 
+| 20201025T23:45:38Z | Docker based HTTP(S) component of the PS4 Exploit Host  | https://github.com/Al-Azif/exploit-host-http | 0 | 0| 
+| 20201025T23:45:07Z | Null | https://github.com/neuralfilter/exploit_training | 0 | 0| 
+| 20201025T23:36:47Z | A collection of write-ups for binary exploitation and reverse engineering challenges. | https://github.com/ZacharyTraul/Pwn-Rev | 0 | 0| 
+| 20201025T23:28:48Z | Writeups/exploit code for CTFs I%ve done | https://github.com/captainGeech42/ctf-writeups | 10 | 2| 
+| 20201025T22:56:03Z | This package, written in php, can scan PHP files and analyze your project for find malicious code inside it. It provides a text terminal console interface to scan files in a given directory and find PHP code files the seem to contain malicious code. | https://github.com/marcocesarato/PHP-Antimalware-Scanner | 137 | 28| 
+| 20201025T22:49:08Z | An open-source post-exploitation framework for students, researchers and developers. | https://github.com/malwaredllc/byob | 5386 | 1115| 
 
 
 # backdoor on Github 推荐
@@ -116,16 +116,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20201025T12:59:41Z | プロフィー | https://github.com/fuzz88/fuzz88 | 0 | 0| 
-| 20201025T12:46:31Z | A fuzzer made in golang for finding issues like xss, lfi, rce, ssti...that detects issues using change in content length and verify it using signatures | https://github.com/Shivangx01b/BountyIt | 6 | 1| 
-| 20201025T12:08:37Z | The repository contains codes for performing fuzzy map comparison. | https://github.com/beatriznegreiros/fuzzycorr | 1 | 0| 
-| 20201025T11:10:01Z | a File Navigator powered by fzf | https://github.com/SleepyBag/fuzzy-fs | 8 | 1| 
-| 20201025T11:06:31Z | Planning tool | https://github.com/HappyDustbunny/FuzzyFlexx | 1 | 0| 
-| 20201025T10:44:44Z | Null | https://github.com/blaquez/FuzzyFinder | 0 | 0| 
-| 20201025T10:31:30Z | Null | https://github.com/khdinh496/Fuzzy_Wuzzy | 0 | 0| 
-| 20201025T10:18:10Z | Null | https://github.com/reskyppo/FuzzyLogic_Calculator | 0 | 0| 
-| 20201025T09:54:37Z | Simple web input/cookie/url scanner written in python. | https://github.com/iwakura1ain/Fuzzit-Web-Scanner | 0 | 0| 
-| 20201025T09:52:27Z | Examples of complete SharpFuzz fuzzing projects | https://github.com/Metalnem/sharpfuzz-samples | 2 | 0| 
+| 20201025T23:52:55Z | Fuzzy matching for Neovim | https://github.com/amirrezaask/fuzzy.nvim | 19 | 1| 
+| 20201025T23:23:58Z | RcppDeepState, a simple way to fuzz test code in Rcpp packages | https://github.com/akhikolla/RcppDeepState | 0 | 0| 
+| 20201025T23:12:47Z | saphIR is an Intermediate Representation with amd64 and arm64 backends. Also included: a compiler, an arm64 lifter, an arm64 to amd64 dynamic binary translator, and a fuzzer. | https://github.com/balayette/saphIR-project | 17 | 0| 
+| 20201025T23:12:07Z | To make fuzzing Rust easy | https://github.com/smoelius/test-fuzz | 1 | 0| 
+| 20201025T22:51:52Z | FuzzBench - Fuzzer benchmarking as a service. | https://github.com/google/fuzzbench | 544 | 83| 
+| 20201025T22:51:13Z | Tutorials, examples, discussions, research proposals, and other resources related to fuzzing | https://github.com/google/fuzzing | 1466 | 216| 
+| 20201025T22:36:17Z | Null | https://github.com/grupoia/Atividade-Fuzzy | 0 | 0| 
+| 20201025T21:25:19Z | The code behind getfursu.it | https://github.com/veelkoov/fuzzrake | 6 | 0| 
+| 20201025T21:10:07Z | Gentle introduction to basic elasticsearch constructs boosting search: ngrams, shingles, stemmers, suggesters and fuzzy queries. | https://github.com/mtumilowicz/elasticsearch7-ngrams-fuzzy-shingles-stemming-workshop | 1 | 0| 
+| 20201025T21:00:32Z | Null | https://github.com/demetrius-ford/mutation-fuzzer | 0 | 0| 
 
 
 
