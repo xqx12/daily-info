@@ -30,12 +30,12 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20201027T09:54:08Z | CVE-2020-1054 | CVE-2020-1054 | https://github.com/Graham382/CVE-2020-1054 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  11 HOURS 32 MINUTES 38 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201027T09:54:08Z | CVE-2020-1054 | CVE-2020-1054 | https://github.com/Graham382/CVE-2020-1054 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  11 HOURS 30 MINUTES 38 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20201027T09:25:42Z | CVE-2020-8241 | Pulse Secure VPN mitm Research - CVE-2020-8241, CVE-2020-8239 | https://github.com/withdk/pulse-secure-vpn-mitm-research | 未查询到CVE信息| 
-| 20201027T09:04:25Z | CVE-2020-15906 | Writeup of CVE-2020-15906 | https://github.com/S1lkys/CVE-2020-15906 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  11 HOURS 32 MINUTES 22 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20201027T08:22:34Z | CVE-2020-14181 | POC For CVE-2020-1481 - Jira Username Enumerator/Validator | https://github.com/Rival420/CVE-2020-14181 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  11 HOURS 32 MINUTES 36 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201027T09:04:25Z | CVE-2020-15906 | Writeup of CVE-2020-15906 | https://github.com/S1lkys/CVE-2020-15906 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  11 HOURS 30 MINUTES 23 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201027T08:22:34Z | CVE-2020-14181 | POC For CVE-2020-1481 - Jira Username Enumerator/Validator | https://github.com/Rival420/CVE-2020-14181 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  11 HOURS 30 MINUTES 37 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20201027T07:35:06Z | cve-2020-15148 | cve-2020-15148 | https://github.com/Kamimuka/cve-2020-15148 | 未查询到CVE信息| 
-| 20201027T04:09:58Z | CVE-2020-1472 | Null | https://github.com/mingchen-script/CVE-2020-1472-visualizer | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  11 HOURS 32 MINUTES 23 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201027T04:09:58Z | CVE-2020-1472 | Null | https://github.com/mingchen-script/CVE-2020-1472-visualizer | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  11 HOURS 30 MINUTES 24 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 
 
 # klee on Github 推荐
@@ -55,8 +55,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20201027T12:28:14Z | AliGuard PHP WAF | https://github.com/alicangonullu/phpwaf-phanalyzer | 3 | 4| 
 | 20201027T12:17:08Z | A command-line tool for exploiting OSCP-like buffer overflows. | https://github.com/sradley/overflow | 0 | 0| 
-| 20201027T12:08:07Z | AliGuard PHP WAF | https://github.com/alicangonullu/phpwaf-phanalyzer | 3 | 4| 
 | 20201027T12:00:12Z | Penetration testing scripts you%ll need in Web Server exploitation, File extension bruteforce et al | https://github.com/starlingvibes/pentest-scripts | 0 | 0| 
 | 20201027T11:51:10Z | Kernel development & exploitation practice environment. | https://github.com/pwncollege/pwnkernel | 3 | 0| 
 | 20201027T11:39:34Z | Cve and Exploit Finder on the target | https://github.com/capture0x/CVE-FIND | 1 | 0| 
@@ -82,8 +82,9 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20201027T12:29:04Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 3194 | 736| 
+| 20201027T12:26:49Z | Planning tool | https://github.com/HappyDustbunny/FuzzyFlexx | 1 | 0| 
 | 20201027T12:14:19Z | Java reverse shell | https://github.com/fredmoto/https-github.com-tennc-webshell-blob-master-fuzzdb-webshell-jsp-cmd.jsp | 0 | 0| 
-| 20201027T11:59:34Z | Planning tool | https://github.com/HappyDustbunny/FuzzyFlexx | 1 | 0| 
 | 20201027T11:55:11Z | combines induced and total dipoles, calculates auto-correlation and performs Fourier-Laplace transform, for finding (real and imaginary) susceptibility spectrum and THz absorption | https://github.com/JLBarilone/fuzzy-spoon | 0 | 0| 
 | 20201027T11:38:35Z | a white box fuzzing toolkit | https://github.com/Illyrix/tidb-go-fuzz | 0 | 0| 
 | 20201027T11:20:31Z | Null | https://github.com/Vita3K/fuzz-the-vita-gpu | 1 | 0| 
@@ -91,7 +92,6 @@
 | 20201027T10:58:38Z | a File Navigator powered by fzf | https://github.com/SleepyBag/fuzzy-fs | 9 | 1| 
 | 20201027T10:57:50Z | Null | https://github.com/WillRoque/simple-fuzzing | 0 | 0| 
 | 20201027T10:46:20Z | Null | https://github.com/lennne/Fuzzy-Logic-to-Diagnose-Malaria | 0 | 0| 
-| 20201027T10:24:15Z | A list of payload and bypass lists for penetration testing and red team infrastructure build. | https://github.com/ffffffff0x/AboutSecurity | 110 | 26| 
 
 
 
