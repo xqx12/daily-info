@@ -82,7 +82,8 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20201027T12:50:10Z | Null | https://github.com/fuzztarou/fuzztaou.github.io | 0 | 0| 
+| 20201027T12:55:08Z | Null | https://github.com/fuzztarou/fuzztaou.github.io | 0 | 0| 
+| 20201027T12:53:35Z | Differential Fuzzer for Ethereum 2.0 | https://github.com/sigp/beacon-fuzz | 54 | 9| 
 | 20201027T12:47:23Z | A JavaScript library that creates regular expressions for fuzzy searching Pashto text | https://github.com/lingdocs/fuzzify-pashto | 0 | 0| 
 | 20201027T12:32:59Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2180 | 104| 
 | 20201027T12:29:04Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 3194 | 736| 
@@ -91,7 +92,6 @@
 | 20201027T11:55:11Z | combines induced and total dipoles, calculates auto-correlation and performs Fourier-Laplace transform, for finding (real and imaginary) susceptibility spectrum and THz absorption | https://github.com/JLBarilone/fuzzy-spoon | 0 | 0| 
 | 20201027T11:38:35Z | a white box fuzzing toolkit | https://github.com/Illyrix/tidb-go-fuzz | 0 | 0| 
 | 20201027T11:20:31Z | Null | https://github.com/Vita3K/fuzz-the-vita-gpu | 1 | 0| 
-| 20201027T11:06:53Z | A python3 intruder that gave me bounties, easy to use and as fast as fuff | https://github.com/ElSicarius/SuperTruder | 20 | 3| 
 
 
 
