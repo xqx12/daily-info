@@ -17,6 +17,8 @@
 | 20201027 | Creating your own Virtual Service Accounts | https://www.tiraniddo.dev/2020/10/creating-your-own-virtual-service.html| 
 | 20201027 | Checkpoint 对 Exploit 开发者 PlayBit 的“指纹”追踪 | https://sec.today/pulses/6204a40f-8783-4f4d-9051-28cd74a56a23/| 
 | 20201027 | 针对阿拉伯语地区的北非狐（APT-C-44）攻击活动揭露 | https://sec.today/pulses/4b14fa89-0040-4006-bf02-d5949e03d0df/| 
+| 20201027 | Checkpoint 对 Exploit 开发者 PlayBit 的“指纹”追踪 | https://research.checkpoint.com/2020/graphology-of-an-exploit-playbit/| 
+| 20201027 | 针对阿拉伯语地区的北非狐（APT-C-44）攻击活动揭露 | http://blogs.360.cn/post/APT-C-44.html| 
 | 20201026 | Gateway2Hell - Citrix 网关插件多个提权漏洞的分析 | https://cymptom.com/gateway2hell-multiple-privilege-escalation-vulnerabilities-in-citrix-gateway-plug-in/2020/10/| 
 | 20201026 | macOS 二进制 plist 解析的 Bug 分析 | https://objective-see.com/blog/blog_0x5A.html| 
 | 20201026 | 检测当前进程是否运行在 Windows Sandbox 环境的工具 | https://github.com/LloydLabs/wsb-detect| 
@@ -24,8 +26,6 @@
 | 20201026 | Fuzzing、二进制程序分析方向的 Papers 收集 | https://github.com/0xricksanchez/paper_collection| 
 | 20201026 | 第七届 Flare-On CTF 比赛赛题的 Writeup | https://www.fireeye.com/blog/threat-research/2020/10/flare-on-7-challenge-solutions.html| 
 | 20201026 | 利用 MITRE ATT&CK 提到的威胁情报数据检测 APT 攻击组织 Lazarus 的活动 | http://labs.f-secure.com/blog/catching-lazarus-threat-intelligence-to-real-detection-logic-part-two/| 
-| 20201026 | Pass-the-hash WiFi | http://sensepost.com/blog/2020/pass-the-hash-wifi/| 
-| 20201026 | 通过应用市场 App 实现 Samsung Galaxy 手机的 RCE | https://labs.f-secure.com/blog/samsung-s20-rce-via-samsung-galaxy-store-app/| 
 
 
 # 安全维基 推荐
@@ -101,16 +101,16 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20201027T11:11:43Z | Undetectable & Xor encrypting with custom KEY (FUD Metasploit Rat) bypass Top Antivirus like BitDefender,Malwarebytes,Avast,ESET-NOD32,AVG,... & Automatically Add ICON and MANIFEST to excitable | https://github.com/persianhydra/Xeexe-TopAntivirusEvasion | 204 | 57| 
+| 20201027T10:18:39Z | Null | https://github.com/marychev-akvelon/xamarin-demoapp-backdoor | 0 | 0| 
+| 20201027T09:48:09Z | Open-Source Remote Administration Tool For Windows C# (RAT) | https://github.com/NYAN-x-CAT/AsyncRAT-C-Sharp | 629 | 302| 
+| 20201027T08:14:55Z | This package, written in php, can scan PHP files and analyze your project for find malicious code inside it. It provides a text terminal console interface to scan files in a given directory and find PHP code files the seem to contain malicious code. | https://github.com/marcocesarato/PHP-Antimalware-Scanner | 140 | 28| 
+| 20201027T05:55:07Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 78 | 9| 
+| 20201027T04:32:29Z | Backdoor is a fast growing IT and Technology based IT Professional Group. Everyone will get their own IT-based services and solutions. We will learn not only ourselves but also help others to learn so that one day the information-based Bangladesh will be formed, it is a strong bonded from Backdoor. | https://github.com/backdoordhaka/backdoordhaka.github.io | 0 | 0| 
 | 20201027T00:52:26Z | Simple sudo backdoor hunter written in Python. | https://github.com/VainlyStrain/checkdoor | 1 | 2| 
-| 20201026T21:27:21Z | This package, written in php, can scan PHP files and analyze your project for find malicious code inside it. It provides a text terminal console interface to scan files in a given directory and find PHP code files the seem to contain malicious code. | https://github.com/marcocesarato/PHP-Antimalware-Scanner | 139 | 28| 
 | 20201026T20:20:23Z | AI based Backdoor Written for Windows using Telegram-bot, ZMQ, and Socket as Its Back-ends. | https://github.com/wildonion/katyusha | 1 | 0| 
-| 20201026T18:37:03Z | LKM rootkit for Linux Kernels 2.6.x/3.x/4.x/5.x (x86/x86_64 and ARM64) | https://github.com/m0nad/Diamorphine | 645 | 250| 
+| 20201026T18:37:03Z | LKM rootkit for Linux Kernels 2.6.x/3.x/4.x/5.x (x86/x86_64 and ARM64) | https://github.com/m0nad/Diamorphine | 645 | 251| 
 | 20201026T17:31:27Z | Full-featured C2 framework which silently persists on webserver with a single-line PHP backdoor | https://github.com/nil0x42/phpsploit | 1058 | 318| 
-| 20201026T17:28:10Z | Unicorn Framework is a Linux post-exploitation framework that exploits Linux TCP vulnerability to get interactive shell connection with a lot of features such as downloading files, uploading files, getting system information and etc. | https://github.com/EntySec/unicorn | 6 | 1| 
-| 20201026T17:23:22Z | PyIris-backdoor is a modular, stealthy and flexible remote-access-toolkit written completely in python used to command and control other systems. It is now in the beta stage, possibly perpetually. There are bugs still present in the framework, feel free to contribute or help me out with this project its still under active development >_> | https://github.com/angus-y/PyIris-backdoor | 123 | 40| 
-| 20201026T15:36:52Z | Null | https://github.com/EvGenius0808/Backdoor | 1 | 0| 
-| 20201026T12:01:09Z | Backdoor is a fast growing IT and Technology based IT Professional Group. Everyone will get their own IT-based services and solutions. We will learn not only ourselves but also help others to learn so that one day the information-based Bangladesh will be formed, it is a strong bonded from Backdoor. | https://github.com/backdoordhaka/backdoordhaka.github.io | 0 | 0| 
-| 20201026T11:46:50Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 77 | 9| 
 
 
 # fuzz on Github 推荐

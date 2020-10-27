@@ -17,6 +17,8 @@
 | 20201027 | Creating your own Virtual Service Accounts | https://www.tiraniddo.dev/2020/10/creating-your-own-virtual-service.html| 
 | 20201027 | Checkpoint 对 Exploit 开发者 PlayBit 的“指纹”追踪 | https://sec.today/pulses/6204a40f-8783-4f4d-9051-28cd74a56a23/| 
 | 20201027 | 针对阿拉伯语地区的北非狐（APT-C-44）攻击活动揭露 | https://sec.today/pulses/4b14fa89-0040-4006-bf02-d5949e03d0df/| 
+| 20201027 | Checkpoint 对 Exploit 开发者 PlayBit 的“指纹”追踪 | https://research.checkpoint.com/2020/graphology-of-an-exploit-playbit/| 
+| 20201027 | 针对阿拉伯语地区的北非狐（APT-C-44）攻击活动揭露 | http://blogs.360.cn/post/APT-C-44.html| 
 
 
 # 安全维基 推荐
@@ -68,6 +70,12 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20201027T11:11:43Z | Undetectable & Xor encrypting with custom KEY (FUD Metasploit Rat) bypass Top Antivirus like BitDefender,Malwarebytes,Avast,ESET-NOD32,AVG,... & Automatically Add ICON and MANIFEST to excitable | https://github.com/persianhydra/Xeexe-TopAntivirusEvasion | 204 | 57| 
+| 20201027T10:18:39Z | Null | https://github.com/marychev-akvelon/xamarin-demoapp-backdoor | 0 | 0| 
+| 20201027T09:48:09Z | Open-Source Remote Administration Tool For Windows C# (RAT) | https://github.com/NYAN-x-CAT/AsyncRAT-C-Sharp | 629 | 302| 
+| 20201027T08:14:55Z | This package, written in php, can scan PHP files and analyze your project for find malicious code inside it. It provides a text terminal console interface to scan files in a given directory and find PHP code files the seem to contain malicious code. | https://github.com/marcocesarato/PHP-Antimalware-Scanner | 140 | 28| 
+| 20201027T05:55:07Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 78 | 9| 
+| 20201027T04:32:29Z | Backdoor is a fast growing IT and Technology based IT Professional Group. Everyone will get their own IT-based services and solutions. We will learn not only ourselves but also help others to learn so that one day the information-based Bangladesh will be formed, it is a strong bonded from Backdoor. | https://github.com/backdoordhaka/backdoordhaka.github.io | 0 | 0| 
 | 20201027T00:52:26Z | Simple sudo backdoor hunter written in Python. | https://github.com/VainlyStrain/checkdoor | 1 | 2| 
 
 
