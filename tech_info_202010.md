@@ -32,6 +32,7 @@
 | ts | title | url| 
 | --- | --- | ---| 
 | 20201027 | Msfvenom生成各类载荷文件 | https://mp.weixin.qq.com/s/dLFUKbn_0rIWlz0ZdEtTuA| 
+| 20201027 | 银行业安全运营平台的建设与思考 | https://mp.weixin.qq.com/s/UncU7f92p5Mlxt353Galrg| 
 | 20201026 | SecWiki周刊（第347期) | https://www.sec-wiki.com/weekly/347| 
 | 20201026 | 将风险评估结果映射到ATT&CK框架 | https://mp.weixin.qq.com/s/DZF4HwX4xuedpqoAFyhw5w| 
 | 20201026 | 软件源码安全攻防之道（下） | https://mp.weixin.qq.com/s/7HAVA0DgtxlCnD21aiq_mQ| 
@@ -40,22 +41,21 @@
 | 20201025 | Meterpreter中文乱码的解决 | https://mp.weixin.qq.com/s/9hyWeoo8Vn1i-whG9cjDKQ| 
 | 20201025 | 图解Transformer | https://mp.weixin.qq.com/s/cJqhESxTMy5cfj0EXh9s4w| 
 | 20201023 | 《个人信息保护法(草案)》与GDPR的比较 | https://mp.weixin.qq.com/s/4n3lYjzPRSbjIsPqzyDDmQ| 
-| 20201023 | 谷歌开源内部代码评审规范 | https://mp.weixin.qq.com/s/8vPXLxzD1iZ8E_emhruSHQ| 
 
 
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20201027T12:58:55Z | CVE-2020-8241 | Pulse Secure VPN mitm Research - CVE-2020-8241, CVE-2020-8239 | https://github.com/withdk/pulse-secure-vpn-mitm-research | 未查询到CVE信息| 
-| 20201027T09:54:08Z | CVE-2020-1054 | CVE-2020-1054 | https://github.com/Graham382/CVE-2020-1054 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  11 HOURS 00 MINUTES 39 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20201027T09:04:25Z | CVE-2020-15906 | Writeup of CVE-2020-15906 | https://github.com/S1lkys/CVE-2020-15906 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  11 HOURS 00 MINUTES 23 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20201027T08:22:34Z | CVE-2020-14181 | POC For CVE-2020-1481 - Jira Username Enumerator/Validator | https://github.com/Rival420/CVE-2020-14181 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  11 HOURS 00 MINUTES 38 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201027T22:53:30Z | CVE-2020-16939 | PoC code for CVE-2020-16939 Windows Group Policy DACL Overwrite Privilege Escalation | https://github.com/rogue-kdc/CVE-2020-16939 | 当组策略不正确地检查访问权限（也称为“组策略特权提升漏洞”）时，存在特权提升漏洞。| 
+| 20201027T21:09:36Z | CVE-2020-0688 | CVE-2020-0688 PoC | https://github.com/zyn3rgy/ecp_slap | 当Microsoft Exchange软件无法正确处理内存中的对象（也称为“ Microsoft Exchange内存损坏漏洞”）时，将存在一个远程执行代码漏洞。| 
+| 20201027T20:51:58Z | CVE-2020-8241 | Pulse Secure VPN mitm Research - CVE-2020-8241, CVE-2020-8239 | https://github.com/withdk/pulse-secure-vpn-mitm-research | 未查询到CVE信息| 
+| 20201027T16:32:37Z | CVE-2020-16898 | CVE-2020-16898 (Bad Neighbor) Microsoft Windows TCP/IP Vulnerability Detection Logic and Rule | https://github.com/advanced-threat-research/CVE-2020-16898 | 当Windows TCP / IP堆栈不正确地处理ICMPv6路由器播发数据包（也称为“ Windows TCP / IP远程执行代码漏洞”）时，存在一个远程执行代码漏洞。| 
+| 20201027T09:54:08Z | CVE-2020-1054 | CVE-2020-1054 | https://github.com/Graham382/CVE-2020-1054 | 当Windows内核模式驱动程序无法正确处理内存中的对象（也称为“ Win32k特权提升漏洞”）时，Windows中存在一个特权提升漏洞。此CVE ID从CVE-2020-1143起是唯一的。| 
+| 20201027T09:04:25Z | CVE-2020-15906 | Writeup of CVE-2020-15906 | https://github.com/S1lkys/CVE-2020-15906 | 在21.2之前的Tiki中，tiki-login.php将50次无效登录尝试后的管理员密码设置为空白值。| 
+| 20201027T08:22:34Z | CVE-2020-14181 | POC For CVE-2020-1481 - Jira Username Enumerator/Validator | https://github.com/Rival420/CVE-2020-14181 | 受影响的Atlassian Jira Server和Data Center版本允许未经身份验证的用户通过/ViewUserHover.jspa端点中的信息泄露漏洞枚举用户。受影响的版本是7.13.6之前的版本，8.5.7之前的8.0.0版本和8.12.0之前的8.6.0版本。| 
 | 20201027T07:35:06Z | cve-2020-15148 | cve-2020-15148 | https://github.com/Kamimuka/cve-2020-15148 | 未查询到CVE信息| 
-| 20201027T04:09:58Z | CVE-2020-1472 | Null | https://github.com/mingchen-script/CVE-2020-1472-visualizer | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  11 HOURS 00 MINUTES 24 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20201026T17:46:13Z | CVE-2020-16898 | CVE-2020-16898 (Bad Neighbor) Microsoft Windows TCP/IP Vulnerability Detection Logic and Rule | https://github.com/advanced-threat-research/CVE-2020-16898 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  11 HOURS 00 MINUTES 27 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20201026T16:12:48Z | CVE-2020-0688 | CVE-2020-0688 PoC | https://github.com/zyn3rgy/ecp_slap | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  11 HOURS 00 MINUTES 34 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201027T04:09:58Z | CVE-2020-1472 | Null | https://github.com/mingchen-script/CVE-2020-1472-visualizer | 当攻击者使用Netlogon远程协议（MS-NRPC）（又称为“ Netlogon特权提升漏洞”）建立与域控制器的易受攻击的Netlogon安全通道连接时，将存在特权提升漏洞。| 
 | 20201026T02:19:56Z | CVE-2020-1472 | Test tool for CVE-2020-1472 | https://github.com/SecuraBV/CVE-2020-1472 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 00 MINUTES 21 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20201026T01:31:00Z | CVE-2020-15931 | Netwrix Account Lockout Examiner 4.1 Domain Admin Account Credential Disclosure Vulnerability | https://github.com/optiv/CVE-2020-15931 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  11 HOURS 00 MINUTES 25 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 
 
 # klee on Github 推荐
@@ -86,16 +86,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20201027T12:52:19Z | Kernel development & exploitation practice environment. | https://github.com/pwncollege/pwnkernel | 4 | 0| 
-| 20201027T12:48:47Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 5 | 3| 
-| 20201027T12:45:50Z | AliGuard PHP WAF | https://github.com/alicangonullu/phpwaf-phanalyzer | 3 | 4| 
-| 20201027T12:44:51Z | Server-Side Template Injection and Code Injection Detection and Exploitation Tool | https://github.com/epinna/tplmap | 1937 | 436| 
-| 20201027T12:39:34Z | Cve and Exploit Finder on the target | https://github.com/capture0x/CVE-FIND | 1 | 0| 
-| 20201027T12:17:08Z | A command-line tool for exploiting OSCP-like buffer overflows. | https://github.com/sradley/overflow | 0 | 0| 
-| 20201027T12:00:12Z | Penetration testing scripts you%ll need in Web Server exploitation, File extension bruteforce et al | https://github.com/starlingvibes/pentest-scripts | 0 | 0| 
-| 20201027T11:26:03Z | A tool for remote ADB exploitation in Python3 for all Machines. | https://github.com/01010000-kumar/PhoneSploit | 43 | 30| 
-| 20201027T10:40:44Z | [SPOILER ALERT] Tools, notes and custom exploits | https://github.com/limitedeternity/HackTheBox | 0 | 0| 
-| 20201027T10:12:56Z | CTF framework and exploit development library | https://github.com/Gallopsled/pwntools | 7177 | 1297| 
+| 20201027T23:57:31Z | :ant: Automate finding XSS exploits in URL query strings | https://github.com/boydlowr/getcheck | 0 | 0| 
+| 20201027T23:49:50Z | Null | https://github.com/SeanLossef/modern-binary-exploitation | 0 | 0| 
+| 20201027T23:43:43Z | A CFW using my VanHax exploit | https://github.com/Kingy34/VanCFW | 1 | 0| 
+| 20201027T23:19:42Z | Fixes an odd dupe exploit found in the latest Spigot & Bukkit 1.16.3. | https://github.com/matthewfox1988/dupefix | 0 | 0| 
+| 20201027T23:09:06Z | Representing nine ways to exploit XSS (vulnerable app!) | https://github.com/kevin-valerio/NineXSS | 0 | 0| 
+| 20201027T22:44:43Z | editoRT: A client-server architecture that exploits the CRDT algorithm in order to implement a complete Shared Editor solution. | https://github.com/nopesir/pds-project | 1 | 0| 
+| 20201027T21:19:02Z | Null | https://github.com/RobinvandenHurk/exploits | 0 | 0| 
+| 20201027T20:55:30Z | CTF pwn challenges exploits. | https://github.com/lockedbyte/exploit-challenges | 1 | 0| 
+| 20201027T20:36:22Z | An exploitable nodejs application | https://github.com/conikeec/explnode | 1 | 4| 
+| 20201027T19:26:43Z | Null | https://github.com/doger123/Course-Exploits.github.io | 1 | 0| 
 
 
 # backdoor on Github 推荐
@@ -116,16 +116,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20201027T12:56:08Z | Differential Fuzzer for Ethereum 2.0 | https://github.com/sigp/beacon-fuzz | 54 | 9| 
-| 20201027T12:55:08Z | Null | https://github.com/fuzztarou/fuzztaou.github.io | 0 | 0| 
-| 20201027T12:47:23Z | A JavaScript library that creates regular expressions for fuzzy searching Pashto text | https://github.com/lingdocs/fuzzify-pashto | 0 | 0| 
-| 20201027T12:32:59Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2180 | 104| 
-| 20201027T12:29:04Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 3194 | 736| 
-| 20201027T12:26:49Z | Planning tool | https://github.com/HappyDustbunny/FuzzyFlexx | 1 | 0| 
-| 20201027T12:14:19Z | Java reverse shell | https://github.com/fredmoto/https-github.com-tennc-webshell-blob-master-fuzzdb-webshell-jsp-cmd.jsp | 0 | 0| 
-| 20201027T11:55:11Z | combines induced and total dipoles, calculates auto-correlation and performs Fourier-Laplace transform, for finding (real and imaginary) susceptibility spectrum and THz absorption | https://github.com/JLBarilone/fuzzy-spoon | 0 | 0| 
-| 20201027T11:38:35Z | a white box fuzzing toolkit | https://github.com/Illyrix/tidb-go-fuzz | 0 | 0| 
-| 20201027T11:20:31Z | Null | https://github.com/Vita3K/fuzz-the-vita-gpu | 1 | 0| 
+| 20201027T23:58:34Z | VMI Kernel Fuzzer for Xen Project - VM forking, VMI & AFL integration demo | https://github.com/intel/kernel-fuzzer-for-xen-project | 155 | 26| 
+| 20201027T23:44:02Z | create artificial elf using protobuffer  | https://github.com/SpiralBL0CK/Protobuf-ELF-FUzzer | 0 | 0| 
+| 20201027T23:00:51Z | Provide candidates to user for Name or Subject Search | https://github.com/ZhirenXu/LibraryOfCongress-Subject-Name-fuzzy-search | 0 | 0| 
+| 20201027T22:53:18Z | A plugin based fuzzer | https://github.com/elast0ny/CROWDFUZZ | 2 | 0| 
+| 20201027T22:45:46Z | RTSPhuzz - An RTSP Fuzzer written using the Boofuzz framework | https://github.com/IncludeSecurity/RTSPhuzz | 20 | 1| 
+| 20201027T21:57:54Z | Coursework for CS551J | https://github.com/MatInGit/FuzzyLogicSystem | 0 | 0| 
+| 20201027T21:52:34Z | FuzzBench - Fuzzer benchmarking as a service. | https://github.com/google/fuzzbench | 546 | 85| 
+| 20201027T21:48:25Z | Code for fuzzy monkeys. | https://github.com/fuzzyatelin/fuzzyatelin.github.io | 3 | 9| 
+| 20201027T21:43:50Z | Null | https://github.com/snizovtsev/tmux-fuzzing-corpus | 0 | 0| 
+| 20201027T21:36:11Z | Fuzz testing in the unit and integration phase with fuzz data from FuzzDB | https://github.com/fuzzdbunit/fuzzdbunit | 0 | 0| 
 
 
 
