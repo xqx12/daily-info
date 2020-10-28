@@ -74,13 +74,16 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20201027T11:11:43Z | Undetectable & Xor encrypting with custom KEY (FUD Metasploit Rat) bypass Top Antivirus like BitDefender,Malwarebytes,Avast,ESET-NOD32,AVG,... & Automatically Add ICON and MANIFEST to excitable | https://github.com/persianhydra/Xeexe-TopAntivirusEvasion | 204 | 57| 
+| 20201027T22:32:48Z | This package, written in php, can scan PHP files and analyze your project for find malicious code inside it. It provides a text terminal console interface to scan files in a given directory and find PHP code files the seem to contain malicious code. | https://github.com/marcocesarato/PHP-Antimalware-Scanner | 141 | 28| 
+| 20201027T19:06:32Z | Simple Python Backdoor | https://github.com/zNairy/Sonaris | 4 | 0| 
+| 20201027T17:58:40Z | Open-Source Remote Administration Tool For Windows C# (RAT) | https://github.com/NYAN-x-CAT/AsyncRAT-C-Sharp | 629 | 302| 
+| 20201027T17:01:50Z | Undetectable & Xor encrypting with custom KEY (FUD Metasploit Rat) bypass Top Antivirus like BitDefender,Malwarebytes,Avast,ESET-NOD32,AVG,... & Automatically Add ICON and MANIFEST to excitable | https://github.com/persianhydra/Xeexe-TopAntivirusEvasion | 205 | 58| 
+| 20201027T16:46:09Z | Simple sudo backdoor hunter written in Python. | https://github.com/VainlyStrain/checkdoor | 1 | 2| 
+| 20201027T16:23:13Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 80 | 9| 
+| 20201027T14:03:30Z | Pupy is an opensource, cross-platform (Windows, Linux, OSX, Android) remote administration and post-exploitation tool mainly written in python | https://github.com/n1nj4sec/pupy | 5871 | 1523| 
+| 20201027T13:27:49Z | Null | https://github.com/Adk2001tech/Biometric-Backdoors | 1 | 0| 
 | 20201027T10:18:39Z | Null | https://github.com/marychev-akvelon/xamarin-demoapp-backdoor | 0 | 0| 
-| 20201027T09:48:09Z | Open-Source Remote Administration Tool For Windows C# (RAT) | https://github.com/NYAN-x-CAT/AsyncRAT-C-Sharp | 629 | 302| 
-| 20201027T08:14:55Z | This package, written in php, can scan PHP files and analyze your project for find malicious code inside it. It provides a text terminal console interface to scan files in a given directory and find PHP code files the seem to contain malicious code. | https://github.com/marcocesarato/PHP-Antimalware-Scanner | 140 | 28| 
-| 20201027T05:55:07Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 78 | 9| 
 | 20201027T04:32:29Z | Backdoor is a fast growing IT and Technology based IT Professional Group. Everyone will get their own IT-based services and solutions. We will learn not only ourselves but also help others to learn so that one day the information-based Bangladesh will be formed, it is a strong bonded from Backdoor. | https://github.com/backdoordhaka/backdoordhaka.github.io | 0 | 0| 
-| 20201027T00:52:26Z | Simple sudo backdoor hunter written in Python. | https://github.com/VainlyStrain/checkdoor | 1 | 2| 
 
 
 # fuzz on Github 推荐
