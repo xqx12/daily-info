@@ -48,14 +48,14 @@
 | --- | --- | --- | --- | ---| 
 | 20201028T12:25:07Z | CVE-2020-8241 | Pulse Secure VPN mitm Research - CVE-2020-8241, CVE-2020-8239 | https://github.com/withdk/pulse-secure-vpn-mitm-research | 未查询到CVE信息| 
 | 20201028T11:59:54Z | 未知编号 | CVE-2020–14882、CVE-2020–14883 | https://github.com/jas502n/Weblogic | 未查询到CVE信息| 
-| 20201028T11:38:33Z | CVE-2020-16898 | CVE-2020-16898 Windows TCP/IP远程代码执行漏洞 EXP&POC | https://github.com/komomon/CVE-2020-16898--EXP-POC | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  11 HOURS 29 MINUTES 41 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20201028T11:21:02Z | CVE-2020-16898 | CVE-2020-16898 Windows TCP/IP远程代码执行漏洞 EXP&POC | https://github.com/komomon/CVE-2020-16898-EXP-POC | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  11 HOURS 29 MINUTES 33 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20201028T09:45:43Z | CVE-2020-14181 | POC For CVE-2020-1481 - Jira Username Enumerator/Validator | https://github.com/Rival420/CVE-2020-14181 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  11 HOURS 29 MINUTES 38 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201028T11:38:33Z | CVE-2020-16898 | CVE-2020-16898 Windows TCP/IP远程代码执行漏洞 EXP&POC | https://github.com/komomon/CVE-2020-16898--EXP-POC | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  11 HOURS 28 MINUTES 39 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201028T11:21:02Z | CVE-2020-16898 | CVE-2020-16898 Windows TCP/IP远程代码执行漏洞 EXP&POC | https://github.com/komomon/CVE-2020-16898-EXP-POC | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  11 HOURS 28 MINUTES 32 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201028T09:45:43Z | CVE-2020-14181 | POC For CVE-2020-1481 - Jira Username Enumerator/Validator | https://github.com/Rival420/CVE-2020-14181 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  11 HOURS 28 MINUTES 36 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20201028T09:07:40Z | 未知编号 | EasyAntiCheat minifilter, thread callback and image callback bypass | https://github.com/dethcorx/CVEAC-2020-0002 | 未查询到CVE信息| 
-| 20201028T06:09:12Z | CVE-2020-1054 | Windows 7 LPE | https://github.com/Graham382/CVE-2020-1054 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  11 HOURS 29 MINUTES 40 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20201028T06:08:39Z | CVE-2020-16939 | PoC code for CVE-2020-16939 Windows Group Policy DACL Overwrite Privilege Escalation | https://github.com/rogue-kdc/CVE-2020-16939 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  11 HOURS 29 MINUTES 30 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20201028T03:23:28Z | CVE-2020-0688 | CVE-2020-0688 PoC | https://github.com/zyn3rgy/ecp_slap | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  11 HOURS 29 MINUTES 35 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20201027T16:32:37Z | CVE-2020-16898 | CVE-2020-16898 (Bad Neighbor) Microsoft Windows TCP/IP Vulnerability Detection Logic and Rule | https://github.com/advanced-threat-research/CVE-2020-16898 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  11 HOURS 29 MINUTES 29 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201028T06:09:12Z | CVE-2020-1054 | Windows 7 LPE | https://github.com/Graham382/CVE-2020-1054 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  11 HOURS 28 MINUTES 37 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201028T06:08:39Z | CVE-2020-16939 | PoC code for CVE-2020-16939 Windows Group Policy DACL Overwrite Privilege Escalation | https://github.com/rogue-kdc/CVE-2020-16939 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  11 HOURS 28 MINUTES 28 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201028T03:23:28Z | CVE-2020-0688 | CVE-2020-0688 PoC | https://github.com/zyn3rgy/ecp_slap | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  11 HOURS 28 MINUTES 33 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201027T16:32:37Z | CVE-2020-16898 | CVE-2020-16898 (Bad Neighbor) Microsoft Windows TCP/IP Vulnerability Detection Logic and Rule | https://github.com/advanced-threat-research/CVE-2020-16898 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  11 HOURS 28 MINUTES 27 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 
 
 # klee on Github 推荐
@@ -86,6 +86,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20201028T12:31:05Z | It is an Automated tool | https://github.com/JawadMahdiBD/JexExploit | 0 | 0| 
 | 20201028T12:29:34Z | An attack/exploit Detector that utilizes Polymorphism and Diversity | https://github.com/polyverse/zerotect | 18 | 1| 
 | 20201028T12:25:32Z | This is a space to organize techniques related to linux kernel exploit. | https://github.com/V4bel/kernel-exploit-technique | 0 | 1| 
 | 20201028T12:10:58Z | Kernel development & exploitation practice environment. | https://github.com/pwncollege/pwnkernel | 15 | 1| 
@@ -95,7 +96,6 @@
 | 20201028T11:36:53Z | AliGuard PHP WAF | https://github.com/alicangonullu/phpwaf-phanalyzer | 3 | 4| 
 | 20201028T11:34:39Z | Detail information about  all the vulnerabilities followed by the steps with exploit. | https://github.com/kanhaiya1/Pentest_Vulnerabilities_Guide | 0 | 0| 
 | 20201028T11:33:32Z | CTF framework and exploit development library | https://github.com/Gallopsled/pwntools | 7179 | 1298| 
-| 20201028T11:25:12Z | A command-line tool for exploiting OSCP-like buffer overflows. | https://github.com/sradley/overflow | 0 | 0| 
 
 
 # backdoor on Github 推荐
@@ -116,8 +116,8 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20201028T12:32:09Z | Null | https://github.com/raviuwe30/A-neuro-fuzzy-system-for-control-of-speed-and-steering-control-system | 0 | 0| 
 | 20201028T12:26:13Z | Fuzzer with argv | https://github.com/zodf0055980/Yuan-fuzz | 2 | 0| 
-| 20201028T12:24:53Z | Null | https://github.com/raviuwe30/A-neuro-fuzzy-system-for-control-of-speed-and-steering-control-system | 0 | 0| 
 | 20201028T12:00:34Z | I%ve created Fuzzy logic assisted COVID 19 safety assessment of dental care with tkinter . | https://github.com/manishsharma1402/Fuzzy-logic-assisted-COVID-19-safety-assessment-of-dental-care | 0 | 0| 
 | 20201028T11:50:40Z | Differential Fuzzer for Ethereum 2.0 | https://github.com/sigp/beacon-fuzz | 54 | 9| 
 | 20201028T11:41:28Z | Fast HTTP enumerator | https://github.com/RedTeamPentesting/monsoon | 176 | 25| 
