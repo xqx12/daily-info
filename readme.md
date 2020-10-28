@@ -16,6 +16,7 @@
 | 20201028 | When a stupid oplock leads you to SYSTEM | https://decoder.cloud/2020/10/27/when-a-stupid-oplock-leads-you-to-system/| 
 | 20201028 | Windows 组策略 Client 本地提权漏洞分析（CVE-2020-16939） | https://www.thezdi.com/blog/2020/10/27/cve-2020-16939-windows-group-policy-dacl-overwrite-privilege-escalation| 
 | 20201028 | LinkedIn、Instagram 等应用的链接预览功能可能存在信息泄露风险 | https://sec.today/pulses/24ad2f57-5cf0-4adc-8aa4-08b7a79a5aac/| 
+| 20201028 | LinkedIn、Instagram 等应用的链接预览功能可能存在信息泄露风险 | https://threatpost.com/linkedin-instagram-preview-link-rce-security/160600/| 
 
 
 # 安全维基 推荐
@@ -71,6 +72,12 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20201028T10:42:54Z | Ghost Framework is an Android post-exploitation framework that exploits the Android Debug Bridge to remotely access an Android device. Ghost Framework gives you the power and convenience of remote Android device administration. | https://github.com/EntySec/ghost | 768 | 395| 
+| 20201028T10:34:31Z | backdoor key to kafka topics | https://github.com/dixel/kafkus | 17 | 2| 
+| 20201028T09:40:48Z | Null | https://github.com/Rachmaninovna/Backdoor_FL_pytorch | 0 | 0| 
+| 20201028T09:03:28Z | Pupy is an opensource, cross-platform (Windows, Linux, OSX, Android) remote administration and post-exploitation tool mainly written in python | https://github.com/n1nj4sec/pupy | 5873 | 1523| 
+| 20201028T08:27:45Z | papers for incentive and backdoor research in federated learning. | https://github.com/GillHwang/federated-learning-incentive-backdoor | 1 | 0| 
+| 20201028T07:21:48Z | Full-featured C2 framework which silently persists on webserver with a single-line PHP backdoor | https://github.com/nil0x42/phpsploit | 1059 | 318| 
 | 20201028T01:21:19Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 81 | 9| 
 
 

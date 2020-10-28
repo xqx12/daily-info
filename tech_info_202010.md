@@ -16,6 +16,7 @@
 | 20201028 | When a stupid oplock leads you to SYSTEM | https://decoder.cloud/2020/10/27/when-a-stupid-oplock-leads-you-to-system/| 
 | 20201028 | Windows 组策略 Client 本地提权漏洞分析（CVE-2020-16939） | https://www.thezdi.com/blog/2020/10/27/cve-2020-16939-windows-group-policy-dacl-overwrite-privilege-escalation| 
 | 20201028 | LinkedIn、Instagram 等应用的链接预览功能可能存在信息泄露风险 | https://sec.today/pulses/24ad2f57-5cf0-4adc-8aa4-08b7a79a5aac/| 
+| 20201028 | LinkedIn、Instagram 等应用的链接预览功能可能存在信息泄露风险 | https://threatpost.com/linkedin-instagram-preview-link-rce-security/160600/| 
 | 20201027 | Issue 2103: FreeType: Heap buffer overflow due to integer truncation in Load_SBit_Png | https://bugs.chromium.org/p/project-zero/issues/detail?id=2103| 
 | 20201027 | Active Directory (AD) Attacks & Enumeration at the Network Layer | https://www.lares.com/blog/active-directory-ad-attacks-enumeration-at-the-network-layer/| 
 | 20201027 | Ruckus IoT 控制器 RCE 漏洞分析 | https://adepts.of0x.cc/ruckus-vriot-rce/| 
@@ -25,7 +26,6 @@
 | 20201027 | Pulse Secure VPN 中间人劫持漏洞分析（CVE-2020-8241、CVE-2020-8239） | https://github.com/withdk/pulse-secure-vpn-mitm-research| 
 | 20201027 | Process Herpaderping - 通过替换进程的 Image 文件躲避杀软检测的技术 | https://jxy-s.github.io/herpaderping/| 
 | 20201027 | Creating your own Virtual Service Accounts | https://www.tiraniddo.dev/2020/10/creating-your-own-virtual-service.html| 
-| 20201027 | Checkpoint 对 Exploit 开发者 PlayBit 的“指纹”追踪 | https://sec.today/pulses/6204a40f-8783-4f4d-9051-28cd74a56a23/| 
 
 
 # 安全维基 推荐
@@ -101,16 +101,16 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20201028T10:42:54Z | Ghost Framework is an Android post-exploitation framework that exploits the Android Debug Bridge to remotely access an Android device. Ghost Framework gives you the power and convenience of remote Android device administration. | https://github.com/EntySec/ghost | 768 | 395| 
+| 20201028T10:34:31Z | backdoor key to kafka topics | https://github.com/dixel/kafkus | 17 | 2| 
+| 20201028T09:40:48Z | Null | https://github.com/Rachmaninovna/Backdoor_FL_pytorch | 0 | 0| 
+| 20201028T09:03:28Z | Pupy is an opensource, cross-platform (Windows, Linux, OSX, Android) remote administration and post-exploitation tool mainly written in python | https://github.com/n1nj4sec/pupy | 5873 | 1523| 
+| 20201028T08:27:45Z | papers for incentive and backdoor research in federated learning. | https://github.com/GillHwang/federated-learning-incentive-backdoor | 1 | 0| 
+| 20201028T07:21:48Z | Full-featured C2 framework which silently persists on webserver with a single-line PHP backdoor | https://github.com/nil0x42/phpsploit | 1059 | 318| 
 | 20201028T01:21:19Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 81 | 9| 
 | 20201027T22:32:48Z | This package, written in php, can scan PHP files and analyze your project for find malicious code inside it. It provides a text terminal console interface to scan files in a given directory and find PHP code files the seem to contain malicious code. | https://github.com/marcocesarato/PHP-Antimalware-Scanner | 141 | 28| 
 | 20201027T19:06:32Z | Simple Python Backdoor | https://github.com/zNairy/Sonaris | 4 | 0| 
 | 20201027T17:58:40Z | Open-Source Remote Administration Tool For Windows C# (RAT) | https://github.com/NYAN-x-CAT/AsyncRAT-C-Sharp | 629 | 302| 
-| 20201027T17:01:50Z | Undetectable & Xor encrypting with custom KEY (FUD Metasploit Rat) bypass Top Antivirus like BitDefender,Malwarebytes,Avast,ESET-NOD32,AVG,... & Automatically Add ICON and MANIFEST to excitable | https://github.com/persianhydra/Xeexe-TopAntivirusEvasion | 205 | 58| 
-| 20201027T16:46:09Z | Simple sudo backdoor hunter written in Python. | https://github.com/VainlyStrain/checkdoor | 1 | 2| 
-| 20201027T14:03:30Z | Pupy is an opensource, cross-platform (Windows, Linux, OSX, Android) remote administration and post-exploitation tool mainly written in python | https://github.com/n1nj4sec/pupy | 5871 | 1523| 
-| 20201027T13:27:49Z | Null | https://github.com/Adk2001tech/Biometric-Backdoors | 1 | 0| 
-| 20201027T10:18:39Z | Null | https://github.com/marychev-akvelon/xamarin-demoapp-backdoor | 0 | 0| 
-| 20201027T04:32:29Z | Backdoor is a fast growing IT and Technology based IT Professional Group. Everyone will get their own IT-based services and solutions. We will learn not only ourselves but also help others to learn so that one day the information-based Bangladesh will be formed, it is a strong bonded from Backdoor. | https://github.com/backdoordhaka/backdoordhaka.github.io | 0 | 0| 
 
 
 # fuzz on Github 推荐
