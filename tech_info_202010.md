@@ -17,6 +17,7 @@
 | 20201028 | Windows 组策略 Client 本地提权漏洞分析（CVE-2020-16939） | https://www.thezdi.com/blog/2020/10/27/cve-2020-16939-windows-group-policy-dacl-overwrite-privilege-escalation| 
 | 20201028 | LinkedIn、Instagram 等应用的链接预览功能可能存在信息泄露风险 | https://sec.today/pulses/24ad2f57-5cf0-4adc-8aa4-08b7a79a5aac/| 
 | 20201028 | LinkedIn、Instagram 等应用的链接预览功能可能存在信息泄露风险 | https://threatpost.com/linkedin-instagram-preview-link-rce-security/160600/| 
+| 20201028 | 由卡巴斯基官方发布2020年第三季度的DDoS攻击分析报告。 | https://securelist.com/ddos-attacks-in-q3-2020/99171/| 
 | 20201027 | Issue 2103: FreeType: Heap buffer overflow due to integer truncation in Load_SBit_Png | https://bugs.chromium.org/p/project-zero/issues/detail?id=2103| 
 | 20201027 | Active Directory (AD) Attacks & Enumeration at the Network Layer | https://www.lares.com/blog/active-directory-ad-attacks-enumeration-at-the-network-layer/| 
 | 20201027 | Ruckus IoT 控制器 RCE 漏洞分析 | https://adepts.of0x.cc/ruckus-vriot-rce/| 
@@ -25,7 +26,6 @@
 | 20201027 | macOS 安全方向的入门书籍及相关博客站点 | https://theevilbit.github.io/posts/getting_started_in_macos_security/| 
 | 20201027 | Pulse Secure VPN 中间人劫持漏洞分析（CVE-2020-8241、CVE-2020-8239） | https://github.com/withdk/pulse-secure-vpn-mitm-research| 
 | 20201027 | Process Herpaderping - 通过替换进程的 Image 文件躲避杀软检测的技术 | https://jxy-s.github.io/herpaderping/| 
-| 20201027 | Creating your own Virtual Service Accounts | https://www.tiraniddo.dev/2020/10/creating-your-own-virtual-service.html| 
 
 
 # 安全维基 推荐
@@ -34,36 +34,36 @@
 | 20201028 | ATT&CK驱动下安全运营数据分析的实用性挑战 | https://mp.weixin.qq.com/s/yNPE4rqpY2NoHug6ZuLS2Q| 
 | 20201028 | PHP 绕过禁用函数漏洞的原理与利用分析 | https://mp.weixin.qq.com/s/_KCqGJnHaCBjCZ0VPo898Q| 
 | 20201028 | anonymousmail: 临时邮箱搭建解决方案 | https://github.com/openitsystem/anonymousmail| 
+| 20201028 | Repo Jacking: Exploiting the Dependency Supply Chain | https://blog.securityinnovation.com/repo-jacking-exploiting-the-dependency-supply-chain| 
+| 20201028 | 隔离网络攻击 专题研究报告 | https://mp.weixin.qq.com/s/G4pIpHN2BLSvPWVYvN5VAQ| 
 | 20201027 | Msfvenom生成各类载荷文件 | https://mp.weixin.qq.com/s/dLFUKbn_0rIWlz0ZdEtTuA| 
 | 20201027 | 银行业安全运营平台的建设与思考 | https://mp.weixin.qq.com/s/UncU7f92p5Mlxt353Galrg| 
 | 20201026 | SecWiki周刊（第347期) | https://www.sec-wiki.com/weekly/347| 
 | 20201026 | 将风险评估结果映射到ATT&CK框架 | https://mp.weixin.qq.com/s/DZF4HwX4xuedpqoAFyhw5w| 
 | 20201026 | 软件源码安全攻防之道（下） | https://mp.weixin.qq.com/s/7HAVA0DgtxlCnD21aiq_mQ| 
-| 20201026 | 北非狐（APT-C-44）攻击活动揭露 | https://mp.weixin.qq.com/s/gWOIRNPLVqX761LW8x-S5g| 
-| 20201025 | 绕过360安全卫士提权实战案例 | https://mp.weixin.qq.com/s/4iJCx40yEvgG0on6uGQv-g| 
 
 
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20201028T12:50:49Z | CVE-2020-16939 | PoC code for CVE-2020-16939 Windows Group Policy DACL Overwrite Privilege Escalation | https://github.com/rogue-kdc/CVE-2020-16939 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  11 HOURS 01 MINUTES 29 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20201028T12:25:07Z | CVE-2020-8241 | Pulse Secure VPN mitm Research - CVE-2020-8241, CVE-2020-8239 | https://github.com/withdk/pulse-secure-vpn-mitm-research | 未查询到CVE信息| 
-| 20201028T11:59:54Z | 未知编号 | CVE-2020–14882、CVE-2020–14883 | https://github.com/jas502n/Weblogic | | 
-| 20201028T11:38:33Z | CVE-2020-16898 | CVE-2020-16898 Windows TCP/IP远程代码执行漏洞 EXP&POC | https://github.com/komomon/CVE-2020-16898--EXP-POC | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  11 HOURS 01 MINUTES 39 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20201028T11:21:02Z | CVE-2020-16898 | CVE-2020-16898 Windows TCP/IP远程代码执行漏洞 EXP&POC | https://github.com/komomon/CVE-2020-16898-EXP-POC | | 
-| 20201028T09:45:43Z | CVE-2020-14181 | POC For CVE-2020-1481 - Jira Username Enumerator/Validator | https://github.com/Rival420/CVE-2020-14181 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  11 HOURS 01 MINUTES 36 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20201028T09:07:40Z | 未知编号 | EasyAntiCheat minifilter, thread callback and image callback bypass | https://github.com/dethcorx/CVEAC-2020-0002 | 未查询到CVE信息| 
-| 20201028T06:09:12Z | CVE-2020-1054 | Windows 7 LPE | https://github.com/Graham382/CVE-2020-1054 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  11 HOURS 01 MINUTES 37 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20201028T03:23:28Z | CVE-2020-0688 | CVE-2020-0688 PoC | https://github.com/zyn3rgy/ecp_slap | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  11 HOURS 01 MINUTES 32 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20201027T16:32:37Z | CVE-2020-16898 | CVE-2020-16898 (Bad Neighbor) Microsoft Windows TCP/IP Vulnerability Detection Logic and Rule | https://github.com/advanced-threat-research/CVE-2020-16898 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  11 HOURS 01 MINUTES 27 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201028T21:36:41Z | CVE-2020-14882 | CVE-2020–14882 by Jang | https://github.com/s1kr10s/CVE-2020-14882 | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
+| 20201028T19:20:19Z | 未知编号 | EasyAntiCheat minifilter, thread and image callback bypass | https://github.com/dethcorx/CVEAC-2020-0002 | 未查询到CVE信息| 
+| 20201028T17:35:57Z | CVE-2020-8241 | Pulse Secure VPN mitm Research - CVE-2020-8241, CVE-2020-8239 | https://github.com/withdk/pulse-secure-vpn-mitm-research | | 
+| 20201028T16:52:04Z | CVE-2020-16898 | CVE-2020-16898 (Bad Neighbor) Microsoft Windows TCP/IP Vulnerability Detection Logic and Rule | https://github.com/advanced-threat-research/CVE-2020-16898 | 当Windows TCP / IP堆栈不正确地处理ICMPv6路由器播发数据包（也称为“ Windows TCP / IP远程执行代码漏洞”）时，存在一个远程执行代码漏洞。| 
+| 20201028T16:41:35Z | CVE-2020-16939 | PoC code for CVE-2020-16939 Windows Group Policy DACL Overwrite Privilege Escalation | https://github.com/rogue-kdc/CVE-2020-16939 | 当组策略不正确地检查访问权限（也称为“组策略特权提升漏洞”）时，存在特权提升漏洞。| 
+| 20201028T16:30:23Z | CVE-2020-15999 | CVE-2020-15999 | https://github.com/marcinguy/CVE-2020-15999 | 未查询到CVE信息| 
+| 20201028T15:09:29Z | 未知编号 | All five experiments of computer vision courses opened at Xidian University. CV XDU | https://github.com/Jiehuishun/CVExp-XDU-2020-CS5201 | 未查询到CVE信息| 
+| 20201028T14:14:31Z | 未知编号 | CVE-2020–14882、CVE-2020–14883 | https://github.com/jas502n/Weblogic | 未查询到CVE信息| 
+| 20201028T11:38:33Z | CVE-2020-16898 | CVE-2020-16898 Windows TCP/IP远程代码执行漏洞 EXP&POC | https://github.com/komomon/CVE-2020-16898--EXP-POC | 当Windows TCP / IP堆栈不正确地处理ICMPv6路由器播发数据包（也称为“ Windows TCP / IP远程执行代码漏洞”）时，存在一个远程执行代码漏洞。| 
+| 20201028T11:21:02Z | CVE-2020-16898 | CVE-2020-16898 Windows TCP/IP远程代码执行漏洞 EXP&POC | https://github.com/komomon/CVE-2020-16898-EXP-POC | 当Windows TCP / IP堆栈不正确地处理ICMPv6路由器播发数据包（也称为“ Windows TCP / IP远程执行代码漏洞”）时，存在一个远程执行代码漏洞。| 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20201028T14:58:58Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1532 | 466| 
 | 20201028T10:29:43Z | 这里是可乐的地盘儿！ | https://github.com/KLeeve/kleeve.github.io | 0 | 0| 
 | 20201028T01:53:18Z | Create CFGs and compute complexity metrics for Python, C++, and Java code. | https://github.com/hmc-alpaqa/metrinome | 4 | 0| 
-| 20201028T01:29:40Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1531 | 466| 
 | 20201027T10:21:39Z | One place for all of my workshops | https://github.com/kleenxcoder/kleenxcoder-workshops | 0 | 0| 
 | 20201026T20:31:12Z | Null | https://github.com/mitchklee35/MitchKlee.com | 0 | 0| 
 | 20201025T00:27:05Z | Null | https://github.com/KleeUT/kleeut.com | 0 | 0| 
@@ -76,7 +76,7 @@
 # s2e on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20201028T09:28:34Z | s2engineers content collection | https://github.com/sinnerschrader/s2engineers-content | 3 | 0| 
+| 20201028T13:30:30Z | s2engineers content collection | https://github.com/sinnerschrader/s2engineers-content | 3 | 0| 
 | 20201016T00:16:55Z | GUI Configuration tool for WIZnet serial to ethernet devices. | https://github.com/Wiznet/WIZnet-S2E-Tool-GUI | 9 | 6| 
 | 20201014T07:37:03Z | Null | https://github.com/JeffShao96/S2E-NS-3 | 0 | 0| 
 | 20201012T21:47:16Z | Your S2E project management tools. Visit https://s2e.systems/docs to get started. | https://github.com/S2E/s2e-env | 67 | 30| 
@@ -86,46 +86,46 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20201028T12:51:59Z | Detail information about  all the vulnerabilities followed by the steps with exploit. | https://github.com/kanhaiya1/Pentest_Vulnerabilities_Guide | 0 | 0| 
-| 20201028T12:48:47Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 5 | 3| 
-| 20201028T12:44:20Z | Automated All-in-One OS command injection and exploitation tool. | https://github.com/commixproject/commix | 2420 | 566| 
-| 20201028T12:44:02Z | CTF pwn challenges exploits. | https://github.com/lockedbyte/exploit-challenges | 1 | 0| 
-| 20201028T12:31:05Z | It is an Automated tool | https://github.com/JawadMahdiBD/JexExploit | 0 | 0| 
-| 20201028T12:29:34Z | An attack/exploit Detector that utilizes Polymorphism and Diversity | https://github.com/polyverse/zerotect | 18 | 1| 
-| 20201028T12:25:32Z | This is a space to organize techniques related to linux kernel exploit. | https://github.com/V4bel/kernel-exploit-technique | 0 | 1| 
-| 20201028T12:10:58Z | Kernel development & exploitation practice environment. | https://github.com/pwncollege/pwnkernel | 15 | 1| 
-| 20201028T11:53:11Z | Binary Exploitation resources | https://github.com/shagunattri/0x00 | 0 | 0| 
-| 20201028T11:46:50Z | Blog! | https://github.com/nonetype/nonetype.github.io | 0 | 0| 
+| 20201028T22:46:08Z | A highly scalable autonomous DNS hijacking exploitation server based on dnsmasq and iptables  | https://github.com/BenChaliah/PoseidonDNS | 1 | 1| 
+| 20201028T22:30:39Z | Sifter is a OSINT, recon & vulnerability scanner. It incorporates a plethara of tools within different module sets that tries to cover every attack vector. Allowing you to quickly perform recon tasks and organize the results in one place. From OSINT to Recon, Exploitation, Post-Exploitation, OpSec, Threat Analysis, XSS, SQLinjection, Network Scanning, WebApp Analysis or DNS enumeration.. Sifter should be able to cover it all. | https://github.com/s1l3nt78/sifter | 272 | 85| 
+| 20201028T22:09:26Z | Exploit do Wii U que se aproveita de uma brecha no navegador do console, possibilitando a execução do Homebrew e CFW. Requer que o CFW seja executado em cada reinício. | https://github.com/Nintendo-Homebrew/Mocha_Indexiine | 0 | 0| 
+| 20201028T22:04:56Z | post_exploitation | https://github.com/dar3k93/post_exploitation | 1 | 0| 
+| 20201028T21:21:20Z | Server-Side Template Injection and Code Injection Detection and Exploitation Tool | https://github.com/epinna/tplmap | 1939 | 438| 
+| 20201028T20:19:09Z | Null | https://github.com/binexisHATT/ArtOfExploitation | 0 | 0| 
+| 20201028T19:55:17Z | Writeups, scripts and solutions for CTFs, Hack the Box, Vulnhub, exploit challenges, pwnables, crackmes, etc. Anything goes. | https://github.com/alichtman/writeups | 4 | 1| 
+| 20201028T19:54:32Z | Null | https://github.com/chacka0101/exploit_developer | 0 | 0| 
+| 20201028T19:28:25Z | A handbook of useful web & infrastructure exploitation tips & tricks. | https://github.com/pr0fg/handbook | 0 | 0| 
+| 20201028T19:07:26Z | Joomla com jumi Remote SQL Injection Exploit | https://github.com/bv7m/Joomla-exploi | 1 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20201028T10:42:54Z | Ghost Framework is an Android post-exploitation framework that exploits the Android Debug Bridge to remotely access an Android device. Ghost Framework gives you the power and convenience of remote Android device administration. | https://github.com/EntySec/ghost | 768 | 395| 
-| 20201028T10:34:31Z | backdoor key to kafka topics | https://github.com/dixel/kafkus | 17 | 2| 
-| 20201028T09:40:48Z | Null | https://github.com/Rachmaninovna/Backdoor_FL_pytorch | 0 | 0| 
-| 20201028T09:03:28Z | Pupy is an opensource, cross-platform (Windows, Linux, OSX, Android) remote administration and post-exploitation tool mainly written in python | https://github.com/n1nj4sec/pupy | 5873 | 1523| 
-| 20201028T08:27:45Z | papers for incentive and backdoor research in federated learning. | https://github.com/GillHwang/federated-learning-incentive-backdoor | 1 | 0| 
-| 20201028T07:21:48Z | Full-featured C2 framework which silently persists on webserver with a single-line PHP backdoor | https://github.com/nil0x42/phpsploit | 1059 | 319| 
-| 20201028T01:21:19Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 81 | 9| 
-| 20201027T22:32:48Z | This package, written in php, can scan PHP files and analyze your project for find malicious code inside it. It provides a text terminal console interface to scan files in a given directory and find PHP code files the seem to contain malicious code. | https://github.com/marcocesarato/PHP-Antimalware-Scanner | 141 | 28| 
-| 20201027T19:06:32Z | Simple Python Backdoor | https://github.com/zNairy/Sonaris | 4 | 0| 
-| 20201027T17:58:40Z | Open-Source Remote Administration Tool For Windows C# (RAT) | https://github.com/NYAN-x-CAT/AsyncRAT-C-Sharp | 629 | 302| 
+| 20201028T23:54:13Z | PyIris-backdoor is a modular, stealthy and flexible remote-access-toolkit written completely in python used to command and control other systems. It is now in the beta stage, possibly perpetually. There are bugs still present in the framework, feel free to contribute or help me out with this project its still under active development >_> | https://github.com/angus-y/PyIris-backdoor | 124 | 40| 
+| 20201028T20:30:36Z | AI based Backdoor Written for Windows using Telegram-bot, ZMQ, and Socket as Its Back-ends. | https://github.com/wildonion/katyusha | 1 | 0| 
+| 20201028T20:14:43Z | Null | https://github.com/UnzorZ/ZispanosBackdoor_installer | 0 | 0| 
+| 20201028T17:57:39Z | Null | https://github.com/FTirex/BackDoor | 0 | 0| 
+| 20201028T16:31:14Z | Undetectable & Xor encrypting with custom KEY (FUD Metasploit Rat) bypass Top Antivirus like BitDefender,Malwarebytes,Avast,ESET-NOD32,AVG,... & Automatically Add ICON and MANIFEST to excitable | https://github.com/persianhydra/Xeexe-TopAntivirusEvasion | 205 | 59| 
+| 20201028T16:28:54Z | Bilingual PhishingKit. TigerShark intergrates a vast array of various phishing tools and frameworks, from C2 servers, backdoors and delivery methods in multiple scripting languages in order to suit whatever your deployment needs may be. | https://github.com/s1l3nt78/TigerShark | 101 | 21| 
+| 20201028T16:12:56Z | Simple backdoor written in Rust based on a Discord bots. | https://github.com/DmitrijVC/DataCargo | 1 | 0| 
+| 20201028T16:11:05Z | Pupy is an opensource, cross-platform (Windows, Linux, OSX, Android) remote administration and post-exploitation tool mainly written in python | https://github.com/n1nj4sec/pupy | 5873 | 1524| 
+| 20201028T15:06:26Z | Null | https://github.com/iamamolsarker/backdoor1 | 0 | 0| 
+| 20201028T14:32:10Z |  👨🏼‍💻 RCE script made in python, using Mr. Clown backdoor. | https://github.com/martin3lli/backdoor-script | 0 | 0| 
 
 
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20201028T12:57:02Z | Null | https://github.com/skywish/FuzzyChainsaw | 0 | 0| 
-| 20201028T12:47:46Z | Null | https://github.com/raviuwe30/A-neuro-fuzzy-system-for-control-of-speed-and-steering-control-system | 0 | 0| 
-| 20201028T12:45:16Z | Iris classification using MATLAB%s Fuzzy Logic Toolbox | https://github.com/yoBoyio/Fuzzy-Logic-IRIS | 0 | 1| 
-| 20201028T12:26:13Z | Fuzzer with argv | https://github.com/zodf0055980/Yuan-fuzz | 2 | 0| 
-| 20201028T12:00:34Z | I%ve created Fuzzy logic assisted COVID 19 safety assessment of dental care with tkinter . | https://github.com/manishsharma1402/Fuzzy-logic-assisted-COVID-19-safety-assessment-of-dental-care | 0 | 0| 
-| 20201028T11:50:40Z | Differential Fuzzer for Ethereum 2.0 | https://github.com/sigp/beacon-fuzz | 54 | 9| 
-| 20201028T11:41:28Z | Fast HTTP enumerator | https://github.com/RedTeamPentesting/monsoon | 176 | 25| 
-| 20201028T11:36:45Z | White-box fuzzer for Java bytecode | https://github.com/vorpal-research/kex | 3 | 4| 
-| 20201028T11:20:58Z | This is a TORCS robot that make use of fuzzy logic. | https://github.com/RaanGi/TORCS-fuzzy-robot | 0 | 0| 
-| 20201028T11:19:07Z | Null | https://github.com/ethereum/solidity-fuzzing-corpus | 9 | 3| 
+| 20201028T23:42:18Z | A tale into the system security, fuzzing and vulnerability research | https://github.com/Microsvuln/Microsvuln.github.io | 0 | 0| 
+| 20201028T23:18:38Z | A plugin based fuzzer | https://github.com/elast0ny/CROWDFUZZ | 2 | 0| 
+| 20201028T23:09:10Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2182 | 104| 
+| 20201028T22:56:05Z | A modified version of Syzkaller to specifically fuzz FUSE on Linux | https://github.com/scannells/fuse-syzkaller | 0 | 0| 
+| 20201028T22:52:41Z | Website and database to be presented to local animal rescue to update their current website and streamline operations.  | https://github.com/haylee430/fuzzy_friend_finder | 1 | 0| 
+| 20201028T22:21:45Z | FuzzBench - Fuzzer benchmarking as a service. | https://github.com/google/fuzzbench | 546 | 86| 
+| 20201028T22:18:13Z | A cross-platform browser fuzzing framework | https://github.com/MozillaSecurity/grizzly | 213 | 28| 
+| 20201028T22:01:41Z | Exercises to learn how to fuzz with American Fuzzy Lop | https://github.com/mykter/afl-training | 617 | 121| 
+| 20201028T21:36:01Z | Experimental projects | https://github.com/tannmatter/fuzzy-happiness | 0 | 0| 
+| 20201028T20:14:02Z | Null | https://github.com/nishantjr/fuzzing-with-k | 0 | 0| 
 
 
 
