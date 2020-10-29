@@ -50,10 +50,10 @@
 | 20201029T11:12:52Z | CVE-2020-14882 | CVE-2020-14882 Weblogic-Exp | https://github.com/RedTeamWing/CVE-2020-14882 | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
 | 20201029T09:59:36Z | CVE-2020-14882 | CVE-2020–14882 by Jang | https://github.com/s1kr10s/CVE-2020-14882 | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
 | 20201029T09:23:49Z | CVE-2020-27747 | Possible Account Takeover , Brute Force Ability | https://github.com/jet-pentest/CVE-2020-27747 | 未查询到CVE信息| 
-| 20201029T08:41:54Z | CVE-2020-16898 | CVE-2020-16898 (Bad Neighbor) Microsoft Windows TCP/IP Vulnerability Detection Logic and Rule | https://github.com/advanced-threat-research/CVE-2020-16898 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  11 HOURS 07 MINUTES 25 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201029T08:41:54Z | CVE-2020-16898 | CVE-2020-16898 (Bad Neighbor) Microsoft Windows TCP/IP Vulnerability Detection Logic and Rule | https://github.com/advanced-threat-research/CVE-2020-16898 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  11 HOURS 06 MINUTES 25 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20201029T08:23:57Z | 未知编号 | EasyAntiCheat minifilter, thread and image callback bypass | https://github.com/dethcorx/CVEAC-2020-0002 | 未查询到CVE信息| 
-| 20201029T08:00:38Z | CVE-2020-15906 | Writeup of CVE-2020-15906 | https://github.com/S1lkys/CVE-2020-15906 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  11 HOURS 07 MINUTES 22 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20201029T06:51:08Z | CVE-2020-16939 | PoC code for CVE-2020-16939 Windows Group Policy DACL Overwrite Privilege Escalation | https://github.com/rogue-kdc/CVE-2020-16939 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  11 HOURS 07 MINUTES 26 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201029T08:00:38Z | CVE-2020-15906 | Writeup of CVE-2020-15906 | https://github.com/S1lkys/CVE-2020-15906 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  11 HOURS 06 MINUTES 22 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201029T06:51:08Z | CVE-2020-16939 | PoC code for CVE-2020-16939 Windows Group Policy DACL Overwrite Privilege Escalation | https://github.com/rogue-kdc/CVE-2020-16939 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  11 HOURS 06 MINUTES 27 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20201029T01:55:42Z | 未知编号 | CVE-2020–14882、CVE-2020–14883 | https://github.com/jas502n/Weblogic | 未查询到CVE信息| 
 | 20201029T01:04:24Z | CVE-2020-15999 | CVE-2020-15999 | https://github.com/marcinguy/CVE-2020-15999 | 未查询到CVE信息| 
 
@@ -86,6 +86,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20201029T12:53:27Z | Sifter is a OSINT, recon & vulnerability scanner. It incorporates a plethara of tools within different module sets that tries to cover every attack vector. Allowing you to quickly perform recon tasks and organize the results in one place. From OSINT to Recon, Exploitation, Post-Exploitation, OpSec, Threat Analysis, XSS, SQLinjection, Network Scanning, WebApp Analysis or DNS enumeration.. Sifter should be able to cover it all. | https://github.com/s1l3nt78/sifter | 273 | 85| 
 | 20201029T12:06:09Z | Overflow is a command-line tool you can use to exploit OSCP-style buffer overflows. | https://github.com/sradley/overflow | 0 | 0| 
 | 20201029T11:34:23Z | this bash script is for remote linux hosts hacked! | https://github.com/FabioDefilippo/linuxallenum | 8 | 0| 
 | 20201029T11:25:26Z | x86/x86_64 exploit helpers integrated into emacs | https://github.com/bu6hunt3r/chita.el | 0 | 0| 
@@ -95,7 +96,6 @@
 | 20201029T11:01:29Z | Computer Network Exploitation (CNE) Field Manual | https://github.com/mzet-/z-field-manual | 0 | 0| 
 | 20201029T10:57:57Z | Automated All-in-One OS command injection and exploitation tool. | https://github.com/commixproject/commix | 2423 | 567| 
 | 20201029T10:22:03Z | hack tools | https://github.com/hacktoolspack/hack-tools | 411 | 310| 
-| 20201029T09:48:42Z | Notes while learning Binary Exploitation  | https://github.com/BillCipher003/Binary_Exploits | 0 | 0| 
 
 
 # backdoor on Github 推荐
