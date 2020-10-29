@@ -50,12 +50,12 @@
 | 20201029T01:24:39Z | 未知编号 | CVE-2020–14882、CVE-2020–14883 | https://github.com/jas502n/Weblogic | 未查询到CVE信息| 
 | 20201029T01:04:24Z | CVE-2020-15999 | CVE-2020-15999 | https://github.com/marcinguy/CVE-2020-15999 | 未查询到CVE信息| 
 | 20201028T19:20:19Z | 未知编号 | EasyAntiCheat minifilter, thread and image callback bypass | https://github.com/dethcorx/CVEAC-2020-0002 | 未查询到CVE信息| 
-| 20201028T17:35:57Z | CVE-2020-8241 | Pulse Secure VPN mitm Research - CVE-2020-8241, CVE-2020-8239 | https://github.com/withdk/pulse-secure-vpn-mitm-research | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 19 MINUTES 31 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20201028T16:52:04Z | CVE-2020-16898 | CVE-2020-16898 (Bad Neighbor) Microsoft Windows TCP/IP Vulnerability Detection Logic and Rule | https://github.com/advanced-threat-research/CVE-2020-16898 | | 
-| 20201028T16:41:35Z | CVE-2020-16939 | PoC code for CVE-2020-16939 Windows Group Policy DACL Overwrite Privilege Escalation | https://github.com/rogue-kdc/CVE-2020-16939 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 19 MINUTES 26 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201028T17:35:57Z | CVE-2020-8241 | Pulse Secure VPN mitm Research - CVE-2020-8241, CVE-2020-8239 | https://github.com/withdk/pulse-secure-vpn-mitm-research | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 18 MINUTES 34 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201028T16:52:04Z | CVE-2020-16898 | CVE-2020-16898 (Bad Neighbor) Microsoft Windows TCP/IP Vulnerability Detection Logic and Rule | https://github.com/advanced-threat-research/CVE-2020-16898 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 18 MINUTES 29 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201028T16:41:35Z | CVE-2020-16939 | PoC code for CVE-2020-16939 Windows Group Policy DACL Overwrite Privilege Escalation | https://github.com/rogue-kdc/CVE-2020-16939 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 18 MINUTES 30 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20201028T15:09:29Z | 未知编号 | All five experiments of computer vision courses opened at Xidian University. CV XDU | https://github.com/Jiehuishun/CVExp-XDU-2020-CS5201 | 未查询到CVE信息| 
-| 20201028T11:38:33Z | CVE-2020-16898 | CVE-2020-16898 Windows TCP/IP远程代码执行漏洞 EXP&POC | https://github.com/komomon/CVE-2020-16898--EXP-POC | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 19 MINUTES 34 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20201028T11:21:02Z | CVE-2020-16898 | CVE-2020-16898 Windows TCP/IP远程代码执行漏洞 EXP&POC | https://github.com/komomon/CVE-2020-16898-EXP-POC | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 19 MINUTES 27 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201028T11:38:33Z | CVE-2020-16898 | CVE-2020-16898 Windows TCP/IP远程代码执行漏洞 EXP&POC | https://github.com/komomon/CVE-2020-16898--EXP-POC | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 18 MINUTES 37 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201028T11:21:02Z | CVE-2020-16898 | CVE-2020-16898 Windows TCP/IP远程代码执行漏洞 EXP&POC | https://github.com/komomon/CVE-2020-16898-EXP-POC | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 18 MINUTES 31 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 
 
 # klee on Github 推荐
@@ -86,7 +86,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20201029T01:39:12Z | A handbook of useful web & infrastructure exploitation tips & tricks. | https://github.com/pr0fg/handbook | 0 | 0| 
+| 20201029T01:41:07Z | A handbook of useful web & infrastructure exploitation tips & tricks. | https://github.com/pr0fg/handbook | 0 | 0| 
 | 20201029T00:57:28Z | Exploit techniques for Macintosh | https://github.com/billchaison/Mac-Trix | 0 | 0| 
 | 20201029T00:48:48Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 5 | 3| 
 | 20201029T00:22:44Z | Sifter is a OSINT, recon & vulnerability scanner. It incorporates a plethara of tools within different module sets that tries to cover every attack vector. Allowing you to quickly perform recon tasks and organize the results in one place. From OSINT to Recon, Exploitation, Post-Exploitation, OpSec, Threat Analysis, XSS, SQLinjection, Network Scanning, WebApp Analysis or DNS enumeration.. Sifter should be able to cover it all. | https://github.com/s1l3nt78/sifter | 272 | 85| 
