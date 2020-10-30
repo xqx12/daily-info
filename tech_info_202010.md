@@ -51,7 +51,7 @@
 | 20201029T20:06:27Z | CVE-2020-0688 | Scans for Microsoft Exchange Versions with masscan | https://github.com/SLSteff/CVE-2020-0688-Scanner | 当Microsoft Exchange软件无法正确处理内存中的对象（也称为“ Microsoft Exchange内存损坏漏洞”）时，将存在一个远程执行代码漏洞。| 
 | 20201029T16:40:17Z | CVE-2020-14882 | CVE-2020–14882、CVE-2020–14883 | https://github.com/jas502n/CVE-2020-14882 | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
 | 20201029T16:16:31Z | cve-2020-14882 | CVE-2020-14882 GET POC | https://github.com/wsfengfan/cve-2020-14882 | 未查询到CVE信息| 
-| 20201029T13:55:58Z | cve-2020-14882 | Bash script to exploit the Weblogic Unauthorized RCE - CVE-2020-14882 | https://github.com/0thm4n3/cve-2020-14882 | | 
+| 20201029T13:55:58Z | cve-2020-14882 | Bash script to exploit the Weblogic Unauthorized RCE - CVE-2020-14882 | https://github.com/0thm4n3/cve-2020-14882 | 未查询到CVE信息| 
 | 20201029T09:59:36Z | CVE-2020-14882 | CVE-2020–14882 by Jang | https://github.com/s1kr10s/CVE-2020-14882 | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
 | 20201029T09:23:49Z | CVE-2020-27747 | Possible Account Takeover , Brute Force Ability | https://github.com/jet-pentest/CVE-2020-27747 | 在点击工作室密码状态 8.9 （内部 8973） 中发现了一个问题。如果系统用户为自己分配了使用内置生成器（4 位数字）从移动设备输入的 PIN 代码，则远程攻击者有机会对此 PIN 码进行暴力攻击。因此，远程攻击者会从其他系统检索所有密码，这些密码可用于受影响的帐户。| 
 | 20201029T08:41:54Z | CVE-2020-16898 | CVE-2020-16898 (Bad Neighbor) Microsoft Windows TCP/IP Vulnerability Detection Logic and Rule | https://github.com/advanced-threat-research/CVE-2020-16898 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  11 HOURS 00 MINUTES 25 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 

@@ -24,7 +24,7 @@
 | --- | --- | --- | --- | ---| 
 | 20201029T21:55:10Z | CVE-2020-15999 | CVE-2020-15999 | https://github.com/marcinguy/CVE-2020-15999 | 未查询到CVE信息| 
 | 20201029T20:44:13Z | CVE-2020-14882 | CVE-2020-14882 Weblogic-Exp | https://github.com/RedTeamWing/CVE-2020-14882 | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
-| 20201029T20:06:27Z | CVE-2020-0688 | Scans for Microsoft Exchange Versions with masscan | https://github.com/SLSteff/CVE-2020-0688-Scanner | 当Microsoft Exchange软件无法正确处理内存中的对象（也称为“ Microsoft Exchange内存损坏漏洞”）时，将存在一个远程执行代码漏洞。| 
+| 20201029T20:06:27Z | CVE-2020-0688 | Scans for Microsoft Exchange Versions with masscan | https://github.com/SLSteff/CVE-2020-0688-Scanner | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  23 HOURS 54 MINUTES 39 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20201029T16:40:17Z | CVE-2020-14882 | CVE-2020–14882、CVE-2020–14883 | https://github.com/jas502n/CVE-2020-14882 | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
 | 20201029T16:16:31Z | cve-2020-14882 | CVE-2020-14882 GET POC | https://github.com/wsfengfan/cve-2020-14882 | 未查询到CVE信息| 
 | 20201029T13:55:58Z | cve-2020-14882 | Bash script to exploit the Weblogic Unauthorized RCE - CVE-2020-14882 | https://github.com/0thm4n3/cve-2020-14882 | 未查询到CVE信息| 
