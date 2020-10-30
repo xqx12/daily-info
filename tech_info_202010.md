@@ -86,10 +86,10 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20201030T00:02:40Z | This bash script will help you to hack remote hosts  | https://github.com/FabioDefilippo/linuxallremote | 1 | 0| 
 | 20201030T00:01:29Z | Conjunto de exploit para teste de penetração windows 7 8 8.1 10 e 95 | https://github.com/eddygomesannie/exploit-win7.8.8-1.10-with_api | 0 | 0| 
 | 20201029T23:57:05Z | A repo for custom Access Protection Rules and Exploit Prevention Expert Rules | https://github.com/SimpleInfoSec/McAfee | 0 | 0| 
 | 20201029T23:56:58Z | this bash script is for remote linux hosts hacked! | https://github.com/FabioDefilippo/linuxallenum | 8 | 0| 
-| 20201029T23:55:15Z | This bash script will help you to hack remote hosts  | https://github.com/FabioDefilippo/linuxallremote | 1 | 0| 
 | 20201029T23:42:05Z | :spider:  Automate finding XSS exploits in URL query strings | https://github.com/boydlowr/getcheck | 2 | 0| 
 | 20201029T22:40:24Z | Advanced dork Search & Mass Exploit Scanner | https://github.com/AlisamTechnology/ATSCAN | 725 | 293| 
 | 20201029T21:59:27Z | my exploit kit | https://github.com/pyro57/pyrosploit | 0 | 0| 
