@@ -6,6 +6,13 @@
 # 玄武实验室 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20201030 | CVE-2020–14882 Weblogic Unauthorized bypass RCE | https://github.com/jas502n/CVE-2020-14882| 
+| 20201030 | 3G 版本的 Osmocom 蜂窝网络实现 | https://github.com/cn0xroot/osmocom_3G| 
+| 20201030 | Talos - 为 Kubernetes 环境准备的操作系统 | https://github.com/talos-systems/talos| 
+| 20201030 | 前段时间爆出的 Netlogon 漏洞 (CVE-2020-1472)出现野外攻击 | https://msrc-blog.microsoft.com/2020/10/29/attacks-exploiting-netlogon-vulnerability-cve-2020-1472/| 
+| 20201030 | Remote Desktop Services Shadowing – Beyond the Shadowed Session | https://swarm.ptsecurity.com/remote-desktop-services-shadowing/| 
+| 20201030 | 利用 LD_PRELOAD 环境变量的方式劫持 rand 随机数函数 | http://securityboulevard.com/2020/10/not-so-random-using-ld_preload-to-hijack-the-rand-function/| 
+| 20201030 | NetblockTool - 用于自动化分析归属于某公司及子公司的 IP 列表 | https://blog.netspi.com/netblocktool/| 
 | 20201029 | Electron: Abusing the lack of context isolation | https://speakerdeck.com/masatokinugawa/electron-abusing-the-lack-of-context-isolation-curecon-en| 
 | 20201029 | FreeBSD 修复 icmp6 的一个远程 UAF 漏洞 | https://lists.freebsd.org/pipermail/freebsd-net/2020-October/057124.html| 
 | 20201029 | 辅助 Ghidra 分析二进制文件的脚本 | https://github.com/binjo/ghidra_scripts| 
@@ -19,43 +26,36 @@
 | 20201028 | The Tale of the Lost, but not Forgotten, Undocumented NetSync: Part 1 | https://www.trustedsec.com/blog/the-tale-of-the-lost-but-not-forgotten-undocumented-netsync-part-1/| 
 | 20201028 | When a stupid oplock leads you to SYSTEM | https://decoder.cloud/2020/10/27/when-a-stupid-oplock-leads-you-to-system/| 
 | 20201028 | Windows 组策略 Client 本地提权漏洞分析（CVE-2020-16939） | https://www.thezdi.com/blog/2020/10/27/cve-2020-16939-windows-group-policy-dacl-overwrite-privilege-escalation| 
-| 20201028 | LinkedIn、Instagram 等应用的链接预览功能可能存在信息泄露风险 | https://sec.today/pulses/24ad2f57-5cf0-4adc-8aa4-08b7a79a5aac/| 
-| 20201028 | LinkedIn、Instagram 等应用的链接预览功能可能存在信息泄露风险 | https://threatpost.com/linkedin-instagram-preview-link-rce-security/160600/| 
-| 20201028 | 由卡巴斯基官方发布2020年第三季度的DDoS攻击分析报告。 | https://securelist.com/ddos-attacks-in-q3-2020/99171/| 
-| 20201027 | Issue 2103: FreeType: Heap buffer overflow due to integer truncation in Load_SBit_Png | https://bugs.chromium.org/p/project-zero/issues/detail?id=2103| 
-| 20201027 | Active Directory (AD) Attacks & Enumeration at the Network Layer | https://www.lares.com/blog/active-directory-ad-attacks-enumeration-at-the-network-layer/| 
-| 20201027 | Ruckus IoT 控制器 RCE 漏洞分析 | https://adepts.of0x.cc/ruckus-vriot-rce/| 
-| 20201027 | VM Forking and Hypervisor-based Fuzzing with Xen | https://www.slideshare.net/tklengyel/vm-forking-and-hypervisorbased-fuzzing-with-xen| 
 
 
 # 安全维基 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20201030 | BadCode: 恶意代码逃逸源代码 | https://github.com/Rvn0xsy/BadCode| 
+| 20201030 | 恶意ELF二进制文件相似度比较及可视化 | https://github.com/CymaticsCC/elf_similarity| 
+| 20201030 | AKSK 命令执行到谷歌验证码劫持 | https://xz.aliyun.com/t/8429| 
+| 20201030 | 实战讲解TP3框架下的渗透思路 | https://xz.aliyun.com/t/8417| 
+| 20201030 | 某网站Web端爬虫攻防大赛题目交流 | https://www.52pojie.cn/thread-1288315-1-1.html| 
+| 20201030 | MSSQL绕过360提权实战案例 | https://mp.weixin.qq.com/s/Ch342vyszfhUWSlkJEzMOA| 
 | 20201029 | SonarQube系列（一）安装 | https://blog.csdn.net/bloodzero_new/article/details/109368923| 
 | 20201029 | 2020年全球联网数据库风险分析报告 | http://pub-shbt.s3.360.cn/cert-public-file/2020%E5%B9%B4%E5%85%A8%E7%90%83%E8%81%94%E7%BD%91%E6%95%B0%E6%8D%AE%E5%BA%93%E9%A3%8E%E9%99%A9%E5%88%86%E6%9E%90%E6%8A%A5%E5%91%8A.pdf| 
 | 20201028 | ATT&CK驱动下安全运营数据分析的实用性挑战 | https://mp.weixin.qq.com/s/yNPE4rqpY2NoHug6ZuLS2Q| 
 | 20201028 | PHP 绕过禁用函数漏洞的原理与利用分析 | https://mp.weixin.qq.com/s/_KCqGJnHaCBjCZ0VPo898Q| 
-| 20201028 | anonymousmail: 临时邮箱搭建解决方案 | https://github.com/openitsystem/anonymousmail| 
-| 20201028 | Repo Jacking: Exploiting the Dependency Supply Chain | https://blog.securityinnovation.com/repo-jacking-exploiting-the-dependency-supply-chain| 
-| 20201028 | 隔离网络攻击 专题研究报告 | https://mp.weixin.qq.com/s/G4pIpHN2BLSvPWVYvN5VAQ| 
-| 20201027 | Msfvenom生成各类载荷文件 | https://mp.weixin.qq.com/s/dLFUKbn_0rIWlz0ZdEtTuA| 
-| 20201027 | 银行业安全运营平台的建设与思考 | https://mp.weixin.qq.com/s/UncU7f92p5Mlxt353Galrg| 
-| 20201026 | SecWiki周刊（第347期) | https://www.sec-wiki.com/weekly/347| 
 
 
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20201030T01:56:48Z | CVE-2020-14882 | CVE-2020–14882、CVE-2020–14883 | https://github.com/jas502n/CVE-2020-14882 | | 
-| 20201030T01:10:52Z | CVE-2020-14882 | CVE-2020–14882 by Jang | https://github.com/s1kr10s/CVE-2020-14882 | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
-| 20201030T01:04:00Z | CVE-2020-8241 | Pulse Secure VPN mitm Research - CVE-2020-8241, CVE-2020-8239 | https://github.com/withdk/pulse-secure-vpn-mitm-research | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 00 MINUTES 26 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20201029T21:55:10Z | CVE-2020-15999 | CVE-2020-15999 | https://github.com/marcinguy/CVE-2020-15999 | 未查询到CVE信息| 
-| 20201029T20:44:13Z | CVE-2020-14882 | CVE-2020-14882 Weblogic-Exp | https://github.com/RedTeamWing/CVE-2020-14882 | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
-| 20201029T20:06:27Z | CVE-2020-0688 | Scans for Microsoft Exchange Versions with masscan | https://github.com/SLSteff/CVE-2020-0688-Scanner | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 00 MINUTES 36 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201030T11:27:42Z | CVE-2020-14882 | Null | https://github.com/alexfrancow/CVE-2020-14882 | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
+| 20201030T11:16:07Z | CVE-2020-15999 | CVE-2020-15999 | https://github.com/marcinguy/CVE-2020-15999 | 未查询到CVE信息| 
+| 20201030T10:50:25Z | CVE-2020-14882 | CVE-2020–14882、CVE-2020–14883 | https://github.com/jas502n/CVE-2020-14882 | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
+| 20201030T09:36:26Z | CVE-2020-14181 | POC For CVE-2020-1481 - Jira Username Enumerator/Validator | https://github.com/Rival420/CVE-2020-14181 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  11 HOURS 59 MINUTES 11 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201030T07:03:53Z | CVE-2020-8241 | Pulse Secure VPN mitm Research - CVE-2020-8241, CVE-2020-8239 | https://github.com/withdk/pulse-secure-vpn-mitm-research | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  11 HOURS 59 MINUTES 10 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201030T04:52:09Z | CVE-2020-14882 | CVE-2020–14882 by Jang | https://github.com/s1kr10s/CVE-2020-14882 | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
+| 20201030T04:52:01Z | CVE-2020-14882 | CVE-2020-14882 Weblogic-Exp | https://github.com/RedTeamWing/CVE-2020-14882 | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
+| 20201029T20:06:27Z | CVE-2020-0688 | Scans for Microsoft Exchange Versions with masscan | https://github.com/SLSteff/CVE-2020-0688-Scanner | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  11 HOURS 58 MINUTES 31 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20201029T16:16:31Z | cve-2020-14882 | CVE-2020-14882 GET POC | https://github.com/wsfengfan/cve-2020-14882 | 未查询到CVE信息| 
 | 20201029T13:55:58Z | cve-2020-14882 | Bash script to exploit the Weblogic Unauthorized RCE - CVE-2020-14882 | https://github.com/0thm4n3/cve-2020-14882 | 未查询到CVE信息| 
-| 20201029T09:23:49Z | CVE-2020-27747 | Possible Account Takeover , Brute Force Ability | https://github.com/jet-pentest/CVE-2020-27747 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 00 MINUTES 34 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20201029T08:41:54Z | CVE-2020-16898 | CVE-2020-16898 (Bad Neighbor) Microsoft Windows TCP/IP Vulnerability Detection Logic and Rule | https://github.com/advanced-threat-research/CVE-2020-16898 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  11 HOURS 00 MINUTES 25 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 
 
 # klee on Github 推荐
@@ -86,16 +86,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20201030T01:59:56Z | Null | https://github.com/r0r0x-xx/Exploit-Dev | 1 | 0| 
-| 20201030T01:19:23Z | this bash script is for remote linux hosts hacked! | https://github.com/FabioDefilippo/linuxallenum | 8 | 0| 
-| 20201030T00:57:00Z | This bash script will help you to hack remote hosts  | https://github.com/FabioDefilippo/linuxallremote | 1 | 0| 
-| 20201030T00:01:29Z | Conjunto de exploit para teste de penetração windows 7 8 8.1 10 e 95 | https://github.com/eddygomesannie/exploit-win7.8.8-1.10-with_api | 0 | 0| 
-| 20201029T23:57:05Z | A repo for custom Access Protection Rules and Exploit Prevention Expert Rules | https://github.com/SimpleInfoSec/McAfee | 0 | 0| 
-| 20201029T23:42:05Z | :spider:  Automate finding XSS exploits in URL query strings | https://github.com/boydlowr/getcheck | 2 | 0| 
-| 20201029T22:40:24Z | Advanced dork Search & Mass Exploit Scanner | https://github.com/AlisamTechnology/ATSCAN | 725 | 293| 
-| 20201029T21:59:27Z | my exploit kit | https://github.com/pyro57/pyrosploit | 0 | 0| 
-| 20201029T21:36:04Z | XSS Exploit code for retrieving passwords stored in a Password Vault | https://github.com/RepublicR0K/password_vault_exploit.js | 0 | 0| 
-| 20201029T21:25:04Z | The best tool for finding one gadget RCE in libc.so.6 | https://github.com/david942j/one_gadget | 1210 | 106| 
+| 20201030T11:52:47Z | A command-line tool for exploiting OSCP-style buffer overflow vulnerabilities. | https://github.com/sradley/overflow | 8 | 0| 
+| 20201030T11:50:09Z | Blog! | https://github.com/nonetype/nonetype.github.io | 0 | 0| 
+| 20201030T10:58:19Z | Detail information about  all the vulnerabilities followed by the steps with exploit. | https://github.com/kanhaiya1/Pentest_Vulnerabilities_Guide | 0 | 0| 
+| 20201030T10:46:51Z | Roblox Exploit Game Hub. | https://github.com/sunggeun1695/Impostor | 0 | 0| 
+| 20201030T10:28:44Z | Hacking the Art of Exploitation, learning about buffer overflows,heap overflows,race conditions and the c language features in general like pointers and syscalls | https://github.com/aitumik/the-art-of-exploitation | 0 | 0| 
+| 20201030T10:20:09Z | The official Exploit Database repository | https://github.com/offensive-security/exploitdb | 5621 | 1610| 
+| 20201030T10:20:07Z | macos/ios exploit writeup | https://github.com/houjingyi233/macos-ios-exploit-writeup | 6 | 1| 
+| 20201030T09:20:40Z | Fish Ecology, Evolution, and Exploitation (K. Anderson著) の勉強会用レポジトリ | https://github.com/ShotaNishijima/FishEcoEvo | 0 | 1| 
+| 20201030T08:09:16Z | CS3103 Project | https://github.com/CS3103-Group10/exploitable-app | 0 | 0| 
+| 20201030T07:37:28Z | Null | https://github.com/ColdFusionX/ColdFusionX.github.io | 1 | 1| 
 
 
 # backdoor on Github 推荐
