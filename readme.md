@@ -32,9 +32,9 @@
 | 20201030T11:27:42Z | CVE-2020-14882 | Null | https://github.com/alexfrancow/CVE-2020-14882 | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
 | 20201030T11:16:07Z | CVE-2020-15999 | CVE-2020-15999 | https://github.com/marcinguy/CVE-2020-15999 | 未查询到CVE信息| 
 | 20201030T10:50:25Z | CVE-2020-14882 | CVE-2020–14882、CVE-2020–14883 | https://github.com/jas502n/CVE-2020-14882 | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
-| 20201030T09:36:26Z | CVE-2020-14181 | POC For CVE-2020-1481 - Jira Username Enumerator/Validator | https://github.com/Rival420/CVE-2020-14181 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  11 HOURS 58 MINUTES 22 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20201030T07:03:53Z | CVE-2020-8241 | Pulse Secure VPN mitm Research - CVE-2020-8241, CVE-2020-8239 | https://github.com/withdk/pulse-secure-vpn-mitm-research | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  11 HOURS 58 MINUTES 21 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20201030T04:52:09Z | CVE-2020-14882 | CVE-2020–14882 by Jang | https://github.com/s1kr10s/CVE-2020-14882 | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
+| 20201030T09:36:26Z | CVE-2020-14181 | POC For CVE-2020-1481 - Jira Username Enumerator/Validator | https://github.com/Rival420/CVE-2020-14181 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  11 HOURS 56 MINUTES 25 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201030T07:03:53Z | CVE-2020-8241 | Pulse Secure VPN mitm Research - CVE-2020-8241, CVE-2020-8239 | https://github.com/withdk/pulse-secure-vpn-mitm-research | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  11 HOURS 56 MINUTES 23 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201030T04:52:09Z | CVE-2020-14882 | CVE-2020–14882 by Jang | https://github.com/s1kr10s/CVE-2020-14882 | | 
 | 20201030T04:52:01Z | CVE-2020-14882 | CVE-2020-14882 Weblogic-Exp | https://github.com/RedTeamWing/CVE-2020-14882 | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
 
 
@@ -51,6 +51,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20201030T12:03:09Z | The Browser Exploitation Framework Project | https://github.com/beefproject/beef | 5326 | 1282| 
 | 20201030T11:52:47Z | A command-line tool for exploiting OSCP-style buffer overflow vulnerabilities. | https://github.com/sradley/overflow | 8 | 0| 
 | 20201030T11:50:09Z | Blog! | https://github.com/nonetype/nonetype.github.io | 0 | 0| 
 | 20201030T10:58:19Z | Detail information about  all the vulnerabilities followed by the steps with exploit. | https://github.com/kanhaiya1/Pentest_Vulnerabilities_Guide | 0 | 0| 
@@ -60,7 +61,6 @@
 | 20201030T10:20:07Z | macos/ios exploit writeup | https://github.com/houjingyi233/macos-ios-exploit-writeup | 6 | 1| 
 | 20201030T09:20:40Z | Fish Ecology, Evolution, and Exploitation (K. Anderson著) の勉強会用レポジトリ | https://github.com/ShotaNishijima/FishEcoEvo | 0 | 1| 
 | 20201030T08:09:16Z | CS3103 Project | https://github.com/CS3103-Group10/exploitable-app | 0 | 0| 
-| 20201030T07:37:28Z | Null | https://github.com/ColdFusionX/ColdFusionX.github.io | 1 | 1| 
 
 
 # backdoor on Github 推荐
@@ -76,16 +76,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20201030T01:59:29Z | a File Navigator powered by fzf | https://github.com/SleepyBag/fuzzy-fs | 10 | 1| 
-| 20201030T01:58:01Z | Fuzzer with argv | https://github.com/zodf0055980/Yuan-fuzz | 7 | 0| 
-| 20201030T01:47:35Z | VMI Kernel Fuzzer for Xen Project - VM forking, VMI & AFL integration demo | https://github.com/intel/kernel-fuzzer-for-xen-project | 155 | 26| 
-| 20201030T01:46:21Z | OSS-Fuzz - continuous fuzzing of open source software. | https://github.com/google/oss-fuzz | 5614 | 1105| 
-| 20201030T01:42:51Z | Null | https://github.com/jburz/fuzzy-octo-winner | 0 | 0| 
-| 20201030T01:31:58Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 3201 | 737| 
-| 20201030T01:29:00Z | A plugin based fuzzer | https://github.com/elast0ny/CROWDFUZZ | 2 | 0| 
-| 20201030T01:05:48Z | 自用字典，收集实战中遇到的奇特目录名、后门文件名等。不定期更新！ | https://github.com/doubleee/WebFuzzing | 18 | 3| 
-| 20201030T00:56:44Z | Null | https://github.com/lacygoill/vim-fuzzy | 0 | 0| 
-| 20201030T00:41:58Z | Null | https://github.com/opimentel-github/fuzzy-torch | 0 | 0| 
+| 20201030T12:02:14Z | Null | https://github.com/rbusybee/fuzzy-angular | 0 | 0| 
+| 20201030T11:58:56Z | A JavaScript Engine Fuzzer | https://github.com/googleprojectzero/fuzzilli | 1063 | 180| 
+| 20201030T11:45:18Z | Null | https://github.com/s9varesc/url-fuzzing-docker | 0 | 0| 
+| 20201030T10:46:47Z | Using different tools to fuzz audit deamon | https://github.com/punnal/Audit-Fuzzing | 1 | 1| 
+| 20201030T10:40:57Z | Null | https://github.com/s9varesc/url-fuzzing | 0 | 0| 
+| 20201030T10:32:27Z | Iris classification using MATLAB%s Fuzzy Logic Toolbox | https://github.com/yoBoyio/Fuzzy-Logic-IRIS | 0 | 1| 
+| 20201030T10:14:40Z | A python3 intruder that gave me bounties, easy to use and as fast as fuff | https://github.com/ElSicarius/SuperTruder | 20 | 4| 
+| 20201030T10:12:12Z | SSL and TLS protocol test suite and fuzzer | https://github.com/tomato42/tlsfuzzer | 324 | 81| 
+| 20201030T09:57:14Z | Null | https://github.com/imbawenzi/Fuzzing_Paper_Note | 0 | 0| 
+| 20201030T09:51:16Z | Null | https://github.com/acolytec3/fuzzy-giggle | 1 | 1| 
 
 
 
