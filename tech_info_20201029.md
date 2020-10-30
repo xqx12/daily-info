@@ -29,7 +29,7 @@
 | 20201029T16:16:31Z | cve-2020-14882 | CVE-2020-14882 GET POC | https://github.com/wsfengfan/cve-2020-14882 | 未查询到CVE信息| 
 | 20201029T13:55:58Z | cve-2020-14882 | Bash script to exploit the Weblogic Unauthorized RCE - CVE-2020-14882 | https://github.com/0thm4n3/cve-2020-14882 | 未查询到CVE信息| 
 | 20201029T09:59:36Z | CVE-2020-14882 | CVE-2020–14882 by Jang | https://github.com/s1kr10s/CVE-2020-14882 | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
-| 20201029T09:23:49Z | CVE-2020-27747 | Possible Account Takeover , Brute Force Ability | https://github.com/jet-pentest/CVE-2020-27747 | 在点击工作室密码状态 8.9 （内部 8973） 中发现了一个问题。如果系统用户为自己分配了使用内置生成器（4 位数字）从移动设备输入的 PIN 代码，则远程攻击者有机会对此 PIN 码进行暴力攻击。因此，远程攻击者会从其他系统检索所有密码，这些密码可用于受影响的帐户。| 
+| 20201029T09:23:49Z | CVE-2020-27747 | Possible Account Takeover , Brute Force Ability | https://github.com/jet-pentest/CVE-2020-27747 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  23 HOURS 54 MINUTES 37 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20201029T08:41:54Z | CVE-2020-16898 | CVE-2020-16898 (Bad Neighbor) Microsoft Windows TCP/IP Vulnerability Detection Logic and Rule | https://github.com/advanced-threat-research/CVE-2020-16898 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  11 HOURS 00 MINUTES 25 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20201029T08:23:57Z | 未知编号 | EasyAntiCheat minifilter, thread and image callback bypass | https://github.com/dethcorx/CVEAC-2020-0002 | 未查询到CVE信息| 
 
@@ -55,7 +55,6 @@
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
 | 20201029T23:57:05Z | A repo for custom Access Protection Rules and Exploit Prevention Expert Rules | https://github.com/SimpleInfoSec/McAfee | 0 | 0| 
-| 20201029T23:56:58Z | this bash script is for remote linux hosts hacked! | https://github.com/FabioDefilippo/linuxallenum | 8 | 0| 
 | 20201029T23:42:05Z | :spider:  Automate finding XSS exploits in URL query strings | https://github.com/boydlowr/getcheck | 2 | 0| 
 | 20201029T22:40:24Z | Advanced dork Search & Mass Exploit Scanner | https://github.com/AlisamTechnology/ATSCAN | 725 | 293| 
 | 20201029T21:59:27Z | my exploit kit | https://github.com/pyro57/pyrosploit | 0 | 0| 
@@ -64,6 +63,7 @@
 | 20201029T21:24:20Z | This is a sample exploit for exploiting an XSS vulnerability that changes the user email. This bypasses some CSRF protections as the page was revoking the CSRF protections when refreshed. | https://github.com/RepublicR0K/email_change_exploit_xss.js | 0 | 0| 
 | 20201029T21:22:42Z | Privilege escalation exploit code for XSS vulnerability | https://github.com/RepublicR0K/XSS_Privilege_Escalation.js | 0 | 0| 
 | 20201029T20:21:19Z | Little dynamic app exploiting NASA Insight API | https://github.com/artrn-nt/mars-web-project | 0 | 0| 
+| 20201029T19:29:41Z | A Possible exploit POC | https://github.com/antony-jr/AppImageUpdate-Exploit-001-POC | 0 | 0| 
 
 
 # backdoor on Github 推荐
