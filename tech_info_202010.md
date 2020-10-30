@@ -48,13 +48,13 @@
 | --- | --- | --- | --- | ---| 
 | 20201030T01:20:27Z | CVE-2020-14882 | CVE-2020–14882、CVE-2020–14883 | https://github.com/jas502n/CVE-2020-14882 | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
 | 20201030T01:10:52Z | CVE-2020-14882 | CVE-2020–14882 by Jang | https://github.com/s1kr10s/CVE-2020-14882 | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
-| 20201030T01:04:00Z | CVE-2020-8241 | Pulse Secure VPN mitm Research - CVE-2020-8241, CVE-2020-8239 | https://github.com/withdk/pulse-secure-vpn-mitm-research | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 22 MINUTES 28 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201030T01:04:00Z | CVE-2020-8241 | Pulse Secure VPN mitm Research - CVE-2020-8241, CVE-2020-8239 | https://github.com/withdk/pulse-secure-vpn-mitm-research | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 21 MINUTES 28 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20201029T21:55:10Z | CVE-2020-15999 | CVE-2020-15999 | https://github.com/marcinguy/CVE-2020-15999 | 未查询到CVE信息| 
 | 20201029T20:44:13Z | CVE-2020-14882 | CVE-2020-14882 Weblogic-Exp | https://github.com/RedTeamWing/CVE-2020-14882 | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
-| 20201029T20:06:27Z | CVE-2020-0688 | Scans for Microsoft Exchange Versions with masscan | https://github.com/SLSteff/CVE-2020-0688-Scanner | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 22 MINUTES 39 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201029T20:06:27Z | CVE-2020-0688 | Scans for Microsoft Exchange Versions with masscan | https://github.com/SLSteff/CVE-2020-0688-Scanner | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 21 MINUTES 38 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20201029T16:16:31Z | cve-2020-14882 | CVE-2020-14882 GET POC | https://github.com/wsfengfan/cve-2020-14882 | 未查询到CVE信息| 
 | 20201029T13:55:58Z | cve-2020-14882 | Bash script to exploit the Weblogic Unauthorized RCE - CVE-2020-14882 | https://github.com/0thm4n3/cve-2020-14882 | 未查询到CVE信息| 
-| 20201029T09:23:49Z | CVE-2020-27747 | Possible Account Takeover , Brute Force Ability | https://github.com/jet-pentest/CVE-2020-27747 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 22 MINUTES 37 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201029T09:23:49Z | CVE-2020-27747 | Possible Account Takeover , Brute Force Ability | https://github.com/jet-pentest/CVE-2020-27747 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 21 MINUTES 37 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20201029T08:41:54Z | CVE-2020-16898 | CVE-2020-16898 (Bad Neighbor) Microsoft Windows TCP/IP Vulnerability Detection Logic and Rule | https://github.com/advanced-threat-research/CVE-2020-16898 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  11 HOURS 00 MINUTES 25 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 
 
@@ -86,6 +86,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20201030T01:37:56Z | Null | https://github.com/r0r0x-xx/Exploit-Dev | 0 | 0| 
 | 20201030T01:19:23Z | this bash script is for remote linux hosts hacked! | https://github.com/FabioDefilippo/linuxallenum | 8 | 0| 
 | 20201030T00:57:00Z | This bash script will help you to hack remote hosts  | https://github.com/FabioDefilippo/linuxallremote | 1 | 0| 
 | 20201030T00:01:29Z | Conjunto de exploit para teste de penetração windows 7 8 8.1 10 e 95 | https://github.com/eddygomesannie/exploit-win7.8.8-1.10-with_api | 0 | 0| 
@@ -95,7 +96,6 @@
 | 20201029T21:59:27Z | my exploit kit | https://github.com/pyro57/pyrosploit | 0 | 0| 
 | 20201029T21:36:04Z | XSS Exploit code for retrieving passwords stored in a Password Vault | https://github.com/RepublicR0K/password_vault_exploit.js | 0 | 0| 
 | 20201029T21:25:04Z | The best tool for finding one gadget RCE in libc.so.6 | https://github.com/david942j/one_gadget | 1210 | 106| 
-| 20201029T21:24:20Z | This is a sample exploit for exploiting an XSS vulnerability that changes the user email. This bypasses some CSRF protections as the page was revoking the CSRF protections when refreshed. | https://github.com/RepublicR0K/email_change_exploit_xss.js | 0 | 0| 
 
 
 # backdoor on Github 推荐
