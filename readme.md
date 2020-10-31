@@ -11,6 +11,7 @@
 # 安全维基 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20201031 | 一个文件上传靶场知识总结记录 | https://xz.aliyun.com/t/8435| 
 
 
 # CVE Github 推荐
