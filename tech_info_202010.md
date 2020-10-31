@@ -46,16 +46,16 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20201031T01:56:17Z | CVE-2020-14882 | CVE-2020-14882批量验证工具。 | https://github.com/GGyao/CVE-2020-14882 | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
+| 20201031T01:58:20Z | CVE-2020-14882 | CVE-2020-14882批量验证工具。 | https://github.com/GGyao/CVE-2020-14882 | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
 | 20201030T22:07:14Z | CVE-2020-14882 | CVE-2020–14882、CVE-2020–14883 | https://github.com/jas502n/CVE-2020-14882 | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
 | 20201030T18:46:34Z | CVE-2020-14882 | PoC for CVE-2020-14882 | https://github.com/sickwell/CVE-2020-14882 | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
 | 20201030T18:21:10Z | CVE-2020-15999 | CVE-2020-15999 | https://github.com/marcinguy/CVE-2020-15999 | 未查询到CVE信息| 
-| 20201030T16:49:27Z | CVE-2020-14181 | POC For CVE-2020-1481 - Jira Username Enumerator/Validator | https://github.com/Rival420/CVE-2020-14181 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 02 MINUTES 24 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201030T16:49:27Z | CVE-2020-14181 | POC For CVE-2020-1481 - Jira Username Enumerator/Validator | https://github.com/Rival420/CVE-2020-14181 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 01 MINUTES 20 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20201030T16:16:27Z | CVE-2020-14882 | CVE-2020-14882 Weblogic-Exp | https://github.com/RedTeamWing/CVE-2020-14882 | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
 | 20201030T16:16:18Z | CVE-2020-14882 | CVE-2020–14882 by Jang | https://github.com/s1kr10s/CVE-2020-14882 | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
-| 20201030T14:18:08Z | CVE-2020-27976 | osCommerce Phoenix CE <=1.0.5.4 Authenticated RCE | https://github.com/k0rnh0li0/CVE-2020-27976 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 02 MINUTES 34 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201030T14:18:08Z | CVE-2020-27976 | osCommerce Phoenix CE <=1.0.5.4 Authenticated RCE | https://github.com/k0rnh0li0/CVE-2020-27976 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 01 MINUTES 30 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20201030T11:27:42Z | CVE-2020-14882 | Null | https://github.com/alexfrancow/CVE-2020-14882 | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
-| 20201030T07:03:53Z | CVE-2020-8241 | Pulse Secure VPN mitm Research - CVE-2020-8241, CVE-2020-8239 | https://github.com/withdk/pulse-secure-vpn-mitm-research | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 02 MINUTES 23 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201030T07:03:53Z | CVE-2020-8241 | Pulse Secure VPN mitm Research - CVE-2020-8241, CVE-2020-8239 | https://github.com/withdk/pulse-secure-vpn-mitm-research | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 01 MINUTES 19 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 
 
 # klee on Github 推荐
@@ -87,6 +87,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20201031T01:58:49Z | This repository contains the source of %ARM Binary Exploitaiton% book. | https://github.com/cpuu/arm_exploitation | 1 | 0| 
 | 20201031T01:41:42Z | Advanced Network Security - exploits, DNS, IDS | https://github.com/519seven/cs660-AdvancedNetworkSecurity | 0 | 0| 
 | 20201031T01:39:29Z | A command-line tool for exploiting OSCP-style buffer overflow vulnerabilities. | https://github.com/sradley/overflow | 28 | 3| 
 | 20201031T01:31:58Z | Null | https://github.com/quentin452/Cats-Exploitz-HUB | 0 | 1| 
@@ -96,7 +97,6 @@
 | 20201030T20:23:40Z | Repo with the content of my kernel exploit presentation | https://github.com/Viana2021/Kernel-Presentation | 0 | 0| 
 | 20201030T19:13:06Z | This is malware that is written in python. The idea is that once its installed on the victims machine it will look for a text file from a server and execute whatever command is in the file.  | https://github.com/JosephFerruzza/Command_and_Control_Exploit | 0 | 0| 
 | 20201030T18:56:38Z | DarkWare is a roblox exploit hub. | https://github.com/Yarik312/DarkWare | 0 | 0| 
-| 20201030T17:57:34Z | Exploit mais recente do 3DS, acessado por QR code | https://github.com/Nintendo-Homebrew/BrowserHax_2020 | 0 | 0| 
 
 
 # backdoor on Github 推荐
