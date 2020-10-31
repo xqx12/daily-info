@@ -116,16 +116,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20201030T12:43:32Z | A JavaScript library that creates regular expressions for fuzzy searching Pashto text | https://github.com/lingdocs/fuzzify-pashto | 0 | 0| 
-| 20201030T12:43:16Z | Null | https://github.com/rbusybee/fuzzy-angular | 0 | 0| 
-| 20201030T12:38:10Z | Fuzzy-LORE is a modification of the LORE algorithm [ref] which enhances the explainability using fuzzy logic | https://github.com/Kaysera/fuzzy-lore | 0 | 0| 
-| 20201030T12:15:05Z | Null | https://github.com/s9varesc/url-fuzzing-docker | 0 | 0| 
-| 20201030T11:58:56Z | A JavaScript Engine Fuzzer | https://github.com/googleprojectzero/fuzzilli | 1063 | 180| 
-| 20201030T10:46:47Z | Using different tools to fuzz audit deamon | https://github.com/punnal/Audit-Fuzzing | 1 | 1| 
-| 20201030T10:40:57Z | Null | https://github.com/s9varesc/url-fuzzing | 0 | 0| 
-| 20201030T10:32:27Z | Iris classification using MATLAB%s Fuzzy Logic Toolbox | https://github.com/yoBoyio/Fuzzy-Logic-IRIS | 0 | 1| 
-| 20201030T10:14:40Z | A python3 intruder that gave me bounties, easy to use and as fast as fuff | https://github.com/ElSicarius/SuperTruder | 20 | 4| 
-| 20201030T10:12:12Z | SSL and TLS protocol test suite and fuzzer | https://github.com/tomato42/tlsfuzzer | 324 | 81| 
+| 20201030T23:55:04Z | Fuzzy matching publications for fatcat (wip). | https://github.com/miku/fuzzycat | 0 | 0| 
+| 20201030T23:43:45Z | Experimental projects | https://github.com/tannmatter/fuzzy-happiness | 0 | 0| 
+| 20201030T23:12:44Z | A tale into the system security, fuzzing and vulnerability research | https://github.com/Microsvuln/Microsvuln.github.io | 0 | 0| 
+| 20201030T22:23:35Z | Obiekt fuzzy zawiera pola i metody zbiorów rozmytych.  | https://github.com/sq5riv/fuzzy_ops | 0 | 0| 
+| 20201030T22:09:55Z | Null | https://github.com/googleinterns/hw-fuzzing | 2 | 0| 
+| 20201030T22:02:19Z | Null | https://github.com/lazygrey/fuzzing_with_cmaes | 0 | 1| 
+| 20201030T21:44:54Z | Ethereum smart contract fuzzer | https://github.com/crytic/echidna | 492 | 78| 
+| 20201030T21:37:11Z | saphIR is an Intermediate Representation with amd64 and arm64 backends. Also included: a compiler, an arm64 lifter, an arm64 to amd64 dynamic binary translator, and a fuzzer. | https://github.com/balayette/saphIR-project | 17 | 0| 
+| 20201030T21:34:42Z | FuzzBench - Fuzzer benchmarking as a service. | https://github.com/google/fuzzbench | 546 | 86| 
+| 20201030T21:32:34Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 3203 | 738| 
 
 
 
