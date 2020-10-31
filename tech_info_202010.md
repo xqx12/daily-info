@@ -53,7 +53,7 @@
 | 20201031T05:08:49Z | CVE-2020-14882 | CVE-2020–14882、CVE-2020–14883 | https://github.com/jas502n/CVE-2020-14882 | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
 | 20201030T18:46:34Z | CVE-2020-14882 | PoC for CVE-2020-14882 | https://github.com/sickwell/CVE-2020-14882 | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
 | 20201030T18:21:10Z | CVE-2020-15999 | CVE-2020-15999 | https://github.com/marcinguy/CVE-2020-15999 | 未查询到CVE信息| 
-| 20201030T16:49:27Z | CVE-2020-14181 | POC For CVE-2020-1481 - Jira Username Enumerator/Validator | https://github.com/Rival420/CVE-2020-14181 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  11 HOURS 42 MINUTES 23 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201030T16:49:27Z | CVE-2020-14181 | POC For CVE-2020-1481 - Jira Username Enumerator/Validator | https://github.com/Rival420/CVE-2020-14181 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  11 HOURS 41 MINUTES 27 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20201030T16:16:18Z | CVE-2020-14882 | CVE-2020–14882 by Jang | https://github.com/s1kr10s/CVE-2020-14882 | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
 | 20201030T14:18:08Z | CVE-2020-27976 | osCommerce Phoenix CE <=1.0.5.4 Authenticated RCE | https://github.com/k0rnh0li0/CVE-2020-27976 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  11 HOURS 41 MINUTES 36 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 
@@ -87,8 +87,9 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20201031T12:18:40Z | Kontol exploit | https://github.com/HackInstralle/wp-0day | 0 | 0| 
+| 20201031T12:18:24Z | Bash script to exploit the Oracle%s Weblogic Unauthenticated Remote Command Execution - CVE-2020-14882 | https://github.com/0thm4n3/cve-2020-14882 | 1 | 1| 
 | 20201031T12:17:26Z | IoT 固件漏洞复现环境 | https://github.com/firmianay/IoT-vulhub | 79 | 5| 
-| 20201031T12:16:57Z | Bash script to exploit the Oracle%s Weblogic Unauthenticated Remote Command Execution - CVE-2020-14882 | https://github.com/0thm4n3/cve-2020-14882 | 0 | 1| 
 | 20201031T12:16:12Z | Towelroot Exploitation | https://github.com/elongl/towelroot | 0 | 0| 
 | 20201031T11:48:37Z | blog repository (nonetype.kr) | https://github.com/nonetype/nonetype.github.io | 0 | 0| 
 | 20201031T11:38:55Z | Dangling Domains in AWS script for exploitation | https://github.com/Mexican-Pentester/AWS-Dangling-Domains | 0 | 0| 
@@ -96,7 +97,6 @@
 | 20201031T10:38:08Z | A command-line tool for exploiting OSCP-style buffer overflow vulnerabilities. | https://github.com/sradley/overflow | 36 | 5| 
 | 20201031T09:45:32Z | The official Exploit Database repository | https://github.com/offensive-security/exploitdb | 5627 | 1611| 
 | 20201031T09:33:12Z | CTF竞赛权威指南(Pwn篇) | https://github.com/firmianay/CTF-All-In-One | 2108 | 433| 
-| 20201031T09:00:32Z | anarchy type beat | https://github.com/not-ilinked/VC-lag-exploit | 15 | 3| 
 
 
 # backdoor on Github 推荐
