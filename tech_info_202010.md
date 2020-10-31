@@ -53,14 +53,15 @@
 | 20201031T05:17:08Z | CVE-2020-14882 | CVE-2020-14882批量验证工具。 | https://github.com/GGyao/CVE-2020-14882 | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
 | 20201030T18:46:34Z | CVE-2020-14882 | PoC for CVE-2020-14882 | https://github.com/sickwell/CVE-2020-14882 | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
 | 20201030T18:21:10Z | CVE-2020-15999 | CVE-2020-15999 | https://github.com/marcinguy/CVE-2020-15999 | 未查询到CVE信息| 
-| 20201030T16:49:27Z | CVE-2020-14181 | POC For CVE-2020-1481 - Jira Username Enumerator/Validator | https://github.com/Rival420/CVE-2020-14181 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  11 HOURS 05 MINUTES 22 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201030T16:49:27Z | CVE-2020-14181 | POC For CVE-2020-1481 - Jira Username Enumerator/Validator | https://github.com/Rival420/CVE-2020-14181 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  11 HOURS 04 MINUTES 23 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20201030T16:16:18Z | CVE-2020-14882 | CVE-2020–14882 by Jang | https://github.com/s1kr10s/CVE-2020-14882 | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
-| 20201030T14:18:08Z | CVE-2020-27976 | osCommerce Phoenix CE <=1.0.5.4 Authenticated RCE | https://github.com/k0rnh0li0/CVE-2020-27976 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  11 HOURS 05 MINUTES 31 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201030T14:18:08Z | CVE-2020-27976 | osCommerce Phoenix CE <=1.0.5.4 Authenticated RCE | https://github.com/k0rnh0li0/CVE-2020-27976 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  11 HOURS 04 MINUTES 33 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20201031T12:55:13Z | Lazy python wrapper of KLEE for solving CTF challenges | https://github.com/L4ys/LazyKLEE | 42 | 7| 
 | 20201031T04:40:53Z | RVT is a collection of tools/libraries to support both static and dynamic verification of Rust programs. | https://github.com/project-oak/rust-verification-tools | 92 | 5| 
 | 20201030T19:22:01Z | KLEE in the browser | https://github.com/klee/klee-web | 43 | 10| 
 | 20201030T18:08:38Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1534 | 467| 
@@ -70,7 +71,6 @@
 | 20201029T11:02:53Z | Null | https://github.com/BenjaminKyhn/node-kleen-architecture | 0 | 0| 
 | 20201029T03:10:42Z | 这里是可乐的地盘儿！ | https://github.com/KLeeve/kleeve.github.io | 0 | 0| 
 | 20201029T03:04:53Z | Null | https://github.com/raynard2/SwiftKleen | 1 | 0| 
-| 20201028T01:53:18Z | Create CFGs and compute complexity metrics for Python, C++, and Java code. | https://github.com/hmc-alpaqa/metrinome | 4 | 0| 
 
 
 # s2e on Github 推荐
