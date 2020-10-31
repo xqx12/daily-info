@@ -32,6 +32,7 @@
 | ts | title | url| 
 | --- | --- | ---| 
 | 20201031 | 一个文件上传靶场知识总结记录 | https://xz.aliyun.com/t/8435| 
+| 20201031 | DNS加密协议发展及部署现状 | https://www.inforsec.org/wp/?p=4367| 
 | 20201030 | BadCode: 恶意代码逃逸源代码 | https://github.com/Rvn0xsy/BadCode| 
 | 20201030 | 恶意ELF二进制文件相似度比较及可视化 | https://github.com/CymaticsCC/elf_similarity| 
 | 20201030 | AKSK 命令执行到谷歌验证码劫持 | https://xz.aliyun.com/t/8429| 
@@ -40,7 +41,6 @@
 | 20201030 | MSSQL绕过360提权实战案例 | https://mp.weixin.qq.com/s/Ch342vyszfhUWSlkJEzMOA| 
 | 20201029 | SonarQube系列（一）安装 | https://blog.csdn.net/bloodzero_new/article/details/109368923| 
 | 20201029 | 2020年全球联网数据库风险分析报告 | http://pub-shbt.s3.360.cn/cert-public-file/2020%E5%B9%B4%E5%85%A8%E7%90%83%E8%81%94%E7%BD%91%E6%95%B0%E6%8D%AE%E5%BA%93%E9%A3%8E%E9%99%A9%E5%88%86%E6%9E%90%E6%8A%A5%E5%91%8A.pdf| 
-| 20201028 | ATT&CK驱动下安全运营数据分析的实用性挑战 | https://mp.weixin.qq.com/s/yNPE4rqpY2NoHug6ZuLS2Q| 
 
 
 # CVE Github 推荐

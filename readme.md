@@ -12,6 +12,7 @@
 | ts | title | url| 
 | --- | --- | ---| 
 | 20201031 | 一个文件上传靶场知识总结记录 | https://xz.aliyun.com/t/8435| 
+| 20201031 | DNS加密协议发展及部署现状 | https://www.inforsec.org/wp/?p=4367| 
 
 
 # CVE Github 推荐
