@@ -26,7 +26,7 @@
 | --- | --- | --- | --- | ---| 
 | 20201031T18:07:12Z | CVE-2020-14882 | CVE-2020–14882、CVE-2020–14883 | https://github.com/jas502n/CVE-2020-14882 | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
 | 20201031T16:27:09Z | CVE-2020-13277 | CVE-2020-13277 靶场： Gitlab 越权访问漏洞 | https://github.com/lyy289065406/CVE-2020-13277 | 镜像逻辑中的授权问题允许对GitLab CE / EE 10.6及更高版本至13.0.5中的私有存储库的读取访问| 
-| 20201031T15:57:21Z | CVE-2020-14882 | Null | https://github.com/alexfrancow/CVE-2020-14882 | | 
+| 20201031T15:57:21Z | CVE-2020-14882 | Null | https://github.com/alexfrancow/CVE-2020-14882 | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
 | 20201031T15:38:07Z | CVE-2020-15999 | CVE-2020-15999 | https://github.com/marcinguy/CVE-2020-15999 | 未查询到CVE信息| 
 | 20201031T15:13:16Z | CVE-2020-14882 | CVE-2020-14882批量验证工具。 | https://github.com/GGyao/CVE-2020-14882 | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
 | 20201031T12:15:36Z | cve-2020-14882 | Bash script to exploit the Weblogic Unauthorized RCE - CVE-2020-14882 | https://github.com/0thm4n3/cve-2020-14882 | 未查询到CVE信息| 
@@ -56,7 +56,6 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20201031T23:59:52Z | Sebuah exploitasi celah keamanan Windows XP SP3 dengan DEP aktif, kemudian melakukan bypass dengan program server.exe | https://github.com/zal-ghiffari/Exploit-Windows-XP-SP3-Dengan-Bypass-DEP | 0 | 0| 
 | 20201031T23:48:08Z | Code for Smart Contract Vulnerabilities: Vulnerable Does Not Imply Exploited | https://github.com/danhper/evm-analyzer | 3 | 0| 
 | 20201031T23:45:55Z | This is a set of scripts and exploits for attacking njrat servers. | https://github.com/beescuit/njrat-attack | 7 | 1| 
 | 20201031T23:27:02Z | Free and open-source powerful Discord tool (lots of Discord exploits and Discord bugs). | https://github.com/ZioEren/Xenya | 1 | 0| 
@@ -66,6 +65,7 @@
 | 20201031T21:05:52Z | All kinds of SAP Exploits and Hacks | https://github.com/catsecorg/SAP_Exploits | 0 | 0| 
 | 20201031T20:51:43Z | CTF framework and exploit development library | https://github.com/Gallopsled/pwntools | 7193 | 1300| 
 | 20201031T20:10:20Z | DarkWare is a roblox exploit hub. | https://github.com/Yarik312/DarkWare | 0 | 0| 
+| 20201031T19:47:54Z | Exploits an unsafe strcpy call to achieve a shell by exploiting a buffer overflow. | https://github.com/mt-code/x86-basic-buffer-overflow | 0 | 0| 
 
 
 # backdoor on Github 推荐
