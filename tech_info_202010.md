@@ -33,49 +33,51 @@
 | --- | --- | ---| 
 | 20201031 | 一个文件上传靶场知识总结记录 | https://xz.aliyun.com/t/8435| 
 | 20201031 | DNS加密协议发展及部署现状 | https://www.inforsec.org/wp/?p=4367| 
+| 20201031 | Hacking All The Cars - Tesla 远程API分析与利用（下） | https://www.anquanke.com/post/id/220907| 
+| 20201031 | Hacking All The Cars - Tesla 远程API分析与利用（上） | https://www.anquanke.com/post/id/218396| 
+| 20201031 | 麒麟框架：现代化的逆向分析体验 | https://data.hackinn.com/ppt/2020%E7%9C%8B%E9%9B%AA%E5%AE%89%E5%85%A8%E5%BC%80%E5%8F%91%E8%80%85%E5%B3%B0%E4%BC%9A/%E9%BA%92%E9%BA%9F%E6%A1%86%E6%9E%B6%EF%BC%9A%E7%8E%B0%E4%BB%A3%E5%8C%96%E7%9A%84%E9%80%86%E5%90%91%E5%88%86%E6%9E%90%E4%BD%93%E9%AA%8C.pdf| 
+| 20201031 | Polisis: Automated Analysis and Presentation of Privacy Po... | https://mp.weixin.qq.com/s/N1uC-faM-FQ_uahvmEJ1Xg| 
+| 20201031 | ThinkPHP漏洞分析与利用 | https://mp.weixin.qq.com/s/OWi3G4ETrV-yBsnWgdU_Ew| 
+| 20201031 | 构造一个 CodeDB 来探索全新的白盒静态扫描方案 | https://paper.seebug.org/1387/| 
 | 20201030 | BadCode: 恶意代码逃逸源代码 | https://github.com/Rvn0xsy/BadCode| 
 | 20201030 | 恶意ELF二进制文件相似度比较及可视化 | https://github.com/CymaticsCC/elf_similarity| 
-| 20201030 | AKSK 命令执行到谷歌验证码劫持 | https://xz.aliyun.com/t/8429| 
-| 20201030 | 实战讲解TP3框架下的渗透思路 | https://xz.aliyun.com/t/8417| 
-| 20201030 | 某网站Web端爬虫攻防大赛题目交流 | https://www.52pojie.cn/thread-1288315-1-1.html| 
-| 20201030 | MSSQL绕过360提权实战案例 | https://mp.weixin.qq.com/s/Ch342vyszfhUWSlkJEzMOA| 
-| 20201029 | SonarQube系列（一）安装 | https://blog.csdn.net/bloodzero_new/article/details/109368923| 
-| 20201029 | 2020年全球联网数据库风险分析报告 | http://pub-shbt.s3.360.cn/cert-public-file/2020%E5%B9%B4%E5%85%A8%E7%90%83%E8%81%94%E7%BD%91%E6%95%B0%E6%8D%AE%E5%BA%93%E9%A3%8E%E9%99%A9%E5%88%86%E6%9E%90%E6%8A%A5%E5%91%8A.pdf| 
 
 
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20201031T12:43:29Z | CVE-2020-14882 | CVE-2020–14882、CVE-2020–14883 | https://github.com/jas502n/CVE-2020-14882 | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
-| 20201031T12:26:30Z | CVE-2020-13277 | CVE-2020-13277 靶场： Gitlab 越权访问漏洞 | https://github.com/lyy289065406/CVE-2020-13277 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  11 HOURS 00 MINUTES 35 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201031T18:07:12Z | CVE-2020-14882 | CVE-2020–14882、CVE-2020–14883 | https://github.com/jas502n/CVE-2020-14882 | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
+| 20201031T16:27:09Z | CVE-2020-13277 | CVE-2020-13277 靶场： Gitlab 越权访问漏洞 | https://github.com/lyy289065406/CVE-2020-13277 | 镜像逻辑中的授权问题允许对GitLab CE / EE 10.6及更高版本至13.0.5中的私有存储库的读取访问| 
+| 20201031T15:57:21Z | CVE-2020-14882 | Null | https://github.com/alexfrancow/CVE-2020-14882 | | 
+| 20201031T15:38:07Z | CVE-2020-15999 | CVE-2020-15999 | https://github.com/marcinguy/CVE-2020-15999 | 未查询到CVE信息| 
+| 20201031T15:13:16Z | CVE-2020-14882 | CVE-2020-14882批量验证工具。 | https://github.com/GGyao/CVE-2020-14882 | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
 | 20201031T12:15:36Z | cve-2020-14882 | Bash script to exploit the Weblogic Unauthorized RCE - CVE-2020-14882 | https://github.com/0thm4n3/cve-2020-14882 | 未查询到CVE信息| 
 | 20201031T05:29:13Z | CVE-2020-14882 | CVE-2020-14882 Weblogic-Exp | https://github.com/RedTeamWing/CVE-2020-14882 | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
-| 20201031T05:17:08Z | CVE-2020-14882 | CVE-2020-14882批量验证工具。 | https://github.com/GGyao/CVE-2020-14882 | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
 | 20201030T18:46:34Z | CVE-2020-14882 | PoC for CVE-2020-14882 | https://github.com/sickwell/CVE-2020-14882 | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
-| 20201030T18:21:10Z | CVE-2020-15999 | CVE-2020-15999 | https://github.com/marcinguy/CVE-2020-15999 | 未查询到CVE信息| 
-| 20201030T16:49:27Z | CVE-2020-14181 | POC For CVE-2020-1481 - Jira Username Enumerator/Validator | https://github.com/Rival420/CVE-2020-14181 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  11 HOURS 00 MINUTES 23 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201030T16:49:27Z | CVE-2020-14181 | POC For CVE-2020-1481 - Jira Username Enumerator/Validator | https://github.com/Rival420/CVE-2020-14181 | 受影响的Atlassian Jira Server和Data Center版本允许未经身份验证的用户通过/ViewUserHover.jspa端点中的信息泄露漏洞枚举用户。受影响的版本是7.13.6之前的版本，8.5.7之前的8.0.0版本和8.12.0之前的8.6.0版本。| 
 | 20201030T16:16:18Z | CVE-2020-14882 | CVE-2020–14882 by Jang | https://github.com/s1kr10s/CVE-2020-14882 | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
-| 20201030T14:18:08Z | CVE-2020-27976 | osCommerce Phoenix CE <=1.0.5.4 Authenticated RCE | https://github.com/k0rnh0li0/CVE-2020-27976 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  11 HOURS 00 MINUTES 32 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20201031T23:14:51Z | Create CFGs and compute complexity metrics for Python, C++, and Java code. | https://github.com/hmc-alpaqa/metrinome | 4 | 0| 
+| 20201031T20:56:48Z | Null | https://github.com/davidtr1037/klee-pspa | 0 | 0| 
+| 20201031T18:33:28Z | Whole Program LLVM: wllvm ported to go | https://github.com/SRI-CSL/gllvm | 110 | 17| 
+| 20201031T16:37:01Z | Website for the KLEE project: https://klee.github.io/ | https://github.com/klee/klee.github.io | 13 | 43| 
+| 20201031T16:07:12Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1535 | 467| 
 | 20201031T12:55:13Z | Lazy python wrapper of KLEE for solving CTF challenges | https://github.com/L4ys/LazyKLEE | 42 | 7| 
 | 20201031T04:40:53Z | RVT is a collection of tools/libraries to support both static and dynamic verification of Rust programs. | https://github.com/project-oak/rust-verification-tools | 92 | 5| 
 | 20201030T19:22:01Z | KLEE in the browser | https://github.com/klee/klee-web | 43 | 10| 
-| 20201030T18:08:38Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1534 | 467| 
 | 20201030T17:18:32Z | Minecraft Mod. Allows breaking only one half of a double slab block. | https://github.com/blay09/KleeSlabs | 7 | 3| 
 | 20201030T16:00:14Z | Urban Evidence Based Policy (SPPA667) | https://github.com/KLeeDE/PUS2020_KLee | 0 | 1| 
-| 20201030T12:07:34Z | Website for the KLEE project: https://klee.github.io/ | https://github.com/klee/klee.github.io | 13 | 43| 
-| 20201029T11:02:53Z | Null | https://github.com/BenjaminKyhn/node-kleen-architecture | 0 | 0| 
-| 20201029T03:10:42Z | 这里是可乐的地盘儿！ | https://github.com/KLeeve/kleeve.github.io | 0 | 0| 
-| 20201029T03:04:53Z | Null | https://github.com/raynard2/SwiftKleen | 1 | 0| 
 
 
 # s2e on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20201031T22:15:23Z | Клиентская часть моего домашнего веб сайта (для портфолио и наработки опыта)  | https://github.com/EfimovSergeiV/S2E0058VAPP | 0 | 0| 
+| 20201031T22:10:32Z | Серверная часть моего домашнего веб сайта (для портфолио и наработки опыта) | https://github.com/EfimovSergeiV/S2E0058DAPP | 0 | 0| 
 | 20201031T01:12:25Z | Created with StackBlitz ⚡️ | https://github.com/borisgr04/angular-s2eqgsExample | 0 | 0| 
 | 20201029T08:02:16Z | GUI Configuration tool for WIZnet serial to ethernet devices. | https://github.com/Wiznet/WIZnet-S2E-Tool-GUI | 10 | 6| 
 | 20201028T13:30:30Z | s2engineers content collection | https://github.com/sinnerschrader/s2engineers-content | 3 | 0| 
@@ -87,46 +89,46 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20201031T12:20:59Z | Kontol exploit | https://github.com/HackInstralle/wp-0day | 0 | 0| 
-| 20201031T12:18:24Z | Bash script to exploit the Oracle%s Weblogic Unauthenticated Remote Command Execution - CVE-2020-14882 | https://github.com/0thm4n3/cve-2020-14882 | 1 | 1| 
-| 20201031T12:17:26Z | IoT 固件漏洞复现环境 | https://github.com/firmianay/IoT-vulhub | 79 | 5| 
-| 20201031T12:16:12Z | Towelroot Exploitation | https://github.com/elongl/towelroot | 0 | 0| 
-| 20201031T11:48:37Z | blog repository (nonetype.kr) | https://github.com/nonetype/nonetype.github.io | 0 | 0| 
-| 20201031T11:38:55Z | Dangling Domains in AWS script for exploitation | https://github.com/Mexican-Pentester/AWS-Dangling-Domains | 0 | 0| 
-| 20201031T11:36:07Z | Exploit Database binary exploits located in the /sploits directory | https://github.com/offensive-security/exploitdb-bin-sploits | 1320 | 476| 
-| 20201031T10:38:08Z | A command-line tool for exploiting OSCP-style buffer overflow vulnerabilities. | https://github.com/sradley/overflow | 36 | 5| 
-| 20201031T09:45:32Z | The official Exploit Database repository | https://github.com/offensive-security/exploitdb | 5627 | 1611| 
-| 20201031T09:33:12Z | CTF竞赛权威指南(Pwn篇) | https://github.com/firmianay/CTF-All-In-One | 2108 | 433| 
+| 20201031T23:59:52Z | Sebuah exploitasi celah keamanan Windows XP SP3 dengan DEP aktif, kemudian melakukan bypass dengan program server.exe | https://github.com/zal-ghiffari/Exploit-Windows-XP-SP3-Dengan-Bypass-DEP | 0 | 0| 
+| 20201031T23:48:08Z | Code for Smart Contract Vulnerabilities: Vulnerable Does Not Imply Exploited | https://github.com/danhper/evm-analyzer | 3 | 0| 
+| 20201031T23:45:55Z | This is a set of scripts and exploits for attacking njrat servers. | https://github.com/beescuit/njrat-attack | 7 | 1| 
+| 20201031T23:27:02Z | Free and open-source powerful Discord tool (lots of Discord exploits and Discord bugs). | https://github.com/ZioEren/Xenya | 1 | 0| 
+| 20201031T21:56:35Z | Thefatrat a massive exploiting tool : Easy tool to generate backdoor and easy tool to post exploitation attack like browser attack and etc . This tool compiles a malware with popular payload and then the compiled malware can be execute on windows, android, mac . The malware that created with this tool also have an ability to bypass most AV softw… | https://github.com/farukclk/TheFatRat | 0 | 0| 
+| 20201031T21:35:07Z | Minetest mod protecting against exploits. | https://github.com/appgurueu/anti_exploit | 0 | 0| 
+| 20201031T21:15:57Z | Null | https://github.com/quentin452/Cats-Exploitz-HUB | 0 | 1| 
+| 20201031T21:05:52Z | All kinds of SAP Exploits and Hacks | https://github.com/catsecorg/SAP_Exploits | 0 | 0| 
+| 20201031T20:51:43Z | CTF framework and exploit development library | https://github.com/Gallopsled/pwntools | 7193 | 1300| 
+| 20201031T20:10:20Z | DarkWare is a roblox exploit hub. | https://github.com/Yarik312/DarkWare | 0 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20201031T21:56:35Z | Thefatrat a massive exploiting tool : Easy tool to generate backdoor and easy tool to post exploitation attack like browser attack and etc . This tool compiles a malware with popular payload and then the compiled malware can be execute on windows, android, mac . The malware that created with this tool also have an ability to bypass most AV softw… | https://github.com/farukclk/TheFatRat | 0 | 0| 
+| 20201031T17:27:55Z | AmLeLe Tcp Backdoor | https://github.com/Lelouche01/4ML3L3-Backdoor | 0 | 0| 
 | 20201031T11:56:22Z | Implementations and demo of a regular Backdoor and a Latent backdoor attack on Deep Neural Networks. | https://github.com/dunnkers/neural-network-backdoors | 0 | 0| 
 | 20201031T10:16:20Z | All backdoor shells that the 22XploiterCrew team have created. | https://github.com/RandsX/Shell-Backdoor | 2 | 0| 
+| 20201031T10:16:20Z | All backdoor shells that the 22XploiterCrew team have created. | https://github.com/22XploiterCrew-Team/Shell-Backdoor | 2 | 0| 
 | 20201031T07:33:21Z | Null | https://github.com/wutongshenqiu/Video-Backdoor-Attack-Pytorch | 0 | 0| 
 | 20201031T06:48:41Z | FUD cross-platform python2 backdoor | https://github.com/7h3w4lk3r/pyback | 9 | 4| 
 | 20201031T06:24:05Z | LKM rootkit for Linux Kernels 2.6.x/3.x/4.x/5.x (x86/x86_64 and ARM64) | https://github.com/m0nad/Diamorphine | 646 | 251| 
 | 20201031T02:58:03Z | A tool to install PAM backdoors on Linux and FreeBSD | https://github.com/FlamingSpork/libpam_spooky | 0 | 0| 
 | 20201030T23:46:56Z | A deck-building roguelike cyberpunk game. | https://github.com/uspgamedev/backdoor | 18 | 3| 
-| 20201030T20:29:08Z | An advanced reverse shell written in Python3. | https://github.com/sayak-brm/ShellBot | 15 | 7| 
-| 20201030T07:52:32Z | Linux Backdoor application in C. | https://github.com/kboranbayev/backdoor | 0 | 0| 
-| 20201030T05:03:05Z | Ghost Framework is an Android post-exploitation framework that exploits the Android Debug Bridge to remotely access an Android device. Ghost Framework gives you the power and convenience of remote Android device administration. | https://github.com/EntySec/ghost | 772 | 396| 
 
 
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20201031T11:35:26Z | FormatFuzzer is a framework for high-efficiency, high-quality generation and parsing of binary inputs. | https://github.com/uds-se/FormatFuzzer | 86 | 6| 
-| 20201031T11:25:14Z | Null | https://github.com/Fuzzphorescent/FuzzBot | 0 | 0| 
-| 20201031T10:46:02Z | A python3 intruder that gave me bounties, easy to use and as fast as fuff | https://github.com/ElSicarius/SuperTruder | 22 | 4| 
-| 20201031T10:39:29Z | Null | https://github.com/s9varesc/url-fuzzing-docker | 0 | 0| 
-| 20201031T10:32:18Z | SSL and TLS protocol test suite and fuzzer | https://github.com/tomato42/tlsfuzzer | 324 | 81| 
-| 20201031T09:54:14Z | Null | https://github.com/brahma27/Fuzzy_Logic | 1 | 0| 
-| 20201031T09:23:30Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 3205 | 738| 
-| 20201031T09:11:13Z | Iris classification using MATLAB%s Fuzzy Logic Toolbox | https://github.com/yoBoyio/Fuzzy-Logic-IRIS | 0 | 1| 
-| 20201031T08:38:54Z | Null | https://github.com/ROOTBABU/Fuzz-List | 0 | 0| 
-| 20201031T07:29:07Z | Extract endpoints from specific Git repository for fuzzing | https://github.com/aufzayed/digit | 5 | 3| 
+| 20201031T23:04:50Z | https://github.com/wcventure/FuzzingPaper | https://github.com/mishmashclone/wcventure-FuzzingPaper | 0 | 0| 
+| 20201031T22:54:56Z | A tale into the system security, fuzzing and vulnerability research | https://github.com/Microsvuln/Microsvuln.github.io | 0 | 0| 
+| 20201031T22:23:03Z | Web security tool to make fuzzing at HTTP/S, Beta | https://github.com/CoolerVoid/0d1n | 443 | 134| 
+| 20201031T22:05:57Z | Mongoose Fuzzy Searching Plugin | https://github.com/VassilisPallas/mongoose-fuzzy-searching | 74 | 20| 
+| 20201031T21:54:46Z | Null | https://github.com/tomekjaworski/FuzzyPDMP | 1 | 0| 
+| 20201031T20:36:45Z | 🤖 Repeat tests. Repeat tests. Repeat tests. | https://github.com/ehmicky/test-each | 91 | 2| 
+| 20201031T20:10:54Z | fuzz and property testing front-end for Rust | https://github.com/camshaft/bolero | 14 | 1| 
+| 20201031T20:00:31Z | Repository holding database dumps from getfursu.it | https://github.com/veelkoov/fuzzrake-data | 0 | 0| 
+| 20201031T19:39:51Z | Personal website of Laurence Hughes | https://github.com/fuzzylogicxx/fuzzylogic | 4 | 1| 
+| 20201031T19:33:15Z | Null | https://github.com/jburz/fuzzy-octo-winner | 0 | 0| 
 
 
 
