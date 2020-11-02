@@ -80,7 +80,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20201102T02:51:24Z | Null | https://github.com/demetrius-ford/mutation-fuzzer | 0 | 0| 
+| 20201102T02:52:35Z | Null | https://github.com/demetrius-ford/mutation-fuzzer | 0 | 0| 
 | 20201102T02:26:04Z | Ethereum smart contract fuzzer | https://github.com/crytic/echidna | 494 | 79| 
 | 20201102T02:03:37Z | Null | https://github.com/ghksdl6025/fuzzy_rule_outcome_prediction | 1 | 0| 
 | 20201102T01:44:19Z | AFLNet: A Greybox Fuzzer for Network Protocols (https://thuanpv.github.io/publications/AFLNet_ICST20.pdf) | https://github.com/aflnet/aflnet | 322 | 46| 
