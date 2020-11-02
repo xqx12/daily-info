@@ -27,11 +27,11 @@
 | 20201102T12:38:19Z | CVE-2020-14882 | CVE-2020–14882、CVE-2020–14883 | https://github.com/jas502n/CVE-2020-14882 | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
 | 20201102T11:49:17Z | CVE-2020-14882 | CVE-2020–14882 by Jang | https://github.com/s1kr10s/CVE-2020-14882 | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
 | 20201102T11:06:35Z | CVE-2020-14882 | (CVE-2020-14882) Oracle Weblogic Unauthorized bypass RCE test script | https://github.com/ludy-dev/Weblogic_Unauthorized-bypass-RCE | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
-| 20201102T11:05:44Z | CVE-2020-14882 | CVE-2020-14882批量验证工具。 | https://github.com/GGyao/CVE-2020-14882 | | 
-| 20201102T08:28:25Z | CVE-2020-15999 | CVE-2020-15999 | https://github.com/marcinguy/CVE-2020-15999 | | 
+| 20201102T11:05:44Z | CVE-2020-14882 | CVE-2020-14882批量验证工具。 | https://github.com/GGyao/CVE-2020-14882 | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
+| 20201102T08:28:25Z | CVE-2020-15999 | CVE-2020-15999 | https://github.com/marcinguy/CVE-2020-15999 | 未查询到CVE信息| 
 | 20201102T05:10:04Z | cve-2020-27358 | CVE-2020-27358 and CVE-2020-27359 | https://github.com/seb1055/cve-2020-27358-27359 | 未查询到CVE信息| 
-| 20201102T01:58:47Z | CVE-2020-27976 | osCommerce Phoenix CE <=1.0.5.4 Authenticated RCE | https://github.com/k0rnh0li0/CVE-2020-27976 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 54 MINUTES 28 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20201102T01:17:25Z | CVE-2020-13277 | CVE-2020-13277 靶场： Gitlab 越权访问漏洞 | https://github.com/lyy289065406/CVE-2020-13277 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 54 MINUTES 30 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201102T01:58:47Z | CVE-2020-27976 | osCommerce Phoenix CE <=1.0.5.4 Authenticated RCE | https://github.com/k0rnh0li0/CVE-2020-27976 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 52 MINUTES 36 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201102T01:17:25Z | CVE-2020-13277 | CVE-2020-13277 靶场： Gitlab 越权访问漏洞 | https://github.com/lyy289065406/CVE-2020-13277 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 52 MINUTES 39 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 
 
 # klee on Github 推荐
@@ -50,6 +50,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20201102T13:06:07Z | Notes about attacking Jenkins servers | https://github.com/gquere/pwn_jenkins | 789 | 123| 
 | 20201102T12:57:39Z | Null | https://github.com/ajes-xfr-team/bin-exploits | 0 | 0| 
 | 20201102T12:55:49Z | A repository for learning various heap exploitation techniques. | https://github.com/shellphish/how2heap | 4044 | 850| 
 | 20201102T12:44:57Z | k8gege.org - K8哥哥%s Blog | https://github.com/k8gege/k8gege.github.io | 9 | 6| 
@@ -58,7 +59,6 @@
 | 20201102T12:00:00Z | PEDA - Python Exploit Development Assistance for GDB | https://github.com/0xKira/peda | 1 | 0| 
 | 20201102T11:43:48Z | A phased, evasive Path Traversal + LFI scanning & exploitation tool in Python | https://github.com/VainlyStrain/Vailyn | 59 | 1| 
 | 20201102T11:36:16Z | Scripts that I practiced from the book Hacking The Art of Exploitation | https://github.com/iamsolo09/Ethical-Hacking-Exploitation-Scripts | 0 | 0| 
-| 20201102T10:45:57Z | Notes about attacking Jenkins servers | https://github.com/gquere/pwn_jenkins | 790 | 123| 
 | 20201102T10:30:22Z | Scripts I practiced from the book, Hacking The Art of Exploitation | https://github.com/iamsolo09/Hacking-The-Art-Of-Exploitation | 0 | 0| 
 
 
