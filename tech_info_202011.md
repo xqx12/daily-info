@@ -6,6 +6,12 @@
 # 玄武实验室 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20201102 | Fuzzing for eBPF JIT bugs in the Linux kernel | https://scannell.me/fuzzing-for-ebpf-jit-bugs-in-the-linux-kernel/| 
+| 20201102 | Abbadon 远控工具使用 Discord 作为 C&C | http://github.com/MalPhobic/MalwareReports/blob/main/AbbadonRAT/Abbadon_RAT.pdf| 
+| 20201102 | Comprehensive Experimental Analyses of Automotive Attack Surfaces | https://www.usenix.org/legacy/events/sec11/tech/full_papers/Checkoway.pdf| 
+| 20201102 | Exploring the WDAC Microsoft Recommended Block Rules (Part II): Wfc.exe, Fsi.exe, and FsiAnyCpu.exe | https://bohops.com/2020/11/02/exploring-the-wdac-microsoft-recommended-block-rules-part-ii-wfc-fsi/| 
+| 20201102 | NAT Slipstreaming - 远程攻击 NAT 网络内机器的工具 | https://samy.pl/slipstream/| 
+| 20201102 | Windows 内核 CVE-2020-16889 漏洞的 PoC | https://github.com/nghiadt1098/MyResearch/tree/main/CVE-2020-16889| 
 | 20201101 | 红队PowerShell脚本收集数据工具。 | https://github.com/tobor88/PowerShell-Red-Team| 
 | 20201101 | 肚脑虫组织（ APT-C-35）疑似针对巴基斯坦军事人员的最新攻击活动 | http://blogs.360.cn/post/APT-C-35_target_at_armed_forces_in_Pakistan.html| 
 | 20201101 | 构造一个 CodeDB 来探索全新的白盒静态扫描方案 | https://paper.seebug.org/1387/| 
@@ -15,6 +21,8 @@
 # 安全维基 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20201102 | SecWiki周刊（第348期) | https://www.sec-wiki.com/weekly/348| 
+| 20201102 | 站库分离常规渗透思路总结 | https://mp.weixin.qq.com/s/nLSCP6xOyYnsdULO7h9cgA| 
 | 20201101 | 认识 WebAuthn | http://rui0.cn/archives/1543| 
 | 20201101 | 无文件攻击白皮书 | https://mp.weixin.qq.com/s/0jMTOKsvV9q7_0Gz04veHg| 
 | 20201101 | Xcheck之Java安全检查引擎 | https://mp.weixin.qq.com/s/rb1BfcZeCTr2PIiypXqVjw| 
@@ -24,20 +32,22 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20201102T03:16:32Z | CVE-2020-14882 | CVE-2020–14882、CVE-2020–14883 | https://github.com/jas502n/CVE-2020-14882 | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
-| 20201102T01:58:47Z | CVE-2020-27976 | osCommerce Phoenix CE <=1.0.5.4 Authenticated RCE | https://github.com/k0rnh0li0/CVE-2020-27976 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  20 HOURS 42 MINUTES 35 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20201102T01:17:25Z | CVE-2020-13277 | CVE-2020-13277 靶场： Gitlab 越权访问漏洞 | https://github.com/lyy289065406/CVE-2020-13277 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  20 HOURS 42 MINUTES 37 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20201102T00:46:53Z | CVE-2020-14882 | CVE-2020-14882批量验证工具。 | https://github.com/GGyao/CVE-2020-14882 | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
-| 20201101T20:30:57Z | CVE-2020-0069 | Automated Root Script for MediaTek armv8 devices using MediaTek-SU/mtk-su (CVE-2020-0069). | https://github.com/R0rt1z2/AutomatedRoot | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  20 HOURS 42 MINUTES 24 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20201101T20:10:17Z | CVE-2020-15999 | CVE-2020-15999 | https://github.com/marcinguy/CVE-2020-15999 | 未查询到CVE信息| 
-| 20201101T13:56:50Z | CVE-2020-14882 | (CVE-2020-14882) Oracle Weblogic Unauthorized bypass RCE test script | https://github.com/ludy-dev/Weblogic_Unauthorized-bypass-RCE | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
-| 20201101T07:25:56Z | CVE-2020-8241 | Pulse Secure VPN mitm Research - CVE-2020-8241, CVE-2020-8239 | https://github.com/withdk/pulse-secure-vpn-mitm-research | | 
-| 20201101T01:43:30Z | CVE-2020-14882 | CVE-2020-14882 Weblogic-Exp | https://github.com/RedTeamWing/CVE-2020-14882 | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
+| 20201102T12:38:19Z | CVE-2020-14882 | CVE-2020–14882、CVE-2020–14883 | https://github.com/jas502n/CVE-2020-14882 | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
+| 20201102T11:49:17Z | CVE-2020-14882 | CVE-2020–14882 by Jang | https://github.com/s1kr10s/CVE-2020-14882 | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
+| 20201102T11:06:35Z | CVE-2020-14882 | (CVE-2020-14882) Oracle Weblogic Unauthorized bypass RCE test script | https://github.com/ludy-dev/Weblogic_Unauthorized-bypass-RCE | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
+| 20201102T11:05:44Z | CVE-2020-14882 | CVE-2020-14882批量验证工具。 | https://github.com/GGyao/CVE-2020-14882 | | 
+| 20201102T08:28:25Z | CVE-2020-15999 | CVE-2020-15999 | https://github.com/marcinguy/CVE-2020-15999 | | 
+| 20201102T05:10:04Z | cve-2020-27358 | CVE-2020-27358 and CVE-2020-27359 | https://github.com/seb1055/cve-2020-27358-27359 | 未查询到CVE信息| 
+| 20201102T01:58:47Z | CVE-2020-27976 | osCommerce Phoenix CE <=1.0.5.4 Authenticated RCE | https://github.com/k0rnh0li0/CVE-2020-27976 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 58 MINUTES 35 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201102T01:17:25Z | CVE-2020-13277 | CVE-2020-13277 靶场： Gitlab 越权访问漏洞 | https://github.com/lyy289065406/CVE-2020-13277 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 58 MINUTES 37 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201101T20:30:57Z | CVE-2020-0069 | Automated Root Script for MediaTek armv8 devices using MediaTek-SU/mtk-su (CVE-2020-0069). | https://github.com/R0rt1z2/AutomatedRoot | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 58 MINUTES 25 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201101T07:25:56Z | CVE-2020-8241 | Pulse Secure VPN mitm Research - CVE-2020-8241, CVE-2020-8239 | https://github.com/withdk/pulse-secure-vpn-mitm-research | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 58 MINUTES 26 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20201102T09:41:34Z | Null | https://github.com/OleDakotaJoe/peachy-kleen | 0 | 0| 
 | 20201102T02:55:25Z | Whole Program LLVM: wllvm ported to go | https://github.com/SRI-CSL/gllvm | 110 | 17| 
 | 20201102T02:52:42Z | Lazy python wrapper of KLEE for solving CTF challenges | https://github.com/L4ys/LazyKLEE | 44 | 7| 
 | 20201101T20:07:03Z | Null | https://github.com/faham1997/KleeBot | 0 | 0| 
@@ -55,42 +65,46 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20201102T03:00:29Z | Null | https://github.com/Zuleny/exploit-development | 0 | 0| 
-| 20201102T02:58:43Z | Mutate a target to identify exploit candidates. | https://github.com/demetrius-ford/mutation-fuzzer | 0 | 0| 
-| 20201102T02:01:09Z | RGraph is an RDMA-assisted asynchronous distributed graph processing system. RGraph distributes edges into two parts to isolate master and mirror vertices. RGraph exploits the asymmetry of RDMA to accelerate the one-to-many communication between master and mirror vertices.  The results in comprehensive experiments show that compared to existing designs, PowerGraph, RGraph reduces the execution time by up to 81%. | https://github.com/CGCL-codes/RGraph | 1 | 2| 
-| 20201102T01:53:20Z | Writeups, scripts and solutions for CTFs, Hack the Box, Vulnhub, exploit challenges, pwnables, crackmes, etc. Anything goes. | https://github.com/alichtman/writeups | 4 | 1| 
-| 20201102T01:38:50Z | Goploit is a tool focused on WebHacking, which is still in development! in your initial project phase. Counting from the start with just 5 commands. You can use the -h parameter to see the Goploit help! | https://github.com/blkzy/Goploit | 7 | 2| 
-| 20201102T01:16:49Z | Exploit Roblox | https://github.com/ZeeKayRBLX/ZeeSploit | 0 | 0| 
-| 20201102T00:58:03Z | Automated CVEs checking | https://github.com/qeeqbox/falcon | 0 | 0| 
-| 20201102T00:46:59Z | Sifter is a OSINT, recon & vulnerability scanner. It incorporates a plethara of tools within different module sets that tries to cover every attack vector. Allowing you to quickly perform recon tasks and organize the results in one place. From OSINT to Recon, Exploitation, Post-Exploitation, OpSec, Threat Analysis, XSS, SQLinjection, Network Scanning, WebApp Analysis or DNS enumeration.. Sifter should be able to cover it all. | https://github.com/s1l3nt78/sifter | 275 | 85| 
-| 20201102T00:26:28Z | Just a temporary website to post my ctf writeups and journey into binary/android exploitation/malware analysis/exploit development | https://github.com/blackbeard666/pwn_exhibit | 1 | 1| 
-| 20201102T00:02:20Z | An R package of data from the Kootenay Lake Exploitation Study | https://github.com/poissonconsulting/klexdatr | 0 | 1| 
+| 20201102T12:57:39Z | Null | https://github.com/ajes-xfr-team/bin-exploits | 0 | 0| 
+| 20201102T12:55:49Z | A repository for learning various heap exploitation techniques. | https://github.com/shellphish/how2heap | 4044 | 850| 
+| 20201102T12:44:57Z | k8gege.org - K8哥哥%s Blog | https://github.com/k8gege/k8gege.github.io | 9 | 6| 
+| 20201102T12:12:56Z | An open-source post-exploitation framework for students, researchers and developers. | https://github.com/malwaredllc/byob | 5430 | 1133| 
+| 20201102T12:08:38Z | X Attacker Tool ☣ Website Vulnerability Scanner & Auto Exploiter | https://github.com/Moham3dRiahi/XAttacker | 816 | 382| 
+| 20201102T12:00:00Z | PEDA - Python Exploit Development Assistance for GDB | https://github.com/0xKira/peda | 1 | 0| 
+| 20201102T11:43:48Z | A phased, evasive Path Traversal + LFI scanning & exploitation tool in Python | https://github.com/VainlyStrain/Vailyn | 59 | 1| 
+| 20201102T11:36:16Z | Scripts that I practiced from the book Hacking The Art of Exploitation | https://github.com/iamsolo09/Ethical-Hacking-Exploitation-Scripts | 0 | 0| 
+| 20201102T10:45:57Z | Notes about attacking Jenkins servers | https://github.com/gquere/pwn_jenkins | 790 | 123| 
+| 20201102T10:30:22Z | Scripts I practiced from the book, Hacking The Art of Exploitation | https://github.com/iamsolo09/Hacking-The-Art-Of-Exploitation | 0 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20201102T12:35:36Z | Null | https://github.com/mbaguszulmi/001_backdoor | 0 | 0| 
+| 20201102T12:07:38Z | Distillation for mitigating backdoor attack (Implementation for AISEC 2020 paper) | https://github.com/k-yossy90229/Distillation-for-mitigating-backdoor-attack | 0 | 0| 
+| 20201102T11:32:19Z | Can use it to | https://github.com/Ahmed-Samir13/Server-Backdoor | 0 | 0| 
+| 20201102T10:22:57Z | Linux Backdoor application in C. | https://github.com/kboranbayev/backdoor | 0 | 0| 
+| 20201102T10:14:33Z | Null | https://github.com/mohan589/backdoor_writeups | 0 | 0| 
+| 20201102T09:52:42Z | Implementations and demo of a regular Backdoor and a Latent backdoor attack on Deep Neural Networks. | https://github.com/dunnkers/neural-network-backdoors | 0 | 0| 
+| 20201102T05:55:13Z | Null | https://github.com/arjunagnihotri243/backdoor-windows | 0 | 0| 
 | 20201102T02:07:35Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 85 | 9| 
 | 20201102T00:23:55Z | Backdoor server with Spring Boot | https://github.com/apal7/marauders-map-server | 0 | 0| 
 | 20201101T19:05:26Z | Unicorn Framework is a Linux post-exploitation framework that exploits Linux TCP vulnerability to get interactive shell connection with a lot of features such as downloading files, uploading files, getting system information and etc. | https://github.com/EntySec/unicorn | 6 | 2| 
-| 20201101T18:13:25Z | Null | https://github.com/cantixcrew/backdoor | 0 | 0| 
-| 20201101T13:40:42Z | LKM rootkit for Linux Kernels 2.6.x/3.x/4.x/5.x (x86/x86_64 and ARM64) | https://github.com/m0nad/Diamorphine | 646 | 251| 
-| 20201101T05:31:11Z | A deck-building roguelike cyberpunk game. | https://github.com/uspgamedev/backdoor | 18 | 3| 
 
 
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20201102T03:08:58Z | Java library to return a fuzzy timestamp string given a date / time / datetime input | https://github.com/harshildp/fuzzytime-java | 0 | 0| 
-| 20201102T02:58:43Z | Mutate a target to identify exploit candidates. | https://github.com/demetrius-ford/mutation-fuzzer | 0 | 0| 
-| 20201102T02:56:21Z | Null | https://github.com/jburz/fuzzy-octo-winner | 0 | 0| 
-| 20201102T02:26:04Z | Ethereum smart contract fuzzer | https://github.com/crytic/echidna | 494 | 79| 
-| 20201102T02:03:37Z | Null | https://github.com/ghksdl6025/fuzzy_rule_outcome_prediction | 1 | 0| 
-| 20201102T01:44:19Z | AFLNet: A Greybox Fuzzer for Network Protocols (https://thuanpv.github.io/publications/AFLNet_ICST20.pdf) | https://github.com/aflnet/aflnet | 322 | 46| 
-| 20201102T01:38:59Z | Null | https://github.com/javiercarpio57/fuzzy_logic | 0 | 0| 
-| 20201102T00:06:57Z | Scalable fuzzing infrastructure. | https://github.com/google/clusterfuzz | 4356 | 395| 
-| 20201101T21:14:05Z | Null | https://github.com/LGuilhermeRodrigues/fuzzy-logic-game | 0 | 0| 
-| 20201101T20:50:45Z | The fastest functions for fuzzy search and items filtering | https://github.com/axules/fuzzy-tools | 1 | 1| 
+| 20201102T12:36:13Z | Null | https://github.com/s9varesc/url-fuzzing-docker | 0 | 0| 
+| 20201102T12:28:14Z | OSS-Fuzz - continuous fuzzing of open source software. | https://github.com/google/oss-fuzz | 5621 | 1109| 
+| 20201102T12:25:32Z | Null | https://github.com/TheLaluka/fb-fuzzy-link-bot | 1 | 0| 
+| 20201102T12:12:49Z | This repository holds the notebooks and associated processing code for executing the Fuzzy changepoint method. | https://github.com/mjhollaway/Fuzzy_cpt_eval | 0 | 0| 
+| 20201102T11:58:53Z | Fuzzaldrin plus - fast using native C++ bindings | https://github.com/atom-ide-community/fuzzaldrin-plus-fast | 2 | 2| 
+| 20201102T11:34:00Z | Android本地模糊搜索 | https://github.com/zhang721688/FuzzySearchDemo | 0 | 0| 
+| 20201102T11:28:46Z | Null | https://github.com/Hakimaruuu/FuzzyTsukamoto | 0 | 0| 
+| 20201102T11:00:32Z | Fuzzy Spreadsheets Excel Add-in | https://github.com/JKU-ICG/fuzzy-spreadsheet | 0 | 0| 
+| 20201102T10:50:54Z | Extract endpoints from specific Git repository for fuzzing | https://github.com/aufzayed/digit | 5 | 3| 
+| 20201102T10:42:28Z | A JavaScript Engine Fuzzer | https://github.com/googleprojectzero/fuzzilli | 1063 | 180| 
 
 
 
