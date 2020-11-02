@@ -50,10 +50,10 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20201102T13:35:35Z | k8gege.org - K8哥哥%s Blog | https://github.com/k8gege/k8gege.github.io | 9 | 6| 
 | 20201102T13:31:53Z | A repository for learning various heap exploitation techniques. | https://github.com/shellphish/how2heap | 4049 | 851| 
 | 20201102T13:30:44Z | K8工具合集(内网渗透/提权工具/远程溢出/漏洞利用/扫描工具/密码破解/免杀工具/Exploit/APT/0day/Shellcode/Payload/priviledge/BypassUAC/OverFlow/WebShell/PenTest) Web GetShell Exploit(Struts2/Zimbra/Weblogic/Tomcat/Apache/Jboss/DotNetNuke/zabbix) | https://github.com/k8gege/K8tools | 3283 | 1562| 
 | 20201102T13:30:20Z | Null | https://github.com/ajes-xfr-team/bin-exploits | 0 | 0| 
-| 20201102T13:26:20Z | k8gege.org - K8哥哥%s Blog | https://github.com/k8gege/k8gege.github.io | 9 | 6| 
 | 20201102T13:26:11Z | please visit:  | https://github.com/touhidshaikh/exploit-exercises | 0 | 0| 
 | 20201102T13:19:49Z | 大型内网渗透扫描器&Cobalt Strike，Ladon7.2内置94个模块，包含信息收集/存活主机/IP扫描/端口扫描/服务识别/网络资产/密码爆破/漏洞检测/漏洞利用。漏洞检测含MS17010、SMBGhost、Weblogic、ActiveMQ、Tomcat、Struts2系列，密码口令爆破(Mysql、Oracle、MSSQL)、FTP、SSH(Linux)、VNC、Windows(IPC、WMI、SMB、Netbios、LDAP、SmbHash、WmiHash、Winrm),远程执行命令(wmiexe/psexec/atexec/sshexec/webshell),降权提权Runas、GetSystem，Poc/Exploit,支持Cobalt Strike 3.X-4.0 | https://github.com/k8gege/Ladon | 1977 | 509| 
 | 20201102T13:06:07Z | Notes about attacking Jenkins servers | https://github.com/gquere/pwn_jenkins | 789 | 123| 
