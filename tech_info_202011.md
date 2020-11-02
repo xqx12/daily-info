@@ -52,16 +52,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20201101T13:58:28Z | This repository consits of stuffs related to binary exploitation | https://github.com/TamilHackz/awsm-binary-exploitation | 2 | 1| 
-| 20201101T13:46:15Z | Null | https://github.com/hackti960/exploit | 0 | 0| 
-| 20201101T12:57:19Z | Modified and self-made exploits for pen-testing | https://github.com/H4rk3nz0/exploits | 0 | 0| 
-| 20201101T12:56:16Z | Just a temporary website to post my ctf writeups and journey into binary/android exploitation/malware analysis/exploit development | https://github.com/blackbeard666/pwn_exhibit | 1 | 1| 
-| 20201101T12:40:27Z | Null | https://github.com/OS20dusty28/DustyExploit | 0 | 0| 
-| 20201101T11:46:04Z | CTF framework and exploit development library | https://github.com/Gallopsled/pwntools | 7195 | 1300| 
-| 20201101T10:54:04Z | A command-line tool for exploiting OSCP-style buffer overflow vulnerabilities. | https://github.com/sradley/overflow | 40 | 5| 
-| 20201101T10:05:27Z | some good exploits | https://github.com/ytmcgamer/Fortnite-Exploits | 0 | 0| 
-| 20201101T09:56:32Z | Various random exploits or tools that have been tested or modified for educational purposes. | https://github.com/fuzzlove/Exploits | 6 | 3| 
-| 20201101T09:51:22Z | CTF竞赛权威指南(Pwn篇) | https://github.com/firmianay/CTF-All-In-One | 2110 | 433| 
+| 20201102T00:58:03Z | Automated CVEs checking | https://github.com/qeeqbox/falcon | 0 | 0| 
+| 20201102T00:46:59Z | Sifter is a OSINT, recon & vulnerability scanner. It incorporates a plethara of tools within different module sets that tries to cover every attack vector. Allowing you to quickly perform recon tasks and organize the results in one place. From OSINT to Recon, Exploitation, Post-Exploitation, OpSec, Threat Analysis, XSS, SQLinjection, Network Scanning, WebApp Analysis or DNS enumeration.. Sifter should be able to cover it all. | https://github.com/s1l3nt78/sifter | 275 | 85| 
+| 20201102T00:26:28Z | Just a temporary website to post my ctf writeups and journey into binary/android exploitation/malware analysis/exploit development | https://github.com/blackbeard666/pwn_exhibit | 1 | 1| 
+| 20201102T00:02:20Z | An R package of data from the Kootenay Lake Exploitation Study | https://github.com/poissonconsulting/klexdatr | 0 | 1| 
+| 20201101T23:49:33Z | Null | https://github.com/neuralfilter/exploit_training | 0 | 0| 
+| 20201101T22:48:45Z | A collection of write-ups for binary exploitation and reverse engineering challenges. | https://github.com/ZacharyTraul/Pwn-Rev | 0 | 0| 
+| 20201101T21:56:37Z | post_exploitation | https://github.com/dar3k93/post_exploitation | 1 | 0| 
+| 20201101T21:51:17Z | Thi powershell script has got to run in remote windows host, even for pivoting | https://github.com/FabioDefilippo/winallenum | 0 | 0| 
+| 20201101T21:36:51Z | Null | https://github.com/quentin452/Cats-Exploitz-HUB | 0 | 1| 
+| 20201101T21:02:01Z | Sample scripts to simulate attacks part of the Stealthwatch dCloud lab | https://github.com/sw-dcloud-lab/lab-exploit-kit | 0 | 0| 
 
 
 # backdoor on Github 推荐
