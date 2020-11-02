@@ -22,12 +22,12 @@
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
 | 20201101T21:49:24Z | CVE-2020-27976 | osCommerce Phoenix CE <=1.0.5.4 Authenticated RCE | https://github.com/k0rnh0li0/CVE-2020-27976 | 1.0.5.4之前的osCommerce Phoenix CE允许远程进行OS命令注入。在admin / mail.php中，可以将from POST参数传递给应用程序。这会影响PHP邮件功能以及sendmail -f选项。| 
-| 20201101T20:30:57Z | CVE-2020-0069 | Automated Root Script for MediaTek armv8 devices using MediaTek-SU/mtk-su (CVE-2020-0069). | https://github.com/R0rt1z2/AutomatedRoot | 在Mediatek Command Queue驱动程序的ioctl处理程序中，由于输入清理不足和缺少SELinux限制，可能会超出范围。这可以导致特权的本地升级，而无需其他执行特权。不需要用户交互即可进行开发。产品：Android版本：Android内核Android ID：A-147882143参考：M-ALPS04356754| 
+| 20201101T20:30:57Z | CVE-2020-0069 | Automated Root Script for MediaTek armv8 devices using MediaTek-SU/mtk-su (CVE-2020-0069). | https://github.com/R0rt1z2/AutomatedRoot | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 55 MINUTES 16 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20201101T20:13:07Z | CVE-2020-14882 | CVE-2020–14882、CVE-2020–14883 | https://github.com/jas502n/CVE-2020-14882 | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
 | 20201101T20:10:17Z | CVE-2020-15999 | CVE-2020-15999 | https://github.com/marcinguy/CVE-2020-15999 | 未查询到CVE信息| 
 | 20201101T17:25:49Z | CVE-2020-13277 | CVE-2020-13277 靶场： Gitlab 越权访问漏洞 | https://github.com/lyy289065406/CVE-2020-13277 | 镜像逻辑中的授权问题允许对GitLab CE / EE 10.6及更高版本至13.0.5中的私有存储库的读取访问| 
 | 20201101T13:56:50Z | CVE-2020-14882 | (CVE-2020-14882) Oracle Weblogic Unauthorized bypass RCE test script | https://github.com/ludy-dev/Weblogic_Unauthorized-bypass-RCE | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
-| 20201101T07:25:56Z | CVE-2020-8241 | Pulse Secure VPN mitm Research - CVE-2020-8241, CVE-2020-8239 | https://github.com/withdk/pulse-secure-vpn-mitm-research | 如果说服最终用户连接到恶意服务器，则Pulse Secure Desktop Client &lt;9.1R9中的漏洞可能允许攻击者执行MITM攻击。| 
+| 20201101T07:25:56Z | CVE-2020-8241 | Pulse Secure VPN mitm Research - CVE-2020-8241, CVE-2020-8239 | https://github.com/withdk/pulse-secure-vpn-mitm-research | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 55 MINUTES 17 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20201101T01:43:30Z | CVE-2020-14882 | CVE-2020-14882 Weblogic-Exp | https://github.com/RedTeamWing/CVE-2020-14882 | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
 
 
