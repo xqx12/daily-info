@@ -106,7 +106,7 @@
 | 20201103T01:54:39Z | Null | https://github.com/jburz/fuzzy-octo-winner | 0 | 0| 
 | 20201103T01:35:42Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 27760 | 13713| 
 | 20201103T01:25:22Z | The DDRFuzz (Data-DRiven Fuzz) is a fuzzing system designed based on a sequence-to-sequence model to generate valuable seed files. | https://github.com/kppw99/ddrfuzz | 0 | 0| 
-| 20201103T01:16:06Z | Dictionary collection project such as Pentesing, Fuzzing, Bruteforce and BugBounty. 渗透测试、SRC漏洞挖掘、爆破、Fuzzing等字典收集项目。 | https://github.com/insightglacier/Dictionary-Of-Pentesting | 314 | 81| 
+| 20201103T01:16:06Z | Dictionary collection project such as Pentesing, Fuzzing, Bruteforce and BugBounty. 渗透测试、SRC漏洞挖掘、爆破、Fuzzing等字典收集项目。 | https://github.com/insightglacier/Dictionary-Of-Pentesting | 314 | 82| 
 | 20201103T01:12:34Z | Null | https://github.com/aleale617/fuzzy-set | 0 | 0| 
 | 20201103T01:01:08Z | Null | https://github.com/EyderAranda/fuzzy-spork | 0 | 0| 
 | 20201103T00:15:47Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2187 | 104| 
