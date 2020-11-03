@@ -34,16 +34,16 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20201103T01:04:57Z | CVE-2020-13935 | Exploit for WebSocket Vulnerability in Apache Tomcat | https://github.com/RedTeamPentesting/CVE-2020-13935 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 53 MINUTES 34 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20201103T00:27:50Z | CVE-2020-14882 | CVE-2020–14882、CVE-2020–14883 | https://github.com/jas502n/CVE-2020-14882 | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
-| 20201102T23:46:00Z | CVE-2020-15999 | CVE-2020-15999 | https://github.com/marcinguy/CVE-2020-15999 | | 
-| 20201102T16:47:28Z | CVE-2020-1983 | Null | https://github.com/wuzuowei/CVE-2020-1983 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 53 MINUTES 36 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201103T01:04:57Z | CVE-2020-13935 | Exploit for WebSocket Vulnerability in Apache Tomcat | https://github.com/RedTeamPentesting/CVE-2020-13935 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 51 MINUTES 40 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201103T00:27:50Z | CVE-2020-14882 | CVE-2020–14882、CVE-2020–14883 | https://github.com/jas502n/CVE-2020-14882 | | 
+| 20201102T23:46:00Z | CVE-2020-15999 | CVE-2020-15999 | https://github.com/marcinguy/CVE-2020-15999 | 未查询到CVE信息| 
+| 20201102T16:47:28Z | CVE-2020-1983 | Null | https://github.com/wuzuowei/CVE-2020-1983 | | 
 | 20201102T11:49:17Z | CVE-2020-14882 | CVE-2020–14882 by Jang | https://github.com/s1kr10s/CVE-2020-14882 | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
 | 20201102T11:06:35Z | CVE-2020-14882 | (CVE-2020-14882) Oracle Weblogic Unauthorized bypass RCE test script | https://github.com/ludy-dev/Weblogic_Unauthorized-bypass-RCE | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
 | 20201102T11:05:44Z | CVE-2020-14882 | CVE-2020-14882批量验证工具。 | https://github.com/GGyao/CVE-2020-14882 | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
 | 20201102T05:10:04Z | cve-2020-27358 | CVE-2020-27358 and CVE-2020-27359 | https://github.com/seb1055/cve-2020-27358-27359 | 未查询到CVE信息| 
-| 20201102T01:58:47Z | CVE-2020-27976 | osCommerce Phoenix CE <=1.0.5.4 Authenticated RCE | https://github.com/k0rnh0li0/CVE-2020-27976 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 53 MINUTES 29 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20201102T01:17:25Z | CVE-2020-13277 | CVE-2020-13277 靶场： Gitlab 越权访问漏洞 | https://github.com/lyy289065406/CVE-2020-13277 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 53 MINUTES 32 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201102T01:58:47Z | CVE-2020-27976 | osCommerce Phoenix CE <=1.0.5.4 Authenticated RCE | https://github.com/k0rnh0li0/CVE-2020-27976 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 51 MINUTES 35 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201102T01:17:25Z | CVE-2020-13277 | CVE-2020-13277 靶场： Gitlab 越权访问漏洞 | https://github.com/lyy289065406/CVE-2020-13277 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 51 MINUTES 37 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 
 
 # klee on Github 推荐
@@ -69,10 +69,10 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20201103T01:07:08Z | A repository for learning various heap exploitation techniques. | https://github.com/shellphish/how2heap | 4074 | 853| 
 | 20201103T00:53:31Z | Collection of CVEs in the wild captured by an automated exploits hunter  | https://github.com/qeeqbox/falcon | 0 | 0| 
 | 20201103T00:48:51Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 6 | 4| 
 | 20201103T00:34:03Z | Vulnerabilities% Risk of Exploitation | https://github.com/thiagofigcosta/V-REx | 0 | 0| 
-| 20201103T00:22:05Z | A repository for learning various heap exploitation techniques. | https://github.com/shellphish/how2heap | 4073 | 853| 
 | 20201102T23:49:20Z | Writeups, scripts and solutions for CTFs, Hack the Box, Vulnhub, exploit challenges, pwnables, crackmes, etc. Anything goes. | https://github.com/alichtman/writeups | 4 | 1| 
 | 20201102T23:20:09Z | ASLR Evasion, Egghunters, SEH Overwrites | https://github.com/freddiebarrsmith/Advanced-Windows-Exploit-Development-Practice | 9 | 1| 
 | 20201102T23:17:58Z | windows and linux streams for post exploitation | https://github.com/kymb0/post_exploitation | 1 | 0| 
