@@ -50,7 +50,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20201103T12:58:23Z | A really simple script for boolean-blind SQLi exploitation of vulnerable GET parameters | https://github.com/chesire-cat/blindsqli | 0 | 0| 
+| 20201103T13:01:46Z | A really simple script for boolean-blind SQLi exploitation of vulnerable GET parameters | https://github.com/chesire-cat/blindsqli | 0 | 0| 
 | 20201103T12:49:31Z | Null | https://github.com/quentin452/Cats-Exploitz-HUB | 0 | 1| 
 | 20201103T12:48:52Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 6 | 4| 
 | 20201103T12:37:06Z | This bash script will help you to hack remote hosts  | https://github.com/FabioDefilippo/linuxallremote | 1 | 0| 
