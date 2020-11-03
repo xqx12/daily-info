@@ -34,16 +34,16 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20201103T01:04:57Z | CVE-2020-13935 | Exploit for WebSocket Vulnerability in Apache Tomcat | https://github.com/RedTeamPentesting/CVE-2020-13935 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 48 MINUTES 39 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201103T01:04:57Z | CVE-2020-13935 | Exploit for WebSocket Vulnerability in Apache Tomcat | https://github.com/RedTeamPentesting/CVE-2020-13935 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 47 MINUTES 33 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20201103T00:27:50Z | CVE-2020-14882 | CVE-2020–14882、CVE-2020–14883 | https://github.com/jas502n/CVE-2020-14882 | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
 | 20201102T23:46:00Z | CVE-2020-15999 | CVE-2020-15999 | https://github.com/marcinguy/CVE-2020-15999 | 未查询到CVE信息| 
-| 20201102T16:47:28Z | CVE-2020-1983 | Null | https://github.com/wuzuowei/CVE-2020-1983 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 48 MINUTES 40 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201102T16:47:28Z | CVE-2020-1983 | Null | https://github.com/wuzuowei/CVE-2020-1983 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 47 MINUTES 35 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20201102T11:49:17Z | CVE-2020-14882 | CVE-2020–14882 by Jang | https://github.com/s1kr10s/CVE-2020-14882 | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
 | 20201102T11:06:35Z | CVE-2020-14882 | (CVE-2020-14882) Oracle Weblogic Unauthorized bypass RCE test script | https://github.com/ludy-dev/Weblogic_Unauthorized-bypass-RCE | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
 | 20201102T11:05:44Z | CVE-2020-14882 | CVE-2020-14882批量验证工具。 | https://github.com/GGyao/CVE-2020-14882 | | 
 | 20201102T05:10:04Z | cve-2020-27358 | CVE-2020-27358 and CVE-2020-27359 | https://github.com/seb1055/cve-2020-27358-27359 | 未查询到CVE信息| 
-| 20201102T01:58:47Z | CVE-2020-27976 | osCommerce Phoenix CE <=1.0.5.4 Authenticated RCE | https://github.com/k0rnh0li0/CVE-2020-27976 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 48 MINUTES 34 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20201102T01:17:25Z | CVE-2020-13277 | CVE-2020-13277 靶场： Gitlab 越权访问漏洞 | https://github.com/lyy289065406/CVE-2020-13277 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 48 MINUTES 36 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201102T01:58:47Z | CVE-2020-27976 | osCommerce Phoenix CE <=1.0.5.4 Authenticated RCE | https://github.com/k0rnh0li0/CVE-2020-27976 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 47 MINUTES 29 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201102T01:17:25Z | CVE-2020-13277 | CVE-2020-13277 靶场： Gitlab 越权访问漏洞 | https://github.com/lyy289065406/CVE-2020-13277 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 47 MINUTES 31 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 
 
 # klee on Github 推荐
@@ -69,6 +69,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20201103T01:11:46Z | Protekt Protocol puts crypto to work insuring users against hacks, bugs, and exploits of any DeFi protocol or smart contract. The goal is to support and catalyze the growth of the DeFi ecosystem by protecting users from getting rekt. | https://github.com/corbinpage/protekt-protocol-docs | 5 | 0| 
 | 20201103T01:07:08Z | A repository for learning various heap exploitation techniques. | https://github.com/shellphish/how2heap | 4074 | 853| 
 | 20201103T00:53:31Z | Collection of CVEs in the wild captured by an automated exploits hunter  | https://github.com/qeeqbox/falcon | 0 | 0| 
 | 20201103T00:48:51Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 6 | 4| 
@@ -78,12 +79,12 @@
 | 20201102T23:17:58Z | windows and linux streams for post exploitation | https://github.com/kymb0/post_exploitation | 1 | 0| 
 | 20201102T23:13:34Z | Internal penetration test on GoodCorp%s CEO, Hans Gruber. The objective is to exploit any vulnerable software and find company files on the CEO%s computer. | https://github.com/paulsbarrett/Penetration_Test_Engagement | 0 | 0| 
 | 20201102T22:19:55Z | application d%analyse de la trésorerie des exploitations agricoles tunisiennes | https://github.com/agrarian-systems-consulting/endagri-front | 0 | 0| 
-| 20201102T22:14:38Z | This bash script will help you to hack remote hosts  | https://github.com/FabioDefilippo/linuxallremote | 1 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20201103T01:13:13Z | Tool to find potential backdoor/security holes in your endpoint | https://github.com/subasgit/backdoorfinder | 1 | 0| 
 | 20201102T20:10:25Z | All backdoor shells that the 22XploiterCrew team have created. | https://github.com/22XploiterCrew-Team/Shell-Backdoor | 3 | 1| 
 | 20201102T20:05:30Z | Null | https://github.com/ajimenezrosa/Backdoors_Python- | 0 | 0| 
 | 20201102T19:56:33Z | A deck-building roguelike cyberpunk game. | https://github.com/uspgamedev/backdoor | 18 | 3| 
@@ -93,13 +94,12 @@
 | 20201102T12:07:38Z | Distillation for mitigating backdoor attack (Implementation for AISEC 2020 paper) | https://github.com/k-yossy90229/Distillation-for-mitigating-backdoor-attack | 0 | 0| 
 | 20201102T11:32:19Z | Can use it to | https://github.com/Ahmed-Samir13/Server-Backdoor | 0 | 0| 
 | 20201102T10:22:57Z | Linux Backdoor application in C. | https://github.com/kboranbayev/backdoor | 0 | 0| 
-| 20201102T10:14:33Z | Null | https://github.com/mohan589/backdoor_writeups | 0 | 0| 
 
 
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20201103T01:11:55Z | Null | https://github.com/aleale617/fuzzy-set | 0 | 0| 
+| 20201103T01:12:34Z | Null | https://github.com/aleale617/fuzzy-set | 0 | 0| 
 | 20201103T01:01:08Z | Null | https://github.com/EyderAranda/fuzzy-spork | 0 | 0| 
 | 20201103T00:50:54Z | Null | https://github.com/jburz/fuzzy-octo-winner | 0 | 0| 
 | 20201103T00:42:27Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 27759 | 13712| 
