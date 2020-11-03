@@ -77,9 +77,9 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20201103T13:42:48Z | Null | https://github.com/zahraaawright/fuzzy-sniffle | 0 | 0| 
 | 20201103T13:36:27Z | Null | https://github.com/cheloow/TesisFuzzyLogic | 0 | 0| 
 | 20201103T13:36:04Z | Null | https://github.com/s9varesc/url-fuzzing-docker | 0 | 0| 
-| 20201103T13:33:35Z | Null | https://github.com/zahraaawright/fuzzy-sniffle | 0 | 0| 
 | 20201103T13:28:39Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 27765 | 13721| 
 | 20201103T13:28:36Z | Null | https://github.com/imbawenzi/Fuzzing_Paper_Note | 0 | 0| 
 | 20201103T12:49:26Z | This project consists of a simulation of a search-and-rescue environment for discrete path-planning of agents using a Fuzzy Inference System (FIS)-based controller and a Model Predictive Control (MPC)-based controller to optimise FIS parameters. | https://github.com/craigmax-dev/Integrated-Model-Predictive-Fuzzy-Control-for-Disaster-Victim-Detection-Path-Planning-in-MATLAB | 2 | 1| 
