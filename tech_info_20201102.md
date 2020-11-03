@@ -30,7 +30,7 @@
 | 20201102T16:47:28Z | CVE-2020-1983 | Null | https://github.com/wuzuowei/CVE-2020-1983 | 在libslirp 4.2.0和更低版本的ip_input.c中的ip_reass（）中使用释放后漏洞，可使精心制作的数据包导致拒绝服务。| 
 | 20201102T16:45:13Z | CVE-2020-13935 | Exploit for WebSocket Vulnerability in Apache Tomcat | https://github.com/RedTeamPentesting/CVE-2020-13935 | WebSocket框架中的有效载荷长度未在Apache Tomcat 10.0.0-M1至10.0.0-M6、9.0.M1至9.0.36、8.5.0至8.5.56和7.0.27至7.0中正确验证。 104。无效的有效载荷长度可能会触发无限循环。有效载荷长度无效的多个请求可能导致拒绝服务。| 
 | 20201102T11:49:17Z | CVE-2020-14882 | CVE-2020–14882 by Jang | https://github.com/s1kr10s/CVE-2020-14882 | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
-| 20201102T11:06:35Z | CVE-2020-14882 | (CVE-2020-14882) Oracle Weblogic Unauthorized bypass RCE test script | https://github.com/ludy-dev/Weblogic_Unauthorized-bypass-RCE | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
+| 20201102T11:06:35Z | CVE-2020-14882 | (CVE-2020-14882) Oracle Weblogic Unauthorized bypass RCE test script | https://github.com/ludy-dev/Weblogic_Unauthorized-bypass-RCE | | 
 | 20201102T11:05:44Z | CVE-2020-14882 | CVE-2020-14882批量验证工具。 | https://github.com/GGyao/CVE-2020-14882 | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
 | 20201102T05:10:04Z | cve-2020-27358 | CVE-2020-27358 and CVE-2020-27359 | https://github.com/seb1055/cve-2020-27358-27359 | 未查询到CVE信息| 
 | 20201102T01:58:47Z | CVE-2020-27976 | osCommerce Phoenix CE <=1.0.5.4 Authenticated RCE | https://github.com/k0rnh0li0/CVE-2020-27976 | 1.0.5.4之前的osCommerce Phoenix CE允许远程进行OS命令注入。在admin / mail.php中，可以将from POST参数传递给应用程序。这会影响PHP邮件功能以及sendmail -f选项。| 
