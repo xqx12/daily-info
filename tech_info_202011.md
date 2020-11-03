@@ -6,6 +6,15 @@
 # 玄武实验室 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20201103 | Bitdefender 对 Windows WMI 设施被恶意软件滥用情况的分析 | https://www.bitdefender.com/files/News/CaseStudies/study/377/Bitdefender-Whitepaper-WMI-creat4871-en-EN-GenericUse.pdf| 
+| 20201103 | Bug hunting for a quick buck using WebLogic vulnerability (CVE-2020–14882) | https://www.imperva.com/blog/bug-hunting-for-a-quick-buck-using-weblogic-vulnerability-cve-2020-14882/?utm_source=twitter&utm_medium=organic-social| 
+| 20201103 | Windows Store Games 提权漏洞分析（CVE-2020-16877） | https://labs.ioactive.com/2020/11/cve-2020-16877-exploiting-microsoft.html| 
+| 20201103 | UAC bypasses from COMAutoApprovalList | https://swapcontext.blogspot.com/2020/11/uac-bypasses-from-comautoapprovallist.html| 
+| 20201103 | 基于 Qiling 框架实现的 UEFI NVRAM 变量 Fuzzer | https://github.com/Sentinel-One/efi_fuzz| 
+| 20201103 | 利用 IDA Pro 调试 XNU 内核的官方教程 | https://www.hex-rays.com/wp-content/static/tutorials/xnu_debugger_primer/xnu_debugger_primer.pdf| 
+| 20201103 | Windows 内核 cng.sys 驱动 IOCTLs 处理过程溢出漏洞分析 | https://bugs.chromium.org/p/project-zero/issues/detail?id=2104| 
+| 20201103 | Crash Reproduction Series: Microsoft Edge Legacy | https://blog.zecops.com/vulnerabilities/crash-reproduction-series-microsoft-edge-legacy/| 
+| 20201103 | FireEye 对 UNC1945 组织攻击活动的分析 | https://www.fireeye.com/blog/threat-research/2020/11/live-off-the-land-an-overview-of-unc1945.html| 
 | 20201102 | Fuzzing for eBPF JIT bugs in the Linux kernel | https://scannell.me/fuzzing-for-ebpf-jit-bugs-in-the-linux-kernel/| 
 | 20201102 | Abbadon 远控工具使用 Discord 作为 C&C | http://github.com/MalPhobic/MalwareReports/blob/main/AbbadonRAT/Abbadon_RAT.pdf| 
 | 20201102 | Comprehensive Experimental Analyses of Automotive Attack Surfaces | https://www.usenix.org/legacy/events/sec11/tech/full_papers/Checkoway.pdf| 
@@ -17,12 +26,13 @@
 | 20201101 | 红队PowerShell脚本收集数据工具。 | https://github.com/tobor88/PowerShell-Red-Team| 
 | 20201101 | 肚脑虫组织（ APT-C-35）疑似针对巴基斯坦军事人员的最新攻击活动 | http://blogs.360.cn/post/APT-C-35_target_at_armed_forces_in_Pakistan.html| 
 | 20201101 | 构造一个 CodeDB 来探索全新的白盒静态扫描方案 | https://paper.seebug.org/1387/| 
-| 20201101 | 利用第三方应用的各类代码注入技术偷 Keychains | https://wojciechregula.blog/post/stealing-macos-apps-keychain-entries/| 
 
 
 # 安全维基 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20201103 | 2020年某地区HVV信息搜集小结 | https://mp.weixin.qq.com/s/r-Ixx0fbVmFGizU0a2-s0Q| 
+| 20201103 | 支付风险识别亚军方案 | https://mp.weixin.qq.com/s/5NNTeLvqWl0_SQaPl-Cvug| 
 | 20201102 | SecWiki周刊（第348期) | https://www.sec-wiki.com/weekly/348| 
 | 20201102 | 站库分离常规渗透思路总结 | https://mp.weixin.qq.com/s/nLSCP6xOyYnsdULO7h9cgA| 
 | 20201101 | 认识 WebAuthn | http://rui0.cn/archives/1543| 
@@ -34,25 +44,25 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20201103T02:34:24Z | CVE-2020-13935 | Exploit for WebSocket Vulnerability in Apache Tomcat | https://github.com/RedTeamPentesting/CVE-2020-13935 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 00 MINUTES 33 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20201103T02:18:06Z | CVE-2020-14882 | CVE-2020–14882、CVE-2020–14883 | https://github.com/jas502n/CVE-2020-14882 | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
-| 20201102T23:46:00Z | CVE-2020-15999 | CVE-2020-15999 | https://github.com/marcinguy/CVE-2020-15999 | 未查询到CVE信息| 
-| 20201102T16:47:28Z | CVE-2020-1983 | Null | https://github.com/wuzuowei/CVE-2020-1983 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 00 MINUTES 35 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201103T12:55:28Z | CVE-2020-14882 | CVE-2020-14882_ALL综合利用工具，支持命令回显检测、批量命令回显、外置xml无回显命令执行等功能。 | https://github.com/GGyao/CVE-2020-14882_ALL | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
+| 20201103T12:40:59Z | CVE-2020-13935 | Exploit for WebSocket Vulnerability in Apache Tomcat | https://github.com/RedTeamPentesting/CVE-2020-13935 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 58 MINUTES 40 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201103T12:11:30Z | CVE-2020-15999 | CVE-2020-15999 | https://github.com/marcinguy/CVE-2020-15999 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 58 MINUTES 31 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201103T11:42:04Z | CVE-2020-14882 | CVE-2020-14882 detection script | https://github.com/ovProphet/CVE-2020-14882-checker | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
+| 20201103T10:34:23Z | CVE-2020-14882 | CVE-2020–14882、CVE-2020–14883 | https://github.com/jas502n/CVE-2020-14882 | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
+| 20201103T09:50:16Z | CVE-2020-14882 | CVE-2020-14882批量验证工具。 | https://github.com/GGyao/CVE-2020-14882_POC | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
+| 20201102T16:47:28Z | CVE-2020-1983 | Null | https://github.com/wuzuowei/CVE-2020-1983 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 58 MINUTES 41 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20201102T11:49:17Z | CVE-2020-14882 | CVE-2020–14882 by Jang | https://github.com/s1kr10s/CVE-2020-14882 | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
 | 20201102T11:06:35Z | CVE-2020-14882 | (CVE-2020-14882) Oracle Weblogic Unauthorized bypass RCE test script | https://github.com/ludy-dev/Weblogic_Unauthorized-bypass-RCE | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
 | 20201102T11:05:44Z | CVE-2020-14882 | CVE-2020-14882批量验证工具。 | https://github.com/GGyao/CVE-2020-14882 | | 
-| 20201102T05:10:04Z | cve-2020-27358 | CVE-2020-27358 and CVE-2020-27359 | https://github.com/seb1055/cve-2020-27358-27359 | 未查询到CVE信息| 
-| 20201102T01:58:47Z | CVE-2020-27976 | osCommerce Phoenix CE <=1.0.5.4 Authenticated RCE | https://github.com/k0rnh0li0/CVE-2020-27976 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 00 MINUTES 28 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20201102T01:17:25Z | CVE-2020-13277 | CVE-2020-13277 靶场： Gitlab 越权访问漏洞 | https://github.com/lyy289065406/CVE-2020-13277 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 00 MINUTES 31 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20201103T02:53:54Z | Create CFGs and compute complexity metrics for Python, C++, and Java code. | https://github.com/hmc-alpaqa/metrinome | 4 | 0| 
+| 20201103T10:02:51Z | Null | https://github.com/OleDakotaJoe/peachy-kleen | 0 | 0| 
+| 20201103T09:19:46Z | Create CFGs and compute complexity metrics for Python, C++, and Java code. | https://github.com/hmc-alpaqa/metrinome | 5 | 0| 
 | 20201102T22:28:39Z | RVT is a collection of tools/libraries to support both static and dynamic verification of Rust programs. | https://github.com/project-oak/rust-verification-tools | 93 | 5| 
 | 20201102T20:52:53Z | Website for the KLEE project: https://klee.github.io/ | https://github.com/klee/klee.github.io | 13 | 43| 
-| 20201102T09:41:34Z | Null | https://github.com/OleDakotaJoe/peachy-kleen | 0 | 0| 
 | 20201102T02:55:25Z | Whole Program LLVM: wllvm ported to go | https://github.com/SRI-CSL/gllvm | 110 | 17| 
 | 20201102T02:52:42Z | Lazy python wrapper of KLEE for solving CTF challenges | https://github.com/L4ys/LazyKLEE | 44 | 7| 
 | 20201101T20:07:03Z | Null | https://github.com/faham1997/KleeBot | 0 | 0| 
@@ -70,46 +80,46 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20201103T02:39:07Z | Collection of CVEs in the wild captured by an automated exploits hunter  | https://github.com/qeeqbox/falcon | 0 | 0| 
-| 20201103T02:17:16Z | macos/ios exploit writeup | https://github.com/houjingyi233/macos-ios-exploit-writeup | 6 | 1| 
-| 20201103T02:12:57Z | A repository for learning various heap exploitation techniques. | https://github.com/shellphish/how2heap | 4076 | 853| 
-| 20201103T01:41:29Z | windows and linux streams for post exploitation | https://github.com/kymb0/post_exploitation | 1 | 0| 
-| 20201103T01:27:10Z | A command-line tool for exploiting OSCP-style buffer overflow vulnerabilities. | https://github.com/sradley/overflow | 45 | 5| 
-| 20201103T01:11:46Z | Protekt Protocol puts crypto to work insuring users against hacks, bugs, and exploits of any DeFi protocol or smart contract. The goal is to support and catalyze the growth of the DeFi ecosystem by protecting users from getting rekt. | https://github.com/corbinpage/protekt-protocol-docs | 5 | 0| 
-| 20201103T00:48:51Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 6 | 4| 
-| 20201103T00:34:03Z | Vulnerabilities% Risk of Exploitation | https://github.com/thiagofigcosta/V-REx | 0 | 0| 
-| 20201102T23:49:20Z | Writeups, scripts and solutions for CTFs, Hack the Box, Vulnhub, exploit challenges, pwnables, crackmes, etc. Anything goes. | https://github.com/alichtman/writeups | 4 | 1| 
-| 20201102T23:20:09Z | ASLR Evasion, Egghunters, SEH Overwrites | https://github.com/freddiebarrsmith/Advanced-Windows-Exploit-Development-Practice | 9 | 1| 
+| 20201103T12:58:23Z | A really simple script for boolean-blind SQLi exploitation of vulnerable GET parameters | https://github.com/chesire-cat/blindsqli | 0 | 0| 
+| 20201103T12:49:31Z | Null | https://github.com/quentin452/Cats-Exploitz-HUB | 0 | 1| 
+| 20201103T12:48:52Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 6 | 4| 
+| 20201103T12:37:06Z | This bash script will help you to hack remote hosts  | https://github.com/FabioDefilippo/linuxallremote | 1 | 0| 
+| 20201103T12:22:00Z | Modified and self-made exploits for pen-testing | https://github.com/H4rk3nz0/exploits | 0 | 0| 
+| 20201103T11:34:21Z | Bukkit/BungeeCord plugin that aims on fixing Exploits in your Minecraft network. [Requires HamsterAPI to work] | https://github.com/passddos-github/ExploitFixer | 0 | 0| 
+| 20201103T11:19:23Z | Learning exploit development Linux x64 and arm | https://github.com/aitumik/exploitdev | 0 | 0| 
+| 20201103T11:07:19Z | This investigation paves a way to present a new technique by hybridizing both WOA and BAT algorithms. The BAT algorithm is used for the exploration phase, whereas the WOA algorithm is used for the exploitation phase. Finally, statistical results obtained from WOA-BAT are very competitive and better than WOA in 16 benchmarks functions. WOA-BAT also outperforms well in 13 functions from CEC2005 and 7 functions from CEC2019 | https://github.com/Tarik4Rashid4/woa-bat | 1 | 0| 
+| 20201103T10:48:01Z | Little dynamic app exploiting NASA Insight API | https://github.com/artrn-nt/mars-web-project | 0 | 0| 
+| 20201103T10:38:12Z | These exploits are made by AJAY (ME) | https://github.com/TamilHackz/i-make-exploits | 1 | 1| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20201103T02:58:48Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 86 | 9| 
+| 20201103T12:12:14Z | A repository that holds all 22XploiterCrew %Shell Backdoor% | https://github.com/22XploiterCrew-Team/Shell-Backdoor | 2 | 0| 
+| 20201103T09:46:43Z | Unicorn Framework is a Linux post-exploitation framework that exploits Linux TCP vulnerability to get interactive shell connection with a lot of features such as downloading files, uploading files, getting system information and etc. | https://github.com/EntySec/unicorn | 6 | 2| 
+| 20201103T08:57:18Z | All backdoor shells that the 22XploiterCrew team have created. | https://github.com/lychhayly/Shell-Backdoor | 0 | 0| 
+| 20201103T06:34:24Z | Null | https://github.com/zeta07054113/k2backdoor | 0 | 0| 
+| 20201103T05:17:33Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 87 | 9| 
 | 20201103T01:13:13Z | Tool to find potential backdoor/security holes in your endpoint | https://github.com/subasgit/backdoorfinder | 1 | 0| 
-| 20201102T20:10:25Z | All backdoor shells that the 22XploiterCrew team have created. | https://github.com/22XploiterCrew-Team/Shell-Backdoor | 3 | 1| 
 | 20201102T20:05:30Z | Null | https://github.com/ajimenezrosa/Backdoors_Python- | 0 | 0| 
 | 20201102T19:56:33Z | A deck-building roguelike cyberpunk game. | https://github.com/uspgamedev/backdoor | 18 | 3| 
-| 20201102T19:50:37Z | Unicorn Framework is a Linux post-exploitation framework that exploits Linux TCP vulnerability to get interactive shell connection with a lot of features such as downloading files, uploading files, getting system information and etc. | https://github.com/EntySec/unicorn | 6 | 2| 
 | 20201102T12:35:36Z | Null | https://github.com/mbaguszulmi/001_backdoor | 0 | 0| 
 | 20201102T12:07:38Z | Distillation for mitigating backdoor attack (Implementation for AISEC 2020 paper) | https://github.com/k-yossy90229/Distillation-for-mitigating-backdoor-attack | 0 | 0| 
-| 20201102T11:32:19Z | Can use it to | https://github.com/Ahmed-Samir13/Server-Backdoor | 0 | 0| 
-| 20201102T10:22:57Z | Linux Backdoor application in C. | https://github.com/kboranbayev/backdoor | 0 | 0| 
 
 
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20201103T02:56:00Z | K-Means and Fuzzy C-Means clustering on the Iris dataset and Sonar dataset | https://github.com/YSQ-1018/K-Means__Fuzzy-C-Means | 0 | 0| 
-| 20201103T02:32:24Z | Senior Capstone Project for Kennesaw State University | https://github.com/MarcussucraM/FuzzyChess | 0 | 0| 
-| 20201103T02:29:52Z | Library for structured fuzzing with protobuffers | https://github.com/google/libprotobuf-mutator | 292 | 68| 
-| 20201103T01:54:39Z | Null | https://github.com/jburz/fuzzy-octo-winner | 0 | 0| 
-| 20201103T01:35:42Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 27760 | 13713| 
-| 20201103T01:25:22Z | The DDRFuzz (Data-DRiven Fuzz) is a fuzzing system designed based on a sequence-to-sequence model to generate valuable seed files. | https://github.com/kppw99/ddrfuzz | 0 | 0| 
-| 20201103T01:16:06Z | Dictionary collection project such as Pentesing, Fuzzing, Bruteforce and BugBounty. 渗透测试、SRC漏洞挖掘、爆破、Fuzzing等字典收集项目。 | https://github.com/insightglacier/Dictionary-Of-Pentesting | 314 | 82| 
-| 20201103T01:12:34Z | Null | https://github.com/aleale617/fuzzy-set | 0 | 0| 
-| 20201103T01:01:08Z | Null | https://github.com/EyderAranda/fuzzy-spork | 0 | 0| 
-| 20201103T00:15:47Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2187 | 104| 
+| 20201103T12:49:26Z | This project consists of a simulation of a search-and-rescue environment for discrete path-planning of agents using a Fuzzy Inference System (FIS)-based controller and a Model Predictive Control (MPC)-based controller to optimise FIS parameters. | https://github.com/craigmax-dev/Integrated-Model-Predictive-Fuzzy-Control-for-Disaster-Victim-Detection-Path-Planning-in-MATLAB | 2 | 1| 
+| 20201103T12:31:40Z | Null | https://github.com/cheloow/TesisFuzzyLogic | 0 | 0| 
+| 20201103T12:30:44Z | OSS-Fuzz - continuous fuzzing of open source software. | https://github.com/google/oss-fuzz | 5623 | 1111| 
+| 20201103T12:26:35Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 27764 | 13721| 
+| 20201103T12:26:05Z | Research project on Software Technology for WebAssembly WASM (on superoptimization, diversification, fuzzing) | https://github.com/KTH/slumps | 19 | 4| 
+| 20201103T12:24:18Z | Null | https://github.com/s9varesc/url-fuzzing | 0 | 0| 
+| 20201103T12:20:12Z | Null | https://github.com/0xFuzz/0xFuzz.github.io | 0 | 0| 
+| 20201103T12:05:06Z | Null | https://github.com/jandfranc/fuzzy-octo-journey | 0 | 0| 
+| 20201103T11:50:18Z | SSL and TLS protocol test suite and fuzzer | https://github.com/tomato42/tlsfuzzer | 326 | 81| 
+| 20201103T11:27:44Z | A JavaScript library that creates regular expressions for fuzzy searching Pashto text | https://github.com/lingdocs/fuzzify-pashto | 0 | 0| 
 
 
 
