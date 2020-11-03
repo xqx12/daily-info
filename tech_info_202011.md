@@ -99,6 +99,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20201103T01:11:55Z | Null | https://github.com/aleale617/fuzzy-set | 0 | 0| 
 | 20201103T01:01:08Z | Null | https://github.com/EyderAranda/fuzzy-spork | 0 | 0| 
 | 20201103T00:50:54Z | Null | https://github.com/jburz/fuzzy-octo-winner | 0 | 0| 
 | 20201103T00:42:27Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 27759 | 13712| 
@@ -108,7 +109,6 @@
 | 20201102T23:50:53Z | Scalable fuzzing infrastructure. | https://github.com/google/clusterfuzz | 4356 | 395| 
 | 20201102T23:30:15Z | The DDRFuzz (Data-DRiven Fuzz) is a fuzzing system designed based on a sequence-to-sequence model to generate valuable seed files. | https://github.com/kppw99/ddrfuzz | 0 | 0| 
 | 20201102T23:14:11Z | FuzzBALL: Vine-based Binary Symbolic Execution | https://github.com/bitblaze-fuzzball/fuzzball | 199 | 52| 
-| 20201102T23:08:33Z | Playing around with emulation and snapshot fuzzing. | https://github.com/SiD3W4y/snapsnap | 1 | 0| 
 
 
 
