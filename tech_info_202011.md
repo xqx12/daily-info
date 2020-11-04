@@ -47,10 +47,10 @@
 | --- | --- | --- | --- | ---| 
 | 20201104T01:20:39Z | CVE-2020-14882 | CVE-2020-14882_ALL综合利用工具，支持命令回显检测、批量命令回显、外置xml无回显命令执行等功能。 | https://github.com/GGyao/CVE-2020-14882_ALL | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
 | 20201104T00:54:03Z | CVE-2020-13935 | Exploit for WebSocket Vulnerability in Apache Tomcat | https://github.com/RedTeamPentesting/CVE-2020-13935 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 28 MINUTES 35 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20201104T00:00:10Z | CVE-2020-15999 | CVE-2020-15999 | https://github.com/marcinguy/CVE-2020-15999 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 29 MINUTES 26 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20201103T22:18:05Z | 未知编号 | Elevation Of Privileges Proof of Concept for Windows (win7-win10) | https://github.com/TinToSer/CVE2020-17087 | | 
+| 20201104T00:00:10Z | CVE-2020-15999 | CVE-2020-15999 | https://github.com/marcinguy/CVE-2020-15999 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 28 MINUTES 27 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201103T22:18:05Z | 未知编号 | Elevation Of Privileges Proof of Concept for Windows (win7-win10) | https://github.com/TinToSer/CVE2020-17087 | 未查询到CVE信息| 
 | 20201103T19:16:56Z | CVE-2020-14882 | CVE-2020–14882、CVE-2020–14883 | https://github.com/jas502n/CVE-2020-14882 | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
-| 20201103T17:08:47Z | CVE-2020-1350 | NSE scripts to detect CVE-2020-1350 SIGRED and CVE-2020-0796 SMBGHOST | https://github.com/psc4re/NSE-scripts | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 29 MINUTES 21 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201103T17:08:47Z | CVE-2020-1350 | NSE scripts to detect CVE-2020-1350 SIGRED and CVE-2020-0796 SMBGHOST | https://github.com/psc4re/NSE-scripts | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 28 MINUTES 23 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20201103T11:42:04Z | CVE-2020-14882 | CVE-2020-14882 detection script | https://github.com/ovProphet/CVE-2020-14882-checker | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
 | 20201103T09:50:16Z | CVE-2020-14882 | CVE-2020-14882批量验证工具。 | https://github.com/GGyao/CVE-2020-14882_POC | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
 | 20201102T16:47:28Z | CVE-2020-1983 | Null | https://github.com/wuzuowei/CVE-2020-1983 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 28 MINUTES 36 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
@@ -112,6 +112,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20201104T01:31:29Z | OSS-Fuzz - continuous fuzzing of open source software. | https://github.com/google/oss-fuzz | 5624 | 1112| 
 | 20201104T01:04:24Z | Tugas 02 AI ,, Fuzzy System | https://github.com/IlhamTheCamp/FuzzySystem | 0 | 0| 
 | 20201104T01:00:29Z | School project | https://github.com/DavidLindtner/FuzzyController-simulink | 0 | 0| 
 | 20201104T00:47:14Z | Senior Capstone Project for Kennesaw State University | https://github.com/MarcussucraM/FuzzyChess | 0 | 0| 
@@ -121,7 +122,6 @@
 | 20201103T23:33:52Z | Mongoose Fuzzy Searching Plugin | https://github.com/VassilisPallas/mongoose-fuzzy-searching | 74 | 20| 
 | 20201103T23:17:13Z | ForAllSecure API Fuzzer demonstration using swagger-petstore | https://github.com/ForAllSecure/api-fuzzer-swagger-petstore-demo | 0 | 0| 
 | 20201103T22:33:04Z | A plugin based fuzzer | https://github.com/elast0ny/CROWDFUZZ | 2 | 0| 
-| 20201103T22:24:00Z | Personal website of Laurence Hughes | https://github.com/fuzzylogicxx/fuzzylogic | 4 | 1| 
 
 
 
