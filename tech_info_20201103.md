@@ -29,7 +29,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20201103T22:18:05Z | 未知编号 | Elevation Of Privileges Proof of Concept for Windows (win7-win10) | https://github.com/TinToSer/CVE2020-17087 | | 
+| 20201103T22:18:05Z | 未知编号 | Elevation Of Privileges Proof of Concept for Windows (win7-win10) | https://github.com/TinToSer/CVE2020-17087 | 未查询到CVE信息| 
 | 20201103T19:16:56Z | CVE-2020-14882 | CVE-2020–14882、CVE-2020–14883 | https://github.com/jas502n/CVE-2020-14882 | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
 | 20201103T17:08:47Z | CVE-2020-1350 | NSE scripts to detect CVE-2020-1350 SIGRED and CVE-2020-0796 SMBGHOST | https://github.com/psc4re/NSE-scripts | 当Windows域名系统服务器无法正确处理请求（也称为“ Windows DNS服务器远程代码执行漏洞”）时，存在一个远程执行代码漏洞。| 
 | 20201103T11:42:04Z | CVE-2020-14882 | CVE-2020-14882 detection script | https://github.com/ovProphet/CVE-2020-14882-checker | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
@@ -53,16 +53,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20201103T13:53:26Z | blog repository (nonetype.kr) | https://github.com/nonetype/nonetype.github.io | 0 | 0| 
-| 20201103T13:53:04Z | Null | https://github.com/quentin452/Cats-Exploitz-HUB | 0 | 1| 
-| 20201103T13:52:17Z | Development of code to exploit LSST and VISTA imaging | https://github.com/lsst-uk/lsst-ir-fusion | 0 | 0| 
-| 20201103T13:49:22Z | Après tout vos efforts vous allez enfin pouvoir vous amuser ! Ce projet est donc une base pour vous faire comprendre comment vous devez procéder pour pénétrer un systéme sur lequel vous avez les droits légalement parlant. Je vous invite fortement à utiliser toutes les méthodes disponibles pour casser cet iso vraiment. La correction sera limité mais votre capacité à pouvoir exploiter votre iso sera grandement récompensée pour vous surtout au delà de votre note. | https://github.com/Sigabort42/Boot2root | 0 | 0| 
-| 20201103T13:48:48Z | My first try to develop USE with a real programming language | https://github.com/SoftwareRat/USE-CSharp-Edition | 2 | 1| 
-| 20201103T13:47:53Z | Null | https://github.com/tchtkpr/Roblox-Exploit-Scripts | 0 | 0| 
-| 20201103T13:44:48Z | Null | https://github.com/JunaidJagirani/exploits | 0 | 0| 
-| 20201103T13:01:46Z | A really simple script for boolean-blind SQLi exploitation of vulnerable GET parameters | https://github.com/chesire-cat/blindsqli | 0 | 0| 
-| 20201103T12:48:52Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 6 | 4| 
-| 20201103T12:37:06Z | This bash script will help you to hack remote hosts  | https://github.com/FabioDefilippo/linuxallremote | 1 | 0| 
+| 20201103T23:39:37Z | This exploit doesn%t really outage a guild, but it does cause problems on discord%s servers :^) (Just for fun, run this and eventually your target server should go down anyways) | https://github.com/Yaekith/ServerOutageExploitV10 | 2 | 0| 
+| 20201103T23:39:15Z | This is basically just v7 and v4 but on a voice channel. (How doesnt discord ratelimit that .-.) | https://github.com/Yaekith/ServerOutageExploitV9 | 5 | 0| 
+| 20201103T23:38:21Z | Another method found to crash a server, still works but isn%t that efficient so I have released it. | https://github.com/Yaekith/ServerOutageExploitV8 | 2 | 0| 
+| 20201103T23:37:48Z | This is once again, another fixed method that used to be able to crash a discord server. | https://github.com/Yaekith/ServerOutageExploitV7 | 0 | 0| 
+| 20201103T23:37:38Z | This is an old method that was fixed a while ago but still worked against crashing a discord server. | https://github.com/Yaekith/ServerOutageExploitV6 | 0 | 0| 
+| 20201103T23:36:22Z | What a beautiful day outside, the birds are singing, the flowers are blooming.. what a perfect day for crashing | https://github.com/Yaekith/ServerOutageExploitV5 | 5 | 0| 
+| 20201103T23:35:47Z | LMAO, we%re back again, another exploit found to down a server. This is going to be fixed within 24 hours so take this and abuse it, kthnx. I%ll just find another method when it does. Requires manage channel permissions to operate. | https://github.com/Yaekith/ServerOutageExploitV4 | 5 | 1| 
+| 20201103T23:35:29Z | Hi, we%re back again. I%m releasing this new method because literally, we all know it%s going to be fixed within 24 hours. So have fun. | https://github.com/Yaekith/ServerOutageExploitV3 | 5 | 4| 
+| 20201103T23:35:20Z | A new server outage exploit that was found yesterday and then fixed today as discord added a ratelimit. | https://github.com/Yaekith/ServerOutageExploitV2 | 4 | 0| 
+| 20201103T23:35:04Z | A discord server outage exploit, found by iLinked, that we abused until it got fixed this morning. | https://github.com/Yaekith/ServerOutageExploitV1 | 0 | 0| 
 
 
 # backdoor on Github 推荐

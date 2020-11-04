@@ -48,7 +48,7 @@
 | 20201104T00:54:03Z | CVE-2020-13935 | Exploit for WebSocket Vulnerability in Apache Tomcat | https://github.com/RedTeamPentesting/CVE-2020-13935 | WebSocket框架中的有效载荷长度未在Apache Tomcat 10.0.0-M1至10.0.0-M6、9.0.M1至9.0.36、8.5.0至8.5.56和7.0.27至7.0中正确验证。 104。无效的有效载荷长度可能会触发无限循环。有效载荷长度无效的多个请求可能导致拒绝服务。| 
 | 20201104T00:45:59Z | CVE-2020-14882 | CVE-2020-14882_ALL综合利用工具，支持命令回显检测、批量命令回显、外置xml无回显命令执行等功能。 | https://github.com/GGyao/CVE-2020-14882_ALL | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
 | 20201104T00:00:10Z | CVE-2020-15999 | CVE-2020-15999 | https://github.com/marcinguy/CVE-2020-15999 | | 
-| 20201103T22:18:05Z | 未知编号 | Elevation Of Privileges Proof of Concept for Windows (win7-win10) | https://github.com/TinToSer/CVE2020-17087 | | 
+| 20201103T22:18:05Z | 未知编号 | Elevation Of Privileges Proof of Concept for Windows (win7-win10) | https://github.com/TinToSer/CVE2020-17087 | 未查询到CVE信息| 
 | 20201103T19:16:56Z | CVE-2020-14882 | CVE-2020–14882、CVE-2020–14883 | https://github.com/jas502n/CVE-2020-14882 | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
 | 20201103T17:08:47Z | CVE-2020-1350 | NSE scripts to detect CVE-2020-1350 SIGRED and CVE-2020-0796 SMBGHOST | https://github.com/psc4re/NSE-scripts | 当Windows域名系统服务器无法正确处理请求（也称为“ Windows DNS服务器远程代码执行漏洞”）时，存在一个远程执行代码漏洞。| 
 | 20201103T11:42:04Z | CVE-2020-14882 | CVE-2020-14882 detection script | https://github.com/ovProphet/CVE-2020-14882-checker | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
@@ -82,16 +82,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20201103T13:53:26Z | blog repository (nonetype.kr) | https://github.com/nonetype/nonetype.github.io | 0 | 0| 
-| 20201103T13:53:04Z | Null | https://github.com/quentin452/Cats-Exploitz-HUB | 0 | 1| 
-| 20201103T13:52:17Z | Development of code to exploit LSST and VISTA imaging | https://github.com/lsst-uk/lsst-ir-fusion | 0 | 0| 
-| 20201103T13:49:22Z | Après tout vos efforts vous allez enfin pouvoir vous amuser ! Ce projet est donc une base pour vous faire comprendre comment vous devez procéder pour pénétrer un systéme sur lequel vous avez les droits légalement parlant. Je vous invite fortement à utiliser toutes les méthodes disponibles pour casser cet iso vraiment. La correction sera limité mais votre capacité à pouvoir exploiter votre iso sera grandement récompensée pour vous surtout au delà de votre note. | https://github.com/Sigabort42/Boot2root | 0 | 0| 
-| 20201103T13:48:48Z | My first try to develop USE with a real programming language | https://github.com/SoftwareRat/USE-CSharp-Edition | 2 | 1| 
-| 20201103T13:47:53Z | Null | https://github.com/tchtkpr/Roblox-Exploit-Scripts | 0 | 0| 
-| 20201103T13:44:48Z | Null | https://github.com/JunaidJagirani/exploits | 0 | 0| 
-| 20201103T13:01:46Z | A really simple script for boolean-blind SQLi exploitation of vulnerable GET parameters | https://github.com/chesire-cat/blindsqli | 0 | 0| 
-| 20201103T12:48:52Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 6 | 4| 
-| 20201103T12:37:06Z | This bash script will help you to hack remote hosts  | https://github.com/FabioDefilippo/linuxallremote | 1 | 0| 
+| 20201104T01:01:44Z | Vulnerabilities% Risk of Exploitation | https://github.com/thiagofigcosta/V-REx | 0 | 0| 
+| 20201104T01:01:09Z | Exploits project Hacking Command Center | https://github.com/chacka0101/exploits | 0 | 1| 
+| 20201104T00:59:56Z | Algunos exploits y scripts podras encontrar en este repositorio. | https://github.com/MrCorrupted/Roblox | 0 | 0| 
+| 20201104T00:48:51Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 6 | 4| 
+| 20201104T00:46:42Z | Roblox Exploit Named %REKID% | https://github.com/ExoticN01/Rekid | 0 | 0| 
+| 20201104T00:21:52Z | This repository contains the source of %ARM Binary Exploitaiton% book. | https://github.com/cpuu/arm_exploitation | 1 | 0| 
+| 20201104T00:16:09Z | Exploits captured by an automated hunter  | https://github.com/qeeqbox/falcon | 0 | 0| 
+| 20201103T23:39:37Z | This exploit doesn%t really outage a guild, but it does cause problems on discord%s servers :^) (Just for fun, run this and eventually your target server should go down anyways) | https://github.com/Yaekith/ServerOutageExploitV10 | 2 | 0| 
+| 20201103T23:39:15Z | This is basically just v7 and v4 but on a voice channel. (How doesnt discord ratelimit that .-.) | https://github.com/Yaekith/ServerOutageExploitV9 | 5 | 0| 
+| 20201103T23:38:21Z | Another method found to crash a server, still works but isn%t that efficient so I have released it. | https://github.com/Yaekith/ServerOutageExploitV8 | 2 | 0| 
 
 
 # backdoor on Github 推荐
