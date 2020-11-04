@@ -47,14 +47,14 @@
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
 | 20201104T12:41:42Z | 未知编号 | Elevation Of Privileges Proof of Concept for Windows (win7-win10) | https://github.com/TinToSer/CVE2020-17087 | 未查询到CVE信息| 
-| 20201104T12:03:37Z | CVE-2020-27194 | Null | https://github.com/willinin/CVE-2020-27194-exp | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 58 MINUTES 13 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20201104T11:58:10Z | CVE-2020-13935 | Exploit for WebSocket Vulnerability in Apache Tomcat | https://github.com/RedTeamPentesting/CVE-2020-13935 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 58 MINUTES 08 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201104T12:03:37Z | CVE-2020-27194 | Null | https://github.com/willinin/CVE-2020-27194-exp | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 55 MINUTES 20 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201104T11:58:10Z | CVE-2020-13935 | Exploit for WebSocket Vulnerability in Apache Tomcat | https://github.com/RedTeamPentesting/CVE-2020-13935 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 56 MINUTES 12 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20201104T11:09:39Z | CVE-2020-14882 | CVE-2020–14882、CVE-2020–14883 | https://github.com/jas502n/CVE-2020-14882 | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
-| 20201104T10:41:06Z | CVE-2020-13277 | CVE-2020-13277 靶场： Gitlab 越权访问漏洞 | https://github.com/lyy289065406/CVE-2020-13277 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 58 MINUTES 06 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20201104T10:32:36Z | CVE-2020-15999 | CVE-2020-15999 | https://github.com/marcinguy/CVE-2020-15999 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 58 MINUTES 02 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201104T10:41:06Z | CVE-2020-13277 | CVE-2020-13277 靶场： Gitlab 越权访问漏洞 | https://github.com/lyy289065406/CVE-2020-13277 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 56 MINUTES 10 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201104T10:32:36Z | CVE-2020-15999 | CVE-2020-15999 | https://github.com/marcinguy/CVE-2020-15999 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 56 MINUTES 08 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20201104T10:07:24Z | CVE-2020-14882 | CVE-2020-14882/14883/14750 | https://github.com/NS-Sp4ce/CVE-2020-14882 | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
 | 20201104T09:43:17Z | CVE-2020-14882 | CVE-2020-14882_ALL综合利用工具，支持命令回显检测、批量命令回显、外置xml无回显命令执行等功能。 | https://github.com/GGyao/CVE-2020-14882_ALL | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
-| 20201104T09:29:58Z | CVE-2020-1472 | PoC for Zerologon - all research credits go to Tom Tervoort of Secura | https://github.com/dirkjanm/CVE-2020-1472 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 57 MINUTES 59 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201104T09:29:58Z | CVE-2020-1472 | PoC for Zerologon - all research credits go to Tom Tervoort of Secura | https://github.com/dirkjanm/CVE-2020-1472 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 56 MINUTES 05 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20201104T04:23:19Z | 未知编号 | rConfig 3.9 EDB-ID: 48208 CVE: 2020-10220 WEBAPPS | https://github.com/arvind2022/isac_rconfig3.9 | 未查询到CVE信息| 
 
 
@@ -115,16 +115,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20201104T02:40:16Z | Null | https://github.com/jburz/fuzzy-octo-winner | 0 | 0| 
-| 20201104T02:07:11Z | To make fuzzing Rust easy | https://github.com/smoelius/test-fuzz | 0 | 0| 
-| 20201104T02:05:24Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 27777 | 13729| 
-| 20201104T01:59:07Z | Fuzzy matching for Neovim | https://github.com/amirrezaask/fuzzy.nvim | 22 | 1| 
-| 20201104T01:42:57Z | Simple soccer AI simulation using the fuzzy logic algorithm. The app is made with React as frontend, python as backend and ExpressJS as middleware. | https://github.com/OJP98/soccer-fuzzy-logic | 0 | 0| 
-| 20201104T01:31:29Z | OSS-Fuzz - continuous fuzzing of open source software. | https://github.com/google/oss-fuzz | 5624 | 1112| 
-| 20201104T01:04:24Z | Tugas 02 AI ,, Fuzzy System | https://github.com/IlhamTheCamp/FuzzySystem | 0 | 0| 
-| 20201104T01:00:29Z | School project | https://github.com/DavidLindtner/FuzzyController-simulink | 0 | 0| 
-| 20201104T00:47:14Z | Senior Capstone Project for Kennesaw State University | https://github.com/MarcussucraM/FuzzyChess | 0 | 0| 
-| 20201104T00:11:13Z | Fuzzy matching publications for fatcat (wip). | https://github.com/miku/fuzzycat | 0 | 0| 
+| 20201104T13:01:38Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 27785 | 13736| 
+| 20201104T12:59:10Z | The Book %Generating Software Tests% | https://github.com/uds-se/fuzzingbook | 431 | 87| 
+| 20201104T12:57:06Z | Configurations written for Fuzzinator | https://github.com/renatahodovan/fuzzinator-configs | 8 | 3| 
+| 20201104T12:41:57Z | Null | https://github.com/rosin-project/ros_fuzz | 0 | 0| 
+| 20201104T12:40:26Z | Null | https://github.com/rosin-project/ros2_fuzz | 0 | 0| 
+| 20201104T12:26:08Z | Null | https://github.com/s9varesc/url-fuzzing-docker | 0 | 0| 
+| 20201104T12:22:43Z | Dictionary collection project such as Pentesing, Fuzzing, Bruteforce and BugBounty. 渗透测试、SRC漏洞挖掘、爆破、Fuzzing等字典收集项目。 | https://github.com/insightglacier/Dictionary-Of-Pentesting | 314 | 83| 
+| 20201104T12:12:09Z | Write unit and fuzz tests for Elm code. | https://github.com/elm-explorations/test | 185 | 27| 
+| 20201104T12:10:24Z | Null | https://github.com/s9varesc/url-fuzzing | 0 | 0| 
+| 20201104T11:37:04Z | Null | https://github.com/leukocyt-byte/fuzzy-spoon | 0 | 0| 
 
 
 
