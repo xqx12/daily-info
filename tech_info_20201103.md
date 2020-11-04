@@ -15,6 +15,7 @@
 | 20201103 | Windows 内核 cng.sys 驱动 IOCTLs 处理过程溢出漏洞分析 | https://bugs.chromium.org/p/project-zero/issues/detail?id=2104| 
 | 20201103 | Crash Reproduction Series: Microsoft Edge Legacy | https://blog.zecops.com/vulnerabilities/crash-reproduction-series-microsoft-edge-legacy/| 
 | 20201103 | FireEye 对 UNC1945 组织攻击活动的分析 | https://www.fireeye.com/blog/threat-research/2020/11/live-off-the-land-an-overview-of-unc1945.html| 
+| 20201103 | NeurIPS-2020 论文解读：基于跨模态检索的二进制代码-源代码匹配算法。 | https://paper.seebug.org/1389/| 
 
 
 # 安全维基 推荐
@@ -22,16 +23,16 @@
 | --- | --- | ---| 
 | 20201103 | 2020年某地区HVV信息搜集小结 | https://mp.weixin.qq.com/s/r-Ixx0fbVmFGizU0a2-s0Q| 
 | 20201103 | 支付风险识别亚军方案 | https://mp.weixin.qq.com/s/5NNTeLvqWl0_SQaPl-Cvug| 
+| 20201103 | An Overview investigation of UNC1945 | https://www.fireeye.com/blog/threat-research/2020/11/live-off-the-land-an-overview-of-unc1945.html| 
 
 
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20201103T13:51:18Z | CVE-2020-13935 | Exploit for WebSocket Vulnerability in Apache Tomcat | https://github.com/RedTeamPentesting/CVE-2020-13935 | | 
-| 20201103T13:36:47Z | CVE-2020-14882 | CVE-2020-14882_ALL综合利用工具，支持命令回显检测、批量命令回显、外置xml无回显命令执行等功能。 | https://github.com/GGyao/CVE-2020-14882_ALL | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
-| 20201103T12:11:30Z | CVE-2020-15999 | CVE-2020-15999 | https://github.com/marcinguy/CVE-2020-15999 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 00 MINUTES 27 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201103T22:18:05Z | 未知编号 | Elevation Of Privileges Proof of Concept for Windows (win7-win10) | https://github.com/TinToSer/CVE2020-17087 | | 
+| 20201103T19:16:56Z | CVE-2020-14882 | CVE-2020–14882、CVE-2020–14883 | https://github.com/jas502n/CVE-2020-14882 | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
+| 20201103T17:08:47Z | CVE-2020-1350 | NSE scripts to detect CVE-2020-1350 SIGRED and CVE-2020-0796 SMBGHOST | https://github.com/psc4re/NSE-scripts | 当Windows域名系统服务器无法正确处理请求（也称为“ Windows DNS服务器远程代码执行漏洞”）时，存在一个远程执行代码漏洞。| 
 | 20201103T11:42:04Z | CVE-2020-14882 | CVE-2020-14882 detection script | https://github.com/ovProphet/CVE-2020-14882-checker | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
-| 20201103T10:34:23Z | CVE-2020-14882 | CVE-2020–14882、CVE-2020–14883 | https://github.com/jas502n/CVE-2020-14882 | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
 | 20201103T09:50:16Z | CVE-2020-14882 | CVE-2020-14882批量验证工具。 | https://github.com/GGyao/CVE-2020-14882_POC | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
 
 
@@ -46,7 +47,7 @@
 # s2e on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20201103T13:57:36Z | Your S2E project management tools. Visit https://s2e.systems/docs to get started. | https://github.com/S2E/s2e-env | 67 | 30| 
+| 20201103T13:57:36Z | Your S2E project management tools. Visit https://s2e.systems/docs to get started. | https://github.com/S2E/s2e-env | 67 | 29| 
 
 
 # exploit on Github 推荐
@@ -67,27 +68,31 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20201103T20:32:58Z | Smart contract that accepts ether investments from victims and promises to return a 20%+ initial investment bonus after a day. Add a backdoor that successfully allows you to drain the contract | https://github.com/MukuruH/Investor_Contract | 0 | 0| 
+| 20201103T19:11:20Z | Multi-client Cross-platform Python Backdoor/Reverse Shell/RAT with AES Encryption | https://github.com/Y4hL/PyDoor | 24 | 11| 
+| 20201103T18:48:53Z | Null | https://github.com/RechterBlox/Spigot-Backdoor | 0 | 0| 
+| 20201103T15:19:17Z | A pure-Rust library for VMware host-guest protocol (%VMXh backdoor%) | https://github.com/lucab/vmw_backdoor-rs | 2 | 0| 
+| 20201103T14:01:03Z | Null | https://github.com/marychev-akvelon/xamarin-demoapp-backdoor | 0 | 0| 
 | 20201103T12:12:14Z | A repository that holds all 22XploiterCrew %Shell Backdoor% | https://github.com/22XploiterCrew-Team/Shell-Backdoor | 2 | 0| 
-| 20201103T09:46:43Z | Unicorn Framework is a Linux post-exploitation framework that exploits Linux TCP vulnerability to get interactive shell connection with a lot of features such as downloading files, uploading files, getting system information and etc. | https://github.com/EntySec/unicorn | 6 | 2| 
+| 20201103T09:46:43Z | Unicorn Framework is a Linux post-exploitation framework that exploits Linux TCP vulnerability to get interactive shell connection with a lot of features such as downloading files, uploading files, getting system information and etc. | https://github.com/EntySec/unicorn | 6 | 3| 
 | 20201103T08:57:18Z | All backdoor shells that the 22XploiterCrew team have created. | https://github.com/lychhayly/Shell-Backdoor | 0 | 0| 
 | 20201103T06:34:24Z | Null | https://github.com/zeta07054113/k2backdoor | 0 | 0| 
 | 20201103T05:17:33Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 87 | 9| 
-| 20201103T01:13:13Z | Tool to find potential backdoor/security holes in your endpoint | https://github.com/subasgit/backdoorfinder | 1 | 0| 
 
 
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20201103T13:42:48Z | Null | https://github.com/zahraaawright/fuzzy-sniffle | 0 | 0| 
-| 20201103T13:36:27Z | Null | https://github.com/cheloow/TesisFuzzyLogic | 0 | 0| 
-| 20201103T13:36:04Z | Null | https://github.com/s9varesc/url-fuzzing-docker | 0 | 0| 
-| 20201103T13:28:39Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 27765 | 13721| 
-| 20201103T13:28:36Z | Null | https://github.com/imbawenzi/Fuzzing_Paper_Note | 0 | 0| 
-| 20201103T12:49:26Z | This project consists of a simulation of a search-and-rescue environment for discrete path-planning of agents using a Fuzzy Inference System (FIS)-based controller and a Model Predictive Control (MPC)-based controller to optimise FIS parameters. | https://github.com/craigmax-dev/Integrated-Model-Predictive-Fuzzy-Control-for-Disaster-Victim-Detection-Path-Planning-in-MATLAB | 2 | 1| 
-| 20201103T12:30:44Z | OSS-Fuzz - continuous fuzzing of open source software. | https://github.com/google/oss-fuzz | 5623 | 1111| 
-| 20201103T12:26:05Z | Research project on Software Technology for WebAssembly WASM (on superoptimization, diversification, fuzzing) | https://github.com/KTH/slumps | 19 | 4| 
-| 20201103T12:24:18Z | Null | https://github.com/s9varesc/url-fuzzing | 0 | 0| 
-| 20201103T12:20:12Z | Null | https://github.com/0xFuzz/0xFuzz.github.io | 0 | 0| 
+| 20201103T23:49:06Z | Null | https://github.com/EzOverride/EzFuzz | 0 | 0| 
+| 20201103T23:33:52Z | Mongoose Fuzzy Searching Plugin | https://github.com/VassilisPallas/mongoose-fuzzy-searching | 74 | 20| 
+| 20201103T23:17:13Z | ForAllSecure API Fuzzer demonstration using swagger-petstore | https://github.com/ForAllSecure/api-fuzzer-swagger-petstore-demo | 0 | 0| 
+| 20201103T22:33:04Z | A plugin based fuzzer | https://github.com/elast0ny/CROWDFUZZ | 2 | 0| 
+| 20201103T22:24:00Z | Personal website of Laurence Hughes | https://github.com/fuzzylogicxx/fuzzylogic | 4 | 1| 
+| 20201103T22:18:49Z | Using different tools to fuzz audit deamon | https://github.com/punnal/Audit-Fuzzing | 1 | 1| 
+| 20201103T22:08:31Z | SSL and TLS protocol test suite and fuzzer | https://github.com/tomato42/tlsfuzzer | 327 | 81| 
+| 20201103T21:51:45Z | Repository which hold experiments pertaining to fuzzy commitment schemes.  | https://github.com/jweezy24/Fuzzy_Cryptography | 0 | 0| 
+| 20201103T21:44:40Z | A Shell Script for bruteforcing android mobile phone pin through ADB | https://github.com/levelivsecurity/Droid-PinFuzzer | 1 | 0| 
+| 20201103T21:38:54Z | Null | https://github.com/jburz/fuzzy-octo-winner | 0 | 0| 
 
 
 
