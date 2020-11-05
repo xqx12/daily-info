@@ -24,16 +24,16 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20201105T12:19:06Z | CVE-2020-14882 | CVE-2020–14882、CVE-2020–14883 | https://github.com/jas502n/CVE-2020-14882 | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
+| 20201105T13:36:56Z | CVE-2020-1472 | PoC for Zerologon - all research credits go to Tom Tervoort of Secura | https://github.com/dirkjanm/CVE-2020-1472 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  09 HOURS 59 MINUTES 58 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201105T13:36:19Z | CVE-2020-13935 | Exploit for WebSocket Vulnerability in Apache Tomcat | https://github.com/RedTeamPentesting/CVE-2020-13935 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 00 MINUTES 04 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201105T13:14:59Z | cve-2020-14882 | Null | https://github.com/mmioimm/cve-2020-14882 | 未查询到CVE信息| 
+| 20201105T13:06:19Z | CVE-2020-14882 | CVE-2020–14882、CVE-2020–14883 | https://github.com/jas502n/CVE-2020-14882 | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
 | 20201105T11:12:29Z | CVE-2020-27955 | Null | https://github.com/ExploitBox/git-lfs-RCE-exploit-CVE-2020-27955-Go | 未查询到CVE信息| 
 | 20201105T10:43:23Z | CVE-2020-24771 | Null | https://github.com/qlh831/CVE-2020-24771 | 未查询到CVE信息| 
-| 20201105T09:55:46Z | CVE-2020-1472 | PoC for Zerologon - all research credits go to Tom Tervoort of Secura | https://github.com/dirkjanm/CVE-2020-1472 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 55 MINUTES 08 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20201105T09:44:20Z | CVE-2020-14882 | CVE-2020-14882_ALL综合利用工具，支持命令回显检测、批量命令回显、外置xml无回显命令执行等功能。 | https://github.com/GGyao/CVE-2020-14882_ALL | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
 | 20201105T09:23:38Z | 未知编号 | Elevation Of Privileges Proof of Concept for Windows (win7-win10) | https://github.com/TinToSer/CVE2020-17087 | 未查询到CVE信息| 
-| 20201105T09:20:58Z | CVE-2020-13935 | Exploit for WebSocket Vulnerability in Apache Tomcat | https://github.com/RedTeamPentesting/CVE-2020-13935 | | 
 | 20201105T09:20:50Z | CVE-2020-14882 | CVE-2020-14882/14883/14750 | https://github.com/NS-Sp4ce/CVE-2020-14882 | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
-| 20201105T04:44:05Z | CVE-2020-13277 | CVE-2020-13277 靶场： Gitlab 越权访问漏洞 | https://github.com/lyy289065406/CVE-2020-13277 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 55 MINUTES 12 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20201105T03:18:11Z | CVE-2020-27955 | Git-lfs RCE exploit CVE-2020-27955 - tested on Windows on: git, gh cli, GitHub Desktop, Visual Studio, SourceTree etc. | https://github.com/ExploitBox/git-lfs-RCE-exploit-CVE-2020-27955 | 未查询到CVE信息| 
+| 20201105T04:44:05Z | CVE-2020-13277 | CVE-2020-13277 靶场： Gitlab 越权访问漏洞 | https://github.com/lyy289065406/CVE-2020-13277 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 00 MINUTES 03 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 
 
 # klee on Github 推荐
@@ -51,21 +51,23 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20201105T13:46:55Z | Academic papers related to fuzzing, binary analysis, and exploit dev, which I want to read or have already read | https://github.com/0xricksanchez/paper_collection | 559 | 57| 
+| 20201105T13:21:02Z | Null | https://github.com/quentin452/Cats-Exploitz-HUB | 0 | 1| 
 | 20201105T13:00:45Z | blog repository (nonetype.kr) | https://github.com/nonetype/nonetype.github.io | 0 | 0| 
 | 20201105T12:43:57Z | Perform greedy feature selection using either Shannon entropy or Rényi min-entropy, exploiting the power of C++ Python bindings. | https://github.com/marcoromanelli-github/GreedyFeatureSelection | 0 | 0| 
 | 20201105T12:21:39Z | This bash script will help you to hack remote hosts  | https://github.com/FabioDefilippo/linuxallremote | 1 | 0| 
 | 20201105T12:12:28Z | A repo stores some exploits for the questions online | https://github.com/LemonPrefect/Exps | 0 | 0| 
 | 20201105T11:42:48Z | (TH)Exploit-Base อันนี้เป็นExploitสำหรับการทำตัวรันScript ROBLOXแบบง่ายๆ โดยใช้ภาษา C# เป็นหลัก | https://github.com/D3X9-11/Exploit-Base | 0 | 0| 
 | 20201105T10:14:59Z | Internal penetration test on GoodCorp%s CEO, Hans Gruber. The objective is to exploit any vulnerable software and find company files on the CEO%s computer. | https://github.com/paulsbarrett/Penetration_Test_Engagement | 0 | 0| 
-| 20201105T09:59:53Z | Null | https://github.com/quentin452/Cats-Exploitz-HUB | 0 | 1| 
 | 20201105T09:52:17Z | xcube is a Python package for generating and exploiting data cubes powered by xarray, dask, and zarr. | https://github.com/dcs4cop/xcube | 65 | 11| 
 | 20201105T09:44:11Z | This repository will feature my scripts, research and documentation on Pokémon engines, glitches and exploits. | https://github.com/RETIREglitch/Pokemon-Research | 0 | 3| 
-| 20201105T09:21:50Z | Academic papers related to fuzzing, binary analysis, and exploit dev, which I want to read or have already read | https://github.com/0xricksanchez/paper_collection | 558 | 57| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20201105T13:55:46Z | Backdoor manager tool | https://github.com/Buccioz/Intruder | 0 | 0| 
+| 20201105T13:40:32Z | Code for %Biometric Backdoors: A Poisoning Attack Against Unsupervised Template Updating% | https://github.com/ssloxford/biometric-backdoors | 4 | 0| 
 | 20201105T12:39:10Z | Null | https://github.com/penetrators-sec/RANSBOT | 0 | 0| 
 | 20201105T10:36:00Z | Acrostic generation | https://github.com/HLori/NLP_Backdoor | 0 | 0| 
 | 20201105T09:14:52Z | Null | https://github.com/zulcharis/Mini-Backdoor | 0 | 0| 
@@ -77,16 +79,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20201105T13:46:55Z | Academic papers related to fuzzing, binary analysis, and exploit dev, which I want to read or have already read | https://github.com/0xricksanchez/paper_collection | 559 | 57| 
+| 20201105T13:45:50Z | Null | https://github.com/s9varesc/url-fuzzing | 0 | 0| 
+| 20201105T13:19:33Z | Null | https://github.com/s9varesc/url-fuzzing-docker | 0 | 0| 
 | 20201105T13:02:04Z | approximate string matching. | https://github.com/amirouche/fuzzbuzz | 1 | 1| 
 | 20201105T12:56:05Z | Null | https://github.com/FDU-Program-Analysis/chunk-fuzzer-pass | 0 | 0| 
 | 20201105T12:43:36Z | Null | https://github.com/fuzzbench-yyy/fuzzbench | 0 | 0| 
 | 20201105T12:14:12Z | SSL and TLS protocol test suite and fuzzer | https://github.com/tomato42/tlsfuzzer | 328 | 81| 
 | 20201105T12:06:43Z | The library provides functions for fuzzy string matching, fuzzy round-off for floats and a fuzzy function of dividing a integer into a integer distribution according to given percentage.  | https://github.com/shubhankar-mohan/fuzzy_logic | 0 | 0| 
 | 20201105T12:05:54Z | Brute forces websites using pure bruteforce | https://github.com/GustavEikaas/PureBruteForceWebFuzzing | 0 | 0| 
-| 20201105T12:03:46Z | Null | https://github.com/s9varesc/url-fuzzing-docker | 0 | 0| 
 | 20201105T12:00:33Z | FormatFuzzer is a framework for high-efficiency, high-quality generation and parsing of binary inputs. | https://github.com/uds-se/FormatFuzzer | 87 | 6| 
-| 20201105T11:49:00Z | Null | https://github.com/s9varesc/url-fuzzing | 0 | 0| 
-| 20201105T11:14:53Z | This project includes many aspect and all of them are done by ROS/Gazebo environment and the programming language used is Python.Starting by launching 3 Ackerman vehicles in one Gazebo environment and providing a path planning of lane changing of the leader car, the leader will move according to this path using Fuzzy Logic Control, and the 2 followers will follow each other using Goal to Goal controller. | https://github.com/GasserElAzab/Platooning-of-3-ackermann-vehiles-controlled-by-Fuzzy-Logic-Control | 0 | 0| 
 
 
 
