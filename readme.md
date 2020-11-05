@@ -36,13 +36,13 @@
 | 20201104T22:22:06Z | CVE-2020-27955 | Git-lfs RCE exploit CVE-2020-27955 - tested on Windows on: git, gh cli, GitHub Desktop, Visual Studio, SourceTree etc. | https://github.com/ExploitBox/git-lfs-RCE-exploit-CVE-2020-27955 | 未查询到CVE信息| 
 | 20201104T21:51:03Z | CVE-2020-27955 | Null | https://github.com/ExploitBox/git-lfs-RCE-exploit-CVE-2020-27955-Go | 未查询到CVE信息| 
 | 20201104T21:20:55Z | CVE-2020-13935 | Exploit for WebSocket Vulnerability in Apache Tomcat | https://github.com/RedTeamPentesting/CVE-2020-13935 | WebSocket框架中的有效载荷长度未在Apache Tomcat 10.0.0-M1至10.0.0-M6、9.0.M1至9.0.36、8.5.0至8.5.56和7.0.27至7.0中正确验证。 104。无效的有效载荷长度可能会触发无限循环。有效载荷长度无效的多个请求可能导致拒绝服务。| 
-| 20201104T18:34:03Z | CVE-2020-14882 | CVE-2020–14882、CVE-2020–14883 | https://github.com/jas502n/CVE-2020-14882 | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
+| 20201104T18:34:03Z | CVE-2020-14882 | CVE-2020–14882、CVE-2020–14883 | https://github.com/jas502n/CVE-2020-14882 | | 
 | 20201104T18:33:50Z | CVE-2020-14882 | CVE-2020-14882/14883/14750 | https://github.com/NS-Sp4ce/CVE-2020-14882 | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
 | 20201104T17:33:17Z | CVE-2020-1350 | NSE scripts to detect CVE-2020-1350 SIGRED and CVE-2020-0796 SMBGHOST | https://github.com/psc4re/NSE-scripts | 当Windows域名系统服务器无法正确处理请求（也称为“ Windows DNS服务器远程代码执行漏洞”）时，存在一个远程执行代码漏洞。| 
 | 20201104T16:31:54Z | CVE-2020-27688 | Null | https://github.com/matthiasmaes/CVE-2020-27688 | 未查询到CVE信息| 
 | 20201104T13:44:58Z | CVE-2020-14882 | CVE-2020-14882_ALL综合利用工具，支持命令回显检测、批量命令回显、外置xml无回显命令执行等功能。 | https://github.com/GGyao/CVE-2020-14882_ALL | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
 | 20201104T13:10:25Z | CVE-2020-27194 | Null | https://github.com/willinin/CVE-2020-27194-exp | 在5.8.15之前的Linux内核中发现了一个问题。 kernel / bpf / verifier.c中的scalar32_min_max_or在使用64位值（即CID-5b9fbeb75b6a）期间错误地处理了边界跟踪。| 
-| 20201104T10:41:06Z | CVE-2020-13277 | CVE-2020-13277 靶场： Gitlab 越权访问漏洞 | https://github.com/lyy289065406/CVE-2020-13277 | | 
+| 20201104T10:41:06Z | CVE-2020-13277 | CVE-2020-13277 靶场： Gitlab 越权访问漏洞 | https://github.com/lyy289065406/CVE-2020-13277 | 镜像逻辑中的授权问题允许对GitLab CE / EE 10.6及更高版本至13.0.5中的私有存储库的读取访问| 
 
 
 # klee on Github 推荐
