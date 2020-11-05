@@ -6,6 +6,14 @@
 # 玄武实验室 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20201105 | Apache Tomcat WebSocket 漏洞 (CVE-2020-13935) Exploit | https://github.com/RedTeamPentesting/CVE-2020-13935| 
+| 20201105 | Apache Tomcat WebSocket CVE-2020-13935 漏洞分析 | https://blog.redteam-pentesting.de/2020/websocket-vulnerability-tomcat/| 
+| 20201105 | 通过分析 /proc/maps 映射信息检测 Android App 的动态加载行为 | https://sayfer.io/blog/dynamic-loading-in-android-applications-with-proc-maps/| 
+| 20201105 | Reading and Writing Firmware on an STM32 using SWD | https://cybergibbons.com/hardware-hacking/reading-and-writing-firmware-on-an-stm32-using-swd/| 
+| 20201105 | Linux Rootkits 系列文章 - 如何为 Linux 编写 Rootkit | https://xcellerator.github.io/posts/linux_rootkits_01/| 
+| 20201105 | 为 Ghidra 二进制分析工具编写脚本，辅助还原 stripped 二进制内的结构体 | https://github.com/grimm-co/GEARSHIFT| 
+| 20201105 | Infection Monkey - 自动化的渗透测试工具 | https://github.com/guardicore/monkey| 
+| 20201105 | FireEye 对 Solaris 野外已被利用溢出漏洞（CVE-2020-14871）的分析 | https://www.fireeye.com/blog/threat-research/2020/11/critical-buffer-overflow-vulnerability-in-solaris-can-allow-remote-takeover.html| 
 | 20201104 | 一个可以借助有物理内存读写权限的驱动实现调用任意内核函数的库。 | https://github.com/mq1n/VDM//| 
 | 20201104 | A Deep Dive Into Windows Scheduled Tasks and The Processes Running Them | https://nasbench.medium.com/a-deep-dive-into-windows-scheduled-tasks-and-the-processes-running-them-218d1eed4cce| 
 | 20201104 | Chrome 浏览器 Freetype 字体处理溢出漏洞 PoC（CVE-2020-15999） | https://github.com/marcinguy/CVE-2020-15999//| 
@@ -18,14 +26,6 @@
 | 20201104 | NeurIPS-2020 论文解读：基于跨模态检索的二进制代码-源代码匹配 | https://sec.today/pulses/c7943672-d155-4c89-8d50-8f53a6feb95b/| 
 | 20201104 | Adobe Acrobat Reader 发布漏洞补丁更新，修复多个高危漏洞 | https://sec.today/pulses/e8fa7faf-3b30-4095-a137-357144b2bf0f/| 
 | 20201104 | NeurIPS-2020 论文解读：基于跨模态检索的二进制代码-源代码匹配 | https://keenlab.tencent.com/zh/2020/11/03/neurips-2020-cameraready/| 
-| 20201104 | Adobe Acrobat Reader 发布漏洞补丁更新，修复多个高危漏洞 | https://threatpost.com/adobe-windows-macos-critical-acrobat-reader-flaws/160903/| 
-| 20201104 | Linux eBPF JIT 权限提升漏洞（CVE-2020-27194）分析与验证。 | https://paper.seebug.org/1391/| 
-| 20201104 | Sharingan是一个基于go语言编写的流量录制回放工具，合项目重构、回归测试等。 | https://github.com/didi/sharingan| 
-| 20201104 | 由Google Progect Zero发布针对Windows操作系统严重EOP漏洞(CVE-2020-17087)验证说明。 | https://github.com/TinToSer/CVE2020-17087| 
-| 20201103 | Bitdefender 对 Windows WMI 设施被恶意软件滥用情况的分析 | https://www.bitdefender.com/files/News/CaseStudies/study/377/Bitdefender-Whitepaper-WMI-creat4871-en-EN-GenericUse.pdf| 
-| 20201103 | Bug hunting for a quick buck using WebLogic vulnerability (CVE-2020–14882) | https://www.imperva.com/blog/bug-hunting-for-a-quick-buck-using-weblogic-vulnerability-cve-2020-14882/?utm_source=twitter&utm_medium=organic-social| 
-| 20201103 | Windows Store Games 提权漏洞分析（CVE-2020-16877） | https://labs.ioactive.com/2020/11/cve-2020-16877-exploiting-microsoft.html| 
-| 20201103 | UAC bypasses from COMAutoApprovalList | https://swapcontext.blogspot.com/2020/11/uac-bypasses-from-comautoapprovallist.html| 
 
 
 # 安全维基 推荐
@@ -46,21 +46,23 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20201105T02:39:14Z | CVE-2020-14882 | CVE-2020-14882_ALL综合利用工具，支持命令回显检测、批量命令回显、外置xml无回显命令执行等功能。 | https://github.com/GGyao/CVE-2020-14882_ALL | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
-| 20201105T02:31:24Z | CVE-2020-27955 | Git-lfs RCE exploit CVE-2020-27955 - tested on Windows on: git, gh cli, GitHub Desktop, Visual Studio, SourceTree etc. | https://github.com/ExploitBox/git-lfs-RCE-exploit-CVE-2020-27955 | 未查询到CVE信息| 
-| 20201105T01:46:20Z | CVE-2020-13935 | Exploit for WebSocket Vulnerability in Apache Tomcat | https://github.com/RedTeamPentesting/CVE-2020-13935 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 00 MINUTES 10 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20201105T01:27:25Z | CVE-2020-15999 | CVE-2020-15999 | https://github.com/marcinguy/CVE-2020-15999 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 00 MINUTES 06 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20201105T00:42:46Z | 未知编号 | Elevation Of Privileges Proof of Concept for Windows (win7-win10) | https://github.com/TinToSer/CVE2020-17087 | 未查询到CVE信息| 
-| 20201104T21:51:03Z | CVE-2020-27955 | Null | https://github.com/ExploitBox/git-lfs-RCE-exploit-CVE-2020-27955-Go | 未查询到CVE信息| 
-| 20201104T18:34:03Z | CVE-2020-14882 | CVE-2020–14882、CVE-2020–14883 | https://github.com/jas502n/CVE-2020-14882 | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
-| 20201104T18:33:50Z | CVE-2020-14882 | CVE-2020-14882/14883/14750 | https://github.com/NS-Sp4ce/CVE-2020-14882 | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
-| 20201104T17:33:17Z | CVE-2020-1350 | NSE scripts to detect CVE-2020-1350 SIGRED and CVE-2020-0796 SMBGHOST | https://github.com/psc4re/NSE-scripts | | 
-| 20201104T16:31:54Z | CVE-2020-27688 | Null | https://github.com/matthiasmaes/CVE-2020-27688 | 未查询到CVE信息| 
+| 20201105T12:19:06Z | CVE-2020-14882 | CVE-2020–14882、CVE-2020–14883 | https://github.com/jas502n/CVE-2020-14882 | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
+| 20201105T11:12:29Z | CVE-2020-27955 | Null | https://github.com/ExploitBox/git-lfs-RCE-exploit-CVE-2020-27955-Go | 未查询到CVE信息| 
+| 20201105T10:43:23Z | CVE-2020-24771 | Null | https://github.com/qlh831/CVE-2020-24771 | 未查询到CVE信息| 
+| 20201105T09:55:46Z | CVE-2020-1472 | PoC for Zerologon - all research credits go to Tom Tervoort of Secura | https://github.com/dirkjanm/CVE-2020-1472 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 58 MINUTES 59 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201105T09:44:20Z | CVE-2020-14882 | CVE-2020-14882_ALL综合利用工具，支持命令回显检测、批量命令回显、外置xml无回显命令执行等功能。 | https://github.com/GGyao/CVE-2020-14882_ALL | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
+| 20201105T09:23:38Z | 未知编号 | Elevation Of Privileges Proof of Concept for Windows (win7-win10) | https://github.com/TinToSer/CVE2020-17087 | 未查询到CVE信息| 
+| 20201105T09:20:58Z | CVE-2020-13935 | Exploit for WebSocket Vulnerability in Apache Tomcat | https://github.com/RedTeamPentesting/CVE-2020-13935 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 58 MINUTES 13 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201105T09:20:50Z | CVE-2020-14882 | CVE-2020-14882/14883/14750 | https://github.com/NS-Sp4ce/CVE-2020-14882 | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
+| 20201105T04:44:05Z | CVE-2020-13277 | CVE-2020-13277 靶场： Gitlab 越权访问漏洞 | https://github.com/lyy289065406/CVE-2020-13277 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 58 MINUTES 11 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201105T03:18:11Z | CVE-2020-27955 | Git-lfs RCE exploit CVE-2020-27955 - tested on Windows on: git, gh cli, GitHub Desktop, Visual Studio, SourceTree etc. | https://github.com/ExploitBox/git-lfs-RCE-exploit-CVE-2020-27955 | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20201105T10:58:54Z | One place for all of my workshops | https://github.com/kleenxcoder/kleenxcoder-workshops | 0 | 0| 
+| 20201105T07:47:52Z | Software Engineering of Prof Lee | https://github.com/blazer502/KLEE_assign | 0 | 0| 
 | 20201104T18:53:04Z | Website for the KLEE project: https://klee.github.io/ | https://github.com/klee/klee.github.io | 13 | 43| 
 | 20201104T15:43:59Z | Null | https://github.com/mitchklee35/MitchKlee.com | 0 | 0| 
 | 20201104T15:14:53Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1537 | 467| 
@@ -69,8 +71,6 @@
 | 20201104T03:03:56Z | Create CFGs and compute complexity metrics for Python, C++, and Java code. | https://github.com/hmc-alpaqa/metrinome | 5 | 0| 
 | 20201103T10:02:51Z | Null | https://github.com/OleDakotaJoe/peachy-kleen | 0 | 0| 
 | 20201102T22:28:39Z | RVT is a collection of tools/libraries to support both static and dynamic verification of Rust programs. | https://github.com/project-oak/rust-verification-tools | 93 | 5| 
-| 20201102T02:55:25Z | Whole Program LLVM: wllvm ported to go | https://github.com/SRI-CSL/gllvm | 110 | 17| 
-| 20201102T02:52:42Z | Lazy python wrapper of KLEE for solving CTF challenges | https://github.com/L4ys/LazyKLEE | 44 | 7| 
 
 
 # s2e on Github 推荐
@@ -85,46 +85,46 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20201105T02:05:37Z | Internal penetration test on GoodCorp%s CEO, Hans Gruber. The objective is to exploit any vulnerable software and find company files on the CEO%s computer. | https://github.com/paulsbarrett/Penetration_Test_Engagement | 0 | 0| 
-| 20201105T01:55:21Z | This repository contains the source of %ARM Binary Exploitaiton% book. | https://github.com/cpuu/arm_exploitation | 1 | 0| 
-| 20201105T01:51:35Z | Exploit the result of a GDPR request to deezer | https://github.com/fayak/deezer-stats | 0 | 0| 
-| 20201105T01:29:41Z | This is a source to a bypass i made for some games, for now this should work f or VAC, BE and EAC. The only downside is that you will need to find a exploit to load the driver | https://github.com/ContionMig/KernelMode-Bypass | 93 | 36| 
-| 20201105T01:27:00Z | Exercises of %The Art Of Exploitation% 2nd Edition by Jon Erickson | https://github.com/nullarmor/the-art-of-exploitation-exercises | 0 | 0| 
-| 20201105T01:12:35Z | Exploit Docker Daemon - Unprotected TCP Socket | https://github.com/0thm4n3/Docker-Exorcise | 0 | 0| 
-| 20201105T00:48:53Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 6 | 4| 
-| 20201105T00:28:54Z | NextJs ready environment, with integrations installed. | https://github.com/apt-exploit/next-exploit-app | 0 | 0| 
-| 20201104T23:35:07Z | !!!WORLD%S 🌍 #1🥇 TOR HACKING SUITE!!! Designed to scan and exploit vulnerabilities within Tor hidden services. Vigilante allows most tools to work as normal while resolving .onion  | https://github.com/MBHudson/Vigilante-Toolset | 12 | 5| 
-| 20201104T23:12:22Z | pwninit - automate starting binary exploit challenges | https://github.com/io12/pwninit | 110 | 7| 
+| 20201105T13:00:45Z | blog repository (nonetype.kr) | https://github.com/nonetype/nonetype.github.io | 0 | 0| 
+| 20201105T12:43:57Z | Perform greedy feature selection using either Shannon entropy or Rényi min-entropy, exploiting the power of C++ Python bindings. | https://github.com/marcoromanelli-github/GreedyFeatureSelection | 0 | 0| 
+| 20201105T12:21:39Z | This bash script will help you to hack remote hosts  | https://github.com/FabioDefilippo/linuxallremote | 1 | 0| 
+| 20201105T12:12:28Z | A repo stores some exploits for the questions online | https://github.com/LemonPrefect/Exps | 0 | 0| 
+| 20201105T11:42:48Z | (TH)Exploit-Base อันนี้เป็นExploitสำหรับการทำตัวรันScript ROBLOXแบบง่ายๆ โดยใช้ภาษา C# เป็นหลัก | https://github.com/D3X9-11/Exploit-Base | 0 | 0| 
+| 20201105T10:14:59Z | Internal penetration test on GoodCorp%s CEO, Hans Gruber. The objective is to exploit any vulnerable software and find company files on the CEO%s computer. | https://github.com/paulsbarrett/Penetration_Test_Engagement | 0 | 0| 
+| 20201105T09:59:53Z | Null | https://github.com/quentin452/Cats-Exploitz-HUB | 0 | 1| 
+| 20201105T09:52:17Z | xcube is a Python package for generating and exploiting data cubes powered by xarray, dask, and zarr. | https://github.com/dcs4cop/xcube | 65 | 11| 
+| 20201105T09:44:11Z | This repository will feature my scripts, research and documentation on Pokémon engines, glitches and exploits. | https://github.com/RETIREglitch/Pokemon-Research | 0 | 3| 
+| 20201105T09:21:50Z | Academic papers related to fuzzing, binary analysis, and exploit dev, which I want to read or have already read | https://github.com/0xricksanchez/paper_collection | 558 | 57| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20201105T12:39:10Z | Null | https://github.com/penetrators-sec/RANSBOT | 0 | 0| 
+| 20201105T10:36:00Z | Acrostic generation | https://github.com/HLori/NLP_Backdoor | 0 | 0| 
+| 20201105T09:14:52Z | Null | https://github.com/zulcharis/Mini-Backdoor | 0 | 0| 
+| 20201105T08:24:22Z | Avyukt is a Exploitation Framework which can be used to generate Malicious Payloads and exploit Windows OS | https://github.com/Vedant-Bhalgama/Avyukt | 22 | 7| 
+| 20201105T05:47:57Z | 👨🏻‍💻 A great tool for Ethical Hackers, a malware programmed with Backdoor and Keylogger. | https://github.com/avinashkranjan/Malware-with-Backdoor-and-Keylogger | 3 | 1| 
 | 20201105T02:03:12Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 89 | 9| 
 | 20201104T23:50:34Z | Tool to find potential backdoor/security holes in your endpoint | https://github.com/subasgit/backdoorfinder | 1 | 0| 
 | 20201104T23:37:53Z | Backdoor server with Spring Boot | https://github.com/apal7/marauders-map-server | 0 | 0| 
 | 20201104T14:57:35Z | Null | https://github.com/gurkangg12/Zeus_Backdoor | 0 | 0| 
 | 20201104T12:29:44Z | A listener and a receiver. Can be used for transferring data remotely or can be use as a backdoor. | https://github.com/aka1412/backdoor | 0 | 0| 
-| 20201103T20:32:58Z | Smart contract that accepts ether investments from victims and promises to return a 20%+ initial investment bonus after a day. Add a backdoor that successfully allows you to drain the contract | https://github.com/MukuruH/Investor_Contract | 0 | 0| 
-| 20201103T19:11:20Z | Multi-client Cross-platform Python Backdoor/Reverse Shell/RAT with AES Encryption | https://github.com/Y4hL/PyDoor | 24 | 11| 
-| 20201103T18:48:53Z | Null | https://github.com/RechterBlox/Spigot-Backdoor | 0 | 0| 
-| 20201103T15:19:17Z | A pure-Rust library for VMware host-guest protocol (%VMXh backdoor%) | https://github.com/lucab/vmw_backdoor-rs | 2 | 0| 
-| 20201103T14:01:03Z | Null | https://github.com/marychev-akvelon/xamarin-demoapp-backdoor | 0 | 0| 
 
 
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20201105T02:30:46Z | Scalable fuzzing infrastructure. | https://github.com/google/clusterfuzz | 4356 | 396| 
-| 20201105T02:28:20Z | A cross-platform browser fuzzing framework | https://github.com/MozillaSecurity/grizzly | 214 | 29| 
-| 20201105T02:12:22Z | 搜索工具类;a searching-utils for what you saved | https://github.com/kc910521/MiniSearch | 0 | 0| 
-| 20201105T01:19:35Z | Python UnitTests fuzzer via radamsa bindings. | https://github.com/BillyGLW/zyfuzzer | 0 | 0| 
-| 20201105T00:59:57Z | This tool uses fzf(1)-like fuzzy-finder to do partial or fuzzy search of Kubernetes resources. Instead of specifying full resource names to kubectl commands, you can choose them from an interactive list that you can filter by typing a few characters. | https://github.com/d-kuro/kubectl-fuzzy | 67 | 8| 
-| 20201105T00:37:25Z | Fuzzy matching publications for fatcat (wip). | https://github.com/miku/fuzzycat | 0 | 0| 
-| 20201105T00:28:47Z | Null | https://github.com/meliache/b2_fuzzy_helpers | 0 | 0| 
-| 20201105T00:22:33Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2191 | 105| 
-| 20201104T23:15:47Z | Null | https://github.com/Adlls/fuzzy | 0 | 0| 
-| 20201104T23:07:17Z | A differential fuzzer for x86 decoders | https://github.com/trailofbits/mishegos | 109 | 16| 
+| 20201105T12:56:05Z | Null | https://github.com/FDU-Program-Analysis/chunk-fuzzer-pass | 0 | 0| 
+| 20201105T12:43:36Z | Null | https://github.com/fuzzbench-yyy/fuzzbench | 0 | 0| 
+| 20201105T12:14:12Z | SSL and TLS protocol test suite and fuzzer | https://github.com/tomato42/tlsfuzzer | 328 | 81| 
+| 20201105T12:06:43Z | The library provides functions for fuzzy string matching, fuzzy round-off for floats and a fuzzy function of dividing a integer into a integer distribution according to given percentage.  | https://github.com/shubhankar-mohan/fuzzy_logic | 0 | 0| 
+| 20201105T12:05:54Z | Brute forces websites using pure bruteforce | https://github.com/GustavEikaas/PureBruteForceWebFuzzing | 0 | 0| 
+| 20201105T12:03:46Z | Null | https://github.com/s9varesc/url-fuzzing-docker | 0 | 0| 
+| 20201105T12:00:33Z | FormatFuzzer is a framework for high-efficiency, high-quality generation and parsing of binary inputs. | https://github.com/uds-se/FormatFuzzer | 87 | 6| 
+| 20201105T11:49:00Z | Null | https://github.com/s9varesc/url-fuzzing | 0 | 0| 
+| 20201105T11:14:53Z | This project includes many aspect and all of them are done by ROS/Gazebo environment and the programming language used is Python.Starting by launching 3 Ackerman vehicles in one Gazebo environment and providing a path planning of lane changing of the leader car, the leader will move according to this path using Fuzzy Logic Control, and the 2 followers will follow each other using Goal to Goal controller. | https://github.com/GasserElAzab/Platooning-of-3-ackermann-vehiles-controlled-by-Fuzzy-Logic-Control | 0 | 0| 
+| 20201105T11:06:34Z | Null | https://github.com/7evy/Fuzzy_Queries | 0 | 0| 
 
 
 
