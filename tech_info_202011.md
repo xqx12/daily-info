@@ -48,13 +48,13 @@
 | --- | --- | --- | --- | ---| 
 | 20201105T01:46:20Z | CVE-2020-13935 | Exploit for WebSocket Vulnerability in Apache Tomcat | https://github.com/RedTeamPentesting/CVE-2020-13935 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 08 MINUTES 13 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20201105T01:34:41Z | CVE-2020-14882 | CVE-2020-14882_ALL综合利用工具，支持命令回显检测、批量命令回显、外置xml无回显命令执行等功能。 | https://github.com/GGyao/CVE-2020-14882_ALL | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
-| 20201105T01:27:25Z | CVE-2020-15999 | CVE-2020-15999 | https://github.com/marcinguy/CVE-2020-15999 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 09 MINUTES 03 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201105T01:27:25Z | CVE-2020-15999 | CVE-2020-15999 | https://github.com/marcinguy/CVE-2020-15999 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 08 MINUTES 09 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20201105T00:42:46Z | 未知编号 | Elevation Of Privileges Proof of Concept for Windows (win7-win10) | https://github.com/TinToSer/CVE2020-17087 | 未查询到CVE信息| 
 | 20201104T22:22:06Z | CVE-2020-27955 | Git-lfs RCE exploit CVE-2020-27955 - tested on Windows on: git, gh cli, GitHub Desktop, Visual Studio, SourceTree etc. | https://github.com/ExploitBox/git-lfs-RCE-exploit-CVE-2020-27955 | 未查询到CVE信息| 
 | 20201104T21:51:03Z | CVE-2020-27955 | Null | https://github.com/ExploitBox/git-lfs-RCE-exploit-CVE-2020-27955-Go | 未查询到CVE信息| 
 | 20201104T18:34:03Z | CVE-2020-14882 | CVE-2020–14882、CVE-2020–14883 | https://github.com/jas502n/CVE-2020-14882 | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
 | 20201104T18:33:50Z | CVE-2020-14882 | CVE-2020-14882/14883/14750 | https://github.com/NS-Sp4ce/CVE-2020-14882 | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
-| 20201104T17:33:17Z | CVE-2020-1350 | NSE scripts to detect CVE-2020-1350 SIGRED and CVE-2020-0796 SMBGHOST | https://github.com/psc4re/NSE-scripts | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 08 MINUTES 58 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201104T17:33:17Z | CVE-2020-1350 | NSE scripts to detect CVE-2020-1350 SIGRED and CVE-2020-0796 SMBGHOST | https://github.com/psc4re/NSE-scripts | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 08 MINUTES 05 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20201104T16:31:54Z | CVE-2020-27688 | Null | https://github.com/matthiasmaes/CVE-2020-27688 | 未查询到CVE信息| 
 
 
@@ -85,6 +85,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20201105T01:51:35Z | Exploit the result of a GDPR request to deezer | https://github.com/fayak/deezer-stats | 0 | 0| 
 | 20201105T01:46:25Z | This repository contains the source of %ARM Binary Exploitaiton% book. | https://github.com/cpuu/arm_exploitation | 1 | 0| 
 | 20201105T01:29:41Z | This is a source to a bypass i made for some games, for now this should work f or VAC, BE and EAC. The only downside is that you will need to find a exploit to load the driver | https://github.com/ContionMig/KernelMode-Bypass | 93 | 36| 
 | 20201105T01:27:00Z | Exercises of %The Art Of Exploitation% 2nd Edition by Jon Erickson | https://github.com/nullarmor/the-art-of-exploitation-exercises | 0 | 0| 
@@ -94,7 +95,6 @@
 | 20201104T23:35:07Z | !!!WORLD%S 🌍 #1🥇 TOR HACKING SUITE!!! Designed to scan and exploit vulnerabilities within Tor hidden services. Vigilante allows most tools to work as normal while resolving .onion  | https://github.com/MBHudson/Vigilante-Toolset | 12 | 5| 
 | 20201104T23:12:22Z | pwninit - automate starting binary exploit challenges | https://github.com/io12/pwninit | 110 | 7| 
 | 20201104T23:06:50Z | Discover duplication glitches, abusive staff giving items, x-ray or simply poor server economy. | https://github.com/kangarko/Confiscate | 6 | 0| 
-| 20201104T22:43:57Z | Algunos exploits y scripts podras encontrar en este repositorio. | https://github.com/MrCorrupted/Roblox | 0 | 0| 
 
 
 # backdoor on Github 推荐
