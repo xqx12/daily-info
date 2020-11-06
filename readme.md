@@ -23,9 +23,9 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20201106T13:06:12Z | CVE-2020-11996 | tomcat-embed-core-9.0.31 CVE-2020-11996 Test PoC | https://github.com/rusakovichma/tomcat-embed-core-9.0.31-CVE-2020-11996 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 49 MINUTES 12 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201106T13:06:12Z | CVE-2020-11996 | tomcat-embed-core-9.0.31 CVE-2020-11996 Test PoC | https://github.com/rusakovichma/tomcat-embed-core-9.0.31-CVE-2020-11996 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 48 MINUTES 16 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20201106T12:46:54Z | CVE-2020-14750 | PoC para las vulnerabilidades CVE-2020-14750 y cve-2020-14882 | https://github.com/pprietosanchez/CVE-2020-14750 | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
-| 20201106T11:55:17Z | CVE-2020-27955 | Git-lfs RCE exploit CVE-2020-27955 - tested on Windows on: git, gh cli, GitHub Desktop, Visual Studio, SourceTree etc. | https://github.com/ExploitBox/git-lfs-RCE-exploit-CVE-2020-27955 | | 
+| 20201106T11:55:17Z | CVE-2020-27955 | Git-lfs RCE exploit CVE-2020-27955 - tested on Windows on: git, gh cli, GitHub Desktop, Visual Studio, SourceTree etc. | https://github.com/ExploitBox/git-lfs-RCE-exploit-CVE-2020-27955 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 48 MINUTES 22 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20201106T11:46:47Z | CVE-2020-27955 | Null | https://github.com/ExploitBox/git-lfs-RCE-exploit-CVE-2020-27955-Go | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 48 MINUTES 25 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20201106T09:22:23Z | cve-2020-14882 | Null | https://github.com/mmioimm/cve-2020-14882 | 未查询到CVE信息| 
 | 20201106T05:27:47Z | CVE-2020-0796 | CVE-2020-0796-POC | https://github.com/AaronWilsonGrylls/CVE-2020-0796-POC | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 48 MINUTES 29 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
@@ -77,6 +77,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20201106T13:11:56Z | Null | https://github.com/VitorOriel/FuzzyingTool | 0 | 0| 
 | 20201106T12:56:43Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 27818 | 13755| 
 | 20201106T12:45:47Z | A fuzzer for full VM kernel/driver targets | https://github.com/IntelLabs/kAFL | 156 | 27| 
 | 20201106T12:36:21Z | AFL-based fuzz testing for .NET | https://github.com/Metalnem/sharpfuzz | 174 | 19| 
@@ -86,7 +87,6 @@
 | 20201106T09:58:50Z | Potentially dangerous files | https://github.com/Bo0oM/fuzz.txt | 1295 | 237| 
 | 20201106T09:51:32Z | Null | https://github.com/imbawenzi/Fuzzing_Paper_Note | 0 | 0| 
 | 20201106T09:26:49Z | Null | https://github.com/s9varesc/url-fuzzing | 0 | 0| 
-| 20201106T09:20:30Z | Null | https://github.com/craigmax-dev/Report-Integrated-Model-Predictive-Fuzzy-Control-for-Disaster-Victim-Detection-Path-Planning | 0 | 0| 
 
 
 
