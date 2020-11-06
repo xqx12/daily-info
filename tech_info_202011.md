@@ -14,6 +14,8 @@
 | 20201105 | 为 Ghidra 二进制分析工具编写脚本，辅助还原 stripped 二进制内的结构体 | https://github.com/grimm-co/GEARSHIFT| 
 | 20201105 | Infection Monkey - 自动化的渗透测试工具 | https://github.com/guardicore/monkey| 
 | 20201105 | FireEye 对 Solaris 野外已被利用溢出漏洞（CVE-2020-14871）的分析 | https://www.fireeye.com/blog/threat-research/2020/11/critical-buffer-overflow-vulnerability-in-solaris-can-allow-remote-takeover.html| 
+| 20201105 | 利用 RMS 软件和 TeamViewer 攻击工控领域的企业 | https://securelist.com/attacks-on-industrial-enterprises-using-rms-and-teamviewer-new-data/99206/| 
+| 20201105 | Pwn2Own Tokyo 第一天比赛的结果出来了 | https://www.thezdi.com/blog/2020/11/4/pwn2own-tokyo-live-from-toronto-schedule-and-live-results| 
 | 20201104 | 一个可以借助有物理内存读写权限的驱动实现调用任意内核函数的库。 | https://github.com/mq1n/VDM//| 
 | 20201104 | A Deep Dive Into Windows Scheduled Tasks and The Processes Running Them | https://nasbench.medium.com/a-deep-dive-into-windows-scheduled-tasks-and-the-processes-running-them-218d1eed4cce| 
 | 20201104 | Chrome 浏览器 Freetype 字体处理溢出漏洞 PoC（CVE-2020-15999） | https://github.com/marcinguy/CVE-2020-15999//| 
@@ -24,8 +26,6 @@
 | 20201104 | 基于树莓派和 Alfa USB WiFi 自己搭建一个无线渗透套件 | https://github.com/koutto/pi-pwnbox-rogueap| 
 | 20201104 | Shellphish 最近更新了 how2heap Repo，包含最新的各类堆利用技巧 | https://github.com/shellphish/how2heap| 
 | 20201104 | NeurIPS-2020 论文解读：基于跨模态检索的二进制代码-源代码匹配 | https://sec.today/pulses/c7943672-d155-4c89-8d50-8f53a6feb95b/| 
-| 20201104 | Adobe Acrobat Reader 发布漏洞补丁更新，修复多个高危漏洞 | https://sec.today/pulses/e8fa7faf-3b30-4095-a137-357144b2bf0f/| 
-| 20201104 | NeurIPS-2020 论文解读：基于跨模态检索的二进制代码-源代码匹配 | https://keenlab.tencent.com/zh/2020/11/03/neurips-2020-cameraready/| 
 
 
 # 安全维基 推荐
@@ -46,16 +46,16 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20201106T01:34:45Z | CVE-2020-27955 | Git-lfs RCE exploit CVE-2020-27955 - tested on Windows on: git, gh cli, GitHub Desktop, Visual Studio, SourceTree etc. | https://github.com/ExploitBox/git-lfs-RCE-exploit-CVE-2020-27955 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 23 MINUTES 10 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20201105T22:39:19Z | CVE-2020-1472 | Exploit Code for CVE-2020-1472 aka Zerologon | https://github.com/VoidSec/CVE-2020-1472 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 23 MINUTES 04 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20201105T21:44:28Z | CVE-2020-15999 | CVE-2020-15999 | https://github.com/marcinguy/CVE-2020-15999 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 23 MINUTES 08 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20201105T21:29:37Z | CVE-2020-15227 | CVE-2020-15227 exploit | https://github.com/Langriklol/CVE-2020-15227 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 23 MINUTES 05 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201106T01:34:45Z | CVE-2020-27955 | Git-lfs RCE exploit CVE-2020-27955 - tested on Windows on: git, gh cli, GitHub Desktop, Visual Studio, SourceTree etc. | https://github.com/ExploitBox/git-lfs-RCE-exploit-CVE-2020-27955 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 22 MINUTES 11 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201105T22:39:19Z | CVE-2020-1472 | Exploit Code for CVE-2020-1472 aka Zerologon | https://github.com/VoidSec/CVE-2020-1472 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 22 MINUTES 04 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201105T21:44:28Z | CVE-2020-15999 | CVE-2020-15999 | https://github.com/marcinguy/CVE-2020-15999 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 22 MINUTES 09 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201105T21:29:37Z | CVE-2020-15227 | CVE-2020-15227 exploit | https://github.com/Langriklol/CVE-2020-15227 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 22 MINUTES 06 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20201105T20:29:23Z | CVE-2020-9273 | some files created during analysis of ProFTPd vulnerability - no exploit created yet | https://github.com/ptef/CVE-2020-9273 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 22 MINUTES 17 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20201105T19:49:28Z | CVE-2020-27955 | Null | https://github.com/ExploitBox/git-lfs-RCE-exploit-CVE-2020-27955-Go | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 23 MINUTES 14 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201105T19:49:28Z | CVE-2020-27955 | Null | https://github.com/ExploitBox/git-lfs-RCE-exploit-CVE-2020-27955-Go | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 22 MINUTES 15 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20201105T15:35:18Z | CVE-2020-14882 | CVE-2020–14882、CVE-2020–14883 | https://github.com/jas502n/CVE-2020-14882 | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
 | 20201105T15:19:05Z | CVE-2020-1472 | Null | https://github.com/mingchen-script/CVE-2020-1472-visualizer | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 22 MINUTES 16 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20201105T15:04:12Z | CVE-2020-14882 | CVE-2020-14882/14883/14750 | https://github.com/NS-Sp4ce/CVE-2020-14882 | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
-| 20201105T15:00:19Z | CVE-2020-25398 | CSV Injection exists in InterMind iMind Server through 3.13.65 via the csv export functionality. | https://github.com/h3llraiser/CVE-2020-25398 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 23 MINUTES 02 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201105T15:00:19Z | CVE-2020-25398 | CSV Injection exists in InterMind iMind Server through 3.13.65 via the csv export functionality. | https://github.com/h3llraiser/CVE-2020-25398 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 22 MINUTES 03 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 
 
 # klee on Github 推荐
@@ -85,7 +85,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20201106T02:37:16Z | Mutate a target to identify exploit candidates. | https://github.com/demetrius-ford/mutation-fuzzer | 0 | 0| 
+| 20201106T02:38:11Z | Mutate a target to identify exploit candidates. | https://github.com/demetrius-ford/mutation-fuzzer | 0 | 0| 
 | 20201106T00:48:52Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 6 | 4| 
 | 20201106T00:29:19Z | The best tool for finding one gadget RCE in libc.so.6 | https://github.com/david942j/one_gadget | 1217 | 107| 
 | 20201106T00:25:14Z | Perform greedy feature selection using either Shannon entropy or Rényi min-entropy, exploiting the power of C++ Python bindings. | https://github.com/marcoromanelli-github/GreedyFeatureSelection | 0 | 0| 
@@ -115,7 +115,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20201106T02:37:30Z | Mutate a target to identify exploit candidates. | https://github.com/demetrius-ford/mutation-fuzzer | 0 | 0| 
+| 20201106T02:38:11Z | Mutate a target to identify exploit candidates. | https://github.com/demetrius-ford/mutation-fuzzer | 0 | 0| 
 | 20201106T02:26:57Z | Ethereum smart contract fuzzer | https://github.com/crytic/echidna | 499 | 80| 
 | 20201106T02:16:34Z | Web application fuzzer | https://github.com/xmendez/wfuzz | 3223 | 817| 
 | 20201106T01:59:01Z | Library for structured fuzzing with protobuffers | https://github.com/google/libprotobuf-mutator | 292 | 68| 
