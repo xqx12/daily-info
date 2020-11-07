@@ -46,27 +46,27 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20201106T13:33:32Z | CVE-2020-0688 | Exchange Scanner CVE-2020-0688 | https://github.com/righter83/CVE-2020-0688 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 00 MINUTES 07 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20201106T13:06:12Z | CVE-2020-11996 | tomcat-embed-core-9.0.31 CVE-2020-11996 Test PoC | https://github.com/rusakovichma/tomcat-embed-core-9.0.31-CVE-2020-11996 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 00 MINUTES 10 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20201106T12:46:54Z | CVE-2020-14750 | PoC para las vulnerabilidades CVE-2020-14750 y cve-2020-14882 | https://github.com/pprietosanchez/CVE-2020-14750 | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
-| 20201106T11:55:17Z | CVE-2020-27955 | Git-lfs RCE exploit CVE-2020-27955 - tested on Windows on: git, gh cli, GitHub Desktop, Visual Studio, SourceTree etc. | https://github.com/ExploitBox/git-lfs-RCE-exploit-CVE-2020-27955 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 00 MINUTES 16 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20201106T11:46:47Z | CVE-2020-27955 | Null | https://github.com/ExploitBox/git-lfs-RCE-exploit-CVE-2020-27955-Go | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 00 MINUTES 19 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201106T21:17:56Z | CVE-2020-28328 | Writeup on CVE-2020-28328: SuiteCRM Log File Remote Code Execution plus some bonus Cross-Site Scripting | https://github.com/mcorybillington/SuiteCRM-RCE | 7.11.17之前的SuiteCRM易于通过系统设置“日志文件名”设置来远程执行代码。在涉及管理员帐户接管的某些情况下，logger_file_name可以引用Web根目录下由攻击者控制的.php文件。| 
+| 20201106T20:09:12Z | CVE-2020-1472 | Exploit Code for CVE-2020-1472 aka Zerologon | https://github.com/VoidSec/CVE-2020-1472 | 当攻击者使用Netlogon远程协议（MS-NRPC）（又称为“ Netlogon特权提升漏洞”）建立与域控制器的易受攻击的Netlogon安全通道连接时，将存在特权提升漏洞。| 
+| 20201106T19:16:59Z | CVE-2020-14750 | PoC para las vulnerabilidades CVE-2020-14750 y cve-2020-14882 | https://github.com/pprietosanchez/CVE-2020-14750 | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
+| 20201106T18:38:47Z | CVE-2020-27955 | Git-lfs RCE exploit CVE-2020-27955 - tested on Windows on: git, gh cli, GitHub Desktop, Visual Studio, SourceTree etc. | https://github.com/ExploitBox/git-lfs-RCE-exploit-CVE-2020-27955 | Git LFS 2.12.0允许远程执行代码。| 
+| 20201106T13:33:32Z | CVE-2020-0688 | Exchange Scanner CVE-2020-0688 | https://github.com/righter83/CVE-2020-0688 | 当Microsoft Exchange软件无法正确处理内存中的对象（也称为“ Microsoft Exchange内存损坏漏洞”）时，将存在一个远程执行代码漏洞。| 
+| 20201106T13:06:12Z | CVE-2020-11996 | tomcat-embed-core-9.0.31 CVE-2020-11996 Test PoC | https://github.com/rusakovichma/tomcat-embed-core-9.0.31-CVE-2020-11996 | 发送到Apache Tomcat 10.0.0-M1至10.0.0-M5、9.0.0.M1至9.0.35和8.5.0至8.5.55的特制HTTP / 2请求序列可能会在几秒钟内触发高CPU使用率。如果在并发HTTP / 2连接上发出了足够数量的此类请求，则服务器可能会无响应。| 
+| 20201106T11:46:47Z | CVE-2020-27955 | Null | https://github.com/ExploitBox/git-lfs-RCE-exploit-CVE-2020-27955-Go | Git LFS 2.12.0允许远程执行代码。| 
 | 20201106T09:22:23Z | cve-2020-14882 | Null | https://github.com/mmioimm/cve-2020-14882 | 未查询到CVE信息| 
-| 20201106T05:27:47Z | CVE-2020-0796 | CVE-2020-0796-POC | https://github.com/AaronWilsonGrylls/CVE-2020-0796-POC | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 00 MINUTES 23 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20201106T03:36:03Z | CVE-2020-14882 | CVE-2020-14882_ALL综合利用工具，支持命令回显检测、批量命令回显、外置xml无回显命令执行等功能。 | https://github.com/GGyao/CVE-2020-14882_ALL | | 
-| 20201106T02:37:42Z | 未知编号 | Elevation Of Privileges Proof of Concept for Windows (win7-win10) | https://github.com/TinToSer/CVE2020-17087 | 未查询到CVE信息| 
-| 20201105T22:39:19Z | CVE-2020-1472 | Exploit Code for CVE-2020-1472 aka Zerologon | https://github.com/VoidSec/CVE-2020-1472 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 00 MINUTES 12 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201106T05:27:47Z | CVE-2020-0796 | CVE-2020-0796-POC | https://github.com/AaronWilsonGrylls/CVE-2020-0796-POC | | 
+| 20201106T03:36:03Z | CVE-2020-14882 | CVE-2020-14882_ALL综合利用工具，支持命令回显检测、批量命令回显、外置xml无回显命令执行等功能。 | https://github.com/GGyao/CVE-2020-14882_ALL | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20201106T12:11:33Z | Symbiotic is a tool for finding bugs in computer programs based on instrumentation, program slicing and KLEE | https://github.com/staticafi/symbiotic | 199 | 33| 
+| 20201106T18:42:46Z | RVT is a collection of tools/libraries to support both static and dynamic verification of Rust programs. | https://github.com/project-oak/rust-verification-tools | 94 | 5| 
+| 20201106T15:45:17Z | Symbiotic is a tool for finding bugs in computer programs based on instrumentation, program slicing and KLEE | https://github.com/staticafi/symbiotic | 199 | 33| 
 | 20201106T12:10:45Z | 这里是可乐的地盘儿！ | https://github.com/KLeeve/kleeve.github.io | 0 | 0| 
 | 20201106T04:26:42Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1538 | 467| 
 | 20201105T19:45:07Z | Null | https://github.com/mitchklee35/MitchKlee.com | 0 | 0| 
 | 20201105T16:00:59Z | Null | https://github.com/kleem/kleem.github.io | 0 | 0| 
-| 20201105T14:32:56Z | RVT is a collection of tools/libraries to support both static and dynamic verification of Rust programs. | https://github.com/project-oak/rust-verification-tools | 93 | 5| 
 | 20201105T10:58:54Z | One place for all of my workshops | https://github.com/kleenxcoder/kleenxcoder-workshops | 0 | 0| 
 | 20201105T07:47:52Z | Software Engineering of Prof Lee | https://github.com/blazer502/KLEE_assign | 0 | 0| 
 | 20201104T18:53:04Z | Website for the KLEE project: https://klee.github.io/ | https://github.com/klee/klee.github.io | 13 | 43| 
@@ -85,46 +85,46 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20201106T13:50:02Z | k8gege.org - K8哥哥%s Blog | https://github.com/k8gege/k8gege.github.io | 9 | 6| 
-| 20201106T13:15:12Z | The Browser Exploitation Framework Project | https://github.com/beefproject/beef | 5334 | 1283| 
-| 20201106T12:48:53Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 6 | 4| 
-| 20201106T12:17:46Z | Null | https://github.com/TheOfficalHyperHax/www.waterbrew.io-web-exploit | 0 | 0| 
-| 20201106T12:17:44Z | automated vulnerability testing & exploitation framework for kenzer | https://github.com/ARPSyndicate/freaker | 4 | 0| 
-| 20201106T12:05:26Z | Thoron Framework is a Linux post-exploitation framework that exploits Linux TCP vulnerability to provide a shell-like connection. Thoron Framework has the ability to create simple payloads to provide Linux TCP attack. | https://github.com/EntySec/thoron | 78 | 28| 
-| 20201106T11:36:05Z | Thi powershell script has got to run in remote windows host, even for pivoting | https://github.com/FabioDefilippo/winallenum | 0 | 0| 
-| 20201106T11:23:54Z | Unicorn Framework is an iOS, macOS and Linux post-exploitation framework that using one line command and powerful python payload attempts to spawn a command line session with a lot of features such as downloading files, uploading files, getting system information and etc. | https://github.com/EntySec/unicorn | 6 | 4| 
-| 20201106T11:07:04Z | Different methods to flood the bungee with invalid requests which potentially crashes the server | https://github.com/Sxlver/Bungee-Exploit-Flood | 0 | 0| 
-| 20201106T10:50:23Z | Small forum website for practicing basic web exploits. | https://github.com/jib1337/websandbox | 0 | 1| 
+| 20201107T00:01:03Z | Thi powershell script has got to run in remote windows host, even for pivoting | https://github.com/FabioDefilippo/winallenum | 0 | 0| 
+| 20201106T23:34:55Z | Null | https://github.com/arturkow2000/lgk10exploit | 6 | 3| 
+| 20201106T23:18:00Z | Exploits written by me | https://github.com/dibsy/exploits_p0c | 2 | 0| 
+| 20201106T22:44:57Z | Null | https://github.com/647ninja/Exploit-Research | 0 | 0| 
+| 20201106T21:46:40Z | Basic exploit to complete the HTB box Magic to user | https://github.com/xfow/automagic | 0 | 0| 
+| 20201106T21:29:17Z | Protekt Protocol puts crypto to work insuring users against hacks, bugs, and exploits of any DeFi protocol or smart contract. The goal is to support and catalyze the growth of the DeFi ecosystem by protecting users from getting rekt. | https://github.com/corbinpage/protekt-protocol-docs | 5 | 0| 
+| 20201106T20:16:26Z | pwninit - automate starting binary exploit challenges | https://github.com/io12/pwninit | 110 | 7| 
+| 20201106T20:00:22Z | Null | https://github.com/quentin452/Cats-Exploitz-HUB | 0 | 1| 
+| 20201106T18:48:53Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 6 | 4| 
+| 20201106T18:37:02Z | This bash script will help you to hack remote hosts  | https://github.com/FabioDefilippo/linuxallremote | 1 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20201106T23:38:37Z | Backdoor server with Spring Boot | https://github.com/apal7/marauders-map-server | 0 | 0| 
+| 20201106T21:09:18Z | A deck-building roguelike cyberpunk game. | https://github.com/uspgamedev/backdoor | 18 | 3| 
+| 20201106T20:56:38Z | Backdoor manager tool | https://github.com/Buccioz/Intruder | 0 | 0| 
+| 20201106T19:48:45Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 90 | 10| 
+| 20201106T18:51:00Z | Garry%s Mod Backdoor Menu | https://github.com/ProjectRebug/RebugV2-Release | 3 | 4| 
+| 20201106T18:26:48Z | Unicorn Framework is an iOS, macOS and Linux post-exploitation framework that using one line command and powerful python payload attempts to spawn a command line session with a lot of features such as downloading files, uploading files, getting system information and etc. | https://github.com/EntySec/unicorn | 6 | 4| 
 | 20201106T12:05:26Z | Thoron Framework is a Linux post-exploitation framework that exploits Linux TCP vulnerability to provide a shell-like connection. Thoron Framework has the ability to create simple payloads to provide Linux TCP attack. | https://github.com/EntySec/thoron | 78 | 28| 
-| 20201106T11:23:54Z | Unicorn Framework is an iOS, macOS and Linux post-exploitation framework that using one line command and powerful python payload attempts to spawn a command line session with a lot of features such as downloading files, uploading files, getting system information and etc. | https://github.com/EntySec/unicorn | 6 | 4| 
-| 20201106T10:55:41Z | Backdoor manager tool | https://github.com/Buccioz/Intruder | 0 | 0| 
-| 20201106T10:32:06Z | Ghost Framework is an Android post-exploitation framework that exploits the Android Debug Bridge to remotely access an Android device. Ghost Framework gives you the power and convenience of remote Android device administration. | https://github.com/EntySec/ghost | 779 | 400| 
+| 20201106T10:32:06Z | Ghost Framework is an Android post-exploitation framework that exploits the Android Debug Bridge to remotely access an Android device. Ghost Framework gives you the power and convenience of remote Android device administration. | https://github.com/EntySec/ghost | 779 | 401| 
 | 20201106T07:13:50Z | Null | https://github.com/penetrators-sec/RANSBOT | 0 | 0| 
 | 20201106T03:38:15Z | Null | https://github.com/noplanalderson/backdoor-encryptor | 0 | 0| 
-| 20201106T01:16:23Z | Tool to find potential backdoor/security holes in your endpoint | https://github.com/subasgit/backdoorfinder | 1 | 0| 
-| 20201106T01:02:26Z | A repository that includes the python implementation and the paper%s review of some adversarial attacks. | https://github.com/henrychacon/Backdoor_attacks | 0 | 0| 
-| 20201105T17:17:01Z | A Undetectable Payload Generation | https://github.com/shadowlabscc/Kaiten | 158 | 32| 
-| 20201105T16:49:47Z | Null | https://github.com/joharashu0/reverse_backdoor | 0 | 0| 
 
 
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20201106T13:56:16Z | Null | https://github.com/nouran01/Fuzzer | 0 | 0| 
-| 20201106T13:53:17Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 949 | 231| 
-| 20201106T13:46:59Z | Null | https://github.com/rbusybee/fuzzy-angular | 0 | 0| 
-| 20201106T13:26:53Z | This is a TORCS robot that make use of fuzzy logic. | https://github.com/RaanGi/TORCS-fuzzy-robot | 0 | 0| 
-| 20201106T13:22:51Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 27819 | 13755| 
-| 20201106T13:17:55Z | A fuzzer for full VM kernel/driver targets | https://github.com/IntelLabs/kAFL | 156 | 27| 
-| 20201106T13:12:34Z | Software for fuzzing, used on web application pentestings. | https://github.com/VitorOriel/FuzzyingTool | 0 | 0| 
-| 20201106T12:36:21Z | AFL-based fuzz testing for .NET | https://github.com/Metalnem/sharpfuzz | 174 | 19| 
-| 20201106T11:02:51Z | Null | https://github.com/fuzzbench-yyy/fuzzbench | 0 | 0| 
-| 20201106T10:42:12Z | Web application fuzzer | https://github.com/xmendez/wfuzz | 3223 | 817| 
+| 20201107T00:55:28Z | Runs levenshtein algorithm and returns data where insertions, deletions and substitutions occured. | https://github.com/gnames/fuzzy-diff | 0 | 0| 
+| 20201107T00:46:17Z | Fuzzy controller to control the position of a ball inside a glass tube. | https://github.com/guyah/Fuzzy-Position-Control-of-a-Ping-Pong-Ball- | 0 | 0| 
+| 20201107T00:36:12Z | Using Python to calculate | https://github.com/Titus568/fuzzy-lamp | 0 | 0| 
+| 20201107T00:28:12Z | Experimental projects | https://github.com/tannmatter/fuzzy-happiness | 0 | 0| 
+| 20201107T00:18:14Z | Fuzzy matching publications for fatcat (wip). | https://github.com/miku/fuzzycat | 0 | 0| 
+| 20201107T00:04:51Z | Null | https://github.com/zeddzorandder/fuzzy-couscous | 0 | 0| 
+| 20201106T23:57:30Z | Code for fuzzy monkeys. | https://github.com/fuzzyatelin/fuzzyatelin.github.io | 3 | 9| 
+| 20201106T23:32:33Z | A plugin based fuzzer | https://github.com/elast0ny/CROWDFUZZ | 2 | 0| 
+| 20201106T23:09:18Z | Null | https://github.com/qian-feng/RG-fuzzing | 0 | 0| 
+| 20201106T22:48:13Z | Null | https://github.com/googleinterns/hw-fuzzing | 2 | 0| 
 
 
 
