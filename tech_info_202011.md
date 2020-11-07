@@ -46,16 +46,16 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20201107T13:03:43Z | CVE-2020-17496 | (CVE-2020-17496) vBulletin 5.x Widget_tabbedcontainer_tab_panel RCE Vuln Test script | https://github.com/ludy-dev/vBulletin_5.x-tab_panel-RCE | | 
-| 20201107T12:45:21Z | CVE-2020-28328 | Writeup on CVE-2020-28328: SuiteCRM Log File Remote Code Execution plus some bonus Cross-Site Scripting | https://github.com/mcorybillington/SuiteCRM-RCE | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 45 MINUTES 35 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201107T13:03:43Z | CVE-2020-17496 | (CVE-2020-17496) vBulletin 5.x Widget_tabbedcontainer_tab_panel RCE Vuln Test script | https://github.com/ludy-dev/vBulletin_5.x-tab_panel-RCE | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 45 MINUTES 25 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201107T12:45:21Z | CVE-2020-28328 | Writeup on CVE-2020-28328: SuiteCRM Log File Remote Code Execution plus some bonus Cross-Site Scripting | https://github.com/mcorybillington/SuiteCRM-RCE | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 44 MINUTES 37 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20201107T11:40:01Z | CVE-2020-14882 | Vulmap - Web漏洞扫描和验证工具，可对Web容器、Web服务器、Web中间件以及CMS等Web程序进行漏洞扫描，并且具备漏洞利用功能。 相关测试人员可以使用vulmap检测目标是否存在特定漏洞，并且可以使用漏洞利用功能验证漏洞是否真实存在。CVE-2020-14882, CVE-2020-2555, CVE-2020-2883 | https://github.com/zhzyker/vulmap | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
-| 20201107T10:08:19Z | CVE-2020-5902 | (CVE-2020-5902) BIG IP F5 TMUI RCE Vulnerability RCE PoC/ Test Script  | https://github.com/ludy-dev/BIG-IP-F5-TMUI-RCE-Vulnerability | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 46 MINUTES 17 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201107T10:08:19Z | CVE-2020-5902 | (CVE-2020-5902) BIG IP F5 TMUI RCE Vulnerability RCE PoC/ Test Script  | https://github.com/ludy-dev/BIG-IP-F5-TMUI-RCE-Vulnerability | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 45 MINUTES 26 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20201107T10:00:24Z | CVE-2020-3452 | (CVE-2020-3452) Cisco Adaptive Security Appliance Software - Local File Inclusion Vuln Test sciript | https://github.com/ludy-dev/Cisco-ASA-LFI | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
 | 20201107T08:42:32Z | CVE-2020-14882 | Exphub[漏洞利用脚本库] 包括Webloigc、Struts2、Tomcat、Nexus、Solr、Jboss、Drupal的漏洞利用脚本，最新添加CVE-2020-14882、CVE-2020-11444、CVE-2020-10204、CVE-2020-10199、CVE-2020-1938、CVE-2020-2551、CVE-2020-2555、CVE-2020-2883、CVE-2019-17558、CVE-2019-6340 | https://github.com/zhzyker/exphub | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
 | 20201106T20:09:12Z | CVE-2020-1472 | Exploit Code for CVE-2020-1472 aka Zerologon | https://github.com/VoidSec/CVE-2020-1472 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 45 MINUTES 27 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20201106T19:16:59Z | CVE-2020-14750 | PoC para las vulnerabilidades CVE-2020-14750 y cve-2020-14882 | https://github.com/pprietosanchez/CVE-2020-14750 | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
 | 20201106T18:38:47Z | CVE-2020-27955 | Git-lfs RCE exploit CVE-2020-27955 - tested on Windows on: git, gh cli, GitHub Desktop, Visual Studio, SourceTree etc. | https://github.com/ExploitBox/git-lfs-RCE-exploit-CVE-2020-27955 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 00 MINUTES 22 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20201106T13:33:32Z | CVE-2020-0688 | Exchange Scanner CVE-2020-0688 | https://github.com/righter83/CVE-2020-0688 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 46 MINUTES 11 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201106T13:33:32Z | CVE-2020-0688 | Exchange Scanner CVE-2020-0688 | https://github.com/righter83/CVE-2020-0688 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 45 MINUTES 19 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 
 
 # klee on Github 推荐
@@ -115,6 +115,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20201107T13:14:45Z | Collected fuzzing payloads from different resources  | https://github.com/osamahamad/FUZZING | 4 | 2| 
 | 20201107T13:05:32Z | Erlang port of famous radamsa fuzzzer. | https://github.com/Darkkey/erlamsa | 45 | 8| 
 | 20201107T12:41:11Z | This is a TORCS robot that make use of fuzzy logic. | https://github.com/RaanGi/TORCS-fuzzy-robot | 0 | 0| 
 | 20201107T12:34:20Z | Runs levenshtein algorithm and returns data where insertions, deletions and substitutions occured. | https://github.com/gnames/fuzzy-diff | 0 | 0| 
@@ -124,7 +125,6 @@
 | 20201107T11:16:37Z | Template repo for libraries written in go | https://github.com/arhat-dev/template-library-go | 0 | 0| 
 | 20201107T08:44:56Z | Null | https://github.com/luisroel91/Vulnserver-Fuzzing-and-Exploitation | 0 | 0| 
 | 20201107T07:29:56Z | APIFuzzing - a lua plugin for fuzzing and checking the Cuberite API | https://github.com/cuberite/APIFuzzing | 1 | 2| 
-| 20201107T07:15:02Z | FuzzBench - Fuzzer benchmarking as a service. | https://github.com/google/fuzzbench | 548 | 86| 
 
 
 
