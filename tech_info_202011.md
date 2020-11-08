@@ -46,13 +46,13 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20201108T02:18:37Z | CVE-2020-1472 | Exploit Code for CVE-2020-1472 aka Zerologon | https://github.com/VoidSec/CVE-2020-1472 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 40 MINUTES 27 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201108T02:18:37Z | CVE-2020-1472 | Exploit Code for CVE-2020-1472 aka Zerologon | https://github.com/VoidSec/CVE-2020-1472 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 39 MINUTES 27 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20201108T00:52:02Z | CVE-2020-14882 | Vulmap - Web漏洞扫描和验证工具，可对Web容器、Web服务器、Web中间件以及CMS等Web程序进行漏洞扫描，并且具备漏洞利用功能。 相关测试人员可以使用vulmap检测目标是否存在特定漏洞，并且可以使用漏洞利用功能验证漏洞是否真实存在。CVE-2020-14882, CVE-2020-2555, CVE-2020-2883 | https://github.com/zhzyker/vulmap | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
-| 20201108T00:50:47Z | CVE-2020-13277 | CVE-2020-13277 的 PoC Repository | https://github.com/lyy289065406/CVE-2020-13277-poc | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 39 MINUTES 37 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201108T00:50:47Z | CVE-2020-13277 | CVE-2020-13277 的 PoC Repository | https://github.com/lyy289065406/CVE-2020-13277-poc | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 38 MINUTES 38 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20201107T16:28:37Z | cve-2020-7897 | Null | https://github.com/mooneee/cve-2020-7897 | 未查询到CVE信息| 
-| 20201107T13:03:43Z | CVE-2020-17496 | (CVE-2020-17496) vBulletin 5.x Widget_tabbedcontainer_tab_panel RCE Vuln Test script | https://github.com/ludy-dev/vBulletin_5.x-tab_panel-RCE | | 
-| 20201107T12:45:21Z | CVE-2020-28328 | Writeup on CVE-2020-28328: SuiteCRM Log File Remote Code Execution plus some bonus Cross-Site Scripting | https://github.com/mcorybillington/SuiteCRM-RCE | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 40 MINUTES 34 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20201107T10:08:19Z | CVE-2020-5902 | (CVE-2020-5902) BIG IP F5 TMUI RCE Vulnerability RCE PoC/ Test Script  | https://github.com/ludy-dev/BIG-IP-F5-TMUI-RCE-Vulnerability | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 40 MINUTES 26 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201107T13:03:43Z | CVE-2020-17496 | (CVE-2020-17496) vBulletin 5.x Widget_tabbedcontainer_tab_panel RCE Vuln Test script | https://github.com/ludy-dev/vBulletin_5.x-tab_panel-RCE | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 39 MINUTES 25 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201107T12:45:21Z | CVE-2020-28328 | Writeup on CVE-2020-28328: SuiteCRM Log File Remote Code Execution plus some bonus Cross-Site Scripting | https://github.com/mcorybillington/SuiteCRM-RCE | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 38 MINUTES 34 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201107T10:08:19Z | CVE-2020-5902 | (CVE-2020-5902) BIG IP F5 TMUI RCE Vulnerability RCE PoC/ Test Script  | https://github.com/ludy-dev/BIG-IP-F5-TMUI-RCE-Vulnerability | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 39 MINUTES 26 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20201107T10:00:24Z | CVE-2020-3452 | (CVE-2020-3452) Cisco Adaptive Security Appliance Software - Local File Inclusion Vuln Test sciript | https://github.com/ludy-dev/Cisco-ASA-LFI | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
 | 20201107T08:42:32Z | CVE-2020-14882 | Exphub[漏洞利用脚本库] 包括Webloigc、Struts2、Tomcat、Nexus、Solr、Jboss、Drupal的漏洞利用脚本，最新添加CVE-2020-14882、CVE-2020-11444、CVE-2020-10204、CVE-2020-10199、CVE-2020-1938、CVE-2020-2551、CVE-2020-2555、CVE-2020-2883、CVE-2019-17558、CVE-2019-6340 | https://github.com/zhzyker/exphub | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
 | 20201106T19:16:59Z | CVE-2020-14750 | PoC para las vulnerabilidades CVE-2020-14750 y cve-2020-14882 | https://github.com/pprietosanchez/CVE-2020-14750 | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
@@ -85,6 +85,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20201108T02:20:49Z | Vulnerabilities% Risk of Exploitation | https://github.com/thiagofigcosta/V-REx | 0 | 0| 
 | 20201108T02:17:39Z | exploits for vm phoenix of exploit education https://exploit.education/phoenix/ | https://github.com/gu1mas/exploit-education_writeups | 0 | 0| 
 | 20201108T01:41:31Z | Privescker - make life easier by dumping all your common Windows enum, privesc and post exploitation scripts and tools on to the box in one go. | https://github.com/atthacks/Privescker | 5 | 0| 
 | 20201108T01:27:55Z | CS3103 Project | https://github.com/CS3103-Group10/exploitable-app | 0 | 0| 
@@ -94,7 +95,6 @@
 | 20201107T22:33:24Z | A collection of excerpts from various readings. Topics include the intersection of technology with social and political dimensions of society, responses through technological counterculture, and liberation of humankind from exploitative systems of production. | https://github.com/j-lyman/Excerpts | 0 | 0| 
 | 20201107T22:13:07Z | Null | https://github.com/luisroel91/Vulnserver-Fuzzing-and-Exploitation | 0 | 0| 
 | 20201107T20:57:22Z | Liste des outils pouvant etre utiles après une exploitation | https://github.com/QuentR73/Post-Exploitation | 0 | 0| 
-| 20201107T20:56:51Z | Unicorn Framework is an iOS, macOS and Linux post-exploitation framework that using one line command and powerful python payload attempts to spawn a command line session with a lot of features such as downloading files, uploading files, getting system information and etc. | https://github.com/EntySec/unicorn | 7 | 4| 
 
 
 # backdoor on Github 推荐
