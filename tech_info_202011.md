@@ -6,6 +6,8 @@
 # 玄武实验室 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20201108 | C++语言接口基础（CLIF）知识介绍。 | https://github.com/google/clif| 
+| 20201108 | jd-cli:是对Java Decompiler反编译器项目命令软件包，可在win与Linux运行使用。 | https://github.com/kwart/jd-cli| 
 | 20201106 | Apple 搜索爬虫在爬取页面时因代理服务器问题会泄露 Apple 的内部 IP 信息 | https://sec.today/pulses/1364d3b1-3922-48d2-bfe8-82a6cd99eedb/| 
 | 20201106 | Brave 浏览器 Tor 漏洞的发现和利用过程分析 | https://community.disclose.io/t/how-i-found-a-tor-vulnerability-in-brave-browser-reported-it-watched-it-get-patched-got-a-cve-cve-2020-8276-and-a-small-bounty-all-in-one-working-day/65| 
 | 20201106 | Windows 系统第三方服务开发者可以借助 WSH (Windows Service Hardening) 机制提高安全性 | https://decoder.cloud/2020/11/05/hands-off-my-service-account/| 
@@ -24,8 +26,6 @@
 | 20201105 | INJ3CTOR3 - 有攻击者攻击并控制 VoIP SIP 服务器实现获利 | https://research.checkpoint.com/2020/inj3ctor3-operation-leveraging-asterisk-servers-for-monetization/| 
 | 20201105 | Zoom Snooping - 通过视频会议时对方的肩膀移动来侧信道猜测密码 | https://threatpost.com/zoom-snooping-passwords/161000/| 
 | 20201104 | 一个可以借助有物理内存读写权限的驱动实现调用任意内核函数的库。 | https://github.com/mq1n/VDM//| 
-| 20201104 | A Deep Dive Into Windows Scheduled Tasks and The Processes Running Them | https://nasbench.medium.com/a-deep-dive-into-windows-scheduled-tasks-and-the-processes-running-them-218d1eed4cce| 
-| 20201104 | Chrome 浏览器 Freetype 字体处理溢出漏洞 PoC（CVE-2020-15999） | https://github.com/marcinguy/CVE-2020-15999//| 
 
 
 # 安全维基 推荐
@@ -46,16 +46,16 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20201108T02:18:37Z | CVE-2020-1472 | Exploit Code for CVE-2020-1472 aka Zerologon | https://github.com/VoidSec/CVE-2020-1472 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 00 MINUTES 29 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20201108T00:52:02Z | CVE-2020-14882 | Vulmap - Web漏洞扫描和验证工具，可对Web容器、Web服务器、Web中间件以及CMS等Web程序进行漏洞扫描，并且具备漏洞利用功能。 相关测试人员可以使用vulmap检测目标是否存在特定漏洞，并且可以使用漏洞利用功能验证漏洞是否真实存在。CVE-2020-14882, CVE-2020-2555, CVE-2020-2883 | https://github.com/zhzyker/vulmap | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
+| 20201108T12:32:13Z | CVE-2020-13277 | CVE-2020-13277 靶场： 任意用户越权执行 Gitlab Pipeline Jobs 漏洞 | https://github.com/lyy289065406/CVE-2020-13277 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 57 MINUTES 31 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201108T11:52:48Z | CVE-2020-14882 | Vulmap - Web漏洞扫描和验证工具，可对Web容器、Web服务器、Web中间件以及CMS等Web程序进行漏洞扫描，并且具备漏洞利用功能。 相关测试人员可以使用vulmap检测目标是否存在特定漏洞，并且可以使用漏洞利用功能验证漏洞是否真实存在。CVE-2020-14882, CVE-2020-2555, CVE-2020-2883 | https://github.com/zhzyker/vulmap | | 
+| 20201108T09:51:38Z | CVE-2020-1472 | Exploit Code for CVE-2020-1472 aka Zerologon | https://github.com/VoidSec/CVE-2020-1472 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 57 MINUTES 27 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201108T05:33:03Z | CVE-2020-14882 | Exphub[漏洞利用脚本库] 包括Webloigc、Struts2、Tomcat、Nexus、Solr、Jboss、Drupal的漏洞利用脚本，最新添加CVE-2020-14882、CVE-2020-11444、CVE-2020-10204、CVE-2020-10199、CVE-2020-1938、CVE-2020-2551、CVE-2020-2555、CVE-2020-2883、CVE-2019-17558、CVE-2019-6340 | https://github.com/zhzyker/exphub | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
 | 20201108T00:50:47Z | CVE-2020-13277 | CVE-2020-13277 的 PoC Repository | https://github.com/lyy289065406/CVE-2020-13277-poc | | 
 | 20201107T16:28:37Z | cve-2020-7897 | Null | https://github.com/mooneee/cve-2020-7897 | 未查询到CVE信息| 
-| 20201107T13:03:43Z | CVE-2020-17496 | (CVE-2020-17496) vBulletin 5.x Widget_tabbedcontainer_tab_panel RCE Vuln Test script | https://github.com/ludy-dev/vBulletin_5.x-tab_panel-RCE | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 00 MINUTES 27 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20201107T12:45:21Z | CVE-2020-28328 | Writeup on CVE-2020-28328: SuiteCRM Log File Remote Code Execution plus some bonus Cross-Site Scripting | https://github.com/mcorybillington/SuiteCRM-RCE | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 00 MINUTES 36 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20201107T10:08:19Z | CVE-2020-5902 | (CVE-2020-5902) BIG IP F5 TMUI RCE Vulnerability RCE PoC/ Test Script  | https://github.com/ludy-dev/BIG-IP-F5-TMUI-RCE-Vulnerability | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 00 MINUTES 28 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201107T13:03:43Z | CVE-2020-17496 | (CVE-2020-17496) vBulletin 5.x Widget_tabbedcontainer_tab_panel RCE Vuln Test script | https://github.com/ludy-dev/vBulletin_5.x-tab_panel-RCE | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 57 MINUTES 25 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201107T12:45:21Z | CVE-2020-28328 | Writeup on CVE-2020-28328: SuiteCRM Log File Remote Code Execution plus some bonus Cross-Site Scripting | https://github.com/mcorybillington/SuiteCRM-RCE | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 56 MINUTES 36 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201107T10:08:19Z | CVE-2020-5902 | (CVE-2020-5902) BIG IP F5 TMUI RCE Vulnerability RCE PoC/ Test Script  | https://github.com/ludy-dev/BIG-IP-F5-TMUI-RCE-Vulnerability | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 57 MINUTES 26 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20201107T10:00:24Z | CVE-2020-3452 | (CVE-2020-3452) Cisco Adaptive Security Appliance Software - Local File Inclusion Vuln Test sciript | https://github.com/ludy-dev/Cisco-ASA-LFI | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
-| 20201107T08:42:32Z | CVE-2020-14882 | Exphub[漏洞利用脚本库] 包括Webloigc、Struts2、Tomcat、Nexus、Solr、Jboss、Drupal的漏洞利用脚本，最新添加CVE-2020-14882、CVE-2020-11444、CVE-2020-10204、CVE-2020-10199、CVE-2020-1938、CVE-2020-2551、CVE-2020-2555、CVE-2020-2883、CVE-2019-17558、CVE-2019-6340 | https://github.com/zhzyker/exphub | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
-| 20201106T19:16:59Z | CVE-2020-14750 | PoC para las vulnerabilidades CVE-2020-14750 y cve-2020-14882 | https://github.com/pprietosanchez/CVE-2020-14750 | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
 
 
 # klee on Github 推荐
@@ -85,46 +85,46 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20201108T02:30:54Z | Vulnerabilities% Risk of Exploitation | https://github.com/thiagofigcosta/V-REx | 0 | 0| 
-| 20201108T02:17:39Z | exploits for vm phoenix of exploit education https://exploit.education/phoenix/ | https://github.com/gu1mas/exploit-education_writeups | 0 | 0| 
-| 20201108T01:41:31Z | Privescker - make life easier by dumping all your common Windows enum, privesc and post exploitation scripts and tools on to the box in one go. | https://github.com/atthacks/Privescker | 5 | 0| 
-| 20201108T01:27:55Z | CS3103 Project | https://github.com/CS3103-Group10/exploitable-app | 0 | 0| 
-| 20201108T01:11:16Z | exploits and proof-of-concept vulnerability demonstration files from the team at Hacker House | https://github.com/hackerhouse-opensource/exploits | 187 | 55| 
-| 20201108T00:40:31Z | Repository for %I Fought The Law and The Law Lost% talk. Featured on Recon Village @ DEFCON 26, Las Vegas (And many other conferences!) | https://github.com/MauroEldritch/ifoughtthelaw | 4 | 1| 
-| 20201107T23:39:20Z | A website that demonstrates how a csrf-exploit works. Project for CIS 5370 | https://github.com/fpaul787/csrf-exploit | 0 | 0| 
-| 20201107T22:33:24Z | A collection of excerpts from various readings. Topics include the intersection of technology with social and political dimensions of society, responses through technological counterculture, and liberation of humankind from exploitative systems of production. | https://github.com/j-lyman/Excerpts | 0 | 0| 
-| 20201107T22:13:07Z | Null | https://github.com/luisroel91/Vulnserver-Fuzzing-and-Exploitation | 0 | 0| 
-| 20201107T20:57:22Z | Liste des outils pouvant etre utiles après une exploitation | https://github.com/QuentR73/Post-Exploitation | 0 | 0| 
+| 20201108T12:58:54Z | Null | https://github.com/0xleetx/exploit-exerciese-solutions | 0 | 0| 
+| 20201108T12:58:36Z | Python Exploit which you can use after RCE to uplaod important files to dropbox or can be used to take any important file from computer to dropbox just run the script in victims computer | https://github.com/tathagat22/Rinnegan | 0 | 0| 
+| 20201108T12:56:33Z | Ladon Scanner For Golang (Full platform penetration scanner framework)LadonGo一款开源渗透扫描器框架，使用它可轻松批量探测C段、B段存活主机、指纹识别、端口扫描、密码爆破、高危漏洞检测等。1.0版本包含11个模块功能，高危漏洞检测MS17010、SmbGhost，密码爆破SmbScan、SshScan、FtpScan、MysqlScan，存活探测/信息收集/指纹识别PingScan、IcmpScan，BannerScan、WeblogicScan，端口扫描PortScan。 | https://github.com/k8gege/LadonGo | 48 | 7| 
+| 20201108T12:52:11Z | Repository that tracks public exploits, vulnerabilities and advisories that I [co-]discovered or [co-]authored. | https://github.com/rdomanski/Exploits_and_Advisories | 4 | 1| 
+| 20201108T12:45:48Z | A distributed denial-of-service (DDoS) attack is a malicious attempt to disrupt the normal traffic of a targeted server, service or network by overwhelming the target or its surrounding infrastructure with a flood of Internet traffic.  DDoS attacks achieve effectiveness by utilizing multiple compromised computer systems as sources of attack traffic. Exploited machines can include computers and other networked resources such as IoT devices. | https://github.com/RaghavDabra/DDOS-ATTACK-using-Python-script | 2 | 1| 
+| 20201108T12:36:37Z | Curated list of Unix binaries that can be exploited to bypass system security restrictions | https://github.com/GTFOBins/GTFOBins.github.io | 3535 | 492| 
+| 20201108T12:18:46Z | This bash script will help you to hack remote hosts  | https://github.com/FabioDefilippo/linuxallremote | 1 | 0| 
+| 20201108T12:14:24Z | Null | https://github.com/kwanliang/exploit | 0 | 0| 
+| 20201108T12:12:56Z | TPs de BASH du S4 - UE Système Exploitation FST UJM | https://github.com/Kevin-Grgd/TP_bash | 0 | 0| 
+| 20201108T12:11:17Z | Tentacle is a POC vulnerability verification and exploit framework. It supports free extension of exploits and uses POC scripts. It supports calls to zoomeye, fofa, shodan and other APIs to perform bulk vulnerability verification for multiple targets. | https://github.com/orleven/Tentacle | 235 | 86| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20201108T12:17:41Z | Backdoor Recode :v | https://github.com/ItsTeamSec/backdoor | 0 | 0| 
+| 20201108T12:01:08Z | Backdoor is a fast growing IT and Technology based IT Professional Group. Everyone will get their own IT-based services and solutions. We will learn not only ourselves but also help others to learn so that one day the information-based Bangladesh will be formed, it is a strong bonded from Backdoor. | https://github.com/backdoordhaka/backdoordhaka.github.io | 0 | 0| 
+| 20201108T11:35:25Z | Backdoor server with Spring Boot | https://github.com/apal7/marauders-map-server | 0 | 0| 
+| 20201108T10:44:50Z | Unicorn Framework is an iOS, macOS and Linux post-exploitation framework that using one line command and powerful python payload attempts to spawn a command line session with a lot of features such as downloading files, uploading files, getting system information and etc. | https://github.com/EntySec/unicorn | 7 | 4| 
+| 20201108T09:31:49Z | ParadoxiaRat : Native Windows Remote access Tool. | https://github.com/quantumcored/paradoxiaRAT | 222 | 45| 
+| 20201108T07:39:13Z | This module uses the Metasploit framework built into Kali Linux to create a backdoor | https://github.com/anonymousproo/CyberForce | 0 | 0| 
+| 20201108T05:22:41Z | Backdoors framework based on %Blind Backdoors in Deep Learning Models% | https://github.com/ebagdasa/backdoors101 | 0 | 0| 
+| 20201108T05:12:20Z | Go Inside is a TCP connection based backdoor for executing remote and custom commands, written in the programming language Go (Yes, pun was DEFINITELY intended). | https://github.com/stashito/go-inside | 0 | 0| 
+| 20201108T05:05:03Z | Null | https://github.com/DonkeyRide123/Backdoor | 0 | 0| 
 | 20201108T00:32:11Z | A street cat`s | https://github.com/MatheusMourelhe/backdoor-apk | 0 | 0| 
-| 20201107T22:39:06Z | Just a simple backdoor with custom listener. | https://github.com/TheRavehorn/Simple-Backdoor | 0 | 0| 
-| 20201107T20:56:51Z | Unicorn Framework is an iOS, macOS and Linux post-exploitation framework that using one line command and powerful python payload attempts to spawn a command line session with a lot of features such as downloading files, uploading files, getting system information and etc. | https://github.com/EntySec/unicorn | 7 | 4| 
-| 20201107T19:47:50Z | This module uses the Metasploit framework built into Kali Linux to create a backdoor | https://github.com/anonymousproo/CyberForce | 0 | 0| 
-| 20201107T18:59:04Z | L2X9Core without the backdoor | https://github.com/cube-builder/NonBackdooredL2X9Core | 0 | 0| 
-| 20201107T17:30:15Z | Backdoor server with Spring Boot | https://github.com/apal7/marauders-map-server | 0 | 0| 
-| 20201107T16:37:33Z | A repository that includes the python implementation and the paper%s review of some adversarial attacks. | https://github.com/henrychacon/Backdoor_attacks | 0 | 0| 
-| 20201107T15:44:28Z | Null | https://github.com/TheMasterPlan443/BackDoorAdmin | 0 | 0| 
-| 20201107T15:00:52Z | Backdoor is a fast growing IT and Technology based IT Professional Group. Everyone will get their own IT-based services and solutions. We will learn not only ourselves but also help others to learn so that one day the information-based Bangladesh will be formed, it is a strong bonded from Backdoor. | https://github.com/backdoordhaka/backdoordhaka.github.io | 0 | 0| 
-| 20201107T14:31:00Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 90 | 10| 
 
 
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20201108T02:03:03Z | Senior Capstone Project for Kennesaw State University | https://github.com/MarcussucraM/FuzzyChess | 0 | 1| 
-| 20201108T00:51:42Z | Null | https://github.com/zeddzorandder/fuzzy-couscous | 0 | 0| 
-| 20201108T00:12:24Z | School project | https://github.com/DavidLindtner/FuzzyController-simulink | 0 | 0| 
-| 20201107T23:15:22Z | Null | https://github.com/olegsych/fuzzy | 0 | 0| 
-| 20201107T22:22:02Z | The Official Fuzzy Britches Repository. | https://github.com/ThePapaw/fuzzybritches | 0 | 0| 
-| 20201107T22:13:07Z | Null | https://github.com/luisroel91/Vulnserver-Fuzzing-and-Exploitation | 0 | 0| 
-| 20201107T22:01:46Z | Ethereum smart contract fuzzer | https://github.com/crytic/echidna | 500 | 80| 
-| 20201107T21:56:36Z | Repository which hold experiments pertaining to fuzzy commitment schemes.  | https://github.com/jweezy24/Fuzzy_Cryptography | 0 | 0| 
-| 20201107T21:50:38Z | Fuzzy Peer Group Algorithm  | https://github.com/alexandrufiruti/fuzzypeergroups | 0 | 0| 
-| 20201107T21:00:40Z | A differential fuzzer for x86 decoders | https://github.com/trailofbits/mishegos | 111 | 16| 
+| 20201108T12:51:02Z | Fuzzaldrin plus - fast using native C++ bindings | https://github.com/atom-ide-community/fuzzaldrin-plus-fast | 2 | 3| 
+| 20201108T12:31:17Z | Nowcasting and blending | https://github.com/Aitorrent/fuzzy_garbanzo | 0 | 0| 
+| 20201108T12:28:26Z | Null | https://github.com/zeddzorandder/fuzzy-couscous | 0 | 0| 
+| 20201108T11:12:06Z | AWS CodePipeline learning | https://github.com/nskarthi/fuzzy-telegram | 0 | 0| 
+| 20201108T11:03:42Z | My program for Intro to AI, fuzzy logic assignment . | https://github.com/zaRizk7/fuzzy-logic | 0 | 0| 
+| 20201108T10:17:45Z | some fun codes on Course in Fuzzy Systems and Control course that I have taken at university. | https://github.com/alabazazzade/fuzzy-systems-and-control | 0 | 0| 
+| 20201108T07:43:49Z | Null | https://github.com/wodhks08/DumbFuzzerTest | 0 | 0| 
+| 20201108T05:47:35Z | Scalable fuzzing infrastructure. | https://github.com/google/clusterfuzz | 4359 | 395| 
+| 20201108T05:46:03Z | Bug hunting through fuzzer/*-sanitizer/etc... | https://github.com/hardenedlinux/harbian-qa | 103 | 17| 
+| 20201108T05:29:48Z | Null | https://github.com/0xFuzz/0xFuzz.github.io | 0 | 0| 
 
 
 
