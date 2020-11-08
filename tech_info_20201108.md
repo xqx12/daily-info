@@ -21,7 +21,7 @@
 | 20201108T13:39:10Z | CVE-2020-13277 | CVE-2020-13277 靶场： 任意用户越权执行 Gitlab Pipeline Jobs 漏洞 | https://github.com/lyy289065406/CVE-2020-13277 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 03 MINUTES 35 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20201108T13:25:59Z | CVE-2020-14882 | Exphub[漏洞利用脚本库] 包括Webloigc、Struts2、Tomcat、Nexus、Solr、Jboss、Drupal的漏洞利用脚本，最新添加CVE-2020-14882、CVE-2020-11444、CVE-2020-10204、CVE-2020-10199、CVE-2020-1938、CVE-2020-2551、CVE-2020-2555、CVE-2020-2883、CVE-2019-17558、CVE-2019-6340 | https://github.com/zhzyker/exphub | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
 | 20201108T11:52:48Z | CVE-2020-14882 | Vulmap - Web漏洞扫描和验证工具，可对Web容器、Web服务器、Web中间件以及CMS等Web程序进行漏洞扫描，并且具备漏洞利用功能。 相关测试人员可以使用vulmap检测目标是否存在特定漏洞，并且可以使用漏洞利用功能验证漏洞是否真实存在。CVE-2020-14882, CVE-2020-2555, CVE-2020-2883 | https://github.com/zhzyker/vulmap | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
-| 20201108T09:51:38Z | CVE-2020-1472 | Exploit Code for CVE-2020-1472 aka Zerologon | https://github.com/VoidSec/CVE-2020-1472 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 04 MINUTES 27 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201108T09:51:38Z | CVE-2020-1472 | Exploit Code for CVE-2020-1472 aka Zerologon | https://github.com/VoidSec/CVE-2020-1472 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 03 MINUTES 31 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20201108T00:50:47Z | CVE-2020-13277 | CVE-2020-13277 的 PoC Repository | https://github.com/lyy289065406/CVE-2020-13277-poc | | 
 
 
@@ -38,6 +38,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20201108T13:56:33Z | JNDI注入测试工具（A tool which generates JNDI links can start several servers to exploit JNDI Injection vulnerability,like Jackson,Fastjson,etc） | https://github.com/TheKingOfDuck/JNDI-Injection-Exploit | 0 | 0| 
 | 20201108T13:55:20Z | Null | https://github.com/0xleetx/exploit-exerciese-solutions | 0 | 0| 
 | 20201108T13:48:41Z | This is frontend of poker game | https://github.com/nikitaKolik/exploit-frontend | 0 | 0| 
 | 20201108T13:10:56Z | post_exploitation | https://github.com/dar3k93/post_exploitation | 1 | 0| 
@@ -47,7 +48,6 @@
 | 20201108T12:45:48Z | A distributed denial-of-service (DDoS) attack is a malicious attempt to disrupt the normal traffic of a targeted server, service or network by overwhelming the target or its surrounding infrastructure with a flood of Internet traffic.  DDoS attacks achieve effectiveness by utilizing multiple compromised computer systems as sources of attack traffic. Exploited machines can include computers and other networked resources such as IoT devices. | https://github.com/RaghavDabra/DDOS-ATTACK-using-Python-script | 2 | 1| 
 | 20201108T12:36:37Z | Curated list of Unix binaries that can be exploited to bypass system security restrictions | https://github.com/GTFOBins/GTFOBins.github.io | 3535 | 492| 
 | 20201108T12:18:46Z | This bash script will help you to hack remote hosts  | https://github.com/FabioDefilippo/linuxallremote | 1 | 0| 
-| 20201108T12:14:24Z | Null | https://github.com/kwanliang/exploit | 0 | 0| 
 
 
 # backdoor on Github 推荐
@@ -68,6 +68,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20201108T13:56:47Z | Runs levenshtein algorithm and returns data where insertions, deletions and substitutions occured. | https://github.com/gnames/fuzzy-diff | 0 | 0| 
 | 20201108T13:54:03Z | Repository holding database dumps from getfursu.it | https://github.com/veelkoov/fuzzrake-data | 0 | 0| 
 | 20201108T13:41:29Z | Data mahasiswa.xls ditaruh disini | https://github.com/condroagung/Fuzzy_Source_file | 0 | 0| 
 | 20201108T13:33:38Z | Personal website of Laurence Hughes | https://github.com/fuzzylogicxx/fuzzylogic | 4 | 1| 
@@ -77,7 +78,6 @@
 | 20201108T12:51:02Z | Fuzzaldrin plus - fast using native C++ bindings | https://github.com/atom-ide-community/fuzzaldrin-plus-fast | 2 | 3| 
 | 20201108T12:31:17Z | Nowcasting and blending | https://github.com/Aitorrent/fuzzy_garbanzo | 0 | 0| 
 | 20201108T11:12:06Z | AWS CodePipeline learning | https://github.com/nskarthi/fuzzy-telegram | 0 | 0| 
-| 20201108T11:03:42Z | My program for Intro to AI, fuzzy logic assignment . | https://github.com/zaRizk7/fuzzy-logic | 0 | 0| 
 
 
 
