@@ -18,10 +18,10 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20201108T21:38:22Z | CVE-2020-15227 | CVE-2020-15227 exploit | https://github.com/Langriklol/CVE-2020-15227 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 55 MINUTES 31 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20201108T18:20:52Z | CVE-2020-13277 | CVE-2020-13277 靶场： Gitlab 逻辑漏洞 - 任意用户越权访问私有仓库 | https://github.com/lyy289065406/CVE-2020-13277 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 55 MINUTES 33 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20201108T15:20:36Z | CVE-2020-1472 | Exploit Code for CVE-2020-1472 aka Zerologon | https://github.com/VoidSec/CVE-2020-1472 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 55 MINUTES 30 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20201108T15:17:04Z | CVE-2020-14882 | Vulmap - Web漏洞扫描和验证工具，可对Web容器、Web服务器、Web中间件以及CMS等Web程序进行漏洞扫描，并且具备漏洞利用功能。 相关测试人员可以使用vulmap检测目标是否存在特定漏洞，并且可以使用漏洞利用功能验证漏洞是否真实存在。CVE-2020-14882, CVE-2020-2555, CVE-2020-2883 | https://github.com/zhzyker/vulmap | | 
+| 20201108T21:38:22Z | CVE-2020-15227 | CVE-2020-15227 exploit | https://github.com/Langriklol/CVE-2020-15227 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 54 MINUTES 31 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201108T18:20:52Z | CVE-2020-13277 | CVE-2020-13277 靶场： Gitlab 逻辑漏洞 - 任意用户越权访问私有仓库 | https://github.com/lyy289065406/CVE-2020-13277 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 54 MINUTES 33 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201108T15:20:36Z | CVE-2020-1472 | Exploit Code for CVE-2020-1472 aka Zerologon | https://github.com/VoidSec/CVE-2020-1472 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 54 MINUTES 29 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201108T15:17:04Z | CVE-2020-14882 | Vulmap - Web漏洞扫描和验证工具，可对Web容器、Web服务器、Web中间件以及CMS等Web程序进行漏洞扫描，并且具备漏洞利用功能。 相关测试人员可以使用vulmap检测目标是否存在特定漏洞，并且可以使用漏洞利用功能验证漏洞是否真实存在。CVE-2020-14882, CVE-2020-2555, CVE-2020-2883 | https://github.com/zhzyker/vulmap | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
 | 20201108T13:25:59Z | CVE-2020-14882 | Exphub[漏洞利用脚本库] 包括Webloigc、Struts2、Tomcat、Nexus、Solr、Jboss、Drupal的漏洞利用脚本，最新添加CVE-2020-14882、CVE-2020-11444、CVE-2020-10204、CVE-2020-10199、CVE-2020-1938、CVE-2020-2551、CVE-2020-2555、CVE-2020-2883、CVE-2019-17558、CVE-2019-6340 | https://github.com/zhzyker/exphub | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
 | 20201108T00:50:47Z | CVE-2020-13277 | CVE-2020-13277 的 PoC Repository | https://github.com/lyy289065406/CVE-2020-13277-poc | | 
 
@@ -43,13 +43,13 @@
 | 20201108T22:34:01Z | Null | https://github.com/kwanliang/exploit | 0 | 0| 
 | 20201108T22:32:57Z | Coming Soon | https://github.com/Mellonyt/Roblox-Adress-Dumper | 2 | 0| 
 | 20201108T22:32:44Z | This bash script will help you to hack remote hosts  | https://github.com/FabioDefilippo/linuxallremote | 1 | 0| 
-| 20201108T21:54:29Z | Unfinished/Practice/Roblox Exploiting Scripts | https://github.com/yogurtsss/Practice-Projects- | 0 | 0| 
 | 20201108T21:18:24Z | CTF pwn challenges exploits. | https://github.com/lockedbyte/exploit-challenges | 1 | 0| 
 | 20201108T20:51:14Z | Discord exploit id for the start of the token | https://github.com/NAOYY/ID-to-Token | 0 | 0| 
 | 20201108T20:03:09Z | CTFs I%ve played so far | https://github.com/AravGarg/CTFarchives | 14 | 4| 
 | 20201108T19:51:18Z | Metasploit Utilities, Post Exploit Scripts and other scripts primarily for reference | https://github.com/reg1reg1/Exploits | 0 | 0| 
 | 20201108T19:21:21Z | Towelroot Exploitation | https://github.com/elongl/towelroot | 0 | 0| 
 | 20201108T19:12:39Z | Feature-rich Post Exploitation Framework with Network Pivoting capabilities. | https://github.com/quantumcored/maalik | 22 | 4| 
+| 20201108T19:08:17Z | exploits and proof-of-concept vulnerability demonstration files from the team at Hacker House | https://github.com/hackerhouse-opensource/exploits | 191 | 56| 
 
 
 # backdoor on Github 推荐
