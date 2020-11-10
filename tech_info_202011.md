@@ -6,6 +6,13 @@
 # 玄武实验室 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20201110 | Ubuntu gdm3 CVE-2020-16125 本地提权漏洞分析 | https://securitylab.github.com/advisories/GHSL-2020-202-gdm3-LPE-unresponsive-accounts-daemon/| 
+| 20201110 | V8: Turbofan fails to deoptimize code after map deprecation, leading to type confusion | https://bugs.chromium.org/p/project-zero/issues/detail?id=2106| 
+| 20201110 | The Kubernetes Handbook | https://www.freecodecamp.org/news/the-kubernetes-handbook/| 
+| 20201110 | Booting a macOS Apple Silicon kernel in QEMU | https://worthdoingbadly.com/xnuqemu3/| 
+| 20201110 | TP-Link Takeover with a Flash Drive | https://medium.com/tenable-techblog/tp-link-takeover-with-a-flash-drive-d493666f6b39| 
+| 20201110 | TCL Android 智能电视多个高危漏洞分析 | https://sick.codes/extraordinary-vulnerabilities-discovered-in-tcl-android-tvs-now-worlds-3rd-largest-tv-manufacturer/| 
+| 20201110 | JavaScriptCore Internals - 从 JS 源码到 Bytecode 字节码的编译过程分析 | https://zon8.re/posts/jsc-internals-part1-tracing-js-source-to-bytecode/| 
 | 20201109 | 编写驱动程序来处理模糊测试的Hyper-V“桥”教程系列 —第2部分：超级调用和MDLs功能介绍。 | https://alex-ionescu.com/?p=471| 
 | 20201109 | Windows WOW64 子系统及其相关的 Hook 技术 | https://www.fireeye.com/blog/threat-research/2020/11/wow64-subsystem-internals-and-hooking-techniques.html| 
 | 20201108 | C++语言接口基础（CLIF）知识介绍。 | https://github.com/google/clif| 
@@ -19,13 +26,6 @@
 | 20201105 | Apache Tomcat WebSocket CVE-2020-13935 漏洞分析 | https://blog.redteam-pentesting.de/2020/websocket-vulnerability-tomcat/| 
 | 20201105 | 通过分析 /proc/maps 映射信息检测 Android App 的动态加载行为 | https://sayfer.io/blog/dynamic-loading-in-android-applications-with-proc-maps/| 
 | 20201105 | Reading and Writing Firmware on an STM32 using SWD | https://cybergibbons.com/hardware-hacking/reading-and-writing-firmware-on-an-stm32-using-swd/| 
-| 20201105 | Linux Rootkits 系列文章 - 如何为 Linux 编写 Rootkit | https://xcellerator.github.io/posts/linux_rootkits_01/| 
-| 20201105 | 为 Ghidra 二进制分析工具编写脚本，辅助还原 stripped 二进制内的结构体 | https://github.com/grimm-co/GEARSHIFT| 
-| 20201105 | Infection Monkey - 自动化的渗透测试工具 | https://github.com/guardicore/monkey| 
-| 20201105 | FireEye 对 Solaris 野外已被利用溢出漏洞（CVE-2020-14871）的分析 | https://www.fireeye.com/blog/threat-research/2020/11/critical-buffer-overflow-vulnerability-in-solaris-can-allow-remote-takeover.html| 
-| 20201105 | 利用 RMS 软件和 TeamViewer 攻击工控领域的企业 | https://securelist.com/attacks-on-industrial-enterprises-using-rms-and-teamviewer-new-data/99206/| 
-| 20201105 | Pwn2Own Tokyo 第一天比赛的结果出来了 | https://www.thezdi.com/blog/2020/11/4/pwn2own-tokyo-live-from-toronto-schedule-and-live-results| 
-| 20201105 | INJ3CTOR3 - 有攻击者攻击并控制 VoIP SIP 服务器实现获利 | https://research.checkpoint.com/2020/inj3ctor3-operation-leveraging-asterisk-servers-for-monetization/| 
 
 
 # 安全维基 推荐
@@ -46,22 +46,23 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20201110T02:58:27Z | CVE-2020-14882 | Vulmap - Web漏洞扫描和验证工具，可对Web容器、Web服务器、Web中间件以及CMS等Web程序进行漏洞扫描，并且具备漏洞利用功能。 相关测试人员可以使用vulmap检测目标是否存在特定漏洞，并且可以使用漏洞利用功能验证漏洞是否真实存在。CVE-2020-14882, CVE-2020-2555, CVE-2020-2883 | https://github.com/zhzyker/vulmap | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
-| 20201110T02:21:20Z | CVE-2020-14750 | PoC para las vulnerabilidades CVE-2020-14750 y cve-2020-14882 | https://github.com/pprietosanchez/CVE-2020-14750 | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
-| 20201110T02:12:54Z | CVE-2020-14882 | Exphub[漏洞利用脚本库] 包括Webloigc、Struts2、Tomcat、Nexus、Solr、Jboss、Drupal的漏洞利用脚本，最新添加CVE-2020-14882、CVE-2020-11444、CVE-2020-10204、CVE-2020-10199、CVE-2020-1938、CVE-2020-2551、CVE-2020-2555、CVE-2020-2883、CVE-2019-17558、CVE-2019-6340 | https://github.com/zhzyker/exphub | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
+| 20201110T10:54:39Z | CVE-2020-14750 | PoC para las vulnerabilidades CVE-2020-14750 y cve-2020-14882 | https://github.com/pprietosanchez/CVE-2020-14750 | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
+| 20201110T09:10:13Z | CVE-2020-8840 | Jackson-databind远程代码执行漏洞（CVE-2020-8840）分析复现环境代码存档 | https://github.com/veraxy9821/CVE-2020-8840 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 58 MINUTES 40 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201110T09:07:30Z | CVE-2020-14882 | Vulmap - Web漏洞扫描和验证工具，可对Web容器、Web服务器、Web中间件以及CMS等Web程序进行漏洞扫描，并且具备漏洞利用功能。 相关测试人员可以使用vulmap检测目标是否存在特定漏洞，并且可以使用漏洞利用功能验证漏洞是否真实存在。CVE-2020-14882, CVE-2020-2555, CVE-2020-2883 | https://github.com/zhzyker/vulmap | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
+| 20201110T08:58:22Z | CVE-2020-14882 | Exphub[漏洞利用脚本库] 包括Webloigc、Struts2、Tomcat、Nexus、Solr、Jboss、Drupal的漏洞利用脚本，最新添加CVE-2020-14882、CVE-2020-11444、CVE-2020-10204、CVE-2020-10199、CVE-2020-1938、CVE-2020-2551、CVE-2020-2555、CVE-2020-2883、CVE-2019-17558、CVE-2019-6340 | https://github.com/zhzyker/exphub | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
+| 20201110T03:16:31Z | CVE-2020-13277 | CVE-2020-13277 靶场： Gitlab 逻辑漏洞 - 任意用户越权访问私有仓库 | https://github.com/lyy289065406/CVE-2020-13277 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 58 MINUTES 11 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20201109T18:28:48Z | CVE-2020-14750 | Null | https://github.com/kkhacklabs/CVE-2020-14750 | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
 | 20201109T17:21:47Z | CVE-2020-14883 | [CVE-2020-14882] Oracle WebLogic Server Authenticated Remote Code Execution (RCE) | https://github.com/murataydemir/CVE-2020-14883 | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
 | 20201109T16:35:41Z | CVE-2020-14882 | [CVE-2020-14882] Oracle WebLogic Server Authentication Bypass | https://github.com/murataydemir/CVE-2020-14882 | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
-| 20201109T13:56:50Z | CVE-2020-28328 | Writeup on CVE-2020-28328: SuiteCRM Log File Remote Code Execution plus some bonus Cross-Site Scripting | https://github.com/mcorybillington/SuiteCRM-RCE | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  20 HOURS 59 MINUTES 56 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20201109T13:36:05Z | CVE-2020-28351 | CVE-2020-28351 - Reflected Cross-Site Scripting attack in ShoreTel version 19.46.1802.0. | https://github.com/dievus/CVE-2020-28351 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 00 MINUTES 08 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20201109T13:01:56Z | CVE-2020-27194 | my exp for CVE-2020-27194, tested on linux kernel 5.8.14. | https://github.com/xmzyshypnc/CVE-2020-27194 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 00 MINUTES 17 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20201109T11:18:15Z | CVE-2020-13277 | CVE-2020-13277 靶场： Gitlab 逻辑漏洞 - 任意用户越权访问私有仓库 | https://github.com/lyy289065406/CVE-2020-13277 | | 
+| 20201109T13:56:50Z | CVE-2020-28328 | Writeup on CVE-2020-28328: SuiteCRM Log File Remote Code Execution plus some bonus Cross-Site Scripting | https://github.com/mcorybillington/SuiteCRM-RCE | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 58 MINUTES 13 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201109T13:36:05Z | CVE-2020-28351 | CVE-2020-28351 - Reflected Cross-Site Scripting attack in ShoreTel version 19.46.1802.0. | https://github.com/dievus/CVE-2020-28351 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 58 MINUTES 19 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20201109T23:57:42Z | Symbiotic is a tool for finding bugs in computer programs based on instrumentation, program slicing and KLEE | https://github.com/staticafi/symbiotic | 200 | 33| 
+| 20201110T09:54:18Z | Symbiotic is a tool for finding bugs in computer programs based on instrumentation, program slicing and KLEE | https://github.com/staticafi/symbiotic | 200 | 33| 
+| 20201110T03:58:42Z | Create CFGs and compute complexity metrics for Python, C++, and Java code. | https://github.com/hmc-alpaqa/metrinome | 5 | 0| 
 | 20201109T19:39:20Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1538 | 467| 
 | 20201109T17:09:04Z | Null | https://github.com/kyechou/aur-klee-libcxx | 0 | 0| 
 | 20201109T16:25:33Z | Null | https://github.com/kyechou/aur-klee-git | 0 | 0| 
@@ -70,7 +71,6 @@
 | 20201109T11:16:05Z | RVT is a collection of tools/libraries to support both static and dynamic verification of Rust programs. | https://github.com/project-oak/rust-verification-tools | 94 | 5| 
 | 20201109T10:44:31Z | One place for all of my workshops | https://github.com/kleenxcoder/kleenxcoder-workshops | 0 | 0| 
 | 20201109T03:37:57Z | Null | https://github.com/kyechou/aur-klee | 0 | 0| 
-| 20201108T17:45:30Z | Urban Evidence Based Policy (SPPA667) | https://github.com/KLeeDE/PUS2020_KLee | 0 | 1| 
 
 
 # s2e on Github 推荐
@@ -85,46 +85,46 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20201110T02:58:27Z | Vulmap - Web漏洞扫描和验证工具，可对Web容器、Web服务器、Web中间件以及CMS等Web程序进行漏洞扫描，并且具备漏洞利用功能。 相关测试人员可以使用vulmap检测目标是否存在特定漏洞，并且可以使用漏洞利用功能验证漏洞是否真实存在。CVE-2020-14882, CVE-2020-2555, CVE-2020-2883 | https://github.com/zhzyker/vulmap | 322 | 51| 
-| 20201110T02:53:22Z | Unfinished/Practice/Roblox Exploiting Scripts | https://github.com/yogurtsss/Practice-Projects- | 0 | 0| 
-| 20201110T02:40:08Z | pwninit - automate starting binary exploit challenges | https://github.com/io12/pwninit | 112 | 7| 
-| 20201110T02:37:17Z | exploits and proof-of-concept vulnerability demonstration files from the team at Hacker House | https://github.com/hackerhouse-opensource/exploits | 194 | 56| 
-| 20201110T02:16:35Z | This repo contains the implementation of paper Exploiting Neuron and Synapse Filter Dynamics in Spatial Temporal Learning of Deep Spiking Neural Network. It trains spiking neural network to learn spatial temporal patterns. | https://github.com/Snow-Crash/snn-iir | 27 | 3| 
-| 20201110T02:13:30Z | Exploits and Adventures of a Soldier Ashore and Afloat by William Llewellyn Adams is a Project Gutenberg book, now on Github. | https://github.com/GITenberg/Exploits-and-Adventures-of-a-Soldier-Ashore-and-Afloat_63571 | 0 | 0| 
-| 20201110T01:54:05Z | IoT 固件漏洞复现环境 | https://github.com/firmianay/IoT-vulhub | 83 | 6| 
-| 20201110T01:49:52Z | StandIn is a small .NET35/45 AD post-exploitation toolkit | https://github.com/FuzzySecurity/StandIn | 62 | 12| 
-| 20201110T01:42:47Z | Roblox Exploit Named %REKID% | https://github.com/ExoticN01/RektSploit | 0 | 0| 
-| 20201110T00:52:00Z | windows and linux streams for post exploitation | https://github.com/kymb0/post_exploitation | 1 | 0| 
+| 20201110T13:00:01Z | Exploitation du fichier insee sirene, et des autres fichiers qui l%accompagnent. | https://github.com/lepene/Sirene | 0 | 0| 
+| 20201110T12:59:54Z | Different types of exploits created by me or found in the depths of the internet. | https://github.com/at0mik/own-exploits | 4 | 3| 
+| 20201110T12:54:03Z | Tentacle is a POC vulnerability verification and exploit framework. It supports free extension of exploits and uses POC scripts. It supports calls to zoomeye, fofa, shodan and other APIs to perform bulk vulnerability verification for multiple targets. | https://github.com/orleven/Tentacle | 235 | 86| 
+| 20201110T12:51:33Z | Dual-Teacher++: Exploiting Intra-domain andInter-domain Knowledge with Reliable Transferfor Cardiac Segmentation | https://github.com/kli-lalala/Dual-Teacher- | 0 | 0| 
+| 20201110T12:48:56Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 6 | 4| 
+| 20201110T12:45:22Z | !!!WORLD%S 🌍 #1🥇 TOR HACKING SUITE!!! Designed to scan and exploit vulnerabilities within Tor hidden services. Vigilante allows most tools to work as normal while resolving .onion  | https://github.com/MBHudson/Vigilante-Toolset | 12 | 5| 
+| 20201110T12:14:56Z | Curated list of Unix binaries that can be exploited to bypass system security restrictions | https://github.com/GTFOBins/GTFOBins.github.io | 3555 | 496| 
+| 20201110T12:10:00Z | JavaScript-related vulnerabilities are becoming a major security threat to hybrid mobile applications. In this article, we present a systematic study to understand how JavaScript is used in real-world Android apps and how it may lead to security vulnerabilities. We begin by conducting an empirical study on the top-100 most popular Android apps to investigate JavaScript usage and its related security vulnerabilities. Our study identifies four categories of JavaScript usage and finds that three of these categories, if inappropriately used, can respectively lead to three types of vulnerabilities. We also design and implement an automatic tool named JSDroid to detect JavaScript-related vulnerabilities. We have applied JSDroid to 1,000 large real-world Android apps and found that over 70% of these apps have potential JavaScript-related vulnerabilities and 20% of them can be successfully exploited. Moreover, based on the vulnerabilities identified by JSDroid, we have successfully launched real attacks on 30 real-world apps. | https://github.com/akashocx17/Understanding-JavaScript-Vulnerabilities-in-Large-Real-World-Android-Applications | 1 | 0| 
+| 20201110T12:05:11Z | Old and new CTFs about Linux kernel exploitation. | https://github.com/MaherAzzouzi/kernel-exploitation | 0 | 0| 
+| 20201110T11:33:27Z | Geohazards Thematic Exploitation guide | https://github.com/Terradue/doc-tep-geohazards | 9 | 23| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20201110T02:57:19Z | Hack Windows with FUD backdoor/payload, Escalates LINUX privileges, Devastate Linux, Tunnel forwarding  | https://github.com/Predator0x300/escalator | 1 | 0| 
+| 20201110T12:36:17Z | ParadoxiaRat : Native Windows Remote access Tool. | https://github.com/quantumcored/paradoxiaRAT | 235 | 47| 
+| 20201110T06:09:44Z | Null | https://github.com/penetrators-sec/RANSBOT | 0 | 0| 
+| 20201110T04:48:34Z | is the first version, have some bugs but anyway | https://github.com/ranon-rat/golang-backdoor | 3 | 0| 
+| 20201110T03:03:18Z | Hack Windows with FUD backdoor/payload, Escalates LINUX privileges, Devastate Linux, Tunnel forwarding  | https://github.com/Predator0x300/escalator | 2 | 0| 
 | 20201110T02:09:46Z | Tool to find potential backdoor/security holes in your endpoint | https://github.com/subasgit/backdoorfinder | 1 | 0| 
-| 20201110T01:33:07Z | is the first version, have some bugs but anyway | https://github.com/ranon-rat/golang-backdoor | 0 | 0| 
 | 20201109T22:56:40Z | Null | https://github.com/GREDSY/backdoors | 0 | 0| 
 | 20201109T18:58:14Z | A deck-building roguelike cyberpunk game. | https://github.com/uspgamedev/backdoor | 19 | 3| 
 | 20201109T16:44:49Z | Null | https://github.com/jesusabh/http-www.shellexp.com-help-How-to-use-Chopper-backdoor-2019.html | 0 | 0| 
 | 20201109T15:42:27Z | Backdoors framework based on %Blind Backdoors in Deep Learning Models% | https://github.com/ebagdasa/backdoors101 | 2 | 0| 
-| 20201109T13:19:58Z | ParadoxiaRat : Native Windows Remote access Tool. | https://github.com/quantumcored/paradoxiaRAT | 230 | 46| 
 | 20201109T09:47:11Z | Unicorn Framework is an iOS, macOS and Linux post-exploitation framework that using one line command and powerful python payload attempts to spawn a command line session with a lot of features such as downloading files, uploading files, getting system information and etc. | https://github.com/EntySec/unicorn | 7 | 3| 
-| 20201109T07:41:48Z | Null | https://github.com/penetrators-sec/RANSBOT | 0 | 0| 
 
 
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20201110T02:45:12Z | Runs levenshtein algorithm and returns data where insertions, deletions and substitutions occured. | https://github.com/gnames/fuzzy-diff | 0 | 0| 
-| 20201110T02:32:43Z | Null | https://github.com/Apache360/FuzzyLogicApp | 0 | 0| 
-| 20201110T02:08:32Z | this fuzzer detect DOM based XSS in chrome extension  | https://github.com/kurotojp/fuzzer | 0 | 0| 
-| 20201110T01:52:16Z | A feedback-based kernel fuzzer powered by Intel PT. This is a Fork from IntelLabs/kAFL. | https://github.com/hack-rabbit/kAFL | 0 | 0| 
-| 20201110T01:09:08Z | Null | https://github.com/LGuilhermeRodrigues/fuzzy-logic-game | 0 | 0| 
-| 20201110T00:53:03Z | OSS-Fuzz - continuous fuzzing of open source software. | https://github.com/google/oss-fuzz | 5637 | 1113| 
-| 20201110T00:51:36Z | A collection of fuzzy logic projects in MATLAB. | https://github.com/bronzeRaf/fuzzies | 0 | 0| 
-| 20201110T00:36:29Z | Null | https://github.com/MSE-QualityAssurance/FuzzyBunnies | 0 | 0| 
-| 20201110T00:36:24Z | mitmproxy simple fuzzer addon | https://github.com/knrdv/mitm-fuzzer | 0 | 0| 
-| 20201110T00:30:56Z | Null | https://github.com/terminal-labs/fuzzball-states | 0 | 0| 
+| 20201110T12:48:33Z | Null | https://github.com/s9varesc/url-fuzzing-docker | 0 | 0| 
+| 20201110T12:45:47Z | A fuzzer that generates random Go programs | https://github.com/ALTree/microsmith | 6 | 0| 
+| 20201110T12:43:42Z | This tool uses fzf(1)-like fuzzy-finder to do partial or fuzzy search of Kubernetes resources. Instead of specifying full resource names to kubectl commands, you can choose them from an interactive list that you can filter by typing a few characters. | https://github.com/d-kuro/kubectl-fuzzy | 67 | 8| 
+| 20201110T12:35:06Z | Null | https://github.com/s9varesc/url-fuzzing | 0 | 0| 
+| 20201110T12:24:56Z | Null | https://github.com/fuzzy-set/fuzzy-set.github.io | 0 | 0| 
+| 20201110T10:14:50Z | Config files & folders for fuzzing | https://github.com/pacenoge/configs | 0 | 1| 
+| 20201110T10:12:11Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 3215 | 742| 
+| 20201110T10:04:24Z | Collection of quality safety articles | https://github.com/tom0li/collection-document | 1288 | 411| 
+| 20201110T10:00:37Z | 🚀 | https://github.com/A6a7H/Fuzzyloopa | 1 | 0| 
+| 20201110T09:52:51Z | The Book %Generating Software Tests% | https://github.com/uds-se/fuzzingbook | 437 | 88| 
 
 
 
