@@ -23,11 +23,12 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20201110T13:33:39Z | 未知编号 | Early 2019 - late 2020. R.I.P. https://h0mbre.github.io/RyzenMaster_CVE/# | https://github.com/ekknod/EC_PRO-LAN | 未查询到CVE信息| 
 | 20201110T10:54:39Z | CVE-2020-14750 | PoC para las vulnerabilidades CVE-2020-14750 y cve-2020-14882 | https://github.com/pprietosanchez/CVE-2020-14750 | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
-| 20201110T09:10:13Z | CVE-2020-8840 | Jackson-databind远程代码执行漏洞（CVE-2020-8840）分析复现环境代码存档 | https://github.com/veraxy9821/CVE-2020-8840 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 27 MINUTES 36 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201110T09:10:13Z | CVE-2020-8840 | Jackson-databind远程代码执行漏洞（CVE-2020-8840）分析复现环境代码存档 | https://github.com/veraxy9821/CVE-2020-8840 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 23 MINUTES 40 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20201110T09:07:30Z | CVE-2020-14882 | Vulmap - Web漏洞扫描和验证工具，可对Web容器、Web服务器、Web中间件以及CMS等Web程序进行漏洞扫描，并且具备漏洞利用功能。 相关测试人员可以使用vulmap检测目标是否存在特定漏洞，并且可以使用漏洞利用功能验证漏洞是否真实存在。CVE-2020-14882, CVE-2020-2555, CVE-2020-2883 | https://github.com/zhzyker/vulmap | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
 | 20201110T08:58:22Z | CVE-2020-14882 | Exphub[漏洞利用脚本库] 包括Webloigc、Struts2、Tomcat、Nexus、Solr、Jboss、Drupal的漏洞利用脚本，最新添加CVE-2020-14882、CVE-2020-11444、CVE-2020-10204、CVE-2020-10199、CVE-2020-1938、CVE-2020-2551、CVE-2020-2555、CVE-2020-2883、CVE-2019-17558、CVE-2019-6340 | https://github.com/zhzyker/exphub | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
-| 20201110T03:16:31Z | CVE-2020-13277 | CVE-2020-13277 靶场： Gitlab 逻辑漏洞 - 任意用户越权访问私有仓库 | https://github.com/lyy289065406/CVE-2020-13277 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 26 MINUTES 55 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201110T03:16:31Z | CVE-2020-13277 | CVE-2020-13277 靶场： Gitlab 逻辑漏洞 - 任意用户越权访问私有仓库 | https://github.com/lyy289065406/CVE-2020-13277 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 24 MINUTES 18 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 
 
 # klee on Github 推荐
@@ -60,7 +61,8 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20201110T13:15:21Z | ParadoxiaRat : Native Windows Remote access Tool. | https://github.com/quantumcored/paradoxiaRAT | 236 | 48| 
+| 20201110T13:36:25Z | A listener and a receiver. Can be used for transferring data remotely or can be use as a backdoor. | https://github.com/aka1412/backdoor | 1 | 1| 
+| 20201110T13:35:33Z | ParadoxiaRat : Native Windows Remote access Tool. | https://github.com/quantumcored/paradoxiaRAT | 237 | 48| 
 | 20201110T06:09:44Z | Null | https://github.com/penetrators-sec/RANSBOT | 0 | 0| 
 | 20201110T04:48:34Z | is the first version, have some bugs but anyway | https://github.com/ranon-rat/golang-backdoor | 3 | 0| 
 | 20201110T03:03:18Z | Hack Windows with FUD backdoor/payload, Escalates LINUX privileges, Devastate Linux, Tunnel forwarding  | https://github.com/Predator0x300/escalator | 2 | 0| 
@@ -70,6 +72,8 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20201110T13:36:37Z | My program for Intro to AI, fuzzy logic assignment . | https://github.com/zaRizk7/fuzzy-logic | 0 | 0| 
+| 20201110T13:34:03Z | Fuzz data for the klauspost/compress package | https://github.com/klauspost/compress-fuzz | 2 | 1| 
 | 20201110T13:23:15Z | OSS-Fuzz - continuous fuzzing of open source software. | https://github.com/google/oss-fuzz | 5637 | 1113| 
 | 20201110T13:15:28Z | Collection of quality safety articles | https://github.com/tom0li/collection-document | 1289 | 411| 
 | 20201110T12:48:33Z | Null | https://github.com/s9varesc/url-fuzzing-docker | 0 | 0| 
@@ -78,8 +82,6 @@
 | 20201110T12:35:06Z | Null | https://github.com/s9varesc/url-fuzzing | 0 | 0| 
 | 20201110T12:24:56Z | Null | https://github.com/fuzzy-set/fuzzy-set.github.io | 0 | 0| 
 | 20201110T10:14:50Z | Config files & folders for fuzzing | https://github.com/pacenoge/configs | 0 | 1| 
-| 20201110T10:12:11Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 3215 | 742| 
-| 20201110T10:00:37Z | 🚀 | https://github.com/A6a7H/Fuzzyloopa | 1 | 0| 
 
 
 
