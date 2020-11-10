@@ -6,6 +6,7 @@
 # 玄武实验室 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20201109 | 编写驱动程序来处理模糊测试的Hyper-V“桥”教程系列 —第2部分：超级调用和MDLs功能介绍。 | https://alex-ionescu.com/?p=471| 
 | 20201108 | C++语言接口基础（CLIF）知识介绍。 | https://github.com/google/clif| 
 | 20201108 | jd-cli:是对Java Decompiler反编译器项目命令软件包，可在win与Linux运行使用。 | https://github.com/kwart/jd-cli| 
 | 20201106 | Apple 搜索爬虫在爬取页面时因代理服务器问题会泄露 Apple 的内部 IP 信息 | https://sec.today/pulses/1364d3b1-3922-48d2-bfe8-82a6cd99eedb/| 
@@ -25,7 +26,6 @@
 | 20201105 | Pwn2Own Tokyo 第一天比赛的结果出来了 | https://www.thezdi.com/blog/2020/11/4/pwn2own-tokyo-live-from-toronto-schedule-and-live-results| 
 | 20201105 | INJ3CTOR3 - 有攻击者攻击并控制 VoIP SIP 服务器实现获利 | https://research.checkpoint.com/2020/inj3ctor3-operation-leveraging-asterisk-servers-for-monetization/| 
 | 20201105 | Zoom Snooping - 通过视频会议时对方的肩膀移动来侧信道猜测密码 | https://threatpost.com/zoom-snooping-passwords/161000/| 
-| 20201104 | 一个可以借助有物理内存读写权限的驱动实现调用任意内核函数的库。 | https://github.com/mq1n/VDM//| 
 
 
 # 安全维基 推荐
@@ -34,43 +34,43 @@
 | 20201109 | KaliLinux常见问题与解决方案 | https://mp.weixin.qq.com/s/Nd-GiDnzk5lDg6g7MvRJhg| 
 | 20201109 | SecWiki周刊（第349期) | https://www.sec-wiki.com/weekly/349| 
 | 20201109 | windows横向渗透中的令牌完整性限制 | https://mp.weixin.qq.com/s/idzRDjcQDPdiAd4dnJQs0w| 
+| 20201109 | HMGNN：异构小图神经网络及其在拉新裂变风控场景的应用 | https://mp.weixin.qq.com/s/VRDOQsEdA-QfNRtKQCSjUA| 
 | 20201107 | 基于跨模态检索的二进制代码-源代码匹配 | https://mp.weixin.qq.com/s/fvnvh25VaHgproPvVT6LDg| 
 | 20201107 | 云上渗透-RDS数据库攻防 | https://xz.aliyun.com/t/8451| 
 | 20201107 | 谷歌浏览器插件 - 渗透测试篇 | https://mp.weixin.qq.com/s/G4I3m46w1adLQbES50wCwg| 
 | 20201107 | 安全学术研究趋势分析 | https://mp.weixin.qq.com/s/UKBhg_tnYIPI6uzuPYn59A| 
 | 20201106 | 黑客诱捕器—蜜罐的部署与使用 | https://mp.weixin.qq.com/s/TPb3E1fRszdEwp6Yyn8mQw| 
 | 20201106 | 谷歌浏览器插件推荐 - 日常使用篇 | https://mp.weixin.qq.com/s/uj3tWDlS9WaYKSc1xDQkAQ| 
-| 20201105 | XSS 实战攻击思路总结 | https://xz.aliyun.com/t/8459| 
 
 
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20201109T13:58:49Z | CVE-2020-14750 | PoC para las vulnerabilidades CVE-2020-14750 y cve-2020-14882 | https://github.com/pprietosanchez/CVE-2020-14750 | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
-| 20201109T13:56:50Z | CVE-2020-28328 | Writeup on CVE-2020-28328: SuiteCRM Log File Remote Code Execution plus some bonus Cross-Site Scripting | https://github.com/mcorybillington/SuiteCRM-RCE | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 00 MINUTES 35 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20201109T13:48:37Z | CVE-2020-14882 | [CVE-2020-14882] Oracle WebLogic Server Authentication Bypass | https://github.com/murataydemir/CVE-2020-14882 | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
-| 20201109T13:36:05Z | CVE-2020-28351 | CVE-2020-28351 - Reflected Cross-Site Scripting attack in ShoreTel version 19.46.1802.0. | https://github.com/dievus/CVE-2020-28351 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 00 MINUTES 38 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20201109T13:01:56Z | CVE-2020-27194 | my exp for CVE-2020-27194, tested on linux kernel 5.8.14. | https://github.com/xmzyshypnc/CVE-2020-27194 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 00 MINUTES 40 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20201109T12:53:38Z | CVE-2020-14882 | Vulmap - Web漏洞扫描和验证工具，可对Web容器、Web服务器、Web中间件以及CMS等Web程序进行漏洞扫描，并且具备漏洞利用功能。 相关测试人员可以使用vulmap检测目标是否存在特定漏洞，并且可以使用漏洞利用功能验证漏洞是否真实存在。CVE-2020-14882, CVE-2020-2555, CVE-2020-2883 | https://github.com/zhzyker/vulmap | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
-| 20201109T11:18:15Z | CVE-2020-13277 | CVE-2020-13277 靶场： Gitlab 逻辑漏洞 - 任意用户越权访问私有仓库 | https://github.com/lyy289065406/CVE-2020-13277 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 00 MINUTES 33 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20201109T09:57:29Z | cve-2020-14882 | CVE-2020-14882 EXP 回显 | https://github.com/wsfengfan/cve-2020-14882 | 未查询到CVE信息| 
-| 20201109T08:57:42Z | CVE-2020-14882 | Exphub[漏洞利用脚本库] 包括Webloigc、Struts2、Tomcat、Nexus、Solr、Jboss、Drupal的漏洞利用脚本，最新添加CVE-2020-14882、CVE-2020-11444、CVE-2020-10204、CVE-2020-10199、CVE-2020-1938、CVE-2020-2551、CVE-2020-2555、CVE-2020-2883、CVE-2019-17558、CVE-2019-6340 | https://github.com/zhzyker/exphub | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
-| 20201109T08:32:20Z | CVE-2020-14882 | Null | https://github.com/QmF0c3UK/CVE-2020-14882 | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
+| 20201109T23:57:17Z | CVE-2020-14750 | PoC para las vulnerabilidades CVE-2020-14750 y cve-2020-14882 | https://github.com/pprietosanchez/CVE-2020-14750 | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
+| 20201109T23:17:33Z | CVE-2020-14882 | Vulmap - Web漏洞扫描和验证工具，可对Web容器、Web服务器、Web中间件以及CMS等Web程序进行漏洞扫描，并且具备漏洞利用功能。 相关测试人员可以使用vulmap检测目标是否存在特定漏洞，并且可以使用漏洞利用功能验证漏洞是否真实存在。CVE-2020-14882, CVE-2020-2555, CVE-2020-2883 | https://github.com/zhzyker/vulmap | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
+| 20201109T23:13:54Z | CVE-2020-14882 | Exphub[漏洞利用脚本库] 包括Webloigc、Struts2、Tomcat、Nexus、Solr、Jboss、Drupal的漏洞利用脚本，最新添加CVE-2020-14882、CVE-2020-11444、CVE-2020-10204、CVE-2020-10199、CVE-2020-1938、CVE-2020-2551、CVE-2020-2555、CVE-2020-2883、CVE-2019-17558、CVE-2019-6340 | https://github.com/zhzyker/exphub | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
+| 20201109T18:28:48Z | CVE-2020-14750 | Null | https://github.com/kkhacklabs/CVE-2020-14750 | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
+| 20201109T17:21:47Z | CVE-2020-14883 | [CVE-2020-14882] Oracle WebLogic Server Authenticated Remote Code Execution (RCE) | https://github.com/murataydemir/CVE-2020-14883 | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
+| 20201109T16:35:41Z | CVE-2020-14882 | [CVE-2020-14882] Oracle WebLogic Server Authentication Bypass | https://github.com/murataydemir/CVE-2020-14882 | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
+| 20201109T13:56:50Z | CVE-2020-28328 | Writeup on CVE-2020-28328: SuiteCRM Log File Remote Code Execution plus some bonus Cross-Site Scripting | https://github.com/mcorybillington/SuiteCRM-RCE | 7.11.17之前的SuiteCRM易于通过系统设置“日志文件名”设置来远程执行代码。在涉及管理员帐户接管的某些情况下，logger_file_name可以引用Web根目录下由攻击者控制的.php文件。| 
+| 20201109T13:36:05Z | CVE-2020-28351 | CVE-2020-28351 - Reflected Cross-Site Scripting attack in ShoreTel version 19.46.1802.0. | https://github.com/dievus/CVE-2020-28351 | Mitel ShoreTel 19.46.1802.0 设备上的会议组件可能允许未经身份验证的攻击者（通过 PATH_INFO 到 index.php）执行反射跨站点脚本 （XSS） 攻击，因为 HOME_MEETING& 页中对 time_zone 对象进行验证不足。| 
+| 20201109T13:01:56Z | CVE-2020-27194 | my exp for CVE-2020-27194, tested on linux kernel 5.8.14. | https://github.com/xmzyshypnc/CVE-2020-27194 | 在5.8.15之前的Linux内核中发现了一个问题。 kernel / bpf / verifier.c中的scalar32_min_max_or在使用64位值（即CID-5b9fbeb75b6a）期间错误地处理了边界跟踪。| 
+| 20201109T11:18:15Z | CVE-2020-13277 | CVE-2020-13277 靶场： Gitlab 逻辑漏洞 - 任意用户越权访问私有仓库 | https://github.com/lyy289065406/CVE-2020-13277 | 镜像逻辑中的授权问题允许对GitLab CE / EE 10.6及更高版本至13.0.5中的私有存储库的读取访问| 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20201109T23:57:42Z | Symbiotic is a tool for finding bugs in computer programs based on instrumentation, program slicing and KLEE | https://github.com/staticafi/symbiotic | 200 | 33| 
+| 20201109T19:39:20Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1538 | 467| 
+| 20201109T17:09:04Z | Null | https://github.com/kyechou/aur-klee-libcxx | 0 | 0| 
+| 20201109T16:25:33Z | Null | https://github.com/kyechou/aur-klee-git | 0 | 0| 
+| 20201109T14:04:38Z | Null | https://github.com/tmin97/klee | 0 | 0| 
 | 20201109T13:50:25Z | Website for the KLEE project: https://klee.github.io/ | https://github.com/klee/klee.github.io | 13 | 43| 
 | 20201109T11:16:05Z | RVT is a collection of tools/libraries to support both static and dynamic verification of Rust programs. | https://github.com/project-oak/rust-verification-tools | 94 | 5| 
 | 20201109T10:44:31Z | One place for all of my workshops | https://github.com/kleenxcoder/kleenxcoder-workshops | 0 | 0| 
-| 20201109T06:48:23Z | Null | https://github.com/kyechou/aur-klee-libcxx | 0 | 0| 
 | 20201109T03:37:57Z | Null | https://github.com/kyechou/aur-klee | 0 | 0| 
 | 20201108T17:45:30Z | Urban Evidence Based Policy (SPPA667) | https://github.com/KLeeDE/PUS2020_KLee | 0 | 1| 
-| 20201107T18:44:51Z | Null | https://github.com/raynard2/SwiftKleen | 1 | 0| 
-| 20201107T16:22:25Z | Null | https://github.com/BeniAnthony/UtSpWgetKLeeThiW17 | 0 | 0| 
-| 20201106T15:45:17Z | Symbiotic is a tool for finding bugs in computer programs based on instrumentation, program slicing and KLEE | https://github.com/staticafi/symbiotic | 199 | 33| 
-| 20201106T12:10:45Z | 这里是可乐的地盘儿！ | https://github.com/KLeeve/kleeve.github.io | 0 | 0| 
 
 
 # s2e on Github 推荐
@@ -85,46 +85,46 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20201109T13:50:03Z | exploits and proof-of-concept vulnerability demonstration files from the team at Hacker House | https://github.com/hackerhouse-opensource/exploits | 191 | 56| 
-| 20201109T13:49:09Z | Vulnerabilities% Risk of Exploitation | https://github.com/thiagofigcosta/V-REx | 0 | 0| 
-| 20201109T13:34:09Z | Ladon Scanner For Golang (Full platform penetration scanner framework)LadonGo一款开源渗透扫描器框架，使用它可轻松批量探测C段、B段存活主机、指纹识别、端口扫描、密码爆破、高危漏洞检测等。1.0版本包含11个模块功能，高危漏洞检测MS17010、SmbGhost，密码爆破SmbScan、SshScan、FtpScan、MysqlScan，存活探测/信息收集/指纹识别PingScan、IcmpScan，BannerScan、WeblogicScan，端口扫描PortScan。 | https://github.com/k8gege/LadonGo | 75 | 11| 
-| 20201109T13:30:09Z | Red Team exercises for exploitation. Find the bug, exploit it, fix it! | https://github.com/u238/security-ctf | 0 | 0| 
-| 20201109T13:24:07Z | This bash script will help you to hack remote hosts  | https://github.com/FabioDefilippo/linuxallremote | 1 | 0| 
-| 20201109T13:20:29Z | Unfinished/Practice/Roblox Exploiting Scripts | https://github.com/yogurtsss/Practice-Projects- | 0 | 0| 
-| 20201109T13:13:19Z | StandIn is a small .NET35/45 AD post-exploitation toolkit | https://github.com/FuzzySecurity/StandIn | 56 | 11| 
-| 20201109T13:09:53Z | 0000000000000 | https://github.com/uralpatlar/DelLete-Exploit | 0 | 0| 
-| 20201109T12:49:37Z | A brand new Script Hub for Exploit | https://github.com/kelvinfung1-dumbass/KelvinHub | 0 | 0| 
-| 20201109T12:48:56Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 6 | 4| 
+| 20201110T00:55:37Z | Exploits and Adventures of a Soldier Ashore and Afloat by William Llewellyn Adams is a Project Gutenberg book, now on Github. | https://github.com/GITenberg/Exploits-and-Adventures-of-a-Soldier-Ashore-and-Afloat_63571 | 0 | 0| 
+| 20201110T00:52:00Z | windows and linux streams for post exploitation | https://github.com/kymb0/post_exploitation | 1 | 0| 
+| 20201110T00:48:56Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 6 | 4| 
+| 20201110T00:47:03Z | exploits and proof-of-concept vulnerability demonstration files from the team at Hacker House | https://github.com/hackerhouse-opensource/exploits | 194 | 56| 
+| 20201110T00:30:45Z | StandIn is a small .NET35/45 AD post-exploitation toolkit | https://github.com/FuzzySecurity/StandIn | 61 | 12| 
+| 20201110T00:27:04Z | A collection of more than a 140+ tools, scripts, cheatsheets and other loots that I have developed over years for Penetration Testing and IT Security audits purposes. Most of them came handy at least once during my real-world engagements. | https://github.com/mgeeky/Penetration-Testing-Tools | 492 | 134| 
+| 20201110T00:18:50Z | Unfinished/Practice/Roblox Exploiting Scripts | https://github.com/yogurtsss/Practice-Projects- | 0 | 0| 
+| 20201109T23:53:02Z | This repository contains the source of %ARM Binary Exploitaiton% book. | https://github.com/cpuu/arm_exploitation | 1 | 0| 
+| 20201109T22:47:35Z | Extensible framework for analyzing publicly available information about vulnerabilities | https://github.com/leonov-av/vulristics | 11 | 0| 
+| 20201109T21:25:55Z | xnu_gym is a pongoOS module that patches XNU to reintroduce previously known and patched vulnerabilities. This is an easy way to practice kernel exploitation and jailbreak development! | https://github.com/tjkr0wn/xnu_gym | 1 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20201109T23:58:47Z | Hack Windows with FUD backdoor/payload, Escalates LINUX privileges, Devastate Linux, Tunnel forwarding  | https://github.com/Predator0x300/escalator | 1 | 0| 
+| 20201109T22:56:40Z | Null | https://github.com/GREDSY/backdoors | 0 | 0| 
+| 20201109T18:58:14Z | A deck-building roguelike cyberpunk game. | https://github.com/uspgamedev/backdoor | 19 | 3| 
+| 20201109T16:48:29Z | is the first version, have some bugs but anyway | https://github.com/ranon-rat/golang-backdoor | 0 | 0| 
+| 20201109T16:44:49Z | Null | https://github.com/jesusabh/http-www.shellexp.com-help-How-to-use-Chopper-backdoor-2019.html | 0 | 0| 
+| 20201109T15:42:27Z | Backdoors framework based on %Blind Backdoors in Deep Learning Models% | https://github.com/ebagdasa/backdoors101 | 2 | 0| 
 | 20201109T13:19:58Z | ParadoxiaRat : Native Windows Remote access Tool. | https://github.com/quantumcored/paradoxiaRAT | 230 | 46| 
 | 20201109T09:47:11Z | Unicorn Framework is an iOS, macOS and Linux post-exploitation framework that using one line command and powerful python payload attempts to spawn a command line session with a lot of features such as downloading files, uploading files, getting system information and etc. | https://github.com/EntySec/unicorn | 7 | 3| 
 | 20201109T07:41:48Z | Null | https://github.com/penetrators-sec/RANSBOT | 0 | 0| 
 | 20201109T07:16:52Z | Thoron Framework is a Linux post-exploitation framework that exploits Linux TCP vulnerability to provide a shell-like connection. Thoron Framework has the ability to create simple payloads to provide Linux TCP attack. | https://github.com/EntySec/thoron | 81 | 28| 
-| 20201109T06:01:50Z | Null | https://github.com/irepublica/monitor_backdoor | 0 | 0| 
-| 20201108T22:03:45Z | A deck-building roguelike cyberpunk game. | https://github.com/uspgamedev/backdoor | 19 | 3| 
-| 20201108T19:36:53Z | Team PriCop: ML Reproduction Challenge 2020 working on Robust Anomaly Detection and Backdoor Attack Detection via Differential Privacy Paper (https://openreview.net/pdf?id=SJx0q1rtvS) | https://github.com/shaistha24/mlrc2020 | 0 | 0| 
-| 20201108T18:57:35Z | Backdoors framework based on %Blind Backdoors in Deep Learning Models% | https://github.com/ebagdasa/backdoors101 | 1 | 0| 
-| 20201108T12:17:41Z | Backdoor Recode :v | https://github.com/ItsTeamSec/backdoor | 0 | 0| 
-| 20201108T12:01:08Z | Backdoor is a fast growing IT and Technology based IT Professional Group. Everyone will get their own IT-based services and solutions. We will learn not only ourselves but also help others to learn so that one day the information-based Bangladesh will be formed, it is a strong bonded from Backdoor. | https://github.com/backdoordhaka/backdoordhaka.github.io | 0 | 0| 
 
 
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20201109T13:59:22Z | A plugin based fuzzer | https://github.com/elast0ny/CROWDFUZZ | 2 | 0| 
-| 20201109T13:59:21Z | A differential fuzzer for x86 decoders | https://github.com/trailofbits/mishegos | 118 | 18| 
-| 20201109T13:58:37Z | Null | https://github.com/rbusybee/fuzzy-angular | 0 | 0| 
-| 20201109T13:32:43Z | Null | https://github.com/thalibarrifqi/Fuzzy-Logic-Automatic-Brake-System | 0 | 0| 
-| 20201109T13:19:47Z | Fast web fuzzer written in Go | https://github.com/ffuf/ffuf | 3283 | 377| 
-| 20201109T13:15:42Z | Null | https://github.com/mariami6962/fuzzy-octo-telegram | 0 | 0| 
-| 20201109T13:03:22Z | Null | https://github.com/s9varesc/url-fuzzing-docker | 0 | 0| 
-| 20201109T12:52:37Z | OSS-Fuzz - continuous fuzzing of open source software. | https://github.com/google/oss-fuzz | 5638 | 1112| 
-| 20201109T11:44:54Z | Null | https://github.com/s9varesc/url-fuzzing | 0 | 0| 
-| 20201109T11:28:37Z | No-fuzz link shortener | https://github.com/arminfriedl/snip | 0 | 0| 
+| 20201110T00:53:03Z | OSS-Fuzz - continuous fuzzing of open source software. | https://github.com/google/oss-fuzz | 5637 | 1113| 
+| 20201110T00:51:36Z | A collection of fuzzy logic projects in MATLAB. | https://github.com/bronzeRaf/fuzzies | 0 | 0| 
+| 20201110T00:36:29Z | Null | https://github.com/MSE-QualityAssurance/FuzzyBunnies | 0 | 0| 
+| 20201110T00:36:24Z | mitmproxy simple fuzzer addon | https://github.com/knrdv/mitm-fuzzer | 0 | 0| 
+| 20201110T00:30:56Z | Null | https://github.com/terminal-labs/fuzzball-states | 0 | 0| 
+| 20201109T23:40:44Z | Senior Capstone Project for Kennesaw State University | https://github.com/MarcussucraM/FuzzyChess | 0 | 1| 
+| 20201109T23:27:06Z | Collected fuzzing payloads from different resources  | https://github.com/osamahamad/FUZZING | 5 | 3| 
+| 20201109T23:00:09Z | This project consists of a simulation of a search-and-rescue environment for discrete path-planning of agents using a Fuzzy Inference System (FIS)-based controller and a Model Predictive Control (MPC)-based controller to optimise FIS parameters. | https://github.com/craigmax-dev/Integrated-Model-Predictive-Fuzzy-Control-for-Disaster-Victim-Detection-Path-Planning-in-MATLAB | 2 | 1| 
+| 20201109T22:59:58Z | Scalable fuzzing infrastructure. | https://github.com/google/clusterfuzz | 4358 | 395| 
+| 20201109T22:38:57Z | Experimental projects | https://github.com/tannmatter/fuzzy-happiness | 0 | 0| 
 
 
 
