@@ -115,7 +115,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20201110T13:46:55Z | Null | https://github.com/Syntaxerror2/fuzzy-palm-tree | 0 | 0| 
+| 20201110T13:48:52Z | Null | https://github.com/Syntaxerror2/fuzzy-palm-tree | 0 | 0| 
 | 20201110T13:38:17Z | Null | https://github.com/imbawenzi/Fuzzing_Paper_Note | 0 | 0| 
 | 20201110T13:37:08Z | My program for Intro to AI, fuzzy logic assignment. | https://github.com/zaRizk7/fuzzy-logic | 0 | 0| 
 | 20201110T13:34:03Z | Fuzz data for the klauspost/compress package | https://github.com/klauspost/compress-fuzz | 2 | 1| 
