@@ -51,11 +51,11 @@
 | 20201110T22:49:08Z | CVE-2020-1472 | The following is the outcome of playing with CVE-2020-1472 and attempting to automate the process of gaining a shell on the DC | https://github.com/JayP232/The_big_Zero | 当攻击者使用Netlogon远程协议（MS-NRPC）（又称为“ Netlogon特权提升漏洞”）建立与域控制器的易受攻击的Netlogon安全通道连接时，将存在特权提升漏洞。| 
 | 20201110T22:23:10Z | CVE-2020-9273 | some files created during analysis of ProFTPd vulnerability - no exploit created yet | https://github.com/ptef/CVE-2020-9273 | 在 ProFTPD 1.3.7 中，可能会通过中断数据传输通道来损坏内存池。这将触发在池.c 中alloc_pool后使用，以及可能的远程代码执行。| 
 | 20201110T22:14:38Z | CVE-2020-12928 | Early 2019 - late 2020. R.I.P. CVE-2020-12928 https://h0mbre.github.io/RyzenMaster_CVE/# | https://github.com/ekknod/EC_PRO-LAN | AMD Ryzen Master V15中动态加载的AMD驱动程序中的漏洞可能允许任何经过身份验证的用户将特权升级到NT授权系统。| 
-| 20201110T21:44:54Z | CVE-2020-1472 | Null | https://github.com/Qazeer/dirkjanm_CVE-2020-1472_static_binaries | | 
+| 20201110T21:44:54Z | CVE-2020-1472 | Null | https://github.com/Qazeer/dirkjanm_CVE-2020-1472_static_binaries | 当攻击者使用Netlogon远程协议（MS-NRPC）（又称为“ Netlogon特权提升漏洞”）建立与域控制器的易受攻击的Netlogon安全通道连接时，将存在特权提升漏洞。| 
 | 20201110T21:24:25Z | CVE-2020-23968 | CVE-2020-23968 | https://github.com/ricardojba/CVE-2020-23968-ILEX-SignGo-EoP | Ilex 国际标志和 go 工作站安全套件 7.1 允许通过对 ProgramData_Ilex_S&G=Logs=000-sngWSService1.log 的符号链接攻击提升特权。| 
 | 20201110T14:50:08Z | CVE-2020-27194 | my exp for CVE-2020-27194, tested on linux kernel 5.8.14. | https://github.com/xmzyshypnc/CVE-2020-27194 | 在5.8.15之前的Linux内核中发现了一个问题。 kernel / bpf / verifier.c中的scalar32_min_max_or在使用64位值（即CID-5b9fbeb75b6a）期间错误地处理了边界跟踪。| 
-| 20201110T09:10:13Z | CVE-2020-8840 | Jackson-databind远程代码执行漏洞（CVE-2020-8840）分析复现环境代码存档 | https://github.com/veraxy9821/CVE-2020-8840 | | 
-| 20201110T09:07:30Z | CVE-2020-14882 | Vulmap - Web漏洞扫描和验证工具，可对Web容器、Web服务器、Web中间件以及CMS等Web程序进行漏洞扫描，并且具备漏洞利用功能。 相关测试人员可以使用vulmap检测目标是否存在特定漏洞，并且可以使用漏洞利用功能验证漏洞是否真实存在。CVE-2020-14882, CVE-2020-2555, CVE-2020-2883 | https://github.com/zhzyker/vulmap | | 
+| 20201110T09:10:13Z | CVE-2020-8840 | Jackson-databind远程代码执行漏洞（CVE-2020-8840）分析复现环境代码存档 | https://github.com/veraxy9821/CVE-2020-8840 | FasterXML jackson-databind 2.0.0到2.9.10.2缺少某些xbean-reflect / JNDI阻止，如org.apache.xbean.propertyeditor.JndiConverter所示。| 
+| 20201110T09:07:30Z | CVE-2020-14882 | Vulmap - Web漏洞扫描和验证工具，可对Web容器、Web服务器、Web中间件以及CMS等Web程序进行漏洞扫描，并且具备漏洞利用功能。 相关测试人员可以使用vulmap检测目标是否存在特定漏洞，并且可以使用漏洞利用功能验证漏洞是否真实存在。CVE-2020-14882, CVE-2020-2555, CVE-2020-2883 | https://github.com/zhzyker/vulmap | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
 
 
 # klee on Github 推荐
