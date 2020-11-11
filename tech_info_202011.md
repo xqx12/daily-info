@@ -55,7 +55,7 @@
 | 20201110T21:24:25Z | CVE-2020-23968 | CVE-2020-23968 | https://github.com/ricardojba/CVE-2020-23968-ILEX-SignGo-EoP | Ilex 国际标志和 go 工作站安全套件 7.1 允许通过对 ProgramData_Ilex_S&G=Logs=000-sngWSService1.log 的符号链接攻击提升特权。| 
 | 20201110T14:50:08Z | CVE-2020-27194 | my exp for CVE-2020-27194, tested on linux kernel 5.8.14. | https://github.com/xmzyshypnc/CVE-2020-27194 | 在5.8.15之前的Linux内核中发现了一个问题。 kernel / bpf / verifier.c中的scalar32_min_max_or在使用64位值（即CID-5b9fbeb75b6a）期间错误地处理了边界跟踪。| 
 | 20201110T09:10:13Z | CVE-2020-8840 | Jackson-databind远程代码执行漏洞（CVE-2020-8840）分析复现环境代码存档 | https://github.com/veraxy9821/CVE-2020-8840 | | 
-| 20201110T09:07:30Z | CVE-2020-14882 | Vulmap - Web漏洞扫描和验证工具，可对Web容器、Web服务器、Web中间件以及CMS等Web程序进行漏洞扫描，并且具备漏洞利用功能。 相关测试人员可以使用vulmap检测目标是否存在特定漏洞，并且可以使用漏洞利用功能验证漏洞是否真实存在。CVE-2020-14882, CVE-2020-2555, CVE-2020-2883 | https://github.com/zhzyker/vulmap | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
+| 20201110T09:07:30Z | CVE-2020-14882 | Vulmap - Web漏洞扫描和验证工具，可对Web容器、Web服务器、Web中间件以及CMS等Web程序进行漏洞扫描，并且具备漏洞利用功能。 相关测试人员可以使用vulmap检测目标是否存在特定漏洞，并且可以使用漏洞利用功能验证漏洞是否真实存在。CVE-2020-14882, CVE-2020-2555, CVE-2020-2883 | https://github.com/zhzyker/vulmap | | 
 
 
 # klee on Github 推荐
