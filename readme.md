@@ -30,10 +30,10 @@
 | --- | --- | --- | --- | ---| 
 | 20201112T12:24:32Z | CVE-2020-15228 | Fix CVE-2020-15228 (set-env, add-path in Github-Actions) | https://github.com/guettli/fix-CVE-2020-15228 | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
 | 20201112T12:16:35Z | CVE-2020-2020 | Null | https://github.com/x51/CVE-2020-2020-14882 | 未查询到CVE信息| 
-| 20201112T10:34:58Z | CVE-2020-16126 | A bash script exploit of [CVE-2020-16126/CVE-2020-16127] to achieve privilege escalation. | https://github.com/zev3n/Ubuntu-Gnome-privilege-escalation | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 43 MINUTES 35 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201112T10:34:58Z | CVE-2020-16126 | A bash script exploit of [CVE-2020-16126/CVE-2020-16127] to achieve privilege escalation. | https://github.com/zev3n/Ubuntu-Gnome-privilege-escalation | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 42 MINUTES 36 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20201112T10:07:30Z | CVE-2020-14882 | Null | https://github.com/QmF0c3UK/CVE-2020-14882 | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
-| 20201112T06:17:04Z | CVE-2020-5902 | A network detection package for CVE-2020-5902, a CVE10.0 vulnerability affecting F5 Networks, Inc BIG-IP devices. | https://github.com/corelight/CVE-2020-5902-F5BigIP | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 43 MINUTES 21 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20201112T02:37:34Z | CVE-2020-10189 | Null | https://github.com/zavke/CVE-2020-10189-ManageEngine | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 43 MINUTES 35 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201112T06:17:04Z | CVE-2020-5902 | A network detection package for CVE-2020-5902, a CVE10.0 vulnerability affecting F5 Networks, Inc BIG-IP devices. | https://github.com/corelight/CVE-2020-5902-F5BigIP | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 42 MINUTES 20 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201112T02:37:34Z | CVE-2020-10189 | Null | https://github.com/zavke/CVE-2020-10189-ManageEngine | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 42 MINUTES 35 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20201112T02:04:13Z | CVE-2020-14882 | Vulmap - Web漏洞扫描和验证工具，可对Web容器、Web服务器、Web中间件以及CMS等Web程序进行漏洞扫描，并且具备漏洞利用功能。 相关测试人员可以使用vulmap检测目标是否存在特定漏洞，并且可以使用漏洞利用功能验证漏洞是否真实存在。CVE-2020-14882, CVE-2020-2555, CVE-2020-2883 | https://github.com/zhzyker/vulmap | | 
 
 
@@ -81,11 +81,11 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20201112T13:17:57Z | Sometimes we want to fuzz a set of domain URLs with a common wordlist. Fuzzing them one by one is a tedious task and not to mention the false positives we obtain in those results. To solve this problem I created Lazy FuzzZ.  | https://github.com/th3hack3rwiz/Lazy-FuzzZ | 0 | 0| 
 | 20201112T12:59:56Z | One Knob Fuzz Custom Noise | https://github.com/bjc01/1KFCN | 0 | 0| 
 | 20201112T12:57:42Z | Collection of HTTP scanners and fuzzers. | https://github.com/buffermet/bug-bounty-tools | 8 | 1| 
 | 20201112T12:45:30Z | Null | https://github.com/jackhydez/fuzzyNumbers | 0 | 0| 
 | 20201112T12:43:25Z | Null | https://github.com/s9varesc/url-fuzzing | 0 | 0| 
-| 20201112T12:30:42Z | Sometimes we want to fuzz a set of domain URLs with a common wordlist. Fuzzing them one by one is a tedious task and not to mention the false positives we obtain in those results. To solve this problem I created Lazy FuzzZ.  | https://github.com/th3hack3rwiz/Lazy-FuzzZ | 0 | 0| 
 | 20201112T12:23:45Z | mitmproxy simple fuzzer addon | https://github.com/knrdv/mitm-fuzzer | 0 | 0| 
 | 20201112T12:17:07Z | The Official Fuzzy Britches Repository. | https://github.com/ThePapaw/fuzzybritches | 0 | 0| 
 | 20201112T12:14:48Z | OSS-Fuzz - continuous fuzzing of open source software. | https://github.com/google/oss-fuzz | 5646 | 1113| 
