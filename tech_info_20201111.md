@@ -27,10 +27,10 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20201111T23:02:02Z | CVE-2020-12928 | Early 2019 - late 2020. R.I.P. CVE-2020-12928 https://h0mbre.github.io/RyzenMaster_CVE/# | https://github.com/ekknod/EC_PRO-LAN | | 
+| 20201111T23:02:02Z | CVE-2020-12928 | Early 2019 - late 2020. R.I.P. CVE-2020-12928 https://h0mbre.github.io/RyzenMaster_CVE/# | https://github.com/ekknod/EC_PRO-LAN | AMD Ryzen Master V15中动态加载的AMD驱动程序中的漏洞可能允许任何经过身份验证的用户将特权升级到NT授权系统。| 
 | 20201111T21:39:35Z | CVE-2020-9273 | some files created during analysis of ProFTPd vulnerability - no exploit created yet | https://github.com/ptef/CVE-2020-9273 | 在 ProFTPD 1.3.7 中，可能会通过中断数据传输通道来损坏内存池。这将触发在池.c 中alloc_pool后使用，以及可能的远程代码执行。| 
 | 20201111T19:48:40Z | CVE-2020-15931 | Netwrix Account Lockout Examiner 4.1 Domain Admin Account Credential Disclosure Vulnerability | https://github.com/optiv/CVE-2020-15931 | 5.1之前的Netwrix帐户锁定检查器允许远程攻击者通过生成单个Kerberos预身份验证失败（ID 4771）事件来捕获Domain Administrator的Net-NTLMv1 / v2身份验证质询哈希（在产品中以其安装状态进行配置）在域控制器上。| 
-| 20201111T16:02:47Z | CVE-2020-8840 | Jackson-databind远程代码执行漏洞（CVE-2020-8840）分析复现环境代码 | https://github.com/veraxy9821/CVE-2020-8840 | FasterXML jackson-databind 2.0.0到2.9.10.2缺少某些xbean-reflect / JNDI阻止，如org.apache.xbean.propertyeditor.JndiConverter所示。| 
+| 20201111T16:02:47Z | CVE-2020-8840 | Jackson-databind远程代码执行漏洞（CVE-2020-8840）分析复现环境代码 | https://github.com/veraxy9821/CVE-2020-8840 | | 
 | 20201111T15:07:30Z | CVE-2020-14882 | Vulmap - Web漏洞扫描和验证工具，可对Web容器、Web服务器、Web中间件以及CMS等Web程序进行漏洞扫描，并且具备漏洞利用功能。 相关测试人员可以使用vulmap检测目标是否存在特定漏洞，并且可以使用漏洞利用功能验证漏洞是否真实存在。CVE-2020-14882, CVE-2020-2555, CVE-2020-2883 | https://github.com/zhzyker/vulmap | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
 | 20201111T09:28:46Z | CVE-2020-1472 | Check for events that indicate non compatible devices -> CVE-2020-1472 | https://github.com/maikelnight/zerologon | 当攻击者使用Netlogon远程协议（MS-NRPC）（又称为“ Netlogon特权提升漏洞”）建立与域控制器的易受攻击的Netlogon安全通道连接时，将存在特权提升漏洞。| 
 | 20201111T09:18:49Z | CVE-2020-14883 | Weblogic 身份认证绕过漏洞批量检测脚本 | https://github.com/B1anda0/CVE-2020-14883 | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
