@@ -85,6 +85,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20201112T13:35:01Z | Development of code to exploit LSST and VISTA imaging | https://github.com/lsst-uk/lsst-ir-fusion | 0 | 0| 
 | 20201112T13:23:03Z | A GUI version of axi0mX%s ipwndfu exploit suite | https://github.com/alyxferrari/checkm8gui | 53 | 16| 
 | 20201112T12:59:53Z | CTF竞赛权威指南(Pwn篇) | https://github.com/firmianay/CTF-All-In-One | 2132 | 436| 
 | 20201112T12:48:58Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 6 | 4| 
@@ -94,7 +95,6 @@
 | 20201112T10:47:38Z | xcube is a Python package for generating and exploiting data cubes powered by xarray, dask, and zarr. | https://github.com/dcs4cop/xcube | 65 | 11| 
 | 20201112T10:34:58Z | A bash script exploit of [CVE-2020-16126/CVE-2020-16127] to achieve privilege escalation. | https://github.com/zev3n/Ubuntu-Gnome-privilege-escalation | 0 | 0| 
 | 20201112T10:28:17Z | Sifter is a OSINT, recon & vulnerability scanner. It incorporates a plethara of tools within different module sets that tries to cover every attack vector. Allowing you to quickly perform recon tasks and organize the results in one place. From OSINT to Recon, Exploitation, Post-Exploitation, OpSec, Threat Analysis, XSS, SQLinjection, Network Scanning, WebApp Analysis or DNS enumeration.. Sifter should be able to cover it all. | https://github.com/s1l3nt78/sifter | 280 | 88| 
-| 20201112T10:25:45Z | Search and download dictionaries for testing, bruteforcing, fuzzing and exploit-development. | https://github.com/pownjs/dicts | 9 | 0| 
 
 
 # backdoor on Github 推荐
