@@ -48,11 +48,11 @@
 | --- | --- | --- | --- | ---| 
 | 20201112T02:12:01Z | CVE-2020-14882 | Null | https://github.com/QmF0c3UK/CVE-2020-14882 | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
 | 20201112T02:04:13Z | CVE-2020-14882 | Vulmap - Web漏洞扫描和验证工具，可对Web容器、Web服务器、Web中间件以及CMS等Web程序进行漏洞扫描，并且具备漏洞利用功能。 相关测试人员可以使用vulmap检测目标是否存在特定漏洞，并且可以使用漏洞利用功能验证漏洞是否真实存在。CVE-2020-14882, CVE-2020-2555, CVE-2020-2883 | https://github.com/zhzyker/vulmap | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
-| 20201111T23:02:02Z | CVE-2020-12928 | Early 2019 - late 2020. R.I.P. CVE-2020-12928 https://h0mbre.github.io/RyzenMaster_CVE/# | https://github.com/ekknod/EC_PRO-LAN | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 38 MINUTES 36 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20201111T21:39:35Z | CVE-2020-9273 | some files created during analysis of ProFTPd vulnerability - no exploit created yet | https://github.com/ptef/CVE-2020-9273 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 38 MINUTES 31 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20201111T19:48:40Z | CVE-2020-15931 | Netwrix Account Lockout Examiner 4.1 Domain Admin Account Credential Disclosure Vulnerability | https://github.com/optiv/CVE-2020-15931 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 38 MINUTES 26 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20201111T16:02:47Z | CVE-2020-8840 | Jackson-databind远程代码执行漏洞（CVE-2020-8840）分析复现环境代码 | https://github.com/veraxy9821/CVE-2020-8840 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 38 MINUTES 42 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20201111T09:28:46Z | CVE-2020-1472 | Check for events that indicate non compatible devices -> CVE-2020-1472 | https://github.com/maikelnight/zerologon | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 38 MINUTES 28 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201111T23:02:02Z | CVE-2020-12928 | Early 2019 - late 2020. R.I.P. CVE-2020-12928 https://h0mbre.github.io/RyzenMaster_CVE/# | https://github.com/ekknod/EC_PRO-LAN | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 36 MINUTES 38 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201111T21:39:35Z | CVE-2020-9273 | some files created during analysis of ProFTPd vulnerability - no exploit created yet | https://github.com/ptef/CVE-2020-9273 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 36 MINUTES 32 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201111T19:48:40Z | CVE-2020-15931 | Netwrix Account Lockout Examiner 4.1 Domain Admin Account Credential Disclosure Vulnerability | https://github.com/optiv/CVE-2020-15931 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 36 MINUTES 28 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201111T16:02:47Z | CVE-2020-8840 | Jackson-databind远程代码执行漏洞（CVE-2020-8840）分析复现环境代码 | https://github.com/veraxy9821/CVE-2020-8840 | | 
+| 20201111T09:28:46Z | CVE-2020-1472 | Check for events that indicate non compatible devices -> CVE-2020-1472 | https://github.com/maikelnight/zerologon | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 36 MINUTES 30 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20201111T09:18:49Z | CVE-2020-14883 | Weblogic 身份认证绕过漏洞批量检测脚本 | https://github.com/B1anda0/CVE-2020-14883 | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
 | 20201111T07:22:06Z | CVE-2020-14882 | 基于qt的图形化CVE-2020-14882漏洞回显测试工具. | https://github.com/AirEvan/CVE-2020-14882-GUI-Test | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
 | 20201111T05:04:26Z | CVE-2020-1472 | Null | https://github.com/Qazeer/dirkjanm_CVE-2020-1472_static_binaries | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 00 MINUTES 39 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
@@ -85,6 +85,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20201112T02:23:21Z | Exploit Database binary exploits located in the /sploits directory | https://github.com/offensive-security/exploitdb-bin-sploits | 1326 | 479| 
 | 20201112T02:14:29Z | binary exploitation, software exploitation etc. | https://github.com/gabemarr26/reverse-engineering-lab-attempts | 0 | 0| 
 | 20201112T02:04:12Z | A bunch of scripts for minecraft exploitation (still under development) | https://github.com/ivfreire/mc_scripts | 0 | 0| 
 | 20201112T01:49:13Z | exploits and proof-of-concept vulnerability demonstration files from the team at Hacker House | https://github.com/hackerhouse-opensource/exploits | 198 | 58| 
@@ -94,7 +95,6 @@
 | 20201112T00:36:27Z | Writeups/exploit code for CTFs I%ve done | https://github.com/captainGeech42/ctf-writeups | 10 | 2| 
 | 20201112T00:28:48Z | Curated list of Unix binaries that can be exploited to bypass system security restrictions | https://github.com/GTFOBins/GTFOBins.github.io | 3562 | 497| 
 | 20201111T23:15:37Z | Null | https://github.com/quentin452/Cats-Exploitz-HUB | 0 | 1| 
-| 20201111T22:56:19Z | Roblox Exploit | https://github.com/0x83-Dev/x22.solutions | 0 | 0| 
 
 
 # backdoor on Github 推荐
