@@ -72,6 +72,8 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20201112T13:44:00Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 92 | 10| 
+| 20201112T13:43:37Z | is the first version, have some bugs but anyway | https://github.com/ranon-rat/golang-remote | 2 | 0| 
 | 20201112T13:39:07Z | is the first version, have some bugs but anyway | https://github.com/ranon-rat/golang-backdoor | 2 | 0| 
 | 20201112T10:09:48Z | LKM rootkit for Linux Kernels 2.6.x/3.x/4.x/5.x (x86/x86_64 and ARM64) | https://github.com/m0nad/Diamorphine | 654 | 252| 
 | 20201112T09:01:39Z | Basic Windows reverse shell written in C++ | https://github.com/hacefresko/CppBackdoor | 0 | 0| 

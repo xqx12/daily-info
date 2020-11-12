@@ -100,6 +100,8 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20201112T13:44:00Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 92 | 10| 
+| 20201112T13:43:37Z | is the first version, have some bugs but anyway | https://github.com/ranon-rat/golang-remote | 2 | 0| 
 | 20201112T13:39:07Z | is the first version, have some bugs but anyway | https://github.com/ranon-rat/golang-backdoor | 2 | 0| 
 | 20201112T10:09:48Z | LKM rootkit for Linux Kernels 2.6.x/3.x/4.x/5.x (x86/x86_64 and ARM64) | https://github.com/m0nad/Diamorphine | 654 | 252| 
 | 20201112T09:01:39Z | Basic Windows reverse shell written in C++ | https://github.com/hacefresko/CppBackdoor | 0 | 0| 
@@ -108,8 +110,6 @@
 | 20201112T07:11:52Z | Null | https://github.com/weizn11/Cisco_ASA_Backdoor | 0 | 0| 
 | 20201112T06:42:19Z | Null | https://github.com/FalseG0d/PythonBackdoor | 0 | 0| 
 | 20201111T21:32:43Z | IIS-Trojan is a native IIS module written in c++ that creates a backdoor in the IIS webserver and carry out custom actions defined by an attacker. | https://github.com/tborg2793/IIS-TROJAN | 0 | 0| 
-| 20201111T21:27:53Z | Backdoors framework based on %Blind Backdoors in Deep Learning Models% | https://github.com/ebagdasa/backdoors101 | 2 | 0| 
-| 20201111T18:12:22Z | Prueba de Backdoor en Python. Con Screenshot, subida, bajada y navegación. | https://github.com/cmoralesmani/backdoor_in_python | 0 | 0| 
 
 
 # fuzz on Github 推荐
