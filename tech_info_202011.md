@@ -46,27 +46,27 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20201112T18:05:39Z | CVE-2020-15228 | Fix CVE-2020-15228 (set-env, add-path in Github-Actions) | https://github.com/guettli/fix-CVE-2020-15228 | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
+| 20201113T01:01:49Z | CVE-2020-15228 | Fix CVE-2020-15228 (set-env, add-path in Github-Actions) | https://github.com/guettli/fix-CVE-2020-15228 | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
 | 20201112T15:34:28Z | CVE-2020-13886 | Exploit CVE-2020-13886 - LFI Intelbras TIP 200 / 200 LITE /  | https://github.com/lucxssouza/CVE-2020-13886 | 未查询到CVE信息| 
-| 20201112T13:32:34Z | CVE-2020-28415 | Null | https://github.com/jet-pentest/CVE-2020-28415 | TranzWare 支付网关 3.1.12.3.2 中存在反映的跨站点脚本 （XSS） 漏洞。远程未经身份验证的攻击者能够通过精心制作的 URL 执行任意 HTML 代码（与 CVE-2020-28414 不同的向量）。| 
-| 20201112T13:32:04Z | CVE-2020-28414 | Null | https://github.com/jet-pentest/CVE-2020-28414 | TranzWare 支付网关 3.1.12.3.2 中存在反映的跨站点脚本 （XSS） 漏洞。远程未经身份验证的攻击者能够通过精心制作的 URL 执行任意 HTML 代码（与 CVE-2020-28415 不同）。| 
+| 20201112T13:32:34Z | CVE-2020-28415 | Null | https://github.com/jet-pentest/CVE-2020-28415 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 55 MINUTES 39 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201112T13:32:04Z | CVE-2020-28414 | Null | https://github.com/jet-pentest/CVE-2020-28414 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 55 MINUTES 38 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20201112T12:16:35Z | CVE-2020-2020 | Null | https://github.com/x51/CVE-2020-2020-14882 | 未查询到CVE信息| 
-| 20201112T10:34:58Z | CVE-2020-16126 | A bash script exploit of [CVE-2020-16126/CVE-2020-16127] to achieve privilege escalation. | https://github.com/zev3n/Ubuntu-Gnome-privilege-escalation | 在0.6.55-0ubuntu13.2之前的版本中，对Ubuntus的AccountsService进行的特定修改以及其他较早的版本，不正确地放弃了原谅，使不受信任的用户向AccountService发送信号，从而阻止其及时处理D-Bus消息。| 
+| 20201112T10:34:58Z | CVE-2020-16126 | A bash script exploit of [CVE-2020-16126/CVE-2020-16127] to achieve privilege escalation. | https://github.com/zev3n/Ubuntu-Gnome-privilege-escalation | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 55 MINUTES 36 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20201112T10:07:30Z | CVE-2020-14882 | Null | https://github.com/QmF0c3UK/CVE-2020-14882 | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
 | 20201112T06:17:04Z | CVE-2020-5902 | A network detection package for CVE-2020-5902, a CVE10.0 vulnerability affecting F5 Networks, Inc BIG-IP devices. | https://github.com/corelight/CVE-2020-5902-F5BigIP | 在BIG-IP版本15.0.0-15.1.0.3、14.1.0-14.1.2.5、13.1.0-13.1.3.3、12.1.0-12.1.5.1和11.6.1-11.6.5.1中，流量管理用户接口（TMUI），也称为“配置”实用程序，在未公开的页面中具有远程执行代码（RCE）漏洞。| 
-| 20201112T02:37:34Z | CVE-2020-10189 | Null | https://github.com/zavke/CVE-2020-10189-ManageEngine | 10.0.474之前的Zoho ManageEngine Desktop Central允许远程执行代码，因为FileStorage类的getChartImage中的不可信数据反序列化。这与CewolfServlet和MDMLogUploaderServlet Servlet有关。| 
+| 20201112T02:37:34Z | CVE-2020-10189 | Null | https://github.com/zavke/CVE-2020-10189-ManageEngine | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 55 MINUTES 34 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20201112T02:04:13Z | CVE-2020-14882 | Vulmap - Web漏洞扫描和验证工具，可对Web容器、Web服务器、Web中间件以及CMS等Web程序进行漏洞扫描，并且具备漏洞利用功能。 相关测试人员可以使用vulmap检测目标是否存在特定漏洞，并且可以使用漏洞利用功能验证漏洞是否真实存在。CVE-2020-14882, CVE-2020-2555, CVE-2020-2883 | https://github.com/zhzyker/vulmap | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20201113T01:03:34Z | Create CFGs and compute complexity metrics for Python, C++, and Java code. | https://github.com/hmc-alpaqa/metrinome | 5 | 0| 
 | 20201112T21:06:28Z | Null | https://github.com/klee-chan/klee-chan.github.io | 0 | 0| 
 | 20201112T19:21:08Z | RVT is a collection of tools/libraries to support both static and dynamic verification of Rust programs. | https://github.com/project-oak/rust-verification-tools | 95 | 5| 
 | 20201112T10:14:02Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1539 | 467| 
 | 20201112T03:31:29Z | Null | https://github.com/DonaldKLee/DonaldKLee | 0 | 0| 
 | 20201112T02:14:36Z | Still currently in progress | https://github.com/DonaldKLee/DonaldKLee.github.io | 1 | 0| 
-| 20201112T01:28:33Z | Create CFGs and compute complexity metrics for Python, C++, and Java code. | https://github.com/hmc-alpaqa/metrinome | 5 | 0| 
 | 20201110T17:21:24Z | Urban Evidence Based Policy (SPPA667) | https://github.com/KLeeDE/PUS2020_KLee | 0 | 1| 
 | 20201110T16:56:58Z | Null | https://github.com/thierry-tct/KLEE-SEMu | 1 | 0| 
 | 20201110T13:44:55Z | Symbiotic is a tool for finding bugs in computer programs based on instrumentation, program slicing and KLEE | https://github.com/staticafi/symbiotic | 200 | 33| 
@@ -85,6 +85,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20201113T01:03:20Z | Null | https://github.com/quentin452/Cats-Exploitz-HUB | 0 | 1| 
 | 20201113T00:48:58Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 6 | 4| 
 | 20201113T00:46:26Z | njRAT SMB Delivery Exploit | https://github.com/ctoslab/SMBEXPLOIT | 1 | 0| 
 | 20201112T23:58:45Z | Exploits that I%ve written for Stephen Bradshaw%s Vulnserver https://github.com/stephenbradshaw/vulnserver | https://github.com/VWolt/Vulnserver-Exploits | 0 | 0| 
@@ -94,7 +95,6 @@
 | 20201112T23:15:55Z | Minecraft Plugin to stop cheaty raid farms that exploit infinite bad omen loops | https://github.com/jmanpenilla/AntiRaidFarm | 1 | 0| 
 | 20201112T23:02:10Z | Repository that tracks public exploits, vulnerabilities and advisories that I [co-]discovered or [co-]authored. | https://github.com/rdomanski/Exploits_and_Advisories | 9 | 1| 
 | 20201112T22:51:57Z | MACRO Delivery Exploit tool version 1.27 | https://github.com/ctoslab/MACROEXPLOIT | 0 | 0| 
-| 20201112T22:42:38Z | Exploits (compiled or other) | https://github.com/sduig/Exploits | 0 | 0| 
 
 
 # backdoor on Github 推荐
