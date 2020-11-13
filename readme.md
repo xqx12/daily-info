@@ -91,16 +91,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20201112T13:52:04Z | Null | https://github.com/s9varesc/url-fuzzing | 0 | 0| 
-| 20201112T13:48:07Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 3224 | 743| 
-| 20201112T13:38:12Z | mitmproxy simple fuzzer addon | https://github.com/knrdv/mitm-fuzzer | 0 | 0| 
-| 20201112T13:35:14Z | Null | https://github.com/googleinterns/hw-fuzzing | 2 | 0| 
-| 20201112T13:30:30Z | Lógica fuzzy para classificação de ações | https://github.com/vitormormul/financial-fuzzy | 0 | 0| 
-| 20201112T13:20:10Z | Fuzzy Logic for UFRRJ Classroom Students | https://github.com/zavaleta/Fuzzy_logic_UFRRJ | 0 | 0| 
-| 20201112T13:17:57Z | Sometimes we want to fuzz a set of domain URLs with a common wordlist. Fuzzing them one by one is a tedious task and not to mention the false positives we obtain in those results. To solve this problem I created Lazy FuzzZ.  | https://github.com/th3hack3rwiz/Lazy-FuzzZ | 0 | 0| 
-| 20201112T12:59:56Z | One Knob Fuzz Custom Noise | https://github.com/bjc01/1KFCN | 0 | 0| 
-| 20201112T12:57:42Z | Collection of HTTP scanners and fuzzers. | https://github.com/buffermet/bug-bounty-tools | 8 | 1| 
-| 20201112T12:45:30Z | Null | https://github.com/jackhydez/fuzzyNumbers | 0 | 0| 
+| 20201112T23:52:23Z | Fuzzy Logic engine | https://github.com/Sannita/fuzzy-engine | 0 | 0| 
+| 20201112T23:49:27Z | Scalable fuzzing infrastructure. | https://github.com/google/clusterfuzz | 4360 | 395| 
+| 20201112T23:44:21Z | Experimental projects | https://github.com/tannmatter/fuzzy-happiness | 0 | 0| 
+| 20201112T23:02:21Z | Null | https://github.com/CRafa97/fuzzy-logic-system | 0 | 0| 
+| 20201112T22:52:47Z | Re-implementation of the FoxRox Hot Silicon Fuzz | https://github.com/Randagodron/hot_silicon_fuzz | 0 | 0| 
+| 20201112T22:44:46Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2201 | 106| 
+| 20201112T22:34:34Z | FuzzBench - Fuzzer benchmarking as a service. | https://github.com/google/fuzzbench | 549 | 87| 
+| 20201112T22:21:45Z | Sometimes we want to fuzz a set of domain URLs with a common wordlist. Fuzzing them one by one is a tedious task and not to mention the false positives we obtain in those results. To solve this problem I created Lazy FuzzZ.  | https://github.com/th3hack3rwiz/Lazy-FuzzZ | 1 | 0| 
+| 20201112T22:04:37Z | mitmproxy simple fuzzer addon | https://github.com/knrdv/mitm-fuzzer | 0 | 0| 
+| 20201112T21:54:18Z | Fuzz testing in the unit and integration phase with fuzz data from FuzzDB | https://github.com/fuzzdbunit/fuzzdbunit | 0 | 0| 
 
 
 
