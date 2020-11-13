@@ -31,7 +31,7 @@
 | 20201113T12:47:49Z | CVE-2020-25213 | CVE-2020-25213 | https://github.com/Dark-Grizzly/Wordpress-Zeroday | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 32 MINUTES 36 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20201113T12:35:54Z | CVE-2020-15349 | Vulnerability Description of CVE-2020-15349 | https://github.com/Traxes/Forklift_LPE | 未查询到CVE信息| 
 | 20201113T09:52:13Z | CVE-2020-8165 | Null | https://github.com/umiterkol/CVE-2020-8165--Auto-Shell | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 32 MINUTES 34 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20201113T08:14:47Z | CVE-2020-15931 | Netwrix Account Lockout Examiner 4.1 Domain Admin Account Credential Disclosure Vulnerability | https://github.com/optiv/CVE-2020-15931 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 33 MINUTES 16 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201113T08:14:47Z | CVE-2020-15931 | Netwrix Account Lockout Examiner 4.1 Domain Admin Account Credential Disclosure Vulnerability | https://github.com/optiv/CVE-2020-15931 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 32 MINUTES 21 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20201113T06:03:09Z | CVE-2020-14882 | Null | https://github.com/x51/CVE-2020-14882 | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
 | 20201113T02:25:25Z | CVE-2020-2020 | Null | https://github.com/x51/CVE-2020-2020-14882 | 未查询到CVE信息| 
 | 20201113T01:01:49Z | CVE-2020-15228 | Fix CVE-2020-15228 (set-env, add-path in Github-Actions) | https://github.com/guettli/fix-CVE-2020-15228 | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
@@ -76,6 +76,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20201113T13:27:22Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 3226 | 743| 
 | 20201113T13:22:43Z | Rockyou for web fuzzing | https://github.com/six2dez/OneListForAll | 4 | 1| 
 | 20201113T13:22:02Z | Data mahasiswa.xls ditaruh disini | https://github.com/condroagung/Fuzzy_Source_file | 0 | 0| 
 | 20201113T13:02:48Z | Collection of HTTP scanners and fuzzers. | https://github.com/buffermet/bug-bounty-tools | 8 | 1| 
@@ -85,7 +86,6 @@
 | 20201113T11:11:01Z | Null | https://github.com/sucystem/Uri-Fuzzer | 0 | 0| 
 | 20201113T11:02:33Z | FormatFuzzer is a framework for high-efficiency, high-quality generation and parsing of binary inputs. | https://github.com/uds-se/FormatFuzzer | 87 | 7| 
 | 20201113T10:50:08Z | Null | https://github.com/7evy/Fuzzy_Queries | 0 | 0| 
-| 20201113T10:40:14Z | Null | https://github.com/ClaudioRizzo/JniFuzzerFramework | 0 | 0| 
 
 
 
