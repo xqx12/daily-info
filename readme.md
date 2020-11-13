@@ -14,6 +14,8 @@
 | 20201112 | Detecting SSH Activity via Process Monitoring | https://themittenmac.com/detecting-ssh-activity-via-process-monitoring/| 
 | 20201112 | [Linux Kernel Exploitation 0x0] Debugging the Kernel with QEMU | https://blog.k3170makan.com/2020/11/linux-kernel-exploitation-0x0-debugging.html| 
 | 20201112 | ZecOps 团队对 ICMPv6 Bad Neighbor 漏洞的分析 | https://blog.zecops.com/vulnerabilities/exploring-the-exploitability-of-bad-neighbor-the-recent-icmpv6-vulnerability-cve-2020-16898/| 
+| 20201112 | Weblogic IIOP 协议 NAT 网络绕过。 | https://paper.seebug.org/1396/| 
+| 20201112 | 思科Talos团队最近发现了CRAT的恶意软件家族的新版本。 | https://blog.talosintelligence.com/2020/11/crat-and-plugins.html?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+feedburner%2FTalos+%28Talos%E2%84%A2+Blog%29| 
 
 
 # 安全维基 推荐
@@ -28,21 +30,23 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20201112T13:32:34Z | CVE-2020-28415 | Null | https://github.com/jet-pentest/CVE-2020-28415 | | 
-| 20201112T13:32:04Z | CVE-2020-28414 | Null | https://github.com/jet-pentest/CVE-2020-28414 | 未查询到CVE信息| 
-| 20201112T12:24:32Z | CVE-2020-15228 | Fix CVE-2020-15228 (set-env, add-path in Github-Actions) | https://github.com/guettli/fix-CVE-2020-15228 | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
+| 20201112T18:05:39Z | CVE-2020-15228 | Fix CVE-2020-15228 (set-env, add-path in Github-Actions) | https://github.com/guettli/fix-CVE-2020-15228 | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
+| 20201112T15:34:28Z | CVE-2020-13886 | Exploit CVE-2020-13886 - LFI Intelbras TIP 200 / 200 LITE /  | https://github.com/lucxssouza/CVE-2020-13886 | 未查询到CVE信息| 
+| 20201112T13:32:34Z | CVE-2020-28415 | Null | https://github.com/jet-pentest/CVE-2020-28415 | TranzWare 支付网关 3.1.12.3.2 中存在反映的跨站点脚本 （XSS） 漏洞。远程未经身份验证的攻击者能够通过精心制作的 URL 执行任意 HTML 代码（与 CVE-2020-28414 不同的向量）。| 
+| 20201112T13:32:04Z | CVE-2020-28414 | Null | https://github.com/jet-pentest/CVE-2020-28414 | TranzWare 支付网关 3.1.12.3.2 中存在反映的跨站点脚本 （XSS） 漏洞。远程未经身份验证的攻击者能够通过精心制作的 URL 执行任意 HTML 代码（与 CVE-2020-28415 不同）。| 
 | 20201112T12:16:35Z | CVE-2020-2020 | Null | https://github.com/x51/CVE-2020-2020-14882 | 未查询到CVE信息| 
-| 20201112T10:34:58Z | CVE-2020-16126 | A bash script exploit of [CVE-2020-16126/CVE-2020-16127] to achieve privilege escalation. | https://github.com/zev3n/Ubuntu-Gnome-privilege-escalation | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 00 MINUTES 33 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201112T10:34:58Z | CVE-2020-16126 | A bash script exploit of [CVE-2020-16126/CVE-2020-16127] to achieve privilege escalation. | https://github.com/zev3n/Ubuntu-Gnome-privilege-escalation | 在0.6.55-0ubuntu13.2之前的版本中，对Ubuntus的AccountsService进行的特定修改以及其他较早的版本，不正确地放弃了原谅，使不受信任的用户向AccountService发送信号，从而阻止其及时处理D-Bus消息。| 
 | 20201112T10:07:30Z | CVE-2020-14882 | Null | https://github.com/QmF0c3UK/CVE-2020-14882 | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
-| 20201112T06:17:04Z | CVE-2020-5902 | A network detection package for CVE-2020-5902, a CVE10.0 vulnerability affecting F5 Networks, Inc BIG-IP devices. | https://github.com/corelight/CVE-2020-5902-F5BigIP | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 00 MINUTES 20 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20201112T02:37:34Z | CVE-2020-10189 | Null | https://github.com/zavke/CVE-2020-10189-ManageEngine | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 00 MINUTES 33 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201112T06:17:04Z | CVE-2020-5902 | A network detection package for CVE-2020-5902, a CVE10.0 vulnerability affecting F5 Networks, Inc BIG-IP devices. | https://github.com/corelight/CVE-2020-5902-F5BigIP | 在BIG-IP版本15.0.0-15.1.0.3、14.1.0-14.1.2.5、13.1.0-13.1.3.3、12.1.0-12.1.5.1和11.6.1-11.6.5.1中，流量管理用户接口（TMUI），也称为“配置”实用程序，在未公开的页面中具有远程执行代码（RCE）漏洞。| 
+| 20201112T02:37:34Z | CVE-2020-10189 | Null | https://github.com/zavke/CVE-2020-10189-ManageEngine | 10.0.474之前的Zoho ManageEngine Desktop Central允许远程执行代码，因为FileStorage类的getChartImage中的不可信数据反序列化。这与CewolfServlet和MDMLogUploaderServlet Servlet有关。| 
 | 20201112T02:04:13Z | CVE-2020-14882 | Vulmap - Web漏洞扫描和验证工具，可对Web容器、Web服务器、Web中间件以及CMS等Web程序进行漏洞扫描，并且具备漏洞利用功能。 相关测试人员可以使用vulmap检测目标是否存在特定漏洞，并且可以使用漏洞利用功能验证漏洞是否真实存在。CVE-2020-14882, CVE-2020-2555, CVE-2020-2883 | https://github.com/zhzyker/vulmap | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20201112T13:53:44Z | Null | https://github.com/klee-chan/klee-chan.github.io | 0 | 0| 
+| 20201112T21:06:28Z | Null | https://github.com/klee-chan/klee-chan.github.io | 0 | 0| 
+| 20201112T19:21:08Z | RVT is a collection of tools/libraries to support both static and dynamic verification of Rust programs. | https://github.com/project-oak/rust-verification-tools | 95 | 5| 
 | 20201112T10:14:02Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1539 | 467| 
 | 20201112T03:31:29Z | Null | https://github.com/DonaldKLee/DonaldKLee | 0 | 0| 
 | 20201112T02:14:36Z | Still currently in progress | https://github.com/DonaldKLee/DonaldKLee.github.io | 1 | 0| 
@@ -57,30 +61,31 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20201112T13:35:01Z | Development of code to exploit LSST and VISTA imaging | https://github.com/lsst-uk/lsst-ir-fusion | 0 | 0| 
-| 20201112T13:23:03Z | A GUI version of axi0mX%s ipwndfu exploit suite | https://github.com/alyxferrari/checkm8gui | 53 | 16| 
-| 20201112T12:59:53Z | CTF竞赛权威指南(Pwn篇) | https://github.com/firmianay/CTF-All-In-One | 2132 | 436| 
-| 20201112T12:48:58Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 6 | 4| 
-| 20201112T11:31:23Z | blog repository (nonetype.kr) | https://github.com/nonetype/nonetype.github.io | 0 | 0| 
-| 20201112T11:16:17Z | WptsExtensions.dll for exploiting DLL hijacking of the task scheduler. | https://github.com/phackt/wptsextensions.dll | 1 | 1| 
-| 20201112T11:05:42Z | A bunch of scripts for minecraft exploitation (still under development) | https://github.com/ivfreire/mc_scripts | 0 | 0| 
-| 20201112T10:47:38Z | xcube is a Python package for generating and exploiting data cubes powered by xarray, dask, and zarr. | https://github.com/dcs4cop/xcube | 65 | 11| 
-| 20201112T10:34:58Z | A bash script exploit of [CVE-2020-16126/CVE-2020-16127] to achieve privilege escalation. | https://github.com/zev3n/Ubuntu-Gnome-privilege-escalation | 0 | 0| 
-| 20201112T10:28:17Z | Sifter is a OSINT, recon & vulnerability scanner. It incorporates a plethara of tools within different module sets that tries to cover every attack vector. Allowing you to quickly perform recon tasks and organize the results in one place. From OSINT to Recon, Exploitation, Post-Exploitation, OpSec, Threat Analysis, XSS, SQLinjection, Network Scanning, WebApp Analysis or DNS enumeration.. Sifter should be able to cover it all. | https://github.com/s1l3nt78/sifter | 280 | 88| 
+| 20201112T23:58:45Z | Exploits that I%ve written for Stephen Bradshaw%s Vulnserver https://github.com/stephenbradshaw/vulnserver | https://github.com/VWolt/Vulnserver-Exploits | 0 | 0| 
+| 20201112T23:40:17Z | Roblox Exploit | https://github.com/0x83-Dev/x22.solutions | 0 | 0| 
+| 20201112T23:26:23Z | This is a repo for the coding done for CTFs / exploits. The writeups are here: https://github.com/dillonwu-97/csec_writeups | https://github.com/dillonwu-97/csec-code | 0 | 0| 
+| 20201112T23:22:51Z | Various techniques for exploiting Windows | https://github.com/billchaison/Windows-Trix | 5 | 0| 
+| 20201112T23:15:55Z | Minecraft Plugin to stop cheaty raid farms that exploit infinite bad omen loops | https://github.com/jmanpenilla/AntiRaidFarm | 1 | 0| 
+| 20201112T23:02:10Z | Repository that tracks public exploits, vulnerabilities and advisories that I [co-]discovered or [co-]authored. | https://github.com/rdomanski/Exploits_and_Advisories | 9 | 1| 
+| 20201112T22:51:57Z | MACRO Delivery Exploit tool version 1.27 | https://github.com/ctoslab/MACROEXPLOIT | 0 | 0| 
+| 20201112T22:42:38Z | Exploits (compiled or other) | https://github.com/sduig/Exploits | 0 | 0| 
+| 20201112T22:21:29Z | Exploit the result of a GDPR request to deezer | https://github.com/fayak/deezer-stats | 0 | 0| 
+| 20201112T20:59:17Z | I just made it for an example If you want to share it you can no problem, But share with credits | https://github.com/ELeCTr0-AuRA/D-Rex-Exploit-Roblox | 0 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20201112T13:44:00Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 92 | 10| 
-| 20201112T13:43:37Z | is the first version, have some bugs but anyway | https://github.com/ranon-rat/golang-remote | 2 | 0| 
+| 20201112T23:29:51Z | This program is an non-object oriented opensource, hidden and undetectable backdoor/reverse shell/RAT for Windows made in Python 3 which contains many features such as multi-client support and cross-platform server. | https://github.com/xp4xbox/Python-Backdoor | 309 | 128| 
+| 20201112T23:19:43Z | Code and instructions for building a custom plugin backdoor for SonarQube | https://github.com/braindead-sec/pwnrqube | 0 | 0| 
+| 20201112T19:39:04Z | ParadoxiaRat : Native Windows Remote access Tool. | https://github.com/quantumcored/paradoxiaRAT | 261 | 56| 
+| 20201112T16:56:39Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 94 | 10| 
+| 20201112T14:56:47Z | Null | https://github.com/weizn11/Cisco_ASA_Backdoor | 1 | 0| 
+| 20201112T14:04:06Z | Desktop WOCA backdoor with Go | https://github.com/apal7/marauders-map-client-desktop | 0 | 0| 
+| 20201112T14:02:48Z | is a remote access computer. | https://github.com/ranon-rat/golang-remote | 2 | 0| 
 | 20201112T13:39:07Z | is the first version, have some bugs but anyway | https://github.com/ranon-rat/golang-backdoor | 2 | 0| 
 | 20201112T10:09:48Z | LKM rootkit for Linux Kernels 2.6.x/3.x/4.x/5.x (x86/x86_64 and ARM64) | https://github.com/m0nad/Diamorphine | 654 | 252| 
 | 20201112T09:01:39Z | Basic Windows reverse shell written in C++ | https://github.com/hacefresko/CppBackdoor | 0 | 0| 
-| 20201112T07:56:32Z | Null | https://github.com/penetrators-sec/RANSBOT | 0 | 0| 
-| 20201112T07:30:12Z | FOR HW | https://github.com/sackie96/NEW-BACKDOOR | 0 | 0| 
-| 20201112T07:11:52Z | Null | https://github.com/weizn11/Cisco_ASA_Backdoor | 0 | 0| 
-| 20201112T06:42:19Z | Null | https://github.com/FalseG0d/PythonBackdoor | 0 | 0| 
 
 
 # fuzz on Github 推荐
