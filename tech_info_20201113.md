@@ -71,10 +71,16 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20201113T23:32:39Z | Backdoors framework based on %Blind Backdoors in Deep Learning Models% | https://github.com/ebagdasa/backdoors101 | 7 | 0| 
+| 20201113T20:28:51Z | Thoron Framework is a Linux post-exploitation framework that exploits Linux TCP vulnerability to provide a shell-like connection. Thoron Framework has the ability to create simple payloads to provide Linux TCP attack. | https://github.com/EntySec/thoron | 81 | 29| 
+| 20201113T19:57:14Z | Code and instructions for building a custom plugin backdoor for SonarQube | https://github.com/braindead-sec/pwnrqube | 0 | 0| 
+| 20201113T19:09:37Z | Backdoor em python usando sockets | https://github.com/Braga451/bakcdoor_python_socket | 0 | 0| 
+| 20201113T19:01:48Z | ParadoxiaRat : Native Windows Remote access Tool. | https://github.com/quantumcored/paradoxiaRAT | 265 | 57| 
+| 20201113T17:23:51Z | A deck-building roguelike cyberpunk game. | https://github.com/uspgamedev/backdoor | 19 | 3| 
+| 20201113T17:13:30Z | Unicorn Framework is an iOS, macOS and Linux post-exploitation framework that using one line command and powerful python payload attempts to spawn a command line session with a lot of features such as downloading files, uploading files, getting system information and etc. | https://github.com/EntySec/unicorn | 8 | 4| 
+| 20201113T14:21:17Z | This program is an non-object oriented opensource, hidden and undetectable backdoor/reverse shell/RAT for Windows made in Python 3 which contains many features such as multi-client support and cross-platform server. | https://github.com/xp4xbox/Python-Backdoor | 310 | 128| 
+| 20201113T14:17:55Z | etli ekmek | https://github.com/hkeydesign/backdoor | 1 | 0| 
 | 20201113T13:09:39Z | Simple and mini Shell backdoor by Adimas | https://github.com/Adimas120/Mini-Shell-backdoor | 0 | 0| 
-| 20201113T11:05:46Z | Unicorn Framework is an iOS, macOS and Linux post-exploitation framework that using one line command and powerful python payload attempts to spawn a command line session with a lot of features such as downloading files, uploading files, getting system information and etc. | https://github.com/EntySec/unicorn | 8 | 3| 
-| 20201113T10:29:26Z | ParadoxiaRat : Native Windows Remote access Tool. | https://github.com/quantumcored/paradoxiaRAT | 262 | 57| 
-| 20201113T01:16:21Z | Code and instructions for building a custom plugin backdoor for SonarQube | https://github.com/braindead-sec/pwnrqube | 0 | 0| 
 
 
 # fuzz on Github 推荐
