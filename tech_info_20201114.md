@@ -13,6 +13,8 @@
 | --- | --- | ---| 
 | 20201114 | UEditor编辑器任意文件上传漏洞分析 | https://xz.aliyun.com/t/8488| 
 | 20201114 | 某HW行动中的一次渗透测试 | https://xz.aliyun.com/t/8493| 
+| 20201114 | 从网关进入内网到DNS协议出网 | https://mp.weixin.qq.com/s/_LjtSgwv7fWDEjPgh_1tZw| 
+| 20201114 | 2020年xnuca oooooooldjs题解 | https://www.anquanke.com/post/id/221388| 
 
 
 # CVE Github 推荐
@@ -66,7 +68,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20201114T12:57:52Z | Very Fast and Powerful Web Fuzzer | https://github.com/RedSecurity/power-ffuf | 0 | 0| 
+| 20201114T13:23:15Z | Very Fast and Powerful Web Fuzzer | https://github.com/RedSecurity/power-ffuf | 0 | 0| 
 | 20201114T12:48:44Z | Collection of HTTP scanners and fuzzers. | https://github.com/buffermet/bug-bounty-tools | 8 | 1| 
 | 20201114T12:20:30Z | Null | https://github.com/lavanquan/fuzzy_qlearning | 0 | 0| 
 | 20201114T12:18:25Z | Construccion de sistema de reglas | https://github.com/pdmeta108/fuzzy_system | 0 | 0| 
