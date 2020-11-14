@@ -47,11 +47,11 @@
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
 | 20201113T18:51:41Z | CVE-2020-25769 | GOG Galaxy Local Privilege Escalation | https://github.com/lagartojuancho/CVE-2020-25769 | 未查询到CVE信息| 
-| 20201113T14:58:52Z | CVE-2020-25213 | CVE-2020-25213 Wordpress File Manager 6.7 Plugin 0day exploit | https://github.com/Dark-Grizzly/WPKiller | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 08 MINUTES 36 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201113T14:58:52Z | CVE-2020-25213 | CVE-2020-25213 Wordpress File Manager 6.7 Plugin 0day exploit | https://github.com/Dark-Grizzly/WPKiller | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 06 MINUTES 34 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20201113T13:41:44Z | CVE-2020-15349 | Vulnerability Description of CVE-2020-15349 | https://github.com/Traxes/Forklift_LPE | 未查询到CVE信息| 
 | 20201113T13:30:53Z | CVE-2020-25213 | CVE-2020-25213 Wordpress File Manager 6.7 Plugin 0day exploit | https://github.com/Dark-Grizzly/Wordpress-Zeroday | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 01 MINUTES 36 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20201113T09:52:13Z | CVE-2020-8165 | Null | https://github.com/umiterkol/CVE-2020-8165--Auto-Shell | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 08 MINUTES 35 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20201113T08:14:47Z | CVE-2020-15931 | Netwrix Account Lockout Examiner 4.1 Domain Admin Account Credential Disclosure Vulnerability | https://github.com/optiv/CVE-2020-15931 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 08 MINUTES 15 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201113T09:52:13Z | CVE-2020-8165 | Null | https://github.com/umiterkol/CVE-2020-8165--Auto-Shell | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 06 MINUTES 33 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201113T08:14:47Z | CVE-2020-15931 | Netwrix Account Lockout Examiner 4.1 Domain Admin Account Credential Disclosure Vulnerability | https://github.com/optiv/CVE-2020-15931 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 06 MINUTES 19 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20201113T06:03:09Z | CVE-2020-14882 | Null | https://github.com/x51/CVE-2020-14882 | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
 | 20201113T02:25:25Z | CVE-2020-2020 | Null | https://github.com/x51/CVE-2020-2020-14882 | 未查询到CVE信息| 
 | 20201113T01:01:49Z | CVE-2020-15228 | Fix CVE-2020-15228 (set-env, add-path in Github-Actions) | https://github.com/guettli/fix-CVE-2020-15228 | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
@@ -115,6 +115,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20201114T01:53:58Z | OSS-Fuzz - continuous fuzzing of open source software. | https://github.com/google/oss-fuzz | 5655 | 1113| 
 | 20201114T01:15:04Z | Null | https://github.com/zeddzorandder/fuzzy-couscous | 0 | 0| 
 | 20201114T01:04:56Z | Null | https://github.com/MSE-QualityAssurance/FuzzyBunnies | 0 | 0| 
 | 20201114T00:30:01Z | Scalable fuzzing infrastructure. | https://github.com/google/clusterfuzz | 4359 | 396| 
@@ -124,7 +125,6 @@
 | 20201113T23:30:16Z | fuzzing and benching for precompiles | https://github.com/prestwich/smash | 3 | 1| 
 | 20201113T23:17:53Z | Null | https://github.com/terminal-labs/fuzzball-states | 0 | 0| 
 | 20201113T22:49:17Z | Null | https://github.com/googleinterns/hw-fuzzing | 2 | 0| 
-| 20201113T22:06:09Z | Fuzzy matching publications for fatcat (wip). | https://github.com/miku/fuzzycat | 0 | 1| 
 
 
 
