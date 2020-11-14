@@ -28,10 +28,12 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20201113T18:51:41Z | CVE-2020-25769 | GOG Galaxy Local Privilege Escalation | https://github.com/lagartojuancho/CVE-2020-25769 | 未查询到CVE信息| 
+| 20201113T14:58:52Z | CVE-2020-25213 | CVE-2020-25213 Wordpress File Manager 6.7 Plugin 0day exploit | https://github.com/Dark-Grizzly/WPKiller | WordPress 6.9之前的文件管理器（wp-file-manager）插件允许远程攻击者上传和执行任意PHP代码，因为它将不安全的示例elFinder连接器文件重命名为具有.php扩展名。例如，这允许攻击者运行elFinder upload（或mkfile和put）命令将PHP代码写入wp-content / plugins / wp-file-manager / lib / files /目录。 2020年8月和9月在野外进行了开发。| 
 | 20201113T13:41:44Z | CVE-2020-15349 | Vulnerability Description of CVE-2020-15349 | https://github.com/Traxes/Forklift_LPE | 未查询到CVE信息| 
 | 20201113T13:30:53Z | CVE-2020-25213 | CVE-2020-25213 Wordpress File Manager 6.7 Plugin 0day exploit | https://github.com/Dark-Grizzly/Wordpress-Zeroday | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 01 MINUTES 36 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20201113T09:52:13Z | CVE-2020-8165 | Null | https://github.com/umiterkol/CVE-2020-8165--Auto-Shell | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 01 MINUTES 35 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20201113T08:14:47Z | CVE-2020-15931 | Netwrix Account Lockout Examiner 4.1 Domain Admin Account Credential Disclosure Vulnerability | https://github.com/optiv/CVE-2020-15931 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 01 MINUTES 21 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201113T09:52:13Z | CVE-2020-8165 | Null | https://github.com/umiterkol/CVE-2020-8165--Auto-Shell | 在&lt;5.2.4.3的轨道，在&lt;6.0.3.1的轨道中存在不可信数据漏洞的反序列化，这可能使攻击者可以取消对MemCacheStore和RedisCacheStore中用户提供的对象的编组，可能会导致RCE。| 
+| 20201113T08:14:47Z | CVE-2020-15931 | Netwrix Account Lockout Examiner 4.1 Domain Admin Account Credential Disclosure Vulnerability | https://github.com/optiv/CVE-2020-15931 | 5.1之前的Netwrix帐户锁定检查器允许远程攻击者通过生成单个Kerberos预身份验证失败（ID 4771）事件来捕获Domain Administrator的Net-NTLMv1 / v2身份验证质询哈希（在产品中以其安装状态进行配置）在域控制器上。| 
 | 20201113T06:03:09Z | CVE-2020-14882 | Null | https://github.com/x51/CVE-2020-14882 | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
 | 20201113T02:25:25Z | CVE-2020-2020 | Null | https://github.com/x51/CVE-2020-2020-14882 | 未查询到CVE信息| 
 | 20201113T01:01:49Z | CVE-2020-15228 | Fix CVE-2020-15228 (set-env, add-path in Github-Actions) | https://github.com/guettli/fix-CVE-2020-15228 | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
@@ -40,6 +42,8 @@
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20201113T18:42:56Z | RVT is a collection of tools/libraries to support both static and dynamic verification of Rust programs. | https://github.com/project-oak/rust-verification-tools | 96 | 5| 
+| 20201113T16:22:10Z | Null | https://github.com/matthiasbruns/kleener_fussel | 0 | 0| 
 | 20201113T08:46:23Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1540 | 467| 
 | 20201113T01:03:34Z | Create CFGs and compute complexity metrics for Python, C++, and Java code. | https://github.com/hmc-alpaqa/metrinome | 5 | 0| 
 
@@ -52,16 +56,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20201113T13:37:39Z | Windows Exploit Suggester - Next Generation | https://github.com/bitsadmin/wesng | 1936 | 310| 
-| 20201113T13:34:13Z | Sifter is a OSINT, recon & vulnerability scanner. It incorporates a plethara of tools within different module sets that tries to cover every attack vector. Allowing you to quickly perform recon tasks and organize the results in one place. From OSINT to Recon, Exploitation, Post-Exploitation, OpSec, Threat Analysis, XSS, SQLinjection, Network Scanning, WebApp Analysis or DNS enumeration.. Sifter should be able to cover it all. | https://github.com/s1l3nt78/sifter | 281 | 88| 
-| 20201113T13:30:53Z | CVE-2020-25213 Wordpress File Manager 6.7 Plugin 0day exploit | https://github.com/Dark-Grizzly/Wordpress-Zeroday | 0 | 0| 
-| 20201113T13:30:24Z | Vulnerabilities% Risk of Exploitation | https://github.com/thiagofigcosta/V-REx | 0 | 0| 
-| 20201113T13:24:44Z | blog repository (nonetype.kr) | https://github.com/nonetype/nonetype.github.io | 0 | 0| 
-| 20201113T13:19:48Z | This bash script will help you to hack remote hosts  | https://github.com/FabioDefilippo/linuxallremote | 1 | 0| 
-| 20201113T12:57:50Z | Kijani is an web based application that exploits AR technology to encourage its users to plant at least 5  trees in their  compound. | https://github.com/Lornakimani62/KIJANI | 0 | 0| 
-| 20201113T12:48:58Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 6 | 4| 
-| 20201113T11:06:25Z | iOS root bypass exploit. | https://github.com/enty8080/r00tic | 0 | 0| 
-| 20201113T11:05:46Z | Unicorn Framework is an iOS, macOS and Linux post-exploitation framework that using one line command and powerful python payload attempts to spawn a command line session with a lot of features such as downloading files, uploading files, getting system information and etc. | https://github.com/EntySec/unicorn | 8 | 3| 
+| 20201113T23:50:25Z | exploits for vm phoenix of exploit education https://exploit.education/phoenix/ | https://github.com/gu1mas/exploit-education_writeups | 0 | 0| 
+| 20201113T23:49:06Z | A bunch of scripts for minecraft exploitation (still under development). | https://github.com/ivfreire/mc_scripts | 0 | 0| 
+| 20201113T23:08:31Z | Im trying to reverse engineer and exploit the tile bluetooth tracker | https://github.com/lumagician/tile-tracker-reversed | 0 | 0| 
+| 20201113T22:55:36Z | This bash script will help you to hack remote hosts  | https://github.com/FabioDefilippo/linuxallremote | 1 | 0| 
+| 20201113T22:44:38Z | A python script file to remotely analyse and exploit Microsoft Windows system via impacket. | https://github.com/BroadbentT/WIN-MASTER | 14 | 10| 
+| 20201113T21:19:34Z | Various exploits and snippets | https://github.com/0x0000dd/exploits | 0 | 0| 
+| 20201113T20:50:17Z | Exploit for Laravel Remote Code Execution with API_KEY (CVE-2018-15133) | https://github.com/aljavier/exploit_laravel_cve-2018-15133 | 0 | 0| 
+| 20201113T20:48:11Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 3178 | 480| 
+| 20201113T20:28:51Z | Thoron Framework is a Linux post-exploitation framework that exploits Linux TCP vulnerability to provide a shell-like connection. Thoron Framework has the ability to create simple payloads to provide Linux TCP attack. | https://github.com/EntySec/thoron | 81 | 29| 
+| 20201113T19:39:13Z | Some exploits I have written to showcase and to share | https://github.com/scannells/exploits | 0 | 0| 
 
 
 # backdoor on Github 推荐
@@ -76,16 +80,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20201113T13:56:39Z | Rockyou for web fuzzing | https://github.com/six2dez/OneListForAll | 6 | 1| 
-| 20201113T13:49:44Z | Null | https://github.com/WeeYL/creative_fuzzbuzz | 0 | 0| 
-| 20201113T13:27:22Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 3226 | 743| 
-| 20201113T13:22:02Z | Data mahasiswa.xls ditaruh disini | https://github.com/condroagung/Fuzzy_Source_file | 0 | 0| 
-| 20201113T13:02:48Z | Collection of HTTP scanners and fuzzers. | https://github.com/buffermet/bug-bounty-tools | 8 | 1| 
-| 20201113T12:12:37Z | Null | https://github.com/rosin-project/ros2_fuzz | 2 | 0| 
-| 20201113T11:50:57Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2202 | 106| 
-| 20201113T11:24:30Z | Dreaming Memeroy | https://github.com/F4our/Fuzzing | 0 | 0| 
-| 20201113T11:11:01Z | Null | https://github.com/sucystem/Uri-Fuzzer | 0 | 0| 
-| 20201113T11:02:33Z | FormatFuzzer is a framework for high-efficiency, high-quality generation and parsing of binary inputs. | https://github.com/uds-se/FormatFuzzer | 87 | 7| 
+| 20201113T23:44:00Z | Experimental projects | https://github.com/tannmatter/fuzzy-happiness | 0 | 0| 
+| 20201113T23:30:16Z | fuzzing and benching for precompiles | https://github.com/prestwich/smash | 3 | 1| 
+| 20201113T23:17:53Z | Null | https://github.com/terminal-labs/fuzzball-states | 0 | 0| 
+| 20201113T22:49:17Z | Null | https://github.com/googleinterns/hw-fuzzing | 2 | 0| 
+| 20201113T22:06:09Z | Fuzzy matching publications for fatcat (wip). | https://github.com/miku/fuzzycat | 0 | 1| 
+| 20201113T21:53:24Z | A fuzzer that generates random Go programs | https://github.com/ALTree/microsmith | 6 | 0| 
+| 20201113T21:45:51Z | A collection of fuzzers in a harness for testing the SpiderMonkey JavaScript engine. | https://github.com/MozillaSecurity/funfuzz | 550 | 124| 
+| 20201113T21:30:10Z | Fuzz testing in the unit and integration phase with fuzz data from FuzzDB | https://github.com/fuzzdbunit/fuzzdbunit | 0 | 0| 
+| 20201113T20:53:59Z | Null | https://github.com/KylaBendrik/fuzzy-computing-machine | 1 | 0| 
+| 20201113T20:38:04Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 3227 | 743| 
 
 
 
