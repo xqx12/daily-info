@@ -15,6 +15,7 @@
 | 20201114 | 某HW行动中的一次渗透测试 | https://xz.aliyun.com/t/8493| 
 | 20201114 | 从网关进入内网到DNS协议出网 | https://mp.weixin.qq.com/s/_LjtSgwv7fWDEjPgh_1tZw| 
 | 20201114 | 2020年xnuca oooooooldjs题解 | https://www.anquanke.com/post/id/221388| 
+| 20201114 | SporeCrawler : Binary Taint Analysis with Angr | https://gitlab.com/k3170makan/sporecrawler| 
 
 
 # CVE Github 推荐
@@ -38,6 +39,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20201114T13:36:55Z | A cheat sheet that contains common enumeration and attack methods for Windows Active Directory. | https://github.com/Integration-IT/Active-Directory-Exploitation-Cheat-Sheet | 659 | 129| 
 | 20201114T12:57:49Z | Thi powershell script has got to run in remote windows host, even for pivoting | https://github.com/FabioDefilippo/winallenum | 0 | 0| 
 | 20201114T12:56:17Z | this bash script is for remote linux hosts hacked! | https://github.com/FabioDefilippo/linuxallenum | 8 | 0| 
 | 20201114T12:55:54Z | This bash script will help you to hack remote hosts  | https://github.com/FabioDefilippo/linuxallremote | 1 | 0| 
@@ -47,7 +49,6 @@
 | 20201114T12:19:06Z | A python based cross-platform tool that automates the process of detecting and exploiting error-based injection security flaws. | https://github.com/r0oth3x49/Xpath | 83 | 39| 
 | 20201114T12:16:45Z | Feature-rich Post Exploitation Framework with Network Pivoting capabilities. | https://github.com/quantumcored/maalik | 32 | 7| 
 | 20201114T11:31:56Z | Unicorn Framework is an iOS, macOS and Linux post-exploitation framework that using one line command and powerful python payload attempts to spawn a command line session with a lot of features such as downloading files, uploading files, getting system information and etc. | https://github.com/EntySec/unicorn | 9 | 3| 
-| 20201114T11:31:22Z | Exploits that I%ve written for Stephen Bradshaw%s Vulnserver https://github.com/stephenbradshaw/vulnserver | https://github.com/VWolt/Vulnserver-Exploits | 0 | 0| 
 
 
 # backdoor on Github 推荐
@@ -68,7 +69,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20201114T13:23:38Z | Very Fast and Powerful Web Fuzzer | https://github.com/RedSecurity/power-ffuf | 0 | 0| 
+| 20201114T13:33:36Z | Very Fast and Powerful Web Fuzzer | https://github.com/RedSecurity/power-ffuf | 0 | 0| 
 | 20201114T12:48:44Z | Collection of HTTP scanners and fuzzers. | https://github.com/buffermet/bug-bounty-tools | 8 | 1| 
 | 20201114T12:20:30Z | Null | https://github.com/lavanquan/fuzzy_qlearning | 0 | 0| 
 | 20201114T12:18:25Z | Construccion de sistema de reglas | https://github.com/pdmeta108/fuzzy_system | 0 | 0| 
