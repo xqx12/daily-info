@@ -40,10 +40,10 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20201114T13:59:49Z | This bash script will help you to hack remote hosts  | https://github.com/FabioDefilippo/linuxallremote | 1 | 0| 
 | 20201114T13:36:55Z | A cheat sheet that contains common enumeration and attack methods for Windows Active Directory. | https://github.com/Integration-IT/Active-Directory-Exploitation-Cheat-Sheet | 659 | 129| 
 | 20201114T12:57:49Z | Thi powershell script has got to run in remote windows host, even for pivoting | https://github.com/FabioDefilippo/winallenum | 0 | 0| 
 | 20201114T12:56:17Z | this bash script is for remote linux hosts hacked! | https://github.com/FabioDefilippo/linuxallenum | 8 | 0| 
-| 20201114T12:55:54Z | This bash script will help you to hack remote hosts  | https://github.com/FabioDefilippo/linuxallremote | 1 | 0| 
 | 20201114T12:52:38Z | post_exploitation | https://github.com/dar3k93/post_exploitation | 1 | 0| 
 | 20201114T12:39:28Z | CTFs I%ve played so far | https://github.com/AravGarg/CTFarchives | 14 | 4| 
 | 20201114T12:19:40Z | Experiments of binary exploit and hardware security | https://github.com/chuang76/Security-101 | 2 | 0| 
