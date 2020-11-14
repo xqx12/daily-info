@@ -31,6 +31,8 @@
 # 安全维基 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20201114 | UEditor编辑器任意文件上传漏洞分析 | https://xz.aliyun.com/t/8488| 
+| 20201114 | 某HW行动中的一次渗透测试 | https://xz.aliyun.com/t/8493| 
 | 20201113 | 自然语言处理的未来十年 | https://zhuanlan.zhihu.com/p/289716231| 
 | 20201113 | 使用Spark进行大规模图形挖掘 | https://mp.weixin.qq.com/s/vytVTAgU-6_iRG-drf9eYQ| 
 | 20201113 | Hunting for Malicious Packages on PyPI | https://jordan-wright.com/blog/post/2020-11-12-hunting-for-malicious-packages-on-pypi/| 
@@ -39,28 +41,27 @@
 | 20201112 | 一名二进制CTF选手的一点心得 | https://www.sec-in.com/article/641| 
 | 20201112 | RapidDNS域名查询如何联动Goby | https://nosec.org/home/detail/4605.html| 
 | 20201112 | 细说php反序列化字符逃逸 | https://mp.weixin.qq.com/s/7jAS7R_GuBBz6M8U6lQv-w| 
-| 20201111 | Metasploit修改hosts多种方法 | https://mp.weixin.qq.com/s/kH7WJqzOSiPGve7oMLJKyQ| 
-| 20201111 | 帮助信息网络犯罪活动罪案例汇总 | https://mp.weixin.qq.com/s/RlFD6H-_4j5g2R49IE9ghw| 
 
 
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20201113T18:51:41Z | CVE-2020-25769 | GOG Galaxy Local Privilege Escalation | https://github.com/lagartojuancho/CVE-2020-25769 | | 
-| 20201113T14:58:52Z | CVE-2020-25213 | CVE-2020-25213 Wordpress File Manager 6.7 Plugin 0day exploit | https://github.com/Dark-Grizzly/WPKiller | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 00 MINUTES 30 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201114T09:42:21Z | CVE-2020-14882 | Null | https://github.com/QmF0c3UK/CVE-2020-14882 | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
+| 20201114T08:55:28Z | CVE-2020-25705 | PoC for CVE-2020-25705 POC-2020-25705 | https://github.com/tdwyer/CVE-2020-25705 | 未查询到CVE信息| 
+| 20201113T18:51:41Z | CVE-2020-25769 | GOG Galaxy Local Privilege Escalation | https://github.com/lagartojuancho/CVE-2020-25769 | 未查询到CVE信息| 
+| 20201113T14:58:52Z | CVE-2020-25213 | CVE-2020-25213 Wordpress File Manager 6.7 Plugin 0day exploit | https://github.com/Dark-Grizzly/WPKiller | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 58 MINUTES 38 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20201113T13:41:44Z | CVE-2020-15349 | Vulnerability Description of CVE-2020-15349 | https://github.com/Traxes/Forklift_LPE | 未查询到CVE信息| 
 | 20201113T13:30:53Z | CVE-2020-25213 | CVE-2020-25213 Wordpress File Manager 6.7 Plugin 0day exploit | https://github.com/Dark-Grizzly/Wordpress-Zeroday | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 01 MINUTES 36 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20201113T09:52:13Z | CVE-2020-8165 | Null | https://github.com/umiterkol/CVE-2020-8165--Auto-Shell | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 00 MINUTES 29 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20201113T08:14:47Z | CVE-2020-15931 | Netwrix Account Lockout Examiner 4.1 Domain Admin Account Credential Disclosure Vulnerability | https://github.com/optiv/CVE-2020-15931 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 00 MINUTES 15 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201113T09:52:13Z | CVE-2020-8165 | Null | https://github.com/umiterkol/CVE-2020-8165--Auto-Shell | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 58 MINUTES 36 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201113T08:14:47Z | CVE-2020-15931 | Netwrix Account Lockout Examiner 4.1 Domain Admin Account Credential Disclosure Vulnerability | https://github.com/optiv/CVE-2020-15931 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 58 MINUTES 24 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20201113T06:03:09Z | CVE-2020-14882 | Null | https://github.com/x51/CVE-2020-14882 | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
 | 20201113T02:25:25Z | CVE-2020-2020 | Null | https://github.com/x51/CVE-2020-2020-14882 | 未查询到CVE信息| 
-| 20201113T01:01:49Z | CVE-2020-15228 | Fix CVE-2020-15228 (set-env, add-path in Github-Actions) | https://github.com/guettli/fix-CVE-2020-15228 | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
-| 20201112T15:34:28Z | CVE-2020-13886 | Exploit CVE-2020-13886 - LFI Intelbras TIP 200 / 200 LITE /  | https://github.com/lucxssouza/CVE-2020-13886 | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20201114T10:19:03Z | Null | https://github.com/klee30810/klee30810 | 1 | 0| 
 | 20201113T18:42:56Z | RVT is a collection of tools/libraries to support both static and dynamic verification of Rust programs. | https://github.com/project-oak/rust-verification-tools | 96 | 5| 
 | 20201113T16:22:10Z | Null | https://github.com/matthiasbruns/kleener_fussel | 0 | 0| 
 | 20201113T08:46:23Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1540 | 467| 
@@ -70,7 +71,6 @@
 | 20201112T02:14:36Z | Still currently in progress | https://github.com/DonaldKLee/DonaldKLee.github.io | 1 | 0| 
 | 20201110T17:21:24Z | Urban Evidence Based Policy (SPPA667) | https://github.com/KLeeDE/PUS2020_KLee | 0 | 1| 
 | 20201110T16:56:58Z | Null | https://github.com/thierry-tct/KLEE-SEMu | 1 | 0| 
-| 20201110T13:44:55Z | Symbiotic is a tool for finding bugs in computer programs based on instrumentation, program slicing and KLEE | https://github.com/staticafi/symbiotic | 200 | 33| 
 
 
 # s2e on Github 推荐
@@ -85,16 +85,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20201114T03:00:03Z | Null | https://github.com/corsec00/Exploits | 0 | 0| 
-| 20201114T02:47:29Z | Vulnerabilities% Risk of Exploitation | https://github.com/thiagofigcosta/V-REx | 0 | 0| 
-| 20201114T02:33:02Z | A python exploitation framework for the SendBird Chat Api | https://github.com/tcbutler320/SendBirdy | 0 | 0| 
-| 20201114T02:27:47Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 3179 | 480| 
-| 20201114T02:02:06Z | Null | https://github.com/royanpng2/MyExploit | 0 | 0| 
-| 20201114T01:20:12Z | Null | https://github.com/jackybabes/Exploits | 0 | 0| 
-| 20201114T00:48:58Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 6 | 4| 
-| 20201113T23:50:25Z | exploits for vm phoenix of exploit education https://exploit.education/phoenix/ | https://github.com/gu1mas/exploit-education_writeups | 0 | 0| 
-| 20201113T23:49:06Z | A bunch of scripts for minecraft exploitation (still under development). | https://github.com/ivfreire/mc_scripts | 0 | 0| 
-| 20201113T23:08:31Z | Im trying to reverse engineer and exploit the tile bluetooth tracker | https://github.com/lumagician/tile-tracker-reversed | 0 | 0| 
+| 20201114T12:57:49Z | Thi powershell script has got to run in remote windows host, even for pivoting | https://github.com/FabioDefilippo/winallenum | 0 | 0| 
+| 20201114T12:56:17Z | this bash script is for remote linux hosts hacked! | https://github.com/FabioDefilippo/linuxallenum | 8 | 0| 
+| 20201114T12:55:54Z | This bash script will help you to hack remote hosts  | https://github.com/FabioDefilippo/linuxallremote | 1 | 0| 
+| 20201114T12:52:38Z | post_exploitation | https://github.com/dar3k93/post_exploitation | 1 | 0| 
+| 20201114T12:39:28Z | CTFs I%ve played so far | https://github.com/AravGarg/CTFarchives | 14 | 4| 
+| 20201114T12:19:40Z | Experiments of binary exploit and hardware security | https://github.com/chuang76/Security-101 | 2 | 0| 
+| 20201114T12:19:06Z | A python based cross-platform tool that automates the process of detecting and exploiting error-based injection security flaws. | https://github.com/r0oth3x49/Xpath | 83 | 39| 
+| 20201114T12:16:45Z | Feature-rich Post Exploitation Framework with Network Pivoting capabilities. | https://github.com/quantumcored/maalik | 32 | 7| 
+| 20201114T11:31:56Z | Unicorn Framework is an iOS, macOS and Linux post-exploitation framework that using one line command and powerful python payload attempts to spawn a command line session with a lot of features such as downloading files, uploading files, getting system information and etc. | https://github.com/EntySec/unicorn | 9 | 3| 
+| 20201114T11:31:22Z | Exploits that I%ve written for Stephen Bradshaw%s Vulnserver https://github.com/stephenbradshaw/vulnserver | https://github.com/VWolt/Vulnserver-Exploits | 0 | 0| 
 
 
 # backdoor on Github 推荐
@@ -115,16 +115,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20201114T02:51:35Z | Fuzzy matching publications for fatcat (wip). | https://github.com/miku/fuzzycat | 0 | 1| 
-| 20201114T02:40:53Z | OSS-Fuzz - continuous fuzzing of open source software. | https://github.com/google/oss-fuzz | 5656 | 1113| 
-| 20201114T02:20:29Z | Null | https://github.com/ShotaroBaba/fuzzy_wuzzy_test | 0 | 0| 
-| 20201114T01:54:52Z | Rockyou for web fuzzing | https://github.com/six2dez/OneListForAll | 29 | 7| 
-| 20201114T01:15:04Z | Null | https://github.com/zeddzorandder/fuzzy-couscous | 0 | 0| 
-| 20201114T01:04:56Z | Null | https://github.com/MSE-QualityAssurance/FuzzyBunnies | 0 | 0| 
-| 20201114T00:30:01Z | Scalable fuzzing infrastructure. | https://github.com/google/clusterfuzz | 4359 | 396| 
-| 20201114T00:29:30Z | Fuzzy matching for Neovim | https://github.com/amirrezaask/fuzzy.nvim | 23 | 1| 
-| 20201113T23:44:00Z | Experimental projects | https://github.com/tannmatter/fuzzy-happiness | 0 | 0| 
-| 20201113T23:30:16Z | fuzzing and benching for precompiles | https://github.com/prestwich/smash | 3 | 1| 
+| 20201114T12:57:52Z | Very Fast and Powerful Web Fuzzer | https://github.com/RedSecurity/power-ffuf | 0 | 0| 
+| 20201114T12:48:44Z | Collection of HTTP scanners and fuzzers. | https://github.com/buffermet/bug-bounty-tools | 8 | 1| 
+| 20201114T12:20:30Z | Null | https://github.com/lavanquan/fuzzy_qlearning | 0 | 0| 
+| 20201114T12:18:25Z | Construccion de sistema de reglas | https://github.com/pdmeta108/fuzzy_system | 0 | 0| 
+| 20201114T10:59:09Z | Null | https://github.com/hariom76/fuzzy-eureka | 0 | 0| 
+| 20201114T10:19:27Z | Library to wrap all file calls when fuzzing with AFL++ | https://github.com/marekzmyslowski/libfiowrapper | 31 | 2| 
+| 20201114T09:39:13Z | A simple web form fuzzer, primarily targetting PHP | https://github.com/hannob/webformfuzzer | 0 | 0| 
+| 20201114T08:46:07Z | Personal website of Laurence Hughes | https://github.com/fuzzylogicxx/fuzzylogic | 4 | 1| 
+| 20201114T07:27:28Z | Fuzzy Telegram | https://github.com/ppkulkarn/fuzzy-telegram | 0 | 0| 
+| 20201114T07:14:20Z | Null | https://github.com/terminal-labs/fuzzball | 0 | 0| 
 
 
 
