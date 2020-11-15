@@ -47,10 +47,10 @@
 | 20201114T21:45:00Z | Fuel CMS 1.4 - Remote Code Execution | https://github.com/noraj/fuelcms-rce | 0 | 0| 
 | 20201114T21:36:13Z | OpenEMR <= 5.0.1 - (Authenticated) Remote Code Execution | https://github.com/noraj/OpenEMR-RCE | 3 | 0| 
 | 20201114T21:05:34Z | EXPLOIT ADB | https://github.com/TAYRELW/TAYREXPLOIT | 1 | 0| 
-| 20201114T21:00:08Z | Reveals impostors in Among Us | https://github.com/k0rnh0li0/SusCheck | 1 | 0| 
 | 20201114T20:13:57Z | Null | https://github.com/quentin452/Cats-Exploitz-HUB | 0 | 1| 
 | 20201114T19:58:44Z | post_exploitation | https://github.com/dar3k93/post_exploitation | 1 | 0| 
 | 20201114T18:42:52Z | Rowhammer based exploit | https://github.com/rishyanthkondra/RowhammerExploit | 0 | 0| 
+| 20201114T18:30:01Z | Mutate a target to identify exploit candidates. | https://github.com/demetrius-ford/mutation-fuzzer | 0 | 0| 
 
 
 # backdoor on Github 推荐

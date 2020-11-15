@@ -54,7 +54,7 @@
 | 20201113T13:41:44Z | CVE-2020-15349 | Vulnerability Description of CVE-2020-15349 | https://github.com/Traxes/Forklift_LPE | 未查询到CVE信息| 
 | 20201113T13:30:53Z | CVE-2020-25213 | CVE-2020-25213 Wordpress File Manager 6.7 Plugin 0day exploit | https://github.com/Dark-Grizzly/Wordpress-Zeroday | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 01 MINUTES 36 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20201113T09:52:13Z | CVE-2020-8165 | Null | https://github.com/umiterkol/CVE-2020-8165--Auto-Shell | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 48 MINUTES 36 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20201113T08:14:47Z | CVE-2020-15931 | Netwrix Account Lockout Examiner 4.1 Domain Admin Account Credential Disclosure Vulnerability | https://github.com/optiv/CVE-2020-15931 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 49 MINUTES 20 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201113T08:14:47Z | CVE-2020-15931 | Netwrix Account Lockout Examiner 4.1 Domain Admin Account Credential Disclosure Vulnerability | https://github.com/optiv/CVE-2020-15931 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 48 MINUTES 23 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20201113T06:03:09Z | CVE-2020-14882 | Null | https://github.com/x51/CVE-2020-14882 | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
 
 
@@ -85,6 +85,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20201115T01:11:27Z | Reveals impostors in Among Us | https://github.com/k0rnh0li0/SusCheck | 1 | 0| 
 | 20201115T01:08:21Z | Unicorn Framework is an iOS, macOS and Linux post-exploitation framework that using one line command and powerful python payload attempts to spawn a command line session with a lot of features such as downloading files, uploading files, getting system information and etc. | https://github.com/EntySec/unicorn | 11 | 3| 
 | 20201115T00:17:21Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 8579 | 1329| 
 | 20201115T00:06:49Z | Null | https://github.com/royanpng2/MyExploit | 0 | 0| 
@@ -94,7 +95,6 @@
 | 20201114T21:45:00Z | Fuel CMS 1.4 - Remote Code Execution | https://github.com/noraj/fuelcms-rce | 0 | 0| 
 | 20201114T21:36:13Z | OpenEMR <= 5.0.1 - (Authenticated) Remote Code Execution | https://github.com/noraj/OpenEMR-RCE | 3 | 0| 
 | 20201114T21:05:34Z | EXPLOIT ADB | https://github.com/TAYRELW/TAYREXPLOIT | 1 | 0| 
-| 20201114T21:00:08Z | Reveals impostors in Among Us | https://github.com/k0rnh0li0/SusCheck | 1 | 0| 
 
 
 # backdoor on Github 推荐
