@@ -53,8 +53,8 @@
 | 20201113T14:58:52Z | CVE-2020-25213 | CVE-2020-25213 Wordpress File Manager 6.7 Plugin 0day exploit | https://github.com/Dark-Grizzly/WPKiller | | 
 | 20201113T13:41:44Z | CVE-2020-15349 | Vulnerability Description of CVE-2020-15349 | https://github.com/Traxes/Forklift_LPE | 未查询到CVE信息| 
 | 20201113T13:30:53Z | CVE-2020-25213 | CVE-2020-25213 Wordpress File Manager 6.7 Plugin 0day exploit | https://github.com/Dark-Grizzly/Wordpress-Zeroday | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 01 MINUTES 36 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20201113T09:52:13Z | CVE-2020-8165 | Null | https://github.com/umiterkol/CVE-2020-8165--Auto-Shell | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 48 MINUTES 36 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20201113T08:14:47Z | CVE-2020-15931 | Netwrix Account Lockout Examiner 4.1 Domain Admin Account Credential Disclosure Vulnerability | https://github.com/optiv/CVE-2020-15931 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 48 MINUTES 23 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201113T09:52:13Z | CVE-2020-8165 | Null | https://github.com/umiterkol/CVE-2020-8165--Auto-Shell | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 46 MINUTES 31 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201113T08:14:47Z | CVE-2020-15931 | Netwrix Account Lockout Examiner 4.1 Domain Admin Account Credential Disclosure Vulnerability | https://github.com/optiv/CVE-2020-15931 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 46 MINUTES 19 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20201113T06:03:09Z | CVE-2020-14882 | Null | https://github.com/x51/CVE-2020-14882 | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
 
 
@@ -100,7 +100,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20201114T23:50:35Z | Unicorn Framework is an iOS, macOS and Linux post-exploitation framework that using one line command and powerful python payload attempts to spawn a command line session with a lot of features such as downloading files, uploading files, getting system information and etc. | https://github.com/EntySec/unicorn | 10 | 3| 
+| 20201115T01:08:21Z | Unicorn Framework is an iOS, macOS and Linux post-exploitation framework that using one line command and powerful python payload attempts to spawn a command line session with a lot of features such as downloading files, uploading files, getting system information and etc. | https://github.com/EntySec/unicorn | 11 | 3| 
 | 20201114T22:53:55Z | Python botnet and backdoor | https://github.com/sweetsoftware/Ares | 992 | 423| 
 | 20201114T19:45:56Z | Ghost Framework is an Android post-exploitation framework that exploits the Android Debug Bridge to remotely access an Android device. Ghost Framework gives you the power and convenience of remote Android device administration. | https://github.com/EntySec/ghost | 792 | 405| 
 | 20201114T14:59:04Z | LKM rootkit for Linux Kernels 2.6.x/3.x/4.x/5.x (x86/x86_64 and ARM64) | https://github.com/m0nad/Diamorphine | 655 | 252| 
@@ -115,7 +115,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20201115T01:09:41Z | Null | https://github.com/hariom76/fuzzy-eureka | 0 | 0| 
+| 20201115T01:12:45Z | Null | https://github.com/hariom76/fuzzy-eureka | 0 | 0| 
 | 20201115T01:06:32Z | Null | https://github.com/nishantjr/fuzzing-with-k | 0 | 0| 
 | 20201115T00:55:26Z | Collection of HTTP scanners and fuzzers. | https://github.com/buffermet/bug-bounty-tools | 8 | 1| 
 | 20201115T00:50:14Z | Null | https://github.com/maciej-cesarski/MSI-Fuzzy-Analyzer | 0 | 0| 

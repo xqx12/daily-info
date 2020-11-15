@@ -56,7 +56,6 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20201114T23:50:35Z | Unicorn Framework is an iOS, macOS and Linux post-exploitation framework that using one line command and powerful python payload attempts to spawn a command line session with a lot of features such as downloading files, uploading files, getting system information and etc. | https://github.com/EntySec/unicorn | 10 | 3| 
 | 20201114T22:53:55Z | Python botnet and backdoor | https://github.com/sweetsoftware/Ares | 992 | 423| 
 | 20201114T19:45:56Z | Ghost Framework is an Android post-exploitation framework that exploits the Android Debug Bridge to remotely access an Android device. Ghost Framework gives you the power and convenience of remote Android device administration. | https://github.com/EntySec/ghost | 792 | 405| 
 | 20201114T14:59:04Z | LKM rootkit for Linux Kernels 2.6.x/3.x/4.x/5.x (x86/x86_64 and ARM64) | https://github.com/m0nad/Diamorphine | 655 | 252| 
@@ -66,6 +65,7 @@
 | 20201114T09:10:13Z | Multi-client Cross-platform Python Backdoor/Reverse Shell/RAT with AES Encryption | https://github.com/Y4hL/PyDoor | 24 | 11| 
 | 20201114T07:38:43Z | This program is an non-object oriented opensource, hidden and undetectable backdoor/reverse shell/RAT for Windows made in Python 3 which contains many features such as multi-client support and cross-platform server. | https://github.com/xp4xbox/Python-Backdoor | 309 | 128| 
 | 20201114T06:03:22Z | A Backdoor written in Python 3 that enables the attacker to execute commands on the remote machine being undetectable. | https://github.com/Ryan-AW/Backdoor-Trojan | 3 | 2| 
+| 20201114T05:17:55Z | Go Inside is a TCP connection based backdoor for executing remote and custom commands, written in the programming language Go (Yes, pun was DEFINITELY intended). | https://github.com/stashito/go-inside | 0 | 0| 
 
 
 # fuzz on Github 推荐
