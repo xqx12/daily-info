@@ -23,7 +23,7 @@
 | --- | --- | --- | --- | ---| 
 | 20201114T13:56:03Z | cve-2020-1938 | Null | https://github.com/kukudechen-chen/cve-2020-1938 | 未查询到CVE信息| 
 | 20201114T09:42:21Z | CVE-2020-14882 | Null | https://github.com/QmF0c3UK/CVE-2020-14882 | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
-| 20201114T08:55:28Z | CVE-2020-25705 | PoC for CVE-2020-25705 POC-2020-25705 | https://github.com/tdwyer/CVE-2020-25705 | 未查询到CVE信息| 
+| 20201114T08:55:28Z | CVE-2020-25705 | PoC for CVE-2020-25705 POC-2020-25705 | https://github.com/tdwyer/CVE-2020-25705 | | 
 
 
 # klee on Github 推荐
