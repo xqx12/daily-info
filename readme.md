@@ -21,9 +21,9 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20201114T13:56:03Z | cve-2020-1938 | Null | https://github.com/kukudechen-chen/cve-2020-1938 | 未查询到CVE信息| 
+| 20201114T13:56:03Z | cve-2020-1938 | Null | https://github.com/kukudechen-chen/cve-2020-1938 | | 
 | 20201114T09:42:21Z | CVE-2020-14882 | Null | https://github.com/QmF0c3UK/CVE-2020-14882 | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
-| 20201114T08:55:28Z | CVE-2020-25705 | PoC for CVE-2020-25705 POC-2020-25705 | https://github.com/tdwyer/CVE-2020-25705 | | 
+| 20201114T08:55:28Z | CVE-2020-25705 | PoC for CVE-2020-25705 POC-2020-25705 | https://github.com/tdwyer/CVE-2020-25705 | 未查询到CVE信息| 
 
 
 # klee on Github 推荐
@@ -41,7 +41,6 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20201114T23:50:35Z | Unicorn Framework is an iOS, macOS and Linux post-exploitation framework that using one line command and powerful python payload attempts to spawn a command line session with a lot of features such as downloading files, uploading files, getting system information and etc. | https://github.com/EntySec/unicorn | 10 | 3| 
 | 20201114T23:07:19Z | A website which combines useful links for gfn-exploiting. | https://github.com/helmutrocco13/helmutrocco13.github.io | 0 | 0| 
 | 20201114T21:59:06Z | CTFs and their solutions for linux binary exploitation. | https://github.com/MaherAzzouzi/PWNing | 4 | 5| 
 | 20201114T21:57:35Z | Decoupled Exploration and Exploitation in Meta-Reinforcement Learning without Sacrifices (Under submission ICLR 2021) | https://github.com/anonymouspapersubmission/dream | 0 | 0| 
@@ -51,6 +50,7 @@
 | 20201114T21:00:08Z | Reveals impostors in Among Us | https://github.com/k0rnh0li0/SusCheck | 1 | 0| 
 | 20201114T20:13:57Z | Null | https://github.com/quentin452/Cats-Exploitz-HUB | 0 | 1| 
 | 20201114T19:58:44Z | post_exploitation | https://github.com/dar3k93/post_exploitation | 1 | 0| 
+| 20201114T18:42:52Z | Rowhammer based exploit | https://github.com/rishyanthkondra/RowhammerExploit | 0 | 0| 
 
 
 # backdoor on Github 推荐
