@@ -49,7 +49,7 @@
 | 20201114T13:56:03Z | cve-2020-1938 | Null | https://github.com/kukudechen-chen/cve-2020-1938 | 未查询到CVE信息| 
 | 20201114T09:42:21Z | CVE-2020-14882 | Null | https://github.com/QmF0c3UK/CVE-2020-14882 | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
 | 20201114T08:55:28Z | CVE-2020-25705 | PoC for CVE-2020-25705 POC-2020-25705 | https://github.com/tdwyer/CVE-2020-25705 | 未查询到CVE信息| 
-| 20201113T18:51:41Z | CVE-2020-25769 | GOG Galaxy Local Privilege Escalation | https://github.com/lagartojuancho/CVE-2020-25769 | | 
+| 20201113T18:51:41Z | CVE-2020-25769 | GOG Galaxy Local Privilege Escalation | https://github.com/lagartojuancho/CVE-2020-25769 | 未查询到CVE信息| 
 | 20201113T14:58:52Z | CVE-2020-25213 | CVE-2020-25213 Wordpress File Manager 6.7 Plugin 0day exploit | https://github.com/Dark-Grizzly/WPKiller | | 
 | 20201113T13:41:44Z | CVE-2020-15349 | Vulnerability Description of CVE-2020-15349 | https://github.com/Traxes/Forklift_LPE | 未查询到CVE信息| 
 | 20201113T13:30:53Z | CVE-2020-25213 | CVE-2020-25213 Wordpress File Manager 6.7 Plugin 0day exploit | https://github.com/Dark-Grizzly/Wordpress-Zeroday | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 01 MINUTES 36 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
@@ -115,16 +115,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20201114T13:56:33Z | This is the repository of the journal paper: Sugeno integral generalization applied to improve adaptive image binarization. Bardozzo et al.  | https://github.com/lodeguns/FuzzyAdaptiveBinarization | 1 | 0| 
-| 20201114T13:33:36Z | Very Fast and Powerful Web Fuzzer | https://github.com/RedSecurity/power-ffuf | 0 | 0| 
-| 20201114T12:48:44Z | Collection of HTTP scanners and fuzzers. | https://github.com/buffermet/bug-bounty-tools | 8 | 1| 
-| 20201114T12:20:30Z | Null | https://github.com/lavanquan/fuzzy_qlearning | 0 | 0| 
-| 20201114T12:18:25Z | Construccion de sistema de reglas | https://github.com/pdmeta108/fuzzy_system | 0 | 0| 
-| 20201114T10:59:09Z | Null | https://github.com/hariom76/fuzzy-eureka | 0 | 0| 
-| 20201114T10:19:27Z | Library to wrap all file calls when fuzzing with AFL++ | https://github.com/marekzmyslowski/libfiowrapper | 31 | 2| 
-| 20201114T09:39:13Z | A simple web form fuzzer, primarily targetting PHP | https://github.com/hannob/webformfuzzer | 0 | 0| 
-| 20201114T08:46:07Z | Personal website of Laurence Hughes | https://github.com/fuzzylogicxx/fuzzylogic | 4 | 1| 
-| 20201114T07:27:28Z | Fuzzy Telegram | https://github.com/ppkulkarn/fuzzy-telegram | 0 | 0| 
+| 20201115T00:55:26Z | Collection of HTTP scanners and fuzzers. | https://github.com/buffermet/bug-bounty-tools | 8 | 1| 
+| 20201115T00:50:14Z | Null | https://github.com/maciej-cesarski/MSI-Fuzzy-Analyzer | 0 | 0| 
+| 20201115T00:35:23Z | Null | https://github.com/hariom76/fuzzy-eureka | 0 | 0| 
+| 20201115T00:29:31Z | Implementation of Genetic Fuzzy Systems, a branch of Explainable AI (xAI). | https://github.com/adebisae/Genetic-Fuzzy-Systems | 0 | 0| 
+| 20201115T00:19:04Z | FuzzBench - Fuzzer benchmarking as a service. | https://github.com/google/fuzzbench | 548 | 87| 
+| 20201115T00:04:53Z | OSS-Fuzz - continuous fuzzing of open source software. | https://github.com/google/oss-fuzz | 5662 | 1114| 
+| 20201114T23:53:20Z | CBOR RFC 7049 (Go/Golang) - safe & fast with standard API + toarray & keyasint, CBOR tags, float64/32/16, fuzz tested. | https://github.com/fxamacker/cbor | 221 | 19| 
+| 20201114T23:30:18Z | Personal website of Laurence Hughes | https://github.com/fuzzylogicxx/fuzzylogic | 4 | 1| 
+| 20201114T22:05:56Z | Repository holding database dumps from getfursu.it | https://github.com/veelkoov/fuzzrake-data | 0 | 0| 
+| 20201114T22:03:26Z | Null | https://github.com/googleinterns/hw-fuzzing | 2 | 0| 
 
 
 

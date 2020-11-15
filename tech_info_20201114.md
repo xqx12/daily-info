@@ -71,16 +71,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20201114T13:56:33Z | This is the repository of the journal paper: Sugeno integral generalization applied to improve adaptive image binarization. Bardozzo et al.  | https://github.com/lodeguns/FuzzyAdaptiveBinarization | 1 | 0| 
-| 20201114T13:33:36Z | Very Fast and Powerful Web Fuzzer | https://github.com/RedSecurity/power-ffuf | 0 | 0| 
-| 20201114T12:48:44Z | Collection of HTTP scanners and fuzzers. | https://github.com/buffermet/bug-bounty-tools | 8 | 1| 
-| 20201114T12:20:30Z | Null | https://github.com/lavanquan/fuzzy_qlearning | 0 | 0| 
-| 20201114T12:18:25Z | Construccion de sistema de reglas | https://github.com/pdmeta108/fuzzy_system | 0 | 0| 
-| 20201114T10:59:09Z | Null | https://github.com/hariom76/fuzzy-eureka | 0 | 0| 
-| 20201114T10:19:27Z | Library to wrap all file calls when fuzzing with AFL++ | https://github.com/marekzmyslowski/libfiowrapper | 31 | 2| 
-| 20201114T09:39:13Z | A simple web form fuzzer, primarily targetting PHP | https://github.com/hannob/webformfuzzer | 0 | 0| 
-| 20201114T08:46:07Z | Personal website of Laurence Hughes | https://github.com/fuzzylogicxx/fuzzylogic | 4 | 1| 
-| 20201114T07:27:28Z | Fuzzy Telegram | https://github.com/ppkulkarn/fuzzy-telegram | 0 | 0| 
+| 20201114T23:53:20Z | CBOR RFC 7049 (Go/Golang) - safe & fast with standard API + toarray & keyasint, CBOR tags, float64/32/16, fuzz tested. | https://github.com/fxamacker/cbor | 221 | 19| 
+| 20201114T23:30:18Z | Personal website of Laurence Hughes | https://github.com/fuzzylogicxx/fuzzylogic | 4 | 1| 
+| 20201114T22:05:56Z | Repository holding database dumps from getfursu.it | https://github.com/veelkoov/fuzzrake-data | 0 | 0| 
+| 20201114T22:03:26Z | Null | https://github.com/googleinterns/hw-fuzzing | 2 | 0| 
+| 20201114T21:52:00Z | Null | https://github.com/unjuken/TimeSeries-Fuzzy | 0 | 0| 
+| 20201114T21:51:20Z | A Fuzzy Inference based prediction model for predicting number of customers attending a theme parks based on the weather. | https://github.com/macuin/FuzzyInference | 0 | 0| 
+| 20201114T21:47:58Z | Null | https://github.com/cbermudez97/fuzzy-logic-project | 0 | 0| 
+| 20201114T20:53:12Z | A tale into the system security, fuzzing and vulnerability research | https://github.com/Microsvuln/Microsvuln.github.io | 0 | 0| 
+| 20201114T19:50:52Z | The code behind getfursu.it | https://github.com/veelkoov/fuzzrake | 6 | 0| 
+| 20201114T19:50:37Z | Null | https://github.com/valkheim/fuzzer | 0 | 0| 
 
 
 
