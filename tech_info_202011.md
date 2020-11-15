@@ -53,8 +53,8 @@
 | 20201113T14:58:52Z | CVE-2020-25213 | CVE-2020-25213 Wordpress File Manager 6.7 Plugin 0day exploit | https://github.com/Dark-Grizzly/WPKiller | | 
 | 20201113T13:41:44Z | CVE-2020-15349 | Vulnerability Description of CVE-2020-15349 | https://github.com/Traxes/Forklift_LPE | 未查询到CVE信息| 
 | 20201113T13:30:53Z | CVE-2020-25213 | CVE-2020-25213 Wordpress File Manager 6.7 Plugin 0day exploit | https://github.com/Dark-Grizzly/Wordpress-Zeroday | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 01 MINUTES 36 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20201113T09:52:13Z | CVE-2020-8165 | Null | https://github.com/umiterkol/CVE-2020-8165--Auto-Shell | | 
-| 20201113T08:14:47Z | CVE-2020-15931 | Netwrix Account Lockout Examiner 4.1 Domain Admin Account Credential Disclosure Vulnerability | https://github.com/optiv/CVE-2020-15931 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 55 MINUTES 24 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201113T09:52:13Z | CVE-2020-8165 | Null | https://github.com/umiterkol/CVE-2020-8165--Auto-Shell | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 53 MINUTES 35 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201113T08:14:47Z | CVE-2020-15931 | Netwrix Account Lockout Examiner 4.1 Domain Admin Account Credential Disclosure Vulnerability | https://github.com/optiv/CVE-2020-15931 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 53 MINUTES 23 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20201113T06:03:09Z | CVE-2020-14882 | Null | https://github.com/x51/CVE-2020-14882 | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
 
 
@@ -115,6 +115,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20201115T01:06:32Z | Null | https://github.com/nishantjr/fuzzing-with-k | 0 | 0| 
 | 20201115T00:55:26Z | Collection of HTTP scanners and fuzzers. | https://github.com/buffermet/bug-bounty-tools | 8 | 1| 
 | 20201115T00:50:14Z | Null | https://github.com/maciej-cesarski/MSI-Fuzzy-Analyzer | 0 | 0| 
 | 20201115T00:35:23Z | Null | https://github.com/hariom76/fuzzy-eureka | 0 | 0| 
@@ -124,7 +125,6 @@
 | 20201114T23:53:20Z | CBOR RFC 7049 (Go/Golang) - safe & fast with standard API + toarray & keyasint, CBOR tags, float64/32/16, fuzz tested. | https://github.com/fxamacker/cbor | 221 | 19| 
 | 20201114T23:30:18Z | Personal website of Laurence Hughes | https://github.com/fuzzylogicxx/fuzzylogic | 4 | 1| 
 | 20201114T22:05:56Z | Repository holding database dumps from getfursu.it | https://github.com/veelkoov/fuzzrake-data | 0 | 0| 
-| 20201114T22:03:26Z | Null | https://github.com/googleinterns/hw-fuzzing | 2 | 0| 
 
 
 
