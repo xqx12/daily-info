@@ -115,10 +115,10 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20201115T01:07:11Z | Null | https://github.com/hariom76/fuzzy-eureka | 0 | 0| 
 | 20201115T01:06:32Z | Null | https://github.com/nishantjr/fuzzing-with-k | 0 | 0| 
 | 20201115T00:55:26Z | Collection of HTTP scanners and fuzzers. | https://github.com/buffermet/bug-bounty-tools | 8 | 1| 
 | 20201115T00:50:14Z | Null | https://github.com/maciej-cesarski/MSI-Fuzzy-Analyzer | 0 | 0| 
-| 20201115T00:35:23Z | Null | https://github.com/hariom76/fuzzy-eureka | 0 | 0| 
 | 20201115T00:29:31Z | Implementation of Genetic Fuzzy Systems, a branch of Explainable AI (xAI). | https://github.com/adebisae/Genetic-Fuzzy-Systems | 0 | 0| 
 | 20201115T00:19:04Z | FuzzBench - Fuzzer benchmarking as a service. | https://github.com/google/fuzzbench | 548 | 87| 
 | 20201115T00:04:53Z | OSS-Fuzz - continuous fuzzing of open source software. | https://github.com/google/oss-fuzz | 5662 | 1114| 
