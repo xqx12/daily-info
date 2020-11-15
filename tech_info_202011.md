@@ -46,16 +46,16 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20201115T01:33:08Z | CVE-2020-4040 | Null | https://github.com/jpvispo/RCE-Exploit-Bolt-3.7.0-CVE-2020-4040-4041 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  20 HOURS 40 MINUTES 24 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201115T10:57:13Z | CVE-2020-16126 | A bash script exploit of [CVE-2020-16126/CVE-2020-16127] to achieve privilege escalation. | https://github.com/zev3n/Ubuntu-Gnome-privilege-escalation | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 59 MINUTES 32 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201115T01:33:08Z | CVE-2020-4040 | Null | https://github.com/jpvispo/RCE-Exploit-Bolt-3.7.0-CVE-2020-4040-4041 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 59 MINUTES 39 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20201114T13:56:03Z | cve-2020-1938 | Null | https://github.com/kukudechen-chen/cve-2020-1938 | 未查询到CVE信息| 
-| 20201114T09:42:21Z | CVE-2020-14882 | Null | https://github.com/QmF0c3UK/CVE-2020-14882 | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
+| 20201114T09:42:21Z | CVE-2020-14882 | Null | https://github.com/QmF0c3UK/CVE-2020-14882 | | 
 | 20201114T08:55:28Z | CVE-2020-25705 | PoC for CVE-2020-25705 POC-2020-25705 | https://github.com/tdwyer/CVE-2020-25705 | 未查询到CVE信息| 
 | 20201113T18:51:41Z | CVE-2020-25769 | GOG Galaxy Local Privilege Escalation | https://github.com/lagartojuancho/CVE-2020-25769 | 未查询到CVE信息| 
 | 20201113T14:58:52Z | CVE-2020-25213 | CVE-2020-25213 Wordpress File Manager 6.7 Plugin 0day exploit | https://github.com/Dark-Grizzly/WPKiller | | 
 | 20201113T13:41:44Z | CVE-2020-15349 | Vulnerability Description of CVE-2020-15349 | https://github.com/Traxes/Forklift_LPE | 未查询到CVE信息| 
 | 20201113T13:30:53Z | CVE-2020-25213 | CVE-2020-25213 Wordpress File Manager 6.7 Plugin 0day exploit | https://github.com/Dark-Grizzly/Wordpress-Zeroday | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 01 MINUTES 36 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20201113T09:52:13Z | CVE-2020-8165 | Null | https://github.com/umiterkol/CVE-2020-8165--Auto-Shell | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  20 HOURS 40 MINUTES 21 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20201113T08:14:47Z | CVE-2020-15931 | Netwrix Account Lockout Examiner 4.1 Domain Admin Account Credential Disclosure Vulnerability | https://github.com/optiv/CVE-2020-15931 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  20 HOURS 40 MINUTES 10 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201113T09:52:13Z | CVE-2020-8165 | Null | https://github.com/umiterkol/CVE-2020-8165--Auto-Shell | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 59 MINUTES 36 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 
 
 # klee on Github 推荐
@@ -64,7 +64,7 @@
 | 20201114T18:28:52Z | RVT is a collection of tools/libraries to support both static and dynamic verification of Rust programs. | https://github.com/project-oak/rust-verification-tools | 97 | 5| 
 | 20201114T10:19:03Z | Null | https://github.com/klee30810/klee30810 | 1 | 0| 
 | 20201113T16:22:10Z | Null | https://github.com/matthiasbruns/kleener_fussel | 0 | 0| 
-| 20201113T08:46:23Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1540 | 467| 
+| 20201113T08:46:23Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1540 | 468| 
 | 20201113T01:03:34Z | Create CFGs and compute complexity metrics for Python, C++, and Java code. | https://github.com/hmc-alpaqa/metrinome | 5 | 0| 
 | 20201112T21:06:28Z | Null | https://github.com/klee-chan/klee-chan.github.io | 0 | 0| 
 | 20201112T03:31:29Z | Null | https://github.com/DonaldKLee/DonaldKLee | 0 | 0| 
@@ -100,31 +100,31 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20201115T02:57:07Z | simple backdoor for youtube video | https://github.com/Devilshalani/simple-backdoor | 0 | 0| 
-| 20201115T01:27:03Z | Ghost Framework is an Android post-exploitation framework that exploits the Android Debug Bridge to remotely access an Android device. Ghost Framework gives you the power and convenience of remote Android device administration. | https://github.com/EntySec/ghost | 793 | 405| 
+| 20201115T12:54:04Z | Unicorn Framework is an iOS, macOS and Linux post-exploitation framework that using one line command and powerful python payload attempts to spawn a command line session with a lot of features such as downloading files, uploading files, getting system information and etc. | https://github.com/EntySec/unicorn | 11 | 4| 
+| 20201115T11:45:52Z | 绕过专业工具检测的Webshell研究文章和免杀的Webshell | https://github.com/LandGrey/webshell-detect-bypass | 874 | 250| 
+| 20201115T10:49:04Z | This program is an non-object oriented opensource, hidden and undetectable backdoor/reverse shell/RAT for Windows made in Python 3 which contains many features such as multi-client support and cross-platform server. | https://github.com/xp4xbox/Python-Backdoor | 308 | 128| 
+| 20201115T09:38:51Z | Ghost Framework is an Android post-exploitation framework that exploits the Android Debug Bridge to remotely access an Android device. Ghost Framework gives you the power and convenience of remote Android device administration. | https://github.com/EntySec/ghost | 795 | 406| 
+| 20201115T09:38:00Z | Thoron Framework is a Linux post-exploitation framework that exploits Linux TCP vulnerability to provide a shell-like connection. Thoron Framework has the ability to create simple payloads to provide Linux TCP attack. | https://github.com/EntySec/thoron | 82 | 30| 
+| 20201115T08:28:40Z | This is the implementation of our paper %Open-sourced Dataset Protection via Backdoor Watermarking%, accepted by the NeurIPS Workshop on Dataset Curation and Security, 2020. | https://github.com/THUYimingLi/Open-sourced_Dataset_Protection | 0 | 0| 
+| 20201115T07:41:25Z | simple backdoor for youtube video | https://github.com/Devilshalani/simple-backdoor | 0 | 0| 
 | 20201115T01:18:44Z | ParadoxiaRat : Native Windows Remote access Tool. | https://github.com/quantumcored/paradoxiaRAT | 267 | 57| 
-| 20201115T01:08:21Z | Unicorn Framework is an iOS, macOS and Linux post-exploitation framework that using one line command and powerful python payload attempts to spawn a command line session with a lot of features such as downloading files, uploading files, getting system information and etc. | https://github.com/EntySec/unicorn | 11 | 3| 
 | 20201114T22:53:55Z | Python botnet and backdoor | https://github.com/sweetsoftware/Ares | 992 | 423| 
 | 20201114T14:59:04Z | LKM rootkit for Linux Kernels 2.6.x/3.x/4.x/5.x (x86/x86_64 and ARM64) | https://github.com/m0nad/Diamorphine | 655 | 252| 
-| 20201114T11:49:50Z | An Artificial Intelligence Poisoned Data Detection & Cleanse System | https://github.com/RidiculousDoge/AIPDC | 3 | 2| 
-| 20201114T09:56:27Z | Thoron Framework is a Linux post-exploitation framework that exploits Linux TCP vulnerability to provide a shell-like connection. Thoron Framework has the ability to create simple payloads to provide Linux TCP attack. | https://github.com/EntySec/thoron | 81 | 30| 
-| 20201114T09:10:13Z | Multi-client Cross-platform Python Backdoor/Reverse Shell/RAT with AES Encryption | https://github.com/Y4hL/PyDoor | 24 | 11| 
-| 20201114T07:38:43Z | This program is an non-object oriented opensource, hidden and undetectable backdoor/reverse shell/RAT for Windows made in Python 3 which contains many features such as multi-client support and cross-platform server. | https://github.com/xp4xbox/Python-Backdoor | 309 | 128| 
 
 
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20201115T02:48:09Z | Null | https://github.com/hariom76/fuzzy-eureka | 0 | 0| 
-| 20201115T02:46:03Z | Null | https://github.com/abest30/fuzzy-octo-barnacle | 0 | 0| 
-| 20201115T02:41:06Z | Fuzzaldrin plus - fast using native C++ bindings | https://github.com/atom-ide-community/fuzzaldrin-plus-fast | 2 | 3| 
-| 20201115T01:06:32Z | Null | https://github.com/nishantjr/fuzzing-with-k | 0 | 0| 
-| 20201115T00:55:26Z | Collection of HTTP scanners and fuzzers. | https://github.com/buffermet/bug-bounty-tools | 8 | 1| 
-| 20201115T00:50:14Z | Null | https://github.com/maciej-cesarski/MSI-Fuzzy-Analyzer | 0 | 0| 
-| 20201115T00:29:31Z | Implementation of Genetic Fuzzy Systems, a branch of Explainable AI (xAI). | https://github.com/adebisae/Genetic-Fuzzy-Systems | 0 | 0| 
-| 20201115T00:19:04Z | FuzzBench - Fuzzer benchmarking as a service. | https://github.com/google/fuzzbench | 548 | 87| 
-| 20201115T00:04:53Z | OSS-Fuzz - continuous fuzzing of open source software. | https://github.com/google/oss-fuzz | 5662 | 1114| 
-| 20201114T23:53:20Z | CBOR RFC 7049 (Go/Golang) - safe & fast with standard API + toarray & keyasint, CBOR tags, float64/32/16, fuzz tested. | https://github.com/fxamacker/cbor | 221 | 19| 
+| 20201115T12:39:04Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 956 | 234| 
+| 20201115T12:27:15Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 27952 | 13881| 
+| 20201115T12:11:00Z | This is the repository of the journal paper: Sugeno integral generalization applied to improve adaptive image binarization. Bardozzo et al.  | https://github.com/lodeguns/FuzzyAdaptiveBinarization | 1 | 0| 
+| 20201115T12:00:33Z | 自用字典，收集实战中遇到的奇特目录名、后门文件名等。不定期更新！ | https://github.com/doubleee/WebFuzzing | 19 | 4| 
+| 20201115T11:45:43Z | A Fuzzy Inference based prediction model for predicting number of customers attending a theme parks based on the weather. | https://github.com/macuin/FuzzyInference | 0 | 0| 
+| 20201115T11:43:41Z | SIA 디지털아트 프로그래밍 2020 | https://github.com/jayce-cmd/fuzzy-journey | 0 | 0| 
+| 20201115T11:13:24Z | A fast subdomain fuzzer | https://github.com/neonify/lessgo | 0 | 0| 
+| 20201115T11:09:24Z | Using different tools to fuzz audit deamon | https://github.com/punnal/Audit-Fuzzing | 1 | 1| 
+| 20201115T10:39:46Z | Null | https://github.com/Sentinel-One/efi_fuzz | 48 | 4| 
+| 20201115T09:51:44Z | Null | https://github.com/WeeYL/creative_fuzzbuzz | 0 | 0| 
 
 
 
