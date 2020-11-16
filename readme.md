@@ -21,7 +21,7 @@
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
 | 20201116T10:31:53Z | CVE-2020-15228 | Fix CVE-2020-15228 (set-env, add-path in Github-Actions) | https://github.com/guettli/fix-CVE-2020-15228 | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
-| 20201116T04:45:20Z | CVE-2020-0796 | Null | https://github.com/datntsec/CVE-2020-0796 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 47 MINUTES 29 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201116T04:45:20Z | CVE-2020-0796 | Null | https://github.com/datntsec/CVE-2020-0796 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 45 MINUTES 33 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20201116T04:23:12Z | CVE-2020-14882 | CVE-2020–14882、CVE-2020–14883 | https://github.com/jas502n/CVE-2020-14882 | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
 | 20201116T02:32:15Z | CVE-2020-14645 | Null | https://github.com/HYWZ36/CVE-2020-14645-code | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
 
@@ -39,8 +39,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20201116T13:10:16Z | These exploits are made by AJAY (ME) | https://github.com/TamilHackz/i-make-exploits | 2 | 1| 
-| 20201116T12:55:06Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 8598 | 1341| 
+| 20201116T13:13:25Z | These exploits are made by AJAY (ME) | https://github.com/TamilHackz/i-make-exploits | 2 | 1| 
+| 20201116T13:13:25Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 8599 | 1341| 
 | 20201116T11:46:52Z | k8gege.org - K8哥哥%s Blog | https://github.com/k8gege/k8gege.github.io | 9 | 6| 
 | 20201116T11:06:59Z | DarkWare is a roblox exploit hub. | https://github.com/Yarik312/DarkWare | 1 | 0| 
 | 20201116T10:53:55Z | Sifter is a OSINT, recon & vulnerability scanner. It incorporates a plethara of tools within different module sets that tries to cover every attack vector. Allowing you to quickly perform recon tasks and organize the results in one place. From OSINT to Recon, Exploitation, Post-Exploitation, OpSec, Threat Analysis, XSS, SQLinjection, Network Scanning, WebApp Analysis or DNS enumeration.. Sifter should be able to cover it all. | https://github.com/s1l3nt78/sifter | 288 | 88| 
@@ -65,6 +65,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20201116T13:14:39Z | Null | https://github.com/vincentandr/Fuzzy-Logic-vs.-Genetic-Algorithm | 0 | 0| 
 | 20201116T13:02:28Z | Simple SQL table fuzzing | https://github.com/PumpkinSeed/sqlfuzz | 0 | 0| 
 | 20201116T12:55:32Z | Ethereum smart contract fuzzer | https://github.com/crytic/echidna | 504 | 83| 
 | 20201116T12:54:28Z | Null | https://github.com/s9varesc/url-fuzzing | 0 | 0| 
@@ -74,7 +75,6 @@
 | 20201116T11:56:39Z | Null | https://github.com/Pinioo/FuzzyAutoTransmission | 0 | 0| 
 | 20201116T11:50:14Z | Collection of quality safety articles | https://github.com/tom0li/collection-document | 1291 | 411| 
 | 20201116T11:44:55Z | Null | https://github.com/Sentinel-One/efi_fuzz | 50 | 5| 
-| 20201116T11:15:58Z | Null | https://github.com/s9varesc/url-fuzzing-docker | 0 | 0| 
 
 
 
