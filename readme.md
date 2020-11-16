@@ -21,7 +21,7 @@
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
 | 20201116T10:31:53Z | CVE-2020-15228 | Fix CVE-2020-15228 (set-env, add-path in Github-Actions) | https://github.com/guettli/fix-CVE-2020-15228 | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
-| 20201116T04:45:20Z | CVE-2020-0796 | Null | https://github.com/datntsec/CVE-2020-0796 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 39 MINUTES 32 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201116T04:45:20Z | CVE-2020-0796 | Null | https://github.com/datntsec/CVE-2020-0796 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 38 MINUTES 29 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20201116T04:23:12Z | CVE-2020-14882 | CVE-2020–14882、CVE-2020–14883 | https://github.com/jas502n/CVE-2020-14882 | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
 | 20201116T02:32:15Z | CVE-2020-14645 | Null | https://github.com/HYWZ36/CVE-2020-14645-code | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
 
@@ -65,7 +65,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20201116T13:19:06Z | A fast url fuzzer in golang | https://github.com/neonify/lessgo | 0 | 0| 
+| 20201116T13:20:32Z | A fast url fuzzer in golang | https://github.com/neonify/lessgo | 0 | 0| 
 | 20201116T13:14:39Z | Null | https://github.com/vincentandr/Fuzzy-Logic-vs.-Genetic-Algorithm | 0 | 0| 
 | 20201116T13:02:28Z | Simple SQL table fuzzing | https://github.com/PumpkinSeed/sqlfuzz | 0 | 0| 
 | 20201116T12:55:32Z | Ethereum smart contract fuzzer | https://github.com/crytic/echidna | 504 | 83| 
