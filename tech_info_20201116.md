@@ -54,7 +54,11 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20201116T00:40:57Z | Ghost Framework is an Android post-exploitation framework that exploits the Android Debug Bridge to remotely access an Android device. Ghost Framework gives you the power and convenience of remote Android device administration. | https://github.com/EntySec/ghost | 796 | 406| 
+| 20201116T11:54:01Z | 绕过专业工具检测的Webshell研究文章和免杀的Webshell | https://github.com/LandGrey/webshell-detect-bypass | 875 | 251| 
+| 20201116T09:47:12Z | Ghost Framework is an Android post-exploitation framework that exploits the Android Debug Bridge to remotely access an Android device. Ghost Framework gives you the power and convenience of remote Android device administration. | https://github.com/EntySec/ghost | 797 | 407| 
+| 20201116T09:40:26Z | Null | https://github.com/rranand/BackDoor | 0 | 0| 
+| 20201116T08:15:13Z | FUD cross-platform python2 backdoor | https://github.com/7h3w4lk3r/pyback | 9 | 4| 
+| 20201116T03:57:19Z | This is the implementation of our paper %Open-sourced Dataset Protection via Backdoor Watermarking%, accepted by the NeurIPS Workshop on Dataset Curation and Security, 2020. | https://github.com/THUYimingLi/Open-sourced_Dataset_Protection | 1 | 1| 
 | 20201116T00:39:46Z | Unicorn Framework is an iOS, macOS and Linux post-exploitation framework that using one line command and powerful python payload attempts to spawn a command line session with a lot of features such as downloading files, uploading files, getting system information and etc. | https://github.com/EntySec/unicorn | 12 | 4| 
 
 

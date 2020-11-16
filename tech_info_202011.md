@@ -101,16 +101,16 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20201116T00:40:57Z | Ghost Framework is an Android post-exploitation framework that exploits the Android Debug Bridge to remotely access an Android device. Ghost Framework gives you the power and convenience of remote Android device administration. | https://github.com/EntySec/ghost | 796 | 406| 
+| 20201116T11:54:01Z | 绕过专业工具检测的Webshell研究文章和免杀的Webshell | https://github.com/LandGrey/webshell-detect-bypass | 875 | 251| 
+| 20201116T09:47:12Z | Ghost Framework is an Android post-exploitation framework that exploits the Android Debug Bridge to remotely access an Android device. Ghost Framework gives you the power and convenience of remote Android device administration. | https://github.com/EntySec/ghost | 797 | 407| 
+| 20201116T09:40:26Z | Null | https://github.com/rranand/BackDoor | 0 | 0| 
+| 20201116T08:15:13Z | FUD cross-platform python2 backdoor | https://github.com/7h3w4lk3r/pyback | 9 | 4| 
+| 20201116T03:57:19Z | This is the implementation of our paper %Open-sourced Dataset Protection via Backdoor Watermarking%, accepted by the NeurIPS Workshop on Dataset Curation and Security, 2020. | https://github.com/THUYimingLi/Open-sourced_Dataset_Protection | 1 | 1| 
 | 20201116T00:39:46Z | Unicorn Framework is an iOS, macOS and Linux post-exploitation framework that using one line command and powerful python payload attempts to spawn a command line session with a lot of features such as downloading files, uploading files, getting system information and etc. | https://github.com/EntySec/unicorn | 12 | 4| 
 | 20201115T21:04:49Z | Backdoors framework based on %Blind Backdoors in Deep Learning Models% | https://github.com/ebagdasa/backdoors101 | 8 | 0| 
 | 20201115T14:53:32Z | Backdoor (reverse shell) programada usando python | https://github.com/Braga451/python_backdoor_public | 0 | 0| 
-| 20201115T11:45:52Z | 绕过专业工具检测的Webshell研究文章和免杀的Webshell | https://github.com/LandGrey/webshell-detect-bypass | 874 | 250| 
 | 20201115T10:49:04Z | This program is an non-object oriented opensource, hidden and undetectable backdoor/reverse shell/RAT for Windows made in Python 3 which contains many features such as multi-client support and cross-platform server. | https://github.com/xp4xbox/Python-Backdoor | 308 | 128| 
 | 20201115T09:38:00Z | Thoron Framework is a Linux post-exploitation framework that exploits Linux TCP vulnerability to provide a shell-like connection. Thoron Framework has the ability to create simple payloads to provide Linux TCP attack. | https://github.com/EntySec/thoron | 82 | 30| 
-| 20201115T08:28:40Z | This is the implementation of our paper %Open-sourced Dataset Protection via Backdoor Watermarking%, accepted by the NeurIPS Workshop on Dataset Curation and Security, 2020. | https://github.com/THUYimingLi/Open-sourced_Dataset_Protection | 0 | 0| 
-| 20201115T07:41:25Z | simple backdoor for youtube video | https://github.com/Devilshalani/simple-backdoor | 0 | 0| 
-| 20201115T01:18:44Z | ParadoxiaRat : Native Windows Remote access Tool. | https://github.com/quantumcored/paradoxiaRAT | 267 | 57| 
 
 
 # fuzz on Github 推荐
