@@ -21,7 +21,7 @@
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
 | 20201116T10:31:53Z | CVE-2020-15228 | Fix CVE-2020-15228 (set-env, add-path in Github-Actions) | https://github.com/guettli/fix-CVE-2020-15228 | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
-| 20201116T04:45:20Z | CVE-2020-0796 | Null | https://github.com/datntsec/CVE-2020-0796 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 58 MINUTES 29 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201116T04:45:20Z | CVE-2020-0796 | Null | https://github.com/datntsec/CVE-2020-0796 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 57 MINUTES 30 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20201116T04:23:12Z | CVE-2020-14882 | CVE-2020–14882、CVE-2020–14883 | https://github.com/jas502n/CVE-2020-14882 | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
 | 20201116T02:32:15Z | CVE-2020-14645 | Null | https://github.com/HYWZ36/CVE-2020-14645-code | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
 
@@ -65,6 +65,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20201116T13:02:28Z | Simple SQL table fuzzing | https://github.com/PumpkinSeed/sqlfuzz | 0 | 0| 
 | 20201116T12:55:32Z | Ethereum smart contract fuzzer | https://github.com/crytic/echidna | 504 | 83| 
 | 20201116T12:54:28Z | Null | https://github.com/s9varesc/url-fuzzing | 0 | 0| 
 | 20201116T12:49:00Z | Sample vulnerable code to test your fuzzer | https://github.com/antnks/damn-vulnerable-app | 0 | 0| 
@@ -74,7 +75,6 @@
 | 20201116T11:50:14Z | Collection of quality safety articles | https://github.com/tom0li/collection-document | 1291 | 411| 
 | 20201116T11:44:55Z | Null | https://github.com/Sentinel-One/efi_fuzz | 50 | 5| 
 | 20201116T11:15:58Z | Null | https://github.com/s9varesc/url-fuzzing-docker | 0 | 0| 
-| 20201116T10:55:21Z | Null | https://github.com/sucystem/Uri-Fuzzer | 0 | 0| 
 
 
 
