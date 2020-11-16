@@ -116,13 +116,13 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20201116T13:20:32Z | A fast url fuzzer in golang | https://github.com/neonify/lessgo | 0 | 0| 
+| 20201116T13:25:04Z | A fast url fuzzer in golang | https://github.com/neonify/lessgo | 0 | 0| 
 | 20201116T13:14:39Z | Null | https://github.com/vincentandr/Fuzzy-Logic-vs.-Genetic-Algorithm | 0 | 0| 
 | 20201116T13:02:28Z | Simple SQL table fuzzing | https://github.com/PumpkinSeed/sqlfuzz | 0 | 0| 
 | 20201116T12:55:32Z | Ethereum smart contract fuzzer | https://github.com/crytic/echidna | 504 | 83| 
 | 20201116T12:54:28Z | Null | https://github.com/s9varesc/url-fuzzing | 0 | 0| 
 | 20201116T12:49:00Z | Sample vulnerable code to test your fuzzer | https://github.com/antnks/damn-vulnerable-app | 0 | 0| 
-| 20201116T12:46:56Z | Rockyou for web fuzzing | https://github.com/six2dez/OneListForAll | 65 | 12| 
+| 20201116T12:46:56Z | Rockyou for web fuzzing | https://github.com/six2dez/OneListForAll | 65 | 13| 
 | 20201116T12:01:02Z | The Book %Generating Software Tests% | https://github.com/uds-se/fuzzingbook | 438 | 88| 
 | 20201116T11:56:39Z | Null | https://github.com/Pinioo/FuzzyAutoTransmission | 0 | 0| 
 | 20201116T11:50:14Z | Collection of quality safety articles | https://github.com/tom0li/collection-document | 1291 | 411| 
