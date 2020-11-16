@@ -46,16 +46,16 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20201116T02:32:15Z | CVE-2020-14645 | Null | https://github.com/HYWZ36/CVE-2020-14645-code | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
 | 20201115T22:58:20Z | CVE-2020-15228 | Fix CVE-2020-15228 (set-env, add-path in Github-Actions) | https://github.com/guettli/fix-CVE-2020-15228 | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
-| 20201115T21:49:11Z | CVE-2020-15227 | CVE-2020-15227 checker | https://github.com/filipsedivy/CVE-2020-15227 | | 
-| 20201115T10:57:13Z | CVE-2020-16126 | A bash script exploit of [CVE-2020-16126/CVE-2020-16127] to achieve privilege escalation. | https://github.com/zev3n/Ubuntu-Gnome-privilege-escalation | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 02 MINUTES 37 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20201115T01:33:08Z | CVE-2020-4040 | Null | https://github.com/jpvispo/RCE-Exploit-Bolt-3.7.0-CVE-2020-4040-4041 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 02 MINUTES 43 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201115T21:49:11Z | CVE-2020-15227 | CVE-2020-15227 checker | https://github.com/filipsedivy/CVE-2020-15227 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 13 MINUTES 39 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201115T10:57:13Z | CVE-2020-16126 | A bash script exploit of [CVE-2020-16126/CVE-2020-16127] to achieve privilege escalation. | https://github.com/zev3n/Ubuntu-Gnome-privilege-escalation | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 13 MINUTES 30 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201115T01:33:08Z | CVE-2020-4040 | Null | https://github.com/jpvispo/RCE-Exploit-Bolt-3.7.0-CVE-2020-4040-4041 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 13 MINUTES 37 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20201114T13:56:03Z | cve-2020-1938 | Null | https://github.com/kukudechen-chen/cve-2020-1938 | 未查询到CVE信息| 
 | 20201114T09:42:21Z | CVE-2020-14882 | Null | https://github.com/QmF0c3UK/CVE-2020-14882 | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
 | 20201114T08:55:28Z | CVE-2020-25705 | PoC for CVE-2020-25705 POC-2020-25705 | https://github.com/tdwyer/CVE-2020-25705 | 未查询到CVE信息| 
 | 20201113T18:51:41Z | CVE-2020-25769 | GOG Galaxy Local Privilege Escalation | https://github.com/lagartojuancho/CVE-2020-25769 | 未查询到CVE信息| 
 | 20201113T14:58:52Z | CVE-2020-25213 | CVE-2020-25213 Wordpress File Manager 6.7 Plugin 0day exploit | https://github.com/Dark-Grizzly/WPKiller | | 
-| 20201113T13:41:44Z | CVE-2020-15349 | Vulnerability Description of CVE-2020-15349 | https://github.com/Traxes/Forklift_LPE | 未查询到CVE信息| 
 
 
 # klee on Github 推荐
@@ -86,16 +86,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20201116T01:49:18Z | A list of everything you need to be successful as an Ethical Hacker.  The best resources, exploits, payloads, and strategies that I%ve used to advance my skills and knowledge at a Penetration Tester. | https://github.com/Kennyslaboratory/Hacker-Heaven | 0 | 0| 
+| 20201116T02:42:04Z | Extra goodies for GEF: Open repository for unfiltered contributions to the project. | https://github.com/hugsy/gef-extras | 49 | 21| 
+| 20201116T02:20:09Z | A list of everything you need to be successful as an Ethical Hacker.  The best resources, exploits, payloads, and strategies that I%ve used to advance my skills and knowledge at a Penetration Tester. | https://github.com/Kennyslaboratory/Hacker-Heaven | 0 | 0| 
+| 20201116T02:19:58Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 8589 | 1334| 
 | 20201116T01:08:03Z | exploits and proof-of-concept vulnerability demonstration files from the team at Hacker House | https://github.com/hackerhouse-opensource/exploits | 208 | 59| 
 | 20201116T00:21:57Z | Null | https://github.com/royanpng2/MyExploit | 0 | 0| 
 | 20201116T00:21:24Z | Exploit Buffer Overflow Remoto para Minishare 1.4.1 | https://github.com/abeljm/Exploit-BufferOverflow-minishare1.4.1 | 0 | 0| 
 | 20201116T00:16:13Z | Implementation of Padding Oracle Attack exploit on CBC mode ciphers with PKCS7 padding | https://github.com/bpluta/PaddingOracleAttack | 0 | 0| 
 | 20201115T23:27:46Z | Sifter is a OSINT, recon & vulnerability scanner. It incorporates a plethara of tools within different module sets that tries to cover every attack vector. Allowing you to quickly perform recon tasks and organize the results in one place. From OSINT to Recon, Exploitation, Post-Exploitation, OpSec, Threat Analysis, XSS, SQLinjection, Network Scanning, WebApp Analysis or DNS enumeration.. Sifter should be able to cover it all. | https://github.com/s1l3nt78/sifter | 288 | 88| 
 | 20201115T22:37:34Z | Python2.7 Scripts for Buffer Overflows Exploitation | https://github.com/Hritish42/BOF_template | 0 | 0| 
-| 20201115T22:25:30Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 8588 | 1334| 
 | 20201115T22:09:42Z | api s%inpirant du 5250/3270 utilisant NIM-LANG exploitation du terminal | https://github.com/AS400JPLPC/nim_termcurs | 2 | 0| 
-| 20201115T21:52:31Z | GEF - GDB Enhanced Features for exploit devs & reversers | https://github.com/hugsy/gef | 3242 | 469| 
 
 
 # backdoor on Github 推荐
@@ -116,7 +116,9 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20201116T01:54:38Z | Null | https://github.com/WeeYL/creative_fuzzbuzz | 0 | 0| 
+| 20201116T02:47:06Z | Null | https://github.com/WeeYL/creative_fuzzbuzz | 0 | 0| 
+| 20201116T02:35:49Z | A fast subdomain fuzzer | https://github.com/neonify/lessgo | 0 | 0| 
+| 20201116T01:57:46Z | Bazel Starlark extensions for defining fuzz tests in Bazel projects | https://github.com/googleinterns/bazel-rules-fuzzing | 3 | 0| 
 | 20201116T01:08:11Z | Null | https://github.com/olegsych/fuzzy | 0 | 0| 
 | 20201116T01:00:41Z | Null | https://github.com/almeidaw/fuzzynlp | 0 | 0| 
 | 20201115T23:55:36Z | The forum application with automatic fuzzy generator of new topics | https://github.com/Luvkitri/fuzzy-forum-frontend | 0 | 0| 
@@ -124,8 +126,6 @@
 | 20201115T22:54:26Z | My codes for ECE 624 - Fuzzy Sets in Human-Centric Systems, University of Alberta. | https://github.com/Leo-LiHao/fuzzyset | 0 | 0| 
 | 20201115T22:52:07Z | Null | https://github.com/googleinterns/hw-fuzzing | 2 | 0| 
 | 20201115T22:35:08Z | Fuzzy matching publications for fatcat (wip). | https://github.com/miku/fuzzycat | 0 | 1| 
-| 20201115T21:56:08Z | Manual input and schedule fuzzing/steering | https://github.com/danpoe/quickfuzz | 0 | 0| 
-| 20201115T21:50:18Z | Null | https://github.com/unjuken/TimeSeries-Fuzzy | 0 | 0| 
 
 
 
