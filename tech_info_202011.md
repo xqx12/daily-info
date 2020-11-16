@@ -86,7 +86,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20201116T00:52:58Z | A list of everything you need to be successful as an Ethical Hacker.  The best resources, exploits, payloads, and strategies that I%ve used to advance my skills and knowledge at a Penetration Tester. | https://github.com/Kennyslaboratory/Hacker-Heaven | 0 | 0| 
+| 20201116T01:02:29Z | A list of everything you need to be successful as an Ethical Hacker.  The best resources, exploits, payloads, and strategies that I%ve used to advance my skills and knowledge at a Penetration Tester. | https://github.com/Kennyslaboratory/Hacker-Heaven | 0 | 0| 
 | 20201116T00:21:57Z | Null | https://github.com/royanpng2/MyExploit | 0 | 0| 
 | 20201116T00:21:24Z | Exploit Buffer Overflow Remoto para Minishare 1.4.1 | https://github.com/abeljm/Exploit-BufferOverflow-minishare1.4.1 | 0 | 0| 
 | 20201116T00:16:13Z | Implementation of Padding Oracle Attack exploit on CBC mode ciphers with PKCS7 padding | https://github.com/bpluta/PaddingOracleAttack | 0 | 0| 
