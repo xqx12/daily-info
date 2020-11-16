@@ -6,6 +6,7 @@
 # 玄武实验室 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20201115 | Linux容器安全技术书籍资源。 | https://github.com/mrtc0/container-security-book| 
 
 
 # 安全维基 推荐
@@ -16,8 +17,10 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20201115T10:57:13Z | CVE-2020-16126 | A bash script exploit of [CVE-2020-16126/CVE-2020-16127] to achieve privilege escalation. | https://github.com/zev3n/Ubuntu-Gnome-privilege-escalation | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  09 HOURS 40 MINUTES 29 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20201115T01:33:08Z | CVE-2020-4040 | Null | https://github.com/jpvispo/RCE-Exploit-Bolt-3.7.0-CVE-2020-4040-4041 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  09 HOURS 40 MINUTES 36 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201115T22:58:20Z | CVE-2020-15228 | Fix CVE-2020-15228 (set-env, add-path in Github-Actions) | https://github.com/guettli/fix-CVE-2020-15228 | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
+| 20201115T21:49:11Z | CVE-2020-15227 | CVE-2020-15227 checker | https://github.com/filipsedivy/CVE-2020-15227 | Nette版本2.0.19、2.1.13、2.2.10、2.3.14、2.4.16、3.0.6之前的版本很容易受到代码注入攻击，方法是将特殊格式的参数传递给URL，这有可能导致RCE。 Nette是一个PHP / Composer MVC框架。| 
+| 20201115T10:57:13Z | CVE-2020-16126 | A bash script exploit of [CVE-2020-16126/CVE-2020-16127] to achieve privilege escalation. | https://github.com/zev3n/Ubuntu-Gnome-privilege-escalation | 在0.6.55-0ubuntu13.2之前的版本中，对Ubuntus的AccountsService进行的特定修改以及其他较早的版本，不正确地放弃了原谅，使不受信任的用户向AccountService发送信号，从而阻止其及时处理D-Bus消息。| 
+| 20201115T01:33:08Z | CVE-2020-4040 | Null | https://github.com/jpvispo/RCE-Exploit-Bolt-3.7.0-CVE-2020-4040-4041 | 版本 3.7.1 前的螺栓 CMS 在预览生成端点中缺乏 CSRF 保护。预览由管理员、开发人员、首席编辑和编辑生成，他们有权在应用程序中创建内容。但是，由于缺乏适当的 CSRF 保护，未经授权的用户可能会生成预览。这在螺栓 3.7.1 中已修复| 
 
 
 # klee on Github 推荐
@@ -28,28 +31,29 @@
 # s2e on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20201115T21:12:13Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 64 | 22| 
 
 
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20201115T14:17:54Z | Windows Exploit Suggester - Next Generation | https://github.com/bitsadmin/wesng | 1936 | 311| 
-| 20201115T14:09:36Z | ASLR Evasion, Egghunters, SEH Overwrites | https://github.com/freddiebarrsmith/Advanced-Windows-Exploit-Development-Practice | 9 | 1| 
-| 20201115T14:01:42Z | post_exploitation | https://github.com/dar3k93/post_exploitation | 1 | 0| 
-| 20201115T13:31:56Z | The Browser Exploitation Framework Project | https://github.com/beefproject/beef | 5344 | 1288| 
-| 20201115T13:15:36Z | Vulnerabilities, security advisories, exploit codes and proof-of-concept codes. | https://github.com/zeroscience/advisory | 4 | 4| 
-| 20201115T13:13:30Z | Ladon Scanner For Golang (Full platform penetration scanner framework)LadonGo一款开源渗透扫描器框架，使用它可轻松批量探测C段、B段存活主机、指纹识别、端口扫描、密码爆破、远程执行、高危漏洞检测等。2.0版本包含15个模块功能，高危漏洞检测MS17010、SmbGhost，远程执行SshCmd、WinrmCmd，密码爆破SmbScan、SshScan、FtpScan、MysqlScan、WinrmScan，存活探测/信息收集/指纹识别PingScan、IcmpScan，BannerScan、HttpTitle、WeblogicScan，端口扫描PortScan。 | https://github.com/k8gege/LadonGo | 113 | 19| 
-| 20201115T12:54:04Z | Unicorn Framework is an iOS, macOS and Linux post-exploitation framework that using one line command and powerful python payload attempts to spawn a command line session with a lot of features such as downloading files, uploading files, getting system information and etc. | https://github.com/EntySec/unicorn | 11 | 4| 
-| 20201115T12:45:35Z | A python script file to remotely analyse and exploit Microsoft Windows system via impacket. | https://github.com/BroadbentT/WIN-MASTER | 14 | 10| 
-| 20201115T12:44:18Z | Just a temporary website to post my ctf writeups and journey into binary/android exploitation/malware analysis/exploit development | https://github.com/blackbeard666/pwn_exhibit | 2 | 1| 
-| 20201115T12:03:40Z | Experiments of binary exploit and hardware security | https://github.com/chuang76/Security-101 | 2 | 0| 
+| 20201115T23:27:46Z | Sifter is a OSINT, recon & vulnerability scanner. It incorporates a plethara of tools within different module sets that tries to cover every attack vector. Allowing you to quickly perform recon tasks and organize the results in one place. From OSINT to Recon, Exploitation, Post-Exploitation, OpSec, Threat Analysis, XSS, SQLinjection, Network Scanning, WebApp Analysis or DNS enumeration.. Sifter should be able to cover it all. | https://github.com/s1l3nt78/sifter | 288 | 88| 
+| 20201115T22:37:34Z | Python2.7 Scripts for Buffer Overflows Exploitation | https://github.com/Hritish42/BOF_template | 0 | 0| 
+| 20201115T22:25:30Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 8588 | 1334| 
+| 20201115T22:09:42Z | api s%inpirant du 5250/3270 utilisant NIM-LANG exploitation du terminal | https://github.com/AS400JPLPC/nim_termcurs | 2 | 0| 
+| 20201115T21:52:31Z | GEF - GDB Enhanced Features for exploit devs & reversers | https://github.com/hugsy/gef | 3242 | 469| 
+| 20201115T21:51:02Z | Exploits that I%ve written for Stephen Bradshaw%s Vulnserver https://github.com/stephenbradshaw/vulnserver | https://github.com/VWolt/Vulnserver-Exploits | 0 | 0| 
+| 20201115T21:50:18Z | Extra goodies for GEF: Open repository for unfiltered contributions to the project. | https://github.com/hugsy/gef-extras | 49 | 21| 
+| 20201115T21:20:28Z | Implementation of a SegnetConvLSTM for Lane Detection, exploiting spatiotemporal relations in data to detect roadlanes | https://github.com/NickLucche/lane-detection | 13 | 3| 
+| 20201115T20:06:14Z | Repo containing different POC%s for assorted applications | https://github.com/disastrpc/exploits | 0 | 0| 
+| 20201115T19:52:24Z | Dies ist der von den Max16K-Team entwickelter Roblox Exploit | https://github.com/MaximilianGT500/Max16K-RobloxExploit | 0 | 1| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20201115T13:02:42Z | Ghost Framework is an Android post-exploitation framework that exploits the Android Debug Bridge to remotely access an Android device. Ghost Framework gives you the power and convenience of remote Android device administration. | https://github.com/EntySec/ghost | 796 | 406| 
-| 20201115T12:54:04Z | Unicorn Framework is an iOS, macOS and Linux post-exploitation framework that using one line command and powerful python payload attempts to spawn a command line session with a lot of features such as downloading files, uploading files, getting system information and etc. | https://github.com/EntySec/unicorn | 11 | 4| 
+| 20201115T21:04:49Z | Backdoors framework based on %Blind Backdoors in Deep Learning Models% | https://github.com/ebagdasa/backdoors101 | 8 | 0| 
+| 20201115T14:53:32Z | Backdoor (reverse shell) programada usando python | https://github.com/Braga451/python_backdoor_public | 0 | 0| 
 | 20201115T11:45:52Z | 绕过专业工具检测的Webshell研究文章和免杀的Webshell | https://github.com/LandGrey/webshell-detect-bypass | 874 | 250| 
 | 20201115T10:49:04Z | This program is an non-object oriented opensource, hidden and undetectable backdoor/reverse shell/RAT for Windows made in Python 3 which contains many features such as multi-client support and cross-platform server. | https://github.com/xp4xbox/Python-Backdoor | 308 | 128| 
 | 20201115T09:38:00Z | Thoron Framework is a Linux post-exploitation framework that exploits Linux TCP vulnerability to provide a shell-like connection. Thoron Framework has the ability to create simple payloads to provide Linux TCP attack. | https://github.com/EntySec/thoron | 82 | 30| 
@@ -61,16 +65,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20201115T14:17:28Z | Null | https://github.com/WeeYL/creative_fuzzbuzz | 0 | 0| 
-| 20201115T14:16:50Z | Null | https://github.com/wodhks08/DumbFuzzerTest | 0 | 0| 
-| 20201115T14:16:06Z | Fuzzy Logic Toolbox Matlab Homework | https://github.com/makaryb/FuzzyLogicMatlabHomework | 0 | 0| 
-| 20201115T14:13:57Z | SIA 디지털아트 프로그래밍 2020 | https://github.com/jayce-cmd/fuzzy-journey | 0 | 0| 
-| 20201115T14:04:49Z | Assignment AI Using Mamdani | https://github.com/Jonasdedeus/FuzzyLogic | 0 | 0| 
-| 20201115T13:38:07Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 27954 | 13881| 
-| 20201115T13:31:23Z | Differential fuzzing for elliptic curves | https://github.com/catenacyber/elliptic-curve-differential-fuzzer | 13 | 5| 
-| 20201115T12:39:04Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 956 | 234| 
-| 20201115T12:11:00Z | This is the repository of the journal paper: Sugeno integral generalization applied to improve adaptive image binarization. Bardozzo et al.  | https://github.com/lodeguns/FuzzyAdaptiveBinarization | 1 | 0| 
-| 20201115T12:00:33Z | 自用字典，收集实战中遇到的奇特目录名、后门文件名等。不定期更新！ | https://github.com/doubleee/WebFuzzing | 19 | 4| 
+| 20201115T23:55:36Z | The forum application with automatic fuzzy generator of new topics | https://github.com/Luvkitri/fuzzy-forum-frontend | 0 | 0| 
+| 20201115T23:37:15Z | Null | https://github.com/lavanquan/fuzzy_qlearning | 0 | 0| 
+| 20201115T22:54:26Z | My codes for ECE 624 - Fuzzy Sets in Human-Centric Systems, University of Alberta. | https://github.com/Leo-LiHao/fuzzyset | 0 | 0| 
+| 20201115T22:52:07Z | Null | https://github.com/googleinterns/hw-fuzzing | 2 | 0| 
+| 20201115T22:35:08Z | Fuzzy matching publications for fatcat (wip). | https://github.com/miku/fuzzycat | 0 | 1| 
+| 20201115T21:56:08Z | Manual input and schedule fuzzing/steering | https://github.com/danpoe/quickfuzz | 0 | 0| 
+| 20201115T21:50:18Z | Null | https://github.com/unjuken/TimeSeries-Fuzzy | 0 | 0| 
+| 20201115T21:30:22Z |  A CLI tool that generates example data from JSON Typedef schemas | https://github.com/jsontypedef/json-typedef-fuzz | 0 | 0| 
+| 20201115T20:50:20Z | Null | https://github.com/terminal-labs/fuzzball | 0 | 0| 
+| 20201115T20:48:57Z | OSS-Fuzz - continuous fuzzing of open source software. | https://github.com/google/oss-fuzz | 5663 | 1114| 
 
 
 
