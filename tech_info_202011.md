@@ -47,14 +47,14 @@
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
 | 20201116T20:29:13Z | CVE-2020-15227 | CVE-2020-15227 checker | https://github.com/filipsedivy/CVE-2020-15227 | Nette版本2.0.19、2.1.13、2.2.10、2.3.14、2.4.16、3.0.6之前的版本很容易受到代码注入攻击，方法是将特殊格式的参数传递给URL，这有可能导致RCE。 Nette是一个PHP / Composer MVC框架。| 
-| 20201116T17:38:51Z | CVE-2020-1472 | Null | https://github.com/b1ack0wl/CVE-2020-1472 | 当攻击者使用Netlogon远程协议（MS-NRPC）（又称为“ Netlogon特权提升漏洞”）建立与域控制器的易受攻击的Netlogon安全通道连接时，将存在特权提升漏洞。| 
+| 20201116T17:38:51Z | CVE-2020-1472 | Null | https://github.com/b1ack0wl/CVE-2020-1472 | | 
 | 20201116T15:32:38Z | CVE-2020-25705 | PoC for CVE-2020-25705 POC-2020-25705 | https://github.com/tdwyer/CVE-2020-25705 | 未查询到CVE信息| 
 | 20201116T14:43:25Z | CVE-2020-14882 | Null | https://github.com/x51/CVE-2020-14882 | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
 | 20201116T10:31:53Z | CVE-2020-15228 | Fix CVE-2020-15228 (set-env, add-path in Github-Actions) | https://github.com/guettli/fix-CVE-2020-15228 | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
 | 20201116T04:45:20Z | CVE-2020-0796 | Null | https://github.com/datntsec/CVE-2020-0796 | Microsoft服务器消息块3.1.1（SMBv3）协议处理某些请求的方式中存在一个远程执行代码漏洞，也称为“ Windows SMBv3客户端/服务器远程执行代码漏洞”。| 
-| 20201116T04:23:12Z | CVE-2020-14882 | CVE-2020–14882、CVE-2020–14883 | https://github.com/jas502n/CVE-2020-14882 | | 
+| 20201116T04:23:12Z | CVE-2020-14882 | CVE-2020–14882、CVE-2020–14883 | https://github.com/jas502n/CVE-2020-14882 | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
 | 20201116T02:32:15Z | CVE-2020-14645 | Null | https://github.com/HYWZ36/CVE-2020-14645-code | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
-| 20201115T10:57:13Z | CVE-2020-16126 | A bash script exploit of [CVE-2020-16126/CVE-2020-16127] to achieve privilege escalation. | https://github.com/zev3n/Ubuntu-Gnome-privilege-escalation | 在0.6.55-0ubuntu13.2之前的版本中，对Ubuntus的AccountsService进行的特定修改以及其他较早的版本，不正确地放弃了原谅，使不受信任的用户向AccountService发送信号，从而阻止其及时处理D-Bus消息。| 
+| 20201115T10:57:13Z | CVE-2020-16126 | A bash script exploit of [CVE-2020-16126/CVE-2020-16127] to achieve privilege escalation. | https://github.com/zev3n/Ubuntu-Gnome-privilege-escalation | | 
 | 20201115T01:33:08Z | CVE-2020-4040 | Null | https://github.com/jpvispo/RCE-Exploit-Bolt-3.7.0-CVE-2020-4040-4041 | 版本3.7.1之前的Bolt CMS在预览生成端点中缺少CSRF保护。预览旨在由有权在应用程序中创建内容的管理员，开发人员，主编辑和编辑人员生成。但是由于缺乏适当的CSRF保护，未经授权的用户可能会生成预览。此问题已在Bolt 3.7.1中修复。| 
 
 
@@ -86,8 +86,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20201117T01:02:24Z | exploits and proof-of-concept vulnerability demonstration files from the team at Hacker House | https://github.com/hackerhouse-opensource/exploits | 211 | 60| 
 | 20201117T00:49:03Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 6 | 4| 
-| 20201117T00:36:10Z | exploits and proof-of-concept vulnerability demonstration files from the team at Hacker House | https://github.com/hackerhouse-opensource/exploits | 210 | 60| 
 | 20201117T00:35:28Z | The Key of Exploiternator | https://github.com/Hyunwoonator/Exploiternator-Key | 1 | 0| 
 | 20201117T00:22:39Z | These are notes and %exploits% written for a course on Stackskill.com | https://github.com/JeffLabonte/Pentest_Python_Stackskill | 0 | 0| 
 | 20201117T00:22:20Z | A python script file to remotely analyse and exploit Microsoft Windows system via impacket. | https://github.com/BroadbentT/WIN-MASTER | 14 | 10| 
@@ -101,16 +101,16 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20201117T00:33:51Z | Tool to find potential backdoor/security holes in your endpoint | https://github.com/subasgit/backdoorfinder | 1 | 0| 
+| 20201117T00:17:44Z | 绕过专业工具检测的Webshell研究文章和免杀的Webshell | https://github.com/LandGrey/webshell-detect-bypass | 876 | 251| 
+| 20201116T22:52:52Z | Ghost Framework is an Android post-exploitation framework that exploits the Android Debug Bridge to remotely access an Android device. Ghost Framework gives you the power and convenience of remote Android device administration. | https://github.com/EntySec/ghost | 798 | 407| 
+| 20201116T21:31:54Z | Deep Learning Backdoors Framework. Partially based on %Blind Backdoors in Deep Learning Models%. | https://github.com/ebagdasa/backdoors101 | 8 | 0| 
+| 20201116T18:51:58Z | A deck-building roguelike cyberpunk game. | https://github.com/uspgamedev/backdoor | 19 | 3| 
+| 20201116T16:11:12Z | etli ekmek | https://github.com/hkeydesign/backdoor | 1 | 1| 
 | 20201116T13:32:03Z | A Backdoor written in Python 3 that enables the attacker to execute commands on the remote machine being undetectable. | https://github.com/Ryan-AW/Backdoor-Trojan | 3 | 2| 
-| 20201116T11:54:01Z | 绕过专业工具检测的Webshell研究文章和免杀的Webshell | https://github.com/LandGrey/webshell-detect-bypass | 875 | 251| 
-| 20201116T09:47:12Z | Ghost Framework is an Android post-exploitation framework that exploits the Android Debug Bridge to remotely access an Android device. Ghost Framework gives you the power and convenience of remote Android device administration. | https://github.com/EntySec/ghost | 797 | 407| 
 | 20201116T09:40:26Z | Null | https://github.com/rranand/BackDoor | 0 | 0| 
 | 20201116T08:15:13Z | FUD cross-platform python2 backdoor | https://github.com/7h3w4lk3r/pyback | 9 | 4| 
 | 20201116T03:57:19Z | This is the implementation of our paper %Open-sourced Dataset Protection via Backdoor Watermarking%, accepted by the NeurIPS Workshop on Dataset Curation and Security, 2020. | https://github.com/THUYimingLi/Open-sourced_Dataset_Protection | 1 | 1| 
-| 20201116T00:39:46Z | Unicorn Framework is an iOS, macOS and Linux post-exploitation framework that using one line command and powerful python payload attempts to spawn a command line session with a lot of features such as downloading files, uploading files, getting system information and etc. | https://github.com/EntySec/unicorn | 12 | 4| 
-| 20201115T21:04:49Z | Backdoors framework based on %Blind Backdoors in Deep Learning Models% | https://github.com/ebagdasa/backdoors101 | 8 | 0| 
-| 20201115T14:53:32Z | Backdoor (reverse shell) programada usando python | https://github.com/Braga451/python_backdoor_public | 0 | 0| 
-| 20201115T10:49:04Z | This program is an non-object oriented opensource, hidden and undetectable backdoor/reverse shell/RAT for Windows made in Python 3 which contains many features such as multi-client support and cross-platform server. | https://github.com/xp4xbox/Python-Backdoor | 308 | 128| 
 
 
 # fuzz on Github 推荐

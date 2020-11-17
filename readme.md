@@ -24,12 +24,12 @@
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
 | 20201116T20:29:13Z | CVE-2020-15227 | CVE-2020-15227 checker | https://github.com/filipsedivy/CVE-2020-15227 | Nette版本2.0.19、2.1.13、2.2.10、2.3.14、2.4.16、3.0.6之前的版本很容易受到代码注入攻击，方法是将特殊格式的参数传递给URL，这有可能导致RCE。 Nette是一个PHP / Composer MVC框架。| 
-| 20201116T17:38:51Z | CVE-2020-1472 | Null | https://github.com/b1ack0wl/CVE-2020-1472 | 当攻击者使用Netlogon远程协议（MS-NRPC）（又称为“ Netlogon特权提升漏洞”）建立与域控制器的易受攻击的Netlogon安全通道连接时，将存在特权提升漏洞。| 
+| 20201116T17:38:51Z | CVE-2020-1472 | Null | https://github.com/b1ack0wl/CVE-2020-1472 | | 
 | 20201116T15:32:38Z | CVE-2020-25705 | PoC for CVE-2020-25705 POC-2020-25705 | https://github.com/tdwyer/CVE-2020-25705 | 未查询到CVE信息| 
 | 20201116T14:43:25Z | CVE-2020-14882 | Null | https://github.com/x51/CVE-2020-14882 | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
 | 20201116T10:31:53Z | CVE-2020-15228 | Fix CVE-2020-15228 (set-env, add-path in Github-Actions) | https://github.com/guettli/fix-CVE-2020-15228 | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
 | 20201116T04:45:20Z | CVE-2020-0796 | Null | https://github.com/datntsec/CVE-2020-0796 | Microsoft服务器消息块3.1.1（SMBv3）协议处理某些请求的方式中存在一个远程执行代码漏洞，也称为“ Windows SMBv3客户端/服务器远程执行代码漏洞”。| 
-| 20201116T04:23:12Z | CVE-2020-14882 | CVE-2020–14882、CVE-2020–14883 | https://github.com/jas502n/CVE-2020-14882 | | 
+| 20201116T04:23:12Z | CVE-2020-14882 | CVE-2020–14882、CVE-2020–14883 | https://github.com/jas502n/CVE-2020-14882 | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
 | 20201116T02:32:15Z | CVE-2020-14645 | Null | https://github.com/HYWZ36/CVE-2020-14645-code | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
 
 
@@ -63,9 +63,11 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20201116T22:52:52Z | Ghost Framework is an Android post-exploitation framework that exploits the Android Debug Bridge to remotely access an Android device. Ghost Framework gives you the power and convenience of remote Android device administration. | https://github.com/EntySec/ghost | 798 | 407| 
+| 20201116T21:31:54Z | Deep Learning Backdoors Framework. Partially based on %Blind Backdoors in Deep Learning Models%. | https://github.com/ebagdasa/backdoors101 | 8 | 0| 
+| 20201116T18:51:58Z | A deck-building roguelike cyberpunk game. | https://github.com/uspgamedev/backdoor | 19 | 3| 
+| 20201116T16:11:12Z | etli ekmek | https://github.com/hkeydesign/backdoor | 1 | 1| 
 | 20201116T13:32:03Z | A Backdoor written in Python 3 that enables the attacker to execute commands on the remote machine being undetectable. | https://github.com/Ryan-AW/Backdoor-Trojan | 3 | 2| 
-| 20201116T11:54:01Z | 绕过专业工具检测的Webshell研究文章和免杀的Webshell | https://github.com/LandGrey/webshell-detect-bypass | 875 | 251| 
-| 20201116T09:47:12Z | Ghost Framework is an Android post-exploitation framework that exploits the Android Debug Bridge to remotely access an Android device. Ghost Framework gives you the power and convenience of remote Android device administration. | https://github.com/EntySec/ghost | 797 | 407| 
 | 20201116T09:40:26Z | Null | https://github.com/rranand/BackDoor | 0 | 0| 
 | 20201116T08:15:13Z | FUD cross-platform python2 backdoor | https://github.com/7h3w4lk3r/pyback | 9 | 4| 
 | 20201116T03:57:19Z | This is the implementation of our paper %Open-sourced Dataset Protection via Backdoor Watermarking%, accepted by the NeurIPS Workshop on Dataset Curation and Security, 2020. | https://github.com/THUYimingLi/Open-sourced_Dataset_Protection | 1 | 1| 
