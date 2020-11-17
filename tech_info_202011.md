@@ -6,6 +6,9 @@
 # 玄武实验室 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20201116 | Bluetooth-LE安全性：方法，工具和堆栈视频会议学习资源。 | https://github.com/Charmve/BLE-Security-Attack-Defence| 
+| 20201116 | OWASP NodeGoat项目资源，了解OWASP十大安全风险,如何使用Node.js开发的Web应用程序安全问题、 | https://github.com/OWASP/NodeGoat| 
+| 20201116 | 知名网络空间普查与网络测绘组织研究报告 第二期-Shodan篇 | http://plcscan.org/blog/2020/11/research-report-of-renowned-internet-census-organization-shodan/| 
 | 20201115 | Linux容器安全技术书籍资源。 | https://github.com/mrtc0/container-security-book| 
 | 20201113 | Linux 内核处理 ICMP 请求 Bug 导致可以实现 DNS 缓存污染攻击 | https://sec.today/pulses/9d963fac-ef50-45e5-8c17-0309033bf600/| 
 | 20201113 | Samsung NPU 共享内存解析内存破坏漏洞 | https://bugs.chromium.org/p/project-zero/issues/detail?id=2073| 
@@ -23,9 +26,6 @@
 | 20201112 | Detecting SSH Activity via Process Monitoring | https://themittenmac.com/detecting-ssh-activity-via-process-monitoring/| 
 | 20201112 | [Linux Kernel Exploitation 0x0] Debugging the Kernel with QEMU | https://blog.k3170makan.com/2020/11/linux-kernel-exploitation-0x0-debugging.html| 
 | 20201112 | ZecOps 团队对 ICMPv6 Bad Neighbor 漏洞的分析 | https://blog.zecops.com/vulnerabilities/exploring-the-exploitability-of-bad-neighbor-the-recent-icmpv6-vulnerability-cve-2020-16898/| 
-| 20201112 | Weblogic IIOP 协议 NAT 网络绕过。 | https://paper.seebug.org/1396/| 
-| 20201112 | 思科Talos团队最近发现了CRAT的恶意软件家族的新版本。 | https://blog.talosintelligence.com/2020/11/crat-and-plugins.html?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+feedburner%2FTalos+%28Talos%E2%84%A2+Blog%29| 
-| 20201111 | Fixing leaky logs: how to find a bug and ensure it never returns | https://r2c.dev/blog/2020/fixing-leaky-logs-how-to-find-a-bug-and-ensure-it-never-returns/| 
 
 
 # 安全维基 推荐
@@ -46,21 +46,23 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20201116T20:29:13Z | CVE-2020-15227 | CVE-2020-15227 checker | https://github.com/filipsedivy/CVE-2020-15227 | Nette版本2.0.19、2.1.13、2.2.10、2.3.14、2.4.16、3.0.6之前的版本很容易受到代码注入攻击，方法是将特殊格式的参数传递给URL，这有可能导致RCE。 Nette是一个PHP / Composer MVC框架。| 
+| 20201116T17:38:51Z | CVE-2020-1472 | Null | https://github.com/b1ack0wl/CVE-2020-1472 | 当攻击者使用Netlogon远程协议（MS-NRPC）（又称为“ Netlogon特权提升漏洞”）建立与域控制器的易受攻击的Netlogon安全通道连接时，将存在特权提升漏洞。| 
+| 20201116T15:32:38Z | CVE-2020-25705 | PoC for CVE-2020-25705 POC-2020-25705 | https://github.com/tdwyer/CVE-2020-25705 | 未查询到CVE信息| 
+| 20201116T14:43:25Z | CVE-2020-14882 | Null | https://github.com/x51/CVE-2020-14882 | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
 | 20201116T10:31:53Z | CVE-2020-15228 | Fix CVE-2020-15228 (set-env, add-path in Github-Actions) | https://github.com/guettli/fix-CVE-2020-15228 | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
-| 20201116T04:45:20Z | CVE-2020-0796 | Null | https://github.com/datntsec/CVE-2020-0796 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 01 MINUTES 31 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20201116T04:23:12Z | CVE-2020-14882 | CVE-2020–14882、CVE-2020–14883 | https://github.com/jas502n/CVE-2020-14882 | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
+| 20201116T04:45:20Z | CVE-2020-0796 | Null | https://github.com/datntsec/CVE-2020-0796 | Microsoft服务器消息块3.1.1（SMBv3）协议处理某些请求的方式中存在一个远程执行代码漏洞，也称为“ Windows SMBv3客户端/服务器远程执行代码漏洞”。| 
+| 20201116T04:23:12Z | CVE-2020-14882 | CVE-2020–14882、CVE-2020–14883 | https://github.com/jas502n/CVE-2020-14882 | | 
 | 20201116T02:32:15Z | CVE-2020-14645 | Null | https://github.com/HYWZ36/CVE-2020-14645-code | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
-| 20201115T21:49:11Z | CVE-2020-15227 | CVE-2020-15227 checker | https://github.com/filipsedivy/CVE-2020-15227 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 01 MINUTES 42 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20201115T10:57:13Z | CVE-2020-16126 | A bash script exploit of [CVE-2020-16126/CVE-2020-16127] to achieve privilege escalation. | https://github.com/zev3n/Ubuntu-Gnome-privilege-escalation | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 01 MINUTES 34 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20201115T01:33:08Z | CVE-2020-4040 | Null | https://github.com/jpvispo/RCE-Exploit-Bolt-3.7.0-CVE-2020-4040-4041 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 01 MINUTES 41 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20201114T13:56:03Z | cve-2020-1938 | Null | https://github.com/kukudechen-chen/cve-2020-1938 | 未查询到CVE信息| 
-| 20201114T09:42:21Z | CVE-2020-14882 | Null | https://github.com/QmF0c3UK/CVE-2020-14882 | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
-| 20201114T08:55:28Z | CVE-2020-25705 | PoC for CVE-2020-25705 POC-2020-25705 | https://github.com/tdwyer/CVE-2020-25705 | 未查询到CVE信息| 
+| 20201115T10:57:13Z | CVE-2020-16126 | A bash script exploit of [CVE-2020-16126/CVE-2020-16127] to achieve privilege escalation. | https://github.com/zev3n/Ubuntu-Gnome-privilege-escalation | 在0.6.55-0ubuntu13.2之前的版本中，对Ubuntus的AccountsService进行的特定修改以及其他较早的版本，不正确地放弃了原谅，使不受信任的用户向AccountService发送信号，从而阻止其及时处理D-Bus消息。| 
+| 20201115T01:33:08Z | CVE-2020-4040 | Null | https://github.com/jpvispo/RCE-Exploit-Bolt-3.7.0-CVE-2020-4040-4041 | 版本3.7.1之前的Bolt CMS在预览生成端点中缺少CSRF保护。预览旨在由有权在应用程序中创建内容的管理员，开发人员，主编辑和编辑人员生成。但是由于缺乏适当的CSRF保护，未经授权的用户可能会生成预览。此问题已在Bolt 3.7.1中修复。| 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20201116T17:03:03Z | Null | https://github.com/reswos/kleer_csd | 0 | 0| 
+| 20201116T16:43:40Z | Symbiotic is a tool for finding bugs in computer programs based on instrumentation, program slicing and KLEE | https://github.com/staticafi/symbiotic | 200 | 33| 
 | 20201114T18:28:52Z | RVT is a collection of tools/libraries to support both static and dynamic verification of Rust programs. | https://github.com/project-oak/rust-verification-tools | 97 | 5| 
 | 20201114T10:19:03Z | Null | https://github.com/klee30810/klee30810 | 1 | 0| 
 | 20201113T16:22:10Z | Null | https://github.com/matthiasbruns/kleener_fussel | 0 | 0| 
@@ -69,8 +71,6 @@
 | 20201112T21:06:28Z | Null | https://github.com/klee-chan/klee-chan.github.io | 0 | 0| 
 | 20201112T03:31:29Z | Null | https://github.com/DonaldKLee/DonaldKLee | 0 | 0| 
 | 20201112T02:14:36Z | Still currently in progress | https://github.com/DonaldKLee/DonaldKLee.github.io | 1 | 0| 
-| 20201110T17:21:24Z | Urban Evidence Based Policy (SPPA667) | https://github.com/KLeeDE/PUS2020_KLee | 0 | 1| 
-| 20201110T16:56:58Z | Null | https://github.com/thierry-tct/KLEE-SEMu | 1 | 0| 
 
 
 # s2e on Github 推荐
@@ -86,16 +86,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20201116T13:33:48Z | Silice is an open source language that simplifies writing algorithms fully exploiting FPGA architectures. | https://github.com/sylefeb/Silice | 359 | 27| 
-| 20201116T13:15:53Z | These exploits are made by ME | https://github.com/TamilHackz/i-make-exploits | 2 | 1| 
-| 20201116T13:13:25Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 8599 | 1341| 
-| 20201116T11:46:52Z | k8gege.org - K8哥哥%s Blog | https://github.com/k8gege/k8gege.github.io | 9 | 6| 
-| 20201116T11:06:59Z | DarkWare is a roblox exploit hub. | https://github.com/Yarik312/DarkWare | 1 | 0| 
-| 20201116T10:53:55Z | Sifter is a OSINT, recon & vulnerability scanner. It incorporates a plethara of tools within different module sets that tries to cover every attack vector. Allowing you to quickly perform recon tasks and organize the results in one place. From OSINT to Recon, Exploitation, Post-Exploitation, OpSec, Threat Analysis, XSS, SQLinjection, Network Scanning, WebApp Analysis or DNS enumeration.. Sifter should be able to cover it all. | https://github.com/s1l3nt78/sifter | 288 | 88| 
-| 20201116T09:31:40Z | This script automatically downloads the BlueBomb exploit script onto /usr/local/bin for easy homebrewing. | https://github.com/nonforgettable/setup-bluebomb | 0 | 0| 
-| 20201116T09:23:21Z | Trying some basic exercises from exploit exercises protostar,nebula,bla bla and applying them to play wargames | https://github.com/0xleetx/Exploit-exerciese-and-Wargames | 0 | 0| 
-| 20201116T09:12:23Z | Experiments of binary exploit and hardware security | https://github.com/chuang76/Security-101 | 2 | 0| 
-| 20201116T08:31:55Z | 使用原始的Java开发：servlet+jdbc+jsp+mysql+eclipse | https://github.com/codebounding/primevalExploitDemo | 0 | 0| 
+| 20201117T00:49:03Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 6 | 4| 
+| 20201117T00:36:10Z | exploits and proof-of-concept vulnerability demonstration files from the team at Hacker House | https://github.com/hackerhouse-opensource/exploits | 210 | 60| 
+| 20201117T00:35:28Z | The Key of Exploiternator | https://github.com/Hyunwoonator/Exploiternator-Key | 1 | 0| 
+| 20201117T00:22:39Z | These are notes and %exploits% written for a course on Stackskill.com | https://github.com/JeffLabonte/Pentest_Python_Stackskill | 0 | 0| 
+| 20201117T00:22:20Z | A python script file to remotely analyse and exploit Microsoft Windows system via impacket. | https://github.com/BroadbentT/WIN-MASTER | 14 | 10| 
+| 20201117T00:21:19Z | CTF framework and exploit development library | https://github.com/Gallopsled/pwntools | 7250 | 1309| 
+| 20201117T00:21:12Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 8605 | 1341| 
+| 20201116T23:46:30Z | RTF exploit kits for cve-2017-11882, cve-2017-8570, cve-2018-0802, and cve-2018-8174 | https://github.com/dcsync/rtfkit | 0 | 0| 
+| 20201116T23:30:59Z | A list of everything you need to be successful as an Ethical Hacker.  The best resources, exploits, payloads, and strategies that I%ve used to advance my skills and knowledge at a Penetration Tester. | https://github.com/Kennyslaboratory/Hacker-Heaven | 1 | 0| 
+| 20201116T20:45:44Z | An educational reverse-engineering of the WideVine DRM scheme to show how it can be exploited. | https://github.com/openstrikesback/widevine-l3-decryptor | 0 | 0| 
 
 
 # backdoor on Github 推荐
