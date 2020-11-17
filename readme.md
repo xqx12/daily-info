@@ -77,16 +77,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20201116T13:53:09Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 3234 | 746| 
-| 20201116T13:49:03Z | Null | https://github.com/LGuilhermeRodrigues/fuzzy-logic-game | 0 | 0| 
-| 20201116T13:47:15Z | Null | https://github.com/googleinterns/hw-fuzzing | 2 | 0| 
-| 20201116T13:44:42Z | A fast url fuzzer in golang | https://github.com/neonify/lessgo | 0 | 0| 
-| 20201116T13:30:35Z | Null | https://github.com/imbawenzi/Fuzzing_Paper_Note | 0 | 0| 
-| 20201116T13:14:39Z | Null | https://github.com/vincentandr/Fuzzy-Logic-vs.-Genetic-Algorithm | 0 | 0| 
-| 20201116T13:02:28Z | Simple SQL table fuzzing | https://github.com/PumpkinSeed/sqlfuzz | 0 | 0| 
-| 20201116T12:55:32Z | Ethereum smart contract fuzzer | https://github.com/crytic/echidna | 504 | 83| 
-| 20201116T12:54:28Z | Null | https://github.com/s9varesc/url-fuzzing | 0 | 0| 
-| 20201116T12:49:00Z | Sample vulnerable code to test your fuzzer | https://github.com/antnks/damn-vulnerable-app | 0 | 0| 
+| 20201116T23:54:41Z | Lógica fuzzy para classificação de ações | https://github.com/vitormormul/financial-fuzzy | 0 | 0| 
+| 20201116T23:45:58Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2203 | 107| 
+| 20201116T22:49:00Z | Powerful CUI Explorer on WSL zsh | https://github.com/ShotaroKataoka/Fuzzy-Terminal-Explorer | 1 | 0| 
+| 20201116T22:36:04Z | fuzzing and benching for precompiles | https://github.com/prestwich/smash | 3 | 1| 
+| 20201116T22:36:02Z | Null | https://github.com/meliache/b2_fuzzy_helpers | 2 | 0| 
+| 20201116T22:30:51Z | Null | https://github.com/cbermudez97/fuzzy-logic-project | 0 | 0| 
+| 20201116T22:11:53Z | Null | https://github.com/zeddzorandder/fuzzy-couscous | 0 | 0| 
+| 20201116T22:05:44Z | qsfuzz (Query String Fuzz) allows you to build your own rules to fuzz query strings and easily identify vulnerabilities. | https://github.com/ameenmaali/qsfuzz | 166 | 29| 
+| 20201116T21:54:00Z | generate contextually sensible fuzz tests for servant apps | https://github.com/mwotton/roboservant | 9 | 0| 
+| 20201116T21:40:26Z | Personal website of Laurence Hughes | https://github.com/fuzzylogicxx/fuzzylogic | 4 | 1| 
 
 
 

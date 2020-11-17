@@ -116,16 +116,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20201116T13:53:09Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 3234 | 746| 
-| 20201116T13:49:03Z | Null | https://github.com/LGuilhermeRodrigues/fuzzy-logic-game | 0 | 0| 
-| 20201116T13:47:15Z | Null | https://github.com/googleinterns/hw-fuzzing | 2 | 0| 
-| 20201116T13:44:42Z | A fast url fuzzer in golang | https://github.com/neonify/lessgo | 0 | 0| 
-| 20201116T13:30:35Z | Null | https://github.com/imbawenzi/Fuzzing_Paper_Note | 0 | 0| 
-| 20201116T13:14:39Z | Null | https://github.com/vincentandr/Fuzzy-Logic-vs.-Genetic-Algorithm | 0 | 0| 
-| 20201116T13:02:28Z | Simple SQL table fuzzing | https://github.com/PumpkinSeed/sqlfuzz | 0 | 0| 
-| 20201116T12:55:32Z | Ethereum smart contract fuzzer | https://github.com/crytic/echidna | 504 | 83| 
-| 20201116T12:54:28Z | Null | https://github.com/s9varesc/url-fuzzing | 0 | 0| 
-| 20201116T12:49:00Z | Sample vulnerable code to test your fuzzer | https://github.com/antnks/damn-vulnerable-app | 0 | 0| 
+| 20201117T01:02:28Z | RESTler is the first stateful REST API fuzzing tool for automatically testing cloud services through their REST APIs and finding security and reliability bugs in these services. | https://github.com/microsoft/restler-fuzzer | 20 | 1| 
+| 20201117T00:46:43Z | fuzz and property testing front-end for Rust | https://github.com/camshaft/bolero | 15 | 1| 
+| 20201117T00:34:11Z | OSS-Fuzz - continuous fuzzing of open source software. | https://github.com/google/oss-fuzz | 5665 | 1114| 
+| 20201117T00:16:02Z | Fuzzaldrin plus - fast using native C++ bindings | https://github.com/atom-ide-community/fuzzaldrin-plus-fast | 2 | 3| 
+| 20201117T00:15:47Z | Experimental projects | https://github.com/tannmatter/fuzzy-happiness | 0 | 0| 
+| 20201117T00:07:42Z | Null | https://github.com/googleinterns/hw-fuzzing | 2 | 0| 
+| 20201116T23:54:41Z | Lógica fuzzy para classificação de ações | https://github.com/vitormormul/financial-fuzzy | 0 | 0| 
+| 20201116T23:45:58Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2203 | 107| 
+| 20201116T22:49:00Z | Powerful CUI Explorer on WSL zsh | https://github.com/ShotaroKataoka/Fuzzy-Terminal-Explorer | 1 | 0| 
+| 20201116T22:36:04Z | fuzzing and benching for precompiles | https://github.com/prestwich/smash | 3 | 1| 
 
 
 
