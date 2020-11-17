@@ -46,16 +46,16 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20201116T20:29:13Z | CVE-2020-15227 | CVE-2020-15227 checker | https://github.com/filipsedivy/CVE-2020-15227 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 24 MINUTES 35 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20201116T17:38:51Z | CVE-2020-1472 | Null | https://github.com/b1ack0wl/CVE-2020-1472 | | 
+| 20201116T20:29:13Z | CVE-2020-15227 | CVE-2020-15227 checker | https://github.com/filipsedivy/CVE-2020-15227 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 20 MINUTES 37 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201116T17:38:51Z | CVE-2020-1472 | Null | https://github.com/b1ack0wl/CVE-2020-1472 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 20 MINUTES 38 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20201116T15:32:38Z | CVE-2020-25705 | PoC for CVE-2020-25705 POC-2020-25705 | https://github.com/tdwyer/CVE-2020-25705 | 未查询到CVE信息| 
 | 20201116T14:43:25Z | CVE-2020-14882 | Null | https://github.com/x51/CVE-2020-14882 | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
 | 20201116T10:31:53Z | CVE-2020-15228 | Fix CVE-2020-15228 (set-env, add-path in Github-Actions) | https://github.com/guettli/fix-CVE-2020-15228 | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
-| 20201116T04:45:20Z | CVE-2020-0796 | Null | https://github.com/datntsec/CVE-2020-0796 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 24 MINUTES 25 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201116T04:45:20Z | CVE-2020-0796 | Null | https://github.com/datntsec/CVE-2020-0796 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 20 MINUTES 27 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20201116T04:23:12Z | CVE-2020-14882 | CVE-2020–14882、CVE-2020–14883 | https://github.com/jas502n/CVE-2020-14882 | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
 | 20201116T02:32:15Z | CVE-2020-14645 | Null | https://github.com/HYWZ36/CVE-2020-14645-code | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
-| 20201115T10:57:13Z | CVE-2020-16126 | A bash script exploit of [CVE-2020-16126/CVE-2020-16127] to achieve privilege escalation. | https://github.com/zev3n/Ubuntu-Gnome-privilege-escalation | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 24 MINUTES 27 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20201115T01:33:08Z | CVE-2020-4040 | Null | https://github.com/jpvispo/RCE-Exploit-Bolt-3.7.0-CVE-2020-4040-4041 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 24 MINUTES 34 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201115T10:57:13Z | CVE-2020-16126 | A bash script exploit of [CVE-2020-16126/CVE-2020-16127] to achieve privilege escalation. | https://github.com/zev3n/Ubuntu-Gnome-privilege-escalation | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 20 MINUTES 29 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201115T01:33:08Z | CVE-2020-4040 | Null | https://github.com/jpvispo/RCE-Exploit-Bolt-3.7.0-CVE-2020-4040-4041 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 20 MINUTES 36 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 
 
 # klee on Github 推荐
@@ -86,6 +86,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20201117T01:39:11Z | Fast and free old 3ds browser exploit for latest firmware. | https://github.com/zoogie/old-browserhax | 27 | 2| 
 | 20201117T01:32:35Z | A list of everything you need to be successful as an Ethical Hacker.  The best resources, exploits, payloads, and strategies that I%ve used to advance my skills and knowledge at a Penetration Tester. | https://github.com/Kennyslaboratory/Hacker-Heaven | 1 | 0| 
 | 20201117T01:29:39Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 8606 | 1341| 
 | 20201117T01:10:55Z | exploits and proof-of-concept vulnerability demonstration files from the team at Hacker House | https://github.com/hackerhouse-opensource/exploits | 211 | 60| 
@@ -95,7 +96,6 @@
 | 20201117T00:22:20Z | A python script file to remotely analyse and exploit Microsoft Windows system via impacket. | https://github.com/BroadbentT/WIN-MASTER | 14 | 10| 
 | 20201117T00:21:19Z | CTF framework and exploit development library | https://github.com/Gallopsled/pwntools | 7250 | 1309| 
 | 20201116T23:46:30Z | RTF exploit kits for cve-2017-11882, cve-2017-8570, cve-2018-0802, and cve-2018-8174 | https://github.com/dcsync/rtfkit | 0 | 0| 
-| 20201116T20:45:44Z | An educational reverse-engineering of the WideVine DRM scheme to show how it can be exploited. | https://github.com/openstrikesback/widevine-l3-decryptor | 0 | 0| 
 
 
 # backdoor on Github 推荐
