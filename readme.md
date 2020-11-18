@@ -28,9 +28,9 @@
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
 | 20201118T10:38:18Z | CVE-2020-13942 | Null | https://github.com/lp008/CVE-2020-13942 | 未查询到CVE信息| 
-| 20201118T07:17:45Z | CVE-2020-15349 | Vulnerability Description of CVE-2020-15349 | https://github.com/Traxes/Forklift_LPE | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 13 MINUTES 28 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201118T07:17:45Z | CVE-2020-15349 | Vulnerability Description of CVE-2020-15349 | https://github.com/Traxes/Forklift_LPE | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 00 MINUTES 18 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20201118T05:26:48Z | CVE-2020-14882 | CVE-2020–14882、CVE-2020–14883 | https://github.com/jas502n/CVE-2020-14882 | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
-| 20201118T04:00:21Z | CVE-2020-15999 | CVE-2020-15999 | https://github.com/marcinguy/CVE-2020-15999 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 13 MINUTES 22 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201118T04:00:21Z | CVE-2020-15999 | CVE-2020-15999 | https://github.com/marcinguy/CVE-2020-15999 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 00 MINUTES 12 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 
 
 # klee on Github 推荐
@@ -52,6 +52,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20201118T13:51:55Z | blog repository (nonetype.kr) | https://github.com/nonetype/nonetype.github.io | 0 | 0| 
 | 20201118T13:32:07Z | Sifter is a OSINT, recon & vulnerability scanner. It incorporates a plethara of tools within different module sets that tries to cover every attack vector. Allowing you to quickly perform recon tasks and organize the results in one place. From OSINT to Recon, Exploitation, Post-Exploitation, OpSec, Threat Analysis, XSS, SQLinjection, Network Scanning, WebApp Analysis or DNS enumeration.. Sifter should be able to cover it all. | https://github.com/s1l3nt78/sifter | 288 | 88| 
 | 20201118T13:21:48Z | Just a temporary website to post my ctf writeups and journey into binary/android exploitation/malware analysis/exploit development | https://github.com/blackbeard666/pwn_exhibit | 2 | 1| 
 | 20201118T13:18:39Z | Null | https://github.com/ajes-xfr-team/bin-exploits | 0 | 0| 
@@ -61,7 +62,6 @@
 | 20201118T12:03:43Z | C programming examples that cover basic operations and security exploits. | https://github.com/marcbperez/c-programming-security | 1 | 0| 
 | 20201118T11:54:35Z | An overview of iOS 9.0 security and an implementation of a malicious dylib injection to enable a phishing attack through Safari. | https://github.com/andugu/Analysis-and-exploitation-of-iOS-security | 1 | 1| 
 | 20201118T11:40:55Z | Avyukt is a Exploitation Framework which can be used to generate Malicious Payloads and exploit Windows OS | https://github.com/Vedant-Bhalgama/Avyukt | 23 | 8| 
-| 20201118T11:35:15Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 8615 | 1345| 
 
 
 # backdoor on Github 推荐
@@ -82,9 +82,9 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20201118T13:45:59Z | Packer Fuzzer is a fast and efficient scanner for security detection of websites constructed by javascript module bundler such as Webpack.  | https://github.com/rtcatc/Packer-Fuzzer | 242 | 25| 
+| 20201118T14:00:24Z | Packer Fuzzer is a fast and efficient scanner for security detection of websites constructed by javascript module bundler such as Webpack.  | https://github.com/rtcatc/Packer-Fuzzer | 243 | 25| 
+| 20201118T13:55:53Z | Software for fuzzing, used on web application pentestings. | https://github.com/NESCAU-UFLA/FuzzyingTool | 0 | 0| 
 | 20201118T13:37:54Z | A JavaScript Engine Fuzzer | https://github.com/googleprojectzero/fuzzilli | 1075 | 182| 
-| 20201118T13:33:22Z | Software for fuzzing, used on web application pentestings. | https://github.com/NESCAU-UFLA/FuzzyingTool | 0 | 0| 
 | 20201118T13:30:12Z | Null | https://github.com/bjornjacobs/SoftwareSecurityFuzzing | 0 | 0| 
 | 20201118T13:18:13Z | Ethereum smart contract fuzzer | https://github.com/crytic/echidna | 505 | 83| 
 | 20201118T13:12:38Z | Null | https://github.com/WeeYL/creative_fuzzbuzz_heroku | 0 | 0| 
