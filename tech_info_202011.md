@@ -46,16 +46,16 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20201117T22:02:21Z | CVE-2020-15999 | CVE-2020-15999 | https://github.com/marcinguy/CVE-2020-15999 | | 
-| 20201117T20:39:56Z | CVE-2020-0796 | SMBGhost (CVE-2020-0796) Automate Exploitation and Detection | https://github.com/Barriuso/SMBGhost_AutomateExploitation | Microsoft服务器消息块3.1.1（SMBv3）协议处理某些请求的方式中存在一个远程执行代码漏洞，也称为“ Windows SMBv3客户端/服务器远程执行代码漏洞”。| 
+| 20201117T22:02:21Z | CVE-2020-15999 | CVE-2020-15999 | https://github.com/marcinguy/CVE-2020-15999 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 45 MINUTES 19 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201117T20:39:56Z | CVE-2020-0796 | SMBGhost (CVE-2020-0796) Automate Exploitation and Detection | https://github.com/Barriuso/SMBGhost_AutomateExploitation | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 45 MINUTES 15 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20201117T18:02:04Z | CVE-2020-15228 | Fix CVE-2020-15228 (set-env, add-path in Github-Actions) | https://github.com/guettli/fix-CVE-2020-15228 | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
 | 20201117T14:23:23Z | CVE-2020-14882 | Null | https://github.com/BabyTeam1024/CVE-2020-14882 | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
 | 20201117T12:47:01Z | CVE-2020-14882 | CVE-2020–14882、CVE-2020–14883 | https://github.com/jas502n/CVE-2020-14882 | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
-| 20201117T08:33:44Z | CVE-2020-8209 | RP2之前的Citrix XenMobile Server 10.12，RP4之前的Citrix XenMobile Server 10.11，RP6之前的Citrix XenMobile Server 10.10和Citrix XenMobile Server 10.9 RP5之前的访问控制不当，从而导致能够读取任意文件。该脚本为Citrix XenMobile 目录遍历漏洞（CVE-2020-8209）批量检测脚本。 | https://github.com/B1anda0/CVE-2020-8209 | RP2之前的Citrix XenMobile Server 10.12，RP4之前的Citrix XenMobile Server 10.11，RP6之前的Citrix XenMobile Server 10.10和Citrix XenMobile Server 10.9 RP5之前的访问控制不当，导致读取任意文件的能力。| 
-| 20201117T06:01:36Z | CVE-2020-1472 | CVE-2020-1472 | https://github.com/Whippet0/CVE-2020-1472 | 当攻击者使用Netlogon远程协议（MS-NRPC）（又称为“ Netlogon特权提升漏洞”）建立与域控制器的易受攻击的Netlogon安全通道连接时，将存在特权提升漏洞。| 
+| 20201117T08:33:44Z | CVE-2020-8209 | RP2之前的Citrix XenMobile Server 10.12，RP4之前的Citrix XenMobile Server 10.11，RP6之前的Citrix XenMobile Server 10.10和Citrix XenMobile Server 10.9 RP5之前的访问控制不当，从而导致能够读取任意文件。该脚本为Citrix XenMobile 目录遍历漏洞（CVE-2020-8209）批量检测脚本。 | https://github.com/B1anda0/CVE-2020-8209 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 45 MINUTES 30 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201117T06:01:36Z | CVE-2020-1472 | CVE-2020-1472 | https://github.com/Whippet0/CVE-2020-1472 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 45 MINUTES 16 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20201117T05:47:17Z | CVE-2020-16126 | A bash script exploit of [CVE-2020-16126/CVE-2020-16127] to achieve privilege escalation.Ubuntu 16.04-20.04 LTS本地提权漏洞利用脚本。要求拥有Gnome图形化环境。 | https://github.com/zev3n/Ubuntu-Gnome-privilege-escalation | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 00 MINUTES 25 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20201116T20:29:13Z | CVE-2020-15227 | CVE-2020-15227 checker | https://github.com/filipsedivy/CVE-2020-15227 | Nette版本2.0.19、2.1.13、2.2.10、2.3.14、2.4.16、3.0.6之前的版本很容易受到代码注入攻击，方法是将特殊格式的参数传递给URL，这有可能导致RCE。 Nette是一个PHP / Composer MVC框架。| 
-| 20201116T17:38:51Z | CVE-2020-1472 | Null | https://github.com/b1ack0wl/CVE-2020-1472 | | 
+| 20201116T20:29:13Z | CVE-2020-15227 | CVE-2020-15227 checker | https://github.com/filipsedivy/CVE-2020-15227 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 45 MINUTES 27 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201116T17:38:51Z | CVE-2020-1472 | Null | https://github.com/b1ack0wl/CVE-2020-1472 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 45 MINUTES 28 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 
 
 # klee on Github 推荐
@@ -87,16 +87,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20201118T01:06:58Z | A list of everything you need to be successful as an Ethical Hacker.  The best resources, exploits, payloads, and strategies that I%ve used to advance my skills and knowledge at a Penetration Tester. | https://github.com/Kennyslaboratory/Hacker-Heaven | 1 | 0| 
+| 20201118T01:06:21Z | GEF - GDB Enhanced Features for exploit devs & reversers | https://github.com/hugsy/gef | 3244 | 471| 
+| 20201118T01:03:37Z | xnu_gym is a pongoOS module that patches XNU to reintroduce previously known and patched vulnerabilities. This is an easy way to practice kernel exploitation and jailbreak development! | https://github.com/tjkr0wn/xnu_gym | 2 | 0| 
 | 20201118T00:49:01Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 6 | 4| 
 | 20201118T00:45:51Z | These are notes and %exploits% written for a course on Stackskill.com | https://github.com/JeffLabonte/Pentest_Python_Stackskill | 0 | 0| 
 | 20201118T00:40:43Z | Aggregated wordlist pulled from commonly used tools for discovery, enumeration, fuzzing, and exploitation. | https://github.com/drtychai/wordlists | 10 | 14| 
-| 20201118T00:17:52Z | GEF - GDB Enhanced Features for exploit devs & reversers | https://github.com/hugsy/gef | 3243 | 471| 
 | 20201117T23:57:18Z | This bash script will help you to hack remote hosts  | https://github.com/FabioDefilippo/linuxallremote | 1 | 0| 
 | 20201117T23:52:17Z | Simplified Tool for Global Hackers. From Information Gathering to Exploitation and maintaining access | https://github.com/tigthor/hacktoolkit | 0 | 0| 
 | 20201117T23:49:53Z | These are some exploits I wrote to grant an unprivileged user a root shell while taking an Introduction to Cybersecurity course at the University of Tennessee, Knoxville. The exploits take advantage of a buggy version control program written in C, and they were performed inside a QEMU virtual machine. All the necessary documentation and code is provided to download and run these exploits on your own machine. | https://github.com/brinkofawesomeness/C-Exploits | 0 | 0| 
 | 20201117T23:49:31Z | Vulnerabilities% Risk of Exploitation | https://github.com/thiagofigcosta/V-REx | 0 | 0| 
-| 20201117T23:31:15Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 8613 | 1343| 
-| 20201117T23:30:53Z | Post-Auth RCE & Persistence on UOKOO Security Cameras | https://github.com/0xf15h/uokoo_exploit | 0 | 0| 
 
 
 # backdoor on Github 推荐
@@ -117,16 +117,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20201117T13:36:26Z | Fuzzy matching publications for fatcat (wip). | https://github.com/miku/fuzzycat | 0 | 1| 
-| 20201117T13:32:32Z | Packer Fuzzer is a fast and efficient scanner for security detection of websites constructed by javascript module bundler such as Webpack.  | https://github.com/rtcatc/Packer-Fuzzer | 180 | 20| 
-| 20201117T13:13:53Z | Research project on Software Technology for WebAssembly WASM (on superoptimization, diversification, fuzzing) | https://github.com/KTH/slumps | 20 | 4| 
-| 20201117T13:02:16Z | This tool uses fzf(1)-like fuzzy-finder to do partial or fuzzy search of Kubernetes resources. Instead of specifying full resource names to kubectl commands, you can choose them from an interactive list that you can filter by typing a few characters. | https://github.com/d-kuro/kubectl-fuzzy | 68 | 8| 
-| 20201117T12:28:57Z | MIPS32 emulation fuzzing | https://github.com/klecko/mips-fuzz | 3 | 1| 
-| 20201117T12:16:15Z | Rockyou for web fuzzing | https://github.com/six2dez/OneListForAll | 68 | 13| 
-| 20201117T11:52:43Z | Null | https://github.com/s9varesc/url-fuzzing | 0 | 0| 
-| 20201117T11:48:27Z | Very Fast and Powerful Web Fuzzer | https://github.com/RedSecurity/power-ffuf | 1 | 0| 
-| 20201117T10:48:25Z | Repo to learn about fuzzing | https://github.com/andreia-oca/ExploringFuzzing | 0 | 0| 
-| 20201117T10:41:13Z | whatever | https://github.com/metadlle/fuzzy-octo-happiness | 0 | 0| 
+| 20201118T01:14:46Z | Null | https://github.com/terminal-labs/fuzzball | 0 | 0| 
+| 20201118T01:08:48Z | Bazel Starlark extensions for defining fuzz tests in Bazel projects | https://github.com/googleinterns/bazel-rules-fuzzing | 4 | 0| 
+| 20201118T01:01:25Z | RESTler is the first stateful REST API fuzzing tool for automatically testing cloud services through their REST APIs and finding security and reliability bugs in these services. | https://github.com/microsoft/restler-fuzzer | 76 | 5| 
+| 20201118T00:40:43Z | Aggregated wordlist pulled from commonly used tools for discovery, enumeration, fuzzing, and exploitation. | https://github.com/drtychai/wordlists | 10 | 14| 
+| 20201118T00:24:15Z | Software for fuzzing, used on web application pentestings. | https://github.com/NESCAU-UFLA/FuzzyingTool | 0 | 0| 
+| 20201118T00:14:51Z | Null | https://github.com/unjuken/TimeSeries-Fuzzy | 0 | 0| 
+| 20201117T23:46:46Z | Fuzzy matching publications for fatcat (wip). | https://github.com/miku/fuzzycat | 0 | 1| 
+| 20201117T23:29:22Z | fuzzing and benching for precompiles | https://github.com/prestwich/smash | 3 | 1| 
+| 20201117T22:37:22Z | Senior Capstone Project for Kennesaw State University | https://github.com/MarcussucraM/FuzzyChess | 0 | 1| 
+| 20201117T21:54:24Z | OSS-Fuzz - continuous fuzzing of open source software. | https://github.com/google/oss-fuzz | 5668 | 1116| 
 
 
 
