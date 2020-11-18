@@ -47,22 +47,22 @@
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
 | 20201118T10:38:18Z | CVE-2020-13942 | Null | https://github.com/lp008/CVE-2020-13942 | 未查询到CVE信息| 
-| 20201118T07:17:45Z | CVE-2020-15349 | Vulnerability Description of CVE-2020-15349 | https://github.com/Traxes/Forklift_LPE | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 59 MINUTES 04 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201118T07:17:45Z | CVE-2020-15349 | Vulnerability Description of CVE-2020-15349 | https://github.com/Traxes/Forklift_LPE | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 24 MINUTES 22 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20201118T05:26:48Z | CVE-2020-14882 | CVE-2020–14882、CVE-2020–14883 | https://github.com/jas502n/CVE-2020-14882 | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
-| 20201118T04:00:21Z | CVE-2020-15999 | CVE-2020-15999 | https://github.com/marcinguy/CVE-2020-15999 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 58 MINUTES 57 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20201117T20:39:56Z | CVE-2020-0796 | SMBGhost (CVE-2020-0796) Automate Exploitation and Detection | https://github.com/Barriuso/SMBGhost_AutomateExploitation | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 58 MINUTES 53 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201118T04:00:21Z | CVE-2020-15999 | CVE-2020-15999 | https://github.com/marcinguy/CVE-2020-15999 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 24 MINUTES 16 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201117T20:39:56Z | CVE-2020-0796 | SMBGhost (CVE-2020-0796) Automate Exploitation and Detection | https://github.com/Barriuso/SMBGhost_AutomateExploitation | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 24 MINUTES 12 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20201117T18:02:04Z | CVE-2020-15228 | Fix CVE-2020-15228 (set-env, add-path in Github-Actions) | https://github.com/guettli/fix-CVE-2020-15228 | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
 | 20201117T14:23:23Z | CVE-2020-14882 | Null | https://github.com/BabyTeam1024/CVE-2020-14882 | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
-| 20201117T08:33:44Z | CVE-2020-8209 | RP2之前的Citrix XenMobile Server 10.12，RP4之前的Citrix XenMobile Server 10.11，RP6之前的Citrix XenMobile Server 10.10和Citrix XenMobile Server 10.9 RP5之前的访问控制不当，从而导致能够读取任意文件。该脚本为Citrix XenMobile 目录遍历漏洞（CVE-2020-8209）批量检测脚本。 | https://github.com/B1anda0/CVE-2020-8209 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 59 MINUTES 10 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20201117T06:01:36Z | CVE-2020-1472 | CVE-2020-1472 | https://github.com/Whippet0/CVE-2020-1472 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 58 MINUTES 54 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201117T08:33:44Z | CVE-2020-8209 | RP2之前的Citrix XenMobile Server 10.12，RP4之前的Citrix XenMobile Server 10.11，RP6之前的Citrix XenMobile Server 10.10和Citrix XenMobile Server 10.9 RP5之前的访问控制不当，从而导致能够读取任意文件。该脚本为Citrix XenMobile 目录遍历漏洞（CVE-2020-8209）批量检测脚本。 | https://github.com/B1anda0/CVE-2020-8209 | | 
+| 20201117T06:01:36Z | CVE-2020-1472 | CVE-2020-1472 | https://github.com/Whippet0/CVE-2020-1472 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 24 MINUTES 13 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20201117T05:47:17Z | CVE-2020-16126 | A bash script exploit of [CVE-2020-16126/CVE-2020-16127] to achieve privilege escalation.Ubuntu 16.04-20.04 LTS本地提权漏洞利用脚本。要求拥有Gnome图形化环境。 | https://github.com/zev3n/Ubuntu-Gnome-privilege-escalation | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 00 MINUTES 25 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20201118T13:04:04Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1543 | 471| 
 | 20201118T12:32:15Z | Symbiotic is a tool for finding bugs in computer programs based on instrumentation, program slicing and KLEE | https://github.com/staticafi/symbiotic | 201 | 33| 
-| 20201118T12:01:35Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1542 | 471| 
 | 20201118T06:37:15Z | RVT is a collection of tools/libraries to support both static and dynamic verification of Rust programs. | https://github.com/project-oak/rust-verification-tools | 98 | 5| 
 | 20201118T02:34:27Z | Null | https://github.com/reswos/kleer_csd | 0 | 0| 
 | 20201117T21:24:39Z | C library to support Map2Check Tool | https://github.com/hbgit/map2check-library | 0 | 0| 
@@ -76,10 +76,10 @@
 # s2e on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20201118T13:10:47Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 66 | 21| 
 | 20201118T02:05:18Z | Your S2E project management tools. Visit https://s2e.systems/docs to get started. | https://github.com/S2E/s2e-env | 68 | 29| 
 | 20201117T08:07:33Z | s2engineers content collection | https://github.com/sinnerschrader/s2engineers-content | 3 | 0| 
 | 20201117T05:06:51Z | Compiler for S2Engine architecure , an CNN accelerator | https://github.com/BUAA-CI-Lab/S2EngineCompiler | 0 | 0| 
-| 20201117T03:41:07Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 65 | 21| 
 | 20201105T19:49:46Z | Taking scans from Balena, returning a graph. Using the graph, a scan number can be inputted and the .xyz file of that geometry is saved to the same directory. | https://github.com/annabelflook/S2E | 0 | 0| 
 | 20201101T04:04:01Z | Серверная часть моего домашнего веб сайта (для портфолио и наработки опыта) | https://github.com/EfimovSergeiV/S2E0058DAPP | 0 | 0| 
 
@@ -87,6 +87,9 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20201118T13:32:07Z | Sifter is a OSINT, recon & vulnerability scanner. It incorporates a plethara of tools within different module sets that tries to cover every attack vector. Allowing you to quickly perform recon tasks and organize the results in one place. From OSINT to Recon, Exploitation, Post-Exploitation, OpSec, Threat Analysis, XSS, SQLinjection, Network Scanning, WebApp Analysis or DNS enumeration.. Sifter should be able to cover it all. | https://github.com/s1l3nt78/sifter | 288 | 88| 
+| 20201118T13:21:48Z | Just a temporary website to post my ctf writeups and journey into binary/android exploitation/malware analysis/exploit development | https://github.com/blackbeard666/pwn_exhibit | 2 | 1| 
+| 20201118T13:18:39Z | Null | https://github.com/ajes-xfr-team/bin-exploits | 0 | 0| 
 | 20201118T12:49:02Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 6 | 4| 
 | 20201118T12:48:14Z | Exploiting constant trace property in large-scale polynomial optimization | https://github.com/maihoanganh/ctpPOP | 0 | 0| 
 | 20201118T12:19:03Z | Experiments of binary exploit and hardware security | https://github.com/chuang76/Security-101 | 2 | 0| 
@@ -94,9 +97,6 @@
 | 20201118T11:54:35Z | An overview of iOS 9.0 security and an implementation of a malicious dylib injection to enable a phishing attack through Safari. | https://github.com/andugu/Analysis-and-exploitation-of-iOS-security | 1 | 1| 
 | 20201118T11:40:55Z | Avyukt is a Exploitation Framework which can be used to generate Malicious Payloads and exploit Windows OS | https://github.com/Vedant-Bhalgama/Avyukt | 23 | 8| 
 | 20201118T11:35:15Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 8615 | 1345| 
-| 20201118T10:55:47Z | Cyclone Framework is an iOS post-exploitation framework that using one line command and powerful payload attempts to spawn a command line session with a lot of features such as downloading files, uploading files, getting system information and etc. | https://github.com/EntySec/cyclone | 1 | 0| 
-| 20201118T10:54:57Z | Ghost Framework is an Android post-exploitation framework that exploits the Android Debug Bridge to remotely access an Android device. Ghost Framework gives you the power and convenience of remote Android device administration. | https://github.com/EntySec/ghost | 805 | 409| 
-| 20201118T10:18:29Z | Docker image to exploit RCE, try for pentest methods and test container security solutions (trivy, falco and etc.)  | https://github.com/Swordfish-Security/Pentest-In-Docker | 4 | 1| 
 
 
 # backdoor on Github 推荐
@@ -117,16 +117,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20201118T02:59:43Z | A python script for testing the BufferOver-flow vulnerability on a system.  | https://github.com/MrRobot2001/Fuzzing.py | 0 | 0| 
-| 20201118T02:57:08Z | A fast web fuzzer in golang | https://github.com/neonify/lessgo | 0 | 0| 
-| 20201118T02:44:12Z | RESTler is the first stateful REST API fuzzing tool for automatically testing cloud services through their REST APIs and finding security and reliability bugs in these services. | https://github.com/microsoft/restler-fuzzer | 77 | 5| 
-| 20201118T02:28:02Z | Scalable fuzzing infrastructure. | https://github.com/google/clusterfuzz | 4363 | 396| 
-| 20201118T01:30:27Z | Null | https://github.com/cbermudez97/fuzzy-logic-project | 0 | 0| 
-| 20201118T01:19:23Z | FuzzBench - Fuzzer benchmarking as a service. | https://github.com/google/fuzzbench | 548 | 87| 
-| 20201118T01:18:56Z | OSS-Fuzz - continuous fuzzing of open source software. | https://github.com/google/oss-fuzz | 5668 | 1116| 
-| 20201118T01:14:46Z | Null | https://github.com/terminal-labs/fuzzball | 0 | 0| 
-| 20201118T01:08:48Z | Bazel Starlark extensions for defining fuzz tests in Bazel projects | https://github.com/googleinterns/bazel-rules-fuzzing | 4 | 0| 
-| 20201118T00:40:43Z | Aggregated wordlist pulled from commonly used tools for discovery, enumeration, fuzzing, and exploitation. | https://github.com/drtychai/wordlists | 10 | 14| 
+| 20201118T13:33:22Z | Software for fuzzing, used on web application pentestings. | https://github.com/NESCAU-UFLA/FuzzyingTool | 0 | 0| 
+| 20201118T13:30:12Z | Null | https://github.com/bjornjacobs/SoftwareSecurityFuzzing | 0 | 0| 
+| 20201118T13:21:13Z | Packer Fuzzer is a fast and efficient scanner for security detection of websites constructed by javascript module bundler such as Webpack.  | https://github.com/rtcatc/Packer-Fuzzer | 241 | 25| 
+| 20201118T13:18:13Z | Ethereum smart contract fuzzer | https://github.com/crytic/echidna | 505 | 83| 
+| 20201118T13:12:38Z | Null | https://github.com/WeeYL/creative_fuzzbuzz_heroku | 0 | 0| 
+| 20201118T12:54:52Z | A conda-smithy repository for fuzzywuzzy. | https://github.com/conda-forge/fuzzywuzzy-feedstock | 1 | 7| 
+| 20201118T12:41:55Z | Null | https://github.com/fuzzylabs/fuzzy-run-challenge | 0 | 0| 
+| 20201118T12:36:17Z | Null | https://github.com/skywish/FuzzyChainsaw | 0 | 0| 
+| 20201118T12:30:20Z | Null | https://github.com/CRafa97/fuzzy-logic-system | 0 | 0| 
+| 20201118T12:24:45Z | Very Fast and Powerful Web Fuzzer | https://github.com/RedSecurity/power-ffuf | 1 | 0| 
 
 
 
