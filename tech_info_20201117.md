@@ -21,21 +21,30 @@
 | ts | title | url| 
 | --- | --- | ---| 
 | 20201117 | 看雪Re_翩若惊鸿 | https://www.sec-in.com/article/661| 
+| 20201117 | 完成一次渗透测试项目 | https://blog.csdn.net/bloodzero_new/article/details/109755579| 
+| 20201117 | 谈谈信息安全入门这事 | https://blog.csdn.net/bloodzero_new/article/details/109755532| 
+| 20201117 | 计算机与网络安全系列书籍推荐 | https://blog.csdn.net/bloodzero_new/article/details/109755474| 
 
 
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20201117T13:10:10Z | CVE-2020-15228 | Fix CVE-2020-15228 (set-env, add-path in Github-Actions) | https://github.com/guettli/fix-CVE-2020-15228 | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
+| 20201117T22:02:21Z | CVE-2020-15999 | CVE-2020-15999 | https://github.com/marcinguy/CVE-2020-15999 | | 
+| 20201117T20:39:56Z | CVE-2020-0796 | SMBGhost (CVE-2020-0796) Automate Exploitation and Detection | https://github.com/Barriuso/SMBGhost_AutomateExploitation | Microsoft服务器消息块3.1.1（SMBv3）协议处理某些请求的方式中存在一个远程执行代码漏洞，也称为“ Windows SMBv3客户端/服务器远程执行代码漏洞”。| 
+| 20201117T18:02:04Z | CVE-2020-15228 | Fix CVE-2020-15228 (set-env, add-path in Github-Actions) | https://github.com/guettli/fix-CVE-2020-15228 | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
+| 20201117T14:23:23Z | CVE-2020-14882 | Null | https://github.com/BabyTeam1024/CVE-2020-14882 | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
 | 20201117T12:47:01Z | CVE-2020-14882 | CVE-2020–14882、CVE-2020–14883 | https://github.com/jas502n/CVE-2020-14882 | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
-| 20201117T08:33:44Z | CVE-2020-8209 | RP2之前的Citrix XenMobile Server 10.12，RP4之前的Citrix XenMobile Server 10.11，RP6之前的Citrix XenMobile Server 10.10和Citrix XenMobile Server 10.9 RP5之前的访问控制不当，从而导致能够读取任意文件。该脚本为Citrix XenMobile 目录遍历漏洞（CVE-2020-8209）批量检测脚本。 | https://github.com/B1anda0/CVE-2020-8209 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 00 MINUTES 37 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20201117T06:01:36Z | CVE-2020-1472 | CVE-2020-1472 | https://github.com/Whippet0/CVE-2020-1472 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 00 MINUTES 21 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201117T08:33:44Z | CVE-2020-8209 | RP2之前的Citrix XenMobile Server 10.12，RP4之前的Citrix XenMobile Server 10.11，RP6之前的Citrix XenMobile Server 10.10和Citrix XenMobile Server 10.9 RP5之前的访问控制不当，从而导致能够读取任意文件。该脚本为Citrix XenMobile 目录遍历漏洞（CVE-2020-8209）批量检测脚本。 | https://github.com/B1anda0/CVE-2020-8209 | RP2之前的Citrix XenMobile Server 10.12，RP4之前的Citrix XenMobile Server 10.11，RP6之前的Citrix XenMobile Server 10.10和Citrix XenMobile Server 10.9 RP5之前的访问控制不当，导致读取任意文件的能力。| 
+| 20201117T06:01:36Z | CVE-2020-1472 | CVE-2020-1472 | https://github.com/Whippet0/CVE-2020-1472 | 当攻击者使用Netlogon远程协议（MS-NRPC）（又称为“ Netlogon特权提升漏洞”）建立与域控制器的易受攻击的Netlogon安全通道连接时，将存在特权提升漏洞。| 
 | 20201117T05:47:17Z | CVE-2020-16126 | A bash script exploit of [CVE-2020-16126/CVE-2020-16127] to achieve privilege escalation.Ubuntu 16.04-20.04 LTS本地提权漏洞利用脚本。要求拥有Gnome图形化环境。 | https://github.com/zev3n/Ubuntu-Gnome-privilege-escalation | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 00 MINUTES 25 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20201117T21:57:00Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1541 | 470| 
+| 20201117T21:24:39Z | C library to support Map2Check Tool | https://github.com/hbgit/map2check-library | 0 | 0| 
+| 20201117T20:57:02Z | Urban Evidence Based Policy (SPPA667) | https://github.com/KLeeDE/PUS2020_KLee | 0 | 1| 
 | 20201117T09:57:54Z | Null | https://github.com/tmin97/klee | 0 | 0| 
 
 
@@ -50,30 +59,31 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20201117T13:59:16Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 8610 | 1341| 
-| 20201117T13:58:31Z | Given a set of survey locations of an observer walking in the fleld or flying over a given areas, r.survey calculates best solid angle, 3D Distance, View Angle and Solid Angle for each pixel and for a given object size. It runs in GRASS GIS and exploits r.viewshed | https://github.com/IvanMarchesini/r.survey.py | 0 | 1| 
-| 20201117T13:43:29Z | A collection of information, tools, and exploits for TI-Nspire calculators.  Please read license! | https://github.com/parrotgeek1/TI-Nspire | 20 | 1| 
-| 20201117T13:24:51Z | Null | https://github.com/souragc/Exploits | 0 | 0| 
-| 20201117T13:01:56Z | Just a temporary website to post my ctf writeups and journey into binary/android exploitation/malware analysis/exploit development | https://github.com/blackbeard666/pwn_exhibit | 2 | 1| 
-| 20201117T13:00:04Z | Just a temporary website to post my ctf writeups and journey into binary exploitation/malware analysis/exploit development | https://github.com/blackbeard666/blackbeard666.github.io | 0 | 0| 
-| 20201117T12:49:01Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 6 | 4| 
-| 20201117T12:48:24Z | This bash script will help you to hack remote hosts  | https://github.com/FabioDefilippo/linuxallremote | 1 | 0| 
-| 20201117T11:58:15Z | Null | https://github.com/gcheca/exploits | 0 | 0| 
-| 20201117T11:51:43Z | A Remote Code Execution (RCE) exploit for Huawei HG532d based on CVE-2017-17215 vulnerability. Modded from original PoC code from exploit-db.com | https://github.com/wilfred-wulbou/HG532d-RCE-Exploit | 0 | 0| 
+| 20201117T23:57:18Z | This bash script will help you to hack remote hosts  | https://github.com/FabioDefilippo/linuxallremote | 1 | 0| 
+| 20201117T23:52:17Z | Simplified Tool for Global Hackers. From Information Gathering to Exploitation and maintaining access | https://github.com/tigthor/hacktoolkit | 0 | 0| 
+| 20201117T23:49:53Z | These are some exploits I wrote to grant an unprivileged user a root shell while taking an Introduction to Cybersecurity course at the University of Tennessee, Knoxville. The exploits take advantage of a buggy version control program written in C, and they were performed inside a QEMU virtual machine. All the necessary documentation and code is provided to download and run these exploits on your own machine. | https://github.com/brinkofawesomeness/C-Exploits | 0 | 0| 
+| 20201117T23:49:31Z | Vulnerabilities% Risk of Exploitation | https://github.com/thiagofigcosta/V-REx | 0 | 0| 
+| 20201117T23:31:15Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 8613 | 1343| 
+| 20201117T23:30:53Z | Post-Auth RCE & Persistence on UOKOO Security Cameras | https://github.com/0xf15h/uokoo_exploit | 0 | 0| 
+| 20201117T22:29:32Z | This repo contain various offensives scripts and payloads that i wrote during CTF / boot2root / exploitations challenges. | https://github.com/GuillaumeOrlando/ExploitationTools | 1 | 0| 
+| 20201117T22:27:24Z | xnu_gym is a pongoOS module that patches XNU to reintroduce previously known and patched vulnerabilities. This is an easy way to practice kernel exploitation and jailbreak development! | https://github.com/tjkr0wn/xnu_gym | 2 | 0| 
+| 20201117T22:10:20Z | A exploit tool used to crack microsoft access database passwords from early 2000 - 2010. | https://github.com/saandre15/msdb-recovery | 0 | 0| 
+| 20201117T21:14:04Z | Universal Constant Dumper for Obfuscators in Roblox exploit community. | https://github.com/Molodejka/UniversalConstantDumper | 0 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20201117T12:53:14Z | 绕过专业工具检测的Webshell研究文章和免杀的Webshell | https://github.com/LandGrey/webshell-detect-bypass | 881 | 252| 
-| 20201117T11:58:11Z | Ghost Framework is an Android post-exploitation framework that exploits the Android Debug Bridge to remotely access an Android device. Ghost Framework gives you the power and convenience of remote Android device administration. | https://github.com/EntySec/ghost | 803 | 407| 
-| 20201117T09:10:59Z | ICMP Reverse Shell written in Python 3 and with Scapy (backdoor/rev shell) | https://github.com/krabelize/icmpdoor | 1 | 0| 
-| 20201117T07:35:48Z | Unicorn Framework is an iOS, macOS and Linux post-exploitation framework that using one line command and powerful python payload attempts to spawn a command line session with a lot of features such as downloading files, uploading files, getting system information and etc. | https://github.com/EntySec/unicorn | 12 | 4| 
+| 20201117T23:42:31Z | ICMP Reverse Shell written in Python 3 and with Scapy (backdoor/rev shell) | https://github.com/krabelize/icmpdoor | 5 | 0| 
+| 20201117T18:35:52Z | Null | https://github.com/Wiilldd/backdoor | 0 | 0| 
+| 20201117T17:48:36Z | Ghost Framework is an Android post-exploitation framework that exploits the Android Debug Bridge to remotely access an Android device. Ghost Framework gives you the power and convenience of remote Android device administration. | https://github.com/EntySec/ghost | 803 | 409| 
+| 20201117T16:37:19Z | Unicorn Framework is an iOS, macOS and Linux post-exploitation framework that using one line command and powerful python payload attempts to spawn a command line session with a lot of features such as downloading files, uploading files, getting system information and etc. | https://github.com/EntySec/unicorn | 12 | 4| 
+| 20201117T14:37:11Z | Deep Learning Backdoors Framework. Partially based on %Blind Backdoors in Deep Learning Models%. | https://github.com/ebagdasa/backdoors101 | 9 | 0| 
+| 20201117T14:19:48Z | Backdoor is a fast growing IT and Technology based IT Professional Group. Everyone will get their own IT-based services and solutions. We will learn not only ourselves but also help others to learn so that one day the information-based Bangladesh will be formed, it is a strong bonded from Backdoor. | https://github.com/backdoordhaka/backdoordhaka.github.io | 0 | 0| 
 | 20201117T07:27:05Z | Thoron Framework is a Linux post-exploitation framework that exploits Linux TCP vulnerability to provide a shell-like connection. Thoron Framework has the ability to create simple payloads to provide Linux TCP attack. | https://github.com/EntySec/thoron | 82 | 30| 
 | 20201117T07:12:08Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 96 | 11| 
 | 20201117T07:02:50Z | Fastlook can provide it support within the organization regardless of the size of the organization; access office computers, e-mail and files when you are at home or on business trips; remotely access unattended computers and perform server maintenance. There is no illegal malicious code and backdoor code in the software. Now it runs stably and reliably. | https://github.com/fastlook/Fastlook-remote-assistance-software | 0 | 0| 
 | 20201117T01:30:10Z | Null | https://github.com/Hachimaa/Backdoors | 0 | 0| 
-| 20201117T00:33:51Z | Tool to find potential backdoor/security holes in your endpoint | https://github.com/subasgit/backdoorfinder | 1 | 0| 
 
 
 # fuzz on Github 推荐
