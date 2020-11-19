@@ -14,6 +14,8 @@
 | 20201118 | Modern attacks on the Chrome browser : optimizations and deoptimizations | https://doar-e.github.io/blog/2020/11/17/modern-attacks-on-the-chrome-browser-optimizations-and-deoptimizations/| 
 | 20201118 | 用于访问 OBD-II 接口的 App OBDeleven 自身被发现漏洞 | https://www.pentestpartners.com/security-blog/obdeleven-vulnerability/| 
 | 20201118 | 隐秘的角落——基于某款游戏利用的反射攻击分析 | https://security.tencent.com/index.php/blog/msg/169| 
+| 20201118 | python体系结构书实例程序代码资源。 | https://github.com/cosmicpython/code| 
+| 20201118 | ELF_PLEAD——BlackTech 黑客组织针对 Linux 的恶意软件分析。 | https://paper.seebug.org/1401/| 
 
 
 # 安全维基 推荐
@@ -27,16 +29,21 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20201118T10:38:18Z | CVE-2020-13942 | Null | https://github.com/lp008/CVE-2020-13942 | 未查询到CVE信息| 
-| 20201118T07:17:45Z | CVE-2020-15349 | Vulnerability Description of CVE-2020-15349 | https://github.com/Traxes/Forklift_LPE | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 00 MINUTES 18 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201118T22:30:13Z | CVE-2020-28054 | Advisory for CVE-2020-28054 & stack based buffer overflow in IBM Tivoli Storage Manager | https://github.com/VoidSec/Tivoli-Madness | 未查询到CVE信息| 
+| 20201118T21:48:22Z | CVE-2020-3452 | CVE-2020-3452 | https://github.com/grim3/CVE-2020-3452 | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
+| 20201118T21:30:40Z | CVE-2020-15349 | Vulnerability Description of CVE-2020-15349 | https://github.com/Traxes/Forklift_LPE | BinaryNights ForkLift 3.x 在 3.4 之前具有本地权限升级漏洞，因为特权帮助器工具实现 XPC 接口，允许将任何进程的文件操作（复制、移动、删除）作为根进程并更改权限。| 
+| 20201118T10:38:18Z | CVE-2020-13942 | Null | https://github.com/lp008/CVE-2020-13942 | | 
 | 20201118T05:26:48Z | CVE-2020-14882 | CVE-2020–14882、CVE-2020–14883 | https://github.com/jas502n/CVE-2020-14882 | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
-| 20201118T04:00:21Z | CVE-2020-15999 | CVE-2020-15999 | https://github.com/marcinguy/CVE-2020-15999 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 00 MINUTES 12 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201118T04:00:21Z | CVE-2020-15999 | CVE-2020-15999 | https://github.com/marcinguy/CVE-2020-15999 | 在86.0.4240.111之前的Google Chrome中，Freetype中的堆缓冲区溢出使远程攻击者可以通过精心制作的HTML页面利用堆损坏。| 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20201118T13:04:04Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1543 | 471| 
+| 20201118T23:28:32Z | C library to support Map2Check Tool | https://github.com/hbgit/map2check-library | 0 | 0| 
+| 20201118T21:58:29Z | Urban Evidence Based Policy (SPPA667) | https://github.com/KLeeDE/PUS2020_KLee | 0 | 1| 
+| 20201118T18:49:25Z | Null | https://github.com/mitchklee35/MitchKlee.com | 0 | 0| 
+| 20201118T15:31:04Z | ⬇️ File Upload/sharing application, used by thousands of webmasters since 2007.  | https://github.com/kleeja-official/kleeja | 102 | 31| 
 | 20201118T12:32:15Z | Symbiotic is a tool for finding bugs in computer programs based on instrumentation, program slicing and KLEE | https://github.com/staticafi/symbiotic | 201 | 33| 
 | 20201118T06:37:15Z | RVT is a collection of tools/libraries to support both static and dynamic verification of Rust programs. | https://github.com/project-oak/rust-verification-tools | 98 | 5| 
 | 20201118T02:34:27Z | Null | https://github.com/reswos/kleer_csd | 0 | 0| 
@@ -52,31 +59,31 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20201118T13:51:55Z | blog repository (nonetype.kr) | https://github.com/nonetype/nonetype.github.io | 0 | 0| 
-| 20201118T13:32:07Z | Sifter is a OSINT, recon & vulnerability scanner. It incorporates a plethara of tools within different module sets that tries to cover every attack vector. Allowing you to quickly perform recon tasks and organize the results in one place. From OSINT to Recon, Exploitation, Post-Exploitation, OpSec, Threat Analysis, XSS, SQLinjection, Network Scanning, WebApp Analysis or DNS enumeration.. Sifter should be able to cover it all. | https://github.com/s1l3nt78/sifter | 288 | 88| 
-| 20201118T13:21:48Z | Just a temporary website to post my ctf writeups and journey into binary/android exploitation/malware analysis/exploit development | https://github.com/blackbeard666/pwn_exhibit | 2 | 1| 
-| 20201118T13:18:39Z | Null | https://github.com/ajes-xfr-team/bin-exploits | 0 | 0| 
-| 20201118T12:49:02Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 6 | 4| 
-| 20201118T12:48:14Z | Exploiting constant trace property in large-scale polynomial optimization | https://github.com/maihoanganh/ctpPOP | 0 | 0| 
-| 20201118T12:19:03Z | Experiments of binary exploit and hardware security | https://github.com/chuang76/Security-101 | 2 | 0| 
-| 20201118T12:03:43Z | C programming examples that cover basic operations and security exploits. | https://github.com/marcbperez/c-programming-security | 1 | 0| 
-| 20201118T11:54:35Z | An overview of iOS 9.0 security and an implementation of a malicious dylib injection to enable a phishing attack through Safari. | https://github.com/andugu/Analysis-and-exploitation-of-iOS-security | 1 | 1| 
-| 20201118T11:40:55Z | Avyukt is a Exploitation Framework which can be used to generate Malicious Payloads and exploit Windows OS | https://github.com/Vedant-Bhalgama/Avyukt | 23 | 8| 
+| 20201118T22:27:58Z | Exploiting constant trace property in large-scale polynomial optimization | https://github.com/maihoanganh/ctpPOP | 0 | 0| 
+| 20201118T22:26:36Z | Exploiting Programming Languages Energy Consumption | https://github.com/stefanos1316/Rosetta_Code_Research_MSR | 2 | 1| 
+| 20201118T21:59:32Z | Null | https://github.com/Buster-2002/Discord-Exploit | 0 | 0| 
+| 20201118T20:54:12Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 8619 | 1345| 
+| 20201118T20:46:31Z | post_exploitation | https://github.com/dar3k93/post_exploitation | 1 | 0| 
+| 20201118T20:14:50Z | EXPLOIT ADB | https://github.com/TAYRELW/TAYREXPLOIT | 1 | 0| 
+| 20201118T20:06:15Z | My attempt at classifying malicious network traffic from the infamous eternal blue exploit | https://github.com/ZachE888/eternal-blue-traffic-classifier | 0 | 0| 
+| 20201118T20:00:05Z | Search for Unix binaries that can be exploited to bypass system security restrictions. | https://github.com/t0thkr1s/gtfo | 66 | 13| 
+| 20201118T19:57:04Z | A collection of curated resources and CVEs I use for research. | https://github.com/drtychai/browser-exploitation | 15 | 3| 
+| 20201118T19:35:47Z | Protekt Protocol puts crypto to work insuring users against hacks, bugs, and exploits of any DeFi protocol or smart contract. The goal is to support and catalyze the growth of the DeFi ecosystem by protecting users from getting rekt. | https://github.com/corbinpage/protekt-protocol-docs | 6 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20201118T22:36:27Z | a backdoor in C | https://github.com/EtoYoshio/b_sektor | 0 | 0| 
+| 20201118T21:05:47Z | this is an ssh-like backdoor, so it%s a reverse reverse shell xD | https://github.com/NullByte75/ssh-like-backdoor | 0 | 0| 
+| 20201118T20:25:25Z | Basic Windows reverse shell written in C++ | https://github.com/hacefresko/cppBackdoor | 0 | 0| 
+| 20201118T16:44:28Z | A protocol capable of individually backdooring any secret communication by multiple separate state authorities. | https://github.com/fbv81bp/Law_enforcing_E2EE | 0 | 0| 
+| 20201118T15:33:01Z | Unicorn Framework is an iOS, macOS and Linux post-exploitation framework that using one line command and powerful python payload attempts to spawn a command line session with a lot of features such as downloading files, uploading files, getting system information and etc. | https://github.com/EntySec/unicorn | 14 | 4| 
+| 20201118T14:52:59Z | Bilingual PhishingKit. TigerShark intergrates a vast array of various phishing tools and frameworks, from C2 servers, backdoors and delivery methods in multiple scripting languages in order to suit whatever your deployment needs may be. | https://github.com/s1l3nt78/TigerShark | 127 | 25| 
+| 20201118T14:29:36Z | Ghost Framework is an Android post-exploitation framework that exploits the Android Debug Bridge to remotely access an Android device. Ghost Framework gives you the power and convenience of remote Android device administration. | https://github.com/EntySec/ghost | 805 | 409| 
 | 20201118T11:40:55Z | Avyukt is a Exploitation Framework which can be used to generate Malicious Payloads and exploit Windows OS | https://github.com/Vedant-Bhalgama/Avyukt | 23 | 8| 
 | 20201118T11:27:36Z | Ro3b - Advance HTTP Botnet  | https://github.com/mathio3/Ro3b | 0 | 0| 
 | 20201118T11:19:14Z | Null | https://github.com/rabbitx1337/backdoor | 0 | 0| 
-| 20201118T10:55:24Z | Unicorn Framework is an iOS, macOS and Linux post-exploitation framework that using one line command and powerful python payload attempts to spawn a command line session with a lot of features such as downloading files, uploading files, getting system information and etc. | https://github.com/EntySec/unicorn | 14 | 4| 
-| 20201118T10:54:57Z | Ghost Framework is an Android post-exploitation framework that exploits the Android Debug Bridge to remotely access an Android device. Ghost Framework gives you the power and convenience of remote Android device administration. | https://github.com/EntySec/ghost | 805 | 409| 
-| 20201118T08:28:33Z | ICMP Reverse Shell written in Python 3 and with Scapy (backdoor/rev shell) | https://github.com/krabelize/icmpdoor | 9 | 0| 
-| 20201118T07:59:47Z | Null | https://github.com/ilhambale/backdoor | 0 | 0| 
-| 20201118T07:37:46Z | Backdoor is a fast growing IT and Technology based IT Professional Group. Everyone will get their own IT-based services and solutions. We will learn not only ourselves but also help others to learn so that one day the information-based Bangladesh will be formed, it is a strong bonded from Backdoor. | https://github.com/backdoordhaka/backdoordhaka.github.io | 0 | 0| 
-| 20201118T06:57:11Z | Thoron Framework is a Linux post-exploitation framework that exploits Linux TCP vulnerability to provide a shell-like connection. Thoron Framework has the ability to create simple payloads to provide Linux TCP attack. | https://github.com/enty8080/thoron | 82 | 29| 
-| 20201118T02:43:23Z | This is the implementation of our paper %Open-sourced Dataset Protection via Backdoor Watermarking%, accepted by the NeurIPS Workshop on Dataset Curation and Security, 2020. | https://github.com/THUYimingLi/Open-sourced_Dataset_Protection | 2 | 1| 
 
 
 # fuzz on Github 推荐
