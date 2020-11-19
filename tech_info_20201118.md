@@ -31,10 +31,10 @@
 | --- | --- | --- | --- | ---| 
 | 20201118T22:30:13Z | CVE-2020-28054 | Advisory for CVE-2020-28054 & stack based buffer overflow in IBM Tivoli Storage Manager | https://github.com/VoidSec/Tivoli-Madness | 未查询到CVE信息| 
 | 20201118T21:48:22Z | CVE-2020-3452 | CVE-2020-3452 | https://github.com/grim3/CVE-2020-3452 | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
-| 20201118T21:30:40Z | CVE-2020-15349 | Vulnerability Description of CVE-2020-15349 | https://github.com/Traxes/Forklift_LPE | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 52 MINUTES 26 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201118T21:30:40Z | CVE-2020-15349 | Vulnerability Description of CVE-2020-15349 | https://github.com/Traxes/Forklift_LPE | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 36 MINUTES 22 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20201118T10:38:18Z | CVE-2020-13942 | Null | https://github.com/lp008/CVE-2020-13942 | 未查询到CVE信息| 
 | 20201118T05:26:48Z | CVE-2020-14882 | CVE-2020–14882、CVE-2020–14883 | https://github.com/jas502n/CVE-2020-14882 | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
-| 20201118T04:00:21Z | CVE-2020-15999 | CVE-2020-15999 | https://github.com/marcinguy/CVE-2020-15999 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 52 MINUTES 22 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201118T04:00:21Z | CVE-2020-15999 | CVE-2020-15999 | https://github.com/marcinguy/CVE-2020-15999 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 36 MINUTES 18 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 
 
 # klee on Github 推荐
@@ -89,16 +89,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20201118T14:00:24Z | Packer Fuzzer is a fast and efficient scanner for security detection of websites constructed by javascript module bundler such as Webpack.  | https://github.com/rtcatc/Packer-Fuzzer | 243 | 25| 
-| 20201118T13:55:53Z | Software for fuzzing, used on web application pentestings. | https://github.com/NESCAU-UFLA/FuzzyingTool | 0 | 0| 
-| 20201118T13:37:54Z | A JavaScript Engine Fuzzer | https://github.com/googleprojectzero/fuzzilli | 1075 | 182| 
-| 20201118T13:30:12Z | Null | https://github.com/bjornjacobs/SoftwareSecurityFuzzing | 0 | 0| 
-| 20201118T13:18:13Z | Ethereum smart contract fuzzer | https://github.com/crytic/echidna | 505 | 83| 
-| 20201118T13:12:38Z | Null | https://github.com/WeeYL/creative_fuzzbuzz_heroku | 0 | 0| 
-| 20201118T12:54:52Z | A conda-smithy repository for fuzzywuzzy. | https://github.com/conda-forge/fuzzywuzzy-feedstock | 1 | 7| 
-| 20201118T12:41:55Z | Null | https://github.com/fuzzylabs/fuzzy-run-challenge | 0 | 0| 
-| 20201118T12:36:17Z | Null | https://github.com/skywish/FuzzyChainsaw | 0 | 0| 
-| 20201118T12:30:20Z | Null | https://github.com/CRafa97/fuzzy-logic-system | 0 | 0| 
+| 20201118T23:55:05Z | Tool for fuzzing with style 👌 | https://github.com/essentialkaos/fz | 1 | 0| 
+| 20201118T23:54:40Z | fuzzing audio adversarial attacks for voice assistant | https://github.com/Kur1su0/software_analysis_final_proj | 0 | 0| 
+| 20201118T23:46:42Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2206 | 109| 
+| 20201118T23:35:08Z | Personal website of Laurence Hughes | https://github.com/fuzzylogicxx/fuzzylogic | 4 | 1| 
+| 20201118T23:33:42Z | Sometimes we want to fuzz a set of sub-domain URLs with a common wordlist. Fuzzing them one by one is a tedious task, not to mention the false positives we obtain in those results. To solve this problem I created Lazy FuzzZ. It fuzzes all those urls, removes all false positives and sends only legitimate results to burpsuite. | https://github.com/th3hack3rwiz/Lazy-FuzzZ | 2 | 0| 
+| 20201118T22:49:31Z | VMI Kernel Fuzzer for Xen Project - VM forking, VMI & AFL integration demo | https://github.com/intel/kernel-fuzzer-for-xen-project | 159 | 26| 
+| 20201118T22:35:37Z | Experimental projects | https://github.com/tannmatter/fuzzy-happiness | 0 | 0| 
+| 20201118T22:28:29Z | A no-fuzz note taking app built with Flask | https://github.com/pedroivo000/notavel | 0 | 0| 
+| 20201118T22:00:19Z | CBOR RFC 7049 (Go/Golang) - safe & fast with standard API + toarray & keyasint, CBOR tags, float64/32/16, fuzz tested. | https://github.com/fxamacker/cbor | 222 | 19| 
+| 20201118T21:35:00Z | Null | https://github.com/terminal-labs/fuzzball | 0 | 0| 
 
 
 

@@ -48,14 +48,14 @@
 | --- | --- | --- | --- | ---| 
 | 20201118T22:30:13Z | CVE-2020-28054 | Advisory for CVE-2020-28054 & stack based buffer overflow in IBM Tivoli Storage Manager | https://github.com/VoidSec/Tivoli-Madness | 未查询到CVE信息| 
 | 20201118T21:48:22Z | CVE-2020-3452 | CVE-2020-3452 | https://github.com/grim3/CVE-2020-3452 | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
-| 20201118T21:30:40Z | CVE-2020-15349 | Vulnerability Description of CVE-2020-15349 | https://github.com/Traxes/Forklift_LPE | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 52 MINUTES 26 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201118T21:30:40Z | CVE-2020-15349 | Vulnerability Description of CVE-2020-15349 | https://github.com/Traxes/Forklift_LPE | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 36 MINUTES 22 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20201118T10:38:18Z | CVE-2020-13942 | Null | https://github.com/lp008/CVE-2020-13942 | 未查询到CVE信息| 
 | 20201118T05:26:48Z | CVE-2020-14882 | CVE-2020–14882、CVE-2020–14883 | https://github.com/jas502n/CVE-2020-14882 | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
-| 20201118T04:00:21Z | CVE-2020-15999 | CVE-2020-15999 | https://github.com/marcinguy/CVE-2020-15999 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 52 MINUTES 22 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20201117T20:39:56Z | CVE-2020-0796 | SMBGhost (CVE-2020-0796) Automate Exploitation and Detection | https://github.com/Barriuso/SMBGhost_AutomateExploitation | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 52 MINUTES 18 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201118T04:00:21Z | CVE-2020-15999 | CVE-2020-15999 | https://github.com/marcinguy/CVE-2020-15999 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 36 MINUTES 18 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201117T20:39:56Z | CVE-2020-0796 | SMBGhost (CVE-2020-0796) Automate Exploitation and Detection | https://github.com/Barriuso/SMBGhost_AutomateExploitation | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 36 MINUTES 14 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20201117T18:02:04Z | CVE-2020-15228 | Fix CVE-2020-15228 (set-env, add-path in Github-Actions) | https://github.com/guettli/fix-CVE-2020-15228 | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
 | 20201117T14:23:23Z | CVE-2020-14882 | Null | https://github.com/BabyTeam1024/CVE-2020-14882 | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
-| 20201117T08:33:44Z | CVE-2020-8209 | RP2之前的Citrix XenMobile Server 10.12，RP4之前的Citrix XenMobile Server 10.11，RP6之前的Citrix XenMobile Server 10.10和Citrix XenMobile Server 10.9 RP5之前的访问控制不当，从而导致能够读取任意文件。该脚本为Citrix XenMobile 目录遍历漏洞（CVE-2020-8209）批量检测脚本。 | https://github.com/B1anda0/CVE-2020-8209 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 52 MINUTES 32 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201117T08:33:44Z | CVE-2020-8209 | RP2之前的Citrix XenMobile Server 10.12，RP4之前的Citrix XenMobile Server 10.11，RP6之前的Citrix XenMobile Server 10.10和Citrix XenMobile Server 10.9 RP5之前的访问控制不当，从而导致能够读取任意文件。该脚本为Citrix XenMobile 目录遍历漏洞（CVE-2020-8209）批量检测脚本。 | https://github.com/B1anda0/CVE-2020-8209 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 36 MINUTES 29 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 
 
 # klee on Github 推荐
@@ -87,6 +87,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20201119T01:21:07Z | This bash script will help you to hack remote hosts  | https://github.com/FabioDefilippo/linuxallremote | 1 | 0| 
 | 20201119T01:03:00Z | fix exploits on anarchy server | https://github.com/moom0o/AnarchyExploitFixes | 7 | 3| 
 | 20201119T00:59:37Z | A python script file to remotely analyse and exploit Microsoft Windows system via impacket. | https://github.com/BroadbentT/WIN-MASTER | 14 | 9| 
 | 20201119T00:57:07Z | Thefatrat a massive exploiting tool : Easy tool to generate backdoor and easy tool to post exploitation attack like browser attack and etc . This tool compiles a malware with popular payload and then the compiled malware can be execute on windows, android, mac . The malware that created with this tool also have an ability to bypass most AV software protection . | https://github.com/Screetsec/TheFatRat | 4713 | 1576| 
@@ -96,7 +97,6 @@
 | 20201118T22:27:58Z | Exploiting constant trace property in large-scale polynomial optimization | https://github.com/maihoanganh/ctpPOP | 0 | 0| 
 | 20201118T22:26:36Z | Exploiting Programming Languages Energy Consumption | https://github.com/stefanos1316/Rosetta_Code_Research_MSR | 2 | 1| 
 | 20201118T21:59:32Z | Null | https://github.com/Buster-2002/Discord-Exploit | 0 | 0| 
-| 20201118T20:54:12Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 8619 | 1345| 
 
 
 # backdoor on Github 推荐
@@ -117,16 +117,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20201118T14:00:24Z | Packer Fuzzer is a fast and efficient scanner for security detection of websites constructed by javascript module bundler such as Webpack.  | https://github.com/rtcatc/Packer-Fuzzer | 243 | 25| 
-| 20201118T13:55:53Z | Software for fuzzing, used on web application pentestings. | https://github.com/NESCAU-UFLA/FuzzyingTool | 0 | 0| 
-| 20201118T13:37:54Z | A JavaScript Engine Fuzzer | https://github.com/googleprojectzero/fuzzilli | 1075 | 182| 
-| 20201118T13:30:12Z | Null | https://github.com/bjornjacobs/SoftwareSecurityFuzzing | 0 | 0| 
-| 20201118T13:18:13Z | Ethereum smart contract fuzzer | https://github.com/crytic/echidna | 505 | 83| 
-| 20201118T13:12:38Z | Null | https://github.com/WeeYL/creative_fuzzbuzz_heroku | 0 | 0| 
-| 20201118T12:54:52Z | A conda-smithy repository for fuzzywuzzy. | https://github.com/conda-forge/fuzzywuzzy-feedstock | 1 | 7| 
-| 20201118T12:41:55Z | Null | https://github.com/fuzzylabs/fuzzy-run-challenge | 0 | 0| 
-| 20201118T12:36:17Z | Null | https://github.com/skywish/FuzzyChainsaw | 0 | 0| 
-| 20201118T12:30:20Z | Null | https://github.com/CRafa97/fuzzy-logic-system | 0 | 0| 
+| 20201119T01:07:55Z | Fuzzy matching publications for fatcat (wip). | https://github.com/miku/fuzzycat | 0 | 1| 
+| 20201119T00:53:32Z | Null | https://github.com/cbermudez97/fuzzy-logic-project | 0 | 0| 
+| 20201119T00:48:22Z | To make fuzzing Rust easy | https://github.com/smoelius/test-fuzz | 0 | 0| 
+| 20201119T00:42:31Z | OSS-Fuzz - continuous fuzzing of open source software. | https://github.com/google/oss-fuzz | 5669 | 1118| 
+| 20201119T00:35:24Z | Null | https://github.com/terminal-labs/fuzzball-states-lite-std | 0 | 0| 
+| 20201119T00:32:47Z | A test to setup a webpage | https://github.com/Vertig0Don/fuzzy-bassoon | 0 | 0| 
+| 20201119T00:23:51Z | fuzzing and benching for precompiles | https://github.com/prestwich/smash | 3 | 1| 
+| 20201119T00:23:50Z | A ground-truth binary fuzzing benchmark suite based on real programs with real bugs. | https://github.com/HexHive/magma | 66 | 20| 
+| 20201119T00:22:23Z | Lógica fuzzy para classificação de ações | https://github.com/vitormormul/financial-fuzzy | 0 | 0| 
+| 20201119T00:11:37Z | RESTler is the first stateful REST API fuzzing tool for automatically testing cloud services through their REST APIs and finding security and reliability bugs in these services. | https://github.com/microsoft/restler-fuzzer | 90 | 7| 
 
 
 
