@@ -6,6 +6,15 @@
 # 玄武实验室 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20201119 | Network Extension Framework aka swiss cheese | https://wojciechregula.blog/post/network-extension-framework-aka-swiss-cheese/| 
+| 20201119 | Kirenenko: Dynamic Symbolic Execution as Taint Analysis | https://chengyusong.github.io/fuzzing/2020/11/18/kirenenko.html| 
+| 20201119 | NYX: Greybox Hypervisor Fuzzing using Fast Snapshots and Affine Types | https://www.usenix.org/system/files/sec21summer_schumilo.pdf| 
+| 20201119 | 网络协议逆向相关的资料整理 | https://github.com/techge/PRE-list| 
+| 20201119 | 玄武实验室第一时间拿到了 MacBook Air M1 来测试它的安全性，并利用新发现的苹果安全漏洞成功攻破了 MacBook 和 iPhone 12 Pro。这可能是第一个公开的能影响 Apple M1 芯片设备的安全漏洞。 | https://passport.weibo.com/visitor/visitor?entry=miniblog&a=enter&url=https%3A%2F%2Fweibo.com%2F5582522936%2FJutGytO2z%3Fref%3Dhome%26rid%3D1_0_8_6558277183973578662_0_1_0%26type%3Dcomment&domain=.weibo.com&ua=php-sso_sdk_client-0.6.36&_rand=1605790824.2511| 
+| 20201119 | P for Privacy – The Background Story of CVE-2020-9773 | https://blog.zimperium.com/p-for-privacy-the-background-story-of-cve-2020-9773/| 
+| 20201119 | XSS Vulnerability in Froala WYSIWYG HTML Editor | https://insinuator.net/2020/11/xss-vulnerability-in-froala-wysiwyg-html-editor/| 
+| 20201119 | 5个国家的APT恶意软件数据集。 | https://github.com/cyber-research/APTMalware| 
+| 20201119 | 蓝牙低功耗无硬件-HackMe 项目。 | https://github.com/smartlockpicking/BLE_HackMe| 
 | 20201118 | Apache Unomi CVE-2020-13942 RCE 漏洞分析 | https://securityboulevard.com/2020/11/apache-unomi-cve-2020-13942-rce-vulnerabilities-discovered/| 
 | 20201118 | VoltPillager - 针对 Intel SGX enclaves 的硬件级攻击 | https://securityaffairs.co/wordpress/111033/hacking/voltpillager-attack-intel-sgx.html| 
 | 20201118 | SmartStoreNET RCE 漏洞分析 | https://securitylab.github.com/advisories/GHSL-2020-138-139-SmartstoreAG-SmartStoreNET/| 
@@ -17,56 +26,47 @@
 | 20201118 | python体系结构书实例程序代码资源。 | https://github.com/cosmicpython/code| 
 | 20201118 | ELF_PLEAD——BlackTech 黑客组织针对 Linux 的恶意软件分析。 | https://paper.seebug.org/1401/| 
 | 20201117 | 关于研究5G优秀项目列表资源。 | https://github.com/calee0219/awesome-5g| 
-| 20201117 | AMD MEMORY GUARD 保护技术介绍 | http://www.amd.com/en/system/files?file=documents/amd-memory-guard-white-paper.pdf| 
-| 20201117 | NTLM relay of ADWS (WCF) connections with Impacket | https://clement.notin.org/blog/2020/11/16/ntlm-relay-of-adws-connections-with-impacket/| 
-| 20201117 | APT 组织 Lazarus 在韩国发起的供应链攻击的分析报告 | https://www.welivesecurity.com/2020/11/16/lazarus-supply-chain-attack-south-korea/| 
-| 20201117 | Bypass Nginx Naxsi（XSS 与 SQL 注入防护）过滤引擎的保护 | https://www.synacktiv.com/publications/bypassing-naxsi-filtering-engine.html| 
-| 20201117 | OIDC 认证具体实现 Keycloak 与 Amazon Cognito 的 SSRF 漏洞分析 | http://security.lauritz-holtmann.de/post/sso-security-ssrf/| 
-| 20201117 | macOS 平台第三方 App Forklift 本地 root 提权漏洞的分析 | https://insinuator.net/2020/11/forklift-lpe/| 
-| 20201117 | Oops, I missed it again!，Project Zero 研究员 Brandon Azad 对近期 iOS 内核漏洞的分析 | https://googleprojectzero.blogspot.com/2020/11/oops-i-missed-it-again.html| 
-| 20201117 | 利用 Frida 插装 Windows 版本 Adobe Reader 的执行过程 | https://starlabs.sg/blog/2020/11/instrumenting-adobe-reader-with-frida/| 
-| 20201116 | Bluetooth-LE安全性：方法，工具和堆栈视频会议学习资源。 | https://github.com/Charmve/BLE-Security-Attack-Defence| 
 
 
 # 安全维基 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20201119 | 常见反病毒进程/服务/识别总结 | https://mp.weixin.qq.com/s/0BslalFBU0pmf0TbLus2UA| 
+| 20201119 | 浅谈URI中的任意文件下载 | https://www.sec-in.com/article/549| 
+| 20201119 | webscan：browser-based network IP scanner | http://samy.pl/webscan/| 
+| 20201119 | 玩转容器安全一 - 虚拟机搭建简易版K8s集群 | https://blog.csdn.net/bloodzero_new/article/details/109829702| 
+| 20201119 | 工控CTF仿真环境 | https://www.anquanke.com/post/id/222674| 
 | 20201118 | 2020NPUCTF公开赛 WEB部分Writeup | https://www.sec-in.com/article/280| 
 | 20201118 | 常见WAF进程/服务与WAF识别总结 | https://mp.weixin.qq.com/s/qjLCgmSPOY0iaF53g7VzMg| 
 | 20201118 | NIST《网络靶场指南》浅析 | https://mp.weixin.qq.com/s/0FQwtu-TKyVuaAhpdu0huA| 
 | 20201117 | 看雪Re_翩若惊鸿 | https://www.sec-in.com/article/661| 
 | 20201117 | 完成一次渗透测试项目 | https://blog.csdn.net/bloodzero_new/article/details/109755579| 
-| 20201117 | 谈谈信息安全入门这事 | https://blog.csdn.net/bloodzero_new/article/details/109755532| 
-| 20201117 | 计算机与网络安全系列书籍推荐 | https://blog.csdn.net/bloodzero_new/article/details/109755474| 
-| 20201116 | Docker安全实践 | https://mp.weixin.qq.com/s/9PWg4jIztJcutAY-ohzJUw| 
-| 20201116 | 知名网络空间普查与网络测绘组织研究报告 第二期-Shodan篇 | http://plcscan.org/blog/2020/11/research-report-of-renowned-internet-census-organization-shodan/| 
-| 20201116 | 回首再看CTF中的那些PHP弱类型 | https://www.sec-in.com/article/654| 
 
 
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20201119T01:57:23Z | CVE-2020-13942 | Null | https://github.com/lp008/CVE-2020-13942 | 未查询到CVE信息| 
-| 20201118T22:30:13Z | CVE-2020-28054 | Advisory for CVE-2020-28054 & stack based buffer overflow in IBM Tivoli Storage Manager | https://github.com/VoidSec/Tivoli-Madness | 未查询到CVE信息| 
+| 20201119T21:08:24Z | CVE-2020-13942 | CVE-2020-13942 unauthenticated RCE POC through MVEL and OGNL injection | https://github.com/eugenebmx/CVE-2020-13942 | 未查询到CVE信息| 
+| 20201119T13:08:09Z | CVE-2020-28054 | Advisory for CVE-2020-28054 & stack based buffer overflow in IBM Tivoli Storage Manager | https://github.com/VoidSec/Tivoli-Madness | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
+| 20201119T12:04:51Z | CVE-2020-13942 | Null | https://github.com/lp008/CVE-2020-13942 | 未查询到CVE信息| 
+| 20201119T08:35:30Z | CVE-2020-8277 | Null | https://github.com/masahiro331/CVE-2020-8277 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 11 MINUTES 30 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20201118T21:48:22Z | CVE-2020-3452 | CVE-2020-3452 | https://github.com/grim3/CVE-2020-3452 | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
-| 20201118T21:30:40Z | CVE-2020-15349 | Vulnerability Description of CVE-2020-15349 | https://github.com/Traxes/Forklift_LPE | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 39 MINUTES 06 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201118T21:30:40Z | CVE-2020-15349 | Vulnerability Description of CVE-2020-15349 | https://github.com/Traxes/Forklift_LPE | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 00 MINUTES 24 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20201118T05:26:48Z | CVE-2020-14882 | CVE-2020–14882、CVE-2020–14883 | https://github.com/jas502n/CVE-2020-14882 | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
-| 20201118T04:00:21Z | CVE-2020-15999 | CVE-2020-15999 | https://github.com/marcinguy/CVE-2020-15999 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 39 MINUTES 02 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20201117T20:39:56Z | CVE-2020-0796 | SMBGhost (CVE-2020-0796) Automate Exploitation and Detection | https://github.com/Barriuso/SMBGhost_AutomateExploitation | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 38 MINUTES 58 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201118T04:00:21Z | CVE-2020-15999 | CVE-2020-15999 | https://github.com/marcinguy/CVE-2020-15999 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 11 MINUTES 19 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201117T20:39:56Z | CVE-2020-0796 | SMBGhost (CVE-2020-0796) Automate Exploitation and Detection | https://github.com/Barriuso/SMBGhost_AutomateExploitation | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 11 MINUTES 15 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20201117T18:02:04Z | CVE-2020-15228 | Fix CVE-2020-15228 (set-env, add-path in Github-Actions) | https://github.com/guettli/fix-CVE-2020-15228 | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
-| 20201117T14:23:23Z | CVE-2020-14882 | Null | https://github.com/BabyTeam1024/CVE-2020-14882 | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
-| 20201117T08:33:44Z | CVE-2020-8209 | RP2之前的Citrix XenMobile Server 10.12，RP4之前的Citrix XenMobile Server 10.11，RP6之前的Citrix XenMobile Server 10.10和Citrix XenMobile Server 10.9 RP5之前的访问控制不当，从而导致能够读取任意文件。该脚本为Citrix XenMobile 目录遍历漏洞（CVE-2020-8209）批量检测脚本。 | https://github.com/B1anda0/CVE-2020-8209 | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20201119T18:34:09Z | Symbiotic is a tool for finding bugs in computer programs based on instrumentation, program slicing and KLEE | https://github.com/staticafi/symbiotic | 202 | 33| 
+| 20201119T14:13:32Z | ⬇️ File Upload/sharing application, used by thousands of webmasters since 2007.  | https://github.com/kleeja-official/kleeja | 103 | 31| 
+| 20201119T05:47:02Z | Urban Evidence Based Policy (SPPA667) | https://github.com/KLeeDE/PUS2020_KLee | 0 | 1| 
 | 20201119T00:33:10Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1544 | 472| 
 | 20201118T23:28:32Z | C library to support Map2Check Tool | https://github.com/hbgit/map2check-library | 0 | 0| 
-| 20201118T21:58:29Z | Urban Evidence Based Policy (SPPA667) | https://github.com/KLeeDE/PUS2020_KLee | 0 | 1| 
 | 20201118T18:49:25Z | Null | https://github.com/mitchklee35/MitchKlee.com | 0 | 0| 
-| 20201118T15:31:04Z | ⬇️ File Upload/sharing application, used by thousands of webmasters since 2007.  | https://github.com/kleeja-official/kleeja | 102 | 31| 
-| 20201118T12:32:15Z | Symbiotic is a tool for finding bugs in computer programs based on instrumentation, program slicing and KLEE | https://github.com/staticafi/symbiotic | 201 | 33| 
 | 20201118T06:37:15Z | RVT is a collection of tools/libraries to support both static and dynamic verification of Rust programs. | https://github.com/project-oak/rust-verification-tools | 98 | 5| 
 | 20201118T02:34:27Z | Null | https://github.com/reswos/kleer_csd | 0 | 0| 
 | 20201117T09:57:54Z | Null | https://github.com/tmin97/klee | 0 | 0| 
@@ -87,46 +87,46 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20201119T02:14:25Z | Null | https://github.com/hack3rman/Exploits | 0 | 0| 
-| 20201119T02:05:02Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 8620 | 1345| 
-| 20201119T01:27:32Z | This bash script will help you to hack remote hosts  | https://github.com/FabioDefilippo/linuxallremote | 1 | 0| 
-| 20201119T01:03:00Z | fix exploits on anarchy server | https://github.com/moom0o/AnarchyExploitFixes | 7 | 3| 
-| 20201119T00:59:37Z | A python script file to remotely analyse and exploit Microsoft Windows system via impacket. | https://github.com/BroadbentT/WIN-MASTER | 14 | 9| 
-| 20201119T00:57:07Z | Thefatrat a massive exploiting tool : Easy tool to generate backdoor and easy tool to post exploitation attack like browser attack and etc . This tool compiles a malware with popular payload and then the compiled malware can be execute on windows, android, mac . The malware that created with this tool also have an ability to bypass most AV software protection . | https://github.com/Screetsec/TheFatRat | 4713 | 1576| 
-| 20201119T00:49:02Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 6 | 4| 
-| 20201119T00:42:37Z | This repository is for my senior year capstone. For my capstone I am developing a multipurpose web exploitation tool in python3. | https://github.com/nicholas-lueth/Web-Exploitation-Tool-Capstone | 0 | 0| 
-| 20201119T00:23:47Z | windows and linux streams for post exploitation | https://github.com/kymb0/post_exploitation | 1 | 0| 
-| 20201118T22:27:58Z | Exploiting constant trace property in large-scale polynomial optimization | https://github.com/maihoanganh/ctpPOP | 0 | 0| 
+| 20201120T01:42:10Z | Plugin to fix exploits and add functionality to anarchy servers | https://github.com/L2X9org/L2X9Core | 6 | 8| 
+| 20201120T01:30:47Z | CTF framework and exploit development library | https://github.com/Gallopsled/pwntools | 7259 | 1311| 
+| 20201120T01:23:11Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 8635 | 1346| 
+| 20201120T01:21:57Z | xnu_gym is a pongoOS module that patches XNU to reintroduce previously known and patched vulnerabilities. This is an easy way to practice kernel exploitation and jailbreak development! | https://github.com/tjkr0wn/xnu_gym | 5 | 1| 
+| 20201120T01:14:40Z | OWASP Benchmark is a test suite designed to verify the speed and accuracy of software vulnerability detection tools. A fully runnable web app written in Java, it supports analysis by Static (SAST), Dynamic (DAST), and Runtime (IAST) tools that support Java. The idea is that since it is fully runnable and all the vulnerabilities are actually exploitable, it’s a fair test for any kind of vulnerability detection tool.  For more details on this project, please see the OWASP Benchmark Project home page. | https://github.com/OWASP/Benchmark | 305 | 203| 
+| 20201120T00:49:03Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 6 | 4| 
+| 20201120T00:37:30Z | fix exploits on anarchy server | https://github.com/moom0o/AnarchyExploitFixes | 7 | 3| 
+| 20201120T00:36:18Z | A list of everything you need to be successful as an Ethical Hacker.  The best resources, exploits, payloads, and strategies that I%ve used to advance my skills and knowledge at a Penetration Tester. | https://github.com/Kennyslaboratory/Hacker-Heaven | 1 | 0| 
+| 20201119T23:43:11Z | A python script file to remotely analyse and exploit Microsoft Windows system via impacket. | https://github.com/BroadbentT/WIN-MASTER | 14 | 9| 
+| 20201119T22:32:14Z | CVE-2019-15107 exploit | https://github.com/n0obit4/Webmin_1.890-POC | 2 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20201119T00:57:07Z | Thefatrat a massive exploiting tool : Easy tool to generate backdoor and easy tool to post exploitation attack like browser attack and etc . This tool compiles a malware with popular payload and then the compiled malware can be execute on windows, android, mac . The malware that created with this tool also have an ability to bypass most AV software protection . | https://github.com/Screetsec/TheFatRat | 4713 | 1576| 
-| 20201118T22:36:27Z | a backdoor in C | https://github.com/EtoYoshio/b_sektor | 0 | 0| 
-| 20201118T21:05:47Z | this is an ssh-like backdoor, so it%s a reverse reverse shell xD | https://github.com/NullByte75/ssh-like-backdoor | 0 | 0| 
-| 20201118T20:25:25Z | Basic Windows reverse shell written in C++ | https://github.com/hacefresko/cppBackdoor | 0 | 0| 
-| 20201118T16:44:28Z | A protocol capable of individually backdooring any secret communication by multiple separate state authorities. | https://github.com/fbv81bp/Law_enforcing_E2EE | 0 | 0| 
-| 20201118T15:33:01Z | Unicorn Framework is an iOS, macOS and Linux post-exploitation framework that using one line command and powerful python payload attempts to spawn a command line session with a lot of features such as downloading files, uploading files, getting system information and etc. | https://github.com/EntySec/unicorn | 14 | 4| 
-| 20201118T14:52:59Z | Bilingual PhishingKit. TigerShark intergrates a vast array of various phishing tools and frameworks, from C2 servers, backdoors and delivery methods in multiple scripting languages in order to suit whatever your deployment needs may be. | https://github.com/s1l3nt78/TigerShark | 127 | 25| 
-| 20201118T14:29:36Z | Ghost Framework is an Android post-exploitation framework that exploits the Android Debug Bridge to remotely access an Android device. Ghost Framework gives you the power and convenience of remote Android device administration. | https://github.com/EntySec/ghost | 805 | 409| 
-| 20201118T11:40:55Z | Avyukt is a Exploitation Framework which can be used to generate Malicious Payloads and exploit Windows OS | https://github.com/Vedant-Bhalgama/Avyukt | 23 | 8| 
-| 20201118T11:27:36Z | Ro3b - Advance HTTP Botnet  | https://github.com/mathio3/Ro3b | 0 | 0| 
+| 20201119T22:36:32Z | Null | https://github.com/patterson910/real_backdoor | 0 | 0| 
+| 20201119T21:46:04Z | Self-learning how to code for backend: Backdoor using connection between servers . Code is based on research found on youtube and google searches | https://github.com/AshB1155/Backdoor-python | 0 | 0| 
+| 20201119T20:42:04Z | Null | https://github.com/lmathias2708/Backdoor | 0 | 0| 
+| 20201119T20:21:24Z | Ghost Framework is an Android post-exploitation framework that exploits the Android Debug Bridge to remotely access an Android device. Ghost Framework gives you the power and convenience of remote Android device administration. | https://github.com/EntySec/ghost | 810 | 410| 
+| 20201119T19:33:39Z | ICMP Reverse Shell written in Python 3 and with Scapy (backdoor/rev shell) | https://github.com/krabelize/icmpdoor | 11 | 1| 
+| 20201119T18:17:11Z | This is a remote access tool/backdoor written in rust. | https://github.com/H3nr1X/AdminSploit | 1 | 0| 
+| 20201119T15:04:47Z | Backdoor using Telegram and Powershell | https://github.com/cybervaca/PsBoTelegram | 6 | 3| 
+| 20201119T13:54:25Z | A protocol capable of individually backdooring any secret communication by multiple separate state authorities. | https://github.com/fbv81bp/Law_enforcing_E2EE | 0 | 0| 
+| 20201119T12:25:39Z | Bilingual PhishingKit. TigerShark intergrates a vast array of various phishing tools and frameworks, from C2 servers, backdoors and delivery methods in multiple scripting languages in order to suit whatever your deployment needs may be. | https://github.com/s1l3nt78/TigerShark | 128 | 25| 
+| 20201119T12:12:45Z | Unicorn Framework is an iOS, macOS and Linux post-exploitation framework that using one line command and powerful python payload attempts to spawn a command line session with a lot of features such as downloading files, uploading files, getting system information and etc. | https://github.com/EntySec/unicorn | 15 | 4| 
 
 
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20201119T02:19:23Z | 搜索工具类;a searching-utils for what you saved | https://github.com/kc910521/MiniSearch | 2 | 0| 
-| 20201119T02:12:48Z | all manner of wordlists | https://github.com/thelikes/fuzzmost | 4 | 9| 
-| 20201119T02:11:37Z | Null | https://github.com/googleinterns/hw-fuzzing | 3 | 0| 
-| 20201119T02:02:46Z | Null | https://github.com/Cloudberry-Merchandising/fuzzy-garbanzo | 0 | 0| 
-| 20201119T02:01:36Z | Fuzzaldrin plus - fast using native C++ bindings | https://github.com/atom-ide-community/fuzzaldrin-plus-fast | 2 | 3| 
-| 20201119T01:52:21Z | Fuzzy matching publications for fatcat (wip). | https://github.com/miku/fuzzycat | 0 | 1| 
-| 20201119T01:45:10Z | Null | https://github.com/ulisesromero/fuzzy-engine | 0 | 0| 
-| 20201119T00:53:32Z | Null | https://github.com/cbermudez97/fuzzy-logic-project | 0 | 0| 
-| 20201119T00:48:22Z | To make fuzzing Rust easy | https://github.com/smoelius/test-fuzz | 0 | 0| 
-| 20201119T00:42:31Z | OSS-Fuzz - continuous fuzzing of open source software. | https://github.com/google/oss-fuzz | 5669 | 1118| 
+| 20201120T01:14:16Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 28041 | 13938| 
+| 20201120T01:07:13Z | OSS-Fuzz - continuous fuzzing of open source software. | https://github.com/google/oss-fuzz | 5671 | 1119| 
+| 20201120T01:06:33Z | Null | https://github.com/t344/Fuzzy_2020 | 0 | 0| 
+| 20201120T01:05:46Z | fuzzing audio adversarial attacks for voice assistant | https://github.com/Kur1su0/software_analysis_final_proj | 0 | 0| 
+| 20201120T00:48:45Z | RESTler is the first stateful REST API fuzzing tool for automatically testing cloud services through their REST APIs and finding security and reliability bugs in these services. | https://github.com/microsoft/restler-fuzzer | 118 | 9| 
+| 20201120T00:46:42Z | Subdomain Buster (OSINT & Fuzz) 🛂 | https://github.com/casalinovalerio/sb | 0 | 0| 
+| 20201120T00:31:35Z | REST API Fuzz Testing (RAFT): Source code for self-hosted service developed for Azure, including the API, orchestration engine, and default set of security tools (including MSR%s RESTler), that enables developers to embed security tooling into their CI/CD workflows | https://github.com/microsoft/rest-api-fuzz-testing | 35 | 3| 
+| 20201120T00:19:43Z | Create new personal site | https://github.com/Temple0609/fuzzy-parakeet | 0 | 0| 
+| 20201119T23:49:07Z | fuzzing and benching for precompiles | https://github.com/prestwich/smash | 3 | 1| 
+| 20201119T23:45:19Z | Scalable fuzzing infrastructure. | https://github.com/google/clusterfuzz | 4365 | 397| 
 
 
 
