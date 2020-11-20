@@ -15,6 +15,7 @@
 | 20201119 | XSS Vulnerability in Froala WYSIWYG HTML Editor | https://insinuator.net/2020/11/xss-vulnerability-in-froala-wysiwyg-html-editor/| 
 | 20201119 | 5个国家的APT恶意软件数据集。 | https://github.com/cyber-research/APTMalware| 
 | 20201119 | 蓝牙低功耗无硬件-HackMe 项目。 | https://github.com/smartlockpicking/BLE_HackMe| 
+| 20201119 | 一键辅助抓取 360 安全浏览器密码的 CobaltStrike 脚本 | http://github.com/hayasec/360SafeBrowsergetpass| 
 
 
 # 安全维基 推荐
@@ -32,7 +33,7 @@
 | --- | --- | --- | --- | ---| 
 | 20201119T13:08:09Z | CVE-2020-28054 | Advisory for CVE-2020-28054 & stack based buffer overflow in IBM Tivoli Storage Manager | https://github.com/VoidSec/Tivoli-Madness | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
 | 20201119T12:04:51Z | CVE-2020-13942 | Null | https://github.com/lp008/CVE-2020-13942 | 未查询到CVE信息| 
-| 20201119T08:35:30Z | CVE-2020-8277 | Null | https://github.com/masahiro331/CVE-2020-8277 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 25 MINUTES 32 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201119T08:35:30Z | CVE-2020-8277 | Null | https://github.com/masahiro331/CVE-2020-8277 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 00 MINUTES 27 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 
 
 # klee on Github 推荐
