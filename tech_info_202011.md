@@ -47,14 +47,14 @@
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
 | 20201120T02:18:05Z | CVE-2020-13942 | CVE-2020-13942 unauthenticated RCE POC through MVEL and OGNL injection | https://github.com/eugenebmx/CVE-2020-13942 | 未查询到CVE信息| 
-| 20201119T13:08:09Z | CVE-2020-28054 | Advisory for CVE-2020-28054 & stack based buffer overflow in IBM Tivoli Storage Manager | https://github.com/VoidSec/Tivoli-Madness | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
+| 20201119T13:08:09Z | CVE-2020-28054 | Advisory for CVE-2020-28054 & stack based buffer overflow in IBM Tivoli Storage Manager | https://github.com/VoidSec/Tivoli-Madness | | 
 | 20201119T12:04:51Z | CVE-2020-13942 | Null | https://github.com/lp008/CVE-2020-13942 | 未查询到CVE信息| 
-| 20201119T08:35:30Z | CVE-2020-8277 | Null | https://github.com/masahiro331/CVE-2020-8277 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 33 MINUTES 30 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201119T08:35:30Z | CVE-2020-8277 | Null | https://github.com/masahiro331/CVE-2020-8277 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 31 MINUTES 33 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20201118T21:48:22Z | CVE-2020-3452 | CVE-2020-3452 | https://github.com/grim3/CVE-2020-3452 | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
 | 20201118T21:30:40Z | CVE-2020-15349 | Vulnerability Description of CVE-2020-15349 | https://github.com/Traxes/Forklift_LPE | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 00 MINUTES 24 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20201118T05:26:48Z | CVE-2020-14882 | CVE-2020–14882、CVE-2020–14883 | https://github.com/jas502n/CVE-2020-14882 | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
-| 20201118T04:00:21Z | CVE-2020-15999 | CVE-2020-15999 | https://github.com/marcinguy/CVE-2020-15999 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 33 MINUTES 19 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20201117T20:39:56Z | CVE-2020-0796 | SMBGhost (CVE-2020-0796) Automate Exploitation and Detection | https://github.com/Barriuso/SMBGhost_AutomateExploitation | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 33 MINUTES 15 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201118T04:00:21Z | CVE-2020-15999 | CVE-2020-15999 | https://github.com/marcinguy/CVE-2020-15999 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 32 MINUTES 20 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201117T20:39:56Z | CVE-2020-0796 | SMBGhost (CVE-2020-0796) Automate Exploitation and Detection | https://github.com/Barriuso/SMBGhost_AutomateExploitation | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 32 MINUTES 16 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20201117T18:02:04Z | CVE-2020-15228 | Fix CVE-2020-15228 (set-env, add-path in Github-Actions) | https://github.com/guettli/fix-CVE-2020-15228 | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
 
 
@@ -87,6 +87,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20201120T02:27:15Z | Utilizar macros e VBA do Office para executar programas maliciosos. | https://github.com/joaopedrordepaiva/MacroExploit | 0 | 0| 
 | 20201120T02:05:31Z | An attack/exploit Detector that utilizes Polymorphism and Diversity | https://github.com/polyverse/zerotect | 19 | 1| 
 | 20201120T02:04:01Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 8636 | 1346| 
 | 20201120T01:59:40Z | DHCP exploitation with DynoRoot (CVE-2018-1111) | https://github.com/baldassarreFe/FEP3370-advanced-ethical-hacking | 0 | 0| 
@@ -96,7 +97,6 @@
 | 20201120T01:14:40Z | OWASP Benchmark is a test suite designed to verify the speed and accuracy of software vulnerability detection tools. A fully runnable web app written in Java, it supports analysis by Static (SAST), Dynamic (DAST), and Runtime (IAST) tools that support Java. The idea is that since it is fully runnable and all the vulnerabilities are actually exploitable, it’s a fair test for any kind of vulnerability detection tool.  For more details on this project, please see the OWASP Benchmark Project home page. | https://github.com/OWASP/Benchmark | 305 | 203| 
 | 20201120T00:49:03Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 6 | 4| 
 | 20201120T00:37:30Z | fix exploits on anarchy server | https://github.com/moom0o/AnarchyExploitFixes | 7 | 3| 
-| 20201120T00:36:18Z | A list of everything you need to be successful as an Ethical Hacker.  The best resources, exploits, payloads, and strategies that I%ve used to advance my skills and knowledge at a Penetration Tester. | https://github.com/Kennyslaboratory/Hacker-Heaven | 1 | 0| 
 
 
 # backdoor on Github 推荐
