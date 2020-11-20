@@ -102,6 +102,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20201120T02:24:42Z | Thefatrat a massive exploiting tool : Easy tool to generate backdoor and easy tool to post exploitation attack like browser attack and etc . This tool compiles a malware with popular payload and then the compiled malware can be execute on windows, android, mac . The malware that created with this tool also have an ability to bypass most AV software protection . | https://github.com/Screetsec/TheFatRat | 4713 | 1578| 
 | 20201120T02:01:28Z | Patch PE, ELF, Mach-O binaries with shellcode new version in development, available only to sponsors | https://github.com/secretsquirrel/the-backdoor-factory | 2619 | 718| 
 | 20201119T22:36:32Z | Null | https://github.com/patterson910/real_backdoor | 0 | 0| 
 | 20201119T21:46:04Z | Self-learning how to code for backend: Backdoor using connection between servers . Code is based on research found on youtube and google searches | https://github.com/AshB1155/Backdoor-python | 0 | 0| 
@@ -111,7 +112,6 @@
 | 20201119T18:17:11Z | This is a remote access tool/backdoor written in rust. | https://github.com/H3nr1X/AdminSploit | 1 | 0| 
 | 20201119T15:04:47Z | Backdoor using Telegram and Powershell | https://github.com/cybervaca/PsBoTelegram | 6 | 3| 
 | 20201119T13:54:25Z | A protocol capable of individually backdooring any secret communication by multiple separate state authorities. | https://github.com/fbv81bp/Law_enforcing_E2EE | 0 | 0| 
-| 20201119T12:25:39Z | Bilingual PhishingKit. TigerShark intergrates a vast array of various phishing tools and frameworks, from C2 servers, backdoors and delivery methods in multiple scripting languages in order to suit whatever your deployment needs may be. | https://github.com/s1l3nt78/TigerShark | 128 | 25| 
 
 
 # fuzz on Github 推荐
