@@ -47,11 +47,11 @@
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
 | 20201120T23:44:21Z | cve-2020-10977 | GitLab 12.9.0 Arbitrary File Read  | https://github.com/thewhiteh4t/cve-2020-10977 | 未查询到CVE信息| 
-| 20201120T23:29:39Z | CVE-2020-13942 | CVE-2020-13942 POC + Automation Script | https://github.com/shifa123/CVE-2020-13942-POC- | | 
+| 20201120T23:29:39Z | CVE-2020-13942 | CVE-2020-13942 POC + Automation Script | https://github.com/shifa123/CVE-2020-13942-POC- | 未查询到CVE信息| 
 | 20201120T21:34:13Z | CVE-2020-13942 | CVE-2020-13942 unauthenticated RCE POC through MVEL and OGNL injection | https://github.com/eugenebmx/CVE-2020-13942 | 未查询到CVE信息| 
-| 20201120T15:16:29Z | CVE-2020-15999 | CVE-2020-15999 | https://github.com/marcinguy/CVE-2020-15999 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 04 MINUTES 06 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20201120T13:47:49Z | CVE-2020-0796 | Null | https://github.com/MasterSploit/LPE---CVE-2020-0796 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 04 MINUTES 17 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20201120T12:21:56Z | CVE-2020-8277 | Null | https://github.com/masahiro331/CVE-2020-8277 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 04 MINUTES 14 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201120T15:16:29Z | CVE-2020-15999 | CVE-2020-15999 | https://github.com/marcinguy/CVE-2020-15999 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  20 HOURS 40 MINUTES 58 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201120T13:47:49Z | CVE-2020-0796 | Null | https://github.com/MasterSploit/LPE---CVE-2020-0796 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  20 HOURS 41 MINUTES 10 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201120T12:21:56Z | CVE-2020-8277 | Null | https://github.com/masahiro331/CVE-2020-8277 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  20 HOURS 41 MINUTES 07 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20201119T13:08:09Z | CVE-2020-28054 | Advisory for CVE-2020-28054 & stack based buffer overflow in IBM Tivoli Storage Manager | https://github.com/VoidSec/Tivoli-Madness | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
 | 20201119T12:04:51Z | CVE-2020-13942 | Null | https://github.com/lp008/CVE-2020-13942 | 未查询到CVE信息| 
 | 20201118T21:48:22Z | CVE-2020-3452 | CVE-2020-3452 | https://github.com/grim3/CVE-2020-3452 | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
@@ -87,16 +87,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20201121T02:59:01Z | blog repository (nonetype.kr) | https://github.com/nonetype/nonetype.github.io | 0 | 0| 
+| 20201121T02:56:22Z | Sifter is a OSINT, recon & vulnerability scanner. It incorporates a plethara of tools within different module sets that tries to cover every attack vector. Allowing you to quickly perform recon tasks and organize the results in one place. From OSINT to Recon, Exploitation, Post-Exploitation, OpSec, Threat Analysis, XSS, SQLinjection, Network Scanning, WebApp Analysis or DNS enumeration.. Sifter should be able to cover it all. | https://github.com/s1l3nt78/sifter | 290 | 89| 
 | 20201121T02:32:39Z | Null | https://github.com/kingraiz2111/ExploitPaxPloit | 0 | 0| 
 | 20201121T02:07:12Z | A list of everything you need to be successful as an Ethical Hacker.  The best resources, exploits, payloads, and strategies that I%ve used to advance my skills and knowledge at a Penetration Tester. | https://github.com/Kennyslaboratory/Hacker-Heaven | 1 | 0| 
 | 20201121T02:07:01Z | An open-source post-exploitation framework for students, researchers and developers. | https://github.com/malwaredllc/byob | 5495 | 1165| 
-| 20201121T01:58:10Z | Sifter is a OSINT, recon & vulnerability scanner. It incorporates a plethara of tools within different module sets that tries to cover every attack vector. Allowing you to quickly perform recon tasks and organize the results in one place. From OSINT to Recon, Exploitation, Post-Exploitation, OpSec, Threat Analysis, XSS, SQLinjection, Network Scanning, WebApp Analysis or DNS enumeration.. Sifter should be able to cover it all. | https://github.com/s1l3nt78/sifter | 289 | 89| 
 | 20201121T01:38:41Z | The project is an official implementation of our CVPR2020 paper %Attention Mechanism Exploits Temporal Contexts: Real-time 3D Human Pose Reconstruction%  | https://github.com/lrxjason/Attention3DHumanPose | 33 | 10| 
 | 20201121T01:34:02Z | discord bugs and exploits :smiling_imp: | https://github.com/Vexvain/Discord-Exploits | 0 | 0| 
 | 20201121T01:01:18Z | A series of CTF challenge solutions for binary exploitation (or pwn) and reverse engineering (or rev) challenges | https://github.com/docfate111/binary-exploitation-solution-scripts | 0 | 0| 
 | 20201121T00:50:32Z | scripts for exploiting in Littlenathanial%s places (Roblox) | https://github.com/littlenathanial/exploiting-scripts | 0 | 0| 
 | 20201121T00:49:04Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 6 | 4| 
-| 20201121T00:42:17Z | This code is an IRC BOT that can connect to an IRC server with SSL The main purpose of this bot is to scan for Open/Unsecured VNC servers. The bot can also search for credit card informations in the computer that the bot is running (removed in last version to optimize compilation process time). Added SSH takeover module/command.. There is also a DDoS module made in Python, for taking out the target from the network. | https://github.com/ind3p3nd3nt/PerlIRCSSL_VNCbypass | 16 | 7| 
 
 
 # backdoor on Github 推荐
@@ -117,6 +117,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20201121T03:11:55Z | RESTler is the first stateful REST API fuzzing tool for automatically testing cloud services through their REST APIs and finding security and reliability bugs in these services. | https://github.com/microsoft/restler-fuzzer | 129 | 9| 
 | 20201121T02:49:32Z | Null | https://github.com/antonio-morales/Hackfest_Advanced_Fuzzing_Workshop | 4 | 0| 
 | 20201121T02:24:40Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2214 | 109| 
 | 20201121T02:23:36Z | REST API Fuzz Testing (RAFT): Source code for self-hosted service developed for Azure, including the API, orchestration engine, and default set of security tools (including MSR%s RESTler), that enables developers to embed security tooling into their CI/CD workflows | https://github.com/microsoft/rest-api-fuzz-testing | 43 | 3| 
@@ -126,7 +127,6 @@
 | 20201121T01:12:32Z | fuzzing audio adversarial attacks for voice assistant | https://github.com/Kur1su0/software_analysis_final_proj | 0 | 0| 
 | 20201121T00:56:43Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 28061 | 13955| 
 | 20201121T00:45:38Z | Null | https://github.com/llFireHawkll/Fuzzy-Matcher | 0 | 0| 
-| 20201120T23:45:44Z | Create new personal site | https://github.com/Temple0609/fuzzy-parakeet | 1 | 0| 
 
 
 
