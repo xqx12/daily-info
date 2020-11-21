@@ -33,15 +33,18 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20201120T14:34:04Z | CVE-2020-15999 | CVE-2020-15999 | https://github.com/marcinguy/CVE-2020-15999 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  08 HOURS 48 MINUTES 45 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20201120T13:47:49Z | CVE-2020-0796 | Null | https://github.com/MasterSploit/LPE---CVE-2020-0796 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  08 HOURS 48 MINUTES 59 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20201120T12:21:56Z | CVE-2020-8277 | Null | https://github.com/masahiro331/CVE-2020-8277 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  08 HOURS 48 MINUTES 56 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20201120T04:57:05Z | CVE-2020-13942 | CVE-2020-13942 unauthenticated RCE POC through MVEL and OGNL injection | https://github.com/eugenebmx/CVE-2020-13942 | 未查询到CVE信息| 
+| 20201120T23:44:21Z | cve-2020-10977 | GitLab 12.9.0 Arbitrary File Read  | https://github.com/thewhiteh4t/cve-2020-10977 | 未查询到CVE信息| 
+| 20201120T23:29:39Z | CVE-2020-13942 | CVE-2020-13942 POC + Automation Script | https://github.com/shifa123/CVE-2020-13942-POC- | 未查询到CVE信息| 
+| 20201120T21:34:13Z | CVE-2020-13942 | CVE-2020-13942 unauthenticated RCE POC through MVEL and OGNL injection | https://github.com/eugenebmx/CVE-2020-13942 | 未查询到CVE信息| 
+| 20201120T15:16:29Z | CVE-2020-15999 | CVE-2020-15999 | https://github.com/marcinguy/CVE-2020-15999 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 58 MINUTES 59 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201120T13:47:49Z | CVE-2020-0796 | Null | https://github.com/MasterSploit/LPE---CVE-2020-0796 | Microsoft服务器消息块3.1.1（SMBv3）协议处理某些请求的方式中存在一个远程执行代码漏洞，也称为“ Windows SMBv3客户端/服务器远程执行代码漏洞”。| 
+| 20201120T12:21:56Z | CVE-2020-8277 | Null | https://github.com/masahiro331/CVE-2020-8277 | 允许攻击者触发其选择的主机的 DNS 请求的 Node.js 应用程序可以通过让应用程序解决具有更多响应的 DNS 记录来触发版本 &lt; 15.2.1、&lt; 14.15.1 和 &lt; 12.19.1 中的拒绝服务。这固定在 15.2.1、14.15.1 和 12.19.1 中。| 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20201120T20:14:48Z | Null | https://github.com/davidtr1037/klee-pspa | 2 | 0| 
 | 20201120T14:17:15Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1545 | 472| 
 | 20201120T11:22:53Z | Symbiotic is a tool for finding bugs in computer programs based on instrumentation, program slicing and KLEE | https://github.com/staticafi/symbiotic | 203 | 33| 
 | 20201120T09:33:02Z | Website for the KLEE project: https://klee.github.io/ | https://github.com/klee/klee.github.io | 13 | 42| 
@@ -56,16 +59,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20201120T15:07:55Z | A list of everything you need to be successful as an Ethical Hacker.  The best resources, exploits, payloads, and strategies that I%ve used to advance my skills and knowledge at a Penetration Tester. | https://github.com/Kennyslaboratory/Hacker-Heaven | 1 | 0| 
-| 20201120T15:06:11Z | Protekt Protocol puts crypto to work insuring users against hacks, bugs, and exploits of any DeFi protocol or smart contract. The goal is to support and catalyze the growth of the DeFi ecosystem by protecting users from getting rekt. | https://github.com/corbinpage/protekt-protocol-docs | 6 | 0| 
-| 20201120T15:04:15Z | %Smart European Space Access thru Modern Exploitation of Data Science% (SESAME ) (EU H2020 Project n. 821875). | https://github.com/MAAN1/SESAME | 0 | 0| 
-| 20201120T14:33:32Z | This Buffer Overflow Toolkit works through FTP, SMTP, POP, HTTP protocols as well file outputs for playlists exploiting customized variables/commands. Payloads can be generated through MSFVENOM or you can use your own ASM files. | https://github.com/danieljs777/fastoverflowtk | 0 | 0| 
-| 20201120T13:55:49Z | Sifter is a OSINT, recon & vulnerability scanner. It incorporates a plethara of tools within different module sets that tries to cover every attack vector. Allowing you to quickly perform recon tasks and organize the results in one place. From OSINT to Recon, Exploitation, Post-Exploitation, OpSec, Threat Analysis, XSS, SQLinjection, Network Scanning, WebApp Analysis or DNS enumeration.. Sifter should be able to cover it all. | https://github.com/s1l3nt78/sifter | 288 | 89| 
-| 20201120T12:54:26Z | Collection of 0days & Ndays | https://github.com/r0t0tiller/Exploits | 0 | 0| 
-| 20201120T12:49:03Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 6 | 4| 
-| 20201120T12:47:12Z | Utilizar macros e VBA do Office para executar programas maliciosos. | https://github.com/joaopedrordepaiva/MacroExploit | 0 | 0| 
-| 20201120T12:24:00Z | Hey! I%m edoardottt! 🏴‍☠️ | https://github.com/edoardottt/edoardottt | 2 | 0| 
-| 20201120T12:10:19Z | Exploit file-Android | https://github.com/johanMTK/exploit | 0 | 0| 
+| 20201120T23:49:25Z | FortiClient%s SSL VPN Exploits | https://github.com/Isloka/sslvpn-exploit | 0 | 0| 
+| 20201120T23:43:20Z | Sifter is a OSINT, recon & vulnerability scanner. It incorporates a plethara of tools within different module sets that tries to cover every attack vector. Allowing you to quickly perform recon tasks and organize the results in one place. From OSINT to Recon, Exploitation, Post-Exploitation, OpSec, Threat Analysis, XSS, SQLinjection, Network Scanning, WebApp Analysis or DNS enumeration.. Sifter should be able to cover it all. | https://github.com/s1l3nt78/sifter | 289 | 89| 
+| 20201120T23:32:26Z | An open-source post-exploitation framework for students, researchers and developers. | https://github.com/malwaredllc/byob | 5494 | 1165| 
+| 20201120T23:02:19Z | RSA - like cryptosystem that the decryption is faster then the original RSA  | https://github.com/roni12321/An-efficient-and-secure-RSA-like-cryptosystem-exploiting-R-edei-rational-functions-over-conics | 0 | 0| 
+| 20201120T22:50:07Z | Repo containing different POC%s for assorted applications | https://github.com/disastrpc/exploits | 0 | 0| 
+| 20201120T22:16:41Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 8642 | 1349| 
+| 20201120T22:11:37Z | Writeups, scripts and solutions for CTFs, Hack the Box, Vulnhub, exploit challenges, pwnables, crackmes, etc. Anything goes. | https://github.com/alichtman/writeups | 4 | 1| 
+| 20201120T21:09:54Z | Collection of exploits that were verified by an automated system | https://github.com/qeeqbox/falcon | 1 | 0| 
+| 20201120T19:59:26Z | Finding arbitrage opportunities in foreign exchange rates by finding negative weight cycles. | https://github.com/JeromeHadorn/Forex-Exploit | 0 | 0| 
+| 20201120T19:30:49Z | Additional material for the paper %MoralStrength: Exploiting a Moral Lexicon and Embedding Similarity for Moral Foundations Prediction% | https://github.com/oaraque/moral-foundations | 14 | 5| 
 
 
 # backdoor on Github 推荐
