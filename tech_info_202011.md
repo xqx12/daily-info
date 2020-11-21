@@ -31,6 +31,7 @@
 # 安全维基 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20201121 | 利用avdump转储lsass.exe进程 | https://mp.weixin.qq.com/s/bHDMTlY-YZxx9dS-MqQfRA| 
 | 20201120 | 针对小程序的漏洞挖掘 | https://www.sec-in.com/article/648| 
 | 20201120 | 神经工程与脑机接口信息安全 全景图 V0.1 | https://www.anquanke.com/post/id/223008| 
 | 20201120 | 太湖杯密码学 Aegis 题解 | https://www.anquanke.com/post/id/222629| 
@@ -40,28 +41,27 @@
 | 20201120 | TailorScan: 自用缝合怪内网扫描器 | https://github.com/uknowsec/TailorScan| 
 | 20201120 | Linux透明代理在红队渗透中的应用 | https://payloads.online/archivers/2020-11-13/1| 
 | 20201120 | Python 源码混淆与加密 | https://mp.weixin.qq.com/s/LmxdXRjMCOIisQzCISBoGw| 
-| 20201120 | 微信聊天记录导出工具 | https://github.com/forest0/wechat_history_export| 
 
 
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20201120T23:44:21Z | cve-2020-10977 | GitLab 12.9.0 Arbitrary File Read  | https://github.com/thewhiteh4t/cve-2020-10977 | 未查询到CVE信息| 
-| 20201120T23:29:39Z | CVE-2020-13942 | CVE-2020-13942 POC + Automation Script | https://github.com/shifa123/CVE-2020-13942-POC- | 未查询到CVE信息| 
-| 20201120T21:34:13Z | CVE-2020-13942 | CVE-2020-13942 unauthenticated RCE POC through MVEL and OGNL injection | https://github.com/eugenebmx/CVE-2020-13942 | 未查询到CVE信息| 
-| 20201120T15:16:29Z | CVE-2020-15999 | CVE-2020-15999 | https://github.com/marcinguy/CVE-2020-15999 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  20 HOURS 18 MINUTES 58 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20201120T13:47:49Z | CVE-2020-0796 | Null | https://github.com/MasterSploit/LPE---CVE-2020-0796 | | 
-| 20201120T12:21:56Z | CVE-2020-8277 | Null | https://github.com/masahiro331/CVE-2020-8277 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  20 HOURS 19 MINUTES 07 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20201119T13:08:09Z | CVE-2020-28054 | Advisory for CVE-2020-28054 & stack based buffer overflow in IBM Tivoli Storage Manager | https://github.com/VoidSec/Tivoli-Madness | | 
-| 20201119T12:04:51Z | CVE-2020-13942 | Null | https://github.com/lp008/CVE-2020-13942 | 未查询到CVE信息| 
-| 20201118T21:48:22Z | CVE-2020-3452 | CVE-2020-3452 | https://github.com/grim3/CVE-2020-3452 | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
-| 20201118T21:30:40Z | CVE-2020-15349 | Vulnerability Description of CVE-2020-15349 | https://github.com/Traxes/Forklift_LPE | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 00 MINUTES 24 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201121T12:58:07Z | CVE-2020-24227 | Playground Sessions - Storing User Credentials in Plaintext | https://github.com/nathunandwani/CVE-2020-24227 | 未查询到CVE信息| 
+| 20201121T12:15:13Z | cve-2020-10977 | GitLab 12.9.0 Arbitrary File Read  | https://github.com/thewhiteh4t/cve-2020-10977 | 未查询到CVE信息| 
+| 20201121T09:18:37Z | CVE-2020-15999 | CVE-2020-15999 | https://github.com/marcinguy/CVE-2020-15999 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 58 MINUTES 46 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201121T09:09:47Z | CVE-2020-16947 | Outlook 2019 Remote Command Execution | https://github.com/MasterSploit/CVE-2020-16947 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 59 MINUTES 00 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201121T08:54:45Z | CVE-2020-13942 | Null | https://github.com/blackmarketer/CVE-2020-13942 | 未查询到CVE信息| 
+| 20201121T08:34:22Z | CVE-2020-13942 | CVE-2020-13942 unauthenticated RCE POC through MVEL and OGNL injection | https://github.com/eugenebmx/CVE-2020-13942 | 未查询到CVE信息| 
+| 20201121T06:04:00Z | CVE-2020-13942 | CVE-2020-13942 POC + Automation Script | https://github.com/shifa123/CVE-2020-13942-POC- | 未查询到CVE信息| 
+| 20201120T13:47:49Z | CVE-2020-0796 | Null | https://github.com/MasterSploit/LPE---CVE-2020-0796 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 58 MINUTES 57 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201120T12:21:56Z | CVE-2020-8277 | Null | https://github.com/masahiro331/CVE-2020-8277 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 58 MINUTES 53 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201119T13:08:09Z | CVE-2020-28054 | Advisory for CVE-2020-28054 & stack based buffer overflow in IBM Tivoli Storage Manager | https://github.com/VoidSec/Tivoli-Madness | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20201121T02:54:08Z | Null | https://github.com/klee-chan/klee-chan.github.io | 0 | 0| 
+| 20201121T10:18:22Z | Null | https://github.com/klee-chan/klee-chan.github.io | 0 | 0| 
 | 20201120T20:14:48Z | Null | https://github.com/davidtr1037/klee-pspa | 2 | 0| 
 | 20201120T14:17:15Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1545 | 472| 
 | 20201120T11:22:53Z | Symbiotic is a tool for finding bugs in computer programs based on instrumentation, program slicing and KLEE | https://github.com/staticafi/symbiotic | 203 | 33| 
@@ -87,16 +87,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20201121T03:32:32Z | fix exploits on anarchy server | https://github.com/moom0o/AnarchyExploitFixes | 7 | 3| 
-| 20201121T03:27:21Z | EasyExploit is number 1 exploit site on roblox can download it | https://github.com/NeekeChili/EasyExploit | 0 | 0| 
-| 20201121T02:59:01Z | blog repository (nonetype.kr) | https://github.com/nonetype/nonetype.github.io | 0 | 0| 
-| 20201121T02:56:22Z | Sifter is a OSINT, recon & vulnerability scanner. It incorporates a plethara of tools within different module sets that tries to cover every attack vector. Allowing you to quickly perform recon tasks and organize the results in one place. From OSINT to Recon, Exploitation, Post-Exploitation, OpSec, Threat Analysis, XSS, SQLinjection, Network Scanning, WebApp Analysis or DNS enumeration.. Sifter should be able to cover it all. | https://github.com/s1l3nt78/sifter | 290 | 89| 
-| 20201121T02:32:39Z | Null | https://github.com/kingraiz2111/ExploitPaxPloit | 0 | 0| 
-| 20201121T02:07:12Z | A list of everything you need to be successful as an Ethical Hacker.  The best resources, exploits, payloads, and strategies that I%ve used to advance my skills and knowledge at a Penetration Tester. | https://github.com/Kennyslaboratory/Hacker-Heaven | 1 | 0| 
-| 20201121T02:07:01Z | An open-source post-exploitation framework for students, researchers and developers. | https://github.com/malwaredllc/byob | 5495 | 1165| 
-| 20201121T01:38:41Z | The project is an official implementation of our CVPR2020 paper %Attention Mechanism Exploits Temporal Contexts: Real-time 3D Human Pose Reconstruction%  | https://github.com/lrxjason/Attention3DHumanPose | 33 | 10| 
-| 20201121T01:34:02Z | discord bugs and exploits :smiling_imp: | https://github.com/Vexvain/Discord-Exploits | 0 | 0| 
-| 20201121T01:01:18Z | A series of CTF challenge solutions for binary exploitation (or pwn) and reverse engineering (or rev) challenges | https://github.com/docfate111/binary-exploitation-solution-scripts | 0 | 0| 
+| 20201121T12:57:08Z | Official repository of the paper %Exploiting Food Embeddings for Ingredient Substitution%. | https://github.com/ChantalMP/Exploiting-Food-Embeddings-for-Ingredient-Substitution | 1 | 0| 
+| 20201121T12:54:50Z | Exploring the MSAs through the lens of social events by exploiting data obtained from Meetup API | https://github.com/CIT-ee/Exploring-MSA-Meetup-Characteristics | 0 | 0| 
+| 20201121T12:49:04Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 6 | 4| 
+| 20201121T12:36:11Z | CTF竞赛权威指南(Pwn篇) | https://github.com/firmianay/CTF-All-In-One | 2159 | 442| 
+| 20201121T12:19:09Z | Code for CIKM 2019 paper %Exploiting Multiple Embeddings for Chinese Named Entity Recognition%. | https://github.com/WHUIR/ME-CNER | 14 | 5| 
+| 20201121T11:53:13Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 8643 | 1352| 
+| 20201121T10:47:38Z | Null | https://github.com/juustio/Exploit | 0 | 0| 
+| 20201121T10:46:15Z | Experiments of binary exploit and hardware security | https://github.com/chuang76/Security-101 | 2 | 0| 
+| 20201121T10:33:57Z | Automation script for FullMetal5%s BlueBomb exploit. Shell script by Urmum-69 and twosecslater. | https://github.com/Devnol/Bluebomb-automator | 1 | 2| 
+| 20201121T09:48:44Z | Laravel Site Scanner + Laravel Phpunit RCE Auto Exploit | https://github.com/aceptriana/Laravel-Phpunit-RCE-Auto-Exploit | 0 | 0| 
 
 
 # backdoor on Github 推荐
@@ -117,16 +117,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20201121T03:11:55Z | RESTler is the first stateful REST API fuzzing tool for automatically testing cloud services through their REST APIs and finding security and reliability bugs in these services. | https://github.com/microsoft/restler-fuzzer | 129 | 9| 
-| 20201121T02:49:32Z | Null | https://github.com/antonio-morales/Hackfest_Advanced_Fuzzing_Workshop | 4 | 0| 
-| 20201121T02:24:40Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2214 | 109| 
-| 20201121T02:23:36Z | REST API Fuzz Testing (RAFT): Source code for self-hosted service developed for Azure, including the API, orchestration engine, and default set of security tools (including MSR%s RESTler), that enables developers to embed security tooling into their CI/CD workflows | https://github.com/microsoft/rest-api-fuzz-testing | 43 | 3| 
-| 20201121T01:59:34Z | Null | https://github.com/terminal-labs/fuzzball-states | 0 | 0| 
-| 20201121T01:45:29Z | Null | https://github.com/mdada13/fuzzy | 0 | 0| 
-| 20201121T01:41:38Z | Fuzzy matching publications for fatcat (wip). | https://github.com/miku/fuzzycat | 0 | 1| 
-| 20201121T01:12:32Z | fuzzing audio adversarial attacks for voice assistant | https://github.com/Kur1su0/software_analysis_final_proj | 0 | 0| 
-| 20201121T00:56:43Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 28061 | 13955| 
-| 20201121T00:45:38Z | Null | https://github.com/llFireHawkll/Fuzzy-Matcher | 0 | 0| 
+| 20201121T12:54:59Z | Repository holding database dumps from getfursu.it | https://github.com/veelkoov/fuzzrake-data | 0 | 0| 
+| 20201121T12:48:53Z | Randomized testing for Go | https://github.com/dvyukov/go-fuzz | 3724 | 213| 
+| 20201121T12:45:15Z | no fuzz configurator | https://github.com/roxiness/configent | 1 | 0| 
+| 20201121T12:26:52Z | Very Fast and Powerful Web Fuzzer | https://github.com/RedSecurity/power-ffuf | 1 | 0| 
+| 20201121T12:08:34Z | Fuzzing -- -- | https://github.com/dnsdudrla97/Fuzz | 0 | 0| 
+| 20201121T10:54:34Z | Packer Fuzzer is a fast and efficient scanner for security detection of websites constructed by javascript module bundler such as Webpack.  | https://github.com/rtcatc/Packer-Fuzzer | 332 | 37| 
+| 20201121T10:42:45Z | interactive `git` with the help of `fzf` | https://github.com/bigH/git-fuzzy | 1570 | 30| 
+| 20201121T09:46:06Z | A fast web fuzzer in golang | https://github.com/neonify/lessgo | 0 | 0| 
+| 20201121T09:40:01Z | Fuzzy | https://github.com/yadi123456/fuzzy | 0 | 0| 
+| 20201121T09:19:35Z | Null | https://github.com/antonio-morales/Hackfest_Advanced_Fuzzing_Workshop | 5 | 0| 
 
 
 
