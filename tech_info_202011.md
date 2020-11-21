@@ -49,9 +49,9 @@
 | 20201120T23:44:21Z | cve-2020-10977 | GitLab 12.9.0 Arbitrary File Read  | https://github.com/thewhiteh4t/cve-2020-10977 | 未查询到CVE信息| 
 | 20201120T23:29:39Z | CVE-2020-13942 | CVE-2020-13942 POC + Automation Script | https://github.com/shifa123/CVE-2020-13942-POC- | 未查询到CVE信息| 
 | 20201120T21:34:13Z | CVE-2020-13942 | CVE-2020-13942 unauthenticated RCE POC through MVEL and OGNL injection | https://github.com/eugenebmx/CVE-2020-13942 | 未查询到CVE信息| 
-| 20201120T15:16:29Z | CVE-2020-15999 | CVE-2020-15999 | https://github.com/marcinguy/CVE-2020-15999 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 58 MINUTES 59 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20201120T13:47:49Z | CVE-2020-0796 | Null | https://github.com/MasterSploit/LPE---CVE-2020-0796 | Microsoft服务器消息块3.1.1（SMBv3）协议处理某些请求的方式中存在一个远程执行代码漏洞，也称为“ Windows SMBv3客户端/服务器远程执行代码漏洞”。| 
-| 20201120T12:21:56Z | CVE-2020-8277 | Null | https://github.com/masahiro331/CVE-2020-8277 | 允许攻击者触发其选择的主机的 DNS 请求的 Node.js 应用程序可以通过让应用程序解决具有更多响应的 DNS 记录来触发版本 &lt; 15.2.1、&lt; 14.15.1 和 &lt; 12.19.1 中的拒绝服务。这固定在 15.2.1、14.15.1 和 12.19.1 中。| 
+| 20201120T15:16:29Z | CVE-2020-15999 | CVE-2020-15999 | https://github.com/marcinguy/CVE-2020-15999 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 56 MINUTES 07 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201120T13:47:49Z | CVE-2020-0796 | Null | https://github.com/MasterSploit/LPE---CVE-2020-0796 | | 
+| 20201120T12:21:56Z | CVE-2020-8277 | Null | https://github.com/masahiro331/CVE-2020-8277 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 56 MINUTES 17 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20201119T13:08:09Z | CVE-2020-28054 | Advisory for CVE-2020-28054 & stack based buffer overflow in IBM Tivoli Storage Manager | https://github.com/VoidSec/Tivoli-Madness | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
 | 20201119T12:04:51Z | CVE-2020-13942 | Null | https://github.com/lp008/CVE-2020-13942 | 未查询到CVE信息| 
 | 20201118T21:48:22Z | CVE-2020-3452 | CVE-2020-3452 | https://github.com/grim3/CVE-2020-3452 | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
@@ -102,31 +102,31 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20201121T00:18:00Z | Patch PE, ELF, Mach-O binaries with shellcode new version in development, available only to sponsors | https://github.com/secretsquirrel/the-backdoor-factory | 2621 | 719| 
+| 20201120T21:09:56Z | Null | https://github.com/patterson910/real_backdoor | 0 | 0| 
+| 20201120T19:11:35Z | Deep Learning Backdoors Framework. A light-weight tool to conduct your research on backdoors. | https://github.com/ebagdasa/backdoors101 | 9 | 0| 
+| 20201120T18:44:22Z | Ghost Framework is an Android post-exploitation framework that exploits the Android Debug Bridge to remotely access an Android device. Ghost Framework gives you the power and convenience of remote Android device administration. | https://github.com/EntySec/ghost | 813 | 411| 
 | 20201120T14:21:39Z | Hides the sethc.exe backdoor. | https://github.com/PGgamer2/sethc-backdoor-hider | 1 | 1| 
 | 20201120T11:32:37Z | Thefatrat a massive exploiting tool : Easy tool to generate backdoor and easy tool to post exploitation attack like browser attack and etc . This tool compiles a malware with popular payload and then the compiled malware can be execute on windows, android, mac . The malware that created with this tool also have an ability to bypass most AV software protection . | https://github.com/Screetsec/TheFatRat | 4715 | 1578| 
-| 20201120T11:18:53Z | Ghost Framework is an Android post-exploitation framework that exploits the Android Debug Bridge to remotely access an Android device. Ghost Framework gives you the power and convenience of remote Android device administration. | https://github.com/EntySec/ghost | 812 | 410| 
 | 20201120T11:04:09Z | Unicorn Framework is an iOS, macOS and Linux post-exploitation framework that using one line command and powerful python payload attempts to spawn a command line session with a lot of features such as downloading files, uploading files, getting system information and etc. | https://github.com/EntySec/unicorn | 15 | 4| 
 | 20201120T10:06:50Z | backdoors around IoT devices | https://github.com/Cossack9989/chm_backdoor | 0 | 0| 
 | 20201120T09:12:58Z | Create payload for backdoor | https://github.com/Rohitash465/Access-OS | 0 | 0| 
 | 20201120T07:49:53Z | a backdoor in C | https://github.com/EtoYoshio/b_sektor | 0 | 0| 
-| 20201120T05:14:43Z | Patch PE, ELF, Mach-O binaries with shellcode new version in development, available only to sponsors | https://github.com/secretsquirrel/the-backdoor-factory | 2620 | 719| 
-| 20201120T04:59:50Z | A protocol capable of individually backdooring any secret communication by multiple separate state authorities. | https://github.com/fbv81bp/Law_enforcing_E2EE | 0 | 0| 
-| 20201120T03:07:40Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 97 | 11| 
 
 
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20201120T14:58:09Z | Null | https://github.com/ben-cart3r/fuzzy-toolbox | 0 | 0| 
-| 20201120T14:47:46Z | gestionPharm | https://github.com/johary25/fuzzy | 0 | 0| 
-| 20201120T14:43:45Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2212 | 109| 
-| 20201120T14:34:05Z | Null | https://github.com/AadityaSharma/fuzzy-maven-project | 0 | 0| 
-| 20201120T14:31:48Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 3236 | 748| 
-| 20201120T14:29:53Z | Null | https://github.com/AadityaSharma/fuzzy-devops-demo | 0 | 0| 
-| 20201120T14:02:41Z | SSL and TLS protocol test suite and fuzzer | https://github.com/tlsfuzzer/tlsfuzzer | 328 | 81| 
-| 20201120T13:57:05Z | Downloader for Firefox/jsshell builds for fuzzing. | https://github.com/MozillaSecurity/fuzzfetch | 8 | 10| 
-| 20201120T13:55:56Z | Null | https://github.com/nikolkam/FuzzingCSVParser | 0 | 0| 
-| 20201120T13:28:38Z | Rockyou for web fuzzing | https://github.com/six2dez/OneListForAll | 76 | 15| 
+| 20201121T00:56:43Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 28061 | 13954| 
+| 20201121T00:50:39Z | fuzzing audio adversarial attacks for voice assistant | https://github.com/Kur1su0/software_analysis_final_proj | 0 | 0| 
+| 20201121T00:45:38Z | Null | https://github.com/llFireHawkll/Fuzzy-Matcher | 0 | 0| 
+| 20201121T00:31:38Z | REST API Fuzz Testing (RAFT): Source code for self-hosted service developed for Azure, including the API, orchestration engine, and default set of security tools (including MSR%s RESTler), that enables developers to embed security tooling into their CI/CD workflows | https://github.com/microsoft/rest-api-fuzz-testing | 42 | 3| 
+| 20201121T00:00:22Z | Fuzzy matching publications for fatcat (wip). | https://github.com/miku/fuzzycat | 0 | 1| 
+| 20201120T23:45:44Z | Create new personal site | https://github.com/Temple0609/fuzzy-parakeet | 1 | 0| 
+| 20201120T23:12:43Z | Null | https://github.com/zeddzorandder/fuzzy-couscous | 0 | 0| 
+| 20201120T23:00:11Z | fuzzing (and soon benching) for precompiles | https://github.com/prestwich/smash | 3 | 1| 
+| 20201120T22:54:17Z | OSS-Fuzz - continuous fuzzing of open source software. | https://github.com/google/oss-fuzz | 5674 | 1120| 
+| 20201120T22:23:23Z | Experimental projects | https://github.com/tannmatter/fuzzy-happiness | 0 | 0| 
 
 
 
