@@ -48,13 +48,13 @@
 | --- | --- | --- | --- | ---| 
 | 20201121T13:18:03Z | CVE-2020-24227 | Playground Sessions - Storing User Credentials in Plaintext | https://github.com/nathunandwani/CVE-2020-24227 | 未查询到CVE信息| 
 | 20201121T12:15:13Z | cve-2020-10977 | GitLab 12.9.0 Arbitrary File Read  | https://github.com/thewhiteh4t/cve-2020-10977 | 未查询到CVE信息| 
-| 20201121T09:18:37Z | CVE-2020-15999 | CVE-2020-15999 | https://github.com/marcinguy/CVE-2020-15999 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 36 MINUTES 57 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20201121T09:09:47Z | CVE-2020-16947 | Outlook 2019 Remote Command Execution | https://github.com/MasterSploit/CVE-2020-16947 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 37 MINUTES 11 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201121T09:18:37Z | CVE-2020-15999 | CVE-2020-15999 | https://github.com/marcinguy/CVE-2020-15999 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 10 MINUTES 58 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201121T09:09:47Z | CVE-2020-16947 | Outlook 2019 Remote Command Execution | https://github.com/MasterSploit/CVE-2020-16947 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 11 MINUTES 06 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20201121T08:54:45Z | CVE-2020-13942 | Null | https://github.com/blackmarketer/CVE-2020-13942 | 未查询到CVE信息| 
 | 20201121T08:34:22Z | CVE-2020-13942 | CVE-2020-13942 unauthenticated RCE POC through MVEL and OGNL injection | https://github.com/eugenebmx/CVE-2020-13942 | 未查询到CVE信息| 
 | 20201121T06:04:00Z | CVE-2020-13942 | CVE-2020-13942 POC + Automation Script | https://github.com/shifa123/CVE-2020-13942-POC- | 未查询到CVE信息| 
-| 20201120T13:47:49Z | CVE-2020-0796 | Null | https://github.com/MasterSploit/LPE---CVE-2020-0796 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 37 MINUTES 08 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20201120T12:21:56Z | CVE-2020-8277 | Null | https://github.com/masahiro331/CVE-2020-8277 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 37 MINUTES 05 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201120T13:47:49Z | CVE-2020-0796 | Null | https://github.com/MasterSploit/LPE---CVE-2020-0796 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 11 MINUTES 03 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201120T12:21:56Z | CVE-2020-8277 | Null | https://github.com/masahiro331/CVE-2020-8277 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 11 MINUTES 00 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20201119T13:08:09Z | CVE-2020-28054 | Advisory for CVE-2020-28054 & stack based buffer overflow in IBM Tivoli Storage Manager | https://github.com/VoidSec/Tivoli-Madness | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
 
 
@@ -87,10 +87,10 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20201121T13:37:25Z | CTF竞赛权威指南(Pwn篇) | https://github.com/firmianay/CTF-All-In-One | 2160 | 442| 
 | 20201121T12:57:08Z | Official repository of the paper %Exploiting Food Embeddings for Ingredient Substitution%. | https://github.com/ChantalMP/Exploiting-Food-Embeddings-for-Ingredient-Substitution | 1 | 0| 
 | 20201121T12:54:50Z | Exploring the MSAs through the lens of social events by exploiting data obtained from Meetup API | https://github.com/CIT-ee/Exploring-MSA-Meetup-Characteristics | 0 | 0| 
 | 20201121T12:49:04Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 6 | 4| 
-| 20201121T12:36:11Z | CTF竞赛权威指南(Pwn篇) | https://github.com/firmianay/CTF-All-In-One | 2159 | 442| 
 | 20201121T12:19:09Z | Code for CIKM 2019 paper %Exploiting Multiple Embeddings for Chinese Named Entity Recognition%. | https://github.com/WHUIR/ME-CNER | 14 | 5| 
 | 20201121T11:53:13Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 8643 | 1352| 
 | 20201121T10:47:38Z | Null | https://github.com/juustio/Exploit | 0 | 0| 
@@ -117,16 +117,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20201121T13:46:30Z | Packer Fuzzer is a fast and efficient scanner for security detection of websites constructed by javascript module bundler such as Webpack.  | https://github.com/rtcatc/Packer-Fuzzer | 333 | 37| 
+| 20201121T13:45:10Z | Null | https://github.com/appfuzzer-study/fuzzer-frameworks | 0 | 0| 
+| 20201121T13:41:12Z | Fuzzing -- -- | https://github.com/dnsdudrla97/Fuzz | 0 | 0| 
 | 20201121T13:22:45Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 3237 | 747| 
 | 20201121T13:17:55Z | 参数 , 字典 collections | https://github.com/SmithEcon/Fuzz_dic | 166 | 49| 
-| 20201121T13:10:51Z | Fuzzing -- -- | https://github.com/dnsdudrla97/Fuzz | 0 | 0| 
 | 20201121T13:04:32Z | OSS-Fuzz - continuous fuzzing of open source software. | https://github.com/google/oss-fuzz | 5673 | 1120| 
 | 20201121T12:54:59Z | Repository holding database dumps from getfursu.it | https://github.com/veelkoov/fuzzrake-data | 0 | 0| 
 | 20201121T12:48:53Z | Randomized testing for Go | https://github.com/dvyukov/go-fuzz | 3724 | 213| 
 | 20201121T12:45:15Z | no fuzz configurator | https://github.com/roxiness/configent | 1 | 0| 
 | 20201121T12:26:52Z | Very Fast and Powerful Web Fuzzer | https://github.com/RedSecurity/power-ffuf | 1 | 0| 
-| 20201121T10:54:34Z | Packer Fuzzer is a fast and efficient scanner for security detection of websites constructed by javascript module bundler such as Webpack.  | https://github.com/rtcatc/Packer-Fuzzer | 332 | 37| 
-| 20201121T10:42:45Z | interactive `git` with the help of `fzf` | https://github.com/bigH/git-fuzzy | 1570 | 30| 
 
 
 
