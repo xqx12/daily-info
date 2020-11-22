@@ -35,6 +35,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20201122T13:38:11Z | Evolutionary Feature Synthesis (EFS), a regression method that generates readable, nonlinear models of small to medium size datasets in seconds. EFS is the fastest regression tool based on evolutionary computation reported to date. The feature search involved in the proposed method is composed of two main steps: feature composition and feature subset selection. EFS adopts a bottom-up feature composition strategy that eliminates the need for a symbolic representation of the features and exploits the variable selection process involved in pathwise regularized linear regression to perform the feature subset selection step. The result is a regression method that is competitive against neural networks, and outperforms both linear methods and Multiple Regression Genetic Programming, up to now the best regression tool based on evolutionary computation. | https://github.com/chamikasudusinghe/efs | 0 | 1| 
 | 20201122T13:36:39Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 8646 | 1355| 
 | 20201122T13:29:55Z | python3 scripts for fuzzing, exploiting buffer overflows in vulnserver | https://github.com/TMH-Sec/vulnserver-exploit-scripts | 0 | 0| 
 | 20201122T13:28:41Z | Unicorn Framework is an iOS, macOS and Linux post-exploitation framework that using one line command and powerful python payload attempts to spawn a command line session with a lot of features such as downloading files, uploading files, getting system information and etc. | https://github.com/EntySec/unicorn | 15 | 4| 
@@ -44,7 +45,6 @@
 | 20201122T12:09:49Z | Just a temporary website to post my ctf writeups and journey into binary/android exploitation/malware analysis/exploit development | https://github.com/blackbeard666/pwn_exhibit | 2 | 1| 
 | 20201122T11:39:06Z | Collection of exploits created for vulnerable programs, web applications, firmware, etc. | https://github.com/nobodyatall648/exploits | 0 | 0| 
 | 20201122T10:46:10Z | Ghost Framework is an Android post-exploitation framework that exploits the Android Debug Bridge to remotely access an Android device. Ghost Framework gives you the power and convenience of remote Android device administration. | https://github.com/EntySec/ghost | 815 | 411| 
-| 20201122T10:34:37Z | My Exploits | https://github.com/Aporlorxl23/0Days | 2 | 0| 
 
 
 # backdoor on Github 推荐
