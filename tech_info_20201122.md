@@ -63,7 +63,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20201122T13:53:07Z | This is another tutorial | https://github.com/sensuscommunis/fuzzy-broccoli | 0 | 0| 
+| 20201122T13:56:16Z | This is another tutorial | https://github.com/sensuscommunis/fuzzy-broccoli | 0 | 0| 
 | 20201122T13:37:41Z | Null | https://github.com/matin417/fuzzy-tribble | 0 | 0| 
 | 20201122T13:37:41Z | Null | https://github.com/matin417/fuzzy-meme | 0 | 0| 
 | 20201122T13:31:50Z | Personal website of Laurence Hughes | https://github.com/fuzzylogicxx/fuzzylogic | 4 | 1| 
