@@ -50,11 +50,11 @@
 | 20201122T08:58:13Z | CVE-2020-13942 | CVE-2020-13942 POC + Automation Script | https://github.com/shifa123/CVE-2020-13942-POC- | 未查询到CVE信息| 
 | 20201122T03:04:29Z | cve-2020-27955 | Null | https://github.com/yhsung/cve-2020-27955-poc | 未查询到CVE信息| 
 | 20201121T17:00:07Z | CVE-2020-13942 | CVE-2020-13942 unauthenticated RCE POC through MVEL and OGNL injection | https://github.com/eugenebmx/CVE-2020-13942 | 未查询到CVE信息| 
-| 20201121T14:31:19Z | CVE-2020-23489 | RCE exploit for AVideo < 8.9 (CVE-2020-23489 & CVE-2020-23490) | https://github.com/ahussam/AVideo3xploit | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 44 MINUTES 32 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201121T14:31:19Z | CVE-2020-23489 | RCE exploit for AVideo < 8.9 (CVE-2020-23489 & CVE-2020-23490) | https://github.com/ahussam/AVideo3xploit | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 42 MINUTES 31 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20201121T13:18:03Z | CVE-2020-24227 | Playground Sessions - Storing User Credentials in Plaintext | https://github.com/nathunandwani/CVE-2020-24227 | 未查询到CVE信息| 
 | 20201121T12:15:13Z | cve-2020-10977 | GitLab 12.9.0 Arbitrary File Read  | https://github.com/thewhiteh4t/cve-2020-10977 | 未查询到CVE信息| 
-| 20201121T09:18:37Z | CVE-2020-15999 | CVE-2020-15999 | https://github.com/marcinguy/CVE-2020-15999 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 44 MINUTES 34 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20201121T09:09:47Z | CVE-2020-16947 | Outlook 2019 Remote Command Execution | https://github.com/MasterSploit/CVE-2020-16947 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 44 MINUTES 43 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201121T09:18:37Z | CVE-2020-15999 | CVE-2020-15999 | https://github.com/marcinguy/CVE-2020-15999 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 42 MINUTES 33 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201121T09:09:47Z | CVE-2020-16947 | Outlook 2019 Remote Command Execution | https://github.com/MasterSploit/CVE-2020-16947 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 42 MINUTES 43 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20201121T08:54:45Z | CVE-2020-13942 | Null | https://github.com/blackmarketer/CVE-2020-13942 | 未查询到CVE信息| 
 
 
@@ -87,7 +87,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20201122T13:12:45Z | Unicorn Framework is an iOS, macOS and Linux post-exploitation framework that using one line command and powerful python payload attempts to spawn a command line session with a lot of features such as downloading files, uploading files, getting system information and etc. | https://github.com/EntySec/unicorn | 15 | 4| 
+| 20201122T13:17:21Z | Unicorn Framework is an iOS, macOS and Linux post-exploitation framework that using one line command and powerful python payload attempts to spawn a command line session with a lot of features such as downloading files, uploading files, getting system information and etc. | https://github.com/EntySec/unicorn | 15 | 4| 
 | 20201122T12:45:45Z | Null | https://github.com/Manoj983/simple_buffer_overflow_exploit | 1 | 0| 
 | 20201122T12:23:57Z | blog repository (nonetype.kr) | https://github.com/nonetype/nonetype.github.io | 0 | 0| 
 | 20201122T12:23:51Z | ExpressJS backed application to exploit a home-made digital library blockchain  | https://github.com/queezzy/BIB-BLOCK-APP | 0 | 0| 
@@ -102,7 +102,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20201122T13:12:45Z | Unicorn Framework is an iOS, macOS and Linux post-exploitation framework that using one line command and powerful python payload attempts to spawn a command line session with a lot of features such as downloading files, uploading files, getting system information and etc. | https://github.com/EntySec/unicorn | 15 | 4| 
+| 20201122T13:17:21Z | Unicorn Framework is an iOS, macOS and Linux post-exploitation framework that using one line command and powerful python payload attempts to spawn a command line session with a lot of features such as downloading files, uploading files, getting system information and etc. | https://github.com/EntySec/unicorn | 15 | 4| 
 | 20201122T11:52:02Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 106 | 11| 
 | 20201122T11:18:55Z | Hides the sethc.exe backdoor by faking the original window. | https://github.com/PGgamer2/sethc-backdoor-hider | 1 | 1| 
 | 20201122T10:46:10Z | Ghost Framework is an Android post-exploitation framework that exploits the Android Debug Bridge to remotely access an Android device. Ghost Framework gives you the power and convenience of remote Android device administration. | https://github.com/EntySec/ghost | 815 | 411| 
