@@ -54,7 +54,6 @@
 | --- | --- | --- | --- | ---| 
 | 20201122T19:22:16Z | backdoortst e um auxilia do msf desenvolvido para facilita os usuarios a criar um payload | https://github.com/shoowl/backdoortst | 2 | 1| 
 | 20201122T18:03:04Z | Unicorn Framework is an iOS, macOS and Linux post-exploitation framework that using one line command and powerful python payload attempts to spawn a command line session with a lot of features such as downloading files, uploading files, getting system information and etc. | https://github.com/EntySec/unicorn | 17 | 4| 
-| 20201122T15:10:54Z | Ghost Framework is an Android post-exploitation framework that exploits the Android Debug Bridge to remotely access an Android device. Ghost Framework gives you the power and convenience of remote Android device administration. | https://github.com/EntySec/ghost | 818 | 412| 
 | 20201122T13:24:07Z | Null | https://github.com/MitchellvdKlij/python-backdoor | 0 | 0| 
 | 20201122T11:52:02Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 106 | 11| 
 | 20201122T11:18:55Z | Hides the sethc.exe backdoor by faking the original window. | https://github.com/PGgamer2/sethc-backdoor-hider | 1 | 1| 
