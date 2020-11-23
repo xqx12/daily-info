@@ -47,14 +47,14 @@
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
 | 20201122T15:47:59Z | CVE-2020-13942 | CVE-2020-13942 unauthenticated RCE POC through MVEL and OGNL injection | https://github.com/eugenebmx/CVE-2020-13942 | 未查询到CVE信息| 
-| 20201122T10:36:22Z | cve-2020-13957 | ARCHIVED DUE TO NOT_SUPPORTED in XRAY | https://github.com/MagicPiperSec/xray-poc-cve-2020-13957 | | 
+| 20201122T10:36:22Z | cve-2020-13957 | ARCHIVED DUE TO NOT_SUPPORTED in XRAY | https://github.com/MagicPiperSec/xray-poc-cve-2020-13957 | 未查询到CVE信息| 
 | 20201122T08:58:13Z | CVE-2020-13942 | CVE-2020-13942 POC + Automation Script | https://github.com/shifa123/CVE-2020-13942-POC- | 未查询到CVE信息| 
 | 20201122T03:04:29Z | cve-2020-27955 | Null | https://github.com/yhsung/cve-2020-27955-poc | 未查询到CVE信息| 
-| 20201121T14:31:19Z | CVE-2020-23489 | RCE exploit for AVideo < 8.9 (CVE-2020-23489 & CVE-2020-23490) | https://github.com/ahussam/AVideo3xploit | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 27 MINUTES 31 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20201121T13:18:03Z | CVE-2020-24227 | Playground Sessions - Storing User Credentials in Plaintext | https://github.com/nathunandwani/CVE-2020-24227 | 未查询到CVE信息| 
+| 20201121T14:31:19Z | CVE-2020-23489 | RCE exploit for AVideo < 8.9 (CVE-2020-23489 & CVE-2020-23490) | https://github.com/ahussam/AVideo3xploit | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 25 MINUTES 29 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201121T13:18:03Z | CVE-2020-24227 | Playground Sessions - Storing User Credentials in Plaintext | https://github.com/nathunandwani/CVE-2020-24227 | | 
 | 20201121T12:15:13Z | cve-2020-10977 | GitLab 12.9.0 Arbitrary File Read  | https://github.com/thewhiteh4t/cve-2020-10977 | 未查询到CVE信息| 
-| 20201121T09:18:37Z | CVE-2020-15999 | CVE-2020-15999 | https://github.com/marcinguy/CVE-2020-15999 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 27 MINUTES 34 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20201121T09:09:47Z | CVE-2020-16947 | Outlook 2019 Remote Command Execution | https://github.com/MasterSploit/CVE-2020-16947 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 27 MINUTES 43 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201121T09:18:37Z | CVE-2020-15999 | CVE-2020-15999 | https://github.com/marcinguy/CVE-2020-15999 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 25 MINUTES 32 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201121T09:09:47Z | CVE-2020-16947 | Outlook 2019 Remote Command Execution | https://github.com/MasterSploit/CVE-2020-16947 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 24 MINUTES 44 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20201121T08:54:45Z | CVE-2020-13942 | Null | https://github.com/blackmarketer/CVE-2020-13942 | 未查询到CVE信息| 
 
 
@@ -117,6 +117,8 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20201123T01:33:55Z | Null | https://github.com/WeeYL/creative_fuzzbuzz | 0 | 0| 
+| 20201123T01:33:12Z | Dictionary collection project such as Pentesing, Fuzzing, Bruteforce and BugBounty. 渗透测试、SRC漏洞挖掘、爆破、Fuzzing等字典收集项目。 | https://github.com/insightglacier/Dictionary-Of-Pentesting | 326 | 85| 
 | 20201123T00:19:58Z | Null | https://github.com/igorcm3/LogicaFuzzy | 0 | 0| 
 | 20201122T23:55:16Z | A fuzzing library for C# | https://github.com/pensono/FuzzDotNet | 1 | 0| 
 | 20201122T23:53:15Z | Null | https://github.com/zoo1alex/fuzzy | 0 | 0| 
@@ -125,8 +127,6 @@
 | 20201122T20:44:59Z | Null | https://github.com/Peppinezzz/fuzzy-memory | 0 | 0| 
 | 20201122T20:22:26Z | Personal website of Laurence Hughes | https://github.com/fuzzylogicxx/fuzzylogic | 4 | 1| 
 | 20201122T19:56:38Z | OSS-Fuzz - continuous fuzzing of open source software. | https://github.com/google/oss-fuzz | 5674 | 1122| 
-| 20201122T19:54:47Z | A human-readable clock for the Gnome-Shell panel | https://github.com/dallagi/gnome-shell-fuzzy-clock | 4 | 2| 
-| 20201122T19:51:42Z | A fuzzy-finder powered command-line tool to fetch content with youtube-dl | https://github.com/ZalgoNoise/fuzzydl | 0 | 0| 
 
 
 
