@@ -6,6 +6,7 @@
 # 玄武实验室 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20201122 | 使用GAN共享网络时间序列数据：挑战，初步承诺和未解决的问题，IMC 2020 (最佳论文入围). | https://github.com/fjxmlzn/DoppelGANger| 
 | 20201120 | HITBCyberWeek 2020 会议的议题 PPT 公开了 | https://cyberweek.ae/materials/2020/| 
 | 20201120 | Android 版本的 Facebook Messenger 被发现存在漏洞，攻击者可以发送恶意消息在接听者确认之前建立通话连接 | https://bugs.chromium.org/p/project-zero/issues/detail?id=2098| 
 | 20201120 | 响尾蛇APT组织利用“一带一路”话题针对相关参会人员发起网络攻击 | http://ti.dbappsecurity.com.cn/blog/index.php/2020/11/19/sidewinder-attack-with-the-belt-and-road/| 
@@ -25,7 +26,6 @@
 | 20201119 | 一键辅助抓取 360 安全浏览器密码的 CobaltStrike 脚本 | http://github.com/hayasec/360SafeBrowsergetpass| 
 | 20201118 | Apache Unomi CVE-2020-13942 RCE 漏洞分析 | https://securityboulevard.com/2020/11/apache-unomi-cve-2020-13942-rce-vulnerabilities-discovered/| 
 | 20201118 | VoltPillager - 针对 Intel SGX enclaves 的硬件级攻击 | https://securityaffairs.co/wordpress/111033/hacking/voltpillager-attack-intel-sgx.html| 
-| 20201118 | SmartStoreNET RCE 漏洞分析 | https://securitylab.github.com/advisories/GHSL-2020-138-139-SmartstoreAG-SmartStoreNET/| 
 
 
 # 安全维基 推荐
@@ -46,15 +46,15 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20201122T15:47:59Z | CVE-2020-13942 | CVE-2020-13942 unauthenticated RCE POC through MVEL and OGNL injection | https://github.com/eugenebmx/CVE-2020-13942 | 未查询到CVE信息| 
 | 20201122T10:36:22Z | cve-2020-13957 | ARCHIVED DUE TO NOT_SUPPORTED in XRAY | https://github.com/MagicPiperSec/xray-poc-cve-2020-13957 | 未查询到CVE信息| 
 | 20201122T08:58:13Z | CVE-2020-13942 | CVE-2020-13942 POC + Automation Script | https://github.com/shifa123/CVE-2020-13942-POC- | 未查询到CVE信息| 
 | 20201122T03:04:29Z | cve-2020-27955 | Null | https://github.com/yhsung/cve-2020-27955-poc | 未查询到CVE信息| 
-| 20201121T17:00:07Z | CVE-2020-13942 | CVE-2020-13942 unauthenticated RCE POC through MVEL and OGNL injection | https://github.com/eugenebmx/CVE-2020-13942 | 未查询到CVE信息| 
-| 20201121T14:31:19Z | CVE-2020-23489 | RCE exploit for AVideo < 8.9 (CVE-2020-23489 & CVE-2020-23490) | https://github.com/ahussam/AVideo3xploit | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 01 MINUTES 27 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201121T14:31:19Z | CVE-2020-23489 | RCE exploit for AVideo < 8.9 (CVE-2020-23489 & CVE-2020-23490) | https://github.com/ahussam/AVideo3xploit | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 59 MINUTES 23 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20201121T13:18:03Z | CVE-2020-24227 | Playground Sessions - Storing User Credentials in Plaintext | https://github.com/nathunandwani/CVE-2020-24227 | 未查询到CVE信息| 
 | 20201121T12:15:13Z | cve-2020-10977 | GitLab 12.9.0 Arbitrary File Read  | https://github.com/thewhiteh4t/cve-2020-10977 | 未查询到CVE信息| 
-| 20201121T09:18:37Z | CVE-2020-15999 | CVE-2020-15999 | https://github.com/marcinguy/CVE-2020-15999 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 01 MINUTES 29 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20201121T09:09:47Z | CVE-2020-16947 | Outlook 2019 Remote Command Execution | https://github.com/MasterSploit/CVE-2020-16947 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 01 MINUTES 37 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201121T09:18:37Z | CVE-2020-15999 | CVE-2020-15999 | https://github.com/marcinguy/CVE-2020-15999 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 59 MINUTES 26 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201121T09:09:47Z | CVE-2020-16947 | Outlook 2019 Remote Command Execution | https://github.com/MasterSploit/CVE-2020-16947 | 当该软件无法正确处理内存中的对象时，Microsoft Outlook软件中便存在一个远程执行代码漏洞，也就是“ Microsoft Outlook远程执行代码漏洞”。| 
 | 20201121T08:54:45Z | CVE-2020-13942 | Null | https://github.com/blackmarketer/CVE-2020-13942 | 未查询到CVE信息| 
 
 
@@ -87,29 +87,29 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20201122T13:53:01Z | Cyclone Framework is an iOS post-exploitation framework that using one line command and powerful payload attempts to spawn a command line session with a lot of features such as downloading files, uploading files, getting system information and etc. | https://github.com/EntySec/cyclone | 3 | 2| 
-| 20201122T13:52:44Z | Ghost Framework is an Android post-exploitation framework that exploits the Android Debug Bridge to remotely access an Android device. Ghost Framework gives you the power and convenience of remote Android device administration. | https://github.com/EntySec/ghost | 816 | 411| 
-| 20201122T13:52:37Z | Unicorn Framework is an iOS, macOS and Linux post-exploitation framework that using one line command and powerful python payload attempts to spawn a command line session with a lot of features such as downloading files, uploading files, getting system information and etc. | https://github.com/EntySec/unicorn | 16 | 4| 
-| 20201122T13:38:11Z | Evolutionary Feature Synthesis (EFS), a regression method that generates readable, nonlinear models of small to medium size datasets in seconds. EFS is the fastest regression tool based on evolutionary computation reported to date. The feature search involved in the proposed method is composed of two main steps: feature composition and feature subset selection. EFS adopts a bottom-up feature composition strategy that eliminates the need for a symbolic representation of the features and exploits the variable selection process involved in pathwise regularized linear regression to perform the feature subset selection step. The result is a regression method that is competitive against neural networks, and outperforms both linear methods and Multiple Regression Genetic Programming, up to now the best regression tool based on evolutionary computation. | https://github.com/chamikasudusinghe/efs | 0 | 1| 
-| 20201122T13:36:39Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 8646 | 1355| 
-| 20201122T13:29:55Z | python3 scripts for fuzzing, exploiting buffer overflows in vulnserver | https://github.com/TMH-Sec/vulnserver-exploit-scripts | 0 | 0| 
-| 20201122T12:45:45Z | Null | https://github.com/Manoj983/simple_buffer_overflow_exploit | 1 | 0| 
-| 20201122T12:23:57Z | blog repository (nonetype.kr) | https://github.com/nonetype/nonetype.github.io | 0 | 0| 
-| 20201122T12:23:51Z | ExpressJS backed application to exploit a home-made digital library blockchain  | https://github.com/queezzy/BIB-BLOCK-APP | 0 | 0| 
-| 20201122T12:09:49Z | Just a temporary website to post my ctf writeups and journey into binary/android exploitation/malware analysis/exploit development | https://github.com/blackbeard666/pwn_exhibit | 2 | 1| 
+| 20201123T00:42:11Z | Null | https://github.com/C0wnuts/webExploitPages | 0 | 0| 
+| 20201123T00:03:29Z | A list of everything you need to be successful as an Ethical Hacker.  The best resources, exploits, payloads, and strategies that I%ve used to advance my skills and knowledge at a Penetration Tester. | https://github.com/Kennyslaboratory/Hacker-Heaven | 1 | 0| 
+| 20201122T23:04:34Z | windows and linux streams for post exploitation | https://github.com/kymb0/post_exploitation | 1 | 0| 
+| 20201122T22:36:33Z | thewhiteh4t%s Blog | https://github.com/thewhiteh4t/thewhiteh4t.github.io | 11 | 3| 
+| 20201122T22:21:30Z | A series of CTF/hacking challenge solutions for binary exploitation(or pwn)/reverse engineering/vulnerability research/memory corruption(or whatever term you use) | https://github.com/docfate111/binary-exploitation-solution-scripts | 0 | 0| 
+| 20201122T22:13:29Z | fix exploits on anarchy server | https://github.com/moom0o/AnarchyExploitFixes | 7 | 3| 
+| 20201122T22:11:43Z | Labs to learn exploiting | https://github.com/aliakyurek/exploit_labs | 0 | 0| 
+| 20201122T22:00:49Z | A cheat sheet that contains common enumeration and attack methods for Windows Active Directory. | https://github.com/S1ckB0y1337/Active-Directory-Exploitation-Cheat-Sheet | 838 | 223| 
+| 20201122T21:30:06Z | Cyclone Framework is an iOS post-exploitation framework that using one line command and powerful payload attempts to spawn a command line session with a lot of features such as downloading files, uploading files, getting system information and etc. | https://github.com/EntySec/cyclone | 5 | 1| 
+| 20201122T21:22:25Z | InjRobot - Powerfull web tool for scans and exploits SQL Injection web vulnerability. | https://github.com/tariqhawis/injrobot | 0 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20201122T13:52:44Z | Ghost Framework is an Android post-exploitation framework that exploits the Android Debug Bridge to remotely access an Android device. Ghost Framework gives you the power and convenience of remote Android device administration. | https://github.com/EntySec/ghost | 816 | 411| 
-| 20201122T13:52:37Z | Unicorn Framework is an iOS, macOS and Linux post-exploitation framework that using one line command and powerful python payload attempts to spawn a command line session with a lot of features such as downloading files, uploading files, getting system information and etc. | https://github.com/EntySec/unicorn | 16 | 4| 
+| 20201122T19:22:16Z | backdoortst e um auxilia do msf desenvolvido para facilita os usuarios a criar um payload | https://github.com/shoowl/backdoortst | 2 | 1| 
+| 20201122T18:03:04Z | Unicorn Framework is an iOS, macOS and Linux post-exploitation framework that using one line command and powerful python payload attempts to spawn a command line session with a lot of features such as downloading files, uploading files, getting system information and etc. | https://github.com/EntySec/unicorn | 17 | 4| 
+| 20201122T15:10:54Z | Ghost Framework is an Android post-exploitation framework that exploits the Android Debug Bridge to remotely access an Android device. Ghost Framework gives you the power and convenience of remote Android device administration. | https://github.com/EntySec/ghost | 818 | 412| 
 | 20201122T13:24:07Z | Null | https://github.com/MitchellvdKlij/python-backdoor | 0 | 0| 
 | 20201122T11:52:02Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 106 | 11| 
 | 20201122T11:18:55Z | Hides the sethc.exe backdoor by faking the original window. | https://github.com/PGgamer2/sethc-backdoor-hider | 1 | 1| 
 | 20201122T03:15:11Z | Deep Learning Backdoors Framework. A light-weight tool to conduct your research on backdoors. | https://github.com/ebagdasa/backdoors101 | 9 | 0| 
 | 20201122T01:35:00Z | Code for %Label-Consistent Backdoor Attacks% | https://github.com/MadryLab/label-consistent-backdoor-code | 0 | 0| 
-| 20201122T00:06:46Z | backdoortst e um auxilia do msf desenvolvido para facilita os usuarios a criar um payload | https://github.com/shoowl/backdoortst | 2 | 1| 
 | 20201121T22:07:58Z | A deck-building roguelike cyberpunk game. | https://github.com/uspgamedev/backdoor | 19 | 3| 
 | 20201121T22:07:09Z | A Backdoor written in Python 3 that enables the attacker to execute commands on the remote machine being undetectable. | https://github.com/Ryan-AW/Backdoor-Trojan | 3 | 2| 
 
@@ -117,16 +117,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20201122T13:56:16Z | This is another tutorial | https://github.com/sensuscommunis/fuzzy-broccoli | 0 | 0| 
-| 20201122T13:37:41Z | Null | https://github.com/matin417/fuzzy-tribble | 0 | 0| 
-| 20201122T13:37:41Z | Null | https://github.com/matin417/fuzzy-meme | 0 | 0| 
-| 20201122T13:31:50Z | Personal website of Laurence Hughes | https://github.com/fuzzylogicxx/fuzzylogic | 4 | 1| 
-| 20201122T13:29:55Z | python3 scripts for fuzzing, exploiting buffer overflows in vulnserver | https://github.com/TMH-Sec/vulnserver-exploit-scripts | 0 | 0| 
-| 20201122T12:27:25Z | RESTler is the first stateful REST API fuzzing tool for automatically testing cloud services through their REST APIs and finding security and reliability bugs in these services. | https://github.com/microsoft/restler-fuzzer | 138 | 10| 
-| 20201122T12:10:26Z | Simple tool to rename source files by matching a list of choices. | https://github.com/pcjco/PyFuzzy-renamer | 0 | 0| 
-| 20201122T12:09:16Z | Intent recognition library for Rhasspy using fuzzywuzzy | https://github.com/rhasspy/rhasspy-fuzzywuzzy | 0 | 1| 
-| 20201122T11:37:32Z | A fast web fuzzer in golang | https://github.com/neonify/lessgo | 1 | 0| 
-| 20201122T11:28:48Z | Null | https://github.com/mrkaurelius/fuzzykafe | 0 | 0| 
+| 20201123T00:19:58Z | Null | https://github.com/igorcm3/LogicaFuzzy | 0 | 0| 
+| 20201122T23:55:16Z | A fuzzing library for C# | https://github.com/pensono/FuzzDotNet | 1 | 0| 
+| 20201122T23:53:15Z | Null | https://github.com/zoo1alex/fuzzy | 0 | 0| 
+| 20201122T22:35:18Z | This tool helps match accounts/HCPs with each other based on distance between them. The tool uses geocodes from Open street maps (https://nominatim.openstreetmap.org/search) and US Census Bureau (https://geocoding.geo.census.gov/geocoder/locations/onelineaddress). It finds distance between the addresses based on the [haversine distance](https://en.wikipedia.org/wiki/Haversine_formula) | https://github.com/arunamenon/Geocoding-for-fuzzy-match-to-find-similar-addresses | 0 | 0| 
+| 20201122T21:06:03Z | Diverse, the Fuzzer pico library you need to make your .NET tests more Diverse | https://github.com/42skillz/Diverse | 0 | 0| 
+| 20201122T20:44:59Z | Null | https://github.com/Peppinezzz/fuzzy-memory | 0 | 0| 
+| 20201122T20:22:26Z | Personal website of Laurence Hughes | https://github.com/fuzzylogicxx/fuzzylogic | 4 | 1| 
+| 20201122T19:56:38Z | OSS-Fuzz - continuous fuzzing of open source software. | https://github.com/google/oss-fuzz | 5674 | 1122| 
+| 20201122T19:54:47Z | A human-readable clock for the Gnome-Shell panel | https://github.com/dallagi/gnome-shell-fuzzy-clock | 4 | 2| 
+| 20201122T19:51:42Z | A fuzzy-finder powered command-line tool to fetch content with youtube-dl | https://github.com/ZalgoNoise/fuzzydl | 0 | 0| 
 
 
 
