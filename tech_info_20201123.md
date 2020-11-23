@@ -48,6 +48,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20201123T13:58:26Z | Repo with the content of my kernel exploit presentation | https://github.com/Viana2021/Kernel-Presentation | 0 | 0| 
 | 20201123T13:45:54Z | Exploiting constant trace property in large-scale polynomial optimization | https://github.com/maihoanganh/ctpPOP | 0 | 0| 
 | 20201123T13:41:34Z | Just a temporary website to post my ctf writeups and journey into binary exploitation/malware analysis/exploit development | https://github.com/blackbeard666/blackbeard666.github.io | 0 | 0| 
 | 20201123T13:31:27Z | blog repository (nonetype.kr) | https://github.com/nonetype/nonetype.github.io | 0 | 0| 
@@ -57,7 +58,6 @@
 | 20201123T12:31:40Z | JSshell - JavaScript reverse/remote shell | https://github.com/shelld3v/JSshell | 131 | 32| 
 | 20201123T12:18:17Z | https://my.ine.com/CyberSecurity/courses/5810c2ff/penetration-testing-preliminary-skills-programming | https://github.com/abdullah-baghuth/Python-assisted-exploitation | 0 | 0| 
 | 20201123T12:16:55Z | Null | https://github.com/abdullah-baghuth/Cpp-assisted-exploitation | 0 | 0| 
-| 20201123T11:43:21Z | Various local exploits | https://github.com/bcoles/local-exploits | 79 | 37| 
 
 
 # backdoor on Github 推荐
