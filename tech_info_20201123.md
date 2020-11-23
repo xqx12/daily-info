@@ -30,7 +30,7 @@
 | --- | --- | --- | --- | ---| 
 | 20201123T13:50:07Z | CVE-2020-13942 | Null | https://github.com/blackmarketer/CVE-2020-13942 | 未查询到CVE信息| 
 | 20201123T13:02:18Z | CVE-2020-8277 | Poc for CVE-2020-8277 | https://github.com/LFYSec/CVE-2020-8277 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 47 MINUTES 42 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20201123T12:24:35Z | CVE-2020-1034 | PoC demonstrating the use of cve-2020-1034 for privilege escalation | https://github.com/yardenshafir/CVE-2020-1034 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 08 MINUTES 41 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201123T12:24:35Z | CVE-2020-1034 | PoC demonstrating the use of cve-2020-1034 for privilege escalation | https://github.com/yardenshafir/CVE-2020-1034 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 06 MINUTES 39 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20201123T10:28:17Z | CVE-2020-13942 | Null | https://github.com/lp008/CVE-2020-13942 | 未查询到CVE信息| 
 
 
@@ -63,7 +63,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20201123T13:51:02Z | little backdoor... 😎 | https://github.com/antoinegilles/backdoor | 0 | 0| 
+| 20201123T13:52:35Z | little backdoor... 😎 | https://github.com/antoinegilles/backdoor | 0 | 0| 
 | 20201123T13:26:26Z | Null | https://github.com/rtykholiz/backdoors | 0 | 0| 
 | 20201123T08:00:58Z | Ghost Framework is an Android post-exploitation framework that exploits the Android Debug Bridge to remotely access an Android device. Ghost Framework gives you the power and convenience of remote Android device administration. | https://github.com/EntySec/ghost | 820 | 412| 
 | 20201123T07:19:09Z | FUD cross-platform python2 backdoor with C2 | https://github.com/7h3w4lk3r/pyback | 10 | 5| 
@@ -72,7 +72,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20201123T13:43:22Z | ProgramDanaBantuan_FuzzyLogic Program akan Menghitung nilai kelayakan individu menggunakan fuzzy logic model Sugeno untuk mendapatkan Dana Bantuan. Program akan membaca file excel yang berisi dua atribut Penghasilan & Pengeluaran, dengan output akhir adalah file excel berisi 20 list ID kandidat penerima dana bantuan. | https://github.com/liezliez/ProgramDanaBantuan_FuzzyLogic | 0 | 0| 
+| 20201123T13:45:54Z | ProgramDanaBantuan_FuzzyLogic Program akan Menghitung nilai kelayakan individu menggunakan fuzzy logic model Sugeno untuk mendapatkan Dana Bantuan. Program akan membaca file excel yang berisi dua atribut Penghasilan & Pengeluaran, dengan output akhir adalah file excel berisi 20 list ID kandidat penerima dana bantuan. | https://github.com/liezliez/ProgramDanaBantuan_FuzzyLogic | 0 | 0| 
 | 20201123T13:36:49Z | Packer Fuzzer is a fast and efficient scanner for security detection of websites constructed by javascript module bundler such as Webpack.  | https://github.com/rtcatc/Packer-Fuzzer | 359 | 41| 
 | 20201123T13:30:14Z | Null | https://github.com/s9varesc/url-fuzzing | 0 | 0| 
 | 20201123T12:42:33Z | Diverse, the Fuzzer pico library you need to make your .NET tests more Diverse | https://github.com/42skillz/Diverse | 2 | 0| 
