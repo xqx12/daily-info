@@ -50,10 +50,10 @@
 | 20201122T10:36:22Z | cve-2020-13957 | ARCHIVED DUE TO NOT_SUPPORTED in XRAY | https://github.com/MagicPiperSec/xray-poc-cve-2020-13957 | 未查询到CVE信息| 
 | 20201122T08:58:13Z | CVE-2020-13942 | CVE-2020-13942 POC + Automation Script | https://github.com/shifa123/CVE-2020-13942-POC- | 未查询到CVE信息| 
 | 20201122T03:04:29Z | cve-2020-27955 | Null | https://github.com/yhsung/cve-2020-27955-poc | | 
-| 20201121T14:31:19Z | CVE-2020-23489 | RCE exploit for AVideo < 8.9 (CVE-2020-23489 & CVE-2020-23490) | https://github.com/ahussam/AVideo3xploit | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 19 MINUTES 22 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201121T14:31:19Z | CVE-2020-23489 | RCE exploit for AVideo < 8.9 (CVE-2020-23489 & CVE-2020-23490) | https://github.com/ahussam/AVideo3xploit | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 18 MINUTES 31 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20201121T13:18:03Z | CVE-2020-24227 | Playground Sessions - Storing User Credentials in Plaintext | https://github.com/nathunandwani/CVE-2020-24227 | 未查询到CVE信息| 
 | 20201121T12:15:13Z | cve-2020-10977 | GitLab 12.9.0 Arbitrary File Read  | https://github.com/thewhiteh4t/cve-2020-10977 | 未查询到CVE信息| 
-| 20201121T09:18:37Z | CVE-2020-15999 | CVE-2020-15999 | https://github.com/marcinguy/CVE-2020-15999 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 19 MINUTES 25 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201121T09:18:37Z | CVE-2020-15999 | CVE-2020-15999 | https://github.com/marcinguy/CVE-2020-15999 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 18 MINUTES 34 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20201121T09:09:47Z | CVE-2020-16947 | Outlook 2019 Remote Command Execution | https://github.com/MasterSploit/CVE-2020-16947 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 18 MINUTES 44 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20201121T08:54:45Z | CVE-2020-13942 | Null | https://github.com/blackmarketer/CVE-2020-13942 | 未查询到CVE信息| 
 
@@ -61,6 +61,7 @@
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20201123T02:41:00Z | Create CFGs and compute complexity metrics for Python, C++, and Java code. | https://github.com/hmc-alpaqa/metrinome | 5 | 0| 
 | 20201122T04:18:36Z | Urban Evidence Based Policy (SPPA667) | https://github.com/KLeeDE/PUS2020_KLee | 0 | 1| 
 | 20201121T23:04:00Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1546 | 472| 
 | 20201121T10:18:22Z | Null | https://github.com/klee-chan/klee-chan.github.io | 0 | 0| 
@@ -70,7 +71,6 @@
 | 20201119T14:13:32Z | ⬇️ File Upload/sharing application, used by thousands of webmasters since 2007.  | https://github.com/kleeja-official/kleeja | 103 | 31| 
 | 20201118T23:28:32Z | C library to support Map2Check Tool | https://github.com/hbgit/map2check-library | 0 | 0| 
 | 20201118T18:49:25Z | Null | https://github.com/mitchklee35/MitchKlee.com | 0 | 0| 
-| 20201118T06:37:15Z | RVT is a collection of tools/libraries to support both static and dynamic verification of Rust programs. | https://github.com/project-oak/rust-verification-tools | 98 | 5| 
 
 
 # s2e on Github 推荐
