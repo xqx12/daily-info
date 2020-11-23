@@ -28,7 +28,7 @@
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
 | 20201123T13:02:18Z | CVE-2020-8277 | Poc for CVE-2020-8277 | https://github.com/LFYSec/CVE-2020-8277 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 47 MINUTES 42 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20201123T12:24:35Z | CVE-2020-1034 | PoC demonstrating the use of cve-2020-1034 for privilege escalation | https://github.com/yardenshafir/CVE-2020-1034 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 31 MINUTES 43 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201123T12:24:35Z | CVE-2020-1034 | PoC demonstrating the use of cve-2020-1034 for privilege escalation | https://github.com/yardenshafir/CVE-2020-1034 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 29 MINUTES 43 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20201123T10:28:17Z | CVE-2020-13942 | Null | https://github.com/lp008/CVE-2020-13942 | 未查询到CVE信息| 
 
 
@@ -69,6 +69,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20201123T13:30:14Z | Null | https://github.com/s9varesc/url-fuzzing | 0 | 0| 
 | 20201123T13:26:52Z | Program akan Menghitung nilai kelayakan individu untuk mendapatkan Dana Bantuan. Program akan membaca file excel yang berisi dua atribut Penghasilan & Pengeluaran, dengan output akhir adalah file excel berisi 20 list ID kandidat penerima dana bantuan. | https://github.com/liezliez/ProgramDanaBantuan_FuzzyLogic | 0 | 0| 
 | 20201123T12:42:33Z | Diverse, the Fuzzer pico library you need to make your .NET tests more Diverse | https://github.com/42skillz/Diverse | 2 | 0| 
 | 20201123T12:39:24Z | Null | https://github.com/aryadipramarta/FuzzyLogic-Implementation | 0 | 0| 
@@ -78,7 +79,6 @@
 | 20201123T11:12:48Z | Kernel fuzzer inspired by Syzkaller | https://github.com/SunHao-0/healer | 12 | 1| 
 | 20201123T11:10:02Z | Null | https://github.com/fuzzylabs/fuzzy-run-challenge | 0 | 0| 
 | 20201123T10:34:53Z | Null | https://github.com/linustengey/fuzzy-couscous | 0 | 0| 
-| 20201123T10:05:12Z | Fuzz test your REST API calls | https://github.com/meeshkan/unmock-js | 78 | 5| 
 
 
 
