@@ -28,7 +28,7 @@
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
 | 20201123T13:02:18Z | CVE-2020-8277 | Poc for CVE-2020-8277 | https://github.com/LFYSec/CVE-2020-8277 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 47 MINUTES 42 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20201123T12:24:35Z | CVE-2020-1034 | PoC demonstrating the use of cve-2020-1034 for privilege escalation | https://github.com/yardenshafir/CVE-2020-1034 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 29 MINUTES 43 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201123T12:24:35Z | CVE-2020-1034 | PoC demonstrating the use of cve-2020-1034 for privilege escalation | https://github.com/yardenshafir/CVE-2020-1034 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 28 MINUTES 44 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20201123T10:28:17Z | CVE-2020-13942 | Null | https://github.com/lp008/CVE-2020-13942 | 未查询到CVE信息| 
 
 
@@ -46,6 +46,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20201123T13:31:27Z | blog repository (nonetype.kr) | https://github.com/nonetype/nonetype.github.io | 0 | 0| 
 | 20201123T13:14:23Z | Labs to learn exploiting | https://github.com/aliakyurek/exploit_labs | 0 | 0| 
 | 20201123T12:58:05Z | @DarkValley | https://github.com/otrix666x/Python.Exploit-DarkValley | 0 | 0| 
 | 20201123T12:38:14Z | My collection of pentesting tools, notes and exploits | https://github.com/gikabyte/Pentest | 0 | 0| 
@@ -55,7 +56,6 @@
 | 20201123T12:16:55Z | Null | https://github.com/abdullah-baghuth/Cpp-assisted-exploitation | 0 | 0| 
 | 20201123T11:43:21Z | Various local exploits | https://github.com/bcoles/local-exploits | 79 | 37| 
 | 20201123T11:38:22Z | XSScope is one of the most powerful and advanced GUI Framework for Modern Browser exploitation via XSS. | https://github.com/kleiton0x00/XSScope | 81 | 23| 
-| 20201123T11:35:13Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 8651 | 1358| 
 
 
 # backdoor on Github 推荐
