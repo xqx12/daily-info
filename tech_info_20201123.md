@@ -28,7 +28,7 @@
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
 | 20201123T13:02:18Z | CVE-2020-8277 | Poc for CVE-2020-8277 | https://github.com/LFYSec/CVE-2020-8277 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 47 MINUTES 42 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20201123T12:24:35Z | CVE-2020-1034 | PoC demonstrating the use of cve-2020-1034 for privilege escalation | https://github.com/yardenshafir/CVE-2020-1034 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 46 MINUTES 43 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201123T12:24:35Z | CVE-2020-1034 | PoC demonstrating the use of cve-2020-1034 for privilege escalation | https://github.com/yardenshafir/CVE-2020-1034 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 45 MINUTES 42 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20201123T10:28:17Z | CVE-2020-13942 | Null | https://github.com/lp008/CVE-2020-13942 | 未查询到CVE信息| 
 
 
@@ -46,7 +46,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20201123T12:59:37Z | Labs to learn exploiting | https://github.com/aliakyurek/exploit_labs | 0 | 0| 
+| 20201123T13:14:23Z | Labs to learn exploiting | https://github.com/aliakyurek/exploit_labs | 0 | 0| 
 | 20201123T12:58:05Z | @DarkValley | https://github.com/otrix666x/Python.Exploit-DarkValley | 0 | 0| 
 | 20201123T12:38:14Z | My collection of pentesting tools, notes and exploits | https://github.com/gikabyte/Pentest | 0 | 0| 
 | 20201123T12:31:40Z | JSshell - JavaScript reverse/remote shell | https://github.com/shelld3v/JSshell | 131 | 32| 
