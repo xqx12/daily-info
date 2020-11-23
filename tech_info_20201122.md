@@ -7,6 +7,7 @@
 | ts | title | url| 
 | --- | --- | ---| 
 | 20201122 | 使用GAN共享网络时间序列数据：挑战，初步承诺和未解决的问题，IMC 2020 (最佳论文入围). | https://github.com/fjxmlzn/DoppelGANger| 
+| 20201122 | VBA Purging - Macro Obfuscation With VBA Purging | https://www.fireeye.com/blog/threat-research/2020/11/purgalicious-vba-macro-obfuscation-with-vba-purging.html| 
 
 
 # 安全维基 推荐
