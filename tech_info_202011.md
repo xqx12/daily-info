@@ -47,14 +47,14 @@
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
 | 20201124T02:23:16Z | CVE-2020-27955 | Null | https://github.com/r00t4dm/CVE-2020-27955 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 20 MINUTES 41 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20201124T02:19:48Z | CVE-2020-1034 | PoC demonstrating the use of cve-2020-1034 for privilege escalation | https://github.com/yardenshafir/CVE-2020-1034 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 04 MINUTES 39 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201124T02:19:48Z | CVE-2020-1034 | PoC demonstrating the use of cve-2020-1034 for privilege escalation | https://github.com/yardenshafir/CVE-2020-1034 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 02 MINUTES 40 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20201123T17:34:15Z | CVE-2020-13942 | CVE-2020-13942 unauthenticated RCE POC through MVEL and OGNL injection | https://github.com/eugenebmx/CVE-2020-13942 | 未查询到CVE信息| 
-| 20201123T17:27:10Z | CVE-2020-28328 | Writeup on CVE-2020-28328: SuiteCRM Log File Remote Code Execution plus some bonus Cross-Site Scripting | https://github.com/mcorybillington/SuiteCRM-RCE | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 04 MINUTES 28 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201123T17:27:10Z | CVE-2020-28328 | Writeup on CVE-2020-28328: SuiteCRM Log File Remote Code Execution plus some bonus Cross-Site Scripting | https://github.com/mcorybillington/SuiteCRM-RCE | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 02 MINUTES 30 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20201123T15:26:11Z | CVE-2020-13942 | Null | https://github.com/lp008/CVE-2020-13942 | 未查询到CVE信息| 
 | 20201123T14:31:52Z | CVE-2020-13942 | CVE-2020-13942 POC + Automation Script | https://github.com/shifa123/CVE-2020-13942-POC- | 未查询到CVE信息| 
 | 20201123T13:50:07Z | CVE-2020-13942 | Null | https://github.com/blackmarketer/CVE-2020-13942 | 未查询到CVE信息| 
 | 20201123T13:02:18Z | CVE-2020-8277 | Poc for CVE-2020-8277 | https://github.com/LFYSec/CVE-2020-8277 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 47 MINUTES 42 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20201122T10:36:22Z | cve-2020-13957 | ARCHIVED DUE TO NOT_SUPPORTED in XRAY | https://github.com/MagicPiperSec/xray-poc-cve-2020-13957 | | 
+| 20201122T10:36:22Z | cve-2020-13957 | ARCHIVED DUE TO NOT_SUPPORTED in XRAY | https://github.com/MagicPiperSec/xray-poc-cve-2020-13957 | 未查询到CVE信息| 
 | 20201122T03:04:29Z | cve-2020-27955 | Null | https://github.com/yhsung/cve-2020-27955-poc | 未查询到CVE信息| 
 
 
@@ -87,6 +87,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20201124T02:51:46Z | This Buffer Overflow Toolkit works through FTP, SMTP, POP, HTTP protocols as well file outputs for playlists exploiting customized variables/commands. Payloads can be generated through MSFVENOM or you can use your own ASM files. | https://github.com/danieljs777/fastoverflowtk | 0 | 0| 
 | 20201124T02:47:57Z | Vulnerabilities, exploits, and PoCs | https://github.com/Accenture/AARO-Bugs | 12 | 5| 
 | 20201124T02:44:40Z | Exploits that I%ve written for Stephen Bradshaw%s Vulnserver https://github.com/stephenbradshaw/vulnserver | https://github.com/VWolt/Vulnserver-Exploits | 0 | 0| 
 | 20201124T02:36:55Z | Security blog | https://github.com/frederic/frederic.github.io | 0 | 0| 
@@ -96,7 +97,6 @@
 | 20201124T01:08:12Z | Exercises from %The Art Of Exploitation% 2nd Edition by Jon Erickson | https://github.com/nullarmor/the-art-of-exploitation-exercises | 0 | 0| 
 | 20201124T00:58:08Z | Exploiting constant trace property in large-scale polynomial optimization | https://github.com/maihoanganh/ctpPOP | 0 | 0| 
 | 20201124T00:49:07Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 6 | 4| 
-| 20201123T23:41:29Z | Exploit for Laravel Remote Code Execution with API_KEY (CVE-2018-15133) | https://github.com/aljavier/exploit_laravel_cve-2018-15133 | 0 | 1| 
 
 
 # backdoor on Github 推荐
