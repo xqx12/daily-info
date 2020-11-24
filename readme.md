@@ -21,12 +21,12 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20201124T12:48:11Z | CVE-2020-1034 | PoC demonstrating the use of cve-2020-1034 for privilege escalation | https://github.com/yardenshafir/CVE-2020-1034 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 57 MINUTES 27 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20201124T09:13:17Z | CVE-2020-15999 | CVE-2020-15999 | https://github.com/marcinguy/CVE-2020-15999 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 57 MINUTES 15 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20201124T07:13:41Z | CVE-2020-27955 | Null | https://github.com/r00t4dm/CVE-2020-27955 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 57 MINUTES 28 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201124T12:48:11Z | CVE-2020-1034 | PoC demonstrating the use of cve-2020-1034 for privilege escalation | https://github.com/yardenshafir/CVE-2020-1034 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 56 MINUTES 30 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201124T09:13:17Z | CVE-2020-15999 | CVE-2020-15999 | https://github.com/marcinguy/CVE-2020-15999 | | 
+| 20201124T07:13:41Z | CVE-2020-27955 | Null | https://github.com/r00t4dm/CVE-2020-27955 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 56 MINUTES 31 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20201124T06:13:47Z | CVE-2020-13942 | CVE-2020-13942 unauthenticated RCE POC through MVEL and OGNL injection | https://github.com/eugenebmx/CVE-2020-13942 | 未查询到CVE信息| 
 | 20201124T05:32:13Z | CVE-2020-11975 | CVE-2020-11975 CVE-2020-13942 | https://github.com/1135/unomi_exploit | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 56 MINUTES 32 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20201124T05:03:02Z | CVE-2020-27955 | Git-lfs RCE exploit CVE-2020-27955 - tested on Windows on: git, gh cli, GitHub Desktop, Visual Studio, SourceTree etc. | https://github.com/ExploitBox/git-lfs-RCE-exploit-CVE-2020-27955 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 57 MINUTES 17 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201124T05:03:02Z | CVE-2020-27955 | Git-lfs RCE exploit CVE-2020-27955 - tested on Windows on: git, gh cli, GitHub Desktop, Visual Studio, SourceTree etc. | https://github.com/ExploitBox/git-lfs-RCE-exploit-CVE-2020-27955 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 56 MINUTES 19 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20201124T04:29:58Z | cve-2020-10977 | GitLab 12.9.0 Arbitrary File Read  | https://github.com/thewhiteh4t/cve-2020-10977 | 未查询到CVE信息| 
 
 
@@ -47,6 +47,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20201124T13:02:58Z | proc | https://github.com/mobymobymoby/exploit | 0 | 0| 
 | 20201124T12:56:56Z | CTF竞赛权威指南(Pwn篇) | https://github.com/firmianay/CTF-All-In-One | 2167 | 445| 
 | 20201124T12:52:07Z | Ladon Scanner For Golang (Full platform penetration scanner framework)LadonGo一款开源网络渗透扫描器框架，使用它可轻松一键探测C段、B段、A段存活主机、指纹识别、端口扫描、密码爆破、远程执行、高危漏洞检测等。3.0版本包含23个模块功能，高危漏洞检测MS17010、SmbGhost，远程执行SshCmd、WinrmCmd，密码爆破SmbScan、SshScan、FtpScan、MysqlScan、MssqlScan、OracleScan、SqlplusScan、WinrmScan、HttpBasicScan，存活探测/信息收集/指纹识别PingScan、IcmpScan，HttpBanner、HttpTitle、TcpBanner、WeblogicScan、OxidScan，端口扫描PortScan。 | https://github.com/k8gege/LadonGo | 192 | 31| 
 | 20201124T12:49:06Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 6 | 4| 
@@ -56,7 +57,6 @@
 | 20201124T12:17:40Z | K8工具合集(内网渗透/提权工具/远程溢出/漏洞利用/扫描工具/密码破解/免杀工具/Exploit/APT/0day/Shellcode/Payload/priviledge/BypassUAC/OverFlow/WebShell/PenTest) Web GetShell Exploit(Struts2/Zimbra/Weblogic/Tomcat/Apache/Jboss/DotNetNuke/zabbix) | https://github.com/k8gege/K8tools | 3335 | 1587| 
 | 20201124T12:14:21Z | 大型内网渗透扫描器&Cobalt Strike，Ladon7.2内置94个模块，包含信息收集/存活主机/IP扫描/端口扫描/服务识别/网络资产/密码爆破/漏洞检测/漏洞利用。漏洞检测含MS17010、SMBGhost、Weblogic、ActiveMQ、Tomcat、Struts2系列，密码口令爆破(Mysql、Oracle、MSSQL)、FTP、SSH(Linux)、VNC、Windows(IPC、WMI、SMB、Netbios、LDAP、SmbHash、WmiHash、Winrm),远程执行命令(wmiexe/psexec/atexec/sshexec/webshell),降权提权Runas、GetSystem，Poc/Exploit,支持Cobalt Strike 3.X-4.0 | https://github.com/k8gege/Ladon | 2035 | 521| 
 | 20201124T12:13:37Z | k8gege.org - K8哥哥%s Blog | https://github.com/k8gege/k8gege.github.io | 10 | 6| 
-| 20201124T11:11:07Z | Null | https://github.com/Weltraumschaf/exploit-javael | 0 | 0| 
 
 
 # backdoor on Github 推荐
@@ -76,7 +76,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20201124T13:00:35Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2217 | 110| 
+| 20201124T13:03:05Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2217 | 110| 
 | 20201124T12:53:37Z | Fuzzers for automatically finding vulnerabilities in the binaries of Qiangwang Cup 2020 | https://github.com/Lancern/qwb-2020-fuzzer | 1 | 0| 
 | 20201124T12:27:27Z | Fast web fuzzer written in Go | https://github.com/ffuf/ffuf | 3383 | 389| 
 | 20201124T11:30:11Z | A fast web fuzzer in golang | https://github.com/neonify/lessgo | 4 | 1| 
