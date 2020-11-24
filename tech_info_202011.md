@@ -15,6 +15,7 @@
 | 20201123 | Hackfest - Advanced Fuzzing Workshop 的资料 | https://github.com/antonio-morales/Hackfest_Advanced_Fuzzing_Workshop| 
 | 20201123 | 利用 .NET Bypass Inline/IAT Hooks 检测 | https://blog.nviso.eu/2020/11/20/dynamic-invocation-in-net-to-bypass-hooks/| 
 | 20201123 | 探索先进自动化漏洞挖掘技术中的不足 | https://paper.seebug.org/1404/| 
+| 20201123 | 物联网安全系列之探索IoT通信安全的研究之道 | http://security.tencent.com/index.php/blog/msg/171| 
 | 20201122 | 使用GAN共享网络时间序列数据：挑战，初步承诺和未解决的问题，IMC 2020 (最佳论文入围). | https://github.com/fjxmlzn/DoppelGANger| 
 | 20201122 | VBA Purging - Macro Obfuscation With VBA Purging | https://www.fireeye.com/blog/threat-research/2020/11/purgalicious-vba-macro-obfuscation-with-vba-purging.html| 
 | 20201120 | HITBCyberWeek 2020 会议的议题 PPT 公开了 | https://cyberweek.ae/materials/2020/| 
@@ -25,7 +26,6 @@
 | 20201120 | RFID: New Proxmark3 Tear-Off Features and New Findings | https://blog.quarkslab.com/rfid-new-proxmark3-tear-off-features-and-new-findings.html| 
 | 20201120 | Running code in the context of iOS Kernel: Part I + LPE POC on iOS 13.7 | https://blog.zecops.com/vulnerabilities/running-code-in-the-context-of-ios-kernel-part-i-lpe-poc-on-ios-13-7/| 
 | 20201119 | Network Extension Framework aka swiss cheese | https://wojciechregula.blog/post/network-extension-framework-aka-swiss-cheese/| 
-| 20201119 | Kirenenko: Dynamic Symbolic Execution as Taint Analysis | https://chengyusong.github.io/fuzzing/2020/11/18/kirenenko.html| 
 
 
 # 安全维基 推荐
@@ -47,14 +47,14 @@
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
 | 20201124T02:23:16Z | CVE-2020-27955 | Null | https://github.com/r00t4dm/CVE-2020-27955 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 20 MINUTES 41 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20201124T02:19:48Z | CVE-2020-1034 | PoC demonstrating the use of cve-2020-1034 for privilege escalation | https://github.com/yardenshafir/CVE-2020-1034 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 07 MINUTES 40 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201124T02:19:48Z | CVE-2020-1034 | PoC demonstrating the use of cve-2020-1034 for privilege escalation | https://github.com/yardenshafir/CVE-2020-1034 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 04 MINUTES 39 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20201123T17:34:15Z | CVE-2020-13942 | CVE-2020-13942 unauthenticated RCE POC through MVEL and OGNL injection | https://github.com/eugenebmx/CVE-2020-13942 | 未查询到CVE信息| 
-| 20201123T17:27:10Z | CVE-2020-28328 | Writeup on CVE-2020-28328: SuiteCRM Log File Remote Code Execution plus some bonus Cross-Site Scripting | https://github.com/mcorybillington/SuiteCRM-RCE | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 07 MINUTES 29 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201123T17:27:10Z | CVE-2020-28328 | Writeup on CVE-2020-28328: SuiteCRM Log File Remote Code Execution plus some bonus Cross-Site Scripting | https://github.com/mcorybillington/SuiteCRM-RCE | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 04 MINUTES 28 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20201123T15:26:11Z | CVE-2020-13942 | Null | https://github.com/lp008/CVE-2020-13942 | 未查询到CVE信息| 
 | 20201123T14:31:52Z | CVE-2020-13942 | CVE-2020-13942 POC + Automation Script | https://github.com/shifa123/CVE-2020-13942-POC- | 未查询到CVE信息| 
 | 20201123T13:50:07Z | CVE-2020-13942 | Null | https://github.com/blackmarketer/CVE-2020-13942 | 未查询到CVE信息| 
 | 20201123T13:02:18Z | CVE-2020-8277 | Poc for CVE-2020-8277 | https://github.com/LFYSec/CVE-2020-8277 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 47 MINUTES 42 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20201122T10:36:22Z | cve-2020-13957 | ARCHIVED DUE TO NOT_SUPPORTED in XRAY | https://github.com/MagicPiperSec/xray-poc-cve-2020-13957 | 未查询到CVE信息| 
+| 20201122T10:36:22Z | cve-2020-13957 | ARCHIVED DUE TO NOT_SUPPORTED in XRAY | https://github.com/MagicPiperSec/xray-poc-cve-2020-13957 | | 
 | 20201122T03:04:29Z | cve-2020-27955 | Null | https://github.com/yhsung/cve-2020-27955-poc | 未查询到CVE信息| 
 
 
