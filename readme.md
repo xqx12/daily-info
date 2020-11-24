@@ -30,10 +30,10 @@
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
 | 20201123T17:34:15Z | CVE-2020-13942 | CVE-2020-13942 unauthenticated RCE POC through MVEL and OGNL injection | https://github.com/eugenebmx/CVE-2020-13942 | 未查询到CVE信息| 
-| 20201123T17:27:10Z | CVE-2020-28328 | Writeup on CVE-2020-28328: SuiteCRM Log File Remote Code Execution plus some bonus Cross-Site Scripting | https://github.com/mcorybillington/SuiteCRM-RCE | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 56 MINUTES 29 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20201123T15:26:11Z | CVE-2020-13942 | Null | https://github.com/lp008/CVE-2020-13942 | | 
-| 20201123T14:31:52Z | CVE-2020-13942 | CVE-2020-13942 POC + Automation Script | https://github.com/shifa123/CVE-2020-13942-POC- | 未查询到CVE信息| 
-| 20201123T13:50:07Z | CVE-2020-13942 | Null | https://github.com/blackmarketer/CVE-2020-13942 | | 
+| 20201123T17:27:10Z | CVE-2020-28328 | Writeup on CVE-2020-28328: SuiteCRM Log File Remote Code Execution plus some bonus Cross-Site Scripting | https://github.com/mcorybillington/SuiteCRM-RCE | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 54 MINUTES 28 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201123T15:26:11Z | CVE-2020-13942 | Null | https://github.com/lp008/CVE-2020-13942 | 未查询到CVE信息| 
+| 20201123T14:31:52Z | CVE-2020-13942 | CVE-2020-13942 POC + Automation Script | https://github.com/shifa123/CVE-2020-13942-POC- | | 
+| 20201123T13:50:07Z | CVE-2020-13942 | Null | https://github.com/blackmarketer/CVE-2020-13942 | 未查询到CVE信息| 
 | 20201123T13:02:18Z | CVE-2020-8277 | Poc for CVE-2020-8277 | https://github.com/LFYSec/CVE-2020-8277 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 47 MINUTES 42 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 
 
@@ -52,16 +52,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20201123T13:58:26Z | Repo with the content of my kernel exploit presentation | https://github.com/Viana2021/Kernel-Presentation | 0 | 0| 
-| 20201123T13:45:54Z | Exploiting constant trace property in large-scale polynomial optimization | https://github.com/maihoanganh/ctpPOP | 0 | 0| 
-| 20201123T13:41:34Z | Just a temporary website to post my ctf writeups and journey into binary exploitation/malware analysis/exploit development | https://github.com/blackbeard666/blackbeard666.github.io | 0 | 0| 
-| 20201123T13:31:27Z | blog repository (nonetype.kr) | https://github.com/nonetype/nonetype.github.io | 0 | 0| 
-| 20201123T13:14:23Z | Labs to learn exploiting | https://github.com/aliakyurek/exploit_labs | 0 | 0| 
-| 20201123T12:58:05Z | @DarkValley | https://github.com/otrix666x/Python.Exploit-DarkValley | 0 | 0| 
-| 20201123T12:38:14Z | My collection of pentesting tools, notes and exploits | https://github.com/gikabyte/Pentest | 0 | 0| 
-| 20201123T12:31:40Z | JSshell - JavaScript reverse/remote shell | https://github.com/shelld3v/JSshell | 131 | 32| 
-| 20201123T12:18:17Z | https://my.ine.com/CyberSecurity/courses/5810c2ff/penetration-testing-preliminary-skills-programming | https://github.com/abdullah-baghuth/Python-assisted-exploitation | 0 | 0| 
-| 20201123T12:16:55Z | Null | https://github.com/abdullah-baghuth/Cpp-assisted-exploitation | 0 | 0| 
+| 20201123T23:41:29Z | Exploit for Laravel Remote Code Execution with API_KEY (CVE-2018-15133) | https://github.com/aljavier/exploit_laravel_cve-2018-15133 | 0 | 1| 
+| 20201123T23:34:49Z | Sifter is a OSINT, recon & vulnerability scanner. It incorporates a plethara of tools within different module sets that tries to cover every attack vector. Allowing you to quickly perform recon tasks and organize the results in one place. From OSINT to Recon, Exploitation, Post-Exploitation, OpSec, Threat Analysis, XSS, SQLinjection, Network Scanning, WebApp Analysis or DNS enumeration.. Sifter should be able to cover it all. | https://github.com/s1l3nt78/sifter | 292 | 90| 
+| 20201123T23:21:09Z | Just a completely open sourced, non skidded, and free exploit designed to help people learn the basics and maybe jump-start your first exploit! | https://github.com/AmirAgassi/OpenSourceEXware | 0 | 0| 
+| 20201123T22:56:20Z | Stack buffer overflow + Meterpreter payload to exploit VulnServer and create reverse TCP shell | https://github.com/sjb8894/VulnServer_Exploit | 0 | 0| 
+| 20201123T21:56:11Z | OSINT, Threat Hunting, Network and Web Recon, Discovery, Enumeration, Vulnerability Mapping, Exploitation, Reporting | https://github.com/aryanguenthner/365 | 2 | 1| 
+| 20201123T21:40:46Z | Exploit file-Android | https://github.com/johanMTK/exploit | 0 | 0| 
+| 20201123T20:38:06Z | Collection of 0days & Ndays | https://github.com/r0t0tiller/Exploits | 3 | 2| 
+| 20201123T20:35:12Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 8651 | 1358| 
+| 20201123T20:27:38Z | Vulnerabilities, exploits, and PoCs | https://github.com/Accenture/AARO-Bugs | 11 | 5| 
+| 20201123T20:00:51Z | Exploit development and reversing of Hichip%s P2P camera firmware | https://github.com/0xedh/hichip-p2p-firmware-rce | 3 | 0| 
 
 
 # backdoor on Github 推荐
@@ -84,13 +84,13 @@
 | 20201123T23:27:07Z | Fuzzy matching publications for fatcat (wip). | https://github.com/miku/fuzzycat | 0 | 1| 
 | 20201123T23:11:55Z | Code for fuzzy monkeys. | https://github.com/fuzzyatelin/fuzzyatelin.github.io | 3 | 9| 
 | 20201123T22:51:49Z | FuzzPy es un biblioteca de Python para implementar Sistemas de Inferencia Difusa | https://github.com/leynier/fuzzpy | 1 | 0| 
-| 20201123T22:51:29Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2215 | 110| 
 | 20201123T22:51:04Z | different type of Fuzzy system in AI | https://github.com/MahtabNiakan/Fuzzy | 0 | 0| 
 | 20201123T22:48:30Z | BerrFuzz is a binary fuzzer written in Go. | https://github.com/ManuelBerrueta/berrfuzz | 0 | 0| 
 | 20201123T22:39:39Z | Experimental projects | https://github.com/tannmatter/fuzzy-happiness | 0 | 0| 
 | 20201123T22:39:06Z | RESTler is the first stateful REST API fuzzing tool for automatically testing cloud services through their REST APIs and finding security and reliability bugs in these services. | https://github.com/microsoft/restler-fuzzer | 152 | 12| 
 | 20201123T21:36:29Z | Null | https://github.com/zeddzorandder/fuzzy-couscous | 0 | 0| 
 | 20201123T21:30:28Z | REST API Fuzz Testing (RAFT): Source code for self-hosted service developed for Azure, including the API, orchestration engine, and default set of security tools (including MSR%s RESTler), that enables developers to embed security tooling into their CI/CD workflows | https://github.com/microsoft/rest-api-fuzz-testing | 58 | 7| 
+| 20201123T21:30:06Z | Null | https://github.com/Sambigeara/fuzzy-note | 1 | 0| 
 
 
 
