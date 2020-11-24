@@ -31,39 +31,39 @@
 # 安全维基 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20201124 | 浅谈华为SDL软件安全工程能力 | https://mp.weixin.qq.com/s/i1N80qN14hGslRnrIV8mjg| 
+| 20201124 | 记录一些逻辑漏洞案例 | https://www.sec-in.com/article/619| 
+| 20201124 | 基于Flink的网络流量实时解析 | https://mp.weixin.qq.com/s/i7f7p9HBE-03YWNnl_NdPA| 
+| 20201124 | 一种针对Webpack等前端打包工具构建的网站的自动化测试思路（... | https://www.hackinn.com/index.php/archives/744/| 
+| 20201124 | 物联网安全系列之探索IoT通信安全的研究之道 | https://mp.weixin.qq.com/s/6KviA72Ke0I9ZVYusTDpoA| 
 | 20201123 | 安全狗绕waf、编写sqlmap tamper脚本 | https://www.sec-in.com/article/609| 
 | 20201123 | Metasploit主机上线钉钉通知 | https://mp.weixin.qq.com/s/TpC-93r7dA7luEhkiHAi_g| 
 | 20201123 | 智能合约:整数溢出、访问控制缺陷漏洞与跨合约调用漏洞 | https://mp.weixin.qq.com/s/XRrHeugDMV-6ANRxC0ov3Q| 
 | 20201123 | SecWiki周刊（第351期) | https://www.sec-wiki.com/weekly/351| 
 | 20201121 | 利用avdump转储lsass.exe进程 | https://mp.weixin.qq.com/s/bHDMTlY-YZxx9dS-MqQfRA| 
-| 20201121 | 2020西湖论剑IoT闯关赛回顾&Writeup | https://mp.weixin.qq.com/s/IGZUIY2w8aRJZUbZa3UqHA| 
-| 20201120 | 针对小程序的漏洞挖掘 | https://www.sec-in.com/article/648| 
-| 20201120 | 神经工程与脑机接口信息安全 全景图 V0.1 | https://www.anquanke.com/post/id/223008| 
-| 20201120 | 太湖杯密码学 Aegis 题解 | https://www.anquanke.com/post/id/222629| 
-| 20201120 | 国内在线车联网平台（道路运输车辆卫星定位系统）安全威胁分析... | http://plcscan.org/blog/2020/11/china-internet-of-vehicles-security-threat-analysis-report/| 
 
 
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20201124T02:23:16Z | CVE-2020-27955 | Null | https://github.com/r00t4dm/CVE-2020-27955 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 20 MINUTES 41 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20201124T02:19:48Z | CVE-2020-1034 | PoC demonstrating the use of cve-2020-1034 for privilege escalation | https://github.com/yardenshafir/CVE-2020-1034 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 00 MINUTES 41 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20201123T17:34:15Z | CVE-2020-13942 | CVE-2020-13942 unauthenticated RCE POC through MVEL and OGNL injection | https://github.com/eugenebmx/CVE-2020-13942 | 未查询到CVE信息| 
-| 20201123T17:27:10Z | CVE-2020-28328 | Writeup on CVE-2020-28328: SuiteCRM Log File Remote Code Execution plus some bonus Cross-Site Scripting | https://github.com/mcorybillington/SuiteCRM-RCE | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 00 MINUTES 31 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201124T12:48:11Z | CVE-2020-1034 | PoC demonstrating the use of cve-2020-1034 for privilege escalation | https://github.com/yardenshafir/CVE-2020-1034 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 59 MINUTES 21 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201124T09:13:17Z | CVE-2020-15999 | CVE-2020-15999 | https://github.com/marcinguy/CVE-2020-15999 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 59 MINUTES 09 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201124T07:13:41Z | CVE-2020-27955 | Null | https://github.com/r00t4dm/CVE-2020-27955 | | 
+| 20201124T06:13:47Z | CVE-2020-13942 | CVE-2020-13942 unauthenticated RCE POC through MVEL and OGNL injection | https://github.com/eugenebmx/CVE-2020-13942 | 未查询到CVE信息| 
+| 20201124T05:32:13Z | CVE-2020-11975 | CVE-2020-11975 CVE-2020-13942 | https://github.com/1135/unomi_exploit | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 59 MINUTES 23 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201124T05:03:02Z | CVE-2020-27955 | Git-lfs RCE exploit CVE-2020-27955 - tested on Windows on: git, gh cli, GitHub Desktop, Visual Studio, SourceTree etc. | https://github.com/ExploitBox/git-lfs-RCE-exploit-CVE-2020-27955 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 59 MINUTES 10 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201124T04:29:58Z | cve-2020-10977 | GitLab 12.9.0 Arbitrary File Read  | https://github.com/thewhiteh4t/cve-2020-10977 | | 
+| 20201123T17:27:10Z | CVE-2020-28328 | Writeup on CVE-2020-28328: SuiteCRM Log File Remote Code Execution plus some bonus Cross-Site Scripting | https://github.com/mcorybillington/SuiteCRM-RCE | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 59 MINUTES 11 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20201123T15:26:11Z | CVE-2020-13942 | Null | https://github.com/lp008/CVE-2020-13942 | 未查询到CVE信息| 
 | 20201123T14:31:52Z | CVE-2020-13942 | CVE-2020-13942 POC + Automation Script | https://github.com/shifa123/CVE-2020-13942-POC- | 未查询到CVE信息| 
-| 20201123T13:50:07Z | CVE-2020-13942 | Null | https://github.com/blackmarketer/CVE-2020-13942 | 未查询到CVE信息| 
-| 20201123T13:02:18Z | CVE-2020-8277 | Poc for CVE-2020-8277 | https://github.com/LFYSec/CVE-2020-8277 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 47 MINUTES 42 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20201122T10:36:22Z | cve-2020-13957 | ARCHIVED DUE TO NOT_SUPPORTED in XRAY | https://github.com/MagicPiperSec/xray-poc-cve-2020-13957 | 未查询到CVE信息| 
-| 20201122T03:04:29Z | cve-2020-27955 | Null | https://github.com/yhsung/cve-2020-27955-poc | 未查询到CVE信息| 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20201124T01:31:07Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1547 | 471| 
-| 20201124T00:32:10Z | Symbiotic is a tool for finding bugs in computer programs based on instrumentation, program slicing and KLEE | https://github.com/staticafi/symbiotic | 204 | 33| 
-| 20201123T02:51:52Z | Create CFGs and compute complexity metrics for Python, C++, and Java code. | https://github.com/hmc-alpaqa/metrinome | 5 | 0| 
+| 20201124T12:46:31Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1548 | 471| 
+| 20201124T10:23:02Z | Symbiotic is a tool for finding bugs in computer programs based on instrumentation, program slicing and KLEE | https://github.com/staticafi/symbiotic | 204 | 33| 
+| 20201124T09:09:11Z | Create CFGs and compute complexity metrics for Python, C++, and Java code. | https://github.com/hmc-alpaqa/metrinome | 5 | 0| 
 | 20201122T04:18:36Z | Urban Evidence Based Policy (SPPA667) | https://github.com/KLeeDE/PUS2020_KLee | 0 | 1| 
 | 20201121T10:18:22Z | Null | https://github.com/klee-chan/klee-chan.github.io | 0 | 0| 
 | 20201120T20:14:48Z | Null | https://github.com/davidtr1037/klee-pspa | 2 | 0| 
@@ -76,7 +76,7 @@
 # s2e on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20201118T13:10:47Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 66 | 21| 
+| 20201124T05:48:06Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 67 | 21| 
 | 20201118T02:05:18Z | Your S2E project management tools. Visit https://s2e.systems/docs to get started. | https://github.com/S2E/s2e-env | 68 | 29| 
 | 20201117T08:07:33Z | s2engineers content collection | https://github.com/sinnerschrader/s2engineers-content | 3 | 0| 
 | 20201117T05:06:51Z | Compiler for S2Engine architecure , an CNN accelerator | https://github.com/BUAA-CI-Lab/S2EngineCompiler | 0 | 0| 
@@ -87,46 +87,46 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20201124T02:51:46Z | This Buffer Overflow Toolkit works through FTP, SMTP, POP, HTTP protocols as well file outputs for playlists exploiting customized variables/commands. Payloads can be generated through MSFVENOM or you can use your own ASM files. | https://github.com/danieljs777/fastoverflowtk | 0 | 0| 
-| 20201124T02:47:57Z | Vulnerabilities, exploits, and PoCs | https://github.com/Accenture/AARO-Bugs | 12 | 5| 
-| 20201124T02:44:40Z | Exploits that I%ve written for Stephen Bradshaw%s Vulnserver https://github.com/stephenbradshaw/vulnserver | https://github.com/VWolt/Vulnserver-Exploits | 0 | 0| 
-| 20201124T02:36:55Z | Security blog | https://github.com/frederic/frederic.github.io | 0 | 0| 
-| 20201124T02:30:19Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 8653 | 1358| 
-| 20201124T02:27:53Z | Vulnerabilities of Goby supported with exploitation. | https://github.com/gobysec/GobyVuls | 58 | 12| 
-| 20201124T02:08:03Z | GEF - GDB Enhanced Features for exploit devs & reversers | https://github.com/hugsy/gef | 3263 | 473| 
-| 20201124T01:08:12Z | Exercises from %The Art Of Exploitation% 2nd Edition by Jon Erickson | https://github.com/nullarmor/the-art-of-exploitation-exercises | 0 | 0| 
-| 20201124T00:58:08Z | Exploiting constant trace property in large-scale polynomial optimization | https://github.com/maihoanganh/ctpPOP | 0 | 0| 
-| 20201124T00:49:07Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 6 | 4| 
+| 20201124T12:56:56Z | CTF竞赛权威指南(Pwn篇) | https://github.com/firmianay/CTF-All-In-One | 2167 | 445| 
+| 20201124T12:52:07Z | Ladon Scanner For Golang (Full platform penetration scanner framework)LadonGo一款开源网络渗透扫描器框架，使用它可轻松一键探测C段、B段、A段存活主机、指纹识别、端口扫描、密码爆破、远程执行、高危漏洞检测等。3.0版本包含23个模块功能，高危漏洞检测MS17010、SmbGhost，远程执行SshCmd、WinrmCmd，密码爆破SmbScan、SshScan、FtpScan、MysqlScan、MssqlScan、OracleScan、SqlplusScan、WinrmScan、HttpBasicScan，存活探测/信息收集/指纹识别PingScan、IcmpScan，HttpBanner、HttpTitle、TcpBanner、WeblogicScan、OxidScan，端口扫描PortScan。 | https://github.com/k8gege/LadonGo | 192 | 31| 
+| 20201124T12:49:06Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 6 | 4| 
+| 20201124T12:38:34Z | My collection of pentesting tools, notes and exploits | https://github.com/gikabyte/Pentest | 0 | 0| 
+| 20201124T12:26:53Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 8655 | 1357| 
+| 20201124T12:20:47Z | Exploits developed by me. | https://github.com/mikaelkall/exploits | 27 | 18| 
+| 20201124T12:17:40Z | K8工具合集(内网渗透/提权工具/远程溢出/漏洞利用/扫描工具/密码破解/免杀工具/Exploit/APT/0day/Shellcode/Payload/priviledge/BypassUAC/OverFlow/WebShell/PenTest) Web GetShell Exploit(Struts2/Zimbra/Weblogic/Tomcat/Apache/Jboss/DotNetNuke/zabbix) | https://github.com/k8gege/K8tools | 3335 | 1587| 
+| 20201124T12:14:21Z | 大型内网渗透扫描器&Cobalt Strike，Ladon7.2内置94个模块，包含信息收集/存活主机/IP扫描/端口扫描/服务识别/网络资产/密码爆破/漏洞检测/漏洞利用。漏洞检测含MS17010、SMBGhost、Weblogic、ActiveMQ、Tomcat、Struts2系列，密码口令爆破(Mysql、Oracle、MSSQL)、FTP、SSH(Linux)、VNC、Windows(IPC、WMI、SMB、Netbios、LDAP、SmbHash、WmiHash、Winrm),远程执行命令(wmiexe/psexec/atexec/sshexec/webshell),降权提权Runas、GetSystem，Poc/Exploit,支持Cobalt Strike 3.X-4.0 | https://github.com/k8gege/Ladon | 2035 | 521| 
+| 20201124T12:13:37Z | k8gege.org - K8哥哥%s Blog | https://github.com/k8gege/k8gege.github.io | 10 | 6| 
+| 20201124T11:11:07Z | Null | https://github.com/Weltraumschaf/exploit-javael | 0 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20201124T11:34:09Z | Code for %Label-Consistent Backdoor Attacks% | https://github.com/MadryLab/label-consistent-backdoor-code | 1 | 0| 
+| 20201124T10:28:10Z | Hides the sethc.exe backdoor by faking the original window. | https://github.com/PGgamer2/sethc-backdoor-hider | 1 | 1| 
+| 20201124T10:09:31Z | scan for backdoor shell in your website directory | https://github.com/abemin/cliShellScanner | 0 | 0| 
+| 20201124T08:11:05Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 114 | 14| 
+| 20201124T07:34:53Z | FUD cross-platform python2 backdoor with C2 | https://github.com/7h3w4lk3r/pyback | 12 | 5| 
+| 20201124T07:10:31Z | Linux backdoor written with the HTTPRequestHandler library | https://github.com/SkryptKiddie/httpBackdoor | 0 | 0| 
+| 20201124T04:02:28Z | Null | https://github.com/Cassock-byte/Backdoor.exe | 0 | 0| 
 | 20201124T02:46:33Z | backdoortst e um auxilia do msf desenvolvido para facilita os usuarios a criar um payload | https://github.com/shoowl/backdoortst | 2 | 1| 
 | 20201124T00:44:25Z | Deep Learning Backdoors Framework. A light-weight tool to conduct your research on backdoors. | https://github.com/ebagdasa/backdoors101 | 10 | 0| 
 | 20201123T22:12:44Z | Malware que cria uma shell de conexão reversa para usa-lo informe a variável de ip e crie um listen no netcat  | https://github.com/medn1c/BackDoor_Windows | 0 | 0| 
-| 20201123T20:00:20Z | FUD cross-platform python2 backdoor with C2 | https://github.com/7h3w4lk3r/pyback | 11 | 5| 
-| 20201123T19:10:55Z | PHP backdoor scripts upload any script file on current running directory  | https://github.com/ch-hassansaeed/PHP-backdoor-scripts-upload | 0 | 0| 
-| 20201123T18:11:38Z | Enjoy! | https://github.com/w4r-code/Code-Fuzzy-Backdoor-Windows | 0 | 0| 
-| 20201123T16:18:01Z | Ghost Framework is an Android post-exploitation framework that exploits the Android Debug Bridge to remotely access an Android device. Ghost Framework gives you the power and convenience of remote Android device administration. | https://github.com/EntySec/ghost | 822 | 413| 
-| 20201123T15:21:35Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 112 | 13| 
-| 20201123T13:55:03Z | Null | https://github.com/FalseG0d/PythonBackdoor | 0 | 0| 
-| 20201123T13:52:35Z | little backdoor... 😎 | https://github.com/antoinegilles/backdoor | 0 | 0| 
 
 
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20201124T02:48:16Z | Null | https://github.com/Aura-Buddy/TemperatureHumidityFuzzyController | 0 | 0| 
-| 20201124T02:24:23Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2217 | 110| 
-| 20201124T02:22:02Z | AFLNet: A Greybox Fuzzer for Network Protocols (https://thuanpv.github.io/publications/AFLNet_ICST20.pdf) | https://github.com/aflnet/aflnet | 330 | 48| 
-| 20201124T02:21:54Z | A fast web fuzzer in golang | https://github.com/neonify/lessgo | 1 | 1| 
-| 20201124T02:21:03Z | Recent Fuzzing Paper | https://github.com/wcventure/FuzzingPaper | 641 | 106| 
-| 20201124T02:11:01Z | Packer Fuzzer is a fast and efficient scanner for security detection of websites constructed by javascript module bundler such as Webpack.  | https://github.com/rtcatc/Packer-Fuzzer | 367 | 42| 
-| 20201124T02:01:06Z | Null | https://github.com/kkohyuk/Fuzzy | 0 | 0| 
-| 20201124T01:35:06Z | A list of payload and bypass lists for penetration testing and red team infrastructure build. | https://github.com/ffffffff0x/AboutSecurity | 126 | 30| 
-| 20201124T01:30:03Z | Automate repetitive tasks for fuzzing | https://github.com/bannsec/autoPwn | 100 | 32| 
-| 20201124T01:17:59Z | OSS-Fuzz - continuous fuzzing of open source software. | https://github.com/google/oss-fuzz | 5673 | 1122| 
+| 20201124T13:00:35Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2217 | 110| 
+| 20201124T12:53:37Z | Fuzzers for automatically finding vulnerabilities in the binaries of Qiangwang Cup 2020 | https://github.com/Lancern/qwb-2020-fuzzer | 1 | 0| 
+| 20201124T12:27:27Z | Fast web fuzzer written in Go | https://github.com/ffuf/ffuf | 3383 | 389| 
+| 20201124T11:30:11Z | A fast web fuzzer in golang | https://github.com/neonify/lessgo | 4 | 1| 
+| 20201124T11:20:45Z | Null | https://github.com/Sambigeara/fuzzy-note | 1 | 0| 
+| 20201124T10:55:19Z | Null | https://github.com/s9varesc/url-fuzzing | 0 | 0| 
+| 20201124T10:49:23Z | initial repository | https://github.com/DmitriiZiiatdinovTR/fuzzy-train | 0 | 0| 
+| 20201124T09:55:06Z | Google-AFL工具的使用案例 | https://github.com/leyiweb/Google-AFL-Fuzzy | 0 | 0| 
+| 20201124T09:43:39Z | no fuzz configurator | https://github.com/roxiness/configent | 1 | 0| 
+| 20201124T08:48:06Z | Null | https://github.com/esmaeilmirzaee/fuzzy-waffle | 0 | 0| 
 
 
 
