@@ -25,12 +25,12 @@
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
 | 20201124T23:13:20Z | CVE-2020-6308 | CVE-2020-6308 mass exploiter/fuzzer. | https://github.com/Mulvun/CVE-2020-6308-mass-exploiter | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
-| 20201124T22:13:25Z | CVE-2020-15999 | CVE-2020-15999 | https://github.com/marcinguy/CVE-2020-15999 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 59 MINUTES 08 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201124T22:13:25Z | CVE-2020-15999 | CVE-2020-15999 | https://github.com/marcinguy/CVE-2020-15999 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 58 MINUTES 16 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20201124T20:10:39Z | CVE-2020-1034 | PoC demonstrating the use of cve-2020-1034 for privilege escalation | https://github.com/yardenshafir/CVE-2020-1034 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 58 MINUTES 28 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20201124T07:13:41Z | CVE-2020-27955 | Null | https://github.com/r00t4dm/CVE-2020-27955 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 58 MINUTES 29 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20201124T06:13:47Z | CVE-2020-13942 | CVE-2020-13942 unauthenticated RCE POC through MVEL and OGNL injection | https://github.com/eugenebmx/CVE-2020-13942 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 59 MINUTES 12 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201124T06:13:47Z | CVE-2020-13942 | CVE-2020-13942 unauthenticated RCE POC through MVEL and OGNL injection | https://github.com/eugenebmx/CVE-2020-13942 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 58 MINUTES 21 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20201124T05:32:13Z | CVE-2020-11975 | CVE-2020-11975 CVE-2020-13942 | https://github.com/1135/unomi_exploit | | 
-| 20201124T05:03:02Z | CVE-2020-27955 | Git-lfs RCE exploit CVE-2020-27955 - tested on Windows on: git, gh cli, GitHub Desktop, Visual Studio, SourceTree etc. | https://github.com/ExploitBox/git-lfs-RCE-exploit-CVE-2020-27955 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 59 MINUTES 09 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201124T05:03:02Z | CVE-2020-27955 | Git-lfs RCE exploit CVE-2020-27955 - tested on Windows on: git, gh cli, GitHub Desktop, Visual Studio, SourceTree etc. | https://github.com/ExploitBox/git-lfs-RCE-exploit-CVE-2020-27955 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 58 MINUTES 17 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20201124T04:29:58Z | cve-2020-10977 | GitLab 12.9.0 Arbitrary File Read  | https://github.com/thewhiteh4t/cve-2020-10977 | 未查询到CVE信息| 
 
 
@@ -51,30 +51,31 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20201124T13:58:04Z | Development of code to exploit LSST and VISTA imaging | https://github.com/lsst-uk/lsst-ir-fusion | 0 | 0| 
-| 20201124T13:47:24Z | Just a temporary website to post my ctf writeups and journey into binary exploitation/malware analysis/exploit development | https://github.com/blackbeard666/blackbeard666.github.io | 0 | 0| 
-| 20201124T13:36:09Z | blog repository (nonetype.kr) | https://github.com/nonetype/nonetype.github.io | 0 | 0| 
-| 20201124T13:34:19Z | Null | https://github.com/chandrakantnial/Exploit-Development-For-Complete-Beginners | 0 | 0| 
-| 20201124T13:24:11Z | Ladon Scanner For Golang (Full platform penetration scanner framework)LadonGo一款开源网络渗透扫描器框架，使用它可轻松一键探测C段、B段、A段存活主机、指纹识别、端口扫描、密码爆破、远程执行、高危漏洞检测等。3.0版本包含23个模块功能，高危漏洞检测MS17010、SmbGhost，远程执行SshCmd、WinrmCmd，密码爆破SmbScan、SshScan、FtpScan、MysqlScan、MssqlScan、OracleScan、SqlplusScan、WinrmScan、HttpBasicScan，存活探测/信息收集/指纹识别PingScan、IcmpScan，HttpBanner、HttpTitle、TcpBanner、WeblogicScan、OxidScan，端口扫描PortScan。 | https://github.com/k8gege/LadonGo | 193 | 32| 
-| 20201124T13:22:18Z | JSshell - JavaScript reverse/remote shell | https://github.com/shelld3v/JSshell | 132 | 32| 
-| 20201124T13:02:58Z | proc | https://github.com/mobymobymoby/exploit | 0 | 0| 
-| 20201124T12:56:56Z | CTF竞赛权威指南(Pwn篇) | https://github.com/firmianay/CTF-All-In-One | 2167 | 445| 
-| 20201124T12:49:06Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 6 | 4| 
-| 20201124T12:38:34Z | My collection of pentesting tools, notes and exploits | https://github.com/gikabyte/Pentest | 0 | 0| 
+| 20201124T23:52:12Z | exploits and proof-of-concept vulnerability demonstration files from the team at Hacker House | https://github.com/hackerhouse-opensource/exploits | 219 | 62| 
+| 20201124T23:50:32Z | Unrestricted Lua Execution | https://github.com/rakion99/Axon | 30 | 55| 
+| 20201124T23:35:32Z | Repo with the content of my kernel exploit presentation | https://github.com/Viana2021/Kernel-Presentation | 0 | 0| 
+| 20201124T23:13:20Z | CVE-2020-6308 mass exploiter/fuzzer. | https://github.com/Mulvun/CVE-2020-6308-mass-exploiter | 0 | 0| 
+| 20201124T22:36:33Z | Docker based HTTP(S) component of the PS4/PS5 Exploit Host  | https://github.com/Al-Azif/exploit-host-http | 0 | 0| 
+| 20201124T22:06:05Z | Source code for Peet Oracle exploiting the power of cross-chain assets management. | https://github.com/PeetFinanceDefi/oracle-bridge | 0 | 0| 
+| 20201124T21:53:11Z | A list of everything you need to be successful as an Ethical Hacker.  The best resources, exploits, payloads, and strategies that I%ve used to advance my skills and knowledge at a Penetration Tester. | https://github.com/Kennyslaboratory/Hacker-Heaven | 2 | 0| 
+| 20201124T21:48:31Z | Feature-rich Post Exploitation Framework with Network Pivoting capabilities. | https://github.com/quantumcored/maalik | 35 | 7| 
+| 20201124T21:29:58Z | Pattern-Exploiting Training in Julia and Knet. A replication of %It’s Not Just Size That Matters: Small Language Models Are Also Few-Shot Learners% | https://github.com/Shamdan17/pet.jl | 0 | 0| 
+| 20201124T20:41:13Z | Written in Java and Kotlin, Spring is an Android app that exploits a security vulnerability of an Indian music streaming service, allowing anyone to download any song without subscription or decrypt songs that are saved for offline use by subscribed users of that service. | https://github.com/sajalverma17/Spring | 1 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20201124T23:50:01Z | Malware que cria uma shell de conexão reversa para usa-lo informe a variável de ip e crie um listen no netcat  | https://github.com/medn1c/BackDoor_Windows | 1 | 0| 
+| 20201124T22:50:36Z | Enjoy! | https://github.com/w4r-code/Code-Fuzzy-Backdoor-Windows | 0 | 0| 
+| 20201124T21:46:26Z | ParadoxiaRat : Native Windows Remote access Tool. | https://github.com/quantumcored/paradoxiaRAT | 279 | 59| 
+| 20201124T18:15:19Z | Deep Learning Backdoors Framework. A light-weight tool to conduct your research on backdoors. | https://github.com/ebagdasa/backdoors101 | 10 | 0| 
+| 20201124T17:51:58Z | PCI Express DIY hacking toolkit for Xilinx SP605 | https://github.com/Cr4sh/s6_pcie_microblaze | 290 | 74| 
+| 20201124T16:12:17Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 115 | 14| 
 | 20201124T11:34:09Z | Code for %Label-Consistent Backdoor Attacks% | https://github.com/MadryLab/label-consistent-backdoor-code | 1 | 0| 
 | 20201124T10:28:10Z | Hides the sethc.exe backdoor by faking the original window. | https://github.com/PGgamer2/sethc-backdoor-hider | 1 | 1| 
 | 20201124T10:09:31Z | scan for backdoor shell in your website directory | https://github.com/abemin/cliShellScanner | 0 | 0| 
-| 20201124T08:11:05Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 114 | 14| 
 | 20201124T07:34:53Z | FUD cross-platform python2 backdoor with C2 | https://github.com/7h3w4lk3r/pyback | 12 | 5| 
-| 20201124T07:10:31Z | Linux backdoor written with the HTTPRequestHandler library | https://github.com/SkryptKiddie/httpBackdoor | 0 | 0| 
-| 20201124T04:02:28Z | Null | https://github.com/Cassock-byte/Backdoor.exe | 0 | 0| 
-| 20201124T02:46:33Z | backdoortst e um auxilia do msf desenvolvido para facilita os usuarios a criar um payload | https://github.com/shoowl/backdoortst | 2 | 1| 
-| 20201124T00:44:25Z | Deep Learning Backdoors Framework. A light-weight tool to conduct your research on backdoors. | https://github.com/ebagdasa/backdoors101 | 10 | 0| 
 
 
 # fuzz on Github 推荐
