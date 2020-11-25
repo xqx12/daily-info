@@ -6,6 +6,10 @@
 # 玄武实验室 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20201125 | The .NET Export Portal | https://blog.xpnsec.com/the-net-export-portal/| 
+| 20201125 | Checkpoint 对 Android 平台吸费恶意软件 WAPDropper 的分析 | https://research.checkpoint.com/2020/enter-wapdropper-subscribe-users-to-premium-services-by-telecom-companies/| 
+| 20201125 | Smart (and simple) ways to prevent symlink attacks in Go | https://blog.trailofbits.com/2020/11/24/smart-and-simple-ways-to-prevent-symlink-attacks-in-go/| 
+| 20201125 | ZDI 对近期 SaltStack 被发现的几个命令注入漏洞的分析 | https://www.thezdi.com/blog/2020/11/24/detailing-saltstack-salt-command-injection-vulnerabilities| 
 | 20201124 | 通过Intel EPT进行MMU虚拟化：技术细节探讨。 | https://revers.engineering/mmu-ept-technical-details/| 
 | 20201124 | 研究人员发现TA416 APT使用由Golang编写的PlugX恶意软件加载程序，并对非洲外交组织进行的组织鱼叉式网络钓鱼攻击威胁。 | https://threatpost.com/ta416-apt-plugx-malware-variant/161505/| 
 | 20201124 | 蓝队最好的学习资源项目。 | https://github.com/fabacab/awesome-cybersecurity-blueteam| 
@@ -22,40 +26,36 @@
 | 20201123 | 利用 .NET Bypass Inline/IAT Hooks 检测 | https://blog.nviso.eu/2020/11/20/dynamic-invocation-in-net-to-bypass-hooks/| 
 | 20201123 | 探索先进自动化漏洞挖掘技术中的不足 | https://paper.seebug.org/1404/| 
 | 20201123 | 物联网安全系列之探索IoT通信安全的研究之道 | http://security.tencent.com/index.php/blog/msg/171| 
-| 20201122 | 使用GAN共享网络时间序列数据：挑战，初步承诺和未解决的问题，IMC 2020 (最佳论文入围). | https://github.com/fjxmlzn/DoppelGANger| 
-| 20201122 | VBA Purging - Macro Obfuscation With VBA Purging | https://www.fireeye.com/blog/threat-research/2020/11/purgalicious-vba-macro-obfuscation-with-vba-purging.html| 
-| 20201120 | HITBCyberWeek 2020 会议的议题 PPT 公开了 | https://cyberweek.ae/materials/2020/| 
-| 20201120 | Android 版本的 Facebook Messenger 被发现存在漏洞，攻击者可以发送恶意消息在接听者确认之前建立通话连接 | https://bugs.chromium.org/p/project-zero/issues/detail?id=2098| 
 
 
 # 安全维基 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20201125 | 上传定时任务获取系统权限 | https://www.sec-in.com/article/546| 
+| 20201125 | Python 网络爬虫教程 | https://www.bookstack.cn/read/piaosanlang-spiders/c41d7333f0fc34db.md| 
+| 20201125 | Google BeyondProd安全架构详解 | https://mp.weixin.qq.com/s/l__r5GUIZJ_moVcKBF9pyA| 
+| 20201125 | ClickHouse海量数据分析分享 | https://mp.weixin.qq.com/s/MnirNdLxyvrCAPd51SiW6w| 
+| 20201125 | 浅谈中间件安全漏洞修复体系建设 | https://mp.weixin.qq.com/s/6bJskpL_JLAEIXdGq5Hljw| 
+| 20201125 | 我看技术人的成长路径 | https://mp.weixin.qq.com/s/m6NbHb9UUtiSOMPnKgId3g| 
+| 20201125 | DNSMon: 用DNS数据进行威胁发现 | https://mp.weixin.qq.com/s/6CtRd7o4IjreLaU-hFt9vQ| 
+| 20201125 | 云原生安全白皮书（译） | https://mp.weixin.qq.com/s/uH7M7vR1m0CJhoVfr-DisQ| 
 | 20201124 | 浅谈华为SDL软件安全工程能力 | https://mp.weixin.qq.com/s/i1N80qN14hGslRnrIV8mjg| 
 | 20201124 | 记录一些逻辑漏洞案例 | https://www.sec-in.com/article/619| 
-| 20201124 | 基于Flink的网络流量实时解析 | https://mp.weixin.qq.com/s/i7f7p9HBE-03YWNnl_NdPA| 
-| 20201124 | 一种针对Webpack等前端打包工具构建的网站的自动化测试思路（... | https://www.hackinn.com/index.php/archives/744/| 
-| 20201124 | 物联网安全系列之探索IoT通信安全的研究之道 | https://mp.weixin.qq.com/s/6KviA72Ke0I9ZVYusTDpoA| 
-| 20201123 | 安全狗绕waf、编写sqlmap tamper脚本 | https://www.sec-in.com/article/609| 
-| 20201123 | Metasploit主机上线钉钉通知 | https://mp.weixin.qq.com/s/TpC-93r7dA7luEhkiHAi_g| 
-| 20201123 | 智能合约:整数溢出、访问控制缺陷漏洞与跨合约调用漏洞 | https://mp.weixin.qq.com/s/XRrHeugDMV-6ANRxC0ov3Q| 
-| 20201123 | SecWiki周刊（第351期) | https://www.sec-wiki.com/weekly/351| 
-| 20201121 | 利用avdump转储lsass.exe进程 | https://mp.weixin.qq.com/s/bHDMTlY-YZxx9dS-MqQfRA| 
 
 
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20201125T02:00:10Z | CVE-2020-1034 | PoC demonstrating the use of cve-2020-1034 for privilege escalation | https://github.com/yardenshafir/CVE-2020-1034 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 00 MINUTES 29 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20201125T00:25:08Z | CVE-2020-5902 | a shitty tool for CVE-2020-5902 (pls use a command various time to work, request things...) | https://github.com/EtoYoshio/t_pwn | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 00 MINUTES 32 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201125T12:21:46Z | CVE-2020-1034 | PoC demonstrating the use of cve-2020-1034 for privilege escalation | https://github.com/yardenshafir/CVE-2020-1034 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 58 MINUTES 17 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201125T11:07:28Z | CVE-2020-13942 | CVE-2020-13942 unauthenticated RCE POC through MVEL and OGNL injection | https://github.com/eugenebmx/CVE-2020-13942 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 58 MINUTES 10 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201125T08:29:26Z | cve-2020-29070 | CVE-2020-29070 write-up. | https://github.com/aslanemre/cve-2020-29070 | 未查询到CVE信息| 
+| 20201125T04:29:32Z | CVE-2020-24227 | Playground Sessions - Storing User Credentials in Plaintext | https://github.com/nathunandwani/CVE-2020-24227 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 58 MINUTES 15 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201125T00:25:08Z | CVE-2020-5902 | a shitty tool for CVE-2020-5902 (pls use a command various time to work, request things...) | https://github.com/EtoYoshio/t_pwn | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 58 MINUTES 21 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20201124T23:13:20Z | CVE-2020-6308 | CVE-2020-6308 mass exploiter/fuzzer. | https://github.com/Mulvun/CVE-2020-6308-mass-exploiter | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
-| 20201124T22:13:25Z | CVE-2020-15999 | CVE-2020-15999 | https://github.com/marcinguy/CVE-2020-15999 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 00 MINUTES 17 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20201124T07:13:41Z | CVE-2020-27955 | Null | https://github.com/r00t4dm/CVE-2020-27955 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 00 MINUTES 30 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20201124T06:13:47Z | CVE-2020-13942 | CVE-2020-13942 unauthenticated RCE POC through MVEL and OGNL injection | https://github.com/eugenebmx/CVE-2020-13942 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 00 MINUTES 22 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20201124T05:32:13Z | CVE-2020-11975 | CVE-2020-11975 CVE-2020-13942 | https://github.com/1135/unomi_exploit | | 
-| 20201124T05:03:02Z | CVE-2020-27955 | Git-lfs RCE exploit CVE-2020-27955 - tested on Windows on: git, gh cli, GitHub Desktop, Visual Studio, SourceTree etc. | https://github.com/ExploitBox/git-lfs-RCE-exploit-CVE-2020-27955 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 00 MINUTES 18 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20201124T04:29:58Z | cve-2020-10977 | GitLab 12.9.0 Arbitrary File Read  | https://github.com/thewhiteh4t/cve-2020-10977 | 未查询到CVE信息| 
-| 20201123T17:27:10Z | CVE-2020-28328 | Writeup on CVE-2020-28328: SuiteCRM Log File Remote Code Execution plus some bonus Cross-Site Scripting | https://github.com/mcorybillington/SuiteCRM-RCE | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 00 MINUTES 19 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201124T22:13:25Z | CVE-2020-15999 | CVE-2020-15999 | https://github.com/marcinguy/CVE-2020-15999 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 58 MINUTES 07 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201124T07:13:41Z | CVE-2020-27955 | Null | https://github.com/r00t4dm/CVE-2020-27955 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 58 MINUTES 18 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201124T05:32:13Z | CVE-2020-11975 | CVE-2020-11975 CVE-2020-13942 | https://github.com/1135/unomi_exploit | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 58 MINUTES 19 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201124T05:03:02Z | CVE-2020-27955 | Git-lfs RCE exploit CVE-2020-27955 - tested on Windows on: git, gh cli, GitHub Desktop, Visual Studio, SourceTree etc. | https://github.com/ExploitBox/git-lfs-RCE-exploit-CVE-2020-27955 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 58 MINUTES 09 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 
 
 # klee on Github 推荐
@@ -87,16 +87,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20201125T02:39:13Z | ExploitDB | https://github.com/antichown/exploitdb_nim | 1 | 0| 
-| 20201125T02:16:45Z | CTF framework and exploit development library | https://github.com/Gallopsled/pwntools | 7282 | 1320| 
-| 20201125T02:14:25Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 8657 | 1361| 
-| 20201125T02:12:38Z | Fetch, install and search exploit archives from exploit sites. | https://github.com/BlackArch/sploitctl | 83 | 34| 
-| 20201125T01:48:53Z | Null | https://github.com/Yard-Cracker/BOT-Exploit | 0 | 0| 
-| 20201125T01:36:52Z | exploit-database-papers | https://github.com/offensive-security/exploitdb-papers | 260 | 34| 
-| 20201125T01:25:33Z | Add plants and biotechnical processes to allow you to play pySuite without exploiting virtual animals. | https://github.com/tiriscef/pyveganism | 0 | 1| 
-| 20201125T00:49:09Z | Null | https://github.com/wotwot563/cyberMinorExploitScript | 0 | 0| 
-| 20201125T00:49:06Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 6 | 4| 
-| 20201125T00:35:02Z | This bash script will help you to hack remote hosts  | https://github.com/FabioDefilippo/linuxallremote | 1 | 0| 
+| 20201125T12:56:46Z | Null | https://github.com/drph4nt0m/Chrome-Web-API-BLE-Exploit | 0 | 0| 
+| 20201125T12:49:09Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 6 | 4| 
+| 20201125T12:47:51Z | Null | https://github.com/wotwot563/cyberMinorExploitScript | 0 | 0| 
+| 20201125T12:32:03Z | Null | https://github.com/chtmdekf/LK_Exploit | 0 | 0| 
+| 20201125T12:11:27Z | A collection of more than 140+ tools, scripts, cheatsheets and other loots that I have developed over years for Red Teaming/Pentesting/IT Security audits purposes. Most of them came handy on at least one of my real-world engagements. | https://github.com/mgeeky/Penetration-Testing-Tools | 503 | 138| 
+| 20201125T11:42:16Z | kernel exploit for  Apple iOS 13.X | https://github.com/0x36/oob_events | 135 | 26| 
+| 20201125T11:35:13Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 8660 | 1360| 
+| 20201125T11:12:42Z | GEF - GDB Enhanced Features for exploit devs & reversers | https://github.com/hugsy/gef | 3269 | 473| 
+| 20201125T10:50:56Z | Easy PS4 Exploit Hosting | https://github.com/Al-Azif/ps4-exploit-host | 724 | 212| 
+| 20201125T10:28:55Z | Some of my exploits. | https://github.com/cfreal/exploits | 529 | 156| 
 
 
 # backdoor on Github 推荐
@@ -117,16 +117,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20201125T02:54:15Z | A fuzzing library for C# | https://github.com/pensono/FuzzDotNet | 1 | 0| 
-| 20201125T02:28:32Z | I%m not sure how Github%s suggested name will relate to this code yet, but I%m sure I%ll figure it out somewhere along the line. Otherwise, secret WIP research code lies within! | https://github.com/BennyQBD/fuzzy-funicular | 0 | 0| 
-| 20201125T01:22:39Z | Lógica fuzzy para classificação de ações | https://github.com/vitormormul/financial-fuzzy | 0 | 0| 
-| 20201125T00:46:38Z | Fuzzy matching publications for fatcat (wip). | https://github.com/miku/fuzzycat | 0 | 1| 
-| 20201125T00:36:40Z | Null | https://github.com/igorcm3/LogicaFuzzy | 0 | 0| 
-| 20201125T00:25:14Z | Sistema de ventilação utilizar lógica fuzzy. Dupla: Bruna e Natália. | https://github.com/BrunaTondato/SistemaVentilacaoLogicaFuzzy | 0 | 0| 
-| 20201125T00:19:50Z | OSS-Fuzz - continuous fuzzing of open source software. | https://github.com/google/oss-fuzz | 5674 | 1122| 
-| 20201125T00:12:01Z | Personal website of Laurence Hughes | https://github.com/fuzzylogicxx/fuzzylogic | 4 | 1| 
-| 20201125T00:01:12Z | Null | https://github.com/manticorebp/FuzzyClrSp | 0 | 0| 
-| 20201124T23:56:24Z | Create new personal site | https://github.com/Temple0609/fuzzy-parakeet | 1 | 0| 
+| 20201125T13:01:10Z | Null | https://github.com/bjornjacobs/SoftwareSecurityFuzzing | 0 | 0| 
+| 20201125T12:49:30Z | Null | https://github.com/YuriKokehara/fuzzy-enigma | 0 | 0| 
+| 20201125T12:44:49Z | Null | https://github.com/s9varesc/url-fuzzing-docker | 0 | 0| 
+| 20201125T12:40:12Z | Packer Fuzzer is a fast and efficient scanner for security detection of websites constructed by javascript module bundler such as Webpack.  | https://github.com/rtcatc/Packer-Fuzzer | 401 | 46| 
+| 20201125T12:01:02Z | Fuzzy matching publications for fatcat (wip). | https://github.com/miku/fuzzycat | 0 | 1| 
+| 20201125T11:55:44Z | The C4 Concurrent C Fuzzer | https://github.com/MattWindsor91/c4f | 7 | 1| 
+| 20201125T11:35:33Z | Null | https://github.com/Sambigeara/fuzzy-note | 1 | 1| 
+| 20201125T11:07:02Z | Null | https://github.com/Godmind-BM/sumo-fuzzy | 0 | 0| 
+| 20201125T10:43:59Z | Differential Fuzzer for Ethereum 2.0 | https://github.com/sigp/beacon-fuzz | 60 | 9| 
+| 20201125T10:38:44Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 3242 | 749| 
 
 
 
