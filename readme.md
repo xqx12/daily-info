@@ -63,8 +63,14 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20201125T10:25:48Z | Null | https://github.com/rtykholiz/backdoors | 0 | 0| 
+| 20201125T07:04:23Z | Ghost Framework is an Android post-exploitation framework that exploits the Android Debug Bridge to remotely access an Android device. Ghost Framework gives you the power and convenience of remote Android device administration. | https://github.com/EntySec/ghost | 824 | 417| 
+| 20201125T06:11:38Z | Null | https://github.com/YukiM00/Backdoor_med | 0 | 0| 
+| 20201125T04:52:47Z | scan for backdoor shell in your website directory | https://github.com/abemin/cliShellScanner | 0 | 0| 
+| 20201125T04:13:34Z | Linux backdoor written with the HTTPRequestHandler library | https://github.com/SkryptKiddie/httpBackdoor | 0 | 0| 
+| 20201125T03:47:01Z | Deep Learning Backdoors Framework. A light-weight tool to conduct your research on backdoors. | https://github.com/ebagdasa/backdoors101 | 10 | 0| 
+| 20201125T03:23:17Z | aspx backdoor | https://github.com/so-il/BackDoor | 0 | 0| 
 | 20201125T02:05:42Z | ParadoxiaRat : Native Windows Remote access Tool. | https://github.com/quantumcored/paradoxiaRAT | 280 | 59| 
-| 20201125T00:57:03Z | Ghost Framework is an Android post-exploitation framework that exploits the Android Debug Bridge to remotely access an Android device. Ghost Framework gives you the power and convenience of remote Android device administration. | https://github.com/EntySec/ghost | 823 | 417| 
 
 
 # fuzz on Github 推荐
