@@ -48,14 +48,14 @@
 | --- | --- | --- | --- | ---| 
 | 20201126T01:10:09Z | CVE-2020-24227 | Playground Sessions - Storing User Credentials in Plaintext | https://github.com/nathunandwani/CVE-2020-24227 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 10 MINUTES 10 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20201125T23:01:56Z | CVE-2020-10977 | authenticated arbitrary file read for Gitlab (CVE-2020-10977) | https://github.com/JustMichi/CVE-2020-10977.py | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 10 MINUTES 17 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20201125T22:40:09Z | CVE-2020-13942 | CVE-2020-13942 unauthenticated RCE POC through MVEL and OGNL injection | https://github.com/eugenebmx/CVE-2020-13942 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 10 MINUTES 54 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201125T22:40:09Z | CVE-2020-13942 | CVE-2020-13942 unauthenticated RCE POC through MVEL and OGNL injection | https://github.com/eugenebmx/CVE-2020-13942 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 10 MINUTES 05 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20201125T19:55:54Z | cve-2020-29070 | CVE-2020-29070 write-up. | https://github.com/aslanemre/cve-2020-29070 | 未查询到CVE信息| 
 | 20201125T19:16:32Z | CVE-2020-5902 | a shitty tool for CVE-2020-5902 (pls use a command various time to work, request things...) | https://github.com/EtoYoshio/t_pwn | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 10 MINUTES 15 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20201125T17:03:29Z | CVE-2020-1034 | PoC demonstrating the use of cve-2020-1034 for privilege escalation | https://github.com/yardenshafir/CVE-2020-1034 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 10 MINUTES 11 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20201125T16:33:09Z | CVE-2020-16947 | Outlook 2019 Remote Command Execution | https://github.com/MasterSploit/CVE-2020-16947 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 10 MINUTES 09 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20201125T16:03:20Z | CVE-2020-27955 | Git-lfs RCE exploit CVE-2020-27955 - tested on Windows on: git, gh cli, GitHub Desktop, Visual Studio, SourceTree etc. | https://github.com/ExploitBox/git-lfs-RCE-exploit-CVE-2020-27955 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 10 MINUTES 52 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201125T16:03:20Z | CVE-2020-27955 | Git-lfs RCE exploit CVE-2020-27955 - tested on Windows on: git, gh cli, GitHub Desktop, Visual Studio, SourceTree etc. | https://github.com/ExploitBox/git-lfs-RCE-exploit-CVE-2020-27955 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 10 MINUTES 03 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20201124T23:13:20Z | CVE-2020-6308 | CVE-2020-6308 mass exploiter/fuzzer. | https://github.com/Mulvun/CVE-2020-6308-mass-exploiter | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
-| 20201124T22:13:25Z | CVE-2020-15999 | CVE-2020-15999 | https://github.com/marcinguy/CVE-2020-15999 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 10 MINUTES 51 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201124T22:13:25Z | CVE-2020-15999 | CVE-2020-15999 | https://github.com/marcinguy/CVE-2020-15999 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 10 MINUTES 02 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 
 
 # klee on Github 推荐
@@ -102,8 +102,8 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20201126T01:50:05Z | backdoortst e um auxilia do msf desenvolvido para facilita os usuarios a criar um payload | https://github.com/shoowl/backdoortst | 3 | 1| 
 | 20201125T23:03:38Z | scan for backdoor shell in your website directory | https://github.com/abemin/cliShellScanner | 0 | 0| 
-| 20201125T22:49:37Z | backdoortst e um auxilia do msf desenvolvido para facilita os usuarios a criar um payload | https://github.com/shoowl/backdoortst | 3 | 1| 
 | 20201125T21:45:25Z | PCI Express DIY hacking toolkit for Xilinx SP605 | https://github.com/Cr4sh/s6_pcie_microblaze | 290 | 75| 
 | 20201125T17:03:16Z | Ghost Framework is an Android post-exploitation framework that exploits the Android Debug Bridge to remotely access an Android device. Ghost Framework gives you the power and convenience of remote Android device administration. | https://github.com/EntySec/ghost | 825 | 416| 
 | 20201125T10:25:48Z | Null | https://github.com/rtykholiz/backdoors | 0 | 0| 
