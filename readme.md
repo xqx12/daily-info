@@ -10,6 +10,9 @@
 | 20201125 | Checkpoint 对 Android 平台吸费恶意软件 WAPDropper 的分析 | https://research.checkpoint.com/2020/enter-wapdropper-subscribe-users-to-premium-services-by-telecom-companies/| 
 | 20201125 | Smart (and simple) ways to prevent symlink attacks in Go | https://blog.trailofbits.com/2020/11/24/smart-and-simple-ways-to-prevent-symlink-attacks-in-go/| 
 | 20201125 | ZDI 对近期 SaltStack 被发现的几个命令注入漏洞的分析 | https://www.thezdi.com/blog/2020/11/24/detailing-saltstack-salt-command-injection-vulnerabilities| 
+| 20201125 | 针对沉默的图书馆APT小组IoC的调查分析溯源。 | http://www.circleid.com/posts/20201112-an-investigative-analysis-of-the-silent-librarian-iocs/| 
+| 20201125 | 10个Google Chrome开发工具功能与技巧视频分享。 | https://www.youtube.com/watch?v=3XhQ7IMxW3o| 
+| 20201125 | HEVD驱动程序开发系列-第1部分：搭建环境准备工作。 | https://jb05s.github.io/HEVD-Driver-Exploitation-Part-1/| 
 
 
 # 安全维基 推荐
@@ -28,45 +31,52 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20201125T12:21:46Z | CVE-2020-1034 | PoC demonstrating the use of cve-2020-1034 for privilege escalation | https://github.com/yardenshafir/CVE-2020-1034 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 01 MINUTES 13 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20201125T11:07:28Z | CVE-2020-13942 | CVE-2020-13942 unauthenticated RCE POC through MVEL and OGNL injection | https://github.com/eugenebmx/CVE-2020-13942 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 01 MINUTES 06 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20201125T08:29:26Z | cve-2020-29070 | CVE-2020-29070 write-up. | https://github.com/aslanemre/cve-2020-29070 | 未查询到CVE信息| 
-| 20201125T04:29:32Z | CVE-2020-24227 | Playground Sessions - Storing User Credentials in Plaintext | https://github.com/nathunandwani/CVE-2020-24227 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 01 MINUTES 11 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20201125T00:25:08Z | CVE-2020-5902 | a shitty tool for CVE-2020-5902 (pls use a command various time to work, request things...) | https://github.com/EtoYoshio/t_pwn | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 01 MINUTES 17 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201125T23:01:56Z | CVE-2020-10977 | authenticated arbitrary file read for Gitlab (CVE-2020-10977) | https://github.com/JustMichi/CVE-2020-10977.py | 在项目之间移动问题时，GitLab EE / CE 8.5至12.9容易受到路径遍历的影响。| 
+| 20201125T22:40:09Z | CVE-2020-13942 | CVE-2020-13942 unauthenticated RCE POC through MVEL and OGNL injection | https://github.com/eugenebmx/CVE-2020-13942 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 58 MINUTES 58 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201125T19:55:54Z | cve-2020-29070 | CVE-2020-29070 write-up. | https://github.com/aslanemre/cve-2020-29070 | 未查询到CVE信息| 
+| 20201125T19:16:32Z | CVE-2020-5902 | a shitty tool for CVE-2020-5902 (pls use a command various time to work, request things...) | https://github.com/EtoYoshio/t_pwn | 在BIG-IP版本15.0.0-15.1.0.3、14.1.0-14.1.2.5、13.1.0-13.1.3.3、12.1.0-12.1.5.1和11.6.1-11.6.5.1中，流量管理用户接口（TMUI），也称为“配置”实用程序，在未公开的页面中具有远程执行代码（RCE）漏洞。| 
+| 20201125T17:03:29Z | CVE-2020-1034 | PoC demonstrating the use of cve-2020-1034 for privilege escalation | https://github.com/yardenshafir/CVE-2020-1034 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 59 MINUTES 06 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201125T16:33:09Z | CVE-2020-16947 | Outlook 2019 Remote Command Execution | https://github.com/MasterSploit/CVE-2020-16947 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 59 MINUTES 03 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201125T16:03:20Z | CVE-2020-27955 | Git-lfs RCE exploit CVE-2020-27955 - tested on Windows on: git, gh cli, GitHub Desktop, Visual Studio, SourceTree etc. | https://github.com/ExploitBox/git-lfs-RCE-exploit-CVE-2020-27955 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 58 MINUTES 56 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201125T04:29:32Z | CVE-2020-24227 | Playground Sessions - Storing User Credentials in Plaintext | https://github.com/nathunandwani/CVE-2020-24227 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 59 MINUTES 04 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20201125T18:46:16Z | Urban Evidence Based Policy (SPPA667) | https://github.com/KLeeDE/PUS2020_KLee | 0 | 1| 
 
 
 # s2e on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20201125T20:48:25Z | Your S2E project management tools. Visit https://s2e.systems/docs to get started. | https://github.com/S2E/s2e-env | 69 | 30| 
 
 
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20201125T13:50:24Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 8661 | 1360| 
-| 20201125T13:43:56Z | Null | https://github.com/drph4nt0m/Chrome-Web-API-BLE-Exploit | 0 | 0| 
-| 20201125T13:21:24Z | GEF - GDB Enhanced Features for exploit devs & reversers | https://github.com/hugsy/gef | 3270 | 473| 
-| 20201125T13:16:28Z | This bash script will help you to hack remote hosts  | https://github.com/FabioDefilippo/linuxallremote | 1 | 0| 
-| 20201125T13:13:52Z | Computer Network Exploitation (CNE) Field Manual | https://github.com/mzet-/z-field-manual | 0 | 0| 
-| 20201125T12:49:09Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 6 | 4| 
-| 20201125T12:47:51Z | Null | https://github.com/wotwot563/cyberMinorExploitScript | 0 | 0| 
-| 20201125T12:32:03Z | Null | https://github.com/chtmdekf/LK_Exploit | 0 | 0| 
-| 20201125T12:11:27Z | A collection of more than 140+ tools, scripts, cheatsheets and other loots that I have developed over years for Red Teaming/Pentesting/IT Security audits purposes. Most of them came handy on at least one of my real-world engagements. | https://github.com/mgeeky/Penetration-Testing-Tools | 503 | 138| 
-| 20201125T11:42:16Z | kernel exploit for  Apple iOS 13.X | https://github.com/0x36/oob_events | 135 | 26| 
+| 20201125T22:55:10Z | A list of everything you need to be successful as an Ethical Hacker.  The best resources, exploits, payloads, and strategies that I%ve used to advance my skills and knowledge at a Penetration Tester. | https://github.com/Kennyslaboratory/Hacker-Heaven | 2 | 0| 
+| 20201125T22:36:58Z | windows and linux streams for post exploitation | https://github.com/kymb0/post_exploitation | 1 | 0| 
+| 20201125T21:51:21Z |  I created this repository with the intention of saving some types of injections using some exploits, these types are very basic but can help to understand who is starting.  Contains 5 types of injections. later on I would post a different manualmap injection where I never got to see | https://github.com/bieljtvz/injection_lib | 0 | 0| 
+| 20201125T21:15:20Z | A collection of more than 140+ tools, scripts, cheatsheets and other loots that I have developed over years for Red Teaming/Pentesting/IT Security audits purposes. Most of them came handy on at least one of my real-world engagements. | https://github.com/mgeeky/Penetration-Testing-Tools | 503 | 138| 
+| 20201125T21:13:28Z | PPC ASM for the WParam%s memory card exploit coupled with several codes. | https://github.com/PsiLupan/SSBM-Memory-Card-Loader | 4 | 1| 
+| 20201125T20:35:14Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 8663 | 1360| 
+| 20201125T20:21:55Z | Simple binary to make exploitation of insecure NFS systems easier from Linux host | https://github.com/the-p0p/setMe | 1 | 0| 
+| 20201125T19:50:20Z | Collection of tools and techniques for enumeration and exploitation of windows systems, linux systems, and web applications. | https://github.com/EvolvingSysadmin/Penetration-Testing | 0 | 0| 
+| 20201125T19:45:46Z | Protekt Protocol puts crypto to work insuring users against hacks, bugs, and exploits of any DeFi protocol or smart contract. The goal is to support and catalyze the growth of the DeFi ecosystem by protecting users from getting rekt. | https://github.com/corbinpage/protekt-protocol-docs | 6 | 0| 
+| 20201125T19:12:17Z | WP-Exploiter is a tool for testing and exploiting a wide range of WordPress websites. | https://github.com/eliranmaman/WP-Exploiter | 0 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20201125T23:03:38Z | scan for backdoor shell in your website directory | https://github.com/abemin/cliShellScanner | 0 | 0| 
+| 20201125T22:49:37Z | backdoortst e um auxilia do msf desenvolvido para facilita os usuarios a criar um payload | https://github.com/shoowl/backdoortst | 3 | 1| 
+| 20201125T21:45:25Z | PCI Express DIY hacking toolkit for Xilinx SP605 | https://github.com/Cr4sh/s6_pcie_microblaze | 290 | 75| 
+| 20201125T17:03:16Z | Ghost Framework is an Android post-exploitation framework that exploits the Android Debug Bridge to remotely access an Android device. Ghost Framework gives you the power and convenience of remote Android device administration. | https://github.com/EntySec/ghost | 825 | 416| 
 | 20201125T10:25:48Z | Null | https://github.com/rtykholiz/backdoors | 0 | 0| 
-| 20201125T07:04:23Z | Ghost Framework is an Android post-exploitation framework that exploits the Android Debug Bridge to remotely access an Android device. Ghost Framework gives you the power and convenience of remote Android device administration. | https://github.com/EntySec/ghost | 824 | 416| 
 | 20201125T06:11:38Z | Null | https://github.com/YukiM00/Backdoor_med | 0 | 0| 
-| 20201125T04:52:47Z | scan for backdoor shell in your website directory | https://github.com/abemin/cliShellScanner | 0 | 0| 
 | 20201125T04:13:34Z | Linux backdoor written with the HTTPRequestHandler library | https://github.com/SkryptKiddie/httpBackdoor | 0 | 0| 
 | 20201125T03:47:01Z | Deep Learning Backdoors Framework. A light-weight tool to conduct your research on backdoors. | https://github.com/ebagdasa/backdoors101 | 10 | 0| 
 | 20201125T03:23:17Z | aspx backdoor | https://github.com/so-il/BackDoor | 0 | 0| 
@@ -76,16 +86,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20201125T13:55:50Z | Manual input and schedule fuzzing/steering | https://github.com/danpoe/quickfuzz | 0 | 0| 
-| 20201125T13:41:18Z | Null | https://github.com/s9varesc/url-fuzzing-docker | 0 | 0| 
-| 20201125T13:32:45Z | Personal website of Laurence Hughes | https://github.com/fuzzylogicxx/fuzzylogic | 4 | 1| 
-| 20201125T13:29:11Z | Packer Fuzzer is a fast and efficient scanner for security detection of websites constructed by javascript module bundler such as Webpack.  | https://github.com/rtcatc/Packer-Fuzzer | 401 | 46| 
-| 20201125T13:18:40Z | My fuzzing data | https://github.com/Fadavvi/Fuzz | 1 | 1| 
-| 20201125T13:05:24Z | Null | https://github.com/Sambigeara/fuzzy-note | 1 | 1| 
-| 20201125T13:01:10Z | Null | https://github.com/bjornjacobs/SoftwareSecurityFuzzing | 0 | 0| 
-| 20201125T12:49:30Z | Null | https://github.com/YuriKokehara/fuzzy-enigma | 0 | 0| 
-| 20201125T12:01:02Z | Fuzzy matching publications for fatcat (wip). | https://github.com/miku/fuzzycat | 0 | 1| 
-| 20201125T11:55:44Z | The C4 Concurrent C Fuzzer | https://github.com/MattWindsor91/c4f | 7 | 1| 
+| 20201125T23:45:54Z | Simple tool to rename source files by matching a list of choices. | https://github.com/pcjco/PyFuzzy-renamer | 0 | 0| 
+| 20201125T23:45:31Z | Lógica fuzzy para classificação de ações | https://github.com/vitormormul/financial-fuzzy | 0 | 0| 
+| 20201125T23:41:19Z | Personal website of Laurence Hughes | https://github.com/fuzzylogicxx/fuzzylogic | 4 | 1| 
+| 20201125T23:35:51Z | Fuzzy matching publications for fatcat (wip). | https://github.com/miku/fuzzycat | 0 | 1| 
+| 20201125T23:19:21Z | Simple rust fuzzer  | https://github.com/carstein/rfuss2 | 0 | 0| 
+| 20201125T23:16:31Z | A fuzzy-finder powered command-line tool to fetch content with youtube-dl | https://github.com/ZalgoNoise/fuzzydl | 0 | 0| 
+| 20201125T22:32:25Z | Experimental projects | https://github.com/tannmatter/fuzzy-happiness | 0 | 0| 
+| 20201125T22:00:25Z | Null | https://github.com/AL6981/warm-fuzzies | 0 | 0| 
+| 20201125T21:48:35Z | An implementation of a Inference System using fuzzy logic for Simulation class. | https://github.com/stdevAntiD2ta/fuzzy-inference-system | 0 | 0| 
+| 20201125T21:29:45Z | Null | https://github.com/stefanosPap/Fuzzy-Systems | 0 | 0| 
 
 
 
