@@ -46,16 +46,16 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20201127T02:22:57Z | CVE-2020-1034 | PoC demonstrating the use of cve-2020-1034 for privilege escalation | https://github.com/yardenshafir/CVE-2020-1034 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 02 MINUTES 09 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201127T02:22:57Z | CVE-2020-1034 | PoC demonstrating the use of cve-2020-1034 for privilege escalation | https://github.com/yardenshafir/CVE-2020-1034 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 01 MINUTES 08 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20201127T02:12:54Z | CVE-2020-2883 | CVE-2020-2883 | https://github.com/Al1ex/CVE-2020-2883 | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
 | 20201126T19:55:35Z | CVE-2020-5902 | a shitty tool for CVE-2020-5902 (pls use a command various time to work, request things...) | https://github.com/EtoYoshio/t_pwn | | 
-| 20201126T19:40:32Z | CVE-2020-10977 | authenticated arbitrary file read for Gitlab (CVE-2020-10977) | https://github.com/JustMichi/CVE-2020-10977.py | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 02 MINUTES 14 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20201126T16:44:58Z | CVE-2020-24227 | Playground Sessions - Storing User Credentials in Plaintext | https://github.com/nathunandwani/CVE-2020-24227 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 02 MINUTES 07 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20201126T04:21:23Z | CVE-2020-17087 | A CVE-2020-17087 PoC. | https://github.com/revengsh/CVE-2020-17087 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 02 MINUTES 15 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20201125T22:40:09Z | CVE-2020-13942 | CVE-2020-13942 unauthenticated RCE POC through MVEL and OGNL injection | https://github.com/eugenebmx/CVE-2020-13942 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 02 MINUTES 04 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201126T19:40:32Z | CVE-2020-10977 | authenticated arbitrary file read for Gitlab (CVE-2020-10977) | https://github.com/JustMichi/CVE-2020-10977.py | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 01 MINUTES 13 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201126T16:44:58Z | CVE-2020-24227 | Playground Sessions - Storing User Credentials in Plaintext | https://github.com/nathunandwani/CVE-2020-24227 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 01 MINUTES 06 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201126T04:21:23Z | CVE-2020-17087 | A CVE-2020-17087 PoC. | https://github.com/revengsh/CVE-2020-17087 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 01 MINUTES 14 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201125T22:40:09Z | CVE-2020-13942 | CVE-2020-13942 unauthenticated RCE POC through MVEL and OGNL injection | https://github.com/eugenebmx/CVE-2020-13942 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 01 MINUTES 02 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20201125T19:55:54Z | cve-2020-29070 | CVE-2020-29070 write-up. | https://github.com/aslanemre/cve-2020-29070 | 未查询到CVE信息| 
-| 20201125T16:33:09Z | CVE-2020-16947 | Outlook 2019 Remote Command Execution | https://github.com/MasterSploit/CVE-2020-16947 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 02 MINUTES 07 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20201125T16:03:20Z | CVE-2020-27955 | Git-lfs RCE exploit CVE-2020-27955 - tested on Windows on: git, gh cli, GitHub Desktop, Visual Studio, SourceTree etc. | https://github.com/ExploitBox/git-lfs-RCE-exploit-CVE-2020-27955 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 02 MINUTES 02 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201125T16:33:09Z | CVE-2020-16947 | Outlook 2019 Remote Command Execution | https://github.com/MasterSploit/CVE-2020-16947 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 01 MINUTES 05 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201125T16:03:20Z | CVE-2020-27955 | Git-lfs RCE exploit CVE-2020-27955 - tested on Windows on: git, gh cli, GitHub Desktop, Visual Studio, SourceTree etc. | https://github.com/ExploitBox/git-lfs-RCE-exploit-CVE-2020-27955 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 01 MINUTES 00 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 
 
 # klee on Github 推荐
@@ -88,6 +88,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20201127T02:58:40Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 3208 | 488| 
 | 20201127T02:54:25Z | Find exploits in local and online database | https://github.com/Err0r-ICA/Searchsploit | 0 | 0| 
 | 20201127T02:35:55Z | Vulnerabilities of Goby supported with exploitation. | https://github.com/gobysec/GobyVuls | 58 | 12| 
 | 20201127T02:34:32Z | This Buffer Overflow Toolkit works through FTP, SMTP, POP, HTTP protocols as well file outputs for playlists exploiting customized variables/commands. Payloads can be generated through MSFVENOM or you can use your own ASM files. | https://github.com/danieljs777/fastoverflowtk | 0 | 0| 
@@ -97,7 +98,6 @@
 | 20201127T00:45:56Z | A list of everything you need to be successful as an Ethical Hacker.  The best resources, exploits, payloads, and strategies that I%ve used to advance my skills and knowledge at a Penetration Tester. | https://github.com/Kennyslaboratory/Hacker-Heaven | 2 | 0| 
 | 20201126T22:59:05Z | Various techniques for exploiting Linux | https://github.com/billchaison/Linux-Trix | 2 | 0| 
 | 20201126T22:32:23Z | CTF framework and exploit development library | https://github.com/Gallopsled/pwntools | 7292 | 1319| 
-| 20201126T21:46:01Z | Exploits that I%ve written for Stephen Bradshaw%s Vulnserver https://github.com/stephenbradshaw/vulnserver | https://github.com/VWolt/Vulnserver-Exploits | 0 | 0| 
 
 
 # backdoor on Github 推荐
