@@ -12,6 +12,11 @@
 | 20201126 | Diffware - 文件、目录 Diff 工具，支持多种配置参数 | https://github.com/airbus-seclab/diffware| 
 | 20201126 | zodiacon 开源的一个类似 Process Explorer 的工具 | https://github.com/zodiacon/SystemExplorer| 
 | 20201126 | vxunderground 按照不同语言收集的恶意软件源码 | https://github.com/vxunderground/MalwareSourceCode| 
+| 20201126 | WP：发现 SSRF 漏洞并通过 303 redirect 绕过保护 | https://hackerone.com/reports/923132| 
+| 20201126 | 通过使用Web Shell远程转储“ Active Directory域控制器”获取计算机用户数据库测试。 | https://www.mannulinux.org/2018/12/remotely-dump-active-directory-domain.html| 
+| 20201126 | 一个 python3 编写的用于 Web App fuzz 的工具 | https://kalilinuxtutorials.com/py3webfuzz/| 
+| 20201126 | Webshell Analyzer : 用Golang语言编写的的Web Shell跨平台分析工具。 | https://kalilinuxtutorials.com/webshell-analyzer/| 
+| 20201126 | WP: 发现 SSTI 漏洞并绕过 WAF | https://cyc10n3.medium.com/rce-via-server-side-template-injection-ad46f8e0c2ae| 
 
 
 # 安全维基 推荐
@@ -28,15 +33,18 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20201126T10:22:53Z | CVE-2020-1034 | PoC demonstrating the use of cve-2020-1034 for privilege escalation | https://github.com/yardenshafir/CVE-2020-1034 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  09 HOURS 59 MINUTES 58 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20201126T04:21:23Z | CVE-2020-17087 | A CVE-2020-17087 PoC. | https://github.com/revengsh/CVE-2020-17087 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 00 MINUTES 08 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20201126T01:10:09Z | CVE-2020-24227 | Playground Sessions - Storing User Credentials in Plaintext | https://github.com/nathunandwani/CVE-2020-24227 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  09 HOURS 59 MINUTES 56 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201126T19:55:35Z | CVE-2020-5902 | a shitty tool for CVE-2020-5902 (pls use a command various time to work, request things...) | https://github.com/EtoYoshio/t_pwn | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 58 MINUTES 12 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201126T19:40:32Z | CVE-2020-10977 | authenticated arbitrary file read for Gitlab (CVE-2020-10977) | https://github.com/JustMichi/CVE-2020-10977.py | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 58 MINUTES 14 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201126T16:44:58Z | CVE-2020-24227 | Playground Sessions - Storing User Credentials in Plaintext | https://github.com/nathunandwani/CVE-2020-24227 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 58 MINUTES 06 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201126T16:10:42Z | CVE-2020-1034 | PoC demonstrating the use of cve-2020-1034 for privilege escalation | https://github.com/yardenshafir/CVE-2020-1034 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 58 MINUTES 08 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201126T14:32:08Z | CVE-2020-2883 | CVE-2020-2883 | https://github.com/Al1ex/CVE-2020-2883 | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
+| 20201126T04:21:23Z | CVE-2020-17087 | A CVE-2020-17087 PoC. | https://github.com/revengsh/CVE-2020-17087 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 58 MINUTES 15 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20201126T08:03:12Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1551 | 472| 
+| 20201126T21:43:17Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1552 | 472| 
 | 20201126T06:40:35Z | Null | https://github.com/MariyaTaj/iKleen-master | 0 | 0| 
 | 20201126T04:29:13Z | Create CFGs and compute complexity metrics for Python, C++, and Java code. | https://github.com/hmc-alpaqa/metrinome | 5 | 0| 
 
@@ -44,22 +52,23 @@
 # s2e on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20201126T16:54:23Z | New version of OCELOT (including new script to run it) | https://github.com/Hector-Mauricio-Castaneda-Cortes/S2E_FEL_dev_gen | 0 | 0| 
 | 20201126T09:13:56Z | Your S2E project management tools. Visit https://s2e.systems/docs to get started. | https://github.com/S2E/s2e-env | 70 | 30| 
 
 
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20201126T14:00:13Z | Null | https://github.com/wotwot563/cyberMinorExploitScript | 0 | 0| 
-| 20201126T13:53:38Z | blog repository (nonetype.kr) | https://github.com/nonetype/nonetype.github.io | 0 | 0| 
-| 20201126T13:12:25Z | Development of code to exploit LSST and VISTA imaging | https://github.com/lsst-uk/lsst-ir-fusion | 0 | 0| 
-| 20201126T13:07:17Z | Null | https://github.com/ColdFusionX/ColdFusionX.github.io | 2 | 2| 
-| 20201126T13:06:38Z | Open Source Projects that helps exploit Intel SGX technology | https://github.com/Maxul/Awesome-SGX-Open-Source | 19 | 6| 
-| 20201126T12:58:18Z | Null | https://github.com/bno1986/https-github.com-sundaysec-Android-Exploits-blob-master-README.md | 0 | 0| 
-| 20201126T12:56:37Z | Just a temporary website to post my ctf writeups and journey into binary/android exploitation/malware analysis/exploit development | https://github.com/blackbeard666/pwn_exhibit | 2 | 1| 
-| 20201126T12:50:10Z | GEF - GDB Enhanced Features for exploit devs & reversers | https://github.com/hugsy/gef | 3273 | 473| 
-| 20201126T12:40:48Z | Null | https://github.com/beyefendi/exploit | 0 | 0| 
-| 20201126T12:38:48Z | A python based cross-platform tool that automates the process of detecting and exploiting error-based injection security flaws. | https://github.com/r0oth3x49/Xpath | 86 | 40| 
+| 20201126T23:02:44Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 8670 | 1363| 
+| 20201126T22:59:05Z | Various techniques for exploiting Linux | https://github.com/billchaison/Linux-Trix | 2 | 0| 
+| 20201126T22:32:23Z | CTF framework and exploit development library | https://github.com/Gallopsled/pwntools | 7292 | 1319| 
+| 20201126T21:46:01Z | Exploits that I%ve written for Stephen Bradshaw%s Vulnserver https://github.com/stephenbradshaw/vulnserver | https://github.com/VWolt/Vulnserver-Exploits | 0 | 0| 
+| 20201126T21:08:43Z | GhostPing Exploit no patched | https://github.com/Monst3red/GhostPing-Exploit | 0 | 0| 
+| 20201126T20:23:34Z | This bash script will help you to hack remote hosts  | https://github.com/FabioDefilippo/linuxallremote | 1 | 0| 
+| 20201126T19:27:10Z | Null | https://github.com/0xturazzi/Um-Livrinho-Sobre-Exploit-Dev | 0 | 0| 
+| 20201126T19:07:29Z | Discover duplication glitches, abusive staff giving items, x-ray or simply poor server economy. | https://github.com/kangarko/Confiscate | 8 | 3| 
+| 20201126T17:34:29Z | Thi powershell script has got to run in remote windows host, even for pivoting | https://github.com/FabioDefilippo/winallenum | 0 | 1| 
+| 20201126T16:32:05Z | Exploits that I have written either on my own or inspired by other POCs | https://github.com/VWolt/Other-Exploits | 0 | 0| 
 
 
 # backdoor on Github 推荐
@@ -75,16 +84,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20201126T13:46:27Z | Web application fuzzer | https://github.com/xmendez/wfuzz | 3269 | 831| 
-| 20201126T13:44:28Z | trying out three.js | https://github.com/mjra007/fuzzy-octo-sniffle | 0 | 0| 
-| 20201126T13:25:25Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 3241 | 750| 
-| 20201126T13:20:55Z | Scalable fuzzing infrastructure. | https://github.com/google/clusterfuzz | 4373 | 399| 
-| 20201126T13:13:28Z | Null | https://github.com/luluoluo/fuzz | 0 | 0| 
-| 20201126T13:12:29Z | Fuzzy matching publications for fatcat (wip). | https://github.com/miku/fuzzycat | 0 | 1| 
-| 20201126T13:08:18Z | OSS-Fuzz - continuous fuzzing of open source software. | https://github.com/google/oss-fuzz | 5682 | 1125| 
-| 20201126T13:04:53Z | Null | https://github.com/imbawenzi/Fuzzing_Paper_Note | 1 | 0| 
-| 20201126T12:50:07Z | Null | https://github.com/grlefteris/Fuzzy-Trading-Project | 0 | 0| 
-| 20201126T12:47:41Z | One Knob Fuzz Custom Noise | https://github.com/bjc01/3KFCN | 0 | 0| 
+| 20201126T23:57:35Z | Personal website of Laurence Hughes | https://github.com/fuzzylogicxx/fuzzylogic | 4 | 1| 
+| 20201126T23:47:24Z | Scalable fuzzing infrastructure. | https://github.com/google/clusterfuzz | 4376 | 400| 
+| 20201126T23:18:57Z | A cross-platform browser fuzzing framework | https://github.com/MozillaSecurity/grizzly | 219 | 29| 
+| 20201126T23:03:42Z | port of https://github.com/seatgeek/fuzzywuzzy | https://github.com/logannc/fuzzywuzzy-rs | 18 | 3| 
+| 20201126T22:19:08Z | Simple tool to rename source files by matching a list of choices. | https://github.com/pcjco/PyFuzzy-renamer | 0 | 0| 
+| 20201126T22:08:26Z | Automatic Firmware Analysis of Embedded Linux Devices as Preparation for Security Testing / Fuzzing | https://github.com/efi4st/efi4st | 6 | 3| 
+| 20201126T21:59:36Z | repository for notes | https://github.com/ZhiYingSun/fuzzy-journey | 0 | 0| 
+| 20201126T21:03:44Z | Fuzzy search for matching records and score search results according to how closely they match | https://github.com/moj-analytical-services/fuzzyfinder | 2 | 0| 
+| 20201126T21:02:42Z | Fuzzes input program to generate ranges of numerical kernels | https://github.com/dlohar/blossom | 0 | 0| 
+| 20201126T20:43:51Z | Destroy parallelograms with circles and colors with triangles in order to drop time-released colors on your opponent. | https://github.com/colinje/PuzzFuzz | 0 | 0| 
 
 
 
