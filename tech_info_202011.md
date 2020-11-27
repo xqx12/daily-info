@@ -6,6 +6,10 @@
 # 玄武实验室 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20201127 | 基于 IDA Pro 的微码编写一个可扩展的代码反混淆插件 | https://eshard.com/posts/d810_blog_post_1/| 
+| 20201127 | Implementing Syscalls In The Cobaltstrike Artifact Kit | https://br-sn.github.io/Implementing-Syscalls-In-The-CobaltStrike-Artifact-Kit/| 
+| 20201127 | 最新发布的 PHP 8 引擎中的 JIT 编译器实现分析 | https://www2.slideshare.net/nikita_ppv/justintime-compiler-in-php-8| 
+| 20201127 | Checkpoint 对 Bandook 后门最新被利用情况的分析 | https://research.checkpoint.com/2020/bandook-signed-delivered/| 
 | 20201126 | 利用 Chrome 浏览器开发者工具挖掘 DOM XSS 漏洞 | https://www.youtube.com/watch?v=CNNCCgDkt5k| 
 | 20201126 | Revisiting Binary Code Similarity Analysis using Interpretable Feature Engineering and Lessons Learned | https://arxiv.org/abs/2011.10749| 
 | 20201126 | Tracking Windows Updates with Git and CI | https://blog.tofile.dev/2020/11/19/actions.html| 
@@ -22,46 +26,42 @@
 | 20201125 | Checkpoint 对 Android 平台吸费恶意软件 WAPDropper 的分析 | https://research.checkpoint.com/2020/enter-wapdropper-subscribe-users-to-premium-services-by-telecom-companies/| 
 | 20201125 | Smart (and simple) ways to prevent symlink attacks in Go | https://blog.trailofbits.com/2020/11/24/smart-and-simple-ways-to-prevent-symlink-attacks-in-go/| 
 | 20201125 | ZDI 对近期 SaltStack 被发现的几个命令注入漏洞的分析 | https://www.thezdi.com/blog/2020/11/24/detailing-saltstack-salt-command-injection-vulnerabilities| 
-| 20201125 | 针对沉默的图书馆APT小组IoC的调查分析溯源。 | http://www.circleid.com/posts/20201112-an-investigative-analysis-of-the-silent-librarian-iocs/| 
-| 20201125 | 10个Google Chrome开发工具功能与技巧视频分享。 | https://www.youtube.com/watch?v=3XhQ7IMxW3o| 
-| 20201125 | HEVD驱动程序开发系列-第1部分：搭建环境准备工作。 | https://jb05s.github.io/HEVD-Driver-Exploitation-Part-1/| 
-| 20201125 | DNSMon: 用 DNS 数据发现 skidmap 的未知后门 | http://blog.netlab.360.com/use-dns-data-produce-threat-intelligence/| 
 
 
 # 安全维基 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20201127 | 一张随拍引起的安全思考 | https://mp.weixin.qq.com/s/xt7kgg2YFQxVzup92WMXXw| 
+| 20201127 | 小白从信息收集到企业内网的“入狱”之路 | https://www.sec-in.com/article/599| 
+| 20201127 | 办理赌博犯罪案件新规（两高一部发布） | https://mp.weixin.qq.com/s/SPl3IXcvcYe3osAjqsswlg| 
+| 20201127 | JavaScript编码安全指南 V1.0 | https://docs.qq.com/pdf/DSGxHeWhpdElKb3hL| 
 | 20201126 | 智能漏洞攻防探索 Note | http://zeroyu.xyz/2020/11/26/Intelligent-Vulnerability-Attack-and-Defense/| 
 | 20201126 | 域之ntds.dit | https://www.sec-in.com/article/617| 
 | 20201126 | 基于程序分析的大数据应用内存预估方法 | https://mp.weixin.qq.com/s/C3yN9nIRTN9ebmvOd8S2JA| 
 | 20201126 | SharpGetTitle - 基于 C# 的多线程 Web Title 扫描器 | https://github.com/Ch1ngg/SharpGetTitle| 
 | 20201126 | 从sql注入到连接3389 | https://xz.aliyun.com/t/8561| 
 | 20201126 | 接口越权扫描平台初探 | https://mp.weixin.qq.com/s/epVb1Y4WQ-MWeRhRPlvofg| 
-| 20201125 | 上传定时任务获取系统权限 | https://www.sec-in.com/article/546| 
-| 20201125 | Python 网络爬虫教程 | https://www.bookstack.cn/read/piaosanlang-spiders/c41d7333f0fc34db.md| 
-| 20201125 | Google BeyondProd安全架构详解 | https://mp.weixin.qq.com/s/l__r5GUIZJ_moVcKBF9pyA| 
-| 20201125 | ClickHouse海量数据分析分享 | https://mp.weixin.qq.com/s/MnirNdLxyvrCAPd51SiW6w| 
 
 
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20201127T02:22:57Z | CVE-2020-1034 | PoC demonstrating the use of cve-2020-1034 for privilege escalation | https://github.com/yardenshafir/CVE-2020-1034 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 01 MINUTES 08 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201127T12:55:54Z | CVE-2020-5902 | a shitty tool for CVE-2020-5902 (pls use a command various time to work, request things...) | https://github.com/EtoYoshio/t_pwn | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 58 MINUTES 13 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201127T12:27:56Z | CVE-2020-23489 | RCE exploit for AVideo < 8.9 (CVE-2020-23489 & CVE-2020-23490) | https://github.com/ahussam/AVideo3xploit | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 58 MINUTES 52 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201127T11:26:04Z | CVE-2020-28948 | Null | https://github.com/0x240x23elu/CVE-2020-28948-and-CVE-2020-28949 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 58 MINUTES 17 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201127T11:20:58Z | CVE-2020-1034 | PoC demonstrating the use of cve-2020-1034 for privilege escalation | https://github.com/yardenshafir/CVE-2020-1034 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 58 MINUTES 08 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20201127T02:12:54Z | CVE-2020-2883 | CVE-2020-2883 | https://github.com/Al1ex/CVE-2020-2883 | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
-| 20201126T19:55:35Z | CVE-2020-5902 | a shitty tool for CVE-2020-5902 (pls use a command various time to work, request things...) | https://github.com/EtoYoshio/t_pwn | | 
-| 20201126T19:40:32Z | CVE-2020-10977 | authenticated arbitrary file read for Gitlab (CVE-2020-10977) | https://github.com/JustMichi/CVE-2020-10977.py | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 01 MINUTES 13 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20201126T16:44:58Z | CVE-2020-24227 | Playground Sessions - Storing User Credentials in Plaintext | https://github.com/nathunandwani/CVE-2020-24227 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 01 MINUTES 06 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20201126T04:21:23Z | CVE-2020-17087 | A CVE-2020-17087 PoC. | https://github.com/revengsh/CVE-2020-17087 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 01 MINUTES 14 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201126T19:40:32Z | CVE-2020-10977 | authenticated arbitrary file read for Gitlab (CVE-2020-10977) | https://github.com/JustMichi/CVE-2020-10977.py | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 58 MINUTES 14 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201126T16:44:58Z | CVE-2020-24227 | Playground Sessions - Storing User Credentials in Plaintext | https://github.com/nathunandwani/CVE-2020-24227 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 58 MINUTES 58 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201126T04:21:23Z | CVE-2020-17087 | A CVE-2020-17087 PoC. | https://github.com/revengsh/CVE-2020-17087 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 58 MINUTES 15 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20201125T22:40:09Z | CVE-2020-13942 | CVE-2020-13942 unauthenticated RCE POC through MVEL and OGNL injection | https://github.com/eugenebmx/CVE-2020-13942 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 01 MINUTES 02 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20201125T19:55:54Z | cve-2020-29070 | CVE-2020-29070 write-up. | https://github.com/aslanemre/cve-2020-29070 | 未查询到CVE信息| 
-| 20201125T16:33:09Z | CVE-2020-16947 | Outlook 2019 Remote Command Execution | https://github.com/MasterSploit/CVE-2020-16947 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 01 MINUTES 05 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20201125T16:03:20Z | CVE-2020-27955 | Git-lfs RCE exploit CVE-2020-27955 - tested on Windows on: git, gh cli, GitHub Desktop, Visual Studio, SourceTree etc. | https://github.com/ExploitBox/git-lfs-RCE-exploit-CVE-2020-27955 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 01 MINUTES 00 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20201126T21:43:17Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1552 | 473| 
+| 20201127T05:13:56Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1551 | 473| 
 | 20201126T06:40:35Z | Null | https://github.com/MariyaTaj/iKleen-master | 0 | 0| 
 | 20201126T04:29:13Z | Create CFGs and compute complexity metrics for Python, C++, and Java code. | https://github.com/hmc-alpaqa/metrinome | 5 | 0| 
 | 20201125T18:46:16Z | Urban Evidence Based Policy (SPPA667) | https://github.com/KLeeDE/PUS2020_KLee | 0 | 1| 
@@ -88,16 +88,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20201127T02:58:40Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 3208 | 488| 
-| 20201127T02:54:25Z | Find exploits in local and online database | https://github.com/Err0r-ICA/Searchsploit | 0 | 0| 
-| 20201127T02:35:55Z | Vulnerabilities of Goby supported with exploitation. | https://github.com/gobysec/GobyVuls | 58 | 12| 
-| 20201127T02:34:32Z | This Buffer Overflow Toolkit works through FTP, SMTP, POP, HTTP protocols as well file outputs for playlists exploiting customized variables/commands. Payloads can be generated through MSFVENOM or you can use your own ASM files. | https://github.com/danieljs777/fastoverflowtk | 0 | 0| 
-| 20201127T02:10:08Z | Experiments of binary exploit and hardware security | https://github.com/chuang76/Security-101 | 2 | 0| 
-| 20201127T01:52:37Z | kernel exploit for  Apple iOS 13.X | https://github.com/0x36/oob_events | 137 | 27| 
-| 20201127T01:19:34Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 8671 | 1363| 
-| 20201127T00:45:56Z | A list of everything you need to be successful as an Ethical Hacker.  The best resources, exploits, payloads, and strategies that I%ve used to advance my skills and knowledge at a Penetration Tester. | https://github.com/Kennyslaboratory/Hacker-Heaven | 2 | 0| 
-| 20201126T22:59:05Z | Various techniques for exploiting Linux | https://github.com/billchaison/Linux-Trix | 2 | 0| 
-| 20201126T22:32:23Z | CTF framework and exploit development library | https://github.com/Gallopsled/pwntools | 7292 | 1319| 
+| 20201127T12:57:25Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 8673 | 1363| 
+| 20201127T12:24:36Z | List of Awesome Advanced Windows Exploitation References | https://github.com/yeyintminthuhtut/Awesome-Advanced-Windows-Exploitation-References | 832 | 219| 
+| 20201127T11:44:32Z | Exploits that I%ve written for Stephen Bradshaw%s Vulnserver https://github.com/stephenbradshaw/vulnserver | https://github.com/VWolt/Vulnserver-Exploits | 0 | 0| 
+| 20201127T10:59:06Z | Geohazards Thematic Exploitation guide | https://github.com/Terradue/doc-tep-geohazards | 9 | 23| 
+| 20201127T10:41:41Z | TPs de BASH du S4 - UE Système Exploitation FST UJM | https://github.com/Kevin-Grgd/TP_bash | 0 | 0| 
+| 20201127T10:36:11Z | Exploit Jenkins to gain an initial shell, then escalate your privileges by exploiting Windows authentication tokens. | https://github.com/Eutectico/Alfred | 0 | 0| 
+| 20201127T10:23:46Z | Null | https://github.com/puckiestyle/Active-Directory-Exploitation-Cheat-Sheet | 0 | 0| 
+| 20201127T10:22:45Z | Curated list of Unix binaries that can be exploited to bypass system security restrictions | https://github.com/GTFOBins/GTFOBins.github.io | 3645 | 503| 
+| 20201127T10:13:19Z | Ce didacticiel crée un exemple contradictoire à l%aide de l%attaque FGSM (Fast Gradient Signed Method) comme décrit dans Expliquer et exploiter les exemples contradictoires de Goodfellow et al . C%était l%une des premières et des plus populaires attaques à tromper un réseau de neurones. | https://github.com/youness-elh/Exemple-contradictoire-utilisant-FGSM | 0 | 0| 
+| 20201127T10:03:23Z | Exploit code of some vulnerable applications | https://github.com/mustgundogdu/Research | 0 | 0| 
 
 
 # backdoor on Github 推荐
@@ -118,16 +118,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20201127T02:09:15Z | Null | https://github.com/terminal-labs/fuzzball | 0 | 0| 
-| 20201127T02:08:07Z | Null | https://github.com/Fuzzwah/irstatsbot.fuzzwah.com | 0 | 0| 
-| 20201127T02:04:54Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 3242 | 750| 
-| 20201127T01:30:04Z | Null | https://github.com/googleinterns/hw-fuzzing | 3 | 0| 
-| 20201127T00:13:20Z | Fuzzy matching publications for fatcat (wip). | https://github.com/miku/fuzzycat | 0 | 1| 
-| 20201127T00:04:32Z | Fuzzy Inference System Developed on Python | https://github.com/ericmg97/fuzzy_system | 0 | 0| 
-| 20201126T23:57:35Z | Personal website of Laurence Hughes | https://github.com/fuzzylogicxx/fuzzylogic | 4 | 1| 
-| 20201126T23:47:24Z | Scalable fuzzing infrastructure. | https://github.com/google/clusterfuzz | 4376 | 400| 
-| 20201126T23:18:57Z | A cross-platform browser fuzzing framework | https://github.com/MozillaSecurity/grizzly | 219 | 29| 
-| 20201126T23:03:42Z | port of https://github.com/seatgeek/fuzzywuzzy | https://github.com/logannc/fuzzywuzzy-rs | 18 | 3| 
+| 20201127T12:43:56Z | The official website for Autobit which is the official robotic club of Bengal Institute of Technology.  | https://github.com/saggy04/fuzzy-octo-autobit | 0 | 0| 
+| 20201127T12:12:38Z | Null | https://github.com/Sambigeara/fuzzy-note | 1 | 1| 
+| 20201127T12:05:30Z | Ada Fuzzball Slam is a JS game using P5 and Matter - this version includes control of Fuzzball using Matter%s Mouse.Constraint and collision filter%s mask and category, basic collision detections using Matter%s %collisionEnd% event, object body%s location checking (and correction) before the Render engine update, class creation including properties and methods. | https://github.com/mike-ada/Ada-FuzzballSlam-v8-MVP | 0 | 0| 
+| 20201127T11:40:30Z | Drugstore expert system based on fuzzy rules to order medicines | https://github.com/wildonion/fuzzy-drug-store | 0 | 0| 
+| 20201127T11:40:21Z | Fuzzaldrin plus - fast using native C++ bindings | https://github.com/atom-ide-community/fuzzaldrin-plus-fast | 2 | 3| 
+| 20201127T11:33:09Z | Null | https://github.com/7evy/Fuzzy_Queries | 0 | 0| 
+| 20201127T11:18:59Z | 渗透测试路径字典，爆破字典。内容来自互联网和实战积累。 | https://github.com/cpkkcb/fuzzDicts | 2 | 0| 
+| 20201127T11:18:12Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 3242 | 750| 
+| 20201127T11:18:02Z | Randomized testing for Go | https://github.com/dvyukov/go-fuzz | 3730 | 214| 
+| 20201127T10:38:11Z | OSS-Fuzz - continuous fuzzing of open source software. | https://github.com/google/oss-fuzz | 5683 | 1125| 
 
 
 
