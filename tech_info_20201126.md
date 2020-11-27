@@ -74,10 +74,14 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20201126T18:48:58Z | PCI Express DIY hacking toolkit for Xilinx SP605 | https://github.com/Cr4sh/s6_pcie_microblaze | 290 | 75| 
+| 20201126T17:36:49Z | Null | https://github.com/rranand/BackDoor | 0 | 0| 
+| 20201126T16:02:20Z | ParadoxiaRat : Native Windows Remote access Tool. | https://github.com/quantumcored/paradoxiaRAT | 283 | 59| 
+| 20201126T15:48:11Z | Null | https://github.com/FawkesOficial/better-discord-backdoor | 0 | 0| 
+| 20201126T15:08:22Z | A simple example of how you can use a Discord bot as a backdoor to elevate your access. Educational use only. | https://github.com/psyu/DiscordBackdoorBot | 0 | 0| 
 | 20201126T12:42:18Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 116 | 14| 
 | 20201126T10:37:41Z | Rusty backdoor+spyware :bomb: :door: | https://github.com/talbor49/spyware | 9 | 0| 
 | 20201126T10:12:44Z | Null | https://github.com/rtykholiz/backdoors | 0 | 0| 
-| 20201126T09:44:19Z | ParadoxiaRat : Native Windows Remote access Tool. | https://github.com/quantumcored/paradoxiaRAT | 281 | 59| 
 | 20201126T01:50:05Z | backdoortst e um auxilia do msf desenvolvido para facilita os usuarios a criar um payload | https://github.com/shoowl/backdoortst | 3 | 1| 
 
 
