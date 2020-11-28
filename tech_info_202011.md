@@ -36,41 +36,41 @@
 | 20201127 | 办理赌博犯罪案件新规（两高一部发布） | https://mp.weixin.qq.com/s/SPl3IXcvcYe3osAjqsswlg| 
 | 20201127 | JavaScript编码安全指南 V1.0 | https://docs.qq.com/pdf/DSGxHeWhpdElKb3hL| 
 | 20201127 | 图数据流子图查询 | https://mp.weixin.qq.com/s/gPwWhlKsymu17kZPajyfqQ| 
+| 20201127 | Perl基础&代码审计 | https://www.mi1k7ea.com/2020/11/24/Perl%E5%9F%BA%E7%A1%80-%E4%BB%A3%E7%A0%81%E5%AE%A1%E8%AE%A1/| 
 | 20201126 | 智能漏洞攻防探索 Note | http://zeroyu.xyz/2020/11/26/Intelligent-Vulnerability-Attack-and-Defense/| 
 | 20201126 | 域之ntds.dit | https://www.sec-in.com/article/617| 
 | 20201126 | 基于程序分析的大数据应用内存预估方法 | https://mp.weixin.qq.com/s/C3yN9nIRTN9ebmvOd8S2JA| 
 | 20201126 | SharpGetTitle - 基于 C# 的多线程 Web Title 扫描器 | https://github.com/Ch1ngg/SharpGetTitle| 
-| 20201126 | 从sql注入到连接3389 | https://xz.aliyun.com/t/8561| 
 
 
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20201127T12:55:54Z | CVE-2020-5902 | a shitty tool for CVE-2020-5902 (pls use a command various time to work, request things...) | https://github.com/EtoYoshio/t_pwn | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 01 MINUTES 05 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20201127T12:27:56Z | CVE-2020-23489 | RCE exploit for AVideo < 8.9 (CVE-2020-23489 & CVE-2020-23490) | https://github.com/ahussam/AVideo3xploit | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 00 MINUTES 53 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20201127T11:26:04Z | CVE-2020-28948 | Null | https://github.com/0x240x23elu/CVE-2020-28948-and-CVE-2020-28949 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 01 MINUTES 09 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20201127T11:20:58Z | CVE-2020-1034 | PoC demonstrating the use of cve-2020-1034 for privilege escalation | https://github.com/yardenshafir/CVE-2020-1034 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 01 MINUTES 01 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201128T00:35:44Z | CVE-2020-5902 | a shitty tool for CVE-2020-5902 (pls use a command various time to work, request things...) | https://github.com/EtoYoshio/t_pwn | 在BIG-IP版本15.0.0-15.1.0.3、14.1.0-14.1.2.5、13.1.0-13.1.3.3、12.1.0-12.1.5.1和11.6.1-11.6.5.1中，流量管理用户接口（TMUI），也称为“配置”实用程序，在未公开的页面中具有远程执行代码（RCE）漏洞。| 
+| 20201127T17:07:34Z | CVE-2020-29364 | Null | https://github.com/aslanemre/CVE-2020-29364 | 未查询到CVE信息| 
+| 20201127T15:18:13Z | CVE-2020-2551 | weblogic 漏洞扫描工具。目前包含对以下漏洞的检测能力：CVE-2014-4210、CVE-2016-0638、CVE-2016-3510、CVE-2017-3248、CVE-2017-3506、CVE-2017-10271、CVE-2018-2628、CVE-2018-2893、CVE-2018-2894、CVE-2018-3191、CVE-2018-3245、CVE-2018-3252、CVE-2019-2618、CVE-2019-2725、CVE-2019-2729、CVE-2019-2890、CVE-2020-2551、CVE-2020-14882、CVE-2020-14883 | https://github.com/0xn0ne/weblogicScanner | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
+| 20201127T12:27:56Z | CVE-2020-23489 | RCE exploit for AVideo < 8.9 (CVE-2020-23489 & CVE-2020-23490) | https://github.com/ahussam/AVideo3xploit | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 59 MINUTES 02 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201127T11:26:04Z | CVE-2020-28948 | Null | https://github.com/0x240x23elu/CVE-2020-28948-and-CVE-2020-28949 | 到1.4.10为止的Archive_Tar允许反序列化攻击，因为phar：被阻止了，但是PHAR：没有被阻止了。| 
+| 20201127T11:20:58Z | CVE-2020-1034 | PoC demonstrating the use of cve-2020-1034 for privilege escalation | https://github.com/yardenshafir/CVE-2020-1034 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 59 MINUTES 07 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20201127T02:12:54Z | CVE-2020-2883 | CVE-2020-2883 | https://github.com/Al1ex/CVE-2020-2883 | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
-| 20201126T19:40:32Z | CVE-2020-10977 | authenticated arbitrary file read for Gitlab (CVE-2020-10977) | https://github.com/JustMichi/CVE-2020-10977.py | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 01 MINUTES 07 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20201126T16:44:58Z | CVE-2020-24227 | Playground Sessions - Storing User Credentials in Plaintext | https://github.com/nathunandwani/CVE-2020-24227 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 01 MINUTES 00 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20201126T04:21:23Z | CVE-2020-17087 | A CVE-2020-17087 PoC. | https://github.com/revengsh/CVE-2020-17087 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 01 MINUTES 08 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20201125T22:40:09Z | CVE-2020-13942 | CVE-2020-13942 unauthenticated RCE POC through MVEL and OGNL injection | https://github.com/eugenebmx/CVE-2020-13942 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 01 MINUTES 02 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20201125T19:55:54Z | cve-2020-29070 | CVE-2020-29070 write-up. | https://github.com/aslanemre/cve-2020-29070 | 未查询到CVE信息| 
+| 20201126T19:40:32Z | CVE-2020-10977 | authenticated arbitrary file read for Gitlab (CVE-2020-10977) | https://github.com/JustMichi/CVE-2020-10977.py | 在项目之间移动问题时，GitLab EE / CE 8.5至12.9容易受到路径遍历的影响。| 
+| 20201126T16:44:58Z | CVE-2020-24227 | Playground Sessions - Storing User Credentials in Plaintext | https://github.com/nathunandwani/CVE-2020-24227 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 59 MINUTES 06 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201126T04:21:23Z | CVE-2020-17087 | A CVE-2020-17087 PoC. | https://github.com/revengsh/CVE-2020-17087 | Windows内核本地特权提升漏洞| 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20201127T22:26:47Z | Urban Evidence Based Policy (SPPA667) | https://github.com/KLeeDE/PUS2020_KLee | 0 | 1| 
+| 20201127T21:07:48Z | C library to support Map2Check Tool | https://github.com/hbgit/map2check-library | 0 | 0| 
+| 20201127T18:47:46Z | Hello, world!  I, Alicia Klees, am now on Github! | https://github.com/aklees/hello-world | 0 | 0| 
 | 20201127T05:13:56Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1551 | 473| 
 | 20201126T06:40:35Z | Null | https://github.com/MariyaTaj/iKleen-master | 0 | 0| 
 | 20201126T04:29:13Z | Create CFGs and compute complexity metrics for Python, C++, and Java code. | https://github.com/hmc-alpaqa/metrinome | 5 | 0| 
-| 20201125T18:46:16Z | Urban Evidence Based Policy (SPPA667) | https://github.com/KLeeDE/PUS2020_KLee | 0 | 1| 
 | 20201124T10:23:02Z | Symbiotic is a tool for finding bugs in computer programs based on instrumentation, program slicing and KLEE | https://github.com/staticafi/symbiotic | 204 | 33| 
 | 20201121T10:18:22Z | Null | https://github.com/klee-chan/klee-chan.github.io | 0 | 0| 
 | 20201120T20:14:48Z | Null | https://github.com/davidtr1037/klee-pspa | 2 | 0| 
 | 20201120T09:33:02Z | Website for the KLEE project: https://klee.github.io/ | https://github.com/klee/klee.github.io | 13 | 42| 
-| 20201119T14:13:32Z | ⬇️ File Upload/sharing application, used by thousands of webmasters since 2007.  | https://github.com/kleeja-official/kleeja | 103 | 31| 
-| 20201118T23:28:32Z | C library to support Map2Check Tool | https://github.com/hbgit/map2check-library | 0 | 0| 
 
 
 # s2e on Github 推荐
@@ -88,46 +88,46 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20201127T13:54:54Z | WP-Exploiter is a tool for testing and exploiting a wide range of WordPress websites. | https://github.com/eliranmaman/WP-Exploiter | 0 | 0| 
-| 20201127T13:27:38Z | This bash script will help you to hack remote hosts  | https://github.com/FabioDefilippo/linuxallremote | 1 | 0| 
-| 20201127T13:24:56Z | Null | https://github.com/ColdFusionX/ColdFusionX.github.io | 2 | 2| 
-| 20201127T13:22:36Z | Curated list of Unix binaries that can be exploited to bypass system security restrictions | https://github.com/GTFOBins/GTFOBins.github.io | 3645 | 503| 
-| 20201127T12:57:25Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 8673 | 1363| 
-| 20201127T12:24:36Z | List of Awesome Advanced Windows Exploitation References | https://github.com/yeyintminthuhtut/Awesome-Advanced-Windows-Exploitation-References | 832 | 219| 
-| 20201127T11:44:32Z | Exploits that I%ve written for Stephen Bradshaw%s Vulnserver https://github.com/stephenbradshaw/vulnserver | https://github.com/VWolt/Vulnserver-Exploits | 0 | 0| 
-| 20201127T10:59:06Z | Geohazards Thematic Exploitation guide | https://github.com/Terradue/doc-tep-geohazards | 9 | 23| 
-| 20201127T10:41:41Z | TPs de BASH du S4 - UE Système Exploitation FST UJM | https://github.com/Kevin-Grgd/TP_bash | 0 | 0| 
-| 20201127T10:36:11Z | Exploit Jenkins to gain an initial shell, then escalate your privileges by exploiting Windows authentication tokens. | https://github.com/Eutectico/Alfred | 0 | 0| 
+| 20201128T00:49:09Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 6 | 4| 
+| 20201128T00:35:01Z | Collection of tools and techniques for enumeration and exploitation of windows systems, linux systems, and web applications. | https://github.com/EvolvingSysadmin/Penetration-Testing | 1 | 0| 
+| 20201128T00:34:46Z | Exploit script for Apache Struts2 REST Plugin XStream RCE (‎CVE-2017-9805)  | https://github.com/jongmartinez/-CVE-2017-9805- | 0 | 0| 
+| 20201128T00:33:06Z | Root shell exploit for several Xiaomi routers: 4A Gigabit, 4A 100M, 4C, 3Gv2, 4Q, miWifi 3C... | https://github.com/acecilia/OpenWRTInvasion | 247 | 51| 
+| 20201128T00:27:37Z | A general purpose memory allocator that implements an isolation security strategy to mitigate memory safety issues while maintaining good performance | https://github.com/struct/isoalloc | 124 | 9| 
+| 20201128T00:12:50Z | exploits and proof-of-concept vulnerability demonstration files from the team at Hacker House | https://github.com/hackerhouse-opensource/exploits | 224 | 65| 
+| 20201127T23:52:58Z | Pattern-Exploiting Training in Julia and Knet. A replication of %It’s Not Just Size That Matters: Small Language Models Are Also Few-Shot Learners% | https://github.com/Shamdan17/pet.jl | 0 | 0| 
+| 20201127T23:38:20Z | Open source ROBLOX anti-exploit for use by all. | https://github.com/Void-Frost/SquirrelPlus | 2 | 5| 
+| 20201127T23:06:34Z | A list of everything you need to be successful as an Ethical Hacker.  The best resources, exploits, payloads, and strategies that I%ve used to advance my skills and knowledge at a Penetration Tester. | https://github.com/Kennyslaboratory/Hacker-Heaven | 2 | 0| 
+| 20201127T23:02:50Z | RedTeam/Pentest notes and experiments tested on several infrastructures related to professional engagements. | https://github.com/ihebski/A-Red-Teamer-diaries | 191 | 67| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20201128T00:58:35Z | Ghost Framework is an Android post-exploitation framework that exploits the Android Debug Bridge to remotely access an Android device. Ghost Framework gives you the power and convenience of remote Android device administration. | https://github.com/EntySec/ghost | 832 | 417| 
+| 20201127T23:21:14Z | Null | https://github.com/FawkesOficial/better-discord-backdoor | 0 | 0| 
+| 20201127T21:43:23Z | Multi-client Cross-platform Python Backdoor/Reverse Shell/RAT with AES Encryption | https://github.com/Y4hL/PyDoor | 25 | 12| 
+| 20201127T20:42:06Z | Some malware samples or suspicious files I found and their reports. | https://github.com/CYB3RMX/MalwareAnalysis101 | 15 | 0| 
+| 20201127T20:20:45Z | Null | https://github.com/HildeTeamTNT/backdoors-1 | 0 | 0| 
+| 20201127T19:51:08Z | FUD cross-platform python2 backdoor with C2 | https://github.com/7h3w4lk3r/pyback | 12 | 5| 
+| 20201127T19:18:22Z | A deck-building roguelike cyberpunk game. | https://github.com/uspgamedev/backdoor | 19 | 3| 
+| 20201127T14:51:13Z | the development of the Prediction of type-Social-Engineering Attacks was successuful by the graphical and analysis from Chi-Square Test and visuaized the Result to predict one-of-the-attack( Expoit, Fuzzer, DOS, Reconnaissance, Generic, BackDoor attack, Shell-Code attack, Worms minor attack) based on the above graph we are able to decide the particular IP address addressing the attacks issue from one of these. | https://github.com/KVSSKPRADEEP/DataWareHousing-Mining_SocialEnggAttack_prediction | 0 | 0| 
 | 20201127T12:58:20Z | A reverse shell backdoor written in python. | https://github.com/Ovusi/The_Subway | 0 | 0| 
 | 20201127T12:02:38Z | PCI Express DIY hacking toolkit for Xilinx SP605 | https://github.com/Cr4sh/s6_pcie_microblaze | 291 | 75| 
-| 20201127T11:03:43Z | Malware que cria uma shell de conexão reversa para usa-lo informe a variável de ip e crie um listen no netcat  | https://github.com/medn1c/BackDoor_Windows | 1 | 0| 
-| 20201127T08:50:21Z | Null | https://github.com/Robleis69/Metasploit-Backdoor | 0 | 0| 
-| 20201127T08:35:12Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 117 | 14| 
-| 20201127T07:31:40Z | Ghost Framework is an Android post-exploitation framework that exploits the Android Debug Bridge to remotely access an Android device. Ghost Framework gives you the power and convenience of remote Android device administration. | https://github.com/EntySec/ghost | 829 | 417| 
-| 20201127T06:42:25Z | Deep Learning Backdoors Framework. A light-weight tool to conduct your research on backdoors. | https://github.com/ebagdasa/backdoors101 | 11 | 0| 
-| 20201127T06:39:22Z | Null | https://github.com/rtykholiz/backdoors | 0 | 0| 
-| 20201127T02:37:35Z | Source code for paper %How to Backdoor Federated Learning% (https://arxiv.org/abs/1807.00459) | https://github.com/ebagdasa/backdoor_federated_learning | 102 | 22| 
-| 20201127T01:11:06Z | Complete backdoor in batch (REQUIRES PHYSICAL ACCESS) | https://github.com/bdunlap9/BatchBDoor | 7 | 4| 
 
 
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20201127T13:59:19Z | Null | https://github.com/7evy/Fuzzy_Queries | 0 | 0| 
-| 20201127T13:50:32Z | The C4 Concurrent C Fuzzer | https://github.com/MattWindsor91/c4f | 7 | 1| 
-| 20201127T13:15:24Z | 渗透测试路径字典，爆破字典。内容来自互联网和实战积累。 | https://github.com/cpkkcb/fuzzDicts | 3 | 0| 
-| 20201127T12:43:56Z | The official website for Autobit which is the official robotic club of Bengal Institute of Technology.  | https://github.com/saggy04/fuzzy-octo-autobit | 0 | 0| 
-| 20201127T12:12:38Z | Null | https://github.com/Sambigeara/fuzzy-note | 1 | 1| 
-| 20201127T12:05:30Z | Ada Fuzzball Slam is a JS game using P5 and Matter - this version includes control of Fuzzball using Matter%s Mouse.Constraint and collision filter%s mask and category, basic collision detections using Matter%s %collisionEnd% event, object body%s location checking (and correction) before the Render engine update, class creation including properties and methods. | https://github.com/mike-ada/Ada-FuzzballSlam-v8-MVP | 0 | 1| 
-| 20201127T11:40:30Z | Drugstore expert system based on fuzzy rules to order medicines | https://github.com/wildonion/fuzzy-drug-store | 0 | 0| 
-| 20201127T11:40:21Z | Fuzzaldrin plus - fast using native C++ bindings | https://github.com/atom-ide-community/fuzzaldrin-plus-fast | 2 | 3| 
-| 20201127T11:18:12Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 3242 | 750| 
-| 20201127T11:18:02Z | Randomized testing for Go | https://github.com/dvyukov/go-fuzz | 3730 | 214| 
+| 20201128T00:35:11Z | Null | https://github.com/rmarticedeno/fuzzy_logic_sim | 0 | 0| 
+| 20201128T00:25:40Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2222 | 110| 
+| 20201127T23:51:23Z | Personal website of Laurence Hughes | https://github.com/fuzzylogicxx/fuzzylogic | 4 | 1| 
+| 20201127T21:16:02Z | First packet received successfully, need to edit `else` condition, glad I could get a read out of the char array, containing the Negotiate Request packet. Eventually building this into a fuzzer. Manual introspection (use) of SMB over various distros will gain a library of valid SMB requests and responses. | https://github.com/r0ss1n1/SMB_NEG_REQ | 0 | 0| 
+| 20201127T21:13:40Z | Scalable fuzzing infrastructure. | https://github.com/google/clusterfuzz | 4381 | 400| 
+| 20201127T21:11:52Z | Null | https://github.com/tomekjaworski/FuzzyPDMP | 1 | 0| 
+| 20201127T21:04:02Z | Fuzzy matching publications for fatcat (wip). | https://github.com/miku/fuzzycat | 0 | 1| 
+| 20201127T20:48:07Z | The C4 Concurrent C Fuzzer | https://github.com/MattWindsor91/c4f | 7 | 1| 
+| 20201127T20:46:25Z | Autofuzz has been developped to provide a full toolkit to fuzz and pentest several protocols used in automotive industry such as USB, XCP, UDS, CAN. Everything is done in Python to provide a convenient way to develop automated test. | https://github.com/DanAurea/AutoFuze | 0 | 0| 
+| 20201127T20:40:47Z | Null | https://github.com/dgc9715/fuzzy-logic | 0 | 0| 
 
 
 
