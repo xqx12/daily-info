@@ -22,8 +22,8 @@
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
 | 20201129T11:44:37Z | CVE-2020-2551 | weblogic 漏洞扫描工具。目前包含对以下漏洞的检测能力：CVE-2014-4210、CVE-2016-0638、CVE-2016-3510、CVE-2017-3248、CVE-2017-3506、CVE-2017-10271、CVE-2018-2628、CVE-2018-2893、CVE-2018-2894、CVE-2018-3191、CVE-2018-3245、CVE-2018-3252、CVE-2019-2618、CVE-2019-2725、CVE-2019-2729、CVE-2019-2890、CVE-2020-2551、CVE-2020-14882、CVE-2020-14883 | https://github.com/0xn0ne/weblogicScanner | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
-| 20201129T10:04:26Z | CVE-2020-13942 | CVE-2020-13942 unauthenticated RCE POC through MVEL and OGNL injection | https://github.com/eugenebmx/CVE-2020-13942 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 07 MINUTES 23 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20201129T00:36:22Z | CVE-2020-5902 | a shitty tool for CVE-2020-5902 (pls use a command various time to work, request things...) | https://github.com/EtoYoshio/t_pwn | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 07 MINUTES 30 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201129T10:04:26Z | CVE-2020-13942 | CVE-2020-13942 unauthenticated RCE POC through MVEL and OGNL injection | https://github.com/eugenebmx/CVE-2020-13942 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 06 MINUTES 24 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201129T00:36:22Z | CVE-2020-5902 | a shitty tool for CVE-2020-5902 (pls use a command various time to work, request things...) | https://github.com/EtoYoshio/t_pwn | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 06 MINUTES 31 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 
 
 # klee on Github 推荐
@@ -39,6 +39,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20201129T13:53:47Z | Null | https://github.com/frostediscool/exploit | 0 | 0| 
 | 20201129T13:46:30Z | Curated list of Unix binaries that can be exploited to bypass system security restrictions | https://github.com/GTFOBins/GTFOBins.github.io | 3663 | 507| 
 | 20201129T13:37:41Z | A demonstration of using Linux%s Exception Handling mechanism to escape container%s cgroup resource constraint. | https://github.com/wei-juncheng/container_cgroup_escape_exploitation | 0 | 0| 
 | 20201129T11:53:30Z | How to build a dog breed classifier with Keras and Tensorflow using Convolutional Neural Networks. The model is based on the VGG16 architecture and exploits the transfer learning technique | https://github.com/rcantini/Dog-breed-classification | 0 | 0| 
@@ -48,7 +49,6 @@
 | 20201129T11:35:11Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 8682 | 1364| 
 | 20201129T10:15:31Z | Discrete logarithm problem can exploited in encryption to obtain hard to break but open messages code.In this project,we additionally provide another layer of encryption in Client-Server Socket. It has been further modified to incorporate a chat-room. Python 3 is used,so each and every message is encoded and sent where as the receiver has to decode that message to access it(unlike python2 where you can freely send message through sockets).   | https://github.com/Ary4/Discrete-Logarithm-encryption-in-Client-Server-Chatroom | 0 | 0| 
 | 20201129T09:42:21Z | Exploiting BERT to Improve Aspect-Based Sentiment Analysis Performance on Persian Language   | https://github.com/Hamoon1987/ABSA | 0 | 0| 
-| 20201129T09:39:48Z | Selfmade exploits or rewriten ones | https://github.com/oscarandreu/exploits | 0 | 0| 
 
 
 # backdoor on Github 推荐
