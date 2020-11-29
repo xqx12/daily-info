@@ -46,30 +46,30 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20201128T12:09:03Z | CVE-2020-27955 | Git-lfs RCE exploit CVE-2020-27955 - tested on Windows on: git, gh cli, GitHub Desktop, Visual Studio, SourceTree etc. | https://github.com/ExploitBox/git-lfs-RCE-exploit-CVE-2020-27955 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 00 MINUTES 14 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20201128T09:07:49Z | CVE-2020-13942 | CVE-2020-13942 POC + Automation Script | https://github.com/shifa123/CVE-2020-13942-POC- | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 00 MINUTES 16 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20201128T07:12:23Z | CVE-2020-11975 | CVE-2020-11975 CVE-2020-13942 | https://github.com/1135/unomi_exploit | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 00 MINUTES 21 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20201128T00:35:44Z | CVE-2020-5902 | a shitty tool for CVE-2020-5902 (pls use a command various time to work, request things...) | https://github.com/EtoYoshio/t_pwn | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 00 MINUTES 23 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201129T00:36:22Z | CVE-2020-5902 | a shitty tool for CVE-2020-5902 (pls use a command various time to work, request things...) | https://github.com/EtoYoshio/t_pwn | 在BIG-IP版本15.0.0-15.1.0.3、14.1.0-14.1.2.5、13.1.0-13.1.3.3、12.1.0-12.1.5.1和11.6.1-11.6.5.1中，流量管理用户接口（TMUI），也称为“配置”实用程序，在未公开的页面中具有远程执行代码（RCE）漏洞。| 
+| 20201128T12:09:03Z | CVE-2020-27955 | Git-lfs RCE exploit CVE-2020-27955 - tested on Windows on: git, gh cli, GitHub Desktop, Visual Studio, SourceTree etc. | https://github.com/ExploitBox/git-lfs-RCE-exploit-CVE-2020-27955 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 59 MINUTES 13 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201128T09:07:49Z | CVE-2020-13942 | CVE-2020-13942 POC + Automation Script | https://github.com/shifa123/CVE-2020-13942-POC- | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 59 MINUTES 16 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201128T07:12:23Z | CVE-2020-11975 | CVE-2020-11975 CVE-2020-13942 | https://github.com/1135/unomi_exploit | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 59 MINUTES 20 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20201127T17:07:34Z | CVE-2020-29364 | Null | https://github.com/aslanemre/CVE-2020-29364 | 未查询到CVE信息| 
 | 20201127T15:18:13Z | CVE-2020-2551 | weblogic 漏洞扫描工具。目前包含对以下漏洞的检测能力：CVE-2014-4210、CVE-2016-0638、CVE-2016-3510、CVE-2017-3248、CVE-2017-3506、CVE-2017-10271、CVE-2018-2628、CVE-2018-2893、CVE-2018-2894、CVE-2018-3191、CVE-2018-3245、CVE-2018-3252、CVE-2019-2618、CVE-2019-2725、CVE-2019-2729、CVE-2019-2890、CVE-2020-2551、CVE-2020-14882、CVE-2020-14883 | https://github.com/0xn0ne/weblogicScanner | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
-| 20201127T12:27:56Z | CVE-2020-23489 | RCE exploit for AVideo < 8.9 (CVE-2020-23489 & CVE-2020-23490) | https://github.com/ahussam/AVideo3xploit | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 00 MINUTES 12 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20201127T11:26:04Z | CVE-2020-28948 | Null | https://github.com/0x240x23elu/CVE-2020-28948-and-CVE-2020-28949 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 00 MINUTES 28 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20201127T11:20:58Z | CVE-2020-1034 | PoC demonstrating the use of cve-2020-1034 for privilege escalation | https://github.com/yardenshafir/CVE-2020-1034 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 00 MINUTES 19 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201127T12:27:56Z | CVE-2020-23489 | RCE exploit for AVideo < 8.9 (CVE-2020-23489 & CVE-2020-23490) | https://github.com/ahussam/AVideo3xploit | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 59 MINUTES 11 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201127T11:26:04Z | CVE-2020-28948 | Null | https://github.com/0x240x23elu/CVE-2020-28948-and-CVE-2020-28949 | 到1.4.10为止的Archive_Tar允许反序列化攻击，因为phar：被阻止了，但是PHAR：没有被阻止了。| 
+| 20201127T11:20:58Z | CVE-2020-1034 | PoC demonstrating the use of cve-2020-1034 for privilege escalation | https://github.com/yardenshafir/CVE-2020-1034 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 59 MINUTES 18 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20201127T02:12:54Z | CVE-2020-2883 | CVE-2020-2883 | https://github.com/Al1ex/CVE-2020-2883 | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20201128T23:33:22Z | Null | https://github.com/klee-chan/klee-chan.github.io | 0 | 0| 
+| 20201128T16:39:58Z | C library to support Map2Check Tool | https://github.com/hbgit/map2check-library | 0 | 0| 
 | 20201128T07:29:54Z | Still currently in progress | https://github.com/DonaldKLee/DonaldKLee.github.io | 1 | 0| 
 | 20201128T04:48:55Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1553 | 473| 
 | 20201127T22:26:47Z | Urban Evidence Based Policy (SPPA667) | https://github.com/KLeeDE/PUS2020_KLee | 0 | 1| 
-| 20201127T21:07:48Z | C library to support Map2Check Tool | https://github.com/hbgit/map2check-library | 0 | 0| 
 | 20201127T18:47:46Z | Hello, world!  I, Alicia Klees, am now on Github! | https://github.com/aklees/hello-world | 0 | 0| 
 | 20201126T06:40:35Z | Null | https://github.com/MariyaTaj/iKleen-master | 0 | 0| 
 | 20201126T04:29:13Z | Create CFGs and compute complexity metrics for Python, C++, and Java code. | https://github.com/hmc-alpaqa/metrinome | 5 | 0| 
 | 20201124T10:23:02Z | Symbiotic is a tool for finding bugs in computer programs based on instrumentation, program slicing and KLEE | https://github.com/staticafi/symbiotic | 204 | 33| 
-| 20201121T10:18:22Z | Null | https://github.com/klee-chan/klee-chan.github.io | 0 | 0| 
 | 20201120T20:14:48Z | Null | https://github.com/davidtr1037/klee-pspa | 2 | 0| 
 
 
@@ -88,46 +88,46 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20201128T13:50:27Z | iblessing is an iOS security exploiting toolkit, it mainly includes application information collection, static analysis and dynamic analysis. It can be used for reverse engineering, binary analysis and vulnerability mining. | https://github.com/Soulghost/iblessing | 217 | 34| 
-| 20201128T13:36:40Z | Spectre and Meltdown Exploits | https://github.com/pratyush1019/Spectre_Meltdown_Exploits | 0 | 0| 
-| 20201128T13:33:45Z | Exploit Minecraft console for megacraft.org | https://github.com/Nekiplay/Minecraft-Console-Client-Premium-ServerSide | 0 | 0| 
-| 20201128T13:07:35Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 8678 | 1364| 
-| 20201128T12:28:52Z | Null | https://github.com/royanpng2/MyExploit | 0 | 0| 
-| 20201128T11:29:14Z | Null | https://github.com/hicwwq/exploit-discord-raid | 0 | 0| 
-| 20201128T11:05:30Z | Pattern-Exploiting Training in Julia and Knet. A replication of %It’s Not Just Size That Matters: Small Language Models Are Also Few-Shot Learners% | https://github.com/Shamdan17/pet.jl | 0 | 0| 
-| 20201128T10:27:11Z | Windows 7 AutoExploit | https://github.com/AungThuMyint/ExploitWindows7 | 0 | 0| 
-| 20201128T09:59:12Z | Towelroot Exploitation | https://github.com/elongl/towelroot | 0 | 0| 
-| 20201128T09:16:07Z | Docker based HTTP(S) component of the PS4/PS5 Exploit Host  | https://github.com/Al-Azif/exploit-host-http | 0 | 0| 
+| 20201129T00:53:27Z | Exploitation tous azimuts de la base SIRENE | https://github.com/Relais4x100a2/Rishon | 0 | 0| 
+| 20201129T00:49:09Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 6 | 4| 
+| 20201129T00:36:52Z | Null | https://github.com/SeanLossef/modern-binary-exploitation | 0 | 0| 
+| 20201128T23:27:49Z | A phased, evasive Path Traversal + LFI scanning & exploitation tool in Python | https://github.com/VainlyStrain/Vailyn | 62 | 2| 
+| 20201128T23:17:55Z | RedTeam/Pentest notes and experiments tested on several infrastructures related to professional engagements. | https://github.com/ihebski/A-Red-Teamer-diaries | 196 | 70| 
+| 20201128T23:00:30Z | Null | https://github.com/0xturazzi/Um-Livrinho-Sobre-Exploit-Dev | 0 | 0| 
+| 20201128T22:19:18Z | Docker based HTTP(S) component of the PS4/PS5 Exploit Host  | https://github.com/Al-Azif/exploit-host-http | 0 | 0| 
+| 20201128T22:11:17Z | Plugin to fix exploits and add functionality to anarchy servers | https://github.com/L2X9org/L2X9Core | 8 | 8| 
+| 20201128T21:51:50Z | Thi powershell script has got to run in remote windows host, even for pivoting | https://github.com/FabioDefilippo/winallenum | 0 | 1| 
+| 20201128T21:34:34Z | Spectre and Meltdown Exploits | https://github.com/pratyush1019/Spectre_Meltdown_Exploits | 0 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20201128T09:51:50Z | Deep Learning Backdoors Framework. A light-weight tool to conduct your research on backdoors. | https://github.com/ebagdasa/backdoors101 | 12 | 0| 
-| 20201128T05:03:01Z | A protocol capable of individually backdooring any secret communication by multiple separate state authorities. | https://github.com/fbv81bp/Law_enforcing_E2EE | 0 | 0| 
-| 20201128T02:59:00Z | Ghost Framework is an Android post-exploitation framework that exploits the Android Debug Bridge to remotely access an Android device. Ghost Framework gives you the power and convenience of remote Android device administration. | https://github.com/EntySec/ghost | 834 | 417| 
-| 20201127T23:21:14Z | Null | https://github.com/FawkesOficial/better-discord-backdoor | 0 | 0| 
-| 20201127T21:43:23Z | Multi-client Cross-platform Python Backdoor/Reverse Shell/RAT with AES Encryption | https://github.com/Y4hL/PyDoor | 25 | 12| 
-| 20201127T20:42:06Z | Some malware samples or suspicious files I found and their reports. | https://github.com/CYB3RMX/MalwareAnalysis101 | 15 | 0| 
-| 20201127T20:20:45Z | Null | https://github.com/HildeTeamTNT/backdoors-1 | 0 | 0| 
-| 20201127T19:51:08Z | FUD cross-platform python2 backdoor with C2 | https://github.com/7h3w4lk3r/pyback | 12 | 5| 
-| 20201127T19:18:22Z | A deck-building roguelike cyberpunk game. | https://github.com/uspgamedev/backdoor | 19 | 3| 
-| 20201127T14:51:13Z | the development of the Prediction of type-Social-Engineering Attacks was successuful by the graphical and analysis from Chi-Square Test and visuaized the Result to predict one-of-the-attack( Expoit, Fuzzer, DOS, Reconnaissance, Generic, BackDoor attack, Shell-Code attack, Worms minor attack) based on the above graph we are able to decide the particular IP address addressing the attacks issue from one of these. | https://github.com/KVSSKPRADEEP/DataWareHousing-Mining_SocialEnggAttack_prediction | 0 | 0| 
+| 20201129T00:47:41Z | A Remote Administration Tool (RAT) | https://github.com/0xmanjoos/Pieta | 2 | 0| 
+| 20201128T23:45:15Z | Thefatrat a massive exploiting tool : Easy tool to generate backdoor and easy tool to post exploitation attack like browser attack and etc . This tool compiles a malware with popular payload and then the compiled malware can be execute on windows, android, mac . The malware that created with this tool also have an ability to bypass most AV software protection . | https://github.com/Screetsec/TheFatRat | 4744 | 1588| 
+| 20201128T23:04:38Z | Ghost Framework is an Android post-exploitation framework that exploits the Android Debug Bridge to remotely access an Android device. Ghost Framework gives you the power and convenience of remote Android device administration. | https://github.com/EntySec/ghost | 836 | 418| 
+| 20201128T20:36:44Z | A reverse shell backdoor written in python. | https://github.com/Ovusi/The_Subway | 0 | 0| 
+| 20201128T20:31:37Z | Null | https://github.com/luiskilla/Exeter-Selfbot-No-Backdoors | 0 | 0| 
+| 20201128T19:34:26Z | Null | https://github.com/rtykholiz/backdoors | 0 | 0| 
+| 20201128T19:16:40Z | A repository that includes the python implementation and the paper%s review of some adversarial attacks. | https://github.com/henrychacon/Backdoor_attacks | 0 | 0| 
+| 20201128T17:15:04Z | Null | https://github.com/BDoryan/BackdoorDeployer | 0 | 0| 
+| 20201128T17:13:00Z | Null | https://github.com/BDoryan/BackdoorGateway | 0 | 0| 
+| 20201128T15:56:11Z | A protocol suite to individually backdoor end-to-end encrypted communications in compliance with the seperation of branches of power legal framework. | https://github.com/fbv81bp/E2EE_backdooring | 0 | 0| 
 
 
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20201128T13:57:21Z | Null | https://github.com/Sambigeara/fuzzy-note | 1 | 1| 
-| 20201128T13:36:12Z | Null | https://github.com/dabelleun/DumbFuzzer | 0 | 0| 
-| 20201128T12:37:45Z | The code behind getfursu.it | https://github.com/veelkoov/fuzzrake | 6 | 0| 
-| 20201128T12:34:57Z | Collection of quality safety articles | https://github.com/tom0li/collection-document | 1299 | 414| 
-| 20201128T12:32:05Z | Repository holding database dumps from getfursu.it | https://github.com/veelkoov/fuzzrake-data | 0 | 0| 
-| 20201128T12:10:12Z | Null | https://github.com/JoshidCoates/fuzzy-labs | 0 | 0| 
-| 20201128T12:07:42Z | Manual input and schedule fuzzing/steering | https://github.com/danpoe/quickfuzz | 0 | 0| 
-| 20201128T12:03:40Z | An HL7 message Fuzzer | https://github.com/ehabhussein/HL7-fuzzer | 0 | 0| 
-| 20201128T12:01:43Z | An HL7 message fuzzer ( client and server ) | https://github.com/IOActive/HL7-Fuzzer | 0 | 0| 
-| 20201128T11:57:38Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 3242 | 750| 
+| 20201129T00:53:22Z | An assortment of basic algorithms implemented in Java | https://github.com/streamlined2/FuzzyNumericWorks | 0 | 0| 
+| 20201129T00:47:18Z | Null | https://github.com/CRafa97/fuzzy-logic-system | 0 | 0| 
+| 20201129T00:17:51Z | Personal website of Laurence Hughes | https://github.com/fuzzylogicxx/fuzzylogic | 4 | 1| 
+| 20201128T23:50:55Z | An implementation of a Inference System using fuzzy logic for Simulation class. | https://github.com/stdevAntiD2ta/fuzzy-inference-system | 0 | 0| 
+| 20201128T23:05:06Z | https://github.com/wcventure/FuzzingPaper | https://github.com/mishmashclone/wcventure-FuzzingPaper | 1 | 0| 
+| 20201128T22:56:44Z |  A CLI tool that generates example data from JSON Typedef schemas | https://github.com/jsontypedef/json-typedef-fuzz | 0 | 0| 
+| 20201128T22:52:21Z | Null | https://github.com/SpiralBL0CK/bunch-of-fuzzers-developed-using-libfuzzer-and-asan | 0 | 0| 
+| 20201128T22:49:53Z | Fuzzing input for linearizability in distributed systems. | https://github.com/VeenaArv/fuzz-linearizabilty | 0 | 0| 
+| 20201128T22:33:38Z | Fuzzy matching publications for fatcat (wip). | https://github.com/miku/fuzzycat | 0 | 1| 
+| 20201128T21:50:59Z | A fuzzing library for C# | https://github.com/pensono/FuzzDotNet | 1 | 0| 
 
 
 
