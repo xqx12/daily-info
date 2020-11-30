@@ -23,8 +23,8 @@
 | --- | --- | --- | --- | ---| 
 | 20201129T23:42:50Z | 未知编号 | A mass exploitation tool for CVE 2020-8793  | https://github.com/helIsec/OpenSMTPD | 未查询到CVE信息| 
 | 20201129T11:44:37Z | CVE-2020-2551 | weblogic 漏洞扫描工具。目前包含对以下漏洞的检测能力：CVE-2014-4210、CVE-2016-0638、CVE-2016-3510、CVE-2017-3248、CVE-2017-3506、CVE-2017-10271、CVE-2018-2628、CVE-2018-2893、CVE-2018-2894、CVE-2018-3191、CVE-2018-3245、CVE-2018-3252、CVE-2019-2618、CVE-2019-2725、CVE-2019-2729、CVE-2019-2890、CVE-2020-2551、CVE-2020-14882、CVE-2020-14883 | https://github.com/0xn0ne/weblogicScanner | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
-| 20201129T10:04:26Z | CVE-2020-13942 | CVE-2020-13942 unauthenticated RCE POC through MVEL and OGNL injection | https://github.com/eugenebmx/CVE-2020-13942 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 59 MINUTES 21 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20201129T00:36:22Z | CVE-2020-5902 | a shitty tool for CVE-2020-5902 (pls use a command various time to work, request things...) | https://github.com/EtoYoshio/t_pwn | 在BIG-IP版本15.0.0-15.1.0.3、14.1.0-14.1.2.5、13.1.0-13.1.3.3、12.1.0-12.1.5.1和11.6.1-11.6.5.1中，流量管理用户接口（TMUI），也称为“配置”实用程序，在未公开的页面中具有远程执行代码（RCE）漏洞。| 
+| 20201129T10:04:26Z | CVE-2020-13942 | CVE-2020-13942 unauthenticated RCE POC through MVEL and OGNL injection | https://github.com/eugenebmx/CVE-2020-13942 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 58 MINUTES 24 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201129T00:36:22Z | CVE-2020-5902 | a shitty tool for CVE-2020-5902 (pls use a command various time to work, request things...) | https://github.com/EtoYoshio/t_pwn | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 58 MINUTES 31 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 
 
 # klee on Github 推荐
@@ -42,16 +42,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20201129T13:54:27Z | Null | https://github.com/frostediscool/exploit | 0 | 0| 
-| 20201129T13:46:30Z | Curated list of Unix binaries that can be exploited to bypass system security restrictions | https://github.com/GTFOBins/GTFOBins.github.io | 3663 | 507| 
-| 20201129T13:37:41Z | A demonstration of using Linux%s Exception Handling mechanism to escape container%s cgroup resource constraint. | https://github.com/wei-juncheng/container_cgroup_escape_exploitation | 0 | 0| 
-| 20201129T11:53:30Z | How to build a dog breed classifier with Keras and Tensorflow using Convolutional Neural Networks. The model is based on the VGG16 architecture and exploits the transfer learning technique | https://github.com/rcantini/Dog-breed-classification | 0 | 0| 
-| 20201129T11:51:45Z | PEDA - Python Exploit Development Assistance for GDB | https://github.com/0xKira/peda | 1 | 0| 
-| 20201129T11:49:37Z | Null | https://github.com/hicwwq/exploit-discord-raid | 0 | 0| 
-| 20201129T11:49:30Z | These exploits are made while practicing exploit development  | https://github.com/TamilHackz/i-make-exploits | 2 | 1| 
-| 20201129T11:35:11Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 8682 | 1364| 
-| 20201129T10:15:31Z | Discrete logarithm problem can exploited in encryption to obtain hard to break but open messages code.In this project,we additionally provide another layer of encryption in Client-Server Socket. It has been further modified to incorporate a chat-room. Python 3 is used,so each and every message is encoded and sent where as the receiver has to decode that message to access it(unlike python2 where you can freely send message through sockets).   | https://github.com/Ary4/Discrete-Logarithm-encryption-in-Client-Server-Chatroom | 0 | 0| 
-| 20201129T09:42:21Z | Exploiting BERT to Improve Aspect-Based Sentiment Analysis Performance on Persian Language   | https://github.com/Hamoon1987/ABSA | 0 | 0| 
+| 20201129T23:53:43Z | A small planet exploitation script to have some fun | https://github.com/shatt3rbb/PlanetExploitation | 0 | 0| 
+| 20201129T23:42:50Z | A mass exploitation tool for CVE 2020-8793  | https://github.com/helIsec/OpenSMTPD | 2 | 0| 
+| 20201129T22:42:33Z | DarkWare is a roblox exploit hub. | https://github.com/Yarik312/DarkWare | 1 | 0| 
+| 20201129T22:39:38Z | Pattern-Exploiting Training in Julia and Knet. A replication of %It’s Not Just Size That Matters: Small Language Models Are Also Few-Shot Learners% | https://github.com/Shamdan17/pet.jl | 0 | 0| 
+| 20201129T22:17:39Z | Null | https://github.com/robin2309/exploitation-sites | 0 | 0| 
+| 20201129T21:58:40Z | This bash script will help you to hack remote hosts  | https://github.com/FabioDefilippo/linuxallremote | 1 | 0| 
+| 20201129T21:41:22Z | Java DNS Post Exploitation Tool | https://github.com/kryptops/lycanthropy | 1 | 1| 
+| 20201129T20:35:11Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 8682 | 1364| 
+| 20201129T20:19:19Z | Null | https://github.com/OGFluffz/OrgsExploit | 0 | 0| 
+| 20201129T19:32:34Z | FireWall testing for exploits | https://github.com/tshipenchko/fwtest | 0 | 1| 
 
 
 # backdoor on Github 推荐
