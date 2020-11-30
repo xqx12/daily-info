@@ -55,7 +55,7 @@
 | 20201128T07:12:23Z | CVE-2020-11975 | CVE-2020-11975 CVE-2020-13942 | https://github.com/1135/unomi_exploit | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 26 MINUTES 26 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20201127T17:07:34Z | CVE-2020-29364 | Null | https://github.com/aslanemre/CVE-2020-29364 | 未查询到CVE信息| 
 | 20201127T12:27:56Z | CVE-2020-23489 | RCE exploit for AVideo < 8.9 (CVE-2020-23489 & CVE-2020-23490) | https://github.com/ahussam/AVideo3xploit | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 00 MINUTES 20 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20201127T11:26:04Z | CVE-2020-28948 | Null | https://github.com/0x240x23elu/CVE-2020-28948-and-CVE-2020-28949 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 26 MINUTES 33 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201127T11:26:04Z | CVE-2020-28948 | Null | https://github.com/0x240x23elu/CVE-2020-28948-and-CVE-2020-28949 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 25 MINUTES 36 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 
 
 # klee on Github 推荐
@@ -88,9 +88,9 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20201130T01:34:00Z | Open source ROBLOX anti-exploit for use by all. | https://github.com/Void-Frost/Secure-X | 2 | 6| 
 | 20201130T01:23:11Z | Null | https://github.com/followboy1999/exploit | 0 | 0| 
 | 20201130T01:17:52Z | Exploit do 3DS que acessa o nds-bootstrap do firmware DSi | https://github.com/Nintendo-Homebrew/Seedminer | 0 | 0| 
-| 20201130T01:05:01Z | Open source ROBLOX anti-exploit for use by all. | https://github.com/Void-Frost/Secure-X | 2 | 6| 
 | 20201130T00:55:38Z | Open source ROBLOX anti-exploit for use by all. | https://github.com/Void-Frost/SquirrelPlus | 2 | 6| 
 | 20201130T00:47:55Z | Formation about basics web applications security. How to exploit them and prevent from them. | https://github.com/fabremx/Web-security-formation | 0 | 0| 
 | 20201130T00:29:18Z | This is an academic project, which aims to exploit PIC18 microcontroller%s capabilities for realtime control operations | https://github.com/oulkaid/Robot-Path-Programming-With-PIC18F45K22 | 0 | 0| 
