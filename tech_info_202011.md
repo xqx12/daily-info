@@ -8,6 +8,7 @@
 | --- | --- | ---| 
 | 20201129 | 欺骗Windows有关内部CPU的信息测试研究、 | https://rayanfam.com/topics/fooling-windows-about-cpu/| 
 | 20201129 | Apache NiFi API远程代码执行漏洞（含EXP）。 | https://packetstormsecurity.com/files/160260| 
+| 20201129 | Tracee-使用eBPF跟踪容器和系统事件 | https://www.kitploit.com/2020/11/tracee-container-and-system-event.html| 
 | 20201127 | 基于 IDA Pro 的微码编写一个可扩展的代码反混淆插件 | https://eshard.com/posts/d810_blog_post_1/| 
 | 20201127 | Implementing Syscalls In The Cobaltstrike Artifact Kit | https://br-sn.github.io/Implementing-Syscalls-In-The-CobaltStrike-Artifact-Kit/| 
 | 20201127 | 最新发布的 PHP 8 引擎中的 JIT 编译器实现分析 | https://www2.slideshare.net/nikita_ppv/justintime-compiler-in-php-8| 
@@ -25,7 +26,6 @@
 | 20201126 | WP: 发现 SSTI 漏洞并绕过 WAF | https://cyc10n3.medium.com/rce-via-server-side-template-injection-ad46f8e0c2ae| 
 | 20201126 | VMware NSX-T SDN 方案中间人劫持漏洞(CVE-2020-3993) | https://insinuator.net/2020/11/vmware-nsx-t-mitm-vulnerability-cve-2020-3993/| 
 | 20201125 | The .NET Export Portal | https://blog.xpnsec.com/the-net-export-portal/| 
-| 20201125 | Checkpoint 对 Android 平台吸费恶意软件 WAPDropper 的分析 | https://research.checkpoint.com/2020/enter-wapdropper-subscribe-users-to-premium-services-by-telecom-companies/| 
 
 
 # 安全维基 推荐
@@ -48,11 +48,11 @@
 | --- | --- | --- | --- | ---| 
 | 20201129T23:42:50Z | 未知编号 | A mass exploitation tool for CVE 2020-8793  | https://github.com/helIsec/OpenSMTPD | 未查询到CVE信息| 
 | 20201129T11:44:37Z | CVE-2020-2551 | weblogic 漏洞扫描工具。目前包含对以下漏洞的检测能力：CVE-2014-4210、CVE-2016-0638、CVE-2016-3510、CVE-2017-3248、CVE-2017-3506、CVE-2017-10271、CVE-2018-2628、CVE-2018-2893、CVE-2018-2894、CVE-2018-3191、CVE-2018-3245、CVE-2018-3252、CVE-2019-2618、CVE-2019-2725、CVE-2019-2729、CVE-2019-2890、CVE-2020-2551、CVE-2020-14882、CVE-2020-14883 | https://github.com/0xn0ne/weblogicScanner | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
-| 20201129T10:04:26Z | CVE-2020-13942 | CVE-2020-13942 unauthenticated RCE POC through MVEL and OGNL injection | https://github.com/eugenebmx/CVE-2020-13942 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 07 MINUTES 24 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20201129T00:36:22Z | CVE-2020-5902 | a shitty tool for CVE-2020-5902 (pls use a command various time to work, request things...) | https://github.com/EtoYoshio/t_pwn | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 07 MINUTES 31 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20201128T12:09:03Z | CVE-2020-27955 | Git-lfs RCE exploit CVE-2020-27955 - tested on Windows on: git, gh cli, GitHub Desktop, Visual Studio, SourceTree etc. | https://github.com/ExploitBox/git-lfs-RCE-exploit-CVE-2020-27955 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 07 MINUTES 22 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20201128T09:07:49Z | CVE-2020-13942 | CVE-2020-13942 POC + Automation Script | https://github.com/shifa123/CVE-2020-13942-POC- | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 07 MINUTES 25 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20201128T07:12:23Z | CVE-2020-11975 | CVE-2020-11975 CVE-2020-13942 | https://github.com/1135/unomi_exploit | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 07 MINUTES 29 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201129T10:04:26Z | CVE-2020-13942 | CVE-2020-13942 unauthenticated RCE POC through MVEL and OGNL injection | https://github.com/eugenebmx/CVE-2020-13942 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 06 MINUTES 25 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201129T00:36:22Z | CVE-2020-5902 | a shitty tool for CVE-2020-5902 (pls use a command various time to work, request things...) | https://github.com/EtoYoshio/t_pwn | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 06 MINUTES 32 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201128T12:09:03Z | CVE-2020-27955 | Git-lfs RCE exploit CVE-2020-27955 - tested on Windows on: git, gh cli, GitHub Desktop, Visual Studio, SourceTree etc. | https://github.com/ExploitBox/git-lfs-RCE-exploit-CVE-2020-27955 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 06 MINUTES 23 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201128T09:07:49Z | CVE-2020-13942 | CVE-2020-13942 POC + Automation Script | https://github.com/shifa123/CVE-2020-13942-POC- | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 06 MINUTES 26 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201128T07:12:23Z | CVE-2020-11975 | CVE-2020-11975 CVE-2020-13942 | https://github.com/1135/unomi_exploit | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 06 MINUTES 30 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20201127T17:07:34Z | CVE-2020-29364 | Null | https://github.com/aslanemre/CVE-2020-29364 | 未查询到CVE信息| 
 | 20201127T12:27:56Z | CVE-2020-23489 | RCE exploit for AVideo < 8.9 (CVE-2020-23489 & CVE-2020-23490) | https://github.com/ahussam/AVideo3xploit | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 00 MINUTES 20 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20201127T11:26:04Z | CVE-2020-28948 | Null | https://github.com/0x240x23elu/CVE-2020-28948-and-CVE-2020-28949 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 06 MINUTES 36 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
@@ -88,6 +88,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20201130T01:52:39Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 8683 | 1364| 
 | 20201130T01:43:27Z | 开发的项目 | https://github.com/xiuer2020/exploit | 0 | 0| 
 | 20201130T01:40:51Z | CTF framework and exploit development library | https://github.com/Gallopsled/pwntools | 7296 | 1323| 
 | 20201130T01:35:28Z | Open source ROBLOX anti-exploit for use by all. | https://github.com/Void-Frost/Secure-X | 2 | 6| 
@@ -97,7 +98,6 @@
 | 20201130T00:47:55Z | Formation about basics web applications security. How to exploit them and prevent from them. | https://github.com/fabremx/Web-security-formation | 0 | 0| 
 | 20201130T00:29:18Z | This is an academic project, which aims to exploit PIC18 microcontroller%s capabilities for realtime control operations | https://github.com/oulkaid/Robot-Path-Programming-With-PIC18F45K22 | 0 | 0| 
 | 20201130T00:02:40Z | Code related to a wider project in which the stroboscopic map is exploited in the analysis of a time-periodic dependent dynamical system. | https://github.com/FMagnani/Stroboscopic_Map_Example | 0 | 0| 
-| 20201129T23:53:43Z | A small planet exploitation script to have some fun | https://github.com/shatt3rbb/PlanetExploitation | 0 | 0| 
 
 
 # backdoor on Github 推荐
