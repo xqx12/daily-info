@@ -21,14 +21,17 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20201129T23:42:50Z | 未知编号 | A mass exploitation tool for CVE 2020-8793  | https://github.com/helIsec/OpenSMTPD | 未查询到CVE信息| 
 | 20201129T11:44:37Z | CVE-2020-2551 | weblogic 漏洞扫描工具。目前包含对以下漏洞的检测能力：CVE-2014-4210、CVE-2016-0638、CVE-2016-3510、CVE-2017-3248、CVE-2017-3506、CVE-2017-10271、CVE-2018-2628、CVE-2018-2893、CVE-2018-2894、CVE-2018-3191、CVE-2018-3245、CVE-2018-3252、CVE-2019-2618、CVE-2019-2725、CVE-2019-2729、CVE-2019-2890、CVE-2020-2551、CVE-2020-14882、CVE-2020-14883 | https://github.com/0xn0ne/weblogicScanner | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
-| 20201129T10:04:26Z | CVE-2020-13942 | CVE-2020-13942 unauthenticated RCE POC through MVEL and OGNL injection | https://github.com/eugenebmx/CVE-2020-13942 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 00 MINUTES 24 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20201129T00:36:22Z | CVE-2020-5902 | a shitty tool for CVE-2020-5902 (pls use a command various time to work, request things...) | https://github.com/EtoYoshio/t_pwn | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 00 MINUTES 30 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201129T10:04:26Z | CVE-2020-13942 | CVE-2020-13942 unauthenticated RCE POC through MVEL and OGNL injection | https://github.com/eugenebmx/CVE-2020-13942 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 59 MINUTES 21 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201129T00:36:22Z | CVE-2020-5902 | a shitty tool for CVE-2020-5902 (pls use a command various time to work, request things...) | https://github.com/EtoYoshio/t_pwn | 在BIG-IP版本15.0.0-15.1.0.3、14.1.0-14.1.2.5、13.1.0-13.1.3.3、12.1.0-12.1.5.1和11.6.1-11.6.5.1中，流量管理用户接口（TMUI），也称为“配置”实用程序，在未公开的页面中具有远程执行代码（RCE）漏洞。| 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20201129T19:44:29Z | Symbiotic is a tool for finding bugs in computer programs based on instrumentation, program slicing and KLEE | https://github.com/staticafi/symbiotic | 205 | 33| 
+| 20201129T18:46:01Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1554 | 473| 
 
 
 # s2e on Github 推荐
@@ -54,29 +57,30 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20201129T13:08:23Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 118 | 15| 
+| 20201129T20:31:16Z | Thefatrat a massive exploiting tool : Easy tool to generate backdoor and easy tool to post exploitation attack like browser attack and etc . This tool compiles a malware with popular payload and then the compiled malware can be execute on windows, android, mac . The malware that created with this tool also have an ability to bypass most AV software protection . | https://github.com/Screetsec/TheFatRat | 4749 | 1588| 
+| 20201129T19:21:43Z | A Remote Administration Tool (RAT) | https://github.com/0xmanjoos/Pieta | 2 | 0| 
+| 20201129T15:06:12Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 118 | 15| 
+| 20201129T14:59:23Z | Null | https://github.com/BackDoor-TR/backdoorddos | 0 | 0| 
 | 20201129T11:51:33Z | HTTP based backdoor | https://github.com/hajindvlp/Hbackdoor | 0 | 0| 
 | 20201129T10:02:35Z | Some malware samples or suspicious files I found and their reports. | https://github.com/CYB3RMX/MalwareAnalysis101 | 16 | 0| 
 | 20201129T08:10:42Z | Null | https://github.com/jahanvi316/backdoorTrojanHorseAttack | 0 | 0| 
-| 20201129T06:16:17Z | Thefatrat a massive exploiting tool : Easy tool to generate backdoor and easy tool to post exploitation attack like browser attack and etc . This tool compiles a malware with popular payload and then the compiled malware can be execute on windows, android, mac . The malware that created with this tool also have an ability to bypass most AV software protection . | https://github.com/Screetsec/TheFatRat | 4746 | 1588| 
 | 20201129T05:11:00Z | A protocol suite to individually backdoor end-to-end encrypted communications in compliance with the seperation of branches of power legal framework. | https://github.com/fbv81bp/E2EE_backdooring | 0 | 0| 
 | 20201129T01:40:09Z | PCI Express DIY hacking toolkit for Xilinx SP605 | https://github.com/Cr4sh/s6_pcie_microblaze | 291 | 75| 
-| 20201129T00:47:41Z | A Remote Administration Tool (RAT) | https://github.com/0xmanjoos/Pieta | 2 | 0| 
 
 
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20201129T13:43:26Z | Fuzzy Logic Toolbox Matlab Homework | https://github.com/makaryb/FuzzyLogicMatlabHomework | 0 | 0| 
-| 20201129T13:19:52Z | Packer Fuzzer is a fast and efficient scanner for security detection of websites constructed by javascript module bundler such as Webpack.  | https://github.com/rtcatc/Packer-Fuzzer | 435 | 49| 
-| 20201129T12:25:49Z | Fuzz corpora that shouldn%t *quite* go into Serenity, I think | https://github.com/BenWiederhake/serenity-fuzz-corpora | 1 | 0| 
-| 20201129T11:51:11Z | Repository holding database dumps from getfursu.it | https://github.com/veelkoov/fuzzrake-data | 0 | 0| 
-| 20201129T11:49:54Z | the first day  | https://github.com/swuplcici/fuzzy | 0 | 0| 
-| 20201129T11:41:26Z | The code behind getfursu.it | https://github.com/veelkoov/fuzzrake | 6 | 0| 
-| 20201129T11:37:14Z | Null | https://github.com/7evy/Fuzzy_Queries | 0 | 0| 
-| 20201129T11:24:28Z | Null | https://github.com/appfuzzer-study/fuzzer-frameworks | 0 | 0| 
-| 20201129T11:15:11Z | Powerful CUI Explorer on WSL zsh | https://github.com/Fuzzy-Explorer/Fuzzy-Explorer-on-Terminal | 2 | 0| 
-| 20201129T10:33:54Z | Null | https://github.com/sheldak/fuzzy-sets | 0 | 0| 
+| 20201129T22:51:39Z | Class Project of Fuzzy Logic for 4th Degree of Computer Science, subject Simulación, of University of Havana | https://github.com/ginrod/fuzzy-logic | 0 | 0| 
+| 20201129T22:21:29Z | Jast another repository | https://github.com/teodora82/fuzzy-broccoli | 0 | 0| 
+| 20201129T22:05:40Z | Null | https://github.com/Iamnotyanjunliu/fuzzy-tomatoes- | 0 | 0| 
+| 20201129T21:27:15Z | Fuzzy matching publications for fatcat (wip). | https://github.com/miku/fuzzycat | 0 | 1| 
+| 20201129T20:25:46Z | An assortment of basic algorithms implemented in Java | https://github.com/streamlined2/FuzzyNumericWorks | 0 | 0| 
+| 20201129T19:19:29Z | Null | https://github.com/esmaeilmirzaee/fuzzy-waffle | 0 | 0| 
+| 20201129T18:48:36Z | A programm using Fuzzy Logic written for PSI course at AGH University.  | https://github.com/GabenRulez/PSI_FuzzyLogicProject | 0 | 0| 
+| 20201129T18:38:23Z | Get Started with AFLplusplus. Run AFL++ & get FUZZING! in a jiffy.. | https://github.com/ch3332xr/AFLplusplus | 2 | 1| 
+| 20201129T17:52:26Z | Miniaturization of Github Lable issues  | https://github.com/robonetphy/fuzzy-lable | 0 | 0| 
+| 20201129T17:43:20Z | Null | https://github.com/mouhamed-bit/fuzzy-adventure | 0 | 0| 
 
 
 
