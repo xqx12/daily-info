@@ -24,13 +24,13 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20201201T12:10:48Z | 未知编号 | A mass exploitation tool for CVE 2020-8793  | https://github.com/helIsec/OpenSMTPD | 未查询到CVE信息| 
-| 20201201T09:22:00Z | CVE-2020-1034 | PoC demonstrating the use of cve-2020-1034 for privilege escalation | https://github.com/yardenshafir/CVE-2020-1034 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 24 MINUTES 47 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201201T12:10:48Z | 未知编号 | A mass exploitation tool for CVE 2020-8793  | https://github.com/helIsec/OpenSMTPD | | 
+| 20201201T09:22:00Z | CVE-2020-1034 | PoC demonstrating the use of cve-2020-1034 for privilege escalation | https://github.com/yardenshafir/CVE-2020-1034 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 02 MINUTES 43 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20201201T09:00:24Z | CVE-2020-14882 | CVE-2020-14882_ALL综合利用工具，支持命令回显检测、批量命令回显、外置xml无回显命令执行等功能。 | https://github.com/GGyao/CVE-2020-14882_ALL | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
-| 20201201T08:25:09Z | CVE-2020-11975 | CVE-2020-11975 CVE-2020-13942 | https://github.com/1135/unomi_exploit | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 24 MINUTES 49 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201201T08:25:09Z | CVE-2020-11975 | CVE-2020-11975 CVE-2020-13942 | https://github.com/1135/unomi_exploit | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 02 MINUTES 45 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20201201T07:25:30Z | CVE-2020-2551 | weblogic 漏洞扫描工具。目前包含对以下漏洞的检测能力：CVE-2014-4210、CVE-2016-0638、CVE-2016-3510、CVE-2017-3248、CVE-2017-3506、CVE-2017-10271、CVE-2018-2628、CVE-2018-2893、CVE-2018-2894、CVE-2018-3191、CVE-2018-3245、CVE-2018-3252、CVE-2019-2618、CVE-2019-2725、CVE-2019-2729、CVE-2019-2890、CVE-2020-2551、CVE-2020-14882、CVE-2020-14883 | https://github.com/0xn0ne/weblogicScanner | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
 | 20201201T05:05:26Z | CVE-2020-14882 | CVE-2020-14882批量验证工具。 | https://github.com/GGyao/CVE-2020-14882_POC | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
-| 20201201T00:43:47Z | CVE-2020-28948 | Null | https://github.com/0x240x23elu/CVE-2020-28948-and-CVE-2020-28949 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 24 MINUTES 56 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201201T00:43:47Z | CVE-2020-28948 | Null | https://github.com/0x240x23elu/CVE-2020-28948-and-CVE-2020-28949 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 02 MINUTES 52 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 
 
 # klee on Github 推荐
@@ -50,22 +50,22 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20201201T13:54:36Z | RedTeam/Pentest notes and experiments tested on several infrastructures related to professional engagements. | https://github.com/ihebski/A-Red-Teamer-diaries | 215 | 78| 
+| 20201201T13:44:45Z | xcube is a Python package for generating and exploiting data cubes powered by xarray, dask, and zarr. | https://github.com/dcs4cop/xcube | 66 | 11| 
+| 20201201T13:43:51Z | This repository contains my advisories, proof of concept files and exploits that I have made public. | https://github.com/pedrib/PoC | 296 | 81| 
 | 20201201T13:29:28Z | 中国蚁剑后渗透框架 | https://github.com/yzddmr6/As-Exploits | 2 | 1| 
 | 20201201T13:27:48Z | 📢 🔒  Exploit farm for attack-defense CTF competitions | https://github.com/DestructiveVoice/DestructiveFarm | 116 | 32| 
-| 20201201T13:26:00Z | RedTeam/Pentest notes and experiments tested on several infrastructures related to professional engagements. | https://github.com/ihebski/A-Red-Teamer-diaries | 214 | 78| 
 | 20201201T13:14:15Z | Hydrology Thematic Exploitation guide http://hydrology-tep.github.io/documentation | https://github.com/hydrology-tep/documentation | 1 | 4| 
 | 20201201T12:49:40Z | iblessing is an iOS security exploiting toolkit, it mainly includes application information collection, static analysis and dynamic analysis. It can be used for reverse engineering, binary analysis and vulnerability mining. | https://github.com/Soulghost/iblessing | 220 | 35| 
 | 20201201T12:49:11Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 6 | 4| 
 | 20201201T12:43:03Z | FireWall testing for exploits | https://github.com/tshipenchko/fwtest | 0 | 1| 
 | 20201201T12:24:33Z | Just a temporary website to post my ctf writeups and journey into binary exploitation/malware analysis/exploit development | https://github.com/blackbeard666/blackbeard666.github.io | 0 | 0| 
-| 20201201T12:08:34Z | Silice is an open source language that simplifies writing algorithms fully exploiting FPGA architectures. | https://github.com/sylefeb/Silice | 369 | 27| 
-| 20201201T11:43:24Z | TryHackMe CTFs notes files and solutions | https://github.com/edoardottt/tryhackme-ctf | 1 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20201201T13:32:53Z | A fully undetected, hidden, persistent, reverse netcat shell backdoor for Windows. | https://github.com/RAF-87/win-back-cat | 0 | 0| 
+| 20201201T13:51:41Z | A fully undetected, hidden, persistent, reverse netcat shell backdoor for Windows. | https://github.com/RAF-87/win-back-cat | 0 | 0| 
 | 20201201T11:24:36Z | Stealthy C++ based Windows backdoor | https://github.com/whichbuffer/ReverseShell | 0 | 0| 
 | 20201201T03:27:33Z | A Remote Administration Tool (RAT) | https://github.com/0xmanjoos/Pieta | 2 | 0| 
 | 20201201T02:32:24Z | Null | https://github.com/irepublica/monitor_backdoor | 0 | 0| 
