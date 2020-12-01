@@ -14,6 +14,12 @@
 | 20201130 | PHP 8.0 新引入的一些特性支持 | https://mp.weixin.qq.com/s/0HSAPYY2PjbwEN3MhI4SkA| 
 | 20201130 | WebLogic one GET request RCE分析（CVE-2020-14882+CVE-2020-14883） | https://paper.seebug.org/1411/| 
 | 20201130 | 面向DevSecOps的编码安全指南 —— JavaScript篇 | https://security.tencent.com/index.php/blog/msg/172| 
+| 20201130 | 勒索软件的体系结构研究（1/2） | https://medium.com/bugbountywriteup/architecture-of-a-ransomware-1-2-1b9fee757fcb| 
+| 20201130 | UNIX命令语言（1976）资源。 | https://github.com/susam/tucl| 
+| 20201130 | 逆向工程师硬件调试教程第1部分：SWD，OpenOCD和Xbox One控制器。 | https://wrongbaud.github.io/posts/stm-xbox-jtag/| 
+| 20201130 | 使用开放网络进行MITM WiFi攻击测试。 | https://medium.com/bugbountywriteup/mitm-wifi-attacks-using-open-networks-7c0cc283524c?source=rss----7b722bfd1b8d---4| 
+| 20201130 | Talk About DLL Planting Again，Microsoft Excel RCE 漏洞分析（CVE-2020-1332） | http://blog.br0vvnn.io/pages/blogpost.aspx?id=3| 
+| 20201130 | rr remix: Efficient Replay-Only Binary Instrumentation | https://robert.ocallahan.org/2020/12/rr-remix-efficient-replay-only-binary.html| 
 
 
 # 安全维基 推荐
@@ -22,22 +28,30 @@
 | 20201130 | 一次SQL注入导致的越权 | https://www.sec-in.com/article/545| 
 | 20201130 | SecWiki周刊（第352期) | https://www.sec-wiki.com/weekly/352| 
 | 20201130 | 意大利后台登录框POST注入实战 | https://mp.weixin.qq.com/s/rtE1e55xOSBpMVfg0KGw8g| 
+| 20201130 | Java中js命令执行的攻与防 | https://xz.aliyun.com/t/8567| 
+| 20201130 | Java程序恶意行为监控组件 | https://www.freebuf.com/articles/compliance/256099.html| 
 
 
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20201130T12:34:23Z | CVE-2020-1034 | PoC demonstrating the use of cve-2020-1034 for privilege escalation | https://github.com/yardenshafir/CVE-2020-1034 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 51 MINUTES 33 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20201130T10:44:55Z | CVE-2020-2551 | weblogic 漏洞扫描工具。目前包含对以下漏洞的检测能力：CVE-2014-4210、CVE-2016-0638、CVE-2016-3510、CVE-2017-3248、CVE-2017-3506、CVE-2017-10271、CVE-2018-2628、CVE-2018-2893、CVE-2018-2894、CVE-2018-3191、CVE-2018-3245、CVE-2018-3252、CVE-2019-2618、CVE-2019-2725、CVE-2019-2729、CVE-2019-2890、CVE-2020-2551、CVE-2020-14882、CVE-2020-14883 | https://github.com/0xn0ne/weblogicScanner | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
-| 20201130T09:48:22Z | CVE-2020-11651 | Scanning tool to test for SaltStack vulnerabilities CVE-2020-11651 & CVE-2020-11652. | https://github.com/appcheck-ng/salt-rce-scanner-CVE-2020-11651-CVE-2020-11652 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 50 MINUTES 04 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20201130T08:09:30Z | CVE-2020-5902 | a shitty tool for CVE-2020-5902 (pls use a command various time to work, request things...) | https://github.com/EtoYoshio/t_pwn | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 52 MINUTES 41 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20201130T07:53:10Z | CVE-2020-13942 | CVE-2020-13942 POC + Automation Script | https://github.com/shifa123/CVE-2020-13942-POC- | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 51 MINUTES 18 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201130T22:03:48Z | CVE-2020-27955 | Git-lfs RCE exploit CVE-2020-27955 - tested on Windows on: git, gh cli, GitHub Desktop, Visual Studio, SourceTree etc. | https://github.com/ExploitBox/git-lfs-RCE-exploit-CVE-2020-27955 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 00 MINUTES 06 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201130T17:11:21Z | CVE-2020-2551 | weblogic 漏洞扫描工具。目前包含对以下漏洞的检测能力：CVE-2014-4210、CVE-2016-0638、CVE-2016-3510、CVE-2017-3248、CVE-2017-3506、CVE-2017-10271、CVE-2018-2628、CVE-2018-2893、CVE-2018-2894、CVE-2018-3191、CVE-2018-3245、CVE-2018-3252、CVE-2019-2618、CVE-2019-2725、CVE-2019-2729、CVE-2019-2890、CVE-2020-2551、CVE-2020-14882、CVE-2020-14883 | https://github.com/0xn0ne/weblogicScanner | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
+| 20201130T16:46:44Z | 未知编号 | A mass exploitation tool for CVE 2020-8793  | https://github.com/helIsec/OpenSMTPD | 未查询到CVE信息| 
+| 20201130T16:03:12Z | CVE-2020-1034 | PoC demonstrating the use of cve-2020-1034 for privilege escalation | https://github.com/yardenshafir/CVE-2020-1034 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 00 MINUTES 10 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201130T14:26:23Z | CVE-2020-5902 | a shitty tool for CVE-2020-5902 (pls use a command various time to work, request things...) | https://github.com/EtoYoshio/t_pwn | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 00 MINUTES 14 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201130T09:48:22Z | CVE-2020-11651 | Scanning tool to test for SaltStack vulnerabilities CVE-2020-11651 & CVE-2020-11652. | https://github.com/appcheck-ng/salt-rce-scanner-CVE-2020-11651-CVE-2020-11652 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 00 MINUTES 21 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201130T07:53:10Z | CVE-2020-13942 | CVE-2020-13942 POC + Automation Script | https://github.com/shifa123/CVE-2020-13942-POC- | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 00 MINUTES 09 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20201130T11:58:29Z | One place for all of my workshops | https://github.com/kleenxcoder/kleenxcoder-workshops | 0 | 0| 
+| 20201130T22:41:36Z | ⬇️ File Upload/sharing application, used by thousands of webmasters since 2007.  | https://github.com/kleeja-official/kleeja | 104 | 31| 
+| 20201130T21:34:14Z | One place for all of my workshops | https://github.com/kleenxcoder/kleenxcoder-workshops | 0 | 0| 
+| 20201130T20:52:18Z | Urban Evidence Based Policy (SPPA667) | https://github.com/KLeeDE/PUS2020_KLee | 0 | 1| 
+| 20201130T18:52:11Z | Website for the KLEE project: https://klee.github.io/ | https://github.com/klee/klee.github.io | 13 | 42| 
+| 20201130T18:10:25Z | Symbiotic is a tool for finding bugs in computer programs based on instrumentation, program slicing and KLEE | https://github.com/staticafi/symbiotic | 204 | 33| 
 | 20201130T09:50:21Z | See on meie tehtud veebileht Kleepsubussist ,,Sissejuhatus Erialasse´´ tunni raames. | https://github.com/henrilaats/Veebileht_kleepsubuss | 0 | 0| 
 
 
@@ -50,21 +64,26 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20201130T12:49:10Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 6 | 4| 
-| 20201130T12:44:44Z | Exploitation tous azimuts de la base SIRENE | https://github.com/Relais4x100a2/Rishon | 0 | 0| 
-| 20201130T12:36:24Z | Offensive Software Exploitation Course | https://github.com/ashemery/exploitation-course | 136 | 45| 
-| 20201130T12:34:33Z | Null | https://github.com/th3ken-dev/TH3KEN-EDITON | 2 | 0| 
-| 20201130T12:11:39Z | Sifter is a OSINT, recon & vulnerability scanner. It incorporates a plethara of tools within different module sets that tries to cover every attack vector. Allowing you to quickly perform recon tasks and organize the results in one place. From OSINT to Recon, Exploitation, Post-Exploitation, OpSec, Threat Analysis, XSS, SQLinjection, Network Scanning, WebApp Analysis or DNS enumeration.. Sifter should be able to cover it all. | https://github.com/s1l3nt78/sifter | 300 | 90| 
-| 20201130T12:02:42Z | Un exploit pour crash un channel discord ! (Crée par rezizt et sa team !) | https://github.com/KjSux/Discord-Crash-Channel | 0 | 0| 
-| 20201130T11:56:55Z | 大型内网渗透扫描器&Cobalt Strike，Ladon7.2内置94个模块，包含信息收集/存活主机/IP扫描/端口扫描/服务识别/网络资产/密码爆破/漏洞检测/漏洞利用。漏洞检测含MS17010、SMBGhost、Weblogic、ActiveMQ、Tomcat、Struts2系列，密码口令爆破(Mysql、Oracle、MSSQL)、FTP、SSH(Linux)、VNC、Windows(IPC、WMI、SMB、Netbios、LDAP、SmbHash、WmiHash、Winrm),远程执行命令(wmiexe/psexec/atexec/sshexec/webshell),降权提权Runas、GetSystem，Poc/Exploit,支持Cobalt Strike 3.X-4.0 | https://github.com/k8gege/Ladon | 2054 | 522| 
-| 20201130T11:41:13Z | K8工具合集(内网渗透/提权工具/远程溢出/漏洞利用/扫描工具/密码破解/免杀工具/Exploit/APT/0day/Shellcode/Payload/priviledge/BypassUAC/OverFlow/WebShell/PenTest) Web GetShell Exploit(Struts2/Zimbra/Weblogic/Tomcat/Apache/Jboss/DotNetNuke/zabbix) | https://github.com/k8gege/K8tools | 3357 | 1597| 
-| 20201130T11:39:41Z | k8gege.org - K8哥哥%s Blog | https://github.com/k8gege/k8gege.github.io | 10 | 6| 
-| 20201130T11:38:46Z | A collection of more than 140+ tools, scripts, cheatsheets and other loots that I have developed over years for Red Teaming/Pentesting/IT Security audits purposes. Most of them came handy on at least one of my real-world engagements. | https://github.com/mgeeky/Penetration-Testing-Tools | 511 | 138| 
+| 20201130T23:07:59Z | A module for Garry%s Mod that mitigates exploits on the Source engine. | https://github.com/danielga/gmsv_serversecure | 49 | 15| 
+| 20201130T22:18:57Z | Null | https://github.com/th3ken-dev/TH3KEN-EDITON | 2 | 0| 
+| 20201130T22:01:06Z | Sudo make me root | https://github.com/gregl83/pseudo-root | 0 | 0| 
+| 20201130T21:55:48Z | Open source ROBLOX anti-exploit for use by all. | https://github.com/Void-Frost/Secure-X | 2 | 7| 
+| 20201130T20:36:13Z | Towelroot Exploitation | https://github.com/elongl/towelroot | 0 | 0| 
+| 20201130T19:55:04Z | Exploit tool for Hikvision IP Camera. | https://github.com/jeffrywu28/HikvisionExploit | 0 | 0| 
+| 20201130T19:25:26Z | Bad Characters highlighter for exploit development purposes supporting multiple input formats while comparing. | https://github.com/mgeeky/expdevBadChars | 165 | 51| 
+| 20201130T19:20:24Z | This Repository  includes a PoC for creating a TCPDF <= 6.3.5 deser gadget to delete arbitrary files | https://github.com/timoles/TCPDF-Deserialization-File-Delete-Gadget | 0 | 0| 
+| 20201130T19:11:53Z | python based discord bot developed by exploit#0001 | https://github.com/ExploitDemon/christmassyyy | 0 | 0| 
+| 20201130T18:30:11Z | Exploit | https://github.com/reynaldomota/exploit | 0 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20201130T22:50:46Z | A deck-building roguelike cyberpunk game. | https://github.com/uspgamedev/backdoor | 19 | 4| 
+| 20201130T19:45:44Z | Malware que cria uma shell de conexão reversa para usa-lo informe a variável de ip e crie um listen no netcat  | https://github.com/medn1c/BackDoor_Windows | 1 | 0| 
+| 20201130T18:09:31Z | shell backdoor | https://github.com/rabeltester44/reapers | 0 | 0| 
+| 20201130T17:37:45Z | Thefatrat a massive exploiting tool : Easy tool to generate backdoor and easy tool to post exploitation attack like browser attack and etc . This tool compiles a malware with popular payload and then the compiled malware can be execute on windows, android, mac . The malware that created with this tool also have an ability to bypass most AV software protection . | https://github.com/Screetsec/TheFatRat | 4751 | 1590| 
+| 20201130T15:06:46Z | Unicorn Framework is an iOS, macOS and Linux post-exploitation framework that using one line command and powerful python payload attempts to spawn a command line session with a lot of features such as downloading files, uploading files, getting system information and etc. | https://github.com/EntySec/unicorn | 19 | 5| 
 | 20201130T09:57:05Z | Null | https://github.com/rabbitx1337/backdoor | 0 | 0| 
 | 20201130T06:20:42Z | Null | https://github.com/YukiM00/Backdoor-medicalAI | 0 | 0| 
 
@@ -72,16 +91,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20201130T13:05:06Z | Fuzzing assignment group 12 | https://github.com/StotoV/SS.Fuzzing | 0 | 0| 
-| 20201130T13:02:17Z | The Official Fuzzy Britches Repository. | https://github.com/ThePapaw/fuzzybritches | 0 | 0| 
-| 20201130T12:33:23Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 3243 | 751| 
-| 20201130T12:11:08Z | Rapid fuzzy string matching in Python using the Levenshtein Distance | https://github.com/maxbachmann/RapidFuzz | 719 | 24| 
-| 20201130T11:49:54Z | A very simple example using AFL | https://github.com/mattclarke/fuzzing_python_example | 0 | 0| 
-| 20201130T11:40:33Z | Fuzzer with argv | https://github.com/zodf0055980/Yuan-fuzz | 10 | 0| 
-| 20201130T11:31:04Z | Null | https://github.com/michlampert/fuzzyCar | 0 | 0| 
-| 20201130T11:15:01Z | A python script to find hidden directories. | https://github.com/alkharusi9/dirFuzz | 0 | 0| 
-| 20201130T11:13:39Z | Null | https://github.com/stdevAdrianPaez/simulation-fuzzy | 0 | 0| 
-| 20201130T11:10:32Z | Null | https://github.com/t344/Fuzzy_2020 | 0 | 0| 
+| 20201130T23:46:53Z | Null | https://github.com/nabbwp123/fuzzy-carnival | 0 | 0| 
+| 20201130T23:29:52Z | Senior Capstone Project for Kennesaw State University | https://github.com/MarcussucraM/FuzzyChess | 0 | 2| 
+| 20201130T23:18:37Z | REST API Fuzz Testing (RAFT): Source code for self-hosted service developed for Azure, including the API, orchestration engine, and default set of security tools (including MSR%s RESTler), that enables developers to embed security tooling into their CI/CD workflows | https://github.com/microsoft/rest-api-fuzz-testing | 64 | 7| 
+| 20201130T22:50:23Z | Null | https://github.com/NaniPuerta/SimProjectFuzzyLogic | 0 | 0| 
+| 20201130T22:42:59Z | Null | https://github.com/adriangs1996/FuzzyInferenceSystem | 0 | 0| 
+| 20201130T22:36:46Z | fuzzing (and soon benching) for precompiles | https://github.com/prestwich/smash | 3 | 1| 
+| 20201130T22:14:26Z | Null | https://github.com/oschdez97/fuzzy_simulation | 0 | 0| 
+| 20201130T22:14:21Z | Proyect of Simulation subject, about fuzzy systems | https://github.com/C0NKER/fuzzy-systems | 1 | 0| 
+| 20201130T22:14:00Z | No-fuzz link shortener | https://github.com/arminfriedl/snip | 0 | 0| 
+| 20201130T21:56:19Z | Null | https://github.com/dgc9715/fuzzy-logic | 0 | 0| 
 
 
 
