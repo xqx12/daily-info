@@ -30,7 +30,7 @@
 | 20201202T07:50:01Z | CVE-2020-27950 | CVE-2020-27950 exploit | https://github.com/synacktiv/CVE-2020-27950 | 未查询到CVE信息| 
 | 20201202T05:49:27Z | CVE-2020-25265 | Null | https://github.com/refi64/CVE-2020-25265-25266 | 未查询到CVE信息| 
 | 20201202T03:36:13Z | CVE-2020-2551 | weblogic 漏洞扫描工具。目前包含对以下漏洞的检测能力：CVE-2014-4210、CVE-2016-0638、CVE-2016-3510、CVE-2017-3248、CVE-2017-3506、CVE-2017-10271、CVE-2018-2628、CVE-2018-2893、CVE-2018-2894、CVE-2018-3191、CVE-2018-3245、CVE-2018-3252、CVE-2019-2618、CVE-2019-2725、CVE-2019-2729、CVE-2019-2890、CVE-2020-2551、CVE-2020-14882、CVE-2020-14883 | https://github.com/0xn0ne/weblogicScanner | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
-| 20201202T00:55:09Z | CVE-2020-3992 | Python script to scan for enabled OpenSLP services | https://github.com/HynekPetrak/CVE-2019-5544_CVE-2020-3992 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 17 MINUTES 13 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201202T00:55:09Z | CVE-2020-3992 | Python script to scan for enabled OpenSLP services | https://github.com/HynekPetrak/CVE-2019-5544_CVE-2020-3992 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 00 MINUTES 29 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 
 
 # klee on Github 推荐
@@ -51,16 +51,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20201202T13:57:08Z | Development of code to exploit LSST and VISTA imaging | https://github.com/lsst-uk/lsst-ir-fusion | 0 | 0| 
+| 20201202T13:48:35Z | Real-time security watching program that alerts you to the latest vulnerabilities and cyber threats. | https://github.com/Guezone/VESEC | 0 | 0| 
+| 20201202T13:43:34Z | Just a temporary website to post my ctf writeups and journey into binary exploitation/malware analysis/exploit development | https://github.com/blackbeard666/blackbeard666.github.io | 0 | 0| 
 | 20201202T13:40:45Z | Exploiting Machine Learning for Land Surface Temperature (LST) evaluation | https://github.com/fabiod20/land-surface-temperature-evaluation-from-satellite-data | 0 | 0| 
 | 20201202T13:40:32Z | Exploiting Machine Learning for Alzheimer%s disease detection | https://github.com/fabiod20/machine-learning-for-alzheimer-s-disease-detection | 0 | 0| 
-| 20201202T13:39:48Z | Real-time security watching program that alerts you to the latest vulnerabilities and cyber threats. | https://github.com/Guezone/VESEC | 1 | 0| 
 | 20201202T13:38:53Z | Various ASM, C and C++ tools, shellcodes and exploit experiments. | https://github.com/forrest-orr/ExploitDev | 0 | 0| 
 | 20201202T13:20:48Z | A Burp Extension for finding simple SQL exploitable. Supports GET and POST with key-value, Json and XML data type. | https://github.com/a4dyn/InjectionScanner | 0 | 0| 
 | 20201202T12:57:09Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 8696 | 1369| 
 | 20201202T12:22:25Z | Advanced Exploit Mitigation Paper | https://github.com/CxVercility/Windows-Internals | 0 | 0| 
 | 20201202T11:49:25Z | Collection of WordPress Plugin PoC - For Educational Purposes ONLY | https://github.com/deguru22/wp-plugins-poc | 1 | 0| 
-| 20201202T11:36:47Z | An app with really insecure crypto. To be used to see/test/exploit weak cryptographic implementations as well as to learn a little bit more about crypto, without the need to dive deep into the math behind it | https://github.com/DamnVulnerableCryptoApp/DamnVulnerableCryptoApp | 51 | 12| 
-| 20201202T11:26:15Z | The official Exploit Database repository | https://github.com/offensive-security/exploitdb | 5721 | 1634| 
 
 
 # backdoor on Github 推荐
@@ -81,16 +81,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20201202T13:55:05Z | FormatFuzzer is a framework for high-efficiency, high-quality generation and parsing of binary inputs. | https://github.com/uds-se/FormatFuzzer | 97 | 7| 
+| 20201202T13:50:34Z | Credax -Fastest Fuzzing Tool with Slack Notifications. | https://github.com/notmarshmllow/credax | 0 | 0| 
+| 20201202T13:46:21Z | Null | https://github.com/moisesmiiranda/ProjetoFuzzy | 0 | 0| 
 | 20201202T13:37:10Z | Null | https://github.com/FDU-Program-Analysis/chunk-fuzzer-pass | 0 | 0| 
-| 20201202T13:30:44Z | Credax -Fastest Fuzzing Tool with Slack Notifications. | https://github.com/notmarshmllow/credax | 0 | 0| 
 | 20201202T13:28:18Z | Null | https://github.com/super1235/fuzzy-octo-robot | 0 | 0| 
 | 20201202T13:25:45Z | Packer Fuzzer is a fast and efficient scanner for security detection of websites constructed by javascript module bundler such as Webpack.  | https://github.com/rtcatc/Packer-Fuzzer | 462 | 53| 
 | 20201202T13:24:18Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 3249 | 753| 
 | 20201202T13:13:23Z | Web Pentesting Fuzz 字典,一个就够了。 | https://github.com/TheKingOfDuck/fuzzDicts | 2831 | 1151| 
 | 20201202T13:11:40Z | Null | https://github.com/s9varesc/url-fuzzing-docker | 0 | 0| 
 | 20201202T13:06:49Z | A random basic test ROM generator for the GBA | https://github.com/DenSinH/FuzzARM | 14 | 1| 
-| 20201202T12:55:03Z | no fuzz configurator | https://github.com/roxiness/configent | 2 | 0| 
-| 20201202T12:36:15Z | Null | https://github.com/lacygoill/vim-fuzzy | 0 | 0| 
 
 
 
