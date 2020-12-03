@@ -6,6 +6,15 @@
 # 玄武实验室 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20201203 | Frida 发布 14.1 版本，增强对 iOS 14.2 及 ARM 平台的支持 | https://frida.re/news/2020/12/01/frida-14-1-released/| 
+| 20201203 | Speculative Probing: Hacking Blind in the Spectre Era(Paper) | https://download.vusec.net/papers/blindside_ccs20.pdf| 
+| 20201203 | Apache OpenOffice RCE (CVE-2020-13958) | https://github.com/irsl/apache-openoffice-rce-via-uno-links?fbclid=IwAR0dWK8OVVVU2Z1iy5Oq52CcB2tCt9Q5g4-ZvX5mM_QJ3JzGdG3ERAm6JJ4| 
+| 20201203 | Exploiting SIGRed (CVE-2020–1350) on Windows Server 2012/2016/2019 | https://datafarm-cybersecurity.medium.com/exploiting-sigred-cve-2020-1350-on-windows-server-2012-2016-2019-80dd88594228| 
+| 20201203 | 容器管理宿主进程 containerd containerd-shim API 被发现 Host 提权漏洞(CVE-2020-15257) | https://research.nccgroup.com/2020/11/30/technical-advisory-containerd-containerd-shim-api-exposed-to-host-network-containers-cve-2020-15257/| 
+| 20201203 | 语言解释执行（Language Interpreters）堆溢出漏洞的自动化利用生成 | https://seanhn.files.wordpress.com/2020/11/heelan_phd_thesis.pdf| 
+| 20201203 | 一款全新的 Android 反编译工具，支持 APK、DEX、ODEX、OAT、JAR、AAR、CLASS 文件格式的反编译 | https://github.com/charles2gan/GDA-android-reversing-Tool| 
+| 20201203 | IOT Exploitation Ghidra Scripts | https://github.com/tacnetsol/ghidra_scripts| 
+| 20201203 | 越南国家背景的 OceanLotus APT 组织利用恶意软件攻击 macOS 平台用户 | https://www.hackread.com/oceanlotus-hackers-macos-users-malware/| 
 | 20201202 | NFStream - 一款可扩展的网络数据分析框架 | https://github.com/nfstream/nfstream| 
 | 20201202 | r0capture - 安卓应用层抓包通杀脚本 | https://github.com/r0ysue/r0capture| 
 | 20201202 | Cisco Talos 对 Xanthe 恶意软件的分析 | https://blogs.cisco.com/security/talos/xanthe-docker-aware-miner| 
@@ -17,16 +26,14 @@
 | 20201201 | macOS GravityRAT 恶意软件变种的分析 | https://objective-see.com/blog/blog_0x5C.html| 
 | 20201201 | Exploiting blind PostgreSQL injection and exfiltrating data in psycopg2 | https://www.shawarkhan.com/2020/11/exploiting-blind-postgresql-injection.html| 
 | 20201201 | Excel 4.0 (XL4) 是如何被恶意攻击者利用实现武器化的 | https://www.virusbulletin.com/blog/2020/11/vb2020-presentation-evolution-excel-40-macro-weaponization/| 
-| 20201201 | Speakeasy - FireEye 开源的用于模拟执行 Windows 用户态、内核态恶意软件的工具 | https://github.com/fireeye/speakeasy| 
-| 20201201 | Healer - Rust 语言编写的内核 System Call Fuzzer | https://github.com/SunHao-0/healer| 
-| 20201201 | 使用逐步方法剖析APT21样本的溯源。 | https://cybergeeks.tech/dissecting-apt21-samples-using-a-step-by-step-approach/| 
-| 20201201 | 漏洞焦点：WebKit浏览器中的存在多个安全漏洞。 | https://blog.talosintelligence.com/2020/11/vuln-spotlight-webkit-use-after-free-nov-2020.html?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+feedburner%2FTalos+%28Talos%E2%84%A2+Blog%29| 
-| 20201201 | 改善OAuth应用到应用的安全性解决方案。 | https://danielfett.de/2020/11/27/improving-app2app/| 
 
 
 # 安全维基 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20201203 | WebLogicPasswordDecryptor - 解密 WebLogic 密文 | https://github.com/Ch1ngg/WebLogicPasswordDecryptorUi| 
+| 20201203 | python代码审计-osroom | https://www.sec-in.com/article/709| 
+| 20201203 | A Modern Exploration of Windows Memory Corruption Exploits... | https://www.forrest-orr.net/post/a-modern-exploration-of-windows-memory-corruption-exploits-part-i-stack-overflows| 
 | 20201202 | Precise and Scalable Static Bug Finding for Industrial-Siz... | https://qingkaishi.github.io/public_pdfs/thesis.pdf| 
 | 20201202 | how2heap注意点总结-上 | https://www.sec-in.com/article/722| 
 | 20201201 | 如何实现一款 shellcodeLoader | https://paper.seebug.org/1413/| 
@@ -38,24 +45,24 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20201203T02:55:41Z | CVE-2020-23726 | Null | https://github.com/y5s5k5/CVE-2020-23726 | 未查询到CVE信息| 
-| 20201203T02:40:52Z | CVE-2020-23735 | Null | https://github.com/y5s5k5/CVE-2020-23735 | 未查询到CVE信息| 
-| 20201203T02:15:32Z | CVE-2020-27950 | CVE-2020-27950 exploit | https://github.com/synacktiv/CVE-2020-27950 | 未查询到CVE信息| 
-| 20201202T23:23:24Z | CVE-2020-3992 | Python script to scan for enabled OpenSLP services | https://github.com/HynekPetrak/CVE-2019-5544_CVE-2020-3992 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 00 MINUTES 25 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20201202T13:24:14Z | CVE-2020-14882 | CVE-2020-14882_ALL综合利用工具，支持命令回显检测、批量命令回显、外置xml无回显命令执行等功能。 | https://github.com/GGyao/CVE-2020-14882_ALL | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
-| 20201202T07:59:52Z | 未知编号 | A mass exploitation tool for CVE 2020-8793  | https://github.com/helIsec/OpenSMTPD | 未查询到CVE信息| 
-| 20201202T05:49:27Z | CVE-2020-25265 | Null | https://github.com/refi64/CVE-2020-25265-25266 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 00 MINUTES 11 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20201202T03:36:13Z | CVE-2020-2551 | weblogic 漏洞扫描工具。目前包含对以下漏洞的检测能力：CVE-2014-4210、CVE-2016-0638、CVE-2016-3510、CVE-2017-3248、CVE-2017-3506、CVE-2017-10271、CVE-2018-2628、CVE-2018-2893、CVE-2018-2894、CVE-2018-3191、CVE-2018-3245、CVE-2018-3252、CVE-2019-2618、CVE-2019-2725、CVE-2019-2729、CVE-2019-2890、CVE-2020-2551、CVE-2020-14882、CVE-2020-14883 | https://github.com/0xn0ne/weblogicScanner | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
-| 20201201T09:22:00Z | CVE-2020-1034 | PoC demonstrating the use of cve-2020-1034 for privilege escalation | https://github.com/yardenshafir/CVE-2020-1034 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 01 MINUTES 03 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20201201T08:25:09Z | CVE-2020-11975 | CVE-2020-11975 CVE-2020-13942 | https://github.com/1135/unomi_exploit | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 00 MINUTES 15 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201203T09:50:58Z | CVE-2020-27950 | CVE-2020-27950 exploit | https://github.com/synacktiv/CVE-2020-27950 | 未查询到CVE信息| 
+| 20201203T05:00:36Z | CVE-2020-23736 | dadajiasu | https://github.com/y5s5k5/CVE-2020-23736 | 未查询到CVE信息| 
+| 20201203T04:51:19Z | CVE-2020-23738 | Advanced SystemCare 13 PRO | https://github.com/y5s5k5/CVE-2020-23738 | 未查询到CVE信息| 
+| 20201203T04:04:26Z | CVE-2020-23741 | AnyView | https://github.com/y5s5k5/CVE-2020-23741 | 未查询到CVE信息| 
+| 20201203T03:57:15Z | CVE-2020-28175 | speedfan | https://github.com/y5s5k5/CVE-2020-28175 | 未查询到CVE信息| 
+| 20201203T03:47:09Z | CVE-2020-23740 | Drive the elves | https://github.com/y5s5k5/CVE-2020-23740 | 未查询到CVE信息| 
+| 20201203T03:14:16Z | CVE-2020-23727 | antiy | https://github.com/y5s5k5/CVE-2020-23727 | 未查询到CVE信息| 
+| 20201203T03:02:56Z | CVE-2020-14957 |  windows cleaning assistant | https://github.com/y5s5k5/CVE-2020-14957 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 58 MINUTES 33 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201203T03:02:24Z | CVE-2020-23735 | Saibo Cyber Game Accelerator | https://github.com/y5s5k5/CVE-2020-23735 | 未查询到CVE信息| 
+| 20201203T03:00:39Z | CVE-2020-23726 | Wise Care 365 | https://github.com/y5s5k5/CVE-2020-23726 | 未查询到CVE信息| 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20201203T00:29:02Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1558 | 472| 
-| 20201202T12:58:14Z | One place for all of my workshops | https://github.com/kleenxcoder/kleenxcoder-workshops | 0 | 0| 
-| 20201202T12:05:50Z | Symbiotic is a tool for finding bugs in computer programs based on instrumentation, program slicing and KLEE | https://github.com/staticafi/symbiotic | 206 | 33| 
+| 20201203T12:15:27Z | Symbiotic is a tool for finding bugs in computer programs based on instrumentation, program slicing and KLEE | https://github.com/staticafi/symbiotic | 207 | 33| 
+| 20201203T12:09:18Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1559 | 472| 
+| 20201203T09:57:12Z | One place for all of my workshops | https://github.com/kleenxcoder/kleenxcoder-workshops | 0 | 0| 
 | 20201202T09:07:25Z | RVT is a collection of tools/libraries to support both static and dynamic verification of Rust programs. | https://github.com/project-oak/rust-verification-tools | 98 | 5| 
 | 20201201T18:49:24Z | Null | https://github.com/KleeZz/KleeZz-bot | 0 | 0| 
 | 20201201T17:07:12Z | Urban Evidence Based Policy (SPPA667) | https://github.com/KLeeDE/PUS2020_KLee | 0 | 1| 
@@ -65,23 +72,23 @@
 # s2e on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20201202T08:45:42Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 68 | 21| 
+| 20201203T12:33:53Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 70 | 21| 
 | 20201201T02:53:32Z | Your S2E project management tools. Visit https://s2e.systems/docs to get started. | https://github.com/S2E/s2e-env | 71 | 30| 
 
 
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20201203T02:55:58Z | RedTeam/Pentest notes and experiments tested on several infrastructures related to professional engagements. | https://github.com/ihebski/A-Red-Teamer-diaries | 285 | 80| 
-| 20201203T02:40:16Z | A collection of more than 140+ tools, scripts, cheatsheets and other loots that I have developed over years for Red Teaming/Pentesting/IT Security audits purposes. Most of them came handy on at least one of my real-world engagements. | https://github.com/mgeeky/Penetration-Testing-Tools | 514 | 140| 
-| 20201203T02:28:25Z | A general purpose memory allocator that implements an isolation security strategy to mitigate memory safety issues while maintaining good performance | https://github.com/struct/isoalloc | 125 | 9| 
-| 20201203T02:05:46Z | Windows Exploit Suggester - Next Generation | https://github.com/bitsadmin/wesng | 1950 | 311| 
-| 20201203T02:00:38Z | A tiny level saver for Baldi%s Basics Plus that exploits that fact that you can save your game. | https://github.com/sudaox-real/Baldi-s-Basics-Plus-Level-Saver | 0 | 1| 
-| 20201203T01:25:17Z | An attack/exploit Detector that utilizes Polymorphism and Diversity | https://github.com/polyverse/zerotect | 19 | 1| 
-| 20201203T01:21:15Z | Vulnerabilities% Risk of Exploitation | https://github.com/thiagofigcosta/V-REx | 0 | 0| 
-| 20201203T01:12:05Z | C2 and Post Exploitation Code | https://github.com/sneakerhax/C2PE | 1 | 0| 
-| 20201203T01:08:38Z | Exploiting BERT for End-to-End Aspect-based Sentiment Analysis (W-NUT@EMNLP 2019) | https://github.com/lixin4ever/BERT-E2E-ABSA | 163 | 41| 
-| 20201203T00:49:13Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 6 | 4| 
+| 20201203T12:59:56Z | This bash script will help you to hack remote hosts  | https://github.com/FabioDefilippo/linuxallremote | 1 | 0| 
+| 20201203T12:49:13Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 6 | 4| 
+| 20201203T12:16:25Z | Vulnerabilities of Goby supported with exploitation. | https://github.com/gobysec/GobyVuls | 59 | 12| 
+| 20201203T11:59:45Z | Real-time security watching program that alerts you to the latest vulnerabilities and cyber threats and improves vulnerability management for specified product list via a Web UI. | https://github.com/Guezone/VESEC | 19 | 0| 
+| 20201203T11:35:13Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 8697 | 1368| 
+| 20201203T11:34:39Z | Just a temporary website to post my ctf writeups and journey into binary exploitation/malware analysis/exploit development | https://github.com/blackbeard666/blackbeard666.github.io | 0 | 0| 
+| 20201203T11:33:34Z | Null | https://github.com/archsploit/packages-exploitation | 0 | 0| 
+| 20201203T11:32:37Z | CDK is an open-sourced container penetration toolkit, designed for offering stable exploitation in different slimmed containers without any OS dependency. It comes with useful net-tools and many powerful PoCs/EXPs helps you to escape container and takeover K8s cluster easily. | https://github.com/Xyntax/CDK | 31 | 4| 
+| 20201203T11:28:10Z | Shiro反序列化利用工具，支持新版本(AES-GCM)Shiro的key爆破，配合ysoserial，生成回显Payload | https://github.com/Ares-X/shiro-exploit | 170 | 29| 
+| 20201203T11:11:15Z | This tool lets you search your gadgets on your binaries to facilitate your ROP exploitation. ROPgadget supports ELF, PE and Mach-O format on x86, x64, ARM, ARM64, PowerPC, SPARC and MIPS architectures.  | https://github.com/JonathanSalwan/ROPgadget | 2514 | 494| 
 
 
 # backdoor on Github 推荐
@@ -102,16 +109,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20201203T02:58:29Z | Collection of HTTP scanners and fuzzers. | https://github.com/buffermet/bug-bounty-tools | 9 | 1| 
-| 20201203T01:56:20Z | Null | https://github.com/jtbish/fuzzy-mococo | 0 | 0| 
-| 20201203T01:33:59Z | Null | https://github.com/Dmenk123/fuzzy_ahp | 0 | 0| 
-| 20201203T01:28:54Z | Fuzzaldrin plus - fast using native C++ bindings | https://github.com/atom-ide-community/fuzzaldrin-plus-fast | 2 | 3| 
-| 20201203T01:28:28Z | RESTler is the first stateful REST API fuzzing tool for automatically testing cloud services through their REST APIs and finding security and reliability bugs in these services. | https://github.com/microsoft/restler-fuzzer | 208 | 19| 
-| 20201203T01:00:19Z | Security oriented software fuzzer. Supports evolutionary, feedback-driven fuzzing based on code coverage (SW and HW based) | https://github.com/google/honggfuzz | 2063 | 427| 
-| 20201203T00:59:12Z | Null | https://github.com/cahisso/Fuzzy-and-Neuro-Fuzzy-Systems | 0 | 0| 
-| 20201203T00:53:08Z | Fuzzy matching publications for fatcat (wip). | https://github.com/miku/fuzzycat | 0 | 1| 
-| 20201202T23:54:33Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2226 | 113| 
-| 20201202T23:48:42Z | Null | https://github.com/Sentinel-One/efi_fuzz | 57 | 6| 
+| 20201203T12:56:08Z | This project consists of a simulation of a search-and-rescue environment for discrete path-planning of agents using a Fuzzy Inference System (FIS)-based controller and a Model Predictive Control (MPC)-based controller to optimise FIS parameters. | https://github.com/craigmax-dev/Integrated-Model-Predictive-Fuzzy-Control-for-Disaster-Victim-Detection-Path-Planning-in-MATLAB | 3 | 1| 
+| 20201203T12:49:41Z | Use Fuzz, Gzoltar and sketchFix with simple example  | https://github.com/Biewoom/softwareEngineering2020 | 0 | 0| 
+| 20201203T12:48:10Z | FormatFuzzer is a framework for high-efficiency, high-quality generation and parsing of binary inputs. | https://github.com/uds-se/FormatFuzzer | 98 | 7| 
+| 20201203T12:25:41Z | free facebook | https://github.com/asad935/fuzzy-rotary-phone | 1 | 0| 
+| 20201203T12:18:02Z | WIP | https://github.com/fuzzr-net/fuzzr | 1 | 0| 
+| 20201203T12:11:37Z | A fast web fuzzer written in Perl | https://github.com/LvMalware/webfuzzer | 1 | 0| 
+| 20201203T11:56:44Z | Null | https://github.com/s9varesc/url-fuzzing-docker | 0 | 0| 
+| 20201203T11:49:45Z | Credax -Fastest Fuzzing Tool with Slack Notifications. | https://github.com/notmarshmllow/credax | 0 | 0| 
+| 20201203T11:48:48Z | Null | https://github.com/FDU-Program-Analysis/chunk-fuzzer-pass | 0 | 0| 
+| 20201203T11:40:25Z | Fast HTTP enumerator | https://github.com/RedTeamPentesting/monsoon | 211 | 25| 
 
 
 
