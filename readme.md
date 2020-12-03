@@ -34,8 +34,8 @@
 | 20201203T04:04:26Z | CVE-2020-23741 | AnyView | https://github.com/y5s5k5/CVE-2020-23741 | 未查询到CVE信息| 
 | 20201203T03:57:15Z | CVE-2020-28175 | speedfan | https://github.com/y5s5k5/CVE-2020-28175 | 未查询到CVE信息| 
 | 20201203T03:47:09Z | CVE-2020-23740 | Drive the elves | https://github.com/y5s5k5/CVE-2020-23740 | 未查询到CVE信息| 
-| 20201203T03:14:16Z | CVE-2020-23727 | antiy | https://github.com/y5s5k5/CVE-2020-23727 | 未查询到CVE信息| 
-| 20201203T03:02:56Z | CVE-2020-14957 |  windows cleaning assistant | https://github.com/y5s5k5/CVE-2020-14957 | | 
+| 20201203T03:14:16Z | CVE-2020-23727 | antiy | https://github.com/y5s5k5/CVE-2020-23727 | | 
+| 20201203T03:02:56Z | CVE-2020-14957 |  windows cleaning assistant | https://github.com/y5s5k5/CVE-2020-14957 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 41 MINUTES 18 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20201203T03:02:24Z | CVE-2020-23735 | Saibo Cyber Game Accelerator | https://github.com/y5s5k5/CVE-2020-23735 | 未查询到CVE信息| 
 | 20201203T03:00:39Z | CVE-2020-23726 | Wise Care 365 | https://github.com/y5s5k5/CVE-2020-23726 | 未查询到CVE信息| 
 
@@ -57,6 +57,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20201203T13:17:24Z | Null | https://github.com/ColdFusionX/ColdFusionX.github.io | 2 | 2| 
 | 20201203T12:59:56Z | This bash script will help you to hack remote hosts  | https://github.com/FabioDefilippo/linuxallremote | 1 | 0| 
 | 20201203T12:49:13Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 6 | 4| 
 | 20201203T12:16:25Z | Vulnerabilities of Goby supported with exploitation. | https://github.com/gobysec/GobyVuls | 59 | 12| 
@@ -66,7 +67,6 @@
 | 20201203T11:33:34Z | Null | https://github.com/archsploit/packages-exploitation | 0 | 0| 
 | 20201203T11:32:37Z | CDK is an open-sourced container penetration toolkit, designed for offering stable exploitation in different slimmed containers without any OS dependency. It comes with useful net-tools and many powerful PoCs/EXPs helps you to escape container and takeover K8s cluster easily. | https://github.com/Xyntax/CDK | 31 | 4| 
 | 20201203T11:28:10Z | Shiro反序列化利用工具，支持新版本(AES-GCM)Shiro的key爆破，配合ysoserial，生成回显Payload | https://github.com/Ares-X/shiro-exploit | 170 | 29| 
-| 20201203T11:11:15Z | This tool lets you search your gadgets on your binaries to facilitate your ROP exploitation. ROPgadget supports ELF, PE and Mach-O format on x86, x64, ARM, ARM64, PowerPC, SPARC and MIPS architectures.  | https://github.com/JonathanSalwan/ROPgadget | 2514 | 494| 
 
 
 # backdoor on Github 推荐
