@@ -36,8 +36,8 @@
 | 20201203T03:57:15Z | CVE-2020-28175 | speedfan | https://github.com/y5s5k5/CVE-2020-28175 | 未查询到CVE信息| 
 | 20201203T03:47:09Z | CVE-2020-23740 | Drive the elves | https://github.com/y5s5k5/CVE-2020-23740 | 未查询到CVE信息| 
 | 20201203T03:14:16Z | CVE-2020-23727 | antiy | https://github.com/y5s5k5/CVE-2020-23727 | 未查询到CVE信息| 
-| 20201203T03:02:56Z | CVE-2020-14957 |  windows cleaning assistant | https://github.com/y5s5k5/CVE-2020-14957 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 02 MINUTES 14 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20201203T03:02:24Z | CVE-2020-23735 | Saibo Cyber Game Accelerator | https://github.com/y5s5k5/CVE-2020-23735 | 未查询到CVE信息| 
+| 20201203T03:02:56Z | CVE-2020-14957 |  windows cleaning assistant | https://github.com/y5s5k5/CVE-2020-14957 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 00 MINUTES 19 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201203T03:02:24Z | CVE-2020-23735 | Saibo Cyber Game Accelerator | https://github.com/y5s5k5/CVE-2020-23735 | | 
 | 20201203T03:00:39Z | CVE-2020-23726 | Wise Care 365 | https://github.com/y5s5k5/CVE-2020-23726 | 未查询到CVE信息| 
 
 
@@ -88,16 +88,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20201203T13:59:28Z | Fast HTTP enumerator | https://github.com/RedTeamPentesting/monsoon | 213 | 26| 
+| 20201203T13:59:22Z | Null | https://github.com/Software-Analysis-Team/UnitTestFuzzerCPP | 0 | 0| 
 | 20201203T13:51:13Z | Null | https://github.com/s9varesc/url-fuzzing-docker | 0 | 0| 
 | 20201203T13:42:41Z | Packer Fuzzer is a fast and efficient scanner for security detection of websites constructed by javascript module bundler such as Webpack.  | https://github.com/rtcatc/Packer-Fuzzer | 465 | 53| 
 | 20201203T13:41:58Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 3249 | 753| 
-| 20201203T13:34:27Z | Fast HTTP enumerator | https://github.com/RedTeamPentesting/monsoon | 212 | 26| 
 | 20201203T13:02:09Z | A fast web fuzzer written in Perl | https://github.com/LvMalware/webfuzzer | 1 | 0| 
 | 20201203T12:56:08Z | This project consists of a simulation of a search-and-rescue environment for discrete path-planning of agents using a Fuzzy Inference System (FIS)-based controller and a Model Predictive Control (MPC)-based controller to optimise FIS parameters. | https://github.com/craigmax-dev/Integrated-Model-Predictive-Fuzzy-Control-for-Disaster-Victim-Detection-Path-Planning-in-MATLAB | 3 | 1| 
 | 20201203T12:49:41Z | Use Fuzz, Gzoltar and sketchFix with simple example  | https://github.com/Biewoom/softwareEngineering2020 | 0 | 0| 
 | 20201203T12:48:10Z | FormatFuzzer is a framework for high-efficiency, high-quality generation and parsing of binary inputs. | https://github.com/uds-se/FormatFuzzer | 98 | 7| 
 | 20201203T12:25:41Z | free facebook | https://github.com/asad935/fuzzy-rotary-phone | 1 | 0| 
-| 20201203T12:18:02Z | WIP | https://github.com/fuzzr-net/fuzzr | 1 | 0| 
 
 
 
