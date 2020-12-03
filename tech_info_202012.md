@@ -15,6 +15,7 @@
 | 20201203 | 一款全新的 Android 反编译工具，支持 APK、DEX、ODEX、OAT、JAR、AAR、CLASS 文件格式的反编译 | https://github.com/charles2gan/GDA-android-reversing-Tool| 
 | 20201203 | IOT Exploitation Ghidra Scripts | https://github.com/tacnetsol/ghidra_scripts| 
 | 20201203 | 越南国家背景的 OceanLotus APT 组织利用恶意软件攻击 macOS 平台用户 | https://www.hackread.com/oceanlotus-hackers-macos-users-malware/| 
+| 20201203 | 以红团队安全测试角度机器学习攻击系列：概述 | https://embracethered.com/blog/posts/2020/machine-learning-attack-series-overview/| 
 | 20201202 | NFStream - 一款可扩展的网络数据分析框架 | https://github.com/nfstream/nfstream| 
 | 20201202 | r0capture - 安卓应用层抓包通杀脚本 | https://github.com/r0ysue/r0capture| 
 | 20201202 | Cisco Talos 对 Xanthe 恶意软件的分析 | https://blogs.cisco.com/security/talos/xanthe-docker-aware-miner| 
@@ -25,7 +26,6 @@
 | 20201202 | 探索恶意软件以绕过DNA筛选并导致“生物黑客”攻击威胁。 | https://securityaffairs.co/wordpress/111681/hacking/biohacking-attacks-dna-screening.html?utm_source=feedly&utm_medium=rss&utm_campaign=biohacking-attacks-dna-screening| 
 | 20201201 | macOS GravityRAT 恶意软件变种的分析 | https://objective-see.com/blog/blog_0x5C.html| 
 | 20201201 | Exploiting blind PostgreSQL injection and exfiltrating data in psycopg2 | https://www.shawarkhan.com/2020/11/exploiting-blind-postgresql-injection.html| 
-| 20201201 | Excel 4.0 (XL4) 是如何被恶意攻击者利用实现武器化的 | https://www.virusbulletin.com/blog/2020/11/vb2020-presentation-evolution-excel-40-macro-weaponization/| 
 
 
 # 安全维基 推荐
@@ -47,12 +47,12 @@
 | --- | --- | --- | --- | ---| 
 | 20201203T09:50:58Z | CVE-2020-27950 | CVE-2020-27950 exploit | https://github.com/synacktiv/CVE-2020-27950 | 未查询到CVE信息| 
 | 20201203T05:00:36Z | CVE-2020-23736 | dadajiasu | https://github.com/y5s5k5/CVE-2020-23736 | 未查询到CVE信息| 
-| 20201203T04:51:19Z | CVE-2020-23738 | Advanced SystemCare 13 PRO | https://github.com/y5s5k5/CVE-2020-23738 | | 
+| 20201203T04:51:19Z | CVE-2020-23738 | Advanced SystemCare 13 PRO | https://github.com/y5s5k5/CVE-2020-23738 | 未查询到CVE信息| 
 | 20201203T04:04:26Z | CVE-2020-23741 | AnyView | https://github.com/y5s5k5/CVE-2020-23741 | 未查询到CVE信息| 
 | 20201203T03:57:15Z | CVE-2020-28175 | speedfan | https://github.com/y5s5k5/CVE-2020-28175 | 未查询到CVE信息| 
 | 20201203T03:47:09Z | CVE-2020-23740 | Drive the elves | https://github.com/y5s5k5/CVE-2020-23740 | 未查询到CVE信息| 
 | 20201203T03:14:16Z | CVE-2020-23727 | antiy | https://github.com/y5s5k5/CVE-2020-23727 | 未查询到CVE信息| 
-| 20201203T03:02:56Z | CVE-2020-14957 |  windows cleaning assistant | https://github.com/y5s5k5/CVE-2020-14957 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 06 MINUTES 16 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201203T03:02:56Z | CVE-2020-14957 |  windows cleaning assistant | https://github.com/y5s5k5/CVE-2020-14957 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 02 MINUTES 14 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20201203T03:02:24Z | CVE-2020-23735 | Saibo Cyber Game Accelerator | https://github.com/y5s5k5/CVE-2020-23735 | 未查询到CVE信息| 
 | 20201203T03:00:39Z | CVE-2020-23726 | Wise Care 365 | https://github.com/y5s5k5/CVE-2020-23726 | 未查询到CVE信息| 
 
@@ -110,6 +110,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20201203T13:51:13Z | Null | https://github.com/s9varesc/url-fuzzing-docker | 0 | 0| 
 | 20201203T13:42:41Z | Packer Fuzzer is a fast and efficient scanner for security detection of websites constructed by javascript module bundler such as Webpack.  | https://github.com/rtcatc/Packer-Fuzzer | 465 | 53| 
 | 20201203T13:41:58Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 3249 | 753| 
 | 20201203T13:34:27Z | Fast HTTP enumerator | https://github.com/RedTeamPentesting/monsoon | 212 | 26| 
@@ -119,7 +120,6 @@
 | 20201203T12:48:10Z | FormatFuzzer is a framework for high-efficiency, high-quality generation and parsing of binary inputs. | https://github.com/uds-se/FormatFuzzer | 98 | 7| 
 | 20201203T12:25:41Z | free facebook | https://github.com/asad935/fuzzy-rotary-phone | 1 | 0| 
 | 20201203T12:18:02Z | WIP | https://github.com/fuzzr-net/fuzzr | 1 | 0| 
-| 20201203T11:56:44Z | Null | https://github.com/s9varesc/url-fuzzing-docker | 0 | 0| 
 
 
 
