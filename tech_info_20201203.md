@@ -72,20 +72,24 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20201203T07:30:17Z | Research work on biometric security and template updation .  | https://github.com/Adk2001tech/Biometric-Backdoors | 1 | 0| 
+| 20201203T06:29:36Z | Ghost Framework is an Android post-exploitation framework that exploits the Android Debug Bridge to remotely access an Android device. Ghost Framework gives you the power and convenience of remote Android device administration. | https://github.com/EntySec/ghost | 839 | 423| 
+| 20201203T05:43:00Z | Null | https://github.com/YukiM00/Backdoor-medicalAI | 0 | 0| 
+| 20201203T03:26:03Z | TCP Command Execution | https://github.com/gregl83/comandare | 0 | 0| 
 | 20201203T01:30:39Z | Tool to find potential backdoor/security holes in your endpoint | https://github.com/subasgit/backdoorfinder | 1 | 0| 
 | 20201203T00:28:49Z | Null | https://github.com/OgulcanKacarr/TrBackdoor | 0 | 0| 
-| 20201203T00:09:29Z | Pwning the Nuro issued Huawei HG8045Q | https://github.com/meh301/HG8045Q | 96 | 5| 
+| 20201203T00:09:29Z | Pwning the Nuro issued Huawei HG8045Q | https://github.com/meh301/HG8045Q | 96 | 6| 
 
 
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20201203T13:02:09Z | A fast web fuzzer written in Perl | https://github.com/LvMalware/webfuzzer | 1 | 0| 
 | 20201203T12:56:08Z | This project consists of a simulation of a search-and-rescue environment for discrete path-planning of agents using a Fuzzy Inference System (FIS)-based controller and a Model Predictive Control (MPC)-based controller to optimise FIS parameters. | https://github.com/craigmax-dev/Integrated-Model-Predictive-Fuzzy-Control-for-Disaster-Victim-Detection-Path-Planning-in-MATLAB | 3 | 1| 
 | 20201203T12:49:41Z | Use Fuzz, Gzoltar and sketchFix with simple example  | https://github.com/Biewoom/softwareEngineering2020 | 0 | 0| 
 | 20201203T12:48:10Z | FormatFuzzer is a framework for high-efficiency, high-quality generation and parsing of binary inputs. | https://github.com/uds-se/FormatFuzzer | 98 | 7| 
 | 20201203T12:25:41Z | free facebook | https://github.com/asad935/fuzzy-rotary-phone | 1 | 0| 
 | 20201203T12:18:02Z | WIP | https://github.com/fuzzr-net/fuzzr | 1 | 0| 
-| 20201203T12:11:37Z | A fast web fuzzer written in Perl | https://github.com/LvMalware/webfuzzer | 1 | 0| 
 | 20201203T11:56:44Z | Null | https://github.com/s9varesc/url-fuzzing-docker | 0 | 0| 
 | 20201203T11:49:45Z | Credax -Fastest Fuzzing Tool with Slack Notifications. | https://github.com/notmarshmllow/credax | 0 | 0| 
 | 20201203T11:48:48Z | Null | https://github.com/FDU-Program-Analysis/chunk-fuzzer-pass | 0 | 0| 
