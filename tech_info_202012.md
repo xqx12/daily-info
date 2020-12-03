@@ -47,12 +47,12 @@
 | --- | --- | --- | --- | ---| 
 | 20201203T09:50:58Z | CVE-2020-27950 | CVE-2020-27950 exploit | https://github.com/synacktiv/CVE-2020-27950 | 未查询到CVE信息| 
 | 20201203T05:00:36Z | CVE-2020-23736 | dadajiasu | https://github.com/y5s5k5/CVE-2020-23736 | 未查询到CVE信息| 
-| 20201203T04:51:19Z | CVE-2020-23738 | Advanced SystemCare 13 PRO | https://github.com/y5s5k5/CVE-2020-23738 | | 
+| 20201203T04:51:19Z | CVE-2020-23738 | Advanced SystemCare 13 PRO | https://github.com/y5s5k5/CVE-2020-23738 | 未查询到CVE信息| 
 | 20201203T04:04:26Z | CVE-2020-23741 | AnyView | https://github.com/y5s5k5/CVE-2020-23741 | 未查询到CVE信息| 
 | 20201203T03:57:15Z | CVE-2020-28175 | speedfan | https://github.com/y5s5k5/CVE-2020-28175 | 未查询到CVE信息| 
-| 20201203T03:47:09Z | CVE-2020-23740 | Drive the elves | https://github.com/y5s5k5/CVE-2020-23740 | 未查询到CVE信息| 
-| 20201203T03:14:16Z | CVE-2020-23727 | antiy | https://github.com/y5s5k5/CVE-2020-23727 | | 
-| 20201203T03:02:56Z | CVE-2020-14957 |  windows cleaning assistant | https://github.com/y5s5k5/CVE-2020-14957 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 13 MINUTES 23 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201203T03:47:09Z | CVE-2020-23740 | Drive the elves | https://github.com/y5s5k5/CVE-2020-23740 | | 
+| 20201203T03:14:16Z | CVE-2020-23727 | antiy | https://github.com/y5s5k5/CVE-2020-23727 | 未查询到CVE信息| 
+| 20201203T03:02:56Z | CVE-2020-14957 |  windows cleaning assistant | https://github.com/y5s5k5/CVE-2020-14957 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 10 MINUTES 22 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20201203T03:02:24Z | CVE-2020-23735 | Saibo Cyber Game Accelerator | https://github.com/y5s5k5/CVE-2020-23735 | 未查询到CVE信息| 
 | 20201203T03:00:39Z | CVE-2020-23726 | Wise Care 365 | https://github.com/y5s5k5/CVE-2020-23726 | 未查询到CVE信息| 
 
@@ -80,7 +80,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20201203T13:44:40Z | Real-time security watching program that alerts you to the latest vulnerabilities and cyber threats and improves vulnerability management for specified product list via a Web UI. | https://github.com/Guezone/VESEC | 19 | 0| 
+| 20201203T13:49:08Z | Real-time security watching program that alerts you to the latest vulnerabilities and cyber threats and improves vulnerability management for specified product list via a Web UI. | https://github.com/Guezone/VESEC | 20 | 0| 
 | 20201203T13:26:13Z | Null | https://github.com/th3ken-dev/TH3KEN-EDITON | 2 | 0| 
 | 20201203T13:17:24Z | Null | https://github.com/ColdFusionX/ColdFusionX.github.io | 2 | 2| 
 | 20201203T12:59:56Z | This bash script will help you to hack remote hosts  | https://github.com/FabioDefilippo/linuxallremote | 1 | 0| 
