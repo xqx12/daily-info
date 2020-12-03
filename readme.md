@@ -35,7 +35,7 @@
 | 20201203T03:57:15Z | CVE-2020-28175 | speedfan | https://github.com/y5s5k5/CVE-2020-28175 | 未查询到CVE信息| 
 | 20201203T03:47:09Z | CVE-2020-23740 | Drive the elves | https://github.com/y5s5k5/CVE-2020-23740 | 未查询到CVE信息| 
 | 20201203T03:14:16Z | CVE-2020-23727 | antiy | https://github.com/y5s5k5/CVE-2020-23727 | 未查询到CVE信息| 
-| 20201203T03:02:56Z | CVE-2020-14957 |  windows cleaning assistant | https://github.com/y5s5k5/CVE-2020-14957 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 58 MINUTES 33 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201203T03:02:56Z | CVE-2020-14957 |  windows cleaning assistant | https://github.com/y5s5k5/CVE-2020-14957 | | 
 | 20201203T03:02:24Z | CVE-2020-23735 | Saibo Cyber Game Accelerator | https://github.com/y5s5k5/CVE-2020-23735 | 未查询到CVE信息| 
 | 20201203T03:00:39Z | CVE-2020-23726 | Wise Care 365 | https://github.com/y5s5k5/CVE-2020-23726 | 未查询到CVE信息| 
 
