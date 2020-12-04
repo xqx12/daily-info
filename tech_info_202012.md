@@ -16,6 +16,8 @@
 | 20201203 | IOT Exploitation Ghidra Scripts | https://github.com/tacnetsol/ghidra_scripts| 
 | 20201203 | 越南国家背景的 OceanLotus APT 组织利用恶意软件攻击 macOS 平台用户 | https://www.hackread.com/oceanlotus-hackers-macos-users-malware/| 
 | 20201203 | 以红团队安全测试角度机器学习攻击系列：概述 | https://embracethered.com/blog/posts/2020/machine-learning-attack-series-overview/| 
+| 20201203 | Android应用程序框架：新手指南手册。 | https://www.hackingarticles.in/android-application-framework-beginners-guide/| 
+| 20201203 | Apktool v2.5.0版本发布。 | https://connortumbleson.com/2020/12/02/apktool-v2-5-0-released/| 
 | 20201202 | NFStream - 一款可扩展的网络数据分析框架 | https://github.com/nfstream/nfstream| 
 | 20201202 | r0capture - 安卓应用层抓包通杀脚本 | https://github.com/r0ysue/r0capture| 
 | 20201202 | Cisco Talos 对 Xanthe 恶意软件的分析 | https://blogs.cisco.com/security/talos/xanthe-docker-aware-miner| 
@@ -24,8 +26,6 @@
 | 20201202 | Linux kernel heap quarantine versus use-after-free exploits | http://blog.ptsecurity.com/2020/12/linux-kernel-heap-quarantine-versus-use.html| 
 | 20201202 | 基于 sysdiagnose 工具收集的系统各类监控诊断信息进行入侵检测 | https://labs.f-secure.com/blog/sysdiag-who/| 
 | 20201202 | 探索恶意软件以绕过DNA筛选并导致“生物黑客”攻击威胁。 | https://securityaffairs.co/wordpress/111681/hacking/biohacking-attacks-dna-screening.html?utm_source=feedly&utm_medium=rss&utm_campaign=biohacking-attacks-dna-screening| 
-| 20201201 | macOS GravityRAT 恶意软件变种的分析 | https://objective-see.com/blog/blog_0x5C.html| 
-| 20201201 | Exploiting blind PostgreSQL injection and exfiltrating data in psycopg2 | https://www.shawarkhan.com/2020/11/exploiting-blind-postgresql-injection.html| 
 
 
 # 安全维基 推荐
@@ -46,27 +46,29 @@
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
 | 20201203T09:50:58Z | CVE-2020-27950 | CVE-2020-27950 exploit | https://github.com/synacktiv/CVE-2020-27950 | 未查询到CVE信息| 
-| 20201203T05:00:36Z | CVE-2020-23736 | dadajiasu | https://github.com/y5s5k5/CVE-2020-23736 | 未查询到CVE信息| 
-| 20201203T04:51:19Z | CVE-2020-23738 | Advanced SystemCare 13 PRO | https://github.com/y5s5k5/CVE-2020-23738 | 未查询到CVE信息| 
-| 20201203T04:04:26Z | CVE-2020-23741 | AnyView | https://github.com/y5s5k5/CVE-2020-23741 | 未查询到CVE信息| 
-| 20201203T03:57:15Z | CVE-2020-28175 | speedfan | https://github.com/y5s5k5/CVE-2020-28175 | 未查询到CVE信息| 
-| 20201203T03:47:09Z | CVE-2020-23740 | Drive the elves | https://github.com/y5s5k5/CVE-2020-23740 | 未查询到CVE信息| 
-| 20201203T03:14:16Z | CVE-2020-23727 | antiy | https://github.com/y5s5k5/CVE-2020-23727 | 未查询到CVE信息| 
-| 20201203T03:02:56Z | CVE-2020-14957 |  windows cleaning assistant | https://github.com/y5s5k5/CVE-2020-14957 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 00 MINUTES 19 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20201203T03:02:24Z | CVE-2020-23735 | Saibo Cyber Game Accelerator | https://github.com/y5s5k5/CVE-2020-23735 | | 
-| 20201203T03:00:39Z | CVE-2020-23726 | Wise Care 365 | https://github.com/y5s5k5/CVE-2020-23726 | 未查询到CVE信息| 
+| 20201203T05:00:36Z | CVE-2020-23736 | dadajiasu | https://github.com/y5s5k5/CVE-2020-23736 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 15 MINUTES 22 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201203T04:51:19Z | CVE-2020-23738 | Advanced SystemCare 13 PRO | https://github.com/y5s5k5/CVE-2020-23738 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 15 MINUTES 23 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201203T04:04:26Z | CVE-2020-23741 | AnyView | https://github.com/y5s5k5/CVE-2020-23741 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 15 MINUTES 25 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201203T03:57:15Z | CVE-2020-28175 | speedfan | https://github.com/y5s5k5/CVE-2020-28175 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 15 MINUTES 28 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201203T03:47:09Z | CVE-2020-23740 | Drive the elves | https://github.com/y5s5k5/CVE-2020-23740 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 15 MINUTES 24 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201203T03:14:16Z | CVE-2020-23727 | antiy | https://github.com/y5s5k5/CVE-2020-23727 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 15 MINUTES 21 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201203T03:02:56Z | CVE-2020-14957 |  windows cleaning assistant | https://github.com/y5s5k5/CVE-2020-14957 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 15 MINUTES 19 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201203T03:02:24Z | CVE-2020-23735 | Saibo Cyber Game Accelerator | https://github.com/y5s5k5/CVE-2020-23735 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 15 MINUTES 22 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201203T03:00:39Z | CVE-2020-23726 | Wise Care 365 | https://github.com/y5s5k5/CVE-2020-23726 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 15 MINUTES 20 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20201204T00:18:35Z | Urban Evidence Based Policy (SPPA667) | https://github.com/KLeeDE/PUS2020_KLee | 0 | 1| 
+| 20201203T18:26:40Z | Home page_Portfolio_Resume | https://github.com/DevNeoLee/JustinKLee | 0 | 0| 
+| 20201203T17:15:22Z | ⬇️ File Upload/sharing application, used by thousands of webmasters since 2007.  | https://github.com/kleeja-official/kleeja | 104 | 31| 
+| 20201203T15:28:24Z | Symbiotic is a tool for finding bugs in computer programs based on instrumentation, program slicing and KLEE | https://github.com/staticafi/symbiotic | 208 | 33| 
+| 20201203T14:00:03Z | RVT is a collection of tools/libraries to support both static and dynamic verification of Rust programs. | https://github.com/project-oak/rust-verification-tools | 98 | 5| 
 | 20201203T13:46:14Z | Website for the KLEE project: https://klee.github.io/ | https://github.com/klee/klee.github.io | 13 | 42| 
-| 20201203T13:45:11Z | RVT is a collection of tools/libraries to support both static and dynamic verification of Rust programs. | https://github.com/project-oak/rust-verification-tools | 98 | 5| 
-| 20201203T12:15:27Z | Symbiotic is a tool for finding bugs in computer programs based on instrumentation, program slicing and KLEE | https://github.com/staticafi/symbiotic | 207 | 33| 
 | 20201203T12:09:18Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1559 | 472| 
 | 20201203T09:57:12Z | One place for all of my workshops | https://github.com/kleenxcoder/kleenxcoder-workshops | 0 | 0| 
 | 20201201T18:49:24Z | Null | https://github.com/KleeZz/KleeZz-bot | 0 | 0| 
-| 20201201T17:07:12Z | Urban Evidence Based Policy (SPPA667) | https://github.com/KLeeDE/PUS2020_KLee | 0 | 1| 
 | 20201201T06:03:56Z | Null | https://github.com/KleeZz/KleeZz-bots | 0 | 0| 
 
 
@@ -80,46 +82,46 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20201203T13:52:23Z | Null | https://github.com/summershrimp/exploits-open | 0 | 0| 
-| 20201203T13:49:08Z | Real-time security watching program that alerts you to the latest vulnerabilities and cyber threats and improves vulnerability management for specified product list via a Web UI. | https://github.com/Guezone/VESEC | 20 | 0| 
-| 20201203T13:26:13Z | Null | https://github.com/th3ken-dev/TH3KEN-EDITON | 2 | 0| 
-| 20201203T13:17:24Z | Null | https://github.com/ColdFusionX/ColdFusionX.github.io | 2 | 2| 
-| 20201203T12:59:56Z | This bash script will help you to hack remote hosts  | https://github.com/FabioDefilippo/linuxallremote | 1 | 0| 
-| 20201203T12:49:13Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 6 | 4| 
-| 20201203T12:16:25Z | Vulnerabilities of Goby supported with exploitation. | https://github.com/gobysec/GobyVuls | 59 | 12| 
-| 20201203T11:35:13Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 8697 | 1368| 
-| 20201203T11:34:39Z | Just a temporary website to post my ctf writeups and journey into binary exploitation/malware analysis/exploit development | https://github.com/blackbeard666/blackbeard666.github.io | 0 | 0| 
-| 20201203T11:33:34Z | Null | https://github.com/archsploit/packages-exploitation | 0 | 0| 
+| 20201204T02:40:12Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 8699 | 1368| 
+| 20201204T02:15:57Z | Sample scripts to simulate attacks part of the Stealthwatch dCloud lab | https://github.com/sw-dcloud-lab/lab-exploit-kit | 0 | 0| 
+| 20201204T02:08:02Z | Null | https://github.com/Manoj983/protostar_exploits | 0 | 0| 
+| 20201204T01:55:02Z | Vulnerabilities of Goby supported with exploitation. | https://github.com/gobysec/GobyVuls | 59 | 12| 
+| 20201204T01:36:57Z | exploit-database-papers | https://github.com/offensive-security/exploitdb-papers | 266 | 36| 
+| 20201204T01:19:00Z | A high performance FortiGate SSL-VPN vulnerability scanning and exploitation tool. | https://github.com/anasbousselham/fortiscan | 66 | 16| 
+| 20201204T00:52:52Z | Using PyRaider You can scan installed dependencies known security vulnerabilities. It uses publicly known exploits, vulnerabilities database. | https://github.com/raidersource/pyraider | 3 | 0| 
+| 20201204T00:49:14Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 6 | 4| 
+| 20201203T23:51:07Z | A set of environments which can be used to show how Reinforcement Learning algorithms address the exploration-exploitation dilemma. | https://github.com/erfanMhi/gym-exploration | 1 | 0| 
+| 20201203T22:57:22Z | RocketLauncher exploit for Nintendo DSi (Obsolete. Please use Unlaunch instead) | https://github.com/ApacheThunder/RocketLauncher | 2 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20201203T13:43:31Z | FUD cross-platform python2 backdoor with C2 | https://github.com/7h3w4lk3r/pyback | 12 | 5| 
-| 20201203T13:35:02Z | Ghost Framework is an Android post-exploitation framework that exploits the Android Debug Bridge to remotely access an Android device. Ghost Framework gives you the power and convenience of remote Android device administration. | https://github.com/EntySec/ghost | 840 | 423| 
+| 20201204T00:40:55Z | TCP Command Execution | https://github.com/gregl83/comandare | 0 | 0| 
+| 20201204T00:21:30Z | Null | https://github.com/donmoham/backdoor | 0 | 0| 
+| 20201203T22:24:35Z | Null | https://github.com/wcenatus/node-backdoor | 0 | 0| 
+| 20201203T21:35:41Z | Ghost Framework is an Android post-exploitation framework that exploits the Android Debug Bridge to remotely access an Android device. Ghost Framework gives you the power and convenience of remote Android device administration. | https://github.com/EntySec/ghost | 840 | 423| 
+| 20201203T19:36:22Z | This module uses the Metasploit framework built into Kali Linux to create a backdoor | https://github.com/anonymousproo/CyberForce | 3 | 1| 
+| 20201203T18:20:56Z | Null | https://github.com/BackDoor-TR/backdoorddos | 0 | 0| 
+| 20201203T16:02:50Z | PCI Express DIY hacking toolkit for Xilinx SP605 | https://github.com/Cr4sh/s6_pcie_microblaze | 292 | 75| 
+| 20201203T14:39:12Z | FUD cross-platform python2 backdoor with C2 | https://github.com/7h3w4lk3r/pyback | 12 | 5| 
 | 20201203T07:30:17Z | Research work on biometric security and template updation .  | https://github.com/Adk2001tech/Biometric-Backdoors | 1 | 0| 
 | 20201203T05:43:00Z | Null | https://github.com/YukiM00/Backdoor-medicalAI | 0 | 0| 
-| 20201203T03:26:03Z | TCP Command Execution | https://github.com/gregl83/comandare | 0 | 0| 
-| 20201203T01:30:39Z | Tool to find potential backdoor/security holes in your endpoint | https://github.com/subasgit/backdoorfinder | 1 | 0| 
-| 20201203T00:28:49Z | Null | https://github.com/OgulcanKacarr/TrBackdoor | 0 | 0| 
-| 20201203T00:09:29Z | Pwning the Nuro issued Huawei HG8045Q | https://github.com/meh301/HG8045Q | 96 | 6| 
-| 20201202T23:01:07Z | Stealthy C++ based Windows backdoor | https://github.com/whichbuffer/ReverseShell | 2 | 1| 
-| 20201202T22:26:20Z | Null | https://github.com/wcenatus/node-backdoor | 0 | 0| 
 
 
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20201203T13:59:28Z | Fast HTTP enumerator | https://github.com/RedTeamPentesting/monsoon | 213 | 26| 
-| 20201203T13:59:22Z | Null | https://github.com/Software-Analysis-Team/UnitTestFuzzerCPP | 0 | 0| 
-| 20201203T13:51:13Z | Null | https://github.com/s9varesc/url-fuzzing-docker | 0 | 0| 
-| 20201203T13:42:41Z | Packer Fuzzer is a fast and efficient scanner for security detection of websites constructed by javascript module bundler such as Webpack.  | https://github.com/rtcatc/Packer-Fuzzer | 465 | 53| 
-| 20201203T13:41:58Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 3249 | 753| 
-| 20201203T13:02:09Z | A fast web fuzzer written in Perl | https://github.com/LvMalware/webfuzzer | 1 | 0| 
-| 20201203T12:56:08Z | This project consists of a simulation of a search-and-rescue environment for discrete path-planning of agents using a Fuzzy Inference System (FIS)-based controller and a Model Predictive Control (MPC)-based controller to optimise FIS parameters. | https://github.com/craigmax-dev/Integrated-Model-Predictive-Fuzzy-Control-for-Disaster-Victim-Detection-Path-Planning-in-MATLAB | 3 | 1| 
-| 20201203T12:49:41Z | Use Fuzz, Gzoltar and sketchFix with simple example  | https://github.com/Biewoom/softwareEngineering2020 | 0 | 0| 
-| 20201203T12:48:10Z | FormatFuzzer is a framework for high-efficiency, high-quality generation and parsing of binary inputs. | https://github.com/uds-se/FormatFuzzer | 98 | 7| 
-| 20201203T12:25:41Z | free facebook | https://github.com/asad935/fuzzy-rotary-phone | 1 | 0| 
+| 20201204T02:34:06Z | HTTP fuzzer engine security oriented | https://github.com/NozakiLabs/nozaki | 23 | 6| 
+| 20201204T02:32:34Z | HTTP fuzzer engine security oriented | https://github.com/htrgouvea/nozaki | 23 | 6| 
+| 20201204T02:07:45Z | gitmoji selector on fzf | https://github.com/ShotaroKataoka/Fuzzy-Git-Operator | 2 | 0| 
+| 20201204T02:06:31Z | The forum application with automatic fuzzy generator of new topics | https://github.com/Luvkitri/fuzzy-forum-backend | 0 | 0| 
+| 20201204T02:01:52Z | The forum application with automatic fuzzy generator of new topics | https://github.com/Luvkitri/fuzzy-forum-frontend | 0 | 0| 
+| 20201204T01:56:00Z | Experimental projects | https://github.com/tannmatter/fuzzy-happiness | 0 | 0| 
+| 20201204T01:27:11Z | Dataset of all versions of binutils, for fuzzing practice. | https://github.com/pwncollege/all-binutils | 0 | 0| 
+| 20201204T01:20:30Z | RESTler is the first stateful REST API fuzzing tool for automatically testing cloud services through their REST APIs and finding security and reliability bugs in these services. | https://github.com/microsoft/restler-fuzzer | 216 | 20| 
+| 20201204T00:56:26Z | Small usage tests for snapshot fuzzing implementations | https://github.com/ctfhacker/hypervisor_tests | 1 | 0| 
+| 20201204T00:28:25Z | FuzzBench - Fuzzer benchmarking as a service. | https://github.com/google/fuzzbench | 557 | 88| 
 
 
 
