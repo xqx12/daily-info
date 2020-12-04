@@ -49,6 +49,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20201204T13:39:55Z | A proxy aware C2 framework used to aid red teamers with post-exploitation and lateral movement. | https://github.com/nettitude/PoshC2 | 626 | 158| 
+| 20201204T13:34:09Z | A collection of more than 140+ tools, scripts, cheatsheets and other loots that I have developed over years for Red Teaming/Pentesting/IT Security audits purposes. Most of them came handy on at least one of my real-world engagements. | https://github.com/mgeeky/Penetration-Testing-Tools | 515 | 140| 
 | 20201204T12:49:13Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 6 | 4| 
 | 20201204T12:48:16Z | Using PyRaider You can scan installed dependencies known security vulnerabilities. It uses publicly known exploits, vulnerabilities database. | https://github.com/raidersource/pyraider | 3 | 0| 
 | 20201204T12:21:00Z | Sample scripts to simulate attacks part of the Stealthwatch dCloud lab | https://github.com/sw-dcloud-lab/lab-exploit-kit | 0 | 0| 
@@ -57,8 +59,6 @@
 | 20201204T12:03:57Z | A Django based web application. The site is based on food delivery services and uses Django version 3.1 to implement the backend while HTML, CSS, Bootstrap 4 and JavaScript are used for the frontend. Nothing too over the top, just a basic implementation of the Web Framework to demonstrate the exploitation of its features. | https://github.com/Sparshbatta/Django_FoodApp | 0 | 0| 
 | 20201204T11:51:25Z | Exploiting constant trace property in large-scale polynomial optimization | https://github.com/maihoanganh/ctpPOP2 | 0 | 0| 
 | 20201204T11:35:12Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 8700 | 1369| 
-| 20201204T11:26:47Z | My attempt at classifying malicious network traffic from the infamous eternal blue exploit | https://github.com/ZachE888/eternal-blue-traffic-classifier | 0 | 0| 
-| 20201204T11:17:12Z | PwnXSS: Vulnerability (XSS) scanner exploit | https://github.com/pwn0sec/PwnXSS | 190 | 49| 
 
 
 # backdoor on Github 推荐
@@ -76,6 +76,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20201204T13:42:05Z | Collection of HTTP scanners and fuzzers. | https://github.com/buffermet/bug-bounty-tools | 9 | 1| 
 | 20201204T13:25:25Z | This project consists of a simulation of a search-and-rescue environment for discrete path-planning of agents using a Fuzzy Inference System (FIS)-based controller and a Model Predictive Control (MPC)-based controller to optimise FIS parameters. | https://github.com/craigmax-dev/Integrated-Model-Predictive-Fuzzy-Control-for-Disaster-Victim-Detection-Path-Planning-in-MATLAB | 3 | 1| 
 | 20201204T13:19:40Z | OSS-Fuzz - continuous fuzzing of open source software. | https://github.com/google/oss-fuzz | 5696 | 1128| 
 | 20201204T13:12:39Z | Recent Fuzzing Paper | https://github.com/wcventure/FuzzingPaper | 651 | 109| 
@@ -85,7 +86,6 @@
 | 20201204T12:15:57Z | Packer Fuzzer is a fast and efficient scanner for security detection of websites constructed by javascript module bundler such as Webpack.  | https://github.com/rtcatc/Packer-Fuzzer | 478 | 53| 
 | 20201204T12:07:17Z | Null | https://github.com/CharlyWargnier/fuzzy-matching-app | 0 | 0| 
 | 20201204T12:05:23Z | A Python implementation of the fuzzy c means algorithm | https://github.com/benbenti/fuzzyclustering | 0 | 0| 
-| 20201204T10:49:03Z | Drone Research Fuzzing Integration Tool | https://github.com/DREAMS-lab/DRIFT | 0 | 0| 
 
 
 
