@@ -75,6 +75,8 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20201204T13:19:40Z | OSS-Fuzz - continuous fuzzing of open source software. | https://github.com/google/oss-fuzz | 5696 | 1128| 
+| 20201204T13:12:39Z | Recent Fuzzing Paper | https://github.com/wcventure/FuzzingPaper | 651 | 109| 
 | 20201204T12:58:32Z | Fuzzy and hard clustering comparison | https://github.com/Nandreasyan/fuzzyclustering | 0 | 0| 
 | 20201204T12:41:36Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 3249 | 753| 
 | 20201204T12:19:28Z | Null | https://github.com/fuzzy-set/fuzzy-set.github.io | 0 | 0| 
@@ -83,8 +85,6 @@
 | 20201204T12:05:23Z | A Python implementation of the fuzzy c means algorithm | https://github.com/benbenti/fuzzyclustering | 0 | 0| 
 | 20201204T10:49:03Z | Drone Research Fuzzing Integration Tool | https://github.com/DREAMS-lab/DRIFT | 0 | 0| 
 | 20201204T10:29:08Z | Null | https://github.com/aswinganji/fuzzy-octo-carnival | 0 | 0| 
-| 20201204T10:22:47Z | Null | https://github.com/s9varesc/url-fuzzing-docker | 0 | 0| 
-| 20201204T10:09:27Z | Simple web input/cookie/url fuzzer written in python. | https://github.com/iwakura1ain/Fuzzit-Web-Scanner | 0 | 0| 
 
 
 
