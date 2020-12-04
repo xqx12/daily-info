@@ -75,6 +75,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20201204T13:25:25Z | This project consists of a simulation of a search-and-rescue environment for discrete path-planning of agents using a Fuzzy Inference System (FIS)-based controller and a Model Predictive Control (MPC)-based controller to optimise FIS parameters. | https://github.com/craigmax-dev/Integrated-Model-Predictive-Fuzzy-Control-for-Disaster-Victim-Detection-Path-Planning-in-MATLAB | 3 | 1| 
 | 20201204T13:19:40Z | OSS-Fuzz - continuous fuzzing of open source software. | https://github.com/google/oss-fuzz | 5696 | 1128| 
 | 20201204T13:12:39Z | Recent Fuzzing Paper | https://github.com/wcventure/FuzzingPaper | 651 | 109| 
 | 20201204T12:58:32Z | Fuzzy and hard clustering comparison | https://github.com/Nandreasyan/fuzzyclustering | 0 | 0| 
@@ -84,7 +85,6 @@
 | 20201204T12:07:17Z | Null | https://github.com/CharlyWargnier/fuzzy-matching-app | 0 | 0| 
 | 20201204T12:05:23Z | A Python implementation of the fuzzy c means algorithm | https://github.com/benbenti/fuzzyclustering | 0 | 0| 
 | 20201204T10:49:03Z | Drone Research Fuzzing Integration Tool | https://github.com/DREAMS-lab/DRIFT | 0 | 0| 
-| 20201204T10:29:08Z | Null | https://github.com/aswinganji/fuzzy-octo-carnival | 0 | 0| 
 
 
 
