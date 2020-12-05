@@ -34,10 +34,10 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20201204T22:02:08Z | CVE-2020-25265 | Null | https://github.com/refi64/CVE-2020-25265-25266 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 33 MINUTES 55 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20201204T21:08:46Z | CVE-2020-1472 | The following is the outcome of playing with CVE-2020-1472 and attempting to automate the process of gaining a shell on the DC | https://github.com/JayP232/The_big_Zero | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 33 MINUTES 59 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20201204T18:06:19Z | CVE-2020-12695 | Zeek Plugin that detects CallStranger (CVE-2020-12695) attempts (http://callstranger.com/) | https://github.com/corelight/callstranger-detector | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 33 MINUTES 54 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20201204T14:31:47Z | CVE-2020-2551 | weblogic 漏洞扫描工具。目前包含对以下漏洞的检测能力：CVE-2014-4210、CVE-2016-0638、CVE-2016-3510、CVE-2017-3248、CVE-2017-3506、CVE-2017-10271、CVE-2018-2628、CVE-2018-2893、CVE-2018-2894、CVE-2018-3191、CVE-2018-3245、CVE-2018-3252、CVE-2019-2618、CVE-2019-2725、CVE-2019-2729、CVE-2019-2890、CVE-2020-2551、CVE-2020-14882、CVE-2020-14883 | https://github.com/0xn0ne/weblogicScanner | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
+| 20201204T22:02:08Z | CVE-2020-25265 | Null | https://github.com/refi64/CVE-2020-25265-25266 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 15 MINUTES 00 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201204T21:08:46Z | CVE-2020-1472 | The following is the outcome of playing with CVE-2020-1472 and attempting to automate the process of gaining a shell on the DC | https://github.com/JayP232/The_big_Zero | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 15 MINUTES 04 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201204T18:06:19Z | CVE-2020-12695 | Zeek Plugin that detects CallStranger (CVE-2020-12695) attempts (http://callstranger.com/) | https://github.com/corelight/callstranger-detector | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 14 MINUTES 59 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201204T14:31:47Z | CVE-2020-2551 | weblogic 漏洞扫描工具。目前包含对以下漏洞的检测能力：CVE-2014-4210、CVE-2016-0638、CVE-2016-3510、CVE-2017-3248、CVE-2017-3506、CVE-2017-10271、CVE-2018-2628、CVE-2018-2893、CVE-2018-2894、CVE-2018-3191、CVE-2018-3245、CVE-2018-3252、CVE-2019-2618、CVE-2019-2725、CVE-2019-2729、CVE-2019-2890、CVE-2020-2551、CVE-2020-14882、CVE-2020-14883 | https://github.com/0xn0ne/weblogicScanner | | 
 | 20201204T10:31:23Z | CVE-2020-14882 | Vulmap - Web漏洞扫描和验证工具，可对Web容器、Web服务器、Web中间件以及CMS等Web程序进行漏洞扫描，并且具备漏洞利用功能。 相关测试人员可以使用vulmap检测目标是否存在特定漏洞，并且可以使用漏洞利用功能验证漏洞是否真实存在。CVE-2020-14882, CVE-2020-2555, CVE-2020-2883 | https://github.com/zhzyker/vulmap | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
 
 
@@ -92,12 +92,12 @@
 | 20201204T23:20:57Z | Structured Kernel Ioctl Driver Fuzzer | https://github.com/luke-goddard/skid | 0 | 0| 
 | 20201204T23:07:42Z | Null | https://github.com/Sentinel-One/efi_fuzz | 58 | 6| 
 | 20201204T23:05:09Z | Repository holding database dumps from getfursu.it | https://github.com/veelkoov/fuzzrake-data | 0 | 0| 
-| 20201204T22:59:56Z | Null | https://github.com/destoer/vtf_fuzzer | 0 | 0| 
 | 20201204T22:52:25Z | RESTler is the first stateful REST API fuzzing tool for automatically testing cloud services through their REST APIs and finding security and reliability bugs in these services. | https://github.com/microsoft/restler-fuzzer | 221 | 20| 
 | 20201204T22:36:02Z | 🔎 Fuzzy search EC2 instances to SSH into them | https://github.com/DavidWittman/ec2-fuzzy | 0 | 0| 
 | 20201204T22:10:46Z | 🤖 Repeat tests. Repeat tests. Repeat tests. | https://github.com/ehmicky/test-each | 91 | 2| 
 | 20201204T22:09:48Z | Simple script to control drugstore warehouse using an expert system based on fuzzy rules | https://github.com/wildonion/fuzzy-drug-store | 0 | 0| 
 | 20201204T22:02:19Z | Collected fuzzing payloads from different resources  | https://github.com/osamahamad/FUZZING | 6 | 3| 
+| 20201204T21:00:50Z | A differential fuzzer for x86 decoders | https://github.com/trailofbits/mishegos | 123 | 17| 
 
 
 
