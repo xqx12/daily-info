@@ -26,17 +26,25 @@
 | 20201204 | MITRE ATT&CK基本概念 | https://mp.weixin.qq.com/s/yOJNWazCeGKKMR8titj3cg| 
 | 20201204 | 针对AWS Lambda的运行时攻击 | https://mp.weixin.qq.com/s/duF1Z0EDC3n_G378Aq_XYA| 
 | 20201204 | APT annual review: What the worlds threat actors got up t... | https://securelist.com/apt-annual-review-what-the-worlds-threat-actors-got-up-to-in-2020/99574/| 
+| 20201204 | 玩转graphQL | https://mp.weixin.qq.com/s/gp2jGrLPllsh5xn7vn9BwQ| 
+| 20201204 | 内网技巧-RDP劫持及利用hash登录 | https://xz.aliyun.com/t/8574| 
+| 20201204 | As-Exploits: 中国蚁剑后渗透框架 | https://xz.aliyun.com/t/8591| 
 
 
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20201204T22:02:08Z | CVE-2020-25265 | Null | https://github.com/refi64/CVE-2020-25265-25266 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 58 MINUTES 46 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201204T21:08:46Z | CVE-2020-1472 | The following is the outcome of playing with CVE-2020-1472 and attempting to automate the process of gaining a shell on the DC | https://github.com/JayP232/The_big_Zero | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 58 MINUTES 50 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201204T18:06:19Z | CVE-2020-12695 | Zeek Plugin that detects CallStranger (CVE-2020-12695) attempts (http://callstranger.com/) | https://github.com/corelight/callstranger-detector | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 58 MINUTES 45 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201204T14:31:47Z | CVE-2020-2551 | weblogic 漏洞扫描工具。目前包含对以下漏洞的检测能力：CVE-2014-4210、CVE-2016-0638、CVE-2016-3510、CVE-2017-3248、CVE-2017-3506、CVE-2017-10271、CVE-2018-2628、CVE-2018-2893、CVE-2018-2894、CVE-2018-3191、CVE-2018-3245、CVE-2018-3252、CVE-2019-2618、CVE-2019-2725、CVE-2019-2729、CVE-2019-2890、CVE-2020-2551、CVE-2020-14882、CVE-2020-14883 | https://github.com/0xn0ne/weblogicScanner | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
 | 20201204T10:31:23Z | CVE-2020-14882 | Vulmap - Web漏洞扫描和验证工具，可对Web容器、Web服务器、Web中间件以及CMS等Web程序进行漏洞扫描，并且具备漏洞利用功能。 相关测试人员可以使用vulmap检测目标是否存在特定漏洞，并且可以使用漏洞利用功能验证漏洞是否真实存在。CVE-2020-14882, CVE-2020-2555, CVE-2020-2883 | https://github.com/zhzyker/vulmap | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20201204T21:06:02Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1559 | 474| 
 | 20201204T10:22:04Z | One place for all of my workshops | https://github.com/kleenxcoder/kleenxcoder-workshops | 0 | 0| 
 | 20201204T00:18:35Z | Urban Evidence Based Policy (SPPA667) | https://github.com/KLeeDE/PUS2020_KLee | 0 | 1| 
 
@@ -44,6 +52,7 @@
 # s2e on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20201204T19:44:50Z | Your S2E project management tools. Visit https://s2e.systems/docs to get started. | https://github.com/S2E/s2e-env | 71 | 30| 
 
 
 # exploit on Github 推荐
@@ -64,28 +73,31 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20201204T22:31:46Z | Null | https://github.com/wcenatus/node-backdoor | 0 | 0| 
+| 20201204T22:18:57Z | A fully undetected, hidden, persistent, reverse netcat shell backdoor for Windows. | https://github.com/RAF-87/win-back-cat | 4 | 1| 
+| 20201204T21:18:53Z | A sample app to demonstrate how to create Xamarin UITests using the Page Object architecture, Backdoor Methods and App Links (aka Deep Linking) | https://github.com/brminnick/UITestSampleApp | 30 | 25| 
+| 20201204T18:15:10Z | Basic backdoor metamorphic  | https://github.com/Bryl33t/metamorphicore | 0 | 0| 
+| 20201204T17:55:22Z | Null | https://github.com/YukiM00/Backdoor-medicalAI | 0 | 0| 
+| 20201204T17:13:22Z | TCP Command Execution | https://github.com/gregl83/comandare | 0 | 0| 
 | 20201204T13:30:14Z | Basic metamorphic backdoor | https://github.com/Bryl33t/morphicore | 0 | 0| 
-| 20201204T11:09:22Z | A fully undetected, hidden, persistent, reverse netcat shell backdoor for Windows. | https://github.com/RAF-87/win-back-cat | 1 | 0| 
 | 20201204T09:43:44Z | Hides the sethc.exe backdoor by faking the original window. | https://github.com/PGgamer2/sethc-backdoor-hider | 1 | 2| 
 | 20201204T05:37:24Z | A repository that includes the python implementation and the paper%s review of some adversarial attacks. | https://github.com/henrychacon/Backdoor_attacks | 0 | 0| 
 | 20201204T05:37:16Z | Worlds simplest PHP backdoor | https://github.com/F-Masood/php-backdoor | 0 | 0| 
-| 20201204T00:40:55Z | TCP Command Execution | https://github.com/gregl83/comandare | 0 | 0| 
-| 20201204T00:21:30Z | Null | https://github.com/donmoham/backdoor | 0 | 0| 
 
 
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20201204T13:55:46Z | Null | https://github.com/MoSalah90/fuzzy-computing-machine | 0 | 0| 
-| 20201204T13:52:46Z | Packer Fuzzer is a fast and efficient scanner for security detection of websites constructed by javascript module bundler such as Webpack.  | https://github.com/rtcatc/Packer-Fuzzer | 479 | 53| 
-| 20201204T13:42:05Z | Collection of HTTP scanners and fuzzers. | https://github.com/buffermet/bug-bounty-tools | 9 | 1| 
-| 20201204T13:25:25Z | This project consists of a simulation of a search-and-rescue environment for discrete path-planning of agents using a Fuzzy Inference System (FIS)-based controller and a Model Predictive Control (MPC)-based controller to optimise FIS parameters. | https://github.com/craigmax-dev/Integrated-Model-Predictive-Fuzzy-Control-for-Disaster-Victim-Detection-Path-Planning-in-MATLAB | 3 | 1| 
-| 20201204T13:19:40Z | OSS-Fuzz - continuous fuzzing of open source software. | https://github.com/google/oss-fuzz | 5696 | 1128| 
-| 20201204T13:12:39Z | Recent Fuzzing Paper | https://github.com/wcventure/FuzzingPaper | 651 | 109| 
-| 20201204T12:58:32Z | Fuzzy and hard clustering comparison | https://github.com/Nandreasyan/fuzzyclustering | 0 | 0| 
-| 20201204T12:41:36Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 3249 | 753| 
-| 20201204T12:19:28Z | Null | https://github.com/fuzzy-set/fuzzy-set.github.io | 0 | 0| 
-| 20201204T12:07:17Z | Null | https://github.com/CharlyWargnier/fuzzy-matching-app | 0 | 0| 
+| 20201204T23:22:05Z | The forum application with automatic fuzzy generator of new topics | https://github.com/Luvkitri/fuzzy-forum-frontend | 0 | 0| 
+| 20201204T23:20:57Z | Structured Kernel Ioctl Driver Fuzzer | https://github.com/luke-goddard/skid | 0 | 0| 
+| 20201204T23:07:42Z | Null | https://github.com/Sentinel-One/efi_fuzz | 58 | 6| 
+| 20201204T23:05:09Z | Repository holding database dumps from getfursu.it | https://github.com/veelkoov/fuzzrake-data | 0 | 0| 
+| 20201204T22:59:56Z | Null | https://github.com/destoer/vtf_fuzzer | 0 | 0| 
+| 20201204T22:52:25Z | RESTler is the first stateful REST API fuzzing tool for automatically testing cloud services through their REST APIs and finding security and reliability bugs in these services. | https://github.com/microsoft/restler-fuzzer | 221 | 20| 
+| 20201204T22:36:02Z | 🔎 Fuzzy search EC2 instances to SSH into them | https://github.com/DavidWittman/ec2-fuzzy | 0 | 0| 
+| 20201204T22:10:46Z | 🤖 Repeat tests. Repeat tests. Repeat tests. | https://github.com/ehmicky/test-each | 91 | 2| 
+| 20201204T22:09:48Z | Simple script to control drugstore warehouse using an expert system based on fuzzy rules | https://github.com/wildonion/fuzzy-drug-store | 0 | 0| 
+| 20201204T22:02:19Z | Collected fuzzing payloads from different resources  | https://github.com/osamahamad/FUZZING | 6 | 3| 
 
 
 
