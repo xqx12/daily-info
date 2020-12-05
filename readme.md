@@ -16,8 +16,8 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20201205T13:14:18Z | CVE-2020-3992 | Python script to scan for enabled OpenSLP services | https://github.com/HynekPetrak/CVE-2019-5544_CVE-2020-3992 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 42 MINUTES 12 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20201205T13:03:30Z | CVE-2020-29364 | Null | https://github.com/aslanemre/CVE-2020-29364 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 42 MINUTES 09 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201205T13:14:18Z | CVE-2020-3992 | Python script to scan for enabled OpenSLP services | https://github.com/HynekPetrak/CVE-2019-5544_CVE-2020-3992 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 29 MINUTES 14 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201205T13:03:30Z | CVE-2020-29364 | Null | https://github.com/aslanemre/CVE-2020-29364 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 29 MINUTES 11 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20201205T06:48:59Z | CVE-2020-27950 | CVE-2020-27950 exploit | https://github.com/synacktiv/CVE-2020-27950 | 未查询到CVE信息| 
 | 20201205T02:54:51Z | CVE-2020-2551 | weblogic 漏洞扫描工具。目前包含对以下漏洞的检测能力：CVE-2014-4210、CVE-2016-0638、CVE-2016-3510、CVE-2017-3248、CVE-2017-3506、CVE-2017-10271、CVE-2018-2628、CVE-2018-2893、CVE-2018-2894、CVE-2018-3191、CVE-2018-3245、CVE-2018-3252、CVE-2019-2618、CVE-2019-2725、CVE-2019-2729、CVE-2019-2890、CVE-2020-2551、CVE-2020-14882、CVE-2020-14883 | https://github.com/0xn0ne/weblogicScanner | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
 
@@ -61,6 +61,8 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20201205T13:28:31Z | OSS-Fuzz - continuous fuzzing of open source software. | https://github.com/google/oss-fuzz | 5702 | 1129| 
+| 20201205T13:23:31Z | Null | https://github.com/stroyeka/fuzzysearch | 0 | 0| 
 | 20201205T13:03:57Z | 渗透测试路径字典，爆破字典。内容来自互联网和实战积累。 | https://github.com/cpkkcb/fuzzDicts | 19 | 15| 
 | 20201205T12:48:54Z | Fuzzy Clustering algorithm Literature Research and Experiment | https://github.com/kyeongchan92/AdvancedML_FuzzyClustering | 0 | 0| 
 | 20201205T12:30:41Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2228 | 113| 
@@ -69,8 +71,6 @@
 | 20201205T11:59:55Z | Fuzzer with argv | https://github.com/zodf0055980/Yuan-fuzz | 13 | 0| 
 | 20201205T11:25:14Z | Powerful CUI Explorer on WSL zsh | https://github.com/Fuzzy-Explorer/Fuzzy-Explorer-on-Terminal | 2 | 0| 
 | 20201205T11:04:32Z | Null | https://github.com/s9varesc/url-fuzzing-docker | 0 | 0| 
-| 20201205T10:57:15Z | A fuzzer that generates random Go programs | https://github.com/ALTree/microsmith | 6 | 0| 
-| 20201205T09:46:15Z | Null | https://github.com/mlutfifahreza/fuzzy-plant-watering | 0 | 0| 
 
 
 
