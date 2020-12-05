@@ -46,16 +46,16 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20201205T13:03:30Z | CVE-2020-29364 | Null | https://github.com/aslanemre/CVE-2020-29364 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 51 MINUTES 12 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201205T06:48:59Z | CVE-2020-27950 | CVE-2020-27950 exploit | https://github.com/synacktiv/CVE-2020-27950 | 未查询到CVE信息| 
 | 20201205T02:54:51Z | CVE-2020-2551 | weblogic 漏洞扫描工具。目前包含对以下漏洞的检测能力：CVE-2014-4210、CVE-2016-0638、CVE-2016-3510、CVE-2017-3248、CVE-2017-3506、CVE-2017-10271、CVE-2018-2628、CVE-2018-2893、CVE-2018-2894、CVE-2018-3191、CVE-2018-3245、CVE-2018-3252、CVE-2019-2618、CVE-2019-2725、CVE-2019-2729、CVE-2019-2890、CVE-2020-2551、CVE-2020-14882、CVE-2020-14883 | https://github.com/0xn0ne/weblogicScanner | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
-| 20201204T22:02:08Z | CVE-2020-25265 | Null | https://github.com/refi64/CVE-2020-25265-25266 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 00 MINUTES 01 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20201204T21:08:46Z | CVE-2020-1472 | The following is the outcome of playing with CVE-2020-1472 and attempting to automate the process of gaining a shell on the DC | https://github.com/JayP232/The_big_Zero | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 00 MINUTES 05 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20201204T18:06:19Z | CVE-2020-12695 | Zeek Plugin that detects CallStranger (CVE-2020-12695) attempts (http://callstranger.com/) | https://github.com/corelight/callstranger-detector | | 
+| 20201204T22:02:08Z | CVE-2020-25265 | Null | https://github.com/refi64/CVE-2020-25265-25266 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 52 MINUTES 00 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201204T21:08:46Z | CVE-2020-1472 | The following is the outcome of playing with CVE-2020-1472 and attempting to automate the process of gaining a shell on the DC | https://github.com/JayP232/The_big_Zero | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 52 MINUTES 04 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201204T18:06:19Z | CVE-2020-12695 | Zeek Plugin that detects CallStranger (CVE-2020-12695) attempts (http://callstranger.com/) | https://github.com/corelight/callstranger-detector | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 51 MINUTES 59 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20201204T10:31:23Z | CVE-2020-14882 | Vulmap - Web漏洞扫描和验证工具，可对Web容器、Web服务器、Web中间件以及CMS等Web程序进行漏洞扫描，并且具备漏洞利用功能。 相关测试人员可以使用vulmap检测目标是否存在特定漏洞，并且可以使用漏洞利用功能验证漏洞是否真实存在。CVE-2020-14882, CVE-2020-2555, CVE-2020-2883 | https://github.com/zhzyker/vulmap | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
-| 20201203T09:50:58Z | CVE-2020-27950 | CVE-2020-27950 exploit | https://github.com/synacktiv/CVE-2020-27950 | 未查询到CVE信息| 
 | 20201203T05:00:36Z | CVE-2020-23736 | dadajiasu | https://github.com/y5s5k5/CVE-2020-23736 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 01 MINUTES 03 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20201203T04:51:19Z | CVE-2020-23738 | Advanced SystemCare 13 PRO | https://github.com/y5s5k5/CVE-2020-23738 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 01 MINUTES 04 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20201203T04:04:26Z | CVE-2020-23741 | AnyView | https://github.com/y5s5k5/CVE-2020-23741 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 01 MINUTES 05 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20201203T03:57:15Z | CVE-2020-28175 | speedfan | https://github.com/y5s5k5/CVE-2020-28175 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 01 MINUTES 09 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 
 
 # klee on Github 推荐
@@ -77,52 +77,52 @@
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
 | 20201204T19:44:50Z | Your S2E project management tools. Visit https://s2e.systems/docs to get started. | https://github.com/S2E/s2e-env | 71 | 30| 
-| 20201203T12:33:53Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 70 | 21| 
+| 20201203T12:33:53Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 70 | 22| 
 
 
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20201205T02:30:14Z | A phased, evasive Path Traversal + LFI scanning & exploitation tool in Python | https://github.com/VainlyStrain/Vailyn | 62 | 2| 
-| 20201205T01:36:59Z | exploit-database-papers | https://github.com/offensive-security/exploitdb-papers | 266 | 36| 
-| 20201205T00:59:50Z | Open source ROBLOX anti-exploit for use by all. | https://github.com/Void-Frost/Secure-X | 2 | 10| 
-| 20201205T00:55:39Z | Plugin to fix exploits and add functionality to anarchy servers | https://github.com/L2X9org/L2X9Core | 11 | 9| 
-| 20201205T00:49:14Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 6 | 4| 
-| 20201205T00:35:08Z | This bash script will help you to hack remote hosts  | https://github.com/FabioDefilippo/linuxallremote | 1 | 0| 
-| 20201204T23:53:05Z | This site contains a simple ckeditor to demo the XSS attacks performed using the xenotix XSS exploit framework using the images | https://github.com/Suba-Sah/stegnography_attack_demo_site | 0 | 0| 
-| 20201204T23:20:39Z | Null | https://github.com/Minhtyyufa/printer_exploits | 0 | 0| 
-| 20201204T23:05:52Z | Thi powershell script has got to run in remote windows host, even for pivoting | https://github.com/FabioDefilippo/winallenum | 0 | 1| 
-| 20201204T22:47:24Z | Null | https://github.com/caddickzac/Motivated-Reasoning-in-a-Causal-Explore-Exploit-Task | 0 | 0| 
+| 20201205T13:06:20Z | Some exploits here and there | https://github.com/limitedeternity/ROPEmporium | 0 | 0| 
+| 20201205T12:57:51Z | Basic services enumeration and exploitation | https://github.com/dar3k93/Basic-service-enumeration | 0 | 1| 
+| 20201205T12:28:49Z | Csrf exploitation maker script | https://github.com/D45H7/D-csrf | 0 | 0| 
+| 20201205T12:20:32Z | ZetaSploit Framework is a powerful exploitation framework that contains a lot of modules and plugins for attacking targets, interacting with targets, spawning reverse shells and etc. | https://github.com/EntySec/ZetaSploit | 4 | 1| 
+| 20201205T12:14:36Z | free nitro exploit that bypasses payment | https://github.com/kermitz1337/NitroExploit | 0 | 0| 
+| 20201205T11:35:12Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 8702 | 1370| 
+| 20201205T11:06:41Z | Null | https://github.com/TamilHackz/linux-kernel-exploitation | 0 | 0| 
+| 20201205T10:50:33Z | C2 and Post Exploitation Code | https://github.com/sneakerhax/C2PE | 15 | 3| 
+| 20201205T08:52:59Z | The official Exploit Database repository | https://github.com/offensive-security/exploitdb | 5727 | 1637| 
+| 20201205T07:43:12Z | Hypervisor Memory Introspection Core Library | https://github.com/hvmi/hvmi | 404 | 29| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20201205T11:26:43Z | A fully undetected, hidden, persistent, reverse netcat shell backdoor for Windows. | https://github.com/RAF-87/win-back-cat | 4 | 1| 
+| 20201205T08:08:44Z | Null | https://github.com/YukiM00/Backdoor-medicalAI | 0 | 0| 
+| 20201205T06:00:52Z | This module uses the Metasploit framework built into Kali Linux to create a backdoor | https://github.com/anonymousproo/CyberForce | 4 | 1| 
+| 20201205T05:36:36Z | TCP Command Execution | https://github.com/gregl83/comandare | 0 | 0| 
+| 20201205T03:50:45Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 124 | 16| 
+| 20201205T03:06:13Z | for educational purposes only! | https://github.com/qqTechnologies/qqBackdoor-OS | 18 | 7| 
 | 20201204T22:31:46Z | Null | https://github.com/wcenatus/node-backdoor | 0 | 0| 
-| 20201204T22:18:57Z | A fully undetected, hidden, persistent, reverse netcat shell backdoor for Windows. | https://github.com/RAF-87/win-back-cat | 4 | 1| 
 | 20201204T21:18:53Z | A sample app to demonstrate how to create Xamarin UITests using the Page Object architecture, Backdoor Methods and App Links (aka Deep Linking) | https://github.com/brminnick/UITestSampleApp | 30 | 25| 
 | 20201204T18:15:10Z | Basic backdoor metamorphic  | https://github.com/Bryl33t/metamorphicore | 0 | 0| 
-| 20201204T17:55:22Z | Null | https://github.com/YukiM00/Backdoor-medicalAI | 0 | 0| 
-| 20201204T17:13:22Z | TCP Command Execution | https://github.com/gregl83/comandare | 0 | 0| 
 | 20201204T13:30:14Z | Basic metamorphic backdoor | https://github.com/Bryl33t/morphicore | 0 | 0| 
-| 20201204T09:43:44Z | Hides the sethc.exe backdoor by faking the original window. | https://github.com/PGgamer2/sethc-backdoor-hider | 1 | 2| 
-| 20201204T05:37:24Z | A repository that includes the python implementation and the paper%s review of some adversarial attacks. | https://github.com/henrychacon/Backdoor_attacks | 0 | 0| 
-| 20201204T05:37:16Z | Worlds simplest PHP backdoor | https://github.com/F-Masood/php-backdoor | 0 | 0| 
 
 
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20201205T02:41:14Z | Анализ цветовых характеристик полимерных материалов | https://github.com/kostyaLem/FuzzyLogic | 0 | 0| 
-| 20201205T02:37:05Z | Rockyou for web fuzzing | https://github.com/six2dez/OneListForAll | 118 | 20| 
-| 20201205T02:21:18Z | FuzzBench - Fuzzer benchmarking as a service. | https://github.com/google/fuzzbench | 557 | 88| 
-| 20201205T02:01:50Z | Experimental projects | https://github.com/tannmatter/fuzzy-happiness | 0 | 0| 
-| 20201205T01:39:46Z | Null | https://github.com/destoer/vtf_fuzzer | 1 | 0| 
-| 20201205T01:29:53Z | Null | https://github.com/eric-tomasi/fuzzyexact | 0 | 0| 
-| 20201205T01:18:36Z | WIP | https://github.com/fuzzr-net/fuzzr | 1 | 0| 
-| 20201205T01:18:30Z | gitmoji selector on fzf | https://github.com/ShotaroKataoka/Fuzzy-Git-Operator | 2 | 0| 
-| 20201205T00:59:18Z | Repo for fuzzytrader-app deploy on Heroku. | https://github.com/ricardofonsecacampos/fuzzytrader | 0 | 0| 
-| 20201205T00:54:00Z | Senior Capstone Project for Kennesaw State University | https://github.com/MarcussucraM/FuzzyChess | 0 | 2| 
+| 20201205T13:03:57Z | 渗透测试路径字典，爆破字典。内容来自互联网和实战积累。 | https://github.com/cpkkcb/fuzzDicts | 19 | 15| 
+| 20201205T12:48:54Z | Fuzzy Clustering algorithm Literature Research and Experiment | https://github.com/kyeongchan92/AdvancedML_FuzzyClustering | 0 | 0| 
+| 20201205T12:30:41Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2228 | 113| 
+| 20201205T12:23:46Z | A structure-aware JSON fuzzer | https://github.com/KevCui/jdam | 1 | 0| 
+| 20201205T12:21:41Z | Null | https://github.com/SotosSta/Fuzzy-run-challenge | 0 | 0| 
+| 20201205T11:59:55Z | Fuzzer with argv | https://github.com/zodf0055980/Yuan-fuzz | 13 | 0| 
+| 20201205T11:25:14Z | Powerful CUI Explorer on WSL zsh | https://github.com/Fuzzy-Explorer/Fuzzy-Explorer-on-Terminal | 2 | 0| 
+| 20201205T11:04:32Z | Null | https://github.com/s9varesc/url-fuzzing-docker | 0 | 0| 
+| 20201205T10:57:15Z | A fuzzer that generates random Go programs | https://github.com/ALTree/microsmith | 6 | 0| 
+| 20201205T09:46:15Z | Null | https://github.com/mlutfifahreza/fuzzy-plant-watering | 0 | 0| 
 
 
 
