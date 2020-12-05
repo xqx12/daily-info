@@ -46,9 +46,9 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20201204T22:02:08Z | CVE-2020-25265 | Null | https://github.com/refi64/CVE-2020-25265-25266 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 58 MINUTES 46 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20201204T21:08:46Z | CVE-2020-1472 | The following is the outcome of playing with CVE-2020-1472 and attempting to automate the process of gaining a shell on the DC | https://github.com/JayP232/The_big_Zero | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 58 MINUTES 50 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20201204T18:06:19Z | CVE-2020-12695 | Zeek Plugin that detects CallStranger (CVE-2020-12695) attempts (http://callstranger.com/) | https://github.com/corelight/callstranger-detector | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 58 MINUTES 45 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201204T22:02:08Z | CVE-2020-25265 | Null | https://github.com/refi64/CVE-2020-25265-25266 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 54 MINUTES 55 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201204T21:08:46Z | CVE-2020-1472 | The following is the outcome of playing with CVE-2020-1472 and attempting to automate the process of gaining a shell on the DC | https://github.com/JayP232/The_big_Zero | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 55 MINUTES 00 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201204T18:06:19Z | CVE-2020-12695 | Zeek Plugin that detects CallStranger (CVE-2020-12695) attempts (http://callstranger.com/) | https://github.com/corelight/callstranger-detector | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 54 MINUTES 54 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20201204T14:31:47Z | CVE-2020-2551 | weblogic 漏洞扫描工具。目前包含对以下漏洞的检测能力：CVE-2014-4210、CVE-2016-0638、CVE-2016-3510、CVE-2017-3248、CVE-2017-3506、CVE-2017-10271、CVE-2018-2628、CVE-2018-2893、CVE-2018-2894、CVE-2018-3191、CVE-2018-3245、CVE-2018-3252、CVE-2019-2618、CVE-2019-2725、CVE-2019-2729、CVE-2019-2890、CVE-2020-2551、CVE-2020-14882、CVE-2020-14883 | https://github.com/0xn0ne/weblogicScanner | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
 | 20201204T10:31:23Z | CVE-2020-14882 | Vulmap - Web漏洞扫描和验证工具，可对Web容器、Web服务器、Web中间件以及CMS等Web程序进行漏洞扫描，并且具备漏洞利用功能。 相关测试人员可以使用vulmap检测目标是否存在特定漏洞，并且可以使用漏洞利用功能验证漏洞是否真实存在。CVE-2020-14882, CVE-2020-2555, CVE-2020-2883 | https://github.com/zhzyker/vulmap | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
 | 20201203T09:50:58Z | CVE-2020-27950 | CVE-2020-27950 exploit | https://github.com/synacktiv/CVE-2020-27950 | 未查询到CVE信息| 
@@ -83,16 +83,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20201204T13:56:38Z | Exploit Netwave and GoAhead IP Camera using this awesome tool. | https://github.com/V1CK3Y2/CCTVexploit | 0 | 0| 
-| 20201204T13:55:22Z | Experiments of binary exploit and hardware security | https://github.com/chuang76/Security-101 | 2 | 0| 
-| 20201204T13:39:55Z | A proxy aware C2 framework used to aid red teamers with post-exploitation and lateral movement. | https://github.com/nettitude/PoshC2 | 626 | 158| 
-| 20201204T13:34:09Z | A collection of more than 140+ tools, scripts, cheatsheets and other loots that I have developed over years for Red Teaming/Pentesting/IT Security audits purposes. Most of them came handy on at least one of my real-world engagements. | https://github.com/mgeeky/Penetration-Testing-Tools | 515 | 140| 
-| 20201204T12:49:13Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 6 | 4| 
-| 20201204T12:48:16Z | Using PyRaider You can scan installed dependencies known security vulnerabilities. It uses publicly known exploits, vulnerabilities database. | https://github.com/raidersource/pyraider | 3 | 0| 
-| 20201204T12:21:00Z | Sample scripts to simulate attacks part of the Stealthwatch dCloud lab | https://github.com/sw-dcloud-lab/lab-exploit-kit | 0 | 0| 
-| 20201204T12:09:39Z | Exploiting constant trace property in large-scale polynomial optimization | https://github.com/maihoanganh/ctpPOP | 0 | 0| 
-| 20201204T12:05:54Z | Resources for the generation and exploitation of the KG - Drugs4Covid  | https://github.com/oeg-upm/drugs4covid19-kg | 1 | 1| 
-| 20201204T12:03:57Z | A Django based web application. The site is based on food delivery services and uses Django version 3.1 to implement the backend while HTML, CSS, Bootstrap 4 and JavaScript are used for the frontend. Nothing too over the top, just a basic implementation of the Web Framework to demonstrate the exploitation of its features. | https://github.com/Sparshbatta/Django_FoodApp | 0 | 0| 
+| 20201205T00:59:50Z | Open source ROBLOX anti-exploit for use by all. | https://github.com/Void-Frost/Secure-X | 2 | 10| 
+| 20201205T00:55:39Z | Plugin to fix exploits and add functionality to anarchy servers | https://github.com/L2X9org/L2X9Core | 11 | 9| 
+| 20201205T00:49:14Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 6 | 4| 
+| 20201205T00:35:08Z | This bash script will help you to hack remote hosts  | https://github.com/FabioDefilippo/linuxallremote | 1 | 0| 
+| 20201204T23:53:05Z | This site contains a simple ckeditor to demo the XSS attacks performed using the xenotix XSS exploit framework using the images | https://github.com/Suba-Sah/stegnography_attack_demo_site | 0 | 0| 
+| 20201204T23:20:39Z | Null | https://github.com/Minhtyyufa/printer_exploits | 0 | 0| 
+| 20201204T23:05:52Z | Thi powershell script has got to run in remote windows host, even for pivoting | https://github.com/FabioDefilippo/winallenum | 0 | 1| 
+| 20201204T22:47:24Z | Null | https://github.com/caddickzac/Motivated-Reasoning-in-a-Causal-Explore-Exploit-Task | 0 | 0| 
+| 20201204T22:16:42Z | Null | https://github.com/Buster-2002/Discord-Exploit | 0 | 0| 
+| 20201204T22:04:26Z | Null | https://github.com/BlackFalcons/arnadal-XSS-exploit | 0 | 0| 
 
 
 # backdoor on Github 推荐
