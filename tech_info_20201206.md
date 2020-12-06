@@ -51,6 +51,9 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20201206T12:33:33Z | Better Discord plugin for remote command execution | https://github.com/ethernalsteve/BetterDiscordBackdoor | 1 | 0| 
+| 20201206T08:28:18Z | Null | https://github.com/risspect/TMP-shell-backdoor | 0 | 0| 
+| 20201206T06:39:45Z | Null | https://github.com/hsx479/Backdoor-attack-use-real-trigger | 0 | 0| 
 | 20201206T02:36:08Z | Garry%s Mod Backdoor Menu | https://github.com/ProjectRebug/RebugV2-Release | 3 | 4| 
 | 20201206T01:27:18Z | TCP Command Execution | https://github.com/gregl83/comandare | 0 | 0| 
 | 20201206T00:20:08Z | Malware que cria uma shell de conexão reversa para usa-lo informe a variável de ip e crie um listen no netcat  | https://github.com/medn1c/BackDoor_Windows | 1 | 0| 
@@ -59,6 +62,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20201206T13:02:39Z | Personal website of Laurence Hughes | https://github.com/fuzzylogicxx/fuzzylogic | 4 | 1| 
 | 20201206T12:33:32Z | Diverse, the Fuzzer pico library you need to make your .NET tests more Diverse | https://github.com/42skillz/Diverse | 6 | 1| 
 | 20201206T11:48:22Z | Null | https://github.com/DuyNamUET/FuzzyMobile | 0 | 0| 
 | 20201206T11:43:15Z | Null | https://github.com/Ikarona/fuzzer | 0 | 0| 
@@ -68,7 +72,6 @@
 | 20201206T10:16:40Z | Dumb Fuzzer tool (Pyqt4 GUI) | https://github.com/dnsdudrla97/Fuzz | 0 | 0| 
 | 20201206T10:15:09Z | Simple script to control drugstore warehouse using an expert system based on fuzzy rules | https://github.com/wildonion/fuzzy-drugstore | 0 | 0| 
 | 20201206T10:00:40Z | Null | https://github.com/mlutfifahreza/fuzzy-plant-watering | 0 | 0| 
-| 20201206T09:58:55Z | Fuzzy String Matching in Python | https://github.com/seatgeek/fuzzywuzzy | 7645 | 796| 
 
 
 

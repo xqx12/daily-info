@@ -49,13 +49,13 @@
 | 20201206T12:55:41Z | CVE-2020-14882 | Vulmap - Web漏洞扫描和验证工具，可对Web容器、Web服务器、Web中间件以及CMS等Web程序进行漏洞扫描，并且具备漏洞利用功能。 相关测试人员可以使用vulmap检测目标是否存在特定漏洞，并且可以使用漏洞利用功能验证漏洞是否真实存在。CVE-2020-14882, CVE-2020-2555, CVE-2020-2883 | https://github.com/zhzyker/vulmap | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
 | 20201206T08:23:04Z | CVE-2020-4463 | IBM Maximo Asset Management is vulnerable to Information Disclosure via XXE Vulnerability (CVE-2020-4463) | https://github.com/Ibonok/CVE-2020-4463 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 57 MINUTES 18 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20201205T16:16:02Z | CVE-2020-14882 | CVE-2020-14882_ALL综合利用工具，支持命令回显检测、批量命令回显、外置xml无回显命令执行等功能。 | https://github.com/GGyao/CVE-2020-14882_ALL | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
-| 20201205T14:24:34Z | CVE-2020-23736 | dadajiasu | https://github.com/y5s5k5/CVE-2020-23736 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 58 MINUTES 04 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20201205T14:23:46Z | CVE-2020-23738 | Advanced SystemCare 13 PRO | https://github.com/y5s5k5/CVE-2020-23738 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 58 MINUTES 05 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201205T14:24:34Z | CVE-2020-23736 | dadajiasu | https://github.com/y5s5k5/CVE-2020-23736 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 57 MINUTES 14 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201205T14:23:46Z | CVE-2020-23738 | Advanced SystemCare 13 PRO | https://github.com/y5s5k5/CVE-2020-23738 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 57 MINUTES 15 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20201205T14:23:27Z | CVE-2020-23741 | AnyView | https://github.com/y5s5k5/CVE-2020-23741 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 57 MINUTES 17 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20201205T14:23:03Z | CVE-2020-23727 | antiy | https://github.com/y5s5k5/CVE-2020-23727 | | 
-| 20201205T14:22:34Z | CVE-2020-14957 |  windows cleaning assistant | https://github.com/y5s5k5/CVE-2020-14957 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 58 MINUTES 01 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20201205T14:21:50Z | CVE-2020-23726 | Wise Care 365 | https://github.com/y5s5k5/CVE-2020-23726 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 58 MINUTES 02 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20201205T14:20:06Z | CVE-2020-23735 | Saibo Cyber Game Accelerator | https://github.com/y5s5k5/CVE-2020-23735 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 58 MINUTES 03 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201205T14:23:03Z | CVE-2020-23727 | antiy | https://github.com/y5s5k5/CVE-2020-23727 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 57 MINUTES 12 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201205T14:22:34Z | CVE-2020-14957 |  windows cleaning assistant | https://github.com/y5s5k5/CVE-2020-14957 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 57 MINUTES 09 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201205T14:21:50Z | CVE-2020-23726 | Wise Care 365 | https://github.com/y5s5k5/CVE-2020-23726 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 57 MINUTES 11 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201205T14:20:06Z | CVE-2020-23735 | Saibo Cyber Game Accelerator | https://github.com/y5s5k5/CVE-2020-23735 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 57 MINUTES 13 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 
 
 # klee on Github 推荐
@@ -98,6 +98,9 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20201206T12:33:33Z | Better Discord plugin for remote command execution | https://github.com/ethernalsteve/BetterDiscordBackdoor | 1 | 0| 
+| 20201206T08:28:18Z | Null | https://github.com/risspect/TMP-shell-backdoor | 0 | 0| 
+| 20201206T06:39:45Z | Null | https://github.com/hsx479/Backdoor-attack-use-real-trigger | 0 | 0| 
 | 20201206T02:36:08Z | Garry%s Mod Backdoor Menu | https://github.com/ProjectRebug/RebugV2-Release | 3 | 4| 
 | 20201206T01:27:18Z | TCP Command Execution | https://github.com/gregl83/comandare | 0 | 0| 
 | 20201206T00:20:08Z | Malware que cria uma shell de conexão reversa para usa-lo informe a variável de ip e crie um listen no netcat  | https://github.com/medn1c/BackDoor_Windows | 1 | 0| 
@@ -105,14 +108,12 @@
 | 20201205T15:11:32Z | PAM Backdoor | https://github.com/rek7/madlib | 3 | 0| 
 | 20201205T15:04:47Z | Basic backdoor metamorphic  | https://github.com/Bryl33t/metamorphicore | 0 | 0| 
 | 20201205T11:26:43Z | A fully undetected, hidden, persistent, reverse netcat shell backdoor for Windows. | https://github.com/RAF-87/win-back-cat | 4 | 1| 
-| 20201205T08:08:44Z | Null | https://github.com/YukiM00/Backdoor-medicalAI | 0 | 0| 
-| 20201205T06:00:52Z | This module uses the Metasploit framework built into Kali Linux to create a backdoor | https://github.com/anonymousproo/CyberForce | 4 | 1| 
-| 20201205T03:50:45Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 124 | 16| 
 
 
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20201206T13:02:39Z | Personal website of Laurence Hughes | https://github.com/fuzzylogicxx/fuzzylogic | 4 | 1| 
 | 20201206T12:33:32Z | Diverse, the Fuzzer pico library you need to make your .NET tests more Diverse | https://github.com/42skillz/Diverse | 6 | 1| 
 | 20201206T11:48:22Z | Null | https://github.com/DuyNamUET/FuzzyMobile | 0 | 0| 
 | 20201206T11:43:15Z | Null | https://github.com/Ikarona/fuzzer | 0 | 0| 
@@ -122,7 +123,6 @@
 | 20201206T10:16:40Z | Dumb Fuzzer tool (Pyqt4 GUI) | https://github.com/dnsdudrla97/Fuzz | 0 | 0| 
 | 20201206T10:15:09Z | Simple script to control drugstore warehouse using an expert system based on fuzzy rules | https://github.com/wildonion/fuzzy-drugstore | 0 | 0| 
 | 20201206T10:00:40Z | Null | https://github.com/mlutfifahreza/fuzzy-plant-watering | 0 | 0| 
-| 20201206T09:58:55Z | Fuzzy String Matching in Python | https://github.com/seatgeek/fuzzywuzzy | 7645 | 796| 
 
 
 
