@@ -24,10 +24,10 @@
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
 | 20201207T13:14:15Z | CVE-2020-27950 | CVE-2020-27950 exploit | https://github.com/synacktiv/CVE-2020-27950 | 未查询到CVE信息| 
-| 20201207T12:26:15Z | CVE-2020-4463 | IBM Maximo Asset Management is vulnerable to Information Disclosure via XXE Vulnerability (CVE-2020-4463) | https://github.com/Ibonok/CVE-2020-4463 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 11 MINUTES 02 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20201207T07:47:13Z | CVE-2020-8209 | 该脚本为Citrix XenMobile 目录遍历漏洞（CVE-2020-8209）批量检测脚本。 | https://github.com/B1anda0/CVE-2020-8209 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 11 MINUTES 08 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201207T12:26:15Z | CVE-2020-4463 | IBM Maximo Asset Management is vulnerable to Information Disclosure via XXE Vulnerability (CVE-2020-4463) | https://github.com/Ibonok/CVE-2020-4463 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 08 MINUTES 09 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201207T07:47:13Z | CVE-2020-8209 | 该脚本为Citrix XenMobile 目录遍历漏洞（CVE-2020-8209）批量检测脚本。 | https://github.com/B1anda0/CVE-2020-8209 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 08 MINUTES 15 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20201207T01:25:17Z | CVE-2020-14882 | Vulmap - Web漏洞扫描和验证工具，可对Web容器、Web服务器、Web中间件以及CMS等Web程序进行漏洞扫描，并且具备漏洞利用功能。 相关测试人员可以使用vulmap检测目标是否存在特定漏洞，并且可以使用漏洞利用功能验证漏洞是否真实存在。CVE-2020-14882, CVE-2020-2555, CVE-2020-2883 | https://github.com/zhzyker/vulmap | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
-| 20201207T00:12:24Z | CVE-2020-3992 | Python script to scan for enabled OpenSLP services | https://github.com/HynekPetrak/CVE-2019-5544_CVE-2020-3992 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 11 MINUTES 10 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201207T00:12:24Z | CVE-2020-3992 | Python script to scan for enabled OpenSLP services | https://github.com/HynekPetrak/CVE-2019-5544_CVE-2020-3992 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 08 MINUTES 17 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 
 
 # klee on Github 推荐
@@ -45,7 +45,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20201207T13:32:15Z | Multi-library tool, innitially developed for binary exploitation. | https://github.com/mickdec/Esper | 1 | 0| 
+| 20201207T13:50:22Z | Multi-library tool, innitially developed for binary exploitation. | https://github.com/mickdec/Esper | 1 | 0| 
 | 20201207T13:23:57Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 8717 | 1375| 
 | 20201207T13:20:27Z | Fully Undetectable Malware Backdoor | https://github.com/raunvk/stealthware-backdoor | 1 | 0| 
 | 20201207T13:17:13Z | Discover duplication glitches, abusive staff giving items, x-ray or simply poor server economy. | https://github.com/kangarko/Confiscate | 10 | 4| 
