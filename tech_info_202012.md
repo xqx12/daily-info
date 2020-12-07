@@ -8,6 +8,10 @@
 | --- | --- | ---| 
 | 20201206 | CSIAC网络会议-DoD漏洞披露程序（VDP）视频。 | https://www.youtube.com/watch?v=MzroYbPSpSc&t=534s| 
 | 20201206 | 以安全的角度来看最新的PHP8版本。 | https://dustri.org/b/php8-from-a-security-point-of-view.html| 
+| 20201206 | How I Found The Facebook Messenger Leaking Access Token Of Million Users | https://medium.com/bugbountywriteup/how-i-found-the-facebook-messenger-leaking-access-token-of-million-users-8ee4b3f1e5e3| 
+| 20201206 | iOS 内核的地址随机化（ASLR）分析 | https://bellis1000.medium.com/aslr-the-ios-kernel-how-virtual-address-spaces-are-randomised-d76d14dc7ebb| 
+| 20201206 | Exploiting Precognition In Binary Instrumentation Of rr Replays | https://robert.ocallahan.org/2020/12/exploiting-precognition-in-binary.html| 
+| 20201206 | ToothPicker - 针对 Apple 蓝牙协议栈的 Fuzzing 测试 | https://github.com/seemoo-lab/toothpicker| 
 | 20201204 | TinyCheck - 卡巴斯基开源的智能手机流量劫持工具 | https://github.com/KasperskyLab/TinyCheck| 
 | 20201204 | D/Invokify PPID Spoofy & BlockDLLs | https://offensivedefence.co.uk/posts/ppidspoof-blockdlls-dinvoke/| 
 | 20201204 | 利用浏览器漏洞泄露 URL/Protocol Handlers，探测本地安装应用 | https://www.fortinet.com/blog/threat-research/leaking-browser-url-protocol-handlers?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+fortinet%2Fblog%2Fthreat-research+%28Fortinet+Threat+Research+Blog%29| 
@@ -22,10 +26,6 @@
 | 20201203 | Apache OpenOffice RCE (CVE-2020-13958) | https://github.com/irsl/apache-openoffice-rce-via-uno-links?fbclid=IwAR0dWK8OVVVU2Z1iy5Oq52CcB2tCt9Q5g4-ZvX5mM_QJ3JzGdG3ERAm6JJ4| 
 | 20201203 | Exploiting SIGRed (CVE-2020–1350) on Windows Server 2012/2016/2019 | https://datafarm-cybersecurity.medium.com/exploiting-sigred-cve-2020-1350-on-windows-server-2012-2016-2019-80dd88594228| 
 | 20201203 | 容器管理宿主进程 containerd containerd-shim API 被发现 Host 提权漏洞(CVE-2020-15257) | https://research.nccgroup.com/2020/11/30/technical-advisory-containerd-containerd-shim-api-exposed-to-host-network-containers-cve-2020-15257/| 
-| 20201203 | 语言解释执行（Language Interpreters）堆溢出漏洞的自动化利用生成 | https://seanhn.files.wordpress.com/2020/11/heelan_phd_thesis.pdf| 
-| 20201203 | 一款全新的 Android 反编译工具，支持 APK、DEX、ODEX、OAT、JAR、AAR、CLASS 文件格式的反编译 | https://github.com/charles2gan/GDA-android-reversing-Tool| 
-| 20201203 | IOT Exploitation Ghidra Scripts | https://github.com/tacnetsol/ghidra_scripts| 
-| 20201203 | 越南国家背景的 OceanLotus APT 组织利用恶意软件攻击 macOS 平台用户 | https://www.hackread.com/oceanlotus-hackers-macos-users-malware/| 
 
 
 # 安全维基 推荐
@@ -48,14 +48,14 @@
 | --- | --- | --- | --- | ---| 
 | 20201207T01:25:17Z | CVE-2020-14882 | Vulmap - Web漏洞扫描和验证工具，可对Web容器、Web服务器、Web中间件以及CMS等Web程序进行漏洞扫描，并且具备漏洞利用功能。 相关测试人员可以使用vulmap检测目标是否存在特定漏洞，并且可以使用漏洞利用功能验证漏洞是否真实存在。CVE-2020-14882, CVE-2020-2555, CVE-2020-2883 | https://github.com/zhzyker/vulmap | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
 | 20201207T00:12:24Z | CVE-2020-3992 | Python script to scan for enabled OpenSLP services | https://github.com/HynekPetrak/CVE-2019-5544_CVE-2020-3992 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 08 MINUTES 24 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20201206T08:23:04Z | CVE-2020-4463 | IBM Maximo Asset Management is vulnerable to Information Disclosure via XXE Vulnerability (CVE-2020-4463) | https://github.com/Ibonok/CVE-2020-4463 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 09 MINUTES 16 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20201205T16:16:02Z | CVE-2020-14882 | CVE-2020-14882_ALL综合利用工具，支持命令回显检测、批量命令回显、外置xml无回显命令执行等功能。 | https://github.com/GGyao/CVE-2020-14882_ALL | | 
-| 20201205T14:24:34Z | CVE-2020-23736 | dadajiasu | https://github.com/y5s5k5/CVE-2020-23736 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 09 MINUTES 11 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20201205T14:23:46Z | CVE-2020-23738 | Advanced SystemCare 13 PRO | https://github.com/y5s5k5/CVE-2020-23738 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 09 MINUTES 13 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20201205T14:23:27Z | CVE-2020-23741 | AnyView | https://github.com/y5s5k5/CVE-2020-23741 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 09 MINUTES 15 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20201205T14:23:03Z | CVE-2020-23727 | antiy | https://github.com/y5s5k5/CVE-2020-23727 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 09 MINUTES 09 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20201205T14:22:34Z | CVE-2020-14957 |  windows cleaning assistant | https://github.com/y5s5k5/CVE-2020-14957 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 09 MINUTES 07 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20201205T14:21:50Z | CVE-2020-23726 | Wise Care 365 | https://github.com/y5s5k5/CVE-2020-23726 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 09 MINUTES 08 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201206T08:23:04Z | CVE-2020-4463 | IBM Maximo Asset Management is vulnerable to Information Disclosure via XXE Vulnerability (CVE-2020-4463) | https://github.com/Ibonok/CVE-2020-4463 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 08 MINUTES 16 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201205T16:16:02Z | CVE-2020-14882 | CVE-2020-14882_ALL综合利用工具，支持命令回显检测、批量命令回显、外置xml无回显命令执行等功能。 | https://github.com/GGyao/CVE-2020-14882_ALL | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
+| 20201205T14:24:34Z | CVE-2020-23736 | dadajiasu | https://github.com/y5s5k5/CVE-2020-23736 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 08 MINUTES 12 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201205T14:23:46Z | CVE-2020-23738 | Advanced SystemCare 13 PRO | https://github.com/y5s5k5/CVE-2020-23738 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 08 MINUTES 13 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201205T14:23:27Z | CVE-2020-23741 | AnyView | https://github.com/y5s5k5/CVE-2020-23741 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 08 MINUTES 15 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201205T14:23:03Z | CVE-2020-23727 | antiy | https://github.com/y5s5k5/CVE-2020-23727 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 08 MINUTES 10 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201205T14:22:34Z | CVE-2020-14957 |  windows cleaning assistant | https://github.com/y5s5k5/CVE-2020-14957 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 08 MINUTES 08 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201205T14:21:50Z | CVE-2020-23726 | Wise Care 365 | https://github.com/y5s5k5/CVE-2020-23726 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 08 MINUTES 09 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 
 
 # klee on Github 推荐
@@ -113,6 +113,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20201207T02:50:45Z | 渗透测试路径字典，爆破字典。内容来自互联网和实战积累。 | https://github.com/cpkkcb/fuzzDicts | 24 | 18| 
 | 20201207T01:25:41Z | OSS-Fuzz - continuous fuzzing of open source software. | https://github.com/google/oss-fuzz | 5706 | 1130| 
 | 20201207T01:08:29Z | Code created within scope of ECE 552 for the final project | https://github.com/mikebowyer/ECE552_FuzzySecurityCamera | 0 | 0| 
 | 20201207T00:49:38Z | A site that allows you to reverse image search millions of furry images in under a second | https://github.com/Syfaro/fuzzysearch | 5 | 0| 
@@ -122,7 +123,6 @@
 | 20201206T23:44:54Z | Null | https://github.com/mrkaurelius/fuzzykafe | 0 | 0| 
 | 20201206T23:31:08Z | Bazel Starlark extensions for defining fuzz tests in Bazel projects | https://github.com/bazelbuild/rules_fuzzing | 6 | 1| 
 | 20201206T23:30:03Z | Fuzzing input for linearizability in distributed systems. | https://github.com/VeenaArv/fuzz-linearizability | 0 | 0| 
-| 20201206T23:05:06Z |  A CLI tool that generates example data from JSON Typedef schemas | https://github.com/jsontypedef/json-typedef-fuzz | 0 | 0| 
 
 
 

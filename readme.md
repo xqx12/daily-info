@@ -8,6 +8,10 @@
 | --- | --- | ---| 
 | 20201206 | CSIAC网络会议-DoD漏洞披露程序（VDP）视频。 | https://www.youtube.com/watch?v=MzroYbPSpSc&t=534s| 
 | 20201206 | 以安全的角度来看最新的PHP8版本。 | https://dustri.org/b/php8-from-a-security-point-of-view.html| 
+| 20201206 | How I Found The Facebook Messenger Leaking Access Token Of Million Users | https://medium.com/bugbountywriteup/how-i-found-the-facebook-messenger-leaking-access-token-of-million-users-8ee4b3f1e5e3| 
+| 20201206 | iOS 内核的地址随机化（ASLR）分析 | https://bellis1000.medium.com/aslr-the-ios-kernel-how-virtual-address-spaces-are-randomised-d76d14dc7ebb| 
+| 20201206 | Exploiting Precognition In Binary Instrumentation Of rr Replays | https://robert.ocallahan.org/2020/12/exploiting-precognition-in-binary.html| 
+| 20201206 | ToothPicker - 针对 Apple 蓝牙协议栈的 Fuzzing 测试 | https://github.com/seemoo-lab/toothpicker| 
 
 
 # 安全维基 推荐
@@ -24,7 +28,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20201206T08:23:04Z | CVE-2020-4463 | IBM Maximo Asset Management is vulnerable to Information Disclosure via XXE Vulnerability (CVE-2020-4463) | https://github.com/Ibonok/CVE-2020-4463 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 09 MINUTES 16 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201206T08:23:04Z | CVE-2020-4463 | IBM Maximo Asset Management is vulnerable to Information Disclosure via XXE Vulnerability (CVE-2020-4463) | https://github.com/Ibonok/CVE-2020-4463 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 08 MINUTES 16 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 
 
 # klee on Github 推荐
