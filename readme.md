@@ -24,7 +24,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20201206T08:23:04Z | CVE-2020-4463 | IBM Maximo Asset Management is vulnerable to Information Disclosure via XXE Vulnerability (CVE-2020-4463) | https://github.com/Ibonok/CVE-2020-4463 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 01 MINUTES 16 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201206T08:23:04Z | CVE-2020-4463 | IBM Maximo Asset Management is vulnerable to Information Disclosure via XXE Vulnerability (CVE-2020-4463) | https://github.com/Ibonok/CVE-2020-4463 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 00 MINUTES 17 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 
 
 # klee on Github 推荐
@@ -43,7 +43,6 @@
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
 | 20201206T22:47:19Z | Null | https://github.com/BenjaminBartholomew/exploit.sh | 0 | 0| 
-| 20201206T22:44:46Z | Docker based HTTP(S) component of the PS4/PS5 Exploit Host  | https://github.com/Al-Azif/exploit-host-http | 0 | 0| 
 | 20201206T22:43:19Z | Docker based DNS component of the PS4/PS5 Exploit Host | https://github.com/Al-Azif/exploit-host-dns | 0 | 1| 
 | 20201206T22:40:49Z | This bash script will help you to hack remote hosts  | https://github.com/FabioDefilippo/linuxallremote | 1 | 0| 
 | 20201206T22:27:50Z | Null | https://github.com/caddickzac/Motivated-Reasoning-in-a-Causal-Explore-Exploit-Task | 0 | 0| 
@@ -52,6 +51,7 @@
 | 20201206T20:44:44Z | The repo is about how to get access to the gold standard corpus that is created and exploited to generate the Global Contention Dataset (GLOCON) | https://github.com/emerging-welfare/glocongold | 2 | 0| 
 | 20201206T20:28:36Z | Collection of bash scripts I wrote to make my life easier or test myself that you may find useful. | https://github.com/tobor88/Bash | 7 | 1| 
 | 20201206T20:03:31Z | This is a simple modern Roblox exploit written in c#, html, javascript on top of Bunifu Framework and using EasyExploits API | https://github.com/IceMeme/IceDev | 1 | 0| 
+| 20201206T19:44:02Z | Silice is an open source language that simplifies writing algorithms fully exploiting FPGA architectures. | https://github.com/sylefeb/Silice | 371 | 28| 
 
 
 # backdoor on Github 推荐
