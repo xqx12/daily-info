@@ -50,12 +50,12 @@
 | 20201206T18:19:35Z | CVE-2020-14882 | Vulmap - Web漏洞扫描和验证工具，可对Web容器、Web服务器、Web中间件以及CMS等Web程序进行漏洞扫描，并且具备漏洞利用功能。 相关测试人员可以使用vulmap检测目标是否存在特定漏洞，并且可以使用漏洞利用功能验证漏洞是否真实存在。CVE-2020-14882, CVE-2020-2555, CVE-2020-2883 | https://github.com/zhzyker/vulmap | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
 | 20201206T08:23:04Z | CVE-2020-4463 | IBM Maximo Asset Management is vulnerable to Information Disclosure via XXE Vulnerability (CVE-2020-4463) | https://github.com/Ibonok/CVE-2020-4463 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 57 MINUTES 23 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20201205T16:16:02Z | CVE-2020-14882 | CVE-2020-14882_ALL综合利用工具，支持命令回显检测、批量命令回显、外置xml无回显命令执行等功能。 | https://github.com/GGyao/CVE-2020-14882_ALL | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
-| 20201205T14:24:34Z | CVE-2020-23736 | dadajiasu | https://github.com/y5s5k5/CVE-2020-23736 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 58 MINUTES 08 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201205T14:24:34Z | CVE-2020-23736 | dadajiasu | https://github.com/y5s5k5/CVE-2020-23736 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 57 MINUTES 20 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20201205T14:23:46Z | CVE-2020-23738 | Advanced SystemCare 13 PRO | https://github.com/y5s5k5/CVE-2020-23738 | | 
 | 20201205T14:23:27Z | CVE-2020-23741 | AnyView | https://github.com/y5s5k5/CVE-2020-23741 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 57 MINUTES 22 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20201205T14:23:03Z | CVE-2020-23727 | antiy | https://github.com/y5s5k5/CVE-2020-23727 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 58 MINUTES 07 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20201205T14:22:34Z | CVE-2020-14957 |  windows cleaning assistant | https://github.com/y5s5k5/CVE-2020-14957 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 58 MINUTES 05 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20201205T14:21:50Z | CVE-2020-23726 | Wise Care 365 | https://github.com/y5s5k5/CVE-2020-23726 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 58 MINUTES 06 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201205T14:23:03Z | CVE-2020-23727 | antiy | https://github.com/y5s5k5/CVE-2020-23727 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 57 MINUTES 18 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201205T14:22:34Z | CVE-2020-14957 |  windows cleaning assistant | https://github.com/y5s5k5/CVE-2020-14957 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 57 MINUTES 16 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201205T14:21:50Z | CVE-2020-23726 | Wise Care 365 | https://github.com/y5s5k5/CVE-2020-23726 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 57 MINUTES 17 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 
 
 # klee on Github 推荐
@@ -98,16 +98,16 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20201206T21:34:58Z | TCP Command Execution | https://github.com/gregl83/comandare | 0 | 0| 
+| 20201206T18:20:49Z | Null | https://github.com/YukiM00/Backdoor-medicalAI | 0 | 0| 
+| 20201206T17:52:49Z | A simple python trojan for 3.8 that creates a backdoor via netcat.   Please use this in a legal manner.  I am not responsible for any damages caused by this software.   | https://github.com/darkwire37/Simple-Python-Trojan | 1 | 0| 
+| 20201206T16:58:06Z | Hides the sethc.exe backdoor by faking the original window. | https://github.com/PGgamer2/sethc-backdoor-hider | 1 | 2| 
 | 20201206T13:04:28Z | Better Discord plugin for remote command execution | https://github.com/ethernalsteve/BetterDiscordBackdoor | 1 | 0| 
 | 20201206T08:28:18Z | Null | https://github.com/risspect/TMP-shell-backdoor | 0 | 0| 
 | 20201206T06:39:45Z | Null | https://github.com/hsx479/Backdoor-attack-use-real-trigger | 0 | 0| 
 | 20201206T02:36:08Z | Garry%s Mod Backdoor Menu | https://github.com/ProjectRebug/RebugV2-Release | 3 | 4| 
-| 20201206T01:27:18Z | TCP Command Execution | https://github.com/gregl83/comandare | 0 | 0| 
 | 20201206T00:20:08Z | Malware que cria uma shell de conexão reversa para usa-lo informe a variável de ip e crie um listen no netcat  | https://github.com/medn1c/BackDoor_Windows | 1 | 0| 
 | 20201205T20:08:21Z | Backdoor implementation for lab work. | https://github.com/v-rublova/Defense_Lab_7 | 0 | 0| 
-| 20201205T15:11:32Z | PAM Backdoor | https://github.com/rek7/madlib | 3 | 0| 
-| 20201205T15:04:47Z | Basic backdoor metamorphic  | https://github.com/Bryl33t/metamorphicore | 0 | 0| 
-| 20201205T11:26:43Z | A fully undetected, hidden, persistent, reverse netcat shell backdoor for Windows. | https://github.com/RAF-87/win-back-cat | 4 | 1| 
 
 
 # fuzz on Github 推荐

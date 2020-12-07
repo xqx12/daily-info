@@ -58,11 +58,14 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20201206T21:34:58Z | TCP Command Execution | https://github.com/gregl83/comandare | 0 | 0| 
+| 20201206T18:20:49Z | Null | https://github.com/YukiM00/Backdoor-medicalAI | 0 | 0| 
+| 20201206T17:52:49Z | A simple python trojan for 3.8 that creates a backdoor via netcat.   Please use this in a legal manner.  I am not responsible for any damages caused by this software.   | https://github.com/darkwire37/Simple-Python-Trojan | 1 | 0| 
+| 20201206T16:58:06Z | Hides the sethc.exe backdoor by faking the original window. | https://github.com/PGgamer2/sethc-backdoor-hider | 1 | 2| 
 | 20201206T13:04:28Z | Better Discord plugin for remote command execution | https://github.com/ethernalsteve/BetterDiscordBackdoor | 1 | 0| 
 | 20201206T08:28:18Z | Null | https://github.com/risspect/TMP-shell-backdoor | 0 | 0| 
 | 20201206T06:39:45Z | Null | https://github.com/hsx479/Backdoor-attack-use-real-trigger | 0 | 0| 
 | 20201206T02:36:08Z | Garry%s Mod Backdoor Menu | https://github.com/ProjectRebug/RebugV2-Release | 3 | 4| 
-| 20201206T01:27:18Z | TCP Command Execution | https://github.com/gregl83/comandare | 0 | 0| 
 | 20201206T00:20:08Z | Malware que cria uma shell de conexão reversa para usa-lo informe a variável de ip e crie um listen no netcat  | https://github.com/medn1c/BackDoor_Windows | 1 | 0| 
 
 
