@@ -46,16 +46,16 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20201208T00:00:23Z | CVE-2020-4463 | IBM Maximo Asset Management is vulnerable to Information Disclosure via XXE Vulnerability (CVE-2020-4463) | https://github.com/Ibonok/CVE-2020-4463 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 57 MINUTES 01 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201208T00:00:23Z | CVE-2020-4463 | IBM Maximo Asset Management is vulnerable to Information Disclosure via XXE Vulnerability (CVE-2020-4463) | https://github.com/Ibonok/CVE-2020-4463 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 43 MINUTES 04 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20201207T22:13:15Z | CVE-2020-8554 | [EMBARGO] CVE-2020-8554: Man in the middle using LoadBalancer or ExternalIPs | https://github.com/rancher/externalip-webhook | 未查询到CVE信息| 
 | 20201207T13:14:15Z | CVE-2020-27950 | CVE-2020-27950 exploit | https://github.com/synacktiv/CVE-2020-27950 | 未查询到CVE信息| 
-| 20201207T07:47:13Z | CVE-2020-8209 | 该脚本为Citrix XenMobile 目录遍历漏洞（CVE-2020-8209）批量检测脚本。 | https://github.com/B1anda0/CVE-2020-8209 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 56 MINUTES 11 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201207T07:47:13Z | CVE-2020-8209 | 该脚本为Citrix XenMobile 目录遍历漏洞（CVE-2020-8209）批量检测脚本。 | https://github.com/B1anda0/CVE-2020-8209 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 43 MINUTES 10 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20201207T01:25:17Z | CVE-2020-14882 | Vulmap - Web漏洞扫描和验证工具，可对Web容器、Web服务器、Web中间件以及CMS等Web程序进行漏洞扫描，并且具备漏洞利用功能。 相关测试人员可以使用vulmap检测目标是否存在特定漏洞，并且可以使用漏洞利用功能验证漏洞是否真实存在。CVE-2020-14882, CVE-2020-2555, CVE-2020-2883 | https://github.com/zhzyker/vulmap | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
-| 20201207T00:12:24Z | CVE-2020-3992 | Python script to scan for enabled OpenSLP services | https://github.com/HynekPetrak/CVE-2019-5544_CVE-2020-3992 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 56 MINUTES 12 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201207T00:12:24Z | CVE-2020-3992 | Python script to scan for enabled OpenSLP services | https://github.com/HynekPetrak/CVE-2019-5544_CVE-2020-3992 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 43 MINUTES 11 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20201205T16:16:02Z | CVE-2020-14882 | CVE-2020-14882_ALL综合利用工具，支持命令回显检测、批量命令回显、外置xml无回显命令执行等功能。 | https://github.com/GGyao/CVE-2020-14882_ALL | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
-| 20201205T14:24:34Z | CVE-2020-23736 | dadajiasu | https://github.com/y5s5k5/CVE-2020-23736 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 56 MINUTES 58 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20201205T14:23:46Z | CVE-2020-23738 | Advanced SystemCare 13 PRO | https://github.com/y5s5k5/CVE-2020-23738 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 56 MINUTES 59 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20201205T14:23:27Z | CVE-2020-23741 | AnyView | https://github.com/y5s5k5/CVE-2020-23741 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 57 MINUTES 00 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201205T14:24:34Z | CVE-2020-23736 | dadajiasu | https://github.com/y5s5k5/CVE-2020-23736 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 43 MINUTES 00 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201205T14:23:46Z | CVE-2020-23738 | Advanced SystemCare 13 PRO | https://github.com/y5s5k5/CVE-2020-23738 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 43 MINUTES 01 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201205T14:23:27Z | CVE-2020-23741 | AnyView | https://github.com/y5s5k5/CVE-2020-23741 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 43 MINUTES 03 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 
 
 # klee on Github 推荐
@@ -83,6 +83,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20201208T01:11:46Z | Progressive Fusion Video Super-Resolution Network via Exploiting Non-Local Spatio-Temporal Correlations | https://github.com/psychopa4/PFNL | 94 | 19| 
+| 20201208T01:08:47Z | A collection of information, tools, and exploits for TI-Nspire calculators.  Please read license! | https://github.com/parrotgeek1/TI-Nspire | 20 | 1| 
 | 20201208T00:52:45Z | Vulnerabilities% Risk of Exploitation | https://github.com/thiagofigcosta/V-REx | 0 | 0| 
 | 20201208T00:49:15Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 6 | 4| 
 | 20201208T00:23:26Z | Generate a post exploit script to download an arbitrary file using HTML5%s Blob object (https://developer.mozilla.org/en-US/docs/Web/API/Blob) | https://github.com/demetrius-ford/dbd | 1 | 0| 
@@ -91,8 +93,6 @@
 | 20201207T23:38:42Z | A general-purpose non-recursive incremental out-of-place comparison-sorting algorithm that exploits runs of sorted data | https://github.com/pthariensflame/shard-sort | 1 | 0| 
 | 20201207T23:32:51Z | Ban those who are scanning your server for exploits.  Think fail2ban but for a scan. | https://github.com/the-sillystring/fail4scan | 0 | 0| 
 | 20201207T23:27:55Z | Prep for AWAE collections of exploits & notes | https://github.com/latortuga71/AWAE-Prep-Exploits-Notes | 0 | 0| 
-| 20201207T22:37:32Z | GEF - GDB Enhanced Features for exploit devs & reversers | https://github.com/hugsy/gef | 3294 | 477| 
-| 20201207T22:23:37Z | exploit idk what cve i didnt note it but who cares have fun | https://github.com/horrorh/OSMTPD-Exploit | 0 | 0| 
 
 
 # backdoor on Github 推荐
@@ -113,16 +113,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20201208T01:12:48Z | Simple fuzzy implementation in React JS | https://github.com/satrioadii/wtk_react_fuzzy | 0 | 0| 
+| 20201208T01:05:02Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 1000 | 242| 
+| 20201208T01:03:08Z | Container Security | https://github.com/Bheemasena/Fuzzie | 0 | 0| 
 | 20201208T00:56:21Z | Null | https://github.com/Half-Quarter/AcoFuzz | 0 | 0| 
 | 20201208T00:10:41Z | fuzzing a JSON parser | https://github.com/docfate111/ion | 0 | 0| 
 | 20201207T23:58:13Z | Scalable fuzzing infrastructure. | https://github.com/google/clusterfuzz | 4386 | 402| 
 | 20201207T23:47:22Z | Null | https://github.com/noloerino/eye-fuzz | 0 | 0| 
-| 20201207T23:38:15Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 999 | 242| 
 | 20201207T23:36:42Z | Fuzzing input for linearizability in distributed systems. | https://github.com/VeenaArv/fuzz-linearizability | 0 | 0| 
 | 20201207T23:01:43Z | OSS-Fuzz - continuous fuzzing of open source software. | https://github.com/google/oss-fuzz | 5708 | 1130| 
 | 20201207T23:00:04Z | CS4047 Computional Intelligence | https://github.com/GeorgeVelikov/FuzzyLogicSystem | 0 | 0| 
-| 20201207T22:55:16Z | Null | https://github.com/sebtoscano/APi-Fuzzer | 0 | 0| 
-| 20201207T22:49:39Z | Packer Fuzzer is a fast and efficient scanner for security detection of websites constructed by javascript module bundler such as Webpack.  | https://github.com/rtcatc/Packer-Fuzzer | 489 | 54| 
 
 
 
