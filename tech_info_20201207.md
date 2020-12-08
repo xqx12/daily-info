@@ -27,7 +27,7 @@
 | --- | --- | --- | --- | ---| 
 | 20201207T13:14:15Z | CVE-2020-27950 | CVE-2020-27950 exploit | https://github.com/synacktiv/CVE-2020-27950 | 未查询到CVE信息| 
 | 20201207T01:25:17Z | CVE-2020-14882 | Vulmap - Web漏洞扫描和验证工具，可对Web容器、Web服务器、Web中间件以及CMS等Web程序进行漏洞扫描，并且具备漏洞利用功能。 相关测试人员可以使用vulmap检测目标是否存在特定漏洞，并且可以使用漏洞利用功能验证漏洞是否真实存在。CVE-2020-14882, CVE-2020-2555, CVE-2020-2883 | https://github.com/zhzyker/vulmap | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
-| 20201207T00:12:24Z | CVE-2020-3992 | Python script to scan for enabled OpenSLP services | https://github.com/HynekPetrak/CVE-2019-5544_CVE-2020-3992 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 54 MINUTES 13 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201207T00:12:24Z | CVE-2020-3992 | Python script to scan for enabled OpenSLP services | https://github.com/HynekPetrak/CVE-2019-5544_CVE-2020-3992 | | 
 
 
 # klee on Github 推荐
@@ -79,7 +79,6 @@
 | --- | --- | --- | --- | ---| 
 | 20201207T23:58:13Z | Scalable fuzzing infrastructure. | https://github.com/google/clusterfuzz | 4386 | 402| 
 | 20201207T23:47:22Z | Null | https://github.com/noloerino/eye-fuzz | 0 | 0| 
-| 20201207T23:36:42Z | Fuzzing input for linearizability in distributed systems. | https://github.com/VeenaArv/fuzz-linearizability | 0 | 0| 
 | 20201207T23:01:43Z | OSS-Fuzz - continuous fuzzing of open source software. | https://github.com/google/oss-fuzz | 5708 | 1130| 
 | 20201207T23:00:04Z | CS4047 Computional Intelligence | https://github.com/GeorgeVelikov/FuzzyLogicSystem | 0 | 0| 
 | 20201207T22:55:16Z | Null | https://github.com/sebtoscano/APi-Fuzzer | 0 | 0| 
@@ -87,6 +86,7 @@
 | 20201207T22:12:25Z | REST API Fuzz Testing (RAFT): Source code for self-hosted service developed for Azure, including the API, orchestration engine, and default set of security tools (including MSR%s RESTler), that enables developers to embed security tooling into their CI/CD workflows | https://github.com/microsoft/rest-api-fuzz-testing | 77 | 10| 
 | 20201207T22:11:42Z | Null | https://github.com/stochfuzz/Stoch-Fuzz | 0 | 0| 
 | 20201207T22:07:43Z | 🔎 Fuzzy search EC2 instances to SSH into them | https://github.com/DavidWittman/ec2-fuzzy | 1 | 0| 
+| 20201207T22:02:14Z | A python script to enumerate and attempt to get code execution from LFI vulnerabilities | https://github.com/watchdog2000/lfi-fuzz | 3 | 0| 
 
 
 
