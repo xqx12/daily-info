@@ -27,9 +27,9 @@
 | --- | --- | --- | --- | ---| 
 | 20201207T22:13:15Z | CVE-2020-8554 | [EMBARGO] CVE-2020-8554: Man in the middle using LoadBalancer or ExternalIPs | https://github.com/rancher/externalip-webhook | 未查询到CVE信息| 
 | 20201207T13:14:15Z | CVE-2020-27950 | CVE-2020-27950 exploit | https://github.com/synacktiv/CVE-2020-27950 | 未查询到CVE信息| 
-| 20201207T07:47:13Z | CVE-2020-8209 | 该脚本为Citrix XenMobile 目录遍历漏洞（CVE-2020-8209）批量检测脚本。 | https://github.com/B1anda0/CVE-2020-8209 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 59 MINUTES 08 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201207T07:47:13Z | CVE-2020-8209 | 该脚本为Citrix XenMobile 目录遍历漏洞（CVE-2020-8209）批量检测脚本。 | https://github.com/B1anda0/CVE-2020-8209 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 56 MINUTES 11 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20201207T01:25:17Z | CVE-2020-14882 | Vulmap - Web漏洞扫描和验证工具，可对Web容器、Web服务器、Web中间件以及CMS等Web程序进行漏洞扫描，并且具备漏洞利用功能。 相关测试人员可以使用vulmap检测目标是否存在特定漏洞，并且可以使用漏洞利用功能验证漏洞是否真实存在。CVE-2020-14882, CVE-2020-2555, CVE-2020-2883 | https://github.com/zhzyker/vulmap | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
-| 20201207T00:12:24Z | CVE-2020-3992 | Python script to scan for enabled OpenSLP services | https://github.com/HynekPetrak/CVE-2019-5544_CVE-2020-3992 | VMware ESXi中使用的OpenSLP（ESXi_7.0.1-0.0.16850804之前的7.0，ESXi670-202010401-SG之前的6.7，ESXi650-202010401-SG之前的6.5）有一个“售后使用”问题。驻留在管理网络中的恶意行为者可以访问ESXi计算机上的427端口，可能会触发OpenSLP服务中的“使用后释放”功能，从而导致远程执行代码。| 
+| 20201207T00:12:24Z | CVE-2020-3992 | Python script to scan for enabled OpenSLP services | https://github.com/HynekPetrak/CVE-2019-5544_CVE-2020-3992 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 56 MINUTES 12 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 
 
 # klee on Github 推荐
@@ -66,10 +66,14 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20201207T13:20:27Z | Fully Undetectable Malware Backdoor | https://github.com/raunvk/stealthware-backdoor | 1 | 0| 
+| 20201207T22:29:28Z | Null | https://github.com/wcenatus/node-backdoor | 0 | 0| 
+| 20201207T20:24:11Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 125 | 17| 
+| 20201207T20:09:08Z | Tool to find potential backdoor/security holes in your endpoint | https://github.com/subasgit/backdoorfinder | 1 | 0| 
+| 20201207T17:57:21Z | Fully Undetectable Malware Backdoor | https://github.com/raunvk/stealthware-backdoor | 1 | 0| 
+| 20201207T15:41:33Z | Minified Backdoor scripts for PHP web app | https://github.com/shariarislam/MinifiedBackdoor | 0 | 0| 
+| 20201207T14:18:03Z | Null | https://github.com/BackDoor-TR/backdoorddos | 0 | 0| 
 | 20201207T06:21:21Z | Python OpenSource, Hidden and Undetectable , ReverseShell BackdoorScript (EDUCATION PURPOSE)  | https://github.com/Jadhusan-S/Python-BackDoor | 0 | 0| 
 | 20201207T06:02:34Z | Null | https://github.com/irepublica/monitor_backdoor | 0 | 0| 
-| 20201207T02:54:06Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 125 | 16| 
 
 
 # fuzz on Github 推荐
