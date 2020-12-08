@@ -27,9 +27,9 @@
 | --- | --- | --- | --- | ---| 
 | 20201207T22:13:15Z | CVE-2020-8554 | [EMBARGO] CVE-2020-8554: Man in the middle using LoadBalancer or ExternalIPs | https://github.com/rancher/externalip-webhook | 未查询到CVE信息| 
 | 20201207T13:14:15Z | CVE-2020-27950 | CVE-2020-27950 exploit | https://github.com/synacktiv/CVE-2020-27950 | 未查询到CVE信息| 
-| 20201207T07:47:13Z | CVE-2020-8209 | 该脚本为Citrix XenMobile 目录遍历漏洞（CVE-2020-8209）批量检测脚本。 | https://github.com/B1anda0/CVE-2020-8209 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 36 MINUTES 13 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201207T07:47:13Z | CVE-2020-8209 | 该脚本为Citrix XenMobile 目录遍历漏洞（CVE-2020-8209）批量检测脚本。 | https://github.com/B1anda0/CVE-2020-8209 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 34 MINUTES 22 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20201207T01:25:17Z | CVE-2020-14882 | Vulmap - Web漏洞扫描和验证工具，可对Web容器、Web服务器、Web中间件以及CMS等Web程序进行漏洞扫描，并且具备漏洞利用功能。 相关测试人员可以使用vulmap检测目标是否存在特定漏洞，并且可以使用漏洞利用功能验证漏洞是否真实存在。CVE-2020-14882, CVE-2020-2555, CVE-2020-2883 | https://github.com/zhzyker/vulmap | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
-| 20201207T00:12:24Z | CVE-2020-3992 | Python script to scan for enabled OpenSLP services | https://github.com/HynekPetrak/CVE-2019-5544_CVE-2020-3992 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 36 MINUTES 14 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201207T00:12:24Z | CVE-2020-3992 | Python script to scan for enabled OpenSLP services | https://github.com/HynekPetrak/CVE-2019-5544_CVE-2020-3992 | | 
 
 
 # klee on Github 推荐
@@ -54,13 +54,13 @@
 | 20201207T23:38:42Z | A general-purpose non-recursive incremental out-of-place comparison-sorting algorithm that exploits runs of sorted data | https://github.com/pthariensflame/shard-sort | 1 | 0| 
 | 20201207T23:32:51Z | Ban those who are scanning your server for exploits.  Think fail2ban but for a scan. | https://github.com/the-sillystring/fail4scan | 0 | 0| 
 | 20201207T23:27:55Z | Prep for AWAE collections of exploits & notes | https://github.com/latortuga71/AWAE-Prep-Exploits-Notes | 0 | 0| 
-| 20201207T22:37:32Z | GEF - GDB Enhanced Features for exploit devs & reversers | https://github.com/hugsy/gef | 3294 | 477| 
 | 20201207T22:23:37Z | exploit idk what cve i didnt note it but who cares have fun | https://github.com/horrorh/OSMTPD-Exploit | 0 | 0| 
 | 20201207T22:18:44Z | Null | https://github.com/sheenieboy/ExploiterChat | 1 | 0| 
 | 20201207T21:53:53Z | DarkWare is a roblox exploit hub. | https://github.com/Yarik312/DarkWare | 1 | 0| 
 | 20201207T20:35:14Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 8719 | 1376| 
 | 20201207T20:30:23Z | TryHackMe CTFs writeups, notes, dratfs, scrabbles, files and solutions. | https://github.com/edoardottt/tryhackme-ctf | 3 | 2| 
 | 20201207T20:26:03Z | searches for the default config of mailman on cloudlinux/cpanel servers, to relay the server IP, also looks for config files left over, that may Contain usernames and passwords ETC.   | https://github.com/Proxysec/cloudssp | 4 | 3| 
+| 20201207T20:09:51Z | Null | https://github.com/caddickzac/Motivated-Reasoning-in-a-Causal-Explore-Exploit-Task | 0 | 0| 
 
 
 # backdoor on Github 推荐
