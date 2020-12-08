@@ -12,6 +12,8 @@
 | 20201207 | Depix - 从截屏马赛克处理后的图片中还原原始密码 | https://github.com/beurtschipper/Depix| 
 | 20201207 | Windows：阻止本地系统用户的远程网络访问解决方案。 | http://woshub.com/blocking-remote-network-access-for-local-accounts/| 
 | 20201207 | WSMan-WinRM：通过利用WinRM执行远程命令。 | https://securityonline.info/wsman-winrm/| 
+| 20201207 | OpenTitan - Google 开源的硬件级 Root of Trust 项目 | https://security.googleblog.com/2020/12/opentitan-at-one-year-open-source.html?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+GoogleOnlineSecurityBlog+%28Google+Online+Security+Blog%29| 
+| 20201207 | Java反序列化过程中 RMI JRMP 以及JNDI多种利用方式详解 | http://blog.topsec.com.cn/java%e5%8f%8d%e5%ba%8f%e5%88%97%e5%8c%96%e8%bf%87%e7%a8%8b%e4%b8%ad-rmi-jrmp-%e4%bb%a5%e5%8f%8ajndi%e5%a4%9a%e7%a7%8d%e5%88%a9%e7%94%a8%e6%96%b9%e5%bc%8f%e8%af%a6%e8%a7%a3/| 
 | 20201206 | CSIAC网络会议-DoD漏洞披露程序（VDP）视频。 | https://www.youtube.com/watch?v=MzroYbPSpSc&t=534s| 
 | 20201206 | 以安全的角度来看最新的PHP8版本。 | https://dustri.org/b/php8-from-a-security-point-of-view.html| 
 | 20201206 | How I Found The Facebook Messenger Leaking Access Token Of Million Users | https://medium.com/bugbountywriteup/how-i-found-the-facebook-messenger-leaking-access-token-of-million-users-8ee4b3f1e5e3| 
@@ -24,8 +26,6 @@
 | 20201204 | A Quick Security Evaluation of IPv6 | https://theinternetprotocolblog.wordpress.com/2020/10/25/a-quick-security-evaluation-of-ipv6/| 
 | 20201204 | NPM 包管理器市场被发现被人植入伪装成 jdb.js 的 njRAT 恶意 Payload | https://gbhackers.com/new-malicious-npm-packages-used-by-attackers-install-njrat-remote-access-trojan/| 
 | 20201204 | USENIX Security 20 会议的一个演讲：利用 Wireless Fuzzing 的方式挖掘蓝牙的漏洞 | https://www.youtube.com/watch?v=0k6XHOkt6NE| 
-| 20201204 | A Modern Exploration of Windows Memory Corruption Exploits – Part I: Stack Overflows | https://securityboulevard.com/2020/12/a-modern-exploration-of-windows-memory-corruption-exploits-part-i-stack-overflows/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+SecurityBloggersNetwork+%28Security+Bloggers+Network%29| 
-| 20201204 | Google Play Core Library 本地代码执行漏洞的分析 | https://research.checkpoint.com/2020/vulnerability-in-google-play-core-library-remains-unpatched-in-google-play-applications/| 
 
 
 # 安全维基 推荐
@@ -46,16 +46,16 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20201208T01:50:33Z | CVE-2020-4463 | IBM Maximo Asset Management is vulnerable to Information Disclosure via XXE Vulnerability (CVE-2020-4463) | https://github.com/Ibonok/CVE-2020-4463 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 17 MINUTES 09 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20201208T01:40:13Z | CVE-2020-8554 | [EMBARGO] CVE-2020-8554: Man in the middle using LoadBalancer or ExternalIPs | https://github.com/rancher/externalip-webhook | | 
-| 20201208T01:32:54Z | CVE-2020-8209 | 该脚本为Citrix XenMobile 目录遍历漏洞（CVE-2020-8209）批量检测脚本。 | https://github.com/B1anda0/CVE-2020-8209 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 17 MINUTES 15 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201208T01:50:33Z | CVE-2020-4463 | IBM Maximo Asset Management is vulnerable to Information Disclosure via XXE Vulnerability (CVE-2020-4463) | https://github.com/Ibonok/CVE-2020-4463 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 14 MINUTES 07 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201208T01:40:13Z | CVE-2020-8554 | [EMBARGO] CVE-2020-8554: Man in the middle using LoadBalancer or ExternalIPs | https://github.com/rancher/externalip-webhook | 未查询到CVE信息| 
+| 20201208T01:32:54Z | CVE-2020-8209 | 该脚本为Citrix XenMobile 目录遍历漏洞（CVE-2020-8209）批量检测脚本。 | https://github.com/B1anda0/CVE-2020-8209 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 14 MINUTES 14 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20201207T13:14:15Z | CVE-2020-27950 | CVE-2020-27950 exploit | https://github.com/synacktiv/CVE-2020-27950 | 未查询到CVE信息| 
 | 20201207T01:25:17Z | CVE-2020-14882 | Vulmap - Web漏洞扫描和验证工具，可对Web容器、Web服务器、Web中间件以及CMS等Web程序进行漏洞扫描，并且具备漏洞利用功能。 相关测试人员可以使用vulmap检测目标是否存在特定漏洞，并且可以使用漏洞利用功能验证漏洞是否真实存在。CVE-2020-14882, CVE-2020-2555, CVE-2020-2883 | https://github.com/zhzyker/vulmap | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
-| 20201207T00:12:24Z | CVE-2020-3992 | Python script to scan for enabled OpenSLP services | https://github.com/HynekPetrak/CVE-2019-5544_CVE-2020-3992 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 17 MINUTES 16 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201207T00:12:24Z | CVE-2020-3992 | Python script to scan for enabled OpenSLP services | https://github.com/HynekPetrak/CVE-2019-5544_CVE-2020-3992 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 14 MINUTES 15 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20201205T16:16:02Z | CVE-2020-14882 | CVE-2020-14882_ALL综合利用工具，支持命令回显检测、批量命令回显、外置xml无回显命令执行等功能。 | https://github.com/GGyao/CVE-2020-14882_ALL | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
-| 20201205T14:24:34Z | CVE-2020-23736 | dadajiasu | https://github.com/y5s5k5/CVE-2020-23736 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 17 MINUTES 04 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20201205T14:23:46Z | CVE-2020-23738 | Advanced SystemCare 13 PRO | https://github.com/y5s5k5/CVE-2020-23738 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 17 MINUTES 05 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20201205T14:23:27Z | CVE-2020-23741 | AnyView | https://github.com/y5s5k5/CVE-2020-23741 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 17 MINUTES 08 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201205T14:24:34Z | CVE-2020-23736 | dadajiasu | https://github.com/y5s5k5/CVE-2020-23736 | | 
+| 20201205T14:23:46Z | CVE-2020-23738 | Advanced SystemCare 13 PRO | https://github.com/y5s5k5/CVE-2020-23738 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 14 MINUTES 04 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201205T14:23:27Z | CVE-2020-23741 | AnyView | https://github.com/y5s5k5/CVE-2020-23741 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 14 MINUTES 06 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 
 
 # klee on Github 推荐
@@ -83,6 +83,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20201208T02:45:11Z | A general purpose memory allocator that implements an isolation security strategy to mitigate memory safety issues while maintaining good performance | https://github.com/struct/isoalloc | 125 | 9| 
 | 20201208T02:40:11Z | Null | https://github.com/0xturazzi/Um-Livrinho-Sobre-Exploit-Dev | 0 | 0| 
 | 20201208T02:20:37Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 8718 | 1376| 
 | 20201208T01:25:30Z | GEF - GDB Enhanced Features for exploit devs & reversers | https://github.com/hugsy/gef | 3295 | 477| 
@@ -92,7 +93,6 @@
 | 20201208T00:49:15Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 6 | 4| 
 | 20201208T00:23:26Z | Generate a post exploit script to download an arbitrary file using HTML5%s Blob object (https://developer.mozilla.org/en-US/docs/Web/API/Blob) | https://github.com/demetrius-ford/dbd | 1 | 0| 
 | 20201208T00:21:55Z | Formation about basics web applications security. How to exploit them and prevent from them. | https://github.com/fabremx/Web-security-formation | 0 | 0| 
-| 20201208T00:09:13Z | A high performance FortiGate SSL-VPN vulnerability scanning and exploitation tool. | https://github.com/anasbousselham/fortiscan | 72 | 20| 
 
 
 # backdoor on Github 推荐

@@ -12,6 +12,8 @@
 | 20201207 | Depix - 从截屏马赛克处理后的图片中还原原始密码 | https://github.com/beurtschipper/Depix| 
 | 20201207 | Windows：阻止本地系统用户的远程网络访问解决方案。 | http://woshub.com/blocking-remote-network-access-for-local-accounts/| 
 | 20201207 | WSMan-WinRM：通过利用WinRM执行远程命令。 | https://securityonline.info/wsman-winrm/| 
+| 20201207 | OpenTitan - Google 开源的硬件级 Root of Trust 项目 | https://security.googleblog.com/2020/12/opentitan-at-one-year-open-source.html?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+GoogleOnlineSecurityBlog+%28Google+Online+Security+Blog%29| 
+| 20201207 | Java反序列化过程中 RMI JRMP 以及JNDI多种利用方式详解 | http://blog.topsec.com.cn/java%e5%8f%8d%e5%ba%8f%e5%88%97%e5%8c%96%e8%bf%87%e7%a8%8b%e4%b8%ad-rmi-jrmp-%e4%bb%a5%e5%8f%8ajndi%e5%a4%9a%e7%a7%8d%e5%88%a9%e7%94%a8%e6%96%b9%e5%bc%8f%e8%af%a6%e8%a7%a3/| 
 
 
 # 安全维基 推荐
@@ -27,7 +29,7 @@
 | --- | --- | --- | --- | ---| 
 | 20201207T13:14:15Z | CVE-2020-27950 | CVE-2020-27950 exploit | https://github.com/synacktiv/CVE-2020-27950 | 未查询到CVE信息| 
 | 20201207T01:25:17Z | CVE-2020-14882 | Vulmap - Web漏洞扫描和验证工具，可对Web容器、Web服务器、Web中间件以及CMS等Web程序进行漏洞扫描，并且具备漏洞利用功能。 相关测试人员可以使用vulmap检测目标是否存在特定漏洞，并且可以使用漏洞利用功能验证漏洞是否真实存在。CVE-2020-14882, CVE-2020-2555, CVE-2020-2883 | https://github.com/zhzyker/vulmap | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
-| 20201207T00:12:24Z | CVE-2020-3992 | Python script to scan for enabled OpenSLP services | https://github.com/HynekPetrak/CVE-2019-5544_CVE-2020-3992 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 17 MINUTES 16 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201207T00:12:24Z | CVE-2020-3992 | Python script to scan for enabled OpenSLP services | https://github.com/HynekPetrak/CVE-2019-5544_CVE-2020-3992 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 14 MINUTES 15 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 
 
 # klee on Github 推荐
