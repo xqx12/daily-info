@@ -54,10 +54,10 @@
 | 20201207T22:23:37Z | exploit idk what cve i didnt note it but who cares have fun | https://github.com/horrorh/OSMTPD-Exploit | 0 | 0| 
 | 20201207T22:18:44Z | Null | https://github.com/sheenieboy/ExploiterChat | 1 | 0| 
 | 20201207T21:53:53Z | DarkWare is a roblox exploit hub. | https://github.com/Yarik312/DarkWare | 1 | 0| 
-| 20201207T20:35:14Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 8719 | 1376| 
 | 20201207T20:30:23Z | TryHackMe CTFs writeups, notes, dratfs, scrabbles, files and solutions. | https://github.com/edoardottt/tryhackme-ctf | 3 | 2| 
 | 20201207T20:26:03Z | searches for the default config of mailman on cloudlinux/cpanel servers, to relay the server IP, also looks for config files left over, that may Contain usernames and passwords ETC.   | https://github.com/Proxysec/cloudssp | 4 | 3| 
 | 20201207T20:09:51Z | Null | https://github.com/caddickzac/Motivated-Reasoning-in-a-Causal-Explore-Exploit-Task | 0 | 0| 
+| 20201207T19:56:21Z | [SPOILER ALERT] Tools, notes and custom exploits | https://github.com/limitedeternity/HackTheBox | 0 | 0| 
 
 
 # backdoor on Github 推荐
@@ -78,7 +78,6 @@
 | --- | --- | --- | --- | ---| 
 | 20201207T23:58:13Z | Scalable fuzzing infrastructure. | https://github.com/google/clusterfuzz | 4386 | 402| 
 | 20201207T23:47:22Z | Null | https://github.com/noloerino/eye-fuzz | 0 | 0| 
-| 20201207T23:01:43Z | OSS-Fuzz - continuous fuzzing of open source software. | https://github.com/google/oss-fuzz | 5708 | 1130| 
 | 20201207T23:00:04Z | CS4047 Computional Intelligence | https://github.com/GeorgeVelikov/FuzzyLogicSystem | 0 | 0| 
 | 20201207T22:55:16Z | Null | https://github.com/sebtoscano/APi-Fuzzer | 0 | 0| 
 | 20201207T22:16:56Z | A cross-platform browser fuzzing framework | https://github.com/MozillaSecurity/grizzly | 219 | 29| 
@@ -86,6 +85,7 @@
 | 20201207T22:11:42Z | Null | https://github.com/stochfuzz/Stoch-Fuzz | 0 | 0| 
 | 20201207T22:07:43Z | 🔎 Fuzzy search EC2 instances to SSH into them | https://github.com/DavidWittman/ec2-fuzzy | 1 | 0| 
 | 20201207T22:02:14Z | A python script to enumerate and attempt to get code execution from LFI vulnerabilities | https://github.com/watchdog2000/lfi-fuzz | 3 | 0| 
+| 20201207T22:01:50Z | Experimental projects | https://github.com/tannmatter/fuzzy-happiness | 0 | 0| 
 
 
 
