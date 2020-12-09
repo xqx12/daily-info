@@ -77,7 +77,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20201209T13:02:10Z | C++ Backdoor/Spyware for Windows (ONLY FOR EDUCATIONAL PURPOSES) | https://github.com/ferdinandkedef/Spyware | 0 | 0| 
+| 20201209T13:02:44Z | C++ Backdoor/Spyware for Windows (ONLY FOR EDUCATIONAL PURPOSES) | https://github.com/ferdinandkedef/Spyware | 0 | 0| 
 | 20201209T08:48:27Z | Null | https://github.com/cirrrr/backdoor-keyword-identification | 0 | 0| 
 | 20201209T05:27:58Z | Remote Access Trojan (RAT) backdoor exploit generator and server project. *Educational purposes only | https://github.com/fordlarman/J0n3sy_Cat | 0 | 0| 
 | 20201209T05:08:22Z | TCP Command Execution | https://github.com/gregl83/comandare | 0 | 0| 
@@ -88,12 +88,12 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20201209T13:03:55Z | Null | https://github.com/Loptt/fuzzy-controller | 0 | 0| 
 | 20201209T12:52:13Z | 📨 Email template generator. Making emails fun again. | https://github.com/luangjokaj/fuzzymail | 108 | 3| 
 | 20201209T12:43:43Z | Advanced_Cryptography_Fuzzing | https://github.com/haiclover/Advanced_Cryptography_Fuzzing | 0 | 0| 
 | 20201209T12:39:23Z | I use this repository to share my experiments using different fuzzing and symbolic execution tools. | https://github.com/break2make/fuzzing-tutorial | 1 | 0| 
 | 20201209T12:34:53Z | Null | https://github.com/fuzzy95/fuzzy95 | 0 | 0| 
 | 20201209T12:30:06Z | The Description of the project you can watch my blog | https://github.com/AltarIbnL/Multi-keyword-fuzzy-searchable-encryption | 1 | 0| 
-| 20201209T12:21:53Z | Null | https://github.com/Loptt/fuzzy-controller | 0 | 0| 
 | 20201209T12:18:34Z | A portal for tech savvy people | https://github.com/nkgawade/FuzzBrain | 0 | 0| 
 | 20201209T12:18:14Z | Null | https://github.com/duytai/rust-fuzzer | 0 | 0| 
 | 20201209T12:09:21Z | Null | https://github.com/Smoothini/fuzzy-winner | 0 | 0| 
