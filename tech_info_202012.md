@@ -46,14 +46,14 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20201209T01:35:18Z | CVE-2020-17530 | Apache Struts2框架是一个用于开发Java EE网络应用程序的Web框架。Apache Struts于2020年12月08日披露 S2-061 Struts 远程代码执行漏洞（CVE-2020-17530），在使用某些tag等情况下可能存在OGNL表达式注入漏洞，从而造成远程代码执行，风险极大。提醒我校Apache Struts用户尽快采取安全措施阻止漏洞攻击。 | https://github.com/pangyu360es/CVE-2020-17530 | | 
+| 20201209T01:35:18Z | CVE-2020-17530 | Apache Struts2框架是一个用于开发Java EE网络应用程序的Web框架。Apache Struts于2020年12月08日披露 S2-061 Struts 远程代码执行漏洞（CVE-2020-17530），在使用某些tag等情况下可能存在OGNL表达式注入漏洞，从而造成远程代码执行，风险极大。提醒我校Apache Struts用户尽快采取安全措施阻止漏洞攻击。 | https://github.com/pangyu360es/CVE-2020-17530 | 未查询到CVE信息| 
 | 20201209T01:11:17Z | CVE-2020-17530 | hack，poc | https://github.com/phil-fly/CVE-2020-17530 | 未查询到CVE信息| 
 | 20201209T00:42:59Z | CVE-2020-17530 | Null | https://github.com/ciakim/CVE-2020-17530 | 未查询到CVE信息| 
-| 20201209T00:41:32Z | CVE-2020-8209 | 该脚本为Citrix XenMobile 目录遍历漏洞（CVE-2020-8209）批量检测脚本。 | https://github.com/B1anda0/CVE-2020-8209 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 45 MINUTES 28 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201209T00:41:32Z | CVE-2020-8209 | 该脚本为Citrix XenMobile 目录遍历漏洞（CVE-2020-8209）批量检测脚本。 | https://github.com/B1anda0/CVE-2020-8209 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 44 MINUTES 26 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20201208T21:45:57Z | CVE-2020-8554 | [EMBARGO] CVE-2020-8554: Man in the middle using LoadBalancer or ExternalIPs | https://github.com/rancher/externalip-webhook | 未查询到CVE信息| 
-| 20201208T20:05:29Z | CVE-2020-0796 | CVE-2020-0796 - Windows SMBv3 LPE exploit #SMBGhost | https://github.com/danigargu/CVE-2020-0796 | | 
-| 20201208T19:07:05Z | CVE-2020-4463 | IBM Maximo Asset Management is vulnerable to Information Disclosure via XXE Vulnerability (CVE-2020-4463) | https://github.com/Ibonok/CVE-2020-4463 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 45 MINUTES 22 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20201208T15:39:27Z | CVE-2020-0796 | Ladon Scanner For Python, Large Network Penetration Scanner & Cobalt Strike, vulnerability / exploit / detection / MS17010/SmbGhost/CVE-2020-0796/CVE-2018-2894 | https://github.com/k8gege/PyLadon | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 45 MINUTES 18 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201208T20:05:29Z | CVE-2020-0796 | CVE-2020-0796 - Windows SMBv3 LPE exploit #SMBGhost | https://github.com/danigargu/CVE-2020-0796 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 44 MINUTES 16 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201208T19:07:05Z | CVE-2020-4463 | IBM Maximo Asset Management is vulnerable to Information Disclosure via XXE Vulnerability (CVE-2020-4463) | https://github.com/Ibonok/CVE-2020-4463 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 44 MINUTES 20 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201208T15:39:27Z | CVE-2020-0796 | Ladon Scanner For Python, Large Network Penetration Scanner & Cobalt Strike, vulnerability / exploit / detection / MS17010/SmbGhost/CVE-2020-0796/CVE-2018-2894 | https://github.com/k8gege/PyLadon | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 44 MINUTES 15 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20201208T15:27:50Z | CVE-2020-5248 | Proof of Concept (PoC) for CVE-2020-5248. | https://github.com/indevi0us/CVE-2020-5248 | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
 | 20201208T15:21:46Z | CVE-2020-17530 | Apache Struts2框架是一个用于开发Java EE网络应用程序的Web框架。Apache Struts于2020年12月08日披露 S2-061 Struts 远程代码执行漏洞（CVE-2020-17530），在使用某些tag等情况下可能存在OGNL表达式注入漏洞，从而造成远程代码执行，风险极大。提醒我校Apache Struts用户尽快采取安全措施阻止漏洞攻击。 | https://github.com/shuai06/CVE-2020-17530 | 未查询到CVE信息| 
 
@@ -83,8 +83,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20201209T02:15:16Z | Free nitro exploit - for slower computers it will run far slower, but it should still work successfully. To use it, open discord on browser/app and open console through ctrl+shift+j. Then paste the code in and run by pressing enter. You should see the effects immediately. Good Luck! | https://github.com/0xff2f/NitroExploit | 0 | 0| 
 | 20201209T02:14:58Z | my paper notes of exploit/fuzz/malware and other interesting research  | https://github.com/noobone123/mySecPaperNotes | 0 | 0| 
-| 20201209T02:14:05Z | Free nitro exploit - for slower computers it will run far slower, but it should still work successfully. To use it, open discord on browser/app and open console through ctrl+shift+j. Then paste the code in and run by pressing enter. You should see the effects immediately. Good Luck! | https://github.com/0xff2f/NitroExploit | 0 | 0| 
 | 20201209T02:08:08Z | This repository contains the source of %ARM Binary Exploitaiton% book. | https://github.com/cpuu/arm_exploitation | 1 | 0| 
 | 20201209T02:05:50Z | GEF - GDB Enhanced Features for exploit devs & reversers | https://github.com/hugsy/gef | 3300 | 478| 
 | 20201209T01:58:52Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 3240 | 494| 
