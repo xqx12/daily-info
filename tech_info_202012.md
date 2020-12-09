@@ -83,7 +83,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20201209T13:51:24Z | the s2-061 exploit code | https://github.com/potats0/s2-061 | 0 | 0| 
+| 20201209T13:52:03Z | the s2-061 exploit code | https://github.com/potats0/s2-061 | 1 | 0| 
 | 20201209T13:46:35Z | Code related to a wider project in which the stroboscopic map is exploited in the analysis of a time-periodic dependent dynamical system. | https://github.com/FMagnani/Stroboscopic_Map_Example | 0 | 0| 
 | 20201209T12:37:31Z | Python2 based Bufferoverflow scripts i developed while doing the Vulnhub box Netsart by Foxlox  | https://github.com/F-Masood/ExploitingBufferOverflows | 0 | 0| 
 | 20201209T12:28:33Z | This bash script will help you to hack remote hosts  | https://github.com/FabioDefilippo/linuxallremote | 1 | 0| 
