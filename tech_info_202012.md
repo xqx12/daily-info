@@ -49,11 +49,11 @@
 | 20201209T01:35:18Z | CVE-2020-17530 | Apache Struts2框架是一个用于开发Java EE网络应用程序的Web框架。Apache Struts于2020年12月08日披露 S2-061 Struts 远程代码执行漏洞（CVE-2020-17530），在使用某些tag等情况下可能存在OGNL表达式注入漏洞，从而造成远程代码执行，风险极大。提醒我校Apache Struts用户尽快采取安全措施阻止漏洞攻击。 | https://github.com/pangyu360es/CVE-2020-17530 | 未查询到CVE信息| 
 | 20201209T01:11:17Z | CVE-2020-17530 | hack，poc | https://github.com/phil-fly/CVE-2020-17530 | 未查询到CVE信息| 
 | 20201209T00:42:59Z | CVE-2020-17530 | Null | https://github.com/ciakim/CVE-2020-17530 | 未查询到CVE信息| 
-| 20201209T00:41:32Z | CVE-2020-8209 | 该脚本为Citrix XenMobile 目录遍历漏洞（CVE-2020-8209）批量检测脚本。 | https://github.com/B1anda0/CVE-2020-8209 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 59 MINUTES 25 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20201208T21:45:57Z | CVE-2020-8554 | [EMBARGO] CVE-2020-8554: Man in the middle using LoadBalancer or ExternalIPs | https://github.com/rancher/externalip-webhook | 未查询到CVE信息| 
-| 20201208T20:05:29Z | CVE-2020-0796 | CVE-2020-0796 - Windows SMBv3 LPE exploit #SMBGhost | https://github.com/danigargu/CVE-2020-0796 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 59 MINUTES 15 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20201208T19:07:05Z | CVE-2020-4463 | IBM Maximo Asset Management is vulnerable to Information Disclosure via XXE Vulnerability (CVE-2020-4463) | https://github.com/Ibonok/CVE-2020-4463 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 59 MINUTES 18 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20201208T15:39:27Z | CVE-2020-0796 | Ladon Scanner For Python, Large Network Penetration Scanner & Cobalt Strike, vulnerability / exploit / detection / MS17010/SmbGhost/CVE-2020-0796/CVE-2018-2894 | https://github.com/k8gege/PyLadon | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 59 MINUTES 14 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201209T00:41:32Z | CVE-2020-8209 | 该脚本为Citrix XenMobile 目录遍历漏洞（CVE-2020-8209）批量检测脚本。 | https://github.com/B1anda0/CVE-2020-8209 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 58 MINUTES 26 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201208T21:45:57Z | CVE-2020-8554 | [EMBARGO] CVE-2020-8554: Man in the middle using LoadBalancer or ExternalIPs | https://github.com/rancher/externalip-webhook | | 
+| 20201208T20:05:29Z | CVE-2020-0796 | CVE-2020-0796 - Windows SMBv3 LPE exploit #SMBGhost | https://github.com/danigargu/CVE-2020-0796 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 58 MINUTES 16 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201208T19:07:05Z | CVE-2020-4463 | IBM Maximo Asset Management is vulnerable to Information Disclosure via XXE Vulnerability (CVE-2020-4463) | https://github.com/Ibonok/CVE-2020-4463 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 58 MINUTES 20 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201208T15:39:27Z | CVE-2020-0796 | Ladon Scanner For Python, Large Network Penetration Scanner & Cobalt Strike, vulnerability / exploit / detection / MS17010/SmbGhost/CVE-2020-0796/CVE-2018-2894 | https://github.com/k8gege/PyLadon | | 
 | 20201208T15:27:50Z | CVE-2020-5248 | Proof of Concept (PoC) for CVE-2020-5248. | https://github.com/indevi0us/CVE-2020-5248 | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
 | 20201208T15:21:46Z | CVE-2020-17530 | Apache Struts2框架是一个用于开发Java EE网络应用程序的Web框架。Apache Struts于2020年12月08日披露 S2-061 Struts 远程代码执行漏洞（CVE-2020-17530），在使用某些tag等情况下可能存在OGNL表达式注入漏洞，从而造成远程代码执行，风险极大。提醒我校Apache Struts用户尽快采取安全措施阻止漏洞攻击。 | https://github.com/shuai06/CVE-2020-17530 | 未查询到CVE信息| 
 
@@ -113,6 +113,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20201209T02:01:47Z | Fuzzy Logic Toolbox Matlab Homework | https://github.com/makaryb/FuzzyLogicMatlabHomework | 0 | 0| 
 | 20201209T01:58:19Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 1082 | 242| 
 | 20201209T01:49:48Z | A minimal ruby gem to allow fuzzing native ruby code with afl. | https://github.com/richo/afl-ruby | 16 | 5| 
 | 20201209T00:46:59Z | Fuzzy matching publications for fatcat (wip). | https://github.com/miku/fuzzycat | 0 | 1| 
@@ -122,7 +123,6 @@
 | 20201208T23:57:49Z | Code created within scope of ECE 552 for the final project | https://github.com/mikebowyer/ECE552_FuzzySecurityCamera | 0 | 0| 
 | 20201208T23:57:28Z | Scalable fuzzing infrastructure. | https://github.com/google/clusterfuzz | 4386 | 402| 
 | 20201208T23:48:45Z | A fast web fuzzer written in Perl | https://github.com/LvMalware/webfuzzer | 1 | 0| 
-| 20201208T23:32:47Z | REST API Fuzz Testing (RAFT): Source code for self-hosted service developed for Azure, including the API, orchestration engine, and default set of security tools (including MSR%s RESTler), that enables developers to embed security tooling into their CI/CD workflows | https://github.com/microsoft/rest-api-fuzz-testing | 79 | 10| 
 
 
 
