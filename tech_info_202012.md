@@ -47,15 +47,15 @@
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
 | 20201209T13:27:08Z | CVE-2020-17530 | Null | https://github.com/ka1n4t/CVE-2020-17530 | 未查询到CVE信息| 
-| 20201209T13:01:55Z | CVE-2020-9038 | Null | https://github.com/ossf-cve-benchmark/CVE-2020-9038 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 12 MINUTES 23 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20201209T13:01:54Z | CVE-2020-8244 | Null | https://github.com/ossf-cve-benchmark/CVE-2020-8244 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 12 MINUTES 25 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20201209T13:01:54Z | CVE-2020-8205 | Null | https://github.com/ossf-cve-benchmark/CVE-2020-8205 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 12 MINUTES 19 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20201209T13:01:51Z | CVE-2020-8135 | Null | https://github.com/ossf-cve-benchmark/CVE-2020-8135 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 12 MINUTES 18 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20201209T13:01:49Z | CVE-2020-7763 | Null | https://github.com/ossf-cve-benchmark/CVE-2020-7763 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 12 MINUTES 25 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20201209T13:01:48Z | CVE-2020-7750 | Null | https://github.com/ossf-cve-benchmark/CVE-2020-7750 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 12 MINUTES 24 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20201209T13:01:48Z | CVE-2020-7752 | Null | https://github.com/ossf-cve-benchmark/CVE-2020-7752 | | 
-| 20201209T13:01:43Z | CVE-2020-7656 | Null | https://github.com/ossf-cve-benchmark/CVE-2020-7656 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 12 MINUTES 17 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20201209T13:01:38Z | CVE-2020-4066 | Null | https://github.com/ossf-cve-benchmark/CVE-2020-4066 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 12 MINUTES 15 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201209T13:01:55Z | CVE-2020-9038 | Null | https://github.com/ossf-cve-benchmark/CVE-2020-9038 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 11 MINUTES 13 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201209T13:01:54Z | CVE-2020-8244 | Null | https://github.com/ossf-cve-benchmark/CVE-2020-8244 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 11 MINUTES 16 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201209T13:01:54Z | CVE-2020-8205 | Null | https://github.com/ossf-cve-benchmark/CVE-2020-8205 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 11 MINUTES 10 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201209T13:01:51Z | CVE-2020-8135 | Null | https://github.com/ossf-cve-benchmark/CVE-2020-8135 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 11 MINUTES 08 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201209T13:01:49Z | CVE-2020-7763 | Null | https://github.com/ossf-cve-benchmark/CVE-2020-7763 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 11 MINUTES 16 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201209T13:01:48Z | CVE-2020-7750 | Null | https://github.com/ossf-cve-benchmark/CVE-2020-7750 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 11 MINUTES 14 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201209T13:01:48Z | CVE-2020-7752 | Null | https://github.com/ossf-cve-benchmark/CVE-2020-7752 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 11 MINUTES 05 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201209T13:01:43Z | CVE-2020-7656 | Null | https://github.com/ossf-cve-benchmark/CVE-2020-7656 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 11 MINUTES 07 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201209T13:01:38Z | CVE-2020-4066 | Null | https://github.com/ossf-cve-benchmark/CVE-2020-4066 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 11 MINUTES 06 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 
 
 # klee on Github 推荐
@@ -83,7 +83,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20201209T13:16:57Z | Code related to a wider project in which the stroboscopic map is exploited in the analysis of a time-periodic dependent dynamical system. | https://github.com/FMagnani/Stroboscopic_Map_Example | 0 | 0| 
+| 20201209T13:46:35Z | Code related to a wider project in which the stroboscopic map is exploited in the analysis of a time-periodic dependent dynamical system. | https://github.com/FMagnani/Stroboscopic_Map_Example | 0 | 0| 
 | 20201209T12:37:31Z | Python2 based Bufferoverflow scripts i developed while doing the Vulnhub box Netsart by Foxlox  | https://github.com/F-Masood/ExploitingBufferOverflows | 0 | 0| 
 | 20201209T12:28:33Z | This bash script will help you to hack remote hosts  | https://github.com/FabioDefilippo/linuxallremote | 1 | 0| 
 | 20201209T12:08:23Z | Null | https://github.com/fengyue402/mall-exploit | 0 | 0| 
@@ -113,6 +113,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20201209T13:48:57Z | Packer Fuzzer is a fast and efficient scanner for security detection of websites constructed by javascript module bundler such as Webpack.  | https://github.com/rtcatc/Packer-Fuzzer | 508 | 56| 
 | 20201209T13:46:55Z | Fuzzer for Pharo | https://github.com/mabdi/phazzer | 0 | 0| 
 | 20201209T13:36:34Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 1093 | 242| 
 | 20201209T13:26:25Z | 该项目用于收集Web安全测试中常用的fuzz字典 | https://github.com/bigblackhat/WebFuzzList | 0 | 0| 
@@ -122,7 +123,6 @@
 | 20201209T13:05:17Z | Null | https://github.com/ethereum/solidity-fuzzing-corpus | 10 | 4| 
 | 20201209T13:03:55Z | Null | https://github.com/Loptt/fuzzy-controller | 0 | 0| 
 | 20201209T12:52:13Z | 📨 Email template generator. Making emails fun again. | https://github.com/luangjokaj/fuzzymail | 108 | 3| 
-| 20201209T12:43:43Z | Advanced_Cryptography_Fuzzing | https://github.com/haiclover/Advanced_Cryptography_Fuzzing | 0 | 0| 
 
 
 
