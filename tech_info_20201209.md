@@ -75,6 +75,11 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20201209T13:02:10Z | C++ Backdoor/Spyware for Windows (ONLY FOR EDUCATIONAL PURPOSES) | https://github.com/ferdinandkedef/Spyware | 0 | 0| 
+| 20201209T08:48:27Z | Null | https://github.com/cirrrr/backdoor-keyword-identification | 0 | 0| 
+| 20201209T05:27:58Z | Remote Access Trojan (RAT) backdoor exploit generator and server project. *Educational purposes only | https://github.com/fordlarman/J0n3sy_Cat | 0 | 0| 
+| 20201209T05:08:22Z | TCP Command Execution | https://github.com/gregl83/comandare | 0 | 0| 
+| 20201209T03:30:15Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 126 | 17| 
 | 20201209T02:47:12Z | Tool to find potential backdoor/security holes in your endpoint | https://github.com/subasgit/backdoorfinder | 1 | 0| 
 
 
