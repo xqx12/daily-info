@@ -17,6 +17,8 @@
 | 20201209 | Using Speakeasy Emulation Framework Programmatically to Unpack Malware | https://www.fireeye.com/blog/threat-research/2020/12/using-speakeasy-emulation-framework-programmatically-to-unpack-malware.html| 
 | 20201209 | Spring 全家桶各类 RCE 漏洞浅析 | https://sec.today/pulses/fc7ce677-0c41-492f-bd1c-95cb8c46ec7d/| 
 | 20201209 | Spring 全家桶各类 RCE 漏洞浅析 | https://paper.seebug.org/1422/| 
+| 20201209 | 通过对IPv6协议进行数据泄漏测试研究。 | https://www.stratosphereips.org/blog/2020/10/16/data-exfiltration-via-ipv6| 
+| 20201209 | 美国国家安全局（NSA）近期发出安全警告，俄罗斯黑客利用VMware漏洞攻击公司网络安全威胁。 | https://thehackernews.com/2020/12/nsa-warns-russian-hacker-exploiting.html?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+TheHackersNews+%28The+Hackers+News+-+Cyber+Security+Blog%29| 
 
 
 # 安全维基 推荐
@@ -35,21 +37,22 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20201209T13:27:08Z | CVE-2020-17530 | Null | https://github.com/ka1n4t/CVE-2020-17530 | 未查询到CVE信息| 
-| 20201209T13:01:55Z | CVE-2020-9038 | Null | https://github.com/ossf-cve-benchmark/CVE-2020-9038 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 00 MINUTES 21 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20201209T13:01:54Z | CVE-2020-8244 | Null | https://github.com/ossf-cve-benchmark/CVE-2020-8244 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 00 MINUTES 23 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20201209T13:01:54Z | CVE-2020-8205 | Null | https://github.com/ossf-cve-benchmark/CVE-2020-8205 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 00 MINUTES 17 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20201209T13:01:51Z | CVE-2020-8135 | Null | https://github.com/ossf-cve-benchmark/CVE-2020-8135 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 00 MINUTES 16 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20201209T13:01:49Z | CVE-2020-7763 | Null | https://github.com/ossf-cve-benchmark/CVE-2020-7763 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 00 MINUTES 24 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20201209T13:01:48Z | CVE-2020-7750 | Null | https://github.com/ossf-cve-benchmark/CVE-2020-7750 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 00 MINUTES 22 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201209T22:54:51Z | CVE-2020-26256 | Null | https://github.com/ossf-cve-benchmark/CVE-2020-26256 | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
+| 20201209T21:09:18Z | CVE-2020-17530 | Null | https://github.com/ka1n4t/CVE-2020-17530 | 未查询到CVE信息| 
+| 20201209T13:01:55Z | CVE-2020-9038 | Null | https://github.com/ossf-cve-benchmark/CVE-2020-9038 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 59 MINUTES 14 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201209T13:01:54Z | CVE-2020-8244 | Null | https://github.com/ossf-cve-benchmark/CVE-2020-8244 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 59 MINUTES 16 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201209T13:01:54Z | CVE-2020-8205 | Null | https://github.com/ossf-cve-benchmark/CVE-2020-8205 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 59 MINUTES 10 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201209T13:01:51Z | CVE-2020-8135 | Null | https://github.com/ossf-cve-benchmark/CVE-2020-8135 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 59 MINUTES 09 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201209T13:01:49Z | CVE-2020-7763 | Null | https://github.com/ossf-cve-benchmark/CVE-2020-7763 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 59 MINUTES 17 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20201209T13:01:48Z | CVE-2020-7752 | Null | https://github.com/ossf-cve-benchmark/CVE-2020-7752 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 00 MINUTES 13 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201209T13:01:48Z | CVE-2020-7750 | Null | https://github.com/ossf-cve-benchmark/CVE-2020-7750 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 59 MINUTES 15 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20201209T13:01:43Z | CVE-2020-7656 | Null | https://github.com/ossf-cve-benchmark/CVE-2020-7656 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 00 MINUTES 15 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20201209T13:01:38Z | CVE-2020-4066 | Null | https://github.com/ossf-cve-benchmark/CVE-2020-4066 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 00 MINUTES 14 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20201209T14:58:54Z | Null | https://github.com/markhakansson/klee-tutorial | 0 | 0| 
 | 20201209T13:59:46Z | Null | https://github.com/viktorfrom/klee_tutorial | 0 | 0| 
 | 20201209T05:51:14Z | Website for the KLEE project: https://klee.github.io/ | https://github.com/klee/klee.github.io | 14 | 42| 
 
@@ -78,7 +81,9 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20201209T13:44:00Z | C++ Backdoor/Spyware for Windows (ONLY FOR EDUCATIONAL PURPOSES) | https://github.com/ferdinandlb/WindowsBackdoor | 0 | 0| 
+| 20201209T22:29:00Z | Null | https://github.com/wcenatus/node-backdoor | 0 | 0| 
+| 20201209T21:39:24Z | C++ Backdoor/Spyware for Windows (ONLY FOR EDUCATIONAL PURPOSES) | https://github.com/ferdinandlb/WindowsBackdoor | 2 | 0| 
+| 20201209T15:07:43Z | Null | https://github.com/WildfootW/VSFTPD_v2.3.4_Backdoor | 0 | 0| 
 | 20201209T13:26:59Z | C++ Backdoor/Spyware for Windows (ONLY FOR EDUCATIONAL PURPOSES) | https://github.com/ferdinandkedef/WindowsBackdoor | 1 | 0| 
 | 20201209T13:19:48Z | C++ Backdoor/Spyware for Windows (ONLY FOR EDUCATIONAL PURPOSES) | https://github.com/ferdinandkedef/Spyware | 0 | 0| 
 | 20201209T08:48:27Z | Null | https://github.com/cirrrr/backdoor-keyword-identification | 0 | 0| 
@@ -91,16 +96,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20201209T13:56:16Z | Fuzzer for Pharo | https://github.com/mabdi/phazzer | 0 | 0| 
-| 20201209T13:51:24Z | CS4047 Computional Intelligence | https://github.com/GeorgeVelikov/FuzzyRuleBasedSystem | 0 | 0| 
-| 20201209T13:48:57Z | Packer Fuzzer is a fast and efficient scanner for security detection of websites constructed by javascript module bundler such as Webpack.  | https://github.com/rtcatc/Packer-Fuzzer | 508 | 56| 
-| 20201209T13:36:34Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 1093 | 242| 
-| 20201209T13:26:25Z | 该项目用于收集Web安全测试中常用的fuzz字典 | https://github.com/bigblackhat/WebFuzzList | 0 | 0| 
-| 20201209T13:20:44Z | gitmoji selector on fzf | https://github.com/ShotaroKataoka/Fuzzy-Git-Operator | 2 | 0| 
-| 20201209T13:10:24Z | Fuzzy matching publications for fatcat (wip). | https://github.com/miku/fuzzycat | 0 | 1| 
-| 20201209T13:05:17Z | Null | https://github.com/ethereum/solidity-fuzzing-corpus | 10 | 4| 
-| 20201209T13:03:55Z | Null | https://github.com/Loptt/fuzzy-controller | 0 | 0| 
-| 20201209T12:52:13Z | 📨 Email template generator. Making emails fun again. | https://github.com/luangjokaj/fuzzymail | 108 | 3| 
+| 20201209T23:27:10Z | Software for fuzzing, used on web application pentestings. | https://github.com/NESCAU-UFLA/FuzzingTool | 0 | 0| 
+| 20201209T23:26:09Z | Null | https://github.com/hide-soft/fuzzy-octo-bassoon | 0 | 0| 
+| 20201209T22:54:24Z | Null | https://github.com/Fuzzwah/simhub-dash-fuzzwah-v2 | 1 | 1| 
+| 20201209T22:52:10Z | Epub source for the Standard Ebooks edition of Little Fuzzy, by H. Beam Piper | https://github.com/standardebooks/h-beam-piper_little-fuzzy | 1 | 2| 
+| 20201209T22:34:33Z | Personal website of Laurence Hughes | https://github.com/fuzzylogicxx/fuzzylogic | 4 | 1| 
+| 20201209T22:26:29Z | Experimental projects | https://github.com/tannmatter/fuzzy-happiness | 0 | 0| 
+| 20201209T22:14:10Z | Esta é uma estrutura simples para fuzzing em python | https://github.com/BlackCyber21/Fuzzing | 0 | 0| 
+| 20201209T22:11:43Z | Null | https://github.com/stefanosPap/Fuzzy-Systems | 0 | 0| 
+| 20201209T21:56:29Z | Simple tool to rename source files by matching a list of choices. | https://github.com/pcjco/PyFuzzy-renamer | 0 | 0| 
+| 20201209T21:26:08Z | A ground-truth binary fuzzing benchmark suite based on real programs with real bugs. | https://github.com/HexHive/magma | 70 | 23| 
 
 
 
