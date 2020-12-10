@@ -6,6 +6,13 @@
 # 玄武实验室 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20201210 | No Hat 2020 - Filippo Cremonese - CRISPR - Binary Editing with High Level Languages | https://www.youtube.com/watch?v=lLfxFVKzxwQ| 
+| 20201210 | 研究员 Gal Zaban 关于 Linux 内核驱动安全研究的议题 Linux Kernel Adventures: Reversing and Exploiting a Linux Driver | https://media.handmade-seattle.com/linux-kernel-adventures/| 
+| 20201210 | 玄武实验室研究员在 BlackHat Europe 2020 会议的演讲 “Shield with Hole: New Security Mitigation Helps Us Escape Chrome Sandbox to Exfiltrate User Privacy” | https://i.blackhat.com/eu-20/Wednesday/eu-20-Wang-Shield-With-Hole-New-Security-Mitigation-Helps-Us-Escape-Chrome-Sandbox-To-Exfiltrate-User-Privacy.pdf| 
+| 20201210 | 来自玄武实验室研究员在 BlackHat Europe 2020 会议的演讲 “Finding Bugs Compiler Knows but Doesnt Tell You: Dissecting Undefined Behavior Optimizations in LLVM” | https://i.blackhat.com/eu-20/Wednesday/eu-20-Wu-Finding-Bugs-Compiler-Knows-But-Does-Not-Tell-You-Dissecting-Undefined-Behavior-Optimizations-In-LLVM.pdf| 
+| 20201210 | Pwine Award Winners 2020 评选的结果出来了 | https://pwnies.com/winners/| 
+| 20201210 | FireEye 发文称有国家级攻击团队窃取了 FireEye 的 Red Team Tools | https://www.fireeye.com/blog/threat-research/2020/12/unauthorized-access-of-fireeye-red-team-tools.html| 
+| 20201210 | 系统管理工具 PsExec 本地 SYSTEM 提权漏洞分析 | https://medium.com/tenable-techblog/psexec-local-privilege-escalation-2e8069adc9c8| 
 | 20201209 | 微软发布 Windows 12 月份漏洞补丁更新 | https://msrc.microsoft.com/update-guide/releaseNote/2020-Nov| 
 | 20201209 | Brownie - A Platform to Rapidly Prototype and Weaponise DLL Hijacks | https://github.com/slaeryan/AQUARMOURY/tree/master/Brownie| 
 | 20201209 | Android 本月补丁修复 Wi-Fi 组件高危漏洞 | https://threatpost.com/google-patches-critical-wi-fi-and-audio-bugs-in-android-handsets/162060/| 
@@ -19,18 +26,14 @@
 | 20201209 | Spring 全家桶各类 RCE 漏洞浅析 | https://paper.seebug.org/1422/| 
 | 20201209 | 通过对IPv6协议进行数据泄漏测试研究。 | https://www.stratosphereips.org/blog/2020/10/16/data-exfiltration-via-ipv6| 
 | 20201209 | 美国国家安全局（NSA）近期发出安全警告，俄罗斯黑客利用VMware漏洞攻击公司网络安全威胁。 | https://thehackernews.com/2020/12/nsa-warns-russian-hacker-exploiting.html?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+TheHackersNews+%28The+Hackers+News+-+Cyber+Security+Blog%29| 
-| 20201209 | How the Atheris Python Fuzzer Works | https://security.googleblog.com/2020/12/how-atheris-python-fuzzer-works.html?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+GoogleOnlineSecurityBlog+%28Google+Online+Security+Blog%29| 
-| 20201208 | Deep Dive into an Obfuscation-as-a-Service for Android Malware | https://www.stratosphereips.org/blog/2020/12/03/deep-dive-into-an-obfuscation-as-a-service-for-android-malware| 
-| 20201208 | Software security paper list | https://github.com/AdaLogics/software-security-paper-list| 
-| 20201208 | IoT 领域 IPv6 安全现状报告 | https://static1.squarespace.com/static/5a01100f692ebe0459a1859f/t/5fa2ba52a81b683350465a2f/1604500058182/White_Paper__Current_State_of_IPv6_Security_in_IoT.pdf| 
-| 20201208 | Microsoft Teams 无交互、跨平台、具有蠕虫能力的 RCE 漏洞分析 | https://github.com/oskarsve/ms-teams-rce/blob/main/README.md| 
-| 20201208 | 据 NSA 报告，俄罗斯政府背景的组织利用 VMware Workspace One Access 产品漏洞攻击目标 | https://www.nsa.gov/News-Features/Feature-Stories/Article-View/Article/2434988/russian-state-sponsored-malicious-cyber-actors-exploit-known-vulnerability-in-v/| 
-| 20201208 | SepctorOps 关于杀软检测逃逸的文章 《Adventures in Dynamic Evasion》 | http://posts.specterops.io/adventures-in-dynamic-evasion-1fe0bac57aa| 
 
 
 # 安全维基 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20201210 | 月饼计划之XSS | https://www.sec-in.com/article/585| 
+| 20201210 | FireEye红队工具失窃事件分析和思考 | https://mp.weixin.qq.com/s/fkH9TZKOcWb_Ttvl-VlA4w| 
+| 20201210 | 从FireEye的泄露看红队的差距 | https://mp.weixin.qq.com/s/K2W-hgCUFOzgxrhF6U1s1A| 
 | 20201209 | 中间件内存马注入&冰蝎连接 | https://mp.weixin.qq.com/s/eI-50-_W89eN8tsKi-5j4g| 
 | 20201209 | 从 CVE-2020-17144 看实战环境的漏洞武器化 | https://mp.weixin.qq.com/s/nVtE-OFoO076x6T0147AMw| 
 | 20201209 | 30行代码搞定Monero活跃节点探测 | https://mp.weixin.qq.com/s/omsTd3q5tOkknfK35tXGXg| 
@@ -38,33 +41,30 @@
 | 20201209 | Spring全家桶各类RCE漏洞浅析 | https://mp.weixin.qq.com/s/gfCtSJoefYLjJpaksbKLrQ| 
 | 20201209 | 红队中易被攻击的一些重点系统漏洞整理 | https://github.com/r0eXpeR/redteam_vul| 
 | 20201209 | 实战-站库分离拿下WebShell | https://xz.aliyun.com/t/8584| 
-| 20201209 | 基于AI的暗网流量检测识别效果专题研究 | http://cyberopportunity.cn/?p=1280| 
-| 20201208 | RoarCTF-WriteUp | https://mp.weixin.qq.com/s/Ipy-PCnxQWlctQk1oI9arw| 
-| 20201208 | 记一次St2-045的绕过 | https://www.sec-in.com/article/550| 
 
 
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20201210T02:54:13Z | CVE-2020-17144 | Exchange2010 authorized RCE | https://github.com/Airboi/CVE-2020-17144-EXP | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 01 MINUTES 24 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20201210T02:53:03Z | CVE-2020-17144 | weaponized tool for CVE-2020-17144 | https://github.com/zcgonvh/CVE-2020-17144 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 01 MINUTES 25 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20201210T02:51:27Z | CVE-2020-1971 | CVE-2020-1971 Auto Scan & Remote Exploit Script. Auto Local Scan & Patch Script. | https://github.com/MBHudson/CVE-2020-1971 | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
-| 20201210T02:01:05Z | CVE-2020-17530 | Null | https://github.com/ka1n4t/CVE-2020-17530 | 未查询到CVE信息| 
-| 20201209T22:54:51Z | CVE-2020-26256 | Null | https://github.com/ossf-cve-benchmark/CVE-2020-26256 | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
-| 20201209T13:01:55Z | CVE-2020-9038 | Null | https://github.com/ossf-cve-benchmark/CVE-2020-9038 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 01 MINUTES 19 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20201209T13:01:54Z | CVE-2020-8244 | Null | https://github.com/ossf-cve-benchmark/CVE-2020-8244 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 01 MINUTES 21 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201210T13:16:38Z | CVE-2020-17530 | Null | https://github.com/ka1n4t/CVE-2020-17530 | 未查询到CVE信息| 
+| 20201210T13:04:22Z | CVE-2020-17144 | Exchange2010 authorized RCE | https://github.com/Airboi/CVE-2020-17144-EXP | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 43 MINUTES 05 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201210T12:52:19Z | CVE-2020-17144 | weaponized tool for CVE-2020-17144 | https://github.com/zcgonvh/CVE-2020-17144 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 43 MINUTES 06 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201210T11:34:34Z | CVE-2020-1971 | CVE-2020-1971 Auto Scan & Remote Exploit Script. Auto Local Scan & Patch Script. | https://github.com/MBHudson/CVE-2020-1971 | | 
+| 20201210T07:04:44Z | CVE-2020-29667 | Null | https://github.com/jet-pentest/CVE-2020-29667 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 43 MINUTES 07 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201210T06:39:56Z | CVE-2020-29666 | Null | https://github.com/jet-pentest/CVE-2020-29666 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 43 MINUTES 07 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201210T06:15:34Z | CVE-2020-0113 | Poc of CVE-2020-0113 & CVE-2020-0108 | https://github.com/XDo0/ServiceCheater | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 42 MINUTES 58 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201209T22:54:51Z | CVE-2020-26256 | Null | https://github.com/ossf-cve-benchmark/CVE-2020-26256 | | 
+| 20201209T13:01:55Z | CVE-2020-9038 | Null | https://github.com/ossf-cve-benchmark/CVE-2020-9038 | | 
 | 20201209T13:01:54Z | CVE-2020-8205 | Null | https://github.com/ossf-cve-benchmark/CVE-2020-8205 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 01 MINUTES 15 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20201209T13:01:51Z | CVE-2020-8135 | Null | https://github.com/ossf-cve-benchmark/CVE-2020-8135 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 01 MINUTES 14 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20201209T13:01:49Z | CVE-2020-7763 | Null | https://github.com/ossf-cve-benchmark/CVE-2020-7763 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 01 MINUTES 22 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20201210T01:32:44Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1569 | 474| 
-| 20201210T00:18:56Z | Null | https://github.com/morlap/kleebergfestival | 0 | 0| 
-| 20201209T14:58:54Z | Null | https://github.com/markhakansson/klee-tutorial | 0 | 0| 
-| 20201209T13:59:46Z | Null | https://github.com/viktorfrom/klee_tutorial | 0 | 0| 
+| 20201210T12:02:08Z | Null | https://github.com/morlap/kleebergfestival | 0 | 0| 
+| 20201210T10:22:43Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1570 | 474| 
+| 20201210T09:22:09Z | Null | https://github.com/markhakansson/klee-tutorial | 0 | 0| 
+| 20201210T09:20:25Z | Null | https://github.com/viktorfrom/klee_tutorial | 0 | 0| 
 | 20201209T05:51:14Z | Website for the KLEE project: https://klee.github.io/ | https://github.com/klee/klee.github.io | 14 | 42| 
 | 20201208T17:04:10Z | Null | https://github.com/DucTGC/KleeBOT | 0 | 0| 
 | 20201208T06:03:43Z | Urban Evidence Based Policy (SPPA667) | https://github.com/KLeeDE/PUS2020_KLee | 0 | 1| 
@@ -83,46 +83,46 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20201210T02:51:27Z | CVE-2020-1971 Auto Scan & Remote Exploit Script. Auto Local Scan & Patch Script. | https://github.com/MBHudson/CVE-2020-1971 | 1 | 1| 
-| 20201210T02:21:41Z | Writeups, scripts and solutions for CTFs, Hack the Box, Vulnhub, exploit challenges, pwnables, crackmes, etc. Anything goes. | https://github.com/alichtman/writeups | 5 | 1| 
-| 20201210T02:21:33Z | Remote Access Trojan (RAT) backdoor exploit generator and server project. *Educational purposes only | https://github.com/fordlarman/J0n3sy_Cat | 0 | 0| 
-| 20201210T01:49:48Z | identify critical CVEs that are exploited in the wild | https://github.com/NadimKawwa/Cyber_Threat_Identification | 0 | 0| 
-| 20201210T01:40:51Z | Null | https://github.com/Minhtyyufa/printer_exploits | 0 | 0| 
-| 20201210T01:37:02Z | exploit-database-papers | https://github.com/offensive-security/exploitdb-papers | 266 | 36| 
-| 20201210T01:29:49Z | Goploit is a tool focused on WebHacking, which is still in development! in your initial project phase. Counting from the start with just 5 commands. You can use the -h parameter to see the Goploit help! | https://github.com/blackcrw/Goploit | 9 | 2| 
-| 20201210T00:38:24Z | just a simple repository to demonstrate different exploitation techniques | https://github.com/jmichael3/exploit-dev | 0 | 0| 
-| 20201210T00:36:06Z | windows and linux streams for post exploitation | https://github.com/kymb0/post_exploitation | 1 | 0| 
-| 20201210T00:13:23Z | A collection of information, tools, and exploits for TI-Nspire calculators. | https://github.com/parrotgeek1/TI-Nspire | 20 | 1| 
+| 20201210T12:55:32Z | Vulnerabilities of Goby supported with exploitation. | https://github.com/gobysec/GobyVuls | 65 | 14| 
+| 20201210T12:51:05Z | This bash script will help you to hack remote hosts  | https://github.com/FabioDefilippo/linuxallremote | 1 | 0| 
+| 20201210T12:45:51Z | Notes and exploits | https://github.com/limitedeternity/ExploitEducation | 0 | 0| 
+| 20201210T12:45:06Z | Development of code to exploit LSST and VISTA imaging | https://github.com/lsst-uk/lsst-ir-fusion | 0 | 0| 
+| 20201210T12:44:52Z | WITHCulture is a service that provides access to digital cultural heritage items from different repositories and offers a number of added-value services for the creative reuse and intelligent exploitation of that content. | https://github.com/ails-lab/with | 1 | 3| 
+| 20201210T11:37:22Z | Null | https://github.com/hackarmour/binary-exploitation | 0 | 0| 
+| 20201210T11:35:13Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 8728 | 1379| 
+| 20201210T11:27:20Z | My Infosec Blog - Be Curious, Learning Is Life ! | https://github.com/flast101/flast101.github.io | 1 | 0| 
+| 20201210T11:23:11Z | Exploit | https://github.com/reynaldomota/exploit | 0 | 0| 
+| 20201210T11:16:04Z | Explanation of All the Payloads Used in Pentester Academy%s JS for Pentester Course | https://github.com/tbhaxor/pt-jsfp | 0 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20201210T02:21:33Z | Remote Access Trojan (RAT) backdoor exploit generator and server project. *Educational purposes only | https://github.com/fordlarman/J0n3sy_Cat | 0 | 0| 
-| 20201210T00:47:08Z | ***COMP3670 FINAL PROJECT*** Trojan horse virus using python. run attacker.py on the attackers pc and main.py on the victims to open a backdoor. | https://github.com/Cosy8/Trojan_Horse_Attack | 0 | 0| 
-| 20201209T22:29:00Z | Null | https://github.com/wcenatus/node-backdoor | 0 | 0| 
-| 20201209T21:39:24Z | C++ Backdoor/Spyware for Windows (ONLY FOR EDUCATIONAL PURPOSES) | https://github.com/ferdinandlb/WindowsBackdoor | 2 | 0| 
-| 20201209T15:07:43Z | Null | https://github.com/WildfootW/VSFTPD_v2.3.4_Backdoor | 0 | 0| 
-| 20201209T13:26:59Z | C++ Backdoor/Spyware for Windows (ONLY FOR EDUCATIONAL PURPOSES) | https://github.com/ferdinandkedef/WindowsBackdoor | 1 | 0| 
-| 20201209T13:19:48Z | C++ Backdoor/Spyware for Windows (ONLY FOR EDUCATIONAL PURPOSES) | https://github.com/ferdinandkedef/Spyware | 0 | 0| 
-| 20201209T08:48:27Z | Null | https://github.com/cirrrr/backdoor-keyword-identification | 0 | 0| 
-| 20201209T05:08:22Z | TCP Command Execution | https://github.com/gregl83/comandare | 0 | 0| 
-| 20201209T03:30:15Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 126 | 17| 
+| 20201210T12:48:43Z | Null | https://github.com/MitchellvdKlij/python-backdoor | 0 | 0| 
+| 20201210T12:35:11Z | C++ Backdoor/Spyware for Windows (ONLY FOR EDUCATIONAL PURPOSES) | https://github.com/ferdinandlb/WindowsBackdoor | 2 | 0| 
+| 20201210T12:13:10Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 126 | 17| 
+| 20201210T11:44:05Z | Null | https://github.com/rabbitx1337/backdoor | 0 | 0| 
+| 20201210T09:10:24Z | An evaluation framework for mitigating DNN backdoor attacks using data augmentations | https://github.com/YiZeng623/DeepSweep | 0 | 0| 
+| 20201210T08:09:36Z | Fully Undetectable Malware Backdoor | https://github.com/raunvk/stealthware-backdoor | 1 | 0| 
+| 20201210T07:38:40Z | -x-x-x- DO NOT RUN ON PRODUCTION MACHINE -x-x-x- LD_PRELOAD based user-land rootkit for Linux platform. | https://github.com/compilepeace/EVIL_RABBIT | 6 | 2| 
+| 20201210T07:09:05Z | iis7 up version backdoor | https://github.com/adezz/iis-module-backdoor | 0 | 0| 
+| 20201210T06:46:24Z | apache so module backkdoor | https://github.com/adezz/apache-module-backdoor | 0 | 0| 
+| 20201210T03:48:57Z | The wonderful game of Backdoors & Breaches by Black Hills Information Security in the self-contained package of a Discord bot. This project aims to be an environmentally friendly and less stressful way to run your favorite Incident Response party game! | https://github.com/nateac1/BB-Discord | 0 | 0| 
 
 
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20201210T02:55:22Z | Анализ цветовых характеристик полимерных материалов | https://github.com/kostyaLem/FuzzyLogic | 0 | 0| 
-| 20201210T02:54:28Z | Null | https://github.com/Fuzzwah/simhub-dash-fuzzwah-v2 | 1 | 1| 
-| 20201210T02:53:26Z | Destroy parallelograms with circles and colors with triangles in order to drop time-released colors on your opponent. | https://github.com/colinje/PuzzFuzz | 0 | 0| 
-| 20201210T02:23:05Z | Fuzzy matching publications for fatcat (wip). | https://github.com/miku/fuzzycat | 0 | 1| 
-| 20201210T02:21:19Z | Scalable fuzzing infrastructure. | https://github.com/google/clusterfuzz | 4388 | 402| 
-| 20201210T01:55:14Z | Null | https://github.com/kekavigi/fuzzydigilib | 0 | 0| 
-| 20201210T01:55:04Z | This tool uses fzf(1)-like fuzzy-finder to do partial or fuzzy search of Kubernetes resources. Instead of specifying full resource names to kubectl commands, you can choose them from an interactive list that you can filter by typing a few characters. | https://github.com/d-kuro/kubectl-fuzzy | 68 | 8| 
-| 20201210T01:04:46Z | The Official Fuzzy Britches Repository. | https://github.com/ThePapaw/fuzzybritches | 0 | 0| 
-| 20201210T00:46:40Z | Null | https://github.com/dieg0moraes/fuzzer | 0 | 0| 
-| 20201210T00:00:52Z | OSS-Fuzz - continuous fuzzing of open source software. | https://github.com/google/oss-fuzz | 5713 | 1132| 
+| 20201210T13:01:18Z | A portal for tech savvy people | https://github.com/nkgawade/FuzzBrain | 0 | 0| 
+| 20201210T12:59:12Z | OSS-Fuzz - continuous fuzzing of open source software. | https://github.com/google/oss-fuzz | 5715 | 1134| 
+| 20201210T12:34:36Z | Fuzzer for Pharo | https://github.com/mabdi/phazzer | 0 | 0| 
+| 20201210T12:34:02Z | Null | https://github.com/edutime/fuzzy-robot | 0 | 0| 
+| 20201210T12:27:52Z | 该项目用于收集Web安全测试中常用的fuzz字典 | https://github.com/bigblackhat/WebFuzzList | 0 | 0| 
+| 20201210T12:25:13Z | 渗透测试路径字典，爆破字典。内容来自互联网和实战积累。 | https://github.com/cpkkcb/fuzzDicts | 41 | 25| 
+| 20201210T12:21:12Z | Null | https://github.com/sarfraz19/FuzzyFCAnew | 0 | 0| 
+| 20201210T11:57:42Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 3272 | 753| 
+| 20201210T11:48:19Z | Null | https://github.com/ethereum/solidity-fuzzing-corpus | 10 | 4| 
+| 20201210T11:36:20Z | Repo for fuzzytrader-app deploy on Heroku. | https://github.com/ricardofonsecacampos/fuzzytrader | 0 | 1| 
 
 
 
