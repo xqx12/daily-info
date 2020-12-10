@@ -19,13 +19,13 @@
 | 20201209 | Spring 全家桶各类 RCE 漏洞浅析 | https://paper.seebug.org/1422/| 
 | 20201209 | 通过对IPv6协议进行数据泄漏测试研究。 | https://www.stratosphereips.org/blog/2020/10/16/data-exfiltration-via-ipv6| 
 | 20201209 | 美国国家安全局（NSA）近期发出安全警告，俄罗斯黑客利用VMware漏洞攻击公司网络安全威胁。 | https://thehackernews.com/2020/12/nsa-warns-russian-hacker-exploiting.html?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+TheHackersNews+%28The+Hackers+News+-+Cyber+Security+Blog%29| 
+| 20201209 | How the Atheris Python Fuzzer Works | https://security.googleblog.com/2020/12/how-atheris-python-fuzzer-works.html?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+GoogleOnlineSecurityBlog+%28Google+Online+Security+Blog%29| 
 | 20201208 | Deep Dive into an Obfuscation-as-a-Service for Android Malware | https://www.stratosphereips.org/blog/2020/12/03/deep-dive-into-an-obfuscation-as-a-service-for-android-malware| 
 | 20201208 | Software security paper list | https://github.com/AdaLogics/software-security-paper-list| 
 | 20201208 | IoT 领域 IPv6 安全现状报告 | https://static1.squarespace.com/static/5a01100f692ebe0459a1859f/t/5fa2ba52a81b683350465a2f/1604500058182/White_Paper__Current_State_of_IPv6_Security_in_IoT.pdf| 
 | 20201208 | Microsoft Teams 无交互、跨平台、具有蠕虫能力的 RCE 漏洞分析 | https://github.com/oskarsve/ms-teams-rce/blob/main/README.md| 
 | 20201208 | 据 NSA 报告，俄罗斯政府背景的组织利用 VMware Workspace One Access 产品漏洞攻击目标 | https://www.nsa.gov/News-Features/Feature-Stories/Article-View/Article/2434988/russian-state-sponsored-malicious-cyber-actors-exploit-known-vulnerability-in-v/| 
 | 20201208 | SepctorOps 关于杀软检测逃逸的文章 《Adventures in Dynamic Evasion》 | http://posts.specterops.io/adventures-in-dynamic-evasion-1fe0bac57aa| 
-| 20201208 | 从Geost到Locker，浅谈Android恶意软件的混淆进化史 | https://www.trendmicro.com/en_us/research/20/l/from-geost-to-locker-monitoring-the-evolution.html?utm_source=trendmicroresearch&utm_medium=smk&utm_campaign=1220_GeostLocker| 
 
 
 # 安全维基 推荐
@@ -46,16 +46,16 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20201210T02:45:42Z | CVE-2020-17144 | Exchange2010 authorized RCE | https://github.com/Airboi/CVE-2020-17144-EXP | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 11 MINUTES 26 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20201210T02:43:16Z | CVE-2020-17144 | weaponized tool for CVE-2020-17144 | https://github.com/zcgonvh/CVE-2020-17144 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 11 MINUTES 27 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201210T02:45:42Z | CVE-2020-17144 | Exchange2010 authorized RCE | https://github.com/Airboi/CVE-2020-17144-EXP | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 10 MINUTES 26 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201210T02:43:16Z | CVE-2020-17144 | weaponized tool for CVE-2020-17144 | https://github.com/zcgonvh/CVE-2020-17144 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 10 MINUTES 27 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20201210T02:27:04Z | CVE-2020-1971 | CVE-2020-1971 Auto Scan & Remote Exploit Script. Auto Local Scan & Patch Script. | https://github.com/MBHudson/CVE-2020-1971 | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
 | 20201210T02:01:05Z | CVE-2020-17530 | Null | https://github.com/ka1n4t/CVE-2020-17530 | 未查询到CVE信息| 
 | 20201209T22:54:51Z | CVE-2020-26256 | Null | https://github.com/ossf-cve-benchmark/CVE-2020-26256 | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
-| 20201209T13:01:55Z | CVE-2020-9038 | Null | https://github.com/ossf-cve-benchmark/CVE-2020-9038 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 11 MINUTES 20 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20201209T13:01:54Z | CVE-2020-8244 | Null | https://github.com/ossf-cve-benchmark/CVE-2020-8244 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 11 MINUTES 22 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20201209T13:01:54Z | CVE-2020-8205 | Null | https://github.com/ossf-cve-benchmark/CVE-2020-8205 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 11 MINUTES 16 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20201209T13:01:51Z | CVE-2020-8135 | Null | https://github.com/ossf-cve-benchmark/CVE-2020-8135 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 11 MINUTES 15 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20201209T13:01:49Z | CVE-2020-7763 | Null | https://github.com/ossf-cve-benchmark/CVE-2020-7763 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 11 MINUTES 23 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201209T13:01:55Z | CVE-2020-9038 | Null | https://github.com/ossf-cve-benchmark/CVE-2020-9038 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 10 MINUTES 20 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201209T13:01:54Z | CVE-2020-8244 | Null | https://github.com/ossf-cve-benchmark/CVE-2020-8244 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 10 MINUTES 22 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201209T13:01:54Z | CVE-2020-8205 | Null | https://github.com/ossf-cve-benchmark/CVE-2020-8205 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 10 MINUTES 17 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201209T13:01:51Z | CVE-2020-8135 | Null | https://github.com/ossf-cve-benchmark/CVE-2020-8135 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 10 MINUTES 15 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201209T13:01:49Z | CVE-2020-7763 | Null | https://github.com/ossf-cve-benchmark/CVE-2020-7763 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 10 MINUTES 23 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 
 
 # klee on Github 推荐
@@ -113,6 +113,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20201210T02:50:21Z | Destroy parallelograms with circles and colors with triangles in order to drop time-released colors on your opponent. | https://github.com/colinje/PuzzFuzz | 0 | 0| 
 | 20201210T02:23:05Z | Fuzzy matching publications for fatcat (wip). | https://github.com/miku/fuzzycat | 0 | 1| 
 | 20201210T02:21:19Z | Scalable fuzzing infrastructure. | https://github.com/google/clusterfuzz | 4388 | 402| 
 | 20201210T01:55:14Z | Null | https://github.com/kekavigi/fuzzydigilib | 0 | 0| 
@@ -122,7 +123,6 @@
 | 20201210T00:00:52Z | OSS-Fuzz - continuous fuzzing of open source software. | https://github.com/google/oss-fuzz | 5713 | 1132| 
 | 20201209T23:27:10Z | Software for fuzzing, used on web application pentestings. | https://github.com/NESCAU-UFLA/FuzzingTool | 0 | 0| 
 | 20201209T23:26:09Z | Null | https://github.com/hide-soft/fuzzy-octo-bassoon | 0 | 0| 
-| 20201209T22:54:24Z | Null | https://github.com/Fuzzwah/simhub-dash-fuzzwah-v2 | 1 | 1| 
 
 
 
