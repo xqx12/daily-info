@@ -16,6 +16,9 @@
 | 20201210 | iOS系统分析故障书籍资源。 | https://github.com/faisalmemon/ios-crash-dump-analysis-book| 
 | 20201210 | CVE-2018-8453 Win32k漏洞分析笔记。 | http://xz.aliyun.com/t/8614| 
 | 20201210 | 通过1.1.1.1解析中的遗忘DoH改善DNS隐私。 | https://blog.cloudflare.com/oblivious-dns/| 
+| 20201210 | Game On – Finding vulnerabilities in Valve’s “Steam Sockets” | https://research.checkpoint.com/2020/game-on-finding-vulnerabilities-in-valves-steam-sockets/| 
+| 20201210 | Novel Abuses On Wi-Fi Direct Mobile File Transfers | https://blog.doyensec.com//2020/12/10/novel-abuses-wifi-direct-mobile-file-transfers.html| 
+| 20201210 | Apple macOS 内核越界写漏洞分析（CVE-2020-27897） | https://www.thezdi.com/blog/2020/12/9/cve-2020-27897-apple-macos-kernel-oob-write-privilege-escalation-vulnerability| 
 
 
 # 安全维基 推荐
@@ -30,15 +33,14 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20201210T23:09:50Z | CVE-2020-17530 | hack，poc | https://github.com/phil-fly/CVE-2020-17530 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 21 MINUTES 06 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201210T23:09:50Z | CVE-2020-17530 | hack，poc | https://github.com/phil-fly/CVE-2020-17530 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 00 MINUTES 00 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20201210T22:54:05Z | CVE-2020-8554 | [EMBARGO] CVE-2020-8554: Man in the middle using LoadBalancer or ExternalIPs | https://github.com/rancher/externalip-webhook | 未查询到CVE信息| 
-| 20201210T22:03:03Z | CVE-2020-27955 | Null | https://github.com/WizZYou/git-lfs-RCE-exploit-CVE-2020-27955-revshell | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 21 MINUTES 18 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20201210T21:32:34Z | CVE-2020-29254 | TikiWiki 21.2 allows to edit templates without the use of a CSRF protection.  | https://github.com/S1lkys/CVE-2020-29254 | 未查询到CVE信息| 
 | 20201210T19:07:47Z | CVE-2020-29669 | Macally WIFISD2 | https://github.com/code-byter/CVE-2020-29669 | 未查询到CVE信息| 
 | 20201210T11:34:34Z | CVE-2020-1971 | CVE-2020-1971 Auto Scan & Remote Exploit Script. Auto Local Scan & Patch Script. | https://github.com/MBHudson/CVE-2020-1971 | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
-| 20201210T07:04:44Z | CVE-2020-29667 | Null | https://github.com/jet-pentest/CVE-2020-29667 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 21 MINUTES 16 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20201210T06:39:56Z | CVE-2020-29666 | Null | https://github.com/jet-pentest/CVE-2020-29666 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 21 MINUTES 15 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20201210T06:15:34Z | CVE-2020-0113 | Poc of CVE-2020-0113 & CVE-2020-0108 | https://github.com/XDo0/ServiceCheater | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 21 MINUTES 06 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201210T07:04:44Z | CVE-2020-29667 | Null | https://github.com/jet-pentest/CVE-2020-29667 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 00 MINUTES 10 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201210T06:39:56Z | CVE-2020-29666 | Null | https://github.com/jet-pentest/CVE-2020-29666 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 00 MINUTES 10 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201210T06:15:34Z | CVE-2020-0113 | Poc of CVE-2020-0113 & CVE-2020-0108 | https://github.com/XDo0/ServiceCheater | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  20 HOURS 59 MINUTES 59 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 
 
 # klee on Github 推荐
@@ -63,11 +65,11 @@
 | 20201210T23:07:28Z | GEF - GDB Enhanced Features for exploit devs & reversers | https://github.com/hugsy/gef | 3311 | 477| 
 | 20201210T22:56:52Z | A tool to identify and exploit sudo rules% misconfigurations and vulnerabilities within sudo | https://github.com/TH3xACE/SUDO_KILLER | 895 | 128| 
 | 20201210T22:15:32Z | Null | https://github.com/th3ken-dev/TH3KEN-EDITON | 2 | 0| 
-| 20201210T22:03:03Z | Null | https://github.com/WizZYou/git-lfs-RCE-exploit-CVE-2020-27955-revshell | 0 | 0| 
 | 20201210T21:16:20Z | AgroTrust is a blockchain enabled traceability solution with the aim of integrating of global food value chains. Small landholding farmers across the country are suffering due to fragile market linkages, weak bargaining power, exploitation by middlemen and high spillage & spoilage. On the other end, consumers are rarely aware about agricultural products they consume, their quality, safety, and sustainability. They are even more oblivious about how much of their paid price goes back to the farmer. Only when the farmer knows the complete story of his product from farm to fork and the consumer knows the complete story of his food from fork to farm, these problems could be addressed. Only when the both ends of the value chain – the farmer and the consumer – are aware about each other, will the players in the middle be incentivized to ensure better products and fair prices. | https://github.com/ganeshanantwar/AgroTrust-QRiosity | 0 | 0| 
 | 20201210T21:08:08Z | A collection of pre-compiled exploits and source code for Linux kernels to achieve privilege escalation. | https://github.com/0xToast/Linux-Kernel-Exploits | 0 | 0| 
 | 20201210T21:02:00Z | Auto-exploiter wrote in Python3 for a CVE in hackthebox challenge | https://github.com/EmirhanSarikaya/Hackthebox-Jewel | 0 | 0| 
 | 20201210T20:53:50Z | notes about 🔍 Reverse Engineering and 🔥 Exploit Development | https://github.com/bmedicke/REED | 2 | 1| 
+| 20201210T20:43:03Z | thewhiteh4t%s Blog | https://github.com/thewhiteh4t/thewhiteh4t.github.io | 12 | 3| 
 
 
 # backdoor on Github 推荐
@@ -93,11 +95,11 @@
 | 20201210T23:17:41Z | RESTler is the first stateful REST API fuzzing tool for automatically testing cloud services through their REST APIs and finding security and reliability bugs in these services. | https://github.com/microsoft/restler-fuzzer | 550 | 40| 
 | 20201210T23:05:39Z | Null | https://github.com/NocONName/NoConName_Advanced_Fuzzing_Workshop- | 0 | 0| 
 | 20201210T23:01:19Z | Rapid fuzzy string matching in Python using the Levenshtein Distance | https://github.com/maxbachmann/RapidFuzz | 730 | 24| 
-| 20201210T22:56:56Z | OSS-Fuzz - continuous fuzzing of open source software. | https://github.com/google/oss-fuzz | 5719 | 1134| 
 | 20201210T22:52:40Z | A little tool to minify and unminify web assets  | https://github.com/cizordj/fuzzy-adventure | 0 | 0| 
 | 20201210T22:51:57Z | Null | https://github.com/antonio-morales/NoConName_Advanced_Fuzzing_Workshop | 0 | 0| 
 | 20201210T22:30:26Z | Scalable fuzzing infrastructure. | https://github.com/google/clusterfuzz | 4390 | 402| 
 | 20201210T22:15:58Z | Null | https://github.com/Fuzzwah/simhub-dash-fuzzwah-v2 | 1 | 1| 
+| 20201210T22:10:29Z | Experimental projects | https://github.com/tannmatter/fuzzy-happiness | 0 | 0| 
 
 
 
