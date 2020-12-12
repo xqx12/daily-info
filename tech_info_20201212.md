@@ -21,8 +21,8 @@
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
 | 20201212T13:00:40Z | CVE-2020-29669 | Macally WIFISD2 | https://github.com/code-byter/CVE-2020-29669 | 未查询到CVE信息| 
-| 20201212T10:38:14Z | CVE-2020-17530 | Null | https://github.com/ka1n4t/CVE-2020-17530 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 45 MINUTES 55 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20201212T08:09:16Z | CVE-2020-17144 | weaponized tool for CVE-2020-17144 | https://github.com/zcgonvh/CVE-2020-17144 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 45 MINUTES 57 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201212T10:38:14Z | CVE-2020-17530 | Null | https://github.com/ka1n4t/CVE-2020-17530 | | 
+| 20201212T08:09:16Z | CVE-2020-17144 | weaponized tool for CVE-2020-17144 | https://github.com/zcgonvh/CVE-2020-17144 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 42 MINUTES 43 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 
 
 # klee on Github 推荐
@@ -40,6 +40,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20201212T13:16:22Z | Null | https://github.com/frostediscool/skopExploit | 0 | 0| 
 | 20201212T13:00:06Z | Null | https://github.com/GodZero-py/Exploits | 0 | 0| 
 | 20201212T12:47:29Z | Null | https://github.com/royanpng2/MyExploit | 0 | 0| 
 | 20201212T12:34:02Z | Null | https://github.com/royanpng2/Exploit-Configuration | 0 | 0| 
@@ -49,7 +50,6 @@
 | 20201212T12:13:11Z | Exploiting Machine Learning for Land Surface Temperature (LST) evaluation | https://github.com/fabiod20/land-surface-temperature-evaluation-from-satellite-data | 0 | 0| 
 | 20201212T11:44:48Z | A phased, evasive Path Traversal + LFI scanning & exploitation tool in Python | https://github.com/VainlyStrain/Vailyn | 64 | 2| 
 | 20201212T11:20:26Z | TryHackMe CTFs writeups, notes, dratfs, scrabbles, files and solutions. | https://github.com/edoardottt/tryhackme-ctf | 6 | 2| 
-| 20201212T11:04:36Z | TurboSploit-Framework is a powerful exploitation framework that contains a lot of modules and plugins for attacking targets, interacting with targets, spawning reverse shells and etc | https://github.com/V1CK3Y2/TurboSploit-Framework | 0 | 0| 
 
 
 # backdoor on Github 推荐
