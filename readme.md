@@ -33,13 +33,13 @@
 | 20201211T22:44:12Z | CVE-2020-8554 | [EMBARGO] CVE-2020-8554: Man in the middle using LoadBalancer or ExternalIPs | https://github.com/rancher/externalip-webhook | 未查询到CVE信息| 
 | 20201211T20:19:11Z | CVE-2020-1971 | CVE-2020-1971 Auto Scan & Remote Exploit Script. Auto Local Scan & Patch Script. | https://github.com/MBHudson/CVE-2020-1971 | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
 | 20201211T20:17:53Z | CVE-2020-8554 | Mitigate CVE-2020-8554 with Policy Controller in Anthos | https://github.com/jrmurray000/CVE-2020-8554 | 未查询到CVE信息| 
-| 20201211T18:27:24Z | CVE-2020-17144 | Exchange2010 authorized RCE | https://github.com/Airboi/CVE-2020-17144-EXP | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 03 MINUTES 05 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201211T18:27:24Z | CVE-2020-17144 | Exchange2010 authorized RCE | https://github.com/Airboi/CVE-2020-17144-EXP | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 00 MINUTES 58 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20201211T17:27:10Z | CVE-2020-25637 | Double Free | https://github.com/brahmiboudjema/CVE-2020-25637-libvirt-double-free | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
-| 20201211T11:06:35Z | CVE-2020-17530 | Collect S2-061 payloads | https://github.com/wuzuowei/CVE-2020-17530 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 03 MINUTES 11 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20201211T09:31:06Z | CVE-2020-0787 | Null | https://github.com/MasterSploit/CVE-2020-0787-BitsArbitraryFileMove-master | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 03 MINUTES 15 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20201211T09:27:34Z | CVE-2020-0787 | Null | https://github.com/MasterSploit/CVE-2020-0787 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 03 MINUTES 14 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201211T11:06:35Z | CVE-2020-17530 | Collect S2-061 payloads | https://github.com/wuzuowei/CVE-2020-17530 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 01 MINUTES 02 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201211T09:31:06Z | CVE-2020-0787 | Null | https://github.com/MasterSploit/CVE-2020-0787-BitsArbitraryFileMove-master | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 01 MINUTES 06 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201211T09:27:34Z | CVE-2020-0787 | Null | https://github.com/MasterSploit/CVE-2020-0787 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 01 MINUTES 05 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20201211T06:54:23Z | 未知编号 | A mass exploitation tool for CVE 2020-8793  | https://github.com/helIsec/OpenSMTPD | 未查询到CVE信息| 
-| 20201211T05:21:18Z | CVE-2020-17530 | hack，poc | https://github.com/phil-fly/CVE-2020-17530 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 03 MINUTES 02 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201211T05:21:18Z | CVE-2020-17530 | hack，poc | https://github.com/phil-fly/CVE-2020-17530 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 00 MINUTES 55 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 
 
 # klee on Github 推荐
@@ -68,7 +68,6 @@
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
 | 20201211T23:53:05Z | Null | https://github.com/caddickzac/Motivated-Reasoning-in-a-Causal-Explore-Exploit-Task | 0 | 0| 
-| 20201211T23:03:00Z | Silice is an open source language that simplifies writing algorithms fully exploiting FPGA architectures. | https://github.com/sylefeb/Silice | 372 | 28| 
 | 20201211T22:37:16Z | Thi powershell script has got to run in remote windows host, even for pivoting | https://github.com/FabioDefilippo/winallenum | 0 | 1| 
 | 20201211T22:35:39Z | Script in Python to exploit Blind SQL Injection vulnerability developed for the subject Security and Pentesting of Data Servers of the Master%s Degree in Cybersecurity and Privacy of the Universitat Oberta de Catalunya. | https://github.com/JYisus/script-blind-sql-injection | 0 | 0| 
 | 20201211T22:33:25Z | All Files, Scripts, and exploits can be found here | https://github.com/LMS57/TempleOfPwn | 1 | 0| 
@@ -77,6 +76,7 @@
 | 20201211T21:54:06Z | TryHackMe CTFs writeups, notes, dratfs, scrabbles, files and solutions. | https://github.com/edoardottt/tryhackme-ctf | 6 | 2| 
 | 20201211T20:54:35Z | A WebDAV server to serve libs that pop a calc (for exploit demo-ing convenience). | https://github.com/krsh732/PoopingCalcs | 0 | 0| 
 | 20201211T20:38:37Z | This is a plugin for Minecraft that aids in building, as it gives the player creative mode and charges them for each block they place. All exploits are patched as well. | https://github.com/bsalha1/Printer | 3 | 0| 
+| 20201211T20:15:40Z | goyang Local file inclusion Exploiter | https://github.com/Proxysec/goyang-LFI | 0 | 0| 
 
 
 # backdoor on Github 推荐
