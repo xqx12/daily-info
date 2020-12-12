@@ -21,8 +21,8 @@
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
 | 20201212T13:00:40Z | CVE-2020-29669 | Macally WIFISD2 | https://github.com/code-byter/CVE-2020-29669 | 未查询到CVE信息| 
-| 20201212T10:38:14Z | CVE-2020-17530 | Null | https://github.com/ka1n4t/CVE-2020-17530 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 31 MINUTES 49 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20201212T08:09:16Z | CVE-2020-17144 | weaponized tool for CVE-2020-17144 | https://github.com/zcgonvh/CVE-2020-17144 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 31 MINUTES 53 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201212T10:38:14Z | CVE-2020-17530 | Null | https://github.com/ka1n4t/CVE-2020-17530 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 30 MINUTES 41 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201212T08:09:16Z | CVE-2020-17144 | weaponized tool for CVE-2020-17144 | https://github.com/zcgonvh/CVE-2020-17144 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 30 MINUTES 44 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 
 
 # klee on Github 推荐
@@ -40,6 +40,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20201212T13:29:42Z | Null | https://github.com/Haczyn/exploits | 0 | 0| 
 | 20201212T13:26:40Z | This is Training for Module no.11 ( Windows Buffer Overflows ) OSCP, with Exploit for Machine Windows 7 32-bit has SyncBreeze service working on Port 80. | https://github.com/LE0MX/Windows-Buffer-Overflow-OSCP | 0 | 0| 
 | 20201212T13:16:22Z | Null | https://github.com/frostediscool/skopExploit | 0 | 0| 
 | 20201212T13:00:06Z | Null | https://github.com/GodZero-py/Exploits | 0 | 0| 
@@ -49,7 +50,6 @@
 | 20201212T12:14:35Z | Exploiting Programming Languages Energy Consumption | https://github.com/stefanos1316/Rosetta_Code_Research_MSR | 2 | 1| 
 | 20201212T12:13:39Z | Exploiting Machine Learning for Alzheimer%s disease detection | https://github.com/fabiod20/machine-learning-for-alzheimer-s-disease-detection | 0 | 0| 
 | 20201212T12:13:11Z | Exploiting Machine Learning for Land Surface Temperature (LST) evaluation | https://github.com/fabiod20/land-surface-temperature-evaluation-from-satellite-data | 0 | 0| 
-| 20201212T11:44:48Z | A phased, evasive Path Traversal + LFI scanning & exploitation tool in Python | https://github.com/VainlyStrain/Vailyn | 64 | 2| 
 
 
 # backdoor on Github 推荐
