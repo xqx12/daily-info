@@ -31,15 +31,15 @@
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
 | 20201211T22:44:12Z | CVE-2020-8554 | [EMBARGO] CVE-2020-8554: Man in the middle using LoadBalancer or ExternalIPs | https://github.com/rancher/externalip-webhook | 未查询到CVE信息| 
-| 20201211T21:45:30Z | CVE-2020-17144 | weaponized tool for CVE-2020-17144 | https://github.com/zcgonvh/CVE-2020-17144 | | 
 | 20201211T20:19:11Z | CVE-2020-1971 | CVE-2020-1971 Auto Scan & Remote Exploit Script. Auto Local Scan & Patch Script. | https://github.com/MBHudson/CVE-2020-1971 | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
 | 20201211T20:17:53Z | CVE-2020-8554 | Mitigate CVE-2020-8554 with Policy Controller in Anthos | https://github.com/jrmurray000/CVE-2020-8554 | 未查询到CVE信息| 
-| 20201211T18:27:24Z | CVE-2020-17144 | Exchange2010 authorized RCE | https://github.com/Airboi/CVE-2020-17144-EXP | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 58 MINUTES 53 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201211T18:27:24Z | CVE-2020-17144 | Exchange2010 authorized RCE | https://github.com/Airboi/CVE-2020-17144-EXP | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 56 MINUTES 59 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20201211T17:27:10Z | CVE-2020-25637 | Double Free | https://github.com/brahmiboudjema/CVE-2020-25637-libvirt-double-free | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
-| 20201211T11:06:35Z | CVE-2020-17530 | Collect S2-061 payloads | https://github.com/wuzuowei/CVE-2020-17530 | 强制 OGNL 评估，当评估标记属性中的原始用户输入时，可能会导致远程代码执行。受影响的软件 ： Apache Struts 2.0.0 - Struts 2.5.25.| 
-| 20201211T09:31:06Z | CVE-2020-0787 | Null | https://github.com/MasterSploit/CVE-2020-0787-BitsArbitraryFileMove-master | 当Windows后台智能传输服务（BITS）不正确地处理符号链接时，即“ Windows后台智能传输服务特权提升漏洞”，则存在特权提升漏洞。| 
-| 20201211T09:27:34Z | CVE-2020-0787 | Null | https://github.com/MasterSploit/CVE-2020-0787 | | 
+| 20201211T11:06:35Z | CVE-2020-17530 | Collect S2-061 payloads | https://github.com/wuzuowei/CVE-2020-17530 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 57 MINUTES 03 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201211T09:31:06Z | CVE-2020-0787 | Null | https://github.com/MasterSploit/CVE-2020-0787-BitsArbitraryFileMove-master | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 56 MINUTES 10 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201211T09:27:34Z | CVE-2020-0787 | Null | https://github.com/MasterSploit/CVE-2020-0787 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 56 MINUTES 09 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20201211T06:54:23Z | 未知编号 | A mass exploitation tool for CVE 2020-8793  | https://github.com/helIsec/OpenSMTPD | 未查询到CVE信息| 
+| 20201211T05:21:18Z | CVE-2020-17530 | hack，poc | https://github.com/phil-fly/CVE-2020-17530 | | 
 
 
 # klee on Github 推荐
@@ -82,8 +82,10 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20201211T22:15:48Z | Null | https://github.com/wcenatus/node-backdoor | 0 | 0| 
+| 20201211T18:45:51Z | Null | https://github.com/RechterBlox/Spigot-Backdoor | 0 | 0| 
+| 20201211T14:53:01Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 127 | 17| 
 | 20201211T08:59:14Z | Basic backdoor metamorphic  | https://github.com/Bryl33t/metamorphicore | 0 | 0| 
-| 20201211T08:34:22Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 127 | 17| 
 
 
 # fuzz on Github 推荐

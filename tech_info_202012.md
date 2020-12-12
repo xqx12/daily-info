@@ -46,16 +46,16 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20201212T00:50:09Z | CVE-2020-17530 | Null | https://github.com/ka1n4t/CVE-2020-17530 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 58 MINUTES 52 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201212T01:02:35Z | CVE-2020-17144 | weaponized tool for CVE-2020-17144 | https://github.com/zcgonvh/CVE-2020-17144 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 57 MINUTES 00 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201212T00:50:09Z | CVE-2020-17530 | Null | https://github.com/ka1n4t/CVE-2020-17530 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 56 MINUTES 58 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20201211T22:44:12Z | CVE-2020-8554 | [EMBARGO] CVE-2020-8554: Man in the middle using LoadBalancer or ExternalIPs | https://github.com/rancher/externalip-webhook | 未查询到CVE信息| 
-| 20201211T21:45:30Z | CVE-2020-17144 | weaponized tool for CVE-2020-17144 | https://github.com/zcgonvh/CVE-2020-17144 | | 
 | 20201211T20:19:11Z | CVE-2020-1971 | CVE-2020-1971 Auto Scan & Remote Exploit Script. Auto Local Scan & Patch Script. | https://github.com/MBHudson/CVE-2020-1971 | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
 | 20201211T20:17:53Z | CVE-2020-8554 | Mitigate CVE-2020-8554 with Policy Controller in Anthos | https://github.com/jrmurray000/CVE-2020-8554 | 未查询到CVE信息| 
-| 20201211T18:27:24Z | CVE-2020-17144 | Exchange2010 authorized RCE | https://github.com/Airboi/CVE-2020-17144-EXP | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 58 MINUTES 53 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201211T18:27:24Z | CVE-2020-17144 | Exchange2010 authorized RCE | https://github.com/Airboi/CVE-2020-17144-EXP | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 56 MINUTES 59 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20201211T17:27:10Z | CVE-2020-25637 | Double Free | https://github.com/brahmiboudjema/CVE-2020-25637-libvirt-double-free | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
-| 20201211T11:06:35Z | CVE-2020-17530 | Collect S2-061 payloads | https://github.com/wuzuowei/CVE-2020-17530 | 强制 OGNL 评估，当评估标记属性中的原始用户输入时，可能会导致远程代码执行。受影响的软件 ： Apache Struts 2.0.0 - Struts 2.5.25.| 
-| 20201211T09:31:06Z | CVE-2020-0787 | Null | https://github.com/MasterSploit/CVE-2020-0787-BitsArbitraryFileMove-master | 当Windows后台智能传输服务（BITS）不正确地处理符号链接时，即“ Windows后台智能传输服务特权提升漏洞”，则存在特权提升漏洞。| 
-| 20201211T09:27:34Z | CVE-2020-0787 | Null | https://github.com/MasterSploit/CVE-2020-0787 | | 
+| 20201211T11:06:35Z | CVE-2020-17530 | Collect S2-061 payloads | https://github.com/wuzuowei/CVE-2020-17530 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 57 MINUTES 03 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201211T09:31:06Z | CVE-2020-0787 | Null | https://github.com/MasterSploit/CVE-2020-0787-BitsArbitraryFileMove-master | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 56 MINUTES 10 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201211T09:27:34Z | CVE-2020-0787 | Null | https://github.com/MasterSploit/CVE-2020-0787 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 56 MINUTES 09 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 
 
 # klee on Github 推荐
@@ -102,16 +102,16 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20201212T00:53:24Z | for educational purposes only! | https://github.com/qqTechnologies/qqBackdoor-OS | 18 | 7| 
+| 20201211T22:15:48Z | Null | https://github.com/wcenatus/node-backdoor | 0 | 0| 
+| 20201211T18:45:51Z | Null | https://github.com/RechterBlox/Spigot-Backdoor | 0 | 0| 
+| 20201211T14:53:01Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 127 | 17| 
 | 20201211T08:59:14Z | Basic backdoor metamorphic  | https://github.com/Bryl33t/metamorphicore | 0 | 0| 
-| 20201211T08:34:22Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 127 | 17| 
-| 20201210T22:18:14Z | Null | https://github.com/wcenatus/node-backdoor | 0 | 0| 
 | 20201210T18:30:00Z | Null | https://github.com/rishavmehra/zaid_reverse_backdoor | 1 | 0| 
 | 20201210T13:59:11Z | Null | https://github.com/hsx479/backdoor-attack-use-real-trigger | 0 | 0| 
 | 20201210T12:48:43Z | Null | https://github.com/MitchellvdKlij/python-backdoor | 0 | 0| 
 | 20201210T12:35:11Z | C++ Backdoor/Spyware for Windows (ONLY FOR EDUCATIONAL PURPOSES) | https://github.com/ferdinandlb/WindowsBackdoor | 2 | 0| 
 | 20201210T11:44:05Z | Null | https://github.com/rabbitx1337/backdoor | 0 | 0| 
-| 20201210T09:10:24Z | An evaluation framework for mitigating DNN backdoor attacks using data augmentations | https://github.com/YiZeng623/DeepSweep | 0 | 0| 
-| 20201210T08:09:36Z | Fully Undetectable Malware Backdoor | https://github.com/raunvk/stealthware-backdoor | 1 | 0| 
 
 
 # fuzz on Github 推荐
