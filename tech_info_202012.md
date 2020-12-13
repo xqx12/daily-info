@@ -46,21 +46,22 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20201213T00:41:58Z | CVE-2020-17530 | Null | https://github.com/ka1n4t/CVE-2020-17530 | | 
+| 20201212T19:31:08Z | CVE-2020-17530 | Collect S2-061 payloads | https://github.com/wuzuowei/CVE-2020-17530 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 58 MINUTES 13 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201212T16:08:22Z | CVE-2020-17144 | weaponized tool for CVE-2020-17144 | https://github.com/zcgonvh/CVE-2020-17144 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 58 MINUTES 09 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20201212T13:00:40Z | CVE-2020-29669 | Macally WIFISD2 | https://github.com/code-byter/CVE-2020-29669 | 未查询到CVE信息| 
-| 20201212T10:38:14Z | CVE-2020-17530 | Null | https://github.com/ka1n4t/CVE-2020-17530 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  09 HOURS 59 MINUTES 47 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20201212T08:09:16Z | CVE-2020-17144 | weaponized tool for CVE-2020-17144 | https://github.com/zcgonvh/CVE-2020-17144 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  09 HOURS 59 MINUTES 50 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20201211T22:44:12Z | CVE-2020-8554 | [EMBARGO] CVE-2020-8554: Man in the middle using LoadBalancer or ExternalIPs | https://github.com/rancher/externalip-webhook | 未查询到CVE信息| 
 | 20201211T20:19:11Z | CVE-2020-1971 | CVE-2020-1971 Auto Scan & Remote Exploit Script. Auto Local Scan & Patch Script. | https://github.com/MBHudson/CVE-2020-1971 | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
 | 20201211T20:17:53Z | CVE-2020-8554 | Mitigate CVE-2020-8554 with Policy Controller in Anthos | https://github.com/jrmurray000/CVE-2020-8554 | 未查询到CVE信息| 
-| 20201211T18:27:24Z | CVE-2020-17144 | Exchange2010 authorized RCE | https://github.com/Airboi/CVE-2020-17144-EXP | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  09 HOURS 59 MINUTES 48 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201211T18:27:24Z | CVE-2020-17144 | Exchange2010 authorized RCE | https://github.com/Airboi/CVE-2020-17144-EXP | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 58 MINUTES 07 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20201211T17:27:10Z | CVE-2020-25637 | Double Free | https://github.com/brahmiboudjema/CVE-2020-25637-libvirt-double-free | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
-| 20201211T11:06:35Z | CVE-2020-17530 | Collect S2-061 payloads | https://github.com/wuzuowei/CVE-2020-17530 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  09 HOURS 59 MINUTES 54 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20201211T09:31:06Z | CVE-2020-0787 | Null | https://github.com/MasterSploit/CVE-2020-0787-BitsArbitraryFileMove-master | | 
+| 20201211T09:31:06Z | CVE-2020-0787 | Null | https://github.com/MasterSploit/CVE-2020-0787-BitsArbitraryFileMove-master | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 58 MINUTES 17 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20201213T00:17:11Z | Null | https://github.com/KleeUT/kleeut.com | 0 | 0| 
 | 20201212T08:01:18Z | Null | https://github.com/markhakansson/klee-tutorial | 0 | 0| 
 | 20201211T17:54:27Z | Null | https://github.com/morlap/kleebergfestival | 0 | 0| 
 | 20201211T15:42:48Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1571 | 474| 
@@ -70,7 +71,6 @@
 | 20201211T12:31:50Z | Null | https://github.com/fontworks-fonts/Klee | 0 | 0| 
 | 20201211T05:34:27Z | Urban Evidence Based Policy | https://github.com/KLeeDE/PUS2020_KLee | 0 | 1| 
 | 20201210T09:20:25Z | Null | https://github.com/viktorfrom/klee_tutorial | 0 | 0| 
-| 20201209T05:51:14Z | Website for the KLEE project: https://klee.github.io/ | https://github.com/klee/klee.github.io | 14 | 42| 
 
 
 # s2e on Github 推荐
@@ -87,16 +87,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20201212T13:59:58Z | Remote Command Execution as SYSTEM on Windows IoT Core | https://github.com/SafeBreach-Labs/SirepRAT | 245 | 68| 
-| 20201212T13:36:46Z | TryHackMe CTFs writeups, notes, dratfs, scrabbles, files and solutions. | https://github.com/edoardottt/tryhackme-ctf | 7 | 3| 
-| 20201212T13:31:41Z | Null | https://github.com/Haczyn/exploits | 0 | 0| 
-| 20201212T13:26:40Z | This is Training for Module no.11 ( Windows Buffer Overflows ) OSCP, with Exploit for Machine Windows 7 32-bit has SyncBreeze service working on Port 80. | https://github.com/LE0MX/Windows-Buffer-Overflow-OSCP | 0 | 0| 
-| 20201212T13:16:22Z | Null | https://github.com/frostediscool/skopExploit | 0 | 0| 
-| 20201212T13:00:06Z | Null | https://github.com/GodZero-py/Exploits | 0 | 0| 
-| 20201212T12:47:29Z | Null | https://github.com/royanpng2/MyExploit | 0 | 0| 
-| 20201212T12:34:02Z | Null | https://github.com/royanpng2/Exploit-Configuration | 0 | 0| 
-| 20201212T12:21:16Z | Guides to get started with binary exploitation and reverse engineering binaries. | https://github.com/hackarmour/binary-exploitation | 1 | 0| 
-| 20201212T12:14:35Z | Exploiting Programming Languages Energy Consumption | https://github.com/stefanos1316/Rosetta_Code_Research_MSR | 2 | 1| 
+| 20201213T01:01:32Z | RCE for old gitlab version <= 11.4.7 | https://github.com/pyrat3/gitlab_RCE | 0 | 0| 
+| 20201213T00:58:28Z | A phased, evasive Path Traversal + LFI scanning & exploitation tool in Python | https://github.com/VainlyStrain/Vailyn | 64 | 2| 
+| 20201213T00:45:49Z | Sifter is a OSINT, recon & vulnerability scanner. It incorporates a plethara of tools within different module sets that tries to cover every attack vector. Allowing you to quickly perform recon tasks and organize the results in one place. From OSINT to Recon, Exploitation, Post-Exploitation, OpSec, Threat Analysis, XSS, SQLinjection, Network Scanning, WebApp Analysis or DNS enumeration.. Sifter should be able to cover it all. | https://github.com/s1l3nt78/sifter | 312 | 92| 
+| 20201213T00:07:04Z | Exploit tool for ERC721 contracts using insecure RNG | https://github.com/skyfly200/omnipotent-artist | 0 | 0| 
+| 20201212T23:17:48Z | Null | https://github.com/crywink/AntiExploit | 0 | 0| 
+| 20201212T23:14:21Z | Exploiting ring0 memcpy-like functionality to disable Driver Signing Enforcement (DSE) | https://github.com/fdiskyou/CVE-2018-19320 | 24 | 11| 
+| 20201212T22:15:44Z | Computer Network Exploitation (CNE) Field Manual | https://github.com/mzet-/z-field-manual | 0 | 0| 
+| 20201212T21:34:59Z | This repository contains the scripts to exploit School vm from VulnHub | https://github.com/AL1ENUM/VulnHub-School-BOF-Windows | 0 | 0| 
+| 20201212T21:28:37Z | Null | https://github.com/caddickzac/Motivated-Reasoning-in-a-Causal-Explore-Exploit-Task | 0 | 0| 
+| 20201212T21:03:18Z | An app with really insecure crypto. To be used to see/test/exploit weak cryptographic implementations as well as to learn a little bit more about crypto, without the need to dive deep into the math behind it | https://github.com/DamnVulnerableCryptoApp/DamnVulnerableCryptoApp | 53 | 12| 
 
 
 # backdoor on Github 推荐
@@ -117,16 +117,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20201212T13:43:59Z | DevComp AB website | https://github.com/the-dev-company/fuzzy-adventure | 0 | 0| 
-| 20201212T13:28:10Z | GFS Algorithm Implement by Python | https://github.com/HarderThenHarder/GeneticFuzzySystem | 0 | 0| 
-| 20201212T12:55:42Z | A tale into the system security, fuzzing and vulnerability research | https://github.com/Microsvuln/Microsvuln.github.io | 0 | 0| 
-| 20201212T12:48:50Z | 该项目用于收集Web安全测试中常用的fuzz字典 | https://github.com/bigblackhat/WebFuzzList | 0 | 0| 
-| 20201212T11:21:34Z | OSS-Fuzz - continuous fuzzing of open source software. | https://github.com/google/oss-fuzz | 5724 | 1135| 
-| 20201212T11:10:04Z | Null | https://github.com/9iksans/iot-with-fuzzy-logic | 0 | 0| 
-| 20201212T11:07:46Z | Collected fuzzing payloads from different resources  | https://github.com/osamahamad/FUZZING | 6 | 3| 
-| 20201212T11:04:26Z | Null | https://github.com/appfuzzer-study/fuzzer-frameworks | 0 | 0| 
-| 20201212T10:52:16Z | FormatFuzzer is a framework for high-efficiency, high-quality generation and parsing of binary inputs. | https://github.com/uds-se/FormatFuzzer | 104 | 9| 
-| 20201212T09:36:14Z | a File Navigator powered by fzf | https://github.com/SleepyBag/fuzzy-fs | 11 | 2| 
+| 20201213T00:26:23Z | Null | https://github.com/castellanos94/FuzzyLogicPy | 0 | 0| 
+| 20201212T23:45:55Z | Personal website of Laurence Hughes | https://github.com/fuzzylogicxx/fuzzylogic | 4 | 1| 
+| 20201212T23:20:59Z | Read-only mirror of %fuzzysim% from r-forge SVN. | https://github.com/r-forge/fuzzysim | 0 | 0| 
+| 20201212T23:19:01Z | Null | https://github.com/FuzzyFox27/FuzzyFox27.github.io | 0 | 0| 
+| 20201212T23:08:13Z | fuzzyset.js - A fuzzy string set for javascript | https://github.com/Glench/fuzzyset.js | 1167 | 96| 
+| 20201212T23:05:01Z | https://github.com/wcventure/FuzzingPaper | https://github.com/mishmashclone/wcventure-FuzzingPaper | 1 | 0| 
+| 20201212T22:39:14Z | Null | https://github.com/sk3lk0/simple_fuzzer | 0 | 0| 
+| 20201212T22:30:58Z | Null | https://github.com/mrkaurelius/fuzzykafe | 0 | 0| 
+| 20201212T22:30:34Z | Null | https://github.com/fuzzyhappy/fuzzyhappy | 0 | 0| 
+| 20201212T22:23:26Z | Fuzzinator Random Testing Framework | https://github.com/renatahodovan/fuzzinator | 164 | 38| 
 
 
 
