@@ -46,16 +46,16 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20201213T00:41:58Z | CVE-2020-17530 | Null | https://github.com/ka1n4t/CVE-2020-17530 | | 
-| 20201212T19:31:08Z | CVE-2020-17530 | Collect S2-061 payloads | https://github.com/wuzuowei/CVE-2020-17530 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 58 MINUTES 13 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20201212T16:08:22Z | CVE-2020-17144 | weaponized tool for CVE-2020-17144 | https://github.com/zcgonvh/CVE-2020-17144 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 58 MINUTES 09 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201213T00:41:58Z | CVE-2020-17530 | Null | https://github.com/ka1n4t/CVE-2020-17530 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 55 MINUTES 59 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201212T19:31:08Z | CVE-2020-17530 | Collect S2-061 payloads | https://github.com/wuzuowei/CVE-2020-17530 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 56 MINUTES 06 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201212T16:08:22Z | CVE-2020-17144 | weaponized tool for CVE-2020-17144 | https://github.com/zcgonvh/CVE-2020-17144 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 56 MINUTES 02 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20201212T13:00:40Z | CVE-2020-29669 | Macally WIFISD2 | https://github.com/code-byter/CVE-2020-29669 | 未查询到CVE信息| 
 | 20201211T22:44:12Z | CVE-2020-8554 | [EMBARGO] CVE-2020-8554: Man in the middle using LoadBalancer or ExternalIPs | https://github.com/rancher/externalip-webhook | 未查询到CVE信息| 
 | 20201211T20:19:11Z | CVE-2020-1971 | CVE-2020-1971 Auto Scan & Remote Exploit Script. Auto Local Scan & Patch Script. | https://github.com/MBHudson/CVE-2020-1971 | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
 | 20201211T20:17:53Z | CVE-2020-8554 | Mitigate CVE-2020-8554 with Policy Controller in Anthos | https://github.com/jrmurray000/CVE-2020-8554 | 未查询到CVE信息| 
-| 20201211T18:27:24Z | CVE-2020-17144 | Exchange2010 authorized RCE | https://github.com/Airboi/CVE-2020-17144-EXP | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 58 MINUTES 07 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201211T18:27:24Z | CVE-2020-17144 | Exchange2010 authorized RCE | https://github.com/Airboi/CVE-2020-17144-EXP | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 56 MINUTES 00 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20201211T17:27:10Z | CVE-2020-25637 | Double Free | https://github.com/brahmiboudjema/CVE-2020-25637-libvirt-double-free | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
-| 20201211T09:31:06Z | CVE-2020-0787 | Null | https://github.com/MasterSploit/CVE-2020-0787-BitsArbitraryFileMove-master | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 58 MINUTES 17 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201211T09:31:06Z | CVE-2020-0787 | Null | https://github.com/MasterSploit/CVE-2020-0787-BitsArbitraryFileMove-master | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 56 MINUTES 10 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 
 
 # klee on Github 推荐
@@ -87,7 +87,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20201213T01:01:32Z | RCE for old gitlab version <= 11.4.7 | https://github.com/pyrat3/gitlab_RCE | 0 | 0| 
+| 20201213T01:02:28Z | RCE for old gitlab version <= 11.4.7 | https://github.com/pyrat3/gitlab_RCE | 0 | 0| 
 | 20201213T00:58:28Z | A phased, evasive Path Traversal + LFI scanning & exploitation tool in Python | https://github.com/VainlyStrain/Vailyn | 64 | 2| 
 | 20201213T00:45:49Z | Sifter is a OSINT, recon & vulnerability scanner. It incorporates a plethara of tools within different module sets that tries to cover every attack vector. Allowing you to quickly perform recon tasks and organize the results in one place. From OSINT to Recon, Exploitation, Post-Exploitation, OpSec, Threat Analysis, XSS, SQLinjection, Network Scanning, WebApp Analysis or DNS enumeration.. Sifter should be able to cover it all. | https://github.com/s1l3nt78/sifter | 312 | 92| 
 | 20201213T00:07:04Z | Exploit tool for ERC721 contracts using insecure RNG | https://github.com/skyfly200/omnipotent-artist | 0 | 0| 
@@ -102,6 +102,9 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20201213T01:00:49Z | Bilingual PhishingKit. TigerShark intergrates a vast array of various phishing tools and frameworks, from C2 servers, backdoors and delivery methods in multiple scripting languages in order to suit whatever your deployment needs may be. | https://github.com/s1l3nt78/TigerShark | 154 | 27| 
+| 20201212T19:26:28Z | Null | https://github.com/mikkelskov1/backdoor2 | 0 | 0| 
+| 20201212T16:40:16Z | Null | https://github.com/rishavmehra/listener-for-reverse-backdoor | 0 | 0| 
 | 20201212T11:47:20Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 130 | 17| 
 | 20201212T10:08:54Z | Remote Access Trojan (RAT) backdoor exploit generator and server project. *Educational purposes only | https://github.com/fordlarman/J0n3sy_Cat | 0 | 0| 
 | 20201212T07:35:15Z | Null | https://github.com/irepublica/monitor_backdoor | 0 | 0| 
@@ -109,9 +112,6 @@
 | 20201211T22:15:48Z | Null | https://github.com/wcenatus/node-backdoor | 0 | 0| 
 | 20201211T18:45:51Z | Null | https://github.com/RechterBlox/Spigot-Backdoor | 0 | 0| 
 | 20201211T08:59:14Z | Basic backdoor metamorphic  | https://github.com/Bryl33t/metamorphicore | 0 | 0| 
-| 20201210T18:30:00Z | Null | https://github.com/rishavmehra/zaid_reverse_backdoor | 1 | 0| 
-| 20201210T13:59:11Z | Null | https://github.com/hsx479/backdoor-attack-use-real-trigger | 0 | 0| 
-| 20201210T12:48:43Z | Null | https://github.com/MitchellvdKlij/python-backdoor | 0 | 0| 
 
 
 # fuzz on Github 推荐
