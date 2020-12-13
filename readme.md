@@ -16,9 +16,9 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20201213T13:07:45Z | CVE-2020-17530 | Null | https://github.com/ka1n4t/CVE-2020-17530 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 50 MINUTES 10 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201213T13:07:45Z | CVE-2020-17530 | Null | https://github.com/ka1n4t/CVE-2020-17530 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 49 MINUTES 10 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20201213T13:01:27Z | CVE-2020-17530 | S2-061 CVE-2020-17530 | https://github.com/Al1ex/CVE-2020-17530 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 49 MINUTES 22 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20201213T12:48:56Z | CVE-2020-17530 | Collect S2-061 payloads | https://github.com/wuzuowei/CVE-2020-17530 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 50 MINUTES 17 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201213T12:48:56Z | CVE-2020-17530 | Collect S2-061 payloads | https://github.com/wuzuowei/CVE-2020-17530 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 49 MINUTES 17 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 
 
 # klee on Github 推荐
@@ -37,10 +37,10 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20201213T13:11:12Z | This repo is our IERG 5350 project about %IPM Move Planner: An Efficient Exploiting Deep Reinforcement Learning with Monte Carlo Tree Search% | https://github.com/baifanxxx/IPM-MovePlanner | 0 | 0| 
 | 20201213T13:06:56Z | Null | https://github.com/uidstax/exploits | 0 | 0| 
 | 20201213T13:06:13Z | RCE for old gitlab version <= 11.4.7 | https://github.com/dotPY-hax/gitlab_RCE | 0 | 0| 
 | 20201213T13:05:20Z | Remote Command Execution as SYSTEM on Windows IoT Core (releases available for Python2.7 & Python3) | https://github.com/SafeBreach-Labs/SirepRAT | 257 | 70| 
-| 20201213T12:48:16Z | This repo is our IERG 5350 project about %IPM Move Planner: An Efficient Exploiting Deep Reinforcement Learning with Monte Carlo Tree Search% | https://github.com/baifanxxx/IPM-MovePlanner | 0 | 0| 
 | 20201213T12:47:53Z | my exploits for the App-system challenges on https://www.root-me.org/en/Challenges/App-System/?tri_co=titre | https://github.com/AravGarg/rootme-myexploits | 0 | 0| 
 | 20201213T12:21:26Z | EDL exploit for Redmi 3S | https://github.com/fxsheep/firehorse_land | 5 | 1| 
 | 20201213T11:35:15Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 8743 | 1381| 
