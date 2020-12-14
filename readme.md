@@ -63,7 +63,9 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20201213T11:15:43Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 130 | 17| 
+| 20201213T19:47:47Z | Null | https://github.com/alfredla/backdoor | 0 | 1| 
+| 20201213T18:57:58Z | Null | https://github.com/DEADRIZER/Backdoor | 0 | 0| 
+| 20201213T15:20:11Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 131 | 18| 
 | 20201213T10:51:06Z | Null | https://github.com/rtykholiz/backdoors | 0 | 0| 
 | 20201213T06:26:01Z | Discord Shit + Panels + Account Checkers. Note One may be a backdoor. I have no clue... [Not Mine] | https://github.com/Vortex-777/DDoS-Panels-DiscordShit | 0 | 0| 
 | 20201213T04:39:35Z | Bilingual PhishingKit. TigerShark intergrates a vast array of various phishing tools and frameworks, from C2 servers, backdoors and delivery methods in multiple scripting languages in order to suit whatever your deployment needs may be. | https://github.com/s1l3nt78/TigerShark | 155 | 27| 
