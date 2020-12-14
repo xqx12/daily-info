@@ -8,6 +8,7 @@
 | --- | --- | ---| 
 | 20201213 | 渗透测试：改善网络安全战术的路线图讨论。 | https://www.darkreading.com/vulnerabilities---threats/penetration-testing-a-road-map-for-improving-outcomes/a/d-id/1339634?_mc=rss_x_drr_edt_aud_dr_x_x-rss-simple| 
 | 20201213 | 如何在Android Studio上搭建Android进行对应用软件逆向分析。 | https://medium.com/bugbountywriteup/apk-testing-on-an-android-studio-c0addb12550?source=rss----7b722bfd1b8d---4| 
+| 20201213 | CVE-2020-17140 Windows SMB Information Disclousure Analysis | https://blogs.360.cn/post/CVE-2020-17140-Analysis.html| 
 | 20201211 | Cross-Site Escape - Pwning macOS Safari Sandbox the Unusual Way | https://i.blackhat.com/eu-20/Thursday/eu-20-Zhou-Cross-Site-Escape-Pwning-MacOS-Safari-Sandbox-The-Unusual-Way.pdf| 
 | 20201211 | Discovery 20 Years Old Vulnerabilities In Modern Windows Kernel | https://i.blackhat.com/eu-20/Wednesday/eu-20-Han-Discovery-20-Yeas-Old-Vulnerabilities-In-Modern-Windows-Kernel.pdf| 
 | 20201211 | This is for the Pwners: Exploiting a WebKit 0-day in PlayStation 4 | https://www.synacktiv.com/publications/this-is-for-the-pwners-exploiting-a-webkit-0-day-in-playstation-4.html| 
@@ -25,7 +26,6 @@
 | 20201210 | Game On – Finding vulnerabilities in Valve’s “Steam Sockets” | https://research.checkpoint.com/2020/game-on-finding-vulnerabilities-in-valves-steam-sockets/| 
 | 20201210 | Novel Abuses On Wi-Fi Direct Mobile File Transfers | https://blog.doyensec.com//2020/12/10/novel-abuses-wifi-direct-mobile-file-transfers.html| 
 | 20201210 | Apple macOS 内核越界写漏洞分析（CVE-2020-27897） | https://www.thezdi.com/blog/2020/12/9/cve-2020-27897-apple-macos-kernel-oob-write-privilege-escalation-vulnerability| 
-| 20201209 | 微软发布 Windows 12 月份漏洞补丁更新 | https://msrc.microsoft.com/update-guide/releaseNote/2020-Nov| 
 
 
 # 安全维基 推荐
@@ -47,12 +47,12 @@
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
 | 20201214T02:27:09Z | CVE-2020-26259 | CVE-2020-26259: XStream is vulnerable to an Arbitrary File Deletion on the local host when unmarshalling as long as the executing process has sufficient rights. | https://github.com/jas502n/CVE-2020-26259 | 未查询到CVE信息| 
-| 20201213T17:06:49Z | CVE-2020-17144 | weaponized tool for CVE-2020-17144 | https://github.com/zcgonvh/CVE-2020-17144 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 20 MINUTES 10 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201213T17:06:49Z | CVE-2020-17144 | weaponized tool for CVE-2020-17144 | https://github.com/zcgonvh/CVE-2020-17144 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 19 MINUTES 07 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20201213T13:51:06Z | CVE-2020-3452 | Null | https://github.com/cygenta/CVE-2020-3452 | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
 | 20201213T13:07:45Z | CVE-2020-17530 | Null | https://github.com/ka1n4t/CVE-2020-17530 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 09 MINUTES 08 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20201213T13:01:27Z | CVE-2020-17530 | S2-061 CVE-2020-17530 | https://github.com/Al1ex/CVE-2020-17530 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 20 MINUTES 18 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20201213T12:48:56Z | CVE-2020-17530 | Collect S2-061 payloads | https://github.com/wuzuowei/CVE-2020-17530 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 20 MINUTES 13 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20201212T13:00:40Z | CVE-2020-29669 | Macally WIFISD2 | https://github.com/code-byter/CVE-2020-29669 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 20 MINUTES 04 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201213T13:01:27Z | CVE-2020-17530 | S2-061 CVE-2020-17530 | https://github.com/Al1ex/CVE-2020-17530 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 19 MINUTES 16 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201213T12:48:56Z | CVE-2020-17530 | Collect S2-061 payloads | https://github.com/wuzuowei/CVE-2020-17530 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 19 MINUTES 11 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201212T13:00:40Z | CVE-2020-29669 | Macally WIFISD2 | https://github.com/code-byter/CVE-2020-29669 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 19 MINUTES 02 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20201211T22:44:12Z | CVE-2020-8554 | [EMBARGO] CVE-2020-8554: Man in the middle using LoadBalancer or ExternalIPs | https://github.com/rancher/externalip-webhook | 未查询到CVE信息| 
 | 20201211T20:19:11Z | CVE-2020-1971 | CVE-2020-1971 Auto Scan & Remote Exploit Script. Auto Local Scan & Patch Script. | https://github.com/MBHudson/CVE-2020-1971 | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
 | 20201211T20:17:53Z | CVE-2020-8554 | Mitigate CVE-2020-8554 with Policy Controller in Anthos | https://github.com/jrmurray000/CVE-2020-8554 | 未查询到CVE信息| 
