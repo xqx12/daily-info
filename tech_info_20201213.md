@@ -9,6 +9,8 @@
 | 20201213 | 渗透测试：改善网络安全战术的路线图讨论。 | https://www.darkreading.com/vulnerabilities---threats/penetration-testing-a-road-map-for-improving-outcomes/a/d-id/1339634?_mc=rss_x_drr_edt_aud_dr_x_x-rss-simple| 
 | 20201213 | 如何在Android Studio上搭建Android进行对应用软件逆向分析。 | https://medium.com/bugbountywriteup/apk-testing-on-an-android-studio-c0addb12550?source=rss----7b722bfd1b8d---4| 
 | 20201213 | CVE-2020-17140 Windows SMB Information Disclousure Analysis | https://blogs.360.cn/post/CVE-2020-17140-Analysis.html| 
+| 20201213 | 如何用 C++ 写一个 C&C 远控模块 | https://shogunlab.gitbook.io/building-c2-implants-in-cpp-a-primer/| 
+| 20201213 | 红蓝对抗之Linux内网渗透 | http://security.tencent.com/index.php/blog/msg/174| 
 
 
 # 安全维基 推荐
@@ -22,7 +24,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20201213T17:06:49Z | CVE-2020-17144 | weaponized tool for CVE-2020-17144 | https://github.com/zcgonvh/CVE-2020-17144 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 09 MINUTES 07 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201213T17:06:49Z | CVE-2020-17144 | weaponized tool for CVE-2020-17144 | https://github.com/zcgonvh/CVE-2020-17144 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 08 MINUTES 16 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20201213T13:51:06Z | CVE-2020-3452 | Null | https://github.com/cygenta/CVE-2020-3452 | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
 | 20201213T13:07:45Z | CVE-2020-17530 | Null | https://github.com/ka1n4t/CVE-2020-17530 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 09 MINUTES 08 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20201213T13:01:27Z | CVE-2020-17530 | S2-061 CVE-2020-17530 | https://github.com/Al1ex/CVE-2020-17530 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 08 MINUTES 25 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
