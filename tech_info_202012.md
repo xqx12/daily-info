@@ -6,6 +6,12 @@
 # 玄武实验室 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20201214 | Reversing engineering the fix of CVE-2020-9771 | https://theevilbit.github.io/posts/reversing_cve_2020_9771/| 
+| 20201214 | 攻击者 UNC2452 利用 SolarWinds 供应链攻击及 SUNBURST 后门攻击全球多个目标 | https://www.fireeye.com/blog/threat-research/2020/12/evasive-attacker-leverages-solarwinds-supply-chain-compromises-with-sunburst-backdoor.html?1| 
+| 20201214 | 据报道，美国多个机构、安全公司 FireEye 被黑背后的攻击者为俄罗斯政府支持的组织 | https://www.washingtonpost.com/national-security/russian-government-spies-are-behind-a-broad-hacking-campaign-that-has-breached-us-agencies-and-a-top-cyber-firm/2020/12/13/d5a53b88-3d7d-11eb-9453-fc36ba051781_story.html| 
+| 20201214 | 一款针对Webpack等前端打包工具所构造的网站进行快速、高效安全检测的扫描工具 | https://github.com/rtcatc/Packer-Fuzzer| 
+| 20201214 | GRAT2 C2 - 支持 DNS Listener，HTTPS Listener | https://github.com/r3nhat/GRAT2| 
+| 20201214 | Detects Module Stomping as implemented by Cobalt Strike | https://github.com/slaeryan/DetectCobaltStomp| 
 | 20201213 | 渗透测试：改善网络安全战术的路线图讨论。 | https://www.darkreading.com/vulnerabilities---threats/penetration-testing-a-road-map-for-improving-outcomes/a/d-id/1339634?_mc=rss_x_drr_edt_aud_dr_x_x-rss-simple| 
 | 20201213 | 如何在Android Studio上搭建Android进行对应用软件逆向分析。 | https://medium.com/bugbountywriteup/apk-testing-on-an-android-studio-c0addb12550?source=rss----7b722bfd1b8d---4| 
 | 20201213 | CVE-2020-17140 Windows SMB Information Disclousure Analysis | https://blogs.360.cn/post/CVE-2020-17140-Analysis.html| 
@@ -20,17 +26,13 @@
 | 20201210 | 玄武实验室研究员在 BlackHat Europe 2020 会议的演讲 “Shield with Hole: New Security Mitigation Helps Us Escape Chrome Sandbox to Exfiltrate User Privacy” | https://i.blackhat.com/eu-20/Wednesday/eu-20-Wang-Shield-With-Hole-New-Security-Mitigation-Helps-Us-Escape-Chrome-Sandbox-To-Exfiltrate-User-Privacy.pdf| 
 | 20201210 | 来自玄武实验室研究员在 BlackHat Europe 2020 会议的演讲 “Finding Bugs Compiler Knows but Doesnt Tell You: Dissecting Undefined Behavior Optimizations in LLVM” | https://i.blackhat.com/eu-20/Wednesday/eu-20-Wu-Finding-Bugs-Compiler-Knows-But-Does-Not-Tell-You-Dissecting-Undefined-Behavior-Optimizations-In-LLVM.pdf| 
 | 20201210 | Pwine Award Winners 2020 评选的结果出来了 | https://pwnies.com/winners/| 
-| 20201210 | FireEye 发文称有国家级攻击团队窃取了 FireEye 的 Red Team Tools | https://www.fireeye.com/blog/threat-research/2020/12/unauthorized-access-of-fireeye-red-team-tools.html| 
-| 20201210 | 系统管理工具 PsExec 本地 SYSTEM 提权漏洞分析 | https://medium.com/tenable-techblog/psexec-local-privilege-escalation-2e8069adc9c8| 
-| 20201210 | iOS系统分析故障书籍资源。 | https://github.com/faisalmemon/ios-crash-dump-analysis-book| 
-| 20201210 | CVE-2018-8453 Win32k漏洞分析笔记。 | http://xz.aliyun.com/t/8614| 
-| 20201210 | 通过1.1.1.1解析中的遗忘DoH改善DNS隐私。 | https://blog.cloudflare.com/oblivious-dns/| 
-| 20201210 | Game On – Finding vulnerabilities in Valve’s “Steam Sockets” | https://research.checkpoint.com/2020/game-on-finding-vulnerabilities-in-valves-steam-sockets/| 
 
 
 # 安全维基 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20201214 | SecWiki周刊（第354期) | https://www.sec-wiki.com/weekly/354| 
+| 20201214 | ASPX之黑名单上传限制的绕过 | https://mp.weixin.qq.com/s/FMZQpn9ck3bbPLUgdLDXUw| 
 | 20201213 | FireEye红队工具失窃事件跟进分析 | https://mp.weixin.qq.com/s/X-bBV44nMQvDlnl6f4eX7Q| 
 | 20201213 | 高效工作 | https://www.yuque.com/zenany/up/high_productivity_work| 
 | 20201213 | 各国数据隐私与保护情况 | https://mp.weixin.qq.com/s/B061CcZsJKavNEj_ggkRLQ| 
@@ -39,23 +41,21 @@
 | 20201212 | 黑吃黑Getshell到提权实战案例 | https://mp.weixin.qq.com/s/Hr-ybKz2CbG4yyTpww23rA| 
 | 20201212 | 2020网络安全大事记 - 监管判例篇 | https://mp.weixin.qq.com/s/60-O9GGYPNZZW6KVvY_c8w| 
 | 20201211 | 逆向智能门锁漏洞分析PART（一） | https://mp.weixin.qq.com/s/pIeV3uNfRzAYggxRSo7P_g| 
-| 20201211 | BypassAv小技巧 | https://www.sec-in.com/article/733| 
-| 20201211 | Kerberos Bronze Bit Attack (CVE-2020-17049) Scenarios to P... | https://www.hub.trimarcsecurity.com/post/leveraging-the-kerberos-bronze-bit-attack-cve-2020-17049-scenarios-to-compromise-active-directory| 
 
 
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20201214T02:27:09Z | CVE-2020-26259 | CVE-2020-26259: XStream is vulnerable to an Arbitrary File Deletion on the local host when unmarshalling as long as the executing process has sufficient rights. | https://github.com/jas502n/CVE-2020-26259 | 未查询到CVE信息| 
+| 20201214T12:08:33Z | CVE-2020-14882 | Vulmap - Web漏洞扫描和验证工具，可对Web容器、Web服务器、Web中间件以及CMS等Web程序进行漏洞扫描，并且具备漏洞利用功能。 相关测试人员可以使用vulmap检测目标是否存在特定漏洞，并且可以使用漏洞利用功能验证漏洞是否真实存在。CVE-2020-14882, CVE-2020-2555, CVE-2020-2883, S2-061, CVE-2020-13942, CVE-2020-17530 | https://github.com/zhzyker/vulmap | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
+| 20201214T10:02:49Z | CVE-2020-17530 | Collect S2-061 payloads | https://github.com/wuzuowei/CVE-2020-17530 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 58 MINUTES 24 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201214T09:51:40Z | CVE-2020-26259 | CVE-2020-26259: XStream is vulnerable to an Arbitrary File Deletion on the local host when unmarshalling as long as the executing process has sufficient rights. | https://github.com/jas502n/CVE-2020-26259 | 未查询到CVE信息| 
+| 20201214T08:33:40Z | CVE-2020-17530 | CVE-2020-17530-strust2-061 | https://github.com/fengziHK/CVE-2020-17530-strust2-061 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 58 MINUTES 31 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201214T07:57:57Z | CVE-2020-15002 | https://hackerone.com/reports/863553 | https://github.com/skr0x1c0/SSRF-CVE-2020-15002 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 58 MINUTES 32 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201214T07:52:11Z | CVE-2020-15002 | https://hackerone.com/reports/865652 | https://github.com/skr0x1c0/Blind-SSRF-CVE-2020-15002 | | 
+| 20201214T06:44:57Z | CVE-2020-27190 | Null | https://github.com/qlh831/x-CVE-2020-27190 | 未查询到CVE信息| 
+| 20201214T06:08:39Z | CVE-2020-17530 | S2-061 CVE-2020-17530 | https://github.com/Al1ex/CVE-2020-17530 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 58 MINUTES 28 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20201213T17:06:49Z | CVE-2020-17144 | weaponized tool for CVE-2020-17144 | https://github.com/zcgonvh/CVE-2020-17144 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 00 MINUTES 10 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20201213T13:51:06Z | CVE-2020-3452 | Null | https://github.com/cygenta/CVE-2020-3452 | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
-| 20201213T13:07:45Z | CVE-2020-17530 | Null | https://github.com/ka1n4t/CVE-2020-17530 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 09 MINUTES 08 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20201213T13:01:27Z | CVE-2020-17530 | S2-061 CVE-2020-17530 | https://github.com/Al1ex/CVE-2020-17530 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 00 MINUTES 19 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20201213T12:48:56Z | CVE-2020-17530 | Collect S2-061 payloads | https://github.com/wuzuowei/CVE-2020-17530 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 00 MINUTES 13 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20201212T13:00:40Z | CVE-2020-29669 | Macally WIFISD2 | https://github.com/code-byter/CVE-2020-29669 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 00 MINUTES 04 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20201211T22:44:12Z | CVE-2020-8554 | [EMBARGO] CVE-2020-8554: Man in the middle using LoadBalancer or ExternalIPs | https://github.com/rancher/externalip-webhook | 未查询到CVE信息| 
-| 20201211T20:19:11Z | CVE-2020-1971 | CVE-2020-1971 Auto Scan & Remote Exploit Script. Auto Local Scan & Patch Script. | https://github.com/MBHudson/CVE-2020-1971 | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
-| 20201211T20:17:53Z | CVE-2020-8554 | Mitigate CVE-2020-8554 with Policy Controller in Anthos | https://github.com/jrmurray000/CVE-2020-8554 | 未查询到CVE信息| 
 
 
 # klee on Github 推荐
@@ -88,16 +88,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20201214T02:57:05Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 8744 | 1382| 
-| 20201214T02:43:48Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 3266 | 498| 
-| 20201214T01:21:14Z | Null | https://github.com/k0rup710n/OsCommerce-2.3.4-ExploitWithBurp | 0 | 0| 
-| 20201214T01:20:24Z | This repository contains the scripts to exploit School vm from VulnHub | https://github.com/AL1ENUM/VulnHub-School-BOF-Windows | 0 | 0| 
-| 20201214T00:54:05Z | Formation about basics web applications security. How to exploit them and prevent from them. | https://github.com/fabremx/Web-security-formation | 0 | 0| 
-| 20201214T00:30:30Z | Null | https://github.com/Kill3rtr0n/HollowExploits | 0 | 0| 
-| 20201214T00:28:36Z | Collection of tools and techniques for enumeration and exploitation of windows systems, linux systems, and web applications. | https://github.com/EvolvingSysadmin/Penetration-Testing | 1 | 1| 
-| 20201214T00:26:38Z | Thi powershell script has got to run in remote windows host, even for pivoting | https://github.com/FabioDefilippo/winallenum | 0 | 1| 
-| 20201214T00:08:19Z | Explanation of All the Payloads Used in Pentester Academy%s JS for Pentester Course | https://github.com/tbhaxor/pt-jsfp | 0 | 0| 
-| 20201213T23:49:34Z | Extensible framework for analyzing publicly available information about vulnerabilities | https://github.com/leonov-av/vulristics | 18 | 1| 
+| 20201214T12:56:24Z | Exploration-Exploitation using MAB | https://github.com/aegoe/MAB | 0 | 1| 
+| 20201214T12:49:54Z | CDK is an open-sourced container penetration toolkit, designed for offering stable exploitation in different slimmed containers without any OS dependency. It comes with useful net-tools and many powerful PoCs/EXPs helps you to escape container and takeover K8s cluster easily. | https://github.com/Xyntax/CDK | 51 | 5| 
+| 20201214T12:23:56Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 8744 | 1382| 
+| 20201214T12:08:54Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 3269 | 498| 
+| 20201214T12:08:33Z | Vulmap - Web漏洞扫描和验证工具，可对Web容器、Web服务器、Web中间件以及CMS等Web程序进行漏洞扫描，并且具备漏洞利用功能。 相关测试人员可以使用vulmap检测目标是否存在特定漏洞，并且可以使用漏洞利用功能验证漏洞是否真实存在。CVE-2020-14882, CVE-2020-2555, CVE-2020-2883, S2-061, CVE-2020-13942, CVE-2020-17530 | https://github.com/zhzyker/vulmap | 424 | 81| 
+| 20201214T12:04:25Z | A collection of stack temporal safety exploits that I intend to mitigate for my Master%s project | https://github.com/bencole12345/StackTemporalSafetyExploits | 0 | 0| 
+| 20201214T11:33:52Z | my exploits for the App-system challenges on https://www.root-me.org/en/Challenges/App-System/?tri_co=titre | https://github.com/AravGarg/rootme-myexploits | 0 | 0| 
+| 20201214T11:19:29Z | Multiple vulnerabilities in Tencent Gameloop | https://github.com/seqred-s-a/gameloop-cve | 0 | 1| 
+| 20201214T11:19:19Z | Linux kernel CVE exploit analysis report and relative debug environment. You don%t need to compile Linux kernel and configure your environment anymore.  | https://github.com/bsauce/kernel_exploit_factory | 8 | 0| 
+| 20201214T10:41:20Z | Hydrology Thematic Exploitation guide http://hydrology-tep.github.io/documentation | https://github.com/hydrology-tep/documentation | 1 | 4| 
 
 
 # backdoor on Github 推荐
