@@ -103,31 +103,31 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20201214T10:10:43Z | Strengthen your defense against web attacks with Kali Linux and Metasploit | https://github.com/PacktPublishing/Improving-your-Penetration-Testing-Skills | 5 | 0| 
+| 20201214T10:04:15Z | Quick lookup files for SUNBURST Backdoor  | https://github.com/rkovar/sunburstlookups | 1 | 1| 
+| 20201214T09:32:17Z | Null | https://github.com/slimsevernake/Backdoor-Botnet-or-BackNet | 0 | 0| 
+| 20201214T09:30:03Z | A Malduino compatible USB Rubber Ducky payload to enable RDP, disable/cripple defender, disable AMSI, and execute a self healing and reboot persistent Windows 10 backdoor. | https://github.com/ll3N1GmAll/Malduino_Win10_Persistent_Backdoor_With_Special_Sauce | 2 | 1| 
+| 20201214T08:01:42Z | Null | https://github.com/rabbitx1337/backdoor | 0 | 0| 
 | 20201213T19:47:47Z | Null | https://github.com/alfredla/backdoor | 0 | 1| 
 | 20201213T18:57:58Z | Null | https://github.com/DEADRIZER/Backdoor | 0 | 0| 
 | 20201213T15:20:11Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 131 | 18| 
 | 20201213T10:51:06Z | Null | https://github.com/rtykholiz/backdoors | 0 | 0| 
 | 20201213T06:26:01Z | Discord Shit + Panels + Account Checkers. Note One may be a backdoor. I have no clue... [Not Mine] | https://github.com/Vortex-777/DDoS-Panels-DiscordShit | 0 | 0| 
-| 20201213T04:39:35Z | Bilingual PhishingKit. TigerShark intergrates a vast array of various phishing tools and frameworks, from C2 servers, backdoors and delivery methods in multiple scripting languages in order to suit whatever your deployment needs may be. | https://github.com/s1l3nt78/TigerShark | 155 | 27| 
-| 20201213T03:43:40Z | End-to-end backdooring options - to be banned using personal copyright... | https://github.com/zemberitenyezo/E2EE_backdooring | 0 | 0| 
-| 20201212T19:26:28Z | Null | https://github.com/mikkelskov1/backdoor2 | 0 | 0| 
-| 20201212T16:40:16Z | Null | https://github.com/rishavmehra/listener-for-reverse-backdoor | 0 | 0| 
-| 20201212T10:08:54Z | Remote Access Trojan (RAT) backdoor exploit generator and server project. *Educational purposes only | https://github.com/fordlarman/J0n3sy_Cat | 0 | 0| 
 
 
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20201214T02:58:09Z | Code created within scope of ECE 552 for the final project | https://github.com/mikebowyer/ECE552_FuzzySecurityCamera | 0 | 0| 
-| 20201214T02:46:38Z | Textpattern CMS plugin  that offers alternative spellings and/or close-matching articles from search terms | https://github.com/Bloke/smd_fuzzy_find | 2 | 1| 
-| 20201214T02:28:17Z | Recent Fuzzing Paper | https://github.com/wcventure/FuzzingPaper | 669 | 116| 
-| 20201214T02:17:30Z | OSS-Fuzz - continuous fuzzing of open source software. | https://github.com/google/oss-fuzz | 5727 | 1137| 
-| 20201214T02:14:05Z | Software for fuzzing, used on web application pentestings. | https://github.com/NESCAU-UFLA/FuzzingTool | 0 | 0| 
-| 20201214T01:58:17Z | Epub source for the Standard Ebooks edition of Little Fuzzy, by H. Beam Piper | https://github.com/standardebooks/h-beam-piper_little-fuzzy | 1 | 2| 
-| 20201214T01:37:24Z | The Official Fuzzy Britches Repository. | https://github.com/ThePapaw/fuzzybritches | 0 | 0| 
-| 20201214T01:09:31Z | FuzzBench - Fuzzer benchmarking as a service. | https://github.com/google/fuzzbench | 563 | 90| 
-| 20201213T23:51:06Z | Null | https://github.com/nashir4499/fuzzy_logic | 0 | 0| 
-| 20201213T23:34:06Z | P2P Content Publishing, Curation, and Browsing Platform | https://github.com/FuzzrNet/fuzzr | 4 | 0| 
+| 20201214T12:53:48Z | Null | https://github.com/ameerazlan/fuzzy-octo-lamp | 0 | 0| 
+| 20201214T12:42:25Z | dup repository of prog-fuzz | https://github.com/Hanseltu/prog-fuzz-dup | 0 | 0| 
+| 20201214T12:39:55Z | Read-only mirror of %fuzzysim% from r-forge SVN. | https://github.com/r-forge/fuzzysim | 0 | 0| 
+| 20201214T11:54:19Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 3278 | 753| 
+| 20201214T11:52:38Z | Null | https://github.com/Smoothini/fuzzy-winner | 0 | 0| 
+| 20201214T11:51:34Z | This program uses Fuzzy Logic to estimate your degree on a subject based on the difficulty of the exam and your study. | https://github.com/AbdulfattahBaalawi/Marks-Prediction-Using-Fuzzy-Logic | 0 | 0| 
+| 20201214T10:58:45Z | 该项目用于收集Web安全测试中常用的fuzz字典 | https://github.com/bigblackhat/WebFuzzList | 0 | 0| 
+| 20201214T10:42:54Z | Very Fast and Powerful Web Fuzzer | https://github.com/RedSecurity/power-ffuf | 2 | 0| 
+| 20201214T10:29:24Z | Null | https://github.com/Sentinel-One/efi_fuzz | 59 | 6| 
+| 20201214T10:16:42Z | Android本地模糊搜索 | https://github.com/zhang721688/FuzzySearchDemo | 0 | 0| 
 
 
 

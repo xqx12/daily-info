@@ -63,19 +63,26 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20201214T10:10:43Z | Strengthen your defense against web attacks with Kali Linux and Metasploit | https://github.com/PacktPublishing/Improving-your-Penetration-Testing-Skills | 5 | 0| 
+| 20201214T10:04:15Z | Quick lookup files for SUNBURST Backdoor  | https://github.com/rkovar/sunburstlookups | 1 | 1| 
+| 20201214T09:32:17Z | Null | https://github.com/slimsevernake/Backdoor-Botnet-or-BackNet | 0 | 0| 
+| 20201214T09:30:03Z | A Malduino compatible USB Rubber Ducky payload to enable RDP, disable/cripple defender, disable AMSI, and execute a self healing and reboot persistent Windows 10 backdoor. | https://github.com/ll3N1GmAll/Malduino_Win10_Persistent_Backdoor_With_Special_Sauce | 2 | 1| 
+| 20201214T08:01:42Z | Null | https://github.com/rabbitx1337/backdoor | 0 | 0| 
 
 
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20201214T02:58:09Z | Code created within scope of ECE 552 for the final project | https://github.com/mikebowyer/ECE552_FuzzySecurityCamera | 0 | 0| 
-| 20201214T02:46:38Z | Textpattern CMS plugin  that offers alternative spellings and/or close-matching articles from search terms | https://github.com/Bloke/smd_fuzzy_find | 2 | 1| 
-| 20201214T02:28:17Z | Recent Fuzzing Paper | https://github.com/wcventure/FuzzingPaper | 669 | 116| 
-| 20201214T02:17:30Z | OSS-Fuzz - continuous fuzzing of open source software. | https://github.com/google/oss-fuzz | 5727 | 1137| 
-| 20201214T02:14:05Z | Software for fuzzing, used on web application pentestings. | https://github.com/NESCAU-UFLA/FuzzingTool | 0 | 0| 
-| 20201214T01:58:17Z | Epub source for the Standard Ebooks edition of Little Fuzzy, by H. Beam Piper | https://github.com/standardebooks/h-beam-piper_little-fuzzy | 1 | 2| 
-| 20201214T01:37:24Z | The Official Fuzzy Britches Repository. | https://github.com/ThePapaw/fuzzybritches | 0 | 0| 
-| 20201214T01:09:31Z | FuzzBench - Fuzzer benchmarking as a service. | https://github.com/google/fuzzbench | 563 | 90| 
+| 20201214T12:53:48Z | Null | https://github.com/ameerazlan/fuzzy-octo-lamp | 0 | 0| 
+| 20201214T12:42:25Z | dup repository of prog-fuzz | https://github.com/Hanseltu/prog-fuzz-dup | 0 | 0| 
+| 20201214T12:39:55Z | Read-only mirror of %fuzzysim% from r-forge SVN. | https://github.com/r-forge/fuzzysim | 0 | 0| 
+| 20201214T11:54:19Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 3278 | 753| 
+| 20201214T11:52:38Z | Null | https://github.com/Smoothini/fuzzy-winner | 0 | 0| 
+| 20201214T11:51:34Z | This program uses Fuzzy Logic to estimate your degree on a subject based on the difficulty of the exam and your study. | https://github.com/AbdulfattahBaalawi/Marks-Prediction-Using-Fuzzy-Logic | 0 | 0| 
+| 20201214T10:58:45Z | 该项目用于收集Web安全测试中常用的fuzz字典 | https://github.com/bigblackhat/WebFuzzList | 0 | 0| 
+| 20201214T10:42:54Z | Very Fast and Powerful Web Fuzzer | https://github.com/RedSecurity/power-ffuf | 2 | 0| 
+| 20201214T10:29:24Z | Null | https://github.com/Sentinel-One/efi_fuzz | 59 | 6| 
+| 20201214T10:16:42Z | Android本地模糊搜索 | https://github.com/zhang721688/FuzzySearchDemo | 0 | 0| 
 
 
 
