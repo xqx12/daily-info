@@ -28,14 +28,15 @@
 | 20201215 | 巧用Zeek在流量层狩猎哥斯拉Godzilla | https://www.anquanke.com/post/id/224831| 
 | 20201215 | Go恶意样本分析 | https://mp.weixin.qq.com/s/22HqoBW-eVSf1Fzw7fxoFw| 
 | 20201215 | GB∕T 30276-2020 信息安全技术 网络安全漏洞管理规范(文字版) | https://www.wangan.com/docs/gbt30276-2020| 
+| 20201215 | 落鹰行动-史上影响力最大的供应链攻击行动揭秘 | https://mp.weixin.qq.com/s/lh7y_KHUxag_-pcFBC7d0Q| 
 
 
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
 | 20201215T13:41:53Z | CVE-2020-14882 | Vulmap - Web漏洞扫描和验证工具，可对Web容器、Web服务器、Web中间件以及CMS等Web程序进行漏洞扫描，并且具备漏洞利用功能。 相关测试人员可以使用vulmap检测目标是否存在特定漏洞，并且可以使用漏洞利用功能验证漏洞是否真实存在。CVE-2020-14882, CVE-2020-2555, CVE-2020-2883, S2-061, CVE-2020-13942, CVE-2020-17530 | https://github.com/zhzyker/vulmap | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
-| 20201215T12:57:22Z | CVE-2020-17530 | Collect S2-061 payloads | https://github.com/wuzuowei/CVE-2020-17530 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 09 MINUTES 24 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20201215T12:56:52Z | CVE-2020-17530 | S2-061 CVE-2020-17530 | https://github.com/Al1ex/CVE-2020-17530 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 09 MINUTES 29 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201215T12:57:22Z | CVE-2020-17530 | Collect S2-061 payloads | https://github.com/wuzuowei/CVE-2020-17530 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 00 MINUTES 20 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201215T12:56:52Z | CVE-2020-17530 | S2-061 CVE-2020-17530 | https://github.com/Al1ex/CVE-2020-17530 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 00 MINUTES 25 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20201215T09:15:02Z | CVE-2020-3452 | Null | https://github.com/cygenta/CVE-2020-3452 | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
 | 20201215T06:45:42Z | CVE-2020-26259 | CVE-2020-26259: XStream is vulnerable to an Arbitrary File Deletion on the local host when unmarshalling as long as the executing process has sufficient rights. | https://github.com/jas502n/CVE-2020-26259 | 未查询到CVE信息| 
 
@@ -84,8 +85,9 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20201215T13:55:58Z | A service that breaks a Levenshtein distance tie using character similarity | https://github.com/kweithers/FuzzyMatchingService | 0 | 0| 
+| 20201215T13:51:35Z | OSS-Fuzz - continuous fuzzing of open source software. | https://github.com/google/oss-fuzz | 5732 | 1140| 
 | 20201215T13:50:07Z | FuSeBMC is a White-Box Fuzzer that combines FUzzing with Symbolic Execution via Bounded Model Checking to verify intricate properties in real-world C programs. | https://github.com/kaled-alshmrany/FuSeBMC | 7 | 1| 
-| 20201215T13:49:12Z | OSS-Fuzz - continuous fuzzing of open source software. | https://github.com/google/oss-fuzz | 5732 | 1140| 
 | 20201215T13:47:14Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 1112 | 247| 
 | 20201215T13:19:03Z | Fuzzing resources for JSC32 | https://github.com/pmatos/jsc32-fuzz | 0 | 0| 
 | 20201215T13:18:38Z | Null | https://github.com/ethereum/solidity-fuzzing-corpus | 10 | 4| 
@@ -93,7 +95,6 @@
 | 20201215T13:02:01Z | Credax -Fastest Fuzzing Tool with Slack Notifications. | https://github.com/notmarshmllow/credax | 0 | 0| 
 | 20201215T12:42:23Z | Source code of the Fuzzy Trader Home Broker web application. | https://github.com/ricardofonsecacampos/fuzzytrader_hb | 0 | 0| 
 | 20201215T12:15:24Z | Fuzzer for Pharo | https://github.com/mabdi/phazzer | 0 | 0| 
-| 20201215T12:11:17Z | A simple python implementation of Fuzzy C-means algorithm. | https://github.com/omadson/fuzzy-c-means | 24 | 13| 
 
 
 
