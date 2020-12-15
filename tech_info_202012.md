@@ -6,6 +6,16 @@
 # 玄武实验室 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20201215 | Apache Struts 2 CVE-2020-17530 RCE 漏洞分析 | https://securitylab.github.com/advisories/GHSL-2020-205-double-eval-dynattrs-struts2/| 
+| 20201215 | Vulnerabilities in McAfee ePolicy Orchestrator | https://swarm.ptsecurity.com/vulnerabilities-in-mcafee-epolicy-orchestrator/| 
+| 20201215 | Kerberos Bronze Bit Attack (CVE-2020-17049) Scenarios to Potentially Compromise Active Directory | https://www.hub.trimarcsecurity.com/post/leveraging-the-kerberos-bronze-bit-attack-cve-2020-17049-scenarios-to-compromise-active-directory| 
+| 20201215 | Linux 内核多个漏洞的 Exploit 与 Writeup | https://github.com/bsauce/kernel_exploit_factory//| 
+| 20201215 | Ubuntu aptdeamon CVE-2020-16128 文件存在性检查信息泄露漏洞 | https://securitylab.github.com/advisories/GHSL-2020-192-file-existence-aptdaemon/| 
+| 20201215 | Debug Resurrection on nRF52 Series | https://i.blackhat.com/eu-20/Wednesday/eu-20-LimitedResults-Debug-Resurrection-On-nRF52-Series.pdf| 
+| 20201215 | Page Fault Injection in Virtual Machines: Accessing Swapped-Out Pages from HVMI | https://hvmi.github.io/blog/2020/12/14/pfinjection.html| 
+| 20201215 | Apple 发布 iOS、iPadOS、macOS 版本更新 | https://support.apple.com/en-us/HT212003| 
+| 20201215 | Issue 2092: Qualcomm Adreno GPU PID reuse leads to shared mapping leak | https://bugs.chromium.org/p/project-zero/issues/detail?id=2092| 
+| 20201215 | Volexity 对 SolarWinds 供应链攻击事件的分析 | https://sec.today/pulses/775166fc-fa80-4eb2-a121-64e755c3aa23/| 
 | 20201214 | Reversing engineering the fix of CVE-2020-9771 | https://theevilbit.github.io/posts/reversing_cve_2020_9771/| 
 | 20201214 | 攻击者 UNC2452 利用 SolarWinds 供应链攻击及 SUNBURST 后门攻击全球多个目标 | https://www.fireeye.com/blog/threat-research/2020/12/evasive-attacker-leverages-solarwinds-supply-chain-compromises-with-sunburst-backdoor.html?1| 
 | 20201214 | 据报道，美国多个机构、安全公司 FireEye 被黑背后的攻击者为俄罗斯政府支持的组织 | https://www.washingtonpost.com/national-security/russian-government-spies-are-behind-a-broad-hacking-campaign-that-has-breached-us-agencies-and-a-top-cyber-firm/2020/12/13/d5a53b88-3d7d-11eb-9453-fc36ba051781_story.html| 
@@ -16,57 +26,47 @@
 | 20201213 | 如何在Android Studio上搭建Android进行对应用软件逆向分析。 | https://medium.com/bugbountywriteup/apk-testing-on-an-android-studio-c0addb12550?source=rss----7b722bfd1b8d---4| 
 | 20201213 | CVE-2020-17140 Windows SMB Information Disclousure Analysis | https://blogs.360.cn/post/CVE-2020-17140-Analysis.html| 
 | 20201213 | 如何用 C++ 写一个 C&C 远控模块 | https://shogunlab.gitbook.io/building-c2-implants-in-cpp-a-primer/| 
-| 20201213 | 红蓝对抗之Linux内网渗透 | http://security.tencent.com/index.php/blog/msg/174| 
-| 20201211 | Cross-Site Escape - Pwning macOS Safari Sandbox the Unusual Way | https://i.blackhat.com/eu-20/Thursday/eu-20-Zhou-Cross-Site-Escape-Pwning-MacOS-Safari-Sandbox-The-Unusual-Way.pdf| 
-| 20201211 | Discovery 20 Years Old Vulnerabilities In Modern Windows Kernel | https://i.blackhat.com/eu-20/Wednesday/eu-20-Han-Discovery-20-Yeas-Old-Vulnerabilities-In-Modern-Windows-Kernel.pdf| 
-| 20201211 | This is for the Pwners: Exploiting a WebKit 0-day in PlayStation 4 | https://www.synacktiv.com/publications/this-is-for-the-pwners-exploiting-a-webkit-0-day-in-playstation-4.html| 
-| 20201211 | 利用程序编译时、运行时插桩的方法检测安全漏洞 | https://census-labs.com/news/2020/12/10/using-program-instrumentation-to-identify-security-bugs-o%CF%80en-conf-2020/| 
-| 20201210 | No Hat 2020 - Filippo Cremonese - CRISPR - Binary Editing with High Level Languages | https://www.youtube.com/watch?v=lLfxFVKzxwQ| 
-| 20201210 | 研究员 Gal Zaban 关于 Linux 内核驱动安全研究的议题 Linux Kernel Adventures: Reversing and Exploiting a Linux Driver | https://media.handmade-seattle.com/linux-kernel-adventures/| 
-| 20201210 | 玄武实验室研究员在 BlackHat Europe 2020 会议的演讲 “Shield with Hole: New Security Mitigation Helps Us Escape Chrome Sandbox to Exfiltrate User Privacy” | https://i.blackhat.com/eu-20/Wednesday/eu-20-Wang-Shield-With-Hole-New-Security-Mitigation-Helps-Us-Escape-Chrome-Sandbox-To-Exfiltrate-User-Privacy.pdf| 
-| 20201210 | 来自玄武实验室研究员在 BlackHat Europe 2020 会议的演讲 “Finding Bugs Compiler Knows but Doesnt Tell You: Dissecting Undefined Behavior Optimizations in LLVM” | https://i.blackhat.com/eu-20/Wednesday/eu-20-Wu-Finding-Bugs-Compiler-Knows-But-Does-Not-Tell-You-Dissecting-Undefined-Behavior-Optimizations-In-LLVM.pdf| 
-| 20201210 | Pwine Award Winners 2020 评选的结果出来了 | https://pwnies.com/winners/| 
 
 
 # 安全维基 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20201215 | 网络空间测绘技术之：协议识别（RDP篇） | https://zhuanlan.zhihu.com/p/336936793| 
+| 20201215 | 简单聊聊网络空间测绘纵横之道 | https://mp.weixin.qq.com/s/aBvptjz9gzxG_lPBY8ECVA| 
+| 20201215 | 基于静态依赖分析的安卓GUI自动化探测方法 | https://mp.weixin.qq.com/s/YQDxUqo_ufjt3cuDNOUfwQ| 
+| 20201215 | 巧用Zeek在流量层狩猎哥斯拉Godzilla | https://www.anquanke.com/post/id/224831| 
+| 20201215 | Go恶意样本分析 | https://mp.weixin.qq.com/s/22HqoBW-eVSf1Fzw7fxoFw| 
+| 20201215 | GB∕T 30276-2020 信息安全技术 网络安全漏洞管理规范(文字版) | https://www.wangan.com/docs/gbt30276-2020| 
 | 20201214 | SecWiki周刊（第354期) | https://www.sec-wiki.com/weekly/354| 
 | 20201214 | ASPX之黑名单上传限制的绕过 | https://mp.weixin.qq.com/s/FMZQpn9ck3bbPLUgdLDXUw| 
 | 20201213 | FireEye红队工具失窃事件跟进分析 | https://mp.weixin.qq.com/s/X-bBV44nMQvDlnl6f4eX7Q| 
 | 20201213 | 高效工作 | https://www.yuque.com/zenany/up/high_productivity_work| 
-| 20201213 | 各国数据隐私与保护情况 | https://mp.weixin.qq.com/s/B061CcZsJKavNEj_ggkRLQ| 
-| 20201212 | 说说APT | https://card.weibo.com/article/m/show/id/2309404580597770092748?_wb_client_=1| 
-| 20201212 | 逆向智能门锁漏洞分析PART（二） | https://mp.weixin.qq.com/s/IutPFguZmNvPZd5XrlK6Mg| 
-| 20201212 | 黑吃黑Getshell到提权实战案例 | https://mp.weixin.qq.com/s/Hr-ybKz2CbG4yyTpww23rA| 
-| 20201212 | 2020网络安全大事记 - 监管判例篇 | https://mp.weixin.qq.com/s/60-O9GGYPNZZW6KVvY_c8w| 
-| 20201211 | 逆向智能门锁漏洞分析PART（一） | https://mp.weixin.qq.com/s/pIeV3uNfRzAYggxRSo7P_g| 
 
 
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20201215T02:57:00Z | CVE-2020-17530 | S2-061 CVE-2020-17530 | https://github.com/Al1ex/CVE-2020-17530 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 00 MINUTES 30 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20201215T02:33:47Z | CVE-2020-14882 | Vulmap - Web漏洞扫描和验证工具，可对Web容器、Web服务器、Web中间件以及CMS等Web程序进行漏洞扫描，并且具备漏洞利用功能。 相关测试人员可以使用vulmap检测目标是否存在特定漏洞，并且可以使用漏洞利用功能验证漏洞是否真实存在。CVE-2020-14882, CVE-2020-2555, CVE-2020-2883, S2-061, CVE-2020-13942, CVE-2020-17530 | https://github.com/zhzyker/vulmap | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
-| 20201215T02:22:23Z | CVE-2020-17530 | Collect S2-061 payloads | https://github.com/wuzuowei/CVE-2020-17530 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 00 MINUTES 24 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20201215T00:58:27Z | CVE-2020-3452 | Null | https://github.com/cygenta/CVE-2020-3452 | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
+| 20201215T12:57:22Z | CVE-2020-17530 | Collect S2-061 payloads | https://github.com/wuzuowei/CVE-2020-17530 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 58 MINUTES 21 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201215T12:56:52Z | CVE-2020-17530 | S2-061 CVE-2020-17530 | https://github.com/Al1ex/CVE-2020-17530 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 58 MINUTES 27 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201215T12:14:22Z | CVE-2020-14882 | Vulmap - Web漏洞扫描和验证工具，可对Web容器、Web服务器、Web中间件以及CMS等Web程序进行漏洞扫描，并且具备漏洞利用功能。 相关测试人员可以使用vulmap检测目标是否存在特定漏洞，并且可以使用漏洞利用功能验证漏洞是否真实存在。CVE-2020-14882, CVE-2020-2555, CVE-2020-2883, S2-061, CVE-2020-13942, CVE-2020-17530 | https://github.com/zhzyker/vulmap | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
+| 20201215T09:15:02Z | CVE-2020-3452 | Null | https://github.com/cygenta/CVE-2020-3452 | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
+| 20201215T06:45:42Z | CVE-2020-26259 | CVE-2020-26259: XStream is vulnerable to an Arbitrary File Deletion on the local host when unmarshalling as long as the executing process has sufficient rights. | https://github.com/jas502n/CVE-2020-26259 | 未查询到CVE信息| 
 | 20201214T22:25:06Z | CVE-2020-8554 | Mitigate CVE-2020-8554 with Policy Controller in Anthos | https://github.com/jrmurray000/CVE-2020-8554 | 未查询到CVE信息| 
 | 20201214T19:39:42Z | cve-2020-27949 | Null | https://github.com/seemoo-lab/dtrace-memaccess_cve-2020-27949 | 未查询到CVE信息| 
-| 20201214T14:56:28Z | CVE-2020-26259 | CVE-2020-26259: XStream is vulnerable to an Arbitrary File Deletion on the local host when unmarshalling as long as the executing process has sufficient rights. | https://github.com/jas502n/CVE-2020-26259 | 未查询到CVE信息| 
-| 20201214T08:33:40Z | CVE-2020-17530 | CVE-2020-17530-strust2-061 | https://github.com/fengziHK/CVE-2020-17530-strust2-061 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 00 MINUTES 33 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20201214T07:57:57Z | CVE-2020-15002 | https://hackerone.com/reports/863553 | https://github.com/skr0x1c0/SSRF-CVE-2020-15002 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 00 MINUTES 35 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20201214T07:52:11Z | CVE-2020-15002 | https://hackerone.com/reports/865652 | https://github.com/skr0x1c0/Blind-SSRF-CVE-2020-15002 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 00 MINUTES 34 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201214T08:33:40Z | CVE-2020-17530 | CVE-2020-17530-strust2-061 | https://github.com/fengziHK/CVE-2020-17530-strust2-061 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 58 MINUTES 30 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201214T07:57:57Z | CVE-2020-15002 | https://hackerone.com/reports/863553 | https://github.com/skr0x1c0/SSRF-CVE-2020-15002 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 58 MINUTES 37 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201214T07:52:11Z | CVE-2020-15002 | https://hackerone.com/reports/865652 | https://github.com/skr0x1c0/Blind-SSRF-CVE-2020-15002 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 58 MINUTES 36 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20201214T21:50:13Z | Null | https://github.com/viktorfrom/klee_tutorial | 0 | 0| 
+| 20201215T12:21:22Z | Null | https://github.com/viktorfrom/klee_tutorial | 0 | 0| 
+| 20201215T08:16:13Z | Null | https://github.com/fontworks-fonts/Klee | 0 | 0| 
 | 20201214T17:50:58Z | Null | https://github.com/DreamMobile0108/kleensight-videoconvert | 0 | 0| 
 | 20201214T08:21:53Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1574 | 474| 
 | 20201213T16:27:59Z | KLEE in the browser | https://github.com/klee/klee-web | 44 | 11| 
 | 20201213T15:47:33Z | RVT is a collection of tools/libraries to support both static and dynamic verification of Rust programs. | https://github.com/project-oak/rust-verification-tools | 99 | 5| 
-| 20201213T07:20:19Z | Null | https://github.com/fontworks-fonts/Klee | 0 | 0| 
 | 20201213T07:12:18Z | Null | https://github.com/KleeUT/kleeut.com | 0 | 0| 
 | 20201212T08:01:18Z | Null | https://github.com/markhakansson/klee-tutorial | 0 | 0| 
 | 20201211T17:54:27Z | Null | https://github.com/morlap/kleebergfestival | 0 | 0| 
@@ -88,16 +88,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20201215T02:58:25Z | CVE-Search (name still in alpha), is a Machine Learning tool focused on the detection of exploits or proofs of concept in social networks such as Twitter, Github. It is also capable of doing related searches on Google, Yandex, DuckDuckGo on CVEs and detecting if the content may be a functional exploit, a proof of concept or simply information about the vulnerability. | https://github.com/alexfrancow/CVE-Search | 5 | 0| 
-| 20201215T02:51:48Z | For executing Reverse Shell, create container, execute command and bind the root filesystem | https://github.com/itsdafafo/exploitshock.sh | 0 | 0| 
-| 20201215T02:33:47Z | Vulmap - Web漏洞扫描和验证工具，可对Web容器、Web服务器、Web中间件以及CMS等Web程序进行漏洞扫描，并且具备漏洞利用功能。 相关测试人员可以使用vulmap检测目标是否存在特定漏洞，并且可以使用漏洞利用功能验证漏洞是否真实存在。CVE-2020-14882, CVE-2020-2555, CVE-2020-2883, S2-061, CVE-2020-13942, CVE-2020-17530 | https://github.com/zhzyker/vulmap | 427 | 81| 
-| 20201215T02:24:57Z | Null | https://github.com/SeanLossef/modern-binary-exploitation | 0 | 0| 
-| 20201215T02:17:43Z | macos/ios exploit writeup | https://github.com/houjingyi233/macos-ios-exploit-writeup | 6 | 1| 
-| 20201215T02:01:13Z | Collection of tools and techniques for enumeration and exploitation of windows systems, linux systems, and web applications. | https://github.com/EvolvingSysadmin/Penetration-Testing | 1 | 1| 
-| 20201215T01:55:03Z | Stack/Heap visualizer library to help aid in teaching binary exploitation | https://github.com/MEhrn00/libvisualize | 0 | 0| 
-| 20201215T01:49:03Z | New Updated Blitz Among Us Exploit  | https://github.com/YTFlashplayz/BltizRevived | 0 | 0| 
-| 20201215T01:41:04Z | Contains fix for crash in leakJSC on 6.xx & 7.xx | https://github.com/YourOldFriend/PS4-6-7.xx-Webkit-Exploit | 0 | 0| 
-| 20201215T01:33:55Z | SSH Exploit Bruter For Educational Purposes | https://github.com/ChrisLad1/wget.pl | 0 | 0| 
+| 20201215T12:49:22Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 6 | 4| 
+| 20201215T12:47:15Z | Explanation of All the Payloads Used in Pentester Academy%s JS for Pentester Course | https://github.com/tbhaxor/pt-jsfp | 3 | 1| 
+| 20201215T12:28:46Z | A tool to identify and exploit sudo rules% misconfigurations and vulnerabilities within sudo | https://github.com/TH3xACE/SUDO_KILLER | 904 | 128| 
+| 20201215T11:45:49Z | Router Exploitation Tools. Checks for WinBox Authentication Bypass Disclosure, RouterOS Jailbreak vulnerabilities & ByTheWay RCE | https://github.com/s1l3nt78/MkCheck | 49 | 16| 
+| 20201215T11:35:13Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 8747 | 1381| 
+| 20201215T11:14:41Z | :cherry_blossom: Interactive shellcoding environment to easily craft shellcodes | https://github.com/merrychap/shellen | 785 | 95| 
+| 20201215T10:56:47Z | Sifter is a OSINT, recon & vulnerability scanner. It incorporates a plethara of tools within different module sets that tries to cover every attack vector. Allowing you to quickly perform recon tasks and organize the results in one place. From OSINT to Recon, Exploitation, Post-Exploitation, OpSec, Threat Analysis, XSS, SQLinjection, Network Scanning, WebApp Analysis or DNS enumeration.. Sifter should be able to cover it all. | https://github.com/s1l3nt78/sifter | 317 | 92| 
+| 20201215T10:36:41Z | Exploration-Exploitation using MAB | https://github.com/aegoe/MAB | 0 | 1| 
+| 20201215T09:45:24Z | Fully Undetectable Malware Backdoor | https://github.com/raunvk/stealthware-backdoor | 1 | 1| 
+| 20201215T09:20:36Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 3275 | 497| 
 
 
 # backdoor on Github 推荐
@@ -118,16 +118,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20201215T02:28:59Z | Chicken libraries mathematical library for solving fuzzy math equations | https://github.com/chicken-libraries/chicken-fuzzy | 0 | 0| 
-| 20201215T01:58:42Z | Fuzzy matching publications for fatcat (wip). | https://github.com/miku/fuzzycat | 0 | 1| 
-| 20201215T01:56:50Z | Определение цветовых характеристик полимерных материалов | https://github.com/kostyaLem/FuzzyLogic | 0 | 0| 
-| 20201215T01:45:00Z | The forum application with automatic fuzzy generator of new topics | https://github.com/Luvkitri/fuzzy-forum-frontend | 0 | 0| 
-| 20201215T01:32:00Z | OSS-Fuzz - continuous fuzzing of open source software. | https://github.com/google/oss-fuzz | 5730 | 1139| 
-| 20201214T23:54:36Z | Null | https://github.com/Smoothini/fuzzy-winner | 0 | 0| 
-| 20201214T23:43:25Z | RESTler is the first stateful REST API fuzzing tool for automatically testing cloud services through their REST APIs and finding security and reliability bugs in these services. | https://github.com/microsoft/restler-fuzzer | 573 | 46| 
-| 20201214T23:21:38Z | Personal website of Laurence Hughes | https://github.com/fuzzylogicxx/fuzzylogic | 4 | 1| 
-| 20201214T23:09:00Z | Autofuzz has been developped to provide a full toolkit to fuzz and pentest several protocols used in automotive industry such as USB, XCP, UDS, CAN. Everything is done in Python to provide a convenient way to develop automated test. | https://github.com/DanAurea/AutoFuze | 0 | 0| 
-| 20201214T22:14:03Z | 🔎📝(In Progress) Fuzzy Search Node API using RediSearch and Redis | https://github.com/ankeris/RediSearchFuzzy | 0 | 0| 
+| 20201215T12:59:56Z | Credax -Fastest Fuzzing Tool with Slack Notifications. | https://github.com/notmarshmllow/credax | 0 | 0| 
+| 20201215T12:42:23Z | Source code of the Fuzzy Trader Home Broker web application. | https://github.com/ricardofonsecacampos/fuzzytrader_hb | 0 | 0| 
+| 20201215T12:30:27Z | FuSeBMC is a White-Box Fuzzer that combines FUzzing with Symbolic Execution via Bounded Model Checking to verify intricate properties in real-world C programs. | https://github.com/kaled-alshmrany/FuSeBMC | 7 | 1| 
+| 20201215T12:15:24Z | Fuzzer for Pharo | https://github.com/mabdi/phazzer | 0 | 0| 
+| 20201215T12:11:17Z | A simple python implementation of Fuzzy C-means algorithm. | https://github.com/omadson/fuzzy-c-means | 24 | 13| 
+| 20201215T11:44:37Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 1108 | 246| 
+| 20201215T11:35:08Z | Dictionary collection project such as Pentesing, Fuzzing, Bruteforce and BugBounty. 渗透测试、SRC漏洞挖掘、爆破、Fuzzing等字典收集项目。 | https://github.com/insightglacier/Dictionary-Of-Pentesting | 353 | 90| 
+| 20201215T11:22:22Z | Null | https://github.com/Greywolf-edu/FuzzyLogic-based-charging-method | 0 | 0| 
+| 20201215T11:17:30Z | Null | https://github.com/Greywolf-edu/Fuzzy-based | 0 | 0| 
+| 20201215T11:09:40Z | Experimental OS | https://github.com/scopeInfinity/FuzzyOS | 0 | 0| 
 
 
 
