@@ -35,8 +35,8 @@
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
 | 20201215T13:41:53Z | CVE-2020-14882 | Vulmap - Web漏洞扫描和验证工具，可对Web容器、Web服务器、Web中间件以及CMS等Web程序进行漏洞扫描，并且具备漏洞利用功能。 相关测试人员可以使用vulmap检测目标是否存在特定漏洞，并且可以使用漏洞利用功能验证漏洞是否真实存在。CVE-2020-14882, CVE-2020-2555, CVE-2020-2883, S2-061, CVE-2020-13942, CVE-2020-17530 | https://github.com/zhzyker/vulmap | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
-| 20201215T12:57:22Z | CVE-2020-17530 | Collect S2-061 payloads | https://github.com/wuzuowei/CVE-2020-17530 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 00 MINUTES 20 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20201215T12:56:52Z | CVE-2020-17530 | S2-061 CVE-2020-17530 | https://github.com/Al1ex/CVE-2020-17530 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 00 MINUTES 25 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201215T12:57:22Z | CVE-2020-17530 | Collect S2-061 payloads | https://github.com/wuzuowei/CVE-2020-17530 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  09 HOURS 46 MINUTES 14 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201215T12:56:52Z | CVE-2020-17530 | S2-061 CVE-2020-17530 | https://github.com/Al1ex/CVE-2020-17530 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  09 HOURS 46 MINUTES 20 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20201215T09:15:02Z | CVE-2020-3452 | Null | https://github.com/cygenta/CVE-2020-3452 | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
 | 20201215T06:45:42Z | CVE-2020-26259 | CVE-2020-26259: XStream is vulnerable to an Arbitrary File Deletion on the local host when unmarshalling as long as the executing process has sufficient rights. | https://github.com/jas502n/CVE-2020-26259 | 未查询到CVE信息| 
 
@@ -56,6 +56,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20201215T14:08:00Z | libc_database python wrapper for exploit automation | https://github.com/Neetx/pylibcdb | 3 | 1| 
 | 20201215T13:44:14Z | WITHCulture is a service that provides access to digital cultural heritage items from different repositories and offers a number of added-value services for the creative reuse and intelligent exploitation of that content. | https://github.com/ails-lab/with | 1 | 3| 
 | 20201215T13:22:26Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 8748 | 1381| 
 | 20201215T13:15:39Z | JSshell - JavaScript reverse/remote shell | https://github.com/shelld3v/JSshell | 138 | 33| 
@@ -65,14 +66,13 @@
 | 20201215T12:47:15Z | Explanation of All the Payloads Used in Pentester Academy%s JS for Pentester Course | https://github.com/tbhaxor/pt-jsfp | 3 | 1| 
 | 20201215T12:28:46Z | A tool to identify and exploit sudo rules% misconfigurations and vulnerabilities within sudo | https://github.com/TH3xACE/SUDO_KILLER | 904 | 128| 
 | 20201215T11:45:49Z | Router Exploitation Tools. Checks for WinBox Authentication Bypass Disclosure, RouterOS Jailbreak vulnerabilities & ByTheWay RCE | https://github.com/s1l3nt78/MkCheck | 49 | 16| 
-| 20201215T11:14:41Z | :cherry_blossom: Interactive shellcoding environment to easily craft shellcodes | https://github.com/merrychap/shellen | 785 | 95| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
 | 20201215T13:19:34Z | Null | https://github.com/ring-worm/UNC2452.SOLARWINDS.ORION.SUNBURST | 2 | 1| 
-| 20201215T12:52:19Z | Quick lookup files for SUNBURST Backdoor  | https://github.com/rkovar/sunburstlookups | 2 | 2| 
+| 20201215T12:52:19Z | Quick lookup files for SUNBURST Backdoor  | https://github.com/rkovar/sunburstlookups | 2 | 3| 
 | 20201215T11:10:18Z | backdoor key to kafka topics | https://github.com/dixel/kafkus | 17 | 2| 
 | 20201215T09:45:24Z | Fully Undetectable Malware Backdoor | https://github.com/raunvk/stealthware-backdoor | 1 | 1| 
 | 20201215T06:43:36Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 132 | 19| 
@@ -85,7 +85,8 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20201215T13:55:58Z | A service that breaks a Levenshtein distance tie using character similarity | https://github.com/kweithers/FuzzyMatchingService | 0 | 0| 
+| 20201215T14:09:40Z | Null | https://github.com/kweithers/FuzzyMatchingService | 0 | 0| 
+| 20201215T14:08:41Z | Sistem fuzzy untuk menentukan alokasi waktu pengerjaan soal ujian. | https://github.com/paleboot/fuzzy-ujian | 0 | 0| 
 | 20201215T13:51:35Z | OSS-Fuzz - continuous fuzzing of open source software. | https://github.com/google/oss-fuzz | 5732 | 1140| 
 | 20201215T13:50:07Z | FuSeBMC is a White-Box Fuzzer that combines FUzzing with Symbolic Execution via Bounded Model Checking to verify intricate properties in real-world C programs. | https://github.com/kaled-alshmrany/FuSeBMC | 7 | 1| 
 | 20201215T13:47:14Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 1112 | 247| 
@@ -94,7 +95,6 @@
 | 20201215T13:07:29Z | ROS code for the fuzzy Mixed-Initiative controller | https://github.com/uob-erl/fuzzy_mi_controller | 4 | 4| 
 | 20201215T13:02:01Z | Credax -Fastest Fuzzing Tool with Slack Notifications. | https://github.com/notmarshmllow/credax | 0 | 0| 
 | 20201215T12:42:23Z | Source code of the Fuzzy Trader Home Broker web application. | https://github.com/ricardofonsecacampos/fuzzytrader_hb | 0 | 0| 
-| 20201215T12:15:24Z | Fuzzer for Pharo | https://github.com/mabdi/phazzer | 0 | 0| 
 
 
 
