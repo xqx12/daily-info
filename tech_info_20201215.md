@@ -38,7 +38,7 @@
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
 | 20201215T18:33:54Z | CVE-2020-3452 | Null | https://github.com/cygenta/CVE-2020-3452 | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
-| 20201215T06:45:42Z | CVE-2020-26259 | CVE-2020-26259: XStream is vulnerable to an Arbitrary File Deletion on the local host when unmarshalling as long as the executing process has sufficient rights. | https://github.com/jas502n/CVE-2020-26259 | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
+| 20201215T06:45:42Z | CVE-2020-26259 | CVE-2020-26259: XStream is vulnerable to an Arbitrary File Deletion on the local host when unmarshalling as long as the executing process has sufficient rights. | https://github.com/jas502n/CVE-2020-26259 | | 
 
 
 # klee on Github 推荐
@@ -74,7 +74,6 @@
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
 | 20201215T22:25:04Z | Null | https://github.com/wcenatus/node-backdoor | 0 | 0| 
-| 20201215T19:41:20Z | AI based Backdoor Written for Windows using Telegram-bot, ZMQ, and Socket as Its Back-ends. | https://github.com/wildonion/katyusha | 1 | 0| 
 | 20201215T17:38:46Z | Quick lookup files for SUNBURST Backdoor  | https://github.com/rkovar/sunburstlookups | 3 | 6| 
 | 20201215T14:43:03Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 132 | 19| 
 | 20201215T13:19:34Z | Null | https://github.com/ring-worm/UNC2452.SOLARWINDS.ORION.SUNBURST | 2 | 1| 
@@ -83,6 +82,7 @@
 | 20201215T03:41:50Z | Remote Access Trojan (RAT) backdoor exploit generator and server project. *Educational purposes only | https://github.com/fordlarman/J0n3sy_Cat | 0 | 0| 
 | 20201215T03:16:09Z | Indicators of Compromise campaign #UNC2452 victims with #SUNBURST Backdoor #FireEye #SolarWinds #cybersecurity #ioc #MXCSDT | https://github.com/perfect4sec/IoC_UNC2452_SUNBURST | 1 | 0| 
 | 20201215T03:00:39Z | Strengthen your defense against web attacks with Kali Linux and Metasploit | https://github.com/PacktPublishing/Improving-your-Penetration-Testing-Skills | 5 | 0| 
+| 20201215T01:47:44Z | Discord Token Grabber A Discord token grabber written in Python  This version of the grabber only supports **Windows**.  # Features  - No local caching  - Transfers via Discord webhook  - Searches for authorization tokens in multiple directories (Discord, Discord PTB, Discord Canary, Google chrome, Opera, Brave and Yandex)  - No external Python modules required  - \[**todo**\] Cross-platform support    # How to use  1. Create a webhook on your Discord server. I recommend creating a new server.  2. Change the %WEBHOOK_URL% variable value to your Discord webhook URL in [token-grabber.py](token-grabber.py)  3. *(obfuscate the code or install it as a backdoor in an other script.)*  4. Send the script to your victim and make them run it.      # BR Esta versão do grabber suporta apenas ** Windows **.   # Características  - Sem cache local  - Transferências via webhook Discord  - Pesquisas por tokens de autorização em vários diretórios (Discord, Discord PTB, Discord Canary, Google chrome, Opera, Brave e Yandex)  - Nenhum módulo Python externo necessário  - \ [** todo ** \] Suporte multiplataforma  <br>  # Como usar  1. Crie um webhook em seu servidor Discord. Eu recomendo criar um novo servidor.  2. Altere o valor da variável %WEBHOOK_URL% para o URL do webhook do Discord em [token-grabber.py] (token-grabber.py)  3. * (ofusque o código ou instale-o como backdoor em outro script.) *  4. Envie o script para sua vítima e faça com que ela o execute.  # Credits - **wodx** | https://github.com/snoopx1x/Token-Discord-Capture | 0 | 0| 
 
 
 # fuzz on Github 推荐
