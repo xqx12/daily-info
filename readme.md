@@ -74,7 +74,6 @@
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
 | 20201215T22:25:04Z | Null | https://github.com/wcenatus/node-backdoor | 0 | 0| 
-| 20201215T20:31:04Z | Patch PE, ELF, Mach-O binaries with shellcode new version in development, available only to sponsors | https://github.com/secretsquirrel/the-backdoor-factory | 2643 | 725| 
 | 20201215T19:41:20Z | AI based Backdoor Written for Windows using Telegram-bot, ZMQ, and Socket as Its Back-ends. | https://github.com/wildonion/katyusha | 1 | 0| 
 | 20201215T17:38:46Z | Quick lookup files for SUNBURST Backdoor  | https://github.com/rkovar/sunburstlookups | 3 | 6| 
 | 20201215T14:43:03Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 132 | 19| 
@@ -83,6 +82,7 @@
 | 20201215T09:45:24Z | Fully Undetectable Malware Backdoor | https://github.com/raunvk/stealthware-backdoor | 1 | 1| 
 | 20201215T03:41:50Z | Remote Access Trojan (RAT) backdoor exploit generator and server project. *Educational purposes only | https://github.com/fordlarman/J0n3sy_Cat | 0 | 0| 
 | 20201215T03:16:09Z | Indicators of Compromise campaign #UNC2452 victims with #SUNBURST Backdoor #FireEye #SolarWinds #cybersecurity #ioc #MXCSDT | https://github.com/perfect4sec/IoC_UNC2452_SUNBURST | 1 | 0| 
+| 20201215T03:00:39Z | Strengthen your defense against web attacks with Kali Linux and Metasploit | https://github.com/PacktPublishing/Improving-your-Penetration-Testing-Skills | 5 | 0| 
 
 
 # fuzz on Github 推荐
