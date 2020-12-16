@@ -46,16 +46,16 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20201216T00:45:10Z | CVE-2020-14882 | Vulmap - Web漏洞扫描和验证工具，可对Web容器、Web服务器、Web中间件以及CMS等Web程序进行漏洞扫描，并且具备漏洞利用功能。 相关测试人员可以使用vulmap检测目标是否存在特定漏洞，并且可以使用漏洞利用功能验证漏洞是否真实存在。CVE-2020-14882, CVE-2020-2555, CVE-2020-2883, S2-061, CVE-2020-13942, CVE-2020-17530 | https://github.com/zhzyker/vulmap | | 
-| 20201216T00:19:05Z | CVE-2020-17530 | S2-061 CVE-2020-17530 | https://github.com/Al1ex/CVE-2020-17530 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 30 MINUTES 05 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20201215T21:27:06Z | CVE-2020-17530 | Collect S2-061 payloads | https://github.com/wuzuowei/CVE-2020-17530 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 30 MINUTES 00 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201216T00:45:10Z | CVE-2020-14882 | Vulmap - Web漏洞扫描和验证工具，可对Web容器、Web服务器、Web中间件以及CMS等Web程序进行漏洞扫描，并且具备漏洞利用功能。 相关测试人员可以使用vulmap检测目标是否存在特定漏洞，并且可以使用漏洞利用功能验证漏洞是否真实存在。CVE-2020-14882, CVE-2020-2555, CVE-2020-2883, S2-061, CVE-2020-13942, CVE-2020-17530 | https://github.com/zhzyker/vulmap | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
+| 20201216T00:19:05Z | CVE-2020-17530 | S2-061 CVE-2020-17530 | https://github.com/Al1ex/CVE-2020-17530 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 28 MINUTES 03 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201215T21:27:06Z | CVE-2020-17530 | Collect S2-061 payloads | https://github.com/wuzuowei/CVE-2020-17530 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 27 MINUTES 57 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20201215T18:33:54Z | CVE-2020-3452 | Null | https://github.com/cygenta/CVE-2020-3452 | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
 | 20201215T06:45:42Z | CVE-2020-26259 | CVE-2020-26259: XStream is vulnerable to an Arbitrary File Deletion on the local host when unmarshalling as long as the executing process has sufficient rights. | https://github.com/jas502n/CVE-2020-26259 | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
-| 20201214T22:25:06Z | CVE-2020-8554 | Mitigate CVE-2020-8554 with Policy Controller in Anthos | https://github.com/jrmurray000/CVE-2020-8554 | | 
+| 20201214T22:25:06Z | CVE-2020-8554 | Mitigate CVE-2020-8554 with Policy Controller in Anthos | https://github.com/jrmurray000/CVE-2020-8554 | 未查询到CVE信息| 
 | 20201214T19:39:42Z | cve-2020-27949 | Null | https://github.com/seemoo-lab/dtrace-memaccess_cve-2020-27949 | 未查询到CVE信息| 
-| 20201214T08:33:40Z | CVE-2020-17530 | CVE-2020-17530-strust2-061 | https://github.com/fengziHK/CVE-2020-17530-strust2-061 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 30 MINUTES 08 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20201214T07:57:57Z | CVE-2020-15002 | https://hackerone.com/reports/863553 | https://github.com/skr0x1c0/SSRF-CVE-2020-15002 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 30 MINUTES 10 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20201214T07:52:11Z | CVE-2020-15002 | https://hackerone.com/reports/865652 | https://github.com/skr0x1c0/Blind-SSRF-CVE-2020-15002 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 30 MINUTES 09 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201214T08:33:40Z | CVE-2020-17530 | CVE-2020-17530-strust2-061 | https://github.com/fengziHK/CVE-2020-17530-strust2-061 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 28 MINUTES 06 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201214T07:57:57Z | CVE-2020-15002 | https://hackerone.com/reports/863553 | https://github.com/skr0x1c0/SSRF-CVE-2020-15002 | | 
+| 20201214T07:52:11Z | CVE-2020-15002 | https://hackerone.com/reports/865652 | https://github.com/skr0x1c0/Blind-SSRF-CVE-2020-15002 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 28 MINUTES 07 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 
 
 # klee on Github 推荐
@@ -93,8 +93,8 @@
 | 20201216T00:39:29Z | fix exploits on anarchy server | https://github.com/moom0o/AnarchyExploitFixes | 7 | 3| 
 | 20201216T00:33:02Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 8751 | 1384| 
 | 20201216T00:24:37Z | GitLab 11.4.7 Remote Code Execution  | https://github.com/4d4c/gitlab_11_4_7_exploit | 0 | 0| 
-| 20201216T00:14:42Z | Generate a post exploit script to download an arbitrary file using HTML5%s Blob object (https://developer.mozilla.org/en-US/docs/Web/API/Blob) | https://github.com/demetrius-ford/dbd | 1 | 0| 
 | 20201216T00:14:42Z | Generate a post exploit script to download an arbitrary file using HTML5%s Blob object (https://developer.mozilla.org/en-US/docs/Web/API/Blob) | https://github.com/n16h7f0x/dbd | 1 | 0| 
+| 20201216T00:14:42Z | Generate a post exploit script to download an arbitrary file using HTML5%s Blob object (https://developer.mozilla.org/en-US/docs/Web/API/Blob) | https://github.com/demetrius-ford/dbd | 1 | 0| 
 | 20201215T23:54:15Z | A tool to identify and exploit sudo rules% misconfigurations and vulnerabilities within sudo | https://github.com/TH3xACE/SUDO_KILLER | 905 | 128| 
 | 20201215T23:31:10Z | Pattern-Exploiting Training in Julia and Knet. A replication of %It’s Not Just Size That Matters: Small Language Models Are Also Few-Shot Learners% | https://github.com/Shamdan17/pet.jl | 0 | 1| 
 | 20201215T22:52:27Z | Labs to learn exploiting | https://github.com/aliakyurek/exploit_labs | 0 | 0| 
