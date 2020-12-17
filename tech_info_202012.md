@@ -14,6 +14,7 @@
 | 20201216 | Keytap2 - 通过机器学习训练键盘击键声音，通过侧信道的方式实现 Keylogger | https://github.com/ggerganov/kbd-audio/discussions/31| 
 | 20201216 | Project Zero 研究员 Ivan Fratric 开源了一个用于 Fuzz Windows、macOS 二进制文件的工具 | https://github.com/googleprojectzero/Jackalope| 
 | 20201216 | 使用Dexcalibur和JEB逆向工具分析Android恶意软件。 | https://cryptax.medium.com/unpacking-an-android-malware-with-dexcalibur-and-jeb-59bdd905d4a7?source=social.tw| 
+| 20201216 | ZDI 从今年接收的 1400 多个漏洞报告中选出了《The Top 5 Bug Submissions of 2020》 | https://www.thezdi.com/blog/2020/12/16/the-top-5-bug-submissions-of-2020| 
 | 20201215 | Apache Struts 2 CVE-2020-17530 RCE 漏洞分析 | https://securitylab.github.com/advisories/GHSL-2020-205-double-eval-dynattrs-struts2/| 
 | 20201215 | Vulnerabilities in McAfee ePolicy Orchestrator | https://swarm.ptsecurity.com/vulnerabilities-in-mcafee-epolicy-orchestrator/| 
 | 20201215 | Kerberos Bronze Bit Attack (CVE-2020-17049) Scenarios to Potentially Compromise Active Directory | https://www.hub.trimarcsecurity.com/post/leveraging-the-kerberos-bronze-bit-attack-cve-2020-17049-scenarios-to-compromise-active-directory| 
@@ -25,7 +26,6 @@
 | 20201215 | Issue 2092: Qualcomm Adreno GPU PID reuse leads to shared mapping leak | https://bugs.chromium.org/p/project-zero/issues/detail?id=2092| 
 | 20201215 | Volexity 对 SolarWinds 供应链攻击事件的分析 | https://sec.today/pulses/775166fc-fa80-4eb2-a121-64e755c3aa23/| 
 | 20201215 | Volexity 对 SolarWinds 供应链攻击事件的分析 | https://www.volexity.com/blog/2020/12/14/dark-halo-leverages-solarwinds-compromise-to-breach-organizations/| 
-| 20201215 | 威胁狩猎：使用开源ELK项目进行日志监控实验室部署。 | https://www.hackingarticles.in/threat-hunting-log-monitoring-lab-setup-with-elk/| 
 
 
 # 安全维基 推荐
@@ -47,10 +47,10 @@
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
 | 20201217T02:47:19Z | CVE-2020-14882 | Vulmap - Web漏洞扫描和验证工具，可对Web容器、Web服务器、Web中间件以及CMS等Web程序进行漏洞扫描，并且具备漏洞利用功能。 相关测试人员可以使用vulmap检测目标是否存在特定漏洞，并且可以使用漏洞利用功能验证漏洞是否真实存在。CVE-2020-14882, CVE-2020-2555, CVE-2020-2883, S2-061, CVE-2020-13942, CVE-2020-17530 | https://github.com/zhzyker/vulmap | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
-| 20201217T00:56:31Z | CVE-2020-17530 | S2-061 CVE-2020-17530 | https://github.com/Al1ex/CVE-2020-17530 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 11 MINUTES 18 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20201217T00:15:09Z | CVE-2020-17530 | Collect S2-061 payloads | https://github.com/wuzuowei/CVE-2020-17530 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 11 MINUTES 13 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201217T00:56:31Z | CVE-2020-17530 | S2-061 CVE-2020-17530 | https://github.com/Al1ex/CVE-2020-17530 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 05 MINUTES 24 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201217T00:15:09Z | CVE-2020-17530 | Collect S2-061 payloads | https://github.com/wuzuowei/CVE-2020-17530 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 05 MINUTES 18 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20201216T20:56:39Z | CVE-2020-8554 | CVE-2020-8554: Man in the middle using LoadBalancer or ExternalIPs | https://github.com/rancher/externalip-webhook | 未查询到CVE信息| 
-| 20201216T19:20:26Z | CVE-2020-17530 | CVE-2020-17530-strust2-061 | https://github.com/fengziHK/CVE-2020-17530-strust2-061 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 11 MINUTES 22 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201216T19:20:26Z | CVE-2020-17530 | CVE-2020-17530-strust2-061 | https://github.com/fengziHK/CVE-2020-17530-strust2-061 | | 
 | 20201216T12:02:35Z | CVE-2020-3452 | Null | https://github.com/cygenta/CVE-2020-3452 | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
 | 20201216T07:17:55Z | cve-2020-0022 | cve-2020-0022相关的一些东西 | https://github.com/5k1l/cve-2020-0022 | 未查询到CVE信息| 
 | 20201215T06:45:42Z | CVE-2020-26259 | CVE-2020-26259: XStream is vulnerable to an Arbitrary File Deletion on the local host when unmarshalling as long as the executing process has sufficient rights. | https://github.com/jas502n/CVE-2020-26259 | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 

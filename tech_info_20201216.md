@@ -14,6 +14,7 @@
 | 20201216 | Keytap2 - 通过机器学习训练键盘击键声音，通过侧信道的方式实现 Keylogger | https://github.com/ggerganov/kbd-audio/discussions/31| 
 | 20201216 | Project Zero 研究员 Ivan Fratric 开源了一个用于 Fuzz Windows、macOS 二进制文件的工具 | https://github.com/googleprojectzero/Jackalope| 
 | 20201216 | 使用Dexcalibur和JEB逆向工具分析Android恶意软件。 | https://cryptax.medium.com/unpacking-an-android-malware-with-dexcalibur-and-jeb-59bdd905d4a7?source=social.tw| 
+| 20201216 | ZDI 从今年接收的 1400 多个漏洞报告中选出了《The Top 5 Bug Submissions of 2020》 | https://www.thezdi.com/blog/2020/12/16/the-top-5-bug-submissions-of-2020| 
 
 
 # 安全维基 推荐
@@ -27,7 +28,7 @@
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
 | 20201216T20:56:39Z | CVE-2020-8554 | CVE-2020-8554: Man in the middle using LoadBalancer or ExternalIPs | https://github.com/rancher/externalip-webhook | 未查询到CVE信息| 
-| 20201216T19:20:26Z | CVE-2020-17530 | CVE-2020-17530-strust2-061 | https://github.com/fengziHK/CVE-2020-17530-strust2-061 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 11 MINUTES 22 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201216T19:20:26Z | CVE-2020-17530 | CVE-2020-17530-strust2-061 | https://github.com/fengziHK/CVE-2020-17530-strust2-061 | | 
 | 20201216T12:02:35Z | CVE-2020-3452 | Null | https://github.com/cygenta/CVE-2020-3452 | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
 | 20201216T07:17:55Z | cve-2020-0022 | cve-2020-0022相关的一些东西 | https://github.com/5k1l/cve-2020-0022 | 未查询到CVE信息| 
 
