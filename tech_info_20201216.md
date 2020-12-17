@@ -27,10 +27,9 @@
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
 | 20201216T20:56:39Z | CVE-2020-8554 | CVE-2020-8554: Man in the middle using LoadBalancer or ExternalIPs | https://github.com/rancher/externalip-webhook | 未查询到CVE信息| 
-| 20201216T19:20:26Z | CVE-2020-17530 | CVE-2020-17530-strust2-061 | https://github.com/fengziHK/CVE-2020-17530-strust2-061 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 24 MINUTES 19 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20201216T18:19:25Z | CVE-2020-14882 | Vulmap - Web漏洞扫描和验证工具，可对Web容器、Web服务器、Web中间件以及CMS等Web程序进行漏洞扫描，并且具备漏洞利用功能。 相关测试人员可以使用vulmap检测目标是否存在特定漏洞，并且可以使用漏洞利用功能验证漏洞是否真实存在。CVE-2020-14882, CVE-2020-2555, CVE-2020-2883, S2-061, CVE-2020-13942, CVE-2020-17530 | https://github.com/zhzyker/vulmap | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
+| 20201216T19:20:26Z | CVE-2020-17530 | CVE-2020-17530-strust2-061 | https://github.com/fengziHK/CVE-2020-17530-strust2-061 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 04 MINUTES 19 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20201216T12:02:35Z | CVE-2020-3452 | Null | https://github.com/cygenta/CVE-2020-3452 | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
-| 20201216T07:17:55Z | cve-2020-0022 | cve-2020-0022相关的一些东西 | https://github.com/5k1l/cve-2020-0022 | | 
+| 20201216T07:17:55Z | cve-2020-0022 | cve-2020-0022相关的一些东西 | https://github.com/5k1l/cve-2020-0022 | 未查询到CVE信息| 
 
 
 # klee on Github 推荐
@@ -51,7 +50,6 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20201216T23:49:49Z | nanodisco: a toolbox for discovering and exploiting multiple types of DNA methylation from individual bacteria and microbiomes using nanopore sequencing. | https://github.com/fanglab/nanodisco | 7 | 0| 
 | 20201216T23:02:02Z | Windows Exploit Suggester - Next Generation | https://github.com/bitsadmin/wesng | 2069 | 326| 
 | 20201216T22:49:08Z | WhatsApp related discoveries/exploits/utilities | https://github.com/lordfme/whatsapp | 0 | 1| 
 | 20201216T22:33:34Z | Null | https://github.com/PizzaPablo666/Exploits-eternalblue-netapi-modified-for-python3 | 0 | 0| 
@@ -61,6 +59,7 @@
 | 20201216T21:04:12Z | PS4 Exploit list | https://github.com/Hakkuraifu/PS4xploit | 9 | 1| 
 | 20201216T20:36:48Z | RCE for old gitlab version <= 11.4.7 & 12.4.0-12.8.1 and LFI for old gitlab versions 10.4 - 12.8.1 | https://github.com/dotPY-hax/gitlab_RCE | 5 | 0| 
 | 20201216T19:50:53Z | Notre projet entreprise a pour but d’implémenter une interface web de visualisation de données. Lesdonnées sont récupérées directement sur les exploitations agricoles et seront disponible en local chez leclient. Une des valeurs du projet est que le client final (agriculteur) est maître de ses données et il endispose entièrement. Pour réaliser ce projet, nous allouons une partie conséquente du temps de projet àl’état de l’art et la recherche de l’existant. En effet, le but n’est pas nécessairement de développer unesolution de toute pièce mais plutôt, dans la mesure du possible, d’utiliser une solution déjà existante et del’adapter au projet d’AgriBIoT. | https://github.com/iron8kid/agrivision | 0 | 0| 
+| 20201216T19:38:15Z | Null | https://github.com/elianyperez/ExploreExploit | 0 | 0| 
 
 
 # backdoor on Github 推荐
