@@ -13,6 +13,7 @@
 | 20201216 | Postgresql 数据库 superuser 提权漏洞分析（CVE-2020-25695） | https://staaldraad.github.io/post/2020-12-15-cve-2020-25695-postgresql-privesc/| 
 | 20201216 | Keytap2 - 通过机器学习训练键盘击键声音，通过侧信道的方式实现 Keylogger | https://github.com/ggerganov/kbd-audio/discussions/31| 
 | 20201216 | Project Zero 研究员 Ivan Fratric 开源了一个用于 Fuzz Windows、macOS 二进制文件的工具 | https://github.com/googleprojectzero/Jackalope| 
+| 20201216 | 使用Dexcalibur和JEB逆向工具分析Android恶意软件。 | https://cryptax.medium.com/unpacking-an-android-malware-with-dexcalibur-and-jeb-59bdd905d4a7?source=social.tw| 
 | 20201215 | Apache Struts 2 CVE-2020-17530 RCE 漏洞分析 | https://securitylab.github.com/advisories/GHSL-2020-205-double-eval-dynattrs-struts2/| 
 | 20201215 | Vulnerabilities in McAfee ePolicy Orchestrator | https://swarm.ptsecurity.com/vulnerabilities-in-mcafee-epolicy-orchestrator/| 
 | 20201215 | Kerberos Bronze Bit Attack (CVE-2020-17049) Scenarios to Potentially Compromise Active Directory | https://www.hub.trimarcsecurity.com/post/leveraging-the-kerberos-bronze-bit-attack-cve-2020-17049-scenarios-to-compromise-active-directory| 
@@ -25,7 +26,6 @@
 | 20201215 | Volexity 对 SolarWinds 供应链攻击事件的分析 | https://sec.today/pulses/775166fc-fa80-4eb2-a121-64e755c3aa23/| 
 | 20201215 | Volexity 对 SolarWinds 供应链攻击事件的分析 | https://www.volexity.com/blog/2020/12/14/dark-halo-leverages-solarwinds-compromise-to-breach-organizations/| 
 | 20201215 | 威胁狩猎：使用开源ELK项目进行日志监控实验室部署。 | https://www.hackingarticles.in/threat-hunting-log-monitoring-lab-setup-with-elk/| 
-| 20201215 | 对TP-Link HS110设备固件逆向工程分析。 | https://www.softscheck.com/en/reverse-engineering-tp-link-hs110/| 
 
 
 # 安全维基 推荐
@@ -46,30 +46,30 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20201216T14:31:51Z | CVE-2020-14882 | Vulmap - Web漏洞扫描和验证工具，可对Web容器、Web服务器、Web中间件以及CMS等Web程序进行漏洞扫描，并且具备漏洞利用功能。 相关测试人员可以使用vulmap检测目标是否存在特定漏洞，并且可以使用漏洞利用功能验证漏洞是否真实存在。CVE-2020-14882, CVE-2020-2555, CVE-2020-2883, S2-061, CVE-2020-13942, CVE-2020-17530 | https://github.com/zhzyker/vulmap | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
-| 20201216T13:16:30Z | CVE-2020-17530 | S2-061 CVE-2020-17530 | https://github.com/Al1ex/CVE-2020-17530 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  09 HOURS 25 MINUTES 04 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201217T00:56:31Z | CVE-2020-17530 | S2-061 CVE-2020-17530 | https://github.com/Al1ex/CVE-2020-17530 | | 
+| 20201217T00:15:09Z | CVE-2020-17530 | Collect S2-061 payloads | https://github.com/wuzuowei/CVE-2020-17530 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 58 MINUTES 16 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201216T20:56:39Z | CVE-2020-8554 | CVE-2020-8554: Man in the middle using LoadBalancer or ExternalIPs | https://github.com/rancher/externalip-webhook | 未查询到CVE信息| 
+| 20201216T19:20:26Z | CVE-2020-17530 | CVE-2020-17530-strust2-061 | https://github.com/fengziHK/CVE-2020-17530-strust2-061 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 58 MINUTES 25 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201216T18:19:25Z | CVE-2020-14882 | Vulmap - Web漏洞扫描和验证工具，可对Web容器、Web服务器、Web中间件以及CMS等Web程序进行漏洞扫描，并且具备漏洞利用功能。 相关测试人员可以使用vulmap检测目标是否存在特定漏洞，并且可以使用漏洞利用功能验证漏洞是否真实存在。CVE-2020-14882, CVE-2020-2555, CVE-2020-2883, S2-061, CVE-2020-13942, CVE-2020-17530 | https://github.com/zhzyker/vulmap | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
 | 20201216T12:02:35Z | CVE-2020-3452 | Null | https://github.com/cygenta/CVE-2020-3452 | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
-| 20201216T11:50:01Z | CVE-2020-17530 | CVE-2020-17530-strust2-061 | https://github.com/fengziHK/CVE-2020-17530-strust2-061 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  09 HOURS 25 MINUTES 08 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20201216T09:33:56Z | CVE-2020-17530 | Collect S2-061 payloads | https://github.com/wuzuowei/CVE-2020-17530 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  09 HOURS 24 MINUTES 59 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20201216T07:17:55Z | cve-2020-0022 | cve-2020-0022相关的一些东西 | https://github.com/5k1l/cve-2020-0022 | 未查询到CVE信息| 
 | 20201215T06:45:42Z | CVE-2020-26259 | CVE-2020-26259: XStream is vulnerable to an Arbitrary File Deletion on the local host when unmarshalling as long as the executing process has sufficient rights. | https://github.com/jas502n/CVE-2020-26259 | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
-| 20201214T22:25:06Z | CVE-2020-8554 | Mitigate CVE-2020-8554 with Policy Controller in Anthos | https://github.com/jrmurray000/CVE-2020-8554 | | 
+| 20201214T22:25:06Z | CVE-2020-8554 | Mitigate CVE-2020-8554 with Policy Controller in Anthos | https://github.com/jrmurray000/CVE-2020-8554 | 未查询到CVE信息| 
 | 20201214T19:39:42Z | cve-2020-27949 | Null | https://github.com/seemoo-lab/dtrace-memaccess_cve-2020-27949 | 未查询到CVE信息| 
-| 20201214T07:57:57Z | CVE-2020-15002 | https://hackerone.com/reports/863553 | https://github.com/skr0x1c0/SSRF-CVE-2020-15002 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  09 HOURS 25 MINUTES 10 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20201216T13:49:40Z | Null | https://github.com/thierry-tct/KLEE-SEMu | 1 | 0| 
+| 20201217T00:50:20Z | Urban Evidence Based Policy | https://github.com/KLeeDE/PUS2020_KLee | 0 | 1| 
+| 20201216T19:01:50Z | Null | https://github.com/thierry-tct/KLEE-SEMu | 1 | 0| 
+| 20201216T17:48:32Z | RVT is a collection of tools/libraries to support both static and dynamic verification of Rust programs. | https://github.com/project-oak/rust-verification-tools | 99 | 5| 
 | 20201216T10:48:41Z | Symbiotic is a tool for finding bugs in computer programs based on instrumentation, program slicing and KLEE | https://github.com/staticafi/symbiotic | 209 | 33| 
 | 20201216T06:45:16Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1576 | 475| 
-| 20201216T05:51:02Z | Urban Evidence Based Policy | https://github.com/KLeeDE/PUS2020_KLee | 0 | 1| 
 | 20201215T23:33:22Z | Null | https://github.com/fontworks-fonts/Klee | 0 | 0| 
 | 20201215T14:38:01Z | Null | https://github.com/viktorfrom/klee_tutorial | 0 | 0| 
 | 20201214T17:50:58Z | Null | https://github.com/DreamMobile0108/kleensight-videoconvert | 0 | 0| 
 | 20201213T16:27:59Z | KLEE in the browser | https://github.com/klee/klee-web | 44 | 11| 
-| 20201213T15:47:33Z | RVT is a collection of tools/libraries to support both static and dynamic verification of Rust programs. | https://github.com/project-oak/rust-verification-tools | 99 | 5| 
 | 20201213T07:12:18Z | Null | https://github.com/KleeUT/kleeut.com | 0 | 0| 
 
 
@@ -88,46 +88,46 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20201216T14:28:14Z | Code for Exploiting Typed Syntactic Dependencies for Targeted Sentiment Classification Using Graph Attention Neural Network | https://github.com/muyeby/RGAT-ABSA | 1 | 0| 
-| 20201216T14:21:48Z | A phased, evasive Path Traversal + LFI scanning & exploitation tool in Python | https://github.com/VainlyStrain/Vailyn | 65 | 2| 
-| 20201216T14:13:44Z | Pattern-Exploiting Training in Julia and Knet. A replication of %It’s Not Just Size That Matters: Small Language Models Are Also Few-Shot Learners% | https://github.com/Shamdan17/pet.jl | 0 | 1| 
-| 20201216T14:09:54Z | the ultimate exploit locator | https://github.com/ARPSyndicate/xlocate | 0 | 0| 
-| 20201216T13:59:56Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 8761 | 1384| 
-| 20201216T13:44:01Z | Explore known vulnerabilities and learn how to exploit them with TryHackMe rooms | https://github.com/martinkubecka/martinkubecka.github.io | 0 | 0| 
-| 20201216T13:34:21Z | OSINT, Threat Hunting, Network and Web Recon, Discovery, Enumeration, Vulnerability Mapping, Exploitation, Reporting | https://github.com/aryanguenthner/365 | 4 | 1| 
-| 20201216T13:26:24Z | Exploit high-order features in prototypical networks for few-shot classification. | https://github.com/minkee77/CMPNet | 0 | 0| 
-| 20201216T12:59:14Z | Null | https://github.com/Ahendall/AhendallExploiting | 1 | 0| 
-| 20201216T12:49:22Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 6 | 3| 
+| 20201217T00:51:32Z | Extensible framework for analyzing publicly available information about vulnerabilities | https://github.com/leonov-av/vulristics | 18 | 1| 
+| 20201217T00:49:24Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 6 | 3| 
+| 20201217T00:47:54Z | Notes and code form going through the book hacking the art of exploitation by Jon Erickson (No Relation) | https://github.com/ericsson-james/Hacking-TAOE | 0 | 0| 
+| 20201217T00:45:48Z | Ok Cara deface metode telerik kalian donwlod dlu toola telrelik oke setelah kalian punya silahkan  di buka pilih terlerik terus ketikkan termux setelah itu terlerik lalu cd terlerik lalu python 2-terlerik  jangan lupa kalau untuk menjalankan ketik python2 terlerik-py  : - inurl:/RadEditorProvider/DialogHandler.aspx - inurl:/desktopModules/Admin/RadEditorProvider/DialogHandler.aspx - inurl:/desktopModules/Admin/RadEditorProvider - inurl:/desktopModules/Admin/RadEditorProvider/ intext:%loading%  Exploit= - /DesktopModules/Admin/RadEditorProvider/DialogHandler.aspx *UNTUK CATATAN* Semisal kalian udah bisa up shell kalian dapat windows  Karna web disitu semua pakai program windows  | https://github.com/Mrcick3n/mr-cick3n | 0 | 0| 
+| 20201217T00:40:55Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 8769 | 1386| 
+| 20201217T00:39:07Z | A phased, evasive Path Traversal + LFI scanning & exploitation tool in Python | https://github.com/VainlyStrain/Vailyn | 66 | 2| 
+| 20201217T00:09:07Z | Vulnerabilities% Risk of Exploitation | https://github.com/thiagofigcosta/V-REx | 0 | 0| 
+| 20201216T23:49:49Z | nanodisco: a toolbox for discovering and exploiting multiple types of DNA methylation from individual bacteria and microbiomes using nanopore sequencing. | https://github.com/fanglab/nanodisco | 7 | 0| 
+| 20201216T23:02:02Z | Windows Exploit Suggester - Next Generation | https://github.com/bitsadmin/wesng | 2069 | 326| 
+| 20201216T22:49:08Z | WhatsApp related discoveries/exploits/utilities | https://github.com/lordfme/whatsapp | 0 | 1| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20201216T14:33:32Z | Quick lookup files for SUNBURST Backdoor  | https://github.com/rkovar/sunburstlookups | 5 | 6| 
+| 20201217T00:04:47Z | A simple client-server backdoor utility to run commands on target machines for enumerating system information | https://github.com/f0xtek/simple-py-backdoor | 0 | 0| 
+| 20201216T23:58:36Z | Null | https://github.com/OgulcanKacarr/TrBackdoor | 3 | 0| 
+| 20201216T20:36:24Z | Patch PE, ELF, Mach-O binaries with shellcode new version in development, available only to sponsors | https://github.com/secretsquirrel/the-backdoor-factory | 2646 | 725| 
+| 20201216T20:17:48Z | C++ Backdoor/Spyware for Windows (ONLY FOR EDUCATIONAL PURPOSES) | https://github.com/ferdinandlb/WindowsBackdoor | 5 | 1| 
+| 20201216T15:27:12Z | Quick lookup files for SUNBURST Backdoor  | https://github.com/rkovar/sunburstlookups | 6 | 5| 
 | 20201216T12:56:15Z | Null | https://github.com/rabbitx1337/backdoor | 0 | 0| 
 | 20201216T12:05:22Z | AI based Backdoor Written for Windows using Telegram-bot and ZMQ as Its Back-ends. | https://github.com/wildonion/katyusha | 1 | 0| 
 | 20201216T09:56:51Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 132 | 19| 
-| 20201216T09:44:15Z | Patch PE, ELF, Mach-O binaries with shellcode new version in development, available only to sponsors | https://github.com/secretsquirrel/the-backdoor-factory | 2645 | 725| 
 | 20201216T04:09:19Z | Null | https://github.com/TinfoilHat0/Defending-Against-Backdoors-with-Robust-Learning-Rate | 0 | 0| 
-| 20201216T02:36:28Z | C++ Backdoor/Spyware for Windows (ONLY FOR EDUCATIONAL PURPOSES) | https://github.com/ferdinandlb/WindowsBackdoor | 4 | 1| 
 | 20201216T00:51:41Z | Null | https://github.com/alfredla/backdoor | 0 | 1| 
-| 20201215T22:25:04Z | Null | https://github.com/wcenatus/node-backdoor | 0 | 0| 
-| 20201215T13:19:34Z | Null | https://github.com/ring-worm/UNC2452.SOLARWINDS.ORION.SUNBURST | 2 | 3| 
 
 
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20201216T14:30:30Z | The C4 Concurrent C Fuzzer | https://github.com/MattWindsor91/c4f | 7 | 1| 
-| 20201216T14:27:01Z | Null | https://github.com/Ekron-Shoo/fuzzy-tribble | 0 | 0| 
-| 20201216T14:23:08Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 1144 | 248| 
-| 20201216T14:22:59Z | Binary, coverage-guided fuzzer for Windows and macOS | https://github.com/googleprojectzero/Jackalope | 234 | 20| 
-| 20201216T14:14:48Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2238 | 113| 
-| 20201216T14:03:21Z | Null | https://github.com/lacygoill/vim-fuzzy | 0 | 0| 
-| 20201216T13:37:56Z | Bbuzz: a bit-aware network protocol fuzzing and reverse engineering framework | https://github.com/lockout/Bbuzz | 17 | 1| 
-| 20201216T13:12:26Z | Packer Fuzzer is a fast and efficient scanner for security detection of websites constructed by javascript module bundler such as Webpack.  | https://github.com/rtcatc/Packer-Fuzzer | 580 | 63| 
-| 20201216T13:04:55Z | Fuzzer and metamorphic tester for C++ libraries | https://github.com/PollyLabs/library-metamorphic-testing | 1 | 1| 
-| 20201216T12:52:06Z | Null | https://github.com/Smoothini/fuzzy-winner | 0 | 0| 
+| 20201217T00:51:10Z | Fuzzy matching publications for fatcat (wip). | https://github.com/miku/fuzzycat | 0 | 1| 
+| 20201217T00:18:10Z | Car braking/accelerating simulator using fuzzy logic | https://github.com/sswrk/fuzzy-logic-car | 0 | 0| 
+| 20201217T00:07:41Z | Определение цветовых характеристик полимерных материалов | https://github.com/kostyaLem/FuzzyLogic | 0 | 0| 
+| 20201217T00:01:48Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 1159 | 248| 
+| 20201216T23:47:21Z | RESTler is the first stateful REST API fuzzing tool for automatically testing cloud services through their REST APIs and finding security and reliability bugs in these services. | https://github.com/microsoft/restler-fuzzer | 580 | 48| 
+| 20201216T23:23:02Z | Null | https://github.com/Smoothini/fuzzy-winner | 0 | 0| 
+| 20201216T22:57:35Z | FuzzBench - Fuzzer benchmarking as a service. | https://github.com/google/fuzzbench | 564 | 90| 
+| 20201216T22:38:29Z | Fuzzer for Pharo | https://github.com/mabdi/phazzer | 0 | 0| 
+| 20201216T22:36:20Z | Autofuze has been developped to provide a full toolkit to fuzz and pentest several protocols used in automotive industry such as USB, XCP, UDS, CAN. Everything is done in Python to provide a convenient way to develop automated test. | https://github.com/DanAurea/AutoFuze | 0 | 0| 
+| 20201216T22:29:55Z | Create new personal site | https://github.com/Temple0609/fuzzy-parakeet | 1 | 0| 
 
 
 
