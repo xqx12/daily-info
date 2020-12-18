@@ -25,13 +25,13 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20201218T07:28:31Z | CVE-2020-14882 | Vulmap - Web漏洞扫描和验证工具，可对Web容器、Web服务器、Web中间件以及CMS等Web程序进行漏洞扫描，并且具备漏洞利用功能。 相关测试人员可以使用vulmap检测目标是否存在特定漏洞，并且可以使用漏洞利用功能验证漏洞是否真实存在。CVE-2020-14882, CVE-2020-2555, CVE-2020-2883, S2-061, CVE-2020-13942, CVE-2020-17530 | https://github.com/zhzyker/vulmap | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
-| 20201218T07:05:31Z | cve-2020-17530 | (cve-2020-17530) struts2_s2-061 freemarker_RCE testscript | https://github.com/ludy-dev/freemarker_RCE_struts2_s2-061 | | 
+| 20201218T13:48:45Z | CVE-2020-14882 | Vulmap - Web漏洞扫描和验证工具，可对Web容器、Web服务器、Web中间件以及CMS等Web程序进行漏洞扫描，并且具备漏洞利用功能。 相关测试人员可以使用vulmap检测目标是否存在特定漏洞，并且可以使用漏洞利用功能验证漏洞是否真实存在。CVE-2020-14882, CVE-2020-2555, CVE-2020-2883, S2-061, CVE-2020-13942, CVE-2020-17530 | https://github.com/zhzyker/vulmap | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
+| 20201218T07:05:31Z | cve-2020-17530 | (cve-2020-17530) struts2_s2-061 freemarker_RCE testscript | https://github.com/ludy-dev/freemarker_RCE_struts2_s2-061 | 未查询到CVE信息| 
 | 20201218T06:56:51Z | CVE-2020-2978 | CVE-2020-2978 | https://github.com/emad-almousa/CVE-2020-2978 | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
-| 20201218T04:57:16Z | CVE-2020-17530 | CVE-2020-17530-strust2-061 | https://github.com/fengziHK/CVE-2020-17530-strust2-061 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 57 MINUTES 59 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20201218T04:56:30Z | CVE-2020-25213 | Null | https://github.com/forse01/CVE-2020-25213 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 58 MINUTES 07 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20201218T00:57:53Z | CVE-2020-17530 | Collect S2-061 payloads | https://github.com/wuzuowei/CVE-2020-17530 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 57 MINUTES 54 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20201218T00:57:08Z | CVE-2020-17530 | S2-061 CVE-2020-17530 | https://github.com/Al1ex/CVE-2020-17530 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 57 MINUTES 55 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201218T04:57:16Z | CVE-2020-17530 | CVE-2020-17530-strust2-061 | https://github.com/fengziHK/CVE-2020-17530-strust2-061 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  09 HOURS 53 MINUTES 13 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201218T04:56:30Z | CVE-2020-25213 | Null | https://github.com/forse01/CVE-2020-25213 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  09 HOURS 53 MINUTES 20 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201218T00:57:53Z | CVE-2020-17530 | Collect S2-061 payloads | https://github.com/wuzuowei/CVE-2020-17530 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  09 HOURS 53 MINUTES 08 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201218T00:57:08Z | CVE-2020-17530 | S2-061 CVE-2020-17530 | https://github.com/Al1ex/CVE-2020-17530 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  09 HOURS 53 MINUTES 09 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 
 
 # klee on Github 推荐
@@ -53,21 +53,22 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20201218T13:44:54Z | linux post-exploitation | https://github.com/jm33-m0/emp3r0r | 29 | 6| 
+| 20201218T13:20:06Z | Exploiting CVE-2014-3153, AKA Towelroot. | https://github.com/elongl/towelroot | 0 | 0| 
 | 20201218T13:01:38Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 8783 | 1389| 
 | 20201218T12:53:12Z | Sifter is a OSINT, recon & vulnerability scanner. It incorporates a plethara of tools within different module sets that tries to cover every attack vector. Allowing you to quickly perform recon tasks and organize the results in one place. From OSINT to Recon, Exploitation, Post-Exploitation, OpSec, Threat Analysis, XSS, SQLinjection, Network Scanning, WebApp Analysis or DNS enumeration.. Sifter should be able to cover it all. | https://github.com/s1l3nt78/sifter | 318 | 92| 
 | 20201218T12:49:55Z | A module tab is a plan design where pattern is isolated into various panes, and every sheet is visible each in turn. The client demands content to be shown by clicking (or in certain cases drifting over) the content comparing tab control.   A module tab is a User Interface (UI) plan design where substance is isolated into various sheets, and every sheet is visible each in turn. The client demands substance to be shown by clicking (or in certain cases drifting over) the substance%s relating tab control.      Module tabs are considering a to be useful as sites and web applications push for upgrading site page screen territories without relinquishing the measure of data introduced on the double. For instance, in weblogs, they are utilized in optional substance areas, (for example, the sidebar) to introduce significant and fascinating data, for example, a posting of blog entries which clients can associate with to will website pages speedier. This definitely takes into consideration an unpretentious and minimized way of introducing content.  This article examines the utilization of the module tabs configuration design for use in sites and online applications. We share with you some prescribed procedures to consider when utilizing module tabs, a posting of true instances of sites that exploit module tabs, just as instructional exercises and free downloadable contents for building and sending module tabs in your destinations.  Life systems Of a Module Tab Area  It merits a couple of seconds to recognize the critical pieces of a module tabs with the end goal of normalization of the wordings utilized in the conversation.  The tab control region is the area of the tab controls.  Tab controls are the interface part for exploring through the module tabs sheets.  The tab control text is the content that portrays the tab control. It should be short (one to two words) and ought to successfully portray the comparing sheet data.  The dynamic tab control alludes to the tab control that is by and by chose. Just a single tab control should be dynamic. The main tab control is the default dynamic tab control when the site page first loads.  Latent tab controls are the tab controls whose sheets are not presently appearing.  A sheet is the place where data is shown; it ought to have a relating tab control so sheets that are not shown are open by clicking its tab control.  Sheet content is the substance being introduced within a sheet.  The dynamic sheet is the sheet that is presently being appeared; it is matched with the dynamic tab control. The sheet that is shown promptly when the page first loads are the default dynamic sheet.  Inert sheets (not appeared in the outline) are the sheets that are presently not being appeared. An idle sheet turns into the dynamic sheet when its tab control is clicked.   When To Use Module Tabs  The essential objective of the module tabs UI design is to allow clients to see a gathering of related information each in turn, which thusly permits planners to modularize this gathering of data in a compacted way, sparing significant screen land. In this part, we%ll talk about the occurrences when module tabs are alluring.  Tags : Website Designing Company in Delhi, Website Designing in Delhi | https://github.com/ajayrock007/MODULE-TABS-IN-WEB-DESIGN- | 0 | 0| 
 | 20201218T12:49:25Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 6 | 3| 
 | 20201218T12:39:43Z | Null | https://github.com/sheenieboy/ExploiterChat | 1 | 0| 
-| 20201218T12:30:00Z | Exploiting CVE-2014-3153, AKA Towelroot. | https://github.com/elongl/towelroot | 0 | 0| 
 | 20201218T12:19:11Z | PS4 Exploit list | https://github.com/Hakkuraifu/PS4xploit | 9 | 1| 
 | 20201218T12:12:38Z | This project is designed to express how to use Android MVVM architecture while exploiting the right practices. | https://github.com/mbobiosio/KotlinMVVMRetrofitRoom | 0 | 0| 
 | 20201218T12:07:38Z | 大型内网渗透扫描器&Cobalt Strike，Ladon7.2内置94个模块，包含信息收集/存活主机/IP扫描/端口扫描/服务识别/网络资产/密码爆破/漏洞检测/漏洞利用。漏洞检测含MS17010、SMBGhost、Weblogic、ActiveMQ、Tomcat、Struts2系列，密码口令爆破(Mysql、Oracle、MSSQL)、FTP、SSH(Linux)、VNC、Windows(IPC、WMI、SMB、Netbios、LDAP、SmbHash、WmiHash、Winrm),远程执行命令(wmiexe/psexec/atexec/sshexec/webshell),降权提权Runas、GetSystem，Poc/Exploit,支持Cobalt Strike 3.X-4.0 | https://github.com/k8gege/Ladon | 2099 | 536| 
-| 20201218T12:06:27Z | K8工具合集(内网渗透/提权工具/远程溢出/漏洞利用/扫描工具/密码破解/免杀工具/Exploit/APT/0day/Shellcode/Payload/priviledge/BypassUAC/OverFlow/WebShell/PenTest) Web GetShell Exploit(Struts2/Zimbra/Weblogic/Tomcat/Apache/Jboss/DotNetNuke/zabbix) | https://github.com/k8gege/K8tools | 3410 | 1619| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20201218T13:43:22Z | Backdoor for scripts | https://github.com/WUScripts/Backdoor | 0 | 0| 
 | 20201218T12:48:38Z | Testing tools for analysis of the Sunburst backdoor | https://github.com/Pir00t/sunburst_kit | 0 | 0| 
 | 20201218T07:54:48Z | Null | https://github.com/archandanime/SSH-persistent-backdoor | 0 | 0| 
 | 20201218T07:49:29Z | Null | https://github.com/rabbitx1337/backdoor | 0 | 0| 
@@ -81,6 +82,8 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20201218T14:04:19Z | Null | https://github.com/s9varesc/url-fuzzing | 0 | 0| 
+| 20201218T13:19:21Z | Null | https://github.com/mrkaurelius/fuzzykafe | 0 | 0| 
 | 20201218T12:56:20Z | Null | https://github.com/Dmenk123/fuzzy_ahp | 0 | 0| 
 | 20201218T12:40:53Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 1189 | 249| 
 | 20201218T12:40:09Z | Ethereum smart contract fuzzer | https://github.com/crytic/echidna | 517 | 86| 
@@ -89,8 +92,6 @@
 | 20201218T12:03:12Z | Null | https://github.com/moisesmiiranda/ProjetoFuzzy | 0 | 0| 
 | 20201218T12:03:06Z | Packer Fuzzer is a fast and efficient scanner for security detection of websites constructed by javascript module bundler such as Webpack.  | https://github.com/rtcatc/Packer-Fuzzer | 596 | 64| 
 | 20201218T11:53:15Z | HTTP fuzzer engine security oriented | https://github.com/NozakiLabs/nozaki | 22 | 6| 
-| 20201218T11:50:31Z | An algorithm to detect the traffic flow on roads based on three parameters .No. of lanes  Quality of Road   Visibility   | https://github.com/thushariii/fuzzylogictrafficpredictor | 0 | 0| 
-| 20201218T11:46:44Z | A modified version of Syzkaller to specifically fuzz FUSE on Linux | https://github.com/scannells/fuse-syzkaller | 0 | 0| 
 
 
 
