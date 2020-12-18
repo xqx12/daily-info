@@ -118,9 +118,9 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20201218T01:59:57Z | Fuzzy matching publications for fatcat (wip). | https://github.com/miku/fuzzycat | 0 | 1| 
 | 20201218T01:51:21Z | Security oriented software fuzzer. Supports evolutionary, feedback-driven fuzzing based on code coverage (SW and HW based) | https://github.com/google/honggfuzz | 2080 | 429| 
 | 20201218T01:49:53Z | Binary, coverage-guided fuzzer for Windows and macOS | https://github.com/googleprojectzero/Jackalope | 334 | 31| 
-| 20201218T01:32:05Z | Fuzzy matching publications for fatcat (wip). | https://github.com/miku/fuzzycat | 0 | 1| 
 | 20201218T01:18:48Z | Null | https://github.com/Smoothini/fuzzy-winner | 0 | 0| 
 | 20201218T00:39:54Z | Null | https://github.com/qian-feng/RG-fuzzing | 0 | 0| 
 | 20201218T00:29:16Z | OSS-Fuzz - continuous fuzzing of open source software. | https://github.com/google/oss-fuzz | 5736 | 1141| 
