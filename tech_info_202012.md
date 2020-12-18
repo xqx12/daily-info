@@ -31,46 +31,46 @@
 # 安全维基 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20201218 | domainNamePredictor: 公司域名使用规律预测及生成工具 | https://github.com/LandGrey/domainNamePredictor| 
+| 20201218 | 记一次攻防演习渗透过程 | https://gh0st.cn//archives/2020-11-22/1| 
+| 20201218 | 攻击推理：基于攻击溯源图的威胁评估技术 | http://blog.nsfocus.net/threat-assessment-1209/| 
+| 20201218 | LibFuzzer workshop学习之路 | https://www.anquanke.com/post/id/224823| 
+| 20201218 | CVE-2020-15257 containerd-shim Exploit | https://www.cdxy.me/?p=837| 
+| 20201218 | 越权扫描器碎碎念 | http://pirogue.org/2020/12/14/bacscanner/| 
+| 20201218 | 越权扫描器碎碎念 | https://mp.weixin.qq.com/s/yMpAiue7OT1I8E3C5Dkngw| 
+| 20201218 | 我的应用安全方法论：路在脚下 | https://mp.weixin.qq.com/s/atfMoXjxccUfrZbFsULiRg| 
+| 20201218 | GetShell的姿势总结 | https://www.sec-in.com/article/743| 
 | 20201217 | 吐槽国内对SolarWinds事件的分析 | https://mp.weixin.qq.com/s/ytm62hJ59XIDi-QRlZTfEg| 
-| 20201217 | NIST、CIS、MITRE、SANS 傻傻分不清楚 | https://mp.weixin.qq.com/s/wZF3TAVPr5t2KxMi_Gc2-w| 
-| 20201217 | 吐槽《吐槽国内对SolarWinds事件的分析》 | https://weibo.com/ttarticle/x/m/show/id/2309404582616916688901| 
-| 20201217 | 数据安全探索与实践 | https://mp.weixin.qq.com/s/yGLrdlpSmEe5ChiVn4b8Kg| 
-| 20201217 | SolarWinds事件八卦解读 | https://mp.weixin.qq.com/s/aWZ0mrapJTpHwL0nBnGhmg| 
-| 20201217 | 2020安全漏洞年报 | http://pub-shbt.s3.360.cn/cert-public-file/2020%E5%AE%89%E5%85%A8%E6%BC%8F%E6%B4%9E%E5%B9%B4%E6%8A%A5.pdf| 
-| 20201217 | 命令注入靶场空格过滤绕过测试 | https://mp.weixin.qq.com/s/pdU1XnBhnxRRGlncY3pDxQ| 
-| 20201217 | [SCUCTF新生赛2020]RE部分WP | http://blog.bluesadi.cn:4000/2020/11/26/SCUCTF-2020%E6%96%B0%E7%94%9F%E8%B5%9B-RE%E9%83%A8%E5%88%86WP/| 
-| 20201217 | 某系统Oracle+Bypass盲注 | https://www.sec-in.com/article/750| 
-| 20201217 | FuzzingPaper: Recent Fuzzing Paper | https://github.com/wcventure/FuzzingPaper| 
 
 
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20201218T02:28:43Z | CVE-2020-14882 | Vulmap - Web漏洞扫描和验证工具，可对Web容器、Web服务器、Web中间件以及CMS等Web程序进行漏洞扫描，并且具备漏洞利用功能。 相关测试人员可以使用vulmap检测目标是否存在特定漏洞，并且可以使用漏洞利用功能验证漏洞是否真实存在。CVE-2020-14882, CVE-2020-2555, CVE-2020-2883, S2-061, CVE-2020-13942, CVE-2020-17530 | https://github.com/zhzyker/vulmap | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
-| 20201218T00:57:53Z | CVE-2020-17530 | Collect S2-061 payloads | https://github.com/wuzuowei/CVE-2020-17530 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  20 HOURS 59 MINUTES 57 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20201218T00:57:08Z | CVE-2020-17530 | S2-061 CVE-2020-17530 | https://github.com/Al1ex/CVE-2020-17530 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  20 HOURS 59 MINUTES 59 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20201217T20:03:45Z | CVE-2020-8644 | Null | https://github.com/FancyDoesSecurity/CVE-2020-8644 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 00 MINUTES 07 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201218T07:28:31Z | CVE-2020-14882 | Vulmap - Web漏洞扫描和验证工具，可对Web容器、Web服务器、Web中间件以及CMS等Web程序进行漏洞扫描，并且具备漏洞利用功能。 相关测试人员可以使用vulmap检测目标是否存在特定漏洞，并且可以使用漏洞利用功能验证漏洞是否真实存在。CVE-2020-14882, CVE-2020-2555, CVE-2020-2883, S2-061, CVE-2020-13942, CVE-2020-17530 | https://github.com/zhzyker/vulmap | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
+| 20201218T07:05:31Z | cve-2020-17530 | (cve-2020-17530) struts2_s2-061 freemarker_RCE testscript | https://github.com/ludy-dev/freemarker_RCE_struts2_s2-061 | | 
+| 20201218T06:56:51Z | CVE-2020-2978 | CVE-2020-2978 | https://github.com/emad-almousa/CVE-2020-2978 | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
+| 20201218T04:57:16Z | CVE-2020-17530 | CVE-2020-17530-strust2-061 | https://github.com/fengziHK/CVE-2020-17530-strust2-061 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 57 MINUTES 59 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201218T04:56:30Z | CVE-2020-25213 | Null | https://github.com/forse01/CVE-2020-25213 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 58 MINUTES 07 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201218T00:57:53Z | CVE-2020-17530 | Collect S2-061 payloads | https://github.com/wuzuowei/CVE-2020-17530 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 57 MINUTES 54 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201218T00:57:08Z | CVE-2020-17530 | S2-061 CVE-2020-17530 | https://github.com/Al1ex/CVE-2020-17530 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 57 MINUTES 55 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201217T20:03:45Z | CVE-2020-8644 | Null | https://github.com/FancyDoesSecurity/CVE-2020-8644 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 58 MINUTES 04 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20201217T15:03:01Z | CVE-2020-35488 | Null | https://github.com/GuillaumePetit84/CVE-2020-35488 | 未查询到CVE信息| 
-| 20201217T12:33:47Z | CVE-2020-28647 | MOVEit Transfer 2020 web application Stored Cross-Site Scripting (XSS) | https://github.com/SECFORCE/Progress-MOVEit-Transfer-2020.1-Stored-XSS-CVE-2020-28647 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 00 MINUTES 09 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20201217T06:14:30Z | CVE-2020-27955 | POC for CVE-2020-27955 | https://github.com/shubham0d/CVE-2020-27955 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 00 MINUTES 08 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20201216T20:56:39Z | CVE-2020-8554 | CVE-2020-8554: Man in the middle using LoadBalancer or ExternalIPs | https://github.com/rancher/externalip-webhook | 未查询到CVE信息| 
-| 20201216T19:20:26Z | CVE-2020-17530 | CVE-2020-17530-strust2-061 | https://github.com/fengziHK/CVE-2020-17530-strust2-061 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 00 MINUTES 02 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20201216T12:02:35Z | CVE-2020-3452 | Null | https://github.com/cygenta/CVE-2020-3452 | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
+| 20201217T12:33:47Z | CVE-2020-28647 | MOVEit Transfer 2020 web application Stored Cross-Site Scripting (XSS) | https://github.com/SECFORCE/Progress-MOVEit-Transfer-2020.1-Stored-XSS-CVE-2020-28647 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 58 MINUTES 06 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20201217T14:29:47Z | RVT is a collection of tools/libraries to support both static and dynamic verification of Rust programs. | https://github.com/project-oak/rust-verification-tools | 99 | 5| 
-| 20201217T06:14:34Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1577 | 475| 
+| 20201218T12:38:45Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1577 | 475| 
+| 20201218T09:25:18Z | RVT is a collection of tools/libraries to support both static and dynamic verification of Rust programs. | https://github.com/project-oak/rust-verification-tools | 100 | 5| 
+| 20201218T09:11:11Z | Null | https://github.com/fontworks-fonts/Klee | 0 | 0| 
+| 20201218T09:02:23Z | Null | https://github.com/viktorfrom/klee_tutorial | 0 | 0| 
+| 20201218T08:54:05Z | Null | https://github.com/markhakansson/klee-tutorial | 0 | 0| 
+| 20201218T05:30:13Z | KLEE%s version of uClibc | https://github.com/klee/klee-uclibc | 32 | 33| 
 | 20201217T01:49:28Z | Urban Evidence Based Policy | https://github.com/KLeeDE/PUS2020_KLee | 0 | 1| 
 | 20201216T19:01:50Z | Null | https://github.com/thierry-tct/KLEE-SEMu | 1 | 0| 
 | 20201216T10:48:41Z | Symbiotic is a tool for finding bugs in computer programs based on instrumentation, program slicing and KLEE | https://github.com/staticafi/symbiotic | 209 | 33| 
-| 20201215T23:33:22Z | Null | https://github.com/fontworks-fonts/Klee | 0 | 0| 
-| 20201215T14:38:01Z | Null | https://github.com/viktorfrom/klee_tutorial | 0 | 0| 
 | 20201214T17:50:58Z | Null | https://github.com/DreamMobile0108/kleensight-videoconvert | 0 | 0| 
-| 20201213T16:27:59Z | KLEE in the browser | https://github.com/klee/klee-web | 44 | 11| 
-| 20201213T07:12:18Z | Null | https://github.com/KleeUT/kleeut.com | 0 | 0| 
 
 
 # s2e on Github 推荐
@@ -88,46 +88,46 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20201218T02:45:46Z | Mini Wordress Exploiter using CVE2020 | https://github.com/0xtn/wp-mini-exploiter | 10 | 2| 
-| 20201218T02:28:27Z | Null | https://github.com/sheenieboy/ExploiterChat | 1 | 0| 
-| 20201218T02:16:33Z | A backdoor exploit | https://github.com/PaulDParadis/BachDoor | 0 | 0| 
-| 20201218T01:56:02Z | Sifter is a OSINT, recon & vulnerability scanner. It incorporates a plethara of tools within different module sets that tries to cover every attack vector. Allowing you to quickly perform recon tasks and organize the results in one place. From OSINT to Recon, Exploitation, Post-Exploitation, OpSec, Threat Analysis, XSS, SQLinjection, Network Scanning, WebApp Analysis or DNS enumeration.. Sifter should be able to cover it all. | https://github.com/s1l3nt78/sifter | 318 | 92| 
-| 20201218T01:33:40Z | Computer-aided diagnosis of retinopathy is a research hotspot in the field of medical image classification. Optical coherence tomography imaging (OCT) is widely applied in the diagnosis of ocular diseases including DME and AMD. Most of the earlier research work were heavily dependent on ophthalmologists and exploited their knowledge to identify features, while some of the studies made use of very structurally complicated models, and others used small datasets of 45 images only. In this study we present the solution to classify the OCT images into 4 classes CNV, DME, DRUSEN, NORMAL using baseline 3,5 and 7 layer Convolutional Neural Networks. The novelty of this study is that it does not use any pre-trained models and yet achieves desired results just by hyper-parameter tuning and some clever observations. This paper explores the journey of our research of improvement along with substantial reasons which lay the fundamentals of convolutional neural networks. The biggest risk of overfitting in deep learning where multiple layered models are trained and tested and approaches of diminishing the overfitting effect has been discussed in detail. | https://github.com/kush1912/OCT-Image-Classification- | 0 | 0| 
-| 20201218T01:16:23Z | Malicious PHP files used to infect Wordpress sites | https://github.com/Am0rphous/Malware-Collection | 16 | 6| 
-| 20201218T01:11:36Z | Source code for Peet Oracle exploiting the power of cross-chain assets management. | https://github.com/PeetFinanceDefi/oracle-bridge | 0 | 0| 
-| 20201218T01:06:10Z | the ultimate exploit finder | https://github.com/ARPSyndicate/xlocate | 2 | 1| 
-| 20201218T00:49:24Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 6 | 3| 
-| 20201218T00:27:46Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 8780 | 1388| 
+| 20201218T13:01:38Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 8783 | 1389| 
+| 20201218T12:53:12Z | Sifter is a OSINT, recon & vulnerability scanner. It incorporates a plethara of tools within different module sets that tries to cover every attack vector. Allowing you to quickly perform recon tasks and organize the results in one place. From OSINT to Recon, Exploitation, Post-Exploitation, OpSec, Threat Analysis, XSS, SQLinjection, Network Scanning, WebApp Analysis or DNS enumeration.. Sifter should be able to cover it all. | https://github.com/s1l3nt78/sifter | 318 | 92| 
+| 20201218T12:49:55Z | A module tab is a plan design where pattern is isolated into various panes, and every sheet is visible each in turn. The client demands content to be shown by clicking (or in certain cases drifting over) the content comparing tab control.   A module tab is a User Interface (UI) plan design where substance is isolated into various sheets, and every sheet is visible each in turn. The client demands substance to be shown by clicking (or in certain cases drifting over) the substance%s relating tab control.      Module tabs are considering a to be useful as sites and web applications push for upgrading site page screen territories without relinquishing the measure of data introduced on the double. For instance, in weblogs, they are utilized in optional substance areas, (for example, the sidebar) to introduce significant and fascinating data, for example, a posting of blog entries which clients can associate with to will website pages speedier. This definitely takes into consideration an unpretentious and minimized way of introducing content.  This article examines the utilization of the module tabs configuration design for use in sites and online applications. We share with you some prescribed procedures to consider when utilizing module tabs, a posting of true instances of sites that exploit module tabs, just as instructional exercises and free downloadable contents for building and sending module tabs in your destinations.  Life systems Of a Module Tab Area  It merits a couple of seconds to recognize the critical pieces of a module tabs with the end goal of normalization of the wordings utilized in the conversation.  The tab control region is the area of the tab controls.  Tab controls are the interface part for exploring through the module tabs sheets.  The tab control text is the content that portrays the tab control. It should be short (one to two words) and ought to successfully portray the comparing sheet data.  The dynamic tab control alludes to the tab control that is by and by chose. Just a single tab control should be dynamic. The main tab control is the default dynamic tab control when the site page first loads.  Latent tab controls are the tab controls whose sheets are not presently appearing.  A sheet is the place where data is shown; it ought to have a relating tab control so sheets that are not shown are open by clicking its tab control.  Sheet content is the substance being introduced within a sheet.  The dynamic sheet is the sheet that is presently being appeared; it is matched with the dynamic tab control. The sheet that is shown promptly when the page first loads are the default dynamic sheet.  Inert sheets (not appeared in the outline) are the sheets that are presently not being appeared. An idle sheet turns into the dynamic sheet when its tab control is clicked.   When To Use Module Tabs  The essential objective of the module tabs UI design is to allow clients to see a gathering of related information each in turn, which thusly permits planners to modularize this gathering of data in a compacted way, sparing significant screen land. In this part, we%ll talk about the occurrences when module tabs are alluring.  Tags : Website Designing Company in Delhi, Website Designing in Delhi | https://github.com/ajayrock007/MODULE-TABS-IN-WEB-DESIGN- | 0 | 0| 
+| 20201218T12:49:25Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 6 | 3| 
+| 20201218T12:39:43Z | Null | https://github.com/sheenieboy/ExploiterChat | 1 | 0| 
+| 20201218T12:30:00Z | Exploiting CVE-2014-3153, AKA Towelroot. | https://github.com/elongl/towelroot | 0 | 0| 
+| 20201218T12:19:11Z | PS4 Exploit list | https://github.com/Hakkuraifu/PS4xploit | 9 | 1| 
+| 20201218T12:12:38Z | This project is designed to express how to use Android MVVM architecture while exploiting the right practices. | https://github.com/mbobiosio/KotlinMVVMRetrofitRoom | 0 | 0| 
+| 20201218T12:07:38Z | 大型内网渗透扫描器&Cobalt Strike，Ladon7.2内置94个模块，包含信息收集/存活主机/IP扫描/端口扫描/服务识别/网络资产/密码爆破/漏洞检测/漏洞利用。漏洞检测含MS17010、SMBGhost、Weblogic、ActiveMQ、Tomcat、Struts2系列，密码口令爆破(Mysql、Oracle、MSSQL)、FTP、SSH(Linux)、VNC、Windows(IPC、WMI、SMB、Netbios、LDAP、SmbHash、WmiHash、Winrm),远程执行命令(wmiexe/psexec/atexec/sshexec/webshell),降权提权Runas、GetSystem，Poc/Exploit,支持Cobalt Strike 3.X-4.0 | https://github.com/k8gege/Ladon | 2099 | 536| 
+| 20201218T12:06:27Z | K8工具合集(内网渗透/提权工具/远程溢出/漏洞利用/扫描工具/密码破解/免杀工具/Exploit/APT/0day/Shellcode/Payload/priviledge/BypassUAC/OverFlow/WebShell/PenTest) Web GetShell Exploit(Struts2/Zimbra/Weblogic/Tomcat/Apache/Jboss/DotNetNuke/zabbix) | https://github.com/k8gege/K8tools | 3410 | 1619| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20201218T12:48:38Z | Testing tools for analysis of the Sunburst backdoor | https://github.com/Pir00t/sunburst_kit | 0 | 0| 
+| 20201218T07:54:48Z | Null | https://github.com/archandanime/SSH-persistent-backdoor | 0 | 0| 
+| 20201218T07:49:29Z | Null | https://github.com/rabbitx1337/backdoor | 0 | 0| 
+| 20201218T07:23:36Z | Learning how to create a reverse shell/botnet | https://github.com/ben-ju/backdoor | 1 | 0| 
+| 20201218T05:49:10Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 133 | 19| 
 | 20201218T02:16:33Z | A backdoor exploit | https://github.com/PaulDParadis/BachDoor | 0 | 0| 
 | 20201218T01:57:04Z | Backdoor watermark for neural language models | https://github.com/TIANHAO-WANG/nlm-watermark | 2 | 0| 
 | 20201218T01:50:02Z | Tool to find potential backdoor/security holes in your endpoint | https://github.com/subasgit/backdoorfinder | 1 | 0| 
-| 20201217T23:49:47Z | Testing tools for analysis of the Sunburst backdoor | https://github.com/Pir00t/sunburst_kit | 0 | 0| 
-| 20201217T20:12:39Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 133 | 19| 
 | 20201217T20:07:53Z | PCI Express DIY hacking toolkit for Xilinx SP605 | https://github.com/Cr4sh/s6_pcie_microblaze | 294 | 75| 
 | 20201217T19:04:21Z | Null | https://github.com/mikkelskov1/backdoor2 | 0 | 0| 
-| 20201217T16:04:49Z | Null | https://github.com/mpandya18/Image_Permutator_For_Backdoor_Generation | 0 | 0| 
-| 20201217T15:08:48Z | Learning how to create a reverse shell/botnet | https://github.com/ben-ju/backdoor | 0 | 0| 
-| 20201217T12:51:50Z | Patch PE, ELF, Mach-O binaries with shellcode new version in development, available only to sponsors | https://github.com/secretsquirrel/the-backdoor-factory | 2648 | 725| 
 
 
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20201218T02:45:01Z | Fuzzy String Matching in Python | https://github.com/seatgeek/fuzzywuzzy | 7686 | 805| 
-| 20201218T02:28:33Z | implementation of fuzzy-search and mongoose-fuzzy-search | https://github.com/aleem-ahmed/fuzzy-search-examples | 0 | 0| 
-| 20201218T02:23:32Z | Security oriented software fuzzer. Supports evolutionary, feedback-driven fuzzing based on code coverage (SW and HW based) | https://github.com/google/honggfuzz | 2080 | 429| 
-| 20201218T02:12:12Z | Fuzzy matching publications for fatcat (wip). | https://github.com/miku/fuzzycat | 0 | 1| 
-| 20201218T02:10:48Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 1185 | 249| 
-| 20201218T02:07:58Z | Binary, coverage-guided fuzzer for Windows and macOS | https://github.com/googleprojectzero/Jackalope | 337 | 31| 
-| 20201218T02:01:46Z | Null | https://github.com/Fuzzwah/simhub-dash-fuzzwah-v2 | 1 | 1| 
-| 20201218T01:18:48Z | Null | https://github.com/Smoothini/fuzzy-winner | 0 | 0| 
-| 20201218T00:39:54Z | Null | https://github.com/qian-feng/RG-fuzzing | 0 | 0| 
-| 20201218T00:29:16Z | OSS-Fuzz - continuous fuzzing of open source software. | https://github.com/google/oss-fuzz | 5736 | 1141| 
+| 20201218T12:56:20Z | Null | https://github.com/Dmenk123/fuzzy_ahp | 0 | 0| 
+| 20201218T12:40:53Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 1189 | 249| 
+| 20201218T12:40:09Z | Ethereum smart contract fuzzer | https://github.com/crytic/echidna | 517 | 86| 
+| 20201218T12:18:46Z | 渗透测试路径字典，爆破字典。内容来自互联网和实战积累。 | https://github.com/cpkkcb/fuzzDicts | 47 | 27| 
+| 20201218T12:17:10Z | Enhance AFL by introducing a novel metric in AddressSanitizer which identifies testcases that come close to exposing vulnerabilities | https://github.com/malathy-nagalakshmi/HDR-Fuzz | 0 | 0| 
+| 20201218T12:03:12Z | Null | https://github.com/moisesmiiranda/ProjetoFuzzy | 0 | 0| 
+| 20201218T12:03:06Z | Packer Fuzzer is a fast and efficient scanner for security detection of websites constructed by javascript module bundler such as Webpack.  | https://github.com/rtcatc/Packer-Fuzzer | 596 | 64| 
+| 20201218T11:53:15Z | HTTP fuzzer engine security oriented | https://github.com/NozakiLabs/nozaki | 22 | 6| 
+| 20201218T11:50:31Z | An algorithm to detect the traffic flow on roads based on three parameters .No. of lanes  Quality of Road   Visibility   | https://github.com/thushariii/fuzzylogictrafficpredictor | 0 | 0| 
+| 20201218T11:46:44Z | A modified version of Syzkaller to specifically fuzz FUSE on Linux | https://github.com/scannells/fuse-syzkaller | 0 | 0| 
 
 
 
