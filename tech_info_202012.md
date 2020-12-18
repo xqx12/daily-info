@@ -46,25 +46,25 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20201217T13:38:58Z | CVE-2020-14882 | Vulmap - Web漏洞扫描和验证工具，可对Web容器、Web服务器、Web中间件以及CMS等Web程序进行漏洞扫描，并且具备漏洞利用功能。 相关测试人员可以使用vulmap检测目标是否存在特定漏洞，并且可以使用漏洞利用功能验证漏洞是否真实存在。CVE-2020-14882, CVE-2020-2555, CVE-2020-2883, S2-061, CVE-2020-13942, CVE-2020-17530 | https://github.com/zhzyker/vulmap | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
-| 20201217T12:33:47Z | CVE-2020-28647 | MOVEit Transfer 2020 web application Stored Cross-Site Scripting (XSS) | https://github.com/SECFORCE/Progress-MOVEit-Transfer-2020.1-Stored-XSS-CVE-2020-28647 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 00 MINUTES 19 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20201217T10:53:06Z | CVE-2020-17530 | Collect S2-061 payloads | https://github.com/wuzuowei/CVE-2020-17530 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 00 MINUTES 06 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20201217T06:14:30Z | CVE-2020-27955 | POC for CVE-2020-27955 | https://github.com/shubham0d/CVE-2020-27955 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 00 MINUTES 18 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20201217T03:20:20Z | CVE-2020-8644 | Null | https://github.com/FancyDoesSecurity/CVE-2020-8644 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 00 MINUTES 17 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20201217T00:56:31Z | CVE-2020-17530 | S2-061 CVE-2020-17530 | https://github.com/Al1ex/CVE-2020-17530 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 00 MINUTES 09 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201218T00:57:53Z | CVE-2020-17530 | Collect S2-061 payloads | https://github.com/wuzuowei/CVE-2020-17530 | | 
+| 20201218T00:57:08Z | CVE-2020-17530 | S2-061 CVE-2020-17530 | https://github.com/Al1ex/CVE-2020-17530 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 58 MINUTES 06 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201217T20:03:45Z | CVE-2020-8644 | Null | https://github.com/FancyDoesSecurity/CVE-2020-8644 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 58 MINUTES 13 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201217T16:13:50Z | CVE-2020-14882 | Vulmap - Web漏洞扫描和验证工具，可对Web容器、Web服务器、Web中间件以及CMS等Web程序进行漏洞扫描，并且具备漏洞利用功能。 相关测试人员可以使用vulmap检测目标是否存在特定漏洞，并且可以使用漏洞利用功能验证漏洞是否真实存在。CVE-2020-14882, CVE-2020-2555, CVE-2020-2883, S2-061, CVE-2020-13942, CVE-2020-17530 | https://github.com/zhzyker/vulmap | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
+| 20201217T15:03:01Z | CVE-2020-35488 | Null | https://github.com/GuillaumePetit84/CVE-2020-35488 | 未查询到CVE信息| 
+| 20201217T12:33:47Z | CVE-2020-28647 | MOVEit Transfer 2020 web application Stored Cross-Site Scripting (XSS) | https://github.com/SECFORCE/Progress-MOVEit-Transfer-2020.1-Stored-XSS-CVE-2020-28647 | | 
+| 20201217T06:14:30Z | CVE-2020-27955 | POC for CVE-2020-27955 | https://github.com/shubham0d/CVE-2020-27955 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 58 MINUTES 14 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20201216T20:56:39Z | CVE-2020-8554 | CVE-2020-8554: Man in the middle using LoadBalancer or ExternalIPs | https://github.com/rancher/externalip-webhook | 未查询到CVE信息| 
-| 20201216T19:20:26Z | CVE-2020-17530 | CVE-2020-17530-strust2-061 | https://github.com/fengziHK/CVE-2020-17530-strust2-061 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 00 MINUTES 12 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201216T19:20:26Z | CVE-2020-17530 | CVE-2020-17530-strust2-061 | https://github.com/fengziHK/CVE-2020-17530-strust2-061 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 58 MINUTES 09 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20201216T12:02:35Z | CVE-2020-3452 | Null | https://github.com/cygenta/CVE-2020-3452 | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
-| 20201216T07:17:55Z | cve-2020-0022 | cve-2020-0022相关的一些东西 | https://github.com/5k1l/cve-2020-0022 | 未查询到CVE信息| 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20201217T14:29:47Z | RVT is a collection of tools/libraries to support both static and dynamic verification of Rust programs. | https://github.com/project-oak/rust-verification-tools | 99 | 5| 
 | 20201217T06:14:34Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1577 | 475| 
 | 20201217T01:49:28Z | Urban Evidence Based Policy | https://github.com/KLeeDE/PUS2020_KLee | 0 | 1| 
 | 20201216T19:01:50Z | Null | https://github.com/thierry-tct/KLEE-SEMu | 1 | 0| 
-| 20201216T17:48:32Z | RVT is a collection of tools/libraries to support both static and dynamic verification of Rust programs. | https://github.com/project-oak/rust-verification-tools | 99 | 5| 
 | 20201216T10:48:41Z | Symbiotic is a tool for finding bugs in computer programs based on instrumentation, program slicing and KLEE | https://github.com/staticafi/symbiotic | 209 | 33| 
 | 20201215T23:33:22Z | Null | https://github.com/fontworks-fonts/Klee | 0 | 0| 
 | 20201215T14:38:01Z | Null | https://github.com/viktorfrom/klee_tutorial | 0 | 0| 
@@ -88,46 +88,46 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20201217T13:55:10Z | Null | https://github.com/Strinux99/Binary-Exploitation | 0 | 0| 
-| 20201217T13:49:07Z | Kumpulan Webshell dan Exploiter | https://github.com/linuxsec/infosec | 6 | 12| 
-| 20201217T13:48:48Z | WhatsApp related discoveries/exploits/utilities | https://github.com/lordfme/whatsapp | 0 | 1| 
-| 20201217T13:30:36Z | Computer Network Exploitation (CNE) Field Manual | https://github.com/mzet-/z-field-manual | 0 | 1| 
-| 20201217T13:19:05Z | Bukkit/BungeeCord plugin that aims on fixing Exploits in your Minecraft network. [Requires HamsterAPI to work] | https://github.com/2LStudios-MC/ExploitFixer | 55 | 16| 
-| 20201217T13:11:44Z | A collection of more than 140+ tools, scripts, cheatsheets and other loots that I have developed over years for Red Teaming/Pentesting/IT Security audits purposes. Most of them came handy on at least one of my real-world engagements. | https://github.com/mgeeky/Penetration-Testing-Tools | 528 | 141| 
-| 20201217T13:08:23Z | gives item in prison life all exploits supported, easy | https://github.com/LeviSip/Give-items-Prison-life | 0 | 0| 
-| 20201217T13:06:37Z | Experiments of binary exploit and hardware security | https://github.com/chuang76/Security-101 | 2 | 0| 
-| 20201217T12:29:34Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 8776 | 1387| 
-| 20201217T12:25:40Z | Null | https://github.com/ColdFusionX/ColdFusionX.github.io | 2 | 2| 
+| 20201218T00:55:42Z | Source code for Peet Oracle exploiting the power of cross-chain assets management. | https://github.com/PeetFinanceDefi/oracle-bridge | 0 | 0| 
+| 20201218T00:50:52Z | A backdoor exploit | https://github.com/PaulDParadis/BachDoor | 0 | 0| 
+| 20201218T00:49:24Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 6 | 3| 
+| 20201218T00:36:16Z | Mass 0Day Shell Upload - wp-file-manager 6.7 | https://github.com/0xtn/wp-mini-exploiter | 10 | 2| 
+| 20201218T00:27:46Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 8780 | 1388| 
+| 20201218T00:12:52Z | the ultimate exploit finder | https://github.com/ARPSyndicate/xlocate | 1 | 1| 
+| 20201217T23:52:50Z | This repo is designed to demonstrate how to exploit Omaze%s entry system | https://github.com/Naesen8585/omazing | 0 | 0| 
+| 20201217T23:34:20Z | Null | https://github.com/sheenieboy/ExploiterChat | 1 | 0| 
+| 20201217T23:23:42Z | A Rust-based worm that totally doesn%t follow the exploitation vectors NotPetya does... | https://github.com/Worldotank1287/sneaky_thing | 0 | 0| 
+| 20201217T23:18:22Z | A phased, evasive Path Traversal + LFI scanning & exploitation tool in Python | https://github.com/VainlyStrain/Vailyn | 67 | 2| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20201218T00:50:52Z | A backdoor exploit | https://github.com/PaulDParadis/BachDoor | 0 | 0| 
+| 20201217T23:49:47Z | Testing tools for analysis of the Sunburst backdoor | https://github.com/Pir00t/sunburst_kit | 0 | 0| 
+| 20201217T20:12:39Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 133 | 19| 
+| 20201217T20:07:53Z | PCI Express DIY hacking toolkit for Xilinx SP605 | https://github.com/Cr4sh/s6_pcie_microblaze | 294 | 75| 
+| 20201217T19:04:21Z | Null | https://github.com/mikkelskov1/backdoor2 | 0 | 0| 
+| 20201217T16:04:49Z | Null | https://github.com/mpandya18/Image_Permutator_For_Backdoor_Generation | 0 | 0| 
+| 20201217T15:08:48Z | Learning how to create a reverse shell/botnet | https://github.com/ben-ju/backdoor | 0 | 0| 
 | 20201217T12:51:50Z | Patch PE, ELF, Mach-O binaries with shellcode new version in development, available only to sponsors | https://github.com/secretsquirrel/the-backdoor-factory | 2648 | 725| 
-| 20201217T12:34:15Z | Learning how to create a reverse shell/botnet | https://github.com/ben-ju/backdoor | 0 | 0| 
-| 20201217T11:15:20Z | Null | https://github.com/mpandya18/Image_Permutator_For_Backdoor_Generation | 0 | 0| 
 | 20201217T09:23:14Z | Impero Launcher / Anti-Cheat Strings Exposed with njRat backdoor injected in it. | https://github.com/Androigenius/Impero-Anti-Cheat-Strings-Exposed | 0 | 0| 
 | 20201217T09:23:04Z | C++ Backdoor/Spyware for Windows (ONLY FOR EDUCATIONAL PURPOSES) | https://github.com/ferdinandlb/WindowsBackdoor | 6 | 2| 
-| 20201217T08:34:44Z | Null | https://github.com/rtykholiz/backdoors | 0 | 0| 
-| 20201217T07:56:30Z | Null | https://github.com/rabbitx1337/backdoor | 0 | 0| 
-| 20201217T07:20:53Z | just decodes the strings found in the solarwinds backdoor that fireeye indicated to be used in their compromise 2020 | https://github.com/jamesrep/solardecompress | 0 | 0| 
-| 20201217T06:38:27Z | exploit tools uploaded shell backdoor to website and scaning | https://github.com/pashayogi/Exploit | 1 | 0| 
-| 20201217T04:14:24Z | Go Inside is a TCP connection based backdoor for executing remote and custom commands, written in the programming language Go (Yes, pun was DEFINITELY intended). | https://github.com/stashito/go-inside | 0 | 0| 
 
 
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20201217T13:40:05Z | C++14 automated code test infrastructure with permutation, fuzzing, sanitising and edge coverage | https://github.com/ned14/kerneltest | 11 | 2| 
-| 20201217T13:14:22Z | Null | https://github.com/chunshui7347/fuzzy_quality_railway | 0 | 0| 
-| 20201217T13:13:50Z | 🔭 Lightweight URL fuzzer and spider: Discover a web server%s undisclosed files, directories and VHOSTs | https://github.com/liamg/scout | 215 | 21| 
-| 20201217T13:05:01Z | Angora fuzzer with a dictionary | https://github.com/chowisely/angora-dict | 0 | 0| 
-| 20201217T11:52:30Z | Gskssisuisjjssi | https://github.com/soudabehmasoudi1996/fuzzy-sniffle | 0 | 0| 
-| 20201217T10:31:49Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 1179 | 248| 
-| 20201217T10:17:26Z | this fuzzer detect DOM based XSS in chrome extension  | https://github.com/kurotojp/fuzzer | 0 | 0| 
-| 20201217T10:15:59Z | This program analyses and tests compiled binaries to determine if a possible vulnerability exists. | https://github.com/Multifactored/6447-Binary-Fuzzer | 2 | 0| 
-| 20201217T09:21:58Z | Null | https://github.com/Fuzzwah/simhub-dash-fuzzwah-v2 | 1 | 1| 
-| 20201217T08:55:27Z | Late 60s boutique NPN Fuzz Face | https://github.com/rockola/sesenta-y-nueve | 0 | 0| 
+| 20201218T00:50:23Z | Binary, coverage-guided fuzzer for Windows and macOS | https://github.com/googleprojectzero/Jackalope | 331 | 31| 
+| 20201218T00:40:40Z | Null | https://github.com/Smoothini/fuzzy-winner | 0 | 0| 
+| 20201218T00:39:54Z | Null | https://github.com/qian-feng/RG-fuzzing | 0 | 0| 
+| 20201218T00:29:16Z | OSS-Fuzz - continuous fuzzing of open source software. | https://github.com/google/oss-fuzz | 5736 | 1141| 
+| 20201218T00:21:02Z | Simple thermostat controller using fuzzy logic, implemented using scikit-fuzzy library | https://github.com/AWFlister/fuzzy-thermostat-controller | 0 | 0| 
+| 20201218T00:00:34Z | Null | https://github.com/opimentel-github/fuzzy-torch | 0 | 0| 
+| 20201217T23:50:25Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 1184 | 248| 
+| 20201217T23:33:20Z | implementation of fuzzy-search and mongoose-fuzzy-search | https://github.com/aleem-ahmed/fuzzy-search-examples | 0 | 0| 
+| 20201217T22:56:17Z | 📜   A fuzzy search component written in React | https://github.com/ritz078/react-fuzzy-search | 55 | 22| 
+| 20201217T22:48:25Z | Fuzzing input for linearizability in distributed systems. | https://github.com/VeenaArv/fuzz-linearizability | 0 | 0| 
 
 
 
