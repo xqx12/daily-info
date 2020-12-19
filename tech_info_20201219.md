@@ -63,6 +63,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20201219T13:02:21Z | Null | https://github.com/opimentel-github/fuzzy-torch | 0 | 0| 
 | 20201219T12:47:17Z | Null | https://github.com/mrkaurelius/fuzzykafe | 0 | 0| 
 | 20201219T12:42:14Z | Null | https://github.com/Jenanaputra/Fuzzy-Logic-Controler-Plus-Integrator-For-Controlling-Attitude-Quadcopter | 0 | 0| 
 | 20201219T12:31:39Z | A tale into the system security, fuzzing and vulnerability research | https://github.com/Microsvuln/Microsvuln.github.io | 0 | 0| 
@@ -72,7 +73,6 @@
 | 20201219T09:26:39Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 1189 | 249| 
 | 20201219T09:22:31Z | My codes for ECE 624 - Fuzzy Sets in Human-Centric Systems, University of Alberta. | https://github.com/Leo-LiHao/fuzzyset | 0 | 0| 
 | 20201219T08:31:43Z | Null | https://github.com/lacygoill/vim-fuzzy | 0 | 0| 
-| 20201219T08:29:48Z | Experimental OS | https://github.com/scopeInfinity/FuzzyOS | 0 | 0| 
 
 
 
