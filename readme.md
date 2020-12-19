@@ -35,16 +35,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20201219T14:30:35Z | Extensible framework for analyzing publicly available information about vulnerabilities | https://github.com/leonov-av/vulristics | 18 | 1| 
+| 20201219T14:19:04Z | Silice is an open source language that simplifies writing algorithms fully exploiting FPGA architectures. | https://github.com/sylefeb/Silice | 376 | 29| 
 | 20201219T13:48:29Z | k8gege.org - K8哥哥%s Blog | https://github.com/k8gege/k8gege.github.io | 11 | 6| 
 | 20201219T13:41:47Z | The official Exploit Database repository | https://github.com/offensive-security/exploitdb | 5751 | 1647| 
 | 20201219T13:39:53Z | BruteProxy.py framework for bruteforcing via HTTP/HTTPS requests with looping proxies. | https://github.com/esec-exploits/bruteproxy.py | 0 | 0| 
 | 20201219T13:29:18Z | PS4 Exploit list | https://github.com/Hakkuraifu/PS4xploit | 9 | 1| 
-| 20201219T13:28:00Z | Extensible framework for analyzing publicly available information about vulnerabilities | https://github.com/leonov-av/vulristics | 18 | 1| 
 | 20201219T13:20:56Z | Null | https://github.com/yuawn/kernel-exploitation | 2 | 0| 
 | 20201219T13:19:00Z | DigiOn is a digital marketing company in Bangalore with combined expertise of quite forty years. we have a tendency to ar an internet site style company in the metropolis. we have a tendency to develop a multi-channel strategy to attain your digital goals by exploiting your existing in-house team. we offer glorious services furthermore at terribly competitive costs.     DigiOn has been awarded as one of the simplest digital promoting firms in the metropolis, India. therefore be assured. you%re at the proper place. we will assist you at each stage. From web site planning to complete Management. Lead info to promoting Automation additionally to Analytics.     DigiOn will assist you to get the foremost out of your investments in digital promoting. Our on-line promoting services do not solely provide you with a grip over the slower standard promoting activities. it%ll additionally assist you to track, measure, and analyze efforts created.   OUR EXPERTISE INCLUDES Web Design / Website Designing SEO Services Search Engine Marketing (SEM & PPC) Native & Display Adverting Brand Management Social Media Marketing High-Quality Leads Generation Web & Customer Analytics Landing Page Designing Mobile App Installation CRM Setup & Customer Engagement | https://github.com/himanshudoke/Digital-Marketing-Company-in-Banglore-India | 0 | 0| 
 | 20201219T12:32:09Z | This project is designed to express how to use Android MVVM architecture while exploiting the right practices. | https://github.com/mbobiosio/KotlinMVVMRetrofitRoom | 0 | 0| 
 | 20201219T12:14:48Z | exploits for freaker framework | https://github.com/ARPSyndicate/freakerdb | 1 | 0| 
-| 20201219T12:13:38Z | automated vulnerability testing & exploitation framework for kenzer | https://github.com/ARPSyndicate/freaker | 4 | 0| 
 
 
 # backdoor on Github 推荐
@@ -63,6 +63,8 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20201219T14:26:31Z | Fuzzy matching algorithm based on Sublime Text%s string search. | https://github.com/Schlechtwetterfront/fuzzy-rs | 32 | 2| 
+| 20201219T14:13:13Z | Null | https://github.com/NicEscobar/Proj_FuzzyPD | 0 | 0| 
 | 20201219T13:25:35Z | Null | https://github.com/Peppinezzz/fuzzy-memory | 0 | 0| 
 | 20201219T13:19:37Z | Fuzz data for the klauspost/compress package | https://github.com/klauspost/compress-fuzz | 2 | 1| 
 | 20201219T13:02:21Z | Null | https://github.com/opimentel-github/fuzzy-torch | 0 | 0| 
@@ -71,8 +73,6 @@
 | 20201219T12:31:39Z | A tale into the system security, fuzzing and vulnerability research | https://github.com/Microsvuln/Microsvuln.github.io | 0 | 0| 
 | 20201219T10:44:36Z | Task 02 - Talent Factory Batch 1 | https://github.com/hpazk/fuzzy-match-string | 0 | 0| 
 | 20201219T10:18:04Z | Null | https://github.com/RaZ52/FuzzySystem | 0 | 0| 
-| 20201219T09:48:08Z | Null | https://github.com/USECODE-DUCK/fuzzy-adventure | 0 | 0| 
-| 20201219T09:26:39Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 1189 | 249| 
 
 
 
