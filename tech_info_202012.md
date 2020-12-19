@@ -31,6 +31,7 @@
 # 安全维基 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20201219 | MSSQL绕过微软杀毒提权案例 | https://mp.weixin.qq.com/s/GceeUFbwsaHUwKQpY6VFkw| 
 | 20201218 | domainNamePredictor: 公司域名使用规律预测及生成工具 | https://github.com/LandGrey/domainNamePredictor| 
 | 20201218 | 记一次攻防演习渗透过程 | https://gh0st.cn//archives/2020-11-22/1| 
 | 20201218 | 攻击推理：基于攻击溯源图的威胁评估技术 | http://blog.nsfocus.net/threat-assessment-1209/| 
@@ -40,30 +41,29 @@
 | 20201218 | 越权扫描器碎碎念 | https://mp.weixin.qq.com/s/yMpAiue7OT1I8E3C5Dkngw| 
 | 20201218 | 我的应用安全方法论：路在脚下 | https://mp.weixin.qq.com/s/atfMoXjxccUfrZbFsULiRg| 
 | 20201218 | GetShell的姿势总结 | https://www.sec-in.com/article/743| 
-| 20201217 | 吐槽国内对SolarWinds事件的分析 | https://mp.weixin.qq.com/s/ytm62hJ59XIDi-QRlZTfEg| 
 
 
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20201219T02:40:53Z | CVE-2020-14882 | Vulmap - Web漏洞扫描和验证工具，可对Web容器、Web服务器、Web中间件以及CMS等Web程序进行漏洞扫描，并且具备漏洞利用功能。 相关测试人员可以使用vulmap检测目标是否存在特定漏洞，并且可以使用漏洞利用功能验证漏洞是否真实存在。CVE-2020-14882, CVE-2020-2555, CVE-2020-2883, S2-061, CVE-2020-13942, CVE-2020-17530 | https://github.com/zhzyker/vulmap | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
-| 20201218T23:17:19Z | CVE-2020-27935 | SnatchBox (CVE-2020-27935) is a sandbox escape vulnerability and exploit affecting macOS up to version 10.15.x | https://github.com/LIJI32/SnatchBox | 未查询到CVE信息| 
-| 20201218T23:06:04Z | CVE-2020-17530 | Collect S2-061 payloads | https://github.com/wuzuowei/CVE-2020-17530 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  20 HOURS 34 MINUTES 57 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20201218T07:05:31Z | cve-2020-17530 | (cve-2020-17530) struts2_s2-061 freemarker_RCE testscript | https://github.com/ludy-dev/freemarker_RCE_struts2_s2-061 | 未查询到CVE信息| 
+| 20201219T08:35:38Z | CVE-2020-14882 | Vulmap - Web漏洞扫描和验证工具，可对Web容器、Web服务器、Web中间件以及CMS等Web程序进行漏洞扫描，并且具备漏洞利用功能。 相关测试人员可以使用vulmap检测目标是否存在特定漏洞，并且可以使用漏洞利用功能验证漏洞是否真实存在。CVE-2020-14882, CVE-2020-2555, CVE-2020-2883, S2-061, CVE-2020-13942, CVE-2020-17530 | https://github.com/zhzyker/vulmap | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
+| 20201219T07:42:33Z | CVE-2020-27935 | SnatchBox (CVE-2020-27935) is a sandbox escape vulnerability and exploit affecting macOS up to version 10.15.x | https://github.com/LIJI32/SnatchBox | 未查询到CVE信息| 
+| 20201218T23:06:04Z | CVE-2020-17530 | Collect S2-061 payloads | https://github.com/wuzuowei/CVE-2020-17530 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 58 MINUTES 11 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201218T07:05:31Z | cve-2020-17530 | (cve-2020-17530) struts2_s2-061 freemarker_RCE testscript | https://github.com/ludy-dev/freemarker_RCE_struts2_s2-061 | | 
 | 20201218T06:56:51Z | CVE-2020-2978 | CVE-2020-2978 | https://github.com/emad-almousa/CVE-2020-2978 | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
-| 20201218T04:57:16Z | CVE-2020-17530 | CVE-2020-17530-strust2-061 | https://github.com/fengziHK/CVE-2020-17530-strust2-061 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  20 HOURS 35 MINUTES 01 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20201218T04:56:30Z | CVE-2020-25213 | Null | https://github.com/forse01/CVE-2020-25213 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  20 HOURS 35 MINUTES 09 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20201218T00:57:08Z | CVE-2020-17530 | S2-061 CVE-2020-17530 | https://github.com/Al1ex/CVE-2020-17530 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  20 HOURS 34 MINUTES 58 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20201217T20:03:45Z | CVE-2020-8644 | Null | https://github.com/FancyDoesSecurity/CVE-2020-8644 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  20 HOURS 35 MINUTES 06 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201218T04:57:16Z | CVE-2020-17530 | CVE-2020-17530-strust2-061 | https://github.com/fengziHK/CVE-2020-17530-strust2-061 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 58 MINUTES 15 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201218T04:56:30Z | CVE-2020-25213 | Null | https://github.com/forse01/CVE-2020-25213 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 58 MINUTES 21 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201218T00:57:08Z | CVE-2020-17530 | S2-061 CVE-2020-17530 | https://github.com/Al1ex/CVE-2020-17530 | | 
+| 20201217T20:03:45Z | CVE-2020-8644 | Null | https://github.com/FancyDoesSecurity/CVE-2020-8644 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 58 MINUTES 19 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20201217T15:03:01Z | CVE-2020-35488 | Null | https://github.com/GuillaumePetit84/CVE-2020-35488 | 未查询到CVE信息| 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20201219T10:54:28Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1579 | 475| 
 | 20201218T22:35:00Z | RVT is a collection of tools/libraries to support both static and dynamic verification of Rust programs. | https://github.com/project-oak/rust-verification-tools | 101 | 5| 
 | 20201218T17:47:38Z | KLEE%s version of uClibc | https://github.com/klee/klee-uclibc | 32 | 33| 
-| 20201218T12:38:45Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1577 | 475| 
 | 20201218T09:11:11Z | Null | https://github.com/fontworks-fonts/Klee | 0 | 0| 
 | 20201218T09:02:23Z | Null | https://github.com/viktorfrom/klee_tutorial | 0 | 0| 
 | 20201218T08:54:05Z | Null | https://github.com/markhakansson/klee-tutorial | 0 | 0| 
@@ -88,46 +88,46 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20201219T03:19:02Z | A list of everything you need to be successful as an Ethical Hacker.  The best resources, exploits, payloads, and strategies that I%ve used to advance my skills and knowledge at a Penetration Tester. | https://github.com/Kennyslaboratory/Ultimate-Hacker-Roadmap | 2 | 0| 
-| 20201219T03:09:45Z | Null | https://github.com/yuawn/kernel-exploitation | 1 | 0| 
-| 20201219T02:52:18Z | A phased, evasive Path Traversal + LFI scanning & exploitation tool in Python | https://github.com/VainlyStrain/Vailyn | 67 | 2| 
-| 20201219T02:46:16Z | Explanation of All the Payloads Used in Pentester Academy%s JS for Pentester Course | https://github.com/tbhaxor/pt-jsfp | 3 | 1| 
-| 20201219T02:42:34Z | Vulnerabilities% Risk of Exploitation | https://github.com/thiagofigcosta/V-REx | 0 | 0| 
-| 20201219T02:30:38Z | New Updated Blitz Among Us Exploit  | https://github.com/YTFlashplayz/BltizRevived | 0 | 0| 
-| 20201219T01:56:36Z | Exploit but weeby i guess | https://github.com/Shinkuio/WeeboSploit | 0 | 0| 
-| 20201219T01:37:12Z | exploit-database-papers | https://github.com/offensive-security/exploitdb-papers | 269 | 37| 
-| 20201219T00:49:24Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 6 | 3| 
-| 20201219T00:22:40Z | Just a temporary website to post my ctf writeups and journey into binary/android exploitation/malware analysis/exploit development | https://github.com/blackbeard666/pwn_exhibit | 2 | 1| 
+| 20201219T12:57:25Z | DigiOn is a digital marketing company in Bangalore with combined expertise of quite forty years. we have a tendency to ar an internet site style company in the metropolis. we have a tendency to develop a multi-channel strategy to attain your digital goals by exploiting your existing in-house team. we offer glorious services furthermore at terribly competitive costs.     DigiOn has been awarded as one of the simplest digital promoting firms in the metropolis, India. therefore be assured. you%re at the proper place. we will assist you at each stage. From web site planning to complete Management. Lead info to promoting Automation additionally to Analytics.     DigiOn will assist you to get the foremost out of your investments in digital promoting. Our on-line promoting services do not solely provide you with a grip over the slower standard promoting activities. it%ll additionally assist you to track, measure, and analyze efforts created.   OUR EXPERTISE INCLUDES Web Design / Website Designing SEO Services Search Engine Marketing (SEM & PPC) Native & Display Adverting Brand Management Social Media Marketing High-Quality Leads Generation Web & Customer Analytics Landing Page Designing Mobile App Installation CRM Setup & Customer Engagement | https://github.com/himanshudoke/Digital-Marketing-Company-in-Banglore-India | 0 | 0| 
+| 20201219T12:56:45Z | k8gege.org - K8哥哥%s Blog | https://github.com/k8gege/k8gege.github.io | 11 | 6| 
+| 20201219T12:50:37Z | Null | https://github.com/yuawn/kernel-exploitation | 2 | 0| 
+| 20201219T12:32:09Z | This project is designed to express how to use Android MVVM architecture while exploiting the right practices. | https://github.com/mbobiosio/KotlinMVVMRetrofitRoom | 0 | 0| 
+| 20201219T12:14:48Z | exploits for freaker framework | https://github.com/ARPSyndicate/freakerdb | 1 | 0| 
+| 20201219T12:13:38Z | automated vulnerability testing & exploitation framework for kenzer | https://github.com/ARPSyndicate/freaker | 4 | 0| 
+| 20201219T11:55:24Z | The official Exploit Database repository | https://github.com/offensive-security/exploitdb | 5750 | 1647| 
+| 20201219T11:48:32Z | the ultimate exploit finder | https://github.com/ARPSyndicate/xlocate | 3 | 1| 
+| 20201219T11:45:21Z | Ghost Framework is an Android post-exploitation framework that exploits the Android Debug Bridge to remotely access an Android device. Ghost Framework gives you the power and convenience of remote Android device administration. | https://github.com/EntySec/ghost | 879 | 439| 
+| 20201219T11:35:11Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 8786 | 1389| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20201219T03:01:17Z | Defanged version of sunburst backdoor | https://github.com/etlownoise/fakesunburst | 0 | 0| 
+| 20201219T12:55:19Z | Null | https://github.com/MadsKaiser/backdoor | 0 | 0| 
+| 20201219T11:45:21Z | Ghost Framework is an Android post-exploitation framework that exploits the Android Debug Bridge to remotely access an Android device. Ghost Framework gives you the power and convenience of remote Android device administration. | https://github.com/EntySec/ghost | 879 | 439| 
+| 20201219T10:41:21Z | A backdoor payload not recognized by free antivirus vendors | https://github.com/Dromediansk/custom-backdoor-payload | 0 | 0| 
+| 20201219T08:52:24Z | Null | https://github.com/rabbitx1337/backdoor | 0 | 0| 
+| 20201219T08:29:42Z | backdoor detector for BaNets trained on the YouTube Face dataset | https://github.com/amahavishnua/MLSecurityProject | 0 | 0| 
+| 20201219T07:12:05Z | Targeted Backdoor Attacks on MalConv & PE Binary Datasets | https://github.com/BluberryPie/MalConv_Backdoor | 1 | 0| 
+| 20201219T04:11:30Z | Defanged version of sunburst backdoor | https://github.com/etlownoise/fakesunburst | 0 | 0| 
 | 20201219T02:13:27Z | Tool to find potential backdoor/security holes in your endpoint | https://github.com/subasgit/backdoorfinder | 1 | 0| 
-| 20201219T01:32:26Z | backdoor detector for BaNets trained on the YouTube Face dataset | https://github.com/amahavishnua/MLSecurityProject | 0 | 0| 
 | 20201218T22:28:30Z | Null | https://github.com/wcenatus/node-backdoor | 0 | 0| 
-| 20201218T20:19:53Z | Null | https://github.com/MadsKaiser/backdoor | 0 | 0| 
 | 20201218T16:57:29Z | Null | https://github.com/mpandya18/Image_Permutator_For_Backdoor_Generation | 0 | 0| 
-| 20201218T15:19:38Z | Null | https://github.com/mikkelskov1/backdoor2 | 0 | 0| 
-| 20201218T13:43:22Z | Backdoor for scripts | https://github.com/WUScripts/Backdoor | 0 | 0| 
-| 20201218T12:48:38Z | Testing tools for analysis of the Sunburst backdoor | https://github.com/Pir00t/sunburst_kit | 0 | 0| 
-| 20201218T07:54:48Z | Null | https://github.com/archandanime/SSH-persistent-backdoor | 0 | 0| 
 
 
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20201219T03:05:36Z | The forum application with automatic fuzzy generator of new topics | https://github.com/Luvkitri/fuzzy-forum-frontend | 0 | 0| 
-| 20201219T02:47:13Z | Assignment AI Using Mamdani | https://github.com/Jonasdedeus/FuzzyLogic | 0 | 1| 
-| 20201219T02:39:24Z | Autoduff: ML framework bug detection via blackbox fuzzing | https://github.com/epeguero/autoduff_paper | 0 | 0| 
-| 20201219T02:18:11Z | Определение цветовых характеристик полимерных материалов | https://github.com/kostyaLem/FuzzyLogic | 0 | 0| 
-| 20201219T01:08:12Z | Fuzzy matching publications for fatcat (wip). | https://github.com/miku/fuzzycat | 0 | 1| 
-| 20201219T01:06:26Z | Null | https://github.com/chunshui7347/fuzzy_quality_railway | 0 | 0| 
-| 20201219T01:01:15Z | Fuzzing input for linearizability in distributed systems. | https://github.com/VeenaArv/fuzz-linearizability | 0 | 0| 
-| 20201219T00:42:02Z | Null | https://github.com/ArtieFuzzz/ArtieFuzzz | 0 | 0| 
-| 20201219T00:40:42Z | Fuse.js binding for Svelte for fuzzy text syntax highlighting | https://github.com/metonym/svelte-fuzzy | 8 | 0| 
-| 20201219T00:24:47Z | Null | https://github.com/henryhill1999/leaflet-fuzzy | 0 | 0| 
+| 20201219T12:47:17Z | Null | https://github.com/mrkaurelius/fuzzykafe | 0 | 0| 
+| 20201219T12:42:14Z | Null | https://github.com/Jenanaputra/Fuzzy-Logic-Controler-Plus-Integrator-For-Controlling-Attitude-Quadcopter | 0 | 0| 
+| 20201219T12:31:39Z | A tale into the system security, fuzzing and vulnerability research | https://github.com/Microsvuln/Microsvuln.github.io | 0 | 0| 
+| 20201219T10:44:36Z | Task 02 - Talent Factory Batch 1 | https://github.com/hpazk/fuzzy-match-string | 0 | 0| 
+| 20201219T10:18:04Z | Null | https://github.com/RaZ52/FuzzySystem | 0 | 0| 
+| 20201219T09:48:08Z | Null | https://github.com/USECODE-DUCK/fuzzy-adventure | 0 | 0| 
+| 20201219T09:26:39Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 1189 | 249| 
+| 20201219T09:22:31Z | My codes for ECE 624 - Fuzzy Sets in Human-Centric Systems, University of Alberta. | https://github.com/Leo-LiHao/fuzzyset | 0 | 0| 
+| 20201219T08:31:43Z | Null | https://github.com/lacygoill/vim-fuzzy | 0 | 0| 
+| 20201219T08:29:48Z | Experimental OS | https://github.com/scopeInfinity/FuzzyOS | 0 | 0| 
 
 
 
