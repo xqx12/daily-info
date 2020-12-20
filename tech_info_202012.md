@@ -46,15 +46,15 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20201219T15:33:47Z | CVE-2020-17530 | S2-061 的payload，以及对应简单的PoC/Exp | https://github.com/wuzuowei/CVE-2020-17530 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 33 MINUTES 15 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201219T15:33:47Z | CVE-2020-17530 | S2-061 的payload，以及对应简单的PoC/Exp | https://github.com/wuzuowei/CVE-2020-17530 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 31 MINUTES 17 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20201219T13:43:37Z | CVE-2020-14882 | Vulmap - Web漏洞扫描和验证工具，可对Web容器、Web服务器、Web中间件以及CMS等Web程序进行漏洞扫描，并且具备漏洞利用功能。 相关测试人员可以使用vulmap检测目标是否存在特定漏洞，并且可以使用漏洞利用功能验证漏洞是否真实存在。CVE-2020-14882, CVE-2020-2555, CVE-2020-2883, S2-061, CVE-2020-13942, CVE-2020-17530 | https://github.com/zhzyker/vulmap | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
 | 20201219T07:42:33Z | CVE-2020-27935 | SnatchBox (CVE-2020-27935) is a sandbox escape vulnerability and exploit affecting macOS up to version 10.15.x | https://github.com/LIJI32/SnatchBox | 未查询到CVE信息| 
 | 20201218T07:05:31Z | cve-2020-17530 | (cve-2020-17530) struts2_s2-061 freemarker_RCE testscript | https://github.com/ludy-dev/freemarker_RCE_struts2_s2-061 | 未查询到CVE信息| 
 | 20201218T06:56:51Z | CVE-2020-2978 | CVE-2020-2978 | https://github.com/emad-almousa/CVE-2020-2978 | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
-| 20201218T04:57:16Z | CVE-2020-17530 | CVE-2020-17530-strust2-061 | https://github.com/fengziHK/CVE-2020-17530-strust2-061 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 33 MINUTES 19 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20201218T04:56:30Z | CVE-2020-25213 | Null | https://github.com/forse01/CVE-2020-25213 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 33 MINUTES 26 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201218T04:57:16Z | CVE-2020-17530 | CVE-2020-17530-strust2-061 | https://github.com/fengziHK/CVE-2020-17530-strust2-061 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 31 MINUTES 19 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201218T04:56:30Z | CVE-2020-25213 | Null | https://github.com/forse01/CVE-2020-25213 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 31 MINUTES 26 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20201218T00:57:08Z | CVE-2020-17530 | S2-061 CVE-2020-17530 | https://github.com/Al1ex/CVE-2020-17530 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  09 HOURS 25 MINUTES 40 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20201217T20:03:45Z | CVE-2020-8644 | Null | https://github.com/FancyDoesSecurity/CVE-2020-8644 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 33 MINUTES 22 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201217T20:03:45Z | CVE-2020-8644 | Null | https://github.com/FancyDoesSecurity/CVE-2020-8644 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 31 MINUTES 23 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20201217T15:03:01Z | CVE-2020-35488 | Null | https://github.com/GuillaumePetit84/CVE-2020-35488 | 未查询到CVE信息| 
 
 
@@ -88,6 +88,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20201220T01:27:37Z | New Updated Blitz Among Us Exploit  | https://github.com/YTFlashplayz/BltizRevived | 0 | 0| 
 | 20201220T01:25:20Z | Null | https://github.com/sheenieboy/ExploiterChat | 1 | 0| 
 | 20201220T01:24:29Z | Do you want to use x64dbg instead of immunity debugger? | https://github.com/David-Reguera-Garcia-Dreg/x64dbg-exploiting | 2 | 0| 
 | 20201220T01:19:32Z | iran is a pwnage 2.0 exploit tool to load unsigned images from DFU | https://github.com/Merculous/iran | 3 | 0| 
@@ -97,12 +98,12 @@
 | 20201220T00:14:53Z | Null | https://github.com/antidep/exploit | 0 | 0| 
 | 20201219T23:43:45Z | PS4 Exploit list | https://github.com/Hakkuraifu/PS4xploit | 9 | 1| 
 | 20201219T23:38:56Z | Privilege Escalation through /var/run/docker.sock exploitation | https://github.com/corneacristian/Docker-Sock-Privesc | 0 | 0| 
-| 20201219T23:06:26Z | DarkWare is a roblox exploit hub. | https://github.com/Yarik312/DarkWare | 1 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20201220T01:27:32Z | Null | https://github.com/Rivenlalala/backdooredNN | 0 | 0| 
 | 20201219T22:50:23Z | TrojanZoo is a universal pytorch platform for conducting security researches (especially for backdoor attacks/defenses) for image classification in deep leanring. | https://github.com/ain-soph/Trojan-Zoo | 6 | 0| 
 | 20201219T19:18:30Z | Null | https://github.com/MadsKaiser/backdoor | 0 | 0| 
 | 20201219T18:20:48Z | backdoortst e um auxilia do msf desenvolvido para facilita os usuarios a criar um payload | https://github.com/SenhorLoock/backdoortst | 3 | 1| 
@@ -112,7 +113,6 @@
 | 20201219T08:52:24Z | Null | https://github.com/rabbitx1337/backdoor | 0 | 0| 
 | 20201219T08:29:42Z | backdoor detector for BaNets trained on the YouTube Face dataset | https://github.com/amahavishnua/MLSecurityProject | 0 | 0| 
 | 20201219T07:12:05Z | Targeted Backdoor Attacks on MalConv & PE Binary Datasets | https://github.com/BluberryPie/MalConv_Backdoor | 1 | 0| 
-| 20201219T04:11:30Z | Defanged version of sunburst backdoor | https://github.com/etlownoise/fakesunburst | 0 | 0| 
 
 
 # fuzz on Github 推荐
