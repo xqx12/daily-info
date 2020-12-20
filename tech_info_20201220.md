@@ -34,7 +34,7 @@
 | --- | --- | --- | --- | ---| 
 | 20201220T13:17:45Z | Exploit to force to execution the self-deletion antivirus AdwCleaner   | https://github.com/4B4DB4B3/AdwFuck | 0 | 0| 
 | 20201220T12:55:58Z | WordPress Plugins Duplicator Arbitrary File Read Vulnerability | https://github.com/pwndream/wp-duplicator-exploit | 1 | 0| 
-| 20201220T12:54:10Z | Code for aaai 2021 paper %%Exploiting Learnable Joint Groups for Hand Pose Estimation%% | https://github.com/moranli-aca/LearnableGroups-Hand | 4 | 0| 
+| 20201220T12:54:10Z | Code for aaai 2021 paper %%Exploiting Learnable Joint Groups for Hand Pose Estimation%% | https://github.com/moranli-aca/LearnableGroups-Hand | 4 | 1| 
 | 20201220T12:38:56Z | nixpkgs aiming for exploiting tools, which may include non-official package or difficult to push to mainstream. | https://github.com/applePrincess/hackpkgs | 0 | 0| 
 | 20201220T12:01:32Z | Just a temporary website to post my ctf writeups and journey into binary/android exploitation/malware analysis/exploit development | https://github.com/blackbeard666/pwn_exhibit | 2 | 1| 
 | 20201220T11:43:04Z | This program increases a user%s snap score. It uses a Snapchat exploit in order to increase a users snap score. | https://github.com/Quessts/Snapify | 0 | 0| 
