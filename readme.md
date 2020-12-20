@@ -17,7 +17,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20201219T15:33:47Z | CVE-2020-17530 | S2-061 的payload，以及对应简单的PoC/Exp | https://github.com/wuzuowei/CVE-2020-17530 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 42 MINUTES 11 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201219T15:33:47Z | CVE-2020-17530 | S2-061 的payload，以及对应简单的PoC/Exp | https://github.com/wuzuowei/CVE-2020-17530 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 40 MINUTES 15 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20201219T13:43:37Z | CVE-2020-14882 | Vulmap - Web漏洞扫描和验证工具，可对Web容器、Web服务器、Web中间件以及CMS等Web程序进行漏洞扫描，并且具备漏洞利用功能。 相关测试人员可以使用vulmap检测目标是否存在特定漏洞，并且可以使用漏洞利用功能验证漏洞是否真实存在。CVE-2020-14882, CVE-2020-2555, CVE-2020-2883, S2-061, CVE-2020-13942, CVE-2020-17530 | https://github.com/zhzyker/vulmap | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
 | 20201219T07:42:33Z | CVE-2020-27935 | SnatchBox (CVE-2020-27935) is a sandbox escape vulnerability and exploit affecting macOS up to version 10.15.x | https://github.com/LIJI32/SnatchBox | 未查询到CVE信息| 
 
@@ -56,11 +56,11 @@
 | 20201219T18:20:48Z | backdoortst e um auxilia do msf desenvolvido para facilita os usuarios a criar um payload | https://github.com/SenhorLoock/backdoortst | 3 | 1| 
 | 20201219T16:00:38Z | Learning how to create a reverse shell/botnet | https://github.com/ben-ju/backdoor | 1 | 0| 
 | 20201219T13:36:45Z | A backdoor payload not recognized by free antivirus vendors | https://github.com/Dromediansk/custom-backdoor-payload | 0 | 0| 
-| 20201219T11:45:21Z | Ghost Framework is an Android post-exploitation framework that exploits the Android Debug Bridge to remotely access an Android device. Ghost Framework gives you the power and convenience of remote Android device administration. | https://github.com/EntySec/ghost | 879 | 440| 
 | 20201219T08:52:24Z | Null | https://github.com/rabbitx1337/backdoor | 0 | 0| 
 | 20201219T08:29:42Z | backdoor detector for BaNets trained on the YouTube Face dataset | https://github.com/amahavishnua/MLSecurityProject | 0 | 0| 
 | 20201219T07:12:05Z | Targeted Backdoor Attacks on MalConv & PE Binary Datasets | https://github.com/BluberryPie/MalConv_Backdoor | 1 | 0| 
 | 20201219T04:11:30Z | Defanged version of sunburst backdoor | https://github.com/etlownoise/fakesunburst | 0 | 0| 
+| 20201219T02:13:27Z | Tool to find potential backdoor/security holes in your endpoint | https://github.com/subasgit/backdoorfinder | 1 | 0| 
 
 
 # fuzz on Github 推荐
