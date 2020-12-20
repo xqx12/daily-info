@@ -47,7 +47,13 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20201220T02:19:45Z | Ghost Framework is an Android post-exploitation framework that exploits the Android Debug Bridge to remotely access an Android device. Ghost Framework gives you the power and convenience of remote Android device administration. | https://github.com/EntySec/ghost | 880 | 440| 
+| 20201220T11:46:06Z | Null | https://github.com/1MiKHalyCH1/backdoored_cipher | 0 | 0| 
+| 20201220T11:25:57Z | Null | https://github.com/mikkelskov1/backdoor2 | 0 | 0| 
+| 20201220T09:12:54Z | TrojanZoo is a universal pytorch platform for conducting security researches (especially for backdoor attacks/defenses) for image classification in deep leanring. | https://github.com/ain-soph/Trojan-Zoo | 7 | 0| 
+| 20201220T06:23:43Z | Ghost Framework is an Android post-exploitation framework that exploits the Android Debug Bridge to remotely access an Android device. Ghost Framework gives you the power and convenience of remote Android device administration. | https://github.com/EntySec/ghost | 881 | 441| 
+| 20201220T05:32:06Z | Defensive Tools For The Blind (DTFTB) is a collection of Windows and Linux tools that automate: post exploitation, backdoor, and rouge access discovery, for defenders. | https://github.com/wrayjustin/dtftb | 0 | 0| 
+| 20201220T04:32:20Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 133 | 19| 
+| 20201220T04:19:27Z | Fud Persistent Windows Backdoor developed purely in python | https://github.com/swagkarna/Chuvi-Botnet | 0 | 0| 
 | 20201220T01:34:59Z | Null | https://github.com/Rivenlalala/backdooredNN | 0 | 0| 
 
 
