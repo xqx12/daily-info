@@ -60,12 +60,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20201220T02:44:19Z | Fuzzaldrin plus - fast using native C++ bindings | https://github.com/atom-ide-community/fuzzaldrin-plus-fast | 2 | 3| 
-| 20201220T01:42:51Z | Null | https://github.com/opimentel-github/fuzzy-torch | 0 | 0| 
-| 20201220T01:25:14Z | Coverage-guided binary fuzzing powered by Frida Stalker | https://github.com/meme/hotwax | 133 | 20| 
-| 20201220T00:50:26Z | Bazz Fuss guitar fuzz pedal on a stomp switch | https://github.com/mstratman/stompfuzz | 3 | 0| 
-| 20201220T00:50:04Z | Bazz Fuss guitar fuzz pedal in an extremely tiny package | https://github.com/mstratman/picofuzz | 5 | 0| 
-| 20201220T00:46:38Z | The Web Fuzzer and Pentest Python Based Application | https://github.com/hendrapaiton/pentest | 0 | 0| 
+| 20201220T12:23:33Z | Null | https://github.com/AnomaRedd/WebFuzzer | 0 | 0| 
+| 20201220T12:21:33Z | Null | https://github.com/Dmenk123/fuzzy_ahp | 0 | 0| 
+| 20201220T12:13:07Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 1192 | 251| 
+| 20201220T11:59:16Z | Null | https://github.com/zeba-shaikh2207/fuzzy-tribble | 0 | 0| 
+| 20201220T10:47:40Z | OSS-Fuzz - continuous fuzzing of open source software. | https://github.com/google/oss-fuzz | 5742 | 1141| 
+| 20201220T10:45:51Z | White-box fuzzer for Java bytecode | https://github.com/vorpal-research/kex | 6 | 4| 
+| 20201220T10:35:05Z | Simple status code fuzzer with path fuzz | https://github.com/bimkos/statusCodeFuzzer | 0 | 0| 
+| 20201220T08:59:52Z | Null | https://github.com/therealv01d/PyFuzz | 0 | 0| 
+| 20201220T08:24:43Z | Fuzzaldrin plus - fast using native C++ bindings | https://github.com/atom-ide-community/fuzzaldrin-plus-fast | 2 | 3| 
+| 20201220T07:49:10Z | Air-conditioner fan speed controller using fuzzy logic | https://github.com/mdmamunhasan/fuzzy-logic-ac-controller | 0 | 0| 
 
 
 
