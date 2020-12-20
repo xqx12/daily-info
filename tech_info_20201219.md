@@ -17,6 +17,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20201219T15:33:47Z | CVE-2020-17530 | S2-061 的payload，以及对应简单的PoC/Exp | https://github.com/wuzuowei/CVE-2020-17530 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 58 MINUTES 16 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20201219T13:43:37Z | CVE-2020-14882 | Vulmap - Web漏洞扫描和验证工具，可对Web容器、Web服务器、Web中间件以及CMS等Web程序进行漏洞扫描，并且具备漏洞利用功能。 相关测试人员可以使用vulmap检测目标是否存在特定漏洞，并且可以使用漏洞利用功能验证漏洞是否真实存在。CVE-2020-14882, CVE-2020-2555, CVE-2020-2883, S2-061, CVE-2020-13942, CVE-2020-17530 | https://github.com/zhzyker/vulmap | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
 | 20201219T07:42:33Z | CVE-2020-27935 | SnatchBox (CVE-2020-27935) is a sandbox escape vulnerability and exploit affecting macOS up to version 10.15.x | https://github.com/LIJI32/SnatchBox | 未查询到CVE信息| 
 
@@ -24,7 +25,7 @@
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20201219T10:54:28Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1579 | 475| 
+| 20201219T23:41:54Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1580 | 475| 
 
 
 # s2e on Github 推荐
@@ -35,16 +36,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20201219T14:30:35Z | Extensible framework for analyzing publicly available information about vulnerabilities | https://github.com/leonov-av/vulristics | 18 | 1| 
-| 20201219T14:19:04Z | Silice is an open source language that simplifies writing algorithms fully exploiting FPGA architectures. | https://github.com/sylefeb/Silice | 376 | 29| 
-| 20201219T13:48:29Z | k8gege.org - K8哥哥%s Blog | https://github.com/k8gege/k8gege.github.io | 11 | 6| 
-| 20201219T13:41:47Z | The official Exploit Database repository | https://github.com/offensive-security/exploitdb | 5751 | 1647| 
-| 20201219T13:39:53Z | BruteProxy.py framework for bruteforcing via HTTP/HTTPS requests with looping proxies. | https://github.com/esec-exploits/bruteproxy.py | 0 | 0| 
-| 20201219T13:29:18Z | PS4 Exploit list | https://github.com/Hakkuraifu/PS4xploit | 9 | 1| 
-| 20201219T13:20:56Z | Null | https://github.com/yuawn/kernel-exploitation | 2 | 0| 
-| 20201219T13:19:00Z | DigiOn is a digital marketing company in Bangalore with combined expertise of quite forty years. we have a tendency to ar an internet site style company in the metropolis. we have a tendency to develop a multi-channel strategy to attain your digital goals by exploiting your existing in-house team. we offer glorious services furthermore at terribly competitive costs.     DigiOn has been awarded as one of the simplest digital promoting firms in the metropolis, India. therefore be assured. you%re at the proper place. we will assist you at each stage. From web site planning to complete Management. Lead info to promoting Automation additionally to Analytics.     DigiOn will assist you to get the foremost out of your investments in digital promoting. Our on-line promoting services do not solely provide you with a grip over the slower standard promoting activities. it%ll additionally assist you to track, measure, and analyze efforts created.   OUR EXPERTISE INCLUDES Web Design / Website Designing SEO Services Search Engine Marketing (SEM & PPC) Native & Display Adverting Brand Management Social Media Marketing High-Quality Leads Generation Web & Customer Analytics Landing Page Designing Mobile App Installation CRM Setup & Customer Engagement | https://github.com/himanshudoke/Digital-Marketing-Company-in-Banglore-India | 0 | 0| 
-| 20201219T12:32:09Z | This project is designed to express how to use Android MVVM architecture while exploiting the right practices. | https://github.com/mbobiosio/KotlinMVVMRetrofitRoom | 0 | 0| 
-| 20201219T12:14:48Z | exploits for freaker framework | https://github.com/ARPSyndicate/freakerdb | 1 | 0| 
+| 20201219T23:45:13Z | Do you want to use x64dbg instead of immunity debugger? | https://github.com/David-Reguera-Garcia-Dreg/x64dbg-exploiting | 1 | 0| 
+| 20201219T23:43:45Z | PS4 Exploit list | https://github.com/Hakkuraifu/PS4xploit | 9 | 1| 
+| 20201219T23:38:56Z | Privilege Escalation through /var/run/docker.sock exploitation | https://github.com/corneacristian/Docker-Sock-Privesc | 0 | 0| 
+| 20201219T23:06:26Z | DarkWare is a roblox exploit hub. | https://github.com/Yarik312/DarkWare | 1 | 0| 
+| 20201219T22:51:36Z | Damn Vulnerable Exchange - Exploitable cryptocurrency exchange to test out vulnerability identification and remediation.  | https://github.com/gonzo-code/dve | 0 | 0| 
+| 20201219T22:50:46Z | Sifter is a OSINT, recon & vulnerability scanner. It incorporates a plethara of tools within different module sets that tries to cover every attack vector. Allowing you to quickly perform recon tasks and organize the results in one place. From OSINT to Recon, Exploitation, Post-Exploitation, OpSec, Threat Analysis, XSS, SQLinjection, Network Scanning, WebApp Analysis or DNS enumeration.. Sifter should be able to cover it all. | https://github.com/s1l3nt78/sifter | 318 | 92| 
+| 20201219T22:48:30Z | Hacking challenges write-ups | https://github.com/andrewbae/playground | 0 | 0| 
+| 20201219T21:24:12Z | An Exploit on the AAVE v2 Contract Vulnerability | https://github.com/Dan-Nolan/Delegatecall-Proxy-Bug | 0 | 0| 
+| 20201219T21:11:21Z | Silice is an open source language that simplifies writing algorithms fully exploiting FPGA architectures. | https://github.com/sylefeb/Silice | 376 | 29| 
+| 20201219T21:08:03Z | Servers get exploited everyday. You as an owner need to take measures to ensure no further damage! | https://github.com/Atlas-Uprising/guard-your-server | 1 | 0| 
 
 
 # backdoor on Github 推荐
@@ -63,16 +64,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20201219T14:26:31Z | Fuzzy matching algorithm based on Sublime Text%s string search. | https://github.com/Schlechtwetterfront/fuzzy-rs | 32 | 2| 
-| 20201219T14:13:13Z | Null | https://github.com/NicEscobar/Proj_FuzzyPD | 0 | 0| 
-| 20201219T13:25:35Z | Null | https://github.com/Peppinezzz/fuzzy-memory | 0 | 0| 
-| 20201219T13:19:37Z | Fuzz data for the klauspost/compress package | https://github.com/klauspost/compress-fuzz | 2 | 1| 
-| 20201219T13:02:21Z | Null | https://github.com/opimentel-github/fuzzy-torch | 0 | 0| 
-| 20201219T12:47:17Z | Null | https://github.com/mrkaurelius/fuzzykafe | 0 | 0| 
-| 20201219T12:42:14Z | Null | https://github.com/Jenanaputra/Fuzzy-Logic-Controler-Plus-Integrator-For-Controlling-Attitude-Quadcopter | 0 | 0| 
-| 20201219T12:31:39Z | A tale into the system security, fuzzing and vulnerability research | https://github.com/Microsvuln/Microsvuln.github.io | 0 | 0| 
-| 20201219T10:44:36Z | Task 02 - Talent Factory Batch 1 | https://github.com/hpazk/fuzzy-match-string | 0 | 0| 
-| 20201219T10:18:04Z | Null | https://github.com/RaZ52/FuzzySystem | 0 | 0| 
+| 20201219T23:31:21Z | OSS-Fuzz - continuous fuzzing of open source software. | https://github.com/google/oss-fuzz | 5740 | 1143| 
+| 20201219T23:28:52Z | FuzzBench - Fuzzer benchmarking as a service. | https://github.com/google/fuzzbench | 565 | 91| 
+| 20201219T23:22:15Z | Null | https://github.com/Fuzzwah/simhub-dash-fuzzwah-v2 | 1 | 1| 
+| 20201219T23:04:02Z | Null | https://github.com/antonio-morales/NoConName_Advanced_Fuzzing_Workshop | 2 | 0| 
+| 20201219T22:27:25Z | Coverage-guided binary fuzzing powered by Frida Stalker | https://github.com/meme/hotwax | 133 | 20| 
+| 20201219T21:50:02Z | A no-fuzz note taking app built with Flask | https://github.com/pedroivo000/notavel | 0 | 0| 
+| 20201219T21:17:01Z | 🔎📝(In Progress) Fuzzy Search Node API using RediSearch and Redis | https://github.com/ankeris/RediSearchFuzzy | 0 | 0| 
+| 20201219T20:10:48Z | Simple status code fuzzer with path fuzz | https://github.com/bimkos/statusCodeFuzzer | 0 | 0| 
+| 20201219T18:56:57Z | А procedural macro to be used for testing/fuzzing stateful models against a semantically equivalent but obviously correct implementation | https://github.com/jakubadamw/rutenspitz | 37 | 2| 
+| 20201219T18:25:11Z | Very Fast and Powerful Web Fuzzer | https://github.com/RedSecurity/power-ffuf | 2 | 0| 
 
 
 
