@@ -51,14 +51,16 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20201219T13:58:08Z | Null | https://github.com/MadsKaiser/backdoor | 0 | 0| 
+| 20201219T22:50:23Z | TrojanZoo is a universal pytorch platform for conducting security researches (especially for backdoor attacks/defenses) for image classification in deep leanring. | https://github.com/ain-soph/Trojan-Zoo | 6 | 0| 
+| 20201219T19:18:30Z | Null | https://github.com/MadsKaiser/backdoor | 0 | 0| 
+| 20201219T18:20:48Z | backdoortst e um auxilia do msf desenvolvido para facilita os usuarios a criar um payload | https://github.com/SenhorLoock/backdoortst | 3 | 1| 
+| 20201219T16:00:38Z | Learning how to create a reverse shell/botnet | https://github.com/ben-ju/backdoor | 1 | 0| 
 | 20201219T13:36:45Z | A backdoor payload not recognized by free antivirus vendors | https://github.com/Dromediansk/custom-backdoor-payload | 0 | 0| 
 | 20201219T11:45:21Z | Ghost Framework is an Android post-exploitation framework that exploits the Android Debug Bridge to remotely access an Android device. Ghost Framework gives you the power and convenience of remote Android device administration. | https://github.com/EntySec/ghost | 879 | 439| 
 | 20201219T08:52:24Z | Null | https://github.com/rabbitx1337/backdoor | 0 | 0| 
 | 20201219T08:29:42Z | backdoor detector for BaNets trained on the YouTube Face dataset | https://github.com/amahavishnua/MLSecurityProject | 0 | 0| 
 | 20201219T07:12:05Z | Targeted Backdoor Attacks on MalConv & PE Binary Datasets | https://github.com/BluberryPie/MalConv_Backdoor | 1 | 0| 
 | 20201219T04:11:30Z | Defanged version of sunburst backdoor | https://github.com/etlownoise/fakesunburst | 0 | 0| 
-| 20201219T02:13:27Z | Tool to find potential backdoor/security holes in your endpoint | https://github.com/subasgit/backdoorfinder | 1 | 0| 
 
 
 # fuzz on Github 推荐
