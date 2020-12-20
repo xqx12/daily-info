@@ -32,6 +32,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20201220T13:17:45Z | Exploit to force to execution the self-deletion antivirus AdwCleaner   | https://github.com/4B4DB4B3/AdwFuck | 0 | 0| 
 | 20201220T12:55:58Z | WordPress Plugins Duplicator Arbitrary File Read Vulnerability | https://github.com/pwndream/wp-duplicator-exploit | 1 | 0| 
 | 20201220T12:54:10Z | Code for aaai 2021 paper %%Exploiting Learnable Joint Groups for Hand Pose Estimation%% | https://github.com/moranli-aca/LearnableGroups-Hand | 4 | 0| 
 | 20201220T12:38:56Z | nixpkgs aiming for exploiting tools, which may include non-official package or difficult to push to mainstream. | https://github.com/applePrincess/hackpkgs | 0 | 0| 
@@ -41,7 +42,6 @@
 | 20201220T11:35:11Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 8786 | 1389| 
 | 20201220T10:35:01Z | Exploitation tool for SSRF (Server-Side Request Forgery) vulnerability | https://github.com/a0r4/goSSRF | 0 | 0| 
 | 20201220T09:39:04Z | my exploits for the pwn challenges on https://adworld.xctf.org.cn/task | https://github.com/AravGarg/adworld-wargame | 0 | 0| 
-| 20201220T09:32:03Z | Kernel exploitation lab for pwn practice and demo. | https://github.com/yuawn/kernel-exploitation | 5 | 0| 
 
 
 # backdoor on Github 推荐
