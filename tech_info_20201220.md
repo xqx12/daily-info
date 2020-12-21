@@ -45,7 +45,7 @@
 | 20201220T21:49:26Z | Exploiting CVE-2014-3153, AKA Towelroot. | https://github.com/elongl/towelroot | 0 | 0| 
 | 20201220T21:27:25Z | Silice is an open source language that simplifies writing algorithms fully exploiting FPGA architectures. | https://github.com/sylefeb/Silice | 376 | 29| 
 | 20201220T21:18:37Z | My journey to learn binary exploitation and memory corruption. | https://github.com/0xshellcode/Exploiting-Path | 0 | 0| 
-| 20201220T21:04:37Z | PS4 Exploit list | https://github.com/Hakkuraifu/PS4xploit | 9 | 1| 
+| 20201220T21:04:37Z | PS4 Exploit list | https://github.com/Hakkuraifu/PS4xploit | 9 | 2| 
 | 20201220T21:02:29Z | Fast and free old 3ds browser exploit for latest firmware. | https://github.com/zoogie/old-browserhax | 30 | 2| 
 | 20201220T20:37:08Z | Null | https://github.com/brerodrigues/exploit_drafts | 0 | 0| 
 
