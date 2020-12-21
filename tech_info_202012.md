@@ -46,7 +46,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20201221T01:00:03Z | CVE-2020-27935 | SnatchBox (CVE-2020-27935) is a sandbox escape vulnerability and exploit affecting macOS up to version 10.15.x | https://github.com/LIJI32/SnatchBox | | 
+| 20201221T01:00:03Z | CVE-2020-27935 | SnatchBox (CVE-2020-27935) is a sandbox escape vulnerability and exploit affecting macOS up to version 10.15.x | https://github.com/LIJI32/SnatchBox | 未查询到CVE信息| 
 | 20201221T00:31:52Z | CVE-2020-14882 | Vulmap - Web漏洞扫描和验证工具，可对Web容器、Web服务器、Web中间件以及CMS等Web程序进行漏洞扫描，并且具备漏洞利用功能。 相关测试人员可以使用vulmap检测目标是否存在特定漏洞，并且可以使用漏洞利用功能验证漏洞是否真实存在。CVE-2020-14882, CVE-2020-2555, CVE-2020-2883, S2-061, CVE-2020-13942, CVE-2020-17530 | https://github.com/zhzyker/vulmap | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
 | 20201220T17:29:10Z | cve-2020-27949 | Null | https://github.com/seemoo-lab/dtrace-memaccess_cve-2020-27949 | 未查询到CVE信息| 
 | 20201219T15:33:47Z | CVE-2020-17530 | S2-061 的payload，以及对应简单的PoC/Exp | https://github.com/wuzuowei/CVE-2020-17530 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 58 MINUTES 23 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
@@ -76,7 +76,7 @@
 # s2e on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20201216T09:52:44Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 77 | 22| 
+| 20201220T19:59:47Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 78 | 22| 
 | 20201213T21:27:17Z | Null | https://github.com/sameersaadi/s2e.dev | 0 | 0| 
 | 20201211T15:27:29Z | S2 EXAM | https://github.com/hussnain126/S2exam-sp18-bse-126 | 0 | 0| 
 | 20201211T15:24:26Z | Null | https://github.com/nooraftabcheema/S2exam | 0 | 0| 
@@ -103,16 +103,16 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20201221T01:01:03Z | Null | https://github.com/mikkelskov1/backdoor2 | 0 | 0| 
+| 20201220T23:17:54Z | TrojanZoo is a universal pytorch platform for conducting security researches (especially for backdoor attacks/defenses) for image classification in deep leanring. | https://github.com/ain-soph/trojanzoo | 8 | 1| 
+| 20201220T21:30:16Z | Null | https://github.com/graceyuanruihuang/backdoor_detect | 0 | 0| 
+| 20201220T20:05:28Z | This is my admin suit for gmod no backdoors free to use | https://github.com/AgentNewbie4552/Admin-suit-for-Gmod | 0 | 0| 
+| 20201220T17:58:15Z | Hides the sethc.exe backdoor by faking the original window. | https://github.com/PGgamer2/sethc-backdoor-hider | 1 | 3| 
+| 20201220T14:11:52Z | Null | https://github.com/rabbitx1337/backdoor | 0 | 0| 
 | 20201220T11:46:06Z | Null | https://github.com/1MiKHalyCH1/backdoored_cipher | 0 | 0| 
-| 20201220T11:25:57Z | Null | https://github.com/mikkelskov1/backdoor2 | 0 | 0| 
 | 20201220T09:12:54Z | TrojanZoo is a universal pytorch platform for conducting security researches (especially for backdoor attacks/defenses) for image classification in deep leanring. | https://github.com/ain-soph/Trojan-Zoo | 7 | 0| 
-| 20201220T06:23:43Z | Ghost Framework is an Android post-exploitation framework that exploits the Android Debug Bridge to remotely access an Android device. Ghost Framework gives you the power and convenience of remote Android device administration. | https://github.com/EntySec/ghost | 881 | 441| 
+| 20201220T06:23:43Z | Ghost Framework is an Android post-exploitation framework that exploits the Android Debug Bridge to remotely access an Android device. Ghost Framework gives you the power and convenience of remote Android device administration. | https://github.com/EntySec/ghost | 881 | 442| 
 | 20201220T05:32:06Z | Defensive Tools For The Blind (DTFTB) is a collection of Windows and Linux tools that automate: post exploitation, backdoor, and rouge access discovery, for defenders. | https://github.com/wrayjustin/dtftb | 0 | 0| 
-| 20201220T04:32:20Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 133 | 19| 
-| 20201220T04:19:27Z | Fud Persistent Windows Backdoor developed purely in python | https://github.com/swagkarna/Chuvi-Botnet | 0 | 0| 
-| 20201220T01:34:59Z | Null | https://github.com/Rivenlalala/backdooredNN | 0 | 0| 
-| 20201219T19:18:30Z | Null | https://github.com/MadsKaiser/backdoor | 0 | 0| 
-| 20201219T18:20:48Z | backdoortst e um auxilia do msf desenvolvido para facilita os usuarios a criar um payload | https://github.com/SenhorLoock/backdoortst | 3 | 1| 
 
 
 # fuzz on Github 推荐
