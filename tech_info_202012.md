@@ -118,7 +118,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20201221T01:22:54Z | Null | https://github.com/isabellasims/fuzzy-octo | 0 | 0| 
+| 20201221T01:27:45Z | Null | https://github.com/isabellasims/fuzzy-octo | 0 | 0| 
 | 20201221T01:09:59Z | Framework for finding similar rows in a JDBC source | https://github.com/bmiller1009/fuzzy-row-matcher | 1 | 0| 
 | 20201221T00:33:45Z | Null | https://github.com/antonio-morales/NoConName_Advanced_Fuzzing_Workshop | 2 | 1| 
 | 20201220T23:55:04Z | Using FCM algorithm to cluster points on a 2D plan | https://github.com/matinaghaei/Fuzzy-C-means-Clustering-Algorithm | 0 | 0| 
