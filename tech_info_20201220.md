@@ -40,7 +40,6 @@
 | --- | --- | --- | --- | ---| 
 | 20201220T23:56:47Z | Source code for Peet Oracle exploiting the power of cross-chain assets management. | https://github.com/PeetFinanceDefi/oracle-bridge | 0 | 0| 
 | 20201220T23:45:45Z | Exploit developers | https://github.com/NemsploitsTM/Nem-AtKn-SPloits_TM | 0 | 0| 
-| 20201220T23:45:09Z | Do you want to use x64dbg instead of immunity debugger? | https://github.com/David-Reguera-Garcia-Dreg/x64dbg-exploiting | 5 | 1| 
 | 20201220T23:20:47Z | A general purpose memory allocator that implements an isolation security strategy to mitigate memory safety issues while maintaining good performance | https://github.com/struct/isoalloc | 125 | 9| 
 | 20201220T21:49:52Z | Null | https://github.com/sheenieboy/ExploiterChat | 1 | 0| 
 | 20201220T21:49:26Z | Exploiting CVE-2014-3153, AKA Towelroot. | https://github.com/elongl/towelroot | 0 | 0| 
@@ -48,6 +47,7 @@
 | 20201220T21:18:37Z | My journey to learn binary exploitation and memory corruption. | https://github.com/0xshellcode/Exploiting-Path | 0 | 0| 
 | 20201220T21:04:37Z | PS4 Exploit list | https://github.com/Hakkuraifu/PS4xploit | 9 | 1| 
 | 20201220T21:02:29Z | Fast and free old 3ds browser exploit for latest firmware. | https://github.com/zoogie/old-browserhax | 30 | 2| 
+| 20201220T20:37:08Z | Null | https://github.com/brerodrigues/exploit_drafts | 0 | 0| 
 
 
 # backdoor on Github 推荐
