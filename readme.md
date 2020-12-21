@@ -34,7 +34,7 @@
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
 | 20201221T13:46:36Z | cve-2020-27949 | Null | https://github.com/seemoo-lab/dtrace-memaccess_cve-2020-27949 | 未查询到CVE信息| 
-| 20201221T12:48:51Z | CVE-2020-13942 | CVE-2020-13942 unauthenticated RCE POC through MVEL and OGNL injection | https://github.com/eugenebmx/CVE-2020-13942 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  09 HOURS 57 MINUTES 09 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201221T12:48:51Z | CVE-2020-13942 | CVE-2020-13942 unauthenticated RCE POC through MVEL and OGNL injection | https://github.com/eugenebmx/CVE-2020-13942 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  09 HOURS 44 MINUTES 00 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20201221T12:23:24Z | CVE-2020-14882 | Vulmap - Web漏洞扫描和验证工具，可对Web容器、Web服务器、Web中间件以及CMS等Web程序进行漏洞扫描，并且具备漏洞利用功能。 相关测试人员可以使用vulmap检测目标是否存在特定漏洞，并且可以使用漏洞利用功能验证漏洞是否真实存在。CVE-2020-14882, CVE-2020-2555, CVE-2020-2883, S2-061, CVE-2020-13942, CVE-2020-17530 | https://github.com/zhzyker/vulmap | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
 | 20201221T11:10:14Z | CVE-2020-25860 | integration examples for the CVE-2020-25860 fix | https://github.com/rauc/rauc-1.5-integration | 未查询到CVE信息| 
 | 20201221T08:56:03Z | CVE-2020-27935 | SnatchBox (CVE-2020-27935) is a sandbox escape vulnerability and exploit affecting macOS up to version 10.15.x | https://github.com/LIJI32/SnatchBox | 未查询到CVE信息| 
@@ -55,16 +55,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20201221T13:37:52Z | Windows Exploit Suggester - Next Generation | https://github.com/bitsadmin/wesng | 2080 | 331| 
+| 20201221T14:11:53Z | linux post-exploitation | https://github.com/jm33-m0/emp3r0r | 31 | 6| 
+| 20201221T14:09:00Z | Mini Wordress Exploiter using CVE2020 | https://github.com/0xtn/wp-mini-exploiter | 14 | 5| 
+| 20201221T14:03:47Z | k8gege.org - K8哥哥%s Blog | https://github.com/k8gege/k8gege.github.io | 11 | 6| 
+| 20201221T13:46:16Z | CAUTION: Malicious files used to infect web sites. | https://github.com/Am0rphous/Malware-Collection | 16 | 6| 
+| 20201221T13:41:57Z | Windows Exploit Suggester - Next Generation | https://github.com/bitsadmin/wesng | 2081 | 331| 
 | 20201221T13:21:30Z | 0 day wp smtp exploit wordpress checker | https://github.com/MisterSpyx/WP-SMTP-0DAY | 2 | 3| 
-| 20201221T13:14:24Z | linux post-exploitation | https://github.com/jm33-m0/emp3r0r | 31 | 6| 
 | 20201221T13:12:40Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 8789 | 1389| 
 | 20201221T12:56:55Z | Base64-based encryption oracle exploit for CVE-2017-9248 (Telerik UI for ASP.NET AJAX dialog handler) | https://github.com/bao7uo/dp_crypto | 91 | 33| 
 | 20201221T12:09:27Z | macos/ios exploit writeup | https://github.com/houjingyi233/macos-ios-exploit-writeup | 6 | 1| 
 | 20201221T11:42:17Z | Thi powershell script has got to run in remote windows host, even for pivoting | https://github.com/FabioDefilippo/winallenum | 0 | 1| 
-| 20201221T11:35:03Z | This bash script will help you to hack remote hosts  | https://github.com/FabioDefilippo/linuxallremote | 2 | 0| 
-| 20201221T11:29:34Z | Null | https://github.com/abhinavdwivedi440/binary-exploitation | 0 | 0| 
-| 20201221T10:48:38Z | Vulnerability Notes, PoC Exploits and Write-Ups for security issues disclosed by tintinweb | https://github.com/tintinweb/pub | 210 | 118| 
 
 
 # backdoor on Github 推荐
@@ -85,16 +85,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20201221T13:55:17Z | Null | https://github.com/PierreKB/FuzzyMeasuresAndPatternRcognition | 0 | 0| 
+| 20201221T13:48:43Z | Null | https://github.com/NicEscobar/Proj_FuzzyPD | 0 | 0| 
+| 20201221T13:37:42Z | OSS-Fuzz - continuous fuzzing of open source software. | https://github.com/google/oss-fuzz | 5744 | 1141| 
+| 20201221T13:34:06Z | Null | https://github.com/denlulung/fuzzy-tsukamoto | 0 | 0| 
+| 20201221T13:32:38Z | Collection of quality safety articles | https://github.com/tom0li/collection-document | 1311 | 418| 
+| 20201221T13:20:28Z | Addon for Godot Engine 3.x | https://github.com/fossegutten/FuzzyDisplayTools | 7 | 0| 
 | 20201221T12:46:13Z | 💹 Projeto para Fuzzy Trader desenvolvido em ReactJS | https://github.com/hugo-marcelo/fuzzy-trader-web | 0 | 0| 
 | 20201221T12:45:44Z | 💹 API para utilização do Fuzzy Trader desenvolvida em Node.js | https://github.com/hugo-marcelo/fuzzy-trader-api | 0 | 0| 
 | 20201221T12:32:19Z | Web application fuzzer | https://github.com/xmendez/wfuzz | 3375 | 846| 
 | 20201221T12:21:12Z | Null | https://github.com/SatriaAnanta/Expert-System-Fuzzy-Logic | 0 | 0| 
-| 20201221T12:05:28Z | Collection of quality safety articles | https://github.com/tom0li/collection-document | 1310 | 418| 
-| 20201221T12:05:10Z | Addon for Godot Engine 3.x | https://github.com/fossegutten/FuzzyDisplayTools | 7 | 0| 
-| 20201221T11:55:44Z | Null | https://github.com/FaiNa-000/fuzzy-1 | 0 | 0| 
-| 20201221T11:50:00Z | Null | https://github.com/IzabelaGrysztar/Fuzzy-logic | 0 | 0| 
-| 20201221T11:45:15Z | Null | https://github.com/FaiNa-O3/fuzzy | 0 | 0| 
-| 20201221T11:15:46Z | this fuzzer detect DOM based XSS in chrome extension  | https://github.com/kurotojp/fuzzer | 0 | 0| 
 
 
 
