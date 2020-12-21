@@ -103,16 +103,16 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20201221T13:00:14Z | Null | https://github.com/rabbitx1337/backdoor | 0 | 0| 
+| 20201221T09:47:34Z | Fud Persistent Windows Backdoor developed purely in python | https://github.com/swagkarna/Chuvi-Botnet | 0 | 0| 
+| 20201221T09:15:11Z | A Remote Administration Tool (RAT) | https://github.com/0xmanjoos/Pieta | 3 | 0| 
+| 20201221T09:13:07Z | Null | https://github.com/mpandya18/Image_Permutator_For_Backdoor_Generation | 0 | 0| 
+| 20201221T09:11:53Z | This is the implementation of our paper %Open-sourced Dataset Protection via Backdoor Watermarking%, accepted by the NeurIPS Workshop on Dataset Curation and Security, 2020. | https://github.com/THUYimingLi/Open-sourced_Dataset_Protection | 4 | 1| 
+| 20201221T08:53:27Z | TrojanZoo is a universal pytorch platform for conducting security researches (especially for backdoor attacks/defenses) for image classification in deep learning. | https://github.com/ain-soph/trojanzoo | 11 | 2| 
+| 20201221T08:02:59Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 133 | 19| 
+| 20201221T08:02:17Z | 🔴Backdoor Payload For Android,windows and more | https://github.com/Rdroid99/Backdoor | 0 | 0| 
+| 20201221T07:23:24Z | My personal unique wiki for hacking the router firmware used by (Telia)TG799vac Xtream v17.2-MINT delivered from Technicolor  | https://github.com/wuseman/TG799VAC-XTREME-17.2-MINT | 55 | 17| 
 | 20201221T01:38:46Z | this script is what seems to be a discord token gen that checks the tokens as it gens but you would be wrong because it is really a token logger with a python meterpreter payload inside so you can use this with metasploit to infect somones device and steal there token | https://github.com/RatMyLaptop/discord-stomper.py | 0 | 0| 
-| 20201221T01:01:03Z | Null | https://github.com/mikkelskov1/backdoor2 | 0 | 0| 
-| 20201220T23:17:54Z | TrojanZoo is a universal pytorch platform for conducting security researches (especially for backdoor attacks/defenses) for image classification in deep leanring. | https://github.com/ain-soph/trojanzoo | 8 | 1| 
-| 20201220T21:30:16Z | Null | https://github.com/graceyuanruihuang/backdoor_detect | 0 | 0| 
-| 20201220T20:05:28Z | This is my admin suit for gmod no backdoors free to use | https://github.com/AgentNewbie4552/Admin-suit-for-Gmod | 0 | 0| 
-| 20201220T17:58:15Z | Hides the sethc.exe backdoor by faking the original window. | https://github.com/PGgamer2/sethc-backdoor-hider | 1 | 3| 
-| 20201220T14:11:52Z | Null | https://github.com/rabbitx1337/backdoor | 0 | 0| 
-| 20201220T11:46:06Z | Null | https://github.com/1MiKHalyCH1/backdoored_cipher | 0 | 0| 
-| 20201220T09:12:54Z | TrojanZoo is a universal pytorch platform for conducting security researches (especially for backdoor attacks/defenses) for image classification in deep leanring. | https://github.com/ain-soph/Trojan-Zoo | 7 | 0| 
-| 20201220T06:23:43Z | Ghost Framework is an Android post-exploitation framework that exploits the Android Debug Bridge to remotely access an Android device. Ghost Framework gives you the power and convenience of remote Android device administration. | https://github.com/EntySec/ghost | 881 | 442| 
 
 
 # fuzz on Github 推荐
