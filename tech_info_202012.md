@@ -46,16 +46,16 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20201221T12:48:51Z | CVE-2020-13942 | CVE-2020-13942 unauthenticated RCE POC through MVEL and OGNL injection | https://github.com/eugenebmx/CVE-2020-13942 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 53 MINUTES 11 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201221T12:48:51Z | CVE-2020-13942 | CVE-2020-13942 unauthenticated RCE POC through MVEL and OGNL injection | https://github.com/eugenebmx/CVE-2020-13942 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 19 MINUTES 08 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20201221T12:23:24Z | CVE-2020-14882 | Vulmap - Web漏洞扫描和验证工具，可对Web容器、Web服务器、Web中间件以及CMS等Web程序进行漏洞扫描，并且具备漏洞利用功能。 相关测试人员可以使用vulmap检测目标是否存在特定漏洞，并且可以使用漏洞利用功能验证漏洞是否真实存在。CVE-2020-14882, CVE-2020-2555, CVE-2020-2883, S2-061, CVE-2020-13942, CVE-2020-17530 | https://github.com/zhzyker/vulmap | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
 | 20201221T11:21:51Z | cve-2020-27949 | Null | https://github.com/seemoo-lab/dtrace-memaccess_cve-2020-27949 | 未查询到CVE信息| 
 | 20201221T11:10:14Z | CVE-2020-25860 | integration examples for the CVE-2020-25860 fix | https://github.com/rauc/rauc-1.5-integration | 未查询到CVE信息| 
 | 20201221T08:56:03Z | CVE-2020-27935 | SnatchBox (CVE-2020-27935) is a sandbox escape vulnerability and exploit affecting macOS up to version 10.15.x | https://github.com/LIJI32/SnatchBox | 未查询到CVE信息| 
-| 20201219T15:33:47Z | CVE-2020-17530 | S2-061 的payload，以及对应简单的PoC/Exp | https://github.com/wuzuowei/CVE-2020-17530 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 53 MINUTES 13 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20201218T07:05:31Z | cve-2020-17530 | (cve-2020-17530) struts2_s2-061 freemarker_RCE testscript | https://github.com/ludy-dev/freemarker_RCE_struts2_s2-061 | 未查询到CVE信息| 
+| 20201219T15:33:47Z | CVE-2020-17530 | S2-061 的payload，以及对应简单的PoC/Exp | https://github.com/wuzuowei/CVE-2020-17530 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 19 MINUTES 10 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201218T07:05:31Z | cve-2020-17530 | (cve-2020-17530) struts2_s2-061 freemarker_RCE testscript | https://github.com/ludy-dev/freemarker_RCE_struts2_s2-061 | | 
 | 20201218T06:56:51Z | CVE-2020-2978 | CVE-2020-2978 | https://github.com/emad-almousa/CVE-2020-2978 | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
-| 20201218T04:57:16Z | CVE-2020-17530 | CVE-2020-17530-strust2-061 | https://github.com/fengziHK/CVE-2020-17530-strust2-061 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 53 MINUTES 14 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20201218T04:56:30Z | CVE-2020-25213 | Null | https://github.com/forse01/CVE-2020-25213 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 53 MINUTES 22 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201218T04:57:16Z | CVE-2020-17530 | CVE-2020-17530-strust2-061 | https://github.com/fengziHK/CVE-2020-17530-strust2-061 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 19 MINUTES 11 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201218T04:56:30Z | CVE-2020-25213 | Null | https://github.com/forse01/CVE-2020-25213 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 19 MINUTES 18 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 
 
 # klee on Github 推荐
@@ -88,16 +88,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20201221T13:37:52Z | Windows Exploit Suggester - Next Generation | https://github.com/bitsadmin/wesng | 2080 | 331| 
+| 20201221T13:21:30Z | 0 day wp smtp exploit wordpress checker | https://github.com/MisterSpyx/WP-SMTP-0DAY | 2 | 3| 
+| 20201221T13:14:24Z | linux post-exploitation | https://github.com/jm33-m0/emp3r0r | 31 | 6| 
+| 20201221T13:12:40Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 8789 | 1389| 
 | 20201221T12:56:55Z | Base64-based encryption oracle exploit for CVE-2017-9248 (Telerik UI for ASP.NET AJAX dialog handler) | https://github.com/bao7uo/dp_crypto | 91 | 33| 
 | 20201221T12:09:27Z | macos/ios exploit writeup | https://github.com/houjingyi233/macos-ios-exploit-writeup | 6 | 1| 
 | 20201221T11:42:17Z | Thi powershell script has got to run in remote windows host, even for pivoting | https://github.com/FabioDefilippo/winallenum | 0 | 1| 
-| 20201221T11:35:13Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 8788 | 1389| 
 | 20201221T11:35:03Z | This bash script will help you to hack remote hosts  | https://github.com/FabioDefilippo/linuxallremote | 2 | 0| 
 | 20201221T11:29:34Z | Null | https://github.com/abhinavdwivedi440/binary-exploitation | 0 | 0| 
 | 20201221T10:48:38Z | Vulnerability Notes, PoC Exploits and Write-Ups for security issues disclosed by tintinweb | https://github.com/tintinweb/pub | 210 | 118| 
-| 20201221T10:48:14Z | Standalone POCs/Exploits from various sources for Jok3r | https://github.com/koutto/jok3r-pocs | 20 | 13| 
-| 20201221T10:31:50Z | Shell script searching for known CVE & Exploit associated with a product name/version | https://github.com/Beijaflore-Security-LAB/cveexposer | 0 | 0| 
-| 20201221T10:18:10Z | BruteProxy.py framework for bruteforcing via HTTP/HTTPS requests with looping proxies. | https://github.com/esec-exploits/bruteproxy.py | 0 | 0| 
 
 
 # backdoor on Github 推荐
