@@ -44,10 +44,10 @@
 | 20201220T23:20:47Z | A general purpose memory allocator that implements an isolation security strategy to mitigate memory safety issues while maintaining good performance | https://github.com/struct/isoalloc | 125 | 9| 
 | 20201220T21:49:52Z | Null | https://github.com/sheenieboy/ExploiterChat | 1 | 0| 
 | 20201220T21:49:26Z | Exploiting CVE-2014-3153, AKA Towelroot. | https://github.com/elongl/towelroot | 0 | 0| 
-| 20201220T21:36:29Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 8787 | 1389| 
 | 20201220T21:27:25Z | Silice is an open source language that simplifies writing algorithms fully exploiting FPGA architectures. | https://github.com/sylefeb/Silice | 376 | 29| 
 | 20201220T21:18:37Z | My journey to learn binary exploitation and memory corruption. | https://github.com/0xshellcode/Exploiting-Path | 0 | 0| 
 | 20201220T21:04:37Z | PS4 Exploit list | https://github.com/Hakkuraifu/PS4xploit | 9 | 1| 
+| 20201220T21:02:29Z | Fast and free old 3ds browser exploit for latest firmware. | https://github.com/zoogie/old-browserhax | 30 | 2| 
 
 
 # backdoor on Github 推荐
