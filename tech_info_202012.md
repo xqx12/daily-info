@@ -46,31 +46,31 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20201219T15:33:47Z | CVE-2020-17530 | S2-061 的payload，以及对应简单的PoC/Exp | https://github.com/wuzuowei/CVE-2020-17530 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 00 MINUTES 22 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20201219T13:43:37Z | CVE-2020-14882 | Vulmap - Web漏洞扫描和验证工具，可对Web容器、Web服务器、Web中间件以及CMS等Web程序进行漏洞扫描，并且具备漏洞利用功能。 相关测试人员可以使用vulmap检测目标是否存在特定漏洞，并且可以使用漏洞利用功能验证漏洞是否真实存在。CVE-2020-14882, CVE-2020-2555, CVE-2020-2883, S2-061, CVE-2020-13942, CVE-2020-17530 | https://github.com/zhzyker/vulmap | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
-| 20201219T07:42:33Z | CVE-2020-27935 | SnatchBox (CVE-2020-27935) is a sandbox escape vulnerability and exploit affecting macOS up to version 10.15.x | https://github.com/LIJI32/SnatchBox | | 
+| 20201221T01:00:03Z | CVE-2020-27935 | SnatchBox (CVE-2020-27935) is a sandbox escape vulnerability and exploit affecting macOS up to version 10.15.x | https://github.com/LIJI32/SnatchBox | | 
+| 20201221T00:31:52Z | CVE-2020-14882 | Vulmap - Web漏洞扫描和验证工具，可对Web容器、Web服务器、Web中间件以及CMS等Web程序进行漏洞扫描，并且具备漏洞利用功能。 相关测试人员可以使用vulmap检测目标是否存在特定漏洞，并且可以使用漏洞利用功能验证漏洞是否真实存在。CVE-2020-14882, CVE-2020-2555, CVE-2020-2883, S2-061, CVE-2020-13942, CVE-2020-17530 | https://github.com/zhzyker/vulmap | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
+| 20201220T17:29:10Z | cve-2020-27949 | Null | https://github.com/seemoo-lab/dtrace-memaccess_cve-2020-27949 | 未查询到CVE信息| 
+| 20201219T15:33:47Z | CVE-2020-17530 | S2-061 的payload，以及对应简单的PoC/Exp | https://github.com/wuzuowei/CVE-2020-17530 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 58 MINUTES 23 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20201218T07:05:31Z | cve-2020-17530 | (cve-2020-17530) struts2_s2-061 freemarker_RCE testscript | https://github.com/ludy-dev/freemarker_RCE_struts2_s2-061 | 未查询到CVE信息| 
 | 20201218T06:56:51Z | CVE-2020-2978 | CVE-2020-2978 | https://github.com/emad-almousa/CVE-2020-2978 | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
-| 20201218T04:57:16Z | CVE-2020-17530 | CVE-2020-17530-strust2-061 | https://github.com/fengziHK/CVE-2020-17530-strust2-061 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 00 MINUTES 25 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20201218T04:56:30Z | CVE-2020-25213 | Null | https://github.com/forse01/CVE-2020-25213 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 00 MINUTES 32 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201218T04:57:16Z | CVE-2020-17530 | CVE-2020-17530-strust2-061 | https://github.com/fengziHK/CVE-2020-17530-strust2-061 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 58 MINUTES 27 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201218T04:56:30Z | CVE-2020-25213 | Null | https://github.com/forse01/CVE-2020-25213 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 58 MINUTES 35 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20201218T00:57:08Z | CVE-2020-17530 | S2-061 CVE-2020-17530 | https://github.com/Al1ex/CVE-2020-17530 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  09 HOURS 25 MINUTES 40 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20201217T20:03:45Z | CVE-2020-8644 | Null | https://github.com/FancyDoesSecurity/CVE-2020-8644 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 00 MINUTES 29 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20201217T15:03:01Z | CVE-2020-35488 | Null | https://github.com/GuillaumePetit84/CVE-2020-35488 | 未查询到CVE信息| 
+| 20201217T20:03:45Z | CVE-2020-8644 | Null | https://github.com/FancyDoesSecurity/CVE-2020-8644 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 58 MINUTES 32 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20201220T22:08:04Z | Website for Klee Bot | https://github.com/klee-chan/klee-chan.github.io | 0 | 0| 
+| 20201220T22:04:50Z | Null | https://github.com/vichannnnn/klee-chan.github.io | 0 | 0| 
+| 20201220T20:44:30Z | Create CFGs and compute complexity metrics for Python, C++, and Java code. | https://github.com/hmc-alpaqa/metrinome | 5 | 0| 
+| 20201220T15:43:57Z | Null | https://github.com/ZJTAN97/KleenTeamSite | 0 | 0| 
 | 20201219T23:41:54Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1580 | 476| 
 | 20201218T22:35:00Z | RVT is a collection of tools/libraries to support both static and dynamic verification of Rust programs. | https://github.com/project-oak/rust-verification-tools | 101 | 5| 
 | 20201218T17:47:38Z | KLEE%s version of uClibc | https://github.com/klee/klee-uclibc | 32 | 33| 
 | 20201218T09:11:11Z | Null | https://github.com/fontworks-fonts/Klee | 0 | 0| 
 | 20201218T09:02:23Z | Null | https://github.com/viktorfrom/klee_tutorial | 0 | 0| 
 | 20201218T08:54:05Z | Null | https://github.com/markhakansson/klee-tutorial | 0 | 0| 
-| 20201217T01:49:28Z | Urban Evidence Based Policy | https://github.com/KLeeDE/PUS2020_KLee | 0 | 1| 
-| 20201216T19:01:50Z | Null | https://github.com/thierry-tct/KLEE-SEMu | 1 | 0| 
-| 20201216T10:48:41Z | Symbiotic is a tool for finding bugs in computer programs based on instrumentation, program slicing and KLEE | https://github.com/staticafi/symbiotic | 209 | 33| 
-| 20201214T17:50:58Z | Null | https://github.com/DreamMobile0108/kleensight-videoconvert | 0 | 0| 
 
 
 # s2e on Github 推荐
@@ -88,16 +88,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20201220T13:17:45Z | Exploit to force to execution the self-deletion antivirus AdwCleaner   | https://github.com/4B4DB4B3/AdwFuck | 0 | 0| 
-| 20201220T12:55:58Z | WordPress Plugins Duplicator Arbitrary File Read Vulnerability | https://github.com/pwndream/wp-duplicator-exploit | 1 | 0| 
-| 20201220T12:54:10Z | Code for aaai 2021 paper %%Exploiting Learnable Joint Groups for Hand Pose Estimation%% | https://github.com/moranli-aca/LearnableGroups-Hand | 4 | 1| 
-| 20201220T12:38:56Z | nixpkgs aiming for exploiting tools, which may include non-official package or difficult to push to mainstream. | https://github.com/applePrincess/hackpkgs | 0 | 0| 
-| 20201220T12:01:32Z | Just a temporary website to post my ctf writeups and journey into binary/android exploitation/malware analysis/exploit development | https://github.com/blackbeard666/pwn_exhibit | 2 | 1| 
-| 20201220T11:43:04Z | This program increases a user%s snap score. It uses a Snapchat exploit in order to increase a users snap score. | https://github.com/Quessts/Snapify | 0 | 0| 
-| 20201220T11:37:35Z | PS4 Exploit list | https://github.com/Hakkuraifu/PS4xploit | 9 | 1| 
-| 20201220T11:35:11Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 8786 | 1389| 
-| 20201220T10:35:01Z | Exploitation tool for SSRF (Server-Side Request Forgery) vulnerability | https://github.com/a0r4/goSSRF | 0 | 0| 
-| 20201220T09:39:04Z | my exploits for the pwn challenges on https://adworld.xctf.org.cn/task | https://github.com/AravGarg/adworld-wargame | 0 | 0| 
+| 20201221T00:54:06Z | Easy PS4 Exploit Hosting | https://github.com/Al-Azif/ps4-exploit-host | 731 | 214| 
+| 20201220T23:56:47Z | Source code for Peet Oracle exploiting the power of cross-chain assets management. | https://github.com/PeetFinanceDefi/oracle-bridge | 0 | 0| 
+| 20201220T23:45:45Z | Exploit developers | https://github.com/NemsploitsTM/Nem-AtKn-SPloits_TM | 0 | 0| 
+| 20201220T23:45:09Z | Do you want to use x64dbg instead of immunity debugger? | https://github.com/David-Reguera-Garcia-Dreg/x64dbg-exploiting | 5 | 1| 
+| 20201220T23:20:47Z | A general purpose memory allocator that implements an isolation security strategy to mitigate memory safety issues while maintaining good performance | https://github.com/struct/isoalloc | 125 | 9| 
+| 20201220T21:49:52Z | Null | https://github.com/sheenieboy/ExploiterChat | 1 | 0| 
+| 20201220T21:49:26Z | Exploiting CVE-2014-3153, AKA Towelroot. | https://github.com/elongl/towelroot | 0 | 0| 
+| 20201220T21:36:29Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 8787 | 1389| 
+| 20201220T21:27:25Z | Silice is an open source language that simplifies writing algorithms fully exploiting FPGA architectures. | https://github.com/sylefeb/Silice | 376 | 29| 
+| 20201220T21:18:37Z | My journey to learn binary exploitation and memory corruption. | https://github.com/0xshellcode/Exploiting-Path | 0 | 0| 
 
 
 # backdoor on Github 推荐
@@ -118,16 +118,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20201220T12:23:33Z | Null | https://github.com/AnomaRedd/WebFuzzer | 0 | 0| 
-| 20201220T12:21:33Z | Null | https://github.com/Dmenk123/fuzzy_ahp | 0 | 0| 
-| 20201220T12:13:07Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 1192 | 251| 
-| 20201220T11:59:16Z | Null | https://github.com/zeba-shaikh2207/fuzzy-tribble | 0 | 0| 
-| 20201220T10:47:40Z | OSS-Fuzz - continuous fuzzing of open source software. | https://github.com/google/oss-fuzz | 5742 | 1141| 
-| 20201220T10:45:51Z | White-box fuzzer for Java bytecode | https://github.com/vorpal-research/kex | 6 | 4| 
-| 20201220T10:35:05Z | Simple status code fuzzer with path fuzz | https://github.com/bimkos/statusCodeFuzzer | 0 | 0| 
-| 20201220T08:59:52Z | Null | https://github.com/therealv01d/PyFuzz | 0 | 0| 
-| 20201220T08:24:43Z | Fuzzaldrin plus - fast using native C++ bindings | https://github.com/atom-ide-community/fuzzaldrin-plus-fast | 2 | 3| 
-| 20201220T07:49:10Z | Air-conditioner fan speed controller using fuzzy logic | https://github.com/mdmamunhasan/fuzzy-logic-ac-controller | 0 | 0| 
+| 20201221T00:33:45Z | Null | https://github.com/antonio-morales/NoConName_Advanced_Fuzzing_Workshop | 2 | 1| 
+| 20201220T23:55:04Z | Using FCM algorithm to cluster points on a 2D plan | https://github.com/matinaghaei/Fuzzy-C-means-Clustering-Algorithm | 0 | 0| 
+| 20201220T23:31:07Z | Null | https://github.com/safety-adam/go-fuzz-demo | 0 | 0| 
+| 20201220T23:27:45Z | Null | https://github.com/Thewhiteevil/Directories-to-FUZZ | 0 | 0| 
+| 20201220T23:16:48Z | Addon for Godot Engine 3.x | https://github.com/fossegutten/FuzzyDisplayTools | 7 | 0| 
+| 20201220T23:09:01Z | UAS Sistem Cerdas | https://github.com/Rzzkan/fuzzy-tsukamoto | 0 | 0| 
+| 20201220T22:29:13Z | Repository holding database dumps from getfursu.it | https://github.com/veelkoov/fuzzrake-data | 0 | 0| 
+| 20201220T22:07:57Z | Fuzzaldrin plus - fast using native C++ bindings | https://github.com/atom-ide-community/fuzzaldrin-plus-fast | 2 | 3| 
+| 20201220T22:05:24Z | A tale into the system security, fuzzing and vulnerability research | https://github.com/Microsvuln/Microsvuln.github.io | 0 | 0| 
+| 20201220T21:49:55Z | 📨 Email template generator. Making emails fun again. | https://github.com/luangjokaj/fuzzymail | 108 | 4| 
 
 
 

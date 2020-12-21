@@ -17,11 +17,16 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20201220T17:29:10Z | cve-2020-27949 | Null | https://github.com/seemoo-lab/dtrace-memaccess_cve-2020-27949 | 未查询到CVE信息| 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20201220T22:08:04Z | Website for Klee Bot | https://github.com/klee-chan/klee-chan.github.io | 0 | 0| 
+| 20201220T22:04:50Z | Null | https://github.com/vichannnnn/klee-chan.github.io | 0 | 0| 
+| 20201220T20:44:30Z | Create CFGs and compute complexity metrics for Python, C++, and Java code. | https://github.com/hmc-alpaqa/metrinome | 5 | 0| 
+| 20201220T15:43:57Z | Null | https://github.com/ZJTAN97/KleenTeamSite | 0 | 0| 
 
 
 # s2e on Github 推荐
@@ -32,16 +37,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20201220T13:17:45Z | Exploit to force to execution the self-deletion antivirus AdwCleaner   | https://github.com/4B4DB4B3/AdwFuck | 0 | 0| 
-| 20201220T12:55:58Z | WordPress Plugins Duplicator Arbitrary File Read Vulnerability | https://github.com/pwndream/wp-duplicator-exploit | 1 | 0| 
-| 20201220T12:54:10Z | Code for aaai 2021 paper %%Exploiting Learnable Joint Groups for Hand Pose Estimation%% | https://github.com/moranli-aca/LearnableGroups-Hand | 4 | 1| 
-| 20201220T12:38:56Z | nixpkgs aiming for exploiting tools, which may include non-official package or difficult to push to mainstream. | https://github.com/applePrincess/hackpkgs | 0 | 0| 
-| 20201220T12:01:32Z | Just a temporary website to post my ctf writeups and journey into binary/android exploitation/malware analysis/exploit development | https://github.com/blackbeard666/pwn_exhibit | 2 | 1| 
-| 20201220T11:43:04Z | This program increases a user%s snap score. It uses a Snapchat exploit in order to increase a users snap score. | https://github.com/Quessts/Snapify | 0 | 0| 
-| 20201220T11:37:35Z | PS4 Exploit list | https://github.com/Hakkuraifu/PS4xploit | 9 | 1| 
-| 20201220T11:35:11Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 8786 | 1389| 
-| 20201220T10:35:01Z | Exploitation tool for SSRF (Server-Side Request Forgery) vulnerability | https://github.com/a0r4/goSSRF | 0 | 0| 
-| 20201220T09:39:04Z | my exploits for the pwn challenges on https://adworld.xctf.org.cn/task | https://github.com/AravGarg/adworld-wargame | 0 | 0| 
+| 20201220T23:56:47Z | Source code for Peet Oracle exploiting the power of cross-chain assets management. | https://github.com/PeetFinanceDefi/oracle-bridge | 0 | 0| 
+| 20201220T23:45:45Z | Exploit developers | https://github.com/NemsploitsTM/Nem-AtKn-SPloits_TM | 0 | 0| 
+| 20201220T23:45:09Z | Do you want to use x64dbg instead of immunity debugger? | https://github.com/David-Reguera-Garcia-Dreg/x64dbg-exploiting | 5 | 1| 
+| 20201220T23:20:47Z | A general purpose memory allocator that implements an isolation security strategy to mitigate memory safety issues while maintaining good performance | https://github.com/struct/isoalloc | 125 | 9| 
+| 20201220T21:49:52Z | Null | https://github.com/sheenieboy/ExploiterChat | 1 | 0| 
+| 20201220T21:49:26Z | Exploiting CVE-2014-3153, AKA Towelroot. | https://github.com/elongl/towelroot | 0 | 0| 
+| 20201220T21:36:29Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 8787 | 1389| 
+| 20201220T21:27:25Z | Silice is an open source language that simplifies writing algorithms fully exploiting FPGA architectures. | https://github.com/sylefeb/Silice | 376 | 29| 
+| 20201220T21:18:37Z | My journey to learn binary exploitation and memory corruption. | https://github.com/0xshellcode/Exploiting-Path | 0 | 0| 
+| 20201220T21:04:37Z | PS4 Exploit list | https://github.com/Hakkuraifu/PS4xploit | 9 | 1| 
 
 
 # backdoor on Github 推荐
@@ -60,16 +65,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20201220T12:23:33Z | Null | https://github.com/AnomaRedd/WebFuzzer | 0 | 0| 
-| 20201220T12:21:33Z | Null | https://github.com/Dmenk123/fuzzy_ahp | 0 | 0| 
-| 20201220T12:13:07Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 1192 | 251| 
-| 20201220T11:59:16Z | Null | https://github.com/zeba-shaikh2207/fuzzy-tribble | 0 | 0| 
-| 20201220T10:47:40Z | OSS-Fuzz - continuous fuzzing of open source software. | https://github.com/google/oss-fuzz | 5742 | 1141| 
-| 20201220T10:45:51Z | White-box fuzzer for Java bytecode | https://github.com/vorpal-research/kex | 6 | 4| 
-| 20201220T10:35:05Z | Simple status code fuzzer with path fuzz | https://github.com/bimkos/statusCodeFuzzer | 0 | 0| 
-| 20201220T08:59:52Z | Null | https://github.com/therealv01d/PyFuzz | 0 | 0| 
-| 20201220T08:24:43Z | Fuzzaldrin plus - fast using native C++ bindings | https://github.com/atom-ide-community/fuzzaldrin-plus-fast | 2 | 3| 
-| 20201220T07:49:10Z | Air-conditioner fan speed controller using fuzzy logic | https://github.com/mdmamunhasan/fuzzy-logic-ac-controller | 0 | 0| 
+| 20201220T23:55:04Z | Using FCM algorithm to cluster points on a 2D plan | https://github.com/matinaghaei/Fuzzy-C-means-Clustering-Algorithm | 0 | 0| 
+| 20201220T23:31:07Z | Null | https://github.com/safety-adam/go-fuzz-demo | 0 | 0| 
+| 20201220T23:27:45Z | Null | https://github.com/Thewhiteevil/Directories-to-FUZZ | 0 | 0| 
+| 20201220T23:16:48Z | Addon for Godot Engine 3.x | https://github.com/fossegutten/FuzzyDisplayTools | 7 | 0| 
+| 20201220T23:09:01Z | UAS Sistem Cerdas | https://github.com/Rzzkan/fuzzy-tsukamoto | 0 | 0| 
+| 20201220T22:29:13Z | Repository holding database dumps from getfursu.it | https://github.com/veelkoov/fuzzrake-data | 0 | 0| 
+| 20201220T22:07:57Z | Fuzzaldrin plus - fast using native C++ bindings | https://github.com/atom-ide-community/fuzzaldrin-plus-fast | 2 | 3| 
+| 20201220T22:05:24Z | A tale into the system security, fuzzing and vulnerability research | https://github.com/Microsvuln/Microsvuln.github.io | 0 | 0| 
+| 20201220T21:49:55Z | 📨 Email template generator. Making emails fun again. | https://github.com/luangjokaj/fuzzymail | 108 | 4| 
+| 20201220T20:59:43Z | Null | https://github.com/Fuzzwah/irstatsbot.fuzzwah.com | 1 | 0| 
 
 
 
