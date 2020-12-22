@@ -14,6 +14,8 @@
 | 20201221 | ANTIVURUS ARTIFACTS - 有研究员对杀软检测及其 Hook 点的分析 | https://github.com/D3VI5H4/Antivirus-Artifacts/blob/main/ANTIVURUS_ARTIFACTS.pdf| 
 | 20201221 | Exploiting a Single Instruction Race Condition in Binder | https://blog.longterm.io/cve-2020-0423.html| 
 | 20201221 | 在Android / aarch64平台上利用内核PGD安全分析。 | https://duasynt.com/blog/android-pgd-page-tables| 
+| 20201221 | Microsoft Exchange Remote Code Execution - CVE-2020-16875 | https://www.x41-dsec.de/security/advisory/exploit/research/2020/12/21/x41-microsoft-exchange-rce-dlp-bypass/| 
+| 20201221 | 通过嗅探 TPM SPI 接口的流量泄漏 BitLocker 全盘加密 Key | https://labs.f-secure.com/blog/sniff-there-leaks-my-bitlocker-key/| 
 | 20201220 | GNU Readline 堆溢出漏洞分析 | https://insinuator.net/2020/12/root-cause-analysis-of-a-heap-based-buffer-overflow-in-gnu-readline/| 
 | 20201220 | CVE-2020-17057 Microsoft Windows DirectComposition Uninitialized Pointer Privilege Escalation Vulnerability | https://blogs.360.cn/post/CVE-2020-17057%20detail%20and%20exploit.html| 
 | 20201217 | SharePoint CVE-2020-1444 TOCTOU RCE 漏洞分析 | https://mp.weixin.qq.com/s/ZLSFXUoNNAFxqeiD9RpYZg| 
@@ -24,8 +26,6 @@
 | 20201217 | SymlinkProtect - 为 Windows 系统提供用户态符号链接攻击防护的工具 | https://github.com/sgabe/SymlinkProtect| 
 | 20201217 | 利用 Windows 的 Native 二进制程序实现数据的向外渗透 | https://debugactiveprocess.medium.com/data-exfiltration-with-lolbins-20e5e9c1ed8e| 
 | 20201216 | Attacking Unattended Installs on macOS | https://medium.com/tenable-techblog/attacking-unattended-installs-on-macos-dfc1f57984e0| 
-| 20201216 | Cross Layer Attacks and How to Use Them (for DNS Cache Poisoning, Device Tracking and More)（paper） | https://arxiv.org/pdf/2012.07432.pdf| 
-| 20201216 | Exploiting new-era of Request forgery on mobile applications | http://dphoeniixx.com/2020/12/13-2/| 
 
 
 # 安全维基 推荐
@@ -49,11 +49,11 @@
 | 20201222T02:15:15Z | cve-2020-27949 | Null | https://github.com/seemoo-lab/dtrace-memaccess_cve-2020-27949 | 未查询到CVE信息| 
 | 20201221T20:48:23Z | CVE-2020-29156 | woocommerce wordpress plugin - Affected Version: V 4.5.2 [CVE-2020-29156] | https://github.com/Ko-kn3t/CVE-2020-29156 | 未查询到CVE信息| 
 | 20201221T19:50:24Z | cve-2020-8554 | Prisma Cloud Compute Admission rules to mitigate Kubernetes CVE-2020-8554 | https://github.com/twistlock/k8s-cve-2020-8554-mitigations | 未查询到CVE信息| 
-| 20201221T12:48:51Z | CVE-2020-13942 | CVE-2020-13942 unauthenticated RCE POC through MVEL and OGNL injection | https://github.com/eugenebmx/CVE-2020-13942 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 38 MINUTES 07 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201221T12:48:51Z | CVE-2020-13942 | CVE-2020-13942 unauthenticated RCE POC through MVEL and OGNL injection | https://github.com/eugenebmx/CVE-2020-13942 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 25 MINUTES 14 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20201221T12:23:24Z | CVE-2020-14882 | Vulmap - Web漏洞扫描和验证工具，可对Web容器、Web服务器、Web中间件以及CMS等Web程序进行漏洞扫描，并且具备漏洞利用功能。 相关测试人员可以使用vulmap检测目标是否存在特定漏洞，并且可以使用漏洞利用功能验证漏洞是否真实存在。CVE-2020-14882, CVE-2020-2555, CVE-2020-2883, S2-061, CVE-2020-13942, CVE-2020-17530 | https://github.com/zhzyker/vulmap | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
-| 20201221T11:10:14Z | CVE-2020-25860 | integration examples for the CVE-2020-25860 fix | https://github.com/rauc/rauc-1.5-integration | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 38 MINUTES 08 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201221T11:10:14Z | CVE-2020-25860 | integration examples for the CVE-2020-25860 fix | https://github.com/rauc/rauc-1.5-integration | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 25 MINUTES 15 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20201221T08:56:03Z | CVE-2020-27935 | SnatchBox (CVE-2020-27935) is a sandbox escape vulnerability and exploit affecting macOS up to version 10.15.x | https://github.com/LIJI32/SnatchBox | 未查询到CVE信息| 
-| 20201219T15:33:47Z | CVE-2020-17530 | S2-061 的payload，以及对应简单的PoC/Exp | https://github.com/wuzuowei/CVE-2020-17530 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 38 MINUTES 09 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201219T15:33:47Z | CVE-2020-17530 | S2-061 的payload，以及对应简单的PoC/Exp | https://github.com/wuzuowei/CVE-2020-17530 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 25 MINUTES 16 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20201218T07:05:31Z | cve-2020-17530 | (cve-2020-17530) struts2_s2-061 freemarker_RCE testscript | https://github.com/ludy-dev/freemarker_RCE_struts2_s2-061 | 未查询到CVE信息| 
 | 20201218T06:56:51Z | CVE-2020-2978 | CVE-2020-2978 | https://github.com/emad-almousa/CVE-2020-2978 | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
 
@@ -88,8 +88,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20201222T02:19:10Z | Collection of docker images to be used for exploit development and testing | https://github.com/mishrasunny174/pwn-docker | 4 | 1| 
-| 20201222T02:17:41Z | CDK is an open-sourced container penetration toolkit, designed for offering stable exploitation in different slimmed containers without any OS dependency. It comes with useful net-tools and many powerful PoCs/EXPs helps you to escape container and takeover K8s cluster easily. | https://github.com/Xyntax/CDK | 88 | 6| 
+| 20201222T02:31:59Z | Collection of docker images to be used for exploit development and testing | https://github.com/mishrasunny174/pwn-docker | 4 | 1| 
+| 20201222T02:27:09Z | CDK is an open-sourced container penetration toolkit, designed for offering stable exploitation in different slimmed containers without any OS dependency. It comes with useful net-tools and many powerful PoCs/EXPs helps you to escape container and takeover K8s cluster easily. | https://github.com/Xyntax/CDK | 90 | 6| 
 | 20201222T01:52:42Z | my own exploit | https://github.com/h-vcn/ShuttleSploit | 0 | 0| 
 | 20201222T01:37:11Z | exploit-database-papers | https://github.com/offensive-security/exploitdb-papers | 270 | 37| 
 | 20201222T01:20:12Z | A stack-based buffer overflow exploit for the TRUN function. Thanks to Grey Corner. | https://github.com/elbee-cyber/VulnServer-Stack-Buffer-Overflow-TRUN | 0 | 0| 
@@ -103,8 +103,9 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20201222T02:30:10Z | class work | https://github.com/123SWL/backdoor | 0 | 0| 
+| 20201222T02:24:28Z | TrojanZoo is a universal pytorch platform for conducting security researches (especially for backdoor attacks/defenses) for image classification in deep learning. | https://github.com/ain-soph/trojanzoo | 12 | 2| 
 | 20201222T01:48:38Z | Null | https://github.com/graceyuanruihuang/backdoor_detect | 0 | 1| 
-| 20201222T01:45:24Z | TrojanZoo is a universal pytorch platform for conducting security researches (especially for backdoor attacks/defenses) for image classification in deep learning. | https://github.com/ain-soph/trojanzoo | 11 | 2| 
 | 20201222T01:42:07Z | Null | https://github.com/vishaal-ranjan/Backdoor-Detector | 0 | 0| 
 | 20201222T01:09:23Z | Defanged version of sunburst backdoor | https://github.com/etlownoise/fakesunburst | 0 | 1| 
 | 20201222T00:32:16Z | ***COMP3670 FINAL PROJECT*** Trojan horse virus using python. run attacker.py on the attackers pc and main.py on the victims to open a backdoor. | https://github.com/Cosy8/Trojan_Horse_Attack | 1 | 0| 
@@ -112,7 +113,6 @@
 | 20201221T22:13:34Z | Learning how to create a reverse shell/botnet | https://github.com/ben-ju/backdoor | 1 | 0| 
 | 20201221T19:04:05Z | My personal unique wiki for hacking the router firmware used by (Telia)TG799vac Xtream v17.2-MINT delivered from Technicolor  | https://github.com/wuseman/TG799VAC-XTREME-17.2-MINT | 55 | 17| 
 | 20201221T18:40:41Z | Null | https://github.com/MadsKaiser/backdoor | 0 | 0| 
-| 20201221T17:17:42Z | Null | https://github.com/mikkelskov1/backdoor2 | 0 | 0| 
 
 
 # fuzz on Github 推荐
