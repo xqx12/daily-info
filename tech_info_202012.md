@@ -17,6 +17,7 @@
 | 20201221 | Microsoft Exchange Remote Code Execution - CVE-2020-16875 | https://www.x41-dsec.de/security/advisory/exploit/research/2020/12/21/x41-microsoft-exchange-rce-dlp-bypass/| 
 | 20201221 | 通过嗅探 TPM SPI 接口的流量泄漏 BitLocker 全盘加密 Key | https://labs.f-secure.com/blog/sniff-there-leaks-my-bitlocker-key/| 
 | 20201221 | FreeBSD ftpd chroot 本地提权漏洞分析（CVE-2020-7468） | https://www.thezdi.com/blog/2020/12/21/cve-2020-7468-turning-imprisonment-to-advantage-in-the-freebsd-ftpd-chroot-jail| 
+| 20201221 | Project Zero 研究员 Brandon Azad 从 iOS 角度看待 Android Kernel Exploit 的 Blog | https://googleprojectzero.blogspot.com/2020/12/an-ios-hacker-tries-android.html| 
 | 20201220 | GNU Readline 堆溢出漏洞分析 | https://insinuator.net/2020/12/root-cause-analysis-of-a-heap-based-buffer-overflow-in-gnu-readline/| 
 | 20201220 | CVE-2020-17057 Microsoft Windows DirectComposition Uninitialized Pointer Privilege Escalation Vulnerability | https://blogs.360.cn/post/CVE-2020-17057%20detail%20and%20exploit.html| 
 | 20201217 | SharePoint CVE-2020-1444 TOCTOU RCE 漏洞分析 | https://mp.weixin.qq.com/s/ZLSFXUoNNAFxqeiD9RpYZg| 
@@ -25,7 +26,6 @@
 | 20201217 | freki - 开源恶意软件分析平台 | https://github.com/crhenr/freki| 
 | 20201217 | POC 会议议题 《Three Dark clouds over the Android kernel》 | https://github.com/2freeman/Slides/blob/main/PoC-2020-Three%20Dark%20clouds%20over%20the%20Android%20kernel.pdf| 
 | 20201217 | SymlinkProtect - 为 Windows 系统提供用户态符号链接攻击防护的工具 | https://github.com/sgabe/SymlinkProtect| 
-| 20201217 | 利用 Windows 的 Native 二进制程序实现数据的向外渗透 | https://debugactiveprocess.medium.com/data-exfiltration-with-lolbins-20e5e9c1ed8e| 
 
 
 # 安全维基 推荐
@@ -46,16 +46,16 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20201222T02:58:58Z | CVE-2020-13942 | Null | https://github.com/yaunsky/Unomi-CVE-2020-13942 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 00 MINUTES 27 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20201222T02:15:15Z | cve-2020-27949 | Null | https://github.com/seemoo-lab/dtrace-memaccess_cve-2020-27949 | 未查询到CVE信息| 
 | 20201221T20:48:23Z | CVE-2020-29156 | woocommerce wordpress plugin - Affected Version: V 4.5.2 [CVE-2020-29156] | https://github.com/Ko-kn3t/CVE-2020-29156 | 未查询到CVE信息| 
 | 20201221T19:50:24Z | cve-2020-8554 | Prisma Cloud Compute Admission rules to mitigate Kubernetes CVE-2020-8554 | https://github.com/twistlock/k8s-cve-2020-8554-mitigations | 未查询到CVE信息| 
-| 20201221T12:48:51Z | CVE-2020-13942 | CVE-2020-13942 unauthenticated RCE POC through MVEL and OGNL injection | https://github.com/eugenebmx/CVE-2020-13942 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 06 MINUTES 18 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201221T12:48:51Z | CVE-2020-13942 | CVE-2020-13942 unauthenticated RCE POC through MVEL and OGNL injection | https://github.com/eugenebmx/CVE-2020-13942 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 00 MINUTES 14 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20201221T12:23:24Z | CVE-2020-14882 | Vulmap - Web漏洞扫描和验证工具，可对Web容器、Web服务器、Web中间件以及CMS等Web程序进行漏洞扫描，并且具备漏洞利用功能。 相关测试人员可以使用vulmap检测目标是否存在特定漏洞，并且可以使用漏洞利用功能验证漏洞是否真实存在。CVE-2020-14882, CVE-2020-2555, CVE-2020-2883, S2-061, CVE-2020-13942, CVE-2020-17530 | https://github.com/zhzyker/vulmap | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
-| 20201221T11:10:14Z | CVE-2020-25860 | integration examples for the CVE-2020-25860 fix | https://github.com/rauc/rauc-1.5-integration | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 06 MINUTES 19 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201221T11:10:14Z | CVE-2020-25860 | integration examples for the CVE-2020-25860 fix | https://github.com/rauc/rauc-1.5-integration | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 00 MINUTES 15 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20201221T08:56:03Z | CVE-2020-27935 | SnatchBox (CVE-2020-27935) is a sandbox escape vulnerability and exploit affecting macOS up to version 10.15.x | https://github.com/LIJI32/SnatchBox | 未查询到CVE信息| 
-| 20201219T15:33:47Z | CVE-2020-17530 | S2-061 的payload，以及对应简单的PoC/Exp | https://github.com/wuzuowei/CVE-2020-17530 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 06 MINUTES 20 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201219T15:33:47Z | CVE-2020-17530 | S2-061 的payload，以及对应简单的PoC/Exp | https://github.com/wuzuowei/CVE-2020-17530 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 00 MINUTES 16 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20201218T07:05:31Z | cve-2020-17530 | (cve-2020-17530) struts2_s2-061 freemarker_RCE testscript | https://github.com/ludy-dev/freemarker_RCE_struts2_s2-061 | 未查询到CVE信息| 
-| 20201218T06:56:51Z | CVE-2020-2978 | CVE-2020-2978 | https://github.com/emad-almousa/CVE-2020-2978 | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
 
 
 # klee on Github 推荐
@@ -106,7 +106,7 @@
 | 20201222T02:43:19Z | recurrent of Backdoor Attacks to Graph Neural Networks | https://github.com/123SWL/backdoor- | 0 | 0| 
 | 20201222T02:30:10Z | class work | https://github.com/123SWL/backdoor | 0 | 0| 
 | 20201222T02:24:28Z | TrojanZoo is a universal pytorch platform for conducting security researches (especially for backdoor attacks/defenses) for image classification in deep learning. | https://github.com/ain-soph/trojanzoo | 12 | 2| 
-| 20201222T01:48:38Z | Null | https://github.com/graceyuanruihuang/backdoor_detect | 0 | 1| 
+| 20201222T01:48:38Z | Null | https://github.com/graceyuanruihuang/backdoor_detect | 0 | 2| 
 | 20201222T01:42:07Z | Null | https://github.com/vishaal-ranjan/Backdoor-Detector | 0 | 0| 
 | 20201222T01:09:23Z | Defanged version of sunburst backdoor | https://github.com/etlownoise/fakesunburst | 0 | 1| 
 | 20201222T00:32:16Z | ***COMP3670 FINAL PROJECT*** Trojan horse virus using python. run attacker.py on the attackers pc and main.py on the victims to open a backdoor. | https://github.com/Cosy8/Trojan_Horse_Attack | 1 | 0| 
