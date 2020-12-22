@@ -16,6 +16,7 @@
 | 20201221 | 在Android / aarch64平台上利用内核PGD安全分析。 | https://duasynt.com/blog/android-pgd-page-tables| 
 | 20201221 | Microsoft Exchange Remote Code Execution - CVE-2020-16875 | https://www.x41-dsec.de/security/advisory/exploit/research/2020/12/21/x41-microsoft-exchange-rce-dlp-bypass/| 
 | 20201221 | 通过嗅探 TPM SPI 接口的流量泄漏 BitLocker 全盘加密 Key | https://labs.f-secure.com/blog/sniff-there-leaks-my-bitlocker-key/| 
+| 20201221 | FreeBSD ftpd chroot 本地提权漏洞分析（CVE-2020-7468） | https://www.thezdi.com/blog/2020/12/21/cve-2020-7468-turning-imprisonment-to-advantage-in-the-freebsd-ftpd-chroot-jail| 
 | 20201220 | GNU Readline 堆溢出漏洞分析 | https://insinuator.net/2020/12/root-cause-analysis-of-a-heap-based-buffer-overflow-in-gnu-readline/| 
 | 20201220 | CVE-2020-17057 Microsoft Windows DirectComposition Uninitialized Pointer Privilege Escalation Vulnerability | https://blogs.360.cn/post/CVE-2020-17057%20detail%20and%20exploit.html| 
 | 20201217 | SharePoint CVE-2020-1444 TOCTOU RCE 漏洞分析 | https://mp.weixin.qq.com/s/ZLSFXUoNNAFxqeiD9RpYZg| 
@@ -25,7 +26,6 @@
 | 20201217 | POC 会议议题 《Three Dark clouds over the Android kernel》 | https://github.com/2freeman/Slides/blob/main/PoC-2020-Three%20Dark%20clouds%20over%20the%20Android%20kernel.pdf| 
 | 20201217 | SymlinkProtect - 为 Windows 系统提供用户态符号链接攻击防护的工具 | https://github.com/sgabe/SymlinkProtect| 
 | 20201217 | 利用 Windows 的 Native 二进制程序实现数据的向外渗透 | https://debugactiveprocess.medium.com/data-exfiltration-with-lolbins-20e5e9c1ed8e| 
-| 20201216 | Attacking Unattended Installs on macOS | https://medium.com/tenable-techblog/attacking-unattended-installs-on-macos-dfc1f57984e0| 
 
 
 # 安全维基 推荐
@@ -49,11 +49,11 @@
 | 20201222T02:15:15Z | cve-2020-27949 | Null | https://github.com/seemoo-lab/dtrace-memaccess_cve-2020-27949 | 未查询到CVE信息| 
 | 20201221T20:48:23Z | CVE-2020-29156 | woocommerce wordpress plugin - Affected Version: V 4.5.2 [CVE-2020-29156] | https://github.com/Ko-kn3t/CVE-2020-29156 | 未查询到CVE信息| 
 | 20201221T19:50:24Z | cve-2020-8554 | Prisma Cloud Compute Admission rules to mitigate Kubernetes CVE-2020-8554 | https://github.com/twistlock/k8s-cve-2020-8554-mitigations | 未查询到CVE信息| 
-| 20201221T12:48:51Z | CVE-2020-13942 | CVE-2020-13942 unauthenticated RCE POC through MVEL and OGNL injection | https://github.com/eugenebmx/CVE-2020-13942 | | 
+| 20201221T12:48:51Z | CVE-2020-13942 | CVE-2020-13942 unauthenticated RCE POC through MVEL and OGNL injection | https://github.com/eugenebmx/CVE-2020-13942 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 14 MINUTES 16 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20201221T12:23:24Z | CVE-2020-14882 | Vulmap - Web漏洞扫描和验证工具，可对Web容器、Web服务器、Web中间件以及CMS等Web程序进行漏洞扫描，并且具备漏洞利用功能。 相关测试人员可以使用vulmap检测目标是否存在特定漏洞，并且可以使用漏洞利用功能验证漏洞是否真实存在。CVE-2020-14882, CVE-2020-2555, CVE-2020-2883, S2-061, CVE-2020-13942, CVE-2020-17530 | https://github.com/zhzyker/vulmap | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
-| 20201221T11:10:14Z | CVE-2020-25860 | integration examples for the CVE-2020-25860 fix | https://github.com/rauc/rauc-1.5-integration | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 23 MINUTES 17 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201221T11:10:14Z | CVE-2020-25860 | integration examples for the CVE-2020-25860 fix | https://github.com/rauc/rauc-1.5-integration | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 14 MINUTES 17 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20201221T08:56:03Z | CVE-2020-27935 | SnatchBox (CVE-2020-27935) is a sandbox escape vulnerability and exploit affecting macOS up to version 10.15.x | https://github.com/LIJI32/SnatchBox | 未查询到CVE信息| 
-| 20201219T15:33:47Z | CVE-2020-17530 | S2-061 的payload，以及对应简单的PoC/Exp | https://github.com/wuzuowei/CVE-2020-17530 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 23 MINUTES 18 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201219T15:33:47Z | CVE-2020-17530 | S2-061 的payload，以及对应简单的PoC/Exp | https://github.com/wuzuowei/CVE-2020-17530 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 14 MINUTES 18 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20201218T07:05:31Z | cve-2020-17530 | (cve-2020-17530) struts2_s2-061 freemarker_RCE testscript | https://github.com/ludy-dev/freemarker_RCE_struts2_s2-061 | 未查询到CVE信息| 
 | 20201218T06:56:51Z | CVE-2020-2978 | CVE-2020-2978 | https://github.com/emad-almousa/CVE-2020-2978 | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
 
@@ -61,13 +61,13 @@
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20201222T02:37:17Z | Create CFGs and compute complexity metrics for Python, C++, and Java code. | https://github.com/hmc-alpaqa/metrinome | 5 | 0| 
 | 20201221T19:32:09Z | Null | https://github.com/morlap/kleebergfestival | 0 | 0| 
 | 20201221T15:35:29Z | Null | https://github.com/ZJTAN97/KleenTeamSite | 0 | 0| 
 | 20201221T12:54:38Z | Null | https://github.com/viktorfrom/klee_tutorial | 0 | 0| 
 | 20201221T05:39:48Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1581 | 476| 
 | 20201220T22:08:04Z | Website for Klee Bot | https://github.com/klee-chan/klee-chan.github.io | 0 | 0| 
 | 20201220T22:04:50Z | Null | https://github.com/vichannnnn/klee-chan.github.io | 0 | 0| 
-| 20201220T20:44:30Z | Create CFGs and compute complexity metrics for Python, C++, and Java code. | https://github.com/hmc-alpaqa/metrinome | 5 | 0| 
 | 20201218T22:35:00Z | RVT is a collection of tools/libraries to support both static and dynamic verification of Rust programs. | https://github.com/project-oak/rust-verification-tools | 101 | 5| 
 | 20201218T17:47:38Z | KLEE%s version of uClibc | https://github.com/klee/klee-uclibc | 32 | 33| 
 | 20201218T09:11:11Z | Null | https://github.com/fontworks-fonts/Klee | 0 | 0| 
@@ -88,8 +88,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20201222T02:40:02Z | CDK is an open-sourced container penetration toolkit, designed for offering stable exploitation in different slimmed containers without any OS dependency. It comes with useful net-tools and many powerful PoCs/EXPs helps you to escape container and takeover K8s cluster easily. | https://github.com/Xyntax/CDK | 91 | 6| 
 | 20201222T02:35:10Z | Collection of docker images to be used for exploit development and testing | https://github.com/mishrasunny174/pwn-docker | 4 | 1| 
-| 20201222T02:27:09Z | CDK is an open-sourced container penetration toolkit, designed for offering stable exploitation in different slimmed containers without any OS dependency. It comes with useful net-tools and many powerful PoCs/EXPs helps you to escape container and takeover K8s cluster easily. | https://github.com/Xyntax/CDK | 90 | 6| 
 | 20201222T01:52:42Z | my own exploit | https://github.com/h-vcn/ShuttleSploit | 0 | 0| 
 | 20201222T01:37:11Z | exploit-database-papers | https://github.com/offensive-security/exploitdb-papers | 270 | 37| 
 | 20201222T01:20:12Z | A stack-based buffer overflow exploit for the TRUN function. Thanks to Grey Corner. | https://github.com/elbee-cyber/VulnServer-Stack-Buffer-Overflow-TRUN | 0 | 0| 
@@ -103,6 +103,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20201222T02:43:19Z | recurrent of Backdoor Attacks to Graph Neural Networks | https://github.com/123SWL/backdoor- | 0 | 0| 
 | 20201222T02:30:10Z | class work | https://github.com/123SWL/backdoor | 0 | 0| 
 | 20201222T02:24:28Z | TrojanZoo is a universal pytorch platform for conducting security researches (especially for backdoor attacks/defenses) for image classification in deep learning. | https://github.com/ain-soph/trojanzoo | 12 | 2| 
 | 20201222T01:48:38Z | Null | https://github.com/graceyuanruihuang/backdoor_detect | 0 | 1| 
@@ -112,7 +113,6 @@
 | 20201221T22:26:03Z | Null | https://github.com/wcenatus/node-backdoor | 0 | 0| 
 | 20201221T22:13:34Z | Learning how to create a reverse shell/botnet | https://github.com/ben-ju/backdoor | 1 | 0| 
 | 20201221T19:04:05Z | My personal unique wiki for hacking the router firmware used by (Telia)TG799vac Xtream v17.2-MINT delivered from Technicolor  | https://github.com/wuseman/TG799VAC-XTREME-17.2-MINT | 55 | 17| 
-| 20201221T18:40:41Z | Null | https://github.com/MadsKaiser/backdoor | 0 | 0| 
 
 
 # fuzz on Github 推荐
@@ -126,7 +126,7 @@
 | 20201222T00:09:34Z | Rapid fuzzy string matching in Python using the Levenshtein Distance | https://github.com/maxbachmann/RapidFuzz | 737 | 25| 
 | 20201221T22:51:23Z | Fuzzing cryptographic libraries. Magic bug printer go brrrr. | https://github.com/guidovranken/cryptofuzz | 226 | 31| 
 | 20201221T22:35:51Z | Fuzzy match candidates from an input string. | https://github.com/vindarel/fuzzy-match | 14 | 0| 
-| 20201221T21:43:30Z | OSS-Fuzz - continuous fuzzing of open source software. | https://github.com/google/oss-fuzz | 5744 | 1141| 
+| 20201221T21:43:30Z | OSS-Fuzz - continuous fuzzing of open source software. | https://github.com/google/oss-fuzz | 5744 | 1142| 
 | 20201221T21:41:57Z | Java implementation of some in-memory fuzzy search algorithms. | https://github.com/EugeneLesnov/fuzzy-search | 6 | 1| 
 
 
