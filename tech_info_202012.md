@@ -46,16 +46,16 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20201223T02:31:09Z | CVE-2020-17530 | S2-061 的payload，以及对应简单的PoC/Exp | https://github.com/wuzuowei/CVE-2020-17530 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 01 MINUTES 08 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201223T01:57:17Z | CVE-2020-27935 | SnatchBox (CVE-2020-27935) is a sandbox escape vulnerability and exploit affecting macOS up to version 10.15.x | https://github.com/LIJI32/SnatchBox | 未查询到CVE信息| 
 | 20201223T01:26:12Z | cve-2020-27949 | Null | https://github.com/seemoo-lab/dtrace-memaccess_cve-2020-27949 | 未查询到CVE信息| 
-| 20201223T00:36:13Z | CVE-2020-17530 | S2-061 的payload，以及对应简单的PoC/Exp | https://github.com/wuzuowei/CVE-2020-17530 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 16 MINUTES 14 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20201222T16:04:03Z | cve-2020-8554 | Prisma Cloud Compute Admission rules to mitigate Kubernetes CVE-2020-8554 | https://github.com/twistlock/k8s-cve-2020-8554-mitigations | 未查询到CVE信息| 
-| 20201222T15:27:53Z | CVE-2020-17530 | S2-061 CVE-2020-17530 | https://github.com/Al1ex/CVE-2020-17530 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 16 MINUTES 15 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20201222T09:53:32Z | CVE-2020-27663 | Proof of Concept (PoC) for CVE-2020-27663. | https://github.com/indevi0us/CVE-2020-27663 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 16 MINUTES 27 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20201222T09:52:27Z | CVE-2020-27662 | Proof of Concept (PoC) for CVE-2020-27662. | https://github.com/indevi0us/CVE-2020-27662 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 16 MINUTES 26 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201222T15:27:53Z | CVE-2020-17530 | S2-061 CVE-2020-17530 | https://github.com/Al1ex/CVE-2020-17530 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 01 MINUTES 09 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201222T09:53:32Z | CVE-2020-27663 | Proof of Concept (PoC) for CVE-2020-27663. | https://github.com/indevi0us/CVE-2020-27663 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 01 MINUTES 22 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201222T09:52:27Z | CVE-2020-27662 | Proof of Concept (PoC) for CVE-2020-27662. | https://github.com/indevi0us/CVE-2020-27662 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 01 MINUTES 21 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20201222T09:14:36Z | 未知编号 | 2020 OPEN SOURCE SECURITY AND RISK ANALYSIS REPORT , synopsys.com Table of contents Introduction ................................................................................................................................................................................1 Industries represented in the 2020 OSSRA report...................................................................................................................................................................3 2020 Open Source Security and Risk Analysis ........................................................................................................................4 The need for a software bill of materials...................................................................................................................................................................................7 Open source composition of codebases audited in 2019 ..................................................................................................................................................... 7 What open source components are in use? .............................................................................................................................................................................9 Open source rules! But unpatched vulnerabilities still threaten............................................................................................13 Augmenting CVE vulnerability information with BDSAs.......................................................................................................................................................15 Digging deeper into vulnerabilities found in 2019..................................................................................................................................................................15 High-risk vulnerabilities ...............................................................................................................................................................................................................15 Setting vulnerability patching priorities....................................................................................................................................................................................18 Open source license and legal developments in 2019..........................................................................................................20 Open source license risk.............................................................................................................................................................................................................21 Licensing legal developments in 2019.....................................................................................................................................................................................23 Examining license risk in open source components.............................................................................................................................................................25 Open source components with no licenses or custom licenses ........................................................................................................................................26 Operational factors in open source use .................................................................................................................................29 Conclusion................................................................................................................................................................................32 Appendix A .................................................................... | https://github.com/phillip1978W/phill | 未查询到CVE信息| 
-| 20201222T07:18:29Z | CVE-2020-25213 | Null | https://github.com/forse01/CVE-2020-25213 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 16 MINUTES 20 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201222T07:18:29Z | CVE-2020-25213 | Null | https://github.com/forse01/CVE-2020-25213 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 01 MINUTES 15 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20201222T05:31:05Z | CVE-2020-29156 | woocommerce wordpress plugin - Affected Version: V 4.5.2 [CVE-2020-29156] | https://github.com/Ko-kn3t/CVE-2020-29156 | 未查询到CVE信息| 
-| 20201222T03:30:18Z | CVE-2020-13942 | CVE-2020-13942 Apache Unomi 远程代码执行漏洞脚getshell | https://github.com/yaunsky/Unomi-CVE-2020-13942 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 16 MINUTES 25 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 
 
 # klee on Github 推荐
@@ -88,28 +88,28 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20201223T02:50:15Z | Download any Guitar Pro file, including %Official% and blocked/removed tabs | https://github.com/noahmaranesi/Ultimate-Guitar-Hack | 18 | 0| 
+| 20201223T02:47:53Z | Random Exploits | https://github.com/w4fz5uck5/3XPL01t5 | 11 | 10| 
+| 20201223T02:18:26Z | SSLoth-based remote code execution exploit for the 3DS eShop application | https://github.com/MrNbaYoh/trailerhax | 3 | 0| 
+| 20201223T02:15:58Z | Collection of tools and techniques for enumeration and exploitation of windows systems, linux systems, and web applications. | https://github.com/EvolvingSysadmin/Penetration-Testing | 1 | 1| 
 | 20201223T01:37:16Z | exploit-database-papers | https://github.com/offensive-security/exploitdb-papers | 270 | 37| 
 | 20201223T01:29:20Z | A Remote Code Execution (RCE) exploit for Huawei HG532d based on CVE-2017-17215 vulnerability. Modded from original PoC code from exploit-db.com | https://github.com/wilfred-wulbou/HG532d-RCE-Exploit | 0 | 0| 
 | 20201223T01:09:03Z | ZetaSploit Framework is a powerful exploitation framework that contains a lot of modules for attacking targets, interacting with targets, exploiting common vulnerabilities and etc. | https://github.com/EntySec/ZetaSploit | 6 | 4| 
 | 20201223T01:05:40Z | Configure graphics, environments and objects for better performance, if your computer cannot run Roblox perfectly. | https://github.com/GRIPPERTV/FPS-Booster | 0 | 0| 
 | 20201223T01:03:38Z | Null | https://github.com/Catw0rld/Exploit | 1 | 0| 
-| 20201223T01:02:47Z | Random Exploits | https://github.com/w4fz5uck5/3XPL01t5 | 11 | 10| 
 | 20201223T00:49:27Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 6 | 3| 
-| 20201223T00:46:01Z | Download any Guitar Pro file, including %Official% and blocked/removed tabs | https://github.com/noahmaranesi/Ultimate-Guitar-Hack | 18 | 0| 
-| 20201223T00:20:05Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 8795 | 1391| 
-| 20201223T00:12:35Z | A series of CTF/hacking challenge solutions for binary exploitation(or pwn)/reverse engineering/vulnerability research/memory corruption(or whatever term you use) | https://github.com/docfate111/binary-exploitation-solution-scripts | 0 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20201223T02:40:23Z | TrojanZoo provides a universal pytorch platform to conduct security researches (especially backdoor attacks/defenses) of image classification in deep learning. | https://github.com/ain-soph/trojanzoo | 14 | 3| 
 | 20201223T01:18:13Z | Null | https://github.com/graceyuanruihuang/backdoor_detect | 0 | 2| 
 | 20201223T00:52:27Z | Defanged version of sunburst backdoor | https://github.com/etlownoise/fakesunburst | 0 | 1| 
 | 20201223T00:38:03Z | Script to decode the DGA algorithm used in the SUNBURST backdoor | https://github.com/Truesec/sunburst-decoder | 3 | 1| 
 | 20201222T22:47:42Z | Injectra injects shellcode payloads into MacOS applications. | https://github.com/Taguar258/injectra | 6 | 3| 
 | 20201222T22:44:37Z | ***COMP3670 FINAL PROJECT*** Trojan horse virus using python. run attacker.py on the attackers pc and main.py on the victims to open a backdoor. | https://github.com/Cosy8/Trojan_Horse_Attack | 1 | 0| 
 | 20201222T22:30:17Z | Null | https://github.com/wcenatus/node-backdoor | 0 | 0| 
-| 20201222T21:58:43Z | TrojanZoo is a universal pytorch platform for conducting security researches (especially for backdoor attacks/defenses) for image classification in deep learning. | https://github.com/ain-soph/trojanzoo | 13 | 2| 
 | 20201222T20:52:50Z | This repository contains the final project for Machine Learning for Cybersecurity class | https://github.com/abayakturin/ml_cybersec | 0 | 0| 
 | 20201222T18:34:32Z | Null | https://github.com/cv1002/SoftwareProjectManagerBackdoor | 1 | 1| 
 | 20201222T15:15:21Z | Code for %Biometric Backdoors: A Poisoning Attack Against Unsupervised Template Updating% | https://github.com/ssloxford/biometric-backdoors | 4 | 0| 
@@ -118,16 +118,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20201223T01:22:45Z | OSS-Fuzz - continuous fuzzing of open source software. | https://github.com/google/oss-fuzz | 5747 | 1143| 
-| 20201223T01:03:09Z | Fuzzy matching publications for fatcat (wip). | https://github.com/miku/fuzzycat | 0 | 1| 
+| 20201223T02:56:43Z | Null | https://github.com/ppermana153/fuzzy-barnacle | 0 | 0| 
+| 20201223T02:55:03Z | OSS-Fuzz - continuous fuzzing of open source software. | https://github.com/google/oss-fuzz | 5748 | 1144| 
+| 20201223T02:51:08Z | Fuzzy matching publications for fatcat (wip). | https://github.com/miku/fuzzycat | 0 | 1| 
+| 20201223T02:46:35Z | URL Fuzzing / brute forcing tool, written in dart. | https://github.com/GrayWasTaken/dartbuster | 0 | 0| 
+| 20201223T02:42:50Z | VMI Kernel Fuzzer for Xen Project - VM forking, VMI & AFL integration demo | https://github.com/intel/kernel-fuzzer-for-xen-project | 191 | 31| 
+| 20201223T02:03:12Z | Client application for vlog website | https://github.com/waldnont/fuzzy-winner | 0 | 0| 
+| 20201223T01:54:19Z | Project 100-2020 | https://github.com/abenj4404/Fuzzyskull | 0 | 0| 
+| 20201223T01:49:11Z | MQTT service for intent recognition with fuzzywuzzy using the Hermes protocol | https://github.com/rhasspy/rhasspy-fuzzywuzzy-hermes | 0 | 1| 
 | 20201223T01:01:16Z | Generator of random circuits | https://github.com/drom/circt-fuzzer | 1 | 0| 
 | 20201223T00:46:28Z | Fuzzing cryptographic libraries. Magic bug printer go brrrr. | https://github.com/guidovranken/cryptofuzz | 226 | 31| 
-| 20201223T00:35:32Z | VMI Kernel Fuzzer for Xen Project - VM forking, VMI & AFL integration demo | https://github.com/intel/kernel-fuzzer-for-xen-project | 187 | 29| 
-| 20201223T00:20:53Z | Null | https://github.com/dieg0moraes/fuzzer | 0 | 0| 
-| 20201222T23:34:51Z | Null | https://github.com/Sentinel-One/efi_fuzz | 60 | 6| 
-| 20201222T23:01:24Z | Fuzzy search in Dart | https://github.com/comigor/fuzzy | 19 | 9| 
-| 20201222T22:54:55Z | Individual Task | https://github.com/Xesavov/FuzzyLogic | 0 | 0| 
-| 20201222T22:39:21Z | Null | https://github.com/ppermana153/fuzzy-barnacle | 0 | 0| 
 
 
 
