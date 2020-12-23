@@ -6,6 +6,14 @@
 # 玄武实验室 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20201223 | GoSecure 团队整理的 SSTI 攻击 Workshop | https://gosecure.github.io/template-injection-workshop/| 
+| 20201223 | Issue 2094: usrsctp: Use-after-free write when handling malicious COOKIE-ECHO | https://bugs.chromium.org/p/project-zero/issues/detail?id=2094| 
+| 20201223 | PS4 6.72 版本固件的越狱利用代码 | https://github.com/sleirsgoevy/ps4jb| 
+| 20201223 | SUNBURST, TEARDROP and the NetSec New Normal | https://research.checkpoint.com/2020/sunburst-teardrop-and-the-netsec-new-normal/| 
+| 20201223 | SUNBURST 后门的 DGA 算法分析 | https://blog.prevasio.com/2020/12/sunburst-backdoor-part-iii-dga-security.html| 
+| 20201223 | CVE-2020-9967 - Apple macOS 6LowPAN Vulnerability | https://alexplaskett.github.io/CVE-2020-9967/| 
+| 20201223 | FoxDec - 将 x86-64 二进制反编译为 C 代码的项目 | https://ssrg-vt.github.io/FoxDec/| 
+| 20201223 | SharpZipRunner - 利用 D/Invokes 在内存中解密 ZIP 加密压缩的 bin 并提取 Shellcode 执行 | https://github.com/jfmaes/SharpZipRunner| 
 | 20201222 | Android Kernel Exploitation Workshop | https://cloudfuzz.github.io/android-kernel-exploitation/chapters/exploitation.html| 
 | 20201222 | hxp CTF 2020 pfoten writeup | https://mem2019.github.io/jekyll/update/2020/12/21/hxp2020-pfoten.html| 
 | 20201222 | Reading and writing memory of other processes using fasttrap | https://github.com/seemoo-lab/dtrace-memaccess_cve-2020-27949| 
@@ -18,51 +26,44 @@
 | 20201221 | Shifting Cloud Security Left — Scanning Infrastructure as Code for Security Issues | https://blog.christophetd.fr/shifting-cloud-security-left-scanning-infrastructure-as-code-for-security-issues/| 
 | 20201221 | SnatchBox - macOS 沙箱逃逸漏洞的分析（CVE-2020-27935） | https://github.com/LIJI32/SnatchBox| 
 | 20201221 | ANTIVURUS ARTIFACTS - 有研究员对杀软检测及其 Hook 点的分析 | https://github.com/D3VI5H4/Antivirus-Artifacts/blob/main/ANTIVURUS_ARTIFACTS.pdf| 
-| 20201221 | Exploiting a Single Instruction Race Condition in Binder | https://blog.longterm.io/cve-2020-0423.html| 
-| 20201221 | 在Android / aarch64平台上利用内核PGD安全分析。 | https://duasynt.com/blog/android-pgd-page-tables| 
-| 20201221 | Microsoft Exchange Remote Code Execution - CVE-2020-16875 | https://www.x41-dsec.de/security/advisory/exploit/research/2020/12/21/x41-microsoft-exchange-rce-dlp-bypass/| 
-| 20201221 | 通过嗅探 TPM SPI 接口的流量泄漏 BitLocker 全盘加密 Key | https://labs.f-secure.com/blog/sniff-there-leaks-my-bitlocker-key/| 
-| 20201221 | FreeBSD ftpd chroot 本地提权漏洞分析（CVE-2020-7468） | https://www.thezdi.com/blog/2020/12/21/cve-2020-7468-turning-imprisonment-to-advantage-in-the-freebsd-ftpd-chroot-jail| 
-| 20201221 | Project Zero 研究员 Brandon Azad 从 iOS 角度看待 Android Kernel Exploit 的 Blog | https://googleprojectzero.blogspot.com/2020/12/an-ios-hacker-tries-android.html| 
-| 20201220 | GNU Readline 堆溢出漏洞分析 | https://insinuator.net/2020/12/root-cause-analysis-of-a-heap-based-buffer-overflow-in-gnu-readline/| 
-| 20201220 | CVE-2020-17057 Microsoft Windows DirectComposition Uninitialized Pointer Privilege Escalation Vulnerability | https://blogs.360.cn/post/CVE-2020-17057%20detail%20and%20exploit.html| 
 
 
 # 安全维基 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20201223 | 基于AI的恶意加密流量检测效果专题研究 | https://www.aqniu.com/vendor/71886.html| 
+| 20201223 | 从Solarwinds供应链攻击（金链熊）看APT行动中的隐蔽作战 | https://mp.weixin.qq.com/s/UqXC1vovKUu97569LkYm2Q| 
+| 20201223 | Analyzing Cobalt Strike for Fun and Profit | https://www.randhome.io/blog/2020/12/20/analyzing-cobalt-strike-for-fun-and-profit/| 
+| 20201223 | 用DNS进行网络度量和安全分析 | https://mp.weixin.qq.com/s/L_wDNJtznQvrCyx1Kd1SlQ| 
+| 20201223 | SolarWinds失陷服务器测绘分析报告 | https://www.anquanke.com/post/id/226029| 
 | 20201222 | 安全技术 , 一次众测实战sql注入绕过 | https://mp.weixin.qq.com/s/9BXMK4mVNKqQiBRkkiEJWg| 
 | 20201222 | 计算机系统研究的一些体会 | https://www.bilibili.com/video/BV1Ap4y167w3?p=1| 
 | 20201221 | HTTP协议攻击方法汇总（下） | https://www.anquanke.com/post/id/225955| 
 | 20201221 | HTTP协议攻击方法汇总（上） | https://www.anquanke.com/post/id/224321| 
 | 20201221 | 如何查找相关人的信息 | https://mp.weixin.qq.com/s/yeuMivJaizmAQAHL1poHTw| 
-| 20201221 | Molerats组织滥用云服务的攻击活动分析 | https://mp.weixin.qq.com/s/iWYr18hSLBBL4Y1-hAmEeg| 
-| 20201221 | AISecOps智能安全运营技术白皮书 | http://blog.nsfocus.net/wp-content/uploads/2020/12/AISecOps_White_Paper_NSFOCUS_20201218.pdf| 
-| 20201221 | Fortify的使用技巧 | https://mp.weixin.qq.com/s/VUg92RSsZRpGPWaPKBWPNQ| 
-| 20201221 | 2020年综述性论文合辑（下） | https://mp.weixin.qq.com/s/c43NfYaz3F-t1V93gOGKdw| 
-| 20201221 | 2020年综述性论文合辑（上） | https://mp.weixin.qq.com/s/e-3rSS2F7lVV9SMMnoqylQ| 
 
 
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20201223T02:31:09Z | CVE-2020-17530 | S2-061 的payload，以及对应简单的PoC/Exp | https://github.com/wuzuowei/CVE-2020-17530 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  20 HOURS 51 MINUTES 09 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20201223T01:57:17Z | CVE-2020-27935 | SnatchBox (CVE-2020-27935) is a sandbox escape vulnerability and exploit affecting macOS up to version 10.15.x | https://github.com/LIJI32/SnatchBox | 未查询到CVE信息| 
-| 20201223T01:26:12Z | cve-2020-27949 | Null | https://github.com/seemoo-lab/dtrace-memaccess_cve-2020-27949 | 未查询到CVE信息| 
+| 20201223T12:17:01Z | cve-2020-17057 | cve-2020-17057 poc | https://github.com/ze0r/cve-2020-17057 | 未查询到CVE信息| 
+| 20201223T10:50:56Z | cve-2020-27949 | Null | https://github.com/seemoo-lab/dtrace-memaccess_cve-2020-27949 | 未查询到CVE信息| 
+| 20201223T08:24:12Z | CVE-2020-1472 | Null | https://github.com/SaharAttackit/CVE-2020-1472 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 56 MINUTES 31 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201223T05:51:07Z | CVE-2020-17530 | S2-061 的payload，以及对应简单的PoC/Exp | https://github.com/wuzuowei/CVE-2020-17530 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 57 MINUTES 15 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201223T03:16:21Z | CVE-2020-27935 | SnatchBox (CVE-2020-27935) is a sandbox escape vulnerability and exploit affecting macOS up to version 10.15.x | https://github.com/LIJI32/SnatchBox | 未查询到CVE信息| 
 | 20201222T16:04:03Z | cve-2020-8554 | Prisma Cloud Compute Admission rules to mitigate Kubernetes CVE-2020-8554 | https://github.com/twistlock/k8s-cve-2020-8554-mitigations | 未查询到CVE信息| 
-| 20201222T15:27:53Z | CVE-2020-17530 | S2-061 CVE-2020-17530 | https://github.com/Al1ex/CVE-2020-17530 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  20 HOURS 51 MINUTES 10 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20201222T09:53:32Z | CVE-2020-27663 | Proof of Concept (PoC) for CVE-2020-27663. | https://github.com/indevi0us/CVE-2020-27663 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  20 HOURS 51 MINUTES 21 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20201222T09:52:27Z | CVE-2020-27662 | Proof of Concept (PoC) for CVE-2020-27662. | https://github.com/indevi0us/CVE-2020-27662 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  20 HOURS 51 MINUTES 20 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201222T15:27:53Z | CVE-2020-17530 | S2-061 CVE-2020-17530 | https://github.com/Al1ex/CVE-2020-17530 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 57 MINUTES 16 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201222T09:53:32Z | CVE-2020-27663 | Proof of Concept (PoC) for CVE-2020-27663. | https://github.com/indevi0us/CVE-2020-27663 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 56 MINUTES 30 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201222T09:52:27Z | CVE-2020-27662 | Proof of Concept (PoC) for CVE-2020-27662. | https://github.com/indevi0us/CVE-2020-27662 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 56 MINUTES 29 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20201222T09:14:36Z | 未知编号 | 2020 OPEN SOURCE SECURITY AND RISK ANALYSIS REPORT , synopsys.com Table of contents Introduction ................................................................................................................................................................................1 Industries represented in the 2020 OSSRA report...................................................................................................................................................................3 2020 Open Source Security and Risk Analysis ........................................................................................................................4 The need for a software bill of materials...................................................................................................................................................................................7 Open source composition of codebases audited in 2019 ..................................................................................................................................................... 7 What open source components are in use? .............................................................................................................................................................................9 Open source rules! But unpatched vulnerabilities still threaten............................................................................................13 Augmenting CVE vulnerability information with BDSAs.......................................................................................................................................................15 Digging deeper into vulnerabilities found in 2019..................................................................................................................................................................15 High-risk vulnerabilities ...............................................................................................................................................................................................................15 Setting vulnerability patching priorities....................................................................................................................................................................................18 Open source license and legal developments in 2019..........................................................................................................20 Open source license risk.............................................................................................................................................................................................................21 Licensing legal developments in 2019.....................................................................................................................................................................................23 Examining license risk in open source components.............................................................................................................................................................25 Open source components with no licenses or custom licenses ........................................................................................................................................26 Operational factors in open source use .................................................................................................................................29 Conclusion................................................................................................................................................................................32 Appendix A .................................................................... | https://github.com/phillip1978W/phill | 未查询到CVE信息| 
-| 20201222T07:18:29Z | CVE-2020-25213 | Null | https://github.com/forse01/CVE-2020-25213 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  20 HOURS 51 MINUTES 15 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20201222T05:31:05Z | CVE-2020-29156 | woocommerce wordpress plugin - Affected Version: V 4.5.2 [CVE-2020-29156] | https://github.com/Ko-kn3t/CVE-2020-29156 | 未查询到CVE信息| 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20201223T12:12:12Z | Null | https://github.com/markhakansson/klee-tutorial | 0 | 0| 
+| 20201223T11:57:04Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1586 | 476| 
 | 20201222T17:18:15Z | Null | https://github.com/thierry-tct/KLEE-SEMu | 1 | 0| 
-| 20201222T15:26:32Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1585 | 477| 
 | 20201222T13:43:18Z | Null | https://github.com/viktorfrom/klee_tutorial | 0 | 0| 
 | 20201222T07:48:08Z | Null | https://github.com/DonaldKLee/DonaldKLee | 0 | 0| 
 | 20201222T04:22:01Z | Create CFGs and compute complexity metrics for Python, C++, and Java code. | https://github.com/hmc-alpaqa/metrinome | 5 | 0| 
@@ -70,7 +71,6 @@
 | 20201221T15:35:29Z | Null | https://github.com/ZJTAN97/KleenTeamSite | 0 | 0| 
 | 20201220T22:08:04Z | Website for Klee Bot | https://github.com/klee-chan/klee-chan.github.io | 0 | 0| 
 | 20201220T22:04:50Z | Null | https://github.com/vichannnnn/klee-chan.github.io | 0 | 0| 
-| 20201218T22:35:00Z | RVT is a collection of tools/libraries to support both static and dynamic verification of Rust programs. | https://github.com/project-oak/rust-verification-tools | 101 | 5| 
 
 
 # s2e on Github 推荐
@@ -103,16 +103,16 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20201223T02:40:23Z | TrojanZoo provides a universal pytorch platform to conduct security researches (especially backdoor attacks/defenses) of image classification in deep learning. | https://github.com/ain-soph/trojanzoo | 14 | 3| 
-| 20201223T01:18:13Z | Null | https://github.com/graceyuanruihuang/backdoor_detect | 0 | 2| 
+| 20201223T11:51:06Z | Null | https://github.com/cv1002/SoftwareProjectManagerBackdoor | 1 | 1| 
+| 20201223T09:57:34Z | Pupy is an opensource, cross-platform (Windows, Linux, OSX, Android) remote administration and post-exploitation tool mainly written in python | https://github.com/n1nj4sec/pupy | 6002 | 1551| 
+| 20201223T09:43:15Z | just decodes the strings found in the solarwinds backdoor that fireeye indicated to be used in their compromise 2020 | https://github.com/jamesrep/solardecompress | 0 | 0| 
+| 20201223T06:04:15Z | Null | https://github.com/graceyuanruihuang/backdoor_detect | 0 | 2| 
+| 20201223T04:12:25Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 135 | 19| 
+| 20201223T03:52:58Z | TrojanZoo provides a universal pytorch platform to conduct security researches (especially backdoor attacks/defenses) of image classification in deep learning. | https://github.com/ain-soph/trojanzoo | 15 | 3| 
+| 20201223T03:45:29Z | This repository contains the final project for Machine Learning for Cybersecurity class | https://github.com/abayakturin/ml_cybersec | 0 | 0| 
 | 20201223T00:52:27Z | Defanged version of sunburst backdoor | https://github.com/etlownoise/fakesunburst | 0 | 1| 
 | 20201223T00:38:03Z | Script to decode the DGA algorithm used in the SUNBURST backdoor | https://github.com/Truesec/sunburst-decoder | 3 | 1| 
 | 20201222T22:47:42Z | Injectra injects shellcode payloads into MacOS applications. | https://github.com/Taguar258/injectra | 6 | 3| 
-| 20201222T22:44:37Z | ***COMP3670 FINAL PROJECT*** Trojan horse virus using python. run attacker.py on the attackers pc and main.py on the victims to open a backdoor. | https://github.com/Cosy8/Trojan_Horse_Attack | 1 | 0| 
-| 20201222T22:30:17Z | Null | https://github.com/wcenatus/node-backdoor | 0 | 0| 
-| 20201222T20:52:50Z | This repository contains the final project for Machine Learning for Cybersecurity class | https://github.com/abayakturin/ml_cybersec | 0 | 0| 
-| 20201222T18:34:32Z | Null | https://github.com/cv1002/SoftwareProjectManagerBackdoor | 1 | 1| 
-| 20201222T15:15:21Z | Code for %Biometric Backdoors: A Poisoning Attack Against Unsupervised Template Updating% | https://github.com/ssloxford/biometric-backdoors | 4 | 0| 
 
 
 # fuzz on Github 推荐
