@@ -31,8 +31,8 @@
 | --- | --- | --- | --- | ---| 
 | 20201223T12:17:01Z | cve-2020-17057 | cve-2020-17057 poc | https://github.com/ze0r/cve-2020-17057 | 未查询到CVE信息| 
 | 20201223T10:50:56Z | cve-2020-27949 | Null | https://github.com/seemoo-lab/dtrace-memaccess_cve-2020-27949 | 未查询到CVE信息| 
-| 20201223T08:24:12Z | CVE-2020-1472 | Null | https://github.com/SaharAttackit/CVE-2020-1472 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 56 MINUTES 31 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20201223T05:51:07Z | CVE-2020-17530 | S2-061 的payload，以及对应简单的PoC/Exp | https://github.com/wuzuowei/CVE-2020-17530 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 57 MINUTES 15 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201223T08:24:12Z | CVE-2020-1472 | Null | https://github.com/SaharAttackit/CVE-2020-1472 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 55 MINUTES 34 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201223T05:51:07Z | CVE-2020-17530 | S2-061 的payload，以及对应简单的PoC/Exp | https://github.com/wuzuowei/CVE-2020-17530 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 56 MINUTES 18 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20201223T03:16:21Z | CVE-2020-27935 | SnatchBox (CVE-2020-27935) is a sandbox escape vulnerability and exploit affecting macOS up to version 10.15.x | https://github.com/LIJI32/SnatchBox | 未查询到CVE信息| 
 
 
@@ -80,16 +80,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20201223T03:06:40Z | URL Fuzzing / brute forcing tool, written in dart. | https://github.com/GrayWasTaken/dartbuster | 0 | 0| 
-| 20201223T02:56:43Z | Null | https://github.com/ppermana153/fuzzy-barnacle | 0 | 0| 
-| 20201223T02:55:03Z | OSS-Fuzz - continuous fuzzing of open source software. | https://github.com/google/oss-fuzz | 5748 | 1144| 
-| 20201223T02:51:08Z | Fuzzy matching publications for fatcat (wip). | https://github.com/miku/fuzzycat | 0 | 1| 
-| 20201223T02:42:50Z | VMI Kernel Fuzzer for Xen Project - VM forking, VMI & AFL integration demo | https://github.com/intel/kernel-fuzzer-for-xen-project | 191 | 31| 
-| 20201223T02:03:12Z | Client application for vlog website | https://github.com/waldnont/fuzzy-winner | 0 | 0| 
-| 20201223T01:54:19Z | Project 100-2020 | https://github.com/abenj4404/Fuzzyskull | 0 | 0| 
-| 20201223T01:49:11Z | MQTT service for intent recognition with fuzzywuzzy using the Hermes protocol | https://github.com/rhasspy/rhasspy-fuzzywuzzy-hermes | 0 | 1| 
-| 20201223T01:01:16Z | Generator of random circuits | https://github.com/drom/circt-fuzzer | 1 | 0| 
-| 20201223T00:46:28Z | Fuzzing cryptographic libraries. Magic bug printer go brrrr. | https://github.com/guidovranken/cryptofuzz | 226 | 31| 
+| 20201223T12:32:35Z | OSS-Fuzz - continuous fuzzing of open source software. | https://github.com/google/oss-fuzz | 5751 | 1145| 
+| 20201223T12:19:29Z | a string fuzzy search algorithm implementation | https://github.com/IWANABETHATGUY/fuzzy-search | 0 | 0| 
+| 20201223T12:17:23Z | A Linux Kernel Module that implements a fast snapshot mechanism for fuzzing. | https://github.com/AFLplusplus/AFL-Snapshot-LKM | 94 | 11| 
+| 20201223T12:06:28Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 1198 | 254| 
+| 20201223T11:58:29Z | Fuzzinator Random Testing Framework | https://github.com/renatahodovan/fuzzinator | 164 | 38| 
+| 20201223T11:42:14Z | Collection of quality safety articles | https://github.com/tom0li/collection-document | 1315 | 419| 
+| 20201223T11:33:14Z | Diverse, the Fuzzer pico library you need to make your .NET tests more Diverse | https://github.com/42skillz/Diverse | 6 | 1| 
+| 20201223T11:10:56Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 3284 | 755| 
+| 20201223T11:09:19Z | Utilização da lógica Fuzzy para controle automatizado de sistemas de irrigação- Modelo | https://github.com/EmersonMorgado/Controlador_Fuzzy | 0 | 0| 
+| 20201223T11:08:16Z | Null | https://github.com/Renardjojo/FuzzyLogicForUnity | 0 | 0| 
 
 
 
