@@ -36,25 +36,25 @@
 | 20201223 | Analyzing Cobalt Strike for Fun and Profit | https://www.randhome.io/blog/2020/12/20/analyzing-cobalt-strike-for-fun-and-profit/| 
 | 20201223 | 用DNS进行网络度量和安全分析 | https://mp.weixin.qq.com/s/L_wDNJtznQvrCyx1Kd1SlQ| 
 | 20201223 | SolarWinds失陷服务器测绘分析报告 | https://www.anquanke.com/post/id/226029| 
+| 20201223 | 细说APT之Rootkit自我保护 | https://xz.aliyun.com/t/8675| 
+| 20201223 | 聊聊APT的溯源分析 | https://mp.weixin.qq.com/s/hSnOYoC71z_HIU4PVf4tmw| 
 | 20201222 | 安全技术 , 一次众测实战sql注入绕过 | https://mp.weixin.qq.com/s/9BXMK4mVNKqQiBRkkiEJWg| 
 | 20201222 | 计算机系统研究的一些体会 | https://www.bilibili.com/video/BV1Ap4y167w3?p=1| 
 | 20201221 | HTTP协议攻击方法汇总（下） | https://www.anquanke.com/post/id/225955| 
-| 20201221 | HTTP协议攻击方法汇总（上） | https://www.anquanke.com/post/id/224321| 
-| 20201221 | 如何查找相关人的信息 | https://mp.weixin.qq.com/s/yeuMivJaizmAQAHL1poHTw| 
 
 
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
 | 20201223T13:27:31Z | cve-2020-17057 | cve-2020-17057 poc | https://github.com/ze0r/cve-2020-17057 | 未查询到CVE信息| 
-| 20201223T10:50:56Z | cve-2020-27949 | Null | https://github.com/seemoo-lab/dtrace-memaccess_cve-2020-27949 | | 
-| 20201223T08:24:12Z | CVE-2020-1472 | Null | https://github.com/SaharAttackit/CVE-2020-1472 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 28 MINUTES 28 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20201223T05:51:07Z | CVE-2020-17530 | S2-061 的payload，以及对应简单的PoC/Exp | https://github.com/wuzuowei/CVE-2020-17530 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 28 MINUTES 15 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201223T10:50:56Z | cve-2020-27949 | Null | https://github.com/seemoo-lab/dtrace-memaccess_cve-2020-27949 | 未查询到CVE信息| 
+| 20201223T08:24:12Z | CVE-2020-1472 | Null | https://github.com/SaharAttackit/CVE-2020-1472 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 04 MINUTES 23 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201223T05:51:07Z | CVE-2020-17530 | S2-061 的payload，以及对应简单的PoC/Exp | https://github.com/wuzuowei/CVE-2020-17530 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 04 MINUTES 09 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20201223T03:16:21Z | CVE-2020-27935 | SnatchBox (CVE-2020-27935) is a sandbox escape vulnerability and exploit affecting macOS up to version 10.15.x | https://github.com/LIJI32/SnatchBox | 未查询到CVE信息| 
 | 20201222T16:04:03Z | cve-2020-8554 | Prisma Cloud Compute Admission rules to mitigate Kubernetes CVE-2020-8554 | https://github.com/twistlock/k8s-cve-2020-8554-mitigations | 未查询到CVE信息| 
-| 20201222T15:27:53Z | CVE-2020-17530 | S2-061 CVE-2020-17530 | https://github.com/Al1ex/CVE-2020-17530 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 28 MINUTES 16 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20201222T09:53:32Z | CVE-2020-27663 | Proof of Concept (PoC) for CVE-2020-27663. | https://github.com/indevi0us/CVE-2020-27663 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 28 MINUTES 27 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20201222T09:52:27Z | CVE-2020-27662 | Proof of Concept (PoC) for CVE-2020-27662. | https://github.com/indevi0us/CVE-2020-27662 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 28 MINUTES 26 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201222T15:27:53Z | CVE-2020-17530 | S2-061 CVE-2020-17530 | https://github.com/Al1ex/CVE-2020-17530 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 04 MINUTES 10 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201222T09:53:32Z | CVE-2020-27663 | Proof of Concept (PoC) for CVE-2020-27663. | https://github.com/indevi0us/CVE-2020-27663 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 04 MINUTES 22 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201222T09:52:27Z | CVE-2020-27662 | Proof of Concept (PoC) for CVE-2020-27662. | https://github.com/indevi0us/CVE-2020-27662 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 04 MINUTES 21 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20201222T09:14:36Z | 未知编号 | 2020 OPEN SOURCE SECURITY AND RISK ANALYSIS REPORT , synopsys.com Table of contents Introduction ................................................................................................................................................................................1 Industries represented in the 2020 OSSRA report...................................................................................................................................................................3 2020 Open Source Security and Risk Analysis ........................................................................................................................4 The need for a software bill of materials...................................................................................................................................................................................7 Open source composition of codebases audited in 2019 ..................................................................................................................................................... 7 What open source components are in use? .............................................................................................................................................................................9 Open source rules! But unpatched vulnerabilities still threaten............................................................................................13 Augmenting CVE vulnerability information with BDSAs.......................................................................................................................................................15 Digging deeper into vulnerabilities found in 2019..................................................................................................................................................................15 High-risk vulnerabilities ...............................................................................................................................................................................................................15 Setting vulnerability patching priorities....................................................................................................................................................................................18 Open source license and legal developments in 2019..........................................................................................................20 Open source license risk.............................................................................................................................................................................................................21 Licensing legal developments in 2019.....................................................................................................................................................................................23 Examining license risk in open source components.............................................................................................................................................................25 Open source components with no licenses or custom licenses ........................................................................................................................................26 Operational factors in open source use .................................................................................................................................29 Conclusion................................................................................................................................................................................32 Appendix A .................................................................... | https://github.com/phillip1978W/phill | 未查询到CVE信息| 
 
 
@@ -88,8 +88,9 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20201223T13:26:05Z | Scan & Exploit Windows 7 x86 & x64 (EternalBlue MS17-010) windows/shell_reverse_tcp (Netcat) | https://github.com/d4t4s3c/Win7Blue | 10 | 4| 
-| 20201223T13:09:09Z | Silice is an open source language that simplifies writing algorithms fully exploiting FPGA architectures. | https://github.com/sylefeb/Silice | 377 | 29| 
+| 20201223T13:52:39Z | I created a CTF that was successfully solved by a few people only. The CTF requires understanding of how Flask works in order to exploit a SSTI. | https://github.com/TheSerialiZator/FlaskyCTF-2020 | 0 | 0| 
+| 20201223T13:44:15Z | Silice is an open source language that simplifies writing algorithms fully exploiting FPGA architectures. | https://github.com/sylefeb/Silice | 377 | 29| 
+| 20201223T13:37:28Z | Scan & Exploit Windows 7 x86 & x64 (EternalBlue MS17-010) windows/shell_reverse_tcp (Netcat) | https://github.com/d4t4s3c/Win7Blue | 10 | 4| 
 | 20201223T12:57:41Z | Null | https://github.com/th3ken-dev/TH3KEN-EDITON | 2 | 0| 
 | 20201223T12:49:28Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 6 | 3| 
 | 20201223T12:49:04Z | macos/ios exploit writeup | https://github.com/houjingyi233/macos-ios-exploit-writeup | 9 | 1| 
@@ -97,7 +98,6 @@
 | 20201223T11:35:14Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 8798 | 1391| 
 | 20201223T11:27:15Z | Laravel RCE exploit. CVE-2018-15133 | https://github.com/PwnedShell/Larascript | 1 | 1| 
 | 20201223T11:09:25Z | An IDA Pro plugin to examine the glibc heap, focused on exploit development | https://github.com/danigargu/heap-viewer | 558 | 70| 
-| 20201223T10:46:34Z | nixpkgs aiming for exploiting tools, which may include non-official package or difficult to push to mainstream. | https://github.com/applePrincess/hackpkgs | 1 | 0| 
 
 
 # backdoor on Github 推荐
@@ -118,6 +118,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20201223T13:36:33Z | Null | https://github.com/Rcthapa1996/Fuzzy-Logic | 0 | 0| 
 | 20201223T12:32:35Z | OSS-Fuzz - continuous fuzzing of open source software. | https://github.com/google/oss-fuzz | 5751 | 1145| 
 | 20201223T12:19:29Z | a string fuzzy search algorithm implementation | https://github.com/IWANABETHATGUY/fuzzy-search | 0 | 0| 
 | 20201223T12:17:23Z | A Linux Kernel Module that implements a fast snapshot mechanism for fuzzing. | https://github.com/AFLplusplus/AFL-Snapshot-LKM | 94 | 11| 
@@ -127,7 +128,6 @@
 | 20201223T11:33:14Z | Diverse, the Fuzzer pico library you need to make your .NET tests more Diverse | https://github.com/42skillz/Diverse | 6 | 1| 
 | 20201223T11:10:56Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 3284 | 755| 
 | 20201223T11:09:19Z | Utilização da lógica Fuzzy para controle automatizado de sistemas de irrigação- Modelo | https://github.com/EmersonMorgado/Controlador_Fuzzy | 0 | 0| 
-| 20201223T11:08:16Z | Null | https://github.com/Renardjojo/FuzzyLogicForUnity | 0 | 0| 
 
 
 

@@ -24,15 +24,17 @@
 | 20201223 | Analyzing Cobalt Strike for Fun and Profit | https://www.randhome.io/blog/2020/12/20/analyzing-cobalt-strike-for-fun-and-profit/| 
 | 20201223 | 用DNS进行网络度量和安全分析 | https://mp.weixin.qq.com/s/L_wDNJtznQvrCyx1Kd1SlQ| 
 | 20201223 | SolarWinds失陷服务器测绘分析报告 | https://www.anquanke.com/post/id/226029| 
+| 20201223 | 细说APT之Rootkit自我保护 | https://xz.aliyun.com/t/8675| 
+| 20201223 | 聊聊APT的溯源分析 | https://mp.weixin.qq.com/s/hSnOYoC71z_HIU4PVf4tmw| 
 
 
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
 | 20201223T13:27:31Z | cve-2020-17057 | cve-2020-17057 poc | https://github.com/ze0r/cve-2020-17057 | 未查询到CVE信息| 
-| 20201223T10:50:56Z | cve-2020-27949 | Null | https://github.com/seemoo-lab/dtrace-memaccess_cve-2020-27949 | | 
-| 20201223T08:24:12Z | CVE-2020-1472 | Null | https://github.com/SaharAttackit/CVE-2020-1472 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 28 MINUTES 28 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20201223T05:51:07Z | CVE-2020-17530 | S2-061 的payload，以及对应简单的PoC/Exp | https://github.com/wuzuowei/CVE-2020-17530 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 28 MINUTES 15 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201223T10:50:56Z | cve-2020-27949 | Null | https://github.com/seemoo-lab/dtrace-memaccess_cve-2020-27949 | 未查询到CVE信息| 
+| 20201223T08:24:12Z | CVE-2020-1472 | Null | https://github.com/SaharAttackit/CVE-2020-1472 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 04 MINUTES 23 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201223T05:51:07Z | CVE-2020-17530 | S2-061 的payload，以及对应简单的PoC/Exp | https://github.com/wuzuowei/CVE-2020-17530 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 04 MINUTES 09 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20201223T03:16:21Z | CVE-2020-27935 | SnatchBox (CVE-2020-27935) is a sandbox escape vulnerability and exploit affecting macOS up to version 10.15.x | https://github.com/LIJI32/SnatchBox | 未查询到CVE信息| 
 
 
@@ -51,8 +53,9 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20201223T13:26:05Z | Scan & Exploit Windows 7 x86 & x64 (EternalBlue MS17-010) windows/shell_reverse_tcp (Netcat) | https://github.com/d4t4s3c/Win7Blue | 10 | 4| 
-| 20201223T13:09:09Z | Silice is an open source language that simplifies writing algorithms fully exploiting FPGA architectures. | https://github.com/sylefeb/Silice | 377 | 29| 
+| 20201223T13:52:39Z | I created a CTF that was successfully solved by a few people only. The CTF requires understanding of how Flask works in order to exploit a SSTI. | https://github.com/TheSerialiZator/FlaskyCTF-2020 | 0 | 0| 
+| 20201223T13:44:15Z | Silice is an open source language that simplifies writing algorithms fully exploiting FPGA architectures. | https://github.com/sylefeb/Silice | 377 | 29| 
+| 20201223T13:37:28Z | Scan & Exploit Windows 7 x86 & x64 (EternalBlue MS17-010) windows/shell_reverse_tcp (Netcat) | https://github.com/d4t4s3c/Win7Blue | 10 | 4| 
 | 20201223T12:57:41Z | Null | https://github.com/th3ken-dev/TH3KEN-EDITON | 2 | 0| 
 | 20201223T12:49:28Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 6 | 3| 
 | 20201223T12:49:04Z | macos/ios exploit writeup | https://github.com/houjingyi233/macos-ios-exploit-writeup | 9 | 1| 
@@ -60,7 +63,6 @@
 | 20201223T11:35:14Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 8798 | 1391| 
 | 20201223T11:27:15Z | Laravel RCE exploit. CVE-2018-15133 | https://github.com/PwnedShell/Larascript | 1 | 1| 
 | 20201223T11:09:25Z | An IDA Pro plugin to examine the glibc heap, focused on exploit development | https://github.com/danigargu/heap-viewer | 558 | 70| 
-| 20201223T10:46:34Z | nixpkgs aiming for exploiting tools, which may include non-official package or difficult to push to mainstream. | https://github.com/applePrincess/hackpkgs | 1 | 0| 
 
 
 # backdoor on Github 推荐
@@ -81,6 +83,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20201223T13:36:33Z | Null | https://github.com/Rcthapa1996/Fuzzy-Logic | 0 | 0| 
 | 20201223T12:32:35Z | OSS-Fuzz - continuous fuzzing of open source software. | https://github.com/google/oss-fuzz | 5751 | 1145| 
 | 20201223T12:19:29Z | a string fuzzy search algorithm implementation | https://github.com/IWANABETHATGUY/fuzzy-search | 0 | 0| 
 | 20201223T12:17:23Z | A Linux Kernel Module that implements a fast snapshot mechanism for fuzzing. | https://github.com/AFLplusplus/AFL-Snapshot-LKM | 94 | 11| 
@@ -90,7 +93,6 @@
 | 20201223T11:33:14Z | Diverse, the Fuzzer pico library you need to make your .NET tests more Diverse | https://github.com/42skillz/Diverse | 6 | 1| 
 | 20201223T11:10:56Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 3284 | 755| 
 | 20201223T11:09:19Z | Utilização da lógica Fuzzy para controle automatizado de sistemas de irrigação- Modelo | https://github.com/EmersonMorgado/Controlador_Fuzzy | 0 | 0| 
-| 20201223T11:08:16Z | Null | https://github.com/Renardjojo/FuzzyLogicForUnity | 0 | 0| 
 
 
 
