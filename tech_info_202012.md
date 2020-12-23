@@ -11,6 +11,7 @@
 | 20201222 | Reading and writing memory of other processes using fasttrap | https://github.com/seemoo-lab/dtrace-memaccess_cve-2020-27949| 
 | 20201222 | NCCGroup 对多款智能门铃 IoT 设备的安全分析报告 | https://research.nccgroup.com/2020/12/18/domestic-iot-nightmares-smart-doorbells/| 
 | 20201222 | 前端开发者学习资源。 | https://github.com/ddzy/fe-necessary-book| 
+| 20201222 | HAWK 工具项目。该工具为安全人员快速分析收集数据工具。 | https://github.com/T0pCyber/hawk| 
 | 20201221 | Keeping your GitHub Actions and workflows secure: Preventing pwn requests | https://sec.today/login/?next=/user/pulses_push/%3Fkeywords%3Dsearch%252Fgithub-actions-preventing-pwn-requests| 
 | 20201221 | Bypassing Windows SmartScreen | https://www.gironsec.com/blog/2020/12/bypassing-windows-smartscreen/| 
 | 20201221 | 多位新闻记者的手机被 NSO 组织的 iMessage 0Day Exploit 攻击 | https://citizenlab.ca/2020/12/the-great-ipwn-journalists-hacked-with-suspected-nso-group-imessage-zero-click-exploit/| 
@@ -25,7 +26,6 @@
 | 20201221 | Project Zero 研究员 Brandon Azad 从 iOS 角度看待 Android Kernel Exploit 的 Blog | https://googleprojectzero.blogspot.com/2020/12/an-ios-hacker-tries-android.html| 
 | 20201220 | GNU Readline 堆溢出漏洞分析 | https://insinuator.net/2020/12/root-cause-analysis-of-a-heap-based-buffer-overflow-in-gnu-readline/| 
 | 20201220 | CVE-2020-17057 Microsoft Windows DirectComposition Uninitialized Pointer Privilege Escalation Vulnerability | https://blogs.360.cn/post/CVE-2020-17057%20detail%20and%20exploit.html| 
-| 20201217 | SharePoint CVE-2020-1444 TOCTOU RCE 漏洞分析 | https://mp.weixin.qq.com/s/ZLSFXUoNNAFxqeiD9RpYZg| 
 
 
 # 安全维基 推荐
@@ -46,37 +46,37 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20201222T12:32:20Z | CVE-2020-17530 | S2-061 的payload，以及对应简单的PoC/Exp | https://github.com/wuzuowei/CVE-2020-17530 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  09 HOURS 20 MINUTES 06 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20201222T09:53:32Z | CVE-2020-27663 | Proof of Concept (PoC) for CVE-2020-27663. | https://github.com/indevi0us/CVE-2020-27663 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  09 HOURS 20 MINUTES 19 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20201222T09:52:27Z | CVE-2020-27662 | Proof of Concept (PoC) for CVE-2020-27662. | https://github.com/indevi0us/CVE-2020-27662 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  09 HOURS 20 MINUTES 17 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20201222T09:14:36Z | 未知编号 | 2020 OPEN SOURCE SECURITY AND RISK ANALYSIS REPORT , synopsys.com Table of contents Introduction ................................................................................................................................................................................1 Industries represented in the 2020 OSSRA report...................................................................................................................................................................3 2020 Open Source Security and Risk Analysis ........................................................................................................................4 The need for a software bill of materials...................................................................................................................................................................................7 Open source composition of codebases audited in 2019 ..................................................................................................................................................... 7 What open source components are in use? .............................................................................................................................................................................9 Open source rules! But unpatched vulnerabilities still threaten............................................................................................13 Augmenting CVE vulnerability information with BDSAs.......................................................................................................................................................15 Digging deeper into vulnerabilities found in 2019..................................................................................................................................................................15 High-risk vulnerabilities ...............................................................................................................................................................................................................15 Setting vulnerability patching priorities....................................................................................................................................................................................18 Open source license and legal developments in 2019..........................................................................................................20 Open source license risk.............................................................................................................................................................................................................21 Licensing legal developments in 2019.....................................................................................................................................................................................23 Examining license risk in open source components.............................................................................................................................................................25 Open source components with no licenses or custom licenses ........................................................................................................................................26 Operational factors in open source use .................................................................................................................................29 Conclusion................................................................................................................................................................................32 Appendix A .................................................................... | https://github.com/phillip1978W/phill | | 
-| 20201222T07:50:51Z | cve-2020-27949 | Null | https://github.com/seemoo-lab/dtrace-memaccess_cve-2020-27949 | 未查询到CVE信息| 
-| 20201222T07:18:29Z | CVE-2020-25213 | Null | https://github.com/forse01/CVE-2020-25213 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  09 HOURS 20 MINUTES 12 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201223T00:36:13Z | CVE-2020-17530 | S2-061 的payload，以及对应简单的PoC/Exp | https://github.com/wuzuowei/CVE-2020-17530 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 59 MINUTES 09 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201223T00:31:49Z | cve-2020-27949 | Null | https://github.com/seemoo-lab/dtrace-memaccess_cve-2020-27949 | 未查询到CVE信息| 
+| 20201222T16:04:03Z | cve-2020-8554 | Prisma Cloud Compute Admission rules to mitigate Kubernetes CVE-2020-8554 | https://github.com/twistlock/k8s-cve-2020-8554-mitigations | 未查询到CVE信息| 
+| 20201222T15:27:53Z | CVE-2020-17530 | S2-061 CVE-2020-17530 | https://github.com/Al1ex/CVE-2020-17530 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 59 MINUTES 10 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201222T09:53:32Z | CVE-2020-27663 | Proof of Concept (PoC) for CVE-2020-27663. | https://github.com/indevi0us/CVE-2020-27663 | 在9.5.3之前的GLPI中，ajax / getDropdownValue.php具有不安全的直接对象引用（IDOR）漏洞，该漏洞使攻击者可以从任何itemType（例如Ticket，Users等）读取数据。| 
+| 20201222T09:52:27Z | CVE-2020-27662 | Proof of Concept (PoC) for CVE-2020-27662. | https://github.com/indevi0us/CVE-2020-27662 | 在9.5.3之前的GLPI中，ajax / comments.php具有不安全的直接对象引用（IDOR）漏洞，攻击者可以利用该漏洞从任何数据库表（例如glpi_tickets，glpi_users等）读取数据。| 
+| 20201222T09:14:36Z | 未知编号 | 2020 OPEN SOURCE SECURITY AND RISK ANALYSIS REPORT , synopsys.com Table of contents Introduction ................................................................................................................................................................................1 Industries represented in the 2020 OSSRA report...................................................................................................................................................................3 2020 Open Source Security and Risk Analysis ........................................................................................................................4 The need for a software bill of materials...................................................................................................................................................................................7 Open source composition of codebases audited in 2019 ..................................................................................................................................................... 7 What open source components are in use? .............................................................................................................................................................................9 Open source rules! But unpatched vulnerabilities still threaten............................................................................................13 Augmenting CVE vulnerability information with BDSAs.......................................................................................................................................................15 Digging deeper into vulnerabilities found in 2019..................................................................................................................................................................15 High-risk vulnerabilities ...............................................................................................................................................................................................................15 Setting vulnerability patching priorities....................................................................................................................................................................................18 Open source license and legal developments in 2019..........................................................................................................20 Open source license risk.............................................................................................................................................................................................................21 Licensing legal developments in 2019.....................................................................................................................................................................................23 Examining license risk in open source components.............................................................................................................................................................25 Open source components with no licenses or custom licenses ........................................................................................................................................26 Operational factors in open source use .................................................................................................................................29 Conclusion................................................................................................................................................................................32 Appendix A .................................................................... | https://github.com/phillip1978W/phill | 未查询到CVE信息| 
+| 20201222T07:18:29Z | CVE-2020-25213 | Null | https://github.com/forse01/CVE-2020-25213 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 59 MINUTES 15 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20201222T05:31:05Z | CVE-2020-29156 | woocommerce wordpress plugin - Affected Version: V 4.5.2 [CVE-2020-29156] | https://github.com/Ko-kn3t/CVE-2020-29156 | 未查询到CVE信息| 
-| 20201222T03:30:18Z | CVE-2020-13942 | CVE-2020-13942 Apache Unomi 远程代码执行漏洞脚getshell | https://github.com/yaunsky/Unomi-CVE-2020-13942 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  09 HOURS 20 MINUTES 16 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20201221T19:50:24Z | cve-2020-8554 | Prisma Cloud Compute Admission rules to mitigate Kubernetes CVE-2020-8554 | https://github.com/twistlock/k8s-cve-2020-8554-mitigations | 未查询到CVE信息| 
-| 20201221T12:48:51Z | CVE-2020-13942 | CVE-2020-13942 unauthenticated RCE POC through MVEL and OGNL injection | https://github.com/eugenebmx/CVE-2020-13942 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  09 HOURS 20 MINUTES 04 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201222T03:30:18Z | CVE-2020-13942 | CVE-2020-13942 Apache Unomi 远程代码执行漏洞脚getshell | https://github.com/yaunsky/Unomi-CVE-2020-13942 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 59 MINUTES 20 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20201222T17:18:15Z | Null | https://github.com/thierry-tct/KLEE-SEMu | 1 | 0| 
+| 20201222T15:26:32Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1585 | 477| 
 | 20201222T13:43:18Z | Null | https://github.com/viktorfrom/klee_tutorial | 0 | 0| 
 | 20201222T07:48:08Z | Null | https://github.com/DonaldKLee/DonaldKLee | 0 | 0| 
-| 20201222T04:50:52Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1584 | 477| 
 | 20201222T04:22:01Z | Create CFGs and compute complexity metrics for Python, C++, and Java code. | https://github.com/hmc-alpaqa/metrinome | 5 | 0| 
 | 20201221T19:32:09Z | Null | https://github.com/morlap/kleebergfestival | 0 | 0| 
 | 20201221T15:35:29Z | Null | https://github.com/ZJTAN97/KleenTeamSite | 0 | 0| 
 | 20201220T22:08:04Z | Website for Klee Bot | https://github.com/klee-chan/klee-chan.github.io | 0 | 0| 
 | 20201220T22:04:50Z | Null | https://github.com/vichannnnn/klee-chan.github.io | 0 | 0| 
 | 20201218T22:35:00Z | RVT is a collection of tools/libraries to support both static and dynamic verification of Rust programs. | https://github.com/project-oak/rust-verification-tools | 101 | 5| 
-| 20201218T17:47:38Z | KLEE%s version of uClibc | https://github.com/klee/klee-uclibc | 32 | 33| 
 
 
 # s2e on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20201222T08:42:59Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 79 | 22| 
+| 20201222T17:10:07Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 80 | 22| 
 | 20201213T21:27:17Z | Null | https://github.com/sameersaadi/s2e.dev | 0 | 0| 
 | 20201211T15:27:29Z | S2 EXAM | https://github.com/hussnain126/S2exam-sp18-bse-126 | 0 | 0| 
 | 20201211T15:24:26Z | Null | https://github.com/nooraftabcheema/S2exam | 0 | 0| 
@@ -88,46 +88,46 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20201222T14:38:27Z | Download any Guitar Pro file, including %Official% and blocked/removed tabs | https://github.com/noahmaranesi/Ultimate-Guitar-Hack | 1 | 0| 
-| 20201222T14:26:37Z | nixpkgs aiming for exploiting tools, which may include non-official package or difficult to push to mainstream. | https://github.com/applePrincess/hackpkgs | 0 | 0| 
-| 20201222T14:11:31Z | A React component to avoid a security exploit when opening a link in a new tab. | https://github.com/dbudwin/react-secure-link | 0 | 0| 
-| 20201222T14:09:15Z | Null | https://github.com/vishack/Exploit | 0 | 0| 
-| 20201222T14:06:52Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 8789 | 1388| 
-| 20201222T13:48:36Z | Null | https://github.com/Virag007/Exploit | 0 | 0| 
-| 20201222T13:40:23Z | ZetaSploit Framework is a powerful exploitation framework that contains a lot of modules for attacking targets, interacting with targets, exploiting common vulnerabilities and etc. | https://github.com/EntySec/ZetaSploit | 6 | 4| 
-| 20201222T13:22:16Z | A simple Python Exploit to Write Data to Insecure/vulnerable firebase databases! Commonly found inside Mobile Apps. If the owner of the app have set the security rules as true for both %read% & %write% an attacker can probably dump database and write his own data to firebase db. | https://github.com/MuhammadKhizerJaved/Insecure-Firebase-Exploit | 101 | 36| 
-| 20201222T13:22:02Z | Kernel exploitation lab for pwn practice and demo. | https://github.com/yuawn/kernel-exploitation | 7 | 0| 
-| 20201222T13:21:35Z | BruteProxy.py framework for bruteforcing via HTTP/HTTPS requests with looping proxies. | https://github.com/esec-exploits/bruteproxy.py | 1 | 0| 
+| 20201223T00:59:43Z | Null | https://github.com/Catw0rld/Exploit | 1 | 0| 
+| 20201223T00:49:27Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 6 | 3| 
+| 20201223T00:46:01Z | Download any Guitar Pro file, including %Official% and blocked/removed tabs | https://github.com/noahmaranesi/Ultimate-Guitar-Hack | 18 | 0| 
+| 20201223T00:20:05Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 8795 | 1391| 
+| 20201223T00:12:35Z | A series of CTF/hacking challenge solutions for binary exploitation(or pwn)/reverse engineering/vulnerability research/memory corruption(or whatever term you use) | https://github.com/docfate111/binary-exploitation-solution-scripts | 0 | 0| 
+| 20201223T00:11:40Z | Exploit Database binary exploits located in the /sploits directory | https://github.com/offensive-security/exploitdb-bin-sploits | 1360 | 485| 
+| 20201222T23:50:12Z | Plugin to fix exploits and add functionality to anarchy servers | https://github.com/L2X9org/L2X9Core | 11 | 9| 
+| 20201222T23:45:56Z | Collection of tools and techniques for enumeration and exploitation of windows systems, linux systems, and web applications. | https://github.com/EvolvingSysadmin/Penetration-Testing | 1 | 1| 
+| 20201222T23:40:42Z | SSLoth-based remote code execution exploit for the 3DS eShop application | https://github.com/MrNbaYoh/trailerhax | 2 | 0| 
+| 20201222T23:17:30Z | Utilizar macros e VBA do Office para executar programas maliciosos. | https://github.com/joaopedrordepaiva/MacroExploit | 0 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20201222T13:59:12Z | Null | https://github.com/mpandya18/Image_Permutator_For_Backdoor_Generation | 0 | 0| 
-| 20201222T12:16:59Z | Code for %Biometric Backdoors: A Poisoning Attack Against Unsupervised Template Updating% | https://github.com/ssloxford/biometric-backdoors | 4 | 0| 
-| 20201222T11:40:52Z | Null | https://github.com/cv1002/SoftwareProjectManagerBackdoor | 0 | 0| 
-| 20201222T10:42:21Z | Tests for the SuperNova web backdoor | https://github.com/Genbox/NovaDetect | 0 | 0| 
-| 20201222T10:28:53Z | Null | https://github.com/MadsKaiser/backdoor | 0 | 0| 
-| 20201222T09:07:12Z | Hides the sethc.exe backdoor by faking the original window. | https://github.com/PGgamer2/sethc-backdoor-hider | 1 | 3| 
-| 20201222T08:53:37Z | TrojanZoo is a universal pytorch platform for conducting security researches (especially for backdoor attacks/defenses) for image classification in deep learning. | https://github.com/ain-soph/trojanzoo | 13 | 2| 
-| 20201222T08:01:30Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 134 | 19| 
-| 20201222T07:56:39Z | Ro3b - Advance HTTP Botnet  | https://github.com/mathio3/Ro3b-HTTP-botnet | 0 | 0| 
-| 20201222T02:43:19Z | recurrent of Backdoor Attacks to Graph Neural Networks | https://github.com/123SWL/backdoor- | 0 | 0| 
+| 20201223T00:52:27Z | Defanged version of sunburst backdoor | https://github.com/etlownoise/fakesunburst | 0 | 1| 
+| 20201223T00:38:03Z | Script to decode the DGA algorithm used in the SUNBURST backdoor | https://github.com/Truesec/sunburst-decoder | 3 | 1| 
+| 20201222T22:47:42Z | Injectra injects shellcode payloads into MacOS applications. | https://github.com/Taguar258/injectra | 6 | 3| 
+| 20201222T22:44:37Z | ***COMP3670 FINAL PROJECT*** Trojan horse virus using python. run attacker.py on the attackers pc and main.py on the victims to open a backdoor. | https://github.com/Cosy8/Trojan_Horse_Attack | 1 | 0| 
+| 20201222T22:30:17Z | Null | https://github.com/wcenatus/node-backdoor | 0 | 0| 
+| 20201222T21:58:43Z | TrojanZoo is a universal pytorch platform for conducting security researches (especially for backdoor attacks/defenses) for image classification in deep learning. | https://github.com/ain-soph/trojanzoo | 13 | 2| 
+| 20201222T20:52:50Z | This repository contains the final project for Machine Learning for Cybersecurity class | https://github.com/abayakturin/ml_cybersec | 0 | 0| 
+| 20201222T18:34:32Z | Null | https://github.com/cv1002/SoftwareProjectManagerBackdoor | 1 | 1| 
+| 20201222T16:05:17Z | Null | https://github.com/graceyuanruihuang/backdoor_detect | 0 | 2| 
+| 20201222T15:15:21Z | Code for %Biometric Backdoors: A Poisoning Attack Against Unsupervised Template Updating% | https://github.com/ssloxford/biometric-backdoors | 4 | 0| 
 
 
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20201222T14:30:41Z | Null | https://github.com/NicEscobar/Proj_FuzzyPD | 0 | 0| 
-| 20201222T14:18:02Z | Null | https://github.com/fhmanmaul/MATLAB-FOR-FUZZY-DESIGN | 0 | 0| 
-| 20201222T14:01:56Z | Null | https://github.com/pkudlacik/NeuroFuzzy_Lips | 0 | 0| 
-| 20201222T13:58:21Z | Null | https://github.com/mrkaurelius/fuzzykafe | 0 | 0| 
-| 20201222T13:41:16Z | Configurations written for Fuzzinator | https://github.com/renatahodovan/fuzzinator-configs | 8 | 3| 
-| 20201222T13:13:08Z | Fuzzinator Random Testing Framework | https://github.com/renatahodovan/fuzzinator | 164 | 38| 
-| 20201222T12:58:39Z | Null | https://github.com/migunov97/fuzzySearcher | 0 | 0| 
-| 20201222T12:55:34Z | Null | https://github.com/mj-ad/fuzzy-barnacle | 0 | 0| 
-| 20201222T11:57:56Z | Null | https://github.com/fsiody/AI-FuzzyLogic | 0 | 0| 
-| 20201222T11:15:12Z | Repositório para armazenar os arquivos da aplicação da disciplina de embarcados, envolvendo lógica Fuzzy | https://github.com/alexanderaugusto/planta-de-nivel-fuzzy | 0 | 0| 
+| 20201223T01:01:16Z | Generator of random circuits | https://github.com/drom/circt-fuzzer | 1 | 0| 
+| 20201223T00:46:28Z | Fuzzing cryptographic libraries. Magic bug printer go brrrr. | https://github.com/guidovranken/cryptofuzz | 226 | 31| 
+| 20201223T00:35:32Z | VMI Kernel Fuzzer for Xen Project - VM forking, VMI & AFL integration demo | https://github.com/intel/kernel-fuzzer-for-xen-project | 187 | 29| 
+| 20201223T00:20:53Z | Null | https://github.com/dieg0moraes/fuzzer | 0 | 0| 
+| 20201222T23:51:31Z | Fuzzy matching publications for fatcat (wip). | https://github.com/miku/fuzzycat | 0 | 1| 
+| 20201222T23:34:51Z | Null | https://github.com/Sentinel-One/efi_fuzz | 60 | 6| 
+| 20201222T23:01:24Z | Fuzzy search in Dart | https://github.com/comigor/fuzzy | 19 | 9| 
+| 20201222T22:54:55Z | Individual Task | https://github.com/Xesavov/FuzzyLogic | 0 | 0| 
+| 20201222T22:39:21Z | Null | https://github.com/ppermana153/fuzzy-barnacle | 0 | 0| 
+| 20201222T22:33:25Z | OSS-Fuzz - continuous fuzzing of open source software. | https://github.com/google/oss-fuzz | 5746 | 1143| 
 
 
 
