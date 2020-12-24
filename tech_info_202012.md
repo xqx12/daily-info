@@ -47,15 +47,15 @@
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
 | 20201224T12:47:46Z | CVE-2020-17008 | CVE-2020-17008 splWOW64 Elevation of Privilege | https://github.com/jas502n/CVE-2020-17008 | 未查询到CVE信息| 
-| 20201224T11:44:28Z | CVE-2020-17132 | Null | https://github.com/alexfrancow/CVE-2020-17132 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 58 MINUTES 23 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20201224T11:01:04Z | CVE-2020-17144 | Exchange2010 authorized RCE | https://github.com/Airboi/CVE-2020-17144-EXP | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 58 MINUTES 08 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20201224T09:10:21Z | CVE-2020-35489 | Null | https://github.com/dn9uy3n/Check-WP-CVE-2020-35489 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 58 MINUTES 22 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201224T11:44:28Z | CVE-2020-17132 | Null | https://github.com/alexfrancow/CVE-2020-17132 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 17 MINUTES 12 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201224T11:01:04Z | CVE-2020-17144 | Exchange2010 authorized RCE | https://github.com/Airboi/CVE-2020-17144-EXP | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 16 MINUTES 57 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201224T09:10:21Z | CVE-2020-35489 | Null | https://github.com/dn9uy3n/Check-WP-CVE-2020-35489 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 17 MINUTES 11 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20201224T09:02:34Z | CVE-2020-14645 | Weblogic Server CVE-2020-14645 EXP for Python （complete in one step） | https://github.com/Schira4396/CVE-2020-14645 | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
 | 20201224T07:46:20Z | cve-2020-17057 | cve-2020-17057 poc | https://github.com/ze0r/cve-2020-17057 | 未查询到CVE信息| 
 | 20201223T23:27:23Z | CVE-2020-35590 | Brute-force tool for WordPress Plugin Limit Login Attempts Reloaded >=2.13.0 - Login Limit Bypass (CVE-2020-35590) | https://github.com/N4nj0/CVE-2020-35590 | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
-| 20201223T18:23:02Z | CVE-2020-35606 | Webmin Exploit Scanner CVE-2020-35606 CVE-2019-12840 | https://github.com/anasbousselham/webminscan | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 58 MINUTES 19 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201223T18:23:02Z | CVE-2020-35606 | Webmin Exploit Scanner CVE-2020-35606 CVE-2019-12840 | https://github.com/anasbousselham/webminscan | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 17 MINUTES 08 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20201223T10:50:56Z | cve-2020-27949 | Null | https://github.com/seemoo-lab/dtrace-memaccess_cve-2020-27949 | 未查询到CVE信息| 
-| 20201223T08:24:12Z | CVE-2020-1472 | Null | https://github.com/SaharAttackit/CVE-2020-1472 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 58 MINUTES 17 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201223T08:24:12Z | CVE-2020-1472 | Null | https://github.com/SaharAttackit/CVE-2020-1472 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 17 MINUTES 06 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 
 
 # klee on Github 推荐
@@ -88,31 +88,31 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20201224T13:40:44Z | this bash script is for remote linux hosts hacked! | https://github.com/FabioDefilippo/linuxallenum | 8 | 0| 
+| 20201224T13:37:52Z | Silice is an open source language that simplifies writing algorithms fully exploiting FPGA architectures. | https://github.com/sylefeb/Silice | 384 | 29| 
+| 20201224T13:23:36Z | Null | https://github.com/abhinavdwivedi440/binary-exploitation | 0 | 0| 
+| 20201224T13:15:24Z | This package, written in php, can scan PHP files and analyze your project for find malicious code inside it. It provides a text terminal console interface to scan files in a given directory and find PHP code files the seem to contain malicious code. | https://github.com/marcocesarato/PHP-Antimalware-Scanner | 158 | 29| 
 | 20201224T12:49:28Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 6 | 3| 
-| 20201224T12:43:06Z | This package, written in php, can scan PHP files and analyze your project for find malicious code inside it. It provides a text terminal console interface to scan files in a given directory and find PHP code files the seem to contain malicious code. | https://github.com/marcocesarato/PHP-Antimalware-Scanner | 158 | 29| 
 | 20201224T12:35:07Z | A Tool that Finds, Enumerates, and Exploits Reolink Cameras. | https://github.com/spicesouls/reosploit | 3 | 2| 
 | 20201224T12:12:29Z | Vulnerabilities% Risk of Exploitation | https://github.com/thiagofigcosta/V-REx | 0 | 0| 
 | 20201224T11:35:13Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 8803 | 1390| 
 | 20201224T10:58:24Z | TryHackMe CTFs writeups, notes, dratfs, scrabbles, files and solutions. | https://github.com/edoardottt/tryhackme-ctf | 8 | 7| 
 | 20201224T10:58:12Z | Windows Exploit Suggester - Next Generation | https://github.com/bitsadmin/wesng | 2091 | 332| 
-| 20201224T10:47:49Z | The project development aims to interpolate the seawater temperature, salinity three-dimensional structure, and to understand the physical oceanography in the turbulent region Gulf Stream by exploiting the latent regression model and deep regression neural networks. | https://github.com/v18nguye/gulfstream-lrm | 2 | 0| 
-| 20201224T10:47:40Z | linux post-exploitation | https://github.com/jm33-m0/emp3r0r | 31 | 6| 
-| 20201224T10:30:40Z | Discover duplication glitches, abusive staff giving items, x-ray or simply poor server economy. | https://github.com/kangarko/Confiscate | 19 | 4| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20201224T12:55:52Z | Null | https://github.com/cv1002/SoftwareProjectManagerBackdoor | 1 | 3| 
+| 20201224T13:31:14Z | A simple backdoor example using python. | https://github.com/Fabriciooml/py_backdoor | 0 | 0| 
+| 20201224T13:27:30Z | Null | https://github.com/cv1002/SoftwareProjectManagerBackdoor | 1 | 3| 
+| 20201224T13:15:24Z | This package, written in php, can scan PHP files and analyze your project for find malicious code inside it. It provides a text terminal console interface to scan files in a given directory and find PHP code files the seem to contain malicious code. | https://github.com/marcocesarato/PHP-Antimalware-Scanner | 158 | 29| 
+| 20201224T13:06:15Z | This is a repo for the final project of EL-GY-9163 Machine Learning for CyberSecurity | https://github.com/leohu97/EL-GY-9163-Backdoor-Detector | 0 | 0| 
 | 20201224T12:43:18Z | Pupy is an opensource, cross-platform (Windows, Linux, OSX, Android) remote administration and post-exploitation tool mainly written in python | https://github.com/n1nj4sec/pupy | 6005 | 1552| 
-| 20201224T12:43:06Z | This package, written in php, can scan PHP files and analyze your project for find malicious code inside it. It provides a text terminal console interface to scan files in a given directory and find PHP code files the seem to contain malicious code. | https://github.com/marcocesarato/PHP-Antimalware-Scanner | 158 | 29| 
 | 20201224T11:00:17Z | Null | https://github.com/rabbitx1337/backdoor | 0 | 0| 
-| 20201224T07:46:04Z | This is a repo for the final project of EL-GY-9163 Machine Learning for CyberSecurity | https://github.com/leohu97/EL-GY-9163-Backdoor-Detector | 0 | 0| 
 | 20201224T04:51:47Z | Null | https://github.com/graceyuanruihuang/backdoor_detect | 0 | 3| 
 | 20201224T04:37:13Z | backdoor detector for BaNets trained on the YouTube Face dataset | https://github.com/amahavishnua/MLSecurityProject | 0 | 0| 
 | 20201224T04:00:28Z | TrojanZoo provides a universal pytorch platform to conduct security researches (especially backdoor attacks/defenses) of image classification in deep learning. | https://github.com/ain-soph/trojanzoo | 15 | 3| 
 | 20201224T03:55:57Z | Null | https://github.com/Danny-xyy/MLCS_Final_project_backdoor | 0 | 0| 
-| 20201224T02:35:49Z | Null | https://github.com/vishaal-ranjan/Backdoor-Detector | 0 | 0| 
 
 
 # fuzz on Github 推荐
