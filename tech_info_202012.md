@@ -47,15 +47,15 @@
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
 | 20201223T23:27:23Z | CVE-2020-35590 | Brute-force tool for WordPress Plugin Limit Login Attempts Reloaded >=2.13.0 - Login Limit Bypass (CVE-2020-35590) | https://github.com/N4nj0/CVE-2020-35590 | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
-| 20201223T18:23:02Z | CVE-2020-35606 | Webmin Exploit Scanner CVE-2020-35606 CVE-2019-12840 | https://github.com/anasbousselham/webminscan | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 52 MINUTES 29 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201223T18:23:02Z | CVE-2020-35606 | Webmin Exploit Scanner CVE-2020-35606 CVE-2019-12840 | https://github.com/anasbousselham/webminscan | | 
 | 20201223T16:06:02Z | cve-2020-17057 | cve-2020-17057 poc | https://github.com/ze0r/cve-2020-17057 | 未查询到CVE信息| 
 | 20201223T10:50:56Z | cve-2020-27949 | Null | https://github.com/seemoo-lab/dtrace-memaccess_cve-2020-27949 | 未查询到CVE信息| 
-| 20201223T08:24:12Z | CVE-2020-1472 | Null | https://github.com/SaharAttackit/CVE-2020-1472 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 52 MINUTES 27 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20201223T05:51:07Z | CVE-2020-17530 | S2-061 的payload，以及对应简单的PoC/Exp | https://github.com/wuzuowei/CVE-2020-17530 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 52 MINUTES 15 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201223T08:24:12Z | CVE-2020-1472 | Null | https://github.com/SaharAttackit/CVE-2020-1472 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 51 MINUTES 27 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201223T05:51:07Z | CVE-2020-17530 | S2-061 的payload，以及对应简单的PoC/Exp | https://github.com/wuzuowei/CVE-2020-17530 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 51 MINUTES 16 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20201223T03:16:21Z | CVE-2020-27935 | SnatchBox (CVE-2020-27935) is a sandbox escape vulnerability and exploit affecting macOS up to version 10.15.x | https://github.com/LIJI32/SnatchBox | 未查询到CVE信息| 
 | 20201222T16:04:03Z | cve-2020-8554 | Prisma Cloud Compute Admission rules to mitigate Kubernetes CVE-2020-8554 | https://github.com/twistlock/k8s-cve-2020-8554-mitigations | 未查询到CVE信息| 
-| 20201222T15:27:53Z | CVE-2020-17530 | S2-061 CVE-2020-17530 | https://github.com/Al1ex/CVE-2020-17530 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 52 MINUTES 16 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20201222T09:53:32Z | CVE-2020-27663 | Proof of Concept (PoC) for CVE-2020-27663. | https://github.com/indevi0us/CVE-2020-27663 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 52 MINUTES 26 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201222T15:27:53Z | CVE-2020-17530 | S2-061 CVE-2020-17530 | https://github.com/Al1ex/CVE-2020-17530 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 51 MINUTES 17 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201222T09:53:32Z | CVE-2020-27663 | Proof of Concept (PoC) for CVE-2020-27663. | https://github.com/indevi0us/CVE-2020-27663 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 51 MINUTES 26 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 
 
 # klee on Github 推荐
@@ -103,8 +103,8 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20201224T02:04:32Z | backdoor detector for BaNets trained on the YouTube Face dataset | https://github.com/amahavishnua/MLSecurityProject | 0 | 0| 
-| 20201224T01:48:28Z | YouTube Face Dataset Backdoor Detection | https://github.com/rishiraj824/YouTube-FaceDataSet-Backdoor-Detection | 0 | 0| 
+| 20201224T02:08:35Z | YouTube Face Dataset Backdoor Detection | https://github.com/rishiraj824/YouTube-FaceDataSet-Backdoor-Detection | 0 | 0| 
+| 20201224T02:07:37Z | backdoor detector for BaNets trained on the YouTube Face dataset | https://github.com/amahavishnua/MLSecurityProject | 0 | 0| 
 | 20201224T00:24:21Z | Pupy is an opensource, cross-platform (Windows, Linux, OSX, Android) remote administration and post-exploitation tool mainly written in python | https://github.com/n1nj4sec/pupy | 6001 | 1552| 
 | 20201224T00:09:36Z | Null | https://github.com/Danny-xyy/MLCS_Final_project_backdoor | 0 | 0| 
 | 20201223T23:11:58Z | Null | https://github.com/GusSand/ML-BackDoor-Detector | 1 | 0| 
