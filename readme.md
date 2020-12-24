@@ -31,18 +31,21 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20201223T14:02:27Z | cve-2020-17057 | cve-2020-17057 poc | https://github.com/ze0r/cve-2020-17057 | 未查询到CVE信息| 
-| 20201223T10:50:56Z | cve-2020-27949 | Null | https://github.com/seemoo-lab/dtrace-memaccess_cve-2020-27949 | 未查询到CVE信息| 
-| 20201223T08:24:12Z | CVE-2020-1472 | Null | https://github.com/SaharAttackit/CVE-2020-1472 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  09 HOURS 41 MINUTES 28 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20201223T05:51:07Z | CVE-2020-17530 | S2-061 的payload，以及对应简单的PoC/Exp | https://github.com/wuzuowei/CVE-2020-17530 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  09 HOURS 41 MINUTES 17 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201223T23:27:23Z | CVE-2020-35590 | Brute-force tool for WordPress Plugin Limit Login Attempts Reloaded >=2.13.0 - Login Limit Bypass (CVE-2020-35590) | https://github.com/N4nj0/CVE-2020-35590 | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
+| 20201223T18:23:02Z | CVE-2020-35606 | Webmin Exploit Scanner CVE-2020-35606 CVE-2019-12840 | https://github.com/anasbousselham/webminscan | 在Webmin中，通过1.962可以执行任意命令。被软件包更新模块授权的任何用户都可以通过涉及％0A和％0C的向量以root特权执行任意命令。注意：由于CVE-2019-12840的修复不完整，所以存在此问题。| 
+| 20201223T16:06:02Z | cve-2020-17057 | cve-2020-17057 poc | https://github.com/ze0r/cve-2020-17057 | 未查询到CVE信息| 
+| 20201223T10:50:56Z | cve-2020-27949 | Null | https://github.com/seemoo-lab/dtrace-memaccess_cve-2020-27949 | | 
+| 20201223T08:24:12Z | CVE-2020-1472 | Null | https://github.com/SaharAttackit/CVE-2020-1472 | 当攻击者使用Netlogon远程协议（MS-NRPC）（又称为“ Netlogon特权提升漏洞”）建立与域控制器的易受攻击的Netlogon安全通道连接时，将存在特权提升漏洞。| 
+| 20201223T05:51:07Z | CVE-2020-17530 | S2-061 的payload，以及对应简单的PoC/Exp | https://github.com/wuzuowei/CVE-2020-17530 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 59 MINUTES 11 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20201223T03:16:21Z | CVE-2020-27935 | SnatchBox (CVE-2020-27935) is a sandbox escape vulnerability and exploit affecting macOS up to version 10.15.x | https://github.com/LIJI32/SnatchBox | 未查询到CVE信息| 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20201223T22:01:43Z | Create CFGs and compute complexity metrics for Python, C++, and Java code. | https://github.com/hmc-alpaqa/metrinome | 5 | 0| 
+| 20201223T16:04:32Z | Null | https://github.com/viktorfrom/klee_tutorial | 0 | 0| 
 | 20201223T12:12:12Z | Null | https://github.com/markhakansson/klee-tutorial | 0 | 0| 
-| 20201223T11:57:04Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1586 | 476| 
 
 
 # s2e on Github 推荐
@@ -53,46 +56,46 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20201223T14:17:19Z | Search for Unix binaries that can be exploited to bypass system security restrictions. | https://github.com/t0thkr1s/gtfo | 69 | 13| 
-| 20201223T14:12:35Z | k8gege.org - K8哥哥%s Blog | https://github.com/k8gege/k8gege.github.io | 11 | 6| 
-| 20201223T13:59:53Z | I created a CTF that was successfully solved by a few people only. The CTF requires understanding of how Flask works in order to exploit a SSTI. | https://github.com/TheSerialiZator/FlaskyCTF-2020 | 0 | 0| 
-| 20201223T13:58:49Z | PS4 Exploit list | https://github.com/Hakkuraifu/PS4xploit | 12 | 5| 
-| 20201223T13:57:12Z | hack tool to visual assist(visual sutdio extension) | https://github.com/c-liang/visual-assist-exploit | 0 | 0| 
-| 20201223T13:56:15Z | Scan & Exploit Windows 7 x86 & x64 (EternalBlue MS17-010) windows/shell_reverse_tcp (Netcat) | https://github.com/d4t4s3c/Win7Blue | 10 | 4| 
-| 20201223T13:54:59Z | Silice is an open source language that simplifies writing algorithms fully exploiting FPGA architectures. | https://github.com/sylefeb/Silice | 377 | 29| 
-| 20201223T12:57:41Z | Null | https://github.com/th3ken-dev/TH3KEN-EDITON | 2 | 0| 
-| 20201223T12:49:28Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 6 | 3| 
-| 20201223T12:49:04Z | macos/ios exploit writeup | https://github.com/houjingyi233/macos-ios-exploit-writeup | 9 | 1| 
+| 20201223T23:50:40Z | This is a jab at solving the Santander transaction prediction problem posted on Kaggle. A challenge here was that all the 250 dimesnsions in the dataset had the same variance, hence reducing dimensionality wasn%t an option. Kagglers found a %trick% in this dataset and were able to exploit it and add more feature yielding very high accuracy. In this notebook I make a simple attempt to use Gradient boosting with a bit of hyper parameter tuning to achieve an accuracy of  | https://github.com/krishmaniar95/Santander-Transactions-Prediction | 0 | 0| 
+| 20201223T23:22:20Z | TryHackMe CTFs writeups, notes, dratfs, scrabbles, files and solutions. | https://github.com/edoardottt/tryhackme-ctf | 8 | 7| 
+| 20201223T23:16:46Z | A Tool that Finds, Enumerates, and Exploits Reolink Cameras. | https://github.com/spicesouls/reosploit | 2 | 1| 
+| 20201223T22:34:48Z | windows and linux streams for post exploitation | https://github.com/kymb0/post_exploitation | 1 | 0| 
+| 20201223T22:33:06Z | CTF framework and exploit development library | https://github.com/Gallopsled/pwntools | 7361 | 1332| 
+| 20201223T22:32:01Z | Just some scripts for some games that I made or stolen. | https://github.com/Aethese/roblox-exploits | 0 | 0| 
+| 20201223T22:28:06Z | I put together a pack of exploits I used to mine monero XMR until I got banned so decided to release them. | https://github.com/j0nm/Exploit-Pack | 0 | 0| 
+| 20201223T22:25:35Z | Notes and code form going through the book hacking the art of exploitation by Jon Erickson (No Relation) | https://github.com/ericsson-james/Hacking-TAOE | 0 | 0| 
+| 20201223T22:23:33Z | Hacking challenges write-ups | https://github.com/andrewbae/playground | 1 | 1| 
+| 20201223T22:09:05Z | This bash script will help you to hack remote hosts  | https://github.com/FabioDefilippo/linuxallremote | 2 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20201223T13:06:18Z | This Is A Where You can backdoor apk or create a lsitener or make payloads | https://github.com/PatanMusthakheemKhan/Evil-Droid | 0 | 0| 
-| 20201223T11:51:06Z | Null | https://github.com/cv1002/SoftwareProjectManagerBackdoor | 1 | 1| 
-| 20201223T09:57:34Z | Pupy is an opensource, cross-platform (Windows, Linux, OSX, Android) remote administration and post-exploitation tool mainly written in python | https://github.com/n1nj4sec/pupy | 6002 | 1551| 
-| 20201223T09:43:15Z | just decodes the strings found in the solarwinds backdoor that fireeye indicated to be used in their compromise 2020 | https://github.com/jamesrep/solardecompress | 0 | 0| 
-| 20201223T06:04:15Z | Null | https://github.com/graceyuanruihuang/backdoor_detect | 0 | 2| 
-| 20201223T04:12:25Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 135 | 19| 
-| 20201223T03:52:58Z | TrojanZoo provides a universal pytorch platform to conduct security researches (especially backdoor attacks/defenses) of image classification in deep learning. | https://github.com/ain-soph/trojanzoo | 15 | 3| 
-| 20201223T03:45:29Z | This repository contains the final project for Machine Learning for Cybersecurity class | https://github.com/abayakturin/ml_cybersec | 0 | 0| 
-| 20201223T00:52:27Z | Defanged version of sunburst backdoor | https://github.com/etlownoise/fakesunburst | 0 | 1| 
-| 20201223T00:38:03Z | Script to decode the DGA algorithm used in the SUNBURST backdoor | https://github.com/Truesec/sunburst-decoder | 3 | 1| 
+| 20201223T23:11:58Z | Null | https://github.com/GusSand/ML-BackDoor-Detector | 1 | 0| 
+| 20201223T22:54:31Z | Null | https://github.com/vishaal-ranjan/Backdoor-Detector | 0 | 0| 
+| 20201223T22:28:36Z | Null | https://github.com/wcenatus/node-backdoor | 0 | 0| 
+| 20201223T17:26:08Z | Script to decode the DGA algorithm used in the SUNBURST backdoor | https://github.com/Truesec/sunburst-decoder | 4 | 1| 
+| 20201223T17:24:09Z | Python backdoor exercise | https://github.com/jukajes/python_backdoor | 0 | 0| 
+| 20201223T16:05:43Z | PCI Express DIY hacking toolkit for Xilinx SP605 | https://github.com/Cr4sh/s6_pcie_microblaze | 293 | 75| 
+| 20201223T15:40:20Z | Hide your payload into .jpg file | https://github.com/kennedy69/ImgBackdoor | 35 | 17| 
+| 20201223T15:24:52Z | Code for %Biometric Backdoors: A Poisoning Attack Against Unsupervised Template Updating% | https://github.com/ssloxford/biometric-backdoors | 5 | 0| 
+| 20201223T14:31:30Z | This repository contains the final project for Machine Learning for Cybersecurity class | https://github.com/abayakturin/ml_cybersec | 0 | 0| 
+| 20201223T14:29:48Z | Null | https://github.com/cv1002/SoftwareProjectManagerBackdoor | 1 | 1| 
 
 
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20201223T14:05:17Z | Web Fuzzer | https://github.com/Ph3nX-Z/Shuriken | 0 | 0| 
-| 20201223T14:02:54Z | Collection of quality safety articles | https://github.com/tom0li/collection-document | 1316 | 419| 
-| 20201223T13:59:01Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 1198 | 254| 
-| 20201223T13:57:28Z | Potentially dangerous files | https://github.com/Bo0oM/fuzz.txt | 1327 | 249| 
-| 20201223T13:40:45Z | Null | https://github.com/Rcthapa1996/Fuzzy-Logic | 0 | 0| 
-| 20201223T12:32:35Z | OSS-Fuzz - continuous fuzzing of open source software. | https://github.com/google/oss-fuzz | 5751 | 1145| 
-| 20201223T12:19:29Z | a string fuzzy search algorithm implementation | https://github.com/IWANABETHATGUY/fuzzy-search | 0 | 0| 
-| 20201223T12:17:23Z | A Linux Kernel Module that implements a fast snapshot mechanism for fuzzing. | https://github.com/AFLplusplus/AFL-Snapshot-LKM | 94 | 11| 
-| 20201223T11:58:29Z | Fuzzinator Random Testing Framework | https://github.com/renatahodovan/fuzzinator | 164 | 38| 
-| 20201223T11:33:14Z | Diverse, the Fuzzer pico library you need to make your .NET tests more Diverse | https://github.com/42skillz/Diverse | 6 | 1| 
+| 20201223T23:53:23Z | FuzzBench - Fuzzer benchmarking as a service. | https://github.com/google/fuzzbench | 567 | 91| 
+| 20201223T23:39:16Z | Fuzzing cryptographic libraries. Magic bug printer go brrrr. | https://github.com/guidovranken/cryptofuzz | 226 | 31| 
+| 20201223T23:28:47Z | Fuzzy matching publications for fatcat (wip). | https://github.com/miku/fuzzycat | 0 | 1| 
+| 20201223T23:15:40Z | Null | https://github.com/matusf/open-api-fuzzer | 0 | 0| 
+| 20201223T22:22:32Z | Apple SMC (System Management Controller) API fuzzer | https://github.com/theopolis/smc-fuzzer | 59 | 10| 
+| 20201223T21:56:33Z | Null | https://github.com/mortepau/fuzzyfinder-elixir | 0 | 0| 
+| 20201223T21:23:24Z | Null | https://github.com/r5vd/fuzzy-sniffle | 0 | 0| 
+| 20201223T21:21:47Z | Null | https://github.com/r5vd/fuzzy-meme | 0 | 0| 
+| 20201223T20:53:52Z | Diverse, the Fuzzer pico library you need to make your .NET tests more Diverse | https://github.com/42skillz/Diverse | 6 | 1| 
+| 20201223T20:16:42Z | Web Fuzzer | https://github.com/Ph3nX-Z/Shuriken | 0 | 0| 
 
 
 
