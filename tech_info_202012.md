@@ -47,15 +47,15 @@
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
 | 20201223T23:27:23Z | CVE-2020-35590 | Brute-force tool for WordPress Plugin Limit Login Attempts Reloaded >=2.13.0 - Login Limit Bypass (CVE-2020-35590) | https://github.com/N4nj0/CVE-2020-35590 | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
-| 20201223T18:23:02Z | CVE-2020-35606 | Webmin Exploit Scanner CVE-2020-35606 CVE-2019-12840 | https://github.com/anasbousselham/webminscan | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 46 MINUTES 27 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20201223T16:06:02Z | cve-2020-17057 | cve-2020-17057 poc | https://github.com/ze0r/cve-2020-17057 | 未查询到CVE信息| 
+| 20201223T18:23:02Z | CVE-2020-35606 | Webmin Exploit Scanner CVE-2020-35606 CVE-2019-12840 | https://github.com/anasbousselham/webminscan | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 44 MINUTES 26 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201223T16:06:02Z | cve-2020-17057 | cve-2020-17057 poc | https://github.com/ze0r/cve-2020-17057 | | 
 | 20201223T10:50:56Z | cve-2020-27949 | Null | https://github.com/seemoo-lab/dtrace-memaccess_cve-2020-27949 | 未查询到CVE信息| 
-| 20201223T08:24:12Z | CVE-2020-1472 | Null | https://github.com/SaharAttackit/CVE-2020-1472 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 46 MINUTES 25 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20201223T05:51:07Z | CVE-2020-17530 | S2-061 的payload，以及对应简单的PoC/Exp | https://github.com/wuzuowei/CVE-2020-17530 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 46 MINUTES 13 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201223T08:24:12Z | CVE-2020-1472 | Null | https://github.com/SaharAttackit/CVE-2020-1472 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 44 MINUTES 24 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201223T05:51:07Z | CVE-2020-17530 | S2-061 的payload，以及对应简单的PoC/Exp | https://github.com/wuzuowei/CVE-2020-17530 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 44 MINUTES 12 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20201223T03:16:21Z | CVE-2020-27935 | SnatchBox (CVE-2020-27935) is a sandbox escape vulnerability and exploit affecting macOS up to version 10.15.x | https://github.com/LIJI32/SnatchBox | 未查询到CVE信息| 
 | 20201222T16:04:03Z | cve-2020-8554 | Prisma Cloud Compute Admission rules to mitigate Kubernetes CVE-2020-8554 | https://github.com/twistlock/k8s-cve-2020-8554-mitigations | 未查询到CVE信息| 
-| 20201222T15:27:53Z | CVE-2020-17530 | S2-061 CVE-2020-17530 | https://github.com/Al1ex/CVE-2020-17530 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 46 MINUTES 14 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20201222T09:53:32Z | CVE-2020-27663 | Proof of Concept (PoC) for CVE-2020-27663. | https://github.com/indevi0us/CVE-2020-27663 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 46 MINUTES 24 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201222T15:27:53Z | CVE-2020-17530 | S2-061 CVE-2020-17530 | https://github.com/Al1ex/CVE-2020-17530 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 44 MINUTES 13 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201222T09:53:32Z | CVE-2020-27663 | Proof of Concept (PoC) for CVE-2020-27663. | https://github.com/indevi0us/CVE-2020-27663 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 44 MINUTES 23 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 
 
 # klee on Github 推荐
@@ -88,12 +88,12 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20201224T01:14:36Z | Docker container that has all the CLI tooling for binary exploitation (thanks to @LiveOverflow) | https://github.com/sogonsec/docker-binaryexploitation | 5 | 0| 
 | 20201224T01:13:43Z | Next-Generation Linux Kernel Exploit Suggester | https://github.com/jondonas/linux-exploit-suggester-2 | 917 | 173| 
 | 20201224T01:11:30Z | The best and most Simple ROBLOX exploiting scripts | https://github.com/UbicastDev/Simple-Scripts | 0 | 0| 
 | 20201224T00:49:27Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 6 | 3| 
 | 20201224T00:37:54Z | Used to find the email of any user on TypeRacer | https://github.com/deadly/typeracer-email-exploit | 0 | 0| 
 | 20201224T00:08:18Z | The purpose and the objective of this research project is to detect of DoS attack using Machine Learning which will address the research question provided as “To detect Denial of Service attack using Machine Learning in an efficient way and to compare with the other used Machine Learning algorithm”. The type of DoS attack discussed in this research project is UDP flood attack, TCP-SYN attack and ICMP flood attack. UDP flood attack is a type of a DoS attack in which the targeted server or client is sent a large number of User Datagram Protocol (UDP) packets with the aim of device inability to process and respond to request. TCP-SYN attack is a type of DoS attack in which the attacker exploits the three-way handshake that a TCP-SYN requests make with the server, the attacker sends repeated SYN requests to server making the server unresponsive to legitimate traffic. ICMP flood attack is a type of attack in which the targeted system is flooded with ICMP echo-requests which cause the system inaccessible to normal traffic. The Machine Learning algorithm that is discussed in this research project is Logistic Regression, Decision Tree, Multi-Layer Perceptron, K Nearest Neighbors and Light Gradient Boosting Machine. The research project emphasis on the use of Light Gradient Boosting Machine algorithm for an efficient detection of DoS attack. Light Gradient Boosting Machine model has a faster processing with high efficiency, requires less memory, can work easily with large datasets and provides better accuracy with compared to different algorithms. Objective of this research are:  Analyse the data for its characteristic.  Develop Machine Learning models using Logistic Regression, Decision Tree, Multi-Layer Perceptron, K Nearest Neighbors and Light Gradient Boosting Machine.  Evaluate the model and predict the accuracy of the model for the detection of a DoS attacks.  Propose a model that detect the accuracy better or similar with compared to other models. Achieving a better model that can be used for detection of DoS attack in an efficient manner. Major Contribution: The major contribution obtained from this research project is to use an efficient model that is Light Gradient Boosting Machine model for the detection of an DoS attack, as this work hasn’t been done before and there was an eagerness for a model that provides better accuracy and is light weighted which means it requires less memory, less processing and gives a better detection rate with less error. Light GBM provides fast processing with the capability to handle large datasets. And performs quite well in real time risk assessment. | https://github.com/somesh-saxena/Efficient-Detection-of-Denial-of-Service-DoS-attack-using-Machine-Learning | 0 | 0| 
-| 20201224T00:06:45Z | Docker container that has all the CLI tooling for binary exploitation (thanks to @LiveOverflow) | https://github.com/sogonsec/docker-binaryexploitation | 5 | 0| 
 | 20201223T23:50:40Z | This is a jab at solving the Santander transaction prediction problem posted on Kaggle. A challenge here was that all the 250 dimesnsions in the dataset had the same variance, hence reducing dimensionality wasn%t an option. Kagglers found a %trick% in this dataset and were able to exploit it and add more feature yielding very high accuracy. In this notebook I make a simple attempt to use Gradient boosting with a bit of hyper parameter tuning to achieve an accuracy of  | https://github.com/krishmaniar95/Santander-Transactions-Prediction | 0 | 0| 
 | 20201223T23:22:20Z | TryHackMe CTFs writeups, notes, dratfs, scrabbles, files and solutions. | https://github.com/edoardottt/tryhackme-ctf | 8 | 7| 
 | 20201223T23:16:46Z | A Tool that Finds, Enumerates, and Exploits Reolink Cameras. | https://github.com/spicesouls/reosploit | 2 | 1| 
@@ -118,6 +118,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20201224T01:14:55Z | A cross-platform browser fuzzing framework | https://github.com/MozillaSecurity/grizzly | 220 | 30| 
 | 20201224T00:55:14Z | VMI Kernel Fuzzer for Xen Project - VM forking, VMI & AFL integration demo | https://github.com/intel/kernel-fuzzer-for-xen-project | 203 | 33| 
 | 20201224T00:41:56Z | Install and run Fuzzlecheck on Linux. | https://github.com/72nd/fuzzlecheck-linux | 0 | 0| 
 | 20201224T00:28:44Z | Code for Taskcluster Tasks in Fuzzing | https://github.com/MozillaSecurity/fuzzing-tc | 2 | 2| 
@@ -127,7 +128,6 @@
 | 20201223T23:15:40Z | Null | https://github.com/matusf/open-api-fuzzer | 0 | 0| 
 | 20201223T22:22:32Z | Apple SMC (System Management Controller) API fuzzer | https://github.com/theopolis/smc-fuzzer | 59 | 10| 
 | 20201223T21:56:33Z | Null | https://github.com/mortepau/fuzzyfinder-elixir | 0 | 0| 
-| 20201223T21:23:24Z | Null | https://github.com/r5vd/fuzzy-sniffle | 0 | 0| 
 
 
 
