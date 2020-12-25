@@ -15,6 +15,7 @@
 | 20201224 | Fault Oriented Debugging | https://calabi-yau.space/blog/triple-fault-debugging.html| 
 | 20201224 | Make Memcpy Safe Again: CodeQL | https://www.cyberark.com/resources/threat-research-blog/make-memcpy-safe-again-codeql| 
 | 20201224 | 利用 KLEE 符号执行引擎挖掘软件漏洞 | https://sasnauskas.eu/finding-software-bugs-using-symbolic-execution/| 
+| 20201224 | Go语言黑帽子系列教程资源。 | https://github.com/TralahM/blackhat-go| 
 | 20201223 | GoSecure 团队整理的 SSTI 攻击 Workshop | https://gosecure.github.io/template-injection-workshop/| 
 | 20201223 | Issue 2094: usrsctp: Use-after-free write when handling malicious COOKIE-ECHO | https://bugs.chromium.org/p/project-zero/issues/detail?id=2094| 
 | 20201223 | PS4 6.72 版本固件的越狱利用代码 | https://github.com/sleirsgoevy/ps4jb| 
@@ -25,7 +26,6 @@
 | 20201223 | SharpZipRunner - 利用 D/Invokes 在内存中解密 ZIP 加密压缩的 bin 并提取 Shellcode 执行 | https://github.com/jfmaes/SharpZipRunner| 
 | 20201222 | Android Kernel Exploitation Workshop | https://cloudfuzz.github.io/android-kernel-exploitation/chapters/exploitation.html| 
 | 20201222 | hxp CTF 2020 pfoten writeup | https://mem2019.github.io/jekyll/update/2020/12/21/hxp2020-pfoten.html| 
-| 20201222 | Reading and writing memory of other processes using fasttrap | https://github.com/seemoo-lab/dtrace-memaccess_cve-2020-27949| 
 
 
 # 安全维基 推荐
@@ -37,30 +37,31 @@
 | 20201224 | 搞基大队QQ群验证问题解题过程 | https://mp.weixin.qq.com/s/BmaflwjC6tghjJlysbtYkg| 
 | 20201224 | 记传奇私服浏览器劫持的处置方案 | https://mp.weixin.qq.com/s/-ckPlrgU3O_WEDmTo3Rbyg| 
 | 20201224 | Source Code Audit Training Archive | https://blog.recurity-labs.com/2020-12-23/code-audit-training-archive.html| 
+| 20201224 | 爱奇艺SOAR探索与实践 | https://mp.weixin.qq.com/s/ovJKGWusN2kgxQ_4GkQ8QA| 
+| 20201224 | 自动化安全工具平台 | https://mp.weixin.qq.com/s/OMhS9yFlcpI9KOQduSxq9g| 
 | 20201223 | 基于AI的恶意加密流量检测效果专题研究 | https://www.aqniu.com/vendor/71886.html| 
 | 20201223 | 从Solarwinds供应链攻击（金链熊）看APT行动中的隐蔽作战 | https://mp.weixin.qq.com/s/UqXC1vovKUu97569LkYm2Q| 
-| 20201223 | Analyzing Cobalt Strike for Fun and Profit | https://www.randhome.io/blog/2020/12/20/analyzing-cobalt-strike-for-fun-and-profit/| 
-| 20201223 | 用DNS进行网络度量和安全分析 | https://mp.weixin.qq.com/s/L_wDNJtznQvrCyx1Kd1SlQ| 
 
 
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20201224T13:49:16Z | CVE-2020-17008 | CVE-2020-17008 splWOW64 Elevation of Privilege | https://github.com/jas502n/CVE-2020-17008 | 未查询到CVE信息| 
-| 20201224T11:44:28Z | CVE-2020-17132 | Null | https://github.com/alexfrancow/CVE-2020-17132 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  09 HOURS 41 MINUTES 17 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20201224T11:01:04Z | CVE-2020-17144 | Exchange2010 authorized RCE | https://github.com/Airboi/CVE-2020-17144-EXP | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  09 HOURS 41 MINUTES 02 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20201224T09:10:21Z | CVE-2020-35489 | Null | https://github.com/dn9uy3n/Check-WP-CVE-2020-35489 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  09 HOURS 41 MINUTES 16 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201224T19:45:20Z | CVE-2020-17008 | CVE-2020-17008 splWOW64 Elevation of Privilege | https://github.com/jas502n/CVE-2020-17008 | 未查询到CVE信息| 
+| 20201224T18:36:01Z | CVE-2020-8290 | CVE-2020-8290 – Elevation of Privilege in Backblaze | https://github.com/geffner/CVE-2020-8290 | 未查询到CVE信息| 
+| 20201224T18:35:45Z | CVE-2020-8289 | CVE-2020-8289 – Remote Code Execution as SYSTEM/root via Backblaze | https://github.com/geffner/CVE-2020-8289 | 未查询到CVE信息| 
+| 20201224T17:51:35Z | CVE-2020-17132 | Null | https://github.com/alexfrancow/CVE-2020-17132 | ，也称为“ Microsoft Exchange远程执行代码漏洞”。此CVE ID在CVE-2020-17117，CVE-2020-17141，CVE-2020-17142，CVE-2020-17144中是唯一的。| 
+| 20201224T16:04:05Z | CVE-2020-28169 | Insecure Folder permission that lead to privilege escalation | https://github.com/zubrahzz/FluentD-TD-agent-Exploit-CVE-2020-28169 | Fluent的2020-12-18之前的td-agent-builder插件允许攻击者获得特权，因为bin目录可由用户帐户写入，但bin中的文件将作为NT AUTHORITY \ SYSTEM执行。| 
+| 20201224T11:01:04Z | CVE-2020-17144 | Exchange2010 authorized RCE | https://github.com/Airboi/CVE-2020-17144-EXP | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 58 MINUTES 54 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201224T09:10:21Z | CVE-2020-35489 | Null | https://github.com/dn9uy3n/Check-WP-CVE-2020-35489 | WordPress的5.3.2之前的contact-form-7（又称Contact Form 7）插件允许不受限制的文件上传和远程执行代码，因为文件名可能包含特殊字符。| 
 | 20201224T09:02:34Z | CVE-2020-14645 | Weblogic Server CVE-2020-14645 EXP for Python （complete in one step） | https://github.com/Schira4396/CVE-2020-14645 | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
 | 20201224T07:46:20Z | cve-2020-17057 | cve-2020-17057 poc | https://github.com/ze0r/cve-2020-17057 | 未查询到CVE信息| 
 | 20201223T23:27:23Z | CVE-2020-35590 | Brute-force tool for WordPress Plugin Limit Login Attempts Reloaded >=2.13.0 - Login Limit Bypass (CVE-2020-35590) | https://github.com/N4nj0/CVE-2020-35590 | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
-| 20201223T18:23:02Z | CVE-2020-35606 | Webmin Exploit Scanner CVE-2020-35606 CVE-2019-12840 | https://github.com/anasbousselham/webminscan | | 
-| 20201223T10:50:56Z | cve-2020-27949 | Null | https://github.com/seemoo-lab/dtrace-memaccess_cve-2020-27949 | 未查询到CVE信息| 
-| 20201223T08:24:12Z | CVE-2020-1472 | Null | https://github.com/SaharAttackit/CVE-2020-1472 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  09 HOURS 41 MINUTES 12 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20201224T15:17:27Z | Null | https://github.com/jennifer4569/Klee-Bot | 0 | 0| 
 | 20201224T07:38:20Z | Null | https://github.com/fontworks-fonts/Klee | 1 | 0| 
 | 20201224T00:37:53Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1589 | 477| 
 | 20201223T22:01:43Z | Create CFGs and compute complexity metrics for Python, C++, and Java code. | https://github.com/hmc-alpaqa/metrinome | 5 | 0| 
@@ -70,7 +71,6 @@
 | 20201222T07:48:08Z | Null | https://github.com/DonaldKLee/DonaldKLee | 0 | 0| 
 | 20201221T19:32:09Z | Null | https://github.com/morlap/kleebergfestival | 0 | 0| 
 | 20201221T15:35:29Z | Null | https://github.com/ZJTAN97/KleenTeamSite | 0 | 0| 
-| 20201220T22:08:04Z | Website for Klee Bot | https://github.com/klee-chan/klee-chan.github.io | 0 | 0| 
 
 
 # s2e on Github 推荐
@@ -88,16 +88,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20201224T14:17:45Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 8804 | 1390| 
-| 20201224T13:58:11Z | this is the fastest way that you can get admin rights at work,school,etc in only a few seconds | https://github.com/daddyparodz/adminexploit | 25 | 5| 
-| 20201224T13:44:55Z | This bash script will help you to hack remote hosts  | https://github.com/FabioDefilippo/linuxallremote | 2 | 0| 
-| 20201224T13:40:44Z | this bash script is for remote linux hosts hacked! | https://github.com/FabioDefilippo/linuxallenum | 8 | 0| 
-| 20201224T13:37:52Z | Silice is an open source language that simplifies writing algorithms fully exploiting FPGA architectures. | https://github.com/sylefeb/Silice | 384 | 29| 
-| 20201224T13:23:36Z | Null | https://github.com/abhinavdwivedi440/binary-exploitation | 0 | 0| 
-| 20201224T13:15:24Z | This package, written in php, can scan PHP files and analyze your project for find malicious code inside it. It provides a text terminal console interface to scan files in a given directory and find PHP code files the seem to contain malicious code. | https://github.com/marcocesarato/PHP-Antimalware-Scanner | 158 | 29| 
-| 20201224T12:49:28Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 6 | 3| 
-| 20201224T12:35:07Z | A Tool that Finds, Enumerates, and Exploits Reolink Cameras. | https://github.com/spicesouls/reosploit | 3 | 2| 
-| 20201224T12:12:29Z | Vulnerabilities% Risk of Exploitation | https://github.com/thiagofigcosta/V-REx | 0 | 0| 
+| 20201225T00:58:34Z | Explanation of All the Payloads Used in Pentester Academy%s JS for Pentester Course | https://github.com/tbhaxor/pt-jsfp | 3 | 1| 
+| 20201225T00:44:09Z | Null | https://github.com/sheenieboy/ExploiterChat | 1 | 0| 
+| 20201225T00:28:22Z | ExploitsX is a top-of-the-line constantly updated exploit fixer focused on patching bugs, lag glitches, and crash glitches for minecraft servers. It supports versions 1.8 through 1.17. | https://github.com/IzDaBait/ExploitsX | 1 | 0| 
+| 20201224T23:49:18Z | OSINT, Threat Hunting, Network and Web Recon, Discovery, Enumeration, Vulnerability Mapping, Exploitation, Reporting | https://github.com/aryanguenthner/365 | 4 | 1| 
+| 20201224T23:47:04Z | Powershell script to automate deployment of Yara to scan files for FireEye Exploit using FireEye Exploit Yara Rules | https://github.com/DanPhoaser/FireEyeExploitScanner | 0 | 0| 
+| 20201224T23:03:43Z | Old and new CTFs about Linux kernel exploitation. | https://github.com/MaherAzzouzi/LinuxKernelExploitation | 0 | 0| 
+| 20201224T22:18:01Z | My journey to learn binary exploitation and memory corruption. | https://github.com/0xshellcode/Exploiting-Path | 0 | 0| 
+| 20201224T22:09:24Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 8807 | 1390| 
+| 20201224T21:46:36Z | TryHackMe CTFs writeups, notes, dratfs, scrabbles, files and solutions. | https://github.com/edoardottt/tryhackme-ctf | 8 | 7| 
+| 20201224T21:42:53Z | GEF - GDB Enhanced Features for exploit devs & reversers | https://github.com/hugsy/gef | 3328 | 479| 
 
 
 # backdoor on Github 推荐
