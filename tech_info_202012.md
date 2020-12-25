@@ -47,15 +47,15 @@
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
 | 20201225T13:06:10Z | CVE-2020-17008 | CVE-2020-17008 splWOW64 Elevation of Privilege | https://github.com/jas502n/CVE-2020-17008 | 未查询到CVE信息| 
-| 20201225T09:51:39Z | CVE-2020-35489 | The (WordPress) website test script can be exploited for Unlimited File Upload via CVE-2020-35489 | https://github.com/dn9uy3n/Check-WP-CVE-2020-35489 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 29 MINUTES 23 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20201225T09:08:30Z | CVE-2020-0796 | Null | https://github.com/datntsec/CVE-2020-0796 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 29 MINUTES 14 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201225T09:51:39Z | CVE-2020-35489 | The (WordPress) website test script can be exploited for Unlimited File Upload via CVE-2020-35489 | https://github.com/dn9uy3n/Check-WP-CVE-2020-35489 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 27 MINUTES 25 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201225T09:08:30Z | CVE-2020-0796 | Null | https://github.com/datntsec/CVE-2020-0796 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 27 MINUTES 15 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20201225T08:56:24Z | cve-2020-17057 | cve-2020-17057 poc | https://github.com/ze0r/cve-2020-17057 | 未查询到CVE信息| 
-| 20201225T05:50:44Z | CVE-2020-11652 | CVE-2020-11652 & CVE-2020-11651 | https://github.com/Al1ex/CVE-2020-11652 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 29 MINUTES 28 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20201225T01:54:31Z | CVE-2020-9470 | Wing FTP Server 6.2.5 - Privilege Escalation | https://github.com/Al1ex/CVE-2020-9470 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 29 MINUTES 27 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20201225T01:48:38Z | CVE-2020-8635 | Wing FTP Server 6.2.3 - Privilege Escalation | https://github.com/Al1ex/CVE-2020-8635 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 29 MINUTES 26 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201225T05:50:44Z | CVE-2020-11652 | CVE-2020-11652 & CVE-2020-11651 | https://github.com/Al1ex/CVE-2020-11652 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 27 MINUTES 30 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201225T01:54:31Z | CVE-2020-9470 | Wing FTP Server 6.2.5 - Privilege Escalation | https://github.com/Al1ex/CVE-2020-9470 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 27 MINUTES 29 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201225T01:48:38Z | CVE-2020-8635 | Wing FTP Server 6.2.3 - Privilege Escalation | https://github.com/Al1ex/CVE-2020-8635 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 27 MINUTES 27 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20201224T18:36:01Z | CVE-2020-8290 | CVE-2020-8290 – Elevation of Privilege in Backblaze | https://github.com/geffner/CVE-2020-8290 | 未查询到CVE信息| 
 | 20201224T18:35:45Z | CVE-2020-8289 | CVE-2020-8289 – Remote Code Execution as SYSTEM/root via Backblaze | https://github.com/geffner/CVE-2020-8289 | 未查询到CVE信息| 
-| 20201224T17:51:35Z | CVE-2020-17132 | Null | https://github.com/alexfrancow/CVE-2020-17132 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 29 MINUTES 24 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201224T17:51:35Z | CVE-2020-17132 | Null | https://github.com/alexfrancow/CVE-2020-17132 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 27 MINUTES 26 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 
 
 # klee on Github 推荐
@@ -88,16 +88,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20201225T13:33:06Z | A proof-of-concept tool for generating payloads that exploit unsafe Java object deserialization. | https://github.com/frohoff/ysoserial | 3742 | 1107| 
+| 20201225T13:32:15Z | TryHackMe CTFs writeups, notes, dratfs, scrabbles, files and solutions. | https://github.com/edoardottt/tryhackme-ctf | 9 | 7| 
 | 20201225T13:26:21Z | Guides to get started with binary exploitation and reverse engineering binaries. | https://github.com/hackarmour/binary-exploitation | 1 | 0| 
 | 20201225T13:16:29Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 3298 | 501| 
 | 20201225T12:49:28Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 6 | 3| 
 | 20201225T12:12:52Z | The official Exploit Database repository | https://github.com/offensive-security/exploitdb | 5770 | 1652| 
 | 20201225T11:50:57Z | linux post-exploitation | https://github.com/jm33-m0/emp3r0r | 34 | 6| 
-| 20201225T11:44:38Z | A proof-of-concept tool for generating payloads that exploit unsafe Java object deserialization. | https://github.com/frohoff/ysoserial | 3741 | 1107| 
 | 20201225T11:37:22Z | PS4 Exploit list | https://github.com/Hakkuraifu/PS4xploit | 12 | 4| 
 | 20201225T11:36:09Z | A-Rat = Remote access tool  we can generate python based rat  installation :  $ apt update   $ apt upgrade  $ apt install git  $ apt install python2  $ apt install python  $ git clone https://github.com/Xi4u7/A-Rat  $ cd A-Rat  $ chmod +x *  usage :  $ python2 A-Rat.py  $ help  $ set host 127.0.0.1 [your ip]  $ set port 1337  $ set output /$HOME/rat.py  $ generate  It generates rat.py in termux home directory  Open termux new session   type $ ls  here you get that rat.py   go to again A-Rat means privious session of termux  Type run to start exploit.  $ run  and then open new session and run rat like this  $ python rat.py  and come back to A-Rat session   Now its connected to that rat. means Hacked.  press control + c to stop. | https://github.com/Zack-sys/A-Rat-Exploit | 1 | 0| 
 | 20201225T11:35:12Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 8807 | 1391| 
-| 20201225T11:33:19Z | TryHackMe CTFs writeups, notes, dratfs, scrabbles, files and solutions. | https://github.com/edoardottt/tryhackme-ctf | 8 | 7| 
 
 
 # backdoor on Github 推荐
