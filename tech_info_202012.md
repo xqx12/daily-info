@@ -46,15 +46,15 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20201225T01:54:31Z | CVE-2020-9470 | Wing FTP Server 6.2.5 - Privilege Escalation | https://github.com/Al1ex/CVE-2020-9470 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 45 MINUTES 18 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20201225T01:48:38Z | CVE-2020-8635 | Wing FTP Server 6.2.3 - Privilege Escalation | https://github.com/Al1ex/CVE-2020-8635 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 45 MINUTES 17 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201225T01:54:31Z | CVE-2020-9470 | Wing FTP Server 6.2.5 - Privilege Escalation | https://github.com/Al1ex/CVE-2020-9470 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 43 MINUTES 21 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201225T01:48:38Z | CVE-2020-8635 | Wing FTP Server 6.2.3 - Privilege Escalation | https://github.com/Al1ex/CVE-2020-8635 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 43 MINUTES 20 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20201225T01:22:53Z | CVE-2020-17008 | CVE-2020-17008 splWOW64 Elevation of Privilege | https://github.com/jas502n/CVE-2020-17008 | 未查询到CVE信息| 
 | 20201224T18:36:01Z | CVE-2020-8290 | CVE-2020-8290 – Elevation of Privilege in Backblaze | https://github.com/geffner/CVE-2020-8290 | 未查询到CVE信息| 
 | 20201224T18:35:45Z | CVE-2020-8289 | CVE-2020-8289 – Remote Code Execution as SYSTEM/root via Backblaze | https://github.com/geffner/CVE-2020-8289 | 未查询到CVE信息| 
-| 20201224T17:51:35Z | CVE-2020-17132 | Null | https://github.com/alexfrancow/CVE-2020-17132 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 45 MINUTES 16 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20201224T16:04:05Z | CVE-2020-28169 | Insecure Folder permission that lead to privilege escalation | https://github.com/zubrahzz/FluentD-TD-agent-Exploit-CVE-2020-28169 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 45 MINUTES 16 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20201224T11:01:04Z | CVE-2020-17144 | Exchange2010 authorized RCE | https://github.com/Airboi/CVE-2020-17144-EXP | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 45 MINUTES 06 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20201224T09:10:21Z | CVE-2020-35489 | Null | https://github.com/dn9uy3n/Check-WP-CVE-2020-35489 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 45 MINUTES 15 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201224T17:51:35Z | CVE-2020-17132 | Null | https://github.com/alexfrancow/CVE-2020-17132 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 43 MINUTES 18 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201224T16:04:05Z | CVE-2020-28169 | Insecure Folder permission that lead to privilege escalation | https://github.com/zubrahzz/FluentD-TD-agent-Exploit-CVE-2020-28169 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 43 MINUTES 18 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201224T11:01:04Z | CVE-2020-17144 | Exchange2010 authorized RCE | https://github.com/Airboi/CVE-2020-17144-EXP | | 
+| 20201224T09:10:21Z | CVE-2020-35489 | Null | https://github.com/dn9uy3n/Check-WP-CVE-2020-35489 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  21 HOURS 43 MINUTES 17 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20201224T09:02:34Z | CVE-2020-14645 | Weblogic Server CVE-2020-14645 EXP for Python （complete in one step） | https://github.com/Schira4396/CVE-2020-14645 | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
 
 
@@ -88,7 +88,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20201225T01:53:00Z | CTFs are fun, but what about exploiting a real bug? | https://github.com/mephi42/CVE-2016-8863 | 1 | 1| 
+| 20201225T01:53:00Z | CTFs are fun, but what about exploiting a real bug? | https://github.com/mephi42/CVE-2016-8863 | 1 | 2| 
 | 20201225T01:52:21Z | CTF竞赛权威指南(Pwn篇) | https://github.com/firmianay/CTF-All-In-One | 2256 | 461| 
 | 20201225T01:48:04Z | This module exploits an arbitrary file upload in the WordPress wpDiscuz plugin version 7.0.4. This flaw gave unauthenticated attackers the ability to upload arbitrary files, including PHP files, and achieve remote code execution on a vulnerable site’s server. | https://github.com/suncsr/wpDiscuz_unauthenticated_arbitrary_file_upload | 0 | 0| 
 | 20201225T01:37:14Z | exploit-database-papers | https://github.com/offensive-security/exploitdb-papers | 271 | 37| 
@@ -118,6 +118,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20201225T02:12:48Z | 渗透测试人员专用精简化字典  Dictionary for penetration testers happy hacker  | https://github.com/ppbibo/PentesterSpecialDict | 289 | 63| 
 | 20201225T01:31:31Z | Fuzzing cryptographic libraries. Magic bug printer go brrrr. | https://github.com/guidovranken/cryptofuzz | 226 | 31| 
 | 20201225T00:13:43Z | Tool for testing ISP link speed and reporting | https://github.com/f8al/fuzzy-guacamole | 5 | 1| 
 | 20201224T23:59:39Z | Null | https://github.com/lindaAcc/fuzzy-c-means-FCM | 0 | 0| 
@@ -127,7 +128,6 @@
 | 20201224T21:42:11Z | P2P Content Publishing, Curation, and Browsing Platform | https://github.com/FuzzrNet/fuzzr | 5 | 0| 
 | 20201224T21:04:48Z | Ethereum smart contract fuzzer | https://github.com/crytic/echidna | 519 | 88| 
 | 20201224T20:00:13Z | Fuzzy matching publications for fatcat (wip). | https://github.com/miku/fuzzycat | 1 | 1| 
-| 20201224T19:02:28Z | A fuzzing management tools collection | https://github.com/MozillaSecurity/FuzzManager | 142 | 46| 
 
 
 
