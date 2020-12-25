@@ -47,13 +47,13 @@
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
 | 20201224T19:45:20Z | CVE-2020-17008 | CVE-2020-17008 splWOW64 Elevation of Privilege | https://github.com/jas502n/CVE-2020-17008 | 未查询到CVE信息| 
-| 20201224T18:36:01Z | CVE-2020-8290 | CVE-2020-8290 – Elevation of Privilege in Backblaze | https://github.com/geffner/CVE-2020-8290 | | 
+| 20201224T18:36:01Z | CVE-2020-8290 | CVE-2020-8290 – Elevation of Privilege in Backblaze | https://github.com/geffner/CVE-2020-8290 | 未查询到CVE信息| 
 | 20201224T18:35:45Z | CVE-2020-8289 | CVE-2020-8289 – Remote Code Execution as SYSTEM/root via Backblaze | https://github.com/geffner/CVE-2020-8289 | 未查询到CVE信息| 
-| 20201224T17:51:35Z | CVE-2020-17132 | Null | https://github.com/alexfrancow/CVE-2020-17132 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 54 MINUTES 23 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20201224T16:04:05Z | CVE-2020-28169 | Insecure Folder permission that lead to privilege escalation | https://github.com/zubrahzz/FluentD-TD-agent-Exploit-CVE-2020-28169 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 54 MINUTES 24 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20201224T11:01:04Z | CVE-2020-17144 | Exchange2010 authorized RCE | https://github.com/Airboi/CVE-2020-17144-EXP | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 54 MINUTES 10 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20201224T09:10:21Z | CVE-2020-35489 | Null | https://github.com/dn9uy3n/Check-WP-CVE-2020-35489 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 54 MINUTES 22 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20201224T09:02:34Z | CVE-2020-14645 | Weblogic Server CVE-2020-14645 EXP for Python （complete in one step） | https://github.com/Schira4396/CVE-2020-14645 | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
+| 20201224T17:51:35Z | CVE-2020-17132 | Null | https://github.com/alexfrancow/CVE-2020-17132 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 52 MINUTES 18 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201224T16:04:05Z | CVE-2020-28169 | Insecure Folder permission that lead to privilege escalation | https://github.com/zubrahzz/FluentD-TD-agent-Exploit-CVE-2020-28169 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 52 MINUTES 18 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201224T11:01:04Z | CVE-2020-17144 | Exchange2010 authorized RCE | https://github.com/Airboi/CVE-2020-17144-EXP | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 52 MINUTES 05 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201224T09:10:21Z | CVE-2020-35489 | Null | https://github.com/dn9uy3n/Check-WP-CVE-2020-35489 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 52 MINUTES 17 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201224T09:02:34Z | CVE-2020-14645 | Weblogic Server CVE-2020-14645 EXP for Python （complete in one step） | https://github.com/Schira4396/CVE-2020-14645 | | 
 | 20201224T07:46:20Z | cve-2020-17057 | cve-2020-17057 poc | https://github.com/ze0r/cve-2020-17057 | 未查询到CVE信息| 
 | 20201223T23:27:23Z | CVE-2020-35590 | Brute-force tool for WordPress Plugin Limit Login Attempts Reloaded >=2.13.0 - Login Limit Bypass (CVE-2020-35590) | https://github.com/N4nj0/CVE-2020-35590 | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
 
@@ -88,6 +88,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20201225T01:07:56Z | This module exploits an arbitrary file upload in the WordPress wpDiscuz plugin version 7.0.4. This flaw gave unauthenticated attackers the ability to upload arbitrary files, including PHP files, and achieve remote code execution on a vulnerable site’s server. | https://github.com/suncsr/wpDiscuz_unauthenticated_arbitrary_file_upload | 0 | 0| 
 | 20201225T01:02:07Z | Perl Programming Language - [bind-shell-perl] | https://github.com/suncsr/exploit-code | 0 | 7| 
 | 20201225T00:58:34Z | Explanation of All the Payloads Used in Pentester Academy%s JS for Pentester Course | https://github.com/tbhaxor/pt-jsfp | 3 | 1| 
 | 20201225T00:44:09Z | Null | https://github.com/sheenieboy/ExploiterChat | 1 | 0| 
@@ -97,7 +98,6 @@
 | 20201224T23:03:43Z | Old and new CTFs about Linux kernel exploitation. | https://github.com/MaherAzzouzi/LinuxKernelExploitation | 0 | 0| 
 | 20201224T22:18:01Z | My journey to learn binary exploitation and memory corruption. | https://github.com/0xshellcode/Exploiting-Path | 0 | 0| 
 | 20201224T22:09:24Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 8807 | 1390| 
-| 20201224T21:46:36Z | TryHackMe CTFs writeups, notes, dratfs, scrabbles, files and solutions. | https://github.com/edoardottt/tryhackme-ctf | 8 | 7| 
 
 
 # backdoor on Github 推荐
