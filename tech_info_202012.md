@@ -6,6 +6,7 @@
 # 玄武实验室 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20201225 | 可视化查看进程内存地址空间的工具 | https://github.com/0vercl0k/clairvoyance| 
 | 20201224 | bottom - 一款跨平台的系统资源监控工具 | https://github.com/ClementTsang/bottom| 
 | 20201224 | Windows Win32k CVE-2020-17057 漏洞 PoC | https://github.com/ze0r/cve-2020-17057//| 
 | 20201224 | 利用数据分析与展示的方法研究 Windows RPC 的安全性 | https://medium.com/threat-hunters-forge/extending-the-exploration-and-analysis-of-windows-rpc-methods-calling-other-functions-with-ghidra-e4cdaa9555bd| 
@@ -25,12 +26,13 @@
 | 20201223 | CVE-2020-9967 - Apple macOS 6LowPAN Vulnerability | https://alexplaskett.github.io/CVE-2020-9967/| 
 | 20201223 | FoxDec - 将 x86-64 二进制反编译为 C 代码的项目 | https://ssrg-vt.github.io/FoxDec/| 
 | 20201223 | SharpZipRunner - 利用 D/Invokes 在内存中解密 ZIP 加密压缩的 bin 并提取 Shellcode 执行 | https://github.com/jfmaes/SharpZipRunner| 
-| 20201222 | Android Kernel Exploitation Workshop | https://cloudfuzz.github.io/android-kernel-exploitation/chapters/exploitation.html| 
 
 
 # 安全维基 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20201225 | 记一次渗透日本某大学实战案例 | https://mp.weixin.qq.com/s/FFpyzQQeOAvTRQ0iGtXW5A| 
+| 20201225 | 溯源反制基本思路与实战 | https://mp.weixin.qq.com/s/axNXFgyaD-5WSIkPwjkPrQ| 
 | 20201224 | 工业互联网数据安全白皮书（2020） | http://www.nisia.org.cn/filedownload/203590| 
 | 20201224 | 软件供应链来源攻击分析报告 | https://mp.weixin.qq.com/s/ypKn7uanv7oSDc4h8zvmgQ| 
 | 20201224 | MySQL注入Load_File()函数应用 | https://mp.weixin.qq.com/s/nl_xYX5rd1UiIK4t9XYDuA| 
@@ -39,23 +41,21 @@
 | 20201224 | Source Code Audit Training Archive | https://blog.recurity-labs.com/2020-12-23/code-audit-training-archive.html| 
 | 20201224 | 爱奇艺SOAR探索与实践 | https://mp.weixin.qq.com/s/ovJKGWusN2kgxQ_4GkQ8QA| 
 | 20201224 | 自动化安全工具平台 | https://mp.weixin.qq.com/s/OMhS9yFlcpI9KOQduSxq9g| 
-| 20201223 | 基于AI的恶意加密流量检测效果专题研究 | https://www.aqniu.com/vendor/71886.html| 
-| 20201223 | 从Solarwinds供应链攻击（金链熊）看APT行动中的隐蔽作战 | https://mp.weixin.qq.com/s/UqXC1vovKUu97569LkYm2Q| 
 
 
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20201225T02:58:53Z | CVE-2020-11652 | CVE-2020-11652 & CVE-2020-11651 | https://github.com/Al1ex/CVE-2020-11652 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  20 HOURS 59 MINUTES 14 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20201225T02:23:32Z | CVE-2020-17008 | CVE-2020-17008 splWOW64 Elevation of Privilege | https://github.com/jas502n/CVE-2020-17008 | 未查询到CVE信息| 
-| 20201225T01:54:31Z | CVE-2020-9470 | Wing FTP Server 6.2.5 - Privilege Escalation | https://github.com/Al1ex/CVE-2020-9470 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  20 HOURS 59 MINUTES 13 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20201225T01:48:38Z | CVE-2020-8635 | Wing FTP Server 6.2.3 - Privilege Escalation | https://github.com/Al1ex/CVE-2020-8635 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  20 HOURS 59 MINUTES 12 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201225T11:13:38Z | CVE-2020-17008 | CVE-2020-17008 splWOW64 Elevation of Privilege | https://github.com/jas502n/CVE-2020-17008 | 未查询到CVE信息| 
+| 20201225T09:51:39Z | CVE-2020-35489 | The (WordPress) website test script can be exploited for Unlimited File Upload via CVE-2020-35489 | https://github.com/dn9uy3n/Check-WP-CVE-2020-35489 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 59 MINUTES 20 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201225T09:08:30Z | CVE-2020-0796 | Null | https://github.com/datntsec/CVE-2020-0796 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 59 MINUTES 10 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201225T08:56:24Z | cve-2020-17057 | cve-2020-17057 poc | https://github.com/ze0r/cve-2020-17057 | 未查询到CVE信息| 
+| 20201225T05:50:44Z | CVE-2020-11652 | CVE-2020-11652 & CVE-2020-11651 | https://github.com/Al1ex/CVE-2020-11652 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 59 MINUTES 25 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201225T01:54:31Z | CVE-2020-9470 | Wing FTP Server 6.2.5 - Privilege Escalation | https://github.com/Al1ex/CVE-2020-9470 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 59 MINUTES 24 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201225T01:48:38Z | CVE-2020-8635 | Wing FTP Server 6.2.3 - Privilege Escalation | https://github.com/Al1ex/CVE-2020-8635 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 59 MINUTES 23 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20201224T18:36:01Z | CVE-2020-8290 | CVE-2020-8290 – Elevation of Privilege in Backblaze | https://github.com/geffner/CVE-2020-8290 | 未查询到CVE信息| 
 | 20201224T18:35:45Z | CVE-2020-8289 | CVE-2020-8289 – Remote Code Execution as SYSTEM/root via Backblaze | https://github.com/geffner/CVE-2020-8289 | 未查询到CVE信息| 
-| 20201224T17:51:35Z | CVE-2020-17132 | Null | https://github.com/alexfrancow/CVE-2020-17132 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  20 HOURS 59 MINUTES 11 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20201224T16:04:05Z | CVE-2020-28169 | Insecure Folder permission that lead to privilege escalation | https://github.com/zubrahzz/FluentD-TD-agent-Exploit-CVE-2020-28169 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  20 HOURS 59 MINUTES 11 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20201224T11:01:04Z | CVE-2020-17144 | Exchange2010 authorized RCE | https://github.com/Airboi/CVE-2020-17144-EXP | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  20 HOURS 59 MINUTES 00 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20201224T09:10:21Z | CVE-2020-35489 | Null | https://github.com/dn9uy3n/Check-WP-CVE-2020-35489 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  20 HOURS 59 MINUTES 10 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201224T17:51:35Z | CVE-2020-17132 | Null | https://github.com/alexfrancow/CVE-2020-17132 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 59 MINUTES 21 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 
 
 # klee on Github 推荐
@@ -88,16 +88,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20201225T02:35:23Z | Powershell script to automate deployment of Yara to scan files for FireEye Exploit using FireEye Exploit Yara Rules | https://github.com/DanPhoaser/FireEyeExploitScanner | 0 | 0| 
-| 20201225T02:24:24Z | Allows you to change shift and single fire shift for exploits | https://github.com/Cole1337/alpaca_dt | 0 | 0| 
-| 20201225T01:53:00Z | CTFs are fun, but what about exploiting a real bug? | https://github.com/mephi42/CVE-2016-8863 | 1 | 2| 
-| 20201225T01:52:21Z | CTF竞赛权威指南(Pwn篇) | https://github.com/firmianay/CTF-All-In-One | 2256 | 461| 
-| 20201225T01:48:04Z | This module exploits an arbitrary file upload in the WordPress wpDiscuz plugin version 7.0.4. This flaw gave unauthenticated attackers the ability to upload arbitrary files, including PHP files, and achieve remote code execution on a vulnerable site’s server. | https://github.com/suncsr/wpDiscuz_unauthenticated_arbitrary_file_upload | 0 | 0| 
-| 20201225T01:37:14Z | exploit-database-papers | https://github.com/offensive-security/exploitdb-papers | 271 | 37| 
-| 20201225T01:10:24Z | Explanation of All the Payloads Used in Pentester Academy%s JS for Pentester Course | https://github.com/tbhaxor/pt-jsfp | 3 | 1| 
-| 20201225T01:02:07Z | Perl Programming Language - [bind-shell-perl] | https://github.com/suncsr/exploit-code | 0 | 7| 
-| 20201225T00:44:09Z | Null | https://github.com/sheenieboy/ExploiterChat | 1 | 0| 
-| 20201225T00:28:22Z | ExploitsX is a top-of-the-line constantly updated exploit fixer focused on patching bugs, lag glitches, and crash glitches for minecraft servers. It supports versions 1.8 through 1.17. | https://github.com/IzDaBait/ExploitsX | 1 | 0| 
+| 20201225T12:49:28Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 6 | 3| 
+| 20201225T12:12:52Z | The official Exploit Database repository | https://github.com/offensive-security/exploitdb | 5770 | 1652| 
+| 20201225T11:50:57Z | linux post-exploitation | https://github.com/jm33-m0/emp3r0r | 34 | 6| 
+| 20201225T11:44:38Z | A proof-of-concept tool for generating payloads that exploit unsafe Java object deserialization. | https://github.com/frohoff/ysoserial | 3741 | 1106| 
+| 20201225T11:37:22Z | PS4 Exploit list | https://github.com/Hakkuraifu/PS4xploit | 12 | 4| 
+| 20201225T11:36:09Z | A-Rat = Remote access tool  we can generate python based rat  installation :  $ apt update   $ apt upgrade  $ apt install git  $ apt install python2  $ apt install python  $ git clone https://github.com/Xi4u7/A-Rat  $ cd A-Rat  $ chmod +x *  usage :  $ python2 A-Rat.py  $ help  $ set host 127.0.0.1 [your ip]  $ set port 1337  $ set output /$HOME/rat.py  $ generate  It generates rat.py in termux home directory  Open termux new session   type $ ls  here you get that rat.py   go to again A-Rat means privious session of termux  Type run to start exploit.  $ run  and then open new session and run rat like this  $ python rat.py  and come back to A-Rat session   Now its connected to that rat. means Hacked.  press control + c to stop. | https://github.com/Zack-sys/A-Rat-Exploit | 1 | 0| 
+| 20201225T11:35:12Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 8807 | 1391| 
+| 20201225T11:33:19Z | TryHackMe CTFs writeups, notes, dratfs, scrabbles, files and solutions. | https://github.com/edoardottt/tryhackme-ctf | 8 | 7| 
+| 20201225T11:31:02Z | ExploitsX is a top-of-the-line constantly updated exploit fixer focused on patching bugs, lag glitches, and crash glitches for minecraft servers. It supports versions 1.8 through 1.17. | https://github.com/IzDaBait/ExploitsX | 2 | 2| 
+| 20201225T11:15:10Z | Sifter is a OSINT, recon & vulnerability scanner. It incorporates a plethara of tools within different module sets that tries to cover every attack vector. Allowing you to quickly perform recon tasks and organize the results in one place. From OSINT to Recon, Exploitation, Post-Exploitation, OpSec, Threat Analysis, XSS, SQLinjection, Network Scanning, WebApp Analysis or DNS enumeration.. Sifter should be able to cover it all. | https://github.com/s1l3nt78/sifter | 334 | 99| 
 
 
 # backdoor on Github 推荐
