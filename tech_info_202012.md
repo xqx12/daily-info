@@ -46,15 +46,15 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20201226T01:26:43Z | CVE-2020-17144 | Exchange2010 authorized RCE | https://github.com/Airboi/CVE-2020-17144-EXP | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 22 MINUTES 18 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201226T01:26:43Z | CVE-2020-17144 | Exchange2010 authorized RCE | https://github.com/Airboi/CVE-2020-17144-EXP | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 21 MINUTES 19 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20201226T00:19:28Z | CVE-2020-17008 | CVE-2020-17008 splWOW64 Elevation of Privilege | https://github.com/jas502n/CVE-2020-17008 | 未查询到CVE信息| 
-| 20201225T20:09:05Z | CVE-2020-8165 | Null | https://github.com/taipansec/CVE-2020-8165 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 22 MINUTES 32 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20201225T09:51:39Z | CVE-2020-35489 | The (WordPress) website test script can be exploited for Unlimited File Upload via CVE-2020-35489 | https://github.com/dn9uy3n/Check-WP-CVE-2020-35489 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 22 MINUTES 26 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20201225T09:08:30Z | CVE-2020-0796 | Null | https://github.com/datntsec/CVE-2020-0796 | | 
-| 20201225T08:56:24Z | cve-2020-17057 | cve-2020-17057 poc | https://github.com/ze0r/cve-2020-17057 | | 
-| 20201225T05:50:44Z | CVE-2020-11652 | CVE-2020-11652 & CVE-2020-11651 | https://github.com/Al1ex/CVE-2020-11652 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 22 MINUTES 31 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20201225T01:54:31Z | CVE-2020-9470 | Wing FTP Server 6.2.5 - Privilege Escalation | https://github.com/Al1ex/CVE-2020-9470 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 22 MINUTES 30 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20201225T01:48:38Z | CVE-2020-8635 | Wing FTP Server 6.2.3 - Privilege Escalation | https://github.com/Al1ex/CVE-2020-8635 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 22 MINUTES 29 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201225T20:09:05Z | CVE-2020-8165 | Null | https://github.com/taipansec/CVE-2020-8165 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 21 MINUTES 32 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201225T09:51:39Z | CVE-2020-35489 | The (WordPress) website test script can be exploited for Unlimited File Upload via CVE-2020-35489 | https://github.com/dn9uy3n/Check-WP-CVE-2020-35489 | | 
+| 20201225T09:08:30Z | CVE-2020-0796 | Null | https://github.com/datntsec/CVE-2020-0796 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 21 MINUTES 18 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201225T08:56:24Z | cve-2020-17057 | cve-2020-17057 poc | https://github.com/ze0r/cve-2020-17057 | 未查询到CVE信息| 
+| 20201225T05:50:44Z | CVE-2020-11652 | CVE-2020-11652 & CVE-2020-11651 | https://github.com/Al1ex/CVE-2020-11652 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 21 MINUTES 31 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201225T01:54:31Z | CVE-2020-9470 | Wing FTP Server 6.2.5 - Privilege Escalation | https://github.com/Al1ex/CVE-2020-9470 | | 
+| 20201225T01:48:38Z | CVE-2020-8635 | Wing FTP Server 6.2.3 - Privilege Escalation | https://github.com/Al1ex/CVE-2020-8635 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 21 MINUTES 30 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20201224T18:36:01Z | CVE-2020-8290 | CVE-2020-8290 – Elevation of Privilege in Backblaze | https://github.com/geffner/CVE-2020-8290 | 未查询到CVE信息| 
 
 
@@ -103,9 +103,9 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20201226T01:38:58Z | Header-only VMWare Backdoor API Implementation & Effortless VMX Patcher for Custom Guest-to-Host RPCs | https://github.com/can1357/vmware-rpc | 11 | 1| 
 | 20201225T23:59:59Z | Null | https://github.com/MadsKaiser/backdoor | 0 | 0| 
 | 20201225T23:50:34Z | Ghost Framework is an Android post-exploitation framework that exploits the Android Debug Bridge to remotely access an Android device. Ghost Framework gives you the power and convenience of remote Android device administration. | https://github.com/EntySec/ghost | 889 | 446| 
-| 20201225T23:44:27Z | Header-only VMWare Backdoor API Implementation & Effortless VMX Patcher for Custom Guest-to-Host RPCs | https://github.com/can1357/vmware-rpc | 10 | 1| 
 | 20201225T21:03:29Z | A Remote Administration Tool (RAT) | https://github.com/0xmanjoos/Pieta | 4 | 1| 
 | 20201225T15:38:17Z | This package, written in php, can scan PHP files and analyze your project for find malicious code inside it. It provides a text terminal console interface to scan files in a given directory and find PHP code files the seem to contain malicious code. | https://github.com/marcocesarato/PHP-Antimalware-Scanner | 159 | 29| 
 | 20201225T09:07:14Z | Null | https://github.com/cv1002/SoftwareProjectManagerBackdoor | 1 | 4| 
