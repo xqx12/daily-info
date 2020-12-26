@@ -46,16 +46,16 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20201226T13:07:33Z | CVE-2020-17144 | Exchange2010 authorized RCE | https://github.com/Airboi/CVE-2020-17144-EXP | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 49 MINUTES 29 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201226T13:07:33Z | CVE-2020-17144 | Exchange2010 authorized RCE | https://github.com/Airboi/CVE-2020-17144-EXP | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 48 MINUTES 27 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20201226T12:24:52Z | CVE-2020-35590 | Brute-force tool for WordPress Plugin Limit Login Attempts Reloaded >=2.13.0 - Login Limit Bypass (CVE-2020-35590) | https://github.com/N4nj0/CVE-2020-35590 | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
 | 20201226T11:25:46Z | CVE-2020-17008 | CVE-2020-17008 splWOW64 Elevation of Privilege | https://github.com/jas502n/CVE-2020-17008 | 未查询到CVE信息| 
 | 20201226T08:17:47Z | CVE-2020-27955 | This is a test to exploit with CVE-2020-27955 | https://github.com/SilverSkyFlyingFeather/CVE-2020-27955-TEST | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 48 MINUTES 42 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20201226T02:03:37Z | CVE-2020-35489 | The (WordPress) website test script can be exploited for Unlimited File Upload via CVE-2020-35489 | https://github.com/dn9uy3n/Check-WP-CVE-2020-35489 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 49 MINUTES 37 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20201225T20:09:05Z | CVE-2020-8165 | Null | https://github.com/taipansec/CVE-2020-8165 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 49 MINUTES 43 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20201225T09:08:30Z | CVE-2020-0796 | Null | https://github.com/datntsec/CVE-2020-0796 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 49 MINUTES 28 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20201225T08:56:24Z | cve-2020-17057 | cve-2020-17057 poc | https://github.com/ze0r/cve-2020-17057 | 未查询到CVE信息| 
-| 20201225T05:50:44Z | CVE-2020-11652 | CVE-2020-11652 & CVE-2020-11651 | https://github.com/Al1ex/CVE-2020-11652 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 49 MINUTES 42 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20201225T01:54:31Z | CVE-2020-9470 | Wing FTP Server 6.2.5 - Privilege Escalation | https://github.com/Al1ex/CVE-2020-9470 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 49 MINUTES 41 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201226T02:03:37Z | CVE-2020-35489 | The (WordPress) website test script can be exploited for Unlimited File Upload via CVE-2020-35489 | https://github.com/dn9uy3n/Check-WP-CVE-2020-35489 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 48 MINUTES 35 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201225T20:09:05Z | CVE-2020-8165 | Null | https://github.com/taipansec/CVE-2020-8165 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 48 MINUTES 41 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201225T09:08:30Z | CVE-2020-0796 | Null | https://github.com/datntsec/CVE-2020-0796 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 48 MINUTES 26 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201225T08:56:24Z | cve-2020-17057 | cve-2020-17057 poc | https://github.com/ze0r/cve-2020-17057 | | 
+| 20201225T05:50:44Z | CVE-2020-11652 | CVE-2020-11652 & CVE-2020-11651 | https://github.com/Al1ex/CVE-2020-11652 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 48 MINUTES 40 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201225T01:54:31Z | CVE-2020-9470 | Wing FTP Server 6.2.5 - Privilege Escalation | https://github.com/Al1ex/CVE-2020-9470 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 48 MINUTES 38 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 
 
 # klee on Github 推荐
@@ -88,13 +88,13 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20201226T13:11:37Z | This bash script will help you to hack remote hosts  | https://github.com/FabioDefilippo/linuxallremote | 2 | 0| 
 | 20201226T13:03:12Z | This program increases a user%s snap score. It uses a Snapchat exploit in order to increase a users snap score. | https://github.com/Quessts/Snapify | 2 | 0| 
 | 20201226T12:51:18Z | A Level 6 Roblox Exploit API | https://github.com/TERIHAX/DesireXAPI | 1 | 0| 
 | 20201226T12:47:54Z | ZetaSploit Framework is a powerful exploitation framework that contains a lot of modules for attacking targets, interacting with targets, exploiting common vulnerabilities and etc. | https://github.com/EntySec/ZetaSploit | 7 | 4| 
 | 20201226T12:33:20Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 8808 | 1391| 
 | 20201226T11:32:59Z | This is just for my c programs, I have ever wrote, I mean my nice codes.. hehe! Enjoy Exploiting....  | https://github.com/MysticMatrixx/C-programs | 0 | 0| 
 | 20201226T11:15:05Z | linux post-exploitation | https://github.com/jm33-m0/emp3r0r | 41 | 6| 
-| 20201226T11:06:29Z | This bash script will help you to hack remote hosts  | https://github.com/FabioDefilippo/linuxallremote | 2 | 0| 
 | 20201226T10:32:15Z | Exploiting CVE-2014-3153, AKA Towelroot. | https://github.com/elongl/towelroot | 0 | 0| 
 | 20201226T10:21:26Z | Everest, Next-Gen Roblox Exploitation Hub, | https://github.com/Th3Tr1ckst3r/Everest | 0 | 0| 
 | 20201226T10:14:55Z | 大型内网渗透扫描器&Cobalt Strike，Ladon7.2内置94个模块，包含信息收集/存活主机/IP扫描/端口扫描/服务识别/网络资产/密码爆破/漏洞检测/漏洞利用。漏洞检测含MS17010、SMBGhost、Weblogic、ActiveMQ、Tomcat、Struts2系列，密码口令爆破(Mysql、Oracle、MSSQL)、FTP、SSH(Linux)、VNC、Windows(IPC、WMI、SMB、Netbios、LDAP、SmbHash、WmiHash、Winrm),远程执行命令(wmiexe/psexec/atexec/sshexec/webshell),降权提权Runas、GetSystem，Poc/Exploit,支持Cobalt Strike 3.X-4.0 | https://github.com/k8gege/Ladon | 2122 | 544| 
