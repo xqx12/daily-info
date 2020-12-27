@@ -31,6 +31,7 @@
 # 安全维基 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20201227 | 聊聊漏洞自动修复技术的行业现状 | https://mp.weixin.qq.com/s/xgwdhBSvE7yW0YcekGEWjA| 
 | 20201226 | 发现并提取 Cobalt Strike 的配置信息 | https://mp.weixin.qq.com/s/-jajjhu-6KVQvaZoh59Wuw| 
 | 20201225 | 记一次渗透日本某大学实战案例 | https://mp.weixin.qq.com/s/FFpyzQQeOAvTRQ0iGtXW5A| 
 | 20201225 | 溯源反制基本思路与实战 | https://mp.weixin.qq.com/s/axNXFgyaD-5WSIkPwjkPrQ| 
@@ -40,22 +41,21 @@
 | 20201224 | 搞基大队QQ群验证问题解题过程 | https://mp.weixin.qq.com/s/BmaflwjC6tghjJlysbtYkg| 
 | 20201224 | 记传奇私服浏览器劫持的处置方案 | https://mp.weixin.qq.com/s/-ckPlrgU3O_WEDmTo3Rbyg| 
 | 20201224 | Source Code Audit Training Archive | https://blog.recurity-labs.com/2020-12-23/code-audit-training-archive.html| 
-| 20201224 | 爱奇艺SOAR探索与实践 | https://mp.weixin.qq.com/s/ovJKGWusN2kgxQ_4GkQ8QA| 
 
 
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20201227T11:56:12Z | CVE-2020-6308 | PoC CVE-2020-6308 | https://github.com/InitRoot/CVE-2020-6308-PoC | | 
-| 20201227T10:46:22Z | CVE-2020-17144 | Exchange2010 authorized RCE | https://github.com/Airboi/CVE-2020-17144-EXP | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 42 MINUTES 33 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201227T11:56:12Z | CVE-2020-6308 | PoC CVE-2020-6308 | https://github.com/InitRoot/CVE-2020-6308-PoC | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
+| 20201227T10:46:22Z | CVE-2020-17144 | Exchange2010 authorized RCE | https://github.com/Airboi/CVE-2020-17144-EXP | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 41 MINUTES 32 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20201227T10:00:20Z | CVE-2020-17008 | CVE-2020-17008 splWOW64 Elevation of Privilege | https://github.com/jas502n/CVE-2020-17008 | 未查询到CVE信息| 
 | 20201227T07:14:32Z | CVE-2020-35590 | Brute-force tool for WordPress Plugin Limit Login Attempts Reloaded >=2.13.0 - Login Limit Bypass (CVE-2020-35590) | https://github.com/N4nj0/CVE-2020-35590 | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
-| 20201226T08:17:47Z | CVE-2020-27955 | This is a test to exploit with CVE-2020-27955 | https://github.com/SilverSkyFlyingFeather/CVE-2020-27955-TEST | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 42 MINUTES 47 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20201226T02:03:37Z | CVE-2020-35489 | The (WordPress) website test script can be exploited for Unlimited File Upload via CVE-2020-35489 | https://github.com/dn9uy3n/Check-WP-CVE-2020-35489 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 42 MINUTES 41 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20201225T20:09:05Z | CVE-2020-8165 | Null | https://github.com/taipansec/CVE-2020-8165 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 42 MINUTES 46 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20201225T09:08:30Z | CVE-2020-0796 | Null | https://github.com/datntsec/CVE-2020-0796 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 42 MINUTES 32 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201226T08:17:47Z | CVE-2020-27955 | This is a test to exploit with CVE-2020-27955 | https://github.com/SilverSkyFlyingFeather/CVE-2020-27955-TEST | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 41 MINUTES 45 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201226T02:03:37Z | CVE-2020-35489 | The (WordPress) website test script can be exploited for Unlimited File Upload via CVE-2020-35489 | https://github.com/dn9uy3n/Check-WP-CVE-2020-35489 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 41 MINUTES 39 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201225T20:09:05Z | CVE-2020-8165 | Null | https://github.com/taipansec/CVE-2020-8165 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 41 MINUTES 44 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201225T09:08:30Z | CVE-2020-0796 | Null | https://github.com/datntsec/CVE-2020-0796 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 41 MINUTES 31 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20201225T08:56:24Z | cve-2020-17057 | cve-2020-17057 poc | https://github.com/ze0r/cve-2020-17057 | 未查询到CVE信息| 
-| 20201225T05:50:44Z | CVE-2020-11652 | CVE-2020-11652 & CVE-2020-11651 | https://github.com/Al1ex/CVE-2020-11652 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 42 MINUTES 45 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201225T05:50:44Z | CVE-2020-11652 | CVE-2020-11652 & CVE-2020-11651 | https://github.com/Al1ex/CVE-2020-11652 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 41 MINUTES 43 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 
 
 # klee on Github 推荐
@@ -103,7 +103,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20201227T13:17:30Z | Null | https://github.com/cv1002/SoftwareProjectManagerBackdoor | 1 | 5| 
+| 20201227T13:18:40Z | Null | https://github.com/cv1002/SoftwareProjectManagerBackdoor | 1 | 5| 
 | 20201227T12:37:42Z | Header-only VMWare Backdoor API Implementation & Effortless VMX Patcher for Custom Guest-to-Host RPCs | https://github.com/can1357/vmware-rpc | 35 | 8| 
 | 20201227T12:27:06Z | TrojanZoo provides a universal pytorch platform to conduct security researches (especially backdoor attacks/defenses) of image classification in deep learning. | https://github.com/ain-soph/trojanzoo | 16 | 3| 
 | 20201227T11:35:09Z | This package, written in php, can scan PHP files and analyze your project for find malicious code inside it. It provides a text terminal console interface to scan files in a given directory and find PHP code files the seem to contain malicious code. | https://github.com/marcocesarato/PHP-Antimalware-Scanner | 159 | 29| 
