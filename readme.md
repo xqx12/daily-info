@@ -21,7 +21,7 @@
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
 | 20201227T11:56:12Z | CVE-2020-6308 | PoC CVE-2020-6308 | https://github.com/InitRoot/CVE-2020-6308-PoC | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
-| 20201227T10:46:22Z | CVE-2020-17144 | Exchange2010 authorized RCE | https://github.com/Airboi/CVE-2020-17144-EXP | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 01 MINUTES 29 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201227T10:46:22Z | CVE-2020-17144 | Exchange2010 authorized RCE | https://github.com/Airboi/CVE-2020-17144-EXP | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 00 MINUTES 27 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20201227T10:00:20Z | CVE-2020-17008 | CVE-2020-17008 splWOW64 Elevation of Privilege | https://github.com/jas502n/CVE-2020-17008 | 未查询到CVE信息| 
 | 20201227T07:14:32Z | CVE-2020-35590 | Brute-force tool for WordPress Plugin Limit Login Attempts Reloaded >=2.13.0 - Login Limit Bypass (CVE-2020-35590) | https://github.com/N4nj0/CVE-2020-35590 | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
 
@@ -68,6 +68,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20201227T13:56:31Z | Null | https://github.com/yunusbaysal/Program-that-Automates-House-Credit-Inference-for-Bank-Officers-Using-Fuzzy-Logic-Techniques | 0 | 0| 
 | 20201227T13:13:41Z | Fuzzing cryptographic libraries. Magic bug printer go brrrr. | https://github.com/guidovranken/cryptofuzz | 226 | 31| 
 | 20201227T12:55:53Z | A  playground to learn computer graphics | https://github.com/patiboh/fuzzy-playground | 1 | 0| 
 | 20201227T12:51:15Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 3284 | 755| 
@@ -77,7 +78,6 @@
 | 20201227T10:15:18Z | a c program containing vulnerable code for common types of vulnerabilities, can be used to show fuzzing concepts. | https://github.com/hardik05/Damn_Vulnerable_C_Program | 190 | 17| 
 | 20201227T09:05:00Z | Null | https://github.com/tedtag/tftp_fuzzer | 0 | 0| 
 | 20201227T07:06:32Z | Null | https://github.com/Dmenk123/fuzzy_ahp | 0 | 0| 
-| 20201227T05:57:13Z | My fuzzing data | https://github.com/Fadavvi/Fuzz | 3 | 2| 
 
 
 
