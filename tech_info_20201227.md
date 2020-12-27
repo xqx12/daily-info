@@ -20,7 +20,7 @@
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
 | 20201227T11:56:12Z | CVE-2020-6308 | PoC CVE-2020-6308 | https://github.com/InitRoot/CVE-2020-6308-PoC | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
-| 20201227T10:46:22Z | CVE-2020-17144 | Exchange2010 authorized RCE | https://github.com/Airboi/CVE-2020-17144-EXP | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 29 MINUTES 22 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201227T10:46:22Z | CVE-2020-17144 | Exchange2010 authorized RCE | https://github.com/Airboi/CVE-2020-17144-EXP | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 27 MINUTES 30 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20201227T10:00:20Z | CVE-2020-17008 | CVE-2020-17008 splWOW64 Elevation of Privilege | https://github.com/jas502n/CVE-2020-17008 | 未查询到CVE信息| 
 | 20201227T07:14:32Z | CVE-2020-35590 | Brute-force tool for WordPress Plugin Limit Login Attempts Reloaded >=2.13.0 - Login Limit Bypass (CVE-2020-35590) | https://github.com/N4nj0/CVE-2020-35590 | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
 
@@ -38,7 +38,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20201227T13:30:55Z | In this paper I will initially retrace the path marked by Ray C. Fair with his long lasting series of presidential elections forecasts exploiting the same variables he uses but enriching the model with panel data. Exploiting the Fixed Effects estimation I will then add new variables that, according to our intuition, could lead to an overall improvement of the model and test for them applying the LASSO algorithm for model selection. I will finally infer the results and explore the possible challenges in disentangling causality from correlation | https://github.com/Hainexx/A-Brief-Panel-Data-Analysis-to-Forecast-U.S.-Presidential-Election | 0 | 0| 
+| 20201227T13:32:30Z | In this paper I will initially retrace the path marked by Ray C. Fair with his long lasting series of presidential elections forecasts exploiting the same variables he uses but enriching the model with panel data. Exploiting the Fixed Effects estimation I will then add new variables that, according to our intuition, could lead to an overall improvement of the model and test for them applying the LASSO algorithm for model selection. I will finally infer the results and explore the possible challenges in disentangling causality from correlation | https://github.com/Hainexx/A-Brief-Panel-Data-Analysis-to-Forecast-U.S.-Presidential-Election | 0 | 0| 
 | 20201227T13:23:52Z | A simple scrape script in python which scrap daily based exploits and cves from cx security website. | https://github.com/venomSec-dev/Venom-Exploit-Updater | 1 | 0| 
 | 20201227T13:07:38Z | Null | https://github.com/gemini-15/exploits | 0 | 0| 
 | 20201227T12:37:52Z | My collection of pentesting tools, notes and exploits | https://github.com/gikabyte27/Pentest | 0 | 0| 
@@ -53,7 +53,8 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20201227T13:19:28Z | Null | https://github.com/cv1002/SoftwareProjectManagerBackdoor | 1 | 5| 
+| 20201227T13:32:12Z | I made a Backdoor in Python-script. with that you can connect to every device and Hack it. | https://github.com/ZeroZipp-Studios/Backdoor | 0 | 0| 
+| 20201227T13:28:06Z | Null | https://github.com/cv1002/SoftwareProjectManagerBackdoor | 1 | 5| 
 | 20201227T12:37:42Z | Header-only VMWare Backdoor API Implementation & Effortless VMX Patcher for Custom Guest-to-Host RPCs | https://github.com/can1357/vmware-rpc | 35 | 8| 
 | 20201227T12:27:06Z | TrojanZoo provides a universal pytorch platform to conduct security researches (especially backdoor attacks/defenses) of image classification in deep learning. | https://github.com/ain-soph/trojanzoo | 16 | 3| 
 | 20201227T11:35:09Z | This package, written in php, can scan PHP files and analyze your project for find malicious code inside it. It provides a text terminal console interface to scan files in a given directory and find PHP code files the seem to contain malicious code. | https://github.com/marcocesarato/PHP-Antimalware-Scanner | 159 | 29| 
