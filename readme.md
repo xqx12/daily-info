@@ -17,11 +17,11 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20201226T20:31:02Z | CVE-2020-17144 | Exchange2010 authorized RCE | https://github.com/Airboi/CVE-2020-17144-EXP | | 
+| 20201226T20:31:02Z | CVE-2020-17144 | Exchange2010 authorized RCE | https://github.com/Airboi/CVE-2020-17144-EXP | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 58 MINUTES 29 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20201226T15:16:20Z | CVE-2020-17008 | CVE-2020-17008 splWOW64 Elevation of Privilege | https://github.com/jas502n/CVE-2020-17008 | 未查询到CVE信息| 
-| 20201226T14:42:17Z | CVE-2020-35590 | Brute-force tool for WordPress Plugin Limit Login Attempts Reloaded >=2.13.0 - Login Limit Bypass (CVE-2020-35590) | https://github.com/N4nj0/CVE-2020-35590 | | 
+| 20201226T14:42:17Z | CVE-2020-35590 | Brute-force tool for WordPress Plugin Limit Login Attempts Reloaded >=2.13.0 - Login Limit Bypass (CVE-2020-35590) | https://github.com/N4nj0/CVE-2020-35590 | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
 | 20201226T08:17:47Z | CVE-2020-27955 | This is a test to exploit with CVE-2020-27955 | https://github.com/SilverSkyFlyingFeather/CVE-2020-27955-TEST | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 58 MINUTES 44 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
-| 20201226T02:03:37Z | CVE-2020-35489 | The (WordPress) website test script can be exploited for Unlimited File Upload via CVE-2020-35489 | https://github.com/dn9uy3n/Check-WP-CVE-2020-35489 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 59 MINUTES 37 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201226T02:03:37Z | CVE-2020-35489 | The (WordPress) website test script can be exploited for Unlimited File Upload via CVE-2020-35489 | https://github.com/dn9uy3n/Check-WP-CVE-2020-35489 | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 58 MINUTES 37 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 
 
 # klee on Github 推荐
@@ -70,16 +70,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20201226T13:48:58Z | afl-fuzz in no-cooperate environment. | https://github.com/FizzFish/nocoo | 0 | 0| 
-| 20201226T13:18:09Z | Common Web Managers Fuzz Wordlists | https://github.com/kaimi-io/web-fuzz-wordlists | 84 | 18| 
-| 20201226T12:41:47Z | The code behind getfursu.it | https://github.com/veelkoov/fuzzrake | 6 | 0| 
-| 20201226T12:32:02Z | Null | https://github.com/Ri424/fuzzy-waddle | 0 | 0| 
-| 20201226T12:29:11Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 1205 | 255| 
-| 20201226T11:49:35Z | Libxml2 Fuzzing using LibFuzzer and AFL | https://github.com/Obaid51/Libxml2--Fuzzing | 0 | 0| 
-| 20201226T11:43:10Z | Fuzzing of Libxml2 using 1- LibFuzzer 2- AFL | https://github.com/Obaid51/Libxml2-Fuzzing | 0 | 0| 
-| 20201226T11:25:38Z | Null | https://github.com/loctempt/learningFuzz | 0 | 0| 
-| 20201226T11:21:24Z | Assignment questions done as a part of Neural Networks and Fuzzy logic course (BITS Hyderabad,2020) | https://github.com/kart324/Neural-Networks-and-Fuzzy-logic | 0 | 0| 
-| 20201226T11:08:05Z | No frills. No fuzz. No second coating. Just that frobulator stuff. | https://github.com/olle/tarnished | 1 | 0| 
+| 20201226T23:06:01Z | https://github.com/wcventure/FuzzingPaper | https://github.com/mishmashclone/wcventure-FuzzingPaper | 1 | 0| 
+| 20201226T22:08:24Z | Simple Script to Control Drugstore Warehouse using an Expert System Based on Fuzzy Rules | https://github.com/wildonion/fuzzy-drugstore | 0 | 0| 
+| 20201226T21:53:44Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 1207 | 256| 
+| 20201226T21:52:46Z | Null | https://github.com/Sambigeara/fuzzy-note | 2 | 1| 
+| 20201226T21:44:58Z | Fuzzy matching for Neovim | https://github.com/amirrezaask/fuzzy.nvim | 23 | 1| 
+| 20201226T21:13:25Z | Research project on Software Technology for WebAssembly WASM (on superoptimization, diversification, fuzzing) | https://github.com/KTH/slumps | 23 | 4| 
+| 20201226T19:17:32Z | A Go library that provides a simple API for fuzzy string matching. The implemented algorithm is based on cosine-similarity.  | https://github.com/mohamadHarith/fuzzymatch | 1 | 0| 
+| 20201226T18:46:00Z | Null | https://github.com/a4w/GA-fuzzy-team-allocation | 0 | 0| 
+| 20201226T17:41:43Z | Null | https://github.com/ralhafizhi/Fuzzy-Sugeno-Using-Matlab | 0 | 0| 
+| 20201226T17:38:06Z | Null | https://github.com/ralhafizhi/Fuzzy-Mamdani-Using-Matlab | 0 | 0| 
 
 
 
