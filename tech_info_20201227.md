@@ -73,7 +73,7 @@
 | 20201227T22:49:53Z | Null | https://github.com/Sambigeara/fuzzy-note | 2 | 1| 
 | 20201227T21:53:57Z | Null | https://github.com/Nada-Nasser/Fuzzy-Logic-ToolBox | 0 | 0| 
 | 20201227T21:40:04Z | Simple Script to Control Drugstore Warehouse using an Expert System Based on Fuzzy Rules | https://github.com/wildonion/fuzzy-drugstore | 0 | 0| 
-| 20201227T20:00:32Z | OSS-Fuzz - continuous fuzzing of open source software. | https://github.com/google/oss-fuzz | 5762 | 1145| 
+| 20201227T20:00:32Z | OSS-Fuzz - continuous fuzzing of open source software. | https://github.com/google/oss-fuzz | 5762 | 1146| 
 | 20201227T19:10:48Z | The Book %Generating Software Tests% | https://github.com/uds-se/fuzzingbook | 459 | 90| 
 | 20201227T19:01:42Z | a c program containing vulnerable code for common types of vulnerabilities, can be used to show fuzzing concepts. | https://github.com/hardik05/Damn_Vulnerable_C_Program | 191 | 17| 
 | 20201227T18:23:43Z | A  playground to learn computer graphics | https://github.com/patiboh/fuzzy-playground | 1 | 0| 
