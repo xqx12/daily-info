@@ -16,6 +16,7 @@
 | 20201228 | Avast、McAfee 等杀软的 8 个0Day 漏洞分析 | https://halove23.blogspot.com/2020/12/oh-so-you-have-antivirus-nameevery-bug.html| 
 | 20201228 | 前段时间推送的 Antivirus Artifacts，作者写了 Part2 | https://github.com/D3VI5H4/Antivirus-Artifacts/blob/main/AntivirusArtifacts2.pdf| 
 | 20201228 | resmack-rust - Feedback-driven Grammar Fuzzing | https://sec.today/pulses/ec401c54-a236-49ff-b387-7f547516d3dc/| 
+| 20201228 | resmack-rust - Feedback-driven Grammar Fuzzing | https://narly.me/posts/resmack-grammar-fuzz-thoughts-4/| 
 | 20201227 | Windows内核编程书籍 | https://github.com/XShar/Windows_Kernel_Programming| 
 | 20201225 | 可视化查看进程内存地址空间的工具 | https://github.com/0vercl0k/clairvoyance| 
 | 20201224 | bottom - 一款跨平台的系统资源监控工具 | https://github.com/ClementTsang/bottom| 
@@ -25,7 +26,6 @@
 | 20201224 | 手机设备的数据安全现状分析报告 paper | https://securephones.io/main.pdf| 
 | 20201224 | Windows splWOW64 本地提权漏洞，由于超过 90 天未修复，Project Zero 已公开漏洞细节 | https://bugs.chromium.org/p/project-zero/issues/detail?id=2096| 
 | 20201224 | Fault Oriented Debugging | https://calabi-yau.space/blog/triple-fault-debugging.html| 
-| 20201224 | Make Memcpy Safe Again: CodeQL | https://www.cyberark.com/resources/threat-research-blog/make-memcpy-safe-again-codeql| 
 
 
 # 安全维基 推荐
@@ -53,8 +53,8 @@
 | 20201227T07:14:32Z | CVE-2020-35590 | Brute-force tool for WordPress Plugin Limit Login Attempts Reloaded >=2.13.0 - Login Limit Bypass (CVE-2020-35590) | https://github.com/N4nj0/CVE-2020-35590 | LimitLoginAttempts.php in the limit-login-attempts-reloaded plugin before 2.17.4 for WordPress allows a bypass of (per IP address) rate limits because the X-Forwarded-For header can be forged. When the plugin is configured to accept an arbitrary header for the client source IP address, a malicious user is not limited to perform a brute force attack, because the client IP header accepts any arbitrary string. When randomizing the header input, the login count does not ever reach the maximum allowed retries.| 
 | 20201226T08:17:47Z | CVE-2020-27955 | This is a test to exploit with CVE-2020-27955 | https://github.com/SilverSkyFlyingFeather/CVE-2020-27955-TEST | Git LFS 2.12.0 allows Remote Code Execution.| 
 | 20201226T02:03:37Z | CVE-2020-35489 | The (WordPress) website test script can be exploited for Unlimited File Upload via CVE-2020-35489 | https://github.com/dn9uy3n/Check-WP-CVE-2020-35489 | The contact-form-7 (aka Contact Form 7) plugin before 5.3.2 for WordPress allows Unrestricted File Upload and remote code execution because a filename may contain special characters.| 
-| 20201225T20:09:05Z | CVE-2020-8165 | Null | https://github.com/taipansec/CVE-2020-8165 | A deserialization of untrusted data vulnernerability exists in rails < 5.2.4.3, rails < 6.0.3.1 that can allow an attacker to unmarshal user-provided objects in MemCacheStore and RedisCacheStore potentially resulting in an RCE.| 
-| 20201225T09:08:30Z | CVE-2020-0796 | Null | https://github.com/datntsec/CVE-2020-0796 | | 
+| 20201225T20:09:05Z | CVE-2020-8165 | Null | https://github.com/taipansec/CVE-2020-8165 | | 
+| 20201225T09:08:30Z | CVE-2020-0796 | Null | https://github.com/datntsec/CVE-2020-0796 | A remote code execution vulnerability exists in the way that the Microsoft Server Message Block 3.1.1 (SMBv3) protocol handles certain requests, aka %Windows SMBv3 Client/Server Remote Code Execution Vulnerability%.| 
 | 20201225T08:56:24Z | cve-2020-17057 | cve-2020-17057 poc | https://github.com/ze0r/cve-2020-17057 | 未查询到CVE信息| 
 
 
@@ -103,31 +103,31 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20201228T02:53:59Z | Header-only VMWare Backdoor API Implementation & Effortless VMX Patcher for Custom Guest-to-Host RPCs | https://github.com/can1357/vmware-rpc | 50 | 9| 
-| 20201228T02:27:36Z | A backdoor program  | https://github.com/FurYzen/Itherum | 0 | 0| 
+| 20201228T12:36:50Z | Header-only VMWare Backdoor API Implementation & Effortless VMX Patcher for Custom Guest-to-Host RPCs | https://github.com/can1357/vmware-rpc | 58 | 10| 
+| 20201228T10:47:08Z | Null | https://github.com/rabbitx1337/backdoor | 0 | 0| 
+| 20201228T08:31:32Z | Null | https://github.com/cv1002/SoftwareProjectManagerBackdoor | 1 | 5| 
+| 20201228T08:12:34Z | Analysis of SunBurst (SolarWinds) embedded backdoor | https://github.com/conikeec/sunburst-analysis | 0 | 1| 
+| 20201228T04:06:27Z | A backdoor program  | https://github.com/FurYzen/Itherum | 0 | 0| 
 | 20201228T01:11:08Z | Backdoor Shell | https://github.com/kaitolegion/Backdoor | 1 | 4| 
 | 20201227T22:15:19Z | Analysis of the backdoor use for the SolarWinds Orion hack | https://github.com/SecuProject/Sunburst-Analysis | 0 | 0| 
 | 20201227T18:56:19Z | This package, written in php, can scan PHP files and analyze your project for find malicious code inside it. It provides a text terminal console interface to scan files in a given directory and find PHP code files the seem to contain malicious code. | https://github.com/marcocesarato/PHP-Antimalware-Scanner | 159 | 29| 
 | 20201227T16:37:57Z | Damn easy multiplatform Node.js RAT generator. | https://github.com/roccomuso/netrat | 12 | 11| 
 | 20201227T14:21:55Z | Ghost Framework is an Android post-exploitation framework that exploits the Android Debug Bridge to remotely access an Android device. Ghost Framework gives you the power and convenience of remote Android device administration. | https://github.com/EntySec/ghost | 892 | 450| 
-| 20201227T13:35:54Z | Null | https://github.com/MadsKaiser/backdoor | 0 | 0| 
-| 20201227T13:32:12Z | I made a Backdoor in Python-script. with that you can connect to every device and Hack it. | https://github.com/ZeroZipp-Studios/Backdoor | 0 | 0| 
-| 20201227T13:28:06Z | Null | https://github.com/cv1002/SoftwareProjectManagerBackdoor | 1 | 5| 
 
 
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20201228T02:50:35Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 28995 | 14556| 
-| 20201228T02:20:56Z | The forum application with automatic fuzzy generator of new topics | https://github.com/Luvkitri/fuzzy-forum-frontend | 0 | 0| 
-| 20201228T02:11:19Z | Rapid fuzzy string matching in Python using the Levenshtein Distance | https://github.com/maxbachmann/RapidFuzz | 740 | 25| 
-| 20201228T02:06:28Z | afl-fuzz in no-cooperate environment. | https://github.com/FizzFish/nocoo | 0 | 0| 
-| 20201228T01:51:46Z | Null | https://github.com/wanggor/fuzzy-break-simulator | 0 | 0| 
-| 20201228T01:02:39Z | Fuzzing cryptographic libraries. Magic bug printer go brrrr. | https://github.com/guidovranken/cryptofuzz | 227 | 31| 
-| 20201227T23:26:33Z | A fork and successor of the Sulley Fuzzing Framework | https://github.com/jtpereyda/boofuzz | 1117 | 231| 
-| 20201227T22:49:53Z | Null | https://github.com/Sambigeara/fuzzy-note | 2 | 1| 
-| 20201227T21:53:57Z | Null | https://github.com/Nada-Nasser/Fuzzy-Logic-ToolBox | 0 | 0| 
-| 20201227T21:40:04Z | Simple Script to Control Drugstore Warehouse using an Expert System Based on Fuzzy Rules | https://github.com/wildonion/fuzzy-drugstore | 0 | 0| 
+| 20201228T12:55:00Z | Null | https://github.com/ercoppa-bot/fuzzolic-builder-ci | 0 | 0| 
+| 20201228T12:54:22Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 1209 | 256| 
+| 20201228T12:42:32Z | A  playground to learn computer graphics | https://github.com/patiboh/fuzzy-playground | 1 | 0| 
+| 20201228T12:20:16Z | Null | https://github.com/FDU-Program-Analysis/chunk-fuzzer-pass | 0 | 0| 
+| 20201228T12:14:30Z | Fuzzy logic notes | https://github.com/foreverloop/fuzz | 0 | 0| 
+| 20201228T11:53:13Z | Fast web fuzzer written in Go | https://github.com/ffuf/ffuf | 3546 | 416| 
+| 20201228T11:31:19Z | 通过一些简单的示例，学习如何上手AFL | https://github.com/loctempt/learningFuzz | 0 | 0| 
+| 20201228T11:15:32Z | Null | https://github.com/charles-lei/Fuzzer | 0 | 0| 
+| 20201228T11:03:27Z | Null | https://github.com/DraftTin/FuzzyPatternRecognition | 0 | 0| 
+| 20201228T10:44:11Z | Script made for analyzing network parameters to give optimal result | https://github.com/Sancene/FuzzyProject | 0 | 0| 
 
 
 

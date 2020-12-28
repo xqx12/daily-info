@@ -16,6 +16,7 @@
 | 20201228 | Avast、McAfee 等杀软的 8 个0Day 漏洞分析 | https://halove23.blogspot.com/2020/12/oh-so-you-have-antivirus-nameevery-bug.html| 
 | 20201228 | 前段时间推送的 Antivirus Artifacts，作者写了 Part2 | https://github.com/D3VI5H4/Antivirus-Artifacts/blob/main/AntivirusArtifacts2.pdf| 
 | 20201228 | resmack-rust - Feedback-driven Grammar Fuzzing | https://sec.today/pulses/ec401c54-a236-49ff-b387-7f547516d3dc/| 
+| 20201228 | resmack-rust - Feedback-driven Grammar Fuzzing | https://narly.me/posts/resmack-grammar-fuzz-thoughts-4/| 
 
 
 # 安全维基 推荐
@@ -69,20 +70,27 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20201228T02:53:59Z | Header-only VMWare Backdoor API Implementation & Effortless VMX Patcher for Custom Guest-to-Host RPCs | https://github.com/can1357/vmware-rpc | 50 | 9| 
-| 20201228T02:27:36Z | A backdoor program  | https://github.com/FurYzen/Itherum | 0 | 0| 
+| 20201228T12:36:50Z | Header-only VMWare Backdoor API Implementation & Effortless VMX Patcher for Custom Guest-to-Host RPCs | https://github.com/can1357/vmware-rpc | 58 | 10| 
+| 20201228T10:47:08Z | Null | https://github.com/rabbitx1337/backdoor | 0 | 0| 
+| 20201228T08:31:32Z | Null | https://github.com/cv1002/SoftwareProjectManagerBackdoor | 1 | 5| 
+| 20201228T08:12:34Z | Analysis of SunBurst (SolarWinds) embedded backdoor | https://github.com/conikeec/sunburst-analysis | 0 | 1| 
+| 20201228T04:06:27Z | A backdoor program  | https://github.com/FurYzen/Itherum | 0 | 0| 
 | 20201228T01:11:08Z | Backdoor Shell | https://github.com/kaitolegion/Backdoor | 1 | 4| 
 
 
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20201228T02:50:35Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 28995 | 14556| 
-| 20201228T02:20:56Z | The forum application with automatic fuzzy generator of new topics | https://github.com/Luvkitri/fuzzy-forum-frontend | 0 | 0| 
-| 20201228T02:11:19Z | Rapid fuzzy string matching in Python using the Levenshtein Distance | https://github.com/maxbachmann/RapidFuzz | 740 | 25| 
-| 20201228T02:06:28Z | afl-fuzz in no-cooperate environment. | https://github.com/FizzFish/nocoo | 0 | 0| 
-| 20201228T01:51:46Z | Null | https://github.com/wanggor/fuzzy-break-simulator | 0 | 0| 
-| 20201228T01:02:39Z | Fuzzing cryptographic libraries. Magic bug printer go brrrr. | https://github.com/guidovranken/cryptofuzz | 227 | 31| 
+| 20201228T12:55:00Z | Null | https://github.com/ercoppa-bot/fuzzolic-builder-ci | 0 | 0| 
+| 20201228T12:54:22Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 1209 | 256| 
+| 20201228T12:42:32Z | A  playground to learn computer graphics | https://github.com/patiboh/fuzzy-playground | 1 | 0| 
+| 20201228T12:20:16Z | Null | https://github.com/FDU-Program-Analysis/chunk-fuzzer-pass | 0 | 0| 
+| 20201228T12:14:30Z | Fuzzy logic notes | https://github.com/foreverloop/fuzz | 0 | 0| 
+| 20201228T11:53:13Z | Fast web fuzzer written in Go | https://github.com/ffuf/ffuf | 3546 | 416| 
+| 20201228T11:31:19Z | 通过一些简单的示例，学习如何上手AFL | https://github.com/loctempt/learningFuzz | 0 | 0| 
+| 20201228T11:15:32Z | Null | https://github.com/charles-lei/Fuzzer | 0 | 0| 
+| 20201228T11:03:27Z | Null | https://github.com/DraftTin/FuzzyPatternRecognition | 0 | 0| 
+| 20201228T10:44:11Z | Script made for analyzing network parameters to give optimal result | https://github.com/Sancene/FuzzyProject | 0 | 0| 
 
 
 
