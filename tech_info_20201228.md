@@ -81,6 +81,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20201228T13:10:19Z | Fuzzy search modules for searching lists of words in low quality OCR and HTR text. | https://github.com/marijnkoolen/fuzzy-search | 2 | 0| 
 | 20201228T12:55:00Z | Null | https://github.com/ercoppa-bot/fuzzolic-builder-ci | 0 | 0| 
 | 20201228T12:54:22Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 1209 | 256| 
 | 20201228T12:42:32Z | A  playground to learn computer graphics | https://github.com/patiboh/fuzzy-playground | 1 | 0| 
@@ -90,7 +91,6 @@
 | 20201228T11:31:19Z | 通过一些简单的示例，学习如何上手AFL | https://github.com/loctempt/learningFuzz | 0 | 0| 
 | 20201228T11:15:32Z | Null | https://github.com/charles-lei/Fuzzer | 0 | 0| 
 | 20201228T11:03:27Z | Null | https://github.com/DraftTin/FuzzyPatternRecognition | 0 | 0| 
-| 20201228T10:44:11Z | Script made for analyzing network parameters to give optimal result | https://github.com/Sancene/FuzzyProject | 0 | 0| 
 
 
 
