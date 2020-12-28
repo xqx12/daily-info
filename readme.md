@@ -34,7 +34,7 @@
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
 | 20201228T13:18:48Z | CVE-2020-8840 | Jackson-databind远程代码执行漏洞（CVE-2020-8840）分析复现环境代码 | https://github.com/Veraxy01/CVE-2020-8840 | FasterXML jackson-databind 2.0.0 through 2.9.10.2 lacks certain xbean-reflect/JNDI blocking, as demonstrated by org.apache.xbean.propertyeditor.JndiConverter.| 
-| 20201228T12:50:47Z | CVE-2020-6308 | PoC CVE-2020-6308 | https://github.com/InitRoot/CVE-2020-6308-PoC | | 
+| 20201228T12:50:47Z | CVE-2020-6308 | PoC CVE-2020-6308 | https://github.com/InitRoot/CVE-2020-6308-PoC | SAP BusinessObjects Business Intelligence Platform (Web Services) versions - 410, 420, 430, allows an unauthenticated attacker to inject arbitrary values as CMS parameters to perform lookups on the internal network which is otherwise not accessible externally. On successful exploitation, attacker can scan internal network to determine internal infrastructure and gather information for further attacks like remote file inclusion, retrieve server files, bypass firewall and force the vulnerable server to perform malicious requests, resulting in a Server-Side Request Forgery vulnerability.| 
 | 20201228T12:41:49Z | CVE-2020-17008 | CVE-2020-17008 splWOW64 Elevation of Privilege | https://github.com/jas502n/CVE-2020-17008 | 未查询到CVE信息| 
 | 20201228T08:16:05Z | CVE-2020-17144 | Exchange2010 authorized RCE | https://github.com/Airboi/CVE-2020-17144-EXP | , aka %Microsoft Exchange Remote Code Execution Vulnerability%. This CVE ID is unique from CVE-2020-17117, CVE-2020-17132, CVE-2020-17141, CVE-2020-17142.| 
 | 20201228T08:13:57Z | CVE-2020-17035 | CVE-2020-17035 patch analysis | https://github.com/flamelu/CVE-2020-17035-patch-analysis | Windows Kernel Elevation of Privilege Vulnerability| 
@@ -82,7 +82,9 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20201228T13:10:19Z | Fuzzy search modules for searching lists of words in low quality OCR and HTR text. | https://github.com/marijnkoolen/fuzzy-search | 2 | 0| 
+| 20201228T13:25:26Z | implementation of a tiny fuzzy clasifier | https://github.com/AlmuHS/FuzzyClasifier_Exercise | 0 | 0| 
+| 20201228T13:23:01Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 3286 | 755| 
+| 20201228T13:17:15Z | Fuzzy search modules for searching lists of words in low quality OCR and HTR text. | https://github.com/marijnkoolen/fuzzy-search | 2 | 0| 
 | 20201228T12:55:00Z | Null | https://github.com/ercoppa-bot/fuzzolic-builder-ci | 0 | 0| 
 | 20201228T12:54:22Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 1209 | 256| 
 | 20201228T12:42:32Z | A  playground to learn computer graphics | https://github.com/patiboh/fuzzy-playground | 1 | 0| 
@@ -90,8 +92,6 @@
 | 20201228T12:14:30Z | Fuzzy logic notes | https://github.com/foreverloop/fuzz | 0 | 0| 
 | 20201228T11:53:13Z | Fast web fuzzer written in Go | https://github.com/ffuf/ffuf | 3546 | 416| 
 | 20201228T11:31:19Z | 通过一些简单的示例，学习如何上手AFL | https://github.com/loctempt/learningFuzz | 0 | 0| 
-| 20201228T11:15:32Z | Null | https://github.com/charles-lei/Fuzzer | 0 | 0| 
-| 20201228T11:03:27Z | Null | https://github.com/DraftTin/FuzzyPatternRecognition | 0 | 0| 
 
 
 
