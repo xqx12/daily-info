@@ -33,12 +33,12 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20201228T13:45:30Z | cve-2020-27955 | cve-2020-27955 | https://github.com/zero4v/cve-2020-27955 | 未查询到CVE信息| 
+| 20201228T13:45:30Z | cve-2020-27955 | cve-2020-27955 | https://github.com/zero4v/cve-2020-27955 | | 
 | 20201228T13:18:48Z | CVE-2020-8840 | Jackson-databind远程代码执行漏洞（CVE-2020-8840）分析复现环境代码 | https://github.com/Veraxy01/CVE-2020-8840 | | 
 | 20201228T12:50:47Z | CVE-2020-6308 | PoC CVE-2020-6308 | https://github.com/InitRoot/CVE-2020-6308-PoC | SAP BusinessObjects Business Intelligence Platform (Web Services) versions - 410, 420, 430, allows an unauthenticated attacker to inject arbitrary values as CMS parameters to perform lookups on the internal network which is otherwise not accessible externally. On successful exploitation, attacker can scan internal network to determine internal infrastructure and gather information for further attacks like remote file inclusion, retrieve server files, bypass firewall and force the vulnerable server to perform malicious requests, resulting in a Server-Side Request Forgery vulnerability.| 
 | 20201228T12:41:49Z | CVE-2020-17008 | CVE-2020-17008 splWOW64 Elevation of Privilege | https://github.com/jas502n/CVE-2020-17008 | 未查询到CVE信息| 
 | 20201228T08:16:05Z | CVE-2020-17144 | Exchange2010 authorized RCE | https://github.com/Airboi/CVE-2020-17144-EXP | , aka %Microsoft Exchange Remote Code Execution Vulnerability%. This CVE ID is unique from CVE-2020-17117, CVE-2020-17132, CVE-2020-17141, CVE-2020-17142.| 
-| 20201228T08:13:57Z | CVE-2020-17035 | CVE-2020-17035 patch analysis | https://github.com/flamelu/CVE-2020-17035-patch-analysis | | 
+| 20201228T08:13:57Z | CVE-2020-17035 | CVE-2020-17035 patch analysis | https://github.com/flamelu/CVE-2020-17035-patch-analysis | Windows Kernel Elevation of Privilege Vulnerability| 
 
 
 # klee on Github 推荐
@@ -57,6 +57,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20201228T13:51:35Z | Null | https://github.com/vishack/Exploit | 0 | 0| 
 | 20201228T13:48:38Z | A WIP %Vulnerable by Design% kext for iOS/macOS to play & learn *OS kernel exploitation | https://github.com/ant4g0nist/Vulnerable-Kext | 19 | 3| 
 | 20201228T13:39:59Z | Router Exploitation Tools. Checks for WinBox Authentication Bypass Disclosure, RouterOS Jailbreak vulnerabilities & ByTheWay RCE | https://github.com/s1l3nt78/MkCheck | 49 | 16| 
 | 20201228T13:37:31Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 8819 | 1392| 
@@ -66,7 +67,6 @@
 | 20201228T11:51:27Z | This program increases a user%s snap score. It uses a Snapchat exploit in order to increase a users snap score. | https://github.com/Quessts/Snapify | 2 | 0| 
 | 20201228T11:45:46Z | Remote acces for wordpress websites | https://github.com/emyounoone/Wordpress-Remote-Shell-Exploit | 0 | 0| 
 | 20201228T11:26:56Z | JSshell - JavaScript reverse/remote shell | https://github.com/shelld3v/JSshell | 143 | 33| 
-| 20201228T11:23:14Z | Some exercises from my System and Network Hacking course @ University of Pisa | https://github.com/loresuso/BinaryExploitation | 0 | 0| 
 
 
 # backdoor on Github 推荐
