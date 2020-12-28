@@ -118,16 +118,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20201228T13:58:50Z | Null | https://github.com/CEB17/kelompok5_teknik_kompilasi_fuzzy | 0 | 0| 
+| 20201228T13:51:41Z | Fuzzinator Random Testing Framework | https://github.com/renatahodovan/fuzzinator | 164 | 38| 
+| 20201228T13:45:55Z | Fuzzing corpus for fuzzing rtl_433 decoders. | https://github.com/Mindavi/rtl_433_fuzzing_corpus | 0 | 0| 
+| 20201228T13:34:06Z | Null | https://github.com/kiwidancebad/fuzzy-analysis | 0 | 0| 
+| 20201228T13:30:50Z | Planning tool | https://github.com/HappyDustbunny/FuzzyFlexx | 1 | 0| 
 | 20201228T13:25:26Z | implementation of a tiny fuzzy clasifier | https://github.com/AlmuHS/FuzzyClasifier_Exercise | 0 | 0| 
 | 20201228T13:23:01Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 3286 | 755| 
 | 20201228T13:17:15Z | Fuzzy search modules for searching lists of words in low quality OCR and HTR text. | https://github.com/marijnkoolen/fuzzy-search | 2 | 0| 
 | 20201228T12:55:00Z | Null | https://github.com/ercoppa-bot/fuzzolic-builder-ci | 0 | 0| 
 | 20201228T12:54:22Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 1209 | 256| 
-| 20201228T12:42:32Z | A  playground to learn computer graphics | https://github.com/patiboh/fuzzy-playground | 1 | 0| 
-| 20201228T12:20:16Z | Null | https://github.com/FDU-Program-Analysis/chunk-fuzzer-pass | 0 | 0| 
-| 20201228T12:14:30Z | Fuzzy logic notes | https://github.com/foreverloop/fuzz | 0 | 0| 
-| 20201228T11:53:13Z | Fast web fuzzer written in Go | https://github.com/ffuf/ffuf | 3546 | 416| 
-| 20201228T11:31:19Z | 通过一些简单的示例，学习如何上手AFL | https://github.com/loctempt/learningFuzz | 0 | 0| 
 
 
 
