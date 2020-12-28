@@ -71,7 +71,7 @@
 | --- | --- | --- | --- | ---| 
 | 20201227T23:26:33Z | A fork and successor of the Sulley Fuzzing Framework | https://github.com/jtpereyda/boofuzz | 1117 | 231| 
 | 20201227T22:49:53Z | Null | https://github.com/Sambigeara/fuzzy-note | 2 | 1| 
-| 20201227T22:28:30Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 28994 | 14556| 
+| 20201227T22:28:30Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 28994 | 14555| 
 | 20201227T21:53:57Z | Null | https://github.com/Nada-Nasser/Fuzzy-Logic-ToolBox | 0 | 0| 
 | 20201227T21:40:04Z | Simple Script to Control Drugstore Warehouse using an Expert System Based on Fuzzy Rules | https://github.com/wildonion/fuzzy-drugstore | 0 | 0| 
 | 20201227T20:00:32Z | OSS-Fuzz - continuous fuzzing of open source software. | https://github.com/google/oss-fuzz | 5762 | 1145| 
