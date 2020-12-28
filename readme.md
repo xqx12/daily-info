@@ -21,7 +21,7 @@
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
 | 20201227T23:16:07Z | CVE-2020-6308 | PoC CVE-2020-6308 | https://github.com/InitRoot/CVE-2020-6308-PoC | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
-| 20201227T14:08:59Z | CVE-2020-17144 | Exchange2010 authorized RCE | https://github.com/Airboi/CVE-2020-17144-EXP | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 56 MINUTES 30 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
+| 20201227T14:08:59Z | CVE-2020-17144 | Exchange2010 authorized RCE | https://github.com/Airboi/CVE-2020-17144-EXP | MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 55 MINUTES 31 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE| 
 | 20201227T10:00:20Z | CVE-2020-17008 | CVE-2020-17008 splWOW64 Elevation of Privilege | https://github.com/jas502n/CVE-2020-17008 | 未查询到CVE信息| 
 | 20201227T07:14:32Z | CVE-2020-35590 | Brute-force tool for WordPress Plugin Limit Login Attempts Reloaded >=2.13.0 - Login Limit Bypass (CVE-2020-35590) | https://github.com/N4nj0/CVE-2020-35590 | QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS| 
 
@@ -41,7 +41,7 @@
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
 | 20201227T23:53:44Z | attempts at finding bugs and exploits | https://github.com/docfate111/bug-bounty | 0 | 0| 
-| 20201227T23:46:30Z | Offensive Software Exploitation Course | https://github.com/ashemery/exploitation-course | 142 | 48| 
+| 20201227T23:46:30Z | Offensive Software Exploitation Course | https://github.com/ashemery/exploitation-course | 142 | 49| 
 | 20201227T23:27:07Z | This bash script will help you to hack remote hosts  | https://github.com/FabioDefilippo/linuxallremote | 2 | 1| 
 | 20201227T22:58:22Z | Path Traversal Exploiter (IN PROGRESS STILL) | https://github.com/bdunlap9/Path-Traversal-Exploiter | 0 | 0| 
 | 20201227T22:35:08Z | A macro for exploiting the Muse Terminal for EKG data extraction | https://github.com/SNUH-BMI/EKG-macro | 0 | 0| 
@@ -75,11 +75,11 @@
 | 20201227T22:28:30Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 28994 | 14556| 
 | 20201227T21:53:57Z | Null | https://github.com/Nada-Nasser/Fuzzy-Logic-ToolBox | 0 | 0| 
 | 20201227T21:40:04Z | Simple Script to Control Drugstore Warehouse using an Expert System Based on Fuzzy Rules | https://github.com/wildonion/fuzzy-drugstore | 0 | 0| 
-| 20201227T20:21:40Z | Fuzzing cryptographic libraries. Magic bug printer go brrrr. | https://github.com/guidovranken/cryptofuzz | 226 | 31| 
 | 20201227T20:00:32Z | OSS-Fuzz - continuous fuzzing of open source software. | https://github.com/google/oss-fuzz | 5762 | 1145| 
 | 20201227T19:10:48Z | The Book %Generating Software Tests% | https://github.com/uds-se/fuzzingbook | 459 | 90| 
 | 20201227T19:01:42Z | a c program containing vulnerable code for common types of vulnerabilities, can be used to show fuzzing concepts. | https://github.com/hardik05/Damn_Vulnerable_C_Program | 191 | 17| 
 | 20201227T18:23:43Z | A  playground to learn computer graphics | https://github.com/patiboh/fuzzy-playground | 1 | 0| 
+| 20201227T17:18:19Z | Configurations written for Fuzzinator | https://github.com/renatahodovan/fuzzinator-configs | 8 | 3| 
 
 
 
