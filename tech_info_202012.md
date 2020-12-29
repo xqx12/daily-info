@@ -17,6 +17,8 @@
 | 20201228 | 前段时间推送的 Antivirus Artifacts，作者写了 Part2 | https://github.com/D3VI5H4/Antivirus-Artifacts/blob/main/AntivirusArtifacts2.pdf| 
 | 20201228 | resmack-rust - Feedback-driven Grammar Fuzzing | https://sec.today/pulses/ec401c54-a236-49ff-b387-7f547516d3dc/| 
 | 20201228 | resmack-rust - Feedback-driven Grammar Fuzzing | https://narly.me/posts/resmack-grammar-fuzz-thoughts-4/| 
+| 20201228 | CodeQL是一个对代码分析引擎，可以自检源代码库中的错误与安全漏洞问题。 | https://github.com/githubuniverseworkshops/codeql| 
+| 20201228 | Next Terminal:由Golang与React语言开发的一款HTML5的远程桌面网关终端项目，支持RDP、SSH、VNC和Telnet协议的连接和管理。 | https://github.com/dushixiang/next-terminal| 
 | 20201227 | Windows内核编程书籍 | https://github.com/XShar/Windows_Kernel_Programming| 
 | 20201225 | 可视化查看进程内存地址空间的工具 | https://github.com/0vercl0k/clairvoyance| 
 | 20201224 | bottom - 一款跨平台的系统资源监控工具 | https://github.com/ClementTsang/bottom| 
@@ -24,8 +26,6 @@
 | 20201224 | 利用数据分析与展示的方法研究 Windows RPC 的安全性 | https://medium.com/threat-hunters-forge/extending-the-exploration-and-analysis-of-windows-rpc-methods-calling-other-functions-with-ghidra-e4cdaa9555bd| 
 | 20201224 | Palo Alto 安全团队的公开 Papers 与会议 PPT | https://github.com/PaloAltoNetworks/research-notes| 
 | 20201224 | 手机设备的数据安全现状分析报告 paper | https://securephones.io/main.pdf| 
-| 20201224 | Windows splWOW64 本地提权漏洞，由于超过 90 天未修复，Project Zero 已公开漏洞细节 | https://bugs.chromium.org/p/project-zero/issues/detail?id=2096| 
-| 20201224 | Fault Oriented Debugging | https://calabi-yau.space/blog/triple-fault-debugging.html| 
 
 
 # 安全维基 推荐
@@ -37,46 +37,46 @@
 | 20201228 | 开源自研HIDS——AgentSmith-HIDS | https://mp.weixin.qq.com/s/sAh_VH5zTuxHRFawYMvuOw| 
 | 20201228 | JARM : 检测恶意服务器的可靠指纹 | https://mp.weixin.qq.com/s/p55LNt9PK0MKEjN3MGPAOg| 
 | 20201228 | SecWiki周刊（第356期) | https://www.sec-wiki.com/weekly/356| 
+| 20201228 | 数据安全建设实践系列——数据资产平台建设 | https://mp.weixin.qq.com/s/oofMyBaS7EMnUMy61Y-5MQ| 
 | 20201227 | 聊聊漏洞自动修复技术的行业现状 | https://mp.weixin.qq.com/s/xgwdhBSvE7yW0YcekGEWjA| 
 | 20201227 | 复杂网络中的节点相似性 | https://mp.weixin.qq.com/s/EGpjUVdjJlEjYbdbjbpR7A| 
 | 20201227 | 浅谈安全运营平台中数据分析交互逻辑的设计 | https://zhuanlan.zhihu.com/p/339629476| 
-| 20201226 | 发现并提取 Cobalt Strike 的配置信息 | https://mp.weixin.qq.com/s/-jajjhu-6KVQvaZoh59Wuw| 
 
 
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20201229T00:41:52Z | CVE-2020-6308 | PoC CVE-2020-6308 | https://github.com/InitRoot/CVE-2020-6308-PoC | SAP BusinessObjects Business Intelligence Platform (Web Services) versions - 410, 420, 430, allows an unauthenticated attacker to inject arbitrary values as CMS parameters to perform lookups on the internal network which is otherwise not accessible externally. On successful exploitation, attacker can scan internal network to determine internal infrastructure and gather information for further attacks like remote file inclusion, retrieve server files, bypass firewall and force the vulnerable server to perform malicious requests, resulting in a Server-Side Request Forgery vulnerability.| 
+| 20201228T16:52:45Z | CVE-2020-17144 | Exchange2010 authorized RCE | https://github.com/Airboi/CVE-2020-17144-EXP | , aka %Microsoft Exchange Remote Code Execution Vulnerability%. This CVE ID is unique from CVE-2020-17117, CVE-2020-17132, CVE-2020-17141, CVE-2020-17142.| 
+| 20201228T15:16:02Z | CVE-2020-17008 | CVE-2020-17008 splWOW64 Elevation of Privilege | https://github.com/jas502n/CVE-2020-17008 | 未查询到CVE信息| 
 | 20201228T13:45:30Z | cve-2020-27955 | cve-2020-27955 | https://github.com/zero4v/cve-2020-27955 | 未查询到CVE信息| 
+| 20201228T13:45:30Z | cve-2020-27955 | cve-2020-27955 | https://github.com/TheTh1nk3r/cve-2020-27955 | | 
 | 20201228T13:18:48Z | CVE-2020-8840 | Jackson-databind远程代码执行漏洞（CVE-2020-8840）分析复现环境代码 | https://github.com/Veraxy01/CVE-2020-8840 | FasterXML jackson-databind 2.0.0 through 2.9.10.2 lacks certain xbean-reflect/JNDI blocking, as demonstrated by org.apache.xbean.propertyeditor.JndiConverter.| 
-| 20201228T12:50:47Z | CVE-2020-6308 | PoC CVE-2020-6308 | https://github.com/InitRoot/CVE-2020-6308-PoC | SAP BusinessObjects Business Intelligence Platform (Web Services) versions - 410, 420, 430, allows an unauthenticated attacker to inject arbitrary values as CMS parameters to perform lookups on the internal network which is otherwise not accessible externally. On successful exploitation, attacker can scan internal network to determine internal infrastructure and gather information for further attacks like remote file inclusion, retrieve server files, bypass firewall and force the vulnerable server to perform malicious requests, resulting in a Server-Side Request Forgery vulnerability.| 
-| 20201228T12:41:49Z | CVE-2020-17008 | CVE-2020-17008 splWOW64 Elevation of Privilege | https://github.com/jas502n/CVE-2020-17008 | 未查询到CVE信息| 
-| 20201228T08:16:05Z | CVE-2020-17144 | Exchange2010 authorized RCE | https://github.com/Airboi/CVE-2020-17144-EXP | , aka %Microsoft Exchange Remote Code Execution Vulnerability%. This CVE ID is unique from CVE-2020-17117, CVE-2020-17132, CVE-2020-17141, CVE-2020-17142.| 
 | 20201228T08:13:57Z | CVE-2020-17035 | CVE-2020-17035 patch analysis | https://github.com/flamelu/CVE-2020-17035-patch-analysis | Windows Kernel Elevation of Privilege Vulnerability| 
 | 20201227T07:14:32Z | CVE-2020-35590 | Brute-force tool for WordPress Plugin Limit Login Attempts Reloaded >=2.13.0 - Login Limit Bypass (CVE-2020-35590) | https://github.com/N4nj0/CVE-2020-35590 | LimitLoginAttempts.php in the limit-login-attempts-reloaded plugin before 2.17.4 for WordPress allows a bypass of (per IP address) rate limits because the X-Forwarded-For header can be forged. When the plugin is configured to accept an arbitrary header for the client source IP address, a malicious user is not limited to perform a brute force attack, because the client IP header accepts any arbitrary string. When randomizing the header input, the login count does not ever reach the maximum allowed retries.| 
 | 20201226T08:17:47Z | CVE-2020-27955 | This is a test to exploit with CVE-2020-27955 | https://github.com/SilverSkyFlyingFeather/CVE-2020-27955-TEST | Git LFS 2.12.0 allows Remote Code Execution.| 
 | 20201226T02:03:37Z | CVE-2020-35489 | The (WordPress) website test script can be exploited for Unlimited File Upload via CVE-2020-35489 | https://github.com/dn9uy3n/Check-WP-CVE-2020-35489 | The contact-form-7 (aka Contact Form 7) plugin before 5.3.2 for WordPress allows Unrestricted File Upload and remote code execution because a filename may contain special characters.| 
-| 20201225T20:09:05Z | CVE-2020-8165 | Null | https://github.com/taipansec/CVE-2020-8165 | A deserialization of untrusted data vulnernerability exists in rails < 5.2.4.3, rails < 6.0.3.1 that can allow an attacker to unmarshal user-provided objects in MemCacheStore and RedisCacheStore potentially resulting in an RCE.| 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20201228T20:46:28Z | Null | https://github.com/thierry-tct/KLEE-SEMu | 2 | 0| 
+| 20201228T17:55:53Z | Null | https://github.com/kleenxcoder/kleenxcoder.github.io | 0 | 0| 
 | 20201228T11:06:25Z | Null | https://github.com/markhakansson/klee-tutorial | 0 | 0| 
 | 20201228T10:57:12Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1590 | 476| 
 | 20201227T19:23:34Z | Null | https://github.com/viktorfrom/klee_tutorial | 0 | 0| 
 | 20201226T11:27:30Z | ⬇️ File Upload/sharing application, used by thousands of webmasters since 2007.  | https://github.com/kleeja-official/kleeja | 106 | 32| 
-| 20201225T15:01:00Z | Null | https://github.com/thierry-tct/KLEE-SEMu | 2 | 0| 
 | 20201224T15:17:27Z | Null | https://github.com/jennifer4569/Klee-Bot | 0 | 0| 
 | 20201224T07:38:20Z | Null | https://github.com/fontworks-fonts/Klee | 1 | 0| 
 | 20201223T22:01:43Z | Create CFGs and compute complexity metrics for Python, C++, and Java code. | https://github.com/hmc-alpaqa/metrinome | 5 | 0| 
 | 20201222T07:48:08Z | Null | https://github.com/DonaldKLee/DonaldKLee | 0 | 0| 
-| 20201221T19:32:09Z | Null | https://github.com/morlap/kleebergfestival | 0 | 0| 
 
 
 # s2e on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20201228T08:58:27Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 81 | 22| 
+| 20201228T20:13:42Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 82 | 22| 
 | 20201213T21:27:17Z | Null | https://github.com/sameersaadi/s2e.dev | 0 | 0| 
 | 20201211T15:27:29Z | S2 EXAM | https://github.com/hussnain126/S2exam-sp18-bse-126 | 0 | 0| 
 | 20201211T15:24:26Z | Null | https://github.com/nooraftabcheema/S2exam | 0 | 0| 
@@ -88,31 +88,31 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20201228T13:51:35Z | Null | https://github.com/vishack/Exploit | 0 | 0| 
-| 20201228T13:48:38Z | A WIP %Vulnerable by Design% kext for iOS/macOS to play & learn *OS kernel exploitation | https://github.com/ant4g0nist/Vulnerable-Kext | 19 | 3| 
-| 20201228T13:39:59Z | Router Exploitation Tools. Checks for WinBox Authentication Bypass Disclosure, RouterOS Jailbreak vulnerabilities & ByTheWay RCE | https://github.com/s1l3nt78/MkCheck | 49 | 16| 
-| 20201228T13:37:31Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 8819 | 1392| 
-| 20201228T12:50:16Z | A cheat sheet that contains common enumeration and attack methods for Windows Active Directory. | https://github.com/S1ckB0y1337/Active-Directory-Exploitation-Cheat-Sheet | 1188 | 294| 
-| 20201228T12:49:31Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 6 | 3| 
-| 20201228T12:34:49Z | Exploring and Exploiting Latent Commonsense Knowledge in Pretrained Masked Language Models | https://github.com/DRSY/LAMP | 2 | 0| 
-| 20201228T11:51:27Z | This program increases a user%s snap score. It uses a Snapchat exploit in order to increase a users snap score. | https://github.com/Quessts/Snapify | 2 | 0| 
-| 20201228T11:45:46Z | Remote acces for wordpress websites | https://github.com/emyounoone/Wordpress-Remote-Shell-Exploit | 0 | 0| 
-| 20201228T11:26:56Z | JSshell - JavaScript reverse/remote shell | https://github.com/shelld3v/JSshell | 143 | 33| 
+| 20201229T00:52:59Z | Null | https://github.com/emilianobonassi/cover-exploit | 5 | 1| 
+| 20201229T00:51:18Z | Spigot plugin to improve security surrounding books with JSON content | https://github.com/minoneer/BookExploitFix | 1 | 0| 
+| 20201229T00:49:31Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 6 | 3| 
+| 20201229T00:32:34Z | Null | https://github.com/Scorpion197/web-exploitation | 0 | 0| 
+| 20201228T23:46:53Z | A collection of curated resources and CVEs I use for research. | https://github.com/drtychai/browser-exploitation | 16 | 3| 
+| 20201228T23:22:23Z | A proof-of-concept tool for generating payloads that exploit unsafe Java object deserialization. | https://github.com/frohoff/ysoserial | 3748 | 1109| 
+| 20201228T23:11:18Z | Interactive shell and HTTP exploit framework. | https://github.com/DriftSec/gosploit | 0 | 0| 
+| 20201228T22:57:37Z | ZetaSploit Framework is a powerful exploitation framework that contains a lot of modules for attacking targets, interacting with targets, exploiting common vulnerabilities and etc. | https://github.com/EntySec/ZetaSploit | 8 | 4| 
+| 20201228T22:55:12Z | Null | https://github.com/ferdinandmudjialim/vulnserver-exploits | 0 | 0| 
+| 20201228T22:45:29Z | Files for 2nd Edition | https://github.com/N7RUZN/TheArtofExploitation-Example-Files | 0 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20201228T13:20:00Z | Header-only VMWare Backdoor API Implementation & Effortless VMX Patcher for Custom Guest-to-Host RPCs | https://github.com/can1357/vmware-rpc | 59 | 10| 
-| 20201228T10:47:08Z | Null | https://github.com/rabbitx1337/backdoor | 0 | 0| 
-| 20201228T08:31:32Z | Null | https://github.com/cv1002/SoftwareProjectManagerBackdoor | 1 | 5| 
-| 20201228T08:12:34Z | Analysis of SunBurst (SolarWinds) embedded backdoor | https://github.com/conikeec/sunburst-analysis | 0 | 1| 
-| 20201228T04:06:27Z | A backdoor program  | https://github.com/FurYzen/Itherum | 0 | 0| 
-| 20201228T01:11:08Z | Backdoor Shell | https://github.com/kaitolegion/Backdoor | 1 | 4| 
-| 20201227T22:15:19Z | Analysis of the backdoor use for the SolarWinds Orion hack | https://github.com/SecuProject/Sunburst-Analysis | 0 | 0| 
-| 20201227T18:56:19Z | This package, written in php, can scan PHP files and analyze your project for find malicious code inside it. It provides a text terminal console interface to scan files in a given directory and find PHP code files the seem to contain malicious code. | https://github.com/marcocesarato/PHP-Antimalware-Scanner | 159 | 29| 
-| 20201227T16:37:57Z | Damn easy multiplatform Node.js RAT generator. | https://github.com/roccomuso/netrat | 12 | 11| 
-| 20201227T14:21:55Z | Ghost Framework is an Android post-exploitation framework that exploits the Android Debug Bridge to remotely access an Android device. Ghost Framework gives you the power and convenience of remote Android device administration. | https://github.com/EntySec/ghost | 892 | 450| 
+| 20201228T23:31:41Z | Ghost Framework is an Android post-exploitation framework that exploits the Android Debug Bridge to remotely access an Android device. Ghost Framework gives you the power and convenience of remote Android device administration. | https://github.com/EntySec/ghost | 894 | 452| 
+| 20201228T22:18:14Z | This package, written in php, can scan PHP files and analyze your project for find malicious code inside it. It provides a text terminal console interface to scan files in a given directory and find PHP code files the seem to contain malicious code. | https://github.com/marcocesarato/PHP-Antimalware-Scanner | 159 | 29| 
+| 20201228T18:23:46Z | Injectra injects shellcode payloads into MacOS applications. | https://github.com/Taguar258/injectra | 7 | 3| 
+| 20201228T18:10:57Z | PCI Express DIY hacking toolkit for Xilinx SP605 | https://github.com/Cr4sh/s6_pcie_microblaze | 293 | 75| 
+| 20201228T15:38:03Z | Null | https://github.com/wcenatus/node-backdoor | 0 | 0| 
+| 20201228T15:08:14Z | Bastli Backdoor V2 Sound Playback Daemon | https://github.com/davischw/bastli-backdoor-sound-playback-daemon | 0 | 0| 
+| 20201228T14:59:34Z | Bastli Backdoor V2 NFC Reader | https://github.com/davischw/bastli-backdoor-nfc-reader | 0 | 0| 
+| 20201228T14:39:00Z | Null | https://github.com/cv1002/SoftwareProjectManagerBackdoor | 1 | 5| 
+| 20201228T14:35:46Z | Null | https://github.com/MadsKaiser/backdoor | 0 | 0| 
+| 20201228T14:32:01Z | Header-only VMWare Backdoor API Implementation & Effortless VMX Patcher for Custom Guest-to-Host RPCs | https://github.com/can1357/vmware-rpc | 60 | 10| 
 
 
 # fuzz on Github 推荐
