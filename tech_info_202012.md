@@ -47,13 +47,13 @@
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
 | 20201229T00:41:52Z | CVE-2020-6308 | PoC CVE-2020-6308 | https://github.com/InitRoot/CVE-2020-6308-PoC | SAP BusinessObjects Business Intelligence Platform (Web Services) versions - 410, 420, 430, allows an unauthenticated attacker to inject arbitrary values as CMS parameters to perform lookups on the internal network which is otherwise not accessible externally. On successful exploitation, attacker can scan internal network to determine internal infrastructure and gather information for further attacks like remote file inclusion, retrieve server files, bypass firewall and force the vulnerable server to perform malicious requests, resulting in a Server-Side Request Forgery vulnerability.| 
-| 20201228T16:52:45Z | CVE-2020-17144 | Exchange2010 authorized RCE | https://github.com/Airboi/CVE-2020-17144-EXP | | 
+| 20201228T16:52:45Z | CVE-2020-17144 | Exchange2010 authorized RCE | https://github.com/Airboi/CVE-2020-17144-EXP | , aka %Microsoft Exchange Remote Code Execution Vulnerability%. This CVE ID is unique from CVE-2020-17117, CVE-2020-17132, CVE-2020-17141, CVE-2020-17142.| 
 | 20201228T15:16:02Z | CVE-2020-17008 | CVE-2020-17008 splWOW64 Elevation of Privilege | https://github.com/jas502n/CVE-2020-17008 | 未查询到CVE信息| 
 | 20201228T13:45:30Z | cve-2020-27955 | cve-2020-27955 | https://github.com/zero4v/cve-2020-27955 | 未查询到CVE信息| 
 | 20201228T13:45:30Z | cve-2020-27955 | cve-2020-27955 | https://github.com/TheTh1nk3r/cve-2020-27955 | 未查询到CVE信息| 
 | 20201228T13:18:48Z | CVE-2020-8840 | Jackson-databind远程代码执行漏洞（CVE-2020-8840）分析复现环境代码 | https://github.com/Veraxy01/CVE-2020-8840 | FasterXML jackson-databind 2.0.0 through 2.9.10.2 lacks certain xbean-reflect/JNDI blocking, as demonstrated by org.apache.xbean.propertyeditor.JndiConverter.| 
 | 20201228T08:13:57Z | CVE-2020-17035 | CVE-2020-17035 patch analysis | https://github.com/flamelu/CVE-2020-17035-patch-analysis | Windows Kernel Elevation of Privilege Vulnerability| 
-| 20201227T07:14:32Z | CVE-2020-35590 | Brute-force tool for WordPress Plugin Limit Login Attempts Reloaded >=2.13.0 - Login Limit Bypass (CVE-2020-35590) | https://github.com/N4nj0/CVE-2020-35590 | | 
+| 20201227T07:14:32Z | CVE-2020-35590 | Brute-force tool for WordPress Plugin Limit Login Attempts Reloaded >=2.13.0 - Login Limit Bypass (CVE-2020-35590) | https://github.com/N4nj0/CVE-2020-35590 | LimitLoginAttempts.php in the limit-login-attempts-reloaded plugin before 2.17.4 for WordPress allows a bypass of (per IP address) rate limits because the X-Forwarded-For header can be forged. When the plugin is configured to accept an arbitrary header for the client source IP address, a malicious user is not limited to perform a brute force attack, because the client IP header accepts any arbitrary string. When randomizing the header input, the login count does not ever reach the maximum allowed retries.| 
 | 20201226T08:17:47Z | CVE-2020-27955 | This is a test to exploit with CVE-2020-27955 | https://github.com/SilverSkyFlyingFeather/CVE-2020-27955-TEST | Git LFS 2.12.0 allows Remote Code Execution.| 
 | 20201226T02:03:37Z | CVE-2020-35489 | The (WordPress) website test script can be exploited for Unlimited File Upload via CVE-2020-35489 | https://github.com/dn9uy3n/Check-WP-CVE-2020-35489 | The contact-form-7 (aka Contact Form 7) plugin before 5.3.2 for WordPress allows Unrestricted File Upload and remote code execution because a filename may contain special characters.| 
 
@@ -118,16 +118,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20201228T13:58:50Z | Null | https://github.com/CEB17/kelompok5_teknik_kompilasi_fuzzy | 0 | 0| 
-| 20201228T13:51:41Z | Fuzzinator Random Testing Framework | https://github.com/renatahodovan/fuzzinator | 164 | 38| 
-| 20201228T13:45:55Z | Fuzzing corpus for fuzzing rtl_433 decoders. | https://github.com/Mindavi/rtl_433_fuzzing_corpus | 0 | 0| 
-| 20201228T13:34:06Z | Null | https://github.com/kiwidancebad/fuzzy-analysis | 0 | 0| 
-| 20201228T13:30:50Z | Planning tool | https://github.com/HappyDustbunny/FuzzyFlexx | 1 | 0| 
-| 20201228T13:25:26Z | implementation of a tiny fuzzy clasifier | https://github.com/AlmuHS/FuzzyClasifier_Exercise | 0 | 0| 
-| 20201228T13:23:01Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 3286 | 755| 
-| 20201228T13:17:15Z | Fuzzy search modules for searching lists of words in low quality OCR and HTR text. | https://github.com/marijnkoolen/fuzzy-search | 2 | 0| 
-| 20201228T12:55:00Z | Null | https://github.com/ercoppa-bot/fuzzolic-builder-ci | 0 | 0| 
-| 20201228T12:54:22Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 1209 | 256| 
+| 20201228T23:28:38Z | Fuzzer for Rust Decimal for test generation | https://github.com/paupino/rust-decimal-fuzzer | 0 | 0| 
+| 20201228T23:25:46Z | Null | https://github.com/damonlidev/fuzzy-carnival-public | 0 | 0| 
+| 20201228T23:15:58Z | FuzzBench - Fuzzer benchmarking as a service. | https://github.com/google/fuzzbench | 570 | 91| 
+| 20201228T20:26:21Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 1210 | 256| 
+| 20201228T20:21:44Z | Null | https://github.com/sotiriskoletsios/RBF_Fuzzy_Givens | 0 | 0| 
+| 20201228T20:20:10Z | Generates Elm types, JSON decoders, JSON encoders and fuzz tests from JSON schema specifications | https://github.com/dragonwasrobot/json-schema-to-elm | 60 | 7| 
+| 20201228T19:17:18Z | The Official Fuzzy Britches Repository. | https://github.com/ThePapaw/fuzzybritches | 0 | 0| 
+| 20201228T18:34:50Z | Null | https://github.com/matusf/open-api-fuzzer | 0 | 0| 
+| 20201228T18:23:53Z | Null | https://github.com/siabar/fuzzy_dictionary_lookup_performance_checker | 0 | 0| 
+| 20201228T18:20:14Z | Ongoing development of the Fuzzball MUCK server software and associated functionality. | https://github.com/fuzzball-muck/fuzzball | 30 | 21| 
 
 
 
