@@ -25,8 +25,8 @@
 | 20201229T12:29:41Z | CVE-2020-10148 | Null | https://github.com/rdoix/CVE-2020-10148-Solarwinds-Orion | 未查询到CVE信息| 
 | 20201229T11:06:06Z | CVE-2020-17144 | Exchange2010 authorized RCE | https://github.com/Airboi/CVE-2020-17144-EXP | , aka %Microsoft Exchange Remote Code Execution Vulnerability%. This CVE ID is unique from CVE-2020-17117, CVE-2020-17132, CVE-2020-17141, CVE-2020-17142.| 
 | 20201229T10:49:52Z | CVE-2020-6308 | PoC CVE-2020-6308 | https://github.com/InitRoot/CVE-2020-6308-PoC | SAP BusinessObjects Business Intelligence Platform (Web Services) versions - 410, 420, 430, allows an unauthenticated attacker to inject arbitrary values as CMS parameters to perform lookups on the internal network which is otherwise not accessible externally. On successful exploitation, attacker can scan internal network to determine internal infrastructure and gather information for further attacks like remote file inclusion, retrieve server files, bypass firewall and force the vulnerable server to perform malicious requests, resulting in a Server-Side Request Forgery vulnerability.| 
-| 20201229T10:47:42Z | CVE-2020-14882 | CodeTest信息收集和漏洞利用工具，可在进行渗透测试之时方便利用相关信息收集脚本进行信息的获取和验证工作，漏洞利用模块可选择需要测试的漏洞模块，或者选择所有模块测试，包含CVE-2020-14882, CVE-2020-2555等，可自己收集脚本后按照模板进行修改。 | https://github.com/xkx518/CodeTest | Vulnerability in the Oracle WebLogic Server product of Oracle Fusion Middleware (component: Console). Supported versions that are affected are 10.3.6.0.0, 12.1.3.0.0, 12.2.1.3.0, 12.2.1.4.0 and 14.1.1.0.0. Easily exploitable vulnerability allows unauthenticated attacker with network access via HTTP to compromise Oracle WebLogic Server. Successful attacks of this vulnerability can result in takeover of Oracle WebLogic Server. CVSS 3.1 Base Score 9.8 (Confidentiality, Integrity and Availability impacts). CVSS Vector: (CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H).| 
-| 20201229T05:32:43Z | cve-2020-27955 | cve-2020-27955 | https://github.com/TheTh1nk3r/cve-2020-27955 | | 
+| 20201229T10:47:42Z | CVE-2020-14882 | CodeTest信息收集和漏洞利用工具，可在进行渗透测试之时方便利用相关信息收集脚本进行信息的获取和验证工作，漏洞利用模块可选择需要测试的漏洞模块，或者选择所有模块测试，包含CVE-2020-14882, CVE-2020-2555等，可自己收集脚本后按照模板进行修改。 | https://github.com/xkx518/CodeTest | | 
+| 20201229T05:32:43Z | cve-2020-27955 | cve-2020-27955 | https://github.com/TheTh1nk3r/cve-2020-27955 | 未查询到CVE信息| 
 | 20201229T03:59:00Z | CVE-2020-17035 | CVE-2020-17035 patch analysis | https://github.com/flamelu/CVE-2020-17035-patch-analysis | Windows Kernel Elevation of Privilege Vulnerability| 
 | 20201229T01:37:14Z | cve-2020-17057 | cve-2020-17057 poc | https://github.com/ze0r/cve-2020-17057 | 未查询到CVE信息| 
 
@@ -46,6 +46,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20201229T13:20:17Z | Battle Cats MITM Mailbox Hack | https://github.com/jamestiotio/CITM | 4 | 3| 
 | 20201229T13:15:53Z | linux post-exploitation framework made by linux user | https://github.com/jm33-m0/emp3r0r | 54 | 8| 
 | 20201229T13:10:05Z | A WIP %Vulnerable by Design% kext for iOS/macOS to play & learn *OS kernel exploitation | https://github.com/ant4g0nist/Vulnerable-Kext | 96 | 10| 
 | 20201229T13:07:09Z | Thi powershell script has got to run in remote windows host, even for pivoting | https://github.com/FabioDefilippo/winallenum | 0 | 1| 
@@ -55,12 +56,12 @@
 | 20201229T12:32:47Z | Spigot plugin to improve security surrounding books with JSON content | https://github.com/minoneer/BookExploitFix | 1 | 0| 
 | 20201229T12:23:51Z | Python2 based Bufferoverflow scripts i developed while doing the Vulnhub box Netsart by Foxlox  | https://github.com/F-Masood/ExploitingBufferOverflows | 0 | 0| 
 | 20201229T12:09:05Z | Null | https://github.com/emilianobonassi/cover-exploit | 16 | 5| 
-| 20201229T11:58:47Z | PS4 Exploit Host Firmware 7.02 | https://github.com/exploitos/exploitos.github.io | 0 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20201229T13:19:17Z | Ghost Framework is an Android post-exploitation framework that exploits the Android Debug Bridge to remotely access an Android device. Ghost Framework gives you the power and convenience of remote Android device administration. | https://github.com/EntySec/ghost | 896 | 452| 
 | 20201229T12:44:10Z | Null | https://github.com/cv1002/SoftwareProjectManagerBackdoor | 1 | 5| 
 | 20201229T12:07:31Z | FUD cross-platform python2 backdoor with C2 | https://github.com/7h3w4lk3r/pyback | 13 | 5| 
 | 20201229T09:45:12Z | A backdoor payload not recognized by free antivirus vendors | https://github.com/Dromediansk/eth-hacking-scripts | 0 | 0| 
@@ -69,7 +70,6 @@
 | 20201229T07:26:41Z | This tool is made for educational 👩‍💻purposes and should be used legally⛔⛔Be warned | https://github.com/junior-2003/backdoor-spy-gui | 1 | 0| 
 | 20201229T07:23:59Z | This tiol | https://github.com/junior-2003/backdoor-spy- | 0 | 0| 
 | 20201229T03:14:47Z | Generate Virus/Backdoor/Worm you name it! | https://github.com/FonderElite/Warrior | 0 | 0| 
-| 20201229T02:58:36Z | Ghost Framework is an Android post-exploitation framework that exploits the Android Debug Bridge to remotely access an Android device. Ghost Framework gives you the power and convenience of remote Android device administration. | https://github.com/EntySec/ghost | 895 | 452| 
 | 20201229T02:51:23Z | Backdoor para ter um shell, de forma remota | https://github.com/zy0x157/backdoor | 0 | 0| 
 
 
