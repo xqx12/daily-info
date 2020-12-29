@@ -55,7 +55,7 @@
 | 20201228T13:45:30Z | cve-2020-27955 | cve-2020-27955 | https://github.com/TheTh1nk3r/cve-2020-27955 | 未查询到CVE信息| 
 | 20201228T13:18:48Z | CVE-2020-8840 | Jackson-databind远程代码执行漏洞（CVE-2020-8840）分析复现环境代码 | https://github.com/Veraxy01/CVE-2020-8840 | FasterXML jackson-databind 2.0.0 through 2.9.10.2 lacks certain xbean-reflect/JNDI blocking, as demonstrated by org.apache.xbean.propertyeditor.JndiConverter.| 
 | 20201227T07:14:32Z | CVE-2020-35590 | Brute-force tool for WordPress Plugin Limit Login Attempts Reloaded >=2.13.0 - Login Limit Bypass (CVE-2020-35590) | https://github.com/N4nj0/CVE-2020-35590 | LimitLoginAttempts.php in the limit-login-attempts-reloaded plugin before 2.17.4 for WordPress allows a bypass of (per IP address) rate limits because the X-Forwarded-For header can be forged. When the plugin is configured to accept an arbitrary header for the client source IP address, a malicious user is not limited to perform a brute force attack, because the client IP header accepts any arbitrary string. When randomizing the header input, the login count does not ever reach the maximum allowed retries.| 
-| 20201226T08:17:47Z | CVE-2020-27955 | This is a test to exploit with CVE-2020-27955 | https://github.com/SilverSkyFlyingFeather/CVE-2020-27955-TEST | | 
+| 20201226T08:17:47Z | CVE-2020-27955 | This is a test to exploit with CVE-2020-27955 | https://github.com/SilverSkyFlyingFeather/CVE-2020-27955-TEST | Git LFS 2.12.0 allows Remote Code Execution.| 
 
 
 # klee on Github 推荐
@@ -103,6 +103,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20201229T02:34:32Z | Backdoor para ter um shell, de forma remota | https://github.com/zy0x157/backdoor | 0 | 0| 
 | 20201229T02:21:04Z | Generate Virus/Backdoor/Worm you name it! | https://github.com/FonderElite/Warrior | 0 | 0| 
 | 20201229T02:02:17Z | DO NOT USE THIS CODE FOR MALICIOUS PURPOSES!!! This program is for educational purposes only! I am not responsible for anything you do with it. | https://github.com/alexcamargos/SimplePythonBackdoor | 0 | 0| 
 | 20201228T23:31:41Z | Ghost Framework is an Android post-exploitation framework that exploits the Android Debug Bridge to remotely access an Android device. Ghost Framework gives you the power and convenience of remote Android device administration. | https://github.com/EntySec/ghost | 894 | 452| 
@@ -112,7 +113,6 @@
 | 20201228T15:38:03Z | Null | https://github.com/wcenatus/node-backdoor | 0 | 0| 
 | 20201228T15:08:14Z | Bastli Backdoor V2 Sound Playback Daemon | https://github.com/davischw/bastli-backdoor-sound-playback-daemon | 0 | 0| 
 | 20201228T14:59:34Z | Bastli Backdoor V2 NFC Reader | https://github.com/davischw/bastli-backdoor-nfc-reader | 0 | 0| 
-| 20201228T14:39:00Z | Null | https://github.com/cv1002/SoftwareProjectManagerBackdoor | 1 | 5| 
 
 
 # fuzz on Github 推荐
