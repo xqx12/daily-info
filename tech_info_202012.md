@@ -33,6 +33,7 @@
 | --- | --- | ---| 
 | 20201229 | 静态程序分析入门教程 | https://github.com/RangerNJU/Static-Program-Analysis-Book| 
 | 20201229 | 记一次利用阿D注入渗透实战案例 | https://mp.weixin.qq.com/s/DqqQkvZ1gNDyLcyNC2COAQ| 
+| 20201229 | Using MITRE ATT&CK to Identify an APT Attack | https://www.trendmicro.com/vinfo/us/security/news/managed-detection-and-response/using-mitre-att-ck-to-identify-an-apt-attack| 
 | 20201228 | 沙虫 | https://mp.weixin.qq.com/s/eBTXxLn4NFvLq-nmAAXgyg| 
 | 20201228 | 安全研究员的自我修养 | https://mp.weixin.qq.com/s/BuHQSLLeJ-EMhQSqFLgDgg| 
 | 20201228 | JAVA安全编码 | https://mp.weixin.qq.com/s/p0SZN87PilFHUmENas6QEg| 
@@ -40,7 +41,6 @@
 | 20201228 | JARM : 检测恶意服务器的可靠指纹 | https://mp.weixin.qq.com/s/p55LNt9PK0MKEjN3MGPAOg| 
 | 20201228 | SecWiki周刊（第356期) | https://www.sec-wiki.com/weekly/356| 
 | 20201228 | 数据安全建设实践系列——数据资产平台建设 | https://mp.weixin.qq.com/s/oofMyBaS7EMnUMy61Y-5MQ| 
-| 20201227 | 聊聊漏洞自动修复技术的行业现状 | https://mp.weixin.qq.com/s/xgwdhBSvE7yW0YcekGEWjA| 
 
 
 # CVE Github 推荐
@@ -50,7 +50,7 @@
 | 20201229T11:06:06Z | CVE-2020-17144 | Exchange2010 authorized RCE | https://github.com/Airboi/CVE-2020-17144-EXP | , aka %Microsoft Exchange Remote Code Execution Vulnerability%. This CVE ID is unique from CVE-2020-17117, CVE-2020-17132, CVE-2020-17141, CVE-2020-17142.| 
 | 20201229T10:49:52Z | CVE-2020-6308 | PoC CVE-2020-6308 | https://github.com/InitRoot/CVE-2020-6308-PoC | SAP BusinessObjects Business Intelligence Platform (Web Services) versions - 410, 420, 430, allows an unauthenticated attacker to inject arbitrary values as CMS parameters to perform lookups on the internal network which is otherwise not accessible externally. On successful exploitation, attacker can scan internal network to determine internal infrastructure and gather information for further attacks like remote file inclusion, retrieve server files, bypass firewall and force the vulnerable server to perform malicious requests, resulting in a Server-Side Request Forgery vulnerability.| 
 | 20201229T10:47:42Z | CVE-2020-14882 | CodeTest信息收集和漏洞利用工具，可在进行渗透测试之时方便利用相关信息收集脚本进行信息的获取和验证工作，漏洞利用模块可选择需要测试的漏洞模块，或者选择所有模块测试，包含CVE-2020-14882, CVE-2020-2555等，可自己收集脚本后按照模板进行修改。 | https://github.com/xkx518/CodeTest | Vulnerability in the Oracle WebLogic Server product of Oracle Fusion Middleware (component: Console). Supported versions that are affected are 10.3.6.0.0, 12.1.3.0.0, 12.2.1.3.0, 12.2.1.4.0 and 14.1.1.0.0. Easily exploitable vulnerability allows unauthenticated attacker with network access via HTTP to compromise Oracle WebLogic Server. Successful attacks of this vulnerability can result in takeover of Oracle WebLogic Server. CVSS 3.1 Base Score 9.8 (Confidentiality, Integrity and Availability impacts). CVSS Vector: (CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H).| 
-| 20201229T05:32:43Z | cve-2020-27955 | cve-2020-27955 | https://github.com/TheTh1nk3r/cve-2020-27955 | | 
+| 20201229T05:32:43Z | cve-2020-27955 | cve-2020-27955 | https://github.com/TheTh1nk3r/cve-2020-27955 | 未查询到CVE信息| 
 | 20201229T03:59:00Z | CVE-2020-17035 | CVE-2020-17035 patch analysis | https://github.com/flamelu/CVE-2020-17035-patch-analysis | Windows Kernel Elevation of Privilege Vulnerability| 
 | 20201229T01:37:14Z | cve-2020-17057 | cve-2020-17057 poc | https://github.com/ze0r/cve-2020-17057 | 未查询到CVE信息| 
 | 20201228T15:16:02Z | CVE-2020-17008 | CVE-2020-17008 splWOW64 Elevation of Privilege | https://github.com/jas502n/CVE-2020-17008 | 未查询到CVE信息| 
