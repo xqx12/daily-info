@@ -19,6 +19,12 @@
 | 20201228 | resmack-rust - Feedback-driven Grammar Fuzzing | https://narly.me/posts/resmack-grammar-fuzz-thoughts-4/| 
 | 20201228 | CodeQL是一个对代码分析引擎，可以自检源代码库中的错误与安全漏洞问题。 | https://github.com/githubuniverseworkshops/codeql| 
 | 20201228 | Next Terminal:由Golang与React语言开发的一款HTML5的远程桌面网关终端项目，支持RDP、SSH、VNC和Telnet协议的连接和管理。 | https://github.com/dushixiang/next-terminal| 
+| 20201228 | Deep Dive into Site Isolation (Part 2) | https://microsoftedge.github.io/edgevr/posts/deep-dive-into-site-isolation-part-2/| 
+| 20201228 | SolarWinds Orion 平台本地文件泄露漏洞 PoC（CVE-2020-10148） | https://gist.github.com/0xsha/75616ef6f24067c4fb5b320c5dfa4965| 
+| 20201228 | Stealing your private documents through a bug in Google Docs | https://savebreach.com/stealing-private-documents-through-a-google-docs-bug/| 
+| 20201228 | The State of Exploit Development: 80% of Exploits Publish Faster than CVEs | https://unit42.paloaltonetworks.com/state-of-exploit-development/| 
+| 20201228 | Joomla CMS 框架 ACL 安全访问控制漏洞（CVE-2020-35616）分析 | http://blog.securelayer7.net/latest-joomla-exploit-cve-2020-35616-acl-security-vulnerabilities/| 
+| 20201228 | XXE 漏洞利用高级技巧 Workshop | https://gosecure.github.io/xxe-workshop/#0| 
 
 
 # 安全维基 推荐
@@ -36,7 +42,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20201228T16:52:45Z | CVE-2020-17144 | Exchange2010 authorized RCE | https://github.com/Airboi/CVE-2020-17144-EXP | | 
+| 20201228T16:52:45Z | CVE-2020-17144 | Exchange2010 authorized RCE | https://github.com/Airboi/CVE-2020-17144-EXP | , aka %Microsoft Exchange Remote Code Execution Vulnerability%. This CVE ID is unique from CVE-2020-17117, CVE-2020-17132, CVE-2020-17141, CVE-2020-17142.| 
 | 20201228T15:16:02Z | CVE-2020-17008 | CVE-2020-17008 splWOW64 Elevation of Privilege | https://github.com/jas502n/CVE-2020-17008 | 未查询到CVE信息| 
 | 20201228T13:45:30Z | cve-2020-27955 | cve-2020-27955 | https://github.com/zero4v/cve-2020-27955 | 未查询到CVE信息| 
 | 20201228T13:45:30Z | cve-2020-27955 | cve-2020-27955 | https://github.com/TheTh1nk3r/cve-2020-27955 | 未查询到CVE信息| 
@@ -76,7 +82,6 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20201228T23:31:41Z | Ghost Framework is an Android post-exploitation framework that exploits the Android Debug Bridge to remotely access an Android device. Ghost Framework gives you the power and convenience of remote Android device administration. | https://github.com/EntySec/ghost | 894 | 452| 
 | 20201228T22:18:14Z | This package, written in php, can scan PHP files and analyze your project for find malicious code inside it. It provides a text terminal console interface to scan files in a given directory and find PHP code files the seem to contain malicious code. | https://github.com/marcocesarato/PHP-Antimalware-Scanner | 159 | 29| 
 | 20201228T18:23:46Z | Injectra injects shellcode payloads into MacOS applications. | https://github.com/Taguar258/injectra | 7 | 3| 
 | 20201228T18:10:57Z | PCI Express DIY hacking toolkit for Xilinx SP605 | https://github.com/Cr4sh/s6_pcie_microblaze | 293 | 75| 
@@ -86,6 +91,7 @@
 | 20201228T14:39:00Z | Null | https://github.com/cv1002/SoftwareProjectManagerBackdoor | 1 | 5| 
 | 20201228T14:35:46Z | Null | https://github.com/MadsKaiser/backdoor | 0 | 0| 
 | 20201228T14:32:01Z | Header-only VMWare Backdoor API Implementation & Effortless VMX Patcher for Custom Guest-to-Host RPCs | https://github.com/can1357/vmware-rpc | 60 | 10| 
+| 20201228T10:47:08Z | Null | https://github.com/rabbitx1337/backdoor | 0 | 0| 
 
 
 # fuzz on Github 推荐

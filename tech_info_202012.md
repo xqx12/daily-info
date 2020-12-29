@@ -19,13 +19,13 @@
 | 20201228 | resmack-rust - Feedback-driven Grammar Fuzzing | https://narly.me/posts/resmack-grammar-fuzz-thoughts-4/| 
 | 20201228 | CodeQL是一个对代码分析引擎，可以自检源代码库中的错误与安全漏洞问题。 | https://github.com/githubuniverseworkshops/codeql| 
 | 20201228 | Next Terminal:由Golang与React语言开发的一款HTML5的远程桌面网关终端项目，支持RDP、SSH、VNC和Telnet协议的连接和管理。 | https://github.com/dushixiang/next-terminal| 
+| 20201228 | Deep Dive into Site Isolation (Part 2) | https://microsoftedge.github.io/edgevr/posts/deep-dive-into-site-isolation-part-2/| 
+| 20201228 | SolarWinds Orion 平台本地文件泄露漏洞 PoC（CVE-2020-10148） | https://gist.github.com/0xsha/75616ef6f24067c4fb5b320c5dfa4965| 
+| 20201228 | Stealing your private documents through a bug in Google Docs | https://savebreach.com/stealing-private-documents-through-a-google-docs-bug/| 
+| 20201228 | The State of Exploit Development: 80% of Exploits Publish Faster than CVEs | https://unit42.paloaltonetworks.com/state-of-exploit-development/| 
+| 20201228 | Joomla CMS 框架 ACL 安全访问控制漏洞（CVE-2020-35616）分析 | http://blog.securelayer7.net/latest-joomla-exploit-cve-2020-35616-acl-security-vulnerabilities/| 
+| 20201228 | XXE 漏洞利用高级技巧 Workshop | https://gosecure.github.io/xxe-workshop/#0| 
 | 20201227 | Windows内核编程书籍 | https://github.com/XShar/Windows_Kernel_Programming| 
-| 20201225 | 可视化查看进程内存地址空间的工具 | https://github.com/0vercl0k/clairvoyance| 
-| 20201224 | bottom - 一款跨平台的系统资源监控工具 | https://github.com/ClementTsang/bottom| 
-| 20201224 | Windows Win32k CVE-2020-17057 漏洞 PoC | https://github.com/ze0r/cve-2020-17057//| 
-| 20201224 | 利用数据分析与展示的方法研究 Windows RPC 的安全性 | https://medium.com/threat-hunters-forge/extending-the-exploration-and-analysis-of-windows-rpc-methods-calling-other-functions-with-ghidra-e4cdaa9555bd| 
-| 20201224 | Palo Alto 安全团队的公开 Papers 与会议 PPT | https://github.com/PaloAltoNetworks/research-notes| 
-| 20201224 | 手机设备的数据安全现状分析报告 paper | https://securephones.io/main.pdf| 
 
 
 # 安全维基 推荐
@@ -48,8 +48,8 @@
 | --- | --- | --- | --- | ---| 
 | 20201229T01:43:57Z | CVE-2020-6308 | PoC CVE-2020-6308 | https://github.com/InitRoot/CVE-2020-6308-PoC | SAP BusinessObjects Business Intelligence Platform (Web Services) versions - 410, 420, 430, allows an unauthenticated attacker to inject arbitrary values as CMS parameters to perform lookups on the internal network which is otherwise not accessible externally. On successful exploitation, attacker can scan internal network to determine internal infrastructure and gather information for further attacks like remote file inclusion, retrieve server files, bypass firewall and force the vulnerable server to perform malicious requests, resulting in a Server-Side Request Forgery vulnerability.| 
 | 20201229T01:37:14Z | cve-2020-17057 | cve-2020-17057 poc | https://github.com/ze0r/cve-2020-17057 | 未查询到CVE信息| 
-| 20201229T01:27:24Z | CVE-2020-17035 | CVE-2020-17035 patch analysis | https://github.com/flamelu/CVE-2020-17035-patch-analysis | | 
-| 20201228T16:52:45Z | CVE-2020-17144 | Exchange2010 authorized RCE | https://github.com/Airboi/CVE-2020-17144-EXP | | 
+| 20201229T01:27:24Z | CVE-2020-17035 | CVE-2020-17035 patch analysis | https://github.com/flamelu/CVE-2020-17035-patch-analysis | Windows Kernel Elevation of Privilege Vulnerability| 
+| 20201228T16:52:45Z | CVE-2020-17144 | Exchange2010 authorized RCE | https://github.com/Airboi/CVE-2020-17144-EXP | , aka %Microsoft Exchange Remote Code Execution Vulnerability%. This CVE ID is unique from CVE-2020-17117, CVE-2020-17132, CVE-2020-17141, CVE-2020-17142.| 
 | 20201228T15:16:02Z | CVE-2020-17008 | CVE-2020-17008 splWOW64 Elevation of Privilege | https://github.com/jas502n/CVE-2020-17008 | 未查询到CVE信息| 
 | 20201228T13:45:30Z | cve-2020-27955 | cve-2020-27955 | https://github.com/zero4v/cve-2020-27955 | 未查询到CVE信息| 
 | 20201228T13:45:30Z | cve-2020-27955 | cve-2020-27955 | https://github.com/TheTh1nk3r/cve-2020-27955 | 未查询到CVE信息| 
@@ -103,10 +103,10 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20201229T02:58:36Z | Ghost Framework is an Android post-exploitation framework that exploits the Android Debug Bridge to remotely access an Android device. Ghost Framework gives you the power and convenience of remote Android device administration. | https://github.com/EntySec/ghost | 895 | 452| 
 | 20201229T02:51:23Z | Backdoor para ter um shell, de forma remota | https://github.com/zy0x157/backdoor | 0 | 0| 
 | 20201229T02:21:04Z | Generate Virus/Backdoor/Worm you name it! | https://github.com/FonderElite/Warrior | 0 | 0| 
 | 20201229T02:02:17Z | DO NOT USE THIS CODE FOR MALICIOUS PURPOSES!!! This program is for educational purposes only! I am not responsible for anything you do with it. | https://github.com/alexcamargos/SimplePythonBackdoor | 0 | 0| 
-| 20201228T23:31:41Z | Ghost Framework is an Android post-exploitation framework that exploits the Android Debug Bridge to remotely access an Android device. Ghost Framework gives you the power and convenience of remote Android device administration. | https://github.com/EntySec/ghost | 894 | 452| 
 | 20201228T22:18:14Z | This package, written in php, can scan PHP files and analyze your project for find malicious code inside it. It provides a text terminal console interface to scan files in a given directory and find PHP code files the seem to contain malicious code. | https://github.com/marcocesarato/PHP-Antimalware-Scanner | 159 | 29| 
 | 20201228T18:23:46Z | Injectra injects shellcode payloads into MacOS applications. | https://github.com/Taguar258/injectra | 7 | 3| 
 | 20201228T18:10:57Z | PCI Express DIY hacking toolkit for Xilinx SP605 | https://github.com/Cr4sh/s6_pcie_microblaze | 293 | 75| 
