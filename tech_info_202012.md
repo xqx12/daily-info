@@ -55,7 +55,7 @@
 | 20201228T08:13:57Z | CVE-2020-17035 | CVE-2020-17035 patch analysis | https://github.com/flamelu/CVE-2020-17035-patch-analysis | Windows Kernel Elevation of Privilege Vulnerability| 
 | 20201227T07:14:32Z | CVE-2020-35590 | Brute-force tool for WordPress Plugin Limit Login Attempts Reloaded >=2.13.0 - Login Limit Bypass (CVE-2020-35590) | https://github.com/N4nj0/CVE-2020-35590 | LimitLoginAttempts.php in the limit-login-attempts-reloaded plugin before 2.17.4 for WordPress allows a bypass of (per IP address) rate limits because the X-Forwarded-For header can be forged. When the plugin is configured to accept an arbitrary header for the client source IP address, a malicious user is not limited to perform a brute force attack, because the client IP header accepts any arbitrary string. When randomizing the header input, the login count does not ever reach the maximum allowed retries.| 
 | 20201226T08:17:47Z | CVE-2020-27955 | This is a test to exploit with CVE-2020-27955 | https://github.com/SilverSkyFlyingFeather/CVE-2020-27955-TEST | Git LFS 2.12.0 allows Remote Code Execution.| 
-| 20201226T02:03:37Z | CVE-2020-35489 | The (WordPress) website test script can be exploited for Unlimited File Upload via CVE-2020-35489 | https://github.com/dn9uy3n/Check-WP-CVE-2020-35489 | The contact-form-7 (aka Contact Form 7) plugin before 5.3.2 for WordPress allows Unrestricted File Upload and remote code execution because a filename may contain special characters.| 
+| 20201226T02:03:37Z | CVE-2020-35489 | The (WordPress) website test script can be exploited for Unlimited File Upload via CVE-2020-35489 | https://github.com/dn9uy3n/Check-WP-CVE-2020-35489 | | 
 
 
 # klee on Github 推荐
