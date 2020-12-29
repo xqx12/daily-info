@@ -46,6 +46,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20201229T13:15:53Z | linux post-exploitation framework made by linux user | https://github.com/jm33-m0/emp3r0r | 54 | 8| 
 | 20201229T13:10:05Z | A WIP %Vulnerable by Design% kext for iOS/macOS to play & learn *OS kernel exploitation | https://github.com/ant4g0nist/Vulnerable-Kext | 96 | 10| 
 | 20201229T13:07:09Z | Thi powershell script has got to run in remote windows host, even for pivoting | https://github.com/FabioDefilippo/winallenum | 0 | 1| 
 | 20201229T12:54:54Z | ZetaSploit Framework is a powerful exploitation framework that contains a lot of modules for attacking targets, interacting with targets, exploiting common vulnerabilities and etc. | https://github.com/EntySec/ZetaSploit | 8 | 4| 
@@ -53,7 +54,6 @@
 | 20201229T12:38:35Z | CDK is an open-sourced container penetration toolkit, offering stable exploitation in different slimmed containers without any OS dependency. It comes with useful net-tools and many powerful PoCs/EXPs helps you to escape container and takeover K8s cluster easily. | https://github.com/Xyntax/CDK | 229 | 33| 
 | 20201229T12:32:47Z | Spigot plugin to improve security surrounding books with JSON content | https://github.com/minoneer/BookExploitFix | 1 | 0| 
 | 20201229T12:23:51Z | Python2 based Bufferoverflow scripts i developed while doing the Vulnhub box Netsart by Foxlox  | https://github.com/F-Masood/ExploitingBufferOverflows | 0 | 0| 
-| 20201229T12:21:16Z | linux post-exploitation framework made by linux user | https://github.com/jm33-m0/emp3r0r | 54 | 8| 
 | 20201229T12:09:05Z | Null | https://github.com/emilianobonassi/cover-exploit | 16 | 5| 
 | 20201229T11:58:47Z | PS4 Exploit Host Firmware 7.02 | https://github.com/exploitos/exploitos.github.io | 0 | 0| 
 
