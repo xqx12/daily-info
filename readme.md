@@ -40,7 +40,7 @@
 | 20201228T15:16:02Z | CVE-2020-17008 | CVE-2020-17008 splWOW64 Elevation of Privilege | https://github.com/jas502n/CVE-2020-17008 | 未查询到CVE信息| 
 | 20201228T13:45:30Z | cve-2020-27955 | cve-2020-27955 | https://github.com/zero4v/cve-2020-27955 | 未查询到CVE信息| 
 | 20201228T13:45:30Z | cve-2020-27955 | cve-2020-27955 | https://github.com/TheTh1nk3r/cve-2020-27955 | 未查询到CVE信息| 
-| 20201228T13:18:48Z | CVE-2020-8840 | Jackson-databind远程代码执行漏洞（CVE-2020-8840）分析复现环境代码 | https://github.com/Veraxy01/CVE-2020-8840 | | 
+| 20201228T13:18:48Z | CVE-2020-8840 | Jackson-databind远程代码执行漏洞（CVE-2020-8840）分析复现环境代码 | https://github.com/Veraxy01/CVE-2020-8840 | FasterXML jackson-databind 2.0.0 through 2.9.10.2 lacks certain xbean-reflect/JNDI blocking, as demonstrated by org.apache.xbean.propertyeditor.JndiConverter.| 
 
 
 # klee on Github 推荐
