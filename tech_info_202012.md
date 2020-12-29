@@ -103,6 +103,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20201229T02:01:56Z | DO NOT USE THIS CODE FOR MALICIOUS PURPOSES!!! | https://github.com/alexcamargos/SimplePythonBackdoor | 0 | 0| 
 | 20201229T01:57:38Z | Generate Virus/Backdoor/Worm you name it! | https://github.com/FonderElite/Warrior | 0 | 0| 
 | 20201228T23:31:41Z | Ghost Framework is an Android post-exploitation framework that exploits the Android Debug Bridge to remotely access an Android device. Ghost Framework gives you the power and convenience of remote Android device administration. | https://github.com/EntySec/ghost | 894 | 452| 
 | 20201228T22:18:14Z | This package, written in php, can scan PHP files and analyze your project for find malicious code inside it. It provides a text terminal console interface to scan files in a given directory and find PHP code files the seem to contain malicious code. | https://github.com/marcocesarato/PHP-Antimalware-Scanner | 159 | 29| 
@@ -112,7 +113,6 @@
 | 20201228T15:08:14Z | Bastli Backdoor V2 Sound Playback Daemon | https://github.com/davischw/bastli-backdoor-sound-playback-daemon | 0 | 0| 
 | 20201228T14:59:34Z | Bastli Backdoor V2 NFC Reader | https://github.com/davischw/bastli-backdoor-nfc-reader | 0 | 0| 
 | 20201228T14:39:00Z | Null | https://github.com/cv1002/SoftwareProjectManagerBackdoor | 1 | 5| 
-| 20201228T14:35:46Z | Null | https://github.com/MadsKaiser/backdoor | 0 | 0| 
 
 
 # fuzz on Github 推荐
