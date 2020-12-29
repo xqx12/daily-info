@@ -46,7 +46,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20201229T13:29:46Z | CVE-2020-10148 | Null | https://github.com/rdoix/CVE-2020-10148-Solarwinds-Orion | 未查询到CVE信息| 
+| 20201229T13:29:46Z | CVE-2020-10148 | Null | https://github.com/rdoix/CVE-2020-10148-Solarwinds-Orion | | 
 | 20201229T11:06:06Z | CVE-2020-17144 | Exchange2010 authorized RCE | https://github.com/Airboi/CVE-2020-17144-EXP | , aka %Microsoft Exchange Remote Code Execution Vulnerability%. This CVE ID is unique from CVE-2020-17117, CVE-2020-17132, CVE-2020-17141, CVE-2020-17142.| 
 | 20201229T10:49:52Z | CVE-2020-6308 | PoC CVE-2020-6308 | https://github.com/InitRoot/CVE-2020-6308-PoC | SAP BusinessObjects Business Intelligence Platform (Web Services) versions - 410, 420, 430, allows an unauthenticated attacker to inject arbitrary values as CMS parameters to perform lookups on the internal network which is otherwise not accessible externally. On successful exploitation, attacker can scan internal network to determine internal infrastructure and gather information for further attacks like remote file inclusion, retrieve server files, bypass firewall and force the vulnerable server to perform malicious requests, resulting in a Server-Side Request Forgery vulnerability.| 
 | 20201229T10:47:42Z | CVE-2020-14882 | CodeTest信息收集和漏洞利用工具，可在进行渗透测试之时方便利用相关信息收集脚本进行信息的获取和验证工作，漏洞利用模块可选择需要测试的漏洞模块，或者选择所有模块测试，包含CVE-2020-14882, CVE-2020-2555等，可自己收集脚本后按照模板进行修改。 | https://github.com/xkx518/CodeTest | Vulnerability in the Oracle WebLogic Server product of Oracle Fusion Middleware (component: Console). Supported versions that are affected are 10.3.6.0.0, 12.1.3.0.0, 12.2.1.3.0, 12.2.1.4.0 and 14.1.1.0.0. Easily exploitable vulnerability allows unauthenticated attacker with network access via HTTP to compromise Oracle WebLogic Server. Successful attacks of this vulnerability can result in takeover of Oracle WebLogic Server. CVSS 3.1 Base Score 9.8 (Confidentiality, Integrity and Availability impacts). CVSS Vector: (CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H).| 
@@ -88,7 +88,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20201229T13:57:03Z | ZetaSploit Framework is a powerful exploitation framework that contains a lot of modules for attacking targets, interacting with targets, exploiting common vulnerabilities and etc. | https://github.com/EntySec/ZetaSploit | 8 | 4| 
+| 20201229T13:58:43Z | ZetaSploit Framework is a powerful exploitation framework that contains a lot of modules for attacking targets, interacting with targets, exploiting common vulnerabilities and etc. | https://github.com/EntySec/ZetaSploit | 8 | 4| 
 | 20201229T13:48:14Z | This tool with quickly search for exploitable binaries with SUID bit set in linux and will output the method of exploitation from GTFObins | https://github.com/etc5had0w/suider | 0 | 0| 
 | 20201229T13:28:28Z | Exploit Minecraft console for megacraft.org | https://github.com/Nekiplay/Minecraft-Console-Client-Premium-ServerSide | 0 | 1| 
 | 20201229T13:24:03Z | A WIP %Vulnerable by Design% kext for iOS/macOS to play & learn *OS kernel exploitation | https://github.com/ant4g0nist/Vulnerable-Kext | 97 | 10| 
