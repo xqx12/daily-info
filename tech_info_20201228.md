@@ -36,7 +36,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20201228T16:52:45Z | CVE-2020-17144 | Exchange2010 authorized RCE | https://github.com/Airboi/CVE-2020-17144-EXP | , aka %Microsoft Exchange Remote Code Execution Vulnerability%. This CVE ID is unique from CVE-2020-17117, CVE-2020-17132, CVE-2020-17141, CVE-2020-17142.| 
+| 20201228T16:52:45Z | CVE-2020-17144 | Exchange2010 authorized RCE | https://github.com/Airboi/CVE-2020-17144-EXP | | 
 | 20201228T15:16:02Z | CVE-2020-17008 | CVE-2020-17008 splWOW64 Elevation of Privilege | https://github.com/jas502n/CVE-2020-17008 | 未查询到CVE信息| 
 | 20201228T13:45:30Z | cve-2020-27955 | cve-2020-27955 | https://github.com/zero4v/cve-2020-27955 | 未查询到CVE信息| 
 | 20201228T13:45:30Z | cve-2020-27955 | cve-2020-27955 | https://github.com/TheTh1nk3r/cve-2020-27955 | 未查询到CVE信息| 
