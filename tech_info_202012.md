@@ -88,6 +88,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20201230T02:17:59Z | Null | https://github.com/sheenieboy/ExploiterChat | 1 | 0| 
 | 20201230T01:58:58Z | Sh3X B) | https://github.com/Sh3lfyq/exploit | 0 | 0| 
 | 20201230T01:49:51Z | Tools for detection and exploitation of chosen vulnerability classes in web applications - Engineer%s Thesis - AGH UST | https://github.com/gregxsunday/tools-for-exploiting-webapps | 2 | 0| 
 | 20201230T00:59:49Z | Visual Studio 2008 port of the libemu library that includes scdbg.exe, a modification of the sctest project, that includes more hooks, interactive debugging, reporting features, and ability to work with file format exploit shellcode. Will run under WINE  | https://github.com/dzzie/VS_LIBEMU | 127 | 51| 
@@ -97,7 +98,6 @@
 | 20201229T23:39:39Z | Advanced dork Search & Mass Exploit Scanner | https://github.com/AlisamTechnology/ATSCAN | 774 | 303| 
 | 20201229T23:13:17Z | This repository is for my senior year capstone. For my capstone I am developing a multipurpose web exploitation tool in python3. | https://github.com/nicholas-lueth/Web-Exploitation-Tool-Capstone | 0 | 0| 
 | 20201229T22:21:04Z | This bash script will help you to hack remote hosts  | https://github.com/FabioDefilippo/linuxallremote | 2 | 1| 
-| 20201229T21:49:41Z | How to build a dog breed classifier with Keras and Tensorflow using Convolutional Neural Networks. The model is based on the VGG16 architecture and exploits transfer learning and fine tuning techniques. | https://github.com/rcantini/Dog-breed-classification | 0 | 0| 
 
 
 # backdoor on Github 推荐
