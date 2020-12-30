@@ -46,16 +46,16 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20201230T14:12:31Z | CVE-2020-28413 | Null | https://github.com/EthicalHCOP/CVE-2020-28413_Mantis2.24.3-SQLi-SOAP | 未查询到CVE信息| 
 | 20201230T13:30:39Z | CVE-2020-10148 | Null | https://github.com/rdoix/CVE-2020-10148-Solarwinds-Orion | The SolarWinds Orion API is vulnerable to an authentication bypass that could allow a remote attacker to execute API commands. This vulnerability could allow a remote attacker to bypass authentication and execute API commands which may result in a compromise of the SolarWinds instance. SolarWinds Orion Platform versions 2019.4 HF 5, 2020.2 with no hotfix installed, and 2020.2 HF 1 are affected.| 
 | 20201230T11:29:44Z | CVE-2020-14882 | CodeTest信息收集和漏洞利用工具，可在进行渗透测试之时方便利用相关信息收集脚本进行信息的获取和验证工作，漏洞利用模块可选择需要测试的漏洞模块，或者选择所有模块测试，包含CVE-2020-14882, CVE-2020-2555等，可自己收集脚本后按照模板进行修改。 | https://github.com/xkx518/CodeTest | Vulnerability in the Oracle WebLogic Server product of Oracle Fusion Middleware (component: Console). Supported versions that are affected are 10.3.6.0.0, 12.1.3.0.0, 12.2.1.3.0, 12.2.1.4.0 and 14.1.1.0.0. Easily exploitable vulnerability allows unauthenticated attacker with network access via HTTP to compromise Oracle WebLogic Server. Successful attacks of this vulnerability can result in takeover of Oracle WebLogic Server. CVSS 3.1 Base Score 9.8 (Confidentiality, Integrity and Availability impacts). CVSS Vector: (CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H).| 
 | 20201230T04:05:53Z | CVE-2020-6308 | PoC CVE-2020-6308 | https://github.com/InitRoot/CVE-2020-6308-PoC | SAP BusinessObjects Business Intelligence Platform (Web Services) versions - 410, 420, 430, allows an unauthenticated attacker to inject arbitrary values as CMS parameters to perform lookups on the internal network which is otherwise not accessible externally. On successful exploitation, attacker can scan internal network to determine internal infrastructure and gather information for further attacks like remote file inclusion, retrieve server files, bypass firewall and force the vulnerable server to perform malicious requests, resulting in a Server-Side Request Forgery vulnerability.| 
 | 20201230T01:15:39Z | CVE-2020-17008 | CVE-2020-17008 splWOW64 Elevation of Privilege | https://github.com/jas502n/CVE-2020-17008 | 未查询到CVE信息| 
 | 20201229T17:12:06Z | 未知编号 | Campeonato Virtual Equipado Powerlifting 2020 | https://github.com/Fedepotencia/2020_CVEP | 未查询到CVE信息| 
-| 20201229T16:07:04Z | CVE-2020-17144 | Exchange2010 authorized RCE | https://github.com/Airboi/CVE-2020-17144-EXP | | 
-| 20201229T05:32:43Z | cve-2020-27955 | cve-2020-27955 | https://github.com/TheTh1nk3r/cve-2020-27955 | 未查询到CVE信息| 
+| 20201229T16:07:04Z | CVE-2020-17144 | Exchange2010 authorized RCE | https://github.com/Airboi/CVE-2020-17144-EXP | , aka %Microsoft Exchange Remote Code Execution Vulnerability%. This CVE ID is unique from CVE-2020-17117, CVE-2020-17132, CVE-2020-17141, CVE-2020-17142.| 
+| 20201229T05:32:43Z | cve-2020-27955 | cve-2020-27955 | https://github.com/TheTh1nk3r/cve-2020-27955 | | 
 | 20201229T03:59:00Z | CVE-2020-17035 | CVE-2020-17035 patch analysis | https://github.com/flamelu/CVE-2020-17035-patch-analysis | Windows Kernel Elevation of Privilege Vulnerability| 
 | 20201229T01:37:14Z | cve-2020-17057 | cve-2020-17057 poc | https://github.com/ze0r/cve-2020-17057 | 未查询到CVE信息| 
-| 20201228T13:45:30Z | cve-2020-27955 | cve-2020-27955 | https://github.com/zero4v/cve-2020-27955 | 未查询到CVE信息| 
 
 
 # klee on Github 推荐
@@ -88,8 +88,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20201230T14:15:49Z | Do you want to use x64dbg instead of immunity debugger? | https://github.com/David-Reguera-Garcia-Dreg/x64dbg-exploiting | 8 | 1| 
 | 20201230T13:55:11Z | linux post-exploitation framework made by linux user | https://github.com/jm33-m0/emp3r0r | 59 | 8| 
-| 20201230T13:53:58Z | Do you want to use x64dbg instead of immunity debugger? | https://github.com/David-Reguera-Garcia-Dreg/x64dbg-exploiting | 8 | 1| 
 | 20201230T13:42:23Z | PS4 Exploit list | https://github.com/Hakkuraifu/PS4xploit | 16 | 4| 
 | 20201230T12:46:35Z | TryHackMe CTFs writeups, notes, dratfs, scrabbles, files and solutions. | https://github.com/edoardottt/tryhackme-ctf | 9 | 7| 
 | 20201230T12:24:15Z | Python3によるROP Emplorium(32bit 版)のExploit | https://github.com/buuuuuuun3939/ROP-Emporium-Exploit | 0 | 0| 
