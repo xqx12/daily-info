@@ -88,7 +88,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20201230T02:26:53Z | Para Injeção de Codigos e DLL%s em Processos | https://github.com/AdrielFreud/Injector | 5 | 1| 
+| 20201230T02:27:55Z | Para Injeção de Codigos e DLL%s em Processos | https://github.com/AdrielFreud/Injector | 5 | 1| 
 | 20201230T02:17:59Z | Null | https://github.com/sheenieboy/ExploiterChat | 1 | 0| 
 | 20201230T01:58:58Z | Sh3X B) | https://github.com/Sh3lfyq/exploit | 0 | 0| 
 | 20201230T01:49:51Z | Tools for detection and exploitation of chosen vulnerability classes in web applications - Engineer%s Thesis - AGH UST | https://github.com/gregxsunday/tools-for-exploiting-webapps | 2 | 0| 
