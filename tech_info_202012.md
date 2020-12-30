@@ -88,27 +88,27 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20201230T13:55:11Z | linux post-exploitation framework made by linux user | https://github.com/jm33-m0/emp3r0r | 59 | 8| 
+| 20201230T13:53:58Z | Do you want to use x64dbg instead of immunity debugger? | https://github.com/David-Reguera-Garcia-Dreg/x64dbg-exploiting | 8 | 1| 
+| 20201230T13:42:23Z | PS4 Exploit list | https://github.com/Hakkuraifu/PS4xploit | 16 | 4| 
 | 20201230T12:46:35Z | TryHackMe CTFs writeups, notes, dratfs, scrabbles, files and solutions. | https://github.com/edoardottt/tryhackme-ctf | 9 | 7| 
 | 20201230T12:24:15Z | Python3によるROP Emplorium(32bit 版)のExploit | https://github.com/buuuuuuun3939/ROP-Emporium-Exploit | 0 | 0| 
 | 20201230T12:07:16Z | ExploitsX is a top-of-the-line constantly updated exploit fixer focused on patching bugs, lag glitches, and crash glitches for minecraft servers. It supports versions 1.8 through 1.17. | https://github.com/IzDaBait/ExploitsX | 3 | 2| 
 | 20201230T11:55:12Z | Problems related to Cryptography, Web-exploitation, Reverse Engineering, Pwn and Forensics | https://github.com/Voker2311/CTF-Writeups | 0 | 0| 
 | 20201230T11:30:09Z | ZetaSploit Framework is a powerful exploitation framework that contains a lot of modules for attacking targets, interacting with targets, exploiting common vulnerabilities and etc. | https://github.com/EntySec/ZetaSploit | 8 | 3| 
-| 20201230T11:23:47Z | linux post-exploitation framework made by linux user | https://github.com/jm33-m0/emp3r0r | 59 | 8| 
 | 20201230T11:07:22Z | Official PyTorch implementation of %Puzzle Mix: Exploiting Saliency and Local Statistics for Optimal Mixup% (ICML%20) | https://github.com/snu-mllab/PuzzleMix | 53 | 6| 
 | 20201230T10:52:51Z | Exploit Gui for Game: https://www.roblox.com/games/5665787539/Relics-Gods-Of-Glory-BETA | https://github.com/DohmBoyOG/Gods-of-Glory-GUI | 0 | 0| 
-| 20201230T10:20:13Z | Some exercises from my System and Network Hacking course @ University of Pisa | https://github.com/loresuso/BinaryExploitation | 0 | 0| 
-| 20201230T10:10:44Z | Source Code for %Fast Radius Search Exploiting Ray Tracing Frameworks% | https://github.com/cgaueb/fast_radius_search | 1 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20201230T13:57:20Z | Generate Virus/Backdoor/Worm you name it! | https://github.com/FonderElite/Warrior | 1 | 0| 
 | 20201230T12:34:07Z | Ghost Framework is an Android post-exploitation framework that exploits the Android Debug Bridge to remotely access an Android device. Ghost Framework gives you the power and convenience of remote Android device administration. | https://github.com/EntySec/ghost | 897 | 452| 
 | 20201230T12:15:14Z | A tool to scan PHP files and analyze your project to find any malicious code inside it. It provides a text terminal console interface to scan files in a given directory and find PHP code files the seem to contain malicious code. | https://github.com/marcocesarato/PHP-Antimalware-Scanner | 160 | 29| 
 | 20201230T11:19:22Z | A plugin gives you access to any locked windows pc by calling it with its parameters. It must be run in a cmd enviroment with administrator privilages. | https://github.com/KabueMurage/Windows-Backdoor | 9 | 2| 
 | 20201230T07:54:37Z | Null | https://github.com/cv1002/SoftwareProjectManagerBackdoor | 1 | 5| 
 | 20201230T06:32:52Z | TrojanZoo provides a universal pytorch platform to conduct security researches (especially backdoor attacks/defenses) of image classification in deep learning. | https://github.com/ain-soph/trojanzoo | 18 | 3| 
-| 20201230T04:56:18Z | Generate Virus/Backdoor/Worm you name it! | https://github.com/FonderElite/Warrior | 1 | 0| 
 | 20201230T03:59:44Z | Antivirus evasion project  | https://github.com/Ch0pin/AVIator | 494 | 133| 
 | 20201230T02:21:41Z | Open-Source Remote Administration Tool For Windows C# (Be Based On AsyncRAT) | https://github.com/zhaoweiho/ElegyRAT-C-Sharp | 4 | 1| 
 | 20201229T22:44:06Z | DO NOT USE THIS CODE FOR MALICIOUS PURPOSES!!! This program is for educational purposes only! I am not responsible for anything you do with it. | https://github.com/alexcamargos/SimplePythonBackdoor | 0 | 0| 
