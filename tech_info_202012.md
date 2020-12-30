@@ -53,7 +53,7 @@
 | 20201230T01:15:39Z | CVE-2020-17008 | CVE-2020-17008 splWOW64 Elevation of Privilege | https://github.com/jas502n/CVE-2020-17008 | 未查询到CVE信息| 
 | 20201229T17:12:06Z | 未知编号 | Campeonato Virtual Equipado Powerlifting 2020 | https://github.com/Fedepotencia/2020_CVEP | 未查询到CVE信息| 
 | 20201229T16:07:04Z | CVE-2020-17144 | Exchange2010 authorized RCE | https://github.com/Airboi/CVE-2020-17144-EXP | , aka %Microsoft Exchange Remote Code Execution Vulnerability%. This CVE ID is unique from CVE-2020-17117, CVE-2020-17132, CVE-2020-17141, CVE-2020-17142.| 
-| 20201229T05:32:43Z | cve-2020-27955 | cve-2020-27955 | https://github.com/TheTh1nk3r/cve-2020-27955 | | 
+| 20201229T05:32:43Z | cve-2020-27955 | cve-2020-27955 | https://github.com/TheTh1nk3r/cve-2020-27955 | 未查询到CVE信息| 
 | 20201229T03:59:00Z | CVE-2020-17035 | CVE-2020-17035 patch analysis | https://github.com/flamelu/CVE-2020-17035-patch-analysis | Windows Kernel Elevation of Privilege Vulnerability| 
 | 20201229T01:37:14Z | cve-2020-17057 | cve-2020-17057 poc | https://github.com/ze0r/cve-2020-17057 | 未查询到CVE信息| 
 
@@ -88,7 +88,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20201230T14:15:49Z | Do you want to use x64dbg instead of immunity debugger? | https://github.com/David-Reguera-Garcia-Dreg/x64dbg-exploiting | 8 | 1| 
+| 20201230T14:18:15Z | Do you want to use x64dbg instead of immunity debugger? | https://github.com/David-Reguera-Garcia-Dreg/x64dbg-exploiting | 8 | 1| 
 | 20201230T13:55:11Z | linux post-exploitation framework made by linux user | https://github.com/jm33-m0/emp3r0r | 59 | 8| 
 | 20201230T13:42:23Z | PS4 Exploit list | https://github.com/Hakkuraifu/PS4xploit | 16 | 4| 
 | 20201230T12:46:35Z | TryHackMe CTFs writeups, notes, dratfs, scrabbles, files and solutions. | https://github.com/edoardottt/tryhackme-ctf | 9 | 7| 
