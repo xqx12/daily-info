@@ -82,16 +82,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20201229T13:36:17Z | Null | https://github.com/onk/fuzzy-carnival | 0 | 0| 
-| 20201229T13:33:14Z | Simple status code fuzzer with path fuzz | https://github.com/bimkos/statusCodeFuzzer | 0 | 0| 
-| 20201229T13:30:57Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 3290 | 756| 
-| 20201229T13:20:26Z | gitmoji selector on fzf | https://github.com/ShotaroKataoka/Fuzzy-Git-Operator | 2 | 0| 
-| 20201229T12:16:40Z | A  playground to learn computer graphics | https://github.com/patiboh/fuzzy-playground | 1 | 0| 
-| 20201229T11:47:12Z | Null | https://github.com/ercoppa-bot/fuzzolic-builder-ci | 0 | 0| 
-| 20201229T11:21:33Z | Script made for analyzing network parameters to give optimal result | https://github.com/Sancene/FuzzyProject | 0 | 0| 
-| 20201229T11:06:19Z | 通过一些简单的示例，学习如何上手AFL | https://github.com/loctempt/learningFuzz | 0 | 0| 
-| 20201229T10:16:30Z | Configurations written for Fuzzinator | https://github.com/renatahodovan/fuzzinator-configs | 8 | 3| 
-| 20201229T09:50:42Z | Fuzzy predictive controller for chaotic flows based on continuous signals Implementaion | https://github.com/javad-sheikh/Fuzzy-predictive-controller | 0 | 0| 
+| 20201229T23:16:32Z | Null | https://github.com/walteryoshio/fuzzy | 0 | 0| 
+| 20201229T23:15:02Z | Diverse, the Fuzzer pico library you need to make your .NET tests more Diverse | https://github.com/42skillz/Diverse | 7 | 1| 
+| 20201229T22:57:04Z | Fuzzinator Random Testing Framework | https://github.com/renatahodovan/fuzzinator | 164 | 38| 
+| 20201229T22:44:32Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 3290 | 756| 
+| 20201229T22:25:06Z | Null | https://github.com/VakhshooriEhsan/Fuzzy-system2020-Project-Covid-19-analysis | 0 | 0| 
+| 20201229T22:13:38Z | Null | https://github.com/ahmeddrawy/team-formation-fuzzy-logic | 0 | 0| 
+| 20201229T22:06:26Z | Simple Script to Control Drugstore Warehouse using an Expert System Based on Fuzzy Rules | https://github.com/wildonion/fuzzy-drugstore | 0 | 0| 
+| 20201229T21:59:31Z | Null | https://github.com/opimentel-github/fuzzy-torch | 0 | 0| 
+| 20201229T21:50:26Z | Github Roulette | https://github.com/nicolasramy/fuzzy-robot | 0 | 0| 
+| 20201229T21:05:06Z | Null | https://github.com/togetherwedomore/fuzzy-lamp | 0 | 0| 
 
 
 
