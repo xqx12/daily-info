@@ -16,6 +16,7 @@
 | 20201230 | Harvis - 渗透测试时自动化构建 C&C 基础设施的工具 | https://github.com/thiagomayllart/Harvis| 
 | 20201230 | 这两天远程线上举办的 CCC 安全会议的部分视频已经公开了 | https://media.ccc.de/c/rc3| 
 | 20201230 | Apple 对 iOS 模拟器公司 Corellium 的诉讼败诉了 | https://sec.today/pulses/1a8ef835-2e98-4a2e-b17d-5962767d02df/| 
+| 20201230 | Apple 对 iOS 模拟器公司 Corellium 的诉讼败诉了 | https://www.washingtonpost.com/technology/2020/12/29/apple-corellium-lawsuit/| 
 
 
 # 安全维基 推荐

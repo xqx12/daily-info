@@ -16,6 +16,7 @@
 | 20201230 | Harvis - 渗透测试时自动化构建 C&C 基础设施的工具 | https://github.com/thiagomayllart/Harvis| 
 | 20201230 | 这两天远程线上举办的 CCC 安全会议的部分视频已经公开了 | https://media.ccc.de/c/rc3| 
 | 20201230 | Apple 对 iOS 模拟器公司 Corellium 的诉讼败诉了 | https://sec.today/pulses/1a8ef835-2e98-4a2e-b17d-5962767d02df/| 
+| 20201230 | Apple 对 iOS 模拟器公司 Corellium 的诉讼败诉了 | https://www.washingtonpost.com/technology/2020/12/29/apple-corellium-lawsuit/| 
 | 20201229 | GPS circle spoofing discovered in Iran | https://www.gpsworld.com/gps-circle-spoofing-discovered-in-iran/| 
 | 20201229 | PcapMonkey - 用于分析 pcap 网络数据包并从中检测威胁的工具 | https://github.com/certego/PcapMonkey| 
 | 20201229 | KeyDecoder - 有安全研究员开发了一款基于图片分析钥匙凹槽参数的 App | https://github.com/MaximeBeasse/KeyDecoder| 
@@ -25,7 +26,6 @@
 | 20201228 | Vulnerable-Kext - 用于学习 macOS/iOS 驱动漏洞利用的扩展 | https://github.com/ant4g0nist/Vulnerable-Kext| 
 | 20201228 | Detection and Hunting of Golden SAML Attack | https://www.sygnia.co/golden-saml-advisory| 
 | 20201228 | macOS 10.15.7 CVE-2020-27932 内核越界写漏洞分析 | https://worthdoingbadly.com/specialreply/| 
-| 20201228 | FormatFuzzer - 基于模板的二进制文件 Parsing Fuzzer | https://uds-se.github.io/FormatFuzzer/| 
 
 
 # 安全维基 推荐
@@ -51,9 +51,9 @@
 | 20201230T02:47:22Z | CVE-2020-10148 | Null | https://github.com/rdoix/CVE-2020-10148-Solarwinds-Orion | The SolarWinds Orion API is vulnerable to an authentication bypass that could allow a remote attacker to execute API commands. This vulnerability could allow a remote attacker to bypass authentication and execute API commands which may result in a compromise of the SolarWinds instance. SolarWinds Orion Platform versions 2019.4 HF 5, 2020.2 with no hotfix installed, and 2020.2 HF 1 are affected.| 
 | 20201230T01:15:39Z | CVE-2020-17008 | CVE-2020-17008 splWOW64 Elevation of Privilege | https://github.com/jas502n/CVE-2020-17008 | 未查询到CVE信息| 
 | 20201229T17:12:06Z | 未知编号 | Campeonato Virtual Equipado Powerlifting 2020 | https://github.com/Fedepotencia/2020_CVEP | 未查询到CVE信息| 
-| 20201229T16:07:04Z | CVE-2020-17144 | Exchange2010 authorized RCE | https://github.com/Airboi/CVE-2020-17144-EXP | , aka %Microsoft Exchange Remote Code Execution Vulnerability%. This CVE ID is unique from CVE-2020-17117, CVE-2020-17132, CVE-2020-17141, CVE-2020-17142.| 
+| 20201229T16:07:04Z | CVE-2020-17144 | Exchange2010 authorized RCE | https://github.com/Airboi/CVE-2020-17144-EXP | | 
 | 20201229T05:32:43Z | cve-2020-27955 | cve-2020-27955 | https://github.com/TheTh1nk3r/cve-2020-27955 | 未查询到CVE信息| 
-| 20201229T03:59:00Z | CVE-2020-17035 | CVE-2020-17035 patch analysis | https://github.com/flamelu/CVE-2020-17035-patch-analysis | Windows Kernel Elevation of Privilege Vulnerability| 
+| 20201229T03:59:00Z | CVE-2020-17035 | CVE-2020-17035 patch analysis | https://github.com/flamelu/CVE-2020-17035-patch-analysis | | 
 | 20201229T01:37:14Z | cve-2020-17057 | cve-2020-17057 poc | https://github.com/ze0r/cve-2020-17057 | 未查询到CVE信息| 
 | 20201228T13:45:30Z | cve-2020-27955 | cve-2020-27955 | https://github.com/zero4v/cve-2020-27955 | 未查询到CVE信息| 
 
