@@ -10,6 +10,7 @@
 | 20201229 | PcapMonkey - 用于分析 pcap 网络数据包并从中检测威胁的工具 | https://github.com/certego/PcapMonkey| 
 | 20201229 | KeyDecoder - 有安全研究员开发了一款基于图片分析钥匙凹槽参数的 App | https://github.com/MaximeBeasse/KeyDecoder| 
 | 20201229 | 勒索软件相关的报告收集 | https://github.com/d4rk-d4nph3/Ransomware-Reports| 
+| 20201229 | 新网络边缘的智能DNS：DNS加密的新兴要求部署。 | https://blogs.akamai.com/2020/12/smart-dns-for-the-new-network-edge-emerging-requirements-for-dns-encryption.html?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+TheAkamaiBlog+%28The+Akamai+Blog%29| 
 | 20201228 | 针对 SMTP 协议的渗透测试 | https://luemmelsec.github.io/Pentest-Everything-SMTP/| 
 | 20201228 | Vulnerable-Kext - 用于学习 macOS/iOS 驱动漏洞利用的扩展 | https://github.com/ant4g0nist/Vulnerable-Kext| 
 | 20201228 | Detection and Hunting of Golden SAML Attack | https://www.sygnia.co/golden-saml-advisory| 
@@ -25,7 +26,6 @@
 | 20201228 | Next Terminal:由Golang与React语言开发的一款HTML5的远程桌面网关终端项目，支持RDP、SSH、VNC和Telnet协议的连接和管理。 | https://github.com/dushixiang/next-terminal| 
 | 20201228 | Deep Dive into Site Isolation (Part 2) | https://microsoftedge.github.io/edgevr/posts/deep-dive-into-site-isolation-part-2/| 
 | 20201228 | SolarWinds Orion 平台本地文件泄露漏洞 PoC（CVE-2020-10148） | https://gist.github.com/0xsha/75616ef6f24067c4fb5b320c5dfa4965| 
-| 20201228 | Stealing your private documents through a bug in Google Docs | https://savebreach.com/stealing-private-documents-through-a-google-docs-bug/| 
 
 
 # 安全维基 推荐
@@ -46,21 +46,22 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20201229T13:29:46Z | CVE-2020-10148 | Null | https://github.com/rdoix/CVE-2020-10148-Solarwinds-Orion | | 
-| 20201229T11:06:06Z | CVE-2020-17144 | Exchange2010 authorized RCE | https://github.com/Airboi/CVE-2020-17144-EXP | , aka %Microsoft Exchange Remote Code Execution Vulnerability%. This CVE ID is unique from CVE-2020-17117, CVE-2020-17132, CVE-2020-17141, CVE-2020-17142.| 
+| 20201229T20:14:16Z | CVE-2020-17008 | CVE-2020-17008 splWOW64 Elevation of Privilege | https://github.com/jas502n/CVE-2020-17008 | | 
+| 20201229T17:12:06Z | 未知编号 | Campeonato Virtual Equipado Powerlifting 2020 | https://github.com/Fedepotencia/2020_CVEP | 未查询到CVE信息| 
+| 20201229T16:07:04Z | CVE-2020-17144 | Exchange2010 authorized RCE | https://github.com/Airboi/CVE-2020-17144-EXP | , aka %Microsoft Exchange Remote Code Execution Vulnerability%. This CVE ID is unique from CVE-2020-17117, CVE-2020-17132, CVE-2020-17141, CVE-2020-17142.| 
+| 20201229T13:29:46Z | CVE-2020-10148 | Null | https://github.com/rdoix/CVE-2020-10148-Solarwinds-Orion | The SolarWinds Orion API is vulnerable to an authentication bypass that could allow a remote attacker to execute API commands. This vulnerability could allow a remote attacker to bypass authentication and execute API commands which may result in a compromise of the SolarWinds instance. SolarWinds Orion Platform versions 2019.4 HF 5, 2020.2 with no hotfix installed, and 2020.2 HF 1 are affected.| 
 | 20201229T10:49:52Z | CVE-2020-6308 | PoC CVE-2020-6308 | https://github.com/InitRoot/CVE-2020-6308-PoC | SAP BusinessObjects Business Intelligence Platform (Web Services) versions - 410, 420, 430, allows an unauthenticated attacker to inject arbitrary values as CMS parameters to perform lookups on the internal network which is otherwise not accessible externally. On successful exploitation, attacker can scan internal network to determine internal infrastructure and gather information for further attacks like remote file inclusion, retrieve server files, bypass firewall and force the vulnerable server to perform malicious requests, resulting in a Server-Side Request Forgery vulnerability.| 
 | 20201229T10:47:42Z | CVE-2020-14882 | CodeTest信息收集和漏洞利用工具，可在进行渗透测试之时方便利用相关信息收集脚本进行信息的获取和验证工作，漏洞利用模块可选择需要测试的漏洞模块，或者选择所有模块测试，包含CVE-2020-14882, CVE-2020-2555等，可自己收集脚本后按照模板进行修改。 | https://github.com/xkx518/CodeTest | Vulnerability in the Oracle WebLogic Server product of Oracle Fusion Middleware (component: Console). Supported versions that are affected are 10.3.6.0.0, 12.1.3.0.0, 12.2.1.3.0, 12.2.1.4.0 and 14.1.1.0.0. Easily exploitable vulnerability allows unauthenticated attacker with network access via HTTP to compromise Oracle WebLogic Server. Successful attacks of this vulnerability can result in takeover of Oracle WebLogic Server. CVSS 3.1 Base Score 9.8 (Confidentiality, Integrity and Availability impacts). CVSS Vector: (CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H).| 
 | 20201229T05:32:43Z | cve-2020-27955 | cve-2020-27955 | https://github.com/TheTh1nk3r/cve-2020-27955 | 未查询到CVE信息| 
 | 20201229T03:59:00Z | CVE-2020-17035 | CVE-2020-17035 patch analysis | https://github.com/flamelu/CVE-2020-17035-patch-analysis | Windows Kernel Elevation of Privilege Vulnerability| 
 | 20201229T01:37:14Z | cve-2020-17057 | cve-2020-17057 poc | https://github.com/ze0r/cve-2020-17057 | 未查询到CVE信息| 
-| 20201228T15:16:02Z | CVE-2020-17008 | CVE-2020-17008 splWOW64 Elevation of Privilege | https://github.com/jas502n/CVE-2020-17008 | 未查询到CVE信息| 
 | 20201228T13:45:30Z | cve-2020-27955 | cve-2020-27955 | https://github.com/zero4v/cve-2020-27955 | 未查询到CVE信息| 
-| 20201228T13:18:48Z | CVE-2020-8840 | Jackson-databind远程代码执行漏洞（CVE-2020-8840）分析复现环境代码 | https://github.com/Veraxy01/CVE-2020-8840 | FasterXML jackson-databind 2.0.0 through 2.9.10.2 lacks certain xbean-reflect/JNDI blocking, as demonstrated by org.apache.xbean.propertyeditor.JndiConverter.| 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20201229T22:09:49Z | Urban Evidence Based Policy | https://github.com/KLeeDE/PUS2020_KLee | 0 | 1| 
 | 20201229T13:43:50Z | Null | https://github.com/markhakansson/klee-tutorial | 0 | 0| 
 | 20201229T13:08:17Z | ⬇️ File Upload/sharing application, used by thousands of webmasters since 2007.  | https://github.com/kleeja-official/kleeja | 107 | 32| 
 | 20201228T20:46:28Z | Null | https://github.com/thierry-tct/KLEE-SEMu | 2 | 0| 
@@ -70,7 +71,6 @@
 | 20201224T15:17:27Z | Null | https://github.com/jennifer4569/Klee-Bot | 0 | 0| 
 | 20201224T07:38:20Z | Null | https://github.com/fontworks-fonts/Klee | 1 | 0| 
 | 20201223T22:01:43Z | Create CFGs and compute complexity metrics for Python, C++, and Java code. | https://github.com/hmc-alpaqa/metrinome | 5 | 0| 
-| 20201222T07:48:08Z | Null | https://github.com/DonaldKLee/DonaldKLee | 0 | 0| 
 
 
 # s2e on Github 推荐
@@ -88,31 +88,31 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20201229T13:58:43Z | ZetaSploit Framework is a powerful exploitation framework that contains a lot of modules for attacking targets, interacting with targets, exploiting common vulnerabilities and etc. | https://github.com/EntySec/ZetaSploit | 8 | 4| 
-| 20201229T13:48:14Z | This tool with quickly search for exploitable binaries with SUID bit set in linux and will output the method of exploitation from GTFObins | https://github.com/etc5had0w/suider | 0 | 0| 
-| 20201229T13:28:28Z | Exploit Minecraft console for megacraft.org | https://github.com/Nekiplay/Minecraft-Console-Client-Premium-ServerSide | 0 | 1| 
-| 20201229T13:24:03Z | A WIP %Vulnerable by Design% kext for iOS/macOS to play & learn *OS kernel exploitation | https://github.com/ant4g0nist/Vulnerable-Kext | 97 | 10| 
-| 20201229T13:20:17Z | Battle Cats MITM Mailbox Hack | https://github.com/jamestiotio/CITM | 4 | 3| 
-| 20201229T13:15:53Z | linux post-exploitation framework made by linux user | https://github.com/jm33-m0/emp3r0r | 54 | 8| 
-| 20201229T13:07:09Z | Thi powershell script has got to run in remote windows host, even for pivoting | https://github.com/FabioDefilippo/winallenum | 0 | 1| 
-| 20201229T12:54:14Z | Exploiting Semantic Relations for Fine-grained Entity Typing | https://github.com/HKUST-KnowComp/SRFET | 0 | 1| 
-| 20201229T12:38:35Z | CDK is an open-sourced container penetration toolkit, offering stable exploitation in different slimmed containers without any OS dependency. It comes with useful net-tools and many powerful PoCs/EXPs helps you to escape container and takeover K8s cluster easily. | https://github.com/Xyntax/CDK | 229 | 33| 
-| 20201229T12:32:47Z | Spigot plugin to improve security surrounding books with JSON content | https://github.com/minoneer/BookExploitFix | 1 | 0| 
+| 20201230T00:59:49Z | Visual Studio 2008 port of the libemu library that includes scdbg.exe, a modification of the sctest project, that includes more hooks, interactive debugging, reporting features, and ability to work with file format exploit shellcode. Will run under WINE  | https://github.com/dzzie/VS_LIBEMU | 127 | 51| 
+| 20201230T00:49:32Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 6 | 3| 
+| 20201230T00:39:21Z | PS4 Exploit list | https://github.com/Hakkuraifu/PS4xploit | 16 | 4| 
+| 20201230T00:33:37Z | Exploits project Hacking Command Center | https://github.com/chacka0101/exploits | 0 | 1| 
+| 20201229T23:39:39Z | Advanced dork Search & Mass Exploit Scanner | https://github.com/AlisamTechnology/ATSCAN | 774 | 303| 
+| 20201229T23:13:17Z | This repository is for my senior year capstone. For my capstone I am developing a multipurpose web exploitation tool in python3. | https://github.com/nicholas-lueth/Web-Exploitation-Tool-Capstone | 0 | 0| 
+| 20201229T22:21:04Z | This bash script will help you to hack remote hosts  | https://github.com/FabioDefilippo/linuxallremote | 2 | 1| 
+| 20201229T21:49:41Z | How to build a dog breed classifier with Keras and Tensorflow using Convolutional Neural Networks. The model is based on the VGG16 architecture and exploits transfer learning and fine tuning techniques. | https://github.com/rcantini/Dog-breed-classification | 0 | 0| 
+| 20201229T21:32:10Z | OSINT, Threat Hunting, Network and Web Recon, Discovery, Enumeration, Vulnerability Mapping, Exploitation, Reporting | https://github.com/aryanguenthner/365 | 4 | 1| 
+| 20201229T21:28:44Z | This is an exploit for chatserver.exe program that runs on the Try Hack Me x86 module Brainstorm. | https://github.com/GeardoRanger/BrainStorm-THM-ChatServer.exe-Exploit | 0 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20201229T22:44:06Z | DO NOT USE THIS CODE FOR MALICIOUS PURPOSES!!! This program is for educational purposes only! I am not responsible for anything you do with it. | https://github.com/alexcamargos/SimplePythonBackdoor | 0 | 0| 
+| 20201229T22:32:05Z | Generate Virus/Backdoor/Worm you name it! | https://github.com/FonderElite/Warrior | 1 | 0| 
+| 20201229T22:29:41Z | Null | https://github.com/wcenatus/node-backdoor | 0 | 0| 
+| 20201229T20:32:13Z | TrojanZoo provides a universal pytorch platform to conduct security researches (especially backdoor attacks/defenses) of image classification in deep learning. | https://github.com/ain-soph/trojanzoo | 16 | 3| 
+| 20201229T17:24:59Z | A tool to scan PHP files and analyze your project to find any malicious code inside it. It provides a text terminal console interface to scan files in a given directory and find PHP code files the seem to contain malicious code. | https://github.com/marcocesarato/PHP-Antimalware-Scanner | 159 | 29| 
+| 20201229T16:08:35Z | FUD cross-platform python2 backdoor with C2 | https://github.com/7h3w4lk3r/pyback | 13 | 5| 
+| 20201229T15:28:56Z | Null | https://github.com/CFP106022122/reverse_backdoor | 0 | 0| 
+| 20201229T14:05:04Z | Ghost Framework is an Android post-exploitation framework that exploits the Android Debug Bridge to remotely access an Android device. Ghost Framework gives you the power and convenience of remote Android device administration. | https://github.com/EntySec/ghost | 896 | 452| 
 | 20201229T13:49:42Z | Null | https://github.com/akshayrajeev1996/Backdoor-defence-Youtube-Face | 0 | 0| 
-| 20201229T13:19:17Z | Ghost Framework is an Android post-exploitation framework that exploits the Android Debug Bridge to remotely access an Android device. Ghost Framework gives you the power and convenience of remote Android device administration. | https://github.com/EntySec/ghost | 896 | 452| 
 | 20201229T12:44:10Z | Null | https://github.com/cv1002/SoftwareProjectManagerBackdoor | 1 | 5| 
-| 20201229T12:07:31Z | FUD cross-platform python2 backdoor with C2 | https://github.com/7h3w4lk3r/pyback | 13 | 5| 
-| 20201229T09:45:12Z | A backdoor payload not recognized by free antivirus vendors | https://github.com/Dromediansk/eth-hacking-scripts | 0 | 0| 
-| 20201229T09:19:43Z | Null | https://github.com/rabbitx1337/backdoor | 0 | 0| 
-| 20201229T09:19:32Z | Antivirus evasion project  | https://github.com/Ch0pin/AVIator | 493 | 133| 
-| 20201229T07:26:41Z | This tool is made for educational 👩‍💻purposes and should be used legally⛔⛔Be warned | https://github.com/junior-2003/backdoor-spy-gui | 1 | 0| 
-| 20201229T07:23:59Z | This tiol | https://github.com/junior-2003/backdoor-spy- | 0 | 0| 
-| 20201229T03:14:47Z | Generate Virus/Backdoor/Worm you name it! | https://github.com/FonderElite/Warrior | 0 | 0| 
 
 
 # fuzz on Github 推荐
