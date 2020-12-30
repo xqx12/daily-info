@@ -88,46 +88,46 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20201230T02:53:14Z | Argus is a novel job scheduling scheme in RDMA-assisted big data processing system. Argus exploits the structure feature of stage dependency and reduces job completion time and job makespan by 21% and 20% compared to RDMA-Spark, respectively. | https://github.com/CGCL-codes/Argus | 0 | 0| 
-| 20201230T02:27:55Z | Para Injeção de Codigos e DLL%s em Processos | https://github.com/AdrielFreud/Injector | 5 | 1| 
-| 20201230T02:17:59Z | Null | https://github.com/sheenieboy/ExploiterChat | 1 | 0| 
-| 20201230T01:58:58Z | Sh3X B) | https://github.com/Sh3lfyq/exploit | 0 | 0| 
-| 20201230T01:49:51Z | Tools for detection and exploitation of chosen vulnerability classes in web applications - Engineer%s Thesis - AGH UST | https://github.com/gregxsunday/tools-for-exploiting-webapps | 2 | 0| 
-| 20201230T00:59:49Z | Visual Studio 2008 port of the libemu library that includes scdbg.exe, a modification of the sctest project, that includes more hooks, interactive debugging, reporting features, and ability to work with file format exploit shellcode. Will run under WINE  | https://github.com/dzzie/VS_LIBEMU | 127 | 51| 
-| 20201230T00:49:32Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 6 | 3| 
-| 20201230T00:39:21Z | PS4 Exploit list | https://github.com/Hakkuraifu/PS4xploit | 16 | 4| 
-| 20201230T00:33:37Z | Exploits project Hacking Command Center | https://github.com/chacka0101/exploits | 0 | 1| 
-| 20201229T23:39:39Z | Advanced dork Search & Mass Exploit Scanner | https://github.com/AlisamTechnology/ATSCAN | 774 | 303| 
+| 20201230T12:46:35Z | TryHackMe CTFs writeups, notes, dratfs, scrabbles, files and solutions. | https://github.com/edoardottt/tryhackme-ctf | 9 | 7| 
+| 20201230T12:24:15Z | Python3によるROP Emplorium(32bit 版)のExploit | https://github.com/buuuuuuun3939/ROP-Emporium-Exploit | 0 | 0| 
+| 20201230T12:07:16Z | ExploitsX is a top-of-the-line constantly updated exploit fixer focused on patching bugs, lag glitches, and crash glitches for minecraft servers. It supports versions 1.8 through 1.17. | https://github.com/IzDaBait/ExploitsX | 3 | 2| 
+| 20201230T11:55:12Z | Problems related to Cryptography, Web-exploitation, Reverse Engineering, Pwn and Forensics | https://github.com/Voker2311/CTF-Writeups | 0 | 0| 
+| 20201230T11:30:09Z | ZetaSploit Framework is a powerful exploitation framework that contains a lot of modules for attacking targets, interacting with targets, exploiting common vulnerabilities and etc. | https://github.com/EntySec/ZetaSploit | 8 | 3| 
+| 20201230T11:23:47Z | linux post-exploitation framework made by linux user | https://github.com/jm33-m0/emp3r0r | 59 | 8| 
+| 20201230T11:07:22Z | Official PyTorch implementation of %Puzzle Mix: Exploiting Saliency and Local Statistics for Optimal Mixup% (ICML%20) | https://github.com/snu-mllab/PuzzleMix | 53 | 6| 
+| 20201230T10:52:51Z | Exploit Gui for Game: https://www.roblox.com/games/5665787539/Relics-Gods-Of-Glory-BETA | https://github.com/DohmBoyOG/Gods-of-Glory-GUI | 0 | 0| 
+| 20201230T10:20:13Z | Some exercises from my System and Network Hacking course @ University of Pisa | https://github.com/loresuso/BinaryExploitation | 0 | 0| 
+| 20201230T10:10:44Z | Source Code for %Fast Radius Search Exploiting Ray Tracing Frameworks% | https://github.com/cgaueb/fast_radius_search | 1 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20201230T12:34:07Z | Ghost Framework is an Android post-exploitation framework that exploits the Android Debug Bridge to remotely access an Android device. Ghost Framework gives you the power and convenience of remote Android device administration. | https://github.com/EntySec/ghost | 897 | 452| 
+| 20201230T12:15:14Z | A tool to scan PHP files and analyze your project to find any malicious code inside it. It provides a text terminal console interface to scan files in a given directory and find PHP code files the seem to contain malicious code. | https://github.com/marcocesarato/PHP-Antimalware-Scanner | 160 | 29| 
+| 20201230T11:19:22Z | A plugin gives you access to any locked windows pc by calling it with its parameters. It must be run in a cmd enviroment with administrator privilages. | https://github.com/KabueMurage/Windows-Backdoor | 9 | 2| 
+| 20201230T07:54:37Z | Null | https://github.com/cv1002/SoftwareProjectManagerBackdoor | 1 | 5| 
+| 20201230T06:32:52Z | TrojanZoo provides a universal pytorch platform to conduct security researches (especially backdoor attacks/defenses) of image classification in deep learning. | https://github.com/ain-soph/trojanzoo | 18 | 3| 
+| 20201230T04:56:18Z | Generate Virus/Backdoor/Worm you name it! | https://github.com/FonderElite/Warrior | 1 | 0| 
+| 20201230T03:59:44Z | Antivirus evasion project  | https://github.com/Ch0pin/AVIator | 494 | 133| 
 | 20201230T02:21:41Z | Open-Source Remote Administration Tool For Windows C# (Be Based On AsyncRAT) | https://github.com/zhaoweiho/ElegyRAT-C-Sharp | 4 | 1| 
 | 20201229T22:44:06Z | DO NOT USE THIS CODE FOR MALICIOUS PURPOSES!!! This program is for educational purposes only! I am not responsible for anything you do with it. | https://github.com/alexcamargos/SimplePythonBackdoor | 0 | 0| 
-| 20201229T22:32:05Z | Generate Virus/Backdoor/Worm you name it! | https://github.com/FonderElite/Warrior | 1 | 0| 
 | 20201229T22:29:41Z | Null | https://github.com/wcenatus/node-backdoor | 0 | 0| 
-| 20201229T20:32:13Z | TrojanZoo provides a universal pytorch platform to conduct security researches (especially backdoor attacks/defenses) of image classification in deep learning. | https://github.com/ain-soph/trojanzoo | 16 | 3| 
-| 20201229T17:24:59Z | A tool to scan PHP files and analyze your project to find any malicious code inside it. It provides a text terminal console interface to scan files in a given directory and find PHP code files the seem to contain malicious code. | https://github.com/marcocesarato/PHP-Antimalware-Scanner | 159 | 29| 
-| 20201229T16:08:35Z | FUD cross-platform python2 backdoor with C2 | https://github.com/7h3w4lk3r/pyback | 13 | 5| 
-| 20201229T15:28:56Z | Null | https://github.com/CFP106022122/reverse_backdoor | 0 | 0| 
-| 20201229T14:05:04Z | Ghost Framework is an Android post-exploitation framework that exploits the Android Debug Bridge to remotely access an Android device. Ghost Framework gives you the power and convenience of remote Android device administration. | https://github.com/EntySec/ghost | 896 | 452| 
-| 20201229T13:49:42Z | Null | https://github.com/akshayrajeev1996/Backdoor-defence-Youtube-Face | 0 | 0| 
 
 
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20201230T02:46:41Z | This is a project of blood vessel segmentation using fuzzy logic method. | https://github.com/radengodlike/blood-vessel-segmentation-using-fuzzy-logic-method | 0 | 0| 
-| 20201230T02:09:54Z | gitmoji selector on fzf | https://github.com/ShotaroKataoka/Fuzzy-Git-Operator | 2 | 0| 
-| 20201230T00:45:33Z | Epub source for the Standard Ebooks edition of Little Fuzzy, by H. Beam Piper | https://github.com/standardebooks/h-beam-piper_little-fuzzy | 1 | 2| 
-| 20201229T23:16:32Z | Null | https://github.com/walteryoshio/fuzzy | 0 | 0| 
-| 20201229T23:15:02Z | Diverse, the Fuzzer pico library you need to make your .NET tests more Diverse | https://github.com/42skillz/Diverse | 7 | 1| 
-| 20201229T22:57:04Z | Fuzzinator Random Testing Framework | https://github.com/renatahodovan/fuzzinator | 164 | 38| 
-| 20201229T22:44:32Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 3290 | 756| 
-| 20201229T22:25:06Z | Null | https://github.com/VakhshooriEhsan/Fuzzy-system2020-Project-Covid-19-analysis | 0 | 0| 
-| 20201229T22:13:38Z | Null | https://github.com/ahmeddrawy/team-formation-fuzzy-logic | 0 | 0| 
-| 20201229T22:06:26Z | Simple Script to Control Drugstore Warehouse using an Expert System Based on Fuzzy Rules | https://github.com/wildonion/fuzzy-drugstore | 0 | 0| 
+| 20201230T13:00:57Z | Null | https://github.com/ahmeddrawy/team-formation-fuzzy-logic | 0 | 0| 
+| 20201230T12:47:37Z | Simple Script to Control Drugstore Warehouse using an Expert System Based on Fuzzy Rules | https://github.com/wildonion/fuzzy-drugstore | 0 | 0| 
+| 20201230T12:36:35Z | 预部署fuzz，修改代码 重编译 测试 | https://github.com/Ma5ker/fuzzdocker | 0 | 0| 
+| 20201230T12:08:54Z | Null | https://github.com/s9varesc/url-fuzzing-docker | 0 | 0| 
+| 20201230T12:05:43Z | Null | https://github.com/BartVandyck/tst-fuzzy-logbook | 0 | 0| 
+| 20201230T12:02:46Z | Null | https://github.com/shreyasingh7673/fuzzy-engine | 0 | 0| 
+| 20201230T12:00:50Z | collection of helper tools for fuzzing | https://github.com/fuzzah/fuzzaide | 1 | 0| 
+| 20201230T11:58:07Z | Web Fuzzer | https://github.com/Ph3nX-Z/Shuriken | 1 | 0| 
+| 20201230T11:19:53Z | Null | https://github.com/munawirrahman/FuzzyWuzzy | 1 | 0| 
+| 20201230T10:20:51Z | numerical experiments with fuzzy text search | https://github.com/markvanderloo/fuzzyfind | 0 | 0| 
 
 
 
