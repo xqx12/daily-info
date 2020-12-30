@@ -51,7 +51,7 @@
 | 20201230T01:15:39Z | CVE-2020-17008 | CVE-2020-17008 splWOW64 Elevation of Privilege | https://github.com/jas502n/CVE-2020-17008 | 未查询到CVE信息| 
 | 20201229T17:12:06Z | 未知编号 | Campeonato Virtual Equipado Powerlifting 2020 | https://github.com/Fedepotencia/2020_CVEP | 未查询到CVE信息| 
 | 20201229T16:07:04Z | CVE-2020-17144 | Exchange2010 authorized RCE | https://github.com/Airboi/CVE-2020-17144-EXP | , aka %Microsoft Exchange Remote Code Execution Vulnerability%. This CVE ID is unique from CVE-2020-17117, CVE-2020-17132, CVE-2020-17141, CVE-2020-17142.| 
-| 20201229T10:49:52Z | CVE-2020-6308 | PoC CVE-2020-6308 | https://github.com/InitRoot/CVE-2020-6308-PoC | SAP BusinessObjects Business Intelligence Platform (Web Services) versions - 410, 420, 430, allows an unauthenticated attacker to inject arbitrary values as CMS parameters to perform lookups on the internal network which is otherwise not accessible externally. On successful exploitation, attacker can scan internal network to determine internal infrastructure and gather information for further attacks like remote file inclusion, retrieve server files, bypass firewall and force the vulnerable server to perform malicious requests, resulting in a Server-Side Request Forgery vulnerability.| 
+| 20201229T10:49:52Z | CVE-2020-6308 | PoC CVE-2020-6308 | https://github.com/InitRoot/CVE-2020-6308-PoC | | 
 | 20201229T05:32:43Z | cve-2020-27955 | cve-2020-27955 | https://github.com/TheTh1nk3r/cve-2020-27955 | 未查询到CVE信息| 
 | 20201229T03:59:00Z | CVE-2020-17035 | CVE-2020-17035 patch analysis | https://github.com/flamelu/CVE-2020-17035-patch-analysis | Windows Kernel Elevation of Privilege Vulnerability| 
 | 20201229T01:37:14Z | cve-2020-17057 | cve-2020-17057 poc | https://github.com/ze0r/cve-2020-17057 | 未查询到CVE信息| 
@@ -88,7 +88,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20201230T02:52:20Z | Argus is a novel job scheduling scheme in RDMA-assisted big data processing system. Argus exploits the structure feature of stage dependency and reduces job completion time by 51% and 41% compared to Carbyne (OSDI%16) and Branch Scheduling (IWQoS%19), respectively. | https://github.com/CGCL-codes/Argus | 0 | 0| 
+| 20201230T02:53:14Z | Argus is a novel job scheduling scheme in RDMA-assisted big data processing system. Argus exploits the structure feature of stage dependency and reduces job completion time and job makespan by 21% and 20% compared to RDMA-Spark, respectively. | https://github.com/CGCL-codes/Argus | 0 | 0| 
 | 20201230T02:27:55Z | Para Injeção de Codigos e DLL%s em Processos | https://github.com/AdrielFreud/Injector | 5 | 1| 
 | 20201230T02:17:59Z | Null | https://github.com/sheenieboy/ExploiterChat | 1 | 0| 
 | 20201230T01:58:58Z | Sh3X B) | https://github.com/Sh3lfyq/exploit | 0 | 0| 
