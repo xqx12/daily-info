@@ -47,7 +47,7 @@
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
 | 20201231T00:34:51Z | CVE-2020-15999 | Todos los materiales necesarios para la PoC en Chrome y ftview | https://github.com/Marmeus/CVE-2020-15999 | Heap buffer overflow in Freetype in Google Chrome prior to 86.0.4240.111 allowed a remote attacker to potentially exploit heap corruption via a crafted HTML page.| 
-| 20201230T23:32:45Z | CVE-2020-3161 | Cisco IP Phone 11.7 - Denial of Service (PoC) | https://github.com/uromulou/CVE-2020-3161 | A vulnerability in the web server for Cisco IP Phones could allow an unauthenticated, remote attacker to execute code with root privileges or cause a reload of an affected IP phone, resulting in a denial of service (DoS) condition. The vulnerability is due to a lack of proper input validation of HTTP requests. An attacker could exploit this vulnerability by sending a crafted HTTP request to the web server of a targeted device. A successful exploit could allow the attacker to remotely execute code with root privileges or cause a reload of an affected IP phone, resulting in a DoS condition.| 
+| 20201230T23:32:45Z | CVE-2020-3161 | Cisco IP Phone 11.7 - Denial of Service (PoC) | https://github.com/uromulou/CVE-2020-3161 | | 
 | 20201230T21:46:27Z | CVE-2020-6308 | CVE-2020-6308 mass exploiter/fuzzer. | https://github.com/Mulvun/CVE-2020-6308-mass-exploiter | SAP BusinessObjects Business Intelligence Platform (Web Services) versions - 410, 420, 430, allows an unauthenticated attacker to inject arbitrary values as CMS parameters to perform lookups on the internal network which is otherwise not accessible externally. On successful exploitation, attacker can scan internal network to determine internal infrastructure and gather information for further attacks like remote file inclusion, retrieve server files, bypass firewall and force the vulnerable server to perform malicious requests, resulting in a Server-Side Request Forgery vulnerability.| 
 | 20201230T19:55:36Z | CVE-2020-17530 | Null | https://github.com/CyborgSecurity/CVE-2020-17530 | Forced OGNL evaluation, when evaluated on raw user input in tag attributes, may lead to remote code execution. Affected software : Apache Struts 2.0.0 - Struts 2.5.25.| 
 | 20201230T18:05:25Z | CVE-2020-15999 | Repositorio con un script encargado de explotar la vulnerabilidad CVE-2020-15999 | https://github.com/maarlo/CVE-2020-15999 | Heap buffer overflow in Freetype in Google Chrome prior to 86.0.4240.111 allowed a remote attacker to potentially exploit heap corruption via a crafted HTML page.| 
@@ -118,8 +118,8 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20201231T01:38:41Z | 预部署fuzz，修改代码 重编译 测试 | https://github.com/Ma5ker/fuzzdocker | 0 | 0| 
 | 20201231T01:28:49Z | Easy to use and powerful fuzzy string matching, port of fuzzywuzzy. | https://github.com/nol13/fuzzball.js | 212 | 23| 
-| 20201231T01:27:04Z | 预部署fuzz，修改代码 重编译 测试 | https://github.com/Ma5ker/fuzzdocker | 0 | 0| 
 | 20201231T01:26:36Z | Chip tools, primarily around security fuzzing (laser, EM, UV, etc) | https://github.com/JohnDMcMaster/icfuzz | 4 | 1| 
 | 20201231T00:45:22Z | Fuzzy logic notes | https://github.com/foreverloop/fuzz | 0 | 0| 
 | 20201231T00:25:43Z | Rapid fuzzy string matching in Python using the Levenshtein Distance | https://github.com/maxbachmann/RapidFuzz | 745 | 26| 
