@@ -42,7 +42,7 @@
 | 20201230T18:05:25Z | CVE-2020-15999 | Repositorio con un script encargado de explotar la vulnerabilidad CVE-2020-15999 | https://github.com/maarlo/CVE-2020-15999 | Heap buffer overflow in Freetype in Google Chrome prior to 86.0.4240.111 allowed a remote attacker to potentially exploit heap corruption via a crafted HTML page.| 
 | 20201230T14:33:33Z | CVE-2020-28413 | Dicha vulnerabilidad se presentaba en la funcionalidad mc_project_get_users, y su detección es tan solo modificando y enviando el parámetro “access” sin ningún valor y cambiando el tipo de valor a String. | https://github.com/EthicalHCOP/CVE-2020-28413_Mantis2.24.3-SQLi-SOAP | In MantisBT 2.24.3, SQL Injection can occur in the parameter %access% of the mc_project_get_users function through the API SOAP.| 
 | 20201230T13:30:39Z | CVE-2020-10148 | Null | https://github.com/rdoix/CVE-2020-10148-Solarwinds-Orion | The SolarWinds Orion API is vulnerable to an authentication bypass that could allow a remote attacker to execute API commands. This vulnerability could allow a remote attacker to bypass authentication and execute API commands which may result in a compromise of the SolarWinds instance. SolarWinds Orion Platform versions 2019.4 HF 5, 2020.2 with no hotfix installed, and 2020.2 HF 1 are affected.| 
-| 20201230T11:29:44Z | CVE-2020-14882 | CodeTest信息收集和漏洞利用工具，可在进行渗透测试之时方便利用相关信息收集脚本进行信息的获取和验证工作，漏洞利用模块可选择需要测试的漏洞模块，或者选择所有模块测试，包含CVE-2020-14882, CVE-2020-2555等，可自己收集脚本后按照模板进行修改。 | https://github.com/xkx518/CodeTest | | 
+| 20201230T11:29:44Z | CVE-2020-14882 | CodeTest信息收集和漏洞利用工具，可在进行渗透测试之时方便利用相关信息收集脚本进行信息的获取和验证工作，漏洞利用模块可选择需要测试的漏洞模块，或者选择所有模块测试，包含CVE-2020-14882, CVE-2020-2555等，可自己收集脚本后按照模板进行修改。 | https://github.com/xkx518/CodeTest | Vulnerability in the Oracle WebLogic Server product of Oracle Fusion Middleware (component: Console). Supported versions that are affected are 10.3.6.0.0, 12.1.3.0.0, 12.2.1.3.0, 12.2.1.4.0 and 14.1.1.0.0. Easily exploitable vulnerability allows unauthenticated attacker with network access via HTTP to compromise Oracle WebLogic Server. Successful attacks of this vulnerability can result in takeover of Oracle WebLogic Server. CVSS 3.1 Base Score 9.8 (Confidentiality, Integrity and Availability impacts). CVSS Vector: (CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H).| 
 | 20201230T04:05:53Z | CVE-2020-6308 | PoC CVE-2020-6308 | https://github.com/InitRoot/CVE-2020-6308-PoC | SAP BusinessObjects Business Intelligence Platform (Web Services) versions - 410, 420, 430, allows an unauthenticated attacker to inject arbitrary values as CMS parameters to perform lookups on the internal network which is otherwise not accessible externally. On successful exploitation, attacker can scan internal network to determine internal infrastructure and gather information for further attacks like remote file inclusion, retrieve server files, bypass firewall and force the vulnerable server to perform malicious requests, resulting in a Server-Side Request Forgery vulnerability.| 
 | 20201230T01:15:39Z | CVE-2020-17008 | CVE-2020-17008 splWOW64 Elevation of Privilege | https://github.com/jas502n/CVE-2020-17008 | 未查询到CVE信息| 
 
@@ -95,16 +95,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20201230T13:00:57Z | Null | https://github.com/ahmeddrawy/team-formation-fuzzy-logic | 0 | 0| 
-| 20201230T12:47:37Z | Simple Script to Control Drugstore Warehouse using an Expert System Based on Fuzzy Rules | https://github.com/wildonion/fuzzy-drugstore | 0 | 0| 
-| 20201230T12:36:35Z | 预部署fuzz，修改代码 重编译 测试 | https://github.com/Ma5ker/fuzzdocker | 0 | 0| 
-| 20201230T12:08:54Z | Null | https://github.com/s9varesc/url-fuzzing-docker | 0 | 0| 
-| 20201230T12:05:43Z | Null | https://github.com/BartVandyck/tst-fuzzy-logbook | 0 | 0| 
-| 20201230T12:02:46Z | Null | https://github.com/shreyasingh7673/fuzzy-engine | 0 | 0| 
-| 20201230T12:00:50Z | collection of helper tools for fuzzing | https://github.com/fuzzah/fuzzaide | 1 | 0| 
-| 20201230T11:58:07Z | Web Fuzzer | https://github.com/Ph3nX-Z/Shuriken | 1 | 0| 
-| 20201230T11:19:53Z | Null | https://github.com/munawirrahman/FuzzyWuzzy | 1 | 0| 
-| 20201230T10:20:51Z | numerical experiments with fuzzy text search | https://github.com/markvanderloo/fuzzyfind | 0 | 0| 
+| 20201230T23:38:43Z | Script made for analyzing network parameters to give optimal result | https://github.com/Sancene/FuzzyProject | 0 | 0| 
+| 20201230T22:43:52Z | This project is a simple functionality called fuzzy string match (approximate search). | https://github.com/alidehban/FuzzyMatch | 0 | 0| 
+| 20201230T22:40:55Z | Pure nim fuzzy search implementation. Supports substrings etc | https://github.com/pigmej/fuzzy | 5 | 0| 
+| 20201230T22:03:47Z | Aggregated wordlist pulled from commonly used tools for discovery, enumeration, fuzzing, and exploitation. | https://github.com/drtychai/wordlists | 12 | 17| 
+| 20201230T21:59:21Z | Null | https://github.com/consigliere19/Memetic-Framework-with-Fuzzy-Memory-based-Local-Search | 0 | 0| 
+| 20201230T21:55:25Z | Fuzzing cryptographic libraries. Magic bug printer go brrrr. | https://github.com/guidovranken/cryptofuzz | 229 | 31| 
+| 20201230T21:46:27Z | CVE-2020-6308 mass exploiter/fuzzer. | https://github.com/Mulvun/CVE-2020-6308-mass-exploiter | 1 | 1| 
+| 20201230T21:42:23Z | A simple 1 dimensional fuzzy logic controller to autmoate car breaks | https://github.com/williamwoldum/Fuzzy-logic-brake-simulator | 0 | 0| 
+| 20201230T20:43:25Z | OSS-Fuzz - continuous fuzzing of open source software. | https://github.com/google/oss-fuzz | 5764 | 1145| 
+| 20201230T20:41:52Z | Null | https://github.com/lacygoill/vim-fuzzy | 0 | 0| 
 
 
 
