@@ -17,15 +17,15 @@
 | 20201230 | 这两天远程线上举办的 CCC 安全会议的部分视频已经公开了 | https://media.ccc.de/c/rc3| 
 | 20201230 | Apple 对 iOS 模拟器公司 Corellium 的诉讼败诉了 | https://sec.today/pulses/1a8ef835-2e98-4a2e-b17d-5962767d02df/| 
 | 20201230 | Apple 对 iOS 模拟器公司 Corellium 的诉讼败诉了 | https://www.washingtonpost.com/technology/2020/12/29/apple-corellium-lawsuit/| 
+| 20201230 | 针对新型 Golang 编写蠕虫在服务器上投放 XMRig Miner 病毒分析。 | https://paper.seebug.org/1440/| 
+| 20201230 | 日本航空航天公司川崎官方警告客户数据泄露。 | https://threatpost.com/japanese-aerospace-firm-kawasaki-warns-of-data-breach/162642/| 
+| 20201230 | Vimb- 一款Vim的web浏览器项目 | https://github.com/fanglingsu/vimb| 
 | 20201229 | GPS circle spoofing discovered in Iran | https://www.gpsworld.com/gps-circle-spoofing-discovered-in-iran/| 
 | 20201229 | PcapMonkey - 用于分析 pcap 网络数据包并从中检测威胁的工具 | https://github.com/certego/PcapMonkey| 
 | 20201229 | KeyDecoder - 有安全研究员开发了一款基于图片分析钥匙凹槽参数的 App | https://github.com/MaximeBeasse/KeyDecoder| 
 | 20201229 | 勒索软件相关的报告收集 | https://github.com/d4rk-d4nph3/Ransomware-Reports| 
 | 20201229 | 新网络边缘的智能DNS：DNS加密的新兴要求部署。 | https://blogs.akamai.com/2020/12/smart-dns-for-the-new-network-edge-emerging-requirements-for-dns-encryption.html?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+TheAkamaiBlog+%28The+Akamai+Blog%29| 
 | 20201228 | 针对 SMTP 协议的渗透测试 | https://luemmelsec.github.io/Pentest-Everything-SMTP/| 
-| 20201228 | Vulnerable-Kext - 用于学习 macOS/iOS 驱动漏洞利用的扩展 | https://github.com/ant4g0nist/Vulnerable-Kext| 
-| 20201228 | Detection and Hunting of Golden SAML Attack | https://www.sygnia.co/golden-saml-advisory| 
-| 20201228 | macOS 10.15.7 CVE-2020-27932 内核越界写漏洞分析 | https://worthdoingbadly.com/specialreply/| 
 
 
 # 安全维基 推荐
@@ -46,16 +46,16 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20201230T14:12:31Z | CVE-2020-28413 | Null | https://github.com/EthicalHCOP/CVE-2020-28413_Mantis2.24.3-SQLi-SOAP | 未查询到CVE信息| 
+| 20201231T00:34:51Z | CVE-2020-15999 | Todos los materiales necesarios para la PoC en Chrome y ftview | https://github.com/Marmeus/CVE-2020-15999 | Heap buffer overflow in Freetype in Google Chrome prior to 86.0.4240.111 allowed a remote attacker to potentially exploit heap corruption via a crafted HTML page.| 
+| 20201230T23:32:45Z | CVE-2020-3161 | Cisco IP Phone 11.7 - Denial of Service (PoC) | https://github.com/uromulou/CVE-2020-3161 | A vulnerability in the web server for Cisco IP Phones could allow an unauthenticated, remote attacker to execute code with root privileges or cause a reload of an affected IP phone, resulting in a denial of service (DoS) condition. The vulnerability is due to a lack of proper input validation of HTTP requests. An attacker could exploit this vulnerability by sending a crafted HTTP request to the web server of a targeted device. A successful exploit could allow the attacker to remotely execute code with root privileges or cause a reload of an affected IP phone, resulting in a DoS condition.| 
+| 20201230T21:46:27Z | CVE-2020-6308 | CVE-2020-6308 mass exploiter/fuzzer. | https://github.com/Mulvun/CVE-2020-6308-mass-exploiter | | 
+| 20201230T19:55:36Z | CVE-2020-17530 | Null | https://github.com/CyborgSecurity/CVE-2020-17530 | Forced OGNL evaluation, when evaluated on raw user input in tag attributes, may lead to remote code execution. Affected software : Apache Struts 2.0.0 - Struts 2.5.25.| 
+| 20201230T18:05:25Z | CVE-2020-15999 | Repositorio con un script encargado de explotar la vulnerabilidad CVE-2020-15999 | https://github.com/maarlo/CVE-2020-15999 | Heap buffer overflow in Freetype in Google Chrome prior to 86.0.4240.111 allowed a remote attacker to potentially exploit heap corruption via a crafted HTML page.| 
+| 20201230T14:33:33Z | CVE-2020-28413 | Dicha vulnerabilidad se presentaba en la funcionalidad mc_project_get_users, y su detección es tan solo modificando y enviando el parámetro “access” sin ningún valor y cambiando el tipo de valor a String. | https://github.com/EthicalHCOP/CVE-2020-28413_Mantis2.24.3-SQLi-SOAP | In MantisBT 2.24.3, SQL Injection can occur in the parameter %access% of the mc_project_get_users function through the API SOAP.| 
 | 20201230T13:30:39Z | CVE-2020-10148 | Null | https://github.com/rdoix/CVE-2020-10148-Solarwinds-Orion | The SolarWinds Orion API is vulnerable to an authentication bypass that could allow a remote attacker to execute API commands. This vulnerability could allow a remote attacker to bypass authentication and execute API commands which may result in a compromise of the SolarWinds instance. SolarWinds Orion Platform versions 2019.4 HF 5, 2020.2 with no hotfix installed, and 2020.2 HF 1 are affected.| 
 | 20201230T11:29:44Z | CVE-2020-14882 | CodeTest信息收集和漏洞利用工具，可在进行渗透测试之时方便利用相关信息收集脚本进行信息的获取和验证工作，漏洞利用模块可选择需要测试的漏洞模块，或者选择所有模块测试，包含CVE-2020-14882, CVE-2020-2555等，可自己收集脚本后按照模板进行修改。 | https://github.com/xkx518/CodeTest | Vulnerability in the Oracle WebLogic Server product of Oracle Fusion Middleware (component: Console). Supported versions that are affected are 10.3.6.0.0, 12.1.3.0.0, 12.2.1.3.0, 12.2.1.4.0 and 14.1.1.0.0. Easily exploitable vulnerability allows unauthenticated attacker with network access via HTTP to compromise Oracle WebLogic Server. Successful attacks of this vulnerability can result in takeover of Oracle WebLogic Server. CVSS 3.1 Base Score 9.8 (Confidentiality, Integrity and Availability impacts). CVSS Vector: (CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H).| 
 | 20201230T04:05:53Z | CVE-2020-6308 | PoC CVE-2020-6308 | https://github.com/InitRoot/CVE-2020-6308-PoC | SAP BusinessObjects Business Intelligence Platform (Web Services) versions - 410, 420, 430, allows an unauthenticated attacker to inject arbitrary values as CMS parameters to perform lookups on the internal network which is otherwise not accessible externally. On successful exploitation, attacker can scan internal network to determine internal infrastructure and gather information for further attacks like remote file inclusion, retrieve server files, bypass firewall and force the vulnerable server to perform malicious requests, resulting in a Server-Side Request Forgery vulnerability.| 
 | 20201230T01:15:39Z | CVE-2020-17008 | CVE-2020-17008 splWOW64 Elevation of Privilege | https://github.com/jas502n/CVE-2020-17008 | 未查询到CVE信息| 
-| 20201229T17:12:06Z | 未知编号 | Campeonato Virtual Equipado Powerlifting 2020 | https://github.com/Fedepotencia/2020_CVEP | 未查询到CVE信息| 
-| 20201229T16:07:04Z | CVE-2020-17144 | Exchange2010 authorized RCE | https://github.com/Airboi/CVE-2020-17144-EXP | , aka %Microsoft Exchange Remote Code Execution Vulnerability%. This CVE ID is unique from CVE-2020-17117, CVE-2020-17132, CVE-2020-17141, CVE-2020-17142.| 
-| 20201229T05:32:43Z | cve-2020-27955 | cve-2020-27955 | https://github.com/TheTh1nk3r/cve-2020-27955 | 未查询到CVE信息| 
-| 20201229T03:59:00Z | CVE-2020-17035 | CVE-2020-17035 patch analysis | https://github.com/flamelu/CVE-2020-17035-patch-analysis | Windows Kernel Elevation of Privilege Vulnerability| 
-| 20201229T01:37:14Z | cve-2020-17057 | cve-2020-17057 poc | https://github.com/ze0r/cve-2020-17057 | 未查询到CVE信息| 
 
 
 # klee on Github 推荐
@@ -88,31 +88,31 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20201230T14:24:31Z | PS4 Exploit list | https://github.com/Hakkuraifu/PS4xploit | 16 | 4| 
-| 20201230T14:18:15Z | Do you want to use x64dbg instead of immunity debugger? | https://github.com/David-Reguera-Garcia-Dreg/x64dbg-exploiting | 8 | 1| 
-| 20201230T13:55:11Z | linux post-exploitation framework made by linux user | https://github.com/jm33-m0/emp3r0r | 59 | 8| 
-| 20201230T12:46:35Z | TryHackMe CTFs writeups, notes, dratfs, scrabbles, files and solutions. | https://github.com/edoardottt/tryhackme-ctf | 9 | 7| 
-| 20201230T12:24:15Z | Python3によるROP Emplorium(32bit 版)のExploit | https://github.com/buuuuuuun3939/ROP-Emporium-Exploit | 0 | 0| 
-| 20201230T12:07:16Z | ExploitsX is a top-of-the-line constantly updated exploit fixer focused on patching bugs, lag glitches, and crash glitches for minecraft servers. It supports versions 1.8 through 1.17. | https://github.com/IzDaBait/ExploitsX | 3 | 2| 
-| 20201230T11:55:12Z | Problems related to Cryptography, Web-exploitation, Reverse Engineering, Pwn and Forensics | https://github.com/Voker2311/CTF-Writeups | 0 | 0| 
-| 20201230T11:30:09Z | ZetaSploit Framework is a powerful exploitation framework that contains a lot of modules for attacking targets, interacting with targets, exploiting common vulnerabilities and etc. | https://github.com/EntySec/ZetaSploit | 8 | 3| 
-| 20201230T11:07:22Z | Official PyTorch implementation of %Puzzle Mix: Exploiting Saliency and Local Statistics for Optimal Mixup% (ICML%20) | https://github.com/snu-mllab/PuzzleMix | 53 | 6| 
-| 20201230T10:52:51Z | Exploit Gui for Game: https://www.roblox.com/games/5665787539/Relics-Gods-Of-Glory-BETA | https://github.com/DohmBoyOG/Gods-of-Glory-GUI | 0 | 0| 
+| 20201231T00:49:32Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 6 | 3| 
+| 20201231T00:12:43Z | Null | https://github.com/jooala/cybersecurity-exploits | 0 | 0| 
+| 20201231T00:10:25Z | Roblox Exploit | https://github.com/0x83-Dev/x22.solutions | 0 | 0| 
+| 20201230T23:45:21Z | This bash script will help you to hack remote hosts  | https://github.com/FabioDefilippo/linuxallremote | 2 | 1| 
+| 20201230T23:07:58Z | A general purpose memory allocator that implements an isolation security strategy to mitigate memory safety issues while maintaining good performance | https://github.com/struct/isoalloc | 126 | 9| 
+| 20201230T23:04:27Z | This is predicted source code of a simple program by James Duffy that is purportedly a close representation of what exploiting a bug in SEPROM, found by the Pangu Team, could allow for — a way to get a bugged number of PIN attempts that may allow for a PIN brute-force attack. | https://github.com/Umarovm/DuffyAPP-IT-cracker-Representation-Predicted-Source | 0 | 0| 
+| 20201230T22:49:20Z | Post-exploitation tool for attacking Active Directory domain controllers | https://github.com/tmenochet/ADThief | 3 | 0| 
+| 20201230T22:42:30Z | Null | https://github.com/slick1015/ps4-exploit-poc | 0 | 0| 
+| 20201230T22:14:27Z | Thi powershell script has got to run in remote windows host, even for pivoting | https://github.com/FabioDefilippo/winallenum | 0 | 1| 
+| 20201230T22:07:06Z | PS4 Exploit list | https://github.com/Hakkuraifu/PS4xploit | 16 | 4| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20201231T00:52:06Z | TrojanZoo provides a universal pytorch platform to conduct security researches (especially backdoor attacks/defenses) of image classification in deep learning. | https://github.com/ain-soph/trojanzoo | 18 | 3| 
+| 20201230T23:12:47Z | A plugin gives you access to any locked windows pc by calling it with its parameters. It must be run in a cmd enviroment with administrator privilages. | https://github.com/KabueMurage/Windows-Backdoor | 9 | 2| 
+| 20201230T22:22:55Z | Null | https://github.com/wcenatus/node-backdoor | 0 | 0| 
+| 20201230T18:21:24Z | Null | https://github.com/Veallym0n/resty-socks5-backdoor | 0 | 0| 
+| 20201230T17:54:44Z | Ghost Framework is an Android post-exploitation framework that exploits the Android Debug Bridge to remotely access an Android device. Ghost Framework gives you the power and convenience of remote Android device administration. | https://github.com/EntySec/ghost | 897 | 452| 
+| 20201230T16:12:33Z | Repository for My Backdoor | https://github.com/aldiskatel/Backdoor | 4 | 0| 
 | 20201230T13:57:20Z | Generate Virus/Backdoor/Worm you name it! | https://github.com/FonderElite/Warrior | 1 | 0| 
-| 20201230T12:34:07Z | Ghost Framework is an Android post-exploitation framework that exploits the Android Debug Bridge to remotely access an Android device. Ghost Framework gives you the power and convenience of remote Android device administration. | https://github.com/EntySec/ghost | 897 | 452| 
 | 20201230T12:15:14Z | A tool to scan PHP files and analyze your project to find any malicious code inside it. It provides a text terminal console interface to scan files in a given directory and find PHP code files the seem to contain malicious code. | https://github.com/marcocesarato/PHP-Antimalware-Scanner | 160 | 29| 
-| 20201230T11:19:22Z | A plugin gives you access to any locked windows pc by calling it with its parameters. It must be run in a cmd enviroment with administrator privilages. | https://github.com/KabueMurage/Windows-Backdoor | 9 | 2| 
 | 20201230T07:54:37Z | Null | https://github.com/cv1002/SoftwareProjectManagerBackdoor | 1 | 5| 
-| 20201230T06:32:52Z | TrojanZoo provides a universal pytorch platform to conduct security researches (especially backdoor attacks/defenses) of image classification in deep learning. | https://github.com/ain-soph/trojanzoo | 18 | 3| 
-| 20201230T03:59:44Z | Antivirus evasion project  | https://github.com/Ch0pin/AVIator | 494 | 133| 
-| 20201230T02:21:41Z | Open-Source Remote Administration Tool For Windows C# (Be Based On AsyncRAT) | https://github.com/zhaoweiho/ElegyRAT-C-Sharp | 4 | 1| 
-| 20201229T22:44:06Z | DO NOT USE THIS CODE FOR MALICIOUS PURPOSES!!! This program is for educational purposes only! I am not responsible for anything you do with it. | https://github.com/alexcamargos/SimplePythonBackdoor | 0 | 0| 
-| 20201229T22:29:41Z | Null | https://github.com/wcenatus/node-backdoor | 0 | 0| 
+| 20201230T03:59:44Z | Antivirus evasion project  | https://github.com/Ch0pin/AVIator | 494 | 132| 
 
 
 # fuzz on Github 推荐
