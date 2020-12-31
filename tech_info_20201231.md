@@ -39,8 +39,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20201231T13:57:38Z | ZetaSploit Framework is a powerful exploitation framework that contains a lot of modules for attacking targets, interacting with targets, exploiting common vulnerabilities and etc. | https://github.com/EntySec/ZetaSploit | 7 | 3| 
 | 20201231T13:54:52Z | Null | https://github.com/Prb-Borg/Multi-Exploit-Host | 0 | 0| 
-| 20201231T13:53:15Z | ZetaSploit Framework is a powerful exploitation framework that contains a lot of modules for attacking targets, interacting with targets, exploiting common vulnerabilities and etc. | https://github.com/EntySec/ZetaSploit | 7 | 3| 
 | 20201231T13:19:21Z | PS4 Exploit list | https://github.com/Hakkuraifu/PS4xploit | 17 | 4| 
 | 20201231T13:17:44Z | Updates about the remote code execution exploit of 2019 | https://github.com/twittersecurity/RCE2019 | 0 | 0| 
 | 20201231T13:09:29Z | CSS trick/bug to display a brighter white by exploiting HDR capability of browsers | https://github.com/kiding/wanna-see-a-whiter-white | 4 | 0| 
