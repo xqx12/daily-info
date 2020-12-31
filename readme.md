@@ -36,7 +36,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20201230T23:32:45Z | CVE-2020-3161 | Cisco IP Phone 11.7 - Denial of Service (PoC) | https://github.com/uromulou/CVE-2020-3161 | A vulnerability in the web server for Cisco IP Phones could allow an unauthenticated, remote attacker to execute code with root privileges or cause a reload of an affected IP phone, resulting in a denial of service (DoS) condition. The vulnerability is due to a lack of proper input validation of HTTP requests. An attacker could exploit this vulnerability by sending a crafted HTTP request to the web server of a targeted device. A successful exploit could allow the attacker to remotely execute code with root privileges or cause a reload of an affected IP phone, resulting in a DoS condition.| 
+| 20201230T23:32:45Z | CVE-2020-3161 | Cisco IP Phone 11.7 - Denial of Service (PoC) | https://github.com/uromulou/CVE-2020-3161 | | 
 | 20201230T21:46:27Z | CVE-2020-6308 | CVE-2020-6308 mass exploiter/fuzzer. | https://github.com/Mulvun/CVE-2020-6308-mass-exploiter | SAP BusinessObjects Business Intelligence Platform (Web Services) versions - 410, 420, 430, allows an unauthenticated attacker to inject arbitrary values as CMS parameters to perform lookups on the internal network which is otherwise not accessible externally. On successful exploitation, attacker can scan internal network to determine internal infrastructure and gather information for further attacks like remote file inclusion, retrieve server files, bypass firewall and force the vulnerable server to perform malicious requests, resulting in a Server-Side Request Forgery vulnerability.| 
 | 20201230T19:55:36Z | CVE-2020-17530 | Null | https://github.com/CyborgSecurity/CVE-2020-17530 | Forced OGNL evaluation, when evaluated on raw user input in tag attributes, may lead to remote code execution. Affected software : Apache Struts 2.0.0 - Struts 2.5.25.| 
 | 20201230T18:05:25Z | CVE-2020-15999 | Repositorio con un script encargado de explotar la vulnerabilidad CVE-2020-15999 | https://github.com/maarlo/CVE-2020-15999 | Heap buffer overflow in Freetype in Google Chrome prior to 86.0.4240.111 allowed a remote attacker to potentially exploit heap corruption via a crafted HTML page.| 
@@ -70,11 +70,11 @@
 | 20201230T23:04:27Z | This is predicted source code of a simple program by James Duffy that is purportedly a close representation of what exploiting a bug in SEPROM, found by the Pangu Team, could allow for — a way to get a bugged number of PIN attempts that may allow for a PIN brute-force attack. | https://github.com/Umarovm/DuffyAPP-IT-cracker-Representation-Predicted-Source | 0 | 0| 
 | 20201230T22:49:20Z | Post-exploitation tool for attacking Active Directory domain controllers | https://github.com/tmenochet/ADThief | 3 | 0| 
 | 20201230T22:14:27Z | Thi powershell script has got to run in remote windows host, even for pivoting | https://github.com/FabioDefilippo/winallenum | 0 | 1| 
-| 20201230T22:07:06Z | PS4 Exploit list | https://github.com/Hakkuraifu/PS4xploit | 16 | 4| 
 | 20201230T22:05:25Z | Just some scripts for some games that I made or stolen. | https://github.com/Aethese/roblox-exploits | 0 | 0| 
 | 20201230T22:03:47Z | Aggregated wordlist pulled from commonly used tools for discovery, enumeration, fuzzing, and exploitation. | https://github.com/drtychai/wordlists | 12 | 17| 
 | 20201230T21:46:27Z | CVE-2020-6308 mass exploiter/fuzzer. | https://github.com/Mulvun/CVE-2020-6308-mass-exploiter | 1 | 1| 
 | 20201230T21:42:10Z | Null | https://github.com/deleteapplephones/BUK-Exploit | 0 | 0| 
+| 20201230T21:37:01Z | TryHackMe CTFs writeups, notes, dratfs, scrabbles, files and solutions. | https://github.com/edoardottt/tryhackme-ctf | 9 | 7| 
 
 
 # backdoor on Github 推荐
