@@ -88,16 +88,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20201231T13:57:38Z | ZetaSploit Framework is a powerful exploitation framework that contains a lot of modules for attacking targets, interacting with targets, exploiting common vulnerabilities and etc. | https://github.com/EntySec/ZetaSploit | 7 | 3| 
+| 20201231T14:23:48Z | Scripts, notes, challs and exploits of CTF challenges. | https://github.com/brerodrigues/CTFs | 2 | 1| 
+| 20201231T14:20:10Z | ZetaSploit Framework is a powerful exploitation framework that contains a lot of modules for attacking targets, interacting with targets, exploiting common vulnerabilities and etc. | https://github.com/EntySec/ZetaSploit | 7 | 3| 
+| 20201231T14:14:28Z | A tool to scan PHP files and analyze your project to find any malicious code inside it. It provides a text terminal console interface to scan files in a given directory and find PHP code files the seem to contain malicious code. | https://github.com/marcocesarato/PHP-Antimalware-Scanner | 160 | 29| 
+| 20201231T14:11:52Z | Sifter is a OSINT, recon & vulnerability scanner. It incorporates a plethara of tools within different module sets that tries to cover every attack vector. Allowing you to quickly perform recon tasks and organize the results in one place. From OSINT to Recon, Exploitation, Post-Exploitation, OpSec, Threat Analysis, XSS, SQLinjection, Network Scanning, WebApp Analysis or DNS enumeration.. Sifter should be able to cover it all. | https://github.com/s1l3nt78/sifter | 335 | 100| 
 | 20201231T13:54:52Z | Null | https://github.com/Prb-Borg/Multi-Exploit-Host | 0 | 0| 
 | 20201231T13:19:21Z | PS4 Exploit list | https://github.com/Hakkuraifu/PS4xploit | 17 | 4| 
 | 20201231T13:17:44Z | Updates about the remote code execution exploit of 2019 | https://github.com/twittersecurity/RCE2019 | 0 | 0| 
 | 20201231T13:09:29Z | CSS trick/bug to display a brighter white by exploiting HDR capability of browsers | https://github.com/kiding/wanna-see-a-whiter-white | 4 | 0| 
 | 20201231T12:59:43Z | Thi powershell script has got to run in remote windows host, even for pivoting | https://github.com/FabioDefilippo/winallenum | 0 | 1| 
 | 20201231T12:54:41Z | Tools for detection and exploitation of chosen vulnerability classes in web applications - Engineer%s Thesis - AGH UST | https://github.com/gregxsunday/tools-for-exploiting-webapps | 2 | 0| 
-| 20201231T12:42:31Z | Windows Exploit Suggester - Next Generation | https://github.com/bitsadmin/wesng | 2099 | 334| 
-| 20201231T11:38:04Z | Post-exploitation tools for reconnaissance & hunting | https://github.com/tmenochet/PowerScan | 0 | 0| 
-| 20201231T11:35:56Z | Exploring and Exploiting Latent Commonsense Knowledge in Pretrained Masked Language Models | https://github.com/DRSY/LAMP | 2 | 0| 
 
 
 # backdoor on Github 推荐
@@ -118,16 +118,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20201231T02:12:53Z | A list of payload and bypass lists for penetration testing and red team infrastructure build. | https://github.com/ffffffff0x/AboutSecurity | 137 | 36| 
-| 20201231T02:10:44Z | working through gray hat C# book | https://github.com/marbilher/fuzzing | 0 | 0| 
-| 20201231T02:03:28Z | 预部署fuzz，修改代码 重编译 测试 | https://github.com/Ma5ker/fuzzdocker | 0 | 0| 
-| 20201231T01:28:49Z | Easy to use and powerful fuzzy string matching, port of fuzzywuzzy. | https://github.com/nol13/fuzzball.js | 212 | 23| 
-| 20201231T01:26:36Z | Chip tools, primarily around security fuzzing (laser, EM, UV, etc) | https://github.com/JohnDMcMaster/icfuzz | 4 | 1| 
-| 20201231T00:45:22Z | Fuzzy logic notes | https://github.com/foreverloop/fuzz | 0 | 0| 
-| 20201231T00:25:43Z | Rapid fuzzy string matching in Python using the Levenshtein Distance | https://github.com/maxbachmann/RapidFuzz | 745 | 26| 
-| 20201231T00:11:00Z | corpus for fuzzing netaddr | https://github.com/inetaf/netaddr-corpus | 0 | 0| 
-| 20201230T23:38:43Z | Script made for analyzing network parameters to give optimal result | https://github.com/Sancene/FuzzyProject | 0 | 0| 
-| 20201230T22:43:52Z | This project is a simple functionality called fuzzy string match (approximate search). | https://github.com/alidehban/FuzzyMatch | 0 | 0| 
+| 20201231T14:25:37Z | Web Fuzzer | https://github.com/Ph3nX-Z/Shuriken | 1 | 0| 
+| 20201231T14:19:06Z | Null | https://github.com/PERFECT9797/fuzzy-robot | 0 | 0| 
+| 20201231T14:02:05Z | Null | https://github.com/BartVandyck/tst-fuzzy-gojournal | 0 | 0| 
+| 20201231T13:56:32Z | Null | https://github.com/BartVandyck/tst-fuzzy-slim | 0 | 0| 
+| 20201231T13:30:17Z | Null | https://github.com/ahmeddrawy/team-formation-fuzzy-logic | 0 | 0| 
+| 20201231T13:24:23Z | OSS-Fuzz - continuous fuzzing of open source software. | https://github.com/google/oss-fuzz | 5767 | 1145| 
+| 20201231T13:15:01Z | This repository presents a readme for the setup of fuzzers and other related tools | https://github.com/c0d3nh4ck/Setup-of-Fuzzers-and-Tools | 0 | 0| 
+| 20201231T12:42:34Z | Collection of quality safety articles | https://github.com/tom0li/collection-document | 1321 | 422| 
+| 20201231T12:41:13Z | gitmoji selector on fzf | https://github.com/ShotaroKataoka/Fuzzy-Git-Operator | 2 | 0| 
+| 20201231T11:54:11Z | Null | https://github.com/BartVandyck/tst-fuzzy-logbook | 0 | 0| 
 
 
 
