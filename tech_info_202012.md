@@ -55,12 +55,13 @@
 | 20201230T14:33:33Z | CVE-2020-28413 | Dicha vulnerabilidad se presentaba en la funcionalidad mc_project_get_users, y su detección es tan solo modificando y enviando el parámetro “access” sin ningún valor y cambiando el tipo de valor a String. | https://github.com/EthicalHCOP/CVE-2020-28413_Mantis2.24.3-SQLi-SOAP | In MantisBT 2.24.3, SQL Injection can occur in the parameter %access% of the mc_project_get_users function through the API SOAP.| 
 | 20201230T13:30:39Z | CVE-2020-10148 | Null | https://github.com/rdoix/CVE-2020-10148-Solarwinds-Orion | The SolarWinds Orion API is vulnerable to an authentication bypass that could allow a remote attacker to execute API commands. This vulnerability could allow a remote attacker to bypass authentication and execute API commands which may result in a compromise of the SolarWinds instance. SolarWinds Orion Platform versions 2019.4 HF 5, 2020.2 with no hotfix installed, and 2020.2 HF 1 are affected.| 
 | 20201230T11:29:44Z | CVE-2020-14882 | CodeTest信息收集和漏洞利用工具，可在进行渗透测试之时方便利用相关信息收集脚本进行信息的获取和验证工作，漏洞利用模块可选择需要测试的漏洞模块，或者选择所有模块测试，包含CVE-2020-14882, CVE-2020-2555等，可自己收集脚本后按照模板进行修改。 | https://github.com/xkx518/CodeTest | Vulnerability in the Oracle WebLogic Server product of Oracle Fusion Middleware (component: Console). Supported versions that are affected are 10.3.6.0.0, 12.1.3.0.0, 12.2.1.3.0, 12.2.1.4.0 and 14.1.1.0.0. Easily exploitable vulnerability allows unauthenticated attacker with network access via HTTP to compromise Oracle WebLogic Server. Successful attacks of this vulnerability can result in takeover of Oracle WebLogic Server. CVSS 3.1 Base Score 9.8 (Confidentiality, Integrity and Availability impacts). CVSS Vector: (CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H).| 
-| 20201230T04:05:53Z | CVE-2020-6308 | PoC CVE-2020-6308 | https://github.com/InitRoot/CVE-2020-6308-PoC | SAP BusinessObjects Business Intelligence Platform (Web Services) versions - 410, 420, 430, allows an unauthenticated attacker to inject arbitrary values as CMS parameters to perform lookups on the internal network which is otherwise not accessible externally. On successful exploitation, attacker can scan internal network to determine internal infrastructure and gather information for further attacks like remote file inclusion, retrieve server files, bypass firewall and force the vulnerable server to perform malicious requests, resulting in a Server-Side Request Forgery vulnerability.| 
+| 20201230T04:05:53Z | CVE-2020-6308 | PoC CVE-2020-6308 | https://github.com/InitRoot/CVE-2020-6308-PoC | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20201231T02:36:22Z | Null | https://github.com/fontworks-fonts/Klee | 2 | 0| 
 | 20201230T22:52:12Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1590 | 476| 
 | 20201230T12:00:27Z | Null | https://github.com/viktorfrom/klee_tutorial | 0 | 0| 
 | 20201230T10:33:02Z | Null | https://github.com/markhakansson/klee-tutorial | 0 | 0| 
@@ -70,7 +71,6 @@
 | 20201229T13:08:17Z | ⬇️ File Upload/sharing application, used by thousands of webmasters since 2007.  | https://github.com/kleeja-official/kleeja | 107 | 32| 
 | 20201228T20:46:28Z | Null | https://github.com/thierry-tct/KLEE-SEMu | 2 | 0| 
 | 20201228T17:55:53Z | Null | https://github.com/kleenxcoder/kleenxcoder.github.io | 0 | 0| 
-| 20201224T15:17:27Z | Null | https://github.com/jennifer4569/Klee-Bot | 0 | 0| 
 
 
 # s2e on Github 推荐
