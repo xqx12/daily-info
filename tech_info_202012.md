@@ -54,8 +54,8 @@
 | 20201230T21:46:27Z | CVE-2020-6308 | CVE-2020-6308 mass exploiter/fuzzer. | https://github.com/Mulvun/CVE-2020-6308-mass-exploiter | SAP BusinessObjects Business Intelligence Platform (Web Services) versions - 410, 420, 430, allows an unauthenticated attacker to inject arbitrary values as CMS parameters to perform lookups on the internal network which is otherwise not accessible externally. On successful exploitation, attacker can scan internal network to determine internal infrastructure and gather information for further attacks like remote file inclusion, retrieve server files, bypass firewall and force the vulnerable server to perform malicious requests, resulting in a Server-Side Request Forgery vulnerability.| 
 | 20201230T19:55:36Z | CVE-2020-17530 | Null | https://github.com/CyborgSecurity/CVE-2020-17530 | Forced OGNL evaluation, when evaluated on raw user input in tag attributes, may lead to remote code execution. Affected software : Apache Struts 2.0.0 - Struts 2.5.25.| 
 | 20201230T18:05:25Z | CVE-2020-15999 | Repositorio con un script encargado de explotar la vulnerabilidad CVE-2020-15999 | https://github.com/maarlo/CVE-2020-15999 | Heap buffer overflow in Freetype in Google Chrome prior to 86.0.4240.111 allowed a remote attacker to potentially exploit heap corruption via a crafted HTML page.| 
-| 20201230T14:33:33Z | CVE-2020-28413 | Dicha vulnerabilidad se presentaba en la funcionalidad mc_project_get_users, y su detección es tan solo modificando y enviando el parámetro “access” sin ningún valor y cambiando el tipo de valor a String. | https://github.com/EthicalHCOP/CVE-2020-28413_Mantis2.24.3-SQLi-SOAP | In MantisBT 2.24.3, SQL Injection can occur in the parameter %access% of the mc_project_get_users function through the API SOAP.| 
-| 20201230T13:30:39Z | CVE-2020-10148 | Null | https://github.com/rdoix/CVE-2020-10148-Solarwinds-Orion | The SolarWinds Orion API is vulnerable to an authentication bypass that could allow a remote attacker to execute API commands. This vulnerability could allow a remote attacker to bypass authentication and execute API commands which may result in a compromise of the SolarWinds instance. SolarWinds Orion Platform versions 2019.4 HF 5, 2020.2 with no hotfix installed, and 2020.2 HF 1 are affected.| 
+| 20201230T14:33:33Z | CVE-2020-28413 | Dicha vulnerabilidad se presentaba en la funcionalidad mc_project_get_users, y su detección es tan solo modificando y enviando el parámetro “access” sin ningún valor y cambiando el tipo de valor a String. | https://github.com/EthicalHCOP/CVE-2020-28413_Mantis2.24.3-SQLi-SOAP | | 
+| 20201230T13:30:39Z | CVE-2020-10148 | Null | https://github.com/rdoix/CVE-2020-10148-Solarwinds-Orion | | 
 
 
 # klee on Github 推荐
@@ -103,6 +103,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20201231T14:14:28Z | A tool to scan PHP files and analyze your project to find any malicious code inside it. It provides a text terminal console interface to scan files in a given directory and find PHP code files the seem to contain malicious code. | https://github.com/marcocesarato/PHP-Antimalware-Scanner | 160 | 29| 
 | 20201231T12:53:06Z | Null | https://github.com/cv1002/SoftwareProjectManagerBackdoor | 1 | 5| 
 | 20201231T10:47:17Z | Open-Source Remote Administration Tool For Windows C# (Be Based On AsyncRAT) | https://github.com/zhaoweiho/ElegyRAT-C-Sharp | 6 | 1| 
 | 20201231T09:34:33Z | TrojanZoo provides a universal pytorch platform to conduct security researches (especially backdoor attacks/defenses) of image classification in deep learning. | https://github.com/ain-soph/trojanzoo | 19 | 3| 
@@ -112,7 +113,6 @@
 | 20201230T18:21:24Z | Null | https://github.com/Veallym0n/resty-socks5-backdoor | 0 | 0| 
 | 20201230T17:54:44Z | Ghost Framework is an Android post-exploitation framework that exploits the Android Debug Bridge to remotely access an Android device. Ghost Framework gives you the power and convenience of remote Android device administration. | https://github.com/EntySec/ghost | 897 | 452| 
 | 20201230T16:12:33Z | Repository for My Backdoor | https://github.com/aldiskatel/Backdoor | 4 | 0| 
-| 20201230T13:57:20Z | Generate Virus/Backdoor/Worm you name it! | https://github.com/FonderElite/Warrior | 1 | 0| 
 
 
 # fuzz on Github 推荐

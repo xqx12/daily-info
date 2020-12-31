@@ -54,6 +54,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20201231T14:14:28Z | A tool to scan PHP files and analyze your project to find any malicious code inside it. It provides a text terminal console interface to scan files in a given directory and find PHP code files the seem to contain malicious code. | https://github.com/marcocesarato/PHP-Antimalware-Scanner | 160 | 29| 
 | 20201231T12:53:06Z | Null | https://github.com/cv1002/SoftwareProjectManagerBackdoor | 1 | 5| 
 | 20201231T10:47:17Z | Open-Source Remote Administration Tool For Windows C# (Be Based On AsyncRAT) | https://github.com/zhaoweiho/ElegyRAT-C-Sharp | 6 | 1| 
 | 20201231T09:34:33Z | TrojanZoo provides a universal pytorch platform to conduct security researches (especially backdoor attacks/defenses) of image classification in deep learning. | https://github.com/ain-soph/trojanzoo | 19 | 3| 
