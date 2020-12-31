@@ -39,8 +39,9 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20201231T13:10:06Z | ZetaSploit Framework is a powerful exploitation framework that contains a lot of modules for attacking targets, interacting with targets, exploiting common vulnerabilities and etc. | https://github.com/EntySec/ZetaSploit | 7 | 3| 
-| 20201231T13:10:04Z | PS4 Exploit list | https://github.com/Hakkuraifu/PS4xploit | 17 | 4| 
+| 20201231T13:23:05Z | ZetaSploit Framework is a powerful exploitation framework that contains a lot of modules for attacking targets, interacting with targets, exploiting common vulnerabilities and etc. | https://github.com/EntySec/ZetaSploit | 7 | 3| 
+| 20201231T13:19:21Z | PS4 Exploit list | https://github.com/Hakkuraifu/PS4xploit | 17 | 4| 
+| 20201231T13:17:44Z | Updates about the remote code execution exploit of 2019 | https://github.com/twittersecurity/RCE2019 | 0 | 0| 
 | 20201231T13:09:29Z | CSS trick/bug to display a brighter white by exploiting HDR capability of browsers | https://github.com/kiding/wanna-see-a-whiter-white | 4 | 0| 
 | 20201231T12:59:43Z | Thi powershell script has got to run in remote windows host, even for pivoting | https://github.com/FabioDefilippo/winallenum | 0 | 1| 
 | 20201231T12:54:41Z | Tools for detection and exploitation of chosen vulnerability classes in web applications - Engineer%s Thesis - AGH UST | https://github.com/gregxsunday/tools-for-exploiting-webapps | 2 | 0| 
@@ -48,7 +49,6 @@
 | 20201231T11:38:04Z | Post-exploitation tools for reconnaissance & hunting | https://github.com/tmenochet/PowerScan | 0 | 0| 
 | 20201231T11:35:56Z | Exploring and Exploiting Latent Commonsense Knowledge in Pretrained Masked Language Models | https://github.com/DRSY/LAMP | 2 | 0| 
 | 20201231T10:33:07Z | This module massively scan and exploit a path traversal vulnerability in the FortiOS SSL VPN web portal may allow an unauthenticated attacker to download FortiOS system files through specially crafted HTTP resource requests (CVE-2018-13379). | https://github.com/Zeop-CyberSec/fortios_vpnssl_traversal_leak | 5 | 0| 
-| 20201231T10:22:50Z | linux post-exploitation framework made by linux user | https://github.com/jm33-m0/emp3r0r | 68 | 11| 
 
 
 # backdoor on Github 推荐
