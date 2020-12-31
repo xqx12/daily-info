@@ -50,7 +50,7 @@
 | 20201231T00:34:51Z | CVE-2020-15999 | Todos los materiales necesarios para la PoC en Chrome y ftview | https://github.com/Marmeus/CVE-2020-15999 | Heap buffer overflow in Freetype in Google Chrome prior to 86.0.4240.111 allowed a remote attacker to potentially exploit heap corruption via a crafted HTML page.| 
 | 20201230T23:32:45Z | CVE-2020-3161 | Cisco IP Phone 11.7 - Denial of Service (PoC) | https://github.com/uromulou/CVE-2020-3161 | A vulnerability in the web server for Cisco IP Phones could allow an unauthenticated, remote attacker to execute code with root privileges or cause a reload of an affected IP phone, resulting in a denial of service (DoS) condition. The vulnerability is due to a lack of proper input validation of HTTP requests. An attacker could exploit this vulnerability by sending a crafted HTTP request to the web server of a targeted device. A successful exploit could allow the attacker to remotely execute code with root privileges or cause a reload of an affected IP phone, resulting in a DoS condition.| 
 | 20201230T21:46:27Z | CVE-2020-6308 | CVE-2020-6308 mass exploiter/fuzzer. | https://github.com/Mulvun/CVE-2020-6308-mass-exploiter | SAP BusinessObjects Business Intelligence Platform (Web Services) versions - 410, 420, 430, allows an unauthenticated attacker to inject arbitrary values as CMS parameters to perform lookups on the internal network which is otherwise not accessible externally. On successful exploitation, attacker can scan internal network to determine internal infrastructure and gather information for further attacks like remote file inclusion, retrieve server files, bypass firewall and force the vulnerable server to perform malicious requests, resulting in a Server-Side Request Forgery vulnerability.| 
-| 20201230T19:55:36Z | CVE-2020-17530 | Null | https://github.com/CyborgSecurity/CVE-2020-17530 | Forced OGNL evaluation, when evaluated on raw user input in tag attributes, may lead to remote code execution. Affected software : Apache Struts 2.0.0 - Struts 2.5.25.| 
+| 20201230T19:55:36Z | CVE-2020-17530 | Null | https://github.com/CyborgSecurity/CVE-2020-17530 | | 
 | 20201230T18:05:25Z | CVE-2020-15999 | Repositorio con un script encargado de explotar la vulnerabilidad CVE-2020-15999 | https://github.com/maarlo/CVE-2020-15999 | Heap buffer overflow in Freetype in Google Chrome prior to 86.0.4240.111 allowed a remote attacker to potentially exploit heap corruption via a crafted HTML page.| 
 | 20201230T14:33:33Z | CVE-2020-28413 | Dicha vulnerabilidad se presentaba en la funcionalidad mc_project_get_users, y su detección es tan solo modificando y enviando el parámetro “access” sin ningún valor y cambiando el tipo de valor a String. | https://github.com/EthicalHCOP/CVE-2020-28413_Mantis2.24.3-SQLi-SOAP | In MantisBT 2.24.3, SQL Injection can occur in the parameter %access% of the mc_project_get_users function through the API SOAP.| 
 | 20201230T13:30:39Z | CVE-2020-10148 | Null | https://github.com/rdoix/CVE-2020-10148-Solarwinds-Orion | The SolarWinds Orion API is vulnerable to an authentication bypass that could allow a remote attacker to execute API commands. This vulnerability could allow a remote attacker to bypass authentication and execute API commands which may result in a compromise of the SolarWinds instance. SolarWinds Orion Platform versions 2019.4 HF 5, 2020.2 with no hotfix installed, and 2020.2 HF 1 are affected.| 
@@ -88,6 +88,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20201231T02:10:13Z | Router Exploitation Tools. Checks for WinBox Authentication Bypass Disclosure, RouterOS Jailbreak vulnerabilities & ByTheWay RCE | https://github.com/s1l3nt78/MkCheck | 49 | 16| 
 | 20201231T02:03:41Z | Null | https://github.com/slick1015/ps4-exploit-poc | 1 | 0| 
 | 20201231T01:04:44Z | https://exploited.cz | https://github.com/spaze/exploited.cz | 8 | 2| 
 | 20201231T01:03:08Z | Go package that aids in binary analysis and exploitation | https://github.com/zznop/sploit | 134 | 16| 
@@ -97,7 +98,6 @@
 | 20201231T00:10:25Z | Roblox Exploit | https://github.com/0x83-Dev/x22.solutions | 0 | 0| 
 | 20201230T23:45:21Z | This bash script will help you to hack remote hosts  | https://github.com/FabioDefilippo/linuxallremote | 2 | 1| 
 | 20201230T23:07:58Z | A general purpose memory allocator that implements an isolation security strategy to mitigate memory safety issues while maintaining good performance | https://github.com/struct/isoalloc | 126 | 9| 
-| 20201230T23:04:27Z | This is predicted source code of a simple program by James Duffy that is purportedly a close representation of what exploiting a bug in SEPROM, found by the Pangu Team, could allow for — a way to get a bugged number of PIN attempts that may allow for a PIN brute-force attack. | https://github.com/Umarovm/DuffyAPP-IT-cracker-Representation-Predicted-Source | 0 | 0| 
 
 
 # backdoor on Github 推荐
