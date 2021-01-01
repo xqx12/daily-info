@@ -57,8 +57,9 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210101T13:37:35Z | The Book %Generating Software Tests% | https://github.com/uds-se/fuzzingbook | 479 | 93| 
+| 20210101T13:33:26Z | Planning tool | https://github.com/HappyDustbunny/FuzzyFlexx | 1 | 0| 
 | 20210101T12:49:36Z | Web Fuzzer | https://github.com/Ph3nX-Z/Shuriken | 1 | 0| 
-| 20210101T11:49:42Z | Planning tool | https://github.com/HappyDustbunny/FuzzyFlexx | 1 | 0| 
 | 20210101T11:45:00Z | Null | https://github.com/BartVandyck/fuzzy-slim2 | 0 | 0| 
 | 20210101T11:08:44Z | RESTler is the first stateful REST API fuzzing tool for automatically testing cloud services through their REST APIs and finding security and reliability bugs in these services. | https://github.com/microsoft/restler-fuzzer | 601 | 50| 
 | 20210101T10:52:10Z | gitmoji selector on fzf | https://github.com/ShotaroKataoka/Fuzzy-Git-Operator | 2 | 0| 
@@ -66,7 +67,6 @@
 | 20210101T09:25:49Z | Payload fuzzer written in Python | https://github.com/tisnik/payload-fuzzer | 0 | 0| 
 | 20210101T08:37:47Z | Null | https://github.com/terminal-labs/fuzzball | 0 | 0| 
 | 20210101T06:50:11Z | Null | https://github.com/Isabella-gh/fuzzy-garbanzo | 0 | 0| 
-| 20210101T06:43:23Z | Run fuzzing experiments in Docker | https://github.com/zjuchenyuan/dockerized_fuzzing | 43 | 7| 
 
 
 
