@@ -33,6 +33,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210101T13:52:54Z | git clone https://github.com/Anon-Divyanth/H-Tool  cd H-Tool  pip install -r requirements.txt  python Htool.py  Remove the   This is a package of all hacking tools., This tool contain over 200+ Advance and professional Hacking tools.it contain phishing,Bruteforcing, Vulnerability scanning,information gathering, Wifi hacking,tracing and tracking,Exploitation, Password attacking,creating malwares,Bombing, Another hacking tools., Thanks to my Hacker Friends Joyson and Prudhvi. | https://github.com/nyctophile6/H-Tool | 0 | 0| 
 | 20210101T13:49:57Z | A tool to scan PHP files and analyze your project to find any malicious code inside it. It provides a text terminal console interface to scan files in a given directory and find PHP code files the seem to contain malicious code. | https://github.com/marcocesarato/PHP-Antimalware-Scanner | 160 | 29| 
 | 20210101T13:43:34Z | A living document for penetration testing and offensive security. | https://github.com/0xffsec/handbook | 16 | 4| 
 | 20210101T13:35:52Z | ZetaSploit Framework is a powerful exploitation framework that contains a lot of modules for attacking targets, interacting with targets, exploiting common vulnerabilities and etc. | https://github.com/EntySec/ZetaSploit | 7 | 3| 
@@ -42,7 +43,6 @@
 | 20210101T12:47:12Z | A post exploitation framework designed to operate covertly on heavily monitored environments | https://github.com/bats3c/shad0w | 1014 | 160| 
 | 20210101T12:42:56Z | Sifter is a OSINT, recon & vulnerability scanner. It incorporates a plethara of tools within different module sets that tries to cover every attack vector. Allowing you to quickly perform recon tasks and organize the results in one place. From OSINT to Recon, Exploitation, Post-Exploitation, OpSec, Threat Analysis, XSS, SQLinjection, Network Scanning, WebApp Analysis or DNS enumeration.. Sifter should be able to cover it all. | https://github.com/s1l3nt78/sifter | 334 | 100| 
 | 20210101T12:32:58Z | Null | https://github.com/th3ken-dev/TH3KEN-EDITON | 2 | 0| 
-| 20210101T12:31:10Z | A collection of BlockChain Solidity Smart Contracts: Building, Security & Exploits. Also exploring Cryptography (RSA, ECC) from Scratch. | https://github.com/SmartyPants042/BlockChain-Unchained | 0 | 0| 
 
 
 # backdoor on Github 推荐
