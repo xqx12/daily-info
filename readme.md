@@ -45,7 +45,6 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20201231T22:46:26Z | Null | https://github.com/mrthankyou/jinja2-exploit | 0 | 0| 
 | 20201231T22:31:02Z | Roblox Exploit, Almost full lua executor, unlimited. | https://github.com/xrva/ExTRar | 0 | 0| 
 | 20201231T21:26:22Z | A general purpose memory allocator that implements an isolation security strategy to mitigate memory safety issues while maintaining good performance | https://github.com/struct/isoalloc | 126 | 9| 
 | 20201231T21:22:38Z | ZetaSploit Framework is a powerful exploitation framework that contains a lot of modules for attacking targets, interacting with targets, exploiting common vulnerabilities and etc. | https://github.com/EntySec/ZetaSploit | 7 | 3| 
@@ -55,6 +54,7 @@
 | 20201231T20:53:08Z | Protekt Protocol puts crypto to work insuring users against hacks, bugs, and exploits of any DeFi protocol or smart contract. The goal is to support and catalyze the growth of the DeFi ecosystem by protecting users from getting rekt. | https://github.com/ProtektProtocol/protekt-protocol-contracts | 4 | 1| 
 | 20201231T20:49:56Z | Exploiy | https://github.com/ANRPlays/Exploit | 0 | 0| 
 | 20201231T20:45:24Z | a buffer overflow exploit in go for 2016%s Mirai botnet | https://github.com/TotallyNotMalicious/mirai-overflow | 0 | 0| 
+| 20201231T20:34:33Z | Exploit for Laravel Remote Code Execution with API_KEY (CVE-2018-15133) | https://github.com/aljavier/exploit_laravel_cve-2018-15133 | 2 | 4| 
 
 
 # backdoor on Github 推荐
