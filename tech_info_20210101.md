@@ -33,6 +33,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210101T13:43:34Z | A living document for penetration testing and offensive security. | https://github.com/0xffsec/handbook | 16 | 4| 
 | 20210101T13:35:52Z | ZetaSploit Framework is a powerful exploitation framework that contains a lot of modules for attacking targets, interacting with targets, exploiting common vulnerabilities and etc. | https://github.com/EntySec/ZetaSploit | 7 | 3| 
 | 20210101T13:34:58Z | The pre-built release binaries for Watson. Enumerate missing KBs and suggest exploits for useful Privilege Escalation vulnerabilities. | https://github.com/Alex-null/WatsonBuiled | 0 | 0| 
 | 20210101T13:29:36Z | A tool to scan PHP files and analyze your project to find any malicious code inside it. It provides a text terminal console interface to scan files in a given directory and find PHP code files the seem to contain malicious code. | https://github.com/marcocesarato/PHP-Antimalware-Scanner | 160 | 29| 
@@ -42,7 +43,6 @@
 | 20210101T12:42:56Z | Sifter is a OSINT, recon & vulnerability scanner. It incorporates a plethara of tools within different module sets that tries to cover every attack vector. Allowing you to quickly perform recon tasks and organize the results in one place. From OSINT to Recon, Exploitation, Post-Exploitation, OpSec, Threat Analysis, XSS, SQLinjection, Network Scanning, WebApp Analysis or DNS enumeration.. Sifter should be able to cover it all. | https://github.com/s1l3nt78/sifter | 334 | 100| 
 | 20210101T12:32:58Z | Null | https://github.com/th3ken-dev/TH3KEN-EDITON | 2 | 0| 
 | 20210101T12:31:10Z | A collection of BlockChain Solidity Smart Contracts: Building, Security & Exploits. Also exploring Cryptography (RSA, ECC) from Scratch. | https://github.com/SmartyPants042/BlockChain-Unchained | 0 | 0| 
-| 20210101T11:47:57Z | Simple Tools TIMTHUMB RCE 1.X AUTO EXPLOITER with php code | https://github.com/Sad-Boy-1922/TIMTHUMB-RCE-1.X-AUTO-EXPLOITER | 0 | 0| 
 
 
 # backdoor on Github 推荐
