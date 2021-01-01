@@ -72,16 +72,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20201231T14:25:37Z | Web Fuzzer | https://github.com/Ph3nX-Z/Shuriken | 1 | 0| 
-| 20201231T14:19:06Z | Null | https://github.com/PERFECT9797/fuzzy-robot | 0 | 0| 
-| 20201231T14:02:05Z | Null | https://github.com/BartVandyck/tst-fuzzy-gojournal | 0 | 0| 
-| 20201231T13:56:32Z | Null | https://github.com/BartVandyck/tst-fuzzy-slim | 0 | 0| 
-| 20201231T13:30:17Z | Null | https://github.com/ahmeddrawy/team-formation-fuzzy-logic | 0 | 0| 
-| 20201231T13:24:23Z | OSS-Fuzz - continuous fuzzing of open source software. | https://github.com/google/oss-fuzz | 5767 | 1145| 
-| 20201231T13:15:01Z | This repository presents a readme for the setup of fuzzers and other related tools | https://github.com/c0d3nh4ck/Setup-of-Fuzzers-and-Tools | 0 | 0| 
-| 20201231T12:42:34Z | Collection of quality safety articles | https://github.com/tom0li/collection-document | 1321 | 422| 
-| 20201231T12:41:13Z | gitmoji selector on fzf | https://github.com/ShotaroKataoka/Fuzzy-Git-Operator | 2 | 0| 
-| 20201231T11:54:11Z | Null | https://github.com/BartVandyck/tst-fuzzy-logbook | 0 | 0| 
+| 20201231T23:47:43Z | RESTler is the first stateful REST API fuzzing tool for automatically testing cloud services through their REST APIs and finding security and reliability bugs in these services. | https://github.com/microsoft/restler-fuzzer | 600 | 50| 
+| 20201231T23:15:26Z | Null | https://github.com/lemonstolemonade/fuzzy-adventure | 0 | 0| 
+| 20201231T23:10:32Z | Null | https://github.com/hellokatechan/fuzzywuzzy_part1 | 0 | 0| 
+| 20201231T22:26:00Z | Null | https://github.com/terminal-labs/fuzzball | 0 | 0| 
+| 20201231T21:48:46Z | FuzzBALL: Vine-based Binary Symbolic Execution | https://github.com/bitblaze-fuzzball/fuzzball | 202 | 52| 
+| 20201231T20:16:32Z | This is an updated Instagram clone. | https://github.com/virginiah894/Fuzzy_couscious | 0 | 0| 
+| 20201231T19:23:34Z | OSS-Fuzz - continuous fuzzing of open source software. | https://github.com/google/oss-fuzz | 5767 | 1145| 
+| 20201231T19:23:01Z | Null | https://github.com/Anonster/fuzz | 0 | 0| 
+| 20201231T18:50:42Z | Fuzzing cryptographic libraries. Magic bug printer go brrrr. | https://github.com/guidovranken/cryptofuzz | 229 | 31| 
+| 20201231T18:30:50Z | A unit test-like interface for fuzzing and symbolic execution | https://github.com/trailofbits/deepstate | 583 | 61| 
 
 
 
