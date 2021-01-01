@@ -118,7 +118,6 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20201231T23:47:43Z | RESTler is the first stateful REST API fuzzing tool for automatically testing cloud services through their REST APIs and finding security and reliability bugs in these services. | https://github.com/microsoft/restler-fuzzer | 600 | 50| 
 | 20201231T23:15:26Z | Null | https://github.com/lemonstolemonade/fuzzy-adventure | 0 | 0| 
 | 20201231T23:10:32Z | Null | https://github.com/hellokatechan/fuzzywuzzy_part1 | 0 | 0| 
 | 20201231T22:26:00Z | Null | https://github.com/terminal-labs/fuzzball | 0 | 0| 
@@ -128,6 +127,7 @@
 | 20201231T19:23:01Z | Null | https://github.com/Anonster/fuzz | 0 | 0| 
 | 20201231T18:50:42Z | Fuzzing cryptographic libraries. Magic bug printer go brrrr. | https://github.com/guidovranken/cryptofuzz | 229 | 31| 
 | 20201231T18:30:50Z | A unit test-like interface for fuzzing and symbolic execution | https://github.com/trailofbits/deepstate | 583 | 61| 
+| 20201231T15:44:52Z | Easy to use and powerful fuzzy string matching, port of fuzzywuzzy. | https://github.com/nol13/fuzzball.js | 212 | 23| 
 
 
 
