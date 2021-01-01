@@ -33,6 +33,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210101T13:35:52Z | ZetaSploit Framework is a powerful exploitation framework that contains a lot of modules for attacking targets, interacting with targets, exploiting common vulnerabilities and etc. | https://github.com/EntySec/ZetaSploit | 7 | 3| 
 | 20210101T13:34:58Z | The pre-built release binaries for Watson. Enumerate missing KBs and suggest exploits for useful Privilege Escalation vulnerabilities. | https://github.com/Alex-null/WatsonBuiled | 0 | 0| 
 | 20210101T13:29:36Z | A tool to scan PHP files and analyze your project to find any malicious code inside it. It provides a text terminal console interface to scan files in a given directory and find PHP code files the seem to contain malicious code. | https://github.com/marcocesarato/PHP-Antimalware-Scanner | 160 | 29| 
 | 20210101T13:25:56Z | an impacket-dependent script exploiting CVE-2019-1040 | https://github.com/QAX-A-Team/dcpwn | 16 | 0| 
@@ -42,7 +43,6 @@
 | 20210101T12:32:58Z | Null | https://github.com/th3ken-dev/TH3KEN-EDITON | 2 | 0| 
 | 20210101T12:31:10Z | A collection of BlockChain Solidity Smart Contracts: Building, Security & Exploits. Also exploring Cryptography (RSA, ECC) from Scratch. | https://github.com/SmartyPants042/BlockChain-Unchained | 0 | 0| 
 | 20210101T11:47:57Z | Simple Tools TIMTHUMB RCE 1.X AUTO EXPLOITER with php code | https://github.com/Sad-Boy-1922/TIMTHUMB-RCE-1.X-AUTO-EXPLOITER | 0 | 0| 
-| 20210101T11:35:11Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 8842 | 1398| 
 
 
 # backdoor on Github 推荐
