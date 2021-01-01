@@ -32,6 +32,8 @@
 | ts | title | url| 
 | --- | --- | ---| 
 | 20201231 | MDAT - 综合数据库攻击利用工具 | https://github.com/SafeGroceryStore/MDAT| 
+| 20201231 | 2020 南京大学 “操作系统：设计与实现” | https://www.bilibili.com/video/BV1N741177F5| 
+| 20201231 | opencve: CVE Alerting Platform | https://github.com/opencve/opencve| 
 | 20201230 | 基于机器学习的漏洞检测高影响因素实证研究 | https://www.anquanke.com/post/id/220795| 
 | 20201230 | 关于Python病毒样本的分析方法 | https://www.anquanke.com/post/id/226721| 
 | 20201230 | apkleaks: Scanning APK file for URIs, endpoints & secrets | https://github.com/dwisiswant0/apkleaks| 
@@ -39,23 +41,21 @@
 | 20201230 | AD-Pentest-Notes: 用于记录内网渗透(域渗透)学习 | https://github.com/chriskaliX/AD-Pentest-Notes| 
 | 20201230 | FreeRTOS Reverse Engineering | https://mp.weixin.qq.com/s/mnus1BN1CLX4rhrZ1ubnKQ| 
 | 20201229 | 静态程序分析入门教程 | https://github.com/RangerNJU/Static-Program-Analysis-Book| 
-| 20201229 | 记一次利用阿D注入渗透实战案例 | https://mp.weixin.qq.com/s/DqqQkvZ1gNDyLcyNC2COAQ| 
-| 20201229 | Using MITRE ATT&CK to Identify an APT Attack | https://www.trendmicro.com/vinfo/us/security/news/managed-detection-and-response/using-mitre-att-ck-to-identify-an-apt-attack| 
 
 
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20201231T14:00:27Z | CVE-2020-35728 |  CVE-2020-35728 & Jackson-databind RCE | https://github.com/Al1ex/CVE-2020-35728 | FasterXML jackson-databind 2.x before 2.9.10.8 mishandles the interaction between serialization gadgets and typing, related to com.oracle.wls.shaded.org.apache.xalan.lib.sql.JNDIConnectionPool (aka embedded Xalan in org.glassfish.web/javax.servlet.jsp.jstl).| 
+| 20201231T23:45:40Z | CVE-2020-9484 | Null | https://github.com/PenTestical/CVE-2020-9484 | When using Apache Tomcat versions 10.0.0-M1 to 10.0.0-M4, 9.0.0.M1 to 9.0.34, 8.5.0 to 8.5.54 and 7.0.0 to 7.0.103 if a) an attacker is able to control the contents and name of a file on the server; and b) the server is configured to use the PersistenceManager with a FileStore; and c) the PersistenceManager is configured with sessionAttributeValueClassNameFilter=%null% (the default unless a SecurityManager is used) or a sufficiently lax filter to allow the attacker provided object to be deserialized; and d) the attacker knows the relative file path from the storage location used by FileStore to the file the attacker has control over; then, using a specifically crafted request, the attacker will be able to trigger remote code execution via deserialization of the file under their control. Note that all of conditions a) to d) must be true for the attack to succeed.| 
+| 20201231T20:04:01Z | CVE-2020-8417 | Null | https://github.com/Rapidsafeguard/codesnippets_CVE-2020-8417 | The Code Snippets plugin before 2.14.0 for WordPress allows CSRF because of the lack of a Referer check on the import menu.| 
+| 20201231T19:25:16Z | CVE-2020-24033 | Null | https://github.com/M0NsTeRRR/CVE-2020-24033 | | 
+| 20201231T19:24:52Z | CVE-2020-17530 | Null | https://github.com/CyborgSecurity/CVE-2020-17530 | Forced OGNL evaluation, when evaluated on raw user input in tag attributes, may lead to remote code execution. Affected software : Apache Struts 2.0.0 - Struts 2.5.25.| 
+| 20201231T17:03:34Z | CVE-2020-35728 |  CVE-2020-35728 & Jackson-databind RCE | https://github.com/Al1ex/CVE-2020-35728 | FasterXML jackson-databind 2.x before 2.9.10.8 mishandles the interaction between serialization gadgets and typing, related to com.oracle.wls.shaded.org.apache.xalan.lib.sql.JNDIConnectionPool (aka embedded Xalan in org.glassfish.web/javax.servlet.jsp.jstl).| 
 | 20201231T10:52:24Z | CVE-2020-14882 | CodeTest信息收集和漏洞利用工具，可在进行渗透测试之时方便利用相关信息收集脚本进行信息的获取和验证工作，漏洞利用模块可选择需要测试的漏洞模块，或者选择所有模块测试，包含CVE-2020-14882, CVE-2020-2555等，可自己收集脚本后按照模板进行修改。 | https://github.com/xkx518/CodeTest | Vulnerability in the Oracle WebLogic Server product of Oracle Fusion Middleware (component: Console). Supported versions that are affected are 10.3.6.0.0, 12.1.3.0.0, 12.2.1.3.0, 12.2.1.4.0 and 14.1.1.0.0. Easily exploitable vulnerability allows unauthenticated attacker with network access via HTTP to compromise Oracle WebLogic Server. Successful attacks of this vulnerability can result in takeover of Oracle WebLogic Server. CVSS 3.1 Base Score 9.8 (Confidentiality, Integrity and Availability impacts). CVSS Vector: (CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H).| 
 | 20201231T08:42:07Z | CVE-2020-6308 | PoC CVE-2020-6308 | https://github.com/InitRoot/CVE-2020-6308-PoC | SAP BusinessObjects Business Intelligence Platform (Web Services) versions - 410, 420, 430, allows an unauthenticated attacker to inject arbitrary values as CMS parameters to perform lookups on the internal network which is otherwise not accessible externally. On successful exploitation, attacker can scan internal network to determine internal infrastructure and gather information for further attacks like remote file inclusion, retrieve server files, bypass firewall and force the vulnerable server to perform malicious requests, resulting in a Server-Side Request Forgery vulnerability.| 
 | 20201231T00:34:51Z | CVE-2020-15999 | Todos los materiales necesarios para la PoC en Chrome y ftview | https://github.com/Marmeus/CVE-2020-15999 | Heap buffer overflow in Freetype in Google Chrome prior to 86.0.4240.111 allowed a remote attacker to potentially exploit heap corruption via a crafted HTML page.| 
 | 20201230T23:32:45Z | CVE-2020-3161 | Cisco IP Phone 11.7 - Denial of Service (PoC) | https://github.com/uromulou/CVE-2020-3161 | A vulnerability in the web server for Cisco IP Phones could allow an unauthenticated, remote attacker to execute code with root privileges or cause a reload of an affected IP phone, resulting in a denial of service (DoS) condition. The vulnerability is due to a lack of proper input validation of HTTP requests. An attacker could exploit this vulnerability by sending a crafted HTTP request to the web server of a targeted device. A successful exploit could allow the attacker to remotely execute code with root privileges or cause a reload of an affected IP phone, resulting in a DoS condition.| 
 | 20201230T21:46:27Z | CVE-2020-6308 | CVE-2020-6308 mass exploiter/fuzzer. | https://github.com/Mulvun/CVE-2020-6308-mass-exploiter | SAP BusinessObjects Business Intelligence Platform (Web Services) versions - 410, 420, 430, allows an unauthenticated attacker to inject arbitrary values as CMS parameters to perform lookups on the internal network which is otherwise not accessible externally. On successful exploitation, attacker can scan internal network to determine internal infrastructure and gather information for further attacks like remote file inclusion, retrieve server files, bypass firewall and force the vulnerable server to perform malicious requests, resulting in a Server-Side Request Forgery vulnerability.| 
-| 20201230T19:55:36Z | CVE-2020-17530 | Null | https://github.com/CyborgSecurity/CVE-2020-17530 | Forced OGNL evaluation, when evaluated on raw user input in tag attributes, may lead to remote code execution. Affected software : Apache Struts 2.0.0 - Struts 2.5.25.| 
-| 20201230T18:05:25Z | CVE-2020-15999 | Repositorio con un script encargado de explotar la vulnerabilidad CVE-2020-15999 | https://github.com/maarlo/CVE-2020-15999 | Heap buffer overflow in Freetype in Google Chrome prior to 86.0.4240.111 allowed a remote attacker to potentially exploit heap corruption via a crafted HTML page.| 
-| 20201230T14:33:33Z | CVE-2020-28413 | Dicha vulnerabilidad se presentaba en la funcionalidad mc_project_get_users, y su detección es tan solo modificando y enviando el parámetro “access” sin ningún valor y cambiando el tipo de valor a String. | https://github.com/EthicalHCOP/CVE-2020-28413_Mantis2.24.3-SQLi-SOAP | | 
-| 20201230T13:30:39Z | CVE-2020-10148 | Null | https://github.com/rdoix/CVE-2020-10148-Solarwinds-Orion | | 
 
 
 # klee on Github 推荐
@@ -88,22 +88,23 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20201231T14:23:48Z | Scripts, notes, challs and exploits of CTF challenges. | https://github.com/brerodrigues/CTFs | 2 | 1| 
-| 20201231T14:20:10Z | ZetaSploit Framework is a powerful exploitation framework that contains a lot of modules for attacking targets, interacting with targets, exploiting common vulnerabilities and etc. | https://github.com/EntySec/ZetaSploit | 7 | 3| 
-| 20201231T14:14:28Z | A tool to scan PHP files and analyze your project to find any malicious code inside it. It provides a text terminal console interface to scan files in a given directory and find PHP code files the seem to contain malicious code. | https://github.com/marcocesarato/PHP-Antimalware-Scanner | 160 | 29| 
-| 20201231T14:11:52Z | Sifter is a OSINT, recon & vulnerability scanner. It incorporates a plethara of tools within different module sets that tries to cover every attack vector. Allowing you to quickly perform recon tasks and organize the results in one place. From OSINT to Recon, Exploitation, Post-Exploitation, OpSec, Threat Analysis, XSS, SQLinjection, Network Scanning, WebApp Analysis or DNS enumeration.. Sifter should be able to cover it all. | https://github.com/s1l3nt78/sifter | 335 | 100| 
-| 20201231T13:54:52Z | Null | https://github.com/Prb-Borg/Multi-Exploit-Host | 0 | 0| 
-| 20201231T13:19:21Z | PS4 Exploit list | https://github.com/Hakkuraifu/PS4xploit | 17 | 4| 
-| 20201231T13:17:44Z | Updates about the remote code execution exploit of 2019 | https://github.com/twittersecurity/RCE2019 | 0 | 0| 
-| 20201231T13:09:29Z | CSS trick/bug to display a brighter white by exploiting HDR capability of browsers | https://github.com/kiding/wanna-see-a-whiter-white | 4 | 0| 
-| 20201231T12:59:43Z | Thi powershell script has got to run in remote windows host, even for pivoting | https://github.com/FabioDefilippo/winallenum | 0 | 1| 
-| 20201231T12:54:41Z | Tools for detection and exploitation of chosen vulnerability classes in web applications - Engineer%s Thesis - AGH UST | https://github.com/gregxsunday/tools-for-exploiting-webapps | 2 | 0| 
+| 20201231T22:46:26Z | Null | https://github.com/mrthankyou/jinja2-exploit | 0 | 0| 
+| 20201231T22:31:02Z | Roblox Exploit, Almost full lua executor, unlimited. | https://github.com/xrva/ExTRar | 0 | 0| 
+| 20201231T21:26:22Z | A general purpose memory allocator that implements an isolation security strategy to mitigate memory safety issues while maintaining good performance | https://github.com/struct/isoalloc | 126 | 9| 
+| 20201231T21:22:38Z | ZetaSploit Framework is a powerful exploitation framework that contains a lot of modules for attacking targets, interacting with targets, exploiting common vulnerabilities and etc. | https://github.com/EntySec/ZetaSploit | 7 | 3| 
+| 20201231T21:20:03Z | Utilizar macros e VBA do Office para executar programas maliciosos. | https://github.com/joaopedrordepaiva/MacroExploit | 0 | 0| 
+| 20201231T21:09:03Z | Goploit is a tool focused on WebHacking, which is still in development! in your initial project phase. Counting from the start with just 5 commands. You can use the -h parameter to see the Goploit help! | https://github.com/blackcrw/Goploit | 9 | 2| 
+| 20201231T20:55:01Z | A tool to scan PHP files and analyze your project to find any malicious code inside it. It provides a text terminal console interface to scan files in a given directory and find PHP code files the seem to contain malicious code. | https://github.com/marcocesarato/PHP-Antimalware-Scanner | 160 | 29| 
+| 20201231T20:53:08Z | Protekt Protocol puts crypto to work insuring users against hacks, bugs, and exploits of any DeFi protocol or smart contract. The goal is to support and catalyze the growth of the DeFi ecosystem by protecting users from getting rekt. | https://github.com/ProtektProtocol/protekt-protocol-contracts | 4 | 1| 
+| 20201231T20:49:56Z | Exploiy | https://github.com/ANRPlays/Exploit | 0 | 0| 
+| 20201231T20:45:24Z | a buffer overflow exploit in go for 2016%s Mirai botnet | https://github.com/TotallyNotMalicious/mirai-overflow | 0 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20201231T14:14:28Z | A tool to scan PHP files and analyze your project to find any malicious code inside it. It provides a text terminal console interface to scan files in a given directory and find PHP code files the seem to contain malicious code. | https://github.com/marcocesarato/PHP-Antimalware-Scanner | 160 | 29| 
+| 20201231T20:55:01Z | A tool to scan PHP files and analyze your project to find any malicious code inside it. It provides a text terminal console interface to scan files in a given directory and find PHP code files the seem to contain malicious code. | https://github.com/marcocesarato/PHP-Antimalware-Scanner | 160 | 29| 
+| 20201231T16:30:14Z | Detect ip address in apk file to find backdoor app%s owner | https://github.com/JuyunLee/apk_ip_hunter | 0 | 0| 
 | 20201231T12:53:06Z | Null | https://github.com/cv1002/SoftwareProjectManagerBackdoor | 1 | 5| 
 | 20201231T10:47:17Z | Open-Source Remote Administration Tool For Windows C# (Be Based On AsyncRAT) | https://github.com/zhaoweiho/ElegyRAT-C-Sharp | 6 | 1| 
 | 20201231T09:34:33Z | TrojanZoo provides a universal pytorch platform to conduct security researches (especially backdoor attacks/defenses) of image classification in deep learning. | https://github.com/ain-soph/trojanzoo | 19 | 3| 
@@ -112,7 +113,6 @@
 | 20201230T22:22:55Z | Null | https://github.com/wcenatus/node-backdoor | 0 | 0| 
 | 20201230T18:21:24Z | Null | https://github.com/Veallym0n/resty-socks5-backdoor | 0 | 0| 
 | 20201230T17:54:44Z | Ghost Framework is an Android post-exploitation framework that exploits the Android Debug Bridge to remotely access an Android device. Ghost Framework gives you the power and convenience of remote Android device administration. | https://github.com/EntySec/ghost | 897 | 452| 
-| 20201230T16:12:33Z | Repository for My Backdoor | https://github.com/aldiskatel/Backdoor | 4 | 0| 
 
 
 # fuzz on Github 推荐
