@@ -43,6 +43,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210102T13:02:53Z | A free tool to scan PHP files and analyze your project to find any malicious code inside it. | https://github.com/marcocesarato/PHP-Antimalware-Scanner | 160 | 29| 
 | 20210102T12:46:32Z | Hello Zero helps you extract information about all hardware and software installed on your system and automatically crawl the darkweb everyday to find zero day exploits which target hardware/software you have on your system. In version 1.0 it only works on windows platform. | https://github.com/snippray/Hell0 | 0 | 0| 
 | 20210102T12:32:53Z | Explainable Machine Learning Exploiting News and Domain-specific Lexicon for Stock Market Forecasting. | https://github.com/Artificial-Intelligence-Big-Data-Lab/Explainable-ML | 0 | 0| 
 | 20210102T12:32:35Z | Zenith configs. Exploit them at your own risk. | https://github.com/egorbelibov/unix_configs | 1 | 0| 
@@ -52,7 +53,6 @@
 | 20210102T10:54:47Z | k8gege.org - K8哥哥%s Blog | https://github.com/k8gege/k8gege.github.io | 11 | 6| 
 | 20210102T10:46:09Z | Null | https://github.com/ZGamingHD/exploit | 0 | 0| 
 | 20210102T10:18:27Z | use this in the browser | https://github.com/Freezyyy/Token-exploit-for-discord | 0 | 0| 
-| 20210102T09:32:55Z | Router Exploitation Tools. Checks for WinBox Authentication Bypass Disclosure, RouterOS Jailbreak, Chimney-Blue SMB BufferOverflow & ByTheWay RCE | https://github.com/s1l3nt78/MkCheck | 51 | 16| 
 
 
 # backdoor on Github 推荐
