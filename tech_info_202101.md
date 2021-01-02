@@ -34,8 +34,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210102T02:47:57Z | Highlights from vulnerabilities I%ve discovered and original exploits | https://github.com/billchaison/trophies | 0 | 0| 
-| 20210102T02:39:47Z | Sifter is a OSINT, recon & vulnerability scanner. It incorporates a plethara of tools within different module sets that tries to cover every attack vector. Allowing you to quickly perform recon tasks and organize the results in one place. From OSINT to Recon, Exploitation, Post-Exploitation, OpSec, Threat Analysis, XSS, SQLinjection, Network Scanning, WebApp Analysis or DNS enumeration.. Sifter should be able to cover it all. | https://github.com/s1l3nt78/sifter | 335 | 100| 
+| 20210102T02:50:04Z | Sifter is a OSINT, recon & vulnerability scanner. It incorporates a plethara of tools within different module sets that tries to cover every attack vector. Allowing you to quickly perform recon tasks and organize the results in one place. From OSINT to Recon, Exploitation, Post-Exploitation, OpSec, Threat Analysis, XSS, SQLinjection, Network Scanning, WebApp Analysis or DNS enumeration.. Sifter should be able to cover it all. | https://github.com/s1l3nt78/sifter | 335 | 100| 
+| 20210102T02:49:02Z | Highlights from vulnerabilities I%ve discovered and original exploits | https://github.com/billchaison/trophies | 0 | 0| 
 | 20210102T02:25:51Z | Open source ROBLOX anti-exploit for use by all. | https://github.com/Void-Frost/Secure-X | 6 | 12| 
 | 20210102T02:11:28Z | Null | https://github.com/sheenieboy/ExploiterChat | 1 | 0| 
 | 20210102T02:07:39Z | A free tool to scan PHP files and analyze your project to find any malicious code inside it. | https://github.com/marcocesarato/PHP-Antimalware-Scanner | 160 | 29| 
