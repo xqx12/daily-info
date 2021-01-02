@@ -40,6 +40,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210102T13:48:01Z | Router Exploitation Tools. Checks for WinBox Authentication Bypass Disclosure, RouterOS Jailbreak, Chimney-Blue SMB BufferOverflow & ByTheWay RCE | https://github.com/s1l3nt78/MkCheck | 52 | 16| 
 | 20210102T13:42:51Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 8846 | 1398| 
 | 20210102T13:24:49Z | linux post-exploitation framework made by linux user | https://github.com/jm33-m0/emp3r0r | 122 | 21| 
 | 20210102T13:02:53Z | A free tool to scan PHP files and analyze your project to find any malicious code inside it. | https://github.com/marcocesarato/PHP-Antimalware-Scanner | 160 | 29| 
@@ -49,7 +50,6 @@
 | 20210102T10:56:43Z | zerologon script to exploit CVE-2020-1472 CVSS 10/10 | https://github.com/wrathfulDiety/zerologon | 0 | 0| 
 | 20210102T10:54:47Z | k8gege.org - K8哥哥%s Blog | https://github.com/k8gege/k8gege.github.io | 11 | 6| 
 | 20210102T10:46:09Z | Null | https://github.com/ZGamingHD/exploit | 0 | 0| 
-| 20210102T10:18:27Z | use this in the browser | https://github.com/Freezyyy/Token-exploit-for-discord | 0 | 0| 
 
 
 # backdoor on Github 推荐
