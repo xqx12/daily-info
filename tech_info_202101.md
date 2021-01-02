@@ -64,7 +64,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210102T01:00:59Z | collection of helper tools for fuzzing | https://github.com/fuzzah/fuzzaide | 2 | 0| 
+| 20210102T01:05:00Z | collection of helper tools for fuzzing | https://github.com/fuzzah/fuzzaide | 2 | 0| 
 | 20210102T00:21:04Z | A lazy approach to fuzzing parameters for SSTI | https://github.com/crawl3r/lazyssti | 0 | 0| 
 | 20210102T00:18:15Z | Null | https://github.com/ninrich/fuzzy | 0 | 0| 
 | 20210101T23:57:22Z | Fuzzy logic notes | https://github.com/foreverloop/fuzz | 0 | 0| 
