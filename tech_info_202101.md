@@ -64,6 +64,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210102T02:37:21Z | Null | https://github.com/adhityahardy/Fuzzy-logic | 0 | 0| 
 | 20210102T01:58:44Z | FuzzBench - Fuzzer benchmarking as a service. | https://github.com/google/fuzzbench | 573 | 92| 
 | 20210102T01:05:00Z | collection of helper tools for fuzzing | https://github.com/fuzzah/fuzzaide | 2 | 0| 
 | 20210102T00:21:04Z | A lazy approach to fuzzing parameters for SSTI | https://github.com/crawl3r/lazyssti | 0 | 0| 
@@ -73,7 +74,6 @@
 | 20210101T23:46:10Z | Diverse, the Fuzzer pico library you need to make your .NET tests more Diverse | https://github.com/42skillz/Diverse | 7 | 1| 
 | 20210101T23:14:57Z | Null | https://github.com/opimentel-github/fuzzy-torch | 0 | 0| 
 | 20210101T22:49:13Z | The code behind getfursu.it | https://github.com/veelkoov/fuzzrake | 6 | 0| 
-| 20210101T22:26:10Z | Fuzzing Collection for Web Application | https://github.com/tungpdv/Fuzzing-Dictionary | 1 | 0| 
 
 
 
