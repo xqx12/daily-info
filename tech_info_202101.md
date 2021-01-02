@@ -58,8 +58,8 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210102T13:03:51Z | Null | https://github.com/cv1002/SoftwareProjectManagerBackdoor | 1 | 5| 
 | 20210102T13:02:53Z | A free tool to scan PHP files and analyze your project to find any malicious code inside it. | https://github.com/marcocesarato/PHP-Antimalware-Scanner | 160 | 29| 
-| 20210102T12:21:09Z | Null | https://github.com/cv1002/SoftwareProjectManagerBackdoor | 1 | 5| 
 | 20210102T09:39:49Z | A protocol suite to individually backdoor end-to-end encrypted communications in compliance with the seperation of branches of power legal framework. | https://github.com/feketebv/E2EE_backdooring | 0 | 0| 
 | 20210102T08:42:09Z | Null | https://github.com/grsoratoor/BackdoorBot | 0 | 0| 
 | 20210102T07:45:04Z | A Potato-themed backdoor developed in C#.  | https://github.com/malwaredetective/spudnet | 0 | 0| 
@@ -73,16 +73,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210102T02:37:21Z | Null | https://github.com/adhityahardy/Fuzzy-logic | 0 | 0| 
-| 20210102T01:58:44Z | FuzzBench - Fuzzer benchmarking as a service. | https://github.com/google/fuzzbench | 573 | 92| 
-| 20210102T01:05:00Z | collection of helper tools for fuzzing | https://github.com/fuzzah/fuzzaide | 2 | 0| 
-| 20210102T00:21:04Z | A lazy approach to fuzzing parameters for SSTI | https://github.com/crawl3r/lazyssti | 0 | 0| 
-| 20210102T00:18:15Z | Null | https://github.com/ninrich/fuzzy | 0 | 0| 
-| 20210101T23:57:22Z | Fuzzy logic notes | https://github.com/foreverloop/fuzz | 0 | 0| 
-| 20210101T23:46:24Z | Rockyou for web fuzzing | https://github.com/six2dez/OneListForAll | 143 | 29| 
-| 20210101T23:46:10Z | Diverse, the Fuzzer pico library you need to make your .NET tests more Diverse | https://github.com/42skillz/Diverse | 7 | 1| 
-| 20210101T23:14:57Z | Null | https://github.com/opimentel-github/fuzzy-torch | 0 | 0| 
-| 20210101T22:49:13Z | The code behind getfursu.it | https://github.com/veelkoov/fuzzrake | 6 | 0| 
+| 20210102T12:48:46Z | :book: [译] 生成软件测试 | https://github.com/apachecn/fuzzingbook-zh | 6 | 3| 
+| 20210102T12:48:43Z | Fuzzy logic notes | https://github.com/foreverloop/fuzz | 0 | 0| 
+| 20210102T12:25:35Z | Null | https://github.com/beautydil/fuzzy-succotash | 0 | 0| 
+| 20210102T12:17:13Z | Null | https://github.com/BartVandyck/fuzzy-slim2 | 0 | 0| 
+| 20210102T12:09:31Z | Null | https://github.com/KongkanKalakan/Fuzzy_Conviction_Decision_Tree_Classifier | 0 | 0| 
+| 20210102T11:37:38Z | Academic Labs | https://github.com/kshithi/Fuzzy-Systems | 0 | 0| 
+| 20210102T11:37:18Z | Diverse, the Fuzzer pico library you need to make your .NET tests more Diverse | https://github.com/42skillz/Diverse | 7 | 1| 
+| 20210102T11:17:42Z | Stock analyzer | https://github.com/Heydad-Helfer/fuzzy-spork | 0 | 0| 
+| 20210102T09:45:05Z | 💊 Simple Script to Control Drugstore Warehouse using an Expert System Based on Fuzzy Rules | https://github.com/wildonion/fuzzy-drugstore | 0 | 0| 
+| 20210102T09:17:12Z | Null | https://github.com/s9varesc/url-fuzzing-docker | 0 | 0| 
 
 
 
