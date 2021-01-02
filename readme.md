@@ -40,8 +40,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210102T13:42:51Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 8846 | 1398| 
 | 20210102T13:24:49Z | linux post-exploitation framework made by linux user | https://github.com/jm33-m0/emp3r0r | 122 | 21| 
-| 20210102T13:23:02Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 8845 | 1398| 
 | 20210102T13:02:53Z | A free tool to scan PHP files and analyze your project to find any malicious code inside it. | https://github.com/marcocesarato/PHP-Antimalware-Scanner | 160 | 29| 
 | 20210102T12:46:32Z | Hello Zero helps you extract information about all hardware and software installed on your system and automatically crawl the darkweb everyday to find zero day exploits which target hardware/software you have on your system. In version 1.0 it only works on windows platform. | https://github.com/snippray/Hell0 | 0 | 0| 
 | 20210102T12:32:53Z | Explainable Machine Learning Exploiting News and Domain-specific Lexicon for Stock Market Forecasting. | https://github.com/Artificial-Intelligence-Big-Data-Lab/Explainable-ML | 0 | 0| 
