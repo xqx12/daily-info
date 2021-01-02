@@ -21,6 +21,7 @@
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210101T22:22:54Z | Kleene algebra, regular expressions | https://github.com/phadej/kleene | 26 | 1| 
 | 20210101T07:11:36Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1591 | 476| 
 | 20210101T00:07:34Z | ( Create file store & Sell paid groups & Subscription system ) -> on kleeja | https://github.com/kleeja-official/kleeja_payment | 2 | 1| 
 
@@ -33,22 +34,26 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210101T13:55:36Z | git clone https://github.com/Anon-Divyanth/H-Tool  cd H-Tool  pip install -r requirements.txt  python Htool.py  Remove the   This is a package of all hacking tools., This tool contain over 200+ Advance and professional Hacking tools.it contain phishing,Bruteforcing, Vulnerability scanning,information gathering, Wifi hacking,tracing and tracking,Exploitation, Password attacking,creating malwares,Bombing, Another hacking tools., Thanks to my Hacker Friends Joyson and Prudhvi. | https://github.com/nyctophile6/H-Tool | 0 | 0| 
-| 20210101T13:54:27Z | ZetaSploit Framework is a powerful exploitation framework that contains a lot of modules for attacking targets, interacting with targets, exploiting common vulnerabilities and etc. | https://github.com/EntySec/ZetaSploit | 7 | 3| 
-| 20210101T13:49:57Z | A tool to scan PHP files and analyze your project to find any malicious code inside it. It provides a text terminal console interface to scan files in a given directory and find PHP code files the seem to contain malicious code. | https://github.com/marcocesarato/PHP-Antimalware-Scanner | 160 | 29| 
-| 20210101T13:43:34Z | A living document for penetration testing and offensive security. | https://github.com/0xffsec/handbook | 16 | 4| 
-| 20210101T13:34:58Z | The pre-built release binaries for Watson. Enumerate missing KBs and suggest exploits for useful Privilege Escalation vulnerabilities. | https://github.com/Alex-null/WatsonBuiled | 0 | 0| 
-| 20210101T13:25:56Z | an impacket-dependent script exploiting CVE-2019-1040 | https://github.com/QAX-A-Team/dcpwn | 16 | 0| 
-| 20210101T12:47:16Z | This bash script will help you to hack remote hosts  | https://github.com/FabioDefilippo/linuxallremote | 2 | 1| 
-| 20210101T12:47:12Z | A post exploitation framework designed to operate covertly on heavily monitored environments | https://github.com/bats3c/shad0w | 1014 | 160| 
-| 20210101T12:42:56Z | Sifter is a OSINT, recon & vulnerability scanner. It incorporates a plethara of tools within different module sets that tries to cover every attack vector. Allowing you to quickly perform recon tasks and organize the results in one place. From OSINT to Recon, Exploitation, Post-Exploitation, OpSec, Threat Analysis, XSS, SQLinjection, Network Scanning, WebApp Analysis or DNS enumeration.. Sifter should be able to cover it all. | https://github.com/s1l3nt78/sifter | 334 | 100| 
-| 20210101T12:32:58Z | Null | https://github.com/th3ken-dev/TH3KEN-EDITON | 2 | 0| 
+| 20210101T22:59:15Z | Exploits project Hacking Command Center | https://github.com/chacka0101/exploits | 0 | 1| 
+| 20210101T22:34:50Z | Null | https://github.com/anontuttuvenus/SomeToolsAndExploits | 1 | 0| 
+| 20210101T22:27:44Z | ZetaSploit Framework is a powerful exploitation framework that contains a lot of modules for attacking targets, interacting with targets, exploiting common vulnerabilities and etc. | https://github.com/EntySec/ZetaSploit | 7 | 3| 
+| 20210101T22:15:15Z | Ethical Hacking & Cyber Security Course : Complete Package  Paid courses for Free 🔥🔥  🔗Download: --> https://www.mediafire.com/file/tsh0w88b6mus96y/Ethical+Hacking+&+Cyber+Security+Course+-+Complete+Package.rar/file  Exploit Development for Linux x64  🔗Download: --> https://mega.nz/folder/DpFXTajT#-QgmsdT05eT0vuYo9sjXYA  Exploit Development for Linux (x86)  🔗Download:  --> https://mega.nz/folder/P4V10awQ#x1iJjk1gLAzIKbj2Ta8Blw  Linux Heap Exploitation - Part 1  🔗Download: --> https://mega.nz/folder/j0swAL7T#xPojjkSDtIwuDS4VJR0_GA  Expert Malware Analysis and Reverse Engineering  🔗Download: --> https://mega.nz/folder/ThkUwJgT#RUCaDYSj9tiP7OevJ-1HjQ  Binary Exploits with Python  🔗Download: --> https://mega.nz/folder/XkswBQKS#ihcitspPL9nQiEvC4hxIzQ  Hands-on Fuzzing and Exploit Development  🔗Download: --> https://mega.nz/folder/i88mFA7A#OIYSAhjHeuAys3B4MCepwg  Hands-on Fuzzing and Exploit Development (Advanced)  🔗Download: --> https://mega.nz/folder/ux9SUIiJ#bxHCViNRLn01I4Y1x73B8w  ______Tech Summer YT_______ | https://github.com/nyctophile6/Ethical-Hacking-Cyber-Security-Course-Complete-Package-Paid-courses-for-Free- | 0 | 0| 
+| 20210101T21:40:50Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 8843 | 1398| 
+| 20210101T21:39:13Z | A Tool that Finds, Enumerates, and Exploits Reolink Cameras. | https://github.com/spicesouls/reosploit | 9 | 3| 
+| 20210101T21:25:36Z | Null | https://github.com/rokSkr/XiaomiFastbootExitExploit | 0 | 0| 
+| 20210101T21:22:22Z | generates sCode (verifier) from the local auth code and task id | https://github.com/alexwh/mymaths-exploit | 2 | 2| 
+| 20210101T20:41:24Z | The repo is about how to get access to the gold standard corpus that is created and exploited to generate the Global Contention Dataset (GLOCON) | https://github.com/emerging-welfare/glocongold | 2 | 0| 
+| 20210101T19:53:07Z | Exploiting CVE-2014-3153, AKA Towelroot. | https://github.com/elongl/CVE-2014-3153 | 0 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210101T13:49:57Z | A tool to scan PHP files and analyze your project to find any malicious code inside it. It provides a text terminal console interface to scan files in a given directory and find PHP code files the seem to contain malicious code. | https://github.com/marcocesarato/PHP-Antimalware-Scanner | 160 | 29| 
+| 20210101T23:02:41Z | Null | https://github.com/MadsKaiser/backdoor | 0 | 0| 
+| 20210101T22:45:41Z | Null | https://github.com/mikkelskov1/backdoor2 | 0 | 0| 
+| 20210101T22:25:58Z | Backdoors Framework for Deep Learning and Federated Learning. A light-weight tool to conduct your research on backdoors. | https://github.com/ebagdasa/backdoors101 | 40 | 7| 
+| 20210101T21:06:28Z | Null | https://github.com/RhettColeman/python-backdoor | 0 | 0| 
+| 20210101T20:31:14Z | Programme d%exploitation et de maintien de portes dérobées | https://github.com/thisiskeanyvy/bookish-backdoor | 0 | 0| 
 | 20210101T12:32:54Z | Null | https://github.com/cv1002/SoftwareProjectManagerBackdoor | 1 | 5| 
 | 20210101T08:41:46Z | Detect ip address in apk file to find backdoor app%s owner | https://github.com/JuyunLee/apk_ip_hunter | 0 | 0| 
 | 20210101T01:49:35Z | BBD is a Backdoor Defence Technique design for correctly recognize clean data and identify poisoned data as N+1 Label. | https://github.com/graceyuanruihuang/backdoor_detect | 0 | 3| 
