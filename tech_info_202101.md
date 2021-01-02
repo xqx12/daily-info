@@ -34,6 +34,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210102T02:47:57Z | Highlights from vulnerabilities I%ve discovered and original exploits | https://github.com/billchaison/trophies | 0 | 0| 
 | 20210102T02:39:47Z | Sifter is a OSINT, recon & vulnerability scanner. It incorporates a plethara of tools within different module sets that tries to cover every attack vector. Allowing you to quickly perform recon tasks and organize the results in one place. From OSINT to Recon, Exploitation, Post-Exploitation, OpSec, Threat Analysis, XSS, SQLinjection, Network Scanning, WebApp Analysis or DNS enumeration.. Sifter should be able to cover it all. | https://github.com/s1l3nt78/sifter | 335 | 100| 
 | 20210102T02:25:51Z | Open source ROBLOX anti-exploit for use by all. | https://github.com/Void-Frost/Secure-X | 6 | 12| 
 | 20210102T02:11:28Z | Null | https://github.com/sheenieboy/ExploiterChat | 1 | 0| 
@@ -43,7 +44,6 @@
 | 20210102T00:42:31Z | OSINT, Threat Hunting, Network and Web Recon, Discovery, Enumeration, Vulnerability Mapping, Exploitation, Reporting | https://github.com/aryanguenthner/365 | 4 | 2| 
 | 20210102T00:18:42Z | Just some scripts for some games that I made or stolen. | https://github.com/Aethese/roblox-exploits | 0 | 0| 
 | 20210102T00:05:27Z | every roblox exploit made by me | https://github.com/itsrucky/exploits | 0 | 0| 
-| 20210101T22:59:15Z | Exploits project Hacking Command Center | https://github.com/chacka0101/exploits | 0 | 1| 
 
 
 # backdoor on Github 推荐
