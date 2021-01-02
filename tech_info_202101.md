@@ -34,6 +34,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210102T02:25:51Z | Open source ROBLOX anti-exploit for use by all. | https://github.com/Void-Frost/Secure-X | 6 | 12| 
 | 20210102T02:11:28Z | Null | https://github.com/sheenieboy/ExploiterChat | 1 | 0| 
 | 20210102T02:07:39Z | A free tool to scan PHP files and analyze your project to find any malicious code inside it. | https://github.com/marcocesarato/PHP-Antimalware-Scanner | 160 | 29| 
 | 20210102T01:42:42Z | A general purpose memory allocator that implements an isolation security strategy to mitigate memory safety issues while maintaining good performance | https://github.com/struct/isoalloc | 126 | 9| 
@@ -43,7 +44,6 @@
 | 20210102T00:05:27Z | every roblox exploit made by me | https://github.com/itsrucky/exploits | 0 | 0| 
 | 20210101T22:59:15Z | Exploits project Hacking Command Center | https://github.com/chacka0101/exploits | 0 | 1| 
 | 20210101T22:34:50Z | Null | https://github.com/anontuttuvenus/SomeToolsAndExploits | 1 | 0| 
-| 20210101T22:27:44Z | ZetaSploit Framework is a powerful exploitation framework that contains a lot of modules for attacking targets, interacting with targets, exploiting common vulnerabilities and etc. | https://github.com/EntySec/ZetaSploit | 7 | 3| 
 
 
 # backdoor on Github 推荐
