@@ -34,7 +34,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210102T01:47:54Z | A free tool to scan PHP files and analyze your project to find any malicious code inside it. | https://github.com/marcocesarato/PHP-Antimalware-Scanner | 160 | 29| 
+| 20210102T01:52:12Z | Null | https://github.com/sheenieboy/ExploiterChat | 1 | 0| 
+| 20210102T01:51:35Z | A free tool to scan PHP files and analyze your project to find any malicious code inside it. | https://github.com/marcocesarato/PHP-Antimalware-Scanner | 160 | 29| 
 | 20210102T01:42:42Z | A general purpose memory allocator that implements an isolation security strategy to mitigate memory safety issues while maintaining good performance | https://github.com/struct/isoalloc | 126 | 9| 
 | 20210102T01:04:29Z | Metasploit Utilities, Post Exploit Scripts and other scripts primarily for reference | https://github.com/reg1reg1/Exploits | 0 | 0| 
 | 20210102T00:42:31Z | OSINT, Threat Hunting, Network and Web Recon, Discovery, Enumeration, Vulnerability Mapping, Exploitation, Reporting | https://github.com/aryanguenthner/365 | 4 | 2| 
@@ -43,7 +44,6 @@
 | 20210101T22:59:15Z | Exploits project Hacking Command Center | https://github.com/chacka0101/exploits | 0 | 1| 
 | 20210101T22:34:50Z | Null | https://github.com/anontuttuvenus/SomeToolsAndExploits | 1 | 0| 
 | 20210101T22:27:44Z | ZetaSploit Framework is a powerful exploitation framework that contains a lot of modules for attacking targets, interacting with targets, exploiting common vulnerabilities and etc. | https://github.com/EntySec/ZetaSploit | 7 | 3| 
-| 20210101T22:15:15Z | Ethical Hacking & Cyber Security Course : Complete Package  Paid courses for Free 🔥🔥  🔗Download: --> https://www.mediafire.com/file/tsh0w88b6mus96y/Ethical+Hacking+&+Cyber+Security+Course+-+Complete+Package.rar/file  Exploit Development for Linux x64  🔗Download: --> https://mega.nz/folder/DpFXTajT#-QgmsdT05eT0vuYo9sjXYA  Exploit Development for Linux (x86)  🔗Download:  --> https://mega.nz/folder/P4V10awQ#x1iJjk1gLAzIKbj2Ta8Blw  Linux Heap Exploitation - Part 1  🔗Download: --> https://mega.nz/folder/j0swAL7T#xPojjkSDtIwuDS4VJR0_GA  Expert Malware Analysis and Reverse Engineering  🔗Download: --> https://mega.nz/folder/ThkUwJgT#RUCaDYSj9tiP7OevJ-1HjQ  Binary Exploits with Python  🔗Download: --> https://mega.nz/folder/XkswBQKS#ihcitspPL9nQiEvC4hxIzQ  Hands-on Fuzzing and Exploit Development  🔗Download: --> https://mega.nz/folder/i88mFA7A#OIYSAhjHeuAys3B4MCepwg  Hands-on Fuzzing and Exploit Development (Advanced)  🔗Download: --> https://mega.nz/folder/ux9SUIiJ#bxHCViNRLn01I4Y1x73B8w  ______Tech Summer YT_______ | https://github.com/nyctophile6/Ethical-Hacking-Cyber-Security-Course-Complete-Package-Paid-courses-for-Free- | 0 | 0| 
 
 
 # backdoor on Github 推荐
