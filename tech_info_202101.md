@@ -64,16 +64,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210101T13:37:35Z | The Book %Generating Software Tests% | https://github.com/uds-se/fuzzingbook | 479 | 93| 
-| 20210101T13:33:26Z | Planning tool | https://github.com/HappyDustbunny/FuzzyFlexx | 1 | 0| 
-| 20210101T12:49:36Z | Web Fuzzer | https://github.com/Ph3nX-Z/Shuriken | 1 | 0| 
-| 20210101T11:45:00Z | Null | https://github.com/BartVandyck/fuzzy-slim2 | 0 | 0| 
-| 20210101T11:08:44Z | RESTler is the first stateful REST API fuzzing tool for automatically testing cloud services through their REST APIs and finding security and reliability bugs in these services. | https://github.com/microsoft/restler-fuzzer | 601 | 50| 
-| 20210101T10:52:10Z | gitmoji selector on fzf | https://github.com/ShotaroKataoka/Fuzzy-Git-Operator | 2 | 0| 
-| 20210101T10:24:42Z | Null | https://github.com/anandafitri00/AI-Fuzzy-Logic | 0 | 0| 
-| 20210101T09:25:49Z | Payload fuzzer written in Python | https://github.com/tisnik/payload-fuzzer | 0 | 0| 
-| 20210101T08:37:47Z | Null | https://github.com/terminal-labs/fuzzball | 0 | 0| 
-| 20210101T06:50:11Z | Null | https://github.com/Isabella-gh/fuzzy-garbanzo | 0 | 0| 
+| 20210102T01:00:59Z | collection of helper tools for fuzzing | https://github.com/fuzzah/fuzzaide | 2 | 0| 
+| 20210102T00:21:04Z | A lazy approach to fuzzing parameters for SSTI | https://github.com/crawl3r/lazyssti | 0 | 0| 
+| 20210102T00:18:15Z | Null | https://github.com/ninrich/fuzzy | 0 | 0| 
+| 20210101T23:57:22Z | Fuzzy logic notes | https://github.com/foreverloop/fuzz | 0 | 0| 
+| 20210101T23:46:24Z | Rockyou for web fuzzing | https://github.com/six2dez/OneListForAll | 143 | 29| 
+| 20210101T23:46:10Z | Diverse, the Fuzzer pico library you need to make your .NET tests more Diverse | https://github.com/42skillz/Diverse | 7 | 1| 
+| 20210101T23:14:57Z | Null | https://github.com/opimentel-github/fuzzy-torch | 0 | 0| 
+| 20210101T23:04:31Z | FuzzBench - Fuzzer benchmarking as a service. | https://github.com/google/fuzzbench | 573 | 92| 
+| 20210101T22:49:13Z | The code behind getfursu.it | https://github.com/veelkoov/fuzzrake | 6 | 0| 
+| 20210101T22:26:10Z | Fuzzing Collection for Web Application | https://github.com/tungpdv/Fuzzing-Dictionary | 1 | 0| 
 
 
 

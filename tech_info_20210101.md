@@ -62,16 +62,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210101T13:37:35Z | The Book %Generating Software Tests% | https://github.com/uds-se/fuzzingbook | 479 | 93| 
-| 20210101T13:33:26Z | Planning tool | https://github.com/HappyDustbunny/FuzzyFlexx | 1 | 0| 
-| 20210101T12:49:36Z | Web Fuzzer | https://github.com/Ph3nX-Z/Shuriken | 1 | 0| 
-| 20210101T11:45:00Z | Null | https://github.com/BartVandyck/fuzzy-slim2 | 0 | 0| 
-| 20210101T11:08:44Z | RESTler is the first stateful REST API fuzzing tool for automatically testing cloud services through their REST APIs and finding security and reliability bugs in these services. | https://github.com/microsoft/restler-fuzzer | 601 | 50| 
-| 20210101T10:52:10Z | gitmoji selector on fzf | https://github.com/ShotaroKataoka/Fuzzy-Git-Operator | 2 | 0| 
-| 20210101T10:24:42Z | Null | https://github.com/anandafitri00/AI-Fuzzy-Logic | 0 | 0| 
-| 20210101T09:25:49Z | Payload fuzzer written in Python | https://github.com/tisnik/payload-fuzzer | 0 | 0| 
-| 20210101T08:37:47Z | Null | https://github.com/terminal-labs/fuzzball | 0 | 0| 
-| 20210101T06:50:11Z | Null | https://github.com/Isabella-gh/fuzzy-garbanzo | 0 | 0| 
+| 20210101T23:57:22Z | Fuzzy logic notes | https://github.com/foreverloop/fuzz | 0 | 0| 
+| 20210101T23:46:24Z | Rockyou for web fuzzing | https://github.com/six2dez/OneListForAll | 143 | 29| 
+| 20210101T23:46:10Z | Diverse, the Fuzzer pico library you need to make your .NET tests more Diverse | https://github.com/42skillz/Diverse | 7 | 1| 
+| 20210101T23:14:57Z | Null | https://github.com/opimentel-github/fuzzy-torch | 0 | 0| 
+| 20210101T23:04:31Z | FuzzBench - Fuzzer benchmarking as a service. | https://github.com/google/fuzzbench | 573 | 92| 
+| 20210101T22:49:13Z | The code behind getfursu.it | https://github.com/veelkoov/fuzzrake | 6 | 0| 
+| 20210101T22:26:10Z | Fuzzing Collection for Web Application | https://github.com/tungpdv/Fuzzing-Dictionary | 1 | 0| 
+| 20210101T22:15:15Z | Ethical Hacking & Cyber Security Course : Complete Package  Paid courses for Free 🔥🔥  🔗Download: --> https://www.mediafire.com/file/tsh0w88b6mus96y/Ethical+Hacking+&+Cyber+Security+Course+-+Complete+Package.rar/file  Exploit Development for Linux x64  🔗Download: --> https://mega.nz/folder/DpFXTajT#-QgmsdT05eT0vuYo9sjXYA  Exploit Development for Linux (x86)  🔗Download:  --> https://mega.nz/folder/P4V10awQ#x1iJjk1gLAzIKbj2Ta8Blw  Linux Heap Exploitation - Part 1  🔗Download: --> https://mega.nz/folder/j0swAL7T#xPojjkSDtIwuDS4VJR0_GA  Expert Malware Analysis and Reverse Engineering  🔗Download: --> https://mega.nz/folder/ThkUwJgT#RUCaDYSj9tiP7OevJ-1HjQ  Binary Exploits with Python  🔗Download: --> https://mega.nz/folder/XkswBQKS#ihcitspPL9nQiEvC4hxIzQ  Hands-on Fuzzing and Exploit Development  🔗Download: --> https://mega.nz/folder/i88mFA7A#OIYSAhjHeuAys3B4MCepwg  Hands-on Fuzzing and Exploit Development (Advanced)  🔗Download: --> https://mega.nz/folder/ux9SUIiJ#bxHCViNRLn01I4Y1x73B8w  ______Tech Summer YT_______ | https://github.com/nyctophile6/Ethical-Hacking-Cyber-Security-Course-Complete-Package-Paid-courses-for-Free- | 0 | 0| 
+| 20210101T20:56:37Z | helper script to generate a random string | https://github.com/ZackDev/fuzzystring | 0 | 0| 
+| 20210101T20:49:54Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2240 | 113| 
 
 
 
