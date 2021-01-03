@@ -75,16 +75,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210102T12:48:46Z | :book: [译] 生成软件测试 | https://github.com/apachecn/fuzzingbook-zh | 6 | 3| 
-| 20210102T12:48:43Z | Fuzzy logic notes | https://github.com/foreverloop/fuzz | 0 | 0| 
-| 20210102T12:25:35Z | Null | https://github.com/beautydil/fuzzy-succotash | 0 | 0| 
-| 20210102T12:17:13Z | Null | https://github.com/BartVandyck/fuzzy-slim2 | 0 | 0| 
-| 20210102T12:09:31Z | Null | https://github.com/KongkanKalakan/Fuzzy_Conviction_Decision_Tree_Classifier | 0 | 0| 
-| 20210102T11:37:38Z | Academic Labs | https://github.com/kshithi/Fuzzy-Systems | 0 | 0| 
-| 20210102T11:37:18Z | Diverse, the Fuzzer pico library you need to make your .NET tests more Diverse | https://github.com/42skillz/Diverse | 7 | 1| 
-| 20210102T11:17:42Z | Stock analyzer | https://github.com/Heydad-Helfer/fuzzy-spork | 0 | 0| 
-| 20210102T09:45:05Z | 💊 Simple Script to Control Drugstore Warehouse using an Expert System Based on Fuzzy Rules | https://github.com/wildonion/fuzzy-drugstore | 0 | 0| 
-| 20210102T09:17:12Z | Null | https://github.com/s9varesc/url-fuzzing-docker | 0 | 0| 
+| 20210103T00:38:24Z | working through gray hat C# book | https://github.com/marbilher/fuzzing | 0 | 0| 
+| 20210103T00:24:07Z | Fuzz testing for go. | https://github.com/google/gofuzz | 943 | 91| 
+| 20210102T23:17:30Z | A lazy approach to fuzzing parameters for SSTI | https://github.com/crawl3r/lazyssti | 0 | 0| 
+| 20210102T23:06:43Z | https://github.com/wcventure/FuzzingPaper | https://github.com/mishmashclone/wcventure-FuzzingPaper | 2 | 1| 
+| 20210102T22:46:29Z | Определение цветовых характеристик полимерных материалов | https://github.com/kostyaLem/FuzzyLogic | 0 | 0| 
+| 20210102T22:42:32Z | Tutorials, examples, discussions, research proposals, and other resources related to fuzzing | https://github.com/google/fuzzing | 1530 | 232| 
+| 20210102T22:17:31Z | Fuzzy logic notes | https://github.com/foreverloop/fuzz | 0 | 0| 
+| 20210102T21:28:03Z | OSS-Fuzz - continuous fuzzing of open source software. | https://github.com/google/oss-fuzz | 5769 | 1146| 
+| 20210102T21:04:59Z | A JavaScript Engine Fuzzer | https://github.com/googleprojectzero/fuzzilli | 1117 | 193| 
+| 20210102T21:02:27Z | This code blocks designed using C Language. This code is designed using the C Language. If you want to use Fuzzy Logic in Embedded Systems, you can add them to your system. | https://github.com/fhsakaci/FuzzyLogicForEmbeddedSystems | 0 | 0| 
 
 
 
