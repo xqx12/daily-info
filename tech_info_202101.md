@@ -60,10 +60,10 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210103T02:56:51Z | Null | https://github.com/cv1002/SoftwareProjectManagerBackdoor | 1 | 5| 
 | 20210103T02:17:24Z | Null | https://github.com/Yunolay/jpg-backdoor | 0 | 0| 
 | 20210102T19:04:58Z | TrojanZoo provides a universal pytorch platform to conduct security researches (especially backdoor attacks/defenses) of image classification in deep learning. | https://github.com/ain-soph/trojanzoo | 19 | 3| 
 | 20210102T15:46:52Z | A free tool to scan php files and analyze your project to find any malicious code inside it. | https://github.com/marcocesarato/PHP-Antimalware-Scanner | 160 | 29| 
-| 20210102T13:03:51Z | Null | https://github.com/cv1002/SoftwareProjectManagerBackdoor | 1 | 5| 
 | 20210102T09:39:49Z | A protocol suite to individually backdoor end-to-end encrypted communications in compliance with the seperation of branches of power legal framework. | https://github.com/feketebv/E2EE_backdooring | 0 | 0| 
 | 20210102T08:42:09Z | Null | https://github.com/grsoratoor/BackdoorBot | 0 | 0| 
 | 20210102T07:45:04Z | A Potato-themed backdoor developed in C#.  | https://github.com/malwaredetective/spudnet | 0 | 0| 
