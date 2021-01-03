@@ -36,6 +36,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210103T13:02:13Z | A free tool to scan php files and analyze your project to find any malicious code inside it. | https://github.com/marcocesarato/PHP-Antimalware-Scanner | 160 | 29| 
 | 20210103T12:29:22Z | Using term structure to exploit volatility risk premium | https://github.com/jironghuang/volatility_risk_premium | 0 | 0| 
 | 20210103T12:12:14Z | CVE-2020–7961 Mass exploit for Script Kiddies | https://github.com/Udyz/CVE-2020-7961-Mass | 3 | 0| 
 | 20210103T12:03:38Z | Thi powershell script has got to run in remote windows host, even for pivoting | https://github.com/FabioDefilippo/winallenum | 0 | 1| 
@@ -45,12 +46,12 @@
 | 20210103T10:43:00Z | Collection of exploits created for vulnerable programs, web applications, firmware, etc. | https://github.com/nobodyatall648/exploits | 0 | 1| 
 | 20210103T10:39:21Z | Windows Exploit Development Tutorial Series | https://github.com/whichbuffer/WindowsExploitDev | 0 | 0| 
 | 20210103T10:17:12Z | This bash script will help you to hack remote hosts  | https://github.com/FabioDefilippo/linuxallremote | 2 | 1| 
-| 20210103T09:55:20Z | Problems related to Cryptography, Web-exploitation, Reverse Engineering, Pwn and Forensics | https://github.com/Voker2311/CTF-Writeups | 0 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210103T13:02:13Z | A free tool to scan php files and analyze your project to find any malicious code inside it. | https://github.com/marcocesarato/PHP-Antimalware-Scanner | 160 | 29| 
 | 20210103T11:50:46Z | Null | https://github.com/cv1002/SoftwareProjectManagerBackdoor | 1 | 5| 
 | 20210103T10:05:43Z | Fud Persistent Windows Backdoor developed purely in python | https://github.com/swagkarna/Chuvi-Botnet | 1 | 0| 
 | 20210103T09:17:35Z | Backdoors Framework for Deep Learning and Federated Learning. A light-weight tool to conduct your research on backdoors. | https://github.com/ebagdasa/backdoors101 | 41 | 7| 
