@@ -75,6 +75,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210103T02:22:30Z | AFLNet: A Greybox Fuzzer for Network Protocols (https://thuanpv.github.io/publications/AFLNet_ICST20.pdf) | https://github.com/aflnet/aflnet | 345 | 53| 
 | 20210103T01:55:06Z | Fuzzy charrs are fuzzy. | https://github.com/marenubium87/FuzzyCharr | 0 | 0| 
 | 20210103T01:29:04Z | Null | https://github.com/VansQ1251/fuzzy-I-to-disco | 0 | 0| 
 | 20210103T00:38:24Z | working through gray hat C# book | https://github.com/marbilher/fuzzing | 0 | 0| 
@@ -84,7 +85,6 @@
 | 20210102T22:46:29Z | Определение цветовых характеристик полимерных материалов | https://github.com/kostyaLem/FuzzyLogic | 0 | 0| 
 | 20210102T22:42:32Z | Tutorials, examples, discussions, research proposals, and other resources related to fuzzing | https://github.com/google/fuzzing | 1530 | 232| 
 | 20210102T22:17:31Z | Fuzzy logic notes | https://github.com/foreverloop/fuzz | 0 | 0| 
-| 20210102T21:28:03Z | OSS-Fuzz - continuous fuzzing of open source software. | https://github.com/google/oss-fuzz | 5769 | 1146| 
 
 
 
