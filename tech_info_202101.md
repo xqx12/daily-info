@@ -50,7 +50,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210103T13:50:08Z | courses, exploits and lots of code.............. | https://github.com/kainesmicheal/OSWE | 0 | 0| 
+| 20210103T13:52:35Z | courses, exploits and lots of code.............. | https://github.com/kainesmicheal/OSWE | 0 | 0| 
 | 20210103T13:49:24Z | linux post-exploitation framework made by linux user | https://github.com/jm33-m0/emp3r0r | 128 | 24| 
 | 20210103T13:31:57Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 3322 | 504| 
 | 20210103T13:22:56Z | A collection of BlockChain Solidity Smart Contracts: Building, Security & Exploits. Also exploring Cryptography (RSA, ECC) from Scratch. | https://github.com/SmartyPants042/BlockChain-Unchained | 0 | 0| 
