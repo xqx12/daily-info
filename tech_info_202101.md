@@ -45,6 +45,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210103T02:58:32Z | fix a very specific bug with some maps in TF2 - see the README | https://github.com/sapphonie/fix-trigger-exploits-tf2 | 0 | 0| 
 | 20210103T02:41:08Z | Null | https://github.com/brerodrigues/exploit_drafts | 0 | 0| 
 | 20210103T02:17:56Z | PEDA - Python Exploit Development Assistance for GDB | https://github.com/longld/peda | 4383 | 720| 
 | 20210103T01:25:48Z | Go package that aids in binary analysis and exploitation | https://github.com/zznop/sploit | 144 | 17| 
@@ -54,7 +55,6 @@
 | 20210103T00:48:15Z | This program utilizes Excel macros and VBS to decrypt passwords saved on Google Chrome in a Windows machine. Este programa utiliza macros do Excel e VBS para descritografar senhas salvas no Google Chrome numa máquina Windows.  | https://github.com/joaopedrordepaiva/MacroExploit | 0 | 0| 
 | 20210103T00:28:18Z | Router Exploitation Tools. Checks for WinBox Authentication Bypass Disclosure, RouterOS Jailbreak, Chimney-Blue SMB BufferOverflow & ByTheWay RCE | https://github.com/s1l3nt78/MkCheck | 53 | 16| 
 | 20210102T23:56:45Z | Various ASM, C and C++ tools, shellcodes and exploit experiments. | https://github.com/forrest-orr/ExploitDev | 30 | 1| 
-| 20210102T23:22:49Z | a collection of discord exploits and tools | https://github.com/Vexvain/Discord-Collection | 0 | 0| 
 
 
 # backdoor on Github 推荐
