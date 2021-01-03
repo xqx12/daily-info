@@ -6,6 +6,7 @@
 # 玄武实验室 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20210103 | 基于MicroPython的智能手表开发环境手册指南（包括Pine64 PineTime）项目介绍。 | https://github.com/daniel-thompson/wasp-os| 
 
 
 # 安全维基 推荐
@@ -79,16 +80,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210103T13:43:46Z | Diverse, the Fuzzer pico library you need to make your .NET tests more Diverse | https://github.com/42skillz/Diverse | 7 | 2| 
+| 20210103T13:38:54Z | Web Fuzzer | https://github.com/Ph3nX-Z/Shuriken | 1 | 0| 
 | 20210103T13:16:05Z | Fuzzy logic notes | https://github.com/foreverloop/fuzz | 0 | 0| 
 | 20210103T13:03:52Z | gitmoji selector on fzf | https://github.com/ShotaroKataoka/Fuzzy-Git-Operator | 2 | 0| 
 | 20210103T12:56:44Z | Null | https://github.com/st170774/Fuzzy-logic | 0 | 0| 
 | 20210103T12:54:48Z | Little mobile app I use to monitor getfursu.it | https://github.com/veelkoov/fuzzrake-hc-android | 0 | 0| 
 | 20210103T12:53:02Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 1219 | 260| 
 | 20210103T12:12:41Z | Fuzz testing in the unit and integration phase with fuzz data from FuzzDB | https://github.com/fuzzdbunit/fuzzdbunit | 0 | 0| 
-| 20210103T12:12:39Z | Web Fuzzer | https://github.com/Ph3nX-Z/Shuriken | 1 | 0| 
 | 20210103T11:46:51Z | Quick Screen Burn Remedy. Place in fullscreen to utilize. | https://github.com/taisel/ScreenFuzz | 0 | 0| 
 | 20210103T11:40:07Z | А procedural macro to be used for testing/fuzzing stateful models against a semantically equivalent but obviously correct implementation | https://github.com/jakubadamw/rutenspitz | 39 | 2| 
-| 20210103T11:26:08Z | Diverse, the Fuzzer pico library you need to make your .NET tests more Diverse | https://github.com/42skillz/Diverse | 7 | 2| 
 
 
 
