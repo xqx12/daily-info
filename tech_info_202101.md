@@ -45,16 +45,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210102T13:58:03Z | CVE-2020–7961 Mass exploit for Script Kiddies | https://github.com/Udyz/CVE-2020-7961-Mass | 0 | 0| 
-| 20210102T13:48:01Z | Router Exploitation Tools. Checks for WinBox Authentication Bypass Disclosure, RouterOS Jailbreak, Chimney-Blue SMB BufferOverflow & ByTheWay RCE | https://github.com/s1l3nt78/MkCheck | 52 | 16| 
-| 20210102T13:42:51Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 8846 | 1398| 
-| 20210102T13:24:49Z | linux post-exploitation framework made by linux user | https://github.com/jm33-m0/emp3r0r | 122 | 21| 
-| 20210102T13:02:53Z | A free tool to scan PHP files and analyze your project to find any malicious code inside it. | https://github.com/marcocesarato/PHP-Antimalware-Scanner | 160 | 29| 
-| 20210102T12:46:32Z | Hello Zero helps you extract information about all hardware and software installed on your system and automatically crawl the darkweb everyday to find zero day exploits which target hardware/software you have on your system. In version 1.0 it only works on windows platform. | https://github.com/snippray/Hell0 | 0 | 0| 
-| 20210102T12:32:53Z | Explainable Machine Learning Exploiting News and Domain-specific Lexicon for Stock Market Forecasting. | https://github.com/Artificial-Intelligence-Big-Data-Lab/Explainable-ML | 0 | 0| 
-| 20210102T12:32:35Z | Zenith configs. Exploit them at your own risk. | https://github.com/egorbelibov/unix_configs | 1 | 0| 
-| 20210102T10:56:43Z | zerologon script to exploit CVE-2020-1472 CVSS 10/10 | https://github.com/wrathfulDiety/zerologon | 0 | 0| 
-| 20210102T10:54:47Z | k8gege.org - K8哥哥%s Blog | https://github.com/k8gege/k8gege.github.io | 11 | 6| 
+| 20210103T00:59:53Z | Exploitative Location using Structure inside Aisles  | https://github.com/karry3775/Elsia_ws | 0 | 0| 
+| 20210103T00:57:39Z | Exploit Gui for Game: https://www.roblox.com/games/5665787539/Relics-Gods-Of-Glory-BETA | https://github.com/DohmBoyOG/Gods-of-Glory-GUI | 0 | 0| 
+| 20210103T00:53:13Z | Just a PoC for NVSM 1000 Directory Transversal exploit | https://github.com/AndreLMe/PoC-NVSM-1000 | 0 | 0| 
+| 20210103T00:48:15Z | This program utilizes Excel macros and VBS to decrypt passwords saved on Google Chrome in a Windows machine. Este programa utiliza macros do Excel e VBS para descritografar senhas salvas no Google Chrome numa máquina Windows.  | https://github.com/joaopedrordepaiva/MacroExploit | 0 | 0| 
+| 20210103T00:28:18Z | Router Exploitation Tools. Checks for WinBox Authentication Bypass Disclosure, RouterOS Jailbreak, Chimney-Blue SMB BufferOverflow & ByTheWay RCE | https://github.com/s1l3nt78/MkCheck | 53 | 16| 
+| 20210102T23:56:45Z | Various ASM, C and C++ tools, shellcodes and exploit experiments. | https://github.com/forrest-orr/ExploitDev | 30 | 1| 
+| 20210102T23:41:58Z | Null | https://github.com/brerodrigues/exploit_drafts | 0 | 0| 
+| 20210102T23:22:49Z | a collection of discord exploits and tools | https://github.com/Vexvain/Discord-Collection | 0 | 0| 
+| 20210102T22:41:08Z | Exploitation tool for SSRF (Server-Side Request Forgery) vulnerability | https://github.com/a0r4/goSSRF | 0 | 0| 
+| 20210102T22:22:50Z | Sifter is a OSINT, recon & vulnerability scanner. It incorporates a plethara of tools within different module sets that tries to cover every attack vector. Allowing you to quickly perform recon tasks and organize the results in one place. From OSINT to Recon, Exploitation, Post-Exploitation, OpSec, Threat Analysis, XSS, SQLinjection, Network Scanning, WebApp Analysis or DNS enumeration.. Sifter should be able to cover it all. | https://github.com/s1l3nt78/sifter | 336 | 100| 
 
 
 # backdoor on Github 推荐
