@@ -7,6 +7,7 @@
 | ts | title | url| 
 | --- | --- | ---| 
 | 20210103 | 基于MicroPython的智能手表开发环境手册指南（包括Pine64 PineTime）项目介绍。 | https://github.com/daniel-thompson/wasp-os| 
+| 20210103 | 适用于Control Things Platform用户的样本文件与顶级研究项目。 | https://github.com/ControlThings-io/ct-samples| 
 
 
 # 安全维基 推荐
@@ -37,7 +38,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210103T13:53:04Z | courses, exploits and lots of code.............. | https://github.com/kainesmicheal/OSWE | 0 | 0| 
+| 20210103T13:56:18Z | courses, exploits and lots of code, as i am currently preparing for this exam, i will keep updating everthing i learned or coded here | https://github.com/kainesmicheal/OSWE | 0 | 0| 
 | 20210103T13:49:24Z | linux post-exploitation framework made by linux user | https://github.com/jm33-m0/emp3r0r | 128 | 24| 
 | 20210103T13:31:57Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 3322 | 504| 
 | 20210103T13:22:56Z | A collection of BlockChain Solidity Smart Contracts: Building, Security & Exploits. Also exploring Cryptography (RSA, ECC) from Scratch. | https://github.com/SmartyPants042/BlockChain-Unchained | 0 | 0| 
