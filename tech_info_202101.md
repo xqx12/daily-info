@@ -75,6 +75,8 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210103T01:55:06Z | Fuzzy charrs are fuzzy. | https://github.com/marenubium87/FuzzyCharr | 0 | 0| 
+| 20210103T01:29:04Z | Null | https://github.com/VansQ1251/fuzzy-I-to-disco | 0 | 0| 
 | 20210103T00:38:24Z | working through gray hat C# book | https://github.com/marbilher/fuzzing | 0 | 0| 
 | 20210103T00:24:07Z | Fuzz testing for go. | https://github.com/google/gofuzz | 943 | 91| 
 | 20210102T23:17:30Z | A lazy approach to fuzzing parameters for SSTI | https://github.com/crawl3r/lazyssti | 0 | 0| 
@@ -83,8 +85,6 @@
 | 20210102T22:42:32Z | Tutorials, examples, discussions, research proposals, and other resources related to fuzzing | https://github.com/google/fuzzing | 1530 | 232| 
 | 20210102T22:17:31Z | Fuzzy logic notes | https://github.com/foreverloop/fuzz | 0 | 0| 
 | 20210102T21:28:03Z | OSS-Fuzz - continuous fuzzing of open source software. | https://github.com/google/oss-fuzz | 5769 | 1146| 
-| 20210102T21:04:59Z | A JavaScript Engine Fuzzer | https://github.com/googleprojectzero/fuzzilli | 1117 | 193| 
-| 20210102T21:02:27Z | This code blocks designed using C Language. This code is designed using the C Language. If you want to use Fuzzy Logic in Embedded Systems, you can add them to your system. | https://github.com/fhsakaci/FuzzyLogicForEmbeddedSystems | 0 | 0| 
 
 
 
