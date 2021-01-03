@@ -50,6 +50,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210103T13:49:24Z | linux post-exploitation framework made by linux user | https://github.com/jm33-m0/emp3r0r | 128 | 24| 
 | 20210103T13:31:57Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 3322 | 504| 
 | 20210103T13:22:56Z | A collection of BlockChain Solidity Smart Contracts: Building, Security & Exploits. Also exploring Cryptography (RSA, ECC) from Scratch. | https://github.com/SmartyPants042/BlockChain-Unchained | 0 | 0| 
 | 20210103T13:02:13Z | A free tool to scan php files and analyze your project to find any malicious code inside it. | https://github.com/marcocesarato/PHP-Antimalware-Scanner | 160 | 29| 
@@ -59,7 +60,6 @@
 | 20210103T11:35:11Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 8848 | 1398| 
 | 20210103T11:26:50Z | Ronin is a Ruby platform for vulnerability research and exploit development. Ronin allows for the rapid development and distribution of code, Exploits or Payloads, Scanners, etc, via Repositories. | https://github.com/ronin-rb/ronin | 212 | 19| 
 | 20210103T11:14:27Z | this bash script is for remote linux hosts hacked! | https://github.com/FabioDefilippo/linuxallenum | 8 | 0| 
-| 20210103T10:43:00Z | Collection of exploits created for vulnerable programs, web applications, firmware, etc. | https://github.com/nobodyatall648/exploits | 0 | 1| 
 
 
 # backdoor on Github 推荐
