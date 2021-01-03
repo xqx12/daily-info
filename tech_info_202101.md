@@ -60,6 +60,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210103T02:17:24Z | Null | https://github.com/Yunolay/jpg-backdoor | 0 | 0| 
 | 20210102T19:04:58Z | TrojanZoo provides a universal pytorch platform to conduct security researches (especially backdoor attacks/defenses) of image classification in deep learning. | https://github.com/ain-soph/trojanzoo | 19 | 3| 
 | 20210102T15:46:52Z | A free tool to scan php files and analyze your project to find any malicious code inside it. | https://github.com/marcocesarato/PHP-Antimalware-Scanner | 160 | 29| 
 | 20210102T13:03:51Z | Null | https://github.com/cv1002/SoftwareProjectManagerBackdoor | 1 | 5| 
@@ -69,7 +70,6 @@
 | 20210102T01:23:44Z | Analysis of SunBurst (SolarWinds) embedded backdoor | https://github.com/conikeec/sunburst-analysis | 0 | 1| 
 | 20210101T23:02:41Z | Null | https://github.com/MadsKaiser/backdoor | 0 | 0| 
 | 20210101T22:45:41Z | Null | https://github.com/mikkelskov1/backdoor2 | 0 | 0| 
-| 20210101T22:25:58Z | Backdoors Framework for Deep Learning and Federated Learning. A light-weight tool to conduct your research on backdoors. | https://github.com/ebagdasa/backdoors101 | 40 | 7| 
 
 
 # fuzz on Github 推荐
