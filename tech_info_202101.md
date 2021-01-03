@@ -79,16 +79,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210103T02:22:30Z | AFLNet: A Greybox Fuzzer for Network Protocols (https://thuanpv.github.io/publications/AFLNet_ICST20.pdf) | https://github.com/aflnet/aflnet | 345 | 53| 
-| 20210103T01:55:06Z | Fuzzy charrs are fuzzy. | https://github.com/marenubium87/FuzzyCharr | 0 | 0| 
-| 20210103T01:29:04Z | Null | https://github.com/VansQ1251/fuzzy-I-to-disco | 0 | 0| 
-| 20210103T00:38:24Z | working through gray hat C# book | https://github.com/marbilher/fuzzing | 0 | 0| 
-| 20210103T00:24:07Z | Fuzz testing for go. | https://github.com/google/gofuzz | 943 | 91| 
-| 20210102T23:17:30Z | A lazy approach to fuzzing parameters for SSTI | https://github.com/crawl3r/lazyssti | 0 | 0| 
-| 20210102T23:06:43Z | https://github.com/wcventure/FuzzingPaper | https://github.com/mishmashclone/wcventure-FuzzingPaper | 2 | 1| 
-| 20210102T22:46:29Z | Определение цветовых характеристик полимерных материалов | https://github.com/kostyaLem/FuzzyLogic | 0 | 0| 
-| 20210102T22:42:32Z | Tutorials, examples, discussions, research proposals, and other resources related to fuzzing | https://github.com/google/fuzzing | 1530 | 232| 
-| 20210102T22:17:31Z | Fuzzy logic notes | https://github.com/foreverloop/fuzz | 0 | 0| 
+| 20210103T13:16:05Z | Fuzzy logic notes | https://github.com/foreverloop/fuzz | 0 | 0| 
+| 20210103T13:03:52Z | gitmoji selector on fzf | https://github.com/ShotaroKataoka/Fuzzy-Git-Operator | 2 | 0| 
+| 20210103T12:56:44Z | Null | https://github.com/st170774/Fuzzy-logic | 0 | 0| 
+| 20210103T12:54:48Z | Little mobile app I use to monitor getfursu.it | https://github.com/veelkoov/fuzzrake-hc-android | 0 | 0| 
+| 20210103T12:53:02Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 1219 | 260| 
+| 20210103T12:12:41Z | Fuzz testing in the unit and integration phase with fuzz data from FuzzDB | https://github.com/fuzzdbunit/fuzzdbunit | 0 | 0| 
+| 20210103T12:12:39Z | Web Fuzzer | https://github.com/Ph3nX-Z/Shuriken | 1 | 0| 
+| 20210103T11:46:51Z | Quick Screen Burn Remedy. Place in fullscreen to utilize. | https://github.com/taisel/ScreenFuzz | 0 | 0| 
+| 20210103T11:40:07Z | А procedural macro to be used for testing/fuzzing stateful models against a semantically equivalent but obviously correct implementation | https://github.com/jakubadamw/rutenspitz | 39 | 2| 
+| 20210103T11:26:08Z | Diverse, the Fuzzer pico library you need to make your .NET tests more Diverse | https://github.com/42skillz/Diverse | 7 | 2| 
 
 
 
