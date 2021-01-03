@@ -36,15 +36,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210103T02:58:32Z | fix a very specific bug with some maps in TF2 - see the README | https://github.com/sapphonie/fix-trigger-exploits-tf2 | 0 | 0| 
-| 20210103T02:41:08Z | Null | https://github.com/brerodrigues/exploit_drafts | 0 | 0| 
-| 20210103T02:17:56Z | PEDA - Python Exploit Development Assistance for GDB | https://github.com/longld/peda | 4383 | 720| 
-| 20210103T01:25:48Z | Go package that aids in binary analysis and exploitation | https://github.com/zznop/sploit | 144 | 17| 
-| 20210103T00:59:53Z | Exploitative Location using Structure inside Aisles  | https://github.com/karry3775/Elsia_ws | 0 | 0| 
-| 20210103T00:57:39Z | Exploit Gui for Game: https://www.roblox.com/games/5665787539/Relics-Gods-Of-Glory-BETA | https://github.com/DohmBoyOG/Gods-of-Glory-GUI | 0 | 0| 
-| 20210103T00:53:13Z | Just a PoC for NVSM 1000 Directory Transversal exploit | https://github.com/AndreLMe/PoC-NVSM-1000 | 0 | 0| 
-| 20210103T00:48:15Z | This program utilizes Excel macros and VBS to decrypt passwords saved on Google Chrome in a Windows machine. Este programa utiliza macros do Excel e VBS para descritografar senhas salvas no Google Chrome numa máquina Windows.  | https://github.com/joaopedrordepaiva/MacroExploit | 0 | 0| 
-| 20210103T00:28:18Z | Router Exploitation Tools. Checks for WinBox Authentication Bypass Disclosure, RouterOS Jailbreak, Chimney-Blue SMB BufferOverflow & ByTheWay RCE | https://github.com/s1l3nt78/MkCheck | 53 | 16| 
+| 20210103T12:29:22Z | Using term structure to exploit volatility risk premium | https://github.com/jironghuang/volatility_risk_premium | 0 | 0| 
+| 20210103T12:12:14Z | CVE-2020–7961 Mass exploit for Script Kiddies | https://github.com/Udyz/CVE-2020-7961-Mass | 3 | 0| 
+| 20210103T12:03:38Z | Thi powershell script has got to run in remote windows host, even for pivoting | https://github.com/FabioDefilippo/winallenum | 0 | 1| 
+| 20210103T11:35:11Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 8848 | 1398| 
+| 20210103T11:26:50Z | Ronin is a Ruby platform for vulnerability research and exploit development. Ronin allows for the rapid development and distribution of code, Exploits or Payloads, Scanners, etc, via Repositories. | https://github.com/ronin-rb/ronin | 212 | 19| 
+| 20210103T11:14:27Z | this bash script is for remote linux hosts hacked! | https://github.com/FabioDefilippo/linuxallenum | 8 | 0| 
+| 20210103T10:43:00Z | Collection of exploits created for vulnerable programs, web applications, firmware, etc. | https://github.com/nobodyatall648/exploits | 0 | 1| 
+| 20210103T10:39:21Z | Windows Exploit Development Tutorial Series | https://github.com/whichbuffer/WindowsExploitDev | 0 | 0| 
+| 20210103T10:17:12Z | This bash script will help you to hack remote hosts  | https://github.com/FabioDefilippo/linuxallremote | 2 | 1| 
+| 20210103T09:55:20Z | Problems related to Cryptography, Web-exploitation, Reverse Engineering, Pwn and Forensics | https://github.com/Voker2311/CTF-Writeups | 0 | 0| 
 
 
 # backdoor on Github 推荐
