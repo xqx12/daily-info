@@ -47,11 +47,11 @@
 | 20210102T23:22:49Z | a collection of discord exploits and tools | https://github.com/Vexvain/Discord-Collection | 0 | 0| 
 | 20210102T22:41:08Z | Exploitation tool for SSRF (Server-Side Request Forgery) vulnerability | https://github.com/a0r4/goSSRF | 0 | 0| 
 | 20210102T22:22:50Z | Sifter is a OSINT, recon & vulnerability scanner. It incorporates a plethara of tools within different module sets that tries to cover every attack vector. Allowing you to quickly perform recon tasks and organize the results in one place. From OSINT to Recon, Exploitation, Post-Exploitation, OpSec, Threat Analysis, XSS, SQLinjection, Network Scanning, WebApp Analysis or DNS enumeration.. Sifter should be able to cover it all. | https://github.com/s1l3nt78/sifter | 336 | 100| 
-| 20210102T22:16:25Z | Go package that aids in binary analysis and exploitation | https://github.com/zznop/sploit | 143 | 17| 
 | 20210102T22:07:02Z | this bash script is for remote linux hosts hacked! | https://github.com/FabioDefilippo/linuxallenum | 8 | 0| 
 | 20210102T22:01:20Z | This bash script will help you to hack remote hosts  | https://github.com/FabioDefilippo/linuxallremote | 2 | 1| 
 | 20210102T21:18:27Z | Null | https://github.com/Evil-coder66/HTA-Exploit-Builder | 2 | 1| 
 | 20210102T21:07:03Z | Advanced dork Search & Mass Exploit Scanner | https://github.com/AlisamTechnology/ATSCAN | 779 | 305| 
+| 20210102T21:05:41Z | PS4 Exploit list | https://github.com/Hakkuraifu/PS4xploit | 18 | 4| 
 
 
 # backdoor on Github 推荐
