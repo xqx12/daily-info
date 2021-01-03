@@ -49,6 +49,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210103T13:22:56Z | A collection of BlockChain Solidity Smart Contracts: Building, Security & Exploits. Also exploring Cryptography (RSA, ECC) from Scratch. | https://github.com/SmartyPants042/BlockChain-Unchained | 0 | 0| 
 | 20210103T13:02:13Z | A free tool to scan php files and analyze your project to find any malicious code inside it. | https://github.com/marcocesarato/PHP-Antimalware-Scanner | 160 | 29| 
 | 20210103T12:29:22Z | Using term structure to exploit volatility risk premium | https://github.com/jironghuang/volatility_risk_premium | 0 | 0| 
 | 20210103T12:12:14Z | CVE-2020–7961 Mass exploit for Script Kiddies | https://github.com/Udyz/CVE-2020-7961-Mass | 3 | 0| 
@@ -58,7 +59,6 @@
 | 20210103T11:14:27Z | this bash script is for remote linux hosts hacked! | https://github.com/FabioDefilippo/linuxallenum | 8 | 0| 
 | 20210103T10:43:00Z | Collection of exploits created for vulnerable programs, web applications, firmware, etc. | https://github.com/nobodyatall648/exploits | 0 | 1| 
 | 20210103T10:39:21Z | Windows Exploit Development Tutorial Series | https://github.com/whichbuffer/WindowsExploitDev | 0 | 0| 
-| 20210103T10:17:12Z | This bash script will help you to hack remote hosts  | https://github.com/FabioDefilippo/linuxallremote | 2 | 1| 
 
 
 # backdoor on Github 推荐
