@@ -45,6 +45,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210103T02:17:56Z | PEDA - Python Exploit Development Assistance for GDB | https://github.com/longld/peda | 4383 | 720| 
 | 20210103T01:25:48Z | Go package that aids in binary analysis and exploitation | https://github.com/zznop/sploit | 144 | 17| 
 | 20210103T00:59:53Z | Exploitative Location using Structure inside Aisles  | https://github.com/karry3775/Elsia_ws | 0 | 0| 
 | 20210103T00:57:39Z | Exploit Gui for Game: https://www.roblox.com/games/5665787539/Relics-Gods-Of-Glory-BETA | https://github.com/DohmBoyOG/Gods-of-Glory-GUI | 0 | 0| 
@@ -54,7 +55,6 @@
 | 20210102T23:56:45Z | Various ASM, C and C++ tools, shellcodes and exploit experiments. | https://github.com/forrest-orr/ExploitDev | 30 | 1| 
 | 20210102T23:41:58Z | Null | https://github.com/brerodrigues/exploit_drafts | 0 | 0| 
 | 20210102T23:22:49Z | a collection of discord exploits and tools | https://github.com/Vexvain/Discord-Collection | 0 | 0| 
-| 20210102T22:41:08Z | Exploitation tool for SSRF (Server-Side Request Forgery) vulnerability | https://github.com/a0r4/goSSRF | 0 | 0| 
 
 
 # backdoor on Github 推荐
