@@ -11,6 +11,8 @@
 # 安全维基 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20210103 | Windows Lateral Movement Part 2 – DCOM | https://www.mdsec.co.uk/2020/09/i-like-to-move-it-windows-lateral-movement-part-2-dcom/| 
+| 20210103 | Windows Lateral Movement Part 1 – WMI Event Subscription | https://www.mdsec.co.uk/2020/09/i-like-to-move-it-windows-lateral-movement-part-1-wmi-event-subscription/| 
 | 20210102 | fire_vulnerability_scanner: 一款http协议的漏洞扫描框架 | https://github.com/coodyer/fire_vulnerability_scanner| 
 | 20210102 | 基于Docker的分布式OpenVAS(GVM) | https://www.freebuf.com/sectool/259225.html| 
 | 20210102 | Vulnerabilities of Machine Learning Infrastructure (Slides... | http://www.scada.sl/2020/12/vulnerabilities-of-machine-learning.html| 
@@ -28,10 +30,11 @@
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210103T09:55:40Z | Null | https://github.com/markhakansson/klee-tutorial | 0 | 0| 
+| 20210103T08:17:37Z | Data-driven symbolic execution engine, implemented on top of KLEE | https://github.com/kupl/dd-klee | 0 | 1| 
 | 20210102T22:34:35Z | Null | https://github.com/raynard2/SwiftKleen | 1 | 0| 
 | 20210102T19:34:55Z | Website for the KLEE project: https://klee.github.io/ | https://github.com/klee/klee.github.io | 14 | 41| 
 | 20210102T13:57:50Z | Null | https://github.com/viktorfrom/klee_tutorial | 0 | 0| 
-| 20210102T11:51:39Z | Null | https://github.com/markhakansson/klee-tutorial | 0 | 0| 
 | 20210101T22:22:54Z | Kleene algebra, regular expressions | https://github.com/phadej/kleene | 26 | 1| 
 | 20210101T07:11:36Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1591 | 477| 
 | 20210101T00:07:34Z | ( Create file store & Sell paid groups & Subscription system ) -> on kleeja | https://github.com/kleeja-official/kleeja_payment | 2 | 1| 
@@ -40,6 +43,7 @@
 # s2e on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210103T12:00:17Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 85 | 22| 
 
 
 # exploit on Github 推荐
@@ -60,16 +64,16 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210103T02:56:51Z | Null | https://github.com/cv1002/SoftwareProjectManagerBackdoor | 1 | 5| 
+| 20210103T11:50:46Z | Null | https://github.com/cv1002/SoftwareProjectManagerBackdoor | 1 | 5| 
+| 20210103T10:05:43Z | Fud Persistent Windows Backdoor developed purely in python | https://github.com/swagkarna/Chuvi-Botnet | 1 | 0| 
+| 20210103T09:17:35Z | Backdoors Framework for Deep Learning and Federated Learning. A light-weight tool to conduct your research on backdoors. | https://github.com/ebagdasa/backdoors101 | 41 | 7| 
+| 20210103T08:35:02Z | Null | https://github.com/grsoratoor/BackdoorBot | 0 | 0| 
+| 20210103T06:14:29Z | TrojanZoo provides a universal pytorch platform to conduct security researches (especially backdoor attacks/defenses) of image classification in deep learning. | https://github.com/ain-soph/trojanzoo | 19 | 3| 
+| 20210103T04:43:16Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 139 | 20| 
 | 20210103T02:17:24Z | Null | https://github.com/Yunolay/jpg-backdoor | 0 | 0| 
-| 20210102T19:04:58Z | TrojanZoo provides a universal pytorch platform to conduct security researches (especially backdoor attacks/defenses) of image classification in deep learning. | https://github.com/ain-soph/trojanzoo | 19 | 3| 
 | 20210102T15:46:52Z | A free tool to scan php files and analyze your project to find any malicious code inside it. | https://github.com/marcocesarato/PHP-Antimalware-Scanner | 160 | 29| 
 | 20210102T09:39:49Z | A protocol suite to individually backdoor end-to-end encrypted communications in compliance with the seperation of branches of power legal framework. | https://github.com/feketebv/E2EE_backdooring | 0 | 0| 
-| 20210102T08:42:09Z | Null | https://github.com/grsoratoor/BackdoorBot | 0 | 0| 
 | 20210102T07:45:04Z | A Potato-themed backdoor developed in C#.  | https://github.com/malwaredetective/spudnet | 0 | 0| 
-| 20210102T01:23:44Z | Analysis of SunBurst (SolarWinds) embedded backdoor | https://github.com/conikeec/sunburst-analysis | 0 | 1| 
-| 20210101T23:02:41Z | Null | https://github.com/MadsKaiser/backdoor | 0 | 0| 
-| 20210101T22:45:41Z | Null | https://github.com/mikkelskov1/backdoor2 | 0 | 0| 
 
 
 # fuzz on Github 推荐
