@@ -65,8 +65,8 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210103T13:50:15Z | Web Fuzzer | https://github.com/Ph3nX-Z/Shuriken | 1 | 0| 
 | 20210103T13:43:46Z | Diverse, the Fuzzer pico library you need to make your .NET tests more Diverse | https://github.com/42skillz/Diverse | 7 | 2| 
-| 20210103T13:38:54Z | Web Fuzzer | https://github.com/Ph3nX-Z/Shuriken | 1 | 0| 
 | 20210103T13:16:05Z | Fuzzy logic notes | https://github.com/foreverloop/fuzz | 0 | 0| 
 | 20210103T13:03:52Z | gitmoji selector on fzf | https://github.com/ShotaroKataoka/Fuzzy-Git-Operator | 2 | 0| 
 | 20210103T12:56:44Z | Null | https://github.com/st170774/Fuzzy-logic | 0 | 0| 
