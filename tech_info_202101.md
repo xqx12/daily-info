@@ -53,7 +53,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210104T01:55:20Z | Null | https://github.com/uesleineri/Exploits | 0 | 0| 
+| 20210104T01:57:17Z | Null | https://github.com/uesleineri/Exploits | 0 | 0| 
 | 20210104T01:20:50Z | Solutions for various binary exploitation challenges | https://github.com/volsa/pwn | 0 | 0| 
 | 20210104T00:55:32Z | Null | https://github.com/sheenieboy/ExploiterChat | 1 | 0| 
 | 20210104T00:27:06Z | Various ASM, C and C++ tools, shellcodes and exploit experiments. | https://github.com/forrest-orr/ExploitDev | 30 | 1| 
