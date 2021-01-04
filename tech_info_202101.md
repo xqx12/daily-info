@@ -69,16 +69,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210104T13:44:49Z | Null | https://github.com/lemon8888/Exploit-loopholes-and-claim-rights | 0 | 0| 
+| 20210104T13:44:48Z | Cheatsheet to exploit and learn SQL Injection. | https://github.com/AdmiralGaust/SQL-Injection-cheat-sheet | 25 | 13| 
 | 20210104T13:39:07Z | Exploit the dirtycow vulnerability to login as root | https://github.com/zakariamaaraki/Dirty-Cow | 0 | 0| 
 | 20210104T13:38:44Z | HTTP exploitation framework | https://github.com/DriftSec/gosploit | 0 | 0| 
 | 20210104T13:31:08Z | Open Source Projects that helps exploit Intel SGX technology | https://github.com/Maxul/Awesome-SGX-Open-Source | 21 | 6| 
-| 20210104T13:13:10Z | Cheatsheet to exploit and learn SQL Injection manually | https://github.com/AdmiralGaust/SQL-Injection-cheat-sheet | 25 | 13| 
 | 20210104T13:01:43Z | Null | https://github.com/tchtkpr/Roblox-Exploit-Scripts | 0 | 0| 
 | 20210104T12:49:37Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 6 | 3| 
 | 20210104T12:43:14Z | linux post-exploitation framework made by linux user | https://github.com/jm33-m0/emp3r0r | 150 | 30| 
 | 20210104T12:39:44Z | FOCUS is a context-aware collaborative-filtering system that exploits cross relationships among OSS projects to suggest the inclusion of additional API invocations and concrete API usage patterns. | https://github.com/crossminer/FOCUS | 6 | 8| 
 | 20210104T12:38:28Z | A repository for various scripts, exploits and payloads that will test your penetration. :cheeky: | https://github.com/laizz42/pentesting | 0 | 0| 
-| 20210104T12:26:14Z | An interactive memory info for pwning / exploiting | https://github.com/david942j/heapinfo | 82 | 11| 
 
 
 # backdoor on Github 推荐
