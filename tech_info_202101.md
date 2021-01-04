@@ -53,7 +53,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210104T02:48:23Z | DDOS Archive  by RootSec (Scanners, BotNets (Mirai and QBot Premium & Normal and more), Exploits, Methods, Sniffers) | https://github.com/R00tS3c/DDOS-RootSec | 33 | 23| 
+| 20210104T02:52:16Z | Exploit Database binary exploits located in the /sploits directory | https://github.com/offensive-security/exploitdb-bin-sploits | 1368 | 490| 
+| 20210104T02:52:06Z | DDOS Archive  by RootSec (Scanners, BotNets (Mirai and QBot Premium & Normal and more), Exploits, Methods, Sniffers) | https://github.com/R00tS3c/DDOS-RootSec | 33 | 23| 
 | 20210104T02:45:53Z | Process hollowing exploit written in Golang. Meant to be used with https://github.com/TheWover/donut | https://github.com/scottctaylor12/hollow-gost | 0 | 0| 
 | 20210104T02:42:18Z | A Remote Code Execution (RCE) exploit for Huawei HG532d based on CVE-2017-17215 vulnerability. Modded from original PoC code from exploit-db.com | https://github.com/wilfred-wulbou/HG532d-RCE-Exploit | 0 | 0| 
 | 20210104T01:57:17Z | Null | https://github.com/uesleineri/Exploits | 0 | 0| 
@@ -62,7 +63,6 @@
 | 20210104T00:27:06Z | Various ASM, C and C++ tools, shellcodes and exploit experiments. | https://github.com/forrest-orr/ExploitDev | 30 | 1| 
 | 20210103T23:36:08Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 8850 | 1397| 
 | 20210103T23:31:21Z | A post exploitation framework designed to operate covertly on heavily monitored environments | https://github.com/bats3c/shad0w | 1022 | 163| 
-| 20210103T23:26:29Z | QuickScript to download exploits from exploitdb | https://github.com/FrancescoDiSalesGithub/Downloadsploit | 0 | 0| 
 
 
 # backdoor on Github 推荐
@@ -83,7 +83,9 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210104T02:04:59Z | The Book %Generating Software Tests% | https://github.com/uds-se/fuzzingbook | 490 | 97| 
+| 20210104T02:46:34Z | Null | https://github.com/MatureChiu/fuzzy-training | 0 | 0| 
+| 20210104T02:33:47Z | The Book %Generating Software Tests% | https://github.com/uds-se/fuzzingbook | 491 | 97| 
+| 20210104T02:10:18Z | Null | https://github.com/mrfuzz12/FuzzCheat | 0 | 0| 
 | 20210104T01:33:54Z | Fuzzing cryptographic libraries. Magic bug printer go brrrr. | https://github.com/guidovranken/cryptofuzz | 230 | 31| 
 | 20210104T01:05:01Z | Mirror from oss-fuzz-local. | https://github.com/cyruscyliu/oss-fuzz | 0 | 0| 
 | 20210104T00:43:47Z | P2P platform for publishing content, self-hosting, decentralized curation, monetization, and more. | https://github.com/FuzzrNet/Fuzzr | 6 | 0| 
@@ -91,8 +93,6 @@
 | 20210104T00:31:21Z | Null | https://github.com/Poras08/Fuzzy-Framework | 0 | 0| 
 | 20210104T00:08:21Z | Fuzzy logic notes | https://github.com/foreverloop/fuzz | 0 | 0| 
 | 20210103T23:59:32Z | Null | https://github.com/isabellasims/fuzzy-octo | 0 | 1| 
-| 20210103T23:17:35Z | Thesis Dissertation | https://github.com/mchara01/webFuzz_Thesis | 0 | 0| 
-| 20210103T23:00:48Z | Personal website of Laurence Hughes | https://github.com/fuzzylogicxx/fuzzylogic | 4 | 1| 
 
 
 
