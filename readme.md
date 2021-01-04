@@ -43,13 +43,13 @@
 | 20210103T23:36:08Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 8850 | 1397| 
 | 20210103T23:31:21Z | A post exploitation framework designed to operate covertly on heavily monitored environments | https://github.com/bats3c/shad0w | 1022 | 163| 
 | 20210103T23:26:29Z | QuickScript to download exploits from exploitdb | https://github.com/FrancescoDiSalesGithub/Downloadsploit | 0 | 0| 
-| 20210103T23:20:50Z | Solutions for various binary exploitation challenges | https://github.com/volsa/pwn | 0 | 0| 
 | 20210103T21:55:44Z | Everest, Next-Gen Roblox Exploitation Hub, | https://github.com/Th3Tr1ckst3r/Everest | 0 | 0| 
 | 20210103T21:42:13Z | Null | https://github.com/winterfoxxy/xZOR-Exploit | 1 | 0| 
 | 20210103T21:41:55Z | HGB is a plugin that adds a Global Ban system to your server. Have you heard of CAX Bans? This is it, but Community-Edition™️. Malicious individuals such as cheaters, minge-groups, etc are added to this list and get banned from each server that has this plugin installed. The ban list is managed by me, and only I can add onto the list, so it is not exploitable in any way. The plugin also features a %Version Control% system. If there is ever a new version of the plugin released, you will see a message on your server console when you start up your server. | https://github.com/Aspect12/HHubGlobalBan | 0 | 0| 
 | 20210103T21:38:26Z | Hacking challenges write-ups | https://github.com/andrewbae/playground | 1 | 1| 
 | 20210103T21:26:11Z | -An Exploit Dev Swiss Army Knife.  | https://github.com/ant4g0nist/lisa.py | 583 | 110| 
 | 20210103T20:48:49Z | PS4 Exploit list | https://github.com/Hakkuraifu/PS4xploit | 18 | 6| 
+| 20210103T20:16:20Z | Welcome (: | https://github.com/ASMAR-Dev/SAI-Exploit | 0 | 0| 
 
 
 # backdoor on Github 推荐
