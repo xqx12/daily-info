@@ -53,7 +53,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210104T02:47:57Z | DDOS Archive  by RootSec (Scanners, BotNets (Mirai and QBot Premium & Normal and more), Exploits, Methods, Sniffers) | https://github.com/R00tS3c/DDOS-RootSec | 33 | 23| 
+| 20210104T02:48:23Z | DDOS Archive  by RootSec (Scanners, BotNets (Mirai and QBot Premium & Normal and more), Exploits, Methods, Sniffers) | https://github.com/R00tS3c/DDOS-RootSec | 33 | 23| 
 | 20210104T02:45:53Z | Process hollowing exploit written in Golang. Meant to be used with https://github.com/TheWover/donut | https://github.com/scottctaylor12/hollow-gost | 0 | 0| 
 | 20210104T02:42:18Z | A Remote Code Execution (RCE) exploit for Huawei HG532d based on CVE-2017-17215 vulnerability. Modded from original PoC code from exploit-db.com | https://github.com/wilfred-wulbou/HG532d-RCE-Exploit | 0 | 0| 
 | 20210104T01:57:17Z | Null | https://github.com/uesleineri/Exploits | 0 | 0| 
