@@ -53,6 +53,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210104T02:27:53Z | DDOS Archive  by RootSec (Scanners, BotNets (Mirai and QBot Premium & Normal and more), Exploits, Methods, Sniffers) | https://github.com/R00tS3c/DDOS-RootSec | 33 | 23| 
 | 20210104T01:57:17Z | Null | https://github.com/uesleineri/Exploits | 0 | 0| 
 | 20210104T01:20:50Z | Solutions for various binary exploitation challenges | https://github.com/volsa/pwn | 0 | 0| 
 | 20210104T00:55:32Z | Null | https://github.com/sheenieboy/ExploiterChat | 1 | 0| 
@@ -62,7 +63,6 @@
 | 20210103T23:26:29Z | QuickScript to download exploits from exploitdb | https://github.com/FrancescoDiSalesGithub/Downloadsploit | 0 | 0| 
 | 20210103T21:55:44Z | Everest, Next-Gen Roblox Exploitation Hub, | https://github.com/Th3Tr1ckst3r/Everest | 0 | 0| 
 | 20210103T21:42:13Z | Null | https://github.com/winterfoxxy/xZOR-Exploit | 1 | 0| 
-| 20210103T21:41:55Z | HGB is a plugin that adds a Global Ban system to your server. Have you heard of CAX Bans? This is it, but Community-Edition™️. Malicious individuals such as cheaters, minge-groups, etc are added to this list and get banned from each server that has this plugin installed. The ban list is managed by me, and only I can add onto the list, so it is not exploitable in any way. The plugin also features a %Version Control% system. If there is ever a new version of the plugin released, you will see a message on your server console when you start up your server. | https://github.com/Aspect12/HHubGlobalBan | 0 | 0| 
 
 
 # backdoor on Github 推荐
