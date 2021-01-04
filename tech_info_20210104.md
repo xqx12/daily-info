@@ -59,6 +59,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210104T13:31:08Z | Open Source Projects that helps exploit Intel SGX technology | https://github.com/Maxul/Awesome-SGX-Open-Source | 21 | 6| 
 | 20210104T13:13:10Z | Cheatsheet to exploit and learn SQL Injection manually | https://github.com/AdmiralGaust/SQL-Injection-cheat-sheet | 25 | 13| 
 | 20210104T13:01:43Z | Null | https://github.com/tchtkpr/Roblox-Exploit-Scripts | 0 | 0| 
 | 20210104T12:49:37Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 6 | 3| 
@@ -68,7 +69,6 @@
 | 20210104T12:26:14Z | An interactive memory info for pwning / exploiting | https://github.com/david942j/heapinfo | 82 | 11| 
 | 20210104T11:39:02Z | Generate pickle exploit for execute python code. | https://github.com/TomasGlgg/PickleExec | 0 | 0| 
 | 20210104T11:36:44Z | Some heap exploits | https://github.com/limitedeternity/HeapLAB | 0 | 0| 
-| 20210104T11:35:16Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 8850 | 1397| 
 
 
 # backdoor on Github 推荐
