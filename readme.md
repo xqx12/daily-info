@@ -70,16 +70,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210103T13:50:15Z | Web Fuzzer | https://github.com/Ph3nX-Z/Shuriken | 1 | 0| 
-| 20210103T13:43:46Z | Diverse, the Fuzzer pico library you need to make your .NET tests more Diverse | https://github.com/42skillz/Diverse | 7 | 2| 
-| 20210103T13:16:05Z | Fuzzy logic notes | https://github.com/foreverloop/fuzz | 0 | 0| 
-| 20210103T13:03:52Z | gitmoji selector on fzf | https://github.com/ShotaroKataoka/Fuzzy-Git-Operator | 2 | 0| 
-| 20210103T12:56:44Z | Null | https://github.com/st170774/Fuzzy-logic | 0 | 0| 
-| 20210103T12:54:48Z | Little mobile app I use to monitor getfursu.it | https://github.com/veelkoov/fuzzrake-hc-android | 0 | 0| 
-| 20210103T12:53:02Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 1219 | 260| 
-| 20210103T12:12:41Z | Fuzz testing in the unit and integration phase with fuzz data from FuzzDB | https://github.com/fuzzdbunit/fuzzdbunit | 0 | 0| 
-| 20210103T11:46:51Z | Quick Screen Burn Remedy. Place in fullscreen to utilize. | https://github.com/taisel/ScreenFuzz | 0 | 0| 
-| 20210103T11:40:07Z | А procedural macro to be used for testing/fuzzing stateful models against a semantically equivalent but obviously correct implementation | https://github.com/jakubadamw/rutenspitz | 39 | 2| 
+| 20210103T23:59:32Z | Null | https://github.com/isabellasims/fuzzy-octo | 0 | 1| 
+| 20210103T23:17:35Z | Thesis Dissertation | https://github.com/mchara01/webFuzz_Thesis | 0 | 0| 
+| 20210103T23:00:48Z | Personal website of Laurence Hughes | https://github.com/fuzzylogicxx/fuzzylogic | 4 | 1| 
+| 20210103T22:39:28Z | Diverse, the Fuzzer pico library you need to make your .NET tests more Diverse | https://github.com/42skillz/Diverse | 7 | 2| 
+| 20210103T21:59:31Z | Open redirect scanner/fuzzer/finder written in Go.  | https://github.com/crawl3r/redirectplz | 0 | 0| 
+| 20210103T21:32:40Z | A lazy approach to fuzzing parameters for SSTI | https://github.com/crawl3r/lazyssti | 0 | 0| 
+| 20210103T21:23:19Z | Repository holding database dumps from getfursu.it | https://github.com/veelkoov/fuzzrake-data | 0 | 0| 
+| 20210103T20:47:08Z | Fuzzy Logic Controller for Controlling a Mobile Robot with Obstacle avoidance behaviour | https://github.com/montjoile/fuzzy_controller | 0 | 0| 
+| 20210103T20:10:16Z | The MATLAB code for the research paper titled %Self-Organizing Fuzzy Inference Ensemble System for Big Streaming Data Classification%. | https://github.com/Gu-X/Self-Organizing-Fuzzy-Inference-Ensemble-System | 0 | 0| 
+| 20210103T20:00:39Z | Pi rates dnd chamgne  | https://github.com/nickcanny/fuzzy-waddle | 0 | 0| 
 
 
 
