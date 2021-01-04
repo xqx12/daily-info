@@ -99,6 +99,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210104T13:06:25Z | Null | https://github.com/mrosyidridho06/FuzzyInferenceSystem_Karyawan | 0 | 0| 
 | 20210104T12:43:37Z | A toy Fuzzer for wasm fuzzing based on fuzzilli | https://github.com/P1umer/fuzzilli4wasm | 12 | 2| 
 | 20210104T12:21:44Z | gitmoji selector on fzf | https://github.com/ShotaroKataoka/Fuzzy-Git-Operator | 2 | 0| 
 | 20210104T12:12:19Z | Null | https://github.com/ethereum/solidity-fuzzing-corpus | 10 | 4| 
@@ -108,7 +109,6 @@
 | 20210104T11:00:17Z | Null | https://github.com/s9varesc/url-fuzzing-docker | 0 | 0| 
 | 20210104T10:58:39Z | The C4 Concurrent C Fuzzer | https://github.com/c4-project/c4f | 7 | 1| 
 | 20210104T10:56:27Z | Null | https://github.com/s9varesc/url-fuzzing | 0 | 0| 
-| 20210104T10:02:13Z | Null | https://github.com/k-matti/fuzzy-couscous | 0 | 1| 
 
 
 
