@@ -71,20 +71,29 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210104T12:34:23Z | Backdoor web | https://github.com/mkdirmatias/backdoor-php | 0 | 0| 
+| 20210104T12:29:11Z | Null | https://github.com/cv1002/SoftwareProjectManagerBackdoor | 1 | 5| 
+| 20210104T12:18:25Z | Simple Backdoor Manager with Python (based on weevely) | https://github.com/tegal1337/Shelly | 42 | 17| 
+| 20210104T10:40:22Z | A force op or backdoor minecraft plugin which can be used to get OP on a minecraft server | https://github.com/MOMIN5/force-op-backdoor-plugin | 0 | 0| 
+| 20210104T09:46:38Z | PCI Express DIY hacking toolkit for Xilinx SP605 | https://github.com/Cr4sh/s6_pcie_microblaze | 292 | 75| 
+| 20210104T08:31:07Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 139 | 20| 
+| 20210104T08:01:41Z | Detect ip address in apk file to find backdoor app%s owner | https://github.com/JuyunLee/apk_ip_hunter | 0 | 0| 
+| 20210104T05:39:28Z | Analysis of SunBurst (SolarWinds) embedded backdoor | https://github.com/conikeec/sunburst-analysis | 1 | 1| 
 
 
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210104T02:46:34Z | Null | https://github.com/MatureChiu/fuzzy-training | 0 | 0| 
-| 20210104T02:33:47Z | The Book %Generating Software Tests% | https://github.com/uds-se/fuzzingbook | 491 | 97| 
-| 20210104T02:10:18Z | Null | https://github.com/mrfuzz12/FuzzCheat | 0 | 0| 
-| 20210104T01:33:54Z | Fuzzing cryptographic libraries. Magic bug printer go brrrr. | https://github.com/guidovranken/cryptofuzz | 230 | 31| 
-| 20210104T01:05:01Z | Mirror from oss-fuzz-local. | https://github.com/cyruscyliu/oss-fuzz | 0 | 0| 
-| 20210104T00:43:47Z | P2P platform for publishing content, self-hosting, decentralized curation, monetization, and more. | https://github.com/FuzzrNet/Fuzzr | 6 | 0| 
-| 20210104T00:41:41Z | Quick Screen Burn Remedy. Place in fullscreen to utilize. | https://github.com/taisel/ScreenFuzz | 0 | 0| 
-| 20210104T00:31:21Z | Null | https://github.com/Poras08/Fuzzy-Framework | 0 | 0| 
-| 20210104T00:08:21Z | Fuzzy logic notes | https://github.com/foreverloop/fuzz | 0 | 0| 
+| 20210104T12:43:37Z | A toy Fuzzer for wasm fuzzing based on fuzzilli | https://github.com/P1umer/fuzzilli4wasm | 12 | 2| 
+| 20210104T12:21:44Z | gitmoji selector on fzf | https://github.com/ShotaroKataoka/Fuzzy-Git-Operator | 2 | 0| 
+| 20210104T12:12:19Z | Null | https://github.com/ethereum/solidity-fuzzing-corpus | 10 | 4| 
+| 20210104T12:04:41Z | Null | https://github.com/Kremona1924/fuzzy-octo-umbrella | 0 | 0| 
+| 20210104T11:43:51Z | The happiest repository. | https://github.com/belindakooman/fuzzy-happiness | 0 | 0| 
+| 20210104T11:28:31Z | The MATLAB pcode for the research paper titled %Particle Swarm Optimized Autonomous Learning Fuzzy System%. | https://github.com/Gu-X/Particle-Swarm-Optimized-Autonomous-Learning-Fuzzy-System | 0 | 0| 
+| 20210104T11:00:17Z | Null | https://github.com/s9varesc/url-fuzzing-docker | 0 | 0| 
+| 20210104T10:58:39Z | The C4 Concurrent C Fuzzer | https://github.com/c4-project/c4f | 7 | 1| 
+| 20210104T10:56:27Z | Null | https://github.com/s9varesc/url-fuzzing | 0 | 0| 
+| 20210104T10:02:13Z | Null | https://github.com/k-matti/fuzzy-couscous | 0 | 1| 
 
 
 
