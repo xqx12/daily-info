@@ -53,7 +53,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210104T02:42:36Z | DDOS Archive  by RootSec (Scanners, BotNets (Mirai and QBot Premium & Normal and more), Exploits, Methods, Sniffers) | https://github.com/R00tS3c/DDOS-RootSec | 33 | 23| 
+| 20210104T02:47:57Z | DDOS Archive  by RootSec (Scanners, BotNets (Mirai and QBot Premium & Normal and more), Exploits, Methods, Sniffers) | https://github.com/R00tS3c/DDOS-RootSec | 33 | 23| 
+| 20210104T02:45:53Z | Process hollowing exploit written in Golang. Meant to be used with https://github.com/TheWover/donut | https://github.com/scottctaylor12/hollow-gost | 0 | 0| 
 | 20210104T02:42:18Z | A Remote Code Execution (RCE) exploit for Huawei HG532d based on CVE-2017-17215 vulnerability. Modded from original PoC code from exploit-db.com | https://github.com/wilfred-wulbou/HG532d-RCE-Exploit | 0 | 0| 
 | 20210104T01:57:17Z | Null | https://github.com/uesleineri/Exploits | 0 | 0| 
 | 20210104T01:20:50Z | Solutions for various binary exploitation challenges | https://github.com/volsa/pwn | 0 | 0| 
@@ -62,7 +63,6 @@
 | 20210103T23:36:08Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 8850 | 1397| 
 | 20210103T23:31:21Z | A post exploitation framework designed to operate covertly on heavily monitored environments | https://github.com/bats3c/shad0w | 1022 | 163| 
 | 20210103T23:26:29Z | QuickScript to download exploits from exploitdb | https://github.com/FrancescoDiSalesGithub/Downloadsploit | 0 | 0| 
-| 20210103T21:55:44Z | Everest, Next-Gen Roblox Exploitation Hub, | https://github.com/Th3Tr1ckst3r/Everest | 0 | 0| 
 
 
 # backdoor on Github 推荐
