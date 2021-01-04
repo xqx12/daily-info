@@ -53,6 +53,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210104T01:55:20Z | Null | https://github.com/uesleineri/Exploits | 0 | 0| 
 | 20210104T01:20:50Z | Solutions for various binary exploitation challenges | https://github.com/volsa/pwn | 0 | 0| 
 | 20210104T00:55:32Z | Null | https://github.com/sheenieboy/ExploiterChat | 1 | 0| 
 | 20210104T00:27:06Z | Various ASM, C and C++ tools, shellcodes and exploit experiments. | https://github.com/forrest-orr/ExploitDev | 30 | 1| 
@@ -62,7 +63,6 @@
 | 20210103T21:55:44Z | Everest, Next-Gen Roblox Exploitation Hub, | https://github.com/Th3Tr1ckst3r/Everest | 0 | 0| 
 | 20210103T21:42:13Z | Null | https://github.com/winterfoxxy/xZOR-Exploit | 1 | 0| 
 | 20210103T21:41:55Z | HGB is a plugin that adds a Global Ban system to your server. Have you heard of CAX Bans? This is it, but Community-Edition™️. Malicious individuals such as cheaters, minge-groups, etc are added to this list and get banned from each server that has this plugin installed. The ban list is managed by me, and only I can add onto the list, so it is not exploitable in any way. The plugin also features a %Version Control% system. If there is ever a new version of the plugin released, you will see a message on your server console when you start up your server. | https://github.com/Aspect12/HHubGlobalBan | 0 | 0| 
-| 20210103T21:38:26Z | Hacking challenges write-ups | https://github.com/andrewbae/playground | 1 | 1| 
 
 
 # backdoor on Github 推荐
