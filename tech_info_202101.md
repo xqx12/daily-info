@@ -52,7 +52,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210104T01:17:22Z | Solutions for various binary exploitation challenges | https://github.com/volsa/pwn | 0 | 0| 
+| 20210104T01:20:50Z | Solutions for various binary exploitation challenges | https://github.com/volsa/pwn | 0 | 0| 
 | 20210104T00:55:32Z | Null | https://github.com/sheenieboy/ExploiterChat | 1 | 0| 
 | 20210104T00:27:06Z | Various ASM, C and C++ tools, shellcodes and exploit experiments. | https://github.com/forrest-orr/ExploitDev | 30 | 1| 
 | 20210103T23:36:08Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 8850 | 1397| 
