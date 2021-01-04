@@ -53,7 +53,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210104T02:38:54Z | DDOS Archive  by RootSec (Scanners, BotNets (Mirai and QBot Premium & Normal and more), Exploits, Methods, Sniffers) | https://github.com/R00tS3c/DDOS-RootSec | 33 | 23| 
+| 20210104T02:41:44Z | DDOS Archive  by RootSec (Scanners, BotNets (Mirai and QBot Premium & Normal and more), Exploits, Methods, Sniffers) | https://github.com/R00tS3c/DDOS-RootSec | 33 | 23| 
 | 20210104T01:57:17Z | Null | https://github.com/uesleineri/Exploits | 0 | 0| 
 | 20210104T01:20:50Z | Solutions for various binary exploitation challenges | https://github.com/volsa/pwn | 0 | 0| 
 | 20210104T00:55:32Z | Null | https://github.com/sheenieboy/ExploiterChat | 1 | 0| 
