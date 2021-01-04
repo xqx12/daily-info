@@ -18,6 +18,9 @@
 | 20210104 | 各类 IoT 设备/Web 组件的默认密码收集 | https://sec.today/pulses/57bb415e-2aad-49b5-9e44-0819f84ac5a5/| 
 | 20210104 | 劫持 TLS 流量的 PowerShell 脚本 | https://sec.today/pulses/da49c3ba-005a-4627-9d4a-482c08b0c91d/| 
 | 20210104 | SysWhispers2 - 通过直接生成 Syscall 的方式绕过 AV/EDR 的检测 | https://sec.today/pulses/5c7fbc9c-d24c-42b0-b9a4-398cd9838be8/| 
+| 20210104 | 各类 IoT 设备/Web 组件的默认密码收集 | https://github.com/ihebski/DefaultCreds-cheat-sheet| 
+| 20210104 | 劫持 TLS 流量的 PowerShell 脚本 | https://github.com/secdev-01/Interceptor| 
+| 20210104 | SysWhispers2 - 通过直接生成 Syscall 的方式绕过 AV/EDR 的检测 | https://github.com/jthuraisamy/SysWhispers2| 
 
 
 # 安全维基 推荐
