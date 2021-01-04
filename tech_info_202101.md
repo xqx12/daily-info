@@ -83,8 +83,8 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210104T02:04:59Z | The Book %Generating Software Tests% | https://github.com/uds-se/fuzzingbook | 490 | 97| 
 | 20210104T01:33:54Z | Fuzzing cryptographic libraries. Magic bug printer go brrrr. | https://github.com/guidovranken/cryptofuzz | 230 | 31| 
-| 20210104T01:31:41Z | The Book %Generating Software Tests% | https://github.com/uds-se/fuzzingbook | 489 | 96| 
 | 20210104T01:05:01Z | Mirror from oss-fuzz-local. | https://github.com/cyruscyliu/oss-fuzz | 0 | 0| 
 | 20210104T00:43:47Z | P2P platform for publishing content, self-hosting, decentralized curation, monetization, and more. | https://github.com/FuzzrNet/Fuzzr | 6 | 0| 
 | 20210104T00:41:41Z | Quick Screen Burn Remedy. Place in fullscreen to utilize. | https://github.com/taisel/ScreenFuzz | 0 | 0| 
