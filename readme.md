@@ -49,6 +49,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210105T13:05:03Z | Hacking challenges write-ups | https://github.com/andrewbae/playground | 1 | 1| 
 | 20210105T13:02:16Z | k8gege.org - K8哥哥%s Blog | https://github.com/k8gege/k8gege.github.io | 11 | 6| 
 | 20210105T12:50:08Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 6 | 3| 
 | 20210105T12:14:15Z | The official Exploit Database repository | https://github.com/offensive-security/exploitdb | 5795 | 1660| 
@@ -58,7 +59,6 @@
 | 20210105T11:35:14Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 8853 | 1399| 
 | 20210105T11:28:06Z | PEDA - Python Exploit Development Assistance for GDB | https://github.com/0xKira/peda | 9 | 4| 
 | 20210105T11:13:37Z | CTF竞赛权威指南(Pwn篇) | https://github.com/firmianay/CTF-All-In-One | 2287 | 463| 
-| 20210105T09:56:07Z | Null | https://github.com/Strinux99/Binary-Exploitation | 1 | 0| 
 
 
 # backdoor on Github 推荐
