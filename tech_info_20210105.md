@@ -16,6 +16,7 @@
 | 20210105 | 研究员 Alisa Esage 公开了两个之前会议演讲的视频 | https://www.youtube.com/channel/UC-a8hBNKa-n0O5bjRu-_Khw| 
 | 20210105 | 研究员 Anant Shrivastava 关于 Android Security 培训的资料 | https://github.com/anantshri/Android_Security| 
 | 20210105 | XNU 内核 socket UAF 漏洞分析 | https://sec.today/pulses/7fbac7bc-3db1-4d5b-b0c5-0169e841b79f/| 
+| 20210105 | XNU 内核 socket UAF 漏洞分析 | https://blog.pangu.io/?p=230| 
 
 
 # 安全维基 推荐
@@ -48,7 +49,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210105T12:57:04Z | k8gege.org - K8哥哥%s Blog | https://github.com/k8gege/k8gege.github.io | 11 | 6| 
+| 20210105T13:02:16Z | k8gege.org - K8哥哥%s Blog | https://github.com/k8gege/k8gege.github.io | 11 | 6| 
 | 20210105T12:50:08Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 6 | 3| 
 | 20210105T12:14:15Z | The official Exploit Database repository | https://github.com/offensive-security/exploitdb | 5795 | 1660| 
 | 20210105T12:14:09Z | sploitSMBGHOST Vulnerability Scanning and Exploiting | https://github.com/iamramahibrah/sploitSMBGHOST | 0 | 0| 

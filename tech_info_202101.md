@@ -16,6 +16,7 @@
 | 20210105 | 研究员 Alisa Esage 公开了两个之前会议演讲的视频 | https://www.youtube.com/channel/UC-a8hBNKa-n0O5bjRu-_Khw| 
 | 20210105 | 研究员 Anant Shrivastava 关于 Android Security 培训的资料 | https://github.com/anantshri/Android_Security| 
 | 20210105 | XNU 内核 socket UAF 漏洞分析 | https://sec.today/pulses/7fbac7bc-3db1-4d5b-b0c5-0169e841b79f/| 
+| 20210105 | XNU 内核 socket UAF 漏洞分析 | https://blog.pangu.io/?p=230| 
 | 20210104 | JavaScriptCore Internals Part II: The LLInt and Baseline JIT | https://zon8.re/posts/jsc-internals-part2-the-llint-and-baseline-jit/| 
 | 20210104 | 研究员 Simon Scannell 公开的几个 Exploits | https://github.com/scannells/exploits| 
 | 20210104 | 一个普通的栈溢出漏洞在新版本的 Windows 系统中该如何利用 | https://www.forrest-orr.net/post/a-modern-exploration-of-windows-memory-corruption-exploits-part-i-stack-overflows| 
@@ -25,7 +26,6 @@
 | 20210104 | iOS 越狱调试环境搭建 | https://understruction.com/setting-up-ios-debugging| 
 | 20210104 | Awesome CobaltStrike Defence 资料整理 | https://github.com/MichaelKoczwara/Awesome-CobaltStrike-Defence| 
 | 20210104 | E9Patch - A Powerful Static Binary Rewriter | https://github.com/GJDuck/e9patch| 
-| 20210104 | 各类 IoT 设备/Web 组件的默认密码收集 | https://sec.today/pulses/57bb415e-2aad-49b5-9e44-0819f84ac5a5/| 
 
 
 # 安全维基 推荐
@@ -71,7 +71,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210105T12:57:04Z | k8gege.org - K8哥哥%s Blog | https://github.com/k8gege/k8gege.github.io | 11 | 6| 
+| 20210105T13:02:16Z | k8gege.org - K8哥哥%s Blog | https://github.com/k8gege/k8gege.github.io | 11 | 6| 
 | 20210105T12:50:08Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 6 | 3| 
 | 20210105T12:14:15Z | The official Exploit Database repository | https://github.com/offensive-security/exploitdb | 5795 | 1660| 
 | 20210105T12:14:09Z | sploitSMBGHOST Vulnerability Scanning and Exploiting | https://github.com/iamramahibrah/sploitSMBGHOST | 0 | 0| 
