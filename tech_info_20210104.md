@@ -68,10 +68,10 @@
 | 20210104T22:57:24Z | Exploits nested.parallel and nested.optimize to tune neuronal cell models | https://github.com/neurosutras/optimize_cells | 1 | 1| 
 | 20210104T22:56:13Z | Code to exploit iOS 3.1 - 3.1.3 iBoot USB Bug. | https://github.com/Exploite-d/sn0wpwn | 0 | 0| 
 | 20210104T22:54:35Z | Everest, Next-Gen Roblox Exploitation Hub, | https://github.com/Th3Tr1ckst3r/Everest | 0 | 0| 
-| 20210104T22:35:34Z | Protekt Protocol puts crypto to work insuring users against hacks, bugs, and exploits of any DeFi protocol or smart contract. The goal is to support and catalyze the growth of the DeFi ecosystem by protecting users from getting rekt. | https://github.com/ProtektProtocol/protekt-protocol-contracts | 4 | 1| 
 | 20210104T22:15:58Z | Exploitation paths allowing you to (mis)use the Windows Privileges to elevate your rights within the OS. | https://github.com/gtworek/Priv2Admin | 268 | 60| 
 | 20210104T22:00:19Z | Metasploit as a Service with exploit examples | https://github.com/Kaizhe/attacker | 1 | 2| 
 | 20210104T21:19:07Z | Les ressources pour la présentation sur l%exploitation | https://github.com/jorkanofaln/presentationExploitation | 0 | 0| 
+| 20210104T21:12:54Z | Zero-day and Exploit code of some vulnerable applications | https://github.com/mustgundogdu/Research | 0 | 0| 
 
 
 # backdoor on Github 推荐

@@ -70,6 +70,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210105T01:59:24Z | Protekt Protocol puts crypto to work insuring users against hacks, bugs, and exploits of any DeFi protocol or smart contract. The goal is to support and catalyze the growth of the DeFi ecosystem by protecting users from getting rekt. | https://github.com/ProtektProtocol/protekt-protocol-contracts | 4 | 1| 
 | 20210105T01:37:35Z | exploit-database-papers | https://github.com/offensive-security/exploitdb-papers | 276 | 39| 
 | 20210105T01:34:55Z | WordPress Plugins Duplicator Arbitrary File Read Vulnerability | https://github.com/pwndream/wp-duplicator-exploit | 1 | 0| 
 | 20210105T01:01:01Z | A 4 member final project that simulated a real-world Pentest where it was required to scan, exploit and suggest potential remediations. The project was for 1 month and it was completed under 3 weeks by the group and under 2 days the complete technical report was completed including network design and executive summary highlighting necessary information and steps to hiding masked DJ identity information. | https://github.com/shoumitkarnik/Penetration-Testing-Report-MaskedDJ | 0 | 0| 
@@ -79,7 +80,6 @@
 | 20210105T00:24:12Z | A tool that uses Masscan to identify open ports I have exploits for.  | https://github.com/sho-luv/mass-effect | 1 | 0| 
 | 20210105T00:19:49Z | This bash script will help you to hack remote hosts  | https://github.com/FabioDefilippo/linuxallremote | 2 | 1| 
 | 20210105T00:17:41Z | A phased, evasive Path Traversal + LFI scanning & exploitation tool in Python | https://github.com/VainlyStrain/Vailyn | 77 | 2| 
-| 20210105T00:09:21Z | Zenith configs. Exploit them at your own risk. | https://github.com/egorbelibov/unix_configs | 1 | 0| 
 
 
 # backdoor on Github 推荐
