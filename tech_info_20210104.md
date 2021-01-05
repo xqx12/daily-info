@@ -51,7 +51,6 @@
 | 20210104T11:45:59Z | Null | https://github.com/viktorfrom/klee_tutorial | 0 | 0| 
 | 20210104T07:22:14Z | Null | https://github.com/markhakansson/klee-tutorial | 0 | 0| 
 | 20210104T04:04:56Z | Null | https://github.com/raynard2/SwiftKleen | 1 | 0| 
-| 20210104T01:46:52Z | Create CFGs and compute complexity metrics for Python, C++, and Java code. | https://github.com/hmc-alpaqa/metrinome | 5 | 0| 
 
 
 # s2e on Github 推荐
