@@ -70,6 +70,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210105T01:27:39Z | WordPress Plugins Duplicator Arbitrary File Read Vulnerability | https://github.com/pwndream/wp-duplicator-exploit | 1 | 0| 
 | 20210105T01:01:01Z | A 4 member final project that simulated a real-world Pentest where it was required to scan, exploit and suggest potential remediations. The project was for 1 month and it was completed under 3 weeks by the group and under 2 days the complete technical report was completed including network design and executive summary highlighting necessary information and steps to hiding masked DJ identity information. | https://github.com/shoumitkarnik/Penetration-Testing-Report-MaskedDJ | 0 | 0| 
 | 20210105T00:56:39Z | A Roblox exploit | https://github.com/Dlunhappy226/Roblox-hack | 0 | 0| 
 | 20210105T00:49:36Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 6 | 3| 
@@ -79,7 +80,6 @@
 | 20210105T00:17:41Z | A phased, evasive Path Traversal + LFI scanning & exploitation tool in Python | https://github.com/VainlyStrain/Vailyn | 77 | 2| 
 | 20210105T00:09:21Z | Zenith configs. Exploit them at your own risk. | https://github.com/egorbelibov/unix_configs | 1 | 0| 
 | 20210104T23:52:08Z | Exploiting a vulnerable software in the name of PCMan FTP Server who allows remote attackers to execute arbitrary code via a long string in a USER command, and exploiting it using some Python scripts  | https://github.com/Al4DIN/Buffer-Overflow-Attack-On-Windows | 0 | 0| 
-| 20210104T23:32:12Z | A post exploitation framework designed to operate covertly on heavily monitored environments | https://github.com/bats3c/shad0w | 1024 | 164| 
 
 
 # backdoor on Github 推荐
