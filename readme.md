@@ -77,7 +77,6 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210104T22:32:10Z | TrojanZoo provides a universal pytorch platform to conduct security researches (especially backdoor attacks/defenses) of image classification in deep learning. | https://github.com/ain-soph/trojanzoo | 20 | 4| 
 | 20210104T18:56:32Z | Null | https://github.com/rtykholiz/backdoors | 0 | 0| 
 | 20210104T18:45:47Z | PCI Express DIY hacking toolkit for Xilinx SP605 | https://github.com/Cr4sh/s6_pcie_microblaze | 292 | 75| 
 | 20210104T18:32:07Z | Backdoor Shell | https://github.com/kaitolegion/Backdoor | 1 | 4| 
@@ -87,6 +86,7 @@
 | 20210104T14:41:41Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 138 | 20| 
 | 20210104T14:33:56Z | A force op or backdoor minecraft plugin which can be used to get OP on a minecraft server | https://github.com/MOMIN5/force-op-backdoor-plugin | 1 | 0| 
 | 20210104T12:34:23Z | Backdoor web | https://github.com/mkdirmatias/backdoor-php | 0 | 0| 
+| 20210104T12:29:11Z | Null | https://github.com/cv1002/SoftwareProjectManagerBackdoor | 1 | 5| 
 
 
 # fuzz on Github 推荐
