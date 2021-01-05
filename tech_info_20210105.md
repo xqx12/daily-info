@@ -73,6 +73,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210105T13:45:52Z | Fuzzy Logic for Python 3 | https://github.com/amogorkon/fuzzylogic | 13 | 6| 
 | 20210105T13:13:41Z | Diverse, the Fuzzer pico library you need to make your .NET tests more Diverse | https://github.com/42skillz/Diverse | 9 | 2| 
 | 20210105T12:49:02Z | Null | https://github.com/mrosyidridho06/FuzzyInferenceSystem_Karyawan | 0 | 0| 
 | 20210105T12:33:37Z | Binary, coverage-guided fuzzer for Windows and macOS | https://github.com/googleprojectzero/Jackalope | 431 | 40| 
@@ -82,7 +83,6 @@
 | 20210105T11:43:06Z | Null | https://github.com/s9varesc/url-fuzzing | 0 | 0| 
 | 20210105T11:40:21Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 29166 | 14660| 
 | 20210105T11:36:19Z | Fuzzing cryptographic libraries. Magic bug printer go brrrr. | https://github.com/guidovranken/cryptofuzz | 230 | 31| 
-| 20210105T11:32:03Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 3296 | 758| 
 
 
 
