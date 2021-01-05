@@ -70,6 +70,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210105T02:16:14Z | Using term structure to exploit volatility risk premium | https://github.com/jironghuang/volatility_risk_premium | 0 | 0| 
 | 20210105T01:59:24Z | Protekt Protocol puts crypto to work insuring users against hacks, bugs, and exploits of any DeFi protocol or smart contract. The goal is to support and catalyze the growth of the DeFi ecosystem by protecting users from getting rekt. | https://github.com/ProtektProtocol/protekt-protocol-contracts | 4 | 1| 
 | 20210105T01:37:35Z | exploit-database-papers | https://github.com/offensive-security/exploitdb-papers | 276 | 39| 
 | 20210105T01:34:55Z | WordPress Plugins Duplicator Arbitrary File Read Vulnerability | https://github.com/pwndream/wp-duplicator-exploit | 1 | 0| 
@@ -79,7 +80,6 @@
 | 20210105T00:34:58Z | this bash script is for remote linux hosts hacked! | https://github.com/FabioDefilippo/linuxallenum | 9 | 0| 
 | 20210105T00:24:12Z | A tool that uses Masscan to identify open ports I have exploits for.  | https://github.com/sho-luv/mass-effect | 1 | 0| 
 | 20210105T00:19:49Z | This bash script will help you to hack remote hosts  | https://github.com/FabioDefilippo/linuxallremote | 2 | 1| 
-| 20210105T00:17:41Z | A phased, evasive Path Traversal + LFI scanning & exploitation tool in Python | https://github.com/VainlyStrain/Vailyn | 77 | 2| 
 
 
 # backdoor on Github 推荐
