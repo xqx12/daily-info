@@ -101,6 +101,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210105T13:50:56Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2241 | 113| 
 | 20210105T13:45:52Z | Fuzzy Logic for Python 3 | https://github.com/amogorkon/fuzzylogic | 13 | 6| 
 | 20210105T13:13:41Z | Diverse, the Fuzzer pico library you need to make your .NET tests more Diverse | https://github.com/42skillz/Diverse | 9 | 2| 
 | 20210105T12:49:02Z | Null | https://github.com/mrosyidridho06/FuzzyInferenceSystem_Karyawan | 0 | 0| 
@@ -110,7 +111,6 @@
 | 20210105T12:02:26Z | gitmoji selector on fzf | https://github.com/ShotaroKataoka/Fuzzy-Git-Operator | 2 | 0| 
 | 20210105T11:43:06Z | Null | https://github.com/s9varesc/url-fuzzing | 0 | 0| 
 | 20210105T11:40:21Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 29166 | 14660| 
-| 20210105T11:36:19Z | Fuzzing cryptographic libraries. Magic bug printer go brrrr. | https://github.com/guidovranken/cryptofuzz | 230 | 31| 
 
 
 
