@@ -21,6 +21,7 @@
 | 20210104 | 各类 IoT 设备/Web 组件的默认密码收集 | https://github.com/ihebski/DefaultCreds-cheat-sheet| 
 | 20210104 | 劫持 TLS 流量的 PowerShell 脚本 | https://github.com/secdev-01/Interceptor| 
 | 20210104 | SysWhispers2 - 通过直接生成 Syscall 的方式绕过 AV/EDR 的检测 | https://github.com/jthuraisamy/SysWhispers2| 
+| 20210104 | Viper:是一款图形化红队评估工具,将红队评估过程中常用的战术及技术进行模块集成所有功能必备。 | https://github.com/FunnyWolf/Viper| 
 
 
 # 安全维基 推荐
@@ -35,6 +36,7 @@
 | 20210104 | SecWiki周刊（第357期) | https://www.sec-wiki.com/weekly/357| 
 | 20210104 | How to Look for Ideas in Computer Science Research | https://zhiyunq.medium.com/how-to-look-for-ideas-in-computer-science-research-7a3fa6f4696f| 
 | 20210104 | 基于语义token分析的克隆代码检测系统 | https://mp.weixin.qq.com/s/e_NvzMbOqDspns3VLXBjYw| 
+| 20210104 | 消费级物联网安全基线 | https://github.com/MiSecurity/Cyber-Security-Baseline-for-Consumer-Internet-of-Things/blob/main/resources/pdf/%E6%B6%88%E8%B4%B9%E7%BA%A7%E7%89%A9%E8%81%94%E7%BD%91%E5%AE%89%E5%85%A8%E5%9F%BA%E7%BA%BF.pdf| 
 
 
 # CVE Github 推荐
@@ -45,6 +47,7 @@
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210104T15:46:38Z | Data-driven symbolic execution engine, implemented on top of KLEE | https://github.com/kupl/dd-klee | 0 | 1| 
 | 20210104T11:45:59Z | Null | https://github.com/viktorfrom/klee_tutorial | 0 | 0| 
 | 20210104T07:22:14Z | Null | https://github.com/markhakansson/klee-tutorial | 0 | 0| 
 | 20210104T04:04:56Z | Null | https://github.com/raynard2/SwiftKleen | 1 | 0| 
@@ -59,29 +62,31 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210104T13:58:36Z | Just a temporary website to post my ctf writeups and journey into binary exploitation/malware analysis/exploit development | https://github.com/blackbeard666/blackbeard666.github.io | 0 | 0| 
-| 20210104T13:58:22Z | Null | https://github.com/tchtkpr/Roblox-Exploit-Scripts | 0 | 0| 
-| 20210104T13:54:11Z | CTF framework and exploit development library | https://github.com/Gallopsled/pwntools | 7398 | 1342| 
-| 20210104T13:54:06Z | Null | https://github.com/lemon8888/Exploit-loopholes-and-claim-rights | 0 | 0| 
-| 20210104T13:44:48Z | Cheatsheet to exploit and learn SQL Injection. | https://github.com/AdmiralGaust/SQL-Injection-cheat-sheet | 25 | 13| 
-| 20210104T13:39:07Z | Exploit the dirtycow vulnerability to login as root | https://github.com/zakariamaaraki/Dirty-Cow | 0 | 0| 
-| 20210104T13:38:44Z | HTTP exploitation framework | https://github.com/DriftSec/gosploit | 0 | 0| 
-| 20210104T13:31:08Z | Open Source Projects that helps exploit Intel SGX technology | https://github.com/Maxul/Awesome-SGX-Open-Source | 21 | 6| 
-| 20210104T12:49:37Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 6 | 3| 
-| 20210104T12:43:14Z | linux post-exploitation framework made by linux user | https://github.com/jm33-m0/emp3r0r | 150 | 30| 
+| 20210104T23:52:08Z | Exploiting a vulnerable software in the name of PCMan FTP Server who allows remote attackers to execute arbitrary code via a long string in a USER command, and exploiting it using some Python scripts  | https://github.com/Al4DIN/Buffer-Overflow-Attack-On-Windows | 0 | 0| 
+| 20210104T23:32:12Z | A post exploitation framework designed to operate covertly on heavily monitored environments | https://github.com/bats3c/shad0w | 1024 | 164| 
+| 20210104T23:02:29Z | -An Exploit Dev Swiss Army Knife.  | https://github.com/ant4g0nist/lisa.py | 585 | 110| 
+| 20210104T22:57:24Z | Exploits nested.parallel and nested.optimize to tune neuronal cell models | https://github.com/neurosutras/optimize_cells | 1 | 1| 
+| 20210104T22:56:13Z | Code to exploit iOS 3.1 - 3.1.3 iBoot USB Bug. | https://github.com/Exploite-d/sn0wpwn | 0 | 0| 
+| 20210104T22:54:35Z | Everest, Next-Gen Roblox Exploitation Hub, | https://github.com/Th3Tr1ckst3r/Everest | 0 | 0| 
+| 20210104T22:35:34Z | Protekt Protocol puts crypto to work insuring users against hacks, bugs, and exploits of any DeFi protocol or smart contract. The goal is to support and catalyze the growth of the DeFi ecosystem by protecting users from getting rekt. | https://github.com/ProtektProtocol/protekt-protocol-contracts | 4 | 1| 
+| 20210104T22:15:58Z | Exploitation paths allowing you to (mis)use the Windows Privileges to elevate your rights within the OS. | https://github.com/gtworek/Priv2Admin | 268 | 60| 
+| 20210104T22:00:19Z | Metasploit as a Service with exploit examples | https://github.com/Kaizhe/attacker | 1 | 2| 
+| 20210104T21:19:07Z | Les ressources pour la présentation sur l%exploitation | https://github.com/jorkanofaln/presentationExploitation | 0 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210104T22:32:10Z | TrojanZoo provides a universal pytorch platform to conduct security researches (especially backdoor attacks/defenses) of image classification in deep learning. | https://github.com/ain-soph/trojanzoo | 20 | 4| 
+| 20210104T18:56:32Z | Null | https://github.com/rtykholiz/backdoors | 0 | 0| 
+| 20210104T18:45:47Z | PCI Express DIY hacking toolkit for Xilinx SP605 | https://github.com/Cr4sh/s6_pcie_microblaze | 292 | 75| 
+| 20210104T18:32:07Z | Backdoor Shell | https://github.com/kaitolegion/Backdoor | 1 | 4| 
+| 20210104T16:50:22Z | Detect ip address in apk file to find backdoor app%s owner | https://github.com/JuyunLee/apk_ip_hunter | 0 | 0| 
+| 20210104T16:23:03Z | Nesca v24D87-801 (without backdoor) | https://github.com/ErShkrv/Nesca24D87 | 0 | 1| 
+| 20210104T14:50:09Z | Null | https://github.com/wcenatus/node-backdoor | 0 | 0| 
+| 20210104T14:41:41Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 138 | 20| 
+| 20210104T14:33:56Z | A force op or backdoor minecraft plugin which can be used to get OP on a minecraft server | https://github.com/MOMIN5/force-op-backdoor-plugin | 1 | 0| 
 | 20210104T12:34:23Z | Backdoor web | https://github.com/mkdirmatias/backdoor-php | 0 | 0| 
-| 20210104T12:29:11Z | Null | https://github.com/cv1002/SoftwareProjectManagerBackdoor | 1 | 5| 
-| 20210104T12:18:25Z | Simple Backdoor Manager with Python (based on weevely) | https://github.com/tegal1337/Shelly | 42 | 17| 
-| 20210104T10:40:22Z | A force op or backdoor minecraft plugin which can be used to get OP on a minecraft server | https://github.com/MOMIN5/force-op-backdoor-plugin | 0 | 0| 
-| 20210104T09:46:38Z | PCI Express DIY hacking toolkit for Xilinx SP605 | https://github.com/Cr4sh/s6_pcie_microblaze | 292 | 75| 
-| 20210104T08:31:07Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 139 | 20| 
-| 20210104T08:01:41Z | Detect ip address in apk file to find backdoor app%s owner | https://github.com/JuyunLee/apk_ip_hunter | 0 | 0| 
-| 20210104T05:39:28Z | Analysis of SunBurst (SolarWinds) embedded backdoor | https://github.com/conikeec/sunburst-analysis | 1 | 1| 
 
 
 # fuzz on Github 推荐
