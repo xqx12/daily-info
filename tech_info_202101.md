@@ -70,7 +70,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210105T01:27:39Z | WordPress Plugins Duplicator Arbitrary File Read Vulnerability | https://github.com/pwndream/wp-duplicator-exploit | 1 | 0| 
+| 20210105T01:30:31Z | WordPress Plugins Duplicator Arbitrary File Read Vulnerability | https://github.com/pwndream/wp-duplicator-exploit | 1 | 0| 
 | 20210105T01:01:01Z | A 4 member final project that simulated a real-world Pentest where it was required to scan, exploit and suggest potential remediations. The project was for 1 month and it was completed under 3 weeks by the group and under 2 days the complete technical report was completed including network design and executive summary highlighting necessary information and steps to hiding masked DJ identity information. | https://github.com/shoumitkarnik/Penetration-Testing-Report-MaskedDJ | 0 | 0| 
 | 20210105T00:56:39Z | A Roblox exploit | https://github.com/Dlunhappy226/Roblox-hack | 0 | 0| 
 | 20210105T00:49:36Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 6 | 3| 
