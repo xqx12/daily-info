@@ -101,16 +101,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210105T02:29:50Z | Rtkaller is an RTOS Fuzzer Based on State-of-the-art Fuzzer Syzkaller | https://github.com/Rtkaller/Rtkaller | 0 | 0| 
-| 20210105T02:26:53Z | Fuzzing cryptographic libraries. Magic bug printer go brrrr. | https://github.com/guidovranken/cryptofuzz | 230 | 31| 
-| 20210105T02:13:26Z | Scalable fuzzing infrastructure. | https://github.com/google/clusterfuzz | 4406 | 406| 
-| 20210105T01:55:18Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2241 | 113| 
-| 20210105T01:38:07Z | Null | https://github.com/richardmcewan1979/fuzzy-guacamole | 0 | 0| 
-| 20210105T01:33:08Z | OSS-Fuzz - continuous fuzzing of open source software. | https://github.com/google/oss-fuzz | 5773 | 1148| 
-| 20210105T01:06:35Z | Code for fuzzy Dark matter research, mainly visualization but some manipulation too | https://github.com/LaurelinTheGold/fuzzyDM | 0 | 0| 
-| 20210105T00:56:42Z | Note taking with fuzzy search | https://github.com/iamlemec/fuzzy | 1 | 1| 
-| 20210105T00:23:22Z | Null | https://github.com/My-organisation-0103/fuzzy-octo-invention | 0 | 0| 
-| 20210104T23:08:48Z | Check out and manage git branches painlessly with the power of fzf | https://github.com/drewbrokke/git-fuzzy-checkout | 0 | 0| 
+| 20210105T13:13:41Z | Diverse, the Fuzzer pico library you need to make your .NET tests more Diverse | https://github.com/42skillz/Diverse | 9 | 2| 
+| 20210105T12:49:02Z | Null | https://github.com/mrosyidridho06/FuzzyInferenceSystem_Karyawan | 0 | 0| 
+| 20210105T12:33:37Z | Binary, coverage-guided fuzzer for Windows and macOS | https://github.com/googleprojectzero/Jackalope | 431 | 40| 
+| 20210105T12:32:17Z | Personal website of Laurence Hughes | https://github.com/fuzzylogicxx/fuzzylogic | 4 | 1| 
+| 20210105T12:04:20Z | The C4 Concurrent C Fuzzer | https://github.com/c4-project/c4f | 7 | 1| 
+| 20210105T12:02:26Z | gitmoji selector on fzf | https://github.com/ShotaroKataoka/Fuzzy-Git-Operator | 2 | 0| 
+| 20210105T11:43:06Z | Null | https://github.com/s9varesc/url-fuzzing | 0 | 0| 
+| 20210105T11:40:21Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 29166 | 14660| 
+| 20210105T11:36:19Z | Fuzzing cryptographic libraries. Magic bug printer go brrrr. | https://github.com/guidovranken/cryptofuzz | 230 | 31| 
+| 20210105T11:32:03Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 3296 | 758| 
 
 
 
