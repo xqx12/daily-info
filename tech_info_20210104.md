@@ -92,16 +92,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210104T13:38:14Z | generate contextually sensible fuzz tests for servant apps | https://github.com/mwotton/roboservant | 14 | 2| 
-| 20210104T13:20:53Z | P2P platform for publishing content, self-hosting, decentralized curation, monetization, and more. | https://github.com/FuzzrNet/Fuzzr | 6 | 0| 
-| 20210104T13:06:25Z | Null | https://github.com/mrosyidridho06/FuzzyInferenceSystem_Karyawan | 0 | 0| 
-| 20210104T12:43:37Z | A toy Fuzzer for wasm fuzzing based on fuzzilli | https://github.com/P1umer/fuzzilli4wasm | 12 | 2| 
-| 20210104T12:21:44Z | gitmoji selector on fzf | https://github.com/ShotaroKataoka/Fuzzy-Git-Operator | 2 | 0| 
-| 20210104T12:12:19Z | Null | https://github.com/ethereum/solidity-fuzzing-corpus | 10 | 4| 
-| 20210104T12:04:41Z | Null | https://github.com/Kremona1924/fuzzy-octo-umbrella | 0 | 0| 
-| 20210104T11:43:51Z | The happiest repository. | https://github.com/belindakooman/fuzzy-happiness | 0 | 0| 
-| 20210104T11:28:31Z | The MATLAB pcode for the research paper titled %Particle Swarm Optimized Autonomous Learning Fuzzy System%. | https://github.com/Gu-X/Particle-Swarm-Optimized-Autonomous-Learning-Fuzzy-System | 0 | 0| 
-| 20210104T11:00:17Z | Null | https://github.com/s9varesc/url-fuzzing-docker | 0 | 0| 
+| 20210104T23:08:48Z | Check out and manage git branches painlessly with the power of fzf | https://github.com/drewbrokke/git-fuzzy-checkout | 0 | 0| 
+| 20210104T22:58:16Z | A cross-platform browser fuzzing framework | https://github.com/MozillaSecurity/grizzly | 220 | 30| 
+| 20210104T22:38:33Z | Fuzzy matching publications for fatcat (wip). | https://github.com/miku/fuzzycat | 1 | 1| 
+| 20210104T21:48:51Z | P2P platform for publishing content, self-hosting, decentralized curation, monetization, and more. | https://github.com/FuzzrNet/Fuzzr | 7 | 1| 
+| 20210104T21:17:57Z | Null | https://github.com/icLibFuzzer/icLibFuzzer | 0 | 0| 
+| 20210104T21:11:52Z | 🤖 Repeat tests. Repeat tests. Repeat tests. | https://github.com/ehmicky/test-each | 92 | 2| 
+| 20210104T20:46:26Z | Null | https://github.com/Rados13/Fuzzy-Dices | 0 | 0| 
+| 20210104T20:40:39Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 3294 | 758| 
+| 20210104T20:37:21Z | Null | https://github.com/opimentel-github/fuzzy-torch | 0 | 0| 
+| 20210104T19:44:28Z | Определение цветовых характеристик полимерных материалов | https://github.com/kostyaLem/FuzzyLogic | 0 | 0| 
 
 
 

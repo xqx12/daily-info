@@ -100,16 +100,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210104T13:38:14Z | generate contextually sensible fuzz tests for servant apps | https://github.com/mwotton/roboservant | 14 | 2| 
-| 20210104T13:20:53Z | P2P platform for publishing content, self-hosting, decentralized curation, monetization, and more. | https://github.com/FuzzrNet/Fuzzr | 6 | 0| 
-| 20210104T13:06:25Z | Null | https://github.com/mrosyidridho06/FuzzyInferenceSystem_Karyawan | 0 | 0| 
-| 20210104T12:43:37Z | A toy Fuzzer for wasm fuzzing based on fuzzilli | https://github.com/P1umer/fuzzilli4wasm | 12 | 2| 
-| 20210104T12:21:44Z | gitmoji selector on fzf | https://github.com/ShotaroKataoka/Fuzzy-Git-Operator | 2 | 0| 
-| 20210104T12:12:19Z | Null | https://github.com/ethereum/solidity-fuzzing-corpus | 10 | 4| 
-| 20210104T12:04:41Z | Null | https://github.com/Kremona1924/fuzzy-octo-umbrella | 0 | 0| 
-| 20210104T11:43:51Z | The happiest repository. | https://github.com/belindakooman/fuzzy-happiness | 0 | 0| 
-| 20210104T11:28:31Z | The MATLAB pcode for the research paper titled %Particle Swarm Optimized Autonomous Learning Fuzzy System%. | https://github.com/Gu-X/Particle-Swarm-Optimized-Autonomous-Learning-Fuzzy-System | 0 | 0| 
-| 20210104T11:00:17Z | Null | https://github.com/s9varesc/url-fuzzing-docker | 0 | 0| 
+| 20210105T01:38:07Z | Null | https://github.com/richardmcewan1979/fuzzy-guacamole | 0 | 0| 
+| 20210105T01:33:08Z | OSS-Fuzz - continuous fuzzing of open source software. | https://github.com/google/oss-fuzz | 5773 | 1148| 
+| 20210105T01:06:35Z | Code for fuzzy Dark matter research, mainly visualization but some manipulation too | https://github.com/LaurelinTheGold/fuzzyDM | 0 | 0| 
+| 20210105T00:56:42Z | Note taking with fuzzy search | https://github.com/iamlemec/fuzzy | 1 | 1| 
+| 20210105T00:42:56Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2241 | 113| 
+| 20210105T00:23:22Z | Null | https://github.com/My-organisation-0103/fuzzy-octo-invention | 0 | 0| 
+| 20210104T23:08:48Z | Check out and manage git branches painlessly with the power of fzf | https://github.com/drewbrokke/git-fuzzy-checkout | 0 | 0| 
+| 20210104T22:58:16Z | A cross-platform browser fuzzing framework | https://github.com/MozillaSecurity/grizzly | 220 | 30| 
+| 20210104T22:38:33Z | Fuzzy matching publications for fatcat (wip). | https://github.com/miku/fuzzycat | 1 | 1| 
+| 20210104T21:48:51Z | P2P platform for publishing content, self-hosting, decentralized curation, monetization, and more. | https://github.com/FuzzrNet/Fuzzr | 7 | 1| 
 
 
 
