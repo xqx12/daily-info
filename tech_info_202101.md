@@ -86,6 +86,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210106T01:47:45Z | Null | https://github.com/ph-luffy/Backdoor | 0 | 0| 
 | 20210106T00:38:50Z | A Remote Administration Tool (RAT) | https://github.com/0xmanjoos/Pieta | 4 | 1| 
 | 20210105T23:58:13Z | TrojanZoo provides a universal pytorch platform to conduct security researches (especially backdoor attacks/defenses) of image classification in deep learning. | https://github.com/ain-soph/trojanzoo | 24 | 4| 
 | 20210105T16:32:24Z | Null | https://github.com/mpandya18/Image_Permutator_For_Backdoor_Generation | 0 | 0| 
@@ -95,7 +96,6 @@
 | 20210105T06:14:08Z | Null | https://github.com/anonymous-guy/multi_agent_rl_backdoor_videos | 0 | 0| 
 | 20210104T18:56:32Z | Null | https://github.com/rtykholiz/backdoors | 0 | 0| 
 | 20210104T18:32:07Z | Backdoor Shell | https://github.com/kaitolegion/Backdoor | 1 | 4| 
-| 20210104T16:50:22Z | Detect ip address in apk file to find backdoor app%s owner | https://github.com/JuyunLee/apk_ip_hunter | 0 | 0| 
 
 
 # fuzz on Github 推荐
