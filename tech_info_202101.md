@@ -103,16 +103,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210106T02:40:43Z | LLVM plugin toolset for Xen fuzzing | https://github.com/Rrooach/XenSanitizer | 0 | 0| 
-| 20210106T02:12:30Z | OSS-Fuzz - continuous fuzzing of open source software. | https://github.com/google/oss-fuzz | 5774 | 1150| 
-| 20210106T01:56:58Z | fuzz and property testing front-end for Rust | https://github.com/camshaft/bolero | 15 | 2| 
-| 20210106T01:51:43Z | Null | https://github.com/mrfuzz12/FuzzCheat | 0 | 0| 
-| 20210106T01:29:21Z | Simple FTP fuzzer to demonstrate boofuzz usage. | https://github.com/jtpereyda/boofuzz-ftp | 14 | 6| 
-| 20210106T01:05:09Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 29172 | 14661| 
-| 20210106T00:34:21Z | Fuzzy charrs are fuzzy. | https://github.com/marenubium87/FuzzyCharr | 0 | 0| 
-| 20210106T00:14:00Z | Fuzzing cryptographic libraries. Magic bug printer go brrrr. | https://github.com/guidovranken/cryptofuzz | 230 | 31| 
-| 20210105T23:40:11Z | Fuzz testing for go. | https://github.com/google/gofuzz | 944 | 91| 
-| 20210105T23:09:42Z | A no-fuzz note taking app built with Flask | https://github.com/pedroivo000/notavel | 0 | 0| 
+| 20210106T12:36:31Z | A portal for tech savvy people | https://github.com/nkgawade/FuzzBrain | 0 | 0| 
+| 20210106T12:35:51Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2241 | 113| 
+| 20210106T12:28:24Z | Null | https://github.com/Sentinel-One/efi_fuzz | 60 | 6| 
+| 20210106T12:21:43Z | The iron-booted robotic resident of The Tsunami Zone. | https://github.com/parafoxia/FuzzySeven | 0 | 0| 
+| 20210106T11:34:25Z | Personal website of Laurence Hughes | https://github.com/fuzzylogicxx/fuzzylogic | 4 | 1| 
+| 20210106T11:30:04Z | Using different tools to fuzz audit deamon | https://github.com/punnal/Audit-Fuzzing | 1 | 1| 
+| 20210106T11:27:20Z | no fuzz configurator | https://github.com/roxiness/configent | 6 | 0| 
+| 20210106T10:59:12Z | this fuzzer detect DOM based XSS in chrome extension  | https://github.com/kurotojp/fuzzer | 0 | 0| 
+| 20210106T10:37:55Z | Given program metrics, predict fuzzer performance. | https://github.com/AIK13/Fuzz-Predictions | 0 | 0| 
+| 20210106T10:31:43Z | Null | https://github.com/mtflowk/fuzzy-sniffle | 0 | 0| 
 
 
 
