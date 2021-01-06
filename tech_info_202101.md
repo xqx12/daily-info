@@ -86,7 +86,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210106T01:48:54Z | Null | https://github.com/ph-luffy/Backdoor | 0 | 0| 
+| 20210106T02:44:01Z | Null | https://github.com/ph-luffy/Backdoor | 0 | 0| 
 | 20210106T00:38:50Z | A Remote Administration Tool (RAT) | https://github.com/0xmanjoos/Pieta | 4 | 1| 
 | 20210105T23:58:13Z | TrojanZoo provides a universal pytorch platform to conduct security researches (especially backdoor attacks/defenses) of image classification in deep learning. | https://github.com/ain-soph/trojanzoo | 24 | 4| 
 | 20210105T16:32:24Z | Null | https://github.com/mpandya18/Image_Permutator_For_Backdoor_Generation | 0 | 0| 
@@ -101,6 +101,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210106T02:40:43Z | LLVM plugin toolset for Xen fuzzing | https://github.com/Rrooach/XenSanitizer | 0 | 0| 
 | 20210106T02:12:30Z | OSS-Fuzz - continuous fuzzing of open source software. | https://github.com/google/oss-fuzz | 5774 | 1150| 
 | 20210106T01:56:58Z | fuzz and property testing front-end for Rust | https://github.com/camshaft/bolero | 15 | 2| 
 | 20210106T01:51:43Z | Null | https://github.com/mrfuzz12/FuzzCheat | 0 | 0| 
@@ -110,7 +111,6 @@
 | 20210106T00:14:00Z | Fuzzing cryptographic libraries. Magic bug printer go brrrr. | https://github.com/guidovranken/cryptofuzz | 230 | 31| 
 | 20210105T23:40:11Z | Fuzz testing for go. | https://github.com/google/gofuzz | 944 | 91| 
 | 20210105T23:09:42Z | A no-fuzz note taking app built with Flask | https://github.com/pedroivo000/notavel | 0 | 0| 
-| 20210105T22:52:59Z | Just a basic example of an application fuzzer to test for Buffer Overflows | https://github.com/jforte1495/fuzzer | 0 | 0| 
 
 
 
