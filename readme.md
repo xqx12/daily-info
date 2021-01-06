@@ -17,6 +17,7 @@
 | 20210105 | 研究员 Anant Shrivastava 关于 Android Security 培训的资料 | https://github.com/anantshri/Android_Security| 
 | 20210105 | XNU 内核 socket UAF 漏洞分析 | https://sec.today/pulses/7fbac7bc-3db1-4d5b-b0c5-0169e841b79f/| 
 | 20210105 | XNU 内核 socket UAF 漏洞分析 | https://blog.pangu.io/?p=230| 
+| 20210105 | 针对网络钓鱼利用假期节日发送恶意邮件分析。 | https://www.trustwave.com/en-us/resources/blogs/spiderlabs-blog/phishing-the-holiday-season/| 
 
 
 # 安全维基 推荐
@@ -36,7 +37,7 @@
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210105T07:50:42Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1592 | 477| 
+| 20210105T21:59:01Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1591 | 478| 
 | 20210105T02:56:21Z | Create CFGs and compute complexity metrics for Python, C++, and Java code. | https://github.com/hmc-alpaqa/metrinome | 5 | 0| 
 
 
@@ -49,25 +50,27 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210105T13:56:45Z | Hacking challenges write-ups | https://github.com/andrewbae/playground | 1 | 1| 
-| 20210105T13:07:07Z | k8gege.org - K8哥哥%s Blog | https://github.com/k8gege/k8gege.github.io | 11 | 6| 
-| 20210105T12:50:08Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 6 | 3| 
-| 20210105T12:14:15Z | The official Exploit Database repository | https://github.com/offensive-security/exploitdb | 5795 | 1660| 
-| 20210105T12:14:09Z | sploitSMBGHOST Vulnerability Scanning and Exploiting | https://github.com/iamramahibrah/sploitSMBGHOST | 0 | 0| 
-| 20210105T11:59:57Z | CTF framework and exploit development library | https://github.com/Gallopsled/pwntools | 7402 | 1343| 
-| 20210105T11:52:06Z | Thi powershell script has got to run in remote windows host, even for pivoting | https://github.com/FabioDefilippo/winallenum | 0 | 1| 
-| 20210105T11:35:14Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 8853 | 1399| 
-| 20210105T11:28:06Z | PEDA - Python Exploit Development Assistance for GDB | https://github.com/0xKira/peda | 9 | 4| 
-| 20210105T11:13:37Z | CTF竞赛权威指南(Pwn篇) | https://github.com/firmianay/CTF-All-In-One | 2287 | 463| 
+| 20210105T23:51:33Z | Null | https://github.com/exploitlib/ExploitLibrary.github.io | 0 | 0| 
+| 20210105T23:10:16Z | A phased, evasive Path Traversal + LFI scanning & exploitation tool in Python | https://github.com/VainlyStrain/Vailyn | 78 | 2| 
+| 20210105T22:44:41Z | An attack/exploit Detector that utilizes Polymorphism and Diversity | https://github.com/polyverse/zerotect | 21 | 1| 
+| 20210105T22:13:25Z | ZetaSploit Framework is a powerful exploitation framework that contains a lot of modules for attacking targets, interacting with targets, exploiting common vulnerabilities and etc. | https://github.com/EntySec/ZetaSploit | 8 | 4| 
+| 20210105T21:58:47Z | A Roblox exploit | https://github.com/Dlunhappy226/Roblox-hack | 0 | 0| 
+| 20210105T21:12:39Z | Notes of Exploit Education Challenges  | https://github.com/Insecurities/ExploitEducation | 0 | 0| 
+| 20210105T20:52:46Z | out-of-tree kernel {module, exploit} development tool | https://github.com/jollheef/out-of-tree | 178 | 27| 
+| 20210105T20:49:51Z | Metatable Api made to simplify Roblox exploiting | https://github.com/KikoTheDon/MT-Api-v2 | 0 | 0| 
+| 20210105T20:49:17Z | This Repository contains the stuff related to windows Active directory environment exploitation | https://github.com/incredibleindishell/Windows-AD-environment-related | 98 | 26| 
+| 20210105T20:35:13Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 8853 | 1401| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210105T12:06:31Z | TrojanZoo provides a universal pytorch platform to conduct security researches (especially backdoor attacks/defenses) of image classification in deep learning. | https://github.com/ain-soph/trojanzoo | 23 | 4| 
+| 20210105T23:58:13Z | TrojanZoo provides a universal pytorch platform to conduct security researches (especially backdoor attacks/defenses) of image classification in deep learning. | https://github.com/ain-soph/trojanzoo | 24 | 4| 
+| 20210105T16:32:24Z | Null | https://github.com/mpandya18/Image_Permutator_For_Backdoor_Generation | 0 | 0| 
+| 20210105T16:27:28Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 139 | 20| 
+| 20210105T15:39:21Z | A free tool to scan php files and analyze your project to find any malicious code inside it. | https://github.com/marcocesarato/PHP-Antimalware-Scanner | 160 | 29| 
 | 20210105T08:14:29Z | PCI Express DIY hacking toolkit for Xilinx SP605 | https://github.com/Cr4sh/s6_pcie_microblaze | 293 | 76| 
 | 20210105T06:14:08Z | Null | https://github.com/anonymous-guy/multi_agent_rl_backdoor_videos | 0 | 0| 
-| 20210105T03:09:16Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 138 | 20| 
 
 
 # fuzz on Github 推荐
