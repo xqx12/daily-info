@@ -54,7 +54,7 @@
 | 20210106T06:28:36Z | CVE-2020-10148 | SolarWinds Orion API 远程代码执行漏洞批量检测脚本 | https://github.com/B1anda0/CVE-2020-10148 | The SolarWinds Orion API is vulnerable to an authentication bypass that could allow a remote attacker to execute API commands. This vulnerability could allow a remote attacker to bypass authentication and execute API commands which may result in a compromise of the SolarWinds instance. SolarWinds Orion Platform versions 2019.4 HF 5, 2020.2 with no hotfix installed, and 2020.2 HF 1 are affected.| 
 | 20210106T02:53:25Z | cve-2020- | Null | https://github.com/asc0t6e/cve-2020-test | 未查询到CVE信息| 
 | 20210106T01:32:23Z | CVE-2020-35728 |  CVE-2020-35728 & Jackson-databind RCE | https://github.com/Al1ex/CVE-2020-35728 | FasterXML jackson-databind 2.x before 2.9.10.8 mishandles the interaction between serialization gadgets and typing, related to com.oracle.wls.shaded.org.apache.xalan.lib.sql.JNDIConnectionPool (aka embedded Xalan in org.glassfish.web/javax.servlet.jsp.jstl).| 
-| 20210105T19:48:54Z | CVE-2020-35262 | Cross Site Scripting (XSS) in Digisol DG-HR3400 Router | https://github.com/the-girl-who-lived/CVE-2020-35262 | | 
+| 20210105T19:48:54Z | CVE-2020-35262 | Cross Site Scripting (XSS) in Digisol DG-HR3400 Router | https://github.com/the-girl-who-lived/CVE-2020-35262 | 未查询到CVE信息| 
 | 20210105T19:48:32Z | CVE-2020-25498 | Stored XSS via CSRF in Beetel 777VR1 Router  | https://github.com/the-girl-who-lived/CVE-2020-25498 | 未查询到CVE信息| 
 
 
@@ -113,9 +113,9 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210106T13:49:19Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2241 | 113| 
 | 20210106T13:38:01Z | Fuzzy search in Dart | https://github.com/comigor/fuzzy | 21 | 9| 
 | 20210106T12:36:31Z | A portal for tech savvy people | https://github.com/nkgawade/FuzzBrain | 0 | 0| 
-| 20210106T12:35:51Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2241 | 113| 
 | 20210106T12:28:24Z | Null | https://github.com/Sentinel-One/efi_fuzz | 60 | 6| 
 | 20210106T12:21:43Z | The iron-booted robotic resident of The Tsunami Zone. | https://github.com/parafoxia/FuzzySeven | 0 | 0| 
 | 20210106T11:34:25Z | Personal website of Laurence Hughes | https://github.com/fuzzylogicxx/fuzzylogic | 4 | 1| 

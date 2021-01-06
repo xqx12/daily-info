@@ -84,9 +84,9 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210106T13:49:19Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2241 | 113| 
 | 20210106T13:38:01Z | Fuzzy search in Dart | https://github.com/comigor/fuzzy | 21 | 9| 
 | 20210106T12:36:31Z | A portal for tech savvy people | https://github.com/nkgawade/FuzzBrain | 0 | 0| 
-| 20210106T12:35:51Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2241 | 113| 
 | 20210106T12:28:24Z | Null | https://github.com/Sentinel-One/efi_fuzz | 60 | 6| 
 | 20210106T12:21:43Z | The iron-booted robotic resident of The Tsunami Zone. | https://github.com/parafoxia/FuzzySeven | 0 | 0| 
 | 20210106T11:34:25Z | Personal website of Laurence Hughes | https://github.com/fuzzylogicxx/fuzzylogic | 4 | 1| 
