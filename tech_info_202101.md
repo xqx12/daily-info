@@ -101,6 +101,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210106T01:29:21Z | Simple FTP fuzzer to demonstrate boofuzz usage. | https://github.com/jtpereyda/boofuzz-ftp | 14 | 6| 
 | 20210106T01:05:09Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 29172 | 14661| 
 | 20210106T01:03:47Z | Null | https://github.com/mrfuzz12/FuzzCheat | 0 | 0| 
 | 20210106T00:34:21Z | Fuzzy charrs are fuzzy. | https://github.com/marenubium87/FuzzyCharr | 0 | 0| 
@@ -110,7 +111,6 @@
 | 20210105T23:09:42Z | A no-fuzz note taking app built with Flask | https://github.com/pedroivo000/notavel | 0 | 0| 
 | 20210105T22:52:59Z | Just a basic example of an application fuzzer to test for Buffer Overflows | https://github.com/jforte1495/fuzzer | 0 | 0| 
 | 20210105T22:46:57Z | Repository for Fuzzy Miner Web application. | https://github.com/fnc11/FuzzyMiner | 5 | 0| 
-| 20210105T22:43:33Z | Personal website of Laurence Hughes | https://github.com/fuzzylogicxx/fuzzylogic | 4 | 1| 
 
 
 
