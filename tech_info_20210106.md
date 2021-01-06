@@ -67,7 +67,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210106T13:20:15Z | TrojanZoo provides a universal pytorch platform to conduct security researches (especially backdoor attacks/defenses) of image classification in deep learning. | https://github.com/ain-soph/trojanzoo | 24 | 5| 
+| 20210106T13:21:23Z | TrojanZoo provides a universal pytorch platform to conduct security researches (especially backdoor attacks/defenses) of image classification in deep learning. | https://github.com/ain-soph/trojanzoo | 24 | 5| 
 | 20210106T12:55:36Z | Null | https://github.com/D4SuCE/backdoor | 0 | 0| 
 | 20210106T12:42:43Z | Null | https://github.com/rabbitx1337/backdoor | 0 | 0| 
 | 20210106T10:33:53Z | Null | https://github.com/Yunolay/image-backdoor | 0 | 0| 
