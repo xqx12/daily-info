@@ -77,7 +77,6 @@
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
 | 20210105T23:40:11Z | Fuzz testing for go. | https://github.com/google/gofuzz | 944 | 91| 
-| 20210105T23:31:11Z | OSS-Fuzz - continuous fuzzing of open source software. | https://github.com/google/oss-fuzz | 5773 | 1150| 
 | 20210105T23:09:42Z | A no-fuzz note taking app built with Flask | https://github.com/pedroivo000/notavel | 0 | 0| 
 | 20210105T22:52:59Z | Just a basic example of an application fuzzer to test for Buffer Overflows | https://github.com/jforte1495/fuzzer | 0 | 0| 
 | 20210105T22:46:57Z | Repository for Fuzzy Miner Web application. | https://github.com/fnc11/FuzzyMiner | 5 | 0| 
@@ -86,6 +85,7 @@
 | 20210105T22:40:41Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2241 | 113| 
 | 20210105T21:46:26Z | Null | https://github.com/k-matti/fuzzy-couscous | 0 | 1| 
 | 20210105T21:45:18Z | Basic fuzzer for own purposes. | https://github.com/envysec/Astrea | 0 | 0| 
+| 20210105T21:08:39Z | VMI Kernel Fuzzer for Xen Project - VM forking, VMI & AFL integration demo | https://github.com/intel/kernel-fuzzer-for-xen-project | 220 | 35| 
 
 
 
