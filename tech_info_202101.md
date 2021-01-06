@@ -46,7 +46,8 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20210106T13:24:19Z | CVE-2020-17519 | Apache Flink 目录遍历漏洞批量检测 (CVE-2020-17519) | https://github.com/B1anda0/CVE-2020-17519 | A change introduced in Apache Flink 1.11.0 (and released in 1.11.1 and 1.11.2 as well) allows attackers to read any file on the local filesystem of the JobManager through the REST interface of the JobManager process. Access is restricted to files accessible by the JobManager process. All users should upgrade to Flink 1.11.3 or 1.12.0 if their Flink instance(s) are exposed. The issue was fixed in commit b561010b0ee741543c3953306037f00d7a9f0801 from apache/flink:master.| 
+| 20210106T13:40:06Z | CVE-2020-17518 | Null | https://github.com/QmF0c3UK/CVE-2020-17518 | Apache Flink 1.5.1 introduced a REST handler that allows you to write an uploaded file to an arbitrary location on the local file system, through a maliciously modified HTTP HEADER. The files can be written to any location accessible by Flink 1.5.1. All users should upgrade to Flink 1.11.3 or 1.12.0 if their Flink instance(s) are exposed. The issue was fixed in commit a5264a6f41524afe8ceadf1d8ddc8c80f323ebc4 from apache/flink:master.| 
+| 20210106T13:24:19Z | CVE-2020-17519 | Apache Flink 目录遍历漏洞批量检测 (CVE-2020-17519) | https://github.com/B1anda0/CVE-2020-17519 | | 
 | 20210106T13:19:37Z | 未知编号 | 2020一些漏洞 | https://github.com/r0eXpeR/CVE-2020 | 未查询到CVE信息| 
 | 20210106T13:00:56Z | CVE-2020-3452 | CISCO CVE-2020-3452 Scanner & Exploiter | https://github.com/darklotuskdb/CISCO-CVE-2020-3452-Scanner-Exploiter | A vulnerability in the web services interface of Cisco Adaptive Security Appliance (ASA) Software and Cisco Firepower Threat Defense (FTD) Software could allow an unauthenticated, remote attacker to conduct directory traversal attacks and read sensitive files on a targeted system. The vulnerability is due to a lack of proper input validation of URLs in HTTP requests processed by an affected device. An attacker could exploit this vulnerability by sending a crafted HTTP request containing directory traversal character sequences to an affected device. A successful exploit could allow the attacker to view arbitrary files within the web services file system on the targeted device. The web services file system is enabled when the affected device is configured with either WebVPN or AnyConnect features. This vulnerability cannot be used to obtain access to ASA or FTD system files or underlying operating system (OS) files.| 
 | 20210106T06:28:36Z | CVE-2020-10148 | SolarWinds Orion API 远程代码执行漏洞批量检测脚本 | https://github.com/B1anda0/CVE-2020-10148 | The SolarWinds Orion API is vulnerable to an authentication bypass that could allow a remote attacker to execute API commands. This vulnerability could allow a remote attacker to bypass authentication and execute API commands which may result in a compromise of the SolarWinds instance. SolarWinds Orion Platform versions 2019.4 HF 5, 2020.2 with no hotfix installed, and 2020.2 HF 1 are affected.| 
@@ -55,7 +56,6 @@
 | 20210105T19:48:54Z | CVE-2020-35262 | Cross Site Scripting (XSS) in Digisol DG-HR3400 Router | https://github.com/the-girl-who-lived/CVE-2020-35262 | 未查询到CVE信息| 
 | 20210105T19:48:32Z | CVE-2020-25498 | Stored XSS via CSRF in Beetel 777VR1 Router  | https://github.com/the-girl-who-lived/CVE-2020-25498 | 未查询到CVE信息| 
 | 20210105T08:52:42Z | CVE-2020-29583 | Scanner for Zyxel products which are potentially vulnerable due to an undocumented user account (CVE-2020-29583) | https://github.com/2d4d/scan_CVE-2020-29583 | Firmware version 4.60 of Zyxel USG devices contains an undocumented account (zyfwp) with an unchangeable password. The password for this account can be found in cleartext in the firmware. This account can be used by someone to login to the ssh server or web interface with admin privileges.| 
-| 20210105T08:33:34Z | CVE-2020-27955 | Null | https://github.com/dennyson120/CVE-2020-27955 | Git LFS 2.12.0 allows Remote Code Execution.| 
 
 
 # klee on Github 推荐
@@ -113,6 +113,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210106T13:38:01Z | Fuzzy search in Dart | https://github.com/comigor/fuzzy | 21 | 9| 
 | 20210106T12:36:31Z | A portal for tech savvy people | https://github.com/nkgawade/FuzzBrain | 0 | 0| 
 | 20210106T12:35:51Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2241 | 113| 
 | 20210106T12:28:24Z | Null | https://github.com/Sentinel-One/efi_fuzz | 60 | 6| 
@@ -122,7 +123,6 @@
 | 20210106T11:27:20Z | no fuzz configurator | https://github.com/roxiness/configent | 6 | 0| 
 | 20210106T10:59:12Z | this fuzzer detect DOM based XSS in chrome extension  | https://github.com/kurotojp/fuzzer | 0 | 0| 
 | 20210106T10:37:55Z | Given program metrics, predict fuzzer performance. | https://github.com/AIK13/Fuzz-Predictions | 0 | 0| 
-| 20210106T10:31:43Z | Null | https://github.com/mtflowk/fuzzy-sniffle | 0 | 0| 
 
 
 
