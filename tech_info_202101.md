@@ -71,6 +71,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210106T02:13:43Z | iblessing is an iOS security exploiting toolkit, it mainly includes application information collection, static analysis and dynamic analysis. It can be used for reverse engineering, binary analysis and vulnerability mining. | https://github.com/Soulghost/iblessing | 250 | 42| 
 | 20210106T02:07:04Z | A proof-of-concept tool for generating payloads that exploit unsafe Java object deserialization. | https://github.com/frohoff/ysoserial | 3761 | 1113| 
 | 20210106T01:22:02Z | Shellphish%s automated exploitation engine, originally created for the Cyber Grand Challenge. | https://github.com/angr/rex | 499 | 105| 
 | 20210106T00:59:32Z | OSINT, Threat Hunting, Network and Web Recon, Discovery, Enumeration, Vulnerability Mapping, Exploitation, Reporting | https://github.com/aryanguenthner/365 | 4 | 2| 
@@ -80,7 +81,6 @@
 | 20210106T00:02:37Z | Null | https://github.com/exploitlib/exploitlib.github.io | 0 | 0| 
 | 20210105T23:51:33Z | Null | https://github.com/exploitlib/ExploitLibrary.github.io | 0 | 0| 
 | 20210105T23:10:16Z | A phased, evasive Path Traversal + LFI scanning & exploitation tool in Python | https://github.com/VainlyStrain/Vailyn | 78 | 2| 
-| 20210105T22:44:41Z | An attack/exploit Detector that utilizes Polymorphism and Diversity | https://github.com/polyverse/zerotect | 21 | 1| 
 
 
 # backdoor on Github 推荐
