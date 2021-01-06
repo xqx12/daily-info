@@ -54,6 +54,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210106T13:49:49Z | Built a X3D based Virtual Museum exploiting HTML5, CSS3, X3D (X3DOM), JavaScript , jQuery, Bootstrap 4, AJAX for asynchronous update of HTML contents, JSON for data transfer from the backend to the frontend, PHP to access data from a SQLite database, and all configured in a MVC design pattern. And, of course, a selection of 3D Models made by myself. | https://github.com/dr271/Web-3D-Virtual-Museum | 3 | 0| 
 | 20210106T13:38:56Z | Vulnerabilities of Goby supported with exploitation. | https://github.com/gobysec/GobyVuls | 100 | 19| 
 | 20210106T13:00:56Z | CISCO CVE-2020-3452 Scanner & Exploiter | https://github.com/darklotuskdb/CISCO-CVE-2020-3452-Scanner-Exploiter | 33 | 5| 
 | 20210106T12:52:54Z | The official Exploit Database repository | https://github.com/offensive-security/exploitdb | 5801 | 1660| 
@@ -63,7 +64,6 @@
 | 20210106T10:31:19Z | DeimosC2 is a Golang command and control framework for post-exploitation. | https://github.com/DeimosC2/DeimosC2 | 396 | 69| 
 | 20210106T10:17:01Z | Collect&Create exploit for gitlab | https://github.com/L3ss-dev/gitlab-exploit | 0 | 0| 
 | 20210106T10:12:32Z | This project is designed to express how to use Android MVVM architecture while exploiting the right practices. | https://github.com/mbobiosio/KotlinMVVMRetrofitRoom | 0 | 1| 
-| 20210106T10:07:25Z | This Repository contains the stuff related to windows Active directory environment exploitation | https://github.com/incredibleindishell/Windows-AD-environment-related | 99 | 26| 
 
 
 # backdoor on Github 推荐
