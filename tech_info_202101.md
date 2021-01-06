@@ -71,6 +71,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210106T02:45:45Z | Exploiting BERT for End-to-End Aspect-based Sentiment Analysis (W-NUT@EMNLP 2019) | https://github.com/lixin4ever/BERT-E2E-ABSA | 177 | 44| 
 | 20210106T02:13:43Z | iblessing is an iOS security exploiting toolkit, it mainly includes application information collection, static analysis and dynamic analysis. It can be used for reverse engineering, binary analysis and vulnerability mining. | https://github.com/Soulghost/iblessing | 250 | 42| 
 | 20210106T02:07:04Z | A proof-of-concept tool for generating payloads that exploit unsafe Java object deserialization. | https://github.com/frohoff/ysoserial | 3761 | 1113| 
 | 20210106T01:22:02Z | Shellphish%s automated exploitation engine, originally created for the Cyber Grand Challenge. | https://github.com/angr/rex | 499 | 105| 
@@ -80,13 +81,12 @@
 | 20210106T00:23:16Z | This bash script will help you to hack remote hosts  | https://github.com/FabioDefilippo/linuxallremote | 2 | 1| 
 | 20210106T00:02:37Z | Null | https://github.com/exploitlib/exploitlib.github.io | 0 | 0| 
 | 20210105T23:51:33Z | Null | https://github.com/exploitlib/ExploitLibrary.github.io | 0 | 0| 
-| 20210105T23:10:16Z | A phased, evasive Path Traversal + LFI scanning & exploitation tool in Python | https://github.com/VainlyStrain/Vailyn | 78 | 2| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210106T02:44:01Z | Null | https://github.com/ph-luffy/Backdoor | 0 | 0| 
+| 20210106T02:46:30Z | Null | https://github.com/ph-luffy/Backdoor | 0 | 0| 
 | 20210106T00:38:50Z | A Remote Administration Tool (RAT) | https://github.com/0xmanjoos/Pieta | 4 | 1| 
 | 20210105T23:58:13Z | TrojanZoo provides a universal pytorch platform to conduct security researches (especially backdoor attacks/defenses) of image classification in deep learning. | https://github.com/ain-soph/trojanzoo | 24 | 4| 
 | 20210105T16:32:24Z | Null | https://github.com/mpandya18/Image_Permutator_For_Backdoor_Generation | 0 | 0| 
