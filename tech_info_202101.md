@@ -101,16 +101,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210105T13:50:56Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2241 | 113| 
-| 20210105T13:45:52Z | Fuzzy Logic for Python 3 | https://github.com/amogorkon/fuzzylogic | 13 | 6| 
-| 20210105T13:13:41Z | Diverse, the Fuzzer pico library you need to make your .NET tests more Diverse | https://github.com/42skillz/Diverse | 9 | 2| 
-| 20210105T12:49:02Z | Null | https://github.com/mrosyidridho06/FuzzyInferenceSystem_Karyawan | 0 | 0| 
-| 20210105T12:33:37Z | Binary, coverage-guided fuzzer for Windows and macOS | https://github.com/googleprojectzero/Jackalope | 431 | 40| 
-| 20210105T12:32:17Z | Personal website of Laurence Hughes | https://github.com/fuzzylogicxx/fuzzylogic | 4 | 1| 
-| 20210105T12:04:20Z | The C4 Concurrent C Fuzzer | https://github.com/c4-project/c4f | 7 | 1| 
-| 20210105T12:02:26Z | gitmoji selector on fzf | https://github.com/ShotaroKataoka/Fuzzy-Git-Operator | 2 | 0| 
-| 20210105T11:43:06Z | Null | https://github.com/s9varesc/url-fuzzing | 0 | 0| 
-| 20210105T11:40:21Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 29166 | 14660| 
+| 20210106T01:05:09Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 29172 | 14661| 
+| 20210106T01:03:47Z | Null | https://github.com/mrfuzz12/FuzzCheat | 0 | 0| 
+| 20210106T00:34:21Z | Fuzzy charrs are fuzzy. | https://github.com/marenubium87/FuzzyCharr | 0 | 0| 
+| 20210106T00:14:00Z | Fuzzing cryptographic libraries. Magic bug printer go brrrr. | https://github.com/guidovranken/cryptofuzz | 230 | 31| 
+| 20210105T23:40:11Z | Fuzz testing for go. | https://github.com/google/gofuzz | 944 | 91| 
+| 20210105T23:31:11Z | OSS-Fuzz - continuous fuzzing of open source software. | https://github.com/google/oss-fuzz | 5773 | 1150| 
+| 20210105T23:09:42Z | A no-fuzz note taking app built with Flask | https://github.com/pedroivo000/notavel | 0 | 0| 
+| 20210105T22:52:59Z | Just a basic example of an application fuzzer to test for Buffer Overflows | https://github.com/jforte1495/fuzzer | 0 | 0| 
+| 20210105T22:46:57Z | Repository for Fuzzy Miner Web application. | https://github.com/fnc11/FuzzyMiner | 5 | 0| 
+| 20210105T22:43:33Z | Personal website of Laurence Hughes | https://github.com/fuzzylogicxx/fuzzylogic | 4 | 1| 
 
 
 
