@@ -113,7 +113,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210107T02:02:16Z | Bazel Starlark extensions for defining fuzz tests in Bazel projects | https://github.com/bazelbuild/rules_fuzzing | 6 | 2| 
+| 20210107T02:07:33Z | Bazel Starlark extensions for defining fuzz tests in Bazel projects | https://github.com/bazelbuild/rules_fuzzing | 6 | 2| 
 | 20210107T01:31:15Z | Null | https://github.com/mrfuzz12/FuzzCheat | 0 | 0| 
 | 20210107T01:09:39Z | Scalable fuzzing infrastructure. | https://github.com/google/clusterfuzz | 4406 | 407| 
 | 20210107T01:05:00Z | OSS-Fuzz - continuous fuzzing of open source software. | https://github.com/google/oss-fuzz | 5775 | 1152| 
