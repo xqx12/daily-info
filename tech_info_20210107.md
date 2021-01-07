@@ -19,7 +19,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20210107T13:09:41Z | CVE-2020-11851 | Remote Code Execution vulnerability on ArcSight Logger | https://github.com/ch1nghz/CVE-2020-11851 | Arbitrary code execution vulnerability on Micro Focus ArcSight Logger product, affecting all version prior to 7.1.1. The vulnerability could be remotely exploited resulting in the execution of arbitrary code.| 
+| 20210107T13:12:13Z | CVE-2020-11851 | Remote Code Execution vulnerability on ArcSight Logger | https://github.com/ch1nghz/CVE-2020-11851 | Arbitrary code execution vulnerability on Micro Focus ArcSight Logger product, affecting all version prior to 7.1.1. The vulnerability could be remotely exploited resulting in the execution of arbitrary code.| 
 | 20210107T13:08:51Z | CVE-2020-17519 | Apache Flink 目录遍历漏洞批量检测 (CVE-2020-17519) | https://github.com/B1anda0/CVE-2020-17519 | A change introduced in Apache Flink 1.11.0 (and released in 1.11.1 and 1.11.2 as well) allows attackers to read any file on the local filesystem of the JobManager through the REST interface of the JobManager process. Access is restricted to files accessible by the JobManager process. All users should upgrade to Flink 1.11.3 or 1.12.0 if their Flink instance(s) are exposed. The issue was fixed in commit b561010b0ee741543c3953306037f00d7a9f0801 from apache/flink:master.| 
 | 20210107T11:38:11Z | CVE-2020-29583 | Scanner for Zyxel products which are potentially vulnerable due to an undocumented user account (CVE-2020-29583) | https://github.com/2d4d/scan_CVE-2020-29583 | Firmware version 4.60 of Zyxel USG devices contains an undocumented account (zyfwp) with an unchangeable password. The password for this account can be found in cleartext in the firmware. This account can be used by someone to login to the ssh server or web interface with admin privileges.| 
 | 20210107T09:58:53Z | CVE-2020-0001 | POC to run system component in an untrusted-app process | https://github.com/Zachinio/CVE-2020-0001 | In getProcessRecordLocked of ActivityManagerService.java isolated apps are not handled correctly. This could lead to local escalation of privilege with no additional execution privileges needed. User interaction is not needed for exploitation. Product: Android Versions: Android-8.0, Android-8.1, Android-9, and Android-10 Android ID: A-140055304| 
@@ -46,6 +46,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210107T13:11:44Z | This bash script will help you to hack remote hosts  | https://github.com/FabioDefilippo/linuxallremote | 2 | 1| 
 | 20210107T13:10:15Z | application d%analyse de la trésorerie des exploitations agricoles tunisiennes | https://github.com/agrarian-systems-consulting/endagri-front | 0 | 0| 
 | 20210107T13:02:25Z | Windows Exploit Suggester - Next Generation | https://github.com/bitsadmin/wesng | 2108 | 335| 
 | 20210107T12:49:39Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 7 | 4| 
@@ -55,7 +56,6 @@
 | 20210107T11:48:17Z | Exploit Discord%s cache system to remote upload payloads on Discord users machines | https://github.com/ecriminal/Discord-Cache-Exploit-PoC | 3 | 1| 
 | 20210107T11:35:48Z | A great exploit that was definitely made by myself | https://github.com/cimo-tmd/Meltdown-poc | 1 | 0| 
 | 20210107T10:59:07Z | A tool to recommend available exploits for Windows Operating Systems | https://github.com/7Ragnarok7/Windows-Exploit-Suggester-2021 | 1 | 0| 
-| 20210107T10:22:15Z | Documentation of the HTB exploits | https://github.com/nic126/HTBWalktrough | 0 | 0| 
 
 
 # backdoor on Github 推荐
