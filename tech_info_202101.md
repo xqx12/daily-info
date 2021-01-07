@@ -113,6 +113,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210107T01:09:39Z | Scalable fuzzing infrastructure. | https://github.com/google/clusterfuzz | 4406 | 407| 
 | 20210107T01:05:00Z | OSS-Fuzz - continuous fuzzing of open source software. | https://github.com/google/oss-fuzz | 5775 | 1152| 
 | 20210107T00:35:51Z | VMI Kernel Fuzzer for Xen Project - VM forking, VMI & AFL integration demo | https://github.com/intel/kernel-fuzzer-for-xen-project | 223 | 35| 
 | 20210106T23:34:38Z | Manage & generate prefs.js files | https://github.com/MozillaSecurity/prefpicker | 2 | 1| 
@@ -122,7 +123,6 @@
 | 20210106T22:37:22Z | Fuzzing cryptographic libraries. Magic bug printer go brrrr. | https://github.com/guidovranken/cryptofuzz | 230 | 31| 
 | 20210106T22:33:34Z | Repository for Fuzzy Miner Web application. | https://github.com/fnc11/FuzzyMiner | 5 | 0| 
 | 20210106T21:52:51Z | A library used for test fuzzing. Uses Mirage and attaches to xUnit as a Theory data source to create random data based on the annotations placed on the class. By default it saves the information used in each test so you can go back and retest as needed. | https://github.com/JaCraig/TestFountain | 0 | 0| 
-| 20210106T21:44:16Z | 💊 Simple Script to Control Drugstore Warehouse using an Expert System Based on Fuzzy Rules | https://github.com/wildonion/fuzzy-drugstore | 0 | 0| 
 
 
 
