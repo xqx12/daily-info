@@ -113,6 +113,8 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210107T02:45:58Z | document for FuzzX | https://github.com/YYC0626/FuzzX_docs | 0 | 0| 
+| 20210107T02:44:30Z | Null | https://github.com/rameshreddyb/fuzzy-spork | 0 | 0| 
 | 20210107T02:07:33Z | Bazel Starlark extensions for defining fuzz tests in Bazel projects | https://github.com/bazelbuild/rules_fuzzing | 6 | 2| 
 | 20210107T01:31:15Z | Null | https://github.com/mrfuzz12/FuzzCheat | 0 | 0| 
 | 20210107T01:09:39Z | Scalable fuzzing infrastructure. | https://github.com/google/clusterfuzz | 4406 | 407| 
@@ -121,8 +123,6 @@
 | 20210106T23:34:38Z | Manage & generate prefs.js files | https://github.com/MozillaSecurity/prefpicker | 2 | 1| 
 | 20210106T23:11:43Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2242 | 113| 
 | 20210106T23:08:06Z | A differential fuzzer for x86 decoders | https://github.com/trailofbits/mishegos | 124 | 17| 
-| 20210106T22:46:44Z | Personal website of Laurence Hughes | https://github.com/fuzzylogicxx/fuzzylogic | 4 | 1| 
-| 20210106T22:37:22Z | Fuzzing cryptographic libraries. Magic bug printer go brrrr. | https://github.com/guidovranken/cryptofuzz | 230 | 31| 
 
 
 
