@@ -83,6 +83,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210107T02:06:07Z |  A Python script for Codebug that which exploits the Coindesk and Bitstamp API (V2 and v2)  to display the price of Bitcoins in real time on the codebug led display. The price is in dollars. | https://github.com/JonnyBanana/Codebug_BTC_RealTime_Price | 11 | 3| 
 | 20210107T02:05:32Z |  :hatched_chick: :hatched_chick: :hatched_chick:   A very quickly script for rubber ducky which exploits the gatherNetworkInfo.vbs file in the C: \ Windows \ System32 folder to steal different information from the victim machine. It Requires twin Duck Firmware    :hatched_chick: :hatched_chick: :hatched_chick: | https://github.com/JonnyBanana/Rubber_Ducky_Gather_Network_Info | 12 | 6| 
 | 20210107T02:04:32Z | [Roblox] Downtown RP ESP (Gun Crates, Printers) -- genta | https://github.com/subn0de/Roblox_Exploits | 0 | 0| 
 | 20210107T01:37:38Z | exploit-database-papers | https://github.com/offensive-security/exploitdb-papers | 276 | 39| 
@@ -92,7 +93,6 @@
 | 20210106T23:08:16Z | Minecraft Plugin to stop cheaty raid farms that exploit infinite bad omen loops | https://github.com/jmanpenilla/AntiRaidFarm | 1 | 0| 
 | 20210106T22:46:10Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 8860 | 1400| 
 | 20210106T22:26:44Z | Security and Hacking Tools, Exploits, Proof of Concepts, Shellcodes, Scripts. | https://github.com/nullsecuritynet/tools | 1281 | 442| 
-| 20210106T21:14:11Z | Albatar is a SQLi exploitation framework in Python | https://github.com/lanjelot/albatar | 105 | 33| 
 
 
 # backdoor on Github 推荐
