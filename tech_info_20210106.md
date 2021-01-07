@@ -28,10 +28,10 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20210106T16:58:10Z | 未知编号 | 2020一些漏洞 | https://github.com/r0eXpeR/CVE-2020 | 未查询到CVE信息| 
+| 20210106T16:58:10Z | 未知编号 | 2020一些漏洞 | https://github.com/r0eXpeR/CVE-2020 | | 
 | 20210106T16:12:43Z | CVE-2020-28052 | Null | https://github.com/kurenaif/CVE-2020-28052_PoC | An issue was discovered in Legion of the Bouncy Castle BC Java 1.65 and 1.66. The OpenBSDBCrypt.checkPassword utility method compared incorrect data when checking the password, allowing incorrect passwords to indicate they were matching with previously hashed ones that were different.| 
 | 20210106T15:54:02Z | CVE-2020-3452 | CISCO CVE-2020-3452 Scanner & Exploiter | https://github.com/darklotuskdb/CISCO-CVE-2020-3452-Scanner-Exploiter | A vulnerability in the web services interface of Cisco Adaptive Security Appliance (ASA) Software and Cisco Firepower Threat Defense (FTD) Software could allow an unauthenticated, remote attacker to conduct directory traversal attacks and read sensitive files on a targeted system. The vulnerability is due to a lack of proper input validation of URLs in HTTP requests processed by an affected device. An attacker could exploit this vulnerability by sending a crafted HTTP request containing directory traversal character sequences to an affected device. A successful exploit could allow the attacker to view arbitrary files within the web services file system on the targeted device. The web services file system is enabled when the affected device is configured with either WebVPN or AnyConnect features. This vulnerability cannot be used to obtain access to ASA or FTD system files or underlying operating system (OS) files.| 
-| 20210106T14:01:08Z | CVE-2020-17518 | Null | https://github.com/QmF0c3UK/CVE-2020-17518 | Apache Flink 1.5.1 introduced a REST handler that allows you to write an uploaded file to an arbitrary location on the local file system, through a maliciously modified HTTP HEADER. The files can be written to any location accessible by Flink 1.5.1. All users should upgrade to Flink 1.11.3 or 1.12.0 if their Flink instance(s) are exposed. The issue was fixed in commit a5264a6f41524afe8ceadf1d8ddc8c80f323ebc4 from apache/flink:master.| 
+| 20210106T14:01:08Z | CVE-2020-17518 | Null | https://github.com/QmF0c3UK/CVE-2020-17518 | | 
 | 20210106T13:42:00Z | CVE-2020-17519 | Null | https://github.com/QmF0c3UK/CVE-2020-17519 | A change introduced in Apache Flink 1.11.0 (and released in 1.11.1 and 1.11.2 as well) allows attackers to read any file on the local filesystem of the JobManager through the REST interface of the JobManager process. Access is restricted to files accessible by the JobManager process. All users should upgrade to Flink 1.11.3 or 1.12.0 if their Flink instance(s) are exposed. The issue was fixed in commit b561010b0ee741543c3953306037f00d7a9f0801 from apache/flink:master.| 
 | 20210106T06:28:36Z | CVE-2020-10148 | SolarWinds Orion API 远程代码执行漏洞批量检测脚本 | https://github.com/B1anda0/CVE-2020-10148 | The SolarWinds Orion API is vulnerable to an authentication bypass that could allow a remote attacker to execute API commands. This vulnerability could allow a remote attacker to bypass authentication and execute API commands which may result in a compromise of the SolarWinds instance. SolarWinds Orion Platform versions 2019.4 HF 5, 2020.2 with no hotfix installed, and 2020.2 HF 1 are affected.| 
 | 20210106T02:53:25Z | cve-2020- | Null | https://github.com/asc0t6e/cve-2020-test | 未查询到CVE信息| 
@@ -90,12 +90,12 @@
 | 20210106T23:11:43Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2242 | 113| 
 | 20210106T23:08:06Z | A differential fuzzer for x86 decoders | https://github.com/trailofbits/mishegos | 124 | 17| 
 | 20210106T22:46:44Z | Personal website of Laurence Hughes | https://github.com/fuzzylogicxx/fuzzylogic | 4 | 1| 
-| 20210106T22:37:22Z | Fuzzing cryptographic libraries. Magic bug printer go brrrr. | https://github.com/guidovranken/cryptofuzz | 230 | 31| 
 | 20210106T22:33:34Z | Repository for Fuzzy Miner Web application. | https://github.com/fnc11/FuzzyMiner | 5 | 0| 
 | 20210106T21:52:51Z | A library used for test fuzzing. Uses Mirage and attaches to xUnit as a Theory data source to create random data based on the annotations placed on the class. By default it saves the information used in each test so you can go back and retest as needed. | https://github.com/JaCraig/TestFountain | 0 | 0| 
 | 20210106T21:44:16Z | 💊 Simple Script to Control Drugstore Warehouse using an Expert System Based on Fuzzy Rules | https://github.com/wildonion/fuzzy-drugstore | 0 | 0| 
 | 20210106T21:43:28Z | RESTler is the first stateful REST API fuzzing tool for automatically testing cloud services through their REST APIs and finding security and reliability bugs in these services. | https://github.com/microsoft/restler-fuzzer | 616 | 52| 
 | 20210106T20:26:35Z | Fuzzy finder for every AWS component | https://github.com/AndreZiviani/aws-fuzzy | 2 | 1| 
+| 20210106T20:22:18Z | Diverse, the Fuzzer pico library you need to make your .NET tests more Diverse | https://github.com/42skillz/Diverse | 9 | 2| 
 
 
 
