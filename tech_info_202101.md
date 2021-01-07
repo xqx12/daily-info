@@ -15,6 +15,8 @@
 | 20210106 | 两种 Windows anti-debug 新方法 | https://secret.club/2021/01/04/thread-stuff.html| 
 | 20210106 | 一月份补丁中 Android 修复 43 个漏洞 | https://threatpost.com/google-warns-of-critical-android-remote-code-execution-bug/162756/| 
 | 20210106 | Windows. NTFS 文件系统上个月修复的 CVE-2020-17096 RCE 漏洞的分析 | https://blog.zecops.com/vulnerabilities/ntfs-remote-code-execution-cve-2020-17096-analysis/| 
+| 20210106 | NICER协议深入研究：互联网的域名系统（DNS）服务报告公开。 | https://blog.rapid7.com/2021/01/05/nicer-protocol-deep-dive-internet-exposure-of-dns/| 
+| 20210106 | 漏洞焦点：Genivia gSOAP工具插件中包出现多个漏洞问题。 | https://blog.talosintelligence.com/2021/01/vuln-spotlight-genivia-gsoap-.html?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+feedburner%2FTalos+%28Talos%E2%84%A2+Blog%29| 
 | 20210105 | Tying It All Together - Pwning To Own on LG phones | https://douevenknow.us/post/639414006930702336/tying-it-all-together-pwning-to-own-on-lg-phones| 
 | 20210105 | 三星手机 RKP（Real-time Kernel Protection）内核防护技术深度剖析 | https://blog.longterm.io/samsung_rkp.html| 
 | 20210105 | Stopping Serial Killer: Catching the Next Strike | https://research.checkpoint.com/2021/stopping-serial-killer-catching-the-next-strike/| 
@@ -24,8 +26,6 @@
 | 20210105 | Cache Poisoning DoS Vulnerability | https://iustin24.github.io/Cache-Key-Normalization-Denial-of-Service/?cb=1| 
 | 20210105 | 研究员 Alisa Esage 公开了两个之前会议演讲的视频 | https://www.youtube.com/channel/UC-a8hBNKa-n0O5bjRu-_Khw| 
 | 20210105 | 研究员 Anant Shrivastava 关于 Android Security 培训的资料 | https://github.com/anantshri/Android_Security| 
-| 20210105 | XNU 内核 socket UAF 漏洞分析 | https://sec.today/pulses/7fbac7bc-3db1-4d5b-b0c5-0169e841b79f/| 
-| 20210105 | XNU 内核 socket UAF 漏洞分析 | https://blog.pangu.io/?p=230| 
 
 
 # 安全维基 推荐
@@ -46,25 +46,25 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20210106T13:51:45Z | CVE-2020-17519 | Apache Flink 目录遍历漏洞批量检测 (CVE-2020-17519) | https://github.com/B1anda0/CVE-2020-17519 | | 
+| 20210106T21:16:52Z | CVE-2020-17519 | Apache Flink 目录遍历漏洞批量检测 (CVE-2020-17519) | https://github.com/B1anda0/CVE-2020-17519 | A change introduced in Apache Flink 1.11.0 (and released in 1.11.1 and 1.11.2 as well) allows attackers to read any file on the local filesystem of the JobManager through the REST interface of the JobManager process. Access is restricted to files accessible by the JobManager process. All users should upgrade to Flink 1.11.3 or 1.12.0 if their Flink instance(s) are exposed. The issue was fixed in commit b561010b0ee741543c3953306037f00d7a9f0801 from apache/flink:master.| 
+| 20210106T18:53:25Z | CVE-2020-0001 | POC to run system component in an untrusted-app process | https://github.com/Zachinio/CVE-2020-0001 | In getProcessRecordLocked of ActivityManagerService.java isolated apps are not handled correctly. This could lead to local escalation of privilege with no additional execution privileges needed. User interaction is not needed for exploitation. Product: Android Versions: Android-8.0, Android-8.1, Android-9, and Android-10 Android ID: A-140055304| 
+| 20210106T16:58:10Z | 未知编号 | 2020一些漏洞 | https://github.com/r0eXpeR/CVE-2020 | 未查询到CVE信息| 
+| 20210106T16:12:43Z | CVE-2020-28052 | Null | https://github.com/kurenaif/CVE-2020-28052_PoC | An issue was discovered in Legion of the Bouncy Castle BC Java 1.65 and 1.66. The OpenBSDBCrypt.checkPassword utility method compared incorrect data when checking the password, allowing incorrect passwords to indicate they were matching with previously hashed ones that were different.| 
+| 20210106T15:54:02Z | CVE-2020-3452 | CISCO CVE-2020-3452 Scanner & Exploiter | https://github.com/darklotuskdb/CISCO-CVE-2020-3452-Scanner-Exploiter | A vulnerability in the web services interface of Cisco Adaptive Security Appliance (ASA) Software and Cisco Firepower Threat Defense (FTD) Software could allow an unauthenticated, remote attacker to conduct directory traversal attacks and read sensitive files on a targeted system. The vulnerability is due to a lack of proper input validation of URLs in HTTP requests processed by an affected device. An attacker could exploit this vulnerability by sending a crafted HTTP request containing directory traversal character sequences to an affected device. A successful exploit could allow the attacker to view arbitrary files within the web services file system on the targeted device. The web services file system is enabled when the affected device is configured with either WebVPN or AnyConnect features. This vulnerability cannot be used to obtain access to ASA or FTD system files or underlying operating system (OS) files.| 
+| 20210106T14:01:08Z | CVE-2020-17518 | Null | https://github.com/QmF0c3UK/CVE-2020-17518 | Apache Flink 1.5.1 introduced a REST handler that allows you to write an uploaded file to an arbitrary location on the local file system, through a maliciously modified HTTP HEADER. The files can be written to any location accessible by Flink 1.5.1. All users should upgrade to Flink 1.11.3 or 1.12.0 if their Flink instance(s) are exposed. The issue was fixed in commit a5264a6f41524afe8ceadf1d8ddc8c80f323ebc4 from apache/flink:master.| 
 | 20210106T13:42:00Z | CVE-2020-17519 | Null | https://github.com/QmF0c3UK/CVE-2020-17519 | A change introduced in Apache Flink 1.11.0 (and released in 1.11.1 and 1.11.2 as well) allows attackers to read any file on the local filesystem of the JobManager through the REST interface of the JobManager process. Access is restricted to files accessible by the JobManager process. All users should upgrade to Flink 1.11.3 or 1.12.0 if their Flink instance(s) are exposed. The issue was fixed in commit b561010b0ee741543c3953306037f00d7a9f0801 from apache/flink:master.| 
-| 20210106T13:41:07Z | CVE-2020-17518 | Null | https://github.com/QmF0c3UK/CVE-2020-17518 | Apache Flink 1.5.1 introduced a REST handler that allows you to write an uploaded file to an arbitrary location on the local file system, through a maliciously modified HTTP HEADER. The files can be written to any location accessible by Flink 1.5.1. All users should upgrade to Flink 1.11.3 or 1.12.0 if their Flink instance(s) are exposed. The issue was fixed in commit a5264a6f41524afe8ceadf1d8ddc8c80f323ebc4 from apache/flink:master.| 
-| 20210106T13:19:37Z | 未知编号 | 2020一些漏洞 | https://github.com/r0eXpeR/CVE-2020 | 未查询到CVE信息| 
-| 20210106T13:00:56Z | CVE-2020-3452 | CISCO CVE-2020-3452 Scanner & Exploiter | https://github.com/darklotuskdb/CISCO-CVE-2020-3452-Scanner-Exploiter | A vulnerability in the web services interface of Cisco Adaptive Security Appliance (ASA) Software and Cisco Firepower Threat Defense (FTD) Software could allow an unauthenticated, remote attacker to conduct directory traversal attacks and read sensitive files on a targeted system. The vulnerability is due to a lack of proper input validation of URLs in HTTP requests processed by an affected device. An attacker could exploit this vulnerability by sending a crafted HTTP request containing directory traversal character sequences to an affected device. A successful exploit could allow the attacker to view arbitrary files within the web services file system on the targeted device. The web services file system is enabled when the affected device is configured with either WebVPN or AnyConnect features. This vulnerability cannot be used to obtain access to ASA or FTD system files or underlying operating system (OS) files.| 
 | 20210106T06:28:36Z | CVE-2020-10148 | SolarWinds Orion API 远程代码执行漏洞批量检测脚本 | https://github.com/B1anda0/CVE-2020-10148 | The SolarWinds Orion API is vulnerable to an authentication bypass that could allow a remote attacker to execute API commands. This vulnerability could allow a remote attacker to bypass authentication and execute API commands which may result in a compromise of the SolarWinds instance. SolarWinds Orion Platform versions 2019.4 HF 5, 2020.2 with no hotfix installed, and 2020.2 HF 1 are affected.| 
 | 20210106T02:53:25Z | cve-2020- | Null | https://github.com/asc0t6e/cve-2020-test | 未查询到CVE信息| 
 | 20210106T01:32:23Z | CVE-2020-35728 |  CVE-2020-35728 & Jackson-databind RCE | https://github.com/Al1ex/CVE-2020-35728 | FasterXML jackson-databind 2.x before 2.9.10.8 mishandles the interaction between serialization gadgets and typing, related to com.oracle.wls.shaded.org.apache.xalan.lib.sql.JNDIConnectionPool (aka embedded Xalan in org.glassfish.web/javax.servlet.jsp.jstl).| 
-| 20210105T19:48:54Z | CVE-2020-35262 | Cross Site Scripting (XSS) in Digisol DG-HR3400 Router | https://github.com/the-girl-who-lived/CVE-2020-35262 | 未查询到CVE信息| 
-| 20210105T19:48:32Z | CVE-2020-25498 | Stored XSS via CSRF in Beetel 777VR1 Router  | https://github.com/the-girl-who-lived/CVE-2020-25498 | 未查询到CVE信息| 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210106T13:27:29Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1593 | 478| 
+| 20210106T15:24:38Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1594 | 478| 
+| 20210106T14:53:29Z | Data-driven symbolic execution engine, implemented on top of KLEE | https://github.com/kupl/dd-klee | 0 | 1| 
 | 20210106T12:41:52Z | Null | https://github.com/Eclipse2552/KleeFieg | 0 | 0| 
 | 20210106T11:17:11Z | Null | https://github.com/foxcore-azizi/kleet4 | 0 | 0| 
-| 20210106T03:54:05Z | Data-driven symbolic execution engine, implemented on top of KLEE | https://github.com/kupl/dd-klee | 0 | 1| 
 | 20210105T02:56:21Z | Create CFGs and compute complexity metrics for Python, C++, and Java code. | https://github.com/hmc-alpaqa/metrinome | 5 | 0| 
 | 20210104T11:45:59Z | Null | https://github.com/viktorfrom/klee_tutorial | 0 | 0| 
 | 20210104T07:22:14Z | Null | https://github.com/markhakansson/klee-tutorial | 0 | 0| 
