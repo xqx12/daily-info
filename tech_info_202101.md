@@ -83,31 +83,31 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210106T13:49:49Z | Built a X3D based Virtual Museum exploiting HTML5, CSS3, X3D (X3DOM), JavaScript , jQuery, Bootstrap 4, AJAX for asynchronous update of HTML contents, JSON for data transfer from the backend to the frontend, PHP to access data from a SQLite database, and all configured in a MVC design pattern. And, of course, a selection of 3D Models made by myself. | https://github.com/dr271/Web-3D-Virtual-Museum | 3 | 0| 
-| 20210106T13:38:56Z | Vulnerabilities of Goby supported with exploitation. | https://github.com/gobysec/GobyVuls | 100 | 19| 
-| 20210106T13:00:56Z | CISCO CVE-2020-3452 Scanner & Exploiter | https://github.com/darklotuskdb/CISCO-CVE-2020-3452-Scanner-Exploiter | 33 | 5| 
-| 20210106T12:52:54Z | The official Exploit Database repository | https://github.com/offensive-security/exploitdb | 5801 | 1660| 
-| 20210106T12:49:39Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 6 | 3| 
-| 20210106T12:23:34Z | Resilient CG implementation from %Exploiting asynchrony from exact forward recovery for DUE in iterative solvers% Jaulmes et al. SC%15. doi:10.1145/2807591.2807599 | https://github.com/lucjaulmes/resilient_cg | 0 | 0| 
-| 20210106T11:04:30Z | ZetaSploit Framework is a powerful exploitation framework that contains a lot of modules for attacking targets, interacting with targets, exploiting common vulnerabilities and etc. | https://github.com/EntySec/ZetaSploit | 8 | 4| 
-| 20210106T10:31:19Z | DeimosC2 is a Golang command and control framework for post-exploitation. | https://github.com/DeimosC2/DeimosC2 | 396 | 69| 
-| 20210106T10:17:01Z | Collect&Create exploit for gitlab | https://github.com/L3ss-dev/gitlab-exploit | 0 | 0| 
-| 20210106T10:12:32Z | This project is designed to express how to use Android MVVM architecture while exploiting the right practices. | https://github.com/mbobiosio/KotlinMVVMRetrofitRoom | 0 | 1| 
+| 20210107T00:49:38Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 6 | 3| 
+| 20210106T23:59:00Z | AMWScan (PHP Antimalware Scanner) is a free tool to scan php files and analyze your project to find any malicious code inside it. | https://github.com/marcocesarato/PHP-Antimalware-Scanner | 161 | 29| 
+| 20210106T23:28:43Z | Various ASM, C and C++ tools, shellcodes and exploit experiments. | https://github.com/forrest-orr/ExploitDev | 30 | 2| 
+| 20210106T23:08:16Z | Minecraft Plugin to stop cheaty raid farms that exploit infinite bad omen loops | https://github.com/jmanpenilla/AntiRaidFarm | 1 | 0| 
+| 20210106T22:46:10Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 8860 | 1400| 
+| 20210106T22:26:44Z | Security and Hacking Tools, Exploits, Proof of Concepts, Shellcodes, Scripts. | https://github.com/nullsecuritynet/tools | 1281 | 442| 
+| 20210106T21:14:11Z | Albatar is a SQLi exploitation framework in Python | https://github.com/lanjelot/albatar | 105 | 33| 
+| 20210106T20:49:52Z | Exploiting CVE-2014-3153, AKA Towelroot. | https://github.com/elongl/CVE-2014-3153 | 0 | 0| 
+| 20210106T20:09:36Z | Exploit Discord%s cache system to remote upload payloads on Discord users machines | https://github.com/ecriminal/Discord-Cache-Exploit-PoC | 2 | 0| 
+| 20210106T20:06:04Z | An attack/exploit Detector that utilizes Polymorphism and Diversity | https://github.com/polyverse/zerotect | 21 | 1| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210106T13:29:56Z | TrojanZoo provides a universal pytorch platform to conduct security researches (especially backdoor attacks/defenses) of image classification in deep learning. | https://github.com/ain-soph/trojanzoo | 24 | 5| 
+| 20210107T00:32:54Z | official implementation of our %Graph Backdoor% paper | https://github.com/HarrialX/Graph-Backdoor | 0 | 0| 
+| 20210107T00:09:32Z | TrojanZoo provides a universal pytorch platform to conduct security researches (especially backdoor attacks/defenses) of image classification in deep learning. | https://github.com/ain-soph/trojanzoo | 24 | 5| 
+| 20210106T23:59:00Z | AMWScan (PHP Antimalware Scanner) is a free tool to scan php files and analyze your project to find any malicious code inside it. | https://github.com/marcocesarato/PHP-Antimalware-Scanner | 161 | 29| 
+| 20210106T18:19:23Z | Null | https://github.com/MadsKaiser/backdoor | 0 | 0| 
+| 20210106T16:50:01Z | Null | https://github.com/mpandya18/Image_Permutator_For_Backdoor_Generation | 0 | 0| 
+| 20210106T15:18:32Z | PCI Express DIY hacking toolkit for Xilinx SP605 | https://github.com/Cr4sh/s6_pcie_microblaze | 294 | 77| 
 | 20210106T12:55:36Z | Null | https://github.com/D4SuCE/backdoor | 0 | 0| 
 | 20210106T12:42:43Z | Null | https://github.com/rabbitx1337/backdoor | 0 | 0| 
 | 20210106T10:33:53Z | Null | https://github.com/Yunolay/image-backdoor | 0 | 0| 
-| 20210106T10:09:16Z | A free tool to scan php files and analyze your project to find any malicious code inside it. | https://github.com/marcocesarato/PHP-Antimalware-Scanner | 161 | 29| 
-| 20210106T09:21:59Z | Null | https://github.com/MadsKaiser/backdoor | 0 | 0| 
 | 20210106T08:32:14Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 140 | 20| 
-| 20210106T07:53:15Z | Null | https://github.com/hassanalharbi123/backdoor | 0 | 0| 
-| 20210106T06:45:02Z | Clean version of Phobos with no backdoor, Hacked Client for minecraft 1.12.2 | https://github.com/EnormousPotato/Clean_Phobos_1.5.4 | 0 | 0| 
-| 20210106T06:32:38Z | Kumpulan Tutorial Deface  For Newbie + Shell backdoor + Scrift Deface + Dork | https://github.com/aceptriana/deface | 0 | 0| 
 
 
 # fuzz on Github 推荐
