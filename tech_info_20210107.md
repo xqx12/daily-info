@@ -85,7 +85,7 @@
 | 20210107T22:57:38Z | Manage & generate prefs.js files | https://github.com/MozillaSecurity/prefpicker | 2 | 1| 
 | 20210107T22:52:30Z | Null | https://github.com/10JAL/fuzzy-octo-rotary-phone | 0 | 0| 
 | 20210107T22:49:54Z | Null | https://github.com/Kradirhamik/fuzzy-octo-pancake | 0 | 0| 
-| 20210107T22:30:38Z | Adds ~ to searches on pathofexile.com/trade to enable fuzzy search. No more exact wording needed. | https://github.com/JonasRock/POETradeFuzzySearch | 0 | 0| 
+| 20210107T22:30:38Z | Adds ~ to searches on pathofexile.com/trade to enable fuzzy search. No more exact wording needed. | https://github.com/JonasRock/POETradeFuzzySearch | 0 | 1| 
 | 20210107T22:15:11Z | Personal website of Laurence Hughes | https://github.com/fuzzylogicxx/fuzzylogic | 4 | 1| 
 | 20210107T21:20:59Z | Null | https://github.com/MOHQ-TM/XSS_Fuzzing | 0 | 0| 
 
