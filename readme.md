@@ -79,10 +79,10 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210108T13:45:23Z | Challenging testcases for fuzzers | https://github.com/AFLplusplus/fuzzer-challenges | 7 | 0| 
 | 20210108T13:04:03Z | Fuzzinator Random Testing Framework | https://github.com/renatahodovan/fuzzinator | 164 | 38| 
 | 20210108T13:01:43Z | Adds ~ to searches on pathofexile.com/trade to enable fuzzy search. No more exact wording needed. | https://github.com/JonasRock/POETradeFuzzySearch | 2 | 2| 
 | 20210108T12:49:04Z | Null | https://github.com/cleiomsqs/fuzzy-octo-carnival | 0 | 0| 
-| 20210108T12:23:32Z | Challenging testcases for fuzzers | https://github.com/AFLplusplus/fuzzer-challenges | 7 | 0| 
 | 20210108T12:22:36Z | The Official Fuzzy Britches Repository. | https://github.com/ThePapaw/fuzzybritches | 0 | 0| 
 | 20210108T12:04:27Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 1236 | 265| 
 | 20210108T12:02:52Z | C++ Fuzzy logic with ImGui interface | https://github.com/Renardjojo/FuzzyLogic | 0 | 0| 
