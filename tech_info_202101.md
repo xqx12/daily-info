@@ -114,7 +114,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210108T02:35:02Z | document for FuzzX | https://github.com/YYC0626/FuzzX_docs | 0 | 0| 
+| 20210108T02:38:10Z | document for FuzzX | https://github.com/YYC0626/FuzzX_docs | 0 | 0| 
 | 20210108T02:31:18Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 1233 | 264| 
 | 20210108T02:24:11Z | fuzz and property testing front-end for Rust | https://github.com/camshaft/bolero | 15 | 2| 
 | 20210108T02:23:14Z | A differential fuzzer for x86 decoders | https://github.com/trailofbits/mishegos | 124 | 17| 
