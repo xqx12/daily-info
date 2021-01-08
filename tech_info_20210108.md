@@ -53,7 +53,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210108T13:04:06Z | Vulmap - Web vulnerability scanning and verification tools，支持扫描 activemq, flink, shiro, solr, struts2, tomcat, unomi, drupal, elasticsearch, nexus, weblogic, jboss, thinkphp，并且具备漏洞利用功能。CVE-2020-14882, CVE-2020-2555, CVE-2020-2883, S2-061, CVE-2020-13942, CVE-2020-17530, CVE-2020-17518, CVE-2020-17519 | https://github.com/zhzyker/vulmap | 694 | 124| 
+| 20210108T13:06:42Z | A Basic Exploitation script to open up the Calculator app by exploiting Vuln-Server | https://github.com/spicesouls/vulnserver-exploit | 0 | 0| 
+| 20210108T13:05:33Z | Vulmap - Web vulnerability scanning and verification tools，支持扫描 activemq, flink, shiro, solr, struts2, tomcat, unomi, drupal, elasticsearch, nexus, weblogic, jboss, thinkphp，并且具备漏洞利用功能。CVE-2020-14882, CVE-2020-2555, CVE-2020-2883, S2-061, CVE-2020-13942, CVE-2020-17530, CVE-2020-17518, CVE-2020-17519 | https://github.com/zhzyker/vulmap | 695 | 124| 
 | 20210108T12:49:39Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 7 | 4| 
 | 20210108T12:39:47Z | Exploit hub UI | https://github.com/GameLoaded-Entertainment/UI-Library | 0 | 0| 
 | 20210108T12:26:57Z | Very simple script(s) to hasten binary exploit creation | https://github.com/152334H/pwnscripts | 32 | 2| 
@@ -62,17 +63,16 @@
 | 20210108T12:20:43Z | Null | https://github.com/arda6/ProfExploiter | 0 | 0| 
 | 20210108T12:14:35Z | Rex library for various exploitation helpers | https://github.com/rapid7/rex-exploitation | 13 | 29| 
 | 20210108T12:14:29Z | Null | https://github.com/YossiSassi/ZeroLogon-Exploitation-Check | 3 | 0| 
-| 20210108T11:56:14Z | Documentation of the HTB exploits | https://github.com/nic126/HTBWalktrough | 0 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210108T13:04:52Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 141 | 20| 
 | 20210108T11:14:02Z | Null | https://github.com/mpandya18/Image_Permutator_For_Backdoor_Generation | 0 | 0| 
 | 20210108T09:30:48Z | Information This tool is for educational purpose only, usage of TheFatRat for attacking targets without prior mutual consent is illegal. Developers assume no liability and are not responsible for any misuse or damage cause by this program.  Features ! Fully Automating MSFvenom & Metasploit. Local or remote listener Generation. Easily Make Backdoor by category Operating System. Generate payloads in Various formats. Bypass anti-virus backdoors. File pumper that you can use for increasing the size of your files. The ability to detect external IP & Interface address . Automatically creates AutoRun files for USB / CDROM exploitation But it%s shit! And your implementation sucks! Yes, you%re probably correct. Feel free to %Not use it% and there is a pull button to %Make it better%. Installation Instructions on how to install TheFatRat  git clone https://github.com/Screetsec/TheFatRat.git cd TheFatRat chmod +x setup.sh && ./setup.sh Update cd TheFatRat ./update && chmod +x setup.sh && ./setup.sh Troubleshoot on TheFatRat chk_tools script to use in case of problems in setup.sh of fatrat this script will check if everything is in the right version to run fatrat and will also provide you a solution for the problem  cd TheFatRat chmod +x chk_tools  ./chk_tools | https://github.com/nyctophile6/TheFatRat | 0 | 0| 
 | 20210108T08:45:06Z | Null | https://github.com/rensx5514/BackdoorAttackNN-Pro | 0 | 0| 
 | 20210108T08:07:09Z | Null | https://github.com/MadsKaiser/backdoor | 0 | 0| 
-| 20210108T06:03:00Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 140 | 20| 
 | 20210108T02:50:25Z | Null | https://github.com/4k5k-Real/backdoored | 0 | 0| 
 
 
