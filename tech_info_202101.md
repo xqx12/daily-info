@@ -52,8 +52,8 @@
 | 20210108T08:49:39Z | 未知编号 | 2020l4web-campaign-DanCvejn created by GitHub Classroom | https://github.com/pslib-cz/2020l4web-campaign-DanCvejn | 未查询到CVE信息| 
 | 20210108T08:47:41Z | CVE-2020-11851 | Remote Code Execution vulnerability on ArcSight Logger | https://github.com/ch1nghz/CVE-2020-11851 | Arbitrary code execution vulnerability on Micro Focus ArcSight Logger product, affecting all version prior to 7.1.1. The vulnerability could be remotely exploited resulting in the execution of arbitrary code.| 
 | 20210108T06:55:55Z | CVE-2020-17519 | CVE-2020-17519 | https://github.com/hoanx4/CVE-2020-17519 | A change introduced in Apache Flink 1.11.0 (and released in 1.11.1 and 1.11.2 as well) allows attackers to read any file on the local filesystem of the JobManager through the REST interface of the JobManager process. Access is restricted to files accessible by the JobManager process. All users should upgrade to Flink 1.11.3 or 1.12.0 if their Flink instance(s) are exposed. The issue was fixed in commit b561010b0ee741543c3953306037f00d7a9f0801 from apache/flink:master.| 
-| 20210108T06:49:53Z | 未知编号 | 2020一些漏洞 | https://github.com/r0eXpeR/CVE-2020 | 未查询到CVE信息| 
-| 20210108T06:43:14Z | CVE-2020-17530 | Null | https://github.com/uzzzval/CVE-2020-17530 | | 
+| 20210108T06:49:53Z | 未知编号 | 2020一些漏洞 | https://github.com/r0eXpeR/CVE-2020 | | 
+| 20210108T06:43:14Z | CVE-2020-17530 | Null | https://github.com/uzzzval/CVE-2020-17530 | Forced OGNL evaluation, when evaluated on raw user input in tag attributes, may lead to remote code execution. Affected software : Apache Struts 2.0.0 - Struts 2.5.25.| 
 | 20210108T03:41:15Z | CVE-2020-29583 | Scanner for Zyxel products which are potentially vulnerable due to an undocumented user account (CVE-2020-29583) | https://github.com/2d4d/scan_CVE-2020-29583 | Firmware version 4.60 of Zyxel USG devices contains an undocumented account (zyfwp) with an unchangeable password. The password for this account can be found in cleartext in the firmware. This account can be used by someone to login to the ssh server or web interface with admin privileges.| 
 | 20210108T01:40:02Z | CVE-2020-3452 | CISCO CVE-2020-3452 Scanner & Exploiter | https://github.com/darklotuskdb/CISCO-CVE-2020-3452-Scanner-Exploiter | A vulnerability in the web services interface of Cisco Adaptive Security Appliance (ASA) Software and Cisco Firepower Threat Defense (FTD) Software could allow an unauthenticated, remote attacker to conduct directory traversal attacks and read sensitive files on a targeted system. The vulnerability is due to a lack of proper input validation of URLs in HTTP requests processed by an affected device. An attacker could exploit this vulnerability by sending a crafted HTTP request containing directory traversal character sequences to an affected device. A successful exploit could allow the attacker to view arbitrary files within the web services file system on the targeted device. The web services file system is enabled when the affected device is configured with either WebVPN or AnyConnect features. This vulnerability cannot be used to obtain access to ASA or FTD system files or underlying operating system (OS) files.| 
 
@@ -84,6 +84,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210108T13:04:06Z | Vulmap - Web vulnerability scanning and verification tools，支持扫描 activemq, flink, shiro, solr, struts2, tomcat, unomi, drupal, elasticsearch, nexus, weblogic, jboss, thinkphp，并且具备漏洞利用功能。CVE-2020-14882, CVE-2020-2555, CVE-2020-2883, S2-061, CVE-2020-13942, CVE-2020-17530, CVE-2020-17518, CVE-2020-17519 | https://github.com/zhzyker/vulmap | 694 | 124| 
 | 20210108T12:49:39Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 7 | 4| 
 | 20210108T12:39:47Z | Exploit hub UI | https://github.com/GameLoaded-Entertainment/UI-Library | 0 | 0| 
 | 20210108T12:26:57Z | Very simple script(s) to hasten binary exploit creation | https://github.com/152334H/pwnscripts | 32 | 2| 
@@ -93,7 +94,6 @@
 | 20210108T12:14:35Z | Rex library for various exploitation helpers | https://github.com/rapid7/rex-exploitation | 13 | 29| 
 | 20210108T12:14:29Z | Null | https://github.com/YossiSassi/ZeroLogon-Exploitation-Check | 3 | 0| 
 | 20210108T11:56:14Z | Documentation of the HTB exploits | https://github.com/nic126/HTBWalktrough | 0 | 0| 
-| 20210108T11:35:15Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 8870 | 1406| 
 
 
 # backdoor on Github 推荐
@@ -114,6 +114,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210108T13:04:03Z | Fuzzinator Random Testing Framework | https://github.com/renatahodovan/fuzzinator | 164 | 38| 
 | 20210108T13:01:43Z | Adds ~ to searches on pathofexile.com/trade to enable fuzzy search. No more exact wording needed. | https://github.com/JonasRock/POETradeFuzzySearch | 2 | 2| 
 | 20210108T12:49:04Z | Null | https://github.com/cleiomsqs/fuzzy-octo-carnival | 0 | 0| 
 | 20210108T12:23:32Z | Challenging testcases for fuzzers | https://github.com/AFLplusplus/fuzzer-challenges | 7 | 0| 
@@ -123,7 +124,6 @@
 | 20210108T11:59:23Z | Null | https://github.com/7evy/Fuzzy_Queries | 0 | 0| 
 | 20210108T11:33:13Z | Null | https://github.com/s9varesc/url-fuzzing-docker | 0 | 0| 
 | 20210108T11:30:44Z | Fuzzy Sync Presentation 2021 | https://github.com/richiejp/fuzzy-sync-pres-2021 | 0 | 0| 
-| 20210108T10:49:48Z | Null | https://github.com/guidovranken/wolf-ssl-ssh-fuzzers | 3 | 1| 
 
 
 
