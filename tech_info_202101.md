@@ -84,11 +84,11 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210108T13:56:01Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 8871 | 1406| 
 | 20210108T13:52:21Z | A Good One Exploit | https://github.com/NiZXD471/BKHAX-Repost | 0 | 0| 
 | 20210108T13:42:29Z | Null | https://github.com/mafiaguy/exploittools | 0 | 0| 
 | 20210108T13:39:48Z | Some heap exploits | https://github.com/limitedeternity/HeapLAB | 0 | 0| 
 | 20210108T13:20:39Z | A Basic Exploitation script to open up the Calculator app by exploiting Vuln-Server | https://github.com/spicesouls/vulnserver-exploit | 0 | 0| 
-| 20210108T13:11:49Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 8871 | 1406| 
 | 20210108T13:05:33Z | Vulmap - Web vulnerability scanning and verification tools，支持扫描 activemq, flink, shiro, solr, struts2, tomcat, unomi, drupal, elasticsearch, nexus, weblogic, jboss, thinkphp，并且具备漏洞利用功能。CVE-2020-14882, CVE-2020-2555, CVE-2020-2883, S2-061, CVE-2020-13942, CVE-2020-17530, CVE-2020-17518, CVE-2020-17519 | https://github.com/zhzyker/vulmap | 695 | 124| 
 | 20210108T12:49:39Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 7 | 4| 
 | 20210108T12:39:47Z | Exploit hub UI | https://github.com/GameLoaded-Entertainment/UI-Library | 0 | 0| 
