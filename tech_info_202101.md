@@ -55,7 +55,7 @@
 | 20210107T06:11:13Z | CVE-2020-17518 | Null | https://github.com/QmF0c3UK/CVE-2020-17518 | Apache Flink 1.5.1 introduced a REST handler that allows you to write an uploaded file to an arbitrary location on the local file system, through a maliciously modified HTTP HEADER. The files can be written to any location accessible by Flink 1.5.1. All users should upgrade to Flink 1.11.3 or 1.12.0 if their Flink instance(s) are exposed. The issue was fixed in commit a5264a6f41524afe8ceadf1d8ddc8c80f323ebc4 from apache/flink:master.| 
 | 20210106T16:58:10Z | 未知编号 | 2020一些漏洞 | https://github.com/r0eXpeR/CVE-2020 | 未查询到CVE信息| 
 | 20210106T16:12:43Z | CVE-2020-28052 | Null | https://github.com/kurenaif/CVE-2020-28052_PoC | An issue was discovered in Legion of the Bouncy Castle BC Java 1.65 and 1.66. The OpenBSDBCrypt.checkPassword utility method compared incorrect data when checking the password, allowing incorrect passwords to indicate they were matching with previously hashed ones that were different.| 
-| 20210106T13:42:00Z | CVE-2020-17519 | Null | https://github.com/QmF0c3UK/CVE-2020-17519 | | 
+| 20210106T13:42:00Z | CVE-2020-17519 | Null | https://github.com/QmF0c3UK/CVE-2020-17519 | A change introduced in Apache Flink 1.11.0 (and released in 1.11.1 and 1.11.2 as well) allows attackers to read any file on the local filesystem of the JobManager through the REST interface of the JobManager process. Access is restricted to files accessible by the JobManager process. All users should upgrade to Flink 1.11.3 or 1.12.0 if their Flink instance(s) are exposed. The issue was fixed in commit b561010b0ee741543c3953306037f00d7a9f0801 from apache/flink:master.| 
 
 
 # klee on Github 推荐
