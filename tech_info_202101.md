@@ -114,6 +114,8 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210108T02:24:11Z | fuzz and property testing front-end for Rust | https://github.com/camshaft/bolero | 15 | 2| 
+| 20210108T02:23:14Z | A differential fuzzer for x86 decoders | https://github.com/trailofbits/mishegos | 124 | 17| 
 | 20210108T02:11:22Z | Null | https://github.com/Alpha-6013/fuzzy-disco | 0 | 0| 
 | 20210108T01:52:02Z | implementation of fuzzy-search and mongoose-fuzzy-search | https://github.com/aleem-ahmed/fuzzy-search-examples | 0 | 0| 
 | 20210108T01:31:50Z | Null | https://github.com/qq306249465/fuzzy-octo-potato | 0 | 0| 
@@ -122,8 +124,6 @@
 | 20210108T00:31:55Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 1232 | 264| 
 | 20210107T23:40:12Z | Software for fuzzing, used on web application pentestings. | https://github.com/NESCAU-UFLA/FuzzingTool | 3 | 1| 
 | 20210107T23:30:59Z | Project 100-2020 | https://github.com/abenj4404/Fuzzyskull | 0 | 0| 
-| 20210107T23:27:23Z | Fuzz 403/401ing endpoints for bypasses | https://github.com/intrudir/403fuzzer | 15 | 6| 
-| 20210107T23:16:01Z | Null | https://github.com/astarasikov/macos-gpu-fuzzing-public | 1 | 0| 
 
 
 
