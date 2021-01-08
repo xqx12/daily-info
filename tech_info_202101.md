@@ -46,6 +46,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20210108T13:10:23Z | cve-2020-16040 | Crashing PoC for CVE-2020-16040 | https://github.com/farazsth98/cve-2020-16040-poc | 未查询到CVE信息| 
 | 20210108T13:03:47Z | cve-2020-16040 | Crashing PoC for CVE-2020-16040 | https://github.com/farazsth98/cve-2020-16040 | | 
 | 20210108T11:45:49Z | CVE-2020-17519 | Apache Flink 目录遍历漏洞批量检测 (CVE-2020-17519) | https://github.com/B1anda0/CVE-2020-17519 | A change introduced in Apache Flink 1.11.0 (and released in 1.11.1 and 1.11.2 as well) allows attackers to read any file on the local filesystem of the JobManager through the REST interface of the JobManager process. Access is restricted to files accessible by the JobManager process. All users should upgrade to Flink 1.11.3 or 1.12.0 if their Flink instance(s) are exposed. The issue was fixed in commit b561010b0ee741543c3953306037f00d7a9f0801 from apache/flink:master.| 
 | 20210108T10:26:51Z | CVE-2020-0001 | POC to run system component in an untrusted-app process | https://github.com/Zachinio/CVE-2020-0001 | In getProcessRecordLocked of ActivityManagerService.java isolated apps are not handled correctly. This could lead to local escalation of privilege with no additional execution privileges needed. User interaction is not needed for exploitation. Product: Android Versions: Android-8.0, Android-8.1, Android-9, and Android-10 Android ID: A-140055304| 
@@ -55,7 +56,6 @@
 | 20210108T06:55:55Z | CVE-2020-17519 | CVE-2020-17519 | https://github.com/hoanx4/CVE-2020-17519 | A change introduced in Apache Flink 1.11.0 (and released in 1.11.1 and 1.11.2 as well) allows attackers to read any file on the local filesystem of the JobManager through the REST interface of the JobManager process. Access is restricted to files accessible by the JobManager process. All users should upgrade to Flink 1.11.3 or 1.12.0 if their Flink instance(s) are exposed. The issue was fixed in commit b561010b0ee741543c3953306037f00d7a9f0801 from apache/flink:master.| 
 | 20210108T06:49:53Z | 未知编号 | 2020一些漏洞 | https://github.com/r0eXpeR/CVE-2020 | 未查询到CVE信息| 
 | 20210108T06:43:14Z | CVE-2020-17530 | Null | https://github.com/uzzzval/CVE-2020-17530 | Forced OGNL evaluation, when evaluated on raw user input in tag attributes, may lead to remote code execution. Affected software : Apache Struts 2.0.0 - Struts 2.5.25.| 
-| 20210108T03:41:15Z | CVE-2020-29583 | Scanner for Zyxel products which are potentially vulnerable due to an undocumented user account (CVE-2020-29583) | https://github.com/2d4d/scan_CVE-2020-29583 | Firmware version 4.60 of Zyxel USG devices contains an undocumented account (zyfwp) with an unchangeable password. The password for this account can be found in cleartext in the firmware. This account can be used by someone to login to the ssh server or web interface with admin privileges.| 
 
 
 # klee on Github 推荐
@@ -84,7 +84,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210108T13:06:42Z | A Basic Exploitation script to open up the Calculator app by exploiting Vuln-Server | https://github.com/spicesouls/vulnserver-exploit | 0 | 0| 
+| 20210108T13:10:43Z | A Basic Exploitation script to open up the Calculator app by exploiting Vuln-Server | https://github.com/spicesouls/vulnserver-exploit | 0 | 0| 
 | 20210108T13:05:33Z | Vulmap - Web vulnerability scanning and verification tools，支持扫描 activemq, flink, shiro, solr, struts2, tomcat, unomi, drupal, elasticsearch, nexus, weblogic, jboss, thinkphp，并且具备漏洞利用功能。CVE-2020-14882, CVE-2020-2555, CVE-2020-2883, S2-061, CVE-2020-13942, CVE-2020-17530, CVE-2020-17518, CVE-2020-17519 | https://github.com/zhzyker/vulmap | 695 | 124| 
 | 20210108T12:49:39Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 7 | 4| 
 | 20210108T12:39:47Z | Exploit hub UI | https://github.com/GameLoaded-Entertainment/UI-Library | 0 | 0| 
