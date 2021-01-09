@@ -116,16 +116,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210109T02:00:39Z | A differential fuzzer for x86 decoders | https://github.com/trailofbits/mishegos | 124 | 17| 
+| 20210109T01:51:08Z | Automatic SSRF fuzzer and exploitation tool | https://github.com/swisskyrepo/SSRFmap | 1283 | 264| 
 | 20210109T01:29:54Z | Null | https://github.com/jtbish/fuzzy-mococo | 0 | 0| 
 | 20210109T01:06:46Z | Null | https://github.com/mrfuzz12/FuzzCheat | 0 | 0| 
 | 20210109T01:05:42Z | A cross-platform browser fuzzing framework | https://github.com/MozillaSecurity/grizzly | 222 | 30| 
 | 20210108T22:56:05Z | Fuzzy matching publications for fatcat (wip). | https://github.com/miku/fuzzycat | 1 | 1| 
 | 20210108T22:50:45Z | Repository for Fuzzy Miner Web application. | https://github.com/fnc11/FuzzyMiner | 5 | 0| 
-| 20210108T22:49:23Z | Automatic SSRF fuzzer and exploitation tool | https://github.com/swisskyrepo/SSRFmap | 1282 | 264| 
 | 20210108T22:36:08Z | Null | https://github.com/fragment137/fuzzy-enigma | 0 | 0| 
 | 20210108T21:44:00Z | 2021 | https://github.com/boquetebob49/fuzzy-bassoon | 0 | 0| 
 | 20210108T21:16:45Z | GraphQLmap is a scripting engine to interact with a graphql endpoint for pentesting purposes. | https://github.com/swisskyrepo/GraphQLmap | 380 | 74| 
-| 20210108T20:54:11Z | a simplified means to CRUD ephemeral user-scoped EC2 instances | https://github.com/rstudio/fuzzbucket | 1 | 1| 
 
 
 

@@ -87,7 +87,6 @@
 | --- | --- | --- | --- | ---| 
 | 20210108T22:56:05Z | Fuzzy matching publications for fatcat (wip). | https://github.com/miku/fuzzycat | 1 | 1| 
 | 20210108T22:50:45Z | Repository for Fuzzy Miner Web application. | https://github.com/fnc11/FuzzyMiner | 5 | 0| 
-| 20210108T22:49:23Z | Automatic SSRF fuzzer and exploitation tool | https://github.com/swisskyrepo/SSRFmap | 1282 | 264| 
 | 20210108T22:36:08Z | Null | https://github.com/fragment137/fuzzy-enigma | 0 | 0| 
 | 20210108T21:44:00Z | 2021 | https://github.com/boquetebob49/fuzzy-bassoon | 0 | 0| 
 | 20210108T21:16:45Z | GraphQLmap is a scripting engine to interact with a graphql endpoint for pentesting purposes. | https://github.com/swisskyrepo/GraphQLmap | 380 | 74| 
@@ -95,6 +94,7 @@
 | 20210108T20:53:06Z | This repository presents a readme for the setup of fuzzers and other related tools | https://github.com/c0d3nh4ck/Setup-of-Fuzzers-and-Tools | 0 | 0| 
 | 20210108T20:41:09Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 1237 | 265| 
 | 20210108T20:21:00Z | Null | https://github.com/Anonyme1396/fuzzparam | 0 | 0| 
+| 20210108T20:18:50Z | Automatic fuzzer/reporter for dnethack | https://github.com/demogorgon22/dnhautofuzz | 0 | 0| 
 
 
 
