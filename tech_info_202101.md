@@ -86,6 +86,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210109T01:15:47Z | Easy PS4 Exploit Hosting | https://github.com/Al-Azif/ps4-exploit-host | 747 | 215| 
 | 20210109T00:52:36Z | Solutions, source codes and original binaries of protostar exploit exercises  | https://github.com/TrueBad0ur/protostar_solves | 0 | 0| 
 | 20210109T00:50:38Z | a tool for creating exploited media files for discord | https://github.com/Schmenn/discord-exploits | 1 | 0| 
 | 20210109T00:49:39Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 7 | 4| 
@@ -95,7 +96,6 @@
 | 20210109T00:35:13Z | This is a list of new updated console scripts! These are all to change the look of discord or giving you cool stuff | https://github.com/6uv/Console-exploits | 1 | 0| 
 | 20210108T23:56:02Z | Null | https://github.com/Rilshrink/HopeCommanderExploit | 0 | 0| 
 | 20210108T23:40:39Z | Null | https://github.com/1N53C/ExploitDBSearch | 0 | 0| 
-| 20210108T23:13:40Z | Thi powershell script has got to run in remote windows host, even for pivoting | https://github.com/FabioDefilippo/winallenum | 0 | 1| 
 
 
 # backdoor on Github 推荐
