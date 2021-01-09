@@ -116,7 +116,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210109T02:00:39Z | A differential fuzzer for x86 decoders | https://github.com/trailofbits/mishegos | 124 | 17| 
+| 20210109T02:03:16Z | A differential fuzzer for x86 decoders | https://github.com/trailofbits/mishegos | 124 | 17| 
 | 20210109T01:51:08Z | Automatic SSRF fuzzer and exploitation tool | https://github.com/swisskyrepo/SSRFmap | 1283 | 264| 
 | 20210109T01:29:54Z | Null | https://github.com/jtbish/fuzzy-mococo | 0 | 0| 
 | 20210109T01:06:46Z | Null | https://github.com/mrfuzz12/FuzzCheat | 0 | 0| 
