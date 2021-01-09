@@ -20,7 +20,7 @@
 | 20210109T08:43:55Z | CVE-2020-3452 | CISCO CVE-2020-3452 Scanner & Exploiter | https://github.com/darklotuskdb/CISCO-CVE-2020-3452-Scanner-Exploiter | A vulnerability in the web services interface of Cisco Adaptive Security Appliance (ASA) Software and Cisco Firepower Threat Defense (FTD) Software could allow an unauthenticated, remote attacker to conduct directory traversal attacks and read sensitive files on a targeted system. The vulnerability is due to a lack of proper input validation of URLs in HTTP requests processed by an affected device. An attacker could exploit this vulnerability by sending a crafted HTTP request containing directory traversal character sequences to an affected device. A successful exploit could allow the attacker to view arbitrary files within the web services file system on the targeted device. The web services file system is enabled when the affected device is configured with either WebVPN or AnyConnect features. This vulnerability cannot be used to obtain access to ASA or FTD system files or underlying operating system (OS) files.| 
 | 20210109T08:37:55Z | CVE-2020-14179 | CVE-2020-14179 Scanner | https://github.com/c0brabaghdad1/CVE-2020-14179 | Affected versions of Atlassian Jira Server and Data Center allow remote, unauthenticated attackers to view custom field names and custom SLA names via an Information Disclosure vulnerability in the /secure/QueryComponent!Default.jspa endpoint. The affected versions are before version 8.5.8, and from version 8.6.0 before 8.11.1.| 
 | 20210109T07:14:27Z | CVE-2021-3019 | lanproxy 目录遍历漏洞批量检测 (CVE-2021-3019) | https://github.com/B1anda0/CVE-2021-3019 | ffay lanproxy 0.1 allows Directory Traversal to read /../conf/config.properties to obtain credentials for a connection to the intranet.| 
-| 20210109T06:55:14Z | CVE-2020-25498 | Stored XSS via CSRF in Beetel 777VR1 Router  | https://github.com/the-girl-who-lived/CVE-2020-25498 | Cross Site Scripting (XSS) vulnerability in Beetel router 777VR1 can be exploited via the NTP server name in System Time and %Keyword% in URL Filter.| 
+| 20210109T06:55:14Z | CVE-2020-25498 | Stored XSS via CSRF in Beetel 777VR1 Router  | https://github.com/the-girl-who-lived/CVE-2020-25498 | | 
 
 
 # klee on Github 推荐
@@ -38,7 +38,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210109T13:15:39Z | Silice is an open source language that simplifies writing algorithms fully exploiting FPGA architectures. | https://github.com/sylefeb/Silice | 405 | 31| 
+| 20210109T13:17:14Z | Silice is an open source language that simplifies writing algorithms fully exploiting FPGA architectures. | https://github.com/sylefeb/Silice | 405 | 31| 
 | 20210109T13:12:42Z | Null | https://github.com/deleteapplephones/BUK-Exploit | 0 | 0| 
 | 20210109T13:07:57Z | linux post-exploitation framework made by linux user | https://github.com/jm33-m0/emp3r0r | 198 | 35| 
 | 20210109T12:59:53Z | ELF 32-bit Reversing | https://github.com/RobertJonnyTiger/Reverse-and-Exploit-Development | 0 | 0| 
