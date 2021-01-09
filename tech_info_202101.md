@@ -86,6 +86,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210109T01:19:35Z | A series of CTF/hacking challenge solutions for binary exploitation(or pwn)/reverse engineering/vulnerability research/memory corruption(or whatever term you use) | https://github.com/docfate111/binary-exploitation-solution-scripts | 0 | 0| 
 | 20210109T01:15:47Z | Easy PS4 Exploit Hosting | https://github.com/Al-Azif/ps4-exploit-host | 747 | 215| 
 | 20210109T00:52:36Z | Solutions, source codes and original binaries of protostar exploit exercises  | https://github.com/TrueBad0ur/protostar_solves | 0 | 0| 
 | 20210109T00:50:38Z | a tool for creating exploited media files for discord | https://github.com/Schmenn/discord-exploits | 1 | 0| 
@@ -95,7 +96,6 @@
 | 20210109T00:35:56Z | This bash script will help you to hack remote hosts  | https://github.com/FabioDefilippo/linuxallremote | 2 | 1| 
 | 20210109T00:35:13Z | This is a list of new updated console scripts! These are all to change the look of discord or giving you cool stuff | https://github.com/6uv/Console-exploits | 1 | 0| 
 | 20210108T23:56:02Z | Null | https://github.com/Rilshrink/HopeCommanderExploit | 0 | 0| 
-| 20210108T23:40:39Z | Null | https://github.com/1N53C/ExploitDBSearch | 0 | 0| 
 
 
 # backdoor on Github 推荐
