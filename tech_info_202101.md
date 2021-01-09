@@ -101,6 +101,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210109T13:36:35Z | TCP server + Web app for managing active backdoors | https://github.com/hacefresko/Mothership | 0 | 0| 
 | 20210109T12:43:00Z | Backdoor for deface with shell upload. | https://github.com/NAOYY/Backdoor-Deface | 0 | 0| 
 | 20210109T10:40:16Z | Null | https://github.com/rabbitx1337/backdoor | 0 | 0| 
 | 20210109T06:44:07Z | Ghost Framework is an Android post-exploitation framework that exploits the Android Debug Bridge to remotely access an Android device. Ghost Framework gives you the power and convenience of remote Android device administration. | https://github.com/EntySec/ghost | 904 | 460| 
@@ -110,7 +111,6 @@
 | 20210108T13:04:52Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 141 | 20| 
 | 20210108T11:14:02Z | Null | https://github.com/mpandya18/Image_Permutator_For_Backdoor_Generation | 0 | 0| 
 | 20210108T09:30:48Z | Information This tool is for educational purpose only, usage of TheFatRat for attacking targets without prior mutual consent is illegal. Developers assume no liability and are not responsible for any misuse or damage cause by this program.  Features ! Fully Automating MSFvenom & Metasploit. Local or remote listener Generation. Easily Make Backdoor by category Operating System. Generate payloads in Various formats. Bypass anti-virus backdoors. File pumper that you can use for increasing the size of your files. The ability to detect external IP & Interface address . Automatically creates AutoRun files for USB / CDROM exploitation But it%s shit! And your implementation sucks! Yes, you%re probably correct. Feel free to %Not use it% and there is a pull button to %Make it better%. Installation Instructions on how to install TheFatRat  git clone https://github.com/Screetsec/TheFatRat.git cd TheFatRat chmod +x setup.sh && ./setup.sh Update cd TheFatRat ./update && chmod +x setup.sh && ./setup.sh Troubleshoot on TheFatRat chk_tools script to use in case of problems in setup.sh of fatrat this script will check if everything is in the right version to run fatrat and will also provide you a solution for the problem  cd TheFatRat chmod +x chk_tools  ./chk_tools | https://github.com/nyctophile6/TheFatRat | 0 | 0| 
-| 20210108T08:45:06Z | Null | https://github.com/rensx5514/BackdoorAttackNN-Pro | 0 | 0| 
 
 
 # fuzz on Github 推荐

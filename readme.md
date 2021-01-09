@@ -53,6 +53,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210109T13:36:35Z | TCP server + Web app for managing active backdoors | https://github.com/hacefresko/Mothership | 0 | 0| 
 | 20210109T12:43:00Z | Backdoor for deface with shell upload. | https://github.com/NAOYY/Backdoor-Deface | 0 | 0| 
 | 20210109T10:40:16Z | Null | https://github.com/rabbitx1337/backdoor | 0 | 0| 
 | 20210109T06:44:07Z | Ghost Framework is an Android post-exploitation framework that exploits the Android Debug Bridge to remotely access an Android device. Ghost Framework gives you the power and convenience of remote Android device administration. | https://github.com/EntySec/ghost | 904 | 460| 
