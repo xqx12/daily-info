@@ -62,6 +62,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210109T13:24:20Z | Personal website of Laurence Hughes | https://github.com/fuzzylogicxx/fuzzylogic | 4 | 1| 
 | 20210109T13:03:17Z | Null | https://github.com/KongkanKalakan/Fuzzy_Conviction_Decision_Tree_Classifier | 0 | 0| 
 | 20210109T12:54:51Z | プロフィー | https://github.com/fuzz88/fuzz88 | 0 | 0| 
 | 20210109T12:28:19Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 3302 | 759| 
@@ -71,7 +72,6 @@
 | 20210109T10:19:32Z | Fake News Detection, Repository. | https://github.com/hrs2203/fuzzy-pancake | 0 | 0| 
 | 20210109T09:41:14Z | Null | https://github.com/k2345rftf/fuzzy_search_string | 0 | 0| 
 | 20210109T09:24:27Z | Challenging testcases for fuzzers | https://github.com/AFLplusplus/fuzzer-challenges | 11 | 0| 
-| 20210109T08:16:21Z | fzf-like fuzzy-finder as a Go library | https://github.com/ktr0731/go-fuzzyfinder | 204 | 19| 
 
 
 
