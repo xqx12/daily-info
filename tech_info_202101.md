@@ -61,7 +61,8 @@
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210108T13:43:26Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1597 | 479| 
+| 20210108T21:37:19Z | ⬇️ File Upload/sharing application, used by thousands of webmasters since 2007.  | https://github.com/kleeja-official/kleeja | 108 | 32| 
+| 20210108T16:24:18Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1598 | 478| 
 | 20210108T09:27:22Z | Null | https://github.com/OleDakotaJoe/peachy-kleen | 0 | 0| 
 | 20210107T17:26:44Z | Null | https://github.com/thierry-tct/KLEE-SEMu | 2 | 1| 
 | 20210107T11:03:27Z | Data-driven symbolic execution engine, implemented on top of KLEE | https://github.com/kupl/dd-klee | 0 | 1| 
@@ -70,7 +71,6 @@
 | 20210106T12:41:52Z | Null | https://github.com/Eclipse2552/KleeFieg | 0 | 0| 
 | 20210106T11:17:11Z | Null | https://github.com/foxcore-azizi/kleet4 | 0 | 0| 
 | 20210104T11:45:59Z | Null | https://github.com/viktorfrom/klee_tutorial | 0 | 0| 
-| 20210104T07:22:14Z | Null | https://github.com/markhakansson/klee-tutorial | 0 | 0| 
 
 
 # s2e on Github 推荐
@@ -86,16 +86,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210108T13:59:53Z | Development of code to exploit LSST and VISTA imaging | https://github.com/lsst-uk/lsst-ir-fusion | 0 | 0| 
-| 20210108T13:56:28Z | Null | https://github.com/ClientCrash/win7-8.1-crash-exploit-invalid-file-path-image-tag-exploitation | 0 | 0| 
-| 20210108T13:56:01Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 8871 | 1406| 
-| 20210108T13:52:21Z | A Good One Exploit | https://github.com/NiZXD471/BKHAX-Repost | 0 | 0| 
-| 20210108T13:42:29Z | Null | https://github.com/mafiaguy/exploittools | 0 | 0| 
-| 20210108T13:39:48Z | Some heap exploits | https://github.com/limitedeternity/HeapLAB | 0 | 0| 
-| 20210108T13:20:39Z | A Basic Exploitation script to open up the Calculator app by exploiting Vuln-Server | https://github.com/spicesouls/vulnserver-exploit | 0 | 0| 
-| 20210108T13:05:33Z | Vulmap - Web vulnerability scanning and verification tools，支持扫描 activemq, flink, shiro, solr, struts2, tomcat, unomi, drupal, elasticsearch, nexus, weblogic, jboss, thinkphp，并且具备漏洞利用功能。CVE-2020-14882, CVE-2020-2555, CVE-2020-2883, S2-061, CVE-2020-13942, CVE-2020-17530, CVE-2020-17518, CVE-2020-17519 | https://github.com/zhzyker/vulmap | 695 | 124| 
-| 20210108T12:49:39Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 7 | 4| 
-| 20210108T12:39:47Z | Exploit hub UI | https://github.com/GameLoaded-Entertainment/UI-Library | 0 | 0| 
+| 20210109T00:52:36Z | Solutions, source codes and original binaries of protostar exploit exercises  | https://github.com/TrueBad0ur/protostar_solves | 0 | 0| 
+| 20210109T00:50:38Z | a tool for creating exploited media files for discord | https://github.com/Schmenn/discord-exploits | 1 | 0| 
+| 20210109T00:49:39Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 7 | 4| 
+| 20210109T00:48:19Z | attempts at finding bugs and exploits | https://github.com/docfate111/bug-bounty | 0 | 0| 
+| 20210109T00:44:41Z | Everest, Next-Gen Roblox Exploitation Hub, | https://github.com/Th3Tr1ckst3r/Everest | 0 | 0| 
+| 20210109T00:35:56Z | This bash script will help you to hack remote hosts  | https://github.com/FabioDefilippo/linuxallremote | 2 | 1| 
+| 20210109T00:35:13Z | This is a list of new updated console scripts! These are all to change the look of discord or giving you cool stuff | https://github.com/6uv/Console-exploits | 1 | 0| 
+| 20210108T23:56:02Z | Null | https://github.com/Rilshrink/HopeCommanderExploit | 0 | 0| 
+| 20210108T23:40:39Z | Null | https://github.com/1N53C/ExploitDBSearch | 0 | 0| 
+| 20210108T23:13:40Z | Thi powershell script has got to run in remote windows host, even for pivoting | https://github.com/FabioDefilippo/winallenum | 0 | 1| 
 
 
 # backdoor on Github 推荐
@@ -116,16 +116,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210108T13:45:23Z | Challenging testcases for fuzzers | https://github.com/AFLplusplus/fuzzer-challenges | 7 | 0| 
-| 20210108T13:04:03Z | Fuzzinator Random Testing Framework | https://github.com/renatahodovan/fuzzinator | 164 | 38| 
-| 20210108T13:01:43Z | Adds ~ to searches on pathofexile.com/trade to enable fuzzy search. No more exact wording needed. | https://github.com/JonasRock/POETradeFuzzySearch | 2 | 2| 
-| 20210108T12:49:04Z | Null | https://github.com/cleiomsqs/fuzzy-octo-carnival | 0 | 0| 
-| 20210108T12:22:36Z | The Official Fuzzy Britches Repository. | https://github.com/ThePapaw/fuzzybritches | 0 | 0| 
-| 20210108T12:04:27Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 1236 | 265| 
-| 20210108T12:02:52Z | C++ Fuzzy logic with ImGui interface | https://github.com/Renardjojo/FuzzyLogic | 0 | 0| 
-| 20210108T11:59:23Z | Null | https://github.com/7evy/Fuzzy_Queries | 0 | 0| 
-| 20210108T11:33:13Z | Null | https://github.com/s9varesc/url-fuzzing-docker | 0 | 0| 
-| 20210108T11:30:44Z | Fuzzy Sync Presentation 2021 | https://github.com/richiejp/fuzzy-sync-pres-2021 | 0 | 0| 
+| 20210108T23:58:52Z | A cross-platform browser fuzzing framework | https://github.com/MozillaSecurity/grizzly | 222 | 30| 
+| 20210108T22:56:05Z | Fuzzy matching publications for fatcat (wip). | https://github.com/miku/fuzzycat | 1 | 1| 
+| 20210108T22:50:45Z | Repository for Fuzzy Miner Web application. | https://github.com/fnc11/FuzzyMiner | 5 | 0| 
+| 20210108T22:49:23Z | Automatic SSRF fuzzer and exploitation tool | https://github.com/swisskyrepo/SSRFmap | 1282 | 264| 
+| 20210108T22:36:08Z | Null | https://github.com/fragment137/fuzzy-enigma | 0 | 0| 
+| 20210108T21:44:00Z | 2021 | https://github.com/boquetebob49/fuzzy-bassoon | 0 | 0| 
+| 20210108T21:16:45Z | GraphQLmap is a scripting engine to interact with a graphql endpoint for pentesting purposes. | https://github.com/swisskyrepo/GraphQLmap | 380 | 74| 
+| 20210108T20:54:11Z | a simplified means to CRUD ephemeral user-scoped EC2 instances | https://github.com/rstudio/fuzzbucket | 1 | 1| 
+| 20210108T20:53:06Z | This repository presents a readme for the setup of fuzzers and other related tools | https://github.com/c0d3nh4ck/Setup-of-Fuzzers-and-Tools | 0 | 0| 
+| 20210108T20:41:09Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 1237 | 265| 
 
 
 
