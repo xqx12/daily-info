@@ -86,9 +86,9 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210109T13:07:57Z | linux post-exploitation framework made by linux user | https://github.com/jm33-m0/emp3r0r | 198 | 35| 
 | 20210109T12:59:53Z | ELF 32-bit Reversing | https://github.com/RobertJonnyTiger/Reverse-and-Exploit-Development | 0 | 0| 
 | 20210109T12:53:13Z | Null | https://github.com/indoexploit/exploiter | 0 | 0| 
-| 20210109T12:37:59Z | linux post-exploitation framework made by linux user | https://github.com/jm33-m0/emp3r0r | 197 | 35| 
 | 20210109T11:57:15Z | Null | https://github.com/1N53C/ExploitDBSearch | 0 | 0| 
 | 20210109T11:52:12Z | Exploiting CVE-2014-3153, AKA Towelroot. | https://github.com/elongl/CVE-2014-3153 | 0 | 0| 
 | 20210109T11:45:16Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 8875 | 1406| 
@@ -116,16 +116,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210109T02:48:32Z | Fuzzing cryptographic libraries. Magic bug printer go brrrr. | https://github.com/guidovranken/cryptofuzz | 230 | 31| 
-| 20210109T02:34:01Z | Fuzzy matching publications for fatcat (wip). | https://github.com/miku/fuzzycat | 1 | 1| 
-| 20210109T02:03:16Z | A differential fuzzer for x86 decoders | https://github.com/trailofbits/mishegos | 124 | 17| 
-| 20210109T01:51:08Z | Automatic SSRF fuzzer and exploitation tool | https://github.com/swisskyrepo/SSRFmap | 1283 | 264| 
-| 20210109T01:29:54Z | Null | https://github.com/jtbish/fuzzy-mococo | 0 | 0| 
-| 20210109T01:06:46Z | Null | https://github.com/mrfuzz12/FuzzCheat | 0 | 0| 
-| 20210109T01:05:42Z | A cross-platform browser fuzzing framework | https://github.com/MozillaSecurity/grizzly | 222 | 30| 
-| 20210108T22:50:45Z | Repository for Fuzzy Miner Web application. | https://github.com/fnc11/FuzzyMiner | 5 | 0| 
-| 20210108T22:36:08Z | Null | https://github.com/fragment137/fuzzy-enigma | 0 | 0| 
-| 20210108T21:44:00Z | 2021 | https://github.com/boquetebob49/fuzzy-bassoon | 0 | 0| 
+| 20210109T13:03:17Z | Null | https://github.com/KongkanKalakan/Fuzzy_Conviction_Decision_Tree_Classifier | 0 | 0| 
+| 20210109T12:54:51Z | プロフィー | https://github.com/fuzz88/fuzz88 | 0 | 0| 
+| 20210109T12:28:19Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 3302 | 759| 
+| 20210109T12:27:45Z | The Book %Generating Software Tests% | https://github.com/uds-se/fuzzingbook | 506 | 100| 
+| 20210109T12:12:33Z | select boxes with fuzzy matching | https://github.com/fkretlow/fuzzy-select | 0 | 0| 
+| 20210109T12:03:17Z | Null | https://github.com/neilandrei2005/fuzzy-engine | 0 | 0| 
+| 20210109T10:19:32Z | Fake News Detection, Repository. | https://github.com/hrs2203/fuzzy-pancake | 0 | 0| 
+| 20210109T09:41:14Z | Null | https://github.com/k2345rftf/fuzzy_search_string | 0 | 0| 
+| 20210109T09:24:27Z | Challenging testcases for fuzzers | https://github.com/AFLplusplus/fuzzer-challenges | 11 | 0| 
+| 20210109T08:16:21Z | fzf-like fuzzy-finder as a Go library | https://github.com/ktr0731/go-fuzzyfinder | 204 | 19| 
 
 
 
