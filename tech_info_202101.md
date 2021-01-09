@@ -116,8 +116,8 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210109T02:48:32Z | Fuzzing cryptographic libraries. Magic bug printer go brrrr. | https://github.com/guidovranken/cryptofuzz | 230 | 31| 
 | 20210109T02:34:01Z | Fuzzy matching publications for fatcat (wip). | https://github.com/miku/fuzzycat | 1 | 1| 
-| 20210109T02:32:07Z | Fuzzing cryptographic libraries. Magic bug printer go brrrr. | https://github.com/guidovranken/cryptofuzz | 230 | 31| 
 | 20210109T02:03:16Z | A differential fuzzer for x86 decoders | https://github.com/trailofbits/mishegos | 124 | 17| 
 | 20210109T01:51:08Z | Automatic SSRF fuzzer and exploitation tool | https://github.com/swisskyrepo/SSRFmap | 1283 | 264| 
 | 20210109T01:29:54Z | Null | https://github.com/jtbish/fuzzy-mococo | 0 | 0| 
