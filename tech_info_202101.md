@@ -52,7 +52,7 @@
 | 20210108T20:07:37Z | CVE-2020-3452 | CISCO CVE-2020-3452 Scanner & Exploiter | https://github.com/darklotuskdb/CISCO-CVE-2020-3452-Scanner-Exploiter | A vulnerability in the web services interface of Cisco Adaptive Security Appliance (ASA) Software and Cisco Firepower Threat Defense (FTD) Software could allow an unauthenticated, remote attacker to conduct directory traversal attacks and read sensitive files on a targeted system. The vulnerability is due to a lack of proper input validation of URLs in HTTP requests processed by an affected device. An attacker could exploit this vulnerability by sending a crafted HTTP request containing directory traversal character sequences to an affected device. A successful exploit could allow the attacker to view arbitrary files within the web services file system on the targeted device. The web services file system is enabled when the affected device is configured with either WebVPN or AnyConnect features. This vulnerability cannot be used to obtain access to ASA or FTD system files or underlying operating system (OS) files.| 
 | 20210108T13:10:23Z | cve-2020-16040 | Crashing PoC for CVE-2020-16040 | https://github.com/farazsth98/cve-2020-16040-poc | 未查询到CVE信息| 
 | 20210108T13:03:47Z | cve-2020-16040 | Crashing PoC for CVE-2020-16040 | https://github.com/farazsth98/cve-2020-16040 | | 
-| 20210108T11:45:49Z | CVE-2020-17519 | Apache Flink 目录遍历漏洞批量检测 (CVE-2020-17519) | https://github.com/B1anda0/CVE-2020-17519 | A change introduced in Apache Flink 1.11.0 (and released in 1.11.1 and 1.11.2 as well) allows attackers to read any file on the local filesystem of the JobManager through the REST interface of the JobManager process. Access is restricted to files accessible by the JobManager process. All users should upgrade to Flink 1.11.3 or 1.12.0 if their Flink instance(s) are exposed. The issue was fixed in commit b561010b0ee741543c3953306037f00d7a9f0801 from apache/flink:master.| 
+| 20210108T11:45:49Z | CVE-2020-17519 | Apache Flink 目录遍历漏洞批量检测 (CVE-2020-17519) | https://github.com/B1anda0/CVE-2020-17519 | | 
 | 20210108T10:26:51Z | CVE-2020-0001 | POC to run system component in an untrusted-app process | https://github.com/Zachinio/CVE-2020-0001 | In getProcessRecordLocked of ActivityManagerService.java isolated apps are not handled correctly. This could lead to local escalation of privilege with no additional execution privileges needed. User interaction is not needed for exploitation. Product: Android Versions: Android-8.0, Android-8.1, Android-9, and Android-10 Android ID: A-140055304| 
 | 20210108T10:18:02Z | CVE-2020-25498 | Stored XSS via CSRF in Beetel 777VR1 Router  | https://github.com/the-girl-who-lived/CVE-2020-25498 | Cross Site Scripting (XSS) vulnerability in Beetel router 777VR1 can be exploited via the NTP server name in System Time and %Keyword% in URL Filter.| 
 | 20210108T08:49:39Z | 未知编号 | 2020l4web-campaign-DanCvejn created by GitHub Classroom | https://github.com/pslib-cz/2020l4web-campaign-DanCvejn | 未查询到CVE信息| 
@@ -86,6 +86,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210109T01:21:45Z | Null | https://github.com/brerodrigues/exploit_drafts | 0 | 0| 
 | 20210109T01:19:35Z | A series of CTF/hacking challenge solutions for binary exploitation(or pwn)/reverse engineering/vulnerability research/memory corruption(or whatever term you use) | https://github.com/docfate111/binary-exploitation-solution-scripts | 0 | 0| 
 | 20210109T01:15:47Z | Easy PS4 Exploit Hosting | https://github.com/Al-Azif/ps4-exploit-host | 747 | 215| 
 | 20210109T00:52:36Z | Solutions, source codes and original binaries of protostar exploit exercises  | https://github.com/TrueBad0ur/protostar_solves | 0 | 0| 
@@ -95,13 +96,12 @@
 | 20210109T00:44:41Z | Everest, Next-Gen Roblox Exploitation Hub, | https://github.com/Th3Tr1ckst3r/Everest | 0 | 0| 
 | 20210109T00:35:56Z | This bash script will help you to hack remote hosts  | https://github.com/FabioDefilippo/linuxallremote | 2 | 1| 
 | 20210109T00:35:13Z | This is a list of new updated console scripts! These are all to change the look of discord or giving you cool stuff | https://github.com/6uv/Console-exploits | 1 | 0| 
-| 20210108T23:56:02Z | Null | https://github.com/Rilshrink/HopeCommanderExploit | 0 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210109T01:15:56Z | Backdoor for upload shell to the website for deface... | https://github.com/NAOYY/Shell-Backdoor | 0 | 0| 
+| 20210109T01:22:14Z | Backdoor for deface with shell upload. | https://github.com/NAOYY/Shell-Backdoor | 0 | 0| 
 | 20210108T23:28:58Z | Code for the paper Explanation-Guided Backdoor Poisoning Attacks Against Malware Classifiers | https://github.com/ClonedOne/Explanation-Guided_Backdoor_Poisoning | 0 | 0| 
 | 20210108T20:45:11Z | Ghost Framework is an Android post-exploitation framework that exploits the Android Debug Bridge to remotely access an Android device. Ghost Framework gives you the power and convenience of remote Android device administration. | https://github.com/EntySec/ghost | 903 | 460| 
 | 20210108T16:29:57Z | Null | https://github.com/MadsKaiser/backdoor | 0 | 0| 
