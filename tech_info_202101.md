@@ -86,16 +86,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210110T13:40:39Z | CTF framework and exploit development library | https://github.com/Gallopsled/pwntools | 7423 | 1341| 
+| 20210110T13:40:16Z | AMWScan (PHP Antimalware Scanner) is a free tool to scan php files and analyze your project to find any malicious code inside it. | https://github.com/marcocesarato/PHP-Antimalware-Scanner | 161 | 29| 
 | 20210110T13:26:25Z | linux post-exploitation framework made by linux user | https://github.com/jm33-m0/emp3r0r | 235 | 40| 
 | 20210110T13:18:36Z | Roblox Exploit (fuck you no source to see here just assets) | https://github.com/belledelphinelmao/onion | 0 | 0| 
-| 20210110T13:11:14Z | AMWScan (PHP Antimalware Scanner) is a free tool to scan php files and analyze your project to find any malicious code inside it. | https://github.com/marcocesarato/PHP-Antimalware-Scanner | 161 | 29| 
 | 20210110T13:05:17Z | Null | https://github.com/indoexploit/exploiter | 0 | 0| 
 | 20210110T12:59:19Z | Just trying to learn old school and new school binary explotation tricks. And thanks to @life_overflow yt to share with me the knowledge to me make me able to not only solve this exploits but to make me understand exactly how the computer works.  | https://github.com/pablo-lamtenzan/Hacking_playground | 0 | 0| 
 | 20210110T12:45:03Z | This bash script will help you to hack remote hosts  | https://github.com/FabioDefilippo/linuxallremote | 2 | 1| 
 | 20210110T12:33:08Z | The ZetaSploit Framework is a modular penetration testing platform that enables you to write, test, and execute exploit code. The ZetaSploit Framework contains a suite of tools that you can use to test security vulnerabilities, enumerate networks and execute attacks. | https://github.com/EntySec/ZetaSploit | 9 | 4| 
 | 20210110T11:47:23Z | SPVREDDY spv reddy venkatreddy sreepuram Security Enthusiast, Speaker and Penetration Testing Engineer with 6 years of experience in Cyber Security domain and 5 Years of Corporate experience in handling Vulnerability Assessment and Penetration Testing on Web Applications, Mobile Applications, API%s, Networks, Wireless Security and thick clients. Delivered talks in multiple Conferences, Workshops, Chapter meets and Webinars covering 5000+ members. Reported Critical Vulnerabilities in more than 25 Government websites leaking sensitive information of users and helped them to patch them. Ability to handle SAST (Static Application Security Testing), SAST (Dynamic Application Security Testing), End to End Product Security Operations and Penetration Testing. Good Knowledge on Software Defined Radio (SDR) Exploitation, Radio Frequency Identification Devices(RFID) and FRID tags. | https://github.com/spvreddy/spvreddy.github.io | 0 | 0| 
 | 20210110T11:41:27Z | Some exercises from my System and Network Hacking course @ University of Pisa | https://github.com/loresuso/BinaryExploitation | 0 | 0| 
-| 20210110T11:40:15Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 8877 | 1408| 
 
 
 # backdoor on Github 推荐
