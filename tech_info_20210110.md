@@ -70,16 +70,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210110T13:06:49Z | Intent recognition library for Rhasspy using fuzzywuzzy | https://github.com/rhasspy/rhasspy-fuzzywuzzy | 0 | 3| 
+| 20210110T13:04:58Z | select boxes with fuzzy matching | https://github.com/fkretlow/fuzzy-select | 0 | 0| 
 | 20210110T12:59:10Z | Challenging testcases for fuzzers | https://github.com/AFLplusplus/fuzzer-challenges | 13 | 0| 
 | 20210110T12:56:29Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 1240 | 266| 
 | 20210110T12:06:01Z | Null | https://github.com/wangcwangc/W-Fuzz | 0 | 0| 
 | 20210110T11:21:44Z | Test version of the program for combining fuzzy sets and the ant colony method. Works on test cases. | https://github.com/kalengul/MMK_FuzzySet_Tes | 0 | 0| 
 | 20210110T11:13:06Z | Null | https://github.com/Dmenk123/fuzzy_ahp | 0 | 0| 
 | 20210110T10:58:46Z | Null | https://github.com/ekenev/fuzzy-invention | 0 | 0| 
-| 20210110T10:57:53Z | select boxes with fuzzy matching | https://github.com/fkretlow/fuzzy-select | 0 | 0| 
 | 20210110T10:50:40Z | A program for multiplying two fuzzy sets given by piecewise functions | https://github.com/kalengul/GeneralizationFuzzySet | 0 | 0| 
 | 20210110T09:58:05Z | Fake News Detection, Repository. | https://github.com/hrs2203/fuzzy-pancake | 0 | 0| 
-| 20210110T09:44:45Z | Null | https://github.com/szabolcs-dekany/nestjs-fuzzy-reproducer | 0 | 0| 
 
 
 
