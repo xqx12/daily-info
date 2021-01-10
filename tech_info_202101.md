@@ -116,12 +116,12 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210110T03:00:11Z | Null | https://github.com/fragment137/fuzzy-enigma | 0 | 0| 
 | 20210110T02:34:53Z | Dictionary collection project such as Pentesing, Fuzzing, Bruteforce and BugBounty. 渗透测试、SRC漏洞挖掘、爆破、Fuzzing等字典收集项目。 | https://github.com/insightglacier/Dictionary-Of-Pentesting | 409 | 99| 
 | 20210110T01:26:14Z | Null | https://github.com/jtbish/fuzzy-mococo | 0 | 0| 
 | 20210110T01:19:09Z | working through gray hat C# book | https://github.com/marbilher/fuzzing | 0 | 0| 
 | 20210110T00:38:19Z | Adds ~ to searches on pathofexile.com/trade to enable fuzzy search. No more exact wording needed. | https://github.com/JonasRock/POETradeFuzzySearch | 3 | 1| 
 | 20210110T00:10:20Z | Yet another web application fuzzer. | https://github.com/serialphotog/OpenWebFuzzer | 0 | 0| 
-| 20210110T00:00:08Z | Null | https://github.com/fragment137/fuzzy-enigma | 0 | 0| 
 | 20210109T23:41:31Z | Fuzzing cryptographic libraries. Magic bug printer go brrrr. | https://github.com/guidovranken/cryptofuzz | 230 | 31| 
 | 20210109T23:28:25Z | select boxes with fuzzy matching | https://github.com/fkretlow/fuzzy-select | 0 | 0| 
 | 20210109T23:25:29Z | Null | https://github.com/Syah4kram/FuzzyLogic-Matlab | 0 | 0| 
