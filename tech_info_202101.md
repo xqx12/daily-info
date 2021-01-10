@@ -6,6 +6,8 @@
 # 玄武实验室 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20210109 | HyperViper:用于Hyper-V安全性研究的工具包资源。 | https://github.com/JaanusKaapPublic/HyperViper| 
+| 20210109 | 解密APT”小黄鸭“挖矿组织分析报告。 | https://github.com/Loveforkeeps/Lemon-Duck| 
 | 20210108 | V8 引擎 CVE-2020-16040 漏洞的分析 | https://faraz.faith/2021-01-07-cve-2020-16040-analysis/| 
 | 20210108 | 有研究员公开了一个 Fuzz macOS GPU 相关模块的 Fuzzer | https://github.com/astarasikov/macos-gpu-fuzzing-public| 
 | 20210108 | 用侧信道的方式还原 Google Titan Security Key | https://ninjalab.io/wp-content/uploads/2021/01/a_side_journey_to_titan.pdf| 
@@ -24,13 +26,12 @@
 | 20210106 | 一月份补丁中 Android 修复 43 个漏洞 | https://threatpost.com/google-warns-of-critical-android-remote-code-execution-bug/162756/| 
 | 20210106 | Windows. NTFS 文件系统上个月修复的 CVE-2020-17096 RCE 漏洞的分析 | https://blog.zecops.com/vulnerabilities/ntfs-remote-code-execution-cve-2020-17096-analysis/| 
 | 20210106 | NICER协议深入研究：互联网的域名系统（DNS）服务报告公开。 | https://blog.rapid7.com/2021/01/05/nicer-protocol-deep-dive-internet-exposure-of-dns/| 
-| 20210106 | 漏洞焦点：Genivia gSOAP工具插件中包出现多个漏洞问题。 | https://blog.talosintelligence.com/2021/01/vuln-spotlight-genivia-gsoap-.html?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+feedburner%2FTalos+%28Talos%E2%84%A2+Blog%29| 
-| 20210105 | Tying It All Together - Pwning To Own on LG phones | https://douevenknow.us/post/639414006930702336/tying-it-all-together-pwning-to-own-on-lg-phones| 
 
 
 # 安全维基 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20210109 | 美国国家网络靶场系统架构与设计原理剖析①总论 | https://mp.weixin.qq.com/s/8yz12RyCyNXGhcAVFZX60g| 
 | 20210108 | 浅析开源蜜罐识别与全网测绘 | https://mp.weixin.qq.com/s/hq-z2HBGz3nehnCVg_H-RQ| 
 | 20210108 | 对 SolarWinds 事件更深的思考：如何防御供应链攻击 | https://mp.weixin.qq.com/s/GdER32Z7K86boHVc-Kic3g| 
 | 20210107 | 疑似 APT35 与响尾蛇组织使用的域名被披露 | https://mp.weixin.qq.com/s/BNVsnlXYtaZ9_Pk_oKgZRg| 
@@ -40,30 +41,29 @@
 | 20210107 | 红队视角看Sunburst后门中的TTPs | https://mp.weixin.qq.com/s/wtEbawfOd1g_T2ovp1SaGg| 
 | 20210107 | 隐秘的角落 -- JDK CORBA 安全性研究（下） | https://paper.seebug.org/1446/| 
 | 20210107 | 隐秘的角落 -- JDK CORBA 安全性研究（上） | https://paper.seebug.org/1445/| 
-| 20210107 | mmpi: 邮件快速检测库 | https://github.com/a232319779/mmpi| 
 
 
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20210109T13:54:32Z | CVE-2020-7048 | Null | https://github.com/ElmouradiAmine/CVE-2020-7048 | The WordPress plugin, WP Database Reset through 3.1, contains a flaw that allowed any unauthenticated user to reset any table in the database to the initial WordPress set-up state (deleting all site content stored in that table), as demonstrated by a wp-admin/admin-post.php?db-reset-tables[]=comments URI.| 
+| 20210109T23:44:47Z | CVE-2020-35488 | Null | https://github.com/GuillaumePetit84/CVE-2020-35488 | The fileop module of the NXLog service in NXLog Community Edition 2.10.2150 allows remote attackers to cause a denial of service (daemon crash) via a crafted Syslog payload to the Syslog service. This attack requires a specific configuration. Also, the name of the directory created must use a Syslog field. (For example, on Linux it is not possible to create a .. directory. On Windows, it is not possible to create a CON directory.)| 
+| 20210109T23:00:27Z | CVE-2020-7048 | Null | https://github.com/ElmouradiAmine/CVE-2020-7048 | The WordPress plugin, WP Database Reset through 3.1, contains a flaw that allowed any unauthenticated user to reset any table in the database to the initial WordPress set-up state (deleting all site content stored in that table), as demonstrated by a wp-admin/admin-post.php?db-reset-tables[]=comments URI.| 
+| 20210109T16:24:54Z | CVE-2020-17518 | Null | https://github.com/QmF0c3UK/CVE-2020-17518 | Apache Flink 1.5.1 introduced a REST handler that allows you to write an uploaded file to an arbitrary location on the local file system, through a maliciously modified HTTP HEADER. The files can be written to any location accessible by Flink 1.5.1. All users should upgrade to Flink 1.11.3 or 1.12.0 if their Flink instance(s) are exposed. The issue was fixed in commit a5264a6f41524afe8ceadf1d8ddc8c80f323ebc4 from apache/flink:master.| 
 | 20210109T10:35:20Z | CVE-2020-11851 | Remote Code Execution vulnerability on ArcSight Logger | https://github.com/ch1nghz/CVE-2020-11851 | Arbitrary code execution vulnerability on Micro Focus ArcSight Logger product, affecting all version prior to 7.1.1. The vulnerability could be remotely exploited resulting in the execution of arbitrary code.| 
 | 20210109T08:43:55Z | CVE-2020-3452 | CISCO CVE-2020-3452 Scanner & Exploiter | https://github.com/darklotuskdb/CISCO-CVE-2020-3452-Scanner-Exploiter | A vulnerability in the web services interface of Cisco Adaptive Security Appliance (ASA) Software and Cisco Firepower Threat Defense (FTD) Software could allow an unauthenticated, remote attacker to conduct directory traversal attacks and read sensitive files on a targeted system. The vulnerability is due to a lack of proper input validation of URLs in HTTP requests processed by an affected device. An attacker could exploit this vulnerability by sending a crafted HTTP request containing directory traversal character sequences to an affected device. A successful exploit could allow the attacker to view arbitrary files within the web services file system on the targeted device. The web services file system is enabled when the affected device is configured with either WebVPN or AnyConnect features. This vulnerability cannot be used to obtain access to ASA or FTD system files or underlying operating system (OS) files.| 
 | 20210109T08:37:55Z | CVE-2020-14179 | CVE-2020-14179 Scanner | https://github.com/c0brabaghdad1/CVE-2020-14179 | Affected versions of Atlassian Jira Server and Data Center allow remote, unauthenticated attackers to view custom field names and custom SLA names via an Information Disclosure vulnerability in the /secure/QueryComponent!Default.jspa endpoint. The affected versions are before version 8.5.8, and from version 8.6.0 before 8.11.1.| 
-| 20210109T07:14:27Z | CVE-2021-3019 | lanproxy 目录遍历漏洞批量检测 (CVE-2021-3019) | https://github.com/B1anda0/CVE-2021-3019 | ffay lanproxy 0.1 allows Directory Traversal to read /../conf/config.properties to obtain credentials for a connection to the intranet.| 
+| 20210109T07:14:27Z | CVE-2021-3019 | lanproxy 目录遍历漏洞批量检测 (CVE-2021-3019) | https://github.com/B1anda0/CVE-2021-3019 | | 
 | 20210109T06:55:14Z | CVE-2020-25498 | Stored XSS via CSRF in Beetel 777VR1 Router  | https://github.com/the-girl-who-lived/CVE-2020-25498 | Cross Site Scripting (XSS) vulnerability in Beetel router 777VR1 can be exploited via the NTP server name in System Time and %Keyword% in URL Filter.| 
 | 20210108T23:15:08Z | CVE-2020-29254 | TikiWiki 21.2 allows to edit templates without the use of a CSRF protection.  | https://github.com/S1lkys/CVE-2020-29254 | TikiWiki 21.2 allows templates to be edited without CSRF protection. This could allow an unauthenticated, remote attacker to conduct a cross-site request forgery (CSRF) attack and perform arbitrary actions on an affected system. The vulnerability is due to insufficient CSRF protections for the web-based management interface of the affected system. An attacker could exploit this vulnerability by persuading a user of the interface to follow a maliciously crafted link. A successful exploit could allow the attacker to perform arbitrary actions on an affected system with the privileges of the user. These action include allowing attackers to submit their own code through an authenticated user resulting in local file Inclusion. If an authenticated user who is able to edit TikiWiki templates visits an malicious website, template code can be edited.| 
 | 20210108T13:10:23Z | cve-2020-16040 | Crashing PoC for CVE-2020-16040 | https://github.com/farazsth98/cve-2020-16040-poc | 未查询到CVE信息| 
-| 20210108T13:03:47Z | cve-2020-16040 | Crashing PoC for CVE-2020-16040 | https://github.com/farazsth98/cve-2020-16040 | | 
-| 20210108T11:45:49Z | CVE-2020-17519 | Apache Flink 目录遍历漏洞批量检测 (CVE-2020-17519) | https://github.com/B1anda0/CVE-2020-17519 | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210109T19:11:20Z | ⬇️ File Upload/sharing application, used by thousands of webmasters since 2007.  | https://github.com/kleeja-official/kleeja | 109 | 32| 
 | 20210109T07:35:02Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1597 | 478| 
 | 20210109T03:25:46Z | Create CFGs and compute complexity metrics for Python, C++, and Java code. | https://github.com/hmc-alpaqa/metrinome | 5 | 0| 
-| 20210108T21:37:19Z | ⬇️ File Upload/sharing application, used by thousands of webmasters since 2007.  | https://github.com/kleeja-official/kleeja | 108 | 32| 
 | 20210108T09:27:22Z | Null | https://github.com/OleDakotaJoe/peachy-kleen | 0 | 0| 
 | 20210107T17:26:44Z | Null | https://github.com/thierry-tct/KLEE-SEMu | 2 | 1| 
 | 20210107T11:03:27Z | Data-driven symbolic execution engine, implemented on top of KLEE | https://github.com/kupl/dd-klee | 0 | 1| 
@@ -86,46 +86,46 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210109T13:19:51Z | Model of resource exploitation of Iron Age communities in southwest Anatolia. To be presented at ReSoc conference | https://github.com/driesdaems10/Resoc | 0 | 1| 
-| 20210109T13:17:14Z | Silice is an open source language that simplifies writing algorithms fully exploiting FPGA architectures. | https://github.com/sylefeb/Silice | 405 | 31| 
-| 20210109T13:12:42Z | Null | https://github.com/deleteapplephones/BUK-Exploit | 0 | 0| 
-| 20210109T13:07:57Z | linux post-exploitation framework made by linux user | https://github.com/jm33-m0/emp3r0r | 198 | 35| 
-| 20210109T12:59:53Z | ELF 32-bit Reversing | https://github.com/RobertJonnyTiger/Reverse-and-Exploit-Development | 0 | 0| 
-| 20210109T12:53:13Z | Null | https://github.com/indoexploit/exploiter | 0 | 0| 
-| 20210109T11:57:15Z | Null | https://github.com/1N53C/ExploitDBSearch | 0 | 0| 
-| 20210109T11:52:12Z | Exploiting CVE-2014-3153, AKA Towelroot. | https://github.com/elongl/CVE-2014-3153 | 0 | 0| 
-| 20210109T11:45:16Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 8875 | 1406| 
-| 20210109T11:24:15Z | Parmap is a minimalistic library allowing to exploit multicore architecture for OCaml programs with minimal modifications. | https://github.com/rdicosmo/parmap | 77 | 15| 
+| 20210110T01:01:31Z | Fast jacobian computation through sparsity exploitation and matrix coloring | https://github.com/JuliaDiff/SparseDiffTools.jl | 85 | 15| 
+| 20210110T00:52:58Z | A series of CTF/hacking challenge solutions for binary exploitation(or pwn)/reverse engineering/vulnerability research/memory corruption(or whatever term you use) | https://github.com/docfate111/binary-exploitation-solution-scripts | 0 | 0| 
+| 20210110T00:48:34Z | Null | https://github.com/KingXX1/Ps4-Exploit-702 | 0 | 0| 
+| 20210110T00:47:35Z | Servers get exploited everyday. You as an owner need to take measures to ensure no further damage! | https://github.com/Atlas-Uprising/guard-your-server | 1 | 0| 
+| 20210110T00:27:40Z | fix exploits on anarchy server | https://github.com/moom0o/AnarchyExploitFixes | 9 | 4| 
+| 20210110T00:24:52Z | AMWScan (PHP Antimalware Scanner) is a free tool to scan php files and analyze your project to find any malicious code inside it. | https://github.com/marcocesarato/PHP-Antimalware-Scanner | 161 | 29| 
+| 20210110T00:20:08Z | This bash script will help you to hack remote hosts  | https://github.com/FabioDefilippo/linuxallremote | 2 | 1| 
+| 20210110T00:10:02Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 8876 | 1406| 
+| 20210110T00:08:34Z | Null | https://github.com/x1234xx/0DaylnkExploit-Builder | 0 | 0| 
+| 20210109T23:59:08Z | ExploitsX is a top-of-the-line constantly updated exploit fixer focused on patching bugs, lag glitches, and crash glitches for minecraft servers. It supports versions 1.8 through 1.17. | https://github.com/IzDaBait/ExploitsX | 5 | 2| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210110T00:24:52Z | AMWScan (PHP Antimalware Scanner) is a free tool to scan php files and analyze your project to find any malicious code inside it. | https://github.com/marcocesarato/PHP-Antimalware-Scanner | 161 | 29| 
+| 20210110T00:16:22Z | Null | https://github.com/sahiljain443/python-backdoor | 0 | 0| 
+| 20210109T22:25:05Z | Basic-SS Backdoor.exe | https://github.com/Sectly/Basic-SS-Backdoor.exe | 0 | 0| 
+| 20210109T20:22:49Z | TrojanZoo provides a universal pytorch platform to conduct security researches (especially backdoor attacks/defenses) of image classification in deep learning. | https://github.com/ain-soph/trojanzoo | 25 | 5| 
+| 20210109T17:36:50Z | Ghost Framework is an Android post-exploitation framework that exploits the Android Debug Bridge to remotely access an Android device. Ghost Framework gives you the power and convenience of remote Android device administration. | https://github.com/EntySec/ghost | 906 | 461| 
+| 20210109T14:08:42Z | Windows RAT written in Java | https://github.com/hacefresko/JRAT | 0 | 0| 
 | 20210109T13:52:33Z | TCP server + Web app for managing active backdoors | https://github.com/hacefresko/Mothership | 0 | 0| 
 | 20210109T12:43:00Z | Backdoor for deface with shell upload. | https://github.com/NAOYY/Backdoor-Deface | 0 | 0| 
 | 20210109T10:40:16Z | Null | https://github.com/rabbitx1337/backdoor | 0 | 0| 
-| 20210109T06:44:07Z | Ghost Framework is an Android post-exploitation framework that exploits the Android Debug Bridge to remotely access an Android device. Ghost Framework gives you the power and convenience of remote Android device administration. | https://github.com/EntySec/ghost | 904 | 460| 
 | 20210109T01:22:14Z | Backdoor for deface with shell upload. | https://github.com/NAOYY/Shell-Backdoor | 0 | 0| 
-| 20210108T23:28:58Z | Code for the paper Explanation-Guided Backdoor Poisoning Attacks Against Malware Classifiers | https://github.com/ClonedOne/Explanation-Guided_Backdoor_Poisoning | 0 | 0| 
-| 20210108T16:29:57Z | Null | https://github.com/MadsKaiser/backdoor | 0 | 0| 
-| 20210108T13:04:52Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 141 | 20| 
-| 20210108T11:14:02Z | Null | https://github.com/mpandya18/Image_Permutator_For_Backdoor_Generation | 0 | 0| 
-| 20210108T09:30:48Z | Information This tool is for educational purpose only, usage of TheFatRat for attacking targets without prior mutual consent is illegal. Developers assume no liability and are not responsible for any misuse or damage cause by this program.  Features ! Fully Automating MSFvenom & Metasploit. Local or remote listener Generation. Easily Make Backdoor by category Operating System. Generate payloads in Various formats. Bypass anti-virus backdoors. File pumper that you can use for increasing the size of your files. The ability to detect external IP & Interface address . Automatically creates AutoRun files for USB / CDROM exploitation But it%s shit! And your implementation sucks! Yes, you%re probably correct. Feel free to %Not use it% and there is a pull button to %Make it better%. Installation Instructions on how to install TheFatRat  git clone https://github.com/Screetsec/TheFatRat.git cd TheFatRat chmod +x setup.sh && ./setup.sh Update cd TheFatRat ./update && chmod +x setup.sh && ./setup.sh Troubleshoot on TheFatRat chk_tools script to use in case of problems in setup.sh of fatrat this script will check if everything is in the right version to run fatrat and will also provide you a solution for the problem  cd TheFatRat chmod +x chk_tools  ./chk_tools | https://github.com/nyctophile6/TheFatRat | 0 | 0| 
 
 
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210109T13:55:37Z | Null | https://github.com/khairinahusny/FuzzyLogicSystem | 0 | 0| 
-| 20210109T13:24:20Z | Personal website of Laurence Hughes | https://github.com/fuzzylogicxx/fuzzylogic | 4 | 1| 
-| 20210109T13:03:17Z | Null | https://github.com/KongkanKalakan/Fuzzy_Conviction_Decision_Tree_Classifier | 0 | 0| 
-| 20210109T12:54:51Z | プロフィー | https://github.com/fuzz88/fuzz88 | 0 | 0| 
-| 20210109T12:28:19Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 3302 | 759| 
-| 20210109T12:27:45Z | The Book %Generating Software Tests% | https://github.com/uds-se/fuzzingbook | 506 | 100| 
-| 20210109T12:12:33Z | select boxes with fuzzy matching | https://github.com/fkretlow/fuzzy-select | 0 | 0| 
-| 20210109T12:03:17Z | Null | https://github.com/neilandrei2005/fuzzy-engine | 0 | 0| 
-| 20210109T10:19:32Z | Fake News Detection, Repository. | https://github.com/hrs2203/fuzzy-pancake | 0 | 0| 
-| 20210109T09:41:14Z | Null | https://github.com/k2345rftf/fuzzy_search_string | 0 | 0| 
+| 20210110T00:38:19Z | Adds ~ to searches on pathofexile.com/trade to enable fuzzy search. No more exact wording needed. | https://github.com/JonasRock/POETradeFuzzySearch | 3 | 1| 
+| 20210110T00:10:20Z | Yet another web application fuzzer. | https://github.com/serialphotog/OpenWebFuzzer | 0 | 0| 
+| 20210110T00:00:08Z | Null | https://github.com/fragment137/fuzzy-enigma | 0 | 0| 
+| 20210109T23:41:31Z | Fuzzing cryptographic libraries. Magic bug printer go brrrr. | https://github.com/guidovranken/cryptofuzz | 230 | 31| 
+| 20210109T23:28:25Z | select boxes with fuzzy matching | https://github.com/fkretlow/fuzzy-select | 0 | 0| 
+| 20210109T23:25:29Z | Null | https://github.com/Syah4kram/FuzzyLogic-Matlab | 0 | 0| 
+| 20210109T23:06:43Z | pFuzz helps us to bypass web application firewall by using different methods at the same time. | https://github.com/RedSection/pFuzz | 5 | 1| 
+| 20210109T22:55:47Z | The Book %Generating Software Tests% | https://github.com/uds-se/fuzzingbook | 507 | 100| 
+| 20210109T22:35:55Z | Challenging testcases for fuzzers | https://github.com/AFLplusplus/fuzzer-challenges | 11 | 0| 
+| 20210109T22:10:13Z | Software for fuzzing, used on web application pentestings. | https://github.com/NESCAU-UFLA/FuzzingTool | 3 | 1| 
 
 
 
