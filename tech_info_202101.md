@@ -86,6 +86,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210110T02:15:58Z | Servers get exploited everyday. You as an owner need to take measures to ensure no further damage! | https://github.com/Atlas-Uprising/guard-your-server | 1 | 0| 
 | 20210110T02:01:36Z | ExploitsX is a top-of-the-line constantly updated exploit fixer focused on patching bugs, lag glitches, and crash glitches for minecraft servers. It supports versions 1.8 through 1.17. | https://github.com/IzDaBait/ExploitsX | 5 | 2| 
 | 20210110T01:37:31Z | A Good One Exploit | https://github.com/NiZXD471/BKHAX-Repost | 0 | 0| 
 | 20210110T01:36:22Z | linux post-exploitation framework made by linux user | https://github.com/jm33-m0/emp3r0r | 210 | 37| 
@@ -94,7 +95,6 @@
 | 20210110T01:01:55Z | Fast jacobian computation through sparsity exploitation and matrix coloring | https://github.com/JuliaDiff/SparseDiffTools.jl | 85 | 15| 
 | 20210110T00:52:58Z | A series of CTF/hacking challenge solutions for binary exploitation(or pwn)/reverse engineering/vulnerability research/memory corruption(or whatever term you use) | https://github.com/docfate111/binary-exploitation-solution-scripts | 0 | 0| 
 | 20210110T00:48:34Z | Null | https://github.com/KingXX1/Ps4-Exploit-702 | 0 | 0| 
-| 20210110T00:47:35Z | Servers get exploited everyday. You as an owner need to take measures to ensure no further damage! | https://github.com/Atlas-Uprising/guard-your-server | 1 | 0| 
 | 20210110T00:24:52Z | AMWScan (PHP Antimalware Scanner) is a free tool to scan php files and analyze your project to find any malicious code inside it. | https://github.com/marcocesarato/PHP-Antimalware-Scanner | 161 | 29| 
 
 
