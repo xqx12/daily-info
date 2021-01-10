@@ -44,7 +44,6 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210109T23:59:08Z | ExploitsX is a top-of-the-line constantly updated exploit fixer focused on patching bugs, lag glitches, and crash glitches for minecraft servers. It supports versions 1.8 through 1.17. | https://github.com/IzDaBait/ExploitsX | 5 | 2| 
 | 20210109T23:19:15Z | Vulnerabilities% Risk of Exploitation | https://github.com/thiagofigcosta/V-REx | 0 | 0| 
 | 20210109T23:15:16Z | Null | https://github.com/1N53C/ExploitDBSearch | 0 | 0| 
 | 20210109T22:36:41Z | The ZetaSploit Framework is a modular penetration testing platform that enables you to write, test, and execute exploit code. The ZetaSploit Framework contains a suite of tools that you can use to test security vulnerabilities, enumerate networks and execute attacks. | https://github.com/EntySec/ZetaSploit | 9 | 4| 
@@ -54,6 +53,7 @@
 | 20210109T19:55:15Z | IDOR vulnerability I found a long time ago. | https://github.com/TheSerialiZator/IDOR-Exploit-Code-USHOPS | 0 | 0| 
 | 20210109T19:32:07Z | thewhiteh4t%s Blog | https://github.com/thewhiteh4t/thewhiteh4t.github.io | 12 | 3| 
 | 20210109T19:24:40Z | Battle Cats MITM Mailbox Hack | https://github.com/jamestiotio/CITM | 5 | 3| 
+| 20210109T18:42:13Z | Which turtle will win? Place your bets on one of six turtles in this exploitation-free version of animal racing!  | https://github.com/RenStoneCoder/Turtle_Race_Betting | 0 | 0| 
 
 
 # backdoor on Github 推荐
