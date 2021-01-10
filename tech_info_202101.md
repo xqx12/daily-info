@@ -31,6 +31,7 @@
 # 安全维基 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20210110 | 基于异构图卷积网络的网络威胁情报建模 | https://mp.weixin.qq.com/s/TszbHM__hpYvdHsCoMmkUQ| 
 | 20210109 | 美国国家网络靶场系统架构与设计原理剖析①总论 | https://mp.weixin.qq.com/s/8yz12RyCyNXGhcAVFZX60g| 
 | 20210108 | 浅析开源蜜罐识别与全网测绘 | https://mp.weixin.qq.com/s/hq-z2HBGz3nehnCVg_H-RQ| 
 | 20210108 | 对 SolarWinds 事件更深的思考：如何防御供应链攻击 | https://mp.weixin.qq.com/s/GdER32Z7K86boHVc-Kic3g| 
@@ -40,37 +41,36 @@
 | 20210107 | Deep X-Ray: 一种机器学习驱动的WAF规则窃取器 | https://data.hackinn.com/ppt/CIS2020/%E4%B8%BB%E8%AE%BA%E5%9D%9B/Deep%20X-Ray-%20%E4%B8%80%E7%A7%8D%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E9%A9%B1%E5%8A%A8%E7%9A%84WAF%E8%A7%84%E5%88%99%E7%AA%83%E5%8F%96%E5%99%A8.pdf| 
 | 20210107 | 红队视角看Sunburst后门中的TTPs | https://mp.weixin.qq.com/s/wtEbawfOd1g_T2ovp1SaGg| 
 | 20210107 | 隐秘的角落 -- JDK CORBA 安全性研究（下） | https://paper.seebug.org/1446/| 
-| 20210107 | 隐秘的角落 -- JDK CORBA 安全性研究（上） | https://paper.seebug.org/1445/| 
 
 
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20210110T12:53:56Z | CVE-2020-36179 | CVE-2020-36179~82  Jackson-databind SSRF&RCE | https://github.com/Al1ex/CVE-2020-36179 | FasterXML jackson-databind 2.x before 2.9.10.8 mishandles the interaction between serialization gadgets and typing, related to oadd.org.apache.commons.dbcp.cpdsadapter.DriverAdapterCPDS.| 
+| 20210110T12:48:21Z | CVE-2020-5421 | Spring 安全漏洞 CVE-2020-5421复现  | https://github.com/pandaMingx/CVE-2020-5421 | In Spring Framework versions 5.2.0 - 5.2.8, 5.1.0 - 5.1.17, 5.0.0 - 5.0.18, 4.3.0 - 4.3.28, and older unsupported versions, the protections against RFD attacks from CVE-2015-5211 may be bypassed depending on the browser used through the use of a jsessionid path parameter.| 
+| 20210110T09:14:10Z | CVE-2020-3452 | CISCO CVE-2020-3452 Scanner & Exploiter | https://github.com/darklotuskdb/CISCO-CVE-2020-3452-Scanner-Exploiter | A vulnerability in the web services interface of Cisco Adaptive Security Appliance (ASA) Software and Cisco Firepower Threat Defense (FTD) Software could allow an unauthenticated, remote attacker to conduct directory traversal attacks and read sensitive files on a targeted system. The vulnerability is due to a lack of proper input validation of URLs in HTTP requests processed by an affected device. An attacker could exploit this vulnerability by sending a crafted HTTP request containing directory traversal character sequences to an affected device. A successful exploit could allow the attacker to view arbitrary files within the web services file system on the targeted device. The web services file system is enabled when the affected device is configured with either WebVPN or AnyConnect features. This vulnerability cannot be used to obtain access to ASA or FTD system files or underlying operating system (OS) files.| 
+| 20210110T05:34:59Z | CVE-2021-1056 | PoC for CVE-2021-1056 | https://github.com/pokerfaceSad/CVE-2021-1056 | NVIDIA GPU Display Driver for Linux, all versions, contains a vulnerability in the kernel mode layer (nvidia.ko) in which it does not completely honor operating system file system permissions to provide GPU device-level isolation, which may lead to denial of service or information disclosure.| 
+| 20210110T04:01:01Z | CVE-2020-11851 | Remote Code Execution vulnerability on ArcSight Logger | https://github.com/ch1nghz/CVE-2020-11851 | Arbitrary code execution vulnerability on Micro Focus ArcSight Logger product, affecting all version prior to 7.1.1. The vulnerability could be remotely exploited resulting in the execution of arbitrary code.| 
 | 20210110T01:26:10Z | CVE-2020-17519 | [CVE-2020-17519] Apache Flink RESTful API Arbitrary File Read | https://github.com/murataydemir/CVE-2020-17519 | A change introduced in Apache Flink 1.11.0 (and released in 1.11.1 and 1.11.2 as well) allows attackers to read any file on the local filesystem of the JobManager through the REST interface of the JobManager process. Access is restricted to files accessible by the JobManager process. All users should upgrade to Flink 1.11.3 or 1.12.0 if their Flink instance(s) are exposed. The issue was fixed in commit b561010b0ee741543c3953306037f00d7a9f0801 from apache/flink:master.| 
 | 20210110T01:18:11Z | CVE-2020-17518 | [CVE-2020-17518] Apache Flink RESTful API Arbitrary File Upload via Directory Traversal | https://github.com/murataydemir/CVE-2020-17518 | Apache Flink 1.5.1 introduced a REST handler that allows you to write an uploaded file to an arbitrary location on the local file system, through a maliciously modified HTTP HEADER. The files can be written to any location accessible by Flink 1.5.1. All users should upgrade to Flink 1.11.3 or 1.12.0 if their Flink instance(s) are exposed. The issue was fixed in commit a5264a6f41524afe8ceadf1d8ddc8c80f323ebc4 from apache/flink:master.| 
 | 20210109T23:44:47Z | CVE-2020-35488 | Null | https://github.com/GuillaumePetit84/CVE-2020-35488 | The fileop module of the NXLog service in NXLog Community Edition 2.10.2150 allows remote attackers to cause a denial of service (daemon crash) via a crafted Syslog payload to the Syslog service. This attack requires a specific configuration. Also, the name of the directory created must use a Syslog field. (For example, on Linux it is not possible to create a .. directory. On Windows, it is not possible to create a CON directory.)| 
 | 20210109T23:00:27Z | CVE-2020-7048 | Null | https://github.com/ElmouradiAmine/CVE-2020-7048 | The WordPress plugin, WP Database Reset through 3.1, contains a flaw that allowed any unauthenticated user to reset any table in the database to the initial WordPress set-up state (deleting all site content stored in that table), as demonstrated by a wp-admin/admin-post.php?db-reset-tables[]=comments URI.| 
 | 20210109T16:24:54Z | CVE-2020-17518 | Null | https://github.com/QmF0c3UK/CVE-2020-17518 | Apache Flink 1.5.1 introduced a REST handler that allows you to write an uploaded file to an arbitrary location on the local file system, through a maliciously modified HTTP HEADER. The files can be written to any location accessible by Flink 1.5.1. All users should upgrade to Flink 1.11.3 or 1.12.0 if their Flink instance(s) are exposed. The issue was fixed in commit a5264a6f41524afe8ceadf1d8ddc8c80f323ebc4 from apache/flink:master.| 
-| 20210109T10:35:20Z | CVE-2020-11851 | Remote Code Execution vulnerability on ArcSight Logger | https://github.com/ch1nghz/CVE-2020-11851 | Arbitrary code execution vulnerability on Micro Focus ArcSight Logger product, affecting all version prior to 7.1.1. The vulnerability could be remotely exploited resulting in the execution of arbitrary code.| 
-| 20210109T08:43:55Z | CVE-2020-3452 | CISCO CVE-2020-3452 Scanner & Exploiter | https://github.com/darklotuskdb/CISCO-CVE-2020-3452-Scanner-Exploiter | A vulnerability in the web services interface of Cisco Adaptive Security Appliance (ASA) Software and Cisco Firepower Threat Defense (FTD) Software could allow an unauthenticated, remote attacker to conduct directory traversal attacks and read sensitive files on a targeted system. The vulnerability is due to a lack of proper input validation of URLs in HTTP requests processed by an affected device. An attacker could exploit this vulnerability by sending a crafted HTTP request containing directory traversal character sequences to an affected device. A successful exploit could allow the attacker to view arbitrary files within the web services file system on the targeted device. The web services file system is enabled when the affected device is configured with either WebVPN or AnyConnect features. This vulnerability cannot be used to obtain access to ASA or FTD system files or underlying operating system (OS) files.| 
-| 20210109T08:37:55Z | CVE-2020-14179 | CVE-2020-14179 Scanner | https://github.com/c0brabaghdad1/CVE-2020-14179 | Affected versions of Atlassian Jira Server and Data Center allow remote, unauthenticated attackers to view custom field names and custom SLA names via an Information Disclosure vulnerability in the /secure/QueryComponent!Default.jspa endpoint. The affected versions are before version 8.5.8, and from version 8.6.0 before 8.11.1.| 
-| 20210109T07:14:27Z | CVE-2021-3019 | lanproxy 目录遍历漏洞批量检测 (CVE-2021-3019) | https://github.com/B1anda0/CVE-2021-3019 | ffay lanproxy 0.1 allows Directory Traversal to read /../conf/config.properties to obtain credentials for a connection to the intranet.| 
-| 20210109T06:55:14Z | CVE-2020-25498 | Stored XSS via CSRF in Beetel 777VR1 Router  | https://github.com/the-girl-who-lived/CVE-2020-25498 | Cross Site Scripting (XSS) vulnerability in Beetel router 777VR1 can be exploited via the NTP server name in System Time and %Keyword% in URL Filter.| 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210110T12:56:21Z | Null | https://github.com/Ankit1608/kleen | 0 | 0| 
+| 20210110T12:35:02Z | Null | https://github.com/nithinsai263/kleensecurity_react | 0 | 0| 
+| 20210110T09:51:37Z | Null | https://github.com/markhakansson/klee-tutorial | 0 | 0| 
+| 20210110T09:34:00Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1596 | 478| 
 | 20210110T01:43:39Z | Create CFGs and compute complexity metrics for Python, C++, and Java code. | https://github.com/hmc-alpaqa/metrinome | 5 | 0| 
 | 20210109T19:11:20Z | ⬇️ File Upload/sharing application, used by thousands of webmasters since 2007.  | https://github.com/kleeja-official/kleeja | 109 | 32| 
-| 20210109T07:35:02Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1597 | 478| 
 | 20210108T09:27:22Z | Null | https://github.com/OleDakotaJoe/peachy-kleen | 0 | 0| 
 | 20210107T17:26:44Z | Null | https://github.com/thierry-tct/KLEE-SEMu | 2 | 1| 
 | 20210107T11:03:27Z | Data-driven symbolic execution engine, implemented on top of KLEE | https://github.com/kupl/dd-klee | 0 | 1| 
 | 20210107T03:36:22Z | Null | https://github.com/foxcore-azizi/kleet5 | 0 | 0| 
-| 20210106T12:41:52Z | Null | https://github.com/Eclipse2552/KleeFieg | 0 | 0| 
-| 20210106T11:17:11Z | Null | https://github.com/foxcore-azizi/kleet4 | 0 | 0| 
-| 20210104T11:45:59Z | Null | https://github.com/viktorfrom/klee_tutorial | 0 | 0| 
 
 
 # s2e on Github 推荐
@@ -86,46 +86,46 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210110T02:57:06Z | linux post-exploitation framework made by linux user | https://github.com/jm33-m0/emp3r0r | 212 | 37| 
-| 20210110T02:24:36Z | ExploitsX is a top-of-the-line constantly updated exploit fixer focused on patching bugs, lag glitches, and crash glitches for minecraft servers. It supports versions 1.8 through 1.17. | https://github.com/IzDaBait/ExploitsX | 5 | 2| 
-| 20210110T02:15:58Z | Servers get exploited everyday. You as an owner need to take measures to ensure no further damage! | https://github.com/Atlas-Uprising/guard-your-server | 1 | 0| 
-| 20210110T01:37:31Z | A Good One Exploit | https://github.com/NiZXD471/BKHAX-Repost | 0 | 0| 
-| 20210110T01:34:38Z | fix exploits on anarchy server | https://github.com/moom0o/AnarchyExploitFixes | 9 | 4| 
-| 20210110T01:18:12Z | Tegra X1 bootrom exploit | https://github.com/fail0verflow/shofel2 | 692 | 142| 
-| 20210110T01:01:55Z | Fast jacobian computation through sparsity exploitation and matrix coloring | https://github.com/JuliaDiff/SparseDiffTools.jl | 85 | 15| 
-| 20210110T00:52:58Z | A series of CTF/hacking challenge solutions for binary exploitation(or pwn)/reverse engineering/vulnerability research/memory corruption(or whatever term you use) | https://github.com/docfate111/binary-exploitation-solution-scripts | 0 | 0| 
-| 20210110T00:48:34Z | Null | https://github.com/KingXX1/Ps4-Exploit-702 | 0 | 0| 
-| 20210110T00:24:52Z | AMWScan (PHP Antimalware Scanner) is a free tool to scan php files and analyze your project to find any malicious code inside it. | https://github.com/marcocesarato/PHP-Antimalware-Scanner | 161 | 29| 
+| 20210110T12:59:19Z | Just trying to learn old school and new school binary explotation tricks. And thanks to @life_overflow yt to share with me the knowledge to me make me able to not only solve this exploits but to make me understand exactly how the computer works.  | https://github.com/pablo-lamtenzan/Hacking_playground | 0 | 0| 
+| 20210110T12:54:59Z | linux post-exploitation framework made by linux user | https://github.com/jm33-m0/emp3r0r | 232 | 40| 
+| 20210110T12:45:03Z | This bash script will help you to hack remote hosts  | https://github.com/FabioDefilippo/linuxallremote | 2 | 1| 
+| 20210110T12:33:08Z | The ZetaSploit Framework is a modular penetration testing platform that enables you to write, test, and execute exploit code. The ZetaSploit Framework contains a suite of tools that you can use to test security vulnerabilities, enumerate networks and execute attacks. | https://github.com/EntySec/ZetaSploit | 9 | 4| 
+| 20210110T11:47:23Z | SPVREDDY spv reddy venkatreddy sreepuram Security Enthusiast, Speaker and Penetration Testing Engineer with 6 years of experience in Cyber Security domain and 5 Years of Corporate experience in handling Vulnerability Assessment and Penetration Testing on Web Applications, Mobile Applications, API%s, Networks, Wireless Security and thick clients. Delivered talks in multiple Conferences, Workshops, Chapter meets and Webinars covering 5000+ members. Reported Critical Vulnerabilities in more than 25 Government websites leaking sensitive information of users and helped them to patch them. Ability to handle SAST (Static Application Security Testing), SAST (Dynamic Application Security Testing), End to End Product Security Operations and Penetration Testing. Good Knowledge on Software Defined Radio (SDR) Exploitation, Radio Frequency Identification Devices(RFID) and FRID tags. | https://github.com/spvreddy/spvreddy.github.io | 0 | 0| 
+| 20210110T11:41:27Z | Some exercises from my System and Network Hacking course @ University of Pisa | https://github.com/loresuso/BinaryExploitation | 0 | 0| 
+| 20210110T11:40:15Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 8877 | 1408| 
+| 20210110T10:08:20Z | For not repeating the same mistakes | https://github.com/PurushottamanR/exploits | 0 | 0| 
+| 20210110T09:28:00Z | Very simple script(s) to hasten binary exploit creation | https://github.com/152334H/pwnscripts | 34 | 2| 
+| 20210110T09:14:10Z | CISCO CVE-2020-3452 Scanner & Exploiter | https://github.com/darklotuskdb/CISCO-CVE-2020-3452-Scanner-Exploiter | 47 | 10| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210110T09:10:37Z | Null | https://github.com/rabbitx1337/backdoor | 0 | 0| 
+| 20210110T07:51:05Z | Null | https://github.com/GTDT/Widnwos_Backdoor | 0 | 0| 
+| 20210110T05:16:06Z | Ghost Framework is an Android post-exploitation framework that exploits the Android Debug Bridge to remotely access an Android device. Ghost Framework gives you the power and convenience of remote Android device administration. | https://github.com/EntySec/ghost | 907 | 461| 
+| 20210110T04:24:15Z | TrojanZoo provides a universal pytorch platform to conduct security researches (especially backdoor attacks/defenses) of image classification in deep learning. | https://github.com/ain-soph/trojanzoo | 25 | 5| 
 | 20210110T00:24:52Z | AMWScan (PHP Antimalware Scanner) is a free tool to scan php files and analyze your project to find any malicious code inside it. | https://github.com/marcocesarato/PHP-Antimalware-Scanner | 161 | 29| 
 | 20210110T00:16:22Z | Null | https://github.com/sahiljain443/python-backdoor | 0 | 0| 
 | 20210109T22:25:05Z | Basic-SS Backdoor.exe | https://github.com/Sectly/Basic-SS-Backdoor.exe | 0 | 0| 
-| 20210109T20:22:49Z | TrojanZoo provides a universal pytorch platform to conduct security researches (especially backdoor attacks/defenses) of image classification in deep learning. | https://github.com/ain-soph/trojanzoo | 25 | 5| 
-| 20210109T17:36:50Z | Ghost Framework is an Android post-exploitation framework that exploits the Android Debug Bridge to remotely access an Android device. Ghost Framework gives you the power and convenience of remote Android device administration. | https://github.com/EntySec/ghost | 906 | 461| 
 | 20210109T14:08:42Z | Windows RAT written in Java | https://github.com/hacefresko/JRAT | 0 | 0| 
 | 20210109T13:52:33Z | TCP server + Web app for managing active backdoors | https://github.com/hacefresko/Mothership | 0 | 0| 
 | 20210109T12:43:00Z | Backdoor for deface with shell upload. | https://github.com/NAOYY/Backdoor-Deface | 0 | 0| 
-| 20210109T10:40:16Z | Null | https://github.com/rabbitx1337/backdoor | 0 | 0| 
-| 20210109T01:22:14Z | Backdoor for deface with shell upload. | https://github.com/NAOYY/Shell-Backdoor | 0 | 0| 
 
 
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210110T03:00:11Z | Null | https://github.com/fragment137/fuzzy-enigma | 0 | 0| 
-| 20210110T02:34:53Z | Dictionary collection project such as Pentesing, Fuzzing, Bruteforce and BugBounty. 渗透测试、SRC漏洞挖掘、爆破、Fuzzing等字典收集项目。 | https://github.com/insightglacier/Dictionary-Of-Pentesting | 409 | 99| 
-| 20210110T01:26:14Z | Null | https://github.com/jtbish/fuzzy-mococo | 0 | 0| 
-| 20210110T01:19:09Z | working through gray hat C# book | https://github.com/marbilher/fuzzing | 0 | 0| 
-| 20210110T00:38:19Z | Adds ~ to searches on pathofexile.com/trade to enable fuzzy search. No more exact wording needed. | https://github.com/JonasRock/POETradeFuzzySearch | 3 | 1| 
-| 20210110T00:10:20Z | Yet another web application fuzzer. | https://github.com/serialphotog/OpenWebFuzzer | 0 | 0| 
-| 20210109T23:41:31Z | Fuzzing cryptographic libraries. Magic bug printer go brrrr. | https://github.com/guidovranken/cryptofuzz | 230 | 31| 
-| 20210109T23:28:25Z | select boxes with fuzzy matching | https://github.com/fkretlow/fuzzy-select | 0 | 0| 
-| 20210109T23:25:29Z | Null | https://github.com/Syah4kram/FuzzyLogic-Matlab | 0 | 0| 
-| 20210109T23:06:43Z | pFuzz helps us to bypass web application firewall by using different methods at the same time. | https://github.com/RedSection/pFuzz | 5 | 1| 
+| 20210110T12:59:10Z | Challenging testcases for fuzzers | https://github.com/AFLplusplus/fuzzer-challenges | 13 | 0| 
+| 20210110T12:56:29Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 1240 | 266| 
+| 20210110T12:06:01Z | Null | https://github.com/wangcwangc/W-Fuzz | 0 | 0| 
+| 20210110T11:21:44Z | Test version of the program for combining fuzzy sets and the ant colony method. Works on test cases. | https://github.com/kalengul/MMK_FuzzySet_Tes | 0 | 0| 
+| 20210110T11:13:06Z | Null | https://github.com/Dmenk123/fuzzy_ahp | 0 | 0| 
+| 20210110T10:58:46Z | Null | https://github.com/ekenev/fuzzy-invention | 0 | 0| 
+| 20210110T10:57:53Z | select boxes with fuzzy matching | https://github.com/fkretlow/fuzzy-select | 0 | 0| 
+| 20210110T10:50:40Z | A program for multiplying two fuzzy sets given by piecewise functions | https://github.com/kalengul/GeneralizationFuzzySet | 0 | 0| 
+| 20210110T09:58:05Z | Fake News Detection, Repository. | https://github.com/hrs2203/fuzzy-pancake | 0 | 0| 
+| 20210110T09:44:45Z | Null | https://github.com/szabolcs-dekany/nestjs-fuzzy-reproducer | 0 | 0| 
 
 
 
