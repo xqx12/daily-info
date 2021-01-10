@@ -86,13 +86,13 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210110T01:33:18Z | fix exploits on anarchy server | https://github.com/moom0o/AnarchyExploitFixes | 9 | 4| 
 | 20210110T01:26:58Z | linux post-exploitation framework made by linux user | https://github.com/jm33-m0/emp3r0r | 209 | 37| 
 | 20210110T01:18:12Z | Tegra X1 bootrom exploit | https://github.com/fail0verflow/shofel2 | 692 | 142| 
 | 20210110T01:01:55Z | Fast jacobian computation through sparsity exploitation and matrix coloring | https://github.com/JuliaDiff/SparseDiffTools.jl | 85 | 15| 
 | 20210110T00:52:58Z | A series of CTF/hacking challenge solutions for binary exploitation(or pwn)/reverse engineering/vulnerability research/memory corruption(or whatever term you use) | https://github.com/docfate111/binary-exploitation-solution-scripts | 0 | 0| 
 | 20210110T00:48:34Z | Null | https://github.com/KingXX1/Ps4-Exploit-702 | 0 | 0| 
 | 20210110T00:47:35Z | Servers get exploited everyday. You as an owner need to take measures to ensure no further damage! | https://github.com/Atlas-Uprising/guard-your-server | 1 | 0| 
-| 20210110T00:27:40Z | fix exploits on anarchy server | https://github.com/moom0o/AnarchyExploitFixes | 9 | 4| 
 | 20210110T00:24:52Z | AMWScan (PHP Antimalware Scanner) is a free tool to scan php files and analyze your project to find any malicious code inside it. | https://github.com/marcocesarato/PHP-Antimalware-Scanner | 161 | 29| 
 | 20210110T00:20:08Z | This bash script will help you to hack remote hosts  | https://github.com/FabioDefilippo/linuxallremote | 2 | 1| 
 | 20210110T00:10:02Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 8876 | 1406| 
