@@ -34,7 +34,6 @@
 | --- | --- | --- | --- | ---| 
 | 20210109T19:11:20Z | ⬇️ File Upload/sharing application, used by thousands of webmasters since 2007.  | https://github.com/kleeja-official/kleeja | 109 | 32| 
 | 20210109T07:35:02Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1597 | 478| 
-| 20210109T03:25:46Z | Create CFGs and compute complexity metrics for Python, C++, and Java code. | https://github.com/hmc-alpaqa/metrinome | 5 | 0| 
 
 
 # s2e on Github 推荐
