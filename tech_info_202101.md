@@ -47,7 +47,7 @@
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
 | 20210110T01:13:27Z | CVE-2020-17518 | [CVE-2020-17518] Apache Flink RESTful API Arbitrary File Upload via Directory Traversal | https://github.com/murataydemir/CVE-2020-17518 | Apache Flink 1.5.1 introduced a REST handler that allows you to write an uploaded file to an arbitrary location on the local file system, through a maliciously modified HTTP HEADER. The files can be written to any location accessible by Flink 1.5.1. All users should upgrade to Flink 1.11.3 or 1.12.0 if their Flink instance(s) are exposed. The issue was fixed in commit a5264a6f41524afe8ceadf1d8ddc8c80f323ebc4 from apache/flink:master.| 
-| 20210109T23:44:47Z | CVE-2020-35488 | Null | https://github.com/GuillaumePetit84/CVE-2020-35488 | | 
+| 20210109T23:44:47Z | CVE-2020-35488 | Null | https://github.com/GuillaumePetit84/CVE-2020-35488 | The fileop module of the NXLog service in NXLog Community Edition 2.10.2150 allows remote attackers to cause a denial of service (daemon crash) via a crafted Syslog payload to the Syslog service. This attack requires a specific configuration. Also, the name of the directory created must use a Syslog field. (For example, on Linux it is not possible to create a .. directory. On Windows, it is not possible to create a CON directory.)| 
 | 20210109T23:00:27Z | CVE-2020-7048 | Null | https://github.com/ElmouradiAmine/CVE-2020-7048 | The WordPress plugin, WP Database Reset through 3.1, contains a flaw that allowed any unauthenticated user to reset any table in the database to the initial WordPress set-up state (deleting all site content stored in that table), as demonstrated by a wp-admin/admin-post.php?db-reset-tables[]=comments URI.| 
 | 20210109T16:24:54Z | CVE-2020-17518 | Null | https://github.com/QmF0c3UK/CVE-2020-17518 | Apache Flink 1.5.1 introduced a REST handler that allows you to write an uploaded file to an arbitrary location on the local file system, through a maliciously modified HTTP HEADER. The files can be written to any location accessible by Flink 1.5.1. All users should upgrade to Flink 1.11.3 or 1.12.0 if their Flink instance(s) are exposed. The issue was fixed in commit a5264a6f41524afe8ceadf1d8ddc8c80f323ebc4 from apache/flink:master.| 
 | 20210109T10:35:20Z | CVE-2020-11851 | Remote Code Execution vulnerability on ArcSight Logger | https://github.com/ch1nghz/CVE-2020-11851 | Arbitrary code execution vulnerability on Micro Focus ArcSight Logger product, affecting all version prior to 7.1.1. The vulnerability could be remotely exploited resulting in the execution of arbitrary code.| 
@@ -86,6 +86,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210110T01:13:45Z | linux post-exploitation framework made by linux user | https://github.com/jm33-m0/emp3r0r | 209 | 37| 
 | 20210110T01:01:55Z | Fast jacobian computation through sparsity exploitation and matrix coloring | https://github.com/JuliaDiff/SparseDiffTools.jl | 85 | 15| 
 | 20210110T00:52:58Z | A series of CTF/hacking challenge solutions for binary exploitation(or pwn)/reverse engineering/vulnerability research/memory corruption(or whatever term you use) | https://github.com/docfate111/binary-exploitation-solution-scripts | 0 | 0| 
 | 20210110T00:48:34Z | Null | https://github.com/KingXX1/Ps4-Exploit-702 | 0 | 0| 
@@ -95,7 +96,6 @@
 | 20210110T00:20:08Z | This bash script will help you to hack remote hosts  | https://github.com/FabioDefilippo/linuxallremote | 2 | 1| 
 | 20210110T00:10:02Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 8876 | 1406| 
 | 20210110T00:08:34Z | Null | https://github.com/x1234xx/0DaylnkExploit-Builder | 0 | 0| 
-| 20210109T23:59:08Z | ExploitsX is a top-of-the-line constantly updated exploit fixer focused on patching bugs, lag glitches, and crash glitches for minecraft servers. It supports versions 1.8 through 1.17. | https://github.com/IzDaBait/ExploitsX | 5 | 2| 
 
 
 # backdoor on Github 推荐
