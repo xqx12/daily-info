@@ -86,6 +86,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210111T01:28:17Z | Generate C# exploit skeletons from your shellcode .BIN files. | https://github.com/redskal/byte-array-creator | 0 | 0| 
 | 20210111T01:07:35Z | An open-source post-exploitation framework for students, researchers and developers. | https://github.com/malwaredllc/byob | 5756 | 1262| 
 | 20210111T00:35:48Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 8877 | 1408| 
 | 20210111T00:26:41Z | ExploitsX is a top-of-the-line constantly updated exploit fixer focused on patching bugs, lag glitches, and crash glitches for minecraft servers. It supports versions 1.8 through 1.17. | https://github.com/IzDaBait/ExploitsX | 5 | 2| 
@@ -95,7 +96,6 @@
 | 20210110T22:48:13Z | pro fortnite selfcode by lil trey trey | https://github.com/0x420-420/exploits.cc-leak | 0 | 0| 
 | 20210110T21:57:08Z | Null | https://github.com/1N53C/ExploitDBSearch | 0 | 0| 
 | 20210110T21:52:50Z | saw this being exploited, so i made an app that does it for you, the only difference is that the vbs used isnt the same. | https://github.com/websinkwastaken/discord-av-cache-exploit | 0 | 0| 
-| 20210110T21:24:14Z | The ZetaSploit Framework is a modular penetration testing platform that enables you to write, test, and execute exploit code. The ZetaSploit Framework contains a suite of tools that you can use to test security vulnerabilities, enumerate networks and execute attacks. | https://github.com/EntySec/ZetaSploit | 9 | 4| 
 
 
 # backdoor on Github 推荐
