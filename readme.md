@@ -71,7 +71,6 @@
 | 20210110T09:10:37Z | Null | https://github.com/rabbitx1337/backdoor | 0 | 0| 
 | 20210110T07:51:05Z | Null | https://github.com/GTDT/Widnwos_Backdoor | 0 | 0| 
 | 20210110T05:16:06Z | Ghost Framework is an Android post-exploitation framework that exploits the Android Debug Bridge to remotely access an Android device. Ghost Framework gives you the power and convenience of remote Android device administration. | https://github.com/EntySec/ghost | 907 | 462| 
-| 20210110T04:24:15Z | TrojanZoo provides a universal pytorch platform to conduct security researches (especially backdoor attacks/defenses) of image classification in deep learning. | https://github.com/ain-soph/trojanzoo | 25 | 5| 
 | 20210110T00:16:22Z | Null | https://github.com/sahiljain443/python-backdoor | 0 | 0| 
 
 
