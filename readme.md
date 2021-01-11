@@ -81,7 +81,7 @@
 | --- | --- | --- | --- | ---| 
 | 20210111T12:32:47Z | Fuzzy-search tool built for emacs-ng | https://github.com/DavidDeSimone/ng-fuzzy-search | 3 | 0| 
 | 20210111T12:19:57Z | Null | https://github.com/an71qu3/ExpressWork.fuzziecaterpillar.com | 0 | 0| 
-| 20210111T12:18:18Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 29270 | 14714| 
+| 20210111T12:18:18Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 29270 | 14715| 
 | 20210111T12:14:42Z | Go fuzzy matching tool using Levenshtein distance calculation | https://github.com/datahappy1/go_fuzzymatch | 0 | 0| 
 | 20210111T12:03:47Z | Null | https://github.com/s9varesc/url-fuzzing | 0 | 0| 
 | 20210111T11:59:31Z | Null | https://github.com/Syah4kram/FuzzyLogic-Matlab | 0 | 0| 
