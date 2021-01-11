@@ -86,7 +86,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210111T02:12:56Z | Commodity Injection Signatures, Malicious Inputs, XSS, HTTP Header Injection, XXE, RCE, Javascript, XSLT | https://github.com/xsscx/Commodity-Injection-Signatures | 249 | 101| 
+| 20210111T02:15:34Z | Commodity Injection Signatures, Malicious Inputs, XSS, HTTP Header Injection, XXE, RCE, Javascript, XSLT | https://github.com/xsscx/Commodity-Injection-Signatures | 249 | 101| 
 | 20210111T01:59:16Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 8876 | 1408| 
 | 20210111T01:30:20Z | Generate C# exploit skeletons from your shellcode .BIN files. | https://github.com/redskal/byte-array-creator | 0 | 0| 
 | 20210111T01:07:35Z | An open-source post-exploitation framework for students, researchers and developers. | https://github.com/malwaredllc/byob | 5756 | 1262| 
