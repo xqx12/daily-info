@@ -116,16 +116,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210111T02:08:54Z | Furnace power control using Fuzzy Logic. GUI designed in JavaFX | https://github.com/Gefradus/FuzzyFurnaceControl | 0 | 0| 
+| 20210111T02:00:08Z | Null | https://github.com/fragment137/fuzzy-enigma | 0 | 0| 
+| 20210111T01:55:09Z | Null | https://github.com/PatRademacher/K-Means-Fuzzy-C-Means | 0 | 0| 
+| 20210111T01:39:32Z | Sample proof-of-concept of a 3D Platformer in Unreal Engine 4. | https://github.com/JIoffe/FuzzyWuzzyUE4 | 0 | 0| 
 | 20210111T01:19:17Z | Challenging testcases for fuzzers | https://github.com/AFLplusplus/fuzzer-challenges | 14 | 0| 
-| 20210111T00:00:07Z | Null | https://github.com/fragment137/fuzzy-enigma | 0 | 0| 
 | 20210110T23:56:30Z | Go fuzzy matching tool using Levenshtein distance calculation | https://github.com/datahappy1/go_fuzzymatch | 0 | 0| 
 | 20210110T23:55:18Z | Python implementation of patterns and offsets for fuzzing | https://github.com/blitztide/python-patterns | 0 | 0| 
 | 20210110T22:38:43Z | OSS-Fuzz - continuous fuzzing of open source software. | https://github.com/google/oss-fuzz | 5780 | 1155| 
 | 20210110T22:26:30Z | Null | https://github.com/ekivolowitz/FuzzyMan | 0 | 0| 
 | 20210110T21:57:45Z | The Book %Generating Software Tests% | https://github.com/uds-se/fuzzingbook | 508 | 100| 
-| 20210110T21:47:28Z | Null | https://github.com/corootine/fuzzy | 0 | 0| 
-| 20210110T21:36:34Z | Furnace power control using Fuzzy Logic. GUI designed in JavaFX | https://github.com/Gefradus/FuzzyHeatControl | 0 | 0| 
-| 20210110T21:09:57Z | Repository holding database dumps from getfursu.it | https://github.com/veelkoov/fuzzrake-data | 0 | 0| 
 
 
 
