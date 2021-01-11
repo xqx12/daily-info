@@ -28,13 +28,13 @@
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
 | 20210111T12:06:48Z | CVE-2020-36179 | CVE-2020-36179~82  Jackson-databind SSRF&RCE | https://github.com/Al1ex/CVE-2020-36179 | FasterXML jackson-databind 2.x before 2.9.10.8 mishandles the interaction between serialization gadgets and typing, related to oadd.org.apache.commons.dbcp.cpdsadapter.DriverAdapterCPDS.| 
-| 20210111T09:44:03Z | CVE-2020-36188 | CVE-2020-36188 &&Jackson-databind RCE | https://github.com/Al1ex/CVE-2020-36188 | FasterXML jackson-databind 2.x before 2.9.10.8 mishandles the interaction between serialization gadgets and typing, related to com.newrelic.agent.deps.ch.qos.logback.core.db.JNDIConnectionSource.| 
+| 20210111T09:44:03Z | CVE-2020-36188 | CVE-2020-36188 &&Jackson-databind RCE | https://github.com/Al1ex/CVE-2020-36188 | | 
 | 20210111T09:18:48Z | CVE-2020-11851 | Remote Code Execution vulnerability on ArcSight Logger | https://github.com/ch1nghz/CVE-2020-11851 | Arbitrary code execution vulnerability on Micro Focus ArcSight Logger product, affecting all version prior to 7.1.1. The vulnerability could be remotely exploited resulting in the execution of arbitrary code.| 
 | 20210111T08:44:50Z | CVE-2021-3019 | CVE-2021-3019 lanproxy目录遍历任意文件读取漏洞探测POC | https://github.com/FanqXu/CVE-2021-3019 | ffay lanproxy 0.1 allows Directory Traversal to read /../conf/config.properties to obtain credentials for a connection to the intranet.| 
 | 20210111T08:05:53Z | CVE-2020-36184 | CVE-2020-36184 && Jackson-databind  RCE | https://github.com/Al1ex/CVE-2020-36184 | FasterXML jackson-databind 2.x before 2.9.10.8 mishandles the interaction between serialization gadgets and typing, related to org.apache.tomcat.dbcp.dbcp2.datasources.PerUserPoolDataSource.| 
 | 20210111T04:58:17Z | CVE-2020-0796 | local exploit | https://github.com/alexa872/CVE-2020-0796 | A remote code execution vulnerability exists in the way that the Microsoft Server Message Block 3.1.1 (SMBv3) protocol handles certain requests, aka %Windows SMBv3 Client/Server Remote Code Execution Vulnerability%.| 
-| 20210111T04:37:45Z | CVE-2020-17519 | CVE-2020-17519 | https://github.com/hoanx4/CVE-2020-17519 | A change introduced in Apache Flink 1.11.0 (and released in 1.11.1 and 1.11.2 as well) allows attackers to read any file on the local filesystem of the JobManager through the REST interface of the JobManager process. Access is restricted to files accessible by the JobManager process. All users should upgrade to Flink 1.11.3 or 1.12.0 if their Flink instance(s) are exposed. The issue was fixed in commit b561010b0ee741543c3953306037f00d7a9f0801 from apache/flink:master.| 
-| 20210111T02:11:51Z | CVE-2021-1056 | PoC for CVE-2021-1056 | https://github.com/pokerfaceSad/CVE-2021-1056 | | 
+| 20210111T04:37:45Z | CVE-2020-17519 | CVE-2020-17519 | https://github.com/hoanx4/CVE-2020-17519 | | 
+| 20210111T02:11:51Z | CVE-2021-1056 | PoC for CVE-2021-1056 | https://github.com/pokerfaceSad/CVE-2021-1056 | NVIDIA GPU Display Driver for Linux, all versions, contains a vulnerability in the kernel mode layer (nvidia.ko) in which it does not completely honor operating system file system permissions to provide GPU device-level isolation, which may lead to denial of service or information disclosure.| 
 
 
 # klee on Github 推荐
