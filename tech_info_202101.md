@@ -34,13 +34,13 @@
 | 20210111 | 组策略限制3389登录的绕过方式 | https://mp.weixin.qq.com/s/4eDNmiiXp7afLKdYzHeb3Q| 
 | 20210111 | SecWiki周刊（第358期) | https://www.sec-wiki.com/weekly/358| 
 | 20210111 | 拯救圣诞世界 | https://www.sec-in.com/article/766| 
+| 20210111 | G.O.S.S.I.P 安全学术会议排行榜（2020版） | https://feysh.com/ranking/2020/| 
 | 20210110 | 基于异构图卷积网络的网络威胁情报建模 | https://mp.weixin.qq.com/s/TszbHM__hpYvdHsCoMmkUQ| 
 | 20210110 | 使用自己的代码查找漏洞：检测功能相似但不一致的代码 | https://mp.weixin.qq.com/s/ELbtEhd1wedkEqhboPpLuQ| 
 | 20210109 | 美国国家网络靶场系统架构与设计原理剖析①总论 | https://mp.weixin.qq.com/s/8yz12RyCyNXGhcAVFZX60g| 
 | 20210108 | 浅析开源蜜罐识别与全网测绘 | https://mp.weixin.qq.com/s/hq-z2HBGz3nehnCVg_H-RQ| 
 | 20210108 | 对 SolarWinds 事件更深的思考：如何防御供应链攻击 | https://mp.weixin.qq.com/s/GdER32Z7K86boHVc-Kic3g| 
 | 20210107 | 疑似 APT35 与响尾蛇组织使用的域名被披露 | https://mp.weixin.qq.com/s/BNVsnlXYtaZ9_Pk_oKgZRg| 
-| 20210107 | 一个普通网安从业人员的2020 | https://mp.weixin.qq.com/s/PYCIMOk8_wUg7eLFEVOoUQ| 
 
 
 # CVE Github 推荐

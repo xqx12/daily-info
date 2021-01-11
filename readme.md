@@ -22,6 +22,7 @@
 | 20210111 | 组策略限制3389登录的绕过方式 | https://mp.weixin.qq.com/s/4eDNmiiXp7afLKdYzHeb3Q| 
 | 20210111 | SecWiki周刊（第358期) | https://www.sec-wiki.com/weekly/358| 
 | 20210111 | 拯救圣诞世界 | https://www.sec-in.com/article/766| 
+| 20210111 | G.O.S.S.I.P 安全学术会议排行榜（2020版） | https://feysh.com/ranking/2020/| 
 
 
 # CVE Github 推荐
