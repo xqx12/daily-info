@@ -54,7 +54,7 @@
 | 20210110T12:48:21Z | CVE-2020-5421 | Spring 安全漏洞 CVE-2020-5421复现  | https://github.com/pandaMingx/CVE-2020-5421 | In Spring Framework versions 5.2.0 - 5.2.8, 5.1.0 - 5.1.17, 5.0.0 - 5.0.18, 4.3.0 - 4.3.28, and older unsupported versions, the protections against RFD attacks from CVE-2015-5211 may be bypassed depending on the browser used through the use of a jsessionid path parameter.| 
 | 20210110T05:34:59Z | CVE-2021-1056 | PoC for CVE-2021-1056 | https://github.com/pokerfaceSad/CVE-2021-1056 | NVIDIA GPU Display Driver for Linux, all versions, contains a vulnerability in the kernel mode layer (nvidia.ko) in which it does not completely honor operating system file system permissions to provide GPU device-level isolation, which may lead to denial of service or information disclosure.| 
 | 20210110T04:01:01Z | CVE-2020-11851 | Remote Code Execution vulnerability on ArcSight Logger | https://github.com/ch1nghz/CVE-2020-11851 | Arbitrary code execution vulnerability on Micro Focus ArcSight Logger product, affecting all version prior to 7.1.1. The vulnerability could be remotely exploited resulting in the execution of arbitrary code.| 
-| 20210110T01:26:10Z | CVE-2020-17519 | [CVE-2020-17519] Apache Flink RESTful API Arbitrary File Read | https://github.com/murataydemir/CVE-2020-17519 | | 
+| 20210110T01:26:10Z | CVE-2020-17519 | [CVE-2020-17519] Apache Flink RESTful API Arbitrary File Read | https://github.com/murataydemir/CVE-2020-17519 | A change introduced in Apache Flink 1.11.0 (and released in 1.11.1 and 1.11.2 as well) allows attackers to read any file on the local filesystem of the JobManager through the REST interface of the JobManager process. Access is restricted to files accessible by the JobManager process. All users should upgrade to Flink 1.11.3 or 1.12.0 if their Flink instance(s) are exposed. The issue was fixed in commit b561010b0ee741543c3953306037f00d7a9f0801 from apache/flink:master.| 
 | 20210110T01:18:11Z | CVE-2020-17518 | [CVE-2020-17518] Apache Flink RESTful API Arbitrary File Upload via Directory Traversal | https://github.com/murataydemir/CVE-2020-17518 | Apache Flink 1.5.1 introduced a REST handler that allows you to write an uploaded file to an arbitrary location on the local file system, through a maliciously modified HTTP HEADER. The files can be written to any location accessible by Flink 1.5.1. All users should upgrade to Flink 1.11.3 or 1.12.0 if their Flink instance(s) are exposed. The issue was fixed in commit a5264a6f41524afe8ceadf1d8ddc8c80f323ebc4 from apache/flink:master.| 
 
 
@@ -116,16 +116,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210110T13:35:01Z | Null | https://github.com/ekenev/fuzzy-invention | 0 | 0| 
-| 20210110T13:19:03Z | Challenging testcases for fuzzers | https://github.com/AFLplusplus/fuzzer-challenges | 13 | 0| 
-| 20210110T13:06:49Z | Intent recognition library for Rhasspy using fuzzywuzzy | https://github.com/rhasspy/rhasspy-fuzzywuzzy | 0 | 3| 
-| 20210110T13:04:58Z | select boxes with fuzzy matching | https://github.com/fkretlow/fuzzy-select | 0 | 0| 
-| 20210110T12:56:29Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 1240 | 266| 
-| 20210110T12:06:01Z | Null | https://github.com/wangcwangc/W-Fuzz | 0 | 0| 
-| 20210110T11:21:44Z | Test version of the program for combining fuzzy sets and the ant colony method. Works on test cases. | https://github.com/kalengul/MMK_FuzzySet_Tes | 0 | 0| 
-| 20210110T11:13:06Z | Null | https://github.com/Dmenk123/fuzzy_ahp | 0 | 0| 
-| 20210110T10:50:40Z | A program for multiplying two fuzzy sets given by piecewise functions | https://github.com/kalengul/GeneralizationFuzzySet | 0 | 0| 
-| 20210110T09:58:05Z | Fake News Detection, Repository. | https://github.com/hrs2203/fuzzy-pancake | 0 | 0| 
+| 20210111T01:19:17Z | Challenging testcases for fuzzers | https://github.com/AFLplusplus/fuzzer-challenges | 14 | 0| 
+| 20210111T00:00:07Z | Null | https://github.com/fragment137/fuzzy-enigma | 0 | 0| 
+| 20210110T23:56:30Z | Go fuzzy matching tool using Levenshtein distance calculation | https://github.com/datahappy1/go_fuzzymatch | 0 | 0| 
+| 20210110T23:55:18Z | Python implementation of patterns and offsets for fuzzing | https://github.com/blitztide/python-patterns | 0 | 0| 
+| 20210110T22:38:43Z | OSS-Fuzz - continuous fuzzing of open source software. | https://github.com/google/oss-fuzz | 5780 | 1155| 
+| 20210110T22:26:30Z | Null | https://github.com/ekivolowitz/FuzzyMan | 0 | 0| 
+| 20210110T21:57:45Z | The Book %Generating Software Tests% | https://github.com/uds-se/fuzzingbook | 508 | 100| 
+| 20210110T21:47:28Z | Null | https://github.com/corootine/fuzzy | 0 | 0| 
+| 20210110T21:36:34Z | Furnace power control using Fuzzy Logic. GUI designed in JavaFX | https://github.com/Gefradus/FuzzyHeatControl | 0 | 0| 
+| 20210110T21:09:57Z | Repository holding database dumps from getfursu.it | https://github.com/veelkoov/fuzzrake-data | 0 | 0| 
 
 
 
