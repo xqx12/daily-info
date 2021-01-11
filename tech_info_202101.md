@@ -55,7 +55,7 @@
 | 20210110T05:34:59Z | CVE-2021-1056 | PoC for CVE-2021-1056 | https://github.com/pokerfaceSad/CVE-2021-1056 | NVIDIA GPU Display Driver for Linux, all versions, contains a vulnerability in the kernel mode layer (nvidia.ko) in which it does not completely honor operating system file system permissions to provide GPU device-level isolation, which may lead to denial of service or information disclosure.| 
 | 20210110T04:01:01Z | CVE-2020-11851 | Remote Code Execution vulnerability on ArcSight Logger | https://github.com/ch1nghz/CVE-2020-11851 | Arbitrary code execution vulnerability on Micro Focus ArcSight Logger product, affecting all version prior to 7.1.1. The vulnerability could be remotely exploited resulting in the execution of arbitrary code.| 
 | 20210110T01:26:10Z | CVE-2020-17519 | [CVE-2020-17519] Apache Flink RESTful API Arbitrary File Read | https://github.com/murataydemir/CVE-2020-17519 | A change introduced in Apache Flink 1.11.0 (and released in 1.11.1 and 1.11.2 as well) allows attackers to read any file on the local filesystem of the JobManager through the REST interface of the JobManager process. Access is restricted to files accessible by the JobManager process. All users should upgrade to Flink 1.11.3 or 1.12.0 if their Flink instance(s) are exposed. The issue was fixed in commit b561010b0ee741543c3953306037f00d7a9f0801 from apache/flink:master.| 
-| 20210110T01:18:11Z | CVE-2020-17518 | [CVE-2020-17518] Apache Flink RESTful API Arbitrary File Upload via Directory Traversal | https://github.com/murataydemir/CVE-2020-17518 | Apache Flink 1.5.1 introduced a REST handler that allows you to write an uploaded file to an arbitrary location on the local file system, through a maliciously modified HTTP HEADER. The files can be written to any location accessible by Flink 1.5.1. All users should upgrade to Flink 1.11.3 or 1.12.0 if their Flink instance(s) are exposed. The issue was fixed in commit a5264a6f41524afe8ceadf1d8ddc8c80f323ebc4 from apache/flink:master.| 
+| 20210110T01:18:11Z | CVE-2020-17518 | [CVE-2020-17518] Apache Flink RESTful API Arbitrary File Upload via Directory Traversal | https://github.com/murataydemir/CVE-2020-17518 | | 
 
 
 # klee on Github 推荐
@@ -86,16 +86,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210110T13:52:46Z | Null | https://github.com/indoexploit/exploiter | 0 | 0| 
-| 20210110T13:44:44Z | AMWScan (PHP Antimalware Scanner) is a free tool to scan php files and analyze your project to find any malicious code inside it. | https://github.com/marcocesarato/PHP-Antimalware-Scanner | 161 | 29| 
-| 20210110T13:43:03Z | Roblox Exploit (fuck you no source to see here just assets) | https://github.com/belledelphinelmao/onion | 0 | 0| 
-| 20210110T13:40:39Z | CTF framework and exploit development library | https://github.com/Gallopsled/pwntools | 7423 | 1341| 
-| 20210110T13:26:25Z | linux post-exploitation framework made by linux user | https://github.com/jm33-m0/emp3r0r | 235 | 40| 
-| 20210110T12:59:19Z | Just trying to learn old school and new school binary explotation tricks. And thanks to @life_overflow yt to share with me the knowledge to me make me able to not only solve this exploits but to make me understand exactly how the computer works.  | https://github.com/pablo-lamtenzan/Hacking_playground | 0 | 0| 
-| 20210110T12:45:03Z | This bash script will help you to hack remote hosts  | https://github.com/FabioDefilippo/linuxallremote | 2 | 1| 
-| 20210110T12:33:08Z | The ZetaSploit Framework is a modular penetration testing platform that enables you to write, test, and execute exploit code. The ZetaSploit Framework contains a suite of tools that you can use to test security vulnerabilities, enumerate networks and execute attacks. | https://github.com/EntySec/ZetaSploit | 9 | 4| 
-| 20210110T11:47:23Z | SPVREDDY spv reddy venkatreddy sreepuram Security Enthusiast, Speaker and Penetration Testing Engineer with 6 years of experience in Cyber Security domain and 5 Years of Corporate experience in handling Vulnerability Assessment and Penetration Testing on Web Applications, Mobile Applications, API%s, Networks, Wireless Security and thick clients. Delivered talks in multiple Conferences, Workshops, Chapter meets and Webinars covering 5000+ members. Reported Critical Vulnerabilities in more than 25 Government websites leaking sensitive information of users and helped them to patch them. Ability to handle SAST (Static Application Security Testing), SAST (Dynamic Application Security Testing), End to End Product Security Operations and Penetration Testing. Good Knowledge on Software Defined Radio (SDR) Exploitation, Radio Frequency Identification Devices(RFID) and FRID tags. | https://github.com/spvreddy/spvreddy.github.io | 0 | 0| 
-| 20210110T11:41:27Z | Some exercises from my System and Network Hacking course @ University of Pisa | https://github.com/loresuso/BinaryExploitation | 0 | 0| 
+| 20210111T00:35:48Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 8877 | 1408| 
+| 20210111T00:26:41Z | ExploitsX is a top-of-the-line constantly updated exploit fixer focused on patching bugs, lag glitches, and crash glitches for minecraft servers. It supports versions 1.8 through 1.17. | https://github.com/IzDaBait/ExploitsX | 5 | 2| 
+| 20210110T23:57:18Z | Null | https://github.com/Kahvi-0/Vulnerabilities-and-Exploitations | 1 | 1| 
+| 20210110T23:39:50Z | Vulnerabilities% Risk of Exploitation | https://github.com/thiagofigcosta/V-REx | 0 | 0| 
+| 20210110T23:01:36Z | Extensible framework for analyzing publicly available information about vulnerabilities | https://github.com/leonov-av/vulristics | 22 | 1| 
+| 20210110T22:48:13Z | pro fortnite selfcode by lil trey trey | https://github.com/0x420-420/exploits.cc-leak | 0 | 0| 
+| 20210110T21:57:08Z | Null | https://github.com/1N53C/ExploitDBSearch | 0 | 0| 
+| 20210110T21:52:50Z | saw this being exploited, so i made an app that does it for you, the only difference is that the vbs used isnt the same. | https://github.com/websinkwastaken/discord-av-cache-exploit | 0 | 0| 
+| 20210110T21:24:14Z | The ZetaSploit Framework is a modular penetration testing platform that enables you to write, test, and execute exploit code. The ZetaSploit Framework contains a suite of tools that you can use to test security vulnerabilities, enumerate networks and execute attacks. | https://github.com/EntySec/ZetaSploit | 9 | 4| 
+| 20210110T20:54:03Z | [SPOILER ALERT] Tools, notes and custom exploits | https://github.com/limitedeternity/HackTheBox | 0 | 0| 
 
 
 # backdoor on Github 推荐
