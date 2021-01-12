@@ -117,7 +117,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210112T13:25:48Z | Null | https://github.com/0xFuzz/0xFuzz.github.io | 0 | 0| 
+| 20210112T13:29:40Z | Null | https://github.com/0xFuzz/0xFuzz.github.io | 0 | 0| 
 | 20210112T13:21:27Z | Public BanditFuzz Repo | https://github.com/j29scott/BanditFuzz_Public | 5 | 4| 
 | 20210112T13:20:34Z | Utility tool for using systemctl interactively | https://github.com/NullSense/fuzzy-sys | 28 | 0| 
 | 20210112T12:33:38Z | Null | https://github.com/leukocyt-byte/fuzzy-spoon | 0 | 0| 
