@@ -117,6 +117,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210112T13:45:34Z | Fuzz 403/401ing endpoints for bypasses | https://github.com/intrudir/403fuzzer | 15 | 6| 
 | 20210112T13:32:44Z | Null | https://github.com/0xFuzz/0xFuzz.github.io | 0 | 0| 
 | 20210112T13:21:27Z | Public BanditFuzz Repo | https://github.com/j29scott/BanditFuzz_Public | 5 | 4| 
 | 20210112T13:20:34Z | Utility tool for using systemctl interactively | https://github.com/NullSense/fuzzy-sys | 28 | 0| 
@@ -126,7 +127,6 @@
 | 20210112T11:18:52Z | Null | https://github.com/s9varesc/url-fuzzing-docker | 0 | 0| 
 | 20210112T11:00:33Z | Null | https://github.com/YYC0626/FuzzX-CLI | 0 | 0| 
 | 20210112T10:32:47Z | Collection of quality safety articles. Awesome articles.   | https://github.com/tom0li/collection-document | 1329 | 427| 
-| 20210112T10:27:36Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2244 | 113| 
 
 
 
