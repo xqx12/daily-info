@@ -16,6 +16,7 @@
 | 20210112 | BORG ：一个快速进化的僵尸网络 | https://security.tencent.com/index.php/blog/msg/175| 
 | 20210112 | Hyper-V debugging for beginners. 2nd edition | https://hvinternals.blogspot.com/2021/01/hyper-v-debugging-for-beginners-2nd.html| 
 | 20210112 | SolarWinds 供应链攻击事件被怀疑与俄罗斯 Turla APT 组织有关 | https://sec.today/pulses/e44ffa7c-2aeb-4dc0-a3a8-b41720ecfb4c/| 
+| 20210112 | SolarWinds 供应链攻击事件被怀疑与俄罗斯 Turla APT 组织有关 | https://threatpost.com/solarwinds-hack-linked-turla-apt/162918/| 
 | 20210111 | An Outlook parasite for stealth persistence | https://vanmieghem.io/stealth-outlook-persistence/| 
 | 20210111 | Parent Process vs. Creator Process - Windows 进程父子关系分析 | https://scorpiosoftware.net/2021/01/10/parent-process-vs-creator-process/| 
 | 20210111 | Display Miniport Hooking | https://aviadshamriz.medium.com/part-2-display-miniport-hooking-e1a54661d2e1| 
@@ -25,7 +26,6 @@
 | 20210111 | 从分析 C&C 流量模型的角度检测恶意软件 | https://marcoramilli.com/2021/01/09/c2-traffic-patterns-personal-notes/| 
 | 20210111 | Google Chrome V8 CVE-2020-15999 字体加载堆溢出漏洞的利用过程 | https://starlabs.sg/blog/2021/01/chrome-1-day-hunting-uncovering-and-exploiting-cve-2020-15999/| 
 | 20210111 | EMOTET：通过电子邮件传播方式对其溯源。 | https://github.com/cecio/EMOTET-2020-Reversing| 
-| 20210109 | HyperViper:用于Hyper-V安全性研究的工具包资源。 | https://github.com/JaanusKaapPublic/HyperViper| 
 
 
 # 安全维基 推荐
@@ -53,9 +53,9 @@
 | 20210112T09:21:04Z | CVE-2021-1056 | PoC for CVE-2021-1056 | https://github.com/pokerfaceSad/CVE-2021-1056 | NVIDIA GPU Display Driver for Linux, all versions, contains a vulnerability in the kernel mode layer (nvidia.ko) in which it does not completely honor operating system file system permissions to provide GPU device-level isolation, which may lead to denial of service or information disclosure.| 
 | 20210112T07:49:41Z | CVE-2020-17518 | 利用Apache Flink CVE-2020-17518 getshell | https://github.com/rakjong/Flink-CVE-2020-17518-getshell | Apache Flink 1.5.1 introduced a REST handler that allows you to write an uploaded file to an arbitrary location on the local file system, through a maliciously modified HTTP HEADER. The files can be written to any location accessible by Flink 1.5.1. All users should upgrade to Flink 1.11.3 or 1.12.0 if their Flink instance(s) are exposed. The issue was fixed in commit a5264a6f41524afe8ceadf1d8ddc8c80f323ebc4 from apache/flink:master.| 
 | 20210112T03:18:05Z | CVE-2021-3019 | lanproxy 目录遍历漏洞批量检测 (CVE-2021-3019) | https://github.com/B1anda0/CVE-2021-3019 | ffay lanproxy 0.1 allows Directory Traversal to read /../conf/config.properties to obtain credentials for a connection to the intranet.| 
-| 20210111T19:37:48Z | CVE-2020-7048 | Null | https://github.com/ElmouradiAmine/CVE-2020-7048 | | 
+| 20210111T19:37:48Z | CVE-2020-7048 | Null | https://github.com/ElmouradiAmine/CVE-2020-7048 | The WordPress plugin, WP Database Reset through 3.1, contains a flaw that allowed any unauthenticated user to reset any table in the database to the initial WordPress set-up state (deleting all site content stored in that table), as demonstrated by a wp-admin/admin-post.php?db-reset-tables[]=comments URI.| 
 | 20210111T18:50:46Z | CVE-2020-3452 | CISCO CVE-2020-3452 Scanner & Exploiter | https://github.com/darklotuskdb/CISCO-CVE-2020-3452-Scanner-Exploiter | A vulnerability in the web services interface of Cisco Adaptive Security Appliance (ASA) Software and Cisco Firepower Threat Defense (FTD) Software could allow an unauthenticated, remote attacker to conduct directory traversal attacks and read sensitive files on a targeted system. The vulnerability is due to a lack of proper input validation of URLs in HTTP requests processed by an affected device. An attacker could exploit this vulnerability by sending a crafted HTTP request containing directory traversal character sequences to an affected device. A successful exploit could allow the attacker to view arbitrary files within the web services file system on the targeted device. The web services file system is enabled when the affected device is configured with either WebVPN or AnyConnect features. This vulnerability cannot be used to obtain access to ASA or FTD system files or underlying operating system (OS) files.| 
-| 20210111T09:18:48Z | CVE-2020-11851 | Remote Code Execution vulnerability on ArcSight Logger | https://github.com/ch1nghz/CVE-2020-11851 | Arbitrary code execution vulnerability on Micro Focus ArcSight Logger product, affecting all version prior to 7.1.1. The vulnerability could be remotely exploited resulting in the execution of arbitrary code.| 
+| 20210111T09:18:48Z | CVE-2020-11851 | Remote Code Execution vulnerability on ArcSight Logger | https://github.com/ch1nghz/CVE-2020-11851 | | 
 
 
 # klee on Github 推荐

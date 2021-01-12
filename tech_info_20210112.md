@@ -16,6 +16,7 @@
 | 20210112 | BORG ：一个快速进化的僵尸网络 | https://security.tencent.com/index.php/blog/msg/175| 
 | 20210112 | Hyper-V debugging for beginners. 2nd edition | https://hvinternals.blogspot.com/2021/01/hyper-v-debugging-for-beginners-2nd.html| 
 | 20210112 | SolarWinds 供应链攻击事件被怀疑与俄罗斯 Turla APT 组织有关 | https://sec.today/pulses/e44ffa7c-2aeb-4dc0-a3a8-b41720ecfb4c/| 
+| 20210112 | SolarWinds 供应链攻击事件被怀疑与俄罗斯 Turla APT 组织有关 | https://threatpost.com/solarwinds-hack-linked-turla-apt/162918/| 
 
 
 # 安全维基 推荐
