@@ -31,6 +31,7 @@
 # 安全维基 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20210112 | 利用Shodan确认思科ASA和FTD设备存在CVE-2020-3452漏洞 | https://mp.weixin.qq.com/s/AutCZA5n83pmo7VsfUIA0Q| 
 | 20210111 | 组策略限制3389登录的绕过方式 | https://mp.weixin.qq.com/s/4eDNmiiXp7afLKdYzHeb3Q| 
 | 20210111 | SecWiki周刊（第358期) | https://www.sec-wiki.com/weekly/358| 
 | 20210111 | 拯救圣诞世界 | https://www.sec-in.com/article/766| 
@@ -40,7 +41,6 @@
 | 20210109 | 美国国家网络靶场系统架构与设计原理剖析①总论 | https://mp.weixin.qq.com/s/8yz12RyCyNXGhcAVFZX60g| 
 | 20210108 | 浅析开源蜜罐识别与全网测绘 | https://mp.weixin.qq.com/s/hq-z2HBGz3nehnCVg_H-RQ| 
 | 20210108 | 对 SolarWinds 事件更深的思考：如何防御供应链攻击 | https://mp.weixin.qq.com/s/GdER32Z7K86boHVc-Kic3g| 
-| 20210107 | 疑似 APT35 与响尾蛇组织使用的域名被披露 | https://mp.weixin.qq.com/s/BNVsnlXYtaZ9_Pk_oKgZRg| 
 
 
 # CVE Github 推荐
@@ -55,7 +55,7 @@
 | 20210112T03:18:05Z | CVE-2021-3019 | lanproxy 目录遍历漏洞批量检测 (CVE-2021-3019) | https://github.com/B1anda0/CVE-2021-3019 | ffay lanproxy 0.1 allows Directory Traversal to read /../conf/config.properties to obtain credentials for a connection to the intranet.| 
 | 20210111T19:37:48Z | CVE-2020-7048 | Null | https://github.com/ElmouradiAmine/CVE-2020-7048 | The WordPress plugin, WP Database Reset through 3.1, contains a flaw that allowed any unauthenticated user to reset any table in the database to the initial WordPress set-up state (deleting all site content stored in that table), as demonstrated by a wp-admin/admin-post.php?db-reset-tables[]=comments URI.| 
 | 20210111T18:50:46Z | CVE-2020-3452 | CISCO CVE-2020-3452 Scanner & Exploiter | https://github.com/darklotuskdb/CISCO-CVE-2020-3452-Scanner-Exploiter | A vulnerability in the web services interface of Cisco Adaptive Security Appliance (ASA) Software and Cisco Firepower Threat Defense (FTD) Software could allow an unauthenticated, remote attacker to conduct directory traversal attacks and read sensitive files on a targeted system. The vulnerability is due to a lack of proper input validation of URLs in HTTP requests processed by an affected device. An attacker could exploit this vulnerability by sending a crafted HTTP request containing directory traversal character sequences to an affected device. A successful exploit could allow the attacker to view arbitrary files within the web services file system on the targeted device. The web services file system is enabled when the affected device is configured with either WebVPN or AnyConnect features. This vulnerability cannot be used to obtain access to ASA or FTD system files or underlying operating system (OS) files.| 
-| 20210111T09:18:48Z | CVE-2020-11851 | Remote Code Execution vulnerability on ArcSight Logger | https://github.com/ch1nghz/CVE-2020-11851 | | 
+| 20210111T09:18:48Z | CVE-2020-11851 | Remote Code Execution vulnerability on ArcSight Logger | https://github.com/ch1nghz/CVE-2020-11851 | Arbitrary code execution vulnerability on Micro Focus ArcSight Logger product, affecting all version prior to 7.1.1. The vulnerability could be remotely exploited resulting in the execution of arbitrary code.| 
 
 
 # klee on Github 推荐

@@ -22,6 +22,7 @@
 # 安全维基 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20210112 | 利用Shodan确认思科ASA和FTD设备存在CVE-2020-3452漏洞 | https://mp.weixin.qq.com/s/AutCZA5n83pmo7VsfUIA0Q| 
 
 
 # CVE Github 推荐
