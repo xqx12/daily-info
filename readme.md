@@ -33,7 +33,7 @@
 | 20210112T10:55:55Z | CVE-2020-36179 | CVE-2020-36179~82  Jackson-databind SSRF&RCE | https://github.com/Al1ex/CVE-2020-36179 | FasterXML jackson-databind 2.x before 2.9.10.8 mishandles the interaction between serialization gadgets and typing, related to oadd.org.apache.commons.dbcp.cpdsadapter.DriverAdapterCPDS.| 
 | 20210112T09:25:11Z | cve-2020-16012 | PoC for CVE-2020-16012, a timing side channel in drawImage in Firefox & Chrome | https://github.com/aleksejspopovs/cve-2020-16012 | 未查询到CVE信息| 
 | 20210112T09:21:04Z | CVE-2021-1056 | PoC for CVE-2021-1056 | https://github.com/pokerfaceSad/CVE-2021-1056 | NVIDIA GPU Display Driver for Linux, all versions, contains a vulnerability in the kernel mode layer (nvidia.ko) in which it does not completely honor operating system file system permissions to provide GPU device-level isolation, which may lead to denial of service or information disclosure.| 
-| 20210112T07:49:41Z | CVE-2020-17518 | 利用Apache Flink CVE-2020-17518 getshell | https://github.com/rakjong/Flink-CVE-2020-17518-getshell | Apache Flink 1.5.1 introduced a REST handler that allows you to write an uploaded file to an arbitrary location on the local file system, through a maliciously modified HTTP HEADER. The files can be written to any location accessible by Flink 1.5.1. All users should upgrade to Flink 1.11.3 or 1.12.0 if their Flink instance(s) are exposed. The issue was fixed in commit a5264a6f41524afe8ceadf1d8ddc8c80f323ebc4 from apache/flink:master.| 
+| 20210112T07:49:41Z | CVE-2020-17518 | 利用Apache Flink CVE-2020-17518 getshell | https://github.com/rakjong/Flink-CVE-2020-17518-getshell | | 
 | 20210112T03:18:05Z | CVE-2021-3019 | lanproxy 目录遍历漏洞批量检测 (CVE-2021-3019) | https://github.com/B1anda0/CVE-2021-3019 | ffay lanproxy 0.1 allows Directory Traversal to read /../conf/config.properties to obtain credentials for a connection to the intranet.| 
 
 
@@ -81,7 +81,9 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210112T13:18:08Z | Utility tool for using systemctl interactively | https://github.com/NullSense/fuzzy-sys | 28 | 0| 
+| 20210112T13:21:27Z | Public BanditFuzz Repo | https://github.com/j29scott/BanditFuzz_Public | 5 | 4| 
+| 20210112T13:21:26Z | Null | https://github.com/0xFuzz/0xFuzz.github.io | 0 | 0| 
+| 20210112T13:20:34Z | Utility tool for using systemctl interactively | https://github.com/NullSense/fuzzy-sys | 28 | 0| 
 | 20210112T12:33:38Z | Null | https://github.com/leukocyt-byte/fuzzy-spoon | 0 | 0| 
 | 20210112T11:46:23Z | Fuzzing Parsers with Tokens | https://github.com/uds-se/lFuzzer | 28 | 4| 
 | 20210112T11:20:07Z | Python implementation of patterns and offsets for fuzzing | https://github.com/blitztide/python-patterns | 0 | 0| 
@@ -89,8 +91,6 @@
 | 20210112T11:00:33Z | Null | https://github.com/YYC0626/FuzzX-CLI | 0 | 0| 
 | 20210112T10:32:47Z | Collection of quality safety articles. Awesome articles.   | https://github.com/tom0li/collection-document | 1329 | 427| 
 | 20210112T10:27:36Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2244 | 113| 
-| 20210112T10:21:53Z | FormatFuzzer is a framework for high-efficiency, high-quality generation and parsing of binary inputs. | https://github.com/uds-se/FormatFuzzer | 115 | 12| 
-| 20210112T10:15:56Z | document for FuzzX | https://github.com/YYC0626/FuzzX_docs | 0 | 0| 
 
 
 
