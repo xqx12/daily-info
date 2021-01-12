@@ -29,8 +29,8 @@
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
 | 20210112T12:37:41Z | CVE-2020-8165 | Null | https://github.com/macosta-42/CVE-2020-8165 | A deserialization of untrusted data vulnernerability exists in rails < 5.2.4.3, rails < 6.0.3.1 that can allow an attacker to unmarshal user-provided objects in MemCacheStore and RedisCacheStore potentially resulting in an RCE.| 
-| 20210112T11:01:10Z | CVE-2020-36188 | CVE-2020-36188 &&Jackson-databind RCE | https://github.com/Al1ex/CVE-2020-36188 | | 
-| 20210112T10:55:55Z | CVE-2020-36179 | CVE-2020-36179~82  Jackson-databind SSRF&RCE | https://github.com/Al1ex/CVE-2020-36179 | | 
+| 20210112T11:01:10Z | CVE-2020-36188 | CVE-2020-36188 &&Jackson-databind RCE | https://github.com/Al1ex/CVE-2020-36188 | FasterXML jackson-databind 2.x before 2.9.10.8 mishandles the interaction between serialization gadgets and typing, related to com.newrelic.agent.deps.ch.qos.logback.core.db.JNDIConnectionSource.| 
+| 20210112T10:55:55Z | CVE-2020-36179 | CVE-2020-36179~82  Jackson-databind SSRF&RCE | https://github.com/Al1ex/CVE-2020-36179 | FasterXML jackson-databind 2.x before 2.9.10.8 mishandles the interaction between serialization gadgets and typing, related to oadd.org.apache.commons.dbcp.cpdsadapter.DriverAdapterCPDS.| 
 | 20210112T09:25:11Z | cve-2020-16012 | PoC for CVE-2020-16012, a timing side channel in drawImage in Firefox & Chrome | https://github.com/aleksejspopovs/cve-2020-16012 | 未查询到CVE信息| 
 | 20210112T09:21:04Z | CVE-2021-1056 | PoC for CVE-2021-1056 | https://github.com/pokerfaceSad/CVE-2021-1056 | NVIDIA GPU Display Driver for Linux, all versions, contains a vulnerability in the kernel mode layer (nvidia.ko) in which it does not completely honor operating system file system permissions to provide GPU device-level isolation, which may lead to denial of service or information disclosure.| 
 | 20210112T07:49:41Z | CVE-2020-17518 | 利用Apache Flink CVE-2020-17518 getshell | https://github.com/rakjong/Flink-CVE-2020-17518-getshell | Apache Flink 1.5.1 introduced a REST handler that allows you to write an uploaded file to an arbitrary location on the local file system, through a maliciously modified HTTP HEADER. The files can be written to any location accessible by Flink 1.5.1. All users should upgrade to Flink 1.11.3 or 1.12.0 if their Flink instance(s) are exposed. The issue was fixed in commit a5264a6f41524afe8ceadf1d8ddc8c80f323ebc4 from apache/flink:master.| 
@@ -53,13 +53,13 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210112T13:11:30Z | Development of code to exploit LSST and VISTA imaging | https://github.com/lsst-uk/lsst-ir-fusion | 0 | 0| 
 | 20210112T13:08:14Z | a tool for creating exploited media files for discord | https://github.com/Schmenn/discord-exploits | 5 | 0| 
 | 20210112T13:05:42Z | linux post-exploitation framework made by linux user | https://github.com/jm33-m0/emp3r0r | 286 | 48| 
 | 20210112T13:02:57Z | The ZetaSploit Framework is a modular penetration testing platform that enables you to write, test, and execute exploit code. The ZetaSploit Framework contains a suite of tools that you can use to test security vulnerabilities, enumerate networks and execute attacks. | https://github.com/EntySec/ZetaSploit | 11 | 4| 
 | 20210112T12:56:27Z | java开发 | https://github.com/May-it-be-your-city/java-exploit | 0 | 0| 
 | 20210112T12:49:41Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 7 | 4| 
 | 20210112T12:34:02Z | Additional material for the paper %MoralStrength: Exploiting a Moral Lexicon and Embedding Similarity for Moral Foundations Prediction% | https://github.com/oaraque/moral-foundations | 15 | 5| 
-| 20210112T12:30:01Z | Development of code to exploit LSST and VISTA imaging | https://github.com/lsst-uk/lsst-ir-fusion | 0 | 0| 
 | 20210112T11:57:35Z | Roblox Exploit (fuck you no source to see here just assets) | https://github.com/belledelphinelmao/onion | 0 | 0| 
 | 20210112T11:40:14Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 8881 | 1408| 
 | 20210112T11:34:28Z | Null | https://github.com/Souradeep150/Exploiting-Laguerre-transform-in-image-steganography | 0 | 0| 
