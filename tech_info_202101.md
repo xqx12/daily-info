@@ -87,6 +87,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210112T01:37:37Z | exploit-database-papers | https://github.com/offensive-security/exploitdb-papers | 277 | 39| 
 | 20210112T01:05:00Z | auto accept queue & auto aram exploit | https://github.com/nosphery/utils-lol | 0 | 0| 
 | 20210112T01:03:31Z | attempts at finding bugs and exploits | https://github.com/docfate111/bug-bounty | 0 | 0| 
 | 20210112T01:01:29Z | Null | https://github.com/adrianoapj/cool-exploit | 0 | 0| 
@@ -96,7 +97,6 @@
 | 20210112T00:34:31Z | PS4 Exploit list | https://github.com/Hakkuraifu/PS4xploit | 18 | 5| 
 | 20210112T00:25:42Z | A post exploitation framework designed to operate covertly on heavily monitored environments | https://github.com/bats3c/shad0w | 1074 | 170| 
 | 20210111T23:40:09Z | Various ASM, C and C++ tools, shellcodes and exploit experiments. | https://github.com/forrest-orr/ExploitDev | 30 | 2| 
-| 20210111T23:19:40Z | Thi powershell script has got to run in remote windows host, even for pivoting | https://github.com/FabioDefilippo/winallenum | 0 | 1| 
 
 
 # backdoor on Github 推荐
