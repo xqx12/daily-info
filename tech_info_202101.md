@@ -87,6 +87,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210112T01:05:00Z | auto accept queue & auto aram exploit | https://github.com/nosphery/utils-lol | 0 | 0| 
 | 20210112T01:03:31Z | attempts at finding bugs and exploits | https://github.com/docfate111/bug-bounty | 0 | 0| 
 | 20210112T01:01:29Z | Null | https://github.com/adrianoapj/cool-exploit | 0 | 0| 
 | 20210112T00:51:11Z | X Attacker Tool ☣ Website Vulnerability Scanner & Auto Exploiter | https://github.com/Moham3dRiahi/XAttacker | 856 | 404| 
@@ -96,7 +97,6 @@
 | 20210112T00:25:42Z | A post exploitation framework designed to operate covertly on heavily monitored environments | https://github.com/bats3c/shad0w | 1074 | 170| 
 | 20210111T23:40:09Z | Various ASM, C and C++ tools, shellcodes and exploit experiments. | https://github.com/forrest-orr/ExploitDev | 30 | 2| 
 | 20210111T23:19:40Z | Thi powershell script has got to run in remote windows host, even for pivoting | https://github.com/FabioDefilippo/winallenum | 0 | 1| 
-| 20210111T22:56:14Z | This repository will feature my scripts, research and documentation on Pokémon engines, glitches and exploits. | https://github.com/RETIREglitch/Pokemon-Research | 2 | 3| 
 
 
 # backdoor on Github 推荐
