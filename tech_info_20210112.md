@@ -53,7 +53,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210112T13:39:04Z | The ZetaSploit Framework is a modular penetration testing platform that enables you to write, test, and execute exploit code. The ZetaSploit Framework contains a suite of tools that you can use to test security vulnerabilities, enumerate networks and execute attacks. | https://github.com/EntySec/ZetaSploit | 11 | 4| 
+| 20210112T13:42:37Z | A repository for various scripts, exploits and payloads that will test your penetration. :cheeky: | https://github.com/laizz42/pentesting | 0 | 0| 
+| 20210112T13:41:19Z | The ZetaSploit Framework is a modular penetration testing platform that enables you to write, test, and execute exploit code. The ZetaSploit Framework contains a suite of tools that you can use to test security vulnerabilities, enumerate networks and execute attacks. | https://github.com/EntySec/ZetaSploit | 11 | 4| 
 | 20210112T13:11:30Z | Development of code to exploit LSST and VISTA imaging | https://github.com/lsst-uk/lsst-ir-fusion | 0 | 0| 
 | 20210112T13:08:14Z | a tool for creating exploited media files for discord | https://github.com/Schmenn/discord-exploits | 5 | 0| 
 | 20210112T13:05:42Z | linux post-exploitation framework made by linux user | https://github.com/jm33-m0/emp3r0r | 286 | 48| 
@@ -62,7 +63,6 @@
 | 20210112T12:34:02Z | Additional material for the paper %MoralStrength: Exploiting a Moral Lexicon and Embedding Similarity for Moral Foundations Prediction% | https://github.com/oaraque/moral-foundations | 15 | 5| 
 | 20210112T11:57:35Z | Roblox Exploit (fuck you no source to see here just assets) | https://github.com/belledelphinelmao/onion | 0 | 0| 
 | 20210112T11:40:14Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 8881 | 1408| 
-| 20210112T11:34:28Z | Null | https://github.com/Souradeep150/Exploiting-Laguerre-transform-in-image-steganography | 0 | 0| 
 
 
 # backdoor on Github 推荐
