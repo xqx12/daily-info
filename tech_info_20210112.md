@@ -53,8 +53,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210112T13:47:38Z | The ZetaSploit Framework is a modular penetration testing platform that enables you to write, test, and execute exploit code. The ZetaSploit Framework contains a suite of tools that you can use to test security vulnerabilities, enumerate networks and execute attacks. | https://github.com/EntySec/ZetaSploit | 11 | 4| 
 | 20210112T13:44:21Z | The best tool for finding one gadget RCE in libc.so.6 | https://github.com/david942j/one_gadget | 1268 | 109| 
-| 20210112T13:44:11Z | The ZetaSploit Framework is a modular penetration testing platform that enables you to write, test, and execute exploit code. The ZetaSploit Framework contains a suite of tools that you can use to test security vulnerabilities, enumerate networks and execute attacks. | https://github.com/EntySec/ZetaSploit | 11 | 4| 
 | 20210112T13:42:37Z | A repository for various scripts, exploits and payloads that will test your penetration. :cheeky: | https://github.com/laizz42/pentesting | 0 | 0| 
 | 20210112T13:11:30Z | Development of code to exploit LSST and VISTA imaging | https://github.com/lsst-uk/lsst-ir-fusion | 0 | 0| 
 | 20210112T13:08:14Z | a tool for creating exploited media files for discord | https://github.com/Schmenn/discord-exploits | 5 | 0| 
