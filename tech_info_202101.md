@@ -87,11 +87,11 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210112T13:08:14Z | a tool for creating exploited media files for discord | https://github.com/Schmenn/discord-exploits | 5 | 0| 
 | 20210112T13:05:42Z | linux post-exploitation framework made by linux user | https://github.com/jm33-m0/emp3r0r | 286 | 48| 
 | 20210112T13:02:57Z | The ZetaSploit Framework is a modular penetration testing platform that enables you to write, test, and execute exploit code. The ZetaSploit Framework contains a suite of tools that you can use to test security vulnerabilities, enumerate networks and execute attacks. | https://github.com/EntySec/ZetaSploit | 11 | 4| 
 | 20210112T12:56:27Z | java开发 | https://github.com/May-it-be-your-city/java-exploit | 0 | 0| 
 | 20210112T12:49:41Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 7 | 4| 
-| 20210112T12:42:09Z | a tool for creating exploited media files for discord | https://github.com/Schmenn/discord-exploits | 4 | 0| 
 | 20210112T12:34:02Z | Additional material for the paper %MoralStrength: Exploiting a Moral Lexicon and Embedding Similarity for Moral Foundations Prediction% | https://github.com/oaraque/moral-foundations | 15 | 5| 
 | 20210112T12:30:01Z | Development of code to exploit LSST and VISTA imaging | https://github.com/lsst-uk/lsst-ir-fusion | 0 | 0| 
 | 20210112T11:57:35Z | Roblox Exploit (fuck you no source to see here just assets) | https://github.com/belledelphinelmao/onion | 0 | 0| 
