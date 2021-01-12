@@ -66,21 +66,29 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210112T11:48:27Z | TCP server + Web app for managing active backdoors | https://github.com/hacefresko/Mothership | 0 | 0| 
+| 20210112T11:26:04Z | a small version of the shell backdoor to trick the firewall | https://github.com/security007/security007-minishell-backdoor | 0 | 0| 
+| 20210112T11:14:48Z | Null | https://github.com/rabbitx1337/backdoor | 0 | 0| 
+| 20210112T10:01:29Z | Worlds simplest PHP backdoor | https://github.com/F-Masood/worlds-simplest-php-backdoor | 0 | 0| 
+| 20210112T07:02:45Z | TrojanZoo provides a universal pytorch platform to conduct security researches (especially backdoor attacks/defenses) of image classification in deep learning. | https://github.com/ain-soph/trojanzoo | 28 | 5| 
+| 20210112T05:22:41Z | Research work on biometric security and template updation .  | https://github.com/Adk2001tech/Biometric-Backdoors | 1 | 0| 
+| 20210112T03:45:04Z | Null | https://github.com/rensx5514/BackdoorAttackNN-Pro | 0 | 0| 
 | 20210112T02:05:27Z | Tool to find potential backdoor/security holes in your endpoint | https://github.com/subasgit/backdoorfinder | 1 | 0| 
 
 
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210112T02:10:45Z | Fuzzing cryptographic libraries. Magic bug printer go brrrr. | https://github.com/guidovranken/cryptofuzz | 230 | 31| 
-| 20210112T02:09:46Z | Furnace power control using Fuzzy Logic. GUI designed in JavaFX | https://github.com/Gefradus/FuzzyFurnaceControl | 0 | 0| 
-| 20210112T02:06:55Z | OSS-Fuzz - continuous fuzzing of open source software. | https://github.com/google/oss-fuzz | 5783 | 1157| 
-| 20210112T02:06:49Z | Scalable fuzzing infrastructure. | https://github.com/google/clusterfuzz | 4414 | 408| 
-| 20210112T01:43:42Z | Generator of random circuits | https://github.com/drom/circt-fuzzer | 1 | 0| 
-| 20210112T01:11:04Z | Fuzz 403/401ing endpoints for bypasses | https://github.com/intrudir/403fuzzer | 15 | 6| 
-| 20210112T00:30:52Z | Additional boolean values: KindaTrue, KindaFalse, VeryTrue, and VeryFalse. (This is a joke project.) | https://github.com/asweigart/PyFuzzyBool | 0 | 0| 
-| 20210112T00:20:55Z | Simple FTP fuzzer to demonstrate boofuzz usage. | https://github.com/jtpereyda/boofuzz-ftp | 14 | 6| 
-| 20210112T00:01:37Z | A fork and successor of the Sulley Fuzzing Framework | https://github.com/jtpereyda/boofuzz | 1133 | 231| 
+| 20210112T12:57:02Z | Utility tool for using systemctl interactively | https://github.com/NullSense/fuzzy-sys | 27 | 0| 
+| 20210112T12:33:38Z | Null | https://github.com/leukocyt-byte/fuzzy-spoon | 0 | 0| 
+| 20210112T11:46:23Z | Fuzzing Parsers with Tokens | https://github.com/uds-se/lFuzzer | 28 | 4| 
+| 20210112T11:20:07Z | Python implementation of patterns and offsets for fuzzing | https://github.com/blitztide/python-patterns | 0 | 0| 
+| 20210112T11:18:52Z | Null | https://github.com/s9varesc/url-fuzzing-docker | 0 | 0| 
+| 20210112T11:00:33Z | Null | https://github.com/YYC0626/FuzzX-CLI | 0 | 0| 
+| 20210112T10:32:47Z | Collection of quality safety articles. Awesome articles.   | https://github.com/tom0li/collection-document | 1329 | 427| 
+| 20210112T10:27:36Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2244 | 113| 
+| 20210112T10:21:53Z | FormatFuzzer is a framework for high-efficiency, high-quality generation and parsing of binary inputs. | https://github.com/uds-se/FormatFuzzer | 115 | 12| 
+| 20210112T10:15:56Z | document for FuzzX | https://github.com/YYC0626/FuzzX_docs | 0 | 0| 
 
 
 
