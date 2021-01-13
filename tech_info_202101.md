@@ -50,7 +50,7 @@
 | 20210112T18:55:00Z | cve-2020-16012 | PoC for CVE-2020-16012, a timing side channel in drawImage in Firefox & Chrome | https://github.com/aleksejspopovs/cve-2020-16012 | 未查询到CVE信息| 
 | 20210112T18:34:57Z | 未知编号 | 2020l4web-campaign-DanCvejn created by GitHub Classroom | https://github.com/pslib-cz/2020l4web-campaign-DanCvejn | 未查询到CVE信息| 
 | 20210112T16:28:08Z | CVE-2020-36179 | CVE-2020-36179~82  Jackson-databind SSRF&RCE | https://github.com/Al1ex/CVE-2020-36179 | FasterXML jackson-databind 2.x before 2.9.10.8 mishandles the interaction between serialization gadgets and typing, related to oadd.org.apache.commons.dbcp.cpdsadapter.DriverAdapterCPDS.| 
-| 20210112T14:02:07Z | CVE-2021-1056 | PoC for CVE-2021-1056 | https://github.com/pokerfaceSad/CVE-2021-1056 | NVIDIA GPU Display Driver for Linux, all versions, contains a vulnerability in the kernel mode layer (nvidia.ko) in which it does not completely honor operating system file system permissions to provide GPU device-level isolation, which may lead to denial of service or information disclosure.| 
+| 20210112T14:02:07Z | CVE-2021-1056 | PoC for CVE-2021-1056 | https://github.com/pokerfaceSad/CVE-2021-1056 | | 
 | 20210112T12:37:41Z | CVE-2020-8165 | Null | https://github.com/macosta-42/CVE-2020-8165 | A deserialization of untrusted data vulnernerability exists in rails < 5.2.4.3, rails < 6.0.3.1 that can allow an attacker to unmarshal user-provided objects in MemCacheStore and RedisCacheStore potentially resulting in an RCE.| 
 | 20210112T11:01:10Z | CVE-2020-36188 | CVE-2020-36188 &&Jackson-databind RCE | https://github.com/Al1ex/CVE-2020-36188 | FasterXML jackson-databind 2.x before 2.9.10.8 mishandles the interaction between serialization gadgets and typing, related to com.newrelic.agent.deps.ch.qos.logback.core.db.JNDIConnectionSource.| 
 | 20210112T07:49:41Z | CVE-2020-17518 | 利用Apache Flink CVE-2020-17518 getshell | https://github.com/rakjong/Flink-CVE-2020-17518-getshell | Apache Flink 1.5.1 introduced a REST handler that allows you to write an uploaded file to an arbitrary location on the local file system, through a maliciously modified HTTP HEADER. The files can be written to any location accessible by Flink 1.5.1. All users should upgrade to Flink 1.11.3 or 1.12.0 if their Flink instance(s) are exposed. The issue was fixed in commit a5264a6f41524afe8ceadf1d8ddc8c80f323ebc4 from apache/flink:master.| 
@@ -102,6 +102,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210113T02:32:30Z | Tool to find potential backdoor/security holes in your endpoint | https://github.com/subasgit/backdoorfinder | 1 | 0| 
 | 20210113T02:17:32Z | A sethc backdoor based by golang | https://github.com/TenguG/ShiftGoor | 0 | 0| 
 | 20210112T18:54:38Z | TCP server + Web app for managing active backdoors | https://github.com/hacefresko/Mothership | 0 | 0| 
 | 20210112T18:53:38Z | Full-featured C2 framework which silently persists on webserver with a single-line PHP backdoor | https://github.com/nil0x42/phpsploit | 1134 | 326| 
@@ -111,7 +112,6 @@
 | 20210112T11:26:04Z | a small version of the shell backdoor to trick the firewall | https://github.com/security007/security007-minishell-backdoor | 0 | 0| 
 | 20210112T10:01:29Z | Worlds simplest PHP backdoor | https://github.com/F-Masood/worlds-simplest-php-backdoor | 0 | 0| 
 | 20210112T07:02:45Z | TrojanZoo provides a universal pytorch platform to conduct security researches (especially backdoor attacks/defenses) of image classification in deep learning. | https://github.com/ain-soph/trojanzoo | 28 | 5| 
-| 20210112T05:22:41Z | Research work on biometric security and template updation .  | https://github.com/Adk2001tech/Biometric-Backdoors | 1 | 0| 
 
 
 # fuzz on Github 推荐
