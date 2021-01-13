@@ -6,6 +6,14 @@
 # 玄武实验室 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20210113 | Bypassing Windows protection mechanisms & Playing with OffensiveNim | https://s3cur3th1ssh1t.github.io/Playing-with-OffensiveNim/| 
+| 20210113 | PHP 框架 Laravel v8.4.2 版本调试模式 RCE 漏洞分析 | https://www.ambionics.io/blog/laravel-debug-rce| 
+| 20210113 | Practical Web Cache Poisoning | https://portswigger.net/research/practical-web-cache-poisoning| 
+| 20210113 | Firefox、Chrome 浏览器跨域窃取图片信息漏洞(CVE-2020-16012)分析 | https://blog.mozilla.org/attack-and-defense/2021/01/11/leaking-silhouettes-of-cross-origin-images/| 
+| 20210113 | Breaking The Browser – A tale of IPC, credentials and backdoors | https://www.mdsec.co.uk/2021/01/breaking-the-browser-a-tale-of-ipc-credentials-and-backdoors/| 
+| 20210113 | 微软发布 1 月份漏洞补丁公告，本次修复 10 个高危漏洞 | http://threatpost.com/critical-microsoft-defender-bug-exploited/162992/| 
+| 20210113 | Making Clouds Rain :: Remote Code Execution in Microsoft Office 365 | https://srcincite.io/blog/2021/01/12/making-clouds-rain-rce-in-office-365.html| 
+| 20210113 | Project Zero 新 Blog，介绍他们 2020 年春发现的野外攻击代码，经分析从中发现多个 0Day，覆盖 Windows、Android、Chrome 浏览器 | https://googleprojectzero.blogspot.com/2021/01/introducing-in-wild-series.html| 
 | 20210112 | CVE-2020-9971 Abusing XPC Service mechanism to elevate privilege in macOS/iOS，滥用 XPC Service 机制漏洞实现特权提升，影响 macOS/iOS，来自玄武实验室 Zhipeng Huo 的分析 | https://xlab.tencent.com/en/2021/01/11/cve-2020-9971-abusing-xpc-service-to-elevate-privilege/| 
 | 20210112 | How I stole the data in millions of people’s Google accounts | https://blog.usejournal.com/how-i-stole-the-data-in-millions-of-peoples-google-accounts-aa1b72dcc075?gi=6b9cfb2a39ff| 
 | 20210112 | Exploiting OAuth: Redirect_URI | https://gupta-bless.medium.com/exploiting-oauth-redirect-uri-3e27de6d7a70| 
@@ -18,50 +26,42 @@
 | 20210112 | SolarWinds 供应链攻击事件被怀疑与俄罗斯 Turla APT 组织有关 | https://sec.today/pulses/e44ffa7c-2aeb-4dc0-a3a8-b41720ecfb4c/| 
 | 20210112 | SolarWinds 供应链攻击事件被怀疑与俄罗斯 Turla APT 组织有关 | https://threatpost.com/solarwinds-hack-linked-turla-apt/162918/| 
 | 20210112 | ES6 标准入门教程资源。 | https://github.com/ruanyf/es6tutorial| 
-| 20210111 | An Outlook parasite for stealth persistence | https://vanmieghem.io/stealth-outlook-persistence/| 
-| 20210111 | Parent Process vs. Creator Process - Windows 进程父子关系分析 | https://scorpiosoftware.net/2021/01/10/parent-process-vs-creator-process/| 
-| 20210111 | Display Miniport Hooking | https://aviadshamriz.medium.com/part-2-display-miniport-hooking-e1a54661d2e1| 
-| 20210111 | Chi Zhou 在 RealWordCTF 的议题“See No Eval: Runtime Dynamic Code Execution in Objective-C” | https://speakerdeck.com/chichou/see-no-eval-runtime-dynamic-code-execution-in-objective-c| 
-| 20210111 | OSR’s Code-Level ExAllocatePoolZero Mitigation | https://www.osr.com/blog/2021/01/07/mitigations-exallocatepoolzero-security-vulnerability/| 
-| 20210111 | VB2020 localhost 会议的视频公开了 | https://www.youtube.com/playlist?list=PLffioUnqXWkdzWcZXH-bzPVgcs2R4r7iS| 
-| 20210111 | 从分析 C&C 流量模型的角度检测恶意软件 | https://marcoramilli.com/2021/01/09/c2-traffic-patterns-personal-notes/| 
-| 20210111 | Google Chrome V8 CVE-2020-15999 字体加载堆溢出漏洞的利用过程 | https://starlabs.sg/blog/2021/01/chrome-1-day-hunting-uncovering-and-exploiting-cve-2020-15999/| 
 
 
 # 安全维基 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20210113 | 重组 SUNBURST DNS 请求还原受害者域 | https://mp.weixin.qq.com/s/fZYmiTSuSErO1zCw2Czrww| 
+| 20210113 | 子域名枚举的艺术——主动子域枚举 | https://www.sec-in.com/article/793| 
+| 20210113 | 又一个流量代理扫描平台 | https://misakikata.github.io/2021/01/%E5%8F%88%E5%8F%92%E4%B8%80%E4%B8%AA%E4%BB%A3%E7%90%86%E6%89%AB%E6%8F%8F%E5%B9%B3%E5%8F%B0/| 
+| 20210113 | Vulnstack 3 域环境靶机实战 | https://www.hetianlab.com/specialized/20210108150244| 
+| 20210113 | 利用官网getshell | https://mp.weixin.qq.com/s?__biz=MjM5MTYxNjQxOA==&mid=2652867929&idx=1&sn=592912e06f9af6840c728990f1f88950&chksm=bd59f1948a2e78825e6524d4a599d6e0c3516cf77d7d526c2d036e576f5bebbc2bdee6ebb7c9&scene=178&cur_album_id=1351008152896192512#rd| 
 | 20210112 | 利用Shodan确认思科ASA和FTD设备存在CVE-2020-3452漏洞 | https://mp.weixin.qq.com/s/AutCZA5n83pmo7VsfUIA0Q| 
 | 20210111 | 组策略限制3389登录的绕过方式 | https://mp.weixin.qq.com/s/4eDNmiiXp7afLKdYzHeb3Q| 
 | 20210111 | SecWiki周刊（第358期) | https://www.sec-wiki.com/weekly/358| 
 | 20210111 | 拯救圣诞世界 | https://www.sec-in.com/article/766| 
 | 20210111 | G.O.S.S.I.P 安全学术会议排行榜（2020版） | https://feysh.com/ranking/2020/| 
-| 20210110 | 基于异构图卷积网络的网络威胁情报建模 | https://mp.weixin.qq.com/s/TszbHM__hpYvdHsCoMmkUQ| 
-| 20210110 | 使用自己的代码查找漏洞：检测功能相似但不一致的代码 | https://mp.weixin.qq.com/s/ELbtEhd1wedkEqhboPpLuQ| 
-| 20210109 | 美国国家网络靶场系统架构与设计原理剖析①总论 | https://mp.weixin.qq.com/s/8yz12RyCyNXGhcAVFZX60g| 
-| 20210108 | 浅析开源蜜罐识别与全网测绘 | https://mp.weixin.qq.com/s/hq-z2HBGz3nehnCVg_H-RQ| 
-| 20210108 | 对 SolarWinds 事件更深的思考：如何防御供应链攻击 | https://mp.weixin.qq.com/s/GdER32Z7K86boHVc-Kic3g| 
 
 
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20210113T02:40:45Z | CVE-2020-36184 | CVE-2020-36184 && Jackson-databind  RCE | https://github.com/Al1ex/CVE-2020-36184 | FasterXML jackson-databind 2.x before 2.9.10.8 mishandles the interaction between serialization gadgets and typing, related to org.apache.tomcat.dbcp.dbcp2.datasources.PerUserPoolDataSource.| 
+| 20210113T09:29:09Z | CVE-2020-36184 | CVE-2020-36184 && Jackson-databind  RCE | https://github.com/Al1ex/CVE-2020-36184 | FasterXML jackson-databind 2.x before 2.9.10.8 mishandles the interaction between serialization gadgets and typing, related to org.apache.tomcat.dbcp.dbcp2.datasources.PerUserPoolDataSource.| 
+| 20210113T09:19:44Z | CVE-2020-7048 | Null | https://github.com/ElmouradiAmine/CVE-2020-7048 | The WordPress plugin, WP Database Reset through 3.1, contains a flaw that allowed any unauthenticated user to reset any table in the database to the initial WordPress set-up state (deleting all site content stored in that table), as demonstrated by a wp-admin/admin-post.php?db-reset-tables[]=comments URI.| 
+| 20210113T07:54:41Z | CVE-2021-3131 | CVE-2021-3131 | https://github.com/jet-pentest/CVE-2021-3131 | 未查询到CVE信息| 
+| 20210113T07:53:08Z | CVE-2020-36179 | CVE-2020-36179~82  Jackson-databind SSRF&RCE | https://github.com/Al1ex/CVE-2020-36179 | FasterXML jackson-databind 2.x before 2.9.10.8 mishandles the interaction between serialization gadgets and typing, related to oadd.org.apache.commons.dbcp.cpdsadapter.DriverAdapterCPDS.| 
+| 20210113T07:29:03Z | CVE-2021-3019 | CVE-2021-3019 lanproxy目录遍历任意文件读取漏洞探测POC | https://github.com/FanqXu/CVE-2021-3019 | ffay lanproxy 0.1 allows Directory Traversal to read /../conf/config.properties to obtain credentials for a connection to the intranet.| 
+| 20210113T06:42:44Z | CVE-2020-3452 | CISCO CVE-2020-3452 Scanner & Exploiter | https://github.com/darklotuskdb/CISCO-CVE-2020-3452-Scanner-Exploiter | A vulnerability in the web services interface of Cisco Adaptive Security Appliance (ASA) Software and Cisco Firepower Threat Defense (FTD) Software could allow an unauthenticated, remote attacker to conduct directory traversal attacks and read sensitive files on a targeted system. The vulnerability is due to a lack of proper input validation of URLs in HTTP requests processed by an affected device. An attacker could exploit this vulnerability by sending a crafted HTTP request containing directory traversal character sequences to an affected device. A successful exploit could allow the attacker to view arbitrary files within the web services file system on the targeted device. The web services file system is enabled when the affected device is configured with either WebVPN or AnyConnect features. This vulnerability cannot be used to obtain access to ASA or FTD system files or underlying operating system (OS) files.| 
 | 20210112T18:55:00Z | cve-2020-16012 | PoC for CVE-2020-16012, a timing side channel in drawImage in Firefox & Chrome | https://github.com/aleksejspopovs/cve-2020-16012 | 未查询到CVE信息| 
 | 20210112T18:34:57Z | 未知编号 | 2020l4web-campaign-DanCvejn created by GitHub Classroom | https://github.com/pslib-cz/2020l4web-campaign-DanCvejn | 未查询到CVE信息| 
-| 20210112T16:28:08Z | CVE-2020-36179 | CVE-2020-36179~82  Jackson-databind SSRF&RCE | https://github.com/Al1ex/CVE-2020-36179 | FasterXML jackson-databind 2.x before 2.9.10.8 mishandles the interaction between serialization gadgets and typing, related to oadd.org.apache.commons.dbcp.cpdsadapter.DriverAdapterCPDS.| 
 | 20210112T14:02:07Z | CVE-2021-1056 | PoC for CVE-2021-1056 | https://github.com/pokerfaceSad/CVE-2021-1056 | NVIDIA GPU Display Driver for Linux, all versions, contains a vulnerability in the kernel mode layer (nvidia.ko) in which it does not completely honor operating system file system permissions to provide GPU device-level isolation, which may lead to denial of service or information disclosure.| 
 | 20210112T12:37:41Z | CVE-2020-8165 | Null | https://github.com/macosta-42/CVE-2020-8165 | A deserialization of untrusted data vulnernerability exists in rails < 5.2.4.3, rails < 6.0.3.1 that can allow an attacker to unmarshal user-provided objects in MemCacheStore and RedisCacheStore potentially resulting in an RCE.| 
-| 20210112T11:01:10Z | CVE-2020-36188 | CVE-2020-36188 &&Jackson-databind RCE | https://github.com/Al1ex/CVE-2020-36188 | FasterXML jackson-databind 2.x before 2.9.10.8 mishandles the interaction between serialization gadgets and typing, related to com.newrelic.agent.deps.ch.qos.logback.core.db.JNDIConnectionSource.| 
-| 20210112T07:49:41Z | CVE-2020-17518 | 利用Apache Flink CVE-2020-17518 getshell | https://github.com/rakjong/Flink-CVE-2020-17518-getshell | Apache Flink 1.5.1 introduced a REST handler that allows you to write an uploaded file to an arbitrary location on the local file system, through a maliciously modified HTTP HEADER. The files can be written to any location accessible by Flink 1.5.1. All users should upgrade to Flink 1.11.3 or 1.12.0 if their Flink instance(s) are exposed. The issue was fixed in commit a5264a6f41524afe8ceadf1d8ddc8c80f323ebc4 from apache/flink:master.| 
-| 20210112T03:18:05Z | CVE-2021-3019 | lanproxy 目录遍历漏洞批量检测 (CVE-2021-3019) | https://github.com/B1anda0/CVE-2021-3019 | ffay lanproxy 0.1 allows Directory Traversal to read /../conf/config.properties to obtain credentials for a connection to the intranet.| 
-| 20210111T19:37:48Z | CVE-2020-7048 | Null | https://github.com/ElmouradiAmine/CVE-2020-7048 | The WordPress plugin, WP Database Reset through 3.1, contains a flaw that allowed any unauthenticated user to reset any table in the database to the initial WordPress set-up state (deleting all site content stored in that table), as demonstrated by a wp-admin/admin-post.php?db-reset-tables[]=comments URI.| 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210112T14:22:20Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1598 | 478| 
+| 20210113T10:47:29Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1600 | 478| 
 | 20210112T12:19:34Z | Null | https://github.com/viktorfrom/klee_tutorial | 0 | 0| 
 | 20210112T01:56:45Z | KleeneExpressions | https://github.com/ostomachion/Kleene | 1 | 0| 
 | 20210111T09:21:40Z | Null | https://github.com/markhakansson/klee-tutorial | 0 | 0| 
@@ -76,10 +76,10 @@
 # s2e on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210113T05:42:08Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 90 | 22| 
 | 20210111T14:49:47Z | Convert geojson to s2 region cells in different levels | https://github.com/ponlawat-w/uji_mt-s2encoding | 0 | 0| 
 | 20210108T20:19:44Z | Robo Hazel is a robot prototype made using Arduino and WIZnet S2E module to advance industry 4.0 and solve the problem of message delivery. | https://github.com/hamzakhalidhk/RoboHazel | 0 | 0| 
 | 20210108T15:14:31Z | Convert geojson to s2 region cells in different levels | https://github.com/ponlawat-w/uji_mt-geojson_s2encoding | 0 | 0| 
-| 20210108T07:54:56Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 89 | 22| 
 | 20210107T16:32:22Z | Null | https://github.com/yuvalkirstain/s2e-coref | 0 | 0| 
 | 20210106T02:55:41Z | GUI Configuration tool for WIZnet serial to ethernet devices. | https://github.com/Wiznet/WIZnet-S2E-Tool-GUI | 11 | 7| 
 
@@ -87,16 +87,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210113T02:41:50Z | Vulnerabilities of Goby supported with exploitation. | https://github.com/gobysec/GobyVuls | 125 | 21| 
-| 20210113T02:38:52Z | A simple exploit for VulnServer written in Python. | https://github.com/JonathanREmery/VulnServerExploit | 0 | 0| 
-| 20210113T02:25:33Z | random stuff for exploit dev practice | https://github.com/C-Brown/exploit_dev_practice | 0 | 0| 
-| 20210113T01:37:42Z | exploit-database-papers | https://github.com/offensive-security/exploitdb-papers | 277 | 39| 
-| 20210113T01:12:04Z | The ZetaSploit Framework is a modular penetration testing platform that enables you to write, test, and execute exploit code. The ZetaSploit Framework contains a suite of tools that you can use to test security vulnerabilities, enumerate networks and execute attacks. | https://github.com/EntySec/ZetaSploit | 11 | 4| 
-| 20210113T01:02:10Z | Null | https://github.com/247arjun/ExploitDevelopment | 0 | 0| 
-| 20210113T00:49:42Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 7 | 4| 
-| 20210112T23:17:39Z | A lazy clone of Al%s exploit for self host on a pi or what ever small server | https://github.com/codemasterv/AlAzif_Lazy_Clone | 0 | 0| 
-| 20210112T23:12:34Z | ps4 702 exploit host | https://github.com/codemasterv/codemasterv.github.io | 0 | 0| 
-| 20210112T22:46:19Z | Null | https://github.com/NonSwag/TNLAntiExploit | 0 | 0| 
+| 20210113T13:00:34Z | The Hybrid Fake Face (HFF) dataset is built by exploiting the PGGAN, StyleGAN, Glow, and StarGAN.  | https://github.com/EricGzq/Hybrid-Fake-Face-Dataset | 6 | 0| 
+| 20210113T12:58:52Z | CAUTION: Malicious files used to infect web sites. | https://github.com/Am0rphous/Malware-Collection | 17 | 6| 
+| 20210113T12:57:42Z | Most Popular Free Exploits in Thailand | https://github.com/YT-OverKing/Dev-Hack | 0 | 0| 
+| 20210113T12:53:22Z | Model of resource exploitation of Iron Age communities in southwest Anatolia. To be presented at ReSoc conference | https://github.com/driesdaems10/Resoc | 0 | 1| 
+| 20210113T12:52:24Z | Exploit for CVE-2021-3129 | https://github.com/ambionics/laravel-exploits | 0 | 0| 
+| 20210113T12:44:21Z | Additional material for the paper %MoralStrength: Exploiting a Moral Lexicon and Embedding Similarity for Moral Foundations Prediction% | https://github.com/oaraque/moral-foundations | 15 | 5| 
+| 20210113T12:28:00Z | Null | https://github.com/1N53C/ExploitDBSearch | 0 | 0| 
+| 20210113T12:26:41Z | Development of code to exploit LSST and VISTA imaging | https://github.com/lsst-uk/lsst-ir-fusion | 0 | 0| 
+| 20210113T12:25:00Z | A simple dns server to exploit server side request forgery using DNS rebinding technique | https://github.com/abhilash-pangutty/dns-rebinder | 0 | 0| 
+| 20210113T12:22:38Z | Null | https://github.com/CSDLLab/-Exploiting-Local-Feature-Patterns-for-UDA | 0 | 0| 
 
 
 # backdoor on Github 推荐
