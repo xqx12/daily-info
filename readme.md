@@ -52,9 +52,9 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210113T13:31:58Z | Commodity Injection Signatures, Malicious Inputs, XSS, HTTP Header Injection, XXE, RCE, Javascript, XSLT | https://github.com/xsscx/Commodity-Injection-Signatures | 249 | 101| 
 | 20210113T13:29:01Z | The Hybrid Fake Face (HFF) dataset is built by exploiting the PGGAN, StyleGAN, Glow, and StarGAN.  | https://github.com/EricGzq/Hybrid-Fake-Face-Dataset | 6 | 0| 
 | 20210113T13:25:12Z | Exploit for CVE-2021-3129 | https://github.com/ambionics/laravel-exploits | 0 | 0| 
-| 20210113T13:23:46Z | Commodity Injection Signatures, Malicious Inputs, XSS, HTTP Header Injection, XXE, RCE, Javascript, XSLT | https://github.com/xsscx/Commodity-Injection-Signatures | 249 | 101| 
 | 20210113T13:22:34Z | Sifter is a OSINT, recon & vulnerability scanner. It incorporates a plethara of tools within different module sets that tries to cover every attack vector. Allowing you to quickly perform recon tasks and organize the results in one place. From OSINT to Recon, Exploitation, Post-Exploitation, OpSec, Threat Analysis, XSS, SQLinjection, Network Scanning, WebApp Analysis or DNS enumeration.. Sifter should be able to cover it all. | https://github.com/s1l3nt78/sifter | 361 | 104| 
 | 20210113T13:16:34Z | A simple dns server to exploit server side request forgery using DNS rebinding technique | https://github.com/abhilash-pangutty/dns-rebinder | 0 | 0| 
 | 20210113T13:16:19Z | A collection of more than 140+ tools, scripts, cheatsheets and other loots that I have developed over years for Red Teaming/Pentesting/IT Security audits purposes. Most of them came handy on at least one of my real-world engagements. | https://github.com/mgeeky/Penetration-Testing-Tools | 551 | 146| 

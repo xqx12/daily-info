@@ -53,9 +53,9 @@
 | 20210113T07:29:03Z | CVE-2021-3019 | CVE-2021-3019 lanproxy目录遍历任意文件读取漏洞探测POC | https://github.com/FanqXu/CVE-2021-3019 | ffay lanproxy 0.1 allows Directory Traversal to read /../conf/config.properties to obtain credentials for a connection to the intranet.| 
 | 20210113T06:42:44Z | CVE-2020-3452 | CISCO CVE-2020-3452 Scanner & Exploiter | https://github.com/darklotuskdb/CISCO-CVE-2020-3452-Scanner-Exploiter | A vulnerability in the web services interface of Cisco Adaptive Security Appliance (ASA) Software and Cisco Firepower Threat Defense (FTD) Software could allow an unauthenticated, remote attacker to conduct directory traversal attacks and read sensitive files on a targeted system. The vulnerability is due to a lack of proper input validation of URLs in HTTP requests processed by an affected device. An attacker could exploit this vulnerability by sending a crafted HTTP request containing directory traversal character sequences to an affected device. A successful exploit could allow the attacker to view arbitrary files within the web services file system on the targeted device. The web services file system is enabled when the affected device is configured with either WebVPN or AnyConnect features. This vulnerability cannot be used to obtain access to ASA or FTD system files or underlying operating system (OS) files.| 
 | 20210112T18:55:00Z | cve-2020-16012 | PoC for CVE-2020-16012, a timing side channel in drawImage in Firefox & Chrome | https://github.com/aleksejspopovs/cve-2020-16012 | 未查询到CVE信息| 
-| 20210112T18:34:57Z | 未知编号 | 2020l4web-campaign-DanCvejn created by GitHub Classroom | https://github.com/pslib-cz/2020l4web-campaign-DanCvejn | | 
+| 20210112T18:34:57Z | 未知编号 | 2020l4web-campaign-DanCvejn created by GitHub Classroom | https://github.com/pslib-cz/2020l4web-campaign-DanCvejn | 未查询到CVE信息| 
 | 20210112T14:02:07Z | CVE-2021-1056 | PoC for CVE-2021-1056 | https://github.com/pokerfaceSad/CVE-2021-1056 | NVIDIA GPU Display Driver for Linux, all versions, contains a vulnerability in the kernel mode layer (nvidia.ko) in which it does not completely honor operating system file system permissions to provide GPU device-level isolation, which may lead to denial of service or information disclosure.| 
-| 20210112T12:37:41Z | CVE-2020-8165 | Null | https://github.com/macosta-42/CVE-2020-8165 | | 
+| 20210112T12:37:41Z | CVE-2020-8165 | Null | https://github.com/macosta-42/CVE-2020-8165 | A deserialization of untrusted data vulnernerability exists in rails < 5.2.4.3, rails < 6.0.3.1 that can allow an attacker to unmarshal user-provided objects in MemCacheStore and RedisCacheStore potentially resulting in an RCE.| 
 
 
 # klee on Github 推荐
@@ -87,9 +87,9 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210113T13:31:58Z | Commodity Injection Signatures, Malicious Inputs, XSS, HTTP Header Injection, XXE, RCE, Javascript, XSLT | https://github.com/xsscx/Commodity-Injection-Signatures | 249 | 101| 
 | 20210113T13:29:01Z | The Hybrid Fake Face (HFF) dataset is built by exploiting the PGGAN, StyleGAN, Glow, and StarGAN.  | https://github.com/EricGzq/Hybrid-Fake-Face-Dataset | 6 | 0| 
 | 20210113T13:25:12Z | Exploit for CVE-2021-3129 | https://github.com/ambionics/laravel-exploits | 0 | 0| 
-| 20210113T13:23:46Z | Commodity Injection Signatures, Malicious Inputs, XSS, HTTP Header Injection, XXE, RCE, Javascript, XSLT | https://github.com/xsscx/Commodity-Injection-Signatures | 249 | 101| 
 | 20210113T13:22:34Z | Sifter is a OSINT, recon & vulnerability scanner. It incorporates a plethara of tools within different module sets that tries to cover every attack vector. Allowing you to quickly perform recon tasks and organize the results in one place. From OSINT to Recon, Exploitation, Post-Exploitation, OpSec, Threat Analysis, XSS, SQLinjection, Network Scanning, WebApp Analysis or DNS enumeration.. Sifter should be able to cover it all. | https://github.com/s1l3nt78/sifter | 361 | 104| 
 | 20210113T13:16:34Z | A simple dns server to exploit server side request forgery using DNS rebinding technique | https://github.com/abhilash-pangutty/dns-rebinder | 0 | 0| 
 | 20210113T13:16:19Z | A collection of more than 140+ tools, scripts, cheatsheets and other loots that I have developed over years for Red Teaming/Pentesting/IT Security audits purposes. Most of them came handy on at least one of my real-world engagements. | https://github.com/mgeeky/Penetration-Testing-Tools | 551 | 146| 
