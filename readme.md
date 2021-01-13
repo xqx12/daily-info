@@ -86,16 +86,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210112T13:58:48Z | CRUD on memes | https://github.com/RuslanPr0g/fuzzy-meme | 0 | 0| 
-| 20210112T13:56:04Z | OSS-Fuzz - continuous fuzzing of open source software. | https://github.com/google/oss-fuzz | 5785 | 1157| 
-| 20210112T13:51:27Z | Fuzz 403/401ing endpoints for bypasses | https://github.com/intrudir/403fuzzer | 15 | 6| 
-| 20210112T13:32:44Z | Null | https://github.com/0xFuzz/0xFuzz.github.io | 0 | 0| 
-| 20210112T13:21:27Z | Public BanditFuzz Repo | https://github.com/j29scott/BanditFuzz_Public | 5 | 4| 
-| 20210112T13:20:34Z | Utility tool for using systemctl interactively | https://github.com/NullSense/fuzzy-sys | 28 | 0| 
-| 20210112T12:33:38Z | Null | https://github.com/leukocyt-byte/fuzzy-spoon | 0 | 0| 
-| 20210112T11:46:23Z | Fuzzing Parsers with Tokens | https://github.com/uds-se/lFuzzer | 28 | 4| 
-| 20210112T11:20:07Z | Python implementation of patterns and offsets for fuzzing | https://github.com/blitztide/python-patterns | 0 | 0| 
-| 20210112T11:18:52Z | Null | https://github.com/s9varesc/url-fuzzing-docker | 0 | 0| 
+| 20210112T23:56:13Z | Utility tool for using systemctl interactively | https://github.com/NullSense/fuzzy-sys | 35 | 0| 
+| 20210112T23:42:57Z | Null | https://github.com/aminelch/fuzzy-enigma | 0 | 0| 
+| 20210112T23:37:09Z | A cross-platform browser fuzzing framework | https://github.com/MozillaSecurity/grizzly | 222 | 30| 
+| 20210112T22:50:27Z | OSS-Fuzz - continuous fuzzing of open source software. | https://github.com/google/oss-fuzz | 5786 | 1157| 
+| 20210112T22:06:44Z | Generator of random circuits | https://github.com/drom/circt-fuzzer | 1 | 0| 
+| 20210112T21:53:33Z | Null | https://github.com/corootine/fuzzy | 0 | 0| 
+| 20210112T21:31:14Z | Personal website of Laurence Hughes | https://github.com/fuzzylogicxx/fuzzylogic | 4 | 1| 
+| 20210112T21:10:32Z | script for helping fuzzing targets | https://github.com/fekir/afl-extras | 4 | 1| 
+| 20210112T21:01:51Z | Code for fuzzy Dark matter research, mainly visualization but some manipulation too | https://github.com/LaurelinTheGold/fuzzyDM | 0 | 0| 
+| 20210112T20:56:31Z | The code behind getfursu.it | https://github.com/veelkoov/fuzzrake | 6 | 0| 
 
 
 
