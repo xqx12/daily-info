@@ -117,6 +117,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210113T01:43:53Z | Null | https://github.com/lacygoill/vim-fuzzy | 0 | 0| 
 | 20210113T00:56:49Z | Null | https://github.com/togetherwedomore/fuzzy-lamp | 0 | 0| 
 | 20210113T00:40:03Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2245 | 113| 
 | 20210113T00:07:31Z | FuzzBench - Fuzzer benchmarking as a service. | https://github.com/google/fuzzbench | 580 | 93| 
@@ -126,7 +127,6 @@
 | 20210112T22:50:27Z | OSS-Fuzz - continuous fuzzing of open source software. | https://github.com/google/oss-fuzz | 5786 | 1157| 
 | 20210112T22:06:44Z | Generator of random circuits | https://github.com/drom/circt-fuzzer | 1 | 0| 
 | 20210112T21:53:33Z | Null | https://github.com/corootine/fuzzy | 0 | 0| 
-| 20210112T21:31:14Z | Personal website of Laurence Hughes | https://github.com/fuzzylogicxx/fuzzylogic | 4 | 1| 
 
 
 
