@@ -102,7 +102,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210113T02:01:11Z | A sethc backdoor based by golang | https://github.com/TenguG/ShiftGoor | 0 | 0| 
+| 20210113T02:06:56Z | A sethc backdoor based by golang | https://github.com/TenguG/ShiftGoor | 0 | 0| 
 | 20210112T18:54:38Z | TCP server + Web app for managing active backdoors | https://github.com/hacefresko/Mothership | 0 | 0| 
 | 20210112T18:53:38Z | Full-featured C2 framework which silently persists on webserver with a single-line PHP backdoor | https://github.com/nil0x42/phpsploit | 1134 | 326| 
 | 20210112T17:54:50Z | A force op or backdoor minecraft plugin which can be used to get OP on a minecraft server | https://github.com/MOMIN5/force-op-backdoor-plugin | 1 | 0| 
