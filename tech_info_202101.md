@@ -102,6 +102,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210113T01:53:52Z | A sethc backdoor based by golang | https://github.com/TenguG/ShiftGoor | 0 | 0| 
 | 20210112T18:54:38Z | TCP server + Web app for managing active backdoors | https://github.com/hacefresko/Mothership | 0 | 0| 
 | 20210112T18:53:38Z | Full-featured C2 framework which silently persists on webserver with a single-line PHP backdoor | https://github.com/nil0x42/phpsploit | 1134 | 326| 
 | 20210112T17:54:50Z | A force op or backdoor minecraft plugin which can be used to get OP on a minecraft server | https://github.com/MOMIN5/force-op-backdoor-plugin | 1 | 0| 
@@ -111,7 +112,6 @@
 | 20210112T10:01:29Z | Worlds simplest PHP backdoor | https://github.com/F-Masood/worlds-simplest-php-backdoor | 0 | 0| 
 | 20210112T07:02:45Z | TrojanZoo provides a universal pytorch platform to conduct security researches (especially backdoor attacks/defenses) of image classification in deep learning. | https://github.com/ain-soph/trojanzoo | 28 | 5| 
 | 20210112T05:22:41Z | Research work on biometric security and template updation .  | https://github.com/Adk2001tech/Biometric-Backdoors | 1 | 0| 
-| 20210112T03:45:04Z | Null | https://github.com/rensx5514/BackdoorAttackNN-Pro | 0 | 0| 
 
 
 # fuzz on Github 推荐
