@@ -85,7 +85,6 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210112T23:56:13Z | Utility tool for using systemctl interactively | https://github.com/NullSense/fuzzy-sys | 35 | 0| 
 | 20210112T23:42:57Z | Null | https://github.com/aminelch/fuzzy-enigma | 0 | 0| 
 | 20210112T23:37:09Z | A cross-platform browser fuzzing framework | https://github.com/MozillaSecurity/grizzly | 222 | 30| 
 | 20210112T22:50:27Z | OSS-Fuzz - continuous fuzzing of open source software. | https://github.com/google/oss-fuzz | 5786 | 1157| 
@@ -95,6 +94,7 @@
 | 20210112T21:10:32Z | script for helping fuzzing targets | https://github.com/fekir/afl-extras | 4 | 1| 
 | 20210112T21:01:51Z | Code for fuzzy Dark matter research, mainly visualization but some manipulation too | https://github.com/LaurelinTheGold/fuzzyDM | 0 | 0| 
 | 20210112T20:56:31Z | The code behind getfursu.it | https://github.com/veelkoov/fuzzrake | 6 | 0| 
+| 20210112T20:53:48Z | Fuzzy matching publications for fatcat (wip). | https://github.com/miku/fuzzycat | 1 | 1| 
 
 
 

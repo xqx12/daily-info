@@ -117,12 +117,12 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210113T02:43:14Z | Utility tool for using systemctl interactively | https://github.com/NullSense/fuzzy-sys | 36 | 0| 
 | 20210113T02:16:24Z | Dictionary collection project such as Pentesing, Fuzzing, Bruteforce and BugBounty. 渗透测试、SRC漏洞挖掘、爆破、Fuzzing等字典收集项目。 | https://github.com/insightglacier/Dictionary-Of-Pentesting | 413 | 100| 
 | 20210113T01:43:53Z | Null | https://github.com/lacygoill/vim-fuzzy | 0 | 0| 
 | 20210113T00:56:49Z | Null | https://github.com/togetherwedomore/fuzzy-lamp | 0 | 0| 
 | 20210113T00:40:03Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2245 | 113| 
 | 20210113T00:07:31Z | FuzzBench - Fuzzer benchmarking as a service. | https://github.com/google/fuzzbench | 580 | 93| 
-| 20210112T23:56:13Z | Utility tool for using systemctl interactively | https://github.com/NullSense/fuzzy-sys | 35 | 0| 
 | 20210112T23:42:57Z | Null | https://github.com/aminelch/fuzzy-enigma | 0 | 0| 
 | 20210112T23:37:09Z | A cross-platform browser fuzzing framework | https://github.com/MozillaSecurity/grizzly | 222 | 30| 
 | 20210112T22:50:27Z | OSS-Fuzz - continuous fuzzing of open source software. | https://github.com/google/oss-fuzz | 5786 | 1157| 
