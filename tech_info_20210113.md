@@ -29,7 +29,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20210113T09:29:09Z | CVE-2020-36184 | CVE-2020-36184 && Jackson-databind  RCE | https://github.com/Al1ex/CVE-2020-36184 | FasterXML jackson-databind 2.x before 2.9.10.8 mishandles the interaction between serialization gadgets and typing, related to org.apache.tomcat.dbcp.dbcp2.datasources.PerUserPoolDataSource.| 
+| 20210113T09:29:09Z | CVE-2020-36184 | CVE-2020-36184 && Jackson-databind  RCE | https://github.com/Al1ex/CVE-2020-36184 | | 
 | 20210113T09:19:44Z | CVE-2020-7048 | Null | https://github.com/ElmouradiAmine/CVE-2020-7048 | The WordPress plugin, WP Database Reset through 3.1, contains a flaw that allowed any unauthenticated user to reset any table in the database to the initial WordPress set-up state (deleting all site content stored in that table), as demonstrated by a wp-admin/admin-post.php?db-reset-tables[]=comments URI.| 
 | 20210113T07:54:41Z | CVE-2021-3131 | CVE-2021-3131 | https://github.com/jet-pentest/CVE-2021-3131 | 未查询到CVE信息| 
 | 20210113T07:53:08Z | CVE-2020-36179 | CVE-2020-36179~82  Jackson-databind SSRF&RCE | https://github.com/Al1ex/CVE-2020-36179 | FasterXML jackson-databind 2.x before 2.9.10.8 mishandles the interaction between serialization gadgets and typing, related to oadd.org.apache.commons.dbcp.cpdsadapter.DriverAdapterCPDS.| 
@@ -52,6 +52,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210113T13:29:01Z | The Hybrid Fake Face (HFF) dataset is built by exploiting the PGGAN, StyleGAN, Glow, and StarGAN.  | https://github.com/EricGzq/Hybrid-Fake-Face-Dataset | 6 | 0| 
 | 20210113T13:25:12Z | Exploit for CVE-2021-3129 | https://github.com/ambionics/laravel-exploits | 0 | 0| 
 | 20210113T13:23:46Z | Commodity Injection Signatures, Malicious Inputs, XSS, HTTP Header Injection, XXE, RCE, Javascript, XSLT | https://github.com/xsscx/Commodity-Injection-Signatures | 249 | 101| 
 | 20210113T13:22:34Z | Sifter is a OSINT, recon & vulnerability scanner. It incorporates a plethara of tools within different module sets that tries to cover every attack vector. Allowing you to quickly perform recon tasks and organize the results in one place. From OSINT to Recon, Exploitation, Post-Exploitation, OpSec, Threat Analysis, XSS, SQLinjection, Network Scanning, WebApp Analysis or DNS enumeration.. Sifter should be able to cover it all. | https://github.com/s1l3nt78/sifter | 361 | 104| 
@@ -59,7 +60,6 @@
 | 20210113T13:16:19Z | A collection of more than 140+ tools, scripts, cheatsheets and other loots that I have developed over years for Red Teaming/Pentesting/IT Security audits purposes. Most of them came handy on at least one of my real-world engagements. | https://github.com/mgeeky/Penetration-Testing-Tools | 551 | 146| 
 | 20210113T13:14:21Z | The ZetaSploit Framework is a modular penetration testing platform that enables you to write, test, and execute exploit code. The ZetaSploit Framework contains a suite of tools that you can use to test security vulnerabilities, enumerate networks and execute attacks. | https://github.com/EntySec/ZetaSploit | 11 | 4| 
 | 20210113T13:07:18Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 8887 | 1410| 
-| 20210113T13:00:34Z | The Hybrid Fake Face (HFF) dataset is built by exploiting the PGGAN, StyleGAN, Glow, and StarGAN.  | https://github.com/EricGzq/Hybrid-Fake-Face-Dataset | 6 | 0| 
 | 20210113T12:58:52Z | CAUTION: Malicious files used to infect web sites. | https://github.com/Am0rphous/Malware-Collection | 17 | 6| 
 | 20210113T12:57:42Z | Most Popular Free Exploits in Thailand | https://github.com/YT-OverKing/Dev-Hack | 0 | 0| 
 
