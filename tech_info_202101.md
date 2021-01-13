@@ -87,6 +87,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210113T02:41:50Z | Vulnerabilities of Goby supported with exploitation. | https://github.com/gobysec/GobyVuls | 125 | 21| 
 | 20210113T02:38:52Z | A simple exploit for VulnServer written in Python. | https://github.com/JonathanREmery/VulnServerExploit | 0 | 0| 
 | 20210113T02:25:33Z | random stuff for exploit dev practice | https://github.com/C-Brown/exploit_dev_practice | 0 | 0| 
 | 20210113T01:37:42Z | exploit-database-papers | https://github.com/offensive-security/exploitdb-papers | 277 | 39| 
@@ -96,7 +97,6 @@
 | 20210112T23:17:39Z | A lazy clone of Al%s exploit for self host on a pi or what ever small server | https://github.com/codemasterv/AlAzif_Lazy_Clone | 0 | 0| 
 | 20210112T23:12:34Z | ps4 702 exploit host | https://github.com/codemasterv/codemasterv.github.io | 0 | 0| 
 | 20210112T22:46:19Z | Null | https://github.com/NonSwag/TNLAntiExploit | 0 | 0| 
-| 20210112T22:43:00Z | Old and new CTFs about Linux kernel exploitation. | https://github.com/MaherAzzouzi/LinuxKernelExploitation | 0 | 0| 
 
 
 # backdoor on Github 推荐
