@@ -54,7 +54,7 @@
 | 20210112T12:37:41Z | CVE-2020-8165 | Null | https://github.com/macosta-42/CVE-2020-8165 | A deserialization of untrusted data vulnernerability exists in rails < 5.2.4.3, rails < 6.0.3.1 that can allow an attacker to unmarshal user-provided objects in MemCacheStore and RedisCacheStore potentially resulting in an RCE.| 
 | 20210112T11:01:10Z | CVE-2020-36188 | CVE-2020-36188 &&Jackson-databind RCE | https://github.com/Al1ex/CVE-2020-36188 | FasterXML jackson-databind 2.x before 2.9.10.8 mishandles the interaction between serialization gadgets and typing, related to com.newrelic.agent.deps.ch.qos.logback.core.db.JNDIConnectionSource.| 
 | 20210112T07:49:41Z | CVE-2020-17518 | 利用Apache Flink CVE-2020-17518 getshell | https://github.com/rakjong/Flink-CVE-2020-17518-getshell | Apache Flink 1.5.1 introduced a REST handler that allows you to write an uploaded file to an arbitrary location on the local file system, through a maliciously modified HTTP HEADER. The files can be written to any location accessible by Flink 1.5.1. All users should upgrade to Flink 1.11.3 or 1.12.0 if their Flink instance(s) are exposed. The issue was fixed in commit a5264a6f41524afe8ceadf1d8ddc8c80f323ebc4 from apache/flink:master.| 
-| 20210112T03:18:05Z | CVE-2021-3019 | lanproxy 目录遍历漏洞批量检测 (CVE-2021-3019) | https://github.com/B1anda0/CVE-2021-3019 | | 
+| 20210112T03:18:05Z | CVE-2021-3019 | lanproxy 目录遍历漏洞批量检测 (CVE-2021-3019) | https://github.com/B1anda0/CVE-2021-3019 | ffay lanproxy 0.1 allows Directory Traversal to read /../conf/config.properties to obtain credentials for a connection to the intranet.| 
 | 20210111T19:37:48Z | CVE-2020-7048 | Null | https://github.com/ElmouradiAmine/CVE-2020-7048 | The WordPress plugin, WP Database Reset through 3.1, contains a flaw that allowed any unauthenticated user to reset any table in the database to the initial WordPress set-up state (deleting all site content stored in that table), as demonstrated by a wp-admin/admin-post.php?db-reset-tables[]=comments URI.| 
 
 
@@ -87,6 +87,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210113T01:02:10Z | Null | https://github.com/247arjun/ExploitDevelopment | 0 | 0| 
 | 20210113T00:49:42Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 7 | 4| 
 | 20210112T23:17:39Z | A lazy clone of Al%s exploit for self host on a pi or what ever small server | https://github.com/codemasterv/AlAzif_Lazy_Clone | 0 | 0| 
 | 20210112T23:12:34Z | ps4 702 exploit host | https://github.com/codemasterv/codemasterv.github.io | 0 | 0| 
@@ -96,7 +97,6 @@
 | 20210112T21:14:44Z | CTF Writeups (mainly binary exploitation / pwn) | https://github.com/volsa/writeups | 0 | 0| 
 | 20210112T21:00:16Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 8883 | 1408| 
 | 20210112T20:12:35Z | Exploits project Hacking Command Center | https://github.com/chacka0101/exploits | 0 | 1| 
-| 20210112T19:31:54Z | ExploitsX is a top-of-the-line constantly updated exploit fixer focused on patching bugs, lag glitches, and crash glitches for minecraft servers. It supports versions 1.8 through 1.17. | https://github.com/IzDaBait/ExploitsX | 5 | 2| 
 
 
 # backdoor on Github 推荐
