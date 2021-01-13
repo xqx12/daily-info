@@ -29,6 +29,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20210113T13:51:12Z | cve-2020-16012 | PoC for CVE-2020-16012, a timing side channel in drawImage in Firefox & Chrome | https://github.com/aleksejspopovs/cve-2020-16012 | 未查询到CVE信息| 
 | 20210113T09:29:09Z | CVE-2020-36184 | CVE-2020-36184 && Jackson-databind  RCE | https://github.com/Al1ex/CVE-2020-36184 | FasterXML jackson-databind 2.x before 2.9.10.8 mishandles the interaction between serialization gadgets and typing, related to org.apache.tomcat.dbcp.dbcp2.datasources.PerUserPoolDataSource.| 
 | 20210113T09:19:44Z | CVE-2020-7048 | Null | https://github.com/ElmouradiAmine/CVE-2020-7048 | The WordPress plugin, WP Database Reset through 3.1, contains a flaw that allowed any unauthenticated user to reset any table in the database to the initial WordPress set-up state (deleting all site content stored in that table), as demonstrated by a wp-admin/admin-post.php?db-reset-tables[]=comments URI.| 
 | 20210113T07:54:41Z | CVE-2021-3131 | CVE-2021-3131 | https://github.com/jet-pentest/CVE-2021-3131 | 未查询到CVE信息| 
@@ -52,7 +53,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210113T13:51:08Z | The ZetaSploit Framework is a modular penetration testing platform that enables you to write, test, and execute exploit code. The ZetaSploit Framework contains a suite of tools that you can use to test security vulnerabilities, enumerate networks and execute attacks. | https://github.com/EntySec/ZetaSploit | 11 | 4| 
+| 20210113T13:51:20Z | The ZetaSploit Framework is a modular penetration testing platform that enables you to write, test, and execute exploit code. The ZetaSploit Framework contains a suite of tools that you can use to test security vulnerabilities, enumerate networks and execute attacks. | https://github.com/EntySec/ZetaSploit | 11 | 4| 
 | 20210113T13:43:07Z | The Hybrid Fake Face (HFF) dataset is built by exploiting the PGGAN, StyleGAN, Glow, and StarGAN.  | https://github.com/EricGzq/Hybrid-Fake-Face-Dataset | 6 | 0| 
 | 20210113T13:31:58Z | Commodity Injection Signatures, Malicious Inputs, XSS, HTTP Header Injection, XXE, RCE, Javascript, XSLT | https://github.com/xsscx/Commodity-Injection-Signatures | 249 | 101| 
 | 20210113T13:25:12Z | Exploit for CVE-2021-3129 | https://github.com/ambionics/laravel-exploits | 0 | 0| 
