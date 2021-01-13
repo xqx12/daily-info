@@ -87,7 +87,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210113T02:37:51Z | A simple exploit for VulnServer written in Python. | https://github.com/JonathanREmery/VulnServerExploit | 0 | 0| 
+| 20210113T02:38:52Z | A simple exploit for VulnServer written in Python. | https://github.com/JonathanREmery/VulnServerExploit | 0 | 0| 
 | 20210113T02:25:33Z | random stuff for exploit dev practice | https://github.com/C-Brown/exploit_dev_practice | 0 | 0| 
 | 20210113T01:37:42Z | exploit-database-papers | https://github.com/offensive-security/exploitdb-papers | 277 | 39| 
 | 20210113T01:12:04Z | The ZetaSploit Framework is a modular penetration testing platform that enables you to write, test, and execute exploit code. The ZetaSploit Framework contains a suite of tools that you can use to test security vulnerabilities, enumerate networks and execute attacks. | https://github.com/EntySec/ZetaSploit | 11 | 4| 
