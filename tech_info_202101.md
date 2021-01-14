@@ -46,7 +46,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20210114T01:51:11Z | 未知编号 | Free Best Exploit | https://github.com/exploiterkid33/Exploit-Builder-2021-Cve2019 | | 
+| 20210114T01:51:11Z | 未知编号 | Free Best Exploit | https://github.com/exploiterkid33/Exploit-Builder-2021-Cve2019 | 未查询到CVE信息| 
 | 20210114T01:49:08Z | CVE-2020-26733 | SKYWORTH GN542VF Hardware Version 2.0 and Software Version 2.0.0.16 HTML Injection Vulnerability | https://github.com/swzhouu/CVE-2020-26733 | 未查询到CVE信息| 
 | 20210114T01:29:23Z | CVE-2020-11851 | Remote Code Execution vulnerability on ArcSight Logger | https://github.com/ch1nghz/CVE-2020-11851 | Arbitrary code execution vulnerability on Micro Focus ArcSight Logger product, affecting all version prior to 7.1.1. The vulnerability could be remotely exploited resulting in the execution of arbitrary code.| 
 | 20210113T18:57:51Z | CVE-2020-36184 | CVE-2020-36184 && Jackson-databind  RCE | https://github.com/Al1ex/CVE-2020-36184 | FasterXML jackson-databind 2.x before 2.9.10.8 mishandles the interaction between serialization gadgets and typing, related to org.apache.tomcat.dbcp.dbcp2.datasources.PerUserPoolDataSource.| 
@@ -55,7 +55,7 @@
 | 20210113T09:19:44Z | CVE-2020-7048 | Null | https://github.com/ElmouradiAmine/CVE-2020-7048 | The WordPress plugin, WP Database Reset through 3.1, contains a flaw that allowed any unauthenticated user to reset any table in the database to the initial WordPress set-up state (deleting all site content stored in that table), as demonstrated by a wp-admin/admin-post.php?db-reset-tables[]=comments URI.| 
 | 20210113T08:35:47Z | CVE-2021-3019 | lanproxy 目录遍历漏洞批量检测 (CVE-2021-3019) | https://github.com/B1anda0/CVE-2021-3019 | ffay lanproxy 0.1 allows Directory Traversal to read /../conf/config.properties to obtain credentials for a connection to the intranet.| 
 | 20210113T07:54:41Z | CVE-2021-3131 | CVE-2021-3131 | https://github.com/jet-pentest/CVE-2021-3131 | The Web server in 1C:Enterprise 8 before 8.3.17.1851 sends base64 encoded credentials in the creds URL parameter.| 
-| 20210113T07:53:08Z | CVE-2020-36179 | CVE-2020-36179~82  Jackson-databind SSRF&RCE | https://github.com/Al1ex/CVE-2020-36179 | FasterXML jackson-databind 2.x before 2.9.10.8 mishandles the interaction between serialization gadgets and typing, related to oadd.org.apache.commons.dbcp.cpdsadapter.DriverAdapterCPDS.| 
+| 20210113T07:53:08Z | CVE-2020-36179 | CVE-2020-36179~82  Jackson-databind SSRF&RCE | https://github.com/Al1ex/CVE-2020-36179 | | 
 
 
 # klee on Github 推荐
@@ -87,7 +87,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210114T01:53:21Z | Silent DOC Exploit CVE-2019 Source Builder | https://github.com/exploiterkid33/Silent-DOC-Exploit-CVE-2019-Source-Builder | 0 | 0| 
+| 20210114T01:54:23Z | Silent DOC Exploit CVE-2019 Source Builder | https://github.com/exploiterkid33/Silent-DOC-Exploit-CVE-2019-Source-Builder | 0 | 0| 
 | 20210114T01:51:11Z | Free Best Exploit | https://github.com/exploiterkid33/Exploit-Builder-2021-Cve2019 | 0 | 0| 
 | 20210114T01:47:39Z | awesome list of browser exploitation tutorials | https://github.com/Escapingbug/awesome-browser-exploit | 1204 | 213| 
 | 20210114T01:37:41Z | exploit-database-papers | https://github.com/offensive-security/exploitdb-papers | 277 | 39| 
