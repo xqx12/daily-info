@@ -87,6 +87,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210114T01:47:39Z | awesome list of browser exploitation tutorials | https://github.com/Escapingbug/awesome-browser-exploit | 1204 | 213| 
 | 20210114T01:37:41Z | exploit-database-papers | https://github.com/offensive-security/exploitdb-papers | 277 | 39| 
 | 20210114T01:34:51Z | A phased, evasive Path Traversal + LFI scanning & exploitation tool in Python | https://github.com/VainlyStrain/Vailyn | 84 | 2| 
 | 20210114T00:52:57Z | Metasploit Utilities, Post Exploit Scripts and other scripts primarily for reference | https://github.com/reg1reg1/Exploits | 0 | 0| 
@@ -96,7 +97,6 @@
 | 20210114T00:09:36Z | Null | https://github.com/EXtremeExploit/EXtremeExploit.github.io | 0 | 0| 
 | 20210113T23:49:24Z | Exploit Gui for Game: https://www.roblox.com/games/5665787539/Relics-Gods-Of-Glory-BETA | https://github.com/DohmBoyOG/Gods-of-Glory-GUI | 0 | 0| 
 | 20210113T23:43:17Z | A series of CTF/hacking challenge solutions for binary exploitation(or pwn)/reverse engineering/vulnerability research/memory corruption(or whatever term you use) | https://github.com/docfate111/binary-exploitation-solution-scripts | 0 | 0| 
-| 20210113T23:14:40Z | A Rust-based worm that totally doesn%t follow the exploitation vectors NotPetya does... | https://github.com/Worldotank1287/sneaky_thing | 0 | 0| 
 
 
 # backdoor on Github 推荐
