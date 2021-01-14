@@ -38,7 +38,7 @@
 | 20210113T09:19:44Z | CVE-2020-7048 | Null | https://github.com/ElmouradiAmine/CVE-2020-7048 | The WordPress plugin, WP Database Reset through 3.1, contains a flaw that allowed any unauthenticated user to reset any table in the database to the initial WordPress set-up state (deleting all site content stored in that table), as demonstrated by a wp-admin/admin-post.php?db-reset-tables[]=comments URI.| 
 | 20210113T07:54:41Z | CVE-2021-3131 | CVE-2021-3131 | https://github.com/jet-pentest/CVE-2021-3131 | The Web server in 1C:Enterprise 8 before 8.3.17.1851 sends base64 encoded credentials in the creds URL parameter.| 
 | 20210113T07:53:08Z | CVE-2020-36179 | CVE-2020-36179~82  Jackson-databind SSRF&RCE | https://github.com/Al1ex/CVE-2020-36179 | FasterXML jackson-databind 2.x before 2.9.10.8 mishandles the interaction between serialization gadgets and typing, related to oadd.org.apache.commons.dbcp.cpdsadapter.DriverAdapterCPDS.| 
-| 20210113T07:29:03Z | CVE-2021-3019 | CVE-2021-3019 lanproxy目录遍历任意文件读取漏洞探测POC | https://github.com/FanqXu/CVE-2021-3019 | | 
+| 20210113T07:29:03Z | CVE-2021-3019 | CVE-2021-3019 lanproxy目录遍历任意文件读取漏洞探测POC | https://github.com/FanqXu/CVE-2021-3019 | ffay lanproxy 0.1 allows Directory Traversal to read /../conf/config.properties to obtain credentials for a connection to the intranet.| 
 
 
 # klee on Github 推荐
@@ -86,16 +86,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210113T13:32:45Z | Collection of quality safety articles. Awesome articles.   | https://github.com/tom0li/collection-document | 1331 | 427| 
-| 20210113T13:25:31Z | Dictionary collection project such as Pentesing, Fuzzing, Bruteforce and BugBounty. 渗透测试、SRC漏洞挖掘、爆破、Fuzzing等字典收集项目。 | https://github.com/insightglacier/Dictionary-Of-Pentesting | 413 | 100| 
-| 20210113T13:23:17Z | This program is for fuzzy set operation  written in c language  | https://github.com/kingSSG/Fuzzy-set-operations- | 1 | 0| 
-| 20210113T13:07:14Z | Null | https://github.com/maria-romitsyna/fuzzy-maytanic | 0 | 0| 
-| 20210113T12:51:38Z | Fuzzing cryptographic libraries. Magic bug printer go brrrr. | https://github.com/guidovranken/cryptofuzz | 230 | 31| 
-| 20210113T12:04:56Z | An HL7 message fuzzer ( client and server ) | https://github.com/IOActive/HL7-Fuzzer | 1 | 0| 
-| 20210113T11:55:51Z | AFLNet: A Greybox Fuzzer for Network Protocols (https://thuanpv.github.io/publications/AFLNet_ICST20.pdf) | https://github.com/aflnet/aflnet | 350 | 56| 
-| 20210113T11:42:06Z | Script made for analyzing network parameters to give optimal result | https://github.com/Sancene/FuzzyProject | 0 | 1| 
-| 20210113T11:35:50Z | fzf-like fuzzy-finder as a Go library | https://github.com/ktr0731/go-fuzzyfinder | 204 | 19| 
-| 20210113T11:06:06Z | Academic papers and articles that I read related to web hacking, fuzzing, etc. / 阅读过的Web安全方向、模糊测试方向的一些论文与阅读笔记 | https://github.com/LyleMi/papers | 172 | 7| 
+| 20210113T23:48:03Z | Fuzzy matching publications for fatcat (wip). | https://github.com/miku/fuzzycat | 1 | 1| 
+| 20210113T23:02:23Z | FuzzBench - Fuzzer benchmarking as a service. | https://github.com/google/fuzzbench | 580 | 93| 
+| 20210113T22:55:32Z | Null | https://github.com/corootine/fuzzy | 0 | 0| 
+| 20210113T22:43:31Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2247 | 113| 
+| 20210113T22:28:47Z | Go fuzzy matching tool using Levenshtein distance calculation | https://github.com/datahappy1/go_fuzzymatch | 0 | 0| 
+| 20210113T21:48:43Z | A cross-platform browser fuzzing framework | https://github.com/MozillaSecurity/grizzly | 222 | 30| 
+| 20210113T21:23:34Z | OSS-Fuzz - continuous fuzzing of open source software. | https://github.com/google/oss-fuzz | 5786 | 1157| 
+| 20210113T20:54:26Z | C++ Fuzzy logic with ImGui interface | https://github.com/Renardjojo/FuzzyLogic | 0 | 0| 
+| 20210113T20:16:10Z | Null | https://github.com/0xsapra/fuzzparam | 1 | 0| 
+| 20210113T19:35:10Z | Null | https://github.com/aminelch/fuzzy-enigma | 0 | 0| 
 
 
 
