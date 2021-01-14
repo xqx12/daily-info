@@ -48,12 +48,12 @@
 | --- | --- | --- | --- | ---| 
 | 20210114T02:29:13Z | CVE-2021-1056 | PoC for CVE-2021-1056, related to GPU Container Security | https://github.com/pokerfaceSad/CVE-2021-1056 | NVIDIA GPU Display Driver for Linux, all versions, contains a vulnerability in the kernel mode layer (nvidia.ko) in which it does not completely honor operating system file system permissions to provide GPU device-level isolation, which may lead to denial of service or information disclosure.| 
 | 20210114T02:23:50Z | CVE-2020-27368 | SKYWORTH GN542VF Hardware Version 2.0 and Software Version 2.0.0.16 Directory Enumeration Vulnerability | https://github.com/swzhouu/CVE-2020-27368 | 未查询到CVE信息| 
-| 20210114T02:22:41Z | CVE-2020-26733 | SKYWORTH GN542VF Hardware Version 2.0 and Software Version 2.0.0.16 HTML Injection Vulnerability | https://github.com/swzhouu/CVE-2020-26733 | 未查询到CVE信息| 
+| 20210114T02:22:41Z | CVE-2020-26733 | SKYWORTH GN542VF Hardware Version 2.0 and Software Version 2.0.0.16 HTML Injection Vulnerability | https://github.com/swzhouu/CVE-2020-26733 | | 
 | 20210114T01:51:11Z | 未知编号 | Free Best Exploit | https://github.com/exploiterkid33/Exploit-Builder-2021-Cve2019 | 未查询到CVE信息| 
 | 20210114T01:29:23Z | CVE-2020-11851 | Remote Code Execution vulnerability on ArcSight Logger | https://github.com/ch1nghz/CVE-2020-11851 | Arbitrary code execution vulnerability on Micro Focus ArcSight Logger product, affecting all version prior to 7.1.1. The vulnerability could be remotely exploited resulting in the execution of arbitrary code.| 
 | 20210113T18:57:51Z | CVE-2020-36184 | CVE-2020-36184 && Jackson-databind  RCE | https://github.com/Al1ex/CVE-2020-36184 | FasterXML jackson-databind 2.x before 2.9.10.8 mishandles the interaction between serialization gadgets and typing, related to org.apache.tomcat.dbcp.dbcp2.datasources.PerUserPoolDataSource.| 
 | 20210113T16:33:04Z | CVE-2020-3452 | CISCO CVE-2020-3452 Scanner & Exploiter | https://github.com/darklotuskdb/CISCO-CVE-2020-3452-Scanner-Exploiter | A vulnerability in the web services interface of Cisco Adaptive Security Appliance (ASA) Software and Cisco Firepower Threat Defense (FTD) Software could allow an unauthenticated, remote attacker to conduct directory traversal attacks and read sensitive files on a targeted system. The vulnerability is due to a lack of proper input validation of URLs in HTTP requests processed by an affected device. An attacker could exploit this vulnerability by sending a crafted HTTP request containing directory traversal character sequences to an affected device. A successful exploit could allow the attacker to view arbitrary files within the web services file system on the targeted device. The web services file system is enabled when the affected device is configured with either WebVPN or AnyConnect features. This vulnerability cannot be used to obtain access to ASA or FTD system files or underlying operating system (OS) files.| 
-| 20210113T13:51:12Z | cve-2020-16012 | PoC for CVE-2020-16012, a timing side channel in drawImage in Firefox & Chrome | https://github.com/aleksejspopovs/cve-2020-16012 | | 
+| 20210113T13:51:12Z | cve-2020-16012 | PoC for CVE-2020-16012, a timing side channel in drawImage in Firefox & Chrome | https://github.com/aleksejspopovs/cve-2020-16012 | 未查询到CVE信息| 
 | 20210113T09:19:44Z | CVE-2020-7048 | Null | https://github.com/ElmouradiAmine/CVE-2020-7048 | The WordPress plugin, WP Database Reset through 3.1, contains a flaw that allowed any unauthenticated user to reset any table in the database to the initial WordPress set-up state (deleting all site content stored in that table), as demonstrated by a wp-admin/admin-post.php?db-reset-tables[]=comments URI.| 
 | 20210113T08:35:47Z | CVE-2021-3019 | lanproxy 目录遍历漏洞批量检测 (CVE-2021-3019) | https://github.com/B1anda0/CVE-2021-3019 | ffay lanproxy 0.1 allows Directory Traversal to read /../conf/config.properties to obtain credentials for a connection to the intranet.| 
 
@@ -87,6 +87,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210114T02:30:50Z | A Good One Exploit | https://github.com/NiZXD471/BKHAX-Repost | 0 | 0| 
 | 20210114T02:07:49Z | Repository for python exploits  | https://github.com/ankh2054/python-exploits | 55 | 29| 
 | 20210114T02:07:14Z | awesome list of browser exploitation tutorials | https://github.com/Escapingbug/awesome-browser-exploit | 1203 | 213| 
 | 20210114T02:03:10Z | Silent DOC Exploit CVE-2019 Source Builder | https://github.com/exploiterkid33/Doc-Exploit-Builder-2021 | 0 | 0| 
@@ -96,7 +97,6 @@
 | 20210114T01:34:51Z | A phased, evasive Path Traversal + LFI scanning & exploitation tool in Python | https://github.com/VainlyStrain/Vailyn | 84 | 2| 
 | 20210114T00:52:57Z | Metasploit Utilities, Post Exploit Scripts and other scripts primarily for reference | https://github.com/reg1reg1/Exploits | 0 | 0| 
 | 20210114T00:49:43Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 7 | 4| 
-| 20210114T00:19:23Z | This repository contains the source of %ARM Binary Exploitaiton% book. | https://github.com/cpuu/arm_exploitation | 1 | 0| 
 
 
 # backdoor on Github 推荐
@@ -117,6 +117,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210114T02:30:23Z | Null | https://github.com/mrfuzz12/FuzzCheat | 0 | 0| 
 | 20210114T02:14:30Z | Scalable fuzzing infrastructure. | https://github.com/google/clusterfuzz | 4416 | 408| 
 | 20210114T02:12:38Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 1249 | 267| 
 | 20210114T01:57:05Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2248 | 113| 
@@ -126,7 +127,6 @@
 | 20210114T01:43:27Z | FuzzBench - Fuzzer benchmarking as a service. | https://github.com/google/fuzzbench | 580 | 93| 
 | 20210114T01:12:31Z | css for brightcove player | https://github.com/metrograph-mr/fuzzy-octo-doodle | 0 | 1| 
 | 20210114T01:08:52Z | Null | https://github.com/0xsapra/fuzzparam | 2 | 0| 
-| 20210114T00:03:16Z | Null | https://github.com/zawolanski/fuzzy_numbers | 0 | 0| 
 
 
 
