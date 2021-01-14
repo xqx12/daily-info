@@ -60,11 +60,11 @@
 | 20210113T23:14:40Z | A Rust-based worm that totally doesn%t follow the exploitation vectors NotPetya does... | https://github.com/Worldotank1287/sneaky_thing | 0 | 0| 
 | 20210113T22:50:08Z | Exploits for Sync-Breeze  | https://github.com/laordenhacker/Sync-Breeze | 0 | 0| 
 | 20210113T22:46:25Z | Exploits / POCs. (mostly ranging from 1998-2008) | https://github.com/marz-hunter/xplo17s | 0 | 0| 
-| 20210113T22:36:42Z | Analysis and exploitation of shilling and pump&dump in Telegram groups devoted to crypto assets. Comes with an automated trading module for some popular crypto exchanges. | https://github.com/Haydart/CryptoPumpDetector | 3 | 0| 
 | 20210113T22:00:04Z | Exploit for Samba 3.x 4.x that doesn%t use Metasploit-framework | https://github.com/v1nc3-source/Samba_3.X_4.X_Exploit | 0 | 0| 
 | 20210113T21:23:31Z | Null | https://github.com/th3ken-dev/TH3KEN-EDITON | 2 | 0| 
 | 20210113T21:02:47Z | Thi powershell script has got to run in remote windows host, even for pivoting | https://github.com/FabioDefilippo/winallenum | 0 | 1| 
 | 20210113T20:40:16Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 8887 | 1410| 
+| 20210113T20:05:13Z | Fully Undetectable Malware Backdoor | https://github.com/raunvk/stealthware-backdoor | 1 | 1| 
 
 
 # backdoor on Github 推荐
