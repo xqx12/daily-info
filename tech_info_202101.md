@@ -46,7 +46,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20210114T01:51:11Z | 未知编号 | Free Best Exploit | https://github.com/exploiterkid33/Exploit-Builder-2021-Cve2019 | 未查询到CVE信息| 
+| 20210114T01:51:11Z | 未知编号 | Free Best Exploit | https://github.com/exploiterkid33/Exploit-Builder-2021-Cve2019 | | 
 | 20210114T01:49:08Z | CVE-2020-26733 | SKYWORTH GN542VF Hardware Version 2.0 and Software Version 2.0.0.16 HTML Injection Vulnerability | https://github.com/swzhouu/CVE-2020-26733 | 未查询到CVE信息| 
 | 20210114T01:29:23Z | CVE-2020-11851 | Remote Code Execution vulnerability on ArcSight Logger | https://github.com/ch1nghz/CVE-2020-11851 | Arbitrary code execution vulnerability on Micro Focus ArcSight Logger product, affecting all version prior to 7.1.1. The vulnerability could be remotely exploited resulting in the execution of arbitrary code.| 
 | 20210113T18:57:51Z | CVE-2020-36184 | CVE-2020-36184 && Jackson-databind  RCE | https://github.com/Al1ex/CVE-2020-36184 | FasterXML jackson-databind 2.x before 2.9.10.8 mishandles the interaction between serialization gadgets and typing, related to org.apache.tomcat.dbcp.dbcp2.datasources.PerUserPoolDataSource.| 
@@ -87,6 +87,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210114T01:53:21Z | Silent DOC Exploit CVE-2019 Source Builder | https://github.com/exploiterkid33/Silent-DOC-Exploit-CVE-2019-Source-Builder | 0 | 0| 
+| 20210114T01:51:11Z | Free Best Exploit | https://github.com/exploiterkid33/Exploit-Builder-2021-Cve2019 | 0 | 0| 
 | 20210114T01:47:39Z | awesome list of browser exploitation tutorials | https://github.com/Escapingbug/awesome-browser-exploit | 1204 | 213| 
 | 20210114T01:37:41Z | exploit-database-papers | https://github.com/offensive-security/exploitdb-papers | 277 | 39| 
 | 20210114T01:34:51Z | A phased, evasive Path Traversal + LFI scanning & exploitation tool in Python | https://github.com/VainlyStrain/Vailyn | 84 | 2| 
@@ -95,8 +97,6 @@
 | 20210114T00:19:23Z | This repository contains the source of %ARM Binary Exploitaiton% book. | https://github.com/cpuu/arm_exploitation | 1 | 0| 
 | 20210114T00:18:31Z | Null | https://github.com/0xturazzi/Um-Livrinho-Sobre-Exploit-Dev | 0 | 0| 
 | 20210114T00:09:36Z | Null | https://github.com/EXtremeExploit/EXtremeExploit.github.io | 0 | 0| 
-| 20210113T23:49:24Z | Exploit Gui for Game: https://www.roblox.com/games/5665787539/Relics-Gods-Of-Glory-BETA | https://github.com/DohmBoyOG/Gods-of-Glory-GUI | 0 | 0| 
-| 20210113T23:43:17Z | A series of CTF/hacking challenge solutions for binary exploitation(or pwn)/reverse engineering/vulnerability research/memory corruption(or whatever term you use) | https://github.com/docfate111/binary-exploitation-solution-scripts | 0 | 0| 
 
 
 # backdoor on Github 推荐
