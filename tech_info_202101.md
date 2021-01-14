@@ -117,8 +117,9 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210114T13:18:35Z | Test scripts for fuzzing CVEs of libpng and binutils  with AFLGo. | https://github.com/springflo/test-aflgo | 1 | 1| 
+| 20210114T13:16:15Z | Fuzzer for Pharo | https://github.com/mabdi/phazzer | 0 | 0| 
 | 20210114T13:10:19Z | testing coddespaces | https://github.com/mokeseven7/fuzzy-train | 0 | 0| 
-| 20210114T12:58:40Z | Test scripts for fuzzing CVEs of libpng and binutils  with AFLGo. | https://github.com/springflo/test-aflgo | 1 | 1| 
 | 20210114T12:54:38Z | ProFuzzBench - A Benchmark for Stateful Protocol Fuzzing | https://github.com/profuzzbench/profuzzbench | 7 | 2| 
 | 20210114T12:48:58Z | Fuzzy predictive controller for chaotic flows based on continuous signals Implementaion | https://github.com/javad-sheikh/Fuzzy-predictive-controller | 1 | 0| 
 | 20210114T12:34:36Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 3304 | 760| 
@@ -126,7 +127,6 @@
 | 20210114T11:36:21Z | C++ Fuzzy logic with ImGui interface | https://github.com/Renardjojo/FuzzyLogic | 0 | 0| 
 | 20210114T11:23:20Z | fzf-like fuzzy-finder as a Go library | https://github.com/ktr0731/go-fuzzyfinder | 204 | 19| 
 | 20210114T11:15:52Z | Utility tool for using systemctl interactively | https://github.com/NullSense/fuzzy-sys | 41 | 0| 
-| 20210114T11:04:18Z | OSS-Fuzz - continuous fuzzing of open source software. | https://github.com/google/oss-fuzz | 5790 | 1158| 
 
 
 
