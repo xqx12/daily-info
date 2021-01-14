@@ -48,7 +48,7 @@
 | --- | --- | --- | --- | ---| 
 | 20210114T13:45:34Z | 未知编号 | 2020一些漏洞 | https://github.com/r0eXpeR/CVE-2020 | 未查询到CVE信息| 
 | 20210114T13:38:31Z | CVE-2020-6207 | PoC for CVE-2020-6207  (Missing Authentication Check in SAP Solution Manager) | https://github.com/chipik/SAP_EEM_CVE-2020-6207 | SAP Solution Manager (User Experience Monitoring), version- 7.2, due to Missing Authentication Check does not perform any authentication for a service resulting in complete compromise of all SMDAgents connected to the Solution Manager.| 
-| 20210114T10:50:34Z | CVE-2020-17519 | CVE-2020-17519 EXP | https://github.com/radbsie/CVE-2020-17519-Exp | A change introduced in Apache Flink 1.11.0 (and released in 1.11.1 and 1.11.2 as well) allows attackers to read any file on the local filesystem of the JobManager through the REST interface of the JobManager process. Access is restricted to files accessible by the JobManager process. All users should upgrade to Flink 1.11.3 or 1.12.0 if their Flink instance(s) are exposed. The issue was fixed in commit b561010b0ee741543c3953306037f00d7a9f0801 from apache/flink:master.| 
+| 20210114T10:50:34Z | CVE-2020-17519 | CVE-2020-17519 EXP | https://github.com/radbsie/CVE-2020-17519-Exp | | 
 | 20210114T10:14:26Z | CVE-2020-27368 | SKYWORTH GN542VF Hardware Version 2.0 and Software Version 2.0.0.16 Directory Indexing Vulnerability | https://github.com/swzhouu/CVE-2020-27368 | 未查询到CVE信息| 
 | 20210114T10:14:25Z | CVE-2020-26733 | SKYWORTH GN542VF Hardware Version 2.0 and Software Version 2.0.0.16 Cross Site Scripting (XSS) Vulnerability | https://github.com/swzhouu/CVE-2020-26733 | 未查询到CVE信息| 
 | 20210114T10:10:41Z | CVE-2020-26732 | Skyworth GN542VF Boa version 0.94.13 does not set the Secure flag for the session cookie in an HTTPS session | https://github.com/swzhouu/CVE-2020-26732 | 未查询到CVE信息| 
@@ -117,7 +117,8 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210114T13:46:03Z | testing coddespaces | https://github.com/mokeseven7/fuzzy-train | 0 | 0| 
+| 20210114T13:48:30Z | Null | https://github.com/LimeEng/magpie-fuzz | 0 | 0| 
+| 20210114T13:47:24Z | testing coddespaces | https://github.com/mokeseven7/fuzzy-train | 0 | 0| 
 | 20210114T13:40:49Z | ProFuzzBench - A Benchmark for Stateful Protocol Fuzzing | https://github.com/profuzzbench/profuzzbench | 8 | 2| 
 | 20210114T13:32:38Z | Null | https://github.com/Sentinel-One/efi_fuzz | 60 | 7| 
 | 20210114T13:18:35Z | Test scripts for fuzzing CVEs of libpng and binutils  with AFLGo. | https://github.com/springflo/test-aflgo | 1 | 1| 
@@ -126,7 +127,6 @@
 | 20210114T12:34:36Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 3304 | 760| 
 | 20210114T11:46:10Z | Null | https://github.com/s9varesc/url-fuzzing-docker | 0 | 0| 
 | 20210114T11:36:21Z | C++ Fuzzy logic with ImGui interface | https://github.com/Renardjojo/FuzzyLogic | 0 | 0| 
-| 20210114T11:23:20Z | fzf-like fuzzy-finder as a Go library | https://github.com/ktr0731/go-fuzzyfinder | 204 | 19| 
 
 
 
