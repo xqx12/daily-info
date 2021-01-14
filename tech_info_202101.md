@@ -92,7 +92,7 @@
 | 20210114T13:18:31Z | Development of code to exploit LSST and VISTA imaging | https://github.com/lsst-uk/lsst-ir-fusion | 0 | 0| 
 | 20210114T12:49:43Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 7 | 4| 
 | 20210114T12:47:33Z | Exploit Database binary exploits located in the /sploits directory | https://github.com/offensive-security/exploitdb-bin-sploits | 1373 | 492| 
-| 20210114T12:12:33Z | A post exploitation framework designed to operate covertly on heavily monitored environments | https://github.com/bats3c/shad0w | 1089 | 175| 
+| 20210114T12:12:33Z | A post exploitation framework designed to operate covertly on heavily monitored environments | https://github.com/bats3c/shad0w | 1089 | 176| 
 | 20210114T12:10:38Z | Structured Exploitation Blocker (Minectaft 1.12.2) | https://github.com/James-SSH/SEB_Mod | 0 | 0| 
 | 20210114T12:10:20Z | makes your exploit easily using your beautiful voice. | https://github.com/SkieAdmin/Panda-Voice-Command-Source | 0 | 0| 
 | 20210114T11:55:11Z | Additional material for the paper %MoralStrength: Exploiting a Moral Lexicon and Embedding Similarity for Moral Foundations Prediction% | https://github.com/oaraque/moral-foundations | 15 | 5| 
@@ -117,6 +117,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210114T13:32:38Z | Null | https://github.com/Sentinel-One/efi_fuzz | 60 | 7| 
 | 20210114T13:18:35Z | Test scripts for fuzzing CVEs of libpng and binutils  with AFLGo. | https://github.com/springflo/test-aflgo | 1 | 1| 
 | 20210114T13:16:15Z | Fuzzer for Pharo | https://github.com/mabdi/phazzer | 0 | 0| 
 | 20210114T13:10:19Z | testing coddespaces | https://github.com/mokeseven7/fuzzy-train | 0 | 0| 
@@ -126,7 +127,6 @@
 | 20210114T11:46:10Z | Null | https://github.com/s9varesc/url-fuzzing-docker | 0 | 0| 
 | 20210114T11:36:21Z | C++ Fuzzy logic with ImGui interface | https://github.com/Renardjojo/FuzzyLogic | 0 | 0| 
 | 20210114T11:23:20Z | fzf-like fuzzy-finder as a Go library | https://github.com/ktr0731/go-fuzzyfinder | 204 | 19| 
-| 20210114T11:15:52Z | Utility tool for using systemctl interactively | https://github.com/NullSense/fuzzy-sys | 41 | 0| 
 
 
 
