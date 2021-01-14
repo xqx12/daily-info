@@ -117,12 +117,12 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210114T01:43:27Z | FuzzBench - Fuzzer benchmarking as a service. | https://github.com/google/fuzzbench | 580 | 93| 
 | 20210114T01:12:31Z | css for brightcove player | https://github.com/metrograph-mr/fuzzy-octo-doodle | 0 | 1| 
 | 20210114T01:08:52Z | Null | https://github.com/0xsapra/fuzzparam | 2 | 0| 
 | 20210114T00:03:16Z | Null | https://github.com/zawolanski/fuzzy_numbers | 0 | 0| 
 | 20210114T00:01:01Z | a simplified means to CRUD ephemeral user-scoped EC2 instances | https://github.com/rstudio/fuzzbucket | 1 | 1| 
 | 20210113T23:48:03Z | Fuzzy matching publications for fatcat (wip). | https://github.com/miku/fuzzycat | 1 | 1| 
-| 20210113T23:02:23Z | FuzzBench - Fuzzer benchmarking as a service. | https://github.com/google/fuzzbench | 580 | 93| 
 | 20210113T22:55:32Z | Null | https://github.com/corootine/fuzzy | 0 | 0| 
 | 20210113T22:43:31Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2247 | 113| 
 | 20210113T22:28:47Z | Go fuzzy matching tool using Levenshtein distance calculation | https://github.com/datahappy1/go_fuzzymatch | 0 | 0| 

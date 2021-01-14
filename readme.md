@@ -87,7 +87,6 @@
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
 | 20210113T23:48:03Z | Fuzzy matching publications for fatcat (wip). | https://github.com/miku/fuzzycat | 1 | 1| 
-| 20210113T23:02:23Z | FuzzBench - Fuzzer benchmarking as a service. | https://github.com/google/fuzzbench | 580 | 93| 
 | 20210113T22:55:32Z | Null | https://github.com/corootine/fuzzy | 0 | 0| 
 | 20210113T22:43:31Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2247 | 113| 
 | 20210113T22:28:47Z | Go fuzzy matching tool using Levenshtein distance calculation | https://github.com/datahappy1/go_fuzzymatch | 0 | 0| 
@@ -96,6 +95,7 @@
 | 20210113T20:54:26Z | C++ Fuzzy logic with ImGui interface | https://github.com/Renardjojo/FuzzyLogic | 0 | 0| 
 | 20210113T19:35:10Z | Null | https://github.com/aminelch/fuzzy-enigma | 0 | 0| 
 | 20210113T19:33:56Z | Null | https://github.com/dyninst/fuzz | 4 | 0| 
+| 20210113T19:32:30Z | Pure Rust fuzzy hash implementation | https://github.com/rustysec/fuzzyhash-rs | 9 | 1| 
 
 
 
