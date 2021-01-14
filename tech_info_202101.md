@@ -87,6 +87,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210114T13:53:20Z | Null | https://github.com/x1234xx/PDF-Exploit-Builder | 0 | 0| 
 | 20210114T13:46:55Z | Text multiclass classification project exploiting word-embedding and TF-IDF for vector representation of words. | https://github.com/paoloitaliani/Text-Classification | 0 | 0| 
 | 20210114T13:26:59Z | Null | https://github.com/1N53C/ExploitDBSearch | 0 | 0| 
 | 20210114T13:18:31Z | Development of code to exploit LSST and VISTA imaging | https://github.com/lsst-uk/lsst-ir-fusion | 0 | 0| 
@@ -96,7 +97,6 @@
 | 20210114T12:10:38Z | Structured Exploitation Blocker (Minectaft 1.12.2) | https://github.com/James-SSH/SEB_Mod | 0 | 0| 
 | 20210114T12:10:20Z | makes your exploit easily using your beautiful voice. | https://github.com/SkieAdmin/Panda-Voice-Command-Source | 0 | 0| 
 | 20210114T11:55:11Z | Additional material for the paper %MoralStrength: Exploiting a Moral Lexicon and Embedding Similarity for Moral Foundations Prediction% | https://github.com/oaraque/moral-foundations | 15 | 5| 
-| 20210114T11:35:15Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 8888 | 1410| 
 
 
 # backdoor on Github 推荐
