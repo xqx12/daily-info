@@ -28,7 +28,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20210114T13:31:00Z | 未知编号 | 2020一些漏洞 | https://github.com/r0eXpeR/CVE-2020 | 未查询到CVE信息| 
+| 20210114T13:34:18Z | 未知编号 | 2020一些漏洞 | https://github.com/r0eXpeR/CVE-2020 | 未查询到CVE信息| 
 | 20210114T10:50:34Z | CVE-2020-17519 | CVE-2020-17519 EXP | https://github.com/radbsie/CVE-2020-17519-Exp | A change introduced in Apache Flink 1.11.0 (and released in 1.11.1 and 1.11.2 as well) allows attackers to read any file on the local filesystem of the JobManager through the REST interface of the JobManager process. Access is restricted to files accessible by the JobManager process. All users should upgrade to Flink 1.11.3 or 1.12.0 if their Flink instance(s) are exposed. The issue was fixed in commit b561010b0ee741543c3953306037f00d7a9f0801 from apache/flink:master.| 
 | 20210114T10:14:26Z | CVE-2020-27368 | SKYWORTH GN542VF Hardware Version 2.0 and Software Version 2.0.0.16 Directory Indexing Vulnerability | https://github.com/swzhouu/CVE-2020-27368 | 未查询到CVE信息| 
 | 20210114T10:14:25Z | CVE-2020-26733 | SKYWORTH GN542VF Hardware Version 2.0 and Software Version 2.0.0.16 Cross Site Scripting (XSS) Vulnerability | https://github.com/swzhouu/CVE-2020-26733 | 未查询到CVE信息| 
@@ -62,7 +62,7 @@
 | 20210114T13:18:31Z | Development of code to exploit LSST and VISTA imaging | https://github.com/lsst-uk/lsst-ir-fusion | 0 | 0| 
 | 20210114T12:49:43Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 7 | 4| 
 | 20210114T12:47:33Z | Exploit Database binary exploits located in the /sploits directory | https://github.com/offensive-security/exploitdb-bin-sploits | 1373 | 492| 
-| 20210114T12:12:33Z | A post exploitation framework designed to operate covertly on heavily monitored environments | https://github.com/bats3c/shad0w | 1089 | 176| 
+| 20210114T12:12:33Z | A post exploitation framework designed to operate covertly on heavily monitored environments | https://github.com/bats3c/shad0w | 1089 | 175| 
 | 20210114T12:10:38Z | Structured Exploitation Blocker (Minectaft 1.12.2) | https://github.com/James-SSH/SEB_Mod | 0 | 0| 
 | 20210114T12:10:20Z | makes your exploit easily using your beautiful voice. | https://github.com/SkieAdmin/Panda-Voice-Command-Source | 0 | 0| 
 | 20210114T11:55:11Z | Additional material for the paper %MoralStrength: Exploiting a Moral Lexicon and Embedding Similarity for Moral Foundations Prediction% | https://github.com/oaraque/moral-foundations | 15 | 5| 
