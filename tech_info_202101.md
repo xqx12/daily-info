@@ -117,6 +117,8 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210114T02:14:30Z | Scalable fuzzing infrastructure. | https://github.com/google/clusterfuzz | 4416 | 408| 
+| 20210114T02:12:38Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 1249 | 267| 
 | 20210114T01:57:05Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2248 | 113| 
 | 20210114T01:55:20Z | Null | https://github.com/YYC0626/FuzzX-CLI | 0 | 0| 
 | 20210114T01:54:14Z | OSS-Fuzz - continuous fuzzing of open source software. | https://github.com/google/oss-fuzz | 5787 | 1157| 
@@ -125,8 +127,6 @@
 | 20210114T01:12:31Z | css for brightcove player | https://github.com/metrograph-mr/fuzzy-octo-doodle | 0 | 1| 
 | 20210114T01:08:52Z | Null | https://github.com/0xsapra/fuzzparam | 2 | 0| 
 | 20210114T00:03:16Z | Null | https://github.com/zawolanski/fuzzy_numbers | 0 | 0| 
-| 20210114T00:01:01Z | a simplified means to CRUD ephemeral user-scoped EC2 instances | https://github.com/rstudio/fuzzbucket | 1 | 1| 
-| 20210113T23:48:03Z | Fuzzy matching publications for fatcat (wip). | https://github.com/miku/fuzzycat | 1 | 1| 
 
 
 
