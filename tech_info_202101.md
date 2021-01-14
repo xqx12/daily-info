@@ -46,6 +46,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20210114T01:51:11Z | 未知编号 | Free Best Exploit | https://github.com/exploiterkid33/Exploit-Builder-2021-Cve2019 | 未查询到CVE信息| 
 | 20210114T01:49:08Z | CVE-2020-26733 | SKYWORTH GN542VF Hardware Version 2.0 and Software Version 2.0.0.16 HTML Injection Vulnerability | https://github.com/swzhouu/CVE-2020-26733 | 未查询到CVE信息| 
 | 20210114T01:29:23Z | CVE-2020-11851 | Remote Code Execution vulnerability on ArcSight Logger | https://github.com/ch1nghz/CVE-2020-11851 | Arbitrary code execution vulnerability on Micro Focus ArcSight Logger product, affecting all version prior to 7.1.1. The vulnerability could be remotely exploited resulting in the execution of arbitrary code.| 
 | 20210113T18:57:51Z | CVE-2020-36184 | CVE-2020-36184 && Jackson-databind  RCE | https://github.com/Al1ex/CVE-2020-36184 | FasterXML jackson-databind 2.x before 2.9.10.8 mishandles the interaction between serialization gadgets and typing, related to org.apache.tomcat.dbcp.dbcp2.datasources.PerUserPoolDataSource.| 
@@ -55,7 +56,6 @@
 | 20210113T08:35:47Z | CVE-2021-3019 | lanproxy 目录遍历漏洞批量检测 (CVE-2021-3019) | https://github.com/B1anda0/CVE-2021-3019 | ffay lanproxy 0.1 allows Directory Traversal to read /../conf/config.properties to obtain credentials for a connection to the intranet.| 
 | 20210113T07:54:41Z | CVE-2021-3131 | CVE-2021-3131 | https://github.com/jet-pentest/CVE-2021-3131 | The Web server in 1C:Enterprise 8 before 8.3.17.1851 sends base64 encoded credentials in the creds URL parameter.| 
 | 20210113T07:53:08Z | CVE-2020-36179 | CVE-2020-36179~82  Jackson-databind SSRF&RCE | https://github.com/Al1ex/CVE-2020-36179 | FasterXML jackson-databind 2.x before 2.9.10.8 mishandles the interaction between serialization gadgets and typing, related to oadd.org.apache.commons.dbcp.cpdsadapter.DriverAdapterCPDS.| 
-| 20210113T07:29:03Z | CVE-2021-3019 | CVE-2021-3019 lanproxy目录遍历任意文件读取漏洞探测POC | https://github.com/FanqXu/CVE-2021-3019 | ffay lanproxy 0.1 allows Directory Traversal to read /../conf/config.properties to obtain credentials for a connection to the intranet.| 
 
 
 # klee on Github 推荐
@@ -117,6 +117,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210114T01:51:31Z | Lightweight fuzzy search highlighting component using fuse.js | https://github.com/metonym/react-fuzzy-highlighter | 11 | 2| 
 | 20210114T01:43:27Z | FuzzBench - Fuzzer benchmarking as a service. | https://github.com/google/fuzzbench | 580 | 93| 
 | 20210114T01:12:31Z | css for brightcove player | https://github.com/metrograph-mr/fuzzy-octo-doodle | 0 | 1| 
 | 20210114T01:08:52Z | Null | https://github.com/0xsapra/fuzzparam | 2 | 0| 
@@ -126,7 +127,6 @@
 | 20210113T22:55:32Z | Null | https://github.com/corootine/fuzzy | 0 | 0| 
 | 20210113T22:43:31Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2247 | 113| 
 | 20210113T22:28:47Z | Go fuzzy matching tool using Levenshtein distance calculation | https://github.com/datahappy1/go_fuzzymatch | 0 | 0| 
-| 20210113T21:48:43Z | A cross-platform browser fuzzing framework | https://github.com/MozillaSecurity/grizzly | 222 | 30| 
 
 
 
