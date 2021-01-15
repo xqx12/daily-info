@@ -50,10 +50,10 @@
 | 20210114T21:24:59Z | CVE-2020-7200 | Null | https://github.com/alexfrancow/CVE-2020-7200 | A potential security vulnerability has been identified in HPE Systems Insight Manager (SIM) version 7.6. The vulnerability could be exploited to allow remote code execution.| 
 | 20210114T20:38:23Z | CVE-2020-7961 | Exploit script for CVE-2020-7961 | https://github.com/ShutdownRepo/CVE-2020-7961 | Deserialization of Untrusted Data in Liferay Portal prior to 7.2.1 CE GA2 allows remote attackers to execute arbitrary code via JSON web services (JSONWS).| 
 | 20210114T15:43:05Z | CVE-2020-6207 | PoC for CVE-2020-6207  (Missing Authentication Check in SAP Solution Manager) | https://github.com/chipik/SAP_EEM_CVE-2020-6207 | SAP Solution Manager (User Experience Monitoring), version- 7.2, due to Missing Authentication Check does not perform any authentication for a service resulting in complete compromise of all SMDAgents connected to the Solution Manager.| 
-| 20210114T10:50:34Z | CVE-2020-17519 | CVE-2020-17519 EXP | https://github.com/radbsie/CVE-2020-17519-Exp | | 
+| 20210114T10:50:34Z | CVE-2020-17519 | CVE-2020-17519 EXP | https://github.com/radbsie/CVE-2020-17519-Exp | A change introduced in Apache Flink 1.11.0 (and released in 1.11.1 and 1.11.2 as well) allows attackers to read any file on the local filesystem of the JobManager through the REST interface of the JobManager process. Access is restricted to files accessible by the JobManager process. All users should upgrade to Flink 1.11.3 or 1.12.0 if their Flink instance(s) are exposed. The issue was fixed in commit b561010b0ee741543c3953306037f00d7a9f0801 from apache/flink:master.| 
 | 20210114T10:14:26Z | CVE-2020-27368 | SKYWORTH GN542VF Hardware Version 2.0 and Software Version 2.0.0.16 Directory Indexing Vulnerability | https://github.com/swzhouu/CVE-2020-27368 | Directory Indexing in Login Portal of Login Portal of TOTOLINK-A702R-V1.0.0-B20161227.1023 allows attacker to access /icons/ directories via GET Parameter.| 
 | 20210114T10:14:25Z | CVE-2020-26733 | SKYWORTH GN542VF Hardware Version 2.0 and Software Version 2.0.0.16 Cross Site Scripting (XSS) Vulnerability | https://github.com/swzhouu/CVE-2020-26733 | Cross Site Scripting (XSS) in Configuration page in SKYWORTH GN542VF Hardware Version 2.0 and Software Version 2.0.0.16 allows authenticated attacker to inject their own script into the page via DDNS Configuration Section.| 
-| 20210114T10:10:41Z | CVE-2020-26732 | Skyworth GN542VF Boa version 0.94.13 does not set the Secure flag for the session cookie in an HTTPS session | https://github.com/swzhouu/CVE-2020-26732 | | 
+| 20210114T10:10:41Z | CVE-2020-26732 | Skyworth GN542VF Boa version 0.94.13 does not set the Secure flag for the session cookie in an HTTPS session | https://github.com/swzhouu/CVE-2020-26732 | Skyworth GN542VF Boa version 0.94.13 does not set the Secure flag for the session cookie in an HTTPS session, which makes it easier for remote attackers to capture this cookie by intercepting its transmission within an HTTP session.| 
 | 20210114T07:52:52Z | CVE-2021-3019 | lanproxy 目录遍历漏洞批量检测用户名密码POC (CVE-2021-3019) | https://github.com/liuxu54898/CVE-2021-3019 | ffay lanproxy 0.1 allows Directory Traversal to read /../conf/config.properties to obtain credentials for a connection to the intranet.| 
 | 20210114T02:38:21Z | CVE-2020-3452 | CISCO CVE-2020-3452 Scanner & Exploiter | https://github.com/darklotuskdb/CISCO-CVE-2020-3452-Scanner-Exploiter | A vulnerability in the web services interface of Cisco Adaptive Security Appliance (ASA) Software and Cisco Firepower Threat Defense (FTD) Software could allow an unauthenticated, remote attacker to conduct directory traversal attacks and read sensitive files on a targeted system. The vulnerability is due to a lack of proper input validation of URLs in HTTP requests processed by an affected device. An attacker could exploit this vulnerability by sending a crafted HTTP request containing directory traversal character sequences to an affected device. A successful exploit could allow the attacker to view arbitrary files within the web services file system on the targeted device. The web services file system is enabled when the affected device is configured with either WebVPN or AnyConnect features. This vulnerability cannot be used to obtain access to ASA or FTD system files or underlying operating system (OS) files.| 
 
@@ -102,6 +102,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210115T01:06:19Z | Tool to find potential backdoor/security holes in your endpoint | https://github.com/subasgit/backdoorfinder | 1 | 0| 
 | 20210114T22:07:50Z | Null | https://github.com/archandanime/SSH-persistent-backdoor | 0 | 0| 
 | 20210114T21:35:46Z | Oficial LeuxClan client | https://github.com/Gopro335/LeuxBackdoorLeaked | 0 | 0| 
 | 20210114T19:28:57Z | Arduino scrpts and meterpreter reverse_tcp backdoor with hid | https://github.com/Taewinzer/Arduino-backdoor-with-meterpreter | 0 | 0| 
@@ -111,22 +112,21 @@
 | 20210114T13:24:19Z | Null | https://github.com/Seokhwan-Kwon/Backdoor | 0 | 0| 
 | 20210114T11:59:45Z | A backdoor that runs on Linux and Windows | https://github.com/EiSiMo/Backdoor | 13 | 7| 
 | 20210114T10:18:11Z | Backdoor de shell reversa simples em C  | https://github.com/medn1c/reverse-shell | 1 | 0| 
-| 20210114T10:14:52Z | Hides the sethc.exe backdoor by faking the original window. | https://github.com/PGgamer2/sethc-backdoor-hider | 1 | 3| 
 
 
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210114T13:48:30Z | Null | https://github.com/LimeEng/magpie-fuzz | 0 | 0| 
-| 20210114T13:47:24Z | testing coddespaces | https://github.com/mokeseven7/fuzzy-train | 0 | 0| 
-| 20210114T13:40:49Z | ProFuzzBench - A Benchmark for Stateful Protocol Fuzzing | https://github.com/profuzzbench/profuzzbench | 8 | 2| 
-| 20210114T13:32:38Z | Null | https://github.com/Sentinel-One/efi_fuzz | 60 | 7| 
-| 20210114T13:18:35Z | Test scripts for fuzzing CVEs of libpng and binutils  with AFLGo. | https://github.com/springflo/test-aflgo | 1 | 1| 
-| 20210114T13:16:15Z | Fuzzer for Pharo | https://github.com/mabdi/phazzer | 0 | 0| 
-| 20210114T12:48:58Z | Fuzzy predictive controller for chaotic flows based on continuous signals Implementaion | https://github.com/javad-sheikh/Fuzzy-predictive-controller | 1 | 0| 
-| 20210114T12:34:36Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 3304 | 760| 
-| 20210114T11:46:10Z | Null | https://github.com/s9varesc/url-fuzzing-docker | 0 | 0| 
-| 20210114T11:36:21Z | C++ Fuzzy logic with ImGui interface | https://github.com/Renardjojo/FuzzyLogic | 0 | 0| 
+| 20210115T01:06:51Z | Null | https://github.com/mrfuzz12/FuzzCheat | 0 | 0| 
+| 20210115T00:59:18Z | FuzzBench - Fuzzer benchmarking as a service. | https://github.com/google/fuzzbench | 580 | 93| 
+| 20210115T00:42:41Z | ProFuzzBench - A Benchmark for Stateful Protocol Fuzzing | https://github.com/profuzzbench/profuzzbench | 14 | 2| 
+| 20210115T00:27:04Z | Null | https://github.com/marcelo749272/fuzzy-eureka | 0 | 0| 
+| 20210115T00:19:12Z | Fuzzy matching publications for fatcat (wip). | https://github.com/miku/fuzzycat | 1 | 1| 
+| 20210115T00:17:23Z | The Book %Generating Software Tests% | https://github.com/uds-se/fuzzingbook | 513 | 102| 
+| 20210114T23:42:20Z | FuzzBALL: Vine-based Binary Symbolic Execution | https://github.com/bitblaze-fuzzball/fuzzball | 202 | 52| 
+| 20210114T23:12:04Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 5790 | 1159| 
+| 20210114T22:56:59Z | REST API Fuzz Testing (RAFT): Source code for self-hosted service developed for Azure, including the API, orchestration engine, and default set of security tools (including MSR%s RESTler), that enables developers to embed security tooling into their CI/CD workflows | https://github.com/microsoft/rest-api-fuzz-testing | 88 | 11| 
+| 20210114T22:07:43Z | Null | https://github.com/zawolanski/fuzzy_numbers | 0 | 0| 
 
 
 
