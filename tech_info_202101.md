@@ -46,7 +46,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20210115T14:00:50Z | 未知编号 | 2020一些漏洞 | https://github.com/r0eXpeR/CVE-2020 | 未查询到CVE信息| 
+| 20210115T14:28:24Z | 未知编号 | 2020一些漏洞 | https://github.com/r0eXpeR/CVE-2020 | 未查询到CVE信息| 
 | 20210115T12:58:25Z | CVE-2020-6207 | PoC for CVE-2020-6207  (Missing Authentication Check in SAP Solution Manager) | https://github.com/chipik/SAP_EEM_CVE-2020-6207 | SAP Solution Manager (User Experience Monitoring), version- 7.2, due to Missing Authentication Check does not perform any authentication for a service resulting in complete compromise of all SMDAgents connected to the Solution Manager.| 
 | 20210115T10:52:00Z | CVE-2020-7961 | Exploit script for CVE-2020-7961 | https://github.com/ShutdownRepo/CVE-2020-7961 | Deserialization of Untrusted Data in Liferay Portal prior to 7.2.1 CE GA2 allows remote attackers to execute arbitrary code via JSON web services (JSONWS).| 
 | 20210115T10:09:05Z | CVE-2020-8165 | PoC for CVE-2020-8165 | https://github.com/progfay/CVE-2020-8165 | A deserialization of untrusted data vulnernerability exists in rails < 5.2.4.3, rails < 6.0.3.1 that can allow an attacker to unmarshal user-provided objects in MemCacheStore and RedisCacheStore potentially resulting in an RCE.| 
@@ -61,7 +61,8 @@
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210115T09:26:05Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1602 | 478| 
+| 20210115T14:31:53Z | RVT is a collection of tools/libraries to support both static and dynamic verification of Rust programs. | https://github.com/project-oak/rust-verification-tools | 101 | 6| 
+| 20210115T09:26:05Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1602 | 477| 
 | 20210114T11:41:18Z | Data-driven symbolic execution engine, implemented on top of KLEE | https://github.com/kupl/dd-klee | 0 | 1| 
 | 20210114T01:16:15Z | Null | https://github.com/thierry-tct/KLEE-SEMu | 2 | 1| 
 | 20210112T12:19:34Z | Null | https://github.com/viktorfrom/klee_tutorial | 0 | 0| 
@@ -70,7 +71,6 @@
 | 20210110T21:47:54Z | Kleene algebra, regular expressions | https://github.com/phadej/kleene | 26 | 1| 
 | 20210110T14:46:29Z | Null | https://github.com/Ankit1608/kleen | 0 | 0| 
 | 20210110T12:35:02Z | Null | https://github.com/nithinsai263/kleensecurity_react | 0 | 0| 
-| 20210110T01:43:39Z | Create CFGs and compute complexity metrics for Python, C++, and Java code. | https://github.com/hmc-alpaqa/metrinome | 5 | 0| 
 
 
 # s2e on Github 推荐
@@ -87,7 +87,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210115T13:57:34Z | Exploit Database binary exploits located in the /sploits directory | https://github.com/offensive-security/exploitdb-bin-sploits | 1373 | 492| 
+| 20210115T14:32:34Z | Exploit Database binary exploits located in the /sploits directory | https://github.com/offensive-security/exploitdb-bin-sploits | 1373 | 492| 
+| 20210115T14:16:42Z | The Structured Exploitation Blocker for minecraft (1.12.2) made to stop people from cheating in survival servers when they aren%t meant to | https://github.com/James-SSH/SEB_Mod | 0 | 0| 
 | 20210115T13:40:04Z | Repo for testing some exploits | https://github.com/RobertFent/exploits | 0 | 0| 
 | 20210115T13:39:14Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 8888 | 1411| 
 | 20210115T13:23:39Z | Simple Yocto layer implementing a virtual PPG kernel module and an application exploiting it to calculate the heart rate in bpm | https://github.com/Edward-Manca/meta-virtualppg | 0 | 0| 
@@ -96,14 +97,13 @@
 | 20210115T11:35:33Z | Prevent Books From Being Used As Weapons! | https://github.com/Cassinni4/No-Book-Exploits-MINECRAFT-PLUGIN- | 0 | 0| 
 | 20210115T11:20:23Z | a tool for creating exploited media files for discord | https://github.com/Schmenn/discord-exploits | 6 | 0| 
 | 20210115T10:58:38Z | This bash script will help you to hack remote hosts  | https://github.com/FabioDefilippo/linuxallremote | 2 | 1| 
-| 20210115T10:52:00Z | Exploit script for CVE-2020-7961 | https://github.com/ShutdownRepo/CVE-2020-7961 | 1 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210115T14:23:53Z | Null | https://github.com/Wiilldd/backdoor | 0 | 0| 
 | 20210115T14:01:02Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 148 | 22| 
-| 20210115T13:47:02Z | Null | https://github.com/Wiilldd/backdoor | 0 | 0| 
 | 20210115T13:26:32Z | Thefatrat a massive exploiting tool : Easy tool to generate backdoor and easy tool to post exploitation attack like browser attack and etc . This tool compiles a malware with popular payload and then the compiled malware can be execute on windows, android, mac . The malware that created with this tool also have an ability to bypass most AV software protection . | https://github.com/Screetsec/TheFatRat | 4888 | 1616| 
 | 20210115T13:13:45Z | a python backdoor with a lot of features | https://github.com/zenux-dev/backdoor | 0 | 0| 
 | 20210115T10:07:34Z | Null | https://github.com/rabbitx1337/backdoor | 0 | 0| 
