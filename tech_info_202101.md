@@ -6,6 +6,13 @@
 # 玄武实验室 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20210115 | 前段时间爆出 Apple 在新版本 macOS 网络防火墙中为自家 App 开绿灯的问题已被解决 | https://www.zdnet.com/article/apple-removes-feature-that-allowed-its-apps-to-bypass-macos-firewalls-and-vpns/| 
+| 20210115 | nsjail - Google 开源的一个 Linux 平台进程隔离工具 | https://github.com/google/nsjail| 
+| 20210115 | What is IOMMU and how it can be used? | https://blog.3mdeb.com/2021/2021-01-13-iommu/| 
+| 20210115 | 利用 VSCode 扩展实现 macOS Post-Exploitation 阶段的代码执行 | https://www.mdsec.co.uk/2021/01/macos-post-exploitation-shenanigans-with-vscode-extensions/| 
+| 20210115 | Everything Old is New Again: Binary Security of WebAssembly | https://www.usenix.org/system/files/sec20-lehmann.pdf| 
+| 20210115 | PlayStation 4 WebKit IP6_EXTHDR_CHECK Double Free 漏洞 | https://hackerone.com/reports/943231| 
+| 20210115 | XNU 内核 Hook 框架，基于 checkra1n pongoOS | https://github.com/jsherman212/xnuspy| 
 | 20210114 | 利用 Qiling 框架分析 DLINK DIR-645 路由器的缓冲区溢出漏洞 | https://github.com/nahueldsanchez/blogpost_qiling_dlink_2| 
 | 20210114 | Chrome 浏览器扩展 “The Great Suspender” 作者将该扩展卖给未知恶意组织 | https://github.com/greatsuspender/thegreatsuspender/issues/1263| 
 | 20210114 | bladeRF-wiphy - 一款开源的兼容 IEEE 802.11 协议的 SDR VHDL Modem | https://www.nuand.com/bladeRF-wiphy| 
@@ -19,49 +26,42 @@
 | 20210114 | Hunting for Bugs in Windows Mini-Filter Drivers | https://googleprojectzero.blogspot.com/2021/01/hunting-for-bugs-in-windows-mini-filter.html| 
 | 20210114 | ZDI 对最近一年漏洞收录情况的回顾 | https://www.thezdi.com/blog/2021/1/14/looking-back-at-the-zero-day-initiative-in-2020| 
 | 20210113 | Bypassing Windows protection mechanisms & Playing with OffensiveNim | https://s3cur3th1ssh1t.github.io/Playing-with-OffensiveNim/| 
-| 20210113 | PHP 框架 Laravel v8.4.2 版本调试模式 RCE 漏洞分析 | https://www.ambionics.io/blog/laravel-debug-rce| 
-| 20210113 | Practical Web Cache Poisoning | https://portswigger.net/research/practical-web-cache-poisoning| 
-| 20210113 | Firefox、Chrome 浏览器跨域窃取图片信息漏洞(CVE-2020-16012)分析 | https://blog.mozilla.org/attack-and-defense/2021/01/11/leaking-silhouettes-of-cross-origin-images/| 
-| 20210113 | Breaking The Browser – A tale of IPC, credentials and backdoors | https://www.mdsec.co.uk/2021/01/breaking-the-browser-a-tale-of-ipc-credentials-and-backdoors/| 
-| 20210113 | 微软发布 1 月份漏洞补丁公告，本次修复 10 个高危漏洞 | http://threatpost.com/critical-microsoft-defender-bug-exploited/162992/| 
-| 20210113 | Making Clouds Rain :: Remote Code Execution in Microsoft Office 365 | https://srcincite.io/blog/2021/01/12/making-clouds-rain-rce-in-office-365.html| 
-| 20210113 | Project Zero 新 Blog，介绍他们 2020 年春发现的野外攻击代码，经分析从中发现多个 0Day，覆盖 Windows、Android、Chrome 浏览器 | https://googleprojectzero.blogspot.com/2021/01/introducing-in-wild-series.html| 
 
 
 # 安全维基 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20210115 | 2020年勒索病毒疫情分析报告 | http://zt.360.cn/1101061855.php?dtid=1101062360&did=610740603| 
+| 20210115 | 初探 Python Flask+Jinja2 SSTI | https://www.anquanke.com/post/id/226900| 
+| 20210115 | BORG ：一个快速进化的僵尸网络 | https://security.tencent.com/index.php/blog/msg/175| 
+| 20210115 | 通过 OpenVPN 实现流量审计 | https://green-m.me//2021/01/12/audit-traffic-through-openvpn/| 
+| 20210115 | SharePoint Rce 系列分析（三） | https://mp.weixin.qq.com/s/Z2hDtlsu0zgKY8YWhDBS7g| 
+| 20210115 | SharePoint Rce 系列分析（二） | https://mp.weixin.qq.com/s/ZLSFXUoNNAFxqeiD9RpYZg| 
+| 20210115 | 浅谈绕过disable_functions的部分方法的原理 | https://www.anquanke.com/post/id/228712| 
+| 20210115 | JSON DataSet for macOS mapped to MITRE ATT&CK Tactics | https://github.com/sbousseaden/macOS-ATTACK-DATASET| 
+| 20210115 | Js文件追踪到未授权访问 | https://www.sec-in.com/article/806| 
 | 20210114 | Real World CTF 2020 DBaaSadge Writeup | https://www.hetianlab.com/specialized/20210112133159| 
-| 20210114 | Real World CTF 2020 DBaaSadge Writeup | https://www.hetianlab.com/specialized/20210112133159&pk_campaign=secwiki-wemedia| 
-| 20210114 | 在XML中测试Fastjson反序列化 | https://www.sec-in.com/article/810| 
-| 20210114 | 关于PDD员工发帖溯源联想到的相关技术与实现 | https://mp.weixin.qq.com/s/coRsNLMT_FAr6xSHwPgOUg| 
-| 20210114 | 公安部网安局公布一批网络黑产案例 | https://mp.weixin.qq.com/s/uXupT3yeeOA9NWVjQORgDQ| 
-| 20210113 | 重组 SUNBURST DNS 请求还原受害者域 | https://mp.weixin.qq.com/s/fZYmiTSuSErO1zCw2Czrww| 
-| 20210113 | 子域名枚举的艺术——主动子域枚举 | https://www.sec-in.com/article/793| 
-| 20210113 | 又一个流量代理扫描平台 | https://misakikata.github.io/2021/01/%E5%8F%88%E5%8F%92%E4%B8%80%E4%B8%AA%E4%BB%A3%E7%90%86%E6%89%AB%E6%8F%8F%E5%B9%B3%E5%8F%B0/| 
-| 20210113 | Vulnstack 3 域环境靶机实战 | https://www.hetianlab.com/specialized/20210108150244| 
-| 20210113 | 利用官网getshell | https://mp.weixin.qq.com/s?__biz=MjM5MTYxNjQxOA==&mid=2652867929&idx=1&sn=592912e06f9af6840c728990f1f88950&chksm=bd59f1948a2e78825e6524d4a599d6e0c3516cf77d7d526c2d036e576f5bebbc2bdee6ebb7c9&scene=178&cur_album_id=1351008152896192512#rd| 
 
 
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20210115T02:56:24Z | CVE-2020-6207 | PoC for CVE-2020-6207  (Missing Authentication Check in SAP Solution Manager) | https://github.com/chipik/SAP_EEM_CVE-2020-6207 | SAP Solution Manager (User Experience Monitoring), version- 7.2, due to Missing Authentication Check does not perform any authentication for a service resulting in complete compromise of all SMDAgents connected to the Solution Manager.| 
-| 20210115T02:48:38Z | 未知编号 | 2020一些漏洞 | https://github.com/r0eXpeR/CVE-2020 | 未查询到CVE信息| 
-| 20210114T21:24:59Z | CVE-2020-7200 | Null | https://github.com/alexfrancow/CVE-2020-7200 | A potential security vulnerability has been identified in HPE Systems Insight Manager (SIM) version 7.6. The vulnerability could be exploited to allow remote code execution.| 
-| 20210114T20:38:23Z | CVE-2020-7961 | Exploit script for CVE-2020-7961 | https://github.com/ShutdownRepo/CVE-2020-7961 | Deserialization of Untrusted Data in Liferay Portal prior to 7.2.1 CE GA2 allows remote attackers to execute arbitrary code via JSON web services (JSONWS).| 
-| 20210114T10:50:34Z | CVE-2020-17519 | CVE-2020-17519 EXP | https://github.com/radbsie/CVE-2020-17519-Exp | A change introduced in Apache Flink 1.11.0 (and released in 1.11.1 and 1.11.2 as well) allows attackers to read any file on the local filesystem of the JobManager through the REST interface of the JobManager process. Access is restricted to files accessible by the JobManager process. All users should upgrade to Flink 1.11.3 or 1.12.0 if their Flink instance(s) are exposed. The issue was fixed in commit b561010b0ee741543c3953306037f00d7a9f0801 from apache/flink:master.| 
-| 20210114T10:14:26Z | CVE-2020-27368 | SKYWORTH GN542VF Hardware Version 2.0 and Software Version 2.0.0.16 Directory Indexing Vulnerability | https://github.com/swzhouu/CVE-2020-27368 | Directory Indexing in Login Portal of Login Portal of TOTOLINK-A702R-V1.0.0-B20161227.1023 allows attacker to access /icons/ directories via GET Parameter.| 
-| 20210114T10:14:25Z | CVE-2020-26733 | SKYWORTH GN542VF Hardware Version 2.0 and Software Version 2.0.0.16 Cross Site Scripting (XSS) Vulnerability | https://github.com/swzhouu/CVE-2020-26733 | | 
-| 20210114T10:10:41Z | CVE-2020-26732 | Skyworth GN542VF Boa version 0.94.13 does not set the Secure flag for the session cookie in an HTTPS session | https://github.com/swzhouu/CVE-2020-26732 | Skyworth GN542VF Boa version 0.94.13 does not set the Secure flag for the session cookie in an HTTPS session, which makes it easier for remote attackers to capture this cookie by intercepting its transmission within an HTTP session.| 
-| 20210114T07:52:52Z | CVE-2021-3019 | lanproxy 目录遍历漏洞批量检测用户名密码POC (CVE-2021-3019) | https://github.com/liuxu54898/CVE-2021-3019 | ffay lanproxy 0.1 allows Directory Traversal to read /../conf/config.properties to obtain credentials for a connection to the intranet.| 
-| 20210114T02:38:21Z | CVE-2020-3452 | CISCO CVE-2020-3452 Scanner & Exploiter | https://github.com/darklotuskdb/CISCO-CVE-2020-3452-Scanner-Exploiter | A vulnerability in the web services interface of Cisco Adaptive Security Appliance (ASA) Software and Cisco Firepower Threat Defense (FTD) Software could allow an unauthenticated, remote attacker to conduct directory traversal attacks and read sensitive files on a targeted system. The vulnerability is due to a lack of proper input validation of URLs in HTTP requests processed by an affected device. An attacker could exploit this vulnerability by sending a crafted HTTP request containing directory traversal character sequences to an affected device. A successful exploit could allow the attacker to view arbitrary files within the web services file system on the targeted device. The web services file system is enabled when the affected device is configured with either WebVPN or AnyConnect features. This vulnerability cannot be used to obtain access to ASA or FTD system files or underlying operating system (OS) files.| 
+| 20210115T13:45:22Z | 未知编号 | 2020一些漏洞 | https://github.com/r0eXpeR/CVE-2020 | 未查询到CVE信息| 
+| 20210115T12:58:25Z | CVE-2020-6207 | PoC for CVE-2020-6207  (Missing Authentication Check in SAP Solution Manager) | https://github.com/chipik/SAP_EEM_CVE-2020-6207 | SAP Solution Manager (User Experience Monitoring), version- 7.2, due to Missing Authentication Check does not perform any authentication for a service resulting in complete compromise of all SMDAgents connected to the Solution Manager.| 
+| 20210115T10:52:00Z | CVE-2020-7961 | Exploit script for CVE-2020-7961 | https://github.com/ShutdownRepo/CVE-2020-7961 | Deserialization of Untrusted Data in Liferay Portal prior to 7.2.1 CE GA2 allows remote attackers to execute arbitrary code via JSON web services (JSONWS).| 
+| 20210115T10:09:05Z | CVE-2020-8165 | PoC for CVE-2020-8165 | https://github.com/progfay/CVE-2020-8165 | A deserialization of untrusted data vulnernerability exists in rails < 5.2.4.3, rails < 6.0.3.1 that can allow an attacker to unmarshal user-provided objects in MemCacheStore and RedisCacheStore potentially resulting in an RCE.| 
+| 20210115T09:07:12Z | 未知编号 | 2020l4web-campaign-DanCvejn created by GitHub Classroom | https://github.com/pslib-cz/2020l4web-campaign-DanCvejn | 未查询到CVE信息| 
+| 20210115T08:59:48Z | CVE-2020-13937 | Apache Kylin API未授权访问漏洞;CVE-2020-13937;Apache Kylin漏洞 | https://github.com/yaunsky/CVE-2020-13937 | Apache Kylin 2.0.0, 2.1.0, 2.2.0, 2.3.0, 2.3.1, 2.3.2, 2.4.0, 2.4.1, 2.5.0, 2.5.1, 2.5.2, 2.6.0, 2.6.1, 2.6.2, 2.6.3, 2.6.4, 2.6.5, 2.6.6, 3.0.0-alpha, 3.0.0-alpha2, 3.0.0-beta, 3.0.0, 3.0.1, 3.0.2, 3.1.0, 4.0.0-alpha has one restful api which exposed Kylin%s configuration information without any authentication, so it is dangerous because some confidential information entries will be disclosed to everyone.| 
+| 20210115T05:09:03Z | CVE-2020-27368 | SKYWORTH GN542VF Hardware Version 2.0 and Software Version 2.0.0.16 Directory Indexing Vulnerability | https://github.com/swzhouu/CVE-2020-27368 | Directory Indexing in Login Portal of Login Portal of TOTOLINK-A702R-V1.0.0-B20161227.1023 allows attacker to access /icons/ directories via GET Parameter.| 
+| 20210115T05:06:18Z | CVE-2020-26732 | Skyworth GN542VF Boa version 0.94.13 does not set the Secure flag for the session cookie in an HTTPS session | https://github.com/swzhouu/CVE-2020-26732 | Skyworth GN542VF Boa version 0.94.13 does not set the Secure flag for the session cookie in an HTTPS session, which makes it easier for remote attackers to capture this cookie by intercepting its transmission within an HTTP session.| 
+| 20210115T05:06:07Z | CVE-2020-26733 | SKYWORTH GN542VF Hardware Version 2.0 and Software Version 2.0.0.16 Cross Site Scripting (XSS) Vulnerability | https://github.com/swzhouu/CVE-2020-26733 | Cross Site Scripting (XSS) in Configuration page in SKYWORTH GN542VF Hardware Version 2.0 and Software Version 2.0.0.16 allows authenticated attacker to inject their own script into the page via DDNS Configuration Section.| 
+| 20210115T04:44:41Z | CVE-2020-8165 | Null | https://github.com/AssassinUKG/CVE-2020-8165 | A deserialization of untrusted data vulnernerability exists in rails < 5.2.4.3, rails < 6.0.3.1 that can allow an attacker to unmarshal user-provided objects in MemCacheStore and RedisCacheStore potentially resulting in an RCE.| 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210115T00:16:32Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1601 | 479| 
+| 20210115T09:26:05Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1602 | 478| 
 | 20210114T11:41:18Z | Data-driven symbolic execution engine, implemented on top of KLEE | https://github.com/kupl/dd-klee | 0 | 1| 
 | 20210114T01:16:15Z | Null | https://github.com/thierry-tct/KLEE-SEMu | 2 | 1| 
 | 20210112T12:19:34Z | Null | https://github.com/viktorfrom/klee_tutorial | 0 | 0| 
@@ -87,46 +87,46 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210115T02:52:11Z | Delivering Exploits From Browsers Since 2021 | https://github.com/drifting-compass/ComeAlive | 0 | 0| 
-| 20210115T02:51:29Z | CuteNews 2.1.2 - CVE-2019-11447 Proof-Of-Concept | https://github.com/CRFSlick/CVE-2019-11447-POC | 2 | 3| 
-| 20210115T02:35:03Z | This tool is great for information gathering and post- exploitation | https://github.com/Cybercrack-bot/Cybercrack | 1 | 0| 
-| 20210115T02:33:08Z | Text multiclass classification project exploiting word-embedding and TF-IDF for vector representation of words. | https://github.com/paoloitaliani/Text-Classification | 0 | 0| 
-| 20210115T02:06:34Z | An attack/exploit Detector that utilizes Polymorphism and Diversity | https://github.com/polyverse/zerotect | 21 | 1| 
-| 20210115T01:55:37Z | A collection of software bug types and articles showcasing the hunt for and exploitation of them. | https://github.com/HackOvert/awesome-bugs | 2 | 0| 
-| 20210115T00:53:09Z | Vulnerabilities% Risk of Exploitation | https://github.com/thiagofigcosta/V-REx | 0 | 0| 
-| 20210115T00:49:44Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 7 | 4| 
-| 20210115T00:24:50Z | A collection of tools used for exploiting Active Directory and Kerberos. | https://github.com/Pheelbert/ad_exploit_tools | 0 | 0| 
-| 20210114T23:42:15Z | A post exploitation framework designed to operate covertly on heavily monitored environments | https://github.com/bats3c/shad0w | 1090 | 176| 
+| 20210115T13:42:33Z | Exploit Database binary exploits located in the /sploits directory | https://github.com/offensive-security/exploitdb-bin-sploits | 1373 | 492| 
+| 20210115T13:40:04Z | Repo for testing some exploits | https://github.com/RobertFent/exploits | 0 | 0| 
+| 20210115T13:39:14Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 8888 | 1411| 
+| 20210115T13:23:39Z | Simple Yocto layer implementing a virtual PPG kernel module and an application exploiting it to calculate the heart rate in bpm | https://github.com/Edward-Manca/meta-virtualppg | 0 | 0| 
+| 20210115T13:05:33Z | Null | https://github.com/TheGhosterYTttv/GhostExploitLoadCheck | 0 | 0| 
+| 20210115T11:48:06Z | This tool is great for information gathering and post- exploitation | https://github.com/Cybercrack-bot/Cybercrack | 1 | 0| 
+| 20210115T11:35:33Z | Prevent Books From Being Used As Weapons! | https://github.com/Cassinni4/No-Book-Exploits-MINECRAFT-PLUGIN- | 0 | 0| 
+| 20210115T11:20:23Z | a tool for creating exploited media files for discord | https://github.com/Schmenn/discord-exploits | 6 | 0| 
+| 20210115T10:58:38Z | This bash script will help you to hack remote hosts  | https://github.com/FabioDefilippo/linuxallremote | 2 | 1| 
+| 20210115T10:52:00Z | Exploit script for CVE-2020-7961 | https://github.com/ShutdownRepo/CVE-2020-7961 | 1 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210115T02:52:26Z | Thefatrat a massive exploiting tool : Easy tool to generate backdoor and easy tool to post exploitation attack like browser attack and etc . This tool compiles a malware with popular payload and then the compiled malware can be execute on windows, android, mac . The malware that created with this tool also have an ability to bypass most AV software protection . | https://github.com/Screetsec/TheFatRat | 4887 | 1615| 
+| 20210115T13:47:02Z | Null | https://github.com/Wiilldd/backdoor | 0 | 0| 
+| 20210115T13:26:32Z | Thefatrat a massive exploiting tool : Easy tool to generate backdoor and easy tool to post exploitation attack like browser attack and etc . This tool compiles a malware with popular payload and then the compiled malware can be execute on windows, android, mac . The malware that created with this tool also have an ability to bypass most AV software protection . | https://github.com/Screetsec/TheFatRat | 4888 | 1616| 
+| 20210115T13:13:45Z | a python backdoor with a lot of features | https://github.com/zenux-dev/backdoor | 0 | 0| 
+| 20210115T10:07:34Z | Null | https://github.com/rabbitx1337/backdoor | 0 | 0| 
+| 20210115T09:05:22Z | Backdoors Framework for Deep Learning and Federated Learning. A light-weight tool to conduct your research on backdoors. | https://github.com/ebagdasa/backdoors101 | 45 | 8| 
 | 20210115T02:20:44Z | Null | https://github.com/SEUEvan/Backdoor_NLP | 0 | 0| 
 | 20210115T01:06:19Z | Tool to find potential backdoor/security holes in your endpoint | https://github.com/subasgit/backdoorfinder | 1 | 0| 
 | 20210114T22:07:50Z | Null | https://github.com/archandanime/SSH-persistent-backdoor | 0 | 0| 
 | 20210114T21:35:46Z | Oficial LeuxClan client | https://github.com/Gopro335/LeuxBackdoorLeaked | 0 | 0| 
 | 20210114T19:28:57Z | Arduino scrpts and meterpreter reverse_tcp backdoor with hid | https://github.com/Taewinzer/Arduino-backdoor-with-meterpreter | 0 | 0| 
-| 20210114T19:07:38Z | Toybox with Exploits, Payloads, Backdoors, Virues, Rootkits and More | https://github.com/Hawk-Hacker/Hawk-Toybox | 0 | 0| 
-| 20210114T14:31:05Z | I have heavily updated the Cloud 9 JavaScript BotNet  Old features:      FTP flood     Cookie stealing     Keylogging     Send POST requests     Flood POST requests     Evaluate JavaScript Code     Silently load webpages     Clickjacking (iframe follow mouse)   New features:      Layer 4 / Layer 7 hybrid attack (random min-max size POST flood)     Formgrabber fixed (I think)     Now has config file     Now has bots online list     OS detection added     Panel is much more sleek     You no longer get negative bots when bots repeatedly disconnect or some glitch happens     RFI scanner added     Added ability to send shellshock exploits     You can now open pop-unders     Non-DDoS commands run only once     Many security updates to the panel   The features are: Code Stealerz:     cookie     clipboard  Money makerz:     view*[url]*     jack*[iframe]*[width]*[height]*     popunder*[url]*  DDoS Methodz:     load*[target url]*[milliseconds between requests]*     floodpost*[target url]*[params]*[milliseconds between requests]*     glype*[target url]*[glype list url]*[milliseconds between requests]*     antiddos*[target url]*[milliseconds between requests]*     layer4*[target url]*[minSize-maxSize]*[milliseconds between requests]*  Exploitz:     exploit*[exe url]*     rfiscanner*[target url]*[backdoor url]*[rfi vuln list url]*     sendshellshock*[target url]*[command]*  Misc:     md5*[hash]*[brute length]*[brute alphabet]*     sha1*[hash]*[brute length]*[brute alphabet]*     post*[url]*[params]*     eval*[javascript code]*  Always running:     Multi-Language Web Keylogger     Form Grabber   Here is the download link to the botnet (all updates will be here): http://robl0x.cf/cloud9-latest.zip  Mirror (will also be updated): http://boatnet.us/Archive/Botnet%20Files...latest.zip   Unzip the folder on you server Then edit campaign.js and set master to your servers IP Edit admin/panel4829.php and set a new username and password for the cnc panel  One way of getting tons of browsers on your net use traffic exchange sites like hitleap.com or 10khits.com  To FTP flood use this command: Code load*ftp://website.com:80/*0* That command will exhaust all of the connections on a webserver with only a few browsers  All keylogs that are recorded are sent once the page is closed for stealth    To infect a page simply put this html on it: http://pastebin.com/ZAvqJZD8  the first inject is reccommended but it only works if a <head> tag exists on the page.    Then whoever visits the page will be on the botnet for as long as they are on the page.  I suggest putting a movie on the page so people will stay on the botnet for longer. (Good for ddos attacks)  For those of you who dont know the purposes of this botnet are:      Website monitoring     Ad clicks amd views     Getting facebook likes (via clickjacking)     Distributed hash cracking     Distributed Denial of Service (DDoS)     Data stealing     IP grabbing     Exploiting servers     and many more!   Here is a picture of an active Cloud 9 botnet with 23 clients (this was before OS detection was added) Spoiler (Click to View)  Hope you all love the update! If you have any suggestions for new features send me a PM and I should reply in 1-3 days  Here is how to set it up: Code You need to change the master variable in campaign.js to something like this:  var master = %http://yoursiteorip%;  Also change the connection key for security.  var connectKey = %randomshithere%;  Also be sure to edit config.php and change the connection key to the one in campaign.js  Also in the config it is reccommended that you change the location of the log files and other file locations etc. Be sure to rename/move the files to the places you specified in the config.  Once you are done those things obfuscate your campaign.js using this JavaScript obfuscator (or a different one) http://javascriptobfuscator.com/Javascript-Obfuscator.aspx  That will protect your campaign.js from people figuring out what it is. | https://github.com/x1234xx/CLOUD-9-JAVASCRIPT-BOTNET-VERSION-2.0 | 0 | 0| 
-| 20210114T13:24:19Z | Null | https://github.com/Seokhwan-Kwon/Backdoor | 0 | 0| 
-| 20210114T11:59:45Z | A backdoor that runs on Linux and Windows | https://github.com/EiSiMo/Backdoor | 13 | 7| 
 
 
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210115T02:49:40Z | Fuzzing cryptographic libraries. Magic bug printer go brrrr. | https://github.com/guidovranken/cryptofuzz | 230 | 31| 
-| 20210115T02:48:25Z | ProFuzzBench - A Benchmark for Stateful Protocol Fuzzing | https://github.com/profuzzbench/profuzzbench | 17 | 4| 
-| 20210115T02:11:54Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 5790 | 1159| 
-| 20210115T02:05:34Z | Rtkaller is an unsupervised coverage-guided kernel fuzzer for RTOS fuzzing. | https://github.com/Rtkaller/Rtkaller | 0 | 0| 
-| 20210115T01:06:51Z | Null | https://github.com/mrfuzz12/FuzzCheat | 0 | 0| 
-| 20210115T00:59:18Z | FuzzBench - Fuzzer benchmarking as a service. | https://github.com/google/fuzzbench | 580 | 93| 
-| 20210115T00:27:04Z | Null | https://github.com/marcelo749272/fuzzy-eureka | 0 | 0| 
-| 20210115T00:19:12Z | Fuzzy matching publications for fatcat (wip). | https://github.com/miku/fuzzycat | 1 | 1| 
-| 20210115T00:17:23Z | The Book %Generating Software Tests% | https://github.com/uds-se/fuzzingbook | 513 | 102| 
-| 20210114T23:42:20Z | FuzzBALL: Vine-based Binary Symbolic Execution | https://github.com/bitblaze-fuzzball/fuzzball | 202 | 52| 
+| 20210115T13:44:41Z | Null | https://github.com/s9varesc/url-fuzzing-docker | 0 | 0| 
+| 20210115T13:06:26Z | Null | https://github.com/7evy/Fuzzy_Queries | 0 | 0| 
+| 20210115T13:04:56Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 5792 | 1159| 
+| 20210115T12:24:47Z | Null | https://github.com/T-Jinhao/UploadFuzzer | 0 | 0| 
+| 20210115T12:21:09Z | Rockyou for web fuzzing | https://github.com/six2dez/OneListForAll | 156 | 30| 
+| 20210115T11:58:26Z | Fake News Detection, Repository. | https://github.com/hrs2203/fuzzy-pancake | 0 | 0| 
+| 20210115T11:43:35Z | A fuzzer that generates random Go programs | https://github.com/ALTree/microsmith | 6 | 0| 
+| 20210115T11:02:14Z | A JavaScript Engine Fuzzer | https://github.com/googleprojectzero/fuzzilli | 1126 | 194| 
+| 20210115T10:31:37Z | This program analyses and tests compiled binaries to determine if a possible vulnerability exists. Currently works with json, xml, csv and plaintext inputs. | https://github.com/Multifactored/6447-Binary-Fuzzer | 2 | 1| 
+| 20210115T10:15:57Z | Fuzzing cryptographic libraries. Magic bug printer go brrrr. | https://github.com/guidovranken/cryptofuzz | 230 | 31| 
 
 
 
