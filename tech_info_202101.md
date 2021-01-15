@@ -46,12 +46,12 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20210115T02:02:32Z | 未知编号 | 2020一些漏洞 | https://github.com/r0eXpeR/CVE-2020 | 未查询到CVE信息| 
-| 20210114T21:24:59Z | CVE-2020-7200 | Null | https://github.com/alexfrancow/CVE-2020-7200 | | 
-| 20210114T20:38:23Z | CVE-2020-7961 | Exploit script for CVE-2020-7961 | https://github.com/ShutdownRepo/CVE-2020-7961 | Deserialization of Untrusted Data in Liferay Portal prior to 7.2.1 CE GA2 allows remote attackers to execute arbitrary code via JSON web services (JSONWS).| 
+| 20210115T02:11:33Z | 未知编号 | 2020一些漏洞 | https://github.com/r0eXpeR/CVE-2020 | 未查询到CVE信息| 
+| 20210114T21:24:59Z | CVE-2020-7200 | Null | https://github.com/alexfrancow/CVE-2020-7200 | A potential security vulnerability has been identified in HPE Systems Insight Manager (SIM) version 7.6. The vulnerability could be exploited to allow remote code execution.| 
+| 20210114T20:38:23Z | CVE-2020-7961 | Exploit script for CVE-2020-7961 | https://github.com/ShutdownRepo/CVE-2020-7961 | | 
 | 20210114T15:43:05Z | CVE-2020-6207 | PoC for CVE-2020-6207  (Missing Authentication Check in SAP Solution Manager) | https://github.com/chipik/SAP_EEM_CVE-2020-6207 | SAP Solution Manager (User Experience Monitoring), version- 7.2, due to Missing Authentication Check does not perform any authentication for a service resulting in complete compromise of all SMDAgents connected to the Solution Manager.| 
 | 20210114T10:50:34Z | CVE-2020-17519 | CVE-2020-17519 EXP | https://github.com/radbsie/CVE-2020-17519-Exp | A change introduced in Apache Flink 1.11.0 (and released in 1.11.1 and 1.11.2 as well) allows attackers to read any file on the local filesystem of the JobManager through the REST interface of the JobManager process. Access is restricted to files accessible by the JobManager process. All users should upgrade to Flink 1.11.3 or 1.12.0 if their Flink instance(s) are exposed. The issue was fixed in commit b561010b0ee741543c3953306037f00d7a9f0801 from apache/flink:master.| 
-| 20210114T10:14:26Z | CVE-2020-27368 | SKYWORTH GN542VF Hardware Version 2.0 and Software Version 2.0.0.16 Directory Indexing Vulnerability | https://github.com/swzhouu/CVE-2020-27368 | | 
+| 20210114T10:14:26Z | CVE-2020-27368 | SKYWORTH GN542VF Hardware Version 2.0 and Software Version 2.0.0.16 Directory Indexing Vulnerability | https://github.com/swzhouu/CVE-2020-27368 | Directory Indexing in Login Portal of Login Portal of TOTOLINK-A702R-V1.0.0-B20161227.1023 allows attacker to access /icons/ directories via GET Parameter.| 
 | 20210114T10:14:25Z | CVE-2020-26733 | SKYWORTH GN542VF Hardware Version 2.0 and Software Version 2.0.0.16 Cross Site Scripting (XSS) Vulnerability | https://github.com/swzhouu/CVE-2020-26733 | Cross Site Scripting (XSS) in Configuration page in SKYWORTH GN542VF Hardware Version 2.0 and Software Version 2.0.0.16 allows authenticated attacker to inject their own script into the page via DDNS Configuration Section.| 
 | 20210114T10:10:41Z | CVE-2020-26732 | Skyworth GN542VF Boa version 0.94.13 does not set the Secure flag for the session cookie in an HTTPS session | https://github.com/swzhouu/CVE-2020-26732 | Skyworth GN542VF Boa version 0.94.13 does not set the Secure flag for the session cookie in an HTTPS session, which makes it easier for remote attackers to capture this cookie by intercepting its transmission within an HTTP session.| 
 | 20210114T07:52:52Z | CVE-2021-3019 | lanproxy 目录遍历漏洞批量检测用户名密码POC (CVE-2021-3019) | https://github.com/liuxu54898/CVE-2021-3019 | ffay lanproxy 0.1 allows Directory Traversal to read /../conf/config.properties to obtain credentials for a connection to the intranet.| 
@@ -117,6 +117,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210115T02:11:54Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 5790 | 1159| 
 | 20210115T02:05:34Z | Rtkaller is an unsupervised coverage-guided kernel fuzzer for RTOS fuzzing. | https://github.com/Rtkaller/Rtkaller | 0 | 0| 
 | 20210115T01:06:51Z | Null | https://github.com/mrfuzz12/FuzzCheat | 0 | 0| 
 | 20210115T00:59:18Z | FuzzBench - Fuzzer benchmarking as a service. | https://github.com/google/fuzzbench | 580 | 93| 
@@ -125,7 +126,6 @@
 | 20210115T00:19:12Z | Fuzzy matching publications for fatcat (wip). | https://github.com/miku/fuzzycat | 1 | 1| 
 | 20210115T00:17:23Z | The Book %Generating Software Tests% | https://github.com/uds-se/fuzzingbook | 513 | 102| 
 | 20210114T23:42:20Z | FuzzBALL: Vine-based Binary Symbolic Execution | https://github.com/bitblaze-fuzzball/fuzzball | 202 | 52| 
-| 20210114T23:12:04Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 5790 | 1159| 
 | 20210114T22:56:59Z | REST API Fuzz Testing (RAFT): Source code for self-hosted service developed for Azure, including the API, orchestration engine, and default set of security tools (including MSR%s RESTler), that enables developers to embed security tooling into their CI/CD workflows | https://github.com/microsoft/rest-api-fuzz-testing | 88 | 11| 
 
 
