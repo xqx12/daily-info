@@ -87,6 +87,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210115T01:41:42Z | An attack/exploit Detector that utilizes Polymorphism and Diversity | https://github.com/polyverse/zerotect | 21 | 1| 
 | 20210115T00:53:09Z | Vulnerabilities% Risk of Exploitation | https://github.com/thiagofigcosta/V-REx | 0 | 0| 
 | 20210115T00:49:44Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 7 | 4| 
 | 20210115T00:24:50Z | A collection of tools used for exploiting Active Directory and Kerberos. | https://github.com/Pheelbert/ad_exploit_tools | 0 | 0| 
@@ -96,7 +97,6 @@
 | 20210114T23:17:34Z | Exploit Database binary exploits located in the /sploits directory | https://github.com/offensive-security/exploitdb-bin-sploits | 1373 | 492| 
 | 20210114T22:38:19Z | A series of CTF/hacking challenge solutions for binary exploitation(or pwn)/reverse engineering/vulnerability research/memory corruption(or whatever term you use) | https://github.com/docfate111/binary-exploitation-solution-scripts | 0 | 0| 
 | 20210114T22:34:57Z | A number of exploits and tools I%ve written for CVEs accredited to Marshall Whittaker/oxagast | https://github.com/oxagast/oxasploits | 4 | 1| 
-| 20210114T22:28:39Z | fix exploits on anarchy server | https://github.com/moom0o/AnarchyExploitFixes | 9 | 4| 
 
 
 # backdoor on Github 推荐
