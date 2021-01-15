@@ -46,7 +46,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20210115T01:28:08Z | 未知编号 | 2020一些漏洞 | https://github.com/r0eXpeR/CVE-2020 | 未查询到CVE信息| 
+| 20210115T01:37:45Z | 未知编号 | 2020一些漏洞 | https://github.com/r0eXpeR/CVE-2020 | 未查询到CVE信息| 
 | 20210114T21:24:59Z | CVE-2020-7200 | Null | https://github.com/alexfrancow/CVE-2020-7200 | A potential security vulnerability has been identified in HPE Systems Insight Manager (SIM) version 7.6. The vulnerability could be exploited to allow remote code execution.| 
 | 20210114T20:38:23Z | CVE-2020-7961 | Exploit script for CVE-2020-7961 | https://github.com/ShutdownRepo/CVE-2020-7961 | Deserialization of Untrusted Data in Liferay Portal prior to 7.2.1 CE GA2 allows remote attackers to execute arbitrary code via JSON web services (JSONWS).| 
 | 20210114T15:43:05Z | CVE-2020-6207 | PoC for CVE-2020-6207  (Missing Authentication Check in SAP Solution Manager) | https://github.com/chipik/SAP_EEM_CVE-2020-6207 | SAP Solution Manager (User Experience Monitoring), version- 7.2, due to Missing Authentication Check does not perform any authentication for a service resulting in complete compromise of all SMDAgents connected to the Solution Manager.| 
@@ -117,7 +117,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210115T01:11:09Z | Rtkaller is an unsupervised coverage-guided kernel fuzzer for RTOS fuzzing. | https://github.com/Rtkaller/Rtkaller | 0 | 0| 
+| 20210115T01:30:30Z | Rtkaller is an unsupervised coverage-guided kernel fuzzer for RTOS fuzzing. | https://github.com/Rtkaller/Rtkaller | 0 | 0| 
 | 20210115T01:06:51Z | Null | https://github.com/mrfuzz12/FuzzCheat | 0 | 0| 
 | 20210115T00:59:18Z | FuzzBench - Fuzzer benchmarking as a service. | https://github.com/google/fuzzbench | 580 | 93| 
 | 20210115T00:42:41Z | ProFuzzBench - A Benchmark for Stateful Protocol Fuzzing | https://github.com/profuzzbench/profuzzbench | 14 | 3| 
