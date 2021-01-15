@@ -46,8 +46,8 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20210115T02:24:21Z | 未知编号 | 2020一些漏洞 | https://github.com/r0eXpeR/CVE-2020 | | 
-| 20210114T21:24:59Z | CVE-2020-7200 | Null | https://github.com/alexfrancow/CVE-2020-7200 | A potential security vulnerability has been identified in HPE Systems Insight Manager (SIM) version 7.6. The vulnerability could be exploited to allow remote code execution.| 
+| 20210115T02:24:21Z | 未知编号 | 2020一些漏洞 | https://github.com/r0eXpeR/CVE-2020 | 未查询到CVE信息| 
+| 20210114T21:24:59Z | CVE-2020-7200 | Null | https://github.com/alexfrancow/CVE-2020-7200 | | 
 | 20210114T20:38:23Z | CVE-2020-7961 | Exploit script for CVE-2020-7961 | https://github.com/ShutdownRepo/CVE-2020-7961 | Deserialization of Untrusted Data in Liferay Portal prior to 7.2.1 CE GA2 allows remote attackers to execute arbitrary code via JSON web services (JSONWS).| 
 | 20210114T15:43:05Z | CVE-2020-6207 | PoC for CVE-2020-6207  (Missing Authentication Check in SAP Solution Manager) | https://github.com/chipik/SAP_EEM_CVE-2020-6207 | SAP Solution Manager (User Experience Monitoring), version- 7.2, due to Missing Authentication Check does not perform any authentication for a service resulting in complete compromise of all SMDAgents connected to the Solution Manager.| 
 | 20210114T10:50:34Z | CVE-2020-17519 | CVE-2020-17519 EXP | https://github.com/radbsie/CVE-2020-17519-Exp | A change introduced in Apache Flink 1.11.0 (and released in 1.11.1 and 1.11.2 as well) allows attackers to read any file on the local filesystem of the JobManager through the REST interface of the JobManager process. Access is restricted to files accessible by the JobManager process. All users should upgrade to Flink 1.11.3 or 1.12.0 if their Flink instance(s) are exposed. The issue was fixed in commit b561010b0ee741543c3953306037f00d7a9f0801 from apache/flink:master.| 
