@@ -102,6 +102,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210116T02:02:53Z | simple backdoor program | https://github.com/ry-valdriz/simple_backdoor | 0 | 0| 
 | 20210116T01:05:33Z | Thefatrat a massive exploiting tool : Easy tool to generate backdoor and easy tool to post exploitation attack like browser attack and etc . This tool compiles a malware with popular payload and then the compiled malware can be execute on windows, android, mac . The malware that created with this tool also have an ability to bypass most AV software protection . | https://github.com/Screetsec/TheFatRat | 4885 | 1618| 
 | 20210115T21:34:16Z | Tool to find potential backdoor/security holes in your endpoint | https://github.com/subasgit/backdoorfinder | 1 | 0| 
 | 20210115T21:10:46Z | Allows full access to the target system | https://github.com/maurya-bitlegacy/reverse-backdoor | 0 | 0| 
@@ -111,7 +112,6 @@
 | 20210115T13:13:45Z | a python backdoor with a lot of features | https://github.com/zenux-dev/backdoor | 0 | 0| 
 | 20210115T10:07:34Z | Null | https://github.com/rabbitx1337/backdoor | 0 | 0| 
 | 20210115T09:05:22Z | Backdoors Framework for Deep Learning and Federated Learning. A light-weight tool to conduct your research on backdoors. | https://github.com/ebagdasa/backdoors101 | 45 | 8| 
-| 20210115T02:20:44Z | Null | https://github.com/SEUEvan/Backdoor_NLP | 0 | 0| 
 
 
 # fuzz on Github 推荐
