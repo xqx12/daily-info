@@ -87,6 +87,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210116T13:45:39Z | A collection of more than 140+ tools, scripts, cheatsheets and other loots that I have developed over years for Red Teaming/Pentesting/IT Security audits purposes. Most of them came handy on at least one of my real-world engagements. | https://github.com/mgeeky/Penetration-Testing-Tools | 558 | 146| 
 | 20210116T13:44:02Z | CDK is an open-sourced container penetration toolkit, offering stable exploitation in different slimmed containers without any OS dependency. It comes with penetration tools and many powerful PoCs/EXPs helps you to escape container and takeover K8s cluster easily. | https://github.com/cdk-team/CDK | 312 | 48| 
 | 20210116T13:28:09Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 8895 | 1410| 
 | 20210116T13:21:25Z | webkit ios exploit | https://github.com/amirhacks/philipjailbreak.github.io | 0 | 0| 
@@ -96,7 +97,6 @@
 | 20210116T11:00:06Z | Implemented deterministic FrozenLake ‘grid world’ problem where Q-learning agent learned a defined policy to optimally navigate through the lake. Python was used to program two classes which setup the state and agent respectively. Q-values are set state-action pairs and the algorithm chooses an optimal action for the current state based on estimates of this value. The reward and next state for this action is observed which allows for the Q value to be updated. Over many epochs this algorithm can learn the best path to take for this problem as long as the strategy balances exploration and exploitation correctly. | https://github.com/ronanmmurphy/Q-Learning-Algorithm | 0 | 0| 
 | 20210116T10:29:17Z | Google API Exploit | https://github.com/Zo-Bro-23/GoogleApis | 0 | 0| 
 | 20210116T10:06:25Z | Windows Exploit Suggester - Next Generation | https://github.com/bitsadmin/wesng | 2117 | 338| 
-| 20210116T09:55:16Z | Python2 based Bufferoverflow scripts i developed while doing the Vulnhub box Netsart by Foxlox  | https://github.com/F-Masood/Exploiting_StackBased_BufferOverflows | 0 | 0| 
 
 
 # backdoor on Github 推荐
