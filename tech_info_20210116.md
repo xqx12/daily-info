@@ -34,6 +34,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210116T14:37:35Z | Exploit Database binary exploits located in the /sploits directory | https://github.com/offensive-security/exploitdb-bin-sploits | 1373 | 494| 
 | 20210116T14:00:25Z | CTF framework and exploit development library | https://github.com/Gallopsled/pwntools | 7434 | 1344| 
 | 20210116T13:45:39Z | A collection of more than 140+ tools, scripts, cheatsheets and other loots that I have developed over years for Red Teaming/Pentesting/IT Security audits purposes. Most of them came handy on at least one of my real-world engagements. | https://github.com/mgeeky/Penetration-Testing-Tools | 558 | 146| 
 | 20210116T13:44:02Z | CDK is an open-sourced container penetration toolkit, offering stable exploitation in different slimmed containers without any OS dependency. It comes with penetration tools and many powerful PoCs/EXPs helps you to escape container and takeover K8s cluster easily. | https://github.com/cdk-team/CDK | 312 | 48| 
@@ -43,7 +44,6 @@
 | 20210116T12:29:51Z | Exploiting CVE-2014-3153, AKA Towelroot. | https://github.com/elongl/CVE-2014-3153 | 0 | 0| 
 | 20210116T11:33:59Z | Null | https://github.com/0xbitx/android-exploit- | 1 | 0| 
 | 20210116T11:00:06Z | Implemented deterministic FrozenLake ‘grid world’ problem where Q-learning agent learned a defined policy to optimally navigate through the lake. Python was used to program two classes which setup the state and agent respectively. Q-values are set state-action pairs and the algorithm chooses an optimal action for the current state based on estimates of this value. The reward and next state for this action is observed which allows for the Q value to be updated. Over many epochs this algorithm can learn the best path to take for this problem as long as the strategy balances exploration and exploitation correctly. | https://github.com/ronanmmurphy/Q-Learning-Algorithm | 0 | 0| 
-| 20210116T10:29:17Z | Google API Exploit | https://github.com/Zo-Bro-23/GoogleApis | 0 | 0| 
 
 
 # backdoor on Github 推荐
