@@ -46,8 +46,8 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20210116T01:59:24Z | 未知编号 | 2020一些漏洞 | https://github.com/r0eXpeR/CVE-2020 | 未查询到CVE信息| 
-| 20210115T22:27:13Z | CVE-2020-6207 | PoC for CVE-2020-6207  (Missing Authentication Check in SAP Solution Manager) | https://github.com/chipik/SAP_EEM_CVE-2020-6207 | SAP Solution Manager (User Experience Monitoring), version- 7.2, due to Missing Authentication Check does not perform any authentication for a service resulting in complete compromise of all SMDAgents connected to the Solution Manager.| 
+| 20210116T11:47:25Z | 未知编号 | 2020一些漏洞 | https://github.com/r0eXpeR/CVE-2020 | 未查询到CVE信息| 
+| 20210116T05:27:51Z | CVE-2020-6207 | PoC for CVE-2020-6207  (Missing Authentication Check in SAP Solution Manager) | https://github.com/chipik/SAP_EEM_CVE-2020-6207 | SAP Solution Manager (User Experience Monitoring), version- 7.2, due to Missing Authentication Check does not perform any authentication for a service resulting in complete compromise of all SMDAgents connected to the Solution Manager.| 
 | 20210115T19:26:56Z | CVE-2020-7200 | Null | https://github.com/alexfrancow/CVE-2020-7200 | A potential security vulnerability has been identified in HPE Systems Insight Manager (SIM) version 7.6. The vulnerability could be exploited to allow remote code execution.| 
 | 20210115T18:12:09Z | CVE-2020-9484 | Apache Tomcat RCE (CVE-2020-9484) | https://github.com/Proxysec/-CVE-2020-9484 | When using Apache Tomcat versions 10.0.0-M1 to 10.0.0-M4, 9.0.0.M1 to 9.0.34, 8.5.0 to 8.5.54 and 7.0.0 to 7.0.103 if a) an attacker is able to control the contents and name of a file on the server; and b) the server is configured to use the PersistenceManager with a FileStore; and c) the PersistenceManager is configured with sessionAttributeValueClassNameFilter=%null% (the default unless a SecurityManager is used) or a sufficiently lax filter to allow the attacker provided object to be deserialized; and d) the attacker knows the relative file path from the storage location used by FileStore to the file the attacker has control over; then, using a specifically crafted request, the attacker will be able to trigger remote code execution via deserialization of the file under their control. Note that all of conditions a) to d) must be true for the attack to succeed.| 
 | 20210115T17:59:25Z | CVE-2020-9484 | Apache Tomcat RCE (CVE-2020-9484) | https://github.com/Proxysec/-CVE-2020-9484- | When using Apache Tomcat versions 10.0.0-M1 to 10.0.0-M4, 9.0.0.M1 to 9.0.34, 8.5.0 to 8.5.54 and 7.0.0 to 7.0.103 if a) an attacker is able to control the contents and name of a file on the server; and b) the server is configured to use the PersistenceManager with a FileStore; and c) the PersistenceManager is configured with sessionAttributeValueClassNameFilter=%null% (the default unless a SecurityManager is used) or a sufficiently lax filter to allow the attacker provided object to be deserialized; and d) the attacker knows the relative file path from the storage location used by FileStore to the file the attacker has control over; then, using a specifically crafted request, the attacker will be able to trigger remote code execution via deserialization of the file under their control. Note that all of conditions a) to d) must be true for the attack to succeed.| 
@@ -61,6 +61,7 @@
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210116T08:25:24Z | Null | https://github.com/LitRHap/klee-bot | 0 | 0| 
 | 20210115T14:31:53Z | RVT is a collection of tools/libraries to support both static and dynamic verification of Rust programs. | https://github.com/project-oak/rust-verification-tools | 101 | 6| 
 | 20210115T09:26:05Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1602 | 477| 
 | 20210114T11:41:18Z | Data-driven symbolic execution engine, implemented on top of KLEE | https://github.com/kupl/dd-klee | 0 | 1| 
@@ -70,7 +71,6 @@
 | 20210111T09:21:40Z | Null | https://github.com/markhakansson/klee-tutorial | 0 | 0| 
 | 20210110T21:47:54Z | Kleene algebra, regular expressions | https://github.com/phadej/kleene | 26 | 1| 
 | 20210110T14:46:29Z | Null | https://github.com/Ankit1608/kleen | 0 | 0| 
-| 20210110T12:35:02Z | Null | https://github.com/nithinsai263/kleensecurity_react | 0 | 0| 
 
 
 # s2e on Github 推荐
@@ -87,31 +87,31 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210116T03:14:49Z | This project is designed to express how to use Android MVVM architecture while exploiting the right practices. | https://github.com/mbobiosio/KotlinMVVMRetrofitRoom | 1 | 1| 
-| 20210116T03:12:02Z | fix exploits on anarchy server | https://github.com/moom0o/AnarchyExploitFixes | 9 | 4| 
-| 20210116T03:11:16Z | Vulnerabilities% Risk of Exploitation | https://github.com/thiagofigcosta/V-REx | 0 | 0| 
-| 20210116T03:10:44Z | Text multiclass classification project exploiting word-embedding and TF-IDF for vector representation of words. | https://github.com/paoloitaliani/Text-Classification | 0 | 0| 
-| 20210116T02:58:00Z | ExploitsX is a top-of-the-line constantly updated exploit fixer focused on patching bugs, lag glitches, and crash glitches for minecraft servers. It supports versions 1.8 through 1.17. | https://github.com/IzDaBait/ExploitsX | 5 | 2| 
-| 20210116T02:55:33Z | CDK is an open-sourced container penetration toolkit, offering stable exploitation in different slimmed containers without any OS dependency. It comes with penetration tools and many powerful PoCs/EXPs helps you to escape container and takeover K8s cluster easily. | https://github.com/cdk-team/CDK | 310 | 48| 
-| 20210116T02:52:34Z | Exploit Database binary exploits located in the /sploits directory | https://github.com/offensive-security/exploitdb-bin-sploits | 1373 | 494| 
-| 20210116T01:37:40Z | exploit-database-papers | https://github.com/offensive-security/exploitdb-papers | 277 | 39| 
-| 20210116T01:10:44Z | Silice is an open source language that simplifies writing algorithms fully exploiting FPGA architectures. | https://github.com/sylefeb/Silice | 412 | 31| 
-| 20210116T00:49:45Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 7 | 4| 
+| 20210116T12:54:24Z | This Repository contains the stuff related to windows Active directory environment exploitation | https://github.com/incredibleindishell/Windows-AD-environment-related | 101 | 26| 
+| 20210116T12:29:51Z | Exploiting CVE-2014-3153, AKA Towelroot. | https://github.com/elongl/CVE-2014-3153 | 0 | 0| 
+| 20210116T12:24:07Z | CDK is an open-sourced container penetration toolkit, offering stable exploitation in different slimmed containers without any OS dependency. It comes with penetration tools and many powerful PoCs/EXPs helps you to escape container and takeover K8s cluster easily. | https://github.com/cdk-team/CDK | 311 | 48| 
+| 20210116T11:50:14Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 8894 | 1410| 
+| 20210116T11:33:59Z | Null | https://github.com/0xbitx/android-exploit- | 1 | 0| 
+| 20210116T11:00:06Z | Implemented deterministic FrozenLake ‘grid world’ problem where Q-learning agent learned a defined policy to optimally navigate through the lake. Python was used to program two classes which setup the state and agent respectively. Q-values are set state-action pairs and the algorithm chooses an optimal action for the current state based on estimates of this value. The reward and next state for this action is observed which allows for the Q value to be updated. Over many epochs this algorithm can learn the best path to take for this problem as long as the strategy balances exploration and exploitation correctly. | https://github.com/ronanmmurphy/Q-Learning-Algorithm | 0 | 0| 
+| 20210116T10:41:03Z | webkit ios exploit | https://github.com/amirhacks/philipjailbreak.github.io | 0 | 0| 
+| 20210116T10:29:17Z | Google API Exploit | https://github.com/Zo-Bro-23/GoogleApis | 0 | 0| 
+| 20210116T10:06:25Z | Windows Exploit Suggester - Next Generation | https://github.com/bitsadmin/wesng | 2117 | 338| 
+| 20210116T09:55:16Z | Python2 based Bufferoverflow scripts i developed while doing the Vulnhub box Netsart by Foxlox  | https://github.com/F-Masood/Exploiting_StackBased_BufferOverflows | 0 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210116T11:27:04Z | Null | https://github.com/rabbitx1337/backdoor | 0 | 0| 
+| 20210116T11:09:17Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 150 | 22| 
+| 20210116T05:33:42Z | Thefatrat a massive exploiting tool : Easy tool to generate backdoor and easy tool to post exploitation attack like browser attack and etc . This tool compiles a malware with popular payload and then the compiled malware can be execute on windows, android, mac . The malware that created with this tool also have an ability to bypass most AV software protection . | https://github.com/Screetsec/TheFatRat | 4886 | 1618| 
+| 20210116T04:57:37Z | Null | https://github.com/Seokhwan-Kwon/Backdoor | 0 | 0| 
 | 20210116T02:06:57Z | simple backdoor program | https://github.com/ry-valdriz/simple_backdoor | 0 | 0| 
-| 20210116T01:05:33Z | Thefatrat a massive exploiting tool : Easy tool to generate backdoor and easy tool to post exploitation attack like browser attack and etc . This tool compiles a malware with popular payload and then the compiled malware can be execute on windows, android, mac . The malware that created with this tool also have an ability to bypass most AV software protection . | https://github.com/Screetsec/TheFatRat | 4885 | 1618| 
 | 20210115T21:34:16Z | Tool to find potential backdoor/security holes in your endpoint | https://github.com/subasgit/backdoorfinder | 1 | 0| 
 | 20210115T21:10:46Z | Allows full access to the target system | https://github.com/maurya-bitlegacy/reverse-backdoor | 0 | 0| 
 | 20210115T15:16:09Z | Null | https://github.com/EjHvorSerDuVildUdJim/backdoor | 0 | 0| 
 | 20210115T14:23:53Z | Null | https://github.com/Wiilldd/backdoor | 0 | 0| 
-| 20210115T14:01:02Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 148 | 22| 
 | 20210115T13:13:45Z | a python backdoor with a lot of features | https://github.com/zenux-dev/backdoor | 0 | 0| 
-| 20210115T10:07:34Z | Null | https://github.com/rabbitx1337/backdoor | 0 | 0| 
-| 20210115T09:05:22Z | Backdoors Framework for Deep Learning and Federated Learning. A light-weight tool to conduct your research on backdoors. | https://github.com/ebagdasa/backdoors101 | 45 | 8| 
 
 
 # fuzz on Github 推荐
