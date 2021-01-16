@@ -46,7 +46,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20210116T01:59:24Z | 未知编号 | 2020一些漏洞 | https://github.com/r0eXpeR/CVE-2020 | | 
+| 20210116T01:59:24Z | 未知编号 | 2020一些漏洞 | https://github.com/r0eXpeR/CVE-2020 | 未查询到CVE信息| 
 | 20210115T22:27:13Z | CVE-2020-6207 | PoC for CVE-2020-6207  (Missing Authentication Check in SAP Solution Manager) | https://github.com/chipik/SAP_EEM_CVE-2020-6207 | SAP Solution Manager (User Experience Monitoring), version- 7.2, due to Missing Authentication Check does not perform any authentication for a service resulting in complete compromise of all SMDAgents connected to the Solution Manager.| 
 | 20210115T19:26:56Z | CVE-2020-7200 | Null | https://github.com/alexfrancow/CVE-2020-7200 | A potential security vulnerability has been identified in HPE Systems Insight Manager (SIM) version 7.6. The vulnerability could be exploited to allow remote code execution.| 
 | 20210115T18:12:09Z | CVE-2020-9484 | Apache Tomcat RCE (CVE-2020-9484) | https://github.com/Proxysec/-CVE-2020-9484 | When using Apache Tomcat versions 10.0.0-M1 to 10.0.0-M4, 9.0.0.M1 to 9.0.34, 8.5.0 to 8.5.54 and 7.0.0 to 7.0.103 if a) an attacker is able to control the contents and name of a file on the server; and b) the server is configured to use the PersistenceManager with a FileStore; and c) the PersistenceManager is configured with sessionAttributeValueClassNameFilter=%null% (the default unless a SecurityManager is used) or a sufficiently lax filter to allow the attacker provided object to be deserialized; and d) the attacker knows the relative file path from the storage location used by FileStore to the file the attacker has control over; then, using a specifically crafted request, the attacker will be able to trigger remote code execution via deserialization of the file under their control. Note that all of conditions a) to d) must be true for the attack to succeed.| 
@@ -87,6 +87,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210116T02:44:02Z | Text multiclass classification project exploiting word-embedding and TF-IDF for vector representation of words. | https://github.com/paoloitaliani/Text-Classification | 0 | 0| 
 | 20210116T02:21:51Z | CDK is an open-sourced container penetration toolkit, offering stable exploitation in different slimmed containers without any OS dependency. It comes with penetration tools and many powerful PoCs/EXPs helps you to escape container and takeover K8s cluster easily. | https://github.com/cdk-team/CDK | 310 | 48| 
 | 20210116T01:43:11Z | fix exploits on anarchy server | https://github.com/moom0o/AnarchyExploitFixes | 9 | 4| 
 | 20210116T01:37:40Z | exploit-database-papers | https://github.com/offensive-security/exploitdb-papers | 277 | 39| 
@@ -96,7 +97,6 @@
 | 20210116T00:40:58Z | this is an open sourced exploit for anyone to use. it has an rgb mode and it has dual api support | https://github.com/gen40/Obidean | 0 | 0| 
 | 20210116T00:11:01Z | A series of CTF/hacking challenge solutions for binary exploitation(or pwn)/reverse engineering/vulnerability research/memory corruption(or whatever term you use) | https://github.com/docfate111/binary-exploitation-solution-scripts | 0 | 0| 
 | 20210116T00:04:54Z | EternalBlue suite remade in C/C++ which includes: MS17-010 Exploit, EternalBlue vulnerability detector, DoublePulsar detector and DoublePulsar Shellcode & DLL uploader | https://github.com/bhassani/EternalBlueC | 303 | 77| 
-| 20210116T00:04:18Z | A collection of tools used for exploiting Active Directory and Kerberos. | https://github.com/Pheelbert/ad_exploit_tools | 0 | 0| 
 
 
 # backdoor on Github 推荐
