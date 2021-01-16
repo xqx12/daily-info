@@ -48,7 +48,7 @@
 | --- | --- | --- | --- | ---| 
 | 20210115T22:36:07Z | 未知编号 | 2020一些漏洞 | https://github.com/r0eXpeR/CVE-2020 | 未查询到CVE信息| 
 | 20210115T22:27:13Z | CVE-2020-6207 | PoC for CVE-2020-6207  (Missing Authentication Check in SAP Solution Manager) | https://github.com/chipik/SAP_EEM_CVE-2020-6207 | SAP Solution Manager (User Experience Monitoring), version- 7.2, due to Missing Authentication Check does not perform any authentication for a service resulting in complete compromise of all SMDAgents connected to the Solution Manager.| 
-| 20210115T19:26:56Z | CVE-2020-7200 | Null | https://github.com/alexfrancow/CVE-2020-7200 | | 
+| 20210115T19:26:56Z | CVE-2020-7200 | Null | https://github.com/alexfrancow/CVE-2020-7200 | A potential security vulnerability has been identified in HPE Systems Insight Manager (SIM) version 7.6. The vulnerability could be exploited to allow remote code execution.| 
 | 20210115T18:12:09Z | CVE-2020-9484 | Apache Tomcat RCE (CVE-2020-9484) | https://github.com/Proxysec/-CVE-2020-9484 | When using Apache Tomcat versions 10.0.0-M1 to 10.0.0-M4, 9.0.0.M1 to 9.0.34, 8.5.0 to 8.5.54 and 7.0.0 to 7.0.103 if a) an attacker is able to control the contents and name of a file on the server; and b) the server is configured to use the PersistenceManager with a FileStore; and c) the PersistenceManager is configured with sessionAttributeValueClassNameFilter=%null% (the default unless a SecurityManager is used) or a sufficiently lax filter to allow the attacker provided object to be deserialized; and d) the attacker knows the relative file path from the storage location used by FileStore to the file the attacker has control over; then, using a specifically crafted request, the attacker will be able to trigger remote code execution via deserialization of the file under their control. Note that all of conditions a) to d) must be true for the attack to succeed.| 
 | 20210115T17:59:25Z | CVE-2020-9484 | Apache Tomcat RCE (CVE-2020-9484) | https://github.com/Proxysec/-CVE-2020-9484- | When using Apache Tomcat versions 10.0.0-M1 to 10.0.0-M4, 9.0.0.M1 to 9.0.34, 8.5.0 to 8.5.54 and 7.0.0 to 7.0.103 if a) an attacker is able to control the contents and name of a file on the server; and b) the server is configured to use the PersistenceManager with a FileStore; and c) the PersistenceManager is configured with sessionAttributeValueClassNameFilter=%null% (the default unless a SecurityManager is used) or a sufficiently lax filter to allow the attacker provided object to be deserialized; and d) the attacker knows the relative file path from the storage location used by FileStore to the file the attacker has control over; then, using a specifically crafted request, the attacker will be able to trigger remote code execution via deserialization of the file under their control. Note that all of conditions a) to d) must be true for the attack to succeed.| 
 | 20210115T15:12:42Z | CVE-2020-8165 | CVE-2020-8165 exploit automation | https://github.com/macosta-42/CVE-2020-8165 | A deserialization of untrusted data vulnernerability exists in rails < 5.2.4.3, rails < 6.0.3.1 that can allow an attacker to unmarshal user-provided objects in MemCacheStore and RedisCacheStore potentially resulting in an RCE.| 
@@ -87,6 +87,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210116T01:10:44Z | Silice is an open source language that simplifies writing algorithms fully exploiting FPGA architectures. | https://github.com/sylefeb/Silice | 412 | 31| 
 | 20210116T01:07:32Z | Exploit Database binary exploits located in the /sploits directory | https://github.com/offensive-security/exploitdb-bin-sploits | 1373 | 494| 
 | 20210116T00:49:45Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 7 | 4| 
 | 20210116T00:40:58Z | this is an open sourced exploit for anyone to use. it has an rgb mode and it has dual api support | https://github.com/gen40/Obidean | 0 | 0| 
@@ -96,7 +97,6 @@
 | 20210115T23:43:24Z | random stuff for exploit dev practice | https://github.com/C-Brown/exploit_dev_practice | 0 | 0| 
 | 20210115T23:36:57Z | A python package built by zachkaupp for use in various CTFs | https://github.com/zachkaupp/exploit_pack | 0 | 0| 
 | 20210115T23:23:57Z | Xiongmai Exploitation Toolkit | https://github.com/redcodefinal/xet | 3 | 0| 
-| 20210115T22:49:12Z | Null | https://github.com/shmueluzan/Exploit | 0 | 0| 
 
 
 # backdoor on Github 推荐
