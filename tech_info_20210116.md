@@ -59,14 +59,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210116T02:01:29Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2251 | 113| 
-| 20210116T02:01:05Z | Null | https://github.com/vasumv/bonsai-fuzzing | 0 | 0| 
-| 20210116T01:34:03Z | Null | https://github.com/LimeEng/magpie-fuzz | 0 | 0| 
-| 20210116T00:50:33Z | Fuzzy-search tool built for emacs-ng | https://github.com/DavidDeSimone/ng-fuzzy-search | 4 | 0| 
-| 20210116T00:26:02Z | Null | https://github.com/asdqw124/fuzzy-dollop213 | 0 | 0| 
-| 20210116T00:22:46Z | Null | https://github.com/asdqw124/fuzzy-dollop4234 | 0 | 0| 
-| 20210116T00:22:42Z | Null | https://github.com/asdqw124/fuzzy-dollop423 | 0 | 0| 
-| 20210116T00:22:40Z | Null | https://github.com/asdqw124/fuzzy-dollop | 0 | 0| 
+| 20210116T12:52:10Z | This tool uses fzf(1)-like fuzzy-finder to do partial or fuzzy search of Kubernetes resources. Instead of specifying full resource names to kubectl commands, you can choose them from an interactive list that you can filter by typing a few characters. | https://github.com/d-kuro/kubectl-fuzzy | 71 | 8| 
+| 20210116T12:03:11Z | Null | https://github.com/Hyorm/RA_fuzzing | 0 | 0| 
+| 20210116T11:46:20Z | Utility tool for using systemctl interactively | https://github.com/NullSense/fuzzy-sys | 46 | 1| 
+| 20210116T11:13:30Z | Search your tmux scrollback buffer using fzf | https://github.com/roosta/tmux-fuzzback | 0 | 0| 
+| 20210116T10:53:09Z | Dictionary collection project such as Pentesing, Fuzzing, Bruteforce and BugBounty. 渗透测试、SRC漏洞挖掘、爆破、Fuzzing等字典收集项目。 | https://github.com/insightglacier/Dictionary-Of-Pentesting | 417 | 100| 
+| 20210116T10:44:09Z | Null | https://github.com/s9varesc/url-fuzzing-docker | 0 | 0| 
+| 20210116T10:42:31Z | Un backlog pour avancer | https://github.com/violaine-web/fuzzy-memory | 0 | 0| 
+| 20210116T09:41:48Z | Fuzzy-search tool built for emacs-ng | https://github.com/DavidDeSimone/ng-fuzzy-search | 5 | 0| 
+| 20210116T09:41:07Z | Fuzzy Search Logic | https://github.com/faraazmalak/fuzzy-search | 0 | 0| 
+| 20210116T09:37:01Z | Null | https://github.com/T-Jinhao/UploadFuzzer | 0 | 0| 
 
 
 
