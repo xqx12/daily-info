@@ -18,7 +18,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20210116T05:27:51Z | CVE-2020-6207 | PoC for CVE-2020-6207  (Missing Authentication Check in SAP Solution Manager) | https://github.com/chipik/SAP_EEM_CVE-2020-6207 | | 
+| 20210116T05:27:51Z | CVE-2020-6207 | PoC for CVE-2020-6207  (Missing Authentication Check in SAP Solution Manager) | https://github.com/chipik/SAP_EEM_CVE-2020-6207 | SAP Solution Manager (User Experience Monitoring), version- 7.2, due to Missing Authentication Check does not perform any authentication for a service resulting in complete compromise of all SMDAgents connected to the Solution Manager.| 
 
 
 # klee on Github 推荐
@@ -63,16 +63,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210116T14:30:39Z | Fuzz your Rust code with Google-developed Honggfuzz ! | https://github.com/rust-fuzz/honggfuzz-rs | 213 | 19| 
-| 20210116T14:29:34Z | Dictionary collection project such as Pentesing, Fuzzing, Bruteforce and BugBounty. 渗透测试、SRC漏洞挖掘、爆破、Fuzzing等字典收集项目。 | https://github.com/insightglacier/Dictionary-Of-Pentesting | 418 | 100| 
-| 20210116T14:28:16Z | This tool uses fzf(1)-like fuzzy-finder to do partial or fuzzy search of Kubernetes resources. Instead of specifying full resource names to kubectl commands, you can choose them from an interactive list that you can filter by typing a few characters. | https://github.com/d-kuro/kubectl-fuzzy | 71 | 8| 
-| 20210116T13:18:18Z | 🔎📝(In Progress) Fuzzy Search Node API using RediSearch and Redis | https://github.com/ankeris/RediSearchFuzzy | 0 | 0| 
-| 20210116T12:03:11Z | Null | https://github.com/Hyorm/RA_fuzzing | 0 | 0| 
-| 20210116T11:46:20Z | Utility tool for using systemctl interactively | https://github.com/NullSense/fuzzy-sys | 46 | 1| 
-| 20210116T11:13:30Z | Search your tmux scrollback buffer using fzf | https://github.com/roosta/tmux-fuzzback | 0 | 0| 
-| 20210116T10:44:09Z | Null | https://github.com/s9varesc/url-fuzzing-docker | 0 | 0| 
-| 20210116T10:42:31Z | Un backlog pour avancer | https://github.com/violaine-web/fuzzy-memory | 0 | 0| 
-| 20210116T09:41:48Z | Fuzzy-search tool built for emacs-ng | https://github.com/DavidDeSimone/ng-fuzzy-search | 5 | 0| 
+| 20210116T23:46:03Z | Fuzzy charrs are fuzzy. | https://github.com/marenubium87/FuzzyCharr | 0 | 0| 
+| 20210116T23:41:37Z | Null | https://github.com/zawolanski/fuzzy_numbers | 0 | 0| 
+| 20210116T23:07:48Z | https://github.com/wcventure/FuzzingPaper | https://github.com/mishmashclone/wcventure-FuzzingPaper | 2 | 1| 
+| 20210116T22:46:10Z | Fuzzy TS optimisation based on genetic algorithm | https://github.com/jairpaulino/fuzzy-ts-opt | 0 | 0| 
+| 20210116T22:44:38Z | Gene Expression Programming Fuzzy Rules Data Sets | https://github.com/michalmadera/gep-fuzzy-rules-datasets | 0 | 0| 
+| 20210116T22:24:01Z | This bot is an community open source discord bot. | https://github.com/nimit2801/fuzzy-bones | 0 | 0| 
+| 20210116T22:20:13Z | Null | https://github.com/benita1394/fuzzy-computing-machine | 0 | 0| 
+| 20210116T21:30:26Z | Null | https://github.com/doganmustafa1994/Simulink_Fuzzy-PID | 0 | 0| 
+| 20210116T20:37:09Z | Software for fuzzing, used on web application pentestings. | https://github.com/NESCAU-UFLA/FuzzingTool | 4 | 1| 
+| 20210116T20:11:21Z | Null | https://github.com/ttrosvig/fuzzy-fox-photography | 0 | 0| 
 
 
 
