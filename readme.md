@@ -62,7 +62,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210117T12:59:24Z | Attila%s website on GitHub | https://github.com/viyek/fuzzy-engine | 0 | 0| 
+| 20210117T13:06:05Z | Attila%s website on GitHub | https://github.com/viyek/fuzzy-engine | 0 | 0| 
 | 20210117T12:30:49Z | Null | https://github.com/Dmenk123/fuzzy_ahp | 0 | 0| 
 | 20210117T11:12:55Z | Null | https://github.com/Krit-Creator/fuzzy-meme | 0 | 0| 
 | 20210117T10:59:45Z | Im gonna catch you!  | https://github.com/Violet28/fuzzy-winner | 0 | 0| 
