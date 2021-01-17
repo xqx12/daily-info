@@ -117,6 +117,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210117T01:40:09Z | P2P platform for publishing content, self-hosting, decentralized curation, and more. | https://github.com/FuzzrNet/Fuzzr | 11 | 2| 
 | 20210117T00:57:22Z | Null | https://github.com/annie92843/fuzzy-funicular | 0 | 0| 
 | 20210117T00:21:33Z | Fuzzing cryptographic libraries. Magic bug printer go brrrr. | https://github.com/guidovranken/cryptofuzz | 230 | 31| 
 | 20210116T23:46:03Z | Fuzzy charrs are fuzzy. | https://github.com/marenubium87/FuzzyCharr | 0 | 0| 
@@ -126,7 +127,6 @@
 | 20210116T22:44:38Z | Gene Expression Programming Fuzzy Rules Data Sets | https://github.com/michalmadera/gep-fuzzy-rules-datasets | 0 | 0| 
 | 20210116T22:24:01Z | This bot is an community open source discord bot. | https://github.com/nimit2801/fuzzy-bones | 0 | 0| 
 | 20210116T22:20:13Z | Null | https://github.com/benita1394/fuzzy-computing-machine | 0 | 0| 
-| 20210116T21:30:26Z | Null | https://github.com/doganmustafa1994/Simulink_Fuzzy-PID | 0 | 0| 
 
 
 
