@@ -47,7 +47,7 @@
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
 | 20210117T01:00:11Z | 未知编号 | 2020一些漏洞 | https://github.com/r0eXpeR/CVE-2020 | 未查询到CVE信息| 
-| 20210116T05:27:51Z | CVE-2020-6207 | PoC for CVE-2020-6207  (Missing Authentication Check in SAP Solution Manager) | https://github.com/chipik/SAP_EEM_CVE-2020-6207 | SAP Solution Manager (User Experience Monitoring), version- 7.2, due to Missing Authentication Check does not perform any authentication for a service resulting in complete compromise of all SMDAgents connected to the Solution Manager.| 
+| 20210116T05:27:51Z | CVE-2020-6207 | PoC for CVE-2020-6207  (Missing Authentication Check in SAP Solution Manager) | https://github.com/chipik/SAP_EEM_CVE-2020-6207 | | 
 | 20210115T19:26:56Z | CVE-2020-7200 | Null | https://github.com/alexfrancow/CVE-2020-7200 | A potential security vulnerability has been identified in HPE Systems Insight Manager (SIM) version 7.6. The vulnerability could be exploited to allow remote code execution.| 
 | 20210115T18:12:09Z | CVE-2020-9484 | Apache Tomcat RCE (CVE-2020-9484) | https://github.com/Proxysec/-CVE-2020-9484 | When using Apache Tomcat versions 10.0.0-M1 to 10.0.0-M4, 9.0.0.M1 to 9.0.34, 8.5.0 to 8.5.54 and 7.0.0 to 7.0.103 if a) an attacker is able to control the contents and name of a file on the server; and b) the server is configured to use the PersistenceManager with a FileStore; and c) the PersistenceManager is configured with sessionAttributeValueClassNameFilter=%null% (the default unless a SecurityManager is used) or a sufficiently lax filter to allow the attacker provided object to be deserialized; and d) the attacker knows the relative file path from the storage location used by FileStore to the file the attacker has control over; then, using a specifically crafted request, the attacker will be able to trigger remote code execution via deserialization of the file under their control. Note that all of conditions a) to d) must be true for the attack to succeed.| 
 | 20210115T17:59:25Z | CVE-2020-9484 | Apache Tomcat RCE (CVE-2020-9484) | https://github.com/Proxysec/-CVE-2020-9484- | When using Apache Tomcat versions 10.0.0-M1 to 10.0.0-M4, 9.0.0.M1 to 9.0.34, 8.5.0 to 8.5.54 and 7.0.0 to 7.0.103 if a) an attacker is able to control the contents and name of a file on the server; and b) the server is configured to use the PersistenceManager with a FileStore; and c) the PersistenceManager is configured with sessionAttributeValueClassNameFilter=%null% (the default unless a SecurityManager is used) or a sufficiently lax filter to allow the attacker provided object to be deserialized; and d) the attacker knows the relative file path from the storage location used by FileStore to the file the attacker has control over; then, using a specifically crafted request, the attacker will be able to trigger remote code execution via deserialization of the file under their control. Note that all of conditions a) to d) must be true for the attack to succeed.| 
@@ -87,6 +87,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210117T01:18:51Z | Text multiclass classification project exploiting word-embedding and TF-IDF for vector representation of words. | https://github.com/paoloitaliani/Text-Classification | 0 | 0| 
 | 20210117T01:11:11Z | random stuff for exploit dev practice | https://github.com/C-Brown/exploit_dev_practice | 0 | 0| 
 | 20210117T01:09:26Z | Exploitative Location using Structure inside Aisles  | https://github.com/karry3775/Elsia_ws | 0 | 0| 
 | 20210117T00:57:44Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 8898 | 1410| 
@@ -96,7 +97,6 @@
 | 20210116T23:46:41Z | DarkWare is a roblox exploit hub. | https://github.com/Yarik312/DarkWare | 1 | 0| 
 | 20210116T23:36:27Z | Thi powershell script has got to run in remote windows host, even for pivoting | https://github.com/FabioDefilippo/winallenum | 0 | 1| 
 | 20210116T23:29:23Z | A post exploitation framework designed to operate covertly on heavily monitored environments | https://github.com/bats3c/shad0w | 1097 | 177| 
-| 20210116T23:20:03Z | Post-exploitation tool for lateral movement | https://github.com/tmenochet/PowerExec | 0 | 0| 
 
 
 # backdoor on Github 推荐
