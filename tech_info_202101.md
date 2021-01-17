@@ -87,7 +87,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210117T13:10:20Z | Binary Exploitation | https://github.com/vishnukumar650/PwnSea | 3 | 0| 
+| 20210117T13:23:56Z | Binary Exploitation | https://github.com/vishnukumar650/PwnSea | 3 | 0| 
 | 20210117T12:54:21Z | linux post-exploitation framework made by linux user | https://github.com/jm33-m0/emp3r0r | 309 | 53| 
 | 20210117T12:43:50Z | Null | https://github.com/froscpi49/Moncsasco-Exploit | 0 | 0| 
 | 20210117T12:34:50Z | Thi powershell script has got to run in remote windows host, even for pivoting | https://github.com/FabioDefilippo/winallenum | 0 | 1| 
