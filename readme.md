@@ -17,6 +17,7 @@
 | 20210117 | 局域网监控软件WFilter ICF 鸡肋0day RCE漏洞挖掘 | https://drivertom.blogspot.com/2021/01/wfilter-icf-0day-rce.html| 
 | 20210117 | SecWiki安全周刊-年卷-2020 | https://mp.weixin.qq.com/s/pI495N48AYbA3gYkf4zlqQ| 
 | 20210117 | Netgear固件分析与后门植入 | https://mp.weixin.qq.com/s/o9v4V673ayyMTY1vGjveFg| 
+| 20210117 | incaseformat来袭，针对病毒进行分析 | https://mp.weixin.qq.com/s/EwExVZqmiLLZ5R3172d2wQ| 
 
 
 # CVE Github 推荐
