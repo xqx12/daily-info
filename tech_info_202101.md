@@ -31,29 +31,29 @@
 # 安全维基 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20210117 | 开源包托管服务存在的供应链安全问题 | https://mp.weixin.qq.com/s/DjfldjeqJY786nqdcsXzBg| 
+| 20210117 | Cobalt Strike4.0远控木马分析 | https://mp.weixin.qq.com/s/Sv0lR4G2eQf4_L8W4CqRYw| 
+| 20210117 | 深度探索：解除文件占用那些坑 | https://anhkgg.com/unlockfile/| 
+| 20210117 | 局域网监控软件WFilter ICF 鸡肋0day RCE漏洞挖掘 | https://drivertom.blogspot.com/2021/01/wfilter-icf-0day-rce.html| 
 | 20210116 | 基于机器学习的Web管理后台识别方法探索 | https://mp.weixin.qq.com/s/vccQcK2GNqWkGuxEGe22Zg| 
 | 20210116 | API安全测试方法论 | https://blog.csdn.net/bloodzero_new/article/details/112479328| 
 | 20210115 | 2020年勒索病毒疫情分析报告 | http://zt.360.cn/1101061855.php?dtid=1101062360&did=610740603| 
 | 20210115 | 初探 Python Flask+Jinja2 SSTI | https://www.anquanke.com/post/id/226900| 
 | 20210115 | BORG ：一个快速进化的僵尸网络 | https://security.tencent.com/index.php/blog/msg/175| 
 | 20210115 | 通过 OpenVPN 实现流量审计 | https://green-m.me//2021/01/12/audit-traffic-through-openvpn/| 
-| 20210115 | SharePoint Rce 系列分析（三） | https://mp.weixin.qq.com/s/Z2hDtlsu0zgKY8YWhDBS7g| 
-| 20210115 | SharePoint Rce 系列分析（二） | https://mp.weixin.qq.com/s/ZLSFXUoNNAFxqeiD9RpYZg| 
-| 20210115 | 浅谈绕过disable_functions的部分方法的原理 | https://www.anquanke.com/post/id/228712| 
-| 20210115 | JSON DataSet for macOS mapped to MITRE ATT&CK Tactics | https://github.com/sbousseaden/macOS-ATTACK-DATASET| 
 
 
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20210117T01:28:17Z | 未知编号 | 2020一些漏洞 | https://github.com/r0eXpeR/CVE-2020 | | 
+| 20210117T12:17:06Z | 未知编号 | 2020一些漏洞 | https://github.com/r0eXpeR/CVE-2020 | 未查询到CVE信息| 
 | 20210116T05:27:51Z | CVE-2020-6207 | PoC for CVE-2020-6207  (Missing Authentication Check in SAP Solution Manager) | https://github.com/chipik/SAP_EEM_CVE-2020-6207 | SAP Solution Manager (User Experience Monitoring), version- 7.2, due to Missing Authentication Check does not perform any authentication for a service resulting in complete compromise of all SMDAgents connected to the Solution Manager.| 
-| 20210115T19:26:56Z | CVE-2020-7200 | Null | https://github.com/alexfrancow/CVE-2020-7200 | A potential security vulnerability has been identified in HPE Systems Insight Manager (SIM) version 7.6. The vulnerability could be exploited to allow remote code execution.| 
-| 20210115T18:12:09Z | CVE-2020-9484 | Apache Tomcat RCE (CVE-2020-9484) | https://github.com/Proxysec/-CVE-2020-9484 | When using Apache Tomcat versions 10.0.0-M1 to 10.0.0-M4, 9.0.0.M1 to 9.0.34, 8.5.0 to 8.5.54 and 7.0.0 to 7.0.103 if a) an attacker is able to control the contents and name of a file on the server; and b) the server is configured to use the PersistenceManager with a FileStore; and c) the PersistenceManager is configured with sessionAttributeValueClassNameFilter=%null% (the default unless a SecurityManager is used) or a sufficiently lax filter to allow the attacker provided object to be deserialized; and d) the attacker knows the relative file path from the storage location used by FileStore to the file the attacker has control over; then, using a specifically crafted request, the attacker will be able to trigger remote code execution via deserialization of the file under their control. Note that all of conditions a) to d) must be true for the attack to succeed.| 
+| 20210115T19:26:56Z | CVE-2020-7200 | Null | https://github.com/alexfrancow/CVE-2020-7200 | | 
+| 20210115T18:12:09Z | CVE-2020-9484 | Apache Tomcat RCE (CVE-2020-9484) | https://github.com/Proxysec/-CVE-2020-9484 | | 
 | 20210115T17:59:25Z | CVE-2020-9484 | Apache Tomcat RCE (CVE-2020-9484) | https://github.com/Proxysec/-CVE-2020-9484- | When using Apache Tomcat versions 10.0.0-M1 to 10.0.0-M4, 9.0.0.M1 to 9.0.34, 8.5.0 to 8.5.54 and 7.0.0 to 7.0.103 if a) an attacker is able to control the contents and name of a file on the server; and b) the server is configured to use the PersistenceManager with a FileStore; and c) the PersistenceManager is configured with sessionAttributeValueClassNameFilter=%null% (the default unless a SecurityManager is used) or a sufficiently lax filter to allow the attacker provided object to be deserialized; and d) the attacker knows the relative file path from the storage location used by FileStore to the file the attacker has control over; then, using a specifically crafted request, the attacker will be able to trigger remote code execution via deserialization of the file under their control. Note that all of conditions a) to d) must be true for the attack to succeed.| 
 | 20210115T15:12:42Z | CVE-2020-8165 | CVE-2020-8165 exploit automation | https://github.com/macosta-42/CVE-2020-8165 | A deserialization of untrusted data vulnernerability exists in rails < 5.2.4.3, rails < 6.0.3.1 that can allow an attacker to unmarshal user-provided objects in MemCacheStore and RedisCacheStore potentially resulting in an RCE.| 
 | 20210115T10:52:00Z | CVE-2020-7961 | Exploit script for CVE-2020-7961 | https://github.com/ShutdownRepo/CVE-2020-7961 | Deserialization of Untrusted Data in Liferay Portal prior to 7.2.1 CE GA2 allows remote attackers to execute arbitrary code via JSON web services (JSONWS).| 
-| 20210115T10:09:05Z | CVE-2020-8165 | PoC for CVE-2020-8165 | https://github.com/progfay/CVE-2020-8165 | A deserialization of untrusted data vulnernerability exists in rails < 5.2.4.3, rails < 6.0.3.1 that can allow an attacker to unmarshal user-provided objects in MemCacheStore and RedisCacheStore potentially resulting in an RCE.| 
+| 20210115T10:09:05Z | CVE-2020-8165 | PoC for CVE-2020-8165 | https://github.com/progfay/CVE-2020-8165 | | 
 | 20210115T09:07:12Z | 未知编号 | 2020l4web-campaign-DanCvejn created by GitHub Classroom | https://github.com/pslib-cz/2020l4web-campaign-DanCvejn | 未查询到CVE信息| 
 | 20210115T08:59:48Z | CVE-2020-13937 | Apache Kylin API未授权访问漏洞;CVE-2020-13937;Apache Kylin漏洞 | https://github.com/yaunsky/CVE-2020-13937 | Apache Kylin 2.0.0, 2.1.0, 2.2.0, 2.3.0, 2.3.1, 2.3.2, 2.4.0, 2.4.1, 2.5.0, 2.5.1, 2.5.2, 2.6.0, 2.6.1, 2.6.2, 2.6.3, 2.6.4, 2.6.5, 2.6.6, 3.0.0-alpha, 3.0.0-alpha2, 3.0.0-beta, 3.0.0, 3.0.1, 3.0.2, 3.1.0, 4.0.0-alpha has one restful api which exposed Kylin%s configuration information without any authentication, so it is dangerous because some confidential information entries will be disclosed to everyone.| 
 
@@ -87,16 +87,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210117T03:13:14Z | EternalBlue suite remade in C/C++ which includes: MS17-010 Exploit, EternalBlue vulnerability detector, DoublePulsar detector and DoublePulsar Shellcode & DLL uploader | https://github.com/bhassani/EternalBlueC | 303 | 77| 
-| 20210117T03:13:09Z | Scans & Exploits | https://github.com/Gutem/scans-exploits | 0 | 0| 
-| 20210117T03:13:00Z | Exploit Database binary exploits located in the /sploits directory | https://github.com/offensive-security/exploitdb-bin-sploits | 1374 | 494| 
-| 20210117T02:40:09Z | random stuff for exploit dev practice | https://github.com/C-Brown/exploit_dev_practice | 0 | 0| 
-| 20210117T02:27:26Z | Exploitative Location using Structure inside Aisles  | https://github.com/karry3775/Elsia_ws | 0 | 0| 
-| 20210117T01:55:45Z | Delivering Exploits From Browsers Since 2021 | https://github.com/drifting-compass/ComeAlive | 0 | 0| 
-| 20210117T01:48:32Z | A series of CTF/hacking challenge solutions for binary exploitation(or pwn)/reverse engineering/vulnerability research/memory corruption(or whatever term you use) | https://github.com/docfate111/binary-exploitation-solution-scripts | 0 | 0| 
-| 20210117T01:37:41Z | exploit-database-papers | https://github.com/offensive-security/exploitdb-papers | 277 | 39| 
-| 20210117T01:18:51Z | Text multiclass classification project exploiting word-embedding and TF-IDF for vector representation of words. | https://github.com/paoloitaliani/Text-Classification | 0 | 0| 
-| 20210117T00:57:44Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 8898 | 1410| 
+| 20210117T12:54:21Z | linux post-exploitation framework made by linux user | https://github.com/jm33-m0/emp3r0r | 309 | 53| 
+| 20210117T12:43:50Z | Null | https://github.com/froscpi49/Moncsasco-Exploit | 0 | 0| 
+| 20210117T12:34:50Z | Thi powershell script has got to run in remote windows host, even for pivoting | https://github.com/FabioDefilippo/winallenum | 0 | 1| 
+| 20210117T12:30:25Z | this bash script is for remote linux hosts hacked! | https://github.com/FabioDefilippo/linuxallenum | 9 | 0| 
+| 20210117T12:26:21Z | A website which combines useful links for gfn-exploiting. | https://github.com/helmutrocco13/helmutrocco13.github.io | 0 | 0| 
+| 20210117T12:24:49Z | Null | https://github.com/froscpi49/MoncsascoExploit | 0 | 0| 
+| 20210117T12:19:39Z | Exploit Discord%s cache system to remote upload payloads on Discord users machines | https://github.com/ecriminal/Exploit-Discord-Cache-System-PoC | 17 | 5| 
+| 20210117T11:49:01Z | A number of exploits and tools I%ve written for CVEs accredited to Marshall Whittaker/oxagast | https://github.com/oxagast/oxasploits | 4 | 1| 
+| 20210117T11:40:14Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 8899 | 1410| 
+| 20210117T11:31:29Z | ELF 32-bit Reversing | https://github.com/RobertJonnyTiger/Reverse-and-Exploit-Development | 0 | 0| 
 
 
 # backdoor on Github 推荐
@@ -117,16 +117,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210117T03:12:14Z | Kernel fuzzer inspired by Syzkaller | https://github.com/SunHao-0/healer | 63 | 11| 
-| 20210117T03:09:28Z | Tool to fuzz url subdirectories for a given website. | https://github.com/TimoKubera/url_fuzzer | 0 | 0| 
-| 20210117T01:40:09Z | P2P platform for publishing content, self-hosting, decentralized curation, and more. | https://github.com/FuzzrNet/Fuzzr | 11 | 2| 
-| 20210117T00:57:22Z | Null | https://github.com/annie92843/fuzzy-funicular | 0 | 0| 
-| 20210117T00:21:33Z | Fuzzing cryptographic libraries. Magic bug printer go brrrr. | https://github.com/guidovranken/cryptofuzz | 230 | 31| 
-| 20210116T23:46:03Z | Fuzzy charrs are fuzzy. | https://github.com/marenubium87/FuzzyCharr | 0 | 0| 
-| 20210116T23:41:37Z | Null | https://github.com/zawolanski/fuzzy_numbers | 0 | 0| 
-| 20210116T23:07:48Z | https://github.com/wcventure/FuzzingPaper | https://github.com/mishmashclone/wcventure-FuzzingPaper | 2 | 1| 
-| 20210116T22:46:10Z | Fuzzy TS optimisation based on genetic algorithm | https://github.com/jairpaulino/fuzzy-ts-opt | 0 | 0| 
-| 20210116T22:44:38Z | Gene Expression Programming Fuzzy Rules Data Sets | https://github.com/michalmadera/gep-fuzzy-rules-datasets | 0 | 0| 
+| 20210117T12:59:24Z | Attila%s website on GitHub | https://github.com/viyek/fuzzy-engine | 0 | 0| 
+| 20210117T12:30:49Z | Null | https://github.com/Dmenk123/fuzzy_ahp | 0 | 0| 
+| 20210117T11:12:55Z | Null | https://github.com/Krit-Creator/fuzzy-meme | 0 | 0| 
+| 20210117T10:59:45Z | Im gonna catch you!  | https://github.com/Violet28/fuzzy-winner | 0 | 0| 
+| 20210117T10:30:09Z | Null | https://github.com/fathanfadillah/FuzzyWSM | 0 | 0| 
+| 20210117T10:18:05Z | Auto fuzzing script for competitive programming | https://github.com/kyomukyomupurin/Fuzzing | 0 | 0| 
+| 20210117T09:56:11Z | Null | https://github.com/s9varesc/url-fuzzing-docker | 0 | 0| 
+| 20210117T09:50:49Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 3305 | 761| 
+| 20210117T08:54:54Z | Null | https://github.com/ekivolowitz/FuzzyMan | 0 | 0| 
+| 20210117T08:51:39Z | Null | https://github.com/tania882/https-github.com-Loptt-fuzzy-controller | 0 | 0| 
 
 
 
