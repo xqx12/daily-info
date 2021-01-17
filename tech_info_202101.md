@@ -102,6 +102,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210117T13:39:22Z | Null | https://github.com/EjHvorSerDuVildUdJim/backdoor | 0 | 0| 
 | 20210117T13:20:02Z | Very simple backdoor for *nix like systems in under 2KB written in ANSI C89 | https://github.com/kspalaiologos/Backdoor | 1 | 0| 
 | 20210117T08:54:09Z | Thefatrat a massive exploiting tool : Easy tool to generate backdoor and easy tool to post exploitation attack like browser attack and etc . This tool compiles a malware with popular payload and then the compiled malware can be execute on windows, android, mac . The malware that created with this tool also have an ability to bypass most AV software protection . | https://github.com/Screetsec/TheFatRat | 4887 | 1618| 
 | 20210117T06:18:04Z | xiaomi-router-4a-backdoor-go | https://github.com/wrysunny/xiaomi-router-4a-backdoor-go | 0 | 0| 
@@ -111,7 +112,6 @@
 | 20210116T22:03:49Z | TrojanZoo provides a universal pytorch platform to conduct security researches (especially backdoor attacks/defenses) of image classification in deep learning. | https://github.com/ain-soph/trojanzoo | 29 | 6| 
 | 20210116T22:03:12Z | Basic python backdoor script | https://github.com/Freek-dev/Backdoor-Shell | 0 | 0| 
 | 20210116T15:06:58Z | A backdoor that runs on Linux and Windows | https://github.com/EiSiMo/Backdoor | 13 | 7| 
-| 20210116T14:10:31Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 151 | 22| 
 
 
 # fuzz on Github 推荐
