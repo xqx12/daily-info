@@ -46,9 +46,9 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20210117T01:28:17Z | 未知编号 | 2020一些漏洞 | https://github.com/r0eXpeR/CVE-2020 | | 
-| 20210116T05:27:51Z | CVE-2020-6207 | PoC for CVE-2020-6207  (Missing Authentication Check in SAP Solution Manager) | https://github.com/chipik/SAP_EEM_CVE-2020-6207 | | 
-| 20210115T19:26:56Z | CVE-2020-7200 | Null | https://github.com/alexfrancow/CVE-2020-7200 | A potential security vulnerability has been identified in HPE Systems Insight Manager (SIM) version 7.6. The vulnerability could be exploited to allow remote code execution.| 
+| 20210117T01:28:17Z | 未知编号 | 2020一些漏洞 | https://github.com/r0eXpeR/CVE-2020 | 未查询到CVE信息| 
+| 20210116T05:27:51Z | CVE-2020-6207 | PoC for CVE-2020-6207  (Missing Authentication Check in SAP Solution Manager) | https://github.com/chipik/SAP_EEM_CVE-2020-6207 | SAP Solution Manager (User Experience Monitoring), version- 7.2, due to Missing Authentication Check does not perform any authentication for a service resulting in complete compromise of all SMDAgents connected to the Solution Manager.| 
+| 20210115T19:26:56Z | CVE-2020-7200 | Null | https://github.com/alexfrancow/CVE-2020-7200 | | 
 | 20210115T18:12:09Z | CVE-2020-9484 | Apache Tomcat RCE (CVE-2020-9484) | https://github.com/Proxysec/-CVE-2020-9484 | When using Apache Tomcat versions 10.0.0-M1 to 10.0.0-M4, 9.0.0.M1 to 9.0.34, 8.5.0 to 8.5.54 and 7.0.0 to 7.0.103 if a) an attacker is able to control the contents and name of a file on the server; and b) the server is configured to use the PersistenceManager with a FileStore; and c) the PersistenceManager is configured with sessionAttributeValueClassNameFilter=%null% (the default unless a SecurityManager is used) or a sufficiently lax filter to allow the attacker provided object to be deserialized; and d) the attacker knows the relative file path from the storage location used by FileStore to the file the attacker has control over; then, using a specifically crafted request, the attacker will be able to trigger remote code execution via deserialization of the file under their control. Note that all of conditions a) to d) must be true for the attack to succeed.| 
 | 20210115T17:59:25Z | CVE-2020-9484 | Apache Tomcat RCE (CVE-2020-9484) | https://github.com/Proxysec/-CVE-2020-9484- | When using Apache Tomcat versions 10.0.0-M1 to 10.0.0-M4, 9.0.0.M1 to 9.0.34, 8.5.0 to 8.5.54 and 7.0.0 to 7.0.103 if a) an attacker is able to control the contents and name of a file on the server; and b) the server is configured to use the PersistenceManager with a FileStore; and c) the PersistenceManager is configured with sessionAttributeValueClassNameFilter=%null% (the default unless a SecurityManager is used) or a sufficiently lax filter to allow the attacker provided object to be deserialized; and d) the attacker knows the relative file path from the storage location used by FileStore to the file the attacker has control over; then, using a specifically crafted request, the attacker will be able to trigger remote code execution via deserialization of the file under their control. Note that all of conditions a) to d) must be true for the attack to succeed.| 
 | 20210115T15:12:42Z | CVE-2020-8165 | CVE-2020-8165 exploit automation | https://github.com/macosta-42/CVE-2020-8165 | A deserialization of untrusted data vulnernerability exists in rails < 5.2.4.3, rails < 6.0.3.1 that can allow an attacker to unmarshal user-provided objects in MemCacheStore and RedisCacheStore potentially resulting in an RCE.| 
@@ -61,6 +61,7 @@
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210117T02:29:43Z | Create CFGs and compute complexity metrics for Python, C++, and Java code. | https://github.com/hmc-alpaqa/metrinome | 5 | 0| 
 | 20210116T08:25:24Z | Null | https://github.com/LitRHap/klee-bot | 0 | 0| 
 | 20210115T14:31:53Z | RVT is a collection of tools/libraries to support both static and dynamic verification of Rust programs. | https://github.com/project-oak/rust-verification-tools | 101 | 6| 
 | 20210115T09:26:05Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1602 | 477| 
@@ -70,7 +71,6 @@
 | 20210112T01:56:45Z | KleeneExpressions | https://github.com/ostomachion/Kleene | 1 | 0| 
 | 20210111T09:21:40Z | Null | https://github.com/markhakansson/klee-tutorial | 0 | 0| 
 | 20210110T21:47:54Z | Kleene algebra, regular expressions | https://github.com/phadej/kleene | 26 | 1| 
-| 20210110T14:46:29Z | Null | https://github.com/Ankit1608/kleen | 0 | 0| 
 
 
 # s2e on Github 推荐

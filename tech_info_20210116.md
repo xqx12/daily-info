@@ -18,7 +18,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20210116T05:27:51Z | CVE-2020-6207 | PoC for CVE-2020-6207  (Missing Authentication Check in SAP Solution Manager) | https://github.com/chipik/SAP_EEM_CVE-2020-6207 | | 
+| 20210116T05:27:51Z | CVE-2020-6207 | PoC for CVE-2020-6207  (Missing Authentication Check in SAP Solution Manager) | https://github.com/chipik/SAP_EEM_CVE-2020-6207 | SAP Solution Manager (User Experience Monitoring), version- 7.2, due to Missing Authentication Check does not perform any authentication for a service resulting in complete compromise of all SMDAgents connected to the Solution Manager.| 
 
 
 # klee on Github 推荐
