@@ -87,13 +87,13 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210117T02:39:23Z | random stuff for exploit dev practice | https://github.com/C-Brown/exploit_dev_practice | 0 | 0| 
 | 20210117T02:37:55Z | EternalBlue suite remade in C/C++ which includes: MS17-010 Exploit, EternalBlue vulnerability detector, DoublePulsar detector and DoublePulsar Shellcode & DLL uploader | https://github.com/bhassani/EternalBlueC | 303 | 77| 
 | 20210117T02:27:26Z | Exploitative Location using Structure inside Aisles  | https://github.com/karry3775/Elsia_ws | 0 | 0| 
 | 20210117T01:55:45Z | Delivering Exploits From Browsers Since 2021 | https://github.com/drifting-compass/ComeAlive | 0 | 0| 
 | 20210117T01:48:32Z | A series of CTF/hacking challenge solutions for binary exploitation(or pwn)/reverse engineering/vulnerability research/memory corruption(or whatever term you use) | https://github.com/docfate111/binary-exploitation-solution-scripts | 0 | 0| 
 | 20210117T01:37:41Z | exploit-database-papers | https://github.com/offensive-security/exploitdb-papers | 277 | 39| 
 | 20210117T01:18:51Z | Text multiclass classification project exploiting word-embedding and TF-IDF for vector representation of words. | https://github.com/paoloitaliani/Text-Classification | 0 | 0| 
-| 20210117T01:11:11Z | random stuff for exploit dev practice | https://github.com/C-Brown/exploit_dev_practice | 0 | 0| 
 | 20210117T00:57:44Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 8898 | 1410| 
 | 20210117T00:19:00Z | AMWScan (PHP Antimalware Scanner) is a free tool to scan php files and analyze your project to find any malicious code inside it. | https://github.com/marcocesarato/PHP-Antimalware-Scanner | 162 | 30| 
 | 20210117T00:04:05Z | CTF framework and exploit development library | https://github.com/Gallopsled/pwntools | 7435 | 1344| 
