@@ -15,6 +15,7 @@
 | 20210117 | Cobalt Strike4.0远控木马分析 | https://mp.weixin.qq.com/s/Sv0lR4G2eQf4_L8W4CqRYw| 
 | 20210117 | 深度探索：解除文件占用那些坑 | https://anhkgg.com/unlockfile/| 
 | 20210117 | 局域网监控软件WFilter ICF 鸡肋0day RCE漏洞挖掘 | https://drivertom.blogspot.com/2021/01/wfilter-icf-0day-rce.html| 
+| 20210117 | SecWiki安全周刊-年卷-2020 | https://mp.weixin.qq.com/s/pI495N48AYbA3gYkf4zlqQ| 
 
 
 # CVE Github 推荐
