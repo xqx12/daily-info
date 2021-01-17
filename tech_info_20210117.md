@@ -37,6 +37,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210117T13:10:20Z | Binary Exploitation | https://github.com/vishnukumar650/PwnSea | 3 | 0| 
 | 20210117T12:54:21Z | linux post-exploitation framework made by linux user | https://github.com/jm33-m0/emp3r0r | 309 | 53| 
 | 20210117T12:43:50Z | Null | https://github.com/froscpi49/Moncsasco-Exploit | 0 | 0| 
 | 20210117T12:34:50Z | Thi powershell script has got to run in remote windows host, even for pivoting | https://github.com/FabioDefilippo/winallenum | 0 | 1| 
@@ -46,7 +47,6 @@
 | 20210117T12:19:39Z | Exploit Discord%s cache system to remote upload payloads on Discord users machines | https://github.com/ecriminal/Exploit-Discord-Cache-System-PoC | 17 | 5| 
 | 20210117T11:49:01Z | A number of exploits and tools I%ve written for CVEs accredited to Marshall Whittaker/oxagast | https://github.com/oxagast/oxasploits | 4 | 1| 
 | 20210117T11:40:14Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 8899 | 1410| 
-| 20210117T11:31:29Z | ELF 32-bit Reversing | https://github.com/RobertJonnyTiger/Reverse-and-Exploit-Development | 0 | 0| 
 
 
 # backdoor on Github 推荐
