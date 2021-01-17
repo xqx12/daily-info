@@ -43,8 +43,8 @@
 | 20210116T22:04:13Z | A python package built by zachkaupp for use in various CTFs | https://github.com/zachkaupp/exploit_pack | 0 | 0| 
 | 20210116T21:59:39Z | Unquoted Service Path exploit edebilmek için hazırladığım bir projedir. | https://github.com/kudayDOTsite/UnquotedServicePathDemo | 0 | 0| 
 | 20210116T21:33:29Z | Fixes the book and quill exploit that allowed the user to dupe and kick every player in render distance | https://github.com/obamabob/NoBookKick | 0 | 0| 
-| 20210116T21:17:41Z | Exploit Database binary exploits located in the /sploits directory | https://github.com/offensive-security/exploitdb-bin-sploits | 1374 | 494| 
 | 20210116T21:15:53Z | Exploiting stuff I learn | https://github.com/BlameTheKernel/Exploiting | 0 | 0| 
+| 20210116T20:29:41Z | A website which combines useful links for gfn-exploiting. | https://github.com/helmutrocco13/helmutrocco13.github.io | 0 | 0| 
 
 
 # backdoor on Github 推荐
