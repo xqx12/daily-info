@@ -87,6 +87,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210118T01:57:08Z | A collection of great discord bugs and exploits. | https://github.com/Passive/discord-exploits | 0 | 0| 
 | 20210118T00:45:25Z | Writeups, scripts and solutions for CTFs, Hack the Box, Vulnhub, exploit challenges, pwnables, crackmes, etc. Anything goes. | https://github.com/alichtman/writeups | 5 | 1| 
 | 20210118T00:42:35Z | A phased, evasive Path Traversal + LFI scanning & exploitation tool in Python | https://github.com/VainlyStrain/Vailyn | 85 | 2| 
 | 20210117T23:18:33Z | Exploits project Hacking Command Center | https://github.com/chacka0101/exploits | 0 | 2| 
@@ -96,7 +97,6 @@
 | 20210117T22:39:36Z | Script para automizar a busca de exploits CMS/PrivSec/RCE/RootKit | https://github.com/b3tr4y3d/searchexploit | 4 | 1| 
 | 20210117T22:08:02Z | Null | https://github.com/gbertao/exploit-lab | 0 | 0| 
 | 20210117T21:44:24Z | Null | https://github.com/Giyu-ux/EternalExploit | 0 | 0| 
-| 20210117T21:20:46Z | Xiongmai Exploitation Toolkit | https://github.com/redcodefinal/xet | 3 | 0| 
 
 
 # backdoor on Github 推荐
