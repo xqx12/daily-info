@@ -64,6 +64,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210118T13:09:28Z | Null | https://github.com/T-Jinhao/UploadFuzzer | 0 | 0| 
 | 20210118T13:01:26Z | FuzzBench - Fuzzer benchmarking as a service. | https://github.com/google/fuzzbench | 583 | 93| 
 | 20210118T12:44:11Z | Null | https://github.com/sudomakeinstall2/fuzzgoat | 0 | 0| 
 | 20210118T12:25:38Z | Personal website of Laurence Hughes | https://github.com/fuzzylogicxx/fuzzylogic | 4 | 1| 
@@ -73,7 +74,6 @@
 | 20210118T10:44:11Z | Null | https://github.com/cleiomsqs/fuzzy-octo-carnival | 0 | 0| 
 | 20210118T10:28:51Z | This is a fuzzy logic to find which students have the right to get a discount based on their income and spend. With a dataset mahasiswa.xlsx and output Bantuan.xls | https://github.com/eyditye/FuzzyLogicDiscount | 0 | 0| 
 | 20210118T10:11:31Z | Challenging testcases for fuzzers | https://github.com/AFLplusplus/fuzzer-challenges | 17 | 0| 
-| 20210118T10:05:04Z | Protocol Learning and Stateful Fuzzing | https://github.com/hgascon/pulsar | 273 | 59| 
 
 
 
