@@ -74,7 +74,6 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210117T23:52:14Z | The forum application with automatic fuzzy generator of new topics | https://github.com/Luvkitri/fuzzy-forum-backend | 0 | 0| 
 | 20210117T23:49:19Z | The forum application with automatic fuzzy generator of new topics | https://github.com/Luvkitri/fuzzy-forum-frontend | 0 | 0| 
 | 20210117T23:22:17Z | This is my second repo | https://github.com/rvaidyan163/fuzzy-spoon | 0 | 0| 
 | 20210117T22:50:09Z | Null | https://github.com/fansaprogrammerr/fuzzy-waddle | 0 | 0| 
@@ -84,6 +83,7 @@
 | 20210117T21:17:37Z | Dockerfile and related scripts for running the Fuzziqer Software %newserv% Phantasy Star Online (PSO) server software. | https://github.com/gered/psoserv_fuzziqer_docker | 0 | 0| 
 | 20210117T20:25:09Z | Pi rates dnd chamgne  | https://github.com/nickcanny/fuzzy-waddle | 0 | 0| 
 | 20210117T19:50:49Z | Coverage-guided fuzzer | https://github.com/PrVrSs/mephisto | 0 | 0| 
+| 20210117T19:26:53Z | Null | https://github.com/chrisrw300/fuzzy-couscous | 0 | 0| 
 
 
 
