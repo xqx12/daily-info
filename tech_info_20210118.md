@@ -64,6 +64,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210118T13:46:35Z | Fuzzer for Pharo | https://github.com/mabdi/phazzer | 0 | 0| 
 | 20210118T13:17:13Z | A fuzzer for full VM kernel/driver targets | https://github.com/IntelLabs/kAFL | 177 | 32| 
 | 20210118T13:14:36Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 3308 | 763| 
 | 20210118T13:09:28Z | Null | https://github.com/T-Jinhao/UploadFuzzer | 0 | 0| 
@@ -73,7 +74,6 @@
 | 20210118T12:19:29Z | helper script to generate a random string | https://github.com/ZackDev/fuzzystring | 0 | 0| 
 | 20210118T11:19:43Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 5798 | 1158| 
 | 20210118T11:03:33Z | Check strings similarity with Salesforce Flow | https://github.com/munawirrahman/FuzzyWuzzy | 1 | 0| 
-| 20210118T10:44:11Z | Null | https://github.com/cleiomsqs/fuzzy-octo-carnival | 0 | 0| 
 
 
 
