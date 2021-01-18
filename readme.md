@@ -40,11 +40,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210118T02:53:07Z | Null | https://github.com/gbertao/exploit-lab | 0 | 0| 
-| 20210118T02:34:18Z | Text multiclass classification project exploiting word-embedding and TF-IDF for vector representation of words. | https://github.com/paoloitaliani/Text-Classification | 0 | 0| 
-| 20210118T01:57:08Z | A collection of great discord bugs and exploits. | https://github.com/Passive/discord-exploits | 0 | 0| 
-| 20210118T00:45:25Z | Writeups, scripts and solutions for CTFs, Hack the Box, Vulnhub, exploit challenges, pwnables, crackmes, etc. Anything goes. | https://github.com/alichtman/writeups | 5 | 1| 
-| 20210118T00:42:35Z | A phased, evasive Path Traversal + LFI scanning & exploitation tool in Python | https://github.com/VainlyStrain/Vailyn | 85 | 2| 
+| 20210118T12:59:12Z | CDK is an open-sourced container penetration toolkit, offering stable exploitation in different slimmed containers without any OS dependency. It comes with penetration tools and many powerful PoCs/EXPs helps you to escape container and takeover K8s cluster easily. | https://github.com/cdk-team/CDK | 322 | 50| 
+| 20210118T12:24:14Z | ELF 32-bit Reversing | https://github.com/RobertJonnyTiger/Reverse-and-Exploit-Development | 0 | 0| 
+| 20210118T12:02:10Z | Geohazards Thematic Exploitation guide | https://github.com/Terradue/doc-tep-geohazards | 9 | 23| 
+| 20210118T11:56:11Z | This bash script will help you to hack remote hosts  | https://github.com/FabioDefilippo/linuxallremote | 3 | 1| 
+| 20210118T11:35:17Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 8903 | 1411| 
+| 20210118T11:09:41Z | This exploit it%s just for CTF .Try understand concept of Buffer Overflow ROP exploit | https://github.com/T3jv1l/Smasher | 0 | 0| 
+| 20210118T10:57:04Z | laravel web cookie exploit scanner | https://github.com/rdika53/lavget | 0 | 0| 
+| 20210118T10:21:05Z | Repo for testing some exploits | https://github.com/RobertFent/exploits | 0 | 0| 
+| 20210118T09:47:51Z | Tyke is simple dns server to exploit Server Side Request Forgery using DNS rebinding technique | https://github.com/abhilash-pk/tyke | 0 | 0| 
+| 20210118T09:35:14Z | linux post-exploitation framework made by linux user | https://github.com/jm33-m0/emp3r0r | 315 | 55| 
 
 
 # backdoor on Github 推荐
