@@ -117,6 +117,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210118T01:21:15Z | Null | https://github.com/lier83784/fuzzy-octo-spoon | 0 | 0| 
 | 20210118T01:07:42Z | Fuzzing cryptographic libraries. Magic bug printer go brrrr. | https://github.com/guidovranken/cryptofuzz | 230 | 31| 
 | 20210118T01:06:51Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 1254 | 267| 
 | 20210118T00:15:13Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 5796 | 1159| 
@@ -126,7 +127,6 @@
 | 20210117T22:50:09Z | Null | https://github.com/fansaprogrammerr/fuzzy-waddle | 0 | 0| 
 | 20210117T22:47:18Z | Null | https://github.com/mrfuzz12/FuzzCheat | 0 | 0| 
 | 20210117T21:36:45Z | Null | https://github.com/corootine/fuzzy | 0 | 0| 
-| 20210117T21:35:28Z | Personal website of Laurence Hughes | https://github.com/fuzzylogicxx/fuzzylogic | 4 | 1| 
 
 
 
