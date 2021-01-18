@@ -49,11 +49,11 @@
 | 20210117T22:45:28Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 8901 | 1411| 
 | 20210117T22:44:15Z | Fixes the book and quill exploit that allowed the user to dupe and kick every player in render distance | https://github.com/obamabob/NoBookKick | 0 | 0| 
 | 20210117T22:39:36Z | Script para automizar a busca de exploits CMS/PrivSec/RCE/RootKit | https://github.com/b3tr4y3d/searchexploit | 4 | 1| 
-| 20210117T22:08:02Z | Null | https://github.com/gbertao/exploit-lab | 0 | 0| 
 | 20210117T21:44:24Z | Null | https://github.com/Giyu-ux/EternalExploit | 0 | 0| 
 | 20210117T21:20:46Z | Xiongmai Exploitation Toolkit | https://github.com/redcodefinal/xet | 3 | 0| 
 | 20210117T21:20:27Z | CTFs and solutions for Linux binary exploitation. | https://github.com/MaherAzzouzi/LinuxExploitation | 5 | 5| 
 | 20210117T20:58:06Z | A website which combines useful links for gfn-exploiting. | https://github.com/helmutrocco13/helmutrocco13.github.io | 0 | 0| 
+| 20210117T20:33:26Z | Post-exploitation tool for lateral movement | https://github.com/tmenochet/PowerExec | 0 | 0| 
 
 
 # backdoor on Github 推荐
