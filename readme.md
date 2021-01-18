@@ -24,7 +24,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20210117T20:30:40Z | CVE-2020-7200 | CVE-2020-7200: HPE Systems Insight Manager (SIM) RCE PoC | https://github.com/alexfrancow/CVE-2020-7200 | A potential security vulnerability has been identified in HPE Systems Insight Manager (SIM) version 7.6. The vulnerability could be exploited to allow remote code execution.| 
+| 20210117T20:30:40Z | CVE-2020-7200 | CVE-2020-7200: HPE Systems Insight Manager (SIM) RCE PoC | https://github.com/alexfrancow/CVE-2020-7200 | | 
 | 20210117T17:07:36Z | CVE-2020-11851 | Remote Code Execution vulnerability on ArcSight Logger | https://github.com/ch1nghz/CVE-2020-11851 | Arbitrary code execution vulnerability on Micro Focus ArcSight Logger product, affecting all version prior to 7.1.1. The vulnerability could be remotely exploited resulting in the execution of arbitrary code.| 
 
 
