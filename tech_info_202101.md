@@ -117,8 +117,8 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210118T01:46:47Z | If you have found a web traversal vuln then you can use this script to fuzz it. | https://github.com/PrescottRowe/DirTraversalFuzzer | 0 | 0| 
 | 20210118T01:31:26Z | Null | https://github.com/Dmenk123/fuzzy_ahp | 0 | 0| 
-| 20210118T01:29:37Z | If you have found a web traversal vuln then you can use this script to fuzz it. | https://github.com/PrescottRowe/DirTraversalFuzzer | 0 | 0| 
 | 20210118T01:21:15Z | Null | https://github.com/lier83784/fuzzy-octo-spoon | 0 | 0| 
 | 20210118T01:07:42Z | Fuzzing cryptographic libraries. Magic bug printer go brrrr. | https://github.com/guidovranken/cryptofuzz | 230 | 31| 
 | 20210118T01:06:51Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 1254 | 267| 
