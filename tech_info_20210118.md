@@ -40,7 +40,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210118T13:36:41Z | Null | https://github.com/gbrsh/htb_exploits | 0 | 0| 
+| 20210118T13:38:11Z | Null | https://github.com/gbrsh/htb_exploits | 0 | 0| 
+| 20210118T13:37:02Z | A Denial of Service exploit for HP printers | https://github.com/ReallySecureShell/PapersPlease | 1 | 1| 
 | 20210118T13:14:38Z | I hate this shit | https://github.com/andrewbae/heap-exploitation | 0 | 0| 
 | 20210118T12:59:12Z | CDK is an open-sourced container penetration toolkit, offering stable exploitation in different slimmed containers without any OS dependency. It comes with penetration tools and many powerful PoCs/EXPs helps you to escape container and takeover K8s cluster easily. | https://github.com/cdk-team/CDK | 322 | 50| 
 | 20210118T12:24:14Z | ELF 32-bit Reversing | https://github.com/RobertJonnyTiger/Reverse-and-Exploit-Development | 0 | 0| 
@@ -49,7 +50,6 @@
 | 20210118T11:35:17Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 8903 | 1411| 
 | 20210118T11:09:41Z | This exploit it%s just for CTF .Try understand concept of Buffer Overflow ROP exploit | https://github.com/T3jv1l/Smasher | 0 | 0| 
 | 20210118T10:57:04Z | laravel web cookie exploit scanner | https://github.com/rdika53/lavget | 0 | 0| 
-| 20210118T10:21:05Z | Repo for testing some exploits | https://github.com/RobertFent/exploits | 0 | 0| 
 
 
 # backdoor on Github 推荐
