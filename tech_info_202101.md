@@ -117,16 +117,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210118T02:43:07Z | Null | https://github.com/Dmenk123/fuzzy_ahp | 0 | 0| 
-| 20210118T02:37:29Z | The forum application with automatic fuzzy generator of new topics | https://github.com/Luvkitri/fuzzy-forum-backend | 0 | 0| 
-| 20210118T01:46:47Z | If you have found a web traversal vuln then you can use this script to fuzz it. | https://github.com/PrescottRowe/DirTraversalFuzzer | 0 | 0| 
-| 20210118T01:21:15Z | Null | https://github.com/lier83784/fuzzy-octo-spoon | 0 | 0| 
-| 20210118T01:07:42Z | Fuzzing cryptographic libraries. Magic bug printer go brrrr. | https://github.com/guidovranken/cryptofuzz | 230 | 31| 
-| 20210118T01:06:51Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 1254 | 267| 
-| 20210118T00:15:13Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 5796 | 1159| 
-| 20210117T23:49:19Z | The forum application with automatic fuzzy generator of new topics | https://github.com/Luvkitri/fuzzy-forum-frontend | 0 | 0| 
-| 20210117T23:22:17Z | This is my second repo | https://github.com/rvaidyan163/fuzzy-spoon | 0 | 0| 
-| 20210117T22:50:09Z | Null | https://github.com/fansaprogrammerr/fuzzy-waddle | 0 | 0| 
+| 20210118T13:01:26Z | FuzzBench - Fuzzer benchmarking as a service. | https://github.com/google/fuzzbench | 583 | 93| 
+| 20210118T12:44:11Z | Null | https://github.com/sudomakeinstall2/fuzzgoat | 0 | 0| 
+| 20210118T12:25:38Z | Personal website of Laurence Hughes | https://github.com/fuzzylogicxx/fuzzylogic | 4 | 1| 
+| 20210118T12:19:29Z | helper script to generate a random string | https://github.com/ZackDev/fuzzystring | 0 | 0| 
+| 20210118T11:19:43Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 5798 | 1158| 
+| 20210118T11:03:33Z | Check strings similarity with Salesforce Flow | https://github.com/munawirrahman/FuzzyWuzzy | 1 | 0| 
+| 20210118T10:44:11Z | Null | https://github.com/cleiomsqs/fuzzy-octo-carnival | 0 | 0| 
+| 20210118T10:28:51Z | This is a fuzzy logic to find which students have the right to get a discount based on their income and spend. With a dataset mahasiswa.xlsx and output Bantuan.xls | https://github.com/eyditye/FuzzyLogicDiscount | 0 | 0| 
+| 20210118T10:11:31Z | Challenging testcases for fuzzers | https://github.com/AFLplusplus/fuzzer-challenges | 17 | 0| 
+| 20210118T10:05:04Z | Protocol Learning and Stateful Fuzzing | https://github.com/hgascon/pulsar | 273 | 59| 
 
 
 
