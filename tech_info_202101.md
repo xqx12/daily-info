@@ -46,7 +46,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20210117T20:30:40Z | CVE-2020-7200 | CVE-2020-7200: HPE Systems Insight Manager (SIM) RCE PoC | https://github.com/alexfrancow/CVE-2020-7200 | A potential security vulnerability has been identified in HPE Systems Insight Manager (SIM) version 7.6. The vulnerability could be exploited to allow remote code execution.| 
+| 20210117T20:30:40Z | CVE-2020-7200 | CVE-2020-7200: HPE Systems Insight Manager (SIM) RCE PoC | https://github.com/alexfrancow/CVE-2020-7200 | | 
 | 20210117T17:07:36Z | CVE-2020-11851 | Remote Code Execution vulnerability on ArcSight Logger | https://github.com/ch1nghz/CVE-2020-11851 | Arbitrary code execution vulnerability on Micro Focus ArcSight Logger product, affecting all version prior to 7.1.1. The vulnerability could be remotely exploited resulting in the execution of arbitrary code.| 
 | 20210117T16:51:46Z | 未知编号 | 2020一些漏洞 | https://github.com/r0eXpeR/CVE-2020 | 未查询到CVE信息| 
 | 20210116T05:27:51Z | CVE-2020-6207 | PoC for CVE-2020-6207  (Missing Authentication Check in SAP Solution Manager) | https://github.com/chipik/SAP_EEM_CVE-2020-6207 | SAP Solution Manager (User Experience Monitoring), version- 7.2, due to Missing Authentication Check does not perform any authentication for a service resulting in complete compromise of all SMDAgents connected to the Solution Manager.| 
@@ -117,8 +117,8 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210118T01:07:42Z | Fuzzing cryptographic libraries. Magic bug printer go brrrr. | https://github.com/guidovranken/cryptofuzz | 230 | 31| 
 | 20210118T01:06:51Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 1254 | 267| 
-| 20210118T00:27:32Z | Fuzzing cryptographic libraries. Magic bug printer go brrrr. | https://github.com/guidovranken/cryptofuzz | 230 | 31| 
 | 20210118T00:15:13Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 5796 | 1159| 
 | 20210117T23:52:14Z | The forum application with automatic fuzzy generator of new topics | https://github.com/Luvkitri/fuzzy-forum-backend | 0 | 0| 
 | 20210117T23:49:19Z | The forum application with automatic fuzzy generator of new topics | https://github.com/Luvkitri/fuzzy-forum-frontend | 0 | 0| 
