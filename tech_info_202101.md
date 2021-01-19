@@ -118,6 +118,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210119T01:16:29Z | Its a fuzzy-disco | https://github.com/apofz/fuzzy-disco | 0 | 0| 
 | 20210119T00:34:36Z | A differential fuzzer for x86 decoders | https://github.com/trailofbits/mishegos | 124 | 18| 
 | 20210118T23:30:57Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2252 | 113| 
 | 20210118T23:24:10Z | Null | https://github.com/golder98/fuzzy-fiesta | 0 | 0| 
@@ -127,7 +128,6 @@
 | 20210118T21:36:12Z | Null | https://github.com/brasa9389/fuzzy-goggles | 0 | 0| 
 | 20210118T21:17:11Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 5799 | 1158| 
 | 20210118T21:16:56Z | FuzzBench - Fuzzer benchmarking as a service. | https://github.com/google/fuzzbench | 583 | 93| 
-| 20210118T21:05:56Z | Effortlessly fuzz libraries with large API surfaces | https://github.com/rust-fuzz/auto-fuzz-test | 29 | 1| 
 
 
 
