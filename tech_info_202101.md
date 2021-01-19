@@ -118,6 +118,8 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210119T13:52:28Z | Null | https://github.com/mo3ayka/fuzzy-doodle | 0 | 0| 
+| 20210119T13:37:43Z | Null | https://github.com/sumaia1996/fuzzy-parakeet | 0 | 0| 
 | 20210119T13:29:08Z | Fuzzer for Pharo | https://github.com/mabdi/phazzer | 0 | 0| 
 | 20210119T13:18:38Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 1255 | 268| 
 | 20210119T12:56:47Z | Null | https://github.com/lacygoill/vim-fuzzy | 0 | 0| 
@@ -126,8 +128,6 @@
 | 20210119T11:41:47Z | Fake News Detection, Repository. | https://github.com/hrs2203/fuzzy-pancake | 0 | 0| 
 | 20210119T11:29:39Z | Null | https://github.com/FDU-Program-Analysis/chunk-fuzzer-pass | 0 | 0| 
 | 20210119T11:29:29Z | Fuzzing cryptographic libraries. Magic bug printer go brrrr. | https://github.com/guidovranken/cryptofuzz | 230 | 31| 
-| 20210119T11:26:59Z | Null | https://github.com/IBeyondy/fuzzy | 0 | 0| 
-| 20210119T10:25:56Z | Null | https://github.com/davasead/fuzzy-eureka | 0 | 0| 
 
 
 
