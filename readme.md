@@ -43,7 +43,6 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210119T13:18:24Z | A phased, evasive Path Traversal + LFI scanning & exploitation tool in Python | https://github.com/VainlyStrain/Vailyn | 85 | 2| 
 | 20210119T12:33:40Z | Development of code to exploit LSST and VISTA imaging | https://github.com/lsst-uk/lsst-ir-fusion | 0 | 0| 
 | 20210119T12:21:18Z | The official Exploit Database repository | https://github.com/offensive-security/exploitdb | 5820 | 1669| 
 | 20210119T12:13:51Z | PrExploit: Open Exploit Prediction System | https://github.com/prexploit/prexploit | 0 | 0| 
@@ -53,6 +52,7 @@
 | 20210119T11:45:45Z | This project is designed to express how to use Android MVVM architecture while exploiting the right practices. | https://github.com/mbobiosio/KotlinMVVMRetrofitRoom | 1 | 1| 
 | 20210119T11:35:19Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 8905 | 1413| 
 | 20210119T11:10:50Z | Security and Hacking Tools, Exploits, Proof of Concepts, Shellcodes, Scripts. | https://github.com/nullsecuritynet/tools | 1299 | 446| 
+| 20210119T10:55:31Z | Null | https://github.com/galvan0x01/exploit-development | 0 | 0| 
 
 
 # backdoor on Github 推荐
@@ -70,6 +70,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210119T13:18:38Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 1255 | 268| 
 | 20210119T12:56:47Z | Null | https://github.com/lacygoill/vim-fuzzy | 0 | 0| 
 | 20210119T12:54:27Z | Planning tool | https://github.com/HappyDustbunny/FuzzyFlexx | 1 | 0| 
 | 20210119T12:30:00Z | Null | https://github.com/0FuzzingQ/0FuzzingQ.github.io | 0 | 0| 
@@ -79,7 +80,6 @@
 | 20210119T11:29:29Z | Fuzzing cryptographic libraries. Magic bug printer go brrrr. | https://github.com/guidovranken/cryptofuzz | 230 | 31| 
 | 20210119T11:26:59Z | Null | https://github.com/IBeyondy/fuzzy | 0 | 0| 
 | 20210119T10:25:56Z | Null | https://github.com/davasead/fuzzy-eureka | 0 | 0| 
-| 20210119T08:44:31Z | Projekt na Programowanie aplikacji biznesowych | https://github.com/wojtekwrona232/fuzzy-winner | 0 | 0| 
 
 
 
