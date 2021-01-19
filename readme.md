@@ -6,18 +6,22 @@
 # 玄武实验室 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20210118 | Linux 5.4.81内核—内存管理模块源码分析。 | https://paper.seebug.org/1458/| 
+| 20210118 | SeveTools:多功能的网络安全实战工具项目库。 | https://github.com/h4ckdepy/SeveTools| 
 
 
 # 安全维基 推荐
 | ts | title | url| 
 | --- | --- | ---| 
 | 20210118 | Five86-1靶机渗透实战 | https://www.hetianlab.com/specialized/20210114134638| 
+| 20210118 | SecWiki周刊（第359期) | https://www.sec-wiki.com/weekly/359| 
 
 
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20210118T10:15:46Z | 未知编号 | 2020一些漏洞 | https://github.com/r0eXpeR/CVE-2020 | 未查询到CVE信息| 
+| 20210118T16:58:15Z | 未知编号 | 2020l4web-campaign-DanCvejn created by GitHub Classroom | https://github.com/pslib-cz/2020l4web-campaign-DanCvejn | 未查询到CVE信息| 
+| 20210118T14:34:19Z | 未知编号 | 2020一些漏洞 | https://github.com/r0eXpeR/CVE-2020 | 未查询到CVE信息| 
 | 20210118T07:50:23Z | CVE-2020-6207 | PoC for CVE-2020-6207  (Missing Authentication Check in SAP Solution Manager) | https://github.com/chipik/SAP_EEM_CVE-2020-6207 | SAP Solution Manager (User Experience Monitoring), version- 7.2, due to Missing Authentication Check does not perform any authentication for a service resulting in complete compromise of all SMDAgents connected to the Solution Manager.| 
 | 20210118T06:04:43Z | CVE-2020-8165 | PoC for CVE-2020-8165 | https://github.com/progfay/CVE-2020-8165 | A deserialization of untrusted data vulnernerability exists in rails < 5.2.4.3, rails < 6.0.3.1 that can allow an attacker to unmarshal user-provided objects in MemCacheStore and RedisCacheStore potentially resulting in an RCE.| 
 | 20210118T02:14:51Z | CVE-2020-17519 | CVE-2020-17519; Apache Flink 任意文件读取; 批量检测 | https://github.com/yaunsky/CVE-2020-17519-Apache-Flink | A change introduced in Apache Flink 1.11.0 (and released in 1.11.1 and 1.11.2 as well) allows attackers to read any file on the local filesystem of the JobManager through the REST interface of the JobManager process. Access is restricted to files accessible by the JobManager process. All users should upgrade to Flink 1.11.3 or 1.12.0 if their Flink instance(s) are exposed. The issue was fixed in commit b561010b0ee741543c3953306037f00d7a9f0801 from apache/flink:master.| 
@@ -27,6 +31,7 @@
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210118T15:16:24Z | RVT is a collection of tools/libraries to support both static and dynamic verification of Rust programs. | https://github.com/project-oak/rust-verification-tools | 101 | 6| 
 | 20210118T08:39:21Z | An opinionated CSS framework - Jan 2021 | https://github.com/logic-fabric/klee | 0 | 0| 
 | 20210118T05:57:18Z | Null | https://github.com/LitRHap/klee | 0 | 0| 
 | 20210118T04:21:10Z | Null | https://github.com/davidtr1037/klee-aaqc | 1 | 0| 
@@ -35,21 +40,22 @@
 # s2e on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210118T16:24:13Z | Null | https://github.com/sabasabzeh/s2Exercise | 0 | 0| 
 
 
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210118T13:38:11Z | Null | https://github.com/gbrsh/htb_exploits | 0 | 0| 
-| 20210118T13:37:02Z | A Denial of Service exploit for HP printers | https://github.com/ReallySecureShell/PapersPlease | 1 | 1| 
-| 20210118T13:14:38Z | I hate this shit | https://github.com/andrewbae/heap-exploitation | 0 | 0| 
-| 20210118T12:59:12Z | CDK is an open-sourced container penetration toolkit, offering stable exploitation in different slimmed containers without any OS dependency. It comes with penetration tools and many powerful PoCs/EXPs helps you to escape container and takeover K8s cluster easily. | https://github.com/cdk-team/CDK | 322 | 50| 
-| 20210118T12:24:14Z | ELF 32-bit Reversing | https://github.com/RobertJonnyTiger/Reverse-and-Exploit-Development | 0 | 0| 
-| 20210118T12:02:10Z | Geohazards Thematic Exploitation guide | https://github.com/Terradue/doc-tep-geohazards | 9 | 23| 
-| 20210118T11:56:11Z | This bash script will help you to hack remote hosts  | https://github.com/FabioDefilippo/linuxallremote | 3 | 1| 
-| 20210118T11:35:17Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 8903 | 1411| 
-| 20210118T11:09:41Z | This exploit it%s just for CTF .Try understand concept of Buffer Overflow ROP exploit | https://github.com/T3jv1l/Smasher | 0 | 0| 
-| 20210118T10:57:04Z | laravel web cookie exploit scanner | https://github.com/rdika53/lavget | 0 | 0| 
+| 20210118T23:58:54Z | ELF 32-bit Reversing | https://github.com/RobertJonnyTiger/Reverse-and-Exploit-Development | 0 | 0| 
+| 20210118T23:57:22Z | Library for rop gadgets extraction for personal experiments | https://github.com/Neetx/ropgadgetlib | 2 | 0| 
+| 20210118T23:21:49Z | Web-scraping scripts of cybersecurity-related data (CVE and exploits). | https://github.com/Eli-mas/cve | 0 | 0| 
+| 20210118T23:01:33Z | A phased, evasive Path Traversal + LFI scanning & exploitation tool in Python | https://github.com/VainlyStrain/Vailyn | 85 | 2| 
+| 20210118T22:47:28Z | EternalBlue suite remade in C/C++ which includes: MS17-010 Exploit, EternalBlue vulnerability detector, DoublePulsar detector and DoublePulsar Shellcode & DLL uploader | https://github.com/bhassani/EternalBlueC | 304 | 77| 
+| 20210118T22:42:34Z | A post exploitation framework designed to operate covertly on heavily monitored environments | https://github.com/bats3c/shad0w | 1100 | 179| 
+| 20210118T22:02:57Z | Um exploit de buffer overflow para SLmail-5.5 pop3 service  CVE-2003-0264   | https://github.com/medn1c/pop3_SLmail-exploit | 1 | 0| 
+| 20210118T22:01:25Z | This bash script will help you to hack remote hosts  | https://github.com/FabioDefilippo/linuxallremote | 4 | 1| 
+| 20210118T21:34:11Z | A bunch of post exploitation tools + reverse proxy server | https://github.com/redcode-labs/Svetovid | 2 | 0| 
+| 20210118T21:11:20Z | Vulnerabilities% Risk of Exploitation | https://github.com/thiagofigcosta/V-REx | 0 | 0| 
 
 
 # backdoor on Github 推荐
@@ -64,16 +70,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210118T13:53:37Z | Null | https://github.com/T-Jinhao/UploadFuzzer | 0 | 0| 
-| 20210118T13:46:35Z | Fuzzer for Pharo | https://github.com/mabdi/phazzer | 0 | 0| 
-| 20210118T13:17:13Z | A fuzzer for full VM kernel/driver targets | https://github.com/IntelLabs/kAFL | 177 | 32| 
-| 20210118T13:14:36Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 3308 | 763| 
-| 20210118T13:01:26Z | FuzzBench - Fuzzer benchmarking as a service. | https://github.com/google/fuzzbench | 583 | 93| 
-| 20210118T12:44:11Z | Null | https://github.com/sudomakeinstall2/fuzzgoat | 0 | 0| 
-| 20210118T12:25:38Z | Personal website of Laurence Hughes | https://github.com/fuzzylogicxx/fuzzylogic | 4 | 1| 
-| 20210118T12:19:29Z | helper script to generate a random string | https://github.com/ZackDev/fuzzystring | 0 | 0| 
-| 20210118T11:19:43Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 5798 | 1158| 
-| 20210118T11:03:33Z | Check strings similarity with Salesforce Flow | https://github.com/munawirrahman/FuzzyWuzzy | 1 | 0| 
+| 20210118T23:30:57Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2252 | 113| 
+| 20210118T23:24:10Z | Null | https://github.com/golder98/fuzzy-fiesta | 0 | 0| 
+| 20210118T23:11:44Z | Challenging testcases for fuzzers | https://github.com/AFLplusplus/fuzzer-challenges | 18 | 0| 
+| 20210118T23:00:34Z | Personal website of Laurence Hughes | https://github.com/fuzzylogicxx/fuzzylogic | 4 | 1| 
+| 20210118T21:53:43Z | Null | https://github.com/educao938/fuzzy-carnival | 0 | 0| 
+| 20210118T21:36:12Z | Null | https://github.com/brasa9389/fuzzy-goggles | 0 | 0| 
+| 20210118T21:17:11Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 5799 | 1158| 
+| 20210118T21:16:56Z | FuzzBench - Fuzzer benchmarking as a service. | https://github.com/google/fuzzbench | 583 | 93| 
+| 20210118T21:05:56Z | Effortlessly fuzz libraries with large API surfaces | https://github.com/rust-fuzz/auto-fuzz-test | 29 | 1| 
+| 20210118T21:03:39Z | Air-conditioner fan speed controller using fuzzy logic | https://github.com/mdmamunhasan/fuzzy-logic-ac-controller | 0 | 0| 
 
 
 
