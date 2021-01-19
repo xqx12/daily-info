@@ -88,9 +88,9 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210119T02:31:58Z | Security and Hacking Tools, Exploits, Proof of Concepts, Shellcodes, Scripts. | https://github.com/nullsecuritynet/tools | 1300 | 446| 
 | 20210119T02:31:02Z | Fixes the book and quill exploit that allowed the user to dupe and kick every player in render distance | https://github.com/obamabob/NoBookKick | 0 | 0| 
 | 20210119T02:25:46Z | A collection of great discord bugs and exploits. | https://github.com/Passive/discord-exploits | 1 | 0| 
-| 20210119T02:22:18Z | Security and Hacking Tools, Exploits, Proof of Concepts, Shellcodes, Scripts. | https://github.com/nullsecuritynet/tools | 1300 | 446| 
 | 20210119T02:18:07Z | Rust implementation of the Fusée Gelée exploit (CVE-2018-6242) for Tegra processors. | https://github.com/austinhartzheim/fusee-gelee | 0 | 0| 
 | 20210119T02:11:35Z | Has There Menu Perfect, Includes Buttons. Sliders. Toggles. Also Includes There Full Cheat Will All The Exploits! | https://github.com/SpaceCheats/Apple-FortMeme | 0 | 0| 
 | 20210119T02:09:54Z | A bunch of post exploitation tools + reverse proxy server | https://github.com/redcode-labs/Svetovid | 3 | 0| 
@@ -118,6 +118,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210119T02:31:35Z | Null | https://github.com/baby8457834/fuzzy-goggles | 0 | 0| 
 | 20210119T02:25:39Z | Just another repository | https://github.com/heathermercer163/fuzzy-engine | 0 | 0| 
 | 20210119T02:03:13Z | Null | https://github.com/marrone938/fuzzy-tribble | 0 | 0| 
 | 20210119T01:36:01Z | Null | https://github.com/togetherwedomore/fuzzy-lamp | 0 | 0| 
@@ -127,7 +128,6 @@
 | 20210119T00:34:36Z | A differential fuzzer for x86 decoders | https://github.com/trailofbits/mishegos | 124 | 18| 
 | 20210118T23:30:57Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2252 | 113| 
 | 20210118T23:24:10Z | Null | https://github.com/golder98/fuzzy-fiesta | 0 | 0| 
-| 20210118T23:11:44Z | Challenging testcases for fuzzers | https://github.com/AFLplusplus/fuzzer-challenges | 18 | 0| 
 
 
 
