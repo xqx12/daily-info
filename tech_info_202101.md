@@ -88,7 +88,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210119T02:10:06Z | Has There Menu Perfect, Includes Buttons. Sliders. Toggles. Also Includes There Full Cheat Will All The Exploits! | https://github.com/SpaceCheats/Apple-FortMeme | 0 | 0| 
+| 20210119T02:11:35Z | Has There Menu Perfect, Includes Buttons. Sliders. Toggles. Also Includes There Full Cheat Will All The Exploits! | https://github.com/SpaceCheats/Apple-FortMeme | 0 | 0| 
 | 20210119T02:09:54Z | A bunch of post exploitation tools + reverse proxy server | https://github.com/redcode-labs/Svetovid | 3 | 0| 
 | 20210119T02:07:22Z | nginx-defender is a python script that scrapes your nginx logs for requests from various exploit attempts found and then bans the IPs that made those requests | https://github.com/Filz0r/nginx-defender | 0 | 0| 
 | 20210119T02:07:07Z | Fixes the book and quill exploit that allowed the user to dupe and kick every player in render distance | https://github.com/obamabob/NoBookKick | 0 | 0| 
