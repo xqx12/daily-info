@@ -88,6 +88,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210119T02:10:06Z | Has There Menu Perfect, Includes Buttons. Sliders. Toggles. Also Includes There Full Cheat Will All The Exploits! | https://github.com/SpaceCheats/Apple-FortMeme | 0 | 0| 
+| 20210119T02:09:54Z | A bunch of post exploitation tools + reverse proxy server | https://github.com/redcode-labs/Svetovid | 3 | 0| 
 | 20210119T02:07:22Z | nginx-defender is a python script that scrapes your nginx logs for requests from various exploit attempts found and then bans the IPs that made those requests | https://github.com/Filz0r/nginx-defender | 0 | 0| 
 | 20210119T02:07:07Z | Fixes the book and quill exploit that allowed the user to dupe and kick every player in render distance | https://github.com/obamabob/NoBookKick | 0 | 0| 
 | 20210119T01:51:33Z | Security and Hacking Tools, Exploits, Proof of Concepts, Shellcodes, Scripts. | https://github.com/nullsecuritynet/tools | 1300 | 446| 
@@ -96,8 +98,6 @@
 | 20210119T01:00:41Z | A collection of more than 140+ tools, scripts, cheatsheets and other loots that I have developed over years for Red Teaming/Pentesting/IT Security audits purposes. Most of them came handy on at least one of my real-world engagements. | https://github.com/mgeeky/Penetration-Testing-Tools | 563 | 146| 
 | 20210119T00:50:45Z | A collection of great discord bugs and exploits. | https://github.com/Passive/discord-exploits | 1 | 0| 
 | 20210119T00:50:17Z | Null | https://github.com/ghostAPT/awesome-exploit-development | 0 | 0| 
-| 20210119T00:50:07Z | HTML Exploit for NFTS bug in Windows 10. ( fun exploit ) | https://github.com/meddiom/nfts-win10-exploit | 0 | 0| 
-| 20210118T23:58:54Z | ELF 32-bit Reversing | https://github.com/RobertJonnyTiger/Reverse-and-Exploit-Development | 0 | 0| 
 
 
 # backdoor on Github 推荐
