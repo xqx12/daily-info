@@ -55,7 +55,7 @@
 | 20210117T20:30:40Z | CVE-2020-7200 | CVE-2020-7200: HPE Systems Insight Manager (SIM) RCE PoC | https://github.com/alexfrancow/CVE-2020-7200 | A potential security vulnerability has been identified in HPE Systems Insight Manager (SIM) version 7.6. The vulnerability could be exploited to allow remote code execution.| 
 | 20210117T17:07:36Z | CVE-2020-11851 | Remote Code Execution vulnerability on ArcSight Logger | https://github.com/ch1nghz/CVE-2020-11851 | Arbitrary code execution vulnerability on Micro Focus ArcSight Logger product, affecting all version prior to 7.1.1. The vulnerability could be remotely exploited resulting in the execution of arbitrary code.| 
 | 20210115T18:12:09Z | CVE-2020-9484 | Apache Tomcat RCE (CVE-2020-9484) | https://github.com/Proxysec/-CVE-2020-9484 | When using Apache Tomcat versions 10.0.0-M1 to 10.0.0-M4, 9.0.0.M1 to 9.0.34, 8.5.0 to 8.5.54 and 7.0.0 to 7.0.103 if a) an attacker is able to control the contents and name of a file on the server; and b) the server is configured to use the PersistenceManager with a FileStore; and c) the PersistenceManager is configured with sessionAttributeValueClassNameFilter=%null% (the default unless a SecurityManager is used) or a sufficiently lax filter to allow the attacker provided object to be deserialized; and d) the attacker knows the relative file path from the storage location used by FileStore to the file the attacker has control over; then, using a specifically crafted request, the attacker will be able to trigger remote code execution via deserialization of the file under their control. Note that all of conditions a) to d) must be true for the attack to succeed.| 
-| 20210115T17:59:25Z | CVE-2020-9484 | Apache Tomcat RCE (CVE-2020-9484) | https://github.com/Proxysec/-CVE-2020-9484- | | 
+| 20210115T17:59:25Z | CVE-2020-9484 | Apache Tomcat RCE (CVE-2020-9484) | https://github.com/Proxysec/-CVE-2020-9484- | When using Apache Tomcat versions 10.0.0-M1 to 10.0.0-M4, 9.0.0.M1 to 9.0.34, 8.5.0 to 8.5.54 and 7.0.0 to 7.0.103 if a) an attacker is able to control the contents and name of a file on the server; and b) the server is configured to use the PersistenceManager with a FileStore; and c) the PersistenceManager is configured with sessionAttributeValueClassNameFilter=%null% (the default unless a SecurityManager is used) or a sufficiently lax filter to allow the attacker provided object to be deserialized; and d) the attacker knows the relative file path from the storage location used by FileStore to the file the attacker has control over; then, using a specifically crafted request, the attacker will be able to trigger remote code execution via deserialization of the file under their control. Note that all of conditions a) to d) must be true for the attack to succeed.| 
 
 
 # klee on Github 推荐
@@ -88,6 +88,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210119T01:37:44Z | exploit-database-papers | https://github.com/offensive-security/exploitdb-papers | 277 | 39| 
 | 20210119T01:35:00Z | GEF - GDB Enhanced Features for exploit devs & reversers | https://github.com/hugsy/gef | 3368 | 481| 
 | 20210119T01:00:41Z | A collection of more than 140+ tools, scripts, cheatsheets and other loots that I have developed over years for Red Teaming/Pentesting/IT Security audits purposes. Most of them came handy on at least one of my real-world engagements. | https://github.com/mgeeky/Penetration-Testing-Tools | 563 | 146| 
 | 20210119T00:50:45Z | A collection of great discord bugs and exploits. | https://github.com/Passive/discord-exploits | 1 | 0| 
@@ -97,7 +98,6 @@
 | 20210118T23:58:54Z | ELF 32-bit Reversing | https://github.com/RobertJonnyTiger/Reverse-and-Exploit-Development | 0 | 0| 
 | 20210118T23:57:22Z | Library for rop gadgets extraction for personal experiments | https://github.com/Neetx/ropgadgetlib | 2 | 0| 
 | 20210118T23:21:49Z | Web-scraping scripts of cybersecurity-related data (CVE and exploits). | https://github.com/Eli-mas/cve | 0 | 0| 
-| 20210118T23:01:33Z | A phased, evasive Path Traversal + LFI scanning & exploitation tool in Python | https://github.com/VainlyStrain/Vailyn | 85 | 2| 
 
 
 # backdoor on Github 推荐
