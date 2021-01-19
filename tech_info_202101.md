@@ -88,6 +88,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210119T02:18:07Z | Rust implementation of the Fusée Gelée exploit (CVE-2018-6242) for Tegra processors. | https://github.com/austinhartzheim/fusee-gelee | 0 | 0| 
 | 20210119T02:17:27Z | A collection of great discord bugs and exploits. | https://github.com/Passive/discord-exploits | 1 | 0| 
 | 20210119T02:11:35Z | Has There Menu Perfect, Includes Buttons. Sliders. Toggles. Also Includes There Full Cheat Will All The Exploits! | https://github.com/SpaceCheats/Apple-FortMeme | 0 | 0| 
 | 20210119T02:09:54Z | A bunch of post exploitation tools + reverse proxy server | https://github.com/redcode-labs/Svetovid | 3 | 0| 
@@ -97,7 +98,6 @@
 | 20210119T01:42:10Z | GEF - GDB Enhanced Features for exploit devs & reversers | https://github.com/hugsy/gef | 3368 | 481| 
 | 20210119T01:37:44Z | exploit-database-papers | https://github.com/offensive-security/exploitdb-papers | 277 | 39| 
 | 20210119T01:00:41Z | A collection of more than 140+ tools, scripts, cheatsheets and other loots that I have developed over years for Red Teaming/Pentesting/IT Security audits purposes. Most of them came handy on at least one of my real-world engagements. | https://github.com/mgeeky/Penetration-Testing-Tools | 563 | 146| 
-| 20210119T00:50:17Z | Null | https://github.com/ghostAPT/awesome-exploit-development | 0 | 0| 
 
 
 # backdoor on Github 推荐
