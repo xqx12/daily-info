@@ -30,7 +30,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20210120T13:11:58Z | 未知编号 | 2020一些漏洞 | https://github.com/r0eXpeR/CVE-2020 | | 
+| 20210120T13:11:58Z | 未知编号 | 2020一些漏洞 | https://github.com/r0eXpeR/CVE-2020 | 未查询到CVE信息| 
 | 20210120T11:27:14Z | CVE-2020-11851 | Remote Code Execution vulnerability on ArcSight Logger | https://github.com/ch1nghz/CVE-2020-11851 | Arbitrary code execution vulnerability on Micro Focus ArcSight Logger product, affecting all version prior to 7.1.1. The vulnerability could be remotely exploited resulting in the execution of arbitrary code.| 
 | 20210120T02:49:30Z | cve-2021-3164 | Church Rota version 2.6.4 is vulnerable to authenticated remote code execution. The user does not need to have file upload permission in order to upload and execute an arbitrary file. The application is written primarily with PHP so we use PHP in our PoC            | https://github.com/rmccarth/cve-2021-3164 | 未查询到CVE信息| 
 
@@ -68,7 +68,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210120T14:04:42Z | Rusty backdoor+spyware :bomb: :door: | https://github.com/talbor49/spyware | 10 | 0| 
+| 20210120T14:15:05Z | Rusty backdoor+spyware :bomb: :door: | https://github.com/talbor49/spyware | 10 | 0| 
 | 20210120T11:31:40Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 153 | 22| 
 | 20210120T10:20:50Z | Strengthen your defense against web attacks with Kali Linux and Metasploit | https://github.com/PacktPublishing/Improving-your-Penetration-Testing-Skills | 5 | 0| 
 | 20210120T08:28:32Z | Allows full access to the target system | https://github.com/maurya-bitlegacy/reverse-backdoor | 0 | 0| 
