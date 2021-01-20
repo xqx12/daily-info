@@ -118,6 +118,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210120T02:38:02Z | fzf-like fuzzy-finder as a Go library | https://github.com/ktr0731/go-fuzzyfinder | 205 | 19| 
 | 20210120T02:31:44Z | URL Fuzzing / brute forcing tool, written in dart. | https://github.com/GrayWasTaken/dartbuster | 1 | 0| 
 | 20210120T02:15:23Z | Null | https://github.com/afforeroc/fuzz-dict-expressions | 0 | 0| 
 | 20210120T01:44:30Z | A curated list of different AFL forks and AFL inspired fuzzers with detailed equivalent academic papers and AFL-fuzzing tutorials | https://github.com/Microsvuln/Awesome-AFL | 361 | 45| 
@@ -127,7 +128,6 @@
 | 20210120T00:49:04Z | Fuzzy matching publications for fatcat (wip). | https://github.com/miku/fuzzycat | 1 | 1| 
 | 20210119T22:20:52Z | Null | https://github.com/CharlyWargnier/PolyFuzzS4SimpleTest | 0 | 0| 
 | 20210119T22:20:47Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 5801 | 1160| 
-| 20210119T22:07:24Z | Note taking with fuzzy search | https://github.com/iamlemec/fuzzy | 1 | 1| 
 
 
 
