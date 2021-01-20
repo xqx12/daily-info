@@ -33,19 +33,20 @@
 | --- | --- | ---| 
 | 20210119 | Apache Flink漏洞复现 | https://www.hetianlab.com/specialized/20210115143514| 
 | 20210119 | 校园内网web平台的渗透测试(上)无限加分? | https://www.sec-in.com/article/778| 
+| 20210119 | 记一次反制追踪溯本求源 | https://mp.weixin.qq.com/s/xW2u4s8xCTnLCkpDoK5Yzw| 
+| 20210119 | 以太坊钓鱼合约：因为了解，所以上当 | https://mp.weixin.qq.com/s/4zztI9f-pzvLxVFxlVdgMw| 
+| 20210119 | 关于恶意软件加密流量检测的思考 | https://mp.weixin.qq.com/s/hVq3eBMDsX6tj1PsoUpy8Q| 
+| 20210119 | 常见的匿名化隐私保护技术 | https://mp.weixin.qq.com/s/46yaHiXqDpq4cY4W1uqKsQ| 
 | 20210118 | Five86-1靶机渗透实战 | https://www.hetianlab.com/specialized/20210114134638| 
 | 20210118 | SecWiki周刊（第359期) | https://www.sec-wiki.com/weekly/359| 
 | 20210117 | 开源包托管服务存在的供应链安全问题 | https://mp.weixin.qq.com/s/DjfldjeqJY786nqdcsXzBg| 
 | 20210117 | Cobalt Strike4.0远控木马分析 | https://mp.weixin.qq.com/s/Sv0lR4G2eQf4_L8W4CqRYw| 
-| 20210117 | 深度探索：解除文件占用那些坑 | https://anhkgg.com/unlockfile/| 
-| 20210117 | 局域网监控软件WFilter ICF 鸡肋0day RCE漏洞挖掘 | https://drivertom.blogspot.com/2021/01/wfilter-icf-0day-rce.html| 
-| 20210117 | SecWiki安全周刊-年卷-2020 | https://mp.weixin.qq.com/s/pI495N48AYbA3gYkf4zlqQ| 
-| 20210117 | Netgear固件分析与后门植入 | https://mp.weixin.qq.com/s/o9v4V673ayyMTY1vGjveFg| 
 
 
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20210119T19:59:48Z | CVE-2020-11851 | Remote Code Execution vulnerability on ArcSight Logger | https://github.com/ch1nghz/CVE-2020-11851 | Arbitrary code execution vulnerability on Micro Focus ArcSight Logger product, affecting all version prior to 7.1.1. The vulnerability could be remotely exploited resulting in the execution of arbitrary code.| 
 | 20210119T09:25:39Z | 未知编号 | 2020一些漏洞 | https://github.com/r0eXpeR/CVE-2020 | 未查询到CVE信息| 
 | 20210118T16:58:15Z | 未知编号 | 2020l4web-campaign-DanCvejn created by GitHub Classroom | https://github.com/pslib-cz/2020l4web-campaign-DanCvejn | 未查询到CVE信息| 
 | 20210118T07:50:23Z | CVE-2020-6207 | PoC for CVE-2020-6207  (Missing Authentication Check in SAP Solution Manager) | https://github.com/chipik/SAP_EEM_CVE-2020-6207 | SAP Solution Manager (User Experience Monitoring), version- 7.2, due to Missing Authentication Check does not perform any authentication for a service resulting in complete compromise of all SMDAgents connected to the Solution Manager.| 
@@ -53,7 +54,6 @@
 | 20210118T02:14:51Z | CVE-2020-17519 | CVE-2020-17519; Apache Flink 任意文件读取; 批量检测 | https://github.com/yaunsky/CVE-2020-17519-Apache-Flink | A change introduced in Apache Flink 1.11.0 (and released in 1.11.1 and 1.11.2 as well) allows attackers to read any file on the local filesystem of the JobManager through the REST interface of the JobManager process. Access is restricted to files accessible by the JobManager process. All users should upgrade to Flink 1.11.3 or 1.12.0 if their Flink instance(s) are exposed. The issue was fixed in commit b561010b0ee741543c3953306037f00d7a9f0801 from apache/flink:master.| 
 | 20210118T01:49:23Z | CVE-2020-14179 | CVE-2020-14179 Scanner | https://github.com/c0brabaghdad1/CVE-2020-14179 | Affected versions of Atlassian Jira Server and Data Center allow remote, unauthenticated attackers to view custom field names and custom SLA names via an Information Disclosure vulnerability in the /secure/QueryComponent!Default.jspa endpoint. The affected versions are before version 8.5.8, and from version 8.6.0 before 8.11.1.| 
 | 20210117T20:30:40Z | CVE-2020-7200 | CVE-2020-7200: HPE Systems Insight Manager (SIM) RCE PoC | https://github.com/alexfrancow/CVE-2020-7200 | A potential security vulnerability has been identified in HPE Systems Insight Manager (SIM) version 7.6. The vulnerability could be exploited to allow remote code execution.| 
-| 20210117T17:07:36Z | CVE-2020-11851 | Remote Code Execution vulnerability on ArcSight Logger | https://github.com/ch1nghz/CVE-2020-11851 | Arbitrary code execution vulnerability on Micro Focus ArcSight Logger product, affecting all version prior to 7.1.1. The vulnerability could be remotely exploited resulting in the execution of arbitrary code.| 
 | 20210115T18:12:09Z | CVE-2020-9484 | Apache Tomcat RCE (CVE-2020-9484) | https://github.com/Proxysec/-CVE-2020-9484 | When using Apache Tomcat versions 10.0.0-M1 to 10.0.0-M4, 9.0.0.M1 to 9.0.34, 8.5.0 to 8.5.54 and 7.0.0 to 7.0.103 if a) an attacker is able to control the contents and name of a file on the server; and b) the server is configured to use the PersistenceManager with a FileStore; and c) the PersistenceManager is configured with sessionAttributeValueClassNameFilter=%null% (the default unless a SecurityManager is used) or a sufficiently lax filter to allow the attacker provided object to be deserialized; and d) the attacker knows the relative file path from the storage location used by FileStore to the file the attacker has control over; then, using a specifically crafted request, the attacker will be able to trigger remote code execution via deserialization of the file under their control. Note that all of conditions a) to d) must be true for the attack to succeed.| 
 | 20210115T17:59:25Z | CVE-2020-9484 | Apache Tomcat RCE (CVE-2020-9484) | https://github.com/Proxysec/-CVE-2020-9484- | When using Apache Tomcat versions 10.0.0-M1 to 10.0.0-M4, 9.0.0.M1 to 9.0.34, 8.5.0 to 8.5.54 and 7.0.0 to 7.0.103 if a) an attacker is able to control the contents and name of a file on the server; and b) the server is configured to use the PersistenceManager with a FileStore; and c) the PersistenceManager is configured with sessionAttributeValueClassNameFilter=%null% (the default unless a SecurityManager is used) or a sufficiently lax filter to allow the attacker provided object to be deserialized; and d) the attacker knows the relative file path from the storage location used by FileStore to the file the attacker has control over; then, using a specifically crafted request, the attacker will be able to trigger remote code execution via deserialization of the file under their control. Note that all of conditions a) to d) must be true for the attack to succeed.| 
 
@@ -103,31 +103,31 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210119T13:32:29Z | Null | https://github.com/EjHvorSerDuVildUdJim/backdoor | 0 | 0| 
-| 20210119T13:02:36Z | Null | https://github.com/sunrungeng/BackdoorAttack | 0 | 0| 
+| 20210119T20:31:32Z | Undetectable & Xor encrypting with custom KEY (FUD Metasploit Rat) bypass Top Antivirus like BitDefender,Malwarebytes,Avast,ESET-NOD32,AVG,... & Automatically Add ICON and MANIFEST to excitable | https://github.com/persianhydra/Xeexe-TopAntivirusEvasion | 262 | 72| 
+| 20210119T20:17:15Z | Null | https://github.com/EjHvorSerDuVildUdJim/backdoor | 0 | 0| 
+| 20210119T19:24:38Z | Null | https://github.com/romaaji/Backdoor-Scanner | 0 | 0| 
+| 20210119T17:56:41Z | A multi functional rat, that firstly will be a simple backdoor | https://github.com/K1DR4T/BETA---R4T | 0 | 0| 
+| 20210119T16:22:50Z | This program is an non-object oriented opensource, hidden and undetectable backdoor/reverse shell/RAT for Windows made in Python 3 which contains many features such as multi-client support and cross-platform server. | https://github.com/xp4xbox/Python-Backdoor | 338 | 130| 
+| 20210119T16:08:00Z | Null | https://github.com/sunrungeng/BackdoorAttack | 0 | 0| 
 | 20210119T11:40:25Z | Injectra injects shellcode payloads into MacOS applications. | https://github.com/Taguar258/injectra | 8 | 3| 
 | 20210119T11:25:28Z | Thefatrat a massive exploiting tool : Easy tool to generate backdoor and easy tool to post exploitation attack like browser attack and etc . This tool compiles a malware with popular payload and then the compiled malware can be execute on windows, android, mac . The malware that created with this tool also have an ability to bypass most AV software protection . | https://github.com/Screetsec/TheFatRat | 4893 | 1619| 
 | 20210119T10:08:01Z | Null | https://github.com/rabbitx1337/backdoor | 0 | 0| 
 | 20210119T09:59:38Z | Neural networks for the Fooling a Complete Neural Network Verifier paper (ICLR 2021) | https://github.com/szegedai/nn_backdoor | 0 | 0| 
-| 20210119T03:27:03Z | TheGremlinLinuxBackdoor Project, still in making do not use for now ! | https://github.com/k0rup710n/GremlinLinux-Backdoor | 0 | 0| 
-| 20210118T22:14:41Z | Backdoor de shell reversa simples em C  | https://github.com/medn1c/reverse-shell | 1 | 0| 
-| 20210118T21:41:24Z | A backdoor that runs on Linux and Windows | https://github.com/EiSiMo/Backdoor | 13 | 7| 
-| 20210118T17:18:13Z | Null | https://github.com/Wiilldd/backdoor | 0 | 0| 
 
 
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210119T13:52:28Z | Null | https://github.com/mo3ayka/fuzzy-doodle | 0 | 0| 
-| 20210119T13:37:43Z | Null | https://github.com/sumaia1996/fuzzy-parakeet | 0 | 0| 
-| 20210119T13:29:08Z | Fuzzer for Pharo | https://github.com/mabdi/phazzer | 0 | 0| 
-| 20210119T13:18:38Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 1255 | 268| 
-| 20210119T12:56:47Z | Null | https://github.com/lacygoill/vim-fuzzy | 0 | 0| 
-| 20210119T12:54:27Z | Planning tool | https://github.com/HappyDustbunny/FuzzyFlexx | 1 | 0| 
-| 20210119T12:30:00Z | Null | https://github.com/0FuzzingQ/0FuzzingQ.github.io | 0 | 0| 
-| 20210119T11:41:47Z | Fake News Detection, Repository. | https://github.com/hrs2203/fuzzy-pancake | 0 | 0| 
-| 20210119T11:29:39Z | Null | https://github.com/FDU-Program-Analysis/chunk-fuzzer-pass | 0 | 0| 
-| 20210119T11:29:29Z | Fuzzing cryptographic libraries. Magic bug printer go brrrr. | https://github.com/guidovranken/cryptofuzz | 230 | 31| 
+| 20210120T00:52:00Z | rfuzz: coverage-directed fuzzing for RTL research platform | https://github.com/ekiwi/rfuzz | 30 | 3| 
+| 20210120T00:49:04Z | Fuzzy matching publications for fatcat (wip). | https://github.com/miku/fuzzycat | 1 | 1| 
+| 20210119T23:46:08Z | URL Fuzzing / brute forcing tool, written in dart. | https://github.com/GrayWasTaken/dartbuster | 1 | 0| 
+| 20210119T23:15:39Z | A curated list of different AFL forks and AFL inspired fuzzers with detailed equivalent academic papers and AFL-fuzzing tutorials | https://github.com/Microsvuln/Awesome-AFL | 360 | 45| 
+| 20210119T22:20:52Z | Null | https://github.com/CharlyWargnier/PolyFuzzS4SimpleTest | 0 | 0| 
+| 20210119T22:20:47Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 5801 | 1160| 
+| 20210119T22:07:24Z | Note taking with fuzzy search | https://github.com/iamlemec/fuzzy | 1 | 1| 
+| 20210119T21:52:25Z | Null | https://github.com/connected-cjohnston/fuzzyblog | 0 | 0| 
+| 20210119T21:46:32Z | FIRM-AFL is the first high-throughput greybox fuzzer for IoT firmware.  | https://github.com/zyw-200/FirmAFL | 223 | 49| 
+| 20210119T21:31:45Z | A cross-platform browser fuzzing framework | https://github.com/MozillaSecurity/grizzly | 222 | 30| 
 
 
 
