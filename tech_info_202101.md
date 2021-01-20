@@ -118,8 +118,8 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210120T01:38:16Z | Null | https://github.com/jingjingfang/fuzzyartwebtraffic | 0 | 0| 
 | 20210120T01:35:10Z | URL Fuzzing / brute forcing tool, written in dart. | https://github.com/GrayWasTaken/dartbuster | 1 | 0| 
-| 20210120T01:35:08Z | Null | https://github.com/jingjingfang/fuzzyartwebtraffic | 0 | 0| 
 | 20210120T01:34:29Z | Manage & generate prefs.js files | https://github.com/MozillaSecurity/prefpicker | 2 | 1| 
 | 20210120T00:52:00Z | rfuzz: coverage-directed fuzzing for RTL research platform | https://github.com/ekiwi/rfuzz | 30 | 3| 
 | 20210120T00:49:04Z | Fuzzy matching publications for fatcat (wip). | https://github.com/miku/fuzzycat | 1 | 1| 
