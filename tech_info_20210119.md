@@ -48,16 +48,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210119T13:54:17Z | Null | https://github.com/SarahTruffert/Exploiter-l-opendata-des-horaires-de-la-TAM | 0 | 0| 
-| 20210119T13:42:23Z | some CTF pwn bins and exploits | https://github.com/sh1ner/ctf_pwn_repo | 1 | 0| 
-| 20210119T13:18:24Z | A phased, evasive Path Traversal + LFI scanning & exploitation tool in Python | https://github.com/VainlyStrain/Vailyn | 85 | 2| 
-| 20210119T12:33:40Z | Development of code to exploit LSST and VISTA imaging | https://github.com/lsst-uk/lsst-ir-fusion | 0 | 0| 
-| 20210119T12:21:18Z | The official Exploit Database repository | https://github.com/offensive-security/exploitdb | 5820 | 1669| 
-| 20210119T12:13:51Z | PrExploit: Open Exploit Prediction System | https://github.com/prexploit/prexploit | 0 | 0| 
-| 20210119T12:07:24Z | Vulnserver Exploit Script | https://github.com/Aporlorxl23/Vulnserver-Exploit-Script | 2 | 0| 
-| 20210119T12:04:20Z | Null | https://github.com/Y3-333/FrostExploit | 0 | 0| 
-| 20210119T11:54:07Z | Geohazards Thematic Exploitation guide | https://github.com/Terradue/doc-tep-geohazards | 9 | 23| 
-| 20210119T11:45:45Z | This project is designed to express how to use Android MVVM architecture while exploiting the right practices. | https://github.com/mbobiosio/KotlinMVVMRetrofitRoom | 1 | 1| 
+| 20210119T23:49:25Z | An attack/exploit Detector that utilizes Polymorphism and Diversity | https://github.com/polyverse/zerotect | 21 | 1| 
+| 20210119T23:31:22Z | The purpose of this program is to help beginner and intermediate users to hone their web exploitation and development skills by mirroring a vunerable e-commerce application. | https://github.com/Surreptitious-Coder/GVW | 0 | 1| 
+| 20210119T23:23:25Z | This is just an semi-automated fully working, no-bs, non-metasploit version of the public exploit code for MS17-010 | https://github.com/3ndG4me/AutoBlue-MS17-010 | 495 | 182| 
+| 20210119T22:54:40Z | Exploits project Hacking Command Center | https://github.com/chacka0101/exploits | 0 | 2| 
+| 20210119T22:25:19Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 8908 | 1414| 
+| 20210119T22:15:13Z | nginx-defender is a python script that scrapes your nginx logs for requests from various exploit attempts found and then bans the IPs that made those requests | https://github.com/Filz0r/nginx-defender | 0 | 0| 
+| 20210119T21:48:39Z | This library is designed to exclusively aid in process exploitation, function analysis, and operations similar to IDA Pro/Cheat Engine | https://github.com/thedoomed/Memory | 4 | 4| 
+| 20210119T21:30:03Z | Exploiting stuff I learn | https://github.com/BlameTheKernel/Exploiting | 0 | 0| 
+| 20210119T21:24:30Z | Basic services enumeration and exploitation | https://github.com/dar3k93/Basic-service-enumeration | 0 | 1| 
+| 20210119T21:23:52Z | **level 2 exploit required** you can get some exploit from v3rmillion.net for free | https://github.com/keymodded/advertising_bot | 0 | 0| 
 
 
 # backdoor on Github 推荐
