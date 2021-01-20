@@ -88,7 +88,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210120T02:26:26Z | ASLR Evasion, Egghunters, SEH Overwrites | https://github.com/freddiebarrsmith/Advanced-Windows-Exploit-Development-Practice | 9 | 1| 
+| 20210120T02:29:44Z | ASLR Evasion, Egghunters, SEH Overwrites | https://github.com/freddiebarrsmith/Advanced-Windows-Exploit-Development-Practice | 9 | 1| 
 | 20210120T01:51:22Z | Sécurité des logiciels et exploitation de vulnérabilités | https://github.com/ppepos/inf600c | 2 | 0| 
 | 20210120T00:49:47Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 7 | 4| 
 | 20210120T00:36:34Z | A collection of great discord bugs and exploits. | https://github.com/Passive/discord-exploits | 1 | 0| 
@@ -118,10 +118,10 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210120T02:28:36Z | URL Fuzzing / brute forcing tool, written in dart. | https://github.com/GrayWasTaken/dartbuster | 1 | 0| 
 | 20210120T02:15:23Z | Null | https://github.com/afforeroc/fuzz-dict-expressions | 0 | 0| 
 | 20210120T01:44:30Z | A curated list of different AFL forks and AFL inspired fuzzers with detailed equivalent academic papers and AFL-fuzzing tutorials | https://github.com/Microsvuln/Awesome-AFL | 361 | 45| 
 | 20210120T01:38:16Z | Null | https://github.com/jingjingfang/fuzzyartwebtraffic | 0 | 0| 
-| 20210120T01:35:10Z | URL Fuzzing / brute forcing tool, written in dart. | https://github.com/GrayWasTaken/dartbuster | 1 | 0| 
 | 20210120T01:34:29Z | Manage & generate prefs.js files | https://github.com/MozillaSecurity/prefpicker | 2 | 1| 
 | 20210120T00:52:00Z | rfuzz: coverage-directed fuzzing for RTL research platform | https://github.com/ekiwi/rfuzz | 30 | 3| 
 | 20210120T00:49:04Z | Fuzzy matching publications for fatcat (wip). | https://github.com/miku/fuzzycat | 1 | 1| 
