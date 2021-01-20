@@ -15,6 +15,7 @@
 | 20210120 | Remediation and Hardening Strategies for Microsoft 365 to Defend Against UNC2452 | https://www.fireeye.com/blog/threat-research/2021/01/remediation-and-hardening-strategies-for-microsoft-365-to-defend-against-unc2452.html| 
 | 20210120 | Project Zero Natalie Silvanovich 对多款语音通讯软件呼叫状态机的分析 | https://googleprojectzero.blogspot.com/2021/01/the-state-of-state-machines.html| 
 | 20210120 | Linux 内核 eBPF 包过滤子系统越界访问漏洞分析（Pwn2Own 2020） | https://www.thezdi.com/blog/2021/1/18/zdi-20-1440-an-incorrect-calculation-bug-in-the-linux-kernel-ebpf-verifier| 
+| 20210120 | 研究发布警告，一种新的恶意软件“FreakOut“”对Linux系统设备受到安全威胁。 | https://threatpost.com/linux-attack-freakout-malware/163137/| 
 | 20210119 | SonicWall Global VPN 提权漏洞分析（CVE-2020-5144） | https://cymptom.com/cve-2020-5144-sonicwall-global-vpn-new-elevation-of-privileges-vulnerability/2021/01/| 
 | 20210119 | 有用户发现，浏览器打开一个特殊的路径可以导致 Windows 蓝屏崩溃 | https://www.bleepingcomputer.com/news/security/windows-10-bug-crashes-your-pc-when-you-access-this-location/| 
 | 20210119 | Backdooring MSBuild | https://www.a12d404.net/ranting/2021/01/17/msbuild-backdoor.html| 
@@ -25,7 +26,6 @@
 | 20210119 | SolarWinds 供应链攻击持续跟踪进展 | https://paper.seebug.org/1459/| 
 | 20210118 | Linux 5.4.81内核—内存管理模块源码分析。 | https://paper.seebug.org/1458/| 
 | 20210118 | SeveTools:多功能的网络安全实战工具项目库。 | https://github.com/h4ckdepy/SeveTools| 
-| 20210118 | 智能合约拒绝服务之不安全的 “SafeMath” | https://paper.seebug.org/1454/| 
 
 
 # 安全维基 推荐
@@ -46,14 +46,14 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20210120T13:11:58Z | 未知编号 | 2020一些漏洞 | https://github.com/r0eXpeR/CVE-2020 | 未查询到CVE信息| 
-| 20210120T11:27:14Z | CVE-2020-11851 | Remote Code Execution vulnerability on ArcSight Logger | https://github.com/ch1nghz/CVE-2020-11851 | | 
+| 20210120T13:11:58Z | 未知编号 | 2020一些漏洞 | https://github.com/r0eXpeR/CVE-2020 | | 
+| 20210120T11:27:14Z | CVE-2020-11851 | Remote Code Execution vulnerability on ArcSight Logger | https://github.com/ch1nghz/CVE-2020-11851 | Arbitrary code execution vulnerability on Micro Focus ArcSight Logger product, affecting all version prior to 7.1.1. The vulnerability could be remotely exploited resulting in the execution of arbitrary code.| 
 | 20210120T02:49:30Z | cve-2021-3164 | Church Rota version 2.6.4 is vulnerable to authenticated remote code execution. The user does not need to have file upload permission in order to upload and execute an arbitrary file. The application is written primarily with PHP so we use PHP in our PoC            | https://github.com/rmccarth/cve-2021-3164 | 未查询到CVE信息| 
 | 20210118T16:58:15Z | 未知编号 | 2020l4web-campaign-DanCvejn created by GitHub Classroom | https://github.com/pslib-cz/2020l4web-campaign-DanCvejn | 未查询到CVE信息| 
 | 20210118T07:50:23Z | CVE-2020-6207 | PoC for CVE-2020-6207  (Missing Authentication Check in SAP Solution Manager) | https://github.com/chipik/SAP_EEM_CVE-2020-6207 | SAP Solution Manager (User Experience Monitoring), version- 7.2, due to Missing Authentication Check does not perform any authentication for a service resulting in complete compromise of all SMDAgents connected to the Solution Manager.| 
 | 20210118T06:04:43Z | CVE-2020-8165 | PoC for CVE-2020-8165 | https://github.com/progfay/CVE-2020-8165 | A deserialization of untrusted data vulnernerability exists in rails < 5.2.4.3, rails < 6.0.3.1 that can allow an attacker to unmarshal user-provided objects in MemCacheStore and RedisCacheStore potentially resulting in an RCE.| 
 | 20210118T02:14:51Z | CVE-2020-17519 | CVE-2020-17519; Apache Flink 任意文件读取; 批量检测 | https://github.com/yaunsky/CVE-2020-17519-Apache-Flink | A change introduced in Apache Flink 1.11.0 (and released in 1.11.1 and 1.11.2 as well) allows attackers to read any file on the local filesystem of the JobManager through the REST interface of the JobManager process. Access is restricted to files accessible by the JobManager process. All users should upgrade to Flink 1.11.3 or 1.12.0 if their Flink instance(s) are exposed. The issue was fixed in commit b561010b0ee741543c3953306037f00d7a9f0801 from apache/flink:master.| 
-| 20210118T01:49:23Z | CVE-2020-14179 | CVE-2020-14179 Scanner | https://github.com/c0brabaghdad1/CVE-2020-14179 | Affected versions of Atlassian Jira Server and Data Center allow remote, unauthenticated attackers to view custom field names and custom SLA names via an Information Disclosure vulnerability in the /secure/QueryComponent!Default.jspa endpoint. The affected versions are before version 8.5.8, and from version 8.6.0 before 8.11.1.| 
+| 20210118T01:49:23Z | CVE-2020-14179 | CVE-2020-14179 Scanner | https://github.com/c0brabaghdad1/CVE-2020-14179 | | 
 | 20210117T20:30:40Z | CVE-2020-7200 | CVE-2020-7200: HPE Systems Insight Manager (SIM) RCE PoC | https://github.com/alexfrancow/CVE-2020-7200 | A potential security vulnerability has been identified in HPE Systems Insight Manager (SIM) version 7.6. The vulnerability could be exploited to allow remote code execution.| 
 | 20210115T18:12:09Z | CVE-2020-9484 | Apache Tomcat RCE (CVE-2020-9484) | https://github.com/Proxysec/-CVE-2020-9484 | When using Apache Tomcat versions 10.0.0-M1 to 10.0.0-M4, 9.0.0.M1 to 9.0.34, 8.5.0 to 8.5.54 and 7.0.0 to 7.0.103 if a) an attacker is able to control the contents and name of a file on the server; and b) the server is configured to use the PersistenceManager with a FileStore; and c) the PersistenceManager is configured with sessionAttributeValueClassNameFilter=%null% (the default unless a SecurityManager is used) or a sufficiently lax filter to allow the attacker provided object to be deserialized; and d) the attacker knows the relative file path from the storage location used by FileStore to the file the attacker has control over; then, using a specifically crafted request, the attacker will be able to trigger remote code execution via deserialization of the file under their control. Note that all of conditions a) to d) must be true for the attack to succeed.| 
 
@@ -61,7 +61,7 @@
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210120T14:19:30Z | Null | https://github.com/fontworks-fonts/Klee | 255 | 6| 
+| 20210120T14:28:15Z | Null | https://github.com/fontworks-fonts/Klee | 256 | 6| 
 | 20210120T07:28:49Z | An opinionated CSS framework - Jan 2021 | https://github.com/logic-fabric/klee | 0 | 0| 
 | 20210120T03:29:05Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1604 | 477| 
 | 20210120T03:26:41Z | Create CFGs and compute complexity metrics for Python, C++, and Java code. | https://github.com/hmc-alpaqa/metrinome | 5 | 0| 
@@ -88,22 +88,23 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210120T14:05:19Z | Hacking challenges write-ups | https://github.com/andrewbae/playground | 1 | 1| 
+| 20210120T14:37:58Z | The hacking challenges I%ve solved | https://github.com/andrewbae/playground | 1 | 1| 
+| 20210120T14:37:21Z | Null | https://github.com/psgareja/win32_exploit_bufferoverflow | 0 | 0| 
+| 20210120T14:29:03Z | This project is designed to express how to use Android MVVM architecture while exploiting the right practices. | https://github.com/mbobiosio/KotlinMVVMRetrofitRoom | 1 | 1| 
+| 20210120T14:24:13Z | Repo for testing some exploits | https://github.com/RobertFent/exploits | 0 | 0| 
+| 20210120T14:20:33Z | Null | https://github.com/Poshini/Exploiting-vulnerability | 0 | 0| 
+| 20210120T14:20:23Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 3356 | 507| 
 | 20210120T13:56:22Z | Exploit for Samba 3.x 4.x that doesn%t use Metasploit-framework | https://github.com/v1nc3-source/Samba_3.X_4.X_Exploit | 0 | 0| 
 | 20210120T13:53:03Z | Just a temporary website to post my ctf writeups and journey into binary exploitation/malware analysis/exploit development | https://github.com/blackbeard666/blackbeard666.github.io | 0 | 0| 
 | 20210120T13:49:58Z | This bash script will help you to hack remote hosts  | https://github.com/FabioDefilippo/linuxallremote | 4 | 1| 
 | 20210120T13:37:39Z | CTF framework and exploit development library | https://github.com/Gallopsled/pwntools | 7455 | 1344| 
-| 20210120T13:35:17Z | Repo for testing some exploits | https://github.com/RobertFent/exploits | 0 | 0| 
-| 20210120T13:10:54Z | A bunch of post exploitation tools + reverse proxy server | https://github.com/redcode-labs/Svetovid | 16 | 0| 
-| 20210120T12:56:36Z | linux post-exploitation framework made by linux user | https://github.com/jm33-m0/emp3r0r | 321 | 55| 
-| 20210120T12:51:59Z | PrExploit: Open Exploit Prediction System | https://github.com/prexploit/prexploit | 2 | 1| 
-| 20210120T12:51:57Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 3355 | 507| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210120T14:15:05Z | Rusty backdoor+spyware :bomb: :door: | https://github.com/talbor49/spyware | 10 | 0| 
+| 20210120T14:23:57Z | Backdoor de shell reversa simples em C  | https://github.com/medn1c/reverse-shell | 1 | 0| 
+| 20210120T14:19:37Z | Rusty backdoor+spyware :bomb: :door: | https://github.com/talbor49/spyware | 10 | 0| 
 | 20210120T11:31:40Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 153 | 22| 
 | 20210120T10:20:50Z | Strengthen your defense against web attacks with Kali Linux and Metasploit | https://github.com/PacktPublishing/Improving-your-Penetration-Testing-Skills | 5 | 0| 
 | 20210120T08:28:32Z | Allows full access to the target system | https://github.com/maurya-bitlegacy/reverse-backdoor | 0 | 0| 
@@ -112,7 +113,6 @@
 | 20210119T19:24:38Z | Null | https://github.com/romaaji/Backdoor-Scanner | 0 | 0| 
 | 20210119T17:56:41Z | A multi functional rat, that firstly will be a simple backdoor | https://github.com/K1DR4T/BETA---R4T | 0 | 0| 
 | 20210119T16:22:50Z | This program is an non-object oriented opensource, hidden and undetectable backdoor/reverse shell/RAT for Windows made in Python 3 which contains many features such as multi-client support and cross-platform server. | https://github.com/xp4xbox/Python-Backdoor | 338 | 130| 
-| 20210119T16:08:00Z | Null | https://github.com/sunrungeng/BackdoorAttack | 0 | 0| 
 
 
 # fuzz on Github 推荐
