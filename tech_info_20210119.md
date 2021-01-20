@@ -78,7 +78,6 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210119T23:15:39Z | A curated list of different AFL forks and AFL inspired fuzzers with detailed equivalent academic papers and AFL-fuzzing tutorials | https://github.com/Microsvuln/Awesome-AFL | 360 | 45| 
 | 20210119T22:20:52Z | Null | https://github.com/CharlyWargnier/PolyFuzzS4SimpleTest | 0 | 0| 
 | 20210119T22:20:47Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 5801 | 1160| 
 | 20210119T22:07:24Z | Note taking with fuzzy search | https://github.com/iamlemec/fuzzy | 1 | 1| 
@@ -88,6 +87,7 @@
 | 20210119T21:18:58Z | Null | https://github.com/Kamil78dahelo/fuzzy-chainsaw | 0 | 0| 
 | 20210119T21:01:11Z | FuzzBench - Fuzzer benchmarking as a service. | https://github.com/google/fuzzbench | 583 | 93| 
 | 20210119T20:49:59Z | A unit test-like interface for fuzzing and symbolic execution | https://github.com/trailofbits/deepstate | 583 | 61| 
+| 20210119T19:57:21Z | Null | https://github.com/CharlyWargnier/PolyFuzzTest | 0 | 0| 
 
 
 
