@@ -52,6 +52,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210120T13:10:54Z | A bunch of post exploitation tools + reverse proxy server | https://github.com/redcode-labs/Svetovid | 16 | 0| 
+| 20210120T13:09:40Z | CTF framework and exploit development library | https://github.com/Gallopsled/pwntools | 7454 | 1344| 
 | 20210120T12:56:36Z | linux post-exploitation framework made by linux user | https://github.com/jm33-m0/emp3r0r | 321 | 55| 
 | 20210120T12:51:59Z | PrExploit: Open Exploit Prediction System | https://github.com/prexploit/prexploit | 2 | 1| 
 | 20210120T12:51:57Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 3355 | 507| 
@@ -60,8 +62,6 @@
 | 20210120T12:22:03Z | A post exploitation framework designed to operate covertly on heavily monitored environments | https://github.com/bats3c/shad0w | 1102 | 179| 
 | 20210120T12:16:46Z | This bash script will help you to hack remote hosts  | https://github.com/FabioDefilippo/linuxallremote | 4 | 1| 
 | 20210120T11:39:46Z | Hacking challenges write-ups | https://github.com/andrewbae/playground | 1 | 1| 
-| 20210120T11:39:28Z | Geohazards Thematic Exploitation guide | https://github.com/Terradue/doc-tep-geohazards | 9 | 23| 
-| 20210120T11:35:15Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 8908 | 1415| 
 
 
 # backdoor on Github 推荐
