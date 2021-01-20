@@ -88,16 +88,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210120T02:39:53Z | ASLR Evasion, Egghunters, SEH Overwrites | https://github.com/freddiebarrsmith/Advanced-Windows-Exploit-Development-Practice | 9 | 1| 
-| 20210120T01:51:22Z | Sécurité des logiciels et exploitation de vulnérabilités | https://github.com/ppepos/inf600c | 2 | 0| 
+| 20210120T02:53:56Z | ASLR Evasion, Egghunters, SEH Overwrites | https://github.com/freddiebarrsmith/Advanced-Windows-Exploit-Development-Practice | 9 | 1| 
+| 20210120T02:53:27Z | webkit ios exploit | https://github.com/amirhacks/philipjailbreak.github.io | 0 | 0| 
+| 20210120T02:52:30Z | CDK is an open-sourced container penetration toolkit, offering stable exploitation in different slimmed containers without any OS dependency. It comes with penetration tools and many powerful PoCs/EXPs helps you to escape container and takeover K8s cluster easily. | https://github.com/cdk-team/CDK | 357 | 54| 
+| 20210120T02:50:20Z | Sécurité des logiciels et exploitation de vulnérabilités | https://github.com/ppepos/inf600c | 2 | 0| 
 | 20210120T00:49:47Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 7 | 4| 
 | 20210120T00:36:34Z | A collection of great discord bugs and exploits. | https://github.com/Passive/discord-exploits | 1 | 0| 
 | 20210120T00:28:59Z | GEF - GDB Enhanced Features for exploit devs & reversers | https://github.com/hugsy/gef | 3370 | 482| 
 | 20210120T00:15:39Z | This is a chrome extension that removes the psychological exploit that is Reddit Karma | https://github.com/BeckTimothy/reddit-volition | 0 | 0| 
 | 20210119T23:49:25Z | An attack/exploit Detector that utilizes Polymorphism and Diversity | https://github.com/polyverse/zerotect | 21 | 1| 
 | 20210119T23:31:22Z | The purpose of this program is to help beginner and intermediate users to hone their web exploitation and development skills by mirroring a vunerable e-commerce application. | https://github.com/Surreptitious-Coder/GVW | 0 | 1| 
-| 20210119T23:23:25Z | This is just an semi-automated fully working, no-bs, non-metasploit version of the public exploit code for MS17-010 | https://github.com/3ndG4me/AutoBlue-MS17-010 | 495 | 182| 
-| 20210119T22:54:40Z | Exploits project Hacking Command Center | https://github.com/chacka0101/exploits | 0 | 2| 
 
 
 # backdoor on Github 推荐
