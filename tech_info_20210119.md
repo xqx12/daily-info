@@ -13,6 +13,7 @@
 | 20210119 | BitLocker Lockscreen bypass | https://secret.club/2021/01/15/bitlocker-bypass.html| 
 | 20210119 | Escaping VirtualBox 6.1: Part 1 | https://secret.club/2021/01/14/vbox-escape.html| 
 | 20210119 | 为解决 CVE-2020-1472 漏洞的问题，微软准备默认开启 Netlogon Domain Controller Enforcement Mode | https://msrc-blog.microsoft.com/2021/01/14/netlogon-domain-controller-enforcement-mode-is-enabled-by-default-beginning-with-the-february-9-2021-security-update-related-to-cve-2020-1472/| 
+| 20210119 | SolarWinds 供应链攻击持续跟踪进展 | https://paper.seebug.org/1459/| 
 
 
 # 安全维基 推荐
@@ -29,8 +30,8 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20210119T19:59:48Z | CVE-2020-11851 | Remote Code Execution vulnerability on ArcSight Logger | https://github.com/ch1nghz/CVE-2020-11851 | | 
-| 20210119T09:25:39Z | 未知编号 | 2020一些漏洞 | https://github.com/r0eXpeR/CVE-2020 | 未查询到CVE信息| 
+| 20210119T19:59:48Z | CVE-2020-11851 | Remote Code Execution vulnerability on ArcSight Logger | https://github.com/ch1nghz/CVE-2020-11851 | Arbitrary code execution vulnerability on Micro Focus ArcSight Logger product, affecting all version prior to 7.1.1. The vulnerability could be remotely exploited resulting in the execution of arbitrary code.| 
+| 20210119T09:25:39Z | 未知编号 | 2020一些漏洞 | https://github.com/r0eXpeR/CVE-2020 | | 
 
 
 # klee on Github 推荐
