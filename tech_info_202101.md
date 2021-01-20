@@ -48,7 +48,7 @@
 | --- | --- | --- | --- | ---| 
 | 20210120T02:49:30Z | cve-2021-3164 | Church Rota version 2.6.4 is vulnerable to authenticated remote code execution. The user does not need to have file upload permission in order to upload and execute an arbitrary file. The application is written primarily with PHP so we use PHP in our PoC            | https://github.com/rmccarth/cve-2021-3164 | 未查询到CVE信息| 
 | 20210119T19:59:48Z | CVE-2020-11851 | Remote Code Execution vulnerability on ArcSight Logger | https://github.com/ch1nghz/CVE-2020-11851 | Arbitrary code execution vulnerability on Micro Focus ArcSight Logger product, affecting all version prior to 7.1.1. The vulnerability could be remotely exploited resulting in the execution of arbitrary code.| 
-| 20210119T09:25:39Z | 未知编号 | 2020一些漏洞 | https://github.com/r0eXpeR/CVE-2020 | | 
+| 20210119T09:25:39Z | 未知编号 | 2020一些漏洞 | https://github.com/r0eXpeR/CVE-2020 | 未查询到CVE信息| 
 | 20210118T16:58:15Z | 未知编号 | 2020l4web-campaign-DanCvejn created by GitHub Classroom | https://github.com/pslib-cz/2020l4web-campaign-DanCvejn | 未查询到CVE信息| 
 | 20210118T07:50:23Z | CVE-2020-6207 | PoC for CVE-2020-6207  (Missing Authentication Check in SAP Solution Manager) | https://github.com/chipik/SAP_EEM_CVE-2020-6207 | SAP Solution Manager (User Experience Monitoring), version- 7.2, due to Missing Authentication Check does not perform any authentication for a service resulting in complete compromise of all SMDAgents connected to the Solution Manager.| 
 | 20210118T06:04:43Z | CVE-2020-8165 | PoC for CVE-2020-8165 | https://github.com/progfay/CVE-2020-8165 | A deserialization of untrusted data vulnernerability exists in rails < 5.2.4.3, rails < 6.0.3.1 that can allow an attacker to unmarshal user-provided objects in MemCacheStore and RedisCacheStore potentially resulting in an RCE.| 
@@ -88,6 +88,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210120T02:56:51Z | A exploit for multiple games and were growing when you use it :D | https://github.com/NoahExploits/ForeverX- | 0 | 0| 
 | 20210120T02:53:56Z | ASLR Evasion, Egghunters, SEH Overwrites | https://github.com/freddiebarrsmith/Advanced-Windows-Exploit-Development-Practice | 9 | 1| 
 | 20210120T02:53:27Z | webkit ios exploit | https://github.com/amirhacks/philipjailbreak.github.io | 0 | 0| 
 | 20210120T02:52:30Z | CDK is an open-sourced container penetration toolkit, offering stable exploitation in different slimmed containers without any OS dependency. It comes with penetration tools and many powerful PoCs/EXPs helps you to escape container and takeover K8s cluster easily. | https://github.com/cdk-team/CDK | 357 | 54| 
@@ -97,7 +98,6 @@
 | 20210120T00:28:59Z | GEF - GDB Enhanced Features for exploit devs & reversers | https://github.com/hugsy/gef | 3370 | 482| 
 | 20210120T00:15:39Z | This is a chrome extension that removes the psychological exploit that is Reddit Karma | https://github.com/BeckTimothy/reddit-volition | 0 | 0| 
 | 20210119T23:49:25Z | An attack/exploit Detector that utilizes Polymorphism and Diversity | https://github.com/polyverse/zerotect | 21 | 1| 
-| 20210119T23:31:22Z | The purpose of this program is to help beginner and intermediate users to hone their web exploitation and development skills by mirroring a vunerable e-commerce application. | https://github.com/Surreptitious-Coder/GVW | 0 | 1| 
 
 
 # backdoor on Github 推荐
@@ -118,6 +118,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210120T02:56:32Z | 渗透测试路径字典，爆破字典。内容来自互联网和实战积累。 | https://github.com/cpkkcb/fuzzDicts | 55 | 32| 
 | 20210120T02:38:02Z | fzf-like fuzzy-finder as a Go library | https://github.com/ktr0731/go-fuzzyfinder | 205 | 19| 
 | 20210120T02:31:44Z | URL Fuzzing / brute forcing tool, written in dart. | https://github.com/GrayWasTaken/dartbuster | 1 | 0| 
 | 20210120T02:15:23Z | Null | https://github.com/afforeroc/fuzz-dict-expressions | 0 | 0| 
@@ -127,7 +128,6 @@
 | 20210120T00:52:00Z | rfuzz: coverage-directed fuzzing for RTL research platform | https://github.com/ekiwi/rfuzz | 30 | 3| 
 | 20210120T00:49:04Z | Fuzzy matching publications for fatcat (wip). | https://github.com/miku/fuzzycat | 1 | 1| 
 | 20210119T22:20:52Z | Null | https://github.com/CharlyWargnier/PolyFuzzS4SimpleTest | 0 | 0| 
-| 20210119T22:20:47Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 5801 | 1160| 
 
 
 
