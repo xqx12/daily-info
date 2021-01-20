@@ -118,16 +118,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210120T01:12:33Z | Null | https://github.com/jingjingfang/fuzzyartwebtraffic | 0 | 0| 
+| 20210120T01:35:10Z | URL Fuzzing / brute forcing tool, written in dart. | https://github.com/GrayWasTaken/dartbuster | 1 | 0| 
+| 20210120T01:35:08Z | Null | https://github.com/jingjingfang/fuzzyartwebtraffic | 0 | 0| 
+| 20210120T01:34:29Z | Manage & generate prefs.js files | https://github.com/MozillaSecurity/prefpicker | 2 | 1| 
 | 20210120T00:52:00Z | rfuzz: coverage-directed fuzzing for RTL research platform | https://github.com/ekiwi/rfuzz | 30 | 3| 
 | 20210120T00:49:04Z | Fuzzy matching publications for fatcat (wip). | https://github.com/miku/fuzzycat | 1 | 1| 
-| 20210119T23:46:08Z | URL Fuzzing / brute forcing tool, written in dart. | https://github.com/GrayWasTaken/dartbuster | 1 | 0| 
 | 20210119T23:15:39Z | A curated list of different AFL forks and AFL inspired fuzzers with detailed equivalent academic papers and AFL-fuzzing tutorials | https://github.com/Microsvuln/Awesome-AFL | 360 | 45| 
 | 20210119T22:20:52Z | Null | https://github.com/CharlyWargnier/PolyFuzzS4SimpleTest | 0 | 0| 
 | 20210119T22:20:47Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 5801 | 1160| 
 | 20210119T22:07:24Z | Note taking with fuzzy search | https://github.com/iamlemec/fuzzy | 1 | 1| 
 | 20210119T21:52:25Z | Null | https://github.com/connected-cjohnston/fuzzyblog | 0 | 0| 
-| 20210119T21:46:32Z | FIRM-AFL is the first high-throughput greybox fuzzer for IoT firmware.  | https://github.com/zyw-200/FirmAFL | 223 | 49| 
 
 
 
