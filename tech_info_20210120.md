@@ -30,14 +30,14 @@
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
 | 20210120T11:27:14Z | CVE-2020-11851 | Remote Code Execution vulnerability on ArcSight Logger | https://github.com/ch1nghz/CVE-2020-11851 | Arbitrary code execution vulnerability on Micro Focus ArcSight Logger product, affecting all version prior to 7.1.1. The vulnerability could be remotely exploited resulting in the execution of arbitrary code.| 
-| 20210120T07:52:49Z | 未知编号 | 2020一些漏洞 | https://github.com/r0eXpeR/CVE-2020 | | 
+| 20210120T07:52:49Z | 未知编号 | 2020一些漏洞 | https://github.com/r0eXpeR/CVE-2020 | 未查询到CVE信息| 
 | 20210120T02:49:30Z | cve-2021-3164 | Church Rota version 2.6.4 is vulnerable to authenticated remote code execution. The user does not need to have file upload permission in order to upload and execute an arbitrary file. The application is written primarily with PHP so we use PHP in our PoC            | https://github.com/rmccarth/cve-2021-3164 | 未查询到CVE信息| 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210120T12:49:24Z | Null | https://github.com/fontworks-fonts/Klee | 250 | 6| 
+| 20210120T13:03:53Z | Null | https://github.com/fontworks-fonts/Klee | 251 | 6| 
 | 20210120T07:28:49Z | An opinionated CSS framework - Jan 2021 | https://github.com/logic-fabric/klee | 0 | 0| 
 | 20210120T03:29:05Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1604 | 477| 
 | 20210120T03:26:41Z | Create CFGs and compute complexity metrics for Python, C++, and Java code. | https://github.com/hmc-alpaqa/metrinome | 5 | 0| 
@@ -76,15 +76,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210120T02:56:32Z | 渗透测试路径字典，爆破字典。内容来自互联网和实战积累。 | https://github.com/cpkkcb/fuzzDicts | 55 | 32| 
-| 20210120T02:38:02Z | fzf-like fuzzy-finder as a Go library | https://github.com/ktr0731/go-fuzzyfinder | 205 | 19| 
-| 20210120T02:31:44Z | URL Fuzzing / brute forcing tool, written in dart. | https://github.com/GrayWasTaken/dartbuster | 1 | 0| 
-| 20210120T02:15:23Z | Null | https://github.com/afforeroc/fuzz-dict-expressions | 0 | 0| 
-| 20210120T01:44:30Z | A curated list of different AFL forks and AFL inspired fuzzers with detailed equivalent academic papers and AFL-fuzzing tutorials | https://github.com/Microsvuln/Awesome-AFL | 361 | 45| 
-| 20210120T01:38:16Z | Null | https://github.com/jingjingfang/fuzzyartwebtraffic | 0 | 0| 
-| 20210120T01:34:29Z | Manage & generate prefs.js files | https://github.com/MozillaSecurity/prefpicker | 2 | 1| 
-| 20210120T00:52:00Z | rfuzz: coverage-directed fuzzing for RTL research platform | https://github.com/ekiwi/rfuzz | 30 | 3| 
-| 20210120T00:49:04Z | Fuzzy matching publications for fatcat (wip). | https://github.com/miku/fuzzycat | 1 | 1| 
+| 20210120T13:02:22Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 5802 | 1160| 
+| 20210120T12:48:04Z | This repo contains the full code of Drone controlled thought fuzzy control techniques.   | https://github.com/angieherc/Drone-fuzzy-control | 0 | 0| 
+| 20210120T12:41:30Z | Credax - Fuzzing Tool with Slack Notifications. | https://github.com/notmarshmllow/credax | 5 | 0| 
+| 20210120T12:34:43Z | Null | https://github.com/duterte/fuzzy-rotary-phone | 0 | 0| 
+| 20210120T12:30:21Z | Fuzzer for Pharo | https://github.com/mabdi/phazzer | 0 | 0| 
+| 20210120T12:26:58Z | Fuzzing cryptographic libraries. Magic bug printer go brrrr. | https://github.com/guidovranken/cryptofuzz | 231 | 31| 
+| 20210120T12:22:27Z | Null | https://github.com/chunshui7347/fuzzy_quality_railway | 0 | 0| 
+| 20210120T11:42:25Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 29448 | 14827| 
+| 20210120T10:31:03Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 1257 | 269| 
+| 20210120T10:13:45Z | Fuzzing with the generated argument | https://github.com/zodf0055980/Yuan-fuzz | 12 | 0| 
 
 
 
