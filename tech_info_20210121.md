@@ -66,16 +66,25 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210121T12:48:04Z | This is an implementation demo of the ICLR 2021 paper **[Neural Attention Distillation: Erasing Backdoor Triggers from Deep Neural Networks](https://arxiv.org/abs/2101.05930)** in PyTorch. | https://github.com/bboylyg/NAD | 0 | 0| 
+| 20210121T07:53:40Z | Powerfull webshell backdoor with many functions instead | https://github.com/willygoid/HaxorShell | 0 | 0| 
+| 20210121T05:43:36Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 154 | 22| 
 | 20210121T00:22:55Z | Tool to find potential backdoor/security holes in your endpoint | https://github.com/subasgit/backdoorfinder | 1 | 0| 
 
 
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210121T01:42:42Z | 渗透测试人员专用精简化字典  Dictionary for penetration testers happy hacker  | https://github.com/ppbibo/PentesterSpecialDict | 340 | 73| 
-| 20210121T01:36:24Z | Null | https://github.com/lutzer/node-red-contrib-fuzzywuzzy | 0 | 0| 
-| 20210121T00:09:42Z | Web fuzzing 100% in assembly | https://github.com/blackbinn/asmfuzz | 0 | 0| 
-| 20210121T00:00:42Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 5802 | 1161| 
+| 20210121T12:34:56Z | A HTTP fuzzer based on dynamics workflows | https://github.com/NozakiLabs/nzkflow | 1 | 0| 
+| 20210121T12:22:27Z | Go fuzzy matching tool using Levenshtein distance calculation | https://github.com/datahappy1/go_fuzzymatch | 0 | 0| 
+| 20210121T12:12:53Z | A Fuzzy Matching Approach for Clustering Strings | https://github.com/ebanalyse/fuzzup | 1 | 0| 
+| 20210121T11:54:51Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 5803 | 1163| 
+| 20210121T11:52:42Z | Fuzzer for Pharo | https://github.com/mabdi/phazzer | 0 | 0| 
+| 20210121T11:41:19Z | Packer Fuzzer is a fast and efficient scanner for security detection of websites constructed by javascript module bundler such as Webpack.  | https://github.com/rtcatc/Packer-Fuzzer | 668 | 78| 
+| 20210121T10:47:17Z | library for fuzzy search | https://github.com/AlfredDaimari/fuzzjs | 0 | 0| 
+| 20210121T10:43:30Z | Null | https://github.com/kiwidancebad/fuzzy-analysis | 0 | 0| 
+| 20210121T10:37:20Z | Null | https://github.com/kunalgaurav18/FuzzyLogic | 0 | 0| 
+| 20210121T10:31:07Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2252 | 114| 
 
 
 
