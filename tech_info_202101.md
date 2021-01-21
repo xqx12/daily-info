@@ -55,13 +55,13 @@
 | 20210121T01:32:13Z | CVE-2020-8165 | PoC for CVE-2020-8165 | https://github.com/progfay/CVE-2020-8165 | A deserialization of untrusted data vulnernerability exists in rails < 5.2.4.3, rails < 6.0.3.1 that can allow an attacker to unmarshal user-provided objects in MemCacheStore and RedisCacheStore potentially resulting in an RCE.| 
 | 20210120T14:55:41Z | cve-2021-1647 | Null | https://github.com/dmlgzs/cve-2021-1647 | 未查询到CVE信息| 
 | 20210120T11:27:14Z | CVE-2020-11851 | Remote Code Execution vulnerability on ArcSight Logger | https://github.com/ch1nghz/CVE-2020-11851 | Arbitrary code execution vulnerability on Micro Focus ArcSight Logger product, affecting all version prior to 7.1.1. The vulnerability could be remotely exploited resulting in the execution of arbitrary code.| 
-| 20210120T02:49:30Z | cve-2021-3164 | Church Rota version 2.6.4 is vulnerable to authenticated remote code execution. The user does not need to have file upload permission in order to upload and execute an arbitrary file. The application is written primarily with PHP so we use PHP in our PoC            | https://github.com/rmccarth/cve-2021-3164 | 未查询到CVE信息| 
+| 20210120T02:49:30Z | cve-2021-3164 | Church Rota version 2.6.4 is vulnerable to authenticated remote code execution. The user does not need to have file upload permission in order to upload and execute an arbitrary file. The application is written primarily with PHP so we use PHP in our PoC            | https://github.com/rmccarth/cve-2021-3164 | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210121T14:01:54Z | Null | https://github.com/fontworks-fonts/Klee | 301 | 7| 
+| 20210121T14:01:54Z | Null | https://github.com/fontworks-fonts/Klee | 301 | 8| 
 | 20210121T12:58:47Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1603 | 477| 
 | 20210121T11:58:03Z | RVT is a collection of tools/libraries to support both static and dynamic verification of Rust programs. | https://github.com/project-oak/rust-verification-tools | 102 | 6| 
 | 20210121T11:24:10Z | Kwik n Kleen  | https://github.com/SailekshmiP/Kwik-n-Kleen- | 0 | 0| 
@@ -88,22 +88,22 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210121T14:15:56Z | linux post-exploitation framework made by linux user | https://github.com/jm33-m0/emp3r0r | 335 | 58| 
-| 20210121T14:15:49Z | Simple lightweight library which allows to create decoupled from fragments views and exploiting observer pattern for communication. | https://github.com/VladSyrg/TriPoloski | 0 | 0| 
+| 20210121T14:33:23Z | Simple lightweight library which allows to create decoupled from fragments views and exploiting observer pattern for communication. | https://github.com/VladSyrg/TriPoloski | 0 | 0| 
+| 20210121T14:33:04Z | Null | https://github.com/Poshini/Exploiting-vulnerability | 0 | 0| 
+| 20210121T14:31:22Z | linux post-exploitation framework made by linux user | https://github.com/jm33-m0/emp3r0r | 335 | 58| 
+| 20210121T14:19:25Z | Um exploit de buffer overflow para SLmail-5.5 pop3 service  CVE-2003-0264   | https://github.com/medn1c/pop3_SLmail-exploit | 1 | 0| 
 | 20210121T13:27:19Z | Post-exploitation tool for AV evasion by using AES encryption of Powershell scripts | https://github.com/DenFox93/PowershellCrypter | 0 | 0| 
 | 20210121T12:49:48Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 7 | 4| 
 | 20210121T12:35:32Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 8912 | 1418| 
 | 20210121T12:28:45Z | forked version of funtuna, a homebrew ps2 app launcher designed to ease the pain of getting a stable exploit for those that have a console uncompatible with FreeMcBoot that doesnt have a modchip | https://github.com/israpps/Funtuna-Fork | 0 | 0| 
 | 20210121T12:11:23Z | Null | https://github.com/Y3-333/FrostExploit | 0 | 0| 
 | 20210121T12:03:15Z | Text multiclass classification project exploiting word-embedding and TF-IDF for vector representation of words. | https://github.com/paoloitaliani/Text-Classification | 0 | 0| 
-| 20210121T10:50:11Z | Basic services enumeration and exploitation | https://github.com/dar3k93/Basic-service-enumeration | 0 | 1| 
-| 20210121T10:41:39Z | A Python program implementing and exploiting the Minsky Turing machine considered in the paper %Intrinsic Propensity for Vulnerability in Computers? Arbitrary Code Execution in the Universal Turing Machine% | https://github.com/intrinsic-propensity/turing-machine | 0 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210121T14:14:02Z | This is an implementation demo of the ICLR 2021 paper **[Neural Attention Distillation: Erasing Backdoor Triggers from Deep Neural Networks](https://arxiv.org/abs/2101.05930)** in PyTorch. | https://github.com/bboylyg/NAD | 2 | 0| 
+| 20210121T14:37:42Z | This is an implementation demo of the ICLR 2021 paper **[Neural Attention Distillation: Erasing Backdoor Triggers from Deep Neural Networks](https://arxiv.org/abs/2101.05930)** in PyTorch. | https://github.com/bboylyg/NAD | 2 | 0| 
 | 20210121T07:53:40Z | Powerfull webshell backdoor with many functions instead | https://github.com/willygoid/HaxorShell | 0 | 0| 
 | 20210121T05:43:36Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 154 | 22| 
 | 20210121T00:22:55Z | Tool to find potential backdoor/security holes in your endpoint | https://github.com/subasgit/backdoorfinder | 1 | 0| 
