@@ -6,6 +6,14 @@
 # 玄武实验室 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20210121 | 渗透测试时枚举 OneDrive 合法用户的工具 | https://github.com/nyxgeek/onedrive_user_enum| 
+| 20210121 | 如何利用 padding 技术绕过 Cloudflare WAF | https://www.swascan.com/cloudflare/| 
+| 20210121 | gophish - 渗透测试中一款开源的钓鱼工具套件 | https://github.com/gophish/gophish| 
+| 20210121 | Bad Pods: Kubernetes Pod Privilege Escalation | https://labs.bishopfox.com/tech-blog/bad-pods-kubernetes-pod-privilege-escalation| 
+| 20210121 | Deep dive into the Solorigate second-stage activation: From SUNBURST to TEARDROP and Raindrop | https://www.microsoft.com/security/blog/2021/01/20/deep-dive-into-the-solorigate-second-stage-activation-from-sunburst-to-teardrop-and-raindrop/| 
+| 20210121 | Blowing the Cover of Android Binary Fuzzing | https://speakerdeck.com/flankerhqd/blowing-the-cover-of-android-binary-fuzzing| 
+| 20210121 | Exploiting CVE-2014-3153 (Towelroot) | https://elongl.github.io/exploitation/2021/01/08/cve-2014-3153.html| 
+| 20210121 | Exploiting CVE-2020-15994 Chrome WebAssembly Engine UAF Vulnerability | https://sec.today/pulses/e81a44d3-048b-4667-8b43-adb5e0dd55d7/| 
 | 20210120 | macOS 引入签名验证相关的新 Entitlement：com.apple.private.security.clear-library-validation | https://theevilbit.github.io/posts/com.apple.private.security.clear-library-validation/| 
 | 20210120 | Shazam WebView JS Bridge GPS 泄露漏洞 | http://www.ash-king.co.uk/blog/Shazlocate-abusing-CVE-2019-8791-CVE-2019-8792| 
 | 20210120 | SymQEMU: Compilation-based symbolic execution for binaries | http://s3.eurecom.fr/docs/ndss21_symqemu.pdf| 
@@ -18,19 +26,13 @@
 | 20210120 | 研究发布警告，一种新的恶意软件“FreakOut“”对Linux系统设备受到安全威胁。 | https://threatpost.com/linux-attack-freakout-malware/163137/| 
 | 20210120 | Fuzzing战争系列之二：不畏浮云遮望眼。 | https://blog.flanker017.me/fuzzing%e6%88%98%e4%ba%89%e7%b3%bb%e5%88%97%e4%b9%8b%e4%ba%8c%ef%bc%9a%e4%b8%8d%e7%95%8f%e6%b5%ae%e4%ba%91%e9%81%ae%e6%9c%9b%e7%9c%bc/| 
 | 20210120 | 利用 Speakeasy 工具模拟执行内核态 Rootkits | https://www.fireeye.com/blog/threat-research/2021/01/emulation-of-kernel-mode-rootkits-with-speakeasy.html| 
-| 20210119 | SonicWall Global VPN 提权漏洞分析（CVE-2020-5144） | https://cymptom.com/cve-2020-5144-sonicwall-global-vpn-new-elevation-of-privileges-vulnerability/2021/01/| 
-| 20210119 | 有用户发现，浏览器打开一个特殊的路径可以导致 Windows 蓝屏崩溃 | https://www.bleepingcomputer.com/news/security/windows-10-bug-crashes-your-pc-when-you-access-this-location/| 
-| 20210119 | Backdooring MSBuild | https://www.a12d404.net/ranting/2021/01/17/msbuild-backdoor.html| 
-| 20210119 | 通过恶意行为拆分成原子操作的方法实现免杀 | https://theevilbit.github.io/posts/divide_and_conquer/| 
-| 20210119 | BitLocker Lockscreen bypass | https://secret.club/2021/01/15/bitlocker-bypass.html| 
-| 20210119 | Escaping VirtualBox 6.1: Part 1 | https://secret.club/2021/01/14/vbox-escape.html| 
-| 20210119 | 为解决 CVE-2020-1472 漏洞的问题，微软准备默认开启 Netlogon Domain Controller Enforcement Mode | https://msrc-blog.microsoft.com/2021/01/14/netlogon-domain-controller-enforcement-mode-is-enabled-by-default-beginning-with-the-february-9-2021-security-update-related-to-cve-2020-1472/| 
-| 20210119 | SolarWinds 供应链攻击持续跟踪进展 | https://paper.seebug.org/1459/| 
 
 
 # 安全维基 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20210121 | FAVICONS和缓存：浏览器中的持久跟踪 | https://mp.weixin.qq.com/s/K7IesHkuUTV2yAh9_yl6kw| 
+| 20210121 | Fuzzing战争系列之二：不畏浮云遮望眼 | https://mp.weixin.qq.com/s/G26MJOH4VPene1Sd_zjEQw| 
 | 20210120 | 从一道CTF题目到非对称加密GPG/PGP的学习 | https://www.anquanke.com/post/id/228129| 
 | 20210120 | 基于抽象语法树和深度学习的高效漏洞检测方法 | https://www.anquanke.com/post/id/221892| 
 | 20210120 | CVE-2020-2883——WebLogic反序列化初探 | https://www.anquanke.com/post/id/227604| 
@@ -39,38 +41,36 @@
 | 20210120 | 构造一个CodeDB来探索全新的白盒静态扫描方案 | https://lorexxar.cn/2020/10/30/whitebox-2/| 
 | 20210119 | Apache Flink漏洞复现 | https://www.hetianlab.com/specialized/20210115143514| 
 | 20210119 | 校园内网web平台的渗透测试(上)无限加分? | https://www.sec-in.com/article/778| 
-| 20210119 | 记一次反制追踪溯本求源 | https://mp.weixin.qq.com/s/xW2u4s8xCTnLCkpDoK5Yzw| 
-| 20210119 | 以太坊钓鱼合约：因为了解，所以上当 | https://mp.weixin.qq.com/s/4zztI9f-pzvLxVFxlVdgMw| 
 
 
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20210121T12:31:36Z | CVE-2021-3130 | Null | https://github.com/jet-pentest/CVE-2021-3130 | Within the Open-AudIT up to version 3.5.3 application, the web interface hides SSH secrets, Windows passwords, and SNMP strings from users using HTML %password field% obfuscation. By using Developer tools or similar, it is possible to change the obfuscation so that the credentials are visible.| 
+| 20210121T10:20:49Z | CVE-2020-35713 | CVE-2020-35713 | https://github.com/Al1ex/CVE-2020-35713 | Belkin LINKSYS RE6500 devices before 1.0.012.001 allow remote attackers to execute arbitrary commands or set a new password via shell metacharacters to the goform/setSysAdm page.| 
+| 20210121T08:08:29Z | CVE-2020-24032 | Null | https://github.com/jet-pentest/CVE-2020-24032 | tz.pl on XoruX LPAR2RRD and STOR2RRD 2.70 virtual appliances allows cmd=set&tz=OS command injection via shell metacharacters in a timezone.| 
+| 20210121T06:48:06Z | CVE-2020-17456 | CVE-2020-17456 & Seowon SLC 130 Router RCE | https://github.com/Al1ex/CVE-2020-17456 | SEOWON INTECH SLC-130 And SLR-120S devices allow Remote Code Execution via the ipAddr parameter to the system_log.cgi page.| 
 | 20210121T03:04:34Z | 未知编号 | 2020一些漏洞 | https://github.com/r0eXpeR/CVE-2020 | 未查询到CVE信息| 
 | 20210121T01:32:13Z | CVE-2020-8165 | PoC for CVE-2020-8165 | https://github.com/progfay/CVE-2020-8165 | A deserialization of untrusted data vulnernerability exists in rails < 5.2.4.3, rails < 6.0.3.1 that can allow an attacker to unmarshal user-provided objects in MemCacheStore and RedisCacheStore potentially resulting in an RCE.| 
 | 20210120T14:55:41Z | cve-2021-1647 | Null | https://github.com/dmlgzs/cve-2021-1647 | 未查询到CVE信息| 
 | 20210120T11:27:14Z | CVE-2020-11851 | Remote Code Execution vulnerability on ArcSight Logger | https://github.com/ch1nghz/CVE-2020-11851 | Arbitrary code execution vulnerability on Micro Focus ArcSight Logger product, affecting all version prior to 7.1.1. The vulnerability could be remotely exploited resulting in the execution of arbitrary code.| 
 | 20210120T02:49:30Z | cve-2021-3164 | Church Rota version 2.6.4 is vulnerable to authenticated remote code execution. The user does not need to have file upload permission in order to upload and execute an arbitrary file. The application is written primarily with PHP so we use PHP in our PoC            | https://github.com/rmccarth/cve-2021-3164 | 未查询到CVE信息| 
 | 20210118T16:58:15Z | 未知编号 | 2020l4web-campaign-DanCvejn created by GitHub Classroom | https://github.com/pslib-cz/2020l4web-campaign-DanCvejn | 未查询到CVE信息| 
-| 20210118T07:50:23Z | CVE-2020-6207 | PoC for CVE-2020-6207  (Missing Authentication Check in SAP Solution Manager) | https://github.com/chipik/SAP_EEM_CVE-2020-6207 | SAP Solution Manager (User Experience Monitoring), version- 7.2, due to Missing Authentication Check does not perform any authentication for a service resulting in complete compromise of all SMDAgents connected to the Solution Manager.| 
-| 20210118T02:14:51Z | CVE-2020-17519 | CVE-2020-17519; Apache Flink 任意文件读取; 批量检测 | https://github.com/yaunsky/CVE-2020-17519-Apache-Flink | A change introduced in Apache Flink 1.11.0 (and released in 1.11.1 and 1.11.2 as well) allows attackers to read any file on the local filesystem of the JobManager through the REST interface of the JobManager process. Access is restricted to files accessible by the JobManager process. All users should upgrade to Flink 1.11.3 or 1.12.0 if their Flink instance(s) are exposed. The issue was fixed in commit b561010b0ee741543c3953306037f00d7a9f0801 from apache/flink:master.| 
-| 20210118T01:49:23Z | CVE-2020-14179 | CVE-2020-14179 Scanner | https://github.com/c0brabaghdad1/CVE-2020-14179 | Affected versions of Atlassian Jira Server and Data Center allow remote, unauthenticated attackers to view custom field names and custom SLA names via an Information Disclosure vulnerability in the /secure/QueryComponent!Default.jspa endpoint. The affected versions are before version 8.5.8, and from version 8.6.0 before 8.11.1.| 
-| 20210117T20:30:40Z | CVE-2020-7200 | CVE-2020-7200: HPE Systems Insight Manager (SIM) RCE PoC | https://github.com/alexfrancow/CVE-2020-7200 | A potential security vulnerability has been identified in HPE Systems Insight Manager (SIM) version 7.6. The vulnerability could be exploited to allow remote code execution.| 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210121T02:42:54Z | Null | https://github.com/fontworks-fonts/Klee | 276 | 6| 
+| 20210121T12:58:47Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1603 | 477| 
+| 20210121T12:43:25Z | Null | https://github.com/fontworks-fonts/Klee | 295 | 7| 
+| 20210121T11:58:03Z | RVT is a collection of tools/libraries to support both static and dynamic verification of Rust programs. | https://github.com/project-oak/rust-verification-tools | 102 | 6| 
+| 20210121T11:24:10Z | Kwik n Kleen  | https://github.com/SailekshmiP/Kwik-n-Kleen- | 0 | 0| 
 | 20210120T07:28:49Z | An opinionated CSS framework - Jan 2021 | https://github.com/logic-fabric/klee | 0 | 0| 
-| 20210120T03:29:05Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1604 | 477| 
 | 20210120T03:26:41Z | Create CFGs and compute complexity metrics for Python, C++, and Java code. | https://github.com/hmc-alpaqa/metrinome | 5 | 0| 
 | 20210119T02:32:39Z | Null | https://github.com/Llovas7/Prueba-Klee | 0 | 0| 
-| 20210118T15:16:24Z | RVT is a collection of tools/libraries to support both static and dynamic verification of Rust programs. | https://github.com/project-oak/rust-verification-tools | 101 | 6| 
 | 20210118T05:57:18Z | Null | https://github.com/LitRHap/klee | 0 | 0| 
 | 20210118T04:21:10Z | Null | https://github.com/davidtr1037/klee-aaqc | 1 | 0| 
 | 20210116T08:25:24Z | Null | https://github.com/LitRHap/klee-bot | 0 | 0| 
-| 20210114T11:41:18Z | Data-driven symbolic execution engine, implemented on top of KLEE | https://github.com/kupl/dd-klee | 0 | 1| 
 
 
 # s2e on Github 推荐
@@ -88,16 +88,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210121T02:56:28Z | forked version of funtuna, a homebrew ps2 app launcher designed to ease the pain of getting a stable exploit for those that have a console uncompatible with FreeMcBoot that doesnt have a modchip | https://github.com/israpps/Funtuna-Fork | 0 | 0| 
-| 20210121T02:32:58Z | This is the source code for the experiment of the article %Exploiting Spline Models for the Training of Fully Connected Layers in NeuralNetwork%. | https://github.com/Bloodline-2000/Exploiting-Spline-Models-for-the-Training-of-Fully-Connected-Layers-in-NeuralNetwork | 1 | 0| 
-| 20210121T02:24:35Z | ASLR Evasion, Egghunters, SEH Overwrites | https://github.com/freddiebarrsmith/Advanced-Windows-Exploit-Development-Practice | 9 | 1| 
-| 20210121T02:07:52Z | Null | https://github.com/sheenieboy/ExploiterChat | 1 | 0| 
-| 20210121T01:32:10Z | Null | https://github.com/maxsamora/exploit | 0 | 0| 
-| 20210121T01:15:41Z | This repository contains the source of %ARM Binary Exploitaiton% book. | https://github.com/cpuu/arm_exploitation | 1 | 0| 
-| 20210121T00:49:48Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 7 | 4| 
-| 20210121T00:44:44Z | Xiongmai Exploitation Toolkit | https://github.com/redcodefinal/xet | 3 | 0| 
-| 20210121T00:15:36Z | Post-exploitation tool for lateral movement | https://github.com/tmenochet/PowerExec | 1 | 0| 
-| 20210121T00:03:29Z | This bash script will help you to hack remote hosts  | https://github.com/FabioDefilippo/linuxallremote | 4 | 1| 
+| 20210121T12:49:48Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 7 | 4| 
+| 20210121T12:35:32Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 8912 | 1418| 
+| 20210121T12:28:45Z | forked version of funtuna, a homebrew ps2 app launcher designed to ease the pain of getting a stable exploit for those that have a console uncompatible with FreeMcBoot that doesnt have a modchip | https://github.com/israpps/Funtuna-Fork | 0 | 0| 
+| 20210121T12:11:23Z | Null | https://github.com/Y3-333/FrostExploit | 0 | 0| 
+| 20210121T12:03:15Z | Text multiclass classification project exploiting word-embedding and TF-IDF for vector representation of words. | https://github.com/paoloitaliani/Text-Classification | 0 | 0| 
+| 20210121T11:41:37Z | Post-exploitation tool for AV evasion by using AES encryption of Powershell scripts | https://github.com/DenFox93/PowershellCrypter | 0 | 0| 
+| 20210121T10:50:11Z | Basic services enumeration and exploitation | https://github.com/dar3k93/Basic-service-enumeration | 0 | 1| 
+| 20210121T10:41:39Z | A Python program implementing and exploiting the Minsky Turing machine considered in the paper %Intrinsic Propensity for Vulnerability in Computers? Arbitrary Code Execution in the Universal Turing Machine% | https://github.com/intrinsic-propensity/turing-machine | 0 | 0| 
+| 20210121T10:29:16Z | linux post-exploitation framework made by linux user | https://github.com/jm33-m0/emp3r0r | 332 | 57| 
+| 20210121T09:34:34Z | xcube is a Python package for generating and exploiting data cubes powered by xarray, dask, and zarr. | https://github.com/dcs4cop/xcube | 69 | 12| 
 
 
 # backdoor on Github 推荐
