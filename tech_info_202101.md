@@ -17,6 +17,7 @@
 | 20210120 | Linux 内核 eBPF 包过滤子系统越界访问漏洞分析（Pwn2Own 2020） | https://www.thezdi.com/blog/2021/1/18/zdi-20-1440-an-incorrect-calculation-bug-in-the-linux-kernel-ebpf-verifier| 
 | 20210120 | 研究发布警告，一种新的恶意软件“FreakOut“”对Linux系统设备受到安全威胁。 | https://threatpost.com/linux-attack-freakout-malware/163137/| 
 | 20210120 | Fuzzing战争系列之二：不畏浮云遮望眼。 | https://blog.flanker017.me/fuzzing%e6%88%98%e4%ba%89%e7%b3%bb%e5%88%97%e4%b9%8b%e4%ba%8c%ef%bc%9a%e4%b8%8d%e7%95%8f%e6%b5%ae%e4%ba%91%e9%81%ae%e6%9c%9b%e7%9c%bc/| 
+| 20210120 | 利用 Speakeasy 工具模拟执行内核态 Rootkits | https://www.fireeye.com/blog/threat-research/2021/01/emulation-of-kernel-mode-rootkits-with-speakeasy.html| 
 | 20210119 | SonicWall Global VPN 提权漏洞分析（CVE-2020-5144） | https://cymptom.com/cve-2020-5144-sonicwall-global-vpn-new-elevation-of-privileges-vulnerability/2021/01/| 
 | 20210119 | 有用户发现，浏览器打开一个特殊的路径可以导致 Windows 蓝屏崩溃 | https://www.bleepingcomputer.com/news/security/windows-10-bug-crashes-your-pc-when-you-access-this-location/| 
 | 20210119 | Backdooring MSBuild | https://www.a12d404.net/ranting/2021/01/17/msbuild-backdoor.html| 
@@ -25,7 +26,6 @@
 | 20210119 | Escaping VirtualBox 6.1: Part 1 | https://secret.club/2021/01/14/vbox-escape.html| 
 | 20210119 | 为解决 CVE-2020-1472 漏洞的问题，微软准备默认开启 Netlogon Domain Controller Enforcement Mode | https://msrc-blog.microsoft.com/2021/01/14/netlogon-domain-controller-enforcement-mode-is-enabled-by-default-beginning-with-the-february-9-2021-security-update-related-to-cve-2020-1472/| 
 | 20210119 | SolarWinds 供应链攻击持续跟踪进展 | https://paper.seebug.org/1459/| 
-| 20210118 | Linux 5.4.81内核—内存管理模块源码分析。 | https://paper.seebug.org/1458/| 
 
 
 # 安全维基 推荐
@@ -47,15 +47,15 @@
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
 | 20210121T01:32:13Z | CVE-2020-8165 | PoC for CVE-2020-8165 | https://github.com/progfay/CVE-2020-8165 | A deserialization of untrusted data vulnernerability exists in rails < 5.2.4.3, rails < 6.0.3.1 that can allow an attacker to unmarshal user-provided objects in MemCacheStore and RedisCacheStore potentially resulting in an RCE.| 
-| 20210120T14:55:41Z | cve-2021-1647 | Null | https://github.com/dmlgzs/cve-2021-1647 | | 
+| 20210120T14:55:41Z | cve-2021-1647 | Null | https://github.com/dmlgzs/cve-2021-1647 | 未查询到CVE信息| 
 | 20210120T13:11:58Z | 未知编号 | 2020一些漏洞 | https://github.com/r0eXpeR/CVE-2020 | 未查询到CVE信息| 
-| 20210120T11:27:14Z | CVE-2020-11851 | Remote Code Execution vulnerability on ArcSight Logger | https://github.com/ch1nghz/CVE-2020-11851 | Arbitrary code execution vulnerability on Micro Focus ArcSight Logger product, affecting all version prior to 7.1.1. The vulnerability could be remotely exploited resulting in the execution of arbitrary code.| 
+| 20210120T11:27:14Z | CVE-2020-11851 | Remote Code Execution vulnerability on ArcSight Logger | https://github.com/ch1nghz/CVE-2020-11851 | | 
 | 20210120T02:49:30Z | cve-2021-3164 | Church Rota version 2.6.4 is vulnerable to authenticated remote code execution. The user does not need to have file upload permission in order to upload and execute an arbitrary file. The application is written primarily with PHP so we use PHP in our PoC            | https://github.com/rmccarth/cve-2021-3164 | 未查询到CVE信息| 
 | 20210118T16:58:15Z | 未知编号 | 2020l4web-campaign-DanCvejn created by GitHub Classroom | https://github.com/pslib-cz/2020l4web-campaign-DanCvejn | 未查询到CVE信息| 
 | 20210118T07:50:23Z | CVE-2020-6207 | PoC for CVE-2020-6207  (Missing Authentication Check in SAP Solution Manager) | https://github.com/chipik/SAP_EEM_CVE-2020-6207 | SAP Solution Manager (User Experience Monitoring), version- 7.2, due to Missing Authentication Check does not perform any authentication for a service resulting in complete compromise of all SMDAgents connected to the Solution Manager.| 
 | 20210118T02:14:51Z | CVE-2020-17519 | CVE-2020-17519; Apache Flink 任意文件读取; 批量检测 | https://github.com/yaunsky/CVE-2020-17519-Apache-Flink | A change introduced in Apache Flink 1.11.0 (and released in 1.11.1 and 1.11.2 as well) allows attackers to read any file on the local filesystem of the JobManager through the REST interface of the JobManager process. Access is restricted to files accessible by the JobManager process. All users should upgrade to Flink 1.11.3 or 1.12.0 if their Flink instance(s) are exposed. The issue was fixed in commit b561010b0ee741543c3953306037f00d7a9f0801 from apache/flink:master.| 
 | 20210118T01:49:23Z | CVE-2020-14179 | CVE-2020-14179 Scanner | https://github.com/c0brabaghdad1/CVE-2020-14179 | Affected versions of Atlassian Jira Server and Data Center allow remote, unauthenticated attackers to view custom field names and custom SLA names via an Information Disclosure vulnerability in the /secure/QueryComponent!Default.jspa endpoint. The affected versions are before version 8.5.8, and from version 8.6.0 before 8.11.1.| 
-| 20210117T20:30:40Z | CVE-2020-7200 | CVE-2020-7200: HPE Systems Insight Manager (SIM) RCE PoC | https://github.com/alexfrancow/CVE-2020-7200 | A potential security vulnerability has been identified in HPE Systems Insight Manager (SIM) version 7.6. The vulnerability could be exploited to allow remote code execution.| 
+| 20210117T20:30:40Z | CVE-2020-7200 | CVE-2020-7200: HPE Systems Insight Manager (SIM) RCE PoC | https://github.com/alexfrancow/CVE-2020-7200 | | 
 
 
 # klee on Github 推荐
