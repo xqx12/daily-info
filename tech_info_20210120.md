@@ -35,7 +35,7 @@
 | --- | --- | --- | --- | ---| 
 | 20210120T14:55:41Z | cve-2021-1647 | Null | https://github.com/dmlgzs/cve-2021-1647 | 未查询到CVE信息| 
 | 20210120T13:11:58Z | 未知编号 | 2020一些漏洞 | https://github.com/r0eXpeR/CVE-2020 | 未查询到CVE信息| 
-| 20210120T11:27:14Z | CVE-2020-11851 | Remote Code Execution vulnerability on ArcSight Logger | https://github.com/ch1nghz/CVE-2020-11851 | | 
+| 20210120T11:27:14Z | CVE-2020-11851 | Remote Code Execution vulnerability on ArcSight Logger | https://github.com/ch1nghz/CVE-2020-11851 | Arbitrary code execution vulnerability on Micro Focus ArcSight Logger product, affecting all version prior to 7.1.1. The vulnerability could be remotely exploited resulting in the execution of arbitrary code.| 
 | 20210120T02:49:30Z | cve-2021-3164 | Church Rota version 2.6.4 is vulnerable to authenticated remote code execution. The user does not need to have file upload permission in order to upload and execute an arbitrary file. The application is written primarily with PHP so we use PHP in our PoC            | https://github.com/rmccarth/cve-2021-3164 | 未查询到CVE信息| 
 
 
@@ -84,16 +84,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210120T13:52:32Z | Fuzzing with the generated argument | https://github.com/zodf0055980/Yuan-fuzz | 12 | 0| 
-| 20210120T13:51:13Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 5802 | 1160| 
-| 20210120T13:29:43Z | Scalable fuzzing infrastructure. | https://github.com/google/clusterfuzz | 4420 | 409| 
-| 20210120T13:19:47Z | Fuzzer for Pharo | https://github.com/mabdi/phazzer | 0 | 0| 
-| 20210120T12:48:04Z | This repo contains the full code of Drone controlled thought fuzzy control techniques.   | https://github.com/angieherc/Drone-fuzzy-control | 0 | 0| 
-| 20210120T12:41:30Z | Credax - Fuzzing Tool with Slack Notifications. | https://github.com/notmarshmllow/credax | 5 | 0| 
-| 20210120T12:34:43Z | Null | https://github.com/duterte/fuzzy-rotary-phone | 0 | 0| 
-| 20210120T12:26:58Z | Fuzzing cryptographic libraries. Magic bug printer go brrrr. | https://github.com/guidovranken/cryptofuzz | 231 | 31| 
-| 20210120T12:22:27Z | Null | https://github.com/chunshui7347/fuzzy_quality_railway | 0 | 0| 
-| 20210120T11:42:25Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 29448 | 14827| 
+| 20210120T23:45:13Z | A fuzzer aflchurn | https://github.com/aflchurn/aflchurn | 0 | 0| 
+| 20210120T23:32:50Z | FuzzBALL: Vine-based Binary Symbolic Execution | https://github.com/bitblaze-fuzzball/fuzzball | 202 | 52| 
+| 20210120T21:32:08Z | Null | https://github.com/abdalahdahlah/fuzzy-memory | 0 | 0| 
+| 20210120T21:18:45Z | URL Fuzzing / brute forcing tool, written in dart. | https://github.com/GrayWasTaken/dartbuster | 1 | 0| 
+| 20210120T21:12:28Z | A Rust toolkit to combine property-based testing and fuzzing. | https://github.com/facebookincubator/propfuzz | 100 | 2| 
+| 20210120T21:11:52Z | Null | https://github.com/Aameh9ja/fuzzy-telegram | 0 | 0| 
+| 20210120T20:34:30Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2252 | 114| 
+| 20210120T20:31:02Z | Null | https://github.com/aspferraz/FuzzyInference | 0 | 0| 
+| 20210120T20:26:33Z | Fuzzy duplicate finder in lists | https://github.com/Futagirl/fuzzydupes | 0 | 0| 
+| 20210120T20:25:15Z | Personal website of Laurence Hughes | https://github.com/fuzzylogicxx/fuzzylogic | 4 | 1| 
 
 
 
