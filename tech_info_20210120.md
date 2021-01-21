@@ -61,7 +61,7 @@
 | 20210120T22:30:36Z | GEF - GDB Enhanced Features for exploit devs & reversers | https://github.com/hugsy/gef | 3372 | 481| 
 | 20210120T22:25:08Z | Zerologon Check and Exploit - Discovered by Tom Tervoort of Secura and expanded on @Dirkjanm%s cve-2020-1472 coded example | https://github.com/sho-luv/zerologon | 0 | 0| 
 | 20210120T21:45:28Z | An attack/exploit Detector that utilizes Polymorphism and Diversity | https://github.com/polyverse/zerotect | 21 | 1| 
-| 20210120T21:45:06Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 8909 | 1417| 
+| 20210120T21:45:06Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 8909 | 1418| 
 | 20210120T21:35:26Z | Gives You Robux ,Fly hacking, Model injecting and more the ultimate ROBLOX hacking tool | https://github.com/eveldun/ROBLOX-EXPLOIT | 0 | 0| 
 | 20210120T21:26:26Z | Various ASM, C and C++ tools, shellcodes and exploit experiments. | https://github.com/forrest-orr/ExploitDev | 31 | 2| 
 | 20210120T21:10:52Z | Vulnerabilities% Risk of Exploitation | https://github.com/thiagofigcosta/V-REx | 0 | 0| 
