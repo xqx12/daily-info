@@ -47,14 +47,14 @@
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
 | 20210121T12:31:36Z | CVE-2021-3130 | Null | https://github.com/jet-pentest/CVE-2021-3130 | Within the Open-AudIT up to version 3.5.3 application, the web interface hides SSH secrets, Windows passwords, and SNMP strings from users using HTML %password field% obfuscation. By using Developer tools or similar, it is possible to change the obfuscation so that the credentials are visible.| 
-| 20210121T10:20:49Z | CVE-2020-35713 | CVE-2020-35713 | https://github.com/Al1ex/CVE-2020-35713 | Belkin LINKSYS RE6500 devices before 1.0.012.001 allow remote attackers to execute arbitrary commands or set a new password via shell metacharacters to the goform/setSysAdm page.| 
+| 20210121T10:20:49Z | CVE-2020-35713 | CVE-2020-35713 | https://github.com/Al1ex/CVE-2020-35713 | | 
 | 20210121T08:08:29Z | CVE-2020-24032 | Null | https://github.com/jet-pentest/CVE-2020-24032 | tz.pl on XoruX LPAR2RRD and STOR2RRD 2.70 virtual appliances allows cmd=set&tz=OS command injection via shell metacharacters in a timezone.| 
 | 20210121T06:48:06Z | CVE-2020-17456 | CVE-2020-17456 & Seowon SLC 130 Router RCE | https://github.com/Al1ex/CVE-2020-17456 | SEOWON INTECH SLC-130 And SLR-120S devices allow Remote Code Execution via the ipAddr parameter to the system_log.cgi page.| 
 | 20210121T03:04:34Z | 未知编号 | 2020一些漏洞 | https://github.com/r0eXpeR/CVE-2020 | 未查询到CVE信息| 
 | 20210121T01:32:13Z | CVE-2020-8165 | PoC for CVE-2020-8165 | https://github.com/progfay/CVE-2020-8165 | A deserialization of untrusted data vulnernerability exists in rails < 5.2.4.3, rails < 6.0.3.1 that can allow an attacker to unmarshal user-provided objects in MemCacheStore and RedisCacheStore potentially resulting in an RCE.| 
 | 20210120T14:55:41Z | cve-2021-1647 | Null | https://github.com/dmlgzs/cve-2021-1647 | 未查询到CVE信息| 
 | 20210120T11:27:14Z | CVE-2020-11851 | Remote Code Execution vulnerability on ArcSight Logger | https://github.com/ch1nghz/CVE-2020-11851 | Arbitrary code execution vulnerability on Micro Focus ArcSight Logger product, affecting all version prior to 7.1.1. The vulnerability could be remotely exploited resulting in the execution of arbitrary code.| 
-| 20210120T02:49:30Z | cve-2021-3164 | Church Rota version 2.6.4 is vulnerable to authenticated remote code execution. The user does not need to have file upload permission in order to upload and execute an arbitrary file. The application is written primarily with PHP so we use PHP in our PoC            | https://github.com/rmccarth/cve-2021-3164 | 未查询到CVE信息| 
+| 20210120T02:49:30Z | cve-2021-3164 | Church Rota version 2.6.4 is vulnerable to authenticated remote code execution. The user does not need to have file upload permission in order to upload and execute an arbitrary file. The application is written primarily with PHP so we use PHP in our PoC            | https://github.com/rmccarth/cve-2021-3164 | | 
 | 20210118T16:58:15Z | 未知编号 | 2020l4web-campaign-DanCvejn created by GitHub Classroom | https://github.com/pslib-cz/2020l4web-campaign-DanCvejn | 未查询到CVE信息| 
 
 
@@ -96,7 +96,7 @@
 | 20210121T11:41:37Z | Post-exploitation tool for AV evasion by using AES encryption of Powershell scripts | https://github.com/DenFox93/PowershellCrypter | 0 | 0| 
 | 20210121T10:50:11Z | Basic services enumeration and exploitation | https://github.com/dar3k93/Basic-service-enumeration | 0 | 1| 
 | 20210121T10:41:39Z | A Python program implementing and exploiting the Minsky Turing machine considered in the paper %Intrinsic Propensity for Vulnerability in Computers? Arbitrary Code Execution in the Universal Turing Machine% | https://github.com/intrinsic-propensity/turing-machine | 0 | 0| 
-| 20210121T10:29:16Z | linux post-exploitation framework made by linux user | https://github.com/jm33-m0/emp3r0r | 332 | 57| 
+| 20210121T10:29:16Z | linux post-exploitation framework made by linux user | https://github.com/jm33-m0/emp3r0r | 332 | 58| 
 | 20210121T09:34:34Z | xcube is a Python package for generating and exploiting data cubes powered by xarray, dask, and zarr. | https://github.com/dcs4cop/xcube | 69 | 12| 
 
 
