@@ -118,7 +118,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210121T01:40:28Z | 渗透测试人员专用精简化字典  Dictionary for penetration testers happy hacker  | https://github.com/ppbibo/PentesterSpecialDict | 340 | 73| 
+| 20210121T01:42:42Z | 渗透测试人员专用精简化字典  Dictionary for penetration testers happy hacker  | https://github.com/ppbibo/PentesterSpecialDict | 340 | 73| 
 | 20210121T01:36:24Z | Null | https://github.com/lutzer/node-red-contrib-fuzzywuzzy | 0 | 0| 
 | 20210121T00:09:42Z | Web fuzzing 100% in assembly | https://github.com/blackbinn/asmfuzz | 0 | 0| 
 | 20210121T00:00:42Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 5802 | 1161| 
