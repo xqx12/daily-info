@@ -46,7 +46,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20210120T14:55:41Z | cve-2021-1647 | Null | https://github.com/dmlgzs/cve-2021-1647 | 未查询到CVE信息| 
+| 20210120T14:55:41Z | cve-2021-1647 | Null | https://github.com/dmlgzs/cve-2021-1647 | | 
 | 20210120T13:11:58Z | 未知编号 | 2020一些漏洞 | https://github.com/r0eXpeR/CVE-2020 | 未查询到CVE信息| 
 | 20210120T11:27:14Z | CVE-2020-11851 | Remote Code Execution vulnerability on ArcSight Logger | https://github.com/ch1nghz/CVE-2020-11851 | Arbitrary code execution vulnerability on Micro Focus ArcSight Logger product, affecting all version prior to 7.1.1. The vulnerability could be remotely exploited resulting in the execution of arbitrary code.| 
 | 20210120T02:49:30Z | cve-2021-3164 | Church Rota version 2.6.4 is vulnerable to authenticated remote code execution. The user does not need to have file upload permission in order to upload and execute an arbitrary file. The application is written primarily with PHP so we use PHP in our PoC            | https://github.com/rmccarth/cve-2021-3164 | 未查询到CVE信息| 
@@ -88,6 +88,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210121T01:12:06Z | This repository contains the source of %ARM Binary Exploitaiton% book. | https://github.com/cpuu/arm_exploitation | 1 | 0| 
 | 20210121T01:00:49Z | ASLR Evasion, Egghunters, SEH Overwrites | https://github.com/freddiebarrsmith/Advanced-Windows-Exploit-Development-Practice | 9 | 1| 
 | 20210121T00:49:48Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 7 | 4| 
 | 20210121T00:44:44Z | Xiongmai Exploitation Toolkit | https://github.com/redcodefinal/xet | 3 | 0| 
@@ -97,7 +98,6 @@
 | 20210120T22:49:39Z | Proof of concept on how Windows UNC Path BSOD bug can be easily exploited in a webpage.  | https://github.com/mdrb97/Win10-BSOD-KernelConnect-Shortcut | 0 | 0| 
 | 20210120T22:30:36Z | GEF - GDB Enhanced Features for exploit devs & reversers | https://github.com/hugsy/gef | 3372 | 481| 
 | 20210120T22:25:08Z | Zerologon Check and Exploit - Discovered by Tom Tervoort of Secura and expanded on @Dirkjanm%s cve-2020-1472 coded example | https://github.com/sho-luv/zerologon | 0 | 0| 
-| 20210120T21:45:28Z | An attack/exploit Detector that utilizes Polymorphism and Diversity | https://github.com/polyverse/zerotect | 21 | 1| 
 
 
 # backdoor on Github 推荐
