@@ -28,7 +28,7 @@
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
 | 20210121T12:31:36Z | CVE-2021-3130 | Null | https://github.com/jet-pentest/CVE-2021-3130 | Within the Open-AudIT up to version 3.5.3 application, the web interface hides SSH secrets, Windows passwords, and SNMP strings from users using HTML %password field% obfuscation. By using Developer tools or similar, it is possible to change the obfuscation so that the credentials are visible.| 
-| 20210121T10:20:49Z | CVE-2020-35713 | CVE-2020-35713 | https://github.com/Al1ex/CVE-2020-35713 | | 
+| 20210121T10:20:49Z | CVE-2020-35713 | CVE-2020-35713 | https://github.com/Al1ex/CVE-2020-35713 | Belkin LINKSYS RE6500 devices before 1.0.012.001 allow remote attackers to execute arbitrary commands or set a new password via shell metacharacters to the goform/setSysAdm page.| 
 | 20210121T08:08:29Z | CVE-2020-24032 | Null | https://github.com/jet-pentest/CVE-2020-24032 | tz.pl on XoruX LPAR2RRD and STOR2RRD 2.70 virtual appliances allows cmd=set&tz=OS command injection via shell metacharacters in a timezone.| 
 | 20210121T06:48:06Z | CVE-2020-17456 | CVE-2020-17456 & Seowon SLC 130 Router RCE | https://github.com/Al1ex/CVE-2020-17456 | SEOWON INTECH SLC-130 And SLR-120S devices allow Remote Code Execution via the ipAddr parameter to the system_log.cgi page.| 
 | 20210121T03:04:34Z | 未知编号 | 2020一些漏洞 | https://github.com/r0eXpeR/CVE-2020 | 未查询到CVE信息| 
