@@ -14,6 +14,7 @@
 | 20210121 | Blowing the Cover of Android Binary Fuzzing | https://speakerdeck.com/flankerhqd/blowing-the-cover-of-android-binary-fuzzing| 
 | 20210121 | Exploiting CVE-2014-3153 (Towelroot) | https://elongl.github.io/exploitation/2021/01/08/cve-2014-3153.html| 
 | 20210121 | Exploiting CVE-2020-15994 Chrome WebAssembly Engine UAF Vulnerability | https://sec.today/pulses/e81a44d3-048b-4667-8b43-adb5e0dd55d7/| 
+| 20210121 | Exploiting CVE-2020-15994 Chrome WebAssembly Engine UAF Vulnerability | http://blog.br0vvnn.io/pages/blogpost.aspx?id=5| 
 | 20210120 | macOS 引入签名验证相关的新 Entitlement：com.apple.private.security.clear-library-validation | https://theevilbit.github.io/posts/com.apple.private.security.clear-library-validation/| 
 | 20210120 | Shazam WebView JS Bridge GPS 泄露漏洞 | http://www.ash-king.co.uk/blog/Shazlocate-abusing-CVE-2019-8791-CVE-2019-8792| 
 | 20210120 | SymQEMU: Compilation-based symbolic execution for binaries | http://s3.eurecom.fr/docs/ndss21_symqemu.pdf| 
@@ -25,7 +26,6 @@
 | 20210120 | Linux 内核 eBPF 包过滤子系统越界访问漏洞分析（Pwn2Own 2020） | https://www.thezdi.com/blog/2021/1/18/zdi-20-1440-an-incorrect-calculation-bug-in-the-linux-kernel-ebpf-verifier| 
 | 20210120 | 研究发布警告，一种新的恶意软件“FreakOut“”对Linux系统设备受到安全威胁。 | https://threatpost.com/linux-attack-freakout-malware/163137/| 
 | 20210120 | Fuzzing战争系列之二：不畏浮云遮望眼。 | https://blog.flanker017.me/fuzzing%e6%88%98%e4%ba%89%e7%b3%bb%e5%88%97%e4%b9%8b%e4%ba%8c%ef%bc%9a%e4%b8%8d%e7%95%8f%e6%b5%ae%e4%ba%91%e9%81%ae%e6%9c%9b%e7%9c%bc/| 
-| 20210120 | 利用 Speakeasy 工具模拟执行内核态 Rootkits | https://www.fireeye.com/blog/threat-research/2021/01/emulation-of-kernel-mode-rootkits-with-speakeasy.html| 
 
 
 # 安全维基 推荐
@@ -52,7 +52,7 @@
 | 20210121T06:48:06Z | CVE-2020-17456 | CVE-2020-17456 & Seowon SLC 130 Router RCE | https://github.com/Al1ex/CVE-2020-17456 | SEOWON INTECH SLC-130 And SLR-120S devices allow Remote Code Execution via the ipAddr parameter to the system_log.cgi page.| 
 | 20210121T03:04:34Z | 未知编号 | 2020一些漏洞 | https://github.com/r0eXpeR/CVE-2020 | 未查询到CVE信息| 
 | 20210121T01:32:13Z | CVE-2020-8165 | PoC for CVE-2020-8165 | https://github.com/progfay/CVE-2020-8165 | A deserialization of untrusted data vulnernerability exists in rails < 5.2.4.3, rails < 6.0.3.1 that can allow an attacker to unmarshal user-provided objects in MemCacheStore and RedisCacheStore potentially resulting in an RCE.| 
-| 20210120T14:55:41Z | cve-2021-1647 | Null | https://github.com/dmlgzs/cve-2021-1647 | 未查询到CVE信息| 
+| 20210120T14:55:41Z | cve-2021-1647 | Null | https://github.com/dmlgzs/cve-2021-1647 | | 
 | 20210120T11:27:14Z | CVE-2020-11851 | Remote Code Execution vulnerability on ArcSight Logger | https://github.com/ch1nghz/CVE-2020-11851 | Arbitrary code execution vulnerability on Micro Focus ArcSight Logger product, affecting all version prior to 7.1.1. The vulnerability could be remotely exploited resulting in the execution of arbitrary code.| 
 | 20210120T02:49:30Z | cve-2021-3164 | Church Rota version 2.6.4 is vulnerable to authenticated remote code execution. The user does not need to have file upload permission in order to upload and execute an arbitrary file. The application is written primarily with PHP so we use PHP in our PoC            | https://github.com/rmccarth/cve-2021-3164 | 未查询到CVE信息| 
 | 20210118T16:58:15Z | 未知编号 | 2020l4web-campaign-DanCvejn created by GitHub Classroom | https://github.com/pslib-cz/2020l4web-campaign-DanCvejn | 未查询到CVE信息| 

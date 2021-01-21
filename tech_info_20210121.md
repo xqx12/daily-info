@@ -14,6 +14,7 @@
 | 20210121 | Blowing the Cover of Android Binary Fuzzing | https://speakerdeck.com/flankerhqd/blowing-the-cover-of-android-binary-fuzzing| 
 | 20210121 | Exploiting CVE-2014-3153 (Towelroot) | https://elongl.github.io/exploitation/2021/01/08/cve-2014-3153.html| 
 | 20210121 | Exploiting CVE-2020-15994 Chrome WebAssembly Engine UAF Vulnerability | https://sec.today/pulses/e81a44d3-048b-4667-8b43-adb5e0dd55d7/| 
+| 20210121 | Exploiting CVE-2020-15994 Chrome WebAssembly Engine UAF Vulnerability | http://blog.br0vvnn.io/pages/blogpost.aspx?id=5| 
 
 
 # 安全维基 推荐
