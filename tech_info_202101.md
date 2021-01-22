@@ -15,6 +15,9 @@
 | 20210121 | Exploiting CVE-2014-3153 (Towelroot) | https://elongl.github.io/exploitation/2021/01/08/cve-2014-3153.html| 
 | 20210121 | Exploiting CVE-2020-15994 Chrome WebAssembly Engine UAF Vulnerability | https://sec.today/pulses/e81a44d3-048b-4667-8b43-adb5e0dd55d7/| 
 | 20210121 | Exploiting CVE-2020-15994 Chrome WebAssembly Engine UAF Vulnerability | http://blog.br0vvnn.io/pages/blogpost.aspx?id=5| 
+| 20210121 | springboot系列教程资源。 | https://github.com/xie19900123/spring-boot-learning| 
+| 20210121 | Windows 计划任务隐藏新姿势分享。 | https://paper.seebug.org/1464/| 
+| 20210121 | 基于机器学习的敏感信息泄露治理探索. | https://security.tencent.com/index.php/blog/msg/177| 
 | 20210120 | macOS 引入签名验证相关的新 Entitlement：com.apple.private.security.clear-library-validation | https://theevilbit.github.io/posts/com.apple.private.security.clear-library-validation/| 
 | 20210120 | Shazam WebView JS Bridge GPS 泄露漏洞 | http://www.ash-king.co.uk/blog/Shazlocate-abusing-CVE-2019-8791-CVE-2019-8792| 
 | 20210120 | SymQEMU: Compilation-based symbolic execution for binaries | http://s3.eurecom.fr/docs/ndss21_symqemu.pdf| 
@@ -23,9 +26,6 @@
 | 20210120 | Dnsmasq 被发现多个漏洞，成功利用可以实现 DNS 劫持 | https://threatpost.com/dnspooq-flaws-allow-dns-hijacking-of-millions-of-devices/163163/| 
 | 20210120 | Remediation and Hardening Strategies for Microsoft 365 to Defend Against UNC2452 | https://www.fireeye.com/blog/threat-research/2021/01/remediation-and-hardening-strategies-for-microsoft-365-to-defend-against-unc2452.html| 
 | 20210120 | Project Zero Natalie Silvanovich 对多款语音通讯软件呼叫状态机的分析 | https://googleprojectzero.blogspot.com/2021/01/the-state-of-state-machines.html| 
-| 20210120 | Linux 内核 eBPF 包过滤子系统越界访问漏洞分析（Pwn2Own 2020） | https://www.thezdi.com/blog/2021/1/18/zdi-20-1440-an-incorrect-calculation-bug-in-the-linux-kernel-ebpf-verifier| 
-| 20210120 | 研究发布警告，一种新的恶意软件“FreakOut“”对Linux系统设备受到安全威胁。 | https://threatpost.com/linux-attack-freakout-malware/163137/| 
-| 20210120 | Fuzzing战争系列之二：不畏浮云遮望眼。 | https://blog.flanker017.me/fuzzing%e6%88%98%e4%ba%89%e7%b3%bb%e5%88%97%e4%b9%8b%e4%ba%8c%ef%bc%9a%e4%b8%8d%e7%95%8f%e6%b5%ae%e4%ba%91%e9%81%ae%e6%9c%9b%e7%9c%bc/| 
 
 
 # 安全维基 推荐
@@ -46,6 +46,8 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20210121T23:32:08Z | CVE-2020-6207 | PoC for CVE-2020-6207  (Missing Authentication Check in SAP Solution Manager) | https://github.com/chipik/SAP_EEM_CVE-2020-6207 | SAP Solution Manager (User Experience Monitoring), version- 7.2, due to Missing Authentication Check does not perform any authentication for a service resulting in complete compromise of all SMDAgents connected to the Solution Manager.| 
+| 20210121T22:42:08Z | CVE-2020-8554 | Null | https://github.com/Dviejopomata/CVE-2020-8554 | Kubernetes API server in all versions allow an attacker who is able to create a ClusterIP service and set the spec.externalIPs field, to intercept traffic to that IP address. Additionally, an attacker who is able to patch the status (which is considered a privileged operation and should not typically be granted to users) of a LoadBalancer service can set the status.loadBalancer.ingress.ip to similar effect.| 
 | 20210121T13:31:12Z | CVE-2020-28874 | CVE-2020-28874 | https://github.com/varandinawer/CVE-2020-28874 | 未查询到CVE信息| 
 | 20210121T12:31:36Z | CVE-2021-3130 | Null | https://github.com/jet-pentest/CVE-2021-3130 | Within the Open-AudIT up to version 3.5.3 application, the web interface hides SSH secrets, Windows passwords, and SNMP strings from users using HTML %password field% obfuscation. By using Developer tools or similar, it is possible to change the obfuscation so that the credentials are visible.| 
 | 20210121T10:20:49Z | CVE-2020-35713 | CVE-2020-35713 | https://github.com/Al1ex/CVE-2020-35713 | Belkin LINKSYS RE6500 devices before 1.0.012.001 allow remote attackers to execute arbitrary commands or set a new password via shell metacharacters to the goform/setSysAdm page.| 
@@ -54,15 +56,14 @@
 | 20210121T03:04:34Z | 未知编号 | 2020一些漏洞 | https://github.com/r0eXpeR/CVE-2020 | 未查询到CVE信息| 
 | 20210121T01:32:13Z | CVE-2020-8165 | PoC for CVE-2020-8165 | https://github.com/progfay/CVE-2020-8165 | A deserialization of untrusted data vulnernerability exists in rails < 5.2.4.3, rails < 6.0.3.1 that can allow an attacker to unmarshal user-provided objects in MemCacheStore and RedisCacheStore potentially resulting in an RCE.| 
 | 20210120T14:55:41Z | cve-2021-1647 | Null | https://github.com/dmlgzs/cve-2021-1647 | 未查询到CVE信息| 
-| 20210120T11:27:14Z | CVE-2020-11851 | Remote Code Execution vulnerability on ArcSight Logger | https://github.com/ch1nghz/CVE-2020-11851 | Arbitrary code execution vulnerability on Micro Focus ArcSight Logger product, affecting all version prior to 7.1.1. The vulnerability could be remotely exploited resulting in the execution of arbitrary code.| 
-| 20210120T02:49:30Z | cve-2021-3164 | Church Rota version 2.6.4 is vulnerable to authenticated remote code execution. The user does not need to have file upload permission in order to upload and execute an arbitrary file. The application is written primarily with PHP so we use PHP in our PoC            | https://github.com/rmccarth/cve-2021-3164 | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210121T14:01:54Z | Null | https://github.com/fontworks-fonts/Klee | 301 | 8| 
-| 20210121T12:58:47Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1603 | 477| 
+| 20210122T00:47:14Z | Null | https://github.com/fontworks-fonts/Klee | 310 | 8| 
+| 20210121T22:34:37Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1604 | 477| 
+| 20210121T19:27:06Z | A very fun and useful bot containing many features.  | https://github.com/quantix-dev/Kleebot | 1 | 0| 
 | 20210121T11:58:03Z | RVT is a collection of tools/libraries to support both static and dynamic verification of Rust programs. | https://github.com/project-oak/rust-verification-tools | 102 | 6| 
 | 20210121T11:24:10Z | Kwik n Kleen  | https://github.com/SailekshmiP/Kwik-n-Kleen- | 0 | 0| 
 | 20210120T07:28:49Z | An opinionated CSS framework - Jan 2021 | https://github.com/logic-fabric/klee | 0 | 0| 
@@ -70,7 +71,6 @@
 | 20210119T02:32:39Z | Null | https://github.com/Llovas7/Prueba-Klee | 0 | 0| 
 | 20210118T05:57:18Z | Null | https://github.com/LitRHap/klee | 0 | 0| 
 | 20210118T04:21:10Z | Null | https://github.com/davidtr1037/klee-aaqc | 1 | 0| 
-| 20210116T08:25:24Z | Null | https://github.com/LitRHap/klee-bot | 0 | 0| 
 
 
 # s2e on Github 推荐
@@ -88,31 +88,31 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210121T14:33:23Z | Simple lightweight library which allows to create decoupled from fragments views and exploiting observer pattern for communication. | https://github.com/VladSyrg/TriPoloski | 0 | 0| 
-| 20210121T14:33:04Z | Null | https://github.com/Poshini/Exploiting-vulnerability | 0 | 0| 
-| 20210121T14:31:22Z | linux post-exploitation framework made by linux user | https://github.com/jm33-m0/emp3r0r | 335 | 58| 
-| 20210121T14:19:25Z | Um exploit de buffer overflow para SLmail-5.5 pop3 service  CVE-2003-0264   | https://github.com/medn1c/pop3_SLmail-exploit | 1 | 0| 
-| 20210121T13:27:19Z | Post-exploitation tool for AV evasion by using AES encryption of Powershell scripts | https://github.com/DenFox93/PowershellCrypter | 0 | 0| 
-| 20210121T12:49:48Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 7 | 4| 
-| 20210121T12:35:32Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 8912 | 1418| 
-| 20210121T12:28:45Z | forked version of funtuna, a homebrew ps2 app launcher designed to ease the pain of getting a stable exploit for those that have a console uncompatible with FreeMcBoot that doesnt have a modchip | https://github.com/israpps/Funtuna-Fork | 0 | 0| 
-| 20210121T12:11:23Z | Null | https://github.com/Y3-333/FrostExploit | 0 | 0| 
-| 20210121T12:03:15Z | Text multiclass classification project exploiting word-embedding and TF-IDF for vector representation of words. | https://github.com/paoloitaliani/Text-Classification | 0 | 0| 
+| 20210122T00:50:44Z | PrExploit: Open Exploit Prediction System | https://github.com/prexploit/prexploit | 4 | 3| 
+| 20210122T00:49:49Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 7 | 4| 
+| 20210122T00:47:35Z | Text multi-class classification project exploiting different techniques for vector representation of text. | https://github.com/paoloitaliani/Text-Classification | 0 | 0| 
+| 20210122T00:08:32Z | A Step by Step Penetration Testing Sheet for Cyber Security Experts | https://github.com/Afriness/Advanced-Penetration-testing | 0 | 0| 
+| 20210121T23:54:01Z | Vulnerabilities% Risk of Exploitation | https://github.com/thiagofigcosta/V-REx | 0 | 0| 
+| 20210121T23:36:56Z | PS4 Exploit list | https://github.com/Hakkuraifu/PS4xploit | 20 | 5| 
+| 20210121T23:25:21Z | KDMapper is a simple tool that exploits iqvw64e.sys Intel driver to manually map non-signed drivers in memory | https://github.com/TheCruZ/kdmapper-1803-20H2 | 115 | 61| 
+| 20210121T23:22:01Z | Post-exploitation tool for AV evasion by using AES encryption of Powershell scripts | https://github.com/DenFox93/PowershellCrypter | 0 | 0| 
+| 20210121T22:04:12Z | Various ASM, C and C++ tools, shellcodes and exploit experiments. | https://github.com/forrest-orr/ExploitDev | 32 | 2| 
+| 20210121T21:11:59Z | Penetration text on a vulnerable windows server, to exploit and highlight vulnerabilities  | https://github.com/bhansraj/Pen-Test-Project | 0 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210121T14:37:42Z | This is an implementation demo of the ICLR 2021 paper **[Neural Attention Distillation: Erasing Backdoor Triggers from Deep Neural Networks](https://arxiv.org/abs/2101.05930)** in PyTorch. | https://github.com/bboylyg/NAD | 2 | 0| 
+| 20210121T21:48:33Z | Null | https://github.com/domiferrar/BACKDOOR | 0 | 0| 
+| 20210121T20:10:58Z | This program is an non-object oriented opensource, hidden and undetectable backdoor/reverse shell/RAT for Windows made in Python 3 which contains many features such as multi-client support and cross-platform server. | https://github.com/xp4xbox/Python-Backdoor | 338 | 130| 
+| 20210121T19:48:57Z | Full-featured C2 framework which silently persists on webserver with a single-line PHP backdoor | https://github.com/nil0x42/phpsploit | 1141 | 326| 
+| 20210121T17:20:46Z | This is an implementation demo of the ICLR 2021 paper **[Neural Attention Distillation: Erasing Backdoor Triggers from Deep Neural Networks](https://arxiv.org/abs/2101.05930)** in PyTorch. | https://github.com/bboylyg/NAD | 3 | 0| 
+| 20210121T16:48:38Z | Null | https://github.com/mikkelskov1/backdoor2 | 0 | 0| 
 | 20210121T07:53:40Z | Powerfull webshell backdoor with many functions instead | https://github.com/willygoid/HaxorShell | 0 | 0| 
 | 20210121T05:43:36Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 154 | 22| 
 | 20210121T00:22:55Z | Tool to find potential backdoor/security holes in your endpoint | https://github.com/subasgit/backdoorfinder | 1 | 0| 
 | 20210120T22:52:55Z | Analysis of SunBurst (SolarWinds) embedded backdoor | https://github.com/conikeec/sunburst-analysis | 1 | 1| 
 | 20210120T17:01:28Z | Null | https://github.com/EjHvorSerDuVildUdJim/backdoor | 0 | 0| 
-| 20210120T15:24:07Z | Rusty backdoor+spyware :bomb: :door: | https://github.com/talbor49/spyware | 10 | 0| 
-| 20210120T15:10:48Z | Implementations and demo of a regular Backdoor and a Latent backdoor attack on Deep Neural Networks. | https://github.com/dunnkers/neural-network-backdoors | 1 | 0| 
-| 20210120T14:23:57Z | Backdoor de shell reversa simples em C  | https://github.com/medn1c/reverse-shell | 1 | 0| 
-| 20210120T10:20:50Z | Strengthen your defense against web attacks with Kali Linux and Metasploit | https://github.com/PacktPublishing/Improving-your-Penetration-Testing-Skills | 5 | 0| 
 
 
 # fuzz on Github 推荐
