@@ -38,7 +38,7 @@
 | 20210121T08:08:29Z | CVE-2020-24032 | Null | https://github.com/jet-pentest/CVE-2020-24032 | tz.pl on XoruX LPAR2RRD and STOR2RRD 2.70 virtual appliances allows cmd=set&tz=OS command injection via shell metacharacters in a timezone.| 
 | 20210121T06:48:06Z | CVE-2020-17456 | CVE-2020-17456 & Seowon SLC 130 Router RCE | https://github.com/Al1ex/CVE-2020-17456 | SEOWON INTECH SLC-130 And SLR-120S devices allow Remote Code Execution via the ipAddr parameter to the system_log.cgi page.| 
 | 20210121T03:04:34Z | 未知编号 | 2020一些漏洞 | https://github.com/r0eXpeR/CVE-2020 | 未查询到CVE信息| 
-| 20210121T01:32:13Z | CVE-2020-8165 | PoC for CVE-2020-8165 | https://github.com/progfay/CVE-2020-8165 | | 
+| 20210121T01:32:13Z | CVE-2020-8165 | PoC for CVE-2020-8165 | https://github.com/progfay/CVE-2020-8165 | A deserialization of untrusted data vulnernerability exists in rails < 5.2.4.3, rails < 6.0.3.1 that can allow an attacker to unmarshal user-provided objects in MemCacheStore and RedisCacheStore potentially resulting in an RCE.| 
 
 
 # klee on Github 推荐
