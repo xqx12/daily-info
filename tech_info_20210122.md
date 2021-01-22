@@ -36,7 +36,7 @@
 | 20210122T08:51:39Z | 未知编号 | 2020l4web-campaign-DanCvejn created by GitHub Classroom | https://github.com/pslib-cz/2020l4web-campaign-DanCvejn | 未查询到CVE信息| 
 | 20210122T08:45:00Z | CVE-2020-26258 | CVE-2020-26258 && XStream SSRF | https://github.com/Al1ex/CVE-2020-26258 | XStream is a Java library to serialize objects to XML and back again. In XStream before version 1.4.15, a Server-Side Forgery Request vulnerability can be activated when unmarshalling. The vulnerability may allow a remote attacker to request data from internal resources that are not publicly available only by manipulating the processed input stream. If you rely on XStream%s default blacklist of the Security Framework, you will have to use at least version 1.4.15. The reported vulnerability does not exist if running Java 15 or higher. No user is affected who followed the recommendation to setup XStream%s Security Framework with a whitelist! Anyone relying on XStream%s default blacklist can immediately switch to a whilelist for the allowed types to avoid the vulnerability. Users of XStream 1.4.14 or below who still want to use XStream default blacklist can use a workaround described in more detailed in the referenced advisories.| 
 | 20210122T08:18:45Z | CVE-2020-13937 | Apache Kylin API Unauthorized Access | https://github.com/Al1ex/CVE-2020-13937 | Apache Kylin 2.0.0, 2.1.0, 2.2.0, 2.3.0, 2.3.1, 2.3.2, 2.4.0, 2.4.1, 2.5.0, 2.5.1, 2.5.2, 2.6.0, 2.6.1, 2.6.2, 2.6.3, 2.6.4, 2.6.5, 2.6.6, 3.0.0-alpha, 3.0.0-alpha2, 3.0.0-beta, 3.0.0, 3.0.1, 3.0.2, 3.1.0, 4.0.0-alpha has one restful api which exposed Kylin%s configuration information without any authentication, so it is dangerous because some confidential information entries will be disclosed to everyone.| 
-| 20210122T06:33:51Z | 未知编号 | Null | https://github.com/zeromirror/cve_2020-11060 | 未查询到CVE信息| 
+| 20210122T06:33:51Z | 未知编号 | Null | https://github.com/zeromirror/cve_2020-11060 | | 
 
 
 # klee on Github 推荐
@@ -54,8 +54,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210122T13:24:25Z | PrExploit: Open Exploit Prediction System | https://github.com/prexploit/prexploit | 4 | 3| 
 | 20210122T13:23:11Z | Vulmap - Web vulnerability scanning and verification tools，支持扫描 activemq, flink, shiro, solr, struts2, tomcat, unomi, drupal, elasticsearch, nexus, weblogic, jboss, thinkphp，并且具备漏洞利用功能。CVE-2020-14882, CVE-2020-2555, CVE-2020-2883, S2-061, CVE-2020-13942, CVE-2020-17530, CVE-2020-17518, CVE-2020-17519 | https://github.com/zhzyker/vulmap | 794 | 144| 
-| 20210122T13:23:02Z | PrExploit: Open Exploit Prediction System | https://github.com/prexploit/prexploit | 4 | 3| 
 | 20210122T13:22:51Z | Development of code to exploit LSST and VISTA imaging | https://github.com/lsst-uk/lsst-ir-fusion | 0 | 0| 
 | 20210122T12:49:49Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 7 | 4| 
 | 20210122T12:45:54Z | A server/client tool to exploit windows system. | https://github.com/spectertraww/winsploit | 1 | 1| 
