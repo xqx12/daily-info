@@ -47,7 +47,7 @@
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
 | 20210121T23:32:08Z | CVE-2020-6207 | PoC for CVE-2020-6207  (Missing Authentication Check in SAP Solution Manager) | https://github.com/chipik/SAP_EEM_CVE-2020-6207 | SAP Solution Manager (User Experience Monitoring), version- 7.2, due to Missing Authentication Check does not perform any authentication for a service resulting in complete compromise of all SMDAgents connected to the Solution Manager.| 
-| 20210121T22:42:08Z | CVE-2020-8554 | Null | https://github.com/Dviejopomata/CVE-2020-8554 | | 
+| 20210121T22:42:08Z | CVE-2020-8554 | Null | https://github.com/Dviejopomata/CVE-2020-8554 | Kubernetes API server in all versions allow an attacker who is able to create a ClusterIP service and set the spec.externalIPs field, to intercept traffic to that IP address. Additionally, an attacker who is able to patch the status (which is considered a privileged operation and should not typically be granted to users) of a LoadBalancer service can set the status.loadBalancer.ingress.ip to similar effect.| 
 | 20210121T13:31:12Z | CVE-2020-28874 | CVE-2020-28874 | https://github.com/varandinawer/CVE-2020-28874 | 未查询到CVE信息| 
 | 20210121T12:31:36Z | CVE-2021-3130 | Null | https://github.com/jet-pentest/CVE-2021-3130 | Within the Open-AudIT up to version 3.5.3 application, the web interface hides SSH secrets, Windows passwords, and SNMP strings from users using HTML %password field% obfuscation. By using Developer tools or similar, it is possible to change the obfuscation so that the credentials are visible.| 
 | 20210121T10:20:49Z | CVE-2020-35713 | CVE-2020-35713 | https://github.com/Al1ex/CVE-2020-35713 | Belkin LINKSYS RE6500 devices before 1.0.012.001 allow remote attackers to execute arbitrary commands or set a new password via shell metacharacters to the goform/setSysAdm page.| 
@@ -88,7 +88,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210122T01:51:01Z | Null | https://github.com/nola-milkin/poc_exploits | 0 | 0| 
+| 20210122T02:01:44Z | 🆔 Proof of Concepts for various CVE | https://github.com/nola-milkin/poc_exploits | 0 | 0| 
+| 20210122T02:01:04Z | Zoom exploit that can lag/crash clients. | https://github.com/NightfallGT/Zoom-exploit | 0 | 0| 
 | 20210122T01:35:59Z | ASLR Evasion, Egghunters, SEH Overwrites | https://github.com/freddiebarrsmith/Advanced-Windows-Exploit-Development-Practice | 9 | 1| 
 | 20210122T00:50:44Z | PrExploit: Open Exploit Prediction System | https://github.com/prexploit/prexploit | 4 | 3| 
 | 20210122T00:49:49Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 7 | 4| 
@@ -97,7 +98,6 @@
 | 20210121T23:54:01Z | Vulnerabilities% Risk of Exploitation | https://github.com/thiagofigcosta/V-REx | 0 | 0| 
 | 20210121T23:36:56Z | PS4 Exploit list | https://github.com/Hakkuraifu/PS4xploit | 20 | 5| 
 | 20210121T23:25:21Z | KDMapper is a simple tool that exploits iqvw64e.sys Intel driver to manually map non-signed drivers in memory | https://github.com/TheCruZ/kdmapper-1803-20H2 | 115 | 61| 
-| 20210121T23:22:01Z | Post-exploitation tool for AV evasion by using AES encryption of Powershell scripts | https://github.com/DenFox93/PowershellCrypter | 0 | 0| 
 
 
 # backdoor on Github 推荐
