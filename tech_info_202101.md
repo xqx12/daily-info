@@ -88,7 +88,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210122T02:01:44Z | 🆔 Proof of Concepts for various CVE | https://github.com/nola-milkin/poc_exploits | 0 | 0| 
+| 20210122T02:04:19Z | 🆔 Proof of Concept exploits and their descriptions for various products | https://github.com/nola-milkin/poc_exploits | 0 | 0| 
 | 20210122T02:01:04Z | Zoom exploit that can lag/crash clients. | https://github.com/NightfallGT/Zoom-exploit | 0 | 0| 
 | 20210122T01:35:59Z | ASLR Evasion, Egghunters, SEH Overwrites | https://github.com/freddiebarrsmith/Advanced-Windows-Exploit-Development-Practice | 9 | 1| 
 | 20210122T00:50:44Z | PrExploit: Open Exploit Prediction System | https://github.com/prexploit/prexploit | 4 | 3| 
