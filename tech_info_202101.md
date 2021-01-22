@@ -118,6 +118,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210122T02:00:57Z | RESTler is the first stateful REST API fuzzing tool for automatically testing cloud services through their REST APIs and finding security and reliability bugs in these services. | https://github.com/microsoft/restler-fuzzer | 637 | 58| 
 | 20210122T01:45:17Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 5803 | 1163| 
 | 20210122T01:29:57Z | Null | https://github.com/arminvan8348/fuzzy-fortnight | 0 | 0| 
 | 20210122T01:10:36Z | A HTTP fuzzer based on dynamics workflows | https://github.com/NozakiLabs/nzkflow | 1 | 0| 
@@ -127,7 +128,6 @@
 | 20210122T00:02:06Z | Model for determination of the location to open a bank branch | https://github.com/erginbalta/MamdaniFuzzyLogicModel | 0 | 0| 
 | 20210121T23:39:13Z | Quality assurance testing for the curl project | https://github.com/curl/curl-fuzzer | 29 | 16| 
 | 20210121T23:31:11Z | Personal website of Laurence Hughes | https://github.com/fuzzylogicxx/fuzzylogic | 4 | 1| 
-| 20210121T23:26:57Z | REST API Fuzz Testing (RAFT): Source code for self-hosted service developed for Azure, including the API, orchestration engine, and default set of security tools (including MSR%s RESTler), that enables developers to embed security tooling into their CI/CD workflows | https://github.com/microsoft/rest-api-fuzz-testing | 91 | 11| 
 
 
 
