@@ -52,7 +52,7 @@
 | 20210121T12:31:36Z | CVE-2021-3130 | Null | https://github.com/jet-pentest/CVE-2021-3130 | Within the Open-AudIT up to version 3.5.3 application, the web interface hides SSH secrets, Windows passwords, and SNMP strings from users using HTML %password field% obfuscation. By using Developer tools or similar, it is possible to change the obfuscation so that the credentials are visible.| 
 | 20210121T10:20:49Z | CVE-2020-35713 | CVE-2020-35713 | https://github.com/Al1ex/CVE-2020-35713 | Belkin LINKSYS RE6500 devices before 1.0.012.001 allow remote attackers to execute arbitrary commands or set a new password via shell metacharacters to the goform/setSysAdm page.| 
 | 20210121T08:08:29Z | CVE-2020-24032 | Null | https://github.com/jet-pentest/CVE-2020-24032 | tz.pl on XoruX LPAR2RRD and STOR2RRD 2.70 virtual appliances allows cmd=set&tz=OS command injection via shell metacharacters in a timezone.| 
-| 20210121T06:48:06Z | CVE-2020-17456 | CVE-2020-17456 & Seowon SLC 130 Router RCE | https://github.com/Al1ex/CVE-2020-17456 | | 
+| 20210121T06:48:06Z | CVE-2020-17456 | CVE-2020-17456 & Seowon SLC 130 Router RCE | https://github.com/Al1ex/CVE-2020-17456 | SEOWON INTECH SLC-130 And SLR-120S devices allow Remote Code Execution via the ipAddr parameter to the system_log.cgi page.| 
 | 20210121T03:04:34Z | 未知编号 | 2020一些漏洞 | https://github.com/r0eXpeR/CVE-2020 | 未查询到CVE信息| 
 | 20210121T01:32:13Z | CVE-2020-8165 | PoC for CVE-2020-8165 | https://github.com/progfay/CVE-2020-8165 | A deserialization of untrusted data vulnernerability exists in rails < 5.2.4.3, rails < 6.0.3.1 that can allow an attacker to unmarshal user-provided objects in MemCacheStore and RedisCacheStore potentially resulting in an RCE.| 
 | 20210120T14:55:41Z | cve-2021-1647 | Null | https://github.com/dmlgzs/cve-2021-1647 | 未查询到CVE信息| 
@@ -118,6 +118,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210122T01:29:57Z | Null | https://github.com/arminvan8348/fuzzy-fortnight | 0 | 0| 
 | 20210122T01:10:36Z | A HTTP fuzzer based on dynamics workflows | https://github.com/NozakiLabs/nzkflow | 1 | 0| 
 | 20210122T00:55:10Z | Coding practice for HTML/CSS/anything else web based | https://github.com/FuzzyPumpkin/FuzzyPumpkin.github.io | 5 | 1| 
 | 20210122T00:36:19Z | A catalog of wordlists to use with Nozaki or other fuzzer | https://github.com/NozakiLabs/wordlists | 1 | 0| 
@@ -127,7 +128,6 @@
 | 20210121T23:39:13Z | Quality assurance testing for the curl project | https://github.com/curl/curl-fuzzer | 29 | 16| 
 | 20210121T23:31:11Z | Personal website of Laurence Hughes | https://github.com/fuzzylogicxx/fuzzylogic | 4 | 1| 
 | 20210121T23:26:57Z | REST API Fuzz Testing (RAFT): Source code for self-hosted service developed for Azure, including the API, orchestration engine, and default set of security tools (including MSR%s RESTler), that enables developers to embed security tooling into their CI/CD workflows | https://github.com/microsoft/rest-api-fuzz-testing | 91 | 11| 
-| 20210121T23:00:23Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2252 | 114| 
 
 
 
