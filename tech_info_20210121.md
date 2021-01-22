@@ -18,6 +18,7 @@
 | 20210121 | springboot系列教程资源。 | https://github.com/xie19900123/spring-boot-learning| 
 | 20210121 | Windows 计划任务隐藏新姿势分享。 | https://paper.seebug.org/1464/| 
 | 20210121 | 基于机器学习的敏感信息泄露治理探索. | https://security.tencent.com/index.php/blog/msg/177| 
+| 20210121 | 利用 3 个漏洞实现 SolarWinds Orion RCE | https://www.thezdi.com/blog/2021/1/20/three-bugs-in-orions-belt-chaining-multiple-bugs-for-unauthenticated-rce-in-the-solarwinds-orion-platform| 
 
 
 # 安全维基 推荐
@@ -30,7 +31,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20210121T23:32:08Z | CVE-2020-6207 | PoC for CVE-2020-6207  (Missing Authentication Check in SAP Solution Manager) | https://github.com/chipik/SAP_EEM_CVE-2020-6207 | SAP Solution Manager (User Experience Monitoring), version- 7.2, due to Missing Authentication Check does not perform any authentication for a service resulting in complete compromise of all SMDAgents connected to the Solution Manager.| 
+| 20210121T23:32:08Z | CVE-2020-6207 | PoC for CVE-2020-6207  (Missing Authentication Check in SAP Solution Manager) | https://github.com/chipik/SAP_EEM_CVE-2020-6207 | | 
 | 20210121T22:42:08Z | CVE-2020-8554 | Null | https://github.com/Dviejopomata/CVE-2020-8554 | Kubernetes API server in all versions allow an attacker who is able to create a ClusterIP service and set the spec.externalIPs field, to intercept traffic to that IP address. Additionally, an attacker who is able to patch the status (which is considered a privileged operation and should not typically be granted to users) of a LoadBalancer service can set the status.loadBalancer.ingress.ip to similar effect.| 
 | 20210121T13:31:12Z | CVE-2020-28874 | CVE-2020-28874 | https://github.com/varandinawer/CVE-2020-28874 | 未查询到CVE信息| 
 | 20210121T12:31:36Z | CVE-2021-3130 | Null | https://github.com/jet-pentest/CVE-2021-3130 | Within the Open-AudIT up to version 3.5.3 application, the web interface hides SSH secrets, Windows passwords, and SNMP strings from users using HTML %password field% obfuscation. By using Developer tools or similar, it is possible to change the obfuscation so that the credentials are visible.| 
