@@ -31,7 +31,7 @@
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
 | 20210121T23:32:08Z | CVE-2020-6207 | PoC for CVE-2020-6207  (Missing Authentication Check in SAP Solution Manager) | https://github.com/chipik/SAP_EEM_CVE-2020-6207 | SAP Solution Manager (User Experience Monitoring), version- 7.2, due to Missing Authentication Check does not perform any authentication for a service resulting in complete compromise of all SMDAgents connected to the Solution Manager.| 
-| 20210121T22:42:08Z | CVE-2020-8554 | Null | https://github.com/Dviejopomata/CVE-2020-8554 | Kubernetes API server in all versions allow an attacker who is able to create a ClusterIP service and set the spec.externalIPs field, to intercept traffic to that IP address. Additionally, an attacker who is able to patch the status (which is considered a privileged operation and should not typically be granted to users) of a LoadBalancer service can set the status.loadBalancer.ingress.ip to similar effect.| 
+| 20210121T22:42:08Z | CVE-2020-8554 | Null | https://github.com/Dviejopomata/CVE-2020-8554 | | 
 | 20210121T13:31:12Z | CVE-2020-28874 | CVE-2020-28874 | https://github.com/varandinawer/CVE-2020-28874 | 未查询到CVE信息| 
 | 20210121T12:31:36Z | CVE-2021-3130 | Null | https://github.com/jet-pentest/CVE-2021-3130 | Within the Open-AudIT up to version 3.5.3 application, the web interface hides SSH secrets, Windows passwords, and SNMP strings from users using HTML %password field% obfuscation. By using Developer tools or similar, it is possible to change the obfuscation so that the credentials are visible.| 
 | 20210121T10:20:49Z | CVE-2020-35713 | CVE-2020-35713 | https://github.com/Al1ex/CVE-2020-35713 | Belkin LINKSYS RE6500 devices before 1.0.012.001 allow remote attackers to execute arbitrary commands or set a new password via shell metacharacters to the goform/setSysAdm page.| 
@@ -86,16 +86,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210121T13:17:02Z | Packer Fuzzer is a fast and efficient scanner for security detection of websites constructed by javascript module bundler such as Webpack.  | https://github.com/rtcatc/Packer-Fuzzer | 669 | 78| 
-| 20210121T13:15:37Z | A list of payload and bypass lists for penetration testing and red team infrastructure build. | https://github.com/ffffffff0x/AboutSecurity | 142 | 39| 
-| 20210121T12:34:56Z | A HTTP fuzzer based on dynamics workflows | https://github.com/NozakiLabs/nzkflow | 1 | 0| 
-| 20210121T12:22:27Z | Go fuzzy matching tool using Levenshtein distance calculation | https://github.com/datahappy1/go_fuzzymatch | 0 | 0| 
-| 20210121T12:12:53Z | A Fuzzy Matching Approach for Clustering Strings | https://github.com/ebanalyse/fuzzup | 1 | 0| 
-| 20210121T11:54:51Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 5803 | 1163| 
-| 20210121T11:52:42Z | Fuzzer for Pharo | https://github.com/mabdi/phazzer | 0 | 0| 
-| 20210121T10:47:17Z | library for fuzzy search | https://github.com/AlfredDaimari/fuzzjs | 0 | 0| 
-| 20210121T10:43:30Z | Null | https://github.com/kiwidancebad/fuzzy-analysis | 0 | 0| 
-| 20210121T10:37:20Z | Null | https://github.com/kunalgaurav18/FuzzyLogic | 0 | 0| 
+| 20210121T23:39:13Z | Quality assurance testing for the curl project | https://github.com/curl/curl-fuzzer | 29 | 16| 
+| 20210121T23:31:11Z | Personal website of Laurence Hughes | https://github.com/fuzzylogicxx/fuzzylogic | 4 | 1| 
+| 20210121T23:26:57Z | REST API Fuzz Testing (RAFT): Source code for self-hosted service developed for Azure, including the API, orchestration engine, and default set of security tools (including MSR%s RESTler), that enables developers to embed security tooling into their CI/CD workflows | https://github.com/microsoft/rest-api-fuzz-testing | 91 | 11| 
+| 20210121T23:00:23Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2252 | 114| 
+| 20210121T22:56:01Z | FuzzBench - Fuzzer benchmarking as a service. | https://github.com/google/fuzzbench | 583 | 95| 
+| 20210121T22:53:53Z | Times Kym S Hook power of attorney for HerbertDKilgo last 12years use power of attorney,  | https://github.com/kris749/fuzzy-octo-lamp | 0 | 0| 
+| 20210121T22:25:27Z | FormatFuzzer is a framework for high-efficiency, high-quality generation and parsing of binary inputs. | https://github.com/uds-se/FormatFuzzer | 115 | 12| 
+| 20210121T21:46:35Z | Null | https://github.com/zawolanski/fuzzy_numbers | 0 | 0| 
+| 20210121T21:32:20Z | Null | https://github.com/RudyJudy/fuzzy-dollop | 0 | 0| 
+| 20210121T20:19:59Z | Null | https://github.com/LimeEng/magpie-fuzz | 0 | 0| 
 
 
 
