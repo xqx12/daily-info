@@ -88,6 +88,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210122T01:35:59Z | ASLR Evasion, Egghunters, SEH Overwrites | https://github.com/freddiebarrsmith/Advanced-Windows-Exploit-Development-Practice | 9 | 1| 
 | 20210122T00:50:44Z | PrExploit: Open Exploit Prediction System | https://github.com/prexploit/prexploit | 4 | 3| 
 | 20210122T00:49:49Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 7 | 4| 
 | 20210122T00:47:35Z | Text multi-class classification project exploiting different techniques for vector representation of text. | https://github.com/paoloitaliani/Text-Classification | 0 | 0| 
@@ -97,7 +98,6 @@
 | 20210121T23:25:21Z | KDMapper is a simple tool that exploits iqvw64e.sys Intel driver to manually map non-signed drivers in memory | https://github.com/TheCruZ/kdmapper-1803-20H2 | 115 | 61| 
 | 20210121T23:22:01Z | Post-exploitation tool for AV evasion by using AES encryption of Powershell scripts | https://github.com/DenFox93/PowershellCrypter | 0 | 0| 
 | 20210121T22:04:12Z | Various ASM, C and C++ tools, shellcodes and exploit experiments. | https://github.com/forrest-orr/ExploitDev | 32 | 2| 
-| 20210121T21:11:59Z | Penetration text on a vulnerable windows server, to exploit and highlight vulnerabilities  | https://github.com/bhansraj/Pen-Test-Project | 0 | 0| 
 
 
 # backdoor on Github 推荐
