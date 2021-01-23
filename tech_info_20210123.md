@@ -37,6 +37,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210123T13:09:57Z | every roblox exploit/script made by me | https://github.com/itsrucky/exploits | 0 | 0| 
 | 20210123T13:05:05Z | CDK is an open-sourced container penetration toolkit, offering stable exploitation in different slimmed containers without any OS dependency. It comes with penetration tools and many powerful PoCs/EXPs helps you to escape container and takeover K8s cluster easily. | https://github.com/cdk-team/CDK | 421 | 69| 
 | 20210123T12:55:21Z | ASLR Evasion, Egghunters, SEH Overwrites | https://github.com/freddiebarrsmith/Advanced-Windows-Exploit-Development-Practice | 9 | 1| 
 | 20210123T12:51:10Z | This bash script will help you to hack remote hosts  | https://github.com/FabioDefilippo/linuxallremote | 4 | 1| 
@@ -46,7 +47,6 @@
 | 20210123T11:47:32Z | Null | https://github.com/minsittpaingmhuu/exploit.html | 0 | 0| 
 | 20210123T11:35:14Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 8923 | 1425| 
 | 20210123T11:33:49Z | Null | https://github.com/pynox/malware-reverse-exploitdev | 3 | 1| 
-| 20210123T11:27:21Z | every roblox exploit/script made by me | https://github.com/itsrucky/exploits | 0 | 0| 
 
 
 # backdoor on Github 推荐
