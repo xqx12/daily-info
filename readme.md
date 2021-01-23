@@ -16,7 +16,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20210123T12:16:05Z | CVE-2021-3129 | Laravel debug rce | https://github.com/SNCKER/CVE-2021-3129 | Ignition before 2.5.2, as used in Laravel and other products, allows unauthenticated remote attackers to execute arbitrary code because of insecure usage of file_get_contents() and file_put_contents(). This is exploitable on sites using debug mode with Laravel before 8.4.2.| 
+| 20210123T13:02:35Z | CVE-2021-3129 | Laravel debug rce | https://github.com/SNCKER/CVE-2021-3129 | Ignition before 2.5.2, as used in Laravel and other products, allows unauthenticated remote attackers to execute arbitrary code because of insecure usage of file_get_contents() and file_put_contents(). This is exploitable on sites using debug mode with Laravel before 8.4.2.| 
 | 20210123T02:36:06Z | CVE-2021-2109 | CVE-2021-2109 && Weblogic Server RCE via JNDI | https://github.com/Al1ex/CVE-2021-2109 | Vulnerability in the Oracle WebLogic Server product of Oracle Fusion Middleware (component: Console). Supported versions that are affected are 10.3.6.0.0, 12.1.3.0.0, 12.2.1.3.0, 12.2.1.4.0 and 14.1.1.0.0. Easily exploitable vulnerability allows high privileged attacker with network access via HTTP to compromise Oracle WebLogic Server. Successful attacks of this vulnerability can result in takeover of Oracle WebLogic Server. CVSS 3.1 Base Score 7.2 (Confidentiality, Integrity and Availability impacts). CVSS Vector: (CVSS:3.1/AV:N/AC:L/PR:H/UI:N/S:U/C:H/I:H/A:H).| 
 
 
@@ -67,6 +67,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210123T12:55:54Z | Personal website of Laurence Hughes | https://github.com/fuzzylogicxx/fuzzylogic | 4 | 1| 
+| 20210123T10:53:52Z | nothing | https://github.com/bjslsl/fuzzy-computing-machine | 0 | 0| 
+| 20210123T10:43:01Z | Auto fuzzing script for competitive programming | https://github.com/kyomukyomupurin/Fuzzing | 0 | 0| 
+| 20210123T09:41:58Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2253 | 116| 
+| 20210123T09:06:50Z | A HTTP fuzzer based on dynamics workflows | https://github.com/NozakiLabs/nzkflow | 3 | 0| 
+| 20210123T07:29:01Z | Null | https://github.com/mynameiswillporter/php-fuzz | 0 | 0| 
+| 20210123T05:32:52Z | Toy project to showcase getting coverage report when using libfuzzer  | https://github.com/danblitzhou/fuzzing-with-cov-example | 0 | 0| 
+| 20210123T05:06:54Z | A python algorithm which uses fuzzy logic to cluster database entries. | https://github.com/Adial314/FuzzyCluster | 0 | 0| 
+| 20210123T03:01:24Z | HTTP fuzzer engine security oriented | https://github.com/NozakiLabs/nozaki | 23 | 6| 
+| 20210123T02:31:27Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 1263 | 270| 
 
 
 
