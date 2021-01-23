@@ -118,6 +118,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210123T13:54:02Z | HTTP Fuzzer backed with Machine Learning | https://github.com/karust/ml_http_fuzzer | 0 | 0| 
 | 20210123T13:36:49Z | fuzzy_searching | https://github.com/oinochoe/fuzzy-searching | 0 | 0| 
 | 20210123T13:33:44Z | Null | https://github.com/Dmenk123/fuzzy_ahp | 0 | 0| 
 | 20210123T13:20:41Z | Comparison with margins | https://github.com/jurij-robba/fuzzycomp | 0 | 0| 
@@ -127,7 +128,6 @@
 | 20210123T10:43:01Z | Auto fuzzing script for competitive programming | https://github.com/kyomukyomupurin/Fuzzing | 0 | 0| 
 | 20210123T09:41:58Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2253 | 116| 
 | 20210123T09:06:50Z | A HTTP fuzzer based on dynamics workflows | https://github.com/NozakiLabs/nzkflow | 3 | 0| 
-| 20210123T07:29:01Z | Null | https://github.com/mynameiswillporter/php-fuzz | 0 | 0| 
 
 
 
