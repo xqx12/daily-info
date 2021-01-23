@@ -37,6 +37,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210123T13:40:58Z | checks if the host is vulnerable to cors and uses an html exploit to be able to exploit the vulnerability | https://github.com/MoBphp/Cors | 0 | 0| 
 | 20210123T13:33:13Z | ELF 32-bit Reversing | https://github.com/RobertJonnyTiger/Reverse-and-Exploit-Development | 0 | 0| 
 | 20210123T13:24:41Z | Just a temporary website to post my ctf writeups and journey into binary exploitation/malware analysis/exploit development | https://github.com/blackbeard666/blackbeard666.github.io | 0 | 0| 
 | 20210123T13:16:41Z | every roblox exploit/script made by me | https://github.com/itsrucky/exploits | 0 | 0| 
@@ -46,7 +47,6 @@
 | 20210123T12:49:49Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 7 | 4| 
 | 20210123T12:31:58Z | CSS trick/bug to display a brighter white by exploiting browsers% HDR capability and Apple%s EDR system | https://github.com/kiding/wanna-see-a-whiter-white | 38 | 2| 
 | 20210123T12:07:01Z | Exploit and knowledge about ctf, my own method | https://github.com/RoderickChan/my_own_ctf_box | 0 | 0| 
-| 20210123T11:47:32Z | Null | https://github.com/minsittpaingmhuu/exploit.html | 0 | 0| 
 
 
 # backdoor on Github 推荐
