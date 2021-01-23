@@ -67,16 +67,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210123T13:36:49Z | fuzzy_searching | https://github.com/oinochoe/fuzzy-searching | 0 | 0| 
+| 20210123T13:33:44Z | Null | https://github.com/Dmenk123/fuzzy_ahp | 0 | 0| 
+| 20210123T13:20:41Z | Comparison with margins | https://github.com/jurij-robba/fuzzycomp | 0 | 0| 
+| 20210123T13:18:18Z | A catalog of wordlists to use with Nozaki or other fuzzer | https://github.com/NozakiLabs/wordlists | 2 | 0| 
 | 20210123T12:55:54Z | Personal website of Laurence Hughes | https://github.com/fuzzylogicxx/fuzzylogic | 4 | 1| 
 | 20210123T10:53:52Z | nothing | https://github.com/bjslsl/fuzzy-computing-machine | 0 | 0| 
 | 20210123T10:43:01Z | Auto fuzzing script for competitive programming | https://github.com/kyomukyomupurin/Fuzzing | 0 | 0| 
 | 20210123T09:41:58Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2253 | 116| 
 | 20210123T09:06:50Z | A HTTP fuzzer based on dynamics workflows | https://github.com/NozakiLabs/nzkflow | 3 | 0| 
 | 20210123T07:29:01Z | Null | https://github.com/mynameiswillporter/php-fuzz | 0 | 0| 
-| 20210123T05:32:52Z | Toy project to showcase getting coverage report when using libfuzzer  | https://github.com/danblitzhou/fuzzing-with-cov-example | 0 | 0| 
-| 20210123T05:06:54Z | A python algorithm which uses fuzzy logic to cluster database entries. | https://github.com/Adial314/FuzzyCluster | 0 | 0| 
-| 20210123T03:01:24Z | HTTP fuzzer engine security oriented | https://github.com/NozakiLabs/nozaki | 23 | 6| 
-| 20210123T02:31:27Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 1263 | 270| 
 
 
 
