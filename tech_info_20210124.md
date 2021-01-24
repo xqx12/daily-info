@@ -35,14 +35,22 @@
 # s2e on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210124T11:49:58Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 94 | 22| 
 
 
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210124T02:25:31Z | iblessing is an iOS security exploiting toolkit, it mainly includes application information collection, static analysis and dynamic analysis. It can be used for reverse engineering, binary analysis and vulnerability mining. | https://github.com/Soulghost/iblessing | 276 | 46| 
-| 20210124T00:09:58Z | This bash script will help you to hack remote hosts  | https://github.com/FabioDefilippo/linuxallremote | 4 | 1| 
-| 20210124T00:05:41Z | Various ASM, C and C++ tools, shellcodes and exploit experiments. | https://github.com/forrest-orr/ExploitDev | 32 | 2| 
+| 20210124T12:57:32Z | Guardiran Exploit Database or GuExDb | https://github.com/msa-dom/exploit-db.ga | 0 | 0| 
+| 20210124T12:49:52Z | macro_pack is a tool by @EmericNasi used to automatize obfuscation and generation of Office documents, VB scripts, shortcuts, and other formats for pentest, demo, and social engineering assessments. The goal of macro_pack is to simplify exploitation, antimalware bypass, and automatize the process from malicious macro and script generation to final document generation. It also provides a lot of helpful features useful for redteam or security research.  | https://github.com/sevagas/macro_pack | 1020 | 254| 
+| 20210124T11:35:13Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 8923 | 1426| 
+| 20210124T11:05:05Z | CDK is an open-sourced container penetration toolkit, offering stable exploitation in different slimmed containers without any OS dependency. It comes with penetration tools and many powerful PoCs/EXPs helps you to escape container and takeover K8s cluster easily. | https://github.com/cdk-team/CDK | 432 | 72| 
+| 20210124T09:28:01Z | Code for our WRR paper %Toward Improved Predictions in Ungauged Basins: Exploiting the Power of Machine Learning% | https://github.com/kratzert/lstm_for_pub | 9 | 11| 
+| 20210124T09:18:57Z | This tool is great for information gathering and post- exploitation | https://github.com/Cybercrack-bot/Cybercrack | 1 | 0| 
+| 20210124T08:18:27Z | my unfamous exploit that only me and my freinds use with 4 dlls witch you can instantly switch  | https://github.com/AlexFeliow/exploit | 0 | 0| 
+| 20210124T08:04:09Z | Attack and defend active directory using modern post exploitation adversary tradecraft activity | https://github.com/infosecn1nja/AD-Attack-Defense | 2561 | 686| 
+| 20210124T07:47:37Z | random stuff for exploit dev practice | https://github.com/C-Brown/exploit_dev_practice | 0 | 0| 
+| 20210124T07:30:03Z | Text multi-class classification project exploiting different techniques for vector representation of text. | https://github.com/paoloitaliani/Text-Classification | 0 | 0| 
 
 
 # backdoor on Github 推荐
