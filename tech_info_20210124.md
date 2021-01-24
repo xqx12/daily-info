@@ -17,8 +17,8 @@
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
 | 20210124T10:20:40Z | CVE-2021-3129 | Laravel debug rce | https://github.com/SNCKER/CVE-2021-3129 | Ignition before 2.5.2, as used in Laravel and other products, allows unauthenticated remote attackers to execute arbitrary code because of insecure usage of file_get_contents() and file_put_contents(). This is exploitable on sites using debug mode with Laravel before 8.4.2.| 
-| 20210124T09:28:10Z | CVE-2020-11851 | Remote Code Execution vulnerability on ArcSight Logger | https://github.com/ch1nghz/CVE-2020-11851 | Arbitrary code execution vulnerability on Micro Focus ArcSight Logger product, affecting all version prior to 7.1.1. The vulnerability could be remotely exploited resulting in the execution of arbitrary code.| 
-| 20210124T08:15:39Z | CVE-2020-17530 | Null | https://github.com/killmonday/CVE-2020-17530-s2-061 | Forced OGNL evaluation, when evaluated on raw user input in tag attributes, may lead to remote code execution. Affected software : Apache Struts 2.0.0 - Struts 2.5.25.| 
+| 20210124T09:28:10Z | CVE-2020-11851 | Remote Code Execution vulnerability on ArcSight Logger | https://github.com/ch1nghz/CVE-2020-11851 | | 
+| 20210124T08:15:39Z | CVE-2020-17530 | Null | https://github.com/killmonday/CVE-2020-17530-s2-061 | | 
 
 
 # klee on Github 推荐
@@ -41,8 +41,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210124T13:36:27Z | Guardiran Exploit Database or GuExDb | https://github.com/msa-dom/exploit-db.ga | 0 | 0| 
 | 20210124T13:29:50Z | This custom Fail2Ban filter and jail will deal with all scans for common Wordpress, Joomla and other Web Exploits being scanned for by automated bots and those seeking to find exploitable web sites. | https://github.com/mitchellkrogza/Fail2Ban.WebExploits | 62 | 20| 
-| 20210124T13:28:16Z | Guardiran Exploit Database or GuExDb | https://github.com/msa-dom/exploit-db.ga | 0 | 0| 
 | 20210124T13:25:40Z | YOU CAN LEARN NEW WAY OF HACKING AND VULN EXPLOITATION ...FROM OUR WRITEUPS | https://github.com/shadow-securities/OSCP-PREP-WRITEUPS | 0 | 0| 
 | 20210124T12:49:52Z | macro_pack is a tool by @EmericNasi used to automatize obfuscation and generation of Office documents, VB scripts, shortcuts, and other formats for pentest, demo, and social engineering assessments. The goal of macro_pack is to simplify exploitation, antimalware bypass, and automatize the process from malicious macro and script generation to final document generation. It also provides a lot of helpful features useful for redteam or security research.  | https://github.com/sevagas/macro_pack | 1020 | 254| 
 | 20210124T11:35:13Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 8923 | 1426| 
