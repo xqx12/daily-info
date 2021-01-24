@@ -70,16 +70,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210123T13:54:02Z | HTTP Fuzzer backed with Machine Learning | https://github.com/karust/ml_http_fuzzer | 0 | 0| 
-| 20210123T13:36:49Z | fuzzy_searching | https://github.com/oinochoe/fuzzy-searching | 0 | 0| 
-| 20210123T13:33:44Z | Null | https://github.com/Dmenk123/fuzzy_ahp | 0 | 0| 
-| 20210123T13:20:41Z | Comparison with margins | https://github.com/jurij-robba/fuzzycomp | 0 | 0| 
-| 20210123T13:18:18Z | A catalog of wordlists to use with Nozaki or other fuzzer | https://github.com/NozakiLabs/wordlists | 2 | 0| 
-| 20210123T12:55:54Z | Personal website of Laurence Hughes | https://github.com/fuzzylogicxx/fuzzylogic | 4 | 1| 
-| 20210123T10:53:52Z | nothing | https://github.com/bjslsl/fuzzy-computing-machine | 0 | 0| 
-| 20210123T10:43:01Z | Auto fuzzing script for competitive programming | https://github.com/kyomukyomupurin/Fuzzing | 0 | 0| 
-| 20210123T09:41:58Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2253 | 116| 
-| 20210123T09:06:50Z | A HTTP fuzzer based on dynamics workflows | https://github.com/NozakiLabs/nzkflow | 3 | 0| 
+| 20210123T23:39:00Z | Null | https://github.com/django/django-fuzzers | 1 | 0| 
+| 20210123T23:38:03Z | A HTTP fuzzer based on dynamics workflows | https://github.com/NozakiLabs/nzkflow | 4 | 0| 
+| 20210123T22:56:20Z | A fork and successor of the Sulley Fuzzing Framework | https://github.com/jtpereyda/boofuzz | 1140 | 232| 
+| 20210123T22:17:29Z | Null | https://github.com/ekivolowitz/FuzzyMan | 0 | 0| 
+| 20210123T22:04:20Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 5811 | 1165| 
+| 20210123T21:53:03Z | Proyecto de Sistema Clasificador Difuso Interfaz | https://github.com/pdmeta108/ClassFuzz | 0 | 0| 
+| 20210123T20:43:22Z | Epub source for the Standard Ebooks edition of Little Fuzzy, by H. Beam Piper | https://github.com/standardebooks/h-beam-piper_little-fuzzy | 1 | 2| 
+| 20210123T20:34:52Z | Simple FTP fuzzer to demonstrate boofuzz usage. | https://github.com/jtpereyda/boofuzz-ftp | 14 | 6| 
+| 20210123T20:23:45Z | Coding practice for HTML/CSS/anything else web based | https://github.com/FuzzyPumpkin/FuzzyPumpkin.github.io | 5 | 1| 
+| 20210123T20:07:52Z | Personal website of Laurence Hughes | https://github.com/fuzzylogicxx/fuzzylogic | 4 | 1| 
 
 
 
