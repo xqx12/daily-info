@@ -88,6 +88,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210124T13:29:50Z | This custom Fail2Ban filter and jail will deal with all scans for common Wordpress, Joomla and other Web Exploits being scanned for by automated bots and those seeking to find exploitable web sites. | https://github.com/mitchellkrogza/Fail2Ban.WebExploits | 62 | 20| 
 | 20210124T13:28:16Z | Guardiran Exploit Database or GuExDb | https://github.com/msa-dom/exploit-db.ga | 0 | 0| 
 | 20210124T13:25:40Z | YOU CAN LEARN NEW WAY OF HACKING AND VULN EXPLOITATION ...FROM OUR WRITEUPS | https://github.com/shadow-securities/OSCP-PREP-WRITEUPS | 0 | 0| 
 | 20210124T12:49:52Z | macro_pack is a tool by @EmericNasi used to automatize obfuscation and generation of Office documents, VB scripts, shortcuts, and other formats for pentest, demo, and social engineering assessments. The goal of macro_pack is to simplify exploitation, antimalware bypass, and automatize the process from malicious macro and script generation to final document generation. It also provides a lot of helpful features useful for redteam or security research.  | https://github.com/sevagas/macro_pack | 1020 | 254| 
@@ -97,7 +98,6 @@
 | 20210124T09:18:57Z | This tool is great for information gathering and post- exploitation | https://github.com/Cybercrack-bot/Cybercrack | 1 | 0| 
 | 20210124T08:18:27Z | my unfamous exploit that only me and my freinds use with 4 dlls witch you can instantly switch  | https://github.com/AlexFeliow/exploit | 0 | 0| 
 | 20210124T08:04:09Z | Attack and defend active directory using modern post exploitation adversary tradecraft activity | https://github.com/infosecn1nja/AD-Attack-Defense | 2561 | 686| 
-| 20210124T07:47:37Z | random stuff for exploit dev practice | https://github.com/C-Brown/exploit_dev_practice | 0 | 0| 
 
 
 # backdoor on Github 推荐
@@ -118,12 +118,12 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210124T13:30:51Z | Personal website of Laurence Hughes | https://github.com/fuzzylogicxx/fuzzylogic | 4 | 1| 
+| 20210124T13:19:23Z | The Book %Generating Software Tests% | https://github.com/uds-se/fuzzingbook | 521 | 102| 
 | 20210124T13:02:32Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 29519 | 14878| 
-| 20210124T11:33:26Z | The Book %Generating Software Tests% | https://github.com/uds-se/fuzzingbook | 521 | 102| 
 | 20210124T11:26:30Z | following through gamozo%s FuzzOS implementation | https://github.com/danbrodsky/following-fuzzos | 0 | 0| 
 | 20210124T10:25:15Z | FormatFuzzer is a framework for high-efficiency, high-quality generation and parsing of binary inputs. | https://github.com/uds-se/FormatFuzzer | 115 | 12| 
 | 20210124T10:08:35Z | Null | https://github.com/AwesomeCool7865/fuzzy-octo-couscous | 0 | 0| 
-| 20210124T10:00:14Z | Personal website of Laurence Hughes | https://github.com/fuzzylogicxx/fuzzylogic | 4 | 1| 
 | 20210124T09:17:53Z | go-fuzz corpuses for my Go projects | https://github.com/markkurossi/go-fuzz-corpuses | 0 | 0| 
 | 20210124T09:00:43Z | Null | https://github.com/azaka/fuzzy-chainsaw | 0 | 0| 
 | 20210124T08:45:55Z | Null | https://github.com/HsuHsia/HsuHsia-FuzzyC-MeansWithFairnessConstraint | 0 | 0| 
