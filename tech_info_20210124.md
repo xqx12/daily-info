@@ -18,7 +18,7 @@
 | --- | --- | --- | --- | ---| 
 | 20210124T10:20:40Z | CVE-2021-3129 | Laravel debug rce | https://github.com/SNCKER/CVE-2021-3129 | Ignition before 2.5.2, as used in Laravel and other products, allows unauthenticated remote attackers to execute arbitrary code because of insecure usage of file_get_contents() and file_put_contents(). This is exploitable on sites using debug mode with Laravel before 8.4.2.| 
 | 20210124T09:28:10Z | CVE-2020-11851 | Remote Code Execution vulnerability on ArcSight Logger | https://github.com/ch1nghz/CVE-2020-11851 | Arbitrary code execution vulnerability on Micro Focus ArcSight Logger product, affecting all version prior to 7.1.1. The vulnerability could be remotely exploited resulting in the execution of arbitrary code.| 
-| 20210124T08:15:39Z | CVE-2020-17530 | Null | https://github.com/killmonday/CVE-2020-17530-s2-061 | | 
+| 20210124T08:15:39Z | CVE-2020-17530 | Null | https://github.com/killmonday/CVE-2020-17530-s2-061 | Forced OGNL evaluation, when evaluated on raw user input in tag attributes, may lead to remote code execution. Affected software : Apache Struts 2.0.0 - Struts 2.5.25.| 
 
 
 # klee on Github 推荐
@@ -66,7 +66,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210124T13:30:51Z | Personal website of Laurence Hughes | https://github.com/fuzzylogicxx/fuzzylogic | 4 | 1| 
+| 20210124T13:35:05Z | Personal website of Laurence Hughes | https://github.com/fuzzylogicxx/fuzzylogic | 4 | 1| 
 | 20210124T13:19:23Z | The Book %Generating Software Tests% | https://github.com/uds-se/fuzzingbook | 521 | 102| 
 | 20210124T13:02:32Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 29519 | 14878| 
 | 20210124T11:26:30Z | following through gamozo%s FuzzOS implementation | https://github.com/danbrodsky/following-fuzzos | 0 | 0| 
