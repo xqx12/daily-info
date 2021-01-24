@@ -88,6 +88,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210124T13:25:40Z | YOU CAN LEARN NEW WAY OF HACKING AND VULN EXPLOITATION ...FROM OUR WRITEUPS | https://github.com/shadow-securities/OSCP-PREP-WRITEUPS | 0 | 0| 
 | 20210124T13:22:24Z | Guardiran Exploit Database or GuExDb | https://github.com/msa-dom/exploit-db.ga | 0 | 0| 
 | 20210124T12:49:52Z | macro_pack is a tool by @EmericNasi used to automatize obfuscation and generation of Office documents, VB scripts, shortcuts, and other formats for pentest, demo, and social engineering assessments. The goal of macro_pack is to simplify exploitation, antimalware bypass, and automatize the process from malicious macro and script generation to final document generation. It also provides a lot of helpful features useful for redteam or security research.  | https://github.com/sevagas/macro_pack | 1020 | 254| 
 | 20210124T11:35:13Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 8923 | 1426| 
@@ -97,7 +98,6 @@
 | 20210124T08:18:27Z | my unfamous exploit that only me and my freinds use with 4 dlls witch you can instantly switch  | https://github.com/AlexFeliow/exploit | 0 | 0| 
 | 20210124T08:04:09Z | Attack and defend active directory using modern post exploitation adversary tradecraft activity | https://github.com/infosecn1nja/AD-Attack-Defense | 2561 | 686| 
 | 20210124T07:47:37Z | random stuff for exploit dev practice | https://github.com/C-Brown/exploit_dev_practice | 0 | 0| 
-| 20210124T07:30:03Z | Text multi-class classification project exploiting different techniques for vector representation of text. | https://github.com/paoloitaliani/Text-Classification | 0 | 0| 
 
 
 # backdoor on Github 推荐
