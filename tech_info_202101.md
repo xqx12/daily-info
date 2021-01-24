@@ -46,22 +46,22 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20210123T13:02:35Z | CVE-2021-3129 | Laravel debug rce | https://github.com/SNCKER/CVE-2021-3129 | Ignition before 2.5.2, as used in Laravel and other products, allows unauthenticated remote attackers to execute arbitrary code because of insecure usage of file_get_contents() and file_put_contents(). This is exploitable on sites using debug mode with Laravel before 8.4.2.| 
+| 20210123T23:32:02Z | CVE-2021-3129 | Laravel debug rce | https://github.com/SNCKER/CVE-2021-3129 | Ignition before 2.5.2, as used in Laravel and other products, allows unauthenticated remote attackers to execute arbitrary code because of insecure usage of file_get_contents() and file_put_contents(). This is exploitable on sites using debug mode with Laravel before 8.4.2.| 
+| 20210123T18:34:06Z | cve-2020-10977 | GitLab 12.9 Arbitrary File Read | https://github.com/VoxelNaut/cve-2020-10977 | 未查询到CVE信息| 
 | 20210123T02:36:06Z | CVE-2021-2109 | CVE-2021-2109 && Weblogic Server RCE via JNDI | https://github.com/Al1ex/CVE-2021-2109 | Vulnerability in the Oracle WebLogic Server product of Oracle Fusion Middleware (component: Console). Supported versions that are affected are 10.3.6.0.0, 12.1.3.0.0, 12.2.1.3.0, 12.2.1.4.0 and 14.1.1.0.0. Easily exploitable vulnerability allows high privileged attacker with network access via HTTP to compromise Oracle WebLogic Server. Successful attacks of this vulnerability can result in takeover of Oracle WebLogic Server. CVSS 3.1 Base Score 7.2 (Confidentiality, Integrity and Availability impacts). CVSS Vector: (CVSS:3.1/AV:N/AC:L/PR:H/UI:N/S:U/C:H/I:H/A:H).| 
 | 20210122T16:29:39Z | CVE-2020-8554 | Null | https://github.com/Dviejopomata/CVE-2020-8554 | Kubernetes API server in all versions allow an attacker who is able to create a ClusterIP service and set the spec.externalIPs field, to intercept traffic to that IP address. Additionally, an attacker who is able to patch the status (which is considered a privileged operation and should not typically be granted to users) of a LoadBalancer service can set the status.loadBalancer.ingress.ip to similar effect.| 
 | 20210122T10:56:30Z | CVE-2021-2109 | Null | https://github.com/rabbitsafe/CVE-2021-2109 | Vulnerability in the Oracle WebLogic Server product of Oracle Fusion Middleware (component: Console). Supported versions that are affected are 10.3.6.0.0, 12.1.3.0.0, 12.2.1.3.0, 12.2.1.4.0 and 14.1.1.0.0. Easily exploitable vulnerability allows high privileged attacker with network access via HTTP to compromise Oracle WebLogic Server. Successful attacks of this vulnerability can result in takeover of Oracle WebLogic Server. CVSS 3.1 Base Score 7.2 (Confidentiality, Integrity and Availability impacts). CVSS Vector: (CVSS:3.1/AV:N/AC:L/PR:H/UI:N/S:U/C:H/I:H/A:H).| 
 | 20210122T09:56:32Z | CVE-2020-26217 | CVE-2020-26217 && XStream RCE | https://github.com/Al1ex/CVE-2020-26217 | XStream before version 1.4.14 is vulnerable to Remote Code Execution.The vulnerability may allow a remote attacker to run arbitrary shell commands only by manipulating the processed input stream. Only users who rely on blocklists are affected. Anyone using XStream%s Security Framework allowlist is not affected. The linked advisory provides code workarounds for users who cannot upgrade. The issue is fixed in version 1.4.14.| 
 | 20210122T09:23:56Z | CVE-2020-26259 | CVE-2020-26259 &&XStream Arbitrary File Delete | https://github.com/Al1ex/CVE-2020-26259 | XStream is a Java library to serialize objects to XML and back again. In XStream before version 1.4.15, is vulnerable to an Arbitrary File Deletion on the local host when unmarshalling. The vulnerability may allow a remote attacker to delete arbitrary know files on the host as log as the executing process has sufficient rights only by manipulating the processed input stream. If you rely on XStream%s default blacklist of the Security Framework, you will have to use at least version 1.4.15. The reported vulnerability does not exist running Java 15 or higher. No user is affected, who followed the recommendation to setup XStream%s Security Framework with a whitelist! Anyone relying on XStream%s default blacklist can immediately switch to a whilelist for the allowed types to avoid the vulnerability. Users of XStream 1.4.14 or below who still want to use XStream default blacklist can use a workaround described in more detailed in the referenced advisories.| 
-| 20210122T08:51:39Z | 未知编号 | 2020l4web-campaign-DanCvejn created by GitHub Classroom | https://github.com/pslib-cz/2020l4web-campaign-DanCvejn | 未查询到CVE信息| 
+| 20210122T08:51:39Z | 未知编号 | 2020l4web-campaign-DanCvejn created by GitHub Classroom | https://github.com/pslib-cz/2020l4web-campaign-DanCvejn | | 
 | 20210122T08:45:00Z | CVE-2020-26258 | CVE-2020-26258 && XStream SSRF | https://github.com/Al1ex/CVE-2020-26258 | XStream is a Java library to serialize objects to XML and back again. In XStream before version 1.4.15, a Server-Side Forgery Request vulnerability can be activated when unmarshalling. The vulnerability may allow a remote attacker to request data from internal resources that are not publicly available only by manipulating the processed input stream. If you rely on XStream%s default blacklist of the Security Framework, you will have to use at least version 1.4.15. The reported vulnerability does not exist if running Java 15 or higher. No user is affected who followed the recommendation to setup XStream%s Security Framework with a whitelist! Anyone relying on XStream%s default blacklist can immediately switch to a whilelist for the allowed types to avoid the vulnerability. Users of XStream 1.4.14 or below who still want to use XStream default blacklist can use a workaround described in more detailed in the referenced advisories.| 
 | 20210122T08:18:45Z | CVE-2020-13937 | Apache Kylin API Unauthorized Access | https://github.com/Al1ex/CVE-2020-13937 | Apache Kylin 2.0.0, 2.1.0, 2.2.0, 2.3.0, 2.3.1, 2.3.2, 2.4.0, 2.4.1, 2.5.0, 2.5.1, 2.5.2, 2.6.0, 2.6.1, 2.6.2, 2.6.3, 2.6.4, 2.6.5, 2.6.6, 3.0.0-alpha, 3.0.0-alpha2, 3.0.0-beta, 3.0.0, 3.0.1, 3.0.2, 3.1.0, 4.0.0-alpha has one restful api which exposed Kylin%s configuration information without any authentication, so it is dangerous because some confidential information entries will be disclosed to everyone.| 
-| 20210122T06:33:51Z | 未知编号 | Null | https://github.com/zeromirror/cve_2020-11060 | 未查询到CVE信息| 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210123T12:57:19Z | Null | https://github.com/fontworks-fonts/Klee | 321 | 9| 
+| 20210123T17:34:36Z | Null | https://github.com/fontworks-fonts/Klee | 322 | 9| 
 | 20210123T12:25:22Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1603 | 477| 
 | 20210123T10:45:43Z | Kwik n Kleen  | https://github.com/SailekshmiP/Kwik-n-Kleen- | 0 | 0| 
 | 20210123T07:12:38Z | Null | https://github.com/balabeltmimi/kleeandtheirfriendsbutton | 0 | 0| 
@@ -76,43 +76,43 @@
 # s2e on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210120T03:51:20Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 93 | 22| 
+| 20210123T17:34:55Z | Null | https://github.com/yuvalkirstain/s2e-coref | 0 | 0| 
+| 20210123T15:52:12Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 94 | 22| 
 | 20210118T16:24:13Z | Null | https://github.com/sabasabzeh/s2Exercise | 0 | 0| 
 | 20210111T14:49:47Z | Convert geojson to s2 region cells in different levels | https://github.com/ponlawat-w/uji_mt-s2encoding | 0 | 0| 
 | 20210108T20:19:44Z | Robo Hazel is a robot prototype made using Arduino and WIZnet S2E module to advance industry 4.0 and solve the problem of message delivery. | https://github.com/hamzakhalidhk/RoboHazel | 0 | 0| 
 | 20210108T15:14:31Z | Convert geojson to s2 region cells in different levels | https://github.com/ponlawat-w/uji_mt-geojson_s2encoding | 0 | 0| 
-| 20210107T16:32:22Z | Null | https://github.com/yuvalkirstain/s2e-coref | 0 | 0| 
 | 20210106T02:55:41Z | GUI Configuration tool for WIZnet serial to ethernet devices. | https://github.com/Wiznet/WIZnet-S2E-Tool-GUI | 11 | 7| 
 
 
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210123T13:45:10Z | ASLR Evasion, Egghunters, SEH Overwrites | https://github.com/freddiebarrsmith/Advanced-Windows-Exploit-Development-Practice | 9 | 1| 
-| 20210123T13:40:58Z | checks if the host is vulnerable to cors and uses an html exploit to be able to exploit the vulnerability | https://github.com/MoBphp/Cors | 0 | 0| 
-| 20210123T13:33:13Z | ELF 32-bit Reversing | https://github.com/RobertJonnyTiger/Reverse-and-Exploit-Development | 0 | 0| 
-| 20210123T13:24:41Z | Just a temporary website to post my ctf writeups and journey into binary exploitation/malware analysis/exploit development | https://github.com/blackbeard666/blackbeard666.github.io | 0 | 0| 
-| 20210123T13:16:41Z | every roblox exploit/script made by me | https://github.com/itsrucky/exploits | 0 | 0| 
-| 20210123T13:05:05Z | CDK is an open-sourced container penetration toolkit, offering stable exploitation in different slimmed containers without any OS dependency. It comes with penetration tools and many powerful PoCs/EXPs helps you to escape container and takeover K8s cluster easily. | https://github.com/cdk-team/CDK | 421 | 69| 
-| 20210123T12:51:10Z | This bash script will help you to hack remote hosts  | https://github.com/FabioDefilippo/linuxallremote | 4 | 1| 
-| 20210123T12:49:49Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 7 | 4| 
-| 20210123T12:31:58Z | CSS trick/bug to display a brighter white by exploiting browsers% HDR capability and Apple%s EDR system | https://github.com/kiding/wanna-see-a-whiter-white | 38 | 2| 
-| 20210123T12:07:01Z | Exploit and knowledge about ctf, my own method | https://github.com/RoderickChan/my_own_ctf_box | 0 | 0| 
+| 20210124T00:09:58Z | This bash script will help you to hack remote hosts  | https://github.com/FabioDefilippo/linuxallremote | 4 | 1| 
+| 20210124T00:05:41Z | Various ASM, C and C++ tools, shellcodes and exploit experiments. | https://github.com/forrest-orr/ExploitDev | 32 | 2| 
+| 20210123T23:48:12Z | Parses Nessus .nessus files for exploitable vulnerabilities and outputs a report file in format MM-DD-YYYY-nessus.csv | https://github.com/sdcampbell/nessus-exploitable | 5 | 1| 
+| 20210123T21:34:10Z | A server/client tool to exploit windows system. | https://github.com/spectertraww/winsploit | 3 | 1| 
+| 20210123T21:31:29Z | Exploration-Exploitation using MAB | https://github.com/aegoe/MAB | 0 | 1| 
+| 20210123T21:23:41Z | Null | https://github.com/briankanya/exploits | 0 | 0| 
+| 20210123T21:09:06Z | fix exploits on anarchy server | https://github.com/moom0o/AnarchyExploitFixes | 9 | 4| 
+| 20210123T20:35:13Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 8923 | 1425| 
+| 20210123T20:33:12Z | GEF - GDB Enhanced Features for exploit devs & reversers | https://github.com/hugsy/gef | 3379 | 485| 
+| 20210123T20:11:49Z | Xiongmai Exploitation Toolkit | https://github.com/redcodefinal/xet | 3 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210123T20:18:37Z | A Kotlin program used to analyse and discover backdoors in Minecraft Java 1.12.2 forge mods | https://github.com/Tigermouthbear/Theia | 61 | 8| 
+| 20210123T19:38:17Z | Tool to backdoor binaries compiled by gcc/g++ by hijacking their temporary files | https://github.com/hstocks/gcchijack | 1 | 0| 
+| 20210123T18:14:06Z | Generate php code for reverse shell backdoor | https://github.com/Ajaytekam/rshell | 1 | 0| 
+| 20210123T16:51:56Z | Null | https://github.com/EjHvorSerDuVildUdJim/backdoor | 0 | 0| 
+| 20210123T16:36:18Z | Null | https://github.com/sanketghanmare/backdoor | 0 | 0| 
+| 20210123T16:07:49Z | Null | https://github.com/ph-luffy/Backdoor | 0 | 0| 
 | 20210123T13:41:32Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 154 | 22| 
 | 20210123T12:29:11Z | This is just for me ok! | https://github.com/GetRektBoy724/sementara | 1 | 0| 
 | 20210123T10:29:49Z | access to target folders/files/and ... with python program | https://github.com/m0h0n/backdoor | 1 | 0| 
 | 20210123T10:09:40Z | Null | https://github.com/chenyanjiao-zju/Defense-Resistant-Backdoor | 0 | 0| 
-| 20210123T08:42:20Z | Minified Backdoor scripts for PHP web app | https://github.com/shariarislam/MinifiedBackdoor | 0 | 0| 
-| 20210123T08:26:53Z | Null | https://github.com/4wl/me-Backdoor | 0 | 0| 
-| 20210123T08:22:52Z | Null | https://github.com/4wl/meBackdoor | 0 | 0| 
-| 20210123T06:56:54Z | Backdoor Open Source | https://github.com/kadzicuh/BackDoor | 0 | 0| 
-| 20210123T04:57:03Z | Null | https://github.com/AmanSangwan127306/computer-backdoor-in-python | 0 | 0| 
-| 20210123T02:50:36Z | Around a month ago, a piece of malware surfaced. This malware is worse then the Phobos backdoor and can steal a ton of private info. This is the unobf source code of the client. | https://github.com/YeahOMA/forge-injection-malware | 0 | 0| 
 
 
 # fuzz on Github 推荐
