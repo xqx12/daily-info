@@ -41,6 +41,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210124T13:46:14Z | Just a temporary website to post my ctf writeups and journey into binary exploitation/malware analysis/exploit development | https://github.com/blackbeard666/blackbeard666.github.io | 0 | 0| 
 | 20210124T13:36:27Z | Guardiran Exploit Database or GuExDb | https://github.com/msa-dom/exploit-db.ga | 0 | 0| 
 | 20210124T13:29:50Z | This custom Fail2Ban filter and jail will deal with all scans for common Wordpress, Joomla and other Web Exploits being scanned for by automated bots and those seeking to find exploitable web sites. | https://github.com/mitchellkrogza/Fail2Ban.WebExploits | 62 | 20| 
 | 20210124T13:25:40Z | YOU CAN LEARN NEW WAY OF HACKING AND VULN EXPLOITATION ...FROM OUR WRITEUPS | https://github.com/shadow-securities/OSCP-PREP-WRITEUPS | 0 | 0| 
@@ -50,7 +51,6 @@
 | 20210124T09:28:01Z | Code for our WRR paper %Toward Improved Predictions in Ungauged Basins: Exploiting the Power of Machine Learning% | https://github.com/kratzert/lstm_for_pub | 9 | 11| 
 | 20210124T09:18:57Z | This tool is great for information gathering and post- exploitation | https://github.com/Cybercrack-bot/Cybercrack | 1 | 0| 
 | 20210124T08:18:27Z | my unfamous exploit that only me and my freinds use with 4 dlls witch you can instantly switch  | https://github.com/AlexFeliow/exploit | 0 | 0| 
-| 20210124T08:04:09Z | Attack and defend active directory using modern post exploitation adversary tradecraft activity | https://github.com/infosecn1nja/AD-Attack-Defense | 2561 | 686| 
 
 
 # backdoor on Github 推荐
