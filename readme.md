@@ -41,6 +41,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210124T13:56:14Z | Exploration-Exploitation using MAB | https://github.com/aegoe/MAB | 0 | 1| 
 | 20210124T13:55:33Z | forked version of funtuna, a homebrew ps2 app launcher designed to ease the pain of getting a stable exploit for those that have a console uncompatible with FreeMcBoot that doesnt have a modchip | https://github.com/israpps/Funtuna-Fork | 0 | 0| 
 | 20210124T13:48:36Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 8924 | 1426| 
 | 20210124T13:46:14Z | Just a temporary website to post my ctf writeups and journey into binary exploitation/malware analysis/exploit development | https://github.com/blackbeard666/blackbeard666.github.io | 0 | 0| 
@@ -50,7 +51,6 @@
 | 20210124T12:49:52Z | macro_pack is a tool by @EmericNasi used to automatize obfuscation and generation of Office documents, VB scripts, shortcuts, and other formats for pentest, demo, and social engineering assessments. The goal of macro_pack is to simplify exploitation, antimalware bypass, and automatize the process from malicious macro and script generation to final document generation. It also provides a lot of helpful features useful for redteam or security research.  | https://github.com/sevagas/macro_pack | 1020 | 254| 
 | 20210124T11:05:05Z | CDK is an open-sourced container penetration toolkit, offering stable exploitation in different slimmed containers without any OS dependency. It comes with penetration tools and many powerful PoCs/EXPs helps you to escape container and takeover K8s cluster easily. | https://github.com/cdk-team/CDK | 432 | 72| 
 | 20210124T09:28:01Z | Code for our WRR paper %Toward Improved Predictions in Ungauged Basins: Exploiting the Power of Machine Learning% | https://github.com/kratzert/lstm_for_pub | 9 | 11| 
-| 20210124T09:18:57Z | This tool is great for information gathering and post- exploitation | https://github.com/Cybercrack-bot/Cybercrack | 1 | 0| 
 
 
 # backdoor on Github 推荐
