@@ -46,31 +46,31 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20210123T23:32:02Z | CVE-2021-3129 | Laravel debug rce | https://github.com/SNCKER/CVE-2021-3129 | Ignition before 2.5.2, as used in Laravel and other products, allows unauthenticated remote attackers to execute arbitrary code because of insecure usage of file_get_contents() and file_put_contents(). This is exploitable on sites using debug mode with Laravel before 8.4.2.| 
+| 20210124T10:20:40Z | CVE-2021-3129 | Laravel debug rce | https://github.com/SNCKER/CVE-2021-3129 | Ignition before 2.5.2, as used in Laravel and other products, allows unauthenticated remote attackers to execute arbitrary code because of insecure usage of file_get_contents() and file_put_contents(). This is exploitable on sites using debug mode with Laravel before 8.4.2.| 
+| 20210124T09:28:10Z | CVE-2020-11851 | Remote Code Execution vulnerability on ArcSight Logger | https://github.com/ch1nghz/CVE-2020-11851 | Arbitrary code execution vulnerability on Micro Focus ArcSight Logger product, affecting all version prior to 7.1.1. The vulnerability could be remotely exploited resulting in the execution of arbitrary code.| 
+| 20210124T08:15:39Z | CVE-2020-17530 | Null | https://github.com/killmonday/CVE-2020-17530-s2-061 | Forced OGNL evaluation, when evaluated on raw user input in tag attributes, may lead to remote code execution. Affected software : Apache Struts 2.0.0 - Struts 2.5.25.| 
 | 20210123T18:34:06Z | cve-2020-10977 | GitLab 12.9 Arbitrary File Read | https://github.com/VoxelNaut/cve-2020-10977 | 未查询到CVE信息| 
 | 20210123T02:36:06Z | CVE-2021-2109 | CVE-2021-2109 && Weblogic Server RCE via JNDI | https://github.com/Al1ex/CVE-2021-2109 | Vulnerability in the Oracle WebLogic Server product of Oracle Fusion Middleware (component: Console). Supported versions that are affected are 10.3.6.0.0, 12.1.3.0.0, 12.2.1.3.0, 12.2.1.4.0 and 14.1.1.0.0. Easily exploitable vulnerability allows high privileged attacker with network access via HTTP to compromise Oracle WebLogic Server. Successful attacks of this vulnerability can result in takeover of Oracle WebLogic Server. CVSS 3.1 Base Score 7.2 (Confidentiality, Integrity and Availability impacts). CVSS Vector: (CVSS:3.1/AV:N/AC:L/PR:H/UI:N/S:U/C:H/I:H/A:H).| 
 | 20210122T16:29:39Z | CVE-2020-8554 | Null | https://github.com/Dviejopomata/CVE-2020-8554 | Kubernetes API server in all versions allow an attacker who is able to create a ClusterIP service and set the spec.externalIPs field, to intercept traffic to that IP address. Additionally, an attacker who is able to patch the status (which is considered a privileged operation and should not typically be granted to users) of a LoadBalancer service can set the status.loadBalancer.ingress.ip to similar effect.| 
-| 20210122T10:56:30Z | CVE-2021-2109 | Null | https://github.com/rabbitsafe/CVE-2021-2109 | | 
+| 20210122T10:56:30Z | CVE-2021-2109 | Null | https://github.com/rabbitsafe/CVE-2021-2109 | Vulnerability in the Oracle WebLogic Server product of Oracle Fusion Middleware (component: Console). Supported versions that are affected are 10.3.6.0.0, 12.1.3.0.0, 12.2.1.3.0, 12.2.1.4.0 and 14.1.1.0.0. Easily exploitable vulnerability allows high privileged attacker with network access via HTTP to compromise Oracle WebLogic Server. Successful attacks of this vulnerability can result in takeover of Oracle WebLogic Server. CVSS 3.1 Base Score 7.2 (Confidentiality, Integrity and Availability impacts). CVSS Vector: (CVSS:3.1/AV:N/AC:L/PR:H/UI:N/S:U/C:H/I:H/A:H).| 
 | 20210122T09:56:32Z | CVE-2020-26217 | CVE-2020-26217 && XStream RCE | https://github.com/Al1ex/CVE-2020-26217 | XStream before version 1.4.14 is vulnerable to Remote Code Execution.The vulnerability may allow a remote attacker to run arbitrary shell commands only by manipulating the processed input stream. Only users who rely on blocklists are affected. Anyone using XStream%s Security Framework allowlist is not affected. The linked advisory provides code workarounds for users who cannot upgrade. The issue is fixed in version 1.4.14.| 
 | 20210122T09:23:56Z | CVE-2020-26259 | CVE-2020-26259 &&XStream Arbitrary File Delete | https://github.com/Al1ex/CVE-2020-26259 | XStream is a Java library to serialize objects to XML and back again. In XStream before version 1.4.15, is vulnerable to an Arbitrary File Deletion on the local host when unmarshalling. The vulnerability may allow a remote attacker to delete arbitrary know files on the host as log as the executing process has sufficient rights only by manipulating the processed input stream. If you rely on XStream%s default blacklist of the Security Framework, you will have to use at least version 1.4.15. The reported vulnerability does not exist running Java 15 or higher. No user is affected, who followed the recommendation to setup XStream%s Security Framework with a whitelist! Anyone relying on XStream%s default blacklist can immediately switch to a whilelist for the allowed types to avoid the vulnerability. Users of XStream 1.4.14 or below who still want to use XStream default blacklist can use a workaround described in more detailed in the referenced advisories.| 
 | 20210122T08:51:39Z | 未知编号 | 2020l4web-campaign-DanCvejn created by GitHub Classroom | https://github.com/pslib-cz/2020l4web-campaign-DanCvejn | 未查询到CVE信息| 
-| 20210122T08:45:00Z | CVE-2020-26258 | CVE-2020-26258 && XStream SSRF | https://github.com/Al1ex/CVE-2020-26258 | XStream is a Java library to serialize objects to XML and back again. In XStream before version 1.4.15, a Server-Side Forgery Request vulnerability can be activated when unmarshalling. The vulnerability may allow a remote attacker to request data from internal resources that are not publicly available only by manipulating the processed input stream. If you rely on XStream%s default blacklist of the Security Framework, you will have to use at least version 1.4.15. The reported vulnerability does not exist if running Java 15 or higher. No user is affected who followed the recommendation to setup XStream%s Security Framework with a whitelist! Anyone relying on XStream%s default blacklist can immediately switch to a whilelist for the allowed types to avoid the vulnerability. Users of XStream 1.4.14 or below who still want to use XStream default blacklist can use a workaround described in more detailed in the referenced advisories.| 
-| 20210122T08:18:45Z | CVE-2020-13937 | Apache Kylin API Unauthorized Access | https://github.com/Al1ex/CVE-2020-13937 | Apache Kylin 2.0.0, 2.1.0, 2.2.0, 2.3.0, 2.3.1, 2.3.2, 2.4.0, 2.4.1, 2.5.0, 2.5.1, 2.5.2, 2.6.0, 2.6.1, 2.6.2, 2.6.3, 2.6.4, 2.6.5, 2.6.6, 3.0.0-alpha, 3.0.0-alpha2, 3.0.0-beta, 3.0.0, 3.0.1, 3.0.2, 3.1.0, 4.0.0-alpha has one restful api which exposed Kylin%s configuration information without any authentication, so it is dangerous because some confidential information entries will be disclosed to everyone.| 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210123T17:34:36Z | Null | https://github.com/fontworks-fonts/Klee | 322 | 9| 
+| 20210124T10:59:22Z | Null | https://github.com/fontworks-fonts/Klee | 327 | 8| 
+| 20210124T10:23:29Z | Null | https://github.com/kleelab/kleelab.github.io | 0 | 0| 
+| 20210124T10:20:10Z | PROYECTO FINAL | https://github.com/OscarZavaleta23/KLEE-Symbolic-Execution-Engine- | 0 | 0| 
+| 20210124T10:15:50Z | Proyecto final de la materia Lenguajes y Autómatas (COMPILADORES) | https://github.com/Llovas7/Symbolic-Virtual-Machine-Klee | 1 | 0| 
+| 20210124T10:13:50Z | https://drive.google.com/file/d/1AeQOD62-VNszgIps0Hg4UinKkgOR52AW/view?usp=drivesdk | https://github.com/Daniel-28lv/klee | 0 | 0| 
+| 20210124T10:12:17Z | This is a project already done, in this repository you%ll find some examples and explanations about klee | https://github.com/Zero291/Klee---Simbolic-Virtual-Machine | 0 | 0| 
 | 20210123T12:25:22Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1603 | 477| 
 | 20210123T10:45:43Z | Kwik n Kleen  | https://github.com/SailekshmiP/Kwik-n-Kleen- | 0 | 0| 
 | 20210123T07:12:38Z | Null | https://github.com/balabeltmimi/kleeandtheirfriendsbutton | 0 | 0| 
 | 20210122T20:24:35Z | Null | https://github.com/davidtr1037/klee-aaqc | 1 | 0| 
-| 20210121T19:27:06Z | A very fun and useful bot containing many features.  | https://github.com/quantix-dev/Kleebot | 1 | 0| 
-| 20210121T11:58:03Z | RVT is a collection of tools/libraries to support both static and dynamic verification of Rust programs. | https://github.com/project-oak/rust-verification-tools | 102 | 6| 
-| 20210120T07:28:49Z | An opinionated CSS framework - Jan 2021 | https://github.com/logic-fabric/klee | 0 | 0| 
-| 20210120T03:26:41Z | Create CFGs and compute complexity metrics for Python, C++, and Java code. | https://github.com/hmc-alpaqa/metrinome | 5 | 0| 
-| 20210119T02:32:39Z | Null | https://github.com/Llovas7/Prueba-Klee | 0 | 0| 
 
 
 # s2e on Github 推荐
@@ -103,31 +103,31 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210124T12:32:00Z | Null | https://github.com/rabbitx1337/backdoor | 0 | 0| 
+| 20210124T12:02:21Z | Hides the sethc.exe backdoor by faking the original window. | https://github.com/PGgamer2/sethc-backdoor-hider | 1 | 3| 
+| 20210124T09:25:54Z | A backdoor that runs on Linux and Windows | https://github.com/EiSiMo/Backdoor | 13 | 7| 
+| 20210124T09:01:19Z | A program to demonstrate the hdl access ! | https://github.com/rag1404/uvm_hdl_backdoor_access | 0 | 0| 
+| 20210124T03:30:29Z | Null | https://github.com/chenyanjiao-zju/Distributed-Backdoor | 0 | 0| 
 | 20210123T20:18:37Z | A Kotlin program used to analyse and discover backdoors in Minecraft Java 1.12.2 forge mods | https://github.com/Tigermouthbear/Theia | 61 | 8| 
 | 20210123T19:38:17Z | Tool to backdoor binaries compiled by gcc/g++ by hijacking their temporary files | https://github.com/hstocks/gcchijack | 1 | 0| 
 | 20210123T18:14:06Z | Generate php code for reverse shell backdoor | https://github.com/Ajaytekam/rshell | 1 | 0| 
 | 20210123T16:51:56Z | Null | https://github.com/EjHvorSerDuVildUdJim/backdoor | 0 | 0| 
 | 20210123T16:36:18Z | Null | https://github.com/sanketghanmare/backdoor | 0 | 0| 
-| 20210123T16:07:49Z | Null | https://github.com/ph-luffy/Backdoor | 0 | 0| 
-| 20210123T13:41:32Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 154 | 22| 
-| 20210123T12:29:11Z | This is just for me ok! | https://github.com/GetRektBoy724/sementara | 1 | 0| 
-| 20210123T10:29:49Z | access to target folders/files/and ... with python program | https://github.com/m0h0n/backdoor | 1 | 0| 
-| 20210123T10:09:40Z | Null | https://github.com/chenyanjiao-zju/Defense-Resistant-Backdoor | 0 | 0| 
 
 
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210124T02:31:28Z | 一些常见字典 | https://github.com/yuanhaiGreg/Fuzz-Dict | 8 | 1| 
-| 20210124T02:08:38Z | Dictionary collection project such as Pentesing, Fuzzing, Bruteforce and BugBounty. 渗透测试、SRC漏洞挖掘、爆破、Fuzzing等字典收集项目。 | https://github.com/insightglacier/Dictionary-Of-Pentesting | 423 | 99| 
-| 20210124T02:06:10Z | Null | https://github.com/XelorR/fuzzy_matcher | 0 | 0| 
-| 20210124T01:33:43Z | An HTTP fuzzer based on dynamics workflows written in YAML | https://github.com/NozakiLabs/nzkflow | 4 | 0| 
-| 20210124T01:31:00Z | To make fuzzing Rust easy | https://github.com/smoelius/test-fuzz | 0 | 0| 
-| 20210124T01:12:49Z | Null | https://github.com/vasumv/bonsai-fuzzing | 0 | 0| 
-| 20210123T23:39:00Z | Null | https://github.com/django/django-fuzzers | 1 | 0| 
-| 20210123T22:56:20Z | A fork and successor of the Sulley Fuzzing Framework | https://github.com/jtpereyda/boofuzz | 1140 | 232| 
-| 20210123T22:17:29Z | Null | https://github.com/ekivolowitz/FuzzyMan | 0 | 0| 
-| 20210123T22:04:20Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 5811 | 1165| 
+| 20210124T12:41:44Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 29518 | 14877| 
+| 20210124T11:33:26Z | The Book %Generating Software Tests% | https://github.com/uds-se/fuzzingbook | 521 | 102| 
+| 20210124T11:26:30Z | following through gamozo%s FuzzOS implementation | https://github.com/danbrodsky/following-fuzzos | 0 | 0| 
+| 20210124T10:25:15Z | FormatFuzzer is a framework for high-efficiency, high-quality generation and parsing of binary inputs. | https://github.com/uds-se/FormatFuzzer | 115 | 12| 
+| 20210124T10:08:35Z | Null | https://github.com/AwesomeCool7865/fuzzy-octo-couscous | 0 | 0| 
+| 20210124T10:00:14Z | Personal website of Laurence Hughes | https://github.com/fuzzylogicxx/fuzzylogic | 4 | 1| 
+| 20210124T09:17:53Z | go-fuzz corpuses for my Go projects | https://github.com/markkurossi/go-fuzz-corpuses | 0 | 0| 
+| 20210124T09:00:43Z | Null | https://github.com/azaka/fuzzy-chainsaw | 0 | 0| 
+| 20210124T08:45:55Z | Null | https://github.com/HsuHsia/HsuHsia-FuzzyC-MeansWithFairnessConstraint | 0 | 0| 
+| 20210124T08:14:03Z | An HTTP fuzzer based on dynamics workflows written in YAML | https://github.com/NozakiLabs/nzkflow | 5 | 0| 
 
 
 
