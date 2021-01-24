@@ -71,7 +71,6 @@
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
 | 20210123T23:39:00Z | Null | https://github.com/django/django-fuzzers | 1 | 0| 
-| 20210123T23:38:03Z | A HTTP fuzzer based on dynamics workflows | https://github.com/NozakiLabs/nzkflow | 4 | 0| 
 | 20210123T22:56:20Z | A fork and successor of the Sulley Fuzzing Framework | https://github.com/jtpereyda/boofuzz | 1140 | 232| 
 | 20210123T22:17:29Z | Null | https://github.com/ekivolowitz/FuzzyMan | 0 | 0| 
 | 20210123T22:04:20Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 5811 | 1165| 
@@ -80,6 +79,7 @@
 | 20210123T20:34:52Z | Simple FTP fuzzer to demonstrate boofuzz usage. | https://github.com/jtpereyda/boofuzz-ftp | 14 | 6| 
 | 20210123T20:23:45Z | Coding practice for HTML/CSS/anything else web based | https://github.com/FuzzyPumpkin/FuzzyPumpkin.github.io | 5 | 1| 
 | 20210123T20:07:52Z | Personal website of Laurence Hughes | https://github.com/fuzzylogicxx/fuzzylogic | 4 | 1| 
+| 20210123T19:58:25Z | Fuzzy TS optimisation based on genetic algorithm | https://github.com/jairpaulino/fuzzy-ts-opt | 0 | 0| 
 
 
 

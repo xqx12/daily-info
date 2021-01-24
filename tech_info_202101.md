@@ -118,16 +118,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210124T00:51:13Z | Null | https://github.com/vasumv/bonsai-fuzzing | 0 | 0| 
+| 20210124T02:31:28Z | 一些常见字典 | https://github.com/yuanhaiGreg/Fuzz-Dict | 8 | 1| 
+| 20210124T02:08:38Z | Dictionary collection project such as Pentesing, Fuzzing, Bruteforce and BugBounty. 渗透测试、SRC漏洞挖掘、爆破、Fuzzing等字典收集项目。 | https://github.com/insightglacier/Dictionary-Of-Pentesting | 423 | 99| 
+| 20210124T02:06:10Z | Null | https://github.com/XelorR/fuzzy_matcher | 0 | 0| 
+| 20210124T01:33:43Z | An HTTP fuzzer based on dynamics workflows written in YAML | https://github.com/NozakiLabs/nzkflow | 4 | 0| 
+| 20210124T01:31:00Z | To make fuzzing Rust easy | https://github.com/smoelius/test-fuzz | 0 | 0| 
+| 20210124T01:12:49Z | Null | https://github.com/vasumv/bonsai-fuzzing | 0 | 0| 
 | 20210123T23:39:00Z | Null | https://github.com/django/django-fuzzers | 1 | 0| 
-| 20210123T23:38:03Z | A HTTP fuzzer based on dynamics workflows | https://github.com/NozakiLabs/nzkflow | 4 | 0| 
 | 20210123T22:56:20Z | A fork and successor of the Sulley Fuzzing Framework | https://github.com/jtpereyda/boofuzz | 1140 | 232| 
 | 20210123T22:17:29Z | Null | https://github.com/ekivolowitz/FuzzyMan | 0 | 0| 
 | 20210123T22:04:20Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 5811 | 1165| 
-| 20210123T21:53:03Z | Proyecto de Sistema Clasificador Difuso Interfaz | https://github.com/pdmeta108/ClassFuzz | 0 | 0| 
-| 20210123T20:43:22Z | Epub source for the Standard Ebooks edition of Little Fuzzy, by H. Beam Piper | https://github.com/standardebooks/h-beam-piper_little-fuzzy | 1 | 2| 
-| 20210123T20:34:52Z | Simple FTP fuzzer to demonstrate boofuzz usage. | https://github.com/jtpereyda/boofuzz-ftp | 14 | 6| 
-| 20210123T20:23:45Z | Coding practice for HTML/CSS/anything else web based | https://github.com/FuzzyPumpkin/FuzzyPumpkin.github.io | 5 | 1| 
 
 
 
