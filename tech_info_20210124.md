@@ -61,7 +61,6 @@
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
 | 20210124T22:59:44Z | this gets rid of yoink/myrh%s shitty backdoor that everyone%s talking about | https://github.com/LilMosquitoDisease/yoink-backdoor-remover | 0 | 0| 
-| 20210124T20:48:09Z | A Kotlin program used to analyse and discover backdoors in Minecraft Java 1.12.2 forge mods | https://github.com/Tigermouthbear/Theia | 65 | 9| 
 | 20210124T18:20:45Z | Null | https://github.com/EjHvorSerDuVildUdJim/backdoor | 0 | 0| 
 | 20210124T17:15:02Z | Null | https://github.com/mikkelskov1/backdoor2 | 0 | 0| 
 | 20210124T16:15:32Z | Null | https://github.com/Kris796u/backdoor | 0 | 0| 
@@ -70,6 +69,7 @@
 | 20210124T12:02:21Z | Hides the sethc.exe backdoor by faking the original window. | https://github.com/PGgamer2/sethc-backdoor-hider | 1 | 3| 
 | 20210124T09:25:54Z | A backdoor that runs on Linux and Windows | https://github.com/EiSiMo/Backdoor | 13 | 7| 
 | 20210124T09:01:19Z | A program to demonstrate the hdl access ! | https://github.com/rag1404/uvm_hdl_backdoor_access | 0 | 0| 
+| 20210124T03:30:29Z | Null | https://github.com/chenyanjiao-zju/Distributed-Backdoor | 0 | 0| 
 
 
 # fuzz on Github 推荐
