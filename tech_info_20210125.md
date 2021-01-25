@@ -69,7 +69,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210125T13:41:01Z | This is a quick easy python backdoor  | https://github.com/konzebj/Python-Backdoor- | 0 | 0| 
+| 20210125T13:48:40Z | This is a quick easy python backdoor  | https://github.com/konzebj/Python-Backdoor- | 1 | 0| 
 | 20210125T13:40:47Z | A sethc backdoor based by golang | https://github.com/Maka8ka/ShiftGoor | 0 | 0| 
 | 20210125T13:38:31Z | Null | https://github.com/LowE88/https-github.com-dana-at-cp-backdoor-apk | 0 | 0| 
 | 20210125T12:28:04Z | Null | https://github.com/rabbitx1337/backdoor | 0 | 0| 
