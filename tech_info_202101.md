@@ -105,6 +105,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210125T13:06:50Z | This is a quick easy python backdoor  | https://github.com/konzebj/Python-Backdoor- | 0 | 0| 
 | 20210125T12:28:04Z | Null | https://github.com/rabbitx1337/backdoor | 0 | 0| 
 | 20210125T09:47:31Z | Exploit / Backdoor patcher / preventer for gmod.  | https://github.com/xM-1/ExPatch | 0 | 0| 
 | 20210125T07:23:36Z | Hides the sethc.exe backdoor by faking the original window. | https://github.com/PGgamer2/sethc-backdoor-hider | 1 | 3| 
@@ -114,7 +115,6 @@
 | 20210124T18:20:45Z | Null | https://github.com/EjHvorSerDuVildUdJim/backdoor | 0 | 0| 
 | 20210124T17:15:02Z | Null | https://github.com/mikkelskov1/backdoor2 | 0 | 0| 
 | 20210124T16:15:32Z | Null | https://github.com/Kris796u/backdoor | 0 | 0| 
-| 20210124T15:53:37Z | Null | https://github.com/Dan3DTV/backdoors | 0 | 0| 
 
 
 # fuzz on Github 推荐
