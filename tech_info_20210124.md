@@ -60,7 +60,6 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210124T22:59:44Z | this gets rid of yoink/myrh%s shitty backdoor that everyone%s talking about | https://github.com/LilMosquitoDisease/yoink-backdoor-remover | 0 | 0| 
 | 20210124T18:20:45Z | Null | https://github.com/EjHvorSerDuVildUdJim/backdoor | 0 | 0| 
 | 20210124T17:15:02Z | Null | https://github.com/mikkelskov1/backdoor2 | 0 | 0| 
 | 20210124T16:15:32Z | Null | https://github.com/Kris796u/backdoor | 0 | 0| 
