@@ -27,10 +27,8 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20210125T13:32:25Z | CVE-2021-3129 | Laravel debug rce | https://github.com/SNCKER/CVE-2021-3129 | Ignition before 2.5.2, as used in Laravel and other products, allows unauthenticated remote attackers to execute arbitrary code because of insecure usage of file_get_contents() and file_put_contents(). This is exploitable on sites using debug mode with Laravel before 8.4.2.| 
-| 20210125T13:24:56Z | CVE-2020-28488 | Denial of Service (DoS) - jQuery UI 1.12.1 - Exploit | https://github.com/rafaelcintralopes/CVE-2020-28488 | This affects all versions of package jquery-ui; all versions of package org.fujion.webjars:jquery-ui.
- When the %dialog% is injected into an HTML tag more than once, the browser and the application may crash.
-| 
+| 20210125T13:32:25Z | CVE-2021-3129 | Laravel debug rce | https://github.com/SNCKER/CVE-2021-3129 | | 
+| 20210125T13:24:56Z | CVE-2020-28488 | Denial of Service (DoS) - jQuery UI 1.12.1 - Exploit | https://github.com/rafaelcintralopes/CVE-2020-28488 | | 
 | 20210125T12:55:40Z | CVE-2021-3129 | Null | https://github.com/SecPros-Team/laravel-CVE-2021-3129-EXP | Ignition before 2.5.2, as used in Laravel and other products, allows unauthenticated remote attackers to execute arbitrary code because of insecure usage of file_get_contents() and file_put_contents(). This is exploitable on sites using debug mode with Laravel before 8.4.2.| 
 | 20210125T09:23:43Z | CVE-2020-24750 | This is a simple test for Jackson | https://github.com/Al1ex/CVE-2020-24750 | FasterXML jackson-databind 2.x before 2.9.10.6 mishandles the interaction between serialization gadgets and typing, related to com.pastdev.httpcomponents.configuration.JndiConfiguration.| 
 | 20210125T08:24:38Z | CVE-2021-2109 | CVE-2021-2109 && Weblogic Server RCE via JNDI | https://github.com/Al1ex/CVE-2021-2109 | Vulnerability in the Oracle WebLogic Server product of Oracle Fusion Middleware (component: Console). Supported versions that are affected are 10.3.6.0.0, 12.1.3.0.0, 12.2.1.3.0, 12.2.1.4.0 and 14.1.1.0.0. Easily exploitable vulnerability allows high privileged attacker with network access via HTTP to compromise Oracle WebLogic Server. Successful attacks of this vulnerability can result in takeover of Oracle WebLogic Server. CVSS 3.1 Base Score 7.2 (Confidentiality, Integrity and Availability impacts). CVSS Vector: (CVSS:3.1/AV:N/AC:L/PR:H/UI:N/S:U/C:H/I:H/A:H).| 
@@ -82,14 +80,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210125T02:25:20Z | Dictionary collection project such as Pentesing, Fuzzing, Bruteforce and BugBounty. 渗透测试、SRC漏洞挖掘、爆破、Fuzzing等字典收集项目。 | https://github.com/insightglacier/Dictionary-Of-Pentesting | 424 | 99| 
-| 20210125T02:13:48Z | fuzzy blog site.  | https://github.com/Fuzzytheory/fuzzy | 0 | 0| 
-| 20210125T02:06:26Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 5812 | 1165| 
-| 20210125T01:53:34Z | Fast web fuzzer written in Go | https://github.com/ffuf/ffuf | 3703 | 439| 
-| 20210125T01:21:33Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 1264 | 270| 
-| 20210125T01:04:40Z | Vim editor configuration for working with FuzzIL (fuzzil) files | https://github.com/drtychai/fuzzil.vim | 0 | 0| 
-| 20210125T00:57:36Z | The Official Fuzzy Britches Repository. | https://github.com/ThePapaw/fuzzybritches | 0 | 0| 
-| 20210125T00:39:17Z | Coding practice for HTML/CSS/anything else web based | https://github.com/FuzzyPumpkin/FuzzyPumpkin.github.io | 5 | 1| 
+| 20210125T13:40:30Z | Null | https://github.com/sudomakeinstall2/fuzzgoat | 0 | 0| 
+| 20210125T13:38:32Z | Bazel Starlark extensions for defining fuzz tests in Bazel projects | https://github.com/bazelbuild/rules_fuzzing | 8 | 2| 
+| 20210125T13:22:49Z | The Book %Generating Software Tests% | https://github.com/uds-se/fuzzingbook | 521 | 103| 
+| 20210125T13:09:28Z | A simple string fuzzy finder module | https://github.com/MircoT/go-string-fuzzy-finder | 0 | 0| 
+| 20210125T12:48:36Z | Null | https://github.com/s9varesc/url-fuzzing | 0 | 0| 
+| 20210125T12:48:20Z | Null | https://github.com/lutzer/node-red-contrib-fuzzywuzzy | 0 | 0| 
+| 20210125T12:38:53Z | SSL and TLS protocol test suite and fuzzer | https://github.com/tlsfuzzer/tlsfuzzer | 330 | 83| 
+| 20210125T11:54:02Z | Fuzzer for Pharo | https://github.com/mabdi/phazzer | 0 | 0| 
+| 20210125T11:50:59Z | 잘못된 코드 저격 데이터 생성 | https://github.com/nnnlog/boj_code_fuzzer | 0 | 0| 
+| 20210125T11:35:46Z | Null | https://github.com/FuzzyReason/fuzzyreason.io | 0 | 0| 
 
 
 
