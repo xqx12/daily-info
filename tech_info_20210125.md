@@ -27,7 +27,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20210125T13:32:25Z | CVE-2021-3129 | Laravel debug rce | https://github.com/SNCKER/CVE-2021-3129 | Ignition before 2.5.2, as used in Laravel and other products, allows unauthenticated remote attackers to execute arbitrary code because of insecure usage of file_get_contents() and file_put_contents(). This is exploitable on sites using debug mode with Laravel before 8.4.2.| 
+| 20210125T13:32:25Z | CVE-2021-3129 | Laravel debug rce | https://github.com/SNCKER/CVE-2021-3129 | | 
 | 20210125T13:24:56Z | CVE-2020-28488 | Denial of Service (DoS) - jQuery UI 1.12.1 - Exploit | https://github.com/rafaelcintralopes/CVE-2020-28488 | This affects all versions of package jquery-ui; all versions of package org.fujion.webjars:jquery-ui.
  When the %dialog% is injected into an HTML tag more than once, the browser and the application may crash.
 | 
@@ -69,7 +69,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210125T13:33:00Z | This is a quick easy python backdoor  | https://github.com/konzebj/Python-Backdoor- | 0 | 0| 
+| 20210125T13:35:20Z | This is a quick easy python backdoor  | https://github.com/konzebj/Python-Backdoor- | 0 | 0| 
 | 20210125T12:28:04Z | Null | https://github.com/rabbitx1337/backdoor | 0 | 0| 
 | 20210125T09:47:31Z | Exploit / Backdoor patcher / preventer for gmod.  | https://github.com/xM-1/ExPatch | 0 | 0| 
 | 20210125T07:23:36Z | Hides the sethc.exe backdoor by faking the original window. | https://github.com/PGgamer2/sethc-backdoor-hider | 1 | 3| 
