@@ -50,7 +50,7 @@
 | 20210124T18:09:53Z | CVE-2021-2109 | Null | https://github.com/rabbitsafe/CVE-2021-2109 | Vulnerability in the Oracle WebLogic Server product of Oracle Fusion Middleware (component: Console). Supported versions that are affected are 10.3.6.0.0, 12.1.3.0.0, 12.2.1.3.0, 12.2.1.4.0 and 14.1.1.0.0. Easily exploitable vulnerability allows high privileged attacker with network access via HTTP to compromise Oracle WebLogic Server. Successful attacks of this vulnerability can result in takeover of Oracle WebLogic Server. CVSS 3.1 Base Score 7.2 (Confidentiality, Integrity and Availability impacts). CVSS Vector: (CVSS:3.1/AV:N/AC:L/PR:H/UI:N/S:U/C:H/I:H/A:H).| 
 | 20210124T15:52:36Z | CVE-2020-8597 | CVE-2020-8597 in RM2100 | https://github.com/lakwsh/CVE-2020-8597 | eap.c in pppd in ppp 2.4.2 through 2.4.8 has an rhostname buffer overflow in the eap_request and eap_response functions.| 
 | 20210124T09:28:10Z | CVE-2020-11851 | Remote Code Execution vulnerability on ArcSight Logger | https://github.com/ch1nghz/CVE-2020-11851 | Arbitrary code execution vulnerability on Micro Focus ArcSight Logger product, affecting all version prior to 7.1.1. The vulnerability could be remotely exploited resulting in the execution of arbitrary code.| 
-| 20210124T08:15:39Z | CVE-2020-17530 | Null | https://github.com/killmonday/CVE-2020-17530-s2-061 | | 
+| 20210124T08:15:39Z | CVE-2020-17530 | Null | https://github.com/killmonday/CVE-2020-17530-s2-061 | Forced OGNL evaluation, when evaluated on raw user input in tag attributes, may lead to remote code execution. Affected software : Apache Struts 2.0.0 - Struts 2.5.25.| 
 | 20210123T18:34:06Z | cve-2020-10977 | GitLab 12.9 Arbitrary File Read | https://github.com/VoxelNaut/cve-2020-10977 | 未查询到CVE信息| 
 | 20210123T02:36:06Z | CVE-2021-2109 | CVE-2021-2109 && Weblogic Server RCE via JNDI | https://github.com/Al1ex/CVE-2021-2109 | Vulnerability in the Oracle WebLogic Server product of Oracle Fusion Middleware (component: Console). Supported versions that are affected are 10.3.6.0.0, 12.1.3.0.0, 12.2.1.3.0, 12.2.1.4.0 and 14.1.1.0.0. Easily exploitable vulnerability allows high privileged attacker with network access via HTTP to compromise Oracle WebLogic Server. Successful attacks of this vulnerability can result in takeover of Oracle WebLogic Server. CVSS 3.1 Base Score 7.2 (Confidentiality, Integrity and Availability impacts). CVSS Vector: (CVSS:3.1/AV:N/AC:L/PR:H/UI:N/S:U/C:H/I:H/A:H).| 
 | 20210122T16:29:39Z | CVE-2020-8554 | Null | https://github.com/Dviejopomata/CVE-2020-8554 | Kubernetes API server in all versions allow an attacker who is able to create a ClusterIP service and set the spec.externalIPs field, to intercept traffic to that IP address. Additionally, an attacker who is able to patch the status (which is considered a privileged operation and should not typically be granted to users) of a LoadBalancer service can set the status.loadBalancer.ingress.ip to similar effect.| 
@@ -118,16 +118,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210124T13:35:05Z | Personal website of Laurence Hughes | https://github.com/fuzzylogicxx/fuzzylogic | 4 | 1| 
-| 20210124T13:19:23Z | The Book %Generating Software Tests% | https://github.com/uds-se/fuzzingbook | 521 | 102| 
-| 20210124T13:02:32Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 29519 | 14878| 
-| 20210124T11:26:30Z | following through gamozo%s FuzzOS implementation | https://github.com/danbrodsky/following-fuzzos | 0 | 0| 
-| 20210124T10:25:15Z | FormatFuzzer is a framework for high-efficiency, high-quality generation and parsing of binary inputs. | https://github.com/uds-se/FormatFuzzer | 115 | 12| 
-| 20210124T10:08:35Z | Null | https://github.com/AwesomeCool7865/fuzzy-octo-couscous | 0 | 0| 
-| 20210124T09:17:53Z | go-fuzz corpuses for my Go projects | https://github.com/markkurossi/go-fuzz-corpuses | 0 | 0| 
-| 20210124T09:00:43Z | Null | https://github.com/azaka/fuzzy-chainsaw | 0 | 0| 
-| 20210124T08:45:55Z | Null | https://github.com/HsuHsia/HsuHsia-FuzzyC-MeansWithFairnessConstraint | 0 | 0| 
-| 20210124T08:14:03Z | An HTTP fuzzer based on dynamics workflows written in YAML | https://github.com/NozakiLabs/nzkflow | 5 | 0| 
+| 20210125T01:04:40Z | Vim editor configuration for working with FuzzIL (fuzzil) files | https://github.com/drtychai/fuzzil.vim | 0 | 0| 
+| 20210125T00:57:36Z | The Official Fuzzy Britches Repository. | https://github.com/ThePapaw/fuzzybritches | 0 | 0| 
+| 20210125T00:39:17Z | Coding practice for HTML/CSS/anything else web based | https://github.com/FuzzyPumpkin/FuzzyPumpkin.github.io | 5 | 1| 
+| 20210125T00:33:13Z | Fast web fuzzer written in Go | https://github.com/ffuf/ffuf | 3699 | 439| 
+| 20210124T23:24:56Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 5812 | 1164| 
+| 20210124T23:21:15Z | Null | https://github.com/yuri3482/fuzzy-octo-lamp | 0 | 0| 
+| 20210124T23:19:27Z | Null | https://github.com/rilar3748/fuzzy-doodle | 0 | 0| 
+| 20210124T22:50:03Z | Template repo for libraries written in go | https://github.com/arhat-dev/template-library-go | 0 | 0| 
+| 20210124T22:48:09Z | Personal website of Laurence Hughes | https://github.com/fuzzylogicxx/fuzzylogic | 4 | 1| 
+| 20210124T22:29:42Z | Generate code for json encoders/decoders, codecs, fuzzers, generators, and more | https://github.com/MartinSStewart/elm-review-todo-it-for-me | 0 | 0| 
 
 
 
