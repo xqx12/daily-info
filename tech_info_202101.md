@@ -88,6 +88,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210125T02:35:27Z | Null | https://github.com/Rilshrink/mCoreExploit | 0 | 0| 
 | 20210125T01:11:07Z | random stuff for exploit dev practice | https://github.com/C-Brown/exploit_dev_practice | 0 | 0| 
 | 20210125T00:57:47Z | PrExploit: Open Exploit Prediction System | https://github.com/prexploit/prexploit | 4 | 3| 
 | 20210125T00:48:08Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 8930 | 1427| 
@@ -97,7 +98,6 @@
 | 20210125T00:03:08Z | Vulnerabilities% Risk of Exploitation | https://github.com/thiagofigcosta/V-REx | 0 | 0| 
 | 20210125T00:00:00Z | SonicWall SSL-VPN Exploit | https://github.com/darrenmartyn/VisualDoor | 3 | 3| 
 | 20210124T23:49:25Z | Null | https://github.com/apidotmy/Mass-Exploit3r | 0 | 0| 
-| 20210124T23:46:59Z | PoC exploit for a WoTBlitz replay vulnerability allowing for RCE and account hijack | https://github.com/Xeb3rnium/WoTBlitz-Replay-Exploit | 0 | 0| 
 
 
 # backdoor on Github 推荐
