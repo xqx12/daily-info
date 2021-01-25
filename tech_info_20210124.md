@@ -6,6 +6,8 @@
 # 玄武实验室 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20210124 | JavaScript编程学习30天挑战资源项目。 | https://github.com/Asabeneh/30-Days-Of-JavaScript| 
+| 20210124 | APT-Hunter: 紫色团队用于Windows事件日志的威胁搜寻工具项目。 | https://github.com/ahmedkhlief/APT-Hunter| 
 
 
 # 安全维基 推荐
@@ -16,16 +18,18 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20210124T10:20:40Z | CVE-2021-3129 | Laravel debug rce | https://github.com/SNCKER/CVE-2021-3129 | Ignition before 2.5.2, as used in Laravel and other products, allows unauthenticated remote attackers to execute arbitrary code because of insecure usage of file_get_contents() and file_put_contents(). This is exploitable on sites using debug mode with Laravel before 8.4.2.| 
+| 20210124T18:09:53Z | CVE-2021-2109 | Null | https://github.com/rabbitsafe/CVE-2021-2109 | Vulnerability in the Oracle WebLogic Server product of Oracle Fusion Middleware (component: Console). Supported versions that are affected are 10.3.6.0.0, 12.1.3.0.0, 12.2.1.3.0, 12.2.1.4.0 and 14.1.1.0.0. Easily exploitable vulnerability allows high privileged attacker with network access via HTTP to compromise Oracle WebLogic Server. Successful attacks of this vulnerability can result in takeover of Oracle WebLogic Server. CVSS 3.1 Base Score 7.2 (Confidentiality, Integrity and Availability impacts). CVSS Vector: (CVSS:3.1/AV:N/AC:L/PR:H/UI:N/S:U/C:H/I:H/A:H).| 
+| 20210124T15:52:36Z | CVE-2020-8597 | CVE-2020-8597 in RM2100 | https://github.com/lakwsh/CVE-2020-8597 | eap.c in pppd in ppp 2.4.2 through 2.4.8 has an rhostname buffer overflow in the eap_request and eap_response functions.| 
 | 20210124T09:28:10Z | CVE-2020-11851 | Remote Code Execution vulnerability on ArcSight Logger | https://github.com/ch1nghz/CVE-2020-11851 | Arbitrary code execution vulnerability on Micro Focus ArcSight Logger product, affecting all version prior to 7.1.1. The vulnerability could be remotely exploited resulting in the execution of arbitrary code.| 
-| 20210124T08:15:39Z | CVE-2020-17530 | Null | https://github.com/killmonday/CVE-2020-17530-s2-061 | Forced OGNL evaluation, when evaluated on raw user input in tag attributes, may lead to remote code execution. Affected software : Apache Struts 2.0.0 - Struts 2.5.25.| 
+| 20210124T08:15:39Z | CVE-2020-17530 | Null | https://github.com/killmonday/CVE-2020-17530-s2-061 | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210124T22:00:59Z | Null | https://github.com/kleelab/kleelab.github.io | 0 | 0| 
+| 20210124T21:16:02Z | Null | https://github.com/davidtr1037/klee-aaqc | 1 | 0| 
 | 20210124T10:59:22Z | Null | https://github.com/fontworks-fonts/Klee | 327 | 8| 
-| 20210124T10:23:29Z | Null | https://github.com/kleelab/kleelab.github.io | 0 | 0| 
 | 20210124T10:20:10Z | PROYECTO FINAL | https://github.com/OscarZavaleta23/KLEE-Symbolic-Execution-Engine- | 0 | 0| 
 | 20210124T10:15:50Z | Proyecto final de la materia Lenguajes y Autómatas (COMPILADORES) | https://github.com/Llovas7/Symbolic-Virtual-Machine-Klee | 1 | 0| 
 | 20210124T10:13:50Z | https://drive.google.com/file/d/1AeQOD62-VNszgIps0Hg4UinKkgOR52AW/view?usp=drivesdk | https://github.com/Daniel-28lv/klee | 0 | 0| 
@@ -41,26 +45,31 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210124T13:56:14Z | Exploration-Exploitation using MAB | https://github.com/aegoe/MAB | 0 | 1| 
-| 20210124T13:55:33Z | forked version of funtuna, a homebrew ps2 app launcher designed to ease the pain of getting a stable exploit for those that have a console uncompatible with FreeMcBoot that doesnt have a modchip | https://github.com/israpps/Funtuna-Fork | 0 | 0| 
-| 20210124T13:48:36Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 8924 | 1426| 
-| 20210124T13:46:14Z | Just a temporary website to post my ctf writeups and journey into binary exploitation/malware analysis/exploit development | https://github.com/blackbeard666/blackbeard666.github.io | 0 | 0| 
-| 20210124T13:36:27Z | Guardiran Exploit Database or GuExDb | https://github.com/msa-dom/exploit-db.ga | 0 | 0| 
-| 20210124T13:29:50Z | This custom Fail2Ban filter and jail will deal with all scans for common Wordpress, Joomla and other Web Exploits being scanned for by automated bots and those seeking to find exploitable web sites. | https://github.com/mitchellkrogza/Fail2Ban.WebExploits | 62 | 20| 
-| 20210124T13:25:40Z | YOU CAN LEARN NEW WAY OF HACKING AND VULN EXPLOITATION ...FROM OUR WRITEUPS | https://github.com/shadow-securities/OSCP-PREP-WRITEUPS | 0 | 0| 
-| 20210124T12:49:52Z | macro_pack is a tool by @EmericNasi used to automatize obfuscation and generation of Office documents, VB scripts, shortcuts, and other formats for pentest, demo, and social engineering assessments. The goal of macro_pack is to simplify exploitation, antimalware bypass, and automatize the process from malicious macro and script generation to final document generation. It also provides a lot of helpful features useful for redteam or security research.  | https://github.com/sevagas/macro_pack | 1020 | 254| 
-| 20210124T11:05:05Z | CDK is an open-sourced container penetration toolkit, offering stable exploitation in different slimmed containers without any OS dependency. It comes with penetration tools and many powerful PoCs/EXPs helps you to escape container and takeover K8s cluster easily. | https://github.com/cdk-team/CDK | 432 | 72| 
-| 20210124T09:28:01Z | Code for our WRR paper %Toward Improved Predictions in Ungauged Basins: Exploiting the Power of Machine Learning% | https://github.com/kratzert/lstm_for_pub | 9 | 11| 
+| 20210124T23:49:25Z | Null | https://github.com/apidotmy/Mass-Exploit3r | 0 | 0| 
+| 20210124T23:46:59Z | PoC exploit for a WoTBlitz replay vulnerability allowing for RCE and account hijack | https://github.com/Xeb3rnium/WoTBlitz-Replay-Exploit | 0 | 0| 
+| 20210124T23:00:23Z | My research on binary exploitation | https://github.com/fuzzerakos/research | 0 | 0| 
+| 20210124T21:58:13Z | To collect and combine all JSON vulnerability feeds from NIST%s National Vulnerability Database with matching Exploit Database ID | https://github.com/nthnle/nvd-feeds-collection | 0 | 0| 
+| 20210124T21:35:13Z | ASLR Evasion, Egghunters, SEH Overwrites | https://github.com/freddiebarrsmith/Advanced-Windows-Exploit-Development-Practice | 9 | 1| 
+| 20210124T21:11:21Z | Exploitation techniques summarization | https://github.com/andrewbae/exploitation-techniques | 2 | 0| 
+| 20210124T21:04:59Z | Exploration-Exploitation using MAB | https://github.com/aegoe/MAB | 0 | 1| 
+| 20210124T20:59:24Z | Sécurité des logiciels et exploitation de vulnérabilités | https://github.com/ppepos/inf600c | 2 | 0| 
+| 20210124T20:58:51Z | OWASP Benchmark is a test suite designed to verify the speed and accuracy of software vulnerability detection tools. A fully runnable web app written in Java, it supports analysis by Static (SAST), Dynamic (DAST), and Runtime (IAST) tools that support Java. The idea is that since it is fully runnable and all the vulnerabilities are actually exploitable, it’s a fair test for any kind of vulnerability detection tool.  For more details on this project, please see the OWASP Benchmark Project home page. | https://github.com/OWASP/Benchmark | 327 | 223| 
+| 20210124T20:52:48Z | The purpose of this program is to help beginner and intermediate users to hone their web exploitation and development skills by mirroring a vunerable e-commerce application. | https://github.com/Surreptitious-Coder/GVW | 0 | 1| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210124T22:59:44Z | this gets rid of yoink/myrh%s shitty backdoor that everyone%s talking about | https://github.com/LilMosquitoDisease/yoink-backdoor-remover | 0 | 0| 
+| 20210124T20:48:09Z | A Kotlin program used to analyse and discover backdoors in Minecraft Java 1.12.2 forge mods | https://github.com/Tigermouthbear/Theia | 65 | 9| 
+| 20210124T18:20:45Z | Null | https://github.com/EjHvorSerDuVildUdJim/backdoor | 0 | 0| 
+| 20210124T17:15:02Z | Null | https://github.com/mikkelskov1/backdoor2 | 0 | 0| 
+| 20210124T16:15:32Z | Null | https://github.com/Kris796u/backdoor | 0 | 0| 
+| 20210124T15:53:37Z | Null | https://github.com/Dan3DTV/backdoors | 0 | 0| 
 | 20210124T12:32:00Z | Null | https://github.com/rabbitx1337/backdoor | 0 | 0| 
 | 20210124T12:02:21Z | Hides the sethc.exe backdoor by faking the original window. | https://github.com/PGgamer2/sethc-backdoor-hider | 1 | 3| 
 | 20210124T09:25:54Z | A backdoor that runs on Linux and Windows | https://github.com/EiSiMo/Backdoor | 13 | 7| 
 | 20210124T09:01:19Z | A program to demonstrate the hdl access ! | https://github.com/rag1404/uvm_hdl_backdoor_access | 0 | 0| 
-| 20210124T03:30:29Z | Null | https://github.com/chenyanjiao-zju/Distributed-Backdoor | 0 | 0| 
 
 
 # fuzz on Github 推荐
