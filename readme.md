@@ -53,6 +53,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210125T13:13:49Z | This bash script will help you to hack remote hosts  | https://github.com/FabioDefilippo/linuxallremote | 4 | 1| 
 | 20210125T13:06:54Z | Exploit Huawei ONT device | https://github.com/0neday/Exploit-HS8545M-ONT | 1 | 0| 
 | 20210125T13:02:59Z | 中国蚁剑后渗透框架 | https://github.com/yzddmr6/As-Exploits | 218 | 33| 
 | 20210125T12:56:09Z | Denial of Service (DoS) - jQuery UI 1.12.1 - Exploit | https://github.com/rafaelcintralopes/CVE-2020-28488 | 0 | 0| 
@@ -62,7 +63,6 @@
 | 20210125T12:14:21Z | ASLR Evasion, Egghunters, SEH Overwrites | https://github.com/freddiebarrsmith/Advanced-Windows-Exploit-Development-Practice | 9 | 1| 
 | 20210125T12:12:47Z | Vulnerabilities% Risk of Exploitation | https://github.com/thiagofigcosta/V-REx | 0 | 0| 
 | 20210125T12:03:54Z | Exploration-Exploitation using MAB | https://github.com/aegoe/MAB | 0 | 1| 
-| 20210125T11:40:17Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 8930 | 1427| 
 
 
 # backdoor on Github 推荐
