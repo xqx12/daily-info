@@ -53,7 +53,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210125T13:00:17Z | Null | https://github.com/0neday/Exploit-HS8545M-ONT | 0 | 0| 
+| 20210125T13:01:40Z | Null | https://github.com/0neday/Exploit-HS8545M-ONT | 1 | 0| 
 | 20210125T12:59:01Z | 中国蚁剑后渗透框架 | https://github.com/yzddmr6/As-Exploits | 218 | 33| 
 | 20210125T12:56:09Z | Denial of Service (DoS) - jQuery UI 1.12.1 - Exploit | https://github.com/rafaelcintralopes/CVE-2020-28488 | 0 | 0| 
 | 20210125T12:52:58Z | a tool for creating exploited media files for discord | https://github.com/Schmenn/discord-exploits | 11 | 1| 
