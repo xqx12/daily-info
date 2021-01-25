@@ -27,7 +27,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20210125T13:32:25Z | CVE-2021-3129 | Laravel debug rce | https://github.com/SNCKER/CVE-2021-3129 | | 
+| 20210125T13:32:25Z | CVE-2021-3129 | Laravel debug rce | https://github.com/SNCKER/CVE-2021-3129 | Ignition before 2.5.2, as used in Laravel and other products, allows unauthenticated remote attackers to execute arbitrary code because of insecure usage of file_get_contents() and file_put_contents(). This is exploitable on sites using debug mode with Laravel before 8.4.2.| 
 | 20210125T13:24:56Z | CVE-2020-28488 | Denial of Service (DoS) - jQuery UI 1.12.1 - Exploit | https://github.com/rafaelcintralopes/CVE-2020-28488 | This affects all versions of package jquery-ui; all versions of package org.fujion.webjars:jquery-ui.
  When the %dialog% is injected into an HTML tag more than once, the browser and the application may crash.
 | 
@@ -54,9 +54,9 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210125T13:57:44Z | Vulnerabilities% Risk of Exploitation | https://github.com/thiagofigcosta/V-REx | 0 | 0| 
 | 20210125T13:56:14Z | This bash script will help you to hack remote hosts  | https://github.com/FabioDefilippo/linuxallremote | 4 | 1| 
 | 20210125T13:42:47Z | RCE exploit for a .NET JSON deserialization vulnerability in Telerik UI for ASP.NET AJAX. | https://github.com/noperator/CVE-2019-18935 | 181 | 48| 
-| 20210125T13:42:02Z | Vulnerabilities% Risk of Exploitation | https://github.com/thiagofigcosta/V-REx | 0 | 0| 
 | 20210125T13:25:16Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 8930 | 1427| 
 | 20210125T13:24:56Z | Denial of Service (DoS) - jQuery UI 1.12.1 - Exploit | https://github.com/rafaelcintralopes/CVE-2020-28488 | 0 | 0| 
 | 20210125T13:06:54Z | Exploit Huawei ONT device | https://github.com/0neday/Exploit-HS8545M-ONT | 1 | 0| 
