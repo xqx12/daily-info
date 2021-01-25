@@ -83,7 +83,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210125T13:40:30Z | Null | https://github.com/sudomakeinstall2/fuzzgoat | 0 | 0| 
+| 20210125T13:53:21Z | Null | https://github.com/sudomakeinstall2/fuzzgoat | 0 | 0| 
 | 20210125T13:38:32Z | Bazel Starlark extensions for defining fuzz tests in Bazel projects | https://github.com/bazelbuild/rules_fuzzing | 8 | 2| 
 | 20210125T13:22:49Z | The Book %Generating Software Tests% | https://github.com/uds-se/fuzzingbook | 521 | 103| 
 | 20210125T13:09:28Z | A simple string fuzzy finder module | https://github.com/MircoT/go-string-fuzzy-finder | 0 | 0| 
