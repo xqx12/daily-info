@@ -83,6 +83,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210125T13:56:07Z | Binary, coverage-guided fuzzer for Windows and macOS | https://github.com/googleprojectzero/Jackalope | 444 | 44| 
 | 20210125T13:53:21Z | Null | https://github.com/sudomakeinstall2/fuzzgoat | 0 | 0| 
 | 20210125T13:38:32Z | Bazel Starlark extensions for defining fuzz tests in Bazel projects | https://github.com/bazelbuild/rules_fuzzing | 8 | 2| 
 | 20210125T13:22:49Z | The Book %Generating Software Tests% | https://github.com/uds-se/fuzzingbook | 521 | 103| 
@@ -92,7 +93,6 @@
 | 20210125T12:38:53Z | SSL and TLS protocol test suite and fuzzer | https://github.com/tlsfuzzer/tlsfuzzer | 330 | 83| 
 | 20210125T11:54:02Z | Fuzzer for Pharo | https://github.com/mabdi/phazzer | 0 | 0| 
 | 20210125T11:50:59Z | 잘못된 코드 저격 데이터 생성 | https://github.com/nnnlog/boj_code_fuzzer | 0 | 0| 
-| 20210125T11:35:46Z | Null | https://github.com/FuzzyReason/fuzzyreason.io | 0 | 0| 
 
 
 
