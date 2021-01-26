@@ -48,7 +48,7 @@
 | --- | --- | --- | --- | ---| 
 | 20210126T00:12:30Z | CVE-2021-3129 | Laravel debug rce | https://github.com/SNCKER/CVE-2021-3129 | Ignition before 2.5.2, as used in Laravel and other products, allows unauthenticated remote attackers to execute arbitrary code because of insecure usage of file_get_contents() and file_put_contents(). This is exploitable on sites using debug mode with Laravel before 8.4.2.| 
 | 20210125T16:12:02Z | CVE-2021-2109 | CVE-2021-2109 && Weblogic Server RCE via JNDI | https://github.com/Al1ex/CVE-2021-2109 | Vulnerability in the Oracle WebLogic Server product of Oracle Fusion Middleware (component: Console). Supported versions that are affected are 10.3.6.0.0, 12.1.3.0.0, 12.2.1.3.0, 12.2.1.4.0 and 14.1.1.0.0. Easily exploitable vulnerability allows high privileged attacker with network access via HTTP to compromise Oracle WebLogic Server. Successful attacks of this vulnerability can result in takeover of Oracle WebLogic Server. CVSS 3.1 Base Score 7.2 (Confidentiality, Integrity and Availability impacts). CVSS Vector: (CVSS:3.1/AV:N/AC:L/PR:H/UI:N/S:U/C:H/I:H/A:H).| 
-| 20210125T15:40:48Z | CVE-2020-14883 | 用于对WebLogic(10.3.6.0.0 ;12.1.3.0.0 ;12.2.1.3.0; 12.2.1.4.0 ;14.1.1.0.0)进行验证及利用 | https://github.com/fan1029/CVE-2020-14883EXP | Vulnerability in the Oracle WebLogic Server product of Oracle Fusion Middleware (component: Console). Supported versions that are affected are 10.3.6.0.0, 12.1.3.0.0, 12.2.1.3.0, 12.2.1.4.0 and 14.1.1.0.0. Easily exploitable vulnerability allows high privileged attacker with network access via HTTP to compromise Oracle WebLogic Server. Successful attacks of this vulnerability can result in takeover of Oracle WebLogic Server. CVSS 3.1 Base Score 7.2 (Confidentiality, Integrity and Availability impacts). CVSS Vector: (CVSS:3.1/AV:N/AC:L/PR:H/UI:N/S:U/C:H/I:H/A:H).| 
+| 20210125T15:40:48Z | CVE-2020-14883 | 用于对WebLogic(10.3.6.0.0 ;12.1.3.0.0 ;12.2.1.3.0; 12.2.1.4.0 ;14.1.1.0.0)进行验证及利用 | https://github.com/fan1029/CVE-2020-14883EXP | | 
 | 20210125T13:24:56Z | CVE-2020-28488 | Denial of Service (DoS) - jQuery UI 1.12.1 - Exploit | https://github.com/rafaelcintralopes/CVE-2020-28488 | This affects all versions of package jquery-ui; all versions of package org.fujion.webjars:jquery-ui.
  When the %dialog% is injected into an HTML tag more than once, the browser and the application may crash.
 | 
@@ -90,6 +90,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210126T01:21:06Z | A Cydia Repo | https://github.com/FishExploitsYT/FishExploitsYT.github.io | 0 | 0| 
 | 20210126T01:18:09Z | Fish Exploits Jailbreak Repo | https://github.com/FishExploitsYT/Fish-Repo | 0 | 0| 
 | 20210125T23:45:45Z | forked version of funtuna, a homebrew ps2 app launcher designed to ease the pain of getting a stable exploit for those that have a console uncompatible with FreeMcBoot that doesnt have a modchip | https://github.com/israpps/Funtuna-Fork | 0 | 0| 
 | 20210125T23:24:47Z | Repository to host code written during the process of reading the book %Hacking, the art of exploitation% by Jon Erickson | https://github.com/EduFalbel/Hacking_TAOE | 0 | 0| 
@@ -99,7 +100,6 @@
 | 20210125T22:42:58Z | Exploit For roblox | https://github.com/Ethical-Hacker-Josh/ProxySploit-X | 0 | 0| 
 | 20210125T22:13:55Z | Vulnerabilities% Risk of Exploitation | https://github.com/thiagofigcosta/V-REx | 0 | 0| 
 | 20210125T21:48:56Z | Penetration testing / Exploitation framework | https://github.com/Ret2LC/BetterSploit | 1 | 0| 
-| 20210125T21:48:00Z | :fire: Powerful port scanner with python with built in tool kit to exploit known socket vulnerabilities (syn flood and others) | https://github.com/symonk/zonic | 0 | 0| 
 
 
 # backdoor on Github 推荐
