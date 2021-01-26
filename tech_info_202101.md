@@ -38,9 +38,9 @@
 | 20210126 | 两个有趣的DNS 安全问题研究 | https://xz.aliyun.com/t/9047| 
 | 20210126 | Java安全02-从ClassLoader到冰蝎Java篇 | https://xz.aliyun.com/t/9050| 
 | 20210126 | JavaWeb中的信息泄漏——H2 database | https://www.sec-in.com/article/827| 
+| 20210126 | SSRF安全指北 | https://mp.weixin.qq.com/s/EYVFHgNClgNGrk_92PZ90A| 
 | 20210125 | APT-Hunter : Threat Hunting Tool via Windows Event Log | https://shells.systems/introducing-apt-hunter-threat-hunting-tool-via-windows-event-log/| 
 | 20210125 | SecWiki周刊（第360期) | https://www.sec-wiki.com/weekly/360| 
-| 20210125 | 美国国防部DevSecOps实践 | https://mp.weixin.qq.com/s/EPpgQlgc_8eY21xJRZkBqQ| 
 
 
 # CVE Github 推荐
@@ -53,7 +53,7 @@
 | 20210125T13:24:56Z | CVE-2020-28488 | Denial of Service (DoS) - jQuery UI 1.12.1 - Exploit | https://github.com/rafaelcintralopes/CVE-2020-28488 | This affects all versions of package jquery-ui; all versions of package org.fujion.webjars:jquery-ui.
  When the %dialog% is injected into an HTML tag more than once, the browser and the application may crash.
 | 
-| 20210125T12:55:40Z | CVE-2021-3129 | Null | https://github.com/SecPros-Team/laravel-CVE-2021-3129-EXP | | 
+| 20210125T12:55:40Z | CVE-2021-3129 | Null | https://github.com/SecPros-Team/laravel-CVE-2021-3129-EXP | Ignition before 2.5.2, as used in Laravel and other products, allows unauthenticated remote attackers to execute arbitrary code because of insecure usage of file_get_contents() and file_put_contents(). This is exploitable on sites using debug mode with Laravel before 8.4.2.| 
 | 20210125T09:23:43Z | CVE-2020-24750 | This is a simple test for Jackson | https://github.com/Al1ex/CVE-2020-24750 | FasterXML jackson-databind 2.x before 2.9.10.6 mishandles the interaction between serialization gadgets and typing, related to com.pastdev.httpcomponents.configuration.JndiConfiguration.| 
 | 20210124T18:09:53Z | CVE-2021-2109 | Null | https://github.com/rabbitsafe/CVE-2021-2109 | Vulnerability in the Oracle WebLogic Server product of Oracle Fusion Middleware (component: Console). Supported versions that are affected are 10.3.6.0.0, 12.1.3.0.0, 12.2.1.3.0, 12.2.1.4.0 and 14.1.1.0.0. Easily exploitable vulnerability allows high privileged attacker with network access via HTTP to compromise Oracle WebLogic Server. Successful attacks of this vulnerability can result in takeover of Oracle WebLogic Server. CVSS 3.1 Base Score 7.2 (Confidentiality, Integrity and Availability impacts). CVSS Vector: (CVSS:3.1/AV:N/AC:L/PR:H/UI:N/S:U/C:H/I:H/A:H).| 
 | 20210124T15:52:36Z | CVE-2020-8597 | CVE-2020-8597 in RM2100 | https://github.com/lakwsh/CVE-2020-8597 | eap.c in pppd in ppp 2.4.2 through 2.4.8 has an rhostname buffer overflow in the eap_request and eap_response functions.| 
@@ -90,16 +90,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210126T14:02:59Z | PyTorch implementation of Exploiting Neuron and Synapse Filter Dynamics in Spatial Temporal Learning of Deep Spiking Neural Network (IJCAI 20) | https://github.com/zhongyuchen/snn-iir | 0 | 0| 
+| 20210126T14:02:05Z | Null | https://github.com/MajdaELATIA/Systeme_exploitation_Sherlock13 | 0 | 0| 
+| 20210126T14:00:11Z | CVE Documenting Sample | https://github.com/ActorExpose/Exploit | 0 | 0| 
+| 20210126T13:59:36Z | Albatar is a SQLi exploitation framework in Python | https://github.com/lanjelot/albatar | 106 | 33| 
 | 20210126T13:28:53Z | Recent APT exploitation method POC  | https://github.com/p4yl0ad/VisualStudioPreBuildPwn-POC | 0 | 0| 
 | 20210126T13:26:50Z | Vulnerabilities% Risk of Exploitation | https://github.com/thiagofigcosta/V-REx | 0 | 0| 
 | 20210126T13:02:30Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 1 | 3| 
 | 20210126T13:01:56Z | A project that aims to conduct a quantitative assessment of the impact of the exploration-exploitation trade-off on state-of-the-art reinforcement learning algorithms on several different benchmark task in environments from the OpenAi gym.  | https://github.com/MuneetSJ/Exploration-vs-Exploitation-in-RL | 0 | 0| 
 | 20210126T13:01:19Z | Computer Network Exploitation (CNE) Field Manual | https://github.com/mzet-/z-field-manual | 1 | 1| 
 | 20210126T12:50:24Z | iblessing is an iOS security exploiting toolkit, it mainly includes application information collection, static analysis and dynamic analysis. It can be used for reverse engineering, binary analysis and vulnerability mining. | https://github.com/Soulghost/iblessing | 278 | 46| 
-| 20210126T12:49:52Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 7 | 4| 
-| 20210126T12:44:17Z | Web wrapper of niklasb/libc-database | https://github.com/blukat29/search-libc | 120 | 24| 
-| 20210126T12:31:37Z | Exploration-Exploitation using MAB | https://github.com/aegoe/MAB | 0 | 1| 
-| 20210126T11:35:16Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 8931 | 1430| 
 
 
 # backdoor on Github 推荐
