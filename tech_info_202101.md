@@ -50,7 +50,9 @@
 | 20210126T10:58:44Z | CVE-2020-11851 | Remote Code Execution vulnerability on ArcSight Logger | https://github.com/ch1nghz/CVE-2020-11851 | Arbitrary code execution vulnerability on Micro Focus ArcSight Logger product, affecting all version prior to 7.1.1. The vulnerability could be remotely exploited resulting in the execution of arbitrary code.| 
 | 20210125T16:12:02Z | CVE-2021-2109 | CVE-2021-2109 && Weblogic Server RCE via JNDI | https://github.com/Al1ex/CVE-2021-2109 | Vulnerability in the Oracle WebLogic Server product of Oracle Fusion Middleware (component: Console). Supported versions that are affected are 10.3.6.0.0, 12.1.3.0.0, 12.2.1.3.0, 12.2.1.4.0 and 14.1.1.0.0. Easily exploitable vulnerability allows high privileged attacker with network access via HTTP to compromise Oracle WebLogic Server. Successful attacks of this vulnerability can result in takeover of Oracle WebLogic Server. CVSS 3.1 Base Score 7.2 (Confidentiality, Integrity and Availability impacts). CVSS Vector: (CVSS:3.1/AV:N/AC:L/PR:H/UI:N/S:U/C:H/I:H/A:H).| 
 | 20210125T15:40:48Z | CVE-2020-14883 | 用于对WebLogic(10.3.6.0.0 ;12.1.3.0.0 ;12.2.1.3.0; 12.2.1.4.0 ;14.1.1.0.0)进行验证及利用 | https://github.com/fan1029/CVE-2020-14883EXP | Vulnerability in the Oracle WebLogic Server product of Oracle Fusion Middleware (component: Console). Supported versions that are affected are 10.3.6.0.0, 12.1.3.0.0, 12.2.1.3.0, 12.2.1.4.0 and 14.1.1.0.0. Easily exploitable vulnerability allows high privileged attacker with network access via HTTP to compromise Oracle WebLogic Server. Successful attacks of this vulnerability can result in takeover of Oracle WebLogic Server. CVSS 3.1 Base Score 7.2 (Confidentiality, Integrity and Availability impacts). CVSS Vector: (CVSS:3.1/AV:N/AC:L/PR:H/UI:N/S:U/C:H/I:H/A:H).| 
-| 20210125T13:24:56Z | CVE-2020-28488 | Denial of Service (DoS) - jQuery UI 1.12.1 - Exploit | https://github.com/rafaelcintralopes/CVE-2020-28488 | | 
+| 20210125T13:24:56Z | CVE-2020-28488 | Denial of Service (DoS) - jQuery UI 1.12.1 - Exploit | https://github.com/rafaelcintralopes/CVE-2020-28488 | This affects all versions of package jquery-ui; all versions of package org.fujion.webjars:jquery-ui.
+ When the %dialog% is injected into an HTML tag more than once, the browser and the application may crash.
+| 
 | 20210125T12:55:40Z | CVE-2021-3129 | Null | https://github.com/SecPros-Team/laravel-CVE-2021-3129-EXP | Ignition before 2.5.2, as used in Laravel and other products, allows unauthenticated remote attackers to execute arbitrary code because of insecure usage of file_get_contents() and file_put_contents(). This is exploitable on sites using debug mode with Laravel before 8.4.2.| 
 | 20210125T09:23:43Z | CVE-2020-24750 | This is a simple test for Jackson | https://github.com/Al1ex/CVE-2020-24750 | FasterXML jackson-databind 2.x before 2.9.10.6 mishandles the interaction between serialization gadgets and typing, related to com.pastdev.httpcomponents.configuration.JndiConfiguration.| 
 | 20210124T18:09:53Z | CVE-2021-2109 | Null | https://github.com/rabbitsafe/CVE-2021-2109 | Vulnerability in the Oracle WebLogic Server product of Oracle Fusion Middleware (component: Console). Supported versions that are affected are 10.3.6.0.0, 12.1.3.0.0, 12.2.1.3.0, 12.2.1.4.0 and 14.1.1.0.0. Easily exploitable vulnerability allows high privileged attacker with network access via HTTP to compromise Oracle WebLogic Server. Successful attacks of this vulnerability can result in takeover of Oracle WebLogic Server. CVSS 3.1 Base Score 7.2 (Confidentiality, Integrity and Availability impacts). CVSS Vector: (CVSS:3.1/AV:N/AC:L/PR:H/UI:N/S:U/C:H/I:H/A:H).| 
@@ -61,8 +63,8 @@
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210126T13:17:49Z | Null | https://github.com/fontworks-fonts/Klee | 331 | 9| 
 | 20210126T12:13:22Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1616 | 477| 
-| 20210126T07:27:18Z | Null | https://github.com/fontworks-fonts/Klee | 330 | 9| 
 | 20210125T12:10:58Z | Null | https://github.com/balabeltmimi/kleeandtheirfriendsbutton | 0 | 0| 
 | 20210125T09:56:25Z | RVT is a collection of tools/libraries to support both static and dynamic verification of Rust programs. | https://github.com/project-oak/rust-verification-tools | 102 | 6| 
 | 20210124T22:00:59Z | Null | https://github.com/kleelab/kleelab.github.io | 0 | 0| 
@@ -88,16 +90,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210126T13:28:53Z | Recent APT exploitation method POC  | https://github.com/p4yl0ad/VisualStudioPreBuildPwn-POC | 0 | 0| 
+| 20210126T13:26:50Z | Vulnerabilities% Risk of Exploitation | https://github.com/thiagofigcosta/V-REx | 0 | 0| 
 | 20210126T13:02:30Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 1 | 3| 
 | 20210126T13:01:56Z | A project that aims to conduct a quantitative assessment of the impact of the exploration-exploitation trade-off on state-of-the-art reinforcement learning algorithms on several different benchmark task in environments from the OpenAi gym.  | https://github.com/MuneetSJ/Exploration-vs-Exploitation-in-RL | 0 | 0| 
 | 20210126T13:01:19Z | Computer Network Exploitation (CNE) Field Manual | https://github.com/mzet-/z-field-manual | 1 | 1| 
 | 20210126T12:50:24Z | iblessing is an iOS security exploiting toolkit, it mainly includes application information collection, static analysis and dynamic analysis. It can be used for reverse engineering, binary analysis and vulnerability mining. | https://github.com/Soulghost/iblessing | 278 | 46| 
 | 20210126T12:49:52Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 7 | 4| 
-| 20210126T12:44:44Z | Recent APT exploitation method POC  | https://github.com/p4yl0ad/VisualStudioPreBuildPwn-POC | 0 | 0| 
 | 20210126T12:44:17Z | Web wrapper of niklasb/libc-database | https://github.com/blukat29/search-libc | 120 | 24| 
 | 20210126T12:31:37Z | Exploration-Exploitation using MAB | https://github.com/aegoe/MAB | 0 | 1| 
 | 20210126T11:35:16Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 8931 | 1430| 
-| 20210126T11:25:18Z | Automated solver of classic CTF pwn challenges, with flexibility in mind. | https://github.com/mariuszskon/autorop | 1 | 0| 
 
 
 # backdoor on Github 推荐
@@ -118,16 +120,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210126T02:16:47Z | Null | https://github.com/gatorpazz/fuzzy-dollop | 0 | 0| 
-| 20210126T01:23:57Z | Null | https://github.com/based894578/fuzzy-telegram | 0 | 0| 
-| 20210126T01:13:22Z | Fuzzer takes domen name as a target and wordlist . Then tries to recognise all subdirectories of exact domen. | https://github.com/slowpokalipsis/fuzzevPlaton | 0 | 0| 
-| 20210126T00:30:04Z | 📚 An ultimate collection wordlists of the best-known CMS | https://github.com/JavierOlmedo/UltimateCMSWordlists | 45 | 14| 
-| 20210126T00:23:25Z | qsfuzz (Query String Fuzz) allows you to build your own rules to fuzz query strings and easily identify vulnerabilities. | https://github.com/ameenmaali/qsfuzz | 183 | 32| 
-| 20210126T00:22:58Z | FuzzBench - Fuzzer benchmarking as a service. | https://github.com/google/fuzzbench | 588 | 96| 
-| 20210126T00:04:11Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 5815 | 1167| 
-| 20210126T00:03:42Z | Scalable fuzzing infrastructure. | https://github.com/google/clusterfuzz | 4424 | 410| 
-| 20210125T23:29:48Z | Command line helpers for fuzzing | https://github.com/rust-fuzz/cargo-fuzz | 696 | 52| 
-| 20210125T22:48:07Z | Null | https://github.com/FuzzyReason/FuzzyReason | 0 | 0| 
+| 20210126T13:24:29Z | 搜索工具类;a searching-utils for what you saved | https://github.com/kc910521/MiniSearch | 4 | 0| 
+| 20210126T13:19:13Z | Null | https://github.com/richardvogg/fuzzymatch | 0 | 0| 
+| 20210126T13:10:41Z | Using Atheris to fuzz test | https://github.com/ramonmedeiros/fuzz_testing | 0 | 0| 
+| 20210126T13:07:10Z | White-box fuzzer for Java bytecode | https://github.com/vorpal-research/kex | 6 | 5| 
+| 20210126T12:57:49Z | Null | https://github.com/codesoverflow/fuzzy-search-hi-en-transliterate | 0 | 0| 
+| 20210126T12:04:19Z | Null | https://github.com/SubhiJleilaty/FuzzyLogicRobotics-soem | 0 | 0| 
+| 20210126T11:56:12Z | Null | https://github.com/Juanosorio94/fuzzing-rdma | 0 | 0| 
+| 20210126T11:55:45Z | library for fuzzy search | https://github.com/AlfredDaimari/fuzz-search-js | 0 | 0| 
+| 20210126T11:31:19Z | 📨 Email template generator. Making emails fun again. | https://github.com/luangjokaj/fuzzymail | 110 | 4| 
+| 20210126T11:04:10Z | Rockyou for web fuzzing | https://github.com/six2dez/OneListForAll | 169 | 31| 
 
 
 

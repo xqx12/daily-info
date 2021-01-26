@@ -39,8 +39,8 @@
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210126T13:17:49Z | Null | https://github.com/fontworks-fonts/Klee | 331 | 9| 
 | 20210126T12:13:22Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1616 | 477| 
-| 20210126T07:27:18Z | Null | https://github.com/fontworks-fonts/Klee | 330 | 9| 
 
 
 # s2e on Github 推荐
@@ -51,16 +51,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210126T13:28:53Z | Recent APT exploitation method POC  | https://github.com/p4yl0ad/VisualStudioPreBuildPwn-POC | 0 | 0| 
+| 20210126T13:26:50Z | Vulnerabilities% Risk of Exploitation | https://github.com/thiagofigcosta/V-REx | 0 | 0| 
 | 20210126T13:02:30Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 1 | 3| 
 | 20210126T13:01:56Z | A project that aims to conduct a quantitative assessment of the impact of the exploration-exploitation trade-off on state-of-the-art reinforcement learning algorithms on several different benchmark task in environments from the OpenAi gym.  | https://github.com/MuneetSJ/Exploration-vs-Exploitation-in-RL | 0 | 0| 
 | 20210126T13:01:19Z | Computer Network Exploitation (CNE) Field Manual | https://github.com/mzet-/z-field-manual | 1 | 1| 
 | 20210126T12:50:24Z | iblessing is an iOS security exploiting toolkit, it mainly includes application information collection, static analysis and dynamic analysis. It can be used for reverse engineering, binary analysis and vulnerability mining. | https://github.com/Soulghost/iblessing | 278 | 46| 
 | 20210126T12:49:52Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 7 | 4| 
-| 20210126T12:44:44Z | Recent APT exploitation method POC  | https://github.com/p4yl0ad/VisualStudioPreBuildPwn-POC | 0 | 0| 
 | 20210126T12:44:17Z | Web wrapper of niklasb/libc-database | https://github.com/blukat29/search-libc | 120 | 24| 
 | 20210126T12:31:37Z | Exploration-Exploitation using MAB | https://github.com/aegoe/MAB | 0 | 1| 
 | 20210126T11:35:16Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 8931 | 1430| 
-| 20210126T11:25:18Z | Automated solver of classic CTF pwn challenges, with flexibility in mind. | https://github.com/mariuszskon/autorop | 1 | 0| 
 
 
 # backdoor on Github 推荐
@@ -78,14 +78,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210126T02:16:47Z | Null | https://github.com/gatorpazz/fuzzy-dollop | 0 | 0| 
-| 20210126T01:23:57Z | Null | https://github.com/based894578/fuzzy-telegram | 0 | 0| 
-| 20210126T01:13:22Z | Fuzzer takes domen name as a target and wordlist . Then tries to recognise all subdirectories of exact domen. | https://github.com/slowpokalipsis/fuzzevPlaton | 0 | 0| 
-| 20210126T00:30:04Z | 📚 An ultimate collection wordlists of the best-known CMS | https://github.com/JavierOlmedo/UltimateCMSWordlists | 45 | 14| 
-| 20210126T00:23:25Z | qsfuzz (Query String Fuzz) allows you to build your own rules to fuzz query strings and easily identify vulnerabilities. | https://github.com/ameenmaali/qsfuzz | 183 | 32| 
-| 20210126T00:22:58Z | FuzzBench - Fuzzer benchmarking as a service. | https://github.com/google/fuzzbench | 588 | 96| 
-| 20210126T00:04:11Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 5815 | 1167| 
-| 20210126T00:03:42Z | Scalable fuzzing infrastructure. | https://github.com/google/clusterfuzz | 4424 | 410| 
+| 20210126T13:24:29Z | 搜索工具类;a searching-utils for what you saved | https://github.com/kc910521/MiniSearch | 4 | 0| 
+| 20210126T13:19:13Z | Null | https://github.com/richardvogg/fuzzymatch | 0 | 0| 
+| 20210126T13:10:41Z | Using Atheris to fuzz test | https://github.com/ramonmedeiros/fuzz_testing | 0 | 0| 
+| 20210126T13:07:10Z | White-box fuzzer for Java bytecode | https://github.com/vorpal-research/kex | 6 | 5| 
+| 20210126T12:57:49Z | Null | https://github.com/codesoverflow/fuzzy-search-hi-en-transliterate | 0 | 0| 
+| 20210126T12:04:19Z | Null | https://github.com/SubhiJleilaty/FuzzyLogicRobotics-soem | 0 | 0| 
+| 20210126T11:56:12Z | Null | https://github.com/Juanosorio94/fuzzing-rdma | 0 | 0| 
+| 20210126T11:55:45Z | library for fuzzy search | https://github.com/AlfredDaimari/fuzz-search-js | 0 | 0| 
+| 20210126T11:31:19Z | 📨 Email template generator. Making emails fun again. | https://github.com/luangjokaj/fuzzymail | 110 | 4| 
+| 20210126T11:04:10Z | Rockyou for web fuzzing | https://github.com/six2dez/OneListForAll | 169 | 31| 
 
 
 
