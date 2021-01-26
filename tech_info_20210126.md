@@ -53,13 +53,13 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210126T14:07:22Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 1 | 3| 
 | 20210126T14:02:59Z | PyTorch implementation of Exploiting Neuron and Synapse Filter Dynamics in Spatial Temporal Learning of Deep Spiking Neural Network (IJCAI 20) | https://github.com/zhongyuchen/snn-iir | 0 | 0| 
 | 20210126T14:02:05Z | Null | https://github.com/MajdaELATIA/Systeme_exploitation_Sherlock13 | 0 | 0| 
 | 20210126T14:00:11Z | CVE Documenting Sample | https://github.com/ActorExpose/Exploit | 0 | 0| 
 | 20210126T13:59:36Z | Albatar is a SQLi exploitation framework in Python | https://github.com/lanjelot/albatar | 106 | 33| 
 | 20210126T13:28:53Z | Recent APT exploitation method POC  | https://github.com/p4yl0ad/VisualStudioPreBuildPwn-POC | 0 | 0| 
 | 20210126T13:26:50Z | Vulnerabilities% Risk of Exploitation | https://github.com/thiagofigcosta/V-REx | 0 | 0| 
-| 20210126T13:02:30Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 1 | 3| 
 | 20210126T13:01:56Z | A project that aims to conduct a quantitative assessment of the impact of the exploration-exploitation trade-off on state-of-the-art reinforcement learning algorithms on several different benchmark task in environments from the OpenAi gym.  | https://github.com/MuneetSJ/Exploration-vs-Exploitation-in-RL | 0 | 0| 
 | 20210126T13:01:19Z | Computer Network Exploitation (CNE) Field Manual | https://github.com/mzet-/z-field-manual | 1 | 1| 
 | 20210126T12:50:24Z | iblessing is an iOS security exploiting toolkit, it mainly includes application information collection, static analysis and dynamic analysis. It can be used for reverse engineering, binary analysis and vulnerability mining. | https://github.com/Soulghost/iblessing | 278 | 46| 
