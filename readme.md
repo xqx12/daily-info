@@ -34,7 +34,7 @@
  When the %dialog% is injected into an HTML tag more than once, the browser and the application may crash.
 | 
 | 20210125T12:55:40Z | CVE-2021-3129 | Null | https://github.com/SecPros-Team/laravel-CVE-2021-3129-EXP | Ignition before 2.5.2, as used in Laravel and other products, allows unauthenticated remote attackers to execute arbitrary code because of insecure usage of file_get_contents() and file_put_contents(). This is exploitable on sites using debug mode with Laravel before 8.4.2.| 
-| 20210125T09:23:43Z | CVE-2020-24750 | This is a simple test for Jackson | https://github.com/Al1ex/CVE-2020-24750 | FasterXML jackson-databind 2.x before 2.9.10.6 mishandles the interaction between serialization gadgets and typing, related to com.pastdev.httpcomponents.configuration.JndiConfiguration.| 
+| 20210125T09:23:43Z | CVE-2020-24750 | This is a simple test for Jackson | https://github.com/Al1ex/CVE-2020-24750 | | 
 
 
 # klee on Github 推荐
