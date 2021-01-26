@@ -33,7 +33,7 @@
 | 20210125T13:24:56Z | CVE-2020-28488 | Denial of Service (DoS) - jQuery UI 1.12.1 - Exploit | https://github.com/rafaelcintralopes/CVE-2020-28488 | This affects all versions of package jquery-ui; all versions of package org.fujion.webjars:jquery-ui.
  When the %dialog% is injected into an HTML tag more than once, the browser and the application may crash.
 | 
-| 20210125T12:55:40Z | CVE-2021-3129 | Null | https://github.com/SecPros-Team/laravel-CVE-2021-3129-EXP | Ignition before 2.5.2, as used in Laravel and other products, allows unauthenticated remote attackers to execute arbitrary code because of insecure usage of file_get_contents() and file_put_contents(). This is exploitable on sites using debug mode with Laravel before 8.4.2.| 
+| 20210125T12:55:40Z | CVE-2021-3129 | Null | https://github.com/SecPros-Team/laravel-CVE-2021-3129-EXP | | 
 | 20210125T09:23:43Z | CVE-2020-24750 | This is a simple test for Jackson | https://github.com/Al1ex/CVE-2020-24750 | FasterXML jackson-databind 2.x before 2.9.10.6 mishandles the interaction between serialization gadgets and typing, related to com.pastdev.httpcomponents.configuration.JndiConfiguration.| 
 
 
@@ -62,10 +62,10 @@
 | 20210125T23:17:13Z | Exploits project Hacking Command Center | https://github.com/chacka0101/exploits | 0 | 2| 
 | 20210125T23:04:01Z | Fix the UUID Spoofing exploit with this plugin! | https://github.com/zPirroZ3007/UUIDSpoofFix | 6 | 4| 
 | 20210125T22:42:58Z | Exploit For roblox | https://github.com/Ethical-Hacker-Josh/ProxySploit-X | 0 | 0| 
-| 20210125T22:13:55Z | Vulnerabilities% Risk of Exploitation | https://github.com/thiagofigcosta/V-REx | 0 | 0| 
 | 20210125T21:48:56Z | Penetration testing / Exploitation framework | https://github.com/Ret2LC/BetterSploit | 1 | 0| 
 | 20210125T21:48:00Z | :fire: Powerful port scanner with python with built in tool kit to exploit known socket vulnerabilities (syn flood and others) | https://github.com/symonk/zonic | 0 | 0| 
 | 20210125T21:22:56Z | KDMapper is a simple tool that exploits iqvw64e.sys Intel driver to manually map non-signed drivers in memory | https://github.com/TheCruZ/kdmapper-1803-20H2 | 127 | 61| 
+| 20210125T21:11:07Z | A collection of tools used for exploiting Active Directory and Kerberos. | https://github.com/Pheelbert/ad_exploit_tools | 0 | 0| 
 
 
 # backdoor on Github 推荐
