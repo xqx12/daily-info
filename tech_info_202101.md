@@ -90,31 +90,31 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210126T02:46:36Z | Null | https://github.com/MTK-bypass/exploits_collection | 14 | 10| 
-| 20210126T02:43:48Z | forked version of funtuna, a homebrew ps2 app launcher designed to ease the pain of getting a stable exploit for those that have a console uncompatible with FreeMcBoot that doesnt have a modchip | https://github.com/israpps/Funtuna-Fork | 0 | 0| 
-| 20210126T02:24:30Z | Automated solver of classic CTF pwn challenges, with flexibility in mind. | https://github.com/mariuszskon/autorop | 1 | 0| 
-| 20210126T02:09:00Z | Silice is an open source language that simplifies writing algorithms fully exploiting FPGA architectures. | https://github.com/sylefeb/Silice | 425 | 32| 
-| 20210126T01:57:17Z | A project that aims to conduct a quantitative assessment of the impact of the exploration-exploitation trade-off on SOA RL algorithms on several benchmark tasks in environments from OpenAI Gym | https://github.com/MuneetSJ/Exploration-vs-Exploitation-in-RL | 0 | 0| 
-| 20210126T01:53:35Z | Vulnerabilities% Risk of Exploitation | https://github.com/thiagofigcosta/V-REx | 0 | 0| 
-| 20210126T01:43:34Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 8931 | 1428| 
-| 20210126T01:37:41Z | exploit-database-papers | https://github.com/offensive-security/exploitdb-papers | 277 | 39| 
-| 20210126T01:33:49Z | A Cydia Repo | https://github.com/FishExploitsYT/FishExploitsYT.github.io | 0 | 0| 
-| 20210126T01:33:28Z | All I can say is Omoooooo x infinity | https://github.com/IAmMasterCraft/anonytexts-exploit | 0 | 0| 
+| 20210126T13:02:30Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 1 | 3| 
+| 20210126T13:01:56Z | A project that aims to conduct a quantitative assessment of the impact of the exploration-exploitation trade-off on state-of-the-art reinforcement learning algorithms on several different benchmark task in environments from the OpenAi gym.  | https://github.com/MuneetSJ/Exploration-vs-Exploitation-in-RL | 0 | 0| 
+| 20210126T13:01:19Z | Computer Network Exploitation (CNE) Field Manual | https://github.com/mzet-/z-field-manual | 1 | 1| 
+| 20210126T12:50:24Z | iblessing is an iOS security exploiting toolkit, it mainly includes application information collection, static analysis and dynamic analysis. It can be used for reverse engineering, binary analysis and vulnerability mining. | https://github.com/Soulghost/iblessing | 278 | 46| 
+| 20210126T12:49:52Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 7 | 4| 
+| 20210126T12:44:44Z | Recent APT exploitation method POC  | https://github.com/p4yl0ad/VisualStudioPreBuildPwn-POC | 0 | 0| 
+| 20210126T12:44:17Z | Web wrapper of niklasb/libc-database | https://github.com/blukat29/search-libc | 120 | 24| 
+| 20210126T12:31:37Z | Exploration-Exploitation using MAB | https://github.com/aegoe/MAB | 0 | 1| 
+| 20210126T11:35:16Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 8931 | 1430| 
+| 20210126T11:25:18Z | Automated solver of classic CTF pwn challenges, with flexibility in mind. | https://github.com/mariuszskon/autorop | 1 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210126T12:23:18Z | Simple Backdoor Hacking Tool | https://github.com/Mamun-Al-Babu-Shikder/Hacking-Tool | 0 | 0| 
+| 20210126T11:36:22Z | Null | https://github.com/rabbitx1337/backdoor | 0 | 0| 
+| 20210126T07:29:42Z | Null | https://github.com/Pytools786/backdoor_trojan | 0 | 0| 
+| 20210126T06:38:15Z | A backdoor with a multitude of features. | https://github.com/thatcherclough/BetterBackdoor | 188 | 61| 
+| 20210126T03:06:38Z | A static analysis tool to detect potential backdoors hidden in Ethereum smart contracts. | https://github.com/renardbebe/backdoorDetector | 0 | 0| 
 | 20210126T02:30:30Z | A Kotlin program used to analyse and discover backdoors in Minecraft Java 1.12.2 forge mods | https://github.com/Tigermouthbear/Theia | 66 | 8| 
-| 20210126T02:21:32Z | A static analysis tool to detect potential backdoors hidden in Ethereum smart contracts. | https://github.com/renardbebe/backdoorDetector | 0 | 0| 
 | 20210126T02:13:25Z | A static analysis tool to detect potential backdoors hidden in Ethereum smart contracts. | https://github.com/renardbebe/BackdoorDetector | 0 | 0| 
 | 20210125T20:28:17Z | This one works sorry had to edit the code | https://github.com/konzebj/Python-Backdoor-V2 | 0 | 0| 
 | 20210125T18:00:34Z | This is a quick easy python backdoor  | https://github.com/konzebj/Python-Backdoor- | 1 | 0| 
 | 20210125T16:28:19Z | Null | https://github.com/EjHvorSerDuVildUdJim/backdoor | 0 | 0| 
-| 20210125T14:22:42Z | A backdoor with a multitude of features. | https://github.com/thatcherclough/BetterBackdoor | 187 | 61| 
-| 20210125T13:40:47Z | A sethc backdoor based by golang | https://github.com/Maka8ka/ShiftGoor | 0 | 0| 
-| 20210125T13:38:31Z | Null | https://github.com/LowE88/https-github.com-dana-at-cp-backdoor-apk | 0 | 0| 
-| 20210125T12:28:04Z | Null | https://github.com/rabbitx1337/backdoor | 0 | 0| 
 
 
 # fuzz on Github 推荐
