@@ -90,6 +90,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210126T01:44:25Z | A project that aims to conduct a quantitative assessment of the impact of the exploration-exploitation trade-off on SOA RL algorithms on several benchmark tasks in environments from OpenAI Gym | https://github.com/MuneetSJ/Exploration-vs-Exploitation-in-RL | 0 | 0| 
+| 20210126T01:43:34Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 8931 | 1428| 
 | 20210126T01:37:41Z | exploit-database-papers | https://github.com/offensive-security/exploitdb-papers | 277 | 39| 
 | 20210126T01:33:49Z | A Cydia Repo | https://github.com/FishExploitsYT/FishExploitsYT.github.io | 0 | 0| 
 | 20210126T01:33:28Z | All I can say is Omoooooo x infinity | https://github.com/IAmMasterCraft/anonytexts-exploit | 0 | 0| 
@@ -98,8 +100,6 @@
 | 20210125T23:24:47Z | Repository to host code written during the process of reading the book %Hacking, the art of exploitation% by Jon Erickson | https://github.com/EduFalbel/Hacking_TAOE | 0 | 0| 
 | 20210125T23:24:36Z | Silice is an open source language that simplifies writing algorithms fully exploiting FPGA architectures. | https://github.com/sylefeb/Silice | 424 | 32| 
 | 20210125T23:17:13Z | Exploits project Hacking Command Center | https://github.com/chacka0101/exploits | 0 | 2| 
-| 20210125T23:04:01Z | Fix the UUID Spoofing exploit with this plugin! | https://github.com/zPirroZ3007/UUIDSpoofFix | 6 | 4| 
-| 20210125T22:42:58Z | Exploit For roblox | https://github.com/Ethical-Hacker-Josh/ProxySploit-X | 0 | 0| 
 
 
 # backdoor on Github 推荐
