@@ -123,7 +123,7 @@
 | 20210126T01:23:57Z | Null | https://github.com/based894578/fuzzy-telegram | 0 | 0| 
 | 20210126T01:13:22Z | Fuzzer takes domen name as a target and wordlist . Then tries to recognise all subdirectories of exact domen. | https://github.com/slowpokalipsis/fuzzevPlaton | 0 | 0| 
 | 20210126T00:30:04Z | 📚 An ultimate collection wordlists of the best-known CMS | https://github.com/JavierOlmedo/UltimateCMSWordlists | 45 | 14| 
-| 20210126T00:23:25Z | qsfuzz (Query String Fuzz) allows you to build your own rules to fuzz query strings and easily identify vulnerabilities. | https://github.com/ameenmaali/qsfuzz | 183 | 31| 
+| 20210126T00:23:25Z | qsfuzz (Query String Fuzz) allows you to build your own rules to fuzz query strings and easily identify vulnerabilities. | https://github.com/ameenmaali/qsfuzz | 183 | 32| 
 | 20210126T00:22:58Z | FuzzBench - Fuzzer benchmarking as a service. | https://github.com/google/fuzzbench | 588 | 96| 
 | 20210126T00:04:11Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 5815 | 1167| 
 | 20210126T00:03:42Z | Scalable fuzzing infrastructure. | https://github.com/google/clusterfuzz | 4424 | 410| 
