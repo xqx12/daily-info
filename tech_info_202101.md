@@ -120,6 +120,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210126T02:16:47Z | Null | https://github.com/gatorpazz/fuzzy-dollop | 0 | 0| 
 | 20210126T01:23:57Z | Null | https://github.com/based894578/fuzzy-telegram | 0 | 0| 
 | 20210126T01:13:22Z | Fuzzer takes domen name as a target and wordlist . Then tries to recognise all subdirectories of exact domen. | https://github.com/slowpokalipsis/fuzzevPlaton | 0 | 0| 
 | 20210126T00:30:04Z | 📚 An ultimate collection wordlists of the best-known CMS | https://github.com/JavierOlmedo/UltimateCMSWordlists | 45 | 14| 
@@ -129,7 +130,6 @@
 | 20210126T00:03:42Z | Scalable fuzzing infrastructure. | https://github.com/google/clusterfuzz | 4424 | 410| 
 | 20210125T23:29:48Z | Command line helpers for fuzzing | https://github.com/rust-fuzz/cargo-fuzz | 696 | 52| 
 | 20210125T22:48:07Z | Null | https://github.com/FuzzyReason/FuzzyReason | 0 | 0| 
-| 20210125T22:42:17Z | The Book %Generating Software Tests% | https://github.com/uds-se/fuzzingbook | 521 | 103| 
 
 
 
