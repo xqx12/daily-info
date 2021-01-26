@@ -64,7 +64,7 @@
 | 20210125T21:22:56Z | KDMapper is a simple tool that exploits iqvw64e.sys Intel driver to manually map non-signed drivers in memory | https://github.com/TheCruZ/kdmapper-1803-20H2 | 127 | 61| 
 | 20210125T21:11:07Z | A collection of tools used for exploiting Active Directory and Kerberos. | https://github.com/Pheelbert/ad_exploit_tools | 0 | 0| 
 | 20210125T21:06:12Z | Basic services enumeration and exploitation | https://github.com/dar3k93/Basic-service-enumeration | 0 | 1| 
-| 20210125T20:43:46Z | Null | https://github.com/MTK-bypass/exploits_collection | 13 | 9| 
+| 20210125T19:32:28Z | CVE Documenting Sample | https://github.com/ActorExpose/Exploit | 0 | 0| 
 
 
 # backdoor on Github 推荐

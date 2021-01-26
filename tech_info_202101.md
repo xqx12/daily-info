@@ -90,6 +90,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210126T02:46:36Z | Null | https://github.com/MTK-bypass/exploits_collection | 14 | 10| 
 | 20210126T02:43:48Z | forked version of funtuna, a homebrew ps2 app launcher designed to ease the pain of getting a stable exploit for those that have a console uncompatible with FreeMcBoot that doesnt have a modchip | https://github.com/israpps/Funtuna-Fork | 0 | 0| 
 | 20210126T02:24:30Z | Automated solver of classic CTF pwn challenges, with flexibility in mind. | https://github.com/mariuszskon/autorop | 1 | 0| 
 | 20210126T02:09:00Z | Silice is an open source language that simplifies writing algorithms fully exploiting FPGA architectures. | https://github.com/sylefeb/Silice | 425 | 32| 
@@ -99,7 +100,6 @@
 | 20210126T01:37:41Z | exploit-database-papers | https://github.com/offensive-security/exploitdb-papers | 277 | 39| 
 | 20210126T01:33:49Z | A Cydia Repo | https://github.com/FishExploitsYT/FishExploitsYT.github.io | 0 | 0| 
 | 20210126T01:33:28Z | All I can say is Omoooooo x infinity | https://github.com/IAmMasterCraft/anonytexts-exploit | 0 | 0| 
-| 20210126T01:18:09Z | Fish Exploits Jailbreak Repo | https://github.com/FishExploitsYT/Fish-Repo | 0 | 0| 
 
 
 # backdoor on Github 推荐
