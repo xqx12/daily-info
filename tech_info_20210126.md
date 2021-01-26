@@ -27,6 +27,7 @@
 | 20210126 | 两个有趣的DNS 安全问题研究 | https://xz.aliyun.com/t/9047| 
 | 20210126 | Java安全02-从ClassLoader到冰蝎Java篇 | https://xz.aliyun.com/t/9050| 
 | 20210126 | JavaWeb中的信息泄漏——H2 database | https://www.sec-in.com/article/827| 
+| 20210126 | SSRF安全指北 | https://mp.weixin.qq.com/s/EYVFHgNClgNGrk_92PZ90A| 
 
 
 # CVE Github 推荐
