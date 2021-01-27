@@ -119,16 +119,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210127T13:36:00Z | Operations on fuzzy sets (program implemented as part of programming engineering studies) | https://github.com/Pomianowski/Fuzzy | 0 | 0| 
+| 20210127T13:31:45Z | fuzzy matcher for Vim cmdwin | https://github.com/kuuote/vim-fuzzyhistory | 0 | 0| 
+| 20210127T13:27:08Z | Fuzzing cryptographic libraries. Magic bug printer go brrrr. | https://github.com/guidovranken/cryptofuzz | 234 | 31| 
+| 20210127T13:24:21Z | Bbuzz: a bit-aware network protocol fuzzing and reverse engineering framework | https://github.com/lockout/Bbuzz | 18 | 1| 
+| 20210127T13:23:14Z | 🏆 Collection of bugs uncovered by fuzzing Rust code | https://github.com/rust-fuzz/trophy-case | 217 | 33| 
+| 20210127T13:18:27Z | Using Atheris to fuzz test | https://github.com/ramonmedeiros/fuzz_testing | 0 | 0| 
 | 20210127T13:00:58Z | White-box fuzzer for Java bytecode | https://github.com/vorpal-research/kex | 6 | 5| 
 | 20210127T13:00:45Z | Null | https://github.com/ercoppa-bot/fuzzolic-builder-ci | 0 | 0| 
-| 20210127T12:31:16Z | Fuzzing cryptographic libraries. Magic bug printer go brrrr. | https://github.com/guidovranken/cryptofuzz | 234 | 31| 
 | 20210127T12:20:27Z | SSL and TLS protocol test suite and fuzzer | https://github.com/tlsfuzzer/tlsfuzzer | 330 | 83| 
 | 20210127T11:57:27Z | Null | https://github.com/poli625/Fuzzy_Logic_Heat_Engine | 0 | 0| 
-| 20210127T11:50:42Z | FormatFuzzer is a framework for high-efficiency, high-quality generation and parsing of binary inputs. | https://github.com/uds-se/FormatFuzzer | 115 | 12| 
-| 20210127T11:42:58Z | 搜索工具类;a searching-utils for what you saved | https://github.com/kc910521/MiniSearch | 4 | 0| 
-| 20210127T11:01:54Z | Fuzzer for Pharo | https://github.com/mabdi/phazzer | 0 | 0| 
-| 20210127T11:00:12Z | PoCs discovered through fuzzing | https://github.com/LyleMi/Fuzz-PoC | 2 | 0| 
-| 20210127T10:43:44Z | Personal website of Laurence Hughes | https://github.com/fuzzylogicxx/fuzzylogic | 4 | 1| 
 
 
 
