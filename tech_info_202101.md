@@ -119,16 +119,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210127T02:32:28Z | Human Assisted Fuzzing | https://github.com/crowlc3/HAF | 0 | 0| 
+| 20210127T02:46:39Z | A list of payload and bypass lists for penetration testing and red team infrastructure build. | https://github.com/ffffffff0x/AboutSecurity | 142 | 39| 
+| 20210127T02:44:13Z | Human Assisted Fuzzing | https://github.com/crowlc3/HAF | 0 | 0| 
+| 20210127T02:35:08Z | PoCs discovered through fuzzing | https://github.com/LyleMi/Fuzz-PoC | 2 | 0| 
+| 20210127T02:34:58Z | Sticky Navbar | https://github.com/CornveliousFarva/fuzzy-octo-engine | 0 | 0| 
 | 20210127T02:27:20Z | Scalable fuzzing infrastructure. | https://github.com/google/clusterfuzz | 4424 | 410| 
-| 20210127T02:22:19Z | PoCs discovered through fuzzing | https://github.com/LyleMi/Fuzz-PoC | 2 | 0| 
 | 20210127T02:10:59Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 5817 | 1168| 
 | 20210127T01:56:52Z | generates random values of standard, built-in JavaScript types for fuzz testing | https://github.com/NodeGuy/JavaScript-fuzz | 23 | 6| 
 | 20210127T01:34:55Z | Fuzzy charrs are fuzzy. | https://github.com/marenubium87/FuzzyCharr | 0 | 0| 
 | 20210127T01:21:33Z | ProFuzzBench - A Benchmark for Stateful Protocol Fuzzing | https://github.com/profuzzbench/profuzzbench | 47 | 9| 
 | 20210127T01:19:07Z | FuzzBench - Fuzzer benchmarking as a service. | https://github.com/google/fuzzbench | 588 | 96| 
-| 20210127T01:11:08Z | REST API Fuzz Testing (RAFT): Source code for self-hosted service developed for Azure, including the API, orchestration engine, and default set of security tools (including MSR%s RESTler), that enables developers to embed security tooling into their CI/CD workflows | https://github.com/microsoft/rest-api-fuzz-testing | 93 | 11| 
-| 20210127T00:30:57Z | Fuzzy matching publications for fatcat (wip). | https://github.com/miku/fuzzycat | 1 | 1| 
 
 
 
