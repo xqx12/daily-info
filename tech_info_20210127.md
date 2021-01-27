@@ -75,16 +75,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210127T02:54:52Z | Human Assisted Fuzzing | https://github.com/crowlc3/HAF | 0 | 0| 
-| 20210127T02:46:39Z | A list of payload and bypass lists for penetration testing and red team infrastructure build. | https://github.com/ffffffff0x/AboutSecurity | 142 | 39| 
-| 20210127T02:35:08Z | PoCs discovered through fuzzing | https://github.com/LyleMi/Fuzz-PoC | 2 | 0| 
-| 20210127T02:34:58Z | Sticky Navbar | https://github.com/CornveliousFarva/fuzzy-octo-engine | 0 | 0| 
-| 20210127T02:27:20Z | Scalable fuzzing infrastructure. | https://github.com/google/clusterfuzz | 4424 | 410| 
-| 20210127T02:10:59Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 5817 | 1168| 
-| 20210127T01:56:52Z | generates random values of standard, built-in JavaScript types for fuzz testing | https://github.com/NodeGuy/JavaScript-fuzz | 23 | 6| 
-| 20210127T01:34:55Z | Fuzzy charrs are fuzzy. | https://github.com/marenubium87/FuzzyCharr | 0 | 0| 
-| 20210127T01:21:33Z | ProFuzzBench - A Benchmark for Stateful Protocol Fuzzing | https://github.com/profuzzbench/profuzzbench | 47 | 9| 
-| 20210127T01:19:07Z | FuzzBench - Fuzzer benchmarking as a service. | https://github.com/google/fuzzbench | 588 | 96| 
+| 20210127T13:00:58Z | White-box fuzzer for Java bytecode | https://github.com/vorpal-research/kex | 6 | 5| 
+| 20210127T13:00:45Z | Null | https://github.com/ercoppa-bot/fuzzolic-builder-ci | 0 | 0| 
+| 20210127T12:31:16Z | Fuzzing cryptographic libraries. Magic bug printer go brrrr. | https://github.com/guidovranken/cryptofuzz | 234 | 31| 
+| 20210127T12:20:27Z | SSL and TLS protocol test suite and fuzzer | https://github.com/tlsfuzzer/tlsfuzzer | 330 | 83| 
+| 20210127T11:57:27Z | Null | https://github.com/poli625/Fuzzy_Logic_Heat_Engine | 0 | 0| 
+| 20210127T11:50:42Z | FormatFuzzer is a framework for high-efficiency, high-quality generation and parsing of binary inputs. | https://github.com/uds-se/FormatFuzzer | 115 | 12| 
+| 20210127T11:42:58Z | 搜索工具类;a searching-utils for what you saved | https://github.com/kc910521/MiniSearch | 4 | 0| 
+| 20210127T11:01:54Z | Fuzzer for Pharo | https://github.com/mabdi/phazzer | 0 | 0| 
+| 20210127T11:00:12Z | PoCs discovered through fuzzing | https://github.com/LyleMi/Fuzz-PoC | 2 | 0| 
+| 20210127T10:43:44Z | Personal website of Laurence Hughes | https://github.com/fuzzylogicxx/fuzzylogic | 4 | 1| 
 
 
 
