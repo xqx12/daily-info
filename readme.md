@@ -76,16 +76,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210127T13:50:11Z | fuzzy matcher for Vim cmdwin | https://github.com/kuuote/vim-fuzzyhistory | 0 | 0| 
+| 20210127T13:48:54Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 5819 | 1169| 
 | 20210127T13:46:50Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2253 | 117| 
 | 20210127T13:45:35Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 3322 | 768| 
 | 20210127T13:36:00Z | Operations on fuzzy sets (program implemented as part of programming engineering studies) | https://github.com/Pomianowski/Fuzzy | 0 | 0| 
-| 20210127T13:31:45Z | fuzzy matcher for Vim cmdwin | https://github.com/kuuote/vim-fuzzyhistory | 0 | 0| 
 | 20210127T13:27:08Z | Fuzzing cryptographic libraries. Magic bug printer go brrrr. | https://github.com/guidovranken/cryptofuzz | 234 | 31| 
 | 20210127T13:24:21Z | Bbuzz: a bit-aware network protocol fuzzing and reverse engineering framework | https://github.com/lockout/Bbuzz | 18 | 1| 
 | 20210127T13:23:14Z | 🏆 Collection of bugs uncovered by fuzzing Rust code | https://github.com/rust-fuzz/trophy-case | 217 | 33| 
 | 20210127T13:18:27Z | Using Atheris to fuzz test | https://github.com/ramonmedeiros/fuzz_testing | 0 | 0| 
 | 20210127T13:00:58Z | White-box fuzzer for Java bytecode | https://github.com/vorpal-research/kex | 6 | 5| 
-| 20210127T13:00:45Z | Null | https://github.com/ercoppa-bot/fuzzolic-builder-ci | 0 | 0| 
 
 
 
