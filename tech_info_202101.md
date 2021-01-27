@@ -89,6 +89,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210127T01:10:53Z | Security and Hacking Tools, Exploits, Proof of Concepts, Shellcodes, Scripts. | https://github.com/nullsecuritynet/tools | 1303 | 447| 
 | 20210127T01:02:35Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 1 | 3| 
 | 20210127T00:49:51Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 7 | 4| 
 | 20210127T00:11:47Z | Simple test to call javascript from c# exploiting services.AddNodeServices(); | https://github.com/ducciomugnaini/NodeServices | 0 | 0| 
@@ -98,7 +99,6 @@
 | 20210126T22:36:37Z | Written in Java and Kotlin, Spring is an Android app that exploits a security vulnerability of an Indian music streaming service, allowing anyone to download any song without subscription or decrypt songs that are saved for offline use by subscribed users of that service. | https://github.com/sajalverma17/Spring | 1 | 0| 
 | 20210126T21:59:30Z | I%m not an exploit dev. Just kicking some tires | https://github.com/DarkCasterX/python-virus | 0 | 0| 
 | 20210126T21:49:18Z | The AWS exploitation framework, designed for testing the security of Amazon Web Services environments. | https://github.com/RhinoSecurityLabs/pacu | 1841 | 336| 
-| 20210126T21:26:59Z | Automates searching CVEs in the Metasploit database of exploits.  | https://github.com/ferdinandmudjialim/metasploit-cve-search | 0 | 0| 
 
 
 # backdoor on Github 推荐

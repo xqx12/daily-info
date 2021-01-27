@@ -68,8 +68,8 @@
 | 20210126T21:26:59Z | Automates searching CVEs in the Metasploit database of exploits.  | https://github.com/ferdinandmudjialim/metasploit-cve-search | 0 | 0| 
 | 20210126T21:21:39Z | Vulnerabilities% Risk of Exploitation | https://github.com/thiagofigcosta/V-REx | 0 | 0| 
 | 20210126T20:56:19Z | Vulnerabilities, security advisories, exploit codes and proof-of-concept codes. | https://github.com/zeroscience/advisory | 4 | 4| 
-| 20210126T20:55:55Z | Security and Hacking Tools, Exploits, Proof of Concepts, Shellcodes, Scripts. | https://github.com/nullsecuritynet/tools | 1302 | 447| 
 | 20210126T20:50:50Z | Sécurité des logiciels et exploitation de vulnérabilités | https://github.com/ppepos/inf600c | 2 | 0| 
+| 20210126T20:45:15Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 8932 | 1433| 
 
 
 # backdoor on Github 推荐
