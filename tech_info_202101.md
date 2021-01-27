@@ -6,6 +6,15 @@
 # 玄武实验室 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20210127 | Google 修复 Golang Windows RCE 漏洞（CVE-2021-3115） | https://www.bleepingcomputer.com/news/security/google-fixes-severe-golang-windows-rce-vulnerability/| 
+| 20210127 | Apple 紧急发布 iOS 14.4/iPadOS 14.4，修复 3 个可能已被野外利用的 0Day | https://support.apple.com/en-us/HT212146| 
+| 20210127 | sudo 堆溢出漏洞 CVE-2021-3156 分析 | https://blog.qualys.com/vulnerabilities-research/2021/01/26/cve-2021-3156-heap-based-buffer-overflow-in-sudo-baron-samedit| 
+| 20210127 | The all-in-one Red Team browser extension for Web Pentesters | https://github.com/LasCC/Hack-Tools| 
+| 20210127 | Fill your Boots: Enhanced Embedded BootloaderExploits via Fault Injection and Binary Analysis(Paper) | http://tches.iacr.org/index.php/TCHES/article/view/8727/8327| 
+| 20210127 | 动静态分析的方法检测软件供应链中的 0Day 攻击 | https://ajinabraham.com/blog/detecting-zero-days-in-software-supply-chain-with-static-and-dynamic-analysis| 
+| 20210127 | ZDI 将于 4 月份在温哥华举办 Pwn2Own 2021，比赛的目标及细则公布了 | https://www.thezdi.com/blog/2021/1/25/announcing-pwn2own-vancouver-2021| 
+| 20210127 | Checkpoint 对近期发现的 TikTok 通讯录同步相关的隐私问题的分析 | https://research.checkpoint.com/2021/tiktok-fixes-privacy-issue-discovered-by-check-point-research/| 
+| 20210127 | SSRF 漏洞以及在不同语言中的利用 | https://security.tencent.com/index.php/blog/msg/179| 
 | 20210126 | Android Pentest: Deep Link Exploitation | https://www.hackingarticles.in/android-pentest-deep-link-exploitation/| 
 | 20210126 | Cobalt-Strike 相关的一些工具以及使用 Tips | https://github.com/S1ckB0y1337/Cobalt-Strike-CheatSheet| 
 | 20210126 | Fast web fuzzer written in Go | https://github.com/ffuf/ffuf| 
@@ -17,20 +26,13 @@
 | 20210126 | Creating Security Decision Trees With Graphviz | https://swagitda.com/blog/posts/security-decision-trees-with-graphviz/| 
 | 20210126 | SonicWall厂商调查研究安全移动访问（SMA）100系列硬件中存在的零日漏洞威胁。 | https://threatpost.com/sonicwall-breach-zero-days-in-remote-access/163290/| 
 | 20210125 | 用图的理论从日志中挖掘入侵的行为 | https://github.com/grapl-security/grapl| 
-| 20210125 | AS_REP Roasting vs Kerberoasting | https://luemmelsec.github.io/Kerberoasting-VS-AS-REP-Roasting/| 
-| 20210125 | The Secret Parameter, LFR, and Potential RCE in NodeJS Apps | https://blog.shoebpatel.com/2021/01/23/The-Secret-Parameter-LFR-and-Potential-RCE-in-NodeJS-Apps/| 
-| 20210125 | Proxy QUAKE3 VM calls with Frida | https://azurda.github.io/posts/q3vm-hook/| 
-| 20210125 | 基于 MSSQL 实现内网的横向渗透 | https://research.nccgroup.com/2021/01/21/mssql-lateral-movement/| 
-| 20210125 | 绕过 Google MDM 对 iOS 越狱设备的检测 | https://insinuator.net/2021/01/having-fun-with-google-mdm-solution/| 
-| 20210125 | USB 协议核心概念与实践 | https://evilpan.com/2021/01/24/usb-fun/| 
-| 20210125 | BugHound - 基于 ElasticSearch 用数据挖掘的方法静态检测软件缺陷 | https://shells.systems/unveiling-bughound-a-static-code-analysis-tool-based-on-elasticsearch/| 
-| 20210125 | Windows 7 TCP/IP hijacking | http://blog.pi3.com.pl/?p=850| 
-| 20210124 | JavaScript编程学习30天挑战资源项目。 | https://github.com/Asabeneh/30-Days-Of-JavaScript| 
 
 
 # 安全维基 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20210127 | 从弱口令到拿下站群服务器 | https://www.hetianlab.com/specialized/20210119110943| 
+| 20210127 | 浅谈Springboot中的文件上传 | https://www.sec-in.com/article/836| 
 | 20210126 | 威胁狩猎：基于ELK的日志监控 | https://www.hetianlab.com/specialized/20210125144554| 
 | 20210126 | 浅谈隧道搭建工具之Neo-reGeorg | https://www.anquanke.com/post/id/228917| 
 | 20210126 | 宝塔面板Windows版提权方法 | https://github.com/Hzllaga/BT_Panel_Privilege_Escalation| 
@@ -39,38 +41,36 @@
 | 20210126 | Java安全02-从ClassLoader到冰蝎Java篇 | https://xz.aliyun.com/t/9050| 
 | 20210126 | JavaWeb中的信息泄漏——H2 database | https://www.sec-in.com/article/827| 
 | 20210126 | SSRF安全指北 | https://mp.weixin.qq.com/s/EYVFHgNClgNGrk_92PZ90A| 
-| 20210126 | 信创产业：操作系统深度研究（PPT原文） | https://mp.weixin.qq.com/s/fA1xDbQ9qbV1L2AgitFXdw| 
-| 20210126 | 全球网络反恐格局中的中国力量 | https://mp.weixin.qq.com/s/1dpbZO_rD4GSfaPqjw5Luw| 
 
 
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20210127T03:15:28Z | CVE-2020-14756 | WebLogic T3/IIOP RCE ExternalizableHelper.class of coherence.jar | https://github.com/Y4er/CVE-2020-14756 | Vulnerability in the Oracle Coherence product of Oracle Fusion Middleware (component: Core Components). Supported versions that are affected are 3.7.1.0, 12.1.3.0.0, 12.2.1.3.0, 12.2.1.4.0 and 14.1.1.0.0. Easily exploitable vulnerability allows unauthenticated attacker with network access via IIOP, T3 to compromise Oracle Coherence. Successful attacks of this vulnerability can result in takeover of Oracle Coherence. CVSS 3.1 Base Score 9.8 (Confidentiality, Integrity and Availability impacts). CVSS Vector: (CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H).| 
-| 20210127T02:34:37Z | CVE-2021-3156 | Null | https://github.com/mr-r3b00t/CVE-2021-3156 | Sudo before 1.9.5p2 has a Heap-based Buffer Overflow, allowing privilege escalation to root via %sudoedit -s% and a command-line argument that ends with a single backslash character:| 
+| 20210127T12:56:38Z | CVE-2020-14756 | WebLogic T3/IIOP RCE ExternalizableHelper.class of coherence.jar | https://github.com/Y4er/CVE-2020-14756 | Vulnerability in the Oracle Coherence product of Oracle Fusion Middleware (component: Core Components). Supported versions that are affected are 3.7.1.0, 12.1.3.0.0, 12.2.1.3.0, 12.2.1.4.0 and 14.1.1.0.0. Easily exploitable vulnerability allows unauthenticated attacker with network access via IIOP, T3 to compromise Oracle Coherence. Successful attacks of this vulnerability can result in takeover of Oracle Coherence. CVSS 3.1 Base Score 9.8 (Confidentiality, Integrity and Availability impacts). CVSS Vector: (CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H).| 
+| 20210127T12:52:15Z | CVE-2021-3156 | Null | https://github.com/mr-r3b00t/CVE-2021-3156 | Sudo before 1.9.5p2 has a Heap-based Buffer Overflow, allowing privilege escalation to root via %sudoedit -s% and a command-line argument that ends with a single backslash character:| 
+| 20210127T10:23:27Z | CVE-2021-3129 | Exploit for CVE-2021-3129 | https://github.com/nth347/CVE-2021-3129-exploit | Ignition before 2.5.2, as used in Laravel and other products, allows unauthenticated remote attackers to execute arbitrary code because of insecure usage of file_get_contents() and file_put_contents(). This is exploitable on sites using debug mode with Laravel before 8.4.2.| 
+| 20210127T08:29:37Z | CVE-2021-3129 | Laravel debug rce | https://github.com/SNCKER/CVE-2021-3129 | Ignition before 2.5.2, as used in Laravel and other products, allows unauthenticated remote attackers to execute arbitrary code because of insecure usage of file_get_contents() and file_put_contents(). This is exploitable on sites using debug mode with Laravel before 8.4.2.| 
+| 20210127T06:32:10Z | CVE-2020-14882 | CVE-2020-14882部署冰蝎内存马 | https://github.com/ShmilySec/CVE-2020-14882 | Vulnerability in the Oracle WebLogic Server product of Oracle Fusion Middleware (component: Console). Supported versions that are affected are 10.3.6.0.0, 12.1.3.0.0, 12.2.1.3.0, 12.2.1.4.0 and 14.1.1.0.0. Easily exploitable vulnerability allows unauthenticated attacker with network access via HTTP to compromise Oracle WebLogic Server. Successful attacks of this vulnerability can result in takeover of Oracle WebLogic Server. CVSS 3.1 Base Score 9.8 (Confidentiality, Integrity and Availability impacts). CVSS Vector: (CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H).| 
+| 20210127T06:26:17Z | CVE-2021-3129 | Null | https://github.com/crisprss/Laravel_CVE-2021-3129_EXP | Ignition before 2.5.2, as used in Laravel and other products, allows unauthenticated remote attackers to execute arbitrary code because of insecure usage of file_get_contents() and file_put_contents(). This is exploitable on sites using debug mode with Laravel before 8.4.2.| 
 | 20210127T01:22:30Z | CVE-2020-9484 | Null | https://github.com/AssassinUKG/CVE-2020-9484 | When using Apache Tomcat versions 10.0.0-M1 to 10.0.0-M4, 9.0.0.M1 to 9.0.34, 8.5.0 to 8.5.54 and 7.0.0 to 7.0.103 if a) an attacker is able to control the contents and name of a file on the server; and b) the server is configured to use the PersistenceManager with a FileStore; and c) the PersistenceManager is configured with sessionAttributeValueClassNameFilter=%null% (the default unless a SecurityManager is used) or a sufficiently lax filter to allow the attacker provided object to be deserialized; and d) the attacker knows the relative file path from the storage location used by FileStore to the file the attacker has control over; then, using a specifically crafted request, the attacker will be able to trigger remote code execution via deserialization of the file under their control. Note that all of conditions a) to d) must be true for the attack to succeed.| 
-| 20210126T20:57:26Z | CVE-2021-3129 | Laravel debug rce | https://github.com/SNCKER/CVE-2021-3129 | Ignition before 2.5.2, as used in Laravel and other products, allows unauthenticated remote attackers to execute arbitrary code because of insecure usage of file_get_contents() and file_put_contents(). This is exploitable on sites using debug mode with Laravel before 8.4.2.| 
-| 20210126T19:30:02Z | CVE-2020-8840 | Null | https://github.com/dpredrag/CVE-2020-8840 | FasterXML jackson-databind 2.0.0 through 2.9.10.2 lacks certain xbean-reflect/JNDI blocking, as demonstrated by org.apache.xbean.propertyeditor.JndiConverter.| 
+| 20210126T19:30:02Z | CVE-2020-8840 | Null | https://github.com/dpredrag/CVE-2020-8840 | | 
 | 20210126T14:57:51Z | CVE-2020-11851 | Remote Code Execution vulnerability on ArcSight Logger | https://github.com/ch1nghz/CVE-2020-11851 | Arbitrary code execution vulnerability on Micro Focus ArcSight Logger product, affecting all version prior to 7.1.1. The vulnerability could be remotely exploited resulting in the execution of arbitrary code.| 
 | 20210126T14:31:14Z | CVE-2020-14883 | 用于对WebLogic(10.3.6.0.0 ;12.1.3.0.0 ;12.2.1.3.0; 12.2.1.4.0 ;14.1.1.0.0)进行验证及利用 | https://github.com/fan1029/CVE-2020-14883EXP | Vulnerability in the Oracle WebLogic Server product of Oracle Fusion Middleware (component: Console). Supported versions that are affected are 10.3.6.0.0, 12.1.3.0.0, 12.2.1.3.0, 12.2.1.4.0 and 14.1.1.0.0. Easily exploitable vulnerability allows high privileged attacker with network access via HTTP to compromise Oracle WebLogic Server. Successful attacks of this vulnerability can result in takeover of Oracle WebLogic Server. CVSS 3.1 Base Score 7.2 (Confidentiality, Integrity and Availability impacts). CVSS Vector: (CVSS:3.1/AV:N/AC:L/PR:H/UI:N/S:U/C:H/I:H/A:H).| 
-| 20210125T16:12:02Z | CVE-2021-2109 | CVE-2021-2109 && Weblogic Server RCE via JNDI | https://github.com/Al1ex/CVE-2021-2109 | Vulnerability in the Oracle WebLogic Server product of Oracle Fusion Middleware (component: Console). Supported versions that are affected are 10.3.6.0.0, 12.1.3.0.0, 12.2.1.3.0, 12.2.1.4.0 and 14.1.1.0.0. Easily exploitable vulnerability allows high privileged attacker with network access via HTTP to compromise Oracle WebLogic Server. Successful attacks of this vulnerability can result in takeover of Oracle WebLogic Server. CVSS 3.1 Base Score 7.2 (Confidentiality, Integrity and Availability impacts). CVSS Vector: (CVSS:3.1/AV:N/AC:L/PR:H/UI:N/S:U/C:H/I:H/A:H).| 
-| 20210125T13:24:56Z | CVE-2020-28488 | Denial of Service (DoS) - jQuery UI 1.12.1 - Exploit | https://github.com/rafaelcintralopes/CVE-2020-28488 | This affects all versions of package jquery-ui; all versions of package org.fujion.webjars:jquery-ui. When the %dialog% is injected into an HTML tag more than once, the browser and the application may crash.| 
-| 20210125T12:55:40Z | CVE-2021-3129 | Null | https://github.com/SecPros-Team/laravel-CVE-2021-3129-EXP | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210126T22:28:52Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1617 | 477| 
-| 20210126T17:52:40Z | Null | https://github.com/fontworks-fonts/Klee | 332 | 10| 
+| 20210127T12:52:11Z | Null | https://github.com/kleelab/kleelab.github.io | 0 | 0| 
+| 20210127T10:28:27Z | Null | https://github.com/fontworks-fonts/Klee | 334 | 10| 
+| 20210127T10:25:16Z | Null | https://github.com/jiseongg/klee_experiment | 0 | 0| 
+| 20210127T10:21:46Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1618 | 478| 
 | 20210126T13:41:16Z | Null | https://github.com/klee30810/klee30810.github.io | 0 | 0| 
 | 20210125T12:10:58Z | Null | https://github.com/balabeltmimi/kleeandtheirfriendsbutton | 0 | 0| 
 | 20210125T09:56:25Z | RVT is a collection of tools/libraries to support both static and dynamic verification of Rust programs. | https://github.com/project-oak/rust-verification-tools | 102 | 6| 
-| 20210124T22:00:59Z | Null | https://github.com/kleelab/kleelab.github.io | 0 | 0| 
 | 20210124T21:16:02Z | Null | https://github.com/davidtr1037/klee-aaqc | 1 | 0| 
 | 20210124T10:20:10Z | PROYECTO FINAL | https://github.com/OscarZavaleta23/KLEE-Symbolic-Execution-Engine- | 0 | 0| 
 | 20210124T10:15:50Z | Proyecto final de la materia Lenguajes y Autómatas (COMPILADORES) | https://github.com/Llovas7/Symbolic-Virtual-Machine-Klee | 1 | 0| 
-| 20210124T10:13:50Z | https://drive.google.com/file/d/1AeQOD62-VNszgIps0Hg4UinKkgOR52AW/view?usp=drivesdk | https://github.com/Daniel-28lv/klee | 0 | 0| 
 
 
 # s2e on Github 推荐
@@ -89,16 +89,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210127T03:18:15Z | Scans & Exploits | https://github.com/Gutem/scans-exploits | 1 | 0| 
-| 20210127T03:14:02Z | forked version of funtuna, a homebrew ps2 app launcher designed to ease the pain of getting a stable exploit for those that have a console uncompatible with FreeMcBoot that doesnt have a modchip | https://github.com/israpps/Funtuna-Fork | 0 | 0| 
-| 20210127T03:02:33Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 1 | 3| 
-| 20210127T01:37:43Z | exploit-database-papers | https://github.com/offensive-security/exploitdb-papers | 277 | 39| 
-| 20210127T01:12:05Z | !!!WORLD%S 🌍 #1🥇 TOR HACKING SUITE!!! Designed to scan and exploit vulnerabilities within Tor hidden services. Vigilante allows most tools to work as normal while resolving .onion  | https://github.com/MBHudson/Vigilante-Toolset | 15 | 7| 
-| 20210127T01:10:53Z | Security and Hacking Tools, Exploits, Proof of Concepts, Shellcodes, Scripts. | https://github.com/nullsecuritynet/tools | 1303 | 447| 
-| 20210127T00:49:51Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 7 | 4| 
-| 20210127T00:11:47Z | Simple test to call javascript from c# exploiting services.AddNodeServices(); | https://github.com/ducciomugnaini/NodeServices | 0 | 0| 
-| 20210127T00:00:21Z | Null | https://github.com/MTK-bypass/exploits_collection | 22 | 13| 
-| 20210126T23:55:27Z | Thi powershell script has got to run in remote windows host, even for pivoting | https://github.com/FabioDefilippo/winallenum | 0 | 1| 
+| 20210127T13:00:51Z | A tool to identify and exploit sudo rules% misconfigurations and vulnerabilities within sudo | https://github.com/TH3xACE/SUDO_KILLER | 953 | 131| 
+| 20210127T12:49:53Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 7 | 4| 
+| 20210127T12:38:21Z | Null | https://github.com/MTK-bypass/exploits_collection | 29 | 14| 
+| 20210127T12:14:40Z | Exploitation Framework for Embedded Devices | https://github.com/threat9/routersploit | 8931 | 1970| 
+| 20210127T12:11:47Z | Just a temporary website to post my ctf writeups and journey into binary exploitation/malware analysis/exploit development | https://github.com/blackbeard666/blackbeard666.github.io | 0 | 0| 
+| 20210127T12:02:44Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 1 | 3| 
+| 20210127T11:41:49Z | Exploits backed up from http://1337day.com in the 2011 | https://github.com/SourceCodeBackup/exploits-backup | 17 | 8| 
+| 20210127T11:35:16Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 8934 | 1433| 
+| 20210127T10:56:47Z | PoCs for public CVE%s I have been working on. | https://github.com/lockedbyte/CVE-Exploits | 2 | 0| 
+| 20210127T10:52:05Z | Geohazards Thematic Exploitation guide | https://github.com/Terradue/doc-tep-geohazards | 9 | 23| 
 
 
 # backdoor on Github 推荐
