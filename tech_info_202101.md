@@ -119,7 +119,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210127T02:52:53Z | Human Assisted Fuzzing | https://github.com/crowlc3/HAF | 0 | 0| 
+| 20210127T02:54:52Z | Human Assisted Fuzzing | https://github.com/crowlc3/HAF | 0 | 0| 
 | 20210127T02:46:39Z | A list of payload and bypass lists for penetration testing and red team infrastructure build. | https://github.com/ffffffff0x/AboutSecurity | 142 | 39| 
 | 20210127T02:35:08Z | PoCs discovered through fuzzing | https://github.com/LyleMi/Fuzz-PoC | 2 | 0| 
 | 20210127T02:34:58Z | Sticky Navbar | https://github.com/CornveliousFarva/fuzzy-octo-engine | 0 | 0| 
