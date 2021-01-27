@@ -68,6 +68,8 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210127T09:40:57Z | Undetectable & Xor encrypting with custom KEY (FUD Metasploit Rat) bypass Top Antivirus like BitDefender,Malwarebytes,Avast,ESET-NOD32,AVG,... & Automatically Add ICON and MANIFEST to excitable | https://github.com/persianhydra/Xeexe-TopAntivirusEvasion | 271 | 76| 
+| 20210127T08:52:23Z | Worlds simplest PHP backdoor | https://github.com/F-Masood/php-backdoors | 0 | 0| 
 
 
 # fuzz on Github 推荐

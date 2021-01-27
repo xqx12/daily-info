@@ -104,6 +104,8 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210127T09:40:57Z | Undetectable & Xor encrypting with custom KEY (FUD Metasploit Rat) bypass Top Antivirus like BitDefender,Malwarebytes,Avast,ESET-NOD32,AVG,... & Automatically Add ICON and MANIFEST to excitable | https://github.com/persianhydra/Xeexe-TopAntivirusEvasion | 271 | 76| 
+| 20210127T08:52:23Z | Worlds simplest PHP backdoor | https://github.com/F-Masood/php-backdoors | 0 | 0| 
 | 20210126T21:02:08Z | A Kotlin program used to analyse and discover backdoors in Minecraft Java 1.12.2 forge mods | https://github.com/Tigermouthbear/Theia | 69 | 8| 
 | 20210126T19:34:24Z | Null | https://github.com/jorick93/opdracht_Backdoor | 0 | 0| 
 | 20210126T19:28:46Z | Dashboard for conducting Backdoors and Breaches sessions over Zoom. | https://github.com/p3hndrx/B-B-Shuffle | 1 | 0| 
@@ -112,8 +114,6 @@
 | 20210126T15:26:58Z | Null | https://github.com/GoldenPalazzo/docker-backdoor-factory | 0 | 0| 
 | 20210126T12:23:18Z | Simple Backdoor Hacking Tool | https://github.com/Mamun-Al-Babu-Shikder/Hacking-Tool | 0 | 0| 
 | 20210126T11:36:22Z | Null | https://github.com/rabbitx1337/backdoor | 0 | 0| 
-| 20210126T07:29:42Z | Null | https://github.com/Pytools786/backdoor_trojan | 0 | 0| 
-| 20210126T06:38:15Z | A backdoor with a multitude of features. | https://github.com/thatcherclough/BetterBackdoor | 188 | 61| 
 
 
 # fuzz on Github 推荐
