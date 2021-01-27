@@ -36,8 +36,8 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20210126T20:57:26Z | CVE-2021-3129 | Laravel debug rce | https://github.com/SNCKER/CVE-2021-3129 | | 
-| 20210126T19:30:02Z | CVE-2020-8840 | Null | https://github.com/dpredrag/CVE-2020-8840 | FasterXML jackson-databind 2.0.0 through 2.9.10.2 lacks certain xbean-reflect/JNDI blocking, as demonstrated by org.apache.xbean.propertyeditor.JndiConverter.| 
+| 20210126T20:57:26Z | CVE-2021-3129 | Laravel debug rce | https://github.com/SNCKER/CVE-2021-3129 | Ignition before 2.5.2, as used in Laravel and other products, allows unauthenticated remote attackers to execute arbitrary code because of insecure usage of file_get_contents() and file_put_contents(). This is exploitable on sites using debug mode with Laravel before 8.4.2.| 
+| 20210126T19:30:02Z | CVE-2020-8840 | Null | https://github.com/dpredrag/CVE-2020-8840 | | 
 | 20210126T14:57:51Z | CVE-2020-11851 | Remote Code Execution vulnerability on ArcSight Logger | https://github.com/ch1nghz/CVE-2020-11851 | Arbitrary code execution vulnerability on Micro Focus ArcSight Logger product, affecting all version prior to 7.1.1. The vulnerability could be remotely exploited resulting in the execution of arbitrary code.| 
 | 20210126T14:31:14Z | CVE-2020-14883 | 用于对WebLogic(10.3.6.0.0 ;12.1.3.0.0 ;12.2.1.3.0; 12.2.1.4.0 ;14.1.1.0.0)进行验证及利用 | https://github.com/fan1029/CVE-2020-14883EXP | Vulnerability in the Oracle WebLogic Server product of Oracle Fusion Middleware (component: Console). Supported versions that are affected are 10.3.6.0.0, 12.1.3.0.0, 12.2.1.3.0, 12.2.1.4.0 and 14.1.1.0.0. Easily exploitable vulnerability allows high privileged attacker with network access via HTTP to compromise Oracle WebLogic Server. Successful attacks of this vulnerability can result in takeover of Oracle WebLogic Server. CVSS 3.1 Base Score 7.2 (Confidentiality, Integrity and Availability impacts). CVSS Vector: (CVSS:3.1/AV:N/AC:L/PR:H/UI:N/S:U/C:H/I:H/A:H).| 
 
@@ -89,16 +89,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210126T23:53:59Z | Operations on fuzzy sets (program implemented as part of programming engineering studies) | https://github.com/Pomianowski/Fuzzy | 0 | 0| 
+| 20210126T23:21:31Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2253 | 116| 
+| 20210126T23:17:34Z | A test go repo | https://github.com/bnwhorton/fuzzy-carnival | 0 | 0| 
+| 20210126T22:56:43Z | Personal website of Laurence Hughes | https://github.com/fuzzylogicxx/fuzzylogic | 4 | 1| 
+| 20210126T22:41:24Z | Bazel Starlark extensions for defining fuzz tests in Bazel projects | https://github.com/bazelbuild/rules_fuzzing | 8 | 2| 
+| 20210126T22:29:37Z | Diverse, the Fuzzer pico library you need to make your .NET tests more Diverse | https://github.com/42skillz/Diverse | 9 | 3| 
 | 20210126T13:24:29Z | 搜索工具类;a searching-utils for what you saved | https://github.com/kc910521/MiniSearch | 4 | 0| 
 | 20210126T13:19:13Z | Null | https://github.com/richardvogg/fuzzymatch | 0 | 0| 
 | 20210126T13:10:41Z | Using Atheris to fuzz test | https://github.com/ramonmedeiros/fuzz_testing | 0 | 0| 
 | 20210126T13:07:10Z | White-box fuzzer for Java bytecode | https://github.com/vorpal-research/kex | 6 | 5| 
-| 20210126T12:57:49Z | Null | https://github.com/codesoverflow/fuzzy-search-hi-en-transliterate | 0 | 0| 
-| 20210126T12:04:19Z | Null | https://github.com/SubhiJleilaty/FuzzyLogicRobotics-soem | 0 | 0| 
-| 20210126T11:56:12Z | Null | https://github.com/Juanosorio94/fuzzing-rdma | 0 | 0| 
-| 20210126T11:55:45Z | library for fuzzy search | https://github.com/AlfredDaimari/fuzz-search-js | 0 | 0| 
-| 20210126T11:31:19Z | 📨 Email template generator. Making emails fun again. | https://github.com/luangjokaj/fuzzymail | 110 | 4| 
-| 20210126T11:04:10Z | Rockyou for web fuzzing | https://github.com/six2dez/OneListForAll | 169 | 31| 
 
 
 
