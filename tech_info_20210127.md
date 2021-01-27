@@ -53,12 +53,12 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210127T13:00:51Z | A tool to identify and exploit sudo rules% misconfigurations and vulnerabilities within sudo | https://github.com/TH3xACE/SUDO_KILLER | 953 | 131| 
+| 20210127T13:02:32Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 1 | 3| 
+| 20210127T13:02:20Z | A tool to identify and exploit sudo rules% misconfigurations and vulnerabilities within sudo | https://github.com/TH3xACE/SUDO_KILLER | 954 | 131| 
 | 20210127T12:49:53Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 7 | 4| 
 | 20210127T12:38:21Z | Null | https://github.com/MTK-bypass/exploits_collection | 29 | 14| 
 | 20210127T12:14:40Z | Exploitation Framework for Embedded Devices | https://github.com/threat9/routersploit | 8931 | 1970| 
 | 20210127T12:11:47Z | Just a temporary website to post my ctf writeups and journey into binary exploitation/malware analysis/exploit development | https://github.com/blackbeard666/blackbeard666.github.io | 0 | 0| 
-| 20210127T12:02:44Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 1 | 3| 
 | 20210127T11:41:49Z | Exploits backed up from http://1337day.com in the 2011 | https://github.com/SourceCodeBackup/exploits-backup | 17 | 8| 
 | 20210127T11:35:16Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 8934 | 1433| 
 | 20210127T10:56:47Z | PoCs for public CVE%s I have been working on. | https://github.com/lockedbyte/CVE-Exploits | 2 | 0| 
