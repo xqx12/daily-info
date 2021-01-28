@@ -77,7 +77,9 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210127T13:28:23Z | This is just for me ok! | https://github.com/GetRektBoy724/sementara | 1 | 0| 
+| 20210127T22:17:45Z | Analysis of SunBurst (SolarWinds) embedded backdoor | https://github.com/conikeec/sunburst-analysis | 1 | 1| 
+| 20210127T21:33:03Z | Null | https://github.com/mikkelskov1/backdoor2 | 0 | 0| 
+| 20210127T14:32:57Z | This is just for me ok! | https://github.com/GetRektBoy724/sementara | 1 | 0| 
 | 20210127T09:40:57Z | Undetectable & Xor encrypting with custom KEY (FUD Metasploit Rat) bypass Top Antivirus like BitDefender,Malwarebytes,Avast,ESET-NOD32,AVG,... & Automatically Add ICON and MANIFEST to excitable | https://github.com/persianhydra/Xeexe-TopAntivirusEvasion | 271 | 76| 
 | 20210127T08:52:23Z | Worlds simplest PHP backdoor | https://github.com/F-Masood/php-backdoors | 0 | 0| 
 
@@ -85,16 +87,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210127T14:00:01Z | Operations on fuzzy sets (program implemented as part of programming engineering studies) | https://github.com/Pomianowski/Fuzzy | 0 | 0| 
-| 20210127T13:50:11Z | fuzzy matcher for Vim cmdwin | https://github.com/kuuote/vim-fuzzyhistory | 0 | 0| 
-| 20210127T13:48:54Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 5819 | 1169| 
-| 20210127T13:46:50Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2253 | 117| 
-| 20210127T13:45:35Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 3322 | 769| 
-| 20210127T13:27:08Z | Fuzzing cryptographic libraries. Magic bug printer go brrrr. | https://github.com/guidovranken/cryptofuzz | 234 | 31| 
-| 20210127T13:24:21Z | Bbuzz: a bit-aware network protocol fuzzing and reverse engineering framework | https://github.com/lockout/Bbuzz | 18 | 1| 
-| 20210127T13:23:14Z | 🏆 Collection of bugs uncovered by fuzzing Rust code | https://github.com/rust-fuzz/trophy-case | 217 | 33| 
-| 20210127T13:18:27Z | Using Atheris to fuzz test | https://github.com/ramonmedeiros/fuzz_testing | 0 | 0| 
-| 20210127T13:00:58Z | White-box fuzzer for Java bytecode | https://github.com/vorpal-research/kex | 6 | 5| 
+| 20210127T23:51:42Z | Null | https://github.com/magic8347/fuzzy-octo-enigma | 0 | 0| 
+| 20210127T23:18:36Z | A differential fuzzer for x86 decoders | https://github.com/trailofbits/mishegos | 124 | 17| 
+| 20210127T22:02:24Z | Seminarski rad iz predmeta Računarska Inteligencija na Matematičkom fakultetu. | https://github.com/djanluka/FuzzyClassification | 0 | 0| 
+| 20210127T21:58:56Z | Generate code for json encoders/decoders, codecs, fuzzers, generators, and more | https://github.com/MartinSStewart/elm-review-todo-it-for-me | 0 | 0| 
+| 20210127T21:58:32Z | FuzzBench - Fuzzer benchmarking as a service. | https://github.com/google/fuzzbench | 589 | 97| 
+| 20210127T21:49:06Z | Scalable fuzzing infrastructure. | https://github.com/google/clusterfuzz | 4424 | 410| 
+| 20210127T21:38:50Z | To make fuzzing Rust easy | https://github.com/smoelius/test-fuzz | 0 | 0| 
+| 20210127T21:17:49Z | Null | https://github.com/tonight84575/fuzzy-waddle | 0 | 0| 
+| 20210127T21:14:15Z | Null | https://github.com/mujianahkintor/fuzzy-telegram | 0 | 0| 
+| 20210127T21:11:37Z | Null | https://github.com/Sentinel-One/efi_fuzz | 60 | 7| 
 
 
 
