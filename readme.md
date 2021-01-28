@@ -15,6 +15,8 @@
 | 20210127 | ZDI 将于 4 月份在温哥华举办 Pwn2Own 2021，比赛的目标及细则公布了 | https://www.thezdi.com/blog/2021/1/25/announcing-pwn2own-vancouver-2021| 
 | 20210127 | Checkpoint 对近期发现的 TikTok 通讯录同步相关的隐私问题的分析 | https://research.checkpoint.com/2021/tiktok-fixes-privacy-issue-discovered-by-check-point-research/| 
 | 20210127 | SSRF 漏洞以及在不同语言中的利用 | https://security.tencent.com/index.php/blog/msg/179| 
+| 20210127 | 为Hyper-V“网桥”进行模糊测试-第1部分：Windows Driver Foundation（WDF）编写硬件驱动程序介绍。 | https://www.alex-ionescu.com/?p=377| 
+| 20210127 | 当黑客不讲武德之国内安全专家也容易被社工分析研究。 | https://paper.seebug.org/1471/| 
 
 
 # 安全维基 推荐
@@ -22,13 +24,19 @@
 | --- | --- | ---| 
 | 20210127 | 从弱口令到拿下站群服务器 | https://www.hetianlab.com/specialized/20210119110943| 
 | 20210127 | 浅谈Springboot中的文件上传 | https://www.sec-in.com/article/836| 
+| 20210127 | 自动化的攻击溯源之痛 ：数据获取与关联的困惑 | https://mp.weixin.qq.com/s/dJDHLvJOGVPQB1cfTayX9w| 
+| 20210127 | 如何开源手动挖掘LinkedIn领英 | https://mp.weixin.qq.com/s/mtQ40m7qLayUDxgmWgsWPw| 
+| 20210127 | 互联网产品数据与隐私合规审查要点 | https://mp.weixin.qq.com/s/m_8Y3x-DzoWNwU8tBT-ENw| 
+| 20210127 | 一次挖矿入侵处理记录 | https://github.com/bg6cq/ITTS/blob/master/security/mine/README.md| 
 
 
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20210127T12:56:38Z | CVE-2020-14756 | WebLogic T3/IIOP RCE ExternalizableHelper.class of coherence.jar | https://github.com/Y4er/CVE-2020-14756 | | 
-| 20210127T12:52:15Z | CVE-2021-3156 | Null | https://github.com/mr-r3b00t/CVE-2021-3156 | Sudo before 1.9.5p2 has a Heap-based Buffer Overflow, allowing privilege escalation to root via %sudoedit -s% and a command-line argument that ends with a single backslash character:| 
+| 20210127T23:20:37Z | CVE-2021-3156 | CVE-2021-3156 | https://github.com/reverse-ex/CVE-2021-3156 | Sudo before 1.9.5p2 has a Heap-based Buffer Overflow, allowing privilege escalation to root via %sudoedit -s% and a command-line argument that ends with a single backslash character:| 
+| 20210127T22:16:53Z | CVE-2021-3156 | This simple bash script will patch the recently discovered sudo heap overflow vulnerability. | https://github.com/elbee-cyber/CVE-2021-3156-PATCHER | Sudo before 1.9.5p2 has a Heap-based Buffer Overflow, allowing privilege escalation to root via %sudoedit -s% and a command-line argument that ends with a single backslash character:| 
+| 20210127T21:16:52Z | CVE-2021-3156 | CVE-2021-3156 | https://github.com/ymrsmns/CVE-2021-3156 | Sudo before 1.9.5p2 has a Heap-based Buffer Overflow, allowing privilege escalation to root via %sudoedit -s% and a command-line argument that ends with a single backslash character:| 
+| 20210127T18:21:50Z | cve-2021-3156 | Null | https://github.com/nexcess/sudo_cve-2021-3156 | 未查询到CVE信息| 
 | 20210127T10:23:27Z | CVE-2021-3129 | Exploit for CVE-2021-3129 | https://github.com/nth347/CVE-2021-3129-exploit | Ignition before 2.5.2, as used in Laravel and other products, allows unauthenticated remote attackers to execute arbitrary code because of insecure usage of file_get_contents() and file_put_contents(). This is exploitable on sites using debug mode with Laravel before 8.4.2.| 
 | 20210127T08:29:37Z | CVE-2021-3129 | Laravel debug rce | https://github.com/SNCKER/CVE-2021-3129 | Ignition before 2.5.2, as used in Laravel and other products, allows unauthenticated remote attackers to execute arbitrary code because of insecure usage of file_get_contents() and file_put_contents(). This is exploitable on sites using debug mode with Laravel before 8.4.2.| 
 | 20210127T06:32:10Z | CVE-2020-14882 | CVE-2020-14882部署冰蝎内存马 | https://github.com/ShmilySec/CVE-2020-14882 | Vulnerability in the Oracle WebLogic Server product of Oracle Fusion Middleware (component: Console). Supported versions that are affected are 10.3.6.0.0, 12.1.3.0.0, 12.2.1.3.0, 12.2.1.4.0 and 14.1.1.0.0. Easily exploitable vulnerability allows unauthenticated attacker with network access via HTTP to compromise Oracle WebLogic Server. Successful attacks of this vulnerability can result in takeover of Oracle WebLogic Server. CVSS 3.1 Base Score 9.8 (Confidentiality, Integrity and Availability impacts). CVSS Vector: (CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H).| 
@@ -39,10 +47,11 @@
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210127T22:52:40Z | Null | https://github.com/klee30810/klee30810.github.io | 0 | 0| 
+| 20210127T15:26:16Z | Null | https://github.com/jiseongg/klee_experiment | 0 | 0| 
+| 20210127T15:25:22Z | Null | https://github.com/fontworks-fonts/Klee | 335 | 10| 
 | 20210127T13:43:29Z | Null | https://github.com/kleelab/kleelab.github.io | 0 | 0| 
-| 20210127T10:28:27Z | Null | https://github.com/fontworks-fonts/Klee | 334 | 10| 
-| 20210127T10:25:16Z | Null | https://github.com/jiseongg/klee_experiment | 0 | 0| 
-| 20210127T10:21:46Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1618 | 478| 
+| 20210127T10:21:46Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1618 | 479| 
 
 
 # s2e on Github 推荐
@@ -53,16 +62,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210127T13:27:27Z | Exploitation Framework for Embedded Devices | https://github.com/threat9/routersploit | 8932 | 1970| 
-| 20210127T13:09:59Z | application d%analyse de la trésorerie des exploitations agricoles tunisiennes | https://github.com/agrarian-systems-consulting/endagri-front | 0 | 0| 
-| 20210127T13:02:32Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 1 | 3| 
-| 20210127T13:02:20Z | A tool to identify and exploit sudo rules% misconfigurations and vulnerabilities within sudo | https://github.com/TH3xACE/SUDO_KILLER | 954 | 131| 
-| 20210127T12:49:53Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 7 | 4| 
-| 20210127T12:38:21Z | Null | https://github.com/MTK-bypass/exploits_collection | 29 | 14| 
-| 20210127T12:11:47Z | Just a temporary website to post my ctf writeups and journey into binary exploitation/malware analysis/exploit development | https://github.com/blackbeard666/blackbeard666.github.io | 0 | 0| 
-| 20210127T11:41:49Z | Exploits backed up from http://1337day.com in the 2011 | https://github.com/SourceCodeBackup/exploits-backup | 17 | 8| 
-| 20210127T11:35:16Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 8934 | 1432| 
-| 20210127T10:56:47Z | PoCs for public CVE%s I have been working on. | https://github.com/lockedbyte/CVE-Exploits | 2 | 0| 
+| 20210127T23:49:00Z | This project exploited data generated using the Spotify API, in order to classify songs by their musical genre and to predict the popularity of a song by analysing its features | https://github.com/Louis-Bahrman/Spotify-Data-Analysis | 0 | 0| 
+| 20210127T22:57:30Z | This bash script will help you to hack remote hosts  | https://github.com/FabioDefilippo/linuxallremote | 4 | 1| 
+| 20210127T22:53:11Z | binary-exploitation-dev | https://github.com/EvaLovlac3/binary-exploitation-dev | 0 | 0| 
+| 20210127T22:24:02Z | Null | https://github.com/MTK-bypass/exploits_collection | 29 | 17| 
+| 20210127T22:18:15Z | Thi powershell script has got to run in remote windows host, even for pivoting | https://github.com/FabioDefilippo/winallenum | 0 | 1| 
+| 20210127T22:03:50Z | Old and new CTFs about Linux kernel exploitation. | https://github.com/MaherAzzouzi/LinuxKernelExploitation | 1 | 0| 
+| 20210127T21:28:55Z | Penetration testing / Exploitation framework | https://github.com/Ret2LC/BetterSploit | 3 | 1| 
+| 20210127T21:23:36Z | Null | https://github.com/th3ken-dev/TH3KEN-EDITON | 2 | 0| 
+| 20210127T20:19:30Z | Vulnerabilities% Risk of Exploitation | https://github.com/thiagofigcosta/V-REx | 0 | 0| 
+| 20210127T20:12:44Z | A roblox exploit. | https://github.com/Eren-Bey/KingSploit-X | 0 | 0| 
 
 
 # backdoor on Github 推荐
