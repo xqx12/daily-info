@@ -46,8 +46,8 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20210128T02:21:56Z | cve-2021-3156 | cve-2021-3156;sudo堆溢出漏洞；漏洞检测 | https://github.com/yaunsky/cve-2021-3156 | 未查询到CVE信息| 
 | 20210128T02:20:37Z | CVE-2021-3156 | 1day research effort | https://github.com/kernelzeroday/CVE-2021-3156-Baron-Samedit | Sudo before 1.9.5p2 has a Heap-based Buffer Overflow, allowing privilege escalation to root via %sudoedit -s% and a command-line argument that ends with a single backslash character:| 
-| 20210128T02:20:24Z | cve-2021-3156 | cve-2021-3156;sudo堆溢出漏洞；漏洞检测 | https://github.com/yaunsky/cve-2021-3156 | 未查询到CVE信息| 
 | 20210128T02:19:27Z | CVE-2021-3156 | This simple bash script will patch the recently discovered sudo heap overflow vulnerability. | https://github.com/elbee-cyber/CVE-2021-3156-PATCHER | Sudo before 1.9.5p2 has a Heap-based Buffer Overflow, allowing privilege escalation to root via %sudoedit -s% and a command-line argument that ends with a single backslash character:| 
 | 20210128T02:18:22Z | CVE-2021-3156 | Null | https://github.com/Serpentiel/CVE-2021-3156 | Sudo before 1.9.5p2 has a Heap-based Buffer Overflow, allowing privilege escalation to root via %sudoedit -s% and a command-line argument that ends with a single backslash character:| 
 | 20210128T02:16:45Z | CVE-2021-3156 | Null | https://github.com/mr-r3b00t/CVE-2021-3156 | Sudo before 1.9.5p2 has a Heap-based Buffer Overflow, allowing privilege escalation to root via %sudoedit -s% and a command-line argument that ends with a single backslash character:| 
