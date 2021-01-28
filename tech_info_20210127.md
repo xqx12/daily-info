@@ -63,7 +63,6 @@
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
 | 20210127T23:49:00Z | This project exploited data generated using the Spotify API, in order to classify songs by their musical genre and to predict the popularity of a song by analysing its features | https://github.com/Louis-Bahrman/Spotify-Data-Analysis | 0 | 0| 
-| 20210127T22:57:30Z | This bash script will help you to hack remote hosts  | https://github.com/FabioDefilippo/linuxallremote | 4 | 1| 
 | 20210127T22:53:11Z | binary-exploitation-dev | https://github.com/EvaLovlac3/binary-exploitation-dev | 0 | 0| 
 | 20210127T22:24:02Z | Null | https://github.com/MTK-bypass/exploits_collection | 29 | 17| 
 | 20210127T22:18:15Z | Thi powershell script has got to run in remote windows host, even for pivoting | https://github.com/FabioDefilippo/winallenum | 0 | 1| 
@@ -72,6 +71,7 @@
 | 20210127T21:23:36Z | Null | https://github.com/th3ken-dev/TH3KEN-EDITON | 2 | 0| 
 | 20210127T20:19:30Z | Vulnerabilities% Risk of Exploitation | https://github.com/thiagofigcosta/V-REx | 0 | 0| 
 | 20210127T20:12:44Z | A roblox exploit. | https://github.com/Eren-Bey/KingSploit-X | 0 | 0| 
+| 20210127T20:08:02Z | Development of code to exploit LSST and VISTA imaging | https://github.com/lsst-uk/lsst-ir-fusion | 0 | 0| 
 
 
 # backdoor on Github 推荐
