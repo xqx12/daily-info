@@ -47,7 +47,7 @@
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
 | 20210128T13:06:42Z | CVE-2021-3156 | CVE-2021-3156 | https://github.com/reverse-ex/CVE-2021-3156 | Sudo before 1.9.5p2 has a Heap-based Buffer Overflow, allowing privilege escalation to root via %sudoedit -s% and a command-line argument that ends with a single backslash character.| 
-| 20210128T13:02:32Z | CVE-2021-3156 | Null | https://github.com/Serpentiel/CVE-2021-3156 | | 
+| 20210128T13:02:32Z | CVE-2021-3156 | Null | https://github.com/Serpentiel/CVE-2021-3156 | Sudo before 1.9.5p2 has a Heap-based Buffer Overflow, allowing privilege escalation to root via %sudoedit -s% and a command-line argument that ends with a single backslash character.| 
 | 20210128T12:12:37Z | CVE-2021-3156 | Null | https://github.com/mr-r3b00t/CVE-2021-3156 | Sudo before 1.9.5p2 has a Heap-based Buffer Overflow, allowing privilege escalation to root via %sudoedit -s% and a command-line argument that ends with a single backslash character.| 
 | 20210128T11:36:18Z | CVE-2021-3156 | 1day research effort | https://github.com/kernelzeroday/CVE-2021-3156-Baron-Samedit | Sudo before 1.9.5p2 has a Heap-based Buffer Overflow, allowing privilege escalation to root via %sudoedit -s% and a command-line argument that ends with a single backslash character.| 
 | 20210128T11:31:04Z | cve-2020-15227 | Tester for a vulnerability CVE-2020-15227 found in nette/application and nette/nette | https://github.com/VottusCode/cve-2020-15227 | 未查询到CVE信息| 
@@ -119,8 +119,8 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210128T13:21:30Z | A fuzzer for various top-level await bundling strategies | https://github.com/evanw/tla-fuzzer | 15 | 0| 
 | 20210128T13:13:00Z | This tool uses fzf(1)-like fuzzy-finder to do partial or fuzzy search of Kubernetes resources. Instead of specifying full resource names to kubectl commands, you can choose them from an interactive list that you can filter by typing a few characters. | https://github.com/d-kuro/kubectl-fuzzy | 74 | 9| 
-| 20210128T12:27:48Z | A fuzzer for various top-level await bundling strategies | https://github.com/evanw/tla-fuzzer | 14 | 0| 
 | 20210128T12:25:34Z | Weather Forecast which is implemented by using Fuzzy Logic System (scikit-fuzzy) | https://github.com/lokcies/weather-forecast-fuzzy | 0 | 0| 
 | 20210128T12:13:38Z | Some work done on LeNet and PyGAN in my free time. | https://github.com/DevChuriwala/FuzzyAdventure | 0 | 0| 
 | 20210128T12:10:50Z | 针对小型应用服务搜索场景的工具包（也可部署为 独立服务） | https://github.com/kc910521/MiniSearch | 4 | 0| 
