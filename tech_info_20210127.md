@@ -33,7 +33,6 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20210127T23:20:37Z | CVE-2021-3156 | CVE-2021-3156 | https://github.com/reverse-ex/CVE-2021-3156 | Sudo before 1.9.5p2 has a Heap-based Buffer Overflow, allowing privilege escalation to root via %sudoedit -s% and a command-line argument that ends with a single backslash character:| 
 | 20210127T21:16:52Z | CVE-2021-3156 | CVE-2021-3156 | https://github.com/ymrsmns/CVE-2021-3156 | Sudo before 1.9.5p2 has a Heap-based Buffer Overflow, allowing privilege escalation to root via %sudoedit -s% and a command-line argument that ends with a single backslash character:| 
 | 20210127T18:21:50Z | cve-2021-3156 | Null | https://github.com/nexcess/sudo_cve-2021-3156 | 未查询到CVE信息| 
 | 20210127T10:23:27Z | CVE-2021-3129 | Exploit for CVE-2021-3129 | https://github.com/nth347/CVE-2021-3129-exploit | Ignition before 2.5.2, as used in Laravel and other products, allows unauthenticated remote attackers to execute arbitrary code because of insecure usage of file_get_contents() and file_put_contents(). This is exploitable on sites using debug mode with Laravel before 8.4.2.| 
