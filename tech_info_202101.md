@@ -51,10 +51,10 @@
 | 20210128T00:40:18Z | CVE-2021-3156 | Null | https://github.com/Serpentiel/CVE-2021-3156 | Sudo before 1.9.5p2 has a Heap-based Buffer Overflow, allowing privilege escalation to root via %sudoedit -s% and a command-line argument that ends with a single backslash character:| 
 | 20210127T23:20:37Z | CVE-2021-3156 | CVE-2021-3156 | https://github.com/reverse-ex/CVE-2021-3156 | Sudo before 1.9.5p2 has a Heap-based Buffer Overflow, allowing privilege escalation to root via %sudoedit -s% and a command-line argument that ends with a single backslash character:| 
 | 20210127T22:16:53Z | CVE-2021-3156 | This simple bash script will patch the recently discovered sudo heap overflow vulnerability. | https://github.com/elbee-cyber/CVE-2021-3156-PATCHER | Sudo before 1.9.5p2 has a Heap-based Buffer Overflow, allowing privilege escalation to root via %sudoedit -s% and a command-line argument that ends with a single backslash character:| 
-| 20210127T21:16:52Z | CVE-2021-3156 | CVE-2021-3156 | https://github.com/ymrsmns/CVE-2021-3156 | | 
-| 20210127T18:21:50Z | cve-2021-3156 | Null | https://github.com/nexcess/sudo_cve-2021-3156 | | 
+| 20210127T21:16:52Z | CVE-2021-3156 | CVE-2021-3156 | https://github.com/ymrsmns/CVE-2021-3156 | Sudo before 1.9.5p2 has a Heap-based Buffer Overflow, allowing privilege escalation to root via %sudoedit -s% and a command-line argument that ends with a single backslash character:| 
+| 20210127T18:21:50Z | cve-2021-3156 | Null | https://github.com/nexcess/sudo_cve-2021-3156 | 未查询到CVE信息| 
 | 20210127T10:23:27Z | CVE-2021-3129 | Exploit for CVE-2021-3129 | https://github.com/nth347/CVE-2021-3129-exploit | Ignition before 2.5.2, as used in Laravel and other products, allows unauthenticated remote attackers to execute arbitrary code because of insecure usage of file_get_contents() and file_put_contents(). This is exploitable on sites using debug mode with Laravel before 8.4.2.| 
-| 20210127T08:29:37Z | CVE-2021-3129 | Laravel debug rce | https://github.com/SNCKER/CVE-2021-3129 | Ignition before 2.5.2, as used in Laravel and other products, allows unauthenticated remote attackers to execute arbitrary code because of insecure usage of file_get_contents() and file_put_contents(). This is exploitable on sites using debug mode with Laravel before 8.4.2.| 
+| 20210127T08:29:37Z | CVE-2021-3129 | Laravel debug rce | https://github.com/SNCKER/CVE-2021-3129 | | 
 | 20210127T06:32:10Z | CVE-2020-14882 | CVE-2020-14882部署冰蝎内存马 | https://github.com/ShmilySec/CVE-2020-14882 | Vulnerability in the Oracle WebLogic Server product of Oracle Fusion Middleware (component: Console). Supported versions that are affected are 10.3.6.0.0, 12.1.3.0.0, 12.2.1.3.0, 12.2.1.4.0 and 14.1.1.0.0. Easily exploitable vulnerability allows unauthenticated attacker with network access via HTTP to compromise Oracle WebLogic Server. Successful attacks of this vulnerability can result in takeover of Oracle WebLogic Server. CVSS 3.1 Base Score 9.8 (Confidentiality, Integrity and Availability impacts). CVSS Vector: (CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H).| 
 
 
@@ -119,6 +119,8 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210128T01:10:07Z | Null | https://github.com/street83457/fuzzy-lamp | 0 | 0| 
+| 20210128T01:04:04Z | Null | https://github.com/russia9347/fuzzy-octo-succotash | 0 | 0| 
 | 20210128T01:00:26Z | Fuzzy logic based temperature controller | https://github.com/pabasara-mahindapala/fuzzy-temperature-controller | 0 | 0| 
 | 20210128T00:59:43Z | all manner of wordlists | https://github.com/thelikes/fuzzmost | 5 | 11| 
 | 20210128T00:41:23Z | Coding practice for HTML/CSS/anything else web based | https://github.com/FuzzyPumpkin/FuzzyPumpkin.github.io | 5 | 1| 
@@ -127,8 +129,6 @@
 | 20210128T00:06:10Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 5820 | 1171| 
 | 20210127T23:51:42Z | Null | https://github.com/magic8347/fuzzy-octo-enigma | 0 | 0| 
 | 20210127T23:18:36Z | A differential fuzzer for x86 decoders | https://github.com/trailofbits/mishegos | 124 | 17| 
-| 20210127T22:02:24Z | Seminarski rad iz predmeta Računarska Inteligencija na Matematičkom fakultetu. | https://github.com/djanluka/FuzzyClassification | 0 | 0| 
-| 20210127T21:58:56Z | Generate code for json encoders/decoders, codecs, fuzzers, generators, and more | https://github.com/MartinSStewart/elm-review-todo-it-for-me | 0 | 0| 
 
 
 
