@@ -62,8 +62,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210128T13:44:43Z | forked version of funtuna, a homebrew ps2 app launcher designed to ease the pain of getting a stable exploit for those that have a console uncompatible with FreeMcBoot that doesnt have a modchip | https://github.com/israpps/Funtuna-Fork | 0 | 0| 
-| 20210128T13:43:36Z | Null | https://github.com/lsw29475/exploit | 0 | 0| 
+| 20210128T13:49:54Z | Null | https://github.com/lsw29475/exploit | 0 | 0| 
+| 20210128T13:46:32Z | forked version of funtuna, a homebrew ps2 app launcher designed to ease the pain of getting a stable exploit for those that have a console uncompatible with FreeMcBoot that doesnt have a modchip | https://github.com/israpps/Funtuna-Fork | 0 | 0| 
 | 20210128T13:42:43Z | Ripped SaveStates of Lord Tom%s Total Control TAS Exploit which showcase SMB3 Exploit to inject arbitrary code and create payloads using controller inputs (P1&&P2). For more info and copyright, see; http://tasvideos.org/4961S.html . This is not my work, I did nothing to accomplish these exploits and controls, nor did I have anything remotely to do with the project. I merely ripped the video, ended the TAS after the payload and before the showcase as seen in his video, save the state to a file to play around with and decided to share it on the internet. | https://github.com/NamasteJasutin/SMB3-LordTom-TotalControl-PreTAS-SaveStates | 0 | 0| 
 | 20210128T13:41:10Z | PoCs for public CVE%s I have been working on. | https://github.com/lockedbyte/CVE-Exploits | 6 | 0| 
 | 20210128T13:37:19Z | These files can be used to save time on buffer overflow exploits and are versatile too. | https://github.com/batsy101/BoF_utils | 0 | 0| 
