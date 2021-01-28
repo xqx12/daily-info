@@ -36,10 +36,10 @@
 | 20210128T12:12:37Z | CVE-2021-3156 | Null | https://github.com/mr-r3b00t/CVE-2021-3156 | Sudo before 1.9.5p2 has a Heap-based Buffer Overflow, allowing privilege escalation to root via %sudoedit -s% and a command-line argument that ends with a single backslash character.| 
 | 20210128T11:56:10Z | CVE-2021-3156 | CVE-2021-3156 | https://github.com/reverse-ex/CVE-2021-3156 | Sudo before 1.9.5p2 has a Heap-based Buffer Overflow, allowing privilege escalation to root via %sudoedit -s% and a command-line argument that ends with a single backslash character.| 
 | 20210128T11:36:18Z | CVE-2021-3156 | 1day research effort | https://github.com/kernelzeroday/CVE-2021-3156-Baron-Samedit | Sudo before 1.9.5p2 has a Heap-based Buffer Overflow, allowing privilege escalation to root via %sudoedit -s% and a command-line argument that ends with a single backslash character.| 
-| 20210128T11:31:04Z | cve-2020-15227 | Tester for a vulnerability CVE-2020-15227 found in nette/application and nette/nette | https://github.com/VottusCode/cve-2020-15227 | | 
+| 20210128T11:31:04Z | cve-2020-15227 | Tester for a vulnerability CVE-2020-15227 found in nette/application and nette/nette | https://github.com/VottusCode/cve-2020-15227 | 未查询到CVE信息| 
 | 20210128T11:05:19Z | CVE-2021-3156 | CVE-2021-3156 | https://github.com/ph4ntonn/CVE-2021-3156 | Sudo before 1.9.5p2 has a Heap-based Buffer Overflow, allowing privilege escalation to root via %sudoedit -s% and a command-line argument that ends with a single backslash character.| 
 | 20210128T09:32:54Z | CVE-2021-3156 | Null | https://github.com/baka9moe/CVE-2021-3156-Exp | Sudo before 1.9.5p2 has a Heap-based Buffer Overflow, allowing privilege escalation to root via %sudoedit -s% and a command-line argument that ends with a single backslash character.| 
-| 20210128T09:30:50Z | 未知编号 | sudo安全漏洞检测脚本，用来检查您的系统当前是否存在相关的安全漏洞。 | https://github.com/gh-Devin/sudo-cve-2021 | | 
+| 20210128T09:30:50Z | 未知编号 | sudo安全漏洞检测脚本，用来检查您的系统当前是否存在相关的安全漏洞。 | https://github.com/gh-Devin/sudo-cve-2021 | 未查询到CVE信息| 
 | 20210128T09:08:05Z | CVE-2021-3156 | This simple bash script will patch the recently discovered sudo heap overflow vulnerability. | https://github.com/elbee-cyber/CVE-2021-3156-PATCHER | Sudo before 1.9.5p2 has a Heap-based Buffer Overflow, allowing privilege escalation to root via %sudoedit -s% and a command-line argument that ends with a single backslash character.| 
 | 20210128T09:03:21Z | CVE-2020-14756 | WebLogic T3/IIOP RCE ExternalizableHelper.class of coherence.jar | https://github.com/Y4er/CVE-2020-14756 | Vulnerability in the Oracle Coherence product of Oracle Fusion Middleware (component: Core Components). Supported versions that are affected are 3.7.1.0, 12.1.3.0.0, 12.2.1.3.0, 12.2.1.4.0 and 14.1.1.0.0. Easily exploitable vulnerability allows unauthenticated attacker with network access via IIOP, T3 to compromise Oracle Coherence. Successful attacks of this vulnerability can result in takeover of Oracle Coherence. CVSS 3.1 Base Score 9.8 (Confidentiality, Integrity and Availability impacts). CVSS Vector: (CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H).| 
 
@@ -62,10 +62,10 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210128T13:05:03Z | PoCs for public CVE%s I have been working on. | https://github.com/lockedbyte/CVE-Exploits | 6 | 0| 
 | 20210128T12:52:22Z | Vulnerabilities% Risk of Exploitation | https://github.com/thiagofigcosta/V-REx | 0 | 0| 
 | 20210128T12:49:53Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 7 | 4| 
 | 20210128T11:56:46Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 8937 | 1434| 
-| 20210128T11:49:54Z | PoCs for public CVE%s I have been working on. | https://github.com/lockedbyte/CVE-Exploits | 5 | 0| 
 | 20210128T11:49:17Z | A small repo of exploits and other tools I used to do in CTF challenges | https://github.com/Elsword016/Exploits_and_scripts | 0 | 0| 
 | 20210128T11:47:07Z | Null | https://github.com/Ahmadr721/My-Exploit | 0 | 0| 
 | 20210128T11:43:04Z | A post exploitation framework designed to operate covertly on heavily monitored environments | https://github.com/bats3c/shad0w | 1110 | 181| 
