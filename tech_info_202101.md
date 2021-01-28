@@ -89,7 +89,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210128T02:15:42Z | ELF-32 Bit Reversing | https://github.com/RobertJonnyTiger/Reverse-and-Exploit-Development | 0 | 0| 
+| 20210128T02:16:46Z | ELF-32 Bit Reversing | https://github.com/RobertJonnyTiger/Reverse-and-Exploit-Development | 0 | 0| 
 | 20210128T02:13:46Z | Exploit Database binary exploits located in the /sploits directory | https://github.com/offensive-security/exploitdb-bin-sploits | 1382 | 497| 
 | 20210128T02:09:40Z | Awareness on Wildlife Exploitation | https://github.com/WeHaveLivesToo/We-Have-Lives-Too-Awareness-on-Wildlife-Exploitation | 0 | 0| 
 | 20210128T01:39:09Z | Null | https://github.com/MTK-bypass/exploits_collection | 31 | 17| 
@@ -119,6 +119,8 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210128T01:47:25Z | Null | https://github.com/minad/consult-fuzzy | 0 | 0| 
+| 20210128T01:43:21Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 5820 | 1171| 
 | 20210128T01:26:05Z | Null | https://github.com/guidovranken/wolfmqtt-fuzzers | 2 | 1| 
 | 20210128T01:10:07Z | Null | https://github.com/street83457/fuzzy-lamp | 0 | 0| 
 | 20210128T01:04:04Z | Null | https://github.com/russia9347/fuzzy-octo-succotash | 0 | 0| 
@@ -126,9 +128,7 @@
 | 20210128T00:59:43Z | all manner of wordlists | https://github.com/thelikes/fuzzmost | 5 | 11| 
 | 20210128T00:41:23Z | Coding practice for HTML/CSS/anything else web based | https://github.com/FuzzyPumpkin/FuzzyPumpkin.github.io | 5 | 1| 
 | 20210128T00:36:16Z | Personal website of Laurence Hughes | https://github.com/fuzzylogicxx/fuzzylogic | 4 | 1| 
-| 20210128T00:06:10Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 5820 | 1171| 
 | 20210127T23:51:42Z | Null | https://github.com/magic8347/fuzzy-octo-enigma | 0 | 0| 
-| 20210127T23:18:36Z | A differential fuzzer for x86 decoders | https://github.com/trailofbits/mishegos | 124 | 17| 
 
 
 
