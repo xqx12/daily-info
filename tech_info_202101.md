@@ -55,7 +55,7 @@
 | 20210128T02:01:24Z | CVE-2020-14756 | WebLogic T3/IIOP RCE ExternalizableHelper.class of coherence.jar | https://github.com/Y4er/CVE-2020-14756 | Vulnerability in the Oracle Coherence product of Oracle Fusion Middleware (component: Core Components). Supported versions that are affected are 3.7.1.0, 12.1.3.0.0, 12.2.1.3.0, 12.2.1.4.0 and 14.1.1.0.0. Easily exploitable vulnerability allows unauthenticated attacker with network access via IIOP, T3 to compromise Oracle Coherence. Successful attacks of this vulnerability can result in takeover of Oracle Coherence. CVSS 3.1 Base Score 9.8 (Confidentiality, Integrity and Availability impacts). CVSS Vector: (CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H).| 
 | 20210127T21:16:52Z | CVE-2021-3156 | CVE-2021-3156 | https://github.com/ymrsmns/CVE-2021-3156 | Sudo before 1.9.5p2 has a Heap-based Buffer Overflow, allowing privilege escalation to root via %sudoedit -s% and a command-line argument that ends with a single backslash character:| 
 | 20210127T18:21:50Z | cve-2021-3156 | Null | https://github.com/nexcess/sudo_cve-2021-3156 | 未查询到CVE信息| 
-| 20210127T10:23:27Z | CVE-2021-3129 | Exploit for CVE-2021-3129 | https://github.com/nth347/CVE-2021-3129-exploit | Ignition before 2.5.2, as used in Laravel and other products, allows unauthenticated remote attackers to execute arbitrary code because of insecure usage of file_get_contents() and file_put_contents(). This is exploitable on sites using debug mode with Laravel before 8.4.2.| 
+| 20210127T10:23:27Z | CVE-2021-3129 | Exploit for CVE-2021-3129 | https://github.com/nth347/CVE-2021-3129-exploit | | 
 
 
 # klee on Github 推荐
