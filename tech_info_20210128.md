@@ -62,8 +62,9 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210128T13:20:05Z | CDK is an open-sourced container penetration toolkit, offering stable exploitation in different slimmed containers without any OS dependency. It comes with penetration tools and many powerful PoCs/EXPs helps you to escape container and takeover K8s cluster easily. | https://github.com/cdk-team/CDK | 963 | 129| 
+| 20210128T13:18:22Z | Null | https://github.com/sheenieboy/ExploiterChat | 1 | 0| 
 | 20210128T13:11:53Z | PoCs for public CVE%s I have been working on. | https://github.com/lockedbyte/CVE-Exploits | 6 | 0| 
-| 20210128T13:09:23Z | CDK is an open-sourced container penetration toolkit, offering stable exploitation in different slimmed containers without any OS dependency. It comes with penetration tools and many powerful PoCs/EXPs helps you to escape container and takeover K8s cluster easily. | https://github.com/cdk-team/CDK | 962 | 129| 
 | 20210128T12:52:22Z | Vulnerabilities% Risk of Exploitation | https://github.com/thiagofigcosta/V-REx | 0 | 0| 
 | 20210128T12:49:53Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 7 | 4| 
 | 20210128T11:56:46Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 8937 | 1434| 
@@ -71,7 +72,6 @@
 | 20210128T11:47:07Z | Null | https://github.com/Ahmadr721/My-Exploit | 0 | 0| 
 | 20210128T11:43:04Z | A post exploitation framework designed to operate covertly on heavily monitored environments | https://github.com/bats3c/shad0w | 1110 | 181| 
 | 20210128T11:22:46Z | Exploit Mitigations & How To Bypass Them | https://github.com/Ret2LC/exploit-mitigations | 0 | 0| 
-| 20210128T11:12:58Z | Null | https://github.com/shellbr3ak/nostromo-exploit | 0 | 0| 
 
 
 # backdoor on Github 推荐
