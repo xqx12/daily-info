@@ -36,7 +36,7 @@
 | 20210128T12:03:12Z | CVE-2021-3156 | Null | https://github.com/Serpentiel/CVE-2021-3156 | Sudo before 1.9.5p2 has a Heap-based Buffer Overflow, allowing privilege escalation to root via %sudoedit -s% and a command-line argument that ends with a single backslash character.| 
 | 20210128T11:56:10Z | CVE-2021-3156 | CVE-2021-3156 | https://github.com/reverse-ex/CVE-2021-3156 | Sudo before 1.9.5p2 has a Heap-based Buffer Overflow, allowing privilege escalation to root via %sudoedit -s% and a command-line argument that ends with a single backslash character.| 
 | 20210128T11:36:18Z | CVE-2021-3156 | 1day research effort | https://github.com/kernelzeroday/CVE-2021-3156-Baron-Samedit | Sudo before 1.9.5p2 has a Heap-based Buffer Overflow, allowing privilege escalation to root via %sudoedit -s% and a command-line argument that ends with a single backslash character.| 
-| 20210128T11:31:04Z | cve-2020-15227 | Tester for a vulnerability CVE-2020-15227 found in nette/application and nette/nette | https://github.com/VottusCode/cve-2020-15227 | 未查询到CVE信息| 
+| 20210128T11:31:04Z | cve-2020-15227 | Tester for a vulnerability CVE-2020-15227 found in nette/application and nette/nette | https://github.com/VottusCode/cve-2020-15227 | | 
 | 20210128T11:05:19Z | CVE-2021-3156 | CVE-2021-3156 | https://github.com/ph4ntonn/CVE-2021-3156 | Sudo before 1.9.5p2 has a Heap-based Buffer Overflow, allowing privilege escalation to root via %sudoedit -s% and a command-line argument that ends with a single backslash character.| 
 | 20210128T09:32:54Z | CVE-2021-3156 | Null | https://github.com/baka9moe/CVE-2021-3156-Exp | Sudo before 1.9.5p2 has a Heap-based Buffer Overflow, allowing privilege escalation to root via %sudoedit -s% and a command-line argument that ends with a single backslash character.| 
 | 20210128T09:30:50Z | 未知编号 | sudo安全漏洞检测脚本，用来检查您的系统当前是否存在相关的安全漏洞。 | https://github.com/gh-Devin/sudo-cve-2021 | 未查询到CVE信息| 
@@ -77,6 +77,9 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210128T10:26:53Z | Null | https://github.com/mikkelskov1/backdoor2 | 0 | 0| 
+| 20210128T08:28:16Z | Null | https://github.com/mohdhumaid/BackdoorPython27 | 1 | 0| 
+| 20210128T06:42:50Z | Null | https://github.com/rabbitx1337/backdoor | 0 | 0| 
 | 20210128T02:44:48Z | Tool to find potential backdoor/security holes in your endpoint | https://github.com/subasgit/backdoorfinder | 1 | 0| 
 | 20210128T00:36:13Z | Null | https://github.com/khausxl/backdoor-rn | 0 | 0| 
 
@@ -84,16 +87,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210128T02:50:59Z | Null | https://github.com/guardstrikelab/fuzzx_cpp_demo | 0 | 0| 
-| 20210128T02:36:49Z | Null | https://github.com/Aravind-Rajadurai/Fuzzy | 0 | 0| 
-| 20210128T01:47:25Z | Null | https://github.com/minad/consult-fuzzy | 0 | 0| 
-| 20210128T01:43:21Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 5820 | 1171| 
-| 20210128T01:26:05Z | Null | https://github.com/guidovranken/wolfmqtt-fuzzers | 2 | 1| 
-| 20210128T01:10:07Z | Null | https://github.com/street83457/fuzzy-lamp | 0 | 0| 
-| 20210128T01:04:04Z | Null | https://github.com/russia9347/fuzzy-octo-succotash | 0 | 0| 
-| 20210128T01:00:26Z | Fuzzy logic based temperature controller | https://github.com/pabasara-mahindapala/fuzzy-temperature-controller | 0 | 0| 
-| 20210128T00:59:43Z | all manner of wordlists | https://github.com/thelikes/fuzzmost | 5 | 11| 
-| 20210128T00:41:23Z | Coding practice for HTML/CSS/anything else web based | https://github.com/FuzzyPumpkin/FuzzyPumpkin.github.io | 5 | 1| 
+| 20210128T12:27:48Z | A fuzzer for various top-level await bundling strategies | https://github.com/evanw/tla-fuzzer | 14 | 0| 
+| 20210128T12:25:34Z | Weather Forecast which is implemented by using Fuzzy Logic System (scikit-fuzzy) | https://github.com/lokcies/weather-forecast-fuzzy | 0 | 0| 
+| 20210128T12:13:38Z | Some work done on LeNet and PyGAN in my free time. | https://github.com/DevChuriwala/FuzzyAdventure | 0 | 0| 
+| 20210128T12:10:50Z | 针对小型应用服务搜索场景的工具包（也可部署为 独立服务） | https://github.com/kc910521/MiniSearch | 4 | 0| 
+| 20210128T12:02:35Z | HTTP fuzzer engine security oriented | https://github.com/NozakiLabs/nozaki | 23 | 6| 
+| 20210128T11:39:54Z | Null | https://github.com/s9varesc/url-fuzzing | 0 | 0| 
+| 20210128T11:16:52Z | Fuzzing cryptographic libraries. Magic bug printer go brrrr. | https://github.com/guidovranken/cryptofuzz | 234 | 31| 
+| 20210128T10:44:15Z | Null | https://github.com/henryhill1999/leaflet-fuzzy | 0 | 0| 
+| 20210128T10:26:06Z | FLUFFI (Fully Localized Utility For Fuzzing Instantaneously) - A distributed evolutionary binary fuzzer for pentesters | https://github.com/siemens/fluffi | 73 | 15| 
+| 20210128T10:15:20Z | Null | https://github.com/ethereum/solidity-fuzzing-corpus | 10 | 4| 
 
 
 
