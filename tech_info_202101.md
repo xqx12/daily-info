@@ -6,6 +6,14 @@
 # 玄武实验室 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20210128 | Mitigating Abuse of Android Application Permissions and Special App Accesses | https://medium.com/mitre-attack/mobile-attack-mitigating-android-abuse-50516fb7de85| 
+| 20210128 | Introducing FComm – C2 Lateral Movement | https://labs.nettitude.com/blog/introducing-fcomm-c2-lateral-movement/| 
+| 20210128 | Using Cloudflare Workers as Redirectors | https://ajpc500.github.io/c2/Using-CloudFlare-Workers-as-Redirectors/| 
+| 20210128 | Office 开始支持基于 Hyper-V 容器的 Application Guard 保护机制 | https://techcommunity.microsoft.com/t5/microsoft-security-and/application-guard-for-office-now-generally-available/ba-p/2007539| 
+| 20210128 | 这两天黑客攻击安全研究员事件相关 C&C 通信机制的分析 | https://medium.com/s2wlab/analysis-of-threatneedle-c-c-communication-feat-google-tag-warning-to-researchers-782aa51cf74| 
+| 20210128 | Reverse Engineering iMessage: Leveraging the Hardware to Protect the Software | https://www.nowsecure.com/blog/2021/01/27/reverse-engineering-imessage-leveraging-the-hardware-to-protect-the-software/| 
+| 20210128 | NAT Slipstreaming v2.0 - NAT/防火墙内网隔离策略绕过的新变种 | https://www.armis.com/resources/iot-security-blog/nat-slipstreaming-v2-0-new-attack-variant-can-expose-all-internal-network-devices-to-the-internet/| 
+| 20210128 | ERNW Whitepaper 71 - 多种反病毒软件隔离文件的文件格式的分析 | https://insinuator.net/2021/01/ernw-whitepaper-71-analysis-of-anti-virus-software-quarantine-files/| 
 | 20210127 | Google 修复 Golang Windows RCE 漏洞（CVE-2021-3115） | https://www.bleepingcomputer.com/news/security/google-fixes-severe-golang-windows-rce-vulnerability/| 
 | 20210127 | Apple 紧急发布 iOS 14.4/iPadOS 14.4，修复 3 个可能已被野外利用的 0Day | https://support.apple.com/en-us/HT212146| 
 | 20210127 | sudo 堆溢出漏洞 CVE-2021-3156 分析 | https://blog.qualys.com/vulnerabilities-research/2021/01/26/cve-2021-3156-heap-based-buffer-overflow-in-sudo-baron-samedit| 
@@ -18,59 +26,51 @@
 | 20210127 | 为Hyper-V“网桥”进行模糊测试-第1部分：Windows Driver Foundation（WDF）编写硬件驱动程序介绍。 | https://www.alex-ionescu.com/?p=377| 
 | 20210127 | 当黑客不讲武德之国内安全专家也容易被社工分析研究。 | https://paper.seebug.org/1471/| 
 | 20210126 | Android Pentest: Deep Link Exploitation | https://www.hackingarticles.in/android-pentest-deep-link-exploitation/| 
-| 20210126 | Cobalt-Strike 相关的一些工具以及使用 Tips | https://github.com/S1ckB0y1337/Cobalt-Strike-CheatSheet| 
-| 20210126 | Fast web fuzzer written in Go | https://github.com/ffuf/ffuf| 
-| 20210126 | VisualDoor: SonicWall SSL-VPN Exploit | https://darrenmartyn.ie/2021/01/24/visualdoor-sonicwall-ssl-vpn-exploit/| 
-| 20210126 | dnspooq 缓存污染漏洞 Exploit(CVE-2020-25686, CVE-2020-25684, CVE-2020-25685) | https://github.com/knqyf263/dnspooq| 
-| 20210126 | Catching Debuggers with Section Hashing | https://malwareandstuff.com/catching-debuggers-with-section-hashing/| 
-| 20210126 | Windows 版本 NordVPN 消息 Handler RCE 漏洞分析 | https://hackerone.com/reports/1001255| 
-| 20210126 | Google 发 Blog：朝鲜黑客在 Twitter 通过伪装账户社工安全研究员 | https://blog.google/threat-analysis-group/new-campaign-targeting-security-researchers/| 
-| 20210126 | Creating Security Decision Trees With Graphviz | https://swagitda.com/blog/posts/security-decision-trees-with-graphviz/| 
 
 
 # 安全维基 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20210128 | 远程命令与代码执行总结 | https://www.anquanke.com/post/id/229611| 
+| 20210128 | 为被动扫描器量身打造一款爬虫 | https://paper.seebug.org/1473/| 
+| 20210128 | 记一次面试bypass宝塔+安全狗的手注 | https://www.hetianlab.com/specialized/20210126141706| 
+| 20210128 | CRC背后的故事 | https://mp.weixin.qq.com/s/Qx6AuQkxqJO3Ob2REj9Myw| 
+| 20210128 | 破解与攻击智能门锁 | https://mp.weixin.qq.com/s/IY6j0v9pG4j-JlozEk7Jzw| 
+| 20210128 | 域用户密码爆破研究 | https://www.anquanke.com/post/id/229954| 
+| 20210128 | 使用 Cloudflare Workers 隐藏 C&C 流量 | https://mp.weixin.qq.com/s/ozzyalC8anfi9VAHb3r-oQ| 
+| 20210128 | 再聊钓鱼文档 | https://www.sec-in.com/article/847| 
 | 20210127 | 从弱口令到拿下站群服务器 | https://www.hetianlab.com/specialized/20210119110943| 
 | 20210127 | 浅谈Springboot中的文件上传 | https://www.sec-in.com/article/836| 
-| 20210127 | 自动化的攻击溯源之痛 ：数据获取与关联的困惑 | https://mp.weixin.qq.com/s/dJDHLvJOGVPQB1cfTayX9w| 
-| 20210127 | 如何开源手动挖掘LinkedIn领英 | https://mp.weixin.qq.com/s/mtQ40m7qLayUDxgmWgsWPw| 
-| 20210127 | 互联网产品数据与隐私合规审查要点 | https://mp.weixin.qq.com/s/m_8Y3x-DzoWNwU8tBT-ENw| 
-| 20210127 | 一次挖矿入侵处理记录 | https://github.com/bg6cq/ITTS/blob/master/security/mine/README.md| 
-| 20210126 | 威胁狩猎：基于ELK的日志监控 | https://www.hetianlab.com/specialized/20210125144554| 
-| 20210126 | 浅谈隧道搭建工具之Neo-reGeorg | https://www.anquanke.com/post/id/228917| 
-| 20210126 | 宝塔面板Windows版提权方法 | https://github.com/Hzllaga/BT_Panel_Privilege_Escalation| 
-| 20210126 | 容器环境定制的渗透测试工具 | https://github.com/cdk-team/CDK/wiki/CDK-Home-CN| 
 
 
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20210128T03:12:01Z | CVE-2021-3156 | 1day research effort | https://github.com/kernelzeroday/CVE-2021-3156-Baron-Samedit | Sudo before 1.9.5p2 has a Heap-based Buffer Overflow, allowing privilege escalation to root via %sudoedit -s% and a command-line argument that ends with a single backslash character:| 
-| 20210128T02:57:27Z | cve-2021-3156 | 脚本小子竟是我自己? | https://github.com/H4ckForJob/cve-2021-3156 | 未查询到CVE信息| 
-| 20210128T02:36:44Z | CVE-2020-1350 | HoneyPoC: Proof-of-Concept (PoC) script to exploit SIGRed (CVE-2020-1350). Achieves Domain Admin on Domain Controllers running Windows Server 2000 up to Windows Server 2019. | https://github.com/ZephrFish/CVE-2020-1350 | A remote code execution vulnerability exists in Windows Domain Name System servers when they fail to properly handle requests, aka %Windows DNS Server Remote Code Execution Vulnerability%.| 
-| 20210128T02:32:35Z | CVE-2021-3156 | Null | https://github.com/mr-r3b00t/CVE-2021-3156 | Sudo before 1.9.5p2 has a Heap-based Buffer Overflow, allowing privilege escalation to root via %sudoedit -s% and a command-line argument that ends with a single backslash character:| 
-| 20210128T02:21:56Z | cve-2021-3156 | cve-2021-3156;sudo堆溢出漏洞；漏洞检测 | https://github.com/yaunsky/cve-2021-3156 | 未查询到CVE信息| 
-| 20210128T02:19:27Z | CVE-2021-3156 | This simple bash script will patch the recently discovered sudo heap overflow vulnerability. | https://github.com/elbee-cyber/CVE-2021-3156-PATCHER | Sudo before 1.9.5p2 has a Heap-based Buffer Overflow, allowing privilege escalation to root via %sudoedit -s% and a command-line argument that ends with a single backslash character:| 
-| 20210128T02:18:22Z | CVE-2021-3156 | Null | https://github.com/Serpentiel/CVE-2021-3156 | Sudo before 1.9.5p2 has a Heap-based Buffer Overflow, allowing privilege escalation to root via %sudoedit -s% and a command-line argument that ends with a single backslash character:| 
-| 20210128T02:11:53Z | CVE-2021-3156 | CVE-2021-3156 | https://github.com/reverse-ex/CVE-2021-3156 | Sudo before 1.9.5p2 has a Heap-based Buffer Overflow, allowing privilege escalation to root via %sudoedit -s% and a command-line argument that ends with a single backslash character:| 
-| 20210128T02:01:24Z | CVE-2020-14756 | WebLogic T3/IIOP RCE ExternalizableHelper.class of coherence.jar | https://github.com/Y4er/CVE-2020-14756 | Vulnerability in the Oracle Coherence product of Oracle Fusion Middleware (component: Core Components). Supported versions that are affected are 3.7.1.0, 12.1.3.0.0, 12.2.1.3.0, 12.2.1.4.0 and 14.1.1.0.0. Easily exploitable vulnerability allows unauthenticated attacker with network access via IIOP, T3 to compromise Oracle Coherence. Successful attacks of this vulnerability can result in takeover of Oracle Coherence. CVSS 3.1 Base Score 9.8 (Confidentiality, Integrity and Availability impacts). CVSS Vector: (CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H).| 
-| 20210127T21:16:52Z | CVE-2021-3156 | CVE-2021-3156 | https://github.com/ymrsmns/CVE-2021-3156 | Sudo before 1.9.5p2 has a Heap-based Buffer Overflow, allowing privilege escalation to root via %sudoedit -s% and a command-line argument that ends with a single backslash character:| 
+| 20210128T12:12:37Z | CVE-2021-3156 | Null | https://github.com/mr-r3b00t/CVE-2021-3156 | Sudo before 1.9.5p2 has a Heap-based Buffer Overflow, allowing privilege escalation to root via %sudoedit -s% and a command-line argument that ends with a single backslash character.| 
+| 20210128T12:03:12Z | CVE-2021-3156 | Null | https://github.com/Serpentiel/CVE-2021-3156 | Sudo before 1.9.5p2 has a Heap-based Buffer Overflow, allowing privilege escalation to root via %sudoedit -s% and a command-line argument that ends with a single backslash character.| 
+| 20210128T11:56:10Z | CVE-2021-3156 | CVE-2021-3156 | https://github.com/reverse-ex/CVE-2021-3156 | Sudo before 1.9.5p2 has a Heap-based Buffer Overflow, allowing privilege escalation to root via %sudoedit -s% and a command-line argument that ends with a single backslash character.| 
+| 20210128T11:36:18Z | CVE-2021-3156 | 1day research effort | https://github.com/kernelzeroday/CVE-2021-3156-Baron-Samedit | Sudo before 1.9.5p2 has a Heap-based Buffer Overflow, allowing privilege escalation to root via %sudoedit -s% and a command-line argument that ends with a single backslash character.| 
+| 20210128T11:31:04Z | cve-2020-15227 | Tester for a vulnerability CVE-2020-15227 found in nette/application and nette/nette | https://github.com/VottusCode/cve-2020-15227 | 未查询到CVE信息| 
+| 20210128T11:05:19Z | CVE-2021-3156 | CVE-2021-3156 | https://github.com/ph4ntonn/CVE-2021-3156 | Sudo before 1.9.5p2 has a Heap-based Buffer Overflow, allowing privilege escalation to root via %sudoedit -s% and a command-line argument that ends with a single backslash character.| 
+| 20210128T09:32:54Z | CVE-2021-3156 | Null | https://github.com/baka9moe/CVE-2021-3156-Exp | Sudo before 1.9.5p2 has a Heap-based Buffer Overflow, allowing privilege escalation to root via %sudoedit -s% and a command-line argument that ends with a single backslash character.| 
+| 20210128T09:30:50Z | 未知编号 | sudo安全漏洞检测脚本，用来检查您的系统当前是否存在相关的安全漏洞。 | https://github.com/gh-Devin/sudo-cve-2021 | 未查询到CVE信息| 
+| 20210128T09:08:05Z | CVE-2021-3156 | This simple bash script will patch the recently discovered sudo heap overflow vulnerability. | https://github.com/elbee-cyber/CVE-2021-3156-PATCHER | Sudo before 1.9.5p2 has a Heap-based Buffer Overflow, allowing privilege escalation to root via %sudoedit -s% and a command-line argument that ends with a single backslash character.| 
+| 20210128T09:03:21Z | CVE-2020-14756 | WebLogic T3/IIOP RCE ExternalizableHelper.class of coherence.jar | https://github.com/Y4er/CVE-2020-14756 | Vulnerability in the Oracle Coherence product of Oracle Fusion Middleware (component: Core Components). Supported versions that are affected are 3.7.1.0, 12.1.3.0.0, 12.2.1.3.0, 12.2.1.4.0 and 14.1.1.0.0. Easily exploitable vulnerability allows unauthenticated attacker with network access via IIOP, T3 to compromise Oracle Coherence. Successful attacks of this vulnerability can result in takeover of Oracle Coherence. CVSS 3.1 Base Score 9.8 (Confidentiality, Integrity and Availability impacts). CVSS Vector: (CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H).| 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210128T00:51:22Z | RVT is a collection of tools/libraries to support both static and dynamic verification of Rust programs. | https://github.com/project-oak/rust-verification-tools | 103 | 6| 
+| 20210128T12:47:57Z | Null | https://github.com/kleelab/kleelab.github.io | 0 | 0| 
+| 20210128T11:36:40Z | Symbiotic is a tool for finding bugs in computer programs based on instrumentation, program slicing and KLEE | https://github.com/staticafi/symbiotic | 212 | 34| 
+| 20210128T09:30:34Z | Null | https://github.com/fontworks-fonts/Klee | 337 | 10| 
+| 20210128T07:19:19Z | RVT is a collection of tools/libraries to support both static and dynamic verification of Rust programs. | https://github.com/project-oak/rust-verification-tools | 106 | 6| 
+| 20210128T05:15:06Z | Null | https://github.com/jiseongg/klee_experiment | 0 | 0| 
 | 20210127T22:52:40Z | Null | https://github.com/klee30810/klee30810.github.io | 0 | 0| 
-| 20210127T15:26:16Z | Null | https://github.com/jiseongg/klee_experiment | 0 | 0| 
-| 20210127T15:25:22Z | Null | https://github.com/fontworks-fonts/Klee | 335 | 10| 
-| 20210127T13:43:29Z | Null | https://github.com/kleelab/kleelab.github.io | 0 | 0| 
-| 20210127T10:21:46Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1618 | 479| 
+| 20210127T10:21:46Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1618 | 480| 
 | 20210125T12:10:58Z | Null | https://github.com/balabeltmimi/kleeandtheirfriendsbutton | 0 | 0| 
 | 20210124T21:16:02Z | Null | https://github.com/davidtr1037/klee-aaqc | 1 | 0| 
 | 20210124T10:20:10Z | PROYECTO FINAL | https://github.com/OscarZavaleta23/KLEE-Symbolic-Execution-Engine- | 0 | 0| 
-| 20210124T10:15:50Z | Proyecto final de la materia Lenguajes y Autómatas (COMPILADORES) | https://github.com/Llovas7/Symbolic-Virtual-Machine-Klee | 1 | 0| 
 
 
 # s2e on Github 推荐
@@ -89,16 +89,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210128T02:36:44Z | HoneyPoC: Proof-of-Concept (PoC) script to exploit SIGRed (CVE-2020-1350). Achieves Domain Admin on Domain Controllers running Windows Server 2000 up to Windows Server 2019. | https://github.com/ZephrFish/CVE-2020-1350 | 232 | 71| 
-| 20210128T02:29:42Z | A simple, customizable anti-cheat script intended to block off common exploits in Roblox games. | https://github.com/Sombrero64/tbac | 0 | 0| 
-| 20210128T02:16:46Z | ELF-32 Bit Reversing | https://github.com/RobertJonnyTiger/Reverse-and-Exploit-Development | 0 | 0| 
-| 20210128T02:13:46Z | Exploit Database binary exploits located in the /sploits directory | https://github.com/offensive-security/exploitdb-bin-sploits | 1382 | 497| 
-| 20210128T02:09:40Z | Awareness on Wildlife Exploitation | https://github.com/WeHaveLivesToo/We-Have-Lives-Too-Awareness-on-Wildlife-Exploitation | 0 | 0| 
-| 20210128T01:39:09Z | Null | https://github.com/MTK-bypass/exploits_collection | 31 | 18| 
-| 20210128T01:37:38Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 8936 | 1434| 
-| 20210128T01:19:06Z | Vulnerabilities% Risk of Exploitation | https://github.com/thiagofigcosta/V-REx | 0 | 0| 
-| 20210128T01:13:45Z | This bash script will help you to hack remote hosts  | https://github.com/FabioDefilippo/linuxallremote | 4 | 1| 
-| 20210128T01:02:36Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 1 | 3| 
+| 20210128T12:52:22Z | Vulnerabilities% Risk of Exploitation | https://github.com/thiagofigcosta/V-REx | 0 | 0| 
+| 20210128T12:49:53Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 7 | 4| 
+| 20210128T11:56:46Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 8937 | 1434| 
+| 20210128T11:49:54Z | PoCs for public CVE%s I have been working on. | https://github.com/lockedbyte/CVE-Exploits | 5 | 0| 
+| 20210128T11:49:17Z | A small repo of exploits and other tools I used to do in CTF challenges | https://github.com/Elsword016/Exploits_and_scripts | 0 | 0| 
+| 20210128T11:47:07Z | Null | https://github.com/Ahmadr721/My-Exploit | 0 | 0| 
+| 20210128T11:43:04Z | A post exploitation framework designed to operate covertly on heavily monitored environments | https://github.com/bats3c/shad0w | 1110 | 181| 
+| 20210128T11:22:46Z | Exploit Mitigations & How To Bypass Them | https://github.com/Ret2LC/exploit-mitigations | 0 | 0| 
+| 20210128T11:12:58Z | Null | https://github.com/shellbr3ak/nostromo-exploit | 0 | 0| 
+| 20210128T11:04:43Z | CVE-2017-16995 | https://github.com/ph4ntonn/CVE-2017-16995 | 2 | 0| 
 
 
 # backdoor on Github 推荐
