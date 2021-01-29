@@ -25,6 +25,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20210129T14:32:24Z | CVE-2021-3156 | Null | https://github.com/baka9moe/CVE-2021-3156-Exp | Sudo before 1.9.5p2 has a Heap-based Buffer Overflow, allowing privilege escalation to root via %sudoedit -s% and a command-line argument that ends with a single backslash character.| 
 | 20210129T14:19:35Z | CVE-2021-3156 | Null | https://github.com/ltfafei/CVE-2021-3156 | Sudo before 1.9.5p2 has a Heap-based Buffer Overflow, allowing privilege escalation to root via %sudoedit -s% and a command-line argument that ends with a single backslash character.| 
 | 20210129T14:15:18Z | CVE-2021-3156 | Null | https://github.com/Serpentiel/CVE-2021-3156 | Sudo before 1.9.5p2 has a Heap-based Buffer Overflow, allowing privilege escalation to root via %sudoedit -s% and a command-line argument that ends with a single backslash character.| 
 | 20210129T13:59:09Z | 未知编号 | Exploit for CVE-2021-3129 | https://github.com/ambionics/laravel-exploits | 未查询到CVE信息| 
@@ -34,7 +35,6 @@
 | 20210129T08:56:43Z | CVE-2020-1034 | PoC demonstrating the use of cve-2020-1034 for privilege escalation | https://github.com/yardenshafir/CVE-2020-1034 | An elevation of privilege vulnerability exists in the way that the Windows Kernel handles objects in memory, aka %Windows Kernel Elevation of Privilege Vulnerability%.| 
 | 20210129T06:49:09Z | CVE-2021-3156 | Null | https://github.com/binw2018/CVE-2021-3156-SCRIPT | Sudo before 1.9.5p2 has a Heap-based Buffer Overflow, allowing privilege escalation to root via %sudoedit -s% and a command-line argument that ends with a single backslash character.| 
 | 20210129T05:13:00Z | CVE-2020-26732 | Skyworth GN542VF Boa version 0.94.13 does not set the Secure flag for the session cookie in an HTTPS session | https://github.com/swzhouu/CVE-2020-26732 | Skyworth GN542VF Boa version 0.94.13 does not set the Secure flag for the session cookie in an HTTPS session, which makes it easier for remote attackers to capture this cookie by intercepting its transmission within an HTTP session.| 
-| 20210129T05:12:25Z | CVE-2020-26733 | SKYWORTH GN542VF Hardware Version 2.0 and Software Version 2.0.0.16 Cross Site Scripting (XSS) Vulnerability | https://github.com/swzhouu/CVE-2020-26733 | | 
 
 
 # klee on Github 推荐
@@ -54,7 +54,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210129T14:29:17Z | PyTorch implementation of IJCAI 2020 paper Exploiting Neuron and Synapse Filter Dynamics in Spatial Temporal Learning of Deep Spiking Neural Network | https://github.com/zhongyuchen/snn-iir | 0 | 0| 
+| 20210129T14:33:44Z | PyTorch implementation of IJCAI 2020 paper Exploiting Neuron and Synapse Filter Dynamics in Spatial Temporal Learning of Deep Spiking Neural Network | https://github.com/zhongyuchen/snn-iir | 0 | 0| 
 | 20210129T14:28:43Z | PoCs for public CVE%s I have been working on. | https://github.com/lockedbyte/CVE-Exploits | 16 | 2| 
 | 20210129T14:25:56Z | Python program to exploit stack-based buffer overflows. | https://github.com/michael-catanzaro/StackAttack | 0 | 0| 
 | 20210129T14:16:21Z | Model of resource exploitation of Iron Age communities in southwest Anatolia. To be presented at ReSoc conference | https://github.com/driesdaems10/Resoc | 0 | 1| 
@@ -69,6 +69,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210129T14:39:00Z | Rootkits , Backdoors , Sniffers , Virus , Ransomware , Steganography , Keylogger , Botnets , Worms , Other Network Tools | https://github.com/623665910/Malware | 15 | 71| 
 | 20210129T13:44:15Z | Null | https://github.com/SourceCode1037/Backdoor | 0 | 0| 
 | 20210129T13:22:12Z | Null | https://github.com/jorick93/opdracht_Backdoor | 0 | 0| 
 | 20210129T11:58:24Z | Adversarial Backdoor Attack | https://github.com/sturggleQ/AdvDoor | 0 | 0| 
@@ -78,7 +79,6 @@
 | 20210129T09:35:52Z | Input-aware Dynamic Backdoor Attack (Neural Information Processing Systems 2020) | https://github.com/VinAIResearch/input-aware-backdoor-attack-release | 25 | 3| 
 | 20210129T08:52:42Z | A Proof of Concept (PoC) IRC backdoor written in Python | https://github.com/mosajjal/ircbackdoor | 7 | 12| 
 | 20210129T07:57:53Z | Kumpulan Shell Backdoor  | https://github.com/yogiganzz/Shell | 0 | 0| 
-| 20210129T07:05:18Z | Null | https://github.com/rabbitx1337/backdoor | 0 | 0| 
 
 
 # fuzz on Github 推荐
