@@ -53,6 +53,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210129T13:10:09Z | A compilation of working exploits | https://github.com/secnigma/my_exploits | 0 | 0| 
+| 20210129T13:09:03Z | forked version of funtuna, a homebrew ps2 app launcher designed to ease the pain of getting a stable exploit for those that have a console uncompatible with FreeMcBoot that doesnt have a modchip | https://github.com/israpps/Funtuna-Fork | 0 | 0| 
 | 20210129T13:07:20Z | Basic services enumeration and exploitation | https://github.com/dar3k93/Basic-service-enumeration | 0 | 1| 
 | 20210129T13:05:20Z | A compilation of working exploits | https://github.com/secnigma/exploits | 0 | 0| 
 | 20210129T13:01:56Z | A proxy aware C2 framework used to aid red teamers with post-exploitation and lateral movement. | https://github.com/nettitude/PoshC2 | 690 | 169| 
@@ -61,8 +63,6 @@
 | 20210129T12:39:01Z | Laravel Exploit  | https://github.com/OgyDotMy/LaravelExploit | 1 | 0| 
 | 20210129T12:02:46Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 2 | 3| 
 | 20210129T11:58:54Z | PyTorch implementation of IJCAI 2020 paper Exploiting Neuron and Synapse Filter Dynamics in Spatial Temporal Learning of Deep Spiking Neural Network | https://github.com/zhongyuchen/snn-iir | 0 | 0| 
-| 20210129T11:35:16Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 8941 | 1435| 
-| 20210129T11:34:57Z | Null | https://github.com/NonSwag/TNLAntiExploit | 0 | 0| 
 
 
 # backdoor on Github 推荐
