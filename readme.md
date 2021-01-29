@@ -34,15 +34,15 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20210128T23:25:13Z | CVE-2021-3156 | 1day research effort | https://github.com/kernelzeroday/CVE-2021-3156-Baron-Samedit | | 
+| 20210128T23:25:13Z | CVE-2021-3156 | 1day research effort | https://github.com/kernelzeroday/CVE-2021-3156-Baron-Samedit | Sudo before 1.9.5p2 has a Heap-based Buffer Overflow, allowing privilege escalation to root via %sudoedit -s% and a command-line argument that ends with a single backslash character.| 
 | 20210128T18:26:55Z | CVE-2020-1034 | PoC demonstrating the use of cve-2020-1034 for privilege escalation | https://github.com/yardenshafir/CVE-2020-1034 | An elevation of privilege vulnerability exists in the way that the Windows Kernel handles objects in memory, aka %Windows Kernel Elevation of Privilege Vulnerability%.| 
 | 20210128T16:00:07Z | CVE-2020-14756 | WebLogic T3/IIOP RCE ExternalizableHelper.class of coherence.jar | https://github.com/Y4er/CVE-2020-14756 | Vulnerability in the Oracle Coherence product of Oracle Fusion Middleware (component: Core Components). Supported versions that are affected are 3.7.1.0, 12.1.3.0.0, 12.2.1.3.0, 12.2.1.4.0 and 14.1.1.0.0. Easily exploitable vulnerability allows unauthenticated attacker with network access via IIOP, T3 to compromise Oracle Coherence. Successful attacks of this vulnerability can result in takeover of Oracle Coherence. CVSS 3.1 Base Score 9.8 (Confidentiality, Integrity and Availability impacts). CVSS Vector: (CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H).| 
 | 20210128T15:55:24Z | CVE-2021-3156 | Null | https://github.com/mr-r3b00t/CVE-2021-3156 | Sudo before 1.9.5p2 has a Heap-based Buffer Overflow, allowing privilege escalation to root via %sudoedit -s% and a command-line argument that ends with a single backslash character.| 
 | 20210128T15:22:13Z | CVE-2021-3156 | Null | https://github.com/baka9moe/CVE-2021-3156-Exp | Sudo before 1.9.5p2 has a Heap-based Buffer Overflow, allowing privilege escalation to root via %sudoedit -s% and a command-line argument that ends with a single backslash character.| 
-| 20210128T11:31:04Z | cve-2020-15227 | Tester for a vulnerability CVE-2020-15227 found in nette/application and nette/nette | https://github.com/VottusCode/cve-2020-15227 | | 
+| 20210128T11:31:04Z | cve-2020-15227 | Tester for a vulnerability CVE-2020-15227 found in nette/application and nette/nette | https://github.com/VottusCode/cve-2020-15227 | 未查询到CVE信息| 
 | 20210128T09:08:05Z | CVE-2021-3156 | This simple bash script will patch the recently discovered sudo heap overflow vulnerability. | https://github.com/elbee-cyber/CVE-2021-3156-PATCHER | Sudo before 1.9.5p2 has a Heap-based Buffer Overflow, allowing privilege escalation to root via %sudoedit -s% and a command-line argument that ends with a single backslash character.| 
 | 20210128T03:39:14Z | cve-2021-3156 | 脚本小子竟是我自己? | https://github.com/H4ckForJob/cve-2021-3156 | 未查询到CVE信息| 
-| 20210128T02:36:44Z | CVE-2020-1350 | HoneyPoC: Proof-of-Concept (PoC) script to exploit SIGRed (CVE-2020-1350). Achieves Domain Admin on Domain Controllers running Windows Server 2000 up to Windows Server 2019. | https://github.com/ZephrFish/CVE-2020-1350 | | 
+| 20210128T02:36:44Z | CVE-2020-1350 | HoneyPoC: Proof-of-Concept (PoC) script to exploit SIGRed (CVE-2020-1350). Achieves Domain Admin on Domain Controllers running Windows Server 2000 up to Windows Server 2019. | https://github.com/ZephrFish/CVE-2020-1350 | A remote code execution vulnerability exists in Windows Domain Name System servers when they fail to properly handle requests, aka %Windows DNS Server Remote Code Execution Vulnerability%.| 
 | 20210128T02:21:56Z | cve-2021-3156 | cve-2021-3156;sudo堆溢出漏洞；漏洞检测 | https://github.com/yaunsky/cve-2021-3156 | 未查询到CVE信息| 
 
 
@@ -67,7 +67,6 @@
 | --- | --- | --- | --- | ---| 
 | 20210128T23:35:24Z | Sécurité des logiciels et exploitation de vulnérabilités | https://github.com/ppepos/inf600c | 3 | 0| 
 | 20210128T23:33:34Z | forked version of funtuna, a homebrew ps2 app launcher designed to ease the pain of getting a stable exploit for those that have a console uncompatible with FreeMcBoot that doesnt have a modchip | https://github.com/israpps/Funtuna-Fork | 0 | 0| 
-| 20210128T23:30:01Z | Xiongmai Exploitation Toolkit | https://github.com/redcodefinal/xet | 3 | 0| 
 | 20210128T23:18:45Z | Null | https://github.com/dotanraz/network-exploitation-detector | 0 | 0| 
 | 20210128T23:16:38Z | This bash script will help you to hack remote hosts  | https://github.com/FabioDefilippo/linuxallremote | 4 | 1| 
 | 20210128T23:02:32Z | Thi powershell script has got to run in remote windows host, even for pivoting | https://github.com/FabioDefilippo/winallenum | 0 | 1| 
@@ -75,6 +74,7 @@
 | 20210128T22:46:49Z | First Person Activity Recognition exploiting a Self-Supervised motion task, frame selection, a double Conv-LSTM and LSTA | https://github.com/emanueleing/FPAR | 0 | 0| 
 | 20210128T21:38:20Z | this bash script is for remote linux hosts hacked! | https://github.com/FabioDefilippo/linuxallenum | 8 | 0| 
 | 20210128T21:25:37Z | Basic services enumeration and exploitation | https://github.com/dar3k93/Basic-service-enumeration | 0 | 1| 
+| 20210128T21:08:04Z | An ethical pentest framework by the GeckoSec Team. It include scanning tools, exploitation tools and other hacking tools. | https://github.com/Elieroc/GeckoSec | 0 | 0| 
 
 
 # backdoor on Github 推荐
