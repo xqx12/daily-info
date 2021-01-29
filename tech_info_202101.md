@@ -55,7 +55,7 @@
 | 20210129T06:49:09Z | CVE-2021-3156 | Null | https://github.com/binw2018/CVE-2021-3156-SCRIPT | Sudo before 1.9.5p2 has a Heap-based Buffer Overflow, allowing privilege escalation to root via %sudoedit -s% and a command-line argument that ends with a single backslash character.| 
 | 20210129T05:13:00Z | CVE-2020-26732 | Skyworth GN542VF Boa version 0.94.13 does not set the Secure flag for the session cookie in an HTTPS session | https://github.com/swzhouu/CVE-2020-26732 | Skyworth GN542VF Boa version 0.94.13 does not set the Secure flag for the session cookie in an HTTPS session, which makes it easier for remote attackers to capture this cookie by intercepting its transmission within an HTTP session.| 
 | 20210129T05:12:25Z | CVE-2020-26733 | SKYWORTH GN542VF Hardware Version 2.0 and Software Version 2.0.0.16 Cross Site Scripting (XSS) Vulnerability | https://github.com/swzhouu/CVE-2020-26733 | Cross Site Scripting (XSS) in Configuration page in SKYWORTH GN542VF Hardware Version 2.0 and Software Version 2.0.0.16 allows authenticated attacker to inject their own script into the page via DDNS Configuration Section.| 
-| 20210129T05:11:29Z | CVE-2020-27368 | SKYWORTH GN542VF Hardware Version 2.0 and Software Version 2.0.0.16 Directory Indexing Vulnerability | https://github.com/swzhouu/CVE-2020-27368 | | 
+| 20210129T05:11:29Z | CVE-2020-27368 | SKYWORTH GN542VF Hardware Version 2.0 and Software Version 2.0.0.16 Directory Indexing Vulnerability | https://github.com/swzhouu/CVE-2020-27368 | Directory Indexing in Login Portal of Login Portal of TOTOLINK-A702R-V1.0.0-B20161227.1023 allows attacker to access /icons/ directories via GET Parameter.| 
 
 
 # klee on Github 推荐
@@ -89,6 +89,9 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210129T14:05:54Z | Null | https://github.com/lsw29475/exploit | 0 | 0| 
+| 20210129T14:03:06Z | Thi powershell script has got to run in remote windows host, even for pivoting | https://github.com/FabioDefilippo/winallenum | 0 | 1| 
+| 20210129T14:02:32Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 2 | 3| 
 | 20210129T13:59:09Z | Exploit for CVE-2021-3129 | https://github.com/ambionics/laravel-exploits | 10 | 2| 
 | 20210129T13:53:45Z | forked version of funtuna, a homebrew ps2 app launcher designed to ease the pain of getting a stable exploit for those that have a console uncompatible with FreeMcBoot that doesnt have a modchip | https://github.com/israpps/Funtuna-Fork | 0 | 0| 
 | 20210129T13:51:31Z | checks if the host is vulnerable to cors and uses an html exploit to be able to exploit the vulnerability | https://github.com/MoBphp/Cors | 0 | 0| 
@@ -96,9 +99,6 @@
 | 20210129T13:44:52Z | Basic services enumeration and exploitation | https://github.com/dar3k93/Basic-service-enumeration | 0 | 1| 
 | 20210129T13:39:22Z | This bash script will help you to hack remote hosts  | https://github.com/FabioDefilippo/linuxallremote | 4 | 1| 
 | 20210129T13:27:37Z | Null | https://github.com/loRes228/PasteExploit | 0 | 0| 
-| 20210129T13:10:09Z | A compilation of working exploits | https://github.com/secnigma/my_exploits | 0 | 0| 
-| 20210129T13:05:20Z | A compilation of working exploits | https://github.com/secnigma/exploits | 0 | 0| 
-| 20210129T13:01:56Z | A proxy aware C2 framework used to aid red teamers with post-exploitation and lateral movement. | https://github.com/nettitude/PoshC2 | 690 | 169| 
 
 
 # backdoor on Github 推荐
