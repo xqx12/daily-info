@@ -89,6 +89,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210129T01:08:34Z | Vulnerabilities% Risk of Exploitation | https://github.com/thiagofigcosta/V-REx | 0 | 0| 
 | 20210129T00:57:52Z | Extraction et exploitation des données de conversations Messenger | https://github.com/adrien-chinour/statistiques-messenger | 0 | 0| 
 | 20210129T00:52:42Z | Null | https://github.com/sheenieboy/ExploiterChat | 1 | 0| 
 | 20210129T00:49:53Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 7 | 4| 
@@ -98,7 +99,6 @@
 | 20210129T00:04:11Z | Various ASM, C and C++ tools, shellcodes and exploit experiments. | https://github.com/forrest-orr/ExploitDev | 32 | 2| 
 | 20210129T00:00:20Z | Null | https://github.com/loRes228/PasteExploit | 0 | 0| 
 | 20210128T23:35:24Z | Sécurité des logiciels et exploitation de vulnérabilités | https://github.com/ppepos/inf600c | 3 | 0| 
-| 20210128T23:33:34Z | forked version of funtuna, a homebrew ps2 app launcher designed to ease the pain of getting a stable exploit for those that have a console uncompatible with FreeMcBoot that doesnt have a modchip | https://github.com/israpps/Funtuna-Fork | 0 | 0| 
 
 
 # backdoor on Github 推荐
