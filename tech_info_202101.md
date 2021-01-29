@@ -48,7 +48,7 @@
 | --- | --- | --- | --- | ---| 
 | 20210129T12:34:29Z | CVE-2021-3156 | CVE-2021-3156 | https://github.com/reverse-ex/CVE-2021-3156 | Sudo before 1.9.5p2 has a Heap-based Buffer Overflow, allowing privilege escalation to root via %sudoedit -s% and a command-line argument that ends with a single backslash character.| 
 | 20210129T11:44:32Z | CVE-2021-3156 | Null | https://github.com/ltfafei/CVE-2021-3156 | Sudo before 1.9.5p2 has a Heap-based Buffer Overflow, allowing privilege escalation to root via %sudoedit -s% and a command-line argument that ends with a single backslash character.| 
-| 20210129T11:41:12Z | CVE-2021-3156 | Null | https://github.com/Serpentiel/CVE-2021-3156 | Sudo before 1.9.5p2 has a Heap-based Buffer Overflow, allowing privilege escalation to root via %sudoedit -s% and a command-line argument that ends with a single backslash character.| 
+| 20210129T11:41:12Z | CVE-2021-3156 | Null | https://github.com/Serpentiel/CVE-2021-3156 | | 
 | 20210129T10:49:30Z | CVE-2021-3156 | 1day research effort | https://github.com/kernelzeroday/CVE-2021-3156-Baron-Samedit | Sudo before 1.9.5p2 has a Heap-based Buffer Overflow, allowing privilege escalation to root via %sudoedit -s% and a command-line argument that ends with a single backslash character.| 
 | 20210129T08:56:43Z | CVE-2020-1034 | PoC demonstrating the use of cve-2020-1034 for privilege escalation | https://github.com/yardenshafir/CVE-2020-1034 | An elevation of privilege vulnerability exists in the way that the Windows Kernel handles objects in memory, aka %Windows Kernel Elevation of Privilege Vulnerability%.| 
 | 20210129T06:49:09Z | CVE-2021-3156 | Null | https://github.com/binw2018/CVE-2021-3156-SCRIPT | Sudo before 1.9.5p2 has a Heap-based Buffer Overflow, allowing privilege escalation to root via %sudoedit -s% and a command-line argument that ends with a single backslash character.| 
@@ -119,16 +119,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210128T13:21:30Z | A fuzzer for various top-level await bundling strategies | https://github.com/evanw/tla-fuzzer | 15 | 0| 
-| 20210128T13:13:00Z | This tool uses fzf(1)-like fuzzy-finder to do partial or fuzzy search of Kubernetes resources. Instead of specifying full resource names to kubectl commands, you can choose them from an interactive list that you can filter by typing a few characters. | https://github.com/d-kuro/kubectl-fuzzy | 74 | 9| 
-| 20210128T12:25:34Z | Weather Forecast which is implemented by using Fuzzy Logic System (scikit-fuzzy) | https://github.com/lokcies/weather-forecast-fuzzy | 0 | 0| 
-| 20210128T12:13:38Z | Some work done on LeNet and PyGAN in my free time. | https://github.com/DevChuriwala/FuzzyAdventure | 0 | 0| 
-| 20210128T12:10:50Z | 针对小型应用服务搜索场景的工具包（也可部署为 独立服务） | https://github.com/kc910521/MiniSearch | 4 | 0| 
-| 20210128T12:02:35Z | HTTP fuzzer engine security oriented | https://github.com/NozakiLabs/nozaki | 23 | 6| 
-| 20210128T11:39:54Z | Null | https://github.com/s9varesc/url-fuzzing | 0 | 0| 
-| 20210128T11:16:52Z | Fuzzing cryptographic libraries. Magic bug printer go brrrr. | https://github.com/guidovranken/cryptofuzz | 234 | 31| 
-| 20210128T10:44:15Z | Null | https://github.com/henryhill1999/leaflet-fuzzy | 0 | 0| 
-| 20210128T10:26:06Z | FLUFFI (Fully Localized Utility For Fuzzing Instantaneously) - A distributed evolutionary binary fuzzer for pentesters | https://github.com/siemens/fluffi | 73 | 15| 
+| 20210129T13:04:03Z | Structure-aware, in-process, coverage-guided, evolutionary fuzzing engine for Rust functions. | https://github.com/loiclec/fuzzcheck-rs | 203 | 4| 
+| 20210129T12:50:05Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 3324 | 769| 
+| 20210129T12:48:29Z | 针对小型应用服务搜索场景的工具包（也可部署为独立服务） | https://github.com/kc910521/MiniSearch | 4 | 0| 
+| 20210129T12:17:37Z | JavaScript fuzzer by Oliver Chang et al. | https://github.com/pmatos/js_fuzzer | 0 | 0| 
+| 20210129T12:14:53Z | A project made to illustrate the capability to itterate through common human behaviours when choosing a password. | https://github.com/carlslatter16/HumanPassFuzzer | 0 | 0| 
+| 20210129T11:47:09Z | A fuzzer for various top-level await bundling strategies | https://github.com/evanw/tla-fuzzer | 22 | 0| 
+| 20210129T11:33:29Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2255 | 117| 
+| 20210129T11:31:33Z | Personal website of Laurence Hughes | https://github.com/fuzzylogicxx/fuzzylogic | 4 | 1| 
+| 20210129T11:13:23Z | Fuzzing cryptographic libraries. Magic bug printer go brrrr. | https://github.com/guidovranken/cryptofuzz | 236 | 32| 
+| 20210129T10:56:56Z | A fork of AFL for fuzzing Windows binaries | https://github.com/googleprojectzero/winafl | 1599 | 415| 
 
 
 
