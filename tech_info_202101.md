@@ -16,6 +16,8 @@
 | 20210128 | ERNW Whitepaper 71 - 多种反病毒软件隔离文件的文件格式的分析 | https://insinuator.net/2021/01/ernw-whitepaper-71-analysis-of-anti-virus-software-quarantine-files/| 
 | 20210128 | 检测逃避恶意软件TeamTNT分析。 | https://threatpost.com/teamtnt-cloaks-malware-open-source-tool/163414/| 
 | 20210128 | 根据研究人员最新研究发现远程攻击者利用网络地址转换（NAT）滑流攻击对网络设备安全威胁。 | https://threatpost.com/remote-attackers-internal-network-devices-nat-slipstreaming/163400/| 
+| 20210128 | 为被动扫描器量身打造一款爬虫 - LSpider | https://paper.seebug.org/1473/| 
+| 20210128 | XNU kauth 子系统解读 | https://paper.seebug.org/1472/| 
 | 20210127 | Google 修复 Golang Windows RCE 漏洞（CVE-2021-3115） | https://www.bleepingcomputer.com/news/security/google-fixes-severe-golang-windows-rce-vulnerability/| 
 | 20210127 | Apple 紧急发布 iOS 14.4/iPadOS 14.4，修复 3 个可能已被野外利用的 0Day | https://support.apple.com/en-us/HT212146| 
 | 20210127 | sudo 堆溢出漏洞 CVE-2021-3156 分析 | https://blog.qualys.com/vulnerabilities-research/2021/01/26/cve-2021-3156-heap-based-buffer-overflow-in-sudo-baron-samedit| 
@@ -24,8 +26,6 @@
 | 20210127 | 动静态分析的方法检测软件供应链中的 0Day 攻击 | https://ajinabraham.com/blog/detecting-zero-days-in-software-supply-chain-with-static-and-dynamic-analysis| 
 | 20210127 | ZDI 将于 4 月份在温哥华举办 Pwn2Own 2021，比赛的目标及细则公布了 | https://www.thezdi.com/blog/2021/1/25/announcing-pwn2own-vancouver-2021| 
 | 20210127 | Checkpoint 对近期发现的 TikTok 通讯录同步相关的隐私问题的分析 | https://research.checkpoint.com/2021/tiktok-fixes-privacy-issue-discovered-by-check-point-research/| 
-| 20210127 | SSRF 漏洞以及在不同语言中的利用 | https://security.tencent.com/index.php/blog/msg/179| 
-| 20210127 | 为Hyper-V“网桥”进行模糊测试-第1部分：Windows Driver Foundation（WDF）编写硬件驱动程序介绍。 | https://www.alex-ionescu.com/?p=377| 
 
 
 # 安全维基 推荐
@@ -51,7 +51,7 @@
 | 20210129T01:18:57Z | 未知编号 | sudo安全漏洞检测脚本，用来检查您的系统当前是否存在相关的安全漏洞。 | https://github.com/gh-Devin/sudo-cve-2021 | 未查询到CVE信息| 
 | 20210129T00:08:11Z | CVE-2021-3156 | CVE-2021-3156 | https://github.com/ph4ntonn/CVE-2021-3156 | Sudo before 1.9.5p2 has a Heap-based Buffer Overflow, allowing privilege escalation to root via %sudoedit -s% and a command-line argument that ends with a single backslash character.| 
 | 20210128T23:25:13Z | CVE-2021-3156 | 1day research effort | https://github.com/kernelzeroday/CVE-2021-3156-Baron-Samedit | Sudo before 1.9.5p2 has a Heap-based Buffer Overflow, allowing privilege escalation to root via %sudoedit -s% and a command-line argument that ends with a single backslash character.| 
-| 20210128T18:26:55Z | CVE-2020-1034 | PoC demonstrating the use of cve-2020-1034 for privilege escalation | https://github.com/yardenshafir/CVE-2020-1034 | | 
+| 20210128T18:26:55Z | CVE-2020-1034 | PoC demonstrating the use of cve-2020-1034 for privilege escalation | https://github.com/yardenshafir/CVE-2020-1034 | An elevation of privilege vulnerability exists in the way that the Windows Kernel handles objects in memory, aka %Windows Kernel Elevation of Privilege Vulnerability%.| 
 | 20210128T16:00:07Z | CVE-2020-14756 | WebLogic T3/IIOP RCE ExternalizableHelper.class of coherence.jar | https://github.com/Y4er/CVE-2020-14756 | Vulnerability in the Oracle Coherence product of Oracle Fusion Middleware (component: Core Components). Supported versions that are affected are 3.7.1.0, 12.1.3.0.0, 12.2.1.3.0, 12.2.1.4.0 and 14.1.1.0.0. Easily exploitable vulnerability allows unauthenticated attacker with network access via IIOP, T3 to compromise Oracle Coherence. Successful attacks of this vulnerability can result in takeover of Oracle Coherence. CVSS 3.1 Base Score 9.8 (Confidentiality, Integrity and Availability impacts). CVSS Vector: (CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H).| 
 | 20210128T15:55:24Z | CVE-2021-3156 | Null | https://github.com/mr-r3b00t/CVE-2021-3156 | Sudo before 1.9.5p2 has a Heap-based Buffer Overflow, allowing privilege escalation to root via %sudoedit -s% and a command-line argument that ends with a single backslash character.| 
 | 20210128T15:22:13Z | CVE-2021-3156 | Null | https://github.com/baka9moe/CVE-2021-3156-Exp | Sudo before 1.9.5p2 has a Heap-based Buffer Overflow, allowing privilege escalation to root via %sudoedit -s% and a command-line argument that ends with a single backslash character.| 
@@ -104,7 +104,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210129T02:44:24Z | This is an implementation demo of the ICLR 2021 paper [Neural Attention Distillation: Erasing Backdoor Triggers from Deep Neural Networks](https://arxiv.org/abs/2101.05930) in PyTorch. | https://github.com/bboylyg/NAD | 5 | 0| 
+| 20210129T02:46:28Z | This is an implementation demo of the ICLR 2021 paper [Neural Attention Distillation: Erasing Backdoor Triggers from Deep Neural Networks](https://arxiv.org/abs/2101.05930) in PyTorch. | https://github.com/bboylyg/NAD | 5 | 0| 
 | 20210129T02:36:28Z | Undetectable & Xor encrypting with custom KEY (FUD Metasploit Rat) bypass Top Antivirus like BitDefender,Malwarebytes,Avast,ESET-NOD32,AVG,... & Automatically Add ICON and MANIFEST to excitable | https://github.com/persianhydra/Xeexe-TopAntivirusEvasion | 270 | 76| 
 | 20210128T21:04:10Z | Ghost Framework is an Android post-exploitation framework that exploits the Android Debug Bridge to remotely access an Android device. Ghost Framework gives you the power and convenience of remote Android device administration. | https://github.com/EntySec/ghost | 928 | 474| 
 | 20210128T17:26:39Z | FUD cross-platform python2 backdoor with C2 | https://github.com/7h3w4lk3r/pyback | 15 | 5| 

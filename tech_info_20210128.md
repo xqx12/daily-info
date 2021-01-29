@@ -16,6 +16,8 @@
 | 20210128 | ERNW Whitepaper 71 - 多种反病毒软件隔离文件的文件格式的分析 | https://insinuator.net/2021/01/ernw-whitepaper-71-analysis-of-anti-virus-software-quarantine-files/| 
 | 20210128 | 检测逃避恶意软件TeamTNT分析。 | https://threatpost.com/teamtnt-cloaks-malware-open-source-tool/163414/| 
 | 20210128 | 根据研究人员最新研究发现远程攻击者利用网络地址转换（NAT）滑流攻击对网络设备安全威胁。 | https://threatpost.com/remote-attackers-internal-network-devices-nat-slipstreaming/163400/| 
+| 20210128 | 为被动扫描器量身打造一款爬虫 - LSpider | https://paper.seebug.org/1473/| 
+| 20210128 | XNU kauth 子系统解读 | https://paper.seebug.org/1472/| 
 
 
 # 安全维基 推荐
@@ -35,7 +37,7 @@
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
 | 20210128T23:25:13Z | CVE-2021-3156 | 1day research effort | https://github.com/kernelzeroday/CVE-2021-3156-Baron-Samedit | Sudo before 1.9.5p2 has a Heap-based Buffer Overflow, allowing privilege escalation to root via %sudoedit -s% and a command-line argument that ends with a single backslash character.| 
-| 20210128T18:26:55Z | CVE-2020-1034 | PoC demonstrating the use of cve-2020-1034 for privilege escalation | https://github.com/yardenshafir/CVE-2020-1034 | | 
+| 20210128T18:26:55Z | CVE-2020-1034 | PoC demonstrating the use of cve-2020-1034 for privilege escalation | https://github.com/yardenshafir/CVE-2020-1034 | An elevation of privilege vulnerability exists in the way that the Windows Kernel handles objects in memory, aka %Windows Kernel Elevation of Privilege Vulnerability%.| 
 | 20210128T16:00:07Z | CVE-2020-14756 | WebLogic T3/IIOP RCE ExternalizableHelper.class of coherence.jar | https://github.com/Y4er/CVE-2020-14756 | Vulnerability in the Oracle Coherence product of Oracle Fusion Middleware (component: Core Components). Supported versions that are affected are 3.7.1.0, 12.1.3.0.0, 12.2.1.3.0, 12.2.1.4.0 and 14.1.1.0.0. Easily exploitable vulnerability allows unauthenticated attacker with network access via IIOP, T3 to compromise Oracle Coherence. Successful attacks of this vulnerability can result in takeover of Oracle Coherence. CVSS 3.1 Base Score 9.8 (Confidentiality, Integrity and Availability impacts). CVSS Vector: (CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H).| 
 | 20210128T15:55:24Z | CVE-2021-3156 | Null | https://github.com/mr-r3b00t/CVE-2021-3156 | Sudo before 1.9.5p2 has a Heap-based Buffer Overflow, allowing privilege escalation to root via %sudoedit -s% and a command-line argument that ends with a single backslash character.| 
 | 20210128T15:22:13Z | CVE-2021-3156 | Null | https://github.com/baka9moe/CVE-2021-3156-Exp | Sudo before 1.9.5p2 has a Heap-based Buffer Overflow, allowing privilege escalation to root via %sudoedit -s% and a command-line argument that ends with a single backslash character.| 
