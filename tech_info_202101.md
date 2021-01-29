@@ -18,6 +18,7 @@
 | 20210128 | 根据研究人员最新研究发现远程攻击者利用网络地址转换（NAT）滑流攻击对网络设备安全威胁。 | https://threatpost.com/remote-attackers-internal-network-devices-nat-slipstreaming/163400/| 
 | 20210128 | 为被动扫描器量身打造一款爬虫 - LSpider | https://paper.seebug.org/1473/| 
 | 20210128 | XNU kauth 子系统解读 | https://paper.seebug.org/1472/| 
+| 20210128 | Project Zero Samuel Groß 对 iMessage 的安全研究 | https://googleprojectzero.blogspot.com/2021/01/a-look-at-imessage-in-ios-14.html| 
 | 20210127 | Google 修复 Golang Windows RCE 漏洞（CVE-2021-3115） | https://www.bleepingcomputer.com/news/security/google-fixes-severe-golang-windows-rce-vulnerability/| 
 | 20210127 | Apple 紧急发布 iOS 14.4/iPadOS 14.4，修复 3 个可能已被野外利用的 0Day | https://support.apple.com/en-us/HT212146| 
 | 20210127 | sudo 堆溢出漏洞 CVE-2021-3156 分析 | https://blog.qualys.com/vulnerabilities-research/2021/01/26/cve-2021-3156-heap-based-buffer-overflow-in-sudo-baron-samedit| 
@@ -25,7 +26,6 @@
 | 20210127 | Fill your Boots: Enhanced Embedded BootloaderExploits via Fault Injection and Binary Analysis(Paper) | http://tches.iacr.org/index.php/TCHES/article/view/8727/8327| 
 | 20210127 | 动静态分析的方法检测软件供应链中的 0Day 攻击 | https://ajinabraham.com/blog/detecting-zero-days-in-software-supply-chain-with-static-and-dynamic-analysis| 
 | 20210127 | ZDI 将于 4 月份在温哥华举办 Pwn2Own 2021，比赛的目标及细则公布了 | https://www.thezdi.com/blog/2021/1/25/announcing-pwn2own-vancouver-2021| 
-| 20210127 | Checkpoint 对近期发现的 TikTok 通讯录同步相关的隐私问题的分析 | https://research.checkpoint.com/2021/tiktok-fixes-privacy-issue-discovered-by-check-point-research/| 
 
 
 # 安全维基 推荐
@@ -46,13 +46,13 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20210129T02:58:13Z | CVE-2021-3156 | CVE-2021-3156 | https://github.com/reverse-ex/CVE-2021-3156 | Sudo before 1.9.5p2 has a Heap-based Buffer Overflow, allowing privilege escalation to root via %sudoedit -s% and a command-line argument that ends with a single backslash character.| 
+| 20210129T03:06:51Z | CVE-2021-3156 | CVE-2021-3156 | https://github.com/reverse-ex/CVE-2021-3156 | Sudo before 1.9.5p2 has a Heap-based Buffer Overflow, allowing privilege escalation to root via %sudoedit -s% and a command-line argument that ends with a single backslash character.| 
+| 20210129T03:04:39Z | CVE-2020-14756 | WebLogic T3/IIOP RCE ExternalizableHelper.class of coherence.jar | https://github.com/Y4er/CVE-2020-14756 | Vulnerability in the Oracle Coherence product of Oracle Fusion Middleware (component: Core Components). Supported versions that are affected are 3.7.1.0, 12.1.3.0.0, 12.2.1.3.0, 12.2.1.4.0 and 14.1.1.0.0. Easily exploitable vulnerability allows unauthenticated attacker with network access via IIOP, T3 to compromise Oracle Coherence. Successful attacks of this vulnerability can result in takeover of Oracle Coherence. CVSS 3.1 Base Score 9.8 (Confidentiality, Integrity and Availability impacts). CVSS Vector: (CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H).| 
 | 20210129T02:48:06Z | CVE-2021-3156 | Null | https://github.com/Serpentiel/CVE-2021-3156 | Sudo before 1.9.5p2 has a Heap-based Buffer Overflow, allowing privilege escalation to root via %sudoedit -s% and a command-line argument that ends with a single backslash character.| 
 | 20210129T01:18:57Z | 未知编号 | sudo安全漏洞检测脚本，用来检查您的系统当前是否存在相关的安全漏洞。 | https://github.com/gh-Devin/sudo-cve-2021 | 未查询到CVE信息| 
 | 20210129T00:08:11Z | CVE-2021-3156 | CVE-2021-3156 | https://github.com/ph4ntonn/CVE-2021-3156 | Sudo before 1.9.5p2 has a Heap-based Buffer Overflow, allowing privilege escalation to root via %sudoedit -s% and a command-line argument that ends with a single backslash character.| 
 | 20210128T23:25:13Z | CVE-2021-3156 | 1day research effort | https://github.com/kernelzeroday/CVE-2021-3156-Baron-Samedit | Sudo before 1.9.5p2 has a Heap-based Buffer Overflow, allowing privilege escalation to root via %sudoedit -s% and a command-line argument that ends with a single backslash character.| 
-| 20210128T18:26:55Z | CVE-2020-1034 | PoC demonstrating the use of cve-2020-1034 for privilege escalation | https://github.com/yardenshafir/CVE-2020-1034 | | 
-| 20210128T16:00:07Z | CVE-2020-14756 | WebLogic T3/IIOP RCE ExternalizableHelper.class of coherence.jar | https://github.com/Y4er/CVE-2020-14756 | Vulnerability in the Oracle Coherence product of Oracle Fusion Middleware (component: Core Components). Supported versions that are affected are 3.7.1.0, 12.1.3.0.0, 12.2.1.3.0, 12.2.1.4.0 and 14.1.1.0.0. Easily exploitable vulnerability allows unauthenticated attacker with network access via IIOP, T3 to compromise Oracle Coherence. Successful attacks of this vulnerability can result in takeover of Oracle Coherence. CVSS 3.1 Base Score 9.8 (Confidentiality, Integrity and Availability impacts). CVSS Vector: (CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H).| 
+| 20210128T18:26:55Z | CVE-2020-1034 | PoC demonstrating the use of cve-2020-1034 for privilege escalation | https://github.com/yardenshafir/CVE-2020-1034 | An elevation of privilege vulnerability exists in the way that the Windows Kernel handles objects in memory, aka %Windows Kernel Elevation of Privilege Vulnerability%.| 
 | 20210128T15:55:24Z | CVE-2021-3156 | Null | https://github.com/mr-r3b00t/CVE-2021-3156 | Sudo before 1.9.5p2 has a Heap-based Buffer Overflow, allowing privilege escalation to root via %sudoedit -s% and a command-line argument that ends with a single backslash character.| 
 | 20210128T15:22:13Z | CVE-2021-3156 | Null | https://github.com/baka9moe/CVE-2021-3156-Exp | Sudo before 1.9.5p2 has a Heap-based Buffer Overflow, allowing privilege escalation to root via %sudoedit -s% and a command-line argument that ends with a single backslash character.| 
 | 20210128T11:31:04Z | cve-2020-15227 | Tester for a vulnerability CVE-2020-15227 found in nette/application and nette/nette | https://github.com/VottusCode/cve-2020-15227 | 未查询到CVE信息| 
@@ -61,11 +61,11 @@
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210129T03:04:58Z | Null | https://github.com/fontworks-fonts/Klee | 338 | 9| 
 | 20210129T00:11:20Z | Null | https://github.com/kleelab/kleelab.github.io | 0 | 0| 
 | 20210128T22:07:42Z | The compiler inputs a PDDL benchmark of the Carpark planning problem and converts it to an equivalent C code which is used for solving the planning problem by program verification tools such as KLEE/TracerX. | https://github.com/daneshvar-amrollahi/Carpark-PDDL2C | 0 | 0| 
 | 20210128T17:52:36Z | Website for the KLEE project: https://klee.github.io/ | https://github.com/klee/klee.github.io | 14 | 41| 
 | 20210128T11:36:40Z | Symbiotic is a tool for finding bugs in computer programs based on instrumentation, program slicing and KLEE | https://github.com/staticafi/symbiotic | 212 | 34| 
-| 20210128T09:30:34Z | Null | https://github.com/fontworks-fonts/Klee | 337 | 9| 
 | 20210128T07:19:19Z | RVT is a collection of tools/libraries to support both static and dynamic verification of Rust programs. | https://github.com/project-oak/rust-verification-tools | 106 | 6| 
 | 20210128T05:15:06Z | Null | https://github.com/jiseongg/klee_experiment | 0 | 0| 
 | 20210127T22:52:40Z | Null | https://github.com/klee30810/klee30810.github.io | 0 | 0| 
@@ -89,6 +89,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210129T03:05:24Z | CyberQueens lesson materials - learning resources and exercises for aspiring reverse engineers, exploit developers, and hackers 👩‍💻👨‍💻 | https://github.com/CyberQueens/CyberQueens | 19 | 8| 
+| 20210129T03:01:07Z | https://iplogger.org/ استخاج ابي الشخص و معلومات حوله  http://www.ipaddresslocation.org  https://who.is/  https://archive.org/web/  البحث عن مواقع  https://www.shodan.io/  بحث من خلال ايبي او dans http://www.bing.com/  https://www.netcraft.com/  البحث عن قواعد البيانات  https://www.exploit-db.com/ | https://github.com/nyctophile6/Information-gathering-via-ip | 0 | 0| 
 | 20210129T02:40:41Z | A collection of Leaked / Deobfuscated Minecraft Utility Mods. Meant for checking optimization, or just checking how the clients work. | https://github.com/Gowixx/Minecraft-Hacked-Client-Sources | 4 | 2| 
 | 20210129T02:34:28Z | First category of exploits | https://github.com/HermitDH/E1 | 0 | 0| 
 | 20210129T02:22:39Z | Xiongmai Exploitation Toolkit | https://github.com/redcodefinal/xet | 3 | 0| 
@@ -97,8 +99,6 @@
 | 20210129T01:45:07Z | Various ASM, C and C++ tools, shellcodes and exploit experiments. | https://github.com/forrest-orr/ExploitDev | 32 | 2| 
 | 20210129T01:16:23Z | IoT 固件漏洞复现环境 | https://github.com/firmianay/IoT-vulhub | 173 | 12| 
 | 20210129T01:10:35Z | A work in progress repository for curated and created AFL-enabled fuzzing datasets for various programs, protocols, and file formats. | https://github.com/cloudsriseup/AFL_DataSets | 3 | 0| 
-| 20210129T00:57:52Z | Extraction et exploitation des données de conversations Messenger | https://github.com/adrien-chinour/statistiques-messenger | 0 | 0| 
-| 20210129T00:52:42Z | Null | https://github.com/sheenieboy/ExploiterChat | 1 | 0| 
 
 
 # backdoor on Github 推荐
