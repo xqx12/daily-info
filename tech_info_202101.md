@@ -104,6 +104,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210129T02:44:24Z | This is an implementation demo of the ICLR 2021 paper [Neural Attention Distillation: Erasing Backdoor Triggers from Deep Neural Networks](https://arxiv.org/abs/2101.05930) in PyTorch. | https://github.com/bboylyg/NAD | 5 | 0| 
 | 20210129T02:36:28Z | Undetectable & Xor encrypting with custom KEY (FUD Metasploit Rat) bypass Top Antivirus like BitDefender,Malwarebytes,Avast,ESET-NOD32,AVG,... & Automatically Add ICON and MANIFEST to excitable | https://github.com/persianhydra/Xeexe-TopAntivirusEvasion | 270 | 76| 
 | 20210128T21:04:10Z | Ghost Framework is an Android post-exploitation framework that exploits the Android Debug Bridge to remotely access an Android device. Ghost Framework gives you the power and convenience of remote Android device administration. | https://github.com/EntySec/ghost | 928 | 474| 
 | 20210128T17:26:39Z | FUD cross-platform python2 backdoor with C2 | https://github.com/7h3w4lk3r/pyback | 15 | 5| 
@@ -113,7 +114,6 @@
 | 20210128T08:28:16Z | Null | https://github.com/mohdhumaid/BackdoorPython27 | 1 | 0| 
 | 20210128T06:42:50Z | Null | https://github.com/rabbitx1337/backdoor | 0 | 0| 
 | 20210128T02:44:48Z | Tool to find potential backdoor/security holes in your endpoint | https://github.com/subasgit/backdoorfinder | 1 | 0| 
-| 20210128T00:36:13Z | Null | https://github.com/khausxl/backdoor-rn | 0 | 0| 
 
 
 # fuzz on Github 推荐
