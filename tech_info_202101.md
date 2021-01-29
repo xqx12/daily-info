@@ -46,10 +46,10 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20210129T13:55:38Z | CVE-2021-3156 | Null | https://github.com/Serpentiel/CVE-2021-3156 | Sudo before 1.9.5p2 has a Heap-based Buffer Overflow, allowing privilege escalation to root via %sudoedit -s% and a command-line argument that ends with a single backslash character.| 
 | 20210129T13:45:15Z | CVE-2021-3156 | Null | https://github.com/ltfafei/CVE-2021-3156 | Sudo before 1.9.5p2 has a Heap-based Buffer Overflow, allowing privilege escalation to root via %sudoedit -s% and a command-line argument that ends with a single backslash character.| 
 | 20210129T13:35:53Z | CVE-2021-3156 | CVE-2021-3156 | https://github.com/reverse-ex/CVE-2021-3156 | Sudo before 1.9.5p2 has a Heap-based Buffer Overflow, allowing privilege escalation to root via %sudoedit -s% and a command-line argument that ends with a single backslash character.| 
 | 20210129T13:13:37Z | CVE-2020-14882 | Null | https://github.com/pwn3z/CVE-2020-14882-WebLogic | Vulnerability in the Oracle WebLogic Server product of Oracle Fusion Middleware (component: Console). Supported versions that are affected are 10.3.6.0.0, 12.1.3.0.0, 12.2.1.3.0, 12.2.1.4.0 and 14.1.1.0.0. Easily exploitable vulnerability allows unauthenticated attacker with network access via HTTP to compromise Oracle WebLogic Server. Successful attacks of this vulnerability can result in takeover of Oracle WebLogic Server. CVSS 3.1 Base Score 9.8 (Confidentiality, Integrity and Availability impacts). CVSS Vector: (CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H).| 
-| 20210129T13:11:11Z | CVE-2021-3156 | Null | https://github.com/Serpentiel/CVE-2021-3156 | Sudo before 1.9.5p2 has a Heap-based Buffer Overflow, allowing privilege escalation to root via %sudoedit -s% and a command-line argument that ends with a single backslash character.| 
 | 20210129T10:49:30Z | CVE-2021-3156 | 1day research effort | https://github.com/kernelzeroday/CVE-2021-3156-Baron-Samedit | Sudo before 1.9.5p2 has a Heap-based Buffer Overflow, allowing privilege escalation to root via %sudoedit -s% and a command-line argument that ends with a single backslash character.| 
 | 20210129T08:56:43Z | CVE-2020-1034 | PoC demonstrating the use of cve-2020-1034 for privilege escalation | https://github.com/yardenshafir/CVE-2020-1034 | An elevation of privilege vulnerability exists in the way that the Windows Kernel handles objects in memory, aka %Windows Kernel Elevation of Privilege Vulnerability%.| 
 | 20210129T06:49:09Z | CVE-2021-3156 | Null | https://github.com/binw2018/CVE-2021-3156-SCRIPT | Sudo before 1.9.5p2 has a Heap-based Buffer Overflow, allowing privilege escalation to root via %sudoedit -s% and a command-line argument that ends with a single backslash character.| 
@@ -89,12 +89,12 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210129T13:53:45Z | forked version of funtuna, a homebrew ps2 app launcher designed to ease the pain of getting a stable exploit for those that have a console uncompatible with FreeMcBoot that doesnt have a modchip | https://github.com/israpps/Funtuna-Fork | 0 | 0| 
 | 20210129T13:51:31Z | checks if the host is vulnerable to cors and uses an html exploit to be able to exploit the vulnerability | https://github.com/MoBphp/Cors | 0 | 0| 
 | 20210129T13:46:05Z | CAUTION - Malicious files | https://github.com/Am0rphous/Malware | 17 | 6| 
 | 20210129T13:44:52Z | Basic services enumeration and exploitation | https://github.com/dar3k93/Basic-service-enumeration | 0 | 1| 
 | 20210129T13:39:22Z | This bash script will help you to hack remote hosts  | https://github.com/FabioDefilippo/linuxallremote | 4 | 1| 
 | 20210129T13:27:37Z | Null | https://github.com/loRes228/PasteExploit | 0 | 0| 
-| 20210129T13:24:19Z | forked version of funtuna, a homebrew ps2 app launcher designed to ease the pain of getting a stable exploit for those that have a console uncompatible with FreeMcBoot that doesnt have a modchip | https://github.com/israpps/Funtuna-Fork | 0 | 0| 
 | 20210129T13:10:09Z | A compilation of working exploits | https://github.com/secnigma/my_exploits | 0 | 0| 
 | 20210129T13:05:20Z | A compilation of working exploits | https://github.com/secnigma/exploits | 0 | 0| 
 | 20210129T13:01:56Z | A proxy aware C2 framework used to aid red teamers with post-exploitation and lateral movement. | https://github.com/nettitude/PoshC2 | 690 | 169| 
@@ -104,10 +104,10 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210129T13:44:15Z | Null | https://github.com/SourceCode1037/Backdoor | 0 | 0| 
 | 20210129T13:22:12Z | Null | https://github.com/jorick93/opdracht_Backdoor | 0 | 0| 
 | 20210129T11:58:24Z | Adversarial Backdoor Attack | https://github.com/sturggleQ/AdvDoor | 0 | 0| 
 | 20210129T11:21:12Z | Ghost Framework is an Android post-exploitation framework that exploits the Android Debug Bridge to remotely access an Android device. Ghost Framework gives you the power and convenience of remote Android device administration. | https://github.com/EntySec/ghost | 930 | 475| 
-| 20210129T10:46:04Z | Null | https://github.com/SourceCode1037/Backdoor | 0 | 0| 
 | 20210129T10:42:40Z | Open-Source Remote Administration Tool For Windows C# (RAT) | https://github.com/NYAN-x-CAT/AsyncRAT-C-Sharp | 776 | 342| 
 | 20210129T09:39:50Z | This is an implementation demo of the ICLR 2021 paper [Neural Attention Distillation: Erasing Backdoor Triggers from Deep Neural Networks](https://arxiv.org/abs/2101.05930) in PyTorch. | https://github.com/bboylyg/NAD | 9 | 1| 
 | 20210129T09:35:52Z | Input-aware Dynamic Backdoor Attack (Neural Information Processing Systems 2020) | https://github.com/VinAIResearch/input-aware-backdoor-attack-release | 25 | 3| 
