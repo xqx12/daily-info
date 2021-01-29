@@ -40,8 +40,8 @@
 | 20210128T15:55:24Z | CVE-2021-3156 | Null | https://github.com/mr-r3b00t/CVE-2021-3156 | Sudo before 1.9.5p2 has a Heap-based Buffer Overflow, allowing privilege escalation to root via %sudoedit -s% and a command-line argument that ends with a single backslash character.| 
 | 20210128T15:22:13Z | CVE-2021-3156 | Null | https://github.com/baka9moe/CVE-2021-3156-Exp | Sudo before 1.9.5p2 has a Heap-based Buffer Overflow, allowing privilege escalation to root via %sudoedit -s% and a command-line argument that ends with a single backslash character.| 
 | 20210128T11:31:04Z | cve-2020-15227 | Tester for a vulnerability CVE-2020-15227 found in nette/application and nette/nette | https://github.com/VottusCode/cve-2020-15227 | 未查询到CVE信息| 
-| 20210128T09:08:05Z | CVE-2021-3156 | This simple bash script will patch the recently discovered sudo heap overflow vulnerability. | https://github.com/elbee-cyber/CVE-2021-3156-PATCHER | Sudo before 1.9.5p2 has a Heap-based Buffer Overflow, allowing privilege escalation to root via %sudoedit -s% and a command-line argument that ends with a single backslash character.| 
-| 20210128T03:39:14Z | cve-2021-3156 | 脚本小子竟是我自己? | https://github.com/H4ckForJob/cve-2021-3156 | 未查询到CVE信息| 
+| 20210128T09:08:05Z | CVE-2021-3156 | This simple bash script will patch the recently discovered sudo heap overflow vulnerability. | https://github.com/elbee-cyber/CVE-2021-3156-PATCHER | | 
+| 20210128T03:39:14Z | cve-2021-3156 | 脚本小子竟是我自己? | https://github.com/H4ckForJob/cve-2021-3156 | | 
 | 20210128T02:36:44Z | CVE-2020-1350 | HoneyPoC: Proof-of-Concept (PoC) script to exploit SIGRed (CVE-2020-1350). Achieves Domain Admin on Domain Controllers running Windows Server 2000 up to Windows Server 2019. | https://github.com/ZephrFish/CVE-2020-1350 | A remote code execution vulnerability exists in Windows Domain Name System servers when they fail to properly handle requests, aka %Windows DNS Server Remote Code Execution Vulnerability%.| 
 | 20210128T02:21:56Z | cve-2021-3156 | cve-2021-3156;sudo堆溢出漏洞；漏洞检测 | https://github.com/yaunsky/cve-2021-3156 | 未查询到CVE信息| 
 
