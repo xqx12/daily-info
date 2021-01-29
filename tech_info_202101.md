@@ -55,7 +55,7 @@
 | 20210129T06:49:09Z | CVE-2021-3156 | Null | https://github.com/binw2018/CVE-2021-3156-SCRIPT | Sudo before 1.9.5p2 has a Heap-based Buffer Overflow, allowing privilege escalation to root via %sudoedit -s% and a command-line argument that ends with a single backslash character.| 
 | 20210129T05:13:00Z | CVE-2020-26732 | Skyworth GN542VF Boa version 0.94.13 does not set the Secure flag for the session cookie in an HTTPS session | https://github.com/swzhouu/CVE-2020-26732 | Skyworth GN542VF Boa version 0.94.13 does not set the Secure flag for the session cookie in an HTTPS session, which makes it easier for remote attackers to capture this cookie by intercepting its transmission within an HTTP session.| 
 | 20210129T05:12:25Z | CVE-2020-26733 | SKYWORTH GN542VF Hardware Version 2.0 and Software Version 2.0.0.16 Cross Site Scripting (XSS) Vulnerability | https://github.com/swzhouu/CVE-2020-26733 | Cross Site Scripting (XSS) in Configuration page in SKYWORTH GN542VF Hardware Version 2.0 and Software Version 2.0.0.16 allows authenticated attacker to inject their own script into the page via DDNS Configuration Section.| 
-| 20210129T05:11:29Z | CVE-2020-27368 | SKYWORTH GN542VF Hardware Version 2.0 and Software Version 2.0.0.16 Directory Indexing Vulnerability | https://github.com/swzhouu/CVE-2020-27368 | Directory Indexing in Login Portal of Login Portal of TOTOLINK-A702R-V1.0.0-B20161227.1023 allows attacker to access /icons/ directories via GET Parameter.| 
+| 20210129T05:11:29Z | CVE-2020-27368 | SKYWORTH GN542VF Hardware Version 2.0 and Software Version 2.0.0.16 Directory Indexing Vulnerability | https://github.com/swzhouu/CVE-2020-27368 | | 
 
 
 # klee on Github 推荐
@@ -89,6 +89,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210129T13:59:09Z | Exploit for CVE-2021-3129 | https://github.com/ambionics/laravel-exploits | 10 | 2| 
 | 20210129T13:53:45Z | forked version of funtuna, a homebrew ps2 app launcher designed to ease the pain of getting a stable exploit for those that have a console uncompatible with FreeMcBoot that doesnt have a modchip | https://github.com/israpps/Funtuna-Fork | 0 | 0| 
 | 20210129T13:51:31Z | checks if the host is vulnerable to cors and uses an html exploit to be able to exploit the vulnerability | https://github.com/MoBphp/Cors | 0 | 0| 
 | 20210129T13:46:05Z | CAUTION - Malicious files | https://github.com/Am0rphous/Malware | 17 | 6| 
@@ -98,7 +99,6 @@
 | 20210129T13:10:09Z | A compilation of working exploits | https://github.com/secnigma/my_exploits | 0 | 0| 
 | 20210129T13:05:20Z | A compilation of working exploits | https://github.com/secnigma/exploits | 0 | 0| 
 | 20210129T13:01:56Z | A proxy aware C2 framework used to aid red teamers with post-exploitation and lateral movement. | https://github.com/nettitude/PoshC2 | 690 | 169| 
-| 20210129T12:52:18Z | Just a temporary website to post my ctf writeups and journey into binary exploitation/malware analysis/exploit development | https://github.com/blackbeard666/blackbeard666.github.io | 0 | 0| 
 
 
 # backdoor on Github 推荐
@@ -119,6 +119,8 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210129T13:45:32Z | Null | https://github.com/AmichaiYe/web-subdirectories_fuzzer | 0 | 0| 
+| 20210129T13:44:29Z | This is a TORCS robot that make use of fuzzy logic. | https://github.com/RaanGi/TORCS-fuzzy-robot | 0 | 0| 
 | 20210129T13:22:19Z | {golang, ptrace, snapshot}-based fuzzer | https://github.com/geeksonsecurity/snapandgo | 2 | 0| 
 | 20210129T13:04:03Z | Structure-aware, in-process, coverage-guided, evolutionary fuzzing engine for Rust functions. | https://github.com/loiclec/fuzzcheck-rs | 203 | 4| 
 | 20210129T12:50:05Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 3324 | 769| 
@@ -127,8 +129,6 @@
 | 20210129T12:14:53Z | A project made to illustrate the capability to itterate through common human behaviours when choosing a password. | https://github.com/carlslatter16/HumanPassFuzzer | 0 | 0| 
 | 20210129T11:47:09Z | A fuzzer for various top-level await bundling strategies | https://github.com/evanw/tla-fuzzer | 22 | 0| 
 | 20210129T11:33:29Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2255 | 117| 
-| 20210129T11:31:33Z | Personal website of Laurence Hughes | https://github.com/fuzzylogicxx/fuzzylogic | 4 | 1| 
-| 20210129T11:13:23Z | Fuzzing cryptographic libraries. Magic bug printer go brrrr. | https://github.com/guidovranken/cryptofuzz | 236 | 32| 
 
 
 
