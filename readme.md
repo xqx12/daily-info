@@ -14,6 +14,8 @@
 | 20210128 | Reverse Engineering iMessage: Leveraging the Hardware to Protect the Software | https://www.nowsecure.com/blog/2021/01/27/reverse-engineering-imessage-leveraging-the-hardware-to-protect-the-software/| 
 | 20210128 | NAT Slipstreaming v2.0 - NAT/防火墙内网隔离策略绕过的新变种 | https://www.armis.com/resources/iot-security-blog/nat-slipstreaming-v2-0-new-attack-variant-can-expose-all-internal-network-devices-to-the-internet/| 
 | 20210128 | ERNW Whitepaper 71 - 多种反病毒软件隔离文件的文件格式的分析 | https://insinuator.net/2021/01/ernw-whitepaper-71-analysis-of-anti-virus-software-quarantine-files/| 
+| 20210128 | 检测逃避恶意软件TeamTNT分析。 | https://threatpost.com/teamtnt-cloaks-malware-open-source-tool/163414/| 
+| 20210128 | 根据研究人员最新研究发现远程攻击者利用网络地址转换（NAT）滑流攻击对网络设备安全威胁。 | https://threatpost.com/remote-attackers-internal-network-devices-nat-slipstreaming/163400/| 
 
 
 # 安全维基 推荐
@@ -32,24 +34,25 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20210128T13:58:05Z | CVE-2021-3156 | Null | https://github.com/mr-r3b00t/CVE-2021-3156 | Sudo before 1.9.5p2 has a Heap-based Buffer Overflow, allowing privilege escalation to root via %sudoedit -s% and a command-line argument that ends with a single backslash character.| 
-| 20210128T13:52:26Z | CVE-2021-3156 | CVE-2021-3156 | https://github.com/reverse-ex/CVE-2021-3156 | Sudo before 1.9.5p2 has a Heap-based Buffer Overflow, allowing privilege escalation to root via %sudoedit -s% and a command-line argument that ends with a single backslash character.| 
-| 20210128T13:29:38Z | CVE-2021-3156 | Null | https://github.com/Serpentiel/CVE-2021-3156 | Sudo before 1.9.5p2 has a Heap-based Buffer Overflow, allowing privilege escalation to root via %sudoedit -s% and a command-line argument that ends with a single backslash character.| 
-| 20210128T11:36:18Z | CVE-2021-3156 | 1day research effort | https://github.com/kernelzeroday/CVE-2021-3156-Baron-Samedit | Sudo before 1.9.5p2 has a Heap-based Buffer Overflow, allowing privilege escalation to root via %sudoedit -s% and a command-line argument that ends with a single backslash character.| 
-| 20210128T11:31:04Z | cve-2020-15227 | Tester for a vulnerability CVE-2020-15227 found in nette/application and nette/nette | https://github.com/VottusCode/cve-2020-15227 | | 
-| 20210128T11:05:19Z | CVE-2021-3156 | CVE-2021-3156 | https://github.com/ph4ntonn/CVE-2021-3156 | Sudo before 1.9.5p2 has a Heap-based Buffer Overflow, allowing privilege escalation to root via %sudoedit -s% and a command-line argument that ends with a single backslash character.| 
-| 20210128T09:32:54Z | CVE-2021-3156 | Null | https://github.com/baka9moe/CVE-2021-3156-Exp | Sudo before 1.9.5p2 has a Heap-based Buffer Overflow, allowing privilege escalation to root via %sudoedit -s% and a command-line argument that ends with a single backslash character.| 
-| 20210128T09:30:50Z | 未知编号 | sudo安全漏洞检测脚本，用来检查您的系统当前是否存在相关的安全漏洞。 | https://github.com/gh-Devin/sudo-cve-2021 | | 
+| 20210128T23:25:13Z | CVE-2021-3156 | 1day research effort | https://github.com/kernelzeroday/CVE-2021-3156-Baron-Samedit | Sudo before 1.9.5p2 has a Heap-based Buffer Overflow, allowing privilege escalation to root via %sudoedit -s% and a command-line argument that ends with a single backslash character.| 
+| 20210128T18:26:55Z | CVE-2020-1034 | PoC demonstrating the use of cve-2020-1034 for privilege escalation | https://github.com/yardenshafir/CVE-2020-1034 | An elevation of privilege vulnerability exists in the way that the Windows Kernel handles objects in memory, aka %Windows Kernel Elevation of Privilege Vulnerability%.| 
+| 20210128T16:00:07Z | CVE-2020-14756 | WebLogic T3/IIOP RCE ExternalizableHelper.class of coherence.jar | https://github.com/Y4er/CVE-2020-14756 | Vulnerability in the Oracle Coherence product of Oracle Fusion Middleware (component: Core Components). Supported versions that are affected are 3.7.1.0, 12.1.3.0.0, 12.2.1.3.0, 12.2.1.4.0 and 14.1.1.0.0. Easily exploitable vulnerability allows unauthenticated attacker with network access via IIOP, T3 to compromise Oracle Coherence. Successful attacks of this vulnerability can result in takeover of Oracle Coherence. CVSS 3.1 Base Score 9.8 (Confidentiality, Integrity and Availability impacts). CVSS Vector: (CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H).| 
+| 20210128T15:55:24Z | CVE-2021-3156 | Null | https://github.com/mr-r3b00t/CVE-2021-3156 | Sudo before 1.9.5p2 has a Heap-based Buffer Overflow, allowing privilege escalation to root via %sudoedit -s% and a command-line argument that ends with a single backslash character.| 
+| 20210128T15:22:13Z | CVE-2021-3156 | Null | https://github.com/baka9moe/CVE-2021-3156-Exp | Sudo before 1.9.5p2 has a Heap-based Buffer Overflow, allowing privilege escalation to root via %sudoedit -s% and a command-line argument that ends with a single backslash character.| 
+| 20210128T11:31:04Z | cve-2020-15227 | Tester for a vulnerability CVE-2020-15227 found in nette/application and nette/nette | https://github.com/VottusCode/cve-2020-15227 | 未查询到CVE信息| 
+| 20210128T09:30:50Z | 未知编号 | sudo安全漏洞检测脚本，用来检查您的系统当前是否存在相关的安全漏洞。 | https://github.com/gh-Devin/sudo-cve-2021 | 未查询到CVE信息| 
 | 20210128T09:08:05Z | CVE-2021-3156 | This simple bash script will patch the recently discovered sudo heap overflow vulnerability. | https://github.com/elbee-cyber/CVE-2021-3156-PATCHER | Sudo before 1.9.5p2 has a Heap-based Buffer Overflow, allowing privilege escalation to root via %sudoedit -s% and a command-line argument that ends with a single backslash character.| 
-| 20210128T09:03:21Z | CVE-2020-14756 | WebLogic T3/IIOP RCE ExternalizableHelper.class of coherence.jar | https://github.com/Y4er/CVE-2020-14756 | Vulnerability in the Oracle Coherence product of Oracle Fusion Middleware (component: Core Components). Supported versions that are affected are 3.7.1.0, 12.1.3.0.0, 12.2.1.3.0, 12.2.1.4.0 and 14.1.1.0.0. Easily exploitable vulnerability allows unauthenticated attacker with network access via IIOP, T3 to compromise Oracle Coherence. Successful attacks of this vulnerability can result in takeover of Oracle Coherence. CVSS 3.1 Base Score 9.8 (Confidentiality, Integrity and Availability impacts). CVSS Vector: (CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H).| 
+| 20210128T03:39:14Z | cve-2021-3156 | 脚本小子竟是我自己? | https://github.com/H4ckForJob/cve-2021-3156 | 未查询到CVE信息| 
+| 20210128T02:36:44Z | CVE-2020-1350 | HoneyPoC: Proof-of-Concept (PoC) script to exploit SIGRed (CVE-2020-1350). Achieves Domain Admin on Domain Controllers running Windows Server 2000 up to Windows Server 2019. | https://github.com/ZephrFish/CVE-2020-1350 | A remote code execution vulnerability exists in Windows Domain Name System servers when they fail to properly handle requests, aka %Windows DNS Server Remote Code Execution Vulnerability%.| 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210128T13:46:56Z | Null | https://github.com/kleelab/kleelab.github.io | 0 | 0| 
+| 20210128T22:07:42Z | The compiler inputs a PDDL benchmark of the Carpark planning problem and converts it to an equivalent C code which is used for solving the planning problem by program verification tools such as KLEE/TracerX. | https://github.com/daneshvar-amrollahi/Carpark-PDDL2C | 0 | 0| 
+| 20210128T17:52:36Z | Website for the KLEE project: https://klee.github.io/ | https://github.com/klee/klee.github.io | 14 | 41| 
 | 20210128T11:36:40Z | Symbiotic is a tool for finding bugs in computer programs based on instrumentation, program slicing and KLEE | https://github.com/staticafi/symbiotic | 212 | 34| 
-| 20210128T09:30:34Z | Null | https://github.com/fontworks-fonts/Klee | 337 | 10| 
+| 20210128T09:30:34Z | Null | https://github.com/fontworks-fonts/Klee | 337 | 9| 
 | 20210128T07:19:19Z | RVT is a collection of tools/libraries to support both static and dynamic verification of Rust programs. | https://github.com/project-oak/rust-verification-tools | 106 | 6| 
 | 20210128T05:15:06Z | Null | https://github.com/jiseongg/klee_experiment | 0 | 0| 
 
@@ -62,21 +65,25 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210128T13:56:21Z | 中国蚁剑后渗透框架 | https://github.com/yzddmr6/As-Exploits | 225 | 37| 
-| 20210128T13:54:56Z | Null | https://github.com/lsw29475/exploit | 0 | 0| 
-| 20210128T13:46:32Z | forked version of funtuna, a homebrew ps2 app launcher designed to ease the pain of getting a stable exploit for those that have a console uncompatible with FreeMcBoot that doesnt have a modchip | https://github.com/israpps/Funtuna-Fork | 0 | 0| 
-| 20210128T13:42:43Z | Ripped SaveStates of Lord Tom%s Total Control TAS Exploit which showcase SMB3 Exploit to inject arbitrary code and create payloads using controller inputs (P1&&P2). For more info and copyright, see; http://tasvideos.org/4961S.html . This is not my work, I did nothing to accomplish these exploits and controls, nor did I have anything remotely to do with the project. I merely ripped the video, ended the TAS after the payload and before the showcase as seen in his video, save the state to a file to play around with and decided to share it on the internet. | https://github.com/NamasteJasutin/SMB3-LordTom-TotalControl-PreTAS-SaveStates | 0 | 0| 
-| 20210128T13:41:10Z | PoCs for public CVE%s I have been working on. | https://github.com/lockedbyte/CVE-Exploits | 6 | 0| 
-| 20210128T13:37:19Z | These files can be used to save time on buffer overflow exploits and are versatile too. | https://github.com/batsy101/BoF_utils | 0 | 0| 
-| 20210128T13:36:57Z | Vulnerabilities% Risk of Exploitation | https://github.com/thiagofigcosta/V-REx | 0 | 0| 
-| 20210128T13:20:05Z | CDK is an open-sourced container penetration toolkit, offering stable exploitation in different slimmed containers without any OS dependency. It comes with penetration tools and many powerful PoCs/EXPs helps you to escape container and takeover K8s cluster easily. | https://github.com/cdk-team/CDK | 963 | 129| 
-| 20210128T13:18:22Z | Null | https://github.com/sheenieboy/ExploiterChat | 1 | 0| 
-| 20210128T12:49:53Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 7 | 4| 
+| 20210128T23:35:24Z | Sécurité des logiciels et exploitation de vulnérabilités | https://github.com/ppepos/inf600c | 3 | 0| 
+| 20210128T23:33:34Z | forked version of funtuna, a homebrew ps2 app launcher designed to ease the pain of getting a stable exploit for those that have a console uncompatible with FreeMcBoot that doesnt have a modchip | https://github.com/israpps/Funtuna-Fork | 0 | 0| 
+| 20210128T23:30:01Z | Xiongmai Exploitation Toolkit | https://github.com/redcodefinal/xet | 3 | 0| 
+| 20210128T23:18:45Z | Null | https://github.com/dotanraz/network-exploitation-detector | 0 | 0| 
+| 20210128T23:16:38Z | This bash script will help you to hack remote hosts  | https://github.com/FabioDefilippo/linuxallremote | 4 | 1| 
+| 20210128T23:02:32Z | Thi powershell script has got to run in remote windows host, even for pivoting | https://github.com/FabioDefilippo/winallenum | 0 | 1| 
+| 20210128T22:48:37Z | Des scripts pour lire, traiter et exploiter graphiquement des données OPAR issues de deux instruments LI1200, LIO3T | https://github.com/nnmp020395/OPAR_tools | 0 | 0| 
+| 20210128T22:46:49Z | First Person Activity Recognition exploiting a Self-Supervised motion task, frame selection, a double Conv-LSTM and LSTA | https://github.com/emanueleing/FPAR | 0 | 0| 
+| 20210128T21:38:20Z | this bash script is for remote linux hosts hacked! | https://github.com/FabioDefilippo/linuxallenum | 8 | 0| 
+| 20210128T21:25:37Z | Basic services enumeration and exploitation | https://github.com/dar3k93/Basic-service-enumeration | 0 | 1| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210128T21:04:10Z | Ghost Framework is an Android post-exploitation framework that exploits the Android Debug Bridge to remotely access an Android device. Ghost Framework gives you the power and convenience of remote Android device administration. | https://github.com/EntySec/ghost | 928 | 474| 
+| 20210128T17:26:39Z | FUD cross-platform python2 backdoor with C2 | https://github.com/7h3w4lk3r/pyback | 15 | 5| 
+| 20210128T16:12:42Z | Analysis of SunBurst (SolarWinds) embedded backdoor | https://github.com/conikeec/sunburst-analysis | 1 | 1| 
+| 20210128T15:24:30Z | Null | https://github.com/Shahtr1/reverse_backdoor | 0 | 0| 
 | 20210128T10:26:53Z | Null | https://github.com/mikkelskov1/backdoor2 | 0 | 0| 
 | 20210128T08:28:16Z | Null | https://github.com/mohdhumaid/BackdoorPython27 | 1 | 0| 
 | 20210128T06:42:50Z | Null | https://github.com/rabbitx1337/backdoor | 0 | 0| 
