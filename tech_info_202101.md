@@ -89,7 +89,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210130T01:37:57Z | PoCs for public CVE%s I have been working on. | https://github.com/lockedbyte/CVE-Exploits | 65 | 21| 
+| 20210130T01:39:28Z | PoCs for public CVE%s I have been working on. | https://github.com/lockedbyte/CVE-Exploits | 66 | 21| 
 | 20210130T01:30:02Z | Null | https://github.com/loRes228/PasteExploit | 0 | 0| 
 | 20210130T01:02:30Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 2 | 3| 
 | 20210130T00:57:09Z | Exploration-Exploitation using MAB | https://github.com/aegoe/MAB | 0 | 1| 
