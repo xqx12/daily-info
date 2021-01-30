@@ -42,7 +42,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210130T13:57:24Z | PoCs for public CVE%s I have been working on. | https://github.com/lockedbyte/CVE-Exploits | 184 | 45| 
+| 20210130T13:59:08Z | PoCs for public CVE%s I have been working on. | https://github.com/lockedbyte/CVE-Exploits | 185 | 45| 
 | 20210130T13:53:14Z | Null | https://github.com/MTK-bypass/exploits_collection | 37 | 23| 
 | 20210130T13:44:01Z | Null | https://github.com/r4j0x00/exploits | 145 | 55| 
 | 20210130T13:43:08Z | Null | https://github.com/th3ken-dev/TH3KEN-EDITON | 2 | 0| 
