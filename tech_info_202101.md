@@ -47,7 +47,7 @@
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
 | 20210130T13:44:46Z | CVE-2021-3156 | PoC for CVE-2021-3156 (sudo heap overflow) | https://github.com/stong/CVE-2021-3156 | Sudo before 1.9.5p2 has a Heap-based Buffer Overflow, allowing privilege escalation to root via %sudoedit -s% and a command-line argument that ends with a single backslash character.| 
-| 20210130T12:40:23Z | CVE-2021-3156 | 1day research effort | https://github.com/kernelzeroday/CVE-2021-3156-Baron-Samedit | | 
+| 20210130T12:40:23Z | CVE-2021-3156 | 1day research effort | https://github.com/kernelzeroday/CVE-2021-3156-Baron-Samedit | Sudo before 1.9.5p2 has a Heap-based Buffer Overflow, allowing privilege escalation to root via %sudoedit -s% and a command-line argument that ends with a single backslash character.| 
 | 20210130T11:32:36Z | CVE-2021-3156 | Notes regarding CVE-2021-3156: Heap-Based Buffer Overflow in Sudo | https://github.com/mbcrump/CVE-2021-3156 | Sudo before 1.9.5p2 has a Heap-based Buffer Overflow, allowing privilege escalation to root via %sudoedit -s% and a command-line argument that ends with a single backslash character.| 
 | 20210130T10:57:40Z | CVE-2021-3156 | checking CVE-2021-3156 vulnerability & patch script | https://github.com/nobodyatall648/CVE-2021-3156 | Sudo before 1.9.5p2 has a Heap-based Buffer Overflow, allowing privilege escalation to root via %sudoedit -s% and a command-line argument that ends with a single backslash character.| 
 | 20210130T10:54:29Z | CVE-2021-3156 | CVE-2021-3156 | https://github.com/reverse-ex/CVE-2021-3156 | Sudo before 1.9.5p2 has a Heap-based Buffer Overflow, allowing privilege escalation to root via %sudoedit -s% and a command-line argument that ends with a single backslash character.| 
@@ -89,10 +89,10 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210130T13:52:10Z | PoCs for public CVE%s I have been working on. | https://github.com/lockedbyte/CVE-Exploits | 182 | 45| 
 | 20210130T13:44:01Z | Null | https://github.com/r4j0x00/exploits | 145 | 55| 
 | 20210130T13:43:08Z | Null | https://github.com/th3ken-dev/TH3KEN-EDITON | 2 | 0| 
 | 20210130T13:37:33Z | Null | https://github.com/sec4us-training/web_api_exploitation | 0 | 0| 
-| 20210130T13:24:42Z | PoCs for public CVE%s I have been working on. | https://github.com/lockedbyte/CVE-Exploits | 180 | 45| 
 | 20210130T13:16:54Z | A tool to identify and exploit sudo rules% misconfigurations and vulnerabilities within sudo | https://github.com/TH3xACE/SUDO_KILLER | 999 | 137| 
 | 20210130T13:02:31Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 2 | 3| 
 | 20210130T13:02:06Z | Null | https://github.com/lsw29475/exploit | 0 | 0| 
