@@ -89,7 +89,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210130T02:45:08Z | PoCs for public CVE%s I have been working on. | https://github.com/lockedbyte/CVE-Exploits | 71 | 22| 
+| 20210130T02:49:52Z | PoCs for public CVE%s I have been working on. | https://github.com/lockedbyte/CVE-Exploits | 74 | 23| 
 | 20210130T02:38:38Z | Null | https://github.com/loRes228/PasteExploit | 0 | 0| 
 | 20210130T02:29:42Z | Awareness on Wildlife Exploitation | https://github.com/WeHaveLivesToo/We-Have-Lives-Too-Awareness-on-Wildlife-Exploitation | 0 | 0| 
 | 20210130T02:02:35Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 2 | 3| 
