@@ -54,7 +54,7 @@
 | 20210130T09:52:15Z | CVE-2021-3156 | Null | https://github.com/ltfafei/CVE-2021-3156 | Sudo before 1.9.5p2 has a Heap-based Buffer Overflow, allowing privilege escalation to root via %sudoedit -s% and a command-line argument that ends with a single backslash character.| 
 | 20210130T07:58:28Z | CVE-2020-1350 | HoneyPoC: Proof-of-Concept (PoC) script to exploit SIGRed (CVE-2020-1350). Achieves Domain Admin on Domain Controllers running Windows Server 2000 up to Windows Server 2019. | https://github.com/ZephrFish/CVE-2020-1350 | A remote code execution vulnerability exists in Windows Domain Name System servers when they fail to properly handle requests, aka %Windows DNS Server Remote Code Execution Vulnerability%.| 
 | 20210130T02:50:57Z | CVE-2021-3156 | Null | https://github.com/Serpentiel/CVE-2021-3156 | Sudo before 1.9.5p2 has a Heap-based Buffer Overflow, allowing privilege escalation to root via %sudoedit -s% and a command-line argument that ends with a single backslash character.| 
-| 20210129T14:32:24Z | CVE-2021-3156 | Null | https://github.com/baka9moe/CVE-2021-3156-Exp | | 
+| 20210129T14:32:24Z | CVE-2021-3156 | Null | https://github.com/baka9moe/CVE-2021-3156-Exp | Sudo before 1.9.5p2 has a Heap-based Buffer Overflow, allowing privilege escalation to root via %sudoedit -s% and a command-line argument that ends with a single backslash character.| 
 | 20210129T13:59:09Z | 未知编号 | Exploit for CVE-2021-3129 | https://github.com/ambionics/laravel-exploits | 未查询到CVE信息| 
 
 
@@ -89,7 +89,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210130T13:42:39Z | Null | https://github.com/th3ken-dev/TH3KEN-EDITON | 2 | 0| 
+| 20210130T13:43:08Z | Null | https://github.com/th3ken-dev/TH3KEN-EDITON | 2 | 0| 
 | 20210130T13:37:33Z | Null | https://github.com/sec4us-training/web_api_exploitation | 0 | 0| 
 | 20210130T13:35:17Z | Null | https://github.com/r4j0x00/exploits | 144 | 55| 
 | 20210130T13:24:42Z | PoCs for public CVE%s I have been working on. | https://github.com/lockedbyte/CVE-Exploits | 180 | 45| 
