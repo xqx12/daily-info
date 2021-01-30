@@ -58,7 +58,6 @@
 | --- | --- | --- | --- | ---| 
 | 20210129T23:54:44Z | Vulnerabilities% Risk of Exploitation | https://github.com/thiagofigcosta/V-REx | 0 | 0| 
 | 20210129T23:39:00Z | Diversos exploits y automatizaciones para el juego Soccer Stars. | https://github.com/YM162/Soccer_stonks | 0 | 0| 
-| 20210129T23:19:15Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 8946 | 1436| 
 | 20210129T22:24:41Z | Python program to exploit stack-based buffer overflows. | https://github.com/michael-catanzaro/StackAttack | 0 | 0| 
 | 20210129T22:05:45Z | Pentest important small exploitation scripts  | https://github.com/cyberjatin/mynotes | 0 | 0| 
 | 20210129T21:58:26Z | This is my version of %Settlers of Catan%. The game is ostensibly complete with the exception of slow repainting when the robber is moved. Other than that, the game is functionally finished. The game plays best on a screen 1920x1080 as that enables status screens to be visible if 3-4 players are playing. A shortcut key has been implemented for cancellation of actions. Hold ALT_C when the Catan Board has focus, and this will enable an OptionPane to appear that allows for cancellation. And as for game additions I wanted to talk about, I have implemented a class system to the game that makes it more difficult (it is optional; choose the settler class if you want the standard game) as well as optional cataclysm events that can affect player resources at a 5% chance. As well, ports are optional as I%ve heard some people say they are too exploitable. Again, these three things are optional. And finally, all the image files used in this game are not my own. They are all sourced from Google Images (non-copyrighted, as far as I can tell). I will continue to work on the slow repaint issue in the future, but I will put this project down for a little while. (For whatever reason, I can%t put new lines in the description because of arbitrary code rules, so this jumbled mess of words is what I must put). | https://github.com/GitCaseyHub/SettlersOfCatan | 0 | 0| 
@@ -66,6 +65,7 @@
 | 20210129T21:17:44Z | Old and new CTFs about Linux kernel exploitation. | https://github.com/MaherAzzouzi/LinuxKernelExploitation | 1 | 0| 
 | 20210129T21:11:53Z | First Person Activity Recognition exploiting a Self-Supervised motion task, frame selection, a double Conv-LSTM and LSTA | https://github.com/emanueleing/FPAR | 0 | 0| 
 | 20210129T21:06:00Z | a collection of discord exploits and tools | https://github.com/Vexvain/Discord-Collection | 0 | 1| 
+| 20210129T20:59:49Z | Null | https://github.com/dotanraz/network-exploitation-detector | 0 | 0| 
 
 
 # backdoor on Github 推荐
