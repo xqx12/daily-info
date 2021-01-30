@@ -34,7 +34,7 @@
 | 20210129T10:49:30Z | CVE-2021-3156 | 1day research effort | https://github.com/kernelzeroday/CVE-2021-3156-Baron-Samedit | Sudo before 1.9.5p2 has a Heap-based Buffer Overflow, allowing privilege escalation to root via %sudoedit -s% and a command-line argument that ends with a single backslash character.| 
 | 20210129T08:56:43Z | CVE-2020-1034 | PoC demonstrating the use of cve-2020-1034 for privilege escalation | https://github.com/yardenshafir/CVE-2020-1034 | An elevation of privilege vulnerability exists in the way that the Windows Kernel handles objects in memory, aka %Windows Kernel Elevation of Privilege Vulnerability%.| 
 | 20210129T06:49:09Z | CVE-2021-3156 | Null | https://github.com/binw2018/CVE-2021-3156-SCRIPT | Sudo before 1.9.5p2 has a Heap-based Buffer Overflow, allowing privilege escalation to root via %sudoedit -s% and a command-line argument that ends with a single backslash character.| 
-| 20210129T05:13:00Z | CVE-2020-26732 | Skyworth GN542VF Boa version 0.94.13 does not set the Secure flag for the session cookie in an HTTPS session | https://github.com/swzhouu/CVE-2020-26732 | | 
+| 20210129T05:13:00Z | CVE-2020-26732 | Skyworth GN542VF Boa version 0.94.13 does not set the Secure flag for the session cookie in an HTTPS session | https://github.com/swzhouu/CVE-2020-26732 | Skyworth GN542VF Boa version 0.94.13 does not set the Secure flag for the session cookie in an HTTPS session, which makes it easier for remote attackers to capture this cookie by intercepting its transmission within an HTTP session.| 
 
 
 # klee on Github 推荐
