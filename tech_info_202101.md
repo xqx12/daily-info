@@ -89,7 +89,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210130T13:52:10Z | PoCs for public CVE%s I have been working on. | https://github.com/lockedbyte/CVE-Exploits | 182 | 45| 
+| 20210130T13:53:25Z | PoCs for public CVE%s I have been working on. | https://github.com/lockedbyte/CVE-Exploits | 183 | 45| 
+| 20210130T13:53:14Z | Null | https://github.com/MTK-bypass/exploits_collection | 37 | 23| 
 | 20210130T13:44:01Z | Null | https://github.com/r4j0x00/exploits | 145 | 55| 
 | 20210130T13:43:08Z | Null | https://github.com/th3ken-dev/TH3KEN-EDITON | 2 | 0| 
 | 20210130T13:37:33Z | Null | https://github.com/sec4us-training/web_api_exploitation | 0 | 0| 
@@ -97,7 +98,6 @@
 | 20210130T13:02:31Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 2 | 3| 
 | 20210130T13:02:06Z | Null | https://github.com/lsw29475/exploit | 0 | 0| 
 | 20210130T12:49:55Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 7 | 4| 
-| 20210130T12:41:26Z | Null | https://github.com/MTK-bypass/exploits_collection | 37 | 23| 
 | 20210130T12:37:13Z | Garry%s Mod module for sending a sv->cl SourceEngine net_SetConVar to a client. Used this for testing a exploit idea I had. | https://github.com/Leystryku/leyservermessage | 0 | 0| 
 
 
