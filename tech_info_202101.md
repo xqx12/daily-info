@@ -48,7 +48,7 @@
 | --- | --- | --- | --- | ---| 
 | 20210129T23:07:00Z | CVE-2021-3156 | Notes regarding CVE-2021-3156: Heap-Based Buffer Overflow in Sudo | https://github.com/mbcrump/CVE-2021-3156 | Sudo before 1.9.5p2 has a Heap-based Buffer Overflow, allowing privilege escalation to root via %sudoedit -s% and a command-line argument that ends with a single backslash character.| 
 | 20210129T23:06:35Z | CVE-2021-3156 | Null | https://github.com/Serpentiel/CVE-2021-3156 | Sudo before 1.9.5p2 has a Heap-based Buffer Overflow, allowing privilege escalation to root via %sudoedit -s% and a command-line argument that ends with a single backslash character.| 
-| 20210129T14:32:24Z | CVE-2021-3156 | Null | https://github.com/baka9moe/CVE-2021-3156-Exp | | 
+| 20210129T14:32:24Z | CVE-2021-3156 | Null | https://github.com/baka9moe/CVE-2021-3156-Exp | Sudo before 1.9.5p2 has a Heap-based Buffer Overflow, allowing privilege escalation to root via %sudoedit -s% and a command-line argument that ends with a single backslash character.| 
 | 20210129T14:19:35Z | CVE-2021-3156 | Null | https://github.com/ltfafei/CVE-2021-3156 | Sudo before 1.9.5p2 has a Heap-based Buffer Overflow, allowing privilege escalation to root via %sudoedit -s% and a command-line argument that ends with a single backslash character.| 
 | 20210129T13:59:09Z | 未知编号 | Exploit for CVE-2021-3129 | https://github.com/ambionics/laravel-exploits | 未查询到CVE信息| 
 | 20210129T13:35:53Z | CVE-2021-3156 | CVE-2021-3156 | https://github.com/reverse-ex/CVE-2021-3156 | Sudo before 1.9.5p2 has a Heap-based Buffer Overflow, allowing privilege escalation to root via %sudoedit -s% and a command-line argument that ends with a single backslash character.| 
@@ -119,16 +119,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210129T13:45:32Z | Null | https://github.com/AmichaiYe/web-subdirectories_fuzzer | 0 | 0| 
-| 20210129T13:44:29Z | This is a TORCS robot that make use of fuzzy logic. | https://github.com/RaanGi/TORCS-fuzzy-robot | 0 | 0| 
-| 20210129T13:22:19Z | {golang, ptrace, snapshot}-based fuzzer | https://github.com/geeksonsecurity/snapandgo | 2 | 0| 
-| 20210129T13:04:03Z | Structure-aware, in-process, coverage-guided, evolutionary fuzzing engine for Rust functions. | https://github.com/loiclec/fuzzcheck-rs | 203 | 4| 
-| 20210129T12:50:05Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 3324 | 769| 
-| 20210129T12:48:29Z | 针对小型应用服务搜索场景的工具包（也可部署为独立服务） | https://github.com/kc910521/MiniSearch | 4 | 0| 
-| 20210129T12:17:37Z | JavaScript fuzzer by Oliver Chang et al. | https://github.com/pmatos/js_fuzzer | 0 | 0| 
-| 20210129T12:14:53Z | A project made to illustrate the capability to itterate through common human behaviours when choosing a password. | https://github.com/carlslatter16/HumanPassFuzzer | 0 | 0| 
-| 20210129T11:47:09Z | A fuzzer for various top-level await bundling strategies | https://github.com/evanw/tla-fuzzer | 22 | 0| 
-| 20210129T11:33:29Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2255 | 117| 
+| 20210130T01:31:08Z | Packer Fuzzer is a fast and efficient scanner for security detection of websites constructed by javascript module bundler such as Webpack.  | https://github.com/rtcatc/Packer-Fuzzer | 709 | 86| 
+| 20210130T01:16:52Z | Projekt na Programowanie aplikacji biznesowych | https://github.com/wojtekwrona232/fuzzy-winner | 0 | 0| 
+| 20210130T01:11:10Z | Coverage-guided binary fuzzing powered by Frida Stalker | https://github.com/meme/hotwax | 146 | 22| 
+| 20210130T00:53:45Z | HTTP fuzzer engine security oriented | https://github.com/NozakiLabs/nozaki | 23 | 6| 
+| 20210130T00:29:19Z | Take the current implementation and turning a microservice architecture | https://github.com/ccesarrod/FuzzyMicrosrvices | 0 | 0| 
+| 20210130T00:29:06Z | A catalog of wordlists to use with Nozaki or other fuzzer | https://github.com/NozakiLabs/wordlists | 4 | 0| 
+| 20210130T00:18:43Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 5825 | 1174| 
+| 20210129T23:54:54Z | Keep an eye of your fuzzing. CLI to interact with ElasticSearch. | https://github.com/misalabs/horuz | 11 | 3| 
+| 20210129T23:46:40Z | Personal website of Laurence Hughes | https://github.com/fuzzylogicxx/fuzzylogic | 4 | 1| 
+| 20210129T23:45:42Z | Null | https://github.com/Fuzzol-Anonymous/Fuzzol | 0 | 0| 
 
 
 
