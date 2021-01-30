@@ -54,7 +54,7 @@
 | 20210130T09:52:15Z | CVE-2021-3156 | Null | https://github.com/ltfafei/CVE-2021-3156 | Sudo before 1.9.5p2 has a Heap-based Buffer Overflow, allowing privilege escalation to root via %sudoedit -s% and a command-line argument that ends with a single backslash character.| 
 | 20210130T07:58:28Z | CVE-2020-1350 | HoneyPoC: Proof-of-Concept (PoC) script to exploit SIGRed (CVE-2020-1350). Achieves Domain Admin on Domain Controllers running Windows Server 2000 up to Windows Server 2019. | https://github.com/ZephrFish/CVE-2020-1350 | A remote code execution vulnerability exists in Windows Domain Name System servers when they fail to properly handle requests, aka %Windows DNS Server Remote Code Execution Vulnerability%.| 
 | 20210130T02:50:57Z | CVE-2021-3156 | Null | https://github.com/Serpentiel/CVE-2021-3156 | Sudo before 1.9.5p2 has a Heap-based Buffer Overflow, allowing privilege escalation to root via %sudoedit -s% and a command-line argument that ends with a single backslash character.| 
-| 20210129T14:32:24Z | CVE-2021-3156 | Null | https://github.com/baka9moe/CVE-2021-3156-Exp | Sudo before 1.9.5p2 has a Heap-based Buffer Overflow, allowing privilege escalation to root via %sudoedit -s% and a command-line argument that ends with a single backslash character.| 
+| 20210129T14:32:24Z | CVE-2021-3156 | Null | https://github.com/baka9moe/CVE-2021-3156-Exp | | 
 | 20210129T13:59:09Z | 未知编号 | Exploit for CVE-2021-3129 | https://github.com/ambionics/laravel-exploits | 未查询到CVE信息| 
 
 
@@ -104,6 +104,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210130T13:28:34Z | A commandline backdoor accessible from the windows login and lock screen to manipulate files and directories. | https://github.com/KabueMurage/Windows-Backdoor | 10 | 2| 
 | 20210130T11:12:55Z | Ghost Framework is an Android post-exploitation framework that exploits the Android Debug Bridge to remotely access an Android device. Ghost Framework gives you the power and convenience of remote Android device administration. | https://github.com/EntySec/ghost | 931 | 475| 
 | 20210130T10:52:11Z | Null | https://github.com/SourceCode1037/Backdoor-Attacks | 1 | 0| 
 | 20210130T10:24:22Z | Input-aware Dynamic Backdoor Attack (Advances in Neural Information Processing Systems 2020) | https://github.com/VinAIResearch/input-aware-backdoor-attack-release | 25 | 3| 
@@ -113,7 +114,6 @@
 | 20210130T08:26:25Z | Null | https://github.com/zpinto/backdoor | 0 | 0| 
 | 20210130T02:39:31Z | Null | https://github.com/SourceCode1037/Backdoor | 1 | 0| 
 | 20210130T01:58:47Z | AdvDoor: Adversarial Backdoor Attack of Deep Learning System | https://github.com/Anonymous-AdvDoor/AdvDoor | 0 | 0| 
-| 20210129T20:04:43Z | Null | https://github.com/glavnik/ConnectBack-Backdoor-Shell | 0 | 0| 
 
 
 # fuzz on Github 推荐
