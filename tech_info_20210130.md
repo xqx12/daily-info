@@ -42,8 +42,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210130T13:30:20Z | Null | https://github.com/r4j0x00/exploits | 141 | 54| 
 | 20210130T13:26:53Z | Null | https://github.com/sec4us-training/web_api_exploitation | 0 | 0| 
-| 20210130T13:26:04Z | Null | https://github.com/r4j0x00/exploits | 140 | 53| 
 | 20210130T13:24:42Z | PoCs for public CVE%s I have been working on. | https://github.com/lockedbyte/CVE-Exploits | 180 | 44| 
 | 20210130T13:16:54Z | A tool to identify and exploit sudo rules% misconfigurations and vulnerabilities within sudo | https://github.com/TH3xACE/SUDO_KILLER | 999 | 137| 
 | 20210130T13:02:31Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 2 | 3| 
