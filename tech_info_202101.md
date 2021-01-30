@@ -46,22 +46,24 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20210130T02:57:07Z | CVE-2021-3156 | Notes regarding CVE-2021-3156: Heap-Based Buffer Overflow in Sudo | https://github.com/mbcrump/CVE-2021-3156 | Sudo before 1.9.5p2 has a Heap-based Buffer Overflow, allowing privilege escalation to root via %sudoedit -s% and a command-line argument that ends with a single backslash character.| 
+| 20210130T12:41:47Z | CVE-2021-3156 | PoC for CVE-2021-3156 (sudo heap overflow) | https://github.com/stong/CVE-2021-3156 | Sudo before 1.9.5p2 has a Heap-based Buffer Overflow, allowing privilege escalation to root via %sudoedit -s% and a command-line argument that ends with a single backslash character.| 
+| 20210130T12:40:23Z | CVE-2021-3156 | 1day research effort | https://github.com/kernelzeroday/CVE-2021-3156-Baron-Samedit | Sudo before 1.9.5p2 has a Heap-based Buffer Overflow, allowing privilege escalation to root via %sudoedit -s% and a command-line argument that ends with a single backslash character.| 
+| 20210130T11:32:36Z | CVE-2021-3156 | Notes regarding CVE-2021-3156: Heap-Based Buffer Overflow in Sudo | https://github.com/mbcrump/CVE-2021-3156 | Sudo before 1.9.5p2 has a Heap-based Buffer Overflow, allowing privilege escalation to root via %sudoedit -s% and a command-line argument that ends with a single backslash character.| 
+| 20210130T10:57:40Z | CVE-2021-3156 | checking CVE-2021-3156 vulnerability & patch script | https://github.com/nobodyatall648/CVE-2021-3156 | Sudo before 1.9.5p2 has a Heap-based Buffer Overflow, allowing privilege escalation to root via %sudoedit -s% and a command-line argument that ends with a single backslash character.| 
+| 20210130T09:52:15Z | CVE-2021-3156 | Null | https://github.com/ltfafei/CVE-2021-3156 | Sudo before 1.9.5p2 has a Heap-based Buffer Overflow, allowing privilege escalation to root via %sudoedit -s% and a command-line argument that ends with a single backslash character.| 
+| 20210130T07:58:28Z | CVE-2020-1350 | HoneyPoC: Proof-of-Concept (PoC) script to exploit SIGRed (CVE-2020-1350). Achieves Domain Admin on Domain Controllers running Windows Server 2000 up to Windows Server 2019. | https://github.com/ZephrFish/CVE-2020-1350 | A remote code execution vulnerability exists in Windows Domain Name System servers when they fail to properly handle requests, aka %Windows DNS Server Remote Code Execution Vulnerability%.| 
 | 20210130T02:50:57Z | CVE-2021-3156 | Null | https://github.com/Serpentiel/CVE-2021-3156 | Sudo before 1.9.5p2 has a Heap-based Buffer Overflow, allowing privilege escalation to root via %sudoedit -s% and a command-line argument that ends with a single backslash character.| 
 | 20210129T14:32:24Z | CVE-2021-3156 | Null | https://github.com/baka9moe/CVE-2021-3156-Exp | Sudo before 1.9.5p2 has a Heap-based Buffer Overflow, allowing privilege escalation to root via %sudoedit -s% and a command-line argument that ends with a single backslash character.| 
-| 20210129T14:19:35Z | CVE-2021-3156 | Null | https://github.com/ltfafei/CVE-2021-3156 | Sudo before 1.9.5p2 has a Heap-based Buffer Overflow, allowing privilege escalation to root via %sudoedit -s% and a command-line argument that ends with a single backslash character.| 
 | 20210129T13:59:09Z | 未知编号 | Exploit for CVE-2021-3129 | https://github.com/ambionics/laravel-exploits | 未查询到CVE信息| 
 | 20210129T13:35:53Z | CVE-2021-3156 | CVE-2021-3156 | https://github.com/reverse-ex/CVE-2021-3156 | Sudo before 1.9.5p2 has a Heap-based Buffer Overflow, allowing privilege escalation to root via %sudoedit -s% and a command-line argument that ends with a single backslash character.| 
-| 20210129T13:13:37Z | CVE-2020-14882 | Null | https://github.com/pwn3z/CVE-2020-14882-WebLogic | Vulnerability in the Oracle WebLogic Server product of Oracle Fusion Middleware (component: Console). Supported versions that are affected are 10.3.6.0.0, 12.1.3.0.0, 12.2.1.3.0, 12.2.1.4.0 and 14.1.1.0.0. Easily exploitable vulnerability allows unauthenticated attacker with network access via HTTP to compromise Oracle WebLogic Server. Successful attacks of this vulnerability can result in takeover of Oracle WebLogic Server. CVSS 3.1 Base Score 9.8 (Confidentiality, Integrity and Availability impacts). CVSS Vector: (CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H).| 
-| 20210129T10:49:30Z | CVE-2021-3156 | 1day research effort | https://github.com/kernelzeroday/CVE-2021-3156-Baron-Samedit | Sudo before 1.9.5p2 has a Heap-based Buffer Overflow, allowing privilege escalation to root via %sudoedit -s% and a command-line argument that ends with a single backslash character.| 
-| 20210129T08:56:43Z | CVE-2020-1034 | PoC demonstrating the use of cve-2020-1034 for privilege escalation | https://github.com/yardenshafir/CVE-2020-1034 | An elevation of privilege vulnerability exists in the way that the Windows Kernel handles objects in memory, aka %Windows Kernel Elevation of Privilege Vulnerability%.| 
-| 20210129T06:49:09Z | CVE-2021-3156 | Null | https://github.com/binw2018/CVE-2021-3156-SCRIPT | Sudo before 1.9.5p2 has a Heap-based Buffer Overflow, allowing privilege escalation to root via %sudoedit -s% and a command-line argument that ends with a single backslash character.| 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210129T16:12:06Z | A personnal UI library made as an excuse to have a published UI package | https://github.com/Liinkiing/klee | 1 | 0| 
+| 20210130T09:50:17Z | Null | https://github.com/h2q8khor/kleefgaqbv | 0 | 0| 
+| 20210130T08:06:37Z | Spring 2021 Geography 817 work folder  | https://github.com/klee12/klee12.github.io | 0 | 0| 
+| 20210130T07:14:52Z | A personnal UI library made as an excuse to have a published UI package | https://github.com/Liinkiing/klee | 1 | 0| 
 | 20210129T15:22:16Z | RVT is a collection of tools/libraries to support both static and dynamic verification of Rust programs. | https://github.com/project-oak/rust-verification-tools | 107 | 6| 
 | 20210129T13:31:04Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1619 | 481| 
 | 20210129T06:49:53Z | Null | https://github.com/fontworks-fonts/Klee | 340 | 9| 
@@ -69,8 +71,6 @@
 | 20210128T22:07:42Z | The compiler inputs a PDDL benchmark of the Carpark planning problem and converts it to an equivalent C code which is used for solving the planning problem by program verification tools such as KLEE/TracerX. | https://github.com/daneshvar-amrollahi/Carpark-PDDL2C | 0 | 0| 
 | 20210128T17:52:36Z | Website for the KLEE project: https://klee.github.io/ | https://github.com/klee/klee.github.io | 14 | 41| 
 | 20210128T11:36:40Z | Symbiotic is a tool for finding bugs in computer programs based on instrumentation, program slicing and KLEE | https://github.com/staticafi/symbiotic | 212 | 34| 
-| 20210128T05:15:06Z | Null | https://github.com/jiseongg/klee_experiment | 0 | 0| 
-| 20210127T22:52:40Z | Null | https://github.com/klee30810/klee30810.github.io | 0 | 0| 
 
 
 # s2e on Github 推荐
@@ -89,31 +89,31 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210130T02:57:47Z | PoCs for public CVE%s I have been working on. | https://github.com/lockedbyte/CVE-Exploits | 78 | 25| 
-| 20210130T02:38:38Z | Null | https://github.com/loRes228/PasteExploit | 0 | 0| 
-| 20210130T02:29:42Z | Awareness on Wildlife Exploitation | https://github.com/WeHaveLivesToo/We-Have-Lives-Too-Awareness-on-Wildlife-Exploitation | 0 | 0| 
-| 20210130T02:02:35Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 2 | 3| 
-| 20210130T01:49:16Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 8947 | 1437| 
-| 20210130T01:44:30Z | Pillar is a multi channel real time communiaction app exploiting MERN stack%s full potential. The app is purposely crafted with the goal to facilitate efficient group communications | https://github.com/dabaojian1992/Pillar | 0 | 0| 
-| 20210130T00:57:09Z | Exploration-Exploitation using MAB | https://github.com/aegoe/MAB | 0 | 1| 
-| 20210130T00:49:54Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 7 | 4| 
-| 20210130T00:23:25Z | Repository for tools and proof of concept exploits used against Vulnserver. | https://github.com/danf42/vulnserver | 0 | 0| 
-| 20210129T23:54:44Z | Vulnerabilities% Risk of Exploitation | https://github.com/thiagofigcosta/V-REx | 0 | 0| 
+| 20210130T12:53:05Z | PoCs for public CVE%s I have been working on. | https://github.com/lockedbyte/CVE-Exploits | 176 | 44| 
+| 20210130T12:52:50Z | Null | https://github.com/lsw29475/exploit | 0 | 0| 
+| 20210130T12:49:55Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 7 | 4| 
+| 20210130T12:41:26Z | Null | https://github.com/MTK-bypass/exploits_collection | 37 | 23| 
+| 20210130T12:37:13Z | Garry%s Mod module for sending a sv->cl SourceEngine net_SetConVar to a client. Used this for testing a exploit idea I had. | https://github.com/Leystryku/leyservermessage | 0 | 0| 
+| 20210130T12:32:22Z | Null | https://github.com/r4j0x00/exploits | 129 | 52| 
+| 20210130T12:31:52Z | This bash script will help you to hack remote hosts  | https://github.com/FabioDefilippo/linuxallremote | 4 | 1| 
+| 20210130T12:08:17Z | ASLR Evasion, Egghunters, SEH Overwrites | https://github.com/freddiebarrsmith/Advanced-Windows-Exploit-Development-Practice | 9 | 1| 
+| 20210130T12:02:55Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 2 | 3| 
+| 20210130T11:35:13Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 8949 | 1436| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210130T11:12:55Z | Ghost Framework is an Android post-exploitation framework that exploits the Android Debug Bridge to remotely access an Android device. Ghost Framework gives you the power and convenience of remote Android device administration. | https://github.com/EntySec/ghost | 931 | 475| 
+| 20210130T10:52:11Z | Null | https://github.com/SourceCode1037/Backdoor-Attacks | 1 | 0| 
+| 20210130T10:24:22Z | Input-aware Dynamic Backdoor Attack (Advances in Neural Information Processing Systems 2020) | https://github.com/VinAIResearch/input-aware-backdoor-attack-release | 25 | 3| 
+| 20210130T10:23:18Z | Null | https://github.com/Shahtr1/reverse_backdoor | 0 | 0| 
+| 20210130T09:01:26Z | TrojanZoo provides a universal pytorch platform to conduct security researches (especially backdoor attacks/defenses) of image classification in deep learning. | https://github.com/ain-soph/trojanzoo | 33 | 7| 
+| 20210130T08:49:27Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 159 | 23| 
+| 20210130T08:26:25Z | Null | https://github.com/zpinto/backdoor | 0 | 0| 
 | 20210130T02:39:31Z | Null | https://github.com/SourceCode1037/Backdoor | 1 | 0| 
 | 20210130T01:58:47Z | AdvDoor: Adversarial Backdoor Attack of Deep Learning System | https://github.com/Anonymous-AdvDoor/AdvDoor | 0 | 0| 
-| 20210130T00:40:07Z | TrojanZoo provides a universal pytorch platform to conduct security researches (especially backdoor attacks/defenses) of image classification in deep learning. | https://github.com/ain-soph/trojanzoo | 32 | 7| 
 | 20210129T20:04:43Z | Null | https://github.com/glavnik/ConnectBack-Backdoor-Shell | 0 | 0| 
-| 20210129T16:56:25Z | Null | https://github.com/mikkelskov1/backdoor2 | 0 | 0| 
-| 20210129T15:43:19Z | Null | https://github.com/Shahtr1/reverse_backdoor | 0 | 0| 
-| 20210129T15:26:03Z | Ghost Framework is an Android post-exploitation framework that exploits the Android Debug Bridge to remotely access an Android device. Ghost Framework gives you the power and convenience of remote Android device administration. | https://github.com/EntySec/ghost | 930 | 475| 
-| 20210129T15:22:20Z | Open-Source Remote Administration Tool For Windows C# (RAT) | https://github.com/NYAN-x-CAT/AsyncRAT-C-Sharp | 777 | 343| 
-| 20210129T14:39:00Z | Rootkits , Backdoors , Sniffers , Virus , Ransomware , Steganography , Keylogger , Botnets , Worms , Other Network Tools | https://github.com/623665910/Malware | 15 | 71| 
-| 20210129T13:22:12Z | Null | https://github.com/jorick93/opdracht_Backdoor | 0 | 0| 
 
 
 # fuzz on Github 推荐
