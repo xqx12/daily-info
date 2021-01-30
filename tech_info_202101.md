@@ -46,7 +46,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20210130T02:15:27Z | CVE-2021-3156 | Null | https://github.com/Serpentiel/CVE-2021-3156 | Sudo before 1.9.5p2 has a Heap-based Buffer Overflow, allowing privilege escalation to root via %sudoedit -s% and a command-line argument that ends with a single backslash character.| 
+| 20210130T02:15:27Z | CVE-2021-3156 | Null | https://github.com/Serpentiel/CVE-2021-3156 | | 
 | 20210129T23:07:00Z | CVE-2021-3156 | Notes regarding CVE-2021-3156: Heap-Based Buffer Overflow in Sudo | https://github.com/mbcrump/CVE-2021-3156 | Sudo before 1.9.5p2 has a Heap-based Buffer Overflow, allowing privilege escalation to root via %sudoedit -s% and a command-line argument that ends with a single backslash character.| 
 | 20210129T14:32:24Z | CVE-2021-3156 | Null | https://github.com/baka9moe/CVE-2021-3156-Exp | Sudo before 1.9.5p2 has a Heap-based Buffer Overflow, allowing privilege escalation to root via %sudoedit -s% and a command-line argument that ends with a single backslash character.| 
 | 20210129T14:19:35Z | CVE-2021-3156 | Null | https://github.com/ltfafei/CVE-2021-3156 | Sudo before 1.9.5p2 has a Heap-based Buffer Overflow, allowing privilege escalation to root via %sudoedit -s% and a command-line argument that ends with a single backslash character.| 
@@ -89,6 +89,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210130T02:29:42Z | Awareness on Wildlife Exploitation | https://github.com/WeHaveLivesToo/We-Have-Lives-Too-Awareness-on-Wildlife-Exploitation | 0 | 0| 
 | 20210130T02:19:55Z | PoCs for public CVE%s I have been working on. | https://github.com/lockedbyte/CVE-Exploits | 70 | 22| 
 | 20210130T02:10:50Z | Null | https://github.com/loRes228/PasteExploit | 0 | 0| 
 | 20210130T02:02:35Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 2 | 3| 
@@ -98,7 +99,6 @@
 | 20210130T00:49:54Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 7 | 4| 
 | 20210130T00:23:25Z | Repository for tools and proof of concept exploits used against Vulnserver. | https://github.com/danf42/vulnserver | 0 | 0| 
 | 20210129T23:54:44Z | Vulnerabilities% Risk of Exploitation | https://github.com/thiagofigcosta/V-REx | 0 | 0| 
-| 20210129T23:39:00Z | Diversos exploits y automatizaciones para el juego Soccer Stars. | https://github.com/YM162/Soccer_stonks | 0 | 0| 
 
 
 # backdoor on Github 推荐
