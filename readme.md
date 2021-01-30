@@ -42,7 +42,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210130T13:53:25Z | PoCs for public CVE%s I have been working on. | https://github.com/lockedbyte/CVE-Exploits | 183 | 45| 
+| 20210130T13:57:24Z | PoCs for public CVE%s I have been working on. | https://github.com/lockedbyte/CVE-Exploits | 184 | 45| 
 | 20210130T13:53:14Z | Null | https://github.com/MTK-bypass/exploits_collection | 37 | 23| 
 | 20210130T13:44:01Z | Null | https://github.com/r4j0x00/exploits | 145 | 55| 
 | 20210130T13:43:08Z | Null | https://github.com/th3ken-dev/TH3KEN-EDITON | 2 | 0| 
@@ -57,7 +57,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210130T13:55:40Z | Null | https://github.com/mikkelskov1/backdoor2 | 0 | 0| 
+| 20210130T13:55:56Z | Null | https://github.com/mikkelskov1/backdoor2 | 0 | 0| 
 | 20210130T13:28:34Z | A commandline backdoor accessible from the windows login and lock screen to manipulate files and directories. | https://github.com/KabueMurage/Windows-Backdoor | 10 | 2| 
 | 20210130T11:12:55Z | Ghost Framework is an Android post-exploitation framework that exploits the Android Debug Bridge to remotely access an Android device. Ghost Framework gives you the power and convenience of remote Android device administration. | https://github.com/EntySec/ghost | 931 | 475| 
 | 20210130T10:52:11Z | Null | https://github.com/SourceCode1037/Backdoor-Attacks | 1 | 0| 
