@@ -78,14 +78,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210131T02:52:32Z | Note taking with fuzzy search | https://github.com/iamlemec/fuzzy | 1 | 1| 
-| 20210131T02:30:46Z | Software for fuzzing, used on web application pentestings. | https://github.com/NESCAU-UFLA/FuzzingTool | 4 | 1| 
-| 20210131T02:04:39Z | Tugas 2 Pengantar Kecerdasan Buatan | https://github.com/haurathaya/Fuzzy-Logic | 0 | 0| 
-| 20210131T01:56:55Z | Fuzz Go defer/panic/recover | https://github.com/mdempsky/deferfuzz | 26 | 3| 
-| 20210131T01:30:20Z | Ongoing development of the Fuzzball MUCK server software and associated functionality. | https://github.com/fuzzball-muck/fuzzball | 30 | 21| 
-| 20210131T01:25:25Z | A framework provides an interface to monitor and control fuzzers | https://github.com/pzread/fuzvisor | 31 | 0| 
-| 20210131T00:35:28Z | Group hackathon project for McHacks 8. The project is a friendly chat bot website which is designed to be friendly and comfort the user | https://github.com/owenglahn/FuzzyFriend | 0 | 0| 
-| 20210131T00:25:49Z | Go fuzzy matching tool using Levenshtein distance calculation | https://github.com/datahappy1/go_fuzzymatch | 0 | 0| 
+| 20210131T12:39:04Z | Personal website of Laurence Hughes | https://github.com/fuzzylogicxx/fuzzylogic | 4 | 1| 
+| 20210131T12:31:04Z | Generate code for json encoders/decoders, codecs, fuzzers, generators, and more | https://github.com/MartinSStewart/elm-review-todo-it-for-me | 0 | 0| 
+| 20210131T12:28:38Z | Null | https://github.com/barfedguy1996/fuzzy-bassoon | 0 | 0| 
+| 20210131T12:25:45Z | Null | https://github.com/juanjomendez/FuzzyLogicTest | 0 | 0| 
+| 20210131T12:11:23Z | A curated list of different AFL forks and AFL inspired fuzzers with detailed equivalent academic papers and AFL-fuzzing tutorials | https://github.com/Microsvuln/Awesome-AFL | 368 | 45| 
+| 20210131T12:09:53Z | A tool to generate images to fuzz and test your Machine Learning-based Visual Recognition engine | https://github.com/corneacristian/VisualReconPWN | 0 | 0| 
+| 20210131T12:03:32Z | Fuzzing cryptographic libraries. Magic bug printer go brrrr. | https://github.com/guidovranken/cryptofuzz | 236 | 32| 
+| 20210131T11:46:10Z | select boxes with fuzzy matching | https://github.com/fkretlow/fuzzy-select | 0 | 0| 
+| 20210131T11:42:01Z | Yujin%s Blog | https://github.com/Fuzzytheory/fuzzy_blog | 0 | 0| 
+| 20210131T11:14:11Z | Null | https://github.com/ThePatrickStar/fuzzer-data-collector | 8 | 1| 
 
 
 
