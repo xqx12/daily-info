@@ -24,7 +24,7 @@
 | 20210131T13:17:31Z | CVE-2021-3156 | Null | https://github.com/ltfafei/CVE-2021-3156 | Sudo before 1.9.5p2 has a Heap-based Buffer Overflow, allowing privilege escalation to root via %sudoedit -s% and a command-line argument that ends with a single backslash character.| 
 | 20210131T13:08:37Z | CVE-2021-3156 | CVE-2021-3156 | https://github.com/ymrsmns/CVE-2021-3156 | Sudo before 1.9.5p2 has a Heap-based Buffer Overflow, allowing privilege escalation to root via %sudoedit -s% and a command-line argument that ends with a single backslash character.| 
 | 20210131T11:51:58Z | CVE-2021-3156 | PoC for CVE-2021-3156 (sudo heap overflow) | https://github.com/stong/CVE-2021-3156 | Sudo before 1.9.5p2 has a Heap-based Buffer Overflow, allowing privilege escalation to root via %sudoedit -s% and a command-line argument that ends with a single backslash character.| 
-| 20210131T09:30:17Z | CVE-2021-3156 | CVE-2021-3156 | https://github.com/reverse-ex/CVE-2021-3156 | | 
+| 20210131T09:30:17Z | CVE-2021-3156 | CVE-2021-3156 | https://github.com/reverse-ex/CVE-2021-3156 | Sudo before 1.9.5p2 has a Heap-based Buffer Overflow, allowing privilege escalation to root via %sudoedit -s% and a command-line argument that ends with a single backslash character.| 
 | 20210131T09:29:11Z | CVE-2021-3345 | Null | https://github.com/MLGRadish/CVE-2021-3345 | _gcry_md_block_write in cipher/hash-common.c in Libgcrypt before 1.9.1 has a heap-based buffer overflow when the digest final function sets a large count value.| 
 | 20210131T08:55:40Z | CVE-2021-3156 | Null | https://github.com/teamtopkarl/CVE-2021-3156 | Sudo before 1.9.5p2 has a Heap-based Buffer Overflow, allowing privilege escalation to root via %sudoedit -s% and a command-line argument that ends with a single backslash character.| 
 | 20210131T07:02:46Z | CVE-2021-3156 | 复现别人家的CVEs系列 | https://github.com/Q4n/CVE-2021-3156 | Sudo before 1.9.5p2 has a Heap-based Buffer Overflow, allowing privilege escalation to root via %sudoedit -s% and a command-line argument that ends with a single backslash character.| 
@@ -78,6 +78,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210131T13:47:58Z | A tool to generate images to fuzz and test your Machine Learning-based Visual Recognition engine | https://github.com/corneacristian/VisualReconPWN | 0 | 0| 
 | 20210131T13:42:59Z | Null | https://github.com/ThePatrickStar/fuzzer-data-collector | 9 | 1| 
 | 20210131T13:21:10Z | Fuzzing cryptographic libraries. Magic bug printer go brrrr. | https://github.com/guidovranken/cryptofuzz | 237 | 32| 
 | 20210131T12:39:04Z | Personal website of Laurence Hughes | https://github.com/fuzzylogicxx/fuzzylogic | 4 | 1| 
@@ -85,7 +86,6 @@
 | 20210131T12:28:38Z | Null | https://github.com/barfedguy1996/fuzzy-bassoon | 0 | 0| 
 | 20210131T12:25:45Z | Null | https://github.com/juanjomendez/FuzzyLogicTest | 0 | 0| 
 | 20210131T12:11:23Z | A curated list of different AFL forks and AFL inspired fuzzers with detailed equivalent academic papers and AFL-fuzzing tutorials | https://github.com/Microsvuln/Awesome-AFL | 368 | 45| 
-| 20210131T12:09:53Z | A tool to generate images to fuzz and test your Machine Learning-based Visual Recognition engine | https://github.com/corneacristian/VisualReconPWN | 0 | 0| 
 | 20210131T11:46:10Z | select boxes with fuzzy matching | https://github.com/fkretlow/fuzzy-select | 0 | 0| 
 | 20210131T11:42:01Z | Yujin%s Blog | https://github.com/Fuzzytheory/fuzzy_blog | 0 | 0| 
 
