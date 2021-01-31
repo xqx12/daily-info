@@ -19,7 +19,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20210131T13:01:05Z | CVE-2021-3156 | Null | https://github.com/blasty/CVE-2021-3156 | Sudo before 1.9.5p2 has a Heap-based Buffer Overflow, allowing privilege escalation to root via %sudoedit -s% and a command-line argument that ends with a single backslash character.| 
+| 20210131T13:05:21Z | CVE-2021-3156 | Null | https://github.com/blasty/CVE-2021-3156 | Sudo before 1.9.5p2 has a Heap-based Buffer Overflow, allowing privilege escalation to root via %sudoedit -s% and a command-line argument that ends with a single backslash character.| 
 | 20210131T11:51:58Z | CVE-2021-3156 | PoC for CVE-2021-3156 (sudo heap overflow) | https://github.com/stong/CVE-2021-3156 | Sudo before 1.9.5p2 has a Heap-based Buffer Overflow, allowing privilege escalation to root via %sudoedit -s% and a command-line argument that ends with a single backslash character.| 
 | 20210131T10:37:34Z | CVE-2021-3156 | Null | https://github.com/ltfafei/CVE-2021-3156 | Sudo before 1.9.5p2 has a Heap-based Buffer Overflow, allowing privilege escalation to root via %sudoedit -s% and a command-line argument that ends with a single backslash character.| 
 | 20210131T09:30:17Z | CVE-2021-3156 | CVE-2021-3156 | https://github.com/reverse-ex/CVE-2021-3156 | Sudo before 1.9.5p2 has a Heap-based Buffer Overflow, allowing privilege escalation to root via %sudoedit -s% and a command-line argument that ends with a single backslash character.| 
@@ -62,6 +62,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210131T13:07:05Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 160 | 23| 
 | 20210131T12:40:54Z | Null | https://github.com/cherryBasher/BlackEyeS | 0 | 0| 
 | 20210131T12:40:11Z | Null | https://github.com/cherryBasher/BlackEyeS_Installer | 0 | 0| 
 | 20210131T11:17:38Z | A backdoor which is similar to Meterpreter. | https://github.com/0xStressedd/RemoteCMD | 1 | 0| 
@@ -71,7 +72,6 @@
 | 20210131T07:00:56Z | The implementation of our paper %Backdoor Attack against Speaker Verification%, accepted by the IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP) 2021. | https://github.com/THUYimingLi/Backdoor_Attack_Against_Speaker_Verification | 0 | 0| 
 | 20210131T05:50:45Z | Thefatrat a massive exploiting tool : Easy tool to generate backdoor and easy tool to post exploitation attack like browser attack and etc . This tool compiles a malware with popular payload and then the compiled malware can be execute on windows, android, mac . The malware that created with this tool also have an ability to bypass most AV software protection . | https://github.com/Screetsec/TheFatRat | 4918 | 1625| 
 | 20210131T04:59:28Z | just a simple and easy to understand python backdoor | https://github.com/Tab135/simple-python-backdoor | 0 | 0| 
-| 20210131T02:58:53Z | Null | https://github.com/SourceCode1037/Backdoor-Attacks | 1 | 0| 
 
 
 # fuzz on Github 推荐
