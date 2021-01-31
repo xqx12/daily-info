@@ -63,19 +63,22 @@
 | 20210130T13:55:56Z | Null | https://github.com/mikkelskov1/backdoor2 | 0 | 0| 
 | 20210130T13:28:34Z | A commandline backdoor accessible from the windows login and lock screen to manipulate files and directories. | https://github.com/KabueMurage/Windows-Backdoor | 10 | 2| 
 | 20210130T11:12:55Z | Ghost Framework is an Android post-exploitation framework that exploits the Android Debug Bridge to remotely access an Android device. Ghost Framework gives you the power and convenience of remote Android device administration. | https://github.com/EntySec/ghost | 931 | 475| 
-| 20210130T10:52:11Z | Null | https://github.com/SourceCode1037/Backdoor-Attacks | 1 | 0| 
+| 20210130T10:24:22Z | Input-aware Dynamic Backdoor Attack (Advances in Neural Information Processing Systems 2020) | https://github.com/VinAIResearch/input-aware-backdoor-attack-release | 25 | 3| 
 
 
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210130T01:31:08Z | Packer Fuzzer is a fast and efficient scanner for security detection of websites constructed by javascript module bundler such as Webpack.  | https://github.com/rtcatc/Packer-Fuzzer | 709 | 86| 
-| 20210130T01:16:52Z | Projekt na Programowanie aplikacji biznesowych | https://github.com/wojtekwrona232/fuzzy-winner | 0 | 0| 
-| 20210130T01:11:10Z | Coverage-guided binary fuzzing powered by Frida Stalker | https://github.com/meme/hotwax | 146 | 22| 
-| 20210130T00:53:45Z | HTTP fuzzer engine security oriented | https://github.com/NozakiLabs/nozaki | 23 | 6| 
-| 20210130T00:29:19Z | Take the current implementation and turning a microservice architecture | https://github.com/ccesarrod/FuzzyMicrosrvices | 0 | 0| 
-| 20210130T00:29:06Z | A catalog of wordlists to use with Nozaki or other fuzzer | https://github.com/NozakiLabs/wordlists | 4 | 0| 
-| 20210130T00:18:43Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 5825 | 1174| 
+| 20210130T23:56:16Z | Repo for my personal website | https://github.com/FuzzyReason/fuzzyreason.io | 1 | 0| 
+| 20210130T23:29:37Z | Null | https://github.com/Petrie65/FuzzyTown | 0 | 0| 
+| 20210130T23:29:09Z | Null | https://github.com/FuzzyReason/FuzzyReason | 0 | 0| 
+| 20210130T22:49:34Z | This tool uses fzf(1)-like fuzzy-finder to do partial or fuzzy search of Kubernetes resources. Instead of specifying full resource names to kubectl commands, you can choose them from an interactive list that you can filter by typing a few characters. | https://github.com/d-kuro/kubectl-fuzzy | 75 | 9| 
+| 20210130T22:14:09Z | Personal website of Laurence Hughes | https://github.com/fuzzylogicxx/fuzzylogic | 4 | 1| 
+| 20210130T21:33:24Z | final project for CS50 2020 | https://github.com/leztien/fuzzy_matching_project | 0 | 0| 
+| 20210130T20:31:02Z | Coding practice for HTML/CSS/anything else web based | https://github.com/FuzzyPumpkin/FuzzyPumpkin.github.io | 5 | 1| 
+| 20210130T20:29:17Z | A python module and script to handle custom fuzzing against anything | https://github.com/shoriwe/bftool | 2 | 0| 
+| 20210130T20:26:51Z | Fuzzing cryptographic libraries. Magic bug printer go brrrr. | https://github.com/guidovranken/cryptofuzz | 236 | 32| 
+| 20210130T19:32:20Z | Null | https://github.com/wayanjulianaputra/fuzzy-goggles | 0 | 0| 
 
 
 

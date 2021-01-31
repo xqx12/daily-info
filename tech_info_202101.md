@@ -47,7 +47,7 @@
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
 | 20210131T02:47:42Z | CVE-2021-3156 | PoC for CVE-2021-3156 (sudo heap overflow) | https://github.com/stong/CVE-2021-3156 | Sudo before 1.9.5p2 has a Heap-based Buffer Overflow, allowing privilege escalation to root via %sudoedit -s% and a command-line argument that ends with a single backslash character.| 
-| 20210131T02:46:38Z | CVE-2021-3156 | CVE-2021-3156 | https://github.com/reverse-ex/CVE-2021-3156 | Sudo before 1.9.5p2 has a Heap-based Buffer Overflow, allowing privilege escalation to root via %sudoedit -s% and a command-line argument that ends with a single backslash character.| 
+| 20210131T02:46:38Z | CVE-2021-3156 | CVE-2021-3156 | https://github.com/reverse-ex/CVE-2021-3156 | | 
 | 20210131T02:35:52Z | CVE-2021-3156 | Null | https://github.com/blasty/CVE-2021-3156 | Sudo before 1.9.5p2 has a Heap-based Buffer Overflow, allowing privilege escalation to root via %sudoedit -s% and a command-line argument that ends with a single backslash character.| 
 | 20210131T02:21:39Z | CVE-2021-3156 | Notes regarding CVE-2021-3156: Heap-Based Buffer Overflow in Sudo | https://github.com/mbcrump/CVE-2021-3156 | Sudo before 1.9.5p2 has a Heap-based Buffer Overflow, allowing privilege escalation to root via %sudoedit -s% and a command-line argument that ends with a single backslash character.| 
 | 20210131T00:21:17Z | CVE-2020-1350 | HoneyPoC: Proof-of-Concept (PoC) script to exploit SIGRed (CVE-2020-1350). Achieves Domain Admin on Domain Controllers running Windows Server 2000 up to Windows Server 2019. | https://github.com/ZephrFish/CVE-2020-1350 | A remote code execution vulnerability exists in Windows Domain Name System servers when they fail to properly handle requests, aka %Windows DNS Server Remote Code Execution Vulnerability%.| 
@@ -104,6 +104,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210131T02:58:53Z | Null | https://github.com/SourceCode1037/Backdoor-Attacks | 1 | 0| 
 | 20210131T02:09:25Z | Hacking tools pack & backdoors generator. | https://github.com/AdrMXR/KitHack | 331 | 57| 
 | 20210131T00:51:36Z | unlock the advanced menu of Lenovo Yoga Slim 7 BIOS | https://github.com/esno/yoga-bios-unlock | 10 | 1| 
 | 20210130T23:37:09Z | Thefatrat a massive exploiting tool : Easy tool to generate backdoor and easy tool to post exploitation attack like browser attack and etc . This tool compiles a malware with popular payload and then the compiled malware can be execute on windows, android, mac . The malware that created with this tool also have an ability to bypass most AV software protection . | https://github.com/Screetsec/TheFatRat | 4917 | 1625| 
@@ -113,22 +114,21 @@
 | 20210130T15:02:04Z | just a simple and easy to understand python backdoor | https://github.com/Tab135/simple-python-backdoor | 0 | 0| 
 | 20210130T14:39:44Z | A backdoor which is similar to Meterpreter. | https://github.com/0xStressedd/RemoteCMD | 1 | 0| 
 | 20210130T13:55:56Z | Null | https://github.com/mikkelskov1/backdoor2 | 0 | 0| 
-| 20210130T13:28:34Z | A commandline backdoor accessible from the windows login and lock screen to manipulate files and directories. | https://github.com/KabueMurage/Windows-Backdoor | 10 | 2| 
 
 
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210130T01:31:08Z | Packer Fuzzer is a fast and efficient scanner for security detection of websites constructed by javascript module bundler such as Webpack.  | https://github.com/rtcatc/Packer-Fuzzer | 709 | 86| 
-| 20210130T01:16:52Z | Projekt na Programowanie aplikacji biznesowych | https://github.com/wojtekwrona232/fuzzy-winner | 0 | 0| 
-| 20210130T01:11:10Z | Coverage-guided binary fuzzing powered by Frida Stalker | https://github.com/meme/hotwax | 146 | 22| 
-| 20210130T00:53:45Z | HTTP fuzzer engine security oriented | https://github.com/NozakiLabs/nozaki | 23 | 6| 
-| 20210130T00:29:19Z | Take the current implementation and turning a microservice architecture | https://github.com/ccesarrod/FuzzyMicrosrvices | 0 | 0| 
-| 20210130T00:29:06Z | A catalog of wordlists to use with Nozaki or other fuzzer | https://github.com/NozakiLabs/wordlists | 4 | 0| 
-| 20210130T00:18:43Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 5825 | 1174| 
-| 20210129T23:54:54Z | Keep an eye of your fuzzing. CLI to interact with ElasticSearch. | https://github.com/misalabs/horuz | 11 | 3| 
-| 20210129T23:46:40Z | Personal website of Laurence Hughes | https://github.com/fuzzylogicxx/fuzzylogic | 4 | 1| 
-| 20210129T23:45:42Z | Null | https://github.com/Fuzzol-Anonymous/Fuzzol | 0 | 0| 
+| 20210131T02:52:32Z | Note taking with fuzzy search | https://github.com/iamlemec/fuzzy | 1 | 1| 
+| 20210131T02:30:46Z | Software for fuzzing, used on web application pentestings. | https://github.com/NESCAU-UFLA/FuzzingTool | 4 | 1| 
+| 20210131T02:04:39Z | Tugas 2 Pengantar Kecerdasan Buatan | https://github.com/haurathaya/Fuzzy-Logic | 0 | 0| 
+| 20210131T01:56:55Z | Fuzz Go defer/panic/recover | https://github.com/mdempsky/deferfuzz | 26 | 3| 
+| 20210131T01:30:20Z | Ongoing development of the Fuzzball MUCK server software and associated functionality. | https://github.com/fuzzball-muck/fuzzball | 30 | 21| 
+| 20210131T01:25:25Z | A framework provides an interface to monitor and control fuzzers | https://github.com/pzread/fuzvisor | 31 | 0| 
+| 20210131T00:35:28Z | Group hackathon project for McHacks 8. The project is a friendly chat bot website which is designed to be friendly and comfort the user | https://github.com/owenglahn/FuzzyFriend | 0 | 0| 
+| 20210131T00:25:49Z | Go fuzzy matching tool using Levenshtein distance calculation | https://github.com/datahappy1/go_fuzzymatch | 0 | 0| 
+| 20210130T23:56:16Z | Repo for my personal website | https://github.com/FuzzyReason/fuzzyreason.io | 1 | 0| 
+| 20210130T23:29:37Z | Null | https://github.com/Petrie65/FuzzyTown | 0 | 0| 
 
 
 
