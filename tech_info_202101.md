@@ -104,7 +104,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210131T13:30:55Z | Open-Source PowerShell module developed by @TheShiShiLion to allow online play of Backdoors And Breaches card game devised by Black Hills Information Security | https://github.com/TheShiShiLion/BackdoorsAndBreaches | 0 | 0| 
+| 20210131T13:42:43Z | Open-Source PowerShell module to allow online play of Backdoors & Breaches card game devised by Black Hills Information Security | https://github.com/TheShiShiLion/BackdoorsAndBreaches | 0 | 0| 
 | 20210131T13:07:05Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 160 | 23| 
 | 20210131T12:40:54Z | Null | https://github.com/cherryBasher/BlackEyeS | 0 | 0| 
 | 20210131T12:40:11Z | Null | https://github.com/cherryBasher/BlackEyeS_Installer | 0 | 0| 
@@ -119,6 +119,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210131T13:42:59Z | Null | https://github.com/ThePatrickStar/fuzzer-data-collector | 9 | 1| 
 | 20210131T13:21:10Z | Fuzzing cryptographic libraries. Magic bug printer go brrrr. | https://github.com/guidovranken/cryptofuzz | 237 | 32| 
 | 20210131T12:39:04Z | Personal website of Laurence Hughes | https://github.com/fuzzylogicxx/fuzzylogic | 4 | 1| 
 | 20210131T12:31:04Z | Generate code for json encoders/decoders, codecs, fuzzers, generators, and more | https://github.com/MartinSStewart/elm-review-todo-it-for-me | 0 | 0| 
@@ -128,7 +129,6 @@
 | 20210131T12:09:53Z | A tool to generate images to fuzz and test your Machine Learning-based Visual Recognition engine | https://github.com/corneacristian/VisualReconPWN | 0 | 0| 
 | 20210131T11:46:10Z | select boxes with fuzzy matching | https://github.com/fkretlow/fuzzy-select | 0 | 0| 
 | 20210131T11:42:01Z | Yujin%s Blog | https://github.com/Fuzzytheory/fuzzy_blog | 0 | 0| 
-| 20210131T11:14:11Z | Null | https://github.com/ThePatrickStar/fuzzer-data-collector | 8 | 1| 
 
 
 
