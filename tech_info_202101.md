@@ -104,6 +104,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210131T13:30:55Z | Open-Source PowerShell module developed by @TheShiShiLion to allow online play of Backdoors And Breaches card game devised by Black Hills Information Security | https://github.com/TheShiShiLion/BackdoorsAndBreaches | 0 | 0| 
 | 20210131T13:07:05Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 160 | 23| 
 | 20210131T12:40:54Z | Null | https://github.com/cherryBasher/BlackEyeS | 0 | 0| 
 | 20210131T12:40:11Z | Null | https://github.com/cherryBasher/BlackEyeS_Installer | 0 | 0| 
@@ -113,7 +114,6 @@
 | 20210131T07:05:58Z | This is the implementation of our paper %Open-sourced Dataset Protection via Backdoor Watermarking%, accepted by the NeurIPS Workshop on Dataset Curation and Security, 2020. | https://github.com/THUYimingLi/Open-sourced_Dataset_Protection | 4 | 3| 
 | 20210131T07:00:56Z | The implementation of our paper %Backdoor Attack against Speaker Verification%, accepted by the IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP) 2021. | https://github.com/THUYimingLi/Backdoor_Attack_Against_Speaker_Verification | 0 | 0| 
 | 20210131T05:50:45Z | Thefatrat a massive exploiting tool : Easy tool to generate backdoor and easy tool to post exploitation attack like browser attack and etc . This tool compiles a malware with popular payload and then the compiled malware can be execute on windows, android, mac . The malware that created with this tool also have an ability to bypass most AV software protection . | https://github.com/Screetsec/TheFatRat | 4918 | 1625| 
-| 20210131T04:59:28Z | just a simple and easy to understand python backdoor | https://github.com/Tab135/simple-python-backdoor | 0 | 0| 
 
 
 # fuzz on Github 推荐
