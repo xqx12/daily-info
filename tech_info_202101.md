@@ -49,12 +49,12 @@
 | 20210131T13:32:06Z | CVE-2021-3156 | Null | https://github.com/blasty/CVE-2021-3156 | Sudo before 1.9.5p2 has a Heap-based Buffer Overflow, allowing privilege escalation to root via %sudoedit -s% and a command-line argument that ends with a single backslash character.| 
 | 20210131T13:18:42Z | CVE-2021-3156 | Notes regarding CVE-2021-3156: Heap-Based Buffer Overflow in Sudo | https://github.com/mbcrump/CVE-2021-3156 | Sudo before 1.9.5p2 has a Heap-based Buffer Overflow, allowing privilege escalation to root via %sudoedit -s% and a command-line argument that ends with a single backslash character.| 
 | 20210131T13:17:31Z | CVE-2021-3156 | Null | https://github.com/ltfafei/CVE-2021-3156 | Sudo before 1.9.5p2 has a Heap-based Buffer Overflow, allowing privilege escalation to root via %sudoedit -s% and a command-line argument that ends with a single backslash character.| 
-| 20210131T13:08:37Z | CVE-2021-3156 | CVE-2021-3156 | https://github.com/ymrsmns/CVE-2021-3156 | Sudo before 1.9.5p2 has a Heap-based Buffer Overflow, allowing privilege escalation to root via %sudoedit -s% and a command-line argument that ends with a single backslash character.| 
+| 20210131T13:08:37Z | CVE-2021-3156 | CVE-2021-3156 | https://github.com/ymrsmns/CVE-2021-3156 | | 
 | 20210131T11:51:58Z | CVE-2021-3156 | PoC for CVE-2021-3156 (sudo heap overflow) | https://github.com/stong/CVE-2021-3156 | Sudo before 1.9.5p2 has a Heap-based Buffer Overflow, allowing privilege escalation to root via %sudoedit -s% and a command-line argument that ends with a single backslash character.| 
 | 20210131T09:30:17Z | CVE-2021-3156 | CVE-2021-3156 | https://github.com/reverse-ex/CVE-2021-3156 | Sudo before 1.9.5p2 has a Heap-based Buffer Overflow, allowing privilege escalation to root via %sudoedit -s% and a command-line argument that ends with a single backslash character.| 
 | 20210131T09:29:11Z | CVE-2021-3345 | Null | https://github.com/MLGRadish/CVE-2021-3345 | _gcry_md_block_write in cipher/hash-common.c in Libgcrypt before 1.9.1 has a heap-based buffer overflow when the digest final function sets a large count value.| 
 | 20210131T08:55:40Z | CVE-2021-3156 | Null | https://github.com/teamtopkarl/CVE-2021-3156 | Sudo before 1.9.5p2 has a Heap-based Buffer Overflow, allowing privilege escalation to root via %sudoedit -s% and a command-line argument that ends with a single backslash character.| 
-| 20210131T07:02:46Z | CVE-2021-3156 | 复现别人家的CVEs系列 | https://github.com/Q4n/CVE-2021-3156 | | 
+| 20210131T07:02:46Z | CVE-2021-3156 | 复现别人家的CVEs系列 | https://github.com/Q4n/CVE-2021-3156 | Sudo before 1.9.5p2 has a Heap-based Buffer Overflow, allowing privilege escalation to root via %sudoedit -s% and a command-line argument that ends with a single backslash character.| 
 | 20210131T00:21:17Z | CVE-2020-1350 | HoneyPoC: Proof-of-Concept (PoC) script to exploit SIGRed (CVE-2020-1350). Achieves Domain Admin on Domain Controllers running Windows Server 2000 up to Windows Server 2019. | https://github.com/ZephrFish/CVE-2020-1350 | A remote code execution vulnerability exists in Windows Domain Name System servers when they fail to properly handle requests, aka %Windows DNS Server Remote Code Execution Vulnerability%.| 
 
 
@@ -89,8 +89,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210131T13:57:44Z | ASLR Evasion, Egghunters, SEH Overwrites | https://github.com/freddiebarrsmith/Advanced-Windows-Exploit-Development-Practice | 9 | 1| 
-| 20210131T13:57:20Z | Modular penetration testing platform that enables you to write, test, and execute exploit code. | https://github.com/EntySec/ZetaSploit | 18 | 5| 
+| 20210131T13:58:56Z | Modular penetration testing platform that enables you to write, test, and execute exploit code. | https://github.com/EntySec/ZetaSploit | 18 | 5| 
+| 20210131T13:58:29Z | ASLR Evasion, Egghunters, SEH Overwrites | https://github.com/freddiebarrsmith/Advanced-Windows-Exploit-Development-Practice | 9 | 1| 
 | 20210131T13:51:25Z | Linux kernel CVE exploit analysis report and relative debug environment. You don%t need to compile Linux kernel and configure your environment anymore.  | https://github.com/bsauce/kernel_exploit_factory | 48 | 9| 
 | 20210131T13:41:22Z | Search for Unix binaries that can be exploited to bypass system security restrictions. | https://github.com/t0thkr1s/gtfo | 69 | 13| 
 | 20210131T13:39:42Z | Null | https://github.com/sec4us-training/web_api_exploitation | 7 | 3| 
