@@ -64,7 +64,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210201T13:03:00Z | Security patch for the XBox Live Gamertag exploit | https://github.com/SynHCF/AntiXBLExploit | 1 | 0| 
+| 20210201T13:05:21Z | Security patch for the XBox Live Gamertag exploit | https://github.com/SynHCF/AntiXBLExploit | 2 | 0| 
+| 20210201T13:05:02Z | SSH bruteforce because I don%t like the one on exploit-db.  | https://github.com/ghostr3con/ssh-brute | 0 | 0| 
 | 20210201T12:53:58Z | Exploit of CVE-2019-8942 and CVE-2019-8943  | https://github.com/v0lck3r/CVE-2019-8943 | 0 | 0| 
 | 20210201T12:49:56Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 7 | 4| 
 | 20210201T12:20:12Z | exp for useful vuln | https://github.com/saucer-man/exploit | 0 | 0| 
@@ -73,7 +74,6 @@
 | 20210201T12:15:01Z | A small repo of exploits and other tools I used to do in CTF challenges | https://github.com/Elsword016/Exploits_and_scripts | 0 | 0| 
 | 20210201T11:49:48Z | Thi powershell script has got to run in remote windows host, even for pivoting | https://github.com/FabioDefilippo/winallenum | 0 | 1| 
 | 20210201T11:48:02Z | this bash script is for remote linux hosts hacked! | https://github.com/FabioDefilippo/linuxallenum | 8 | 0| 
-| 20210201T11:35:15Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 8955 | 1439| 
 
 
 # backdoor on Github 推荐
