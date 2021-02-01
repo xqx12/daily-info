@@ -64,6 +64,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210201T13:53:03Z | PatrowlHears - Vulnerability Intelligence Center / Exploits | https://github.com/Patrowl/PatrowlHears | 1 | 0| 
 | 20210201T13:30:22Z | Vulmap 是一款 web 漏洞扫描和验证工具, 可对 webapps 进行漏洞扫描, 并且具备漏洞利用功能 | https://github.com/zhzyker/vulmap | 858 | 155| 
 | 20210201T13:30:13Z | Some tools and exploits for the NVIDIA Falcon v5 TSEC engines.  | https://github.com/CAmadeus/falcon-tools | 9 | 1| 
 | 20210201T13:24:24Z | CDK is an open-sourced container penetration toolkit, offering stable exploitation in different slimmed containers without any OS dependency. It comes with penetration tools and many powerful PoCs/EXPs helps you to escape container and takeover K8s cluster easily. | https://github.com/cdk-team/CDK | 1028 | 139| 
@@ -73,7 +74,6 @@
 | 20210201T12:53:58Z | Exploit of CVE-2019-8942 and CVE-2019-8943  | https://github.com/v0lck3r/CVE-2019-8943 | 0 | 0| 
 | 20210201T12:49:56Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 7 | 4| 
 | 20210201T12:20:12Z | exp for useful vuln | https://github.com/saucer-man/exploit | 0 | 0| 
-| 20210201T12:15:46Z | ASLR Evasion, Egghunters, SEH Overwrites | https://github.com/freddiebarrsmith/Advanced-Windows-Exploit-Development-Practice | 9 | 1| 
 
 
 # backdoor on Github 推荐
