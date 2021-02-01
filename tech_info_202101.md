@@ -6,6 +6,7 @@
 # 玄武实验室 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20210131 | 渗透基础——Exchange Autodiscover的服务使用 | https://3gstudent.github.io/3gstudent.github.io/%E6%B8%97%E9%80%8F%E5%9F%BA%E7%A1%80-Exchange-Autodiscover%E7%9A%84%E4%BD%BF%E7%94%A8/| 
 | 20210129 | 研究员在西数 My Cloud Pro NAS 设备发现两个漏洞在 Pwn2Own 赛前被补了 | https://www.crowdstrike.com/blog/pwn2own-tale-of-a-bug-found-and-lost-again/| 
 | 20210129 | How We Escaped Docker in Azure Functions | https://www.intezer.com/blog/research/how-we-escaped-docker-in-azure-functions/| 
 | 20210129 | Learning Linux Kernel Exploitation - Part 2 | https://lkmidas.github.io/posts/20210128-linux-kernel-pwn-part-2/| 
@@ -25,7 +26,6 @@
 | 20210128 | 根据研究人员最新研究发现远程攻击者利用网络地址转换（NAT）滑流攻击对网络设备安全威胁。 | https://threatpost.com/remote-attackers-internal-network-devices-nat-slipstreaming/163400/| 
 | 20210128 | 为被动扫描器量身打造一款爬虫 - LSpider | https://paper.seebug.org/1473/| 
 | 20210128 | XNU kauth 子系统解读 | https://paper.seebug.org/1472/| 
-| 20210128 | Project Zero Samuel Groß 对 iMessage 的安全研究 | https://googleprojectzero.blogspot.com/2021/01/a-look-at-imessage-in-ios-14.html| 
 
 
 # 安全维基 推荐
@@ -46,27 +46,27 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20210131T13:32:06Z | CVE-2021-3156 | Null | https://github.com/blasty/CVE-2021-3156 | Sudo before 1.9.5p2 has a Heap-based Buffer Overflow, allowing privilege escalation to root via %sudoedit -s% and a command-line argument that ends with a single backslash character.| 
-| 20210131T13:18:42Z | CVE-2021-3156 | Notes regarding CVE-2021-3156: Heap-Based Buffer Overflow in Sudo | https://github.com/mbcrump/CVE-2021-3156 | Sudo before 1.9.5p2 has a Heap-based Buffer Overflow, allowing privilege escalation to root via %sudoedit -s% and a command-line argument that ends with a single backslash character.| 
+| 20210131T23:03:53Z | CVE-2021-3156 | A docker environment to research CVE-2021-3156 | https://github.com/apogiatzis/docker-CVE-2021-3156 | Sudo before 1.9.5p2 has a Heap-based Buffer Overflow, allowing privilege escalation to root via %sudoedit -s% and a command-line argument that ends with a single backslash character.| 
+| 20210131T19:58:35Z | CVE-2021-3345 | Null | https://github.com/MLGRadish/CVE-2021-3345 | _gcry_md_block_write in cipher/hash-common.c in Libgcrypt before 1.9.1 has a heap-based buffer overflow when the digest final function sets a large count value.| 
+| 20210131T16:10:16Z | CVE-2021-3156 | Null | https://github.com/kal1gh0st/CVE-2021-3156 | Sudo before 1.9.5p2 has a Heap-based Buffer Overflow, allowing privilege escalation to root via %sudoedit -s% and a command-line argument that ends with a single backslash character.| 
+| 20210131T15:52:37Z | CVE-2021-3156 | Null | https://github.com/teamtopkarl/CVE-2021-3156 | Sudo before 1.9.5p2 has a Heap-based Buffer Overflow, allowing privilege escalation to root via %sudoedit -s% and a command-line argument that ends with a single backslash character.| 
 | 20210131T13:17:31Z | CVE-2021-3156 | Null | https://github.com/ltfafei/CVE-2021-3156 | Sudo before 1.9.5p2 has a Heap-based Buffer Overflow, allowing privilege escalation to root via %sudoedit -s% and a command-line argument that ends with a single backslash character.| 
-| 20210131T13:08:37Z | CVE-2021-3156 | CVE-2021-3156 | https://github.com/ymrsmns/CVE-2021-3156 | | 
-| 20210131T11:51:58Z | CVE-2021-3156 | PoC for CVE-2021-3156 (sudo heap overflow) | https://github.com/stong/CVE-2021-3156 | Sudo before 1.9.5p2 has a Heap-based Buffer Overflow, allowing privilege escalation to root via %sudoedit -s% and a command-line argument that ends with a single backslash character.| 
-| 20210131T09:30:17Z | CVE-2021-3156 | CVE-2021-3156 | https://github.com/reverse-ex/CVE-2021-3156 | Sudo before 1.9.5p2 has a Heap-based Buffer Overflow, allowing privilege escalation to root via %sudoedit -s% and a command-line argument that ends with a single backslash character.| 
-| 20210131T09:29:11Z | CVE-2021-3345 | Null | https://github.com/MLGRadish/CVE-2021-3345 | _gcry_md_block_write in cipher/hash-common.c in Libgcrypt before 1.9.1 has a heap-based buffer overflow when the digest final function sets a large count value.| 
-| 20210131T08:55:40Z | CVE-2021-3156 | Null | https://github.com/teamtopkarl/CVE-2021-3156 | Sudo before 1.9.5p2 has a Heap-based Buffer Overflow, allowing privilege escalation to root via %sudoedit -s% and a command-line argument that ends with a single backslash character.| 
+| 20210131T13:08:37Z | CVE-2021-3156 | CVE-2021-3156 | https://github.com/ymrsmns/CVE-2021-3156 | Sudo before 1.9.5p2 has a Heap-based Buffer Overflow, allowing privilege escalation to root via %sudoedit -s% and a command-line argument that ends with a single backslash character.| 
 | 20210131T07:02:46Z | CVE-2021-3156 | 复现别人家的CVEs系列 | https://github.com/Q4n/CVE-2021-3156 | Sudo before 1.9.5p2 has a Heap-based Buffer Overflow, allowing privilege escalation to root via %sudoedit -s% and a command-line argument that ends with a single backslash character.| 
 | 20210131T00:21:17Z | CVE-2020-1350 | HoneyPoC: Proof-of-Concept (PoC) script to exploit SIGRed (CVE-2020-1350). Achieves Domain Admin on Domain Controllers running Windows Server 2000 up to Windows Server 2019. | https://github.com/ZephrFish/CVE-2020-1350 | A remote code execution vulnerability exists in Windows Domain Name System servers when they fail to properly handle requests, aka %Windows DNS Server Remote Code Execution Vulnerability%.| 
+| 20210130T16:37:11Z | CVE-2021-3156 | This simple bash script will patch the recently discovered sudo heap overflow vulnerability. | https://github.com/elbee-cyber/CVE-2021-3156-PATCHER | Sudo before 1.9.5p2 has a Heap-based Buffer Overflow, allowing privilege escalation to root via %sudoedit -s% and a command-line argument that ends with a single backslash character.| 
+| 20210130T12:40:23Z | CVE-2021-3156 | 1day research effort | https://github.com/kernelzeroday/CVE-2021-3156-Baron-Samedit | Sudo before 1.9.5p2 has a Heap-based Buffer Overflow, allowing privilege escalation to root via %sudoedit -s% and a command-line argument that ends with a single backslash character.| 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210131T22:11:22Z | Spring 2021 Geography 817 work folder  | https://github.com/klee12/klee12.github.io | 0 | 0| 
+| 20210131T21:04:51Z | Symbiotic is a tool for finding bugs in computer programs based on instrumentation, program slicing and KLEE | https://github.com/staticafi/symbiotic | 212 | 34| 
 | 20210131T12:22:26Z | An open-source Chinese font derived from Fontworks% Klee One | https://github.com/lxgw/LxgwWenKai | 5 | 0| 
-| 20210131T06:39:14Z | A personnal UI library made as an excuse to have a published UI package | https://github.com/Liinkiing/klee | 1 | 0| 
 | 20210131T00:48:35Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1620 | 481| 
 | 20210131T00:39:04Z | ( Create file store & Sell paid groups & Subscription system ) -> on kleeja | https://github.com/kleeja-official/kleeja_payment | 2 | 1| 
 | 20210130T09:50:17Z | Null | https://github.com/h2q8khor/kleefgaqbv | 0 | 0| 
-| 20210130T08:06:37Z | Spring 2021 Geography 817 work folder  | https://github.com/klee12/klee12.github.io | 0 | 0| 
 | 20210129T15:22:16Z | RVT is a collection of tools/libraries to support both static and dynamic verification of Rust programs. | https://github.com/project-oak/rust-verification-tools | 107 | 6| 
 | 20210129T06:49:53Z | Null | https://github.com/fontworks-fonts/Klee | 340 | 9| 
 | 20210129T04:16:14Z | Null | https://github.com/kleelab/kleelab.github.io | 0 | 0| 
@@ -89,31 +89,31 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210131T13:58:56Z | Modular penetration testing platform that enables you to write, test, and execute exploit code. | https://github.com/EntySec/ZetaSploit | 18 | 5| 
-| 20210131T13:58:29Z | ASLR Evasion, Egghunters, SEH Overwrites | https://github.com/freddiebarrsmith/Advanced-Windows-Exploit-Development-Practice | 9 | 1| 
-| 20210131T13:51:25Z | Linux kernel CVE exploit analysis report and relative debug environment. You don%t need to compile Linux kernel and configure your environment anymore.  | https://github.com/bsauce/kernel_exploit_factory | 48 | 9| 
-| 20210131T13:41:22Z | Search for Unix binaries that can be exploited to bypass system security restrictions. | https://github.com/t0thkr1s/gtfo | 69 | 13| 
-| 20210131T13:39:42Z | Null | https://github.com/sec4us-training/web_api_exploitation | 7 | 3| 
-| 20210131T13:34:21Z | Just a temporary website to post my ctf writeups and journey into binary exploitation/malware analysis/exploit development | https://github.com/blackbeard666/blackbeard666.github.io | 0 | 0| 
-| 20210131T13:30:29Z | Basic services enumeration and exploitation | https://github.com/dar3k93/Basic-service-enumeration | 0 | 1| 
-| 20210131T13:26:05Z | TryHackMe CTFs writeups, notes, dratfs, scrabbles, files and solutions. | https://github.com/edoardottt/tryhackme-ctf | 9 | 7| 
-| 20210131T13:05:31Z | Crafting table exploit mod for fabric | https://github.com/AriliusClient/CTEC | 0 | 1| 
-| 20210131T13:02:41Z | Some tools and exploits for the NVIDIA Falcon v5 TSEC engines.  | https://github.com/CAmadeus/falcon-tools | 8 | 0| 
+| 20210131T23:45:30Z | ASLR Evasion, Egghunters, SEH Overwrites | https://github.com/freddiebarrsmith/Advanced-Windows-Exploit-Development-Practice | 9 | 1| 
+| 20210131T23:43:05Z | forked version of funtuna, a homebrew ps2 app launcher designed to ease the pain of getting a stable exploit for those that have a console uncompatible with FreeMcBoot that doesnt have a modchip | https://github.com/israpps/Funtuna-Fork | 1 | 0| 
+| 20210131T22:25:55Z | In this paper I will initially retrace the path marked by Ray C. Fair with his long lasting series of presidential elections forecasts exploiting the same variables he uses but enriching the model with panel data. Exploiting the Fixed Effects estimation I will then add new variables that, according to our intuition, could lead to an overall improvement of the model and test for them applying the LASSO algorithm for model selection. I will finally infer the results and explore the possible challenges in disentangling causality from correlation | https://github.com/Hainexx/A_Brief_Panel_Data_Analysis_to_Forecast_US_Presidential_Elections | 0 | 0| 
+| 20210131T22:24:48Z | Testing the hyphotesis of cointegration of two term structures through Dickey-Fuller tests and Engle-Granger causality. Finally I exploit the VECM to infer the model and through the Cholesky decomposition I analyze SIRF and FEVD | https://github.com/Hainexx/A_Brief_Time_Series_Analysis_of_German_Bund_Term_Structure_of_Interest_Rate | 0 | 0| 
+| 20210131T22:23:26Z | I designed a naive shiny web application which is intended to take a string of words and predict the next possible word based on the probability of occurrence exploiting Markov chains. | https://github.com/Hainexx/An_NLP_algorithm_for_interactive_prediction | 0 | 0| 
+| 20210131T22:10:50Z | Thi powershell script has got to run in remote windows host, even for pivoting | https://github.com/FabioDefilippo/winallenum | 0 | 1| 
+| 20210131T22:09:36Z | We all know Rust%s trait system is Turing complete, so tell me, why aren%t we exploiting this??? | https://github.com/doctorn/trait-eval | 322 | 9| 
+| 20210131T21:32:12Z | This bash script will help you to hack remote hosts  | https://github.com/FabioDefilippo/linuxallremote | 4 | 1| 
+| 20210131T21:26:05Z | Old and new CTFs about Linux kernel exploitation. | https://github.com/MaherAzzouzi/LinuxKernelExploitation | 1 | 0| 
+| 20210131T21:10:33Z | Null | https://github.com/VoleNN420/Exploit | 0 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210131T13:42:43Z | Open-Source PowerShell module to allow online play of Backdoors & Breaches card game devised by Black Hills Information Security | https://github.com/TheShiShiLion/BackdoorsAndBreaches | 0 | 0| 
+| 20210131T23:42:23Z | ez mode | https://github.com/YeahOMA/omaBackdoor | 0 | 0| 
+| 20210131T23:21:46Z | TrojanZoo provides a universal pytorch platform to conduct security researches (especially backdoor attacks/defenses) of image classification in deep learning. | https://github.com/ain-soph/trojanzoo | 33 | 7| 
+| 20210131T22:36:49Z | A backdoor which is similar to Meterpreter. | https://github.com/0xStressedd/RemoteCMD | 2 | 0| 
+| 20210131T22:01:47Z | Hacking tools pack & backdoors generator. | https://github.com/AdrMXR/KitHack | 332 | 57| 
+| 20210131T21:53:08Z | Open-Source PowerShell module to allow online play of Backdoors & Breaches card game devised by Black Hills Information Security | https://github.com/TheShiShiLion/BackdoorsAndBreaches | 1 | 0| 
+| 20210131T19:58:46Z | Null | https://github.com/1MiKHalyCH1/backdoored_cipher | 0 | 0| 
 | 20210131T13:07:05Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 160 | 23| 
 | 20210131T12:40:54Z | Null | https://github.com/cherryBasher/BlackEyeS | 0 | 0| 
 | 20210131T12:40:11Z | Null | https://github.com/cherryBasher/BlackEyeS_Installer | 0 | 0| 
-| 20210131T11:17:38Z | A backdoor which is similar to Meterpreter. | https://github.com/0xStressedd/RemoteCMD | 1 | 0| 
 | 20210131T11:07:20Z | Null | https://github.com/rabbitx1337/backdoor | 0 | 0| 
-| 20210131T07:56:11Z | Null | https://github.com/little12/backdoor_hidden_trigger | 0 | 0| 
-| 20210131T07:05:58Z | This is the implementation of our paper %Open-sourced Dataset Protection via Backdoor Watermarking%, accepted by the NeurIPS Workshop on Dataset Curation and Security, 2020. | https://github.com/THUYimingLi/Open-sourced_Dataset_Protection | 4 | 3| 
-| 20210131T07:00:56Z | The implementation of our paper %Backdoor Attack against Speaker Verification%, accepted by the IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP) 2021. | https://github.com/THUYimingLi/Backdoor_Attack_Against_Speaker_Verification | 0 | 0| 
-| 20210131T05:50:45Z | Thefatrat a massive exploiting tool : Easy tool to generate backdoor and easy tool to post exploitation attack like browser attack and etc . This tool compiles a malware with popular payload and then the compiled malware can be execute on windows, android, mac . The malware that created with this tool also have an ability to bypass most AV software protection . | https://github.com/Screetsec/TheFatRat | 4918 | 1625| 
 
 
 # fuzz on Github 推荐
