@@ -79,15 +79,28 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210201T11:48:08Z | Pytorch implementation of our paper Backdoor Attack against Speaker Verification | https://github.com/zhaitongqing233/Backdoor-attack-against-speaker-verification | 1 | 1| 
+| 20210201T11:39:28Z | just a simple and easy to understand python backdoor | https://github.com/Tab135/simple-python-backdoor | 0 | 0| 
+| 20210201T10:57:45Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 161 | 23| 
+| 20210201T10:53:05Z | TrojanZoo provides a universal pytorch platform to conduct security researches (especially backdoor attacks/defenses) of image classification in deep learning. | https://github.com/ain-soph/trojanzoo | 34 | 8| 
+| 20210201T10:02:20Z | Installs a persistent backdoor binary on android devices with unlocked bootloader via TWRP that runs as system daemon with root permissions and without SELinux restrictions | https://github.com/LuigiVampa92/unlocked-bootloader-backdoor-demo | 0 | 0| 
+| 20210201T09:15:42Z | Null | https://github.com/rabbitx1337/backdoor | 0 | 0| 
 | 20210201T02:49:05Z | Null | https://github.com/SourceCode1037/Backdoor-Attacks | 1 | 0| 
 
 
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210201T02:00:41Z | URL Fuzzing / brute forcing tool, written in dart. | https://github.com/GrayWasTaken/dartbuster | 1 | 0| 
-| 20210201T00:41:19Z | Null | https://github.com/smasoud/extended-xss-fuzzer | 0 | 0| 
-| 20210201T00:37:23Z | final project for CS50 2020 | https://github.com/leztien/fuzzy_matching_project | 0 | 0| 
+| 20210201T12:56:05Z | А procedural macro to be used for testing/fuzzing stateful models against a semantically equivalent but obviously correct implementation | https://github.com/jakubadamw/rutenspitz | 42 | 3| 
+| 20210201T12:55:46Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 3327 | 769| 
+| 20210201T12:51:45Z | Null | https://github.com/juanjomendez/FuzzyLogicTest | 0 | 0| 
+| 20210201T12:41:16Z | Histogram Method of Image Binarization Based on Fuzzy Pixel Representation | https://github.com/abustaoglu/ImageBinarization-FuzzyPixelRepresentation | 0 | 0| 
+| 20210201T12:39:53Z | A JavaScript Engine Fuzzer | https://github.com/googleprojectzero/fuzzilli | 1140 | 198| 
+| 20210201T11:50:07Z | Null | https://github.com/kinzhong/fuzzing-automation-tools | 0 | 0| 
+| 20210201T11:38:44Z | Operations on fuzzy sets (program implemented as part of programming engineering studies) | https://github.com/Pomianowski/Fuzzy | 0 | 0| 
+| 20210201T11:33:23Z | Null | https://github.com/ethereum/solidity-fuzzing-corpus | 10 | 4| 
+| 20210201T10:20:10Z | Null | https://github.com/MRNOBODY-ZST/fuzzy-lamp | 0 | 0| 
+| 20210201T10:00:35Z | {golang, ptrace, snapshot}-based fuzzer | https://github.com/geeksonsecurity/snapandgo | 2 | 0| 
 
 
 
