@@ -64,7 +64,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210201T13:01:10Z | Security patch for the XBox Live Gamertag exploit | https://github.com/SynHCF/AntiXBLExploit | 0 | 0| 
+| 20210201T13:03:00Z | Security patch for the XBox Live Gamertag exploit | https://github.com/SynHCF/AntiXBLExploit | 1 | 0| 
 | 20210201T12:53:58Z | Exploit of CVE-2019-8942 and CVE-2019-8943  | https://github.com/v0lck3r/CVE-2019-8943 | 0 | 0| 
 | 20210201T12:49:56Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 7 | 4| 
 | 20210201T12:20:12Z | exp for useful vuln | https://github.com/saucer-man/exploit | 0 | 0| 
