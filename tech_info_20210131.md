@@ -25,7 +25,7 @@
 | 20210131T16:10:16Z | CVE-2021-3156 | Null | https://github.com/kal1gh0st/CVE-2021-3156 | Sudo before 1.9.5p2 has a Heap-based Buffer Overflow, allowing privilege escalation to root via %sudoedit -s% and a command-line argument that ends with a single backslash character.| 
 | 20210131T13:17:31Z | CVE-2021-3156 | Null | https://github.com/ltfafei/CVE-2021-3156 | Sudo before 1.9.5p2 has a Heap-based Buffer Overflow, allowing privilege escalation to root via %sudoedit -s% and a command-line argument that ends with a single backslash character.| 
 | 20210131T13:08:37Z | CVE-2021-3156 | CVE-2021-3156 | https://github.com/ymrsmns/CVE-2021-3156 | Sudo before 1.9.5p2 has a Heap-based Buffer Overflow, allowing privilege escalation to root via %sudoedit -s% and a command-line argument that ends with a single backslash character.| 
-| 20210131T07:02:46Z | CVE-2021-3156 | 复现别人家的CVEs系列 | https://github.com/Q4n/CVE-2021-3156 | | 
+| 20210131T07:02:46Z | CVE-2021-3156 | 复现别人家的CVEs系列 | https://github.com/Q4n/CVE-2021-3156 | Sudo before 1.9.5p2 has a Heap-based Buffer Overflow, allowing privilege escalation to root via %sudoedit -s% and a command-line argument that ends with a single backslash character.| 
 | 20210131T00:21:17Z | CVE-2020-1350 | HoneyPoC: Proof-of-Concept (PoC) script to exploit SIGRed (CVE-2020-1350). Achieves Domain Admin on Domain Controllers running Windows Server 2000 up to Windows Server 2019. | https://github.com/ZephrFish/CVE-2020-1350 | A remote code execution vulnerability exists in Windows Domain Name System servers when they fail to properly handle requests, aka %Windows DNS Server Remote Code Execution Vulnerability%.| 
 
 
@@ -77,16 +77,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210131T13:47:58Z | A tool to generate images to fuzz and test your Machine Learning-based Visual Recognition engine | https://github.com/corneacristian/VisualReconPWN | 0 | 0| 
-| 20210131T13:42:59Z | Null | https://github.com/ThePatrickStar/fuzzer-data-collector | 9 | 1| 
-| 20210131T13:21:10Z | Fuzzing cryptographic libraries. Magic bug printer go brrrr. | https://github.com/guidovranken/cryptofuzz | 237 | 32| 
-| 20210131T12:39:04Z | Personal website of Laurence Hughes | https://github.com/fuzzylogicxx/fuzzylogic | 4 | 1| 
-| 20210131T12:31:04Z | Generate code for json encoders/decoders, codecs, fuzzers, generators, and more | https://github.com/MartinSStewart/elm-review-todo-it-for-me | 0 | 0| 
-| 20210131T12:28:38Z | Null | https://github.com/barfedguy1996/fuzzy-bassoon | 0 | 0| 
-| 20210131T12:25:45Z | Null | https://github.com/juanjomendez/FuzzyLogicTest | 0 | 0| 
-| 20210131T12:11:23Z | A curated list of different AFL forks and AFL inspired fuzzers with detailed equivalent academic papers and AFL-fuzzing tutorials | https://github.com/Microsvuln/Awesome-AFL | 368 | 45| 
-| 20210131T11:46:10Z | select boxes with fuzzy matching | https://github.com/fkretlow/fuzzy-select | 0 | 0| 
-| 20210131T11:42:01Z | Yujin%s Blog | https://github.com/Fuzzytheory/fuzzy_blog | 0 | 0| 
+| 20210131T23:58:36Z | go-fuzz corpus data for Matt Layher%s projects. MIT Licensed. | https://github.com/mdlayher/fuzz-corpus | 2 | 1| 
+| 20210131T23:51:39Z | Includes Fuzzy Set Algorithms, Intuitionistic Fuzzy Set Algorithms and Fuzzy Cluster Validity Indexes | https://github.com/ibrahimayaz/PyFuzzySet | 0 | 0| 
+| 20210131T23:50:40Z | Software for fuzzing, used on web application pentestings. | https://github.com/NESCAU-UFLA/FuzzingTool | 4 | 1| 
+| 20210131T23:47:24Z | Towards fuzzing ROS 2 automatically | https://github.com/JnxF/automatic_fuzzing | 0 | 0| 
+| 20210131T22:48:34Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 5829 | 1176| 
+| 20210131T22:02:35Z | Dény® tools for archiving, visualization and fuzzing purposes.  | https://github.com/iomonad/deny-toolkit | 0 | 0| 
+| 20210131T21:58:18Z | Generate code for json encoders/decoders, codecs, fuzzers, generators, and more | https://github.com/MartinSStewart/elm-review-todo-it-for-me | 0 | 0| 
+| 20210131T21:39:40Z | Burp Suite extension for Radamsa-powered fuzzing with Intruder | https://github.com/nscuro/bradamsa-ng | 11 | 5| 
+| 20210131T21:35:47Z | Null | https://github.com/ArijZouaoui/Credit-Scoring-using-Fuzzy-Logic | 0 | 0| 
+| 20210131T21:23:01Z | Personal website of Laurence Hughes | https://github.com/fuzzylogicxx/fuzzylogic | 4 | 1| 
 
 
 
