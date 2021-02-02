@@ -42,7 +42,7 @@
 | 20210201T08:16:06Z | CVE-2021-3156 | A docker environment to research CVE-2021-3156 | https://github.com/apogiatzis/docker-CVE-2021-3156 | Sudo before 1.9.5p2 has a Heap-based Buffer Overflow, allowing privilege escalation to root via %sudoedit -s% and a command-line argument that ends with a single backslash character.| 
 | 20210201T06:40:02Z | CVE-2021-3156 | Notes regarding CVE-2021-3156: Heap-Based Buffer Overflow in Sudo | https://github.com/mbcrump/CVE-2021-3156 | Sudo before 1.9.5p2 has a Heap-based Buffer Overflow, allowing privilege escalation to root via %sudoedit -s% and a command-line argument that ends with a single backslash character.| 
 | 20210201T05:41:41Z | CVE-2021-3156 | Null | https://github.com/ltfafei/CVE-2021-3156 | Sudo before 1.9.5p2 has a Heap-based Buffer Overflow, allowing privilege escalation to root via %sudoedit -s% and a command-line argument that ends with a single backslash character.| 
-| 20210201T05:02:49Z | CVE-2021-3156 | Null | https://github.com/teamtopkarl/CVE-2021-3156 | | 
+| 20210201T05:02:49Z | CVE-2021-3156 | Null | https://github.com/teamtopkarl/CVE-2021-3156 | Sudo before 1.9.5p2 has a Heap-based Buffer Overflow, allowing privilege escalation to root via %sudoedit -s% and a command-line argument that ends with a single backslash character.| 
 
 
 # klee on Github 推荐
