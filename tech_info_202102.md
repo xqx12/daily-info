@@ -96,6 +96,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210202T02:11:53Z | P2P platform for publishing content, self-hosting, decentralized curation, and more. | https://github.com/FuzzrNet/Fuzzr | 15 | 2| 
 | 20210202T01:48:20Z | Fuzzy Logic SciKit (Toolkit for SciPy) | https://github.com/codediaz/fuzzy_logic | 1 | 0| 
 | 20210202T01:06:41Z | Fuzz Tool and source code flags hunter. | https://github.com/viniciuspereiras/flagag | 0 | 0| 
 | 20210202T00:53:57Z | Fuzzy matching publications for fatcat (wip). | https://github.com/miku/fuzzycat | 1 | 1| 
@@ -105,7 +106,6 @@
 | 20210201T23:54:56Z | REST API Fuzz Testing (RAFT): Source code for self-hosted service developed for Azure, including the API, orchestration engine, and default set of security tools (including MSR%s RESTler), that enables developers to embed security tooling into their CI/CD workflows | https://github.com/microsoft/rest-api-fuzz-testing | 95 | 11| 
 | 20210201T23:50:17Z | This bot is an community open source discord bot. | https://github.com/nimit2801/fuzzy-bones | 0 | 0| 
 | 20210201T23:31:40Z | Effortlessly fuzz libraries with large API surfaces | https://github.com/rust-fuzz/auto-fuzz-test | 33 | 1| 
-| 20210201T23:21:58Z | Null | https://github.com/Juanosorio94/fuzzing-rdma | 0 | 0| 
 
 
 
