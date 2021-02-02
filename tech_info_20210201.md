@@ -33,9 +33,9 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20210201T18:50:08Z | CVE-2021-3156 | Null | https://github.com/SantiagoSerrao/ScannerCVE-2021-3156 | Sudo before 1.9.5p2 has a Heap-based Buffer Overflow, allowing privilege escalation to root via %sudoedit -s% and a command-line argument that ends with a single backslash character.| 
+| 20210201T18:50:08Z | CVE-2021-3156 | Null | https://github.com/SantiagoSerrao/ScannerCVE-2021-3156 | | 
 | 20210201T16:52:28Z | CVE-2021-3156 | 复现别人家的CVEs系列 | https://github.com/Q4n/CVE-2021-3156 | Sudo before 1.9.5p2 has a Heap-based Buffer Overflow, allowing privilege escalation to root via %sudoedit -s% and a command-line argument that ends with a single backslash character.| 
-| 20210201T16:51:34Z | CVE-2021-3156 | Null | https://github.com/kal1gh0st/CVE-2021-3156 | Sudo before 1.9.5p2 has a Heap-based Buffer Overflow, allowing privilege escalation to root via %sudoedit -s% and a command-line argument that ends with a single backslash character.| 
+| 20210201T16:51:34Z | CVE-2021-3156 | Null | https://github.com/kal1gh0st/CVE-2021-3156 | | 
 | 20210201T16:42:02Z | CVE-2021-3156 | CVE-2021-3156 | https://github.com/reverse-ex/CVE-2021-3156 | Sudo before 1.9.5p2 has a Heap-based Buffer Overflow, allowing privilege escalation to root via %sudoedit -s% and a command-line argument that ends with a single backslash character.| 
 | 20210201T15:19:14Z | CVE-2021-3345 | Null | https://github.com/MLGRadish/CVE-2021-3345 | _gcry_md_block_write in cipher/hash-common.c in Libgcrypt before 1.9.1 has a heap-based buffer overflow when the digest final function sets a large count value.| 
 | 20210201T13:20:48Z | CVE-2020-7247 | This vulnerability exists in OpenBSD’s mail server OpenSMTPD’s “smtp_mailaddr()” function, and affects OpenBSD version 6.6. This allows an attacker to execute arbitrary shell commands like “sleep 66” as root user | https://github.com/jopraveen/CVE-2020-7247 | smtp_mailaddr in smtp_session.c in OpenSMTPD 6.6, as used in OpenBSD 6.6 and other products, allows remote attackers to execute arbitrary commands as root via a crafted SMTP session, as demonstrated by shell metacharacters in a MAIL FROM field. This affects the %uncommented% default configuration. The issue exists because of an incorrect return value upon failure of input validation.| 
@@ -94,16 +94,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210201T12:56:05Z | А procedural macro to be used for testing/fuzzing stateful models against a semantically equivalent but obviously correct implementation | https://github.com/jakubadamw/rutenspitz | 42 | 3| 
-| 20210201T12:55:46Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 3327 | 769| 
-| 20210201T12:51:45Z | Null | https://github.com/juanjomendez/FuzzyLogicTest | 0 | 0| 
-| 20210201T12:41:16Z | Histogram Method of Image Binarization Based on Fuzzy Pixel Representation | https://github.com/abustaoglu/ImageBinarization-FuzzyPixelRepresentation | 0 | 0| 
-| 20210201T12:39:53Z | A JavaScript Engine Fuzzer | https://github.com/googleprojectzero/fuzzilli | 1140 | 198| 
-| 20210201T11:50:07Z | Null | https://github.com/kinzhong/fuzzing-automation-tools | 0 | 0| 
-| 20210201T11:38:44Z | Operations on fuzzy sets (program implemented as part of programming engineering studies) | https://github.com/Pomianowski/Fuzzy | 0 | 0| 
-| 20210201T11:33:23Z | Null | https://github.com/ethereum/solidity-fuzzing-corpus | 10 | 4| 
-| 20210201T10:20:10Z | Null | https://github.com/MRNOBODY-ZST/fuzzy-lamp | 0 | 0| 
-| 20210201T10:00:35Z | {golang, ptrace, snapshot}-based fuzzer | https://github.com/geeksonsecurity/snapandgo | 2 | 0| 
+| 20210201T23:54:56Z | REST API Fuzz Testing (RAFT): Source code for self-hosted service developed for Azure, including the API, orchestration engine, and default set of security tools (including MSR%s RESTler), that enables developers to embed security tooling into their CI/CD workflows | https://github.com/microsoft/rest-api-fuzz-testing | 95 | 11| 
+| 20210201T23:50:17Z | This bot is an community open source discord bot. | https://github.com/nimit2801/fuzzy-bones | 0 | 0| 
+| 20210201T23:31:40Z | Effortlessly fuzz libraries with large API surfaces | https://github.com/rust-fuzz/auto-fuzz-test | 33 | 1| 
+| 20210201T23:21:58Z | Null | https://github.com/Juanosorio94/fuzzing-rdma | 0 | 0| 
+| 20210201T22:52:45Z | Null | https://github.com/Linrisk/fuzzy-guacamole_portfolio | 1 | 0| 
+| 20210201T22:31:25Z | Basic URL fuzzer written in GOLANG | https://github.com/nochhacks/DirFuzz | 0 | 0| 
+| 20210201T22:21:20Z | final project for CS50 2020 | https://github.com/leztien/fuzzy_matching_project | 0 | 0| 
+| 20210201T22:07:48Z | Lariat Rent-A-Car Presentation | https://github.com/WookieFan/fuzzy-lariat | 0 | 0| 
+| 20210201T22:00:57Z | Null | https://github.com/puneet-07/Student-Performance-using-Fuzzy-Inference-System-FIS-MATLAB | 1 | 0| 
+| 20210201T22:00:43Z | go-fuzz corpus data for Matt Layher%s projects. MIT Licensed. | https://github.com/mdlayher/fuzz-corpus | 2 | 1| 
 
 
 
