@@ -51,7 +51,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210202T13:17:33Z | smtp exploit script | https://github.com/M4chin3M4N/SMTPython | 0 | 0| 
+| 20210202T13:18:38Z | smtp exploit script | https://github.com/M4chin3M4N/SMTPython | 0 | 0| 
 | 20210202T13:15:00Z | Null | https://github.com/EmperorParzival/ExploitScripts | 0 | 0| 
 | 20210202T13:14:58Z | Pentest important small exploitation scripts  | https://github.com/cyberjatin/mynotes | 0 | 0| 
 | 20210202T13:02:33Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 5 | 3| 
