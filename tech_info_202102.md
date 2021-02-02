@@ -92,12 +92,12 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210202T13:02:40Z | Hacking tools pack & backdoors generator. | https://github.com/AdrMXR/KitHack | 334 | 57| 
 | 20210202T12:37:29Z | Null | https://github.com/mikkelskov1/backdoor2 | 0 | 0| 
 | 20210202T12:34:06Z | Null | https://github.com/rabbitx1337/backdoor | 0 | 0| 
 | 20210202T11:39:02Z | Remote Access Trojan (RAT) backdoor generator and server project. *Educational purposes only | https://github.com/fordlarman/J0n3sy_Cat | 0 | 0| 
 | 20210202T09:43:29Z | Python3 backdoor for Wndows and Linux | https://github.com/aryansofficial/Python3-Backdoor | 0 | 0| 
 | 20210202T09:28:13Z | Null | https://github.com/EjHvorSerDuVildUdJim/backdoor | 0 | 0| 
-| 20210202T08:57:32Z | Hacking tools pack & backdoors generator. | https://github.com/AdrMXR/KitHack | 335 | 57| 
 | 20210202T04:43:59Z | TrojanZoo provides a universal pytorch platform to conduct security researches (especially backdoor attacks/defenses) of image classification in deep learning. | https://github.com/ain-soph/trojanzoo | 34 | 8| 
 | 20210202T03:37:26Z | A static analysis tool to detect potential backdoors hidden in Ethereum smart contracts. | https://github.com/renardbebe/backdoorDetector | 1 | 0| 
 | 20210202T03:32:48Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 161 | 23| 
@@ -107,16 +107,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210202T02:39:59Z | HTTP Fuzzer backed with Machine Learning | https://github.com/karust/ml_http_fuzzer | 0 | 0| 
-| 20210202T02:11:53Z | P2P platform for publishing content, self-hosting, decentralized curation, and more. | https://github.com/FuzzrNet/Fuzzr | 15 | 2| 
-| 20210202T01:48:20Z | Fuzzy Logic SciKit (Toolkit for SciPy) | https://github.com/codediaz/fuzzy_logic | 1 | 0| 
-| 20210202T01:06:41Z | Fuzz Tool and source code flags hunter. | https://github.com/viniciuspereiras/flagag | 0 | 0| 
-| 20210202T00:53:57Z | Fuzzy matching publications for fatcat (wip). | https://github.com/miku/fuzzycat | 1 | 1| 
-| 20210202T00:48:24Z | Null | https://github.com/james9348234/fuzzy-meme | 0 | 0| 
-| 20210202T00:20:26Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 5833 | 1176| 
-| 20210202T00:01:31Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2258 | 117| 
-| 20210201T23:54:56Z | REST API Fuzz Testing (RAFT): Source code for self-hosted service developed for Azure, including the API, orchestration engine, and default set of security tools (including MSR%s RESTler), that enables developers to embed security tooling into their CI/CD workflows | https://github.com/microsoft/rest-api-fuzz-testing | 95 | 11| 
-| 20210201T23:50:17Z | This bot is an community open source discord bot. | https://github.com/nimit2801/fuzzy-bones | 0 | 0| 
+| 20210202T12:00:33Z | Null | https://github.com/Juanosorio94/fuzzing-rdma | 0 | 0| 
+| 20210202T11:50:21Z | Personal website of Laurence Hughes | https://github.com/fuzzylogicxx/fuzzylogic | 4 | 1| 
+| 20210202T11:29:53Z | Fuzzy matching publications for fatcat (wip). | https://github.com/miku/fuzzycat | 1 | 1| 
+| 20210202T11:06:57Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 3329 | 769| 
+| 20210202T10:48:25Z | Null | https://github.com/s9varesc/url-fuzzing | 0 | 0| 
+| 20210202T10:46:06Z | Null | https://github.com/Sentinel-One/efi_fuzz | 60 | 7| 
+| 20210202T10:23:38Z | Null | https://github.com/feixiangdejiahao/Fuzzing-Testing-of-JVM-Implementations | 0 | 0| 
+| 20210202T10:23:29Z | Simple fuzzer for OpenAPI 3 specification based APIs | https://github.com/vwt-digital/openapi3-fuzzer | 5 | 2| 
+| 20210202T10:22:06Z | Null | https://github.com/Murph9/pythonCodeFuzzing | 0 | 0| 
+| 20210202T10:10:38Z | Null | https://github.com/s9varesc/url-fuzzing-docker | 0 | 0| 
 
 
 
