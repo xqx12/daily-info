@@ -65,16 +65,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210202T01:08:36Z | Shadow Strike is a exploitation framework that aids in information gathering, payload generation, payload delivery, and website exploitation. | https://github.com/diegomardian/ShadowStrike | 0 | 0| 
+| 20210202T01:07:10Z | ASLR Evasion, Egghunters, SEH Overwrites | https://github.com/freddiebarrsmith/Advanced-Windows-Exploit-Development-Practice | 9 | 1| 
 | 20210202T01:02:13Z | A collection of tools used for exploiting Active Directory and Kerberos. | https://github.com/Pheelbert/ad_exploit_tools | 0 | 0| 
 | 20210202T00:56:08Z | A bunch of scripts for minecraft exploitation (still under development). | https://github.com/ivfreire/mc_scripts | 0 | 0| 
 | 20210202T00:49:56Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 7 | 4| 
 | 20210202T00:47:46Z | windows and linux streams for post exploitation | https://github.com/kymb0/post_exploitation | 1 | 0| 
-| 20210201T23:35:29Z | ASLR Evasion, Egghunters, SEH Overwrites | https://github.com/freddiebarrsmith/Advanced-Windows-Exploit-Development-Practice | 9 | 1| 
 | 20210201T23:18:54Z | Exploit que executa o CFW automaticamente a cada reinício. Requer o Haxchi. | https://github.com/Nintendo-Homebrew/CBHC | 0 | 0| 
 | 20210201T23:18:35Z | This is an integration between Twilio SMS services and api.ai.  | https://github.com/asanta27/Google-Voice-Twilio-Exploit | 2 | 0| 
 | 20210201T23:14:16Z | Pillar is a multi channel real time communiaction app exploiting MERN stack%s full potential. The app is purposely crafted with the goal to facilitate efficient group communications | https://github.com/dabaojian1992/Pillar | 0 | 0| 
 | 20210201T23:08:17Z | Null | https://github.com/sudo-von/reverse-engineering-and-binary-exploitation-experiments | 0 | 0| 
-| 20210201T23:05:09Z | Exploit mais conhecido do Wii, recentemente ultrapassado, capaz de acessar uma brecha no mural de cartas do sistema. | https://github.com/Nintendo-Homebrew/LetterBomb | 0 | 0| 
 
 
 # backdoor on Github 推荐

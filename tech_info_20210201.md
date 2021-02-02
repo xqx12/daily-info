@@ -64,7 +64,6 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210201T23:35:29Z | ASLR Evasion, Egghunters, SEH Overwrites | https://github.com/freddiebarrsmith/Advanced-Windows-Exploit-Development-Practice | 9 | 1| 
 | 20210201T23:18:54Z | Exploit que executa o CFW automaticamente a cada reinício. Requer o Haxchi. | https://github.com/Nintendo-Homebrew/CBHC | 0 | 0| 
 | 20210201T23:18:35Z | This is an integration between Twilio SMS services and api.ai.  | https://github.com/asanta27/Google-Voice-Twilio-Exploit | 2 | 0| 
 | 20210201T23:14:16Z | Pillar is a multi channel real time communiaction app exploiting MERN stack%s full potential. The app is purposely crafted with the goal to facilitate efficient group communications | https://github.com/dabaojian1992/Pillar | 0 | 0| 
@@ -74,6 +73,7 @@
 | 20210201T22:45:35Z | Root shell exploit for several Xiaomi routers: 4A Gigabit, 4A 100M, 4, 4C, 3Gv2, 4Q, miWifi 3C... | https://github.com/acecilia/OpenWRTInvasion | 328 | 67| 
 | 20210201T22:33:43Z | A game of spaceships exploiting astroids. | https://github.com/BlackLambert/astrominer | 0 | 0| 
 | 20210201T21:55:26Z | Explorations and exploitations of the UWP platform | https://github.com/alexpisquared/UWP | 0 | 0| 
+| 20210201T21:49:05Z | This bash script will help you to hack remote hosts  | https://github.com/FabioDefilippo/linuxallremote | 4 | 1| 
 
 
 # backdoor on Github 推荐
