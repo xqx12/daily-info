@@ -57,7 +57,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210203T13:52:16Z | Null | https://github.com/r4j0x00/exploits | 354 | 88| 
+| 20210203T13:55:48Z | Null | https://github.com/r4j0x00/exploits | 354 | 88| 
+| 20210203T13:55:34Z | The detection of irony and sarcasm is one of the most insidious challenges in the field of Natural Language Processing. Over the years, several techniques have been studied to analyze these rhetorical figures, trying to identify the elements that discriminate, in a significant way, what is sarcastic or ironic from what is not. Within this study, some models that are state of the art are analyzed. As far as Machine Learning is concerned, the most discriminating features such as part of speech, pragmatic particles and sentiment are studied. Subsequently, these models are optimized, comparing Bayesian optimization techniques and random search. Once, the best hyperparameters are identified, ensemble methods such as Bayesian Model Averaging (BMA) are exploited. In relation to Deep Learning, two main models are analyzed: DeepMoji, developed by MIT, and a model called Transformer Based, which exploits the generalization power of Roberta Transformer. As soon as these models are compared, the main goal is to identify a new system able to better capture the two rhetorical figures. To this end, two models composed of attention mechanisms are proposed, exploiting the principle of Transfer Learning, using Bert Tweet Model and DeepMoji Model as feature extractors. After identifying the various architectures, an ensemble method is applied on the set of approaches proposed, in order to identify the best combination of algorithms that can achieve satisfactory results. Frameworks used: Pytorch, TF 2.0, Scikit Learn, Scikit-Optimize, Transformers | https://github.com/lorenzofamiglini/Irony-Sarcasm-Detection-Task | 0 | 0| 
 | 20210203T13:52:16Z | Just a temporary website to post my ctf writeups and journey into binary/android exploitation/malware analysis/exploit development | https://github.com/blackbeard666/pwn_exhibit | 2 | 1| 
 | 20210203T13:49:27Z | Just a temporary website to post my ctf writeups and journey into binary exploitation/malware analysis/exploit development | https://github.com/blackbeard666/blackbeard666.github.io | 0 | 0| 
 | 20210203T13:25:04Z | PatrowlHears - Vulnerability Intelligence Center / Exploits | https://github.com/Patrowl/PatrowlHears | 42 | 8| 
@@ -66,7 +67,6 @@
 | 20210203T12:49:57Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 7 | 4| 
 | 20210203T12:43:43Z | Launcher base for your gtav mod menu/exploit/cheat/hack. Version 2.0 (Different Layout) | https://github.com/0xFXDE/DemoZeroUIV2 | 0 | 0| 
 | 20210203T12:06:23Z | A newly developed minecraft cheat as of 02/2021, tested and made for 2b2t and other anarchy servers, compatible with the most well known servers such as hypixel, signet is a combat and movement based client designed to avoid detection from all anticheats such as watchdogs, GWEN and much more! It also includes a new exploit for boat and ELYTRA fly, as of 02/2021, and will be continuing to be updated regularly on the GitHub repo. | https://github.com/Floppyzee3/SignetMC | 0 | 0| 
-| 20210203T11:57:07Z | This bash script will help you to hack remote hosts  | https://github.com/FabioDefilippo/linuxallremote | 4 | 1| 
 
 
 # backdoor on Github 推荐
