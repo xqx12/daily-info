@@ -78,6 +78,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210203T01:49:03Z | Roblox Exploit with various custom function. Stable and Free to use. | https://github.com/ExoticN01/RektSploit | 1 | 0| 
 | 20210203T01:45:42Z | Automatic SSRF fuzzer and exploitation tool | https://github.com/swisskyrepo/SSRFmap | 1307 | 269| 
 | 20210203T01:34:13Z | Vulnerabilities% Risk of Exploitation | https://github.com/thiagofigcosta/V-REx | 0 | 0| 
 | 20210203T01:17:47Z | Null | https://github.com/cyanewfag/fishExploitLUAZapped | 0 | 0| 
@@ -87,7 +88,6 @@
 | 20210203T00:39:52Z | Null | https://github.com/cyanewfag/fishExploitLUA | 0 | 0| 
 | 20210203T00:01:24Z | Ronin is a Ruby platform for vulnerability research and exploit development. Ronin allows for the rapid development and distribution of code, Exploits or Payloads, Scanners, etc, via Repositories. | https://github.com/ronin-rb/ronin | 213 | 19| 
 | 20210202T23:23:15Z | Running this HTML File locally will corrupt the File System and Trigger a Blue Screen after three seconds | https://github.com/websecnl/NTFS-Corruption-and-BSOD-Exploit | 0 | 0| 
-| 20210202T23:16:32Z | Exploit Development on my road to OSCP | https://github.com/macosta-42/Exploit-Development | 0 | 0| 
 
 
 # backdoor on Github 推荐
