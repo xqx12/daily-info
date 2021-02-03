@@ -26,9 +26,9 @@
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
 | 20210203T13:36:25Z | CVE-2021-3156 | Null | https://github.com/blasty/CVE-2021-3156 | Sudo before 1.9.5p2 has a Heap-based Buffer Overflow, allowing privilege escalation to root via %sudoedit -s% and a command-line argument that ends with a single backslash character.| 
-| 20210203T12:53:53Z | CVE-2021-3345 | Null | https://github.com/MLGRadish/CVE-2021-3345 | _gcry_md_block_write in cipher/hash-common.c in Libgcrypt version 1.9.0 has a heap-based buffer overflow when the digest final function sets a large count value. It is recommended to upgrade to 1.9.1 or later.| 
+| 20210203T12:53:53Z | CVE-2021-3345 | Null | https://github.com/MLGRadish/CVE-2021-3345 | | 
 | 20210203T11:27:52Z | CVE-2021-3156 | Null | https://github.com/leterts/CVE-2021-3156 | Sudo before 1.9.5p2 has a Heap-based Buffer Overflow, allowing privilege escalation to root via %sudoedit -s% and a command-line argument that ends with a single backslash character.| 
-| 20210203T10:58:41Z | CVE-2021-3156 | CVE-2021-3156 Vagrant Lab | https://github.com/dinhbaouit/CVE-2021-3156 | Sudo before 1.9.5p2 has a Heap-based Buffer Overflow, allowing privilege escalation to root via %sudoedit -s% and a command-line argument that ends with a single backslash character.| 
+| 20210203T10:58:41Z | CVE-2021-3156 | CVE-2021-3156 Vagrant Lab | https://github.com/dinhbaouit/CVE-2021-3156 | | 
 | 20210203T09:38:18Z | cve-2020-17523 | shiro-cve-2020-17523 漏洞分析 | https://github.com/jweny/shiro-cve-2020-17523 | 未查询到CVE信息| 
 | 20210203T09:04:14Z | CVE-2021-3156 | Null | https://github.com/cdeletre/Serpentiel-CVE-2021-3156 | Sudo before 1.9.5p2 has a Heap-based Buffer Overflow, allowing privilege escalation to root via %sudoedit -s% and a command-line argument that ends with a single backslash character.| 
 | 20210203T09:00:04Z | cve-2021-25646 | Apache Druid 远程代码执行;检测脚本 | https://github.com/yaunsky/cve-2021-25646 | 未查询到CVE信息| 
@@ -85,6 +85,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210203T13:44:53Z | nothing | https://github.com/ByFan-coder/Fuzzy-Octopus | 0 | 0| 
 | 20210203T13:25:37Z | A curated list on research blending deeplearning and fuzzing | https://github.com/thebabush/awesome-deep-fuzzing | 6 | 1| 
 | 20210203T13:02:38Z | final project for CS50 2020 | https://github.com/leztien/fuzzy_matching_project | 0 | 0| 
 | 20210203T11:53:35Z | Program berjudul %Pengelompokan Usia pada Sistem Fuzzy% | https://github.com/arizkinewbie/Contoh-Aturan-Fuzzy | 0 | 0| 
@@ -94,7 +95,6 @@
 | 20210203T10:38:26Z | Null | https://github.com/Tilsonar/Fuzzy-Clustering-Topic-Modeling | 0 | 0| 
 | 20210203T09:54:02Z | A curated list of awesome directed fuzzing research papers | https://github.com/strongcourage/awesome-directed-fuzzing | 71 | 14| 
 | 20210203T09:39:43Z | A fuzzer for SMT solvers | https://github.com/testsmt/yinyang | 74 | 6| 
-| 20210203T09:39:40Z | AI task 2 : creating fuzzy algorithm | https://github.com/dendyandra22/FuzzyAlgorithm | 0 | 0| 
 
 
 
