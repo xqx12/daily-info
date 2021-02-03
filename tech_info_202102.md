@@ -78,6 +78,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210203T01:17:47Z | Null | https://github.com/cyanewfag/fishExploitLUAZapped | 0 | 0| 
 | 20210203T01:13:17Z | A collection of links related to VMware escape exploits | https://github.com/xairy/vmware-exploitation | 729 | 140| 
 | 20210203T01:02:45Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 7 | 3| 
 | 20210203T00:49:56Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 7 | 4| 
@@ -87,7 +88,6 @@
 | 20210202T23:16:32Z | Exploit Development on my road to OSCP | https://github.com/macosta-42/Exploit-Development | 0 | 0| 
 | 20210202T23:08:20Z | The affinity client is an open-source hacked client with many modules, hacks, and exploits. | https://github.com/AffinityClient/AffinityClient | 0 | 0| 
 | 20210202T22:45:10Z | Hacking the art of exploitation | https://github.com/phi12ip/htaoe | 0 | 0| 
-| 20210202T22:44:48Z | Tools for exploiting ARIA standard products | https://github.com/aria-tools/ARIA-tools | 38 | 19| 
 
 
 # backdoor on Github 推荐
