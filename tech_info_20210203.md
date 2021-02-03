@@ -57,6 +57,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210203T13:10:12Z | Exploiter is a ripoff for metasploit but have all vulnerbility on exploit-db | https://github.com/Parrot12345-HTB/Exploiter | 0 | 0| 
 | 20210203T13:02:51Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 7 | 3| 
 | 20210203T13:00:34Z | Null | https://github.com/r4j0x00/exploits | 353 | 88| 
 | 20210203T12:56:11Z | PatrowlHears - Vulnerability Intelligence Center / Exploits | https://github.com/Patrowl/PatrowlHears | 41 | 8| 
@@ -66,14 +67,13 @@
 | 20210203T11:57:07Z | This bash script will help you to hack remote hosts  | https://github.com/FabioDefilippo/linuxallremote | 4 | 1| 
 | 20210203T11:51:54Z | Running this HTML File locally will corrupt the File System and Trigger a Blue Screen after three seconds | https://github.com/websecnl/NTFS-Corruption-and-BSOD-Exploit | 0 | 0| 
 | 20210203T11:40:28Z | Experimental CSGO external game exploit. | https://github.com/jamesmoriarty/gohack | 20 | 3| 
-| 20210203T11:35:12Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 8965 | 1439| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210203T13:10:07Z | Null | https://github.com/angelo1104/backdoor-client | 0 | 0| 
 | 20210203T12:46:18Z | Null | https://github.com/angelo1104/backdoor-server | 0 | 0| 
-| 20210203T12:45:59Z | Null | https://github.com/angelo1104/backdoor-client | 0 | 0| 
 | 20210203T12:32:04Z | This is a python program backdoor embeded with a game for reverse connection from the victim to understand the use visit our youtube channel STRANGE LEARNINGS  | https://github.com/EnriqueStrange/Advanced-Backdoor | 0 | 0| 
 | 20210203T11:12:30Z | Hacking tools pack & backdoors generator. | https://github.com/AdrMXR/KitHack | 336 | 57| 
 | 20210203T10:13:02Z | Null | https://github.com/k0rup710n/Python-Backdoor | 0 | 0| 
