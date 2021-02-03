@@ -93,13 +93,13 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210203T02:46:42Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 162 | 23| 
 | 20210203T02:06:13Z | Tool to find potential backdoor/security holes in your endpoint | https://github.com/subasgit/backdoorfinder | 1 | 0| 
 | 20210202T20:47:30Z | TrojanZoo provides a universal pytorch platform to conduct security researches (especially backdoor attacks/defenses) of image classification in deep learning. | https://github.com/ain-soph/trojanzoo | 35 | 8| 
 | 20210202T20:27:14Z | Hacking tools pack & backdoors generator. | https://github.com/AdrMXR/KitHack | 335 | 57| 
 | 20210202T18:22:58Z | Null | https://github.com/Wiilldd/backdoor | 0 | 0| 
 | 20210202T16:19:16Z | Null | https://github.com/angelo1104/backdoor-client | 0 | 0| 
 | 20210202T15:50:27Z | Null | https://github.com/angelo1104/backdoor-server | 0 | 0| 
-| 20210202T13:06:30Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 162 | 23| 
 | 20210202T13:05:44Z | Pytorch implementation of Backdoor Attack against Speaker Verification | https://github.com/zhaitongqing233/Backdoor-attack-against-speaker-verification | 3 | 2| 
 | 20210202T12:37:29Z | Null | https://github.com/mikkelskov1/backdoor2 | 0 | 0| 
 | 20210202T12:34:06Z | Null | https://github.com/rabbitx1337/backdoor | 0 | 0| 

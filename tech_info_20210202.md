@@ -75,11 +75,11 @@
 | 20210202T18:22:58Z | Null | https://github.com/Wiilldd/backdoor | 0 | 0| 
 | 20210202T16:19:16Z | Null | https://github.com/angelo1104/backdoor-client | 0 | 0| 
 | 20210202T15:50:27Z | Null | https://github.com/angelo1104/backdoor-server | 0 | 0| 
-| 20210202T13:06:30Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 162 | 23| 
 | 20210202T13:05:44Z | Pytorch implementation of Backdoor Attack against Speaker Verification | https://github.com/zhaitongqing233/Backdoor-attack-against-speaker-verification | 3 | 2| 
 | 20210202T12:37:29Z | Null | https://github.com/mikkelskov1/backdoor2 | 0 | 0| 
 | 20210202T12:34:06Z | Null | https://github.com/rabbitx1337/backdoor | 0 | 0| 
 | 20210202T11:39:02Z | Remote Access Trojan (RAT) backdoor generator and server project. *Educational purposes only | https://github.com/fordlarman/J0n3sy_Cat | 0 | 0| 
+| 20210202T09:43:29Z | Python3 backdoor for Wndows and Linux | https://github.com/aryansofficial/Python3-Backdoor | 0 | 0| 
 
 
 # fuzz on Github 推荐
