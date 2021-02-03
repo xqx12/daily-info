@@ -25,16 +25,16 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20210203T13:20:02Z | CVE-2021-3156 | Null | https://github.com/blasty/CVE-2021-3156 | Sudo before 1.9.5p2 has a Heap-based Buffer Overflow, allowing privilege escalation to root via %sudoedit -s% and a command-line argument that ends with a single backslash character.| 
+| 20210203T13:24:34Z | CVE-2021-3156 | Null | https://github.com/blasty/CVE-2021-3156 | Sudo before 1.9.5p2 has a Heap-based Buffer Overflow, allowing privilege escalation to root via %sudoedit -s% and a command-line argument that ends with a single backslash character.| 
 | 20210203T12:53:53Z | CVE-2021-3345 | Null | https://github.com/MLGRadish/CVE-2021-3345 | _gcry_md_block_write in cipher/hash-common.c in Libgcrypt version 1.9.0 has a heap-based buffer overflow when the digest final function sets a large count value. It is recommended to upgrade to 1.9.1 or later.| 
-| 20210203T11:27:52Z | CVE-2021-3156 | Null | https://github.com/leterts/CVE-2021-3156 | | 
+| 20210203T11:27:52Z | CVE-2021-3156 | Null | https://github.com/leterts/CVE-2021-3156 | Sudo before 1.9.5p2 has a Heap-based Buffer Overflow, allowing privilege escalation to root via %sudoedit -s% and a command-line argument that ends with a single backslash character.| 
 | 20210203T10:58:41Z | CVE-2021-3156 | CVE-2021-3156 Vagrant Lab | https://github.com/dinhbaouit/CVE-2021-3156 | Sudo before 1.9.5p2 has a Heap-based Buffer Overflow, allowing privilege escalation to root via %sudoedit -s% and a command-line argument that ends with a single backslash character.| 
-| 20210203T09:38:18Z | cve-2020-17523 | shiro-cve-2020-17523 漏洞分析 | https://github.com/jweny/shiro-cve-2020-17523 | | 
+| 20210203T09:38:18Z | cve-2020-17523 | shiro-cve-2020-17523 漏洞分析 | https://github.com/jweny/shiro-cve-2020-17523 | 未查询到CVE信息| 
 | 20210203T09:04:14Z | CVE-2021-3156 | Null | https://github.com/cdeletre/Serpentiel-CVE-2021-3156 | Sudo before 1.9.5p2 has a Heap-based Buffer Overflow, allowing privilege escalation to root via %sudoedit -s% and a command-line argument that ends with a single backslash character.| 
-| 20210203T09:00:04Z | cve-2021-25646 | Apache Druid 远程代码执行;检测脚本 | https://github.com/yaunsky/cve-2021-25646 | 未查询到CVE信息| 
+| 20210203T09:00:04Z | cve-2021-25646 | Apache Druid 远程代码执行;检测脚本 | https://github.com/yaunsky/cve-2021-25646 | | 
 | 20210203T06:53:27Z | CVE-2021-25646 | Null | https://github.com/lp008/CVE-2021-25646 | Apache Druid includes the ability to execute user-provided JavaScript code embedded in various types of requests. This functionality is intended for use in high-trust environments, and is disabled by default. However, in Druid 0.20.0 and earlier, it is possible for an authenticated user to send a specially-crafted request that forces Druid to run user-provided JavaScript code for that request, regardless of server configuration. This can be leveraged to execute code on the target machine with the privileges of the Druid server process.| 
 | 20210203T06:15:15Z | CVE-2020-27194 | my exp for CVE-2020-27194, tested on linux kernel 5.8.14. | https://github.com/xmzyshypnc/CVE-2020-27194 | An issue was discovered in the Linux kernel before 5.8.15. scalar32_min_max_or in kernel/bpf/verifier.c mishandles bounds tracking during use of 64-bit values, aka CID-5b9fbeb75b6a.| 
-| 20210203T06:01:40Z | CVE-2020-1938 | Modified version of auxiliary/admin/http/tomcat_ghostcat, it can  Read any file | https://github.com/YU5Z8X2CvH1fv4ep/CVE-2020-1938-MSF-MODULE | When using the Apache JServ Protocol (AJP), care must be taken when trusting incoming connections to Apache Tomcat. Tomcat treats AJP connections as having higher trust than, for example, a similar HTTP connection. If such connections are available to an attacker, they can be exploited in ways that may be surprising. In Apache Tomcat 9.0.0.M1 to 9.0.0.30, 8.5.0 to 8.5.50 and 7.0.0 to 7.0.99, Tomcat shipped with an AJP Connector enabled by default that listened on all configured IP addresses. It was expected (and recommended in the security guide) that this Connector would be disabled if not required. This vulnerability report identified a mechanism that allowed: - returning arbitrary files from anywhere in the web application - processing any file in the web application as a JSP Further, if the web application allowed file upload and stored those files within the web application (or the attacker was able to control the content of the web application by some other means) then this, along with the ability to process a file as a JSP, made remote code execution possible. It is important to note that mitigation is only required if an AJP port is accessible to untrusted users. Users wishing to take a defence-in-depth approach and block the vector that permits returning arbitrary files and execution as JSP may upgrade to Apache Tomcat 9.0.31, 8.5.51 or 7.0.100 or later. A number of changes were made to the default AJP Connector configuration in 9.0.31 to harden the default configuration. It is likely that users upgrading to 9.0.31, 8.5.51 or 7.0.100 or later will need to make small changes to their configurations.| 
+| 20210203T06:01:40Z | CVE-2020-1938 | Modified version of auxiliary/admin/http/tomcat_ghostcat, it can  Read any file | https://github.com/YU5Z8X2CvH1fv4ep/CVE-2020-1938-MSF-MODULE | | 
 
 
 # klee on Github 推荐
@@ -57,10 +57,10 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210203T13:25:04Z | PatrowlHears - Vulnerability Intelligence Center / Exploits | https://github.com/Patrowl/PatrowlHears | 42 | 8| 
 | 20210203T13:14:48Z | Null | https://github.com/r4j0x00/exploits | 354 | 88| 
 | 20210203T13:10:12Z | Exploiter is a ripoff for metasploit but have all vulnerbility on exploit-db | https://github.com/Parrot12345-HTB/Exploiter | 0 | 0| 
 | 20210203T13:02:51Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 7 | 3| 
-| 20210203T12:56:11Z | PatrowlHears - Vulnerability Intelligence Center / Exploits | https://github.com/Patrowl/PatrowlHears | 41 | 8| 
 | 20210203T12:49:57Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 7 | 4| 
 | 20210203T12:43:43Z | Launcher base for your gtav mod menu/exploit/cheat/hack. Version 2.0 (Different Layout) | https://github.com/0xFXDE/DemoZeroUIV2 | 0 | 0| 
 | 20210203T12:06:23Z | A newly developed minecraft cheat as of 02/2021, tested and made for 2b2t and other anarchy servers, compatible with the most well known servers such as hypixel, signet is a combat and movement based client designed to avoid detection from all anticheats such as watchdogs, GWEN and much more! It also includes a new exploit for boat and ELYTRA fly, as of 02/2021, and will be continuing to be updated regularly on the GitHub repo. | https://github.com/Floppyzee3/SignetMC | 0 | 0| 
@@ -85,7 +85,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210203T13:25:13Z | A curated list on research blending deeplearning and fuzzing | https://github.com/thebabush/awesome-deep-fuzzing | 6 | 1| 
+| 20210203T13:25:37Z | A curated list on research blending deeplearning and fuzzing | https://github.com/thebabush/awesome-deep-fuzzing | 6 | 1| 
 | 20210203T13:02:38Z | final project for CS50 2020 | https://github.com/leztien/fuzzy_matching_project | 0 | 0| 
 | 20210203T11:53:35Z | Program berjudul %Pengelompokan Usia pada Sistem Fuzzy% | https://github.com/arizkinewbie/Contoh-Aturan-Fuzzy | 0 | 0| 
 | 20210203T11:42:24Z | Null | https://github.com/kinzhong/fuzzer-performance-visualiser | 0 | 0| 
