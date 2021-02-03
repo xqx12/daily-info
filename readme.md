@@ -57,6 +57,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210203T13:49:27Z | Just a temporary website to post my ctf writeups and journey into binary exploitation/malware analysis/exploit development | https://github.com/blackbeard666/blackbeard666.github.io | 0 | 0| 
 | 20210203T13:48:18Z | Just a temporary website to post my ctf writeups and journey into binary/android exploitation/malware analysis/exploit development | https://github.com/blackbeard666/pwn_exhibit | 2 | 1| 
 | 20210203T13:45:25Z | Null | https://github.com/r4j0x00/exploits | 354 | 88| 
 | 20210203T13:25:04Z | PatrowlHears - Vulnerability Intelligence Center / Exploits | https://github.com/Patrowl/PatrowlHears | 42 | 8| 
@@ -66,7 +67,6 @@
 | 20210203T12:43:43Z | Launcher base for your gtav mod menu/exploit/cheat/hack. Version 2.0 (Different Layout) | https://github.com/0xFXDE/DemoZeroUIV2 | 0 | 0| 
 | 20210203T12:06:23Z | A newly developed minecraft cheat as of 02/2021, tested and made for 2b2t and other anarchy servers, compatible with the most well known servers such as hypixel, signet is a combat and movement based client designed to avoid detection from all anticheats such as watchdogs, GWEN and much more! It also includes a new exploit for boat and ELYTRA fly, as of 02/2021, and will be continuing to be updated regularly on the GitHub repo. | https://github.com/Floppyzee3/SignetMC | 0 | 0| 
 | 20210203T11:57:07Z | This bash script will help you to hack remote hosts  | https://github.com/FabioDefilippo/linuxallremote | 4 | 1| 
-| 20210203T11:51:54Z | Running this HTML File locally will corrupt the File System and Trigger a Blue Screen after three seconds | https://github.com/websecnl/NTFS-Corruption-and-BSOD-Exploit | 0 | 0| 
 
 
 # backdoor on Github 推荐
