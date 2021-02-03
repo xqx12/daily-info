@@ -14,6 +14,7 @@
 | 20210202 | Apple 发布 macOS Big Sur 11.2 版本，修复大量漏洞 | https://support.apple.com/en-us/HT212147| 
 | 20210202 | 利用 Electron JS 浏览器自动化挖掘 XSS 漏洞 | https://github.com/RenwaX23/XSSTRON| 
 | 20210202 | WebKit 将引入 Private Click Measurement 保护机制，用于防止广告对用户的大规模追踪 | https://webkit.org/blog/11529/introducing-private-click-measurement-pcm/| 
+| 20210202 | 安全预警：利用Android可穿戴扩展通知功能进行自我传播的蠕虫木马分析溯源。 | https://blogs.360.cn/post/Alert_new_Android_malware_spreads_through_WhatsApp.html| 
 
 
 # 安全维基 推荐
@@ -22,16 +23,19 @@
 | 20210202 | 技术分享 , 锦行杯比赛 Writeup | https://mp.weixin.qq.com/s/mYCDsbERsgph5zu-4-lyKQ| 
 | 20210202 | 代码审计 PHP基础（二） | https://www.sec-in.com/article/855| 
 | 20210202 | 九阴真经：iOS黑客攻防秘籍 | /book/71| 
+| 20210202 | 安卓APP抓包之双向认证突破 | https://bbs.pediy.com/thread-265404.htm| 
+| 20210202 | 记一次理财杀猪盘渗透测试案例 | https://mp.weixin.qq.com/s/utqGvCTEFS3hQ_GttWHVNw| 
 
 
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20210202T13:36:42Z | CVE-2021-3156 | Null | https://github.com/blasty/CVE-2021-3156 | Sudo before 1.9.5p2 has a Heap-based Buffer Overflow, allowing privilege escalation to root via %sudoedit -s% and a command-line argument that ends with a single backslash character.| 
-| 20210202T13:02:37Z | CVE-2021-3156 | PoC for CVE-2021-3156 (sudo heap overflow) | https://github.com/stong/CVE-2021-3156 | | 
+| 20210202T22:57:08Z | CVE-2021-3156 | PoC for CVE-2021-3156 (sudo heap overflow) | https://github.com/stong/CVE-2021-3156 | Sudo before 1.9.5p2 has a Heap-based Buffer Overflow, allowing privilege escalation to root via %sudoedit -s% and a command-line argument that ends with a single backslash character.| 
+| 20210202T22:36:26Z | CVE-2021-3156 | CVE-2021-3156 | https://github.com/reverse-ex/CVE-2021-3156 | Sudo before 1.9.5p2 has a Heap-based Buffer Overflow, allowing privilege escalation to root via %sudoedit -s% and a command-line argument that ends with a single backslash character.| 
+| 20210202T21:21:30Z | CVE-2021-3156 | Notes regarding CVE-2021-3156: Heap-Based Buffer Overflow in Sudo | https://github.com/mbcrump/CVE-2021-3156 | Sudo before 1.9.5p2 has a Heap-based Buffer Overflow, allowing privilege escalation to root via %sudoedit -s% and a command-line argument that ends with a single backslash character.| 
+| 20210202T18:38:02Z | CVE-2021-3395 | Null | https://github.com/jet-pentest/CVE-2021-3395 | A cross-site scripting (XSS) vulnerability in Pryaniki 6.44.3 allows remote authenticated users to upload an arbitrary file. The JavaScript code will execute when someone visits the attachment.| 
 | 20210202T12:48:28Z | CVE-2021-3156 | Null | https://github.com/ltfafei/CVE-2021-3156 | Sudo before 1.9.5p2 has a Heap-based Buffer Overflow, allowing privilege escalation to root via %sudoedit -s% and a command-line argument that ends with a single backslash character.| 
 | 20210202T10:10:15Z | CVE-2021-3156 | 复现别人家的CVEs系列 | https://github.com/Q4n/CVE-2021-3156 | Sudo before 1.9.5p2 has a Heap-based Buffer Overflow, allowing privilege escalation to root via %sudoedit -s% and a command-line argument that ends with a single backslash character.| 
-| 20210202T03:14:16Z | CVE-2021-3156 | CVE-2021-3156 | https://github.com/reverse-ex/CVE-2021-3156 | Sudo before 1.9.5p2 has a Heap-based Buffer Overflow, allowing privilege escalation to root via %sudoedit -s% and a command-line argument that ends with a single backslash character.| 
 
 
 # klee on Github 推荐
@@ -51,16 +55,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210202T13:59:19Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 8963 | 1440| 
-| 20210202T13:49:32Z | PatrowlHears - Vulnerability Intelligence Center / Exploits | https://github.com/Patrowl/PatrowlHears | 26 | 8| 
-| 20210202T13:45:09Z | CTF framework and exploit development library | https://github.com/Gallopsled/pwntools | 7494 | 1347| 
-| 20210202T13:23:55Z | smtp exploit script | https://github.com/M4chin3M4N/SMTPython | 0 | 0| 
-| 20210202T13:15:00Z | Null | https://github.com/EmperorParzival/ExploitScripts | 0 | 0| 
-| 20210202T13:14:58Z | Pentest important small exploitation scripts  | https://github.com/cyberjatin/mynotes | 0 | 0| 
-| 20210202T13:02:33Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 5 | 3| 
-| 20210202T12:49:57Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 7 | 4| 
-| 20210202T11:50:13Z | The detection of irony and sarcasm is one of the most insidious challenges in the field of Natural Language Processing. Over the years, several techniques have been studied to analyze these rhetorical figures, trying to identify the elements that discriminate, in a significant way, what is sarcastic or ironic from what is not. Within this study, some models that are state of the art are analyzed. As far as Machine Learning is concerned, the most discriminating features such as part of speech, pragmatic particles and sentiment are studied. Subsequently, these models are optimized, comparing Bayesian optimization techniques and random search. Once, the best hyperparameters are identified, ensemble methods such as Bayesian Model Averaging (BMA) are exploited. In relation to Deep Learning, two main models are analyzed: DeepMoji, developed by MIT, and a model called Transformer Based, which exploits the generalization power of Roberta Transformer. As soon as these models are compared, the main goal is to identify a new system able to better capture the two rhetorical figures. To this end, two models composed of attention mechanisms are proposed, exploiting the principle of Transfer Learning, using Bert Tweet Model and DeepMoji Model as feature extractors. After identifying the various architectures, an ensemble method is applied on the set of approaches proposed, in order to identify the best combination of algorithms that can achieve satisfactory results. Frameworks used: Pytorch, TF 2.0, Scikit Learn, Scikit-Optimize, Transformers | https://github.com/lorenzofamiglini/Irony-Sarcasm-Detection-Task | 0 | 0| 
-| 20210202T11:39:03Z | The detection of irony and sarcasm is one of the most insidious challenges in the field of Natural Language Processing. Over the years, several techniques have been studied to analyze these rhetorical figures, trying to identify the elements that discriminate, in a significant way, what is sarcastic or ironic from what is not. Within this study, some models that are state of the art are analyzed. As far as Machine Learning is concerned, the most discriminating features such as part of speech, pragmatic particles and sentiment are studied. Subsequently, these models are optimized, comparing Bayesian optimization techniques and random search. Once, the best hyperparameters are identified, ensemble methods such as Bayesian Model Averaging (BMA) are exploited. In relation to Deep Learning, two main models are analyzed: DeepMoji, developed by MIT, and a model called Transformer Based, which exploits the generalization power of Roberta Transformer. As soon as these models are compared, the main goal is to identify a new system able to better capture the two rhetorical figures. To this end, two models composed of attention mechanisms are proposed, exploiting the principle of Transfer Learning, using Bert Tweet Model and DeepMoji Model as feature extractors. After identifying the various architectures, an ensemble method is applied on the set of approaches proposed, in order to identify the best combination of algorithms that can achieve satisfactory results.  | https://github.com/lorenzofamiglini/Irony-Sarcasm-Detection | 0 | 0| 
+| 20210202T23:23:15Z | Running this HTML File locally will corrupt the File System and Trigger a Blue Screen after three seconds | https://github.com/websecnl/NTFS-Corruption-and-BSOD-Exploit | 0 | 0| 
+| 20210202T23:16:32Z | Exploit Development on my road to OSCP | https://github.com/macosta-42/Exploit-Development | 0 | 0| 
+| 20210202T23:08:20Z | The affinity client is an open-source hacked client with many modules, hacks, and exploits. | https://github.com/AffinityClient/AffinityClient | 0 | 0| 
+| 20210202T22:45:10Z | Hacking the art of exploitation | https://github.com/phi12ip/htaoe | 0 | 0| 
+| 20210202T22:44:48Z | Tools for exploiting ARIA standard products | https://github.com/aria-tools/ARIA-tools | 38 | 19| 
+| 20210202T22:26:35Z | smtp exploit script | https://github.com/M4chin3M4N/SMTPython | 0 | 0| 
+| 20210202T21:27:18Z | The detection of irony and sarcasm is one of the most insidious challenges in the field of Natural Language Processing. Over the years, several techniques have been studied to analyze these rhetorical figures, trying to identify the elements that discriminate, in a significant way, what is sarcastic or ironic from what is not. Within this study, some models that are state of the art are analyzed. As far as Machine Learning is concerned, the most discriminating features such as part of speech, pragmatic particles and sentiment are studied. Subsequently, these models are optimized, comparing Bayesian optimization techniques and random search. Once, the best hyperparameters are identified, ensemble methods such as Bayesian Model Averaging (BMA) are exploited. In relation to Deep Learning, two main models are analyzed: DeepMoji, developed by MIT, and a model called Transformer Based, which exploits the generalization power of Roberta Transformer. As soon as these models are compared, the main goal is to identify a new system able to better capture the two rhetorical figures. To this end, two models composed of attention mechanisms are proposed, exploiting the principle of Transfer Learning, using Bert Tweet Model and DeepMoji Model as feature extractors. After identifying the various architectures, an ensemble method is applied on the set of approaches proposed, in order to identify the best combination of algorithms that can achieve satisfactory results. Frameworks used: Pytorch, TF 2.0, Scikit Learn, Scikit-Optimize, Transformers | https://github.com/lorenzofamiglini/Irony-Sarcasm-Detection-Task | 0 | 0| 
+| 20210202T21:26:01Z | CS571 - Web App Vulnerability Discovery & Exploit Development | https://github.com/beyefendi/wavded | 0 | 0| 
+| 20210202T21:24:38Z | Select proof-of-concept exploits for software vulnerabilities to aid in identifying and testing vulnerable systems. | https://github.com/CERTCC/PoC-Exploits | 106 | 25| 
+| 20210202T21:18:37Z | EternalBlue suite remade in C/C++ which includes: MS17-010 Exploit, EternalBlue vulnerability detector, DoublePulsar detector and DoublePulsar Shellcode & DLL uploader | https://github.com/bhassani/EternalBlueC | 304 | 77| 
 
 
 # backdoor on Github 推荐
