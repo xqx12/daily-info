@@ -71,19 +71,29 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210203T02:46:42Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 162 | 23| 
+| 20210203T12:46:18Z | Null | https://github.com/angelo1104/backdoor-server | 0 | 0| 
+| 20210203T12:45:59Z | Null | https://github.com/angelo1104/backdoor-client | 0 | 0| 
+| 20210203T12:32:04Z | This is a python program backdoor embeded with a game for reverse connection from the victim to understand the use visit our youtube channel STRANGE LEARNINGS  | https://github.com/EnriqueStrange/Advanced-Backdoor | 0 | 0| 
+| 20210203T11:12:30Z | Hacking tools pack & backdoors generator. | https://github.com/AdrMXR/KitHack | 336 | 57| 
+| 20210203T10:13:02Z | Null | https://github.com/k0rup710n/Python-Backdoor | 0 | 0| 
+| 20210203T08:19:25Z | TrojanZoo provides a universal pytorch platform to conduct security researches (especially backdoor attacks/defenses) of image classification in deep learning. | https://github.com/ain-soph/trojanzoo | 36 | 8| 
+| 20210203T03:24:54Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 162 | 23| 
 | 20210203T02:06:13Z | Tool to find potential backdoor/security holes in your endpoint | https://github.com/subasgit/backdoorfinder | 1 | 0| 
 
 
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210203T02:40:59Z | Null | https://github.com/Murph9/pythonCodeFuzzing | 0 | 0| 
-| 20210203T01:45:42Z | Automatic SSRF fuzzer and exploitation tool | https://github.com/swisskyrepo/SSRFmap | 1307 | 269| 
-| 20210203T01:44:47Z | FuzzBench - Fuzzer benchmarking as a service. | https://github.com/google/fuzzbench | 591 | 98| 
-| 20210203T00:41:55Z | Fuzzy Logic SciKit (Toolkit for SciPy) | https://github.com/codediaz/fuzzy_logic | 1 | 0| 
-| 20210203T00:25:58Z | A curated list on research blending deeplearning and fuzzing | https://github.com/thebabush/awesome-deep-fuzzing | 2 | 1| 
-| 20210203T00:16:21Z | Template repo for libraries written in go | https://github.com/arhat-dev/template-library-go | 0 | 0| 
+| 20210203T11:53:35Z | Program berjudul %Pengelompokan Usia pada Sistem Fuzzy% | https://github.com/arizkinewbie/Contoh-Aturan-Fuzzy | 0 | 0| 
+| 20210203T11:42:24Z | Null | https://github.com/kinzhong/fuzzer-performance-visualiser | 0 | 0| 
+| 20210203T11:32:13Z | Null | https://github.com/kinzhong/fuzzing-automation-tools | 0 | 0| 
+| 20210203T11:31:58Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 5837 | 1178| 
+| 20210203T10:38:26Z | Null | https://github.com/Tilsonar/Fuzzy-Clustering-Topic-Modeling | 0 | 0| 
+| 20210203T09:54:02Z | A curated list of awesome directed fuzzing research papers | https://github.com/strongcourage/awesome-directed-fuzzing | 71 | 14| 
+| 20210203T09:39:43Z | A fuzzer for SMT solvers | https://github.com/testsmt/yinyang | 74 | 6| 
+| 20210203T09:39:40Z | AI task 2 : creating fuzzy algorithm | https://github.com/dendyandra22/FuzzyAlgorithm | 0 | 0| 
+| 20210203T09:29:15Z | Fuzz test your application using your OpenAPI or Swagger API definition without coding | https://github.com/KissPeter/APIFuzzer | 87 | 30| 
+| 20210203T09:06:38Z | Null | https://github.com/notofir/fuzzy-octo-guide | 0 | 0| 
 
 
 
