@@ -78,6 +78,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210203T01:45:42Z | Automatic SSRF fuzzer and exploitation tool | https://github.com/swisskyrepo/SSRFmap | 1307 | 269| 
 | 20210203T01:34:13Z | Vulnerabilities% Risk of Exploitation | https://github.com/thiagofigcosta/V-REx | 0 | 0| 
 | 20210203T01:17:47Z | Null | https://github.com/cyanewfag/fishExploitLUAZapped | 0 | 0| 
 | 20210203T01:13:17Z | A collection of links related to VMware escape exploits | https://github.com/xairy/vmware-exploitation | 729 | 140| 
@@ -87,7 +88,6 @@
 | 20210203T00:01:24Z | Ronin is a Ruby platform for vulnerability research and exploit development. Ronin allows for the rapid development and distribution of code, Exploits or Payloads, Scanners, etc, via Repositories. | https://github.com/ronin-rb/ronin | 213 | 19| 
 | 20210202T23:23:15Z | Running this HTML File locally will corrupt the File System and Trigger a Blue Screen after three seconds | https://github.com/websecnl/NTFS-Corruption-and-BSOD-Exploit | 0 | 0| 
 | 20210202T23:16:32Z | Exploit Development on my road to OSCP | https://github.com/macosta-42/Exploit-Development | 0 | 0| 
-| 20210202T23:08:20Z | The affinity client is an open-source hacked client with many modules, hacks, and exploits. | https://github.com/AffinityClient/AffinityClient | 0 | 0| 
 
 
 # backdoor on Github 推荐
