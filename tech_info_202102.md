@@ -46,7 +46,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20210204T00:58:24Z | CVE-2021-3156 | Null | https://github.com/blasty/CVE-2021-3156 | Sudo before 1.9.5p2 has a Heap-based Buffer Overflow, allowing privilege escalation to root via %sudoedit -s% and a command-line argument that ends with a single backslash character.| 
+| 20210204T01:01:21Z | CVE-2021-3156 | Null | https://github.com/blasty/CVE-2021-3156 | Sudo before 1.9.5p2 has a Heap-based Buffer Overflow, allowing privilege escalation to root via %sudoedit -s% and a command-line argument that ends with a single backslash character.| 
 | 20210204T00:20:03Z | cve-2020-17523 | shiro-cve-2020-17523 漏洞分析 | https://github.com/jweny/shiro-cve-2020-17523 | 未查询到CVE信息| 
 | 20210203T23:30:21Z | CVE-2021-3156 | Root shell PoC for CVE-2021-3156 | https://github.com/CptGibbon/CVE-2021-3156 | Sudo before 1.9.5p2 has a Heap-based Buffer Overflow, allowing privilege escalation to root via %sudoedit -s% and a command-line argument that ends with a single backslash character.| 
 | 20210203T14:19:22Z | CVE-2021-3156 | Null | https://github.com/leterts/CVE-2021-3156 | Sudo before 1.9.5p2 has a Heap-based Buffer Overflow, allowing privilege escalation to root via %sudoedit -s% and a command-line argument that ends with a single backslash character.| 
@@ -82,6 +82,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210204T01:02:45Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 7 | 3| 
 | 20210204T00:49:57Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 7 | 4| 
 | 20210204T00:48:12Z | Codebase for paper %N-Bref  A High-fidelity Decompiler Exploiting Programming Structures% | https://github.com/facebookresearch/nbref | 87 | 5| 
 | 20210204T00:43:37Z | Discord Vanity Exploit Legit - Working 2021 - Only works on discord or roblox - Extra Scripted by @Crossieto#9999 - Bonus: Rezizt. Thank You!  ⚠️THIS IS FOR EDUCATIONAL PURPOSES ONLY! DON%T GO TERRORISING PEOPLE%S SERVERS!⚠️    ⚠️ Copyright Disclaimer Under Section 107 of the Copyright Act 1976, allowance is made for %fair use% for purposes such as criticism, comment, news reporting, teaching, scholarship, and research. Fair use is a use permitted by copyright statute that might otherwise be infringing. Non-profit, educational or personal use tips the balance in favor of fair use.  This product is meant for educational purposes only. Any resemblance to real persons, living or dead is purely coincidental. This is work in progress and subject to change. Void where prohibited. Some assembly required. | https://github.com/Crossieto/Vanity-Exploit-5.6 | 1 | 0| 
@@ -90,7 +91,6 @@
 | 20210204T00:25:00Z | Escalate as Administrator bypassing the UAC affecting administrator accounts only. | https://github.com/0xyg3n/UAC_Exploit | 5 | 2| 
 | 20210204T00:15:41Z | PoCs for public CVE%s I have been working on. | https://github.com/lockedbyte/CVE-Exploits | 402 | 88| 
 | 20210204T00:11:32Z | Null | https://github.com/loRes228/PasteExploit | 0 | 0| 
-| 20210204T00:02:44Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 7 | 3| 
 | 20210203T23:47:27Z | A repository containing code from Hacking: Art of Exploitation to understand overflow vulnerabilities. | https://github.com/nightfuryninja/overflows | 0 | 0| 
 
 
