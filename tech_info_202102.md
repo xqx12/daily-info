@@ -112,6 +112,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210204T02:03:43Z | Scalable fuzzing infrastructure. | https://github.com/google/clusterfuzz | 4427 | 411| 
 | 20210204T01:56:29Z | Null | https://github.com/felix-starman/fuzzy_commander | 0 | 0| 
 | 20210204T01:52:09Z | Null | https://github.com/cpuu/fuzzing_examples | 0 | 0| 
 | 20210204T00:49:21Z | The Official Fuzzy Britches Repository. | https://github.com/ThePapaw/fuzzybritches | 0 | 0| 
@@ -121,7 +122,6 @@
 | 20210203T23:19:00Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 5837 | 1178| 
 | 20210203T22:52:51Z | Generate code for json encoders/decoders, codecs, fuzzers, generators, and more | https://github.com/MartinSStewart/elm-review-todo-it-for-me | 0 | 0| 
 | 20210203T22:39:30Z | RESTler is the first stateful REST API fuzzing tool for automatically testing cloud services through their REST APIs and finding security and reliability bugs in these services. | https://github.com/microsoft/restler-fuzzer | 653 | 61| 
-| 20210203T22:24:15Z | Fuzzy diagnosis of oil-related thermal failure in power transformers | https://github.com/dromero1/fuzzy-diagnosis-thermal-failure | 0 | 0| 
 
 
 
