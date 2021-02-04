@@ -6,6 +6,17 @@
 # 玄武实验室 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20210204 | GitHub Security Lab 已披露的漏洞公告列表 | https://securitylab.github.com/advisories/| 
+| 20210204 | Realtek RTL8195A Wi-Fi 模块被发现多个高危漏洞 | https://www.vdoo.com/blog/realtek-rtl8195a-vulnerabilities-discovered/| 
+| 20210204 | Facebook Messenger Desktop App Arbitrary File Read | https://medium.com/@renwa/facebook-messenger-desktop-app-arbitrary-file-read-db2374550f6d| 
+| 20210204 | Endpoint Detection and Response: How Hackers Have Evolved | https://www.optiv.com/explore-optiv-insights/source-zero/endpoint-detection-and-response-how-hackers-have-evolved| 
+| 20210204 | How I was able to Turn a XSS into a Account Takeover | https://pullerjsecu.medium.com/how-i-was-able-to-turn-a-xss-into-a-account-takeover-ae0c478640e7| 
+| 20210204 | ScareCrow - 自动化生成 EDR 软件 Bypass Payload 的工具 | https://github.com/optiv/ScareCrow| 
+| 20210204 | VDSO As A Potential KASLR Oracle | https://www.longterm.io/vdso_sidechannel.html| 
+| 20210204 | 通过复制智能卡欺骗 Nespresso 咖啡机 | http://pollevanhoof.be/nuggets/smart_cards/nespresso| 
+| 20210204 | Security Scorecards - 开源组件安全健康度衡量工具 | https://github.com/ossf/scorecard| 
+| 20210204 | Google 计划从构建精确漏洞库、开源组件依赖分析、高危漏洞通知预警等角度推动建立开源组件的安全生态 | https://sec.today/pulses/ffc52689-445f-4585-a35c-59bd55067be3/| 
+| 20210204 | Google 计划从构建精确漏洞库、开源组件依赖分析、高危漏洞通知预警等角度推动建立开源组件的安全生态 | https://security.googleblog.com/2021/02/know-prevent-fix-framework-for-shifting.html?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+GoogleOnlineSecurityBlog+%28Google+Online+Security+Blog%29| 
 | 20210203 | 研究员 pwn0rz 公开了一个影响 macOS Fairplay 的越界读漏洞的 PoC（CVE-2021-1791） | https://gist.github.com/pwn0rz/e34ab9f6e46956621a9d4f98cf222320| 
 | 20210203 | Spoofing and Attacking With Skype | https://blog.thecybersecuritytutor.com/spoofing-and-attacking-with-skype/| 
 | 20210203 | 利用开源工具 Falco 实现对 MITRE ATT&CK 的检测 | https://sysdig.com/blog/mitre-defense-evasion-falco/| 
@@ -15,22 +26,12 @@
 | 20210203 | Project Zero Maddie Stone 对 2020 年野外漏洞利用情况的综述 | https://github.com/maddiestone/ConPresentations/blob/master/Enigma2021.StateOf0day.pdf| 
 | 20210203 | NCC Group 2020 年度研究报告，可以看到多个不同方向的研究成果 | https://research.nccgroup.com/2021/01/31/2020-annual-research-report/amp/| 
 | 20210203 | 容器与云的碰撞——一次对MinIO的测试 | https://www.leavesongs.com/PENETRATION/the-collision-of-containers-and-the-cloud-pentesting-a-MinIO.html| 
-| 20210203 | Android 发布 2 月份漏洞补丁公告，修复 5 个高危漏洞 | https://threatpost.com/five-critical-bugs-patched-feb-security-bulletin/163623/| 
-| 20210202 | Exploiting insecure WebSocket Communication | https://gupta-bless.medium.com/exploiting-insecure-websocket-communication-90554f5e43fe| 
-| 20210202 | PortSwigger 发起的 2020 年的 Top 10 web hacking techniques 投票 | https://portswigger.net/polls/top-10-web-hacking-techniques-2020| 
-| 20210202 | The Art Of Mac Malware: Analysis | https://taomm.org/vol1/analysis.html| 
-| 20210202 | 如何自己编译 macOS 11.2 (Intel + Apple Silicon) 版本的 XNU 内核 | https://kernelshaman.blogspot.com/2021/02/building-xnu-for-macos-112-intel-apple.html| 
-| 20210202 | BurpSuiteSharpener - BurpSuite 插件，用于提供多个易用性功能 | https://github.com/mdsecresearch/BurpSuiteSharpener| 
-| 20210202 | Apple 发布 macOS Big Sur 11.2 版本，修复大量漏洞 | https://support.apple.com/en-us/HT212147| 
-| 20210202 | 利用 Electron JS 浏览器自动化挖掘 XSS 漏洞 | https://github.com/RenwaX23/XSSTRON| 
-| 20210202 | WebKit 将引入 Private Click Measurement 保护机制，用于防止广告对用户的大规模追踪 | https://webkit.org/blog/11529/introducing-private-click-measurement-pcm/| 
-| 20210202 | 安全预警：利用Android可穿戴扩展通知功能进行自我传播的蠕虫木马分析溯源。 | https://blogs.360.cn/post/Alert_new_Android_malware_spreads_through_WhatsApp.html| 
-| 20210201 | 安恒对黑客利用 VS 工程渗透安全研究员事件的分析 | https://ti.dbappsecurity.com.cn/blog/index.php/2021/01/26/lazarus-new-campaign/| 
 
 
 # 安全维基 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20210204 | 2021HWS冬令营线上赛固件安全-WriteUp | https://mp.weixin.qq.com/s/fwbFMHuVdX-FNa7dB5mw0Q| 
 | 20210203 | Metasploit 的 payload 特征 | https://mp.weixin.qq.com/s/C8jHikFag_CulJIcq0filg| 
 | 20210203 | 安卓Native层共享库fuzzing技术思路及实践 | https://mp.weixin.qq.com/s/eqYj385SGCUo5errVx2CZg| 
 | 20210202 | 技术分享 , 锦行杯比赛 Writeup | https://mp.weixin.qq.com/s/mYCDsbERsgph5zu-4-lyKQ| 
@@ -40,37 +41,36 @@
 | 20210202 | 记一次理财杀猪盘渗透测试案例 | https://mp.weixin.qq.com/s/utqGvCTEFS3hQ_GttWHVNw| 
 | 20210201 | 代码审计 PHP基础（一） | https://www.sec-in.com/article/848| 
 | 20210201 | 浅谈溯源思维 | https://www.anquanke.com/post/id/229474| 
-| 20210201 | 2020网络金融黑产研究报告 | https://mp.weixin.qq.com/s/B_pREKw4SJQjpbVbQLl33w| 
 
 
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20210204T02:24:21Z | CVE-2021-3156 | Null | https://github.com/blasty/CVE-2021-3156 | Sudo before 1.9.5p2 has a Heap-based Buffer Overflow, allowing privilege escalation to root via %sudoedit -s% and a command-line argument that ends with a single backslash character.| 
+| 20210204T12:51:06Z | CVE-2021-25646 | CSharp CVE-2021-25646-GUI | https://github.com/AirEvan/CVE-2021-25646-GUI | Apache Druid includes the ability to execute user-provided JavaScript code embedded in various types of requests. This functionality is intended for use in high-trust environments, and is disabled by default. However, in Druid 0.20.0 and earlier, it is possible for an authenticated user to send a specially-crafted request that forces Druid to run user-provided JavaScript code for that request, regardless of server configuration. This can be leveraged to execute code on the target machine with the privileges of the Druid server process.| 
+| 20210204T12:37:44Z | CVE-2021-3156 | Null | https://github.com/blasty/CVE-2021-3156 | Sudo before 1.9.5p2 has a Heap-based Buffer Overflow, allowing privilege escalation to root via %sudoedit -s% and a command-line argument that ends with a single backslash character.| 
+| 20210204T07:51:56Z | CVE-2021-3156 | CVE-2021-3156 Vagrant Lab | https://github.com/dinhbaouit/CVE-2021-3156 | Sudo before 1.9.5p2 has a Heap-based Buffer Overflow, allowing privilege escalation to root via %sudoedit -s% and a command-line argument that ends with a single backslash character.| 
+| 20210204T07:47:48Z | cve-2021-25646 | Apache Druid 远程代码执行;检测脚本 | https://github.com/yaunsky/cve-2021-25646 | 未查询到CVE信息| 
+| 20210204T06:16:27Z | CVE-2021-3156 | Null | https://github.com/leterts/CVE-2021-3156-sudo-raising | Sudo before 1.9.5p2 has a Heap-based Buffer Overflow, allowing privilege escalation to root via %sudoedit -s% and a command-line argument that ends with a single backslash character.| 
+| 20210204T04:58:45Z | CVE-2020-25213 | Null | https://github.com/forse01/CVE-2020-25213-Wordpress | | 
 | 20210204T02:20:26Z | cve-2020-17523 | shiro-cve-2020-17523 漏洞分析 | https://github.com/jweny/shiro-cve-2020-17523 | 未查询到CVE信息| 
-| 20210204T01:40:47Z | cve-2021-25646 | Apache Druid 远程代码执行;检测脚本 | https://github.com/yaunsky/cve-2021-25646 | 未查询到CVE信息| 
 | 20210204T01:40:33Z | CVE-2021-25646 | Null | https://github.com/lp008/CVE-2021-25646 | Apache Druid includes the ability to execute user-provided JavaScript code embedded in various types of requests. This functionality is intended for use in high-trust environments, and is disabled by default. However, in Druid 0.20.0 and earlier, it is possible for an authenticated user to send a specially-crafted request that forces Druid to run user-provided JavaScript code for that request, regardless of server configuration. This can be leveraged to execute code on the target machine with the privileges of the Druid server process.| 
 | 20210203T23:30:21Z | CVE-2021-3156 | Root shell PoC for CVE-2021-3156 | https://github.com/CptGibbon/CVE-2021-3156 | Sudo before 1.9.5p2 has a Heap-based Buffer Overflow, allowing privilege escalation to root via %sudoedit -s% and a command-line argument that ends with a single backslash character.| 
 | 20210203T14:19:22Z | CVE-2021-3156 | Null | https://github.com/leterts/CVE-2021-3156 | Sudo before 1.9.5p2 has a Heap-based Buffer Overflow, allowing privilege escalation to root via %sudoedit -s% and a command-line argument that ends with a single backslash character.| 
-| 20210203T12:53:53Z | CVE-2021-3345 | Null | https://github.com/MLGRadish/CVE-2021-3345 | _gcry_md_block_write in cipher/hash-common.c in Libgcrypt version 1.9.0 has a heap-based buffer overflow when the digest final function sets a large count value. It is recommended to upgrade to 1.9.1 or later.| 
-| 20210203T10:58:41Z | CVE-2021-3156 | CVE-2021-3156 Vagrant Lab | https://github.com/dinhbaouit/CVE-2021-3156 | Sudo before 1.9.5p2 has a Heap-based Buffer Overflow, allowing privilege escalation to root via %sudoedit -s% and a command-line argument that ends with a single backslash character.| 
-| 20210203T09:04:14Z | CVE-2021-3156 | Null | https://github.com/cdeletre/Serpentiel-CVE-2021-3156 | Sudo before 1.9.5p2 has a Heap-based Buffer Overflow, allowing privilege escalation to root via %sudoedit -s% and a command-line argument that ends with a single backslash character.| 
-| 20210203T06:15:15Z | CVE-2020-27194 | my exp for CVE-2020-27194, tested on linux kernel 5.8.14. | https://github.com/xmzyshypnc/CVE-2020-27194 | An issue was discovered in the Linux kernel before 5.8.15. scalar32_min_max_or in kernel/bpf/verifier.c mishandles bounds tracking during use of 64-bit values, aka CID-5b9fbeb75b6a.| 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210204T02:36:20Z | Null | https://github.com/jiseongg/klee_experiment | 0 | 0| 
+| 20210204T12:01:52Z | The compiler inputs a PDDL benchmark of the Carpark planning problem and converts it to an equivalent C code which is used for solving the planning problem by program verification tools such as KLEE/TracerX. | https://github.com/daneshvar-amrollahi/Carpark-PDDL2C | 0 | 0| 
+| 20210204T10:20:24Z | An open-source Chinese font derived from Fontworks% Klee One | https://github.com/lxgw/LxgwWenKai | 12 | 0| 
+| 20210204T09:38:04Z | RVT is a collection of tools/libraries to support both static and dynamic verification of Rust programs. | https://github.com/project-oak/rust-verification-tools | 107 | 6| 
+| 20210204T07:05:33Z | Null | https://github.com/jiseongg/klee_experiment | 0 | 0| 
+| 20210204T05:27:59Z | Null | https://github.com/fontworks-fonts/Klee | 351 | 9| 
 | 20210204T01:41:25Z | hw3-klee8880 created by GitHub Classroom | https://github.com/depaulcdm/hw3-klee8880 | 0 | 0| 
-| 20210203T23:57:42Z | An open-source Chinese font derived from Fontworks% Klee One | https://github.com/lxgw/LxgwWenKai | 6 | 0| 
-| 20210203T18:23:13Z | The compiler inputs a PDDL benchmark of the Carpark planning problem and converts it to an equivalent C code which is used for solving the planning problem by program verification tools such as KLEE/TracerX. | https://github.com/daneshvar-amrollahi/Carpark-PDDL2C | 0 | 0| 
 | 20210203T17:05:50Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1622 | 482| 
 | 20210203T16:03:55Z | A personnal UI library made as an excuse to have a published UI package | https://github.com/Liinkiing/klee | 5 | 1| 
-| 20210203T13:52:48Z | Null | https://github.com/fontworks-fonts/Klee | 350 | 9| 
 | 20210203T11:34:32Z | Null | https://github.com/alsoknownaszac/kleekit | 0 | 0| 
 | 20210203T11:08:33Z | Symbiotic is a tool for finding bugs in computer programs based on instrumentation, program slicing and KLEE | https://github.com/staticafi/symbiotic | 212 | 34| 
-| 20210202T11:53:01Z | Null | https://github.com/alsoknownaszac/Kleekit-Webpage | 0 | 0| 
 
 
 # s2e on Github 推荐
@@ -82,46 +82,46 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210204T02:58:37Z | Simple Discord bot that detects and bans users who utilize a fake mute/deafen exploit | https://github.com/Caeden117/VCMuteExploitDetectionBot | 0 | 0| 
-| 20210204T02:57:18Z | Escalate as Administrator bypassing the UAC affecting administrator accounts only. | https://github.com/0xyg3n/UAC_Exploit | 12 | 4| 
-| 20210204T02:45:26Z | Explorations and exploitations of the UWP platform | https://github.com/alexpisquared/UWP | 0 | 0| 
-| 20210204T02:42:02Z | OWASP Benchmark is a test suite designed to verify the speed and accuracy of software vulnerability detection tools. A fully runnable web app written in Java, it supports analysis by Static (SAST), Dynamic (DAST), and Runtime (IAST) tools that support Java. The idea is that since it is fully runnable and all the vulnerabilities are actually exploitable, it’s a fair test for any kind of vulnerability detection tool.  For more details on this project, please see the OWASP Benchmark Project home page. | https://github.com/OWASP/Benchmark | 334 | 228| 
-| 20210204T02:19:54Z | This is my version of %Settlers of Catan%. The game is ostensibly complete with the exception of slow repainting when the robber is moved. Other than that, the game is functionally finished. The game plays best on a screen 1920x1080 as that enables status screens to be visible if 3-4 players are playing. A shortcut key has been implemented for cancellation of actions. Hold ALT_C when the Catan Board has focus, and this will enable an OptionPane to appear that allows for cancellation. And as for game additions I wanted to talk about, I have implemented a class system to the game that makes it more difficult (it is optional; choose the settler class if you want the standard game) as well as optional cataclysm events that can affect player resources at a 5% chance. As well, ports are optional as I%ve heard some people say they are too exploitable. Again, these three things are optional. And finally, all the image files used in this game are not my own. They are all sourced from Google Images (non-copyrighted, as far as I can tell). I will continue to work on the slow repaint issue in the future, but I will put this project down for a little while. (For whatever reason, I can%t put new lines in the description because of arbitrary code rules, so this jumbled mess of words is what I must put). | https://github.com/GitCaseyHub/SettlersOfCatan | 0 | 0| 
-| 20210204T02:02:44Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 7 | 3| 
-| 20210204T01:44:22Z | exploit scripts for overthewire wargames | https://github.com/95ych/overthewire | 0 | 0| 
-| 20210204T01:17:14Z | PoCs for public CVE%s I have been working on. | https://github.com/lockedbyte/CVE-Exploits | 403 | 88| 
-| 20210204T00:49:57Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 7 | 4| 
-| 20210204T00:48:12Z | Codebase for paper %N-Bref  A High-fidelity Decompiler Exploiting Programming Structures% | https://github.com/facebookresearch/nbref | 87 | 5| 
+| 20210204T12:58:49Z | Multi camera gathering and exploiting tool | https://github.com/M0tHs3C/Argo | 21 | 12| 
+| 20210204T12:28:44Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 8968 | 1440| 
+| 20210204T12:27:58Z | Escalate as Administrator bypassing the UAC affecting administrator accounts only. | https://github.com/0xyg3n/UAC_Exploit | 36 | 8| 
+| 20210204T12:23:56Z | Null | https://github.com/SeungYup26/SyExploit | 0 | 0| 
+| 20210204T12:10:01Z | Null | https://github.com/yohanes/exploit_mt6873 | 1 | 0| 
+| 20210204T12:04:45Z | Vulnerabilities% Risk of Exploitation | https://github.com/thiagofigcosta/V-REx | 0 | 0| 
+| 20210204T12:03:10Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 7 | 3| 
+| 20210204T11:47:03Z | every roblox exploit/script made by me | https://github.com/itsrucky/exploits | 0 | 0| 
+| 20210204T11:02:34Z | Exploit written during OSCE Preparation | https://github.com/aida-mynzhasova/Exploits | 0 | 0| 
+| 20210204T10:55:44Z | Practical S6 activity during the Geology & Planetary Mapping Winter School Program: Exploiting spectral data to generate compositional indexes. | https://github.com/mariodamore/spectral_indexes_generation | 0 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210204T11:57:27Z | FUD cross-platform python2 backdoor with C2 | https://github.com/7h3w4lk3r/pyback | 15 | 5| 
+| 20210204T10:51:10Z | Null | https://github.com/rabbitx1337/backdoor | 0 | 0| 
+| 20210204T10:47:01Z | STILL WORK IN PROGRESS | https://github.com/MatthewHardcastle/-WIP-Backdoor | 0 | 0| 
+| 20210204T08:24:13Z | TrojanZoo provides a universal pytorch platform to conduct security researches (especially backdoor attacks/defenses) of image classification in deep learning. | https://github.com/ain-soph/trojanzoo | 38 | 8| 
+| 20210204T08:12:09Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 163 | 23| 
 | 20210204T02:06:06Z | Tool to find potential backdoor/security holes in your endpoint | https://github.com/subasgit/backdoorfinder | 1 | 0| 
 | 20210204T01:03:43Z | Hacking tools pack & backdoors generator. | https://github.com/AdrMXR/KitHack | 336 | 57| 
-| 20210203T20:53:17Z | TrojanZoo provides a universal pytorch platform to conduct security researches (especially backdoor attacks/defenses) of image classification in deep learning. | https://github.com/ain-soph/trojanzoo | 36 | 8| 
 | 20210203T20:01:28Z | %Socialx% is a Social Engineering And Remote Access Trojan Tool. You can generate fud backdoor and you can embed any file you want inside of the exe file. | https://github.com/AzizKpln/Social_X | 47 | 16| 
 | 20210203T13:10:07Z | Null | https://github.com/angelo1104/backdoor-client | 0 | 0| 
 | 20210203T12:46:18Z | Null | https://github.com/angelo1104/backdoor-server | 0 | 0| 
-| 20210203T12:32:04Z | This is a python program backdoor embeded with a game for reverse connection from the victim to understand the use visit our youtube channel STRANGE LEARNINGS  | https://github.com/EnriqueStrange/Advanced-Backdoor | 0 | 0| 
-| 20210203T10:13:02Z | Null | https://github.com/k0rup710n/Python-Backdoor | 0 | 0| 
-| 20210203T03:24:54Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 162 | 23| 
-| 20210202T18:22:58Z | Null | https://github.com/Wiilldd/backdoor | 0 | 0| 
 
 
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210204T02:03:43Z | Scalable fuzzing infrastructure. | https://github.com/google/clusterfuzz | 4427 | 411| 
-| 20210204T01:56:29Z | Null | https://github.com/felix-starman/fuzzy_commander | 0 | 0| 
-| 20210204T01:52:09Z | Null | https://github.com/cpuu/fuzzing_examples | 0 | 0| 
-| 20210204T00:49:21Z | The Official Fuzzy Britches Repository. | https://github.com/ThePapaw/fuzzybritches | 0 | 0| 
-| 20210204T00:03:58Z | Rockyou for web fuzzing | https://github.com/six2dez/OneListForAll | 178 | 32| 
-| 20210203T23:34:18Z | Open Enclave specific security automation projects (CodeQL static analysis, Fuzzing and binary analysis). | https://github.com/openenclave/openenclave-security | 0 | 1| 
-| 20210203T23:32:59Z | FuzzBench - Fuzzer benchmarking as a service. | https://github.com/google/fuzzbench | 592 | 98| 
-| 20210203T23:19:00Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 5837 | 1178| 
-| 20210203T22:52:51Z | Generate code for json encoders/decoders, codecs, fuzzers, generators, and more | https://github.com/MartinSStewart/elm-review-todo-it-for-me | 0 | 0| 
-| 20210203T22:39:30Z | RESTler is the first stateful REST API fuzzing tool for automatically testing cloud services through their REST APIs and finding security and reliability bugs in these services. | https://github.com/microsoft/restler-fuzzer | 653 | 61| 
+| 20210204T12:34:34Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2261 | 117| 
+| 20210204T12:28:47Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 3332 | 770| 
+| 20210204T11:51:40Z | Scripts written by me, which might be useful later -> Devops work | https://github.com/Cy83rr/fuzzy-memory | 0 | 0| 
+| 20210204T11:36:19Z | Null | https://github.com/ivicanikolicsg/SivoFuzzer | 0 | 0| 
+| 20210204T11:20:02Z | Null | https://github.com/ArijZouaoui/Credit-Scoring-using-Fuzzy-Logic | 0 | 0| 
+| 20210204T11:10:34Z | Null | https://github.com/stuartelimu/fuzzy-octo-carnival | 0 | 0| 
+| 20210204T11:06:37Z | A fork of AFL for fuzzing Windows binaries | https://github.com/googleprojectzero/winafl | 1601 | 416| 
+| 20210204T10:37:50Z | Null | https://github.com/7evy/Fuzzy_Queries | 0 | 0| 
+| 20210204T10:34:40Z | Null | https://github.com/jtomes123/fuzzy_car_unity | 0 | 0| 
+| 20210204T10:30:51Z | Null | https://github.com/feixiangdejiahao/Fuzzing-Testing-of-JVM-Implementations | 0 | 0| 
 
 
 
