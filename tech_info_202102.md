@@ -46,7 +46,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20210204T13:35:06Z | CVE-2021-3156 | Root shell PoC for CVE-2021-3156 | https://github.com/CptGibbon/CVE-2021-3156 | | 
+| 20210204T13:35:06Z | CVE-2021-3156 | Root shell PoC for CVE-2021-3156 | https://github.com/CptGibbon/CVE-2021-3156 | Sudo before 1.9.5p2 has a Heap-based Buffer Overflow, allowing privilege escalation to root via %sudoedit -s% and a command-line argument that ends with a single backslash character.| 
 | 20210204T13:20:48Z | CVE-2021-3156 | Null | https://github.com/blasty/CVE-2021-3156 | Sudo before 1.9.5p2 has a Heap-based Buffer Overflow, allowing privilege escalation to root via %sudoedit -s% and a command-line argument that ends with a single backslash character.| 
 | 20210204T13:05:02Z | CVE-2021-25646 | CSharp CVE-2021-25646-GUI | https://github.com/AirEvan/CVE-2021-25646-GUI | Apache Druid includes the ability to execute user-provided JavaScript code embedded in various types of requests. This functionality is intended for use in high-trust environments, and is disabled by default. However, in Druid 0.20.0 and earlier, it is possible for an authenticated user to send a specially-crafted request that forces Druid to run user-provided JavaScript code for that request, regardless of server configuration. This can be leveraged to execute code on the target machine with the privileges of the Druid server process.| 
 | 20210204T07:51:56Z | CVE-2021-3156 | CVE-2021-3156 Vagrant Lab | https://github.com/dinhbaouit/CVE-2021-3156 | Sudo before 1.9.5p2 has a Heap-based Buffer Overflow, allowing privilege escalation to root via %sudoedit -s% and a command-line argument that ends with a single backslash character.| 
@@ -82,8 +82,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210204T13:45:08Z | iOS, ARM, Research funded by the XSS.Cx Anti-Phishing Team | https://github.com/xsscx/ios-arm-research | 2 | 1| 
 | 20210204T13:41:13Z | Escalate as Administrator bypassing the UAC affecting administrator accounts only. | https://github.com/0xyg3n/UAC_Exploit | 38 | 9| 
-| 20210204T13:35:54Z | iOS, ARM, Research funded by the XSS.Cx Anti-Phishing Team | https://github.com/xsscx/ios-arm-research | 2 | 1| 
 | 20210204T13:28:16Z | Null | https://github.com/voxtechX/CyExploit | 0 | 0| 
 | 20210204T13:25:51Z | 📈 A visualization of MetricQ data exploiting the advanctages of the HTA db backend  | https://github.com/metricq/metricq-webview | 0 | 1| 
 | 20210204T13:02:44Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 7 | 3| 
@@ -97,7 +97,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210204T11:57:27Z | FUD cross-platform python2 backdoor with C2 | https://github.com/7h3w4lk3r/pyback | 15 | 5| 
+| 20210204T13:45:21Z | FUD cross-platform python2 backdoor with C2 | https://github.com/7h3w4lk3r/pyback | 15 | 5| 
 | 20210204T10:51:10Z | Null | https://github.com/rabbitx1337/backdoor | 0 | 0| 
 | 20210204T10:47:01Z | STILL WORK IN PROGRESS | https://github.com/MatthewHardcastle/-WIP-Backdoor | 0 | 0| 
 | 20210204T08:24:13Z | TrojanZoo provides a universal pytorch platform to conduct security researches (especially backdoor attacks/defenses) of image classification in deep learning. | https://github.com/ain-soph/trojanzoo | 38 | 8| 
