@@ -31,6 +31,8 @@
 # 安全维基 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20210203 | Metasploit 的 payload 特征 | https://mp.weixin.qq.com/s/C8jHikFag_CulJIcq0filg| 
+| 20210203 | 安卓Native层共享库fuzzing技术思路及实践 | https://mp.weixin.qq.com/s/eqYj385SGCUo5errVx2CZg| 
 | 20210202 | 技术分享 , 锦行杯比赛 Writeup | https://mp.weixin.qq.com/s/mYCDsbERsgph5zu-4-lyKQ| 
 | 20210202 | 代码审计 PHP基础（二） | https://www.sec-in.com/article/855| 
 | 20210202 | 九阴真经：iOS黑客攻防秘籍 | /book/71| 
@@ -39,38 +41,36 @@
 | 20210201 | 代码审计 PHP基础（一） | https://www.sec-in.com/article/848| 
 | 20210201 | 浅谈溯源思维 | https://www.anquanke.com/post/id/229474| 
 | 20210201 | 2020网络金融黑产研究报告 | https://mp.weixin.qq.com/s/B_pREKw4SJQjpbVbQLl33w| 
-| 20210201 | 智能终端隐私防跟踪技术实践 | https://mp.weixin.qq.com/s/II5q4tYyZ3JUD4vHy1Fx6A| 
-| 20210201 | 云安全架构连载之一-Azure整体架构及安全亮点详解 | https://mp.weixin.qq.com/s/QNBlsBJaWNXsZLEuNRQcvQ| 
 
 
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20210203T13:51:43Z | CVE-2021-3156 | Null | https://github.com/blasty/CVE-2021-3156 | Sudo before 1.9.5p2 has a Heap-based Buffer Overflow, allowing privilege escalation to root via %sudoedit -s% and a command-line argument that ends with a single backslash character.| 
+| 20210204T00:58:24Z | CVE-2021-3156 | Null | https://github.com/blasty/CVE-2021-3156 | Sudo before 1.9.5p2 has a Heap-based Buffer Overflow, allowing privilege escalation to root via %sudoedit -s% and a command-line argument that ends with a single backslash character.| 
+| 20210204T00:20:03Z | cve-2020-17523 | shiro-cve-2020-17523 漏洞分析 | https://github.com/jweny/shiro-cve-2020-17523 | 未查询到CVE信息| 
+| 20210203T23:30:21Z | CVE-2021-3156 | Root shell PoC for CVE-2021-3156 | https://github.com/CptGibbon/CVE-2021-3156 | Sudo before 1.9.5p2 has a Heap-based Buffer Overflow, allowing privilege escalation to root via %sudoedit -s% and a command-line argument that ends with a single backslash character.| 
+| 20210203T14:19:22Z | CVE-2021-3156 | Null | https://github.com/leterts/CVE-2021-3156 | Sudo before 1.9.5p2 has a Heap-based Buffer Overflow, allowing privilege escalation to root via %sudoedit -s% and a command-line argument that ends with a single backslash character.| 
 | 20210203T12:53:53Z | CVE-2021-3345 | Null | https://github.com/MLGRadish/CVE-2021-3345 | _gcry_md_block_write in cipher/hash-common.c in Libgcrypt version 1.9.0 has a heap-based buffer overflow when the digest final function sets a large count value. It is recommended to upgrade to 1.9.1 or later.| 
-| 20210203T11:27:52Z | CVE-2021-3156 | Null | https://github.com/leterts/CVE-2021-3156 | Sudo before 1.9.5p2 has a Heap-based Buffer Overflow, allowing privilege escalation to root via %sudoedit -s% and a command-line argument that ends with a single backslash character.| 
 | 20210203T10:58:41Z | CVE-2021-3156 | CVE-2021-3156 Vagrant Lab | https://github.com/dinhbaouit/CVE-2021-3156 | Sudo before 1.9.5p2 has a Heap-based Buffer Overflow, allowing privilege escalation to root via %sudoedit -s% and a command-line argument that ends with a single backslash character.| 
-| 20210203T09:38:18Z | cve-2020-17523 | shiro-cve-2020-17523 漏洞分析 | https://github.com/jweny/shiro-cve-2020-17523 | 未查询到CVE信息| 
 | 20210203T09:04:14Z | CVE-2021-3156 | Null | https://github.com/cdeletre/Serpentiel-CVE-2021-3156 | Sudo before 1.9.5p2 has a Heap-based Buffer Overflow, allowing privilege escalation to root via %sudoedit -s% and a command-line argument that ends with a single backslash character.| 
 | 20210203T09:00:04Z | cve-2021-25646 | Apache Druid 远程代码执行;检测脚本 | https://github.com/yaunsky/cve-2021-25646 | 未查询到CVE信息| 
 | 20210203T06:53:27Z | CVE-2021-25646 | Null | https://github.com/lp008/CVE-2021-25646 | Apache Druid includes the ability to execute user-provided JavaScript code embedded in various types of requests. This functionality is intended for use in high-trust environments, and is disabled by default. However, in Druid 0.20.0 and earlier, it is possible for an authenticated user to send a specially-crafted request that forces Druid to run user-provided JavaScript code for that request, regardless of server configuration. This can be leveraged to execute code on the target machine with the privileges of the Druid server process.| 
 | 20210203T06:15:15Z | CVE-2020-27194 | my exp for CVE-2020-27194, tested on linux kernel 5.8.14. | https://github.com/xmzyshypnc/CVE-2020-27194 | An issue was discovered in the Linux kernel before 5.8.15. scalar32_min_max_or in kernel/bpf/verifier.c mishandles bounds tracking during use of 64-bit values, aka CID-5b9fbeb75b6a.| 
-| 20210203T06:01:40Z | CVE-2020-1938 | Modified version of auxiliary/admin/http/tomcat_ghostcat, it can  Read any file | https://github.com/YU5Z8X2CvH1fv4ep/CVE-2020-1938-MSF-MODULE | When using the Apache JServ Protocol (AJP), care must be taken when trusting incoming connections to Apache Tomcat. Tomcat treats AJP connections as having higher trust than, for example, a similar HTTP connection. If such connections are available to an attacker, they can be exploited in ways that may be surprising. In Apache Tomcat 9.0.0.M1 to 9.0.0.30, 8.5.0 to 8.5.50 and 7.0.0 to 7.0.99, Tomcat shipped with an AJP Connector enabled by default that listened on all configured IP addresses. It was expected (and recommended in the security guide) that this Connector would be disabled if not required. This vulnerability report identified a mechanism that allowed: - returning arbitrary files from anywhere in the web application - processing any file in the web application as a JSP Further, if the web application allowed file upload and stored those files within the web application (or the attacker was able to control the content of the web application by some other means) then this, along with the ability to process a file as a JSP, made remote code execution possible. It is important to note that mitigation is only required if an AJP port is accessible to untrusted users. Users wishing to take a defence-in-depth approach and block the vector that permits returning arbitrary files and execution as JSP may upgrade to Apache Tomcat 9.0.31, 8.5.51 or 7.0.100 or later. A number of changes were made to the default AJP Connector configuration in 9.0.31 to harden the default configuration. It is likely that users upgrading to 9.0.31, 8.5.51 or 7.0.100 or later will need to make small changes to their configurations.| 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210204T00:42:11Z | hw3-klee8880 created by GitHub Classroom | https://github.com/depaulcdm/hw3-klee8880 | 0 | 0| 
+| 20210203T23:57:42Z | An open-source Chinese font derived from Fontworks% Klee One | https://github.com/lxgw/LxgwWenKai | 6 | 0| 
+| 20210203T18:23:13Z | The compiler inputs a PDDL benchmark of the Carpark planning problem and converts it to an equivalent C code which is used for solving the planning problem by program verification tools such as KLEE/TracerX. | https://github.com/daneshvar-amrollahi/Carpark-PDDL2C | 0 | 0| 
+| 20210203T17:05:50Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1622 | 482| 
+| 20210203T16:03:55Z | A personnal UI library made as an excuse to have a published UI package | https://github.com/Liinkiing/klee | 5 | 1| 
 | 20210203T13:52:48Z | Null | https://github.com/fontworks-fonts/Klee | 350 | 9| 
-| 20210203T13:01:59Z | The compiler inputs a PDDL benchmark of the Carpark planning problem and converts it to an equivalent C code which is used for solving the planning problem by program verification tools such as KLEE/TracerX. | https://github.com/daneshvar-amrollahi/Carpark-PDDL2C | 0 | 0| 
 | 20210203T11:34:32Z | Null | https://github.com/alsoknownaszac/kleekit | 0 | 0| 
 | 20210203T11:08:33Z | Symbiotic is a tool for finding bugs in computer programs based on instrumentation, program slicing and KLEE | https://github.com/staticafi/symbiotic | 212 | 34| 
-| 20210203T10:49:07Z | A personnal UI library made as an excuse to have a published UI package | https://github.com/Liinkiing/klee | 4 | 1| 
 | 20210203T07:33:42Z | Null | https://github.com/jiseongg/klee_experiment | 0 | 0| 
-| 20210203T02:41:02Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1623 | 482| 
-| 20210202T12:24:29Z | An open-source Chinese font derived from Fontworks% Klee One | https://github.com/lxgw/LxgwWenKai | 5 | 0| 
 | 20210202T11:53:01Z | Null | https://github.com/alsoknownaszac/Kleekit-Webpage | 0 | 0| 
-| 20210201T05:01:53Z | Spring 2021 Geography 817 work folder  | https://github.com/klee12/klee12.github.io | 0 | 0| 
 
 
 # s2e on Github 推荐
@@ -82,31 +82,31 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210203T13:57:35Z | Null | https://github.com/r4j0x00/exploits | 354 | 88| 
-| 20210203T13:56:38Z | Built a X3D based Virtual Museum exploiting HTML5, CSS3, X3D (X3DOM), JavaScript , jQuery, Bootstrap 4, AJAX for asynchronous update of HTML contents, JSON for data transfer from the backend to the frontend, PHP to access data from a SQLite database, and all configured in a MVC design pattern. And, of course, a selection of 3D Models made by myself. | https://github.com/dr271/Web-3D-Virtual-Museum | 4 | 0| 
-| 20210203T13:55:34Z | The detection of irony and sarcasm is one of the most insidious challenges in the field of Natural Language Processing. Over the years, several techniques have been studied to analyze these rhetorical figures, trying to identify the elements that discriminate, in a significant way, what is sarcastic or ironic from what is not. Within this study, some models that are state of the art are analyzed. As far as Machine Learning is concerned, the most discriminating features such as part of speech, pragmatic particles and sentiment are studied. Subsequently, these models are optimized, comparing Bayesian optimization techniques and random search. Once, the best hyperparameters are identified, ensemble methods such as Bayesian Model Averaging (BMA) are exploited. In relation to Deep Learning, two main models are analyzed: DeepMoji, developed by MIT, and a model called Transformer Based, which exploits the generalization power of Roberta Transformer. As soon as these models are compared, the main goal is to identify a new system able to better capture the two rhetorical figures. To this end, two models composed of attention mechanisms are proposed, exploiting the principle of Transfer Learning, using Bert Tweet Model and DeepMoji Model as feature extractors. After identifying the various architectures, an ensemble method is applied on the set of approaches proposed, in order to identify the best combination of algorithms that can achieve satisfactory results. Frameworks used: Pytorch, TF 2.0, Scikit Learn, Scikit-Optimize, Transformers | https://github.com/lorenzofamiglini/Irony-Sarcasm-Detection-Task | 0 | 0| 
-| 20210203T13:52:16Z | Just a temporary website to post my ctf writeups and journey into binary/android exploitation/malware analysis/exploit development | https://github.com/blackbeard666/pwn_exhibit | 2 | 1| 
-| 20210203T13:49:27Z | Just a temporary website to post my ctf writeups and journey into binary exploitation/malware analysis/exploit development | https://github.com/blackbeard666/blackbeard666.github.io | 0 | 0| 
-| 20210203T13:25:04Z | PatrowlHears - Vulnerability Intelligence Center / Exploits | https://github.com/Patrowl/PatrowlHears | 42 | 8| 
-| 20210203T13:10:12Z | Exploiter is a ripoff for metasploit but have all vulnerbility on exploit-db | https://github.com/Parrot12345-HTB/Exploiter | 0 | 0| 
-| 20210203T13:02:51Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 7 | 3| 
-| 20210203T12:49:57Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 7 | 4| 
-| 20210203T12:43:43Z | Launcher base for your gtav mod menu/exploit/cheat/hack. Version 2.0 (Different Layout) | https://github.com/0xFXDE/DemoZeroUIV2 | 0 | 0| 
+| 20210204T00:49:57Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 7 | 4| 
+| 20210204T00:48:12Z | Codebase for paper %N-Bref  A High-fidelity Decompiler Exploiting Programming Structures% | https://github.com/facebookresearch/nbref | 87 | 5| 
+| 20210204T00:43:37Z | Discord Vanity Exploit Legit - Working 2021 - Only works on discord or roblox - Extra Scripted by @Crossieto#9999 - Bonus: Rezizt. Thank You!  ⚠️THIS IS FOR EDUCATIONAL PURPOSES ONLY! DON%T GO TERRORISING PEOPLE%S SERVERS!⚠️    ⚠️ Copyright Disclaimer Under Section 107 of the Copyright Act 1976, allowance is made for %fair use% for purposes such as criticism, comment, news reporting, teaching, scholarship, and research. Fair use is a use permitted by copyright statute that might otherwise be infringing. Non-profit, educational or personal use tips the balance in favor of fair use.  This product is meant for educational purposes only. Any resemblance to real persons, living or dead is purely coincidental. This is work in progress and subject to change. Void where prohibited. Some assembly required. | https://github.com/Crossieto/Vanity-Exploit-5.6 | 1 | 0| 
+| 20210204T00:27:04Z | This bash script will help you to hack remote hosts  | https://github.com/FabioDefilippo/linuxallremote | 4 | 1| 
+| 20210204T00:26:17Z | Vulnerabilities% Risk of Exploitation | https://github.com/thiagofigcosta/V-REx | 0 | 0| 
+| 20210204T00:25:00Z | Escalate as Administrator bypassing the UAC affecting administrator accounts only. | https://github.com/0xyg3n/UAC_Exploit | 5 | 2| 
+| 20210204T00:15:41Z | PoCs for public CVE%s I have been working on. | https://github.com/lockedbyte/CVE-Exploits | 402 | 88| 
+| 20210204T00:11:32Z | Null | https://github.com/loRes228/PasteExploit | 0 | 0| 
+| 20210204T00:02:44Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 7 | 3| 
+| 20210203T23:47:27Z | A repository containing code from Hacking: Art of Exploitation to understand overflow vulnerabilities. | https://github.com/nightfuryninja/overflows | 0 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210203T20:53:17Z | TrojanZoo provides a universal pytorch platform to conduct security researches (especially backdoor attacks/defenses) of image classification in deep learning. | https://github.com/ain-soph/trojanzoo | 36 | 8| 
+| 20210203T20:01:28Z | %Socialx% is a Social Engineering And Remote Access Trojan Tool. You can generate fud backdoor and you can embed any file you want inside of the exe file. | https://github.com/AzizKpln/Social_X | 47 | 16| 
+| 20210203T19:59:06Z | Hacking tools pack & backdoors generator. | https://github.com/AdrMXR/KitHack | 337 | 57| 
 | 20210203T13:10:07Z | Null | https://github.com/angelo1104/backdoor-client | 0 | 0| 
 | 20210203T12:46:18Z | Null | https://github.com/angelo1104/backdoor-server | 0 | 0| 
 | 20210203T12:32:04Z | This is a python program backdoor embeded with a game for reverse connection from the victim to understand the use visit our youtube channel STRANGE LEARNINGS  | https://github.com/EnriqueStrange/Advanced-Backdoor | 0 | 0| 
-| 20210203T11:12:30Z | Hacking tools pack & backdoors generator. | https://github.com/AdrMXR/KitHack | 336 | 57| 
 | 20210203T10:13:02Z | Null | https://github.com/k0rup710n/Python-Backdoor | 0 | 0| 
-| 20210203T08:19:25Z | TrojanZoo provides a universal pytorch platform to conduct security researches (especially backdoor attacks/defenses) of image classification in deep learning. | https://github.com/ain-soph/trojanzoo | 36 | 8| 
 | 20210203T03:24:54Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 162 | 23| 
 | 20210203T02:06:13Z | Tool to find potential backdoor/security holes in your endpoint | https://github.com/subasgit/backdoorfinder | 1 | 0| 
 | 20210202T18:22:58Z | Null | https://github.com/Wiilldd/backdoor | 0 | 0| 
-| 20210202T13:05:44Z | Pytorch implementation of Backdoor Attack against Speaker Verification | https://github.com/zhaitongqing233/Backdoor-attack-against-speaker-verification | 3 | 2| 
 
 
 # fuzz on Github 推荐
