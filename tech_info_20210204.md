@@ -32,8 +32,8 @@
 | 20210204T13:20:48Z | CVE-2021-3156 | Null | https://github.com/blasty/CVE-2021-3156 | Sudo before 1.9.5p2 has a Heap-based Buffer Overflow, allowing privilege escalation to root via %sudoedit -s% and a command-line argument that ends with a single backslash character.| 
 | 20210204T13:05:02Z | CVE-2021-25646 | CSharp CVE-2021-25646-GUI | https://github.com/AirEvan/CVE-2021-25646-GUI | Apache Druid includes the ability to execute user-provided JavaScript code embedded in various types of requests. This functionality is intended for use in high-trust environments, and is disabled by default. However, in Druid 0.20.0 and earlier, it is possible for an authenticated user to send a specially-crafted request that forces Druid to run user-provided JavaScript code for that request, regardless of server configuration. This can be leveraged to execute code on the target machine with the privileges of the Druid server process.| 
 | 20210204T07:51:56Z | CVE-2021-3156 | CVE-2021-3156 Vagrant Lab | https://github.com/dinhbaouit/CVE-2021-3156 | Sudo before 1.9.5p2 has a Heap-based Buffer Overflow, allowing privilege escalation to root via %sudoedit -s% and a command-line argument that ends with a single backslash character.| 
-| 20210204T07:47:48Z | cve-2021-25646 | Apache Druid 远程代码执行;检测脚本 | https://github.com/yaunsky/cve-2021-25646 | | 
-| 20210204T06:16:27Z | CVE-2021-3156 | Null | https://github.com/leterts/CVE-2021-3156-sudo-raising | Sudo before 1.9.5p2 has a Heap-based Buffer Overflow, allowing privilege escalation to root via %sudoedit -s% and a command-line argument that ends with a single backslash character.| 
+| 20210204T07:47:48Z | cve-2021-25646 | Apache Druid 远程代码执行;检测脚本 | https://github.com/yaunsky/cve-2021-25646 | 未查询到CVE信息| 
+| 20210204T06:16:27Z | CVE-2021-3156 | Null | https://github.com/leterts/CVE-2021-3156-sudo-raising | | 
 | 20210204T04:58:45Z | CVE-2020-25213 | Null | https://github.com/forse01/CVE-2020-25213-Wordpress | The File Manager (wp-file-manager) plugin before 6.9 for WordPress allows remote attackers to upload and execute arbitrary PHP code because it renames an unsafe example elFinder connector file to have the .php extension. This, for example, allows attackers to run the elFinder upload (or mkfile and put) command to write PHP code into the wp-content/plugins/wp-file-manager/lib/files/ directory. This was exploited in the wild in August and September 2020.| 
 | 20210204T02:20:26Z | cve-2020-17523 | shiro-cve-2020-17523 漏洞分析 | https://github.com/jweny/shiro-cve-2020-17523 | 未查询到CVE信息| 
 | 20210204T01:40:33Z | CVE-2021-25646 | Null | https://github.com/lp008/CVE-2021-25646 | Apache Druid includes the ability to execute user-provided JavaScript code embedded in various types of requests. This functionality is intended for use in high-trust environments, and is disabled by default. However, in Druid 0.20.0 and earlier, it is possible for an authenticated user to send a specially-crafted request that forces Druid to run user-provided JavaScript code for that request, regardless of server configuration. This can be leveraged to execute code on the target machine with the privileges of the Druid server process.| 
@@ -86,6 +86,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210204T13:55:22Z | saphIR is an Intermediate Representation with amd64 and arm64 backends. Also included: a compiler, an arm64 lifter, an arm64 to amd64 dynamic binary translator, and a fuzzer. | https://github.com/balayette/saphIR-project | 22 | 0| 
 | 20210204T13:44:26Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 5839 | 1178| 
 | 20210204T13:35:54Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 29703 | 15019| 
 | 20210204T12:34:34Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2261 | 117| 
@@ -95,7 +96,6 @@
 | 20210204T11:20:02Z | Null | https://github.com/ArijZouaoui/Credit-Scoring-using-Fuzzy-Logic | 0 | 0| 
 | 20210204T11:10:34Z | Null | https://github.com/stuartelimu/fuzzy-octo-carnival | 0 | 0| 
 | 20210204T11:06:37Z | A fork of AFL for fuzzing Windows binaries | https://github.com/googleprojectzero/winafl | 1601 | 416| 
-| 20210204T10:37:50Z | Null | https://github.com/7evy/Fuzzy_Queries | 0 | 0| 
 
 
 
