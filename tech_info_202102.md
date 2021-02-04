@@ -82,6 +82,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210204T13:15:45Z | 📈 A visualization of MetricQ data exploiting the advanctages of the HTA db backend  | https://github.com/metricq/metricq-webview | 0 | 1| 
 | 20210204T13:06:51Z | Escalate as Administrator bypassing the UAC affecting administrator accounts only. | https://github.com/0xyg3n/UAC_Exploit | 37 | 9| 
 | 20210204T13:02:44Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 7 | 3| 
 | 20210204T12:58:49Z | Multi camera gathering and exploiting tool | https://github.com/M0tHs3C/Argo | 21 | 12| 
@@ -91,7 +92,6 @@
 | 20210204T12:04:45Z | Vulnerabilities% Risk of Exploitation | https://github.com/thiagofigcosta/V-REx | 0 | 0| 
 | 20210204T11:47:03Z | every roblox exploit/script made by me | https://github.com/itsrucky/exploits | 0 | 0| 
 | 20210204T11:02:34Z | Exploit written during OSCE Preparation | https://github.com/aida-mynzhasova/Exploits | 0 | 0| 
-| 20210204T10:55:44Z | Practical S6 activity during the Geology & Planetary Mapping Winter School Program: Exploiting spectral data to generate compositional indexes. | https://github.com/mariodamore/spectral_indexes_generation | 0 | 0| 
 
 
 # backdoor on Github 推荐
