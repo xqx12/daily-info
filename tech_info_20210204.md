@@ -59,6 +59,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210204T13:35:54Z | iOS, ARM, Research funded by the XSS.Cx Anti-Phishing Team | https://github.com/xsscx/ios-arm-research | 2 | 1| 
 | 20210204T13:28:16Z | Null | https://github.com/voxtechX/CyExploit | 0 | 0| 
 | 20210204T13:25:51Z | 📈 A visualization of MetricQ data exploiting the advanctages of the HTA db backend  | https://github.com/metricq/metricq-webview | 0 | 1| 
 | 20210204T13:06:51Z | Escalate as Administrator bypassing the UAC affecting administrator accounts only. | https://github.com/0xyg3n/UAC_Exploit | 37 | 9| 
@@ -68,7 +69,6 @@
 | 20210204T12:23:56Z | Null | https://github.com/SeungYup26/SyExploit | 0 | 0| 
 | 20210204T12:10:01Z | Null | https://github.com/yohanes/exploit_mt6873 | 1 | 0| 
 | 20210204T12:04:45Z | Vulnerabilities% Risk of Exploitation | https://github.com/thiagofigcosta/V-REx | 0 | 0| 
-| 20210204T11:47:03Z | every roblox exploit/script made by me | https://github.com/itsrucky/exploits | 0 | 0| 
 
 
 # backdoor on Github 推荐
@@ -86,7 +86,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210204T13:35:54Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 29703 | 15018| 
+| 20210204T13:35:54Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 29703 | 15019| 
 | 20210204T12:34:34Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2261 | 117| 
 | 20210204T12:28:47Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 3332 | 770| 
 | 20210204T11:51:40Z | Scripts written by me, which might be useful later -> Devops work | https://github.com/Cy83rr/fuzzy-memory | 0 | 0| 
