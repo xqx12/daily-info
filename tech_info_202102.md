@@ -15,6 +15,7 @@
 | 20210203 | Project Zero Maddie Stone 对 2020 年野外漏洞利用情况的综述 | https://github.com/maddiestone/ConPresentations/blob/master/Enigma2021.StateOf0day.pdf| 
 | 20210203 | NCC Group 2020 年度研究报告，可以看到多个不同方向的研究成果 | https://research.nccgroup.com/2021/01/31/2020-annual-research-report/amp/| 
 | 20210203 | 容器与云的碰撞——一次对MinIO的测试 | https://www.leavesongs.com/PENETRATION/the-collision-of-containers-and-the-cloud-pentesting-a-MinIO.html| 
+| 20210203 | Android 发布 2 月份漏洞补丁公告，修复 5 个高危漏洞 | https://threatpost.com/five-critical-bugs-patched-feb-security-bulletin/163623/| 
 | 20210202 | Exploiting insecure WebSocket Communication | https://gupta-bless.medium.com/exploiting-insecure-websocket-communication-90554f5e43fe| 
 | 20210202 | PortSwigger 发起的 2020 年的 Top 10 web hacking techniques 投票 | https://portswigger.net/polls/top-10-web-hacking-techniques-2020| 
 | 20210202 | The Art Of Mac Malware: Analysis | https://taomm.org/vol1/analysis.html| 
@@ -25,7 +26,6 @@
 | 20210202 | WebKit 将引入 Private Click Measurement 保护机制，用于防止广告对用户的大规模追踪 | https://webkit.org/blog/11529/introducing-private-click-measurement-pcm/| 
 | 20210202 | 安全预警：利用Android可穿戴扩展通知功能进行自我传播的蠕虫木马分析溯源。 | https://blogs.360.cn/post/Alert_new_Android_malware_spreads_through_WhatsApp.html| 
 | 20210201 | 安恒对黑客利用 VS 工程渗透安全研究员事件的分析 | https://ti.dbappsecurity.com.cn/blog/index.php/2021/01/26/lazarus-new-campaign/| 
-| 20210201 | BitLocker touch-device lockscreen bypass | https://secret.club/2021/01/29/touch-lockscreen-bypass.html| 
 
 
 # 安全维基 推荐
@@ -52,7 +52,7 @@
 | 20210204T01:40:33Z | CVE-2021-25646 | Null | https://github.com/lp008/CVE-2021-25646 | Apache Druid includes the ability to execute user-provided JavaScript code embedded in various types of requests. This functionality is intended for use in high-trust environments, and is disabled by default. However, in Druid 0.20.0 and earlier, it is possible for an authenticated user to send a specially-crafted request that forces Druid to run user-provided JavaScript code for that request, regardless of server configuration. This can be leveraged to execute code on the target machine with the privileges of the Druid server process.| 
 | 20210203T23:30:21Z | CVE-2021-3156 | Root shell PoC for CVE-2021-3156 | https://github.com/CptGibbon/CVE-2021-3156 | Sudo before 1.9.5p2 has a Heap-based Buffer Overflow, allowing privilege escalation to root via %sudoedit -s% and a command-line argument that ends with a single backslash character.| 
 | 20210203T14:19:22Z | CVE-2021-3156 | Null | https://github.com/leterts/CVE-2021-3156 | Sudo before 1.9.5p2 has a Heap-based Buffer Overflow, allowing privilege escalation to root via %sudoedit -s% and a command-line argument that ends with a single backslash character.| 
-| 20210203T12:53:53Z | CVE-2021-3345 | Null | https://github.com/MLGRadish/CVE-2021-3345 | | 
+| 20210203T12:53:53Z | CVE-2021-3345 | Null | https://github.com/MLGRadish/CVE-2021-3345 | _gcry_md_block_write in cipher/hash-common.c in Libgcrypt version 1.9.0 has a heap-based buffer overflow when the digest final function sets a large count value. It is recommended to upgrade to 1.9.1 or later.| 
 | 20210203T10:58:41Z | CVE-2021-3156 | CVE-2021-3156 Vagrant Lab | https://github.com/dinhbaouit/CVE-2021-3156 | Sudo before 1.9.5p2 has a Heap-based Buffer Overflow, allowing privilege escalation to root via %sudoedit -s% and a command-line argument that ends with a single backslash character.| 
 | 20210203T09:04:14Z | CVE-2021-3156 | Null | https://github.com/cdeletre/Serpentiel-CVE-2021-3156 | Sudo before 1.9.5p2 has a Heap-based Buffer Overflow, allowing privilege escalation to root via %sudoedit -s% and a command-line argument that ends with a single backslash character.| 
 | 20210203T06:15:15Z | CVE-2020-27194 | my exp for CVE-2020-27194, tested on linux kernel 5.8.14. | https://github.com/xmzyshypnc/CVE-2020-27194 | An issue was discovered in the Linux kernel before 5.8.15. scalar32_min_max_or in kernel/bpf/verifier.c mishandles bounds tracking during use of 64-bit values, aka CID-5b9fbeb75b6a.| 
