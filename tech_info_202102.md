@@ -112,16 +112,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210203T13:44:53Z | nothing | https://github.com/ByFan-coder/Fuzzy-Octopus | 0 | 0| 
-| 20210203T13:25:37Z | A curated list on research blending deeplearning and fuzzing | https://github.com/thebabush/awesome-deep-fuzzing | 6 | 1| 
-| 20210203T13:02:38Z | final project for CS50 2020 | https://github.com/leztien/fuzzy_matching_project | 0 | 0| 
-| 20210203T11:53:35Z | Program berjudul %Pengelompokan Usia pada Sistem Fuzzy% | https://github.com/arizkinewbie/Contoh-Aturan-Fuzzy | 0 | 0| 
-| 20210203T11:42:24Z | Null | https://github.com/kinzhong/fuzzer-performance-visualiser | 0 | 0| 
-| 20210203T11:32:13Z | Null | https://github.com/kinzhong/fuzzing-automation-tools | 0 | 0| 
-| 20210203T11:31:58Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 5837 | 1178| 
-| 20210203T10:38:26Z | Null | https://github.com/Tilsonar/Fuzzy-Clustering-Topic-Modeling | 0 | 0| 
-| 20210203T09:54:02Z | A curated list of awesome directed fuzzing research papers | https://github.com/strongcourage/awesome-directed-fuzzing | 71 | 14| 
-| 20210203T09:39:43Z | A fuzzer for SMT solvers | https://github.com/testsmt/yinyang | 74 | 6| 
+| 20210204T01:01:54Z | Null | https://github.com/cpuu/fuzzing_examples | 0 | 0| 
+| 20210204T00:49:21Z | The Official Fuzzy Britches Repository. | https://github.com/ThePapaw/fuzzybritches | 0 | 0| 
+| 20210204T00:03:58Z | Rockyou for web fuzzing | https://github.com/six2dez/OneListForAll | 178 | 32| 
+| 20210203T23:34:18Z | Open Enclave specific security automation projects (CodeQL static analysis, Fuzzing and binary analysis). | https://github.com/openenclave/openenclave-security | 0 | 1| 
+| 20210203T23:32:59Z | FuzzBench - Fuzzer benchmarking as a service. | https://github.com/google/fuzzbench | 592 | 98| 
+| 20210203T23:19:00Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 5837 | 1178| 
+| 20210203T22:52:51Z | Generate code for json encoders/decoders, codecs, fuzzers, generators, and more | https://github.com/MartinSStewart/elm-review-todo-it-for-me | 0 | 0| 
+| 20210203T22:39:30Z | RESTler is the first stateful REST API fuzzing tool for automatically testing cloud services through their REST APIs and finding security and reliability bugs in these services. | https://github.com/microsoft/restler-fuzzer | 653 | 61| 
+| 20210203T22:24:15Z | Fuzzy diagnosis of oil-related thermal failure in power transformers | https://github.com/dromero1/fuzzy-diagnosis-thermal-failure | 0 | 0| 
+| 20210203T22:07:20Z | {golang, ptrace, snapshot}-based fuzzer | https://github.com/geeksonsecurity/snapandgo | 2 | 0| 
 
 
 
