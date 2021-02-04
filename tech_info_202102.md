@@ -82,10 +82,10 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210204T13:06:51Z | Escalate as Administrator bypassing the UAC affecting administrator accounts only. | https://github.com/0xyg3n/UAC_Exploit | 37 | 9| 
 | 20210204T13:02:44Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 7 | 3| 
 | 20210204T12:58:49Z | Multi camera gathering and exploiting tool | https://github.com/M0tHs3C/Argo | 21 | 12| 
 | 20210204T12:28:44Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 8968 | 1440| 
-| 20210204T12:27:58Z | Escalate as Administrator bypassing the UAC affecting administrator accounts only. | https://github.com/0xyg3n/UAC_Exploit | 36 | 9| 
 | 20210204T12:23:56Z | Null | https://github.com/SeungYup26/SyExploit | 0 | 0| 
 | 20210204T12:10:01Z | Null | https://github.com/yohanes/exploit_mt6873 | 1 | 0| 
 | 20210204T12:04:45Z | Vulnerabilities% Risk of Exploitation | https://github.com/thiagofigcosta/V-REx | 0 | 0| 
