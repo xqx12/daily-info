@@ -77,7 +77,6 @@
 | --- | --- | --- | --- | ---| 
 | 20210203T20:53:17Z | TrojanZoo provides a universal pytorch platform to conduct security researches (especially backdoor attacks/defenses) of image classification in deep learning. | https://github.com/ain-soph/trojanzoo | 36 | 8| 
 | 20210203T20:01:28Z | %Socialx% is a Social Engineering And Remote Access Trojan Tool. You can generate fud backdoor and you can embed any file you want inside of the exe file. | https://github.com/AzizKpln/Social_X | 47 | 16| 
-| 20210203T19:59:06Z | Hacking tools pack & backdoors generator. | https://github.com/AdrMXR/KitHack | 337 | 57| 
 | 20210203T13:10:07Z | Null | https://github.com/angelo1104/backdoor-client | 0 | 0| 
 | 20210203T12:46:18Z | Null | https://github.com/angelo1104/backdoor-server | 0 | 0| 
 | 20210203T12:32:04Z | This is a python program backdoor embeded with a game for reverse connection from the victim to understand the use visit our youtube channel STRANGE LEARNINGS  | https://github.com/EnriqueStrange/Advanced-Backdoor | 0 | 0| 
