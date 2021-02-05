@@ -18,6 +18,7 @@
 | 20210204 | Google 计划从构建精确漏洞库、开源组件依赖分析、高危漏洞通知预警等角度推动建立开源组件的安全生态 | https://sec.today/pulses/ffc52689-445f-4585-a35c-59bd55067be3/| 
 | 20210204 | Google 计划从构建精确漏洞库、开源组件依赖分析、高危漏洞通知预警等角度推动建立开源组件的安全生态 | https://security.googleblog.com/2021/02/know-prevent-fix-framework-for-shifting.html?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+GoogleOnlineSecurityBlog+%28Google+Online+Security+Blog%29| 
 | 20210204 | 漏洞焦点：SoftMaker Office PlanMaker存在的多个安全漏洞。 | https://blog.talosintelligence.com/2021/02/vuln-spotlight-softmaker-office-planmaker.html?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+feedburner%2FTalos+%28Talos%E2%84%A2+Blog%29| 
+| 20210204 | Google 对 2020 年漏洞奖励计划的回顾 | https://security.googleblog.com/2021/02/vulnerability-reward-program-2020-year.html?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+GoogleOnlineSecurityBlog+%28Google+Online+Security+Blog%29| 
 
 
 # 安全维基 推荐
@@ -35,7 +36,7 @@
 | 20210204T13:05:02Z | CVE-2021-25646 | CSharp CVE-2021-25646-GUI | https://github.com/AirEvan/CVE-2021-25646-GUI | Apache Druid includes the ability to execute user-provided JavaScript code embedded in various types of requests. This functionality is intended for use in high-trust environments, and is disabled by default. However, in Druid 0.20.0 and earlier, it is possible for an authenticated user to send a specially-crafted request that forces Druid to run user-provided JavaScript code for that request, regardless of server configuration. This can be leveraged to execute code on the target machine with the privileges of the Druid server process.| 
 | 20210204T07:51:56Z | CVE-2021-3156 | CVE-2021-3156 Vagrant Lab | https://github.com/dinhbaouit/CVE-2021-3156 | Sudo before 1.9.5p2 has a Heap-based Buffer Overflow, allowing privilege escalation to root via %sudoedit -s% and a command-line argument that ends with a single backslash character.| 
 | 20210204T07:47:48Z | cve-2021-25646 | Apache Druid 远程代码执行;检测脚本 | https://github.com/yaunsky/cve-2021-25646 | 未查询到CVE信息| 
-| 20210204T06:16:27Z | CVE-2021-3156 | Null | https://github.com/leterts/CVE-2021-3156-sudo-raising | Sudo before 1.9.5p2 has a Heap-based Buffer Overflow, allowing privilege escalation to root via %sudoedit -s% and a command-line argument that ends with a single backslash character.| 
+| 20210204T06:16:27Z | CVE-2021-3156 | Null | https://github.com/leterts/CVE-2021-3156-sudo-raising | | 
 | 20210204T01:40:33Z | CVE-2021-25646 | Null | https://github.com/lp008/CVE-2021-25646 | Apache Druid includes the ability to execute user-provided JavaScript code embedded in various types of requests. This functionality is intended for use in high-trust environments, and is disabled by default. However, in Druid 0.20.0 and earlier, it is possible for an authenticated user to send a specially-crafted request that forces Druid to run user-provided JavaScript code for that request, regardless of server configuration. This can be leveraged to execute code on the target machine with the privileges of the Druid server process.| 
 
 

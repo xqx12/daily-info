@@ -18,6 +18,7 @@
 | 20210204 | Google 计划从构建精确漏洞库、开源组件依赖分析、高危漏洞通知预警等角度推动建立开源组件的安全生态 | https://sec.today/pulses/ffc52689-445f-4585-a35c-59bd55067be3/| 
 | 20210204 | Google 计划从构建精确漏洞库、开源组件依赖分析、高危漏洞通知预警等角度推动建立开源组件的安全生态 | https://security.googleblog.com/2021/02/know-prevent-fix-framework-for-shifting.html?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+GoogleOnlineSecurityBlog+%28Google+Online+Security+Blog%29| 
 | 20210204 | 漏洞焦点：SoftMaker Office PlanMaker存在的多个安全漏洞。 | https://blog.talosintelligence.com/2021/02/vuln-spotlight-softmaker-office-planmaker.html?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+feedburner%2FTalos+%28Talos%E2%84%A2+Blog%29| 
+| 20210204 | Google 对 2020 年漏洞奖励计划的回顾 | https://security.googleblog.com/2021/02/vulnerability-reward-program-2020-year.html?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+GoogleOnlineSecurityBlog+%28Google+Online+Security+Blog%29| 
 | 20210203 | 研究员 pwn0rz 公开了一个影响 macOS Fairplay 的越界读漏洞的 PoC（CVE-2021-1791） | https://gist.github.com/pwn0rz/e34ab9f6e46956621a9d4f98cf222320| 
 | 20210203 | Spoofing and Attacking With Skype | https://blog.thecybersecuritytutor.com/spoofing-and-attacking-with-skype/| 
 | 20210203 | 利用开源工具 Falco 实现对 MITRE ATT&CK 的检测 | https://sysdig.com/blog/mitre-defense-evasion-falco/| 
@@ -25,7 +26,6 @@
 | 20210203 | Injecting Rogue DNS Records Using DHCP | https://www.trustedsec.com/blog/injecting-rogue-dns-records-using-dhcp/?utm_campaign=Blog%20Posts&utm_content=153064925&utm_medium=social&utm_source=twitter&hss_channel=tw-403811306| 
 | 20210203 | ESET 对针对 Linux 系操作系统恶意软件 Kobalos 的分析报告 | https://www.welivesecurity.com/wp-content/uploads/2021/01/ESET_Kobalos.pdf| 
 | 20210203 | Project Zero Maddie Stone 对 2020 年野外漏洞利用情况的综述 | https://github.com/maddiestone/ConPresentations/blob/master/Enigma2021.StateOf0day.pdf| 
-| 20210203 | NCC Group 2020 年度研究报告，可以看到多个不同方向的研究成果 | https://research.nccgroup.com/2021/01/31/2020-annual-research-report/amp/| 
 
 
 # 安全维基 推荐
