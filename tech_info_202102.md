@@ -97,6 +97,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210205T01:14:25Z | 使用投毒posion的方式backdoor攻击LeNet-5网络，使用MNIST手写数据集 | https://github.com/AgentGuo/Backdoor_Attack_LeNet5_MNIST | 0 | 0| 
 | 20210205T01:10:33Z | Tool to find potential backdoor/security holes in your endpoint | https://github.com/subasgit/backdoorfinder | 1 | 0| 
 | 20210205T00:59:38Z | Pupy is an opensource, cross-platform (Windows, Linux, OSX, Android) remote administration and post-exploitation tool mainly written in python | https://github.com/n1nj4sec/pupy | 6122 | 1576| 
 | 20210204T23:47:05Z | Three sub-projects of different backdoor attack configurations scaling in complexity, with server and client implementations. | https://github.com/BrunoScaglione/Backdoor-Attack-Simulation | 0 | 0| 
@@ -106,7 +107,6 @@
 | 20210204T18:53:27Z | Null | https://github.com/odilov/simple-backdoor | 0 | 0| 
 | 20210204T17:22:09Z | AdvDoor: Adversarial Backdoor Attack of Deep Learning System | https://github.com/Anonymous-AdvDoor/AdvDoor | 0 | 0| 
 | 20210204T14:20:24Z | Bilingual PhishingKit. TigerShark intergrates a vast array of various phishing tools and frameworks, from C2 servers, backdoors and delivery methods in multiple scripting languages in order to suit whatever your deployment needs may be. | https://github.com/s1l3nt78/TigerShark | 188 | 29| 
-| 20210204T14:09:18Z | FUD cross-platform python2 backdoor with C2 | https://github.com/7h3w4lk3r/pyback | 15 | 5| 
 
 
 # fuzz on Github 推荐
