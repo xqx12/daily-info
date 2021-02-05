@@ -29,7 +29,7 @@
 | 20210205T12:35:30Z | CVE-2021-3156 | Null | https://github.com/blasty/CVE-2021-3156 | Sudo before 1.9.5p2 has a Heap-based Buffer Overflow, allowing privilege escalation to root via %sudoedit -s% and a command-line argument that ends with a single backslash character.| 
 | 20210205T11:48:03Z | CVE-2021-3156 | PoC for CVE-2021-3156 (sudo heap overflow) | https://github.com/stong/CVE-2021-3156 | Sudo before 1.9.5p2 has a Heap-based Buffer Overflow, allowing privilege escalation to root via %sudoedit -s% and a command-line argument that ends with a single backslash character.| 
 | 20210205T11:22:31Z | CVE-2021-3156 | Root shell PoC for CVE-2021-3156 | https://github.com/CptGibbon/CVE-2021-3156 | Sudo before 1.9.5p2 has a Heap-based Buffer Overflow, allowing privilege escalation to root via %sudoedit -s% and a command-line argument that ends with a single backslash character.| 
-| 20210205T09:07:20Z | CVE-2021-3157 | Null | https://github.com/Y3rbit4/CVE-2021-3157 | 未查询到CVE信息| 
+| 20210205T09:07:20Z | CVE-2021-3157 | Null | https://github.com/Y3rbit4/CVE-2021-3157 | | 
 | 20210205T07:50:37Z | CVE-2020-14181 | Poc for CVE-2020-14181 | https://github.com/bk-rao/CVE-2020-14181 | Affected versions of Atlassian Jira Server and Data Center allow an unauthenticated user to enumerate users via an Information Disclosure vulnerability in the /ViewUserHover.jspa endpoint. The affected versions are before version 7.13.6, from version 8.0.0 before 8.5.7, and from version 8.6.0 before 8.12.0.| 
 | 20210205T03:55:00Z | CVE-2021-25646 | CSharp CVE-2021-25646-GUI | https://github.com/AirEvan/CVE-2021-25646-GUI | Apache Druid includes the ability to execute user-provided JavaScript code embedded in various types of requests. This functionality is intended for use in high-trust environments, and is disabled by default. However, in Druid 0.20.0 and earlier, it is possible for an authenticated user to send a specially-crafted request that forces Druid to run user-provided JavaScript code for that request, regardless of server configuration. This can be leveraged to execute code on the target machine with the privileges of the Druid server process.| 
 | 20210205T01:10:50Z | CVE-2020-17527 | Null | https://github.com/forse01/CVE-2020-17527-Tomcat | While investigating bug 64830 it was discovered that Apache Tomcat 10.0.0-M1 to 10.0.0-M9, 9.0.0-M1 to 9.0.39 and 8.5.0 to 8.5.59 could re-use an HTTP request header value from the previous stream received on an HTTP/2 connection for the request associated with the subsequent stream. While this would most likely lead to an error and the closure of the HTTP/2 connection, it is possible that information could leak between requests.| 
@@ -54,10 +54,10 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210205T13:02:33Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 7 | 3| 
 | 20210205T12:22:19Z | PatrowlHears - Vulnerability Intelligence Center / Exploits | https://github.com/Patrowl/PatrowlHears | 47 | 7| 
 | 20210205T12:05:58Z | Space Jam box has a RCE vulnerblity , Where user can run shell command as root , Use this exploit to take advantage of that #SPACEJAM #tryhackme #spacejamrce | https://github.com/ksudhanshu961/spaceJamRCE | 0 | 0| 
 | 20210205T12:05:44Z | Escalate as Administrator bypassing the UAC affecting administrator accounts only. | https://github.com/0xyg3n/UAC_Exploit | 63 | 17| 
-| 20210205T12:02:55Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 7 | 3| 
 | 20210205T11:35:12Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 8974 | 1440| 
 | 20210205T10:28:13Z | Tornado is an active learning (human in the loop machine learning) framework that help you exploit your unlabelled data to train models through a simple easy to use web interface. | https://github.com/slrbl/human-in-the-loop-machine-learning-tool-tornado | 14 | 5| 
 | 20210205T10:18:22Z | Null | https://github.com/trevorsaudi/BinaryExploitation | 0 | 0| 
@@ -69,7 +69,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210205T12:33:26Z | 使用投毒posion的方式backdoor攻击LeNet-5网络，使用MNIST手写数据集 | https://github.com/AgentGuo/Backdoor_Attack_LeNet5_MNIST | 0 | 0| 
+| 20210205T13:02:17Z | 使用投毒posion的方式backdoor攻击LeNet-5网络，使用MNIST手写数据集 | https://github.com/AgentGuo/Backdoor_Attack_LeNet5_MNIST | 0 | 0| 
 | 20210205T11:32:58Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 164 | 23| 
 | 20210205T11:18:42Z | Null | https://github.com/fenilsuchak/test-mlm-backdoor | 0 | 0| 
 | 20210205T07:56:58Z | Null | https://github.com/GoldenPalazzo/docker-backdoor-factory | 0 | 0| 
