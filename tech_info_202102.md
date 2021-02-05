@@ -83,12 +83,12 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210205T13:44:31Z | Escalate as Administrator bypassing the UAC affecting administrator accounts only. | https://github.com/0xyg3n/UAC_Exploit | 64 | 18| 
 | 20210205T13:39:35Z | Null | https://github.com/NoTySrry/ZtSploit-Roblox-Exploit | 0 | 0| 
 | 20210205T13:05:54Z | Geohazards Thematic Exploitation guide | https://github.com/Terradue/doc-tep-geohazards | 9 | 23| 
 | 20210205T13:02:33Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 7 | 3| 
 | 20210205T12:22:19Z | PatrowlHears - Vulnerability Intelligence Center / Exploits | https://github.com/Patrowl/PatrowlHears | 47 | 7| 
 | 20210205T12:05:58Z | Space Jam box has a RCE vulnerblity , Where user can run shell command as root , Use this exploit to take advantage of that #SPACEJAM #tryhackme #spacejamrce | https://github.com/ksudhanshu961/spaceJamRCE | 0 | 0| 
-| 20210205T12:05:44Z | Escalate as Administrator bypassing the UAC affecting administrator accounts only. | https://github.com/0xyg3n/UAC_Exploit | 63 | 17| 
 | 20210205T11:35:12Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 8974 | 1440| 
 | 20210205T10:28:13Z | Tornado is an active learning (human in the loop machine learning) framework that help you exploit your unlabelled data to train models through a simple easy to use web interface. | https://github.com/slrbl/human-in-the-loop-machine-learning-tool-tornado | 14 | 5| 
 | 20210205T10:18:22Z | Null | https://github.com/trevorsaudi/BinaryExploitation | 0 | 0| 
