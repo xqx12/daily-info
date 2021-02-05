@@ -46,16 +46,16 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20210205T01:04:51Z | CVE-2020-17527 | Null | https://github.com/forse01/CVE-2020-17527-Tomcat | While investigating bug 64830 it was discovered that Apache Tomcat 10.0.0-M1 to 10.0.0-M9, 9.0.0-M1 to 9.0.39 and 8.5.0 to 8.5.59 could re-use an HTTP request header value from the previous stream received on an HTTP/2 connection for the request associated with the subsequent stream. While this would most likely lead to an error and the closure of the HTTP/2 connection, it is possible that information could leak between requests.| 
+| 20210205T01:07:11Z | CVE-2020-17527 | Null | https://github.com/forse01/CVE-2020-17527-Tomcat | While investigating bug 64830 it was discovered that Apache Tomcat 10.0.0-M1 to 10.0.0-M9, 9.0.0-M1 to 9.0.39 and 8.5.0 to 8.5.59 could re-use an HTTP request header value from the previous stream received on an HTTP/2 connection for the request associated with the subsequent stream. While this would most likely lead to an error and the closure of the HTTP/2 connection, it is possible that information could leak between requests.| 
 | 20210205T00:01:23Z | CVE-2020-25213 | Null | https://github.com/forse01/CVE-2020-25213-Wordpress | The File Manager (wp-file-manager) plugin before 6.9 for WordPress allows remote attackers to upload and execute arbitrary PHP code because it renames an unsafe example elFinder connector file to have the .php extension. This, for example, allows attackers to run the elFinder upload (or mkfile and put) command to write PHP code into the wp-content/plugins/wp-file-manager/lib/files/ directory. This was exploited in the wild in August and September 2020.| 
-| 20210204T23:38:03Z | CVE-2021-3156 | Null | https://github.com/blasty/CVE-2021-3156 | Sudo before 1.9.5p2 has a Heap-based Buffer Overflow, allowing privilege escalation to root via %sudoedit -s% and a command-line argument that ends with a single backslash character.| 
+| 20210204T23:38:03Z | CVE-2021-3156 | Null | https://github.com/blasty/CVE-2021-3156 | | 
 | 20210204T17:38:43Z | CVE-2020-5902 | simple bash script of F5 BIG-IP CVE-2020-5902 checker | https://github.com/faisalfs10x/F5-BIG-IP-CVE-2020-5902-checker | In BIG-IP versions 15.0.0-15.1.0.3, 14.1.0-14.1.2.5, 13.1.0-13.1.3.3, 12.1.0-12.1.5.1, and 11.6.1-11.6.5.1, the Traffic Management User Interface (TMUI), also referred to as the Configuration utility, has a Remote Code Execution (RCE) vulnerability in undisclosed pages.| 
 | 20210204T17:38:27Z | CVE-2020-3452 | simple bash script of Cisco CVE-2020-3452 checker  | https://github.com/faisalfs10x/Cisco-CVE-2020-3452-checker | A vulnerability in the web services interface of Cisco Adaptive Security Appliance (ASA) Software and Cisco Firepower Threat Defense (FTD) Software could allow an unauthenticated, remote attacker to conduct directory traversal attacks and read sensitive files on a targeted system. The vulnerability is due to a lack of proper input validation of URLs in HTTP requests processed by an affected device. An attacker could exploit this vulnerability by sending a crafted HTTP request containing directory traversal character sequences to an affected device. A successful exploit could allow the attacker to view arbitrary files within the web services file system on the targeted device. The web services file system is enabled when the affected device is configured with either WebVPN or AnyConnect features. This vulnerability cannot be used to obtain access to ASA or FTD system files or underlying operating system (OS) files.| 
 | 20210204T13:35:06Z | CVE-2021-3156 | Root shell PoC for CVE-2021-3156 | https://github.com/CptGibbon/CVE-2021-3156 | Sudo before 1.9.5p2 has a Heap-based Buffer Overflow, allowing privilege escalation to root via %sudoedit -s% and a command-line argument that ends with a single backslash character.| 
 | 20210204T13:05:02Z | CVE-2021-25646 | CSharp CVE-2021-25646-GUI | https://github.com/AirEvan/CVE-2021-25646-GUI | Apache Druid includes the ability to execute user-provided JavaScript code embedded in various types of requests. This functionality is intended for use in high-trust environments, and is disabled by default. However, in Druid 0.20.0 and earlier, it is possible for an authenticated user to send a specially-crafted request that forces Druid to run user-provided JavaScript code for that request, regardless of server configuration. This can be leveraged to execute code on the target machine with the privileges of the Druid server process.| 
 | 20210204T07:51:56Z | CVE-2021-3156 | CVE-2021-3156 Vagrant Lab | https://github.com/dinhbaouit/CVE-2021-3156 | Sudo before 1.9.5p2 has a Heap-based Buffer Overflow, allowing privilege escalation to root via %sudoedit -s% and a command-line argument that ends with a single backslash character.| 
-| 20210204T07:47:48Z | cve-2021-25646 | Apache Druid 远程代码执行;检测脚本 | https://github.com/yaunsky/cve-2021-25646 | 未查询到CVE信息| 
-| 20210204T06:16:27Z | CVE-2021-3156 | Null | https://github.com/leterts/CVE-2021-3156-sudo-raising | | 
+| 20210204T07:47:48Z | cve-2021-25646 | Apache Druid 远程代码执行;检测脚本 | https://github.com/yaunsky/cve-2021-25646 | | 
+| 20210204T06:16:27Z | CVE-2021-3156 | Null | https://github.com/leterts/CVE-2021-3156-sudo-raising | Sudo before 1.9.5p2 has a Heap-based Buffer Overflow, allowing privilege escalation to root via %sudoedit -s% and a command-line argument that ends with a single backslash character.| 
 
 
 # klee on Github 推荐
@@ -82,10 +82,10 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210205T01:07:32Z | A modern cLVM script execution exploit challenging Roblox%s new security and integrity checks. | https://github.com/AmirAgassi/exWare | 0 | 0| 
 | 20210205T01:02:41Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 7 | 3| 
 | 20210205T00:59:38Z | Pupy is an opensource, cross-platform (Windows, Linux, OSX, Android) remote administration and post-exploitation tool mainly written in python | https://github.com/n1nj4sec/pupy | 6122 | 1576| 
 | 20210205T00:50:00Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 7 | 4| 
-| 20210205T00:25:50Z | A modern cLVM script execution exploit challenging Roblox%s new security and integrity checks. | https://github.com/AmirAgassi/exWare | 0 | 0| 
 | 20210204T23:55:03Z | Null | https://github.com/mikeydamootz/Exploits | 0 | 0| 
 | 20210204T23:54:49Z | Script that lets you enter in an IP address and it will search through the the services to find the CPE%s within the system and scan them to see if the system contains any Common Vulnerabilities and Exploits (CVE%s) according to the Vulner%s API database. | https://github.com/Milo924/Vulners-Report | 0 | 0| 
 | 20210204T23:51:09Z | Thi powershell script has got to run in remote windows host, even for pivoting | https://github.com/FabioDefilippo/winallenum | 0 | 1| 
@@ -97,6 +97,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210205T01:08:26Z | Tool to find potential backdoor/security holes in your endpoint | https://github.com/subasgit/backdoorfinder | 1 | 0| 
 | 20210205T00:59:38Z | Pupy is an opensource, cross-platform (Windows, Linux, OSX, Android) remote administration and post-exploitation tool mainly written in python | https://github.com/n1nj4sec/pupy | 6122 | 1576| 
 | 20210204T23:47:05Z | Three sub-projects of different backdoor attack configurations scaling in complexity, with server and client implementations. | https://github.com/BrunoScaglione/Backdoor-Attack-Simulation | 0 | 0| 
 | 20210204T22:34:58Z | TrojanZoo provides a universal pytorch platform to conduct security researches (especially backdoor attacks/defenses) of image classification in deep learning. | https://github.com/ain-soph/trojanzoo | 38 | 8| 
@@ -106,7 +107,6 @@
 | 20210204T17:22:09Z | AdvDoor: Adversarial Backdoor Attack of Deep Learning System | https://github.com/Anonymous-AdvDoor/AdvDoor | 0 | 0| 
 | 20210204T14:20:24Z | Bilingual PhishingKit. TigerShark intergrates a vast array of various phishing tools and frameworks, from C2 servers, backdoors and delivery methods in multiple scripting languages in order to suit whatever your deployment needs may be. | https://github.com/s1l3nt78/TigerShark | 188 | 29| 
 | 20210204T14:09:18Z | FUD cross-platform python2 backdoor with C2 | https://github.com/7h3w4lk3r/pyback | 15 | 5| 
-| 20210204T10:51:10Z | Null | https://github.com/rabbitx1337/backdoor | 0 | 0| 
 
 
 # fuzz on Github 推荐
