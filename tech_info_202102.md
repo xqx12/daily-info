@@ -83,7 +83,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210206T13:37:49Z | Binary Exploiting 101 | https://github.com/Ingenuity-Fainting-Goats/Binary-Exploiting-101 | 0 | 0| 
+| 20210206T13:40:00Z | Binary Exploiting 101 | https://github.com/Ingenuity-Fainting-Goats/Binary-Exploiting-101 | 0 | 0| 
 | 20210206T13:24:33Z | Null | https://github.com/BurakGunduz-Coder/Exploits | 1 | 0| 
 | 20210206T13:11:37Z | this bash script is for remote linux hosts hacked! | https://github.com/FabioDefilippo/linuxallenum | 8 | 0| 
 | 20210206T13:11:16Z | iOS, ARM binary files for inclusion to an iOS Research DMG Image. Funded by the XSS.Cx Anti-Phishing Team. | https://github.com/xsscx/ios-arm-binaries | 2 | 0| 
