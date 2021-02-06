@@ -68,11 +68,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210206T01:44:43Z | Null | https://github.com/gsuy/electric-pan-control-fuzzy | 0 | 0| 
-| 20210206T01:30:27Z | A variant of a Fuzzy Vault cryptographic scheme designed for encrypting data with better human recovery features. | https://github.com/decentralized-identity/fuzzy-encryption | 20 | 3| 
-| 20210206T01:13:38Z | Proyecto de Sistema Clasificador Difuso Interfaz | https://github.com/pdmeta108/ClassFuzz | 0 | 0| 
-| 20210206T00:27:10Z | This tool uses fzf(1)-like fuzzy-finder to do partial or fuzzy search of Kubernetes resources. Instead of specifying full resource names to kubectl commands, you can choose them from an interactive list that you can filter by typing a few characters. | https://github.com/d-kuro/kubectl-fuzzy | 77 | 9| 
-| 20210206T00:07:12Z | Null | https://github.com/kinzhong/fuzzing-automation-tools | 0 | 0| 
+| 20210206T13:32:09Z | Null | https://github.com/nemoRevers/fuzzy-garbanzo | 1 | 0| 
+| 20210206T13:21:01Z | FuzzSplore: Visualizing Feedback-Driven Fuzzing Techniques | https://github.com/andreafioraldi/FuzzSplore | 21 | 5| 
+| 20210206T13:00:54Z | A groovy/java tabular Data (from CSV,SQL,JSON) processing library that supports fuzzy column matching,tranformations/merging/querying | https://github.com/kayr/fuzzy-csv | 7 | 6| 
+| 20210206T12:52:45Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 1286 | 281| 
+| 20210206T12:22:44Z | Fuzzing cryptographic libraries. Magic bug printer go brrrr. | https://github.com/guidovranken/cryptofuzz | 250 | 33| 
+| 20210206T11:43:59Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 5848 | 1180| 
+| 20210206T11:39:16Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 3333 | 771| 
+| 20210206T10:48:23Z | Ahmad | https://github.com/ahamdwardan/fuzzy-dollop | 0 | 0| 
+| 20210206T08:03:13Z | FuzzBench - Fuzzer benchmarking as a service. | https://github.com/google/fuzzbench | 594 | 98| 
+| 20210206T06:02:43Z | Null | https://github.com/vasumv/bonsai-fuzzing | 0 | 0| 
 
 
 
