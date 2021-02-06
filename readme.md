@@ -23,7 +23,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20210206T09:38:21Z | CVE-2021-3156 | Null | https://github.com/blasty/CVE-2021-3156 | Sudo before 1.9.5p2 has a Heap-based Buffer Overflow, allowing privilege escalation to root via %sudoedit -s% and a command-line argument that ends with a single backslash character.| 
+| 20210206T09:38:21Z | CVE-2021-3156 | Null | https://github.com/blasty/CVE-2021-3156 | | 
 | 20210206T03:08:50Z | CVE-2021-3156 | PoC for CVE-2021-3156 (sudo heap overflow) | https://github.com/stong/CVE-2021-3156 | Sudo before 1.9.5p2 has a Heap-based Buffer Overflow, allowing privilege escalation to root via %sudoedit -s% and a command-line argument that ends with a single backslash character.| 
 
 
@@ -42,9 +42,9 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210206T13:12:51Z | Null | https://github.com/BurakGunduz-Coder/Exploits | 1 | 0| 
 | 20210206T13:11:37Z | this bash script is for remote linux hosts hacked! | https://github.com/FabioDefilippo/linuxallenum | 8 | 0| 
 | 20210206T13:11:16Z | iOS, ARM binary files for inclusion to an iOS Research DMG Image. Funded by the XSS.Cx Anti-Phishing Team. | https://github.com/xsscx/ios-arm-binaries | 2 | 0| 
-| 20210206T13:09:39Z | Null | https://github.com/BurakGunduz-Coder/Exploits | 0 | 0| 
 | 20210206T13:04:48Z | This bash script will help you to hack remote hosts  | https://github.com/FabioDefilippo/linuxallremote | 4 | 1| 
 | 20210206T13:02:29Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 7 | 3| 
 | 20210206T13:01:08Z | Thi powershell script has got to run in remote windows host, even for pivoting | https://github.com/FabioDefilippo/winallenum | 0 | 1| 
