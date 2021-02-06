@@ -29,12 +29,11 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20210205T22:20:18Z | CVE-2021-3156 | PoC for CVE-2021-3156 (sudo heap overflow) | https://github.com/stong/CVE-2021-3156 | Sudo before 1.9.5p2 has a Heap-based Buffer Overflow, allowing privilege escalation to root via %sudoedit -s% and a command-line argument that ends with a single backslash character.| 
 | 20210205T18:33:48Z | CVE-2021-3156 | Null | https://github.com/blasty/CVE-2021-3156 | Sudo before 1.9.5p2 has a Heap-based Buffer Overflow, allowing privilege escalation to root via %sudoedit -s% and a command-line argument that ends with a single backslash character.| 
-| 20210205T14:51:49Z | cve-2020-17523 | shiro-cve-2020-17523 漏洞的两种绕过姿势分析（带漏洞环境） | https://github.com/jweny/shiro-cve-2020-17523 | | 
-| 20210205T11:22:31Z | CVE-2021-3156 | Root shell PoC for CVE-2021-3156 | https://github.com/CptGibbon/CVE-2021-3156 | | 
+| 20210205T14:51:49Z | cve-2020-17523 | shiro-cve-2020-17523 漏洞的两种绕过姿势分析（带漏洞环境） | https://github.com/jweny/shiro-cve-2020-17523 | 未查询到CVE信息| 
+| 20210205T11:22:31Z | CVE-2021-3156 | Root shell PoC for CVE-2021-3156 | https://github.com/CptGibbon/CVE-2021-3156 | Sudo before 1.9.5p2 has a Heap-based Buffer Overflow, allowing privilege escalation to root via %sudoedit -s% and a command-line argument that ends with a single backslash character.| 
 | 20210205T09:07:20Z | CVE-2021-3157 | Null | https://github.com/Y3rbit4/CVE-2021-3157 | 未查询到CVE信息| 
-| 20210205T07:50:37Z | CVE-2020-14181 | Poc for CVE-2020-14181 | https://github.com/bk-rao/CVE-2020-14181 | | 
+| 20210205T07:50:37Z | CVE-2020-14181 | Poc for CVE-2020-14181 | https://github.com/bk-rao/CVE-2020-14181 | Affected versions of Atlassian Jira Server and Data Center allow an unauthenticated user to enumerate users via an Information Disclosure vulnerability in the /ViewUserHover.jspa endpoint. The affected versions are before version 7.13.6, from version 8.0.0 before 8.5.7, and from version 8.6.0 before 8.12.0.| 
 | 20210205T03:55:00Z | CVE-2021-25646 | CSharp CVE-2021-25646-GUI | https://github.com/AirEvan/CVE-2021-25646-GUI | Apache Druid includes the ability to execute user-provided JavaScript code embedded in various types of requests. This functionality is intended for use in high-trust environments, and is disabled by default. However, in Druid 0.20.0 and earlier, it is possible for an authenticated user to send a specially-crafted request that forces Druid to run user-provided JavaScript code for that request, regardless of server configuration. This can be leveraged to execute code on the target machine with the privileges of the Druid server process.| 
 | 20210205T01:10:50Z | CVE-2020-17527 | Null | https://github.com/forse01/CVE-2020-17527-Tomcat | While investigating bug 64830 it was discovered that Apache Tomcat 10.0.0-M1 to 10.0.0-M9, 9.0.0-M1 to 9.0.39 and 8.5.0 to 8.5.59 could re-use an HTTP request header value from the previous stream received on an HTTP/2 connection for the request associated with the subsequent stream. While this would most likely lead to an error and the closure of the HTTP/2 connection, it is possible that information could leak between requests.| 
 | 20210205T00:01:23Z | CVE-2020-25213 | Null | https://github.com/forse01/CVE-2020-25213-Wordpress | The File Manager (wp-file-manager) plugin before 6.9 for WordPress allows remote attackers to upload and execute arbitrary PHP code because it renames an unsafe example elFinder connector file to have the .php extension. This, for example, allows attackers to run the elFinder upload (or mkfile and put) command to write PHP code into the wp-content/plugins/wp-file-manager/lib/files/ directory. This was exploited in the wild in August and September 2020.| 
@@ -87,16 +86,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210205T12:53:15Z | Null | https://github.com/opimentel-github/fuzzy-torch | 0 | 0| 
-| 20210205T12:51:35Z | An advances web fuzzing tool | https://github.com/agpriyansh/orbit | 0 | 0| 
-| 20210205T12:50:03Z | Null | https://github.com/code-evince/Traffic-Lights-Fuzzy-Logic | 0 | 0| 
-| 20210205T12:31:12Z | Null | https://github.com/TomLloyd92/FuzzyLogic | 0 | 0| 
-| 20210205T12:29:46Z | CSFuzz: Call Sequence-based Greybox Fuzzing Tool | https://github.com/csfuzz/CSFuzz | 0 | 0| 
-| 20210205T12:20:09Z | Null | https://github.com/Rizwana-coder/Fuzzy-Engine | 0 | 0| 
-| 20210205T11:58:32Z | Null | https://github.com/fuzzsa/fuzzsa-bugs | 0 | 1| 
-| 20210205T11:41:23Z | Fuzzing powered by grammar coverage | https://github.com/havrikov/tribble | 0 | 0| 
-| 20210205T11:39:22Z | A groovy/java tabular Data (from CSV,SQL,JSON) processing library that supports fuzzy column matching,tranformations/merging/querying | https://github.com/kayr/fuzzy-csv | 7 | 6| 
-| 20210205T11:27:22Z | Personal website of Laurence Hughes | https://github.com/fuzzylogicxx/fuzzylogic | 4 | 1| 
+| 20210205T23:40:47Z | A %directory/file% fuzzer/buster that ate some lead paint. | https://github.com/darrenmartyn/plumbumvigil | 1 | 0| 
+| 20210205T22:33:30Z | Generate code for json encoders/decoders, codecs, fuzzers, generators, and more | https://github.com/MartinSStewart/elm-review-todo-it-for-me | 0 | 0| 
+| 20210205T22:17:53Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2263 | 116| 
+| 20210205T21:44:09Z | Null | https://github.com/mspfi/fuzzy-adventure | 0 | 0| 
+| 20210205T21:20:48Z | A fork and successor of the Sulley Fuzzing Framework | https://github.com/jtpereyda/boofuzz | 1148 | 230| 
+| 20210205T19:39:17Z | Projekt na Programowanie aplikacji biznesowych | https://github.com/wojtekwrona232/fuzzy-winner | 0 | 0| 
+| 20210205T19:14:28Z | Bazel Starlark extensions for defining fuzz tests in Bazel projects | https://github.com/bazelbuild/rules_fuzzing | 8 | 2| 
+| 20210205T18:20:04Z | An advances web fuzzing tool | https://github.com/agpriyansh/orbit | 0 | 0| 
+| 20210205T18:06:18Z | Null | https://github.com/googleinterns/hw-fuzzing | 3 | 0| 
+| 20210205T18:05:33Z | A differential fuzzer for x86 decoders | https://github.com/trailofbits/mishegos | 124 | 17| 
 
 
 
