@@ -31,29 +31,29 @@
 # 安全维基 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20210206 | AVATAR：通过修复静态分析冲突的模式来修复语义错误 | https://mp.weixin.qq.com/s/w9SjsI3WVmghVVQGwtkyUQ| 
+| 20210206 | SerialDetector：Web对象注入漏洞的原理和实践探索 | https://mp.weixin.qq.com/s/doFTqJcA30AwgUUtK5XqMQ| 
+| 20210206 | 基于DTLS协议的反射攻击深度分析 | https://mp.weixin.qq.com/s/Ye_AuMDLQotv3M5rv9OmOA| 
+| 20210206 | 内部审计实务指南—信息系统审计 | http://www.ciia.com.cn/cndetail.html?id=78547| 
+| 20210206 | 中文综述文章列表（自然语言处理&机器学习） | https://github.com/NiuTrans/CNSurvey| 
+| 20210206 | 2020年全球国防网络空间情况综述（武器技术篇-下） | https://mp.weixin.qq.com/s/kd6YahJcqB2NWq3IP2XztQ| 
+| 20210206 | 2020年全球国防网络空间情况综述（武器技术篇-上） | https://mp.weixin.qq.com/s/piWwrlXZTcgN0Tsr2MiLew| 
 | 20210205 | 让网络空间测绘技术不再那么飘忽不定 | https://mp.weixin.qq.com/s/lr39F9kNOfHlMimgymzVwg| 
 | 20210205 | gatekeeper: First open-source DDoS protection system | https://github.com/AltraMayor/gatekeeper| 
 | 20210205 | Mitre Att&ck detection coverage tracking with Kibana | https://hmnguyen1201.github.io/Mitre-Att-ck-table/| 
-| 20210205 | 2020全球高级持续性威胁APT研究报告 | https://zt.360.cn/1101061855.php?dtid=1101062360&did=211138962| 
-| 20210204 | 2021HWS冬令营线上赛固件安全-WriteUp | https://mp.weixin.qq.com/s/fwbFMHuVdX-FNa7dB5mw0Q| 
-| 20210203 | Metasploit 的 payload 特征 | https://mp.weixin.qq.com/s/C8jHikFag_CulJIcq0filg| 
-| 20210203 | 安卓Native层共享库fuzzing技术思路及实践 | https://mp.weixin.qq.com/s/eqYj385SGCUo5errVx2CZg| 
-| 20210202 | 技术分享 , 锦行杯比赛 Writeup | https://mp.weixin.qq.com/s/mYCDsbERsgph5zu-4-lyKQ| 
-| 20210202 | 代码审计 PHP基础（二） | https://www.sec-in.com/article/855| 
-| 20210202 | 九阴真经：iOS黑客攻防秘籍 | /book/71| 
 
 
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20210206T01:38:43Z | CVE-2021-3156 | PoC for CVE-2021-3156 (sudo heap overflow) | https://github.com/stong/CVE-2021-3156 | Sudo before 1.9.5p2 has a Heap-based Buffer Overflow, allowing privilege escalation to root via %sudoedit -s% and a command-line argument that ends with a single backslash character.| 
-| 20210205T18:33:48Z | CVE-2021-3156 | Null | https://github.com/blasty/CVE-2021-3156 | Sudo before 1.9.5p2 has a Heap-based Buffer Overflow, allowing privilege escalation to root via %sudoedit -s% and a command-line argument that ends with a single backslash character.| 
+| 20210206T09:38:21Z | CVE-2021-3156 | Null | https://github.com/blasty/CVE-2021-3156 | | 
+| 20210206T03:08:50Z | CVE-2021-3156 | PoC for CVE-2021-3156 (sudo heap overflow) | https://github.com/stong/CVE-2021-3156 | Sudo before 1.9.5p2 has a Heap-based Buffer Overflow, allowing privilege escalation to root via %sudoedit -s% and a command-line argument that ends with a single backslash character.| 
 | 20210205T14:51:49Z | cve-2020-17523 | shiro-cve-2020-17523 漏洞的两种绕过姿势分析（带漏洞环境） | https://github.com/jweny/shiro-cve-2020-17523 | 未查询到CVE信息| 
 | 20210205T11:22:31Z | CVE-2021-3156 | Root shell PoC for CVE-2021-3156 | https://github.com/CptGibbon/CVE-2021-3156 | Sudo before 1.9.5p2 has a Heap-based Buffer Overflow, allowing privilege escalation to root via %sudoedit -s% and a command-line argument that ends with a single backslash character.| 
 | 20210205T09:07:20Z | CVE-2021-3157 | Null | https://github.com/Y3rbit4/CVE-2021-3157 | 未查询到CVE信息| 
 | 20210205T07:50:37Z | CVE-2020-14181 | Poc for CVE-2020-14181 | https://github.com/bk-rao/CVE-2020-14181 | Affected versions of Atlassian Jira Server and Data Center allow an unauthenticated user to enumerate users via an Information Disclosure vulnerability in the /ViewUserHover.jspa endpoint. The affected versions are before version 7.13.6, from version 8.0.0 before 8.5.7, and from version 8.6.0 before 8.12.0.| 
 | 20210205T03:55:00Z | CVE-2021-25646 | CSharp CVE-2021-25646-GUI | https://github.com/AirEvan/CVE-2021-25646-GUI | Apache Druid includes the ability to execute user-provided JavaScript code embedded in various types of requests. This functionality is intended for use in high-trust environments, and is disabled by default. However, in Druid 0.20.0 and earlier, it is possible for an authenticated user to send a specially-crafted request that forces Druid to run user-provided JavaScript code for that request, regardless of server configuration. This can be leveraged to execute code on the target machine with the privileges of the Druid server process.| 
-| 20210205T01:10:50Z | CVE-2020-17527 | Null | https://github.com/forse01/CVE-2020-17527-Tomcat | While investigating bug 64830 it was discovered that Apache Tomcat 10.0.0-M1 to 10.0.0-M9, 9.0.0-M1 to 9.0.39 and 8.5.0 to 8.5.59 could re-use an HTTP request header value from the previous stream received on an HTTP/2 connection for the request associated with the subsequent stream. While this would most likely lead to an error and the closure of the HTTP/2 connection, it is possible that information could leak between requests.| 
+| 20210205T01:10:50Z | CVE-2020-17527 | Null | https://github.com/forse01/CVE-2020-17527-Tomcat | | 
 | 20210205T00:01:23Z | CVE-2020-25213 | Null | https://github.com/forse01/CVE-2020-25213-Wordpress | The File Manager (wp-file-manager) plugin before 6.9 for WordPress allows remote attackers to upload and execute arbitrary PHP code because it renames an unsafe example elFinder connector file to have the .php extension. This, for example, allows attackers to run the elFinder upload (or mkfile and put) command to write PHP code into the wp-content/plugins/wp-file-manager/lib/files/ directory. This was exploited in the wild in August and September 2020.| 
 | 20210204T17:38:43Z | CVE-2020-5902 | simple bash script of F5 BIG-IP CVE-2020-5902 checker | https://github.com/faisalfs10x/F5-BIG-IP-CVE-2020-5902-checker | In BIG-IP versions 15.0.0-15.1.0.3, 14.1.0-14.1.2.5, 13.1.0-13.1.3.3, 12.1.0-12.1.5.1, and 11.6.1-11.6.5.1, the Traffic Management User Interface (TMUI), also referred to as the Configuration utility, has a Remote Code Execution (RCE) vulnerability in undisclosed pages.| 
 
@@ -61,14 +61,14 @@
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210206T01:11:07Z | An open-source Chinese font derived from Fontworks% Klee One | https://github.com/lxgw/LxgwWenKai | 20 | 0| 
+| 20210206T12:48:44Z | An open-source Chinese font derived from Fontworks% Klee One | https://github.com/lxgw/LxgwWenKai | 19 | 0| 
+| 20210206T12:22:59Z | ⬇️ File Upload/sharing application, used by thousands of webmasters since 2007.  | https://github.com/kleeja-official/kleeja | 112 | 33| 
 | 20210205T10:16:53Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1623 | 482| 
 | 20210205T08:46:22Z | RVT is a collection of tools/libraries to support both static and dynamic verification of Rust programs. | https://github.com/project-oak/rust-verification-tools | 107 | 6| 
 | 20210205T02:11:25Z | Create CFGs and compute complexity metrics for Python, C++, and Java code. | https://github.com/hmc-alpaqa/metrinome | 5 | 0| 
 | 20210204T23:50:58Z | A personnal UI library made as an excuse to have a published UI package | https://github.com/Liinkiing/klee | 5 | 1| 
 | 20210204T22:44:58Z | hw3-klee8880 created by GitHub Classroom | https://github.com/depaulcdm/hw3-klee8880 | 0 | 0| 
 | 20210204T17:38:30Z | Proyecto universitario donde se presenta una solucion C++(Visual Studio) a una variante del clasico problema de la galeria de arte propuesto incialmente por Victor Klee en 1973 | https://github.com/arielbertino/Galeria-de-Arte | 0 | 0| 
-| 20210204T15:58:20Z | ⬇️ File Upload/sharing application, used by thousands of webmasters since 2007.  | https://github.com/kleeja-official/kleeja | 111 | 33| 
 | 20210204T14:08:04Z | Null | https://github.com/fontworks-fonts/Klee | 352 | 9| 
 | 20210204T13:10:41Z | Klee Work Adventure | https://github.com/r-bdns/kwa | 0 | 0| 
 
@@ -83,31 +83,31 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210206T02:56:43Z | used by many p2c%s ;/ | https://github.com/homeless1337/fortnite-exploits | 4 | 2| 
-| 20210206T02:52:42Z | Null | https://github.com/ParagonCheats/Paragon-Exploit | 0 | 0| 
-| 20210206T02:47:15Z | Fix exploits on anarchy minecraft servers | https://github.com/moom0o/AnarchyExploitFixes | 11 | 6| 
-| 20210206T02:46:26Z | A simple Python Exploit to Write Data to Insecure/vulnerable firebase databases! Commonly found inside Mobile Apps. If the owner of the app have set the security rules as true for both %read% & %write% an attacker can probably dump database and write his own data to firebase db. | https://github.com/MuhammadKhizerJaved/Insecure-Firebase-Exploit | 108 | 37| 
-| 20210206T02:02:42Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 7 | 3| 
-| 20210206T02:01:41Z | Various ASM, C and C++ tools, shellcodes and exploit experiments. | https://github.com/forrest-orr/ExploitDev | 40 | 2| 
-| 20210206T01:34:34Z | Null | https://github.com/MLD3/Deep-Learning-Applied-to-Chest-X-rays-Exploiting-and-Preventing-Shortcuts | 0 | 0| 
-| 20210206T01:26:50Z | Null | https://github.com/brerodrigues/exploit_drafts | 0 | 0| 
-| 20210206T01:12:31Z | Null | https://github.com/MLD3/Deep-Learning-Applied-to-Chest-X-rays---Exploiting-and-Preventing-Shortcuts | 0 | 0| 
-| 20210206T00:51:25Z | forked version of funtuna, a homebrew ps2 app launcher designed to ease the pain of getting a stable exploit for those that have a console uncompatible with FreeMcBoot that doesnt have a modchip | https://github.com/israpps/Funtuna-Fork | 1 | 0| 
+| 20210206T13:01:08Z | Thi powershell script has got to run in remote windows host, even for pivoting | https://github.com/FabioDefilippo/winallenum | 0 | 1| 
+| 20210206T12:57:26Z | Exploitation Framework for Embedded Devices | https://github.com/threat9/routersploit | 8980 | 1978| 
+| 20210206T12:51:34Z | this bash script is for remote linux hosts hacked! | https://github.com/FabioDefilippo/linuxallenum | 8 | 0| 
+| 20210206T12:02:50Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 7 | 3| 
+| 20210206T11:56:20Z | My 2nd Attempt at making an exploit with KRNL and Electron%s DLLs. | https://github.com/dxrrk/Dxrrkapse-X | 0 | 0| 
+| 20210206T11:50:37Z | Linux Kernel Runtime Guard (LKRG). LKRG performs runtime integrity checking of the Linux kernel and detection of security vulnerability exploits against the kernel. Debian packaging fork only. Fork Homepage: https://www.whonix.org/wiki/Linux_Kernel_Runtime_Guard_LKRG Upstream original: https://www.openwall.com/lkrg/ | https://github.com/Whonix/lkrg | 14 | 3| 
+| 20210206T11:38:27Z | Cross-platform post-exploitation HTTP Command & Control agent written in golang | https://github.com/MythicAgents/merlin | 1 | 0| 
+| 20210206T11:35:11Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 8977 | 1442| 
+| 20210206T11:28:44Z | K8博客内容存档 | https://github.com/k8gege/k8gege.github.io | 11 | 6| 
+| 20210206T11:24:05Z | FudgeC2 - a command and control framework designed for team collaboration and post-exploitation activities. | https://github.com/Ziconius/FudgeC2 | 189 | 44| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210206T11:58:47Z | Null | https://github.com/1MiKHalyCH1/backdoored_cipher | 0 | 0| 
+| 20210206T10:11:22Z | Pupy is an opensource, cross-platform (Windows, Linux, OSX, Android) remote administration and post-exploitation tool mainly written in python | https://github.com/n1nj4sec/pupy | 6125 | 1577| 
+| 20210206T07:16:07Z | This is an implementation demo of the ICLR 2021 paper [Neural Attention Distillation: Erasing Backdoor Triggers from Deep Neural Networks](https://arxiv.org/abs/2101.05930) in PyTorch. | https://github.com/bboylyg/NAD | 10 | 3| 
+| 20210206T05:51:50Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 165 | 24| 
 | 20210206T00:39:52Z | Tool to find potential backdoor/security holes in your endpoint | https://github.com/subasgit/backdoorfinder | 1 | 0| 
 | 20210206T00:07:54Z | Hacking tools pack & backdoors generator. | https://github.com/AdrMXR/KitHack | 337 | 57| 
 | 20210205T23:51:26Z | Motorola NC1500 Backdoor Password | https://github.com/billchaison/nc1500 | 2 | 0| 
 | 20210205T21:24:36Z | Null | https://github.com/EjHvorSerDuVildUdJim/backdoor | 0 | 0| 
 | 20210205T21:07:53Z | Backdoor for Garry`s Mod | https://github.com/luajscss/gbackdoor | 0 | 0| 
 | 20210205T18:29:31Z | Dashboard for conducting Backdoors and Breaches sessions over Zoom. | https://github.com/p3hndrx/B-B-Shuffle | 1 | 0| 
-| 20210205T18:16:59Z | FUD cross-platform python2 backdoor with C2 | https://github.com/7h3w4lk3r/pyback | 15 | 5| 
-| 20210205T17:38:32Z | Null | https://github.com/ph-luffy/Backdoor | 1 | 1| 
-| 20210205T15:48:00Z | Three sub-projects of different backdoor attack configurations scaling in complexity, with server and client implementations. | https://github.com/BrunoScaglione/Backdoor-Attack-Simulation | 0 | 0| 
-| 20210205T14:29:04Z | Pupy is an opensource, cross-platform (Windows, Linux, OSX, Android) remote administration and post-exploitation tool mainly written in python | https://github.com/n1nj4sec/pupy | 6124 | 1577| 
 
 
 # fuzz on Github 推荐
