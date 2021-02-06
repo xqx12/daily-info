@@ -42,6 +42,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210206T13:04:48Z | This bash script will help you to hack remote hosts  | https://github.com/FabioDefilippo/linuxallremote | 4 | 1| 
 | 20210206T13:02:29Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 7 | 3| 
 | 20210206T13:01:08Z | Thi powershell script has got to run in remote windows host, even for pivoting | https://github.com/FabioDefilippo/winallenum | 0 | 1| 
 | 20210206T12:57:26Z | Exploitation Framework for Embedded Devices | https://github.com/threat9/routersploit | 8980 | 1978| 
@@ -51,7 +52,6 @@
 | 20210206T11:38:27Z | Cross-platform post-exploitation HTTP Command & Control agent written in golang | https://github.com/MythicAgents/merlin | 1 | 0| 
 | 20210206T11:35:11Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 8977 | 1442| 
 | 20210206T11:28:44Z | K8博客内容存档 | https://github.com/k8gege/k8gege.github.io | 11 | 6| 
-| 20210206T11:24:05Z | FudgeC2 - a command and control framework designed for team collaboration and post-exploitation activities. | https://github.com/Ziconius/FudgeC2 | 189 | 44| 
 
 
 # backdoor on Github 推荐
