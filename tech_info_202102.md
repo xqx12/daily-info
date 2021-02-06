@@ -55,7 +55,7 @@
 | 20210205T03:55:00Z | CVE-2021-25646 | CSharp CVE-2021-25646-GUI | https://github.com/AirEvan/CVE-2021-25646-GUI | Apache Druid includes the ability to execute user-provided JavaScript code embedded in various types of requests. This functionality is intended for use in high-trust environments, and is disabled by default. However, in Druid 0.20.0 and earlier, it is possible for an authenticated user to send a specially-crafted request that forces Druid to run user-provided JavaScript code for that request, regardless of server configuration. This can be leveraged to execute code on the target machine with the privileges of the Druid server process.| 
 | 20210205T01:10:50Z | CVE-2020-17527 | Null | https://github.com/forse01/CVE-2020-17527-Tomcat | While investigating bug 64830 it was discovered that Apache Tomcat 10.0.0-M1 to 10.0.0-M9, 9.0.0-M1 to 9.0.39 and 8.5.0 to 8.5.59 could re-use an HTTP request header value from the previous stream received on an HTTP/2 connection for the request associated with the subsequent stream. While this would most likely lead to an error and the closure of the HTTP/2 connection, it is possible that information could leak between requests.| 
 | 20210205T00:01:23Z | CVE-2020-25213 | Null | https://github.com/forse01/CVE-2020-25213-Wordpress | The File Manager (wp-file-manager) plugin before 6.9 for WordPress allows remote attackers to upload and execute arbitrary PHP code because it renames an unsafe example elFinder connector file to have the .php extension. This, for example, allows attackers to run the elFinder upload (or mkfile and put) command to write PHP code into the wp-content/plugins/wp-file-manager/lib/files/ directory. This was exploited in the wild in August and September 2020.| 
-| 20210204T17:38:43Z | CVE-2020-5902 | simple bash script of F5 BIG-IP CVE-2020-5902 checker | https://github.com/faisalfs10x/F5-BIG-IP-CVE-2020-5902-checker | | 
+| 20210204T17:38:43Z | CVE-2020-5902 | simple bash script of F5 BIG-IP CVE-2020-5902 checker | https://github.com/faisalfs10x/F5-BIG-IP-CVE-2020-5902-checker | In BIG-IP versions 15.0.0-15.1.0.3, 14.1.0-14.1.2.5, 13.1.0-13.1.3.3, 12.1.0-12.1.5.1, and 11.6.1-11.6.5.1, the Traffic Management User Interface (TMUI), also referred to as the Configuration utility, has a Remote Code Execution (RCE) vulnerability in undisclosed pages.| 
 
 
 # klee on Github 推荐
@@ -83,6 +83,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210206T13:09:39Z | Null | https://github.com/BurakGunduz-Coder/Exploits | 0 | 0| 
 | 20210206T13:04:48Z | This bash script will help you to hack remote hosts  | https://github.com/FabioDefilippo/linuxallremote | 4 | 1| 
 | 20210206T13:02:29Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 7 | 3| 
 | 20210206T13:01:08Z | Thi powershell script has got to run in remote windows host, even for pivoting | https://github.com/FabioDefilippo/winallenum | 0 | 1| 
@@ -92,7 +93,6 @@
 | 20210206T11:50:37Z | Linux Kernel Runtime Guard (LKRG). LKRG performs runtime integrity checking of the Linux kernel and detection of security vulnerability exploits against the kernel. Debian packaging fork only. Fork Homepage: https://www.whonix.org/wiki/Linux_Kernel_Runtime_Guard_LKRG Upstream original: https://www.openwall.com/lkrg/ | https://github.com/Whonix/lkrg | 14 | 3| 
 | 20210206T11:38:27Z | Cross-platform post-exploitation HTTP Command & Control agent written in golang | https://github.com/MythicAgents/merlin | 1 | 0| 
 | 20210206T11:35:11Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 8977 | 1442| 
-| 20210206T11:28:44Z | K8博客内容存档 | https://github.com/k8gege/k8gege.github.io | 11 | 6| 
 
 
 # backdoor on Github 推荐
