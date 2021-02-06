@@ -42,6 +42,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210206T13:35:43Z | Binary Exploiting 101 | https://github.com/Ingenuity-Fainting-Goats/Binary-Exploiting-101 | 0 | 0| 
 | 20210206T13:24:33Z | Null | https://github.com/BurakGunduz-Coder/Exploits | 1 | 0| 
 | 20210206T13:11:37Z | this bash script is for remote linux hosts hacked! | https://github.com/FabioDefilippo/linuxallenum | 8 | 0| 
 | 20210206T13:11:16Z | iOS, ARM binary files for inclusion to an iOS Research DMG Image. Funded by the XSS.Cx Anti-Phishing Team. | https://github.com/xsscx/ios-arm-binaries | 2 | 0| 
@@ -51,7 +52,6 @@
 | 20210206T12:57:26Z | Exploitation Framework for Embedded Devices | https://github.com/threat9/routersploit | 8980 | 1978| 
 | 20210206T11:56:20Z | My 2nd Attempt at making an exploit with KRNL and Electron%s DLLs. | https://github.com/dxrrk/Dxrrkapse-X | 0 | 0| 
 | 20210206T11:50:37Z | Linux Kernel Runtime Guard (LKRG). LKRG performs runtime integrity checking of the Linux kernel and detection of security vulnerability exploits against the kernel. Debian packaging fork only. Fork Homepage: https://www.whonix.org/wiki/Linux_Kernel_Runtime_Guard_LKRG Upstream original: https://www.openwall.com/lkrg/ | https://github.com/Whonix/lkrg | 14 | 3| 
-| 20210206T11:38:27Z | Cross-platform post-exploitation HTTP Command & Control agent written in golang | https://github.com/MythicAgents/merlin | 1 | 0| 
 
 
 # backdoor on Github 推荐
