@@ -98,7 +98,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210206T21:26:52Z | A backdoor bot for discord servers | https://github.com/BinCT/Protocol-Bot | 3 | 1| 
+| 20210207T02:23:21Z | A backdoor bot for discord servers | https://github.com/BinCT/Protocol-Bot | 3 | 1| 
 | 20210206T21:05:36Z | Null | https://github.com/Wiilldd/backdoor | 0 | 0| 
 | 20210206T19:10:27Z | Null | https://github.com/iK4oS/PremiumBackdoor.exe | 0 | 1| 
 | 20210206T18:37:36Z | Fud Persistent Windows Backdoor developed purely in python | https://github.com/swagkarna/Chuvi-Botnet | 6 | 3| 
@@ -113,6 +113,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210207T02:19:30Z | Security oriented software fuzzer. Supports evolutionary, feedback-driven fuzzing based on code coverage (SW and HW based) | https://github.com/google/honggfuzz | 2129 | 431| 
 | 20210207T01:13:59Z | Null | https://github.com/TrentAI/Artificial_Fuzz | 0 | 0| 
 | 20210207T01:12:16Z | A variant of a Fuzzy Vault cryptographic scheme designed for encrypting data with better human recovery features. | https://github.com/decentralized-identity/fuzzy-encryption | 20 | 3| 
 | 20210207T00:31:34Z | fuzzyset.js - A fuzzy string set for javascript | https://github.com/Glench/fuzzyset.js | 1200 | 98| 
@@ -122,7 +123,6 @@
 | 20210206T22:38:12Z | Generate code for json encoders/decoders, codecs, fuzzers, generators, and more | https://github.com/MartinSStewart/elm-review-todo-it-for-me | 0 | 0| 
 | 20210206T22:13:37Z | Experimental - replacing Euclidean distance with Levenshtein edit distance in the kmeans algorithm. | https://github.com/Matthew-Amos/fuzzy-kmeans | 0 | 0| 
 | 20210206T21:59:28Z | Thesis Dissertation | https://github.com/mchara01/webFuzz_Thesis | 0 | 0| 
-| 20210206T21:43:30Z | Fuzzing cryptographic libraries. Magic bug printer go brrrr. | https://github.com/guidovranken/cryptofuzz | 250 | 33| 
 
 
 

@@ -57,7 +57,6 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210206T21:26:52Z | A backdoor bot for discord servers | https://github.com/BinCT/Protocol-Bot | 3 | 1| 
 | 20210206T21:05:36Z | Null | https://github.com/Wiilldd/backdoor | 0 | 0| 
 | 20210206T19:10:27Z | Null | https://github.com/iK4oS/PremiumBackdoor.exe | 0 | 1| 
 | 20210206T18:37:36Z | Fud Persistent Windows Backdoor developed purely in python | https://github.com/swagkarna/Chuvi-Botnet | 6 | 3| 
@@ -67,6 +66,7 @@
 | 20210206T10:11:22Z | Pupy is an opensource, cross-platform (Windows, Linux, OSX, Android) remote administration and post-exploitation tool mainly written in python | https://github.com/n1nj4sec/pupy | 6125 | 1577| 
 | 20210206T07:16:07Z | This is an implementation demo of the ICLR 2021 paper [Neural Attention Distillation: Erasing Backdoor Triggers from Deep Neural Networks](https://arxiv.org/abs/2101.05930) in PyTorch. | https://github.com/bboylyg/NAD | 10 | 3| 
 | 20210206T05:51:50Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 165 | 24| 
+| 20210206T00:39:52Z | Tool to find potential backdoor/security holes in your endpoint | https://github.com/subasgit/backdoorfinder | 1 | 0| 
 
 
 # fuzz on Github 推荐
