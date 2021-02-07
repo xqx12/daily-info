@@ -46,7 +46,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20210207T02:40:41Z | CVE-2021-3345 | Null | https://github.com/MLGRadish/CVE-2021-3345 | _gcry_md_block_write in cipher/hash-common.c in Libgcrypt version 1.9.0 has a heap-based buffer overflow when the digest final function sets a large count value. It is recommended to upgrade to 1.9.1 or later.| 
+| 20210207T02:40:41Z | CVE-2021-3345 | Null | https://github.com/MLGRadish/CVE-2021-3345 | | 
 | 20210207T02:20:43Z | cve-2020-17523 | shiro-cve-2020-17523 漏洞的两种绕过姿势分析（带漏洞环境） | https://github.com/jweny/shiro-cve-2020-17523 | 未查询到CVE信息| 
 | 20210207T00:54:36Z | CVE-2021-3156 | PoC for CVE-2021-3156 (sudo heap overflow) | https://github.com/stong/CVE-2021-3156 | Sudo before 1.9.5p2 has a Heap-based Buffer Overflow, allowing privilege escalation to root via %sudoedit -s% and a command-line argument that ends with a single backslash character.| 
 | 20210206T23:01:26Z | CVE-2021-3156 | Null | https://github.com/blasty/CVE-2021-3156 | Sudo before 1.9.5p2 has a Heap-based Buffer Overflow, allowing privilege escalation to root via %sudoedit -s% and a command-line argument that ends with a single backslash character.| 
@@ -98,7 +98,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210207T02:23:21Z | A backdoor bot for discord servers | https://github.com/BinCT/Protocol-Bot | 3 | 1| 
+| 20210207T02:54:56Z | A backdoor bot for discord servers | https://github.com/BinCT/Protocol-Bot | 3 | 1| 
 | 20210206T21:05:36Z | Null | https://github.com/Wiilldd/backdoor | 0 | 0| 
 | 20210206T19:10:27Z | Null | https://github.com/iK4oS/PremiumBackdoor.exe | 0 | 1| 
 | 20210206T18:37:36Z | Fud Persistent Windows Backdoor developed purely in python | https://github.com/swagkarna/Chuvi-Botnet | 6 | 3| 
