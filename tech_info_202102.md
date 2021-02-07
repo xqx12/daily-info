@@ -48,7 +48,7 @@
 | --- | --- | --- | --- | ---| 
 | 20210207T02:06:52Z | cve-2020-17523 | shiro-cve-2020-17523 漏洞的两种绕过姿势分析（带漏洞环境） | https://github.com/jweny/shiro-cve-2020-17523 | 未查询到CVE信息| 
 | 20210207T00:54:36Z | CVE-2021-3156 | PoC for CVE-2021-3156 (sudo heap overflow) | https://github.com/stong/CVE-2021-3156 | Sudo before 1.9.5p2 has a Heap-based Buffer Overflow, allowing privilege escalation to root via %sudoedit -s% and a command-line argument that ends with a single backslash character.| 
-| 20210206T23:01:26Z | CVE-2021-3156 | Null | https://github.com/blasty/CVE-2021-3156 | | 
+| 20210206T23:01:26Z | CVE-2021-3156 | Null | https://github.com/blasty/CVE-2021-3156 | Sudo before 1.9.5p2 has a Heap-based Buffer Overflow, allowing privilege escalation to root via %sudoedit -s% and a command-line argument that ends with a single backslash character.| 
 | 20210206T21:20:07Z | CVE-2021-3156 | Null | https://github.com/1N53C/CVE-2021-3156-PoC | Sudo before 1.9.5p2 has a Heap-based Buffer Overflow, allowing privilege escalation to root via %sudoedit -s% and a command-line argument that ends with a single backslash character.| 
 | 20210205T11:22:31Z | CVE-2021-3156 | Root shell PoC for CVE-2021-3156 | https://github.com/CptGibbon/CVE-2021-3156 | Sudo before 1.9.5p2 has a Heap-based Buffer Overflow, allowing privilege escalation to root via %sudoedit -s% and a command-line argument that ends with a single backslash character.| 
 | 20210205T09:07:20Z | CVE-2021-3157 | Null | https://github.com/Y3rbit4/CVE-2021-3157 | 未查询到CVE信息| 
@@ -83,7 +83,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210207T02:16:38Z | Null | https://github.com/swaghorse69/psu-exploit-source-no-dll-btw | 0 | 0| 
+| 20210207T02:20:15Z | A phased, evasive Path Traversal + LFI scanning & exploitation tool in Python | https://github.com/VainlyStrain/Vailyn | 90 | 2| 
+| 20210207T02:19:25Z | Null | https://github.com/swaghorse69/psu-exploit-source-no-dll-btw | 0 | 0| 
 | 20210207T02:02:40Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 7 | 3| 
 | 20210207T01:49:05Z | server full exploit | https://github.com/koplan-dev/samp-server-full-exploit | 0 | 0| 
 | 20210207T01:47:49Z | server full exploit | https://github.com/koplan-dev/samp-full-exploit | 0 | 0| 
@@ -92,7 +93,6 @@
 | 20210207T00:53:25Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 8981 | 1442| 
 | 20210206T23:18:37Z | A Discord bot that detects and bans users who attempt to speak while appearing as muted or deafened. | https://github.com/Caeden117/VCMuteExploitDetectionBot | 0 | 0| 
 | 20210206T22:47:20Z | TryHackMe CTFs writeups, notes, dratfs, scrabbles, files and solutions. | https://github.com/edoardottt/tryhackme-ctf | 15 | 8| 
-| 20210206T22:39:38Z | This is my version of %Settlers of Catan%. The game is ostensibly complete with the exception of slow repainting when the robber is moved. Other than that, the game is functionally finished. The game plays best on a screen 1920x1080 as that enables status screens to be visible if 3-4 players are playing. A shortcut key has been implemented for cancellation of actions. Hold ALT_C when the Catan Board has focus, and this will enable an OptionPane to appear that allows for cancellation. And as for game additions I wanted to talk about, I have implemented a class system to the game that makes it more difficult (it is optional; choose the settler class if you want the standard game) as well as optional cataclysm events that can affect player resources at a 5% chance. As well, ports are optional as I%ve heard some people say they are too exploitable. Again, these three things are optional. And finally, all the image files used in this game are not my own. They are all sourced from Google Images (non-copyrighted, as far as I can tell). I will continue to work on the slow repaint issue in the future, but I will put this project down for a little while. (For whatever reason, I can%t put new lines in the description because of arbitrary code rules, so this jumbled mess of words is what I must put). | https://github.com/GitCaseyHub/SettlersOfCatan | 0 | 0| 
 
 
 # backdoor on Github 推荐
