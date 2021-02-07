@@ -83,6 +83,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210207T01:49:05Z | server full exploit | https://github.com/koplan-dev/samp-server-full-exploit | 0 | 0| 
 | 20210207T01:47:49Z | server full exploit | https://github.com/koplan-dev/samp-full-exploit | 0 | 0| 
 | 20210207T01:12:53Z | forked version of funtuna, a homebrew ps2 app launcher designed to ease the pain of getting a stable exploit for those that have a console uncompatible with FreeMcBoot that doesnt have a modchip | https://github.com/israpps/Funtuna-Fork | 1 | 0| 
 | 20210207T01:02:45Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 7 | 3| 
@@ -92,7 +93,6 @@
 | 20210206T22:47:20Z | TryHackMe CTFs writeups, notes, dratfs, scrabbles, files and solutions. | https://github.com/edoardottt/tryhackme-ctf | 15 | 8| 
 | 20210206T22:39:38Z | This is my version of %Settlers of Catan%. The game is ostensibly complete with the exception of slow repainting when the robber is moved. Other than that, the game is functionally finished. The game plays best on a screen 1920x1080 as that enables status screens to be visible if 3-4 players are playing. A shortcut key has been implemented for cancellation of actions. Hold ALT_C when the Catan Board has focus, and this will enable an OptionPane to appear that allows for cancellation. And as for game additions I wanted to talk about, I have implemented a class system to the game that makes it more difficult (it is optional; choose the settler class if you want the standard game) as well as optional cataclysm events that can affect player resources at a 5% chance. As well, ports are optional as I%ve heard some people say they are too exploitable. Again, these three things are optional. And finally, all the image files used in this game are not my own. They are all sourced from Google Images (non-copyrighted, as far as I can tell). I will continue to work on the slow repaint issue in the future, but I will put this project down for a little while. (For whatever reason, I can%t put new lines in the description because of arbitrary code rules, so this jumbled mess of words is what I must put). | https://github.com/GitCaseyHub/SettlersOfCatan | 0 | 0| 
 | 20210206T22:29:32Z | Programs, tools, information, and exploits for TI z80 calculators. | https://github.com/parrotgeek1/TI-z80 | 4 | 4| 
-| 20210206T21:06:02Z | Formation about basics web applications security. How to exploit them and prevent from them. | https://github.com/fabremx/Web-security-formation | 0 | 0| 
 
 
 # backdoor on Github 推荐
