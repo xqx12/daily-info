@@ -18,7 +18,7 @@
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
 | 20210207T11:30:11Z | CVE-2020-27930 | Apple Safari Remote Code Execution | https://github.com/FunPhishing/Apple-Safari-Remote-Code-Execution-CVE-2020-27930 | A memory corruption issue was addressed with improved input validation. This issue is fixed in macOS Big Sur 11.0.1, watchOS 7.1, iOS 12.4.9, watchOS 6.2.9, Security Update 2020-006 High Sierra, Security Update 2020-006 Mojave, iOS 14.2 and iPadOS 14.2, watchOS 5.3.9, macOS Catalina 10.15.7 Supplemental Update, macOS Catalina 10.15.7 Update. Processing a maliciously crafted font may lead to arbitrary code execution.| 
-| 20210207T11:10:05Z | CVE-2021-3156 | CVE-2021-3156漏洞复现 | https://github.com/Hello12112020/CVE-2021-3156 | Sudo before 1.9.5p2 has a Heap-based Buffer Overflow, allowing privilege escalation to root via %sudoedit -s% and a command-line argument that ends with a single backslash character.| 
+| 20210207T11:10:05Z | CVE-2021-3156 | CVE-2021-3156漏洞复现 | https://github.com/Hello12112020/CVE-2021-3156 | | 
 | 20210207T10:47:55Z | CVE-2021-3156 | PoC for CVE-2021-3156 (sudo heap overflow) | https://github.com/stong/CVE-2021-3156 | Sudo before 1.9.5p2 has a Heap-based Buffer Overflow, allowing privilege escalation to root via %sudoedit -s% and a command-line argument that ends with a single backslash character.| 
 | 20210207T10:35:05Z | CVE-2021-21148 | Null | https://github.com/Grayhaxor/CVE-2021-21148 | 未查询到CVE信息| 
 | 20210207T09:42:38Z | cve-2020-17523 | shiro-cve-2020-17523 漏洞的两种绕过姿势分析（带漏洞环境） | https://github.com/jweny/shiro-cve-2020-17523 | 未查询到CVE信息| 
@@ -43,6 +43,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210207T13:19:46Z | CTF framework and exploit development library | https://github.com/Gallopsled/pwntools | 7515 | 1350| 
 | 20210207T13:02:25Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 7 | 3| 
 | 20210207T12:48:57Z | Accuracy FN pasted cheat by a guy called boss 1:1 neutron with a new menu and some public exploits source will stay updated so come here for the new sigs | https://github.com/paster44/AccuracyFN-Fortnite-Cheat-Source-Updated-To-Newest-Patch | 3 | 0| 
 | 20210207T12:11:37Z | Null | https://github.com/Daniewskyy/GhostPingExploit | 0 | 0| 
@@ -52,7 +53,6 @@
 | 20210207T11:16:14Z | Null | https://github.com/Psychorot/MaouExploit | 0 | 0| 
 | 20210207T10:35:04Z | TryHackMe CTFs writeups, notes, dratfs, scrabbles, files and solutions. | https://github.com/edoardottt/tryhackme-ctf | 15 | 8| 
 | 20210207T10:32:47Z | Fully Featured NTR Loader for Ghidra | https://github.com/pedro-javierf/NTRGhidra | 53 | 4| 
-| 20210207T10:24:11Z | Python Exploit which you can use after RCE to uplaod important files to dropbox or can be used to take any important file from computer to dropbox just run the script in victims computer | https://github.com/tathagat22/Rinnegan | 0 | 0| 
 
 
 # backdoor on Github 推荐
