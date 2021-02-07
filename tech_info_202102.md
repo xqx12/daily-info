@@ -31,6 +31,7 @@
 # 安全维基 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20210207 | 针对攻击目标量身定制 Cobalt Strike 的 Beacon 执行 | https://mp.weixin.qq.com/s/ofg9dVgL38CENCFXFAslOw| 
 | 20210206 | AVATAR：通过修复静态分析冲突的模式来修复语义错误 | https://mp.weixin.qq.com/s/w9SjsI3WVmghVVQGwtkyUQ| 
 | 20210206 | SerialDetector：Web对象注入漏洞的原理和实践探索 | https://mp.weixin.qq.com/s/doFTqJcA30AwgUUtK5XqMQ| 
 | 20210206 | 基于DTLS协议的反射攻击深度分析 | https://mp.weixin.qq.com/s/Ye_AuMDLQotv3M5rv9OmOA| 
@@ -40,28 +41,27 @@
 | 20210206 | 2020年全球国防网络空间情况综述（武器技术篇-上） | https://mp.weixin.qq.com/s/piWwrlXZTcgN0Tsr2MiLew| 
 | 20210205 | 让网络空间测绘技术不再那么飘忽不定 | https://mp.weixin.qq.com/s/lr39F9kNOfHlMimgymzVwg| 
 | 20210205 | gatekeeper: First open-source DDoS protection system | https://github.com/AltraMayor/gatekeeper| 
-| 20210205 | Mitre Att&ck detection coverage tracking with Kibana | https://hmnguyen1201.github.io/Mitre-Att-ck-table/| 
 
 
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20210207T11:30:11Z | CVE-2020-27930 | Apple Safari Remote Code Execution | https://github.com/FunPhishing/Apple-Safari-Remote-Code-Execution-CVE-2020-27930 | A memory corruption issue was addressed with improved input validation. This issue is fixed in macOS Big Sur 11.0.1, watchOS 7.1, iOS 12.4.9, watchOS 6.2.9, Security Update 2020-006 High Sierra, Security Update 2020-006 Mojave, iOS 14.2 and iPadOS 14.2, watchOS 5.3.9, macOS Catalina 10.15.7 Supplemental Update, macOS Catalina 10.15.7 Update. Processing a maliciously crafted font may lead to arbitrary code execution.| 
+| 20210207T11:10:05Z | CVE-2021-3156 | CVE-2021-3156漏洞复现 | https://github.com/Hello12112020/CVE-2021-3156 | Sudo before 1.9.5p2 has a Heap-based Buffer Overflow, allowing privilege escalation to root via %sudoedit -s% and a command-line argument that ends with a single backslash character.| 
+| 20210207T10:47:55Z | CVE-2021-3156 | PoC for CVE-2021-3156 (sudo heap overflow) | https://github.com/stong/CVE-2021-3156 | Sudo before 1.9.5p2 has a Heap-based Buffer Overflow, allowing privilege escalation to root via %sudoedit -s% and a command-line argument that ends with a single backslash character.| 
+| 20210207T10:35:05Z | CVE-2021-21148 | Null | https://github.com/Grayhaxor/CVE-2021-21148 | 未查询到CVE信息| 
+| 20210207T09:42:38Z | cve-2020-17523 | shiro-cve-2020-17523 漏洞的两种绕过姿势分析（带漏洞环境） | https://github.com/jweny/shiro-cve-2020-17523 | 未查询到CVE信息| 
+| 20210207T06:12:14Z | CVE-2020-8554 | Mitigate CVE-2020-8554 with Policy Controller in Anthos | https://github.com/jrmurray000/CVE-2020-8554 | Kubernetes API server in all versions allow an attacker who is able to create a ClusterIP service and set the spec.externalIPs field, to intercept traffic to that IP address. Additionally, an attacker who is able to patch the status (which is considered a privileged operation and should not typically be granted to users) of a LoadBalancer service can set the status.loadBalancer.ingress.ip to similar effect.| 
 | 20210207T02:40:41Z | CVE-2021-3345 | Null | https://github.com/MLGRadish/CVE-2021-3345 | _gcry_md_block_write in cipher/hash-common.c in Libgcrypt version 1.9.0 has a heap-based buffer overflow when the digest final function sets a large count value. It is recommended to upgrade to 1.9.1 or later.| 
-| 20210207T02:20:43Z | cve-2020-17523 | shiro-cve-2020-17523 漏洞的两种绕过姿势分析（带漏洞环境） | https://github.com/jweny/shiro-cve-2020-17523 | 未查询到CVE信息| 
-| 20210207T00:54:36Z | CVE-2021-3156 | PoC for CVE-2021-3156 (sudo heap overflow) | https://github.com/stong/CVE-2021-3156 | Sudo before 1.9.5p2 has a Heap-based Buffer Overflow, allowing privilege escalation to root via %sudoedit -s% and a command-line argument that ends with a single backslash character.| 
 | 20210206T23:01:26Z | CVE-2021-3156 | Null | https://github.com/blasty/CVE-2021-3156 | Sudo before 1.9.5p2 has a Heap-based Buffer Overflow, allowing privilege escalation to root via %sudoedit -s% and a command-line argument that ends with a single backslash character.| 
 | 20210206T21:20:07Z | CVE-2021-3156 | Null | https://github.com/1N53C/CVE-2021-3156-PoC | Sudo before 1.9.5p2 has a Heap-based Buffer Overflow, allowing privilege escalation to root via %sudoedit -s% and a command-line argument that ends with a single backslash character.| 
-| 20210205T11:22:31Z | CVE-2021-3156 | Root shell PoC for CVE-2021-3156 | https://github.com/CptGibbon/CVE-2021-3156 | Sudo before 1.9.5p2 has a Heap-based Buffer Overflow, allowing privilege escalation to root via %sudoedit -s% and a command-line argument that ends with a single backslash character.| 
-| 20210205T09:07:20Z | CVE-2021-3157 | Null | https://github.com/Y3rbit4/CVE-2021-3157 | 未查询到CVE信息| 
-| 20210205T07:50:37Z | CVE-2020-14181 | Poc for CVE-2020-14181 | https://github.com/bk-rao/CVE-2020-14181 | Affected versions of Atlassian Jira Server and Data Center allow an unauthenticated user to enumerate users via an Information Disclosure vulnerability in the /ViewUserHover.jspa endpoint. The affected versions are before version 7.13.6, from version 8.0.0 before 8.5.7, and from version 8.6.0 before 8.12.0.| 
-| 20210205T03:55:00Z | CVE-2021-25646 | CSharp CVE-2021-25646-GUI | https://github.com/AirEvan/CVE-2021-25646-GUI | Apache Druid includes the ability to execute user-provided JavaScript code embedded in various types of requests. This functionality is intended for use in high-trust environments, and is disabled by default. However, in Druid 0.20.0 and earlier, it is possible for an authenticated user to send a specially-crafted request that forces Druid to run user-provided JavaScript code for that request, regardless of server configuration. This can be leveraged to execute code on the target machine with the privileges of the Druid server process.| 
-| 20210205T01:10:50Z | CVE-2020-17527 | Null | https://github.com/forse01/CVE-2020-17527-Tomcat | While investigating bug 64830 it was discovered that Apache Tomcat 10.0.0-M1 to 10.0.0-M9, 9.0.0-M1 to 9.0.39 and 8.5.0 to 8.5.59 could re-use an HTTP request header value from the previous stream received on an HTTP/2 connection for the request associated with the subsequent stream. While this would most likely lead to an error and the closure of the HTTP/2 connection, it is possible that information could leak between requests.| 
+| 20210205T11:22:31Z | CVE-2021-3156 | Root shell PoC for CVE-2021-3156 | https://github.com/CptGibbon/CVE-2021-3156 | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210207T02:55:19Z | Spring 2021 Geography 817 work folder  | https://github.com/klee12/klee12.github.io | 0 | 0| 
+| 20210207T06:09:05Z | Spring 2021 Geography 817 work folder  | https://github.com/klee12/klee12.github.io | 0 | 0| 
 | 20210207T02:37:23Z | A personnal UI library made as an excuse to have a published UI package | https://github.com/Liinkiing/klee | 5 | 1| 
 | 20210207T01:30:36Z | Null | https://github.com/fontworks-fonts/Klee | 354 | 9| 
 | 20210206T15:20:43Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 的 Klee One 的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 20 | 0| 
@@ -83,31 +83,31 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210207T02:20:15Z | A phased, evasive Path Traversal + LFI scanning & exploitation tool in Python | https://github.com/VainlyStrain/Vailyn | 90 | 2| 
-| 20210207T02:19:25Z | Null | https://github.com/swaghorse69/psu-exploit-source-no-dll-btw | 0 | 0| 
-| 20210207T02:02:40Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 7 | 3| 
-| 20210207T01:49:05Z | server full exploit | https://github.com/koplan-dev/samp-server-full-exploit | 0 | 0| 
-| 20210207T01:47:49Z | server full exploit | https://github.com/koplan-dev/samp-full-exploit | 0 | 0| 
-| 20210207T01:12:53Z | forked version of funtuna, a homebrew ps2 app launcher designed to ease the pain of getting a stable exploit for those that have a console uncompatible with FreeMcBoot that doesnt have a modchip | https://github.com/israpps/Funtuna-Fork | 1 | 0| 
-| 20210207T01:02:27Z | iOS, ARM binary files for inclusion to an iOS Research DMG Image. Funded by the XSS.Cx Anti-Phishing Team. | https://github.com/xsscx/ios-arm-binaries | 2 | 0| 
-| 20210207T00:53:25Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 8981 | 1442| 
-| 20210206T23:18:37Z | A Discord bot that detects and bans users who attempt to speak while appearing as muted or deafened. | https://github.com/Caeden117/VCMuteExploitDetectionBot | 0 | 0| 
-| 20210206T22:47:20Z | TryHackMe CTFs writeups, notes, dratfs, scrabbles, files and solutions. | https://github.com/edoardottt/tryhackme-ctf | 15 | 8| 
+| 20210207T12:48:57Z | Accuracy FN pasted cheat by a guy called boss 1:1 neutron with a new menu and some public exploits source will stay updated so come here for the new sigs | https://github.com/paster44/AccuracyFN-Fortnite-Cheat-Source-Updated-To-Newest-Patch | 3 | 0| 
+| 20210207T12:11:37Z | Null | https://github.com/Daniewskyy/GhostPingExploit | 0 | 0| 
+| 20210207T12:06:14Z | Just a temporary website to post my ctf writeups and journey into binary/android exploitation/malware analysis/exploit development | https://github.com/blackbeard666/pwn_exhibit | 2 | 1| 
+| 20210207T12:02:26Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 7 | 3| 
+| 20210207T11:52:01Z | Roblox Cheats test | https://github.com/kacperks/RobloxExploitCMD | 1 | 0| 
+| 20210207T11:35:13Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 8980 | 1442| 
+| 20210207T11:16:14Z | Null | https://github.com/Psychorot/MaouExploit | 0 | 0| 
+| 20210207T10:35:04Z | TryHackMe CTFs writeups, notes, dratfs, scrabbles, files and solutions. | https://github.com/edoardottt/tryhackme-ctf | 15 | 8| 
+| 20210207T10:32:47Z | Fully Featured NTR Loader for Ghidra | https://github.com/pedro-javierf/NTRGhidra | 53 | 4| 
+| 20210207T10:24:11Z | Python Exploit which you can use after RCE to uplaod important files to dropbox or can be used to take any important file from computer to dropbox just run the script in victims computer | https://github.com/tathagat22/Rinnegan | 0 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210207T12:38:26Z | Fud Persistent Windows Backdoor developed purely in python | https://github.com/swagkarna/Chuvi-Botnet | 8 | 4| 
+| 20210207T11:11:40Z | Null | https://github.com/Tekchand-12/Python-backdoor-shell | 0 | 0| 
+| 20210207T10:32:32Z | prototype of a generic backdoor for the x86 architecture | https://github.com/superbaud/bochsdoor | 0 | 0| 
+| 20210207T05:24:35Z | 🤖 AI based Backdoor Written for Windows using Telegram-bot and ZMQ as Its Back-ends. | https://github.com/wildonion/katyusha | 1 | 0| 
+| 20210207T03:26:18Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 165 | 24| 
+| 20210207T03:14:29Z | A sample app to demonstrate how to create Xamarin UITests using the Page Object architecture, Backdoor Methods and App Links (aka Deep Linking) | https://github.com/brminnick/UITestSampleApp | 32 | 25| 
 | 20210207T02:54:56Z | A backdoor bot for discord servers | https://github.com/BinCT/Protocol-Bot | 3 | 1| 
 | 20210206T21:05:36Z | Null | https://github.com/Wiilldd/backdoor | 0 | 0| 
 | 20210206T19:10:27Z | Null | https://github.com/iK4oS/PremiumBackdoor.exe | 0 | 1| 
-| 20210206T18:37:36Z | Fud Persistent Windows Backdoor developed purely in python | https://github.com/swagkarna/Chuvi-Botnet | 6 | 3| 
 | 20210206T18:36:20Z | FUD cross-platform python2 backdoor with C2 | https://github.com/7h3w4lk3r/pyback | 16 | 5| 
-| 20210206T17:55:27Z | 🤖 AI based Backdoor Written for Windows using Telegram-bot and ZMQ as Its Back-ends. | https://github.com/wildonion/katyusha | 1 | 0| 
-| 20210206T11:58:47Z | Null | https://github.com/1MiKHalyCH1/backdoored_cipher | 0 | 0| 
-| 20210206T10:11:22Z | Pupy is an opensource, cross-platform (Windows, Linux, OSX, Android) remote administration and post-exploitation tool mainly written in python | https://github.com/n1nj4sec/pupy | 6125 | 1577| 
-| 20210206T07:16:07Z | This is an implementation demo of the ICLR 2021 paper [Neural Attention Distillation: Erasing Backdoor Triggers from Deep Neural Networks](https://arxiv.org/abs/2101.05930) in PyTorch. | https://github.com/bboylyg/NAD | 10 | 3| 
-| 20210206T05:51:50Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 165 | 24| 
 
 
 # fuzz on Github 推荐
