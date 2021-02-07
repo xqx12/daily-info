@@ -61,7 +61,7 @@
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210207T02:10:21Z | A personnal UI library made as an excuse to have a published UI package | https://github.com/Liinkiing/klee | 5 | 1| 
+| 20210207T02:11:32Z | A personnal UI library made as an excuse to have a published UI package | https://github.com/Liinkiing/klee | 5 | 1| 
 | 20210207T01:30:36Z | Null | https://github.com/fontworks-fonts/Klee | 354 | 9| 
 | 20210206T15:20:43Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 的 Klee One 的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 20 | 0| 
 | 20210206T12:22:59Z | ⬇️ File Upload/sharing application, used by thousands of webmasters since 2007.  | https://github.com/kleeja-official/kleeja | 112 | 33| 
@@ -83,6 +83,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210207T02:12:42Z | Null | https://github.com/swaghorse69/psu-exploit-source-no-dll-btw | 0 | 0| 
 | 20210207T02:02:40Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 7 | 3| 
 | 20210207T01:49:05Z | server full exploit | https://github.com/koplan-dev/samp-server-full-exploit | 0 | 0| 
 | 20210207T01:47:49Z | server full exploit | https://github.com/koplan-dev/samp-full-exploit | 0 | 0| 
@@ -92,7 +93,6 @@
 | 20210206T23:18:37Z | A Discord bot that detects and bans users who attempt to speak while appearing as muted or deafened. | https://github.com/Caeden117/VCMuteExploitDetectionBot | 0 | 0| 
 | 20210206T22:47:20Z | TryHackMe CTFs writeups, notes, dratfs, scrabbles, files and solutions. | https://github.com/edoardottt/tryhackme-ctf | 15 | 8| 
 | 20210206T22:39:38Z | This is my version of %Settlers of Catan%. The game is ostensibly complete with the exception of slow repainting when the robber is moved. Other than that, the game is functionally finished. The game plays best on a screen 1920x1080 as that enables status screens to be visible if 3-4 players are playing. A shortcut key has been implemented for cancellation of actions. Hold ALT_C when the Catan Board has focus, and this will enable an OptionPane to appear that allows for cancellation. And as for game additions I wanted to talk about, I have implemented a class system to the game that makes it more difficult (it is optional; choose the settler class if you want the standard game) as well as optional cataclysm events that can affect player resources at a 5% chance. As well, ports are optional as I%ve heard some people say they are too exploitable. Again, these three things are optional. And finally, all the image files used in this game are not my own. They are all sourced from Google Images (non-copyrighted, as far as I can tell). I will continue to work on the slow repaint issue in the future, but I will put this project down for a little while. (For whatever reason, I can%t put new lines in the description because of arbitrary code rules, so this jumbled mess of words is what I must put). | https://github.com/GitCaseyHub/SettlersOfCatan | 0 | 0| 
-| 20210206T22:29:32Z | Programs, tools, information, and exploits for TI z80 calculators. | https://github.com/parrotgeek1/TI-z80 | 4 | 4| 
 
 
 # backdoor on Github 推荐
