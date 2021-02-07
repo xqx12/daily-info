@@ -47,8 +47,8 @@
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
 | 20210207T00:54:36Z | CVE-2021-3156 | PoC for CVE-2021-3156 (sudo heap overflow) | https://github.com/stong/CVE-2021-3156 | Sudo before 1.9.5p2 has a Heap-based Buffer Overflow, allowing privilege escalation to root via %sudoedit -s% and a command-line argument that ends with a single backslash character.| 
-| 20210206T23:01:26Z | CVE-2021-3156 | Null | https://github.com/blasty/CVE-2021-3156 | Sudo before 1.9.5p2 has a Heap-based Buffer Overflow, allowing privilege escalation to root via %sudoedit -s% and a command-line argument that ends with a single backslash character.| 
-| 20210206T21:20:07Z | CVE-2021-3156 | Null | https://github.com/1N53C/CVE-2021-3156-PoC | | 
+| 20210206T23:01:26Z | CVE-2021-3156 | Null | https://github.com/blasty/CVE-2021-3156 | | 
+| 20210206T21:20:07Z | CVE-2021-3156 | Null | https://github.com/1N53C/CVE-2021-3156-PoC | Sudo before 1.9.5p2 has a Heap-based Buffer Overflow, allowing privilege escalation to root via %sudoedit -s% and a command-line argument that ends with a single backslash character.| 
 | 20210205T14:51:49Z | cve-2020-17523 | shiro-cve-2020-17523 漏洞的两种绕过姿势分析（带漏洞环境） | https://github.com/jweny/shiro-cve-2020-17523 | 未查询到CVE信息| 
 | 20210205T11:22:31Z | CVE-2021-3156 | Root shell PoC for CVE-2021-3156 | https://github.com/CptGibbon/CVE-2021-3156 | Sudo before 1.9.5p2 has a Heap-based Buffer Overflow, allowing privilege escalation to root via %sudoedit -s% and a command-line argument that ends with a single backslash character.| 
 | 20210205T09:07:20Z | CVE-2021-3157 | Null | https://github.com/Y3rbit4/CVE-2021-3157 | 未查询到CVE信息| 
@@ -113,6 +113,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210207T01:09:42Z | Null | https://github.com/TrentAI/Artificial_Fuzz | 0 | 0| 
 | 20210207T00:31:34Z | fuzzyset.js - A fuzzy string set for javascript | https://github.com/Glench/fuzzyset.js | 1200 | 98| 
 | 20210207T00:08:36Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 1288 | 282| 
 | 20210206T23:41:26Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 5848 | 1180| 
@@ -122,7 +123,6 @@
 | 20210206T21:59:28Z | Thesis Dissertation | https://github.com/mchara01/webFuzz_Thesis | 0 | 0| 
 | 20210206T21:43:30Z | Fuzzing cryptographic libraries. Magic bug printer go brrrr. | https://github.com/guidovranken/cryptofuzz | 250 | 33| 
 | 20210206T21:19:18Z | Null | https://github.com/mouhamed-bit/fuzzy-octo-waffle | 0 | 0| 
-| 20210206T20:45:53Z | Projekt na Programowanie aplikacji biznesowych | https://github.com/wojtekwrona232/fuzzy-winner | 0 | 0| 
 
 
 
