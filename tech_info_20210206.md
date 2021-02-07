@@ -24,7 +24,7 @@
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
 | 20210206T23:01:26Z | CVE-2021-3156 | Null | https://github.com/blasty/CVE-2021-3156 | Sudo before 1.9.5p2 has a Heap-based Buffer Overflow, allowing privilege escalation to root via %sudoedit -s% and a command-line argument that ends with a single backslash character.| 
-| 20210206T21:20:07Z | CVE-2021-3156 | Null | https://github.com/1N53C/CVE-2021-3156-PoC | Sudo before 1.9.5p2 has a Heap-based Buffer Overflow, allowing privilege escalation to root via %sudoedit -s% and a command-line argument that ends with a single backslash character.| 
+| 20210206T21:20:07Z | CVE-2021-3156 | Null | https://github.com/1N53C/CVE-2021-3156-PoC | | 
 
 
 # klee on Github 推荐
