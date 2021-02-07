@@ -21,7 +21,7 @@
 | 20210207T11:10:05Z | CVE-2021-3156 | CVE-2021-3156漏洞复现 | https://github.com/Hello12112020/CVE-2021-3156 | Sudo before 1.9.5p2 has a Heap-based Buffer Overflow, allowing privilege escalation to root via %sudoedit -s% and a command-line argument that ends with a single backslash character.| 
 | 20210207T10:47:55Z | CVE-2021-3156 | PoC for CVE-2021-3156 (sudo heap overflow) | https://github.com/stong/CVE-2021-3156 | Sudo before 1.9.5p2 has a Heap-based Buffer Overflow, allowing privilege escalation to root via %sudoedit -s% and a command-line argument that ends with a single backslash character.| 
 | 20210207T10:35:05Z | CVE-2021-21148 | Null | https://github.com/Grayhaxor/CVE-2021-21148 | 未查询到CVE信息| 
-| 20210207T09:42:38Z | cve-2020-17523 | shiro-cve-2020-17523 漏洞的两种绕过姿势分析（带漏洞环境） | https://github.com/jweny/shiro-cve-2020-17523 | 未查询到CVE信息| 
+| 20210207T09:42:38Z | cve-2020-17523 | shiro-cve-2020-17523 漏洞的两种绕过姿势分析（带漏洞环境） | https://github.com/jweny/shiro-cve-2020-17523 | | 
 | 20210207T06:12:14Z | CVE-2020-8554 | Mitigate CVE-2020-8554 with Policy Controller in Anthos | https://github.com/jrmurray000/CVE-2020-8554 | Kubernetes API server in all versions allow an attacker who is able to create a ClusterIP service and set the spec.externalIPs field, to intercept traffic to that IP address. Additionally, an attacker who is able to patch the status (which is considered a privileged operation and should not typically be granted to users) of a LoadBalancer service can set the status.loadBalancer.ingress.ip to similar effect.| 
 | 20210207T02:40:41Z | CVE-2021-3345 | Null | https://github.com/MLGRadish/CVE-2021-3345 | _gcry_md_block_write in cipher/hash-common.c in Libgcrypt version 1.9.0 has a heap-based buffer overflow when the digest final function sets a large count value. It is recommended to upgrade to 1.9.1 or later.| 
 
@@ -42,10 +42,10 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210207T13:02:25Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 7 | 3| 
 | 20210207T12:48:57Z | Accuracy FN pasted cheat by a guy called boss 1:1 neutron with a new menu and some public exploits source will stay updated so come here for the new sigs | https://github.com/paster44/AccuracyFN-Fortnite-Cheat-Source-Updated-To-Newest-Patch | 3 | 0| 
 | 20210207T12:11:37Z | Null | https://github.com/Daniewskyy/GhostPingExploit | 0 | 0| 
 | 20210207T12:06:14Z | Just a temporary website to post my ctf writeups and journey into binary/android exploitation/malware analysis/exploit development | https://github.com/blackbeard666/pwn_exhibit | 2 | 1| 
-| 20210207T12:02:26Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 7 | 3| 
 | 20210207T11:52:01Z | Roblox Cheats test | https://github.com/kacperks/RobloxExploitCMD | 1 | 0| 
 | 20210207T11:35:13Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 8980 | 1442| 
 | 20210207T11:16:14Z | Null | https://github.com/Psychorot/MaouExploit | 0 | 0| 
