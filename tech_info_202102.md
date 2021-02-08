@@ -46,7 +46,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20210208T01:54:54Z | cve-2020-17523 | shiro-cve-2020-17523 漏洞的两种绕过姿势分析（带漏洞环境） | https://github.com/jweny/shiro-cve-2020-17523 | | 
+| 20210208T01:54:54Z | cve-2020-17523 | shiro-cve-2020-17523 漏洞的两种绕过姿势分析（带漏洞环境） | https://github.com/jweny/shiro-cve-2020-17523 | 未查询到CVE信息| 
 | 20210208T00:11:05Z | CVE-2021-3156 | PoC for CVE-2021-3156 (sudo heap overflow) | https://github.com/stong/CVE-2021-3156 | Sudo before 1.9.5p2 has a Heap-based Buffer Overflow, allowing privilege escalation to root via %sudoedit -s% and a command-line argument that ends with a single backslash character.| 
 | 20210207T16:57:31Z | CVE-2020-7384 | CVE-2020-7384 | https://github.com/nikhil1232/CVE-2020-7384 | Rapid7%s Metasploit msfvenom framework handles APK files in a way that allows for a malicious user to craft and publish a file that would execute arbitrary commands on a victim%s machine.| 
 | 20210207T16:06:50Z | CVE-2021-3122 | Null | https://github.com/roughb8722/CVE-2021-3122-Details | CMCAgent in NCR Command Center Agent 16.3 on Aloha POS/BOH servers permits the submission of a runCommand parameter (within an XML document sent to port 8089) that enables the remote, unauthenticated execution of an arbitrary command as SYSTEM, as exploited in the wild in 2020 and/or 2021. NOTE: the vendor%s position is that exploitation occurs only on devices with a certain %misconfiguration.%| 
@@ -98,7 +98,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210208T00:13:28Z | Hacking tools pack & backdoors generator. | https://github.com/AdrMXR/KitHack | 337 | 57| 
+| 20210208T02:15:39Z | Hacking tools pack & backdoors generator. | https://github.com/AdrMXR/KitHack | 338 | 57| 
 | 20210207T20:50:56Z | Null | https://github.com/g0b1net/backdoor_termux | 0 | 0| 
 | 20210207T20:38:19Z | A backdoor plugin for Spigot, Paper, and Bukkit! | https://github.com/oasiiss/backdoorplugin | 0 | 0| 
 | 20210207T16:26:26Z | Null | https://github.com/mikkelskov1/backdoor2 | 0 | 0| 
