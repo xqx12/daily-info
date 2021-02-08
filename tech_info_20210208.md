@@ -78,6 +78,8 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210208T13:57:34Z | Null | https://github.com/majestarmiko/fuzzy-hapkai | 0 | 0| 
+| 20210208T13:57:06Z | Null | https://github.com/majestarmiko/fuzzy-happiness | 0 | 0| 
 | 20210208T13:48:05Z | Ethereum smart contract fuzzer | https://github.com/crytic/echidna | 546 | 93| 
 | 20210208T13:43:14Z | Personal website of Laurence Hughes | https://github.com/fuzzylogicxx/fuzzylogic | 4 | 1| 
 | 20210208T13:38:29Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 5861 | 1182| 
@@ -86,8 +88,6 @@
 | 20210208T12:35:59Z | Null | https://github.com/ethereum/solidity-fuzzing-corpus | 10 | 4| 
 | 20210208T11:40:07Z | Null | https://github.com/ShajinAhsan/fuzzy-umbrella | 0 | 0| 
 | 20210208T09:38:14Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 3335 | 770| 
-| 20210208T09:17:43Z | Generates Elm types, JSON decoders, JSON encoders and fuzz tests from JSON schema specifications | https://github.com/dragonwasrobot/json-schema-to-elm | 61 | 7| 
-| 20210208T09:07:50Z | Null | https://github.com/BTrain137/fuzzy-winner | 0 | 0| 
 
 
 

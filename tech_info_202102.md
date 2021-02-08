@@ -51,7 +51,7 @@
 | 20210208T11:54:57Z | CVE-2021-3156 | PoC for CVE-2021-3156 (sudo heap overflow) | https://github.com/stong/CVE-2021-3156 | Sudo before 1.9.5p2 has a Heap-based Buffer Overflow, allowing privilege escalation to root via %sudoedit -s% and a command-line argument that ends with a single backslash character.| 
 | 20210208T07:41:38Z | cve-2020-17523 | shiro-cve-2020-17523 漏洞的两种绕过姿势分析（带漏洞环境） | https://github.com/jweny/shiro-cve-2020-17523 | 未查询到CVE信息| 
 | 20210207T16:57:31Z | CVE-2020-7384 | CVE-2020-7384 | https://github.com/nikhil1232/CVE-2020-7384 | Rapid7%s Metasploit msfvenom framework handles APK files in a way that allows for a malicious user to craft and publish a file that would execute arbitrary commands on a victim%s machine.| 
-| 20210207T16:06:50Z | CVE-2021-3122 | Null | https://github.com/roughb8722/CVE-2021-3122-Details | | 
+| 20210207T16:06:50Z | CVE-2021-3122 | Null | https://github.com/roughb8722/CVE-2021-3122-Details | CMCAgent in NCR Command Center Agent 16.3 on Aloha POS/BOH servers permits the submission of a runCommand parameter (within an XML document sent to port 8089) that enables the remote, unauthenticated execution of an arbitrary command as SYSTEM, as exploited in the wild in 2020 and/or 2021. NOTE: the vendor%s position is that exploitation occurs only on devices with a certain %misconfiguration.%| 
 | 20210207T14:18:55Z | CVE-2021-3229 | Null | https://github.com/fullbbadda1208/CVE-2021-3229 | Denial of service in ASUSWRT ASUS RT-AX3000 firmware versions 3.0.0.4.384_10177 and earlier versions allows an attacker to disrupt the use of device setup services via continuous login error.| 
 | 20210207T11:30:11Z | CVE-2020-27930 | Apple Safari Remote Code Execution | https://github.com/FunPhishing/Apple-Safari-Remote-Code-Execution-CVE-2020-27930 | A memory corruption issue was addressed with improved input validation. This issue is fixed in macOS Big Sur 11.0.1, watchOS 7.1, iOS 12.4.9, watchOS 6.2.9, Security Update 2020-006 High Sierra, Security Update 2020-006 Mojave, iOS 14.2 and iPadOS 14.2, watchOS 5.3.9, macOS Catalina 10.15.7 Supplemental Update, macOS Catalina 10.15.7 Update. Processing a maliciously crafted font may lead to arbitrary code execution.| 
 | 20210207T11:10:05Z | CVE-2021-3156 | CVE-2021-3156漏洞复现 | https://github.com/Hello12112020/CVE-2021-3156 | Sudo before 1.9.5p2 has a Heap-based Buffer Overflow, allowing privilege escalation to root via %sudoedit -s% and a command-line argument that ends with a single backslash character.| 
@@ -113,6 +113,8 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210208T13:57:34Z | Null | https://github.com/majestarmiko/fuzzy-hapkai | 0 | 0| 
+| 20210208T13:57:06Z | Null | https://github.com/majestarmiko/fuzzy-happiness | 0 | 0| 
 | 20210208T13:48:05Z | Ethereum smart contract fuzzer | https://github.com/crytic/echidna | 546 | 93| 
 | 20210208T13:43:14Z | Personal website of Laurence Hughes | https://github.com/fuzzylogicxx/fuzzylogic | 4 | 1| 
 | 20210208T13:38:29Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 5861 | 1182| 
@@ -121,8 +123,6 @@
 | 20210208T12:35:59Z | Null | https://github.com/ethereum/solidity-fuzzing-corpus | 10 | 4| 
 | 20210208T11:40:07Z | Null | https://github.com/ShajinAhsan/fuzzy-umbrella | 0 | 0| 
 | 20210208T09:38:14Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 3335 | 770| 
-| 20210208T09:17:43Z | Generates Elm types, JSON decoders, JSON encoders and fuzz tests from JSON schema specifications | https://github.com/dragonwasrobot/json-schema-to-elm | 61 | 7| 
-| 20210208T09:07:50Z | Null | https://github.com/BTrain137/fuzzy-winner | 0 | 0| 
 
 
 
