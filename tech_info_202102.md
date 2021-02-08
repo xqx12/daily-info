@@ -46,7 +46,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20210208T00:11:05Z | CVE-2021-3156 | PoC for CVE-2021-3156 (sudo heap overflow) | https://github.com/stong/CVE-2021-3156 | | 
+| 20210208T00:11:05Z | CVE-2021-3156 | PoC for CVE-2021-3156 (sudo heap overflow) | https://github.com/stong/CVE-2021-3156 | Sudo before 1.9.5p2 has a Heap-based Buffer Overflow, allowing privilege escalation to root via %sudoedit -s% and a command-line argument that ends with a single backslash character.| 
 | 20210207T16:57:31Z | CVE-2020-7384 | CVE-2020-7384 | https://github.com/nikhil1232/CVE-2020-7384 | Rapid7%s Metasploit msfvenom framework handles APK files in a way that allows for a malicious user to craft and publish a file that would execute arbitrary commands on a victim%s machine.| 
 | 20210207T16:06:50Z | CVE-2021-3122 | Null | https://github.com/roughb8722/CVE-2021-3122-Details | CMCAgent in NCR Command Center Agent 16.3 on Aloha POS/BOH servers permits the submission of a runCommand parameter (within an XML document sent to port 8089) that enables the remote, unauthenticated execution of an arbitrary command as SYSTEM, as exploited in the wild in 2020 and/or 2021. NOTE: the vendor%s position is that exploitation occurs only on devices with a certain %misconfiguration.%| 
 | 20210207T14:18:55Z | CVE-2021-3229 | Null | https://github.com/fullbbadda1208/CVE-2021-3229 | | 
@@ -113,16 +113,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210207T02:19:30Z | Security oriented software fuzzer. Supports evolutionary, feedback-driven fuzzing based on code coverage (SW and HW based) | https://github.com/google/honggfuzz | 2129 | 431| 
-| 20210207T01:13:59Z | Null | https://github.com/TrentAI/Artificial_Fuzz | 0 | 0| 
-| 20210207T01:12:16Z | A variant of a Fuzzy Vault cryptographic scheme designed for encrypting data with better human recovery features. | https://github.com/decentralized-identity/fuzzy-encryption | 20 | 3| 
-| 20210207T00:31:34Z | fuzzyset.js - A fuzzy string set for javascript | https://github.com/Glench/fuzzyset.js | 1200 | 98| 
-| 20210207T00:08:36Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 1288 | 282| 
-| 20210206T23:41:26Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 5848 | 1180| 
-| 20210206T23:07:29Z | https://github.com/wcventure/FuzzingPaper | https://github.com/mishmashclone/wcventure-FuzzingPaper | 2 | 1| 
-| 20210206T22:38:12Z | Generate code for json encoders/decoders, codecs, fuzzers, generators, and more | https://github.com/MartinSStewart/elm-review-todo-it-for-me | 0 | 0| 
-| 20210206T22:13:37Z | Experimental - replacing Euclidean distance with Levenshtein edit distance in the kmeans algorithm. | https://github.com/Matthew-Amos/fuzzy-kmeans | 0 | 0| 
-| 20210206T21:59:28Z | Thesis Dissertation | https://github.com/mchara01/webFuzz_Thesis | 0 | 0| 
+| 20210208T00:34:19Z | Scalable fuzzing infrastructure. | https://github.com/google/clusterfuzz | 4426 | 412| 
+| 20210208T00:33:50Z | Ethereum smart contract fuzzer | https://github.com/crytic/echidna | 545 | 93| 
+| 20210208T00:33:15Z | 2012 - Fuzzy regex pattern matching and capturing. | https://github.com/ZGorlock/FuzzyRegex | 0 | 0| 
+| 20210208T00:09:47Z | The Book %Generating Software Tests% | https://github.com/uds-se/fuzzingbook | 526 | 104| 
+| 20210207T23:19:19Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 5856 | 1181| 
+| 20210207T23:19:18Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 3333 | 770| 
+| 20210207T23:19:18Z | Security oriented software fuzzer. Supports evolutionary, feedback-driven fuzzing based on code coverage (SW and HW based) | https://github.com/google/honggfuzz | 2129 | 431| 
+| 20210207T20:35:55Z | Pi rates dnd chamgne  | https://github.com/nickcanny/fuzzy-waddle | 0 | 0| 
+| 20210207T20:33:32Z | Generate code for json encoders/decoders, codecs, fuzzers, generators, and more | https://github.com/MartinSStewart/elm-review-todo-it-for-me | 0 | 0| 
+| 20210207T20:24:07Z | Recent Fuzzing Paper | https://github.com/wcventure/FuzzingPaper | 744 | 124| 
 
 
 

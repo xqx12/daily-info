@@ -75,11 +75,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210207T02:19:30Z | Security oriented software fuzzer. Supports evolutionary, feedback-driven fuzzing based on code coverage (SW and HW based) | https://github.com/google/honggfuzz | 2129 | 431| 
-| 20210207T01:13:59Z | Null | https://github.com/TrentAI/Artificial_Fuzz | 0 | 0| 
-| 20210207T01:12:16Z | A variant of a Fuzzy Vault cryptographic scheme designed for encrypting data with better human recovery features. | https://github.com/decentralized-identity/fuzzy-encryption | 20 | 3| 
-| 20210207T00:31:34Z | fuzzyset.js - A fuzzy string set for javascript | https://github.com/Glench/fuzzyset.js | 1200 | 98| 
-| 20210207T00:08:36Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 1288 | 282| 
+| 20210207T23:19:19Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 5856 | 1181| 
+| 20210207T23:19:18Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 3333 | 770| 
+| 20210207T23:19:18Z | Security oriented software fuzzer. Supports evolutionary, feedback-driven fuzzing based on code coverage (SW and HW based) | https://github.com/google/honggfuzz | 2129 | 431| 
+| 20210207T20:35:55Z | Pi rates dnd chamgne  | https://github.com/nickcanny/fuzzy-waddle | 0 | 0| 
+| 20210207T20:33:32Z | Generate code for json encoders/decoders, codecs, fuzzers, generators, and more | https://github.com/MartinSStewart/elm-review-todo-it-for-me | 0 | 0| 
+| 20210207T20:24:07Z | Recent Fuzzing Paper | https://github.com/wcventure/FuzzingPaper | 744 | 124| 
+| 20210207T20:11:17Z | Null | https://github.com/Storyofmylifemumandwife/fuzzy-octo-winner | 0 | 0| 
+| 20210207T18:39:26Z | Personal website of Laurence Hughes | https://github.com/fuzzylogicxx/fuzzylogic | 4 | 1| 
+| 20210207T18:21:34Z | Fuzz test your application using your OpenAPI or Swagger API definition without coding | https://github.com/KissPeter/APIFuzzer | 87 | 30| 
+| 20210207T17:06:02Z | Fuzzing cryptographic libraries. Magic bug printer go brrrr. | https://github.com/guidovranken/cryptofuzz | 250 | 33| 
 
 
 
