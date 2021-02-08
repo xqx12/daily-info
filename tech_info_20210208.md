@@ -53,6 +53,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210208T13:35:24Z | Simple exploit template generation tool | https://github.com/d4rk-kn1gh7/genexp | 1 | 0| 
 | 20210208T13:17:41Z | This is a proof of concept for the Lib-PSP iplloader arbitrary load address exploit which uses a jump slide to execute code in Lib-PSP iplloader context. | https://github.com/mathieulh/Lib-PSP-iplloader-Jump-Slide-POC | 0 | 0| 
 | 20210208T13:12:19Z | CDK is an open-sourced container penetration toolkit, offering stable exploitation in different slimmed containers without any OS dependency. It comes with penetration tools and many powerful PoCs/EXPs helps you to escape container and takeover K8s cluster easily. | https://github.com/cdk-team/CDK | 1090 | 147| 
 | 20210208T13:02:28Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 7 | 4| 
@@ -62,7 +63,6 @@
 | 20210208T12:19:18Z | Safe Opponent Exploitation in python (paper: https://www.cs.cmu.edu/~sandholm/safeExploitation.teac15.pdf) | https://github.com/masonmcbride/soe | 0 | 0| 
 | 20210208T11:40:00Z | ADB exploit tool | https://github.com/THER3BEL/Zacktheripper | 0 | 0| 
 | 20210208T11:35:13Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 8981 | 1443| 
-| 20210208T11:14:44Z | TryHackMe CTFs writeups, notes, dratfs, scrabbles, files and solutions. | https://github.com/edoardottt/tryhackme-ctf | 12 | 8| 
 
 
 # backdoor on Github 推荐
