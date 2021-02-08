@@ -78,13 +78,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210208T02:54:05Z | Towards fuzzing ROS 2 automatically | https://github.com/JnxF/automatic_fuzzing | 0 | 0| 
-| 20210208T02:36:19Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 1294 | 281| 
-| 20210208T02:16:25Z | 这个仓库用来放各种乱七八糟的文 | https://github.com/Lulufb/fuzzy-funicular | 0 | 0| 
-| 20210208T00:34:19Z | Scalable fuzzing infrastructure. | https://github.com/google/clusterfuzz | 4426 | 412| 
-| 20210208T00:33:50Z | Ethereum smart contract fuzzer | https://github.com/crytic/echidna | 545 | 93| 
-| 20210208T00:33:15Z | 2012 - Fuzzy regex pattern matching and capturing. | https://github.com/ZGorlock/FuzzyRegex | 0 | 0| 
-| 20210208T00:09:47Z | The Book %Generating Software Tests% | https://github.com/uds-se/fuzzingbook | 526 | 104| 
+| 20210208T13:48:05Z | Ethereum smart contract fuzzer | https://github.com/crytic/echidna | 546 | 93| 
+| 20210208T13:43:14Z | Personal website of Laurence Hughes | https://github.com/fuzzylogicxx/fuzzylogic | 4 | 1| 
+| 20210208T13:38:29Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 5861 | 1182| 
+| 20210208T13:26:36Z | final project for CS50 2020 | https://github.com/leztien/fuzzy_matching_project | 0 | 0| 
+| 20210208T12:45:44Z | Web application fuzzer | https://github.com/xmendez/wfuzz | 3489 | 876| 
+| 20210208T12:35:59Z | Null | https://github.com/ethereum/solidity-fuzzing-corpus | 10 | 4| 
+| 20210208T11:40:07Z | Null | https://github.com/ShajinAhsan/fuzzy-umbrella | 0 | 0| 
+| 20210208T09:38:14Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 3335 | 770| 
+| 20210208T09:17:43Z | Generates Elm types, JSON decoders, JSON encoders and fuzz tests from JSON schema specifications | https://github.com/dragonwasrobot/json-schema-to-elm | 61 | 7| 
+| 20210208T09:07:50Z | Null | https://github.com/BTrain137/fuzzy-winner | 0 | 0| 
 
 
 
