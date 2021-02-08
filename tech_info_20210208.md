@@ -54,6 +54,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210208T13:45:30Z | Tutorials and Tools to get your Xiaomi Router in English. All of this is tested on an Xiaomi 4A non Gigabit (but it should work on other too) | https://github.com/devilAPI/XiaomiRouter-EnglishExploit | 0 | 0| 
 | 20210208T13:42:06Z | Simple exploit template generation tool | https://github.com/d4rk-kn1gh7/genexp | 2 | 0| 
 | 20210208T13:40:05Z | CDK is an open-sourced container penetration toolkit, offering stable exploitation in different slimmed containers without any OS dependency. It comes with penetration tools and many powerful PoCs/EXPs helps you to escape container and takeover K8s cluster easily. | https://github.com/cdk-team/CDK | 1090 | 147| 
 | 20210208T13:38:08Z | Experimental game website I made for Glitcheon, a metroidvania about exploiting intentiolan bugs | https://github.com/chwair/glitcheon-web | 0 | 0| 
@@ -63,7 +64,6 @@
 | 20210208T12:38:10Z | This bash script will help you to hack remote hosts  | https://github.com/FabioDefilippo/linuxallremote | 4 | 1| 
 | 20210208T12:30:07Z | Script to quickly exploit lxd/lxc priveleged image  | https://github.com/kimusan/lxd-exploiter | 1 | 0| 
 | 20210208T12:19:18Z | Safe Opponent Exploitation in python (paper: https://www.cs.cmu.edu/~sandholm/safeExploitation.teac15.pdf) | https://github.com/masonmcbride/soe | 0 | 0| 
-| 20210208T11:40:00Z | ADB exploit tool | https://github.com/THER3BEL/Zacktheripper | 0 | 0| 
 
 
 # backdoor on Github 推荐
