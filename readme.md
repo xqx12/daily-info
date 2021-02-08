@@ -51,16 +51,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210208T13:02:28Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 7 | 4| 
+| 20210208T13:02:23Z | This is a proof of concept for the Lib-PSP iplloader arbitrary load address exploit which uses a jump slide to execute code in Lib-PSP iplloader context. | https://github.com/mathieulh/Lib-PSP-iplloader-Jump-Slide-POC | 0 | 0| 
 | 20210208T12:50:49Z | Modular penetration testing platform that enables you to write, test, and execute exploit code. | https://github.com/EntySec/ZetaSploit | 20 | 9| 
 | 20210208T12:43:21Z | CDK is an open-sourced container penetration toolkit, offering stable exploitation in different slimmed containers without any OS dependency. It comes with penetration tools and many powerful PoCs/EXPs helps you to escape container and takeover K8s cluster easily. | https://github.com/cdk-team/CDK | 1089 | 147| 
 | 20210208T12:38:10Z | This bash script will help you to hack remote hosts  | https://github.com/FabioDefilippo/linuxallremote | 4 | 1| 
 | 20210208T12:30:07Z | Script to quickly exploit lxd/lxc priveleged image  | https://github.com/kimusan/lxd-exploiter | 1 | 0| 
 | 20210208T12:19:18Z | Safe Opponent Exploitation in python (paper: https://www.cs.cmu.edu/~sandholm/safeExploitation.teac15.pdf) | https://github.com/masonmcbride/soe | 0 | 0| 
-| 20210208T12:02:38Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 7 | 4| 
 | 20210208T11:40:00Z | ADB exploit tool | https://github.com/THER3BEL/Zacktheripper | 0 | 0| 
 | 20210208T11:35:13Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 8981 | 1443| 
 | 20210208T11:14:44Z | TryHackMe CTFs writeups, notes, dratfs, scrabbles, files and solutions. | https://github.com/edoardottt/tryhackme-ctf | 12 | 8| 
-| 20210208T11:13:05Z | Code-base to go with academic paper %REdiREKT: Extracting Malicious Redirections from Exploit Kit Traffic% available @ https://pure.qub.ac.uk/en/publications/redirekt-extracting-malicious-redirections-from-exploit-kit-traff and short video presentation and tool demo here: https://www.youtube.com/watch?v=DIXRouNfq6E | https://github.com/Crypto-Cat/REdiREKT | 0 | 0| 
 
 
 # backdoor on Github 推荐
