@@ -44,7 +44,6 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210207T23:49:00Z | A modern cLVM script execution exploit challenging Roblox%s new security and integrity checks, to achieve unrestricted arbitrary script execution with unmatched levels of context and core access. | https://github.com/AmirAgassi/exWare | 0 | 0| 
 | 20210207T22:59:31Z | Extra goodies for GEF: Open repository for unfiltered contributions to the project. | https://github.com/hugsy/gef-extras | 49 | 23| 
 | 20210207T21:56:30Z | Script to quickly exploit lxd/lxc priveleged image  | https://github.com/kimusan/lxd-exploiter | 0 | 0| 
 | 20210207T21:51:04Z | ARTi-C2  is a post-exploitation framework used to execute Atomic Red Team test cases with rapid payload deployment and execution capabilities via .NET%s DLR. | https://github.com/blackbotinc/Atomic-Red-Team-Intelligence-C2 | 0 | 0| 
@@ -54,6 +53,7 @@
 | 20210207T21:13:58Z | Modular penetration testing platform that enables you to write, test, and execute exploit code. | https://github.com/EntySec/ZetaSploit | 19 | 7| 
 | 20210207T21:06:01Z | Security crash exploit | https://github.com/GaetanOff/NoCrashCo | 2 | 0| 
 | 20210207T20:35:12Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 8980 | 1443| 
+| 20210207T20:27:26Z | forked version of funtuna, a homebrew ps2 app launcher designed to ease the pain of getting a stable exploit for those that have a console uncompatible with FreeMcBoot that doesnt have a modchip | https://github.com/israpps/Funtuna-Fork | 1 | 0| 
 
 
 # backdoor on Github 推荐
