@@ -60,7 +60,6 @@
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
 | 20210208T23:47:59Z | free aram boost | https://github.com/devshadows/aram-exploit | 0 | 0| 
-| 20210208T23:42:20Z | Vulnerabilities% Risk of Exploitation | https://github.com/thiagofigcosta/V-REx | 0 | 0| 
 | 20210208T23:30:26Z | Trying miscellaneous security exploits for fun. | https://github.com/joshtburris/Hacking-Is-Fun | 0 | 0| 
 | 20210208T23:14:30Z | This bash script will help you to hack remote hosts  | https://github.com/FabioDefilippo/linuxallremote | 4 | 1| 
 | 20210208T23:05:05Z | Explorations and exploitations of the UWP platform | https://github.com/alexpisquared/UWP | 0 | 0| 
@@ -69,6 +68,7 @@
 | 20210208T21:52:42Z | POC for GitLabs Authenticated RCE in version 11.4.7 community edition | https://github.com/ctrlsam/GitLab-11.4.7-RCE | 1 | 1| 
 | 20210208T21:38:14Z | hack tools | https://github.com/hacktoolspack/hack-tools | 468 | 330| 
 | 20210208T21:30:29Z | Old and new CTFs about Linux kernel exploitation. | https://github.com/MaherAzzouzi/LinuxKernelExploitation | 1 | 0| 
+| 20210208T20:35:33Z | CVE-2021-3156: Sudo exploit for Debain 10 | https://github.com/0xDevil/CVE-2021-3156 | 1 | 0| 
 
 
 # backdoor on Github 推荐
