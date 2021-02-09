@@ -84,16 +84,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210209T01:48:58Z | android exploit root access using adb. tested on android redmi3 kernel 3.10 and not working android redmi4 kernel 3.18 | https://github.com/SunJangYo12/exploit-adb-dirtycow | 0 | 0| 
+| 20210209T02:02:56Z | android exploit root access using adb. tested on android redmi3 kernel 3.10 and not working android redmi4 kernel 3.18 | https://github.com/SunJangYo12/exploit-adb-dirtycow | 0 | 0| 
+| 20210209T02:02:52Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 7 | 4| 
+| 20210209T02:02:14Z | All my work through reading Hacking The Art of Exploitation. | https://github.com/bixbyhall/art_of_exploitation | 0 | 0| 
 | 20210209T01:46:59Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 8988 | 1444| 
 | 20210209T01:21:45Z | Open-Sourced Free Exploit | https://github.com/OpenGamerTips/Xenon | 0 | 0| 
 | 20210209T01:13:59Z | lol | https://github.com/7GrandDadPGN/RoactForExploiting | 0 | 0| 
-| 20210209T01:02:31Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 7 | 4| 
 | 20210209T00:50:02Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 7 | 4| 
 | 20210209T00:22:36Z | ARTi-C2  is a post-exploitation framework used to execute Atomic Red Team test cases with rapid payload deployment and execution capabilities via .NET%s DLR. | https://github.com/blackbotinc/Atomic-Red-Team-Intelligence-C2 | 23 | 0| 
 | 20210208T23:47:59Z | free aram boost | https://github.com/devshadows/aram-exploit | 0 | 0| 
 | 20210208T23:42:20Z | Vulnerabilities% Risk of Exploitation | https://github.com/thiagofigcosta/V-REx | 0 | 0| 
-| 20210208T23:30:26Z | Trying miscellaneous security exploits for fun. | https://github.com/joshtburris/Hacking-Is-Fun | 0 | 0| 
 
 
 # backdoor on Github 推荐
@@ -114,6 +114,8 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210209T01:59:02Z | fuzzy title matching with fuzzy wuzzy and pandas | https://github.com/mrrebelito/fuzzy-title-matching | 0 | 0| 
+| 20210209T01:43:44Z | Null | https://github.com/manoelfneto/FuzzyLogicCancer | 0 | 0| 
 | 20210209T01:20:46Z | Security oriented software fuzzer. Supports evolutionary, feedback-driven fuzzing based on code coverage (SW and HW based) | https://github.com/google/honggfuzz | 2129 | 431| 
 | 20210209T01:05:15Z | Null | https://github.com/psuchta/fuzzy-parking | 0 | 0| 
 | 20210209T00:58:19Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 1296 | 282| 
@@ -121,9 +123,7 @@
 | 20210209T00:15:24Z | This is a repo containing all the projects that I wish to share | https://github.com/DrGaud/fuzzyBearProjects | 0 | 0| 
 | 20210208T23:56:21Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 5865 | 1183| 
 | 20210208T23:55:10Z | Null | https://github.com/bautjacob/fuzzy-waddle | 0 | 0| 
-| 20210208T23:43:12Z | Null | https://github.com/manoelfneto/FuzzyLogicCancer | 0 | 0| 
 | 20210208T23:39:43Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2262 | 116| 
-| 20210208T23:38:53Z | Scalable fuzzing infrastructure. | https://github.com/google/clusterfuzz | 4426 | 413| 
 
 
 

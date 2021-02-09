@@ -91,7 +91,6 @@
 | --- | --- | --- | --- | ---| 
 | 20210208T23:56:21Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 5865 | 1183| 
 | 20210208T23:55:10Z | Null | https://github.com/bautjacob/fuzzy-waddle | 0 | 0| 
-| 20210208T23:43:12Z | Null | https://github.com/manoelfneto/FuzzyLogicCancer | 0 | 0| 
 | 20210208T23:39:43Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2262 | 116| 
 | 20210208T23:38:53Z | Scalable fuzzing infrastructure. | https://github.com/google/clusterfuzz | 4426 | 413| 
 | 20210208T22:49:09Z | Null | https://github.com/pmlove3/fuzzy-funicular | 0 | 0| 
@@ -99,6 +98,7 @@
 | 20210208T21:39:57Z | Null | https://github.com/primosz/FuzzySandbox | 0 | 0| 
 | 20210208T21:37:26Z | Ethereum smart contract fuzzer | https://github.com/crytic/echidna | 546 | 93| 
 | 20210208T21:36:42Z | Null | https://github.com/moyix/irq_fuzzer | 3 | 1| 
+| 20210208T21:04:11Z | Null | https://github.com/54yggghgrr4/fuzzy-system | 0 | 0| 
 
 
 
