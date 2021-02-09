@@ -28,9 +28,8 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20210208T20:35:33Z | CVE-2021-3156 | CVE-2021-3156: Sudo exploit for Debain 10 | https://github.com/0xDevil/CVE-2021-3156 | | 
+| 20210208T20:35:33Z | CVE-2021-3156 | CVE-2021-3156: Sudo exploit for Debain 10 | https://github.com/0xDevil/CVE-2021-3156 | Sudo before 1.9.5p2 has a Heap-based Buffer Overflow, allowing privilege escalation to root via %sudoedit -s% and a command-line argument that ends with a single backslash character.| 
 | 20210208T20:13:25Z | CVE-2021-3156 | PoC for CVE-2021-3156 (sudo heap overflow) | https://github.com/stong/CVE-2021-3156 | Sudo before 1.9.5p2 has a Heap-based Buffer Overflow, allowing privilege escalation to root via %sudoedit -s% and a command-line argument that ends with a single backslash character.| 
-| 20210208T13:11:35Z | CVE-2020-5902 | simple bash script of F5 BIG-IP CVE-2020-5902 checker | https://github.com/faisalfs10x/F5-BIG-IP-CVE-2020-5902-shodan-scanner | In BIG-IP versions 15.0.0-15.1.0.3, 14.1.0-14.1.2.5, 13.1.0-13.1.3.3, 12.1.0-12.1.5.1, and 11.6.1-11.6.5.1, the Traffic Management User Interface (TMUI), also referred to as the Configuration utility, has a Remote Code Execution (RCE) vulnerability in undisclosed pages.| 
 | 20210208T13:11:01Z | CVE-2020-3452 | simple bash script of Cisco CVE-2020-3452 checker  | https://github.com/faisalfs10x/Cisco-CVE-2020-3452-shodan-scanner | A vulnerability in the web services interface of Cisco Adaptive Security Appliance (ASA) Software and Cisco Firepower Threat Defense (FTD) Software could allow an unauthenticated, remote attacker to conduct directory traversal attacks and read sensitive files on a targeted system. The vulnerability is due to a lack of proper input validation of URLs in HTTP requests processed by an affected device. An attacker could exploit this vulnerability by sending a crafted HTTP request containing directory traversal character sequences to an affected device. A successful exploit could allow the attacker to view arbitrary files within the web services file system on the targeted device. The web services file system is enabled when the affected device is configured with either WebVPN or AnyConnect features. This vulnerability cannot be used to obtain access to ASA or FTD system files or underlying operating system (OS) files.| 
 | 20210208T07:41:38Z | cve-2020-17523 | shiro-cve-2020-17523 漏洞的两种绕过姿势分析（带漏洞环境） | https://github.com/jweny/shiro-cve-2020-17523 | 未查询到CVE信息| 
 
@@ -90,16 +89,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210208T13:57:34Z | Null | https://github.com/majestarmiko/fuzzy-hapkai | 0 | 0| 
-| 20210208T13:57:06Z | Null | https://github.com/majestarmiko/fuzzy-happiness | 0 | 0| 
-| 20210208T13:48:05Z | Ethereum smart contract fuzzer | https://github.com/crytic/echidna | 546 | 93| 
-| 20210208T13:43:14Z | Personal website of Laurence Hughes | https://github.com/fuzzylogicxx/fuzzylogic | 4 | 1| 
-| 20210208T13:38:29Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 5861 | 1182| 
-| 20210208T13:26:36Z | final project for CS50 2020 | https://github.com/leztien/fuzzy_matching_project | 0 | 0| 
-| 20210208T12:45:44Z | Web application fuzzer | https://github.com/xmendez/wfuzz | 3489 | 876| 
-| 20210208T12:35:59Z | Null | https://github.com/ethereum/solidity-fuzzing-corpus | 10 | 4| 
-| 20210208T11:40:07Z | Null | https://github.com/ShajinAhsan/fuzzy-umbrella | 0 | 0| 
-| 20210208T09:38:14Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 3335 | 770| 
+| 20210208T23:56:21Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 5865 | 1183| 
+| 20210208T23:55:10Z | Null | https://github.com/bautjacob/fuzzy-waddle | 0 | 0| 
+| 20210208T23:43:12Z | Null | https://github.com/manoelfneto/FuzzyLogicCancer | 0 | 0| 
+| 20210208T23:39:43Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2262 | 116| 
+| 20210208T23:38:53Z | Scalable fuzzing infrastructure. | https://github.com/google/clusterfuzz | 4426 | 413| 
+| 20210208T22:49:09Z | Null | https://github.com/pmlove3/fuzzy-funicular | 0 | 0| 
+| 20210208T22:35:23Z | Null | https://github.com/TimArnettThales/FuzzyAsteroids | 0 | 0| 
+| 20210208T21:39:57Z | Null | https://github.com/primosz/FuzzySandbox | 0 | 0| 
+| 20210208T21:37:26Z | Ethereum smart contract fuzzer | https://github.com/crytic/echidna | 546 | 93| 
+| 20210208T21:36:42Z | Null | https://github.com/moyix/irq_fuzzer | 3 | 1| 
 
 
 
