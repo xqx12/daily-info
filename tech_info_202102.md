@@ -84,6 +84,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210209T13:43:59Z | CrowdKit - Exploring and Exploiting the Wisdom of Crowds | https://github.com/wisdomofcrowds/CrowdKit | 0 | 0| 
 | 20210209T13:37:18Z | C2/post-exploitation framework powered by Python | https://github.com/loseys/BlackMamba | 2 | 1| 
 | 20210209T13:30:14Z | This bash script will help you to hack remote hosts  | https://github.com/FabioDefilippo/linuxallremote | 4 | 1| 
 | 20210209T13:25:01Z | Null | https://github.com/gh0st27/StrutsExploiter | 0 | 0| 
@@ -93,7 +94,6 @@
 | 20210209T12:46:01Z | windows and linux streams for post exploitation | https://github.com/kymb0/post_exploitation | 1 | 0| 
 | 20210209T12:21:13Z | Null | https://github.com/s27anonym/Exploit_Search | 0 | 0| 
 | 20210209T11:45:41Z | KDMapper is a simple tool that exploits iqvw64e.sys Intel driver to manually map non-signed drivers in memory | https://github.com/TheCruZ/kdmapper | 145 | 67| 
-| 20210209T11:43:45Z | Open-source roblox exploit UI. | https://github.com/ijsbeerr/TTOOLS | 0 | 0| 
 
 
 # backdoor on Github 推荐
