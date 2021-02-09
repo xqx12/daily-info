@@ -84,6 +84,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210209T13:25:01Z | Null | https://github.com/gh0st27/StrutsExploiter | 0 | 0| 
 | 20210209T13:24:36Z | This bash script will help you to hack remote hosts  | https://github.com/FabioDefilippo/linuxallremote | 4 | 1| 
 | 20210209T13:24:35Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 8987 | 1444| 
 | 20210209T13:02:33Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 7 | 4| 
@@ -93,12 +94,12 @@
 | 20210209T11:45:41Z | KDMapper is a simple tool that exploits iqvw64e.sys Intel driver to manually map non-signed drivers in memory | https://github.com/TheCruZ/kdmapper | 145 | 67| 
 | 20210209T11:43:45Z | Open-source roblox exploit UI. | https://github.com/ijsbeerr/TTOOLS | 0 | 0| 
 | 20210209T10:53:26Z | Post-Exploitation :sunglasses: module for Penetration Tester and Hackers. | https://github.com/ankitdobhal/Powerexploit | 16 | 5| 
-| 20210209T10:50:57Z | TryHackMe CTFs writeups, notes, dratfs, scrabbles, files and solutions. | https://github.com/edoardottt/tryhackme-ctf | 12 | 8| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210209T13:25:51Z | Null | https://github.com/EjHvorSerDuVildUdJim/backdoor | 0 | 0| 
 | 20210209T11:24:26Z | FUD cross-platform python2 backdoor with C2 | https://github.com/7h3w4lk3r/pyback | 16 | 5| 
 | 20210209T11:13:42Z | The official backdoor of the Bane Project for Android | https://github.com/datteroandrea/banedroid | 1 | 1| 
 | 20210209T09:02:15Z | Null | https://github.com/Wiilldd/backdoor | 0 | 0| 
@@ -108,7 +109,6 @@
 | 20210208T22:54:31Z | A backdoor that runs on Linux and Windows | https://github.com/EiSiMo/Backdoor | 13 | 7| 
 | 20210208T21:53:51Z | Neural network backdoor trojan attack detection | https://github.com/abayakturin/neural-protect | 0 | 0| 
 | 20210208T20:15:36Z | Backdoor for scripts | https://github.com/fnalte/Backdoor | 0 | 0| 
-| 20210208T19:05:54Z | A sample app to demonstrate how to create Xamarin UITests using the Page Object architecture, Backdoor Methods and App Links (aka Deep Linking) | https://github.com/brminnick/UITestSampleApp | 32 | 25| 
 
 
 # fuzz on Github 推荐
