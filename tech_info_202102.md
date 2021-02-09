@@ -84,7 +84,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210209T13:35:35Z | C2/post-exploitation framework powered by Python | https://github.com/loseys/BlackMamba | 2 | 1| 
+| 20210209T13:36:37Z | C2/post-exploitation framework powered by Python | https://github.com/loseys/BlackMamba | 2 | 1| 
 | 20210209T13:30:14Z | This bash script will help you to hack remote hosts  | https://github.com/FabioDefilippo/linuxallremote | 4 | 1| 
 | 20210209T13:25:01Z | Null | https://github.com/gh0st27/StrutsExploiter | 0 | 0| 
 | 20210209T13:24:35Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 8987 | 1444| 
