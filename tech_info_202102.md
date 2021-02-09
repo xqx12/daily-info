@@ -48,7 +48,7 @@
 | --- | --- | --- | --- | ---| 
 | 20210209T09:35:54Z | CVE-2021-3156 | sudo heap overflow to LPE, in Go | https://github.com/jm33-m0/CVE-2021-3156 | Sudo before 1.9.5p2 has a Heap-based Buffer Overflow, allowing privilege escalation to root via %sudoedit -s% and a command-line argument that ends with a single backslash character.| 
 | 20210209T08:58:14Z | CVE-2021-3156 | PoC for CVE-2021-3156 (sudo heap overflow) | https://github.com/stong/CVE-2021-3156 | Sudo before 1.9.5p2 has a Heap-based Buffer Overflow, allowing privilege escalation to root via %sudoedit -s% and a command-line argument that ends with a single backslash character.| 
-| 20210209T07:22:16Z | cve-2021-3156 | 보안취약점 확인 | https://github.com/gmldbd94/cve-2021-3156 | | 
+| 20210209T07:22:16Z | cve-2021-3156 | 보안취약점 확인 | https://github.com/gmldbd94/cve-2021-3156 | 未查询到CVE信息| 
 | 20210209T04:53:36Z | CVE-2020-1350 | HoneyPoC: Proof-of-Concept (PoC) script to exploit SIGRed (CVE-2020-1350). Achieves Domain Admin on Domain Controllers running Windows Server 2000 up to Windows Server 2019. | https://github.com/ZephrFish/CVE-2020-1350 | A remote code execution vulnerability exists in Windows Domain Name System servers when they fail to properly handle requests, aka %Windows DNS Server Remote Code Execution Vulnerability%.| 
 | 20210209T03:15:11Z | CVE-2020-17527 | Null | https://github.com/forse01/CVE-2020-17527-Tomcat | While investigating bug 64830 it was discovered that Apache Tomcat 10.0.0-M1 to 10.0.0-M9, 9.0.0-M1 to 9.0.39 and 8.5.0 to 8.5.59 could re-use an HTTP request header value from the previous stream received on an HTTP/2 connection for the request associated with the subsequent stream. While this would most likely lead to an error and the closure of the HTTP/2 connection, it is possible that information could leak between requests.| 
 | 20210209T03:14:51Z | CVE-2020-25213 | Null | https://github.com/forse01/CVE-2020-25213-Wordpress | The File Manager (wp-file-manager) plugin before 6.9 for WordPress allows remote attackers to upload and execute arbitrary PHP code because it renames an unsafe example elFinder connector file to have the .php extension. This, for example, allows attackers to run the elFinder upload (or mkfile and put) command to write PHP code into the wp-content/plugins/wp-file-manager/lib/files/ directory. This was exploited in the wild in August and September 2020.| 
@@ -99,21 +99,22 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210209T11:24:26Z | FUD cross-platform python2 backdoor with C2 | https://github.com/7h3w4lk3r/pyback | 16 | 5| 
+| 20210209T11:13:42Z | The official backdoor of the Bane Project for Android | https://github.com/datteroandrea/banedroid | 1 | 1| 
+| 20210209T09:02:15Z | Null | https://github.com/Wiilldd/backdoor | 0 | 0| 
+| 20210209T07:05:08Z | Null | https://github.com/fenilsuchak/test-mlm-backdoor | 0 | 0| 
+| 20210209T06:48:35Z | Sheel Backdoor By IndoSploit | https://github.com/RDTUTORIAL/IndoSploit-Shell | 0 | 0| 
 | 20210209T00:27:23Z | Null | https://github.com/iK4oS/PremiumBackdoor.exe | 0 | 1| 
 | 20210208T22:54:31Z | A backdoor that runs on Linux and Windows | https://github.com/EiSiMo/Backdoor | 13 | 7| 
 | 20210208T21:53:51Z | Neural network backdoor trojan attack detection | https://github.com/abayakturin/neural-protect | 0 | 0| 
 | 20210208T20:15:36Z | Backdoor for scripts | https://github.com/fnalte/Backdoor | 0 | 0| 
 | 20210208T19:05:54Z | A sample app to demonstrate how to create Xamarin UITests using the Page Object architecture, Backdoor Methods and App Links (aka Deep Linking) | https://github.com/brminnick/UITestSampleApp | 32 | 25| 
-| 20210208T16:25:43Z | Null | https://github.com/sunrungeng/BackdoorAttack | 0 | 0| 
-| 20210208T15:57:47Z | Null | https://github.com/direskyfer/beta-linux-backdoor | 1 | 0| 
-| 20210208T15:19:23Z | Null | https://github.com/mikkelskov1/backdoor2 | 0 | 0| 
-| 20210208T12:56:56Z | Null | https://github.com/jarviscodes/32u4_backdoor_poc | 0 | 0| 
-| 20210208T12:35:49Z | A minimal PyTorch implementation of Label-Consistent Backdoor Attacks | https://github.com/hkunzhe/label_consistent_attacks_pytorch | 0 | 0| 
 
 
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210209T13:01:32Z | Null | https://github.com/zyannan/fuzzyquery | 0 | 0| 
 | 20210209T12:48:50Z | Personal website of Laurence Hughes | https://github.com/fuzzylogicxx/fuzzylogic | 4 | 1| 
 | 20210209T12:41:47Z | git_udemy_course | https://github.com/in3aqk/fuzzy-broccoli | 0 | 0| 
 | 20210209T11:55:48Z | Null | https://github.com/Parth436/fuzzy-tribble | 0 | 0| 
@@ -123,7 +124,6 @@
 | 20210209T10:49:54Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 3337 | 770| 
 | 20210209T09:57:47Z | Null | https://github.com/sumit245/fuzzy-funicular | 0 | 0| 
 | 20210209T09:54:04Z | python project | https://github.com/st170774/fuzzy_project | 0 | 0| 
-| 20210209T09:36:02Z | Null | https://github.com/bautjacob/fuzzy-waddle | 0 | 0| 
 
 
 
