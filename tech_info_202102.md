@@ -55,7 +55,7 @@
 | 20210207T16:06:50Z | CVE-2021-3122 | Null | https://github.com/roughb8722/CVE-2021-3122-Details | CMCAgent in NCR Command Center Agent 16.3 on Aloha POS/BOH servers permits the submission of a runCommand parameter (within an XML document sent to port 8089) that enables the remote, unauthenticated execution of an arbitrary command as SYSTEM, as exploited in the wild in 2020 and/or 2021. NOTE: the vendor%s position is that exploitation occurs only on devices with a certain %misconfiguration.%| 
 | 20210207T14:18:55Z | CVE-2021-3229 | Null | https://github.com/fullbbadda1208/CVE-2021-3229 | Denial of service in ASUSWRT ASUS RT-AX3000 firmware versions 3.0.0.4.384_10177 and earlier versions allows an attacker to disrupt the use of device setup services via continuous login error.| 
 | 20210207T11:30:11Z | CVE-2020-27930 | Apple Safari Remote Code Execution | https://github.com/FunPhishing/Apple-Safari-Remote-Code-Execution-CVE-2020-27930 | A memory corruption issue was addressed with improved input validation. This issue is fixed in macOS Big Sur 11.0.1, watchOS 7.1, iOS 12.4.9, watchOS 6.2.9, Security Update 2020-006 High Sierra, Security Update 2020-006 Mojave, iOS 14.2 and iPadOS 14.2, watchOS 5.3.9, macOS Catalina 10.15.7 Supplemental Update, macOS Catalina 10.15.7 Update. Processing a maliciously crafted font may lead to arbitrary code execution.| 
-| 20210207T11:10:05Z | CVE-2021-3156 | CVE-2021-3156漏洞复现 | https://github.com/Hello12112020/CVE-2021-3156 | Sudo before 1.9.5p2 has a Heap-based Buffer Overflow, allowing privilege escalation to root via %sudoedit -s% and a command-line argument that ends with a single backslash character.| 
+| 20210207T11:10:05Z | CVE-2021-3156 | CVE-2021-3156漏洞复现 | https://github.com/Hello12112020/CVE-2021-3156 | | 
 
 
 # klee on Github 推荐
@@ -84,9 +84,9 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210209T02:04:29Z | All my work through reading Hacking The Art of Exploitation. | https://github.com/bixbyhall/art_of_exploitation | 0 | 0| 
 | 20210209T02:02:56Z | android exploit root access using adb. tested on android redmi3 kernel 3.10 and not working android redmi4 kernel 3.18 | https://github.com/SunJangYo12/exploit-adb-dirtycow | 0 | 0| 
 | 20210209T02:02:52Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 7 | 4| 
-| 20210209T02:02:14Z | All my work through reading Hacking The Art of Exploitation. | https://github.com/bixbyhall/art_of_exploitation | 0 | 0| 
 | 20210209T01:46:59Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 8988 | 1444| 
 | 20210209T01:21:45Z | Open-Sourced Free Exploit | https://github.com/OpenGamerTips/Xenon | 0 | 0| 
 | 20210209T01:13:59Z | lol | https://github.com/7GrandDadPGN/RoactForExploiting | 0 | 0| 
