@@ -44,6 +44,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210209T13:07:36Z | This bash script will help you to hack remote hosts  | https://github.com/FabioDefilippo/linuxallremote | 4 | 1| 
 | 20210209T13:02:33Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 7 | 4| 
 | 20210209T12:52:42Z | Some exploit for the ctf pwnable.kr written in python3 with pwntools | https://github.com/FrancescoLucarini/pwnable.kr-exploits | 0 | 0| 
 | 20210209T12:51:40Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 8988 | 1444| 
@@ -53,7 +54,6 @@
 | 20210209T11:43:45Z | Open-source roblox exploit UI. | https://github.com/ijsbeerr/TTOOLS | 0 | 0| 
 | 20210209T10:53:26Z | Post-Exploitation :sunglasses: module for Penetration Tester and Hackers. | https://github.com/ankitdobhal/Powerexploit | 16 | 5| 
 | 20210209T10:50:57Z | TryHackMe CTFs writeups, notes, dratfs, scrabbles, files and solutions. | https://github.com/edoardottt/tryhackme-ctf | 12 | 8| 
-| 20210209T10:40:09Z | Null | https://github.com/gh0st27/StrutsExploiter | 0 | 0| 
 
 
 # backdoor on Github 推荐
