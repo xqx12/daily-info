@@ -31,6 +31,8 @@
 # 安全维基 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20210209 | 全球高级持续性威胁(APT)2020年度报告 | https://ti.qianxin.com/uploads/2021/02/08/dd941ecf98c7cb9bf0111a8416131aa1.pdf| 
+| 20210209 | 2020年勒索软件分析 | https://mp.weixin.qq.com/s/yrtU2_VxEt94DWF4eQWujA| 
 | 20210208 | SecWiki周刊（第362期) | https://www.sec-wiki.com/weekly/362| 
 | 20210207 | 针对攻击目标量身定制 Cobalt Strike 的 Beacon 执行 | https://mp.weixin.qq.com/s/ofg9dVgL38CENCFXFAslOw| 
 | 20210206 | AVATAR：通过修复静态分析冲突的模式来修复语义错误 | https://mp.weixin.qq.com/s/w9SjsI3WVmghVVQGwtkyUQ| 
@@ -39,32 +41,30 @@
 | 20210206 | 内部审计实务指南—信息系统审计 | http://www.ciia.com.cn/cndetail.html?id=78547| 
 | 20210206 | 中文综述文章列表（自然语言处理&机器学习） | https://github.com/NiuTrans/CNSurvey| 
 | 20210206 | 2020年全球国防网络空间情况综述（武器技术篇-下） | https://mp.weixin.qq.com/s/kd6YahJcqB2NWq3IP2XztQ| 
-| 20210206 | 2020年全球国防网络空间情况综述（武器技术篇-上） | https://mp.weixin.qq.com/s/piWwrlXZTcgN0Tsr2MiLew| 
-| 20210205 | 让网络空间测绘技术不再那么飘忽不定 | https://mp.weixin.qq.com/s/lr39F9kNOfHlMimgymzVwg| 
 
 
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20210209T09:35:54Z | CVE-2021-3156 | sudo heap overflow to LPE, in Go | https://github.com/jm33-m0/CVE-2021-3156 | Sudo before 1.9.5p2 has a Heap-based Buffer Overflow, allowing privilege escalation to root via %sudoedit -s% and a command-line argument that ends with a single backslash character.| 
+| 20210209T08:58:14Z | CVE-2021-3156 | PoC for CVE-2021-3156 (sudo heap overflow) | https://github.com/stong/CVE-2021-3156 | Sudo before 1.9.5p2 has a Heap-based Buffer Overflow, allowing privilege escalation to root via %sudoedit -s% and a command-line argument that ends with a single backslash character.| 
+| 20210209T07:22:16Z | cve-2021-3156 | 보안취약점 확인 | https://github.com/gmldbd94/cve-2021-3156 | | 
+| 20210209T04:53:36Z | CVE-2020-1350 | HoneyPoC: Proof-of-Concept (PoC) script to exploit SIGRed (CVE-2020-1350). Achieves Domain Admin on Domain Controllers running Windows Server 2000 up to Windows Server 2019. | https://github.com/ZephrFish/CVE-2020-1350 | A remote code execution vulnerability exists in Windows Domain Name System servers when they fail to properly handle requests, aka %Windows DNS Server Remote Code Execution Vulnerability%.| 
+| 20210209T03:15:11Z | CVE-2020-17527 | Null | https://github.com/forse01/CVE-2020-17527-Tomcat | While investigating bug 64830 it was discovered that Apache Tomcat 10.0.0-M1 to 10.0.0-M9, 9.0.0-M1 to 9.0.39 and 8.5.0 to 8.5.59 could re-use an HTTP request header value from the previous stream received on an HTTP/2 connection for the request associated with the subsequent stream. While this would most likely lead to an error and the closure of the HTTP/2 connection, it is possible that information could leak between requests.| 
+| 20210209T03:14:51Z | CVE-2020-25213 | Null | https://github.com/forse01/CVE-2020-25213-Wordpress | The File Manager (wp-file-manager) plugin before 6.9 for WordPress allows remote attackers to upload and execute arbitrary PHP code because it renames an unsafe example elFinder connector file to have the .php extension. This, for example, allows attackers to run the elFinder upload (or mkfile and put) command to write PHP code into the wp-content/plugins/wp-file-manager/lib/files/ directory. This was exploited in the wild in August and September 2020.| 
+| 20210209T02:59:08Z | cve-2020-17523 | shiro-cve-2020-17523 漏洞的两种绕过姿势分析（带漏洞环境） | https://github.com/jweny/shiro-cve-2020-17523 | 未查询到CVE信息| 
 | 20210209T01:27:49Z | CVE-2020-5902 | simple bash script of F5 BIG-IP CVE-2020-5902 checker | https://github.com/faisalfs10x/F5-BIG-IP-CVE-2020-5902-shodan-scanner | In BIG-IP versions 15.0.0-15.1.0.3, 14.1.0-14.1.2.5, 13.1.0-13.1.3.3, 12.1.0-12.1.5.1, and 11.6.1-11.6.5.1, the Traffic Management User Interface (TMUI), also referred to as the Configuration utility, has a Remote Code Execution (RCE) vulnerability in undisclosed pages.| 
 | 20210208T20:35:33Z | CVE-2021-3156 | CVE-2021-3156: Sudo exploit for Debain 10 | https://github.com/0xDevil/CVE-2021-3156 | Sudo before 1.9.5p2 has a Heap-based Buffer Overflow, allowing privilege escalation to root via %sudoedit -s% and a command-line argument that ends with a single backslash character.| 
-| 20210208T20:13:25Z | CVE-2021-3156 | PoC for CVE-2021-3156 (sudo heap overflow) | https://github.com/stong/CVE-2021-3156 | Sudo before 1.9.5p2 has a Heap-based Buffer Overflow, allowing privilege escalation to root via %sudoedit -s% and a command-line argument that ends with a single backslash character.| 
 | 20210208T13:11:01Z | CVE-2020-3452 | simple bash script of Cisco CVE-2020-3452 checker  | https://github.com/faisalfs10x/Cisco-CVE-2020-3452-shodan-scanner | A vulnerability in the web services interface of Cisco Adaptive Security Appliance (ASA) Software and Cisco Firepower Threat Defense (FTD) Software could allow an unauthenticated, remote attacker to conduct directory traversal attacks and read sensitive files on a targeted system. The vulnerability is due to a lack of proper input validation of URLs in HTTP requests processed by an affected device. An attacker could exploit this vulnerability by sending a crafted HTTP request containing directory traversal character sequences to an affected device. A successful exploit could allow the attacker to view arbitrary files within the web services file system on the targeted device. The web services file system is enabled when the affected device is configured with either WebVPN or AnyConnect features. This vulnerability cannot be used to obtain access to ASA or FTD system files or underlying operating system (OS) files.| 
-| 20210208T07:41:38Z | cve-2020-17523 | shiro-cve-2020-17523 漏洞的两种绕过姿势分析（带漏洞环境） | https://github.com/jweny/shiro-cve-2020-17523 | 未查询到CVE信息| 
-| 20210207T16:57:31Z | CVE-2020-7384 | CVE-2020-7384 | https://github.com/nikhil1232/CVE-2020-7384 | Rapid7%s Metasploit msfvenom framework handles APK files in a way that allows for a malicious user to craft and publish a file that would execute arbitrary commands on a victim%s machine.| 
-| 20210207T16:06:50Z | CVE-2021-3122 | Null | https://github.com/roughb8722/CVE-2021-3122-Details | CMCAgent in NCR Command Center Agent 16.3 on Aloha POS/BOH servers permits the submission of a runCommand parameter (within an XML document sent to port 8089) that enables the remote, unauthenticated execution of an arbitrary command as SYSTEM, as exploited in the wild in 2020 and/or 2021. NOTE: the vendor%s position is that exploitation occurs only on devices with a certain %misconfiguration.%| 
-| 20210207T14:18:55Z | CVE-2021-3229 | Null | https://github.com/fullbbadda1208/CVE-2021-3229 | Denial of service in ASUSWRT ASUS RT-AX3000 firmware versions 3.0.0.4.384_10177 and earlier versions allows an attacker to disrupt the use of device setup services via continuous login error.| 
-| 20210207T11:30:11Z | CVE-2020-27930 | Apple Safari Remote Code Execution | https://github.com/FunPhishing/Apple-Safari-Remote-Code-Execution-CVE-2020-27930 | A memory corruption issue was addressed with improved input validation. This issue is fixed in macOS Big Sur 11.0.1, watchOS 7.1, iOS 12.4.9, watchOS 6.2.9, Security Update 2020-006 High Sierra, Security Update 2020-006 Mojave, iOS 14.2 and iPadOS 14.2, watchOS 5.3.9, macOS Catalina 10.15.7 Supplemental Update, macOS Catalina 10.15.7 Update. Processing a maliciously crafted font may lead to arbitrary code execution.| 
-| 20210207T11:10:05Z | CVE-2021-3156 | CVE-2021-3156漏洞复现 | https://github.com/Hello12112020/CVE-2021-3156 | Sudo before 1.9.5p2 has a Heap-based Buffer Overflow, allowing privilege escalation to root via %sudoedit -s% and a command-line argument that ends with a single backslash character.| 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210208T22:39:09Z | Null | https://github.com/fontworks-fonts/Klee | 355 | 9| 
-| 20210208T15:15:48Z | Git Blog | https://github.com/klee30810/klee30810.github.io | 0 | 0| 
-| 20210208T11:22:20Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 的 Klee One 的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 30 | 1| 
-| 20210208T11:16:41Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1624 | 481| 
+| 20210209T12:48:58Z | Git Blog | https://github.com/klee30810/klee30810.github.io | 0 | 0| 
+| 20210209T12:21:24Z | Null | https://github.com/fontworks-fonts/Klee | 357 | 9| 
+| 20210209T11:22:06Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 的 Klee One 的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 31 | 1| 
+| 20210208T11:16:41Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1624 | 482| 
 | 20210208T10:29:33Z | RVT is a collection of tools/libraries to support both static and dynamic verification of Rust programs. | https://github.com/project-oak/rust-verification-tools | 107 | 7| 
 | 20210208T08:35:52Z | Null | https://github.com/samkleezy/kleezy | 0 | 0| 
 | 20210208T06:06:32Z | Create CFGs and compute complexity metrics for Python, C++, and Java code. | https://github.com/hmc-alpaqa/metrinome | 6 | 0| 
@@ -84,16 +84,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210209T02:34:45Z | C2/post-exploitation framework powered by Python | https://github.com/loseys/BlackMamba | 0 | 0| 
-| 20210209T02:23:52Z | Vulnerabilities% Risk of Exploitation | https://github.com/thiagofigcosta/V-REx | 0 | 0| 
-| 20210209T02:09:09Z | IoT 固件漏洞复现环境 | https://github.com/firmianay/IoT-vulhub | 180 | 14| 
-| 20210209T02:04:29Z | All my work through reading Hacking The Art of Exploitation. | https://github.com/bixbyhall/art_of_exploitation | 0 | 0| 
-| 20210209T02:02:56Z | android exploit root access using adb. tested on android redmi3 kernel 3.10 and not working android redmi4 kernel 3.18 | https://github.com/SunJangYo12/exploit-adb-dirtycow | 0 | 0| 
-| 20210209T02:02:52Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 7 | 4| 
-| 20210209T01:46:59Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 8988 | 1444| 
-| 20210209T01:21:45Z | Open-Sourced Free Exploit | https://github.com/OpenGamerTips/Xenon | 0 | 0| 
-| 20210209T01:13:59Z | lol | https://github.com/7GrandDadPGN/RoactForExploiting | 0 | 0| 
-| 20210209T00:50:02Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 7 | 4| 
+| 20210209T12:52:42Z | Some exploit for the ctf pwnable.kr written in python3 with pwntools | https://github.com/FrancescoLucarini/pwnable.kr-exploits | 0 | 0| 
+| 20210209T12:51:40Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 8988 | 1444| 
+| 20210209T12:46:01Z | windows and linux streams for post exploitation | https://github.com/kymb0/post_exploitation | 1 | 0| 
+| 20210209T12:21:13Z | Null | https://github.com/s27anonym/Exploit_Search | 0 | 0| 
+| 20210209T12:02:50Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 7 | 4| 
+| 20210209T11:45:41Z | KDMapper is a simple tool that exploits iqvw64e.sys Intel driver to manually map non-signed drivers in memory | https://github.com/TheCruZ/kdmapper | 145 | 67| 
+| 20210209T11:43:45Z | Open-source roblox exploit UI. | https://github.com/ijsbeerr/TTOOLS | 0 | 0| 
+| 20210209T10:53:26Z | Post-Exploitation :sunglasses: module for Penetration Tester and Hackers. | https://github.com/ankitdobhal/Powerexploit | 16 | 5| 
+| 20210209T10:50:57Z | TryHackMe CTFs writeups, notes, dratfs, scrabbles, files and solutions. | https://github.com/edoardottt/tryhackme-ctf | 12 | 8| 
+| 20210209T10:40:09Z | Null | https://github.com/gh0st27/StrutsExploiter | 0 | 0| 
 
 
 # backdoor on Github 推荐
@@ -114,16 +114,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210209T01:59:02Z | fuzzy title matching with fuzzy wuzzy and pandas | https://github.com/mrrebelito/fuzzy-title-matching | 0 | 0| 
-| 20210209T01:43:44Z | Null | https://github.com/manoelfneto/FuzzyLogicCancer | 0 | 0| 
-| 20210209T01:20:46Z | Security oriented software fuzzer. Supports evolutionary, feedback-driven fuzzing based on code coverage (SW and HW based) | https://github.com/google/honggfuzz | 2129 | 431| 
-| 20210209T01:05:15Z | Null | https://github.com/psuchta/fuzzy-parking | 0 | 0| 
-| 20210209T00:58:19Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 1296 | 282| 
-| 20210209T00:26:33Z | Fuzzy diagnosis of oil-related thermal failure in power transformers | https://github.com/dromero1/fuzzy-diagnosis-thermal-failure | 0 | 0| 
-| 20210209T00:15:24Z | This is a repo containing all the projects that I wish to share | https://github.com/DrGaud/fuzzyBearProjects | 0 | 0| 
-| 20210208T23:56:21Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 5865 | 1183| 
-| 20210208T23:55:10Z | Null | https://github.com/bautjacob/fuzzy-waddle | 0 | 0| 
-| 20210208T23:39:43Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2262 | 116| 
+| 20210209T12:48:50Z | Personal website of Laurence Hughes | https://github.com/fuzzylogicxx/fuzzylogic | 4 | 1| 
+| 20210209T12:41:47Z | git_udemy_course | https://github.com/in3aqk/fuzzy-broccoli | 0 | 0| 
+| 20210209T11:55:48Z | Null | https://github.com/Parth436/fuzzy-tribble | 0 | 0| 
+| 20210209T11:46:48Z | Null | https://github.com/GARGI4KASHYAP/fuzzyfuzz | 0 | 0| 
+| 20210209T11:12:21Z | Null | https://github.com/feixiangdejiahao/Fuzzing-Testing-of-JVM-Implementations | 0 | 0| 
+| 20210209T11:10:34Z | Null | https://github.com/7evy/Fuzzy_Queries | 0 | 0| 
+| 20210209T10:49:54Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 3337 | 770| 
+| 20210209T09:57:47Z | Null | https://github.com/sumit245/fuzzy-funicular | 0 | 0| 
+| 20210209T09:54:04Z | python project | https://github.com/st170774/fuzzy_project | 0 | 0| 
+| 20210209T09:36:02Z | Null | https://github.com/bautjacob/fuzzy-waddle | 0 | 0| 
 
 
 
