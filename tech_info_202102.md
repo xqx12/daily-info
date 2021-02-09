@@ -84,6 +84,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210209T01:13:59Z | lol | https://github.com/7GrandDadPGN/RoactForExploiting | 0 | 0| 
 | 20210209T01:09:44Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 8987 | 1444| 
 | 20210209T01:06:08Z | Open-Sourced Free Exploit | https://github.com/OpenGamerTips/Xenon | 0 | 0| 
 | 20210209T01:02:31Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 7 | 4| 
@@ -93,7 +94,6 @@
 | 20210208T23:42:20Z | Vulnerabilities% Risk of Exploitation | https://github.com/thiagofigcosta/V-REx | 0 | 0| 
 | 20210208T23:30:26Z | Trying miscellaneous security exploits for fun. | https://github.com/joshtburris/Hacking-Is-Fun | 0 | 0| 
 | 20210208T23:14:30Z | This bash script will help you to hack remote hosts  | https://github.com/FabioDefilippo/linuxallremote | 4 | 1| 
-| 20210208T23:05:05Z | Explorations and exploitations of the UWP platform | https://github.com/alexpisquared/UWP | 0 | 0| 
 
 
 # backdoor on Github 推荐
