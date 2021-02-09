@@ -54,7 +54,7 @@
 | 20210207T16:57:31Z | CVE-2020-7384 | CVE-2020-7384 | https://github.com/nikhil1232/CVE-2020-7384 | Rapid7%s Metasploit msfvenom framework handles APK files in a way that allows for a malicious user to craft and publish a file that would execute arbitrary commands on a victim%s machine.| 
 | 20210207T16:06:50Z | CVE-2021-3122 | Null | https://github.com/roughb8722/CVE-2021-3122-Details | CMCAgent in NCR Command Center Agent 16.3 on Aloha POS/BOH servers permits the submission of a runCommand parameter (within an XML document sent to port 8089) that enables the remote, unauthenticated execution of an arbitrary command as SYSTEM, as exploited in the wild in 2020 and/or 2021. NOTE: the vendor%s position is that exploitation occurs only on devices with a certain %misconfiguration.%| 
 | 20210207T14:18:55Z | CVE-2021-3229 | Null | https://github.com/fullbbadda1208/CVE-2021-3229 | Denial of service in ASUSWRT ASUS RT-AX3000 firmware versions 3.0.0.4.384_10177 and earlier versions allows an attacker to disrupt the use of device setup services via continuous login error.| 
-| 20210207T11:30:11Z | CVE-2020-27930 | Apple Safari Remote Code Execution | https://github.com/FunPhishing/Apple-Safari-Remote-Code-Execution-CVE-2020-27930 | A memory corruption issue was addressed with improved input validation. This issue is fixed in macOS Big Sur 11.0.1, watchOS 7.1, iOS 12.4.9, watchOS 6.2.9, Security Update 2020-006 High Sierra, Security Update 2020-006 Mojave, iOS 14.2 and iPadOS 14.2, watchOS 5.3.9, macOS Catalina 10.15.7 Supplemental Update, macOS Catalina 10.15.7 Update. Processing a maliciously crafted font may lead to arbitrary code execution.| 
+| 20210207T11:30:11Z | CVE-2020-27930 | Apple Safari Remote Code Execution | https://github.com/FunPhishing/Apple-Safari-Remote-Code-Execution-CVE-2020-27930 | | 
 | 20210207T11:10:05Z | CVE-2021-3156 | CVE-2021-3156漏洞复现 | https://github.com/Hello12112020/CVE-2021-3156 | Sudo before 1.9.5p2 has a Heap-based Buffer Overflow, allowing privilege escalation to root via %sudoedit -s% and a command-line argument that ends with a single backslash character.| 
 
 
@@ -84,6 +84,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210209T01:06:08Z | Open-Sourced Free Exploit | https://github.com/OpenGamerTips/Xenon | 0 | 0| 
 | 20210209T01:02:31Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 7 | 4| 
 | 20210209T00:50:02Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 7 | 4| 
 | 20210209T00:22:36Z | ARTi-C2  is a post-exploitation framework used to execute Atomic Red Team test cases with rapid payload deployment and execution capabilities via .NET%s DLR. | https://github.com/blackbotinc/Atomic-Red-Team-Intelligence-C2 | 23 | 0| 
@@ -93,7 +94,6 @@
 | 20210208T23:14:30Z | This bash script will help you to hack remote hosts  | https://github.com/FabioDefilippo/linuxallremote | 4 | 1| 
 | 20210208T23:05:05Z | Explorations and exploitations of the UWP platform | https://github.com/alexpisquared/UWP | 0 | 0| 
 | 20210208T22:41:13Z | Automated NoSQL database enumeration and web application exploitation tool. | https://github.com/codingo/NoSQLMap | 1625 | 444| 
-| 20210208T22:26:36Z | This is my version of %Settlers of Catan%. The game is ostensibly complete with the exception of slow repainting when the robber is moved. Other than that, the game is functionally finished. The game plays best on a screen 1920x1080 as that enables status screens to be visible if 3-4 players are playing. A shortcut key has been implemented for cancellation of actions. Hold ALT_C when the Catan Board has focus, and this will enable an OptionPane to appear that allows for cancellation. And as for game additions I wanted to talk about, I have implemented a class system to the game that makes it more difficult (it is optional; choose the settler class if you want the standard game) as well as optional cataclysm events that can affect player resources at a 5% chance. As well, ports are optional as I%ve heard some people say they are too exploitable. Again, these three things are optional. And finally, all the image files used in this game are not my own. They are all sourced from Google Images (non-copyrighted, as far as I can tell). I will continue to work on the slow repaint issue in the future, but I will put this project down for a little while. (For whatever reason, I can%t put new lines in the description because of arbitrary code rules, so this jumbled mess of words is what I must put). | https://github.com/GitCaseyHub/SettlersOfCatan | 1 | 0| 
 
 
 # backdoor on Github 推荐
