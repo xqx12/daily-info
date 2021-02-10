@@ -84,6 +84,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210210T13:21:17Z | Development of code to exploit LSST and VISTA imaging | https://github.com/lsst-uk/lsst-ir-fusion | 0 | 0| 
 | 20210210T13:14:47Z | This bash script will help you to hack remote hosts  | https://github.com/FabioDefilippo/linuxallremote | 4 | 1| 
 | 20210210T13:11:25Z | Forestry Thematic Exploitation Platform | https://github.com/cgi-eoss/ftep | 4 | 0| 
 | 20210210T13:11:06Z | Roblox exploit. Only Lua C | https://github.com/CovERUshKA/Roblox-Exploit | 1 | 1| 
@@ -93,7 +94,6 @@
 | 20210210T12:50:03Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 7 | 4| 
 | 20210210T12:40:47Z | macos/ios exploit writeup | https://github.com/houjingyi233/macOS-iOS-system-security | 19 | 1| 
 | 20210210T12:33:34Z | KDMapper is a simple tool that exploits iqvw64e.sys Intel driver to manually map non-signed drivers in memory | https://github.com/TheCruZ/kdmapper | 148 | 69| 
-| 20210210T12:00:20Z | AMWScan (PHP Antimalware Scanner) is a free tool to scan php files and analyze your project to find any malicious code inside it. | https://github.com/marcocesarato/PHP-Antimalware-Scanner | 166 | 32| 
 
 
 # backdoor on Github 推荐
