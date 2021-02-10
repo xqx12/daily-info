@@ -53,7 +53,7 @@
 | 20210209T21:36:07Z | Explorations and exploitations of the UWP platform | https://github.com/alexpisquared/UWP | 0 | 0| 
 | 20210209T21:34:28Z | Web Server with exploitable code. DO NOT USE THIS FOR A SERVER | https://github.com/hmm-ship-it/Stinky-Server-Socks | 1 | 0| 
 | 20210209T21:29:35Z | Null | https://github.com/Raycodex/Exploiting | 0 | 0| 
-| 20210209T20:52:28Z | KDMapper is a simple tool that exploits iqvw64e.sys Intel driver to manually map non-signed drivers in memory | https://github.com/TheCruZ/kdmapper | 147 | 68| 
+| 20210209T20:52:28Z | KDMapper is a simple tool that exploits iqvw64e.sys Intel driver to manually map non-signed drivers in memory | https://github.com/TheCruZ/kdmapper | 147 | 69| 
 | 20210209T20:13:34Z | Null | https://github.com/roExploit/roExploit | 0 | 0| 
 | 20210209T19:52:49Z | Automates searching CVEs in the Metasploit database of exploits.  | https://github.com/ferdinandmudjialim/metasploit-cve-search | 0 | 0| 
 | 20210209T19:19:32Z | Vulnerabilities% Risk of Exploitation | https://github.com/thiagofigcosta/V-REx | 0 | 0| 
