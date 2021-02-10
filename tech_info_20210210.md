@@ -42,7 +42,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210210T13:10:50Z | Roblox exploit. Only Lua C | https://github.com/CovERUshKA/Roblox-Exploit | 1 | 1| 
+| 20210210T13:11:25Z | Forestry Thematic Exploitation Platform | https://github.com/cgi-eoss/ftep | 4 | 0| 
+| 20210210T13:11:06Z | Roblox exploit. Only Lua C | https://github.com/CovERUshKA/Roblox-Exploit | 1 | 1| 
 | 20210210T13:08:15Z | A collection of links related to Linux kernel security and exploitation | https://github.com/xairy/linux-kernel-exploitation | 3311 | 734| 
 | 20210210T13:04:46Z | This bash script will help you to hack remote hosts  | https://github.com/FabioDefilippo/linuxallremote | 4 | 1| 
 | 20210210T13:02:31Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 7 | 4| 
@@ -51,13 +52,12 @@
 | 20210210T12:40:47Z | macos/ios exploit writeup | https://github.com/houjingyi233/macOS-iOS-system-security | 19 | 1| 
 | 20210210T12:33:34Z | KDMapper is a simple tool that exploits iqvw64e.sys Intel driver to manually map non-signed drivers in memory | https://github.com/TheCruZ/kdmapper | 148 | 69| 
 | 20210210T12:00:20Z | AMWScan (PHP Antimalware Scanner) is a free tool to scan php files and analyze your project to find any malicious code inside it. | https://github.com/marcocesarato/PHP-Antimalware-Scanner | 166 | 32| 
-| 20210210T11:58:38Z | TryHackMe CTFs writeups, notes, dratfs, scrabbles, files and solutions. | https://github.com/edoardottt/tryhackme-ctf | 12 | 8| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210210T12:19:50Z | Null | https://github.com/mikkelskov1/backdoor2 | 0 | 0| 
+| 20210210T13:11:52Z | Null | https://github.com/mikkelskov1/backdoor2 | 0 | 0| 
 | 20210210T12:00:20Z | AMWScan (PHP Antimalware Scanner) is a free tool to scan php files and analyze your project to find any malicious code inside it. | https://github.com/marcocesarato/PHP-Antimalware-Scanner | 166 | 32| 
 | 20210210T11:53:25Z | Null | https://github.com/rabbitx1337/backdoor | 0 | 0| 
 | 20210210T11:49:08Z | RATata is a simple python RAT to setup and use ! | https://github.com/loTus04/RATata | 0 | 0| 
