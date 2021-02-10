@@ -46,9 +46,9 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20210210T02:23:22Z | CVE-2021-3156 | CVE-2021-3156非交互式执行命令 | https://github.com/Rvn0xsy/CVE-2021-3156-plus | Sudo before 1.9.5p2 has a Heap-based Buffer Overflow, allowing privilege escalation to root via %sudoedit -s% and a command-line argument that ends with a single backslash character.| 
+| 20210210T02:26:30Z | CVE-2021-3156 | CVE-2021-3156非交互式执行命令 | https://github.com/Rvn0xsy/CVE-2021-3156-plus | Sudo before 1.9.5p2 has a Heap-based Buffer Overflow, allowing privilege escalation to root via %sudoedit -s% and a command-line argument that ends with a single backslash character.| 
 | 20210210T01:00:40Z | CVE-2021-3156 | sudo heap overflow to LPE, in Go | https://github.com/jm33-m0/CVE-2021-3156 | Sudo before 1.9.5p2 has a Heap-based Buffer Overflow, allowing privilege escalation to root via %sudoedit -s% and a command-line argument that ends with a single backslash character.| 
-| 20210210T00:20:39Z | CVE-2021-3156 | CVE-2021-3156: Sudo exploit for Debain 10 | https://github.com/0xdevil/CVE-2021-3156 | | 
+| 20210210T00:20:39Z | CVE-2021-3156 | CVE-2021-3156: Sudo exploit for Debain 10 | https://github.com/0xdevil/CVE-2021-3156 | Sudo before 1.9.5p2 has a Heap-based Buffer Overflow, allowing privilege escalation to root via %sudoedit -s% and a command-line argument that ends with a single backslash character.| 
 | 20210210T00:01:47Z | CVE-2020-9484 | Null | https://github.com/AssassinUKG/CVE-2020-9484 | When using Apache Tomcat versions 10.0.0-M1 to 10.0.0-M4, 9.0.0.M1 to 9.0.34, 8.5.0 to 8.5.54 and 7.0.0 to 7.0.103 if a) an attacker is able to control the contents and name of a file on the server; and b) the server is configured to use the PersistenceManager with a FileStore; and c) the PersistenceManager is configured with sessionAttributeValueClassNameFilter=%null% (the default unless a SecurityManager is used) or a sufficiently lax filter to allow the attacker provided object to be deserialized; and d) the attacker knows the relative file path from the storage location used by FileStore to the file the attacker has control over; then, using a specifically crafted request, the attacker will be able to trigger remote code execution via deserialization of the file under their control. Note that all of conditions a) to d) must be true for the attack to succeed.| 
 | 20210209T23:22:34Z | CVE-2020-5844 | Null | https://github.com/TheCyberGeek/CVE-2020-5844 | index.php?sec=godmode/extensions&sec2=extensions/files_repo in Pandora FMS v7.0 NG allows authenticated administrators to upload malicious PHP scripts, and execute them via base64 decoding of the file location. This affects v7.0NG.742_FIX_PERL2020.| 
 | 20210209T22:31:49Z | CVE-2021-3156 | PoC for CVE-2021-3156 (sudo heap overflow) | https://github.com/stong/CVE-2021-3156 | Sudo before 1.9.5p2 has a Heap-based Buffer Overflow, allowing privilege escalation to root via %sudoedit -s% and a command-line argument that ends with a single backslash character.| 
@@ -114,16 +114,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210210T02:22:39Z | Null | https://github.com/mrfuzz12/FuzzCheat | 0 | 0| 
+| 20210210T02:20:39Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2264 | 116| 
+| 20210210T02:17:42Z | fzf-like fuzzy-finder as a Go library | https://github.com/ktr0731/go-fuzzyfinder | 209 | 19| 
+| 20210210T02:05:31Z | Null | https://github.com/sumit245/fuzzy-funicular | 0 | 0| 
 | 20210210T00:32:35Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 5879 | 1183| 
-| 20210210T00:28:41Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2264 | 116| 
 | 20210209T23:23:10Z | A cross-platform browser fuzzing framework | https://github.com/MozillaSecurity/grizzly | 227 | 30| 
 | 20210209T23:18:21Z | FuzzBench - Fuzzer benchmarking as a service. | https://github.com/google/fuzzbench | 593 | 98| 
 | 20210209T22:49:11Z | Security oriented software fuzzer. Supports evolutionary, feedback-driven fuzzing based on code coverage (SW and HW based) | https://github.com/google/honggfuzz | 2129 | 430| 
 | 20210209T22:10:13Z | Practical activities developed for Fuzzy Systems course (ELE075) at UFMG. | https://github.com/thaismenegaldi/Fuzzy-Systems | 0 | 0| 
 | 20210209T21:55:43Z | Generate code for json encoders/decoders, codecs, fuzzers, generators, and more | https://github.com/MartinSStewart/elm-review-todo-it-for-me | 0 | 0| 
-| 20210209T21:44:52Z | Go fuzzy matching tool using Levenshtein distance calculation | https://github.com/datahappy1/go_fuzzymatch | 0 | 0| 
-| 20210209T21:18:25Z | Write unit and fuzz tests for Elm code. | https://github.com/elm-explorations/test | 194 | 28| 
-| 20210209T21:02:19Z | Null | https://github.com/VahalaSly/Fuzzy_System | 0 | 0| 
 
 
 
