@@ -37,7 +37,6 @@
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
 | 20210209T20:52:24Z | Spring 2021 Geography 817 work folder  | https://github.com/klee12/klee12.github.io | 0 | 0| 
-| 20210209T15:55:43Z | Git Blog | https://github.com/klee30810/klee30810.github.io | 0 | 0| 
 | 20210209T13:55:52Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 的 Klee One 的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 32 | 1| 
 | 20210209T12:21:24Z | Null | https://github.com/fontworks-fonts/Klee | 357 | 9| 
 
