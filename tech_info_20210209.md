@@ -21,7 +21,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20210209T23:22:34Z | CVE-2020-5844 | Null | https://github.com/TheCyberGeek/CVE-2020-5844 | index.php?sec=godmode/extensions&sec2=extensions/files_repo in Pandora FMS v7.0 NG allows authenticated administrators to upload malicious PHP scripts, and execute them via base64 decoding of the file location. This affects v7.0NG.742_FIX_PERL2020.| 
+| 20210209T23:22:34Z | CVE-2020-5844 | Null | https://github.com/TheCyberGeek/CVE-2020-5844 | | 
 | 20210209T22:31:49Z | CVE-2021-3156 | PoC for CVE-2021-3156 (sudo heap overflow) | https://github.com/stong/CVE-2021-3156 | Sudo before 1.9.5p2 has a Heap-based Buffer Overflow, allowing privilege escalation to root via %sudoedit -s% and a command-line argument that ends with a single backslash character.| 
 | 20210209T21:31:38Z | cve-2020-8554 | Null | https://github.com/alebedev87/gatekeeper-cve-2020-8554 | 未查询到CVE信息| 
 | 20210209T21:09:29Z | CVE-2020-8835 | Null | https://github.com/ret2hell/CVE-2020-8835 | In the Linux kernel 5.5.0 and newer, the bpf verifier (kernel/bpf/verifier.c) did not properly restrict the register bounds for 32-bit operations, leading to out-of-bounds reads and writes in kernel memory. The vulnerability also affects the Linux 5.4 stable series, starting with v5.4.7, as the introducing commit was backported to that branch. This vulnerability was fixed in 5.6.1, 5.5.14, and 5.4.29. (issue is aka ZDI-CAN-10780)| 
@@ -51,7 +51,6 @@
 | --- | --- | --- | --- | ---| 
 | 20210209T23:25:20Z | Roblox Unsigned Execution Through a Vanilla LBI. | https://github.com/OpenGamerTips/Xenon | 2 | 0| 
 | 20210209T23:20:53Z | This bash script will help you to hack remote hosts  | https://github.com/FabioDefilippo/linuxallremote | 4 | 1| 
-| 20210209T22:42:51Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 8989 | 1445| 
 | 20210209T21:36:07Z | Explorations and exploitations of the UWP platform | https://github.com/alexpisquared/UWP | 0 | 0| 
 | 20210209T21:34:28Z | Web Server with exploitable code. DO NOT USE THIS FOR A SERVER | https://github.com/hmm-ship-it/Stinky-Server-Socks | 1 | 0| 
 | 20210209T21:29:35Z | Null | https://github.com/Raycodex/Exploiting | 0 | 0| 
@@ -59,6 +58,7 @@
 | 20210209T20:13:34Z | Null | https://github.com/roExploit/roExploit | 0 | 0| 
 | 20210209T19:52:49Z | Automates searching CVEs in the Metasploit database of exploits.  | https://github.com/ferdinandmudjialim/metasploit-cve-search | 0 | 0| 
 | 20210209T19:19:32Z | Vulnerabilities% Risk of Exploitation | https://github.com/thiagofigcosta/V-REx | 0 | 0| 
+| 20210209T18:31:20Z | Various techniques for exploiting Windows | https://github.com/billchaison/Windows-Trix | 5 | 0| 
 
 
 # backdoor on Github 推荐
