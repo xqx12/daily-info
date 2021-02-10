@@ -46,30 +46,30 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20210210T02:45:06Z | CVE-2021-3156 | CVE-2021-3156非交互式执行命令 | https://github.com/Rvn0xsy/CVE-2021-3156-plus | Sudo before 1.9.5p2 has a Heap-based Buffer Overflow, allowing privilege escalation to root via %sudoedit -s% and a command-line argument that ends with a single backslash character.| 
+| 20210210T12:23:17Z | CVE-2021-3156 | CVE-2021-3156非交互式执行命令 | https://github.com/Rvn0xsy/CVE-2021-3156-plus | Sudo before 1.9.5p2 has a Heap-based Buffer Overflow, allowing privilege escalation to root via %sudoedit -s% and a command-line argument that ends with a single backslash character.| 
+| 20210210T10:49:32Z | CVE-2021-3156 | PoC for CVE-2021-3156 (sudo heap overflow) | https://github.com/stong/CVE-2021-3156 | | 
+| 20210210T10:28:47Z | CVE-2021-3165 | CVE-2021-3165: SmartAgent 3.1.0 - Privilege Escalation | https://github.com/orionhridoy/CVE-2021-3165 | SmartAgent 3.1.0 allows a ViewOnly attacker to create a SuperUser account via the /#/CampaignManager/users URI.| 
+| 20210210T10:15:55Z | CVE-2021-3156 | Exploit for Sudo heap overflow (CVE-2021-3156) on Debain 10 | https://github.com/0xdevil/CVE-2021-3156 | Sudo before 1.9.5p2 has a Heap-based Buffer Overflow, allowing privilege escalation to root via %sudoedit -s% and a command-line argument that ends with a single backslash character.| 
+| 20210210T05:42:51Z | CVE-2020-0041 | Null | https://github.com/TechnoHT/CVE-2020-0041 | In binder_transaction of binder.c, there is a possible out of bounds write due to an incorrect bounds check. This could lead to local escalation of privilege with no additional execution privileges needed. User interaction is not needed for exploitation.Product: AndroidVersions: Android kernelAndroid ID: A-145988638References: Upstream kernel| 
 | 20210210T01:00:40Z | CVE-2021-3156 | sudo heap overflow to LPE, in Go | https://github.com/jm33-m0/CVE-2021-3156 | Sudo before 1.9.5p2 has a Heap-based Buffer Overflow, allowing privilege escalation to root via %sudoedit -s% and a command-line argument that ends with a single backslash character.| 
-| 20210210T00:20:39Z | CVE-2021-3156 | CVE-2021-3156: Sudo exploit for Debain 10 | https://github.com/0xdevil/CVE-2021-3156 | Sudo before 1.9.5p2 has a Heap-based Buffer Overflow, allowing privilege escalation to root via %sudoedit -s% and a command-line argument that ends with a single backslash character.| 
 | 20210210T00:01:47Z | CVE-2020-9484 | Null | https://github.com/AssassinUKG/CVE-2020-9484 | When using Apache Tomcat versions 10.0.0-M1 to 10.0.0-M4, 9.0.0.M1 to 9.0.34, 8.5.0 to 8.5.54 and 7.0.0 to 7.0.103 if a) an attacker is able to control the contents and name of a file on the server; and b) the server is configured to use the PersistenceManager with a FileStore; and c) the PersistenceManager is configured with sessionAttributeValueClassNameFilter=%null% (the default unless a SecurityManager is used) or a sufficiently lax filter to allow the attacker provided object to be deserialized; and d) the attacker knows the relative file path from the storage location used by FileStore to the file the attacker has control over; then, using a specifically crafted request, the attacker will be able to trigger remote code execution via deserialization of the file under their control. Note that all of conditions a) to d) must be true for the attack to succeed.| 
-| 20210209T23:22:34Z | CVE-2020-5844 | Null | https://github.com/TheCyberGeek/CVE-2020-5844 | index.php?sec=godmode/extensions&sec2=extensions/files_repo in Pandora FMS v7.0 NG allows authenticated administrators to upload malicious PHP scripts, and execute them via base64 decoding of the file location. This affects v7.0NG.742_FIX_PERL2020.| 
-| 20210209T22:31:49Z | CVE-2021-3156 | PoC for CVE-2021-3156 (sudo heap overflow) | https://github.com/stong/CVE-2021-3156 | Sudo before 1.9.5p2 has a Heap-based Buffer Overflow, allowing privilege escalation to root via %sudoedit -s% and a command-line argument that ends with a single backslash character.| 
-| 20210209T21:31:38Z | cve-2020-8554 | Null | https://github.com/alebedev87/gatekeeper-cve-2020-8554 | 未查询到CVE信息| 
+| 20210209T23:22:34Z | CVE-2020-5844 | Null | https://github.com/TheCyberGeek/CVE-2020-5844 | | 
+| 20210209T21:31:38Z | cve-2020-8554 | Null | https://github.com/alebedev87/gatekeeper-cve-2020-8554 | | 
 | 20210209T21:09:29Z | CVE-2020-8835 | Null | https://github.com/ret2hell/CVE-2020-8835 | In the Linux kernel 5.5.0 and newer, the bpf verifier (kernel/bpf/verifier.c) did not properly restrict the register bounds for 32-bit operations, leading to out-of-bounds reads and writes in kernel memory. The vulnerability also affects the Linux 5.4 stable series, starting with v5.4.7, as the introducing commit was backported to that branch. This vulnerability was fixed in 5.6.1, 5.5.14, and 5.4.29. (issue is aka ZDI-CAN-10780)| 
-| 20210209T18:48:13Z | CVE-2020-1350 | HoneyPoC: Proof-of-Concept (PoC) script to exploit SIGRed (CVE-2020-1350). Achieves Domain Admin on Domain Controllers running Windows Server 2000 up to Windows Server 2019. | https://github.com/ZephrFish/CVE-2020-1350 | A remote code execution vulnerability exists in Windows Domain Name System servers when they fail to properly handle requests, aka %Windows DNS Server Remote Code Execution Vulnerability%.| 
-| 20210209T14:41:20Z | cve-2020-17523 | shiro-cve-2020-17523 漏洞的两种绕过姿势分析（带漏洞环境） | https://github.com/jweny/shiro-cve-2020-17523 | 未查询到CVE信息| 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210210T02:31:40Z | Git Blog | https://github.com/klee30810/klee30810.github.io | 0 | 0| 
+| 20210210T10:43:39Z | Git Blog | https://github.com/klee30810/klee30810.github.io | 0 | 0| 
+| 20210210T06:08:52Z | Null | https://github.com/fontworks-fonts/Klee | 358 | 9| 
+| 20210210T03:22:19Z | Create CFGs and compute complexity metrics for Python, C++, and Java code. | https://github.com/hmc-alpaqa/metrinome | 6 | 0| 
 | 20210210T01:52:40Z | A personnal UI library made as an excuse to have a published UI package | https://github.com/Liinkiing/klee | 5 | 1| 
 | 20210209T20:52:24Z | Spring 2021 Geography 817 work folder  | https://github.com/klee12/klee12.github.io | 0 | 0| 
 | 20210209T13:55:52Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 的 Klee One 的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 32 | 1| 
-| 20210209T12:21:24Z | Null | https://github.com/fontworks-fonts/Klee | 357 | 9| 
 | 20210208T11:16:41Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1624 | 482| 
 | 20210208T10:29:33Z | RVT is a collection of tools/libraries to support both static and dynamic verification of Rust programs. | https://github.com/project-oak/rust-verification-tools | 107 | 7| 
 | 20210208T08:35:52Z | Null | https://github.com/samkleezy/kleezy | 0 | 0| 
-| 20210208T06:06:32Z | Create CFGs and compute complexity metrics for Python, C++, and Java code. | https://github.com/hmc-alpaqa/metrinome | 6 | 0| 
 | 20210208T04:50:21Z | Null | https://github.com/AK10K/kleer | 0 | 0| 
 
 
@@ -84,31 +84,31 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210210T02:38:29Z | Roblox Unsigned Execution Through a Vanilla LBI. | https://github.com/OpenGamerTips/Xenon | 2 | 0| 
-| 20210210T02:20:29Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 8990 | 1445| 
-| 20210210T02:02:42Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 7 | 4| 
-| 20210210T01:50:24Z | Security blog | https://github.com/frederic/frederic.github.io | 0 | 0| 
-| 20210210T00:50:02Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 7 | 4| 
-| 20210210T00:50:00Z | C2/post-exploitation framework | https://github.com/loseys/BlackMamba | 3 | 0| 
-| 20210210T00:22:35Z | Various ASM, C and C++ tools, shellcodes and exploit experiments. | https://github.com/forrest-orr/ExploitDev | 49 | 3| 
-| 20210210T00:20:54Z | Le serveur POP3 du Seattle Lab Mail 5.5 souffre d%une vulnérabilité de dépassement de tampon non authentifié lors de la réception d%un mot de passe très long. on peut  exploiter cette vulnérabilité dans n%importe quelle version de Windows exécutant l%exécutable SLmail.exe | https://github.com/ahdibiaymen/SLMail-5.5-buffer-overflow- | 0 | 0| 
-| 20210210T00:16:14Z | This is my version of %Settlers of Catan%. The game is ostensibly complete with the exception of slow repainting when the robber is moved. Other than that, the game is functionally finished. The game plays best on a screen 1920x1080 as that enables status screens to be visible if 3-4 players are playing. A shortcut key has been implemented for cancellation of actions. Hold ALT_C when the Catan Board has focus, and this will enable an OptionPane to appear that allows for cancellation. And as for game additions I wanted to talk about, I have implemented a class system to the game that makes it more difficult (it is optional; choose the settler class if you want the standard game) as well as optional cataclysm events that can affect player resources at a 5% chance. As well, ports are optional as I%ve heard some people say they are too exploitable. Again, these three things are optional. And finally, all the image files used in this game are not my own. They are all sourced from Google Images (non-copyrighted, as far as I can tell). I will continue to work on the slow repaint issue in the future, but I will put this project down for a little while. (For whatever reason, I can%t put new lines in the description because of arbitrary code rules, so this jumbled mess of words is what I must put). | https://github.com/GitCaseyHub/SettlersOfCatan | 1 | 0| 
-| 20210210T00:07:46Z | The popular GENIE Generator product is used by nearly all accelerator neutrino experiments and it plays a key role in the exploitation of neutrino data. The Generator implements a modern software framework and it includes state-of-the-art physics modules. It captures the latest results of the GENIE global analysis of neutrino scattering data and includes several tunes that were produced using the proprietary Comparisons and Tuning products. The GENIE physics model is universal and comprehensive:  It handles all neutrinos and targets, and all processes relevant from MeV to PeV energy scales. The Generator includes several tools (flux drivers, detector geometry navigators, specialized event generation apps, event reweighting engines) to simulate complex experimental setups in full detail and to support generator-related analysis tasks.  | https://github.com/GENIE-MC/Generator | 17 | 46| 
+| 20210210T12:56:37Z | Exploit and knowledge about ctf, my own method | https://github.com/RoderickChan/my_own_ctf_box | 0 | 0| 
+| 20210210T12:50:03Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 7 | 4| 
+| 20210210T12:40:47Z | macos/ios exploit writeup | https://github.com/houjingyi233/macOS-iOS-system-security | 19 | 1| 
+| 20210210T12:33:34Z | KDMapper is a simple tool that exploits iqvw64e.sys Intel driver to manually map non-signed drivers in memory | https://github.com/TheCruZ/kdmapper | 148 | 69| 
+| 20210210T12:02:54Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 7 | 4| 
+| 20210210T12:00:20Z | AMWScan (PHP Antimalware Scanner) is a free tool to scan php files and analyze your project to find any malicious code inside it. | https://github.com/marcocesarato/PHP-Antimalware-Scanner | 166 | 32| 
+| 20210210T11:58:38Z | TryHackMe CTFs writeups, notes, dratfs, scrabbles, files and solutions. | https://github.com/edoardottt/tryhackme-ctf | 12 | 8| 
+| 20210210T11:37:46Z | Code to exploit time- and boolean-based blinds | https://github.com/generatom/sql-blinds | 0 | 0| 
+| 20210210T11:35:13Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 8991 | 1445| 
+| 20210210T11:25:21Z | Null | https://github.com/SocialEnot/GardenExploit | 0 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210209T23:27:42Z | RATata is a simple python RAT to setup and use ! | https://github.com/loTus04/RATata | 0 | 0| 
+| 20210210T12:19:50Z | Null | https://github.com/mikkelskov1/backdoor2 | 0 | 0| 
+| 20210210T12:00:20Z | AMWScan (PHP Antimalware Scanner) is a free tool to scan php files and analyze your project to find any malicious code inside it. | https://github.com/marcocesarato/PHP-Antimalware-Scanner | 166 | 32| 
+| 20210210T11:53:25Z | Null | https://github.com/rabbitx1337/backdoor | 0 | 0| 
+| 20210210T11:49:08Z | RATata is a simple python RAT to setup and use ! | https://github.com/loTus04/RATata | 0 | 0| 
+| 20210210T06:07:37Z | Leaked LeuxBackdoor versions without malware (Leux clan´s official client) | https://github.com/Mishi04/LeuxBackdoor | 0 | 0| 
 | 20210209T22:09:29Z | PyHoox | https://github.com/dorian9007/PyHoox | 0 | 0| 
 | 20210209T20:39:28Z | Backdoor para Windows e Linux | https://github.com/medn1c/reverse-shell | 2 | 0| 
 | 20210209T20:28:58Z | A commandline backdoor accessible from the windows login and lock screen to manipulate files and directories. | https://github.com/KabueMurage/Windows-Backdoor | 10 | 2| 
 | 20210209T19:03:00Z | A sample app to demonstrate how to create Xamarin UITests using the Page Object architecture, Backdoor Methods and App Links (aka Deep Linking) | https://github.com/brminnick/UITestSampleApp | 32 | 25| 
 | 20210209T18:25:23Z | Null | https://github.com/EjHvorSerDuVildUdJim/backdoor | 0 | 0| 
-| 20210209T17:19:34Z | Null | https://github.com/Shahtr1/reverse_backdoor | 0 | 0| 
-| 20210209T15:03:05Z | Null | https://github.com/mikkelskov1/backdoor2 | 0 | 0| 
-| 20210209T11:24:26Z | FUD cross-platform python2 backdoor with C2 | https://github.com/7h3w4lk3r/pyback | 16 | 5| 
-| 20210209T11:13:42Z | The official backdoor of the Bane Project for Android | https://github.com/datteroandrea/banedroid | 1 | 1| 
 
 
 # fuzz on Github 推荐
