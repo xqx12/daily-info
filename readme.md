@@ -19,7 +19,7 @@
 | 20210210T19:11:19Z | CVE-2021-3156 | PoC for CVE-2021-3156 (sudo heap overflow) | https://github.com/stong/CVE-2021-3156 | Sudo before 1.9.5p2 has a Heap-based Buffer Overflow, allowing privilege escalation to root via %sudoedit -s% and a command-line argument that ends with a single backslash character.| 
 | 20210210T18:59:39Z | CVE-2020-9484 | POC for CVE-2020-9484 | https://github.com/VICXOR/CVE-2020-9484 | When using Apache Tomcat versions 10.0.0-M1 to 10.0.0-M4, 9.0.0.M1 to 9.0.34, 8.5.0 to 8.5.54 and 7.0.0 to 7.0.103 if a) an attacker is able to control the contents and name of a file on the server; and b) the server is configured to use the PersistenceManager with a FileStore; and c) the PersistenceManager is configured with sessionAttributeValueClassNameFilter=%null% (the default unless a SecurityManager is used) or a sufficiently lax filter to allow the attacker provided object to be deserialized; and d) the attacker knows the relative file path from the storage location used by FileStore to the file the attacker has control over; then, using a specifically crafted request, the attacker will be able to trigger remote code execution via deserialization of the file under their control. Note that all of conditions a) to d) must be true for the attack to succeed.| 
 | 20210210T18:40:26Z | 未知编号 | Dockerfile to build cve-2013-2028 container with centos6 and nginx | https://github.com/mambroziak/docker-cve-2013-2028 | 未查询到CVE信息| 
-| 20210210T17:25:41Z | CVE-2020-36079 | Null | https://github.com/azizalshammari/CVE-2020-36079. | 未查询到CVE信息| 
+| 20210210T17:25:41Z | CVE-2020-36079 | Null | https://github.com/azizalshammari/CVE-2020-36079. | | 
 | 20210210T14:32:36Z | CVE-2021-3156 | sudo heap overflow to LPE, in Go | https://github.com/jm33-m0/CVE-2021-3156 | Sudo before 1.9.5p2 has a Heap-based Buffer Overflow, allowing privilege escalation to root via %sudoedit -s% and a command-line argument that ends with a single backslash character.| 
 | 20210210T10:28:47Z | CVE-2021-3165 | CVE-2021-3165: SmartAgent 3.1.0 - Privilege Escalation | https://github.com/orionhridoy/CVE-2021-3165 | SmartAgent 3.1.0 allows a ViewOnly attacker to create a SuperUser account via the /#/CampaignManager/users URI.| 
 | 20210210T10:15:55Z | CVE-2021-3156 | Exploit for Sudo heap overflow (CVE-2021-3156) on Debain 10 | https://github.com/0xdevil/CVE-2021-3156 | Sudo before 1.9.5p2 has a Heap-based Buffer Overflow, allowing privilege escalation to root via %sudoedit -s% and a command-line argument that ends with a single backslash character.| 
@@ -50,12 +50,12 @@
 | 20210210T23:13:31Z | Discord Voice DDoS Exploit | https://github.com/owersite/discord-voice-ddos | 0 | 0| 
 | 20210210T22:43:46Z | CS571 - Web App Vulnerability Discovery & Exploit Development | https://github.com/beyefendi/wavded | 0 | 0| 
 | 20210210T22:26:14Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 8993 | 1446| 
-| 20210210T22:17:02Z | Vulnerabilities% Risk of Exploitation | https://github.com/thiagofigcosta/V-REx | 0 | 0| 
 | 20210210T22:00:09Z | A selection of modified and self-made exploits for pen-testing purposes | https://github.com/H4rk3nz0/exploits | 0 | 0| 
 | 20210210T21:01:52Z | ExploitHost | https://github.com/ps4exploit/ps4exploit.github.io | 0 | 0| 
 | 20210210T20:51:03Z | A basic Ray Tracer that exploits numpy arrays and functions to work fast. | https://github.com/rafael-fuente/Python-Raytracer | 187 | 15| 
 | 20210210T20:30:14Z | A tool that uses Masscan to identify open ports I have exploits for.  | https://github.com/sho-luv/mass-effect | 1 | 0| 
 | 20210210T19:46:43Z | Null | https://github.com/DShankle/Ethical_Exploits | 0 | 0| 
+| 20210210T19:24:27Z | Null | https://github.com/statooin/exploits | 0 | 0| 
 
 
 # backdoor on Github 推荐
