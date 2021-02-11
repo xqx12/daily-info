@@ -49,13 +49,13 @@
 | 20210210T23:24:28Z | Discord Exploits made /  edited / fixed by me | https://github.com/owersite/discord-exploits | 1 | 0| 
 | 20210210T23:13:31Z | Discord Voice DDoS Exploit | https://github.com/owersite/discord-voice-ddos | 0 | 0| 
 | 20210210T22:43:46Z | CS571 - Web App Vulnerability Discovery & Exploit Development | https://github.com/beyefendi/wavded | 0 | 0| 
-| 20210210T22:34:29Z | This is my version of %Settlers of Catan%. The game is ostensibly complete with the exception of slow repainting when the robber is moved. Other than that, the game is functionally finished. The game plays best on a screen 1920x1080 as that enables status screens to be visible if 3-4 players are playing. A shortcut key has been implemented for cancellation of actions. Hold ALT_C when the Catan Board has focus, and this will enable an OptionPane to appear that allows for cancellation. And as for game additions I wanted to talk about, I have implemented a class system to the game that makes it more difficult (it is optional; choose the settler class if you want the standard game) as well as optional cataclysm events that can affect player resources at a 5% chance. As well, ports are optional as I%ve heard some people say they are too exploitable. Again, these three things are optional. And finally, all the image files used in this game are not my own. They are all sourced from Google Images (non-copyrighted, as far as I can tell). I will continue to work on the slow repaint issue in the future, but I will put this project down for a little while. (For whatever reason, I can%t put new lines in the description because of arbitrary code rules, so this jumbled mess of words is what I must put). | https://github.com/GitCaseyHub/SettlersOfCatan | 1 | 0| 
 | 20210210T22:26:14Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 8993 | 1446| 
 | 20210210T22:17:02Z | Vulnerabilities% Risk of Exploitation | https://github.com/thiagofigcosta/V-REx | 0 | 0| 
 | 20210210T22:00:09Z | A selection of modified and self-made exploits for pen-testing purposes | https://github.com/H4rk3nz0/exploits | 0 | 0| 
 | 20210210T21:01:52Z | ExploitHost | https://github.com/ps4exploit/ps4exploit.github.io | 0 | 0| 
 | 20210210T20:51:03Z | A basic Ray Tracer that exploits numpy arrays and functions to work fast. | https://github.com/rafael-fuente/Python-Raytracer | 187 | 15| 
 | 20210210T20:30:14Z | A tool that uses Masscan to identify open ports I have exploits for.  | https://github.com/sho-luv/mass-effect | 1 | 0| 
+| 20210210T19:46:43Z | Null | https://github.com/DShankle/Ethical_Exploits | 0 | 0| 
 
 
 # backdoor on Github 推荐
