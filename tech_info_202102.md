@@ -114,7 +114,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210211T01:19:43Z | Null | https://github.com/docfate111/mujs-fuzzilli | 0 | 0| 
+| 20210211T01:37:47Z | Null | https://github.com/docfate111/mujs-fuzzilli | 0 | 0| 
 | 20210211T00:45:30Z | Null | https://github.com/anaaaahg/fuzzy-robot | 0 | 0| 
 | 20210211T00:11:29Z | JQF + Zest: Coverage-guided semantic fuzzing for Java. | https://github.com/rohanpadhye/JQF | 332 | 43| 
 | 20210210T23:57:24Z | PoC of fuzzing closed-source userspace binaries with KVM | https://github.com/klecko/kvm-fuzz | 0 | 0| 
