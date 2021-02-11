@@ -39,6 +39,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210211T13:12:19Z | My Exploits For Boxs | https://github.com/xr0o0tx-511/Writeups-HackTheBox | 0 | 0| 
 | 20210211T13:07:03Z | The official Exploit Database repository | https://github.com/offensive-security/exploitdb | 5867 | 1679| 
 | 20210211T13:02:31Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 7 | 4| 
 | 20210211T12:50:05Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 7 | 4| 
@@ -48,7 +49,6 @@
 | 20210211T11:09:54Z | this is a repo used to exploit CVE-2018-11235: Git Submodule RCE | https://github.com/pyroot99/aaa | 0 | 0| 
 | 20210211T11:08:24Z | This is a repo that is used to exploit git CVE-2018-11235: Git Submodule RCE | https://github.com/pyroot99/submod | 0 | 0| 
 | 20210211T10:32:46Z | Test for CVE-2000-0649, and return an IP address if vulnerable | https://github.com/rafaelh/CVE-2000-0649 | 0 | 0| 
-| 20210211T10:05:38Z | Automated All-in-One OS command injection and exploitation tool. | https://github.com/commixproject/commix | 2530 | 590| 
 
 
 # backdoor on Github 推荐
