@@ -40,7 +40,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210211T13:16:20Z | My Exploits For Boxs | https://github.com/xr0o0tx-511/Writeups-HackTheBox | 0 | 0| 
+| 20210211T13:18:29Z | My Exploits For Boxs | https://github.com/xr0o0tx-511/Writeups-HackTheBox | 0 | 0| 
 | 20210211T13:13:07Z | A proof-of-concept tool for generating payloads that exploit unsafe ruby object deserialization. | https://github.com/realgam3/ysoserial.rb | 0 | 0| 
 | 20210211T13:07:03Z | The official Exploit Database repository | https://github.com/offensive-security/exploitdb | 5867 | 1679| 
 | 20210211T13:02:31Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 7 | 4| 
