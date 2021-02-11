@@ -40,10 +40,10 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210211T13:54:32Z | Null | https://github.com/lxbuilder/sudo-heap-exploit | 0 | 0| 
 | 20210211T13:52:29Z | My Exploits For Boxs | https://github.com/xr0o0tx-511/Exploits-HackTheBox | 0 | 0| 
 | 20210211T13:46:19Z | My Exploits For Boxs | https://github.com/xr0o0tx-511/Writeups-HackTheBox | 0 | 0| 
 | 20210211T13:44:14Z | Automated tool to exploit sharepoint CVE-2019-0604 | https://github.com/tree-chtsec/weaponized-0604 | 0 | 0| 
-| 20210211T13:41:24Z | Null | https://github.com/lxbuilder/sudo-heap-exploit | 0 | 0| 
 | 20210211T13:34:56Z | Just a temporary website to post my ctf writeups and journey into binary exploitation/malware analysis/exploit development | https://github.com/blackbeard666/blackbeard666.github.io | 0 | 0| 
 | 20210211T13:21:33Z | A proof-of-concept tool for generating payloads that exploit unsafe ruby object deserialization. | https://github.com/realgam3/ysoserial.rb | 0 | 0| 
 | 20210211T13:07:03Z | The official Exploit Database repository | https://github.com/offensive-security/exploitdb | 5867 | 1679| 
