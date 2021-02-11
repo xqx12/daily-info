@@ -40,16 +40,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210211T13:36:13Z | Null | https://github.com/lxbuilder/sudo-heap-exploit | 0 | 0| 
+| 20210211T13:42:17Z | My Exploits For Boxs | https://github.com/xr0o0tx-511/Writeups-HackTheBox | 0 | 0| 
+| 20210211T13:42:05Z | Automated tool to exploit sharepoint CVE-2019-0604 | https://github.com/tree-chtsec/weaponized-0604 | 0 | 0| 
+| 20210211T13:41:24Z | Null | https://github.com/lxbuilder/sudo-heap-exploit | 0 | 0| 
 | 20210211T13:34:56Z | Just a temporary website to post my ctf writeups and journey into binary exploitation/malware analysis/exploit development | https://github.com/blackbeard666/blackbeard666.github.io | 0 | 0| 
-| 20210211T13:28:14Z | My Exploits For Boxs | https://github.com/xr0o0tx-511/Writeups-HackTheBox | 0 | 0| 
 | 20210211T13:21:33Z | A proof-of-concept tool for generating payloads that exploit unsafe ruby object deserialization. | https://github.com/realgam3/ysoserial.rb | 0 | 0| 
 | 20210211T13:07:03Z | The official Exploit Database repository | https://github.com/offensive-security/exploitdb | 5867 | 1679| 
 | 20210211T13:02:31Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 7 | 4| 
 | 20210211T12:50:05Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 7 | 4| 
 | 20210211T12:45:33Z | ExploitsX is a top-of-the-line constantly updated exploit fixer focused on patching bugs, lag glitches, and crash glitches for minecraft servers. It supports versions 1.8 through 1.17. | https://github.com/IzDaBait/ExploitsX | 7 | 2| 
 | 20210211T12:06:37Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 8994 | 1446| 
-| 20210211T11:45:06Z | Discord Tools & Exploits made /  edited / fixed by me | https://github.com/owersite/discord-exploits | 1 | 0| 
 
 
 # backdoor on Github 推荐
