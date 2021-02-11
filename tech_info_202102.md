@@ -55,7 +55,7 @@
 | 20210210T14:32:36Z | CVE-2021-3156 | sudo heap overflow to LPE, in Go | https://github.com/jm33-m0/CVE-2021-3156 | Sudo before 1.9.5p2 has a Heap-based Buffer Overflow, allowing privilege escalation to root via %sudoedit -s% and a command-line argument that ends with a single backslash character.| 
 | 20210210T10:28:47Z | CVE-2021-3165 | CVE-2021-3165: SmartAgent 3.1.0 - Privilege Escalation | https://github.com/orionhridoy/CVE-2021-3165 | SmartAgent 3.1.0 allows a ViewOnly attacker to create a SuperUser account via the /#/CampaignManager/users URI.| 
 | 20210210T10:15:55Z | CVE-2021-3156 | Exploit for Sudo heap overflow (CVE-2021-3156) on Debain 10 | https://github.com/0xdevil/CVE-2021-3156 | Sudo before 1.9.5p2 has a Heap-based Buffer Overflow, allowing privilege escalation to root via %sudoedit -s% and a command-line argument that ends with a single backslash character.| 
-| 20210210T05:42:51Z | CVE-2020-0041 | Null | https://github.com/TechnoHT/CVE-2020-0041 | | 
+| 20210210T05:42:51Z | CVE-2020-0041 | Null | https://github.com/TechnoHT/CVE-2020-0041 | In binder_transaction of binder.c, there is a possible out of bounds write due to an incorrect bounds check. This could lead to local escalation of privilege with no additional execution privileges needed. User interaction is not needed for exploitation.Product: AndroidVersions: Android kernelAndroid ID: A-145988638References: Upstream kernel| 
 
 
 # klee on Github 推荐
@@ -84,8 +84,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210211T01:35:06Z | SonicWall VPN-SSL Exploit* using Golang ( * and other targets vulnerable to shellshock ). | https://github.com/gustavorobertux/goshock | 1 | 0| 
 | 20210211T01:31:51Z | C2/post-exploitation framework | https://github.com/loseys/BlackMamba | 6 | 0| 
-| 20210211T01:30:31Z | SonicWall VPN-SSL Exploit* using Golang ( * and other targets vulnerable to shellshock ). | https://github.com/gustavorobertux/goshock | 1 | 0| 
 | 20210211T01:29:25Z | forked version of funtuna, a homebrew ps2 app launcher designed to ease the pain of getting a stable exploit for those that have a console uncompatible with FreeMcBoot that doesnt have a modchip | https://github.com/israpps/Funtuna-Fork | 1 | 0| 
 | 20210211T01:08:42Z | Exploits a simple WebRCE and supports PTY upgrade, Bind- and ReveseShells, File Up- and Download | https://github.com/61106960/ForwardShell | 1 | 1| 
 | 20210211T01:02:47Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 7 | 4| 
