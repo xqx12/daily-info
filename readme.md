@@ -16,7 +16,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20210211T13:27:07Z | 未知编号 | Dockerfile to build cve-2013-2028 container with centos6 and nginx | https://github.com/mambroziak/docker-cve-2013-2028 | | 
+| 20210211T13:27:07Z | 未知编号 | Dockerfile to build cve-2013-2028 container with centos6 and nginx | https://github.com/mambroziak/docker-cve-2013-2028 | 未查询到CVE信息| 
 | 20210211T12:33:04Z | CVE-2021-24096 | Null | https://github.com/FunPhishing/CVE-2021-24096 | 未查询到CVE信息| 
 | 20210211T11:58:44Z | CVE-2021-3156 | CVE-2021-3156非交互式执行命令 | https://github.com/Rvn0xsy/CVE-2021-3156-plus | Sudo before 1.9.5p2 has a Heap-based Buffer Overflow, allowing privilege escalation to root via %sudoedit -s% and a command-line argument that ends with a single backslash character.| 
 | 20210211T08:26:54Z | CVE-2021-1782 | Null | https://github.com/synacktiv/CVE-2021-1782 | 未查询到CVE信息| 
@@ -40,6 +40,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210211T13:34:56Z | Just a temporary website to post my ctf writeups and journey into binary exploitation/malware analysis/exploit development | https://github.com/blackbeard666/blackbeard666.github.io | 0 | 0| 
 | 20210211T13:28:14Z | My Exploits For Boxs | https://github.com/xr0o0tx-511/Writeups-HackTheBox | 0 | 0| 
 | 20210211T13:21:33Z | A proof-of-concept tool for generating payloads that exploit unsafe ruby object deserialization. | https://github.com/realgam3/ysoserial.rb | 0 | 0| 
 | 20210211T13:07:03Z | The official Exploit Database repository | https://github.com/offensive-security/exploitdb | 5867 | 1679| 
@@ -49,7 +50,6 @@
 | 20210211T12:06:37Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 8994 | 1446| 
 | 20210211T11:45:06Z | Discord Tools & Exploits made /  edited / fixed by me | https://github.com/owersite/discord-exploits | 1 | 0| 
 | 20210211T11:09:54Z | this is a repo used to exploit CVE-2018-11235: Git Submodule RCE | https://github.com/pyroot99/aaa | 0 | 0| 
-| 20210211T11:08:24Z | This is a repo that is used to exploit git CVE-2018-11235: Git Submodule RCE | https://github.com/pyroot99/submod | 0 | 0| 
 
 
 # backdoor on Github 推荐
