@@ -61,7 +61,6 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210210T22:38:20Z | An evil RAT (Remote Administration Tool) for macOS / OS X. | https://github.com/Marten4n6/EvilOSX | 1633 | 399| 
 | 20210210T19:13:38Z | A sample app to demonstrate how to create Xamarin UITests using the Page Object architecture, Backdoor Methods and App Links (aka Deep Linking) | https://github.com/brminnick/UITestSampleApp | 32 | 25| 
 | 20210210T19:02:28Z | RATata is a simple python RAT to setup and use ! | https://github.com/loTus04/RATata | 1 | 0| 
 | 20210210T19:01:02Z | La versión Lekeada de LeuxBackdoor Sin codigo OBF, Creadores ObsidianBreaker y Luscius | https://github.com/Luscius-Dev/LeuxBackdoor | 3 | 1| 
