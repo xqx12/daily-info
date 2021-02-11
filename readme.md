@@ -39,6 +39,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210211T13:07:03Z | The official Exploit Database repository | https://github.com/offensive-security/exploitdb | 5867 | 1679| 
 | 20210211T13:02:31Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 7 | 4| 
 | 20210211T12:50:05Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 7 | 4| 
 | 20210211T12:45:33Z | ExploitsX is a top-of-the-line constantly updated exploit fixer focused on patching bugs, lag glitches, and crash glitches for minecraft servers. It supports versions 1.8 through 1.17. | https://github.com/IzDaBait/ExploitsX | 7 | 2| 
@@ -48,14 +49,13 @@
 | 20210211T11:08:24Z | This is a repo that is used to exploit git CVE-2018-11235: Git Submodule RCE | https://github.com/pyroot99/submod | 0 | 0| 
 | 20210211T10:32:46Z | Test for CVE-2000-0649, and return an IP address if vulnerable | https://github.com/rafaelh/CVE-2000-0649 | 0 | 0| 
 | 20210211T10:05:38Z | Automated All-in-One OS command injection and exploitation tool. | https://github.com/commixproject/commix | 2530 | 590| 
-| 20210211T09:52:00Z | Null | https://github.com/Psychorot/MaouExploit | 0 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210211T13:07:05Z | backdoor bot is a discord bot that gives backdoor access to any server with the bot in, this is for educational purposes only and should no be used maliciously. This is a bot to show the dangers of adding any random discord bot to your server. All the code that gives backdoor access will be put in a separate, private file as to not cause any mishap with discord itself. All of this will be put in a readme file for people downloading the files. | https://github.com/harckepy/backdoor-bot | 0 | 0| 
 | 20210211T12:58:46Z | Null | https://github.com/kocdeniz/backdoor_for_windows | 0 | 0| 
-| 20210211T12:57:13Z | backdoor bot is a project that gives backdoor access to any server with the bot in it, this is for educational purposeous | https://github.com/harckepy/backdoor-bot | 0 | 0| 
 | 20210211T12:39:07Z | An evil RAT (Remote Administration Tool) for macOS / OS X. | https://github.com/Marten4n6/EvilOSX | 1635 | 399| 
 | 20210211T11:21:52Z | Null | https://github.com/rabbitx1337/backdoor | 0 | 0| 
 | 20210211T11:20:54Z | This is a backdoor used to execute command line on client%s computer. | https://github.com/itismeTin/Python-Backdoor | 0 | 0| 
