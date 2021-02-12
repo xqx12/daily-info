@@ -99,6 +99,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210212T13:31:19Z | Basic Backdoor in Python | https://github.com/ninjahacker123/Backdoor | 0 | 0| 
 | 20210212T02:33:07Z | PyIris-backdoor is a modular, stealthy and flexible remote-access-toolkit written completely in python used to command and control other systems. It is now in the beta stage, possibly perpetually. There are bugs still present in the framework, feel free to contribute or help me out with this project its still under active development >_> | https://github.com/angus-y/PyIris-backdoor | 139 | 42| 
 | 20210211T20:54:47Z | Null | https://github.com/kaktus087/backdoor | 0 | 0| 
 | 20210211T18:40:43Z | This backdoor leux is 100% clean but someone else lekaed it | https://github.com/ByJarvus/LeuxBackdoor | 1 | 0| 
@@ -108,7 +109,6 @@
 | 20210211T11:21:52Z | Null | https://github.com/rabbitx1337/backdoor | 0 | 0| 
 | 20210211T11:20:54Z | This is a backdoor used to execute command line on client%s computer. | https://github.com/itismeTin/Python-Backdoor | 0 | 0| 
 | 20210211T08:07:50Z | Null | https://github.com/fenilsuchak/test-mlm-backdoor | 0 | 0| 
-| 20210211T05:13:07Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 166 | 24| 
 
 
 # fuzz on Github 推荐
