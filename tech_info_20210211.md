@@ -20,8 +20,8 @@
 | 20210211T18:21:58Z | CVE-2021-1782 | Null | https://github.com/synacktiv/CVE-2021-1782 | 未查询到CVE信息| 
 | 20210211T16:50:22Z | CVE-2021-3156 | Exploit for Sudo heap overflow (CVE-2021-3156) on Debain 10 | https://github.com/0xdevil/CVE-2021-3156 | Sudo before 1.9.5p2 has a Heap-based Buffer Overflow, allowing privilege escalation to root via %sudoedit -s% and a command-line argument that ends with a single backslash character.| 
 | 20210211T15:08:26Z | CVE-2021-27187 | Null | https://github.com/jet-pentest/CVE-2021-27187 | 未查询到CVE信息| 
-| 20210211T13:27:07Z | 未知编号 | Dockerfile to build cve-2013-2028 container with centos6 and nginx | https://github.com/mambroziak/docker-cve-2013-2028 | | 
-| 20210211T12:33:04Z | CVE-2021-24096 | Null | https://github.com/FunPhishing/CVE-2021-24096 | | 
+| 20210211T13:27:07Z | 未知编号 | Dockerfile to build cve-2013-2028 container with centos6 and nginx | https://github.com/mambroziak/docker-cve-2013-2028 | 未查询到CVE信息| 
+| 20210211T12:33:04Z | CVE-2021-24096 | Null | https://github.com/FunPhishing/CVE-2021-24096 | 未查询到CVE信息| 
 | 20210211T07:53:25Z | CVE-2021-27190 | Null | https://github.com/anmolksachan/CVE-2021-27190-PEEL-Shopping-cart-9.3.0-Stored-XSS | 未查询到CVE信息| 
 
 
