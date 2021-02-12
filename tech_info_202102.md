@@ -84,6 +84,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210212T13:23:14Z | A phased, evasive Path Traversal + LFI scanning & exploitation tool in Python | https://github.com/VainlyStrain/Vailyn | 93 | 3| 
 | 20210212T13:15:57Z | xcube is a Python package for generating and exploiting data cubes powered by xarray, dask, and zarr. | https://github.com/dcs4cop/xcube | 70 | 12| 
 | 20210212T13:14:35Z | Exploit for the RpcEptMapper registry key permissions vulnerability (Windows 7 / 2088R2 / 8 / 2012) | https://github.com/itm4n/Perfusion | 83 | 11| 
 | 20210212T13:02:50Z | Linux privilege escalation auditing tool | https://github.com/mzet-/linux-exploit-suggester | 2414 | 643| 
@@ -93,7 +94,6 @@
 | 20210212T12:35:59Z | ExploitHost | https://github.com/ps4exploit/ps4exploit.github.io | 0 | 0| 
 | 20210212T12:18:04Z | Null | https://github.com/statooin/exploits | 0 | 0| 
 | 20210212T11:49:42Z | Null | https://github.com/richardcurteis/CandCppExploitTemplates | 0 | 0| 
-| 20210212T11:35:13Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 8997 | 1446| 
 
 
 # backdoor on Github 推荐
