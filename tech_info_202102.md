@@ -46,12 +46,12 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20210212T01:19:57Z | CVE-2021-3156 | CVE-2021-3156非交互式执行命令 | https://github.com/Rvn0xsy/CVE-2021-3156-plus | | 
+| 20210212T01:19:57Z | CVE-2021-3156 | CVE-2021-3156非交互式执行命令 | https://github.com/Rvn0xsy/CVE-2021-3156-plus | Sudo before 1.9.5p2 has a Heap-based Buffer Overflow, allowing privilege escalation to root via %sudoedit -s% and a command-line argument that ends with a single backslash character.| 
 | 20210211T19:39:46Z | CVE-2020-1350 | HoneyPoC: Proof-of-Concept (PoC) script to exploit SIGRed (CVE-2020-1350). Achieves Domain Admin on Domain Controllers running Windows Server 2000 up to Windows Server 2019. | https://github.com/ZephrFish/CVE-2020-1350 | A remote code execution vulnerability exists in Windows Domain Name System servers when they fail to properly handle requests, aka %Windows DNS Server Remote Code Execution Vulnerability%.| 
 | 20210211T18:21:58Z | CVE-2021-1782 | Null | https://github.com/synacktiv/CVE-2021-1782 | 未查询到CVE信息| 
 | 20210211T16:50:22Z | CVE-2021-3156 | Exploit for Sudo heap overflow (CVE-2021-3156) on Debain 10 | https://github.com/0xdevil/CVE-2021-3156 | Sudo before 1.9.5p2 has a Heap-based Buffer Overflow, allowing privilege escalation to root via %sudoedit -s% and a command-line argument that ends with a single backslash character.| 
-| 20210211T15:08:26Z | CVE-2021-27187 | Null | https://github.com/jet-pentest/CVE-2021-27187 | 未查询到CVE信息| 
-| 20210211T13:27:07Z | 未知编号 | Dockerfile to build cve-2013-2028 container with centos6 and nginx | https://github.com/mambroziak/docker-cve-2013-2028 | 未查询到CVE信息| 
+| 20210211T15:08:26Z | CVE-2021-27187 | Null | https://github.com/jet-pentest/CVE-2021-27187 | | 
+| 20210211T13:27:07Z | 未知编号 | Dockerfile to build cve-2013-2028 container with centos6 and nginx | https://github.com/mambroziak/docker-cve-2013-2028 | | 
 | 20210211T12:33:04Z | CVE-2021-24096 | Null | https://github.com/FunPhishing/CVE-2021-24096 | 未查询到CVE信息| 
 | 20210211T07:53:25Z | CVE-2021-27190 | Null | https://github.com/anmolksachan/CVE-2021-27190-PEEL-Shopping-cart-9.3.0-Stored-XSS | 未查询到CVE信息| 
 | 20210210T19:11:19Z | CVE-2021-3156 | PoC for CVE-2021-3156 (sudo heap overflow) | https://github.com/stong/CVE-2021-3156 | Sudo before 1.9.5p2 has a Heap-based Buffer Overflow, allowing privilege escalation to root via %sudoedit -s% and a command-line argument that ends with a single backslash character.| 
@@ -84,8 +84,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210212T02:32:35Z | %Ike: A binary exploitation and reversing handbook | https://github.com/mahaloz/ike | 0 | 0| 
 | 20210212T02:24:51Z | Exploit for the RpcEptMapper registry key permissions vulnerability (Windows 7 / 2088R2 / 8 / 2012) | https://github.com/itm4n/Perfusion | 28 | 5| 
-| 20210212T02:22:32Z | %Ike: A binary exploitation and reversing handbook | https://github.com/mahaloz/ike | 0 | 0| 
 | 20210212T02:05:35Z | A collection of code examples e.g. a buffer overflow + exploit, crypter, shellcodes and more. | https://github.com/lnslbrty/bufflow | 9 | 6| 
 | 20210212T02:02:39Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 7 | 4| 
 | 20210212T01:54:13Z | Sécurité des logiciels et exploitation de vulnérabilités | https://github.com/ppepos/inf600c | 4 | 1| 
