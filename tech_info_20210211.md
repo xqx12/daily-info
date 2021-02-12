@@ -70,9 +70,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210211T01:37:47Z | Null | https://github.com/docfate111/mujs-fuzzilli | 0 | 0| 
-| 20210211T00:45:30Z | Null | https://github.com/anaaaahg/fuzzy-robot | 0 | 0| 
-| 20210211T00:11:29Z | JQF + Zest: Coverage-guided semantic fuzzing for Java. | https://github.com/rohanpadhye/JQF | 332 | 43| 
+| 20210211T23:35:47Z | final project for CS50 2020 | https://github.com/leztien/fuzzy_matching_project | 0 | 0| 
+| 20210211T23:26:10Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 5890 | 1184| 
+| 20210211T23:16:02Z | Null | https://github.com/picatz/go-fuzz-exporter | 0 | 0| 
+| 20210211T23:14:46Z | Security oriented software fuzzer. Supports evolutionary, feedback-driven fuzzing based on code coverage (SW and HW based) | https://github.com/google/honggfuzz | 2129 | 431| 
+| 20210211T23:08:49Z | Null | https://github.com/fuzzychicken/fuzzychicken.github.io | 0 | 0| 
+| 20210211T22:30:28Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2265 | 116| 
+| 20210211T22:27:15Z | Null | https://github.com/moyix/irq_fuzzer | 3 | 1| 
+| 20210211T22:27:13Z | BLU513E Term Project: A Experiment of Fuzzy Logic Based control System for Mobile Robot | https://github.com/ahmedbing/FuzzyLogicBLU513E | 0 | 0| 
+| 20210211T22:01:33Z | Null | https://github.com/dieg0moraes/fuzzer | 1 | 0| 
+| 20210211T21:01:05Z | A project to learn Python and work with FuzzyLogic | https://github.com/matijsbrs/FuzzyPython | 0 | 0| 
 
 
 
