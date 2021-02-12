@@ -23,7 +23,7 @@
 | 20210211T15:08:26Z | CVE-2021-27187 | Null | https://github.com/jet-pentest/CVE-2021-27187 | 未查询到CVE信息| 
 | 20210211T13:27:07Z | 未知编号 | Dockerfile to build cve-2013-2028 container with centos6 and nginx | https://github.com/mambroziak/docker-cve-2013-2028 | 未查询到CVE信息| 
 | 20210211T12:33:04Z | CVE-2021-24096 | Null | https://github.com/FunPhishing/CVE-2021-24096 | 未查询到CVE信息| 
-| 20210211T07:53:25Z | CVE-2021-27190 | Null | https://github.com/anmolksachan/CVE-2021-27190-PEEL-Shopping-cart-9.3.0-Stored-XSS | | 
+| 20210211T07:53:25Z | CVE-2021-27190 | Null | https://github.com/anmolksachan/CVE-2021-27190-PEEL-Shopping-cart-9.3.0-Stored-XSS | 未查询到CVE信息| 
 
 
 # klee on Github 推荐

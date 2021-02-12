@@ -53,9 +53,9 @@
 | 20210211T15:08:26Z | CVE-2021-27187 | Null | https://github.com/jet-pentest/CVE-2021-27187 | 未查询到CVE信息| 
 | 20210211T13:27:07Z | 未知编号 | Dockerfile to build cve-2013-2028 container with centos6 and nginx | https://github.com/mambroziak/docker-cve-2013-2028 | 未查询到CVE信息| 
 | 20210211T12:33:04Z | CVE-2021-24096 | Null | https://github.com/FunPhishing/CVE-2021-24096 | 未查询到CVE信息| 
-| 20210211T07:53:25Z | CVE-2021-27190 | Null | https://github.com/anmolksachan/CVE-2021-27190-PEEL-Shopping-cart-9.3.0-Stored-XSS | | 
+| 20210211T07:53:25Z | CVE-2021-27190 | Null | https://github.com/anmolksachan/CVE-2021-27190-PEEL-Shopping-cart-9.3.0-Stored-XSS | 未查询到CVE信息| 
 | 20210210T19:11:19Z | CVE-2021-3156 | PoC for CVE-2021-3156 (sudo heap overflow) | https://github.com/stong/CVE-2021-3156 | Sudo before 1.9.5p2 has a Heap-based Buffer Overflow, allowing privilege escalation to root via %sudoedit -s% and a command-line argument that ends with a single backslash character.| 
-| 20210210T18:59:39Z | CVE-2020-9484 | POC for CVE-2020-9484 | https://github.com/VICXOR/CVE-2020-9484 | When using Apache Tomcat versions 10.0.0-M1 to 10.0.0-M4, 9.0.0.M1 to 9.0.34, 8.5.0 to 8.5.54 and 7.0.0 to 7.0.103 if a) an attacker is able to control the contents and name of a file on the server; and b) the server is configured to use the PersistenceManager with a FileStore; and c) the PersistenceManager is configured with sessionAttributeValueClassNameFilter=%null% (the default unless a SecurityManager is used) or a sufficiently lax filter to allow the attacker provided object to be deserialized; and d) the attacker knows the relative file path from the storage location used by FileStore to the file the attacker has control over; then, using a specifically crafted request, the attacker will be able to trigger remote code execution via deserialization of the file under their control. Note that all of conditions a) to d) must be true for the attack to succeed.| 
+| 20210210T18:59:39Z | CVE-2020-9484 | POC for CVE-2020-9484 | https://github.com/VICXOR/CVE-2020-9484 | | 
 
 
 # klee on Github 推荐
