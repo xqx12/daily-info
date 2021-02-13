@@ -84,9 +84,9 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210213T01:29:45Z | Exploits a simple WebRCE and supports PTY upgrade, Bind- and ReveseShells, File Up- and Download | https://github.com/61106960/ForwardShell | 1 | 1| 
 | 20210213T01:29:04Z | C2/post-exploitation framework | https://github.com/loseys/BlackMamba | 22 | 7| 
 | 20210213T01:02:47Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 7 | 4| 
-| 20210213T00:51:40Z | Exploits a simple WebRCE and supports PTY upgrade, Bind- and ReveseShells, File Up- and Download | https://github.com/61106960/ForwardShell | 1 | 1| 
 | 20210213T00:50:03Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 7 | 4| 
 | 20210213T00:34:01Z | random stuff for exploit dev practice | https://github.com/C-Brown/exploit_dev_practice | 0 | 0| 
 | 20210212T23:49:46Z | Autosplitter For The Game Speed Run 4 (Requires Exploit With Input API) | https://github.com/BluelyTASer/Speed-Run-4-Autosplitter | 0 | 0| 
@@ -114,8 +114,8 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210213T01:29:14Z | This repository contains support script for statistical hydrometeorological analysis | https://github.com/mathmodelling/fuzzy-journey | 0 | 0| 
 | 20210213T01:03:33Z | Null | https://github.com/Shinya9519/fuzzy-bassoon | 0 | 0| 
-| 20210213T00:35:32Z | This repository contains support script for statistical hydrometeorological analysis | https://github.com/mathmodelling/fuzzy-journey | 0 | 0| 
 | 20210213T00:01:53Z | Null | https://github.com/opimentel-github/fuzzy-torch | 0 | 0| 
 | 20210212T23:58:28Z | Software for fuzzing, used on web application pentestings. | https://github.com/NESCAU-UFLA/FuzzingTool | 4 | 1| 
 | 20210212T23:11:45Z | Null | https://github.com/rafaelschroeder/fuzzy-adventure | 0 | 0| 
