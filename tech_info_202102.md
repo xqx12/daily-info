@@ -54,7 +54,7 @@
 | 20210212T04:27:05Z | CVE-2021-3156 | Exploit for Sudo heap overflow (CVE-2021-3156) on Debain 10 | https://github.com/0xdevil/CVE-2021-3156 | Sudo before 1.9.5p2 has a Heap-based Buffer Overflow, allowing privilege escalation to root via %sudoedit -s% and a command-line argument that ends with a single backslash character.| 
 | 20210212T03:11:16Z | CVE-2021-1782 | Null | https://github.com/synacktiv/CVE-2021-1782 | 未查询到CVE信息| 
 | 20210212T02:56:13Z | CVE-2020-1350 | HoneyPoC: Proof-of-Concept (PoC) script to exploit SIGRed (CVE-2020-1350). Achieves Domain Admin on Domain Controllers running Windows Server 2000 up to Windows Server 2019. | https://github.com/ZephrFish/CVE-2020-1350 | A remote code execution vulnerability exists in Windows Domain Name System servers when they fail to properly handle requests, aka %Windows DNS Server Remote Code Execution Vulnerability%.| 
-| 20210211T15:08:26Z | CVE-2021-27187 | Null | https://github.com/jet-pentest/CVE-2021-27187 | The Sovremennye Delovye Tekhnologii FX Aggregator terminal client 1 stores authentication credentials in cleartext in login.sav when the Save Password box is checked.| 
+| 20210211T15:08:26Z | CVE-2021-27187 | Null | https://github.com/jet-pentest/CVE-2021-27187 | | 
 | 20210211T13:27:07Z | 未知编号 | Dockerfile to build cve-2013-2028 container with centos6 and nginx | https://github.com/mambroziak/docker-cve-2013-2028 | 未查询到CVE信息| 
 
 
@@ -99,6 +99,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210213T02:43:55Z | An evil RAT (Remote Administration Tool) for macOS / OS X. | https://github.com/Marten4n6/EvilOSX | 1635 | 399| 
 | 20210212T18:18:39Z | simple discord grabber made in python & DiscordAPI with paths (soon with IP Details include and may backdoor ^—^) | https://github.com/zklqlf/zkl-grabber | 0 | 0| 
 | 20210212T16:58:49Z | This is a backdoor used to execute command line on client%s computer. | https://github.com/itismeTin/Python-Backdoor | 0 | 0| 
 | 20210212T16:37:07Z | Intuitive Java Backdoor | https://github.com/YeahOMA/omaBackdoor | 0 | 0| 
@@ -107,7 +108,6 @@
 | 20210212T13:36:00Z | PyIris-backdoor is a modular, stealthy and flexible remote-access-toolkit written completely in python used to command and control other systems. It is now in the beta stage, possibly perpetually. There are bugs still present in the framework, feel free to contribute or help me out with this project its still under active development >_> | https://github.com/angus-y/PyIris-backdoor | 140 | 42| 
 | 20210211T20:54:47Z | Null | https://github.com/kaktus087/backdoor | 0 | 0| 
 | 20210211T18:40:43Z | This backdoor leux is 100% clean but someone else lekaed it | https://github.com/ByJarvus/LeuxBackdoor | 1 | 0| 
-| 20210211T17:56:51Z | An evil RAT (Remote Administration Tool) for macOS / OS X. | https://github.com/Marten4n6/EvilOSX | 1636 | 399| 
 | 20210211T13:36:58Z | backdoor bot is a discord bot that gives backdoor access to any server with the bot in, this is for educational purposes only and should no be used maliciously. This is a bot to show the dangers of adding any random discord bot to your server. All the code that gives backdoor access will be put in a separate, private file as to not cause any mishap with discord itself. All of this will be put in a readme file for people downloading the files. | https://github.com/harckepy/backdoor-bot | 0 | 0| 
 
 
