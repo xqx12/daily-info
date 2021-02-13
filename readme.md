@@ -76,8 +76,8 @@
 | 20210212T21:35:58Z | VMI Kernel Fuzzer for Xen Project - VM forking, VMI & AFL integration demo | https://github.com/intel/kernel-fuzzer-for-xen-project | 238 | 37| 
 | 20210212T21:30:36Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 1300 | 284| 
 | 20210212T21:22:21Z | A fuzzer for SMT solvers | https://github.com/testsmt/yinyang | 79 | 6| 
-| 20210212T21:20:23Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 5895 | 1187| 
 | 20210212T20:54:42Z | A JavaScript Engine Fuzzer | https://github.com/googleprojectzero/fuzzilli | 1145 | 199| 
+| 20210212T20:52:45Z | Null | https://github.com/h-fuzzy-logic/h-fuzzy-logic | 0 | 0| 
 
 
 
