@@ -55,7 +55,7 @@
 | 20210212T20:10:14Z | CVE-2021-3156 | CVE-2021-3156非交互式执行命令 | https://github.com/Rvn0xsy/CVE-2021-3156-plus | Sudo before 1.9.5p2 has a Heap-based Buffer Overflow, allowing privilege escalation to root via %sudoedit -s% and a command-line argument that ends with a single backslash character.| 
 | 20210212T19:38:47Z | cve-2020-35498 | Flag the cve-2020-35498 attack | https://github.com/freddierice/cve-2020-35498-flag | 未查询到CVE信息| 
 | 20210212T07:36:37Z | CVE-2021-27188 | Null | https://github.com/jet-pentest/CVE-2021-27188 | The Sovremennye Delovye Tekhnologii FX Aggregator terminal client 1 allows attackers to cause a denial of service (access suspended for five hours) by making five invalid login attempts to a victim%s account.| 
-| 20210212T07:32:20Z | CVE-2021-27190 | Null | https://github.com/anmolksachan/CVE-2021-27190-PEEL-Shopping-cart-9.3.0-Stored-XSS | A Stored Cross Site Scripting(XSS) Vulnerability was discovered in PEEL SHOPPING 9.3.0 which is publicly available. The user supplied input containing polyglot payload is echoed back in javascript code in HTML response. This allows an attacker to input malicious JavaScript which can steal cookie, redirect them to other malicious website, etc.| 
+| 20210212T07:32:20Z | CVE-2021-27190 | Null | https://github.com/anmolksachan/CVE-2021-27190-PEEL-Shopping-cart-9.3.0-Stored-XSS | | 
 
 
 # klee on Github 推荐
@@ -84,6 +84,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210213T13:48:26Z | Exploit for the RpcEptMapper registry key permissions vulnerability (Windows 7 / 2088R2 / 8 / 2012) | https://github.com/itm4n/Perfusion | 131 | 14| 
 | 20210213T13:44:22Z | exploit/multi/netwave_ip_camera/password_disclosure | https://github.com/enty8080/netwave_ip_camera_exploit | 0 | 0| 
 | 20210213T13:44:20Z | A protection for your server against hackers and those who want to exploit on the server, SUGGEST COCK HACKERS | https://github.com/Zetson/z-anticheat | 0 | 0| 
 | 20210213T13:39:01Z | PasteExploit is a malicious command generator for Windows and Linux systems written in Python | https://github.com/loRes228/PasteExploit | 0 | 0| 
@@ -91,7 +92,6 @@
 | 20210213T13:37:50Z | An example of an XXE explot, using PHP | https://github.com/albertodlc/Simple-XXE-exploit-example | 0 | 0| 
 | 20210213T13:02:27Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 8 | 4| 
 | 20210213T12:54:33Z | Its a quizlet exploit ! ( yes my alt-dev username is different cause i dont wanna get banned for sharing exploits) | https://github.com/SteelRaven7dev/quizlet-exploits-including-other-explotits- | 0 | 0| 
-| 20210213T12:52:58Z | Exploit for the RpcEptMapper registry key permissions vulnerability (Windows 7 / 2088R2 / 8 / 2012) | https://github.com/itm4n/Perfusion | 130 | 14| 
 | 20210213T12:50:03Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 7 | 4| 
 | 20210213T12:41:51Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9000 | 1448| 
 
