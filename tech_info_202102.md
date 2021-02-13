@@ -55,7 +55,7 @@
 | 20210212T03:11:16Z | CVE-2021-1782 | Null | https://github.com/synacktiv/CVE-2021-1782 | 未查询到CVE信息| 
 | 20210212T02:56:13Z | CVE-2020-1350 | HoneyPoC: Proof-of-Concept (PoC) script to exploit SIGRed (CVE-2020-1350). Achieves Domain Admin on Domain Controllers running Windows Server 2000 up to Windows Server 2019. | https://github.com/ZephrFish/CVE-2020-1350 | A remote code execution vulnerability exists in Windows Domain Name System servers when they fail to properly handle requests, aka %Windows DNS Server Remote Code Execution Vulnerability%.| 
 | 20210211T15:08:26Z | CVE-2021-27187 | Null | https://github.com/jet-pentest/CVE-2021-27187 | The Sovremennye Delovye Tekhnologii FX Aggregator terminal client 1 stores authentication credentials in cleartext in login.sav when the Save Password box is checked.| 
-| 20210211T13:27:07Z | 未知编号 | Dockerfile to build cve-2013-2028 container with centos6 and nginx | https://github.com/mambroziak/docker-cve-2013-2028 | 未查询到CVE信息| 
+| 20210211T13:27:07Z | 未知编号 | Dockerfile to build cve-2013-2028 container with centos6 and nginx | https://github.com/mambroziak/docker-cve-2013-2028 | | 
 
 
 # klee on Github 推荐
