@@ -49,12 +49,12 @@
 | 20210212T20:10:14Z | CVE-2021-3156 | CVE-2021-3156非交互式执行命令 | https://github.com/Rvn0xsy/CVE-2021-3156-plus | Sudo before 1.9.5p2 has a Heap-based Buffer Overflow, allowing privilege escalation to root via %sudoedit -s% and a command-line argument that ends with a single backslash character.| 
 | 20210212T19:38:47Z | cve-2020-35498 | Flag the cve-2020-35498 attack | https://github.com/freddierice/cve-2020-35498-flag | 未查询到CVE信息| 
 | 20210212T19:27:37Z | CVE-2021-26121 | Null | https://github.com/sourceincite/CVE-2021-26121 | 未查询到CVE信息| 
-| 20210212T07:36:37Z | CVE-2021-27188 | Null | https://github.com/jet-pentest/CVE-2021-27188 | The Sovremennye Delovye Tekhnologii FX Aggregator terminal client 1 allows attackers to cause a denial of service (access suspended for five hours) by making five invalid login attempts to a victim%s account.| 
+| 20210212T07:36:37Z | CVE-2021-27188 | Null | https://github.com/jet-pentest/CVE-2021-27188 | | 
 | 20210212T07:32:20Z | CVE-2021-27190 | Null | https://github.com/anmolksachan/CVE-2021-27190-PEEL-Shopping-cart-9.3.0-Stored-XSS | A Stored Cross Site Scripting(XSS) Vulnerability was discovered in PEEL SHOPPING 9.3.0 which is publicly available. The user supplied input containing polyglot payload is echoed back in javascript code in HTML response. This allows an attacker to input malicious JavaScript which can steal cookie, redirect them to other malicious website, etc.| 
 | 20210212T04:27:05Z | CVE-2021-3156 | Exploit for Sudo heap overflow (CVE-2021-3156) on Debain 10 | https://github.com/0xdevil/CVE-2021-3156 | Sudo before 1.9.5p2 has a Heap-based Buffer Overflow, allowing privilege escalation to root via %sudoedit -s% and a command-line argument that ends with a single backslash character.| 
 | 20210212T03:11:16Z | CVE-2021-1782 | Null | https://github.com/synacktiv/CVE-2021-1782 | 未查询到CVE信息| 
 | 20210212T02:56:13Z | CVE-2020-1350 | HoneyPoC: Proof-of-Concept (PoC) script to exploit SIGRed (CVE-2020-1350). Achieves Domain Admin on Domain Controllers running Windows Server 2000 up to Windows Server 2019. | https://github.com/ZephrFish/CVE-2020-1350 | A remote code execution vulnerability exists in Windows Domain Name System servers when they fail to properly handle requests, aka %Windows DNS Server Remote Code Execution Vulnerability%.| 
-| 20210211T15:08:26Z | CVE-2021-27187 | Null | https://github.com/jet-pentest/CVE-2021-27187 | The Sovremennye Delovye Tekhnologii FX Aggregator terminal client 1 stores authentication credentials in cleartext in login.sav when the Save Password box is checked.| 
+| 20210211T15:08:26Z | CVE-2021-27187 | Null | https://github.com/jet-pentest/CVE-2021-27187 | | 
 | 20210211T13:27:07Z | 未知编号 | Dockerfile to build cve-2013-2028 container with centos6 and nginx | https://github.com/mambroziak/docker-cve-2013-2028 | 未查询到CVE信息| 
 
 
@@ -114,16 +114,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210212T01:44:09Z | Note taking with fuzzy search | https://github.com/iamlemec/fuzzy | 1 | 1| 
-| 20210212T01:39:18Z | FuzzBALL: Vine-based Binary Symbolic Execution | https://github.com/bitblaze-fuzzball/fuzzball | 202 | 52| 
-| 20210212T01:25:39Z | Fuzzy diagnosis of oil-related thermal failure in power transformers | https://github.com/dromero1/fuzzy-diagnosis-thermal-failure | 0 | 0| 
-| 20210212T01:13:17Z | Coverage-guided, in-process fuzzing for the JVM | https://github.com/CodeIntelligenceTesting/jazzer | 148 | 5| 
-| 20210212T00:58:24Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 29845 | 15105| 
-| 20210212T00:54:17Z | Software for fuzzing, used on web application pentestings. | https://github.com/NESCAU-UFLA/FuzzingTool | 4 | 1| 
-| 20210212T00:45:12Z | Null | https://github.com/opimentel-github/fuzzy-torch | 0 | 0| 
-| 20210211T23:35:47Z | final project for CS50 2020 | https://github.com/leztien/fuzzy_matching_project | 0 | 0| 
-| 20210211T23:26:10Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 5890 | 1184| 
-| 20210211T23:16:02Z | Null | https://github.com/picatz/go-fuzz-exporter | 0 | 0| 
+| 20210213T01:03:33Z | Null | https://github.com/Shinya9519/fuzzy-bassoon | 0 | 0| 
+| 20210213T00:35:32Z | This repository contains support script for statistical hydrometeorological analysis | https://github.com/mathmodelling/fuzzy-journey | 0 | 0| 
+| 20210213T00:01:53Z | Null | https://github.com/opimentel-github/fuzzy-torch | 0 | 0| 
+| 20210212T23:58:28Z | Software for fuzzing, used on web application pentestings. | https://github.com/NESCAU-UFLA/FuzzingTool | 4 | 1| 
+| 20210212T23:11:45Z | Null | https://github.com/rafaelschroeder/fuzzy-adventure | 0 | 0| 
+| 20210212T22:51:45Z | Git training | https://github.com/MarkusLinjamaki/fuzzyGit | 0 | 0| 
+| 20210212T22:40:18Z | Small fuzzing library with an example script using it. | https://github.com/lgandx/FuzzLib | 1 | 2| 
+| 20210212T21:58:33Z | Null | https://github.com/sebalesraim/FuzzyNetworkFeat | 1 | 0| 
+| 20210212T21:35:58Z | VMI Kernel Fuzzer for Xen Project - VM forking, VMI & AFL integration demo | https://github.com/intel/kernel-fuzzer-for-xen-project | 238 | 37| 
+| 20210212T21:30:36Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 1300 | 284| 
 
 
 
