@@ -42,7 +42,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210213T13:23:06Z | ExploitHost | https://github.com/ps4exploit/ps4exploit.github.io | 0 | 0| 
+| 20210213T13:27:59Z | ExploitHost | https://github.com/ps4exploit/ps4exploit.github.io | 0 | 0| 
 | 20210213T13:15:29Z | exploit/multi/netwave_ip_camera/password_disclosure | https://github.com/enty8080/netwave_ip_camera_exploit | 0 | 0| 
 | 20210213T13:02:27Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 8 | 4| 
 | 20210213T12:54:33Z | Its a quizlet exploit ! ( yes my alt-dev username is different cause i dont wanna get banned for sharing exploits) | https://github.com/SteelRaven7dev/quizlet-exploits-including-other-explotits- | 0 | 0| 
@@ -57,7 +57,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210213T13:28:12Z | A Termux Backdoor  | https://github.com/f00kthisc0de/TermFun | 0 | 0| 
+| 20210213T13:30:42Z | A Termux Backdoor  | https://github.com/f00kthisc0de/TermFun | 0 | 0| 
 | 20210213T12:49:06Z | Null | https://github.com/dksamu/BackDoor | 0 | 0| 
 | 20210213T10:42:53Z | This program is an non-object oriented opensource, hidden and undetectable backdoor/reverse shell/RAT for Windows made in Python 3 which contains many features such as multi-client support and cross-platform server. | https://github.com/xp4xbox/Python-Backdoor | 357 | 133| 
 | 20210213T09:52:40Z | Null | https://github.com/direskyfer/beta-linux-backdoor | 1 | 0| 
