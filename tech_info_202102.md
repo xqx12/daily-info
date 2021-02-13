@@ -31,6 +31,9 @@
 # 安全维基 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20210213 | FreakOut分析报告 | https://mp.weixin.qq.com/s/jQ6npq2C8PprnDQMXTtP0g| 
+| 20210213 | 预见2021网络安全细分领域发展 | https://mp.weixin.qq.com/s/XBGy2xG3-GYL7023lAjCyg| 
+| 20210213 | 浅析 CVE-2021-1647 的漏洞利用技巧 | https://mp.weixin.qq.com/s/CjsntvNM6_zMZF1IGirMPg| 
 | 20210209 | 全球高级持续性威胁(APT)2020年度报告 | https://ti.qianxin.com/uploads/2021/02/08/dd941ecf98c7cb9bf0111a8416131aa1.pdf| 
 | 20210209 | 2020年勒索软件分析 | https://mp.weixin.qq.com/s/yrtU2_VxEt94DWF4eQWujA| 
 | 20210209 | 云安全架构连载之二-Azure云平台威胁检测详解 | https://mp.weixin.qq.com/s/Dffk-_TSCaR2SWVAIMCQUA| 
@@ -38,33 +41,30 @@
 | 20210209 | 邮件钓鱼入门到入土 | https://mp.weixin.qq.com/s/hhBs3wryDCum1DrD6CxeRw| 
 | 20210208 | SecWiki周刊（第362期) | https://www.sec-wiki.com/weekly/362| 
 | 20210207 | 针对攻击目标量身定制 Cobalt Strike 的 Beacon 执行 | https://mp.weixin.qq.com/s/ofg9dVgL38CENCFXFAslOw| 
-| 20210206 | AVATAR：通过修复静态分析冲突的模式来修复语义错误 | https://mp.weixin.qq.com/s/w9SjsI3WVmghVVQGwtkyUQ| 
-| 20210206 | SerialDetector：Web对象注入漏洞的原理和实践探索 | https://mp.weixin.qq.com/s/doFTqJcA30AwgUUtK5XqMQ| 
-| 20210206 | 基于DTLS协议的反射攻击深度分析 | https://mp.weixin.qq.com/s/Ye_AuMDLQotv3M5rv9OmOA| 
 
 
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20210213T11:57:52Z | CVE-2021-25646 | Null | https://github.com/Vulnmachines/Apache-Druid-CVE-2021-25646 | Apache Druid includes the ability to execute user-provided JavaScript code embedded in various types of requests. This functionality is intended for use in high-trust environments, and is disabled by default. However, in Druid 0.20.0 and earlier, it is possible for an authenticated user to send a specially-crafted request that forces Druid to run user-provided JavaScript code for that request, regardless of server configuration. This can be leveraged to execute code on the target machine with the privileges of the Druid server process.| 
+| 20210213T11:55:38Z | CVE-2021-1782 | Null | https://github.com/synacktiv/CVE-2021-1782 | 未查询到CVE信息| 
+| 20210213T11:44:37Z | CVE-2021-26121 | Null | https://github.com/sourceincite/CVE-2021-26121 | 未查询到CVE信息| 
+| 20210213T09:17:04Z | CVE-2021-3156 | Exploit for Sudo heap overflow (CVE-2021-3156) on Debain 10 | https://github.com/0xdevil/CVE-2021-3156 | Sudo before 1.9.5p2 has a Heap-based Buffer Overflow, allowing privilege escalation to root via %sudoedit -s% and a command-line argument that ends with a single backslash character.| 
+| 20210213T07:51:49Z | CVE-2021-21014 | Magento versions 2.4.1 (and earlier), 2.4.0-p1 (and earlier) and 2.3.6 (and earlier) are vulnerable to a file upload restriction bypass. Successful exploitation could lead to arbitrary code execution by an authenticated attacker. | https://github.com/HoangKien1020/CVE-2021-21014 | Magento versions 2.4.1 (and earlier), 2.4.0-p1 (and earlier) and 2.3.6 (and earlier) are vulnerable to a file upload restriction bypass. Successful exploitation could lead to arbitrary code execution by an authenticated attacker. Access to the admin console is required for successful exploitation.| 
+| 20210213T07:15:41Z | CVE-2020-7247 | OpenSMTPD 6.4.0 - 6.6.1 Remote Code Execution PoC exploit | https://github.com/QTranspose/CVE-2020-7247-exploit | smtp_mailaddr in smtp_session.c in OpenSMTPD 6.6, as used in OpenBSD 6.6 and other products, allows remote attackers to execute arbitrary commands as root via a crafted SMTP session, as demonstrated by shell metacharacters in a MAIL FROM field. This affects the %uncommented% default configuration. The issue exists because of an incorrect return value upon failure of input validation.| 
 | 20210212T20:10:14Z | CVE-2021-3156 | CVE-2021-3156非交互式执行命令 | https://github.com/Rvn0xsy/CVE-2021-3156-plus | Sudo before 1.9.5p2 has a Heap-based Buffer Overflow, allowing privilege escalation to root via %sudoedit -s% and a command-line argument that ends with a single backslash character.| 
 | 20210212T19:38:47Z | cve-2020-35498 | Flag the cve-2020-35498 attack | https://github.com/freddierice/cve-2020-35498-flag | 未查询到CVE信息| 
-| 20210212T19:27:37Z | CVE-2021-26121 | Null | https://github.com/sourceincite/CVE-2021-26121 | 未查询到CVE信息| 
 | 20210212T07:36:37Z | CVE-2021-27188 | Null | https://github.com/jet-pentest/CVE-2021-27188 | The Sovremennye Delovye Tekhnologii FX Aggregator terminal client 1 allows attackers to cause a denial of service (access suspended for five hours) by making five invalid login attempts to a victim%s account.| 
 | 20210212T07:32:20Z | CVE-2021-27190 | Null | https://github.com/anmolksachan/CVE-2021-27190-PEEL-Shopping-cart-9.3.0-Stored-XSS | A Stored Cross Site Scripting(XSS) Vulnerability was discovered in PEEL SHOPPING 9.3.0 which is publicly available. The user supplied input containing polyglot payload is echoed back in javascript code in HTML response. This allows an attacker to input malicious JavaScript which can steal cookie, redirect them to other malicious website, etc.| 
-| 20210212T04:27:05Z | CVE-2021-3156 | Exploit for Sudo heap overflow (CVE-2021-3156) on Debain 10 | https://github.com/0xdevil/CVE-2021-3156 | Sudo before 1.9.5p2 has a Heap-based Buffer Overflow, allowing privilege escalation to root via %sudoedit -s% and a command-line argument that ends with a single backslash character.| 
-| 20210212T03:11:16Z | CVE-2021-1782 | Null | https://github.com/synacktiv/CVE-2021-1782 | 未查询到CVE信息| 
-| 20210212T02:56:13Z | CVE-2020-1350 | HoneyPoC: Proof-of-Concept (PoC) script to exploit SIGRed (CVE-2020-1350). Achieves Domain Admin on Domain Controllers running Windows Server 2000 up to Windows Server 2019. | https://github.com/ZephrFish/CVE-2020-1350 | A remote code execution vulnerability exists in Windows Domain Name System servers when they fail to properly handle requests, aka %Windows DNS Server Remote Code Execution Vulnerability%.| 
-| 20210211T15:08:26Z | CVE-2021-27187 | Null | https://github.com/jet-pentest/CVE-2021-27187 | The Sovremennye Delovye Tekhnologii FX Aggregator terminal client 1 stores authentication credentials in cleartext in login.sav when the Save Password box is checked.| 
-| 20210211T13:27:07Z | 未知编号 | Dockerfile to build cve-2013-2028 container with centos6 and nginx | https://github.com/mambroziak/docker-cve-2013-2028 | 未查询到CVE信息| 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210213T12:06:47Z | Git Blog | https://github.com/klee30810/klee30810.github.io | 0 | 0| 
+| 20210213T12:05:19Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 的 Klee One 的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 36 | 2| 
 | 20210212T21:56:31Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1627 | 482| 
-| 20210212T15:52:06Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 的 Klee One 的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 36 | 2| 
 | 20210212T09:05:51Z | Null | https://github.com/fontworks-fonts/Klee | 361 | 9| 
-| 20210211T05:10:18Z | Git Blog | https://github.com/klee30810/klee30810.github.io | 0 | 0| 
 | 20210210T22:51:18Z | Spring 2021 Geography 817 work folder  | https://github.com/klee12/klee12.github.io | 0 | 0| 
 | 20210210T15:54:53Z | Create CFGs and compute complexity metrics for Python, C++, and Java code. | https://github.com/hmc-alpaqa/metrinome | 6 | 0| 
 | 20210210T01:52:40Z | A personnal UI library made as an excuse to have a published UI package | https://github.com/Liinkiing/klee | 5 | 1| 
@@ -84,31 +84,31 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210213T02:42:22Z | C2/post-exploitation framework | https://github.com/loseys/BlackMamba | 24 | 7| 
-| 20210213T02:03:20Z | Sécurité des logiciels et exploitation de vulnérabilités | https://github.com/ppepos/inf600c | 4 | 1| 
-| 20210213T02:02:37Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 7 | 4| 
-| 20210213T01:29:45Z | Exploits a simple WebRCE and supports PTY upgrade, Bind- and ReveseShells, File Up- and Download | https://github.com/61106960/ForwardShell | 1 | 1| 
-| 20210213T00:50:03Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 7 | 4| 
-| 20210213T00:34:01Z | random stuff for exploit dev practice | https://github.com/C-Brown/exploit_dev_practice | 0 | 0| 
-| 20210212T23:49:46Z | Autosplitter For The Game Speed Run 4 (Requires Exploit With Input API) | https://github.com/BluelyTASer/Speed-Run-4-Autosplitter | 0 | 0| 
-| 20210212T23:46:28Z | The hacking challenges I%ve solved | https://github.com/andrewbae/playground | 1 | 1| 
-| 20210212T23:18:29Z | Coming Soon | https://github.com/Mellonyt/Falcon-Pike | 2 | 1| 
-| 20210212T22:49:59Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9002 | 1447| 
+| 20210213T12:59:30Z | ExploitHost | https://github.com/ps4exploit/ps4exploit.github.io | 0 | 0| 
+| 20210213T12:54:33Z | Its a quizlet exploit ! ( yes my alt-dev username is different cause i dont wanna get banned for sharing exploits) | https://github.com/SteelRaven7dev/quizlet-exploits-including-other-explotits- | 0 | 0| 
+| 20210213T12:52:58Z | Exploit for the RpcEptMapper registry key permissions vulnerability (Windows 7 / 2088R2 / 8 / 2012) | https://github.com/itm4n/Perfusion | 130 | 14| 
+| 20210213T12:50:03Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 7 | 4| 
+| 20210213T12:41:51Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9000 | 1448| 
+| 20210213T12:29:09Z | Exploits a simple WebRCE and supports PTY upgrade, Bind- and ReveseShells, File Up- and Download | https://github.com/61106960/ForwardShell | 1 | 1| 
+| 20210213T12:14:43Z | this bash script is for remote linux hosts hacked! | https://github.com/FabioDefilippo/linuxallenum | 9 | 0| 
+| 20210213T12:13:16Z | This bash script will help you to hack remote hosts  | https://github.com/FabioDefilippo/linuxallremote | 5 | 1| 
+| 20210213T12:12:46Z | Thi powershell script has got to run in remote windows host, even for pivoting | https://github.com/FabioDefilippo/winallenum | 2 | 1| 
+| 20210213T12:02:53Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 8 | 4| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210213T13:00:37Z | A Termux Backdoor  | https://github.com/f00kthisc0de/TermFun | 0 | 0| 
+| 20210213T12:49:06Z | Null | https://github.com/dksamu/BackDoor | 0 | 0| 
+| 20210213T10:42:53Z | This program is an non-object oriented opensource, hidden and undetectable backdoor/reverse shell/RAT for Windows made in Python 3 which contains many features such as multi-client support and cross-platform server. | https://github.com/xp4xbox/Python-Backdoor | 357 | 133| 
+| 20210213T09:52:40Z | Null | https://github.com/direskyfer/beta-linux-backdoor | 1 | 0| 
+| 20210213T08:39:39Z | Backdoor CTF | https://github.com/MrPos3id0n/wasm-sercert | 0 | 0| 
+| 20210213T04:41:22Z | Research work on biometric security and template updation .  | https://github.com/Adk2001tech/Biometric-Backdoors | 1 | 0| 
 | 20210213T02:43:55Z | An evil RAT (Remote Administration Tool) for macOS / OS X. | https://github.com/Marten4n6/EvilOSX | 1635 | 399| 
 | 20210212T18:18:39Z | simple discord grabber made in python & DiscordAPI with paths (soon with IP Details include and may backdoor ^—^) | https://github.com/zklqlf/zkl-grabber | 0 | 0| 
 | 20210212T16:58:49Z | This is a backdoor used to execute command line on client%s computer. | https://github.com/itismeTin/Python-Backdoor | 0 | 0| 
 | 20210212T16:37:07Z | Intuitive Java Backdoor | https://github.com/YeahOMA/omaBackdoor | 0 | 0| 
-| 20210212T14:33:36Z | This program is an non-object oriented opensource, hidden and undetectable backdoor/reverse shell/RAT for Windows made in Python 3 which contains many features such as multi-client support and cross-platform server. | https://github.com/xp4xbox/Python-Backdoor | 356 | 133| 
-| 20210212T13:42:43Z | Basic Backdoor in Python 👨‍💻 | https://github.com/ninjahacker123/Backdoor | 0 | 0| 
-| 20210212T13:36:00Z | PyIris-backdoor is a modular, stealthy and flexible remote-access-toolkit written completely in python used to command and control other systems. It is now in the beta stage, possibly perpetually. There are bugs still present in the framework, feel free to contribute or help me out with this project its still under active development >_> | https://github.com/angus-y/PyIris-backdoor | 140 | 42| 
-| 20210211T20:54:47Z | Null | https://github.com/kaktus087/backdoor | 0 | 0| 
-| 20210211T18:40:43Z | This backdoor leux is 100% clean but someone else lekaed it | https://github.com/ByJarvus/LeuxBackdoor | 1 | 0| 
-| 20210211T13:36:58Z | backdoor bot is a discord bot that gives backdoor access to any server with the bot in, this is for educational purposes only and should no be used maliciously. This is a bot to show the dangers of adding any random discord bot to your server. All the code that gives backdoor access will be put in a separate, private file as to not cause any mishap with discord itself. All of this will be put in a readme file for people downloading the files. | https://github.com/harckepy/backdoor-bot | 0 | 0| 
 
 
 # fuzz on Github 推荐
