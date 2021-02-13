@@ -84,7 +84,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210213T12:59:30Z | ExploitHost | https://github.com/ps4exploit/ps4exploit.github.io | 0 | 0| 
+| 20210213T13:02:38Z | ExploitHost | https://github.com/ps4exploit/ps4exploit.github.io | 0 | 0| 
+| 20210213T13:02:27Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 8 | 4| 
 | 20210213T12:54:33Z | Its a quizlet exploit ! ( yes my alt-dev username is different cause i dont wanna get banned for sharing exploits) | https://github.com/SteelRaven7dev/quizlet-exploits-including-other-explotits- | 0 | 0| 
 | 20210213T12:52:58Z | Exploit for the RpcEptMapper registry key permissions vulnerability (Windows 7 / 2088R2 / 8 / 2012) | https://github.com/itm4n/Perfusion | 130 | 14| 
 | 20210213T12:50:03Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 7 | 4| 
@@ -93,7 +94,6 @@
 | 20210213T12:14:43Z | this bash script is for remote linux hosts hacked! | https://github.com/FabioDefilippo/linuxallenum | 9 | 0| 
 | 20210213T12:13:16Z | This bash script will help you to hack remote hosts  | https://github.com/FabioDefilippo/linuxallremote | 5 | 1| 
 | 20210213T12:12:46Z | Thi powershell script has got to run in remote windows host, even for pivoting | https://github.com/FabioDefilippo/winallenum | 2 | 1| 
-| 20210213T12:02:53Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 8 | 4| 
 
 
 # backdoor on Github 推荐
