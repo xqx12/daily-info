@@ -19,7 +19,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20210213T11:57:52Z | CVE-2021-25646 | Null | https://github.com/Vulnmachines/Apache-Druid-CVE-2021-25646 | | 
+| 20210213T11:57:52Z | CVE-2021-25646 | Null | https://github.com/Vulnmachines/Apache-Druid-CVE-2021-25646 | Apache Druid includes the ability to execute user-provided JavaScript code embedded in various types of requests. This functionality is intended for use in high-trust environments, and is disabled by default. However, in Druid 0.20.0 and earlier, it is possible for an authenticated user to send a specially-crafted request that forces Druid to run user-provided JavaScript code for that request, regardless of server configuration. This can be leveraged to execute code on the target machine with the privileges of the Druid server process.| 
 | 20210213T11:55:38Z | CVE-2021-1782 | Null | https://github.com/synacktiv/CVE-2021-1782 | 未查询到CVE信息| 
 | 20210213T11:44:37Z | CVE-2021-26121 | Null | https://github.com/sourceincite/CVE-2021-26121 | 未查询到CVE信息| 
 | 20210213T09:17:04Z | CVE-2021-3156 | Exploit for Sudo heap overflow (CVE-2021-3156) on Debain 10 | https://github.com/0xdevil/CVE-2021-3156 | Sudo before 1.9.5p2 has a Heap-based Buffer Overflow, allowing privilege escalation to root via %sudoedit -s% and a command-line argument that ends with a single backslash character.| 
@@ -57,7 +57,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210213T13:26:45Z | A Termux Backdoor  | https://github.com/f00kthisc0de/TermFun | 0 | 0| 
+| 20210213T13:28:12Z | A Termux Backdoor  | https://github.com/f00kthisc0de/TermFun | 0 | 0| 
 | 20210213T12:49:06Z | Null | https://github.com/dksamu/BackDoor | 0 | 0| 
 | 20210213T10:42:53Z | This program is an non-object oriented opensource, hidden and undetectable backdoor/reverse shell/RAT for Windows made in Python 3 which contains many features such as multi-client support and cross-platform server. | https://github.com/xp4xbox/Python-Backdoor | 357 | 133| 
 | 20210213T09:52:40Z | Null | https://github.com/direskyfer/beta-linux-backdoor | 1 | 0| 
@@ -69,12 +69,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210213T02:38:10Z | Small fuzzing library with an example script using it. | https://github.com/lgandx/FuzzLib | 2 | 2| 
-| 20210213T02:36:13Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 5895 | 1187| 
-| 20210213T01:39:41Z | Null | https://github.com/moyix/irq_fuzzer | 3 | 1| 
-| 20210213T01:29:14Z | This repository contains support script for statistical hydrometeorological analysis | https://github.com/mathmodelling/fuzzy-journey | 0 | 0| 
-| 20210213T01:03:33Z | Null | https://github.com/Shinya9519/fuzzy-bassoon | 0 | 0| 
-| 20210213T00:01:53Z | Null | https://github.com/opimentel-github/fuzzy-torch | 0 | 0| 
+| 20210213T12:59:09Z | PoC of fuzzing closed-source userspace binaries with KVM | https://github.com/klecko/kvm-fuzz | 0 | 0| 
+| 20210213T12:55:11Z | Materiale sviluppato con gli studenti durante il corso di logica fuzzy  | https://github.com/Pendra89/Corso_fuzzy_2021 | 0 | 0| 
+| 20210213T12:43:27Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 5897 | 1186| 
+| 20210213T11:16:18Z | fuzzy matching application for spreadsheets | https://github.com/leztien/FuzzyMagic | 0 | 0| 
+| 20210213T11:08:13Z | Fuzzy matching publications for fatcat (wip). | https://github.com/miku/fuzzycat | 1 | 1| 
+| 20210213T10:24:45Z | interactive `git` with the help of `fzf` | https://github.com/bigH/git-fuzzy | 1694 | 32| 
+| 20210213T08:07:54Z | haze binary fuzzer | https://github.com/richinseattle/haze | 43 | 7| 
+| 20210213T06:39:07Z | Null | https://github.com/ouvel509/fuzzy-goggles | 0 | 0| 
+| 20210213T06:18:39Z | Null | https://github.com/thedarkscepter/fuzzy-disco | 0 | 0| 
+| 20210213T05:35:57Z | Generator of random circuits | https://github.com/drom/circt-fuzzer | 1 | 0| 
 
 
 
