@@ -42,16 +42,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210213T13:44:22Z | exploit/multi/netwave_ip_camera/password_disclosure | https://github.com/enty8080/netwave_ip_camera_exploit | 0 | 0| 
+| 20210213T13:44:20Z | A protection for your server against hackers and those who want to exploit on the server, SUGGEST COCK HACKERS | https://github.com/Zetson/z-anticheat | 0 | 0| 
 | 20210213T13:39:01Z | PasteExploit is a malicious command generator for Windows and Linux systems written in Python | https://github.com/loRes228/PasteExploit | 0 | 0| 
 | 20210213T13:38:55Z | ExploitHost | https://github.com/ps4exploit/ps4exploit.github.io | 0 | 0| 
 | 20210213T13:37:50Z | An example of an XXE explot, using PHP | https://github.com/albertodlc/Simple-XXE-exploit-example | 0 | 0| 
-| 20210213T13:15:29Z | exploit/multi/netwave_ip_camera/password_disclosure | https://github.com/enty8080/netwave_ip_camera_exploit | 0 | 0| 
 | 20210213T13:02:27Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 8 | 4| 
 | 20210213T12:54:33Z | Its a quizlet exploit ! ( yes my alt-dev username is different cause i dont wanna get banned for sharing exploits) | https://github.com/SteelRaven7dev/quizlet-exploits-including-other-explotits- | 0 | 0| 
 | 20210213T12:52:58Z | Exploit for the RpcEptMapper registry key permissions vulnerability (Windows 7 / 2088R2 / 8 / 2012) | https://github.com/itm4n/Perfusion | 130 | 14| 
 | 20210213T12:50:03Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 7 | 4| 
 | 20210213T12:41:51Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9000 | 1448| 
-| 20210213T12:29:09Z | Exploits a simple WebRCE and supports PTY upgrade, Bind- and ReveseShells, File Up- and Download | https://github.com/61106960/ForwardShell | 1 | 1| 
 
 
 # backdoor on Github 推荐
