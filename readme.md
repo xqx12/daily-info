@@ -23,7 +23,7 @@
 | 20210213T11:57:52Z | CVE-2021-25646 | Null | https://github.com/Vulnmachines/Apache-Druid-CVE-2021-25646 | Apache Druid includes the ability to execute user-provided JavaScript code embedded in various types of requests. This functionality is intended for use in high-trust environments, and is disabled by default. However, in Druid 0.20.0 and earlier, it is possible for an authenticated user to send a specially-crafted request that forces Druid to run user-provided JavaScript code for that request, regardless of server configuration. This can be leveraged to execute code on the target machine with the privileges of the Druid server process.| 
 | 20210213T11:55:38Z | CVE-2021-1782 | Null | https://github.com/synacktiv/CVE-2021-1782 | 未查询到CVE信息| 
 | 20210213T11:44:37Z | CVE-2021-26121 | Null | https://github.com/sourceincite/CVE-2021-26121 | 未查询到CVE信息| 
-| 20210213T09:17:04Z | CVE-2021-3156 | Exploit for Sudo heap overflow (CVE-2021-3156) on Debain 10 | https://github.com/0xdevil/CVE-2021-3156 | | 
+| 20210213T09:17:04Z | CVE-2021-3156 | Exploit for Sudo heap overflow (CVE-2021-3156) on Debain 10 | https://github.com/0xdevil/CVE-2021-3156 | Sudo before 1.9.5p2 has a Heap-based Buffer Overflow, allowing privilege escalation to root via %sudoedit -s% and a command-line argument that ends with a single backslash character.| 
 | 20210213T07:51:49Z | CVE-2021-21014 | Magento versions 2.4.1 (and earlier), 2.4.0-p1 (and earlier) and 2.3.6 (and earlier) are vulnerable to a file upload restriction bypass. Successful exploitation could lead to arbitrary code execution by an authenticated attacker. | https://github.com/HoangKien1020/CVE-2021-21014 | Magento versions 2.4.1 (and earlier), 2.4.0-p1 (and earlier) and 2.3.6 (and earlier) are vulnerable to a file upload restriction bypass. Successful exploitation could lead to arbitrary code execution by an authenticated attacker. Access to the admin console is required for successful exploitation.| 
 | 20210213T07:15:41Z | CVE-2020-7247 | OpenSMTPD 6.4.0 - 6.6.1 Remote Code Execution PoC exploit | https://github.com/QTranspose/CVE-2020-7247-exploit | smtp_mailaddr in smtp_session.c in OpenSMTPD 6.6, as used in OpenBSD 6.6 and other products, allows remote attackers to execute arbitrary commands as root via a crafted SMTP session, as demonstrated by shell metacharacters in a MAIL FROM field. This affects the %uncommented% default configuration. The issue exists because of an incorrect return value upon failure of input validation.| 
 
@@ -73,16 +73,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210213T12:59:09Z | PoC of fuzzing closed-source userspace binaries with KVM | https://github.com/klecko/kvm-fuzz | 0 | 0| 
-| 20210213T12:55:11Z | Materiale sviluppato con gli studenti durante il corso di logica fuzzy  | https://github.com/Pendra89/Corso_fuzzy_2021 | 0 | 0| 
-| 20210213T12:43:27Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 5897 | 1186| 
-| 20210213T11:16:18Z | fuzzy matching application for spreadsheets | https://github.com/leztien/FuzzyMagic | 0 | 0| 
-| 20210213T11:08:13Z | Fuzzy matching publications for fatcat (wip). | https://github.com/miku/fuzzycat | 1 | 1| 
-| 20210213T10:24:45Z | interactive `git` with the help of `fzf` | https://github.com/bigH/git-fuzzy | 1694 | 32| 
-| 20210213T08:07:54Z | haze binary fuzzer | https://github.com/richinseattle/haze | 43 | 7| 
-| 20210213T06:39:07Z | Null | https://github.com/ouvel509/fuzzy-goggles | 0 | 0| 
-| 20210213T06:18:39Z | Null | https://github.com/thedarkscepter/fuzzy-disco | 0 | 0| 
-| 20210213T05:35:57Z | Generator of random circuits | https://github.com/drom/circt-fuzzer | 1 | 0| 
+| 20210213T23:44:14Z | Null | https://github.com/mrfuzz12/FuzzCheat | 0 | 0| 
+| 20210213T23:02:48Z | Software for fuzzing, used on web application pentestings. | https://github.com/NESCAU-UFLA/FuzzingTool | 4 | 1| 
+| 20210213T22:29:27Z | Null | https://github.com/docfate111/mujs-fuzzilli | 0 | 0| 
+| 20210213T22:26:46Z | PoC of fuzzing closed-source userspace binaries with KVM | https://github.com/klecko/kvm-fuzz | 0 | 0| 
+| 20210213T22:09:18Z | Null | https://github.com/asieriko/fuzzyperceptron | 0 | 0| 
+| 20210213T21:50:07Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 5899 | 1187| 
+| 20210213T20:42:40Z | Null | https://github.com/SeymaGntkn/fuzzysearch | 0 | 0| 
+| 20210213T20:26:46Z | Null | https://github.com/RiaGohel/FuzzyBlog | 0 | 0| 
+| 20210213T19:57:03Z | FuzzBench - Fuzzer benchmarking as a service. | https://github.com/google/fuzzbench | 596 | 98| 
+| 20210213T19:57:01Z | Null | https://github.com/psychics-parakeet/fuzzy-winner | 0 | 0| 
 
 
 
