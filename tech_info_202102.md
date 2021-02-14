@@ -47,9 +47,9 @@
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
 | 20210214T12:27:56Z | CVE-2021-3129 | Null | https://github.com/FunPhishing/Laravel-8.4.2-rce-CVE-2021-3129 | Ignition before 2.5.2, as used in Laravel and other products, allows unauthenticated remote attackers to execute arbitrary code because of insecure usage of file_get_contents() and file_put_contents(). This is exploitable on sites using debug mode with Laravel before 8.4.2.| 
-| 20210214T09:24:04Z | CVE-2021-27187 | Null | https://github.com/jet-pentest/CVE-2021-27187 | The Sovremennye Delovye Tekhnologii FX Aggregator terminal client 1 stores authentication credentials in cleartext in login.sav when the Save Password box is checked.| 
+| 20210214T09:24:04Z | CVE-2021-27187 | Null | https://github.com/jet-pentest/CVE-2021-27187 | | 
 | 20210214T09:24:02Z | CVE-2021-27188 | Null | https://github.com/jet-pentest/CVE-2021-27188 | The Sovremennye Delovye Tekhnologii FX Aggregator terminal client 1 allows attackers to cause a denial of service (access suspended for five hours) by making five invalid login attempts to a victim%s account.| 
-| 20210214T07:57:35Z | CVE-2021-26121 | Null | https://github.com/sourceincite/CVE-2021-26121 | | 
+| 20210214T07:57:35Z | CVE-2021-26121 | Null | https://github.com/sourceincite/CVE-2021-26121 | 未查询到CVE信息| 
 | 20210213T21:42:35Z | CVE-2020-36109 | PoC DoS CVE-2020-36109 | https://github.com/tin-z/CVE-2020-36109-POC | ASUS RT-AX86U router firmware below version under 9.0.0.4_386 has a buffer overflow in the blocking_request.cgi function of the httpd module that can cause code execution when an attacker constructs malicious data.| 
 | 20210213T11:57:52Z | CVE-2021-25646 | Null | https://github.com/Vulnmachines/Apache-Druid-CVE-2021-25646 | Apache Druid includes the ability to execute user-provided JavaScript code embedded in various types of requests. This functionality is intended for use in high-trust environments, and is disabled by default. However, in Druid 0.20.0 and earlier, it is possible for an authenticated user to send a specially-crafted request that forces Druid to run user-provided JavaScript code for that request, regardless of server configuration. This can be leveraged to execute code on the target machine with the privileges of the Druid server process.| 
 | 20210213T11:55:38Z | CVE-2021-1782 | Null | https://github.com/synacktiv/CVE-2021-1782 | 未查询到CVE信息| 
@@ -85,11 +85,11 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210214T13:02:28Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 8 | 4| 
 | 20210214T13:01:03Z | OpenSSL Heartbleed Bug CVE-2014-0160 Scanner and Patch Toolkit | https://github.com/ingochris/heartpatch.us | 0 | 0| 
 | 20210214T12:56:11Z | C2/post-exploitation framework | https://github.com/loseys/BlackMamba | 63 | 10| 
 | 20210214T12:50:04Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 7 | 4| 
 | 20210214T12:10:19Z | exploit/multi/netwave_ip_camera/password_disclosure | https://github.com/enty8080/some_modules | 1 | 0| 
-| 20210214T12:02:47Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 8 | 4| 
 | 20210214T11:47:26Z | Null | https://github.com/statooin/exploits | 0 | 0| 
 | 20210214T11:38:51Z | Exploit Huawei ONT device | https://github.com/0neday/Exploit-HS8545M-ONT | 2 | 1| 
 | 20210214T11:35:11Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9001 | 1450| 
