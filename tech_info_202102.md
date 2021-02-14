@@ -84,6 +84,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210214T02:42:15Z | C2/post-exploitation framework | https://github.com/loseys/BlackMamba | 36 | 10| 
 | 20210214T02:21:32Z | The official Exploit Database repository | https://github.com/offensive-security/exploitdb | 5877 | 1682| 
 | 20210214T02:14:22Z | A general purpose memory allocator that implements an isolation security strategy to mitigate memory safety issues while maintaining good performance | https://github.com/struct/isoalloc | 126 | 9| 
 | 20210214T02:02:37Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 8 | 4| 
@@ -93,7 +94,6 @@
 | 20210214T01:26:36Z | CMS Detection and Exploitation suite - Scan WordPress, Joomla, Drupal and over 180 other CMSs | https://github.com/Tuhinshubhra/CMSeeK | 1281 | 346| 
 | 20210214T00:43:18Z | A phased, evasive Path Traversal + LFI scanning & exploitation tool in Python | https://github.com/VainlyStrain/Vailyn | 93 | 3| 
 | 20210213T23:32:02Z | Automatic Linux privesc | https://github.com/liamg/traitor | 1 | 0| 
-| 20210213T23:31:36Z | Security programas | https://github.com/lfntchagas/security-exploits | 0 | 0| 
 
 
 # backdoor on Github 推荐
