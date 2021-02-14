@@ -25,13 +25,12 @@
 | 20210213T11:44:37Z | CVE-2021-26121 | Null | https://github.com/sourceincite/CVE-2021-26121 | 未查询到CVE信息| 
 | 20210213T09:17:04Z | CVE-2021-3156 | Exploit for Sudo heap overflow (CVE-2021-3156) on Debain 10 | https://github.com/0xdevil/CVE-2021-3156 | Sudo before 1.9.5p2 has a Heap-based Buffer Overflow, allowing privilege escalation to root via %sudoedit -s% and a command-line argument that ends with a single backslash character.| 
 | 20210213T07:51:49Z | CVE-2021-21014 | Magento versions 2.4.1 (and earlier), 2.4.0-p1 (and earlier) and 2.3.6 (and earlier) are vulnerable to a file upload restriction bypass. Successful exploitation could lead to arbitrary code execution by an authenticated attacker. | https://github.com/HoangKien1020/CVE-2021-21014 | Magento versions 2.4.1 (and earlier), 2.4.0-p1 (and earlier) and 2.3.6 (and earlier) are vulnerable to a file upload restriction bypass. Successful exploitation could lead to arbitrary code execution by an authenticated attacker. Access to the admin console is required for successful exploitation.| 
-| 20210213T07:15:41Z | CVE-2020-7247 | OpenSMTPD 6.4.0 - 6.6.1 Remote Code Execution PoC exploit | https://github.com/QTranspose/CVE-2020-7247-exploit | smtp_mailaddr in smtp_session.c in OpenSMTPD 6.6, as used in OpenBSD 6.6 and other products, allows remote attackers to execute arbitrary commands as root via a crafted SMTP session, as demonstrated by shell metacharacters in a MAIL FROM field. This affects the %uncommented% default configuration. The issue exists because of an incorrect return value upon failure of input validation.| 
+| 20210213T07:15:41Z | CVE-2020-7247 | OpenSMTPD 6.4.0 - 6.6.1 Remote Code Execution PoC exploit | https://github.com/QTranspose/CVE-2020-7247-exploit | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210213T20:58:57Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 的 Klee One 的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 37 | 2| 
 | 20210213T14:12:34Z | ⬇️ File Upload/sharing application, used by thousands of webmasters since 2007.  | https://github.com/kleeja-official/kleeja | 113 | 33| 
 | 20210213T12:06:47Z | Git Blog | https://github.com/klee30810/klee30810.github.io | 0 | 0| 
 
