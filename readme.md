@@ -17,7 +17,7 @@
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
 | 20210214T12:27:56Z | CVE-2021-3129 | Null | https://github.com/FunPhishing/Laravel-8.4.2-rce-CVE-2021-3129 | Ignition before 2.5.2, as used in Laravel and other products, allows unauthenticated remote attackers to execute arbitrary code because of insecure usage of file_get_contents() and file_put_contents(). This is exploitable on sites using debug mode with Laravel before 8.4.2.| 
-| 20210214T09:24:04Z | CVE-2021-27187 | Null | https://github.com/jet-pentest/CVE-2021-27187 | | 
+| 20210214T09:24:04Z | CVE-2021-27187 | Null | https://github.com/jet-pentest/CVE-2021-27187 | The Sovremennye Delovye Tekhnologii FX Aggregator terminal client 1 stores authentication credentials in cleartext in login.sav when the Save Password box is checked.| 
 | 20210214T09:24:02Z | CVE-2021-27188 | Null | https://github.com/jet-pentest/CVE-2021-27188 | The Sovremennye Delovye Tekhnologii FX Aggregator terminal client 1 allows attackers to cause a denial of service (access suspended for five hours) by making five invalid login attempts to a victim%s account.| 
 | 20210214T07:57:35Z | CVE-2021-26121 | Null | https://github.com/sourceincite/CVE-2021-26121 | 未查询到CVE信息| 
 
@@ -25,7 +25,7 @@
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210214T13:47:38Z | Git Blog | https://github.com/klee30810/klee30810.github.io | 0 | 0| 
+| 20210214T13:50:52Z | Git Blog | https://github.com/klee30810/klee30810.github.io | 0 | 0| 
 | 20210214T09:15:48Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 的 Klee One 的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 44 | 3| 
 | 20210214T04:06:21Z | Null | https://github.com/fontworks-fonts/Klee | 362 | 10| 
 
