@@ -46,6 +46,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20210213T21:42:35Z | CVE-2020-36109 | PoC DoS CVE-2020-36109 | https://github.com/tin-z/CVE-2020-36109-POC | ASUS RT-AX86U router firmware below version under 9.0.0.4_386 has a buffer overflow in the blocking_request.cgi function of the httpd module that can cause code execution when an attacker constructs malicious data.| 
 | 20210213T11:57:52Z | CVE-2021-25646 | Null | https://github.com/Vulnmachines/Apache-Druid-CVE-2021-25646 | Apache Druid includes the ability to execute user-provided JavaScript code embedded in various types of requests. This functionality is intended for use in high-trust environments, and is disabled by default. However, in Druid 0.20.0 and earlier, it is possible for an authenticated user to send a specially-crafted request that forces Druid to run user-provided JavaScript code for that request, regardless of server configuration. This can be leveraged to execute code on the target machine with the privileges of the Druid server process.| 
 | 20210213T11:55:38Z | CVE-2021-1782 | Null | https://github.com/synacktiv/CVE-2021-1782 | 未查询到CVE信息| 
 | 20210213T11:44:37Z | CVE-2021-26121 | Null | https://github.com/sourceincite/CVE-2021-26121 | 未查询到CVE信息| 
@@ -55,14 +56,14 @@
 | 20210212T20:10:14Z | CVE-2021-3156 | CVE-2021-3156非交互式执行命令 | https://github.com/Rvn0xsy/CVE-2021-3156-plus | Sudo before 1.9.5p2 has a Heap-based Buffer Overflow, allowing privilege escalation to root via %sudoedit -s% and a command-line argument that ends with a single backslash character.| 
 | 20210212T19:38:47Z | cve-2020-35498 | Flag the cve-2020-35498 attack | https://github.com/freddierice/cve-2020-35498-flag | 未查询到CVE信息| 
 | 20210212T07:36:37Z | CVE-2021-27188 | Null | https://github.com/jet-pentest/CVE-2021-27188 | The Sovremennye Delovye Tekhnologii FX Aggregator terminal client 1 allows attackers to cause a denial of service (access suspended for five hours) by making five invalid login attempts to a victim%s account.| 
-| 20210212T07:32:20Z | CVE-2021-27190 | Null | https://github.com/anmolksachan/CVE-2021-27190-PEEL-Shopping-cart-9.3.0-Stored-XSS | A Stored Cross Site Scripting(XSS) Vulnerability was discovered in PEEL SHOPPING 9.3.0 which is publicly available. The user supplied input containing polyglot payload is echoed back in javascript code in HTML response. This allows an attacker to input malicious JavaScript which can steal cookie, redirect them to other malicious website, etc.| 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210213T20:58:57Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 的 Klee One 的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 37 | 2| 
+| 20210213T14:12:34Z | ⬇️ File Upload/sharing application, used by thousands of webmasters since 2007.  | https://github.com/kleeja-official/kleeja | 113 | 33| 
 | 20210213T12:06:47Z | Git Blog | https://github.com/klee30810/klee30810.github.io | 0 | 0| 
-| 20210213T12:05:19Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 的 Klee One 的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 36 | 2| 
 | 20210212T21:56:31Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1627 | 482| 
 | 20210212T09:05:51Z | Null | https://github.com/fontworks-fonts/Klee | 361 | 9| 
 | 20210210T22:51:18Z | Spring 2021 Geography 817 work folder  | https://github.com/klee12/klee12.github.io | 0 | 0| 
@@ -70,7 +71,6 @@
 | 20210210T01:52:40Z | A personnal UI library made as an excuse to have a published UI package | https://github.com/Liinkiing/klee | 5 | 1| 
 | 20210208T10:29:33Z | RVT is a collection of tools/libraries to support both static and dynamic verification of Rust programs. | https://github.com/project-oak/rust-verification-tools | 107 | 7| 
 | 20210208T08:35:52Z | Null | https://github.com/samkleezy/kleezy | 0 | 0| 
-| 20210208T04:50:21Z | Null | https://github.com/AK10K/kleer | 0 | 0| 
 
 
 # s2e on Github 推荐
@@ -84,31 +84,31 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210213T13:59:08Z | Null | https://github.com/Arandomexploiterontheinternet/AlphA95Exploit | 0 | 0| 
-| 20210213T13:59:07Z | ExploitHost | https://github.com/ps4exploit/ps4exploit.github.io | 0 | 0| 
-| 20210213T13:54:49Z | Exploit for the RpcEptMapper registry key permissions vulnerability (Windows 7 / 2088R2 / 8 / 2012) | https://github.com/itm4n/Perfusion | 132 | 14| 
-| 20210213T13:44:22Z | exploit/multi/netwave_ip_camera/password_disclosure | https://github.com/enty8080/netwave_ip_camera_exploit | 0 | 0| 
-| 20210213T13:44:20Z | A protection for your server against hackers and those who want to exploit on the server, SUGGEST COCK HACKERS | https://github.com/Zetson/z-anticheat | 0 | 0| 
-| 20210213T13:39:01Z | PasteExploit is a malicious command generator for Windows and Linux systems written in Python | https://github.com/loRes228/PasteExploit | 0 | 0| 
-| 20210213T13:37:50Z | An example of an XXE explot, using PHP | https://github.com/albertodlc/Simple-XXE-exploit-example | 0 | 0| 
-| 20210213T13:02:27Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 8 | 4| 
-| 20210213T12:54:33Z | Its a quizlet exploit ! ( yes my alt-dev username is different cause i dont wanna get banned for sharing exploits) | https://github.com/SteelRaven7dev/quizlet-exploits-including-other-explotits- | 0 | 0| 
-| 20210213T12:50:03Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 7 | 4| 
+| 20210214T00:43:18Z | A phased, evasive Path Traversal + LFI scanning & exploitation tool in Python | https://github.com/VainlyStrain/Vailyn | 93 | 3| 
+| 20210214T00:02:30Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 8 | 4| 
+| 20210213T23:32:02Z | Automatic Linux privesc | https://github.com/liamg/traitor | 1 | 0| 
+| 20210213T23:31:36Z | Security programas | https://github.com/lfntchagas/security-exploits | 0 | 0| 
+| 20210213T23:00:55Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9001 | 1449| 
+| 20210213T22:15:50Z | forked version of funtuna, a homebrew ps2 app launcher designed to ease the pain of getting a stable exploit for those that have a console uncompatible with FreeMcBoot that doesnt have a modchip | https://github.com/israpps/Funtuna-Fork | 1 | 0| 
+| 20210213T21:52:00Z | This repository is for my senior year capstone. For my capstone I am developing a multipurpose web exploitation tool in python3. | https://github.com/nicholas-lueth/Web-Exploitation-Tool-Capstone | 0 | 0| 
+| 20210213T21:41:25Z | The AWS exploitation framework, designed for testing the security of Amazon Web Services environments. | https://github.com/RhinoSecurityLabs/pacu | 1861 | 336| 
+| 20210213T21:23:07Z | All the Lua scripts I developed, including exploit scripts (please only use those for educational purposes) | https://github.com/SkiddDev/Scripts | 0 | 0| 
+| 20210213T20:23:00Z | Modular penetration testing platform that enables you to write, test, and execute exploit code. | https://github.com/EntySec/ZetaSploit | 20 | 9| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210213T23:37:22Z | Null | https://github.com/Wiilldd/backdoor | 0 | 0| 
+| 20210213T21:29:51Z | This program is an non-object oriented opensource, hidden and undetectable backdoor/reverse shell/RAT for Windows made in Python 3 which contains many features such as multi-client support and cross-platform server. | https://github.com/xp4xbox/Python-Backdoor | 358 | 133| 
+| 20210213T18:47:15Z | Null | https://github.com/evgen-jkay/backDoorInWordpress | 0 | 0| 
+| 20210213T17:12:36Z | Backdoor  | https://github.com/medn1c/reverse-shell | 2 | 0| 
+| 20210213T16:41:04Z | Payloads for gmod (backdoors) LUA  | https://github.com/phpmynewdun/gmod_payloads | 0 | 0| 
+| 20210213T16:22:08Z | Simple Python Backdoor | https://github.com/zNairy/Sonaris | 5 | 0| 
+| 20210213T15:16:42Z | Null | https://github.com/ArturoRmzMoreno/Backdoor | 0 | 0| 
+| 20210213T14:43:41Z | Ro3b - Advance Banking HTTP Botnet  | https://github.com/mathio3/Ro3b-HTTP-botnet | 6 | 4| 
 | 20210213T13:30:42Z | A Termux Backdoor  | https://github.com/f00kthisc0de/TermFun | 0 | 0| 
 | 20210213T12:49:06Z | Null | https://github.com/dksamu/BackDoor | 0 | 0| 
-| 20210213T10:42:53Z | This program is an non-object oriented opensource, hidden and undetectable backdoor/reverse shell/RAT for Windows made in Python 3 which contains many features such as multi-client support and cross-platform server. | https://github.com/xp4xbox/Python-Backdoor | 357 | 133| 
-| 20210213T09:52:40Z | Null | https://github.com/direskyfer/beta-linux-backdoor | 1 | 0| 
-| 20210213T08:39:39Z | Backdoor CTF | https://github.com/MrPos3id0n/wasm-sercert | 0 | 0| 
-| 20210213T04:41:22Z | Research work on biometric security and template updation .  | https://github.com/Adk2001tech/Biometric-Backdoors | 1 | 0| 
-| 20210213T02:43:55Z | An evil RAT (Remote Administration Tool) for macOS / OS X. | https://github.com/Marten4n6/EvilOSX | 1635 | 399| 
-| 20210212T18:18:39Z | simple discord grabber made in python & DiscordAPI with paths (soon with IP Details include and may backdoor ^—^) | https://github.com/zklqlf/zkl-grabber | 0 | 0| 
-| 20210212T16:58:49Z | This is a backdoor used to execute command line on client%s computer. | https://github.com/itismeTin/Python-Backdoor | 0 | 0| 
-| 20210212T16:37:07Z | Intuitive Java Backdoor | https://github.com/YeahOMA/omaBackdoor | 0 | 0| 
 
 
 # fuzz on Github 推荐
