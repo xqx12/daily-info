@@ -84,6 +84,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210214T02:57:09Z | Pentester%s toolbox | https://github.com/binarytrails/prober | 0 | 0| 
 | 20210214T02:51:41Z | C2/post-exploitation framework | https://github.com/loseys/BlackMamba | 36 | 10| 
 | 20210214T02:45:32Z | This is a plugin for Minecraft that aids in building, as it gives the player creative mode and charges them for each block they place. All exploits are patched as well. | https://github.com/bsalha1/Printer | 2 | 0| 
 | 20210214T02:21:32Z | The official Exploit Database repository | https://github.com/offensive-security/exploitdb | 5877 | 1682| 
@@ -93,7 +94,6 @@
 | 20210214T01:43:52Z | iOS, ARM binary files for inclusion to an iOS Research DMG Image. Funded by the XSS.Cx Anti-Phishing Team. | https://github.com/xsscx/ios-arm-binaries | 2 | 0| 
 | 20210214T01:32:51Z | Exploit Huawei ONT device | https://github.com/0neday/Exploit-HS8545M-ONT | 2 | 1| 
 | 20210214T01:26:36Z | CMS Detection and Exploitation suite - Scan WordPress, Joomla, Drupal and over 180 other CMSs | https://github.com/Tuhinshubhra/CMSeeK | 1281 | 346| 
-| 20210214T00:43:18Z | A phased, evasive Path Traversal + LFI scanning & exploitation tool in Python | https://github.com/VainlyStrain/Vailyn | 93 | 3| 
 
 
 # backdoor on Github 推荐
