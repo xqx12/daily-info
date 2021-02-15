@@ -46,30 +46,30 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20210215T02:29:32Z | CVE-2021-26700 | RCE in NPM VSCode Extention | https://github.com/jackadamson/CVE-2021-26700 | 未查询到CVE信息| 
+| 20210215T09:25:48Z | CVE-2020-36109 | PoC DoS CVE-2020-36109 | https://github.com/tin-z/CVE-2020-36109-POC | ASUS RT-AX86U router firmware below version under 9.0.0.4_386 has a buffer overflow in the blocking_request.cgi function of the httpd module that can cause code execution when an attacker constructs malicious data.| 
+| 20210215T08:46:29Z | CVE-2020-8638 | Null | https://github.com/DXY0411/CVE-2020-8638 | A SQL injection vulnerability in TestLink 1.9.20 allows attackers to execute arbitrary SQL commands in planUrgency.php via the urgency parameter.| 
+| 20210215T06:29:31Z | CVE-2021-26700 | RCE in NPM VSCode Extention | https://github.com/jackadamson/CVE-2021-26700 | 未查询到CVE信息| 
 | 20210214T16:21:13Z | CVE-2021-26121 | Null | https://github.com/sourceincite/CVE-2021-26121 | 未查询到CVE信息| 
 | 20210214T12:27:56Z | CVE-2021-3129 | Null | https://github.com/FunPhishing/Laravel-8.4.2-rce-CVE-2021-3129 | Ignition before 2.5.2, as used in Laravel and other products, allows unauthenticated remote attackers to execute arbitrary code because of insecure usage of file_get_contents() and file_put_contents(). This is exploitable on sites using debug mode with Laravel before 8.4.2.| 
 | 20210214T09:24:04Z | CVE-2021-27187 | Null | https://github.com/jet-pentest/CVE-2021-27187 | The Sovremennye Delovye Tekhnologii FX Aggregator terminal client 1 stores authentication credentials in cleartext in login.sav when the Save Password box is checked.| 
-| 20210214T09:24:02Z | CVE-2021-27188 | Null | https://github.com/jet-pentest/CVE-2021-27188 | | 
-| 20210213T21:42:35Z | CVE-2020-36109 | PoC DoS CVE-2020-36109 | https://github.com/tin-z/CVE-2020-36109-POC | ASUS RT-AX86U router firmware below version under 9.0.0.4_386 has a buffer overflow in the blocking_request.cgi function of the httpd module that can cause code execution when an attacker constructs malicious data.| 
+| 20210214T09:24:02Z | CVE-2021-27188 | Null | https://github.com/jet-pentest/CVE-2021-27188 | The Sovremennye Delovye Tekhnologii FX Aggregator terminal client 1 allows attackers to cause a denial of service (access suspended for five hours) by making five invalid login attempts to a victim%s account.| 
 | 20210213T11:57:52Z | CVE-2021-25646 | Null | https://github.com/Vulnmachines/Apache-Druid-CVE-2021-25646 | Apache Druid includes the ability to execute user-provided JavaScript code embedded in various types of requests. This functionality is intended for use in high-trust environments, and is disabled by default. However, in Druid 0.20.0 and earlier, it is possible for an authenticated user to send a specially-crafted request that forces Druid to run user-provided JavaScript code for that request, regardless of server configuration. This can be leveraged to execute code on the target machine with the privileges of the Druid server process.| 
 | 20210213T11:55:38Z | CVE-2021-1782 | Null | https://github.com/synacktiv/CVE-2021-1782 | 未查询到CVE信息| 
 | 20210213T09:17:04Z | CVE-2021-3156 | Exploit for Sudo heap overflow (CVE-2021-3156) on Debain 10 | https://github.com/0xdevil/CVE-2021-3156 | Sudo before 1.9.5p2 has a Heap-based Buffer Overflow, allowing privilege escalation to root via %sudoedit -s% and a command-line argument that ends with a single backslash character.| 
-| 20210213T07:51:49Z | CVE-2021-21014 | Magento versions 2.4.1 (and earlier), 2.4.0-p1 (and earlier) and 2.3.6 (and earlier) are vulnerable to a file upload restriction bypass. Successful exploitation could lead to arbitrary code execution by an authenticated attacker. | https://github.com/HoangKien1020/CVE-2021-21014 | Magento versions 2.4.1 (and earlier), 2.4.0-p1 (and earlier) and 2.3.6 (and earlier) are vulnerable to a file upload restriction bypass. Successful exploitation could lead to arbitrary code execution by an authenticated attacker. Access to the admin console is required for successful exploitation.| 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210215T12:36:23Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 的 Klee One 的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 50 | 3| 
+| 20210215T11:12:45Z | RVT is a collection of tools/libraries to support both static and dynamic verification of Rust programs. | https://github.com/project-oak/rust-verification-tools | 107 | 7| 
 | 20210214T23:57:06Z | Git Blog | https://github.com/klee30810/klee30810.github.io | 0 | 0| 
 | 20210214T23:31:41Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1628 | 483| 
-| 20210214T17:21:05Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 的 Klee One 的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 45 | 3| 
 | 20210214T04:06:21Z | Null | https://github.com/fontworks-fonts/Klee | 362 | 10| 
 | 20210213T14:12:34Z | ⬇️ File Upload/sharing application, used by thousands of webmasters since 2007.  | https://github.com/kleeja-official/kleeja | 113 | 33| 
 | 20210210T22:51:18Z | Spring 2021 Geography 817 work folder  | https://github.com/klee12/klee12.github.io | 0 | 0| 
 | 20210210T15:54:53Z | Create CFGs and compute complexity metrics for Python, C++, and Java code. | https://github.com/hmc-alpaqa/metrinome | 6 | 0| 
 | 20210210T01:52:40Z | A personnal UI library made as an excuse to have a published UI package | https://github.com/Liinkiing/klee | 5 | 1| 
-| 20210208T10:29:33Z | RVT is a collection of tools/libraries to support both static and dynamic verification of Rust programs. | https://github.com/project-oak/rust-verification-tools | 107 | 7| 
 | 20210208T08:35:52Z | Null | https://github.com/samkleezy/kleezy | 0 | 0| 
 
 
@@ -85,31 +85,31 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210215T02:06:00Z | A general purpose memory allocator that implements an isolation security strategy to mitigate memory safety issues while maintaining good performance | https://github.com/struct/isoalloc | 127 | 9| 
-| 20210215T02:02:52Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 8 | 4| 
-| 20210215T01:59:24Z | :shell::collision: Python socket remote shell that lets you connect to others computers through the shell when they run the client.  | https://github.com/keeganjk/urchin | 7 | 4| 
-| 20210215T01:57:30Z | Null | https://github.com/Stakcery/Laravel-exploit | 0 | 0| 
-| 20210215T01:45:48Z | C2/post-exploitation framework | https://github.com/loseys/BlackMamba | 232 | 12| 
-| 20210215T01:42:36Z | Autosplitter For The Game Robot 64 (Requires Exploit With Input API) | https://github.com/BluelyTASer/Robot-64-Autosplitter | 0 | 0| 
-| 20210215T01:27:31Z | This tool is great for information gathering and post- exploitation | https://github.com/Cybercrack-bot/Cybercrack | 3 | 1| 
-| 20210215T01:27:24Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9003 | 1451| 
-| 20210215T01:00:11Z | Null | https://github.com/sheenieboy/ExploiterChat | 1 | 0| 
-| 20210215T00:39:03Z | CTF framework and exploit development library | https://github.com/Gallopsled/pwntools | 7531 | 1351| 
+| 20210215T12:58:16Z | Automatic Linux privesc via exploitation of low-hanging fruit e.g. gtfobins :arrow_up: :skull_and_crossbones: | https://github.com/liamg/traitor | 37 | 3| 
+| 20210215T12:55:16Z | Just a temporary website to post my ctf writeups and journey into binary/android exploitation/malware analysis/exploit development | https://github.com/blackbeard666/pwn_exhibit | 3 | 1| 
+| 20210215T12:50:05Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 7 | 4| 
+| 20210215T12:22:11Z | This bash script will help you to hack remote hosts  | https://github.com/FabioDefilippo/linuxallremote | 6 | 1| 
+| 20210215T12:16:48Z | courses, exploits and lots of code, as i am currently preparing for this exam, i will keep updating everthing i learned or coded here | https://github.com/kainesmicheal/OSWE | 1 | 1| 
+| 20210215T12:10:28Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9006 | 1452| 
+| 20210215T12:08:59Z | Autosplitter For The Game Robot 64 (Requires Exploit With Input API) | https://github.com/BluelyTASer/Robot-64-Autosplitter | 0 | 0| 
+| 20210215T12:02:52Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 8 | 4| 
+| 20210215T11:53:46Z | This tool compares a targets patch levels against the Microsoft vulnerability database in order to detect potential missing patches on the target. It also notifies the user if there are public exploits and Metasploit modules available for the missing bulletins. | https://github.com/AonCyberLabs/Windows-Exploit-Suggester | 2593 | 783| 
+| 20210215T11:50:58Z | Stable host for ps4 exploit 7.02 | https://github.com/hessam-shm/ps4-jb | 0 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210215T02:51:12Z | Winsock accept() Backdoor Implant. | https://github.com/EgeBalci/WSAAcceptBackdoor | 38 | 5| 
-| 20210214T23:03:18Z | Ro3b - Advance Banking HTTP Botnet  | https://github.com/mathio3/Ro3b-HTTP-botnet | 8 | 4| 
-| 20210214T20:35:39Z | Null | https://github.com/miclay0260/backdoor | 0 | 0| 
-| 20210214T18:56:51Z | RATata is a simple python RAT to setup and use ! | https://github.com/loTus04/RATata | 1 | 0| 
-| 20210214T18:03:45Z | Null | https://github.com/3TERNITY/PythonBackdoor | 0 | 0| 
-| 20210214T17:01:41Z | Full-featured C2 framework which silently persists on webserver with a single-line PHP backdoor | https://github.com/nil0x42/phpsploit | 1155 | 330| 
-| 20210214T12:07:39Z | Null | https://github.com/Wiilldd/backdoor | 0 | 0| 
-| 20210214T08:16:13Z | Null | https://github.com/Shahtr1/reverse_backdoor | 0 | 0| 
-| 20210214T06:09:20Z | Null | https://github.com/dksamu/BackDoor | 0 | 0| 
-| 20210213T21:29:51Z | This program is an non-object oriented opensource, hidden and undetectable backdoor/reverse shell/RAT for Windows made in Python 3 which contains many features such as multi-client support and cross-platform server. | https://github.com/xp4xbox/Python-Backdoor | 358 | 134| 
+| 20210215T12:38:08Z | TCP server + Web app for managing active backdoors | https://github.com/hacefresko/Mothership | 0 | 0| 
+| 20210215T11:56:56Z | Null | https://github.com/miclay0260/backdoor | 0 | 0| 
+| 20210215T11:38:29Z | Null | https://github.com/rabbitx1337/backdoor | 0 | 0| 
+| 20210215T11:09:10Z | Null | https://github.com/fenilsuchak/test-mlm-backdoor | 0 | 0| 
+| 20210215T11:04:29Z | Winsock accept() Backdoor Implant. | https://github.com/EgeBalci/WSAAcceptBackdoor | 52 | 8| 
+| 20210215T10:55:09Z | Null | https://github.com/cirrrr/backdoor-keyword-identification | 0 | 0| 
+| 20210215T09:37:15Z | A multi functional rat, that firstly will be a simple backdoor | https://github.com/K1DR4T/BETA---R4T | 0 | 0| 
+| 20210215T09:28:14Z | This is a python program backdoor embeded with a game for reverse connection from the victim to understand the use visit our youtube channel STRANGE LEARNINGS  | https://github.com/EnriqueStrange/Advanced-Backdoor | 2 | 2| 
+| 20210215T07:33:55Z | I made some book that gives you creative mode, enchanted bedrock/ende rportal frames/ command blocks and a 32k sword when you put the command into a command block. I separated the versions of mc and different commands. This has mass autism and im sorry | https://github.com/Zvakun/backdoor-book-minecraft-commands | 0 | 0| 
+| 20210215T03:48:51Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 166 | 24| 
 
 
 # fuzz on Github 推荐
