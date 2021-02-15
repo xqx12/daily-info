@@ -46,7 +46,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20210215T09:25:48Z | CVE-2020-36109 | PoC DoS CVE-2020-36109 | https://github.com/tin-z/CVE-2020-36109-POC | | 
+| 20210215T09:25:48Z | CVE-2020-36109 | PoC DoS CVE-2020-36109 | https://github.com/tin-z/CVE-2020-36109-POC | ASUS RT-AX86U router firmware below version under 9.0.0.4_386 has a buffer overflow in the blocking_request.cgi function of the httpd module that can cause code execution when an attacker constructs malicious data.| 
 | 20210215T08:46:29Z | CVE-2020-8638 | Null | https://github.com/DXY0411/CVE-2020-8638 | A SQL injection vulnerability in TestLink 1.9.20 allows attackers to execute arbitrary SQL commands in planUrgency.php via the urgency parameter.| 
 | 20210215T06:29:31Z | CVE-2021-26700 | RCE in NPM VSCode Extention | https://github.com/jackadamson/CVE-2021-26700 | 未查询到CVE信息| 
 | 20210214T16:21:13Z | CVE-2021-26121 | Null | https://github.com/sourceincite/CVE-2021-26121 | 未查询到CVE信息| 
