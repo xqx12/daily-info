@@ -115,16 +115,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210215T00:13:56Z | Null | https://github.com/olegsych/fuzzy | 0 | 0| 
-| 20210215T00:07:06Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 5900 | 1188| 
-| 20210214T23:58:08Z | Null | https://github.com/The-Valley-Discord/Fuzzy | 0 | 0| 
-| 20210214T23:34:23Z | Build for moto e | https://github.com/repositoryaxis/fuzzy-octo-giggle | 1 | 0| 
-| 20210214T23:14:31Z | Ongoing development of the Fuzzball MUCK server software and associated functionality. | https://github.com/fuzzball-muck/fuzzball | 30 | 21| 
-| 20210214T23:11:16Z |  🐰 Tool set for fuzz and stress testing your functions! | https://github.com/palekh/fuzzing | 6 | 1| 
-| 20210214T23:05:42Z | Null | https://github.com/MatOrlowski/fuzzy-robot | 0 | 0| 
-| 20210214T23:04:34Z | Developed a fuzzy logic controller to dynamically adjust applied voltage to maintain water level stayed at a desired level inside a leaking tank.  | https://github.com/damien2012eng/FuzzyLogicController | 0 | 0| 
-| 20210214T22:46:42Z | Fuzzing cryptographic libraries. Magic bug printer go brrrr. | https://github.com/guidovranken/cryptofuzz | 251 | 35| 
-| 20210214T21:53:49Z | Note taking with fuzzy search | https://github.com/iamlemec/fuzzy | 1 | 1| 
+| 20210215T12:52:07Z | fuzzy string matching in R | https://github.com/mlampros/fuzzywuzzyR | 24 | 3| 
+| 20210215T12:39:25Z | Null | https://github.com/RiaGohel/FuzzyBlog | 0 | 0| 
+| 20210215T11:23:51Z | Generates Elm types, JSON decoders, JSON encoders and fuzz tests from JSON schema specifications | https://github.com/dragonwasrobot/json-schema-to-elm | 61 | 7| 
+| 20210215T11:17:24Z | Null | https://github.com/lumebits/fuzzgram | 0 | 0| 
+| 20210215T10:42:31Z | Null | https://github.com/Jolantux13/Onto_Fuzzy_IS | 0 | 0| 
+| 20210215T10:41:11Z | Course CI/CD using AWS CodePipeline & Elastic Beanstalk by Ali Rizavi | https://github.com/MrREA/FuzzyTelegramPHPWebAppCourse | 0 | 0| 
+| 20210215T10:32:42Z | Null | https://github.com/s9varesc/url-fuzzing | 0 | 0| 
+| 20210215T09:49:09Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 5901 | 1188| 
+| 20210215T09:26:04Z | A list of resources (papers, books, talks, frameworks, tools) for understanding fuzzing for IoT/embedded devices. | https://github.com/andreia-oca/IoT-Fuzzing-Resource-List | 0 | 0| 
+| 20210215T09:06:38Z | Null | https://github.com/7evy/Fuzzy_Queries | 0 | 0| 
 
 
 

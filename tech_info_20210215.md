@@ -66,8 +66,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210215T00:13:56Z | Null | https://github.com/olegsych/fuzzy | 0 | 0| 
-| 20210215T00:07:06Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 5900 | 1188| 
+| 20210215T12:52:07Z | fuzzy string matching in R | https://github.com/mlampros/fuzzywuzzyR | 24 | 3| 
+| 20210215T12:39:25Z | Null | https://github.com/RiaGohel/FuzzyBlog | 0 | 0| 
+| 20210215T11:23:51Z | Generates Elm types, JSON decoders, JSON encoders and fuzz tests from JSON schema specifications | https://github.com/dragonwasrobot/json-schema-to-elm | 61 | 7| 
+| 20210215T11:17:24Z | Null | https://github.com/lumebits/fuzzgram | 0 | 0| 
+| 20210215T10:42:31Z | Null | https://github.com/Jolantux13/Onto_Fuzzy_IS | 0 | 0| 
+| 20210215T10:41:11Z | Course CI/CD using AWS CodePipeline & Elastic Beanstalk by Ali Rizavi | https://github.com/MrREA/FuzzyTelegramPHPWebAppCourse | 0 | 0| 
+| 20210215T10:32:42Z | Null | https://github.com/s9varesc/url-fuzzing | 0 | 0| 
+| 20210215T09:49:09Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 5901 | 1188| 
+| 20210215T09:26:04Z | A list of resources (papers, books, talks, frameworks, tools) for understanding fuzzing for IoT/embedded devices. | https://github.com/andreia-oca/IoT-Fuzzing-Resource-List | 0 | 0| 
+| 20210215T09:06:38Z | Null | https://github.com/7evy/Fuzzy_Queries | 0 | 0| 
 
 
 
