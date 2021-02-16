@@ -46,7 +46,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20210215T23:46:59Z | CVE-2021-27190 | Null | https://github.com/anmolksachan/CVE-2021-27190-PEEL-Shopping-cart-9.3.0-Stored-XSS | A Stored Cross Site Scripting(XSS) Vulnerability was discovered in PEEL SHOPPING 9.3.0 which is publicly available. The user supplied input containing polyglot payload is echoed back in javascript code in HTML response. This allows an attacker to input malicious JavaScript which can steal cookie, redirect them to other malicious website, etc.| 
+| 20210215T23:46:59Z | CVE-2021-27190 | Null | https://github.com/anmolksachan/CVE-2021-27190-PEEL-Shopping-cart-9.3.0-Stored-XSS | | 
 | 20210215T18:49:44Z | CVE-2021-26121 | Null | https://github.com/sourceincite/CVE-2021-26121 | 未查询到CVE信息| 
 | 20210215T17:12:35Z | CVE-2021-24085 | Null | https://github.com/sourceincite/CVE-2021-24085 | 未查询到CVE信息| 
 | 20210215T17:08:11Z | CVE-2020-8638 | Null | https://github.com/DXY0411/CVE-2020-8638 | A SQL injection vulnerability in TestLink 1.9.20 allows attackers to execute arbitrary SQL commands in planUrgency.php via the urgency parameter.| 
@@ -85,6 +85,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210216T01:40:51Z | Pentester%s toolbox | https://github.com/binarytrails/prober | 0 | 0| 
 | 20210216T01:15:23Z | Portfolio of personal exploits and professional feats | https://github.com/JoeDonMalone/Homework_12192020_Week2 | 0 | 0| 
 | 20210216T01:15:21Z | windows and linux streams for post exploitation | https://github.com/kymb0/post_exploitation | 1 | 0| 
 | 20210216T01:02:50Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 8 | 4| 
@@ -94,7 +95,6 @@
 | 20210215T23:27:17Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9011 | 1452| 
 | 20210215T23:25:49Z | EternalBlue suite remade in C/C++ which includes: MS17-010 Exploit, EternalBlue vulnerability detector, DoublePulsar detector and DoublePulsar Shellcode & DLL uploader | https://github.com/bhassani/EternalBlueC | 309 | 77| 
 | 20210215T22:59:15Z | Null | https://github.com/ActorExpose/exploits | 0 | 0| 
-| 20210215T22:46:43Z | %Ike: A binary exploitation and reversing handbook | https://github.com/mahaloz/ike | 1 | 0| 
 
 
 # backdoor on Github 推荐
