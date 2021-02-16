@@ -42,7 +42,6 @@
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
 | 20210215T23:53:38Z | Test for CVE-2000-0649, and return an IP address if vulnerable | https://github.com/rafaelh/CVE-2000-0649 | 1 | 0| 
-| 20210215T23:51:52Z | Portfolio of personal exploits and professional feats | https://github.com/JoeDonMalone/Homework_12192020_Week2 | 0 | 0| 
 | 20210215T23:27:17Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9011 | 1452| 
 | 20210215T23:25:49Z | EternalBlue suite remade in C/C++ which includes: MS17-010 Exploit, EternalBlue vulnerability detector, DoublePulsar detector and DoublePulsar Shellcode & DLL uploader | https://github.com/bhassani/EternalBlueC | 309 | 77| 
 | 20210215T22:59:15Z | Null | https://github.com/ActorExpose/exploits | 0 | 0| 
@@ -51,6 +50,7 @@
 | 20210215T22:34:09Z | Exploits a simple WebRCE and supports PTY upgrade, Bind- and ReveseShells, File Up- and Download | https://github.com/61106960/ForwardShell | 1 | 1| 
 | 20210215T22:23:12Z | CVE Documenting Sample | https://github.com/ActorExpose/Exploit | 0 | 0| 
 | 20210215T22:00:52Z | Null | https://github.com/brerodrigues/exploit_drafts | 0 | 0| 
+| 20210215T21:58:00Z | Basic services enumeration and exploitation | https://github.com/dar3k93/Basic-service-enumeration | 0 | 1| 
 
 
 # backdoor on Github 推荐

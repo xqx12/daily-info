@@ -85,12 +85,12 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210216T01:06:58Z | windows and linux streams for post exploitation | https://github.com/kymb0/post_exploitation | 1 | 0| 
+| 20210216T01:15:23Z | Portfolio of personal exploits and professional feats | https://github.com/JoeDonMalone/Homework_12192020_Week2 | 0 | 0| 
+| 20210216T01:15:21Z | windows and linux streams for post exploitation | https://github.com/kymb0/post_exploitation | 1 | 0| 
 | 20210216T01:02:50Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 8 | 4| 
 | 20210216T00:50:04Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 7 | 4| 
 | 20210216T00:10:40Z | A phased, evasive Path Traversal + LFI scanning & exploitation tool in Python | https://github.com/VainlyStrain/Vailyn | 94 | 4| 
 | 20210215T23:53:38Z | Test for CVE-2000-0649, and return an IP address if vulnerable | https://github.com/rafaelh/CVE-2000-0649 | 1 | 0| 
-| 20210215T23:51:52Z | Portfolio of personal exploits and professional feats | https://github.com/JoeDonMalone/Homework_12192020_Week2 | 0 | 0| 
 | 20210215T23:27:17Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9011 | 1452| 
 | 20210215T23:25:49Z | EternalBlue suite remade in C/C++ which includes: MS17-010 Exploit, EternalBlue vulnerability detector, DoublePulsar detector and DoublePulsar Shellcode & DLL uploader | https://github.com/bhassani/EternalBlueC | 309 | 77| 
 | 20210215T22:59:15Z | Null | https://github.com/ActorExpose/exploits | 0 | 0| 
@@ -100,7 +100,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210216T00:43:47Z | An AWS Pentesting tool that lets you use one-liner commands to backdoor an AWS account%s resources with a rogue AWS account - or share the resources with the entire internet 😈 | https://github.com/salesforce/endgame | 1 | 1| 
+| 20210216T01:15:47Z | An AWS Pentesting tool that lets you use one-liner commands to backdoor an AWS account%s resources with a rogue AWS account - or share the resources with the entire internet 😈 | https://github.com/salesforce/endgame | 1 | 1| 
 | 20210215T23:00:29Z | fully automated c# reverse shells with automated ssh tunneling | https://github.com/9-s3c/osprey-v3 | 1 | 0| 
 | 20210215T21:06:48Z | I made some book that gives you creative mode, enchanted bedrock/ende rportal frames/ command blocks and a 32k sword when you put the command into a command block. I separated the versions of mc and different commands. This has mass autism and im sorry | https://github.com/Zvakun/backdoor-book-minecraft-commands | 0 | 0| 
 | 20210215T20:09:57Z | Null | https://github.com/evgen-jkay/backDoorInModX | 0 | 0| 
