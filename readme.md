@@ -19,7 +19,7 @@
 | 20210215T23:46:59Z | CVE-2021-27190 | Null | https://github.com/anmolksachan/CVE-2021-27190-PEEL-Shopping-cart-9.3.0-Stored-XSS | A Stored Cross Site Scripting(XSS) Vulnerability was discovered in PEEL SHOPPING 9.3.0 which is publicly available. The user supplied input containing polyglot payload is echoed back in javascript code in HTML response. This allows an attacker to input malicious JavaScript which can steal cookie, redirect them to other malicious website, etc.| 
 | 20210215T18:49:44Z | CVE-2021-26121 | Null | https://github.com/sourceincite/CVE-2021-26121 | 未查询到CVE信息| 
 | 20210215T17:12:35Z | CVE-2021-24085 | Null | https://github.com/sourceincite/CVE-2021-24085 | 未查询到CVE信息| 
-| 20210215T17:08:11Z | CVE-2020-8638 | Null | https://github.com/DXY0411/CVE-2020-8638 | | 
+| 20210215T17:08:11Z | CVE-2020-8638 | Null | https://github.com/DXY0411/CVE-2020-8638 | A SQL injection vulnerability in TestLink 1.9.20 allows attackers to execute arbitrary SQL commands in planUrgency.php via the urgency parameter.| 
 | 20210215T15:46:01Z | CVE-2021-1782 | Null | https://github.com/synacktiv/CVE-2021-1782 | 未查询到CVE信息| 
 | 20210215T14:51:18Z | CVE-2021-26700 | RCE in NPM VSCode Extention | https://github.com/jackadamson/CVE-2021-26700 | 未查询到CVE信息| 
 | 20210215T09:25:48Z | CVE-2020-36109 | PoC DoS CVE-2020-36109 | https://github.com/tin-z/CVE-2020-36109-POC | ASUS RT-AX86U router firmware below version under 9.0.0.4_386 has a buffer overflow in the blocking_request.cgi function of the httpd module that can cause code execution when an attacker constructs malicious data.| 
@@ -77,10 +77,10 @@
 | 20210215T23:03:56Z | Generator of random circuits | https://github.com/drom/circt-fuzzer | 1 | 0| 
 | 20210215T22:20:05Z | Computational Intelligence Course - Fuzzy Lab - Amirkabir University of Technology | https://github.com/seyedsaleh/Fuzzy-lab | 1 | 0| 
 | 20210215T22:18:37Z | Developed a fuzzy logic controller to dynamically adjust applied voltage to maintain water level stayed at a desired level inside a leaking tank.  | https://github.com/damien2012eng/FuzzyLogicController | 0 | 0| 
-| 20210215T21:31:06Z | Security oriented software fuzzer. Supports evolutionary, feedback-driven fuzzing based on code coverage (SW and HW based) | https://github.com/google/honggfuzz | 2131 | 434| 
 | 20210215T21:21:47Z | test git for colab | https://github.com/AronBoettcher/fuzzy-octo-goggles | 0 | 0| 
 | 20210215T21:12:47Z | Fuzzing cryptographic libraries. Magic bug printer go brrrr. | https://github.com/guidovranken/cryptofuzz | 251 | 35| 
 | 20210215T20:48:55Z | Project for Computer Security 2021  | https://github.com/ninjapretzel/HttpFuzzer | 0 | 0| 
+| 20210215T20:45:48Z | fzf-like fuzzy-finder as a Go library | https://github.com/ktr0731/go-fuzzyfinder | 211 | 19| 
 
 
 
