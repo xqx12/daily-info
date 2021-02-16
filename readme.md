@@ -48,7 +48,7 @@
 | 20210216T12:41:51Z | courses, exploits and lots of code, as i am currently preparing for this exam, i will keep updating everthing i learned or coded here | https://github.com/kainesmicheal/OSWE | 1 | 1| 
 | 20210216T12:20:33Z | This bash script will help you to hack remote hosts  | https://github.com/FabioDefilippo/linuxallremote | 6 | 1| 
 | 20210216T12:02:41Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 9 | 4| 
-| 20210216T10:49:28Z | The Browser Exploitation Framework Project | https://github.com/beefproject/beef | 5512 | 1327| 
+| 20210216T10:49:28Z | The Browser Exploitation Framework Project | https://github.com/beefproject/beef | 5512 | 1326| 
 | 20210216T10:29:58Z | Documentation of the HTB exploits | https://github.com/nic126/HTBWalktrough | 0 | 0| 
 | 20210216T09:52:04Z | TryHackMe CTFs writeups, notes, dratfs, scrabbles, files and solutions. | https://github.com/edoardottt/tryhackme-ctf | 14 | 8| 
 | 20210216T08:25:29Z | Pown.js is a security testing an exploitation toolkit built on top of Node.js and NPM. | https://github.com/pownjs/pown | 187 | 24| 
