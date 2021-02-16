@@ -44,7 +44,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210216T13:38:41Z | Facebook for Android is prone to an information-disclosure vulnerability.  Successful exploits allows an attacker to gain access to sensitive information. Information obtained may aid in further attacks.  Facebook for Android 1.8.1 is vulnerable; other versions may also be affected. | https://github.com/No-Cellist-7780/Facebook-LoginActivity | 0 | 0| 
+| 20210216T13:40:33Z | Facebook for Android is prone to an information-disclosure vulnerability.  Successful exploits allows an attacker to gain access to sensitive information. Information obtained may aid in further attacks.  Facebook for Android 1.8.1 is vulnerable; other versions may also be affected. | https://github.com/No-Cellist-7780/Facebook-LoginActivity | 0 | 0| 
 | 20210216T13:31:02Z | Null | https://github.com/HackToHell/test_exploit | 0 | 0| 
 | 20210216T13:27:43Z | Various ASM, C and C++ tools, shellcodes and exploit experiments. | https://github.com/forrest-orr/ExploitDev | 51 | 5| 
 | 20210216T13:24:12Z | Null | https://github.com/StyxExploit/StyxExploit | 0 | 0| 
