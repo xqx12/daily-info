@@ -19,9 +19,9 @@
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
 | 20210216T11:15:41Z | CVE-2020-8638 | Null | https://github.com/DXY0411/CVE-2020-8638 | A SQL injection vulnerability in TestLink 1.9.20 allows attackers to execute arbitrary SQL commands in planUrgency.php via the urgency parameter.| 
-| 20210216T11:04:06Z | CVE-2021-26700 | RCE in NPM VSCode Extention | https://github.com/jackadamson/CVE-2021-26700 | 未查询到CVE信息| 
+| 20210216T11:04:06Z | CVE-2021-26700 | RCE in NPM VSCode Extention | https://github.com/jackadamson/CVE-2021-26700 | | 
 | 20210216T09:45:18Z | cve-2020-8165 | Null | https://github.com/danielklim/cve-2020-8165-demo | 未查询到CVE信息| 
-| 20210216T09:44:38Z | CVE-2021-24085 | Null | https://github.com/sourceincite/CVE-2021-24085 | 未查询到CVE信息| 
+| 20210216T09:44:38Z | CVE-2021-24085 | Null | https://github.com/sourceincite/CVE-2021-24085 | | 
 
 
 # klee on Github 推荐
@@ -70,9 +70,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210216T02:09:46Z | Security oriented software fuzzer. Supports evolutionary, feedback-driven fuzzing based on code coverage (SW and HW based) | https://github.com/google/honggfuzz | 2132 | 434| 
-| 20210216T00:45:20Z | This tool uses fzf(1)-like fuzzy-finder to do partial or fuzzy search of Kubernetes resources. Instead of specifying full resource names to kubectl commands, you can choose them from an interactive list that you can filter by typing a few characters. | https://github.com/d-kuro/kubectl-fuzzy | 78 | 9| 
-| 20210216T00:34:31Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 5903 | 1188| 
+| 20210216T13:02:33Z | Null | https://github.com/s9varesc/url-fuzzing | 0 | 0| 
+| 20210216T12:58:04Z | Null | https://github.com/hsoon01/fuzzy-goggles | 0 | 0| 
+| 20210216T12:39:27Z | todo-list | https://github.com/atuonufure/react-fuzzy-meme | 0 | 0| 
+| 20210216T12:19:25Z | Security oriented software fuzzer. Supports evolutionary, feedback-driven fuzzing based on code coverage (SW and HW based) | https://github.com/google/honggfuzz | 2132 | 434| 
+| 20210216T12:01:16Z | A fuzzer that generates random Go programs | https://github.com/ALTree/microsmith | 6 | 0| 
+| 20210216T11:35:01Z | PoC of fuzzing closed-source userspace binaries with KVM | https://github.com/klecko/kvm-fuzz | 0 | 0| 
+| 20210216T11:32:29Z | Towards fuzzing ROS 2 automatically | https://github.com/JnxF/automatic_fuzzing | 0 | 0| 
+| 20210216T11:01:38Z | A project to learn Python and work with FuzzyLogic | https://github.com/matijsbrs/FuzzyPython | 0 | 0| 
+| 20210216T10:21:06Z | Null | https://github.com/is0263rf/fuzzy-spoon | 0 | 0| 
+| 20210216T06:13:58Z | Null | https://github.com/vasumv/bonsai-fuzzing | 0 | 0| 
 
 
 

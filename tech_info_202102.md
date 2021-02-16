@@ -47,11 +47,11 @@
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
 | 20210216T11:15:41Z | CVE-2020-8638 | Null | https://github.com/DXY0411/CVE-2020-8638 | A SQL injection vulnerability in TestLink 1.9.20 allows attackers to execute arbitrary SQL commands in planUrgency.php via the urgency parameter.| 
-| 20210216T11:04:06Z | CVE-2021-26700 | RCE in NPM VSCode Extention | https://github.com/jackadamson/CVE-2021-26700 | 未查询到CVE信息| 
-| 20210216T09:45:18Z | cve-2020-8165 | Null | https://github.com/danielklim/cve-2020-8165-demo | 未查询到CVE信息| 
-| 20210216T09:44:38Z | CVE-2021-24085 | Null | https://github.com/sourceincite/CVE-2021-24085 | 未查询到CVE信息| 
+| 20210216T11:04:06Z | CVE-2021-26700 | RCE in NPM VSCode Extention | https://github.com/jackadamson/CVE-2021-26700 | | 
+| 20210216T09:45:18Z | cve-2020-8165 | Null | https://github.com/danielklim/cve-2020-8165-demo | | 
+| 20210216T09:44:38Z | CVE-2021-24085 | Null | https://github.com/sourceincite/CVE-2021-24085 | | 
 | 20210215T23:46:59Z | CVE-2021-27190 | Null | https://github.com/anmolksachan/CVE-2021-27190-PEEL-Shopping-cart-9.3.0-Stored-XSS | A Stored Cross Site Scripting(XSS) Vulnerability was discovered in PEEL SHOPPING 9.3.0 which is publicly available. The user supplied input containing polyglot payload is echoed back in javascript code in HTML response. This allows an attacker to input malicious JavaScript which can steal cookie, redirect them to other malicious website, etc.| 
-| 20210215T18:49:44Z | CVE-2021-26121 | Null | https://github.com/sourceincite/CVE-2021-26121 | 未查询到CVE信息| 
+| 20210215T18:49:44Z | CVE-2021-26121 | Null | https://github.com/sourceincite/CVE-2021-26121 | | 
 | 20210215T15:46:01Z | CVE-2021-1782 | Null | https://github.com/synacktiv/CVE-2021-1782 | 未查询到CVE信息| 
 | 20210215T09:25:48Z | CVE-2020-36109 | PoC DoS CVE-2020-36109 | https://github.com/tin-z/CVE-2020-36109-POC | ASUS RT-AX86U router firmware below version under 9.0.0.4_386 has a buffer overflow in the blocking_request.cgi function of the httpd module that can cause code execution when an attacker constructs malicious data.| 
 | 20210214T12:27:56Z | CVE-2021-3129 | Null | https://github.com/FunPhishing/Laravel-8.4.2-rce-CVE-2021-3129 | Ignition before 2.5.2, as used in Laravel and other products, allows unauthenticated remote attackers to execute arbitrary code because of insecure usage of file_get_contents() and file_put_contents(). This is exploitable on sites using debug mode with Laravel before 8.4.2.| 
@@ -115,16 +115,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210216T02:09:46Z | Security oriented software fuzzer. Supports evolutionary, feedback-driven fuzzing based on code coverage (SW and HW based) | https://github.com/google/honggfuzz | 2132 | 434| 
-| 20210216T00:45:20Z | This tool uses fzf(1)-like fuzzy-finder to do partial or fuzzy search of Kubernetes resources. Instead of specifying full resource names to kubectl commands, you can choose them from an interactive list that you can filter by typing a few characters. | https://github.com/d-kuro/kubectl-fuzzy | 78 | 9| 
-| 20210216T00:34:31Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 5903 | 1188| 
-| 20210215T23:56:12Z | Scalable fuzzing infrastructure. | https://github.com/google/clusterfuzz | 4428 | 420| 
-| 20210215T23:23:17Z | PoC of fuzzing closed-source userspace binaries with KVM | https://github.com/klecko/kvm-fuzz | 0 | 0| 
-| 20210215T23:08:26Z | Studying fuzzy logic and inference in a Jupyter notebook. | https://github.com/pereirarodrigo/fuzzyl | 0 | 0| 
-| 20210215T23:03:56Z | Generator of random circuits | https://github.com/drom/circt-fuzzer | 1 | 0| 
-| 20210215T22:20:05Z | Computational Intelligence Course - Fuzzy Lab - Amirkabir University of Technology | https://github.com/seyedsaleh/Fuzzy-lab | 1 | 0| 
-| 20210215T22:18:37Z | Developed a fuzzy logic controller to dynamically adjust applied voltage to maintain water level stayed at a desired level inside a leaking tank.  | https://github.com/damien2012eng/FuzzyLogicController | 0 | 0| 
-| 20210215T21:21:47Z | test git for colab | https://github.com/AronBoettcher/fuzzy-octo-goggles | 0 | 0| 
+| 20210216T13:02:33Z | Null | https://github.com/s9varesc/url-fuzzing | 0 | 0| 
+| 20210216T12:58:04Z | Null | https://github.com/hsoon01/fuzzy-goggles | 0 | 0| 
+| 20210216T12:39:27Z | todo-list | https://github.com/atuonufure/react-fuzzy-meme | 0 | 0| 
+| 20210216T12:19:25Z | Security oriented software fuzzer. Supports evolutionary, feedback-driven fuzzing based on code coverage (SW and HW based) | https://github.com/google/honggfuzz | 2132 | 434| 
+| 20210216T12:01:16Z | A fuzzer that generates random Go programs | https://github.com/ALTree/microsmith | 6 | 0| 
+| 20210216T11:35:01Z | PoC of fuzzing closed-source userspace binaries with KVM | https://github.com/klecko/kvm-fuzz | 0 | 0| 
+| 20210216T11:32:29Z | Towards fuzzing ROS 2 automatically | https://github.com/JnxF/automatic_fuzzing | 0 | 0| 
+| 20210216T11:01:38Z | A project to learn Python and work with FuzzyLogic | https://github.com/matijsbrs/FuzzyPython | 0 | 0| 
+| 20210216T10:21:06Z | Null | https://github.com/is0263rf/fuzzy-spoon | 0 | 0| 
+| 20210216T06:13:58Z | Null | https://github.com/vasumv/bonsai-fuzzing | 0 | 0| 
 
 
 
