@@ -44,6 +44,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210216T13:27:43Z | Various ASM, C and C++ tools, shellcodes and exploit experiments. | https://github.com/forrest-orr/ExploitDev | 51 | 5| 
 | 20210216T13:24:12Z | Null | https://github.com/StyxExploit/StyxExploit | 0 | 0| 
 | 20210216T13:24:11Z | Just a temporary website to post my ctf writeups and journey into binary exploitation/malware analysis/exploit development | https://github.com/blackbeard666/blackbeard666.github.io | 0 | 0| 
 | 20210216T13:12:22Z | xcube is a Python package for generating and exploiting data cubes powered by xarray, dask, and zarr. | https://github.com/dcs4cop/xcube | 70 | 12| 
@@ -53,7 +54,6 @@
 | 20210216T10:49:28Z | The Browser Exploitation Framework Project | https://github.com/beefproject/beef | 5512 | 1326| 
 | 20210216T10:29:58Z | Documentation of the HTB exploits | https://github.com/nic126/HTBWalktrough | 0 | 0| 
 | 20210216T09:52:04Z | TryHackMe CTFs writeups, notes, dratfs, scrabbles, files and solutions. | https://github.com/edoardottt/tryhackme-ctf | 14 | 8| 
-| 20210216T08:25:29Z | Pown.js is a security testing an exploitation toolkit built on top of Node.js and NPM. | https://github.com/pownjs/pown | 187 | 24| 
 
 
 # backdoor on Github 推荐
