@@ -85,6 +85,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210216T02:47:58Z | exploiter | https://github.com/1337xxx/jquery | 0 | 0| 
 | 20210216T02:40:31Z | An attempt to utilize the KindleDrip exploit to jailbreak Kindles. | https://github.com/simonpacis/DripBreak | 0 | 0| 
 | 20210216T02:34:16Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 9 | 4| 
 | 20210216T02:30:18Z | python | https://github.com/1337xxx/Bof-exploit | 0 | 0| 
@@ -94,7 +95,6 @@
 | 20210216T02:09:53Z | Pentester%s toolbox | https://github.com/binarytrails/prober | 0 | 0| 
 | 20210216T02:00:04Z | Just a temporary website to post my ctf writeups and journey into binary/android exploitation/malware analysis/exploit development | https://github.com/blackbeard666/pwn_exhibit | 3 | 1| 
 | 20210216T01:51:36Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9012 | 1452| 
-| 20210216T01:42:01Z | Null | https://github.com/nobelherrrera/wx-exploit-suggester-py | 0 | 0| 
 
 
 # backdoor on Github 推荐
