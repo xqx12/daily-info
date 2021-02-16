@@ -19,9 +19,9 @@
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
 | 20210216T11:15:41Z | CVE-2020-8638 | Null | https://github.com/DXY0411/CVE-2020-8638 | A SQL injection vulnerability in TestLink 1.9.20 allows attackers to execute arbitrary SQL commands in planUrgency.php via the urgency parameter.| 
-| 20210216T11:04:06Z | CVE-2021-26700 | RCE in NPM VSCode Extention | https://github.com/jackadamson/CVE-2021-26700 | 未查询到CVE信息| 
+| 20210216T11:04:06Z | CVE-2021-26700 | RCE in NPM VSCode Extention | https://github.com/jackadamson/CVE-2021-26700 | | 
 | 20210216T09:45:18Z | cve-2020-8165 | Null | https://github.com/danielklim/cve-2020-8165-demo | 未查询到CVE信息| 
-| 20210216T09:44:38Z | CVE-2021-24085 | Null | https://github.com/sourceincite/CVE-2021-24085 | | 
+| 20210216T09:44:38Z | CVE-2021-24085 | Null | https://github.com/sourceincite/CVE-2021-24085 | 未查询到CVE信息| 
 
 
 # klee on Github 推荐
@@ -44,6 +44,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210216T13:30:01Z | Facebook for Android is prone to an information-disclosure vulnerability.  Successful exploits allows an attacker to gain access to sensitive information. Information obtained may aid in further attacks.  Facebook for Android 1.8.1 is vulnerable; other versions may also be affected. | https://github.com/No-Cellist-7780/Facebook-LoginActivity | 0 | 0| 
 | 20210216T13:27:43Z | Various ASM, C and C++ tools, shellcodes and exploit experiments. | https://github.com/forrest-orr/ExploitDev | 51 | 5| 
 | 20210216T13:24:12Z | Null | https://github.com/StyxExploit/StyxExploit | 0 | 0| 
 | 20210216T13:24:11Z | Just a temporary website to post my ctf writeups and journey into binary exploitation/malware analysis/exploit development | https://github.com/blackbeard666/blackbeard666.github.io | 0 | 0| 
@@ -53,7 +54,6 @@
 | 20210216T12:02:41Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 9 | 4| 
 | 20210216T10:49:28Z | The Browser Exploitation Framework Project | https://github.com/beefproject/beef | 5512 | 1326| 
 | 20210216T10:29:58Z | Documentation of the HTB exploits | https://github.com/nic126/HTBWalktrough | 0 | 0| 
-| 20210216T09:52:04Z | TryHackMe CTFs writeups, notes, dratfs, scrabbles, files and solutions. | https://github.com/edoardottt/tryhackme-ctf | 14 | 8| 
 
 
 # backdoor on Github 推荐
