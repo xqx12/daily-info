@@ -85,6 +85,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210216T01:51:36Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9012 | 1452| 
 | 20210216T01:42:01Z | Null | https://github.com/nobelherrrera/wx-exploit-suggester-py | 0 | 0| 
 | 20210216T01:40:51Z | Pentester%s toolbox | https://github.com/binarytrails/prober | 0 | 0| 
 | 20210216T01:15:23Z | Portfolio of personal exploits and professional feats | https://github.com/JoeDonMalone/Homework_12192020_Week2 | 0 | 0| 
@@ -93,7 +94,6 @@
 | 20210216T00:50:04Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 7 | 4| 
 | 20210216T00:10:40Z | A phased, evasive Path Traversal + LFI scanning & exploitation tool in Python | https://github.com/VainlyStrain/Vailyn | 94 | 4| 
 | 20210215T23:53:38Z | Test for CVE-2000-0649, and return an IP address if vulnerable | https://github.com/rafaelh/CVE-2000-0649 | 1 | 0| 
-| 20210215T23:27:17Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9011 | 1452| 
 | 20210215T23:25:49Z | EternalBlue suite remade in C/C++ which includes: MS17-010 Exploit, EternalBlue vulnerability detector, DoublePulsar detector and DoublePulsar Shellcode & DLL uploader | https://github.com/bhassani/EternalBlueC | 309 | 77| 
 
 
