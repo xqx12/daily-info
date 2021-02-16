@@ -20,8 +20,8 @@
 | --- | --- | --- | --- | ---| 
 | 20210216T11:15:41Z | CVE-2020-8638 | Null | https://github.com/DXY0411/CVE-2020-8638 | A SQL injection vulnerability in TestLink 1.9.20 allows attackers to execute arbitrary SQL commands in planUrgency.php via the urgency parameter.| 
 | 20210216T11:04:06Z | CVE-2021-26700 | RCE in NPM VSCode Extention | https://github.com/jackadamson/CVE-2021-26700 | 未查询到CVE信息| 
-| 20210216T09:45:18Z | cve-2020-8165 | Null | https://github.com/danielklim/cve-2020-8165-demo | | 
-| 20210216T09:44:38Z | CVE-2021-24085 | Null | https://github.com/sourceincite/CVE-2021-24085 | | 
+| 20210216T09:45:18Z | cve-2020-8165 | Null | https://github.com/danielklim/cve-2020-8165-demo | 未查询到CVE信息| 
+| 20210216T09:44:38Z | CVE-2021-24085 | Null | https://github.com/sourceincite/CVE-2021-24085 | 未查询到CVE信息| 
 
 
 # klee on Github 推荐
@@ -59,7 +59,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210216T13:01:17Z | An AWS Pentesting tool that lets you use one-liner commands to backdoor an AWS account%s resources with a rogue AWS account - or share the resources with the entire internet 😈 | https://github.com/salesforce/endgame | 1 | 2| 
+| 20210216T13:20:47Z | An AWS Pentesting tool that lets you use one-liner commands to backdoor an AWS account%s resources with a rogue AWS account - or share the resources with the entire internet 😈 | https://github.com/salesforce/endgame | 1 | 2| 
 | 20210216T11:22:53Z | Null | https://github.com/cirrrr/backdoor-keyword-identification | 0 | 0| 
 | 20210216T10:20:06Z | Null | https://github.com/wrongsid3/Cpp-Reverse-Shell-Backdoor | 1 | 0| 
 | 20210216T08:59:37Z | Null | https://github.com/miclay0260/backdoor | 0 | 0| 
