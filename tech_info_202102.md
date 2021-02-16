@@ -46,9 +46,9 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20210215T23:46:59Z | CVE-2021-27190 | Null | https://github.com/anmolksachan/CVE-2021-27190-PEEL-Shopping-cart-9.3.0-Stored-XSS | | 
-| 20210215T18:49:44Z | CVE-2021-26121 | Null | https://github.com/sourceincite/CVE-2021-26121 | | 
-| 20210215T17:12:35Z | CVE-2021-24085 | Null | https://github.com/sourceincite/CVE-2021-24085 | | 
+| 20210215T23:46:59Z | CVE-2021-27190 | Null | https://github.com/anmolksachan/CVE-2021-27190-PEEL-Shopping-cart-9.3.0-Stored-XSS | A Stored Cross Site Scripting(XSS) Vulnerability was discovered in PEEL SHOPPING 9.3.0 which is publicly available. The user supplied input containing polyglot payload is echoed back in javascript code in HTML response. This allows an attacker to input malicious JavaScript which can steal cookie, redirect them to other malicious website, etc.| 
+| 20210215T18:49:44Z | CVE-2021-26121 | Null | https://github.com/sourceincite/CVE-2021-26121 | 未查询到CVE信息| 
+| 20210215T17:12:35Z | CVE-2021-24085 | Null | https://github.com/sourceincite/CVE-2021-24085 | 未查询到CVE信息| 
 | 20210215T17:08:11Z | CVE-2020-8638 | Null | https://github.com/DXY0411/CVE-2020-8638 | A SQL injection vulnerability in TestLink 1.9.20 allows attackers to execute arbitrary SQL commands in planUrgency.php via the urgency parameter.| 
 | 20210215T15:46:01Z | CVE-2021-1782 | Null | https://github.com/synacktiv/CVE-2021-1782 | 未查询到CVE信息| 
 | 20210215T14:51:18Z | CVE-2021-26700 | RCE in NPM VSCode Extention | https://github.com/jackadamson/CVE-2021-26700 | 未查询到CVE信息| 
@@ -115,16 +115,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210215T12:52:07Z | fuzzy string matching in R | https://github.com/mlampros/fuzzywuzzyR | 24 | 3| 
-| 20210215T12:39:25Z | Null | https://github.com/RiaGohel/FuzzyBlog | 0 | 0| 
-| 20210215T11:23:51Z | Generates Elm types, JSON decoders, JSON encoders and fuzz tests from JSON schema specifications | https://github.com/dragonwasrobot/json-schema-to-elm | 61 | 7| 
-| 20210215T11:17:24Z | Null | https://github.com/lumebits/fuzzgram | 0 | 0| 
-| 20210215T10:42:31Z | Null | https://github.com/Jolantux13/Onto_Fuzzy_IS | 0 | 0| 
-| 20210215T10:41:11Z | Course CI/CD using AWS CodePipeline & Elastic Beanstalk by Ali Rizavi | https://github.com/MrREA/FuzzyTelegramPHPWebAppCourse | 0 | 0| 
-| 20210215T10:32:42Z | Null | https://github.com/s9varesc/url-fuzzing | 0 | 0| 
-| 20210215T09:49:09Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 5901 | 1188| 
-| 20210215T09:26:04Z | A list of resources (papers, books, talks, frameworks, tools) for understanding fuzzing for IoT/embedded devices. | https://github.com/andreia-oca/IoT-Fuzzing-Resource-List | 0 | 0| 
-| 20210215T09:06:38Z | Null | https://github.com/7evy/Fuzzy_Queries | 0 | 0| 
+| 20210216T00:45:20Z | This tool uses fzf(1)-like fuzzy-finder to do partial or fuzzy search of Kubernetes resources. Instead of specifying full resource names to kubectl commands, you can choose them from an interactive list that you can filter by typing a few characters. | https://github.com/d-kuro/kubectl-fuzzy | 78 | 9| 
+| 20210216T00:34:31Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 5903 | 1188| 
+| 20210215T23:56:12Z | Scalable fuzzing infrastructure. | https://github.com/google/clusterfuzz | 4428 | 420| 
+| 20210215T23:23:17Z | PoC of fuzzing closed-source userspace binaries with KVM | https://github.com/klecko/kvm-fuzz | 0 | 0| 
+| 20210215T23:08:26Z | Studying fuzzy logic and inference in a Jupyter notebook. | https://github.com/pereirarodrigo/fuzzyl | 0 | 0| 
+| 20210215T23:03:56Z | Generator of random circuits | https://github.com/drom/circt-fuzzer | 1 | 0| 
+| 20210215T22:20:05Z | Computational Intelligence Course - Fuzzy Lab - Amirkabir University of Technology | https://github.com/seyedsaleh/Fuzzy-lab | 1 | 0| 
+| 20210215T22:18:37Z | Developed a fuzzy logic controller to dynamically adjust applied voltage to maintain water level stayed at a desired level inside a leaking tank.  | https://github.com/damien2012eng/FuzzyLogicController | 0 | 0| 
+| 20210215T21:31:06Z | Security oriented software fuzzer. Supports evolutionary, feedback-driven fuzzing based on code coverage (SW and HW based) | https://github.com/google/honggfuzz | 2131 | 434| 
+| 20210215T21:21:47Z | test git for colab | https://github.com/AronBoettcher/fuzzy-octo-goggles | 0 | 0| 
 
 
 
