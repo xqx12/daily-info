@@ -85,7 +85,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210216T13:40:33Z | Facebook for Android is prone to an information-disclosure vulnerability.  Successful exploits allows an attacker to gain access to sensitive information. Information obtained may aid in further attacks.  Facebook for Android 1.8.1 is vulnerable; other versions may also be affected. | https://github.com/No-Cellist-7780/Facebook-LoginActivity | 0 | 0| 
+| 20210216T13:44:07Z | Facebook for Android is prone to an information-disclosure vulnerability.  Successful exploits allows an attacker to gain access to sensitive information. Information obtained may aid in further attacks.  Facebook for Android 1.8.1 is vulnerable; other versions may also be affected. | https://github.com/No-Cellist-7780/Facebook-LoginActivity | 0 | 0| 
+| 20210216T13:43:49Z | Advisories, proof of concept files and exploits that have been made public by @pedrib. | https://github.com/pedrib/PoC | 362 | 92| 
 | 20210216T13:31:02Z | Null | https://github.com/HackToHell/test_exploit | 0 | 0| 
 | 20210216T13:27:43Z | Various ASM, C and C++ tools, shellcodes and exploit experiments. | https://github.com/forrest-orr/ExploitDev | 51 | 5| 
 | 20210216T13:24:12Z | Null | https://github.com/StyxExploit/StyxExploit | 0 | 0| 
@@ -94,13 +95,12 @@
 | 20210216T12:41:51Z | courses, exploits and lots of code, as i am currently preparing for this exam, i will keep updating everthing i learned or coded here | https://github.com/kainesmicheal/OSWE | 1 | 1| 
 | 20210216T12:20:33Z | This bash script will help you to hack remote hosts  | https://github.com/FabioDefilippo/linuxallremote | 6 | 1| 
 | 20210216T12:02:41Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 9 | 4| 
-| 20210216T10:49:28Z | The Browser Exploitation Framework Project | https://github.com/beefproject/beef | 5512 | 1326| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210216T13:42:29Z | An AWS Pentesting tool that lets you use one-liner commands to backdoor an AWS account%s resources with a rogue AWS account - or share the resources with the entire internet 😈 | https://github.com/salesforce/endgame | 1 | 2| 
+| 20210216T13:43:04Z | An AWS Pentesting tool that lets you use one-liner commands to backdoor an AWS account%s resources with a rogue AWS account - or share the resources with the entire internet 😈 | https://github.com/salesforce/endgame | 1 | 2| 
 | 20210216T11:22:53Z | Null | https://github.com/cirrrr/backdoor-keyword-identification | 0 | 0| 
 | 20210216T10:20:06Z | Null | https://github.com/wrongsid3/Cpp-Reverse-Shell-Backdoor | 1 | 0| 
 | 20210216T08:59:37Z | Null | https://github.com/miclay0260/backdoor | 0 | 0| 
