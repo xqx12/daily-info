@@ -20,8 +20,8 @@
 | --- | --- | --- | --- | ---| 
 | 20210216T11:15:41Z | CVE-2020-8638 | Null | https://github.com/DXY0411/CVE-2020-8638 | A SQL injection vulnerability in TestLink 1.9.20 allows attackers to execute arbitrary SQL commands in planUrgency.php via the urgency parameter.| 
 | 20210216T11:04:06Z | CVE-2021-26700 | RCE in NPM VSCode Extention | https://github.com/jackadamson/CVE-2021-26700 | 未查询到CVE信息| 
-| 20210216T09:45:18Z | cve-2020-8165 | Null | https://github.com/danielklim/cve-2020-8165-demo | | 
-| 20210216T09:44:38Z | CVE-2021-24085 | Null | https://github.com/sourceincite/CVE-2021-24085 | | 
+| 20210216T09:45:18Z | cve-2020-8165 | Null | https://github.com/danielklim/cve-2020-8165-demo | 未查询到CVE信息| 
+| 20210216T09:44:38Z | CVE-2021-24085 | Null | https://github.com/sourceincite/CVE-2021-24085 | 未查询到CVE信息| 
 
 
 # klee on Github 推荐
@@ -44,7 +44,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210216T13:35:04Z | Facebook for Android is prone to an information-disclosure vulnerability.  Successful exploits allows an attacker to gain access to sensitive information. Information obtained may aid in further attacks.  Facebook for Android 1.8.1 is vulnerable; other versions may also be affected. | https://github.com/No-Cellist-7780/Facebook-LoginActivity | 0 | 0| 
+| 20210216T13:38:41Z | Facebook for Android is prone to an information-disclosure vulnerability.  Successful exploits allows an attacker to gain access to sensitive information. Information obtained may aid in further attacks.  Facebook for Android 1.8.1 is vulnerable; other versions may also be affected. | https://github.com/No-Cellist-7780/Facebook-LoginActivity | 0 | 0| 
 | 20210216T13:31:02Z | Null | https://github.com/HackToHell/test_exploit | 0 | 0| 
 | 20210216T13:27:43Z | Various ASM, C and C++ tools, shellcodes and exploit experiments. | https://github.com/forrest-orr/ExploitDev | 51 | 5| 
 | 20210216T13:24:12Z | Null | https://github.com/StyxExploit/StyxExploit | 0 | 0| 
