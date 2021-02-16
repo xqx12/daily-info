@@ -85,7 +85,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210216T02:37:04Z | An attempt to utilize the KindleDrip exploit to jailbreak Kindles. | https://github.com/simonpacis/DripBreak | 0 | 0| 
+| 20210216T02:40:31Z | An attempt to utilize the KindleDrip exploit to jailbreak Kindles. | https://github.com/simonpacis/DripBreak | 0 | 0| 
 | 20210216T02:34:16Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 9 | 4| 
 | 20210216T02:30:18Z | python | https://github.com/1337xxx/Bof-exploit | 0 | 0| 
 | 20210216T02:20:46Z | Extra goodies for GEF: Open repository for unfiltered contributions to the project. | https://github.com/hugsy/gef-extras | 50 | 24| 
