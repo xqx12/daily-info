@@ -38,16 +38,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210217T02:15:20Z | A phased, evasive Path Traversal + LFI scanning & exploitation tool in Python | https://github.com/VainlyStrain/Vailyn | 95 | 4| 
-| 20210217T02:02:45Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 9 | 4| 
-| 20210217T01:46:58Z | GhostPing Exploit no patched | https://github.com/Monst3red/GhostPing-Exploit | 0 | 1| 
-| 20210217T01:44:36Z | Zerologon Check and Exploit - Discovered by Tom Tervoort of Secura and expanded on @Dirkjanm%s cve-2020-1472 coded example | https://github.com/sho-luv/zerologon | 1 | 0| 
-| 20210217T01:39:41Z | Windows exploitation and customization tool. Under development. | https://github.com/coredoescode/c0deblack | 0 | 0| 
-| 20210217T01:23:39Z | Essa exploit localiza um número, retorna operadora é estado. | https://github.com/igorsouza60/locazila_numero | 0 | 0| 
-| 20210217T01:10:34Z | local aux = {}  local getGc = getgc local getInfo = debug.getinfo or getinfo local getUpvalue = debug.getupvalue or getupvalue or getupval local getConstants = debug.getconstants or getconstants or getconsts local isXClosure = is_synapse_function or issentinelclosure or is_protosmasher_closure or is_sirhurt_closure or checkclosure local isLClosure = islclosure or is_l_closure or (iscclosure and function(f) return not iscclosure(f) end)  assert(getGc and getInfo and getConstants and isXClosure, %Your exploit is not supported%)  local function matchConstants(closure, list)     if not list then         return true     end          local constants = getConstants(closure)          for index in pairs(list) do         if not constants[index] then             return false         end     end          return true end  local function searchClosure(script, name, upvalueIndex, constants)     for _i, v in pairs(getGc()) do         local parentScript = rawget(getfenv(v), %script%)          if type(v) == %function% and              isLClosure(v) and              not isXClosure(v) and              (                 (script == nil and parentScript.Parent == nil) or script == parentScript             )              and pcall(getUpvalue, v, upvalueIndex)         then             if ((name and name ~= %Unnamed function%) and getInfo(v).name == name) and matchConstants(v, constants) then                 return v             elseif (not name or name == %Unnamed function%) and matchConstants(v, constants) then                 return v             end         end     end end  aux.searchClosure = searchClosure  return aux | https://github.com/corpes45/kik | 0 | 0| 
-| 20210217T01:00:32Z | Various ASM, C and C++ tools, shellcodes and exploit experiments. | https://github.com/forrest-orr/ExploitDev | 51 | 5| 
-| 20210217T00:57:38Z | Null | https://github.com/nobelherrrera/wx-exploit-suggester-py2 | 0 | 0| 
-| 20210217T00:56:56Z | Null | https://github.com/nobelherrrera/win-exploit-suggester-py-2 | 0 | 0| 
+| 20210217T13:02:32Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 9 | 4| 
+| 20210217T13:00:45Z | The problem instances (CNF) used to evaluate SymGANAK, a model counter introduced in AAAI2021 that exploits symmetry | https://github.com/VincentDerk/Paper-SymGANAK-benchmark | 0 | 0| 
+| 20210217T12:50:07Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 7 | 4| 
+| 20210217T12:44:57Z | An advanced GTA Online mod menu base using multiple private (now public) exploits. | https://github.com/TeamPenisBase/PenisBase | 0 | 0| 
+| 20210217T12:38:53Z | Awesome Archives of GSM Exploits | https://github.com/NyxxNott/awesome-analysis-GSM | 0 | 0| 
+| 20210217T12:36:37Z | Scripts used whilst learning exploit dev | https://github.com/khushv/exploit_dev | 0 | 0| 
+| 20210217T12:00:38Z | Awesome Archives of 2G Exploits | https://github.com/NyxxNott/aweome-5G-exploits | 0 | 0| 
+| 20210217T11:35:15Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9013 | 1452| 
+| 20210217T11:19:24Z | Search for Unix binaries that can be exploited to bypass system security restrictions. | https://github.com/t0thkr1s/gtfo | 72 | 14| 
+| 20210217T11:17:35Z | Null | https://github.com/statooin/exploits | 0 | 0| 
 
 
 # backdoor on Github 推荐
@@ -61,6 +61,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210217T12:51:58Z | Null | https://github.com/s9varesc/url-fuzzing | 0 | 0| 
+| 20210217T12:49:37Z | story book | https://github.com/abhishekkam077/fuzzy-carnival | 0 | 0| 
+| 20210217T12:49:26Z | Data with augmentation and bugs tricks | https://github.com/Kostr0min/fuzzy_data | 0 | 0| 
+| 20210217T12:35:57Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 1304 | 287| 
+| 20210217T12:27:42Z | Null | https://github.com/AR-cyber534/fuzzy-disco | 0 | 0| 
+| 20210217T12:22:28Z | Null | https://github.com/RiaGohel/FuzzyBlog | 0 | 0| 
+| 20210217T12:17:23Z | Open Enclave specific security automation projects (CodeQL static analysis, Fuzzing and binary analysis). | https://github.com/openenclave/openenclave-security | 1 | 2| 
+| 20210217T12:08:25Z | Null | https://github.com/erdifajarf/PMDK_FuzzyAHP | 0 | 0| 
+| 20210217T11:52:08Z | Null | https://github.com/loota/fuzz | 0 | 0| 
+| 20210217T11:21:36Z | Null | https://github.com/FuzzyFade/FuzzyFade | 0 | 0| 
 
 
 

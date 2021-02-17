@@ -54,7 +54,7 @@
 | 20210216T17:47:46Z | CVE-2021-1782 | Null | https://github.com/synacktiv/CVE-2021-1782 | 未查询到CVE信息| 
 | 20210216T16:59:13Z | CVE-2020-8637 | Null | https://github.com/DXY0411/CVE-2020-8637 | A SQL injection vulnerability in TestLink 1.9.20 allows attackers to execute arbitrary SQL commands in dragdroptreenodes.php via the node_id parameter.| 
 | 20210216T11:15:41Z | CVE-2020-8638 | Null | https://github.com/DXY0411/CVE-2020-8638 | A SQL injection vulnerability in TestLink 1.9.20 allows attackers to execute arbitrary SQL commands in planUrgency.php via the urgency parameter.| 
-| 20210215T23:46:59Z | CVE-2021-27190 | Null | https://github.com/anmolksachan/CVE-2021-27190-PEEL-Shopping-cart-9.3.0-Stored-XSS | | 
+| 20210215T23:46:59Z | CVE-2021-27190 | Null | https://github.com/anmolksachan/CVE-2021-27190-PEEL-Shopping-cart-9.3.0-Stored-XSS | A Stored Cross Site Scripting(XSS) Vulnerability was discovered in PEEL SHOPPING 9.3.0 which is publicly available. The user supplied input containing polyglot payload is echoed back in javascript code in HTML response. This allows an attacker to input malicious JavaScript which can steal cookie, redirect them to other malicious website, etc.| 
 | 20210215T18:49:44Z | CVE-2021-26121 | Null | https://github.com/sourceincite/CVE-2021-26121 | 未查询到CVE信息| 
 
 
@@ -85,16 +85,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210217T02:15:20Z | A phased, evasive Path Traversal + LFI scanning & exploitation tool in Python | https://github.com/VainlyStrain/Vailyn | 95 | 4| 
-| 20210217T02:02:45Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 9 | 4| 
-| 20210217T01:46:58Z | GhostPing Exploit no patched | https://github.com/Monst3red/GhostPing-Exploit | 0 | 1| 
-| 20210217T01:44:36Z | Zerologon Check and Exploit - Discovered by Tom Tervoort of Secura and expanded on @Dirkjanm%s cve-2020-1472 coded example | https://github.com/sho-luv/zerologon | 1 | 0| 
-| 20210217T01:39:41Z | Windows exploitation and customization tool. Under development. | https://github.com/coredoescode/c0deblack | 0 | 0| 
-| 20210217T01:23:39Z | Essa exploit localiza um número, retorna operadora é estado. | https://github.com/igorsouza60/locazila_numero | 0 | 0| 
-| 20210217T01:10:34Z | local aux = {}  local getGc = getgc local getInfo = debug.getinfo or getinfo local getUpvalue = debug.getupvalue or getupvalue or getupval local getConstants = debug.getconstants or getconstants or getconsts local isXClosure = is_synapse_function or issentinelclosure or is_protosmasher_closure or is_sirhurt_closure or checkclosure local isLClosure = islclosure or is_l_closure or (iscclosure and function(f) return not iscclosure(f) end)  assert(getGc and getInfo and getConstants and isXClosure, %Your exploit is not supported%)  local function matchConstants(closure, list)     if not list then         return true     end          local constants = getConstants(closure)          for index in pairs(list) do         if not constants[index] then             return false         end     end          return true end  local function searchClosure(script, name, upvalueIndex, constants)     for _i, v in pairs(getGc()) do         local parentScript = rawget(getfenv(v), %script%)          if type(v) == %function% and              isLClosure(v) and              not isXClosure(v) and              (                 (script == nil and parentScript.Parent == nil) or script == parentScript             )              and pcall(getUpvalue, v, upvalueIndex)         then             if ((name and name ~= %Unnamed function%) and getInfo(v).name == name) and matchConstants(v, constants) then                 return v             elseif (not name or name == %Unnamed function%) and matchConstants(v, constants) then                 return v             end         end     end end  aux.searchClosure = searchClosure  return aux | https://github.com/corpes45/kik | 0 | 0| 
-| 20210217T01:00:32Z | Various ASM, C and C++ tools, shellcodes and exploit experiments. | https://github.com/forrest-orr/ExploitDev | 51 | 5| 
-| 20210217T00:57:38Z | Null | https://github.com/nobelherrrera/wx-exploit-suggester-py2 | 0 | 0| 
-| 20210217T00:56:56Z | Null | https://github.com/nobelherrrera/win-exploit-suggester-py-2 | 0 | 0| 
+| 20210217T13:02:32Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 9 | 4| 
+| 20210217T13:00:45Z | The problem instances (CNF) used to evaluate SymGANAK, a model counter introduced in AAAI2021 that exploits symmetry | https://github.com/VincentDerk/Paper-SymGANAK-benchmark | 0 | 0| 
+| 20210217T12:50:07Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 7 | 4| 
+| 20210217T12:44:57Z | An advanced GTA Online mod menu base using multiple private (now public) exploits. | https://github.com/TeamPenisBase/PenisBase | 0 | 0| 
+| 20210217T12:38:53Z | Awesome Archives of GSM Exploits | https://github.com/NyxxNott/awesome-analysis-GSM | 0 | 0| 
+| 20210217T12:36:37Z | Scripts used whilst learning exploit dev | https://github.com/khushv/exploit_dev | 0 | 0| 
+| 20210217T12:00:38Z | Awesome Archives of 2G Exploits | https://github.com/NyxxNott/aweome-5G-exploits | 0 | 0| 
+| 20210217T11:35:15Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9013 | 1452| 
+| 20210217T11:19:24Z | Search for Unix binaries that can be exploited to bypass system security restrictions. | https://github.com/t0thkr1s/gtfo | 72 | 14| 
+| 20210217T11:17:35Z | Null | https://github.com/statooin/exploits | 0 | 0| 
 
 
 # backdoor on Github 推荐
@@ -115,16 +115,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210216T13:02:33Z | Null | https://github.com/s9varesc/url-fuzzing | 0 | 0| 
-| 20210216T12:58:04Z | Null | https://github.com/hsoon01/fuzzy-goggles | 0 | 0| 
-| 20210216T12:39:27Z | todo-list | https://github.com/atuonufure/react-fuzzy-meme | 0 | 0| 
-| 20210216T12:19:25Z | Security oriented software fuzzer. Supports evolutionary, feedback-driven fuzzing based on code coverage (SW and HW based) | https://github.com/google/honggfuzz | 2132 | 434| 
-| 20210216T12:01:16Z | A fuzzer that generates random Go programs | https://github.com/ALTree/microsmith | 6 | 0| 
-| 20210216T11:35:01Z | PoC of fuzzing closed-source userspace binaries with KVM | https://github.com/klecko/kvm-fuzz | 0 | 0| 
-| 20210216T11:32:29Z | Towards fuzzing ROS 2 automatically | https://github.com/JnxF/automatic_fuzzing | 0 | 0| 
-| 20210216T11:01:38Z | A project to learn Python and work with FuzzyLogic | https://github.com/matijsbrs/FuzzyPython | 0 | 0| 
-| 20210216T10:21:06Z | Null | https://github.com/is0263rf/fuzzy-spoon | 0 | 0| 
-| 20210216T06:13:58Z | Null | https://github.com/vasumv/bonsai-fuzzing | 0 | 0| 
+| 20210217T12:51:58Z | Null | https://github.com/s9varesc/url-fuzzing | 0 | 0| 
+| 20210217T12:49:37Z | story book | https://github.com/abhishekkam077/fuzzy-carnival | 0 | 0| 
+| 20210217T12:49:26Z | Data with augmentation and bugs tricks | https://github.com/Kostr0min/fuzzy_data | 0 | 0| 
+| 20210217T12:35:57Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 1304 | 287| 
+| 20210217T12:27:42Z | Null | https://github.com/AR-cyber534/fuzzy-disco | 0 | 0| 
+| 20210217T12:22:28Z | Null | https://github.com/RiaGohel/FuzzyBlog | 0 | 0| 
+| 20210217T12:17:23Z | Open Enclave specific security automation projects (CodeQL static analysis, Fuzzing and binary analysis). | https://github.com/openenclave/openenclave-security | 1 | 2| 
+| 20210217T12:08:25Z | Null | https://github.com/erdifajarf/PMDK_FuzzyAHP | 0 | 0| 
+| 20210217T11:52:08Z | Null | https://github.com/loota/fuzz | 0 | 0| 
+| 20210217T11:21:36Z | Null | https://github.com/FuzzyFade/FuzzyFade | 0 | 0| 
 
 
 
