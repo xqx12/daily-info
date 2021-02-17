@@ -21,7 +21,7 @@
 | 20210216T22:46:47Z | CVE-2021-26700 | RCE in NPM VSCode Extention | https://github.com/jackadamson/CVE-2021-26700 | 未查询到CVE信息| 
 | 20210216T20:37:30Z | cve-2020-8165 | Null | https://github.com/danielklim/cve-2020-8165-demo | 未查询到CVE信息| 
 | 20210216T20:36:58Z | CVE-2021-24085 | Null | https://github.com/sourceincite/CVE-2021-24085 | 未查询到CVE信息| 
-| 20210216T19:09:52Z | CVE-2021-1727 | Null | https://github.com/klinix5/CVE-2021-1727 | | 
+| 20210216T19:09:52Z | CVE-2021-1727 | Null | https://github.com/klinix5/CVE-2021-1727 | 未查询到CVE信息| 
 | 20210216T17:47:46Z | CVE-2021-1782 | Null | https://github.com/synacktiv/CVE-2021-1782 | 未查询到CVE信息| 
 | 20210216T16:59:13Z | CVE-2020-8637 | Null | https://github.com/DXY0411/CVE-2020-8637 | A SQL injection vulnerability in TestLink 1.9.20 allows attackers to execute arbitrary SQL commands in dragdroptreenodes.php via the node_id parameter.| 
 | 20210216T11:15:41Z | CVE-2020-8638 | Null | https://github.com/DXY0411/CVE-2020-8638 | A SQL injection vulnerability in TestLink 1.9.20 allows attackers to execute arbitrary SQL commands in planUrgency.php via the urgency parameter.| 
@@ -32,7 +32,6 @@
 | --- | --- | --- | --- | ---| 
 | 20210216T20:46:22Z | Null | https://github.com/mitchklee35/MitchKlee.com | 0 | 0| 
 | 20210216T18:37:20Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1630 | 483| 
-| 20210216T17:50:39Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 的 Klee One 的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 55 | 3| 
 | 20210216T16:13:16Z | C library to support Map2Check Tool | https://github.com/hbgit/map2check-library | 0 | 0| 
 | 20210216T13:18:09Z | Null | https://github.com/LitRHap/klee-bot | 0 | 0| 
 | 20210216T13:15:13Z | Null | https://github.com/LitRHap/klee | 0 | 0| 
