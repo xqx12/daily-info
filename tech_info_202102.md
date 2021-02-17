@@ -85,6 +85,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210217T13:35:54Z | Windows exploitation and customization tool. Under development. | https://github.com/coredoescode/c0deblack | 0 | 0| 
 | 20210217T13:25:35Z | An advanced GTA Online mod menu base using multiple private (now public) exploits. | https://github.com/TeamPenisBase/PenisBase | 0 | 0| 
 | 20210217T13:12:46Z | This bash script will help you to hack remote hosts  | https://github.com/FabioDefilippo/linuxallremote | 6 | 1| 
 | 20210217T13:12:28Z | courses, exploits and lots of code, as i am currently preparing for this exam, i will keep updating everthing i learned or coded here | https://github.com/kainesmicheal/OSWE | 1 | 1| 
@@ -94,7 +95,6 @@
 | 20210217T13:00:45Z | The problem instances (CNF) used to evaluate SymGANAK, a model counter introduced in AAAI2021 that exploits symmetry | https://github.com/VincentDerk/Paper-SymGANAK-benchmark | 0 | 0| 
 | 20210217T12:50:07Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 7 | 4| 
 | 20210217T12:38:53Z | Awesome Archives of GSM Exploits | https://github.com/NyxxNott/awesome-analysis-GSM | 0 | 0| 
-| 20210217T12:36:37Z | Scripts used whilst learning exploit dev | https://github.com/khushv/exploit_dev | 0 | 0| 
 
 
 # backdoor on Github 推荐
