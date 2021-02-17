@@ -54,7 +54,7 @@
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
 | 20210217T13:41:59Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 166 | 25| 
-| 20210217T12:51:15Z | An AWS Pentesting tool that lets you use one-liner commands to backdoor an AWS account%s resources with a rogue AWS account - or share the resources with the entire internet 😈 | https://github.com/brandongalbraith/endgame | 35 | 273| 
+| 20210217T12:51:15Z | An AWS Pentesting tool that lets you use one-liner commands to backdoor an AWS account%s resources with a rogue AWS account - or share the resources with the entire internet 😈 | https://github.com/brandongalbraith/endgame | 35 | 274| 
 | 20210217T12:49:18Z | Null | https://github.com/miclay0260/backdoor | 0 | 0| 
 | 20210217T12:35:40Z | Null | https://github.com/Wiilldd/backdoor | 0 | 0| 
 | 20210217T11:43:13Z | Backdoor Has Been Removed From This Shell | https://github.com/orionhridoy/wso-without-backdoor | 0 | 0| 
