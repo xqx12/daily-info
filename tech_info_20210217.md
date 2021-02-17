@@ -19,7 +19,7 @@
 | --- | --- | --- | --- | ---| 
 | 20210217T12:03:28Z | CVE-2021-1727 | Null | https://github.com/klinix5/CVE-2021-1727 | 未查询到CVE信息| 
 | 20210217T11:43:43Z | CVE-2021-24085 | Null | https://github.com/sourceincite/CVE-2021-24085 | 未查询到CVE信息| 
-| 20210217T10:59:58Z | CVE-2021-26700 | RCE in NPM VSCode Extention | https://github.com/jackadamson/CVE-2021-26700 | 未查询到CVE信息| 
+| 20210217T10:59:58Z | CVE-2021-26700 | RCE in NPM VSCode Extention | https://github.com/jackadamson/CVE-2021-26700 | | 
 | 20210217T09:23:59Z | CVE-2020-7247 | OpenSMTPD 6.4.0 - 6.6.1 Remote Code Execution PoC exploit | https://github.com/QTranspose/CVE-2020-7247-exploit | smtp_mailaddr in smtp_session.c in OpenSMTPD 6.6, as used in OpenBSD 6.6 and other products, allows remote attackers to execute arbitrary commands as root via a crafted SMTP session, as demonstrated by shell metacharacters in a MAIL FROM field. This affects the %uncommented% default configuration. The issue exists because of an incorrect return value upon failure of input validation.| 
 
 
@@ -53,6 +53,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210217T13:40:46Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 166 | 25| 
 | 20210217T12:51:15Z | An AWS Pentesting tool that lets you use one-liner commands to backdoor an AWS account%s resources with a rogue AWS account - or share the resources with the entire internet 😈 | https://github.com/brandongalbraith/endgame | 35 | 272| 
 | 20210217T12:49:18Z | Null | https://github.com/miclay0260/backdoor | 0 | 0| 
 | 20210217T12:35:40Z | Null | https://github.com/Wiilldd/backdoor | 0 | 0| 
@@ -62,7 +63,6 @@
 | 20210217T09:10:46Z | A multi functional rat, that firstly will be a simple backdoor | https://github.com/K1DR4T/BETA---R4T | 0 | 0| 
 | 20210217T08:46:27Z | Neural networks for the Fooling a Complete Neural Network Verifier paper (ICLR 2021) | https://github.com/szegedai/nn_backdoor | 0 | 0| 
 | 20210217T07:05:05Z | Null | https://github.com/VinAIResearch/Warping-based_Backdoor_Attack-release | 0 | 0| 
-| 20210217T06:38:44Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 166 | 25| 
 
 
 # fuzz on Github 推荐
