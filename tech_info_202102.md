@@ -46,7 +46,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20210216T22:46:47Z | CVE-2021-26700 | RCE in NPM VSCode Extention | https://github.com/jackadamson/CVE-2021-26700 | 未查询到CVE信息| 
+| 20210216T22:46:47Z | CVE-2021-26700 | RCE in NPM VSCode Extention | https://github.com/jackadamson/CVE-2021-26700 | | 
 | 20210216T20:37:30Z | cve-2020-8165 | Null | https://github.com/danielklim/cve-2020-8165-demo | 未查询到CVE信息| 
 | 20210216T20:36:58Z | CVE-2021-24085 | Null | https://github.com/sourceincite/CVE-2021-24085 | 未查询到CVE信息| 
 | 20210216T19:09:52Z | CVE-2021-1727 | Null | https://github.com/klinix5/CVE-2021-1727 | 未查询到CVE信息| 
@@ -54,7 +54,7 @@
 | 20210216T16:59:13Z | CVE-2020-8637 | Null | https://github.com/DXY0411/CVE-2020-8637 | A SQL injection vulnerability in TestLink 1.9.20 allows attackers to execute arbitrary SQL commands in dragdroptreenodes.php via the node_id parameter.| 
 | 20210216T11:15:41Z | CVE-2020-8638 | Null | https://github.com/DXY0411/CVE-2020-8638 | A SQL injection vulnerability in TestLink 1.9.20 allows attackers to execute arbitrary SQL commands in planUrgency.php via the urgency parameter.| 
 | 20210215T23:46:59Z | CVE-2021-27190 | Null | https://github.com/anmolksachan/CVE-2021-27190-PEEL-Shopping-cart-9.3.0-Stored-XSS | A Stored Cross Site Scripting(XSS) Vulnerability was discovered in PEEL SHOPPING 9.3.0 which is publicly available. The user supplied input containing polyglot payload is echoed back in javascript code in HTML response. This allows an attacker to input malicious JavaScript which can steal cookie, redirect them to other malicious website, etc.| 
-| 20210215T18:49:44Z | CVE-2021-26121 | Null | https://github.com/sourceincite/CVE-2021-26121 | 未查询到CVE信息| 
+| 20210215T18:49:44Z | CVE-2021-26121 | Null | https://github.com/sourceincite/CVE-2021-26121 | | 
 | 20210215T09:25:48Z | CVE-2020-36109 | PoC DoS CVE-2020-36109 | https://github.com/tin-z/CVE-2020-36109-POC | ASUS RT-AX86U router firmware below version under 9.0.0.4_386 has a buffer overflow in the blocking_request.cgi function of the httpd module that can cause code execution when an attacker constructs malicious data.| 
 
 
@@ -85,6 +85,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210217T01:10:34Z | local aux = {}  local getGc = getgc local getInfo = debug.getinfo or getinfo local getUpvalue = debug.getupvalue or getupvalue or getupval local getConstants = debug.getconstants or getconstants or getconsts local isXClosure = is_synapse_function or issentinelclosure or is_protosmasher_closure or is_sirhurt_closure or checkclosure local isLClosure = islclosure or is_l_closure or (iscclosure and function(f) return not iscclosure(f) end)  assert(getGc and getInfo and getConstants and isXClosure, %Your exploit is not supported%)  local function matchConstants(closure, list)     if not list then         return true     end          local constants = getConstants(closure)          for index in pairs(list) do         if not constants[index] then             return false         end     end          return true end  local function searchClosure(script, name, upvalueIndex, constants)     for _i, v in pairs(getGc()) do         local parentScript = rawget(getfenv(v), %script%)          if type(v) == %function% and              isLClosure(v) and              not isXClosure(v) and              (                 (script == nil and parentScript.Parent == nil) or script == parentScript             )              and pcall(getUpvalue, v, upvalueIndex)         then             if ((name and name ~= %Unnamed function%) and getInfo(v).name == name) and matchConstants(v, constants) then                 return v             elseif (not name or name == %Unnamed function%) and matchConstants(v, constants) then                 return v             end         end     end end  aux.searchClosure = searchClosure  return aux | https://github.com/corpes45/kik | 0 | 0| 
 | 20210217T01:02:41Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 9 | 4| 
 | 20210217T01:00:32Z | Various ASM, C and C++ tools, shellcodes and exploit experiments. | https://github.com/forrest-orr/ExploitDev | 51 | 5| 
 | 20210217T00:57:38Z | Null | https://github.com/nobelherrrera/wx-exploit-suggester-py2 | 0 | 0| 
@@ -94,7 +95,6 @@
 | 20210217T00:38:21Z | A way to get fake followers on Clubhouse | https://github.com/Epokhe/clubhouse-follow-exploit | 1 | 0| 
 | 20210217T00:36:12Z | Portfolio of personal exploits and professional feats | https://github.com/JoeDonMalone/Homework_12192020_Week2 | 0 | 0| 
 | 20210217T00:08:49Z | Shape-from-Template (SfT) solves 3D vision from a single image and a deformable 3D object model, called a template. Concretely, SfT computes registration (the correspondence between the template and the image) and reconstruction (the depth in camera frame). It constrains the object deformation to quasi-isometry. Real-time and automatic SfT represents an open problem for complex objects and imaging conditions. We present four contributions to address core unmet challenges to realise SfT with a Deep Neural Network (DNN). First, we propose a novel DNN called DeepSfT, which encodes the template in its weights and hence copes with highly complex templates. Second, we propose a semi-supervised training procedure to exploit real data. This is a practical solution to overcome the render gap that occurs when training only with simulated data. Third, we propose a geometry adaptation module to deal with different cameras at training and inference. Fourth, we combine statistical learning with physics-based reasoning. DeepSfT runs automatically and in real-time and we show with numerous experiments and an ablation study that it consistently achieves a lower 3D error than previous work. It outperforms in generalisation and achieves an unprecedented performance with wide-baseline, occlusions, illumination changes, weak texture and blur. | https://github.com/lehommee/Deep-Shape-from-Template | 0 | 0| 
-| 20210216T23:18:15Z | A collection of information, tools, and exploits for TI-Nspire calculators. | https://github.com/parrotgeek1/TI-Nspire | 21 | 2| 
 
 
 # backdoor on Github 推荐
