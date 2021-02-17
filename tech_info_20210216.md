@@ -19,7 +19,7 @@
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
 | 20210216T22:46:47Z | CVE-2021-26700 | RCE in NPM VSCode Extention | https://github.com/jackadamson/CVE-2021-26700 | 未查询到CVE信息| 
-| 20210216T20:37:30Z | cve-2020-8165 | Null | https://github.com/danielklim/cve-2020-8165-demo | 未查询到CVE信息| 
+| 20210216T20:37:30Z | cve-2020-8165 | Null | https://github.com/danielklim/cve-2020-8165-demo | | 
 | 20210216T20:36:58Z | CVE-2021-24085 | Null | https://github.com/sourceincite/CVE-2021-24085 | 未查询到CVE信息| 
 | 20210216T19:09:52Z | CVE-2021-1727 | Null | https://github.com/klinix5/CVE-2021-1727 | 未查询到CVE信息| 
 | 20210216T17:47:46Z | CVE-2021-1782 | Null | https://github.com/synacktiv/CVE-2021-1782 | 未查询到CVE信息| 
@@ -50,7 +50,6 @@
 | --- | --- | --- | --- | ---| 
 | 20210216T23:18:15Z | A collection of information, tools, and exploits for TI-Nspire calculators. | https://github.com/parrotgeek1/TI-Nspire | 21 | 2| 
 | 20210216T23:16:22Z | Estimating tumor fraction by exploiting the off-target reads from targeted DNA sequencing. | https://github.com/GavinHaLab/ichorCNA_offtarget | 1 | 4| 
-| 20210216T23:01:41Z | A phased, evasive Path Traversal + LFI scanning & exploitation tool in Python | https://github.com/VainlyStrain/Vailyn | 95 | 4| 
 | 20210216T22:46:01Z | Exploits project Hacking Command Center | https://github.com/chacka0101/exploits | 3 | 6| 
 | 20210216T22:09:30Z | Exploits a simple WebRCE and supports PTY upgrade, Bind- and ReveseShells, File Up- and Download | https://github.com/61106960/ForwardShell | 1 | 1| 
 | 20210216T21:53:03Z | https://b4ckdoorarchive.club/   HERE THE FIRST FREE BIGGEST AND VIRUS CLEAN ARCHIVE WHERE DOWNLOAD ANY MALWARE & LOTS OF FILES LIKE EXPLOIT,SOURCE CODE,ANDROID,WINDOWS THINGS, ALL YOU NEED HERE FOR FREE. IM TIRED OF ALL PEOPLE TAKE MY FILES AND OPEN HERE A REPOSITORY WITH MY FILES. SO I LINK MY BIGGEST FREE-DOWNLOAD ARCHIVE TO ALL ! | https://github.com/B4ckdoor/Mirai-Botnet-private-tools-exploit-download-2021 | 1 | 0| 
@@ -58,6 +57,7 @@
 | 20210216T21:08:30Z | This bash script will help you to hack remote hosts  | https://github.com/FabioDefilippo/linuxallremote | 6 | 1| 
 | 20210216T20:46:31Z | Exploit for the RpcEptMapper registry key permissions vulnerability (Windows 7 / 2088R2 / 8 / 2012) | https://github.com/itm4n/Perfusion | 177 | 21| 
 | 20210216T20:36:42Z | Plots and Analyses Lake Exploitation Acoustic Detection Data | https://github.com/poissonconsulting/lexr | 1 | 0| 
+| 20210216T20:18:30Z | CTF framework and exploit development library | https://github.com/Gallopsled/pwntools | 7538 | 1351| 
 
 
 # backdoor on Github 推荐
