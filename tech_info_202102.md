@@ -85,13 +85,13 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210217T02:02:45Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 9 | 4| 
 | 20210217T01:59:38Z | A phased, evasive Path Traversal + LFI scanning & exploitation tool in Python | https://github.com/VainlyStrain/Vailyn | 95 | 4| 
 | 20210217T01:46:58Z | GhostPing Exploit no patched | https://github.com/Monst3red/GhostPing-Exploit | 0 | 0| 
 | 20210217T01:44:36Z | Zerologon Check and Exploit - Discovered by Tom Tervoort of Secura and expanded on @Dirkjanm%s cve-2020-1472 coded example | https://github.com/sho-luv/zerologon | 1 | 0| 
 | 20210217T01:39:41Z | Windows exploitation and customization tool. Under development. | https://github.com/coredoescode/c0deblack | 0 | 0| 
 | 20210217T01:23:39Z | Essa exploit localiza um número, retorna operadora é estado. | https://github.com/igorsouza60/locazila_numero | 0 | 0| 
 | 20210217T01:10:34Z | local aux = {}  local getGc = getgc local getInfo = debug.getinfo or getinfo local getUpvalue = debug.getupvalue or getupvalue or getupval local getConstants = debug.getconstants or getconstants or getconsts local isXClosure = is_synapse_function or issentinelclosure or is_protosmasher_closure or is_sirhurt_closure or checkclosure local isLClosure = islclosure or is_l_closure or (iscclosure and function(f) return not iscclosure(f) end)  assert(getGc and getInfo and getConstants and isXClosure, %Your exploit is not supported%)  local function matchConstants(closure, list)     if not list then         return true     end          local constants = getConstants(closure)          for index in pairs(list) do         if not constants[index] then             return false         end     end          return true end  local function searchClosure(script, name, upvalueIndex, constants)     for _i, v in pairs(getGc()) do         local parentScript = rawget(getfenv(v), %script%)          if type(v) == %function% and              isLClosure(v) and              not isXClosure(v) and              (                 (script == nil and parentScript.Parent == nil) or script == parentScript             )              and pcall(getUpvalue, v, upvalueIndex)         then             if ((name and name ~= %Unnamed function%) and getInfo(v).name == name) and matchConstants(v, constants) then                 return v             elseif (not name or name == %Unnamed function%) and matchConstants(v, constants) then                 return v             end         end     end end  aux.searchClosure = searchClosure  return aux | https://github.com/corpes45/kik | 0 | 0| 
-| 20210217T01:02:41Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 9 | 4| 
 | 20210217T01:00:32Z | Various ASM, C and C++ tools, shellcodes and exploit experiments. | https://github.com/forrest-orr/ExploitDev | 51 | 5| 
 | 20210217T00:57:38Z | Null | https://github.com/nobelherrrera/wx-exploit-suggester-py2 | 0 | 0| 
 | 20210217T00:56:56Z | Null | https://github.com/nobelherrrera/win-exploit-suggester-py-2 | 0 | 0| 
@@ -100,7 +100,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210217T01:48:16Z | An AWS Pentesting tool that lets you use one-liner commands to backdoor an AWS account%s resources with a rogue AWS account - or share the resources with the entire internet 😈 | https://github.com/hirajanwin/endgame | 23 | 164| 
+| 20210217T02:02:04Z | An AWS Pentesting tool that lets you use one-liner commands to backdoor an AWS account%s resources with a rogue AWS account - or share the resources with the entire internet 😈 | https://github.com/hirajanwin/endgame | 24 | 165| 
 | 20210217T01:21:36Z | Null | https://github.com/arquinity/PHP_Backdoor | 0 | 0| 
 | 20210217T01:21:25Z | An AWS Pentesting tool that lets you use one-liner commands to backdoor an AWS account%s resources with a rogue AWS account - or share the resources with the entire internet 😈 | https://github.com/jeffmcjunkin/endgame | 1 | 1| 
 | 20210216T23:13:05Z | Python Backdoor Generator | https://github.com/grenoxx/Back-X | 3 | 0| 
