@@ -38,7 +38,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210217T13:43:32Z | Modular penetration testing platform that enables you to write, test, and execute exploit code. | https://github.com/EntySec/HatSploit | 0 | 0| 
+| 20210217T13:46:55Z | Modular penetration testing platform that enables you to write, test, and execute exploit code. | https://github.com/EntySec/HatSploit | 0 | 0| 
 | 20210217T13:43:30Z |  A C++-based binary file analysis and CTF pwn exploit code generation framework. | https://github.com/migraine-sudo/pwnlib | 0 | 0| 
 | 20210217T13:35:54Z | Windows exploitation and customization tool. Under development. | https://github.com/coredoescode/c0deblack | 0 | 0| 
 | 20210217T13:25:35Z | An advanced GTA Online mod menu base using multiple private (now public) exploits. | https://github.com/TeamPenisBase/PenisBase | 0 | 0| 
