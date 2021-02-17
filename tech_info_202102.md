@@ -85,6 +85,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210217T13:07:43Z | Router Exploitation Tools. Checks for WinBox Authentication Bypass Disclosure, RouterOS Jailbreak, Chimney-Blue SMB BufferOverflow & ByTheWay RCE | https://github.com/s1l3nt78/MkCheck | 83 | 17| 
+| 20210217T13:07:09Z | This bash script will help you to hack remote hosts  | https://github.com/FabioDefilippo/linuxallremote | 6 | 1| 
 | 20210217T13:02:52Z | Discover duplication glitches, abusive staff giving items, x-ray or simply poor server economy. | https://github.com/kangarko/Confiscate | 21 | 5| 
 | 20210217T13:02:32Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 9 | 4| 
 | 20210217T13:00:45Z | The problem instances (CNF) used to evaluate SymGANAK, a model counter introduced in AAAI2021 that exploits symmetry | https://github.com/VincentDerk/Paper-SymGANAK-benchmark | 0 | 0| 
@@ -93,14 +95,12 @@
 | 20210217T12:38:53Z | Awesome Archives of GSM Exploits | https://github.com/NyxxNott/awesome-analysis-GSM | 0 | 0| 
 | 20210217T12:36:37Z | Scripts used whilst learning exploit dev | https://github.com/khushv/exploit_dev | 0 | 0| 
 | 20210217T12:00:38Z | Awesome Archives of 2G Exploits | https://github.com/NyxxNott/aweome-5G-exploits | 0 | 0| 
-| 20210217T11:35:15Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9013 | 1452| 
-| 20210217T11:19:24Z | Search for Unix binaries that can be exploited to bypass system security restrictions. | https://github.com/t0thkr1s/gtfo | 72 | 14| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210217T12:51:15Z | An AWS Pentesting tool that lets you use one-liner commands to backdoor an AWS account%s resources with a rogue AWS account - or share the resources with the entire internet 😈 | https://github.com/brandongalbraith/endgame | 35 | 267| 
+| 20210217T12:51:15Z | An AWS Pentesting tool that lets you use one-liner commands to backdoor an AWS account%s resources with a rogue AWS account - or share the resources with the entire internet 😈 | https://github.com/brandongalbraith/endgame | 35 | 269| 
 | 20210217T12:49:18Z | Null | https://github.com/miclay0260/backdoor | 0 | 0| 
 | 20210217T12:35:40Z | Null | https://github.com/Wiilldd/backdoor | 0 | 0| 
 | 20210217T11:43:13Z | Backdoor Has Been Removed From This Shell | https://github.com/orionhridoy/wso-without-backdoor | 0 | 0| 
