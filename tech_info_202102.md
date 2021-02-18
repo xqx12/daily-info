@@ -31,46 +31,46 @@
 # 安全维基 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20210218 | 甲方安全体系建设历程的思考 | https://mp.weixin.qq.com/s/YTNWqXkcqTbjhdcIGpxE6w| 
+| 20210218 | 苹果隐私十年史：变与不变（5）演变与结尾 | https://mp.weixin.qq.com/s/KyPoe9_ZxmZ-vDwTsqYD0g| 
+| 20210218 | 苹果隐私十年史：变与不变（4）体验与卖点 | https://mp.weixin.qq.com/s/xTSuADi85josUEA3DTNrRw| 
+| 20210218 | 苹果隐私十年史：变与不变（3）产品与常识 | https://mp.weixin.qq.com/s/8-xZqAbgRCWcOSyY5x-OvA| 
+| 20210218 | 苹果隐私十年史：变与不变（2）营销与产品 | https://mp.weixin.qq.com/s/OgbdJTnIekWl07yzHuCFDg| 
+| 20210218 | 苹果隐私十年史：变与不变（1）突变与营销 | https://mp.weixin.qq.com/s/qqQ1BgFshie288wZEWGaEw| 
+| 20210218 | 浅析Course of Action应对措施 | https://mp.weixin.qq.com/s/ikHga0fGa0euwGYohv534g| 
 | 20210217 | 做信息安全BP的一些感悟 | https://mp.weixin.qq.com/s/qygwMIGX3PhbnKuPwQqfUQ| 
 | 20210216 | SecWiki周刊（第363期) | https://www.sec-wiki.com/weekly/363| 
 | 20210216 | Imperva WAF Bypass | https://www.techanarchy.net/imperva-waf-bypass/| 
-| 20210214 | supercookie: Browser fingerprinting via favicon! | https://github.com/jonasstrehle/supercookie| 
-| 20210213 | FreakOut分析报告 | https://mp.weixin.qq.com/s/jQ6npq2C8PprnDQMXTtP0g| 
-| 20210213 | 预见2021网络安全细分领域发展 | https://mp.weixin.qq.com/s/XBGy2xG3-GYL7023lAjCyg| 
-| 20210213 | 浅析 CVE-2021-1647 的漏洞利用技巧 | https://mp.weixin.qq.com/s/CjsntvNM6_zMZF1IGirMPg| 
-| 20210209 | 全球高级持续性威胁(APT)2020年度报告 | https://ti.qianxin.com/uploads/2021/02/08/dd941ecf98c7cb9bf0111a8416131aa1.pdf| 
-| 20210209 | 2020年勒索软件分析 | https://mp.weixin.qq.com/s/yrtU2_VxEt94DWF4eQWujA| 
-| 20210209 | 云安全架构连载之二-Azure云平台威胁检测详解 | https://mp.weixin.qq.com/s/Dffk-_TSCaR2SWVAIMCQUA| 
 
 
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20210218T10:17:18Z | CVE-2021-25646 | Null | https://github.com/hoanx4/apache_druid_rce_CVE-2021-25646 | Apache Druid includes the ability to execute user-provided JavaScript code embedded in various types of requests. This functionality is intended for use in high-trust environments, and is disabled by default. However, in Druid 0.20.0 and earlier, it is possible for an authenticated user to send a specially-crafted request that forces Druid to run user-provided JavaScript code for that request, regardless of server configuration. This can be leveraged to execute code on the target machine with the privileges of the Druid server process.| 
+| 20210218T09:35:37Z | CVE-2020-8637 | Null | https://github.com/DXY0411/CVE-2020-8637 | | 
+| 20210218T08:30:25Z | CVE-2021-3129 | Laravel <= v8.4.2 debug mode: Remote code execution (CVE-2021-3129) | https://github.com/zhzyker/CVE-2021-3129 | Ignition before 2.5.2, as used in Laravel and other products, allows unauthenticated remote attackers to execute arbitrary code because of insecure usage of file_get_contents() and file_put_contents(). This is exploitable on sites using debug mode with Laravel before 8.4.2.| 
 | 20210218T02:06:32Z | CVE-2021-26700 | RCE in NPM VSCode Extention | https://github.com/jackadamson/CVE-2021-26700 | 未查询到CVE信息| 
 | 20210217T23:54:48Z | CVE-2021-24085 | Null | https://github.com/sourceincite/CVE-2021-24085 | 未查询到CVE信息| 
 | 20210217T12:03:28Z | CVE-2021-1727 | Null | https://github.com/klinix5/CVE-2021-1727 | 未查询到CVE信息| 
 | 20210217T09:23:59Z | CVE-2020-7247 | OpenSMTPD 6.4.0 - 6.6.1 Remote Code Execution PoC exploit | https://github.com/QTranspose/CVE-2020-7247-exploit | smtp_mailaddr in smtp_session.c in OpenSMTPD 6.6, as used in OpenBSD 6.6 and other products, allows remote attackers to execute arbitrary commands as root via a crafted SMTP session, as demonstrated by shell metacharacters in a MAIL FROM field. This affects the %uncommented% default configuration. The issue exists because of an incorrect return value upon failure of input validation.| 
 | 20210216T20:37:30Z | cve-2020-8165 | Null | https://github.com/danielklim/cve-2020-8165-demo | 未查询到CVE信息| 
 | 20210216T17:47:46Z | CVE-2021-1782 | Null | https://github.com/synacktiv/CVE-2021-1782 | 未查询到CVE信息| 
-| 20210216T16:59:13Z | CVE-2020-8637 | Null | https://github.com/DXY0411/CVE-2020-8637 | A SQL injection vulnerability in TestLink 1.9.20 allows attackers to execute arbitrary SQL commands in dragdroptreenodes.php via the node_id parameter.| 
 | 20210216T11:15:41Z | CVE-2020-8638 | Null | https://github.com/DXY0411/CVE-2020-8638 | A SQL injection vulnerability in TestLink 1.9.20 allows attackers to execute arbitrary SQL commands in planUrgency.php via the urgency parameter.| 
-| 20210215T23:46:59Z | CVE-2021-27190 | Null | https://github.com/anmolksachan/CVE-2021-27190-PEEL-Shopping-cart-9.3.0-Stored-XSS | | 
-| 20210215T18:49:44Z | CVE-2021-26121 | Null | https://github.com/sourceincite/CVE-2021-26121 | 未查询到CVE信息| 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210218T12:51:23Z | Null | https://github.com/fontworks-fonts/Klee | 364 | 10| 
+| 20210218T12:50:52Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 的 Klee One 的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 69 | 3| 
+| 20210218T12:11:37Z | Git Blog | https://github.com/klee30810/klee30810.github.io | 0 | 0| 
+| 20210218T08:19:00Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1630 | 483| 
+| 20210218T07:23:25Z | Symbiotic is a tool for finding bugs in computer programs based on instrumentation, program slicing and KLEE | https://github.com/staticafi/symbiotic | 211 | 34| 
 | 20210218T02:10:49Z | Spring 2021 Geography 817 work folder  | https://github.com/klee12/klee12.github.io | 0 | 0| 
 | 20210217T23:47:03Z | C library to support Map2Check Tool | https://github.com/hbgit/map2check-library | 0 | 0| 
 | 20210217T15:03:39Z | The compiler inputs a PDDL benchmark of the Carpark planning problem and converts it to an equivalent C code which is used for solving the planning problem by program verification tools such as KLEE/TracerX. | https://github.com/daneshvar-amrollahi/Carpark-PDDL2C | 0 | 0| 
-| 20210217T13:51:19Z | Git Blog | https://github.com/klee30810/klee30810.github.io | 0 | 0| 
-| 20210217T11:43:31Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 的 Klee One 的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 57 | 3| 
 | 20210216T20:46:22Z | Null | https://github.com/mitchklee35/MitchKlee.com | 0 | 0| 
-| 20210216T18:37:20Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1630 | 483| 
 | 20210216T13:18:09Z | Null | https://github.com/LitRHap/klee-bot | 0 | 0| 
-| 20210216T13:15:13Z | Null | https://github.com/LitRHap/klee | 0 | 0| 
-| 20210216T10:58:20Z | Null | https://github.com/fontworks-fonts/Klee | 363 | 10| 
 
 
 # s2e on Github 推荐
@@ -85,31 +85,31 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210218T02:53:50Z | This tool is great for information gathering and post- exploitation | https://github.com/Cybercrack-bot/Cybercrack | 3 | 1| 
-| 20210218T02:52:36Z | A phased, evasive Path Traversal + LFI scanning & exploitation tool in Python | https://github.com/VainlyStrain/Vailyn | 95 | 4| 
-| 20210218T02:45:55Z | The AWS exploitation framework, designed for testing the security of Amazon Web Services environments. | https://github.com/RhinoSecurityLabs/pacu | 1875 | 339| 
-| 20210218T02:26:56Z | This is a repo for the coding done for CTFs / exploits. The writeups are here: https://github.com/dillonwu-97/csec_writeups | https://github.com/dillonwu-97/csec-code | 0 | 0| 
-| 20210218T02:02:39Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 9 | 4| 
-| 20210218T01:52:43Z | Null | https://github.com/adrianoapj/cool-exploit | 0 | 0| 
-| 20210218T01:49:33Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9016 | 1452| 
-| 20210218T01:12:16Z | An advanced GTA Online mod menu base using multiple private (now public) exploits. | https://github.com/TeamPenisBase/PenisBase | 1 | 0| 
-| 20210218T00:55:56Z | All the Lua scripts I developed, including exploit scripts (please only use those for educational purposes) | https://github.com/SkiddDev/Scripts | 0 | 0| 
-| 20210218T00:50:08Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 7 | 4| 
+| 20210218T12:56:18Z | courses, exploits and lots of code, as i am currently preparing for this exam, i will keep updating everthing i learned or coded here | https://github.com/kainesmicheal/OSWE | 1 | 1| 
+| 20210218T12:55:26Z | CrowdKit - Exploring and Exploiting the Wisdom of Crowds | https://github.com/wisdomofcrowds/CrowdKit | 0 | 0| 
+| 20210218T12:50:08Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 7 | 4| 
+| 20210218T12:25:50Z | This Repository contains the stuff related to windows Active directory environment exploitation | https://github.com/incredibleindishell/Windows-AD-environment-related | 119 | 28| 
+| 20210218T12:13:48Z | Red Team exercises for exploitation. Find the bug, exploit it, fix it! | https://github.com/u238/security-ctf | 0 | 0| 
+| 20210218T12:02:37Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 9 | 4| 
+| 20210218T11:35:14Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9015 | 1452| 
+| 20210218T11:35:10Z | Documentation on how to exploit the recursive stack overflow bug in the iOS 7 bootchain. | https://github.com/dylbinthedev/DeRebusAntiquis | 0 | 0| 
+| 20210218T11:30:14Z | this bash script is for remote linux hosts hacked! | https://github.com/FabioDefilippo/linuxallenum | 9 | 0| 
+| 20210218T11:17:15Z | Thi powershell script has got to run in remote windows host, even for pivoting | https://github.com/FabioDefilippo/winallenum | 2 | 1| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210218T02:18:52Z | ScriptFirewall - Ferramenta Windows Para Combater Ataques Cibeneticos Backdoor Spyware entre outros | https://github.com/Cyber-Root0/ScriptFirewall | 1 | 0| 
-| 20210218T00:41:07Z | Tool to find potential backdoor/security holes in your endpoint | https://github.com/subasgit/backdoorfinder | 2 | 0| 
-| 20210217T23:51:09Z | Python Backdoor Generator | https://github.com/grenoxx/Back-X | 5 | 0| 
-| 20210217T22:56:50Z | Pupy is an opensource, cross-platform (Windows, Linux, OSX, Android) remote administration and post-exploitation tool mainly written in python | https://github.com/n1nj4sec/pupy | 6153 | 1581| 
-| 20210217T22:02:25Z | Backdoor. | https://github.com/Saublade/Cbackdoor | 1 | 0| 
-| 20210217T21:02:23Z | Null | https://github.com/Wiilldd/backdoor | 0 | 0| 
-| 20210217T20:59:12Z | Null | https://github.com/PhobosNoRat/LeuxBackdoor-0.5-Leaked | 0 | 0| 
-| 20210217T20:58:59Z | Null | https://github.com/PhobosNoRat/LeuxBackdoor-0.4-Leaked | 0 | 0| 
-| 20210217T17:01:33Z | An AWS Pentesting tool that lets you use one-liner commands to backdoor an AWS account%s resources with a rogue AWS account - or share the resources with the entire internet 😈 | https://github.com/jeffmcjunkin/endgame | 4 | 4| 
-| 20210217T15:40:55Z | Neural networks for the Fooling a Complete Neural Network Verifier paper (ICLR 2021) | https://github.com/szegedai/nn_backdoor | 0 | 0| 
+| 20210218T11:37:51Z | This is a repository for a AAAI 2020 TAIH workshop paper %Machine Learning with Electronic Health Records is vulnerable to Backdoor Trigger Attacks% | https://github.com/byunggilljoe/mimic3_td_backdoor | 0 | 0| 
+| 20210218T11:26:03Z | Null | https://github.com/EjHvorSerDuVildUdJim/backdoor | 0 | 0| 
+| 20210218T11:15:06Z | Pupy is an opensource, cross-platform (Windows, Linux, OSX, Android) remote administration and post-exploitation tool mainly written in python | https://github.com/n1nj4sec/pupy | 6155 | 1581| 
+| 20210218T11:02:46Z | PyDoor is backdoor-based software with some interesting features. | https://github.com/Kamelleon/PyDoor-Python_Backdoor | 0 | 0| 
+| 20210218T10:42:38Z | Neural networks for the Fooling a Complete Neural Network Verifier paper (ICLR 2021) | https://github.com/szegedai/nn_backdoor | 0 | 0| 
+| 20210218T10:08:27Z | 🤖 AI based Backdoor Written for Windows using Telegram-bot and ZMQ as Its Back-ends. | https://github.com/wildonion/katyusha | 1 | 0| 
+| 20210218T10:00:46Z | Null | https://github.com/Wiilldd/backdoor | 0 | 0| 
+| 20210218T07:19:26Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 167 | 25| 
+| 20210218T05:26:54Z | Reverse Engineering Imperceptible Backdoor Attacks on Deep Neural Networks for Detection and Training Set Cleansing | https://github.com/zhenxianglance/RE-paper | 0 | 0| 
+| 20210218T03:28:07Z | Backdoor. | https://github.com/Saublade/Cbackdoor | 2 | 0| 
 
 
 # fuzz on Github 推荐
