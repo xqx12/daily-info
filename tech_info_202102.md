@@ -46,9 +46,9 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20210217T23:54:48Z | CVE-2021-24085 | Null | https://github.com/sourceincite/CVE-2021-24085 | 未查询到CVE信息| 
+| 20210217T21:03:33Z | CVE-2021-26700 | RCE in NPM VSCode Extention | https://github.com/jackadamson/CVE-2021-26700 | 未查询到CVE信息| 
 | 20210217T12:03:28Z | CVE-2021-1727 | Null | https://github.com/klinix5/CVE-2021-1727 | 未查询到CVE信息| 
-| 20210217T11:43:43Z | CVE-2021-24085 | Null | https://github.com/sourceincite/CVE-2021-24085 | 未查询到CVE信息| 
-| 20210217T10:59:58Z | CVE-2021-26700 | RCE in NPM VSCode Extention | https://github.com/jackadamson/CVE-2021-26700 | | 
 | 20210217T09:23:59Z | CVE-2020-7247 | OpenSMTPD 6.4.0 - 6.6.1 Remote Code Execution PoC exploit | https://github.com/QTranspose/CVE-2020-7247-exploit | smtp_mailaddr in smtp_session.c in OpenSMTPD 6.6, as used in OpenBSD 6.6 and other products, allows remote attackers to execute arbitrary commands as root via a crafted SMTP session, as demonstrated by shell metacharacters in a MAIL FROM field. This affects the %uncommented% default configuration. The issue exists because of an incorrect return value upon failure of input validation.| 
 | 20210216T20:37:30Z | cve-2020-8165 | Null | https://github.com/danielklim/cve-2020-8165-demo | 未查询到CVE信息| 
 | 20210216T17:47:46Z | CVE-2021-1782 | Null | https://github.com/synacktiv/CVE-2021-1782 | 未查询到CVE信息| 
@@ -61,16 +61,16 @@
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210217T23:47:03Z | C library to support Map2Check Tool | https://github.com/hbgit/map2check-library | 0 | 0| 
+| 20210217T15:03:39Z | The compiler inputs a PDDL benchmark of the Carpark planning problem and converts it to an equivalent C code which is used for solving the planning problem by program verification tools such as KLEE/TracerX. | https://github.com/daneshvar-amrollahi/Carpark-PDDL2C | 0 | 0| 
 | 20210217T13:51:19Z | Git Blog | https://github.com/klee30810/klee30810.github.io | 0 | 0| 
 | 20210217T11:43:31Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 的 Klee One 的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 57 | 3| 
 | 20210216T20:46:22Z | Null | https://github.com/mitchklee35/MitchKlee.com | 0 | 0| 
 | 20210216T18:37:20Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1630 | 483| 
-| 20210216T16:13:16Z | C library to support Map2Check Tool | https://github.com/hbgit/map2check-library | 0 | 0| 
 | 20210216T13:18:09Z | Null | https://github.com/LitRHap/klee-bot | 0 | 0| 
 | 20210216T13:15:13Z | Null | https://github.com/LitRHap/klee | 0 | 0| 
 | 20210216T10:58:20Z | Null | https://github.com/fontworks-fonts/Klee | 363 | 10| 
 | 20210216T09:38:22Z | RVT is a collection of tools/libraries to support both static and dynamic verification of Rust programs. | https://github.com/project-oak/rust-verification-tools | 108 | 7| 
-| 20210216T08:35:31Z | Symbiotic is a tool for finding bugs in computer programs based on instrumentation, program slicing and KLEE | https://github.com/staticafi/symbiotic | 212 | 34| 
 
 
 # s2e on Github 推荐
@@ -85,31 +85,31 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210217T13:53:11Z | Fix exploits on anarchy minecraft servers | https://github.com/moom0o/AnarchyExploitFixes | 12 | 6| 
-| 20210217T13:46:55Z | Modular penetration testing platform that enables you to write, test, and execute exploit code. | https://github.com/EntySec/HatSploit | 0 | 0| 
-| 20210217T13:43:30Z |  A C++-based binary file analysis and CTF pwn exploit code generation framework. | https://github.com/migraine-sudo/pwnlib | 0 | 0| 
-| 20210217T13:35:54Z | Windows exploitation and customization tool. Under development. | https://github.com/coredoescode/c0deblack | 0 | 0| 
-| 20210217T13:25:35Z | An advanced GTA Online mod menu base using multiple private (now public) exploits. | https://github.com/TeamPenisBase/PenisBase | 0 | 0| 
-| 20210217T13:12:46Z | This bash script will help you to hack remote hosts  | https://github.com/FabioDefilippo/linuxallremote | 6 | 1| 
-| 20210217T13:12:28Z | courses, exploits and lots of code, as i am currently preparing for this exam, i will keep updating everthing i learned or coded here | https://github.com/kainesmicheal/OSWE | 1 | 1| 
-| 20210217T13:12:19Z | Router Exploitation Tools. Checks for WinBox Authentication Bypass Disclosure, RouterOS Jailbreak, Chimney-Blue SMB BufferOverflow & ByTheWay RCE | https://github.com/s1l3nt78/MkCheck | 83 | 17| 
-| 20210217T13:02:52Z | Discover duplication glitches, abusive staff giving items, x-ray or simply poor server economy. | https://github.com/kangarko/Confiscate | 21 | 5| 
-| 20210217T13:02:32Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 9 | 4| 
+| 20210218T01:00:15Z | The AWS exploitation framework, designed for testing the security of Amazon Web Services environments. | https://github.com/RhinoSecurityLabs/pacu | 1874 | 339| 
+| 20210218T00:55:56Z | All the Lua scripts I developed, including exploit scripts (please only use those for educational purposes) | https://github.com/SkiddDev/Scripts | 0 | 0| 
+| 20210218T00:50:08Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 7 | 4| 
+| 20210218T00:11:16Z | Shellphish%s automated exploitation engine, originally created for the Cyber Grand Challenge. | https://github.com/angr/rex | 505 | 105| 
+| 20210218T00:09:17Z | ARTi-C2  is a post-exploitation framework used to execute Atomic Red Team test cases with rapid payload deployment and execution capabilities via .NET%s DLR. | https://github.com/blackbotinc/Atomic-Red-Team-Intelligence-C2 | 68 | 4| 
+| 20210218T00:02:27Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 9 | 4| 
+| 20210217T23:49:36Z | The initial aim of this product was to create a balanced game of chance in which the player can not exploit any weakness to cheat. I later also used it to explore CSS animations to make it more visually interesting. | https://github.com/Uken81/HoboBalls | 0 | 0| 
+| 20210217T23:31:37Z | Optimal Search | https://github.com/GithubCFG/Exploration_Exploitation_TradeOff | 0 | 0| 
+| 20210217T22:29:01Z | Roblox Exploit with various custom function. Stable and Free to use. | https://github.com/ExoticN01/RektSploit | 1 | 0| 
+| 20210217T21:29:26Z | https://b4ckdoorarchive.club/   HERE THE FIRST FREE BIGGEST AND VIRUS CLEAN ARCHIVE WHERE DOWNLOAD ANY MALWARE & LOTS OF FILES LIKE EXPLOIT,SOURCE CODE,ANDROID,WINDOWS THINGS, ALL YOU NEED HERE FOR FREE. IM TIRED OF ALL PEOPLE TAKE MY FILES AND OPEN HERE A REPOSITORY WITH MY FILES. SO I LINK MY BIGGEST FREE-DOWNLOAD ARCHIVE TO ALL ! | https://github.com/B4ckdoor/Mirai-Botnet-private-tools-exploit-download-2021 | 1 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210218T00:41:07Z | Tool to find potential backdoor/security holes in your endpoint | https://github.com/subasgit/backdoorfinder | 2 | 0| 
+| 20210217T23:51:09Z | Python Backdoor Generator | https://github.com/grenoxx/Back-X | 5 | 0| 
+| 20210217T22:56:50Z | Pupy is an opensource, cross-platform (Windows, Linux, OSX, Android) remote administration and post-exploitation tool mainly written in python | https://github.com/n1nj4sec/pupy | 6153 | 1581| 
+| 20210217T22:02:25Z | Backdoor. | https://github.com/Saublade/Cbackdoor | 1 | 0| 
+| 20210217T21:02:23Z | Null | https://github.com/Wiilldd/backdoor | 0 | 0| 
+| 20210217T20:59:12Z | Null | https://github.com/PhobosNoRat/LeuxBackdoor-0.5-Leaked | 0 | 0| 
+| 20210217T20:58:59Z | Null | https://github.com/PhobosNoRat/LeuxBackdoor-0.4-Leaked | 0 | 0| 
+| 20210217T17:01:33Z | An AWS Pentesting tool that lets you use one-liner commands to backdoor an AWS account%s resources with a rogue AWS account - or share the resources with the entire internet 😈 | https://github.com/jeffmcjunkin/endgame | 4 | 3| 
+| 20210217T15:40:55Z | Neural networks for the Fooling a Complete Neural Network Verifier paper (ICLR 2021) | https://github.com/szegedai/nn_backdoor | 0 | 0| 
 | 20210217T13:41:59Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 166 | 25| 
-| 20210217T12:51:15Z | An AWS Pentesting tool that lets you use one-liner commands to backdoor an AWS account%s resources with a rogue AWS account - or share the resources with the entire internet 😈 | https://github.com/brandongalbraith/endgame | 35 | 275| 
-| 20210217T12:49:18Z | Null | https://github.com/miclay0260/backdoor | 0 | 0| 
-| 20210217T12:35:40Z | Null | https://github.com/Wiilldd/backdoor | 0 | 0| 
-| 20210217T11:43:13Z | Backdoor Has Been Removed From This Shell | https://github.com/orionhridoy/wso-without-backdoor | 0 | 0| 
-| 20210217T11:14:23Z | Pupy is an opensource, cross-platform (Windows, Linux, OSX, Android) remote administration and post-exploitation tool mainly written in python | https://github.com/n1nj4sec/pupy | 6149 | 1581| 
-| 20210217T09:55:30Z | Kermini-Backdoor : a gmod simple backdoor System | https://github.com/Maxime48/Kermini-Backdoor-Gmod | 1 | 0| 
-| 20210217T09:10:46Z | A multi functional rat, that firstly will be a simple backdoor | https://github.com/K1DR4T/BETA---R4T | 0 | 0| 
-| 20210217T08:46:27Z | Neural networks for the Fooling a Complete Neural Network Verifier paper (ICLR 2021) | https://github.com/szegedai/nn_backdoor | 0 | 0| 
-| 20210217T07:05:05Z | Null | https://github.com/VinAIResearch/Warping-based_Backdoor_Attack-release | 0 | 0| 
 
 
 # fuzz on Github 推荐
