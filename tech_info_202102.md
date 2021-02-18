@@ -48,7 +48,7 @@
 | --- | --- | --- | --- | ---| 
 | 20210218T02:06:32Z | CVE-2021-26700 | RCE in NPM VSCode Extention | https://github.com/jackadamson/CVE-2021-26700 | 未查询到CVE信息| 
 | 20210217T23:54:48Z | CVE-2021-24085 | Null | https://github.com/sourceincite/CVE-2021-24085 | 未查询到CVE信息| 
-| 20210217T12:03:28Z | CVE-2021-1727 | Null | https://github.com/klinix5/CVE-2021-1727 | 未查询到CVE信息| 
+| 20210217T12:03:28Z | CVE-2021-1727 | Null | https://github.com/klinix5/CVE-2021-1727 | | 
 | 20210217T09:23:59Z | CVE-2020-7247 | OpenSMTPD 6.4.0 - 6.6.1 Remote Code Execution PoC exploit | https://github.com/QTranspose/CVE-2020-7247-exploit | smtp_mailaddr in smtp_session.c in OpenSMTPD 6.6, as used in OpenBSD 6.6 and other products, allows remote attackers to execute arbitrary commands as root via a crafted SMTP session, as demonstrated by shell metacharacters in a MAIL FROM field. This affects the %uncommented% default configuration. The issue exists because of an incorrect return value upon failure of input validation.| 
 | 20210216T20:37:30Z | cve-2020-8165 | Null | https://github.com/danielklim/cve-2020-8165-demo | 未查询到CVE信息| 
 | 20210216T17:47:46Z | CVE-2021-1782 | Null | https://github.com/synacktiv/CVE-2021-1782 | 未查询到CVE信息| 
@@ -85,6 +85,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210218T02:26:56Z | This is a repo for the coding done for CTFs / exploits. The writeups are here: https://github.com/dillonwu-97/csec_writeups | https://github.com/dillonwu-97/csec-code | 0 | 0| 
 | 20210218T02:23:38Z | This tool is great for information gathering and post- exploitation | https://github.com/Cybercrack-bot/Cybercrack | 3 | 1| 
 | 20210218T02:02:39Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 9 | 4| 
 | 20210218T01:52:43Z | Null | https://github.com/adrianoapj/cool-exploit | 0 | 0| 
@@ -94,7 +95,6 @@
 | 20210218T00:55:56Z | All the Lua scripts I developed, including exploit scripts (please only use those for educational purposes) | https://github.com/SkiddDev/Scripts | 0 | 0| 
 | 20210218T00:50:08Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 7 | 4| 
 | 20210218T00:11:16Z | Shellphish%s automated exploitation engine, originally created for the Cyber Grand Challenge. | https://github.com/angr/rex | 505 | 105| 
-| 20210218T00:09:17Z | ARTi-C2  is a post-exploitation framework used to execute Atomic Red Team test cases with rapid payload deployment and execution capabilities via .NET%s DLR. | https://github.com/blackbotinc/Atomic-Red-Team-Intelligence-C2 | 68 | 4| 
 
 
 # backdoor on Github 推荐
