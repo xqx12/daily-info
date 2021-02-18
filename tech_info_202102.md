@@ -46,7 +46,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20210218T13:43:35Z | CVE-2020-8637 | Null | https://github.com/DXY0411/CVE-2020-8637 | | 
+| 20210218T13:43:35Z | CVE-2020-8637 | Null | https://github.com/DXY0411/CVE-2020-8637 | A SQL injection vulnerability in TestLink 1.9.20 allows attackers to execute arbitrary SQL commands in dragdroptreenodes.php via the node_id parameter.| 
 | 20210218T13:25:59Z | CVE-2021-3129 | Laravel <= v8.4.2 debug mode: Remote code execution (CVE-2021-3129) | https://github.com/zhzyker/CVE-2021-3129 | Ignition before 2.5.2, as used in Laravel and other products, allows unauthenticated remote attackers to execute arbitrary code because of insecure usage of file_get_contents() and file_put_contents(). This is exploitable on sites using debug mode with Laravel before 8.4.2.| 
 | 20210218T10:17:18Z | CVE-2021-25646 | Null | https://github.com/hoanx4/apache_druid_rce_CVE-2021-25646 | Apache Druid includes the ability to execute user-provided JavaScript code embedded in various types of requests. This functionality is intended for use in high-trust environments, and is disabled by default. However, in Druid 0.20.0 and earlier, it is possible for an authenticated user to send a specially-crafted request that forces Druid to run user-provided JavaScript code for that request, regardless of server configuration. This can be leveraged to execute code on the target machine with the privileges of the Druid server process.| 
 | 20210218T02:06:32Z | CVE-2021-26700 | RCE in NPM VSCode Extention | https://github.com/jackadamson/CVE-2021-26700 | 未查询到CVE信息| 
@@ -100,8 +100,8 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210218T13:45:50Z | Null | https://github.com/Wiilldd/backdoor | 0 | 0| 
 | 20210218T13:24:31Z | Avyukt is a Exploitation Framework which can be used to generate Malicious Payloads and exploit Windows OS | https://github.com/Vedant-Bhalgama/Avyukt | 26 | 10| 
-| 20210218T13:13:42Z | Null | https://github.com/Wiilldd/backdoor | 0 | 0| 
 | 20210218T11:37:51Z | This is a repository for a AAAI 2020 TAIH workshop paper %Machine Learning with Electronic Health Records is vulnerable to Backdoor Trigger Attacks% | https://github.com/byunggilljoe/mimic3_td_backdoor | 0 | 0| 
 | 20210218T11:26:03Z | Null | https://github.com/EjHvorSerDuVildUdJim/backdoor | 0 | 0| 
 | 20210218T11:15:06Z | Pupy is an opensource, cross-platform (Windows, Linux, OSX, Android) remote administration and post-exploitation tool mainly written in python | https://github.com/n1nj4sec/pupy | 6155 | 1581| 
