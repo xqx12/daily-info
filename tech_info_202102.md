@@ -49,7 +49,7 @@
 | 20210218T02:06:32Z | CVE-2021-26700 | RCE in NPM VSCode Extention | https://github.com/jackadamson/CVE-2021-26700 | 未查询到CVE信息| 
 | 20210217T23:54:48Z | CVE-2021-24085 | Null | https://github.com/sourceincite/CVE-2021-24085 | 未查询到CVE信息| 
 | 20210217T12:03:28Z | CVE-2021-1727 | Null | https://github.com/klinix5/CVE-2021-1727 | 未查询到CVE信息| 
-| 20210217T09:23:59Z | CVE-2020-7247 | OpenSMTPD 6.4.0 - 6.6.1 Remote Code Execution PoC exploit | https://github.com/QTranspose/CVE-2020-7247-exploit | | 
+| 20210217T09:23:59Z | CVE-2020-7247 | OpenSMTPD 6.4.0 - 6.6.1 Remote Code Execution PoC exploit | https://github.com/QTranspose/CVE-2020-7247-exploit | smtp_mailaddr in smtp_session.c in OpenSMTPD 6.6, as used in OpenBSD 6.6 and other products, allows remote attackers to execute arbitrary commands as root via a crafted SMTP session, as demonstrated by shell metacharacters in a MAIL FROM field. This affects the %uncommented% default configuration. The issue exists because of an incorrect return value upon failure of input validation.| 
 | 20210216T20:37:30Z | cve-2020-8165 | Null | https://github.com/danielklim/cve-2020-8165-demo | 未查询到CVE信息| 
 | 20210216T17:47:46Z | CVE-2021-1782 | Null | https://github.com/synacktiv/CVE-2021-1782 | 未查询到CVE信息| 
 | 20210216T16:59:13Z | CVE-2020-8637 | Null | https://github.com/DXY0411/CVE-2020-8637 | A SQL injection vulnerability in TestLink 1.9.20 allows attackers to execute arbitrary SQL commands in dragdroptreenodes.php via the node_id parameter.| 
@@ -100,6 +100,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210218T02:18:52Z | ScriptFirewall - Ferramenta Windows Para Combater Ataques Cibeneticos Backdoor Spyware entre outros | https://github.com/Cyber-Root0/ScriptFirewall | 1 | 0| 
 | 20210218T00:41:07Z | Tool to find potential backdoor/security holes in your endpoint | https://github.com/subasgit/backdoorfinder | 2 | 0| 
 | 20210217T23:51:09Z | Python Backdoor Generator | https://github.com/grenoxx/Back-X | 5 | 0| 
 | 20210217T22:56:50Z | Pupy is an opensource, cross-platform (Windows, Linux, OSX, Android) remote administration and post-exploitation tool mainly written in python | https://github.com/n1nj4sec/pupy | 6153 | 1581| 
@@ -109,7 +110,6 @@
 | 20210217T20:58:59Z | Null | https://github.com/PhobosNoRat/LeuxBackdoor-0.4-Leaked | 0 | 0| 
 | 20210217T17:01:33Z | An AWS Pentesting tool that lets you use one-liner commands to backdoor an AWS account%s resources with a rogue AWS account - or share the resources with the entire internet 😈 | https://github.com/jeffmcjunkin/endgame | 4 | 4| 
 | 20210217T15:40:55Z | Neural networks for the Fooling a Complete Neural Network Verifier paper (ICLR 2021) | https://github.com/szegedai/nn_backdoor | 0 | 0| 
-| 20210217T13:41:59Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 166 | 25| 
 
 
 # fuzz on Github 推荐
