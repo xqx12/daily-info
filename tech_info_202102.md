@@ -48,9 +48,9 @@
 | --- | --- | --- | --- | ---| 
 | 20210217T23:54:48Z | CVE-2021-24085 | Null | https://github.com/sourceincite/CVE-2021-24085 | 未查询到CVE信息| 
 | 20210217T21:03:33Z | CVE-2021-26700 | RCE in NPM VSCode Extention | https://github.com/jackadamson/CVE-2021-26700 | 未查询到CVE信息| 
-| 20210217T12:03:28Z | CVE-2021-1727 | Null | https://github.com/klinix5/CVE-2021-1727 | 未查询到CVE信息| 
+| 20210217T12:03:28Z | CVE-2021-1727 | Null | https://github.com/klinix5/CVE-2021-1727 | | 
 | 20210217T09:23:59Z | CVE-2020-7247 | OpenSMTPD 6.4.0 - 6.6.1 Remote Code Execution PoC exploit | https://github.com/QTranspose/CVE-2020-7247-exploit | smtp_mailaddr in smtp_session.c in OpenSMTPD 6.6, as used in OpenBSD 6.6 and other products, allows remote attackers to execute arbitrary commands as root via a crafted SMTP session, as demonstrated by shell metacharacters in a MAIL FROM field. This affects the %uncommented% default configuration. The issue exists because of an incorrect return value upon failure of input validation.| 
-| 20210216T20:37:30Z | cve-2020-8165 | Null | https://github.com/danielklim/cve-2020-8165-demo | | 
+| 20210216T20:37:30Z | cve-2020-8165 | Null | https://github.com/danielklim/cve-2020-8165-demo | 未查询到CVE信息| 
 | 20210216T17:47:46Z | CVE-2021-1782 | Null | https://github.com/synacktiv/CVE-2021-1782 | 未查询到CVE信息| 
 | 20210216T16:59:13Z | CVE-2020-8637 | Null | https://github.com/DXY0411/CVE-2020-8637 | A SQL injection vulnerability in TestLink 1.9.20 allows attackers to execute arbitrary SQL commands in dragdroptreenodes.php via the node_id parameter.| 
 | 20210216T11:15:41Z | CVE-2020-8638 | Null | https://github.com/DXY0411/CVE-2020-8638 | A SQL injection vulnerability in TestLink 1.9.20 allows attackers to execute arbitrary SQL commands in planUrgency.php via the urgency parameter.| 
@@ -115,16 +115,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210217T12:51:58Z | Null | https://github.com/s9varesc/url-fuzzing | 0 | 0| 
-| 20210217T12:49:37Z | story book | https://github.com/abhishekkam077/fuzzy-carnival | 0 | 0| 
-| 20210217T12:49:26Z | Data with augmentation and bugs tricks | https://github.com/Kostr0min/fuzzy_data | 0 | 0| 
-| 20210217T12:35:57Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 1304 | 287| 
-| 20210217T12:27:42Z | Null | https://github.com/AR-cyber534/fuzzy-disco | 0 | 0| 
-| 20210217T12:22:28Z | Null | https://github.com/RiaGohel/FuzzyBlog | 0 | 0| 
-| 20210217T12:17:23Z | Open Enclave specific security automation projects (CodeQL static analysis, Fuzzing and binary analysis). | https://github.com/openenclave/openenclave-security | 1 | 2| 
-| 20210217T12:08:25Z | Null | https://github.com/erdifajarf/PMDK_FuzzyAHP | 0 | 0| 
-| 20210217T11:52:08Z | Null | https://github.com/loota/fuzz | 0 | 0| 
-| 20210217T11:21:36Z | Null | https://github.com/FuzzyFade/FuzzyFade | 0 | 0| 
+| 20210218T00:42:54Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 5911 | 1189| 
+| 20210218T00:25:20Z | Null | https://github.com/nelsonbighetti/simple_format_fuzzer | 0 | 0| 
+| 20210218T00:07:06Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2267 | 116| 
+| 20210217T23:09:36Z | FuzzBench - Fuzzer benchmarking as a service. | https://github.com/google/fuzzbench | 596 | 101| 
+| 20210217T22:58:44Z | REST API Fuzz Testing (RAFT): Source code for self-hosted service developed for Azure, including the API, orchestration engine, and default set of security tools (including MSR%s RESTler), that enables developers to embed security tooling into their CI/CD workflows | https://github.com/microsoft/rest-api-fuzz-testing | 107 | 16| 
+| 20210217T22:41:57Z | A site that allows you to reverse image search millions of furry images in under a second | https://github.com/Syfaro/fuzzysearch | 6 | 1| 
+| 20210217T22:33:12Z | Scalable fuzzing infrastructure. | https://github.com/google/clusterfuzz | 4428 | 420| 
+| 20210217T22:09:26Z | Rapid fuzzy string matching in Python using the Levenshtein Distance | https://github.com/maxbachmann/RapidFuzz | 780 | 26| 
+| 20210217T22:02:08Z | GitHub archive for last Peach Fuzzer Community Edition | https://github.com/meeas/peach | 0 | 0| 
+| 20210217T21:57:29Z | Null | https://github.com/connected-cjohnston/fuzzyblog | 0 | 0| 
 
 
 
