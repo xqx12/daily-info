@@ -85,6 +85,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210218T01:52:43Z | Null | https://github.com/adrianoapj/cool-exploit | 0 | 0| 
+| 20210218T01:49:33Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9016 | 1452| 
 | 20210218T01:12:16Z | An advanced GTA Online mod menu base using multiple private (now public) exploits. | https://github.com/TeamPenisBase/PenisBase | 1 | 0| 
 | 20210218T01:02:36Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 9 | 4| 
 | 20210218T01:00:15Z | The AWS exploitation framework, designed for testing the security of Amazon Web Services environments. | https://github.com/RhinoSecurityLabs/pacu | 1874 | 339| 
@@ -93,8 +95,6 @@
 | 20210218T00:11:16Z | Shellphish%s automated exploitation engine, originally created for the Cyber Grand Challenge. | https://github.com/angr/rex | 505 | 105| 
 | 20210218T00:09:17Z | ARTi-C2  is a post-exploitation framework used to execute Atomic Red Team test cases with rapid payload deployment and execution capabilities via .NET%s DLR. | https://github.com/blackbotinc/Atomic-Red-Team-Intelligence-C2 | 68 | 4| 
 | 20210217T23:49:36Z | The initial aim of this product was to create a balanced game of chance in which the player can not exploit any weakness to cheat. I later also used it to explore CSS animations to make it more visually interesting. | https://github.com/Uken81/HoboBalls | 0 | 0| 
-| 20210217T23:31:37Z | Optimal Search | https://github.com/GithubCFG/Exploration_Exploitation_TradeOff | 0 | 0| 
-| 20210217T22:29:01Z | Roblox Exploit with various custom function. Stable and Free to use. | https://github.com/ExoticN01/RektSploit | 1 | 0| 
 
 
 # backdoor on Github 推荐
