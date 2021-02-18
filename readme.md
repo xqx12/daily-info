@@ -48,6 +48,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210218T13:24:31Z | Avyukt is a Exploitation Framework which can be used to generate Malicious Payloads and exploit Windows OS | https://github.com/Vedant-Bhalgama/Avyukt | 26 | 10| 
 | 20210218T13:22:33Z | Remote code base of The Daily Exploits WordPress site. | https://github.com/iaur/tde-wp | 0 | 0| 
 | 20210218T13:10:55Z | K8博客内容存档 | https://github.com/k8gege/k8gege.github.io | 11 | 6| 
 | 20210218T13:06:01Z | K8工具合集(内网渗透/提权工具/远程溢出/漏洞利用/扫描工具/密码破解/免杀工具/Exploit/APT/0day/Shellcode/Payload/priviledge/BypassUAC/OverFlow/WebShell/PenTest) Web GetShell Exploit(Struts2/Zimbra/Weblogic/Tomcat/Apache/Jboss/DotNetNuke/zabbix) | https://github.com/k8gege/K8tools | 3519 | 1665| 
@@ -57,12 +58,12 @@
 | 20210218T12:55:26Z | CrowdKit - Exploring and Exploiting the Wisdom of Crowds | https://github.com/wisdomofcrowds/CrowdKit | 0 | 0| 
 | 20210218T12:50:08Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 7 | 4| 
 | 20210218T12:25:50Z | This Repository contains the stuff related to windows Active directory environment exploitation | https://github.com/incredibleindishell/Windows-AD-environment-related | 119 | 28| 
-| 20210218T12:13:48Z | Red Team exercises for exploitation. Find the bug, exploit it, fix it! | https://github.com/u238/security-ctf | 0 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210218T13:24:31Z | Avyukt is a Exploitation Framework which can be used to generate Malicious Payloads and exploit Windows OS | https://github.com/Vedant-Bhalgama/Avyukt | 26 | 10| 
 | 20210218T13:13:42Z | Null | https://github.com/Wiilldd/backdoor | 0 | 0| 
 | 20210218T11:37:51Z | This is a repository for a AAAI 2020 TAIH workshop paper %Machine Learning with Electronic Health Records is vulnerable to Backdoor Trigger Attacks% | https://github.com/byunggilljoe/mimic3_td_backdoor | 0 | 0| 
 | 20210218T11:26:03Z | Null | https://github.com/EjHvorSerDuVildUdJim/backdoor | 0 | 0| 
@@ -72,7 +73,6 @@
 | 20210218T10:08:27Z | 🤖 AI based Backdoor Written for Windows using Telegram-bot and ZMQ as Its Back-ends. | https://github.com/wildonion/katyusha | 1 | 0| 
 | 20210218T07:19:26Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 167 | 25| 
 | 20210218T05:26:54Z | Reverse Engineering Imperceptible Backdoor Attacks on Deep Neural Networks for Detection and Training Set Cleansing | https://github.com/zhenxianglance/RE-paper | 0 | 0| 
-| 20210218T03:28:07Z | Backdoor. | https://github.com/Saublade/Cbackdoor | 2 | 0| 
 
 
 # fuzz on Github 推荐
