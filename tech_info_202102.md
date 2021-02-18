@@ -55,7 +55,7 @@
 | 20210216T16:59:13Z | CVE-2020-8637 | Null | https://github.com/DXY0411/CVE-2020-8637 | A SQL injection vulnerability in TestLink 1.9.20 allows attackers to execute arbitrary SQL commands in dragdroptreenodes.php via the node_id parameter.| 
 | 20210216T11:15:41Z | CVE-2020-8638 | Null | https://github.com/DXY0411/CVE-2020-8638 | A SQL injection vulnerability in TestLink 1.9.20 allows attackers to execute arbitrary SQL commands in planUrgency.php via the urgency parameter.| 
 | 20210215T23:46:59Z | CVE-2021-27190 | Null | https://github.com/anmolksachan/CVE-2021-27190-PEEL-Shopping-cart-9.3.0-Stored-XSS | A Stored Cross Site Scripting(XSS) Vulnerability was discovered in PEEL SHOPPING 9.3.0 which is publicly available. The user supplied input containing polyglot payload is echoed back in javascript code in HTML response. This allows an attacker to input malicious JavaScript which can steal cookie, redirect them to other malicious website, etc.| 
-| 20210215T18:49:44Z | CVE-2021-26121 | Null | https://github.com/sourceincite/CVE-2021-26121 | | 
+| 20210215T18:49:44Z | CVE-2021-26121 | Null | https://github.com/sourceincite/CVE-2021-26121 | 未查询到CVE信息| 
 
 
 # klee on Github 推荐
@@ -85,6 +85,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210218T01:12:16Z | An advanced GTA Online mod menu base using multiple private (now public) exploits. | https://github.com/TeamPenisBase/PenisBase | 1 | 0| 
 | 20210218T01:02:36Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 9 | 4| 
 | 20210218T01:00:15Z | The AWS exploitation framework, designed for testing the security of Amazon Web Services environments. | https://github.com/RhinoSecurityLabs/pacu | 1874 | 339| 
 | 20210218T00:55:56Z | All the Lua scripts I developed, including exploit scripts (please only use those for educational purposes) | https://github.com/SkiddDev/Scripts | 0 | 0| 
@@ -94,7 +95,6 @@
 | 20210217T23:49:36Z | The initial aim of this product was to create a balanced game of chance in which the player can not exploit any weakness to cheat. I later also used it to explore CSS animations to make it more visually interesting. | https://github.com/Uken81/HoboBalls | 0 | 0| 
 | 20210217T23:31:37Z | Optimal Search | https://github.com/GithubCFG/Exploration_Exploitation_TradeOff | 0 | 0| 
 | 20210217T22:29:01Z | Roblox Exploit with various custom function. Stable and Free to use. | https://github.com/ExoticN01/RektSploit | 1 | 0| 
-| 20210217T21:29:26Z | https://b4ckdoorarchive.club/   HERE THE FIRST FREE BIGGEST AND VIRUS CLEAN ARCHIVE WHERE DOWNLOAD ANY MALWARE & LOTS OF FILES LIKE EXPLOIT,SOURCE CODE,ANDROID,WINDOWS THINGS, ALL YOU NEED HERE FOR FREE. IM TIRED OF ALL PEOPLE TAKE MY FILES AND OPEN HERE A REPOSITORY WITH MY FILES. SO I LINK MY BIGGEST FREE-DOWNLOAD ARCHIVE TO ALL ! | https://github.com/B4ckdoor/Mirai-Botnet-private-tools-exploit-download-2021 | 1 | 0| 
 
 
 # backdoor on Github 推荐
