@@ -86,6 +86,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210219T13:50:20Z | xcube is a Python package for generating and exploiting data cubes powered by xarray, dask, and zarr. | https://github.com/dcs4cop/xcube | 70 | 12| 
 | 20210219T13:27:11Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9025 | 1452| 
 | 20210219T13:24:37Z | The Lost Nintendo DS Television Output, brought back to life | https://github.com/LostNintendoHistory/Lost-NDS-TV | 97 | 6| 
 | 20210219T13:08:12Z | Easy way for exploiting android phones using Metasploit-Framework. Probably won%t work for you bcuz yes. | https://github.com/midnightsonne/MNS-EAndroid | 0 | 0| 
@@ -95,7 +96,6 @@
 | 20210219T12:53:57Z | Windows Stack Based Auto Buffer Overflow Exploiter | https://github.com/etc5had0w/autoflow | 3 | 0| 
 | 20210219T12:50:10Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 7 | 4| 
 | 20210219T12:19:27Z | C2/post-exploitation framework | https://github.com/loseys/BlackMamba | 437 | 25| 
-| 20210219T11:54:14Z | A phased, evasive Path Traversal + LFI scanning & exploitation tool in Python | https://github.com/VainlyStrain/Vailyn | 95 | 4| 
 
 
 # backdoor on Github 推荐
