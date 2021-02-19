@@ -48,7 +48,7 @@
 | --- | --- | --- | --- | ---| 
 | 20210219T11:41:15Z | CVE-2021-1727 | Null | https://github.com/klinix5/CVE-2021-1727 | 未查询到CVE信息| 
 | 20210219T08:16:14Z | CVE-2021-27328 | Null | https://github.com/SQSamir/CVE-2021-27328 | 未查询到CVE信息| 
-| 20210219T07:21:15Z | cve-2020-8165 | Null | https://github.com/danielklim/cve-2020-8165-demo | 未查询到CVE信息| 
+| 20210219T07:21:15Z | cve-2020-8165 | Null | https://github.com/danielklim/cve-2020-8165-demo | | 
 | 20210219T00:36:59Z | CVE-2021-3129 | Laravel <= v8.4.2 debug mode: Remote code execution (CVE-2021-3129) | https://github.com/zhzyker/CVE-2021-3129 | Ignition before 2.5.2, as used in Laravel and other products, allows unauthenticated remote attackers to execute arbitrary code because of insecure usage of file_get_contents() and file_put_contents(). This is exploitable on sites using debug mode with Laravel before 8.4.2.| 
 | 20210218T22:36:00Z | CVE-2021-24085 | Null | https://github.com/sourceincite/CVE-2021-24085 | 未查询到CVE信息| 
 | 20210218T17:31:10Z | CVE-2020-3161 | Null | https://github.com/uromulou/CVE-2020-3161 | A vulnerability in the web server for Cisco IP Phones could allow an unauthenticated, remote attacker to execute code with root privileges or cause a reload of an affected IP phone, resulting in a denial of service (DoS) condition. The vulnerability is due to a lack of proper input validation of HTTP requests. An attacker could exploit this vulnerability by sending a crafted HTTP request to the web server of a targeted device. A successful exploit could allow the attacker to remotely execute code with root privileges or cause a reload of an affected IP phone, resulting in a DoS condition.| 
@@ -86,16 +86,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210219T13:55:52Z | C2/post-exploitation framework | https://github.com/loseys/BlackMamba | 438 | 25| 
+| 20210219T13:55:08Z | The Lost Nintendo DS Television Output, brought back to life | https://github.com/LostNintendoHistory/Lost-NDS-TV | 98 | 6| 
 | 20210219T13:50:20Z | xcube is a Python package for generating and exploiting data cubes powered by xarray, dask, and zarr. | https://github.com/dcs4cop/xcube | 70 | 12| 
 | 20210219T13:27:11Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9025 | 1452| 
-| 20210219T13:24:37Z | The Lost Nintendo DS Television Output, brought back to life | https://github.com/LostNintendoHistory/Lost-NDS-TV | 97 | 6| 
 | 20210219T13:08:12Z | Easy way for exploiting android phones using Metasploit-Framework. Probably won%t work for you bcuz yes. | https://github.com/midnightsonne/MNS-EAndroid | 0 | 0| 
 | 20210219T13:08:02Z | Easy way for exploiting windows computers using Metasploit-Framework. Probably won%t work for you bcuz yes. | https://github.com/midnightsonne/MNS-EWindows | 0 | 0| 
 | 20210219T13:02:29Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 9 | 4| 
 | 20210219T13:01:49Z | This bash script will help you to hack remote hosts  | https://github.com/FabioDefilippo/linuxallremote | 6 | 1| 
 | 20210219T12:53:57Z | Windows Stack Based Auto Buffer Overflow Exploiter | https://github.com/etc5had0w/autoflow | 3 | 0| 
 | 20210219T12:50:10Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 7 | 4| 
-| 20210219T12:19:27Z | C2/post-exploitation framework | https://github.com/loseys/BlackMamba | 437 | 25| 
 
 
 # backdoor on Github 推荐
