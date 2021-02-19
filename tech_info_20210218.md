@@ -6,6 +6,17 @@
 # 玄武实验室 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20210218 | 蔓灵花组织使用 Windows 内核提权 0Day 漏洞攻击国内机构 | http://ti.dbappsecurity.com.cn/blog/index.php/2021/02/10/windows-kernel-zero-day-exploit-is-used-by-bitter-apt-in-targeted-attack-cn/| 
+| 20210218 | A Journey Combining Web Hacking and Binary Exploitation in Real World | https://github.com/orangetw/My-Presentation-Slides/blob/main/data/2021-A-Journey-Combining-Web-and-Binary-Exploitation-in-Real-World.pdf| 
+| 20210218 | IPCDump – BPF Based tool for debugging IPC on linux | https://www.guardicore.com/labs/ipcdump-guardicores-new-open-source-tool-for-linux-ipc-inspection/| 
+| 20210218 | 基于 Windows Native API 与电源管理组件交互 | https://github.com/diversenok/Powercfg| 
+| 20210218 | 利用 GPGME API 的漏洞攻击云上 S3 Linux 主机 | https://www.synacktiv.com/publications/gpgme-used-confusion-its-super-effective.html| 
+| 20210218 | Sudoedit heap overflow 漏洞分析 | https://blog.infosectcbr.com.au/2021/02/sudoedit-heap-overflow.html| 
+| 20210218 | 深度剖析 Windows 启动过程的一些安全保护机制 | https://igor-blue.github.io/2021/02/04/secure-boot.html| 
+| 20210218 | SerenityOS - Writing a full chain exploit | https://devcraft.io/2021/02/11/serenityos-writing-a-full-chain-exploit.html| 
+| 20210218 | 利用 API Hook 的方式检测渗透中常用的几款工具 | https://ilankalendarov.github.io/posts/offensive-hooking/| 
+| 20210218 | 利用 Ubuntu Apport 崩溃处理机制实现本地提权 | https://sec.today/pulses/609066d5-9801-4093-8475-0e9a795331b3/| 
+| 20210218 | 利用 Ubuntu Apport 崩溃处理机制实现本地提权 | https://alephsecurity.com/2021/02/16/apport-lpe/| 
 
 
 # 安全维基 推荐
@@ -23,17 +34,18 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20210218T13:57:02Z | CVE-2020-8637 | Null | https://github.com/DXY0411/CVE-2020-8637 | A SQL injection vulnerability in TestLink 1.9.20 allows attackers to execute arbitrary SQL commands in dragdroptreenodes.php via the node_id parameter.| 
-| 20210218T13:25:59Z | CVE-2021-3129 | Laravel <= v8.4.2 debug mode: Remote code execution (CVE-2021-3129) | https://github.com/zhzyker/CVE-2021-3129 | Ignition before 2.5.2, as used in Laravel and other products, allows unauthenticated remote attackers to execute arbitrary code because of insecure usage of file_get_contents() and file_put_contents(). This is exploitable on sites using debug mode with Laravel before 8.4.2.| 
-| 20210218T10:17:18Z | CVE-2021-25646 | Null | https://github.com/hoanx4/apache_druid_rce_CVE-2021-25646 | Apache Druid includes the ability to execute user-provided JavaScript code embedded in various types of requests. This functionality is intended for use in high-trust environments, and is disabled by default. However, in Druid 0.20.0 and earlier, it is possible for an authenticated user to send a specially-crafted request that forces Druid to run user-provided JavaScript code for that request, regardless of server configuration. This can be leveraged to execute code on the target machine with the privileges of the Druid server process.| 
+| 20210218T22:36:00Z | CVE-2021-24085 | Null | https://github.com/sourceincite/CVE-2021-24085 | 未查询到CVE信息| 
+| 20210218T17:31:10Z | CVE-2020-3161 | Null | https://github.com/uromulou/CVE-2020-3161 | A vulnerability in the web server for Cisco IP Phones could allow an unauthenticated, remote attacker to execute code with root privileges or cause a reload of an affected IP phone, resulting in a denial of service (DoS) condition. The vulnerability is due to a lack of proper input validation of HTTP requests. An attacker could exploit this vulnerability by sending a crafted HTTP request to the web server of a targeted device. A successful exploit could allow the attacker to remotely execute code with root privileges or cause a reload of an affected IP phone, resulting in a DoS condition.| 
+| 20210218T17:09:34Z | CVE-2021-25646 | Null | https://github.com/hoanx4/apache_druid_rce_CVE-2021-25646 | Apache Druid includes the ability to execute user-provided JavaScript code embedded in various types of requests. This functionality is intended for use in high-trust environments, and is disabled by default. However, in Druid 0.20.0 and earlier, it is possible for an authenticated user to send a specially-crafted request that forces Druid to run user-provided JavaScript code for that request, regardless of server configuration. This can be leveraged to execute code on the target machine with the privileges of the Druid server process.| 
+| 20210218T16:45:00Z | CVE-2020-8637 | Null | https://github.com/DXY0411/CVE-2020-8637 | A SQL injection vulnerability in TestLink 1.9.20 allows attackers to execute arbitrary SQL commands in dragdroptreenodes.php via the node_id parameter.| 
 | 20210218T02:06:32Z | CVE-2021-26700 | RCE in NPM VSCode Extention | https://github.com/jackadamson/CVE-2021-26700 | 未查询到CVE信息| 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210218T18:29:04Z | Whole Program LLVM: wllvm ported to go | https://github.com/SRI-CSL/gllvm | 119 | 19| 
 | 20210218T12:51:23Z | Null | https://github.com/fontworks-fonts/Klee | 364 | 10| 
-| 20210218T12:50:52Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 的 Klee One 的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 69 | 3| 
 | 20210218T12:11:37Z | Git Blog | https://github.com/klee30810/klee30810.github.io | 0 | 0| 
 | 20210218T08:19:00Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1630 | 483| 
 | 20210218T07:23:25Z | Symbiotic is a tool for finding bugs in computer programs based on instrumentation, program slicing and KLEE | https://github.com/staticafi/symbiotic | 211 | 34| 

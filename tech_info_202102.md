@@ -6,6 +6,17 @@
 # 玄武实验室 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20210218 | 蔓灵花组织使用 Windows 内核提权 0Day 漏洞攻击国内机构 | http://ti.dbappsecurity.com.cn/blog/index.php/2021/02/10/windows-kernel-zero-day-exploit-is-used-by-bitter-apt-in-targeted-attack-cn/| 
+| 20210218 | A Journey Combining Web Hacking and Binary Exploitation in Real World | https://github.com/orangetw/My-Presentation-Slides/blob/main/data/2021-A-Journey-Combining-Web-and-Binary-Exploitation-in-Real-World.pdf| 
+| 20210218 | IPCDump – BPF Based tool for debugging IPC on linux | https://www.guardicore.com/labs/ipcdump-guardicores-new-open-source-tool-for-linux-ipc-inspection/| 
+| 20210218 | 基于 Windows Native API 与电源管理组件交互 | https://github.com/diversenok/Powercfg| 
+| 20210218 | 利用 GPGME API 的漏洞攻击云上 S3 Linux 主机 | https://www.synacktiv.com/publications/gpgme-used-confusion-its-super-effective.html| 
+| 20210218 | Sudoedit heap overflow 漏洞分析 | https://blog.infosectcbr.com.au/2021/02/sudoedit-heap-overflow.html| 
+| 20210218 | 深度剖析 Windows 启动过程的一些安全保护机制 | https://igor-blue.github.io/2021/02/04/secure-boot.html| 
+| 20210218 | SerenityOS - Writing a full chain exploit | https://devcraft.io/2021/02/11/serenityos-writing-a-full-chain-exploit.html| 
+| 20210218 | 利用 API Hook 的方式检测渗透中常用的几款工具 | https://ilankalendarov.github.io/posts/offensive-hooking/| 
+| 20210218 | 利用 Ubuntu Apport 崩溃处理机制实现本地提权 | https://sec.today/pulses/609066d5-9801-4093-8475-0e9a795331b3/| 
+| 20210218 | 利用 Ubuntu Apport 崩溃处理机制实现本地提权 | https://alephsecurity.com/2021/02/16/apport-lpe/| 
 | 20210208 | WireBug - 用于 VoIP 协议渗透测试的工具 | https://github.com/SySS-Research/WireBug| 
 | 20210208 | 基于 Mistfall Engine 的自动化逆向 | https://vx-underground.org/archive/z0mbie/AutomatedReverseEngineeringMistfallEngine.pdf| 
 | 20210208 | Firefox 发布 85.0.1 版本更新，修复一个高危漏洞 | https://www.mozilla.org/en-US/security/advisories/mfsa2021-06/| 
@@ -15,17 +26,6 @@
 | 20210208 | 微软基于浏览器的远程桌面（RD Web Access）被发现可以通过 Timing Attack 泄露用户名信息 | https://raxis.com/blog/rd-web-access-vulnerability| 
 | 20210208 | 有攻击者利用 Chorme 扩展实现与 C&C 服务器通信，从被攻击电脑上窃取数据 | https://www.zdnet.com/article/google-chrome-syncing-features-can-be-abused-for-c-c-and-data-exfiltration/| 
 | 20210208 | Google 发起 OSV 项目，为开源项目提供漏洞评估与并将漏洞信息整合成标准化数据 | https://security.googleblog.com/2021/02/launching-osv-better-vulnerability.html?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+GoogleOnlineSecurityBlog+%28Google+Online+Security+Blog%29| 
-| 20210208 | 针对“魔罗桫“组织新一轮对南亚军工企业的窃密攻击分析研究。 | https://paper.seebug.org/1483/| 
-| 20210208 | 基于威胁情报周期模型的APT木马剖析溯源。 | https://security.tencent.com/index.php/blog/msg/180| 
-| 20210205 | Chainalysis 团队从区块链的角度分析发现 2020 年最大的 4 起勒索软件攻击实现存在关联 | https://blog.chainalysis.com/reports/ransomware-connections-maze-egregor-suncrypt-doppelpaymer| 
-| 20210205 | Windows API IsDebuggerPresent 的实现分析 | https://medium.com/ax1al/isdebuggerpresent-internals-7be4ea642d33| 
-| 20210205 | Abusing Google Chrome extension syncing for data exfiltration and C&C | https://isc.sans.edu/forums/diary/Abusing+Google+Chrome+extension+syncing+for+data+exfiltration+and+CC/27066/| 
-| 20210205 | Tailoring Cobalt Strike on Target | https://blog.xpnsec.com/tailoring-cobalt-strike-on-target/| 
-| 20210205 | 恢复成砖的 SSD | https://fmad.io/blog-ssd-bricked-restore.html| 
-| 20210205 | Issue 2114: Apple CoreText libType1Scaler.dylib heap buffer overflow in Counter Control Hints | https://bugs.chromium.org/p/project-zero/issues/detail?id=2114| 
-| 20210205 | A Look at CVE-2020-17087 | https://ch3rn0byl.com/2021/02/a-look-at-cve-2020-17087/| 
-| 20210205 | 据 ENKI 研究员分析，朝鲜黑客除了利用 Chrome 漏洞攻击黑客，还使用了 IE 0Day | https://enki.co.kr/blog/2021/02/04/ie_0day.html| 
-| 20210205 | 0day Exploit Root Cause Analyses | https://googleprojectzero.blogspot.com/p/rca.html| 
 
 
 # 安全维基 推荐
@@ -46,23 +46,24 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20210218T13:57:02Z | CVE-2020-8637 | Null | https://github.com/DXY0411/CVE-2020-8637 | A SQL injection vulnerability in TestLink 1.9.20 allows attackers to execute arbitrary SQL commands in dragdroptreenodes.php via the node_id parameter.| 
-| 20210218T13:25:59Z | CVE-2021-3129 | Laravel <= v8.4.2 debug mode: Remote code execution (CVE-2021-3129) | https://github.com/zhzyker/CVE-2021-3129 | Ignition before 2.5.2, as used in Laravel and other products, allows unauthenticated remote attackers to execute arbitrary code because of insecure usage of file_get_contents() and file_put_contents(). This is exploitable on sites using debug mode with Laravel before 8.4.2.| 
-| 20210218T10:17:18Z | CVE-2021-25646 | Null | https://github.com/hoanx4/apache_druid_rce_CVE-2021-25646 | Apache Druid includes the ability to execute user-provided JavaScript code embedded in various types of requests. This functionality is intended for use in high-trust environments, and is disabled by default. However, in Druid 0.20.0 and earlier, it is possible for an authenticated user to send a specially-crafted request that forces Druid to run user-provided JavaScript code for that request, regardless of server configuration. This can be leveraged to execute code on the target machine with the privileges of the Druid server process.| 
+| 20210219T00:36:59Z | CVE-2021-3129 | Laravel <= v8.4.2 debug mode: Remote code execution (CVE-2021-3129) | https://github.com/zhzyker/CVE-2021-3129 | Ignition before 2.5.2, as used in Laravel and other products, allows unauthenticated remote attackers to execute arbitrary code because of insecure usage of file_get_contents() and file_put_contents(). This is exploitable on sites using debug mode with Laravel before 8.4.2.| 
+| 20210218T22:36:00Z | CVE-2021-24085 | Null | https://github.com/sourceincite/CVE-2021-24085 | 未查询到CVE信息| 
+| 20210218T17:31:10Z | CVE-2020-3161 | Null | https://github.com/uromulou/CVE-2020-3161 | A vulnerability in the web server for Cisco IP Phones could allow an unauthenticated, remote attacker to execute code with root privileges or cause a reload of an affected IP phone, resulting in a denial of service (DoS) condition. The vulnerability is due to a lack of proper input validation of HTTP requests. An attacker could exploit this vulnerability by sending a crafted HTTP request to the web server of a targeted device. A successful exploit could allow the attacker to remotely execute code with root privileges or cause a reload of an affected IP phone, resulting in a DoS condition.| 
+| 20210218T17:09:34Z | CVE-2021-25646 | Null | https://github.com/hoanx4/apache_druid_rce_CVE-2021-25646 | Apache Druid includes the ability to execute user-provided JavaScript code embedded in various types of requests. This functionality is intended for use in high-trust environments, and is disabled by default. However, in Druid 0.20.0 and earlier, it is possible for an authenticated user to send a specially-crafted request that forces Druid to run user-provided JavaScript code for that request, regardless of server configuration. This can be leveraged to execute code on the target machine with the privileges of the Druid server process.| 
+| 20210218T16:45:00Z | CVE-2020-8637 | Null | https://github.com/DXY0411/CVE-2020-8637 | A SQL injection vulnerability in TestLink 1.9.20 allows attackers to execute arbitrary SQL commands in dragdroptreenodes.php via the node_id parameter.| 
 | 20210218T02:06:32Z | CVE-2021-26700 | RCE in NPM VSCode Extention | https://github.com/jackadamson/CVE-2021-26700 | 未查询到CVE信息| 
-| 20210217T23:54:48Z | CVE-2021-24085 | Null | https://github.com/sourceincite/CVE-2021-24085 | 未查询到CVE信息| 
 | 20210217T12:03:28Z | CVE-2021-1727 | Null | https://github.com/klinix5/CVE-2021-1727 | 未查询到CVE信息| 
 | 20210217T09:23:59Z | CVE-2020-7247 | OpenSMTPD 6.4.0 - 6.6.1 Remote Code Execution PoC exploit | https://github.com/QTranspose/CVE-2020-7247-exploit | smtp_mailaddr in smtp_session.c in OpenSMTPD 6.6, as used in OpenBSD 6.6 and other products, allows remote attackers to execute arbitrary commands as root via a crafted SMTP session, as demonstrated by shell metacharacters in a MAIL FROM field. This affects the %uncommented% default configuration. The issue exists because of an incorrect return value upon failure of input validation.| 
 | 20210216T20:37:30Z | cve-2020-8165 | Null | https://github.com/danielklim/cve-2020-8165-demo | 未查询到CVE信息| 
 | 20210216T17:47:46Z | CVE-2021-1782 | Null | https://github.com/synacktiv/CVE-2021-1782 | 未查询到CVE信息| 
-| 20210216T11:15:41Z | CVE-2020-8638 | Null | https://github.com/DXY0411/CVE-2020-8638 | A SQL injection vulnerability in TestLink 1.9.20 allows attackers to execute arbitrary SQL commands in planUrgency.php via the urgency parameter.| 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210219T00:48:50Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 的 Klee One 的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 74 | 3| 
+| 20210218T18:29:04Z | Whole Program LLVM: wllvm ported to go | https://github.com/SRI-CSL/gllvm | 119 | 19| 
 | 20210218T12:51:23Z | Null | https://github.com/fontworks-fonts/Klee | 364 | 10| 
-| 20210218T12:50:52Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 的 Klee One 的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 69 | 3| 
 | 20210218T12:11:37Z | Git Blog | https://github.com/klee30810/klee30810.github.io | 0 | 0| 
 | 20210218T08:19:00Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1630 | 483| 
 | 20210218T07:23:25Z | Symbiotic is a tool for finding bugs in computer programs based on instrumentation, program slicing and KLEE | https://github.com/staticafi/symbiotic | 211 | 34| 
@@ -70,7 +71,6 @@
 | 20210217T23:47:03Z | C library to support Map2Check Tool | https://github.com/hbgit/map2check-library | 0 | 0| 
 | 20210217T15:03:39Z | The compiler inputs a PDDL benchmark of the Carpark planning problem and converts it to an equivalent C code which is used for solving the planning problem by program verification tools such as KLEE/TracerX. | https://github.com/daneshvar-amrollahi/Carpark-PDDL2C | 0 | 0| 
 | 20210216T20:46:22Z | Null | https://github.com/mitchklee35/MitchKlee.com | 0 | 0| 
-| 20210216T13:18:09Z | Null | https://github.com/LitRHap/klee-bot | 0 | 0| 
 
 
 # s2e on Github 推荐
