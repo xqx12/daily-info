@@ -39,6 +39,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210219T13:27:11Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9025 | 1452| 
 | 20210219T13:24:37Z | The Lost Nintendo DS Television Output, brought back to life | https://github.com/LostNintendoHistory/Lost-NDS-TV | 97 | 6| 
 | 20210219T13:08:12Z | Easy way for exploiting android phones using Metasploit-Framework. Probably won%t work for you bcuz yes. | https://github.com/midnightsonne/MNS-EAndroid | 0 | 0| 
 | 20210219T13:08:02Z | Easy way for exploiting windows computers using Metasploit-Framework. Probably won%t work for you bcuz yes. | https://github.com/midnightsonne/MNS-EWindows | 0 | 0| 
@@ -48,7 +49,6 @@
 | 20210219T12:50:10Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 7 | 4| 
 | 20210219T12:19:27Z | C2/post-exploitation framework | https://github.com/loseys/BlackMamba | 437 | 25| 
 | 20210219T11:54:14Z | A phased, evasive Path Traversal + LFI scanning & exploitation tool in Python | https://github.com/VainlyStrain/Vailyn | 95 | 4| 
-| 20210219T11:48:14Z | Null | https://github.com/akemery/cours_systeme_exploitation | 0 | 1| 
 
 
 # backdoor on Github 推荐
