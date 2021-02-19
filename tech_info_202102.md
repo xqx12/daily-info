@@ -85,31 +85,31 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210218T13:43:35Z | Small crash client base for retarded(german) people who steal other people%s code. | https://github.com/narumii/Niko | 6 | 0| 
-| 20210218T13:24:31Z | Avyukt is a Exploitation Framework which can be used to generate Malicious Payloads and exploit Windows OS | https://github.com/Vedant-Bhalgama/Avyukt | 26 | 10| 
-| 20210218T13:22:33Z | Remote code base of The Daily Exploits WordPress site. | https://github.com/iaur/tde-wp | 0 | 0| 
-| 20210218T13:10:55Z | K8博客内容存档 | https://github.com/k8gege/k8gege.github.io | 11 | 6| 
-| 20210218T13:06:01Z | K8工具合集(内网渗透/提权工具/远程溢出/漏洞利用/扫描工具/密码破解/免杀工具/Exploit/APT/0day/Shellcode/Payload/priviledge/BypassUAC/OverFlow/WebShell/PenTest) Web GetShell Exploit(Struts2/Zimbra/Weblogic/Tomcat/Apache/Jboss/DotNetNuke/zabbix) | https://github.com/k8gege/K8tools | 3519 | 1665| 
-| 20210218T13:04:50Z | 大型内网渗透扫描器&Cobalt Strike，Ladon7.2内置94个模块，包含信息收集/存活主机/端口扫描/服务识别/密码爆破/漏洞检测/漏洞利用。漏洞检测含MS17010/SMBGhost/Weblogic/ActiveMQ/Tomcat/Struts2，密码口令爆破(Mysql/Oracle/MSSQL)/FTP/SSH(Linux)/VNC/Windows(IPC/WMI/SMB/Netbios/LDAP/SmbHash/WmiHash/Winrm),远程执行命令(wmiexe/psexec/atexec/sshexec/webshell),降权提权Runas、GetSystem，Poc/Exploit,支持Cobalt Strike 3.X-4.0 | https://github.com/k8gege/Ladon | 2235 | 564| 
-| 20210218T13:02:25Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 9 | 4| 
-| 20210218T12:56:18Z | courses, exploits and lots of code, as i am currently preparing for this exam, i will keep updating everthing i learned or coded here | https://github.com/kainesmicheal/OSWE | 1 | 1| 
-| 20210218T12:55:26Z | CrowdKit - Exploring and Exploiting the Wisdom of Crowds | https://github.com/wisdomofcrowds/CrowdKit | 0 | 0| 
-| 20210218T12:50:08Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 7 | 4| 
+| 20210219T01:02:53Z | Null | https://github.com/RyouYoo/exploit_tensho | 0 | 0| 
+| 20210219T01:02:45Z | A spigot based plugin dedicated to fixing glitches and exploits that have made it into final Minecraft releases. | https://github.com/dniym/IllegalStack | 39 | 13| 
+| 20210219T01:02:38Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 9 | 4| 
+| 20210219T01:02:11Z | The Lost Nintendo DS Television Output, brought back to life | https://github.com/LostNintendoHistory/Lost-NDS-TV | 28 | 2| 
+| 20210219T00:50:09Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 7 | 4| 
+| 20210219T00:22:22Z | Based on the collection of various router security keys, the purpose of this generator is to understand the typical security key pattern and to show that it can be exploited to create a suitable generator. | https://github.com/n3rada/Rainbox | 0 | 0| 
+| 20210219T00:16:31Z | PoC exploit for a WoTBlitz replay vulnerability allowing for RCE and account hijack | https://github.com/Xeb3rnium/WoTBlitz-Replay-Exploit | 0 | 0| 
+| 20210218T23:30:36Z | This bash script will help you to hack remote hosts  | https://github.com/FabioDefilippo/linuxallremote | 6 | 1| 
+| 20210218T22:55:46Z | A phased, evasive Path Traversal + LFI scanning & exploitation tool in Python | https://github.com/VainlyStrain/Vailyn | 95 | 4| 
+| 20210218T22:41:07Z | Bash script to exploit the RCE of webmin 1.580. Further reading can be found on https://backdot.tk/webmin-1-580/ | https://github.com/Kx1z0/webmin-1-580-RCE | 0 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210218T13:45:50Z | Null | https://github.com/Wiilldd/backdoor | 0 | 0| 
-| 20210218T13:24:31Z | Avyukt is a Exploitation Framework which can be used to generate Malicious Payloads and exploit Windows OS | https://github.com/Vedant-Bhalgama/Avyukt | 26 | 10| 
-| 20210218T11:37:51Z | This is a repository for a AAAI 2020 TAIH workshop paper %Machine Learning with Electronic Health Records is vulnerable to Backdoor Trigger Attacks% | https://github.com/byunggilljoe/mimic3_td_backdoor | 0 | 0| 
-| 20210218T11:26:03Z | Null | https://github.com/EjHvorSerDuVildUdJim/backdoor | 0 | 0| 
-| 20210218T11:15:06Z | Pupy is an opensource, cross-platform (Windows, Linux, OSX, Android) remote administration and post-exploitation tool mainly written in python | https://github.com/n1nj4sec/pupy | 6155 | 1581| 
-| 20210218T11:02:46Z | PyDoor is backdoor-based software with some interesting features. | https://github.com/Kamelleon/PyDoor-Python_Backdoor | 0 | 0| 
-| 20210218T10:42:38Z | Neural networks for the Fooling a Complete Neural Network Verifier paper (ICLR 2021) | https://github.com/szegedai/nn_backdoor | 0 | 0| 
-| 20210218T10:08:27Z | 🤖 AI based Backdoor Written for Windows using Telegram-bot and ZMQ as Its Back-ends. | https://github.com/wildonion/katyusha | 1 | 0| 
-| 20210218T07:19:26Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 167 | 25| 
-| 20210218T05:26:54Z | Reverse Engineering Imperceptible Backdoor Attacks on Deep Neural Networks for Detection and Training Set Cleansing | https://github.com/zhenxianglance/RE-paper | 0 | 0| 
+| 20210219T00:31:37Z | Tool to find potential backdoor/security holes in your endpoint | https://github.com/subasgit/backdoorfinder | 2 | 0| 
+| 20210218T20:50:32Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 168 | 25| 
+| 20210218T20:30:51Z | shell backdoor buat peretas website, di jamin tembus di segala perang :) , sudah di test di beberapa  website bahkan server windows sekalipun rasanya ANJING BANGET | https://github.com/beruangsalju/shell | 1 | 3| 
+| 20210218T20:04:13Z | Null | https://github.com/EjHvorSerDuVildUdJim/backdoor | 0 | 0| 
+| 20210218T19:44:10Z | Null | https://github.com/fenilsuchak/test-mlm-backdoor | 0 | 0| 
+| 20210218T16:59:29Z | LeuxBackdoor Beta 0.6 leaked By Venuz | https://github.com/PhobosNoRat/LeuxBackdoor-Beta-0.6-Leaked | 0 | 0| 
+| 20210218T16:43:39Z | WaNet - Imperceptible Warping-based Backdoor Attack (International Conference on Learning Representations 2021) | https://github.com/VinAIResearch/Warping-based_Backdoor_Attack-release | 0 | 0| 
+| 20210218T16:17:01Z | Null | https://github.com/Wiilldd/backdoor | 0 | 0| 
+| 20210218T15:55:37Z | Backdoor. | https://github.com/Saublade/Cbackdoor | 0 | 0| 
+| 20210218T15:29:29Z | Web application backdoor builder | https://github.com/M4DM0e/Door404 | 55 | 15| 
 
 
 # fuzz on Github 推荐
