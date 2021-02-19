@@ -85,6 +85,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210219T01:37:54Z | exploit-database-papers | https://github.com/offensive-security/exploitdb-papers | 281 | 39| 
 | 20210219T01:35:59Z | The Lost Nintendo DS Television Output, brought back to life | https://github.com/LostNintendoHistory/Lost-NDS-TV | 42 | 2| 
 | 20210219T01:02:53Z | Null | https://github.com/RyouYoo/exploit_tensho | 0 | 0| 
 | 20210219T01:02:45Z | A spigot based plugin dedicated to fixing glitches and exploits that have made it into final Minecraft releases. | https://github.com/dniym/IllegalStack | 39 | 13| 
@@ -94,7 +95,6 @@
 | 20210219T00:22:22Z | Based on the collection of various router security keys, the purpose of this generator is to understand the typical security key pattern and to show that it can be exploited to create a suitable generator. | https://github.com/n3rada/Rainbox | 0 | 0| 
 | 20210219T00:16:31Z | PoC exploit for a WoTBlitz replay vulnerability allowing for RCE and account hijack | https://github.com/Xeb3rnium/WoTBlitz-Replay-Exploit | 0 | 0| 
 | 20210218T23:30:36Z | This bash script will help you to hack remote hosts  | https://github.com/FabioDefilippo/linuxallremote | 6 | 1| 
-| 20210218T22:55:46Z | A phased, evasive Path Traversal + LFI scanning & exploitation tool in Python | https://github.com/VainlyStrain/Vailyn | 95 | 4| 
 
 
 # backdoor on Github 推荐
