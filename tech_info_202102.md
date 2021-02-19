@@ -46,27 +46,27 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20210219T11:41:15Z | CVE-2021-1727 | Null | https://github.com/klinix5/CVE-2021-1727 | 未查询到CVE信息| 
+| 20210219T08:16:14Z | CVE-2021-27328 | Null | https://github.com/SQSamir/CVE-2021-27328 | 未查询到CVE信息| 
+| 20210219T07:21:15Z | cve-2020-8165 | Null | https://github.com/danielklim/cve-2020-8165-demo | 未查询到CVE信息| 
 | 20210219T00:36:59Z | CVE-2021-3129 | Laravel <= v8.4.2 debug mode: Remote code execution (CVE-2021-3129) | https://github.com/zhzyker/CVE-2021-3129 | Ignition before 2.5.2, as used in Laravel and other products, allows unauthenticated remote attackers to execute arbitrary code because of insecure usage of file_get_contents() and file_put_contents(). This is exploitable on sites using debug mode with Laravel before 8.4.2.| 
-| 20210218T22:36:00Z | CVE-2021-24085 | Null | https://github.com/sourceincite/CVE-2021-24085 | 未查询到CVE信息| 
+| 20210218T22:36:00Z | CVE-2021-24085 | Null | https://github.com/sourceincite/CVE-2021-24085 | | 
 | 20210218T17:31:10Z | CVE-2020-3161 | Null | https://github.com/uromulou/CVE-2020-3161 | A vulnerability in the web server for Cisco IP Phones could allow an unauthenticated, remote attacker to execute code with root privileges or cause a reload of an affected IP phone, resulting in a denial of service (DoS) condition. The vulnerability is due to a lack of proper input validation of HTTP requests. An attacker could exploit this vulnerability by sending a crafted HTTP request to the web server of a targeted device. A successful exploit could allow the attacker to remotely execute code with root privileges or cause a reload of an affected IP phone, resulting in a DoS condition.| 
 | 20210218T17:09:34Z | CVE-2021-25646 | Null | https://github.com/hoanx4/apache_druid_rce_CVE-2021-25646 | Apache Druid includes the ability to execute user-provided JavaScript code embedded in various types of requests. This functionality is intended for use in high-trust environments, and is disabled by default. However, in Druid 0.20.0 and earlier, it is possible for an authenticated user to send a specially-crafted request that forces Druid to run user-provided JavaScript code for that request, regardless of server configuration. This can be leveraged to execute code on the target machine with the privileges of the Druid server process.| 
 | 20210218T16:45:00Z | CVE-2020-8637 | Null | https://github.com/DXY0411/CVE-2020-8637 | A SQL injection vulnerability in TestLink 1.9.20 allows attackers to execute arbitrary SQL commands in dragdroptreenodes.php via the node_id parameter.| 
-| 20210218T02:06:32Z | CVE-2021-26700 | RCE in NPM VSCode Extention | https://github.com/jackadamson/CVE-2021-26700 | | 
-| 20210217T12:03:28Z | CVE-2021-1727 | Null | https://github.com/klinix5/CVE-2021-1727 | 未查询到CVE信息| 
-| 20210217T09:23:59Z | CVE-2020-7247 | OpenSMTPD 6.4.0 - 6.6.1 Remote Code Execution PoC exploit | https://github.com/QTranspose/CVE-2020-7247-exploit | smtp_mailaddr in smtp_session.c in OpenSMTPD 6.6, as used in OpenBSD 6.6 and other products, allows remote attackers to execute arbitrary commands as root via a crafted SMTP session, as demonstrated by shell metacharacters in a MAIL FROM field. This affects the %uncommented% default configuration. The issue exists because of an incorrect return value upon failure of input validation.| 
-| 20210216T20:37:30Z | cve-2020-8165 | Null | https://github.com/danielklim/cve-2020-8165-demo | 未查询到CVE信息| 
-| 20210216T17:47:46Z | CVE-2021-1782 | Null | https://github.com/synacktiv/CVE-2021-1782 | 未查询到CVE信息| 
+| 20210218T02:06:32Z | CVE-2021-26700 | RCE in NPM VSCode Extention | https://github.com/jackadamson/CVE-2021-26700 | 未查询到CVE信息| 
+| 20210217T09:23:59Z | CVE-2020-7247 | OpenSMTPD 6.4.0 - 6.6.1 Remote Code Execution PoC exploit | https://github.com/QTranspose/CVE-2020-7247-exploit | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210219T02:39:51Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 的 Klee One 的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 75 | 3| 
+| 20210219T12:08:37Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 的 Klee One 的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 82 | 3| 
+| 20210219T06:09:46Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1631 | 483| 
 | 20210219T01:21:56Z | Create CFGs and compute complexity metrics for Python, C++, and Java code. | https://github.com/hmc-alpaqa/metrinome | 6 | 0| 
 | 20210218T18:29:04Z | Whole Program LLVM: wllvm ported to go | https://github.com/SRI-CSL/gllvm | 119 | 19| 
 | 20210218T12:51:23Z | Null | https://github.com/fontworks-fonts/Klee | 364 | 10| 
 | 20210218T12:11:37Z | Git Blog | https://github.com/klee30810/klee30810.github.io | 0 | 0| 
-| 20210218T08:19:00Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1630 | 483| 
 | 20210218T07:23:25Z | Symbiotic is a tool for finding bugs in computer programs based on instrumentation, program slicing and KLEE | https://github.com/staticafi/symbiotic | 211 | 34| 
 | 20210218T02:10:49Z | Spring 2021 Geography 817 work folder  | https://github.com/klee12/klee12.github.io | 0 | 0| 
 | 20210217T23:47:03Z | C library to support Map2Check Tool | https://github.com/hbgit/map2check-library | 0 | 0| 
@@ -76,6 +76,7 @@
 # s2e on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210219T07:34:16Z | Null | https://github.com/Anubhab1997/s2ecomm | 0 | 0| 
 | 20210217T05:59:09Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 97 | 22| 
 | 20210214T11:48:35Z | S2E website (s2e.systems) | https://github.com/S2E2/s2e2.github.io | 0 | 0| 
 | 20210214T11:46:48Z | Your S2E project management tools. Visit https://s2e.systems/docs to get started. | https://github.com/S2E/s2e-env | 71 | 30| 
@@ -85,31 +86,31 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210219T02:48:18Z | The Lost Nintendo DS Television Output, brought back to life | https://github.com/LostNintendoHistory/Lost-NDS-TV | 51 | 2| 
-| 20210219T02:09:45Z | Null | https://github.com/nobelherrrera/wx-kernel-exploits | 0 | 0| 
-| 20210219T02:07:23Z | Active Directory Exploit | https://github.com/cc0a/dark_directory | 0 | 0| 
-| 20210219T02:02:40Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 9 | 4| 
-| 20210219T01:37:54Z | exploit-database-papers | https://github.com/offensive-security/exploitdb-papers | 281 | 39| 
-| 20210219T01:02:53Z | Null | https://github.com/RyouYoo/exploit_tensho | 0 | 0| 
-| 20210219T01:02:45Z | A spigot based plugin dedicated to fixing glitches and exploits that have made it into final Minecraft releases. | https://github.com/dniym/IllegalStack | 39 | 13| 
-| 20210219T00:52:13Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9021 | 1452| 
-| 20210219T00:50:09Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 7 | 4| 
-| 20210219T00:22:22Z | Based on the collection of various router security keys, the purpose of this generator is to understand the typical security key pattern and to show that it can be exploited to create a suitable generator. | https://github.com/n3rada/Rainbox | 0 | 0| 
+| 20210219T12:53:57Z | Windows Stack Based Auto Buffer Overflow Exploiter | https://github.com/etc5had0w/autoflow | 3 | 0| 
+| 20210219T12:50:10Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 7 | 4| 
+| 20210219T12:38:47Z | The Lost Nintendo DS Television Output, brought back to life | https://github.com/LostNintendoHistory/Lost-NDS-TV | 93 | 6| 
+| 20210219T12:19:27Z | C2/post-exploitation framework | https://github.com/loseys/BlackMamba | 437 | 25| 
+| 20210219T12:02:52Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 9 | 4| 
+| 20210219T11:54:14Z | A phased, evasive Path Traversal + LFI scanning & exploitation tool in Python | https://github.com/VainlyStrain/Vailyn | 95 | 4| 
+| 20210219T11:48:14Z | Null | https://github.com/akemery/cours_systeme_exploitation | 0 | 1| 
+| 20210219T11:35:13Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9024 | 1451| 
+| 20210219T10:53:07Z | CTF framework and exploit development library | https://github.com/Gallopsled/pwntools | 7547 | 1356| 
+| 20210219T09:07:16Z | Remote code base of The Daily Exploits WordPress site. | https://github.com/iaur/tde-wp | 0 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210219T12:55:25Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 170 | 26| 
+| 20210219T10:46:36Z | WaNet - Imperceptible Warping-based Backdoor Attack (International Conference on Learning Representations 2021) | https://github.com/VinAIResearch/Warping-based_Backdoor_Attack-release | 0 | 0| 
+| 20210219T10:44:12Z | This repository contains source code for reverse tcp backdoor in python. | https://github.com/programmingconcepts/Reverse-TCP-Backdoor-In-Python | 0 | 0| 
+| 20210219T04:53:30Z | Backdoors Framework for Deep Learning and Federated Learning. A light-weight tool to conduct your research on backdoors. | https://github.com/ebagdasa/backdoors101 | 51 | 8| 
 | 20210219T00:31:37Z | Tool to find potential backdoor/security holes in your endpoint | https://github.com/subasgit/backdoorfinder | 2 | 0| 
-| 20210218T20:50:32Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 168 | 25| 
 | 20210218T20:30:51Z | shell backdoor buat peretas website, di jamin tembus di segala perang :) , sudah di test di beberapa  website bahkan server windows sekalipun rasanya ANJING BANGET | https://github.com/beruangsalju/shell | 1 | 3| 
 | 20210218T20:04:13Z | Null | https://github.com/EjHvorSerDuVildUdJim/backdoor | 0 | 0| 
 | 20210218T19:44:10Z | Null | https://github.com/fenilsuchak/test-mlm-backdoor | 0 | 0| 
 | 20210218T16:59:29Z | LeuxBackdoor Beta 0.6 leaked By Venuz | https://github.com/PhobosNoRat/LeuxBackdoor-Beta-0.6-Leaked | 0 | 0| 
-| 20210218T16:43:39Z | WaNet - Imperceptible Warping-based Backdoor Attack (International Conference on Learning Representations 2021) | https://github.com/VinAIResearch/Warping-based_Backdoor_Attack-release | 0 | 0| 
 | 20210218T16:17:01Z | Null | https://github.com/Wiilldd/backdoor | 0 | 0| 
-| 20210218T15:55:37Z | Backdoor. | https://github.com/Saublade/Cbackdoor | 0 | 0| 
-| 20210218T15:29:29Z | Web application backdoor builder | https://github.com/M4DM0e/Door404 | 55 | 15| 
 
 
 # fuzz on Github 推荐
