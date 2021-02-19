@@ -116,16 +116,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210219T02:50:25Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 1311 | 287| 
-| 20210219T02:20:16Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 5933 | 1191| 
-| 20210219T01:31:28Z | RESTler is the first stateful REST API fuzzing tool for automatically testing cloud services through their REST APIs and finding security and reliability bugs in these services. | https://github.com/microsoft/restler-fuzzer | 671 | 67| 
-| 20210219T01:13:10Z | just sitting back enjoying life | https://github.com/03-65/fuzzy-lamp | 0 | 0| 
-| 20210219T00:27:18Z | Null | https://github.com/opimentel-github/fuzzy-torch | 0 | 0| 
-| 20210219T00:20:27Z | Simple AI demo using fuzzy system. | https://github.com/HyungseobKim/FuzzySystemDemo | 0 | 0| 
-| 20210219T00:00:47Z | Fuzzy matching publications for fatcat (wip). | https://github.com/miku/fuzzycat | 1 | 1| 
-| 20210218T22:45:47Z | This is the main website and system for Ball Fuzz Tennis Center. | https://github.com/Ball-Fuzz-Tennis-Center/Tennis-System | 0 | 0| 
-| 20210218T22:34:37Z | Software for fuzzing, used on web application pentestings. | https://github.com/NESCAU-UFLA/FuzzingTool | 4 | 1| 
-| 20210218T22:34:10Z | Null | https://github.com/stopdaydreaming/fuzzy-react-portfolio | 0 | 0| 
+| 20210219T13:43:28Z | 🐇 Fuzzing Rust code with American Fuzzy Lop | https://github.com/rust-fuzz/afl.rs | 984 | 72| 
+| 20210219T13:40:39Z | Distributed fuzzing framework using hadoop and map-reduce | https://github.com/shubham3063/dfuzz | 0 | 0| 
+| 20210219T13:23:44Z | Null | https://github.com/s9varesc/url-fuzzing | 0 | 0| 
+| 20210219T13:15:31Z | Personal website of Laurence Hughes | https://github.com/fuzzylogicxx/fuzzylogic | 4 | 1| 
+| 20210219T13:12:56Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 5943 | 1193| 
+| 20210219T12:33:12Z | Generates Elm types, JSON decoders, JSON encoders and fuzz tests from JSON schema specifications | https://github.com/dragonwasrobot/json-schema-to-elm | 63 | 7| 
+| 20210219T12:12:53Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 3350 | 772| 
+| 20210219T12:06:33Z | Coverage-guided, in-process fuzzing for the JVM | https://github.com/CodeIntelligenceTesting/jazzer | 181 | 7| 
+| 20210219T11:41:54Z | Null | https://github.com/FDU-Program-Analysis/chunk-fuzzer-pass | 0 | 0| 
+| 20210219T11:31:08Z | Null | https://github.com/0869990343/fuzzy-tribble | 1 | 0| 
 
 
 
