@@ -39,6 +39,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210219T13:08:12Z | Easy way for exploiting android phones using Metasploit-Framework. Probably won%t work for you bcuz yes. | https://github.com/midnightsonne/MNS-EAndroid | 0 | 0| 
+| 20210219T13:08:02Z | Easy way for exploiting windows computers using Metasploit-Framework. Probably won%t work for you bcuz yes. | https://github.com/midnightsonne/MNS-EWindows | 0 | 0| 
 | 20210219T13:04:12Z | The Lost Nintendo DS Television Output, brought back to life | https://github.com/LostNintendoHistory/Lost-NDS-TV | 95 | 6| 
 | 20210219T13:02:29Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 9 | 4| 
 | 20210219T13:01:49Z | This bash script will help you to hack remote hosts  | https://github.com/FabioDefilippo/linuxallremote | 6 | 1| 
@@ -47,8 +49,6 @@
 | 20210219T12:19:27Z | C2/post-exploitation framework | https://github.com/loseys/BlackMamba | 437 | 25| 
 | 20210219T11:54:14Z | A phased, evasive Path Traversal + LFI scanning & exploitation tool in Python | https://github.com/VainlyStrain/Vailyn | 95 | 4| 
 | 20210219T11:48:14Z | Null | https://github.com/akemery/cours_systeme_exploitation | 0 | 1| 
-| 20210219T11:35:13Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9024 | 1451| 
-| 20210219T10:53:07Z | CTF framework and exploit development library | https://github.com/Gallopsled/pwntools | 7547 | 1356| 
 
 
 # backdoor on Github 推荐
