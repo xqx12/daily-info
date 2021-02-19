@@ -85,7 +85,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210219T02:44:55Z | The Lost Nintendo DS Television Output, brought back to life | https://github.com/LostNintendoHistory/Lost-NDS-TV | 50 | 2| 
+| 20210219T02:48:18Z | The Lost Nintendo DS Television Output, brought back to life | https://github.com/LostNintendoHistory/Lost-NDS-TV | 51 | 2| 
 | 20210219T02:09:45Z | Null | https://github.com/nobelherrrera/wx-kernel-exploits | 0 | 0| 
 | 20210219T02:07:23Z | Active Directory Exploit | https://github.com/cc0a/dark_directory | 0 | 0| 
 | 20210219T02:02:40Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 9 | 4| 
@@ -115,7 +115,8 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210219T01:53:55Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 5932 | 1191| 
+| 20210219T02:32:16Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 1310 | 287| 
+| 20210219T02:20:16Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 5933 | 1191| 
 | 20210219T01:31:28Z | RESTler is the first stateful REST API fuzzing tool for automatically testing cloud services through their REST APIs and finding security and reliability bugs in these services. | https://github.com/microsoft/restler-fuzzer | 671 | 67| 
 | 20210219T01:13:10Z | just sitting back enjoying life | https://github.com/03-65/fuzzy-lamp | 0 | 0| 
 | 20210219T00:27:18Z | Null | https://github.com/opimentel-github/fuzzy-torch | 0 | 0| 
@@ -124,7 +125,6 @@
 | 20210218T22:45:47Z | This is the main website and system for Ball Fuzz Tennis Center. | https://github.com/Ball-Fuzz-Tennis-Center/Tennis-System | 0 | 0| 
 | 20210218T22:34:37Z | Software for fuzzing, used on web application pentestings. | https://github.com/NESCAU-UFLA/FuzzingTool | 4 | 1| 
 | 20210218T22:34:10Z | Null | https://github.com/stopdaydreaming/fuzzy-react-portfolio | 0 | 0| 
-| 20210218T22:12:27Z | Null | https://github.com/nelsonbighetti/simple_format_fuzzer | 0 | 0| 
 
 
 
