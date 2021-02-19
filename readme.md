@@ -38,7 +38,7 @@
 | 20210218T17:31:10Z | CVE-2020-3161 | Null | https://github.com/uromulou/CVE-2020-3161 | A vulnerability in the web server for Cisco IP Phones could allow an unauthenticated, remote attacker to execute code with root privileges or cause a reload of an affected IP phone, resulting in a denial of service (DoS) condition. The vulnerability is due to a lack of proper input validation of HTTP requests. An attacker could exploit this vulnerability by sending a crafted HTTP request to the web server of a targeted device. A successful exploit could allow the attacker to remotely execute code with root privileges or cause a reload of an affected IP phone, resulting in a DoS condition.| 
 | 20210218T17:09:34Z | CVE-2021-25646 | Null | https://github.com/hoanx4/apache_druid_rce_CVE-2021-25646 | Apache Druid includes the ability to execute user-provided JavaScript code embedded in various types of requests. This functionality is intended for use in high-trust environments, and is disabled by default. However, in Druid 0.20.0 and earlier, it is possible for an authenticated user to send a specially-crafted request that forces Druid to run user-provided JavaScript code for that request, regardless of server configuration. This can be leveraged to execute code on the target machine with the privileges of the Druid server process.| 
 | 20210218T16:45:00Z | CVE-2020-8637 | Null | https://github.com/DXY0411/CVE-2020-8637 | A SQL injection vulnerability in TestLink 1.9.20 allows attackers to execute arbitrary SQL commands in dragdroptreenodes.php via the node_id parameter.| 
-| 20210218T02:06:32Z | CVE-2021-26700 | RCE in NPM VSCode Extention | https://github.com/jackadamson/CVE-2021-26700 | | 
+| 20210218T02:06:32Z | CVE-2021-26700 | RCE in NPM VSCode Extention | https://github.com/jackadamson/CVE-2021-26700 | 未查询到CVE信息| 
 
 
 # klee on Github 推荐
@@ -93,13 +93,13 @@
 | 20210218T22:45:47Z | This is the main website and system for Ball Fuzz Tennis Center. | https://github.com/Ball-Fuzz-Tennis-Center/Tennis-System | 0 | 0| 
 | 20210218T22:34:37Z | Software for fuzzing, used on web application pentestings. | https://github.com/NESCAU-UFLA/FuzzingTool | 4 | 1| 
 | 20210218T22:34:10Z | Null | https://github.com/stopdaydreaming/fuzzy-react-portfolio | 0 | 0| 
-| 20210218T22:21:33Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 5932 | 1191| 
 | 20210218T22:12:27Z | Null | https://github.com/nelsonbighetti/simple_format_fuzzer | 0 | 0| 
 | 20210218T22:07:47Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2268 | 116| 
 | 20210218T21:41:02Z | A simple Python package for interactive experiments with fuzzy sets. | https://github.com/StiliyanDr/fuzzy-sets | 0 | 0| 
 | 20210218T20:29:24Z | Null | https://github.com/mandarin10101/Fuzzy-Battle-Royale | 0 | 0| 
 | 20210218T20:12:41Z | script pour facebook | https://github.com/alexisdeveloper-oui/fuzzy-giggle | 0 | 0| 
 | 20210218T20:01:59Z | Null | https://github.com/lumebits/fuzzgram | 0 | 0| 
+| 20210218T19:19:44Z | Null | https://github.com/alex19g/fuzzy-invention | 0 | 0| 
 
 
 
