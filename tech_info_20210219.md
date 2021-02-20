@@ -40,7 +40,6 @@
 | 20210219T23:54:11Z | Create CFGs and compute complexity metrics for Python, C++, and Java code. | https://github.com/hmc-alpaqa/metrinome | 6 | 0| 
 | 20210219T18:28:58Z | RVT is a collection of tools/libraries to support both static and dynamic verification of Rust programs. | https://github.com/project-oak/rust-verification-tools | 108 | 7| 
 | 20210219T16:35:36Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 的 Klee One 的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 83 | 3| 
-| 20210219T14:36:33Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1632 | 483| 
 
 
 # s2e on Github 推荐
