@@ -20,12 +20,12 @@
 | 20210219 | 视频直播 SDK Agora Video 被发现多个漏洞 | https://www.mcafee.com/blogs/other-blogs/mcafee-labs/dont-call-us-well-call-you-mcafee-atr-finds-vulnerability-in-agora-video-sdk/| 
 | 20210219 | 物联网开源组件安全Node-RED白盒审计 | https://security.tencent.com/index.php/blog/msg/181| 
 | 20210219 | 有研究员发现，ping 命令会默认向目标 IP 的 1025 端口发送 UDP 消息 | https://terenceli.github.io/%E6%8A%80%E6%9C%AF/2021/02/19/ping-1025| 
+| 20210219 | dwn – a docker pwn tool manager experiment | https://sensepost.com/blog/2021/dwn-a-docker-pwn-tool-manager-experiment/| 
+| 20210219 | Checkpoint 研究团队近期发现了一款 Office 恶意软件 Builder - APOMacroSploit | https://research.checkpoint.com/2021/apomacrosploit-apocalyptical-fud-race/| 
 | 20210218 | 蔓灵花组织使用 Windows 内核提权 0Day 漏洞攻击国内机构 | http://ti.dbappsecurity.com.cn/blog/index.php/2021/02/10/windows-kernel-zero-day-exploit-is-used-by-bitter-apt-in-targeted-attack-cn/| 
 | 20210218 | A Journey Combining Web Hacking and Binary Exploitation in Real World | https://github.com/orangetw/My-Presentation-Slides/blob/main/data/2021-A-Journey-Combining-Web-and-Binary-Exploitation-in-Real-World.pdf| 
 | 20210218 | IPCDump – BPF Based tool for debugging IPC on linux | https://www.guardicore.com/labs/ipcdump-guardicores-new-open-source-tool-for-linux-ipc-inspection/| 
 | 20210218 | 基于 Windows Native API 与电源管理组件交互 | https://github.com/diversenok/Powercfg| 
-| 20210218 | 利用 GPGME API 的漏洞攻击云上 S3 Linux 主机 | https://www.synacktiv.com/publications/gpgme-used-confusion-its-super-effective.html| 
-| 20210218 | Sudoedit heap overflow 漏洞分析 | https://blog.infosectcbr.com.au/2021/02/sudoedit-heap-overflow.html| 
 
 
 # 安全维基 推荐
