@@ -29,7 +29,7 @@
 | --- | --- | --- | --- | ---| 
 | 20210219T20:39:25Z | CVE-2020-8417 | CSRF Code snippet vulnerability CVE-2020-8417 | https://github.com/Vulnmachines/WordPress_CVE-2020-8417 | The Code Snippets plugin before 2.14.0 for WordPress allows CSRF because of the lack of a Referer check on the import menu.| 
 | 20210219T11:41:15Z | CVE-2021-1727 | Null | https://github.com/klinix5/CVE-2021-1727 | 未查询到CVE信息| 
-| 20210219T08:16:14Z | CVE-2021-27328 | Null | https://github.com/SQSamir/CVE-2021-27328 | | 
+| 20210219T08:16:14Z | CVE-2021-27328 | Null | https://github.com/SQSamir/CVE-2021-27328 | Yeastar NeoGate TG400 91.3.0.3 devices are affected by Directory Traversal. An authenticated user can decrypt firmware and can read sensitive information, such as a password or decryption key.| 
 | 20210219T07:21:15Z | cve-2020-8165 | Null | https://github.com/danielklim/cve-2020-8165-demo | 未查询到CVE信息| 
 | 20210219T00:36:59Z | CVE-2021-3129 | Laravel <= v8.4.2 debug mode: Remote code execution (CVE-2021-3129) | https://github.com/zhzyker/CVE-2021-3129 | Ignition before 2.5.2, as used in Laravel and other products, allows unauthenticated remote attackers to execute arbitrary code because of insecure usage of file_get_contents() and file_put_contents(). This is exploitable on sites using debug mode with Laravel before 8.4.2.| 
 
@@ -81,16 +81,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210219T13:43:28Z | 🐇 Fuzzing Rust code with American Fuzzy Lop | https://github.com/rust-fuzz/afl.rs | 984 | 72| 
-| 20210219T13:40:39Z | Distributed fuzzing framework using hadoop and map-reduce | https://github.com/shubham3063/dfuzz | 0 | 0| 
-| 20210219T13:23:44Z | Null | https://github.com/s9varesc/url-fuzzing | 0 | 0| 
-| 20210219T13:15:31Z | Personal website of Laurence Hughes | https://github.com/fuzzylogicxx/fuzzylogic | 4 | 1| 
-| 20210219T13:12:56Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 5943 | 1193| 
-| 20210219T12:33:12Z | Generates Elm types, JSON decoders, JSON encoders and fuzz tests from JSON schema specifications | https://github.com/dragonwasrobot/json-schema-to-elm | 63 | 7| 
-| 20210219T12:12:53Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 3350 | 772| 
-| 20210219T12:06:33Z | Coverage-guided, in-process fuzzing for the JVM | https://github.com/CodeIntelligenceTesting/jazzer | 181 | 7| 
-| 20210219T11:41:54Z | Null | https://github.com/FDU-Program-Analysis/chunk-fuzzer-pass | 0 | 0| 
-| 20210219T11:31:08Z | Null | https://github.com/0869990343/fuzzy-tribble | 1 | 0| 
+| 20210219T23:57:39Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 1317 | 288| 
+| 20210219T23:54:29Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2269 | 116| 
+| 20210219T22:51:55Z | Small lightweight library for Python (version >= 3.6) that performs basic Interval and Fuzzy Arithmetic. | https://github.com/JanCaha/FuzzyMath | 0 | 0| 
+| 20210219T21:59:48Z | A game written with cpp and the sdl library | https://github.com/KenethSandoval/fuzzy-game | 0 | 0| 
+| 20210219T21:55:28Z | Null | https://github.com/matthewlong29/fuzzy-guacamole | 0 | 0| 
+| 20210219T21:42:05Z | An API wrapper for fuzzysearch.net | https://github.com/Syfaro/fuzzysearch-rs | 0 | 0| 
+| 20210219T21:13:26Z | Fuzzy Logic for Python 3 | https://github.com/amogorkon/fuzzylogic | 15 | 7| 
+| 20210219T20:55:00Z | RESTler is the first stateful REST API fuzzing tool for automatically testing cloud services through their REST APIs and finding security and reliability bugs in these services. | https://github.com/microsoft/restler-fuzzer | 672 | 69| 
+| 20210219T20:47:38Z | A site that allows you to reverse image search millions of furry images in under a second | https://github.com/Syfaro/fuzzysearch | 6 | 1| 
+| 20210219T18:10:04Z | Null | https://github.com/lumebits/fuzzgram | 0 | 0| 
 
 
 
