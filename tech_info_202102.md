@@ -46,7 +46,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20210220T02:20:50Z | CVE-2021-21110 | CVE-2021-21110 : Tiki Wiki CMS GroupWare Serverside Template Injection Remote Code Execution Exploit | https://github.com/Gh0st0ne/CVE-2021-21110 | | 
+| 20210220T02:20:50Z | CVE-2021-21110 | CVE-2021-21110 : Tiki Wiki CMS GroupWare Serverside Template Injection Remote Code Execution Exploit | https://github.com/Gh0st0ne/CVE-2021-21110 | Use after free in safe browsing in Google Chrome prior to 87.0.4280.141 allowed a remote attacker to potentially perform a sandbox escape via a crafted HTML page.| 
 | 20210219T20:39:25Z | CVE-2020-8417 | CSRF Code snippet vulnerability CVE-2020-8417 | https://github.com/Vulnmachines/WordPress_CVE-2020-8417 | The Code Snippets plugin before 2.14.0 for WordPress allows CSRF because of the lack of a Referer check on the import menu.| 
 | 20210219T11:41:15Z | CVE-2021-1727 | Null | https://github.com/klinix5/CVE-2021-1727 | 未查询到CVE信息| 
 | 20210219T08:16:14Z | CVE-2021-27328 | Null | https://github.com/SQSamir/CVE-2021-27328 | Yeastar NeoGate TG400 91.3.0.3 devices are affected by Directory Traversal. An authenticated user can decrypt firmware and can read sensitive information, such as a password or decryption key.| 
