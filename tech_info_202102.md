@@ -11,21 +11,21 @@
 | 20210219 | 使用Sydney Smith进行PowerShell中的机密管理探讨。 | http://runasradio.com/Shows/Show/763| 
 | 20210219 | 如何在C ++语言中构建自定义红队测试工具软件。 | https://resources.securitycompass.com/blog/how-to-build-custom-red-team-testing-tools-in-c| 
 | 20210219 | Google官方发布Android 12开发者预览版。 | https://android-developers.googleblog.com/2021/02/android-12-dp1.html| 
+| 20210219 | Electron APIs Misuse: An Attacker’s First Choice | https://blog.doyensec.com//2021/02/16/electron-apis-misuse.html| 
+| 20210219 | 美国指控朝鲜黑客近年来通过网络攻击窃取 2 亿美元 | https://krebsonsecurity.com/2021/02/u-s-indicts-north-korean-hackers-in-theft-of-200-million/| 
+| 20210219 | ConnectPort X2e IoT 网关设备漏洞分析及利用 | https://www.fireeye.com/blog/threat-research/2021/02/solarcity-exploitation-of-x2e-iot-device-part-one.html| 
+| 20210219 | Smarty Template Engine Multiple Sandbox Escape PHP Code Injection Vulnerabilities | https://srcincite.io/blog/2021/02/18/smarty-template-engine-multiple-sandbox-escape-vulnerabilities.html| 
+| 20210219 | ZDI-21-171 - Adobe Reader 处理 ID tag 不当导致的内存信息泄露漏洞分析 | https://www.thezdi.com/blog/2021/2/17/zdi-21-171-getting-information-disclosure-in-adobe-reader-through-the-id-tag| 
+| 20210219 | 已有 macOS 平台恶意软件支持在原生 M1 芯片运行 | https://objective-see.com/blog/blog_0x62.html| 
+| 20210219 | 视频直播 SDK Agora Video 被发现多个漏洞 | https://www.mcafee.com/blogs/other-blogs/mcafee-labs/dont-call-us-well-call-you-mcafee-atr-finds-vulnerability-in-agora-video-sdk/| 
+| 20210219 | 物联网开源组件安全Node-RED白盒审计 | https://security.tencent.com/index.php/blog/msg/181| 
+| 20210219 | 有研究员发现，ping 命令会默认向目标 IP 的 1025 端口发送 UDP 消息 | https://terenceli.github.io/%E6%8A%80%E6%9C%AF/2021/02/19/ping-1025| 
 | 20210218 | 蔓灵花组织使用 Windows 内核提权 0Day 漏洞攻击国内机构 | http://ti.dbappsecurity.com.cn/blog/index.php/2021/02/10/windows-kernel-zero-day-exploit-is-used-by-bitter-apt-in-targeted-attack-cn/| 
 | 20210218 | A Journey Combining Web Hacking and Binary Exploitation in Real World | https://github.com/orangetw/My-Presentation-Slides/blob/main/data/2021-A-Journey-Combining-Web-and-Binary-Exploitation-in-Real-World.pdf| 
 | 20210218 | IPCDump – BPF Based tool for debugging IPC on linux | https://www.guardicore.com/labs/ipcdump-guardicores-new-open-source-tool-for-linux-ipc-inspection/| 
 | 20210218 | 基于 Windows Native API 与电源管理组件交互 | https://github.com/diversenok/Powercfg| 
 | 20210218 | 利用 GPGME API 的漏洞攻击云上 S3 Linux 主机 | https://www.synacktiv.com/publications/gpgme-used-confusion-its-super-effective.html| 
 | 20210218 | Sudoedit heap overflow 漏洞分析 | https://blog.infosectcbr.com.au/2021/02/sudoedit-heap-overflow.html| 
-| 20210218 | 深度剖析 Windows 启动过程的一些安全保护机制 | https://igor-blue.github.io/2021/02/04/secure-boot.html| 
-| 20210218 | SerenityOS - Writing a full chain exploit | https://devcraft.io/2021/02/11/serenityos-writing-a-full-chain-exploit.html| 
-| 20210218 | 利用 API Hook 的方式检测渗透中常用的几款工具 | https://ilankalendarov.github.io/posts/offensive-hooking/| 
-| 20210218 | 利用 Ubuntu Apport 崩溃处理机制实现本地提权 | https://sec.today/pulses/609066d5-9801-4093-8475-0e9a795331b3/| 
-| 20210218 | 利用 Ubuntu Apport 崩溃处理机制实现本地提权 | https://alephsecurity.com/2021/02/16/apport-lpe/| 
-| 20210208 | WireBug - 用于 VoIP 协议渗透测试的工具 | https://github.com/SySS-Research/WireBug| 
-| 20210208 | 基于 Mistfall Engine 的自动化逆向 | https://vx-underground.org/archive/z0mbie/AutomatedReverseEngineeringMistfallEngine.pdf| 
-| 20210208 | Firefox 发布 85.0.1 版本更新，修复一个高危漏洞 | https://www.mozilla.org/en-US/security/advisories/mfsa2021-06/| 
-| 20210208 | How we fuzz the browser at Mozilla | http://devsday.ru/blog/details/31437| 
 
 
 # 安全维基 推荐
@@ -49,7 +49,7 @@
 | 20210220T02:20:50Z | CVE-2021-21110 | CVE-2021-21110 : Tiki Wiki CMS GroupWare Serverside Template Injection Remote Code Execution Exploit | https://github.com/Gh0st0ne/CVE-2021-21110 | Use after free in safe browsing in Google Chrome prior to 87.0.4280.141 allowed a remote attacker to potentially perform a sandbox escape via a crafted HTML page.| 
 | 20210219T20:39:25Z | CVE-2020-8417 | CSRF Code snippet vulnerability CVE-2020-8417 | https://github.com/Vulnmachines/WordPress_CVE-2020-8417 | The Code Snippets plugin before 2.14.0 for WordPress allows CSRF because of the lack of a Referer check on the import menu.| 
 | 20210219T11:41:15Z | CVE-2021-1727 | Null | https://github.com/klinix5/CVE-2021-1727 | 未查询到CVE信息| 
-| 20210219T08:16:14Z | CVE-2021-27328 | Null | https://github.com/SQSamir/CVE-2021-27328 | | 
+| 20210219T08:16:14Z | CVE-2021-27328 | Null | https://github.com/SQSamir/CVE-2021-27328 | Yeastar NeoGate TG400 91.3.0.3 devices are affected by Directory Traversal. An authenticated user can decrypt firmware and can read sensitive information, such as a password or decryption key.| 
 | 20210219T07:21:15Z | cve-2020-8165 | Null | https://github.com/danielklim/cve-2020-8165-demo | 未查询到CVE信息| 
 | 20210219T00:36:59Z | CVE-2021-3129 | Laravel <= v8.4.2 debug mode: Remote code execution (CVE-2021-3129) | https://github.com/zhzyker/CVE-2021-3129 | Ignition before 2.5.2, as used in Laravel and other products, allows unauthenticated remote attackers to execute arbitrary code because of insecure usage of file_get_contents() and file_put_contents(). This is exploitable on sites using debug mode with Laravel before 8.4.2.| 
 | 20210218T22:36:00Z | CVE-2021-24085 | Null | https://github.com/sourceincite/CVE-2021-24085 | 未查询到CVE信息| 
@@ -86,12 +86,12 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210220T03:02:40Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 9 | 4| 
 | 20210220T02:56:42Z | This tool is great for information gathering and post- exploitation | https://github.com/Cybercrack-bot/Cybercrack | 3 | 1| 
 | 20210220T02:53:55Z | attempts at finding bugs and exploits | https://github.com/docfate111/bug-bounty | 0 | 0| 
 | 20210220T02:52:26Z | A .DS_Store file disclosure exploit.   It parses .DS_Store file and downloads files recursively. | https://github.com/lijiejie/ds_store_exp | 716 | 194| 
 | 20210220T02:20:50Z | CVE-2021-21110 : Tiki Wiki CMS GroupWare Serverside Template Injection Remote Code Execution Exploit | https://github.com/Gh0st0ne/CVE-2021-21110 | 0 | 0| 
 | 20210220T02:06:35Z | random stuff for exploit dev practice | https://github.com/C-Brown/exploit_dev_practice | 0 | 0| 
-| 20210220T02:02:42Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 9 | 4| 
 | 20210220T01:51:29Z | windows and linux streams for post exploitation | https://github.com/kymb0/post_exploitation | 1 | 0| 
 | 20210220T01:50:25Z | sqli dumper 8.5 src  | https://github.com/ExploitDemon/exploit-sqli | 0 | 0| 
 | 20210220T01:37:51Z | exploit-database-papers | https://github.com/offensive-security/exploitdb-papers | 281 | 39| 

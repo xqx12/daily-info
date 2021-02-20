@@ -11,6 +11,15 @@
 | 20210219 | 使用Sydney Smith进行PowerShell中的机密管理探讨。 | http://runasradio.com/Shows/Show/763| 
 | 20210219 | 如何在C ++语言中构建自定义红队测试工具软件。 | https://resources.securitycompass.com/blog/how-to-build-custom-red-team-testing-tools-in-c| 
 | 20210219 | Google官方发布Android 12开发者预览版。 | https://android-developers.googleblog.com/2021/02/android-12-dp1.html| 
+| 20210219 | Electron APIs Misuse: An Attacker’s First Choice | https://blog.doyensec.com//2021/02/16/electron-apis-misuse.html| 
+| 20210219 | 美国指控朝鲜黑客近年来通过网络攻击窃取 2 亿美元 | https://krebsonsecurity.com/2021/02/u-s-indicts-north-korean-hackers-in-theft-of-200-million/| 
+| 20210219 | ConnectPort X2e IoT 网关设备漏洞分析及利用 | https://www.fireeye.com/blog/threat-research/2021/02/solarcity-exploitation-of-x2e-iot-device-part-one.html| 
+| 20210219 | Smarty Template Engine Multiple Sandbox Escape PHP Code Injection Vulnerabilities | https://srcincite.io/blog/2021/02/18/smarty-template-engine-multiple-sandbox-escape-vulnerabilities.html| 
+| 20210219 | ZDI-21-171 - Adobe Reader 处理 ID tag 不当导致的内存信息泄露漏洞分析 | https://www.thezdi.com/blog/2021/2/17/zdi-21-171-getting-information-disclosure-in-adobe-reader-through-the-id-tag| 
+| 20210219 | 已有 macOS 平台恶意软件支持在原生 M1 芯片运行 | https://objective-see.com/blog/blog_0x62.html| 
+| 20210219 | 视频直播 SDK Agora Video 被发现多个漏洞 | https://www.mcafee.com/blogs/other-blogs/mcafee-labs/dont-call-us-well-call-you-mcafee-atr-finds-vulnerability-in-agora-video-sdk/| 
+| 20210219 | 物联网开源组件安全Node-RED白盒审计 | https://security.tencent.com/index.php/blog/msg/181| 
+| 20210219 | 有研究员发现，ping 命令会默认向目标 IP 的 1025 端口发送 UDP 消息 | https://terenceli.github.io/%E6%8A%80%E6%9C%AF/2021/02/19/ping-1025| 
 
 
 # 安全维基 推荐
@@ -29,7 +38,7 @@
 | --- | --- | --- | --- | ---| 
 | 20210219T20:39:25Z | CVE-2020-8417 | CSRF Code snippet vulnerability CVE-2020-8417 | https://github.com/Vulnmachines/WordPress_CVE-2020-8417 | The Code Snippets plugin before 2.14.0 for WordPress allows CSRF because of the lack of a Referer check on the import menu.| 
 | 20210219T11:41:15Z | CVE-2021-1727 | Null | https://github.com/klinix5/CVE-2021-1727 | 未查询到CVE信息| 
-| 20210219T08:16:14Z | CVE-2021-27328 | Null | https://github.com/SQSamir/CVE-2021-27328 | | 
+| 20210219T08:16:14Z | CVE-2021-27328 | Null | https://github.com/SQSamir/CVE-2021-27328 | Yeastar NeoGate TG400 91.3.0.3 devices are affected by Directory Traversal. An authenticated user can decrypt firmware and can read sensitive information, such as a password or decryption key.| 
 | 20210219T07:21:15Z | cve-2020-8165 | Null | https://github.com/danielklim/cve-2020-8165-demo | 未查询到CVE信息| 
 | 20210219T00:36:59Z | CVE-2021-3129 | Laravel <= v8.4.2 debug mode: Remote code execution (CVE-2021-3129) | https://github.com/zhzyker/CVE-2021-3129 | Ignition before 2.5.2, as used in Laravel and other products, allows unauthenticated remote attackers to execute arbitrary code because of insecure usage of file_get_contents() and file_put_contents(). This is exploitable on sites using debug mode with Laravel before 8.4.2.| 
 
