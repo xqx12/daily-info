@@ -46,13 +46,13 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20210219T20:39:25Z | CVE-2020-8417 | CSRF Code snippet vulnerability CVE-2020-8417 | https://github.com/Vulnmachines/WordPress_CVE-2020-8417 | The Code Snippets plugin before 2.14.0 for WordPress allows CSRF because of the lack of a Referer check on the import menu.| 
-| 20210219T11:41:15Z | CVE-2021-1727 | Null | https://github.com/klinix5/CVE-2021-1727 | 未查询到CVE信息| 
+| 20210219T20:39:25Z | CVE-2020-8417 | CSRF Code snippet vulnerability CVE-2020-8417 | https://github.com/Vulnmachines/WordPress_CVE-2020-8417 | | 
+| 20210219T11:41:15Z | CVE-2021-1727 | Null | https://github.com/klinix5/CVE-2021-1727 | | 
 | 20210219T08:16:14Z | CVE-2021-27328 | Null | https://github.com/SQSamir/CVE-2021-27328 | Yeastar NeoGate TG400 91.3.0.3 devices are affected by Directory Traversal. An authenticated user can decrypt firmware and can read sensitive information, such as a password or decryption key.| 
 | 20210219T07:21:15Z | cve-2020-8165 | Null | https://github.com/danielklim/cve-2020-8165-demo | 未查询到CVE信息| 
 | 20210219T00:36:59Z | CVE-2021-3129 | Laravel <= v8.4.2 debug mode: Remote code execution (CVE-2021-3129) | https://github.com/zhzyker/CVE-2021-3129 | Ignition before 2.5.2, as used in Laravel and other products, allows unauthenticated remote attackers to execute arbitrary code because of insecure usage of file_get_contents() and file_put_contents(). This is exploitable on sites using debug mode with Laravel before 8.4.2.| 
 | 20210218T22:36:00Z | CVE-2021-24085 | Null | https://github.com/sourceincite/CVE-2021-24085 | 未查询到CVE信息| 
-| 20210218T17:31:10Z | CVE-2020-3161 | Null | https://github.com/uromulou/CVE-2020-3161 | | 
+| 20210218T17:31:10Z | CVE-2020-3161 | Null | https://github.com/uromulou/CVE-2020-3161 | A vulnerability in the web server for Cisco IP Phones could allow an unauthenticated, remote attacker to execute code with root privileges or cause a reload of an affected IP phone, resulting in a denial of service (DoS) condition. The vulnerability is due to a lack of proper input validation of HTTP requests. An attacker could exploit this vulnerability by sending a crafted HTTP request to the web server of a targeted device. A successful exploit could allow the attacker to remotely execute code with root privileges or cause a reload of an affected IP phone, resulting in a DoS condition.| 
 | 20210218T17:09:34Z | CVE-2021-25646 | Null | https://github.com/hoanx4/apache_druid_rce_CVE-2021-25646 | Apache Druid includes the ability to execute user-provided JavaScript code embedded in various types of requests. This functionality is intended for use in high-trust environments, and is disabled by default. However, in Druid 0.20.0 and earlier, it is possible for an authenticated user to send a specially-crafted request that forces Druid to run user-provided JavaScript code for that request, regardless of server configuration. This can be leveraged to execute code on the target machine with the privileges of the Druid server process.| 
 | 20210218T16:45:00Z | CVE-2020-8637 | Null | https://github.com/DXY0411/CVE-2020-8637 | A SQL injection vulnerability in TestLink 1.9.20 allows attackers to execute arbitrary SQL commands in dragdroptreenodes.php via the node_id parameter.| 
 | 20210218T02:06:32Z | CVE-2021-26700 | RCE in NPM VSCode Extention | https://github.com/jackadamson/CVE-2021-26700 | 未查询到CVE信息| 
@@ -86,6 +86,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210220T01:40:09Z | sqli src  | https://github.com/ExploitDemon/exploit-sqli | 0 | 0| 
 | 20210220T01:37:51Z | exploit-database-papers | https://github.com/offensive-security/exploitdb-papers | 281 | 39| 
 | 20210220T01:28:25Z | windows and linux streams for post exploitation | https://github.com/kymb0/post_exploitation | 1 | 0| 
 | 20210220T01:26:37Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9030 | 1453| 
@@ -95,7 +96,6 @@
 | 20210220T00:48:09Z | A versatile and modular post-exploitation framework. Enumerate, Escalate and pivot while keeping your scripts in ram and off disk. | https://github.com/CellEight/Facehugger | 0 | 0| 
 | 20210220T00:39:03Z | This bash script will help you to hack remote hosts  | https://github.com/FabioDefilippo/linuxallremote | 6 | 1| 
 | 20210219T23:46:08Z | A CTF web app designed to teach software developers application security by showcasing what vulnerable code looks like, how to write code to exploit the vulnerability, and how to write code to patch the vulnerability. | https://github.com/neumaneuma/appseccheat.codes | 0 | 0| 
-| 20210219T23:42:36Z | PatrowlHears - Vulnerability Intelligence Center / Exploits | https://github.com/Patrowl/PatrowlHears | 69 | 15| 
 
 
 # backdoor on Github 推荐
