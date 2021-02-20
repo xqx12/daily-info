@@ -52,10 +52,10 @@
 | 20210220T07:40:30Z | CVE-2021-3129 | Laravel <= v8.4.2 debug mode: Remote code execution (CVE-2021-3129) | https://github.com/zhzyker/CVE-2021-3129 | Ignition before 2.5.2, as used in Laravel and other products, allows unauthenticated remote attackers to execute arbitrary code because of insecure usage of file_get_contents() and file_put_contents(). This is exploitable on sites using debug mode with Laravel before 8.4.2.| 
 | 20210220T02:20:50Z | CVE-2021-21110 | CVE-2021-21110 : Tiki Wiki CMS GroupWare Serverside Template Injection Remote Code Execution Exploit | https://github.com/Gh0st0ne/CVE-2021-21110 | Use after free in safe browsing in Google Chrome prior to 87.0.4280.141 allowed a remote attacker to potentially perform a sandbox escape via a crafted HTML page.| 
 | 20210219T20:39:25Z | CVE-2020-8417 | CSRF Code snippet vulnerability CVE-2020-8417 | https://github.com/Vulnmachines/WordPress_CVE-2020-8417 | The Code Snippets plugin before 2.14.0 for WordPress allows CSRF because of the lack of a Referer check on the import menu.| 
-| 20210219T08:16:14Z | CVE-2021-27328 | Null | https://github.com/SQSamir/CVE-2021-27328 | Yeastar NeoGate TG400 91.3.0.3 devices are affected by Directory Traversal. An authenticated user can decrypt firmware and can read sensitive information, such as a password or decryption key.| 
+| 20210219T08:16:14Z | CVE-2021-27328 | Null | https://github.com/SQSamir/CVE-2021-27328 | | 
 | 20210219T07:21:15Z | cve-2020-8165 | Null | https://github.com/danielklim/cve-2020-8165-demo | 未查询到CVE信息| 
 | 20210218T22:36:00Z | CVE-2021-24085 | Null | https://github.com/sourceincite/CVE-2021-24085 | 未查询到CVE信息| 
-| 20210218T17:31:10Z | CVE-2020-3161 | Null | https://github.com/uromulou/CVE-2020-3161 | | 
+| 20210218T17:31:10Z | CVE-2020-3161 | Null | https://github.com/uromulou/CVE-2020-3161 | A vulnerability in the web server for Cisco IP Phones could allow an unauthenticated, remote attacker to execute code with root privileges or cause a reload of an affected IP phone, resulting in a denial of service (DoS) condition. The vulnerability is due to a lack of proper input validation of HTTP requests. An attacker could exploit this vulnerability by sending a crafted HTTP request to the web server of a targeted device. A successful exploit could allow the attacker to remotely execute code with root privileges or cause a reload of an affected IP phone, resulting in a DoS condition.| 
 
 
 # klee on Github 推荐
@@ -86,16 +86,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210220T14:16:36Z | Null | https://github.com/Crypto-Exploits/Crypto-Exploits | 0 | 0| 
+| 20210220T14:16:36Z | vCenter Post Exploitation | https://github.com/RicterZ/vCPE | 4 | 0| 
 | 20210220T14:02:28Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 9 | 4| 
-| 20210220T13:35:16Z | The official Exploit Database repository | https://github.com/offensive-security/exploitdb | 5888 | 1684| 
-| 20210220T13:26:14Z | vCenter Post Exploitation | https://github.com/RicterZ/vCPE | 3 | 0| 
+| 20210220T13:35:16Z | The official Exploit Database repository | https://github.com/offensive-security/exploitdb | 5888 | 1685| 
 | 20210220T12:53:59Z | [SPOILER ALERT] Tools, notes and custom exploits | https://github.com/limitedeternity/HackTheBox | 0 | 0| 
 | 20210220T12:25:27Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9033 | 1452| 
 | 20210220T12:03:59Z | Tools and method that I personally use for Recon and Exploitations | https://github.com/xalgord/My-Methodologies | 1 | 0| 
 | 20210220T12:00:07Z | This bash script will help you to hack remote hosts  | https://github.com/FabioDefilippo/linuxallremote | 6 | 1| 
 | 20210220T10:44:19Z | Modular penetration testing platform that enables you to write, test, and execute exploit code. | https://github.com/EntySec/HatSploit | 1 | 0| 
 | 20210220T09:03:40Z | hey it%s me! | https://github.com/ExploiTR/ExploiTR | 0 | 0| 
-| 20210220T08:53:37Z | 记录在漏洞研究过程中编写的 POC/EXP | https://github.com/P2hm1n/vulnExploit | 1 | 0| 
 
 
 # backdoor on Github 推荐
