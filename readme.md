@@ -40,8 +40,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210221T13:46:33Z | Null | https://github.com/topcue/dact_exploit | 0 | 0| 
-| 20210221T13:21:45Z | CryptEx Locker is a powerful tool for protecting funds from rugs, team abuse and other forms of exploits. CryptEx allows users to lock tokens for a desired period of time or with additional conditions like multisignature proof. | https://github.com/HashEx/-cryptex-lock | 0 | 0| 
+| 20210221T13:47:54Z | CryptEx Locker is a powerful tool for protecting funds from rugs, team abuse and other forms of exploits. CryptEx allows users to lock tokens for a desired period of time or with additional conditions like multisignature proof. | https://github.com/HashEx/-cryptex-lock | 0 | 0| 
+| 20210221T13:47:14Z | Null | https://github.com/topcue/dact_exploit | 0 | 0| 
 | 20210221T13:18:18Z | CryptEx Locker is a powerful tool for protecting funds from rugs, team abuse and other forms of exploits. CryptEx allows users to lock tokens for a desired period of time or with additional conditions like multisignature proof. | https://github.com/kataloo/cryptex-lock | 0 | 0| 
 | 20210221T13:02:27Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 9 | 4| 
 | 20210221T12:55:26Z | WebExploit项目管理系统源码备份 | https://github.com/wikiZ/WebExploit- | 0 | 0| 
