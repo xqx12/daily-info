@@ -31,6 +31,7 @@
 # 安全维基 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20210221 | 文本对抗综述（一） | https://mp.weixin.qq.com/s/fYANjVp6CUOqri8mfA8vew| 
 | 20210220 | 网络空间搜索引擎研究 | https://mp.weixin.qq.com/s/ZIa1myq4xoBlAHvdR0ipTw| 
 | 20210220 | Nuclei: 基于Go语言开发的开源安全漏洞扫描工具使用初探 | https://mp.weixin.qq.com/s/C_-FRZMqF4ifzlx-ij4iIQ| 
 | 20210220 | 软件安全能力成熟度评估实践 | https://mp.weixin.qq.com/s/_s5m8WxlwnoI4-Ea8SJfCA| 
@@ -40,37 +41,36 @@
 | 20210219 | Browser Tracking Using Favicons | https://www.schneier.com/blog/archives/2021/02/browser-tracking-using-favicons.html| 
 | 20210219 | 物联网开源组件安全Node-RED白盒审计 | https://security.tencent.com/index.php/blog/msg/181| 
 | 20210219 | 记一场纯JS赛——DiceCTF2021 Web题解 | https://www.anquanke.com/post/id/231421| 
-| 20210219 | 魔罗桫组织最新样本分析学习 | https://www.anquanke.com/post/id/231409| 
 
 
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20210221T02:33:52Z | CVE-2020-0814 | Null | https://github.com/klinix5/CVE-2020-0814 | An elevation of privilege vulnerability exists in Windows Installer because of the way Windows Installer handles certain filesystem operations.To exploit the vulnerability, an attacker would require unprivileged execution on the victim system, aka %Windows Installer Elevation of Privilege Vulnerability%. This CVE ID is unique from CVE-2020-0779, CVE-2020-0798, CVE-2020-0842, CVE-2020-0843.| 
-| 20210220T13:40:47Z | CVE-2020-8637 | Null | https://github.com/DXY0411/CVE-2020-8637 | A SQL injection vulnerability in TestLink 1.9.20 allows attackers to execute arbitrary SQL commands in dragdroptreenodes.php via the node_id parameter.| 
-| 20210220T10:10:33Z | CVE-2021-1727 | Null | https://github.com/klinix5/CVE-2021-1727 | | 
+| 20210221T06:34:19Z | CVE-2021-3129 | CVE-2021-3129-Laravel Debug mode 远程代码执行漏洞 | https://github.com/simonlee-hello/CVE-2021-3129 | Ignition before 2.5.2, as used in Laravel and other products, allows unauthenticated remote attackers to execute arbitrary code because of insecure usage of file_get_contents() and file_put_contents(). This is exploitable on sites using debug mode with Laravel before 8.4.2.| 
+| 20210221T06:00:31Z | CVE-2020-8637 | Null | https://github.com/DXY0411/CVE-2020-8637 | A SQL injection vulnerability in TestLink 1.9.20 allows attackers to execute arbitrary SQL commands in dragdroptreenodes.php via the node_id parameter.| 
+| 20210221T03:52:12Z | CVE-2020-0814 | Null | https://github.com/klinix5/CVE-2020-0814 | An elevation of privilege vulnerability exists in Windows Installer because of the way Windows Installer handles certain filesystem operations.To exploit the vulnerability, an attacker would require unprivileged execution on the victim system, aka %Windows Installer Elevation of Privilege Vulnerability%. This CVE ID is unique from CVE-2020-0779, CVE-2020-0798, CVE-2020-0842, CVE-2020-0843.| 
+| 20210221T03:22:33Z | CVE-2021-1727 | Null | https://github.com/klinix5/CVE-2021-1727 | 未查询到CVE信息| 
 | 20210220T08:11:26Z | CVE-2020-5410 | Spring Cloud Config 目录穿越漏洞(CVE-2020-5410) 复现 | https://github.com/thelostworldFree/SpringCloud-Config-CVE-2020-5410 | Spring Cloud Config, versions 2.2.x prior to 2.2.3, versions 2.1.x prior to 2.1.9, and older unsupported versions allow applications to serve arbitrary configuration files through the spring-cloud-config-server module. A malicious user, or attacker, can send a request using a specially crafted URL that can lead to a directory traversal attack.| 
 | 20210220T07:40:30Z | CVE-2021-3129 | Laravel <= v8.4.2 debug mode: Remote code execution (CVE-2021-3129) | https://github.com/zhzyker/CVE-2021-3129 | Ignition before 2.5.2, as used in Laravel and other products, allows unauthenticated remote attackers to execute arbitrary code because of insecure usage of file_get_contents() and file_put_contents(). This is exploitable on sites using debug mode with Laravel before 8.4.2.| 
 | 20210220T02:20:50Z | CVE-2021-21110 | CVE-2021-21110 : Tiki Wiki CMS GroupWare Serverside Template Injection Remote Code Execution Exploit | https://github.com/Gh0st0ne/CVE-2021-21110 | Use after free in safe browsing in Google Chrome prior to 87.0.4280.141 allowed a remote attacker to potentially perform a sandbox escape via a crafted HTML page.| 
 | 20210219T20:39:25Z | CVE-2020-8417 | CSRF Code snippet vulnerability CVE-2020-8417 | https://github.com/Vulnmachines/WordPress_CVE-2020-8417 | The Code Snippets plugin before 2.14.0 for WordPress allows CSRF because of the lack of a Referer check on the import menu.| 
 | 20210219T08:16:14Z | CVE-2021-27328 | Null | https://github.com/SQSamir/CVE-2021-27328 | Yeastar NeoGate TG400 91.3.0.3 devices are affected by Directory Traversal. An authenticated user can decrypt firmware and can read sensitive information, such as a password or decryption key.| 
 | 20210219T07:21:15Z | cve-2020-8165 | Null | https://github.com/danielklim/cve-2020-8165-demo | 未查询到CVE信息| 
-| 20210218T22:36:00Z | CVE-2021-24085 | Null | https://github.com/sourceincite/CVE-2021-24085 | 未查询到CVE信息| 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210221T02:37:10Z | Whole Program LLVM: wllvm ported to go | https://github.com/SRI-CSL/gllvm | 121 | 20| 
+| 20210221T12:28:23Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 的 Klee One 的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 88 | 3| 
+| 20210221T06:56:13Z | Whole Program LLVM: wllvm ported to go | https://github.com/SRI-CSL/gllvm | 122 | 20| 
+| 20210221T06:10:23Z | Spring 2021 Geography 817 work folder  | https://github.com/klee12/klee12.github.io | 0 | 0| 
 | 20210220T22:59:53Z | Git Blog | https://github.com/klee30810/klee30810.github.io | 0 | 0| 
 | 20210220T21:41:56Z | Null | https://github.com/thierry-tct/KLEE-SEMu | 2 | 2| 
 | 20210220T18:29:24Z | Null | https://github.com/c-kleerun/c-kleerun.github.io | 0 | 0| 
 | 20210220T13:41:17Z | Null | https://github.com/dhanyavittaldas/Kleen-Tidy-Cleaning-Services | 0 | 0| 
-| 20210220T12:46:37Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 的 Klee One 的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 87 | 3| 
 | 20210220T08:26:21Z | FlyingheartCN.github.io | https://github.com/KleeMoe/KleeMoe.github.io | 0 | 0| 
 | 20210220T05:05:43Z | :musical_note: Kleene up your music library | https://github.com/KleeneApp/Kleene-iOS | 6 | 0| 
 | 20210220T01:13:33Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1633 | 483| 
-| 20210219T23:54:11Z | Create CFGs and compute complexity metrics for Python, C++, and Java code. | https://github.com/hmc-alpaqa/metrinome | 6 | 0| 
 
 
 # s2e on Github 推荐
@@ -86,16 +86,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210221T03:02:47Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 9 | 4| 
-| 20210221T02:58:33Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9033 | 1453| 
-| 20210221T02:49:16Z | A list of exploits and PoCs | https://github.com/ConsoleHacking/switch | 0 | 0| 
-| 20210221T02:22:59Z | Malware Exploits | https://github.com/0x00fy/malware-exploits | 1 | 0| 
-| 20210221T00:40:04Z | Null | https://github.com/KaitoMomota/SecurityCraftPacketExploit-1.7.10 | 1 | 1| 
-| 20210221T00:24:20Z | Analysis of some binaries using the Ghidra tool and their breaking through buffer overflow. Opening a shell using these vulnerabilities | https://github.com/laviniadragne/Exploit-ELFs | 0 | 0| 
-| 20210220T23:26:21Z | Exploits a simple Web application RCE on Linux systems and supports PTY upgrade, Bind- and ReveseShells, File Up- and Download | https://github.com/61106960/ForwardShell | 1 | 1| 
-| 20210220T23:03:58Z | free aram boost | https://github.com/devshadows/aram-exploit | 0 | 0| 
-| 20210220T22:51:18Z | Key system for the roblox exploit Risky | https://github.com/wyattdigitalz/RiskyKey | 0 | 0| 
-| 20210220T21:46:51Z | Null | https://github.com/iapps1013/dtm-exploits | 0 | 0| 
+| 20210221T12:55:26Z | WebExploit项目管理系统源码备份 | https://github.com/wikiZ/WebExploit- | 0 | 0| 
+| 20210221T12:43:27Z | Exploits a simple Web application RCE on Linux systems and supports PTY upgrade, Bind- and ReveseShells, File Up- and Download | https://github.com/61106960/ForwardShell | 1 | 1| 
+| 20210221T12:34:42Z | CTF framework and exploit development library | https://github.com/Gallopsled/pwntools | 7551 | 1358| 
+| 20210221T12:28:28Z | Modular penetration testing platform that enables you to write, test, and execute exploit code. | https://github.com/EntySec/HatSploit | 2 | 0| 
+| 20210221T12:02:29Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 9 | 4| 
+| 20210221T12:02:12Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9035 | 1453| 
+| 20210221T11:59:14Z | Learning Metasploit, a tool to probe and exploit vulnerabilities on networks and servers. | https://github.com/TaurusNick/Metasploit | 0 | 0| 
+| 20210221T11:42:51Z | Great addition to servers to fix various lag and crash exploits! WIP | https://github.com/AlexProgrammerDE/PistonExploits | 2 | 0| 
+| 20210221T11:36:56Z | TryHackMe CTFs writeups, notes, dratfs, scrabbles, files and solutions. | https://github.com/edoardottt/tryhackme-ctf | 14 | 8| 
+| 20210221T11:36:42Z | How to become a smart user in Airbnb? In this work both host’s and guest’s perspectives are provided with useful suggestions on how to improve business, either by correctly pricing, choosing or improving an apartment. The exploitation of non-parametric techniques is essential when the gaussian assumption is completely wrong. Permutational tests, GAMs and bagplots are exploited to achieve optimal performances. | https://github.com/LorenzoDominoni/Airbnbs-in-Milan | 0 | 0| 
 
 
 # backdoor on Github 推荐
