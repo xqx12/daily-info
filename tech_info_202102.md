@@ -48,7 +48,7 @@
 | --- | --- | --- | --- | ---| 
 | 20210221T02:33:52Z | CVE-2020-0814 | Null | https://github.com/klinix5/CVE-2020-0814 | An elevation of privilege vulnerability exists in Windows Installer because of the way Windows Installer handles certain filesystem operations.To exploit the vulnerability, an attacker would require unprivileged execution on the victim system, aka %Windows Installer Elevation of Privilege Vulnerability%. This CVE ID is unique from CVE-2020-0779, CVE-2020-0798, CVE-2020-0842, CVE-2020-0843.| 
 | 20210220T13:40:47Z | CVE-2020-8637 | Null | https://github.com/DXY0411/CVE-2020-8637 | A SQL injection vulnerability in TestLink 1.9.20 allows attackers to execute arbitrary SQL commands in dragdroptreenodes.php via the node_id parameter.| 
-| 20210220T10:10:33Z | CVE-2021-1727 | Null | https://github.com/klinix5/CVE-2021-1727 | 未查询到CVE信息| 
+| 20210220T10:10:33Z | CVE-2021-1727 | Null | https://github.com/klinix5/CVE-2021-1727 | | 
 | 20210220T08:11:26Z | CVE-2020-5410 | Spring Cloud Config 目录穿越漏洞(CVE-2020-5410) 复现 | https://github.com/thelostworldFree/SpringCloud-Config-CVE-2020-5410 | Spring Cloud Config, versions 2.2.x prior to 2.2.3, versions 2.1.x prior to 2.1.9, and older unsupported versions allow applications to serve arbitrary configuration files through the spring-cloud-config-server module. A malicious user, or attacker, can send a request using a specially crafted URL that can lead to a directory traversal attack.| 
 | 20210220T07:40:30Z | CVE-2021-3129 | Laravel <= v8.4.2 debug mode: Remote code execution (CVE-2021-3129) | https://github.com/zhzyker/CVE-2021-3129 | Ignition before 2.5.2, as used in Laravel and other products, allows unauthenticated remote attackers to execute arbitrary code because of insecure usage of file_get_contents() and file_put_contents(). This is exploitable on sites using debug mode with Laravel before 8.4.2.| 
 | 20210220T02:20:50Z | CVE-2021-21110 | CVE-2021-21110 : Tiki Wiki CMS GroupWare Serverside Template Injection Remote Code Execution Exploit | https://github.com/Gh0st0ne/CVE-2021-21110 | Use after free in safe browsing in Google Chrome prior to 87.0.4280.141 allowed a remote attacker to potentially perform a sandbox escape via a crafted HTML page.| 
@@ -86,16 +86,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210221T02:36:47Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9033 | 1453| 
+| 20210221T03:02:47Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 9 | 4| 
+| 20210221T02:58:33Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9033 | 1453| 
+| 20210221T02:49:16Z | A list of exploits and PoCs | https://github.com/ConsoleHacking/switch | 0 | 0| 
 | 20210221T02:22:59Z | Malware Exploits | https://github.com/0x00fy/malware-exploits | 1 | 0| 
-| 20210221T02:02:39Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 9 | 4| 
 | 20210221T00:40:04Z | Null | https://github.com/KaitoMomota/SecurityCraftPacketExploit-1.7.10 | 1 | 1| 
 | 20210221T00:24:20Z | Analysis of some binaries using the Ghidra tool and their breaking through buffer overflow. Opening a shell using these vulnerabilities | https://github.com/laviniadragne/Exploit-ELFs | 0 | 0| 
 | 20210220T23:26:21Z | Exploits a simple Web application RCE on Linux systems and supports PTY upgrade, Bind- and ReveseShells, File Up- and Download | https://github.com/61106960/ForwardShell | 1 | 1| 
 | 20210220T23:03:58Z | free aram boost | https://github.com/devshadows/aram-exploit | 0 | 0| 
 | 20210220T22:51:18Z | Key system for the roblox exploit Risky | https://github.com/wyattdigitalz/RiskyKey | 0 | 0| 
 | 20210220T21:46:51Z | Null | https://github.com/iapps1013/dtm-exploits | 0 | 0| 
-| 20210220T21:22:08Z | Null | https://github.com/Nicoslo/Windows-Exploitation-Eclipse-Equinoxe-OSGi-Console | 1 | 0| 
 
 
 # backdoor on Github 推荐
@@ -116,16 +116,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210221T02:36:07Z | Null | https://github.com/matthewlong29/fuzzy-guacamole | 0 | 0| 
+| 20210221T01:53:05Z | This is the main website and system for Ball Fuzz Tennis Center. | https://github.com/Ball-Fuzz-Tennis-Center/Tennis-System | 0 | 0| 
+| 20210221T01:23:12Z | Fuzzy Adventure: A Portfolio | https://github.com/onomatopoetica/fuzzy-adventure | 0 | 0| 
+| 20210221T01:13:20Z | Null | https://github.com/riezaferdi/Fuzzy-Tasks-Priorities | 0 | 0| 
 | 20210221T00:55:31Z | To make fuzzing Rust easy | https://github.com/smoelius/test-fuzz | 0 | 0| 
-| 20210221T00:49:26Z | Null | https://github.com/matthewlong29/fuzzy-guacamole | 0 | 0| 
 | 20210221T00:14:38Z | machine learning project 1 | https://github.com/WeiminZhao/projFuzzy | 0 | 0| 
 | 20210220T23:29:22Z | Null | https://github.com/Luis00077/fuzzy-octo-garbanzo | 1 | 0| 
 | 20210220T23:28:46Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 1322 | 289| 
 | 20210220T23:27:42Z | Android 12 pixel12345678910111213141516171819100% | https://github.com/Luis00077/Fuzzi | 1 | 0| 
 | 20210220T23:13:16Z | Fuzzy charrs are fuzzy. | https://github.com/marenubium87/FuzzyCharr | 0 | 0| 
-| 20210220T23:06:33Z | https://github.com/wcventure/FuzzingPaper | https://github.com/mishmashclone/wcventure-FuzzingPaper | 2 | 1| 
-| 20210220T21:31:52Z | Framework for creating fuzzers and negative tests for TLS 1.3 implementations | https://github.com/artem-smotrakov/tlsbunny | 7 | 0| 
-| 20210220T21:11:34Z | This a small collection of Python scripts to rename your games based on the box art from Libreto repository | https://github.com/rafaelcgs10/fuzzy-rename-libreto-thumbnails | 0 | 0| 
 
 
 
