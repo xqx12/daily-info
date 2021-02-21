@@ -39,6 +39,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210221T13:21:45Z | CryptEx Locker is a powerful tool for protecting funds from rugs, team abuse and other forms of exploits. CryptEx allows users to lock tokens for a desired period of time or with additional conditions like multisignature proof. | https://github.com/HashEx/-cryptex-lock | 0 | 0| 
 | 20210221T13:18:18Z | CryptEx Locker is a powerful tool for protecting funds from rugs, team abuse and other forms of exploits. CryptEx allows users to lock tokens for a desired period of time or with additional conditions like multisignature proof. | https://github.com/kataloo/cryptex-lock | 0 | 0| 
 | 20210221T13:02:27Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 9 | 4| 
 | 20210221T12:55:26Z | WebExploit项目管理系统源码备份 | https://github.com/wikiZ/WebExploit- | 0 | 0| 
@@ -48,7 +49,6 @@
 | 20210221T12:02:12Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9035 | 1453| 
 | 20210221T11:59:14Z | Learning Metasploit, a tool to probe and exploit vulnerabilities on networks and servers. | https://github.com/TaurusNick/Metasploit | 0 | 0| 
 | 20210221T11:42:51Z | Great addition to servers to fix various lag and crash exploits! WIP | https://github.com/AlexProgrammerDE/PistonExploits | 2 | 0| 
-| 20210221T11:36:56Z | TryHackMe CTFs writeups, notes, dratfs, scrabbles, files and solutions. | https://github.com/edoardottt/tryhackme-ctf | 14 | 8| 
 
 
 # backdoor on Github 推荐

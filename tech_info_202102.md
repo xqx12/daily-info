@@ -55,7 +55,7 @@
 | 20210220T02:20:50Z | CVE-2021-21110 | CVE-2021-21110 : Tiki Wiki CMS GroupWare Serverside Template Injection Remote Code Execution Exploit | https://github.com/Gh0st0ne/CVE-2021-21110 | Use after free in safe browsing in Google Chrome prior to 87.0.4280.141 allowed a remote attacker to potentially perform a sandbox escape via a crafted HTML page.| 
 | 20210219T20:39:25Z | CVE-2020-8417 | CSRF Code snippet vulnerability CVE-2020-8417 | https://github.com/Vulnmachines/WordPress_CVE-2020-8417 | The Code Snippets plugin before 2.14.0 for WordPress allows CSRF because of the lack of a Referer check on the import menu.| 
 | 20210219T08:16:14Z | CVE-2021-27328 | Null | https://github.com/SQSamir/CVE-2021-27328 | Yeastar NeoGate TG400 91.3.0.3 devices are affected by Directory Traversal. An authenticated user can decrypt firmware and can read sensitive information, such as a password or decryption key.| 
-| 20210219T07:21:15Z | cve-2020-8165 | Null | https://github.com/danielklim/cve-2020-8165-demo | 未查询到CVE信息| 
+| 20210219T07:21:15Z | cve-2020-8165 | Null | https://github.com/danielklim/cve-2020-8165-demo | | 
 
 
 # klee on Github 推荐
@@ -86,6 +86,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210221T13:21:45Z | CryptEx Locker is a powerful tool for protecting funds from rugs, team abuse and other forms of exploits. CryptEx allows users to lock tokens for a desired period of time or with additional conditions like multisignature proof. | https://github.com/HashEx/-cryptex-lock | 0 | 0| 
 | 20210221T13:18:18Z | CryptEx Locker is a powerful tool for protecting funds from rugs, team abuse and other forms of exploits. CryptEx allows users to lock tokens for a desired period of time or with additional conditions like multisignature proof. | https://github.com/kataloo/cryptex-lock | 0 | 0| 
 | 20210221T13:02:27Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 9 | 4| 
 | 20210221T12:55:26Z | WebExploit项目管理系统源码备份 | https://github.com/wikiZ/WebExploit- | 0 | 0| 
@@ -95,7 +96,6 @@
 | 20210221T12:02:12Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9035 | 1453| 
 | 20210221T11:59:14Z | Learning Metasploit, a tool to probe and exploit vulnerabilities on networks and servers. | https://github.com/TaurusNick/Metasploit | 0 | 0| 
 | 20210221T11:42:51Z | Great addition to servers to fix various lag and crash exploits! WIP | https://github.com/AlexProgrammerDE/PistonExploits | 2 | 0| 
-| 20210221T11:36:56Z | TryHackMe CTFs writeups, notes, dratfs, scrabbles, files and solutions. | https://github.com/edoardottt/tryhackme-ctf | 14 | 8| 
 
 
 # backdoor on Github 推荐
