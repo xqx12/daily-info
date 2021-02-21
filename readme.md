@@ -20,7 +20,7 @@
 | 20210221T06:34:19Z | CVE-2021-3129 | CVE-2021-3129-Laravel Debug mode 远程代码执行漏洞 | https://github.com/simonlee-hello/CVE-2021-3129 | Ignition before 2.5.2, as used in Laravel and other products, allows unauthenticated remote attackers to execute arbitrary code because of insecure usage of file_get_contents() and file_put_contents(). This is exploitable on sites using debug mode with Laravel before 8.4.2.| 
 | 20210221T06:00:31Z | CVE-2020-8637 | Null | https://github.com/DXY0411/CVE-2020-8637 | A SQL injection vulnerability in TestLink 1.9.20 allows attackers to execute arbitrary SQL commands in dragdroptreenodes.php via the node_id parameter.| 
 | 20210221T03:52:12Z | CVE-2020-0814 | Null | https://github.com/klinix5/CVE-2020-0814 | An elevation of privilege vulnerability exists in Windows Installer because of the way Windows Installer handles certain filesystem operations.To exploit the vulnerability, an attacker would require unprivileged execution on the victim system, aka %Windows Installer Elevation of Privilege Vulnerability%. This CVE ID is unique from CVE-2020-0779, CVE-2020-0798, CVE-2020-0842, CVE-2020-0843.| 
-| 20210221T03:22:33Z | CVE-2021-1727 | Null | https://github.com/klinix5/CVE-2021-1727 | | 
+| 20210221T03:22:33Z | CVE-2021-1727 | Null | https://github.com/klinix5/CVE-2021-1727 | 未查询到CVE信息| 
 
 
 # klee on Github 推荐
@@ -40,6 +40,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210221T13:46:33Z | Null | https://github.com/topcue/dact_exploit | 0 | 0| 
 | 20210221T13:21:45Z | CryptEx Locker is a powerful tool for protecting funds from rugs, team abuse and other forms of exploits. CryptEx allows users to lock tokens for a desired period of time or with additional conditions like multisignature proof. | https://github.com/HashEx/-cryptex-lock | 0 | 0| 
 | 20210221T13:18:18Z | CryptEx Locker is a powerful tool for protecting funds from rugs, team abuse and other forms of exploits. CryptEx allows users to lock tokens for a desired period of time or with additional conditions like multisignature proof. | https://github.com/kataloo/cryptex-lock | 0 | 0| 
 | 20210221T13:02:27Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 9 | 4| 
@@ -49,7 +50,6 @@
 | 20210221T12:28:28Z | Modular penetration testing platform that enables you to write, test, and execute exploit code. | https://github.com/EntySec/HatSploit | 2 | 0| 
 | 20210221T12:02:12Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9035 | 1453| 
 | 20210221T11:59:14Z | Learning Metasploit, a tool to probe and exploit vulnerabilities on networks and servers. | https://github.com/TaurusNick/Metasploit | 0 | 0| 
-| 20210221T11:42:51Z | Great addition to servers to fix various lag and crash exploits! WIP | https://github.com/AlexProgrammerDE/PistonExploits | 2 | 0| 
 
 
 # backdoor on Github 推荐
