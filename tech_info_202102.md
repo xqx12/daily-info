@@ -101,31 +101,31 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210221T12:10:51Z | 🤖 AI based Backdoor Written for Windows using Telegram-bot as Its Back-ends. | https://github.com/wildonion/katyusha | 1 | 0| 
+| 20210221T10:35:28Z | Cross Platform Java RAT targeting Windows with a multitude of features. Built for Penetration Testers. | https://github.com/quantumcored/remote_hacker_probe | 1 | 0| 
+| 20210221T08:54:58Z | Pupy is an opensource, cross-platform (Windows, Linux, OSX, Android) remote administration and post-exploitation tool mainly written in python | https://github.com/n1nj4sec/pupy | 6158 | 1584| 
+| 20210221T05:43:04Z | TrojanZoo provides a universal pytorch platform to conduct security researches (especially backdoor attacks/defenses) of image classification in deep learning. | https://github.com/ain-soph/trojanzoo | 42 | 8| 
 | 20210220T21:03:06Z | A netcat and nircmd based windows backdoor for fun | https://github.com/f00kthisc0de/FunFramework | 0 | 0| 
-| 20210220T20:24:44Z | Cross Platform Java RAT targeting Windows with a multitude of features. Built for Penetration Testers. | https://github.com/quantumcored/remote_hacker_probe | 0 | 0| 
 | 20210220T16:58:40Z | Min backdoor | https://github.com/XmXTheDev/backdoor | 0 | 0| 
 | 20210220T15:41:31Z | Python Backdoor Generator | https://github.com/grenoxx/Back-X | 5 | 0| 
 | 20210220T13:48:40Z | WaNet - Imperceptible Warping-based Backdoor Attack (International Conference on Learning Representations 2021) | https://github.com/VinAIResearch/Warping-based_Backdoor_Attack-release | 1 | 0| 
 | 20210220T13:16:32Z | Null | https://github.com/EjHvorSerDuVildUdJim/backdoor | 0 | 0| 
 | 20210220T11:00:42Z | A simple and extensible setup for Federated Learning and Backdoor attacks in PyTorch. | https://github.com/harit7/torch-fl | 0 | 0| 
-| 20210220T08:20:37Z | A multi functional rat, that firstly will be a simple backdoor | https://github.com/K1DR4T/BETA---R4T | 0 | 0| 
-| 20210220T07:36:38Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 170 | 26| 
-| 20210220T06:39:28Z | Null | https://github.com/fenilsuchak/test-mlm-backdoor | 0 | 0| 
 
 
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210221T02:36:07Z | Null | https://github.com/matthewlong29/fuzzy-guacamole | 0 | 0| 
-| 20210221T01:53:05Z | This is the main website and system for Ball Fuzz Tennis Center. | https://github.com/Ball-Fuzz-Tennis-Center/Tennis-System | 0 | 0| 
-| 20210221T01:23:12Z | Fuzzy Adventure: A Portfolio | https://github.com/onomatopoetica/fuzzy-adventure | 0 | 0| 
-| 20210221T01:13:20Z | Null | https://github.com/riezaferdi/Fuzzy-Tasks-Priorities | 0 | 0| 
-| 20210221T00:55:31Z | To make fuzzing Rust easy | https://github.com/smoelius/test-fuzz | 0 | 0| 
-| 20210221T00:14:38Z | machine learning project 1 | https://github.com/WeiminZhao/projFuzzy | 0 | 0| 
-| 20210220T23:29:22Z | Null | https://github.com/Luis00077/fuzzy-octo-garbanzo | 1 | 0| 
-| 20210220T23:28:46Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 1322 | 289| 
-| 20210220T23:27:42Z | Android 12 pixel12345678910111213141516171819100% | https://github.com/Luis00077/Fuzzi | 1 | 0| 
-| 20210220T23:13:16Z | Fuzzy charrs are fuzzy. | https://github.com/marenubium87/FuzzyCharr | 0 | 0| 
+| 20210221T12:39:50Z | The code behind getfursu.it | https://github.com/veelkoov/fuzzrake | 6 | 0| 
+| 20210221T12:35:32Z | Null | https://github.com/Nizaki/fuzzfizz.github.io | 0 | 0| 
+| 20210221T12:02:25Z | Small lightweight library for Python (version >= 3.6) that performs basic Interval and Fuzzy Arithmetic. | https://github.com/JanCaha/FuzzyMath | 0 | 0| 
+| 20210221T11:57:09Z | Null | https://github.com/dannysilence/fuzzy-happiness | 0 | 0| 
+| 20210221T10:25:14Z | Implementation of Fuzzy String matching with Spotify%s Annoy library | https://github.com/devYaoYH/FuzzyString_Annoy | 0 | 0| 
+| 20210221T10:13:30Z | Windows NT x64 syscall fuzzer | https://github.com/hfiref0x/NtCall64 | 191 | 68| 
+| 20210221T09:47:42Z | Java implementation of some in-memory fuzzy search algorithms. | https://github.com/EugeneLesnov/fuzzy-search | 6 | 1| 
+| 20210221T09:42:21Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 5955 | 1193| 
+| 20210221T07:02:27Z | Null | https://github.com/vasumv/bonsai-fuzzing | 0 | 0| 
+| 20210221T06:59:39Z | A site that allows you to reverse image search millions of furry images in under a second | https://github.com/Syfaro/fuzzysearch | 6 | 1| 
 
 
 

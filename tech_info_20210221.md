@@ -54,17 +54,25 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210221T12:10:51Z | 🤖 AI based Backdoor Written for Windows using Telegram-bot as Its Back-ends. | https://github.com/wildonion/katyusha | 1 | 0| 
+| 20210221T10:35:28Z | Cross Platform Java RAT targeting Windows with a multitude of features. Built for Penetration Testers. | https://github.com/quantumcored/remote_hacker_probe | 1 | 0| 
+| 20210221T08:54:58Z | Pupy is an opensource, cross-platform (Windows, Linux, OSX, Android) remote administration and post-exploitation tool mainly written in python | https://github.com/n1nj4sec/pupy | 6158 | 1584| 
+| 20210221T05:43:04Z | TrojanZoo provides a universal pytorch platform to conduct security researches (especially backdoor attacks/defenses) of image classification in deep learning. | https://github.com/ain-soph/trojanzoo | 42 | 8| 
 
 
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210221T02:36:07Z | Null | https://github.com/matthewlong29/fuzzy-guacamole | 0 | 0| 
-| 20210221T01:53:05Z | This is the main website and system for Ball Fuzz Tennis Center. | https://github.com/Ball-Fuzz-Tennis-Center/Tennis-System | 0 | 0| 
-| 20210221T01:23:12Z | Fuzzy Adventure: A Portfolio | https://github.com/onomatopoetica/fuzzy-adventure | 0 | 0| 
-| 20210221T01:13:20Z | Null | https://github.com/riezaferdi/Fuzzy-Tasks-Priorities | 0 | 0| 
-| 20210221T00:55:31Z | To make fuzzing Rust easy | https://github.com/smoelius/test-fuzz | 0 | 0| 
-| 20210221T00:14:38Z | machine learning project 1 | https://github.com/WeiminZhao/projFuzzy | 0 | 0| 
+| 20210221T12:39:50Z | The code behind getfursu.it | https://github.com/veelkoov/fuzzrake | 6 | 0| 
+| 20210221T12:35:32Z | Null | https://github.com/Nizaki/fuzzfizz.github.io | 0 | 0| 
+| 20210221T12:02:25Z | Small lightweight library for Python (version >= 3.6) that performs basic Interval and Fuzzy Arithmetic. | https://github.com/JanCaha/FuzzyMath | 0 | 0| 
+| 20210221T11:57:09Z | Null | https://github.com/dannysilence/fuzzy-happiness | 0 | 0| 
+| 20210221T10:25:14Z | Implementation of Fuzzy String matching with Spotify%s Annoy library | https://github.com/devYaoYH/FuzzyString_Annoy | 0 | 0| 
+| 20210221T10:13:30Z | Windows NT x64 syscall fuzzer | https://github.com/hfiref0x/NtCall64 | 191 | 68| 
+| 20210221T09:47:42Z | Java implementation of some in-memory fuzzy search algorithms. | https://github.com/EugeneLesnov/fuzzy-search | 6 | 1| 
+| 20210221T09:42:21Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 5955 | 1193| 
+| 20210221T07:02:27Z | Null | https://github.com/vasumv/bonsai-fuzzing | 0 | 0| 
+| 20210221T06:59:39Z | A site that allows you to reverse image search millions of furry images in under a second | https://github.com/Syfaro/fuzzysearch | 6 | 1| 
 
 
 
