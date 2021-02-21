@@ -86,15 +86,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210220T02:57:29Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 5950 | 1194| 
-| 20210220T02:56:37Z | Null | https://github.com/woodsgao/fuzzy-octo | 0 | 0| 
-| 20210220T01:21:06Z | messing around | https://github.com/bakkot/fuzz-js | 0 | 0| 
-| 20210220T01:16:58Z | My Resume  | https://github.com/wakingstardust/fuzzy-octo-adventure | 0 | 0| 
-| 20210220T01:09:57Z | A simple directory fuzzer written in Python3 using the Requests module.  | https://github.com/p3rpl3x1ty/Directory-Fuzzer | 0 | 0| 
-| 20210220T00:57:45Z | 瓶颈渗透,web渗透,red红队,fuzz param,注释,js字典,ctf | https://github.com/7dog7/bottleneckOsmosis | 364 | 58| 
-| 20210220T00:43:19Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 29986 | 15202| 
-| 20210220T00:42:05Z | Software for fuzzing, used on web application pentestings. | https://github.com/NESCAU-UFLA/FuzzingTool | 4 | 1| 
-| 20210220T00:24:30Z | REST API Fuzz Testing (RAFT): Source code for self-hosted service developed for Azure, including the API, orchestration engine, and default set of security tools (including MSR%s RESTler), that enables developers to embed security tooling into their CI/CD workflows | https://github.com/microsoft/rest-api-fuzz-testing | 108 | 16| 
+| 20210220T23:29:22Z | Null | https://github.com/Luis00077/fuzzy-octo-garbanzo | 1 | 0| 
+| 20210220T23:28:46Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 1322 | 289| 
+| 20210220T23:27:42Z | Android 12 pixel12345678910111213141516171819100% | https://github.com/Luis00077/Fuzzi | 1 | 0| 
+| 20210220T23:13:16Z | Fuzzy charrs are fuzzy. | https://github.com/marenubium87/FuzzyCharr | 0 | 0| 
+| 20210220T23:06:33Z | https://github.com/wcventure/FuzzingPaper | https://github.com/mishmashclone/wcventure-FuzzingPaper | 2 | 1| 
+| 20210220T21:31:52Z | Framework for creating fuzzers and negative tests for TLS 1.3 implementations | https://github.com/artem-smotrakov/tlsbunny | 7 | 0| 
+| 20210220T21:11:34Z | This a small collection of Python scripts to rename your games based on the box art from Libreto repository | https://github.com/rafaelcgs10/fuzzy-rename-libreto-thumbnails | 0 | 0| 
+| 20210220T20:30:00Z | p4 fuzzing | https://github.com/shouc/porkfuzz | 0 | 0| 
+| 20210220T20:16:26Z | python plate parser | https://github.com/trum994/fuzzy-octo-train | 0 | 0| 
+| 20210220T18:29:10Z | Null | https://github.com/opimentel-github/fuzzy-torch | 0 | 0| 
 
 
 
