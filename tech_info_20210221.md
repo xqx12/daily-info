@@ -65,16 +65,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210221T13:52:44Z | Fast web fuzzer written in Go | https://github.com/ffuf/ffuf | 3964 | 470| 
+| 20210221T13:49:58Z | This a small collection of Python scripts to rename your games based on the box art from Libreto repository | https://github.com/rafaelcgs10/fuzzy-rename-libreto-thumbnails | 0 | 0| 
+| 20210221T13:42:54Z | Null | https://github.com/barfedguy1996/fuzzy-bassoon | 0 | 0| 
+| 20210221T13:26:03Z | revault_tx fuzz testing corpus | https://github.com/re-vault/revault_tx_corpus | 0 | 0| 
 | 20210221T12:39:50Z | The code behind getfursu.it | https://github.com/veelkoov/fuzzrake | 6 | 0| 
 | 20210221T12:35:32Z | Null | https://github.com/Nizaki/fuzzfizz.github.io | 0 | 0| 
 | 20210221T12:02:25Z | Small lightweight library for Python (version >= 3.6) that performs basic Interval and Fuzzy Arithmetic. | https://github.com/JanCaha/FuzzyMath | 0 | 0| 
 | 20210221T11:57:09Z | Null | https://github.com/dannysilence/fuzzy-happiness | 0 | 0| 
 | 20210221T10:25:14Z | Implementation of Fuzzy String matching with Spotify%s Annoy library | https://github.com/devYaoYH/FuzzyString_Annoy | 0 | 0| 
 | 20210221T10:13:30Z | Windows NT x64 syscall fuzzer | https://github.com/hfiref0x/NtCall64 | 191 | 68| 
-| 20210221T09:47:42Z | Java implementation of some in-memory fuzzy search algorithms. | https://github.com/EugeneLesnov/fuzzy-search | 6 | 1| 
-| 20210221T09:42:21Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 5955 | 1193| 
-| 20210221T07:02:27Z | Null | https://github.com/vasumv/bonsai-fuzzing | 0 | 0| 
-| 20210221T06:59:39Z | A site that allows you to reverse image search millions of furry images in under a second | https://github.com/Syfaro/fuzzysearch | 6 | 1| 
 
 
 
