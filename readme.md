@@ -39,6 +39,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210221T13:18:18Z | CryptEx Locker is a powerful tool for protecting funds from rugs, team abuse and other forms of exploits. CryptEx allows users to lock tokens for a desired period of time or with additional conditions like multisignature proof. | https://github.com/kataloo/cryptex-lock | 0 | 0| 
 | 20210221T13:02:27Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 9 | 4| 
 | 20210221T12:55:26Z | WebExploit项目管理系统源码备份 | https://github.com/wikiZ/WebExploit- | 0 | 0| 
 | 20210221T12:43:27Z | Exploits a simple Web application RCE on Linux systems and supports PTY upgrade, Bind- and ReveseShells, File Up- and Download | https://github.com/61106960/ForwardShell | 1 | 1| 
@@ -48,7 +49,6 @@
 | 20210221T11:59:14Z | Learning Metasploit, a tool to probe and exploit vulnerabilities on networks and servers. | https://github.com/TaurusNick/Metasploit | 0 | 0| 
 | 20210221T11:42:51Z | Great addition to servers to fix various lag and crash exploits! WIP | https://github.com/AlexProgrammerDE/PistonExploits | 2 | 0| 
 | 20210221T11:36:56Z | TryHackMe CTFs writeups, notes, dratfs, scrabbles, files and solutions. | https://github.com/edoardottt/tryhackme-ctf | 14 | 8| 
-| 20210221T11:36:42Z | How to become a smart user in Airbnb? In this work both host’s and guest’s perspectives are provided with useful suggestions on how to improve business, either by correctly pricing, choosing or improving an apartment. The exploitation of non-parametric techniques is essential when the gaussian assumption is completely wrong. Permutational tests, GAMs and bagplots are exploited to achieve optimal performances. | https://github.com/LorenzoDominoni/Airbnbs-in-Milan | 0 | 0| 
 
 
 # backdoor on Github 推荐
