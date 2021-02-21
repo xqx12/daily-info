@@ -7,6 +7,9 @@
 | ts | title | url| 
 | --- | --- | ---| 
 | 20210220 | ISRG 组织与 curl 作者合作，用 rust 重新实现更安全的 curl | https://www.abetterinternet.org/post/memory-safe-curl/| 
+| 20210220 | ZDI-21-171：通过利用ID标签在Adobe Reader中获取信息披露。 | https://www.zerodayinitiative.com/blog/2021/2/17/zdi-21-171-getting-information-disclosure-in-adobe-reader-through-the-id-tag| 
+| 20210220 | Ubuntu安全公告USN-4737-1 ：发现Bind9漏洞（CVE-2020-8625）。 | https://packetstormsecurity.com/files/161456| 
+| 20210220 | Android渗透测试：APK反编译教程（第2部分）。 | https://www.hackingarticles.in/android-penetration-testing-apk-reversing-part-2/| 
 
 
 # 安全维基 推荐
@@ -17,6 +20,7 @@
 | 20210220 | 软件安全能力成熟度评估实践 | https://mp.weixin.qq.com/s/_s5m8WxlwnoI4-Ea8SJfCA| 
 | 20210220 | XStream RCE Analysis | https://lightless.me/archives/xstream-rce-analysis.html| 
 | 20210220 | “十四五”时期网络安全的五大转变 | https://mp.weixin.qq.com/s/ONUYz1z4Z-6ueFwTZk8TZA| 
+| 20210220 | 利用angr符号执行去除虚假控制流 | https://mp.weixin.qq.com/s/d8xoR3VdMf6lMfnETaQHZw| 
 
 
 # CVE Github 推荐
@@ -32,6 +36,10 @@
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210220T23:30:18Z | Whole Program LLVM: wllvm ported to go | https://github.com/SRI-CSL/gllvm | 120 | 20| 
+| 20210220T22:59:53Z | Git Blog | https://github.com/klee30810/klee30810.github.io | 0 | 0| 
+| 20210220T21:41:56Z | Null | https://github.com/thierry-tct/KLEE-SEMu | 2 | 2| 
+| 20210220T18:29:24Z | Null | https://github.com/c-kleerun/c-kleerun.github.io | 0 | 0| 
 | 20210220T13:41:17Z | Null | https://github.com/dhanyavittaldas/Kleen-Tidy-Cleaning-Services | 0 | 0| 
 | 20210220T12:46:37Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 的 Klee One 的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 87 | 3| 
 | 20210220T08:26:21Z | FlyingheartCN.github.io | https://github.com/KleeMoe/KleeMoe.github.io | 0 | 0| 
@@ -42,6 +50,7 @@
 # s2e on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210220T17:34:12Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 97 | 22| 
 
 
 # exploit on Github 推荐
