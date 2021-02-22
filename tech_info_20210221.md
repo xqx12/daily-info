@@ -74,10 +74,10 @@
 | 20210221T20:43:07Z | PoC of fuzzing closed-source userspace binaries with KVM | https://github.com/klecko/kvm-fuzz | 0 | 0| 
 | 20210221T20:31:41Z | Null | https://github.com/corootine/fuzzy | 0 | 0| 
 | 20210221T20:27:02Z | A fork and successor of the Sulley Fuzzing Framework | https://github.com/jtpereyda/boofuzz | 1152 | 233| 
-| 20210221T20:02:59Z | Policy-Guided Fuzzing for Robotic Vehicles | https://github.com/purseclab/PGFUZZ | 0 | 0| 
 | 20210221T19:51:48Z | Null | https://github.com/opimentel-github/fuzzy-torch | 0 | 0| 
 | 20210221T19:34:58Z | port of https://github.com/seatgeek/fuzzywuzzy | https://github.com/logannc/fuzzywuzzy-rs | 22 | 2| 
 | 20210221T19:19:44Z | Rapid fuzzy string matching in Python using the Levenshtein Distance | https://github.com/maxbachmann/RapidFuzz | 783 | 26| 
+| 20210221T19:00:24Z | my javascript study repo | https://github.com/JWNicholson/fuzzy-waffles | 0 | 0| 
 
 
 
