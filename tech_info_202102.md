@@ -101,31 +101,31 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210222T13:03:50Z | Pupy is an opensource, cross-platform (Windows, Linux, OSX, Android) remote administration and post-exploitation tool mainly written in python | https://github.com/n1nj4sec/pupy | 6159 | 1583| 
+| 20210222T11:46:04Z | Null | https://github.com/Wiilldd/backdoor | 0 | 0| 
+| 20210222T05:19:42Z | 🤖 AI based Backdoor Written for Windows using Telegram-bot as Its Back-ends. | https://github.com/wildonion/katyusha | 1 | 0| 
+| 20210222T05:15:27Z | This is just for me ok! | https://github.com/GetRektBoy724/sementara | 1 | 0| 
 | 20210221T23:26:45Z | TrojanZoo provides a universal pytorch platform to conduct security researches (especially backdoor attacks/defenses) of image classification in deep learning. | https://github.com/ain-soph/trojanzoo | 43 | 8| 
 | 20210221T20:35:01Z | Min backdoor | https://github.com/XmXTheDev/backdoor | 0 | 0| 
-| 20210221T19:32:43Z | 🤖 AI based Backdoor Written for Windows using Telegram-bot as Its Back-ends. | https://github.com/wildonion/katyusha | 1 | 0| 
 | 20210221T18:20:00Z | Undetectable & Xor encrypting with custom KEY (FUD Metasploit Rat) bypass Top Antivirus like BitDefender,Malwarebytes,Avast,ESET-NOD32,AVG,... & Automatically Add ICON and MANIFEST to excitable | https://github.com/persianhydra/Xeexe-TopAntivirusEvasion | 302 | 81| 
 | 20210221T18:12:29Z | Null | https://github.com/EjHvorSerDuVildUdJim/backdoor | 0 | 0| 
 | 20210221T15:55:09Z | Null | https://github.com/iK4oS/PremiumBackdoor.exe | 0 | 1| 
 | 20210221T10:35:28Z | Cross Platform Java RAT targeting Windows with a multitude of features. Built for Penetration Testers. | https://github.com/quantumcored/remote_hacker_probe | 1 | 0| 
-| 20210221T08:54:58Z | Pupy is an opensource, cross-platform (Windows, Linux, OSX, Android) remote administration and post-exploitation tool mainly written in python | https://github.com/n1nj4sec/pupy | 6158 | 1583| 
-| 20210220T21:03:06Z | A netcat and nircmd based windows backdoor for fun | https://github.com/f00kthisc0de/FunFramework | 0 | 0| 
-| 20210220T15:41:31Z | Python Backdoor Generator | https://github.com/grenoxx/Back-X | 5 | 0| 
 
 
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210222T02:47:28Z | Null | https://github.com/stopdaydreaming/fuzzy-react-portfolio | 0 | 0| 
-| 20210222T02:38:54Z | Command line helpers for fuzzing | https://github.com/rust-fuzz/cargo-fuzz | 709 | 56| 
-| 20210222T02:26:48Z | Policy-Guided Fuzzing for Robotic Vehicles | https://github.com/purseclab/PGFUZZ | 0 | 0| 
-| 20210222T01:49:10Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2269 | 116| 
-| 20210222T01:32:32Z | Scalable fuzzing infrastructure. | https://github.com/google/clusterfuzz | 4434 | 421| 
-| 20210222T01:30:38Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 1325 | 290| 
-| 20210222T00:34:40Z | Studying fuzzy logic and inference in a Jupyter notebook. | https://github.com/pereirarodrigo/fuzzyl | 0 | 0| 
-| 20210222T00:30:43Z | Null | https://github.com/gamew22/fuzzy-octo-disco | 0 | 0| 
-| 20210222T00:09:37Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 5957 | 1193| 
-| 20210222T00:05:47Z | Personal website of Laurence Hughes | https://github.com/fuzzylogicxx/fuzzylogic | 4 | 1| 
+| 20210222T13:03:20Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 1326 | 290| 
+| 20210222T12:51:19Z | Ein Suchfeld, das während des Tippens bereits Suchergebnisse anzeigt. | https://github.com/phoenixreisen/fuzzy-input | 0 | 0| 
+| 20210222T12:42:15Z | A fuzzer that generates random Go programs | https://github.com/ALTree/microsmith | 7 | 0| 
+| 20210222T12:31:13Z | Coverage-guided, in-process fuzzing for the JVM | https://github.com/CodeIntelligenceTesting/jazzer | 182 | 7| 
+| 20210222T12:19:15Z | Dashboard em Shiny para estimativa do risco de incêndio utilizando lógica fuzzy (https://gabinetemilitar.shinyapps.io/fuzzyIncedio/).  | https://github.com/demusis/fuzzyIncendio | 0 | 0| 
+| 20210222T11:55:17Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 3353 | 771| 
+| 20210222T11:52:47Z | JavaScript fuzzer by Oliver Chang et al. | https://github.com/pmatos/js_fuzzer | 0 | 0| 
+| 20210222T11:49:12Z | Towards fuzzing ROS 2 automatically | https://github.com/JnxF/automatic_fuzzing | 0 | 0| 
+| 20210222T11:28:37Z | Null | https://github.com/Sambigeara/fuzzy-note | 2 | 1| 
+| 20210222T11:05:42Z | Find the ideal fuzz targets in a Rust codebase | https://github.com/trailofbits/siderophile | 96 | 8| 
 
 
 
