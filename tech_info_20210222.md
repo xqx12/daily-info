@@ -47,7 +47,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210222T13:12:20Z | OMQHUB is my own Roblox Exploiting hub, a pretty simple one but an powerful one. It is in the Version V0.1 so please don%t flame it. | https://github.com/NotMxth/OMQHUB-V0.2 | 0 | 0| 
+| 20210222T13:15:18Z | OMQHUB is my own Roblox Exploiting hub, a pretty simple one but an powerful one. It is in the Version V0.1 so please don%t flame it. | https://github.com/NotMxth/OMQHUB-V0.2 | 0 | 0| 
 | 20210222T13:07:10Z | Null | https://github.com/Deepanjalkumar/Exploit-Development | 0 | 0| 
 | 20210222T13:02:28Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 9 | 4| 
 | 20210222T12:47:11Z | CVE-PoC-Exploits! (Work in progress...) | https://github.com/maazsyed/CVE-PoC-Exploits | 1 | 0| 
