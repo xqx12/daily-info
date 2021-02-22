@@ -29,7 +29,7 @@
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
 | 20210222T07:17:01Z | CVE-2021-1727 | Null | https://github.com/klinix5/CVE-2021-1727 | 未查询到CVE信息| 
-| 20210222T01:48:01Z | CVE-2021-26121 | Null | https://github.com/sourceincite/CVE-2021-26121 | 未查询到CVE信息| 
+| 20210222T01:48:01Z | CVE-2021-26121 | Null | https://github.com/sourceincite/CVE-2021-26121 | | 
 | 20210222T01:28:35Z | CVE-2021-26700 | RCE in NPM VSCode Extention | https://github.com/jackadamson/CVE-2021-26700 | 未查询到CVE信息| 
 
 
@@ -71,16 +71,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210222T13:23:24Z | Take the current implementation and turning a microservice architecture | https://github.com/ccesarrod/FuzzyMicrosrvices | 0 | 0| 
+| 20210222T13:14:55Z | Coverage-guided, in-process fuzzing for the JVM | https://github.com/CodeIntelligenceTesting/jazzer | 182 | 7| 
+| 20210222T13:10:57Z | Web application fuzzer | https://github.com/xmendez/wfuzz | 3524 | 883| 
 | 20210222T13:03:20Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 1326 | 290| 
 | 20210222T12:51:19Z | Ein Suchfeld, das während des Tippens bereits Suchergebnisse anzeigt. | https://github.com/phoenixreisen/fuzzy-input | 0 | 0| 
 | 20210222T12:42:15Z | A fuzzer that generates random Go programs | https://github.com/ALTree/microsmith | 7 | 0| 
-| 20210222T12:31:13Z | Coverage-guided, in-process fuzzing for the JVM | https://github.com/CodeIntelligenceTesting/jazzer | 182 | 7| 
 | 20210222T12:19:15Z | Dashboard em Shiny para estimativa do risco de incêndio utilizando lógica fuzzy (https://gabinetemilitar.shinyapps.io/fuzzyIncedio/).  | https://github.com/demusis/fuzzyIncendio | 0 | 0| 
 | 20210222T11:55:17Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 3353 | 771| 
 | 20210222T11:52:47Z | JavaScript fuzzer by Oliver Chang et al. | https://github.com/pmatos/js_fuzzer | 0 | 0| 
 | 20210222T11:49:12Z | Towards fuzzing ROS 2 automatically | https://github.com/JnxF/automatic_fuzzing | 0 | 0| 
-| 20210222T11:28:37Z | Null | https://github.com/Sambigeara/fuzzy-note | 2 | 1| 
-| 20210222T11:05:42Z | Find the ideal fuzz targets in a Rust codebase | https://github.com/trailofbits/siderophile | 96 | 8| 
 
 
 
