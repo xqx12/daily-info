@@ -6,6 +6,16 @@
 # 玄武实验室 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20210222 | MilenageTest - 验证 3G/4G/5G 鉴权验证过程是否正确的工具 | https://github.com/jimtangshfx/MilenageTest| 
+| 20210222 | 深入剖析 JavaScript 编译器/解释器引擎 QuickJS | https://ming1016.github.io/2021/02/21/deeply-analyse-quickjs/| 
+| 20210222 | 在 VBA 宏函数中如何将 Shellcode 拷贝到内存中的 RWX 段 | https://adepts.of0x.cc/alternatives-copy-shellcode/| 
+| 20210222 | Bluepill - Type-2 Intel Hypervisor For Windows 10 Systems | https://githacks.org/_xeroxz/bluepill| 
+| 20210222 | OSPREY: Recovery of Variable and Data Structure via Probabilistic Analysis for Stripped Binary | https://www.cs.purdue.edu/homes/zhan3299/res/SP21a.pdf| 
+| 20210222 | 有用户发现，Brave 浏览器会通过 DNS 请求泄露用户的所有 Tor、Onion 请求 | https://ramble.pw/f/privacy/2387| 
+| 20210222 | 基于浏览器网站图标（favicon）缓存实现对用户的跟踪 | https://www.cs.uic.edu/~polakis/papers/solomos-ndss21.pdf| 
+| 20210222 | IoT 平台恶意软件攻击模型分析 | https://cujo.com/genetics-of-a-modern-iot-attack/| 
+| 20210222 | AntiDebugandMemoryDump - Anti-Debug and Anti-Memory Dump for Android | https://github.com/darvincisec/AntiDebugandMemoryDump| 
+| 20210222 | GadgetProbe - Java 反序列化漏洞 Gadget Probe 工具 | https://github.com/BishopFox/GadgetProbe| 
 | 20210220 | ISRG 组织与 curl 作者合作，用 rust 重新实现更安全的 curl | https://www.abetterinternet.org/post/memory-safe-curl/| 
 | 20210220 | ZDI-21-171：通过利用ID标签在Adobe Reader中获取信息披露。 | https://www.zerodayinitiative.com/blog/2021/2/17/zdi-21-171-getting-information-disclosure-in-adobe-reader-through-the-id-tag| 
 | 20210220 | Ubuntu安全公告USN-4737-1 ：发现Bind9漏洞（CVE-2020-8625）。 | https://packetstormsecurity.com/files/161456| 
@@ -16,21 +26,13 @@
 | 20210219 | 如何在C ++语言中构建自定义红队测试工具软件。 | https://resources.securitycompass.com/blog/how-to-build-custom-red-team-testing-tools-in-c| 
 | 20210219 | Google官方发布Android 12开发者预览版。 | https://android-developers.googleblog.com/2021/02/android-12-dp1.html| 
 | 20210219 | Electron APIs Misuse: An Attacker’s First Choice | https://blog.doyensec.com//2021/02/16/electron-apis-misuse.html| 
-| 20210219 | 美国指控朝鲜黑客近年来通过网络攻击窃取 2 亿美元 | https://krebsonsecurity.com/2021/02/u-s-indicts-north-korean-hackers-in-theft-of-200-million/| 
-| 20210219 | ConnectPort X2e IoT 网关设备漏洞分析及利用 | https://www.fireeye.com/blog/threat-research/2021/02/solarcity-exploitation-of-x2e-iot-device-part-one.html| 
-| 20210219 | Smarty Template Engine Multiple Sandbox Escape PHP Code Injection Vulnerabilities | https://srcincite.io/blog/2021/02/18/smarty-template-engine-multiple-sandbox-escape-vulnerabilities.html| 
-| 20210219 | ZDI-21-171 - Adobe Reader 处理 ID tag 不当导致的内存信息泄露漏洞分析 | https://www.thezdi.com/blog/2021/2/17/zdi-21-171-getting-information-disclosure-in-adobe-reader-through-the-id-tag| 
-| 20210219 | 已有 macOS 平台恶意软件支持在原生 M1 芯片运行 | https://objective-see.com/blog/blog_0x62.html| 
-| 20210219 | 视频直播 SDK Agora Video 被发现多个漏洞 | https://www.mcafee.com/blogs/other-blogs/mcafee-labs/dont-call-us-well-call-you-mcafee-atr-finds-vulnerability-in-agora-video-sdk/| 
-| 20210219 | 物联网开源组件安全Node-RED白盒审计 | https://security.tencent.com/index.php/blog/msg/181| 
-| 20210219 | 有研究员发现，ping 命令会默认向目标 IP 的 1025 端口发送 UDP 消息 | https://terenceli.github.io/%E6%8A%80%E6%9C%AF/2021/02/19/ping-1025| 
-| 20210219 | dwn – a docker pwn tool manager experiment | https://sensepost.com/blog/2021/dwn-a-docker-pwn-tool-manager-experiment/| 
-| 20210219 | Checkpoint 研究团队近期发现了一款 Office 恶意软件 Builder - APOMacroSploit | https://research.checkpoint.com/2021/apomacrosploit-apocalyptical-fud-race/| 
 
 
 # 安全维基 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20210222 | 详解反弹shell多维检测技术 | https://www.freebuf.com/articles/network/263684.html| 
+| 20210222 | SecWiki周刊（第364期) | https://www.sec-wiki.com/weekly/364| 
 | 20210221 | 文本对抗综述（一） | https://mp.weixin.qq.com/s/fYANjVp6CUOqri8mfA8vew| 
 | 20210220 | 网络空间搜索引擎研究 | https://mp.weixin.qq.com/s/ZIa1myq4xoBlAHvdR0ipTw| 
 | 20210220 | Nuclei: 基于Go语言开发的开源安全漏洞扫描工具使用初探 | https://mp.weixin.qq.com/s/C_-FRZMqF4ifzlx-ij4iIQ| 
@@ -39,29 +41,27 @@
 | 20210220 | “十四五”时期网络安全的五大转变 | https://mp.weixin.qq.com/s/ONUYz1z4Z-6ueFwTZk8TZA| 
 | 20210220 | 利用angr符号执行去除虚假控制流 | https://mp.weixin.qq.com/s/d8xoR3VdMf6lMfnETaQHZw| 
 | 20210219 | Browser Tracking Using Favicons | https://www.schneier.com/blog/archives/2021/02/browser-tracking-using-favicons.html| 
-| 20210219 | 物联网开源组件安全Node-RED白盒审计 | https://security.tencent.com/index.php/blog/msg/181| 
-| 20210219 | 记一场纯JS赛——DiceCTF2021 Web题解 | https://www.anquanke.com/post/id/231421| 
 
 
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20210222T07:17:01Z | CVE-2021-1727 | Null | https://github.com/klinix5/CVE-2021-1727 | 未查询到CVE信息| 
 | 20210222T01:48:01Z | CVE-2021-26121 | Null | https://github.com/sourceincite/CVE-2021-26121 | 未查询到CVE信息| 
 | 20210222T01:28:35Z | CVE-2021-26700 | RCE in NPM VSCode Extention | https://github.com/jackadamson/CVE-2021-26700 | 未查询到CVE信息| 
 | 20210221T06:34:19Z | CVE-2021-3129 | CVE-2021-3129-Laravel Debug mode 远程代码执行漏洞 | https://github.com/simonlee-hello/CVE-2021-3129 | Ignition before 2.5.2, as used in Laravel and other products, allows unauthenticated remote attackers to execute arbitrary code because of insecure usage of file_get_contents() and file_put_contents(). This is exploitable on sites using debug mode with Laravel before 8.4.2.| 
 | 20210221T06:00:31Z | CVE-2020-8637 | Null | https://github.com/DXY0411/CVE-2020-8637 | A SQL injection vulnerability in TestLink 1.9.20 allows attackers to execute arbitrary SQL commands in dragdroptreenodes.php via the node_id parameter.| 
 | 20210221T03:52:12Z | CVE-2020-0814 | Null | https://github.com/klinix5/CVE-2020-0814 | An elevation of privilege vulnerability exists in Windows Installer because of the way Windows Installer handles certain filesystem operations.To exploit the vulnerability, an attacker would require unprivileged execution on the victim system, aka %Windows Installer Elevation of Privilege Vulnerability%. This CVE ID is unique from CVE-2020-0779, CVE-2020-0798, CVE-2020-0842, CVE-2020-0843.| 
-| 20210221T03:22:33Z | CVE-2021-1727 | Null | https://github.com/klinix5/CVE-2021-1727 | 未查询到CVE信息| 
 | 20210220T08:11:26Z | CVE-2020-5410 | Spring Cloud Config 目录穿越漏洞(CVE-2020-5410) 复现 | https://github.com/thelostworldFree/SpringCloud-Config-CVE-2020-5410 | Spring Cloud Config, versions 2.2.x prior to 2.2.3, versions 2.1.x prior to 2.1.9, and older unsupported versions allow applications to serve arbitrary configuration files through the spring-cloud-config-server module. A malicious user, or attacker, can send a request using a specially crafted URL that can lead to a directory traversal attack.| 
 | 20210220T07:40:30Z | CVE-2021-3129 | Laravel <= v8.4.2 debug mode: Remote code execution (CVE-2021-3129) | https://github.com/zhzyker/CVE-2021-3129 | Ignition before 2.5.2, as used in Laravel and other products, allows unauthenticated remote attackers to execute arbitrary code because of insecure usage of file_get_contents() and file_put_contents(). This is exploitable on sites using debug mode with Laravel before 8.4.2.| 
 | 20210220T02:20:50Z | CVE-2021-21110 | CVE-2021-21110 : Tiki Wiki CMS GroupWare Serverside Template Injection Remote Code Execution Exploit | https://github.com/Gh0st0ne/CVE-2021-21110 | Use after free in safe browsing in Google Chrome prior to 87.0.4280.141 allowed a remote attacker to potentially perform a sandbox escape via a crafted HTML page.| 
-| 20210219T20:39:25Z | CVE-2020-8417 | CSRF Code snippet vulnerability CVE-2020-8417 | https://github.com/Vulnmachines/WordPress_CVE-2020-8417 | | 
+| 20210219T20:39:25Z | CVE-2020-8417 | CSRF Code snippet vulnerability CVE-2020-8417 | https://github.com/Vulnmachines/WordPress_CVE-2020-8417 | The Code Snippets plugin before 2.14.0 for WordPress allows CSRF because of the lack of a Referer check on the import menu.| 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210221T18:04:41Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 的 Klee One 的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 90 | 3| 
+| 20210222T06:34:14Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 的 Klee One 的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 92 | 3| 
 | 20210221T14:20:45Z | Git Blog | https://github.com/klee30810/klee30810.github.io | 0 | 0| 
 | 20210221T06:56:13Z | Whole Program LLVM: wllvm ported to go | https://github.com/SRI-CSL/gllvm | 122 | 20| 
 | 20210221T06:10:23Z | Spring 2021 Geography 817 work folder  | https://github.com/klee12/klee12.github.io | 0 | 0| 
@@ -86,16 +86,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210222T02:59:21Z | Provides boilerplate template for writing web exploit PoC. | https://github.com/ahkrichards/py-exploit-boilerplate | 0 | 0| 
-| 20210222T02:50:58Z | Exploit Database binary exploits located in the /sploits directory | https://github.com/offensive-security/exploitdb-bin-sploits | 1400 | 494| 
-| 20210222T02:42:46Z | Linux kernel CVE exploit analysis report and relative debug environment. You don%t need to compile Linux kernel and configure your environment anymore.  | https://github.com/bsauce/kernel-exploit-factory | 49 | 9| 
-| 20210222T02:35:03Z | The Lost Nintendo DS Television Output, brought back to life | https://github.com/LostNintendoHistory/Lost-NDS-TV | 133 | 7| 
-| 20210222T02:11:46Z | All the Lua scripts I developed, including exploit scripts (please only use those for educational purposes) | https://github.com/SkiddDev/Scripts | 0 | 0| 
-| 20210222T02:02:34Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 9 | 4| 
-| 20210222T01:32:44Z | Este projeto foi criado para testar exploit em protocolos smtp, não me responsabilizo pelo uso individuo.  | https://github.com/FabioSmuu/EmailExploit | 0 | 0| 
-| 20210222T01:24:54Z | This repository is for my senior year capstone. For my capstone I am developing a multipurpose web exploitation tool in python3. | https://github.com/nicholas-lueth/Web-Exploitation-Tool-Capstone | 0 | 0| 
-| 20210222T01:07:27Z | Unit tests for blue teams to aid with building detections for some common macOS post exploitation methods. | https://github.com/cedowens/Swift-Attack | 4 | 1| 
-| 20210222T00:47:18Z | Writeup for 35C3%s WebKid browser exploitation challenge | https://github.com/0xLyte/35c3-webkid | 1 | 0| 
+| 20210222T13:02:28Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 9 | 4| 
+| 20210222T12:47:11Z | CVE-PoC-Exploits! (Work in progress...) | https://github.com/maazsyed/CVE-PoC-Exploits | 1 | 0| 
+| 20210222T12:41:10Z | Modular penetration testing platform that enables you to write, test, and execute exploit code. | https://github.com/EntySec/HatSploit | 2 | 0| 
+| 20210222T12:33:09Z | Just a temporary website to post my ctf writeups and journey into binary/android exploitation/malware analysis/exploit development | https://github.com/blackbeard666/pwn_exhibit | 3 | 1| 
+| 20210222T12:26:47Z | Null | https://github.com/Deepanjalkumar/Exploit-Development | 0 | 0| 
+| 20210222T12:07:57Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9036 | 1453| 
+| 20210222T12:00:33Z | Simple python exploied that I decide to make. Hope you Enjoy! | https://github.com/ArtaZDX/Exploits-with-python | 0 | 0| 
+| 20210222T11:50:17Z | IoT 固件漏洞复现环境 | https://github.com/firmianay/IoT-vulhub | 185 | 17| 
+| 20210222T11:20:59Z | Null | https://github.com/kiarashjam/Exploiting-Video-Games-to-Test-AV | 0 | 0| 
+| 20210222T11:12:07Z | This bash script will help you to hack remote hosts  | https://github.com/FabioDefilippo/linuxallremote | 6 | 1| 
 
 
 # backdoor on Github 推荐
