@@ -86,6 +86,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210222T01:35:42Z | All the Lua scripts I developed, including exploit scripts (please only use those for educational purposes) | https://github.com/SkiddDev/Scripts | 0 | 0| 
 | 20210222T01:32:44Z | Este projeto foi criado para testar exploit em protocolos smtp, não me responsabilizo pelo uso individuo.  | https://github.com/FabioSmuu/EmailExploit | 0 | 0| 
 | 20210222T01:24:54Z | This repository is for my senior year capstone. For my capstone I am developing a multipurpose web exploitation tool in python3. | https://github.com/nicholas-lueth/Web-Exploitation-Tool-Capstone | 0 | 0| 
 | 20210222T01:07:27Z | Unit tests for blue teams to aid with building detections for some common macOS post exploitation methods. | https://github.com/cedowens/Swift-Attack | 4 | 0| 
@@ -95,7 +96,6 @@
 | 20210221T23:52:34Z | This work corroborates a run-time Trojan detection method exploiting STRong Intentional Perturbation of inputs, is a multi-domain Trojan detection defence across Vision, Text and Audio domains---thus termed as STRIP-ViTA. Specifically, STRIP-ViTA is the first confirmed Trojan detection method that is demonstratively independent of both the task domain and model architectures. | https://github.com/yjkim721/STRIP-ViTA | 1 | 0| 
 | 20210221T22:56:42Z | Modified and self-made exploits for pen-testing | https://github.com/H4rk3nz0/exploits | 0 | 1| 
 | 20210221T22:46:51Z | This program utilizes Excel macros and VBS to decrypt passwords saved on Google Chrome in a Windows machine. Este programa utiliza macros do Excel e VBS para descritografar senhas salvas no Google Chrome numa máquina Windows.  | https://github.com/joaopedrordepaiva/MacroExploit | 0 | 0| 
-| 20210221T22:12:12Z | All the Lua scripts I developed, including exploit scripts (please only use those for educational purposes) | https://github.com/SkiddDev/Scripts | 0 | 0| 
 
 
 # backdoor on Github 推荐

@@ -43,13 +43,13 @@
 | 20210221T23:52:34Z | This work corroborates a run-time Trojan detection method exploiting STRong Intentional Perturbation of inputs, is a multi-domain Trojan detection defence across Vision, Text and Audio domains---thus termed as STRIP-ViTA. Specifically, STRIP-ViTA is the first confirmed Trojan detection method that is demonstratively independent of both the task domain and model architectures. | https://github.com/yjkim721/STRIP-ViTA | 1 | 0| 
 | 20210221T22:56:42Z | Modified and self-made exploits for pen-testing | https://github.com/H4rk3nz0/exploits | 0 | 1| 
 | 20210221T22:46:51Z | This program utilizes Excel macros and VBS to decrypt passwords saved on Google Chrome in a Windows machine. Este programa utiliza macros do Excel e VBS para descritografar senhas salvas no Google Chrome numa máquina Windows.  | https://github.com/joaopedrordepaiva/MacroExploit | 0 | 0| 
-| 20210221T22:12:12Z | All the Lua scripts I developed, including exploit scripts (please only use those for educational purposes) | https://github.com/SkiddDev/Scripts | 0 | 0| 
 | 20210221T21:49:23Z | GEF - GDB Enhanced Features for exploit devs & reversers | https://github.com/hugsy/gef | 3469 | 488| 
 | 20210221T21:29:05Z | A Discord bot that detects and bans users who attempt to speak while appearing as muted or deafened. | https://github.com/Caeden117/VCMuteExploitDetectionBot | 0 | 0| 
 | 20210221T21:28:49Z | Full exploit code for CVE-2019-25024 an unauthenticated command injection flaw in OpenRepeater. | https://github.com/codexlynx/CVE-2019-25024 | 0 | 0| 
 | 20210221T21:15:19Z | Great addition to servers to fix various lag and crash exploits! WIP | https://github.com/AlexProgrammerDE/PistonExploits | 2 | 0| 
 | 20210221T21:03:18Z | Null | https://github.com/yd3v/exploit-me | 0 | 0| 
 | 20210221T20:35:11Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9035 | 1454| 
+| 20210221T20:33:42Z | Modular penetration testing platform that enables you to write, test, and execute exploit code. | https://github.com/EntySec/HatSploit | 2 | 0| 
 
 
 # backdoor on Github 推荐
