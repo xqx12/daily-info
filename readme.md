@@ -69,16 +69,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210221T13:52:44Z | Fast web fuzzer written in Go | https://github.com/ffuf/ffuf | 3964 | 470| 
-| 20210221T13:49:58Z | This a small collection of Python scripts to rename your games based on the box art from Libreto repository | https://github.com/rafaelcgs10/fuzzy-rename-libreto-thumbnails | 0 | 0| 
-| 20210221T13:42:54Z | Null | https://github.com/barfedguy1996/fuzzy-bassoon | 0 | 0| 
-| 20210221T13:26:03Z | revault_tx fuzz testing corpus | https://github.com/re-vault/revault_tx_corpus | 0 | 0| 
-| 20210221T12:39:50Z | The code behind getfursu.it | https://github.com/veelkoov/fuzzrake | 6 | 0| 
-| 20210221T12:35:32Z | Null | https://github.com/Nizaki/fuzzfizz.github.io | 0 | 0| 
-| 20210221T12:02:25Z | Small lightweight library for Python (version >= 3.6) that performs basic Interval and Fuzzy Arithmetic. | https://github.com/JanCaha/FuzzyMath | 0 | 0| 
-| 20210221T11:57:09Z | Null | https://github.com/dannysilence/fuzzy-happiness | 0 | 0| 
-| 20210221T10:25:14Z | Implementation of Fuzzy String matching with Spotify%s Annoy library | https://github.com/devYaoYH/FuzzyString_Annoy | 0 | 0| 
-| 20210221T10:13:30Z | Windows NT x64 syscall fuzzer | https://github.com/hfiref0x/NtCall64 | 191 | 68| 
+| 20210221T23:44:37Z | Software for fuzzing, used on web application pentestings. | https://github.com/NESCAU-UFLA/FuzzingTool | 4 | 1| 
+| 20210221T20:45:05Z | Null | https://github.com/lumebits/fuzzgram | 0 | 0| 
+| 20210221T20:44:18Z | Repository holding database dumps from getfursu.it | https://github.com/veelkoov/fuzzrake-data | 0 | 0| 
+| 20210221T20:43:07Z | PoC of fuzzing closed-source userspace binaries with KVM | https://github.com/klecko/kvm-fuzz | 0 | 0| 
+| 20210221T20:31:41Z | Null | https://github.com/corootine/fuzzy | 0 | 0| 
+| 20210221T20:27:02Z | A fork and successor of the Sulley Fuzzing Framework | https://github.com/jtpereyda/boofuzz | 1152 | 233| 
+| 20210221T20:02:59Z | Policy-Guided Fuzzing for Robotic Vehicles | https://github.com/purseclab/PGFUZZ | 0 | 0| 
+| 20210221T19:51:48Z | Null | https://github.com/opimentel-github/fuzzy-torch | 0 | 0| 
+| 20210221T19:34:58Z | port of https://github.com/seatgeek/fuzzywuzzy | https://github.com/logannc/fuzzywuzzy-rs | 22 | 2| 
+| 20210221T19:19:44Z | Rapid fuzzy string matching in Python using the Levenshtein Distance | https://github.com/maxbachmann/RapidFuzz | 783 | 26| 
 
 
 

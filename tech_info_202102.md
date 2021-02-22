@@ -116,16 +116,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210221T13:52:44Z | Fast web fuzzer written in Go | https://github.com/ffuf/ffuf | 3964 | 470| 
-| 20210221T13:49:58Z | This a small collection of Python scripts to rename your games based on the box art from Libreto repository | https://github.com/rafaelcgs10/fuzzy-rename-libreto-thumbnails | 0 | 0| 
-| 20210221T13:42:54Z | Null | https://github.com/barfedguy1996/fuzzy-bassoon | 0 | 0| 
-| 20210221T13:26:03Z | revault_tx fuzz testing corpus | https://github.com/re-vault/revault_tx_corpus | 0 | 0| 
-| 20210221T12:39:50Z | The code behind getfursu.it | https://github.com/veelkoov/fuzzrake | 6 | 0| 
-| 20210221T12:35:32Z | Null | https://github.com/Nizaki/fuzzfizz.github.io | 0 | 0| 
-| 20210221T12:02:25Z | Small lightweight library for Python (version >= 3.6) that performs basic Interval and Fuzzy Arithmetic. | https://github.com/JanCaha/FuzzyMath | 0 | 0| 
-| 20210221T11:57:09Z | Null | https://github.com/dannysilence/fuzzy-happiness | 0 | 0| 
-| 20210221T10:25:14Z | Implementation of Fuzzy String matching with Spotify%s Annoy library | https://github.com/devYaoYH/FuzzyString_Annoy | 0 | 0| 
-| 20210221T10:13:30Z | Windows NT x64 syscall fuzzer | https://github.com/hfiref0x/NtCall64 | 191 | 68| 
+| 20210222T00:34:40Z | Studying fuzzy logic and inference in a Jupyter notebook. | https://github.com/pereirarodrigo/fuzzyl | 0 | 0| 
+| 20210222T00:30:43Z | Null | https://github.com/gamew22/fuzzy-octo-disco | 0 | 0| 
+| 20210222T00:09:37Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 5957 | 1193| 
+| 20210222T00:05:47Z | Personal website of Laurence Hughes | https://github.com/fuzzylogicxx/fuzzylogic | 4 | 1| 
+| 20210222T00:02:39Z | This a small collection of Python scripts to rename your games based on the box art from Libretro repository | https://github.com/rafaelcgs10/fuzzy-rename-libretro-thumbnails | 0 | 0| 
+| 20210222T00:01:22Z | Twitter Tweepy Test | https://github.com/rlongio/fuzzy-fortnight | 0 | 0| 
+| 20210221T23:44:37Z | Software for fuzzing, used on web application pentestings. | https://github.com/NESCAU-UFLA/FuzzingTool | 4 | 1| 
+| 20210221T20:45:05Z | Null | https://github.com/lumebits/fuzzgram | 0 | 0| 
+| 20210221T20:44:18Z | Repository holding database dumps from getfursu.it | https://github.com/veelkoov/fuzzrake-data | 0 | 0| 
+| 20210221T20:43:07Z | PoC of fuzzing closed-source userspace binaries with KVM | https://github.com/klecko/kvm-fuzz | 0 | 0| 
 
 
 
