@@ -86,10 +86,10 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210222T01:07:27Z | Unit tests for blue teams to aid with building detections for some common macOS post exploitation methods. | https://github.com/cedowens/Swift-Attack | 4 | 0| 
 | 20210222T01:02:36Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 9 | 4| 
 | 20210222T00:47:18Z | Writeup for 35C3%s WebKid browser exploitation challenge | https://github.com/0xLyte/35c3-webkid | 1 | 0| 
 | 20210222T00:44:31Z | The Lost Nintendo DS Television Output, brought back to life | https://github.com/LostNintendoHistory/Lost-NDS-TV | 132 | 7| 
-| 20210222T00:14:36Z | Unit tests for blue teams to aid with building detections for some common macOS post exploitation methods. | https://github.com/cedowens/Swift-Attack | 2 | 0| 
 | 20210221T23:52:34Z | This work corroborates a run-time Trojan detection method exploiting STRong Intentional Perturbation of inputs, is a multi-domain Trojan detection defence across Vision, Text and Audio domains---thus termed as STRIP-ViTA. Specifically, STRIP-ViTA is the first confirmed Trojan detection method that is demonstratively independent of both the task domain and model architectures. | https://github.com/yjkim721/STRIP-ViTA | 1 | 0| 
 | 20210221T22:56:42Z | Modified and self-made exploits for pen-testing | https://github.com/H4rk3nz0/exploits | 0 | 1| 
 | 20210221T22:46:51Z | This program utilizes Excel macros and VBS to decrypt passwords saved on Google Chrome in a Windows machine. Este programa utiliza macros do Excel e VBS para descritografar senhas salvas no Google Chrome numa máquina Windows.  | https://github.com/joaopedrordepaiva/MacroExploit | 0 | 0| 
