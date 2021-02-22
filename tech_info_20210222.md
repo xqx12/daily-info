@@ -47,6 +47,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210222T13:19:00Z | courses, exploits and lots of code, as i am currently preparing for this exam, i will keep updating everthing i learned or coded here | https://github.com/kainesmicheal/OSWE | 1 | 1| 
 | 20210222T13:15:18Z | OMQHUB is my own Roblox Exploiting hub, a pretty simple one but an powerful one. It is in the Version V0.1 so please don%t flame it. | https://github.com/NotMxth/OMQHUB-V0.2 | 0 | 0| 
 | 20210222T13:07:10Z | Null | https://github.com/Deepanjalkumar/Exploit-Development | 0 | 0| 
 | 20210222T13:02:28Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 9 | 4| 
@@ -56,7 +57,6 @@
 | 20210222T12:07:57Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9036 | 1453| 
 | 20210222T12:00:33Z | Simple python exploied that I decide to make. Hope you Enjoy! | https://github.com/ArtaZDX/Exploits-with-python | 0 | 0| 
 | 20210222T11:50:17Z | IoT 固件漏洞复现环境 | https://github.com/firmianay/IoT-vulhub | 185 | 17| 
-| 20210222T11:20:59Z | Null | https://github.com/kiarashjam/Exploiting-Video-Games-to-Test-AV | 0 | 0| 
 
 
 # backdoor on Github 推荐
