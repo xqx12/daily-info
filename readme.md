@@ -47,9 +47,9 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210222T13:48:28Z | Python implementation of %Username% map script% RCE Exploit for Samba 3.0.20 < 3.0.25rc3 (CVE-2007-2447). | https://github.com/Ziemni/CVE-2007-2447-in-Python | 0 | 0| 
 | 20210222T13:46:33Z | Modular penetration testing platform that enables you to write, test, and execute exploit code. | https://github.com/EntySec/HatSploit | 2 | 0| 
 | 20210222T13:45:28Z | CVE-PoC-Exploits! (Work in progress...) | https://github.com/maazsyed/CVE-PoC-Exploits | 1 | 0| 
-| 20210222T13:43:48Z | Python implementation of %Username% map script% RCE Exploit for Samba 3.0.20 < 3.0.25rc3 (CVE-2007-2447). | https://github.com/Ziemni/CVE-2007-2447-in-Python | 0 | 0| 
 | 20210222T13:33:04Z | Null | https://github.com/Deepanjalkumar/Exploit-Development | 0 | 0| 
 | 20210222T13:29:33Z | Repository for new and rebuilt exploit scripts | https://github.com/H4rk3nz0/PenTest-Exploits | 0 | 0| 
 | 20210222T13:19:00Z | courses, exploits and lots of code, as i am currently preparing for this exam, i will keep updating everthing i learned or coded here | https://github.com/kainesmicheal/OSWE | 1 | 1| 
