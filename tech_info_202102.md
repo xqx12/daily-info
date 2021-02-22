@@ -55,7 +55,7 @@
 | 20210220T07:40:30Z | CVE-2021-3129 | Laravel <= v8.4.2 debug mode: Remote code execution (CVE-2021-3129) | https://github.com/zhzyker/CVE-2021-3129 | Ignition before 2.5.2, as used in Laravel and other products, allows unauthenticated remote attackers to execute arbitrary code because of insecure usage of file_get_contents() and file_put_contents(). This is exploitable on sites using debug mode with Laravel before 8.4.2.| 
 | 20210220T02:20:50Z | CVE-2021-21110 | CVE-2021-21110 : Tiki Wiki CMS GroupWare Serverside Template Injection Remote Code Execution Exploit | https://github.com/Gh0st0ne/CVE-2021-21110 | Use after free in safe browsing in Google Chrome prior to 87.0.4280.141 allowed a remote attacker to potentially perform a sandbox escape via a crafted HTML page.| 
 | 20210219T20:39:25Z | CVE-2020-8417 | CSRF Code snippet vulnerability CVE-2020-8417 | https://github.com/Vulnmachines/WordPress_CVE-2020-8417 | The Code Snippets plugin before 2.14.0 for WordPress allows CSRF because of the lack of a Referer check on the import menu.| 
-| 20210219T08:16:14Z | CVE-2021-27328 | Null | https://github.com/SQSamir/CVE-2021-27328 | | 
+| 20210219T08:16:14Z | CVE-2021-27328 | Null | https://github.com/SQSamir/CVE-2021-27328 | Yeastar NeoGate TG400 91.3.0.3 devices are affected by Directory Traversal. An authenticated user can decrypt firmware and can read sensitive information, such as a password or decryption key.| 
 
 
 # klee on Github 推荐
@@ -86,7 +86,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210222T01:35:42Z | All the Lua scripts I developed, including exploit scripts (please only use those for educational purposes) | https://github.com/SkiddDev/Scripts | 0 | 0| 
+| 20210222T01:41:57Z | All the Lua scripts I developed, including exploit scripts (please only use those for educational purposes) | https://github.com/SkiddDev/Scripts | 0 | 0| 
 | 20210222T01:32:44Z | Este projeto foi criado para testar exploit em protocolos smtp, não me responsabilizo pelo uso individuo.  | https://github.com/FabioSmuu/EmailExploit | 0 | 0| 
 | 20210222T01:24:54Z | This repository is for my senior year capstone. For my capstone I am developing a multipurpose web exploitation tool in python3. | https://github.com/nicholas-lueth/Web-Exploitation-Tool-Capstone | 0 | 0| 
 | 20210222T01:07:27Z | Unit tests for blue teams to aid with building detections for some common macOS post exploitation methods. | https://github.com/cedowens/Swift-Attack | 4 | 0| 
