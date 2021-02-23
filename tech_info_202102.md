@@ -116,16 +116,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210222T13:33:58Z | Coverage-guided, in-process fuzzing for the JVM | https://github.com/CodeIntelligenceTesting/jazzer | 182 | 7| 
-| 20210222T13:23:24Z | Take the current implementation and turning a microservice architecture | https://github.com/ccesarrod/FuzzyMicrosrvices | 0 | 0| 
-| 20210222T13:10:57Z | Web application fuzzer | https://github.com/xmendez/wfuzz | 3524 | 883| 
-| 20210222T13:03:20Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 1326 | 290| 
-| 20210222T12:51:19Z | Ein Suchfeld, das während des Tippens bereits Suchergebnisse anzeigt. | https://github.com/phoenixreisen/fuzzy-input | 0 | 0| 
-| 20210222T12:42:15Z | A fuzzer that generates random Go programs | https://github.com/ALTree/microsmith | 7 | 0| 
-| 20210222T12:19:15Z | Dashboard em Shiny para estimativa do risco de incêndio utilizando lógica fuzzy (https://gabinetemilitar.shinyapps.io/fuzzyIncedio/).  | https://github.com/demusis/fuzzyIncendio | 0 | 0| 
-| 20210222T11:55:17Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 3353 | 771| 
-| 20210222T11:52:47Z | JavaScript fuzzer by Oliver Chang et al. | https://github.com/pmatos/js_fuzzer | 0 | 0| 
-| 20210222T11:49:12Z | Towards fuzzing ROS 2 automatically | https://github.com/JnxF/automatic_fuzzing | 0 | 0| 
+| 20210223T00:48:12Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 5961 | 1194| 
+| 20210223T00:40:10Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2270 | 116| 
+| 20210223T00:16:50Z | FuzzBench - Fuzzer benchmarking as a service. | https://github.com/google/fuzzbench | 601 | 101| 
+| 20210223T00:16:20Z | Fuzzy Adventure: A Portfolio | https://github.com/onomatopoetica/fuzzy-adventure | 0 | 0| 
+| 20210223T00:12:17Z | :zap: SSH into instances using fuzzy search. | https://github.com/pmazurek/aws-fuzzy-finder | 118 | 22| 
+| 20210222T23:57:10Z | Null | https://github.com/mrfuzz12/FuzzCheat | 0 | 0| 
+| 20210222T23:55:37Z | REST API Fuzz Testing (RAFT): Source code for self-hosted service developed for Azure, including the API, orchestration engine, and default set of security tools (including MSR%s RESTler), that enables developers to embed security tooling into their CI/CD workflows | https://github.com/microsoft/rest-api-fuzz-testing | 108 | 17| 
+| 20210222T23:51:50Z | Null | https://github.com/ArchiAngels/fuzzy-octo-fiesta | 0 | 0| 
+| 20210222T23:44:19Z | Simple tool to rename source files by matching a list of choices. | https://github.com/pcjco/PyFuzzy-renamer | 0 | 0| 
+| 20210222T23:39:51Z | Null | https://github.com/bitmans91/fuzzy | 0 | 0| 
 
 
 
