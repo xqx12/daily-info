@@ -116,6 +116,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210223T02:42:49Z | demo for mybatis-plus | https://github.com/beichenhpy/fuzzy-search-demo | 0 | 0| 
 | 20210223T02:34:35Z | delete-this-repository | https://github.com/pepelucho71922/fuzzy-waddle | 0 | 0| 
 | 20210223T02:25:32Z | Experimental OS | https://github.com/scopeInfinity/FuzzyOS | 0 | 0| 
 | 20210223T02:13:55Z | collection of helper tools for fuzzing | https://github.com/fuzzah/fuzzaide | 2 | 0| 
@@ -125,7 +126,6 @@
 | 20210223T00:40:10Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2270 | 116| 
 | 20210223T00:16:50Z | FuzzBench - Fuzzer benchmarking as a service. | https://github.com/google/fuzzbench | 601 | 101| 
 | 20210223T00:16:20Z | Fuzzy Adventure: A Portfolio | https://github.com/onomatopoetica/fuzzy-adventure | 0 | 0| 
-| 20210223T00:12:17Z | :zap: SSH into instances using fuzzy search. | https://github.com/pmazurek/aws-fuzzy-finder | 118 | 22| 
 
 
 
