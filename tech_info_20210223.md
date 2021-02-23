@@ -47,6 +47,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210223T13:35:13Z | CTFs and solutions for Linux binary exploitation. | https://github.com/MaherAzzouzi/LinuxExploitation | 5 | 5| 
 | 20210223T13:26:03Z | courses, exploits and lots of code, as i am currently preparing for this exam, i will keep updating everthing i learned or coded here | https://github.com/kainesmicheal/OSWE | 1 | 1| 
 | 20210223T13:23:14Z | xcube is a Python package for generating and exploiting data cubes powered by xarray, dask, and zarr. | https://github.com/dcs4cop/xcube | 70 | 12| 
 | 20210223T13:02:30Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 9 | 4| 
@@ -56,13 +57,13 @@
 | 20210223T12:10:52Z | Exploit Tools | https://github.com/penucuriCode/exploit | 0 | 0| 
 | 20210223T12:09:53Z | Fully Featured Nintendo DS Loader for Ghidra | https://github.com/pedro-javierf/NTRGhidra | 54 | 4| 
 | 20210223T11:36:04Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9041 | 1453| 
-| 20210223T11:18:57Z | Null | https://github.com/r4j0x00/exploits | 409 | 100| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210223T13:19:58Z | PoC minecraft backdoor plugin | https://github.com/mathisvickie/mc-backdoor | 0 | 0| 
+| 20210223T13:32:16Z | PoC minecraft backdoor plugin | https://github.com/mathisvickie/mc-backdoor | 0 | 0| 
+| 20210223T13:31:57Z | a python backdoor with a lot of features | https://github.com/zenux-dev/backdoor | 0 | 0| 
 | 20210223T11:35:02Z | Cross Platform Java RAT targeting Windows with a multitude of features. Built for Penetration Testers. | https://github.com/quantumcored/remote_hacker_probe | 13 | 5| 
 | 20210223T10:45:54Z | 🤖 AI based Backdoor Written for Windows using Telegram-bot as Its Back-ends. | https://github.com/wildonion/katyusha | 1 | 0| 
 | 20210223T09:11:44Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 173 | 26| 
