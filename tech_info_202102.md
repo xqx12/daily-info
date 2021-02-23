@@ -116,6 +116,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210223T01:58:28Z | Scalable fuzzing infrastructure. | https://github.com/google/clusterfuzz | 4437 | 421| 
 | 20210223T01:26:14Z | Null | https://github.com/Zahnen/fuzzbeed | 1 | 0| 
 | 20210223T01:25:06Z | Experimental OS | https://github.com/scopeInfinity/FuzzyOS | 0 | 0| 
 | 20210223T00:48:12Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 5961 | 1194| 
@@ -125,7 +126,6 @@
 | 20210223T00:12:17Z | :zap: SSH into instances using fuzzy search. | https://github.com/pmazurek/aws-fuzzy-finder | 118 | 22| 
 | 20210222T23:57:10Z | Null | https://github.com/mrfuzz12/FuzzCheat | 0 | 0| 
 | 20210222T23:55:37Z | REST API Fuzz Testing (RAFT): Source code for self-hosted service developed for Azure, including the API, orchestration engine, and default set of security tools (including MSR%s RESTler), that enables developers to embed security tooling into their CI/CD workflows | https://github.com/microsoft/rest-api-fuzz-testing | 108 | 17| 
-| 20210222T23:51:50Z | Null | https://github.com/ArchiAngels/fuzzy-octo-fiesta | 0 | 0| 
 
 
 
