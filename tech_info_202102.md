@@ -12,6 +12,7 @@
 | 20210223 | 据 Checkpoint 报告，APT31 在 NSA 方程式 CVE-2017-0005 0day 泄露之前就使用了该漏洞 | https://research.checkpoint.com/2021/the-story-of-jian/| 
 | 20210223 | 攻击者利用 Accellion FTA 文件传输应用的 0Day 窃取数据 | https://www.fireeye.com/blog/threat-research/2021/02/accellion-fta-exploited-for-data-theft-and-extortion.html| 
 | 20210223 | Windows 注册表中 RpcEptMapper 键权限设置不当导致可以实现本地提权 | https://itm4n.github.io/windows-registry-rpceptmapper-exploit/| 
+| 20210223 | 探索IPv6重复地址检测方法。 | https://theinternetprotocolblog.wordpress.com/2021/02/21/ipv6-duplicate-address-detection/| 
 | 20210222 | MilenageTest - 验证 3G/4G/5G 鉴权验证过程是否正确的工具 | https://github.com/jimtangshfx/MilenageTest| 
 | 20210222 | 深入剖析 JavaScript 编译器/解释器引擎 QuickJS | https://ming1016.github.io/2021/02/21/deeply-analyse-quickjs/| 
 | 20210222 | 在 VBA 宏函数中如何将 Shellcode 拷贝到内存中的 RWX 段 | https://adepts.of0x.cc/alternatives-copy-shellcode/| 
@@ -25,7 +26,6 @@
 | 20210222 | 探究Windows IPC内部原理（第二部分）：RPC | https://csandker.io/2021/02/21/Offensive-Windows-IPC-2-RPC.html| 
 | 20210222 | 在线阅读Shell/Bash语言编程代码教程实例网站。 | http://www.codegrepper.com/code-examples/shell| 
 | 20210222 | ManiMed：Hamilton Medical AG – HAMILTON-T1瑞士制造医疗便携呼吸机安全漏洞披露。 | https://insinuator.net/2021/02/manimed-hamilton-medical-ag-hamilton-t1-ventilator-vulnerabilities/| 
-| 20210222 | 探索OPC网路协议安全漏洞分析报告。 | https://okt.to/Th0gLW| 
 
 
 # 安全维基 推荐
@@ -52,15 +52,16 @@
 | 20210223T03:14:48Z | CVE-2021-3156 | Null | https://github.com/oneoy/CVE-2021-3156 | Sudo before 1.9.5p2 has a Heap-based Buffer Overflow, allowing privilege escalation to root via %sudoedit -s% and a command-line argument that ends with a single backslash character.| 
 | 20210222T13:51:58Z | 未知编号 | 2020l4web-app-mockup-DanCvejn created by GitHub Classroom | https://github.com/pslib-cz/2020l4web-app-mockup-DanCvejn | 未查询到CVE信息| 
 | 20210222T01:48:01Z | CVE-2021-26121 | Null | https://github.com/sourceincite/CVE-2021-26121 | 未查询到CVE信息| 
-| 20210222T01:28:35Z | CVE-2021-26700 | RCE in NPM VSCode Extention | https://github.com/jackadamson/CVE-2021-26700 | 未查询到CVE信息| 
+| 20210222T01:28:35Z | CVE-2021-26700 | RCE in NPM VSCode Extention | https://github.com/jackadamson/CVE-2021-26700 | | 
 | 20210221T06:34:19Z | CVE-2021-3129 | CVE-2021-3129-Laravel Debug mode 远程代码执行漏洞 | https://github.com/simonlee-hello/CVE-2021-3129 | Ignition before 2.5.2, as used in Laravel and other products, allows unauthenticated remote attackers to execute arbitrary code because of insecure usage of file_get_contents() and file_put_contents(). This is exploitable on sites using debug mode with Laravel before 8.4.2.| 
 | 20210221T06:00:31Z | CVE-2020-8637 | Null | https://github.com/DXY0411/CVE-2020-8637 | A SQL injection vulnerability in TestLink 1.9.20 allows attackers to execute arbitrary SQL commands in dragdroptreenodes.php via the node_id parameter.| 
-| 20210220T08:11:26Z | CVE-2020-5410 | Spring Cloud Config 目录穿越漏洞(CVE-2020-5410) 复现 | https://github.com/thelostworldFree/SpringCloud-Config-CVE-2020-5410 | Spring Cloud Config, versions 2.2.x prior to 2.2.3, versions 2.1.x prior to 2.1.9, and older unsupported versions allow applications to serve arbitrary configuration files through the spring-cloud-config-server module. A malicious user, or attacker, can send a request using a specially crafted URL that can lead to a directory traversal attack.| 
+| 20210220T08:11:26Z | CVE-2020-5410 | Spring Cloud Config 目录穿越漏洞(CVE-2020-5410) 复现 | https://github.com/thelostworldFree/SpringCloud-Config-CVE-2020-5410 | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210223T14:30:22Z | This is a Native Android project in which  Hydrokleen team can see their day to day task Can see their service location. Can post images and videos and day to day reports update team information Can call, email, message their customers Can provide overall services to the teams AC customers | https://github.com/Mostainahmed/HydroKleen | 0 | 0| 
 | 20210223T14:10:42Z | a leetcode question each day, your salary increment $100 per day | https://github.com/guoxiangCN/kLeetcode | 0 | 0| 
 | 20210223T10:14:55Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 的 Klee One 的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 99 | 3| 
 | 20210223T01:13:31Z | C library to support Map2Check Tool | https://github.com/hbgit/map2check-library | 0 | 0| 
@@ -70,7 +71,6 @@
 | 20210222T15:03:05Z | Whole Program LLVM: wllvm ported to go | https://github.com/SRI-CSL/gllvm | 123 | 21| 
 | 20210222T14:17:07Z | Null | https://github.com/dhanyavittaldas/kleen-tidy-master | 0 | 0| 
 | 20210222T14:02:43Z | Null | https://github.com/annup76779/kleen-tidy | 0 | 0| 
-| 20210222T13:59:26Z | Null | https://github.com/dhanyavittaldas/Kleen-Tidy-Cleaning-Services | 0 | 0| 
 
 
 # s2e on Github 推荐
@@ -86,6 +86,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210223T14:30:29Z | Um conjunto de exploits feitos em Python. | https://github.com/Gabriel712/exploitsboyts | 0 | 0| 
 | 20210223T14:14:23Z | xcube is a Python package for generating and exploiting data cubes powered by xarray, dask, and zarr. | https://github.com/dcs4cop/xcube | 70 | 12| 
 | 20210223T14:14:15Z | forked version of funtuna, a homebrew ps2 app launcher designed to ease the pain of getting a stable exploit for those that have a console uncompatible with FreeMcBoot that doesnt have a modchip | https://github.com/israpps/Funtuna-Fork | 1 | 0| 
 | 20210223T14:02:30Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 9 | 4| 
@@ -95,7 +96,6 @@
 | 20210223T13:35:13Z | CTFs and solutions for Linux binary exploitation. | https://github.com/MaherAzzouzi/LinuxExploitation | 5 | 5| 
 | 20210223T13:26:03Z | courses, exploits and lots of code, as i am currently preparing for this exam, i will keep updating everthing i learned or coded here | https://github.com/kainesmicheal/OSWE | 1 | 1| 
 | 20210223T12:40:03Z | Null | https://github.com/th3ken-dev/TH3KEN-EDITON | 2 | 0| 
-| 20210223T12:16:03Z | Great addition to servers to fix various lag and crash exploits! WIP | https://github.com/AlexProgrammerDE/PistonExploits | 3 | 0| 
 
 
 # backdoor on Github 推荐

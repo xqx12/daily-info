@@ -12,6 +12,7 @@
 | 20210223 | 据 Checkpoint 报告，APT31 在 NSA 方程式 CVE-2017-0005 0day 泄露之前就使用了该漏洞 | https://research.checkpoint.com/2021/the-story-of-jian/| 
 | 20210223 | 攻击者利用 Accellion FTA 文件传输应用的 0Day 窃取数据 | https://www.fireeye.com/blog/threat-research/2021/02/accellion-fta-exploited-for-data-theft-and-extortion.html| 
 | 20210223 | Windows 注册表中 RpcEptMapper 键权限设置不当导致可以实现本地提权 | https://itm4n.github.io/windows-registry-rpceptmapper-exploit/| 
+| 20210223 | 探索IPv6重复地址检测方法。 | https://theinternetprotocolblog.wordpress.com/2021/02/21/ipv6-duplicate-address-detection/| 
 
 
 # 安全维基 推荐
@@ -34,6 +35,7 @@
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210223T14:30:22Z | This is a Native Android project in which  Hydrokleen team can see their day to day task Can see their service location. Can post images and videos and day to day reports update team information Can call, email, message their customers Can provide overall services to the teams AC customers | https://github.com/Mostainahmed/HydroKleen | 0 | 0| 
 | 20210223T14:10:42Z | a leetcode question each day, your salary increment $100 per day | https://github.com/guoxiangCN/kLeetcode | 0 | 0| 
 | 20210223T10:14:55Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 的 Klee One 的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 99 | 3| 
 | 20210223T01:13:31Z | C library to support Map2Check Tool | https://github.com/hbgit/map2check-library | 0 | 0| 
@@ -47,6 +49,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210223T14:30:29Z | Um conjunto de exploits feitos em Python. | https://github.com/Gabriel712/exploitsboyts | 0 | 0| 
 | 20210223T14:14:23Z | xcube is a Python package for generating and exploiting data cubes powered by xarray, dask, and zarr. | https://github.com/dcs4cop/xcube | 70 | 12| 
 | 20210223T14:14:15Z | forked version of funtuna, a homebrew ps2 app launcher designed to ease the pain of getting a stable exploit for those that have a console uncompatible with FreeMcBoot that doesnt have a modchip | https://github.com/israpps/Funtuna-Fork | 1 | 0| 
 | 20210223T14:02:30Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 9 | 4| 
@@ -56,7 +59,6 @@
 | 20210223T13:35:13Z | CTFs and solutions for Linux binary exploitation. | https://github.com/MaherAzzouzi/LinuxExploitation | 5 | 5| 
 | 20210223T13:26:03Z | courses, exploits and lots of code, as i am currently preparing for this exam, i will keep updating everthing i learned or coded here | https://github.com/kainesmicheal/OSWE | 1 | 1| 
 | 20210223T12:40:03Z | Null | https://github.com/th3ken-dev/TH3KEN-EDITON | 2 | 0| 
-| 20210223T12:16:03Z | Great addition to servers to fix various lag and crash exploits! WIP | https://github.com/AlexProgrammerDE/PistonExploits | 3 | 0| 
 
 
 # backdoor on Github 推荐
