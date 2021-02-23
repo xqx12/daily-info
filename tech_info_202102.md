@@ -116,8 +116,8 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210223T02:22:28Z | delete-this-repository | https://github.com/pepelucho71922/fuzzy-waddle | 0 | 0| 
-| 20210223T02:14:24Z | Experimental OS | https://github.com/scopeInfinity/FuzzyOS | 0 | 0| 
+| 20210223T02:34:35Z | delete-this-repository | https://github.com/pepelucho71922/fuzzy-waddle | 0 | 0| 
+| 20210223T02:25:32Z | Experimental OS | https://github.com/scopeInfinity/FuzzyOS | 0 | 0| 
 | 20210223T02:13:55Z | collection of helper tools for fuzzing | https://github.com/fuzzah/fuzzaide | 2 | 0| 
 | 20210223T01:58:28Z | Scalable fuzzing infrastructure. | https://github.com/google/clusterfuzz | 4437 | 421| 
 | 20210223T01:26:14Z | Null | https://github.com/Zahnen/fuzzbeed | 1 | 0| 
