@@ -37,7 +37,7 @@
 | 20210222T13:51:58Z | 未知编号 | 2020l4web-app-mockup-DanCvejn created by GitHub Classroom | https://github.com/pslib-cz/2020l4web-app-mockup-DanCvejn | 未查询到CVE信息| 
 | 20210222T07:17:01Z | CVE-2021-1727 | Null | https://github.com/klinix5/CVE-2021-1727 | 未查询到CVE信息| 
 | 20210222T01:48:01Z | CVE-2021-26121 | Null | https://github.com/sourceincite/CVE-2021-26121 | 未查询到CVE信息| 
-| 20210222T01:28:35Z | CVE-2021-26700 | RCE in NPM VSCode Extention | https://github.com/jackadamson/CVE-2021-26700 | 未查询到CVE信息| 
+| 20210222T01:28:35Z | CVE-2021-26700 | RCE in NPM VSCode Extention | https://github.com/jackadamson/CVE-2021-26700 | | 
 
 
 # klee on Github 推荐
@@ -68,9 +68,9 @@
 | 20210222T21:59:10Z | Linux 2.6.39 Sürümüne Göre Uygun Olan Bir Exploit | https://github.com/cansofficall/Linux2.6.39LocalExploit | 0 | 0| 
 | 20210222T20:27:16Z | Null | https://github.com/DevClancy/BedrockExploit-UCFm | 0 | 0| 
 | 20210222T20:06:28Z | OMQHUB is my own Roblox Exploiting hub, a pretty simple one but an powerful one. It is in the Version V0.1 so please don%t flame it. | https://github.com/NotMxth/OMQHUB | 1 | 0| 
-| 20210222T20:03:34Z | ROPium is a tool that helps you building ROP exploits by finding and chaining gadgets together  | https://github.com/Boyan-MILANOV/ropium | 286 | 38| 
 | 20210222T19:17:17Z | Null | https://github.com/Lyrdum/lol-exploits | 0 | 0| 
 | 20210222T19:03:23Z | Various ASM, C and C++ tools, shellcodes and exploit experiments. | https://github.com/forrest-orr/ExploitDev | 51 | 5| 
+| 20210222T18:06:34Z | Modular penetration testing platform that enables you to write, test, and execute exploit code. | https://github.com/EntySec/HatSploit | 2 | 0| 
 
 
 # backdoor on Github 推荐
