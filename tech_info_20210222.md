@@ -16,6 +16,12 @@
 | 20210222 | IoT 平台恶意软件攻击模型分析 | https://cujo.com/genetics-of-a-modern-iot-attack/| 
 | 20210222 | AntiDebugandMemoryDump - Anti-Debug and Anti-Memory Dump for Android | https://github.com/darvincisec/AntiDebugandMemoryDump| 
 | 20210222 | GadgetProbe - Java 反序列化漏洞 Gadget Probe 工具 | https://github.com/BishopFox/GadgetProbe| 
+| 20210222 | 探究Windows IPC内部原理（第二部分）：RPC | https://csandker.io/2021/02/21/Offensive-Windows-IPC-2-RPC.html| 
+| 20210222 | 在线阅读Shell/Bash语言编程代码教程实例网站。 | http://www.codegrepper.com/code-examples/shell| 
+| 20210222 | ManiMed：Hamilton Medical AG – HAMILTON-T1瑞士制造医疗便携呼吸机安全漏洞披露。 | https://insinuator.net/2021/02/manimed-hamilton-medical-ag-hamilton-t1-ventilator-vulnerabilities/| 
+| 20210222 | 探索OPC网路协议安全漏洞分析报告。 | https://okt.to/Th0gLW| 
+| 20210222 | 轻松掌握实现缓冲区溢出视频教程-第7部分：找到合适的模块 。 | https://www.youtube.com/watch?v=k9D9RuFT02I| 
+| 20210222 | Windows注册表取证分析–跟踪在Windows系统执行每个程序进程活动。 | https://gbhackers.com/windows-registry-analysis-tracking-everything-you-do-on-the-system/| 
 
 
 # 安全维基 推荐
@@ -28,15 +34,21 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20210222T13:51:58Z | 未知编号 | 2020l4web-app-mockup-DanCvejn created by GitHub Classroom | https://github.com/pslib-cz/2020l4web-app-mockup-DanCvejn | | 
+| 20210222T13:51:58Z | 未知编号 | 2020l4web-app-mockup-DanCvejn created by GitHub Classroom | https://github.com/pslib-cz/2020l4web-app-mockup-DanCvejn | 未查询到CVE信息| 
 | 20210222T07:17:01Z | CVE-2021-1727 | Null | https://github.com/klinix5/CVE-2021-1727 | 未查询到CVE信息| 
 | 20210222T01:48:01Z | CVE-2021-26121 | Null | https://github.com/sourceincite/CVE-2021-26121 | 未查询到CVE信息| 
-| 20210222T01:28:35Z | CVE-2021-26700 | RCE in NPM VSCode Extention | https://github.com/jackadamson/CVE-2021-26700 | 未查询到CVE信息| 
+| 20210222T01:28:35Z | CVE-2021-26700 | RCE in NPM VSCode Extention | https://github.com/jackadamson/CVE-2021-26700 | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210222T21:16:43Z | KLEE support llvm-9.0.0 | https://github.com/YizhuoZhai/yzklee | 0 | 0| 
+| 20210222T16:16:18Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1633 | 483| 
+| 20210222T15:45:30Z | RVT is a collection of tools/libraries to support both static and dynamic verification of Rust programs. | https://github.com/project-oak/rust-verification-tools | 108 | 7| 
+| 20210222T15:03:05Z | Whole Program LLVM: wllvm ported to go | https://github.com/SRI-CSL/gllvm | 123 | 21| 
+| 20210222T14:17:07Z | Null | https://github.com/dhanyavittaldas/kleen-tidy-master | 0 | 0| 
+| 20210222T14:02:43Z | Null | https://github.com/annup76779/kleen-tidy | 0 | 0| 
 | 20210222T13:59:26Z | Null | https://github.com/dhanyavittaldas/Kleen-Tidy-Cleaning-Services | 0 | 0| 
 | 20210222T13:42:16Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 的 Klee One 的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 93 | 3| 
 
@@ -49,23 +61,29 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210222T13:59:40Z | OMQHUB is my own Roblox Exploiting hub, a pretty simple one but an powerful one. It is in the Version V0.1 so please don%t flame it. | https://github.com/NotMxth/OMQHUB-V0.2 | 0 | 0| 
-| 20210222T13:59:27Z | CVE-PoC-Exploits! (Work in progress...) | https://github.com/maazsyed/CVE-PoC-Exploits | 1 | 0| 
-| 20210222T13:48:28Z | Python implementation of %Username% map script% RCE Exploit for Samba 3.0.20 < 3.0.25rc3 (CVE-2007-2447). | https://github.com/Ziemni/CVE-2007-2447-in-Python | 0 | 0| 
-| 20210222T13:46:33Z | Modular penetration testing platform that enables you to write, test, and execute exploit code. | https://github.com/EntySec/HatSploit | 2 | 0| 
-| 20210222T13:33:04Z | Null | https://github.com/Deepanjalkumar/Exploit-Development | 0 | 0| 
-| 20210222T13:29:33Z | Repository for new and rebuilt exploit scripts | https://github.com/H4rk3nz0/PenTest-Exploits | 0 | 0| 
-| 20210222T13:19:00Z | courses, exploits and lots of code, as i am currently preparing for this exam, i will keep updating everthing i learned or coded here | https://github.com/kainesmicheal/OSWE | 1 | 1| 
-| 20210222T13:02:28Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 9 | 4| 
-| 20210222T12:33:09Z | Just a temporary website to post my ctf writeups and journey into binary/android exploitation/malware analysis/exploit development | https://github.com/blackbeard666/pwn_exhibit | 3 | 1| 
-| 20210222T12:07:57Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9036 | 1453| 
+| 20210222T23:56:58Z | This bash script will help you to hack remote hosts  | https://github.com/FabioDefilippo/linuxallremote | 6 | 1| 
+| 20210222T23:30:38Z | A post-exploitation framework | https://github.com/enkomio/AlanFramework | 0 | 0| 
+| 20210222T22:23:23Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9036 | 1453| 
+| 20210222T22:10:26Z | Unit tests for blue teams to aid with building detections for some common macOS post exploitation methods. | https://github.com/cedowens/Swift-Attack | 17 | 2| 
+| 20210222T21:59:10Z | Linux 2.6.39 Sürümüne Göre Uygun Olan Bir Exploit | https://github.com/cansofficall/Linux2.6.39LocalExploit | 0 | 0| 
+| 20210222T20:27:16Z | Null | https://github.com/DevClancy/BedrockExploit-UCFm | 0 | 0| 
+| 20210222T20:06:28Z | OMQHUB is my own Roblox Exploiting hub, a pretty simple one but an powerful one. It is in the Version V0.1 so please don%t flame it. | https://github.com/NotMxth/OMQHUB | 1 | 0| 
+| 20210222T20:03:34Z | ROPium is a tool that helps you building ROP exploits by finding and chaining gadgets together  | https://github.com/Boyan-MILANOV/ropium | 286 | 38| 
+| 20210222T19:17:17Z | Null | https://github.com/Lyrdum/lol-exploits | 0 | 0| 
+| 20210222T19:03:23Z | Various ASM, C and C++ tools, shellcodes and exploit experiments. | https://github.com/forrest-orr/ExploitDev | 51 | 5| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210222T13:03:50Z | Pupy is an opensource, cross-platform (Windows, Linux, OSX, Android) remote administration and post-exploitation tool mainly written in python | https://github.com/n1nj4sec/pupy | 6159 | 1583| 
-| 20210222T11:46:04Z | Null | https://github.com/Wiilldd/backdoor | 0 | 0| 
+| 20210222T22:04:59Z | backdoor uiuiuiui | https://github.com/zeru2/backdoor | 0 | 0| 
+| 20210222T21:21:09Z | A simple persistence backdoor for linux | https://github.com/Exploit-lang/backdoor-penguin | 0 | 0| 
+| 20210222T20:56:40Z | Pupy is an opensource, cross-platform (Windows, Linux, OSX, Android) remote administration and post-exploitation tool mainly written in python | https://github.com/n1nj4sec/pupy | 6160 | 1583| 
+| 20210222T20:42:11Z | Python Backdoor Generator | https://github.com/grenoxx/Back-X | 5 | 0| 
+| 20210222T20:01:25Z | Min backdoor | https://github.com/XmXTheDev/backdoor | 0 | 0| 
+| 20210222T19:34:51Z | Cross Platform Java RAT targeting Windows with a multitude of features. Built for Penetration Testers. | https://github.com/quantumcored/remote_hacker_probe | 6 | 3| 
+| 20210222T16:40:28Z | Null | https://github.com/iK4oS/PremiumBackdoor.exe | 0 | 1| 
+| 20210222T15:30:21Z | Null | https://github.com/Wiilldd/backdoor | 0 | 0| 
 | 20210222T05:19:42Z | 🤖 AI based Backdoor Written for Windows using Telegram-bot as Its Back-ends. | https://github.com/wildonion/katyusha | 1 | 0| 
 | 20210222T05:15:27Z | This is just for me ok! | https://github.com/GetRektBoy724/sementara | 1 | 0| 
 
