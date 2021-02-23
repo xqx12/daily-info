@@ -6,6 +6,12 @@
 # 玄武实验室 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20210223 | 有开发者开源的一款 macOS、iOS 日志可视化和日志共享工具 | https://github.com/kean/Pulse| 
+| 20210223 | Farming for Red Teams: Harvesting NetNTLM | https://www.mdsec.co.uk/2021/02/farming-for-red-teams-harvesting-netntlm/| 
+| 20210223 | 去年天府杯 Chrome Full Chain Exploit 代码公开了 | https://bugs.chromium.org/p/chromium/issues/detail?id=1146670| 
+| 20210223 | 据 Checkpoint 报告，APT31 在 NSA 方程式 CVE-2017-0005 0day 泄露之前就使用了该漏洞 | https://research.checkpoint.com/2021/the-story-of-jian/| 
+| 20210223 | 攻击者利用 Accellion FTA 文件传输应用的 0Day 窃取数据 | https://www.fireeye.com/blog/threat-research/2021/02/accellion-fta-exploited-for-data-theft-and-extortion.html| 
+| 20210223 | Windows 注册表中 RpcEptMapper 键权限设置不当导致可以实现本地提权 | https://itm4n.github.io/windows-registry-rpceptmapper-exploit/| 
 | 20210222 | MilenageTest - 验证 3G/4G/5G 鉴权验证过程是否正确的工具 | https://github.com/jimtangshfx/MilenageTest| 
 | 20210222 | 深入剖析 JavaScript 编译器/解释器引擎 QuickJS | https://ming1016.github.io/2021/02/21/deeply-analyse-quickjs/| 
 | 20210222 | 在 VBA 宏函数中如何将 Shellcode 拷贝到内存中的 RWX 段 | https://adepts.of0x.cc/alternatives-copy-shellcode/| 
@@ -20,17 +26,14 @@
 | 20210222 | 在线阅读Shell/Bash语言编程代码教程实例网站。 | http://www.codegrepper.com/code-examples/shell| 
 | 20210222 | ManiMed：Hamilton Medical AG – HAMILTON-T1瑞士制造医疗便携呼吸机安全漏洞披露。 | https://insinuator.net/2021/02/manimed-hamilton-medical-ag-hamilton-t1-ventilator-vulnerabilities/| 
 | 20210222 | 探索OPC网路协议安全漏洞分析报告。 | https://okt.to/Th0gLW| 
-| 20210222 | 轻松掌握实现缓冲区溢出视频教程-第7部分：找到合适的模块 。 | https://www.youtube.com/watch?v=k9D9RuFT02I| 
-| 20210222 | Windows注册表取证分析–跟踪在Windows系统执行每个程序进程活动。 | https://gbhackers.com/windows-registry-analysis-tracking-everything-you-do-on-the-system/| 
-| 20210220 | ISRG 组织与 curl 作者合作，用 rust 重新实现更安全的 curl | https://www.abetterinternet.org/post/memory-safe-curl/| 
-| 20210220 | ZDI-21-171：通过利用ID标签在Adobe Reader中获取信息披露。 | https://www.zerodayinitiative.com/blog/2021/2/17/zdi-21-171-getting-information-disclosure-in-adobe-reader-through-the-id-tag| 
-| 20210220 | Ubuntu安全公告USN-4737-1 ：发现Bind9漏洞（CVE-2020-8625）。 | https://packetstormsecurity.com/files/161456| 
-| 20210220 | Android渗透测试：APK反编译教程（第2部分）。 | https://www.hackingarticles.in/android-penetration-testing-apk-reversing-part-2/| 
 
 
 # 安全维基 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20210223 | CDN 2021 完全攻击指南 （二） | https://www.anquanke.com/post/id/231437| 
+| 20210223 | CDN 2021 完全攻击指南 （一） | https://www.anquanke.com/post/id/227818| 
+| 20210223 | 菜菜鸡的初体验之内网渗透 | https://xz.aliyun.com/t/9190| 
 | 20210222 | 详解反弹shell多维检测技术 | https://www.freebuf.com/articles/network/263684.html| 
 | 20210222 | SecWiki周刊（第364期) | https://www.sec-wiki.com/weekly/364| 
 | 20210221 | 文本对抗综述（一） | https://mp.weixin.qq.com/s/fYANjVp6CUOqri8mfA8vew| 
@@ -38,29 +41,28 @@
 | 20210220 | Nuclei: 基于Go语言开发的开源安全漏洞扫描工具使用初探 | https://mp.weixin.qq.com/s/C_-FRZMqF4ifzlx-ij4iIQ| 
 | 20210220 | 软件安全能力成熟度评估实践 | https://mp.weixin.qq.com/s/_s5m8WxlwnoI4-Ea8SJfCA| 
 | 20210220 | XStream RCE Analysis | https://lightless.me/archives/xstream-rce-analysis.html| 
-| 20210220 | “十四五”时期网络安全的五大转变 | https://mp.weixin.qq.com/s/ONUYz1z4Z-6ueFwTZk8TZA| 
-| 20210220 | 利用angr符号执行去除虚假控制流 | https://mp.weixin.qq.com/s/d8xoR3VdMf6lMfnETaQHZw| 
-| 20210219 | Browser Tracking Using Favicons | https://www.schneier.com/blog/archives/2021/02/browser-tracking-using-favicons.html| 
 
 
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20210223T11:49:39Z | CVE-2021-1727 | Null | https://github.com/klinix5/CVE-2021-1727 | 未查询到CVE信息| 
+| 20210223T04:44:19Z | CVE-2020-0814 | Null | https://github.com/klinix5/CVE-2020-0814 | | 
+| 20210223T03:14:48Z | CVE-2021-3156 | Null | https://github.com/oneoy/CVE-2021-3156 | Sudo before 1.9.5p2 has a Heap-based Buffer Overflow, allowing privilege escalation to root via %sudoedit -s% and a command-line argument that ends with a single backslash character.| 
 | 20210222T13:51:58Z | 未知编号 | 2020l4web-app-mockup-DanCvejn created by GitHub Classroom | https://github.com/pslib-cz/2020l4web-app-mockup-DanCvejn | 未查询到CVE信息| 
-| 20210222T07:17:01Z | CVE-2021-1727 | Null | https://github.com/klinix5/CVE-2021-1727 | 未查询到CVE信息| 
 | 20210222T01:48:01Z | CVE-2021-26121 | Null | https://github.com/sourceincite/CVE-2021-26121 | 未查询到CVE信息| 
 | 20210222T01:28:35Z | CVE-2021-26700 | RCE in NPM VSCode Extention | https://github.com/jackadamson/CVE-2021-26700 | 未查询到CVE信息| 
 | 20210221T06:34:19Z | CVE-2021-3129 | CVE-2021-3129-Laravel Debug mode 远程代码执行漏洞 | https://github.com/simonlee-hello/CVE-2021-3129 | Ignition before 2.5.2, as used in Laravel and other products, allows unauthenticated remote attackers to execute arbitrary code because of insecure usage of file_get_contents() and file_put_contents(). This is exploitable on sites using debug mode with Laravel before 8.4.2.| 
 | 20210221T06:00:31Z | CVE-2020-8637 | Null | https://github.com/DXY0411/CVE-2020-8637 | A SQL injection vulnerability in TestLink 1.9.20 allows attackers to execute arbitrary SQL commands in dragdroptreenodes.php via the node_id parameter.| 
-| 20210221T03:52:12Z | CVE-2020-0814 | Null | https://github.com/klinix5/CVE-2020-0814 | | 
 | 20210220T08:11:26Z | CVE-2020-5410 | Spring Cloud Config 目录穿越漏洞(CVE-2020-5410) 复现 | https://github.com/thelostworldFree/SpringCloud-Config-CVE-2020-5410 | Spring Cloud Config, versions 2.2.x prior to 2.2.3, versions 2.1.x prior to 2.1.9, and older unsupported versions allow applications to serve arbitrary configuration files through the spring-cloud-config-server module. A malicious user, or attacker, can send a request using a specially crafted URL that can lead to a directory traversal attack.| 
-| 20210220T07:40:30Z | CVE-2021-3129 | Laravel <= v8.4.2 debug mode: Remote code execution (CVE-2021-3129) | https://github.com/zhzyker/CVE-2021-3129 | Ignition before 2.5.2, as used in Laravel and other products, allows unauthenticated remote attackers to execute arbitrary code because of insecure usage of file_get_contents() and file_put_contents(). This is exploitable on sites using debug mode with Laravel before 8.4.2.| 
-| 20210220T02:20:50Z | CVE-2021-21110 | CVE-2021-21110 : Tiki Wiki CMS GroupWare Serverside Template Injection Remote Code Execution Exploit | https://github.com/Gh0st0ne/CVE-2021-21110 | Use after free in safe browsing in Google Chrome prior to 87.0.4280.141 allowed a remote attacker to potentially perform a sandbox escape via a crafted HTML page.| 
+| 20210220T07:40:30Z | CVE-2021-3129 | Laravel <= v8.4.2 debug mode: Remote code execution (CVE-2021-3129) | https://github.com/zhzyker/CVE-2021-3129 | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210223T11:57:54Z | a leetcode question each day, your salary increment $100 per day | https://github.com/guoxiangCN/kLeetcode | 0 | 0| 
+| 20210223T10:14:55Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 的 Klee One 的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 99 | 3| 
 | 20210223T01:13:31Z | C library to support Map2Check Tool | https://github.com/hbgit/map2check-library | 0 | 0| 
 | 20210222T21:16:43Z | KLEE support llvm-9.0.0 | https://github.com/YizhuoZhai/yzklee | 0 | 0| 
 | 20210222T16:16:18Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1633 | 483| 
@@ -69,8 +71,6 @@
 | 20210222T14:17:07Z | Null | https://github.com/dhanyavittaldas/kleen-tidy-master | 0 | 0| 
 | 20210222T14:02:43Z | Null | https://github.com/annup76779/kleen-tidy | 0 | 0| 
 | 20210222T13:59:26Z | Null | https://github.com/dhanyavittaldas/Kleen-Tidy-Cleaning-Services | 0 | 0| 
-| 20210222T13:42:16Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 的 Klee One 的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 93 | 3| 
-| 20210221T14:20:45Z | Git Blog | https://github.com/klee30810/klee30810.github.io | 0 | 0| 
 
 
 # s2e on Github 推荐
@@ -86,31 +86,31 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210223T02:41:16Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9037 | 1453| 
-| 20210223T02:30:58Z | Extra goodies for GEF: Open repository for unfiltered contributions to the project. | https://github.com/hugsy/gef-extras | 50 | 24| 
-| 20210223T02:15:27Z | Pillar is a multi channel real time communiaction app exploiting MERN stack%s full potential. The app is purposely crafted with the goal to facilitate efficient group communications | https://github.com/dabaojian1992/Pillar | 0 | 0| 
-| 20210223T02:07:23Z | Roblox Unsigned Execution Through a Vanilla LBI. | https://github.com/OpenGamerTips/Xenon | 1 | 0| 
-| 20210223T02:02:43Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 9 | 4| 
-| 20210223T01:59:57Z | The Polarity Exploit finder uses the google search API to pass through programmatically search if there are exploits available. | https://github.com/polarityio/exploit-finder | 0 | 0| 
-| 20210223T01:42:59Z | This is a chrome extension that removes the psychological exploit that is Reddit Karma | https://github.com/BeckTimothy/reddit-volition | 0 | 0| 
-| 20210223T01:29:48Z | GEF - GDB Enhanced Features for exploit devs & reversers | https://github.com/hugsy/gef | 3471 | 488| 
-| 20210223T01:27:58Z | ROPium is a tool that helps you building ROP exploits by finding and chaining gadgets together  | https://github.com/Boyan-MILANOV/ropium | 287 | 38| 
-| 20210223T00:50:11Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 7 | 4| 
+| 20210223T13:02:30Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 9 | 4| 
+| 20210223T12:40:03Z | Null | https://github.com/th3ken-dev/TH3KEN-EDITON | 2 | 0| 
+| 20210223T12:16:03Z | Great addition to servers to fix various lag and crash exploits! WIP | https://github.com/AlexProgrammerDE/PistonExploits | 3 | 0| 
+| 20210223T12:12:58Z | OMQHUB is my own Roblox Exploiting hub, a pretty simple one but an powerful one. It is in the Version V0.1 so please don%t flame it. | https://github.com/NotMxth/OMQHUB | 1 | 0| 
+| 20210223T12:10:52Z | Exploit Tools | https://github.com/penucuriCode/exploit | 0 | 0| 
+| 20210223T12:09:53Z | Fully Featured Nintendo DS Loader for Ghidra | https://github.com/pedro-javierf/NTRGhidra | 54 | 4| 
+| 20210223T11:36:04Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9041 | 1453| 
+| 20210223T11:18:57Z | Null | https://github.com/r4j0x00/exploits | 409 | 100| 
+| 20210223T11:13:46Z | Null | https://github.com/Username132131231/Exploits-and-dlls | 0 | 0| 
+| 20210223T10:58:30Z | This bash script will help you to hack remote hosts  | https://github.com/FabioDefilippo/linuxallremote | 6 | 1| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210223T13:02:00Z | PoC minecraft backdoor plugin | https://github.com/mathisvickie/mc-backdoor | 0 | 0| 
+| 20210223T11:35:02Z | Cross Platform Java RAT targeting Windows with a multitude of features. Built for Penetration Testers. | https://github.com/quantumcored/remote_hacker_probe | 13 | 5| 
+| 20210223T10:45:54Z | 🤖 AI based Backdoor Written for Windows using Telegram-bot as Its Back-ends. | https://github.com/wildonion/katyusha | 1 | 0| 
+| 20210223T09:11:44Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 173 | 26| 
+| 20210223T07:53:22Z | This repository contains source code for reverse tcp backdoor in python. | https://github.com/programmingconcepts/Reverse-TCP-Backdoor-In-Python | 0 | 0| 
+| 20210223T03:52:15Z | WaNet - Imperceptible Warping-based Backdoor Attack (International Conference on Learning Representations 2021) | https://github.com/VinAIResearch/Warping-based_Backdoor_Attack-release | 1 | 0| 
 | 20210222T22:04:59Z | backdoor uiuiuiui | https://github.com/zeru2/backdoor | 0 | 0| 
 | 20210222T21:21:09Z | A simple persistence backdoor for linux | https://github.com/Exploit-lang/backdoor-penguin | 0 | 0| 
 | 20210222T20:56:40Z | Pupy is an opensource, cross-platform (Windows, Linux, OSX, Android) remote administration and post-exploitation tool mainly written in python | https://github.com/n1nj4sec/pupy | 6160 | 1583| 
 | 20210222T20:42:11Z | Python Backdoor Generator | https://github.com/grenoxx/Back-X | 5 | 0| 
-| 20210222T20:01:25Z | Min backdoor | https://github.com/XmXTheDev/backdoor | 0 | 0| 
-| 20210222T19:34:51Z | Cross Platform Java RAT targeting Windows with a multitude of features. Built for Penetration Testers. | https://github.com/quantumcored/remote_hacker_probe | 6 | 3| 
-| 20210222T16:40:28Z | Null | https://github.com/iK4oS/PremiumBackdoor.exe | 0 | 1| 
-| 20210222T15:30:21Z | Null | https://github.com/Wiilldd/backdoor | 0 | 0| 
-| 20210222T05:19:42Z | 🤖 AI based Backdoor Written for Windows using Telegram-bot as Its Back-ends. | https://github.com/wildonion/katyusha | 1 | 0| 
-| 20210222T05:15:27Z | This is just for me ok! | https://github.com/GetRektBoy724/sementara | 1 | 0| 
 
 
 # fuzz on Github 推荐
