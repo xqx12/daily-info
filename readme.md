@@ -72,16 +72,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210223T02:46:48Z | demo for mybatis-plus | https://github.com/beichenhpy/fuzzy-search-demo | 0 | 0| 
-| 20210223T02:34:35Z | delete-this-repository | https://github.com/pepelucho71922/fuzzy-waddle | 0 | 0| 
-| 20210223T02:25:32Z | Experimental OS | https://github.com/scopeInfinity/FuzzyOS | 0 | 0| 
-| 20210223T02:13:55Z | collection of helper tools for fuzzing | https://github.com/fuzzah/fuzzaide | 2 | 0| 
-| 20210223T01:58:28Z | Scalable fuzzing infrastructure. | https://github.com/google/clusterfuzz | 4437 | 421| 
-| 20210223T01:26:14Z | Null | https://github.com/Zahnen/fuzzbeed | 1 | 0| 
-| 20210223T00:48:12Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 5961 | 1194| 
-| 20210223T00:40:10Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2270 | 116| 
-| 20210223T00:16:50Z | FuzzBench - Fuzzer benchmarking as a service. | https://github.com/google/fuzzbench | 601 | 101| 
-| 20210223T00:16:20Z | Fuzzy Adventure: A Portfolio | https://github.com/onomatopoetica/fuzzy-adventure | 0 | 0| 
+| 20210223T13:00:55Z | Labs & Fuzz | https://github.com/stoicescuvlad15/CTS-Workspace | 0 | 0| 
+| 20210223T12:36:55Z | Null | https://github.com/mayuripark/Fuzzy-Logic-in-Image-Processing- | 0 | 0| 
+| 20210223T12:33:09Z | This repository presents a readme for the setup of fuzzers and other related tools | https://github.com/c0d3nh4ck/Setup-of-Fuzzers-and-Tools | 0 | 0| 
+| 20210223T12:32:08Z | Null | https://github.com/antonioparadiso/Corso_fuzzy_2021 | 0 | 0| 
+| 20210223T11:52:22Z | Fast web fuzzer written in Go | https://github.com/ffuf/ffuf | 3976 | 473| 
+| 20210223T11:51:40Z | Fuzzing resources for JSC32 | https://github.com/pmatos/jsc32-fuzz | 0 | 0| 
+| 20210223T11:28:26Z | Null | https://github.com/MoreNiche/fuzzy-chainsaw | 0 | 0| 
+| 20210223T11:18:49Z | Null | https://github.com/a8v0r6/fuzzy-memory | 0 | 0| 
+| 20210223T11:13:13Z | Null | https://github.com/ethereum/solidity-fuzzing-corpus | 10 | 5| 
+| 20210223T10:26:21Z | Collection of quality safety articles. Awesome articles.   | https://github.com/tom0li/collection-document | 1357 | 433| 
 
 
 

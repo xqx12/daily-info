@@ -52,7 +52,7 @@
 | 20210222T13:51:58Z | 未知编号 | 2020l4web-app-mockup-DanCvejn created by GitHub Classroom | https://github.com/pslib-cz/2020l4web-app-mockup-DanCvejn | 未查询到CVE信息| 
 | 20210222T01:48:01Z | CVE-2021-26121 | Null | https://github.com/sourceincite/CVE-2021-26121 | 未查询到CVE信息| 
 | 20210222T01:28:35Z | CVE-2021-26700 | RCE in NPM VSCode Extention | https://github.com/jackadamson/CVE-2021-26700 | 未查询到CVE信息| 
-| 20210221T06:34:19Z | CVE-2021-3129 | CVE-2021-3129-Laravel Debug mode 远程代码执行漏洞 | https://github.com/simonlee-hello/CVE-2021-3129 | | 
+| 20210221T06:34:19Z | CVE-2021-3129 | CVE-2021-3129-Laravel Debug mode 远程代码执行漏洞 | https://github.com/simonlee-hello/CVE-2021-3129 | Ignition before 2.5.2, as used in Laravel and other products, allows unauthenticated remote attackers to execute arbitrary code because of insecure usage of file_get_contents() and file_put_contents(). This is exploitable on sites using debug mode with Laravel before 8.4.2.| 
 | 20210221T06:00:31Z | CVE-2020-8637 | Null | https://github.com/DXY0411/CVE-2020-8637 | A SQL injection vulnerability in TestLink 1.9.20 allows attackers to execute arbitrary SQL commands in dragdroptreenodes.php via the node_id parameter.| 
 | 20210220T08:11:26Z | CVE-2020-5410 | Spring Cloud Config 目录穿越漏洞(CVE-2020-5410) 复现 | https://github.com/thelostworldFree/SpringCloud-Config-CVE-2020-5410 | Spring Cloud Config, versions 2.2.x prior to 2.2.3, versions 2.1.x prior to 2.1.9, and older unsupported versions allow applications to serve arbitrary configuration files through the spring-cloud-config-server module. A malicious user, or attacker, can send a request using a specially crafted URL that can lead to a directory traversal attack.| 
 | 20210220T07:40:30Z | CVE-2021-3129 | Laravel <= v8.4.2 debug mode: Remote code execution (CVE-2021-3129) | https://github.com/zhzyker/CVE-2021-3129 | Ignition before 2.5.2, as used in Laravel and other products, allows unauthenticated remote attackers to execute arbitrary code because of insecure usage of file_get_contents() and file_put_contents(). This is exploitable on sites using debug mode with Laravel before 8.4.2.| 
@@ -116,16 +116,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210223T02:46:48Z | demo for mybatis-plus | https://github.com/beichenhpy/fuzzy-search-demo | 0 | 0| 
-| 20210223T02:34:35Z | delete-this-repository | https://github.com/pepelucho71922/fuzzy-waddle | 0 | 0| 
-| 20210223T02:25:32Z | Experimental OS | https://github.com/scopeInfinity/FuzzyOS | 0 | 0| 
-| 20210223T02:13:55Z | collection of helper tools for fuzzing | https://github.com/fuzzah/fuzzaide | 2 | 0| 
-| 20210223T01:58:28Z | Scalable fuzzing infrastructure. | https://github.com/google/clusterfuzz | 4437 | 421| 
-| 20210223T01:26:14Z | Null | https://github.com/Zahnen/fuzzbeed | 1 | 0| 
-| 20210223T00:48:12Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 5961 | 1194| 
-| 20210223T00:40:10Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2270 | 116| 
-| 20210223T00:16:50Z | FuzzBench - Fuzzer benchmarking as a service. | https://github.com/google/fuzzbench | 601 | 101| 
-| 20210223T00:16:20Z | Fuzzy Adventure: A Portfolio | https://github.com/onomatopoetica/fuzzy-adventure | 0 | 0| 
+| 20210223T13:00:55Z | Labs & Fuzz | https://github.com/stoicescuvlad15/CTS-Workspace | 0 | 0| 
+| 20210223T12:36:55Z | Null | https://github.com/mayuripark/Fuzzy-Logic-in-Image-Processing- | 0 | 0| 
+| 20210223T12:33:09Z | This repository presents a readme for the setup of fuzzers and other related tools | https://github.com/c0d3nh4ck/Setup-of-Fuzzers-and-Tools | 0 | 0| 
+| 20210223T12:32:08Z | Null | https://github.com/antonioparadiso/Corso_fuzzy_2021 | 0 | 0| 
+| 20210223T11:52:22Z | Fast web fuzzer written in Go | https://github.com/ffuf/ffuf | 3976 | 473| 
+| 20210223T11:51:40Z | Fuzzing resources for JSC32 | https://github.com/pmatos/jsc32-fuzz | 0 | 0| 
+| 20210223T11:28:26Z | Null | https://github.com/MoreNiche/fuzzy-chainsaw | 0 | 0| 
+| 20210223T11:18:49Z | Null | https://github.com/a8v0r6/fuzzy-memory | 0 | 0| 
+| 20210223T11:13:13Z | Null | https://github.com/ethereum/solidity-fuzzing-corpus | 10 | 5| 
+| 20210223T10:26:21Z | Collection of quality safety articles. Awesome articles.   | https://github.com/tom0li/collection-document | 1357 | 433| 
 
 
 
