@@ -18,6 +18,8 @@
 | 20210223 | 美国航空航天局（NASA）首次采用Linux操作系统用于登陆火星Ingenuity直升机无人机上。 | https://in.pcmag.com/drones/141086/linux-is-now-on-mars-thanks-to-nasas-perseverance-rover| 
 | 20210223 | 使用SSH代理转发配置与故障排查。 | https://docs.github.com/en/developers/overview/using-ssh-agent-forwarding| 
 | 20210223 | Firefox 86 将支持 “Total Cookie Protection”，限制通过跨站点 Cookie 共享追踪用户 | https://blog.mozilla.org/security/2021/02/23/total-cookie-protection/| 
+| 20210223 | DA14531芯片固件逆向系列（1）-固件加载和逆向分析 | https://www.cnblogs.com/hac425/p/14437694.html| 
+| 20210223 | iOS 内核堆风水布局解读 | https://mp.weixin.qq.com/s/iv55u9VC7R1rZmhbfTMcRA| 
 
 
 # 安全维基 推荐
@@ -54,7 +56,6 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210223T23:55:39Z | Pwntools Blog | https://github.com/Gallopsled/gallopsled.github.io | 0 | 0| 
 | 20210223T23:36:47Z | This is a chrome extension that removes the psychological exploit that is Reddit Karma | https://github.com/BeckTimothy/reddit-volition | 0 | 0| 
 | 20210223T23:29:41Z | Null | https://github.com/I7Z3R0/Exploit | 0 | 0| 
 | 20210223T23:28:22Z | Thi powershell script has got to run in remote windows host, even for pivoting | https://github.com/FabioDefilippo/winallenum | 2 | 1| 
@@ -64,6 +65,7 @@
 | 20210223T23:06:34Z | FudgeC2 - a command and control framework designed for team collaboration and post-exploitation activities. | https://github.com/Ziconius/FudgeC2 | 190 | 44| 
 | 20210223T22:58:05Z | A post-exploitation framework | https://github.com/enkomio/AlanFramework | 0 | 0| 
 | 20210223T22:57:24Z | Root shell exploit for several Xiaomi routers: 4A Gigabit, 4A 100M, 4, 4C, 3Gv2, 4Q, miWifi 3C... | https://github.com/acecilia/OpenWRTInvasion | 349 | 73| 
+| 20210223T22:34:53Z | Unit tests for blue teams to aid with building detections for some common macOS post exploitation methods. | https://github.com/cedowens/Swift-Attack | 18 | 2| 
 
 
 # backdoor on Github 推荐

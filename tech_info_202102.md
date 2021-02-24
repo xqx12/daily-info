@@ -18,14 +18,14 @@
 | 20210223 | 美国航空航天局（NASA）首次采用Linux操作系统用于登陆火星Ingenuity直升机无人机上。 | https://in.pcmag.com/drones/141086/linux-is-now-on-mars-thanks-to-nasas-perseverance-rover| 
 | 20210223 | 使用SSH代理转发配置与故障排查。 | https://docs.github.com/en/developers/overview/using-ssh-agent-forwarding| 
 | 20210223 | Firefox 86 将支持 “Total Cookie Protection”，限制通过跨站点 Cookie 共享追踪用户 | https://blog.mozilla.org/security/2021/02/23/total-cookie-protection/| 
+| 20210223 | DA14531芯片固件逆向系列（1）-固件加载和逆向分析 | https://www.cnblogs.com/hac425/p/14437694.html| 
+| 20210223 | iOS 内核堆风水布局解读 | https://mp.weixin.qq.com/s/iv55u9VC7R1rZmhbfTMcRA| 
 | 20210222 | MilenageTest - 验证 3G/4G/5G 鉴权验证过程是否正确的工具 | https://github.com/jimtangshfx/MilenageTest| 
 | 20210222 | 深入剖析 JavaScript 编译器/解释器引擎 QuickJS | https://ming1016.github.io/2021/02/21/deeply-analyse-quickjs/| 
 | 20210222 | 在 VBA 宏函数中如何将 Shellcode 拷贝到内存中的 RWX 段 | https://adepts.of0x.cc/alternatives-copy-shellcode/| 
 | 20210222 | Bluepill - Type-2 Intel Hypervisor For Windows 10 Systems | https://githacks.org/_xeroxz/bluepill| 
 | 20210222 | OSPREY: Recovery of Variable and Data Structure via Probabilistic Analysis for Stripped Binary | https://www.cs.purdue.edu/homes/zhan3299/res/SP21a.pdf| 
 | 20210222 | 有用户发现，Brave 浏览器会通过 DNS 请求泄露用户的所有 Tor、Onion 请求 | https://ramble.pw/f/privacy/2387| 
-| 20210222 | 基于浏览器网站图标（favicon）缓存实现对用户的跟踪 | https://www.cs.uic.edu/~polakis/papers/solomos-ndss21.pdf| 
-| 20210222 | IoT 平台恶意软件攻击模型分析 | https://cujo.com/genetics-of-a-modern-iot-attack/| 
 
 
 # 安全维基 推荐
@@ -86,6 +86,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210224T02:47:25Z | Pwntools Blog | https://github.com/Gallopsled/gallopsled.github.io | 0 | 0| 
 | 20210224T02:41:46Z | All the Lua scripts I developed, including exploit scripts (please only use those for educational purposes) | https://github.com/SkiddDev/Scripts | 0 | 0| 
 | 20210224T02:27:56Z | Waterball%s Uber. A Uber-like (Car-Hailing APP) microservice implementation using Java Spring Boot, exploiting the design methodologies: clean architecture / domain driven design / TDD. | https://github.com/Johnny850807/Waber | 1 | 1| 
 | 20210224T02:22:49Z | CTF framework and exploit development library | https://github.com/Gallopsled/pwntools | 7562 | 1359| 
@@ -95,7 +96,6 @@
 | 20210224T01:10:35Z | Fix exploits on anarchy minecraft servers | https://github.com/moom0o/AnarchyExploitFixes | 14 | 7| 
 | 20210224T01:06:45Z | This is a collection of all my console exploits I%ve made for online games. | https://github.com/BigBoyKlem/Online-Game-Exploits | 0 | 0| 
 | 20210224T00:57:54Z | This bash script will help you to hack remote hosts  | https://github.com/FabioDefilippo/linuxallremote | 6 | 1| 
-| 20210224T00:50:11Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 7 | 4| 
 
 
 # backdoor on Github 推荐
