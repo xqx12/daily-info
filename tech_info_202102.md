@@ -46,16 +46,16 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20210224T13:07:07Z | CVE-2021-21972 | VMSA-2021-0002 | https://github.com/ThanHuuTuan/CVE-2021-21972 | 未查询到CVE信息| 
+| 20210224T13:29:22Z | CVE-2021-21972 | Null | https://github.com/yaunsky/CVE-2021-21972 | 未查询到CVE信息| 
+| 20210224T13:24:48Z | CVE-2020-17057 | Null | https://github.com/lsw29475/CVE-2020-17057 | Windows Win32k Elevation of Privilege Vulnerability| 
+| 20210224T13:18:27Z | CVE-2020-0022 | Null | https://github.com/lsw29475/CVE-2020-0022 | In reassemble_and_dispatch of packet_fragmenter.cc, there is possible out of bounds write due to an incorrect bounds calculation. This could lead to remote code execution over Bluetooth with no additional execution privileges needed. User interaction is not needed for exploitation.Product: AndroidVersions: Android-8.0 Android-8.1 Android-9 Android-10Android ID: A-143894715| 
+| 20210224T13:09:47Z | CVE-2021-21972 | VMSA-2021-0002 | https://github.com/ThanHuuTuan/CVE-2021-21972 | 未查询到CVE信息| 
 | 20210224T13:00:19Z | CVE-2021-21972 | CVE-2021-21972 | https://github.com/NS-Sp4ce/CVE-2021-21972 | 未查询到CVE信息| 
 | 20210224T12:55:59Z | CVE-2021-21972 | Null | https://github.com/QmF0c3UK/CVE-2021-21972-vCenter-6.5-7.0-RCE-POC | 未查询到CVE信息| 
 | 20210224T12:43:56Z | CVE-2021-26904 | LMA ISIDA Retriever 5.2 allows SQL Injection | https://github.com/Security-AVS/-CVE-2021-26904 | 未查询到CVE信息| 
 | 20210224T12:40:09Z | CVE-2021-26903 | ISIDA RETRIEVER v5.2" Reflected XSS | https://github.com/Security-AVS/CVE-2021-26903 | 未查询到CVE信息| 
 | 20210224T10:57:22Z | CVE-2021-3327 | CVE-2021-3327 | https://github.com/IthacaLabs/CVE-2021-3327 | 未查询到CVE信息| 
 | 20210224T09:04:01Z | CVE-2021-1727 | Null | https://github.com/klinix5/CVE-2021-1727 | 未查询到CVE信息| 
-| 20210224T00:17:45Z | CVE-2020-0082 | This repo contains a proof-of-concept for 📱🚀👑⚡, a deserialization vuln for local escalation of privilege to system_server in Android 10. This proof-of-concept only activates a privileged intent. | https://github.com/0x742/CVE-2020-0082-ExternalVibration | In ExternalVibration of ExternalVibration.java, there is a possible activation of an arbitrary intent due to unsafe deserialization. This could lead to local escalation of privilege to system_server with no additional execution privileges needed. User interaction is not needed for exploitation.Product: AndroidVersions: Android-10Android ID: A-140417434| 
-| 20210223T04:44:19Z | CVE-2020-0814 | Null | https://github.com/klinix5/CVE-2020-0814 | An elevation of privilege vulnerability exists in Windows Installer because of the way Windows Installer handles certain filesystem operations.To exploit the vulnerability, an attacker would require unprivileged execution on the victim system, aka %Windows Installer Elevation of Privilege Vulnerability%. This CVE ID is unique from CVE-2020-0779, CVE-2020-0798, CVE-2020-0842, CVE-2020-0843.| 
-| 20210223T03:14:48Z | CVE-2021-3156 | Null | https://github.com/oneoy/CVE-2021-3156 | Sudo before 1.9.5p2 has a Heap-based Buffer Overflow, allowing privilege escalation to root via %sudoedit -s% and a command-line argument that ends with a single backslash character.| 
 
 
 # klee on Github 推荐
@@ -86,6 +86,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210224T13:11:05Z | WhatsApp Crash Exploit for Android by davizinmaker - TDM TEAM | https://github.com/davizinmaker/whatsapp-crash-exploit | 0 | 0| 
 | 20210224T13:07:47Z | The best tool for finding one gadget RCE in libc.so.6 | https://github.com/david942j/one_gadget | 1290 | 112| 
 | 20210224T13:05:36Z | Repository for new and rebuilt exploit scripts | https://github.com/H4rk3nz0/PenTest-Exploits | 1 | 0| 
 | 20210224T13:04:54Z | Null | https://github.com/Manoj983/protostar_exploits | 0 | 0| 
@@ -95,13 +96,14 @@
 | 20210224T12:49:47Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9047 | 1455| 
 | 20210224T12:28:42Z | CVE-PoC-Exploits! (Work in progress...) | https://github.com/maazsyed/CVE-PoC-Exploits | 2 | 0| 
 | 20210224T12:28:34Z | Just a temporary website to post my ctf writeups and journey into binary/android exploitation/malware analysis/exploit development | https://github.com/blackbeard666/pwn_exhibit | 3 | 1| 
-| 20210224T12:28:25Z | Null | https://github.com/DevClancy/RakNet_Exploit_UCFr | 0 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210224T13:07:31Z | Python Backdoor Generator | https://github.com/grenoxx/Back-X | 5 | 1| 
+| 20210224T13:28:07Z | Null | https://github.com/Bubba3370/Backdoor.exe-Source | 0 | 0| 
+| 20210224T13:16:51Z | Python Backdoor Generator | https://github.com/grenoxx/Back-X | 5 | 1| 
+| 20210224T13:09:51Z | Null | https://github.com/iK4oS/backdoor.exe | 1 | 3| 
 | 20210224T12:21:58Z | Cross Platform Java Remote Access And Post Exploitation Framework targeting Windows with a multitude of features. Built for Penetration Testers. | https://github.com/quantumcored/remote_hacker_probe | 18 | 5| 
 | 20210224T11:18:09Z | Full-featured C2 framework which silently persists on webserver with a single-line PHP backdoor | https://github.com/nil0x42/phpsploit | 1164 | 332| 
 | 20210224T11:17:34Z | Thefatrat a massive exploiting tool : Easy tool to generate backdoor and easy tool to post exploitation attack like browser attack and etc . This tool compiles a malware with popular payload and then the compiled malware can be execute on windows, android, mac . The malware that created with this tool also have an ability to bypass most AV software protection . | https://github.com/Screetsec/TheFatRat | 4970 | 1641| 
@@ -109,23 +111,21 @@
 | 20210224T09:42:40Z | Null | https://github.com/EjHvorSerDuVildUdJim/backdoor | 0 | 0| 
 | 20210224T08:55:18Z | Ro3b - Advance Banking HTTP Botnet  | https://github.com/mathio3/Ro3b-HTTP-botnet | 12 | 4| 
 | 20210224T06:31:36Z | A backdoor with multiple features for ethical hacking. | https://github.com/CMPLXapps/SpiderBackdoor | 0 | 0| 
-| 20210224T04:08:04Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 174 | 26| 
-| 20210223T20:48:39Z | TrojanZoo provides a universal pytorch platform to conduct security researches (especially backdoor attacks/defenses) of image classification in deep learning. | https://github.com/ain-soph/trojanzoo | 43 | 8| 
 
 
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210224T01:16:17Z | delete-this-repository | https://github.com/pepelucho71922/fuzzy-waddle | 0 | 0| 
-| 20210224T00:57:47Z | Null | https://github.com/vasumv/bonsai-fuzzing | 7 | 0| 
-| 20210224T00:57:14Z | :zap: SSH into instances using fuzzy search. | https://github.com/pmazurek/aws-fuzzy-finder | 118 | 22| 
-| 20210224T00:33:06Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 5965 | 1195| 
-| 20210224T00:28:38Z | This tool uses fzf(1)-like fuzzy-finder to do partial or fuzzy search of Kubernetes resources. Instead of specifying full resource names to kubectl commands, you can choose them from an interactive list that you can filter by typing a few characters. | https://github.com/d-kuro/kubectl-fuzzy | 80 | 9| 
-| 20210224T00:26:37Z | Null | https://github.com/zongyf02/Fuzzy-String-Search | 0 | 0| 
-| 20210224T00:18:04Z | Null | https://github.com/miguellrodrigues/simple_fuzzy | 0 | 0| 
-| 20210224T00:13:03Z | Null | https://github.com/Zahnen/fuzzbeed | 1 | 0| 
-| 20210224T00:06:44Z | Experimental OS | https://github.com/scopeInfinity/FuzzyOS | 0 | 0| 
-| 20210223T23:39:44Z | Combination of the Little Gem 9V Amp and 1 Knob Fuzz Guitar Pedal | https://github.com/Hexadecimator/LittleGem_1KnobFuzz_Combo | 0 | 0| 
+| 20210224T13:13:37Z | Coverage-guided, in-process fuzzing for the JVM | https://github.com/CodeIntelligenceTesting/jazzer | 184 | 7| 
+| 20210224T13:00:56Z | Null | https://github.com/miguellrodrigues/simple_fuzzy | 0 | 0| 
+| 20210224T12:57:23Z | Null | https://github.com/ethereum/solidity-fuzzing-corpus | 10 | 4| 
+| 20210224T11:46:33Z | Fuzzing with the generated argument | https://github.com/zodf0055980/Yuan-fuzz | 12 | 0| 
+| 20210224T11:36:29Z | Null | https://github.com/fuzzy/fuzzy | 0 | 0| 
+| 20210224T11:02:56Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 1329 | 292| 
+| 20210224T10:58:49Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 5966 | 1197| 
+| 20210224T10:46:43Z | This tool uses fzf(1)-like fuzzy-finder to do partial or fuzzy search of Kubernetes resources. Instead of specifying full resource names to kubectl commands, you can choose them from an interactive list that you can filter by typing a few characters. | https://github.com/d-kuro/kubectl-fuzzy | 80 | 9| 
+| 20210224T10:10:12Z | Collection of quality safety articles. Awesome articles.   | https://github.com/tom0li/collection-document | 1359 | 433| 
+| 20210224T10:00:25Z | Takagi–Sugeno–Kang (TSK) neuro fuzzy models and Control Systems using Fuzzy Logic Controller (FLC). | https://github.com/NickKaparinos/Fuzzy-Systems-Assignments-TSK-FLC | 0 | 0| 
 
 
 
