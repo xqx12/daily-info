@@ -31,46 +31,46 @@
 # 安全维基 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20210224 | f8x: 红/蓝队环境自动化部署工具 | https://github.com/ffffffff0x/f8x| 
+| 20210224 | JAVA安全基础（二）-- 反射机制 | https://xz.aliyun.com/t/9117| 
+| 20210224 | DA14531芯片固件逆向系列（2）- 操作系统底层机制分析 | https://xz.aliyun.com/t/9186| 
+| 20210224 | 红蓝对抗之邮件伪造 | https://mp.weixin.qq.com/s/tOOBZ1aC6SsjslCM70WKBQ| 
+| 20210224 | 钓鱼基础设施的应用分析 | https://www.anquanke.com/post/id/231444| 
+| 20210224 | Angr源码阅读笔记01 | https://www.anquanke.com/post/id/231460| 
+| 20210224 | 如何隐蔽你的C2 | https://www.anquanke.com/post/id/231448| 
+| 20210224 | 恶意代码检测的本质性思考 | https://zhuanlan.zhihu.com/p/352004681| 
+| 20210224 | A Cyber Threat Intelligence Self-Study Plan: Part 1 | https://medium.com/katies-five-cents/a-cyber-threat-intelligence-self-study-plan-part-1-968b5a8daf9a| 
 | 20210223 | CDN 2021 完全攻击指南 （二） | https://www.anquanke.com/post/id/231437| 
-| 20210223 | CDN 2021 完全攻击指南 （一） | https://www.anquanke.com/post/id/227818| 
-| 20210223 | 菜菜鸡的初体验之内网渗透 | https://xz.aliyun.com/t/9190| 
-| 20210223 | NDSS 2021 参会小记—2月22日论文报告 | https://mp.weixin.qq.com/s/LI49ioKYMksguQMqKH1Rcw| 
-| 20210223 | 漏洞管理的“新药” | https://mp.weixin.qq.com/s/5Y-3r1KuJgCbNrWUGoKq0w| 
-| 20210223 | NDSS 2021 参会小记—2月22日论文报告 | /news/28892| 
-| 20210222 | 详解反弹shell多维检测技术 | https://www.freebuf.com/articles/network/263684.html| 
-| 20210222 | SecWiki周刊（第364期) | https://www.sec-wiki.com/weekly/364| 
-| 20210221 | 文本对抗综述（一） | https://mp.weixin.qq.com/s/fYANjVp6CUOqri8mfA8vew| 
-| 20210220 | 网络空间搜索引擎研究 | https://mp.weixin.qq.com/s/ZIa1myq4xoBlAHvdR0ipTw| 
 
 
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20210224T13:00:19Z | CVE-2021-21972 | CVE-2021-21972 | https://github.com/NS-Sp4ce/CVE-2021-21972 | 未查询到CVE信息| 
+| 20210224T12:55:59Z | CVE-2021-21972 | Null | https://github.com/QmF0c3UK/CVE-2021-21972-vCenter-6.5-7.0-RCE-POC | 未查询到CVE信息| 
+| 20210224T12:43:56Z | CVE-2021-26904 | LMA ISIDA Retriever 5.2 allows SQL Injection | https://github.com/Security-AVS/-CVE-2021-26904 | 未查询到CVE信息| 
+| 20210224T12:40:09Z | CVE-2021-26903 | ISIDA RETRIEVER v5.2" Reflected XSS | https://github.com/Security-AVS/CVE-2021-26903 | 未查询到CVE信息| 
+| 20210224T10:57:22Z | CVE-2021-3327 | CVE-2021-3327 | https://github.com/IthacaLabs/CVE-2021-3327 | 未查询到CVE信息| 
+| 20210224T09:04:01Z | CVE-2021-1727 | Null | https://github.com/klinix5/CVE-2021-1727 | 未查询到CVE信息| 
 | 20210224T00:17:45Z | CVE-2020-0082 | This repo contains a proof-of-concept for 📱🚀👑⚡, a deserialization vuln for local escalation of privilege to system_server in Android 10. This proof-of-concept only activates a privileged intent. | https://github.com/0x742/CVE-2020-0082-ExternalVibration | In ExternalVibration of ExternalVibration.java, there is a possible activation of an arbitrary intent due to unsafe deserialization. This could lead to local escalation of privilege to system_server with no additional execution privileges needed. User interaction is not needed for exploitation.Product: AndroidVersions: Android-10Android ID: A-140417434| 
-| 20210223T11:49:39Z | CVE-2021-1727 | Null | https://github.com/klinix5/CVE-2021-1727 | 未查询到CVE信息| 
 | 20210223T04:44:19Z | CVE-2020-0814 | Null | https://github.com/klinix5/CVE-2020-0814 | An elevation of privilege vulnerability exists in Windows Installer because of the way Windows Installer handles certain filesystem operations.To exploit the vulnerability, an attacker would require unprivileged execution on the victim system, aka %Windows Installer Elevation of Privilege Vulnerability%. This CVE ID is unique from CVE-2020-0779, CVE-2020-0798, CVE-2020-0842, CVE-2020-0843.| 
 | 20210223T03:14:48Z | CVE-2021-3156 | Null | https://github.com/oneoy/CVE-2021-3156 | Sudo before 1.9.5p2 has a Heap-based Buffer Overflow, allowing privilege escalation to root via %sudoedit -s% and a command-line argument that ends with a single backslash character.| 
 | 20210222T13:51:58Z | 未知编号 | 2020l4web-app-mockup-DanCvejn created by GitHub Classroom | https://github.com/pslib-cz/2020l4web-app-mockup-DanCvejn | 未查询到CVE信息| 
-| 20210222T01:48:01Z | CVE-2021-26121 | Null | https://github.com/sourceincite/CVE-2021-26121 | 未查询到CVE信息| 
-| 20210222T01:28:35Z | CVE-2021-26700 | RCE in NPM VSCode Extention | https://github.com/jackadamson/CVE-2021-26700 | 未查询到CVE信息| 
-| 20210221T06:34:19Z | CVE-2021-3129 | CVE-2021-3129-Laravel Debug mode 远程代码执行漏洞 | https://github.com/simonlee-hello/CVE-2021-3129 | Ignition before 2.5.2, as used in Laravel and other products, allows unauthenticated remote attackers to execute arbitrary code because of insecure usage of file_get_contents() and file_put_contents(). This is exploitable on sites using debug mode with Laravel before 8.4.2.| 
-| 20210221T06:00:31Z | CVE-2020-8637 | Null | https://github.com/DXY0411/CVE-2020-8637 | A SQL injection vulnerability in TestLink 1.9.20 allows attackers to execute arbitrary SQL commands in dragdroptreenodes.php via the node_id parameter.| 
-| 20210220T08:11:26Z | CVE-2020-5410 | Spring Cloud Config 目录穿越漏洞(CVE-2020-5410) 复现 | https://github.com/thelostworldFree/SpringCloud-Config-CVE-2020-5410 | Spring Cloud Config, versions 2.2.x prior to 2.2.3, versions 2.1.x prior to 2.1.9, and older unsupported versions allow applications to serve arbitrary configuration files through the spring-cloud-config-server module. A malicious user, or attacker, can send a request using a specially crafted URL that can lead to a directory traversal attack.| 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210224T12:01:38Z | RVT is a collection of tools/libraries to support both static and dynamic verification of Rust programs. | https://github.com/project-oak/rust-verification-tools | 108 | 7| 
+| 20210224T10:01:07Z | a leetcode question each day, your salary increment $100 per day | https://github.com/guoxiangCN/kLeetcode | 0 | 0| 
+| 20210224T09:27:44Z | Safe KLEE API for Rust | https://github.com/markhakansson/klee-rs | 0 | 0| 
+| 20210224T05:56:00Z | Create CFGs and compute complexity metrics for Python, C++, and Java code. | https://github.com/hmc-alpaqa/metrinome | 6 | 0| 
 | 20210224T02:24:01Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 的 Klee One 的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 100 | 3| 
 | 20210224T02:14:13Z | Null | https://github.com/c-kleerun/c-kleerun.github.io | 0 | 0| 
-| 20210224T02:03:13Z | a leetcode question each day, your salary increment $100 per day | https://github.com/guoxiangCN/kLeetcode | 0 | 0| 
 | 20210223T14:39:58Z | This is a Native Android project in which  Hydrokleen team can see their day to day task Can see their service location. Can post images and videos and day to day reports update team information Can call, email, message their customers Can provide overall services to the teams AC customers | https://github.com/Mostainahmed/HydroKleen | 0 | 0| 
 | 20210223T01:13:31Z | C library to support Map2Check Tool | https://github.com/hbgit/map2check-library | 0 | 0| 
 | 20210222T21:16:43Z | KLEE support llvm-9.0.0 | https://github.com/YizhuoZhai/yzklee | 0 | 0| 
 | 20210222T16:16:18Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1633 | 483| 
-| 20210222T15:45:30Z | RVT is a collection of tools/libraries to support both static and dynamic verification of Rust programs. | https://github.com/project-oak/rust-verification-tools | 108 | 7| 
-| 20210222T15:03:05Z | Whole Program LLVM: wllvm ported to go | https://github.com/SRI-CSL/gllvm | 123 | 21| 
-| 20210222T14:17:07Z | Null | https://github.com/dhanyavittaldas/kleen-tidy-master | 0 | 0| 
 
 
 # s2e on Github 推荐
@@ -86,31 +86,31 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210224T03:14:56Z | Public repo for WIP code written on the weekly PS4 kernel exploit streams. | https://github.com/dayzerosec/PS4-Kernel-Exploit-Stream | 1 | 1| 
-| 20210224T03:02:36Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 9 | 4| 
-| 20210224T02:55:00Z | Pwntools Blog | https://github.com/Gallopsled/gallopsled.github.io | 0 | 0| 
-| 20210224T02:53:30Z | All the Lua scripts I developed, including exploit scripts (please only use those for educational purposes) | https://github.com/SkiddDev/Scripts | 0 | 0| 
-| 20210224T02:27:56Z | Waterball%s Uber. A Uber-like (Car-Hailing APP) microservice implementation using Java Spring Boot, exploiting the design methodologies: clean architecture / domain driven design / TDD. | https://github.com/Johnny850807/Waber | 1 | 1| 
-| 20210224T02:22:49Z | CTF framework and exploit development library | https://github.com/Gallopsled/pwntools | 7562 | 1359| 
-| 20210224T01:42:37Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9045 | 1455| 
-| 20210224T01:10:35Z | Fix exploits on anarchy minecraft servers | https://github.com/moom0o/AnarchyExploitFixes | 14 | 7| 
-| 20210224T01:06:45Z | This is a collection of all my console exploits I%ve made for online games. | https://github.com/BigBoyKlem/Online-Game-Exploits | 0 | 0| 
-| 20210224T00:57:54Z | This bash script will help you to hack remote hosts  | https://github.com/FabioDefilippo/linuxallremote | 6 | 1| 
+| 20210224T12:57:03Z | A Tool that Finds, Enumerates, and Exploits Reolink Cameras. | https://github.com/spicesouls/reosploit | 14 | 5| 
+| 20210224T12:51:25Z | Null | https://github.com/lsw29475/exploit | 0 | 0| 
+| 20210224T12:49:47Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9047 | 1455| 
+| 20210224T12:28:42Z | CVE-PoC-Exploits! (Work in progress...) | https://github.com/maazsyed/CVE-PoC-Exploits | 2 | 0| 
+| 20210224T12:28:34Z | Just a temporary website to post my ctf writeups and journey into binary/android exploitation/malware analysis/exploit development | https://github.com/blackbeard666/pwn_exhibit | 3 | 1| 
+| 20210224T12:28:25Z | Null | https://github.com/DevClancy/RakNet_Exploit_UCFr | 0 | 0| 
+| 20210224T12:21:58Z | Cross Platform Java Remote Access And Post Exploitation Framework targeting Windows with a multitude of features. Built for Penetration Testers. | https://github.com/quantumcored/remote_hacker_probe | 18 | 5| 
+| 20210224T12:17:32Z | This is an exploit script written in ruby, which helps to exploit content injection vulnerability in Wordpress version 4.7 | https://github.com/Harsith-Panda/Wordpress-4.7-ci | 0 | 0| 
+| 20210224T12:13:04Z | Repository for new and rebuilt exploit scripts | https://github.com/H4rk3nz0/PenTest-Exploits | 1 | 0| 
+| 20210224T12:02:27Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 9 | 4| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210224T02:45:17Z | Python Backdoor Generator | https://github.com/grenoxx/Back-X | 5 | 1| 
-| 20210224T00:14:45Z | Ro3b - Advance Banking HTTP Botnet  | https://github.com/mathio3/Ro3b-HTTP-botnet | 12 | 4| 
+| 20210224T13:02:04Z | Python Backdoor Generator | https://github.com/grenoxx/Back-X | 5 | 1| 
+| 20210224T12:21:58Z | Cross Platform Java Remote Access And Post Exploitation Framework targeting Windows with a multitude of features. Built for Penetration Testers. | https://github.com/quantumcored/remote_hacker_probe | 18 | 5| 
+| 20210224T11:18:09Z | Full-featured C2 framework which silently persists on webserver with a single-line PHP backdoor | https://github.com/nil0x42/phpsploit | 1164 | 332| 
+| 20210224T11:17:34Z | Thefatrat a massive exploiting tool : Easy tool to generate backdoor and easy tool to post exploitation attack like browser attack and etc . This tool compiles a malware with popular payload and then the compiled malware can be execute on windows, android, mac . The malware that created with this tool also have an ability to bypass most AV software protection . | https://github.com/Screetsec/TheFatRat | 4970 | 1641| 
+| 20210224T09:46:21Z | Backdoor Lnk Obfuscated Macro  ( Cachée ) Développé par 4po. | https://github.com/4po/BackdoorObfuscated | 0 | 0| 
+| 20210224T09:42:40Z | Null | https://github.com/EjHvorSerDuVildUdJim/backdoor | 0 | 0| 
+| 20210224T08:55:18Z | Ro3b - Advance Banking HTTP Botnet  | https://github.com/mathio3/Ro3b-HTTP-botnet | 12 | 4| 
+| 20210224T06:31:36Z | A backdoor with multiple features for ethical hacking. | https://github.com/CMPLXapps/SpiderBackdoor | 0 | 0| 
+| 20210224T04:08:04Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 174 | 26| 
 | 20210223T20:48:39Z | TrojanZoo provides a universal pytorch platform to conduct security researches (especially backdoor attacks/defenses) of image classification in deep learning. | https://github.com/ain-soph/trojanzoo | 43 | 8| 
-| 20210223T19:55:31Z | A backdoor that works on both windows or Linux. | https://github.com/joseph-giron/CSharpBackDoor | 0 | 0| 
-| 20210223T19:42:35Z | Thefatrat a massive exploiting tool : Easy tool to generate backdoor and easy tool to post exploitation attack like browser attack and etc . This tool compiles a malware with popular payload and then the compiled malware can be execute on windows, android, mac . The malware that created with this tool also have an ability to bypass most AV software protection . | https://github.com/Screetsec/TheFatRat | 4969 | 1640| 
-| 20210223T18:49:50Z | A simple persistence backdoor for linux | https://github.com/Exploit-lang/backdoor-penguin | 0 | 0| 
-| 20210223T17:47:12Z | backdoor uiuiuiui | https://github.com/zeru2/backdoor | 0 | 0| 
-| 20210223T16:33:30Z | FUD cross-platform python2 backdoor with C2 | https://github.com/7h3w4lk3r/pyback | 18 | 5| 
-| 20210223T15:48:57Z | Undetectable & Xor encrypting with custom KEY (FUD Metasploit Rat) bypass Top Antivirus like BitDefender,Malwarebytes,Avast,ESET-NOD32,AVG,... & Automatically Add ICON and MANIFEST to excitable | https://github.com/persianhydra/Xeexe-TopAntivirusEvasion | 303 | 82| 
-| 20210223T15:05:24Z | A sample app to demonstrate how to create Xamarin UITests using the Page Object architecture, Backdoor Methods and App Links (aka Deep Linking) | https://github.com/brminnick/UITestSampleApp | 32 | 25| 
 
 
 # fuzz on Github 推荐
