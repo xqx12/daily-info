@@ -13,6 +13,10 @@
 | 20210223 | 攻击者利用 Accellion FTA 文件传输应用的 0Day 窃取数据 | https://www.fireeye.com/blog/threat-research/2021/02/accellion-fta-exploited-for-data-theft-and-extortion.html| 
 | 20210223 | Windows 注册表中 RpcEptMapper 键权限设置不当导致可以实现本地提权 | https://itm4n.github.io/windows-registry-rpceptmapper-exploit/| 
 | 20210223 | 探索IPv6重复地址检测方法。 | https://theinternetprotocolblog.wordpress.com/2021/02/21/ipv6-duplicate-address-detection/| 
+| 20210223 | Linux系统权限提升命令总结。 | https://blog.theshahzada.com/2021/01/linux-privilege-escalation.html| 
+| 20210223 | VMware配置介绍：vmnet1（仅主机）和vmnet8（NAT）网络适配器的默认DHCP设置的步骤。 | https://kb.vmware.com/s/article/1026510| 
+| 20210223 | 美国航空航天局（NASA）首次采用Linux操作系统用于登陆火星Ingenuity直升机无人机上。 | https://in.pcmag.com/drones/141086/linux-is-now-on-mars-thanks-to-nasas-perseverance-rover| 
+| 20210223 | 使用SSH代理转发配置与故障排查。 | https://docs.github.com/en/developers/overview/using-ssh-agent-forwarding| 
 
 
 # 安全维基 推荐
@@ -21,12 +25,14 @@
 | 20210223 | CDN 2021 完全攻击指南 （二） | https://www.anquanke.com/post/id/231437| 
 | 20210223 | CDN 2021 完全攻击指南 （一） | https://www.anquanke.com/post/id/227818| 
 | 20210223 | 菜菜鸡的初体验之内网渗透 | https://xz.aliyun.com/t/9190| 
+| 20210223 | NDSS 2021 参会小记—2月22日论文报告 | https://mp.weixin.qq.com/s/LI49ioKYMksguQMqKH1Rcw| 
+| 20210223 | 漏洞管理的“新药” | https://mp.weixin.qq.com/s/5Y-3r1KuJgCbNrWUGoKq0w| 
+| 20210223 | NDSS 2021 参会小记—2月22日论文报告 | /news/28892| 
 
 
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20210223T14:06:56Z | CVE-2020-0082 | This repo contains a proof-of-concept for 📱🚀👑⚡, a deserialization vuln for local escalation of privilege to system_server in Android 10. This proof-of-concept only activates a privileged intent. | https://github.com/0x742/CVE-2020-0082-ExternalVibration | In ExternalVibration of ExternalVibration.java, there is a possible activation of an arbitrary intent due to unsafe deserialization. This could lead to local escalation of privilege to system_server with no additional execution privileges needed. User interaction is not needed for exploitation.Product: AndroidVersions: Android-10Android ID: A-140417434| 
 | 20210223T11:49:39Z | CVE-2021-1727 | Null | https://github.com/klinix5/CVE-2021-1727 | 未查询到CVE信息| 
 | 20210223T04:44:19Z | CVE-2020-0814 | Null | https://github.com/klinix5/CVE-2020-0814 | An elevation of privilege vulnerability exists in Windows Installer because of the way Windows Installer handles certain filesystem operations.To exploit the vulnerability, an attacker would require unprivileged execution on the victim system, aka %Windows Installer Elevation of Privilege Vulnerability%. This CVE ID is unique from CVE-2020-0779, CVE-2020-0798, CVE-2020-0842, CVE-2020-0843.| 
 | 20210223T03:14:48Z | CVE-2021-3156 | Null | https://github.com/oneoy/CVE-2021-3156 | Sudo before 1.9.5p2 has a Heap-based Buffer Overflow, allowing privilege escalation to root via %sudoedit -s% and a command-line argument that ends with a single backslash character.| 
@@ -49,28 +55,31 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210223T14:30:29Z | Um conjunto de exploits feitos em Python. | https://github.com/Gabriel712/exploitsboyts | 0 | 0| 
-| 20210223T14:14:23Z | xcube is a Python package for generating and exploiting data cubes powered by xarray, dask, and zarr. | https://github.com/dcs4cop/xcube | 70 | 12| 
-| 20210223T14:14:15Z | forked version of funtuna, a homebrew ps2 app launcher designed to ease the pain of getting a stable exploit for those that have a console uncompatible with FreeMcBoot that doesnt have a modchip | https://github.com/israpps/Funtuna-Fork | 1 | 0| 
-| 20210223T14:02:30Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 9 | 4| 
-| 20210223T13:57:09Z | Just a temporary website to post my ctf writeups and journey into binary/android exploitation/malware analysis/exploit development | https://github.com/blackbeard666/pwn_exhibit | 3 | 1| 
-| 20210223T13:49:47Z | Null | https://github.com/SkieAdmin/UniversalExploitCore | 0 | 0| 
-| 20210223T13:41:39Z | Just a temporary website to post my ctf writeups and journey into binary exploitation/malware analysis/exploit development | https://github.com/blackbeard666/blackbeard666.github.io | 0 | 0| 
-| 20210223T13:35:13Z | CTFs and solutions for Linux binary exploitation. | https://github.com/MaherAzzouzi/LinuxExploitation | 5 | 5| 
-| 20210223T13:26:03Z | courses, exploits and lots of code, as i am currently preparing for this exam, i will keep updating everthing i learned or coded here | https://github.com/kainesmicheal/OSWE | 1 | 1| 
-| 20210223T12:40:03Z | Null | https://github.com/th3ken-dev/TH3KEN-EDITON | 2 | 0| 
+| 20210223T23:55:39Z | Pwntools Blog | https://github.com/Gallopsled/gallopsled.github.io | 0 | 0| 
+| 20210223T23:36:47Z | This is a chrome extension that removes the psychological exploit that is Reddit Karma | https://github.com/BeckTimothy/reddit-volition | 0 | 0| 
+| 20210223T23:29:41Z | Null | https://github.com/I7Z3R0/Exploit | 0 | 0| 
+| 20210223T23:28:22Z | Thi powershell script has got to run in remote windows host, even for pivoting | https://github.com/FabioDefilippo/winallenum | 2 | 1| 
+| 20210223T23:16:31Z | Oracle Siebel XSS Stored Exploit | https://github.com/omurugur/Oracle_Siebel_XSS_Stored_Exploit | 0 | 1| 
+| 20210223T23:14:10Z | Oracle CTF Web XML Entity Exploit | https://github.com/omurugur/Oracle_CTF_Web_XML_Entity_Exploit | 0 | 1| 
+| 20210223T23:11:32Z | Oracle Operational Decision Support System XSS Stored | https://github.com/omurugur/Oracle_Operational_Decision_Support_System_XSS_Stored | 0 | 0| 
+| 20210223T23:06:34Z | FudgeC2 - a command and control framework designed for team collaboration and post-exploitation activities. | https://github.com/Ziconius/FudgeC2 | 190 | 44| 
+| 20210223T22:58:05Z | A post-exploitation framework | https://github.com/enkomio/AlanFramework | 0 | 0| 
+| 20210223T22:57:24Z | Root shell exploit for several Xiaomi routers: 4A Gigabit, 4A 100M, 4, 4C, 3Gv2, 4Q, miWifi 3C... | https://github.com/acecilia/OpenWRTInvasion | 349 | 73| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210223T20:48:39Z | TrojanZoo provides a universal pytorch platform to conduct security researches (especially backdoor attacks/defenses) of image classification in deep learning. | https://github.com/ain-soph/trojanzoo | 43 | 8| 
+| 20210223T19:55:31Z | A backdoor that works on both windows or Linux. | https://github.com/joseph-giron/CSharpBackDoor | 0 | 0| 
+| 20210223T19:42:35Z | Thefatrat a massive exploiting tool : Easy tool to generate backdoor and easy tool to post exploitation attack like browser attack and etc . This tool compiles a malware with popular payload and then the compiled malware can be execute on windows, android, mac . The malware that created with this tool also have an ability to bypass most AV software protection . | https://github.com/Screetsec/TheFatRat | 4969 | 1640| 
+| 20210223T18:49:50Z | A simple persistence backdoor for linux | https://github.com/Exploit-lang/backdoor-penguin | 0 | 0| 
+| 20210223T17:47:12Z | backdoor uiuiuiui | https://github.com/zeru2/backdoor | 0 | 0| 
+| 20210223T16:33:30Z | FUD cross-platform python2 backdoor with C2 | https://github.com/7h3w4lk3r/pyback | 18 | 5| 
+| 20210223T15:48:57Z | Undetectable & Xor encrypting with custom KEY (FUD Metasploit Rat) bypass Top Antivirus like BitDefender,Malwarebytes,Avast,ESET-NOD32,AVG,... & Automatically Add ICON and MANIFEST to excitable | https://github.com/persianhydra/Xeexe-TopAntivirusEvasion | 303 | 82| 
+| 20210223T15:05:24Z | A sample app to demonstrate how to create Xamarin UITests using the Page Object architecture, Backdoor Methods and App Links (aka Deep Linking) | https://github.com/brminnick/UITestSampleApp | 32 | 25| 
+| 20210223T14:41:11Z | A VBS Backdoor | https://github.com/kgsensei/VBSBackdoor | 0 | 0| 
 | 20210223T13:56:33Z | PoC minecraft backdoor plugin | https://github.com/mathisvickie/mc-backdoor | 1 | 0| 
-| 20210223T13:31:57Z | a python backdoor with a lot of features | https://github.com/zenux-dev/backdoor | 0 | 0| 
-| 20210223T11:35:02Z | Cross Platform Java RAT targeting Windows with a multitude of features. Built for Penetration Testers. | https://github.com/quantumcored/remote_hacker_probe | 13 | 5| 
-| 20210223T10:45:54Z | 🤖 AI based Backdoor Written for Windows using Telegram-bot as Its Back-ends. | https://github.com/wildonion/katyusha | 1 | 0| 
-| 20210223T09:11:44Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 173 | 26| 
-| 20210223T07:53:22Z | This repository contains source code for reverse tcp backdoor in python. | https://github.com/programmingconcepts/Reverse-TCP-Backdoor-In-Python | 0 | 0| 
-| 20210223T03:52:15Z | WaNet - Imperceptible Warping-based Backdoor Attack (International Conference on Learning Representations 2021) | https://github.com/VinAIResearch/Warping-based_Backdoor_Attack-release | 1 | 0| 
 
 
 # fuzz on Github 推荐
