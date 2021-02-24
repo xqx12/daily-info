@@ -61,6 +61,7 @@
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210224T02:06:43Z | Null | https://github.com/c-kleerun/c-kleerun.github.io | 0 | 0| 
 | 20210224T02:03:13Z | a leetcode question each day, your salary increment $100 per day | https://github.com/guoxiangCN/kLeetcode | 0 | 0| 
 | 20210223T14:39:58Z | This is a Native Android project in which  Hydrokleen team can see their day to day task Can see their service location. Can post images and videos and day to day reports update team information Can call, email, message their customers Can provide overall services to the teams AC customers | https://github.com/Mostainahmed/HydroKleen | 0 | 0| 
 | 20210223T10:14:55Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 的 Klee One 的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 99 | 3| 
@@ -70,7 +71,6 @@
 | 20210222T15:45:30Z | RVT is a collection of tools/libraries to support both static and dynamic verification of Rust programs. | https://github.com/project-oak/rust-verification-tools | 108 | 7| 
 | 20210222T15:03:05Z | Whole Program LLVM: wllvm ported to go | https://github.com/SRI-CSL/gllvm | 123 | 21| 
 | 20210222T14:17:07Z | Null | https://github.com/dhanyavittaldas/kleen-tidy-master | 0 | 0| 
-| 20210222T14:02:43Z | Null | https://github.com/annup76779/kleen-tidy | 0 | 0| 
 
 
 # s2e on Github 推荐
@@ -86,6 +86,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210224T02:07:30Z | Public repo for WIP code written on the weekly PS4 kernel exploit streams. | https://github.com/dayzerosec/PS4-Kernel-Exploit-Stream | 0 | 0| 
 | 20210224T02:06:00Z | All the Lua scripts I developed, including exploit scripts (please only use those for educational purposes) | https://github.com/SkiddDev/Scripts | 0 | 0| 
 | 20210224T02:02:40Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 9 | 4| 
 | 20210224T01:42:37Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9045 | 1455| 
@@ -95,7 +96,6 @@
 | 20210224T00:50:11Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 7 | 4| 
 | 20210224T00:49:08Z | A method for exploiting vulnerabilities in JavaScript code that allows the user to modify obfuscated self-invoking JavaScript functions. | https://github.com/jrghndl/Javascript-Exploit | 0 | 0| 
 | 20210224T00:38:16Z | A CTF web app designed to teach software developers application security by showcasing what vulnerable code looks like, how to write code to exploit the vulnerability, and how to write code to patch the vulnerability. | https://github.com/neumaneuma/appseccheat.codes | 0 | 0| 
-| 20210224T00:12:26Z | this code have copyright, only for educational purposes | https://github.com/ShitpostMDX/WPF-Roblox-Exploit | 0 | 0| 
 
 
 # backdoor on Github 推荐
