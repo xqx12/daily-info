@@ -116,16 +116,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210223T13:00:55Z | Labs & Fuzz | https://github.com/stoicescuvlad15/CTS-Workspace | 0 | 0| 
-| 20210223T12:36:55Z | Null | https://github.com/mayuripark/Fuzzy-Logic-in-Image-Processing- | 0 | 0| 
-| 20210223T12:33:09Z | This repository presents a readme for the setup of fuzzers and other related tools | https://github.com/c0d3nh4ck/Setup-of-Fuzzers-and-Tools | 0 | 0| 
-| 20210223T12:32:08Z | Null | https://github.com/antonioparadiso/Corso_fuzzy_2021 | 0 | 0| 
-| 20210223T11:52:22Z | Fast web fuzzer written in Go | https://github.com/ffuf/ffuf | 3976 | 473| 
-| 20210223T11:51:40Z | Fuzzing resources for JSC32 | https://github.com/pmatos/jsc32-fuzz | 0 | 0| 
-| 20210223T11:28:26Z | Null | https://github.com/MoreNiche/fuzzy-chainsaw | 0 | 0| 
-| 20210223T11:18:49Z | Null | https://github.com/a8v0r6/fuzzy-memory | 0 | 0| 
-| 20210223T11:13:13Z | Null | https://github.com/ethereum/solidity-fuzzing-corpus | 10 | 5| 
-| 20210223T10:26:21Z | Collection of quality safety articles. Awesome articles.   | https://github.com/tom0li/collection-document | 1357 | 433| 
+| 20210224T00:57:47Z | Null | https://github.com/vasumv/bonsai-fuzzing | 7 | 0| 
+| 20210224T00:57:14Z | :zap: SSH into instances using fuzzy search. | https://github.com/pmazurek/aws-fuzzy-finder | 118 | 22| 
+| 20210224T00:33:06Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 5965 | 1195| 
+| 20210224T00:28:38Z | This tool uses fzf(1)-like fuzzy-finder to do partial or fuzzy search of Kubernetes resources. Instead of specifying full resource names to kubectl commands, you can choose them from an interactive list that you can filter by typing a few characters. | https://github.com/d-kuro/kubectl-fuzzy | 80 | 9| 
+| 20210224T00:26:37Z | Null | https://github.com/zongyf02/Fuzzy-String-Search | 0 | 0| 
+| 20210224T00:19:12Z | delete-this-repository | https://github.com/pepelucho71922/fuzzy-waddle | 0 | 0| 
+| 20210224T00:18:04Z | Null | https://github.com/miguellrodrigues/simple_fuzzy | 0 | 0| 
+| 20210224T00:13:03Z | Null | https://github.com/Zahnen/fuzzbeed | 1 | 0| 
+| 20210224T00:06:44Z | Experimental OS | https://github.com/scopeInfinity/FuzzyOS | 0 | 0| 
+| 20210223T23:39:44Z | Combination of the Little Gem 9V Amp and 1 Knob Fuzz Guitar Pedal | https://github.com/Hexadecimator/LittleGem_1KnobFuzz_Combo | 0 | 0| 
 
 
 
