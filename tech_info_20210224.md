@@ -25,13 +25,14 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20210224T13:07:07Z | CVE-2021-21972 | VMSA-2021-0002 | https://github.com/ThanHuuTuan/CVE-2021-21972 | 未查询到CVE信息| 
 | 20210224T13:00:19Z | CVE-2021-21972 | CVE-2021-21972 | https://github.com/NS-Sp4ce/CVE-2021-21972 | 未查询到CVE信息| 
 | 20210224T12:55:59Z | CVE-2021-21972 | Null | https://github.com/QmF0c3UK/CVE-2021-21972-vCenter-6.5-7.0-RCE-POC | 未查询到CVE信息| 
 | 20210224T12:43:56Z | CVE-2021-26904 | LMA ISIDA Retriever 5.2 allows SQL Injection | https://github.com/Security-AVS/-CVE-2021-26904 | 未查询到CVE信息| 
 | 20210224T12:40:09Z | CVE-2021-26903 | ISIDA RETRIEVER v5.2" Reflected XSS | https://github.com/Security-AVS/CVE-2021-26903 | 未查询到CVE信息| 
 | 20210224T10:57:22Z | CVE-2021-3327 | CVE-2021-3327 | https://github.com/IthacaLabs/CVE-2021-3327 | 未查询到CVE信息| 
 | 20210224T09:04:01Z | CVE-2021-1727 | Null | https://github.com/klinix5/CVE-2021-1727 | 未查询到CVE信息| 
-| 20210224T00:17:45Z | CVE-2020-0082 | This repo contains a proof-of-concept for 📱🚀👑⚡, a deserialization vuln for local escalation of privilege to system_server in Android 10. This proof-of-concept only activates a privileged intent. | https://github.com/0x742/CVE-2020-0082-ExternalVibration | | 
+| 20210224T00:17:45Z | CVE-2020-0082 | This repo contains a proof-of-concept for 📱🚀👑⚡, a deserialization vuln for local escalation of privilege to system_server in Android 10. This proof-of-concept only activates a privileged intent. | https://github.com/0x742/CVE-2020-0082-ExternalVibration | In ExternalVibration of ExternalVibration.java, there is a possible activation of an arbitrary intent due to unsafe deserialization. This could lead to local escalation of privilege to system_server with no additional execution privileges needed. User interaction is not needed for exploitation.Product: AndroidVersions: Android-10Android ID: A-140417434| 
 
 
 # klee on Github 推荐
@@ -53,6 +54,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210224T13:07:47Z | The best tool for finding one gadget RCE in libc.so.6 | https://github.com/david942j/one_gadget | 1290 | 112| 
+| 20210224T13:05:36Z | Repository for new and rebuilt exploit scripts | https://github.com/H4rk3nz0/PenTest-Exploits | 1 | 0| 
 | 20210224T13:04:54Z | Null | https://github.com/Manoj983/protostar_exploits | 0 | 0| 
 | 20210224T13:02:31Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 9 | 4| 
 | 20210224T12:57:03Z | A Tool that Finds, Enumerates, and Exploits Reolink Cameras. | https://github.com/spicesouls/reosploit | 14 | 5| 
@@ -61,14 +64,12 @@
 | 20210224T12:28:42Z | CVE-PoC-Exploits! (Work in progress...) | https://github.com/maazsyed/CVE-PoC-Exploits | 2 | 0| 
 | 20210224T12:28:34Z | Just a temporary website to post my ctf writeups and journey into binary/android exploitation/malware analysis/exploit development | https://github.com/blackbeard666/pwn_exhibit | 3 | 1| 
 | 20210224T12:28:25Z | Null | https://github.com/DevClancy/RakNet_Exploit_UCFr | 0 | 0| 
-| 20210224T12:21:58Z | Cross Platform Java Remote Access And Post Exploitation Framework targeting Windows with a multitude of features. Built for Penetration Testers. | https://github.com/quantumcored/remote_hacker_probe | 18 | 5| 
-| 20210224T12:17:32Z | This is an exploit script written in ruby, which helps to exploit content injection vulnerability in Wordpress version 4.7 | https://github.com/Harsith-Panda/Wordpress-4.7-ci | 0 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210224T13:02:04Z | Python Backdoor Generator | https://github.com/grenoxx/Back-X | 5 | 1| 
+| 20210224T13:07:31Z | Python Backdoor Generator | https://github.com/grenoxx/Back-X | 5 | 1| 
 | 20210224T12:21:58Z | Cross Platform Java Remote Access And Post Exploitation Framework targeting Windows with a multitude of features. Built for Penetration Testers. | https://github.com/quantumcored/remote_hacker_probe | 18 | 5| 
 | 20210224T11:18:09Z | Full-featured C2 framework which silently persists on webserver with a single-line PHP backdoor | https://github.com/nil0x42/phpsploit | 1164 | 332| 
 | 20210224T11:17:34Z | Thefatrat a massive exploiting tool : Easy tool to generate backdoor and easy tool to post exploitation attack like browser attack and etc . This tool compiles a malware with popular payload and then the compiled malware can be execute on windows, android, mac . The malware that created with this tool also have an ability to bypass most AV software protection . | https://github.com/Screetsec/TheFatRat | 4970 | 1641| 
