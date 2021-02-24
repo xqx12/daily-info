@@ -17,6 +17,7 @@
 | 20210223 | VMware配置介绍：vmnet1（仅主机）和vmnet8（NAT）网络适配器的默认DHCP设置的步骤。 | https://kb.vmware.com/s/article/1026510| 
 | 20210223 | 美国航空航天局（NASA）首次采用Linux操作系统用于登陆火星Ingenuity直升机无人机上。 | https://in.pcmag.com/drones/141086/linux-is-now-on-mars-thanks-to-nasas-perseverance-rover| 
 | 20210223 | 使用SSH代理转发配置与故障排查。 | https://docs.github.com/en/developers/overview/using-ssh-agent-forwarding| 
+| 20210223 | Firefox 86 将支持 “Total Cookie Protection”，限制通过跨站点 Cookie 共享追踪用户 | https://blog.mozilla.org/security/2021/02/23/total-cookie-protection/| 
 | 20210222 | MilenageTest - 验证 3G/4G/5G 鉴权验证过程是否正确的工具 | https://github.com/jimtangshfx/MilenageTest| 
 | 20210222 | 深入剖析 JavaScript 编译器/解释器引擎 QuickJS | https://ming1016.github.io/2021/02/21/deeply-analyse-quickjs/| 
 | 20210222 | 在 VBA 宏函数中如何将 Shellcode 拷贝到内存中的 RWX 段 | https://adepts.of0x.cc/alternatives-copy-shellcode/| 
@@ -25,7 +26,6 @@
 | 20210222 | 有用户发现，Brave 浏览器会通过 DNS 请求泄露用户的所有 Tor、Onion 请求 | https://ramble.pw/f/privacy/2387| 
 | 20210222 | 基于浏览器网站图标（favicon）缓存实现对用户的跟踪 | https://www.cs.uic.edu/~polakis/papers/solomos-ndss21.pdf| 
 | 20210222 | IoT 平台恶意软件攻击模型分析 | https://cujo.com/genetics-of-a-modern-iot-attack/| 
-| 20210222 | AntiDebugandMemoryDump - Anti-Debug and Anti-Memory Dump for Android | https://github.com/darvincisec/AntiDebugandMemoryDump| 
 
 
 # 安全维基 推荐
@@ -101,7 +101,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210224T01:35:54Z | Python Backdoor Generator | https://github.com/grenoxx/Back-X | 5 | 1| 
+| 20210224T02:45:17Z | Python Backdoor Generator | https://github.com/grenoxx/Back-X | 5 | 1| 
 | 20210224T00:14:45Z | Ro3b - Advance Banking HTTP Botnet  | https://github.com/mathio3/Ro3b-HTTP-botnet | 12 | 4| 
 | 20210223T20:48:39Z | TrojanZoo provides a universal pytorch platform to conduct security researches (especially backdoor attacks/defenses) of image classification in deep learning. | https://github.com/ain-soph/trojanzoo | 43 | 8| 
 | 20210223T19:55:31Z | A backdoor that works on both windows or Linux. | https://github.com/joseph-giron/CSharpBackDoor | 0 | 0| 

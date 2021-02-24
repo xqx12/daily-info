@@ -17,6 +17,7 @@
 | 20210223 | VMware配置介绍：vmnet1（仅主机）和vmnet8（NAT）网络适配器的默认DHCP设置的步骤。 | https://kb.vmware.com/s/article/1026510| 
 | 20210223 | 美国航空航天局（NASA）首次采用Linux操作系统用于登陆火星Ingenuity直升机无人机上。 | https://in.pcmag.com/drones/141086/linux-is-now-on-mars-thanks-to-nasas-perseverance-rover| 
 | 20210223 | 使用SSH代理转发配置与故障排查。 | https://docs.github.com/en/developers/overview/using-ssh-agent-forwarding| 
+| 20210223 | Firefox 86 将支持 “Total Cookie Protection”，限制通过跨站点 Cookie 共享追踪用户 | https://blog.mozilla.org/security/2021/02/23/total-cookie-protection/| 
 
 
 # 安全维基 推荐
