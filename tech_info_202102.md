@@ -46,9 +46,9 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20210224T14:42:55Z | CVE-2021-21972 | Null | https://github.com/yaunsky/CVE-2021-21972 | 未查询到CVE信息| 
+| 20210224T14:41:24Z | CVE-2021-21972 | CVE-2021-21972 | https://github.com/NS-Sp4ce/CVE-2021-21972 | 未查询到CVE信息| 
 | 20210224T14:23:12Z | CVE-2021-21972 | Null | https://github.com/QmF0c3UK/CVE-2021-21972-vCenter-6.5-7.0-RCE-POC | 未查询到CVE信息| 
-| 20210224T14:21:10Z | CVE-2021-21972 | CVE-2021-21972 | https://github.com/NS-Sp4ce/CVE-2021-21972 | 未查询到CVE信息| 
-| 20210224T13:36:29Z | CVE-2021-21972 | Null | https://github.com/yaunsky/CVE-2021-21972 | | 
 | 20210224T13:24:48Z | CVE-2020-17057 | Null | https://github.com/lsw29475/CVE-2020-17057 | Windows Win32k Elevation of Privilege Vulnerability| 
 | 20210224T13:18:27Z | CVE-2020-0022 | Null | https://github.com/lsw29475/CVE-2020-0022 | In reassemble_and_dispatch of packet_fragmenter.cc, there is possible out of bounds write due to an incorrect bounds calculation. This could lead to remote code execution over Bluetooth with no additional execution privileges needed. User interaction is not needed for exploitation.Product: AndroidVersions: Android-8.0 Android-8.1 Android-9 Android-10Android ID: A-143894715| 
 | 20210224T13:09:47Z | CVE-2021-21972 | VMSA-2021-0002 | https://github.com/ThanHuuTuan/CVE-2021-21972 | 未查询到CVE信息| 
@@ -86,16 +86,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210224T14:44:25Z | Null | https://github.com/mednic/slmail-exploit | 2 | 0| 
+| 20210224T14:44:18Z | exploits writing by me(mostly converted from the Metasploit Ruby scripts to Python3) | https://github.com/ozzzozo/exploits | 0 | 0| 
+| 20210224T14:34:28Z | CVE-PoC-Exploits! (Work in progress...) | https://github.com/maazsyed/CVE-PoC-Exploits | 2 | 0| 
 | 20210224T14:26:58Z | Repository Containing things that I used on my exploitdev study | https://github.com/pwnprince/ExploitdevStudy | 0 | 0| 
 | 20210224T14:16:29Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9048 | 1455| 
-| 20210224T14:03:58Z | CVE-PoC-Exploits! (Work in progress...) | https://github.com/maazsyed/CVE-PoC-Exploits | 2 | 0| 
 | 20210224T14:02:28Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 9 | 4| 
 | 20210224T13:42:47Z | 移动端开发 | https://github.com/pdkax999/move-exploit | 0 | 0| 
 | 20210224T13:37:29Z | OMQHUB is my own Roblox Exploiting hub, a pretty simple one but an powerful one. It is in the Version V0.1 so please don%t flame it. | https://github.com/NotMxth/OMQHUB | 1 | 0| 
 | 20210224T13:11:05Z | WhatsApp Crash Exploit for Android by davizinmaker - TDM TEAM | https://github.com/davizinmaker/whatsapp-crash-exploit | 0 | 0| 
 | 20210224T13:07:47Z | The best tool for finding one gadget RCE in libc.so.6 | https://github.com/david942j/one_gadget | 1290 | 112| 
-| 20210224T13:05:36Z | Repository for new and rebuilt exploit scripts | https://github.com/H4rk3nz0/PenTest-Exploits | 1 | 0| 
-| 20210224T13:04:54Z | Null | https://github.com/Manoj983/protostar_exploits | 0 | 0| 
 
 
 # backdoor on Github 推荐
