@@ -86,8 +86,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210224T02:47:25Z | Pwntools Blog | https://github.com/Gallopsled/gallopsled.github.io | 0 | 0| 
-| 20210224T02:41:46Z | All the Lua scripts I developed, including exploit scripts (please only use those for educational purposes) | https://github.com/SkiddDev/Scripts | 0 | 0| 
+| 20210224T02:55:00Z | Pwntools Blog | https://github.com/Gallopsled/gallopsled.github.io | 0 | 0| 
+| 20210224T02:53:30Z | All the Lua scripts I developed, including exploit scripts (please only use those for educational purposes) | https://github.com/SkiddDev/Scripts | 0 | 0| 
 | 20210224T02:27:56Z | Waterball%s Uber. A Uber-like (Car-Hailing APP) microservice implementation using Java Spring Boot, exploiting the design methodologies: clean architecture / domain driven design / TDD. | https://github.com/Johnny850807/Waber | 1 | 1| 
 | 20210224T02:22:49Z | CTF framework and exploit development library | https://github.com/Gallopsled/pwntools | 7562 | 1359| 
 | 20210224T02:07:30Z | Public repo for WIP code written on the weekly PS4 kernel exploit streams. | https://github.com/dayzerosec/PS4-Kernel-Exploit-Stream | 0 | 0| 
