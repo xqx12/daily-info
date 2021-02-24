@@ -86,12 +86,12 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210224T03:02:36Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 9 | 4| 
 | 20210224T02:55:00Z | Pwntools Blog | https://github.com/Gallopsled/gallopsled.github.io | 0 | 0| 
 | 20210224T02:53:30Z | All the Lua scripts I developed, including exploit scripts (please only use those for educational purposes) | https://github.com/SkiddDev/Scripts | 0 | 0| 
 | 20210224T02:27:56Z | Waterball%s Uber. A Uber-like (Car-Hailing APP) microservice implementation using Java Spring Boot, exploiting the design methodologies: clean architecture / domain driven design / TDD. | https://github.com/Johnny850807/Waber | 1 | 1| 
 | 20210224T02:22:49Z | CTF framework and exploit development library | https://github.com/Gallopsled/pwntools | 7562 | 1359| 
 | 20210224T02:07:30Z | Public repo for WIP code written on the weekly PS4 kernel exploit streams. | https://github.com/dayzerosec/PS4-Kernel-Exploit-Stream | 0 | 0| 
-| 20210224T02:02:40Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 9 | 4| 
 | 20210224T01:42:37Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9045 | 1455| 
 | 20210224T01:10:35Z | Fix exploits on anarchy minecraft servers | https://github.com/moom0o/AnarchyExploitFixes | 14 | 7| 
 | 20210224T01:06:45Z | This is a collection of all my console exploits I%ve made for online games. | https://github.com/BigBoyKlem/Online-Game-Exploits | 0 | 0| 
