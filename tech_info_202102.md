@@ -46,7 +46,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20210224T00:17:45Z | CVE-2020-0082 | This repo contains a proof-of-concept for 📱🚀👑⚡, a deserialization vuln for local escalation of privilege to system_server in Android 10. This proof-of-concept only activates a privileged intent. | https://github.com/0x742/CVE-2020-0082-ExternalVibration | | 
+| 20210224T00:17:45Z | CVE-2020-0082 | This repo contains a proof-of-concept for 📱🚀👑⚡, a deserialization vuln for local escalation of privilege to system_server in Android 10. This proof-of-concept only activates a privileged intent. | https://github.com/0x742/CVE-2020-0082-ExternalVibration | In ExternalVibration of ExternalVibration.java, there is a possible activation of an arbitrary intent due to unsafe deserialization. This could lead to local escalation of privilege to system_server with no additional execution privileges needed. User interaction is not needed for exploitation.Product: AndroidVersions: Android-10Android ID: A-140417434| 
 | 20210223T11:49:39Z | CVE-2021-1727 | Null | https://github.com/klinix5/CVE-2021-1727 | 未查询到CVE信息| 
 | 20210223T04:44:19Z | CVE-2020-0814 | Null | https://github.com/klinix5/CVE-2020-0814 | An elevation of privilege vulnerability exists in Windows Installer because of the way Windows Installer handles certain filesystem operations.To exploit the vulnerability, an attacker would require unprivileged execution on the victim system, aka %Windows Installer Elevation of Privilege Vulnerability%. This CVE ID is unique from CVE-2020-0779, CVE-2020-0798, CVE-2020-0842, CVE-2020-0843.| 
 | 20210223T03:14:48Z | CVE-2021-3156 | Null | https://github.com/oneoy/CVE-2021-3156 | Sudo before 1.9.5p2 has a Heap-based Buffer Overflow, allowing privilege escalation to root via %sudoedit -s% and a command-line argument that ends with a single backslash character.| 
@@ -86,8 +86,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210224T01:42:37Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9045 | 1455| 
 | 20210224T01:36:53Z | All the Lua scripts I developed, including exploit scripts (please only use those for educational purposes) | https://github.com/SkiddDev/Scripts | 0 | 0| 
-| 20210224T01:29:15Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9045 | 1455| 
 | 20210224T01:10:35Z | Fix exploits on anarchy minecraft servers | https://github.com/moom0o/AnarchyExploitFixes | 14 | 7| 
 | 20210224T01:06:45Z | This is a collection of all my console exploits I%ve made for online games. | https://github.com/BigBoyKlem/Online-Game-Exploits | 0 | 0| 
 | 20210224T01:02:39Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 9 | 4| 
