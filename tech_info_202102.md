@@ -50,12 +50,12 @@
 | 20210223T11:49:39Z | CVE-2021-1727 | Null | https://github.com/klinix5/CVE-2021-1727 | 未查询到CVE信息| 
 | 20210223T04:44:19Z | CVE-2020-0814 | Null | https://github.com/klinix5/CVE-2020-0814 | An elevation of privilege vulnerability exists in Windows Installer because of the way Windows Installer handles certain filesystem operations.To exploit the vulnerability, an attacker would require unprivileged execution on the victim system, aka %Windows Installer Elevation of Privilege Vulnerability%. This CVE ID is unique from CVE-2020-0779, CVE-2020-0798, CVE-2020-0842, CVE-2020-0843.| 
 | 20210223T03:14:48Z | CVE-2021-3156 | Null | https://github.com/oneoy/CVE-2021-3156 | Sudo before 1.9.5p2 has a Heap-based Buffer Overflow, allowing privilege escalation to root via %sudoedit -s% and a command-line argument that ends with a single backslash character.| 
-| 20210222T13:51:58Z | 未知编号 | 2020l4web-app-mockup-DanCvejn created by GitHub Classroom | https://github.com/pslib-cz/2020l4web-app-mockup-DanCvejn | | 
+| 20210222T13:51:58Z | 未知编号 | 2020l4web-app-mockup-DanCvejn created by GitHub Classroom | https://github.com/pslib-cz/2020l4web-app-mockup-DanCvejn | 未查询到CVE信息| 
 | 20210222T01:48:01Z | CVE-2021-26121 | Null | https://github.com/sourceincite/CVE-2021-26121 | 未查询到CVE信息| 
 | 20210222T01:28:35Z | CVE-2021-26700 | RCE in NPM VSCode Extention | https://github.com/jackadamson/CVE-2021-26700 | 未查询到CVE信息| 
 | 20210221T06:34:19Z | CVE-2021-3129 | CVE-2021-3129-Laravel Debug mode 远程代码执行漏洞 | https://github.com/simonlee-hello/CVE-2021-3129 | Ignition before 2.5.2, as used in Laravel and other products, allows unauthenticated remote attackers to execute arbitrary code because of insecure usage of file_get_contents() and file_put_contents(). This is exploitable on sites using debug mode with Laravel before 8.4.2.| 
 | 20210221T06:00:31Z | CVE-2020-8637 | Null | https://github.com/DXY0411/CVE-2020-8637 | A SQL injection vulnerability in TestLink 1.9.20 allows attackers to execute arbitrary SQL commands in dragdroptreenodes.php via the node_id parameter.| 
-| 20210220T08:11:26Z | CVE-2020-5410 | Spring Cloud Config 目录穿越漏洞(CVE-2020-5410) 复现 | https://github.com/thelostworldFree/SpringCloud-Config-CVE-2020-5410 | | 
+| 20210220T08:11:26Z | CVE-2020-5410 | Spring Cloud Config 目录穿越漏洞(CVE-2020-5410) 复现 | https://github.com/thelostworldFree/SpringCloud-Config-CVE-2020-5410 | Spring Cloud Config, versions 2.2.x prior to 2.2.3, versions 2.1.x prior to 2.1.9, and older unsupported versions allow applications to serve arbitrary configuration files through the spring-cloud-config-server module. A malicious user, or attacker, can send a request using a specially crafted URL that can lead to a directory traversal attack.| 
 
 
 # klee on Github 推荐
@@ -86,10 +86,10 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210224T01:15:32Z | All the Lua scripts I developed, including exploit scripts (please only use those for educational purposes) | https://github.com/SkiddDev/Scripts | 0 | 0| 
 | 20210224T01:10:35Z | Fix exploits on anarchy minecraft servers | https://github.com/moom0o/AnarchyExploitFixes | 14 | 7| 
 | 20210224T01:06:45Z | This is a collection of all my console exploits I%ve made for online games. | https://github.com/BigBoyKlem/Online-Game-Exploits | 0 | 0| 
 | 20210224T01:02:39Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 9 | 4| 
-| 20210224T01:01:06Z | All the Lua scripts I developed, including exploit scripts (please only use those for educational purposes) | https://github.com/SkiddDev/Scripts | 0 | 0| 
 | 20210224T00:57:54Z | This bash script will help you to hack remote hosts  | https://github.com/FabioDefilippo/linuxallremote | 6 | 1| 
 | 20210224T00:50:11Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 7 | 4| 
 | 20210224T00:49:08Z | A method for exploiting vulnerabilities in JavaScript code that allows the user to modify obfuscated self-invoking JavaScript functions. | https://github.com/jrghndl/Javascript-Exploit | 0 | 0| 
@@ -116,12 +116,12 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210224T01:16:17Z | delete-this-repository | https://github.com/pepelucho71922/fuzzy-waddle | 0 | 0| 
 | 20210224T00:57:47Z | Null | https://github.com/vasumv/bonsai-fuzzing | 7 | 0| 
 | 20210224T00:57:14Z | :zap: SSH into instances using fuzzy search. | https://github.com/pmazurek/aws-fuzzy-finder | 118 | 22| 
 | 20210224T00:33:06Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 5965 | 1195| 
 | 20210224T00:28:38Z | This tool uses fzf(1)-like fuzzy-finder to do partial or fuzzy search of Kubernetes resources. Instead of specifying full resource names to kubectl commands, you can choose them from an interactive list that you can filter by typing a few characters. | https://github.com/d-kuro/kubectl-fuzzy | 80 | 9| 
 | 20210224T00:26:37Z | Null | https://github.com/zongyf02/Fuzzy-String-Search | 0 | 0| 
-| 20210224T00:19:12Z | delete-this-repository | https://github.com/pepelucho71922/fuzzy-waddle | 0 | 0| 
 | 20210224T00:18:04Z | Null | https://github.com/miguellrodrigues/simple_fuzzy | 0 | 0| 
 | 20210224T00:13:03Z | Null | https://github.com/Zahnen/fuzzbeed | 1 | 0| 
 | 20210224T00:06:44Z | Experimental OS | https://github.com/scopeInfinity/FuzzyOS | 0 | 0| 
