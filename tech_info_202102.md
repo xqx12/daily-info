@@ -20,12 +20,12 @@
 | 20210223 | Firefox 86 将支持 “Total Cookie Protection”，限制通过跨站点 Cookie 共享追踪用户 | https://blog.mozilla.org/security/2021/02/23/total-cookie-protection/| 
 | 20210223 | DA14531芯片固件逆向系列（1）-固件加载和逆向分析 | https://www.cnblogs.com/hac425/p/14437694.html| 
 | 20210223 | iOS 内核堆风水布局解读 | https://mp.weixin.qq.com/s/iv55u9VC7R1rZmhbfTMcRA| 
-| 20210222 | MilenageTest - 验证 3G/4G/5G 鉴权验证过程是否正确的工具 | https://github.com/jimtangshfx/MilenageTest| 
-| 20210222 | 深入剖析 JavaScript 编译器/解释器引擎 QuickJS | https://ming1016.github.io/2021/02/21/deeply-analyse-quickjs/| 
-| 20210222 | 在 VBA 宏函数中如何将 Shellcode 拷贝到内存中的 RWX 段 | https://adepts.of0x.cc/alternatives-copy-shellcode/| 
-| 20210222 | Bluepill - Type-2 Intel Hypervisor For Windows 10 Systems | https://githacks.org/_xeroxz/bluepill| 
-| 20210222 | OSPREY: Recovery of Variable and Data Structure via Probabilistic Analysis for Stripped Binary | https://www.cs.purdue.edu/homes/zhan3299/res/SP21a.pdf| 
-| 20210222 | 有用户发现，Brave 浏览器会通过 DNS 请求泄露用户的所有 Tor、Onion 请求 | https://ramble.pw/f/privacy/2387| 
+| 20210223 | teler - 基于 HTTP 访问日志的实时入侵检测工具 | https://github.com/kitabisa/teler| 
+| 20210223 | Growing A Test Corpus with Bonsai Fuzzing | https://rohan.padhye.org/files/bonsai-icse21.pdf| 
+| 20210223 | Zoom on the Keystrokes，有研究员发表 paper，研究如何在视频聊天中窃取对方的键盘敲击记录 | https://arxiv.org/abs/2010.12078| 
+| 20210223 | Go 语言社区计划在 1.17 版本增加对 Go Fuzz 测试的支持 | https://github.com/golang/go/issues/44551| 
+| 20210223 | 威胁情报自学指南 Part 1 | https://medium.com/katies-five-cents/a-cyber-threat-intelligence-self-study-plan-part-1-968b5a8daf9a| 
+| 20210223 | 基于改写 modprobe_path 的 Linux 内核漏洞利用 | https://lkmidas.github.io/posts/20210223-linux-kernel-pwn-modprobe/| 
 
 
 # 安全维基 推荐
@@ -49,7 +49,7 @@
 | 20210224T00:17:45Z | CVE-2020-0082 | This repo contains a proof-of-concept for 📱🚀👑⚡, a deserialization vuln for local escalation of privilege to system_server in Android 10. This proof-of-concept only activates a privileged intent. | https://github.com/0x742/CVE-2020-0082-ExternalVibration | In ExternalVibration of ExternalVibration.java, there is a possible activation of an arbitrary intent due to unsafe deserialization. This could lead to local escalation of privilege to system_server with no additional execution privileges needed. User interaction is not needed for exploitation.Product: AndroidVersions: Android-10Android ID: A-140417434| 
 | 20210223T11:49:39Z | CVE-2021-1727 | Null | https://github.com/klinix5/CVE-2021-1727 | 未查询到CVE信息| 
 | 20210223T04:44:19Z | CVE-2020-0814 | Null | https://github.com/klinix5/CVE-2020-0814 | An elevation of privilege vulnerability exists in Windows Installer because of the way Windows Installer handles certain filesystem operations.To exploit the vulnerability, an attacker would require unprivileged execution on the victim system, aka %Windows Installer Elevation of Privilege Vulnerability%. This CVE ID is unique from CVE-2020-0779, CVE-2020-0798, CVE-2020-0842, CVE-2020-0843.| 
-| 20210223T03:14:48Z | CVE-2021-3156 | Null | https://github.com/oneoy/CVE-2021-3156 | Sudo before 1.9.5p2 has a Heap-based Buffer Overflow, allowing privilege escalation to root via %sudoedit -s% and a command-line argument that ends with a single backslash character.| 
+| 20210223T03:14:48Z | CVE-2021-3156 | Null | https://github.com/oneoy/CVE-2021-3156 | | 
 | 20210222T13:51:58Z | 未知编号 | 2020l4web-app-mockup-DanCvejn created by GitHub Classroom | https://github.com/pslib-cz/2020l4web-app-mockup-DanCvejn | 未查询到CVE信息| 
 | 20210222T01:48:01Z | CVE-2021-26121 | Null | https://github.com/sourceincite/CVE-2021-26121 | 未查询到CVE信息| 
 | 20210222T01:28:35Z | CVE-2021-26700 | RCE in NPM VSCode Extention | https://github.com/jackadamson/CVE-2021-26700 | 未查询到CVE信息| 
@@ -86,12 +86,12 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210224T03:04:09Z | Public repo for WIP code written on the weekly PS4 kernel exploit streams. | https://github.com/dayzerosec/PS4-Kernel-Exploit-Stream | 0 | 0| 
 | 20210224T03:02:36Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 9 | 4| 
 | 20210224T02:55:00Z | Pwntools Blog | https://github.com/Gallopsled/gallopsled.github.io | 0 | 0| 
 | 20210224T02:53:30Z | All the Lua scripts I developed, including exploit scripts (please only use those for educational purposes) | https://github.com/SkiddDev/Scripts | 0 | 0| 
 | 20210224T02:27:56Z | Waterball%s Uber. A Uber-like (Car-Hailing APP) microservice implementation using Java Spring Boot, exploiting the design methodologies: clean architecture / domain driven design / TDD. | https://github.com/Johnny850807/Waber | 1 | 1| 
 | 20210224T02:22:49Z | CTF framework and exploit development library | https://github.com/Gallopsled/pwntools | 7562 | 1359| 
-| 20210224T02:07:30Z | Public repo for WIP code written on the weekly PS4 kernel exploit streams. | https://github.com/dayzerosec/PS4-Kernel-Exploit-Stream | 0 | 0| 
 | 20210224T01:42:37Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9045 | 1455| 
 | 20210224T01:10:35Z | Fix exploits on anarchy minecraft servers | https://github.com/moom0o/AnarchyExploitFixes | 14 | 7| 
 | 20210224T01:06:45Z | This is a collection of all my console exploits I%ve made for online games. | https://github.com/BigBoyKlem/Online-Game-Exploits | 0 | 0| 

@@ -20,6 +20,12 @@
 | 20210223 | Firefox 86 将支持 “Total Cookie Protection”，限制通过跨站点 Cookie 共享追踪用户 | https://blog.mozilla.org/security/2021/02/23/total-cookie-protection/| 
 | 20210223 | DA14531芯片固件逆向系列（1）-固件加载和逆向分析 | https://www.cnblogs.com/hac425/p/14437694.html| 
 | 20210223 | iOS 内核堆风水布局解读 | https://mp.weixin.qq.com/s/iv55u9VC7R1rZmhbfTMcRA| 
+| 20210223 | teler - 基于 HTTP 访问日志的实时入侵检测工具 | https://github.com/kitabisa/teler| 
+| 20210223 | Growing A Test Corpus with Bonsai Fuzzing | https://rohan.padhye.org/files/bonsai-icse21.pdf| 
+| 20210223 | Zoom on the Keystrokes，有研究员发表 paper，研究如何在视频聊天中窃取对方的键盘敲击记录 | https://arxiv.org/abs/2010.12078| 
+| 20210223 | Go 语言社区计划在 1.17 版本增加对 Go Fuzz 测试的支持 | https://github.com/golang/go/issues/44551| 
+| 20210223 | 威胁情报自学指南 Part 1 | https://medium.com/katies-five-cents/a-cyber-threat-intelligence-self-study-plan-part-1-968b5a8daf9a| 
+| 20210223 | 基于改写 modprobe_path 的 Linux 内核漏洞利用 | https://lkmidas.github.io/posts/20210223-linux-kernel-pwn-modprobe/| 
 
 
 # 安全维基 推荐
@@ -38,7 +44,7 @@
 | --- | --- | --- | --- | ---| 
 | 20210223T11:49:39Z | CVE-2021-1727 | Null | https://github.com/klinix5/CVE-2021-1727 | 未查询到CVE信息| 
 | 20210223T04:44:19Z | CVE-2020-0814 | Null | https://github.com/klinix5/CVE-2020-0814 | An elevation of privilege vulnerability exists in Windows Installer because of the way Windows Installer handles certain filesystem operations.To exploit the vulnerability, an attacker would require unprivileged execution on the victim system, aka %Windows Installer Elevation of Privilege Vulnerability%. This CVE ID is unique from CVE-2020-0779, CVE-2020-0798, CVE-2020-0842, CVE-2020-0843.| 
-| 20210223T03:14:48Z | CVE-2021-3156 | Null | https://github.com/oneoy/CVE-2021-3156 | Sudo before 1.9.5p2 has a Heap-based Buffer Overflow, allowing privilege escalation to root via %sudoedit -s% and a command-line argument that ends with a single backslash character.| 
+| 20210223T03:14:48Z | CVE-2021-3156 | Null | https://github.com/oneoy/CVE-2021-3156 | | 
 
 
 # klee on Github 推荐
