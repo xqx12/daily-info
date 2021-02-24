@@ -48,9 +48,9 @@
 | --- | --- | --- | --- | ---| 
 | 20210224T14:23:12Z | CVE-2021-21972 | Null | https://github.com/QmF0c3UK/CVE-2021-21972-vCenter-6.5-7.0-RCE-POC | 未查询到CVE信息| 
 | 20210224T14:21:10Z | CVE-2021-21972 | CVE-2021-21972 | https://github.com/NS-Sp4ce/CVE-2021-21972 | 未查询到CVE信息| 
-| 20210224T13:36:29Z | CVE-2021-21972 | Null | https://github.com/yaunsky/CVE-2021-21972 | 未查询到CVE信息| 
+| 20210224T13:36:29Z | CVE-2021-21972 | Null | https://github.com/yaunsky/CVE-2021-21972 | | 
 | 20210224T13:24:48Z | CVE-2020-17057 | Null | https://github.com/lsw29475/CVE-2020-17057 | Windows Win32k Elevation of Privilege Vulnerability| 
-| 20210224T13:18:27Z | CVE-2020-0022 | Null | https://github.com/lsw29475/CVE-2020-0022 | | 
+| 20210224T13:18:27Z | CVE-2020-0022 | Null | https://github.com/lsw29475/CVE-2020-0022 | In reassemble_and_dispatch of packet_fragmenter.cc, there is possible out of bounds write due to an incorrect bounds calculation. This could lead to remote code execution over Bluetooth with no additional execution privileges needed. User interaction is not needed for exploitation.Product: AndroidVersions: Android-8.0 Android-8.1 Android-9 Android-10Android ID: A-143894715| 
 | 20210224T13:09:47Z | CVE-2021-21972 | VMSA-2021-0002 | https://github.com/ThanHuuTuan/CVE-2021-21972 | 未查询到CVE信息| 
 | 20210224T12:43:56Z | CVE-2021-26904 | LMA ISIDA Retriever 5.2 allows SQL Injection | https://github.com/Security-AVS/-CVE-2021-26904 | 未查询到CVE信息| 
 | 20210224T12:40:09Z | CVE-2021-26903 | ISIDA RETRIEVER v5.2" Reflected XSS | https://github.com/Security-AVS/CVE-2021-26903 | 未查询到CVE信息| 
