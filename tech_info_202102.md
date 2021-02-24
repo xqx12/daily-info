@@ -53,7 +53,7 @@
 | 20210222T13:51:58Z | 未知编号 | 2020l4web-app-mockup-DanCvejn created by GitHub Classroom | https://github.com/pslib-cz/2020l4web-app-mockup-DanCvejn | 未查询到CVE信息| 
 | 20210222T01:48:01Z | CVE-2021-26121 | Null | https://github.com/sourceincite/CVE-2021-26121 | 未查询到CVE信息| 
 | 20210222T01:28:35Z | CVE-2021-26700 | RCE in NPM VSCode Extention | https://github.com/jackadamson/CVE-2021-26700 | 未查询到CVE信息| 
-| 20210221T06:34:19Z | CVE-2021-3129 | CVE-2021-3129-Laravel Debug mode 远程代码执行漏洞 | https://github.com/simonlee-hello/CVE-2021-3129 | Ignition before 2.5.2, as used in Laravel and other products, allows unauthenticated remote attackers to execute arbitrary code because of insecure usage of file_get_contents() and file_put_contents(). This is exploitable on sites using debug mode with Laravel before 8.4.2.| 
+| 20210221T06:34:19Z | CVE-2021-3129 | CVE-2021-3129-Laravel Debug mode 远程代码执行漏洞 | https://github.com/simonlee-hello/CVE-2021-3129 | | 
 | 20210221T06:00:31Z | CVE-2020-8637 | Null | https://github.com/DXY0411/CVE-2020-8637 | A SQL injection vulnerability in TestLink 1.9.20 allows attackers to execute arbitrary SQL commands in dragdroptreenodes.php via the node_id parameter.| 
 | 20210220T08:11:26Z | CVE-2020-5410 | Spring Cloud Config 目录穿越漏洞(CVE-2020-5410) 复现 | https://github.com/thelostworldFree/SpringCloud-Config-CVE-2020-5410 | Spring Cloud Config, versions 2.2.x prior to 2.2.3, versions 2.1.x prior to 2.1.9, and older unsupported versions allow applications to serve arbitrary configuration files through the spring-cloud-config-server module. A malicious user, or attacker, can send a request using a specially crafted URL that can lead to a directory traversal attack.| 
 
@@ -86,6 +86,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210224T01:06:45Z | This is a collection of all my console exploits I%ve made for online games. | https://github.com/BigBoyKlem/Online-Game-Exploits | 0 | 0| 
 | 20210224T01:02:39Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 9 | 4| 
 | 20210224T01:01:06Z | All the Lua scripts I developed, including exploit scripts (please only use those for educational purposes) | https://github.com/SkiddDev/Scripts | 0 | 0| 
 | 20210224T00:57:54Z | This bash script will help you to hack remote hosts  | https://github.com/FabioDefilippo/linuxallremote | 6 | 1| 
@@ -95,7 +96,6 @@
 | 20210224T00:12:26Z | this code have copyright, only for educational purposes | https://github.com/ShitpostMDX/WPF-Roblox-Exploit | 0 | 0| 
 | 20210223T23:55:39Z | Pwntools Blog | https://github.com/Gallopsled/gallopsled.github.io | 0 | 0| 
 | 20210223T23:36:47Z | This is a chrome extension that removes the psychological exploit that is Reddit Karma | https://github.com/BeckTimothy/reddit-volition | 0 | 0| 
-| 20210223T23:29:41Z | Null | https://github.com/I7Z3R0/Exploit | 0 | 0| 
 
 
 # backdoor on Github 推荐
