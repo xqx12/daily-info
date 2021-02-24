@@ -52,7 +52,7 @@
 | 20210224T12:40:09Z | CVE-2021-26903 | ISIDA RETRIEVER v5.2" Reflected XSS | https://github.com/Security-AVS/CVE-2021-26903 | 未查询到CVE信息| 
 | 20210224T10:57:22Z | CVE-2021-3327 | CVE-2021-3327 | https://github.com/IthacaLabs/CVE-2021-3327 | 未查询到CVE信息| 
 | 20210224T09:04:01Z | CVE-2021-1727 | Null | https://github.com/klinix5/CVE-2021-1727 | 未查询到CVE信息| 
-| 20210224T00:17:45Z | CVE-2020-0082 | This repo contains a proof-of-concept for 📱🚀👑⚡, a deserialization vuln for local escalation of privilege to system_server in Android 10. This proof-of-concept only activates a privileged intent. | https://github.com/0x742/CVE-2020-0082-ExternalVibration | In ExternalVibration of ExternalVibration.java, there is a possible activation of an arbitrary intent due to unsafe deserialization. This could lead to local escalation of privilege to system_server with no additional execution privileges needed. User interaction is not needed for exploitation.Product: AndroidVersions: Android-10Android ID: A-140417434| 
+| 20210224T00:17:45Z | CVE-2020-0082 | This repo contains a proof-of-concept for 📱🚀👑⚡, a deserialization vuln for local escalation of privilege to system_server in Android 10. This proof-of-concept only activates a privileged intent. | https://github.com/0x742/CVE-2020-0082-ExternalVibration | | 
 | 20210223T04:44:19Z | CVE-2020-0814 | Null | https://github.com/klinix5/CVE-2020-0814 | An elevation of privilege vulnerability exists in Windows Installer because of the way Windows Installer handles certain filesystem operations.To exploit the vulnerability, an attacker would require unprivileged execution on the victim system, aka %Windows Installer Elevation of Privilege Vulnerability%. This CVE ID is unique from CVE-2020-0779, CVE-2020-0798, CVE-2020-0842, CVE-2020-0843.| 
 | 20210223T03:14:48Z | CVE-2021-3156 | Null | https://github.com/oneoy/CVE-2021-3156 | Sudo before 1.9.5p2 has a Heap-based Buffer Overflow, allowing privilege escalation to root via %sudoedit -s% and a command-line argument that ends with a single backslash character.| 
 | 20210222T13:51:58Z | 未知编号 | 2020l4web-app-mockup-DanCvejn created by GitHub Classroom | https://github.com/pslib-cz/2020l4web-app-mockup-DanCvejn | 未查询到CVE信息| 
@@ -86,6 +86,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210224T13:04:54Z | Null | https://github.com/Manoj983/protostar_exploits | 0 | 0| 
+| 20210224T13:02:31Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 9 | 4| 
 | 20210224T12:57:03Z | A Tool that Finds, Enumerates, and Exploits Reolink Cameras. | https://github.com/spicesouls/reosploit | 14 | 5| 
 | 20210224T12:51:25Z | Null | https://github.com/lsw29475/exploit | 0 | 0| 
 | 20210224T12:49:47Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9047 | 1455| 
@@ -94,8 +96,6 @@
 | 20210224T12:28:25Z | Null | https://github.com/DevClancy/RakNet_Exploit_UCFr | 0 | 0| 
 | 20210224T12:21:58Z | Cross Platform Java Remote Access And Post Exploitation Framework targeting Windows with a multitude of features. Built for Penetration Testers. | https://github.com/quantumcored/remote_hacker_probe | 18 | 5| 
 | 20210224T12:17:32Z | This is an exploit script written in ruby, which helps to exploit content injection vulnerability in Wordpress version 4.7 | https://github.com/Harsith-Panda/Wordpress-4.7-ci | 0 | 0| 
-| 20210224T12:13:04Z | Repository for new and rebuilt exploit scripts | https://github.com/H4rk3nz0/PenTest-Exploits | 1 | 0| 
-| 20210224T12:02:27Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 9 | 4| 
 
 
 # backdoor on Github 推荐
