@@ -91,13 +91,13 @@
 | 20210224T23:51:18Z | Tesina realizzata per il corso di logica Fuzzy del professore Gaetano Vitale | https://github.com/Darkdev88/corso_fuzzy_2021 | 0 | 0| 
 | 20210224T23:28:34Z | A cross-platform browser fuzzing framework | https://github.com/MozillaSecurity/grizzly | 233 | 31| 
 | 20210224T23:22:58Z | machine learning project 1 | https://github.com/WeiminZhao/projFuzzy | 0 | 0| 
-| 20210224T22:41:27Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2271 | 116| 
 | 20210224T22:32:35Z | Ethereum smart contract fuzzer | https://github.com/crytic/echidna | 554 | 94| 
 | 20210224T22:10:04Z | RESTler is the first stateful REST API fuzzing tool for automatically testing cloud services through their REST APIs and finding security and reliability bugs in these services. | https://github.com/microsoft/restler-fuzzer | 677 | 69| 
 | 20210224T21:48:40Z | Null | https://github.com/opimentel-github/fuzzy-torch | 0 | 0| 
 | 20210224T21:41:11Z | Null | https://github.com/longhike/fuzzy-enigma | 0 | 0| 
-| 20210224T21:17:39Z | Experiments with verificarlo and fmriprep (BrainHack 2020ish) | https://github.com/glatard/fuzzy-fmriprep | 0 | 0| 
 | 20210224T21:13:27Z | Repo for my personal website | https://github.com/FuzzyReason/fuzzyreason.io | 1 | 0| 
+| 20210224T20:54:08Z | The Official Fuzzy Britches Repository. | https://github.com/ThePapaw/fuzzybritches | 0 | 0| 
+| 20210224T20:46:11Z | The code behind getfursu.it | https://github.com/veelkoov/fuzzrake | 6 | 0| 
 
 
 
