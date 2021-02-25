@@ -46,12 +46,12 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20210225T01:09:17Z | CVE-2021-21972 | CVE-2021-21972 Exploit | https://github.com/NS-Sp4ce/CVE-2021-21972 | The vSphere Client (HTML5) contains a remote code execution vulnerability in a vCenter Server plugin. A malicious actor with network access to port 443 may exploit this issue to execute commands with unrestricted privileges on the underlying operating system that hosts vCenter Server. This affects VMware vCenter Server (7.x before 7.0 U1c, 6.7 before 6.7 U3l and 6.5 before 6.5 U3n) and VMware Cloud Foundation (4.x before 4.2 and 3.x before 3.10.1.2).| 
-| 20210225T01:08:40Z | CVE-2021-21972 | Proof of Concept Exploit for vCenter CVE-2021-21972 | https://github.com/horizon3ai/CVE-2021-21972 | The vSphere Client (HTML5) contains a remote code execution vulnerability in a vCenter Server plugin. A malicious actor with network access to port 443 may exploit this issue to execute commands with unrestricted privileges on the underlying operating system that hosts vCenter Server. This affects VMware vCenter Server (7.x before 7.0 U1c, 6.7 before 6.7 U3l and 6.5 before 6.5 U3n) and VMware Cloud Foundation (4.x before 4.2 and 3.x before 3.10.1.2).| 
-| 20210225T00:42:53Z | CVE-2021-21972 | Null | https://github.com/QmF0c3UK/CVE-2021-21972-vCenter-6.5-7.0-RCE-POC | The vSphere Client (HTML5) contains a remote code execution vulnerability in a vCenter Server plugin. A malicious actor with network access to port 443 may exploit this issue to execute commands with unrestricted privileges on the underlying operating system that hosts vCenter Server. This affects VMware vCenter Server (7.x before 7.0 U1c, 6.7 before 6.7 U3l and 6.5 before 6.5 U3n) and VMware Cloud Foundation (4.x before 4.2 and 3.x before 3.10.1.2).| 
+| 20210225T01:51:59Z | CVE-2021-21972 | Proof of Concept Exploit for vCenter CVE-2021-21972 | https://github.com/horizon3ai/CVE-2021-21972 | The vSphere Client (HTML5) contains a remote code execution vulnerability in a vCenter Server plugin. A malicious actor with network access to port 443 may exploit this issue to execute commands with unrestricted privileges on the underlying operating system that hosts vCenter Server. This affects VMware vCenter Server (7.x before 7.0 U1c, 6.7 before 6.7 U3l and 6.5 before 6.5 U3n) and VMware Cloud Foundation (4.x before 4.2 and 3.x before 3.10.1.2).| 
+| 20210225T01:25:59Z | CVE-2021-21972 | CVE-2021-21972 Exploit | https://github.com/NS-Sp4ce/CVE-2021-21972 | The vSphere Client (HTML5) contains a remote code execution vulnerability in a vCenter Server plugin. A malicious actor with network access to port 443 may exploit this issue to execute commands with unrestricted privileges on the underlying operating system that hosts vCenter Server. This affects VMware vCenter Server (7.x before 7.0 U1c, 6.7 before 6.7 U3l and 6.5 before 6.5 U3n) and VMware Cloud Foundation (4.x before 4.2 and 3.x before 3.10.1.2).| 
+| 20210225T01:25:14Z | CVE-2021-21972 | Null | https://github.com/QmF0c3UK/CVE-2021-21972-vCenter-6.5-7.0-RCE-POC | The vSphere Client (HTML5) contains a remote code execution vulnerability in a vCenter Server plugin. A malicious actor with network access to port 443 may exploit this issue to execute commands with unrestricted privileges on the underlying operating system that hosts vCenter Server. This affects VMware vCenter Server (7.x before 7.0 U1c, 6.7 before 6.7 U3l and 6.5 before 6.5 U3n) and VMware Cloud Foundation (4.x before 4.2 and 3.x before 3.10.1.2).| 
 | 20210225T00:35:40Z | CVE-2021-21972 | Null | https://github.com/yaunsky/CVE-2021-21972 | The vSphere Client (HTML5) contains a remote code execution vulnerability in a vCenter Server plugin. A malicious actor with network access to port 443 may exploit this issue to execute commands with unrestricted privileges on the underlying operating system that hosts vCenter Server. This affects VMware vCenter Server (7.x before 7.0 U1c, 6.7 before 6.7 U3l and 6.5 before 6.5 U3n) and VMware Cloud Foundation (4.x before 4.2 and 3.x before 3.10.1.2).| 
 | 20210225T00:18:17Z | CVE-2020-17057 | Null | https://github.com/lsw29475/CVE-2020-17057 | Windows Win32k Elevation of Privilege Vulnerability| 
-| 20210224T13:18:27Z | CVE-2020-0022 | Null | https://github.com/lsw29475/CVE-2020-0022 | In reassemble_and_dispatch of packet_fragmenter.cc, there is possible out of bounds write due to an incorrect bounds calculation. This could lead to remote code execution over Bluetooth with no additional execution privileges needed. User interaction is not needed for exploitation.Product: AndroidVersions: Android-8.0 Android-8.1 Android-9 Android-10Android ID: A-143894715| 
+| 20210224T13:18:27Z | CVE-2020-0022 | Null | https://github.com/lsw29475/CVE-2020-0022 | | 
 | 20210224T13:09:47Z | CVE-2021-21972 | VMSA-2021-0002 | https://github.com/ThanHuuTuan/CVE-2021-21972 | 未查询到CVE信息| 
 | 20210224T12:43:56Z | CVE-2021-26904 | LMA ISIDA Retriever 5.2 allows SQL Injection | https://github.com/Security-AVS/-CVE-2021-26904 | 未查询到CVE信息| 
 | 20210224T12:40:09Z | CVE-2021-26903 | ISIDA RETRIEVER v5.2" Reflected XSS | https://github.com/Security-AVS/CVE-2021-26903 | 未查询到CVE信息| 
@@ -61,8 +61,8 @@
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210225T01:40:47Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 的 Klee One 的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 102 | 3| 
 | 20210224T21:09:42Z | Null | https://github.com/abbykleespie/LAWeek4AbbyKleespie.appstudio | 0 | 0| 
-| 20210224T17:28:29Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 的 Klee One 的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 101 | 3| 
 | 20210224T16:51:12Z | RVT is a collection of tools/libraries to support both static and dynamic verification of Rust programs. | https://github.com/project-oak/rust-verification-tools | 108 | 7| 
 | 20210224T10:01:07Z | a leetcode question each day, your salary increment $100 per day | https://github.com/guoxiangCN/kLeetcode | 0 | 0| 
 | 20210224T09:27:44Z | Safe KLEE API for Rust | https://github.com/markhakansson/klee-rs | 0 | 0| 
@@ -86,21 +86,22 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210225T01:08:33Z | All the Lua scripts I developed, including exploit scripts (please only use those for educational purposes) | https://github.com/SkiddDev/Scripts | 0 | 0| 
+| 20210225T01:44:25Z | forked version of funtuna, a homebrew ps2 app launcher designed to ease the pain of getting a stable exploit for those that have a console uncompatible with FreeMcBoot that doesnt have a modchip | https://github.com/israpps/Funtuna-Fork | 2 | 0| 
+| 20210225T01:37:57Z | exploit-database-papers | https://github.com/offensive-security/exploitdb-papers | 282 | 40| 
+| 20210225T01:36:17Z | All the Lua scripts I developed, including exploit scripts (please only use those for educational purposes) | https://github.com/SkiddDev/Scripts | 0 | 0| 
+| 20210225T01:21:25Z | OSINT, Threat Hunting, Network and Web Recon, Discovery, Enumeration, Vulnerability Mapping, Exploitation, Reporting | https://github.com/aryanguenthner/365 | 5 | 2| 
 | 20210225T01:04:32Z | Fixes various exploits that exists in BungeeCord. | https://github.com/acrylic-style/BungeeCordExploitFixer | 0 | 0| 
 | 20210225T01:02:36Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 9 | 4| 
-| 20210225T00:55:36Z | forked version of funtuna, a homebrew ps2 app launcher designed to ease the pain of getting a stable exploit for those that have a console uncompatible with FreeMcBoot that doesnt have a modchip | https://github.com/israpps/Funtuna-Fork | 2 | 0| 
 | 20210225T00:50:12Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 7 | 4| 
 | 20210225T00:48:49Z | An open-source post-exploitation framework for students, researchers and developers. | https://github.com/malwaredllc/byob | 5909 | 1317| 
 | 20210225T00:27:48Z | Various ASM, C and C++ tools, shellcodes and exploit experiments. | https://github.com/forrest-orr/ExploitDev | 51 | 5| 
 | 20210225T00:23:40Z | Repository for new and rebuilt exploit scripts | https://github.com/H4rk3nz0/PenTest-Exploits | 1 | 0| 
-| 20210225T00:18:36Z | This is my new exploit | https://github.com/VitexExploits/CaveX | 0 | 0| 
-| 20210225T00:05:35Z | Script que automatiza la instalación de BeEF (The Browser Exploitation Framework). | https://github.com/tony23x/beef-install | 0 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210225T01:28:09Z | TrojanZoo provides a universal pytorch platform to conduct security researches (especially backdoor attacks/defenses) of image classification in deep learning. | https://github.com/ain-soph/trojanzoo | 43 | 8| 
 | 20210225T00:52:04Z | BaCKDooR PR0JECT, Une backdoor qui vous fera gagner du temps. (c%est mieux de la mettre dans une clé usb pour gagner du temps), Ouvrez Bckdr.bat et tout se fera tout seul. | https://github.com/3133gvng/BCKDR_PR0JECT | 1 | 0| 
 | 20210225T00:37:23Z | Python Backdoor Generator | https://github.com/grenoxx/Back-X | 5 | 1| 
 | 20210224T22:34:46Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 175 | 26| 
@@ -110,22 +111,21 @@
 | 20210224T15:11:14Z | Thefatrat a massive exploiting tool : Easy tool to generate backdoor and easy tool to post exploitation attack like browser attack and etc . This tool compiles a malware with popular payload and then the compiled malware can be execute on windows, android, mac . The malware that created with this tool also have an ability to bypass most AV software protection . | https://github.com/Screetsec/TheFatRat | 4971 | 1641| 
 | 20210224T14:53:08Z | A sample app to demonstrate how to create Xamarin UITests using the Page Object architecture, Backdoor Methods and App Links (aka Deep Linking) | https://github.com/brminnick/UITestSampleApp | 32 | 25| 
 | 20210224T14:17:24Z | Null | https://github.com/Wiilldd/backdoor | 0 | 0| 
-| 20210224T13:34:31Z | Null | https://github.com/iK4oS/backdoor.exe | 1 | 3| 
 
 
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210225T00:54:11Z | 📖 Guides and tutorials on how to fuzz Rust code | https://github.com/rust-fuzz/book | 49 | 11| 
+| 20210225T01:46:38Z | Jupyter notebook relativo al corso Fuzzy 2021. Prof. Gaetano Vitale | https://github.com/antonioparadiso/Corso_fuzzy_2021 | 0 | 0| 
+| 20210225T01:29:11Z | Null | https://github.com/OneTesseractInMultiverse/fuzzy-guacamole | 0 | 0| 
+| 20210225T01:28:55Z | 📖 Guides and tutorials on how to fuzz Rust code | https://github.com/rust-fuzz/book | 51 | 11| 
+| 20210225T01:16:52Z | To make fuzzing Rust easy | https://github.com/smoelius/test-fuzz | 0 | 0| 
 | 20210225T00:40:59Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 5967 | 1197| 
 | 20210225T00:26:19Z | Null | https://github.com/PBearson/MQTT_Fuzzer | 0 | 0| 
 | 20210225T00:10:54Z | Null | https://github.com/Zahnen/fuzzbeed | 1 | 0| 
 | 20210224T23:51:18Z | Tesina realizzata per il corso di logica Fuzzy del professore Gaetano Vitale | https://github.com/Darkdev88/corso_fuzzy_2021 | 0 | 0| 
 | 20210224T23:28:34Z | A cross-platform browser fuzzing framework | https://github.com/MozillaSecurity/grizzly | 233 | 31| 
-| 20210224T23:24:42Z | To make fuzzing Rust easy | https://github.com/smoelius/test-fuzz | 0 | 0| 
 | 20210224T23:22:58Z | machine learning project 1 | https://github.com/WeiminZhao/projFuzzy | 0 | 0| 
-| 20210224T22:41:27Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2271 | 116| 
-| 20210224T22:32:35Z | Ethereum smart contract fuzzer | https://github.com/crytic/echidna | 554 | 94| 
 
 
 

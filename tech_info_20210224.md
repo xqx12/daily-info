@@ -30,7 +30,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20210224T13:18:27Z | CVE-2020-0022 | Null | https://github.com/lsw29475/CVE-2020-0022 | In reassemble_and_dispatch of packet_fragmenter.cc, there is possible out of bounds write due to an incorrect bounds calculation. This could lead to remote code execution over Bluetooth with no additional execution privileges needed. User interaction is not needed for exploitation.Product: AndroidVersions: Android-8.0 Android-8.1 Android-9 Android-10Android ID: A-143894715| 
+| 20210224T13:18:27Z | CVE-2020-0022 | Null | https://github.com/lsw29475/CVE-2020-0022 | | 
 | 20210224T13:09:47Z | CVE-2021-21972 | VMSA-2021-0002 | https://github.com/ThanHuuTuan/CVE-2021-21972 | 未查询到CVE信息| 
 | 20210224T12:43:56Z | CVE-2021-26904 | LMA ISIDA Retriever 5.2 allows SQL Injection | https://github.com/Security-AVS/-CVE-2021-26904 | 未查询到CVE信息| 
 | 20210224T12:40:09Z | CVE-2021-26903 | ISIDA RETRIEVER v5.2" Reflected XSS | https://github.com/Security-AVS/CVE-2021-26903 | 未查询到CVE信息| 
@@ -43,7 +43,6 @@
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
 | 20210224T21:09:42Z | Null | https://github.com/abbykleespie/LAWeek4AbbyKleespie.appstudio | 0 | 0| 
-| 20210224T17:28:29Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 的 Klee One 的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 101 | 3| 
 | 20210224T16:51:12Z | RVT is a collection of tools/libraries to support both static and dynamic verification of Rust programs. | https://github.com/project-oak/rust-verification-tools | 108 | 7| 
 | 20210224T10:01:07Z | a leetcode question each day, your salary increment $100 per day | https://github.com/guoxiangCN/kLeetcode | 0 | 0| 
 | 20210224T09:27:44Z | Safe KLEE API for Rust | https://github.com/markhakansson/klee-rs | 0 | 0| 
@@ -91,7 +90,6 @@
 | --- | --- | --- | --- | ---| 
 | 20210224T23:51:18Z | Tesina realizzata per il corso di logica Fuzzy del professore Gaetano Vitale | https://github.com/Darkdev88/corso_fuzzy_2021 | 0 | 0| 
 | 20210224T23:28:34Z | A cross-platform browser fuzzing framework | https://github.com/MozillaSecurity/grizzly | 233 | 31| 
-| 20210224T23:24:42Z | To make fuzzing Rust easy | https://github.com/smoelius/test-fuzz | 0 | 0| 
 | 20210224T23:22:58Z | machine learning project 1 | https://github.com/WeiminZhao/projFuzzy | 0 | 0| 
 | 20210224T22:41:27Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2271 | 116| 
 | 20210224T22:32:35Z | Ethereum smart contract fuzzer | https://github.com/crytic/echidna | 554 | 94| 
@@ -99,6 +97,7 @@
 | 20210224T21:48:40Z | Null | https://github.com/opimentel-github/fuzzy-torch | 0 | 0| 
 | 20210224T21:41:11Z | Null | https://github.com/longhike/fuzzy-enigma | 0 | 0| 
 | 20210224T21:17:39Z | Experiments with verificarlo and fmriprep (BrainHack 2020ish) | https://github.com/glatard/fuzzy-fmriprep | 0 | 0| 
+| 20210224T21:13:27Z | Repo for my personal website | https://github.com/FuzzyReason/fuzzyreason.io | 1 | 0| 
 
 
 
