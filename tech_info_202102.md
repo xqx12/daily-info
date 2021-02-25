@@ -86,7 +86,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210225T00:58:16Z | Fixes various exploits that exists in BungeeCord. | https://github.com/acrylic-style/BungeeCordExploitFixer | 0 | 0| 
+| 20210225T01:04:32Z | Fixes various exploits that exists in BungeeCord. | https://github.com/acrylic-style/BungeeCordExploitFixer | 0 | 0| 
+| 20210225T01:02:36Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 9 | 4| 
 | 20210225T00:55:36Z | forked version of funtuna, a homebrew ps2 app launcher designed to ease the pain of getting a stable exploit for those that have a console uncompatible with FreeMcBoot that doesnt have a modchip | https://github.com/israpps/Funtuna-Fork | 2 | 0| 
 | 20210225T00:53:22Z | All the Lua scripts I developed, including exploit scripts (please only use those for educational purposes) | https://github.com/SkiddDev/Scripts | 0 | 0| 
 | 20210225T00:50:12Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 7 | 4| 
@@ -95,7 +96,6 @@
 | 20210225T00:23:40Z | Repository for new and rebuilt exploit scripts | https://github.com/H4rk3nz0/PenTest-Exploits | 1 | 0| 
 | 20210225T00:18:36Z | This is my new exploit | https://github.com/VitexExploits/CaveX | 0 | 0| 
 | 20210225T00:05:35Z | Script que automatiza la instalación de BeEF (The Browser Exploitation Framework). | https://github.com/tony23x/beef-install | 0 | 0| 
-| 20210225T00:02:27Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 9 | 4| 
 
 
 # backdoor on Github 推荐
