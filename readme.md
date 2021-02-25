@@ -32,8 +32,8 @@
 | --- | --- | --- | --- | ---| 
 | 20210224T13:18:27Z | CVE-2020-0022 | Null | https://github.com/lsw29475/CVE-2020-0022 | In reassemble_and_dispatch of packet_fragmenter.cc, there is possible out of bounds write due to an incorrect bounds calculation. This could lead to remote code execution over Bluetooth with no additional execution privileges needed. User interaction is not needed for exploitation.Product: AndroidVersions: Android-8.0 Android-8.1 Android-9 Android-10Android ID: A-143894715| 
 | 20210224T13:09:47Z | CVE-2021-21972 | VMSA-2021-0002 | https://github.com/ThanHuuTuan/CVE-2021-21972 | 未查询到CVE信息| 
-| 20210224T12:43:56Z | CVE-2021-26904 | LMA ISIDA Retriever 5.2 allows SQL Injection | https://github.com/Security-AVS/-CVE-2021-26904 | | 
-| 20210224T12:40:09Z | CVE-2021-26903 | ISIDA RETRIEVER v5.2" Reflected XSS | https://github.com/Security-AVS/CVE-2021-26903 | 未查询到CVE信息| 
+| 20210224T12:43:56Z | CVE-2021-26904 | LMA ISIDA Retriever 5.2 allows SQL Injection | https://github.com/Security-AVS/-CVE-2021-26904 | 未查询到CVE信息| 
+| 20210224T12:40:09Z | CVE-2021-26903 | ISIDA RETRIEVER v5.2" Reflected XSS | https://github.com/Security-AVS/CVE-2021-26903 | | 
 | 20210224T10:57:22Z | CVE-2021-3327 | CVE-2021-3327 | https://github.com/IthacaLabs/CVE-2021-3327 | 未查询到CVE信息| 
 | 20210224T09:04:01Z | CVE-2021-1727 | Null | https://github.com/klinix5/CVE-2021-1727 | 未查询到CVE信息| 
 | 20210224T00:17:45Z | CVE-2020-0082 | This repo contains a proof-of-concept for 📱🚀👑⚡, a deserialization vuln for local escalation of privilege to system_server in Android 10. This proof-of-concept only activates a privileged intent. | https://github.com/0x742/CVE-2020-0082-ExternalVibration | In ExternalVibration of ExternalVibration.java, there is a possible activation of an arbitrary intent due to unsafe deserialization. This could lead to local escalation of privilege to system_server with no additional execution privileges needed. User interaction is not needed for exploitation.Product: AndroidVersions: Android-10Android ID: A-140417434| 
