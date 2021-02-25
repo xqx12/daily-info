@@ -46,9 +46,9 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20210225T02:30:11Z | CVE-2021-21972 | CVE-2021-21972 Exploit | https://github.com/NS-Sp4ce/CVE-2021-21972 | The vSphere Client (HTML5) contains a remote code execution vulnerability in a vCenter Server plugin. A malicious actor with network access to port 443 may exploit this issue to execute commands with unrestricted privileges on the underlying operating system that hosts vCenter Server. This affects VMware vCenter Server (7.x before 7.0 U1c, 6.7 before 6.7 U3l and 6.5 before 6.5 U3n) and VMware Cloud Foundation (4.x before 4.2 and 3.x before 3.10.1.2).| 
-| 20210225T02:24:52Z | CVE-2021-21972 | Proof of Concept Exploit for vCenter CVE-2021-21972 | https://github.com/horizon3ai/CVE-2021-21972 | The vSphere Client (HTML5) contains a remote code execution vulnerability in a vCenter Server plugin. A malicious actor with network access to port 443 may exploit this issue to execute commands with unrestricted privileges on the underlying operating system that hosts vCenter Server. This affects VMware vCenter Server (7.x before 7.0 U1c, 6.7 before 6.7 U3l and 6.5 before 6.5 U3n) and VMware Cloud Foundation (4.x before 4.2 and 3.x before 3.10.1.2).| 
-| 20210225T02:16:49Z | CVE-2021-21972 | Null | https://github.com/QmF0c3UK/CVE-2021-21972-vCenter-6.5-7.0-RCE-POC | The vSphere Client (HTML5) contains a remote code execution vulnerability in a vCenter Server plugin. A malicious actor with network access to port 443 may exploit this issue to execute commands with unrestricted privileges on the underlying operating system that hosts vCenter Server. This affects VMware vCenter Server (7.x before 7.0 U1c, 6.7 before 6.7 U3l and 6.5 before 6.5 U3n) and VMware Cloud Foundation (4.x before 4.2 and 3.x before 3.10.1.2).| 
+| 20210225T02:47:24Z | CVE-2021-21972 | Null | https://github.com/QmF0c3UK/CVE-2021-21972-vCenter-6.5-7.0-RCE-POC | The vSphere Client (HTML5) contains a remote code execution vulnerability in a vCenter Server plugin. A malicious actor with network access to port 443 may exploit this issue to execute commands with unrestricted privileges on the underlying operating system that hosts vCenter Server. This affects VMware vCenter Server (7.x before 7.0 U1c, 6.7 before 6.7 U3l and 6.5 before 6.5 U3n) and VMware Cloud Foundation (4.x before 4.2 and 3.x before 3.10.1.2).| 
+| 20210225T02:44:53Z | CVE-2021-21972 | CVE-2021-21972 Exploit | https://github.com/NS-Sp4ce/CVE-2021-21972 | | 
+| 20210225T02:37:13Z | CVE-2021-21972 | Proof of Concept Exploit for vCenter CVE-2021-21972 | https://github.com/horizon3ai/CVE-2021-21972 | The vSphere Client (HTML5) contains a remote code execution vulnerability in a vCenter Server plugin. A malicious actor with network access to port 443 may exploit this issue to execute commands with unrestricted privileges on the underlying operating system that hosts vCenter Server. This affects VMware vCenter Server (7.x before 7.0 U1c, 6.7 before 6.7 U3l and 6.5 before 6.5 U3n) and VMware Cloud Foundation (4.x before 4.2 and 3.x before 3.10.1.2).| 
 | 20210225T00:35:40Z | CVE-2021-21972 | Null | https://github.com/yaunsky/CVE-2021-21972 | The vSphere Client (HTML5) contains a remote code execution vulnerability in a vCenter Server plugin. A malicious actor with network access to port 443 may exploit this issue to execute commands with unrestricted privileges on the underlying operating system that hosts vCenter Server. This affects VMware vCenter Server (7.x before 7.0 U1c, 6.7 before 6.7 U3l and 6.5 before 6.5 U3n) and VMware Cloud Foundation (4.x before 4.2 and 3.x before 3.10.1.2).| 
 | 20210225T00:18:17Z | CVE-2020-17057 | Null | https://github.com/lsw29475/CVE-2020-17057 | Windows Win32k Elevation of Privilege Vulnerability| 
 | 20210224T13:18:27Z | CVE-2020-0022 | Null | https://github.com/lsw29475/CVE-2020-0022 | In reassemble_and_dispatch of packet_fragmenter.cc, there is possible out of bounds write due to an incorrect bounds calculation. This could lead to remote code execution over Bluetooth with no additional execution privileges needed. User interaction is not needed for exploitation.Product: AndroidVersions: Android-8.0 Android-8.1 Android-9 Android-10Android ID: A-143894715| 
@@ -86,8 +86,9 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210225T02:42:16Z |  Exploit web server MiniHTTPD untuk membuat CPU Windows Server 2003 menjadi bekerja 100% | https://github.com/kurniawandata/exploitminihttpdforwinserver | 2 | 2| 
+| 20210225T02:40:30Z | forked version of funtuna, a homebrew ps2 app launcher designed to ease the pain of getting a stable exploit for those that have a console uncompatible with FreeMcBoot that doesnt have a modchip | https://github.com/israpps/Funtuna-Fork | 2 | 0| 
 | 20210225T02:24:00Z | This is my new exploit | https://github.com/VitexExploits/CaveX | 0 | 0| 
-| 20210225T02:13:54Z | forked version of funtuna, a homebrew ps2 app launcher designed to ease the pain of getting a stable exploit for those that have a console uncompatible with FreeMcBoot that doesnt have a modchip | https://github.com/israpps/Funtuna-Fork | 2 | 0| 
 | 20210225T02:09:40Z | All the Lua scripts I developed, including exploit scripts (please only use those for educational purposes) | https://github.com/SkiddDev/Scripts | 0 | 0| 
 | 20210225T02:05:27Z | Repository Containing things that I used on my exploitdev study | https://github.com/pwnprince/ExploitdevStudy | 0 | 0| 
 | 20210225T02:02:42Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 9 | 4| 
@@ -95,12 +96,12 @@
 | 20210225T01:21:25Z | OSINT, Threat Hunting, Network and Web Recon, Discovery, Enumeration, Vulnerability Mapping, Exploitation, Reporting | https://github.com/aryanguenthner/365 | 5 | 2| 
 | 20210225T01:04:32Z | Fixes various exploits that exists in BungeeCord. | https://github.com/acrylic-style/BungeeCordExploitFixer | 0 | 0| 
 | 20210225T00:50:12Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 7 | 4| 
-| 20210225T00:48:49Z | An open-source post-exploitation framework for students, researchers and developers. | https://github.com/malwaredllc/byob | 5909 | 1317| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210225T02:37:35Z | Thefatrat a massive exploiting tool : Easy tool to generate backdoor and easy tool to post exploitation attack like browser attack and etc . This tool compiles a malware with popular payload and then the compiled malware can be execute on windows, android, mac . The malware that created with this tool also have an ability to bypass most AV software protection . | https://github.com/Screetsec/TheFatRat | 4972 | 1641| 
 | 20210225T01:28:09Z | TrojanZoo provides a universal pytorch platform to conduct security researches (especially backdoor attacks/defenses) of image classification in deep learning. | https://github.com/ain-soph/trojanzoo | 43 | 8| 
 | 20210225T00:52:04Z | BaCKDooR PR0JECT, Une backdoor qui vous fera gagner du temps. (c%est mieux de la mettre dans une clé usb pour gagner du temps), Ouvrez Bckdr.bat et tout se fera tout seul. | https://github.com/3133gvng/BCKDR_PR0JECT | 1 | 0| 
 | 20210225T00:37:23Z | Python Backdoor Generator | https://github.com/grenoxx/Back-X | 5 | 1| 
@@ -108,7 +109,6 @@
 | 20210224T20:41:13Z | Null | https://github.com/EjHvorSerDuVildUdJim/backdoor | 0 | 0| 
 | 20210224T18:52:09Z | Null | https://github.com/iK4oS/PremiumBackdoor.exe | 0 | 1| 
 | 20210224T16:55:58Z | backdoor uiuiuiui | https://github.com/zeru2/backdoor | 0 | 0| 
-| 20210224T15:11:14Z | Thefatrat a massive exploiting tool : Easy tool to generate backdoor and easy tool to post exploitation attack like browser attack and etc . This tool compiles a malware with popular payload and then the compiled malware can be execute on windows, android, mac . The malware that created with this tool also have an ability to bypass most AV software protection . | https://github.com/Screetsec/TheFatRat | 4971 | 1641| 
 | 20210224T14:53:08Z | A sample app to demonstrate how to create Xamarin UITests using the Page Object architecture, Backdoor Methods and App Links (aka Deep Linking) | https://github.com/brminnick/UITestSampleApp | 32 | 25| 
 | 20210224T14:17:24Z | Null | https://github.com/Wiilldd/backdoor | 0 | 0| 
 
@@ -116,6 +116,8 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210225T02:43:58Z | Aplikasi untuk fuzzing service http. | https://github.com/kurniawandata/X-code-HTTP-Fuzzer | 2 | 1| 
+| 20210225T02:42:52Z | Aplikasi untuk fuzzing otomatis pada port-port di server | https://github.com/kurniawandata/X-code-Port-Fuzzer-Scanner | 2 | 1| 
 | 20210225T02:23:48Z | Fuzzy Emoji Search | https://github.com/ScottGuthart/fuzzy-emoji | 0 | 0| 
 | 20210225T02:14:20Z | Experiments with verificarlo and fmriprep (BrainHack 2020ish) | https://github.com/glatard/fuzzy-fmriprep | 0 | 0| 
 | 20210225T02:13:59Z | Null | https://github.com/miguellrodrigues/simple_fuzzy | 0 | 0| 
@@ -124,8 +126,6 @@
 | 20210225T01:46:38Z | Jupyter notebook relativo al corso Fuzzy 2021. Prof. Gaetano Vitale | https://github.com/antonioparadiso/Corso_fuzzy_2021 | 0 | 0| 
 | 20210225T01:28:55Z | 📖 Guides and tutorials on how to fuzz Rust code | https://github.com/rust-fuzz/book | 51 | 11| 
 | 20210225T01:16:52Z | To make fuzzing Rust easy | https://github.com/smoelius/test-fuzz | 0 | 0| 
-| 20210225T00:40:59Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 5967 | 1197| 
-| 20210225T00:26:19Z | Null | https://github.com/PBearson/MQTT_Fuzzer | 0 | 0| 
 
 
 

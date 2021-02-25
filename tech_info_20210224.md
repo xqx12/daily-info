@@ -77,12 +77,12 @@
 | 20210224T20:41:13Z | Null | https://github.com/EjHvorSerDuVildUdJim/backdoor | 0 | 0| 
 | 20210224T18:52:09Z | Null | https://github.com/iK4oS/PremiumBackdoor.exe | 0 | 1| 
 | 20210224T16:55:58Z | backdoor uiuiuiui | https://github.com/zeru2/backdoor | 0 | 0| 
-| 20210224T15:11:14Z | Thefatrat a massive exploiting tool : Easy tool to generate backdoor and easy tool to post exploitation attack like browser attack and etc . This tool compiles a malware with popular payload and then the compiled malware can be execute on windows, android, mac . The malware that created with this tool also have an ability to bypass most AV software protection . | https://github.com/Screetsec/TheFatRat | 4971 | 1641| 
 | 20210224T14:53:08Z | A sample app to demonstrate how to create Xamarin UITests using the Page Object architecture, Backdoor Methods and App Links (aka Deep Linking) | https://github.com/brminnick/UITestSampleApp | 32 | 25| 
 | 20210224T14:17:24Z | Null | https://github.com/Wiilldd/backdoor | 0 | 0| 
 | 20210224T13:34:31Z | Null | https://github.com/iK4oS/backdoor.exe | 1 | 3| 
 | 20210224T13:31:31Z | Null | https://github.com/Bubba3370/Backdoor | 0 | 0| 
 | 20210224T13:28:07Z | Null | https://github.com/Bubba3370/Backdoor.exe-Source | 0 | 0| 
+| 20210224T12:21:58Z | Cross Platform Java Remote Access And Post Exploitation Framework targeting Windows with a multitude of features. Built for Penetration Testers. | https://github.com/quantumcored/remote_hacker_probe | 18 | 5| 
 
 
 # fuzz on Github 推荐
