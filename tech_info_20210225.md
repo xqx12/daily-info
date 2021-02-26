@@ -31,11 +31,11 @@
 | 20210225T23:30:14Z | CVE-2021-21972 | Null | https://github.com/alt3kx/CVE-2021-21972 | The vSphere Client (HTML5) contains a remote code execution vulnerability in a vCenter Server plugin. A malicious actor with network access to port 443 may exploit this issue to execute commands with unrestricted privileges on the underlying operating system that hosts vCenter Server. This affects VMware vCenter Server (7.x before 7.0 U1c, 6.7 before 6.7 U3l and 6.5 before 6.5 U3n) and VMware Cloud Foundation (4.x before 4.2 and 3.x before 3.10.1.2).| 
 | 20210225T22:44:30Z | CVE-2021-21972 | Proof of Concept Exploit for vCenter CVE-2021-21972 | https://github.com/horizon3ai/CVE-2021-21972 | The vSphere Client (HTML5) contains a remote code execution vulnerability in a vCenter Server plugin. A malicious actor with network access to port 443 may exploit this issue to execute commands with unrestricted privileges on the underlying operating system that hosts vCenter Server. This affects VMware vCenter Server (7.x before 7.0 U1c, 6.7 before 6.7 U3l and 6.5 before 6.5 U3n) and VMware Cloud Foundation (4.x before 4.2 and 3.x before 3.10.1.2).| 
 | 20210225T21:08:18Z | CVE-2021-21972 | VMware vCenter Server远程代码执行漏洞 (CVE-2021-21972)批量检测脚本 | https://github.com/B1anda0/CVE-2021-21972 | The vSphere Client (HTML5) contains a remote code execution vulnerability in a vCenter Server plugin. A malicious actor with network access to port 443 may exploit this issue to execute commands with unrestricted privileges on the underlying operating system that hosts vCenter Server. This affects VMware vCenter Server (7.x before 7.0 U1c, 6.7 before 6.7 U3l and 6.5 before 6.5 U3n) and VMware Cloud Foundation (4.x before 4.2 and 3.x before 3.10.1.2).| 
-| 20210225T16:53:57Z | CVE-2021-21972 | CVE-2021-21972 | https://github.com/milo2012/CVE-2021-21972 | The vSphere Client (HTML5) contains a remote code execution vulnerability in a vCenter Server plugin. A malicious actor with network access to port 443 may exploit this issue to execute commands with unrestricted privileges on the underlying operating system that hosts vCenter Server. This affects VMware vCenter Server (7.x before 7.0 U1c, 6.7 before 6.7 U3l and 6.5 before 6.5 U3n) and VMware Cloud Foundation (4.x before 4.2 and 3.x before 3.10.1.2).| 
+| 20210225T16:53:57Z | CVE-2021-21972 | CVE-2021-21972 | https://github.com/milo2012/CVE-2021-21972 | | 
 | 20210225T16:52:29Z | CVE-2021-21972 | A vulnerability scanner that detects CVE-2021-21972 vulnerabilities. | https://github.com/Osyanina/westone-CVE-2021-21972-scanner | The vSphere Client (HTML5) contains a remote code execution vulnerability in a vCenter Server plugin. A malicious actor with network access to port 443 may exploit this issue to execute commands with unrestricted privileges on the underlying operating system that hosts vCenter Server. This affects VMware vCenter Server (7.x before 7.0 U1c, 6.7 before 6.7 U3l and 6.5 before 6.5 U3n) and VMware Cloud Foundation (4.x before 4.2 and 3.x before 3.10.1.2).| 
-| 20210225T16:01:54Z | CVE-2020-14882 | CVE-2020-14882 | https://github.com/milo2012/CVE-2020-14882 | | 
-| 20210225T13:15:22Z | CVE-2021-21972 | CVE-2021-21972 | https://github.com/renini/CVE-2021-21972 | The vSphere Client (HTML5) contains a remote code execution vulnerability in a vCenter Server plugin. A malicious actor with network access to port 443 may exploit this issue to execute commands with unrestricted privileges on the underlying operating system that hosts vCenter Server. This affects VMware vCenter Server (7.x before 7.0 U1c, 6.7 before 6.7 U3l and 6.5 before 6.5 U3n) and VMware Cloud Foundation (4.x before 4.2 and 3.x before 3.10.1.2).| 
-| 20210225T11:28:40Z | CVE-2020-14883 | A vulnerability scanner that detects CVE-2020-14883 vulnerabilities. | https://github.com/Osyanina/westone-CVE-2020-14883-scanner | Vulnerability in the Oracle WebLogic Server product of Oracle Fusion Middleware (component: Console). Supported versions that are affected are 10.3.6.0.0, 12.1.3.0.0, 12.2.1.3.0, 12.2.1.4.0 and 14.1.1.0.0. Easily exploitable vulnerability allows high privileged attacker with network access via HTTP to compromise Oracle WebLogic Server. Successful attacks of this vulnerability can result in takeover of Oracle WebLogic Server. CVSS 3.1 Base Score 7.2 (Confidentiality, Integrity and Availability impacts). CVSS Vector: (CVSS:3.1/AV:N/AC:L/PR:H/UI:N/S:U/C:H/I:H/A:H).| 
+| 20210225T16:01:54Z | CVE-2020-14882 | CVE-2020-14882 | https://github.com/milo2012/CVE-2020-14882 | Vulnerability in the Oracle WebLogic Server product of Oracle Fusion Middleware (component: Console). Supported versions that are affected are 10.3.6.0.0, 12.1.3.0.0, 12.2.1.3.0, 12.2.1.4.0 and 14.1.1.0.0. Easily exploitable vulnerability allows unauthenticated attacker with network access via HTTP to compromise Oracle WebLogic Server. Successful attacks of this vulnerability can result in takeover of Oracle WebLogic Server. CVSS 3.1 Base Score 9.8 (Confidentiality, Integrity and Availability impacts). CVSS Vector: (CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H).| 
+| 20210225T13:15:22Z | CVE-2021-21972 | CVE-2021-21972 | https://github.com/renini/CVE-2021-21972 | | 
+| 20210225T11:28:40Z | CVE-2020-14883 | A vulnerability scanner that detects CVE-2020-14883 vulnerabilities. | https://github.com/Osyanina/westone-CVE-2020-14883-scanner | | 
 | 20210225T11:27:31Z | CVE-2020-17519 | A vulnerability scanner that detects CVE-2020-17519 vulnerabilities. | https://github.com/Osyanina/westone-CVE-2020-17519-scanner | A change introduced in Apache Flink 1.11.0 (and released in 1.11.1 and 1.11.2 as well) allows attackers to read any file on the local filesystem of the JobManager through the REST interface of the JobManager process. Access is restricted to files accessible by the JobManager process. All users should upgrade to Flink 1.11.3 or 1.12.0 if their Flink instance(s) are exposed. The issue was fixed in commit b561010b0ee741543c3953306037f00d7a9f0801 from apache/flink:master.| 
 
 
@@ -88,16 +88,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210225T02:43:58Z | Aplikasi untuk fuzzing service http. | https://github.com/kurniawandata/X-code-HTTP-Fuzzer | 2 | 1| 
-| 20210225T02:42:52Z | Aplikasi untuk fuzzing otomatis pada port-port di server | https://github.com/kurniawandata/X-code-Port-Fuzzer-Scanner | 2 | 1| 
-| 20210225T02:23:48Z | Fuzzy Emoji Search | https://github.com/ScottGuthart/fuzzy-emoji | 0 | 0| 
-| 20210225T02:14:20Z | Experiments with verificarlo and fmriprep (BrainHack 2020ish) | https://github.com/glatard/fuzzy-fmriprep | 0 | 0| 
-| 20210225T02:13:59Z | Null | https://github.com/miguellrodrigues/simple_fuzzy | 0 | 0| 
-| 20210225T02:03:05Z | Null | https://github.com/OneTesseractInMultiverse/fuzzy-guacamole | 0 | 0| 
-| 20210225T01:54:39Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2271 | 116| 
-| 20210225T01:46:38Z | Jupyter notebook relativo al corso Fuzzy 2021. Prof. Gaetano Vitale | https://github.com/antonioparadiso/Corso_fuzzy_2021 | 0 | 0| 
-| 20210225T01:28:55Z | 📖 Guides and tutorials on how to fuzz Rust code | https://github.com/rust-fuzz/book | 51 | 11| 
-| 20210225T01:16:52Z | To make fuzzing Rust easy | https://github.com/smoelius/test-fuzz | 0 | 0| 
+| 20210225T23:54:14Z | Command line helpers for fuzzing | https://github.com/rust-fuzz/cargo-fuzz | 712 | 56| 
+| 20210225T23:53:39Z | Ethereum smart contract fuzzer | https://github.com/crytic/echidna | 554 | 94| 
+| 20210225T23:50:38Z | Null | https://github.com/opimentel-github/fuzzy-torch | 0 | 0| 
+| 20210225T22:56:00Z | Null | https://github.com/matusf/open-api-fuzzer | 0 | 0| 
+| 20210225T22:14:56Z | fuzzyset.js - A fuzzy string set for javascript | https://github.com/Glench/fuzzyset.js | 1211 | 99| 
+| 20210225T22:06:42Z | Null | https://github.com/ArchiAngels/fuzzy-octo-fiesta | 0 | 0| 
+| 20210225T21:45:21Z | Null | https://github.com/mhunsake/fuzzy-octo-memory | 0 | 0| 
+| 20210225T21:18:05Z | Fuzzy inference system trained with a genetic algorithm for marketing applications | https://github.com/luzmariamonfilg/FuzzyLogic | 0 | 0| 
+| 20210225T21:17:17Z | FormatFuzzer is a framework for high-efficiency, high-quality generation and parsing of binary inputs. | https://github.com/uds-se/FormatFuzzer | 114 | 12| 
+| 20210225T20:53:22Z | Using different tools to fuzz audit deamon | https://github.com/punnal/Audit-Fuzzing | 1 | 1| 
 
 
 
