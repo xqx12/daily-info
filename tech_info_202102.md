@@ -116,6 +116,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210226T01:40:21Z | Fuzzy AHP Scholarship Desicion | https://github.com/zekhoi/fuzzyahp | 0 | 0| 
 | 20210226T01:34:00Z | Null | https://github.com/Pluviophile-BT/MK_FUZZ | 0 | 0| 
 | 20210226T01:12:29Z | Fuzzing Based on Seed Importance By Interprocedural Control Flow Graph | https://github.com/xiaoxiongwang/FunAFL | 0 | 0| 
 | 20210226T00:47:35Z | Null | https://github.com/mpos2m/fuzzy-octo-palm-tree | 0 | 0| 
@@ -125,7 +126,6 @@
 | 20210225T23:54:14Z | Command line helpers for fuzzing | https://github.com/rust-fuzz/cargo-fuzz | 712 | 56| 
 | 20210225T23:53:39Z | Ethereum smart contract fuzzer | https://github.com/crytic/echidna | 554 | 94| 
 | 20210225T23:50:38Z | Null | https://github.com/opimentel-github/fuzzy-torch | 0 | 0| 
-| 20210225T22:56:00Z | Null | https://github.com/matusf/open-api-fuzzer | 0 | 0| 
 
 
 
