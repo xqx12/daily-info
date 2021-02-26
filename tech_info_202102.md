@@ -46,8 +46,8 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20210226T02:17:54Z | CVE-2021-21972 | CVE-2021-21972 Exploit | https://github.com/NS-Sp4ce/CVE-2021-21972 | The vSphere Client (HTML5) contains a remote code execution vulnerability in a vCenter Server plugin. A malicious actor with network access to port 443 may exploit this issue to execute commands with unrestricted privileges on the underlying operating system that hosts vCenter Server. This affects VMware vCenter Server (7.x before 7.0 U1c, 6.7 before 6.7 U3l and 6.5 before 6.5 U3n) and VMware Cloud Foundation (4.x before 4.2 and 3.x before 3.10.1.2).| 
-| 20210226T02:16:32Z | CVE-2021-21972 | VMware vCenter 未授权RCE（CVE-2021-21972） | https://github.com/conjojo/VMware_vCenter_UNAuthorized_RCE_CVE-2021-21972 | The vSphere Client (HTML5) contains a remote code execution vulnerability in a vCenter Server plugin. A malicious actor with network access to port 443 may exploit this issue to execute commands with unrestricted privileges on the underlying operating system that hosts vCenter Server. This affects VMware vCenter Server (7.x before 7.0 U1c, 6.7 before 6.7 U3l and 6.5 before 6.5 U3n) and VMware Cloud Foundation (4.x before 4.2 and 3.x before 3.10.1.2).| 
+| 20210226T02:35:14Z | CVE-2021-21972 | VMware vCenter 未授权RCE（CVE-2021-21972） | https://github.com/conjojo/VMware_vCenter_UNAuthorized_RCE_CVE-2021-21972 | The vSphere Client (HTML5) contains a remote code execution vulnerability in a vCenter Server plugin. A malicious actor with network access to port 443 may exploit this issue to execute commands with unrestricted privileges on the underlying operating system that hosts vCenter Server. This affects VMware vCenter Server (7.x before 7.0 U1c, 6.7 before 6.7 U3l and 6.5 before 6.5 U3n) and VMware Cloud Foundation (4.x before 4.2 and 3.x before 3.10.1.2).| 
+| 20210226T02:34:11Z | CVE-2021-21972 | CVE-2021-21972 Exploit | https://github.com/NS-Sp4ce/CVE-2021-21972 | The vSphere Client (HTML5) contains a remote code execution vulnerability in a vCenter Server plugin. A malicious actor with network access to port 443 may exploit this issue to execute commands with unrestricted privileges on the underlying operating system that hosts vCenter Server. This affects VMware vCenter Server (7.x before 7.0 U1c, 6.7 before 6.7 U3l and 6.5 before 6.5 U3n) and VMware Cloud Foundation (4.x before 4.2 and 3.x before 3.10.1.2).| 
 | 20210226T02:13:58Z | CVE-2022-0109 | Null | https://github.com/taomujian/CVE-2022-0109 | 未查询到CVE信息| 
 | 20210226T01:57:28Z | CVE-2021-21972 | Null | https://github.com/L-pin/CVE-2021-21972 | The vSphere Client (HTML5) contains a remote code execution vulnerability in a vCenter Server plugin. A malicious actor with network access to port 443 may exploit this issue to execute commands with unrestricted privileges on the underlying operating system that hosts vCenter Server. This affects VMware vCenter Server (7.x before 7.0 U1c, 6.7 before 6.7 U3l and 6.5 before 6.5 U3n) and VMware Cloud Foundation (4.x before 4.2 and 3.x before 3.10.1.2).| 
 | 20210226T01:42:04Z | CVE-2021-21972 | Proof of Concept Exploit for vCenter CVE-2021-21972 | https://github.com/horizon3ai/CVE-2021-21972 | The vSphere Client (HTML5) contains a remote code execution vulnerability in a vCenter Server plugin. A malicious actor with network access to port 443 may exploit this issue to execute commands with unrestricted privileges on the underlying operating system that hosts vCenter Server. This affects VMware vCenter Server (7.x before 7.0 U1c, 6.7 before 6.7 U3l and 6.5 before 6.5 U3n) and VMware Cloud Foundation (4.x before 4.2 and 3.x before 3.10.1.2).| 
@@ -116,16 +116,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210226T01:40:21Z | Fuzzy AHP Scholarship Desicion | https://github.com/zekhoi/fuzzyahp | 0 | 0| 
+| 20210226T02:32:55Z | Null | https://github.com/guardstrikelab/fuzzx_cpp_demo | 0 | 0| 
+| 20210226T02:30:11Z | Scalable fuzzing infrastructure. | https://github.com/google/clusterfuzz | 4440 | 421| 
+| 20210226T02:22:30Z | We conducted a Controlled Experiment on Blackbox Fuzzing of Ethereum Smart Contracts. | https://github.com/TechBeatle/EthereumControlledExperimentBlackBoxFuzzing | 0 | 0| 
+| 20210226T02:21:35Z | This is the main website and system for Ball Fuzz Tennis Center. | https://github.com/Ball-Fuzz-Tennis-Center/tennis-system | 0 | 0| 
+| 20210226T01:55:45Z | Fuzzy AHP Scholarship Desicion | https://github.com/zekhoi/fuzzyahp | 0 | 0| 
 | 20210226T01:34:00Z | Null | https://github.com/Pluviophile-BT/MK_FUZZ | 0 | 0| 
 | 20210226T01:12:29Z | Fuzzing Based on Seed Importance By Interprocedural Control Flow Graph | https://github.com/xiaoxiongwang/FunAFL | 0 | 0| 
 | 20210226T00:47:35Z | Null | https://github.com/mpos2m/fuzzy-octo-palm-tree | 0 | 0| 
 | 20210226T00:39:41Z | Software for fuzzing, used on web application pentestings. | https://github.com/NESCAU-UFLA/FuzzingTool | 6 | 1| 
-| 20210226T00:37:03Z | Scalable fuzzing infrastructure. | https://github.com/google/clusterfuzz | 4439 | 421| 
 | 20210226T00:35:25Z | Fast web fuzzer written in Go | https://github.com/ffuf/ffuf | 3993 | 474| 
-| 20210225T23:54:14Z | Command line helpers for fuzzing | https://github.com/rust-fuzz/cargo-fuzz | 712 | 56| 
-| 20210225T23:53:39Z | Ethereum smart contract fuzzer | https://github.com/crytic/echidna | 554 | 94| 
-| 20210225T23:50:38Z | Null | https://github.com/opimentel-github/fuzzy-torch | 0 | 0| 
 
 
 
