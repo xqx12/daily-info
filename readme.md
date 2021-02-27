@@ -72,7 +72,6 @@
 | --- | --- | --- | --- | ---| 
 | 20210226T22:24:53Z | Fud Persistent Windows Backdoor developed purely in python | https://github.com/swagkarna/Chuvi-Botnet | 12 | 5| 
 | 20210226T20:45:34Z | 🔌 A minecraft plugin which allow you to execute OS commands | https://github.com/L1ghtM4n/BackdoorPlugin | 1 | 0| 
-| 20210226T16:24:02Z | AMWScan (PHP Antimalware Scanner) is a free tool to scan php files and analyze your project to find any malicious code inside it. | https://github.com/marcocesarato/PHP-Antimalware-Scanner | 170 | 31| 
 | 20210226T15:18:45Z | Kumpulan Shell Backdoor  | https://github.com/yogiganzz/Shell | 0 | 0| 
 | 20210226T08:10:37Z | A sample app to demonstrate how to create Xamarin UITests using the Page Object architecture, Backdoor Methods and App Links (aka Deep Linking) | https://github.com/brminnick/UITestSampleApp | 33 | 25| 
 | 20210226T01:08:20Z | Python Backdoor Generator | https://github.com/grenoxx/Back-X | 5 | 1| 
