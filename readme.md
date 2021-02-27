@@ -27,9 +27,9 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20210226T23:47:58Z | CVE-2021-21972 | Proof of Concept Exploit for vCenter CVE-2021-21972 | https://github.com/horizon3ai/CVE-2021-21972 | The vSphere Client (HTML5) contains a remote code execution vulnerability in a vCenter Server plugin. A malicious actor with network access to port 443 may exploit this issue to execute commands with unrestricted privileges on the underlying operating system that hosts vCenter Server. This affects VMware vCenter Server (7.x before 7.0 U1c, 6.7 before 6.7 U3l and 6.5 before 6.5 U3n) and VMware Cloud Foundation (4.x before 4.2 and 3.x before 3.10.1.2).| 
-| 20210226T21:35:54Z | CVE-2021-21972 | Nmap script to check vulnerability CVE-2021-21972 | https://github.com/3dcyber/CVE-2021-21972 | The vSphere Client (HTML5) contains a remote code execution vulnerability in a vCenter Server plugin. A malicious actor with network access to port 443 may exploit this issue to execute commands with unrestricted privileges on the underlying operating system that hosts vCenter Server. This affects VMware vCenter Server (7.x before 7.0 U1c, 6.7 before 6.7 U3l and 6.5 before 6.5 U3n) and VMware Cloud Foundation (4.x before 4.2 and 3.x before 3.10.1.2).| 
-| 20210226T19:42:15Z | CVE-2021-21972 | Null | https://github.com/alt3kx/CVE-2021-21972 | | 
+| 20210226T23:47:58Z | CVE-2021-21972 | Proof of Concept Exploit for vCenter CVE-2021-21972 | https://github.com/horizon3ai/CVE-2021-21972 | | 
+| 20210226T21:35:54Z | CVE-2021-21972 | Nmap script to check vulnerability CVE-2021-21972 | https://github.com/3dcyber/CVE-2021-21972 | | 
+| 20210226T19:42:15Z | CVE-2021-21972 | Null | https://github.com/alt3kx/CVE-2021-21972 | The vSphere Client (HTML5) contains a remote code execution vulnerability in a vCenter Server plugin. A malicious actor with network access to port 443 may exploit this issue to execute commands with unrestricted privileges on the underlying operating system that hosts vCenter Server. This affects VMware vCenter Server (7.x before 7.0 U1c, 6.7 before 6.7 U3l and 6.5 before 6.5 U3n) and VMware Cloud Foundation (4.x before 4.2 and 3.x before 3.10.1.2).| 
 | 20210226T16:51:36Z | CVE-2021-25281 | Chaining CVE-2021-25281 and CVE-2021-25282 to exploit a SaltStack | https://github.com/Immersive-Labs-Sec/CVE-2021-25281 | 未查询到CVE信息| 
 | 20210226T16:28:21Z | CVE-2021-21017 | Null | https://github.com/ZeusBox/CVE-2021-21017 | Acrobat Reader DC versions versions 2020.013.20074 (and earlier), 2020.001.30018 (and earlier) and 2017.011.30188 (and earlier) are affected by a heap-based buffer overflow vulnerability. An unauthenticated attacker could leverage this vulnerability to achieve arbitrary code execution in the context of the current user. Exploitation of this issue requires user interaction in that a victim must open a malicious file.| 
 | 20210226T16:20:04Z | CVE-2021-21972 | VMware vCenter 未授权RCE（CVE-2021-21972） | https://github.com/conjojo/VMware_vCenter_UNAuthorized_RCE_CVE-2021-21972 | The vSphere Client (HTML5) contains a remote code execution vulnerability in a vCenter Server plugin. A malicious actor with network access to port 443 may exploit this issue to execute commands with unrestricted privileges on the underlying operating system that hosts vCenter Server. This affects VMware vCenter Server (7.x before 7.0 U1c, 6.7 before 6.7 U3l and 6.5 before 6.5 U3n) and VMware Cloud Foundation (4.x before 4.2 and 3.x before 3.10.1.2).| 
@@ -55,7 +55,6 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210226T23:23:19Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 3450 | 514| 
 | 20210226T23:01:40Z | Extensible framework for analyzing publicly available information about vulnerabilities | https://github.com/leonov-av/vulristics | 23 | 1| 
 | 20210226T22:28:22Z | All Files, Scripts, and exploits can be found here | https://github.com/LMS57/TempleOfPwn | 1 | 0| 
 | 20210226T22:07:24Z | CTF framework and exploit development library | https://github.com/Gallopsled/pwntools | 7569 | 1359| 
@@ -65,6 +64,7 @@
 | 20210226T21:36:57Z | Discord Voice DDoS Exploit | https://github.com/owersite/discord-voice-ddos | 1 | 0| 
 | 20210226T21:36:45Z | Archive of Discord Tools & Exploits made /  edited / fixed by me  | https://github.com/owersite/discord-exploits | 1 | 0| 
 | 20210226T21:36:41Z | Discord Invisible Tag Exploit | https://github.com/owersite/invisible-tag | 3 | 0| 
+| 20210226T21:36:33Z | Another Discord Exploit! | https://github.com/owersite/edit-exploit | 1 | 0| 
 
 
 # backdoor on Github 推荐
