@@ -101,6 +101,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210227T01:33:00Z | Null | https://github.com/Wiilldd/backdoor | 0 | 0| 
 | 20210227T01:23:40Z | Ghost Framework is an Android post-exploitation framework that exploits the Android Debug Bridge to remotely access an Android device. Ghost Framework gives you the power and convenience of remote Android device administration. | https://github.com/EntySec/ghost | 962 | 483| 
 | 20210227T00:36:03Z | TrojanZoo provides a universal pytorch platform to conduct security researches (especially backdoor attacks/defenses) of image classification in deep learning. | https://github.com/ain-soph/trojanzoo | 45 | 8| 
 | 20210227T00:32:12Z | Cross Platform Java Remote Access And Post Exploitation Framework targeting Windows with a multitude of features. Built for Penetration Testers. | https://github.com/quantumcored/remote_hacker_probe | 25 | 5| 
@@ -110,22 +111,21 @@
 | 20210226T16:24:02Z | AMWScan (PHP Antimalware Scanner) is a free tool to scan php files and analyze your project to find any malicious code inside it. | https://github.com/marcocesarato/PHP-Antimalware-Scanner | 170 | 31| 
 | 20210226T15:18:45Z | Kumpulan Shell Backdoor  | https://github.com/yogiganzz/Shell | 0 | 0| 
 | 20210226T08:10:37Z | A sample app to demonstrate how to create Xamarin UITests using the Page Object architecture, Backdoor Methods and App Links (aka Deep Linking) | https://github.com/brminnick/UITestSampleApp | 33 | 25| 
-| 20210226T01:08:20Z | Python Backdoor Generator | https://github.com/grenoxx/Back-X | 5 | 1| 
 
 
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210226T12:46:06Z | Fuzz test your application using your OpenAPI or Swagger API definition without coding | https://github.com/KissPeter/APIFuzzer | 93 | 32| 
-| 20210226T12:41:38Z | Null | https://github.com/ethereum/solidity-fuzzing-corpus | 10 | 4| 
-| 20210226T12:40:47Z | Course CI/CD using AWS CodePipeline & Elastic Beanstalk by Ali Rizavi | https://github.com/MrREA/FuzzyTelegramPHPWebAppCourse | 0 | 0| 
-| 20210226T11:56:25Z | FLUFFI (Fully Localized Utility For Fuzzing Instantaneously) - A distributed evolutionary binary fuzzer for pentesters | https://github.com/siemens/fluffi | 77 | 15| 
-| 20210226T11:40:37Z | Automatic peering system for dn42 using wg-quick and bird2 | https://github.com/lss233/fuzzy-bassoon | 0 | 0| 
-| 20210226T11:11:04Z | Coverage-guided, in-process fuzzing for the JVM | https://github.com/CodeIntelligenceTesting/jazzer | 187 | 7| 
-| 20210226T10:33:48Z | Null | https://github.com/nguyenanh1997/Fuzzz | 0 | 0| 
-| 20210226T09:59:03Z | The Official Repository of The Fizanto Fuzz App. | https://github.com/fizantofuzz/Fizanto-Fuzz-App | 0 | 0| 
-| 20210226T09:39:05Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 1334 | 293| 
-| 20210226T09:33:55Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 3367 | 778| 
+| 20210227T01:23:42Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2272 | 116| 
+| 20210227T01:14:39Z | A unit test-like interface for fuzzing and symbolic execution | https://github.com/trailofbits/deepstate | 593 | 61| 
+| 20210227T01:11:51Z | Null | https://github.com/miguellrodrigues/simple_fuzzy | 0 | 0| 
+| 20210226T23:17:46Z | Needed help | https://github.com/sarce77/fuzzy-dollop | 0 | 0| 
+| 20210226T22:52:01Z | Null | https://github.com/docfate111/awful-JS-fuzzer | 0 | 0| 
+| 20210226T22:43:05Z | Final project for BMI 540, looking at how entropy can be used to describe fuzzy c-means clustering. | https://github.com/MargaretHall/Fuzzy_cMean_entropy | 0 | 0| 
+| 20210226T22:33:43Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 1334 | 293| 
+| 20210226T22:33:34Z | Automatic Firmware Analysis of Embedded Linux Devices as Preparation for Security Testing / Fuzzing | https://github.com/efi4st/efi4st | 5 | 3| 
+| 20210226T22:03:15Z | Scalable fuzzing infrastructure. | https://github.com/google/clusterfuzz | 4440 | 421| 
+| 20210226T21:53:36Z | jimiPlugin for fuzzy matching of strings | https://github.com/z1pti3/jimiPlugin-fuzzymatch | 0 | 0| 
 
 
 

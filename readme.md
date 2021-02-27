@@ -35,7 +35,7 @@
 | 20210226T16:20:04Z | CVE-2021-21972 | VMware vCenter 未授权RCE（CVE-2021-21972） | https://github.com/conjojo/VMware_vCenter_UNAuthorized_RCE_CVE-2021-21972 | The vSphere Client (HTML5) contains a remote code execution vulnerability in a vCenter Server plugin. A malicious actor with network access to port 443 may exploit this issue to execute commands with unrestricted privileges on the underlying operating system that hosts vCenter Server. This affects VMware vCenter Server (7.x before 7.0 U1c, 6.7 before 6.7 U3l and 6.5 before 6.5 U3n) and VMware Cloud Foundation (4.x before 4.2 and 3.x before 3.10.1.2).| 
 | 20210226T16:11:42Z | CVE-2021-21972 | A vulnerability scanner that detects CVE-2021-21972 vulnerabilities. | https://github.com/Osyanina/westone-CVE-2021-21972-scanner | The vSphere Client (HTML5) contains a remote code execution vulnerability in a vCenter Server plugin. A malicious actor with network access to port 443 may exploit this issue to execute commands with unrestricted privileges on the underlying operating system that hosts vCenter Server. This affects VMware vCenter Server (7.x before 7.0 U1c, 6.7 before 6.7 U3l and 6.5 before 6.5 U3n) and VMware Cloud Foundation (4.x before 4.2 and 3.x before 3.10.1.2).| 
 | 20210226T15:43:00Z | CVE-2021-21972 | CVE-2021-21972 Exploit | https://github.com/NS-Sp4ce/CVE-2021-21972 | The vSphere Client (HTML5) contains a remote code execution vulnerability in a vCenter Server plugin. A malicious actor with network access to port 443 may exploit this issue to execute commands with unrestricted privileges on the underlying operating system that hosts vCenter Server. This affects VMware vCenter Server (7.x before 7.0 U1c, 6.7 before 6.7 U3l and 6.5 before 6.5 U3n) and VMware Cloud Foundation (4.x before 4.2 and 3.x before 3.10.1.2).| 
-| 20210226T11:37:40Z | CVE-2021-21972 | CVE-2021-21972 | https://github.com/milo2012/CVE-2021-21972 | | 
+| 20210226T11:37:40Z | CVE-2021-21972 | CVE-2021-21972 | https://github.com/milo2012/CVE-2021-21972 | The vSphere Client (HTML5) contains a remote code execution vulnerability in a vCenter Server plugin. A malicious actor with network access to port 443 may exploit this issue to execute commands with unrestricted privileges on the underlying operating system that hosts vCenter Server. This affects VMware vCenter Server (7.x before 7.0 U1c, 6.7 before 6.7 U3l and 6.5 before 6.5 U3n) and VMware Cloud Foundation (4.x before 4.2 and 3.x before 3.10.1.2).| 
 | 20210226T09:46:20Z | CVE-2021-21972 | Null | https://github.com/yaunsky/CVE-2021-21972 | The vSphere Client (HTML5) contains a remote code execution vulnerability in a vCenter Server plugin. A malicious actor with network access to port 443 may exploit this issue to execute commands with unrestricted privileges on the underlying operating system that hosts vCenter Server. This affects VMware vCenter Server (7.x before 7.0 U1c, 6.7 before 6.7 U3l and 6.5 before 6.5 U3n) and VMware Cloud Foundation (4.x before 4.2 and 3.x before 3.10.1.2).| 
 
 
@@ -81,16 +81,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210226T12:46:06Z | Fuzz test your application using your OpenAPI or Swagger API definition without coding | https://github.com/KissPeter/APIFuzzer | 93 | 32| 
-| 20210226T12:41:38Z | Null | https://github.com/ethereum/solidity-fuzzing-corpus | 10 | 4| 
-| 20210226T12:40:47Z | Course CI/CD using AWS CodePipeline & Elastic Beanstalk by Ali Rizavi | https://github.com/MrREA/FuzzyTelegramPHPWebAppCourse | 0 | 0| 
-| 20210226T11:56:25Z | FLUFFI (Fully Localized Utility For Fuzzing Instantaneously) - A distributed evolutionary binary fuzzer for pentesters | https://github.com/siemens/fluffi | 77 | 15| 
-| 20210226T11:40:37Z | Automatic peering system for dn42 using wg-quick and bird2 | https://github.com/lss233/fuzzy-bassoon | 0 | 0| 
-| 20210226T11:11:04Z | Coverage-guided, in-process fuzzing for the JVM | https://github.com/CodeIntelligenceTesting/jazzer | 187 | 7| 
-| 20210226T10:33:48Z | Null | https://github.com/nguyenanh1997/Fuzzz | 0 | 0| 
-| 20210226T09:59:03Z | The Official Repository of The Fizanto Fuzz App. | https://github.com/fizantofuzz/Fizanto-Fuzz-App | 0 | 0| 
-| 20210226T09:39:05Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 1334 | 293| 
-| 20210226T09:33:55Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 3367 | 778| 
+| 20210226T23:17:46Z | Needed help | https://github.com/sarce77/fuzzy-dollop | 0 | 0| 
+| 20210226T22:52:01Z | Null | https://github.com/docfate111/awful-JS-fuzzer | 0 | 0| 
+| 20210226T22:43:05Z | Final project for BMI 540, looking at how entropy can be used to describe fuzzy c-means clustering. | https://github.com/MargaretHall/Fuzzy_cMean_entropy | 0 | 0| 
+| 20210226T22:33:43Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 1334 | 293| 
+| 20210226T22:33:34Z | Automatic Firmware Analysis of Embedded Linux Devices as Preparation for Security Testing / Fuzzing | https://github.com/efi4st/efi4st | 5 | 3| 
+| 20210226T22:03:15Z | Scalable fuzzing infrastructure. | https://github.com/google/clusterfuzz | 4440 | 421| 
+| 20210226T21:53:36Z | jimiPlugin for fuzzy matching of strings | https://github.com/z1pti3/jimiPlugin-fuzzymatch | 0 | 0| 
+| 20210226T21:51:48Z | Null | https://github.com/ElizBth/Reactive-Navigation-Under-a-Fuzzy-Rules-Based-Scheme-and-Reinforcement-Learning | 0 | 0| 
+| 20210226T20:49:59Z | 🏆 Collection of bugs uncovered by fuzzing Rust code | https://github.com/rust-fuzz/trophy-case | 219 | 34| 
+| 20210226T20:42:56Z | Null | https://github.com/Iffern/FuzzyLogic | 0 | 0| 
 
 
 
