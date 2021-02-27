@@ -101,6 +101,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210227T01:23:40Z | Ghost Framework is an Android post-exploitation framework that exploits the Android Debug Bridge to remotely access an Android device. Ghost Framework gives you the power and convenience of remote Android device administration. | https://github.com/EntySec/ghost | 962 | 483| 
 | 20210227T00:36:03Z | TrojanZoo provides a universal pytorch platform to conduct security researches (especially backdoor attacks/defenses) of image classification in deep learning. | https://github.com/ain-soph/trojanzoo | 45 | 8| 
 | 20210227T00:32:12Z | Cross Platform Java Remote Access And Post Exploitation Framework targeting Windows with a multitude of features. Built for Penetration Testers. | https://github.com/quantumcored/remote_hacker_probe | 25 | 5| 
 | 20210227T00:09:43Z | Thefatrat a massive exploiting tool : Easy tool to generate backdoor and easy tool to post exploitation attack like browser attack and etc . This tool compiles a malware with popular payload and then the compiled malware can be execute on windows, android, mac . The malware that created with this tool also have an ability to bypass most AV software protection . | https://github.com/Screetsec/TheFatRat | 4978 | 1642| 
@@ -110,7 +111,6 @@
 | 20210226T15:18:45Z | Kumpulan Shell Backdoor  | https://github.com/yogiganzz/Shell | 0 | 0| 
 | 20210226T08:10:37Z | A sample app to demonstrate how to create Xamarin UITests using the Page Object architecture, Backdoor Methods and App Links (aka Deep Linking) | https://github.com/brminnick/UITestSampleApp | 33 | 25| 
 | 20210226T01:08:20Z | Python Backdoor Generator | https://github.com/grenoxx/Back-X | 5 | 1| 
-| 20210225T20:44:22Z | Null | https://github.com/Wiilldd/backdoor | 0 | 0| 
 
 
 # fuzz on Github 推荐
