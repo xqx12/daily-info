@@ -116,16 +116,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210228T02:47:36Z | PerformanceFuzzer | https://github.com/KKimj/PerformanceFuzzer | 1 | 0| 
-| 20210228T01:47:02Z | Null | https://github.com/matthewlong29/fuzzy-guacamole | 0 | 0| 
-| 20210228T01:32:29Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2273 | 116| 
-| 20210228T00:12:37Z | Fuzzy charrs are fuzzy. | https://github.com/marenubium87/FuzzyCharr | 0 | 0| 
-| 20210228T00:11:30Z | Repo for my personal website | https://github.com/FuzzyReason/fuzzyreason.io | 1 | 0| 
-| 20210227T23:55:58Z | interactive `git` with the help of `fzf` | https://github.com/bigH/git-fuzzy | 1709 | 33| 
-| 20210227T21:35:14Z | Null | https://github.com/rkizilnik5939/fuzzy-eureka | 0 | 0| 
-| 20210227T20:48:36Z | Ambitious coward | https://github.com/ravenmine/fuzzy-lamp | 0 | 0| 
-| 20210227T20:14:47Z | no fuzz configurator | https://github.com/roxiness/configent | 7 | 0| 
-| 20210227T19:58:30Z | Hi thre, I%m TRÄW🤟🏻, i%m a beginner in ethical hacking and Content Creator on Level iv Security & NOOBSEC. I Spend most of time coding outstanding ethical hacking projects or recording useful short tutorials . I love programming ethical hacking tools, fuzzing and hacking all the things | https://github.com/spectertraww/spectertraww | 1 | 0| 
+| 20210228T13:00:39Z | PerformanceFuzzer | https://github.com/KKimj/PerformanceFuzzer | 1 | 0| 
+| 20210228T11:19:56Z | Join tables together on inexact matching | https://github.com/dgrtwo/fuzzyjoin | 537 | 56| 
+| 20210228T10:56:38Z | Generate code for json encoders/decoders, codecs, fuzzers, generators, and more | https://github.com/MartinSStewart/elm-review-todo-it-for-me | 0 | 0| 
+| 20210228T10:55:17Z | The code behind getfursu.it | https://github.com/veelkoov/fuzzrake | 6 | 0| 
+| 20210228T10:51:32Z | Fast web fuzzer written in Go | https://github.com/ffuf/ffuf | 4019 | 478| 
+| 20210228T10:35:11Z | Simple SQL table fuzzing | https://github.com/PumpkinSeed/sqlfuzz | 6 | 3| 
+| 20210228T10:16:43Z | Personal website of Laurence Hughes | https://github.com/fuzzylogicxx/fuzzylogic | 4 | 1| 
+| 20210228T09:01:44Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 1335 | 293| 
+| 20210228T08:24:54Z | Null | https://github.com/Ishaan29/fuzzy-chainsaw-algo | 1 | 0| 
+| 20210228T06:17:52Z | A simple python module to leverage fuzzy control algorithms. | https://github.com/KiLJ4EdeN/fuzzc | 4 | 3| 
 
 
 
