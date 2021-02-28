@@ -44,6 +44,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210228T13:04:37Z | Vulnserver PoCs for basic Windows exploitation exercises | https://github.com/panosylr/vulnserver | 0 | 0| 
 | 20210228T13:02:23Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 9 | 4| 
 | 20210228T12:59:13Z | Exploration-Exploitation using MAB | https://github.com/aegoe/MAB | 0 | 1| 
 | 20210228T12:36:16Z | Pupy is an opensource, cross-platform (Windows, Linux, OSX, Android) remote administration and post-exploitation tool mainly written in python | https://github.com/n1nj4sec/pupy | 6175 | 1585| 
@@ -53,7 +54,6 @@
 | 20210228T11:31:34Z | A container analysis and exploitation tool for pentesters and engineers. | https://github.com/brompwnie/botb | 406 | 38| 
 | 20210228T11:25:22Z | Ladon Pentest Scanner framework  全平台LadonGo开源内网渗透扫描器框架，使用它可轻松一键批量探测C段、B段、A段存活主机、高危漏洞检测MS17010、SmbGhost，远程执行SSH/Winrm，密码爆破SMB/SSH/FTP/Mysql/Mssql/Oracle/Winrm/HttpBasic/Redis，端口扫描服务识别PortScan指纹识别/HttpBanner/HttpTitle/TcpBanner/Weblogic/Oxid多网卡主机，端口扫描服务识别PortScan。 | https://github.com/k8gege/LadonGo | 344 | 68| 
 | 20210228T11:22:43Z | K8博客内容存档 | https://github.com/k8gege/k8gege.github.io | 11 | 6| 
-| 20210228T10:31:03Z | Repository for new and rebuilt exploit scripts | https://github.com/H4rk3nz0/PenTest-Exploits | 1 | 0| 
 
 
 # backdoor on Github 推荐
