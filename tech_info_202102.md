@@ -86,8 +86,9 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210228T02:23:32Z | Null | https://github.com/kira-Developer/Exploit | 0 | 0| 
+| 20210228T02:22:24Z | All the Lua scripts I developed, including exploit scripts (please only use those for educational purposes) | https://github.com/SkiddDev/Scripts | 0 | 0| 
 | 20210228T02:02:35Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 9 | 4| 
-| 20210228T01:30:50Z | All the Lua scripts I developed, including exploit scripts (please only use those for educational purposes) | https://github.com/SkiddDev/Scripts | 0 | 0| 
 | 20210228T01:15:33Z | Exploits project Hacking Command Center | https://github.com/chacka0101/exploits | 3 | 6| 
 | 20210228T00:56:55Z | An open-source post-exploitation framework for students, researchers and developers. | https://github.com/malwaredllc/byob | 5924 | 1321| 
 | 20210228T00:01:10Z | Extensible framework for analyzing publicly available information about vulnerabilities | https://github.com/leonov-av/vulristics | 23 | 1| 
@@ -95,7 +96,6 @@
 | 20210227T23:41:50Z | every roblox exploit/script made by me | https://github.com/itsrucky/allmyexploitingstuff | 0 | 1| 
 | 20210227T23:03:07Z | Shadow Strike is a exploitation framework that aids in information gathering, payload generation, payload delivery, and website exploitation. | https://github.com/diegomardian/ShadowStrike | 2 | 1| 
 | 20210227T22:44:20Z | Fixes various exploits that exists in BungeeCord. | https://github.com/acrylic-style/BungeeCordExploitFixer | 1 | 0| 
-| 20210227T22:13:15Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9063 | 1456| 
 
 
 # backdoor on Github 推荐
