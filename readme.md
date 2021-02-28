@@ -74,10 +74,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210227T01:58:23Z | This is the main website and system for Ball Fuzz Tennis Center. | https://github.com/Ball-Fuzz-Tennis-Center/tennis-system | 0 | 0| 
-| 20210227T01:23:42Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2272 | 116| 
-| 20210227T01:14:39Z | A unit test-like interface for fuzzing and symbolic execution | https://github.com/trailofbits/deepstate | 593 | 61| 
-| 20210227T01:11:51Z | Null | https://github.com/miguellrodrigues/simple_fuzzy | 0 | 0| 
+| 20210227T23:55:58Z | interactive `git` with the help of `fzf` | https://github.com/bigH/git-fuzzy | 1709 | 33| 
+| 20210227T21:35:14Z | Null | https://github.com/rkizilnik5939/fuzzy-eureka | 0 | 0| 
+| 20210227T20:48:36Z | Ambitious coward | https://github.com/ravenmine/fuzzy-lamp | 0 | 0| 
+| 20210227T20:14:47Z | no fuzz configurator | https://github.com/roxiness/configent | 7 | 0| 
+| 20210227T19:58:30Z | Hi thre, I%m TRÄW🤟🏻, i%m a beginner in ethical hacking and Content Creator on Level iv Security & NOOBSEC. I Spend most of time coding outstanding ethical hacking projects or recording useful short tutorials . I love programming ethical hacking tools, fuzzing and hacking all the things | https://github.com/spectertraww/spectertraww | 1 | 0| 
+| 20210227T19:45:52Z | Simple SQL table fuzzing | https://github.com/PumpkinSeed/sqlfuzz | 6 | 3| 
+| 20210227T19:24:13Z | A fork and successor of the Sulley Fuzzing Framework | https://github.com/jtpereyda/boofuzz | 1157 | 235| 
+| 20210227T18:47:52Z | Fuzzy name matching in R | https://github.com/kkakey/fuzzy_name_matching | 0 | 0| 
+| 20210227T18:42:09Z | Null | https://github.com/shuntrho/FuzzySim | 0 | 0| 
+| 20210227T18:08:55Z | A collection of published dynamic fuzzy models and analysis scripts | https://github.com/sspola/DynamicFuzzyModels | 0 | 0| 
 
 
 

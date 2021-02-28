@@ -116,16 +116,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210227T01:58:23Z | This is the main website and system for Ball Fuzz Tennis Center. | https://github.com/Ball-Fuzz-Tennis-Center/tennis-system | 0 | 0| 
-| 20210227T01:23:42Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2272 | 116| 
-| 20210227T01:14:39Z | A unit test-like interface for fuzzing and symbolic execution | https://github.com/trailofbits/deepstate | 593 | 61| 
-| 20210227T01:11:51Z | Null | https://github.com/miguellrodrigues/simple_fuzzy | 0 | 0| 
-| 20210226T23:17:46Z | Needed help | https://github.com/sarce77/fuzzy-dollop | 0 | 0| 
-| 20210226T22:52:01Z | Null | https://github.com/docfate111/awful-JS-fuzzer | 0 | 0| 
-| 20210226T22:43:05Z | Final project for BMI 540, looking at how entropy can be used to describe fuzzy c-means clustering. | https://github.com/MargaretHall/Fuzzy_cMean_entropy | 0 | 0| 
-| 20210226T22:33:43Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 1334 | 293| 
-| 20210226T22:33:34Z | Automatic Firmware Analysis of Embedded Linux Devices as Preparation for Security Testing / Fuzzing | https://github.com/efi4st/efi4st | 5 | 3| 
-| 20210226T22:03:15Z | Scalable fuzzing infrastructure. | https://github.com/google/clusterfuzz | 4440 | 421| 
+| 20210228T01:47:02Z | Null | https://github.com/matthewlong29/fuzzy-guacamole | 0 | 0| 
+| 20210228T01:32:29Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2273 | 116| 
+| 20210228T00:12:37Z | Fuzzy charrs are fuzzy. | https://github.com/marenubium87/FuzzyCharr | 0 | 0| 
+| 20210228T00:11:30Z | Repo for my personal website | https://github.com/FuzzyReason/fuzzyreason.io | 1 | 0| 
+| 20210227T23:55:58Z | interactive `git` with the help of `fzf` | https://github.com/bigH/git-fuzzy | 1709 | 33| 
+| 20210227T21:35:14Z | Null | https://github.com/rkizilnik5939/fuzzy-eureka | 0 | 0| 
+| 20210227T20:48:36Z | Ambitious coward | https://github.com/ravenmine/fuzzy-lamp | 0 | 0| 
+| 20210227T20:14:47Z | no fuzz configurator | https://github.com/roxiness/configent | 7 | 0| 
+| 20210227T19:58:30Z | Hi thre, I%m TRÄW🤟🏻, i%m a beginner in ethical hacking and Content Creator on Level iv Security & NOOBSEC. I Spend most of time coding outstanding ethical hacking projects or recording useful short tutorials . I love programming ethical hacking tools, fuzzing and hacking all the things | https://github.com/spectertraww/spectertraww | 1 | 0| 
+| 20210227T19:45:52Z | Simple SQL table fuzzing | https://github.com/PumpkinSeed/sqlfuzz | 6 | 3| 
 
 
 
