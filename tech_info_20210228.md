@@ -74,7 +74,6 @@
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
 | 20210228T22:52:50Z | Fuzzing cryptographic libraries. Magic bug printer go brrrr. | https://github.com/guidovranken/cryptofuzz | 253 | 35| 
-| 20210228T22:09:23Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 5975 | 1200| 
 | 20210228T21:37:28Z | The code behind getfursu.it | https://github.com/veelkoov/fuzzrake | 6 | 0| 
 | 20210228T21:25:45Z | collection of helper tools for fuzzing | https://github.com/fuzzah/fuzzaide | 2 | 0| 
 | 20210228T21:23:19Z | Personal website of Laurence Hughes | https://github.com/fuzzylogicxx/fuzzylogic | 4 | 1| 
@@ -83,6 +82,7 @@
 | 20210228T20:38:05Z | Coding practice for HTML/CSS/anything else web based | https://github.com/FuzzyPumpkin/FuzzyPumpkin.github.io | 5 | 1| 
 | 20210228T20:32:35Z | Null | https://github.com/spamanderson22/fuzzy-pancake | 0 | 0| 
 | 20210228T20:10:00Z | Pi rates dnd chamgne  | https://github.com/nickcanny/fuzzy-waddle | 0 | 0| 
+| 20210228T19:55:27Z | no fuzz configurator | https://github.com/roxiness/configent | 7 | 0| 
 
 
 
