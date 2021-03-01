@@ -14,6 +14,7 @@
 | 20210301 | Cosmopolitan Libc - 将 C 代码真正编译成跨平台执行的库，一次编译，支持在 Linux + Mac + Windows + FreeBSD + OpenBSD + NetBSD + BIOS 直接 Native 执行。 | https://ahgamut.github.io/c/2021/02/27/ape-cosmo/| 
 | 20210301 | Apple 漏洞致谢数全球第一背后的新攻击面 & 一洞攻破 Safari | https://paper.seebug.org/1490/| 
 | 20210301 | SaltStack 远程执行代码存在多个高危漏洞分析（CVE-2021-25281 ，CVE-2021-25282， CVE-2021-25283） | https://sec.today/pulses/1bd5fa4b-65f8-4f7a-8ad3-3f339022a1a1/| 
+| 20210301 | SaltStack 远程执行代码存在多个高危漏洞分析（CVE-2021-25281 ，CVE-2021-25282， CVE-2021-25283） | https://paper.seebug.org/1491/| 
 
 
 # 安全维基 推荐
@@ -25,7 +26,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20210301T13:01:34Z | CVE-2020-9484 | Null | https://github.com/DXY0411/CVE-2020-9484 | When using Apache Tomcat versions 10.0.0-M1 to 10.0.0-M4, 9.0.0.M1 to 9.0.34, 8.5.0 to 8.5.54 and 7.0.0 to 7.0.103 if a) an attacker is able to control the contents and name of a file on the server; and b) the server is configured to use the PersistenceManager with a FileStore; and c) the PersistenceManager is configured with sessionAttributeValueClassNameFilter=%null% (the default unless a SecurityManager is used) or a sufficiently lax filter to allow the attacker provided object to be deserialized; and d) the attacker knows the relative file path from the storage location used by FileStore to the file the attacker has control over; then, using a specifically crafted request, the attacker will be able to trigger remote code execution via deserialization of the file under their control. Note that all of conditions a) to d) must be true for the attack to succeed.| 
+| 20210301T13:01:34Z | CVE-2020-9484 | Null | https://github.com/DXY0411/CVE-2020-9484 | | 
 | 20210301T12:16:59Z | CVE-2020-14882 | CVE-2020-14882 | https://github.com/milo2012/CVE-2020-14882 | Vulnerability in the Oracle WebLogic Server product of Oracle Fusion Middleware (component: Console). Supported versions that are affected are 10.3.6.0.0, 12.1.3.0.0, 12.2.1.3.0, 12.2.1.4.0 and 14.1.1.0.0. Easily exploitable vulnerability allows unauthenticated attacker with network access via HTTP to compromise Oracle WebLogic Server. Successful attacks of this vulnerability can result in takeover of Oracle WebLogic Server. CVSS 3.1 Base Score 9.8 (Confidentiality, Integrity and Availability impacts). CVSS Vector: (CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H).| 
 | 20210301T10:42:55Z | CVE-2020-11883 | vue-storefront-api | https://github.com/0ndras3k/CVE-2020-11883 | In Divante vue-storefront-api through 1.11.1 and storefront-api through 1.0-rc.1, as used in VueStorefront PWA, unexpected HTTP requests lead to an exception that discloses the error stack trace, with absolute file paths and Node.js module names.| 
 | 20210301T10:23:24Z | CVE-2021-21972 | CVE-2021-21972 Exploit | https://github.com/NS-Sp4ce/CVE-2021-21972 | The vSphere Client (HTML5) contains a remote code execution vulnerability in a vCenter Server plugin. A malicious actor with network access to port 443 may exploit this issue to execute commands with unrestricted privileges on the underlying operating system that hosts vCenter Server. This affects VMware vCenter Server (7.x before 7.0 U1c, 6.7 before 6.7 U3l and 6.5 before 6.5 U3n) and VMware Cloud Foundation (4.x before 4.2 and 3.x before 3.10.1.2).| 
