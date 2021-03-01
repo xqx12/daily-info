@@ -46,22 +46,21 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20210228T23:40:23Z | CVE-2021-26119 | Null | https://github.com/Udyz/CVE-2021-26119 | Smarty before 3.1.39 allows a Sandbox Escape because $smarty.template_object can be accessed in sandbox mode.| 
+| 20210228T23:40:23Z | CVE-2021-26119 | Null | https://github.com/Udyz/CVE-2021-26119 | | 
 | 20210228T22:33:32Z | CVE-2021-25281 | Chaining CVE-2021-25281 and CVE-2021-25282 to exploit a SaltStack | https://github.com/Immersive-Labs-Sec/CVE-2021-25281 | An issue was discovered in through SaltStack Salt before 3002.5. salt-api does not honor eauth credentials for the wheel_async client. Thus, an attacker can remotely run any wheel modules on the master.| 
 | 20210228T03:13:31Z | 未知编号 | Null | https://github.com/DougCarroll/CVE_2021_21972 | 未查询到CVE信息| 
-| 20210228T02:13:52Z | CVE-2020-27199 | CVE-2020-27199 | https://github.com/9lyph/CVE-2020-27199 | | 
+| 20210228T02:13:52Z | CVE-2020-27199 | CVE-2020-27199 | https://github.com/9lyph/CVE-2020-27199 | The Magic Home Pro application 1.5.1 for Android allows Authentication Bypass. The security control that the application currently has in place is a simple Username and Password authentication function. Using enumeration, an attacker is able to forge a User specific token without the need for correct password to gain access to the mobile application as that victim user.| 
 | 20210227T23:06:44Z | 未知编号 | 2020l4web-app-mockup-DanCvejn created by GitHub Classroom | https://github.com/pslib-cz/2020l4web-app-mockup-DanCvejn | 未查询到CVE信息| 
 | 20210227T14:25:53Z | CVE-2021-21972 | Null | https://github.com/alt3kx/CVE-2021-21972 | The vSphere Client (HTML5) contains a remote code execution vulnerability in a vCenter Server plugin. A malicious actor with network access to port 443 may exploit this issue to execute commands with unrestricted privileges on the underlying operating system that hosts vCenter Server. This affects VMware vCenter Server (7.x before 7.0 U1c, 6.7 before 6.7 U3l and 6.5 before 6.5 U3n) and VMware Cloud Foundation (4.x before 4.2 and 3.x before 3.10.1.2).| 
 | 20210227T10:37:34Z | CVE-2021-21972 | VMware vCenter CVE-2021-21972 Tools | https://github.com/robwillisinfo/VMware_vCenter_CVE-2021-21972 | The vSphere Client (HTML5) contains a remote code execution vulnerability in a vCenter Server plugin. A malicious actor with network access to port 443 may exploit this issue to execute commands with unrestricted privileges on the underlying operating system that hosts vCenter Server. This affects VMware vCenter Server (7.x before 7.0 U1c, 6.7 before 6.7 U3l and 6.5 before 6.5 U3n) and VMware Cloud Foundation (4.x before 4.2 and 3.x before 3.10.1.2).| 
 | 20210227T10:00:17Z | CVE-2021-21972 | Null | https://github.com/JMousqueton/Detect-CVE-2021-21972 | The vSphere Client (HTML5) contains a remote code execution vulnerability in a vCenter Server plugin. A malicious actor with network access to port 443 may exploit this issue to execute commands with unrestricted privileges on the underlying operating system that hosts vCenter Server. This affects VMware vCenter Server (7.x before 7.0 U1c, 6.7 before 6.7 U3l and 6.5 before 6.5 U3n) and VMware Cloud Foundation (4.x before 4.2 and 3.x before 3.10.1.2).| 
-| 20210227T09:57:02Z | CVE-2021-21017 | Null | https://github.com/ZeusBox/CVE-2021-21017 | Acrobat Reader DC versions versions 2020.013.20074 (and earlier), 2020.001.30018 (and earlier) and 2017.011.30188 (and earlier) are affected by a heap-based buffer overflow vulnerability. An unauthenticated attacker could leverage this vulnerability to achieve arbitrary code execution in the context of the current user. Exploitation of this issue requires user interaction in that a victim must open a malicious file.| 
+| 20210227T09:57:02Z | CVE-2021-21017 | Null | https://github.com/ZeusBox/CVE-2021-21017 | | 
 | 20210227T04:55:15Z | CVE-2020-14882 | CVE-2020-14882 | https://github.com/milo2012/CVE-2020-14882 | Vulnerability in the Oracle WebLogic Server product of Oracle Fusion Middleware (component: Console). Supported versions that are affected are 10.3.6.0.0, 12.1.3.0.0, 12.2.1.3.0, 12.2.1.4.0 and 14.1.1.0.0. Easily exploitable vulnerability allows unauthenticated attacker with network access via HTTP to compromise Oracle WebLogic Server. Successful attacks of this vulnerability can result in takeover of Oracle WebLogic Server. CVSS 3.1 Base Score 9.8 (Confidentiality, Integrity and Availability impacts). CVSS Vector: (CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H).| 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210228T21:32:38Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 的 Klee One 的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 105 | 4| 
 | 20210228T14:17:41Z | Minecraft Mod. Allows breaking only one half of a double slab block. | https://github.com/blay09/KleeSlabs | 7 | 3| 
 | 20210228T12:43:47Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1636 | 483| 
 | 20210228T03:55:33Z | Null | https://github.com/fontworks-fonts/Klee | 368 | 10| 
@@ -71,6 +70,7 @@
 | 20210225T21:55:49Z | Git Blog | https://github.com/klee30810/klee30810.github.io | 0 | 0| 
 | 20210225T17:50:52Z | RVT is a collection of tools/libraries to support both static and dynamic verification of Rust programs. | https://github.com/project-oak/rust-verification-tools | 109 | 7| 
 | 20210225T16:36:23Z | A personnal UI library made as an excuse to have a published UI package | https://github.com/Liinkiing/klee | 5 | 1| 
+| 20210225T13:44:58Z | Null | https://github.com/pushkarkishore/klee_test | 0 | 0| 
 
 
 # s2e on Github 推荐

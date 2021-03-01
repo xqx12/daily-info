@@ -23,16 +23,15 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20210228T23:40:23Z | CVE-2021-26119 | Null | https://github.com/Udyz/CVE-2021-26119 | Smarty before 3.1.39 allows a Sandbox Escape because $smarty.template_object can be accessed in sandbox mode.| 
+| 20210228T23:40:23Z | CVE-2021-26119 | Null | https://github.com/Udyz/CVE-2021-26119 | | 
 | 20210228T22:33:32Z | CVE-2021-25281 | Chaining CVE-2021-25281 and CVE-2021-25282 to exploit a SaltStack | https://github.com/Immersive-Labs-Sec/CVE-2021-25281 | An issue was discovered in through SaltStack Salt before 3002.5. salt-api does not honor eauth credentials for the wheel_async client. Thus, an attacker can remotely run any wheel modules on the master.| 
 | 20210228T03:13:31Z | 未知编号 | Null | https://github.com/DougCarroll/CVE_2021_21972 | 未查询到CVE信息| 
-| 20210228T02:13:52Z | CVE-2020-27199 | CVE-2020-27199 | https://github.com/9lyph/CVE-2020-27199 | | 
+| 20210228T02:13:52Z | CVE-2020-27199 | CVE-2020-27199 | https://github.com/9lyph/CVE-2020-27199 | The Magic Home Pro application 1.5.1 for Android allows Authentication Bypass. The security control that the application currently has in place is a simple Username and Password authentication function. Using enumeration, an attacker is able to forge a User specific token without the need for correct password to gain access to the mobile application as that victim user.| 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210228T21:32:38Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 的 Klee One 的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 105 | 4| 
 | 20210228T14:17:41Z | Minecraft Mod. Allows breaking only one half of a double slab block. | https://github.com/blay09/KleeSlabs | 7 | 3| 
 | 20210228T12:43:47Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1636 | 483| 
 | 20210228T03:55:33Z | Null | https://github.com/fontworks-fonts/Klee | 368 | 10| 
