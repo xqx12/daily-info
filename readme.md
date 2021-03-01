@@ -9,6 +9,7 @@
 | 20210228 | 通过攻击SecureKernel破坏VSM视频。 | https://www.youtube.com/watch?v=pm1ejZ3LkYU&feature=youtu.be| 
 | 20210228 | 探索逆向二进制文件的常用工具和技术视频。 | https://www.youtube.com/watch?v=3NTXFUxcKPc&feature=youtu.be| 
 | 20210228 | Java中的序列化和反序列化：Java反序列化漏洞分析。 | https://snyk.io/blog/serialization-and-deserialization-in-java/| 
+| 20210228 | Apache Axis1 与 Axis2 WebService 的漏洞利用总结 | https://paper.seebug.org/1489/| 
 
 
 # 安全维基 推荐
@@ -49,13 +50,13 @@
 | 20210228T23:32:12Z | Shadow Strike is a exploitation framework that aids in information gathering, payload generation, payload delivery, and website exploitation. | https://github.com/diegomardian/ShadowStrike | 3 | 1| 
 | 20210228T23:02:04Z | Null | https://github.com/hexcellents/sss-exploit | 5 | 0| 
 | 20210228T22:29:31Z | Easily search exploits in searchsploit with my tool. | https://github.com/ataberkcetinkaya/Exploit_Finder | 0 | 0| 
-| 20210228T22:20:57Z | All the Lua scripts I developed, including exploit scripts (please only use those for educational purposes) | https://github.com/SkiddDev/Scripts | 0 | 0| 
 | 20210228T21:52:41Z | Repository for new and rebuilt exploit scripts | https://github.com/H4rk3nz0/PenTest-Exploits | 2 | 0| 
 | 20210228T21:34:02Z | Exploitation of a Movies DataBase with Laravel | https://github.com/remihayrimbault/movies_api | 0 | 0| 
 | 20210228T21:14:36Z | learning platform for advanced web exploitation | https://github.com/heliistanders/awe | 0 | 0| 
 | 20210228T20:58:20Z | Great addition to servers to fix various lag and crash exploits! WIP | https://github.com/AlexProgrammerDE/PistonExploits | 3 | 0| 
 | 20210228T20:55:44Z | DarkWare is a roblox exploit hub. | https://github.com/Yarik312/DarkWare | 1 | 0| 
 | 20210228T20:35:10Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9067 | 1456| 
+| 20210228T20:02:29Z | Search for Unix binaries that can be exploited to bypass system security restrictions. | https://github.com/t0thkr1s/gtfo | 73 | 14| 
 
 
 # backdoor on Github 推荐

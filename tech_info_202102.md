@@ -9,6 +9,7 @@
 | 20210228 | 通过攻击SecureKernel破坏VSM视频。 | https://www.youtube.com/watch?v=pm1ejZ3LkYU&feature=youtu.be| 
 | 20210228 | 探索逆向二进制文件的常用工具和技术视频。 | https://www.youtube.com/watch?v=3NTXFUxcKPc&feature=youtu.be| 
 | 20210228 | Java中的序列化和反序列化：Java反序列化漏洞分析。 | https://snyk.io/blog/serialization-and-deserialization-in-java/| 
+| 20210228 | Apache Axis1 与 Axis2 WebService 的漏洞利用总结 | https://paper.seebug.org/1489/| 
 | 20210226 | Issue 2123: Microsoft DirectWrite heap-based buffer overflow in fsg_ExecuteGlyph while processing variable TTF fonts | https://bugs.chromium.org/p/project-zero/issues/detail?id=2123| 
 | 20210226 | Fuzzing native Python extensions with Atheris | https://www.youtube.com/watch?v=oM-7lt43-GA| 
 | 20210226 | Issue 2163: Package Control: Arbitrary File Write on packagecontrol.io | https://bugs.chromium.org/p/project-zero/issues/detail?id=2163| 
@@ -25,7 +26,6 @@
 | 20210225 | 微软更新了一些基于 Intel CET 的保护机制 | https://techcommunity.microsoft.com/t5/windows-kernel-internals/developer-guidance-for-hardware-enforced-stack-protection/ba-p/2163340| 
 | 20210225 | Riscure 安全团队对三星 TEE、TrustZone 的研究 | https://www.riscure.com/blog/samsung-investigation-part1| 
 | 20210225 | Issue 2122: Chrome: OOB-read in network DataElement struct traits | https://bugs.chromium.org/p/project-zero/issues/detail?id=2122| 
-| 20210225 | Who’s Debugging the Debuggers? Exposing DebugInformation Bugs in Optimized Binaries | https://download.vusec.net/papers/debug2_asplos21.pdf| 
 
 
 # 安全维基 推荐
@@ -55,7 +55,7 @@
 | 20210227T10:37:34Z | CVE-2021-21972 | VMware vCenter CVE-2021-21972 Tools | https://github.com/robwillisinfo/VMware_vCenter_CVE-2021-21972 | The vSphere Client (HTML5) contains a remote code execution vulnerability in a vCenter Server plugin. A malicious actor with network access to port 443 may exploit this issue to execute commands with unrestricted privileges on the underlying operating system that hosts vCenter Server. This affects VMware vCenter Server (7.x before 7.0 U1c, 6.7 before 6.7 U3l and 6.5 before 6.5 U3n) and VMware Cloud Foundation (4.x before 4.2 and 3.x before 3.10.1.2).| 
 | 20210227T10:00:17Z | CVE-2021-21972 | Null | https://github.com/JMousqueton/Detect-CVE-2021-21972 | The vSphere Client (HTML5) contains a remote code execution vulnerability in a vCenter Server plugin. A malicious actor with network access to port 443 may exploit this issue to execute commands with unrestricted privileges on the underlying operating system that hosts vCenter Server. This affects VMware vCenter Server (7.x before 7.0 U1c, 6.7 before 6.7 U3l and 6.5 before 6.5 U3n) and VMware Cloud Foundation (4.x before 4.2 and 3.x before 3.10.1.2).| 
 | 20210227T04:55:15Z | CVE-2020-14882 | CVE-2020-14882 | https://github.com/milo2012/CVE-2020-14882 | Vulnerability in the Oracle WebLogic Server product of Oracle Fusion Middleware (component: Console). Supported versions that are affected are 10.3.6.0.0, 12.1.3.0.0, 12.2.1.3.0, 12.2.1.4.0 and 14.1.1.0.0. Easily exploitable vulnerability allows unauthenticated attacker with network access via HTTP to compromise Oracle WebLogic Server. Successful attacks of this vulnerability can result in takeover of Oracle WebLogic Server. CVSS 3.1 Base Score 9.8 (Confidentiality, Integrity and Availability impacts). CVSS Vector: (CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H).| 
-| 20210226T21:35:54Z | CVE-2021-21972 | Nmap script to check vulnerability CVE-2021-21972 | https://github.com/3dcyber/CVE-2021-21972 | | 
+| 20210226T21:35:54Z | CVE-2021-21972 | Nmap script to check vulnerability CVE-2021-21972 | https://github.com/3dcyber/CVE-2021-21972 | The vSphere Client (HTML5) contains a remote code execution vulnerability in a vCenter Server plugin. A malicious actor with network access to port 443 may exploit this issue to execute commands with unrestricted privileges on the underlying operating system that hosts vCenter Server. This affects VMware vCenter Server (7.x before 7.0 U1c, 6.7 before 6.7 U3l and 6.5 before 6.5 U3n) and VMware Cloud Foundation (4.x before 4.2 and 3.x before 3.10.1.2).| 
 
 
 # klee on Github 推荐
@@ -89,13 +89,13 @@
 | 20210228T23:32:12Z | Shadow Strike is a exploitation framework that aids in information gathering, payload generation, payload delivery, and website exploitation. | https://github.com/diegomardian/ShadowStrike | 3 | 1| 
 | 20210228T23:02:04Z | Null | https://github.com/hexcellents/sss-exploit | 5 | 0| 
 | 20210228T22:29:31Z | Easily search exploits in searchsploit with my tool. | https://github.com/ataberkcetinkaya/Exploit_Finder | 0 | 0| 
-| 20210228T22:20:57Z | All the Lua scripts I developed, including exploit scripts (please only use those for educational purposes) | https://github.com/SkiddDev/Scripts | 0 | 0| 
 | 20210228T21:52:41Z | Repository for new and rebuilt exploit scripts | https://github.com/H4rk3nz0/PenTest-Exploits | 2 | 0| 
 | 20210228T21:34:02Z | Exploitation of a Movies DataBase with Laravel | https://github.com/remihayrimbault/movies_api | 0 | 0| 
 | 20210228T21:14:36Z | learning platform for advanced web exploitation | https://github.com/heliistanders/awe | 0 | 0| 
 | 20210228T20:58:20Z | Great addition to servers to fix various lag and crash exploits! WIP | https://github.com/AlexProgrammerDE/PistonExploits | 3 | 0| 
 | 20210228T20:55:44Z | DarkWare is a roblox exploit hub. | https://github.com/Yarik312/DarkWare | 1 | 0| 
 | 20210228T20:35:10Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9067 | 1456| 
+| 20210228T20:02:29Z | Search for Unix binaries that can be exploited to bypass system security restrictions. | https://github.com/t0thkr1s/gtfo | 73 | 14| 
 
 
 # backdoor on Github 推荐
