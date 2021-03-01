@@ -67,9 +67,9 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210301T14:20:41Z | Null | https://github.com/jakobstab12121/Backdoor1 | 0 | 0| 
 | 20210301T13:53:27Z | backdoor uiuiuiui | https://github.com/zeru2/backdoor | 0 | 0| 
 | 20210301T13:35:48Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 180 | 26| 
-| 20210301T13:30:56Z | Null | https://github.com/jakobstab12121/Backdoor1 | 0 | 0| 
 | 20210301T13:24:24Z | Null | https://github.com/jakobstab12121/Backdoor | 0 | 0| 
 | 20210301T13:24:24Z | Backdoor for scripts | https://github.com/fnalte/Backdoor | 0 | 0| 
 | 20210301T11:37:00Z | Thefatrat a massive exploiting tool : Easy tool to generate backdoor and easy tool to post exploitation attack like browser attack and etc . This tool compiles a malware with popular payload and then the compiled malware can be execute on windows, android, mac . The malware that created with this tool also have an ability to bypass most AV software protection . | https://github.com/Screetsec/TheFatRat | 4987 | 1644| 
@@ -82,7 +82,8 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210301T13:56:24Z | 🛩️Generate a David for the Goliath URLs🚀 | https://github.com/sd2001/FuzzyUrls | 2 | 0| 
+| 20210301T14:20:40Z | 🛩️Generate a David for the Goliath URLs🚀 | https://github.com/sd2001/FuzzyUrls | 3 | 0| 
+| 20210301T14:10:51Z | VMI Kernel Fuzzer for Xen Project - VM forking, VMI & AFL integration demo | https://github.com/intel/kernel-fuzzer-for-xen-project | 238 | 38| 
 | 20210301T13:53:13Z | Coverage-guided, in-process fuzzing for the JVM | https://github.com/CodeIntelligenceTesting/jazzer | 189 | 7| 
 | 20210301T13:51:30Z | ProFuzzBench - A Benchmark for Stateful Protocol Fuzzing | https://github.com/profuzzbench/profuzzbench | 58 | 12| 
 | 20210301T13:36:50Z | Null | https://github.com/Sunwader/fuzzy-fiesta | 0 | 0| 
@@ -91,7 +92,6 @@
 | 20210301T12:54:03Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 30160 | 15311| 
 | 20210301T12:53:33Z | Bootstrap Intro | https://github.com/orlawalsh/fuzzy-bassoon | 0 | 0| 
 | 20210301T12:46:55Z | Software for fuzzing, used on web application pentestings. | https://github.com/NESCAU-UFLA/FuzzingTool | 6 | 1| 
-| 20210301T12:23:17Z | Null | https://github.com/seteri111/gnn-fuzz | 0 | 0| 
 
 
 
