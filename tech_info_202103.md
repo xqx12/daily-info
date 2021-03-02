@@ -91,16 +91,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210301T14:20:40Z | 🛩️Generate a David for the Goliath URLs🚀 | https://github.com/sd2001/FuzzyUrls | 3 | 0| 
-| 20210301T14:10:51Z | VMI Kernel Fuzzer for Xen Project - VM forking, VMI & AFL integration demo | https://github.com/intel/kernel-fuzzer-for-xen-project | 238 | 38| 
-| 20210301T13:53:13Z | Coverage-guided, in-process fuzzing for the JVM | https://github.com/CodeIntelligenceTesting/jazzer | 189 | 7| 
-| 20210301T13:51:30Z | ProFuzzBench - A Benchmark for Stateful Protocol Fuzzing | https://github.com/profuzzbench/profuzzbench | 58 | 12| 
-| 20210301T13:36:50Z | Null | https://github.com/Sunwader/fuzzy-fiesta | 0 | 0| 
-| 20210301T13:27:21Z | Null | https://github.com/Fa2Fin/fuzzy-adventure | 0 | 0| 
-| 20210301T13:08:38Z | Hi thre, I%m TRÄW🤟🏻, i%m a beginner in ethical hacking and Content Creator on Level iv Security & NOOBSEC. I Spend most of time coding outstanding ethical hacking projects or recording useful short tutorials . I love programming ethical hacking tools, fuzzing and hacking all the things | https://github.com/spectertraww/spectertraww | 1 | 0| 
-| 20210301T12:54:03Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 30160 | 15311| 
-| 20210301T12:53:33Z | Bootstrap Intro | https://github.com/orlawalsh/fuzzy-bassoon | 0 | 0| 
-| 20210301T12:46:55Z | Software for fuzzing, used on web application pentestings. | https://github.com/NESCAU-UFLA/FuzzingTool | 6 | 1| 
+| 20210302T01:21:56Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 3378 | 778| 
+| 20210302T01:21:54Z | Null | https://github.com/The-Valley-Discord/Fuzzy | 0 | 0| 
+| 20210301T23:47:11Z | Scalable fuzzing infrastructure. | https://github.com/google/clusterfuzz | 4444 | 421| 
+| 20210301T23:13:45Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 5981 | 1201| 
+| 20210301T23:07:40Z | Simple fuzzy logic DC motor controller | https://github.com/AbdelrahmanF/FuzzyMotorController | 0 | 0| 
+| 20210301T23:07:10Z | Null | https://github.com/kinzhong/fuzzer-performance-visualiser | 0 | 0| 
+| 20210301T23:01:01Z | PoC of fuzzing closed-source userspace binaries with KVM | https://github.com/klecko/kvm-fuzz | 0 | 0| 
+| 20210301T22:08:07Z | FuzzBench - Fuzzer benchmarking as a service. | https://github.com/google/fuzzbench | 603 | 102| 
+| 20210301T21:59:53Z | fzf-like fuzzy-finder as a Go library | https://github.com/ktr0731/go-fuzzyfinder | 216 | 20| 
+| 20210301T21:24:24Z | Null | https://github.com/Sentinel-One/efi_fuzz | 61 | 7| 
 
 
 

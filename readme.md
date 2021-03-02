@@ -40,7 +40,7 @@
 | 20210301T16:34:12Z | CVE-2020-14882 | CVE-2020-14882 | https://github.com/milo2012/CVE-2020-14882 | Vulnerability in the Oracle WebLogic Server product of Oracle Fusion Middleware (component: Console). Supported versions that are affected are 10.3.6.0.0, 12.1.3.0.0, 12.2.1.3.0, 12.2.1.4.0 and 14.1.1.0.0. Easily exploitable vulnerability allows unauthenticated attacker with network access via HTTP to compromise Oracle WebLogic Server. Successful attacks of this vulnerability can result in takeover of Oracle WebLogic Server. CVSS 3.1 Base Score 9.8 (Confidentiality, Integrity and Availability impacts). CVSS Vector: (CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H).| 
 | 20210301T13:01:34Z | CVE-2020-9484 | Null | https://github.com/DXY0411/CVE-2020-9484 | When using Apache Tomcat versions 10.0.0-M1 to 10.0.0-M4, 9.0.0.M1 to 9.0.34, 8.5.0 to 8.5.54 and 7.0.0 to 7.0.103 if a) an attacker is able to control the contents and name of a file on the server; and b) the server is configured to use the PersistenceManager with a FileStore; and c) the PersistenceManager is configured with sessionAttributeValueClassNameFilter=%null% (the default unless a SecurityManager is used) or a sufficiently lax filter to allow the attacker provided object to be deserialized; and d) the attacker knows the relative file path from the storage location used by FileStore to the file the attacker has control over; then, using a specifically crafted request, the attacker will be able to trigger remote code execution via deserialization of the file under their control. Note that all of conditions a) to d) must be true for the attack to succeed.| 
 | 20210301T10:42:55Z | CVE-2020-11883 | vue-storefront-api | https://github.com/0ndras3k/CVE-2020-11883 | In Divante vue-storefront-api through 1.11.1 and storefront-api through 1.0-rc.1, as used in VueStorefront PWA, unexpected HTTP requests lead to an exception that discloses the error stack trace, with absolute file paths and Node.js module names.| 
-| 20210301T02:39:27Z | CVE-2021-21017 | Null | https://github.com/ZeusBox/CVE-2021-21017 | Acrobat Reader DC versions versions 2020.013.20074 (and earlier), 2020.001.30018 (and earlier) and 2017.011.30188 (and earlier) are affected by a heap-based buffer overflow vulnerability. An unauthenticated attacker could leverage this vulnerability to achieve arbitrary code execution in the context of the current user. Exploitation of this issue requires user interaction in that a victim must open a malicious file.| 
+| 20210301T02:39:27Z | CVE-2021-21017 | Null | https://github.com/ZeusBox/CVE-2021-21017 | | 
 
 
 # klee on Github 推荐
@@ -91,16 +91,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210301T14:20:40Z | 🛩️Generate a David for the Goliath URLs🚀 | https://github.com/sd2001/FuzzyUrls | 3 | 0| 
-| 20210301T14:10:51Z | VMI Kernel Fuzzer for Xen Project - VM forking, VMI & AFL integration demo | https://github.com/intel/kernel-fuzzer-for-xen-project | 238 | 38| 
-| 20210301T13:53:13Z | Coverage-guided, in-process fuzzing for the JVM | https://github.com/CodeIntelligenceTesting/jazzer | 189 | 7| 
-| 20210301T13:51:30Z | ProFuzzBench - A Benchmark for Stateful Protocol Fuzzing | https://github.com/profuzzbench/profuzzbench | 58 | 12| 
-| 20210301T13:36:50Z | Null | https://github.com/Sunwader/fuzzy-fiesta | 0 | 0| 
-| 20210301T13:27:21Z | Null | https://github.com/Fa2Fin/fuzzy-adventure | 0 | 0| 
-| 20210301T13:08:38Z | Hi thre, I%m TRÄW🤟🏻, i%m a beginner in ethical hacking and Content Creator on Level iv Security & NOOBSEC. I Spend most of time coding outstanding ethical hacking projects or recording useful short tutorials . I love programming ethical hacking tools, fuzzing and hacking all the things | https://github.com/spectertraww/spectertraww | 1 | 0| 
-| 20210301T12:54:03Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 30160 | 15311| 
-| 20210301T12:53:33Z | Bootstrap Intro | https://github.com/orlawalsh/fuzzy-bassoon | 0 | 0| 
-| 20210301T12:46:55Z | Software for fuzzing, used on web application pentestings. | https://github.com/NESCAU-UFLA/FuzzingTool | 6 | 1| 
+| 20210301T23:47:11Z | Scalable fuzzing infrastructure. | https://github.com/google/clusterfuzz | 4444 | 421| 
+| 20210301T23:13:45Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 5981 | 1201| 
+| 20210301T23:07:40Z | Simple fuzzy logic DC motor controller | https://github.com/AbdelrahmanF/FuzzyMotorController | 0 | 0| 
+| 20210301T23:07:10Z | Null | https://github.com/kinzhong/fuzzer-performance-visualiser | 0 | 0| 
+| 20210301T23:01:01Z | PoC of fuzzing closed-source userspace binaries with KVM | https://github.com/klecko/kvm-fuzz | 0 | 0| 
+| 20210301T22:08:07Z | FuzzBench - Fuzzer benchmarking as a service. | https://github.com/google/fuzzbench | 603 | 102| 
+| 20210301T21:59:53Z | fzf-like fuzzy-finder as a Go library | https://github.com/ktr0731/go-fuzzyfinder | 216 | 20| 
+| 20210301T21:24:24Z | Null | https://github.com/Sentinel-One/efi_fuzz | 61 | 7| 
+| 20210301T21:05:54Z | The code behind getfursu.it | https://github.com/veelkoov/fuzzrake | 6 | 0| 
+| 20210301T21:04:35Z | Repository holding database dumps from getfursu.it | https://github.com/veelkoov/fuzzrake-data | 0 | 0| 
 
 
 
