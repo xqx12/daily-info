@@ -73,6 +73,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210302T14:21:56Z | 3D image denoising using a modified U-Net architecture that exploits a prior image. Models are trained using efficient tensorflow pipeline based on keras and tf.data.Dataset API | https://github.com/jabascal/ResPr-UNet-3D-Denoising-Efficient-Pipeline-TF-keras | 0 | 0| 
 | 20210302T14:18:03Z | Blazing fast, advanced Padding Oracle exploit | https://github.com/glebarez/padre | 18 | 1| 
 | 20210302T14:17:24Z | Random Exploits | https://github.com/w4fz5uck5/3XPL01t5 | 16 | 13| 
 | 20210302T14:02:30Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 9 | 4| 
@@ -82,7 +83,6 @@
 | 20210302T13:35:49Z | exploiting and defending neural networks(神经网络攻防专栏) | https://github.com/AIPwn/HackingNeuralNetworks | 2 | 0| 
 | 20210302T13:31:26Z | xcube is a Python package for generating and exploiting data cubes powered by xarray, dask, and zarr. | https://github.com/dcs4cop/xcube | 70 | 12| 
 | 20210302T13:29:34Z | Exploiter l%opendata des horaires de transports fullstack | https://github.com/DialloMamadouDjan/Transport_fullstack | 0 | 0| 
-| 20210302T12:40:34Z | Just a temporary website to post my ctf writeups and journey into binary exploitation/malware analysis/exploit development | https://github.com/blackbeard666/blackbeard666.github.io | 0 | 0| 
 
 
 # backdoor on Github 推荐
