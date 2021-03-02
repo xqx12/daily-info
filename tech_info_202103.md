@@ -61,16 +61,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210302T02:16:36Z | An open-source post-exploitation framework for students, researchers and developers. | https://github.com/malwaredllc/byob | 5937 | 1324| 
+| 20210302T02:13:08Z | Null | https://github.com/ThanosKrk/VulnserverExploits | 0 | 0| 
 | 20210302T02:02:39Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 9 | 4| 
 | 20210302T01:16:36Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9070 | 1460| 
 | 20210302T01:16:06Z | This is my very first exploit to skyjam. Please be patient there%s more to come in the future.  | https://github.com/luckymime28/Skyjam | 0 | 0| 
-| 20210302T01:10:55Z | An open-source post-exploitation framework for students, researchers and developers. | https://github.com/malwaredllc/byob | 5936 | 1324| 
 | 20210302T01:09:33Z | works for any exploit | https://github.com/loglizzy/Knight-Heroes-Gui | 0 | 0| 
 | 20210302T00:50:18Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 7 | 5| 
 | 20210302T00:47:50Z | This bash script will help you to hack remote hosts  | https://github.com/FabioDefilippo/linuxallremote | 8 | 1| 
 | 20210302T00:46:06Z | A CTF web app designed to teach software developers application security by showcasing what vulnerable code looks like, how to write code to exploit the vulnerability, and how to write code to patch the vulnerability. | https://github.com/neumaneuma/appseccheat.codes | 0 | 0| 
 | 20210302T00:42:12Z | Thi powershell script has got to run in remote windows host, even for pivoting | https://github.com/FabioDefilippo/winallenum | 2 | 1| 
-| 20210302T00:40:55Z | Exploit Microsoft Windows - Escalate UAC Protection Bypass (Via dot net profiler) (Metasploit) | https://github.com/jalladsathwara/Js-Exploit | 1 | 1| 
 
 
 # backdoor on Github 推荐
