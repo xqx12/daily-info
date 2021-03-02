@@ -78,8 +78,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210302T01:21:56Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 3378 | 778| 
-| 20210302T01:21:54Z | Null | https://github.com/The-Valley-Discord/Fuzzy | 0 | 0| 
+| 20210302T13:05:37Z | Null | https://github.com/lacygoill/vim-fuzzy | 0 | 0| 
+| 20210302T13:05:03Z | A fuzzer that generates random Go programs | https://github.com/ALTree/microsmith | 7 | 0| 
+| 20210302T12:48:36Z | Ethereum smart contract fuzzer | https://github.com/crytic/echidna | 557 | 95| 
+| 20210302T12:24:54Z | Null | https://github.com/erdifajarf/PMDK_FuzzyAHP | 0 | 0| 
+| 20210302T12:18:16Z | The Book %Generating Software Tests% | https://github.com/uds-se/fuzzingbook | 533 | 106| 
+| 20210302T12:17:41Z | Fuzzy C-Means Clustering | https://github.com/NIZAMM383/Fuzzy-C-Means-Clustering-on-Iris-Dataset | 0 | 0| 
+| 20210302T12:14:45Z | White-box fuzzer for Java bytecode | https://github.com/vorpal-research/kex | 6 | 5| 
+| 20210302T12:14:44Z | PoC of fuzzing closed-source userspace binaries with KVM | https://github.com/klecko/kvm-fuzz | 0 | 0| 
+| 20210302T12:12:17Z | Implementation of Wang-Mende and Takagi-Sugeno fuzzy structures in virtual flow sensor. | https://github.com/SebastianParzych/Fuzzy-logic | 0 | 0| 
+| 20210302T11:57:38Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 3382 | 777| 
 
 
 
