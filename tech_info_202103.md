@@ -43,14 +43,14 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20210303T02:14:00Z | CVE-2021-23132 | com_media allowed paths that are not intended for image uploads. | https://github.com/HoangKien1020/CVE-2021-23132 | 未查询到CVE信息| 
+| 20210303T02:14:00Z | CVE-2021-23132 | com_media allowed paths that are not intended for image uploads. | https://github.com/HoangKien1020/CVE-2021-23132 | | 
 | 20210303T01:55:53Z | CVE-2021-21315 | CVE 2021-21315 PoC | https://github.com/ForbiddenProgrammer/CVE-2021-21315-PoC | The System Information Library for Node.JS (npm package %systeminformation%) is an open source collection of functions to retrieve detailed hardware, system and OS information. In systeminformation before version 5.3.1 there is a command injection vulnerability. Problem was fixed in version 5.3.1. As a workaround instead of upgrading, be sure to check or sanitize service parameters that are passed to si.inetLatency(), si.inetChecksite(), si.services(), si.processLoad() ... do only allow strings, reject any arrays. String sanitation works as expected.| 
 | 20210303T00:58:29Z | CVE-2021-27246 | Null | https://github.com/synacktiv/CVE-2021-27246_Pwn2Own2020 | 未查询到CVE信息| 
 | 20210303T00:19:33Z | CVE-2021-21972 | Nmap script to check vulnerability CVE-2021-21972 | https://github.com/GuayoyoLabs/CVE-2021-21972 | The vSphere Client (HTML5) contains a remote code execution vulnerability in a vCenter Server plugin. A malicious actor with network access to port 443 may exploit this issue to execute commands with unrestricted privileges on the underlying operating system that hosts vCenter Server. This affects VMware vCenter Server (7.x before 7.0 U1c, 6.7 before 6.7 U3l and 6.5 before 6.5 U3n) and VMware Cloud Foundation (4.x before 4.2 and 3.x before 3.10.1.2).| 
 | 20210302T23:19:31Z | CVE-2021-21972 | Null | https://github.com/QmF0c3UK/CVE-2021-21972-vCenter-6.5-7.0-RCE-POC | The vSphere Client (HTML5) contains a remote code execution vulnerability in a vCenter Server plugin. A malicious actor with network access to port 443 may exploit this issue to execute commands with unrestricted privileges on the underlying operating system that hosts vCenter Server. This affects VMware vCenter Server (7.x before 7.0 U1c, 6.7 before 6.7 U3l and 6.5 before 6.5 U3n) and VMware Cloud Foundation (4.x before 4.2 and 3.x before 3.10.1.2).| 
 | 20210302T20:28:52Z | cve-2020-24572 | Null | https://github.com/lb0x/cve-2020-24572 | An issue was discovered in includes/webconsole.php in RaspAP 2.5. With authenticated access, an attacker can use a misconfigured (and virtually unrestricted) web console to attack the underlying OS (Raspberry Pi) running this software, and execute commands on the system (including ones for uploading of files and execution of code).| 
 | 20210302T19:04:12Z | CVE-2021-21972 | Proof of Concept Exploit for vCenter CVE-2021-21972 | https://github.com/horizon3ai/CVE-2021-21972 | The vSphere Client (HTML5) contains a remote code execution vulnerability in a vCenter Server plugin. A malicious actor with network access to port 443 may exploit this issue to execute commands with unrestricted privileges on the underlying operating system that hosts vCenter Server. This affects VMware vCenter Server (7.x before 7.0 U1c, 6.7 before 6.7 U3l and 6.5 before 6.5 U3n) and VMware Cloud Foundation (4.x before 4.2 and 3.x before 3.10.1.2).| 
-| 20210302T10:11:28Z | CVE-2021-21972 | CVE-2021-21972 Exploit | https://github.com/NS-Sp4ce/CVE-2021-21972 | | 
+| 20210302T10:11:28Z | CVE-2021-21972 | CVE-2021-21972 Exploit | https://github.com/NS-Sp4ce/CVE-2021-21972 | The vSphere Client (HTML5) contains a remote code execution vulnerability in a vCenter Server plugin. A malicious actor with network access to port 443 may exploit this issue to execute commands with unrestricted privileges on the underlying operating system that hosts vCenter Server. This affects VMware vCenter Server (7.x before 7.0 U1c, 6.7 before 6.7 U3l and 6.5 before 6.5 U3n) and VMware Cloud Foundation (4.x before 4.2 and 3.x before 3.10.1.2).| 
 | 20210302T10:10:10Z | CVE-2021-21972 | CVE-2021-21972 | https://github.com/milo2012/CVE-2021-21972 | The vSphere Client (HTML5) contains a remote code execution vulnerability in a vCenter Server plugin. A malicious actor with network access to port 443 may exploit this issue to execute commands with unrestricted privileges on the underlying operating system that hosts vCenter Server. This affects VMware vCenter Server (7.x before 7.0 U1c, 6.7 before 6.7 U3l and 6.5 before 6.5 U3n) and VMware Cloud Foundation (4.x before 4.2 and 3.x before 3.10.1.2).| 
 | 20210302T10:06:41Z | CVE-2021-9999 | Null | https://github.com/GG-o1/CVE-2021-9999 | 未查询到CVE信息| 
 
@@ -78,6 +78,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210303T02:40:55Z | Shadow Strike is a hacking framework that aids in information gathering, payload generation, payload delivery, and website exploitation. | https://github.com/diegomardian/ShadowStrike | 5 | 5| 
 | 20210303T02:35:16Z | Working to create a new and improved prodigy cheat menu.  Many of webpack and eslint are partly of willsCheatmenu.  The others are by me. | https://github.com/KriticDev/Prodigy-Cheats-and-Exploitation | 0 | 0| 
 | 20210303T02:33:40Z | A number of exploits and tools I%ve written for CVEs accredited to Marshall Whittaker/oxagast | https://github.com/oxagast/oxasploits | 4 | 1| 
 | 20210303T02:15:56Z | IOCs found exploiting CVE-2021-26855 thanks to info from Volexity and MS. | https://github.com/stressboi/hafnium-exchange-splunk-csvs | 0 | 1| 
@@ -87,7 +88,6 @@
 | 20210303T02:02:45Z | Set of CLI tools for automatically generating (as well as testing) PHP exploits. | https://github.com/madberries/sourceforage | 0 | 0| 
 | 20210303T02:02:36Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 9 | 4| 
 | 20210303T01:15:31Z | I will keep update this | https://github.com/andrewbae/heap-exploitation | 3 | 0| 
-| 20210303T01:06:24Z | forked version of funtuna, a homebrew ps2 app launcher designed to ease the pain of getting a stable exploit for those that have a console uncompatible with FreeMcBoot that doesnt have a modchip | https://github.com/israpps/Funtuna-Fork | 2 | 0| 
 
 
 # backdoor on Github 推荐
@@ -108,16 +108,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210302T13:05:37Z | Null | https://github.com/lacygoill/vim-fuzzy | 0 | 0| 
-| 20210302T13:05:03Z | A fuzzer that generates random Go programs | https://github.com/ALTree/microsmith | 7 | 0| 
-| 20210302T12:48:36Z | Ethereum smart contract fuzzer | https://github.com/crytic/echidna | 557 | 95| 
-| 20210302T12:24:54Z | Null | https://github.com/erdifajarf/PMDK_FuzzyAHP | 0 | 0| 
-| 20210302T12:18:16Z | The Book %Generating Software Tests% | https://github.com/uds-se/fuzzingbook | 533 | 106| 
-| 20210302T12:17:41Z | Fuzzy C-Means Clustering | https://github.com/NIZAMM383/Fuzzy-C-Means-Clustering-on-Iris-Dataset | 0 | 0| 
-| 20210302T12:14:45Z | White-box fuzzer for Java bytecode | https://github.com/vorpal-research/kex | 6 | 5| 
-| 20210302T12:14:44Z | PoC of fuzzing closed-source userspace binaries with KVM | https://github.com/klecko/kvm-fuzz | 0 | 0| 
-| 20210302T12:12:17Z | Implementation of Wang-Mende and Takagi-Sugeno fuzzy structures in virtual flow sensor. | https://github.com/SebastianParzych/Fuzzy-logic | 0 | 0| 
-| 20210302T11:57:38Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 3382 | 777| 
+| 20210303T02:37:27Z | Null | https://github.com/mrfuzz12/FuzzCheat | 0 | 0| 
+| 20210303T02:32:37Z | Coding practice for HTML/CSS/anything else web based | https://github.com/FuzzyPumpkin/FuzzyPumpkin.github.io | 5 | 1| 
+| 20210303T02:12:36Z | A fork and successor of the Sulley Fuzzing Framework | https://github.com/jtpereyda/boofuzz | 1158 | 235| 
+| 20210303T01:53:52Z | FuzzBench - Fuzzer benchmarking as a service. | https://github.com/google/fuzzbench | 604 | 102| 
+| 20210303T01:45:19Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 5987 | 1201| 
+| 20210303T01:33:47Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 1339 | 295| 
+| 20210303T00:28:21Z | Software for fuzzing, used on web application pentestings. | https://github.com/NESCAU-UFLA/FuzzingTool | 8 | 1| 
+| 20210303T00:06:05Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2275 | 115| 
+| 20210302T23:16:10Z | Null | https://github.com/matusf/open-api-fuzzer | 0 | 0| 
+| 20210302T21:02:03Z | REST API Fuzz Testing (RAFT): Source code for self-hosted service developed for Azure, including the API, orchestration engine, and default set of security tools (including MSR%s RESTler), that enables developers to embed security tooling into their CI/CD workflows | https://github.com/microsoft/rest-api-fuzz-testing | 110 | 17| 
 
 
 
