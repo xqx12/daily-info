@@ -78,8 +78,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210303T02:33:40Z | A number of exploits and tools I%ve written for CVEs accredited to Marshall Whittaker/oxagast | https://github.com/oxagast/oxasploits | 4 | 1| 
 | 20210303T02:23:58Z | Working to create a new and improved prodigy cheat menu.  Many of webpack and eslint are partly of willsCheatmenu.  The others are by me. | https://github.com/KriticDev/Prodigy-Cheats-and-Exploitation | 0 | 0| 
-| 20210303T02:21:12Z | A number of exploits and tools I%ve written for CVEs accredited to Marshall Whittaker/oxagast | https://github.com/oxagast/oxasploits | 4 | 1| 
 | 20210303T02:15:56Z | IOCs found exploiting CVE-2021-26855 thanks to info from Volexity and MS. | https://github.com/stressboi/hafnium-exchange-splunk-csvs | 0 | 1| 
 | 20210303T02:14:55Z | All the Lua scripts I developed, including exploit scripts (please only use those for educational purposes) | https://github.com/SkiddDev/Scripts | 0 | 0| 
 | 20210303T02:11:00Z | Unnamed PS1 save game backup loader thing | https://github.com/socram8888/PS1SaveExploit | 0 | 0| 
