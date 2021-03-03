@@ -46,7 +46,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20210303T12:41:24Z | CVE-2021-21315 | CVE 2021-21315 PoC | https://github.com/ForbiddenProgrammer/CVE-2021-21315-PoC | The System Information Library for Node.JS (npm package %systeminformation%) is an open source collection of functions to retrieve detailed hardware, system and OS information. In systeminformation before version 5.3.1 there is a command injection vulnerability. Problem was fixed in version 5.3.1. As a workaround instead of upgrading, be sure to check or sanitize service parameters that are passed to si.inetLatency(), si.inetChecksite(), si.services(), si.processLoad() ... do only allow strings, reject any arrays. String sanitation works as expected.| 
+| 20210303T13:24:19Z | CVE-2021-21315 | CVE 2021-21315 PoC | https://github.com/ForbiddenProgrammer/CVE-2021-21315-PoC | | 
 | 20210303T10:55:25Z | CVE-2021-23132 | com_media allowed paths that are not intended for image uploads to RCE | https://github.com/HoangKien1020/CVE-2021-23132 | 未查询到CVE信息| 
 | 20210303T10:53:02Z | CVE-2021-27246 | Null | https://github.com/synacktiv/CVE-2021-27246_Pwn2Own2020 | 未查询到CVE信息| 
 | 20210303T10:40:21Z | CVE-2021-21972 | Nmap script to check vulnerability CVE-2021-21972 | https://github.com/GuayoyoLabs/CVE-2021-21972 | The vSphere Client (HTML5) contains a remote code execution vulnerability in a vCenter Server plugin. A malicious actor with network access to port 443 may exploit this issue to execute commands with unrestricted privileges on the underlying operating system that hosts vCenter Server. This affects VMware vCenter Server (7.x before 7.0 U1c, 6.7 before 6.7 U3l and 6.5 before 6.5 U3n) and VMware Cloud Foundation (4.x before 4.2 and 3.x before 3.10.1.2).| 
@@ -61,7 +61,7 @@
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210303T13:21:15Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 的 Klee One 的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 170 | 5| 
+| 20210303T13:24:59Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 的 Klee One 的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 171 | 5| 
 | 20210303T13:15:04Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1638 | 483| 
 | 20210303T05:15:19Z | Null | https://github.com/fontworks-fonts/Klee | 372 | 10| 
 | 20210303T02:24:23Z | KleeneExpressions | https://github.com/ostomachion/Kleene | 1 | 0| 
@@ -81,8 +81,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210303T13:24:25Z | Null | https://github.com/Deepanjalkumar/Exploit-Development | 0 | 0| 
 | 20210303T13:12:27Z | Exploit ILP to learn symmetry breaking constraints of ASP programs. | https://github.com/prosysscience/Symmetry_Breaking_with_ILP | 0 | 0| 
-| 20210303T13:10:12Z | Null | https://github.com/Deepanjalkumar/Exploit-Development | 0 | 0| 
 | 20210303T13:02:27Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 9 | 4| 
 | 20210303T12:59:07Z | A number of exploits and tools I%ve written for CVEs accredited to Marshall Whittaker/oxagast | https://github.com/oxagast/oxasploits | 4 | 1| 
 | 20210303T12:50:17Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 8 | 5| 
@@ -96,6 +96,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210303T13:25:52Z | Simple backdoor on Python 3 and C++ for windows. Works as reverse shell. Needs in small modification. | https://github.com/Retr0-code/Phoenix | 2 | 0| 
 | 20210303T11:31:51Z | %Socialx% is a Social Engineering And Remote Access Trojan Tool. You can generate fud backdoor and you can embed any file you want inside of the exe file. | https://github.com/AzizKpln/Social_X | 68 | 17| 
 | 20210303T11:03:06Z | backdoor uiuiuiui | https://github.com/zeru2/backdoor | 0 | 0| 
 | 20210303T10:55:08Z | Thefatrat a massive exploiting tool : Easy tool to generate backdoor and easy tool to post exploitation attack like browser attack and etc . This tool compiles a malware with popular payload and then the compiled malware can be execute on windows, android, mac . The malware that created with this tool also have an ability to bypass most AV software protection . | https://github.com/Screetsec/TheFatRat | 4995 | 1645| 
@@ -105,22 +106,21 @@
 | 20210303T01:55:08Z | Null | https://github.com/djaldave/laevad-backdoor | 0 | 0| 
 | 20210303T01:01:24Z | A Simple android remote administration tool using sockets. It uses java on the client side and python on the server side | https://github.com/karma9874/AndroRAT | 172 | 76| 
 | 20210303T00:25:50Z | Simple Backdoor plugin for 1.12.2. | https://github.com/MajesticWaffle/Minecraft-Backdoor | 1 | 0| 
-| 20210302T22:57:12Z | Null | https://github.com/iK4oS/PremiumBackdoor.exe | 0 | 1| 
 
 
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210303T02:49:16Z | Null | https://github.com/guardstrikelab/fuzzx_cpp_demo | 0 | 0| 
-| 20210303T02:37:27Z | Null | https://github.com/mrfuzz12/FuzzCheat | 0 | 0| 
-| 20210303T02:32:37Z | Coding practice for HTML/CSS/anything else web based | https://github.com/FuzzyPumpkin/FuzzyPumpkin.github.io | 5 | 1| 
-| 20210303T02:12:36Z | A fork and successor of the Sulley Fuzzing Framework | https://github.com/jtpereyda/boofuzz | 1158 | 235| 
-| 20210303T01:53:52Z | FuzzBench - Fuzzer benchmarking as a service. | https://github.com/google/fuzzbench | 604 | 102| 
-| 20210303T01:45:19Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 5987 | 1201| 
-| 20210303T01:33:47Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 1339 | 295| 
-| 20210303T00:28:21Z | Software for fuzzing, used on web application pentestings. | https://github.com/NESCAU-UFLA/FuzzingTool | 8 | 1| 
-| 20210303T00:06:05Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2275 | 115| 
-| 20210302T23:16:10Z | Null | https://github.com/matusf/open-api-fuzzer | 0 | 0| 
+| 20210303T13:27:40Z | Null | https://github.com/LadyDzidzor/fuzzy-octo-goggles | 0 | 0| 
+| 20210303T13:24:44Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 5987 | 1201| 
+| 20210303T13:21:56Z | A list of payload and bypass lists for penetration testing and red team infrastructure build. | https://github.com/ffffffff0x/AboutSecurity | 157 | 43| 
+| 20210303T13:14:59Z | Null | https://github.com/erdifajarf/PMDK_FuzzyAHP | 0 | 0| 
+| 20210303T13:12:08Z | Setup scripts for 32bit JavaScriptCore Fuzzing Setup | https://github.com/pmatos/jsc32-fuzz-setup | 0 | 0| 
+| 20210303T12:35:02Z | ProFuzzBench - A Benchmark for Stateful Protocol Fuzzing | https://github.com/profuzzbench/profuzzbench | 58 | 13| 
+| 20210303T12:05:09Z | White-box fuzzer for Java bytecode | https://github.com/vorpal-research/kex | 6 | 5| 
+| 20210303T11:49:29Z | A dictionary-like class that supports fuzzy key lookups, written in Python. | https://github.com/TomLaMantia/fuzzy-dictionary | 0 | 0| 
+| 20210303T11:46:41Z | Binary, coverage-guided fuzzer for Windows and macOS | https://github.com/googleprojectzero/Jackalope | 472 | 51| 
+| 20210303T11:29:14Z | ​ Official Xiu Xiu OH NO T-shirts / Xiu Xiu OH NO Sweet shirt / Xiu Xiu OH NO Merchbar Clothing / Xiu Xiu OH NO Gift & Merchandise Shop 2021  Buy It Now >>  https://www.moteefe.com/oh-no-xiu-xiu-t-shirt?color=white&product=men-s-t-shirt   Oh No Xiu Xiu Merch  CLICK HERE<<<<  Oh No is the upcoming twelfth album by American experimental band Xiu Xiu. It is scheduled to be released on March 26, 2021 via Polyvinyl. It is described as a %duets album%. Its lead single, %A Bottle of Rum% featuring Liz Harris was released on January 27, 2021.  Tracklist  Sad Mezcalita (Ft. Sharon Van Etten)  I Cannot Resist (Ft. Deb DeMure)  The Grifters (Ft. Haley Fohr)  Goodbye for Good (Ft. Greg Saunier)  OH NO (Ft. Susanne Sachsse)  Rumpus Room (Ft. Angus Andrew)  Fuzz Gong Fight (Ft. Angela Seo)  I Dream of Someone Else Entirely (Ft. Owen Pallett)  One Hundred Years (Ft. Chelsea Wolfe)  A Classic Screw (Ft. Fabrizio Modonese Palumbo)  It Bothers Me All the Time (Ft. Jonathan Meiburg)  Saint Dymphna (Ft. Twin Shadow)  Knock Out (Ft. Alice Bag)  A Bottle of Rum (Ft. Liz Harris)  ANTS (Ft. Valerie Diaz)  Checking into Xiu Xiu OH NO 2021 Merch Check Out This Link Above And Get Yours Official T-Shirts !!!  Xiu Xiu OH NO T Shirts Buy It Now >>  CLICK HERE<<<<      ​ | https://github.com/RedTee02/OH-NO-Xiu-Xiu-T-Shirt | 0 | 0| 
 
 
 
