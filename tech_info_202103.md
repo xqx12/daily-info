@@ -45,7 +45,7 @@
 | --- | --- | --- | --- | ---| 
 | 20210303T02:14:00Z | CVE-2021-23132 | com_media allowed paths that are not intended for image uploads. | https://github.com/HoangKien1020/CVE-2021-23132 | 未查询到CVE信息| 
 | 20210303T01:55:53Z | CVE-2021-21315 | CVE 2021-21315 PoC | https://github.com/ForbiddenProgrammer/CVE-2021-21315-PoC | The System Information Library for Node.JS (npm package %systeminformation%) is an open source collection of functions to retrieve detailed hardware, system and OS information. In systeminformation before version 5.3.1 there is a command injection vulnerability. Problem was fixed in version 5.3.1. As a workaround instead of upgrading, be sure to check or sanitize service parameters that are passed to si.inetLatency(), si.inetChecksite(), si.services(), si.processLoad() ... do only allow strings, reject any arrays. String sanitation works as expected.| 
-| 20210303T00:58:29Z | CVE-2021-27246 | Null | https://github.com/synacktiv/CVE-2021-27246_Pwn2Own2020 | 未查询到CVE信息| 
+| 20210303T00:58:29Z | CVE-2021-27246 | Null | https://github.com/synacktiv/CVE-2021-27246_Pwn2Own2020 | | 
 | 20210303T00:19:33Z | CVE-2021-21972 | Nmap script to check vulnerability CVE-2021-21972 | https://github.com/GuayoyoLabs/CVE-2021-21972 | The vSphere Client (HTML5) contains a remote code execution vulnerability in a vCenter Server plugin. A malicious actor with network access to port 443 may exploit this issue to execute commands with unrestricted privileges on the underlying operating system that hosts vCenter Server. This affects VMware vCenter Server (7.x before 7.0 U1c, 6.7 before 6.7 U3l and 6.5 before 6.5 U3n) and VMware Cloud Foundation (4.x before 4.2 and 3.x before 3.10.1.2).| 
 | 20210302T23:19:31Z | CVE-2021-21972 | Null | https://github.com/QmF0c3UK/CVE-2021-21972-vCenter-6.5-7.0-RCE-POC | The vSphere Client (HTML5) contains a remote code execution vulnerability in a vCenter Server plugin. A malicious actor with network access to port 443 may exploit this issue to execute commands with unrestricted privileges on the underlying operating system that hosts vCenter Server. This affects VMware vCenter Server (7.x before 7.0 U1c, 6.7 before 6.7 U3l and 6.5 before 6.5 U3n) and VMware Cloud Foundation (4.x before 4.2 and 3.x before 3.10.1.2).| 
 | 20210302T20:28:52Z | cve-2020-24572 | Null | https://github.com/lb0x/cve-2020-24572 | An issue was discovered in includes/webconsole.php in RaspAP 2.5. With authenticated access, an attacker can use a misconfigured (and virtually unrestricted) web console to attack the underlying OS (Raspberry Pi) running this software, and execute commands on the system (including ones for uploading of files and execution of code).| 
@@ -78,22 +78,22 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210303T02:16:16Z | Working a trail to follow Will and Arcerion in the Prodigy hacks. | https://github.com/KriticDev/Prodigy-Cheats-and-Exploitation | 0 | 0| 
+| 20210303T02:15:56Z | IOCs found exploiting CVE-2021-26855 thanks to info from Volexity and MS. | https://github.com/stressboi/hafnium-exchange-splunk-csvs | 0 | 1| 
 | 20210303T02:14:55Z | All the Lua scripts I developed, including exploit scripts (please only use those for educational purposes) | https://github.com/SkiddDev/Scripts | 0 | 0| 
 | 20210303T02:11:00Z | Unnamed PS1 save game backup loader thing | https://github.com/socram8888/PS1SaveExploit | 0 | 0| 
 | 20210303T02:07:58Z | ARTi-C2  is a post-exploitation framework used to execute Atomic Red Team test cases with rapid payload deployment and execution capabilities via .NET%s DLR. | https://github.com/blackbotinc/Atomic-Red-Team-Intelligence-C2 | 77 | 7| 
-| 20210303T02:06:07Z | IOCs found exploiting CVE-2021-26855 thanks to info from Volexity and MS. | https://github.com/stressboi/hafnium-exchange-splunk-csvs | 0 | 1| 
 | 20210303T02:02:45Z | Set of CLI tools for automatically generating (as well as testing) PHP exploits. | https://github.com/madberries/sourceforage | 0 | 0| 
 | 20210303T02:02:36Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 9 | 4| 
 | 20210303T01:15:31Z | I will keep update this | https://github.com/andrewbae/heap-exploitation | 3 | 0| 
 | 20210303T01:06:24Z | forked version of funtuna, a homebrew ps2 app launcher designed to ease the pain of getting a stable exploit for those that have a console uncompatible with FreeMcBoot that doesnt have a modchip | https://github.com/israpps/Funtuna-Fork | 2 | 0| 
 | 20210303T00:55:23Z | Null | https://github.com/ThanosKrk/VulnserverExploits | 0 | 0| 
-| 20210303T00:50:15Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 7 | 5| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210303T02:01:49Z | A port of BHIS%s Backdoors & Breaches for playingcards.io | https://github.com/FirmGuardian/backdoors-and-breaches-pcio | 0 | 0| 
+| 20210303T02:15:44Z | A port of BHIS%s Backdoors & Breaches for playingcards.io | https://github.com/FirmGuardian/backdoors-and-breaches-pcio | 0 | 0| 
 | 20210303T01:55:08Z | Null | https://github.com/djaldave/laevad-backdoor | 0 | 0| 
 | 20210303T01:01:24Z | A Simple android remote administration tool using sockets. It uses java on the client side and python on the server side | https://github.com/karma9874/AndroRAT | 172 | 76| 
 | 20210303T00:25:50Z | Simple Backdoor plugin for 1.12.2. | https://github.com/MajesticWaffle/Minecraft-Backdoor | 1 | 0| 
