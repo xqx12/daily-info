@@ -78,7 +78,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210303T02:03:56Z | IOCs found exploiting CVE-2021-26855 thanks to Volexity | https://github.com/stressboi/hafnium-exchange-splunk-csvs | 0 | 1| 
+| 20210303T02:06:07Z | IOCs found exploiting CVE-2021-26855 thanks to info from Volexity and MS. | https://github.com/stressboi/hafnium-exchange-splunk-csvs | 0 | 1| 
 | 20210303T02:02:45Z | Set of CLI tools for automatically generating (as well as testing) PHP exploits. | https://github.com/madberries/sourceforage | 0 | 0| 
 | 20210303T02:02:36Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 9 | 4| 
 | 20210303T01:52:12Z | All the Lua scripts I developed, including exploit scripts (please only use those for educational purposes) | https://github.com/SkiddDev/Scripts | 0 | 0| 
