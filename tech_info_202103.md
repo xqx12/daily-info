@@ -78,6 +78,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210303T01:52:12Z | All the Lua scripts I developed, including exploit scripts (please only use those for educational purposes) | https://github.com/SkiddDev/Scripts | 0 | 0| 
 | 20210303T01:35:11Z | IOCs found exploiting CVE-2021-26855 thanks to Volexity | https://github.com/stressboi/hafnium-exchange-splunk-csvs | 0 | 1| 
 | 20210303T01:15:31Z | I will keep update this | https://github.com/andrewbae/heap-exploitation | 3 | 0| 
 | 20210303T01:15:20Z | Set of CLI tools for automatically generating (as well as testing) PHP exploits. | https://github.com/madberries/sourceforage | 0 | 0| 
@@ -87,7 +88,6 @@
 | 20210303T00:50:15Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 7 | 5| 
 | 20210303T00:36:24Z | PoC exploits for software vulnerabilities | https://github.com/lockedbyte/CVE-Exploits | 437 | 99| 
 | 20210303T00:19:36Z | Tool made to search for admin tab on the site | https://github.com/sickog0d/SynchNouys | 3 | 2| 
-| 20210303T00:03:53Z | Metasploit Utilities, Post Exploit Scripts and other scripts primarily for reference | https://github.com/reg1reg1/Exploits | 0 | 0| 
 
 
 # backdoor on Github 推荐
