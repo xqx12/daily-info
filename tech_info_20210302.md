@@ -13,6 +13,7 @@
 | 20210302 | 训练 Robust Trees 检测 Twitter spam | https://surrealyz.medium.com/robust-trees-for-security-577061177320| 
 | 20210302 | Finding Evil Go Packages | https://michenriksen.com/blog/finding-evil-go-packages/| 
 | 20210302 | CVE-2020-28243 SaltStack Minion 命令行注入本地提权漏洞 | https://sec.stealthcopter.com/cve-2020-28243/| 
+| 20210302 | 亚马逊的Alexa技能的安全性和隐私问题分析。 | https://www.alexa-skill-analysis.org/| 
 
 
 # 安全维基 推荐
@@ -27,21 +28,22 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20210302T13:36:41Z | CVE-2021-27246 | Null | https://github.com/synacktiv/CVE-2021-27246_Pwn2Own2020 | 未查询到CVE信息| 
-| 20210302T12:54:02Z | CVE-2021-21315 | CVE 2021-21315 PoC | https://github.com/ForbiddenProgrammer/CVE-2021-21315-PoC | The System Information Library for Node.JS (npm package %systeminformation%) is an open source collection of functions to retrieve detailed hardware, system and OS information. In systeminformation before version 5.3.1 there is a command injection vulnerability. Problem was fixed in version 5.3.1. As a workaround instead of upgrading, be sure to check or sanitize service parameters that are passed to si.inetLatency(), si.inetChecksite(), si.services(), si.processLoad() ... do only allow strings, reject any arrays. String sanitation works as expected.| 
-| 20210302T12:47:52Z | CVE-2021-21972 | Nmap script to check vulnerability CVE-2021-21972 | https://github.com/GuayoyoLabs/CVE-2021-21972 | The vSphere Client (HTML5) contains a remote code execution vulnerability in a vCenter Server plugin. A malicious actor with network access to port 443 may exploit this issue to execute commands with unrestricted privileges on the underlying operating system that hosts vCenter Server. This affects VMware vCenter Server (7.x before 7.0 U1c, 6.7 before 6.7 U3l and 6.5 before 6.5 U3n) and VMware Cloud Foundation (4.x before 4.2 and 3.x before 3.10.1.2).| 
+| 20210302T23:19:31Z | CVE-2021-21972 | Null | https://github.com/QmF0c3UK/CVE-2021-21972-vCenter-6.5-7.0-RCE-POC | The vSphere Client (HTML5) contains a remote code execution vulnerability in a vCenter Server plugin. A malicious actor with network access to port 443 may exploit this issue to execute commands with unrestricted privileges on the underlying operating system that hosts vCenter Server. This affects VMware vCenter Server (7.x before 7.0 U1c, 6.7 before 6.7 U3l and 6.5 before 6.5 U3n) and VMware Cloud Foundation (4.x before 4.2 and 3.x before 3.10.1.2).| 
+| 20210302T20:28:52Z | cve-2020-24572 | Null | https://github.com/lb0x/cve-2020-24572 | An issue was discovered in includes/webconsole.php in RaspAP 2.5. With authenticated access, an attacker can use a misconfigured (and virtually unrestricted) web console to attack the underlying OS (Raspberry Pi) running this software, and execute commands on the system (including ones for uploading of files and execution of code).| 
 | 20210302T10:11:28Z | CVE-2021-21972 | CVE-2021-21972 Exploit | https://github.com/NS-Sp4ce/CVE-2021-21972 | The vSphere Client (HTML5) contains a remote code execution vulnerability in a vCenter Server plugin. A malicious actor with network access to port 443 may exploit this issue to execute commands with unrestricted privileges on the underlying operating system that hosts vCenter Server. This affects VMware vCenter Server (7.x before 7.0 U1c, 6.7 before 6.7 U3l and 6.5 before 6.5 U3n) and VMware Cloud Foundation (4.x before 4.2 and 3.x before 3.10.1.2).| 
 | 20210302T10:10:10Z | CVE-2021-21972 | CVE-2021-21972 | https://github.com/milo2012/CVE-2021-21972 | The vSphere Client (HTML5) contains a remote code execution vulnerability in a vCenter Server plugin. A malicious actor with network access to port 443 may exploit this issue to execute commands with unrestricted privileges on the underlying operating system that hosts vCenter Server. This affects VMware vCenter Server (7.x before 7.0 U1c, 6.7 before 6.7 U3l and 6.5 before 6.5 U3n) and VMware Cloud Foundation (4.x before 4.2 and 3.x before 3.10.1.2).| 
 | 20210302T10:06:41Z | CVE-2021-9999 | Null | https://github.com/GG-o1/CVE-2021-9999 | 未查询到CVE信息| 
-| 20210302T10:02:08Z | CVE-2021-25281 | Chaining CVE-2021-25281 and CVE-2021-25282 to exploit a SaltStack | https://github.com/Immersive-Labs-Sec/CVE-2021-25281 | An issue was discovered in through SaltStack Salt before 3002.5. salt-api does not honor eauth credentials for the wheel_async client. Thus, an attacker can remotely run any wheel modules on the master.| 
-| 20210302T08:11:29Z | CVE-2021-21972 | Null | https://github.com/QmF0c3UK/CVE-2021-21972-vCenter-6.5-7.0-RCE-POC | The vSphere Client (HTML5) contains a remote code execution vulnerability in a vCenter Server plugin. A malicious actor with network access to port 443 may exploit this issue to execute commands with unrestricted privileges on the underlying operating system that hosts vCenter Server. This affects VMware vCenter Server (7.x before 7.0 U1c, 6.7 before 6.7 U3l and 6.5 before 6.5 U3n) and VMware Cloud Foundation (4.x before 4.2 and 3.x before 3.10.1.2).| 
+| 20210302T10:02:08Z | CVE-2021-25281 | Chaining CVE-2021-25281 and CVE-2021-25282 to exploit a SaltStack | https://github.com/Immersive-Labs-Sec/CVE-2021-25281 | | 
 | 20210302T07:55:24Z | CVE-2021-21972 | Proof of Concept Exploit for vCenter CVE-2021-21972 | https://github.com/horizon3ai/CVE-2021-21972 | The vSphere Client (HTML5) contains a remote code execution vulnerability in a vCenter Server plugin. A malicious actor with network access to port 443 may exploit this issue to execute commands with unrestricted privileges on the underlying operating system that hosts vCenter Server. This affects VMware vCenter Server (7.x before 7.0 U1c, 6.7 before 6.7 U3l and 6.5 before 6.5 U3n) and VMware Cloud Foundation (4.x before 4.2 and 3.x before 3.10.1.2).| 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210302T14:26:18Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 的 Klee One 的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 110 | 4| 
+| 20210302T21:59:57Z | Null | https://github.com/BertKleewein/BertKleewein.github.io | 0 | 0| 
+| 20210302T21:47:56Z | The default Gatsby starter | https://github.com/leehammond/kleehammond-com | 0 | 0| 
+| 20210302T16:34:54Z | RVT is a collection of tools/libraries to support both static and dynamic verification of Rust programs. | https://github.com/project-oak/rust-verification-tools | 109 | 7| 
+| 20210302T15:16:10Z | Null | https://github.com/fontworks-fonts/Klee | 371 | 10| 
 | 20210302T08:46:04Z | a leetcode question each day, your salary increment $100 per day | https://github.com/guoxiangCN/kLeetcode | 0 | 0| 
 
 
@@ -53,26 +55,31 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210302T14:36:09Z | Set of CLI tools for automatically generating (as well as testing) PHP exploits. | https://github.com/madberries/sourceforage | 0 | 0| 
-| 20210302T14:21:56Z | 3D image denoising using a modified U-Net architecture that exploits a prior image. Models are trained using efficient tensorflow pipeline based on keras and tf.data.Dataset API | https://github.com/jabascal/ResPr-UNet-3D-Denoising-Efficient-Pipeline-TF-keras | 0 | 0| 
-| 20210302T14:18:03Z | Blazing fast, advanced Padding Oracle exploit | https://github.com/glebarez/padre | 18 | 1| 
-| 20210302T14:17:24Z | Random Exploits | https://github.com/w4fz5uck5/3XPL01t5 | 16 | 13| 
-| 20210302T14:02:30Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 9 | 4| 
-| 20210302T13:50:53Z | Null | https://github.com/Khalid-34/Exploiter-l-opendata-des-horaires-de-transports- | 0 | 0| 
-| 20210302T13:41:16Z | Windows Exploit Suggester - Next Generation | https://github.com/bitsadmin/wesng | 2184 | 346| 
-| 20210302T13:35:49Z | exploiting and defending neural networks(神经网络攻防专栏) | https://github.com/AIPwn/HackingNeuralNetworks | 2 | 0| 
-| 20210302T13:31:26Z | xcube is a Python package for generating and exploiting data cubes powered by xarray, dask, and zarr. | https://github.com/dcs4cop/xcube | 70 | 12| 
-| 20210302T13:29:34Z | Exploiter l%opendata des horaires de transports fullstack | https://github.com/DialloMamadouDjan/Transport_fullstack | 0 | 0| 
+| 20210302T23:54:04Z | A CTF web app designed to teach software developers application security by showcasing what vulnerable code looks like, how to write code to exploit the vulnerability, and how to write code to patch the vulnerability. | https://github.com/neumaneuma/appseccheat.codes | 0 | 0| 
+| 20210302T23:42:33Z | Fix exploits on anarchy minecraft servers | https://github.com/moom0o/AnarchyExploitFixes | 14 | 6| 
+| 20210302T23:24:31Z | Shadow Strike is a hacking framework that aids in information gathering, payload generation, payload delivery, and website exploitation. | https://github.com/diegomardian/ShadowStrike | 5 | 5| 
+| 20210302T22:50:51Z | Unnamed PS1 save game backup loader thing | https://github.com/socram8888/PS1SaveExploit | 0 | 0| 
+| 20210302T22:11:19Z | Clouddefense.ai is an automated web application security testing tool that audits your web applications by checking for vulnerabilities like SQL Injection, Cross site scripting and other exploitable vulnerabilities. | https://github.com/CloudDefenseAI/cd | 2 | 0| 
+| 20210302T22:05:41Z | This bash script will help you to hack remote hosts  | https://github.com/FabioDefilippo/linuxallremote | 8 | 1| 
+| 20210302T21:50:17Z | Null | https://github.com/Jackzmc/voice-exploit-destroyer | 0 | 0| 
+| 20210302T21:36:43Z | 🏴‍☠️ Pwn misconfigured sites running ShareX custom image uploader API | https://github.com/ecriminal/PwnX.py | 10 | 2| 
+| 20210302T21:27:16Z | Pentest important small exploitation scripts  | https://github.com/cyberjatin/mynotes | 1 | 0| 
+| 20210302T20:35:13Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9074 | 1460| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210302T13:15:10Z | Null | https://github.com/Wiilldd/backdoor | 0 | 0| 
-| 20210302T12:49:37Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 183 | 26| 
-| 20210302T08:45:25Z | Null | https://github.com/iK4oS/PremiumBackdoor.exe | 0 | 1| 
-| 20210302T08:39:49Z | Thefatrat a massive exploiting tool : Easy tool to generate backdoor and easy tool to post exploitation attack like browser attack and etc . This tool compiles a malware with popular payload and then the compiled malware can be execute on windows, android, mac . The malware that created with this tool also have an ability to bypass most AV software protection . | https://github.com/Screetsec/TheFatRat | 4992 | 1644| 
-| 20210302T08:26:20Z | 🤖 AI based Backdoor Written for Windows using Telegram-bot as Its Back-ends. | https://github.com/wildonion/katyusha | 1 | 1| 
+| 20210302T22:57:12Z | Null | https://github.com/iK4oS/PremiumBackdoor.exe | 0 | 1| 
+| 20210302T22:33:31Z | Null | https://github.com/djaldave/laevad-backdoor | 0 | 0| 
+| 20210302T22:08:29Z | This is a simple backdoor program | https://github.com/jeckonia49/backdooor | 0 | 0| 
+| 20210302T18:47:57Z | Null | https://github.com/ph-luffy/Backdoor | 1 | 1| 
+| 20210302T18:32:20Z | backdoor uiuiuiui | https://github.com/zeru2/backdoor | 0 | 0| 
+| 20210302T18:16:59Z | Simple backdoor on Python 3 and C++ for windows. Works as reverse shell. Needs in small modification. | https://github.com/Retr0-code/Phoenix | 1 | 0| 
+| 20210302T16:55:42Z | Null | https://github.com/Wiilldd/backdoor | 0 | 0| 
+| 20210302T16:03:29Z | Fud Persistent Windows Backdoor developed purely in python | https://github.com/swagkarna/Chuvi-Botnet | 14 | 5| 
+| 20210302T15:45:50Z | Thefatrat a massive exploiting tool : Easy tool to generate backdoor and easy tool to post exploitation attack like browser attack and etc . This tool compiles a malware with popular payload and then the compiled malware can be execute on windows, android, mac . The malware that created with this tool also have an ability to bypass most AV software protection . | https://github.com/Screetsec/TheFatRat | 4993 | 1644| 
+| 20210302T14:39:27Z | A backdoor which is similar to Meterpreter. | https://github.com/0xStressedd/RemoteCMD | 3 | 0| 
 
 
 # fuzz on Github 推荐
