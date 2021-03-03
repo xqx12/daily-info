@@ -29,7 +29,7 @@
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
 | 20210302T23:19:31Z | CVE-2021-21972 | Null | https://github.com/QmF0c3UK/CVE-2021-21972-vCenter-6.5-7.0-RCE-POC | The vSphere Client (HTML5) contains a remote code execution vulnerability in a vCenter Server plugin. A malicious actor with network access to port 443 may exploit this issue to execute commands with unrestricted privileges on the underlying operating system that hosts vCenter Server. This affects VMware vCenter Server (7.x before 7.0 U1c, 6.7 before 6.7 U3l and 6.5 before 6.5 U3n) and VMware Cloud Foundation (4.x before 4.2 and 3.x before 3.10.1.2).| 
-| 20210302T20:28:52Z | cve-2020-24572 | Null | https://github.com/lb0x/cve-2020-24572 | An issue was discovered in includes/webconsole.php in RaspAP 2.5. With authenticated access, an attacker can use a misconfigured (and virtually unrestricted) web console to attack the underlying OS (Raspberry Pi) running this software, and execute commands on the system (including ones for uploading of files and execution of code).| 
+| 20210302T20:28:52Z | cve-2020-24572 | Null | https://github.com/lb0x/cve-2020-24572 | | 
 | 20210302T10:11:28Z | CVE-2021-21972 | CVE-2021-21972 Exploit | https://github.com/NS-Sp4ce/CVE-2021-21972 | | 
 | 20210302T10:10:10Z | CVE-2021-21972 | CVE-2021-21972 | https://github.com/milo2012/CVE-2021-21972 | The vSphere Client (HTML5) contains a remote code execution vulnerability in a vCenter Server plugin. A malicious actor with network access to port 443 may exploit this issue to execute commands with unrestricted privileges on the underlying operating system that hosts vCenter Server. This affects VMware vCenter Server (7.x before 7.0 U1c, 6.7 before 6.7 U3l and 6.5 before 6.5 U3n) and VMware Cloud Foundation (4.x before 4.2 and 3.x before 3.10.1.2).| 
 | 20210302T10:06:41Z | CVE-2021-9999 | Null | https://github.com/GG-o1/CVE-2021-9999 | 未查询到CVE信息| 
@@ -71,7 +71,6 @@
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
 | 20210302T22:57:12Z | Null | https://github.com/iK4oS/PremiumBackdoor.exe | 0 | 1| 
-| 20210302T22:33:31Z | Null | https://github.com/djaldave/laevad-backdoor | 0 | 0| 
 | 20210302T22:08:29Z | This is a simple backdoor program | https://github.com/jeckonia49/backdooor | 0 | 0| 
 | 20210302T18:47:57Z | Null | https://github.com/ph-luffy/Backdoor | 1 | 1| 
 | 20210302T18:32:20Z | backdoor uiuiuiui | https://github.com/zeru2/backdoor | 0 | 0| 
@@ -80,6 +79,7 @@
 | 20210302T16:03:29Z | Fud Persistent Windows Backdoor developed purely in python | https://github.com/swagkarna/Chuvi-Botnet | 14 | 5| 
 | 20210302T15:45:50Z | Thefatrat a massive exploiting tool : Easy tool to generate backdoor and easy tool to post exploitation attack like browser attack and etc . This tool compiles a malware with popular payload and then the compiled malware can be execute on windows, android, mac . The malware that created with this tool also have an ability to bypass most AV software protection . | https://github.com/Screetsec/TheFatRat | 4993 | 1644| 
 | 20210302T14:39:27Z | A backdoor which is similar to Meterpreter. | https://github.com/0xStressedd/RemoteCMD | 3 | 0| 
+| 20210302T12:49:37Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 183 | 26| 
 
 
 # fuzz on Github 推荐
