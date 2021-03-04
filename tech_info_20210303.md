@@ -17,6 +17,9 @@
 | 20210303 | 红蓝对抗中的云原生漏洞挖掘及利用实录 | https://security.tencent.com/index.php/blog/msg/183| 
 | 20210303 | Node.JS 第三方库 systeminformation 被发现命令注入漏洞 | https://sec.today/pulses/bc156e11-0a44-49a5-af0e-124516b58119/| 
 | 20210303 | Node.JS 第三方库 systeminformation 被发现命令注入漏洞 | https://github.com/ForbiddenProgrammer/CVE-2021-21315-PoC| 
+| 20210303 | 斯坦福公开课 CS 110L:系统编程中的安全性学习视频。 | https://reberhardt.com/cs110l/spring-2020/| 
+| 20210303 | 模糊处理套接字：Apache HTTP，第1部分：改变 | https://securitylab.github.com/research/fuzzing-apache-1/| 
+| 20210303 | Fbot新的僵尸网络对交通和运输智能设备存在安全威胁。 | https://blog.netlab.360.com/fbot-is-now-riding-the-traffic-and-transportation-smart-devices-en/| 
 
 
 # 安全维基 推荐
@@ -31,23 +34,24 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20210303T14:18:40Z | CVE-2021-21972 | Null | https://github.com/QmF0c3UK/CVE-2021-21972-vCenter-6.5-7.0-RCE-POC | The vSphere Client (HTML5) contains a remote code execution vulnerability in a vCenter Server plugin. A malicious actor with network access to port 443 may exploit this issue to execute commands with unrestricted privileges on the underlying operating system that hosts vCenter Server. This affects VMware vCenter Server (7.x before 7.0 U1c, 6.7 before 6.7 U3l and 6.5 before 6.5 U3n) and VMware Cloud Foundation (4.x before 4.2 and 3.x before 3.10.1.2).| 
-| 20210303T14:10:01Z | CVE-2021-21315 | CVE 2021-21315 PoC | https://github.com/ForbiddenProgrammer/CVE-2021-21315-PoC | The System Information Library for Node.JS (npm package %systeminformation%) is an open source collection of functions to retrieve detailed hardware, system and OS information. In systeminformation before version 5.3.1 there is a command injection vulnerability. Problem was fixed in version 5.3.1. As a workaround instead of upgrading, be sure to check or sanitize service parameters that are passed to si.inetLatency(), si.inetChecksite(), si.services(), si.processLoad() ... do only allow strings, reject any arrays. String sanitation works as expected.| 
-| 20210303T14:08:54Z | CVE-2021-23132 | com_media allowed paths that are not intended for image uploads to RCE | https://github.com/HoangKien1020/CVE-2021-23132 | 未查询到CVE信息| 
-| 20210303T13:54:40Z | CVE-2021-21972 | Nmap script to check vulnerability CVE-2021-21972 | https://github.com/GuayoyoLabs/CVE-2021-21972 | The vSphere Client (HTML5) contains a remote code execution vulnerability in a vCenter Server plugin. A malicious actor with network access to port 443 may exploit this issue to execute commands with unrestricted privileges on the underlying operating system that hosts vCenter Server. This affects VMware vCenter Server (7.x before 7.0 U1c, 6.7 before 6.7 U3l and 6.5 before 6.5 U3n) and VMware Cloud Foundation (4.x before 4.2 and 3.x before 3.10.1.2).| 
+| 20210303T23:28:34Z | CVE-2021-21315 | CVE 2021-21315 PoC | https://github.com/ForbiddenProgrammer/CVE-2021-21315-PoC | The System Information Library for Node.JS (npm package %systeminformation%) is an open source collection of functions to retrieve detailed hardware, system and OS information. In systeminformation before version 5.3.1 there is a command injection vulnerability. Problem was fixed in version 5.3.1. As a workaround instead of upgrading, be sure to check or sanitize service parameters that are passed to si.inetLatency(), si.inetChecksite(), si.services(), si.processLoad() ... do only allow strings, reject any arrays. String sanitation works as expected.| 
+| 20210303T23:16:52Z | CVE-2021-21972 | Nmap script to check vulnerability CVE-2021-21972 | https://github.com/GuayoyoLabs/CVE-2021-21972 | The vSphere Client (HTML5) contains a remote code execution vulnerability in a vCenter Server plugin. A malicious actor with network access to port 443 may exploit this issue to execute commands with unrestricted privileges on the underlying operating system that hosts vCenter Server. This affects VMware vCenter Server (7.x before 7.0 U1c, 6.7 before 6.7 U3l and 6.5 before 6.5 U3n) and VMware Cloud Foundation (4.x before 4.2 and 3.x before 3.10.1.2).| 
+| 20210303T21:52:31Z | 未知编号 | 2020l4web-app-mockup-DanCvejn created by GitHub Classroom | https://github.com/pslib-cz/2020l4web-app-mockup-DanCvejn | 未查询到CVE信息| 
+| 20210303T21:26:37Z | CVE-2020-28926 | Null | https://github.com/lorsanta/exploit-CVE-2020-28926 | ReadyMedia (aka MiniDLNA) before versions 1.3.0 allows remote code execution. Sending a malicious UPnP HTTP request to the miniDLNA service using HTTP chunked encoding can lead to a signedness bug resulting in a buffer overflow in calls to memcpy/memmove.| 
+| 20210303T20:45:15Z | CVE-2021-23132 | com_media allowed paths that are not intended for image uploads to RCE | https://github.com/HoangKien1020/CVE-2021-23132 | | 
+| 20210303T16:42:30Z | CVE-2021-21972 | Null | https://github.com/QmF0c3UK/CVE-2021-21972-vCenter-6.5-7.0-RCE-POC | The vSphere Client (HTML5) contains a remote code execution vulnerability in a vCenter Server plugin. A malicious actor with network access to port 443 may exploit this issue to execute commands with unrestricted privileges on the underlying operating system that hosts vCenter Server. This affects VMware vCenter Server (7.x before 7.0 U1c, 6.7 before 6.7 U3l and 6.5 before 6.5 U3n) and VMware Cloud Foundation (4.x before 4.2 and 3.x before 3.10.1.2).| 
+| 20210303T14:54:21Z | CVE-2021-21972 | CVE-2021-21972 Exploit | https://github.com/NS-Sp4ce/CVE-2021-21972 | The vSphere Client (HTML5) contains a remote code execution vulnerability in a vCenter Server plugin. A malicious actor with network access to port 443 may exploit this issue to execute commands with unrestricted privileges on the underlying operating system that hosts vCenter Server. This affects VMware vCenter Server (7.x before 7.0 U1c, 6.7 before 6.7 U3l and 6.5 before 6.5 U3n) and VMware Cloud Foundation (4.x before 4.2 and 3.x before 3.10.1.2).| 
 | 20210303T10:53:02Z | CVE-2021-27246 | Null | https://github.com/synacktiv/CVE-2021-27246_Pwn2Own2020 | 未查询到CVE信息| 
 | 20210303T10:30:34Z | CVE-2020-9484 | Null | https://github.com/DXY0411/CVE-2020-9484 | When using Apache Tomcat versions 10.0.0-M1 to 10.0.0-M4, 9.0.0.M1 to 9.0.34, 8.5.0 to 8.5.54 and 7.0.0 to 7.0.103 if a) an attacker is able to control the contents and name of a file on the server; and b) the server is configured to use the PersistenceManager with a FileStore; and c) the PersistenceManager is configured with sessionAttributeValueClassNameFilter=%null% (the default unless a SecurityManager is used) or a sufficiently lax filter to allow the attacker provided object to be deserialized; and d) the attacker knows the relative file path from the storage location used by FileStore to the file the attacker has control over; then, using a specifically crafted request, the attacker will be able to trigger remote code execution via deserialization of the file under their control. Note that all of conditions a) to d) must be true for the attack to succeed.| 
-| 20210303T08:01:24Z | CVE-2020-28243 | CVE-2020-28243 Local Privledge Escalation Exploit in SaltStack Minion | https://github.com/stealthcopter/CVE-2020-28243 | | 
-| 20210303T03:58:10Z | CVE-2021-21972 | CVE-2021-21972 | https://github.com/milo2012/CVE-2021-21972 | The vSphere Client (HTML5) contains a remote code execution vulnerability in a vCenter Server plugin. A malicious actor with network access to port 443 may exploit this issue to execute commands with unrestricted privileges on the underlying operating system that hosts vCenter Server. This affects VMware vCenter Server (7.x before 7.0 U1c, 6.7 before 6.7 U3l and 6.5 before 6.5 U3n) and VMware Cloud Foundation (4.x before 4.2 and 3.x before 3.10.1.2).| 
-| 20210303T03:46:48Z | CVE-2020-24597 | Directory traversal in com_media to RCE | https://github.com/HoangKien1020/CVE-2020-24597 | 未查询到CVE信息| 
-| 20210303T03:30:46Z | cve-2021-21972 | Null | https://github.com/d3sh1n/cve-2021-21972 | The vSphere Client (HTML5) contains a remote code execution vulnerability in a vCenter Server plugin. A malicious actor with network access to port 443 may exploit this issue to execute commands with unrestricted privileges on the underlying operating system that hosts vCenter Server. This affects VMware vCenter Server (7.x before 7.0 U1c, 6.7 before 6.7 U3l and 6.5 before 6.5 U3n) and VMware Cloud Foundation (4.x before 4.2 and 3.x before 3.10.1.2).| 
+| 20210303T08:01:24Z | CVE-2020-28243 | CVE-2020-28243 Local Privledge Escalation Exploit in SaltStack Minion | https://github.com/stealthcopter/CVE-2020-28243 | An issue was discovered in SaltStack Salt before 3002.5. The minion%s restartcheck is vulnerable to command injection via a crafted process name. This allows for a local privilege escalation by any user able to create a files on the minion in a non-blacklisted directory.| 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210303T14:19:25Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 的 Klee One 的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 177 | 5| 
-| 20210303T13:54:24Z | Null | https://github.com/fontworks-fonts/Klee | 373 | 10| 
+| 20210303T23:18:58Z | KLEE support llvm-9.0.0 | https://github.com/YizhuoZhai/yzklee | 0 | 0| 
+| 20210303T21:15:30Z | Null | https://github.com/abbykleespie/LAWk5AbbyKleespie.appstudio | 0 | 0| 
+| 20210303T18:47:08Z | Null | https://github.com/fontworks-fonts/Klee | 375 | 10| 
 | 20210303T13:15:04Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1638 | 483| 
 | 20210303T02:24:23Z | KleeneExpressions | https://github.com/ostomachion/Kleene | 1 | 0| 
 
@@ -60,31 +64,31 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210303T14:15:45Z | Forestry Thematic Exploitation Platform | https://github.com/cgi-eoss/ftep | 4 | 0| 
-| 20210303T14:02:32Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 9 | 4| 
-| 20210303T13:59:08Z | This bash script will help you to hack remote hosts  | https://github.com/FabioDefilippo/linuxallremote | 8 | 1| 
-| 20210303T13:49:28Z | Null | https://github.com/Deepanjalkumar/Exploit-Development | 0 | 0| 
-| 20210303T13:46:36Z | AMWScan (PHP Antimalware Scanner) is a free tool to scan php files and analyze your project to find any malicious code inside it. | https://github.com/marcocesarato/PHP-Antimalware-Scanner | 173 | 32| 
-| 20210303T13:43:25Z | linux post-exploitation framework made by linux user | https://github.com/jm33-m0/emp3r0r | 404 | 79| 
-| 20210303T13:43:01Z | Thi powershell script has got to run in remote windows host, even for pivoting | https://github.com/FabioDefilippo/winallenum | 2 | 1| 
-| 20210303T13:37:52Z | Textpattern <= 4.8.3 Remote code execution (Authenticated) | https://github.com/ricardojoserf/textpattern-exploit-rce | 0 | 0| 
-| 20210303T13:12:27Z | Exploit ILP to learn symmetry breaking constraints of ASP programs. | https://github.com/prosysscience/Symmetry_Breaking_with_ILP | 0 | 0| 
-| 20210303T12:59:07Z | A number of exploits and tools I%ve written for CVEs accredited to Marshall Whittaker/oxagast | https://github.com/oxagast/oxasploits | 4 | 1| 
+| 20210303T23:59:48Z | Null | https://github.com/NonSwag/TNLAntiExploit | 0 | 0| 
+| 20210303T23:51:21Z | Automatic Linux privesc via exploitation of low-hanging fruit e.g. gtfobins :arrow_up: :skull_and_crossbones: | https://github.com/liamg/traitor | 2496 | 99| 
+| 20210303T23:11:54Z | Working to create a new and improved prodigy cheat menu.  This is based of of willsCheatmenu, but there will probably be some new hacks, improved dialogue, and an overall better cheat menu. | https://github.com/KriticDev/Prodigy-Cheats-and-Exploitation | 1 | 1| 
+| 20210303T22:08:45Z | Script to scan windows drivers for commonly exploitable exports | https://github.com/raih7n/RomulanPy | 0 | 0| 
+| 20210303T21:30:15Z | Abusing delayed share calculations on 4000% APR staking. | https://github.com/WP-LKL/bscValueDefi-Exploit | 0 | 0| 
+| 20210303T21:26:37Z | Null | https://github.com/lorsanta/exploit-CVE-2020-28926 | 0 | 0| 
+| 20210303T21:20:32Z | CTF framework and exploit development library | https://github.com/Gallopsled/pwntools | 7586 | 1362| 
+| 20210303T20:43:37Z | Ready, Aim, Fire. | https://github.com/Fricciolosa-Red-Team/mobile-heavy-artillery | 1 | 0| 
+| 20210303T20:42:14Z | Pentest important small exploitation scripts  | https://github.com/cyberjatin/mynotes | 1 | 0| 
+| 20210303T20:40:00Z | %The software will be building a network server from scratch that at startup will have the ability to selectively enable insecure portions of code that can be exploited. The software could be developed as a honeypot for detection of exploitation attempts within a network and/or as a practice server for pentesters.  The project may also need to develop companion software that can test the code, or collect logs from the server.% | https://github.com/TimHanneman/Multi_Purpose_Exploitable_Server | 0 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210303T20:29:37Z | A port of BHIS%s Backdoors & Breaches for playingcards.io | https://github.com/FirmGuardian/backdoors-and-breaches-pcio | 1 | 1| 
+| 20210303T19:26:35Z | Threat Emulation and Red Teaming Framework. | https://github.com/quantumcored/remote_hacker_probe | 28 | 5| 
+| 20210303T19:09:51Z | Motorola NC1500 Backdoor Password | https://github.com/billchaison/nc1500 | 2 | 0| 
+| 20210303T18:21:55Z | server and target backdoor with python | https://github.com/zeru2/backdoor | 0 | 0| 
+| 20210303T16:48:23Z | Null | https://github.com/Wiilldd/backdoor | 0 | 0| 
+| 20210303T15:13:40Z | Simple Backdoor plugin for 1.12.2. | https://github.com/MajesticWaffle/Minecraft-Backdoor | 1 | 0| 
 | 20210303T14:05:42Z | Null | https://github.com/viamAhmadi/simple-backdoor | 0 | 0| 
 | 20210303T13:46:36Z | AMWScan (PHP Antimalware Scanner) is a free tool to scan php files and analyze your project to find any malicious code inside it. | https://github.com/marcocesarato/PHP-Antimalware-Scanner | 173 | 32| 
 | 20210303T13:25:52Z | Simple backdoor on Python 3 and C++ for windows. Works as reverse shell. Needs in small modification. | https://github.com/Retr0-code/Phoenix | 2 | 0| 
 | 20210303T11:31:51Z | %Socialx% is a Social Engineering And Remote Access Trojan Tool. You can generate fud backdoor and you can embed any file you want inside of the exe file. | https://github.com/AzizKpln/Social_X | 68 | 17| 
-| 20210303T11:03:06Z | backdoor uiuiuiui | https://github.com/zeru2/backdoor | 0 | 0| 
-| 20210303T10:55:08Z | Thefatrat a massive exploiting tool : Easy tool to generate backdoor and easy tool to post exploitation attack like browser attack and etc . This tool compiles a malware with popular payload and then the compiled malware can be execute on windows, android, mac . The malware that created with this tool also have an ability to bypass most AV software protection . | https://github.com/Screetsec/TheFatRat | 4995 | 1645| 
-| 20210303T10:50:00Z | Backdoor Open Source | https://github.com/kadzicuh/Backdoor | 0 | 0| 
-| 20210303T07:13:10Z | Linux Kernel module-less implant (backdoor) | https://github.com/milabs/kopycat | 0 | 0| 
-| 20210303T02:17:39Z | A port of BHIS%s Backdoors & Breaches for playingcards.io | https://github.com/FirmGuardian/backdoors-and-breaches-pcio | 1 | 1| 
-| 20210303T01:55:08Z | Null | https://github.com/djaldave/laevad-backdoor | 0 | 0| 
 
 
 # fuzz on Github 推荐
