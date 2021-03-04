@@ -96,6 +96,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210304T13:18:20Z | %Socialx% is a Social Engineering And Remote Access Trojan Tool. You can generate fud backdoor and you can embed any file you want inside of the exe file. | https://github.com/AzizKpln/Social_X | 68 | 17| 
 | 20210304T13:06:33Z | Linux Kernel module-less implant (backdoor) | https://github.com/milabs/kopycat | 11 | 4| 
 | 20210304T10:51:03Z | Backdoor shell that can bypass error 403 forbidden and 406 auto delete contents | https://github.com/SondreX-ID/Gel4y-Mini-Shell-Backdoor | 1 | 0| 
 | 20210304T10:17:06Z | A Simple android remote administration tool using sockets. It uses java on the client side and python on the server side | https://github.com/karma9874/AndroRAT | 172 | 76| 
@@ -105,7 +106,6 @@
 | 20210303T19:26:35Z | Threat Emulation and Red Teaming Framework. | https://github.com/quantumcored/remote_hacker_probe | 28 | 5| 
 | 20210303T19:09:51Z | Motorola NC1500 Backdoor Password | https://github.com/billchaison/nc1500 | 2 | 0| 
 | 20210303T18:21:55Z | server and target backdoor with python | https://github.com/zeru2/backdoor | 0 | 0| 
-| 20210303T16:48:23Z | Null | https://github.com/Wiilldd/backdoor | 0 | 0| 
 
 
 # fuzz on Github 推荐
