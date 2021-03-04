@@ -81,6 +81,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210304T13:03:44Z | A Network Enumeration and Attack Toolset for Windows Active Directory Environments. | https://github.com/m8r0wn/ActiveReign | 207 | 32| 
 | 20210304T13:02:30Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 9 | 4| 
 | 20210304T12:57:40Z | A PowerShell script to identify indicators of exploitation of CVE-2021-26855, CVE-2021-26857, CVE-2021-26858, and CVE-2021-26865 | https://github.com/soteria-security/HAFNIUM-IOC | 0 | 1| 
 | 20210304T12:53:19Z | CDK is an open-sourced container penetration toolkit, offering stable exploitation in different slimmed containers without any OS dependency. It comes with penetration tools and many powerful PoCs/EXPs helps you to escape container and takeover K8s cluster easily. | https://github.com/cdk-team/CDK | 1205 | 165| 
@@ -90,7 +91,6 @@
 | 20210304T12:41:59Z | A thorough library database to assist with binary exploitation tasks. | https://github.com/0xb0bb/karkinos | 170 | 17| 
 | 20210304T12:20:15Z | Exploit DigitalOcean API through the console | https://github.com/manikos/beauty-ocean | 2 | 1| 
 | 20210304T12:02:42Z | Null | https://github.com/Exploitsh/Exploitsh | 0 | 0| 
-| 20210304T11:55:04Z | Writeup about how I bought everything for free in the %Machon Noam% website. (soon) | https://github.com/PachUp/free-payment-exploit | 0 | 0| 
 
 
 # backdoor on Github 推荐
