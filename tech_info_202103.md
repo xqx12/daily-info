@@ -47,7 +47,7 @@
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
 | 20210304T12:47:11Z | CVE-2020-35682 | SD-91948: CVE-2020-35682: Authentication Bypass Vulnerability during SAML login in ServiceDesk Plus. | https://github.com/its-arun/CVE-2020-35682 | 未查询到CVE信息| 
-| 20210304T11:47:51Z | CVE-2021-21315 | Null | https://github.com/cherrera0001/CVE-2021-21315v2 | | 
+| 20210304T11:47:51Z | CVE-2021-21315 | Null | https://github.com/cherrera0001/CVE-2021-21315v2 | The System Information Library for Node.JS (npm package %systeminformation%) is an open source collection of functions to retrieve detailed hardware, system and OS information. In systeminformation before version 5.3.1 there is a command injection vulnerability. Problem was fixed in version 5.3.1. As a workaround instead of upgrading, be sure to check or sanitize service parameters that are passed to si.inetLatency(), si.inetChecksite(), si.services(), si.processLoad() ... do only allow strings, reject any arrays. String sanitation works as expected.| 
 | 20210304T11:20:26Z | CVE-2021-21315 | CVE 2021-21315 PoC | https://github.com/ForbiddenProgrammer/CVE-2021-21315-PoC | The System Information Library for Node.JS (npm package %systeminformation%) is an open source collection of functions to retrieve detailed hardware, system and OS information. In systeminformation before version 5.3.1 there is a command injection vulnerability. Problem was fixed in version 5.3.1. As a workaround instead of upgrading, be sure to check or sanitize service parameters that are passed to si.inetLatency(), si.inetChecksite(), si.services(), si.processLoad() ... do only allow strings, reject any arrays. String sanitation works as expected.| 
 | 20210304T10:01:37Z | CVE-2021-23132 | com_media allowed paths that are not intended for image uploads to RCE | https://github.com/HoangKien1020/CVE-2021-23132 | 未查询到CVE信息| 
 | 20210304T09:44:03Z | CVE-2021-27246 | Null | https://github.com/synacktiv/CVE-2021-27246_Pwn2Own2020 | 未查询到CVE信息| 
@@ -81,6 +81,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210304T13:02:30Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 9 | 4| 
 | 20210304T12:57:40Z | A PowerShell script to identify indicators of exploitation of CVE-2021-26855, CVE-2021-26857, CVE-2021-26858, and CVE-2021-26865 | https://github.com/soteria-security/HAFNIUM-IOC | 0 | 1| 
 | 20210304T12:53:19Z | CDK is an open-sourced container penetration toolkit, offering stable exploitation in different slimmed containers without any OS dependency. It comes with penetration tools and many powerful PoCs/EXPs helps you to escape container and takeover K8s cluster easily. | https://github.com/cdk-team/CDK | 1205 | 165| 
 | 20210304T12:53:16Z | Null | https://github.com/xJxnDev/PhoenixExploit | 0 | 0| 
@@ -89,7 +90,6 @@
 | 20210304T12:41:59Z | A thorough library database to assist with binary exploitation tasks. | https://github.com/0xb0bb/karkinos | 170 | 17| 
 | 20210304T12:20:15Z | Exploit DigitalOcean API through the console | https://github.com/manikos/beauty-ocean | 2 | 1| 
 | 20210304T12:02:42Z | Null | https://github.com/Exploitsh/Exploitsh | 0 | 0| 
-| 20210304T12:02:26Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 9 | 4| 
 | 20210304T11:55:04Z | Writeup about how I bought everything for free in the %Machon Noam% website. (soon) | https://github.com/PachUp/free-payment-exploit | 0 | 0| 
 
 
