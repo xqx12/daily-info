@@ -111,16 +111,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210303T13:55:27Z | Null | https://github.com/ranking-agent/json-schema-fuzz | 0 | 0| 
-| 20210303T13:51:16Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 3385 | 778| 
-| 20210303T13:27:40Z | Null | https://github.com/LadyDzidzor/fuzzy-octo-goggles | 0 | 0| 
-| 20210303T13:24:44Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 5987 | 1201| 
-| 20210303T13:21:56Z | A list of payload and bypass lists for penetration testing and red team infrastructure build. | https://github.com/ffffffff0x/AboutSecurity | 157 | 43| 
-| 20210303T13:14:59Z | Null | https://github.com/erdifajarf/PMDK_FuzzyAHP | 0 | 0| 
-| 20210303T13:12:08Z | Setup scripts for 32bit JavaScriptCore Fuzzing Setup | https://github.com/pmatos/jsc32-fuzz-setup | 0 | 0| 
-| 20210303T12:35:02Z | ProFuzzBench - A Benchmark for Stateful Protocol Fuzzing | https://github.com/profuzzbench/profuzzbench | 58 | 13| 
-| 20210303T12:05:09Z | White-box fuzzer for Java bytecode | https://github.com/vorpal-research/kex | 6 | 5| 
-| 20210303T11:49:29Z | A dictionary-like class that supports fuzzy key lookups, written in Python. | https://github.com/TomLaMantia/fuzzy-dictionary | 0 | 0| 
+| 20210304T02:07:51Z | Model-based fuzzing for dotnet core, based on FuzzDB attacks. Especially good for fuzzing HTTP-based services! | https://github.com/queen-of-code/DotnetModelFuzzing | 16 | 0| 
+| 20210304T01:47:34Z | Automatic peering system for dn42 using wg-quick and bird2 | https://github.com/lss233/fuzzy-bassoon | 0 | 0| 
+| 20210304T01:17:26Z | Functions to extract drug records from the FAERS (FDA Adverse Event Reporting System) database | https://github.com/tystan/fuzzyfaers | 0 | 0| 
+| 20210304T01:01:23Z | Null | https://github.com/djmdjm/openssh-fuzz-cases | 3 | 1| 
+| 20210304T00:46:50Z | Fuzzing cryptographic libraries. Magic bug printer go brrrr. | https://github.com/guidovranken/cryptofuzz | 254 | 35| 
+| 20210304T00:44:20Z | FuzzBench - Fuzzer benchmarking as a service. | https://github.com/google/fuzzbench | 605 | 102| 
+| 20210304T00:29:08Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 5988 | 1203| 
+| 20210304T00:14:23Z | Fuzzy charrs are fuzzy. | https://github.com/marenubium87/FuzzyCharr | 0 | 0| 
+| 20210304T00:06:53Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2276 | 116| 
+| 20210303T23:50:17Z | On save data | https://github.com/azizyahya83x/fuzzy-dollop | 1 | 0| 
 
 
 

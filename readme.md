@@ -94,16 +94,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210303T13:55:27Z | Null | https://github.com/ranking-agent/json-schema-fuzz | 0 | 0| 
-| 20210303T13:51:16Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 3385 | 778| 
-| 20210303T13:27:40Z | Null | https://github.com/LadyDzidzor/fuzzy-octo-goggles | 0 | 0| 
-| 20210303T13:24:44Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 5987 | 1201| 
-| 20210303T13:21:56Z | A list of payload and bypass lists for penetration testing and red team infrastructure build. | https://github.com/ffffffff0x/AboutSecurity | 157 | 43| 
-| 20210303T13:14:59Z | Null | https://github.com/erdifajarf/PMDK_FuzzyAHP | 0 | 0| 
-| 20210303T13:12:08Z | Setup scripts for 32bit JavaScriptCore Fuzzing Setup | https://github.com/pmatos/jsc32-fuzz-setup | 0 | 0| 
-| 20210303T12:35:02Z | ProFuzzBench - A Benchmark for Stateful Protocol Fuzzing | https://github.com/profuzzbench/profuzzbench | 58 | 13| 
-| 20210303T12:05:09Z | White-box fuzzer for Java bytecode | https://github.com/vorpal-research/kex | 6 | 5| 
-| 20210303T11:49:29Z | A dictionary-like class that supports fuzzy key lookups, written in Python. | https://github.com/TomLaMantia/fuzzy-dictionary | 0 | 0| 
+| 20210303T23:50:17Z | On save data | https://github.com/azizyahya83x/fuzzy-dollop | 1 | 0| 
+| 20210303T23:44:31Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 1343 | 295| 
+| 20210303T22:53:36Z | Generate code for json encoders/decoders, codecs, fuzzers, generators, and more | https://github.com/MartinSStewart/elm-review-todo-it-for-me | 0 | 0| 
+| 20210303T21:05:32Z | Null | https://github.com/irahulkr/Fuzzy-Logic-Control-of-Wind-Energy-System | 0 | 0| 
+| 20210303T20:50:32Z | Manage & generate prefs.js files | https://github.com/MozillaSecurity/prefpicker | 4 | 1| 
+| 20210303T20:00:20Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 3386 | 778| 
+| 20210303T19:57:30Z | Null | https://github.com/asieriko/fuzzyperceptron | 0 | 0| 
+| 20210303T18:57:51Z | a simplified means to CRUD ephemeral user-scoped EC2 instances | https://github.com/rstudio/fuzzbucket | 2 | 1| 
+| 20210303T18:09:02Z | A fuzzer that generates random Go programs | https://github.com/ALTree/microsmith | 7 | 0| 
+| 20210303T17:09:19Z | Null | https://github.com/JakeTheAlien/fuzzy-fiesta | 0 | 0| 
 
 
 
