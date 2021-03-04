@@ -51,7 +51,7 @@
 | 20210304T01:10:12Z | CVE-2021-23132 | com_media allowed paths that are not intended for image uploads to RCE | https://github.com/HoangKien1020/CVE-2021-23132 | 未查询到CVE信息| 
 | 20210304T00:52:05Z | CVE-2020-29134 | Null | https://github.com/lucxssouza/CVE-2020-29134 | 未查询到CVE信息| 
 | 20210303T23:16:52Z | CVE-2021-21972 | Nmap script to check vulnerability CVE-2021-21972 | https://github.com/GuayoyoLabs/CVE-2021-21972 | The vSphere Client (HTML5) contains a remote code execution vulnerability in a vCenter Server plugin. A malicious actor with network access to port 443 may exploit this issue to execute commands with unrestricted privileges on the underlying operating system that hosts vCenter Server. This affects VMware vCenter Server (7.x before 7.0 U1c, 6.7 before 6.7 U3l and 6.5 before 6.5 U3n) and VMware Cloud Foundation (4.x before 4.2 and 3.x before 3.10.1.2).| 
-| 20210303T21:52:31Z | 未知编号 | 2020l4web-app-mockup-DanCvejn created by GitHub Classroom | https://github.com/pslib-cz/2020l4web-app-mockup-DanCvejn | 未查询到CVE信息| 
+| 20210303T21:52:31Z | 未知编号 | 2020l4web-app-mockup-DanCvejn created by GitHub Classroom | https://github.com/pslib-cz/2020l4web-app-mockup-DanCvejn | | 
 | 20210303T21:26:37Z | CVE-2020-28926 | Null | https://github.com/lorsanta/exploit-CVE-2020-28926 | ReadyMedia (aka MiniDLNA) before versions 1.3.0 allows remote code execution. Sending a malicious UPnP HTTP request to the miniDLNA service using HTTP chunked encoding can lead to a signedness bug resulting in a buffer overflow in calls to memcpy/memmove.| 
 | 20210303T16:42:30Z | CVE-2021-21972 | Null | https://github.com/QmF0c3UK/CVE-2021-21972-vCenter-6.5-7.0-RCE-POC | The vSphere Client (HTML5) contains a remote code execution vulnerability in a vCenter Server plugin. A malicious actor with network access to port 443 may exploit this issue to execute commands with unrestricted privileges on the underlying operating system that hosts vCenter Server. This affects VMware vCenter Server (7.x before 7.0 U1c, 6.7 before 6.7 U3l and 6.5 before 6.5 U3n) and VMware Cloud Foundation (4.x before 4.2 and 3.x before 3.10.1.2).| 
 | 20210303T14:54:21Z | CVE-2021-21972 | CVE-2021-21972 Exploit | https://github.com/NS-Sp4ce/CVE-2021-21972 | The vSphere Client (HTML5) contains a remote code execution vulnerability in a vCenter Server plugin. A malicious actor with network access to port 443 may exploit this issue to execute commands with unrestricted privileges on the underlying operating system that hosts vCenter Server. This affects VMware vCenter Server (7.x before 7.0 U1c, 6.7 before 6.7 U3l and 6.5 before 6.5 U3n) and VMware Cloud Foundation (4.x before 4.2 and 3.x before 3.10.1.2).| 
@@ -61,7 +61,7 @@
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210304T01:38:35Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 的 Klee One 的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 222 | 6| 
+| 20210304T01:46:57Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 的 Klee One 的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 223 | 6| 
 | 20210303T23:18:58Z | KLEE support llvm-9.0.0 | https://github.com/YizhuoZhai/yzklee | 0 | 0| 
 | 20210303T21:15:30Z | Null | https://github.com/abbykleespie/LAWk5AbbyKleespie.appstudio | 0 | 0| 
 | 20210303T18:47:08Z | Null | https://github.com/fontworks-fonts/Klee | 375 | 10| 
@@ -96,7 +96,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210304T01:32:49Z | Backdoor shell that can bypass error 403 forbidden and 406 auto delete contents | https://github.com/SondreX-ID/Gel4y-Mini-Shell-Backdoor | 0 | 0| 
+| 20210304T01:47:40Z | Backdoor shell that can bypass error 403 forbidden and 406 auto delete contents | https://github.com/SondreX-ID/Gel4y-Mini-Shell-Backdoor | 0 | 0| 
 | 20210304T00:08:01Z | Linux Kernel module-less implant (backdoor) | https://github.com/milabs/kopycat | 4 | 2| 
 | 20210303T20:29:37Z | A port of BHIS%s Backdoors & Breaches for playingcards.io | https://github.com/FirmGuardian/backdoors-and-breaches-pcio | 1 | 1| 
 | 20210303T19:26:35Z | Threat Emulation and Red Teaming Framework. | https://github.com/quantumcored/remote_hacker_probe | 28 | 5| 
