@@ -6,6 +6,11 @@
 # 玄武实验室 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20210304 | 利用蜜罐的注册表和文件记录检测渗透攻击行为，Part1：本地信息收集 | https://outflank.nl/blog/2021/03/03/catching-red-teams-with-honeypots-part-1-local-recon/| 
+| 20210304 | 三星 S20/S21 手机最近移除了一个特性：加载自定义 DSP 固件。这篇文章是 Synacktiv 对该特性的介绍 | https://www.synacktiv.com/publications/an-interesting-feature-in-the-samsung-dsp-driver.html| 
+| 20210304 | Fuzzing the Linux Kernel | https://linuxfoundation.org/wp-content/uploads/2021-Linux-Foundation-Mentorship-Series_-Fuzzing-the-Linux-Kernel.pdf| 
+| 20210304 | Operation Exchange Marauder - Microsoft Exchange 服务多个 0Day 被用于定向窃取用户邮件、渗透目标网络，来自 Volexity 的分析 | https://www.volexity.com/blog/2021/03/02/active-exploitation-of-microsoft-exchange-zero-day-vulnerabilities/| 
+| 20210304 | Raelize 团队从 Linksys EA8300 路由器入手发现高通 QSEE 可信执行环境的多个漏洞 | https://raelize.com/blog/qualcomm-ipq40xx-analysis-of-critical-qsee-vulnerabilities/| 
 | 20210303 | 2018 年爆出的“幽灵”漏洞，近期该漏洞完整攻击代码出现在 VirusTotal 平台 | https://therecord.media/first-fully-weaponized-spectre-exploit-discovered-online/| 
 | 20210303 | How I Might Have Hacked Any Microsoft Account | https://thezerohack.com/how-i-might-have-hacked-any-microsoft-account| 
 | 20210303 | Anatomy of an Exploit: RCE with CVE-2020-1350 SIGRed | https://www.graplsecurity.com/post/anatomy-of-an-exploit-rce-with-cve-2020-1350-sigred| 
@@ -21,51 +26,46 @@
 | 20210303 | 模糊处理套接字：Apache HTTP，第1部分：改变 | https://securitylab.github.com/research/fuzzing-apache-1/| 
 | 20210303 | Fbot新的僵尸网络对交通和运输智能设备存在安全威胁。 | https://blog.netlab.360.com/fbot-is-now-riding-the-traffic-and-transportation-smart-devices-en/| 
 | 20210303 | Chrome 更新 89.0.4389.72 版本，其中修复一个野外已被利用位于 Audio 模块的漏洞 | https://threatpost.com/google-patches-actively-exploited-flaw-in-chrome-browser/164468/| 
-| 20210303 | Fuzzing Image Parsing in Windows, Part Two: Uninitialized Memory | https://www.fireeye.com/blog/threat-research/2021/03/fuzzing-image-parsing-in-windows-uninitialized-memory.html| 
-| 20210302 | What’s Your Game Plan? Leveraging Apple’s Game Engine to Detect Threats | https://www.rsaconference.com/library/Presentation/USA/2019/whats-your-game-plan-leveraging-apples-game-engine-to-detect-threats-3?utm_source=twitter&utm_medium=social&utm_content=whats-your-game-plan-leveraging-apples-game-engine-to-detect-threats-presentation&utm_campaign=march-20201-rsac365&postID=4532250272| 
-| 20210302 | Apple 正在为 ISA 指针提供 PAC 保护，iOS 代码执行更加艰难 | https://www.vice.com/en/article/pkd4kg/apple-is-going-to-make-it-harder-to-hack-iphones-with-zero-click-attacks| 
-| 20210302 | iOS 降级工具 futurerestore 更新 v194 版本 | https://github.com/marijuanARM/futurerestore/releases/tag/194| 
-| 20210302 | libkrw - 为不同越狱工具提供一个 iOS kernel 读写 API 接口 | https://github.com/Siguza/libkrw| 
 
 
 # 安全维基 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20210304 | 流行窃密类木马分析（上） | https://mp.weixin.qq.com/s/AI_mG-I3buqx1W4C2o24jg| 
+| 20210304 | Exploitation of Multiple Zero-Day Microsoft Exchange Vulne... | https://www.volexity.com/blog/2021/03/02/active-exploitation-of-microsoft-exchange-zero-day-vulnerabilities/| 
+| 20210304 | 智能化时代的代码缺陷检查探索 | https://juejin.cn/post/6935413169271603208| 
+| 20210304 | 趋势科技 2020 年度网络安全报告 | https://mp.weixin.qq.com/s/6pnaFU5PfYGs4d0oLmRkJA| 
 | 20210303 | sqlinjection-detect: C语言编写的基于语义分析的SQL注入检测... | https://github.com/peter-cui1221/sqlinjection-detect| 
 | 20210303 | Node.js原型链污染的利用 | https://www.freebuf.com/articles/web/264966.html| 
 | 20210303 | PHP反序列化 — 字符逃逸 | https://xz.aliyun.com/t/9213| 
 | 20210303 | SonicWall SSL-VPN 远程命令执行 | https://www.sec-in.com/article/899| 
 | 20210302 | 红蓝对抗中的云原生漏洞挖掘及利用实录 | https://mp.weixin.qq.com/s/Aq8RrH34PTkmF8lKzdY38g| 
 | 20210302 | PCAP-ATTACK: PCAP Samples for Different Post Exploitation ... | https://github.com/sbousseaden/PCAP-ATTACK| 
-| 20210302 | VMware vCenter RCE (CVE-2021-21972) 漏洞复现与 Exp 编写 | https://mp.weixin.qq.com/s/2pvaQborwMM8UHnWS_CeXA| 
-| 20210302 | IOT安全（二）——再探stm32 | https://www.anquanke.com/post/id/231440| 
-| 20210301 | SecWiki周刊（第365期) | https://www.sec-wiki.com/weekly/365| 
-| 20210301 | 恶意软件分析工具集成环境 | https://mp.weixin.qq.com/s/WMWQUWu8dt45iQsrcLfSxg| 
 
 
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20210304T02:53:22Z | CVE-2021-21315 | CVE 2021-21315 PoC | https://github.com/ForbiddenProgrammer/CVE-2021-21315-PoC | The System Information Library for Node.JS (npm package %systeminformation%) is an open source collection of functions to retrieve detailed hardware, system and OS information. In systeminformation before version 5.3.1 there is a command injection vulnerability. Problem was fixed in version 5.3.1. As a workaround instead of upgrading, be sure to check or sanitize service parameters that are passed to si.inetLatency(), si.inetChecksite(), si.services(), si.processLoad() ... do only allow strings, reject any arrays. String sanitation works as expected.| 
-| 20210304T02:50:06Z | CVE-2021-23132 | com_media allowed paths that are not intended for image uploads to RCE | https://github.com/HoangKien1020/CVE-2021-23132 | 未查询到CVE信息| 
-| 20210304T01:21:06Z | CVE-2021-26412 | Unauth RCE Microsoft Exchange POCs Exploit | https://github.com/Udyz/CVE-2021-26412 | Microsoft Exchange Server Remote Code Execution Vulnerability This CVE ID is unique from CVE-2021-26854, CVE-2021-26855, CVE-2021-26857, CVE-2021-26858, CVE-2021-27065, CVE-2021-27078.| 
-| 20210304T00:52:05Z | CVE-2020-29134 | Null | https://github.com/lucxssouza/CVE-2020-29134 | 未查询到CVE信息| 
-| 20210303T23:16:52Z | CVE-2021-21972 | Nmap script to check vulnerability CVE-2021-21972 | https://github.com/GuayoyoLabs/CVE-2021-21972 | The vSphere Client (HTML5) contains a remote code execution vulnerability in a vCenter Server plugin. A malicious actor with network access to port 443 may exploit this issue to execute commands with unrestricted privileges on the underlying operating system that hosts vCenter Server. This affects VMware vCenter Server (7.x before 7.0 U1c, 6.7 before 6.7 U3l and 6.5 before 6.5 U3n) and VMware Cloud Foundation (4.x before 4.2 and 3.x before 3.10.1.2).| 
-| 20210303T21:52:31Z | 未知编号 | 2020l4web-app-mockup-DanCvejn created by GitHub Classroom | https://github.com/pslib-cz/2020l4web-app-mockup-DanCvejn | 未查询到CVE信息| 
-| 20210303T21:26:37Z | CVE-2020-28926 | Null | https://github.com/lorsanta/exploit-CVE-2020-28926 | ReadyMedia (aka MiniDLNA) before versions 1.3.0 allows remote code execution. Sending a malicious UPnP HTTP request to the miniDLNA service using HTTP chunked encoding can lead to a signedness bug resulting in a buffer overflow in calls to memcpy/memmove.| 
-| 20210303T16:42:30Z | CVE-2021-21972 | Null | https://github.com/QmF0c3UK/CVE-2021-21972-vCenter-6.5-7.0-RCE-POC | The vSphere Client (HTML5) contains a remote code execution vulnerability in a vCenter Server plugin. A malicious actor with network access to port 443 may exploit this issue to execute commands with unrestricted privileges on the underlying operating system that hosts vCenter Server. This affects VMware vCenter Server (7.x before 7.0 U1c, 6.7 before 6.7 U3l and 6.5 before 6.5 U3n) and VMware Cloud Foundation (4.x before 4.2 and 3.x before 3.10.1.2).| 
-| 20210303T14:54:21Z | CVE-2021-21972 | CVE-2021-21972 Exploit | https://github.com/NS-Sp4ce/CVE-2021-21972 | The vSphere Client (HTML5) contains a remote code execution vulnerability in a vCenter Server plugin. A malicious actor with network access to port 443 may exploit this issue to execute commands with unrestricted privileges on the underlying operating system that hosts vCenter Server. This affects VMware vCenter Server (7.x before 7.0 U1c, 6.7 before 6.7 U3l and 6.5 before 6.5 U3n) and VMware Cloud Foundation (4.x before 4.2 and 3.x before 3.10.1.2).| 
-| 20210303T10:53:02Z | CVE-2021-27246 | Null | https://github.com/synacktiv/CVE-2021-27246_Pwn2Own2020 | 未查询到CVE信息| 
+| 20210304T12:47:11Z | CVE-2020-35682 | SD-91948: CVE-2020-35682: Authentication Bypass Vulnerability during SAML login in ServiceDesk Plus. | https://github.com/its-arun/CVE-2020-35682 | 未查询到CVE信息| 
+| 20210304T11:47:51Z | CVE-2021-21315 | Null | https://github.com/cherrera0001/CVE-2021-21315v2 | | 
+| 20210304T11:20:26Z | CVE-2021-21315 | CVE 2021-21315 PoC | https://github.com/ForbiddenProgrammer/CVE-2021-21315-PoC | The System Information Library for Node.JS (npm package %systeminformation%) is an open source collection of functions to retrieve detailed hardware, system and OS information. In systeminformation before version 5.3.1 there is a command injection vulnerability. Problem was fixed in version 5.3.1. As a workaround instead of upgrading, be sure to check or sanitize service parameters that are passed to si.inetLatency(), si.inetChecksite(), si.services(), si.processLoad() ... do only allow strings, reject any arrays. String sanitation works as expected.| 
+| 20210304T10:01:37Z | CVE-2021-23132 | com_media allowed paths that are not intended for image uploads to RCE | https://github.com/HoangKien1020/CVE-2021-23132 | 未查询到CVE信息| 
+| 20210304T09:44:03Z | CVE-2021-27246 | Null | https://github.com/synacktiv/CVE-2021-27246_Pwn2Own2020 | 未查询到CVE信息| 
+| 20210304T08:58:07Z | CVE-2021-21972 | CVE-2021-21972 related vulnerability code | https://github.com/ByZain/CVE-2021-21972 | The vSphere Client (HTML5) contains a remote code execution vulnerability in a vCenter Server plugin. A malicious actor with network access to port 443 may exploit this issue to execute commands with unrestricted privileges on the underlying operating system that hosts vCenter Server. This affects VMware vCenter Server (7.x before 7.0 U1c, 6.7 before 6.7 U3l and 6.5 before 6.5 U3n) and VMware Cloud Foundation (4.x before 4.2 and 3.x before 3.10.1.2).| 
+| 20210304T08:45:41Z | CVE-2020-24597 | Directory traversal in com_media to RCE | https://github.com/HoangKien1020/CVE-2020-24597 | 未查询到CVE信息| 
+| 20210304T08:22:51Z | CVE-2021-21972 | Nmap script to check vulnerability CVE-2021-21972 | https://github.com/GuayoyoLabs/CVE-2021-21972 | The vSphere Client (HTML5) contains a remote code execution vulnerability in a vCenter Server plugin. A malicious actor with network access to port 443 may exploit this issue to execute commands with unrestricted privileges on the underlying operating system that hosts vCenter Server. This affects VMware vCenter Server (7.x before 7.0 U1c, 6.7 before 6.7 U3l and 6.5 before 6.5 U3n) and VMware Cloud Foundation (4.x before 4.2 and 3.x before 3.10.1.2).| 
+| 20210304T07:05:03Z | CVE-2021-21042 | Exploit code for CVE-2021-21042 | https://github.com/NattiSamson/CVE-2021-21042 | Acrobat Reader DC versions versions 2020.013.20074 (and earlier), 2020.001.30018 (and earlier) and 2017.011.30188 (and earlier) are affected by an Out-of-bounds Read vulnerability. An unauthenticated attacker could leverage this vulnerability to locally escalate privileges in the context of the current user. Exploitation of this issue requires user interaction in that a victim must open a malicious file.| 
+| 20210304T06:23:18Z | CVE-2021-21972 | Null | https://github.com/QmF0c3UK/CVE-2021-21972-vCenter-6.5-7.0-RCE-POC | The vSphere Client (HTML5) contains a remote code execution vulnerability in a vCenter Server plugin. A malicious actor with network access to port 443 may exploit this issue to execute commands with unrestricted privileges on the underlying operating system that hosts vCenter Server. This affects VMware vCenter Server (7.x before 7.0 U1c, 6.7 before 6.7 U3l and 6.5 before 6.5 U3n) and VMware Cloud Foundation (4.x before 4.2 and 3.x before 3.10.1.2).| 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210304T02:52:16Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 的 Klee One 的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 234 | 6| 
+| 20210304T12:49:49Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 的 Klee One 的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 270 | 6| 
+| 20210304T10:57:31Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1639 | 483| 
+| 20210304T09:54:04Z | Null | https://github.com/fontworks-fonts/Klee | 376 | 10| 
 | 20210303T23:18:58Z | KLEE support llvm-9.0.0 | https://github.com/YizhuoZhai/yzklee | 0 | 0| 
 | 20210303T21:15:30Z | Null | https://github.com/abbykleespie/LAWk5AbbyKleespie.appstudio | 0 | 0| 
-| 20210303T18:47:08Z | Null | https://github.com/fontworks-fonts/Klee | 375 | 10| 
-| 20210303T13:15:04Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1638 | 483| 
 | 20210303T02:24:23Z | KleeneExpressions | https://github.com/ostomachion/Kleene | 1 | 0| 
 | 20210302T21:59:57Z | Null | https://github.com/BertKleewein/BertKleewein.github.io | 0 | 0| 
 | 20210302T21:47:56Z | The default Gatsby starter | https://github.com/leehammond/kleehammond-com | 0 | 0| 
@@ -81,31 +81,31 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210304T02:44:42Z | A phased, evasive Path Traversal + LFI scanning & exploitation tool in Python | https://github.com/VainlyStrain/Vailyn | 97 | 6| 
-| 20210304T02:23:51Z | DirTras is an automated directory/path traversal exploitation tool. | https://github.com/Nate-one/DirTras | 0 | 0| 
-| 20210304T02:02:39Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 9 | 4| 
-| 20210304T01:43:45Z | Toolkit for writing exploits. | https://github.com/kukrimate/termsploit | 0 | 0| 
-| 20210304T01:37:59Z | exploit-database-papers | https://github.com/offensive-security/exploitdb-papers | 284 | 40| 
-| 20210304T01:37:37Z | Null | https://github.com/kira-Developer/Exploit | 0 | 0| 
-| 20210304T01:26:40Z | Unnamed PS1 save game backup loader thing | https://github.com/socram8888/PS1SaveExploit | 0 | 0| 
-| 20210304T01:21:06Z | Unauth RCE Microsoft Exchange POCs Exploit | https://github.com/Udyz/CVE-2021-26412 | 0 | 0| 
-| 20210304T01:16:48Z | Automatic Linux privesc via exploitation of low-hanging fruit e.g. gtfobins :arrow_up: :skull_and_crossbones: | https://github.com/liamg/traitor | 2497 | 99| 
-| 20210304T01:08:22Z | A CTF web app designed to teach software developers application security by showcasing what vulnerable code looks like, how to write code to exploit the vulnerability, and how to write code to patch the vulnerability. | https://github.com/neumaneuma/appseccheat.codes | 0 | 0| 
+| 20210304T12:57:40Z | A PowerShell script to identify indicators of exploitation of CVE-2021-26855, CVE-2021-26857, CVE-2021-26858, and CVE-2021-26865 | https://github.com/soteria-security/HAFNIUM-IOC | 0 | 1| 
+| 20210304T12:53:19Z | CDK is an open-sourced container penetration toolkit, offering stable exploitation in different slimmed containers without any OS dependency. It comes with penetration tools and many powerful PoCs/EXPs helps you to escape container and takeover K8s cluster easily. | https://github.com/cdk-team/CDK | 1205 | 165| 
+| 20210304T12:53:16Z | Null | https://github.com/xJxnDev/PhoenixExploit | 0 | 0| 
+| 20210304T12:50:17Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 8 | 5| 
+| 20210304T12:44:07Z | IoC determination for exploitation of CVE-2021-26855, CVE-2021-26857, CVE-2021-26858 and CVE-2021-27065. | https://github.com/sgnls/exchange-0days-202103 | 0 | 0| 
+| 20210304T12:41:59Z | A thorough library database to assist with binary exploitation tasks. | https://github.com/0xb0bb/karkinos | 170 | 17| 
+| 20210304T12:20:15Z | Exploit DigitalOcean API through the console | https://github.com/manikos/beauty-ocean | 2 | 1| 
+| 20210304T12:02:42Z | Null | https://github.com/Exploitsh/Exploitsh | 0 | 0| 
+| 20210304T12:02:26Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 9 | 4| 
+| 20210304T11:55:04Z | Writeup about how I bought everything for free in the %Machon Noam% website. (soon) | https://github.com/PachUp/free-payment-exploit | 0 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210304T02:53:47Z | Backdoor shell that can bypass error 403 forbidden and 406 auto delete contents | https://github.com/SondreX-ID/Gel4y-Mini-Shell-Backdoor | 1 | 0| 
+| 20210304T12:18:43Z | Linux Kernel module-less implant (backdoor) | https://github.com/milabs/kopycat | 10 | 4| 
+| 20210304T10:51:03Z | Backdoor shell that can bypass error 403 forbidden and 406 auto delete contents | https://github.com/SondreX-ID/Gel4y-Mini-Shell-Backdoor | 1 | 0| 
+| 20210304T10:17:06Z | A Simple android remote administration tool using sockets. It uses java on the client side and python on the server side | https://github.com/karma9874/AndroRAT | 172 | 76| 
+| 20210304T04:35:54Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 183 | 26| 
+| 20210304T03:05:53Z | A port of BHIS%s Backdoors & Breaches for playingcards.io | https://github.com/FirmGuardian/backdoors-and-breaches-pcio | 2 | 1| 
 | 20210304T02:43:19Z | Silent, customizable backdoor plugin for 1.12.2. | https://github.com/MajesticWaffle/Minecraft-Backdoor | 1 | 0| 
-| 20210304T00:08:01Z | Linux Kernel module-less implant (backdoor) | https://github.com/milabs/kopycat | 4 | 2| 
-| 20210303T20:29:37Z | A port of BHIS%s Backdoors & Breaches for playingcards.io | https://github.com/FirmGuardian/backdoors-and-breaches-pcio | 1 | 1| 
 | 20210303T19:26:35Z | Threat Emulation and Red Teaming Framework. | https://github.com/quantumcored/remote_hacker_probe | 28 | 5| 
 | 20210303T19:09:51Z | Motorola NC1500 Backdoor Password | https://github.com/billchaison/nc1500 | 2 | 0| 
 | 20210303T18:21:55Z | server and target backdoor with python | https://github.com/zeru2/backdoor | 0 | 0| 
 | 20210303T16:48:23Z | Null | https://github.com/Wiilldd/backdoor | 0 | 0| 
-| 20210303T14:05:42Z | Null | https://github.com/viamAhmadi/simple-backdoor | 0 | 0| 
-| 20210303T13:46:36Z | AMWScan (PHP Antimalware Scanner) is a free tool to scan php files and analyze your project to find any malicious code inside it. | https://github.com/marcocesarato/PHP-Antimalware-Scanner | 173 | 32| 
 
 
 # fuzz on Github 推荐
