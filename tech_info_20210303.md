@@ -20,6 +20,8 @@
 | 20210303 | 斯坦福公开课 CS 110L:系统编程中的安全性学习视频。 | https://reberhardt.com/cs110l/spring-2020/| 
 | 20210303 | 模糊处理套接字：Apache HTTP，第1部分：改变 | https://securitylab.github.com/research/fuzzing-apache-1/| 
 | 20210303 | Fbot新的僵尸网络对交通和运输智能设备存在安全威胁。 | https://blog.netlab.360.com/fbot-is-now-riding-the-traffic-and-transportation-smart-devices-en/| 
+| 20210303 | Chrome 更新 89.0.4389.72 版本，其中修复一个野外已被利用位于 Audio 模块的漏洞 | https://threatpost.com/google-patches-actively-exploited-flaw-in-chrome-browser/164468/| 
+| 20210303 | Fuzzing Image Parsing in Windows, Part Two: Uninitialized Memory | https://www.fireeye.com/blog/threat-research/2021/03/fuzzing-image-parsing-in-windows-uninitialized-memory.html| 
 
 
 # 安全维基 推荐
@@ -73,7 +75,7 @@
 | 20210303T20:43:37Z | Ready, Aim, Fire. | https://github.com/Fricciolosa-Red-Team/mobile-heavy-artillery | 1 | 0| 
 | 20210303T20:42:14Z | Pentest important small exploitation scripts  | https://github.com/cyberjatin/mynotes | 1 | 0| 
 | 20210303T20:40:00Z | %The software will be building a network server from scratch that at startup will have the ability to selectively enable insecure portions of code that can be exploited. The software could be developed as a honeypot for detection of exploitation attempts within a network and/or as a practice server for pentesters.  The project may also need to develop companion software that can test the code, or collect logs from the server.% | https://github.com/TimHanneman/Multi_Purpose_Exploitable_Server | 0 | 0| 
-| 20210303T20:03:54Z | A phased, evasive Path Traversal + LFI scanning & exploitation tool in Python | https://github.com/VainlyStrain/Vailyn | 97 | 6| 
+| 20210303T19:47:55Z | EternalBlue suite remade in C/C++ which includes: MS17-010 Exploit, EternalBlue vulnerability detector, DoublePulsar detector and DoublePulsar Shellcode & DLL uploader | https://github.com/bhassani/EternalBlueC | 319 | 79| 
 
 
 # backdoor on Github 推荐
@@ -84,11 +86,11 @@
 | 20210303T19:09:51Z | Motorola NC1500 Backdoor Password | https://github.com/billchaison/nc1500 | 2 | 0| 
 | 20210303T18:21:55Z | server and target backdoor with python | https://github.com/zeru2/backdoor | 0 | 0| 
 | 20210303T16:48:23Z | Null | https://github.com/Wiilldd/backdoor | 0 | 0| 
-| 20210303T15:13:40Z | Simple Backdoor plugin for 1.12.2. | https://github.com/MajesticWaffle/Minecraft-Backdoor | 1 | 0| 
 | 20210303T14:05:42Z | Null | https://github.com/viamAhmadi/simple-backdoor | 0 | 0| 
 | 20210303T13:46:36Z | AMWScan (PHP Antimalware Scanner) is a free tool to scan php files and analyze your project to find any malicious code inside it. | https://github.com/marcocesarato/PHP-Antimalware-Scanner | 173 | 32| 
 | 20210303T13:25:52Z | Simple backdoor on Python 3 and C++ for windows. Works as reverse shell. Needs in small modification. | https://github.com/Retr0-code/Phoenix | 2 | 0| 
 | 20210303T11:31:51Z | %Socialx% is a Social Engineering And Remote Access Trojan Tool. You can generate fud backdoor and you can embed any file you want inside of the exe file. | https://github.com/AzizKpln/Social_X | 68 | 17| 
+| 20210303T10:55:08Z | Thefatrat a massive exploiting tool : Easy tool to generate backdoor and easy tool to post exploitation attack like browser attack and etc . This tool compiles a malware with popular payload and then the compiled malware can be execute on windows, android, mac . The malware that created with this tool also have an ability to bypass most AV software protection . | https://github.com/Screetsec/TheFatRat | 4995 | 1645| 
 
 
 # fuzz on Github 推荐
