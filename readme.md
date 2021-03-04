@@ -80,15 +80,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210304T02:07:51Z | Model-based fuzzing for dotnet core, based on FuzzDB attacks. Especially good for fuzzing HTTP-based services! | https://github.com/queen-of-code/DotnetModelFuzzing | 16 | 0| 
-| 20210304T01:47:34Z | Automatic peering system for dn42 using wg-quick and bird2 | https://github.com/lss233/fuzzy-bassoon | 0 | 0| 
-| 20210304T01:17:26Z | Functions to extract drug records from the FAERS (FDA Adverse Event Reporting System) database | https://github.com/tystan/fuzzyfaers | 0 | 0| 
-| 20210304T01:01:23Z | Null | https://github.com/djmdjm/openssh-fuzz-cases | 3 | 1| 
-| 20210304T00:46:50Z | Fuzzing cryptographic libraries. Magic bug printer go brrrr. | https://github.com/guidovranken/cryptofuzz | 254 | 35| 
-| 20210304T00:44:20Z | FuzzBench - Fuzzer benchmarking as a service. | https://github.com/google/fuzzbench | 605 | 102| 
-| 20210304T00:29:08Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 5988 | 1203| 
-| 20210304T00:14:23Z | Fuzzy charrs are fuzzy. | https://github.com/marenubium87/FuzzyCharr | 0 | 0| 
-| 20210304T00:06:53Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2276 | 116| 
+| 20210304T13:23:45Z | Coverage-guided, in-process fuzzing for the JVM | https://github.com/CodeIntelligenceTesting/jazzer | 192 | 7| 
+| 20210304T13:22:54Z | Null | https://github.com/saidatul278/fuzzy-eureka | 0 | 0| 
+| 20210304T13:18:45Z | Personal website of Laurence Hughes | https://github.com/fuzzylogicxx/fuzzylogic | 4 | 1| 
+| 20210304T13:05:17Z | A fuzzer that generates random Go programs | https://github.com/ALTree/microsmith | 7 | 0| 
+| 20210304T13:04:39Z | Null | https://github.com/DarkShinobi100/BehaviourTreesvsFuzzy | 0 | 0| 
+| 20210304T13:01:43Z | Null | https://github.com/FDU-Program-Analysis/chunk-fuzzer-pass | 0 | 0| 
+| 20210304T12:52:30Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2278 | 116| 
+| 20210304T12:20:53Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 5990 | 1203| 
+| 20210304T11:59:55Z | a dumb fuzzer that works on custom mutators and radamsa to fuzz ELF Binaries | https://github.com/X3eRo0/xFuzzer | 0 | 0| 
+| 20210304T11:27:56Z | Null | https://github.com/borisdering/fuzzy_testing | 0 | 0| 
 
 
 
