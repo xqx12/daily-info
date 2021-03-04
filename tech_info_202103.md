@@ -46,7 +46,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20210304T01:21:06Z | CVE-2021-26412 | Unauth RCE Microsoft Exchange POCs Exploit | https://github.com/Udyz/CVE-2021-26412 | | 
+| 20210304T01:21:06Z | CVE-2021-26412 | Unauth RCE Microsoft Exchange POCs Exploit | https://github.com/Udyz/CVE-2021-26412 | Microsoft Exchange Server Remote Code Execution Vulnerability This CVE ID is unique from CVE-2021-26854, CVE-2021-26855, CVE-2021-26857, CVE-2021-26858, CVE-2021-27065, CVE-2021-27078.| 
 | 20210304T01:15:56Z | CVE-2021-21315 | CVE 2021-21315 PoC | https://github.com/ForbiddenProgrammer/CVE-2021-21315-PoC | The System Information Library for Node.JS (npm package %systeminformation%) is an open source collection of functions to retrieve detailed hardware, system and OS information. In systeminformation before version 5.3.1 there is a command injection vulnerability. Problem was fixed in version 5.3.1. As a workaround instead of upgrading, be sure to check or sanitize service parameters that are passed to si.inetLatency(), si.inetChecksite(), si.services(), si.processLoad() ... do only allow strings, reject any arrays. String sanitation works as expected.| 
 | 20210304T01:10:12Z | CVE-2021-23132 | com_media allowed paths that are not intended for image uploads to RCE | https://github.com/HoangKien1020/CVE-2021-23132 | 未查询到CVE信息| 
 | 20210304T00:52:05Z | CVE-2020-29134 | Null | https://github.com/lucxssouza/CVE-2020-29134 | 未查询到CVE信息| 
