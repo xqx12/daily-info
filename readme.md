@@ -29,7 +29,7 @@
 | --- | --- | --- | --- | ---| 
 | 20210305T11:56:06Z | CVE-2020-29134 | Null | https://github.com/lucxssouza/CVE-2020-29134 | 未查询到CVE信息| 
 | 20210305T11:14:08Z | CVE-2021-23132 | com_media allowed paths that are not intended for image uploads to RCE | https://github.com/HoangKien1020/CVE-2021-23132 | An issue was discovered in Joomla! 3.0.0 through 3.9.24. com_media allowed paths that are not intended for image uploads| 
-| 20210305T11:09:08Z | CVE-2021-21978 | 带回显版本的漏洞利用脚本 | https://github.com/skytina/CVE-2021-21978 | VMware View Planner 4.x prior to 4.6 Security Patch 1 contains a remote code execution vulnerability. Improper input validation and lack of authorization leading to arbitrary file upload in logupload web application. An unauthorized attacker with network access to View Planner Harness could upload and execute a specially crafted file leading to remote code execution within the logupload container.| 
+| 20210305T11:09:08Z | CVE-2021-21978 | 带回显版本的漏洞利用脚本 | https://github.com/skytina/CVE-2021-21978 | | 
 | 20210305T10:51:21Z | CVE-2021-21042 | Exploit code for CVE-2021-21042 | https://github.com/NattiSamson/CVE-2021-21042 | Acrobat Reader DC versions versions 2020.013.20074 (and earlier), 2020.001.30018 (and earlier) and 2017.011.30188 (and earlier) are affected by an Out-of-bounds Read vulnerability. An unauthenticated attacker could leverage this vulnerability to locally escalate privileges in the context of the current user. Exploitation of this issue requires user interaction in that a victim must open a malicious file.| 
 | 20210305T10:50:05Z | CVE-2021-1732 | CVE-2021-1732 Exploit | https://github.com/KaLendsi/CVE-2021-1732-Exploit | Windows Win32k Elevation of Privilege Vulnerability This CVE ID is unique from CVE-2021-1698.| 
 | 20210305T10:32:33Z | CVE-2021-21978 | CVE-2021-21978 EXP | https://github.com/me1ons/CVE-2021-21978 | VMware View Planner 4.x prior to 4.6 Security Patch 1 contains a remote code execution vulnerability. Improper input validation and lack of authorization leading to arbitrary file upload in logupload web application. An unauthorized attacker with network access to View Planner Harness could upload and execute a specially crafted file leading to remote code execution within the logupload container.| 
@@ -55,6 +55,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210305T13:41:46Z | PS4 Exploits 1.01-7.02 | https://github.com/Buzbee/Buzbee.github.io | 0 | 1| 
 | 20210305T13:02:23Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 9 | 4| 
 | 20210305T12:59:03Z | Additional material for the paper %MoralStrength: Exploiting a Moral Lexicon and Embedding Similarity for Moral Foundations Prediction% | https://github.com/oaraque/moral-foundations | 15 | 6| 
 | 20210305T12:51:45Z | This script scans logs for suspicious activity in connection with the 03-2021 exchange exploits | https://github.com/aaronlyy/exchange-exploit-check | 0 | 0| 
@@ -64,7 +65,6 @@
 | 20210305T12:19:51Z | Forestry Thematic Exploitation Platform | https://github.com/cgi-eoss/ftep | 4 | 0| 
 | 20210305T12:19:06Z | Null | https://github.com/Ahsanzia/Exchange-Exploit | 2 | 0| 
 | 20210305T12:12:41Z | Script para generar exploits de pwn para retos de ROP | https://github.com/Pwn2Ninja/Pwn-Roped | 0 | 0| 
-| 20210305T12:03:47Z | This Repository contains the stuff related to windows Active directory environment exploitation | https://github.com/incredibleindishell/Windows-AD-environment-related | 118 | 28| 
 
 
 # backdoor on Github 推荐
