@@ -53,7 +53,7 @@
 | 20210304T15:25:40Z | CVE-2020-28243 | CVE-2020-28243 Local Privledge Escalation Exploit in SaltStack Minion | https://github.com/stealthcopter/CVE-2020-28243 | An issue was discovered in SaltStack Salt before 3002.5. The minion%s restartcheck is vulnerable to command injection via a crafted process name. This allows for a local privilege escalation by any user able to create a files on the minion in a non-blacklisted directory.| 
 | 20210304T14:36:47Z | CVE-2021-21042 | Exploit code for CVE-2021-21042 | https://github.com/NattiSamson/CVE-2021-21042 | Acrobat Reader DC versions versions 2020.013.20074 (and earlier), 2020.001.30018 (and earlier) and 2017.011.30188 (and earlier) are affected by an Out-of-bounds Read vulnerability. An unauthenticated attacker could leverage this vulnerability to locally escalate privileges in the context of the current user. Exploitation of this issue requires user interaction in that a victim must open a malicious file.| 
 | 20210304T13:48:19Z | CVE-2021-27246 | Null | https://github.com/synacktiv/CVE-2021-27246_Pwn2Own2020 | 未查询到CVE信息| 
-| 20210304T12:47:11Z | CVE-2020-35682 | SD-91948: CVE-2020-35682: Authentication Bypass Vulnerability during SAML login in ServiceDesk Plus. | https://github.com/its-arun/CVE-2020-35682 | | 
+| 20210304T12:47:11Z | CVE-2020-35682 | SD-91948: CVE-2020-35682: Authentication Bypass Vulnerability during SAML login in ServiceDesk Plus. | https://github.com/its-arun/CVE-2020-35682 | 未查询到CVE信息| 
 | 20210304T11:47:51Z | CVE-2021-21315 | Null | https://github.com/cherrera0001/CVE-2021-21315v2 | The System Information Library for Node.JS (npm package %systeminformation%) is an open source collection of functions to retrieve detailed hardware, system and OS information. In systeminformation before version 5.3.1 there is a command injection vulnerability. Problem was fixed in version 5.3.1. As a workaround instead of upgrading, be sure to check or sanitize service parameters that are passed to si.inetLatency(), si.inetChecksite(), si.services(), si.processLoad() ... do only allow strings, reject any arrays. String sanitation works as expected.| 
 | 20210304T08:58:07Z | CVE-2021-21972 | CVE-2021-21972 related vulnerability code | https://github.com/ByZain/CVE-2021-21972 | The vSphere Client (HTML5) contains a remote code execution vulnerability in a vCenter Server plugin. A malicious actor with network access to port 443 may exploit this issue to execute commands with unrestricted privileges on the underlying operating system that hosts vCenter Server. This affects VMware vCenter Server (7.x before 7.0 U1c, 6.7 before 6.7 U3l and 6.5 before 6.5 U3n) and VMware Cloud Foundation (4.x before 4.2 and 3.x before 3.10.1.2).| 
 
@@ -81,8 +81,9 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210305T01:38:50Z | exploits made by me | https://github.com/panpas14/Exploits | 0 | 0| 
+| 20210305T01:37:17Z | An open-source post-exploitation framework for students, researchers and developers. | https://github.com/malwaredllc/byob | 5952 | 1326| 
 | 20210305T01:28:02Z | A new, pretty, simple, CROSS PLATFORM tool for injecting payloads onto your Switch to boot into Atmosphere, Hekate, Android etc! | https://github.com/versionxcontrol/super-payload-launcher | 5 | 0| 
-| 20210305T01:08:23Z | An open-source post-exploitation framework for students, researchers and developers. | https://github.com/malwaredllc/byob | 5952 | 1326| 
 | 20210305T01:02:36Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 9 | 4| 
 | 20210305T00:50:17Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 8 | 5| 
 | 20210304T23:57:44Z | this code have copyright, only for educational purposes | https://github.com/ShitpostMDX/WPF-Roblox-Exploit | 0 | 0| 
@@ -90,7 +91,6 @@
 | 20210304T22:59:55Z | PS4 Exploits 1.01-7.02 | https://github.com/Buzbee/Buzbee.github.io | 0 | 1| 
 | 20210304T22:53:41Z | Shadow Strike is a hacking framework that aids in information gathering, payload generation, payload delivery, and website exploitation. | https://github.com/diegomardian/ShadowStrike | 5 | 6| 
 | 20210304T22:43:11Z | Null | https://github.com/kiarashjam/Exploiting-Video-Games-to-Test-AV | 0 | 1| 
-| 20210304T22:41:52Z | Tools for exploiting ARIA standard products | https://github.com/aria-tools/ARIA-tools | 38 | 19| 
 
 
 # backdoor on Github 推荐
