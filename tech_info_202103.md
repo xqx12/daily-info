@@ -111,16 +111,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210304T13:45:42Z | Null | https://github.com/DarkShinobi100/BehaviourTreesvsFuzzy | 0 | 0| 
-| 20210304T13:23:45Z | Coverage-guided, in-process fuzzing for the JVM | https://github.com/CodeIntelligenceTesting/jazzer | 192 | 7| 
-| 20210304T13:22:54Z | Null | https://github.com/saidatul278/fuzzy-eureka | 0 | 0| 
-| 20210304T13:18:45Z | Personal website of Laurence Hughes | https://github.com/fuzzylogicxx/fuzzylogic | 4 | 1| 
-| 20210304T13:05:17Z | A fuzzer that generates random Go programs | https://github.com/ALTree/microsmith | 7 | 0| 
-| 20210304T13:01:43Z | Null | https://github.com/FDU-Program-Analysis/chunk-fuzzer-pass | 0 | 0| 
-| 20210304T12:52:30Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2278 | 116| 
-| 20210304T12:20:53Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 5990 | 1203| 
-| 20210304T11:59:55Z | a dumb fuzzer that works on custom mutators and radamsa to fuzz ELF Binaries | https://github.com/X3eRo0/xFuzzer | 0 | 0| 
-| 20210304T11:27:56Z | Null | https://github.com/borisdering/fuzzy_testing | 0 | 0| 
+| 20210305T13:03:33Z | Null | https://github.com/DarkShinobi100/BehaviourTreesvsFuzzy | 0 | 0| 
+| 20210305T13:01:01Z | Null | https://github.com/adithyaa23/-fuzzy-octo-garbanzo_ | 0 | 0| 
+| 20210305T12:58:14Z | The Book %Generating Software Tests% | https://github.com/uds-se/fuzzingbook | 536 | 109| 
+| 20210305T12:50:46Z | A Try in GITHUB UNIVERSE | https://github.com/MMDShen/fuzzy-fortnight | 0 | 0| 
+| 20210305T12:22:32Z | Data with augmentation and bugs tricks | https://github.com/Kostr0min/fuzzy_data | 0 | 1| 
+| 20210305T12:02:49Z | HSL and Finland related Pelias geocoding fuzzy tests | https://github.com/HSLdevcom/pelias-fuzzy-tests | 2 | 1| 
+| 20210305T11:27:30Z | Rockyou for web fuzzing | https://github.com/six2dez/OneListForAll | 209 | 43| 
+| 20210305T11:00:41Z | Null | https://github.com/songbai-liu/Fuzzy-Decomposition-based-Evolutionary-Algorithm | 0 | 0| 
+| 20210305T10:54:59Z | Manual input and schedule fuzzing/steering | https://github.com/danpoe/quickfuzz | 0 | 0| 
+| 20210305T10:32:35Z | A fuzzy dropdown select for React. Use the builtin fuzzysort or inject your own sorting library/algorithm | https://github.com/OMMatte/react-fuzzy-select | 0 | 0| 
 
 
 
