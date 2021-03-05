@@ -33,11 +33,11 @@
 | 20210304T15:25:40Z | CVE-2020-28243 | CVE-2020-28243 Local Privledge Escalation Exploit in SaltStack Minion | https://github.com/stealthcopter/CVE-2020-28243 | An issue was discovered in SaltStack Salt before 3002.5. The minion%s restartcheck is vulnerable to command injection via a crafted process name. This allows for a local privilege escalation by any user able to create a files on the minion in a non-blacklisted directory.| 
 | 20210304T14:36:47Z | CVE-2021-21042 | Exploit code for CVE-2021-21042 | https://github.com/NattiSamson/CVE-2021-21042 | Acrobat Reader DC versions versions 2020.013.20074 (and earlier), 2020.001.30018 (and earlier) and 2017.011.30188 (and earlier) are affected by an Out-of-bounds Read vulnerability. An unauthenticated attacker could leverage this vulnerability to locally escalate privileges in the context of the current user. Exploitation of this issue requires user interaction in that a victim must open a malicious file.| 
 | 20210304T13:48:19Z | CVE-2021-27246 | Null | https://github.com/synacktiv/CVE-2021-27246_Pwn2Own2020 | 未查询到CVE信息| 
-| 20210304T12:47:11Z | CVE-2020-35682 | SD-91948: CVE-2020-35682: Authentication Bypass Vulnerability during SAML login in ServiceDesk Plus. | https://github.com/its-arun/CVE-2020-35682 | | 
+| 20210304T12:47:11Z | CVE-2020-35682 | SD-91948: CVE-2020-35682: Authentication Bypass Vulnerability during SAML login in ServiceDesk Plus. | https://github.com/its-arun/CVE-2020-35682 | 未查询到CVE信息| 
 | 20210304T11:47:51Z | CVE-2021-21315 | Null | https://github.com/cherrera0001/CVE-2021-21315v2 | The System Information Library for Node.JS (npm package %systeminformation%) is an open source collection of functions to retrieve detailed hardware, system and OS information. In systeminformation before version 5.3.1 there is a command injection vulnerability. Problem was fixed in version 5.3.1. As a workaround instead of upgrading, be sure to check or sanitize service parameters that are passed to si.inetLatency(), si.inetChecksite(), si.services(), si.processLoad() ... do only allow strings, reject any arrays. String sanitation works as expected.| 
 | 20210304T08:58:07Z | CVE-2021-21972 | CVE-2021-21972 related vulnerability code | https://github.com/ByZain/CVE-2021-21972 | The vSphere Client (HTML5) contains a remote code execution vulnerability in a vCenter Server plugin. A malicious actor with network access to port 443 may exploit this issue to execute commands with unrestricted privileges on the underlying operating system that hosts vCenter Server. This affects VMware vCenter Server (7.x before 7.0 U1c, 6.7 before 6.7 U3l and 6.5 before 6.5 U3n) and VMware Cloud Foundation (4.x before 4.2 and 3.x before 3.10.1.2).| 
 | 20210304T08:45:41Z | CVE-2020-24597 | Directory traversal in com_media to RCE | https://github.com/HoangKien1020/CVE-2020-24597 | 未查询到CVE信息| 
-| 20210304T06:23:18Z | CVE-2021-21972 | Null | https://github.com/QmF0c3UK/CVE-2021-21972-vCenter-6.5-7.0-RCE-POC | | 
+| 20210304T06:23:18Z | CVE-2021-21972 | Null | https://github.com/QmF0c3UK/CVE-2021-21972-vCenter-6.5-7.0-RCE-POC | The vSphere Client (HTML5) contains a remote code execution vulnerability in a vCenter Server plugin. A malicious actor with network access to port 443 may exploit this issue to execute commands with unrestricted privileges on the underlying operating system that hosts vCenter Server. This affects VMware vCenter Server (7.x before 7.0 U1c, 6.7 before 6.7 U3l and 6.5 before 6.5 U3n) and VMware Cloud Foundation (4.x before 4.2 and 3.x before 3.10.1.2).| 
 
 
 # klee on Github 推荐
@@ -72,7 +72,6 @@
 | --- | --- | --- | --- | ---| 
 | 20210304T22:46:53Z | Linux Kernel module-less implant (backdoor) | https://github.com/milabs/kopycat | 15 | 7| 
 | 20210304T21:25:22Z | Protect your server against backdoors. | https://github.com/Xalalau/backdoor-shield | 1 | 0| 
-| 20210304T20:37:34Z | A port of BHIS%s Backdoors & Breaches for playingcards.io | https://github.com/FirmGuardian/backdoors-and-breaches-pcio | 6 | 1| 
 | 20210304T20:31:27Z | AMWScan (PHP Antimalware Scanner) is a free tool to scan php files and analyze your project to find any malicious code inside it. | https://github.com/marcocesarato/PHP-Antimalware-Scanner | 174 | 32| 
 | 20210304T16:25:04Z | Second try to create an reverse shell using python, but with multi-thread system | https://github.com/Braga451/python-backdoor-public-v2 | 0 | 0| 
 | 20210304T16:00:04Z | Null | https://github.com/Bleep0/AntiBackdoor | 0 | 0| 
@@ -80,6 +79,7 @@
 | 20210304T10:51:03Z | Backdoor shell that can bypass error 403 forbidden and 406 auto delete contents | https://github.com/SondreX-ID/Gel4y-Mini-Shell-Backdoor | 1 | 0| 
 | 20210304T10:17:06Z | A Simple android remote administration tool using sockets. It uses java on the client side and python on the server side | https://github.com/karma9874/AndroRAT | 172 | 76| 
 | 20210304T04:35:54Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 183 | 26| 
+| 20210304T02:43:19Z | Silent, customizable backdoor plugin for 1.12.2. | https://github.com/MajesticWaffle/Minecraft-Backdoor | 1 | 0| 
 
 
 # fuzz on Github 推荐
