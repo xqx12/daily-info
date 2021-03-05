@@ -81,6 +81,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210305T01:14:06Z | A new, pretty, simple, and cross platform tool for injecting payloads onto your Switch to boot into Atmosphere, Hekate, Android etc! | https://github.com/versionxcontrol/super-payload-launcher | 5 | 0| 
 | 20210305T01:08:23Z | An open-source post-exploitation framework for students, researchers and developers. | https://github.com/malwaredllc/byob | 5952 | 1326| 
 | 20210305T01:02:36Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 9 | 4| 
 | 20210305T00:50:17Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 8 | 5| 
@@ -90,7 +91,6 @@
 | 20210304T22:53:41Z | Shadow Strike is a hacking framework that aids in information gathering, payload generation, payload delivery, and website exploitation. | https://github.com/diegomardian/ShadowStrike | 5 | 6| 
 | 20210304T22:43:11Z | Null | https://github.com/kiarashjam/Exploiting-Video-Games-to-Test-AV | 0 | 1| 
 | 20210304T22:41:52Z | Tools for exploiting ARIA standard products | https://github.com/aria-tools/ARIA-tools | 38 | 19| 
-| 20210304T22:38:42Z | A CTF web app designed to teach software developers application security by showcasing what vulnerable code looks like, how to write code to exploit the vulnerability, and how to write code to patch the vulnerability. | https://github.com/neumaneuma/appseccheat.codes | 0 | 0| 
 
 
 # backdoor on Github 推荐
