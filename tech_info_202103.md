@@ -81,7 +81,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210305T01:25:02Z | A new, pretty, simple, and cross platform tool for injecting payloads onto your Switch to boot into Atmosphere, Hekate, Android etc! | https://github.com/versionxcontrol/super-payload-launcher | 5 | 0| 
+| 20210305T01:28:02Z | A new, pretty, simple, CROSS PLATFORM tool for injecting payloads onto your Switch to boot into Atmosphere, Hekate, Android etc! | https://github.com/versionxcontrol/super-payload-launcher | 5 | 0| 
 | 20210305T01:08:23Z | An open-source post-exploitation framework for students, researchers and developers. | https://github.com/malwaredllc/byob | 5952 | 1326| 
 | 20210305T01:02:36Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 9 | 4| 
 | 20210305T00:50:17Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 8 | 5| 
