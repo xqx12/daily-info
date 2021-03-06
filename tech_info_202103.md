@@ -81,7 +81,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210306T01:51:51Z | A new, pretty, simple, cross-platform GUI-based tool for injecting payloads onto your Switch to boot into Atmosphere, Hekate, Android etc! Available for Windows, MacOS and Linux. | https://github.com/versionxcontrol/super-payload-launcher | 5 | 0| 
+| 20210306T02:00:03Z | A new, pretty, simple, cross-platform GUI-based tool for injecting payloads onto your Switch to boot into Atmosphere, Hekate, Android etc! Available for Windows, MacOS and Linux. | https://github.com/versionxcontrol/super-payload-launcher | 5 | 0| 
 | 20210306T01:46:40Z | Null | https://github.com/0xturazzi/Um-Livrinho-Sobre-Exploit-Dev | 0 | 0| 
 | 20210306T01:27:46Z | DirTras is an automated directory/path traversal exploitation tool. | https://github.com/Nate-one/DirTras | 1 | 0| 
 | 20210306T01:12:46Z | Tool(s) to help identify compromise from the March 2021 Microsoft Exchange Zero Day Exploits | https://github.com/jinouchi/exchange_zero_day | 0 | 0| 
