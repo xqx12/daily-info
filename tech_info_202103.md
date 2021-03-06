@@ -82,7 +82,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210306T13:41:29Z | An advanced XSS exploitation tool. | https://github.com/LoveSteak/Steak | 1 | 0| 
+| 20210306T13:51:22Z | An advanced XSS exploitation tool. | https://github.com/LoveSteak/Steak | 1 | 0| 
 | 20210306T13:34:47Z | LytHack-Exploit-Kit its a collection of tools for Reconnaissance and Exploiting Vulnerabilities | https://github.com/LytHack/LytHack-Exploit-Kit | 0 | 0| 
 | 20210306T13:05:56Z | Small DDoS Script i made for Wordpress website that have XMLRPC enabled.  | https://github.com/k0rup710n/Wordpress-XXE-DDoS-Exploit-XMLRPC | 0 | 0| 
 | 20210306T13:05:50Z | Null | https://github.com/kira-Developer/Exploit | 0 | 0| 
@@ -97,12 +97,12 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210306T13:50:08Z | Poopboobs Nether Roof plugin backdoor (credit: https://github.com/ItsYoungDaddy) | https://github.com/AfkBranta/PopbobsNetherRoofPlugin | 0 | 0| 
 | 20210306T13:07:10Z | %Socialx% is a Social Engineering And Remote Access Trojan Tool. You can generate fud backdoor and you can embed any file you want inside of the exe file. | https://github.com/AzizKpln/Social_X | 75 | 21| 
 | 20210306T12:54:55Z | A simple persistence backdoor for linux | https://github.com/Exploit-lang/backdoor-penguin | 0 | 0| 
 | 20210306T11:49:33Z | AMWScan (PHP Antimalware Scanner) is a free tool to scan php files and analyze your project to find any malicious code inside it. | https://github.com/marcocesarato/PHP-Antimalware-Scanner | 176 | 33| 
 | 20210306T07:54:37Z | 🤖An Evil and Smart Bot for Enslaving Windows. | https://github.com/wildonion/katyusha | 1 | 1| 
 | 20210306T02:03:04Z | Undetectable & Xor encrypting with custom KEY (FUD Metasploit Rat) bypass Top Antivirus like BitDefender,Malwarebytes,Avast,ESET-NOD32,AVG,... & Automatically Add ICON and MANIFEST to excitable | https://github.com/persianhydra/Xeexe-TopAntivirusEvasion | 322 | 83| 
-| 20210306T00:10:58Z | Poopboobs Nether Roof plugin backdoor (credit: https://github.com/ItsYoungDaddy) | https://github.com/AfkBranta/PopbobsNetherRoofPlugin | 0 | 0| 
 | 20210305T21:57:57Z | Tool to find potential backdoor/security holes in your endpoint | https://github.com/subasgit/backdoorfinder | 2 | 0| 
 | 20210305T21:40:45Z | Threat Emulation and Red Teaming Framework. | https://github.com/quantumcored/remote_hacker_probe | 31 | 5| 
 | 20210305T20:36:06Z | Null | https://github.com/Wiilldd/backdoor | 0 | 0| 
