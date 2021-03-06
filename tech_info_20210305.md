@@ -87,16 +87,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210305T13:24:47Z | Created with CodeSandbox | https://github.com/adithyaa23/fuzzy-octopus | 0 | 0| 
-| 20210305T13:20:23Z | Null | https://github.com/adithyaa23/-fuzzy-octo-garbanzo_ | 0 | 0| 
-| 20210305T13:03:33Z | Null | https://github.com/DarkShinobi100/BehaviourTreesvsFuzzy | 0 | 0| 
-| 20210305T12:58:14Z | The Book %Generating Software Tests% | https://github.com/uds-se/fuzzingbook | 536 | 109| 
-| 20210305T12:50:46Z | A Try in GITHUB UNIVERSE | https://github.com/MMDShen/fuzzy-fortnight | 0 | 0| 
-| 20210305T12:22:32Z | Data with augmentation and bugs tricks | https://github.com/Kostr0min/fuzzy_data | 0 | 1| 
-| 20210305T12:02:49Z | HSL and Finland related Pelias geocoding fuzzy tests | https://github.com/HSLdevcom/pelias-fuzzy-tests | 2 | 1| 
-| 20210305T11:27:30Z | Rockyou for web fuzzing | https://github.com/six2dez/OneListForAll | 209 | 43| 
-| 20210305T11:00:41Z | Null | https://github.com/songbai-liu/Fuzzy-Decomposition-based-Evolutionary-Algorithm | 0 | 0| 
-| 20210305T10:54:59Z | Manual input and schedule fuzzing/steering | https://github.com/danpoe/quickfuzz | 0 | 0| 
+| 20210305T23:25:27Z | JQF + Zest: Coverage-guided semantic fuzzing for Java. | https://github.com/rohanpadhye/JQF | 335 | 45| 
+| 20210305T22:37:10Z | Repository holding database dumps from getfursu.it | https://github.com/veelkoov/fuzzrake-data | 0 | 0| 
+| 20210305T22:06:32Z | The Book %Generating Software Tests% | https://github.com/uds-se/fuzzingbook | 536 | 109| 
+| 20210305T21:50:42Z | Fuzz test your application using your OpenAPI or Swagger API definition without coding | https://github.com/KissPeter/APIFuzzer | 95 | 32| 
+| 20210305T21:34:22Z | This repository contains support script for statistical hydrometeorological analysis | https://github.com/mathmodelling/fuzzy-journey | 0 | 0| 
+| 20210305T21:32:54Z | Null | https://github.com/SophieLemos/Fuzzer | 0 | 0| 
+| 20210305T21:13:39Z | Null | https://github.com/dogooder323/fuzzy-carnival | 0 | 0| 
+| 20210305T20:38:04Z | Null | https://github.com/BerkayAkgurgen/fuzzy-octo-doodle | 0 | 0| 
+| 20210305T20:17:39Z | SSL and TLS protocol test suite and fuzzer | https://github.com/tlsfuzzer/tlsfuzzer | 334 | 85| 
+| 20210305T19:37:49Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 3392 | 781| 
 
 
 

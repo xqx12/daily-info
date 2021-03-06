@@ -111,16 +111,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210305T13:24:47Z | Created with CodeSandbox | https://github.com/adithyaa23/fuzzy-octopus | 0 | 0| 
-| 20210305T13:20:23Z | Null | https://github.com/adithyaa23/-fuzzy-octo-garbanzo_ | 0 | 0| 
-| 20210305T13:03:33Z | Null | https://github.com/DarkShinobi100/BehaviourTreesvsFuzzy | 0 | 0| 
-| 20210305T12:58:14Z | The Book %Generating Software Tests% | https://github.com/uds-se/fuzzingbook | 536 | 109| 
-| 20210305T12:50:46Z | A Try in GITHUB UNIVERSE | https://github.com/MMDShen/fuzzy-fortnight | 0 | 0| 
-| 20210305T12:22:32Z | Data with augmentation and bugs tricks | https://github.com/Kostr0min/fuzzy_data | 0 | 1| 
-| 20210305T12:02:49Z | HSL and Finland related Pelias geocoding fuzzy tests | https://github.com/HSLdevcom/pelias-fuzzy-tests | 2 | 1| 
-| 20210305T11:27:30Z | Rockyou for web fuzzing | https://github.com/six2dez/OneListForAll | 209 | 43| 
-| 20210305T11:00:41Z | Null | https://github.com/songbai-liu/Fuzzy-Decomposition-based-Evolutionary-Algorithm | 0 | 0| 
-| 20210305T10:54:59Z | Manual input and schedule fuzzing/steering | https://github.com/danpoe/quickfuzz | 0 | 0| 
+| 20210306T02:30:46Z | Fuzzing cryptographic libraries. Magic bug printer go brrrr. | https://github.com/guidovranken/cryptofuzz | 255 | 36| 
+| 20210306T01:58:23Z | To make fuzzing Rust easy | https://github.com/smoelius/test-fuzz | 0 | 0| 
+| 20210306T01:21:04Z | Fuzzy String Matching in Python | https://github.com/seatgeek/fuzzington-bear | 1 | 0| 
+| 20210306T01:04:31Z | CS 4152 Project | https://github.com/nicbarone/Fuzzy-Kiwi | 0 | 0| 
+| 20210306T00:55:15Z | Null | https://github.com/VeriBlock/fuzz-corpus | 0 | 0| 
+| 20210306T00:20:03Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2278 | 116| 
+| 20210306T00:09:58Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 5996 | 1204| 
+| 20210306T00:01:22Z | Open Enclave specific security automation projects (CodeQL static analysis, Fuzzing and binary analysis). | https://github.com/openenclave/openenclave-security | 1 | 2| 
+| 20210305T23:25:27Z | JQF + Zest: Coverage-guided semantic fuzzing for Java. | https://github.com/rohanpadhye/JQF | 335 | 45| 
+| 20210305T22:37:10Z | Repository holding database dumps from getfursu.it | https://github.com/veelkoov/fuzzrake-data | 0 | 0| 
 
 
 
