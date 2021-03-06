@@ -81,7 +81,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210306T01:45:31Z | Null | https://github.com/0xturazzi/Um-Livrinho-Sobre-Exploit-Dev | 0 | 0| 
+| 20210306T01:46:40Z | Null | https://github.com/0xturazzi/Um-Livrinho-Sobre-Exploit-Dev | 0 | 0| 
 | 20210306T01:27:46Z | DirTras is an automated directory/path traversal exploitation tool. | https://github.com/Nate-one/DirTras | 1 | 0| 
 | 20210306T01:12:46Z | Tool(s) to help identify compromise from the March 2021 Microsoft Exchange Zero Day Exploits | https://github.com/jinouchi/exchange_zero_day | 0 | 0| 
 | 20210306T01:02:50Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 9 | 4| 
