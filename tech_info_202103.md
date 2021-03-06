@@ -82,7 +82,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210306T13:39:40Z | An advanced XSS exploitation tool. | https://github.com/LoveSteak/Steak | 1 | 0| 
+| 20210306T13:41:29Z | An advanced XSS exploitation tool. | https://github.com/LoveSteak/Steak | 1 | 0| 
 | 20210306T13:34:47Z | LytHack-Exploit-Kit its a collection of tools for Reconnaissance and Exploiting Vulnerabilities | https://github.com/LytHack/LytHack-Exploit-Kit | 0 | 0| 
 | 20210306T13:05:56Z | Small DDoS Script i made for Wordpress website that have XMLRPC enabled.  | https://github.com/k0rup710n/Wordpress-XXE-DDoS-Exploit-XMLRPC | 0 | 0| 
 | 20210306T13:05:50Z | Null | https://github.com/kira-Developer/Exploit | 0 | 0| 
@@ -112,6 +112,9 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210306T13:35:12Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2278 | 116| 
+| 20210306T13:33:01Z | Null | https://github.com/DarkShinobi100/BehaviourTreesvsFuzzy | 0 | 0| 
+| 20210306T13:17:42Z | Null | https://github.com/Sambigeara/fuzzy-note | 2 | 1| 
 | 20210306T11:30:54Z | PoC of fuzzing closed-source userspace binaries with KVM | https://github.com/klecko/kvm-fuzz | 0 | 0| 
 | 20210306T11:27:55Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 1356 | 297| 
 | 20210306T11:24:31Z | The Book %Generating Software Tests% | https://github.com/uds-se/fuzzingbook | 536 | 109| 
@@ -119,9 +122,6 @@
 | 20210306T10:37:15Z | Null | https://github.com/shuchita28/CrimePrediction_FuzzyC | 0 | 0| 
 | 20210306T09:58:04Z | Null | https://github.com/nguyenanh1997/Fuzzz | 0 | 0| 
 | 20210306T09:51:41Z | Null | https://github.com/giakou4/fuzzy | 0 | 0| 
-| 20210306T09:36:48Z | Null | https://github.com/ibm-kh/fuzzy-octo-journey | 0 | 0| 
-| 20210306T09:21:54Z | interactive `git` with the help of `fzf` | https://github.com/bigH/git-fuzzy | 1710 | 33| 
-| 20210306T08:39:22Z | Null | https://github.com/VeriBlock/fuzz-corpus | 0 | 0| 
 
 
 
