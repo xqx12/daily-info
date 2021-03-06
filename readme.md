@@ -43,6 +43,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210306T13:04:31Z | Small DDoS Script i made for Wordpress website that have XMLRPC enabled.  | https://github.com/k0rup710n/Wordpress-XXE-DDoS-Exploit-XMLRPC | 0 | 0| 
 | 20210306T13:03:35Z | LytHack-Exploit-Kit its a collection of tools for Reconnaissance and Exploiting Vulnerabilities | https://github.com/LytHack/LytHack-Exploit-Kit | 0 | 0| 
 | 20210306T13:02:25Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 9 | 4| 
 | 20210306T12:47:15Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9088 | 1464| 
@@ -52,7 +53,6 @@
 | 20210306T10:50:03Z | tool hacking kriptografi, spoofing/sniffing,exploitation, bypass malware, BruteForce | https://github.com/fathoniwasesojati1337/Tool-Hacking-By-1337 | 4 | 3| 
 | 20210306T10:26:25Z | Modular penetration testing platform that enables you to write, test, and execute exploit code. | https://github.com/EntySec/HatSploit | 5 | 2| 
 | 20210306T09:53:57Z | iblessing is an iOS security exploiting toolkit, it mainly includes application information collection, static analysis and dynamic analysis. It can be used for reverse engineering, binary analysis and vulnerability mining. | https://github.com/Soulghost/iblessing | 321 | 49| 
-| 20210306T09:47:16Z | Detect webshells dropped on Microsoft Exchange servers exploited through %proxylogon% group of vulnerabilites (CVE-2021-26855, CVE-2021-26857, CVE-2021-26858, CVE-2021-27065) | https://github.com/cert-lv/exchange_webshell_detection | 8 | 3| 
 
 
 # backdoor on Github 推荐
