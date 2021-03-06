@@ -82,9 +82,9 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210306T13:07:39Z | LytHack-Exploit-Kit its a collection of tools for Reconnaissance and Exploiting Vulnerabilities | https://github.com/LytHack/LytHack-Exploit-Kit | 0 | 0| 
 | 20210306T13:05:56Z | Small DDoS Script i made for Wordpress website that have XMLRPC enabled.  | https://github.com/k0rup710n/Wordpress-XXE-DDoS-Exploit-XMLRPC | 0 | 0| 
 | 20210306T13:05:50Z | Null | https://github.com/kira-Developer/Exploit | 0 | 0| 
-| 20210306T13:03:35Z | LytHack-Exploit-Kit its a collection of tools for Reconnaissance and Exploiting Vulnerabilities | https://github.com/LytHack/LytHack-Exploit-Kit | 0 | 0| 
 | 20210306T13:02:25Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 9 | 4| 
 | 20210306T12:47:15Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9088 | 1464| 
 | 20210306T11:49:33Z | AMWScan (PHP Antimalware Scanner) is a free tool to scan php files and analyze your project to find any malicious code inside it. | https://github.com/marcocesarato/PHP-Antimalware-Scanner | 176 | 33| 
@@ -97,9 +97,9 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210306T13:07:10Z | %Socialx% is a Social Engineering And Remote Access Trojan Tool. You can generate fud backdoor and you can embed any file you want inside of the exe file. | https://github.com/AzizKpln/Social_X | 75 | 21| 
 | 20210306T12:54:55Z | A simple persistence backdoor for linux | https://github.com/Exploit-lang/backdoor-penguin | 0 | 0| 
 | 20210306T11:49:33Z | AMWScan (PHP Antimalware Scanner) is a free tool to scan php files and analyze your project to find any malicious code inside it. | https://github.com/marcocesarato/PHP-Antimalware-Scanner | 176 | 33| 
-| 20210306T09:23:02Z | %Socialx% is a Social Engineering And Remote Access Trojan Tool. You can generate fud backdoor and you can embed any file you want inside of the exe file. | https://github.com/AzizKpln/Social_X | 75 | 21| 
 | 20210306T07:54:37Z | 🤖An Evil and Smart Bot for Enslaving Windows. | https://github.com/wildonion/katyusha | 1 | 1| 
 | 20210306T02:03:04Z | Undetectable & Xor encrypting with custom KEY (FUD Metasploit Rat) bypass Top Antivirus like BitDefender,Malwarebytes,Avast,ESET-NOD32,AVG,... & Automatically Add ICON and MANIFEST to excitable | https://github.com/persianhydra/Xeexe-TopAntivirusEvasion | 322 | 83| 
 | 20210306T00:10:58Z | Poopboobs Nether Roof plugin backdoor (credit: https://github.com/ItsYoungDaddy) | https://github.com/AfkBranta/PopbobsNetherRoofPlugin | 0 | 0| 
