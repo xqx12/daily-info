@@ -82,7 +82,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210306T13:20:30Z | An advanced XSS exploitation tool. | https://github.com/LoveSteak/Steak | 0 | 0| 
+| 20210306T13:21:05Z | An advanced XSS exploitation tool. | https://github.com/LoveSteak/Steak | 1 | 0| 
 | 20210306T13:07:39Z | LytHack-Exploit-Kit its a collection of tools for Reconnaissance and Exploiting Vulnerabilities | https://github.com/LytHack/LytHack-Exploit-Kit | 0 | 0| 
 | 20210306T13:05:56Z | Small DDoS Script i made for Wordpress website that have XMLRPC enabled.  | https://github.com/k0rup710n/Wordpress-XXE-DDoS-Exploit-XMLRPC | 0 | 0| 
 | 20210306T13:05:50Z | Null | https://github.com/kira-Developer/Exploit | 0 | 0| 
