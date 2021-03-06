@@ -54,13 +54,14 @@
 | 20210305T11:56:06Z | CVE-2020-29134 | Null | https://github.com/lucxssouza/CVE-2020-29134 | TOTVS Fluig Luke 1.7.0 allows directory traversal via a base64 encoded file=../ to a volume/stream/ URI. This affects: Fluig Lake 1.7.0-210217, Fluig Lake 1.7.0-210112, Fluig Lake 1.7.0-201215, Fluig Lake 1.7.0-201124 and Fluig Lake 1.7.0-200915.| 
 | 20210305T10:51:21Z | CVE-2021-21042 | Exploit code for CVE-2021-21042 | https://github.com/NattiSamson/CVE-2021-21042 | Acrobat Reader DC versions versions 2020.013.20074 (and earlier), 2020.001.30018 (and earlier) and 2017.011.30188 (and earlier) are affected by an Out-of-bounds Read vulnerability. An unauthenticated attacker could leverage this vulnerability to locally escalate privileges in the context of the current user. Exploitation of this issue requires user interaction in that a victim must open a malicious file.| 
 | 20210305T10:50:05Z | CVE-2021-1732 | CVE-2021-1732 Exploit | https://github.com/KaLendsi/CVE-2021-1732-Exploit | Windows Win32k Elevation of Privilege Vulnerability This CVE ID is unique from CVE-2021-1698.| 
-| 20210305T10:32:33Z | CVE-2021-21978 | CVE-2021-21978 EXP | https://github.com/me1ons/CVE-2021-21978 | | 
+| 20210305T10:32:33Z | CVE-2021-21978 | CVE-2021-21978 EXP | https://github.com/me1ons/CVE-2021-21978 | VMware View Planner 4.x prior to 4.6 Security Patch 1 contains a remote code execution vulnerability. Improper input validation and lack of authorization leading to arbitrary file upload in logupload web application. An unauthorized attacker with network access to View Planner Harness could upload and execute a specially crafted file leading to remote code execution within the logupload container.| 
 | 20210305T07:57:49Z | CVE-2020-9484 | Null | https://github.com/DXY0411/CVE-2020-9484 | When using Apache Tomcat versions 10.0.0-M1 to 10.0.0-M4, 9.0.0.M1 to 9.0.34, 8.5.0 to 8.5.54 and 7.0.0 to 7.0.103 if a) an attacker is able to control the contents and name of a file on the server; and b) the server is configured to use the PersistenceManager with a FileStore; and c) the PersistenceManager is configured with sessionAttributeValueClassNameFilter=%null% (the default unless a SecurityManager is used) or a sufficiently lax filter to allow the attacker provided object to be deserialized; and d) the attacker knows the relative file path from the storage location used by FileStore to the file the attacker has control over; then, using a specifically crafted request, the attacker will be able to trigger remote code execution via deserialization of the file under their control. Note that all of conditions a) to d) must be true for the attack to succeed.| 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210306T01:29:38Z | KLEE support llvm-9.0.0 | https://github.com/YizhuoZhai/yzklee | 0 | 0| 
 | 20210306T00:17:07Z | Whole Program LLVM: wllvm ported to go | https://github.com/SRI-CSL/gllvm | 124 | 21| 
 | 20210305T22:56:08Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 的 Klee One 的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 305 | 7| 
 | 20210305T22:51:34Z | Git Blog | https://github.com/klee30810/klee30810.github.io | 0 | 0| 
@@ -69,7 +70,6 @@
 | 20210305T14:58:44Z | Null | https://github.com/Chiyukichan/klee_app | 0 | 0| 
 | 20210305T03:34:33Z | Null | https://github.com/fontworks-fonts/Klee | 378 | 10| 
 | 20210304T16:59:37Z | Null | https://github.com/klee8306/Git-klee | 0 | 0| 
-| 20210303T23:18:58Z | KLEE support llvm-9.0.0 | https://github.com/YizhuoZhai/yzklee | 0 | 0| 
 | 20210303T21:15:30Z | Null | https://github.com/abbykleespie/LAWk5AbbyKleespie.appstudio | 0 | 0| 
 
 
@@ -81,6 +81,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210306T01:29:49Z | Null | https://github.com/0xturazzi/Um-Livrinho-Sobre-Exploit-Dev | 0 | 0| 
 | 20210306T01:27:46Z | DirTras is an automated directory/path traversal exploitation tool. | https://github.com/Nate-one/DirTras | 1 | 0| 
 | 20210306T01:12:46Z | Tool(s) to help identify compromise from the March 2021 Microsoft Exchange Zero Day Exploits | https://github.com/jinouchi/exchange_zero_day | 0 | 0| 
 | 20210306T01:02:50Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 9 | 4| 
@@ -90,7 +91,6 @@
 | 20210306T00:10:12Z | %The software will be building a network server from scratch that at startup will have the ability to selectively enable insecure portions of code that can be exploited. The software could be developed as a honeypot for detection of exploitation attempts within a network and/or as a practice server for pentesters.  The project may also need to develop companion software that can test the code, or collect logs from the server.% | https://github.com/TimHanneman/Multi_Purpose_Exploitable_Server | 0 | 0| 
 | 20210305T23:22:12Z | Exploit for Joomla JCK Editor 6.4.4 | https://github.com/Nickguitar/Joomla-JCK-Editor-6.4.4-SQL-Injection | 3 | 0| 
 | 20210305T22:28:29Z | Various ASM, C and C++ tools, shellcodes and exploit experiments. | https://github.com/forrest-orr/ExploitDev | 53 | 5| 
-| 20210305T22:27:10Z | A phased, evasive Path Traversal + LFI scanning & exploitation tool in Python | https://github.com/VainlyStrain/Vailyn | 98 | 6| 
 
 
 # backdoor on Github 推荐
