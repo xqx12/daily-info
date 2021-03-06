@@ -81,6 +81,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210306T01:51:51Z | A new, pretty, simple, cross-platform GUI-based tool for injecting payloads onto your Switch to boot into Atmosphere, Hekate, Android etc! Available for Windows, MacOS and Linux. | https://github.com/versionxcontrol/super-payload-launcher | 5 | 0| 
 | 20210306T01:46:40Z | Null | https://github.com/0xturazzi/Um-Livrinho-Sobre-Exploit-Dev | 0 | 0| 
 | 20210306T01:27:46Z | DirTras is an automated directory/path traversal exploitation tool. | https://github.com/Nate-one/DirTras | 1 | 0| 
 | 20210306T01:12:46Z | Tool(s) to help identify compromise from the March 2021 Microsoft Exchange Zero Day Exploits | https://github.com/jinouchi/exchange_zero_day | 0 | 0| 
@@ -90,7 +91,6 @@
 | 20210306T00:20:39Z | Null | https://github.com/SammyKrosoft/Exchange-Vulnerability-02March2021-HAFNIUM-targeting-Exchange-Servers-with-0-day-exploits | 1 | 0| 
 | 20210306T00:10:12Z | %The software will be building a network server from scratch that at startup will have the ability to selectively enable insecure portions of code that can be exploited. The software could be developed as a honeypot for detection of exploitation attempts within a network and/or as a practice server for pentesters.  The project may also need to develop companion software that can test the code, or collect logs from the server.% | https://github.com/TimHanneman/Multi_Purpose_Exploitable_Server | 0 | 0| 
 | 20210305T23:22:12Z | Exploit for Joomla JCK Editor 6.4.4 | https://github.com/Nickguitar/Joomla-JCK-Editor-6.4.4-SQL-Injection | 3 | 0| 
-| 20210305T22:28:29Z | Various ASM, C and C++ tools, shellcodes and exploit experiments. | https://github.com/forrest-orr/ExploitDev | 53 | 5| 
 
 
 # backdoor on Github 推荐
