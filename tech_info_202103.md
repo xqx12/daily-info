@@ -81,11 +81,11 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210306T02:02:38Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 9 | 4| 
 | 20210306T02:00:03Z | A new, pretty, simple, cross-platform GUI-based tool for injecting payloads onto your Switch to boot into Atmosphere, Hekate, Android etc! Available for Windows, MacOS and Linux. | https://github.com/versionxcontrol/super-payload-launcher | 5 | 0| 
 | 20210306T01:46:40Z | Null | https://github.com/0xturazzi/Um-Livrinho-Sobre-Exploit-Dev | 0 | 0| 
 | 20210306T01:27:46Z | DirTras is an automated directory/path traversal exploitation tool. | https://github.com/Nate-one/DirTras | 1 | 0| 
 | 20210306T01:12:46Z | Tool(s) to help identify compromise from the March 2021 Microsoft Exchange Zero Day Exploits | https://github.com/jinouchi/exchange_zero_day | 0 | 0| 
-| 20210306T01:02:50Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 9 | 4| 
 | 20210306T00:50:19Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 8 | 5| 
 | 20210306T00:24:51Z | Null | https://github.com/Canina-X/CaninaExploit | 0 | 0| 
 | 20210306T00:20:39Z | Null | https://github.com/SammyKrosoft/Exchange-Vulnerability-02March2021-HAFNIUM-targeting-Exchange-Servers-with-0-day-exploits | 1 | 0| 
@@ -96,12 +96,12 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210306T02:03:04Z | Undetectable & Xor encrypting with custom KEY (FUD Metasploit Rat) bypass Top Antivirus like BitDefender,Malwarebytes,Avast,ESET-NOD32,AVG,... & Automatically Add ICON and MANIFEST to excitable | https://github.com/persianhydra/Xeexe-TopAntivirusEvasion | 322 | 83| 
 | 20210306T00:10:58Z | Poopboobs Nether Roof plugin backdoor (credit: https://github.com/ItsYoungDaddy) | https://github.com/AfkBranta/PopbobsNetherRoofPlugin | 0 | 0| 
 | 20210305T22:21:11Z | %Socialx% is a Social Engineering And Remote Access Trojan Tool. You can generate fud backdoor and you can embed any file you want inside of the exe file. | https://github.com/AzizKpln/Social_X | 74 | 20| 
 | 20210305T21:57:57Z | Tool to find potential backdoor/security holes in your endpoint | https://github.com/subasgit/backdoorfinder | 2 | 0| 
 | 20210305T21:40:45Z | Threat Emulation and Red Teaming Framework. | https://github.com/quantumcored/remote_hacker_probe | 31 | 5| 
 | 20210305T20:36:06Z | Null | https://github.com/Wiilldd/backdoor | 0 | 0| 
-| 20210305T19:37:40Z | Undetectable & Xor encrypting with custom KEY (FUD Metasploit Rat) bypass Top Antivirus like BitDefender,Malwarebytes,Avast,ESET-NOD32,AVG,... & Automatically Add ICON and MANIFEST to excitable | https://github.com/persianhydra/Xeexe-TopAntivirusEvasion | 321 | 83| 
 | 20210305T17:11:14Z | :door: A remote access service | https://github.com/ldilley/inlet | 1 | 0| 
 | 20210305T16:00:01Z | A sample app to demonstrate how to create Xamarin UITests using the Page Object architecture, Backdoor Methods and App Links (aka Deep Linking) | https://github.com/brminnick/UITestSampleApp | 33 | 25| 
 | 20210305T13:10:35Z | A port of BHIS%s Backdoors & Breaches for playingcards.io | https://github.com/FirmGuardian/backdoors-and-breaches-pcio | 13 | 2| 

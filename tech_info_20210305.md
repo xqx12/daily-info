@@ -77,12 +77,12 @@
 | 20210305T21:57:57Z | Tool to find potential backdoor/security holes in your endpoint | https://github.com/subasgit/backdoorfinder | 2 | 0| 
 | 20210305T21:40:45Z | Threat Emulation and Red Teaming Framework. | https://github.com/quantumcored/remote_hacker_probe | 31 | 5| 
 | 20210305T20:36:06Z | Null | https://github.com/Wiilldd/backdoor | 0 | 0| 
-| 20210305T19:37:40Z | Undetectable & Xor encrypting with custom KEY (FUD Metasploit Rat) bypass Top Antivirus like BitDefender,Malwarebytes,Avast,ESET-NOD32,AVG,... & Automatically Add ICON and MANIFEST to excitable | https://github.com/persianhydra/Xeexe-TopAntivirusEvasion | 321 | 83| 
 | 20210305T17:11:14Z | :door: A remote access service | https://github.com/ldilley/inlet | 1 | 0| 
 | 20210305T16:00:01Z | A sample app to demonstrate how to create Xamarin UITests using the Page Object architecture, Backdoor Methods and App Links (aka Deep Linking) | https://github.com/brminnick/UITestSampleApp | 33 | 25| 
 | 20210305T13:10:35Z | A port of BHIS%s Backdoors & Breaches for playingcards.io | https://github.com/FirmGuardian/backdoors-and-breaches-pcio | 13 | 2| 
 | 20210305T12:51:17Z | example backdoor malware in C explained | https://github.com/lukasbalazik123/cBackdoorMalware | 0 | 0| 
 | 20210305T11:30:54Z | I created this script to help make it easier for you to directly attack index.html on the website | https://github.com/penucuriCode/shell-backdoor | 1 | 0| 
+| 20210305T09:53:18Z | A simple persistence backdoor for linux | https://github.com/Exploit-lang/backdoor-penguin | 0 | 0| 
 
 
 # fuzz on Github 推荐
