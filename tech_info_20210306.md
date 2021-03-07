@@ -58,7 +58,7 @@
 | 20210306T20:27:35Z | Fix exploits on anarchy minecraft servers | https://github.com/moom0o/AnarchyExploitFixes | 15 | 7| 
 | 20210306T20:11:49Z | Cross Site %Scripter% (aka XSSer) is an automatic -framework- to detect, exploit and report XSS vulnerabilities in web-based applications. | https://github.com/epsylon/xsser | 596 | 164| 
 | 20210306T19:58:20Z | Null | https://github.com/SocialEnot/GardenExploit | 0 | 0| 
-| 20210306T19:51:49Z | Null | https://github.com/iamtryingtofindname/RobloxExploits | 0 | 0| 
+| 20210306T19:41:19Z | LytHack-Exploit-Kit its a collection of tools for Reconnaissance and Exploiting Vulnerabilities | https://github.com/LytHack/LytHack-Exploit-Kit | 0 | 0| 
 
 
 # backdoor on Github 推荐
