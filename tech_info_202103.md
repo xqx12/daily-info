@@ -47,7 +47,7 @@
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
 | 20210307T02:29:36Z | CVE-2021-26855 | Microsoft Exchange Server SSRF漏洞(CVE-2021-26855) | https://github.com/conjojo/Microsoft_Exchange_Server_SSRF_CVE-2021-26855 | Microsoft Exchange Server Remote Code Execution Vulnerability This CVE ID is unique from CVE-2021-26412, CVE-2021-26854, CVE-2021-26857, CVE-2021-26858, CVE-2021-27065, CVE-2021-27078.| 
-| 20210307T01:58:40Z | CVE-2021-26855 | CVE-2021-26855 SSRF Exchange Server | https://github.com/Udyz/CVE-2021-26855-SSRF-Exchange | | 
+| 20210307T01:58:40Z | CVE-2021-26855 | CVE-2021-26855 SSRF Exchange Server | https://github.com/Udyz/CVE-2021-26855-SSRF-Exchange | Microsoft Exchange Server Remote Code Execution Vulnerability This CVE ID is unique from CVE-2021-26412, CVE-2021-26854, CVE-2021-26857, CVE-2021-26858, CVE-2021-27065, CVE-2021-27078.| 
 | 20210306T23:14:32Z | CVE-2021-26855 | PoC for CVE-2021-26855 -Just a checker- | https://github.com/0xAbdullah/CVE-2021-26855 | Microsoft Exchange Server Remote Code Execution Vulnerability This CVE ID is unique from CVE-2021-26412, CVE-2021-26854, CVE-2021-26857, CVE-2021-26858, CVE-2021-27065, CVE-2021-27078.| 
 | 20210306T21:11:45Z | CVE-2020-29134 | Null | https://github.com/lucxssouza/CVE-2020-29134 | TOTVS Fluig Luke 1.7.0 allows directory traversal via a base64 encoded file=../ to a volume/stream/ URI. This affects: Fluig Lake 1.7.0-210217, Fluig Lake 1.7.0-210112, Fluig Lake 1.7.0-201215, Fluig Lake 1.7.0-201124 and Fluig Lake 1.7.0-200915.| 
 | 20210306T20:58:06Z | CVE-2021-21315 | Null | https://github.com/cherrera0001/CVE-2021-21315v2 | The System Information Library for Node.JS (npm package %systeminformation%) is an open source collection of functions to retrieve detailed hardware, system and OS information. In systeminformation before version 5.3.1 there is a command injection vulnerability. Problem was fixed in version 5.3.1. As a workaround instead of upgrading, be sure to check or sanitize service parameters that are passed to si.inetLatency(), si.inetChecksite(), si.services(), si.processLoad() ... do only allow strings, reject any arrays. String sanitation works as expected.| 
@@ -82,6 +82,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210307T02:33:27Z | EternalBlue suite remade in C/C++ which includes: MS17-010 Exploit, EternalBlue vulnerability detector, DoublePulsar detector and DoublePulsar Shellcode & DLL uploader | https://github.com/bhassani/EternalBlueC | 322 | 79| 
 | 20210307T02:31:32Z | forked version of funtuna, a homebrew ps2 app launcher designed to ease the pain of getting a stable exploit for those that have a console uncompatible with FreeMcBoot | https://github.com/israpps/Funtuna-Fork | 2 | 0| 
 | 20210307T02:29:45Z | Exploits nested.parallel and nested.optimize to tune neuronal cell models | https://github.com/neurosutras/optimize_cells | 1 | 1| 
 | 20210307T02:13:13Z | Extensible framework for analyzing publicly available information about vulnerabilities | https://github.com/leonov-av/vulristics | 25 | 1| 
@@ -91,7 +92,6 @@
 | 20210307T00:47:08Z | Null | https://github.com/ThanosKrk/VulnserverExploits | 0 | 0| 
 | 20210307T00:20:12Z | PS4 Exploits 1.01-7.02 | https://github.com/Buzbee/Buzbee.github.io | 0 | 1| 
 | 20210306T22:55:26Z | A series of CTF/hacking challenge solutions for binary exploitation(or pwn)/reverse engineering/vulnerability research/memory corruption(or whatever term you use) | https://github.com/docfate111/binary-exploitation-solution-scripts | 0 | 0| 
-| 20210306T22:39:51Z | JWT exploit script for RS256 to HS 256 with public key signature and none algorithm | https://github.com/Nassimbou/JWTexploit | 0 | 0| 
 
 
 # backdoor on Github 推荐
