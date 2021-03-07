@@ -46,23 +46,23 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20210307T00:55:14Z | CVE-2021-26855 | CVE-2021-26855 SSRF Exchange Server | https://github.com/Udyz/CVE-2021-26855-SSRF-Exchange | Microsoft Exchange Server Remote Code Execution Vulnerability This CVE ID is unique from CVE-2021-26412, CVE-2021-26854, CVE-2021-26857, CVE-2021-26858, CVE-2021-27065, CVE-2021-27078.| 
+| 20210306T23:14:32Z | CVE-2021-26855 | PoC for CVE-2021-26855 -Just a checker- | https://github.com/0xAbdullah/CVE-2021-26855 | Microsoft Exchange Server Remote Code Execution Vulnerability This CVE ID is unique from CVE-2021-26412, CVE-2021-26854, CVE-2021-26857, CVE-2021-26858, CVE-2021-27065, CVE-2021-27078.| 
+| 20210306T21:11:45Z | CVE-2020-29134 | Null | https://github.com/lucxssouza/CVE-2020-29134 | TOTVS Fluig Luke 1.7.0 allows directory traversal via a base64 encoded file=../ to a volume/stream/ URI. This affects: Fluig Lake 1.7.0-210217, Fluig Lake 1.7.0-210112, Fluig Lake 1.7.0-201215, Fluig Lake 1.7.0-201124 and Fluig Lake 1.7.0-200915.| 
+| 20210306T20:58:06Z | CVE-2021-21315 | Null | https://github.com/cherrera0001/CVE-2021-21315v2 | The System Information Library for Node.JS (npm package %systeminformation%) is an open source collection of functions to retrieve detailed hardware, system and OS information. In systeminformation before version 5.3.1 there is a command injection vulnerability. Problem was fixed in version 5.3.1. As a workaround instead of upgrading, be sure to check or sanitize service parameters that are passed to si.inetLatency(), si.inetChecksite(), si.services(), si.processLoad() ... do only allow strings, reject any arrays. String sanitation works as expected.| 
+| 20210306T20:28:50Z | CVE-2020-12255 | Poc for CVE-2020-12255 | https://github.com/vishwaraj101/CVE-2020-12255 | rConfig 3.9.4 is vulnerable to remote code execution due to improper validation in the file upload functionality. vendor.crud.php accepts a file upload by checking content-type without considering the file extension and header. Thus, an attacker can exploit this by uploading a .php file to vendor.php that contains arbitrary PHP code and changing the content-type to image/gif.| 
+| 20210306T19:42:50Z | CVE-2021-26855 | This script helps to identify  CVE-2021-26855  ssrf Poc | https://github.com/pussycat0x/CVE-2021-26855-SSRF | Microsoft Exchange Server Remote Code Execution Vulnerability This CVE ID is unique from CVE-2021-26412, CVE-2021-26854, CVE-2021-26857, CVE-2021-26858, CVE-2021-27065, CVE-2021-27078.| 
+| 20210306T18:42:46Z | CVE-2020-8835 | Null | https://github.com/ret2hell/CVE-2020-8835 | In the Linux kernel 5.5.0 and newer, the bpf verifier (kernel/bpf/verifier.c) did not properly restrict the register bounds for 32-bit operations, leading to out-of-bounds reads and writes in kernel memory. The vulnerability also affects the Linux 5.4 stable series, starting with v5.4.7, as the introducing commit was backported to that branch. This vulnerability was fixed in 5.6.1, 5.5.14, and 5.4.29. (issue is aka ZDI-CAN-10780)| 
+| 20210306T15:17:40Z | CVE-2021-26855 | Microsoft Exchange Server SSRF漏洞(CVE-2021-26855) | https://github.com/conjojo/Microsoft_Exchange_Server_SSRF_CVE-2021-26855 | Microsoft Exchange Server Remote Code Execution Vulnerability This CVE ID is unique from CVE-2021-26412, CVE-2021-26854, CVE-2021-26857, CVE-2021-26858, CVE-2021-27065, CVE-2021-27078.| 
+| 20210306T15:04:41Z | CVE-2020-35682 | SD-91948: CVE-2020-35682: Authentication Bypass Vulnerability during SAML login in ServiceDesk Plus. | https://github.com/its-arun/CVE-2020-35682 | 未查询到CVE信息| 
 | 20210306T13:38:32Z | CVE-2021-21972 | Nmap script to check vulnerability CVE-2021-21972 | https://github.com/GuayoyoLabs/CVE-2021-21972 | The vSphere Client (HTML5) contains a remote code execution vulnerability in a vCenter Server plugin. A malicious actor with network access to port 443 may exploit this issue to execute commands with unrestricted privileges on the underlying operating system that hosts vCenter Server. This affects VMware vCenter Server (7.x before 7.0 U1c, 6.7 before 6.7 U3l and 6.5 before 6.5 U3n) and VMware Cloud Foundation (4.x before 4.2 and 3.x before 3.10.1.2).| 
-| 20210306T13:11:51Z | CVE-2021-26855 | Microsoft Exchange Server SSRF漏洞(CVE-2021-26855) | https://github.com/conjojo/Microsoft_Exchange_Server_SSRF_CVE-2021-26855 | Microsoft Exchange Server Remote Code Execution Vulnerability This CVE ID is unique from CVE-2021-26412, CVE-2021-26854, CVE-2021-26857, CVE-2021-26858, CVE-2021-27065, CVE-2021-27078.| 
-| 20210306T07:21:36Z | CVE-2021-23132 | com_media allowed paths that are not intended for image uploads to RCE | https://github.com/HoangKien1020/CVE-2021-23132 | An issue was discovered in Joomla! 3.0.0 through 3.9.24. com_media allowed paths that are not intended for image uploads| 
-| 20210306T05:17:15Z | cve-2021-27065 | Quick One Line Powershell scripts to detect for webshells, possible zips, and logs. | https://github.com/adamrpostjr/cve-2021-27065 | Microsoft Exchange Server Remote Code Execution Vulnerability This CVE ID is unique from CVE-2021-26412, CVE-2021-26854, CVE-2021-26855, CVE-2021-26857, CVE-2021-26858, CVE-2021-27078.| 
-| 20210306T02:15:05Z | CVE-2021-21978 | 带回显版本的漏洞利用脚本 | https://github.com/skytina/CVE-2021-21978 | VMware View Planner 4.x prior to 4.6 Security Patch 1 contains a remote code execution vulnerability. Improper input validation and lack of authorization leading to arbitrary file upload in logupload web application. An unauthorized attacker with network access to View Planner Harness could upload and execute a specially crafted file leading to remote code execution within the logupload container.| 
-| 20210305T17:35:14Z | 未知编号 | 2020l4web-app-mockup-DanCvejn created by GitHub Classroom | https://github.com/pslib-cz/2020l4web-app-mockup-DanCvejn | 未查询到CVE信息| 
-| 20210305T13:55:54Z | CVE-2020-28243 | CVE-2020-28243 Local Privledge Escalation Exploit in SaltStack Minion | https://github.com/stealthcopter/CVE-2020-28243 | An issue was discovered in SaltStack Salt before 3002.5. The minion%s restartcheck is vulnerable to command injection via a crafted process name. This allows for a local privilege escalation by any user able to create a files on the minion in a non-blacklisted directory.| 
-| 20210305T11:56:06Z | CVE-2020-29134 | Null | https://github.com/lucxssouza/CVE-2020-29134 | TOTVS Fluig Luke 1.7.0 allows directory traversal via a base64 encoded file=../ to a volume/stream/ URI. This affects: Fluig Lake 1.7.0-210217, Fluig Lake 1.7.0-210112, Fluig Lake 1.7.0-201215, Fluig Lake 1.7.0-201124 and Fluig Lake 1.7.0-200915.| 
-| 20210305T10:51:21Z | CVE-2021-21042 | Exploit code for CVE-2021-21042 | https://github.com/NattiSamson/CVE-2021-21042 | Acrobat Reader DC versions versions 2020.013.20074 (and earlier), 2020.001.30018 (and earlier) and 2017.011.30188 (and earlier) are affected by an Out-of-bounds Read vulnerability. An unauthenticated attacker could leverage this vulnerability to locally escalate privileges in the context of the current user. Exploitation of this issue requires user interaction in that a victim must open a malicious file.| 
-| 20210305T10:50:05Z | CVE-2021-1732 | CVE-2021-1732 Exploit | https://github.com/KaLendsi/CVE-2021-1732-Exploit | Windows Win32k Elevation of Privilege Vulnerability This CVE ID is unique from CVE-2021-1698.| 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210306T13:44:06Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 的 Klee One 的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 312 | 7| 
-| 20210306T13:41:57Z | 程序员哥哥，你是来找可莉玩的吗？可莉语音包，适用于 vscode-rainbow-fart 拓展。 | https://github.com/Ran-ying/Klee-rainbow-fart | 0 | 0| 
+| 20210306T14:25:04Z | 程序员哥哥，你是来找可莉玩的吗？可莉语音包，适用于 vscode-rainbow-fart 拓展。 | https://github.com/Ran-ying/Klee-rainbow-fart | 1 | 0| 
+| 20210306T14:00:42Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 的 Klee One 的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 313 | 7| 
 | 20210306T12:36:22Z | Git Blog | https://github.com/klee30810/klee30810.github.io | 0 | 0| 
 | 20210306T11:11:07Z | Null | https://github.com/fontworks-fonts/Klee | 379 | 10| 
 | 20210306T05:09:26Z | Null | https://github.com/Chiyukichan/klee_app | 0 | 0| 
@@ -82,31 +82,31 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210306T13:51:22Z | An advanced XSS exploitation tool. | https://github.com/LoveSteak/Steak | 1 | 0| 
-| 20210306T13:34:47Z | LytHack-Exploit-Kit its a collection of tools for Reconnaissance and Exploiting Vulnerabilities | https://github.com/LytHack/LytHack-Exploit-Kit | 0 | 0| 
-| 20210306T13:05:56Z | Small DDoS Script i made for Wordpress website that have XMLRPC enabled.  | https://github.com/k0rup710n/Wordpress-XXE-DDoS-Exploit-XMLRPC | 0 | 0| 
-| 20210306T13:05:50Z | Null | https://github.com/kira-Developer/Exploit | 0 | 0| 
-| 20210306T13:02:25Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 9 | 4| 
-| 20210306T12:47:15Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9088 | 1464| 
-| 20210306T11:49:33Z | AMWScan (PHP Antimalware Scanner) is a free tool to scan php files and analyze your project to find any malicious code inside it. | https://github.com/marcocesarato/PHP-Antimalware-Scanner | 176 | 33| 
-| 20210306T11:48:46Z | ASLR Evasion, Egghunters, SEH Overwrites | https://github.com/freddiebarrsmith/Advanced-Windows-Exploit-Development-Practice | 17 | 1| 
-| 20210306T11:46:30Z | Null | https://github.com/rabeltester44/joomlaSQLiExploiterv.1- | 0 | 0| 
-| 20210306T10:50:03Z | tool hacking kriptografi, spoofing/sniffing,exploitation, bypass malware, BruteForce | https://github.com/fathoniwasesojati1337/Tool-Hacking-By-1337 | 4 | 3| 
+| 20210307T00:47:08Z | Null | https://github.com/ThanosKrk/VulnserverExploits | 0 | 0| 
+| 20210307T00:21:50Z | forked version of funtuna, a homebrew ps2 app launcher designed to ease the pain of getting a stable exploit for those that have a console uncompatible with FreeMcBoot | https://github.com/israpps/Funtuna-Fork | 2 | 0| 
+| 20210307T00:20:12Z | PS4 Exploits 1.01-7.02 | https://github.com/Buzbee/Buzbee.github.io | 0 | 1| 
+| 20210307T00:02:23Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 9 | 4| 
+| 20210306T22:55:26Z | A series of CTF/hacking challenge solutions for binary exploitation(or pwn)/reverse engineering/vulnerability research/memory corruption(or whatever term you use) | https://github.com/docfate111/binary-exploitation-solution-scripts | 0 | 0| 
+| 20210306T22:39:51Z | JWT exploit script for RS256 to HS 256 with public key signature and none algorithm | https://github.com/Nassimbou/JWTexploit | 0 | 0| 
+| 20210306T22:18:57Z | Null | https://github.com/SynixMon/Veloxity-X-New-Exploit | 0 | 0| 
+| 20210306T22:17:28Z | DirTras is an automated directory/path traversal exploitation tool. | https://github.com/Nate-one/DirTras | 3 | 0| 
+| 20210306T20:52:44Z | Null | https://github.com/0xturazzi/Um-Livrinho-Sobre-Exploit-Dev | 0 | 0| 
+| 20210306T20:35:10Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9091 | 1464| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210307T00:54:10Z | Null | https://github.com/Delle9999/backdoor | 0 | 0| 
+| 20210306T23:09:01Z | Identify, and build a PAM backdoor for the underlying Linux system. | https://github.com/archcloudlabs/AutoBackdoor-PAM | 1 | 0| 
+| 20210306T21:11:02Z | Null | https://github.com/Wiilldd/backdoor | 0 | 0| 
+| 20210306T20:28:07Z | Null | https://github.com/konemoulouk225/backdoor | 0 | 0| 
+| 20210306T19:12:14Z | the development of the Prediction of type-Social-Engineering Attacks was successuful by the graphical and analysis from Chi-Square Test and visuaized the Result to predict one-of-the-attack( Expoit, Fuzzer, DOS, Reconnaissance, Generic, BackDoor attack, Shell-Code attack, Worms minor attack) based on the above graph we are able to decide the particular IP address addressing the attacks issue from one of these. | https://github.com/KVSSKPRADEEP/DataWareHousing-Mining_SocialEnggAttack_prediction | 0 | 0| 
 | 20210306T13:50:08Z | Poopboobs Nether Roof plugin backdoor (credit: https://github.com/ItsYoungDaddy) | https://github.com/AfkBranta/PopbobsNetherRoofPlugin | 0 | 0| 
 | 20210306T13:07:10Z | %Socialx% is a Social Engineering And Remote Access Trojan Tool. You can generate fud backdoor and you can embed any file you want inside of the exe file. | https://github.com/AzizKpln/Social_X | 75 | 21| 
 | 20210306T12:54:55Z | A simple persistence backdoor for linux | https://github.com/Exploit-lang/backdoor-penguin | 0 | 0| 
 | 20210306T11:49:33Z | AMWScan (PHP Antimalware Scanner) is a free tool to scan php files and analyze your project to find any malicious code inside it. | https://github.com/marcocesarato/PHP-Antimalware-Scanner | 176 | 33| 
 | 20210306T07:54:37Z | 🤖An Evil and Smart Bot for Enslaving Windows. | https://github.com/wildonion/katyusha | 1 | 1| 
-| 20210306T02:03:04Z | Undetectable & Xor encrypting with custom KEY (FUD Metasploit Rat) bypass Top Antivirus like BitDefender,Malwarebytes,Avast,ESET-NOD32,AVG,... & Automatically Add ICON and MANIFEST to excitable | https://github.com/persianhydra/Xeexe-TopAntivirusEvasion | 322 | 83| 
-| 20210305T21:57:57Z | Tool to find potential backdoor/security holes in your endpoint | https://github.com/subasgit/backdoorfinder | 2 | 0| 
-| 20210305T21:40:45Z | Threat Emulation and Red Teaming Framework. | https://github.com/quantumcored/remote_hacker_probe | 31 | 5| 
-| 20210305T20:36:06Z | Null | https://github.com/Wiilldd/backdoor | 0 | 0| 
-| 20210305T17:11:14Z | :door: A remote access service | https://github.com/ldilley/inlet | 1 | 0| 
 
 
 # fuzz on Github 推荐
