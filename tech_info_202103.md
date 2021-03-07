@@ -82,7 +82,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210307T01:16:00Z | Null | https://github.com/iamtryingtofindname/RobloxExploits | 0 | 0| 
+| 20210307T01:24:31Z | Null | https://github.com/iamtryingtofindname/RobloxExploits | 0 | 0| 
 | 20210307T01:02:34Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 9 | 4| 
 | 20210307T00:47:08Z | Null | https://github.com/ThanosKrk/VulnserverExploits | 0 | 0| 
 | 20210307T00:21:50Z | forked version of funtuna, a homebrew ps2 app launcher designed to ease the pain of getting a stable exploit for those that have a console uncompatible with FreeMcBoot | https://github.com/israpps/Funtuna-Fork | 2 | 0| 
