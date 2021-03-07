@@ -53,12 +53,12 @@
 | 20210306T22:39:51Z | JWT exploit script for RS256 to HS 256 with public key signature and none algorithm | https://github.com/Nassimbou/JWTexploit | 0 | 0| 
 | 20210306T22:18:57Z | Null | https://github.com/SynixMon/Veloxity-X-New-Exploit | 0 | 0| 
 | 20210306T22:17:28Z | DirTras is an automated directory/path traversal exploitation tool. | https://github.com/Nate-one/DirTras | 3 | 0| 
-| 20210306T20:52:44Z | Null | https://github.com/0xturazzi/Um-Livrinho-Sobre-Exploit-Dev | 0 | 0| 
 | 20210306T20:35:10Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9091 | 1464| 
 | 20210306T20:27:35Z | Fix exploits on anarchy minecraft servers | https://github.com/moom0o/AnarchyExploitFixes | 15 | 7| 
 | 20210306T20:11:49Z | Cross Site %Scripter% (aka XSSer) is an automatic -framework- to detect, exploit and report XSS vulnerabilities in web-based applications. | https://github.com/epsylon/xsser | 596 | 164| 
 | 20210306T19:58:20Z | Null | https://github.com/SocialEnot/GardenExploit | 0 | 0| 
 | 20210306T19:41:19Z | LytHack-Exploit-Kit its a collection of tools for Reconnaissance and Exploiting Vulnerabilities | https://github.com/LytHack/LytHack-Exploit-Kit | 0 | 0| 
+| 20210306T19:25:12Z | Puzzle pieces to jump start exploitation during pentesting/red teaming with. The pieces may not belong in a specific context or for a particular puzzle. If so, we make new pieces and add those. | https://github.com/tymyrddin/trees | 0 | 0| 
 
 
 # backdoor on Github 推荐
