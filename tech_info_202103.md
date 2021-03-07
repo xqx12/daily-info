@@ -46,8 +46,8 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20210307T01:58:40Z | CVE-2021-26855 | CVE-2021-26855 SSRF Exchange Server | https://github.com/Udyz/CVE-2021-26855-SSRF-Exchange | | 
-| 20210306T23:14:32Z | CVE-2021-26855 | PoC for CVE-2021-26855 -Just a checker- | https://github.com/0xAbdullah/CVE-2021-26855 | | 
+| 20210307T01:58:40Z | CVE-2021-26855 | CVE-2021-26855 SSRF Exchange Server | https://github.com/Udyz/CVE-2021-26855-SSRF-Exchange | Microsoft Exchange Server Remote Code Execution Vulnerability This CVE ID is unique from CVE-2021-26412, CVE-2021-26854, CVE-2021-26857, CVE-2021-26858, CVE-2021-27065, CVE-2021-27078.| 
+| 20210306T23:14:32Z | CVE-2021-26855 | PoC for CVE-2021-26855 -Just a checker- | https://github.com/0xAbdullah/CVE-2021-26855 | Microsoft Exchange Server Remote Code Execution Vulnerability This CVE ID is unique from CVE-2021-26412, CVE-2021-26854, CVE-2021-26857, CVE-2021-26858, CVE-2021-27065, CVE-2021-27078.| 
 | 20210306T21:11:45Z | CVE-2020-29134 | Null | https://github.com/lucxssouza/CVE-2020-29134 | TOTVS Fluig Luke 1.7.0 allows directory traversal via a base64 encoded file=../ to a volume/stream/ URI. This affects: Fluig Lake 1.7.0-210217, Fluig Lake 1.7.0-210112, Fluig Lake 1.7.0-201215, Fluig Lake 1.7.0-201124 and Fluig Lake 1.7.0-200915.| 
 | 20210306T20:58:06Z | CVE-2021-21315 | Null | https://github.com/cherrera0001/CVE-2021-21315v2 | The System Information Library for Node.JS (npm package %systeminformation%) is an open source collection of functions to retrieve detailed hardware, system and OS information. In systeminformation before version 5.3.1 there is a command injection vulnerability. Problem was fixed in version 5.3.1. As a workaround instead of upgrading, be sure to check or sanitize service parameters that are passed to si.inetLatency(), si.inetChecksite(), si.services(), si.processLoad() ... do only allow strings, reject any arrays. String sanitation works as expected.| 
 | 20210306T20:28:50Z | CVE-2020-12255 | Poc for CVE-2020-12255 | https://github.com/vishwaraj101/CVE-2020-12255 | rConfig 3.9.4 is vulnerable to remote code execution due to improper validation in the file upload functionality. vendor.crud.php accepts a file upload by checking content-type without considering the file extension and header. Thus, an attacker can exploit this by uploading a .php file to vendor.php that contains arbitrary PHP code and changing the content-type to image/gif.| 
@@ -112,16 +112,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210306T13:35:12Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2278 | 116| 
-| 20210306T13:33:01Z | Null | https://github.com/DarkShinobi100/BehaviourTreesvsFuzzy | 0 | 0| 
-| 20210306T13:17:42Z | Null | https://github.com/Sambigeara/fuzzy-note | 2 | 1| 
-| 20210306T11:30:54Z | PoC of fuzzing closed-source userspace binaries with KVM | https://github.com/klecko/kvm-fuzz | 0 | 0| 
-| 20210306T11:27:55Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 1356 | 297| 
-| 20210306T11:24:31Z | The Book %Generating Software Tests% | https://github.com/uds-se/fuzzingbook | 536 | 109| 
-| 20210306T10:40:33Z | Null | https://github.com/lc27/fuzzy-doodle | 0 | 0| 
-| 20210306T10:37:15Z | Null | https://github.com/shuchita28/CrimePrediction_FuzzyC | 0 | 0| 
-| 20210306T09:58:04Z | Null | https://github.com/nguyenanh1997/Fuzzz | 0 | 0| 
-| 20210306T09:51:41Z | Null | https://github.com/giakou4/fuzzy | 0 | 0| 
+| 20210307T01:35:54Z | CS 4152 Project | https://github.com/nicbarone/Fuzzy-Kiwi | 0 | 0| 
+| 20210306T23:57:57Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 1358 | 297| 
+| 20210306T23:21:19Z | PoC of fuzzing closed-source userspace binaries with KVM | https://github.com/klecko/kvm-fuzz | 0 | 0| 
+| 20210306T23:05:45Z | https://github.com/wcventure/FuzzingPaper | https://github.com/mishmashclone/wcventure-FuzzingPaper | 3 | 1| 
+| 20210306T22:55:16Z | Null | https://github.com/corootine/fuzzy | 0 | 0| 
+| 20210306T22:19:48Z | Fuzzing cryptographic libraries. Magic bug printer go brrrr. | https://github.com/guidovranken/cryptofuzz | 255 | 36| 
+| 20210306T21:20:18Z | collection of helper tools for fuzzing | https://github.com/fuzzah/fuzzaide | 2 | 0| 
+| 20210306T21:17:26Z | Null | https://github.com/tlperini/fuzzyclock | 0 | 0| 
+| 20210306T21:16:40Z | Null | https://github.com/sekhar989/fuzzy-foamy-waffle | 0 | 0| 
+| 20210306T21:03:29Z | Null | https://github.com/Juanosorio94/fuzzing-rdma | 0 | 0| 
 
 
 
