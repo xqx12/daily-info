@@ -49,7 +49,7 @@
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
 | 20210307T13:50:42Z | CVE-PoC-Exploits! (Work in progress...) | https://github.com/CVEexploiter/CVE-PoC-Exploits | 5 | 3| 
-| 20210307T13:33:33Z | RAFEL - Remote  Access Tool Written in Java With WebPanel For Controlling Victims | https://github.com/swagkarna/Rafel-Rat | 3 | 2| 
+| 20210307T13:33:33Z | RAFEL - Remote  Access Tool Written in Java With WebPanel For Controlling Victims | https://github.com/swagkarna/Rafel-Rat | 3 | 1| 
 | 20210307T13:24:27Z | PS4 Exploits 1.01-7.02 | https://github.com/Buzbee/Buzbee.github.io | 0 | 1| 
 | 20210307T13:19:53Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9096 | 1466| 
 | 20210307T13:03:40Z | the universe is code, therefore, it is our duty to do anything we can to hack it. | https://github.com/kymb0/exploits_for_reality | 0 | 0| 
