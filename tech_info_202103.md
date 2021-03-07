@@ -46,7 +46,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20210307T02:29:36Z | CVE-2021-26855 | Microsoft Exchange Server SSRF漏洞(CVE-2021-26855) | https://github.com/conjojo/Microsoft_Exchange_Server_SSRF_CVE-2021-26855 | Microsoft Exchange Server Remote Code Execution Vulnerability This CVE ID is unique from CVE-2021-26412, CVE-2021-26854, CVE-2021-26857, CVE-2021-26858, CVE-2021-27065, CVE-2021-27078.| 
+| 20210307T02:29:36Z | CVE-2021-26855 | Microsoft Exchange Server SSRF漏洞(CVE-2021-26855) | https://github.com/conjojo/Microsoft_Exchange_Server_SSRF_CVE-2021-26855 | | 
 | 20210307T01:58:40Z | CVE-2021-26855 | CVE-2021-26855 SSRF Exchange Server | https://github.com/Udyz/CVE-2021-26855-SSRF-Exchange | Microsoft Exchange Server Remote Code Execution Vulnerability This CVE ID is unique from CVE-2021-26412, CVE-2021-26854, CVE-2021-26857, CVE-2021-26858, CVE-2021-27065, CVE-2021-27078.| 
 | 20210306T23:14:32Z | CVE-2021-26855 | PoC for CVE-2021-26855 -Just a checker- | https://github.com/0xAbdullah/CVE-2021-26855 | Microsoft Exchange Server Remote Code Execution Vulnerability This CVE ID is unique from CVE-2021-26412, CVE-2021-26854, CVE-2021-26857, CVE-2021-26858, CVE-2021-27065, CVE-2021-27078.| 
 | 20210306T21:11:45Z | CVE-2020-29134 | Null | https://github.com/lucxssouza/CVE-2020-29134 | TOTVS Fluig Luke 1.7.0 allows directory traversal via a base64 encoded file=../ to a volume/stream/ URI. This affects: Fluig Lake 1.7.0-210217, Fluig Lake 1.7.0-210112, Fluig Lake 1.7.0-201215, Fluig Lake 1.7.0-201124 and Fluig Lake 1.7.0-200915.| 

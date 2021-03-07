@@ -25,7 +25,7 @@
 | 20210306T15:04:41Z | CVE-2020-35682 | SD-91948: CVE-2020-35682: Authentication Bypass Vulnerability during SAML login in ServiceDesk Plus. | https://github.com/its-arun/CVE-2020-35682 | 未查询到CVE信息| 
 | 20210306T13:38:32Z | CVE-2021-21972 | Nmap script to check vulnerability CVE-2021-21972 | https://github.com/GuayoyoLabs/CVE-2021-21972 | The vSphere Client (HTML5) contains a remote code execution vulnerability in a vCenter Server plugin. A malicious actor with network access to port 443 may exploit this issue to execute commands with unrestricted privileges on the underlying operating system that hosts vCenter Server. This affects VMware vCenter Server (7.x before 7.0 U1c, 6.7 before 6.7 U3l and 6.5 before 6.5 U3n) and VMware Cloud Foundation (4.x before 4.2 and 3.x before 3.10.1.2).| 
 | 20210306T07:21:36Z | CVE-2021-23132 | com_media allowed paths that are not intended for image uploads to RCE | https://github.com/HoangKien1020/CVE-2021-23132 | An issue was discovered in Joomla! 3.0.0 through 3.9.24. com_media allowed paths that are not intended for image uploads| 
-| 20210306T05:17:15Z | cve-2021-27065 | Quick One Line Powershell scripts to detect for webshells, possible zips, and logs. | https://github.com/adamrpostjr/cve-2021-27065 | | 
+| 20210306T05:17:15Z | cve-2021-27065 | Quick One Line Powershell scripts to detect for webshells, possible zips, and logs. | https://github.com/adamrpostjr/cve-2021-27065 | Microsoft Exchange Server Remote Code Execution Vulnerability This CVE ID is unique from CVE-2021-26412, CVE-2021-26854, CVE-2021-26855, CVE-2021-26857, CVE-2021-26858, CVE-2021-27078.| 
 
 
 # klee on Github 推荐
