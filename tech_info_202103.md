@@ -112,6 +112,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210308T13:21:45Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6001 | 1204| 
 | 20210308T13:18:43Z | Null | https://github.com/ethereum/solidity-fuzzing-corpus | 10 | 4| 
 | 20210308T13:15:49Z | fuzzer http ( hackingyseguridad.com ) | https://github.com/hackingyseguridad/fuzzer | 0 | 1| 
 | 20210308T12:51:05Z | Null | https://github.com/pxiaoer/Fuzzing-Tutorial | 0 | 0| 
@@ -121,7 +122,6 @@
 | 20210308T11:58:52Z | Fuzzing with the generated argument | https://github.com/zodf0055980/Yuan-fuzz | 15 | 1| 
 | 20210308T11:46:15Z | Null | https://github.com/kinzhong/fuzzing-automation-tools | 1 | 0| 
 | 20210308T11:37:42Z | Null | https://github.com/JohenanLi/AggregateFuzzing | 0 | 0| 
-| 20210308T11:29:07Z | Null | https://github.com/peterson1999/fuzzylogic | 0 | 0| 
 
 
 
