@@ -8,6 +8,7 @@
 | --- | --- | ---| 
 | 20210307 | 如何修复iOS 14.3 / 14上的Unc0ver版本签名错误（解决问题9/禁用沙盒）视频。 | https://www.youtube.com/watch?v=99di2c3PFhQ&feature=youtu.be| 
 | 20210307 | 对Flutter应用程序逆向工程研究。 | https://tinyhack.com/2021/03/07/reversing-a-flutter-app-by-recompiling-flutter-engine/| 
+| 20210307 | 攻击者利用台湾 QNAP 公司的网络存储设备诊断程序(Helpdesk) RCE 漏洞恶意挖矿 | https://blog.netlab.360.com/in-the-wild-qnap-nas-attacks-2/| 
 | 20210305 | Hail Frida!! The Universal SSL pinning bypass for Android applications | https://infosecwriteups.com/hail-frida-the-universal-ssl-pinning-bypass-for-android-e9e1d733d29?source=rss----7b722bfd1b8d---4&gi=87a1874a1500| 
 | 20210305 | 俄罗斯 Top3 网络犯罪论坛被黑，数据被窃取 | https://krebsonsecurity.com/2021/03/three-top-russian-cybercrime-forums-hacked/| 
 | 20210305 | CrowdStrike 团队对昨天爆出的 Microsoft Exchange 野外 0Day 攻击的分析 | https://www.crowdstrike.com/blog/falcon-complete-stops-microsoft-exchange-server-zero-day-exploits/| 
@@ -25,7 +26,6 @@
 | 20210304 | SI6 Networks的工具包是对IPv6安全评估和故障排除工具。 | https://www.si6networks.com/research/tools/ipv6toolkit/| 
 | 20210303 | 2018 年爆出的“幽灵”漏洞，近期该漏洞完整攻击代码出现在 VirusTotal 平台 | https://therecord.media/first-fully-weaponized-spectre-exploit-discovered-online/| 
 | 20210303 | How I Might Have Hacked Any Microsoft Account | https://thezerohack.com/how-i-might-have-hacked-any-microsoft-account| 
-| 20210303 | Anatomy of an Exploit: RCE with CVE-2020-1350 SIGRed | https://www.graplsecurity.com/post/anatomy-of-an-exploit-rce-with-cve-2020-1350-sigred| 
 
 
 # 安全维基 推荐
@@ -47,7 +47,7 @@
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
 | 20210308T02:55:26Z | CVE-2021-26855 | Microsoft Exchange Server SSRF漏洞(CVE-2021-26855) | https://github.com/conjojo/Microsoft_Exchange_Server_SSRF_CVE-2021-26855 | Microsoft Exchange Server Remote Code Execution Vulnerability This CVE ID is unique from CVE-2021-26412, CVE-2021-26854, CVE-2021-26857, CVE-2021-26858, CVE-2021-27065, CVE-2021-27078.| 
-| 20210308T02:25:34Z | CVE-2021-1732 | CVE-2021-1732 Exploit | https://github.com/KaLendsi/CVE-2021-1732-Exploit | Windows Win32k Elevation of Privilege Vulnerability This CVE ID is unique from CVE-2021-1698.| 
+| 20210308T02:25:34Z | CVE-2021-1732 | CVE-2021-1732 Exploit | https://github.com/KaLendsi/CVE-2021-1732-Exploit | | 
 | 20210308T01:58:08Z | CVE-2021-21978 | 带回显版本的漏洞利用脚本 | https://github.com/skytina/CVE-2021-21978 | VMware View Planner 4.x prior to 4.6 Security Patch 1 contains a remote code execution vulnerability. Improper input validation and lack of authorization leading to arbitrary file upload in logupload web application. An unauthorized attacker with network access to View Planner Harness could upload and execute a specially crafted file leading to remote code execution within the logupload container.| 
 | 20210308T01:56:54Z | CVE-2021-21972 | CVE-2021-21972 Unauthorized RCE in VMware vCenter metasploit exploit script | https://github.com/TaroballzChen/CVE-2021-21972 | The vSphere Client (HTML5) contains a remote code execution vulnerability in a vCenter Server plugin. A malicious actor with network access to port 443 may exploit this issue to execute commands with unrestricted privileges on the underlying operating system that hosts vCenter Server. This affects VMware vCenter Server (7.x before 7.0 U1c, 6.7 before 6.7 U3l and 6.5 before 6.5 U3n) and VMware Cloud Foundation (4.x before 4.2 and 3.x before 3.10.1.2).| 
 | 20210308T01:30:51Z | CVE-2021-26855 | CVE-2021-26855 SSRF Exchange Server | https://github.com/Udyz/CVE-2021-26855 | Microsoft Exchange Server Remote Code Execution Vulnerability This CVE ID is unique from CVE-2021-26412, CVE-2021-26854, CVE-2021-26857, CVE-2021-26858, CVE-2021-27065, CVE-2021-27078.| 
