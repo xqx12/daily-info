@@ -82,6 +82,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210308T02:48:47Z | REVERSE ENGINEERING EXPLOITS AND TOOL CODING FOR SECURITY PROFESSIONALS | https://github.com/giovannyortegon/SockersShellcodePoringCoding | 0 | 0| 
+| 20210308T02:48:42Z | CTF framework and exploit development library | https://github.com/Gallopsled/pwntools | 7604 | 1364| 
 | 20210308T02:44:19Z | learn golang in web exploitation | https://github.com/liuchengshun/go_learn_web | 1 | 0| 
 | 20210308T02:29:44Z | PS4 Exploits 1.01-7.02 | https://github.com/Buzbee/Buzbee.github.io | 0 | 1| 
 | 20210308T02:15:55Z | Toolkit for writing exploits. | https://github.com/kukrimate/termsploit | 0 | 0| 
@@ -90,8 +92,6 @@
 | 20210308T01:37:34Z | Null | https://github.com/0xturazzi/Um-Livrinho-Sobre-Exploit-Dev | 0 | 0| 
 | 20210308T01:10:25Z | Live updated project of me coding a mass vuln / exploit scanner  | https://github.com/rpie/Vulner | 0 | 0| 
 | 20210308T00:57:24Z | ExploitModule | https://github.com/kounelictf/exploitdb-dropscan-exploit-module | 0 | 0| 
-| 20210308T00:45:48Z | samsung OfficeServ curl username and password | https://github.com/codezeroooo/samsung-OfficeServ-exploit | 0 | 0| 
-| 20210308T00:21:04Z | EternalBlue suite remade in C/C++ which includes: MS17-010 Exploit, EternalBlue vulnerability detector, DoublePulsar detector and DoublePulsar Shellcode & DLL uploader | https://github.com/bhassani/EternalBlueC | 322 | 79| 
 
 
 # backdoor on Github 推荐
