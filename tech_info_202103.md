@@ -6,6 +6,8 @@
 # 玄武实验室 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20210307 | 如何修复iOS 14.3 / 14上的Unc0ver版本签名错误（解决问题9/禁用沙盒）视频。 | https://www.youtube.com/watch?v=99di2c3PFhQ&feature=youtu.be| 
+| 20210307 | 对Flutter应用程序逆向工程研究。 | https://tinyhack.com/2021/03/07/reversing-a-flutter-app-by-recompiling-flutter-engine/| 
 | 20210305 | Hail Frida!! The Universal SSL pinning bypass for Android applications | https://infosecwriteups.com/hail-frida-the-universal-ssl-pinning-bypass-for-android-e9e1d733d29?source=rss----7b722bfd1b8d---4&gi=87a1874a1500| 
 | 20210305 | 俄罗斯 Top3 网络犯罪论坛被黑，数据被窃取 | https://krebsonsecurity.com/2021/03/three-top-russian-cybercrime-forums-hacked/| 
 | 20210305 | CrowdStrike 团队对昨天爆出的 Microsoft Exchange 野外 0Day 攻击的分析 | https://www.crowdstrike.com/blog/falcon-complete-stops-microsoft-exchange-server-zero-day-exploits/| 
@@ -24,8 +26,6 @@
 | 20210303 | 2018 年爆出的“幽灵”漏洞，近期该漏洞完整攻击代码出现在 VirusTotal 平台 | https://therecord.media/first-fully-weaponized-spectre-exploit-discovered-online/| 
 | 20210303 | How I Might Have Hacked Any Microsoft Account | https://thezerohack.com/how-i-might-have-hacked-any-microsoft-account| 
 | 20210303 | Anatomy of an Exploit: RCE with CVE-2020-1350 SIGRed | https://www.graplsecurity.com/post/anatomy-of-an-exploit-rce-with-cve-2020-1350-sigred| 
-| 20210303 | UnC0ver 团队宣布其越狱工具已经支持 iOS 14.3 版本 | https://threatpost.com/jailbreak-tool-works-on-iphones-up-to-ios-14-3/164420/| 
-| 20210303 | Chromium RenderFrameHostImpl UAF 漏洞的利用 | https://microsoftedge.github.io/edgevr/posts/yet-another-uaf/| 
 
 
 # 安全维基 推荐
@@ -46,31 +46,31 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20210307T12:08:45Z | CVE-2021-21978 | 带回显版本的漏洞利用脚本 | https://github.com/skytina/CVE-2021-21978 | VMware View Planner 4.x prior to 4.6 Security Patch 1 contains a remote code execution vulnerability. Improper input validation and lack of authorization leading to arbitrary file upload in logupload web application. An unauthorized attacker with network access to View Planner Harness could upload and execute a specially crafted file leading to remote code execution within the logupload container.| 
-| 20210307T11:32:38Z | CVE-2021-26855 | Microsoft Exchange Server SSRF漏洞(CVE-2021-26855) | https://github.com/conjojo/Microsoft_Exchange_Server_SSRF_CVE-2021-26855 | Microsoft Exchange Server Remote Code Execution Vulnerability This CVE ID is unique from CVE-2021-26412, CVE-2021-26854, CVE-2021-26857, CVE-2021-26858, CVE-2021-27065, CVE-2021-27078.| 
-| 20210307T10:39:12Z | CVE-2021-26855 | CVE-2021-26855 SSRF Exchange Server | https://github.com/Th3eCrow/CVE-2021-26855-SSRF-Exchange | Microsoft Exchange Server Remote Code Execution Vulnerability This CVE ID is unique from CVE-2021-26412, CVE-2021-26854, CVE-2021-26857, CVE-2021-26858, CVE-2021-27065, CVE-2021-27078.| 
-| 20210307T10:38:08Z | CVE-2021-26855 | This script helps to identify  CVE-2021-26855  ssrf Poc | https://github.com/pussycat0x/CVE-2021-26855-SSRF | Microsoft Exchange Server Remote Code Execution Vulnerability This CVE ID is unique from CVE-2021-26412, CVE-2021-26854, CVE-2021-26857, CVE-2021-26858, CVE-2021-27065, CVE-2021-27078.| 
+| 20210308T00:49:01Z | CVE-2021-26855 | CVE-2021-26855 SSRF Exchange Server | https://github.com/Udyz/CVE-2021-26855 | Microsoft Exchange Server Remote Code Execution Vulnerability This CVE ID is unique from CVE-2021-26412, CVE-2021-26854, CVE-2021-26857, CVE-2021-26858, CVE-2021-27065, CVE-2021-27078.| 
+| 20210307T20:27:47Z | CVE-2021-26855 | PoC for CVE-2021-26855 -Just a checker- | https://github.com/0xAbdullah/CVE-2021-26855 | Microsoft Exchange Server Remote Code Execution Vulnerability This CVE ID is unique from CVE-2021-26412, CVE-2021-26854, CVE-2021-26857, CVE-2021-26858, CVE-2021-27065, CVE-2021-27078.| 
+| 20210307T20:18:47Z | CVE-2021-21972 | CVE-2021-21972 Unauthorized RCE in VMware vCenter metasploit exploit script | https://github.com/TaroballzChen/CVE-2021-21972 | | 
+| 20210307T18:36:35Z | CVE-2021-26855 | Microsoft Exchange Server SSRF漏洞(CVE-2021-26855) | https://github.com/conjojo/Microsoft_Exchange_Server_SSRF_CVE-2021-26855 | Microsoft Exchange Server Remote Code Execution Vulnerability This CVE ID is unique from CVE-2021-26412, CVE-2021-26854, CVE-2021-26857, CVE-2021-26858, CVE-2021-27065, CVE-2021-27078.| 
+| 20210307T18:02:38Z | CVE-2020-0796 | MS CVE 2020-0796 SMB | https://github.com/Kinesys/Kinesys-CVE-2020-0796 | A remote code execution vulnerability exists in the way that the Microsoft Server Message Block 3.1.1 (SMBv3) protocol handles certain requests, aka %Windows SMBv3 Client/Server Remote Code Execution Vulnerability%.| 
+| 20210307T16:59:31Z | CVE-2021-21978 | 带回显版本的漏洞利用脚本 | https://github.com/skytina/CVE-2021-21978 | | 
+| 20210307T15:25:33Z | cve-2021-27065 | Quick One Line Powershell scripts to detect for webshells, possible zips, and logs. | https://github.com/adamrpostjr/cve-2021-27065 | Microsoft Exchange Server Remote Code Execution Vulnerability This CVE ID is unique from CVE-2021-26412, CVE-2021-26854, CVE-2021-26855, CVE-2021-26857, CVE-2021-26858, CVE-2021-27078.| 
+| 20210307T14:19:49Z | CVE-2021-26855 | CVE-2021-26855 SSRF Exchange Server | https://github.com/Th3eCrow/CVE-2021-26855-SSRF-Exchange | Microsoft Exchange Server Remote Code Execution Vulnerability This CVE ID is unique from CVE-2021-26412, CVE-2021-26854, CVE-2021-26857, CVE-2021-26858, CVE-2021-27065, CVE-2021-27078.| 
+| 20210307T14:18:46Z | CVE-2021-26855 | This script helps to identify  CVE-2021-26855  ssrf Poc | https://github.com/pussycat0x/CVE-2021-26855-SSRF | Microsoft Exchange Server Remote Code Execution Vulnerability This CVE ID is unique from CVE-2021-26412, CVE-2021-26854, CVE-2021-26857, CVE-2021-26858, CVE-2021-27065, CVE-2021-27078.| 
 | 20210307T07:29:01Z | CVE-2020-10977 | Gitlab v12.4.0-8.1 RCE | https://github.com/Liath/CVE-2020-10977 | GitLab EE/CE 8.5 to 12.9 is vulnerable to a an path traversal when moving an issue between projects.| 
-| 20210307T06:55:32Z | cve-2020-1066 | Null | https://github.com/xyddnljydd/cve-2020-1066 | An elevation of privilege vulnerability exists in .NET Framework which could allow an attacker to elevate their privilege level.To exploit the vulnerability, an attacker would first have to access the local machine, and then run a malicious program.The update addresses the vulnerability by correcting how .NET Framework activates COM objects., aka %.NET Framework Elevation of Privilege Vulnerability%.| 
-| 20210307T05:13:27Z | CVE-2020-29134 | Null | https://github.com/lucxssouza/CVE-2020-29134 | TOTVS Fluig Luke 1.7.0 allows directory traversal via a base64 encoded file=../ to a volume/stream/ URI. This affects: Fluig Lake 1.7.0-210217, Fluig Lake 1.7.0-210112, Fluig Lake 1.7.0-201215, Fluig Lake 1.7.0-201124 and Fluig Lake 1.7.0-200915.| 
-| 20210307T04:48:38Z | CVE-2021-21978 | CVE-2021-21978 exp | https://github.com/GreyOrder/CVE-2021-21978 | VMware View Planner 4.x prior to 4.6 Security Patch 1 contains a remote code execution vulnerability. Improper input validation and lack of authorization leading to arbitrary file upload in logupload web application. An unauthorized attacker with network access to View Planner Harness could upload and execute a specially crafted file leading to remote code execution within the logupload container.| 
-| 20210307T04:40:00Z | CVE-2021-3129 | Exploit for CVE-2021-3129 | https://github.com/nth347/CVE-2021-3129_exploit | Ignition before 2.5.2, as used in Laravel and other products, allows unauthenticated remote attackers to execute arbitrary code because of insecure usage of file_get_contents() and file_put_contents(). This is exploitable on sites using debug mode with Laravel before 8.4.2.| 
-| 20210307T01:58:40Z | CVE-2021-26855 | CVE-2021-26855 SSRF Exchange Server | https://github.com/Udyz/CVE-2021-26855-SSRF-Exchange | Microsoft Exchange Server Remote Code Execution Vulnerability This CVE ID is unique from CVE-2021-26412, CVE-2021-26854, CVE-2021-26857, CVE-2021-26858, CVE-2021-27065, CVE-2021-27078.| 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210307T11:25:42Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 的 Klee One 的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 317 | 7| 
+| 20210307T20:55:45Z | Spring 2021 Geography 817 work folder  | https://github.com/klee12/klee12.github.io | 0 | 0| 
+| 20210307T20:05:54Z | Assets to be used for linking and Gists | https://github.com/lahiri-phdworks/Assets | 0 | 0| 
+| 20210307T17:24:25Z | Whole Program LLVM: wllvm ported to go | https://github.com/SRI-CSL/gllvm | 125 | 21| 
+| 20210307T14:43:12Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 的 Klee One 的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 318 | 7| 
 | 20210307T07:04:56Z | Null | https://github.com/fontworks-fonts/Klee | 381 | 10| 
 | 20210307T06:53:01Z | Null | https://github.com/DASARIRAINY/kleenmax | 0 | 0| 
 | 20210307T06:10:02Z | Git Blog | https://github.com/klee30810/klee30810.github.io | 0 | 0| 
 | 20210306T14:25:04Z | 程序员哥哥，你是来找可莉玩的吗？可莉语音包，适用于 vscode-rainbow-fart 拓展。 | https://github.com/Ran-ying/Klee-rainbow-fart | 1 | 0| 
 | 20210306T05:09:26Z | Null | https://github.com/Chiyukichan/klee_app | 0 | 0| 
-| 20210306T03:58:27Z | Whole Program LLVM: wllvm ported to go | https://github.com/SRI-CSL/gllvm | 125 | 21| 
 | 20210306T01:29:38Z | KLEE support llvm-9.0.0 | https://github.com/YizhuoZhai/yzklee | 0 | 0| 
-| 20210305T22:03:17Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1640 | 483| 
-| 20210305T16:28:28Z | RVT is a collection of tools/libraries to support both static and dynamic verification of Rust programs. | https://github.com/project-oak/rust-verification-tools | 109 | 7| 
 
 
 # s2e on Github 推荐
@@ -82,31 +82,31 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210307T13:57:38Z | Null | https://github.com/ThanosKrk/VulnserverExploits | 0 | 0| 
-| 20210307T13:50:42Z | CVE-PoC-Exploits! (Work in progress...) | https://github.com/CVEexploiter/CVE-PoC-Exploits | 5 | 3| 
-| 20210307T13:33:33Z | RAFEL - Remote  Access Tool Written in Java With WebPanel For Controlling Victims | https://github.com/swagkarna/Rafel-Rat | 3 | 2| 
-| 20210307T13:24:27Z | PS4 Exploits 1.01-7.02 | https://github.com/Buzbee/Buzbee.github.io | 0 | 1| 
-| 20210307T13:19:53Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9096 | 1466| 
-| 20210307T13:03:40Z | the universe is code, therefore, it is our duty to do anything we can to hack it. | https://github.com/kymb0/exploits_for_reality | 0 | 0| 
-| 20210307T13:02:24Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 9 | 4| 
-| 20210307T12:59:31Z | An open-source post-exploitation framework for students, researchers and developers. | https://github.com/malwaredllc/byob | 5962 | 1328| 
-| 20210307T12:35:40Z | MS CVE 2019-0708 Python Exploit | https://github.com/Kinesys/Kinesys-CVE-2019-0708-Exploit | 1 | 0| 
-| 20210307T12:23:11Z | Just a temporary website to post my ctf writeups and journey into binary/android exploitation/malware analysis/exploit development | https://github.com/blackbeard666/pwn_exhibit | 3 | 1| 
+| 20210308T00:57:24Z | ExploitModule | https://github.com/kounelictf/exploitdb-dropscan-exploit-module | 0 | 0| 
+| 20210308T00:55:01Z | PS4 Exploits 1.01-7.02 | https://github.com/Buzbee/Buzbee.github.io | 0 | 1| 
+| 20210308T00:45:48Z | samsung OfficeServ curl username and password | https://github.com/codezeroooo/samsung-OfficeServ-exploit | 0 | 0| 
+| 20210308T00:21:04Z | EternalBlue suite remade in C/C++ which includes: MS17-010 Exploit, EternalBlue vulnerability detector, DoublePulsar detector and DoublePulsar Shellcode & DLL uploader | https://github.com/bhassani/EternalBlueC | 322 | 79| 
+| 20210308T00:12:43Z | A general purpose memory allocator that implements an isolation security strategy to mitigate memory safety issues while maintaining good performance | https://github.com/struct/isoalloc | 131 | 9| 
+| 20210308T00:02:26Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 9 | 4| 
+| 20210308T00:02:25Z | All the Lua scripts I developed, including exploit scripts (please only use those for educational purposes) | https://github.com/SkiddDev/Scripts | 0 | 0| 
+| 20210308T00:01:58Z | Buy over the purchase limit/tx of NFTBoxes. Multi user support | https://github.com/owendoteth/NFTBoxes-Exploit | 0 | 0| 
+| 20210308T00:01:33Z | This is the repository for a website highlighting the exploits of the WRC Group A era. | https://github.com/rockybullish/group-a-rally | 0 | 0| 
+| 20210307T23:45:56Z | Live updated project of me coding a mass vuln / exploit scanner  | https://github.com/rpie/Vulner | 0 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210308T00:10:58Z | %Socialx% is a Social Engineering And Remote Access Trojan Tool. You can generate fud backdoor and you can embed any file you want inside of the exe file. | https://github.com/AzizKpln/Social_X | 75 | 21| 
+| 20210307T22:35:51Z | Null | https://github.com/Gh-raf/Backdoor | 0 | 0| 
+| 20210307T20:25:31Z | Undetectable & Xor encrypting with custom KEY (FUD Metasploit Rat) bypass Top Antivirus like BitDefender,Malwarebytes,Avast,ESET-NOD32,AVG,... & Automatically Add ICON and MANIFEST to excitable | https://github.com/persianhydra/Xeexe-TopAntivirusEvasion | 323 | 83| 
+| 20210307T19:23:53Z | Null | https://github.com/Dan3DTV/backdoors | 0 | 0| 
+| 20210307T18:56:01Z | Threat Emulation and Red Teaming Framework. | https://github.com/quantumcored/remote_hacker_probe | 31 | 5| 
+| 20210307T17:02:48Z | example backdoor malware in C explained | https://github.com/lukasbalazik123/cBackdoorMalware | 0 | 0| 
+| 20210307T17:01:33Z | Null | https://github.com/Delle9999/backdoor | 0 | 0| 
+| 20210307T15:21:42Z | Full-featured C2 framework which silently persists on webserver with a single-line PHP backdoor | https://github.com/nil0x42/phpsploit | 1174 | 335| 
+| 20210307T15:18:12Z | Null | https://github.com/MCClientCracker/BackdooredClient | 0 | 0| 
 | 20210307T12:50:16Z | Min backdoor | https://github.com/XmXTheDev/backdoor | 0 | 0| 
-| 20210307T03:49:41Z | example backdoor malware in C explained | https://github.com/lukasbalazik123/cBackdoorMalware | 0 | 0| 
-| 20210307T00:54:10Z | Null | https://github.com/Delle9999/backdoor | 0 | 0| 
-| 20210306T23:09:01Z | Identify, and build a PAM backdoor for the underlying Linux system. | https://github.com/archcloudlabs/AutoBackdoor-PAM | 1 | 0| 
-| 20210306T21:11:02Z | Null | https://github.com/Wiilldd/backdoor | 0 | 0| 
-| 20210306T20:28:07Z | Null | https://github.com/konemoulouk225/backdoor | 0 | 0| 
-| 20210306T19:12:14Z | the development of the Prediction of type-Social-Engineering Attacks was successuful by the graphical and analysis from Chi-Square Test and visuaized the Result to predict one-of-the-attack( Expoit, Fuzzer, DOS, Reconnaissance, Generic, BackDoor attack, Shell-Code attack, Worms minor attack) based on the above graph we are able to decide the particular IP address addressing the attacks issue from one of these. | https://github.com/KVSSKPRADEEP/DataWareHousing-Mining_SocialEnggAttack_prediction | 0 | 0| 
-| 20210306T13:50:08Z | Poopboobs Nether Roof plugin backdoor (credit: https://github.com/ItsYoungDaddy) | https://github.com/AfkBranta/PopbobsNetherRoofPlugin | 0 | 0| 
-| 20210306T13:07:10Z | %Socialx% is a Social Engineering And Remote Access Trojan Tool. You can generate fud backdoor and you can embed any file you want inside of the exe file. | https://github.com/AzizKpln/Social_X | 75 | 21| 
-| 20210306T12:54:55Z | A simple persistence backdoor for linux | https://github.com/Exploit-lang/backdoor-penguin | 0 | 0| 
 
 
 # fuzz on Github 推荐
