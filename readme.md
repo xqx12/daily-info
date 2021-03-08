@@ -30,7 +30,7 @@
 | 20210307T14:19:49Z | CVE-2021-26855 | CVE-2021-26855 SSRF Exchange Server | https://github.com/Th3eCrow/CVE-2021-26855-SSRF-Exchange | Microsoft Exchange Server Remote Code Execution Vulnerability This CVE ID is unique from CVE-2021-26412, CVE-2021-26854, CVE-2021-26857, CVE-2021-26858, CVE-2021-27065, CVE-2021-27078.| 
 | 20210307T14:18:46Z | CVE-2021-26855 | This script helps to identify  CVE-2021-26855  ssrf Poc | https://github.com/pussycat0x/CVE-2021-26855-SSRF | Microsoft Exchange Server Remote Code Execution Vulnerability This CVE ID is unique from CVE-2021-26412, CVE-2021-26854, CVE-2021-26857, CVE-2021-26858, CVE-2021-27065, CVE-2021-27078.| 
 | 20210307T07:29:01Z | CVE-2020-10977 | Gitlab v12.4.0-8.1 RCE | https://github.com/Liath/CVE-2020-10977 | GitLab EE/CE 8.5 to 12.9 is vulnerable to a an path traversal when moving an issue between projects.| 
-| 20210307T06:55:32Z | cve-2020-1066 | Null | https://github.com/xyddnljydd/cve-2020-1066 | An elevation of privilege vulnerability exists in .NET Framework which could allow an attacker to elevate their privilege level.To exploit the vulnerability, an attacker would first have to access the local machine, and then run a malicious program.The update addresses the vulnerability by correcting how .NET Framework activates COM objects., aka %.NET Framework Elevation of Privilege Vulnerability%.| 
+| 20210307T06:55:32Z | cve-2020-1066 | Null | https://github.com/xyddnljydd/cve-2020-1066 | | 
 
 
 # klee on Github 推荐
