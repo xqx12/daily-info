@@ -97,31 +97,31 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210308T12:46:49Z | Null | https://github.com/Delle9999/backdoor | 0 | 0| 
+| 20210308T11:35:03Z | Windows RAT written in Java for learning purposes | https://github.com/hacefresko/JRAT | 0 | 0| 
+| 20210308T11:07:17Z | AMWScan (PHP Antimalware Scanner) is a free tool to scan php files and analyze your project to find any malicious code inside it. | https://github.com/marcocesarato/PHP-Antimalware-Scanner | 177 | 33| 
+| 20210308T11:02:58Z | Crack Pyro Client No rat no token logger no Backdoor No Virus | https://github.com/Uwuman1/Crack-PYRO-Client | 1 | 0| 
+| 20210308T09:43:06Z | A tool to create a backdoor in a functioning APK | https://github.com/espositoandrea/APKBackdoor | 1 | 0| 
 | 20210308T00:10:58Z | %Socialx% is a Social Engineering And Remote Access Trojan Tool. You can generate fud backdoor and you can embed any file you want inside of the exe file. | https://github.com/AzizKpln/Social_X | 75 | 21| 
 | 20210307T22:35:51Z | Null | https://github.com/Gh-raf/Backdoor | 0 | 0| 
 | 20210307T20:25:31Z | Undetectable & Xor encrypting with custom KEY (FUD Metasploit Rat) bypass Top Antivirus like BitDefender,Malwarebytes,Avast,ESET-NOD32,AVG,... & Automatically Add ICON and MANIFEST to excitable | https://github.com/persianhydra/Xeexe-TopAntivirusEvasion | 323 | 83| 
 | 20210307T19:23:53Z | Null | https://github.com/Dan3DTV/backdoors | 0 | 0| 
 | 20210307T18:56:01Z | Threat Emulation and Red Teaming Framework. | https://github.com/quantumcored/remote_hacker_probe | 31 | 5| 
-| 20210307T17:02:48Z | example backdoor malware in C explained | https://github.com/lukasbalazik123/cBackdoorMalware | 0 | 0| 
-| 20210307T17:01:33Z | Null | https://github.com/Delle9999/backdoor | 0 | 0| 
-| 20210307T15:21:42Z | Full-featured C2 framework which silently persists on webserver with a single-line PHP backdoor | https://github.com/nil0x42/phpsploit | 1174 | 335| 
-| 20210307T15:18:12Z | Null | https://github.com/MCClientCracker/BackdooredClient | 0 | 0| 
-| 20210307T12:50:16Z | Min backdoor | https://github.com/XmXTheDev/backdoor | 0 | 0| 
 
 
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210308T02:44:55Z | Null | https://github.com/VeriBlock/fuzz-corpus | 0 | 0| 
-| 20210308T02:04:00Z | Fuzzy charrs are fuzzy. | https://github.com/marenubium87/FuzzyCharr | 0 | 0| 
-| 20210308T01:56:15Z | Null | https://github.com/JohenanLi/AggregateFuzzing | 0 | 0| 
-| 20210308T00:20:00Z | Null | https://github.com/opimentel-github/fuzzy-torch | 0 | 0| 
-| 20210308T00:15:28Z | Rapid fuzzy string matching in Python using the Levenshtein Distance | https://github.com/maxbachmann/RapidFuzz | 800 | 30| 
-| 20210308T00:12:30Z | FuzzBench - Fuzzer benchmarking as a service. | https://github.com/google/fuzzbench | 607 | 102| 
-| 20210308T00:06:49Z | Null | https://github.com/divmain/fuzzponent | 2 | 0| 
-| 20210307T23:06:02Z | Software for fuzzing, used on web application pentestings. | https://github.com/NESCAU-UFLA/FuzzingTool | 11 | 1| 
-| 20210307T21:59:19Z | Fuse.js binding for fuzzy text match highlighting | https://github.com/metonym/svelte-fuzzy | 8 | 0| 
-| 20210307T21:28:23Z | OMNeT++ Fuzzy IP Scheduler | https://github.com/TomasBoboi/fuzzy-ip-scheduler | 0 | 0| 
+| 20210308T12:51:05Z | Null | https://github.com/pxiaoer/Fuzzing-Tutorial | 0 | 0| 
+| 20210308T12:42:41Z | Fuzzing cryptographic libraries. Magic bug printer go brrrr. | https://github.com/guidovranken/cryptofuzz | 256 | 36| 
+| 20210308T12:18:33Z | This tool uses fzf(1)-like fuzzy-finder to do partial or fuzzy search of Kubernetes resources. Instead of specifying full resource names to kubectl commands, you can choose them from an interactive list that you can filter by typing a few characters. | https://github.com/d-kuro/kubectl-fuzzy | 82 | 9| 
+| 20210308T12:12:02Z | Towards fuzzing ROS 2 automatically | https://github.com/JnxF/automatic_fuzzing | 0 | 0| 
+| 20210308T11:58:52Z | Fuzzing with the generated argument | https://github.com/zodf0055980/Yuan-fuzz | 15 | 1| 
+| 20210308T11:46:15Z | Null | https://github.com/kinzhong/fuzzing-automation-tools | 1 | 0| 
+| 20210308T11:37:42Z | Null | https://github.com/JohenanLi/AggregateFuzzing | 0 | 0| 
+| 20210308T11:29:07Z | Null | https://github.com/peterson1999/fuzzylogic | 0 | 0| 
+| 20210308T10:49:23Z | Null | https://github.com/s9varesc/url-fuzzing | 0 | 0| 
+| 20210308T10:29:01Z | A project to learn Python and work with FuzzyLogic | https://github.com/matijsbrs/FuzzyPython | 0 | 0| 
 
 
 

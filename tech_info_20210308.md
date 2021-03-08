@@ -70,19 +70,27 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210308T12:46:49Z | Null | https://github.com/Delle9999/backdoor | 0 | 0| 
+| 20210308T11:35:03Z | Windows RAT written in Java for learning purposes | https://github.com/hacefresko/JRAT | 0 | 0| 
+| 20210308T11:07:17Z | AMWScan (PHP Antimalware Scanner) is a free tool to scan php files and analyze your project to find any malicious code inside it. | https://github.com/marcocesarato/PHP-Antimalware-Scanner | 177 | 33| 
+| 20210308T11:02:58Z | Crack Pyro Client No rat no token logger no Backdoor No Virus | https://github.com/Uwuman1/Crack-PYRO-Client | 1 | 0| 
+| 20210308T09:43:06Z | A tool to create a backdoor in a functioning APK | https://github.com/espositoandrea/APKBackdoor | 1 | 0| 
 | 20210308T00:10:58Z | %Socialx% is a Social Engineering And Remote Access Trojan Tool. You can generate fud backdoor and you can embed any file you want inside of the exe file. | https://github.com/AzizKpln/Social_X | 75 | 21| 
 
 
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210308T02:44:55Z | Null | https://github.com/VeriBlock/fuzz-corpus | 0 | 0| 
-| 20210308T02:04:00Z | Fuzzy charrs are fuzzy. | https://github.com/marenubium87/FuzzyCharr | 0 | 0| 
-| 20210308T01:56:15Z | Null | https://github.com/JohenanLi/AggregateFuzzing | 0 | 0| 
-| 20210308T00:20:00Z | Null | https://github.com/opimentel-github/fuzzy-torch | 0 | 0| 
-| 20210308T00:15:28Z | Rapid fuzzy string matching in Python using the Levenshtein Distance | https://github.com/maxbachmann/RapidFuzz | 800 | 30| 
-| 20210308T00:12:30Z | FuzzBench - Fuzzer benchmarking as a service. | https://github.com/google/fuzzbench | 607 | 102| 
-| 20210308T00:06:49Z | Null | https://github.com/divmain/fuzzponent | 2 | 0| 
+| 20210308T12:51:05Z | Null | https://github.com/pxiaoer/Fuzzing-Tutorial | 0 | 0| 
+| 20210308T12:42:41Z | Fuzzing cryptographic libraries. Magic bug printer go brrrr. | https://github.com/guidovranken/cryptofuzz | 256 | 36| 
+| 20210308T12:18:33Z | This tool uses fzf(1)-like fuzzy-finder to do partial or fuzzy search of Kubernetes resources. Instead of specifying full resource names to kubectl commands, you can choose them from an interactive list that you can filter by typing a few characters. | https://github.com/d-kuro/kubectl-fuzzy | 82 | 9| 
+| 20210308T12:12:02Z | Towards fuzzing ROS 2 automatically | https://github.com/JnxF/automatic_fuzzing | 0 | 0| 
+| 20210308T11:58:52Z | Fuzzing with the generated argument | https://github.com/zodf0055980/Yuan-fuzz | 15 | 1| 
+| 20210308T11:46:15Z | Null | https://github.com/kinzhong/fuzzing-automation-tools | 1 | 0| 
+| 20210308T11:37:42Z | Null | https://github.com/JohenanLi/AggregateFuzzing | 0 | 0| 
+| 20210308T11:29:07Z | Null | https://github.com/peterson1999/fuzzylogic | 0 | 0| 
+| 20210308T10:49:23Z | Null | https://github.com/s9varesc/url-fuzzing | 0 | 0| 
+| 20210308T10:29:01Z | A project to learn Python and work with FuzzyLogic | https://github.com/matijsbrs/FuzzyPython | 0 | 0| 
 
 
 
