@@ -58,10 +58,10 @@
 | 20210307T22:31:22Z | CGI Script Shellshock Exploitation Tool | https://github.com/sAsPeCt488/shellshockcgitool | 0 | 0| 
 | 20210307T22:16:03Z | Set of CLI tools for automatically generating (as well as testing) PHP exploits. | https://github.com/madberries/sourceforage | 0 | 0| 
 | 20210307T21:53:14Z | Repo to maintain Microsoft Cloud exploitation stuff. | https://github.com/ar0dd/LaListaDeMCA | 0 | 0| 
-| 20210307T21:31:48Z | Null | https://github.com/0xturazzi/Um-Livrinho-Sobre-Exploit-Dev | 0 | 0| 
 | 20210307T21:18:23Z | This bash script will help you to hack remote hosts  | https://github.com/FabioDefilippo/linuxallremote | 8 | 1| 
 | 20210307T21:07:30Z | Small crash client base for retarded(german) people who steal other people%s code. | https://github.com/narumii/Niko | 5 | 0| 
 | 20210307T21:02:16Z | CTF Write-ups | https://github.com/b4ckspace/ctfwriteups | 1 | 2| 
+| 20210307T13:57:38Z | Null | https://github.com/ThanosKrk/VulnserverExploits | 0 | 0| 
 
 
 # backdoor on Github 推荐

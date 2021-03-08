@@ -82,6 +82,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210308T01:33:06Z | Null | https://github.com/0xturazzi/Um-Livrinho-Sobre-Exploit-Dev | 0 | 0| 
 | 20210308T01:10:25Z | Live updated project of me coding a mass vuln / exploit scanner  | https://github.com/rpie/Vulner | 0 | 0| 
 | 20210308T01:02:33Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 9 | 4| 
 | 20210308T01:01:06Z | PS4 Exploits 1.01-7.02 | https://github.com/Buzbee/Buzbee.github.io | 0 | 1| 
@@ -91,7 +92,6 @@
 | 20210308T00:12:43Z | A general purpose memory allocator that implements an isolation security strategy to mitigate memory safety issues while maintaining good performance | https://github.com/struct/isoalloc | 131 | 9| 
 | 20210308T00:02:25Z | All the Lua scripts I developed, including exploit scripts (please only use those for educational purposes) | https://github.com/SkiddDev/Scripts | 0 | 0| 
 | 20210308T00:01:58Z | Buy over the purchase limit/tx of NFTBoxes. Multi user support | https://github.com/owendoteth/NFTBoxes-Exploit | 0 | 0| 
-| 20210308T00:01:33Z | This is the repository for a website highlighting the exploits of the WRC Group A era. | https://github.com/rockybullish/group-a-rally | 0 | 0| 
 
 
 # backdoor on Github 推荐
