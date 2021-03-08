@@ -25,10 +25,10 @@
 | 20210307T20:18:47Z | CVE-2021-21972 | CVE-2021-21972 Unauthorized RCE in VMware vCenter metasploit exploit script | https://github.com/TaroballzChen/CVE-2021-21972 | The vSphere Client (HTML5) contains a remote code execution vulnerability in a vCenter Server plugin. A malicious actor with network access to port 443 may exploit this issue to execute commands with unrestricted privileges on the underlying operating system that hosts vCenter Server. This affects VMware vCenter Server (7.x before 7.0 U1c, 6.7 before 6.7 U3l and 6.5 before 6.5 U3n) and VMware Cloud Foundation (4.x before 4.2 and 3.x before 3.10.1.2).| 
 | 20210307T18:36:35Z | CVE-2021-26855 | Microsoft Exchange Server SSRF漏洞(CVE-2021-26855) | https://github.com/conjojo/Microsoft_Exchange_Server_SSRF_CVE-2021-26855 | Microsoft Exchange Server Remote Code Execution Vulnerability This CVE ID is unique from CVE-2021-26412, CVE-2021-26854, CVE-2021-26857, CVE-2021-26858, CVE-2021-27065, CVE-2021-27078.| 
 | 20210307T18:02:38Z | CVE-2020-0796 | MS CVE 2020-0796 SMB | https://github.com/Kinesys/Kinesys-CVE-2020-0796 | A remote code execution vulnerability exists in the way that the Microsoft Server Message Block 3.1.1 (SMBv3) protocol handles certain requests, aka %Windows SMBv3 Client/Server Remote Code Execution Vulnerability%.| 
-| 20210307T16:59:31Z | CVE-2021-21978 | 带回显版本的漏洞利用脚本 | https://github.com/skytina/CVE-2021-21978 | | 
+| 20210307T16:59:31Z | CVE-2021-21978 | 带回显版本的漏洞利用脚本 | https://github.com/skytina/CVE-2021-21978 | VMware View Planner 4.x prior to 4.6 Security Patch 1 contains a remote code execution vulnerability. Improper input validation and lack of authorization leading to arbitrary file upload in logupload web application. An unauthorized attacker with network access to View Planner Harness could upload and execute a specially crafted file leading to remote code execution within the logupload container.| 
 | 20210307T15:25:33Z | cve-2021-27065 | Quick One Line Powershell scripts to detect for webshells, possible zips, and logs. | https://github.com/adamrpostjr/cve-2021-27065 | Microsoft Exchange Server Remote Code Execution Vulnerability This CVE ID is unique from CVE-2021-26412, CVE-2021-26854, CVE-2021-26855, CVE-2021-26857, CVE-2021-26858, CVE-2021-27078.| 
 | 20210307T14:19:49Z | CVE-2021-26855 | CVE-2021-26855 SSRF Exchange Server | https://github.com/Th3eCrow/CVE-2021-26855-SSRF-Exchange | Microsoft Exchange Server Remote Code Execution Vulnerability This CVE ID is unique from CVE-2021-26412, CVE-2021-26854, CVE-2021-26857, CVE-2021-26858, CVE-2021-27065, CVE-2021-27078.| 
-| 20210307T14:18:46Z | CVE-2021-26855 | This script helps to identify  CVE-2021-26855  ssrf Poc | https://github.com/pussycat0x/CVE-2021-26855-SSRF | Microsoft Exchange Server Remote Code Execution Vulnerability This CVE ID is unique from CVE-2021-26412, CVE-2021-26854, CVE-2021-26857, CVE-2021-26858, CVE-2021-27065, CVE-2021-27078.| 
+| 20210307T14:18:46Z | CVE-2021-26855 | This script helps to identify  CVE-2021-26855  ssrf Poc | https://github.com/pussycat0x/CVE-2021-26855-SSRF | | 
 | 20210307T07:29:01Z | CVE-2020-10977 | Gitlab v12.4.0-8.1 RCE | https://github.com/Liath/CVE-2020-10977 | GitLab EE/CE 8.5 to 12.9 is vulnerable to a an path traversal when moving an issue between projects.| 
 | 20210307T06:55:32Z | cve-2020-1066 | Null | https://github.com/xyddnljydd/cve-2020-1066 | An elevation of privilege vulnerability exists in .NET Framework which could allow an attacker to elevate their privilege level.To exploit the vulnerability, an attacker would first have to access the local machine, and then run a malicious program.The update addresses the vulnerability by correcting how .NET Framework activates COM objects., aka %.NET Framework Elevation of Privilege Vulnerability%.| 
 
@@ -53,7 +53,6 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210307T23:45:56Z | Live updated project of me coding a mass vuln / exploit scanner  | https://github.com/rpie/Vulner | 0 | 0| 
 | 20210307T23:20:46Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 3477 | 515| 
 | 20210307T23:16:51Z | An open-source post-exploitation framework for students, researchers and developers. | https://github.com/malwaredllc/byob | 5965 | 1329| 
 | 20210307T22:41:41Z | Null | https://github.com/Raycodex/Exploiting | 0 | 0| 
@@ -63,6 +62,7 @@
 | 20210307T21:31:48Z | Null | https://github.com/0xturazzi/Um-Livrinho-Sobre-Exploit-Dev | 0 | 0| 
 | 20210307T21:18:23Z | This bash script will help you to hack remote hosts  | https://github.com/FabioDefilippo/linuxallremote | 8 | 1| 
 | 20210307T21:07:30Z | Small crash client base for retarded(german) people who steal other people%s code. | https://github.com/narumii/Niko | 5 | 0| 
+| 20210307T21:02:16Z | CTF Write-ups | https://github.com/b4ckspace/ctfwriteups | 1 | 2| 
 
 
 # backdoor on Github 推荐
