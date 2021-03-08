@@ -112,6 +112,8 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210308T13:18:43Z | Null | https://github.com/ethereum/solidity-fuzzing-corpus | 10 | 4| 
+| 20210308T13:15:49Z | fuzzer http ( hackingyseguridad.com ) | https://github.com/hackingyseguridad/fuzzer | 0 | 1| 
 | 20210308T12:51:05Z | Null | https://github.com/pxiaoer/Fuzzing-Tutorial | 0 | 0| 
 | 20210308T12:42:41Z | Fuzzing cryptographic libraries. Magic bug printer go brrrr. | https://github.com/guidovranken/cryptofuzz | 256 | 36| 
 | 20210308T12:18:33Z | This tool uses fzf(1)-like fuzzy-finder to do partial or fuzzy search of Kubernetes resources. Instead of specifying full resource names to kubectl commands, you can choose them from an interactive list that you can filter by typing a few characters. | https://github.com/d-kuro/kubectl-fuzzy | 82 | 9| 
@@ -120,8 +122,6 @@
 | 20210308T11:46:15Z | Null | https://github.com/kinzhong/fuzzing-automation-tools | 1 | 0| 
 | 20210308T11:37:42Z | Null | https://github.com/JohenanLi/AggregateFuzzing | 0 | 0| 
 | 20210308T11:29:07Z | Null | https://github.com/peterson1999/fuzzylogic | 0 | 0| 
-| 20210308T10:49:23Z | Null | https://github.com/s9varesc/url-fuzzing | 0 | 0| 
-| 20210308T10:29:01Z | A project to learn Python and work with FuzzyLogic | https://github.com/matijsbrs/FuzzyPython | 0 | 0| 
 
 
 
