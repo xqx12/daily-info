@@ -22,7 +22,7 @@
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
 | 20210307T20:27:47Z | CVE-2021-26855 | PoC for CVE-2021-26855 -Just a checker- | https://github.com/0xAbdullah/CVE-2021-26855 | Microsoft Exchange Server Remote Code Execution Vulnerability This CVE ID is unique from CVE-2021-26412, CVE-2021-26854, CVE-2021-26857, CVE-2021-26858, CVE-2021-27065, CVE-2021-27078.| 
-| 20210307T20:18:47Z | CVE-2021-21972 | CVE-2021-21972 Unauthorized RCE in VMware vCenter metasploit exploit script | https://github.com/TaroballzChen/CVE-2021-21972 | The vSphere Client (HTML5) contains a remote code execution vulnerability in a vCenter Server plugin. A malicious actor with network access to port 443 may exploit this issue to execute commands with unrestricted privileges on the underlying operating system that hosts vCenter Server. This affects VMware vCenter Server (7.x before 7.0 U1c, 6.7 before 6.7 U3l and 6.5 before 6.5 U3n) and VMware Cloud Foundation (4.x before 4.2 and 3.x before 3.10.1.2).| 
+| 20210307T20:18:47Z | CVE-2021-21972 | CVE-2021-21972 Unauthorized RCE in VMware vCenter metasploit exploit script | https://github.com/TaroballzChen/CVE-2021-21972 | | 
 | 20210307T18:36:35Z | CVE-2021-26855 | Microsoft Exchange Server SSRF漏洞(CVE-2021-26855) | https://github.com/conjojo/Microsoft_Exchange_Server_SSRF_CVE-2021-26855 | Microsoft Exchange Server Remote Code Execution Vulnerability This CVE ID is unique from CVE-2021-26412, CVE-2021-26854, CVE-2021-26857, CVE-2021-26858, CVE-2021-27065, CVE-2021-27078.| 
 | 20210307T18:02:38Z | CVE-2020-0796 | MS CVE 2020-0796 SMB | https://github.com/Kinesys/Kinesys-CVE-2020-0796 | A remote code execution vulnerability exists in the way that the Microsoft Server Message Block 3.1.1 (SMBv3) protocol handles certain requests, aka %Windows SMBv3 Client/Server Remote Code Execution Vulnerability%.| 
 | 20210307T16:59:31Z | CVE-2021-21978 | 带回显版本的漏洞利用脚本 | https://github.com/skytina/CVE-2021-21978 | VMware View Planner 4.x prior to 4.6 Security Patch 1 contains a remote code execution vulnerability. Improper input validation and lack of authorization leading to arbitrary file upload in logupload web application. An unauthorized attacker with network access to View Planner Harness could upload and execute a specially crafted file leading to remote code execution within the logupload container.| 
@@ -39,7 +39,6 @@
 | 20210307T20:55:45Z | Spring 2021 Geography 817 work folder  | https://github.com/klee12/klee12.github.io | 0 | 0| 
 | 20210307T20:05:54Z | Assets to be used for linking and Gists | https://github.com/lahiri-phdworks/Assets | 0 | 0| 
 | 20210307T17:24:25Z | Whole Program LLVM: wllvm ported to go | https://github.com/SRI-CSL/gllvm | 125 | 21| 
-| 20210307T14:43:12Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 的 Klee One 的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 318 | 7| 
 | 20210307T07:04:56Z | Null | https://github.com/fontworks-fonts/Klee | 381 | 10| 
 | 20210307T06:53:01Z | Null | https://github.com/DASARIRAINY/kleenmax | 0 | 0| 
 | 20210307T06:10:02Z | Git Blog | https://github.com/klee30810/klee30810.github.io | 0 | 0| 
