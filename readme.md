@@ -24,12 +24,12 @@
 | 20210307T20:27:47Z | CVE-2021-26855 | PoC for CVE-2021-26855 -Just a checker- | https://github.com/0xAbdullah/CVE-2021-26855 | Microsoft Exchange Server Remote Code Execution Vulnerability This CVE ID is unique from CVE-2021-26412, CVE-2021-26854, CVE-2021-26857, CVE-2021-26858, CVE-2021-27065, CVE-2021-27078.| 
 | 20210307T18:02:38Z | CVE-2020-0796 | MS CVE 2020-0796 SMB | https://github.com/Kinesys/Kinesys-CVE-2020-0796 | A remote code execution vulnerability exists in the way that the Microsoft Server Message Block 3.1.1 (SMBv3) protocol handles certain requests, aka %Windows SMBv3 Client/Server Remote Code Execution Vulnerability%.| 
 | 20210307T15:25:33Z | cve-2021-27065 | Quick One Line Powershell scripts to detect for webshells, possible zips, and logs. | https://github.com/adamrpostjr/cve-2021-27065 | Microsoft Exchange Server Remote Code Execution Vulnerability This CVE ID is unique from CVE-2021-26412, CVE-2021-26854, CVE-2021-26855, CVE-2021-26857, CVE-2021-26858, CVE-2021-27078.| 
-| 20210307T14:19:49Z | CVE-2021-26855 | CVE-2021-26855 SSRF Exchange Server | https://github.com/Th3eCrow/CVE-2021-26855-SSRF-Exchange | Microsoft Exchange Server Remote Code Execution Vulnerability This CVE ID is unique from CVE-2021-26412, CVE-2021-26854, CVE-2021-26857, CVE-2021-26858, CVE-2021-27065, CVE-2021-27078.| 
-| 20210307T14:18:46Z | CVE-2021-26855 | This script helps to identify  CVE-2021-26855  ssrf Poc | https://github.com/pussycat0x/CVE-2021-26855-SSRF | Microsoft Exchange Server Remote Code Execution Vulnerability This CVE ID is unique from CVE-2021-26412, CVE-2021-26854, CVE-2021-26857, CVE-2021-26858, CVE-2021-27065, CVE-2021-27078.| 
+| 20210307T14:19:49Z | CVE-2021-26855 | CVE-2021-26855 SSRF Exchange Server | https://github.com/Th3eCrow/CVE-2021-26855-SSRF-Exchange | | 
+| 20210307T14:18:46Z | CVE-2021-26855 | This script helps to identify  CVE-2021-26855  ssrf Poc | https://github.com/pussycat0x/CVE-2021-26855-SSRF | | 
 | 20210307T07:29:01Z | CVE-2020-10977 | Gitlab v12.4.0-8.1 RCE | https://github.com/Liath/CVE-2020-10977 | GitLab EE/CE 8.5 to 12.9 is vulnerable to a an path traversal when moving an issue between projects.| 
 | 20210307T06:55:32Z | cve-2020-1066 | Null | https://github.com/xyddnljydd/cve-2020-1066 | An elevation of privilege vulnerability exists in .NET Framework which could allow an attacker to elevate their privilege level.To exploit the vulnerability, an attacker would first have to access the local machine, and then run a malicious program.The update addresses the vulnerability by correcting how .NET Framework activates COM objects., aka %.NET Framework Elevation of Privilege Vulnerability%.| 
 | 20210307T05:13:27Z | CVE-2020-29134 | Null | https://github.com/lucxssouza/CVE-2020-29134 | TOTVS Fluig Luke 1.7.0 allows directory traversal via a base64 encoded file=../ to a volume/stream/ URI. This affects: Fluig Lake 1.7.0-210217, Fluig Lake 1.7.0-210112, Fluig Lake 1.7.0-201215, Fluig Lake 1.7.0-201124 and Fluig Lake 1.7.0-200915.| 
-| 20210307T04:48:38Z | CVE-2021-21978 | CVE-2021-21978 exp | https://github.com/GreyOrder/CVE-2021-21978 | | 
+| 20210307T04:48:38Z | CVE-2021-21978 | CVE-2021-21978 exp | https://github.com/GreyOrder/CVE-2021-21978 | VMware View Planner 4.x prior to 4.6 Security Patch 1 contains a remote code execution vulnerability. Improper input validation and lack of authorization leading to arbitrary file upload in logupload web application. An unauthorized attacker with network access to View Planner Harness could upload and execute a specially crafted file leading to remote code execution within the logupload container.| 
 | 20210307T04:40:00Z | CVE-2021-3129 | Exploit for CVE-2021-3129 | https://github.com/nth347/CVE-2021-3129_exploit | Ignition before 2.5.2, as used in Laravel and other products, allows unauthenticated remote attackers to execute arbitrary code because of insecure usage of file_get_contents() and file_put_contents(). This is exploitable on sites using debug mode with Laravel before 8.4.2.| 
 
 
@@ -85,12 +85,12 @@
 | 20210307T21:59:19Z | Fuse.js binding for fuzzy text match highlighting | https://github.com/metonym/svelte-fuzzy | 8 | 0| 
 | 20210307T21:28:23Z | OMNeT++ Fuzzy IP Scheduler | https://github.com/TomasBoboi/fuzzy-ip-scheduler | 0 | 0| 
 | 20210307T20:48:47Z | Personal website of Laurence Hughes | https://github.com/fuzzylogicxx/fuzzylogic | 4 | 1| 
-| 20210307T20:38:54Z | Null | https://github.com/VeriBlock/fuzz-corpus | 0 | 0| 
 | 20210307T20:09:54Z | Just a small fuzzer that I wrote using mesos, when I was starting off. Not really a speed demon. Initially written as a way to easily harness UI applications, but superseeded by gamozo%s chocolate_milk., before it was really used for anything serious. Don%t expect it to find any bugs :) | https://github.com/pacbypass/og_mesos_fuzzer | 0 | 0| 
 | 20210307T19:32:43Z | The Book %Generating Software Tests% | https://github.com/uds-se/fuzzingbook | 539 | 109| 
 | 20210307T19:26:17Z | CS 4152 Project | https://github.com/nicbarone/Fuzzy-Kiwi | 0 | 0| 
 | 20210307T18:17:36Z | Kinesys Simple Python Fuzzer | https://github.com/Kinesys/Kinesys-Simple-Fuzzer | 1 | 0| 
 | 20210307T17:37:03Z | To make fuzzing Rust easy | https://github.com/trailofbits/test-fuzz | 0 | 1| 
+| 20210307T17:30:52Z | The Frida based fuzzer all in one | https://github.com/Nicholas1126/frida-fuzzer-aio | 5 | 1| 
 
 
 

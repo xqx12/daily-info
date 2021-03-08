@@ -54,8 +54,8 @@
 | 20210307T20:27:47Z | CVE-2021-26855 | PoC for CVE-2021-26855 -Just a checker- | https://github.com/0xAbdullah/CVE-2021-26855 | Microsoft Exchange Server Remote Code Execution Vulnerability This CVE ID is unique from CVE-2021-26412, CVE-2021-26854, CVE-2021-26857, CVE-2021-26858, CVE-2021-27065, CVE-2021-27078.| 
 | 20210307T18:02:38Z | CVE-2020-0796 | MS CVE 2020-0796 SMB | https://github.com/Kinesys/Kinesys-CVE-2020-0796 | A remote code execution vulnerability exists in the way that the Microsoft Server Message Block 3.1.1 (SMBv3) protocol handles certain requests, aka %Windows SMBv3 Client/Server Remote Code Execution Vulnerability%.| 
 | 20210307T15:25:33Z | cve-2021-27065 | Quick One Line Powershell scripts to detect for webshells, possible zips, and logs. | https://github.com/adamrpostjr/cve-2021-27065 | Microsoft Exchange Server Remote Code Execution Vulnerability This CVE ID is unique from CVE-2021-26412, CVE-2021-26854, CVE-2021-26855, CVE-2021-26857, CVE-2021-26858, CVE-2021-27078.| 
-| 20210307T14:19:49Z | CVE-2021-26855 | CVE-2021-26855 SSRF Exchange Server | https://github.com/Th3eCrow/CVE-2021-26855-SSRF-Exchange | Microsoft Exchange Server Remote Code Execution Vulnerability This CVE ID is unique from CVE-2021-26412, CVE-2021-26854, CVE-2021-26857, CVE-2021-26858, CVE-2021-27065, CVE-2021-27078.| 
-| 20210307T14:18:46Z | CVE-2021-26855 | This script helps to identify  CVE-2021-26855  ssrf Poc | https://github.com/pussycat0x/CVE-2021-26855-SSRF | Microsoft Exchange Server Remote Code Execution Vulnerability This CVE ID is unique from CVE-2021-26412, CVE-2021-26854, CVE-2021-26857, CVE-2021-26858, CVE-2021-27065, CVE-2021-27078.| 
+| 20210307T14:19:49Z | CVE-2021-26855 | CVE-2021-26855 SSRF Exchange Server | https://github.com/Th3eCrow/CVE-2021-26855-SSRF-Exchange | | 
+| 20210307T14:18:46Z | CVE-2021-26855 | This script helps to identify  CVE-2021-26855  ssrf Poc | https://github.com/pussycat0x/CVE-2021-26855-SSRF | | 
 
 
 # klee on Github 推荐
@@ -112,6 +112,9 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210308T02:44:55Z | Null | https://github.com/VeriBlock/fuzz-corpus | 0 | 0| 
+| 20210308T02:04:00Z | Fuzzy charrs are fuzzy. | https://github.com/marenubium87/FuzzyCharr | 0 | 0| 
+| 20210308T01:56:15Z | Null | https://github.com/JohenanLi/AggregateFuzzing | 0 | 0| 
 | 20210308T00:20:00Z | Null | https://github.com/opimentel-github/fuzzy-torch | 0 | 0| 
 | 20210308T00:15:28Z | Rapid fuzzy string matching in Python using the Levenshtein Distance | https://github.com/maxbachmann/RapidFuzz | 800 | 30| 
 | 20210308T00:12:30Z | FuzzBench - Fuzzer benchmarking as a service. | https://github.com/google/fuzzbench | 607 | 102| 
@@ -119,9 +122,6 @@
 | 20210307T23:06:02Z | Software for fuzzing, used on web application pentestings. | https://github.com/NESCAU-UFLA/FuzzingTool | 11 | 1| 
 | 20210307T21:59:19Z | Fuse.js binding for fuzzy text match highlighting | https://github.com/metonym/svelte-fuzzy | 8 | 0| 
 | 20210307T21:28:23Z | OMNeT++ Fuzzy IP Scheduler | https://github.com/TomasBoboi/fuzzy-ip-scheduler | 0 | 0| 
-| 20210307T20:48:47Z | Personal website of Laurence Hughes | https://github.com/fuzzylogicxx/fuzzylogic | 4 | 1| 
-| 20210307T20:38:54Z | Null | https://github.com/VeriBlock/fuzz-corpus | 0 | 0| 
-| 20210307T20:09:54Z | Just a small fuzzer that I wrote using mesos, when I was starting off. Not really a speed demon. Initially written as a way to easily harness UI applications, but superseeded by gamozo%s chocolate_milk., before it was really used for anything serious. Don%t expect it to find any bugs :) | https://github.com/pacbypass/og_mesos_fuzzer | 0 | 0| 
 
 
 
