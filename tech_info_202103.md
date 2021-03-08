@@ -82,6 +82,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210308T02:50:10Z | Ronin Exploits is a Ruby library for Ronin that provides exploitation and payload crafting functionality. | https://github.com/ronin-rb/ronin-exploits | 33 | 11| 
 | 20210308T02:48:47Z | REVERSE ENGINEERING EXPLOITS AND TOOL CODING FOR SECURITY PROFESSIONALS | https://github.com/giovannyortegon/SockersShellcodePoringCoding | 0 | 0| 
 | 20210308T02:48:42Z | CTF framework and exploit development library | https://github.com/Gallopsled/pwntools | 7604 | 1364| 
 | 20210308T02:44:19Z | learn golang in web exploitation | https://github.com/liuchengshun/go_learn_web | 1 | 0| 
@@ -91,7 +92,6 @@
 | 20210308T01:51:08Z | passive keyless entry exploit research | https://github.com/zeetulsa/pke | 1 | 0| 
 | 20210308T01:37:34Z | Null | https://github.com/0xturazzi/Um-Livrinho-Sobre-Exploit-Dev | 0 | 0| 
 | 20210308T01:10:25Z | Live updated project of me coding a mass vuln / exploit scanner  | https://github.com/rpie/Vulner | 0 | 0| 
-| 20210308T00:57:24Z | ExploitModule | https://github.com/kounelictf/exploitdb-dropscan-exploit-module | 0 | 0| 
 
 
 # backdoor on Github 推荐
