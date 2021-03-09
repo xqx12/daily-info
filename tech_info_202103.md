@@ -82,7 +82,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210309T02:21:07Z | A new, pretty, simple, cross-platform GUI-based tool for injecting payloads onto your Switch to boot into Atmosphere, Hekate, Android etc! Available for Windows, MacOS and Linux. | https://github.com/versionxcontrol/super-payload-launcher | 5 | 0| 
+| 20210309T02:24:54Z | A new, pretty, simple, cross-platform GUI-based tool for injecting payloads onto your Switch to boot into Atmosphere, Hekate, Android etc! Available for Windows, MacOS and Linux. | https://github.com/versionxcontrol/super-payload-launcher | 5 | 0| 
+| 20210309T02:23:24Z | A research repository (currently all cyber security). Retired HackTheBox machine walk throughs are here as well as some exploit development notes(currently there%s one exploit) and soon malware analysis notes will be located in this repository. | https://github.com/7248510/Research | 0 | 0| 
 | 20210309T02:13:54Z | Null | https://github.com/oneoy/CVE-2021-1732-Exploit | 0 | 0| 
 | 20210309T02:02:52Z | A phased, evasive Path Traversal + LFI scanning & exploitation tool in Python | https://github.com/VainlyStrain/Vailyn | 100 | 6| 
 | 20210309T02:02:38Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 9 | 4| 
@@ -91,7 +92,6 @@
 | 20210309T01:29:20Z | Various ASM, C and C++ tools, shellcodes and exploit experiments. | https://github.com/forrest-orr/ExploitDev | 54 | 6| 
 | 20210309T01:12:01Z | PS4 Exploits 1.01-7.02 | https://github.com/Buzbee/Buzbee.github.io | 0 | 1| 
 | 20210309T01:09:34Z | Set of CLI tools for automatically generating (as well as testing) PHP exploits. | https://github.com/madberries/sourceforage | 0 | 0| 
-| 20210309T00:58:52Z | An exploit which uses redis to overwrite the .ssh/authorization_keys file of any user running redis unauthenticated | https://github.com/LevitatingBusinessMan/redis-ssh | 1 | 0| 
 
 
 # backdoor on Github 推荐
