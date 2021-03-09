@@ -55,6 +55,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210309T13:09:21Z | AMWScan (PHP Antimalware Scanner) is a free tool to scan php files and analyze your project to find any malicious code inside it. | https://github.com/marcocesarato/PHP-Antimalware-Scanner | 178 | 33| 
 | 20210309T13:06:00Z | PS4 Exploits 1.01-7.02 | https://github.com/Buzbee/Buzbee.github.io | 0 | 1| 
 | 20210309T13:02:25Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 9 | 4| 
 | 20210309T12:59:50Z | Detect webshells dropped on Microsoft Exchange servers exploited through %proxylogon% group of vulnerabilites (CVE-2021-26855, CVE-2021-26857, CVE-2021-26858, CVE-2021-27065) | https://github.com/cert-lv/exchange_webshell_detection | 62 | 9| 
@@ -64,12 +65,12 @@
 | 20210309T12:36:50Z | Linux privilege escalation auditing tool | https://github.com/mzet-/linux-exploit-suggester | 2458 | 658| 
 | 20210309T12:24:21Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9106 | 1467| 
 | 20210309T12:22:57Z | Modified Eternal Blue with metasploit pipelist added | https://github.com/adithyan-ak/MS17-010-Manual-Exploit | 0 | 0| 
-| 20210309T12:14:54Z | New ExploitAPI with AntiBan and supports most DLL%s, Pipes and has some tools | https://github.com/TERIHAX/ExploitAPI | 0 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210309T13:09:21Z | AMWScan (PHP Antimalware Scanner) is a free tool to scan php files and analyze your project to find any malicious code inside it. | https://github.com/marcocesarato/PHP-Antimalware-Scanner | 178 | 33| 
 | 20210309T09:23:41Z | TrojanZoo provides a universal pytorch platform to conduct security researches (especially backdoor attacks/defenses) of image classification in deep learning. | https://github.com/ain-soph/trojanzoo | 48 | 8| 
 | 20210309T07:28:59Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 185 | 29| 
 | 20210309T01:01:49Z | Full-featured C2 framework which silently persists on webserver with a single-line PHP backdoor | https://github.com/nil0x42/phpsploit | 1175 | 335| 
