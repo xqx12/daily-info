@@ -54,7 +54,7 @@
 | 20210309T09:04:43Z | CVE-2021-1732 | CVE-­2021­-1732 Microsoft Windows 10 本地提权漏 研究及Poc/Exploit开发 | https://github.com/k-k-k-k-k/CVE-2021-1732 | Windows Win32k Elevation of Privilege Vulnerability This CVE ID is unique from CVE-2021-1698.| 
 | 20210309T08:06:04Z | CVE-2021-25837 | Null | https://github.com/iczc/CVE-2021-25837 | Cosmos Network Ethermint <= v0.4.0 is affected by cache lifecycle inconsistency in the EVM module. Due to the inconsistency between the Storage caching cycle and the Tx processing cycle, Storage changes caused by a failed transaction are improperly reserved in memory. Although the bad storage cache data will be discarded at EndBlock, it is still valid in the current block, which enables many possible attacks such as an %arbitrary mint token%.| 
 | 20210309T07:33:13Z | CVE-2021-26855 | CVE-2021-26855  Exchange SSRF POC | https://github.com/Yt1g3r/CVE-2021-26855_SSRF | Microsoft Exchange Server Remote Code Execution Vulnerability This CVE ID is unique from CVE-2021-26412, CVE-2021-26854, CVE-2021-26857, CVE-2021-26858, CVE-2021-27065, CVE-2021-27078.| 
-| 20210309T06:42:52Z | CVE-2021-26855 | This script helps to identify  CVE-2021-26855  ssrf Poc | https://github.com/pussycat0x/CVE-2021-26855-SSRF | | 
+| 20210309T06:42:52Z | CVE-2021-26855 | This script helps to identify  CVE-2021-26855  ssrf Poc | https://github.com/pussycat0x/CVE-2021-26855-SSRF | Microsoft Exchange Server Remote Code Execution Vulnerability This CVE ID is unique from CVE-2021-26412, CVE-2021-26854, CVE-2021-26857, CVE-2021-26858, CVE-2021-27065, CVE-2021-27078.| 
 | 20210309T02:49:19Z | CVE-2021-26855 | CVE-2021-26855 exp | https://github.com/GreyOrder/CVE-2021-26855 | Microsoft Exchange Server Remote Code Execution Vulnerability This CVE ID is unique from CVE-2021-26412, CVE-2021-26854, CVE-2021-26857, CVE-2021-26858, CVE-2021-27065, CVE-2021-27078.| 
 
 
@@ -82,6 +82,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210309T13:37:46Z | Null | https://github.com/dock0d1/Apache-Struts-2-CVE-2017-5638-Exploit | 2 | 0| 
 | 20210309T13:20:01Z | AMWScan (PHP Antimalware Scanner) is a free tool to scan php files and analyze your project to find any malicious code inside it. | https://github.com/marcocesarato/PHP-Antimalware-Scanner | 178 | 33| 
 | 20210309T13:17:08Z | This bash script will help you to hack remote hosts  | https://github.com/FabioDefilippo/linuxallremote | 8 | 1| 
 | 20210309T13:12:44Z | Set of CLI tools for automatically generating (as well as testing) PHP exploits. | https://github.com/madberries/sourceforage | 0 | 0| 
@@ -89,7 +90,6 @@
 | 20210309T13:06:00Z | PS4 Exploits 1.01-7.02 | https://github.com/Buzbee/Buzbee.github.io | 0 | 1| 
 | 20210309T13:02:25Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 9 | 4| 
 | 20210309T12:59:50Z | Detect webshells dropped on Microsoft Exchange servers exploited through %proxylogon% group of vulnerabilites (CVE-2021-26855, CVE-2021-26857, CVE-2021-26858, CVE-2021-27065) | https://github.com/cert-lv/exchange_webshell_detection | 62 | 9| 
-| 20210309T12:57:36Z | Null | https://github.com/dock0d1/Apache-Struts-2-CVE-2017-5638-Exploit | 0 | 0| 
 | 20210309T12:46:52Z | Welcome to Ethereum vulnerabilities and exploits. Start here! | https://github.com/ethereumvex/welcome | 0 | 0| 
 | 20210309T12:36:50Z | Linux privilege escalation auditing tool | https://github.com/mzet-/linux-exploit-suggester | 2458 | 658| 
 
@@ -97,6 +97,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210309T13:36:17Z | Client Server Combination of Backdoor application created using c++ | https://github.com/Shah-Panam/Backdoor | 0 | 0| 
 | 20210309T13:20:01Z | AMWScan (PHP Antimalware Scanner) is a free tool to scan php files and analyze your project to find any malicious code inside it. | https://github.com/marcocesarato/PHP-Antimalware-Scanner | 178 | 33| 
 | 20210309T09:23:41Z | TrojanZoo provides a universal pytorch platform to conduct security researches (especially backdoor attacks/defenses) of image classification in deep learning. | https://github.com/ain-soph/trojanzoo | 48 | 8| 
 | 20210309T07:28:59Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 185 | 29| 
@@ -106,7 +107,6 @@
 | 20210308T16:48:31Z | server and target backdoor with python | https://github.com/zeru2/backdoor | 0 | 0| 
 | 20210308T15:36:26Z | Null | https://github.com/Innovo-Incorporated/backdoor-node | 0 | 0| 
 | 20210308T15:31:49Z | Tools untuk scan Shell backdoor cocok buat lu yang mau nikung deface orang:v | https://github.com/Xclowns9/shellscanner | 1 | 0| 
-| 20210308T12:46:49Z | Null | https://github.com/Delle9999/backdoor | 0 | 0| 
 
 
 # fuzz on Github 推荐
