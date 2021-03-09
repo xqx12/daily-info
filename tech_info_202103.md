@@ -55,7 +55,7 @@
 | 20210309T00:12:17Z | CVE-2021-26855 | CVE-2021-26855 SSRF Exchange Server | https://github.com/Th3eCrow/CVE-2021-26855-SSRF-Exchange | Microsoft Exchange Server Remote Code Execution Vulnerability This CVE ID is unique from CVE-2021-26412, CVE-2021-26854, CVE-2021-26857, CVE-2021-26858, CVE-2021-27065, CVE-2021-27078.| 
 | 20210308T23:57:36Z | CVE-2021-26855 | PoC for CVE-2021-26855 -Just a checker- | https://github.com/0xAbdullah/CVE-2021-26855 | Microsoft Exchange Server Remote Code Execution Vulnerability This CVE ID is unique from CVE-2021-26412, CVE-2021-26854, CVE-2021-26857, CVE-2021-26858, CVE-2021-27065, CVE-2021-27078.| 
 | 20210308T23:29:54Z | CVE-2021-26855 | CVE-2021-26855 SSRF Exchange Server | https://github.com/Udyz/CVE-2021-26855 | Microsoft Exchange Server Remote Code Execution Vulnerability This CVE ID is unique from CVE-2021-26412, CVE-2021-26854, CVE-2021-26857, CVE-2021-26858, CVE-2021-27065, CVE-2021-27078.| 
-| 20210308T18:20:13Z | CVE-2020-29134 | Null | https://github.com/lucxssouza/CVE-2020-29134 | | 
+| 20210308T18:20:13Z | CVE-2020-29134 | Null | https://github.com/lucxssouza/CVE-2020-29134 | TOTVS Fluig Luke 1.7.0 allows directory traversal via a base64 encoded file=../ to a volume/stream/ URI. This affects: Fluig Lake 1.7.0-210217, Fluig Lake 1.7.0-210209, Fluig Lake 1.7.0-210112, Fluig Lake 1.7.0-201222, Fluig Lake 1.7.0-201215, Fluig Lake 1.7.0-201201,Fluig Lake 1.7.0-201124, Fluig Lake 1.7.0-201117, Fluig Lake 1.7.0-201103, Fluig Lake 1.7.0-201027, Fluig Lake 1.7.0-201020, Fluig Lake 1.7.0-201013, Fluig Lake 1.7.0-201006, Fluig Lake 1.7.0-200915, Fluig Lake 1.7.0-200907, Fluig Lake 1.7.0-200901, Fluig Lake 1.7.0-200825, Fluig Lake 1.7.0-200818, Fluig Lake 1.7.0-200804, Fluig Lake 1.7.0-200616), Fluig 1.6.5-200915, Fluig 1.6.5-200128, Fluig 1.6.5-191029, and Fluig 1.6.4-181026.| 
 
 
 # klee on Github 推荐
@@ -82,6 +82,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210309T02:37:51Z | Automated solver of classic CTF pwn challenges, with flexibility in mind. | https://github.com/mariuszskon/autorop | 1 | 0| 
 | 20210309T02:36:47Z | A new, pretty, simple, cross-platform GUI-based tool for injecting payloads onto your Switch to boot into Atmosphere, Hekate, Android etc! Available for Windows, MacOS and Linux. | https://github.com/versionxcontrol/super-payload-launcher | 5 | 0| 
 | 20210309T02:23:24Z | A research repository (currently all cyber security). Retired HackTheBox machine walk throughs are here as well as some exploit development notes(currently there%s one exploit) and soon malware analysis notes will be located in this repository. | https://github.com/7248510/Research | 0 | 0| 
 | 20210309T02:13:54Z | Null | https://github.com/oneoy/CVE-2021-1732-Exploit | 0 | 0| 
@@ -91,7 +92,6 @@
 | 20210309T01:51:21Z | Live updated project of me coding a mass vuln / exploit scanner  | https://github.com/rpie/Vulner | 1 | 0| 
 | 20210309T01:29:20Z | Various ASM, C and C++ tools, shellcodes and exploit experiments. | https://github.com/forrest-orr/ExploitDev | 54 | 6| 
 | 20210309T01:12:01Z | PS4 Exploits 1.01-7.02 | https://github.com/Buzbee/Buzbee.github.io | 0 | 1| 
-| 20210309T01:09:34Z | Set of CLI tools for automatically generating (as well as testing) PHP exploits. | https://github.com/madberries/sourceforage | 0 | 0| 
 
 
 # backdoor on Github 推荐
