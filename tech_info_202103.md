@@ -47,9 +47,9 @@
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
 | 20210309T13:23:10Z | cve-2021-27065 | Quick One Line Powershell scripts to detect for webshells, possible zips, and logs. | https://github.com/adamrpostjr/cve-2021-27065 | Microsoft Exchange Server Remote Code Execution Vulnerability This CVE ID is unique from CVE-2021-26412, CVE-2021-26854, CVE-2021-26855, CVE-2021-26857, CVE-2021-26858, CVE-2021-27078.| 
-| 20210309T12:58:47Z | CVE-2021-26855 | CVE-2021-26855 SSRF Exchange Server | https://github.com/Udyz/CVE-2021-26855 | Microsoft Exchange Server Remote Code Execution Vulnerability This CVE ID is unique from CVE-2021-26412, CVE-2021-26854, CVE-2021-26857, CVE-2021-26858, CVE-2021-27065, CVE-2021-27078.| 
+| 20210309T12:58:47Z | CVE-2021-26855 | CVE-2021-26855 SSRF Exchange Server | https://github.com/Udyz/CVE-2021-26855 | | 
 | 20210309T12:44:55Z | CVE-2021-26855 | CVE-2021-26855 exp | https://github.com/jsdryan/CVE-2021-26855 | Microsoft Exchange Server Remote Code Execution Vulnerability This CVE ID is unique from CVE-2021-26412, CVE-2021-26854, CVE-2021-26857, CVE-2021-26858, CVE-2021-27065, CVE-2021-27078.| 
-| 20210309T11:57:26Z | CVE-2021-26855 | Microsoft Exchange Server Remote Code Execution Vulnerability (ProxyLogon) | https://github.com/PwCNO-CTO/CVE-2021-26855 | Microsoft Exchange Server Remote Code Execution Vulnerability This CVE ID is unique from CVE-2021-26412, CVE-2021-26854, CVE-2021-26857, CVE-2021-26858, CVE-2021-27065, CVE-2021-27078.| 
+| 20210309T11:57:26Z | CVE-2021-26855 | Microsoft Exchange Server Remote Code Execution Vulnerability (ProxyLogon) | https://github.com/PwCNO-CTO/CVE-2021-26855 | | 
 | 20210309T11:36:21Z | CVE-2020-10977 | Gitlab v12.4.0-8.1 RCE | https://github.com/Liath/CVE-2020-10977 | GitLab EE/CE 8.5 to 12.9 is vulnerable to a an path traversal when moving an issue between projects.| 
 | 20210309T09:04:43Z | CVE-2021-1732 | CVE-­2021­-1732 Microsoft Windows 10 本地提权漏 研究及Poc/Exploit开发 | https://github.com/k-k-k-k-k/CVE-2021-1732 | Windows Win32k Elevation of Privilege Vulnerability This CVE ID is unique from CVE-2021-1698.| 
 | 20210309T08:06:04Z | CVE-2021-25837 | Null | https://github.com/iczc/CVE-2021-25837 | Cosmos Network Ethermint <= v0.4.0 is affected by cache lifecycle inconsistency in the EVM module. Due to the inconsistency between the Storage caching cycle and the Tx processing cycle, Storage changes caused by a failed transaction are improperly reserved in memory. Although the bad storage cache data will be discarded at EndBlock, it is still valid in the current block, which enables many possible attacks such as an %arbitrary mint token%.| 
@@ -82,6 +82,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210309T13:44:49Z | Forestry Thematic Exploitation Platform | https://github.com/cgi-eoss/ftep | 4 | 0| 
 | 20210309T13:37:46Z | Null | https://github.com/dock0d1/Apache-Struts-2-CVE-2017-5638-Exploit | 2 | 0| 
 | 20210309T13:20:01Z | AMWScan (PHP Antimalware Scanner) is a free tool to scan php files and analyze your project to find any malicious code inside it. | https://github.com/marcocesarato/PHP-Antimalware-Scanner | 178 | 33| 
 | 20210309T13:17:08Z | This bash script will help you to hack remote hosts  | https://github.com/FabioDefilippo/linuxallremote | 8 | 1| 
@@ -91,7 +92,6 @@
 | 20210309T13:02:25Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 9 | 4| 
 | 20210309T12:59:50Z | Detect webshells dropped on Microsoft Exchange servers exploited through %proxylogon% group of vulnerabilites (CVE-2021-26855, CVE-2021-26857, CVE-2021-26858, CVE-2021-27065) | https://github.com/cert-lv/exchange_webshell_detection | 62 | 9| 
 | 20210309T12:46:52Z | Welcome to Ethereum vulnerabilities and exploits. Start here! | https://github.com/ethereumvex/welcome | 0 | 0| 
-| 20210309T12:36:50Z | Linux privilege escalation auditing tool | https://github.com/mzet-/linux-exploit-suggester | 2458 | 658| 
 
 
 # backdoor on Github 推荐
