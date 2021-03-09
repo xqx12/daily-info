@@ -90,16 +90,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210308T13:49:09Z | Null | https://github.com/Migweld/fuzzy-succotash | 0 | 0| 
-| 20210308T13:47:30Z | Null | https://github.com/GBA-Max-YT/fuzzy-octo-couscous | 0 | 0| 
-| 20210308T13:42:58Z | Personal website of Laurence Hughes | https://github.com/fuzzylogicxx/fuzzylogic | 4 | 1| 
-| 20210308T13:34:28Z | Null | https://github.com/s9varesc/url-fuzzing | 0 | 0| 
-| 20210308T13:21:45Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6001 | 1204| 
-| 20210308T13:18:43Z | Null | https://github.com/ethereum/solidity-fuzzing-corpus | 10 | 4| 
-| 20210308T13:15:49Z | fuzzer http ( hackingyseguridad.com ) | https://github.com/hackingyseguridad/fuzzer | 0 | 1| 
-| 20210308T12:51:05Z | Null | https://github.com/pxiaoer/Fuzzing-Tutorial | 0 | 0| 
-| 20210308T12:42:41Z | Fuzzing cryptographic libraries. Magic bug printer go brrrr. | https://github.com/guidovranken/cryptofuzz | 256 | 36| 
-| 20210308T12:18:33Z | This tool uses fzf(1)-like fuzzy-finder to do partial or fuzzy search of Kubernetes resources. Instead of specifying full resource names to kubectl commands, you can choose them from an interactive list that you can filter by typing a few characters. | https://github.com/d-kuro/kubectl-fuzzy | 82 | 9| 
+| 20210308T23:51:14Z | Null | https://github.com/usmc1969/fuzzy-enigma | 0 | 0| 
+| 20210308T23:41:34Z | libFuzzer  from https://chromium.googlesource.com/chromium/llvm-project/llvm/lib/Fuzzer | https://github.com/satng/Fuzzer | 0 | 0| 
+| 20210308T23:24:20Z | Rapid fuzzy string matching in Python using the Levenshtein Distance | https://github.com/maxbachmann/RapidFuzz | 801 | 30| 
+| 20210308T23:13:23Z | Null | https://github.com/PBearson/MQTT_Fuzzer | 0 | 0| 
+| 20210308T23:08:44Z | A neural-fuzzy system to balance inverted pendulum | https://github.com/h2df/neural-fuzzy | 0 | 0| 
+| 20210308T22:52:44Z | CS 4152 Project | https://github.com/nicbarone/Fuzzy-Kiwi | 0 | 0| 
+| 20210308T22:46:45Z | Easy to use and powerful fuzzy string matching, port of fuzzywuzzy. | https://github.com/nol13/fuzzball.js | 225 | 26| 
+| 20210308T22:28:52Z | Fuzzing cryptographic libraries. Magic bug printer go brrrr. | https://github.com/guidovranken/cryptofuzz | 256 | 36| 
+| 20210308T22:16:56Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6002 | 1204| 
+| 20210308T22:16:16Z | Null | https://github.com/qianzhanghk/BigFuzz | 10 | 1| 
 
 
 
