@@ -53,7 +53,7 @@
 | 20210309T09:04:43Z | CVE-2021-1732 | CVE-­2021­-1732 Microsoft Windows 10 本地提权漏 研究及Poc/Exploit开发 | https://github.com/k-k-k-k-k/CVE-2021-1732 | Windows Win32k Elevation of Privilege Vulnerability This CVE ID is unique from CVE-2021-1698.| 
 | 20210309T08:09:54Z | cve-2021-27065 | Quick One Line Powershell scripts to detect for webshells, possible zips, and logs. | https://github.com/adamrpostjr/cve-2021-27065 | Microsoft Exchange Server Remote Code Execution Vulnerability This CVE ID is unique from CVE-2021-26412, CVE-2021-26854, CVE-2021-26855, CVE-2021-26857, CVE-2021-26858, CVE-2021-27078.| 
 | 20210309T08:06:04Z | CVE-2021-25837 | Null | https://github.com/iczc/CVE-2021-25837 | Cosmos Network Ethermint <= v0.4.0 is affected by cache lifecycle inconsistency in the EVM module. Due to the inconsistency between the Storage caching cycle and the Tx processing cycle, Storage changes caused by a failed transaction are improperly reserved in memory. Although the bad storage cache data will be discarded at EndBlock, it is still valid in the current block, which enables many possible attacks such as an %arbitrary mint token%.| 
-| 20210309T07:33:13Z | CVE-2021-26855 | CVE-2021-26855  Exchange SSRF POC | https://github.com/Yt1g3r/CVE-2021-26855_SSRF | | 
+| 20210309T07:33:13Z | CVE-2021-26855 | CVE-2021-26855  Exchange SSRF POC | https://github.com/Yt1g3r/CVE-2021-26855_SSRF | Microsoft Exchange Server Remote Code Execution Vulnerability This CVE ID is unique from CVE-2021-26412, CVE-2021-26854, CVE-2021-26857, CVE-2021-26858, CVE-2021-27065, CVE-2021-27078.| 
 | 20210309T06:42:52Z | CVE-2021-26855 | This script helps to identify  CVE-2021-26855  ssrf Poc | https://github.com/pussycat0x/CVE-2021-26855-SSRF | Microsoft Exchange Server Remote Code Execution Vulnerability This CVE ID is unique from CVE-2021-26412, CVE-2021-26854, CVE-2021-26857, CVE-2021-26858, CVE-2021-27065, CVE-2021-27078.| 
 | 20210309T02:49:19Z | CVE-2021-26855 | CVE-2021-26855 exp | https://github.com/GreyOrder/CVE-2021-26855 | Microsoft Exchange Server Remote Code Execution Vulnerability This CVE ID is unique from CVE-2021-26412, CVE-2021-26854, CVE-2021-26857, CVE-2021-26858, CVE-2021-27065, CVE-2021-27078.| 
 
@@ -82,6 +82,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210309T13:02:25Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 9 | 4| 
 | 20210309T13:00:42Z | PS4 Exploits 1.01-7.02 | https://github.com/Buzbee/Buzbee.github.io | 0 | 1| 
 | 20210309T12:59:50Z | Detect webshells dropped on Microsoft Exchange servers exploited through %proxylogon% group of vulnerabilites (CVE-2021-26855, CVE-2021-26857, CVE-2021-26858, CVE-2021-27065) | https://github.com/cert-lv/exchange_webshell_detection | 62 | 9| 
 | 20210309T12:57:36Z | Null | https://github.com/dock0d1/Apache-Struts-2-CVE-2017-5638-Exploit | 0 | 0| 
@@ -91,7 +92,6 @@
 | 20210309T12:24:21Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9106 | 1467| 
 | 20210309T12:22:57Z | Modified Eternal Blue with metasploit pipelist added | https://github.com/adithyan-ak/MS17-010-Manual-Exploit | 0 | 0| 
 | 20210309T12:14:54Z | New ExploitAPI with AntiBan and supports most DLL%s, Pipes and has some tools | https://github.com/TERIHAX/ExploitAPI | 0 | 0| 
-| 20210309T12:02:41Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 9 | 4| 
 
 
 # backdoor on Github 推荐
