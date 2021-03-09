@@ -28,8 +28,8 @@
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
 | 20210309T12:58:47Z | CVE-2021-26855 | CVE-2021-26855 SSRF Exchange Server | https://github.com/Udyz/CVE-2021-26855 | Microsoft Exchange Server Remote Code Execution Vulnerability This CVE ID is unique from CVE-2021-26412, CVE-2021-26854, CVE-2021-26857, CVE-2021-26858, CVE-2021-27065, CVE-2021-27078.| 
-| 20210309T12:44:55Z | CVE-2021-26855 | CVE-2021-26855 exp | https://github.com/jsdryan/CVE-2021-26855 | Microsoft Exchange Server Remote Code Execution Vulnerability This CVE ID is unique from CVE-2021-26412, CVE-2021-26854, CVE-2021-26857, CVE-2021-26858, CVE-2021-27065, CVE-2021-27078.| 
-| 20210309T11:57:26Z | CVE-2021-26855 | Microsoft Exchange Server Remote Code Execution Vulnerability (ProxyLogon) | https://github.com/PwCNO-CTO/CVE-2021-26855 | Microsoft Exchange Server Remote Code Execution Vulnerability This CVE ID is unique from CVE-2021-26412, CVE-2021-26854, CVE-2021-26857, CVE-2021-26858, CVE-2021-27065, CVE-2021-27078.| 
+| 20210309T12:44:55Z | CVE-2021-26855 | CVE-2021-26855 exp | https://github.com/jsdryan/CVE-2021-26855 | | 
+| 20210309T11:57:26Z | CVE-2021-26855 | Microsoft Exchange Server Remote Code Execution Vulnerability (ProxyLogon) | https://github.com/PwCNO-CTO/CVE-2021-26855 | | 
 | 20210309T11:36:21Z | CVE-2020-10977 | Gitlab v12.4.0-8.1 RCE | https://github.com/Liath/CVE-2020-10977 | GitLab EE/CE 8.5 to 12.9 is vulnerable to a an path traversal when moving an issue between projects.| 
 | 20210309T09:04:43Z | CVE-2021-1732 | CVE-­2021­-1732 Microsoft Windows 10 本地提权漏 研究及Poc/Exploit开发 | https://github.com/k-k-k-k-k/CVE-2021-1732 | Windows Win32k Elevation of Privilege Vulnerability This CVE ID is unique from CVE-2021-1698.| 
 | 20210309T08:09:54Z | cve-2021-27065 | Quick One Line Powershell scripts to detect for webshells, possible zips, and logs. | https://github.com/adamrpostjr/cve-2021-27065 | Microsoft Exchange Server Remote Code Execution Vulnerability This CVE ID is unique from CVE-2021-26412, CVE-2021-26854, CVE-2021-26855, CVE-2021-26857, CVE-2021-26858, CVE-2021-27078.| 
@@ -55,8 +55,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210309T13:20:01Z | AMWScan (PHP Antimalware Scanner) is a free tool to scan php files and analyze your project to find any malicious code inside it. | https://github.com/marcocesarato/PHP-Antimalware-Scanner | 178 | 33| 
 | 20210309T13:17:08Z | This bash script will help you to hack remote hosts  | https://github.com/FabioDefilippo/linuxallremote | 8 | 1| 
-| 20210309T13:16:37Z | AMWScan (PHP Antimalware Scanner) is a free tool to scan php files and analyze your project to find any malicious code inside it. | https://github.com/marcocesarato/PHP-Antimalware-Scanner | 178 | 33| 
 | 20210309T13:12:44Z | Set of CLI tools for automatically generating (as well as testing) PHP exploits. | https://github.com/madberries/sourceforage | 0 | 0| 
 | 20210309T13:11:51Z | Exploration-Exploitation using MAB | https://github.com/aegoe/MAB | 0 | 1| 
 | 20210309T13:06:00Z | PS4 Exploits 1.01-7.02 | https://github.com/Buzbee/Buzbee.github.io | 0 | 1| 
@@ -70,7 +70,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210309T13:16:37Z | AMWScan (PHP Antimalware Scanner) is a free tool to scan php files and analyze your project to find any malicious code inside it. | https://github.com/marcocesarato/PHP-Antimalware-Scanner | 178 | 33| 
+| 20210309T13:20:01Z | AMWScan (PHP Antimalware Scanner) is a free tool to scan php files and analyze your project to find any malicious code inside it. | https://github.com/marcocesarato/PHP-Antimalware-Scanner | 178 | 33| 
 | 20210309T09:23:41Z | TrojanZoo provides a universal pytorch platform to conduct security researches (especially backdoor attacks/defenses) of image classification in deep learning. | https://github.com/ain-soph/trojanzoo | 48 | 8| 
 | 20210309T07:28:59Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 185 | 29| 
 | 20210309T01:01:49Z | Full-featured C2 framework which silently persists on webserver with a single-line PHP backdoor | https://github.com/nil0x42/phpsploit | 1175 | 335| 
