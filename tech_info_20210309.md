@@ -70,15 +70,24 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210309T09:23:41Z | TrojanZoo provides a universal pytorch platform to conduct security researches (especially backdoor attacks/defenses) of image classification in deep learning. | https://github.com/ain-soph/trojanzoo | 48 | 8| 
+| 20210309T07:28:59Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 185 | 29| 
 | 20210309T01:01:49Z | Full-featured C2 framework which silently persists on webserver with a single-line PHP backdoor | https://github.com/nil0x42/phpsploit | 1175 | 335| 
 
 
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210309T01:43:29Z | This is a Fuzzer library built in JS and nodeJS | https://github.com/fuzzing-unb/FuzzerJS | 0 | 0| 
-| 20210309T01:02:31Z | Null | https://github.com/lacygoill/vim-fuzzy | 0 | 0| 
-| 20210309T00:25:35Z | Null | https://github.com/Konrad-H/fuzzy-markdown | 0 | 0| 
+| 20210309T13:00:03Z | A fuzzor towards Linksys JNAP interfaces | https://github.com/Cossack9989/JNAP_FUZZ | 0 | 0| 
+| 20210309T12:40:11Z | Montage: A Neural Network Language Model-Guided JavaScript Engine Fuzzer | https://github.com/WSP-LAB/Montage | 41 | 7| 
+| 20210309T12:38:45Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6001 | 1207| 
+| 20210309T12:35:37Z | Scalable fuzzing infrastructure. | https://github.com/google/clusterfuzz | 4451 | 424| 
+| 20210309T12:10:54Z | fzf-like fuzzy-finder as a Go library | https://github.com/ktr0731/go-fuzzyfinder | 217 | 20| 
+| 20210309T11:21:04Z | Hacking tools written by me | https://github.com/fagcinsk/h4ck | 1 | 0| 
+| 20210309T11:19:05Z | Null | https://github.com/s9varesc/url-fuzzing | 0 | 0| 
+| 20210309T10:24:02Z | FormatFuzzer is a framework for high-efficiency, high-quality generation and parsing of binary inputs. | https://github.com/uds-se/FormatFuzzer | 114 | 12| 
+| 20210309T10:18:10Z | Collection of quality safety articles. Awesome articles.   | https://github.com/tom0li/collection-document | 1375 | 434| 
+| 20210309T09:47:43Z | Null | https://github.com/max-lulz/Fuzzy-C-Means | 0 | 0| 
 
 
 

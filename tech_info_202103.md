@@ -97,8 +97,9 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210309T09:23:41Z | TrojanZoo provides a universal pytorch platform to conduct security researches (especially backdoor attacks/defenses) of image classification in deep learning. | https://github.com/ain-soph/trojanzoo | 48 | 8| 
+| 20210309T07:28:59Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 185 | 29| 
 | 20210309T01:01:49Z | Full-featured C2 framework which silently persists on webserver with a single-line PHP backdoor | https://github.com/nil0x42/phpsploit | 1175 | 335| 
-| 20210308T22:37:14Z | TrojanZoo provides a universal pytorch platform to conduct security researches (especially backdoor attacks/defenses) of image classification in deep learning. | https://github.com/ain-soph/trojanzoo | 48 | 8| 
 | 20210308T20:12:21Z | Null | https://github.com/Wiilldd/backdoor | 0 | 0| 
 | 20210308T19:55:06Z | AMWScan (PHP Antimalware Scanner) is a free tool to scan php files and analyze your project to find any malicious code inside it. | https://github.com/marcocesarato/PHP-Antimalware-Scanner | 178 | 33| 
 | 20210308T17:11:40Z | nothing | https://github.com/mr-xmen786/linux-basic-backdoor | 0 | 0| 
@@ -106,22 +107,21 @@
 | 20210308T15:36:26Z | Null | https://github.com/Innovo-Incorporated/backdoor-node | 0 | 0| 
 | 20210308T15:31:49Z | Tools untuk scan Shell backdoor cocok buat lu yang mau nikung deface orang:v | https://github.com/Xclowns9/shellscanner | 1 | 0| 
 | 20210308T12:46:49Z | Null | https://github.com/Delle9999/backdoor | 0 | 0| 
-| 20210308T11:35:03Z | Windows RAT written in Java for learning purposes | https://github.com/hacefresko/JRAT | 0 | 0| 
 
 
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210309T01:43:29Z | This is a Fuzzer library built in JS and nodeJS | https://github.com/fuzzing-unb/FuzzerJS | 0 | 0| 
-| 20210309T01:02:31Z | Null | https://github.com/lacygoill/vim-fuzzy | 0 | 0| 
-| 20210309T00:25:35Z | Null | https://github.com/Konrad-H/fuzzy-markdown | 0 | 0| 
-| 20210308T23:51:14Z | Null | https://github.com/usmc1969/fuzzy-enigma | 0 | 0| 
-| 20210308T23:41:34Z | libFuzzer  from https://chromium.googlesource.com/chromium/llvm-project/llvm/lib/Fuzzer | https://github.com/satng/Fuzzer | 0 | 0| 
-| 20210308T23:24:20Z | Rapid fuzzy string matching in Python using the Levenshtein Distance | https://github.com/maxbachmann/RapidFuzz | 801 | 30| 
-| 20210308T23:13:23Z | Null | https://github.com/PBearson/MQTT_Fuzzer | 0 | 0| 
-| 20210308T23:08:44Z | A neural-fuzzy system to balance inverted pendulum | https://github.com/h2df/neural-fuzzy | 0 | 0| 
-| 20210308T22:52:44Z | CS 4152 Project | https://github.com/nicbarone/Fuzzy-Kiwi | 0 | 0| 
-| 20210308T22:46:45Z | Easy to use and powerful fuzzy string matching, port of fuzzywuzzy. | https://github.com/nol13/fuzzball.js | 225 | 26| 
+| 20210309T13:00:03Z | A fuzzor towards Linksys JNAP interfaces | https://github.com/Cossack9989/JNAP_FUZZ | 0 | 0| 
+| 20210309T12:40:11Z | Montage: A Neural Network Language Model-Guided JavaScript Engine Fuzzer | https://github.com/WSP-LAB/Montage | 41 | 7| 
+| 20210309T12:38:45Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6001 | 1207| 
+| 20210309T12:35:37Z | Scalable fuzzing infrastructure. | https://github.com/google/clusterfuzz | 4451 | 424| 
+| 20210309T12:10:54Z | fzf-like fuzzy-finder as a Go library | https://github.com/ktr0731/go-fuzzyfinder | 217 | 20| 
+| 20210309T11:21:04Z | Hacking tools written by me | https://github.com/fagcinsk/h4ck | 1 | 0| 
+| 20210309T11:19:05Z | Null | https://github.com/s9varesc/url-fuzzing | 0 | 0| 
+| 20210309T10:24:02Z | FormatFuzzer is a framework for high-efficiency, high-quality generation and parsing of binary inputs. | https://github.com/uds-se/FormatFuzzer | 114 | 12| 
+| 20210309T10:18:10Z | Collection of quality safety articles. Awesome articles.   | https://github.com/tom0li/collection-document | 1375 | 434| 
+| 20210309T09:47:43Z | Null | https://github.com/max-lulz/Fuzzy-C-Means | 0 | 0| 
 
 
 
