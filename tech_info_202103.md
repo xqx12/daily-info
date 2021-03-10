@@ -82,6 +82,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210310T02:49:55Z | here I provide a lot of features that you can use to find security holes in a website 😎 | https://github.com/penucuriCode/exploit404 | 1 | 0| 
 | 20210310T02:47:09Z | Repository for tools and proof of concept exploits used against Vulnserver. | https://github.com/danf42/vulnserver | 0 | 0| 
 | 20210310T02:46:17Z | Null | https://github.com/SammyKrosoft/Exchange-Vulnerability-02March2021-HAFNIUM-targeting-Exchange-Servers-with-0-day-exploits | 1 | 0| 
 | 20210310T02:40:21Z | Mass vulnerability checker Wordpress CMS | https://github.com/core1impact/wordpress-exploit | 0 | 0| 
@@ -91,7 +92,6 @@
 | 20210310T02:02:45Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 10 | 4| 
 | 20210310T01:53:25Z | A phased, evasive Path Traversal + LFI scanning & exploitation tool in Python | https://github.com/VainlyStrain/Vailyn | 102 | 6| 
 | 20210310T01:24:12Z | Set of CLI tools for automatically generating (as well as testing) PHP exploits. | https://github.com/madberries/sourceforage | 0 | 0| 
-| 20210310T00:55:02Z | Swiss Boot Memory Cards and Game Save Hacks a la GCMM | https://github.com/GameCubeHomebrew/GameSave-Exploits | 0 | 0| 
 
 
 # backdoor on Github 推荐
