@@ -48,7 +48,7 @@
 | --- | --- | --- | --- | ---| 
 | 20210310T02:17:27Z | CVE-2021-26855 | CVE-2021-26855 exp | https://github.com/jsdryan/CVE-2021-26855 | Microsoft Exchange Server Remote Code Execution Vulnerability This CVE ID is unique from CVE-2021-26412, CVE-2021-26854, CVE-2021-26857, CVE-2021-26858, CVE-2021-27065, CVE-2021-27078.| 
 | 20210310T01:59:14Z | CVE-2021-26855 | Null | https://github.com/h4x0r-dz/CVE-2021-26855 | Microsoft Exchange Server Remote Code Execution Vulnerability This CVE ID is unique from CVE-2021-26412, CVE-2021-26854, CVE-2021-26857, CVE-2021-26858, CVE-2021-27065, CVE-2021-27078.| 
-| 20210310T01:42:38Z | CVE-2021-1732 | CVE-­2021­-1732 Microsoft Windows 10 本地提权漏 研究及Poc/Exploit开发 | https://github.com/k-k-k-k-k/CVE-2021-1732 | | 
+| 20210310T01:42:38Z | CVE-2021-1732 | CVE-­2021­-1732 Microsoft Windows 10 本地提权漏 研究及Poc/Exploit开发 | https://github.com/k-k-k-k-k/CVE-2021-1732 | Windows Win32k Elevation of Privilege Vulnerability This CVE ID is unique from CVE-2021-1698.| 
 | 20210309T22:07:48Z | CVE-2021-26855 | PoC for CVE-2021-26855 -Just a checker- | https://github.com/0xAbdullah/CVE-2021-26855 | Microsoft Exchange Server Remote Code Execution Vulnerability This CVE ID is unique from CVE-2021-26412, CVE-2021-26854, CVE-2021-26857, CVE-2021-26858, CVE-2021-27065, CVE-2021-27078.| 
 | 20210309T21:59:55Z | CVE-2021-26855 | PoC exploit code for CVE-2021-26855 | https://github.com/srvaccount/CVE-2021-26855-PoC | Microsoft Exchange Server Remote Code Execution Vulnerability This CVE ID is unique from CVE-2021-26412, CVE-2021-26854, CVE-2021-26857, CVE-2021-26858, CVE-2021-27065, CVE-2021-27078.| 
 | 20210309T19:37:19Z | CVE-2021-3156 | Null | https://github.com/dock0d1/CVE-2021-3156 | Sudo before 1.9.5p2 has a Heap-based Buffer Overflow, allowing privilege escalation to root via %sudoedit -s% and a command-line argument that ends with a single backslash character.| 
@@ -97,6 +97,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210310T02:30:38Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 185 | 30| 
 | 20210309T19:50:55Z | Null | https://github.com/TomJuri/Ultimate-Backdoor | 0 | 0| 
 | 20210309T19:40:28Z | haj | https://github.com/RehderK/Backdoor | 0 | 0| 
 | 20210309T18:01:34Z | Tools untuk scan Shell backdoor cocok buat lu yang mau nikung deface orang:v | https://github.com/Xclowns9/shellscanner | 1 | 0| 
@@ -106,7 +107,6 @@
 | 20210309T14:10:29Z | AMWScan (PHP Antimalware Scanner) is a free tool to scan php files and analyze your project to find any malicious code inside it. | https://github.com/marcocesarato/PHP-Antimalware-Scanner | 178 | 33| 
 | 20210309T14:01:25Z | backdoor | https://github.com/muhammadrazan999/shell | 0 | 0| 
 | 20210309T13:41:00Z | Client Server Combination of Backdoor application created using c++ | https://github.com/Shah-Panam/Backdoor | 0 | 0| 
-| 20210309T07:28:59Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 185 | 30| 
 
 
 # fuzz on Github 推荐

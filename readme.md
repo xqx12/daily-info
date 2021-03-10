@@ -88,7 +88,7 @@
 | 20210309T14:10:29Z | AMWScan (PHP Antimalware Scanner) is a free tool to scan php files and analyze your project to find any malicious code inside it. | https://github.com/marcocesarato/PHP-Antimalware-Scanner | 178 | 33| 
 | 20210309T14:01:25Z | backdoor | https://github.com/muhammadrazan999/shell | 0 | 0| 
 | 20210309T13:41:00Z | Client Server Combination of Backdoor application created using c++ | https://github.com/Shah-Panam/Backdoor | 0 | 0| 
-| 20210309T07:28:59Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 185 | 30| 
+| 20210309T01:01:49Z | Full-featured C2 framework which silently persists on webserver with a single-line PHP backdoor | https://github.com/nil0x42/phpsploit | 1175 | 335| 
 
 
 # fuzz on Github 推荐
