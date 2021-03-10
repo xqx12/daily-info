@@ -112,6 +112,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210310T13:21:11Z | Null | https://github.com/hayeselnut/warm-and-fuzzies | 0 | 0| 
 | 20210310T13:00:53Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2283 | 116| 
 | 20210310T12:54:41Z | Rapid fuzzy string matching in Python using the Levenshtein Distance | https://github.com/maxbachmann/RapidFuzz | 802 | 30| 
 | 20210310T12:38:58Z | Null | https://github.com/VeriBlock/fuzz-corpus | 0 | 0| 
@@ -121,7 +122,6 @@
 | 20210310T12:17:06Z | Null | https://github.com/trucaremumbai/fuzzy-parakeet | 0 | 0| 
 | 20210310T11:55:45Z | Null | https://github.com/kinzhong/fuzzing-automation-tools | 1 | 0| 
 | 20210310T11:50:28Z | Null | https://github.com/Hilman9090/fuzzy-palm-tree | 0 | 0| 
-| 20210310T10:25:12Z | A Fuzzer implementation in Rust, following the general guidelines exposed in the https://www.fuzzingbook.org. | https://github.com/BrMtssk/Ruszzer | 0 | 0| 
 
 
 
