@@ -53,7 +53,7 @@
 | 20210309T21:59:55Z | CVE-2021-26855 | PoC exploit code for CVE-2021-26855 | https://github.com/srvaccount/CVE-2021-26855-PoC | Microsoft Exchange Server Remote Code Execution Vulnerability This CVE ID is unique from CVE-2021-26412, CVE-2021-26854, CVE-2021-26857, CVE-2021-26858, CVE-2021-27065, CVE-2021-27078.| 
 | 20210309T19:37:19Z | CVE-2021-3156 | Null | https://github.com/dock0d1/CVE-2021-3156 | Sudo before 1.9.5p2 has a Heap-based Buffer Overflow, allowing privilege escalation to root via %sudoedit -s% and a command-line argument that ends with a single backslash character.| 
 | 20210309T17:26:13Z | CVE-2021-26855 | CVE-2021-26855 SSRF Exchange Server | https://github.com/Udyz/CVE-2021-26855 | Microsoft Exchange Server Remote Code Execution Vulnerability This CVE ID is unique from CVE-2021-26412, CVE-2021-26854, CVE-2021-26857, CVE-2021-26858, CVE-2021-27065, CVE-2021-27078.| 
-| 20210309T14:36:32Z | CVE-2020-29134 | Exploit CVE-2020-29134 - TOTVS Fluig Platform - Path Traversal | https://github.com/lucxssouza/CVE-2020-29134 | | 
+| 20210309T14:36:32Z | CVE-2020-29134 | Exploit CVE-2020-29134 - TOTVS Fluig Platform - Path Traversal | https://github.com/lucxssouza/CVE-2020-29134 | TOTVS Fluig Platform allows directory traversal via a base64 encoded in paremeter %file=../% to a volume/stream/ URI. This affects: Fluig Lake 1.7.0-210217, Fluig Lake 1.7.0-210209, Fluig Lake 1.7.0-210112, Fluig Lake 1.7.0-201222, Fluig Lake 1.7.0-201215, Fluig Lake 1.7.0-201201,Fluig Lake 1.7.0-201124, Fluig Lake 1.7.0-201117, Fluig Lake 1.7.0-201103, Fluig Lake 1.7.0-201027, Fluig Lake 1.7.0-201020, Fluig Lake 1.7.0-201013, Fluig Lake 1.7.0-201006, Fluig Lake 1.7.0-200915, Fluig Lake 1.7.0-200907, Fluig Lake 1.7.0-200901, Fluig Lake 1.7.0-200825, Fluig Lake 1.7.0-200818, Fluig Lake 1.7.0-200804, Fluig Lake 1.7.0-200616), Fluig 1.6.5-200915, Fluig 1.6.5-200128, Fluig 1.6.5-191029, and Fluig 1.6.4-181026.| 
 | 20210309T14:27:58Z | cve-2021-27065 | Quick One Line Powershell scripts to detect for webshells, possible zips, and logs. | https://github.com/adamrpostjr/cve-2021-27065 | Microsoft Exchange Server Remote Code Execution Vulnerability This CVE ID is unique from CVE-2021-26412, CVE-2021-26854, CVE-2021-26855, CVE-2021-26857, CVE-2021-26858, CVE-2021-27078.| 
 | 20210309T11:57:26Z | CVE-2021-26855 | Microsoft Exchange Server Remote Code Execution Vulnerability (ProxyLogon) | https://github.com/PwCNO-CTO/CVE-2021-26855 | Microsoft Exchange Server Remote Code Execution Vulnerability This CVE ID is unique from CVE-2021-26412, CVE-2021-26854, CVE-2021-26857, CVE-2021-26858, CVE-2021-27065, CVE-2021-27078.| 
 
@@ -82,8 +82,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210310T02:40:21Z | Mass vulnerability checker Wordpress CMS | https://github.com/core1impact/wordpress-exploit | 0 | 0| 
 | 20210310T02:38:21Z | Very Simple lib to stylize i/o for prototypes or exploits | https://github.com/Ramoreik/quack | 0 | 0| 
-| 20210310T02:35:57Z | Mass vulnerability checker Wordpress CMS | https://github.com/core1impact/wordpress-exploit | 0 | 0| 
 | 20210310T02:18:26Z | Automatic Linux privesc via exploitation of low-hanging fruit e.g. gtfobins :arrow_up: :skull_and_crossbones: | https://github.com/liamg/traitor | 2597 | 115| 
 | 20210310T02:15:49Z | Live updated project of me coding a mass vuln / exploit scanner  | https://github.com/rpie/Vulner | 1 | 0| 
 | 20210310T02:02:45Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 10 | 4| 
@@ -97,7 +97,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210310T02:39:30Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 185 | 30| 
+| 20210310T02:40:19Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 185 | 30| 
 | 20210309T19:50:55Z | Null | https://github.com/TomJuri/Ultimate-Backdoor | 0 | 0| 
 | 20210309T19:40:28Z | haj | https://github.com/RehderK/Backdoor | 0 | 0| 
 | 20210309T18:01:34Z | Tools untuk scan Shell backdoor cocok buat lu yang mau nikung deface orang:v | https://github.com/Xclowns9/shellscanner | 1 | 0| 
