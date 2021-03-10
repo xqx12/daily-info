@@ -82,7 +82,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210310T02:56:10Z | Repository for tools and proof of concept exploits used against Vulnserver. | https://github.com/danf42/vulnserver | 0 | 0| 
+| 20210310T02:58:34Z | Repository for tools and proof of concept exploits used against Vulnserver. | https://github.com/danf42/vulnserver | 0 | 0| 
 | 20210310T02:49:55Z | here I provide a lot of features that you can use to find security holes in a website 😎 | https://github.com/penucuriCode/exploit404 | 1 | 0| 
 | 20210310T02:46:17Z | Null | https://github.com/SammyKrosoft/Exchange-Vulnerability-02March2021-HAFNIUM-targeting-Exchange-Servers-with-0-day-exploits | 1 | 0| 
 | 20210310T02:40:21Z | Mass vulnerability checker Wordpress CMS | https://github.com/core1impact/wordpress-exploit | 0 | 0| 
