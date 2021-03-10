@@ -82,6 +82,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210310T02:08:14Z | Automatic Linux privesc via exploitation of low-hanging fruit e.g. gtfobins :arrow_up: :skull_and_crossbones: | https://github.com/liamg/traitor | 2596 | 115| 
 | 20210310T02:02:45Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 10 | 4| 
 | 20210310T01:53:25Z | A phased, evasive Path Traversal + LFI scanning & exploitation tool in Python | https://github.com/VainlyStrain/Vailyn | 102 | 6| 
 | 20210310T01:24:12Z | Set of CLI tools for automatically generating (as well as testing) PHP exploits. | https://github.com/madberries/sourceforage | 0 | 0| 
@@ -91,7 +92,6 @@
 | 20210310T00:26:45Z | An open-source post-exploitation framework for students, researchers and developers. | https://github.com/malwaredllc/byob | 5975 | 1333| 
 | 20210310T00:24:17Z | forked version of funtuna, a homebrew ps2 app launcher designed to ease the pain of getting a stable exploit for those that have a console uncompatible with FreeMcBoot | https://github.com/israpps/Funtuna-Fork | 3 | 0| 
 | 20210309T23:20:25Z | Metasploit Post-Exploitation Gather module for Exchange Server | https://github.com/sophoslabs/metasploit_gather_exchange | 0 | 0| 
-| 20210309T23:14:35Z | Goal of this repo is to convert exploit-db python2 scripts to python3 | https://github.com/electronforce/py2to3 | 0 | 0| 
 
 
 # backdoor on Github 推荐
