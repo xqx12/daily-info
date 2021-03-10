@@ -112,9 +112,9 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210310T01:13:34Z | Simple Fuzzer for webforms written in Typescript | https://github.com/Hevia/fillnfuzz | 1 | 0| 
 | 20210310T01:01:16Z | This is a implementation of the chapters from fuzzingbook in python using docker container | https://github.com/Jclavo/fuzzingbook | 0 | 0| 
 | 20210310T00:52:41Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 1363 | 300| 
-| 20210310T00:22:10Z | Simple Fuzzer for webforms written in Typescript | https://github.com/Hevia/fillnfuzz | 0 | 0| 
 | 20210309T23:57:09Z | A fuzzer aflchurn | https://github.com/aflchurn/aflchurn | 0 | 0| 
 | 20210309T23:11:45Z | Null | https://github.com/TimArnettThales/FuzzyAsteroids | 2 | 2| 
 | 20210309T23:01:28Z | CS 4152 Project | https://github.com/nicbarone/Fuzzy-Kiwi | 0 | 0| 
