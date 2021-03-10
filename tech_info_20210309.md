@@ -41,7 +41,7 @@
 | 20210309T14:27:58Z | cve-2021-27065 | Quick One Line Powershell scripts to detect for webshells, possible zips, and logs. | https://github.com/adamrpostjr/cve-2021-27065 | Microsoft Exchange Server Remote Code Execution Vulnerability This CVE ID is unique from CVE-2021-26412, CVE-2021-26854, CVE-2021-26855, CVE-2021-26857, CVE-2021-26858, CVE-2021-27078.| 
 | 20210309T11:57:26Z | CVE-2021-26855 | Microsoft Exchange Server Remote Code Execution Vulnerability (ProxyLogon) | https://github.com/PwCNO-CTO/CVE-2021-26855 | Microsoft Exchange Server Remote Code Execution Vulnerability This CVE ID is unique from CVE-2021-26412, CVE-2021-26854, CVE-2021-26857, CVE-2021-26858, CVE-2021-27065, CVE-2021-27078.| 
 | 20210309T11:36:21Z | CVE-2020-10977 | Gitlab v12.4.0-8.1 RCE | https://github.com/Liath/CVE-2020-10977 | GitLab EE/CE 8.5 to 12.9 is vulnerable to a an path traversal when moving an issue between projects.| 
-| 20210309T08:06:04Z | CVE-2021-25837 | Null | https://github.com/iczc/CVE-2021-25837 | Cosmos Network Ethermint <= v0.4.0 is affected by cache lifecycle inconsistency in the EVM module. Due to the inconsistency between the Storage caching cycle and the Tx processing cycle, Storage changes caused by a failed transaction are improperly reserved in memory. Although the bad storage cache data will be discarded at EndBlock, it is still valid in the current block, which enables many possible attacks such as an %arbitrary mint token%.| 
+| 20210309T08:06:04Z | CVE-2021-25837 | Null | https://github.com/iczc/CVE-2021-25837 | | 
 
 
 # klee on Github 推荐
