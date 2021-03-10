@@ -82,6 +82,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210310T02:46:17Z | Null | https://github.com/SammyKrosoft/Exchange-Vulnerability-02March2021-HAFNIUM-targeting-Exchange-Servers-with-0-day-exploits | 1 | 0| 
 | 20210310T02:40:21Z | Mass vulnerability checker Wordpress CMS | https://github.com/core1impact/wordpress-exploit | 0 | 0| 
 | 20210310T02:38:21Z | Very Simple lib to stylize i/o for prototypes or exploits | https://github.com/Ramoreik/quack | 0 | 0| 
 | 20210310T02:18:26Z | Automatic Linux privesc via exploitation of low-hanging fruit e.g. gtfobins :arrow_up: :skull_and_crossbones: | https://github.com/liamg/traitor | 2597 | 115| 
@@ -91,7 +92,6 @@
 | 20210310T01:24:12Z | Set of CLI tools for automatically generating (as well as testing) PHP exploits. | https://github.com/madberries/sourceforage | 0 | 0| 
 | 20210310T00:55:02Z | Swiss Boot Memory Cards and Game Save Hacks a la GCMM | https://github.com/GameCubeHomebrew/GameSave-Exploits | 0 | 0| 
 | 20210310T00:50:21Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 9 | 5| 
-| 20210310T00:26:45Z | An open-source post-exploitation framework for students, researchers and developers. | https://github.com/malwaredllc/byob | 5975 | 1333| 
 
 
 # backdoor on Github 推荐
