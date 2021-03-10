@@ -46,7 +46,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20210310T01:03:33Z | CVE-2021-26855 | CVE-2021-26855 exp | https://github.com/jsdryan/CVE-2021-26855 | Microsoft Exchange Server Remote Code Execution Vulnerability This CVE ID is unique from CVE-2021-26412, CVE-2021-26854, CVE-2021-26857, CVE-2021-26858, CVE-2021-27065, CVE-2021-27078.| 
+| 20210310T01:03:33Z | CVE-2021-26855 | CVE-2021-26855 exp | https://github.com/jsdryan/CVE-2021-26855 | | 
 | 20210310T00:31:21Z | CVE-2021-1732 | CVE-­2021­-1732 Microsoft Windows 10 本地提权漏 研究及Poc/Exploit开发 | https://github.com/k-k-k-k-k/CVE-2021-1732 | Windows Win32k Elevation of Privilege Vulnerability This CVE ID is unique from CVE-2021-1698.| 
 | 20210309T23:25:18Z | CVE-2021-26855 | Null | https://github.com/h4x0r-dz/CVE-2021-26855 | Microsoft Exchange Server Remote Code Execution Vulnerability This CVE ID is unique from CVE-2021-26412, CVE-2021-26854, CVE-2021-26857, CVE-2021-26858, CVE-2021-27065, CVE-2021-27078.| 
 | 20210309T22:07:48Z | CVE-2021-26855 | PoC for CVE-2021-26855 -Just a checker- | https://github.com/0xAbdullah/CVE-2021-26855 | Microsoft Exchange Server Remote Code Execution Vulnerability This CVE ID is unique from CVE-2021-26412, CVE-2021-26854, CVE-2021-26857, CVE-2021-26858, CVE-2021-27065, CVE-2021-27078.| 
@@ -82,6 +82,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210310T01:09:24Z | Set of CLI tools for automatically generating (as well as testing) PHP exploits. | https://github.com/madberries/sourceforage | 0 | 0| 
 | 20210310T01:02:34Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 10 | 4| 
 | 20210310T00:55:02Z | Swiss Boot Memory Cards and Game Save Hacks a la GCMM | https://github.com/GameCubeHomebrew/GameSave-Exploits | 0 | 0| 
 | 20210310T00:50:21Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 9 | 5| 
@@ -91,7 +92,6 @@
 | 20210310T00:19:51Z | A phased, evasive Path Traversal + LFI scanning & exploitation tool in Python | https://github.com/VainlyStrain/Vailyn | 102 | 6| 
 | 20210309T23:20:25Z | Metasploit Post-Exploitation Gather module for Exchange Server | https://github.com/sophoslabs/metasploit_gather_exchange | 0 | 0| 
 | 20210309T23:14:35Z | Goal of this repo is to convert exploit-db python2 scripts to python3 | https://github.com/electronforce/py2to3 | 0 | 0| 
-| 20210309T23:02:26Z | Automatic Linux privesc via exploitation of low-hanging fruit e.g. gtfobins :arrow_up: :skull_and_crossbones: | https://github.com/liamg/traitor | 2595 | 115| 
 
 
 # backdoor on Github 推荐
@@ -112,16 +112,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210309T13:00:03Z | A fuzzor towards Linksys JNAP interfaces | https://github.com/Cossack9989/JNAP_FUZZ | 0 | 0| 
-| 20210309T12:40:11Z | Montage: A Neural Network Language Model-Guided JavaScript Engine Fuzzer | https://github.com/WSP-LAB/Montage | 41 | 7| 
-| 20210309T12:38:45Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6001 | 1207| 
-| 20210309T12:35:37Z | Scalable fuzzing infrastructure. | https://github.com/google/clusterfuzz | 4451 | 424| 
-| 20210309T12:10:54Z | fzf-like fuzzy-finder as a Go library | https://github.com/ktr0731/go-fuzzyfinder | 217 | 20| 
-| 20210309T11:21:04Z | Hacking tools written by me | https://github.com/fagcinsk/h4ck | 1 | 0| 
-| 20210309T11:19:05Z | Null | https://github.com/s9varesc/url-fuzzing | 0 | 0| 
-| 20210309T10:24:02Z | FormatFuzzer is a framework for high-efficiency, high-quality generation and parsing of binary inputs. | https://github.com/uds-se/FormatFuzzer | 114 | 12| 
-| 20210309T10:18:10Z | Collection of quality safety articles. Awesome articles.   | https://github.com/tom0li/collection-document | 1375 | 434| 
-| 20210309T09:47:43Z | Null | https://github.com/max-lulz/Fuzzy-C-Means | 0 | 0| 
+| 20210310T01:01:16Z | This is a implementation of the chapters from fuzzingbook in python using docker container | https://github.com/Jclavo/fuzzingbook | 0 | 0| 
+| 20210310T00:52:41Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 1363 | 300| 
+| 20210310T00:22:10Z | Simple Fuzzer for webforms written in Typescript | https://github.com/Hevia/fillnfuzz | 0 | 0| 
+| 20210309T23:57:09Z | A fuzzer aflchurn | https://github.com/aflchurn/aflchurn | 0 | 0| 
+| 20210309T23:11:45Z | Null | https://github.com/TimArnettThales/FuzzyAsteroids | 2 | 2| 
+| 20210309T23:01:28Z | CS 4152 Project | https://github.com/nicbarone/Fuzzy-Kiwi | 0 | 0| 
+| 20210309T22:10:44Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6006 | 1206| 
+| 20210309T21:04:19Z | Fuzzy charrs are fuzzy. | https://github.com/marenubium87/FuzzyCharr | 0 | 0| 
+| 20210309T20:54:52Z | Null | https://github.com/VeriBlock/fuzz-corpus | 0 | 0| 
+| 20210309T20:50:48Z | Some sort of a social network using react js, hello from 2004 :) | https://github.com/androranogajec/fuzzy-social-network | 0 | 0| 
 
 
 
