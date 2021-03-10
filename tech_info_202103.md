@@ -112,16 +112,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210310T01:13:34Z | Simple Fuzzer for webforms written in Typescript | https://github.com/Hevia/fillnfuzz | 1 | 0| 
-| 20210310T01:01:16Z | This is a implementation of the chapters from fuzzingbook in python using docker container | https://github.com/Jclavo/fuzzingbook | 0 | 0| 
-| 20210310T00:52:41Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 1363 | 300| 
-| 20210309T23:57:09Z | A fuzzer aflchurn | https://github.com/aflchurn/aflchurn | 0 | 0| 
-| 20210309T23:11:45Z | Null | https://github.com/TimArnettThales/FuzzyAsteroids | 2 | 2| 
-| 20210309T23:01:28Z | CS 4152 Project | https://github.com/nicbarone/Fuzzy-Kiwi | 0 | 0| 
-| 20210309T22:10:44Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6006 | 1206| 
-| 20210309T21:04:19Z | Fuzzy charrs are fuzzy. | https://github.com/marenubium87/FuzzyCharr | 0 | 0| 
-| 20210309T20:54:52Z | Null | https://github.com/VeriBlock/fuzz-corpus | 0 | 0| 
-| 20210309T20:50:48Z | Some sort of a social network using react js, hello from 2004 :) | https://github.com/androranogajec/fuzzy-social-network | 0 | 0| 
+| 20210310T13:00:53Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2283 | 116| 
+| 20210310T12:54:41Z | Rapid fuzzy string matching in Python using the Levenshtein Distance | https://github.com/maxbachmann/RapidFuzz | 802 | 30| 
+| 20210310T12:38:58Z | Null | https://github.com/VeriBlock/fuzz-corpus | 0 | 0| 
+| 20210310T12:38:15Z | Null | https://github.com/codeh4ck3r/Fuzzing | 0 | 0| 
+| 20210310T12:26:55Z | Null | https://github.com/s9varesc/url-fuzzing | 0 | 0| 
+| 20210310T12:20:15Z | FormatFuzzer is a framework for high-efficiency, high-quality generation and parsing of binary inputs. | https://github.com/uds-se/FormatFuzzer | 114 | 12| 
+| 20210310T12:17:06Z | Null | https://github.com/trucaremumbai/fuzzy-parakeet | 0 | 0| 
+| 20210310T11:55:45Z | Null | https://github.com/kinzhong/fuzzing-automation-tools | 1 | 0| 
+| 20210310T11:50:28Z | Null | https://github.com/Hilman9090/fuzzy-palm-tree | 0 | 0| 
+| 20210310T10:25:12Z | A Fuzzer implementation in Rust, following the general guidelines exposed in the https://www.fuzzingbook.org. | https://github.com/BrMtssk/Ruszzer | 0 | 0| 
 
 
 
