@@ -70,7 +70,7 @@
 | 20210309T23:02:26Z | Automatic Linux privesc via exploitation of low-hanging fruit e.g. gtfobins :arrow_up: :skull_and_crossbones: | https://github.com/liamg/traitor | 2595 | 115| 
 | 20210309T22:46:59Z | A CTF web app designed to teach software developers application security by showcasing what vulnerable code looks like, how to write code to exploit the vulnerability, and how to write code to patch the vulnerability. | https://github.com/neumaneuma/appseccheat.codes | 0 | 0| 
 | 20210309T22:12:03Z | buffer overflow exploit for vulnserver, feel free to use. | https://github.com/yezen19/vulnserverexploit | 0 | 0| 
-| 20210309T21:59:55Z | PoC exploit code for CVE-2021-26855 | https://github.com/srvaccount/CVE-2021-26855-PoC | 0 | 5| 
+| 20210309T21:59:55Z | PoC exploit code for CVE-2021-26855 | https://github.com/srvaccount/CVE-2021-26855-PoC | 0 | 6| 
 | 20210309T21:55:41Z | Exploits project Hacking Command Center | https://github.com/chacka0101/exploits | 3 | 6| 
 | 20210309T21:12:52Z | Exploit, Malware and Vulnerability Scoring Application  | https://github.com/idaholab/EMV | 3 | 1| 
 | 20210309T21:10:23Z | A program for the easy use of discord exploits. | https://github.com/NickedIBA/Disploit | 0 | 0| 
