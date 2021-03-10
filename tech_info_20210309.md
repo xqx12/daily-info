@@ -67,7 +67,7 @@
 | --- | --- | --- | --- | ---| 
 | 20210309T23:20:25Z | Metasploit Post-Exploitation Gather module for Exchange Server | https://github.com/sophoslabs/metasploit_gather_exchange | 0 | 0| 
 | 20210309T23:14:35Z | Goal of this repo is to convert exploit-db python2 scripts to python3 | https://github.com/electronforce/py2to3 | 0 | 0| 
-| 20210309T23:02:26Z | Automatic Linux privesc via exploitation of low-hanging fruit e.g. gtfobins :arrow_up: :skull_and_crossbones: | https://github.com/liamg/traitor | 2595 | 114| 
+| 20210309T23:02:26Z | Automatic Linux privesc via exploitation of low-hanging fruit e.g. gtfobins :arrow_up: :skull_and_crossbones: | https://github.com/liamg/traitor | 2595 | 115| 
 | 20210309T22:46:59Z | A CTF web app designed to teach software developers application security by showcasing what vulnerable code looks like, how to write code to exploit the vulnerability, and how to write code to patch the vulnerability. | https://github.com/neumaneuma/appseccheat.codes | 0 | 0| 
 | 20210309T22:12:03Z | buffer overflow exploit for vulnserver, feel free to use. | https://github.com/yezen19/vulnserverexploit | 0 | 0| 
 | 20210309T21:59:55Z | PoC exploit code for CVE-2021-26855 | https://github.com/srvaccount/CVE-2021-26855-PoC | 0 | 4| 

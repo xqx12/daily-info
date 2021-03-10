@@ -91,7 +91,7 @@
 | 20210310T00:19:51Z | A phased, evasive Path Traversal + LFI scanning & exploitation tool in Python | https://github.com/VainlyStrain/Vailyn | 102 | 6| 
 | 20210309T23:20:25Z | Metasploit Post-Exploitation Gather module for Exchange Server | https://github.com/sophoslabs/metasploit_gather_exchange | 0 | 0| 
 | 20210309T23:14:35Z | Goal of this repo is to convert exploit-db python2 scripts to python3 | https://github.com/electronforce/py2to3 | 0 | 0| 
-| 20210309T23:02:26Z | Automatic Linux privesc via exploitation of low-hanging fruit e.g. gtfobins :arrow_up: :skull_and_crossbones: | https://github.com/liamg/traitor | 2595 | 114| 
+| 20210309T23:02:26Z | Automatic Linux privesc via exploitation of low-hanging fruit e.g. gtfobins :arrow_up: :skull_and_crossbones: | https://github.com/liamg/traitor | 2595 | 115| 
 
 
 # backdoor on Github 推荐
