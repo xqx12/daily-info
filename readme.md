@@ -99,7 +99,6 @@
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
 | 20210310T23:44:23Z | The assignment for my Unzer application | https://github.com/predacristian/fuzzy-octo-assignment | 0 | 0| 
-| 20210310T23:41:20Z | Scalable fuzzing infrastructure. | https://github.com/google/clusterfuzz | 4457 | 424| 
 | 20210310T23:35:17Z | Fuzzing cryptographic libraries. Magic bug printer go brrrr. | https://github.com/guidovranken/cryptofuzz | 259 | 36| 
 | 20210310T23:32:50Z | REST API Fuzz Testing (RAFT): Source code for self-hosted service developed for Azure, including the API, orchestration engine, and default set of security tools (including MSR%s RESTler), that enables developers to embed security tooling into their CI/CD workflows | https://github.com/microsoft/rest-api-fuzz-testing | 110 | 17| 
 | 20210310T23:31:49Z | A fork and successor of the Sulley Fuzzing Framework | https://github.com/jtpereyda/boofuzz | 1165 | 235| 
@@ -108,6 +107,7 @@
 | 20210310T22:37:51Z | A data dependency-aware hybrid fuzzer for Ethereum smart contracts (EuroS&P 2021).  | https://github.com/christoftorres/ConFuzzius | 0 | 0| 
 | 20210310T22:06:46Z | A  playground to learn computer graphics | https://github.com/patiboh/fuzzy-playground | 1 | 0| 
 | 20210310T22:01:29Z | The code behind getfursu.it | https://github.com/veelkoov/fuzzrake | 6 | 0| 
+| 20210310T22:00:46Z | Null | https://github.com/connected-cjohnston/fuzzyblog | 0 | 0| 
 
 
 
