@@ -35,7 +35,7 @@
 | 20210311T08:25:51Z | CVE-2021-26855 | PoC for CVE-2021-26855 -Just a checker- | https://github.com/0xAbdullah/CVE-2021-26855 | Microsoft Exchange Server Remote Code Execution Vulnerability This CVE ID is unique from CVE-2021-26412, CVE-2021-26854, CVE-2021-26857, CVE-2021-26858, CVE-2021-27065, CVE-2021-27078.| 
 | 20210311T08:21:06Z | cve-2021-21972 | Null | https://github.com/d3sh1n/cve-2021-21972 | | 
 | 20210311T08:14:32Z | CVE-2021-3019 | [CVE-2021-3019] LanProxy Directory Traversal | https://github.com/murataydemir/CVE-2021-3019 | ffay lanproxy 0.1 allows Directory Traversal to read /../conf/config.properties to obtain credentials for a connection to the intranet.| 
-| 20210311T06:42:01Z | CVE-2021-26855 | Null | https://github.com/alt3kx/CVE-2021-26855_PoC | | 
+| 20210311T06:42:01Z | CVE-2021-26855 | Null | https://github.com/alt3kx/CVE-2021-26855_PoC | Microsoft Exchange Server Remote Code Execution Vulnerability This CVE ID is unique from CVE-2021-26412, CVE-2021-26854, CVE-2021-26857, CVE-2021-26858, CVE-2021-27065, CVE-2021-27078.| 
 | 20210311T04:14:28Z | CVE-2021-21300 | remote code exec for git | https://github.com/1uanWu/CVE-2021-21300 | Git is an open-source distributed revision control system. In affected versions of Git a specially crafted repository that contains symbolic links as well as files using a clean/smudge filter such as Git LFS, may cause just-checked out script to be executed while cloning onto a case-insensitive file system such as NTFS, HFS+ or APFS (i.e. the default file systems on Windows and macOS). Note that clean/smudge filters have to be configured for that. Git for Windows configures Git LFS by default, and is therefore vulnerable. The problem has been patched in the versions published on Tuesday, March 9th, 2021. As a workaound, if symbolic link support is disabled in Git (e.g. via `git config --global core.symlinks false`), the described attack won%t work. Likewise, if no clean/smudge filters such as Git LFS are configured globally (i.e. _before_ cloning), the attack is foiled. As always, it is best to avoid cloning repositories from untrusted sources. The earliest impacted version is 2.14.2. The fix versions are: 2.30.1, 2.29.3, 2.28.1, 2.27.1, 2.26.3, 2.25.5, 2.24.4, 2.23.4, 2.22.5, 2.21.4, 2.20.5, 2.19.6, 2.18.5, 2.17.62.17.6.| 
 | 20210311T03:31:00Z | CVE-2021-26855 | POC  of CVE-2021-26855, CVE-2021-26857, CVE-2021-26858, and CVE-2021-26865,  ProxyLogon poc | https://github.com/Yt1g3r/CVE-2021-26855_SSRF | Microsoft Exchange Server Remote Code Execution Vulnerability This CVE ID is unique from CVE-2021-26412, CVE-2021-26854, CVE-2021-26857, CVE-2021-26858, CVE-2021-27065, CVE-2021-27078.| 
 
@@ -55,6 +55,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210311T13:06:38Z | Null | https://github.com/faizxn/events-exploit-logs | 0 | 0| 
 | 20210311T13:02:30Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 10 | 5| 
 | 20210311T12:59:08Z | The project aims at building an effective regression model using regularization (i.e. advanced linear regression: Ridge and Lasso regression) in order to predict the actual value of the prospective housing properties and decide whether to invest in them or not. The goal of this project is to exploit the data insights using data analytics to purchase houses at a price below their actual values and flip them on at a higher price. | https://github.com/ChaitanyaC22/House-Price-Prediction-Project-for-a-US-based-housing-company | 0 | 0| 
 | 20210311T12:39:35Z | -------> RAFEL<------  Android Rat  Written in Java With WebPanel For Controlling Victims | https://github.com/swagkarna/Rafel-Rat | 9 | 5| 
@@ -64,7 +65,6 @@
 | 20210311T11:38:33Z | The hacking challenges I%ve solved | https://github.com/andrewbae/playground | 1 | 1| 
 | 20210311T11:20:30Z | Null | https://github.com/GloryToMoon/windows_lfi_exploit | 0 | 0| 
 | 20210311T10:55:10Z | Collection of docker images to be used for exploit development and testing | https://github.com/mishrasunny174/pwn-docker | 4 | 1| 
-| 20210311T10:36:31Z | Repo for testing some exploits | https://github.com/RobertFent/exploits | 0 | 0| 
 
 
 # backdoor on Github 推荐
