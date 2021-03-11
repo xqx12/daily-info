@@ -112,16 +112,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210310T13:21:11Z | Null | https://github.com/hayeselnut/warm-and-fuzzies | 0 | 0| 
-| 20210310T13:00:53Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2283 | 116| 
-| 20210310T12:54:41Z | Rapid fuzzy string matching in Python using the Levenshtein Distance | https://github.com/maxbachmann/RapidFuzz | 802 | 30| 
-| 20210310T12:38:58Z | Null | https://github.com/VeriBlock/fuzz-corpus | 0 | 0| 
-| 20210310T12:38:15Z | Null | https://github.com/codeh4ck3r/Fuzzing | 0 | 0| 
-| 20210310T12:26:55Z | Null | https://github.com/s9varesc/url-fuzzing | 0 | 0| 
-| 20210310T12:20:15Z | FormatFuzzer is a framework for high-efficiency, high-quality generation and parsing of binary inputs. | https://github.com/uds-se/FormatFuzzer | 114 | 12| 
-| 20210310T12:17:06Z | Null | https://github.com/trucaremumbai/fuzzy-parakeet | 0 | 0| 
-| 20210310T11:55:45Z | Null | https://github.com/kinzhong/fuzzing-automation-tools | 1 | 0| 
-| 20210310T11:50:28Z | Null | https://github.com/Hilman9090/fuzzy-palm-tree | 0 | 0| 
+| 20210311T01:01:32Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6027 | 1211| 
+| 20210311T00:11:52Z | CS 4152 Project | https://github.com/nicbarone/Fuzzy-Kiwi | 0 | 0| 
+| 20210311T00:09:44Z | Null | https://github.com/mike-ada/Ada-Fuzzball-Slam-Game-Logic | 0 | 0| 
+| 20210310T23:44:23Z | The assignment for my Unzer application | https://github.com/predacristian/fuzzy-octo-assignment | 0 | 0| 
+| 20210310T23:41:20Z | Scalable fuzzing infrastructure. | https://github.com/google/clusterfuzz | 4457 | 424| 
+| 20210310T23:35:17Z | Fuzzing cryptographic libraries. Magic bug printer go brrrr. | https://github.com/guidovranken/cryptofuzz | 259 | 36| 
+| 20210310T23:32:50Z | REST API Fuzz Testing (RAFT): Source code for self-hosted service developed for Azure, including the API, orchestration engine, and default set of security tools (including MSR%s RESTler), that enables developers to embed security tooling into their CI/CD workflows | https://github.com/microsoft/rest-api-fuzz-testing | 110 | 17| 
+| 20210310T23:31:49Z | A fork and successor of the Sulley Fuzzing Framework | https://github.com/jtpereyda/boofuzz | 1165 | 235| 
+| 20210310T22:54:50Z | 📖 Guides and tutorials on how to fuzz Rust code | https://github.com/rust-fuzz/book | 66 | 12| 
+| 20210310T22:52:21Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2284 | 117| 
 
 
 
