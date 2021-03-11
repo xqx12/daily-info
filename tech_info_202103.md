@@ -112,6 +112,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210311T01:45:03Z | Null | https://github.com/gabejw/fuzzy-guide | 0 | 0| 
 | 20210311T01:14:22Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6028 | 1211| 
 | 20210311T00:11:52Z | CS 4152 Project | https://github.com/nicbarone/Fuzzy-Kiwi | 0 | 0| 
 | 20210311T00:09:44Z | Null | https://github.com/mike-ada/Ada-Fuzzball-Slam-Game-Logic | 0 | 0| 
@@ -121,7 +122,6 @@
 | 20210310T23:32:50Z | REST API Fuzz Testing (RAFT): Source code for self-hosted service developed for Azure, including the API, orchestration engine, and default set of security tools (including MSR%s RESTler), that enables developers to embed security tooling into their CI/CD workflows | https://github.com/microsoft/rest-api-fuzz-testing | 110 | 17| 
 | 20210310T23:31:49Z | A fork and successor of the Sulley Fuzzing Framework | https://github.com/jtpereyda/boofuzz | 1165 | 235| 
 | 20210310T22:54:50Z | 📖 Guides and tutorials on how to fuzz Rust code | https://github.com/rust-fuzz/book | 66 | 12| 
-| 20210310T22:52:21Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2284 | 117| 
 
 
 
