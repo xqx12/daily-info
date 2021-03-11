@@ -82,6 +82,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210311T01:14:35Z | A cheat sheet that contains common enumeration and attack methods for Windows Active Directory. | https://github.com/S1ckB0y1337/Active-Directory-Exploitation-Cheat-Sheet | 1375 | 359| 
 | 20210311T01:02:40Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 10 | 5| 
 | 20210311T00:50:22Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 9 | 5| 
 | 20210311T00:33:29Z | A CTF web app designed to teach software developers application security by showcasing what vulnerable code looks like, how to write code to exploit the vulnerability, and how to write code to patch the vulnerability. | https://github.com/neumaneuma/appseccheat.codes | 0 | 0| 
@@ -91,7 +92,6 @@
 | 20210310T22:40:58Z | A Gaussian Process package to train and exploit Gaussian Process models | https://github.com/ShuaiGuo16/Gaussian-Process-Package | 0 | 0| 
 | 20210310T22:37:29Z | Windows Antivirus Evasion and Memory Injection | https://github.com/iDigitalFlame/InYourMems | 8 | 6| 
 | 20210310T22:36:59Z | Null | https://github.com/jlunde-cisco/siwapp-exploit-app | 0 | 0| 
-| 20210310T22:11:40Z | %The software will be building a network server from scratch that at startup will have the ability to selectively enable insecure portions of code that can be exploited. The software could be developed as a honeypot for detection of exploitation attempts within a network and/or as a practice server for pentesters.  The project may also need to develop companion software that can test the code, or collect logs from the server.% | https://github.com/TimHanneman/Multi_Purpose_Exploitable_Server | 0 | 0| 
 
 
 # backdoor on Github 推荐
