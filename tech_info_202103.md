@@ -82,6 +82,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210311T13:30:43Z | bespoke tooling for offensive security%s Windows Usermode Exploit Dev course (OSED) | https://github.com/epi052/osed-scripts | 0 | 0| 
 | 20210311T13:29:53Z | Null | https://github.com/SammyKrosoft/Exchange-Vulnerability-02March2021-HAFNIUM-targeting-Exchange-Servers-with-0-day-exploits | 1 | 0| 
 | 20210311T13:24:50Z | Null | https://github.com/th3ken-dev/TH3KEN-EDITON | 2 | 0| 
 | 20210311T13:15:41Z | Null | https://github.com/mike-hilton/binary-exploitation | 0 | 0| 
@@ -91,7 +92,6 @@
 | 20210311T12:39:35Z | -------> RAFEL<------  Android Rat  Written in Java With WebPanel For Controlling Victims | https://github.com/swagkarna/Rafel-Rat | 9 | 5| 
 | 20210311T12:11:44Z | This repository contains the code for %Exploiting Cloze Questions for Few-Shot Text Classification and Natural Language Inference% | https://github.com/timoschick/pet | 781 | 111| 
 | 20210311T11:59:54Z | forked version of funtuna, a homebrew ps2 app launcher designed to ease the pain of getting a stable exploit for those that have a console uncompatible with FreeMcBoot | https://github.com/israpps/Funtuna-Fork | 3 | 0| 
-| 20210311T11:47:38Z | Automated All-in-One OS Command Injection Exploitation Tool | https://github.com/commixproject/commix | 2556 | 596| 
 
 
 # backdoor on Github 推荐
