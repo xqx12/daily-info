@@ -22,6 +22,7 @@
 | 20210310 | Pwn2Own Tokyo 2020：成功破解TP-Link AC1750路由器 | https://www.synacktiv.com/en/publications/pwn2own-tokyo-2020-defeating-the-tp-link-ac1750.html| 
 | 20210310 | 航空公司的EFB设备安全性进行测试介绍 | https://www.pentestpartners.com/security-blog/efb-tampering-1-introduction-and-class-differences/| 
 | 20210310 | 路由器调试分析第1部分：通过UART发现和SPI闪存提取。 | https://wrongbaud.github.io/posts/router-teardown/| 
+| 20210310 | OSS-Fuzz 增加对 Fuzz Java 的支持，同时也支持其他基于 JVM-Based 的项目 | https://security.googleblog.com/2021/03/fuzzing-java-in-oss-fuzz.html?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+GoogleOnlineSecurityBlog+%28Google+Online+Security+Blog%29| 
 
 
 # 安全维基 推荐

@@ -22,10 +22,10 @@
 | 20210310 | Pwn2Own Tokyo 2020：成功破解TP-Link AC1750路由器 | https://www.synacktiv.com/en/publications/pwn2own-tokyo-2020-defeating-the-tp-link-ac1750.html| 
 | 20210310 | 航空公司的EFB设备安全性进行测试介绍 | https://www.pentestpartners.com/security-blog/efb-tampering-1-introduction-and-class-differences/| 
 | 20210310 | 路由器调试分析第1部分：通过UART发现和SPI闪存提取。 | https://wrongbaud.github.io/posts/router-teardown/| 
+| 20210310 | OSS-Fuzz 增加对 Fuzz Java 的支持，同时也支持其他基于 JVM-Based 的项目 | https://security.googleblog.com/2021/03/fuzzing-java-in-oss-fuzz.html?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+GoogleOnlineSecurityBlog+%28Google+Online+Security+Blog%29| 
 | 20210309 | Use-after-free (UaF) in Chrome AudioHandler - CVE-2020-15972, CVE-2021-21114 | https://securitylab.github.com/advisories/GHSL-2020-167-chrome/| 
 | 20210309 | V8 JIT compiler 类型混淆 CVE-2020-6507 RCE 漏洞在 macOS 系统的利用 | https://github.com/r0t0tiller/Exploits/tree/master/V8/CVE-2020-6507| 
 | 20210309 | Prime+Probe 1, JavaScript 0: Overcoming Browser-based Side-Channel Defenses | https://orenlab.sise.bgu.ac.il/p/PP0?k| 
-| 20210309 | 近期 Exchange CVE-2021-26855 SSRF 漏洞 Exploit | https://sec.today/pulses/48c13631-b753-4357-bf80-b4b20cdf7a44/| 
 
 
 # 安全维基 推荐
