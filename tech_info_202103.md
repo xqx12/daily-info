@@ -113,16 +113,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210312T02:07:28Z | Null | https://github.com/mochdhera03/fuzzy-octo-funicular | 0 | 0| 
-| 20210312T02:00:31Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6056 | 1214| 
-| 20210312T01:58:20Z | Null | https://github.com/giuseppe/containers-fuzzing-corpus | 1 | 0| 
-| 20210312T01:48:30Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2286 | 117| 
-| 20210312T01:42:28Z | Null | https://github.com/LucidPep/fuzzy | 0 | 0| 
-| 20210312T00:45:30Z | Null | https://github.com/JaewonHur/RTL_Fuzzing | 0 | 0| 
-| 20210312T00:41:33Z | FuzzingWorkshop | https://github.com/CSC-DevOps/Fuzzing | 0 | 32| 
-| 20210312T00:35:26Z | Simple rust fuzzer  | https://github.com/carstein/rfuss2 | 7 | 5| 
-| 20210312T00:25:36Z | The Book %Generating Software Tests% | https://github.com/uds-se/fuzzingbook | 545 | 109| 
-| 20210312T00:03:41Z | A cross-platform browser fuzzing framework | https://github.com/MozillaSecurity/grizzly | 233 | 31| 
+| 20210312T12:52:08Z | Some sort of a social network using react js, hello from 2004 :) | https://github.com/androranogajec/fuzzy-social-network | 0 | 0| 
+| 20210312T12:47:04Z | Coverage-guided, in-process fuzzing for the JVM | https://github.com/CodeIntelligenceTesting/jazzer | 232 | 10| 
+| 20210312T12:44:50Z | Null | https://github.com/s9varesc/url-fuzzing | 0 | 0| 
+| 20210312T12:40:10Z | Null | https://github.com/VeriBlock/fuzz-corpus | 0 | 0| 
+| 20210312T12:22:57Z | Null | https://github.com/AdamKorcz/go-fuzz-headers | 0 | 0| 
+| 20210312T12:17:16Z | Port of npm%s fuzzy-search | https://github.com/doomium-chloride/fuzzy-search-py | 0 | 0| 
+| 20210312T12:10:51Z | Project page for %The Fuzzing Book% | https://github.com/uds-se/fuzzingbook | 546 | 109| 
+| 20210312T11:40:36Z | Null | https://github.com/LucidPep/fuzzy | 0 | 0| 
+| 20210312T11:29:33Z | Null | https://github.com/revault/cosignerd_fuzz_corpus | 0 | 0| 
+| 20210312T11:27:56Z | A Fuzzy logic system example for Matlab | https://github.com/Madrant/fuzzy_logic_example | 0 | 0| 
 
 
 
