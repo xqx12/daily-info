@@ -29,11 +29,11 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20210312T12:56:43Z | CVE-2021-26855 | PoC of proxylogon chain SSRF(CVE-2021-26855) to write file by testanull, censored by github | https://github.com/hackerschoice/CVE-2021-26855 | Microsoft Exchange Server Remote Code Execution Vulnerability This CVE ID is unique from CVE-2021-26412, CVE-2021-26854, CVE-2021-26857, CVE-2021-26858, CVE-2021-27065, CVE-2021-27078.| 
+| 20210312T13:01:40Z | CVE-2021-26855 | CVE-2021-26855 SSRF Exchange Server | https://github.com/Udyz/CVE-2021-26855 | Microsoft Exchange Server Remote Code Execution Vulnerability This CVE ID is unique from CVE-2021-26412, CVE-2021-26854, CVE-2021-26857, CVE-2021-26858, CVE-2021-27065, CVE-2021-27078.| 
+| 20210312T12:56:43Z | CVE-2021-26855 | PoC of proxylogon chain SSRF(CVE-2021-26855) to write file by testanull, censored by github | https://github.com/hackerschoice/CVE-2021-26855 | | 
 | 20210312T12:55:59Z | CVE-2021-26855 | Scanner and PoC for CVE-2021-26855  | https://github.com/KotSec/CVE-2021-26855-Scanner | Microsoft Exchange Server Remote Code Execution Vulnerability This CVE ID is unique from CVE-2021-26412, CVE-2021-26854, CVE-2021-26857, CVE-2021-26858, CVE-2021-27065, CVE-2021-27078.| 
-| 20210312T12:08:32Z | CVE-2021-26855 | CVE-2021-26855 SSRF Exchange Server | https://github.com/Udyz/CVE-2021-26855 | Microsoft Exchange Server Remote Code Execution Vulnerability This CVE ID is unique from CVE-2021-26412, CVE-2021-26854, CVE-2021-26857, CVE-2021-26858, CVE-2021-27065, CVE-2021-27078.| 
 | 20210312T11:58:20Z | CVE-2020-29134 | Exploit CVE-2020-29134 - TOTVS Fluig Platform - Path Traversal | https://github.com/lucxssouza/CVE-2020-29134 | TOTVS Fluig Platform allows directory traversal via a base64 encoded in paremeter %file=../% to a volume/stream/ URI. This affects: Fluig Lake 1.7.0-210217, Fluig Lake 1.7.0-210209, Fluig Lake 1.7.0-210112, Fluig Lake 1.7.0-201222, Fluig Lake 1.7.0-201215, Fluig Lake 1.7.0-201201,Fluig Lake 1.7.0-201124, Fluig Lake 1.7.0-201117, Fluig Lake 1.7.0-201103, Fluig Lake 1.7.0-201027, Fluig Lake 1.7.0-201020, Fluig Lake 1.7.0-201013, Fluig Lake 1.7.0-201006, Fluig Lake 1.7.0-200915, Fluig Lake 1.7.0-200907, Fluig Lake 1.7.0-200901, Fluig Lake 1.7.0-200825, Fluig Lake 1.7.0-200818, Fluig Lake 1.7.0-200804, Fluig Lake 1.7.0-200616), Fluig 1.6.5-200915, Fluig 1.6.5-200128, Fluig 1.6.5-191029, and Fluig 1.6.4-181026.| 
-| 20210312T10:44:01Z | 未知编号 | Null | https://github.com/shacojx/CVE_2021_26855_Exploit_Hub | 未查询到CVE信息| 
+| 20210312T10:44:01Z | 未知编号 | Null | https://github.com/shacojx/CVE_2021_26855_Exploit_Hub | | 
 | 20210312T08:44:53Z | CVE-2021-26855 | CVE-2021-26855, also known as Proxylogon, is a server-side request forgery (SSRF) vulnerability in Exchange that allows an attacker to send arbitrary HTTP requests and authenticate as the Exchange server. According to Orange Tsai, the researcher who discovered the vulnerabilities, CVE-2021-26855 allows code execution when chained with CVE-2021-27065 (see below). A successful exploit chain would allow an unauthenticated attacker to "execute arbitrary commands on Microsoft Exchange Server through only an open 443 port." More information and a disclosure timeline are available at https://proxylogon.com. | https://github.com/raheel0x01/CVE-2021-26855 | Microsoft Exchange Server Remote Code Execution Vulnerability This CVE ID is unique from CVE-2021-26412, CVE-2021-26854, CVE-2021-26857, CVE-2021-26858, CVE-2021-27065, CVE-2021-27078.| 
 | 20210312T08:30:49Z | CVE-2021-26855 | Null | https://github.com/XairGit/CVE-2021-26855 | Microsoft Exchange Server Remote Code Execution Vulnerability This CVE ID is unique from CVE-2021-26412, CVE-2021-26854, CVE-2021-26857, CVE-2021-26858, CVE-2021-27065, CVE-2021-27078.| 
 | 20210312T08:30:29Z | 未知编号 | 2020l4web-app-mockup-DanCvejn created by GitHub Classroom | https://github.com/pslib-cz/2020l4web-app-mockup-DanCvejn | 未查询到CVE信息| 
@@ -57,24 +57,29 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210312T02:58:35Z | All the Lua scripts I developed, including exploit scripts (please only use those for educational purposes) | https://github.com/NubH4x/Scripts | 0 | 0| 
-| 20210312T02:50:07Z | A series of CTF/hacking challenge solutions for binary exploitation(or pwn)/reverse engineering/vulnerability research/memory corruption(or whatever term you use) | https://github.com/docfate111/binary-exploitation-solution-scripts | 0 | 0| 
-| 20210312T02:36:25Z | Repository for information about 0-days exploited in-the-wild. | https://github.com/googleprojectzero/0days-in-the-wild | 100 | 6| 
-| 20210312T02:34:25Z | Null | https://github.com/samdobsonDEV/csgo-exploits | 0 | 0| 
-| 20210312T02:30:40Z | Null | https://github.com/dock0d1/Apache-Struts-2-CVE-2017-5638-Exploit | 2 | 0| 
-| 20210312T02:24:21Z | Vulnerabilities% Risk of Exploitation | https://github.com/thiagofigcosta/V-REx | 0 | 0| 
-| 20210312T02:02:36Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 10 | 5| 
-| 20210312T01:57:19Z | Null | https://github.com/SammyKrosoft/Exchange-Vulnerability-02March2021-HAFNIUM-targeting-Exchange-Servers-with-0-day-exploits | 1 | 0| 
-| 20210312T01:51:09Z | A new, pretty, simple, cross-platform GUI-based tool for injecting payloads onto your Switch to boot into Atmosphere, Hekate, Android etc! Available for Windows, MacOS and Linux. | https://github.com/versionxcontrol/super-payload-launcher | 5 | 0| 
-| 20210312T00:50:22Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 9 | 5| 
+| 20210312T13:02:26Z | This repository contains multiple tools and methods that can be used to hack CS:GO. | https://github.com/samdobsonDEV/csgo-exploits | 0 | 0| 
+| 20210312T13:02:26Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 10 | 6| 
+| 20210312T13:01:57Z | Additional material for the paper %MoralStrength: Exploiting a Moral Lexicon and Embedding Similarity for Moral Foundations Prediction% | https://github.com/oaraque/moral-foundations | 17 | 7| 
+| 20210312T12:51:15Z | PwnXSS: Vulnerability (XSS) scanner exploit | https://github.com/pwn0sec/PwnXSS | 278 | 63| 
+| 20210312T12:50:22Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 9 | 5| 
+| 20210312T12:49:29Z | CDK is an open-sourced container penetration toolkit, offering stable exploitation in different slimmed containers without any OS dependency. It comes with penetration tools and many powerful PoCs/EXPs helps you to escape container and takeover K8s cluster easily. | https://github.com/cdk-team/CDK | 1250 | 176| 
+| 20210312T12:34:47Z | This bash script will help you to hack remote hosts  | https://github.com/FabioDefilippo/linuxallremote | 9 | 1| 
+| 20210312T12:03:22Z | Repo for testing some exploits | https://github.com/RobertFent/exploits | 0 | 0| 
+| 20210312T11:58:20Z | Exploit CVE-2020-29134 - TOTVS Fluig Platform - Path Traversal | https://github.com/lucxssouza/CVE-2020-29134 | 0 | 0| 
+| 20210312T11:30:45Z | MSPoreU-net: A novel U-net architecture to exploit multi-scale pores in segmentation of digital rock images  | https://github.com/mohsenkondori/MSPoreUnet | 0 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210312T02:49:00Z | Null | https://github.com/dorianeSF/Backdoor_Simulation | 0 | 0| 
+| 20210312T12:21:16Z | Null | https://github.com/Delle9999/backdoor | 0 | 0| 
+| 20210312T09:47:54Z | Linux Kernel module-less implant (backdoor) | https://github.com/milabs/kopycat | 24 | 10| 
+| 20210312T08:36:35Z | C# Backdoor & Mapper/Proxy tool (backdoor & proxy tool working in memory only) | https://github.com/DamonMohammadbagher/NativePayload_MP | 2 | 0| 
+| 20210312T06:56:34Z | A Simple android remote administration tool using sockets. It uses java on the client side and python on the server side | https://github.com/karma9874/AndroRAT | 182 | 80| 
+| 20210312T05:27:17Z | TrojanZoo provides a universal pytorch platform to conduct security researches (especially backdoor attacks/defenses) of image classification in deep learning. | https://github.com/ain-soph/trojanzoo | 50 | 8| 
+| 20210312T03:03:44Z | This repository contains a detailed list of commands and instructions used to facilitate a backdoor exploitation through a controlled environment. | https://github.com/dorianeSF/Backdoor_Simulation | 0 | 0| 
 | 20210312T02:25:30Z | A sample app to demonstrate how to create Xamarin UITests using the Page Object architecture, Backdoor Methods and App Links (aka Deep Linking) | https://github.com/brminnick/UITestSampleApp | 34 | 25| 
-| 20210312T00:59:22Z | Ghost Framework is an Android post-exploitation framework that exploits the Android Debug Bridge to remotely access an Android device. Ghost Framework gives you the power and convenience of remote Android device administration. | https://github.com/EntySec/ghost | 978 | 485| 
+| 20210312T00:59:22Z | Ghost Framework is an Android post-exploitation framework that exploits the Android Debug Bridge to remotely access an Android device. Ghost Framework gives you the power and convenience of remote Android device administration. | https://github.com/EntySec/ghost | 978 | 486| 
 
 
 # fuzz on Github 推荐
