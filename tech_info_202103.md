@@ -51,7 +51,7 @@
 | 20210312T23:01:04Z | CVE-2020-25213 | Will write a python script for exploiting this vulnerability  | https://github.com/k0rup710n/Wordpress-CVE-2020-25213 | The File Manager (wp-file-manager) plugin before 6.9 for WordPress allows remote attackers to upload and execute arbitrary PHP code because it renames an unsafe example elFinder connector file to have the .php extension. This, for example, allows attackers to run the elFinder upload (or mkfile and put) command to write PHP code into the wp-content/plugins/wp-file-manager/lib/files/ directory. This was exploited in the wild in August and September 2020.| 
 | 20210312T20:37:00Z | CVE-2021-26855 | CVE-2021-26855, also known as Proxylogon, is a server-side request forgery (SSRF) vulnerability in Exchange that allows an attacker to send arbitrary HTTP requests and authenticate as the Exchange server. According to Orange Tsai, the researcher who discovered the vulnerabilities, CVE-2021-26855 allows code execution when chained with CVE-2021-27065 (see below). A successful exploit chain would allow an unauthenticated attacker to "execute arbitrary commands on Microsoft Exchange Server through only an open 443 port." More information and a disclosure timeline are available at https://proxylogon.com. | https://github.com/raheel0x01/CVE-2021-26855 | Microsoft Exchange Server Remote Code Execution Vulnerability This CVE ID is unique from CVE-2021-26412, CVE-2021-26854, CVE-2021-26857, CVE-2021-26858, CVE-2021-27065, CVE-2021-27078.| 
 | 20210312T19:30:27Z | CVE-2020-29134 | Exploit CVE-2020-29134 - TOTVS Fluig Platform - Path Traversal | https://github.com/lucxssouza/CVE-2020-29134 | The TOTVS Fluig platform allows path traversal through the parameter %file = .. /% encoded in base64. This affects all versions Fluig Lake 1.7.0, Fluig 1.6.5 and Fluig 1.6.4| 
-| 20210312T19:09:48Z | CVE-2021-26855 | Null | https://github.com/alt3kx/CVE-2021-26855_PoC | Microsoft Exchange Server Remote Code Execution Vulnerability This CVE ID is unique from CVE-2021-26412, CVE-2021-26854, CVE-2021-26857, CVE-2021-26858, CVE-2021-27065, CVE-2021-27078.| 
+| 20210312T19:09:48Z | CVE-2021-26855 | Null | https://github.com/alt3kx/CVE-2021-26855_PoC | | 
 | 20210312T18:16:42Z | CVE-2021-26855 | PoC of proxylogon chain SSRF(CVE-2021-26855) to write file by testanull, censored by github | https://github.com/hackerschoice/CVE-2021-26855 | Microsoft Exchange Server Remote Code Execution Vulnerability This CVE ID is unique from CVE-2021-26412, CVE-2021-26854, CVE-2021-26857, CVE-2021-26858, CVE-2021-27065, CVE-2021-27078.| 
 | 20210312T16:49:53Z | CVE-2021-26855 | Null | https://github.com/XairGit/CVE-2021-26855 | Microsoft Exchange Server Remote Code Execution Vulnerability This CVE ID is unique from CVE-2021-26412, CVE-2021-26854, CVE-2021-26857, CVE-2021-26858, CVE-2021-27065, CVE-2021-27078.| 
 | 20210312T16:16:04Z | CVE-2021-26855 | POC  of CVE-2021-26855, CVE-2021-26857, CVE-2021-26858, and CVE-2021-26865,  ProxyLogon poc | https://github.com/Yt1g3r/CVE-2021-26855_SSRF | Microsoft Exchange Server Remote Code Execution Vulnerability This CVE ID is unique from CVE-2021-26412, CVE-2021-26854, CVE-2021-26857, CVE-2021-26858, CVE-2021-27065, CVE-2021-27078.| 
@@ -113,16 +113,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210312T12:52:08Z | Some sort of a social network using react js, hello from 2004 :) | https://github.com/androranogajec/fuzzy-social-network | 0 | 0| 
-| 20210312T12:47:04Z | Coverage-guided, in-process fuzzing for the JVM | https://github.com/CodeIntelligenceTesting/jazzer | 232 | 10| 
-| 20210312T12:44:50Z | Null | https://github.com/s9varesc/url-fuzzing | 0 | 0| 
-| 20210312T12:40:10Z | Null | https://github.com/VeriBlock/fuzz-corpus | 0 | 0| 
-| 20210312T12:22:57Z | Null | https://github.com/AdamKorcz/go-fuzz-headers | 0 | 0| 
-| 20210312T12:17:16Z | Port of npm%s fuzzy-search | https://github.com/doomium-chloride/fuzzy-search-py | 0 | 0| 
-| 20210312T12:10:51Z | Project page for %The Fuzzing Book% | https://github.com/uds-se/fuzzingbook | 546 | 109| 
-| 20210312T11:40:36Z | Null | https://github.com/LucidPep/fuzzy | 0 | 0| 
-| 20210312T11:29:33Z | Null | https://github.com/revault/cosignerd_fuzz_corpus | 0 | 0| 
-| 20210312T11:27:56Z | A Fuzzy logic system example for Matlab | https://github.com/Madrant/fuzzy_logic_example | 0 | 0| 
+| 20210313T00:39:41Z | FuzzBench - Fuzzer benchmarking as a service. | https://github.com/google/fuzzbench | 610 | 103| 
+| 20210313T00:39:08Z | Null | https://github.com/VeriBlock/fuzz-corpus | 0 | 0| 
+| 20210312T23:39:51Z | FuzzingWorkshop | https://github.com/CSC-DevOps/Fuzzing | 0 | 32| 
+| 20210312T23:39:45Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2286 | 117| 
+| 20210312T23:11:24Z | Basic fuzzer for malloc implementations | https://github.com/emeryberger/hangover | 2 | 0| 
+| 20210312T23:05:57Z | Null | https://github.com/petegq/fuzzy-guacamole | 0 | 0| 
+| 20210312T22:57:50Z | Manage & generate prefs.js files | https://github.com/MozillaSecurity/prefpicker | 4 | 1| 
+| 20210312T22:57:42Z | Null | https://github.com/PBearson/MQTT_Fuzzer | 0 | 0| 
+| 20210312T22:13:52Z | Project page for %The Fuzzing Book% | https://github.com/uds-se/fuzzingbook | 546 | 109| 
+| 20210312T21:31:09Z | Null | https://github.com/AdamKorcz/go-fuzz-headers | 0 | 0| 
 
 
 
