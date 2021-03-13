@@ -58,7 +58,6 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210312T23:57:12Z | An open-source post-exploitation framework for students, researchers and developers. | https://github.com/malwaredllc/byob | 5998 | 1345| 
 | 20210312T23:34:20Z | Exploration-Exploitation using MAB | https://github.com/aegoe/MAB | 0 | 1| 
 | 20210312T23:29:17Z | Null | https://github.com/devairdarolt/exploit_temp | 0 | 0| 
 | 20210312T23:28:28Z | My research and exploit development  | https://github.com/dustinsilveri/tradecraft | 0 | 0| 
@@ -68,6 +67,7 @@
 | 20210312T22:54:33Z | Very Simple lib to stylize i/o for prototypes or exploits | https://github.com/Ramoreik/quack | 0 | 0| 
 | 20210312T22:53:29Z | This bash script will help you to hack remote hosts  | https://github.com/FabioDefilippo/linuxallremote | 9 | 1| 
 | 20210312T22:48:38Z | Full Kernel Exploit and Webkit Exploit for PS4 FW.7.50. Netcat Payload on port 9020 | https://github.com/KameleonReloaded/PS4JB750 | 0 | 0| 
+| 20210312T22:44:20Z | This repository contains different learning paths for different disciplines such as Bug Bounty hunting and ARM Exploitation | https://github.com/djIsLucid/LearningPaths | 0 | 0| 
 
 
 # backdoor on Github 推荐
