@@ -83,6 +83,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210313T01:36:57Z | This is a repo for the coding done for CTFs / exploits. The writeups are here: https://github.com/dillonwu-97/csec_writeups | https://github.com/dillonwu-97/csec-code | 0 | 0| 
 | 20210313T01:22:41Z | Exploit CVE-2020-29134 - TOTVS Fluig Platform - Path Traversal | https://github.com/lucxssouza/CVE-2020-29134 | 0 | 0| 
 | 20210313T01:02:33Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 10 | 6| 
 | 20210313T01:02:12Z | i throw exploit POC%s here | https://github.com/0xmanjoos/hackerman_hackertime | 0 | 0| 
@@ -92,7 +93,6 @@
 | 20210313T00:50:22Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 9 | 5| 
 | 20210313T00:29:43Z | forked version of funtuna, a homebrew ps2 app launcher designed to ease the pain of getting a stable exploit for those that have a console uncompatible with FreeMcBoot | https://github.com/israpps/Funtuna-Fork | 3 | 0| 
 | 20210313T00:26:34Z | PS4 Exploits 6.72-7.55 | https://github.com/Buzbee/Buzbee2 | 0 | 0| 
-| 20210313T00:18:29Z | Python Geospatial Sensor Exploitation Library | https://github.com/USGS-Astrogeology/knoten | 1 | 14| 
 
 
 # backdoor on Github 推荐
