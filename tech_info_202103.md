@@ -46,31 +46,31 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20210313T00:48:50Z | CVE-2021-26855 | Scanner and PoC for CVE-2021-26855  | https://github.com/KotSec/CVE-2021-26855-Scanner | Microsoft Exchange Server Remote Code Execution Vulnerability This CVE ID is unique from CVE-2021-26412, CVE-2021-26854, CVE-2021-26857, CVE-2021-26858, CVE-2021-27065, CVE-2021-27078.| 
+| 20210312T23:46:30Z | CVE-2021-26882 | PoC | https://github.com/songjianyang/CVE-2021-26882 | Remote Access API Elevation of Privilege Vulnerability| 
+| 20210312T23:01:04Z | CVE-2020-25213 | Will write a python script for exploiting this vulnerability  | https://github.com/k0rup710n/Wordpress-CVE-2020-25213 | The File Manager (wp-file-manager) plugin before 6.9 for WordPress allows remote attackers to upload and execute arbitrary PHP code because it renames an unsafe example elFinder connector file to have the .php extension. This, for example, allows attackers to run the elFinder upload (or mkfile and put) command to write PHP code into the wp-content/plugins/wp-file-manager/lib/files/ directory. This was exploited in the wild in August and September 2020.| 
+| 20210312T20:37:00Z | CVE-2021-26855 | CVE-2021-26855, also known as Proxylogon, is a server-side request forgery (SSRF) vulnerability in Exchange that allows an attacker to send arbitrary HTTP requests and authenticate as the Exchange server. According to Orange Tsai, the researcher who discovered the vulnerabilities, CVE-2021-26855 allows code execution when chained with CVE-2021-27065 (see below). A successful exploit chain would allow an unauthenticated attacker to "execute arbitrary commands on Microsoft Exchange Server through only an open 443 port." More information and a disclosure timeline are available at https://proxylogon.com. | https://github.com/raheel0x01/CVE-2021-26855 | Microsoft Exchange Server Remote Code Execution Vulnerability This CVE ID is unique from CVE-2021-26412, CVE-2021-26854, CVE-2021-26857, CVE-2021-26858, CVE-2021-27065, CVE-2021-27078.| 
+| 20210312T19:30:27Z | CVE-2020-29134 | Exploit CVE-2020-29134 - TOTVS Fluig Platform - Path Traversal | https://github.com/lucxssouza/CVE-2020-29134 | The TOTVS Fluig platform allows path traversal through the parameter %file = .. /% encoded in base64. This affects all versions Fluig Lake 1.7.0, Fluig 1.6.5 and Fluig 1.6.4| 
+| 20210312T19:09:48Z | CVE-2021-26855 | Null | https://github.com/alt3kx/CVE-2021-26855_PoC | Microsoft Exchange Server Remote Code Execution Vulnerability This CVE ID is unique from CVE-2021-26412, CVE-2021-26854, CVE-2021-26857, CVE-2021-26858, CVE-2021-27065, CVE-2021-27078.| 
+| 20210312T18:16:42Z | CVE-2021-26855 | PoC of proxylogon chain SSRF(CVE-2021-26855) to write file by testanull, censored by github | https://github.com/hackerschoice/CVE-2021-26855 | Microsoft Exchange Server Remote Code Execution Vulnerability This CVE ID is unique from CVE-2021-26412, CVE-2021-26854, CVE-2021-26857, CVE-2021-26858, CVE-2021-27065, CVE-2021-27078.| 
+| 20210312T16:49:53Z | CVE-2021-26855 | Null | https://github.com/XairGit/CVE-2021-26855 | Microsoft Exchange Server Remote Code Execution Vulnerability This CVE ID is unique from CVE-2021-26412, CVE-2021-26854, CVE-2021-26857, CVE-2021-26858, CVE-2021-27065, CVE-2021-27078.| 
+| 20210312T16:16:04Z | CVE-2021-26855 | POC  of CVE-2021-26855, CVE-2021-26857, CVE-2021-26858, and CVE-2021-26865,  ProxyLogon poc | https://github.com/Yt1g3r/CVE-2021-26855_SSRF | | 
 | 20210312T13:47:41Z | CVE-2021-26855 | CVE-2021-26855 SSRF Exchange Server | https://github.com/Udyz/CVE-2021-26855 | Microsoft Exchange Server Remote Code Execution Vulnerability This CVE ID is unique from CVE-2021-26412, CVE-2021-26854, CVE-2021-26857, CVE-2021-26858, CVE-2021-27065, CVE-2021-27078.| 
-| 20210312T13:33:07Z | CVE-2020-25790 | Exploit for CVE-2020-25790 | https://github.com/v4lak/CVE-2020-25790 |  Typesetter CMS 5.x through 5.1 allows admins to upload and execute arbitrary PHP code via a .php file inside a ZIP archive. NOTE: the vendor disputes the significance of this report because %admins are considered trustworthy%; however, the behavior %contradicts our security policy% and is being fixed for 5.2.| 
-| 20210312T12:56:43Z | CVE-2021-26855 | PoC of proxylogon chain SSRF(CVE-2021-26855) to write file by testanull, censored by github | https://github.com/hackerschoice/CVE-2021-26855 | Microsoft Exchange Server Remote Code Execution Vulnerability This CVE ID is unique from CVE-2021-26412, CVE-2021-26854, CVE-2021-26857, CVE-2021-26858, CVE-2021-27065, CVE-2021-27078.| 
-| 20210312T12:55:59Z | CVE-2021-26855 | Scanner and PoC for CVE-2021-26855  | https://github.com/KotSec/CVE-2021-26855-Scanner | Microsoft Exchange Server Remote Code Execution Vulnerability This CVE ID is unique from CVE-2021-26412, CVE-2021-26854, CVE-2021-26857, CVE-2021-26858, CVE-2021-27065, CVE-2021-27078.| 
-| 20210312T11:58:20Z | CVE-2020-29134 | Exploit CVE-2020-29134 - TOTVS Fluig Platform - Path Traversal | https://github.com/lucxssouza/CVE-2020-29134 | TOTVS Fluig Platform allows directory traversal via a base64 encoded in paremeter %file=../% to a volume/stream/ URI. This affects: Fluig Lake 1.7.0-210217, Fluig Lake 1.7.0-210209, Fluig Lake 1.7.0-210112, Fluig Lake 1.7.0-201222, Fluig Lake 1.7.0-201215, Fluig Lake 1.7.0-201201,Fluig Lake 1.7.0-201124, Fluig Lake 1.7.0-201117, Fluig Lake 1.7.0-201103, Fluig Lake 1.7.0-201027, Fluig Lake 1.7.0-201020, Fluig Lake 1.7.0-201013, Fluig Lake 1.7.0-201006, Fluig Lake 1.7.0-200915, Fluig Lake 1.7.0-200907, Fluig Lake 1.7.0-200901, Fluig Lake 1.7.0-200825, Fluig Lake 1.7.0-200818, Fluig Lake 1.7.0-200804, Fluig Lake 1.7.0-200616), Fluig 1.6.5-200915, Fluig 1.6.5-200128, Fluig 1.6.5-191029, and Fluig 1.6.4-181026.| 
-| 20210312T10:44:01Z | 未知编号 | Null | https://github.com/shacojx/CVE_2021_26855_Exploit_Hub | | 
-| 20210312T08:44:53Z | CVE-2021-26855 | CVE-2021-26855, also known as Proxylogon, is a server-side request forgery (SSRF) vulnerability in Exchange that allows an attacker to send arbitrary HTTP requests and authenticate as the Exchange server. According to Orange Tsai, the researcher who discovered the vulnerabilities, CVE-2021-26855 allows code execution when chained with CVE-2021-27065 (see below). A successful exploit chain would allow an unauthenticated attacker to "execute arbitrary commands on Microsoft Exchange Server through only an open 443 port." More information and a disclosure timeline are available at https://proxylogon.com. | https://github.com/raheel0x01/CVE-2021-26855 | Microsoft Exchange Server Remote Code Execution Vulnerability This CVE ID is unique from CVE-2021-26412, CVE-2021-26854, CVE-2021-26857, CVE-2021-26858, CVE-2021-27065, CVE-2021-27078.| 
-| 20210312T08:30:49Z | CVE-2021-26855 | Null | https://github.com/XairGit/CVE-2021-26855 | Microsoft Exchange Server Remote Code Execution Vulnerability This CVE ID is unique from CVE-2021-26412, CVE-2021-26854, CVE-2021-26857, CVE-2021-26858, CVE-2021-27065, CVE-2021-27078.| 
-| 20210312T08:30:29Z | 未知编号 | 2020l4web-app-mockup-DanCvejn created by GitHub Classroom | https://github.com/pslib-cz/2020l4web-app-mockup-DanCvejn | 未查询到CVE信息| 
-| 20210312T07:20:22Z | CVE-2021-21300 | Null | https://github.com/CppXL/CVE-2021-21300 | Git is an open-source distributed revision control system. In affected versions of Git a specially crafted repository that contains symbolic links as well as files using a clean/smudge filter such as Git LFS, may cause just-checked out script to be executed while cloning onto a case-insensitive file system such as NTFS, HFS+ or APFS (i.e. the default file systems on Windows and macOS). Note that clean/smudge filters have to be configured for that. Git for Windows configures Git LFS by default, and is therefore vulnerable. The problem has been patched in the versions published on Tuesday, March 9th, 2021. As a workaound, if symbolic link support is disabled in Git (e.g. via `git config --global core.symlinks false`), the described attack won%t work. Likewise, if no clean/smudge filters such as Git LFS are configured globally (i.e. _before_ cloning), the attack is foiled. As always, it is best to avoid cloning repositories from untrusted sources. The earliest impacted version is 2.14.2. The fix versions are: 2.30.1, 2.29.3, 2.28.1, 2.27.1, 2.26.3, 2.25.5, 2.24.4, 2.23.4, 2.22.5, 2.21.4, 2.20.5, 2.19.6, 2.18.5, 2.17.62.17.6.| 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210312T20:48:07Z | RVT is a collection of tools/libraries to support both static and dynamic verification of Rust programs. | https://github.com/project-oak/rust-verification-tools | 109 | 8| 
+| 20210312T18:00:35Z | Kleene Expressions | https://github.com/ostomachion/Kleene | 1 | 0| 
+| 20210312T17:06:48Z | Null | https://github.com/dhanyavittaldas/kleen-tidy-master | 0 | 0| 
+| 20210312T16:25:51Z | Null | https://github.com/TheBeehive/kleene | 0 | 0| 
 | 20210312T12:35:29Z | The Kleenex programming language | https://github.com/diku-kmc/kleenexlang | 46 | 4| 
-| 20210312T11:46:34Z | Null | https://github.com/dhanyavittaldas/kleen-tidy-master | 0 | 0| 
-| 20210312T11:26:04Z | RVT is a collection of tools/libraries to support both static and dynamic verification of Rust programs. | https://github.com/project-oak/rust-verification-tools | 109 | 8| 
 | 20210311T19:44:10Z | Kleene algebra, regular expressions | https://github.com/phadej/kleene | 27 | 1| 
 | 20210311T16:40:04Z | Spring 2021 Geography 817 work folder  | https://github.com/klee12/klee12.github.io | 0 | 0| 
 | 20210310T16:35:09Z | A personnal UI library made as an excuse to have a published UI package | https://github.com/Liinkiing/klee | 5 | 1| 
 | 20210310T15:47:32Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1644 | 483| 
 | 20210310T10:12:48Z | a leetcode question each day, your salary increment $100 per day | https://github.com/guoxiangCN/kLeetcode | 0 | 0| 
-| 20210309T17:37:33Z | Null | https://github.com/Strayfox45/https-github.com-klee141-hcmld21 | 0 | 0| 
-| 20210309T16:01:59Z | Null | https://github.com/FaisalHafeez/members.kleep.io | 0 | 0| 
 
 
 # s2e on Github 推荐
@@ -83,31 +83,31 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210312T13:59:21Z | PwnXSS: Vulnerability (XSS) scanner exploit | https://github.com/pwn0sec/PwnXSS | 279 | 63| 
-| 20210312T13:49:49Z | Based on the collection of various router security keys, the purpose of this generator is to understand the typical security key pattern and to show that it can be exploited to create a suitable generator. | https://github.com/n3rada/Rainbox | 0 | 0| 
-| 20210312T13:06:28Z | This repository contains multiple tools and methods that can be used to hack CS:GO. | https://github.com/samdobsonDEV/csgo-exploits | 0 | 0| 
-| 20210312T13:02:26Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 10 | 6| 
-| 20210312T13:01:57Z | Additional material for the paper %MoralStrength: Exploiting a Moral Lexicon and Embedding Similarity for Moral Foundations Prediction% | https://github.com/oaraque/moral-foundations | 17 | 7| 
-| 20210312T12:50:22Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 9 | 5| 
-| 20210312T12:49:29Z | CDK is an open-sourced container penetration toolkit, offering stable exploitation in different slimmed containers without any OS dependency. It comes with penetration tools and many powerful PoCs/EXPs helps you to escape container and takeover K8s cluster easily. | https://github.com/cdk-team/CDK | 1250 | 176| 
-| 20210312T12:34:47Z | This bash script will help you to hack remote hosts  | https://github.com/FabioDefilippo/linuxallremote | 9 | 1| 
-| 20210312T12:03:22Z | Repo for testing some exploits | https://github.com/RobertFent/exploits | 0 | 0| 
-| 20210312T11:58:20Z | Exploit CVE-2020-29134 - TOTVS Fluig Platform - Path Traversal | https://github.com/lucxssouza/CVE-2020-29134 | 0 | 0| 
+| 20210313T01:00:30Z | i throw exploit POC%s here | https://github.com/0xmanjoos/hackerman_hackertime | 0 | 0| 
+| 20210313T00:59:33Z | PS1 savegame exploit using THPS3 | https://github.com/socram8888/tonyhax | 17 | 0| 
+| 20210313T00:56:06Z | A new, pretty, simple, cross-platform GUI-based tool for injecting payloads onto your Switch to boot into Atmosphere, Hekate, Android etc! Available for Windows, MacOS and Linux. | https://github.com/versionxcontrol/super-payload-launcher | 5 | 0| 
+| 20210313T00:50:59Z | A Minecraft plugin to protect economy servers from villager trade exploitation | https://github.com/Pretzel-Development/VillagerTradeLimiter | 0 | 0| 
+| 20210313T00:50:22Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 9 | 5| 
+| 20210313T00:29:43Z | forked version of funtuna, a homebrew ps2 app launcher designed to ease the pain of getting a stable exploit for those that have a console uncompatible with FreeMcBoot | https://github.com/israpps/Funtuna-Fork | 3 | 0| 
+| 20210313T00:26:34Z | PS4 Exploits 6.72-7.55 | https://github.com/Buzbee/Buzbee2 | 0 | 0| 
+| 20210313T00:18:29Z | Python Geospatial Sensor Exploitation Library | https://github.com/USGS-Astrogeology/knoten | 1 | 14| 
+| 20210313T00:02:39Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 10 | 6| 
+| 20210312T23:57:12Z | An open-source post-exploitation framework for students, researchers and developers. | https://github.com/malwaredllc/byob | 5998 | 1345| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210313T00:20:07Z | Protect your server against backdoors. | https://github.com/Xalalau/backdoor-shield | 1 | 0| 
+| 20210312T21:03:03Z | Injectra injects shellcode payloads into MacOS applications and package installers. | https://github.com/Taguar258/injectra | 9 | 3| 
+| 20210312T18:28:23Z | Ghost Framework is an Android post-exploitation framework that exploits the Android Debug Bridge to remotely access an Android device. Ghost Framework gives you the power and convenience of remote Android device administration. | https://github.com/EntySec/ghost | 980 | 486| 
+| 20210312T17:42:09Z | Null | https://github.com/mpurohit1234/multi-threaded-backdoor | 0 | 0| 
+| 20210312T17:35:56Z | C# Backdoor & Mapper/Proxy tool (backdoor & proxy tool working in memory only) | https://github.com/DamonMohammadbagher/NativePayload_MP | 2 | 0| 
+| 20210312T16:25:06Z | A Simple android remote administration tool using sockets. It uses java on the client side and python on the server side | https://github.com/karma9874/AndroRAT | 183 | 81| 
 | 20210312T12:21:16Z | Null | https://github.com/Delle9999/backdoor | 0 | 0| 
 | 20210312T09:47:54Z | Linux Kernel module-less implant (backdoor) | https://github.com/milabs/kopycat | 24 | 10| 
-| 20210312T08:36:35Z | C# Backdoor & Mapper/Proxy tool (backdoor & proxy tool working in memory only) | https://github.com/DamonMohammadbagher/NativePayload_MP | 2 | 0| 
-| 20210312T06:56:34Z | A Simple android remote administration tool using sockets. It uses java on the client side and python on the server side | https://github.com/karma9874/AndroRAT | 182 | 80| 
 | 20210312T05:27:17Z | TrojanZoo provides a universal pytorch platform to conduct security researches (especially backdoor attacks/defenses) of image classification in deep learning. | https://github.com/ain-soph/trojanzoo | 50 | 8| 
 | 20210312T03:03:44Z | This repository contains a detailed list of commands and instructions used to facilitate a backdoor exploitation through a controlled environment. | https://github.com/dorianeSF/Backdoor_Simulation | 0 | 0| 
-| 20210312T02:25:30Z | A sample app to demonstrate how to create Xamarin UITests using the Page Object architecture, Backdoor Methods and App Links (aka Deep Linking) | https://github.com/brminnick/UITestSampleApp | 34 | 25| 
-| 20210312T00:59:22Z | Ghost Framework is an Android post-exploitation framework that exploits the Android Debug Bridge to remotely access an Android device. Ghost Framework gives you the power and convenience of remote Android device administration. | https://github.com/EntySec/ghost | 978 | 486| 
-| 20210311T22:04:08Z | Backdoor | https://github.com/kadzicuh/Backdoor | 0 | 1| 
-| 20210311T19:41:45Z | A general-purpose All-in-One backdoor for ethical hacking. Made with utility in mind. | https://github.com/CMPLXapps/Swordfish | 0 | 0| 
 
 
 # fuzz on Github 推荐
