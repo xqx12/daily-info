@@ -46,13 +46,13 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20210313T13:15:06Z | CVE-2020-25213 | Will write a python script for exploiting this vulnerability  | https://github.com/k0rup710n/Wordpress-CVE-2020-25213 | The File Manager (wp-file-manager) plugin before 6.9 for WordPress allows remote attackers to upload and execute arbitrary PHP code because it renames an unsafe example elFinder connector file to have the .php extension. This, for example, allows attackers to run the elFinder upload (or mkfile and put) command to write PHP code into the wp-content/plugins/wp-file-manager/lib/files/ directory. This was exploited in the wild in August and September 2020.| 
 | 20210313T13:02:14Z | CVE-2021-26882 | PoC | https://github.com/songjianyang/CVE-2021-26882 | Remote Access API Elevation of Privilege Vulnerability| 
 | 20210313T11:23:41Z | CVE-2021-26855 | CVE-2021-26855, also known as Proxylogon, is a server-side request forgery (SSRF) vulnerability in Exchange that allows an attacker to send arbitrary HTTP requests and authenticate as the Exchange server. According to Orange Tsai, the researcher who discovered the vulnerabilities, CVE-2021-26855 allows code execution when chained with CVE-2021-27065 (see below). A successful exploit chain would allow an unauthenticated attacker to "execute arbitrary commands on Microsoft Exchange Server through only an open 443 port." More information and a disclosure timeline are available at https://proxylogon.com. | https://github.com/raheel0x01/CVE-2021-26855 | Microsoft Exchange Server Remote Code Execution Vulnerability This CVE ID is unique from CVE-2021-26412, CVE-2021-26854, CVE-2021-26857, CVE-2021-26858, CVE-2021-27065, CVE-2021-27078.| 
 | 20210313T10:45:17Z | CVE-2021-26855 | PoC of proxylogon chain SSRF(CVE-2021-26855) to write file by testanull, censored by github | https://github.com/hackerschoice/CVE-2021-26855 | Microsoft Exchange Server Remote Code Execution Vulnerability This CVE ID is unique from CVE-2021-26412, CVE-2021-26854, CVE-2021-26857, CVE-2021-26858, CVE-2021-27065, CVE-2021-27078.| 
 | 20210313T04:46:36Z | CVE-2021-26855 | Null | https://github.com/alt3kx/CVE-2021-26855_PoC | Microsoft Exchange Server Remote Code Execution Vulnerability This CVE ID is unique from CVE-2021-26412, CVE-2021-26854, CVE-2021-26857, CVE-2021-26858, CVE-2021-27065, CVE-2021-27078.| 
 | 20210313T01:22:41Z | CVE-2020-29134 | Exploit CVE-2020-29134 - TOTVS Fluig Platform - Path Traversal | https://github.com/lucxssouza/CVE-2020-29134 | The TOTVS Fluig platform allows path traversal through the parameter %file = .. /% encoded in base64. This affects all versions Fluig Lake 1.7.0, Fluig 1.6.5 and Fluig 1.6.4| 
 | 20210313T00:48:50Z | CVE-2021-26855 | Scanner and PoC for CVE-2021-26855  | https://github.com/KotSec/CVE-2021-26855-Scanner | Microsoft Exchange Server Remote Code Execution Vulnerability This CVE ID is unique from CVE-2021-26412, CVE-2021-26854, CVE-2021-26857, CVE-2021-26858, CVE-2021-27065, CVE-2021-27078.| 
-| 20210312T23:01:04Z | CVE-2020-25213 | Will write a python script for exploiting this vulnerability  | https://github.com/k0rup710n/Wordpress-CVE-2020-25213 | | 
 | 20210312T16:49:53Z | CVE-2021-26855 | Null | https://github.com/XairGit/CVE-2021-26855 | Microsoft Exchange Server Remote Code Execution Vulnerability This CVE ID is unique from CVE-2021-26412, CVE-2021-26854, CVE-2021-26857, CVE-2021-26858, CVE-2021-27065, CVE-2021-27078.| 
 | 20210312T16:16:04Z | CVE-2021-26855 | POC  of CVE-2021-26855, CVE-2021-26857, CVE-2021-26858, and CVE-2021-26865,  ProxyLogon poc | https://github.com/Yt1g3r/CVE-2021-26855_SSRF | Microsoft Exchange Server Remote Code Execution Vulnerability This CVE ID is unique from CVE-2021-26412, CVE-2021-26854, CVE-2021-26857, CVE-2021-26858, CVE-2021-27065, CVE-2021-27078.| 
 | 20210312T13:47:41Z | CVE-2021-26855 | CVE-2021-26855 SSRF Exchange Server | https://github.com/Udyz/CVE-2021-26855 | Microsoft Exchange Server Remote Code Execution Vulnerability This CVE ID is unique from CVE-2021-26412, CVE-2021-26854, CVE-2021-26857, CVE-2021-26858, CVE-2021-27065, CVE-2021-27078.| 
@@ -84,25 +84,25 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210313T13:11:54Z | PS4 Exploits 6.72-7.55 | https://github.com/Buzbee/Buzbee2 | 0 | 0| 
+| 20210313T14:02:37Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 10 | 6| 
+| 20210313T13:49:32Z | learn golang in web exploitation | https://github.com/liuchengshun/go_learn_web | 1 | 0| 
+| 20210313T13:32:28Z | forked version of funtuna, a homebrew ps2 app launcher designed to ease the pain of getting a stable exploit for those that have a console uncompatible with FreeMcBoot | https://github.com/israpps/Funtuna-Fork | 3 | 0| 
+| 20210313T13:31:33Z | My old exploit, I don%t work on it anymore, it%s really messy code, but it works I guess. Has a script hub... | https://github.com/TERIHAX/Zapsed | 0 | 0| 
+| 20210313T13:25:48Z | PS4 Exploits 6.72-7.55 | https://github.com/Buzbee/Buzbee2 | 0 | 0| 
+| 20210313T13:15:31Z | Null | https://github.com/faridarif/kernel-exploit | 0 | 0| 
+| 20210313T13:15:06Z | Will write a python script for exploiting this vulnerability  | https://github.com/k0rup710n/Wordpress-CVE-2020-25213 | 0 | 0| 
 | 20210313T13:08:43Z | -------> RAFEL<------  Android Rat  Written in Java With WebPanel For Controlling Victims | https://github.com/swagkarna/Rafel-Rat | 15 | 7| 
-| 20210313T13:02:24Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 10 | 6| 
 | 20210313T12:55:20Z | This bash script will help you to hack remote hosts  | https://github.com/FabioDefilippo/linuxallremote | 9 | 1| 
 | 20210313T12:36:55Z | The aim of the project was to create an application where people can improve their knowledge about sports exploiting common knowledge retrieved from the web.  | https://github.com/lpirola13/EasySport-Understanding | 0 | 0| 
-| 20210313T12:19:35Z | PS1 savegame exploit using THPS3 | https://github.com/socram8888/tonyhax | 20 | 1| 
-| 20210313T11:38:50Z | Vulnnr is a Vulnerability Scanner & Auto Exploiter You can use this tool to check the security by finding the vulnerability in your website or you can use this tool to Get Shells | https://github.com/X-x-X-0/Vulnnr | 4 | 0| 
-| 20210313T11:35:11Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9122 | 1468| 
-| 20210313T11:34:56Z | Automated All-in-One OS Command Injection Exploitation Tool | https://github.com/commixproject/commix | 2558 | 596| 
-| 20210313T11:09:15Z | Null | https://github.com/Raycodex/Exploiting | 0 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210313T14:02:41Z | kumpulan shell backdoor | https://github.com/FRMFOX/SH3LL-BKDR | 0 | 0| 
 | 20210313T12:21:15Z | Null | https://github.com/EjHvorSerDuVildUdJim/backdoor | 0 | 0| 
 | 20210313T08:06:47Z | unlock the advanced menu of Lenovo Yoga Slim 7 BIOS | https://github.com/esno/yoga-bios-unlock | 19 | 1| 
 | 20210313T07:28:13Z | Protect your server against backdoors. | https://github.com/Xalalau/backdoor-shield | 1 | 0| 
-| 20210313T06:23:46Z | kumpulan shell backdoor | https://github.com/FRMFOX/SH3LL-BKDR | 0 | 0| 
 | 20210313T05:28:25Z | Null | https://github.com/mpurohit1234/multi-threaded-backdoor | 0 | 0| 
 | 20210312T21:03:03Z | Injectra injects shellcode payloads into MacOS applications and package installers. | https://github.com/Taguar258/injectra | 9 | 3| 
 | 20210312T18:28:23Z | Ghost Framework is an Android post-exploitation framework that exploits the Android Debug Bridge to remotely access an Android device. Ghost Framework gives you the power and convenience of remote Android device administration. | https://github.com/EntySec/ghost | 980 | 486| 
@@ -114,6 +114,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210313T13:05:34Z | Null | https://github.com/esha345/FuzzyController | 0 | 0| 
 | 20210313T02:41:12Z | Port of npm%s fuzzy-search | https://github.com/doomium-chloride/fuzzy-search-py | 0 | 0| 
 | 20210313T02:40:57Z | Null | https://github.com/VeriBlock/fuzz-corpus | 0 | 0| 
 | 20210313T02:23:38Z | Project for Computer Security 2021  | https://github.com/ninjapretzel/HttpFuzzer | 0 | 0| 
@@ -123,7 +124,6 @@
 | 20210313T00:39:41Z | FuzzBench - Fuzzer benchmarking as a service. | https://github.com/google/fuzzbench | 610 | 103| 
 | 20210312T23:39:51Z | FuzzingWorkshop | https://github.com/CSC-DevOps/Fuzzing | 0 | 32| 
 | 20210312T23:39:45Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2286 | 117| 
-| 20210312T23:05:57Z | Null | https://github.com/petegq/fuzzy-guacamole | 0 | 0| 
 
 
 
