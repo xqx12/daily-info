@@ -91,7 +91,6 @@
 | --- | --- | --- | --- | ---| 
 | 20210312T23:39:51Z | FuzzingWorkshop | https://github.com/CSC-DevOps/Fuzzing | 0 | 32| 
 | 20210312T23:39:45Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2286 | 117| 
-| 20210312T23:11:24Z | Basic fuzzer for malloc implementations | https://github.com/emeryberger/hangover | 2 | 0| 
 | 20210312T23:05:57Z | Null | https://github.com/petegq/fuzzy-guacamole | 0 | 0| 
 | 20210312T22:57:50Z | Manage & generate prefs.js files | https://github.com/MozillaSecurity/prefpicker | 4 | 1| 
 | 20210312T22:57:42Z | Null | https://github.com/PBearson/MQTT_Fuzzer | 0 | 0| 
@@ -99,6 +98,7 @@
 | 20210312T21:31:09Z | Null | https://github.com/AdamKorcz/go-fuzz-headers | 0 | 0| 
 | 20210312T21:18:29Z | Null | https://github.com/fuzzylogicxx/fuzzy-speedlify | 0 | 0| 
 | 20210312T21:07:57Z | A  playground to learn computer graphics | https://github.com/patiboh/fuzzy-playground | 1 | 0| 
+| 20210312T20:55:29Z | Null | https://github.com/dustinsilveri/fuzzers | 0 | 0| 
 
 
 

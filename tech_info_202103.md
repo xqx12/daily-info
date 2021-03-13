@@ -83,6 +83,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210313T02:02:33Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 10 | 6| 
 | 20210313T01:57:55Z | A new, pretty, simple, cross-platform GUI-based tool for injecting payloads onto your Switch to boot into Atmosphere, Hekate, Android etc! Available for Windows, MacOS and Linux. | https://github.com/versionxcontrol/super-payload-launcher | 5 | 0| 
 | 20210313T01:56:18Z | i throw exploit POC%s here | https://github.com/0xmanjoos/exploits | 1 | 0| 
 | 20210313T01:55:53Z | i throw exploit POC%s here | https://github.com/0xmanjoos/CVE | 0 | 0| 
@@ -91,7 +92,6 @@
 | 20210313T01:37:46Z | A Minecraft plugin to protect economy servers from villager trade exploitation | https://github.com/Pretzel-Development/VillagerTradeLimiter | 0 | 0| 
 | 20210313T01:36:57Z | This is a repo for the coding done for CTFs / exploits. The writeups are here: https://github.com/dillonwu-97/csec_writeups | https://github.com/dillonwu-97/csec-code | 0 | 0| 
 | 20210313T01:22:41Z | Exploit CVE-2020-29134 - TOTVS Fluig Platform - Path Traversal | https://github.com/lucxssouza/CVE-2020-29134 | 0 | 0| 
-| 20210313T01:02:33Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 10 | 6| 
 | 20210313T00:50:22Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 9 | 5| 
 
 
@@ -113,16 +113,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210313T01:50:58Z | Null | https://github.com/VeriBlock/fuzz-corpus | 0 | 0| 
+| 20210313T01:48:20Z | Null | https://github.com/noragem/gem-fuzzy-search | 0 | 0| 
+| 20210313T01:24:50Z | Basic fuzzer for malloc implementations | https://github.com/emeryberger/hangover | 3 | 0| 
 | 20210313T00:39:41Z | FuzzBench - Fuzzer benchmarking as a service. | https://github.com/google/fuzzbench | 610 | 103| 
-| 20210313T00:39:08Z | Null | https://github.com/VeriBlock/fuzz-corpus | 0 | 0| 
 | 20210312T23:39:51Z | FuzzingWorkshop | https://github.com/CSC-DevOps/Fuzzing | 0 | 32| 
 | 20210312T23:39:45Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2286 | 117| 
-| 20210312T23:11:24Z | Basic fuzzer for malloc implementations | https://github.com/emeryberger/hangover | 2 | 0| 
 | 20210312T23:05:57Z | Null | https://github.com/petegq/fuzzy-guacamole | 0 | 0| 
 | 20210312T22:57:50Z | Manage & generate prefs.js files | https://github.com/MozillaSecurity/prefpicker | 4 | 1| 
 | 20210312T22:57:42Z | Null | https://github.com/PBearson/MQTT_Fuzzer | 0 | 0| 
 | 20210312T22:13:52Z | Project page for %The Fuzzing Book% | https://github.com/uds-se/fuzzingbook | 546 | 109| 
-| 20210312T21:31:09Z | Null | https://github.com/AdamKorcz/go-fuzz-headers | 0 | 0| 
 
 
 
