@@ -31,28 +31,28 @@
 # 安全维基 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20210313 | Shiro 反序列化漏洞利用工具编写思路 | https://mp.weixin.qq.com/s/WDmj4-2lB-hlf_Fm_wDiOg| 
+| 20210313 | 对蚁剑的相关改造及分析 | https://www.anquanke.com/post/id/233114| 
+| 20210313 | 如何攻击深度学习系统——后门攻防 | https://www.anquanke.com/post/id/232414| 
+| 20210313 | IoT设备漏洞复现到固件后门植入 | https://www.anquanke.com/post/id/232845| 
+| 20210313 | TIG 威胁情报收集 | https://github.com/wgpsec/tig| 
+| 20210313 | GoScan: 分布式综合资产管理系统 | https://github.com/CTF-MissFeng/GoScan| 
+| 20210313 | 监控github上新增的cve编号项目漏洞 | https://github.com/yhy0/github-cve-monitor| 
+| 20210313 | 网络测绘-立体呈现网络事件细节知多少？ | https://mp.weixin.qq.com/s/LwWMfOMqSgArtv9jlfaPRw| 
 | 20210312 | JavaScript反调试技巧 | https://mp.weixin.qq.com/s/NMJd91AmuGEANz00sZELfw| 
 | 20210312 | 资产管理的难点 | https://mp.weixin.qq.com/s/DqtIzNdDvB7pYjXmoP1quQ| 
-| 20210312 | Japan Security Analyst Conference 2021 -1st Track- | https://blogs.jpcert.or.jp/en/2021/03/jsac2021report3.html| 
-| 20210312 | Examining Exchange Exploitation and its Lessons for Defend... | https://www.domaintools.com/resources/blog/examining-exchange-exploitation-and-its-lessons-for-defenders| 
-| 20210311 | 通达 OA 11.7 组合拳 RCE 利用分析 | 通达 OA 11.7 组合拳 RCE 利用分析| 
-| 20210311 | Google内部开源组件的风险治理框架与工作流程窥探 | https://zhuanlan.zhihu.com/p/356415256| 
-| 20210310 | D^3CTF-WriteUp | https://mp.weixin.qq.com/s/oOf0RI6P2hEwtPXWP6yU4Q| 
-| 20210310 | 【情人节警报】看我如何智斗陌陌情爱骗子 | https://www.sec-in.com/article/920| 
-| 20210310 | Data Science Testbed for Security Researchers | https://www.azsecure-data.org/| 
-| 20210310 | 某oa java代码审计2 | https://xz.aliyun.com/t/9226| 
 
 
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20210313T02:24:48Z | CVE-2021-26855 | PoC of proxylogon chain SSRF(CVE-2021-26855) to write file by testanull, censored by github | https://github.com/hackerschoice/CVE-2021-26855 | Microsoft Exchange Server Remote Code Execution Vulnerability This CVE ID is unique from CVE-2021-26412, CVE-2021-26854, CVE-2021-26857, CVE-2021-26858, CVE-2021-27065, CVE-2021-27078.| 
+| 20210313T11:23:41Z | CVE-2021-26855 | CVE-2021-26855, also known as Proxylogon, is a server-side request forgery (SSRF) vulnerability in Exchange that allows an attacker to send arbitrary HTTP requests and authenticate as the Exchange server. According to Orange Tsai, the researcher who discovered the vulnerabilities, CVE-2021-26855 allows code execution when chained with CVE-2021-27065 (see below). A successful exploit chain would allow an unauthenticated attacker to "execute arbitrary commands on Microsoft Exchange Server through only an open 443 port." More information and a disclosure timeline are available at https://proxylogon.com. | https://github.com/raheel0x01/CVE-2021-26855 | Microsoft Exchange Server Remote Code Execution Vulnerability This CVE ID is unique from CVE-2021-26412, CVE-2021-26854, CVE-2021-26857, CVE-2021-26858, CVE-2021-27065, CVE-2021-27078.| 
+| 20210313T10:45:17Z | CVE-2021-26855 | PoC of proxylogon chain SSRF(CVE-2021-26855) to write file by testanull, censored by github | https://github.com/hackerschoice/CVE-2021-26855 | Microsoft Exchange Server Remote Code Execution Vulnerability This CVE ID is unique from CVE-2021-26412, CVE-2021-26854, CVE-2021-26857, CVE-2021-26858, CVE-2021-27065, CVE-2021-27078.| 
+| 20210313T04:46:36Z | CVE-2021-26855 | Null | https://github.com/alt3kx/CVE-2021-26855_PoC | Microsoft Exchange Server Remote Code Execution Vulnerability This CVE ID is unique from CVE-2021-26412, CVE-2021-26854, CVE-2021-26857, CVE-2021-26858, CVE-2021-27065, CVE-2021-27078.| 
+| 20210313T04:27:55Z | CVE-2021-26882 | PoC | https://github.com/songjianyang/CVE-2021-26882 | Remote Access API Elevation of Privilege Vulnerability| 
 | 20210313T01:22:41Z | CVE-2020-29134 | Exploit CVE-2020-29134 - TOTVS Fluig Platform - Path Traversal | https://github.com/lucxssouza/CVE-2020-29134 | The TOTVS Fluig platform allows path traversal through the parameter %file = .. /% encoded in base64. This affects all versions Fluig Lake 1.7.0, Fluig 1.6.5 and Fluig 1.6.4| 
 | 20210313T00:48:50Z | CVE-2021-26855 | Scanner and PoC for CVE-2021-26855  | https://github.com/KotSec/CVE-2021-26855-Scanner | Microsoft Exchange Server Remote Code Execution Vulnerability This CVE ID is unique from CVE-2021-26412, CVE-2021-26854, CVE-2021-26857, CVE-2021-26858, CVE-2021-27065, CVE-2021-27078.| 
-| 20210312T23:46:30Z | CVE-2021-26882 | PoC | https://github.com/songjianyang/CVE-2021-26882 | Remote Access API Elevation of Privilege Vulnerability| 
 | 20210312T23:01:04Z | CVE-2020-25213 | Will write a python script for exploiting this vulnerability  | https://github.com/k0rup710n/Wordpress-CVE-2020-25213 | The File Manager (wp-file-manager) plugin before 6.9 for WordPress allows remote attackers to upload and execute arbitrary PHP code because it renames an unsafe example elFinder connector file to have the .php extension. This, for example, allows attackers to run the elFinder upload (or mkfile and put) command to write PHP code into the wp-content/plugins/wp-file-manager/lib/files/ directory. This was exploited in the wild in August and September 2020.| 
-| 20210312T20:37:00Z | CVE-2021-26855 | CVE-2021-26855, also known as Proxylogon, is a server-side request forgery (SSRF) vulnerability in Exchange that allows an attacker to send arbitrary HTTP requests and authenticate as the Exchange server. According to Orange Tsai, the researcher who discovered the vulnerabilities, CVE-2021-26855 allows code execution when chained with CVE-2021-27065 (see below). A successful exploit chain would allow an unauthenticated attacker to "execute arbitrary commands on Microsoft Exchange Server through only an open 443 port." More information and a disclosure timeline are available at https://proxylogon.com. | https://github.com/raheel0x01/CVE-2021-26855 | Microsoft Exchange Server Remote Code Execution Vulnerability This CVE ID is unique from CVE-2021-26412, CVE-2021-26854, CVE-2021-26857, CVE-2021-26858, CVE-2021-27065, CVE-2021-27078.| 
-| 20210312T19:09:48Z | CVE-2021-26855 | Null | https://github.com/alt3kx/CVE-2021-26855_PoC | Microsoft Exchange Server Remote Code Execution Vulnerability This CVE ID is unique from CVE-2021-26412, CVE-2021-26854, CVE-2021-26857, CVE-2021-26858, CVE-2021-27065, CVE-2021-27078.| 
 | 20210312T16:49:53Z | CVE-2021-26855 | Null | https://github.com/XairGit/CVE-2021-26855 | Microsoft Exchange Server Remote Code Execution Vulnerability This CVE ID is unique from CVE-2021-26412, CVE-2021-26854, CVE-2021-26857, CVE-2021-26858, CVE-2021-27065, CVE-2021-27078.| 
 | 20210312T16:16:04Z | CVE-2021-26855 | POC  of CVE-2021-26855, CVE-2021-26857, CVE-2021-26858, and CVE-2021-26865,  ProxyLogon poc | https://github.com/Yt1g3r/CVE-2021-26855_SSRF | Microsoft Exchange Server Remote Code Execution Vulnerability This CVE ID is unique from CVE-2021-26412, CVE-2021-26854, CVE-2021-26857, CVE-2021-26858, CVE-2021-27065, CVE-2021-27078.| 
 | 20210312T13:47:41Z | CVE-2021-26855 | CVE-2021-26855 SSRF Exchange Server | https://github.com/Udyz/CVE-2021-26855 | Microsoft Exchange Server Remote Code Execution Vulnerability This CVE ID is unique from CVE-2021-26412, CVE-2021-26854, CVE-2021-26857, CVE-2021-26858, CVE-2021-27065, CVE-2021-27078.| 
@@ -61,16 +61,16 @@
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210313T13:00:33Z | Null | https://github.com/dhanyavittaldas/kleen-tidy-master | 0 | 0| 
+| 20210313T11:37:23Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 的 Klee One 的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 330 | 7| 
+| 20210313T11:03:04Z | RVT is a collection of tools/libraries to support both static and dynamic verification of Rust programs. | https://github.com/project-oak/rust-verification-tools | 110 | 9| 
+| 20210313T07:47:17Z | Null | https://github.com/dhanyavittaldas/Kleen-Tidy-Part-A | 0 | 0| 
 | 20210313T02:11:05Z | Kleene Expressions | https://github.com/ostomachion/Kleene | 1 | 0| 
-| 20210312T20:48:07Z | RVT is a collection of tools/libraries to support both static and dynamic verification of Rust programs. | https://github.com/project-oak/rust-verification-tools | 109 | 8| 
-| 20210312T17:06:48Z | Null | https://github.com/dhanyavittaldas/kleen-tidy-master | 0 | 0| 
 | 20210312T16:25:51Z | Null | https://github.com/TheBeehive/kleene | 0 | 0| 
 | 20210312T12:35:29Z | The Kleenex programming language | https://github.com/diku-kmc/kleenexlang | 46 | 4| 
 | 20210311T19:44:10Z | Kleene algebra, regular expressions | https://github.com/phadej/kleene | 27 | 1| 
 | 20210311T16:40:04Z | Spring 2021 Geography 817 work folder  | https://github.com/klee12/klee12.github.io | 0 | 0| 
 | 20210310T16:35:09Z | A personnal UI library made as an excuse to have a published UI package | https://github.com/Liinkiing/klee | 5 | 1| 
-| 20210310T15:47:32Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1644 | 483| 
-| 20210310T10:12:48Z | a leetcode question each day, your salary increment $100 per day | https://github.com/guoxiangCN/kLeetcode | 0 | 0| 
 
 
 # s2e on Github 推荐
@@ -84,31 +84,31 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210313T02:54:13Z | Null | https://github.com/brerodrigues/exploit_drafts | 0 | 0| 
-| 20210313T02:35:05Z | An open-source post-exploitation framework for students, researchers and developers. | https://github.com/malwaredllc/byob | 5999 | 1345| 
-| 20210313T02:29:51Z | A new, pretty, simple, cross-platform GUI-based tool for injecting payloads onto your Switch to boot into Atmosphere, Hekate, Android etc! Available for Windows, MacOS and Linux. | https://github.com/versionxcontrol/super-payload-launcher | 5 | 0| 
-| 20210313T02:02:33Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 10 | 6| 
-| 20210313T01:56:18Z | i throw exploit POC%s here | https://github.com/0xmanjoos/exploits | 1 | 0| 
-| 20210313T01:55:53Z | i throw exploit POC%s here | https://github.com/0xmanjoos/CVE | 0 | 0| 
-| 20210313T01:55:08Z | i throw exploit POC%s here | https://github.com/0xmanjoos/hackerman_hackertime | 0 | 0| 
-| 20210313T01:53:09Z | PS1 savegame exploit using THPS3 | https://github.com/socram8888/tonyhax | 17 | 1| 
-| 20210313T01:37:46Z | A Minecraft plugin to protect economy servers from villager trade exploitation | https://github.com/Pretzel-Development/VillagerTradeLimiter | 0 | 0| 
-| 20210313T01:36:57Z | This is a repo for the coding done for CTFs / exploits. The writeups are here: https://github.com/dillonwu-97/csec_writeups | https://github.com/dillonwu-97/csec-code | 0 | 0| 
+| 20210313T12:55:20Z | This bash script will help you to hack remote hosts  | https://github.com/FabioDefilippo/linuxallremote | 9 | 1| 
+| 20210313T12:44:58Z | PS4 Exploits 6.72-7.55 | https://github.com/Buzbee/Buzbee2 | 0 | 0| 
+| 20210313T12:36:55Z | The aim of the project was to create an application where people can improve their knowledge about sports exploiting common knowledge retrieved from the web.  | https://github.com/lpirola13/EasySport-Understanding | 0 | 0| 
+| 20210313T12:19:35Z | PS1 savegame exploit using THPS3 | https://github.com/socram8888/tonyhax | 20 | 1| 
+| 20210313T12:02:32Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 10 | 6| 
+| 20210313T11:38:50Z | Vulnnr is a Vulnerability Scanner & Auto Exploiter You can use this tool to check the security by finding the vulnerability in your website or you can use this tool to Get Shells | https://github.com/X-x-X-0/Vulnnr | 4 | 0| 
+| 20210313T11:35:11Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9122 | 1468| 
+| 20210313T11:34:56Z | Automated All-in-One OS Command Injection Exploitation Tool | https://github.com/commixproject/commix | 2558 | 596| 
+| 20210313T11:09:15Z | Null | https://github.com/Raycodex/Exploiting | 0 | 0| 
+| 20210313T10:28:20Z | PS4 Exploit list | https://github.com/Hakkuraifu/PS4xploit | 23 | 6| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210313T02:26:23Z | Protect your server against backdoors. | https://github.com/Xalalau/backdoor-shield | 1 | 0| 
+| 20210313T12:21:15Z | Null | https://github.com/EjHvorSerDuVildUdJim/backdoor | 0 | 0| 
+| 20210313T08:06:47Z | unlock the advanced menu of Lenovo Yoga Slim 7 BIOS | https://github.com/esno/yoga-bios-unlock | 19 | 1| 
+| 20210313T07:28:13Z | Protect your server against backdoors. | https://github.com/Xalalau/backdoor-shield | 1 | 0| 
+| 20210313T06:23:46Z | kumpulan shell backdoor | https://github.com/FRMFOX/SH3LL-BKDR | 0 | 0| 
+| 20210313T05:28:25Z | Null | https://github.com/mpurohit1234/multi-threaded-backdoor | 0 | 0| 
 | 20210312T21:03:03Z | Injectra injects shellcode payloads into MacOS applications and package installers. | https://github.com/Taguar258/injectra | 9 | 3| 
 | 20210312T18:28:23Z | Ghost Framework is an Android post-exploitation framework that exploits the Android Debug Bridge to remotely access an Android device. Ghost Framework gives you the power and convenience of remote Android device administration. | https://github.com/EntySec/ghost | 980 | 486| 
-| 20210312T17:42:09Z | Null | https://github.com/mpurohit1234/multi-threaded-backdoor | 0 | 0| 
 | 20210312T17:35:56Z | C# Backdoor & Mapper/Proxy tool (backdoor & proxy tool working in memory only) | https://github.com/DamonMohammadbagher/NativePayload_MP | 2 | 0| 
 | 20210312T16:25:06Z | A Simple android remote administration tool using sockets. It uses java on the client side and python on the server side | https://github.com/karma9874/AndroRAT | 183 | 81| 
 | 20210312T12:21:16Z | Null | https://github.com/Delle9999/backdoor | 0 | 0| 
-| 20210312T09:47:54Z | Linux Kernel module-less implant (backdoor) | https://github.com/milabs/kopycat | 24 | 10| 
-| 20210312T05:27:17Z | TrojanZoo provides a universal pytorch platform to conduct security researches (especially backdoor attacks/defenses) of image classification in deep learning. | https://github.com/ain-soph/trojanzoo | 50 | 8| 
-| 20210312T03:03:44Z | This repository contains a detailed list of commands and instructions used to facilitate a backdoor exploitation through a controlled environment. | https://github.com/dorianeSF/Backdoor_Simulation | 0 | 0| 
 
 
 # fuzz on Github 推荐
