@@ -51,10 +51,10 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210313T13:11:54Z | PS4 Exploits 6.72-7.55 | https://github.com/Buzbee/Buzbee2 | 0 | 0| 
 | 20210313T13:08:43Z | -------> RAFEL<------  Android Rat  Written in Java With WebPanel For Controlling Victims | https://github.com/swagkarna/Rafel-Rat | 15 | 7| 
 | 20210313T13:02:24Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 10 | 6| 
 | 20210313T12:55:20Z | This bash script will help you to hack remote hosts  | https://github.com/FabioDefilippo/linuxallremote | 9 | 1| 
-| 20210313T12:44:58Z | PS4 Exploits 6.72-7.55 | https://github.com/Buzbee/Buzbee2 | 0 | 0| 
 | 20210313T12:36:55Z | The aim of the project was to create an application where people can improve their knowledge about sports exploiting common knowledge retrieved from the web.  | https://github.com/lpirola13/EasySport-Understanding | 0 | 0| 
 | 20210313T12:19:35Z | PS1 savegame exploit using THPS3 | https://github.com/socram8888/tonyhax | 20 | 1| 
 | 20210313T11:38:50Z | Vulnnr is a Vulnerability Scanner & Auto Exploiter You can use this tool to check the security by finding the vulnerability in your website or you can use this tool to Get Shells | https://github.com/X-x-X-0/Vulnnr | 4 | 0| 
