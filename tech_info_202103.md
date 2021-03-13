@@ -83,12 +83,12 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210313T02:03:18Z | A new, pretty, simple, cross-platform GUI-based tool for injecting payloads onto your Switch to boot into Atmosphere, Hekate, Android etc! Available for Windows, MacOS and Linux. | https://github.com/versionxcontrol/super-payload-launcher | 5 | 0| 
+| 20210313T02:29:51Z | A new, pretty, simple, cross-platform GUI-based tool for injecting payloads onto your Switch to boot into Atmosphere, Hekate, Android etc! Available for Windows, MacOS and Linux. | https://github.com/versionxcontrol/super-payload-launcher | 5 | 0| 
 | 20210313T02:02:33Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 10 | 6| 
 | 20210313T01:56:18Z | i throw exploit POC%s here | https://github.com/0xmanjoos/exploits | 1 | 0| 
 | 20210313T01:55:53Z | i throw exploit POC%s here | https://github.com/0xmanjoos/CVE | 0 | 0| 
 | 20210313T01:55:08Z | i throw exploit POC%s here | https://github.com/0xmanjoos/hackerman_hackertime | 0 | 0| 
-| 20210313T01:53:09Z | PS1 savegame exploit using THPS3 | https://github.com/socram8888/tonyhax | 17 | 0| 
+| 20210313T01:53:09Z | PS1 savegame exploit using THPS3 | https://github.com/socram8888/tonyhax | 17 | 1| 
 | 20210313T01:37:46Z | A Minecraft plugin to protect economy servers from villager trade exploitation | https://github.com/Pretzel-Development/VillagerTradeLimiter | 0 | 0| 
 | 20210313T01:36:57Z | This is a repo for the coding done for CTFs / exploits. The writeups are here: https://github.com/dillonwu-97/csec_writeups | https://github.com/dillonwu-97/csec-code | 0 | 0| 
 | 20210313T01:22:41Z | Exploit CVE-2020-29134 - TOTVS Fluig Platform - Path Traversal | https://github.com/lucxssouza/CVE-2020-29134 | 0 | 0| 
