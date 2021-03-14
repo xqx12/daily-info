@@ -84,7 +84,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210314T02:54:37Z | Get GTFOBins info about a given exploit for given commands | https://github.com/CristinaSolana/ggtfobins | 15 | 1| 
+| 20210314T02:59:16Z | Get GTFOBins info about a given exploit for given commands | https://github.com/CristinaSolana/ggtfobins | 15 | 1| 
 | 20210314T02:51:57Z | Vulnerabilities% Risk of Exploitation | https://github.com/thiagofigcosta/V-REx | 0 | 0| 
 | 20210314T02:07:29Z | PS1 savegame exploit using THPS3 | https://github.com/socram8888/tonyhax | 28 | 1| 
 | 20210314T02:06:05Z | Null | https://github.com/Whomever0/exploit-scripts | 0 | 0| 
