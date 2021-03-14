@@ -82,14 +82,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210313T13:05:34Z | Null | https://github.com/esha345/FuzzyController | 0 | 0| 
-| 20210313T02:41:12Z | Port of npm%s fuzzy-search | https://github.com/doomium-chloride/fuzzy-search-py | 0 | 0| 
-| 20210313T02:40:57Z | Null | https://github.com/VeriBlock/fuzz-corpus | 0 | 0| 
-| 20210313T02:23:38Z | Project for Computer Security 2021  | https://github.com/ninjapretzel/HttpFuzzer | 0 | 0| 
-| 20210313T02:23:07Z | Ethereum smart contract fuzzer | https://github.com/crytic/echidna | 567 | 95| 
-| 20210313T01:48:20Z | Null | https://github.com/noragem/gem-fuzzy-search | 0 | 0| 
-| 20210313T01:24:50Z | Basic fuzzer for malloc implementations | https://github.com/emeryberger/hangover | 3 | 0| 
-| 20210313T00:39:41Z | FuzzBench - Fuzzer benchmarking as a service. | https://github.com/google/fuzzbench | 610 | 103| 
+| 20210313T23:15:38Z | A case study of a fuzzer in the Rascal Language | https://github.com/fuzzing-unb/rascalFuzz | 0 | 0| 
+| 20210313T23:12:48Z | A case study of a fuzzer in the Rascal Language | https://github.com/faustocarva/rascalFuzz | 0 | 0| 
+| 20210313T21:50:57Z | Null | https://github.com/ddsmatt/fuzzy-carnival | 0 | 0| 
+| 20210313T21:30:01Z | A  playground to learn computer graphics | https://github.com/patiboh/fuzzy-playground | 1 | 0| 
+| 20210313T21:11:33Z | 11 | https://github.com/123456709323/Fuzzy-Maker | 0 | 0| 
+| 20210313T21:05:06Z | Software for fuzzing, used on web application pentestings. | https://github.com/NESCAU-UFLA/FuzzingTool | 11 | 1| 
+| 20210313T20:37:07Z | PoC of fuzzing closed-source userspace binaries with KVM | https://github.com/klecko/kvm-fuzz | 1 | 0| 
+| 20210313T19:28:43Z | Null | https://github.com/Fedor-Anatolik/fuzz-cube | 0 | 0| 
+| 20210313T19:16:25Z | Hacking tools written by me. IP fortune, webmap -- web vulns scanner, rtsp brute+fuzz, and more. | https://github.com/fagcinsk/h4ck | 1 | 0| 
+| 20210313T18:55:06Z | Funny Fuzzing Wordlist | https://github.com/koaj/ffw-content-discovery | 3 | 2| 
 
 
 

@@ -84,6 +84,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210314T01:15:24Z | PS1 savegame exploit using THPS3 | https://github.com/socram8888/tonyhax | 25 | 1| 
 | 20210314T01:08:36Z | bespoke tooling for offensive security%s Windows Usermode Exploit Dev course (OSED) | https://github.com/epi052/osed-scripts | 2 | 0| 
 | 20210314T01:02:32Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 10 | 6| 
 | 20210314T00:49:12Z | Null | https://github.com/OwlSploit/OwlExploitMyDesk | 0 | 0| 
@@ -93,7 +94,6 @@
 | 20210313T23:45:29Z | The Lost Nintendo DS Television Output, brought back to life | https://github.com/LostNintendoHistory/Lost-NDS-TV | 220 | 11| 
 | 20210313T23:30:54Z | Vulnnr is a Vulnerability Scanner & Auto Exploiter You can use this tool to check the security by finding the vulnerability in your website or you can use this tool to Get Shells | https://github.com/X-x-X-0/Vulnnr | 4 | 0| 
 | 20210313T23:08:34Z | Null | https://github.com/0xturazzi/Um-Livrinho-Sobre-Exploit-Dev | 0 | 0| 
-| 20210313T23:04:52Z | https://github.com/SecWiki/windows-kernel-exploits | https://github.com/mishmashclone/SecWiki-windows-kernel-exploits | 1 | 3| 
 
 
 # backdoor on Github 推荐
@@ -114,16 +114,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210313T13:05:34Z | Null | https://github.com/esha345/FuzzyController | 0 | 0| 
-| 20210313T02:41:12Z | Port of npm%s fuzzy-search | https://github.com/doomium-chloride/fuzzy-search-py | 0 | 0| 
-| 20210313T02:40:57Z | Null | https://github.com/VeriBlock/fuzz-corpus | 0 | 0| 
-| 20210313T02:23:38Z | Project for Computer Security 2021  | https://github.com/ninjapretzel/HttpFuzzer | 0 | 0| 
-| 20210313T02:23:07Z | Ethereum smart contract fuzzer | https://github.com/crytic/echidna | 567 | 95| 
-| 20210313T01:48:20Z | Null | https://github.com/noragem/gem-fuzzy-search | 0 | 0| 
-| 20210313T01:24:50Z | Basic fuzzer for malloc implementations | https://github.com/emeryberger/hangover | 3 | 0| 
-| 20210313T00:39:41Z | FuzzBench - Fuzzer benchmarking as a service. | https://github.com/google/fuzzbench | 610 | 103| 
-| 20210312T23:39:51Z | FuzzingWorkshop | https://github.com/CSC-DevOps/Fuzzing | 0 | 32| 
-| 20210312T23:39:45Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2286 | 117| 
+| 20210314T01:02:55Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6064 | 1215| 
+| 20210314T00:48:09Z | CS 4152 Project | https://github.com/nicbarone/Fuzzy-Kiwi | 0 | 0| 
+| 20210314T00:41:59Z | Config files for my GitHub profile. | https://github.com/PurpleFuzzBall/PurpleFuzzBall | 0 | 0| 
+| 20210314T00:39:31Z | Null | https://github.com/VeriBlock/fuzz-corpus | 0 | 0| 
+| 20210314T00:38:58Z | Null | https://github.com/shanhuQQ/go-fuzz3 | 0 | 0| 
+| 20210314T00:26:13Z | Fuzzy charrs are fuzzy. | https://github.com/marenubium87/FuzzyCharr | 0 | 0| 
+| 20210313T23:15:38Z | A case study of a fuzzer in the Rascal Language | https://github.com/fuzzing-unb/rascalFuzz | 0 | 0| 
+| 20210313T23:12:48Z | A case study of a fuzzer in the Rascal Language | https://github.com/faustocarva/rascalFuzz | 0 | 0| 
+| 20210313T21:50:57Z | Null | https://github.com/ddsmatt/fuzzy-carnival | 0 | 0| 
+| 20210313T21:30:01Z | A  playground to learn computer graphics | https://github.com/patiboh/fuzzy-playground | 1 | 0| 
 
 
 
