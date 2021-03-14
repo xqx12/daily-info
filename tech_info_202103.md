@@ -84,12 +84,12 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210314T01:25:29Z | Null | https://github.com/Whomever0/exploit-scripts | 0 | 0| 
 | 20210314T01:18:23Z | PS1 savegame exploit using THPS3 | https://github.com/socram8888/tonyhax | 25 | 1| 
 | 20210314T01:08:36Z | bespoke tooling for offensive security%s Windows Usermode Exploit Dev course (OSED) | https://github.com/epi052/osed-scripts | 2 | 0| 
 | 20210314T01:02:32Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 10 | 6| 
 | 20210314T00:49:12Z | Null | https://github.com/OwlSploit/OwlExploitMyDesk | 0 | 0| 
 | 20210314T00:16:21Z | Patch for the dispenser crash exploit. | https://github.com/NotHexa/DispenserCrashPatch | 0 | 0| 
-| 20210314T00:15:35Z | Null | https://github.com/Whomever0/exploit-scripts | 0 | 0| 
 | 20210313T23:59:02Z | Null | https://github.com/caddickzac/Motivated-Reasoning-in-a-Causal-Explore-Exploit-Task | 0 | 0| 
 | 20210313T23:45:29Z | The Lost Nintendo DS Television Output, brought back to life | https://github.com/LostNintendoHistory/Lost-NDS-TV | 220 | 11| 
 | 20210313T23:30:54Z | Vulnnr is a Vulnerability Scanner & Auto Exploiter You can use this tool to check the security by finding the vulnerability in your website or you can use this tool to Get Shells | https://github.com/X-x-X-0/Vulnnr | 4 | 0| 
