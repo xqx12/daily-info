@@ -31,6 +31,7 @@
 # 安全维基 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20210314 | 最后防线：osquery功能与实现 | https://mp.weixin.qq.com/s/PvnLnn1gDcl_X4fyocyPrA| 
 | 20210313 | Shiro 反序列化漏洞利用工具编写思路 | https://mp.weixin.qq.com/s/WDmj4-2lB-hlf_Fm_wDiOg| 
 | 20210313 | 对蚁剑的相关改造及分析 | https://www.anquanke.com/post/id/233114| 
 | 20210313 | 如何攻击深度学习系统——后门攻防 | https://www.anquanke.com/post/id/232414| 
@@ -40,16 +41,15 @@
 | 20210313 | 监控github上新增的cve编号项目漏洞 | https://github.com/yhy0/github-cve-monitor| 
 | 20210313 | 网络测绘-立体呈现网络事件细节知多少？ | https://mp.weixin.qq.com/s/LwWMfOMqSgArtv9jlfaPRw| 
 | 20210312 | JavaScript反调试技巧 | https://mp.weixin.qq.com/s/NMJd91AmuGEANz00sZELfw| 
-| 20210312 | 资产管理的难点 | https://mp.weixin.qq.com/s/DqtIzNdDvB7pYjXmoP1quQ| 
 
 
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20210314T10:42:29Z | CVE-2021-26855 | PoC of proxylogon chain SSRF(CVE-2021-26855) to write file by testanull, censored by github | https://github.com/hackerschoice/CVE-2021-26855 | Microsoft Exchange Server Remote Code Execution Vulnerability This CVE ID is unique from CVE-2021-26412, CVE-2021-26854, CVE-2021-26857, CVE-2021-26858, CVE-2021-27065, CVE-2021-27078.| 
+| 20210314T10:27:53Z | CVE-2021-26855 | Null | https://github.com/alt3kx/CVE-2021-26855_PoC | Microsoft Exchange Server Remote Code Execution Vulnerability This CVE ID is unique from CVE-2021-26412, CVE-2021-26854, CVE-2021-26857, CVE-2021-26858, CVE-2021-27065, CVE-2021-27078.| 
 | 20210314T02:51:02Z | CVE-2021-26882 | PoC | https://github.com/songjianyang/CVE-2021-26882 | Remote Access API Elevation of Privilege Vulnerability| 
 | 20210314T02:01:52Z | CVE-2021-26855 | CVE-2021-26855, also known as Proxylogon, is a server-side request forgery (SSRF) vulnerability in Exchange that allows an attacker to send arbitrary HTTP requests and authenticate as the Exchange server. According to Orange Tsai, the researcher who discovered the vulnerabilities, CVE-2021-26855 allows code execution when chained with CVE-2021-27065 (see below). A successful exploit chain would allow an unauthenticated attacker to "execute arbitrary commands on Microsoft Exchange Server through only an open 443 port." More information and a disclosure timeline are available at https://proxylogon.com. | https://github.com/raheel0x01/CVE-2021-26855 | Microsoft Exchange Server Remote Code Execution Vulnerability This CVE ID is unique from CVE-2021-26412, CVE-2021-26854, CVE-2021-26857, CVE-2021-26858, CVE-2021-27065, CVE-2021-27078.| 
-| 20210314T00:14:56Z | CVE-2021-26855 | PoC of proxylogon chain SSRF(CVE-2021-26855) to write file by testanull, censored by github | https://github.com/hackerschoice/CVE-2021-26855 | Microsoft Exchange Server Remote Code Execution Vulnerability This CVE ID is unique from CVE-2021-26412, CVE-2021-26854, CVE-2021-26857, CVE-2021-26858, CVE-2021-27065, CVE-2021-27078.| 
-| 20210313T19:42:47Z | CVE-2021-26855 | Null | https://github.com/alt3kx/CVE-2021-26855_PoC | Microsoft Exchange Server Remote Code Execution Vulnerability This CVE ID is unique from CVE-2021-26412, CVE-2021-26854, CVE-2021-26857, CVE-2021-26858, CVE-2021-27065, CVE-2021-27078.| 
 | 20210313T13:15:06Z | CVE-2020-25213 | Will write a python script for exploiting this vulnerability  | https://github.com/k0rup710n/Wordpress-CVE-2020-25213 | The File Manager (wp-file-manager) plugin before 6.9 for WordPress allows remote attackers to upload and execute arbitrary PHP code because it renames an unsafe example elFinder connector file to have the .php extension. This, for example, allows attackers to run the elFinder upload (or mkfile and put) command to write PHP code into the wp-content/plugins/wp-file-manager/lib/files/ directory. This was exploited in the wild in August and September 2020.| 
 | 20210313T01:22:41Z | CVE-2020-29134 | Exploit CVE-2020-29134 - TOTVS Fluig Platform - Path Traversal | https://github.com/lucxssouza/CVE-2020-29134 | The TOTVS Fluig platform allows path traversal through the parameter %file = .. /% encoded in base64. This affects all versions Fluig Lake 1.7.0, Fluig 1.6.5 and Fluig 1.6.4| 
 | 20210313T00:48:50Z | CVE-2021-26855 | Scanner and PoC for CVE-2021-26855  | https://github.com/KotSec/CVE-2021-26855-Scanner | Microsoft Exchange Server Remote Code Execution Vulnerability This CVE ID is unique from CVE-2021-26412, CVE-2021-26854, CVE-2021-26857, CVE-2021-26858, CVE-2021-27065, CVE-2021-27078.| 
@@ -61,16 +61,16 @@
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210314T03:18:52Z | A personnal UI library made as an excuse to have a published UI package | https://github.com/Liinkiing/klee | 5 | 1| 
+| 20210314T10:04:40Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 的 Klee One 的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 331 | 7| 
+| 20210314T09:56:26Z | Git Blog | https://github.com/klee30810/klee30810.github.io | 0 | 0| 
+| 20210314T09:17:49Z | klee.js is a (data driven) generator and wrapper for the magnificent three.js | https://github.com/trenc/klee.js | 0 | 0| 
+| 20210314T08:37:24Z | Null | https://github.com/salmo15/https-github.com-klee141-hcmld21 | 0 | 0| 
+| 20210314T03:23:33Z | A personnal UI library made as an excuse to have a published UI package | https://github.com/Liinkiing/klee | 5 | 1| 
 | 20210314T03:03:07Z | The Kleenex programming language | https://github.com/diku-kmc/kleenexlang | 48 | 4| 
 | 20210313T21:55:41Z | RVT is a collection of tools/libraries to support both static and dynamic verification of Rust programs. | https://github.com/project-oak/rust-verification-tools | 111 | 9| 
 | 20210313T15:01:57Z | klee.js is a (data driven) generator and wrapper for the magnificent three.js | https://github.com/trenc/klee-js | 0 | 0| 
 | 20210313T13:09:37Z | Null | https://github.com/dhanyavittaldas/Kleen-Tidy-Part-A | 0 | 0| 
 | 20210313T13:00:33Z | Null | https://github.com/dhanyavittaldas/kleen-tidy-master | 0 | 0| 
-| 20210313T11:37:23Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 的 Klee One 的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 330 | 7| 
-| 20210313T02:11:05Z | Kleene Expressions | https://github.com/ostomachion/Kleene | 1 | 0| 
-| 20210312T16:25:51Z | Null | https://github.com/TheBeehive/kleene | 0 | 0| 
-| 20210311T19:44:10Z | Kleene algebra, regular expressions | https://github.com/phadej/kleene | 27 | 1| 
 
 
 # s2e on Github 推荐
@@ -99,16 +99,16 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210314T11:50:28Z | Null | https://github.com/Wiilldd/backdoor | 0 | 0| 
+| 20210314T10:25:48Z | Null | https://github.com/AlpenGod/backdoor.php | 0 | 0| 
+| 20210314T05:37:36Z | I got bored, and I%m somewhat intrested in the topic. | https://github.com/asherbuechel/Simple-Py-Backdoor | 0 | 0| 
+| 20210314T05:10:00Z | TrojanZoo provides a universal pytorch platform to conduct security researches (especially backdoor attacks/defenses) of image classification in deep learning. | https://github.com/ain-soph/trojanzoo | 51 | 8| 
 | 20210314T00:56:02Z | Injectra injects shellcode payloads into MacOS applications and package installers. | https://github.com/Taguar258/injectra | 9 | 3| 
 | 20210314T00:52:11Z | Protect your server against backdoors. | https://github.com/Xalalau/backdoor-shield | 1 | 0| 
 | 20210313T23:01:33Z | A Simple android remote administration tool using sockets. It uses java on the client side and python on the server side | https://github.com/karma9874/AndroRAT | 184 | 81| 
-| 20210313T21:53:29Z | Null | https://github.com/Wiilldd/backdoor | 0 | 0| 
 | 20210313T21:51:14Z | Null | https://github.com/EjHvorSerDuVildUdJim/backdoor | 0 | 0| 
 | 20210313T21:06:06Z | Null | https://github.com/Delle9999/backdoor | 0 | 0| 
 | 20210313T18:56:59Z | Null | https://github.com/mikkelskov1/backdoor2 | 0 | 0| 
-| 20210313T14:02:41Z | kumpulan shell backdoor | https://github.com/FRMFOX/SH3LL-BKDR | 0 | 0| 
-| 20210313T08:06:47Z | unlock the advanced menu of Lenovo Yoga Slim 7 BIOS | https://github.com/esno/yoga-bios-unlock | 19 | 1| 
-| 20210313T05:28:25Z | Null | https://github.com/mpurohit1234/multi-threaded-backdoor | 0 | 0| 
 
 
 # fuzz on Github 推荐
