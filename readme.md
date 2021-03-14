@@ -59,11 +59,11 @@
 | 20210313T23:30:54Z | Vulnnr is a Vulnerability Scanner & Auto Exploiter You can use this tool to check the security by finding the vulnerability in your website or you can use this tool to Get Shells | https://github.com/X-x-X-0/Vulnnr | 4 | 0| 
 | 20210313T23:08:34Z | Null | https://github.com/0xturazzi/Um-Livrinho-Sobre-Exploit-Dev | 0 | 0| 
 | 20210313T23:04:52Z | https://github.com/SecWiki/windows-kernel-exploits | https://github.com/mishmashclone/SecWiki-windows-kernel-exploits | 1 | 3| 
-| 20210313T23:02:37Z | An open-source post-exploitation framework for students, researchers and developers. | https://github.com/malwaredllc/byob | 6003 | 1348| 
 | 20210313T22:59:37Z | Null | https://github.com/EXtremeExploit/EXtremeExploit.github.io | 0 | 0| 
 | 20210313T22:47:05Z | minecraft socket exploits | https://github.com/Ikos3k/MinecraftExploits | 1 | 0| 
 | 20210313T22:30:10Z | OWASP Benchmark is a test suite designed to verify the speed and accuracy of software vulnerability detection tools. A fully runnable web app written in Java, it supports analysis by Static (SAST), Dynamic (DAST), and Runtime (IAST) tools that support Java. The idea is that since it is fully runnable and all the vulnerabilities are actually exploitable, it’s a fair test for any kind of vulnerability detection tool.  For more details on this project, please see the OWASP Benchmark Project home page. | https://github.com/OWASP/Benchmark | 348 | 258| 
 | 20210313T22:02:06Z | Fix exploits on anarchy minecraft servers | https://github.com/moom0o/AnarchyExploitFixes | 15 | 7| 
+| 20210313T21:39:09Z | PS4 Exploit Host | https://github.com/Night-King-Host/Night-King-Host.github.io | 0 | 0| 
 
 
 # backdoor on Github 推荐
