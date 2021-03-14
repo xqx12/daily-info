@@ -46,9 +46,9 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20210314T12:35:54Z | CVE-2021-26882 | PoC | https://github.com/songjianyang/CVE-2021-26882 | Remote Access API Elevation of Privilege Vulnerability| 
 | 20210314T10:42:29Z | CVE-2021-26855 | PoC of proxylogon chain SSRF(CVE-2021-26855) to write file by testanull, censored by github | https://github.com/hackerschoice/CVE-2021-26855 | Microsoft Exchange Server Remote Code Execution Vulnerability This CVE ID is unique from CVE-2021-26412, CVE-2021-26854, CVE-2021-26857, CVE-2021-26858, CVE-2021-27065, CVE-2021-27078.| 
 | 20210314T10:27:53Z | CVE-2021-26855 | Null | https://github.com/alt3kx/CVE-2021-26855_PoC | Microsoft Exchange Server Remote Code Execution Vulnerability This CVE ID is unique from CVE-2021-26412, CVE-2021-26854, CVE-2021-26857, CVE-2021-26858, CVE-2021-27065, CVE-2021-27078.| 
-| 20210314T02:51:02Z | CVE-2021-26882 | PoC | https://github.com/songjianyang/CVE-2021-26882 | Remote Access API Elevation of Privilege Vulnerability| 
 | 20210314T02:01:52Z | CVE-2021-26855 | CVE-2021-26855, also known as Proxylogon, is a server-side request forgery (SSRF) vulnerability in Exchange that allows an attacker to send arbitrary HTTP requests and authenticate as the Exchange server. According to Orange Tsai, the researcher who discovered the vulnerabilities, CVE-2021-26855 allows code execution when chained with CVE-2021-27065 (see below). A successful exploit chain would allow an unauthenticated attacker to "execute arbitrary commands on Microsoft Exchange Server through only an open 443 port." More information and a disclosure timeline are available at https://proxylogon.com. | https://github.com/raheel0x01/CVE-2021-26855 | Microsoft Exchange Server Remote Code Execution Vulnerability This CVE ID is unique from CVE-2021-26412, CVE-2021-26854, CVE-2021-26857, CVE-2021-26858, CVE-2021-27065, CVE-2021-27078.| 
 | 20210313T13:15:06Z | CVE-2020-25213 | Will write a python script for exploiting this vulnerability  | https://github.com/k0rup710n/Wordpress-CVE-2020-25213 | The File Manager (wp-file-manager) plugin before 6.9 for WordPress allows remote attackers to upload and execute arbitrary PHP code because it renames an unsafe example elFinder connector file to have the .php extension. This, for example, allows attackers to run the elFinder upload (or mkfile and put) command to write PHP code into the wp-content/plugins/wp-file-manager/lib/files/ directory. This was exploited in the wild in August and September 2020.| 
 | 20210313T01:22:41Z | CVE-2020-29134 | Exploit CVE-2020-29134 - TOTVS Fluig Platform - Path Traversal | https://github.com/lucxssouza/CVE-2020-29134 | The TOTVS Fluig platform allows path traversal through the parameter %file = .. /% encoded in base64. This affects all versions Fluig Lake 1.7.0, Fluig 1.6.5 and Fluig 1.6.4| 
@@ -84,21 +84,22 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210314T03:19:02Z | PS1 savegame exploit using THPS3 | https://github.com/socram8888/tonyhax | 28 | 1| 
-| 20210314T03:03:21Z | Get GTFOBins info about a given exploit for given commands | https://github.com/CristinaSolana/ggtfobins | 16 | 1| 
-| 20210314T03:02:35Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 10 | 6| 
-| 20210314T02:51:57Z | Vulnerabilities% Risk of Exploitation | https://github.com/thiagofigcosta/V-REx | 0 | 0| 
-| 20210314T02:06:05Z | Null | https://github.com/Whomever0/exploit-scripts | 0 | 0| 
-| 20210314T01:55:13Z | An open-source post-exploitation framework for students, researchers and developers. | https://github.com/malwaredllc/byob | 6004 | 1348| 
-| 20210314T01:42:09Z | bespoke tooling for offensive security%s Windows Usermode Exploit Dev course (OSED) | https://github.com/epi052/osed-scripts | 2 | 0| 
-| 20210314T00:49:12Z | Null | https://github.com/OwlSploit/OwlExploitMyDesk | 0 | 0| 
-| 20210314T00:16:21Z | Patch for the dispenser crash exploit. | https://github.com/NotHexa/DispenserCrashPatch | 0 | 0| 
-| 20210313T23:59:02Z | Null | https://github.com/caddickzac/Motivated-Reasoning-in-a-Causal-Explore-Exploit-Task | 0 | 0| 
+| 20210314T13:02:24Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 10 | 6| 
+| 20210314T12:38:43Z | PS1 savegame exploit using THPS3 | https://github.com/socram8888/tonyhax | 31 | 1| 
+| 20210314T12:19:54Z | hack tools | https://github.com/hacktoolspack/hack-tools | 487 | 341| 
+| 20210314T12:14:08Z | my exploit for the proxylogon chain (Microsoft Exchange Server - CVE-2021-26855) | https://github.com/hakivvi/proxylogon | 0 | 0| 
+| 20210314T12:00:32Z | Detect malicious code on Exchange Server which could compromise the system, this after exploitation of Hafnium webshell injection. | https://github.com/donkey/chkwebshell.ps1 | 0 | 0| 
+| 20210314T11:45:40Z | Totolink N200RE remote root exploit | https://github.com/lkkula/totoroot | 0 | 0| 
+| 20210314T11:45:30Z | Null | https://github.com/exploitsroblox1/exploitrobloxSukaX | 0 | 0| 
+| 20210314T11:35:10Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9124 | 1468| 
+| 20210314T11:24:26Z | Null | https://github.com/Whomever0/exploit-scripts | 0 | 0| 
+| 20210314T11:07:04Z | The is a roblox exploit! | https://github.com/StandarCoder/EscapedBunny | 0 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210314T12:09:44Z | A backdoor in Node JS | https://github.com/Innovo-Incorporated/backdoor-node | 0 | 0| 
 | 20210314T11:50:28Z | Null | https://github.com/Wiilldd/backdoor | 0 | 0| 
 | 20210314T10:25:48Z | Null | https://github.com/AlpenGod/backdoor.php | 0 | 0| 
 | 20210314T05:37:36Z | I got bored, and I%m somewhat intrested in the topic. | https://github.com/asherbuechel/Simple-Py-Backdoor | 0 | 0| 
@@ -108,22 +109,21 @@
 | 20210313T23:01:33Z | A Simple android remote administration tool using sockets. It uses java on the client side and python on the server side | https://github.com/karma9874/AndroRAT | 184 | 81| 
 | 20210313T21:51:14Z | Null | https://github.com/EjHvorSerDuVildUdJim/backdoor | 0 | 0| 
 | 20210313T21:06:06Z | Null | https://github.com/Delle9999/backdoor | 0 | 0| 
-| 20210313T18:56:59Z | Null | https://github.com/mikkelskov1/backdoor2 | 0 | 0| 
 
 
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210314T02:22:19Z | Config files for my GitHub profile. | https://github.com/FuzzyShadow/FuzzyShadow | 0 | 0| 
-| 20210314T02:17:16Z | Fuzzing cryptographic libraries. Magic bug printer go brrrr. | https://github.com/guidovranken/cryptofuzz | 261 | 36| 
-| 20210314T01:54:58Z | Null | https://github.com/VeriBlock/fuzz-corpus | 0 | 0| 
-| 20210314T01:19:41Z | Null | https://github.com/Tom-Rhodes/Fuzzy-Logic-System---Thomas-Rhodes | 0 | 0| 
-| 20210314T01:02:55Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6064 | 1215| 
-| 20210314T00:48:09Z | CS 4152 Project | https://github.com/nicbarone/Fuzzy-Kiwi | 0 | 0| 
-| 20210314T00:41:59Z | Config files for my GitHub profile. | https://github.com/PurpleFuzzBall/PurpleFuzzBall | 0 | 0| 
-| 20210314T00:38:58Z | Null | https://github.com/shanhuQQ/go-fuzz3 | 0 | 0| 
-| 20210314T00:26:13Z | Fuzzy charrs are fuzzy. | https://github.com/marenubium87/FuzzyCharr | 0 | 0| 
-| 20210313T23:15:38Z | A case study of a fuzzer in the Rascal Language | https://github.com/fuzzing-unb/rascalFuzz | 0 | 0| 
+| 20210314T12:15:36Z | Null | https://github.com/s9varesc/url-fuzzing-docker | 0 | 0| 
+| 20210314T12:15:07Z | Null | https://github.com/s9varesc/url-fuzzing | 0 | 0| 
+| 20210314T12:06:40Z | Null | https://github.com/VeriBlock/fuzz-corpus | 0 | 0| 
+| 20210314T12:03:35Z | Temp repo for oss-fuzz integration | https://github.com/wiredfool/pillow-fuzz | 3 | 0| 
+| 20210314T12:02:07Z | An add-on filament autochanger for existing 3D printers, in duel-spool configuration. | https://github.com/FuzzyNoodle/Fuzzy-Filament-Autochanger | 0 | 0| 
+| 20210314T11:54:59Z | Hacking tools written by me. IP fortune, webmap -- web vulns scanner, rtsp brute+fuzz, and more. | https://github.com/fagcinsk/h4ck | 1 | 0| 
+| 20210314T10:31:53Z | Null | https://github.com/seteri111/gnn-fuzz | 0 | 0| 
+| 20210314T10:07:59Z | Example for local robot framework application. | https://github.com/sthagen/fuzzy-rotary-phone | 1 | 0| 
+| 20210314T10:07:28Z | Null | https://github.com/Sambigeara/fuzzy-note | 2 | 1| 
+| 20210314T09:51:27Z | PoC of fuzzing closed-source userspace binaries with KVM | https://github.com/klecko/kvm-fuzz | 1 | 0| 
 
 
 
