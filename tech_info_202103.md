@@ -46,12 +46,12 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20210314T02:01:52Z | CVE-2021-26855 | CVE-2021-26855, also known as Proxylogon, is a server-side request forgery (SSRF) vulnerability in Exchange that allows an attacker to send arbitrary HTTP requests and authenticate as the Exchange server. According to Orange Tsai, the researcher who discovered the vulnerabilities, CVE-2021-26855 allows code execution when chained with CVE-2021-27065 (see below). A successful exploit chain would allow an unauthenticated attacker to "execute arbitrary commands on Microsoft Exchange Server through only an open 443 port." More information and a disclosure timeline are available at https://proxylogon.com. | https://github.com/raheel0x01/CVE-2021-26855 | Microsoft Exchange Server Remote Code Execution Vulnerability This CVE ID is unique from CVE-2021-26412, CVE-2021-26854, CVE-2021-26857, CVE-2021-26858, CVE-2021-27065, CVE-2021-27078.| 
+| 20210314T02:01:52Z | CVE-2021-26855 | CVE-2021-26855, also known as Proxylogon, is a server-side request forgery (SSRF) vulnerability in Exchange that allows an attacker to send arbitrary HTTP requests and authenticate as the Exchange server. According to Orange Tsai, the researcher who discovered the vulnerabilities, CVE-2021-26855 allows code execution when chained with CVE-2021-27065 (see below). A successful exploit chain would allow an unauthenticated attacker to "execute arbitrary commands on Microsoft Exchange Server through only an open 443 port." More information and a disclosure timeline are available at https://proxylogon.com. | https://github.com/raheel0x01/CVE-2021-26855 | | 
 | 20210314T00:14:56Z | CVE-2021-26855 | PoC of proxylogon chain SSRF(CVE-2021-26855) to write file by testanull, censored by github | https://github.com/hackerschoice/CVE-2021-26855 | Microsoft Exchange Server Remote Code Execution Vulnerability This CVE ID is unique from CVE-2021-26412, CVE-2021-26854, CVE-2021-26857, CVE-2021-26858, CVE-2021-27065, CVE-2021-27078.| 
 | 20210313T19:42:47Z | CVE-2021-26855 | Null | https://github.com/alt3kx/CVE-2021-26855_PoC | Microsoft Exchange Server Remote Code Execution Vulnerability This CVE ID is unique from CVE-2021-26412, CVE-2021-26854, CVE-2021-26857, CVE-2021-26858, CVE-2021-27065, CVE-2021-27078.| 
 | 20210313T14:36:21Z | CVE-2021-26882 | PoC | https://github.com/songjianyang/CVE-2021-26882 | Remote Access API Elevation of Privilege Vulnerability| 
 | 20210313T13:15:06Z | CVE-2020-25213 | Will write a python script for exploiting this vulnerability  | https://github.com/k0rup710n/Wordpress-CVE-2020-25213 | The File Manager (wp-file-manager) plugin before 6.9 for WordPress allows remote attackers to upload and execute arbitrary PHP code because it renames an unsafe example elFinder connector file to have the .php extension. This, for example, allows attackers to run the elFinder upload (or mkfile and put) command to write PHP code into the wp-content/plugins/wp-file-manager/lib/files/ directory. This was exploited in the wild in August and September 2020.| 
-| 20210313T01:22:41Z | CVE-2020-29134 | Exploit CVE-2020-29134 - TOTVS Fluig Platform - Path Traversal | https://github.com/lucxssouza/CVE-2020-29134 | The TOTVS Fluig platform allows path traversal through the parameter %file = .. /% encoded in base64. This affects all versions Fluig Lake 1.7.0, Fluig 1.6.5 and Fluig 1.6.4| 
+| 20210313T01:22:41Z | CVE-2020-29134 | Exploit CVE-2020-29134 - TOTVS Fluig Platform - Path Traversal | https://github.com/lucxssouza/CVE-2020-29134 | | 
 | 20210313T00:48:50Z | CVE-2021-26855 | Scanner and PoC for CVE-2021-26855  | https://github.com/KotSec/CVE-2021-26855-Scanner | Microsoft Exchange Server Remote Code Execution Vulnerability This CVE ID is unique from CVE-2021-26412, CVE-2021-26854, CVE-2021-26857, CVE-2021-26858, CVE-2021-27065, CVE-2021-27078.| 
 | 20210312T16:49:53Z | CVE-2021-26855 | Null | https://github.com/XairGit/CVE-2021-26855 | Microsoft Exchange Server Remote Code Execution Vulnerability This CVE ID is unique from CVE-2021-26412, CVE-2021-26854, CVE-2021-26857, CVE-2021-26858, CVE-2021-27065, CVE-2021-27078.| 
 | 20210312T16:16:04Z | CVE-2021-26855 | POC  of CVE-2021-26855, CVE-2021-26857, CVE-2021-26858, and CVE-2021-26865,  ProxyLogon poc | https://github.com/Yt1g3r/CVE-2021-26855_SSRF | Microsoft Exchange Server Remote Code Execution Vulnerability This CVE ID is unique from CVE-2021-26412, CVE-2021-26854, CVE-2021-26857, CVE-2021-26858, CVE-2021-27065, CVE-2021-27078.| 
@@ -114,16 +114,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210314T02:22:19Z | Config files for my GitHub profile. | https://github.com/FuzzyShadow/FuzzyShadow | 0 | 0| 
+| 20210314T02:17:16Z | Fuzzing cryptographic libraries. Magic bug printer go brrrr. | https://github.com/guidovranken/cryptofuzz | 261 | 36| 
+| 20210314T01:54:58Z | Null | https://github.com/VeriBlock/fuzz-corpus | 0 | 0| 
+| 20210314T01:19:41Z | Null | https://github.com/Tom-Rhodes/Fuzzy-Logic-System---Thomas-Rhodes | 0 | 0| 
 | 20210314T01:02:55Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6064 | 1215| 
 | 20210314T00:48:09Z | CS 4152 Project | https://github.com/nicbarone/Fuzzy-Kiwi | 0 | 0| 
 | 20210314T00:41:59Z | Config files for my GitHub profile. | https://github.com/PurpleFuzzBall/PurpleFuzzBall | 0 | 0| 
-| 20210314T00:39:31Z | Null | https://github.com/VeriBlock/fuzz-corpus | 0 | 0| 
 | 20210314T00:38:58Z | Null | https://github.com/shanhuQQ/go-fuzz3 | 0 | 0| 
 | 20210314T00:26:13Z | Fuzzy charrs are fuzzy. | https://github.com/marenubium87/FuzzyCharr | 0 | 0| 
 | 20210313T23:15:38Z | A case study of a fuzzer in the Rascal Language | https://github.com/fuzzing-unb/rascalFuzz | 0 | 0| 
-| 20210313T23:12:48Z | A case study of a fuzzer in the Rascal Language | https://github.com/faustocarva/rascalFuzz | 0 | 0| 
-| 20210313T21:50:57Z | Null | https://github.com/ddsmatt/fuzzy-carnival | 0 | 0| 
-| 20210313T21:30:01Z | A  playground to learn computer graphics | https://github.com/patiboh/fuzzy-playground | 1 | 0| 
 
 
 
