@@ -45,7 +45,7 @@
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210315T12:28:32Z | Null | https://github.com/ioliu/klee | 0 | 0| 
+| 20210315T12:29:00Z | Null | https://github.com/ioliu/klee | 0 | 0| 
 | 20210315T11:08:46Z | klee.js is a (data driven) generator and wrapper for the magnificent three.js | https://github.com/trenc/klee.js | 1 | 0| 
 | 20210315T10:25:06Z | 程序员哥哥，你是来找可莉玩的吗？可莉语音包，适用于 vscode-rainbow-fart 拓展。 | https://github.com/Ran-ying/Klee-rainbow-fart | 3 | 0| 
 | 20210315T08:05:25Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 的 Klee One 的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 332 | 7| 
@@ -60,6 +60,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210315T12:29:57Z | Thi powershell script has got to run in remote windows host, even for pivoting | https://github.com/FabioDefilippo/winallenum | 2 | 1| 
 | 20210315T12:28:48Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9129 | 1470| 
 | 20210315T12:23:43Z | CAUTION - Malicious files | https://github.com/Am0rphous/Malware | 18 | 6| 
 | 20210315T12:15:26Z | forked version of funtuna, a homebrew ps2 app launcher designed to ease the pain of getting a stable exploit for those that have a console uncompatible with FreeMcBoot | https://github.com/israpps/Funtuna-Fork | 3 | 0| 
@@ -69,7 +70,6 @@
 | 20210315T12:02:55Z | Zerologon Check and Exploit - Discovered by Tom Tervoort of Secura and expanded on @Dirkjanm%s cve-2020-1472 coded example | https://github.com/sho-luv/zerologon | 1 | 0| 
 | 20210315T11:43:08Z | Vulnerabilities% Risk of Exploitation | https://github.com/thiagofigcosta/V-REx | 0 | 0| 
 | 20210315T11:42:08Z | IoC determination for exploitation of CVE-2021-26855, CVE-2021-26857, CVE-2021-26858 and CVE-2021-27065. | https://github.com/sgnls/exchange-0days-202103 | 5 | 4| 
-| 20210315T11:40:06Z | Thi powershell script has got to run in remote windows host, even for pivoting | https://github.com/FabioDefilippo/winallenum | 2 | 1| 
 
 
 # backdoor on Github 推荐
