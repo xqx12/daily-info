@@ -84,16 +84,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210315T12:13:52Z | Secure systems engineering course assignments and exploits | https://github.com/adithyasrinivas11/Secure_Systems_IITM | 0 | 0| 
+| 20210315T12:13:18Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 11 | 6| 
+| 20210315T12:12:25Z | forked version of funtuna, a homebrew ps2 app launcher designed to ease the pain of getting a stable exploit for those that have a console uncompatible with FreeMcBoot | https://github.com/israpps/Funtuna-Fork | 3 | 0| 
+| 20210315T12:09:11Z | Exploit Development on my road to OSCP | https://github.com/macosta-42/Exploit-Development | 0 | 0| 
 | 20210315T12:02:55Z | Zerologon Check and Exploit - Discovered by Tom Tervoort of Secura and expanded on @Dirkjanm%s cve-2020-1472 coded example | https://github.com/sho-luv/zerologon | 1 | 0| 
-| 20210315T12:02:25Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 10 | 6| 
 | 20210315T11:52:12Z | CAUTION - Malicious files | https://github.com/Am0rphous/Malware | 18 | 6| 
 | 20210315T11:43:08Z | Vulnerabilities% Risk of Exploitation | https://github.com/thiagofigcosta/V-REx | 0 | 0| 
 | 20210315T11:42:08Z | IoC determination for exploitation of CVE-2021-26855, CVE-2021-26857, CVE-2021-26858 and CVE-2021-27065. | https://github.com/sgnls/exchange-0days-202103 | 5 | 4| 
 | 20210315T11:40:06Z | Thi powershell script has got to run in remote windows host, even for pivoting | https://github.com/FabioDefilippo/winallenum | 2 | 1| 
 | 20210315T11:35:14Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9130 | 1470| 
-| 20210315T11:26:10Z | PS4 Exploit Host | https://github.com/Night-King-Host/Night-King-Host.github.io | 0 | 0| 
-| 20210315T11:22:03Z | Exploiting Inter- and Intadependencies in Industry Portfolios | https://github.com/ElwinKardux/Time-SeriesEfficientReturns | 1 | 0| 
-| 20210315T11:18:10Z | Old and new CTFs about Linux kernel exploitation. | https://github.com/MaherAzzouzi/LinuxKernelExploitation | 0 | 0| 
 
 
 # backdoor on Github 推荐
