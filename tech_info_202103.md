@@ -46,10 +46,10 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20210316T01:35:50Z | CVE-2021-26855 | PoC of proxylogon chain SSRF(CVE-2021-26855) to write file by testanull, censored by github | https://github.com/hackerschoice/CVE-2021-26855 | Microsoft Exchange Server Remote Code Execution Vulnerability This CVE ID is unique from CVE-2021-26412, CVE-2021-26854, CVE-2021-26857, CVE-2021-26858, CVE-2021-27065, CVE-2021-27078.| 
+| 20210316T01:35:50Z | CVE-2021-26855 | PoC of proxylogon chain SSRF(CVE-2021-26855) to write file by testanull, censored by github | https://github.com/hackerschoice/CVE-2021-26855 | | 
 | 20210316T00:51:06Z | CVE-2021-21973 | automate me! | https://github.com/freakanonymous/CVE-2021-21973-Automateme | The vSphere Client (HTML5) contains an SSRF (Server Side Request Forgery) vulnerability due to improper validation of URLs in a vCenter Server plugin. A malicious actor with network access to port 443 may exploit this issue by sending a POST request to vCenter Server plugin leading to information disclosure. This affects: VMware vCenter Server (7.x before 7.0 U1c, 6.7 before 6.7 U3l and 6.5 before 6.5 U3n) and VMware Cloud Foundation (4.x before 4.2 and 3.x before 3.10.1.2).| 
 | 20210315T23:37:29Z | CVE-2021-26855 | Scanner and PoC for CVE-2021-26855  | https://github.com/KotSec/CVE-2021-26855-Scanner | Microsoft Exchange Server Remote Code Execution Vulnerability This CVE ID is unique from CVE-2021-26412, CVE-2021-26854, CVE-2021-26857, CVE-2021-26858, CVE-2021-27065, CVE-2021-27078.| 
-| 20210315T23:06:46Z | CVE-2021-26855 | CVE-2021-26855: PoC (Not a HoneyPoC for once!) | https://github.com/ZephrFish/Exch-CVE-2021-26855 | | 
+| 20210315T23:06:46Z | CVE-2021-26855 | CVE-2021-26855: PoC (Not a HoneyPoC for once!) | https://github.com/ZephrFish/Exch-CVE-2021-26855 | Microsoft Exchange Server Remote Code Execution Vulnerability This CVE ID is unique from CVE-2021-26412, CVE-2021-26854, CVE-2021-26857, CVE-2021-26858, CVE-2021-27065, CVE-2021-27078.| 
 | 20210315T21:59:15Z | CVE-2021-26855 | RCE exploit for ProxyLogon vulnerability in Microsoft Exchange | https://github.com/mil1200/ProxyLogon-CVE-2021-26855 | Microsoft Exchange Server Remote Code Execution Vulnerability This CVE ID is unique from CVE-2021-26412, CVE-2021-26854, CVE-2021-26857, CVE-2021-26858, CVE-2021-27065, CVE-2021-27078.| 
 | 20210315T19:33:48Z | CVE-2021-3156 | Sudo Baron Samedit Exploit | https://github.com/worawit/CVE-2021-3156 | Sudo before 1.9.5p2 has a Heap-based Buffer Overflow, allowing privilege escalation to root via %sudoedit -s% and a command-line argument that ends with a single backslash character.| 
 | 20210315T14:49:10Z | CVE-2021-26855 | Null | https://github.com/Mr-xn/CVE-2021-26855-d | Microsoft Exchange Server Remote Code Execution Vulnerability This CVE ID is unique from CVE-2021-26412, CVE-2021-26854, CVE-2021-26857, CVE-2021-26858, CVE-2021-27065, CVE-2021-27078.| 
@@ -114,16 +114,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210315T11:56:23Z | The Official Fuzzy Britches Repository. | https://github.com/ThePapaw/fuzzybritches | 0 | 0| 
-| 20210315T11:46:55Z | Null | https://github.com/JumGame44/fuzz-build | 0 | 0| 
-| 20210315T11:46:05Z | Towards fuzzing ROS 2 automatically | https://github.com/JnxF/automatic_fuzzing | 0 | 0| 
-| 20210315T11:39:07Z | Null | https://github.com/VeriBlock/fuzz-corpus | 0 | 0| 
-| 20210315T11:14:34Z | Attila%s website on GitHub | https://github.com/attilavajdaxyz/fuzzy-engine | 0 | 0| 
-| 20210315T10:51:07Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6074 | 1216| 
-| 20210315T10:16:36Z | Rockyou for web fuzzing | https://github.com/six2dez/OneListForAll | 213 | 45| 
-| 20210315T09:49:18Z | Null | https://github.com/TheCloverly/fuzzy-train | 0 | 0| 
-| 20210315T09:10:08Z | Null | https://github.com/HaoJame/FuzzAFL | 0 | 0| 
-| 20210315T08:50:44Z | Jan%s Fuzzy System (JFS) | https://github.com/inniyah/jfs-fuzzy | 0 | 0| 
+| 20210316T01:48:43Z | Coverage-guided binary fuzzing powered by Frida Stalker | https://github.com/meme/hotwax | 149 | 22| 
+| 20210316T01:47:48Z | REST API Fuzz Testing (RAFT): Source code for self-hosted service developed for Azure, including the API, orchestration engine, and default set of security tools (including MSR%s RESTler), that enables developers to embed security tooling into their CI/CD workflows | https://github.com/microsoft/rest-api-fuzz-testing | 115 | 18| 
+| 20210316T01:39:16Z | repo of scripts | https://github.com/johanvargas/fuzzy-projects | 0 | 0| 
+| 20210316T01:32:05Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6078 | 1218| 
+| 20210316T01:30:54Z | CS 4152 Project | https://github.com/nicbarone/Fuzzy-Kiwi | 0 | 0| 
+| 20210316T01:30:36Z | Rapid fuzzy string matching in Python using the Levenshtein Distance | https://github.com/maxbachmann/RapidFuzz | 806 | 29| 
+| 20210316T01:05:22Z | Scalable fuzzing infrastructure. | https://github.com/google/clusterfuzz | 4461 | 426| 
+| 20210316T00:39:57Z | Null | https://github.com/VeriBlock/fuzz-corpus | 0 | 0| 
+| 20210316T00:13:23Z | Null | https://github.com/hyperledger-cicd/fuzzy-doodle | 0 | 0| 
+| 20210315T23:56:03Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2286 | 118| 
 
 
 
