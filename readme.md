@@ -53,7 +53,6 @@
 | 20210315T17:33:27Z | 원신 가챠 시뮬레이터 | https://github.com/LunaNyan/Genshin_Klee_Discord_Bot | 0 | 0| 
 | 20210315T13:54:53Z | Website for the KLEE project: https://klee.github.io/ | https://github.com/klee/klee.github.io | 14 | 42| 
 | 20210315T13:42:29Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 的 Klee One 的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 333 | 7| 
-| 20210315T12:37:58Z | Git Blog | https://github.com/klee30810/klee30810.github.io | 0 | 0| 
 | 20210315T12:31:03Z | Null | https://github.com/ioliu/klee | 0 | 0| 
 | 20210315T11:08:46Z | klee.js is a (data driven) generator and wrapper for the magnificent three.js | https://github.com/trenc/klee.js | 1 | 0| 
 | 20210315T10:25:06Z | 程序员哥哥，你是来找可莉玩的吗？可莉语音包，适用于 vscode-rainbow-fart 拓展。 | https://github.com/Ran-ying/Klee-rainbow-fart | 3 | 0| 
