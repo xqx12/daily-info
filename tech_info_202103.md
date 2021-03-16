@@ -84,7 +84,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210316T01:30:30Z | PS4 Exploit Host | https://github.com/Night-King-Host/Night-King-Host.github.io | 0 | 0| 
+| 20210316T01:37:23Z | PS4 Exploit Host | https://github.com/Night-King-Host/Night-King-Host.github.io | 0 | 0| 
 | 20210316T01:21:55Z | Stuxnet is an extremely sophisticated computer worm that exploits multiple previously unknown Windows zero-day vulnerabilities to infect computers and spread. Its purpose was not just to infect PCs but to cause real-world physical effects. Specifically, it targets centrifuges used to produce the enriched uranium that powers nuclear weapons and reactors. | https://github.com/Xi-v/Win32.Stuxnet | 0 | 0| 
 | 20210316T01:21:33Z | A python script defining a class with attributes that exploit a Target via unix shell code, and python modules. | https://github.com/omega808/violent-python | 0 | 0| 
 | 20210316T01:06:22Z | Vulmap 是一款 web 漏洞扫描和验证工具, 可对 webapps 进行漏洞扫描, 并且具备漏洞利用功能 | https://github.com/zhzyker/vulmap | 1053 | 191| 
