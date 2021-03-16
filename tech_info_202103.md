@@ -84,6 +84,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210316T00:03:36Z | forked version of funtuna, a homebrew ps2 app launcher designed to ease the pain of getting a stable exploit for those that have a console uncompatible with FreeMcBoot | https://github.com/israpps/Funtuna-Fork | 3 | 0| 
 | 20210316T00:02:26Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 11 | 6| 
 | 20210315T23:49:39Z | Null | https://github.com/certix7/HAPPY_EXPLOIT | 6 | 2| 
 | 20210315T23:46:59Z | Roblox Unsigned Execution Through a Vanilla LBI. | https://github.com/OpenGamerTips/Xenon | 3 | 1| 
@@ -93,7 +94,6 @@
 | 20210315T23:19:32Z | C2/post-exploitation framework | https://github.com/loseys/BlackMamba | 539 | 56| 
 | 20210315T23:11:05Z | This repository contains tools developed to hack CS:GO. | https://github.com/samdobsonDEV/csgo-exploits | 0 | 0| 
 | 20210315T22:55:26Z | More Stable Offline Exploit version of PS4 6.72 Jailbreak. | https://github.com/DarkModderVC/PS4JB | 96 | 36| 
-| 20210315T22:52:35Z | Development of code to exploit LSST and VISTA imaging | https://github.com/lsst-uk/lsst-ir-fusion | 0 | 0| 
 
 
 # backdoor on Github 推荐
