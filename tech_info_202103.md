@@ -46,7 +46,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20210316T00:50:18Z | CVE-2021-21973 | automate me! | https://github.com/freakanonymous/CVE-2021-21973-Automateme | The vSphere Client (HTML5) contains an SSRF (Server Side Request Forgery) vulnerability due to improper validation of URLs in a vCenter Server plugin. A malicious actor with network access to port 443 may exploit this issue by sending a POST request to vCenter Server plugin leading to information disclosure. This affects: VMware vCenter Server (7.x before 7.0 U1c, 6.7 before 6.7 U3l and 6.5 before 6.5 U3n) and VMware Cloud Foundation (4.x before 4.2 and 3.x before 3.10.1.2).| 
+| 20210316T00:51:06Z | CVE-2021-21973 | automate me! | https://github.com/freakanonymous/CVE-2021-21973-Automateme | The vSphere Client (HTML5) contains an SSRF (Server Side Request Forgery) vulnerability due to improper validation of URLs in a vCenter Server plugin. A malicious actor with network access to port 443 may exploit this issue by sending a POST request to vCenter Server plugin leading to information disclosure. This affects: VMware vCenter Server (7.x before 7.0 U1c, 6.7 before 6.7 U3l and 6.5 before 6.5 U3n) and VMware Cloud Foundation (4.x before 4.2 and 3.x before 3.10.1.2).| 
 | 20210315T23:37:29Z | CVE-2021-26855 | Scanner and PoC for CVE-2021-26855  | https://github.com/KotSec/CVE-2021-26855-Scanner | Microsoft Exchange Server Remote Code Execution Vulnerability This CVE ID is unique from CVE-2021-26412, CVE-2021-26854, CVE-2021-26857, CVE-2021-26858, CVE-2021-27065, CVE-2021-27078.| 
 | 20210315T23:06:46Z | CVE-2021-26855 | CVE-2021-26855: PoC (Not a HoneyPoC for once!) | https://github.com/ZephrFish/Exch-CVE-2021-26855 | Microsoft Exchange Server Remote Code Execution Vulnerability This CVE ID is unique from CVE-2021-26412, CVE-2021-26854, CVE-2021-26857, CVE-2021-26858, CVE-2021-27065, CVE-2021-27078.| 
 | 20210315T21:59:15Z | CVE-2021-26855 | RCE exploit for ProxyLogon vulnerability in Microsoft Exchange | https://github.com/mil1200/ProxyLogon-CVE-2021-26855 | Microsoft Exchange Server Remote Code Execution Vulnerability This CVE ID is unique from CVE-2021-26412, CVE-2021-26854, CVE-2021-26857, CVE-2021-26858, CVE-2021-27065, CVE-2021-27078.| 
@@ -76,7 +76,7 @@
 # s2e on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210315T12:19:15Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 99 | 24| 
+| 20210316T00:52:16Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 100 | 24| 
 | 20210313T20:42:17Z | Source of Sonic Eclipse, a romhack of Sonic 2 for Sega Master System circa 2018. http://sonicresearch.org/community/index.php?threads/sonic-eclipse.5524/ | https://github.com/mrcat-pixel/s2eclipse | 3 | 0| 
 | 20210306T11:03:45Z | Master Thesis %Decentralised Location-Based Reputation Management System in IoT using Blockchain% - Experiment S2 region covering in Golang | https://github.com/ponlawat-w/uji_mt-s2encoding | 0 | 0| 
 
