@@ -23,7 +23,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20210316T12:03:59Z | CVE-2021-3156 | Sudo Baron Samedit Exploit | https://github.com/worawit/CVE-2021-3156 | | 
+| 20210316T12:03:59Z | CVE-2021-3156 | Sudo Baron Samedit Exploit | https://github.com/worawit/CVE-2021-3156 | Sudo before 1.9.5p2 has a Heap-based Buffer Overflow, allowing privilege escalation to root via %sudoedit -s% and a command-line argument that ends with a single backslash character.| 
 | 20210316T11:58:31Z | CVE-2021-26855 | CVE-2021-26855: PoC (Not a HoneyPoC for once!) | https://github.com/ZephrFish/Exch-CVE-2021-26855 | Microsoft Exchange Server Remote Code Execution Vulnerability This CVE ID is unique from CVE-2021-26412, CVE-2021-26854, CVE-2021-26857, CVE-2021-26858, CVE-2021-27065, CVE-2021-27078.| 
 | 20210316T11:03:26Z | CVE-2021-26855 | Null | https://github.com/Mr-xn/CVE-2021-26855-d | Microsoft Exchange Server Remote Code Execution Vulnerability This CVE ID is unique from CVE-2021-26412, CVE-2021-26854, CVE-2021-26857, CVE-2021-26858, CVE-2021-27065, CVE-2021-27078.| 
 | 20210316T03:10:54Z | CVE-2021-26855 | PoC of proxylogon chain SSRF(CVE-2021-26855) to write file by testanull, censored by github | https://github.com/hackerschoice/CVE-2021-26855 | Microsoft Exchange Server Remote Code Execution Vulnerability This CVE ID is unique from CVE-2021-26412, CVE-2021-26854, CVE-2021-26857, CVE-2021-26858, CVE-2021-27065, CVE-2021-27078.| 
@@ -75,6 +75,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210316T12:11:08Z | Null | https://github.com/s9varesc/url-fuzzing | 0 | 0| 
 | 20210316T11:57:44Z | Fuzzy completion provider for Julia | https://github.com/JunoLab/FuzzyCompletions.jl | 5 | 2| 
 | 20210316T11:56:29Z | A Haskell library for fuzzy text search | https://github.com/runarorama/fuzzyfind | 6 | 0| 
 | 20210316T11:42:39Z | Null | https://github.com/Calugar25/Fuzzer | 0 | 0| 
@@ -84,7 +85,6 @@
 | 20210316T11:22:40Z | A fork of AFL for fuzzing Windows binaries | https://github.com/googleprojectzero/winafl | 1620 | 420| 
 | 20210316T11:15:42Z | The SMB Fuzzer fuzzes the Server Block Message Protocol that enables file sharing, printing and IPC between Unix and Windows systems. | https://github.com/mellowCS/SMB_Fuzzer | 0 | 0| 
 | 20210316T10:47:06Z | Null | https://github.com/lumebits/fuzzgram | 1 | 0| 
-| 20210316T10:33:00Z | Null | https://github.com/s9varesc/url-fuzzing | 0 | 0| 
 
 
 
