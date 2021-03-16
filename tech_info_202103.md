@@ -114,16 +114,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210316T01:48:43Z | Coverage-guided binary fuzzing powered by Frida Stalker | https://github.com/meme/hotwax | 149 | 22| 
-| 20210316T01:47:48Z | REST API Fuzz Testing (RAFT): Source code for self-hosted service developed for Azure, including the API, orchestration engine, and default set of security tools (including MSR%s RESTler), that enables developers to embed security tooling into their CI/CD workflows | https://github.com/microsoft/rest-api-fuzz-testing | 115 | 18| 
-| 20210316T01:39:16Z | repo of scripts | https://github.com/johanvargas/fuzzy-projects | 0 | 0| 
-| 20210316T01:32:05Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6078 | 1218| 
-| 20210316T01:30:54Z | CS 4152 Project | https://github.com/nicbarone/Fuzzy-Kiwi | 0 | 0| 
-| 20210316T01:30:36Z | Rapid fuzzy string matching in Python using the Levenshtein Distance | https://github.com/maxbachmann/RapidFuzz | 806 | 29| 
-| 20210316T01:05:22Z | Scalable fuzzing infrastructure. | https://github.com/google/clusterfuzz | 4461 | 426| 
-| 20210316T00:39:57Z | Null | https://github.com/VeriBlock/fuzz-corpus | 0 | 0| 
-| 20210316T00:13:23Z | Null | https://github.com/hyperledger-cicd/fuzzy-doodle | 0 | 0| 
-| 20210315T23:56:03Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2286 | 118| 
+| 20210316T11:57:44Z | Fuzzy completion provider for Julia | https://github.com/JunoLab/FuzzyCompletions.jl | 5 | 2| 
+| 20210316T11:56:29Z | A Haskell library for fuzzy text search | https://github.com/runarorama/fuzzyfind | 6 | 0| 
+| 20210316T11:42:39Z | Null | https://github.com/Calugar25/Fuzzer | 0 | 0| 
+| 20210316T11:39:34Z | Null | https://github.com/VeriBlock/fuzz-corpus | 0 | 0| 
+| 20210316T11:35:59Z | Null | https://github.com/s9varesc/url-fuzzing-docker | 0 | 0| 
+| 20210316T11:27:02Z | FormatFuzzer is a framework for high-efficiency, high-quality generation and parsing of binary inputs. | https://github.com/uds-se/FormatFuzzer | 116 | 12| 
+| 20210316T11:22:40Z | A fork of AFL for fuzzing Windows binaries | https://github.com/googleprojectzero/winafl | 1620 | 420| 
+| 20210316T11:15:42Z | The SMB Fuzzer fuzzes the Server Block Message Protocol that enables file sharing, printing and IPC between Unix and Windows systems. | https://github.com/mellowCS/SMB_Fuzzer | 0 | 0| 
+| 20210316T10:47:06Z | Null | https://github.com/lumebits/fuzzgram | 1 | 0| 
+| 20210316T10:33:00Z | Null | https://github.com/s9varesc/url-fuzzing | 0 | 0| 
 
 
 
