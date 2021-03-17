@@ -115,6 +115,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210317T12:06:30Z | This is a Fuzzer library built in JS and nodeJS | https://github.com/fuzzing-unb/FuzzerJS | 0 | 0| 
 | 20210317T12:02:21Z | Null | https://github.com/DarkShinobi100/BehaviourTreesvsFuzzy | 0 | 0| 
 | 20210317T11:51:54Z | Null | https://github.com/s9varesc/url-fuzzing | 0 | 0| 
 | 20210317T11:44:33Z | afl++ setup | https://github.com/LibreDWG/libredwg-fuzz | 0 | 0| 
@@ -124,7 +125,6 @@
 | 20210317T11:11:48Z | Null | https://github.com/GianCarloMilanese/fuzzy_taxonomic_reasoning | 0 | 0| 
 | 20210317T10:55:16Z | fzf-like fuzzy-finder as a Go library | https://github.com/ktr0731/go-fuzzyfinder | 217 | 20| 
 | 20210317T10:54:07Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 1501 | 306| 
-| 20210317T10:47:52Z | Generates Elm types, JSON decoders, JSON encoders and fuzz tests from JSON schema specifications | https://github.com/dragonwasrobot/json-schema-to-elm | 64 | 7| 
 
 
 
