@@ -76,6 +76,7 @@
 # s2e on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210317T11:39:38Z | with the technique of Opencv, we try to achieve traffic identification. | https://github.com/wpfeder/Opencv_traffic_s2e | 0 | 0| 
 | 20210316T01:31:41Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 101 | 25| 
 | 20210313T20:42:17Z | Source of Sonic Eclipse, a romhack of Sonic 2 for Sega Master System circa 2018. http://sonicresearch.org/community/index.php?threads/sonic-eclipse.5524/ | https://github.com/mrcat-pixel/s2eclipse | 3 | 0| 
 | 20210306T11:03:45Z | Master Thesis %Decentralised Location-Based Reputation Management System in IoT using Blockchain% - Experiment S2 region covering in Golang | https://github.com/ponlawat-w/uji_mt-s2encoding | 0 | 0| 
@@ -84,6 +85,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210317T12:02:27Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 11 | 6| 
 | 20210317T11:54:41Z | PS4 Exploit Host | https://github.com/Night-King-Host/Night-King-Host.github.io | 0 | 0| 
 | 20210317T11:51:20Z | Exploit Development - Weaponized Exploit and Proof of Concepts (PoC)  | https://github.com/VoidSec/Exploit-Development | 19 | 7| 
 | 20210317T11:44:52Z | this is my own exploit, should be private, uses krnl api | https://github.com/XGodsOfWorldsX/Rainer_X-V1.3 | 0 | 0| 
@@ -93,7 +95,6 @@
 | 20210317T11:24:03Z | Null | https://github.com/Whomever0/exploit-scripts | 0 | 0| 
 | 20210317T11:22:55Z | The Hybrid Fake Face (HFF) dataset is built by exploiting the PGGAN, StyleGAN, Glow, and StarGAN.  | https://github.com/EricGzq/Hybrid-Fake-Face-Dataset | 7 | 0| 
 | 20210317T11:13:40Z | Bu Tool İle Local ağdaki bir exploit%i Dış ağa taşıyabilirsiniz. | https://github.com/adeka299aaa/Adeka-MSF-Tool | 2 | 1| 
-| 20210317T11:02:23Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 11 | 6| 
 
 
 # backdoor on Github 推荐
@@ -114,10 +115,10 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210317T12:02:21Z | Null | https://github.com/DarkShinobi100/BehaviourTreesvsFuzzy | 0 | 0| 
 | 20210317T11:51:54Z | Null | https://github.com/s9varesc/url-fuzzing | 0 | 0| 
 | 20210317T11:44:33Z | afl++ setup | https://github.com/LibreDWG/libredwg-fuzz | 0 | 0| 
 | 20210317T11:42:01Z | Null | https://github.com/JohenanLi/AggregateFuzzing | 0 | 0| 
-| 20210317T11:19:28Z | Null | https://github.com/DarkShinobi100/BehaviourTreesvsFuzzy | 0 | 0| 
 | 20210317T11:16:11Z | Null | https://github.com/VeriBlock/fuzz-corpus | 0 | 1| 
 | 20210317T11:12:29Z | Turing Machine is a Fuzzer developed in Net Standard that allows to fuzz any type of applications or libraries, focused on .Net Framework, Dotnet Core and Net Standard applications. | https://github.com/Red4Sec/TuringMachine | 2 | 0| 
 | 20210317T11:11:48Z | Null | https://github.com/GianCarloMilanese/fuzzy_taxonomic_reasoning | 0 | 0| 
