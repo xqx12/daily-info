@@ -32,6 +32,8 @@
 | ts | title | url| 
 | --- | --- | ---| 
 | 20210317 | 流行窃密类木马分析（下） | https://mp.weixin.qq.com/s/R4sOXCP-_T3NGN5d7Ybl6Q| 
+| 20210317 | Apache Solr 组件安全概览 | https://mp.weixin.qq.com/s/3WuWUGO61gM0dBpwqTfenQ| 
+| 20210317 | 白嫖CDN，打造封不尽IP的代理池 | https://mp.weixin.qq.com/s/d-q5E8VmqacbwtGCJux3yw| 
 | 20210315 | 隐蔽信道：隐形网络 | https://www.sec-in.com/article/57| 
 | 20210315 | SecWiki周刊（第367期) | https://www.sec-wiki.com/weekly/367| 
 | 20210315 | 知识图谱技术如何赋能智能安全运营 | https://mp.weixin.qq.com/s/qOuvPv8cm1S-jA-gqH1hZg| 
@@ -39,16 +41,14 @@
 | 20210313 | Shiro 反序列化漏洞利用工具编写思路 | https://mp.weixin.qq.com/s/WDmj4-2lB-hlf_Fm_wDiOg| 
 | 20210313 | 对蚁剑的相关改造及分析 | https://www.anquanke.com/post/id/233114| 
 | 20210313 | 如何攻击深度学习系统——后门攻防 | https://www.anquanke.com/post/id/232414| 
-| 20210313 | IoT设备漏洞复现到固件后门植入 | https://www.anquanke.com/post/id/232845| 
-| 20210313 | TIG 威胁情报收集 | https://github.com/wgpsec/tig| 
 
 
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20210317T11:43:16Z | CVE-2021-3156 | Sudo Baron Samedit Exploit | https://github.com/worawit/CVE-2021-3156 | Sudo before 1.9.5p2 contains an off-by-one error that can result in a heap-based buffer overflow, which allows privilege escalation to root via %sudoedit -s% and a command-line argument that ends with a single backslash character.| 
+| 20210317T11:43:16Z | CVE-2021-3156 | Sudo Baron Samedit Exploit | https://github.com/worawit/CVE-2021-3156 | | 
 | 20210317T11:30:01Z | CVE-2020-15778 | Null | https://github.com/cpandya2909/CVE-2020-15778 | | 
-| 20210317T11:10:56Z | CVE-2021-22986 | This is a Poc for BIGIP iControl unauth RCE  | https://github.com/dorkerdevil/CVE-2021-22986-Poc | 未查询到CVE信息| 
+| 20210317T11:10:56Z | CVE-2021-22986 | This is a Poc for BIGIP iControl unauth RCE  | https://github.com/dorkerdevil/CVE-2021-22986-Poc | | 
 | 20210317T05:51:32Z | CVE-2021-26855 | CVE-2021-26855 proxyLogon metasploit exploit script | https://github.com/TaroballzChen/ProxyLogon-CVE-2021-26855-metasploit | Microsoft Exchange Server Remote Code Execution Vulnerability This CVE ID is unique from CVE-2021-26412, CVE-2021-26854, CVE-2021-26857, CVE-2021-26858, CVE-2021-27065, CVE-2021-27078.| 
 | 20210317T03:11:02Z | CVE-2021-26411 | Null | https://github.com/avboy1337/CVE-2021-26411 | Internet Explorer Memory Corruption Vulnerability| 
 | 20210316T16:39:44Z | CVE-2021-26855 | Null | https://github.com/alt3kx/CVE-2021-26855_PoC | Microsoft Exchange Server Remote Code Execution Vulnerability This CVE ID is unique from CVE-2021-26412, CVE-2021-26854, CVE-2021-26857, CVE-2021-26858, CVE-2021-27065, CVE-2021-27078.| 
@@ -85,8 +85,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210317T12:15:35Z | PS4 Exploit list | https://github.com/Hakkuraifu/PS4xploit | 25 | 6| 
 | 20210317T12:06:10Z | Data exploitation for graph algorithms - applied to Paris | https://github.com/hlefebvr/shortest-path-gtfs | 1 | 0| 
-| 20210317T12:03:36Z | PS4 Exploit list | https://github.com/Hakkuraifu/PS4xploit | 25 | 6| 
 | 20210317T12:02:27Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 11 | 6| 
 | 20210317T11:54:41Z | PS4 Exploit Host | https://github.com/Night-King-Host/Night-King-Host.github.io | 0 | 0| 
 | 20210317T11:51:20Z | Exploit Development - Weaponized Exploit and Proof of Concepts (PoC)  | https://github.com/VoidSec/Exploit-Development | 19 | 7| 
@@ -100,9 +100,9 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210317T12:15:32Z | Null | https://github.com/M1kk4l/Backdoor | 0 | 0| 
 | 20210317T11:57:33Z | Protect your server against backdoors. | https://github.com/Xalalau/backdoor-shield | 1 | 0| 
 | 20210317T11:42:51Z | UEFI driver that installs backdoor reachable from usermode on Windows | https://github.com/mathisvickie/efi-backdoor | 0 | 0| 
-| 20210317T11:18:24Z | Null | https://github.com/M1kk4l/Backdoor | 0 | 0| 
 | 20210317T08:02:25Z | Detect ip address in apk file to find backdoor app%s owner | https://github.com/JuyunLee/apk_ip_hunter | 0 | 0| 
 | 20210317T07:08:40Z | Null | https://github.com/AbhinavBaranwal/backdoor_apk | 0 | 0| 
 | 20210317T06:51:23Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 190 | 33| 
