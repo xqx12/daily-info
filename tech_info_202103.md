@@ -84,12 +84,12 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210317T00:13:42Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9144 | 1474| 
 | 20210317T00:02:34Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 11 | 6| 
 | 20210316T23:50:06Z | Null | https://github.com/SammyKrosoft/Exchange-Vulnerability-02March2021-HAFNIUM-targeting-Exchange-Servers-with-0-day-exploits | 1 | 1| 
 | 20210316T23:46:58Z | A single-core implementation of a cache timing side channel attack making use of the Prime+Probe exploit. | https://github.com/Incapamentum/Single-Core_CacheTiming-SideChannel | 0 | 0| 
 | 20210316T23:40:48Z | A CTF web app designed to teach software developers application security by showcasing what vulnerable code looks like, how to write code to exploit the vulnerability, and how to write code to patch the vulnerability. | https://github.com/neumaneuma/appseccheat.codes | 1 | 0| 
 | 20210316T23:33:07Z | PS1 savegame exploit using THPS3 | https://github.com/socram8888/tonyhax | 62 | 1| 
-| 20210316T22:54:12Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9143 | 1474| 
 | 20210316T22:32:06Z | Blockchain CTF code created to exploit some levels of (very interesting) Ethernaut CTF | https://github.com/rriescog/Ethernaut-CTF | 0 | 0| 
 | 20210316T22:30:10Z | PS4 Exploit list | https://github.com/Hakkuraifu/PS4xploit | 24 | 6| 
 | 20210316T21:36:38Z | OMQHUB is my own Roblox Exploiting hub, a pretty simple one but an powerful one. | https://github.com/NotMxth/OMQHUB | 1 | 0| 
@@ -99,6 +99,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210317T00:13:54Z | IPD-H4K8M05-BS series IP-Camera ( Boavision Branded - Hisee P2P - Hankwebs / Hankvision_- 2016 Backdoor Account) | https://github.com/sperglord8008s/IPD-H4K8M05-BS-Camera-Firmware | 0 | 0| 
 | 20210316T21:10:49Z | Null | https://github.com/Delle9999/backdoor | 0 | 0| 
 | 20210316T17:59:08Z | without any backdoor 🖤 good night Fourloko! | https://github.com/gladoonxyz/fourlokoQBoTSource | 0 | 0| 
 | 20210316T17:45:53Z | Null | https://github.com/rippyCoder/backdoor | 0 | 0| 
@@ -108,7 +109,6 @@
 | 20210316T15:55:44Z | I created this script to help make it easier for you to directly attack index.html on the website | https://github.com/penucuriCode/shell-backdoor | 1 | 0| 
 | 20210316T15:42:29Z | backdoor para windows com opção de baixar arquivos,shell reversa e outros | https://github.com/The-Dark-Hall/backdoor | 1 | 0| 
 | 20210316T10:08:32Z | A simple backdoor made in rust | https://github.com/threadexio/rustdoor | 0 | 0| 
-| 20210316T08:13:07Z | LKM rootkit for Linux Kernels 2.6.x/3.x/4.x/5.x (x86/x86_64 and ARM64) | https://github.com/m0nad/Diamorphine | 723 | 271| 
 
 
 # fuzz on Github 推荐
