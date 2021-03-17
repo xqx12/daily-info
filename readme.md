@@ -56,6 +56,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210317T12:46:45Z | Sherlock and Watson exploit check again Windows exploit suggester NG | https://github.com/d-lan2/SawNG | 0 | 0| 
 | 20210317T12:41:40Z | K8博客内容存档 | https://github.com/k8gege/k8gege.github.io | 11 | 6| 
 | 20210317T12:38:03Z | PS4 Exploit Host | https://github.com/Night-King-Host/Night-King-Host.github.io | 0 | 0| 
 | 20210317T12:36:17Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9149 | 1474| 
@@ -65,7 +66,6 @@
 | 20210317T12:30:13Z | Data exploitation for graph algorithms - applied to Paris | https://github.com/hlefebvr/shortest-path-gtfs | 1 | 0| 
 | 20210317T12:26:00Z | This bash script will help you to hack remote hosts  | https://github.com/FabioDefilippo/linuxallremote | 10 | 1| 
 | 20210317T12:02:27Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 11 | 6| 
-| 20210317T11:51:20Z | Exploit Development - Weaponized Exploit and Proof of Concepts (PoC)  | https://github.com/VoidSec/Exploit-Development | 19 | 7| 
 
 
 # backdoor on Github 推荐
