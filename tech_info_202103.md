@@ -114,16 +114,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210316T12:11:08Z | Null | https://github.com/s9varesc/url-fuzzing | 0 | 0| 
-| 20210316T11:57:44Z | Fuzzy completion provider for Julia | https://github.com/JunoLab/FuzzyCompletions.jl | 5 | 2| 
-| 20210316T11:56:29Z | A Haskell library for fuzzy text search | https://github.com/runarorama/fuzzyfind | 6 | 0| 
-| 20210316T11:42:39Z | Null | https://github.com/Calugar25/Fuzzer | 0 | 0| 
-| 20210316T11:39:34Z | Null | https://github.com/VeriBlock/fuzz-corpus | 0 | 0| 
-| 20210316T11:35:59Z | Null | https://github.com/s9varesc/url-fuzzing-docker | 0 | 0| 
-| 20210316T11:27:02Z | FormatFuzzer is a framework for high-efficiency, high-quality generation and parsing of binary inputs. | https://github.com/uds-se/FormatFuzzer | 116 | 12| 
-| 20210316T11:22:40Z | A fork of AFL for fuzzing Windows binaries | https://github.com/googleprojectzero/winafl | 1620 | 420| 
-| 20210316T11:15:42Z | The SMB Fuzzer fuzzes the Server Block Message Protocol that enables file sharing, printing and IPC between Unix and Windows systems. | https://github.com/mellowCS/SMB_Fuzzer | 0 | 0| 
-| 20210316T10:47:06Z | Null | https://github.com/lumebits/fuzzgram | 1 | 0| 
+| 20210317T00:32:36Z | Fuzz 403/401ing endpoints for bypasses | https://github.com/intrudir/403fuzzer | 28 | 6| 
+| 20210317T00:08:58Z | data analytics from kaggle | https://github.com/CYKDataWorld/fuzzy-carnival | 0 | 0| 
+| 20210316T23:39:28Z | REST API Fuzz Testing (RAFT): Source code for self-hosted service developed for Azure, including the API, orchestration engine, and default set of security tools (including MSR%s RESTler), that enables developers to embed security tooling into their CI/CD workflows | https://github.com/microsoft/rest-api-fuzz-testing | 116 | 18| 
+| 20210316T23:35:04Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 30411 | 15474| 
+| 20210316T23:33:46Z | Null | https://github.com/VeriBlock/fuzz-corpus | 0 | 0| 
+| 20210316T23:08:31Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6084 | 1222| 
+| 20210316T21:48:09Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 1499 | 306| 
+| 20210316T21:08:57Z | Performed fuzz testing with American Fuzzy Lop (AFL) on a vulnerable string utility program. | https://github.com/bpk9/Fuzz-Testing-Lab | 0 | 0| 
+| 20210316T20:38:25Z | :pig: Tiny and fast fuzzy search in Go | https://github.com/lithammer/fuzzysearch | 603 | 31| 
+| 20210316T19:57:45Z | Null | https://github.com/s9varesc/url-fuzzing | 0 | 0| 
 
 
 
