@@ -87,8 +87,6 @@
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
 | 20210316T23:39:28Z | REST API Fuzz Testing (RAFT): Source code for self-hosted service developed for Azure, including the API, orchestration engine, and default set of security tools (including MSR%s RESTler), that enables developers to embed security tooling into their CI/CD workflows | https://github.com/microsoft/rest-api-fuzz-testing | 116 | 18| 
-| 20210316T23:35:04Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 30411 | 15474| 
-| 20210316T23:33:46Z | Null | https://github.com/VeriBlock/fuzz-corpus | 0 | 0| 
 | 20210316T23:08:31Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6084 | 1222| 
 | 20210316T21:48:09Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 1499 | 306| 
 | 20210316T21:08:57Z | Performed fuzz testing with American Fuzzy Lop (AFL) on a vulnerable string utility program. | https://github.com/bpk9/Fuzz-Testing-Lab | 0 | 0| 
@@ -96,6 +94,8 @@
 | 20210316T19:57:45Z | Null | https://github.com/s9varesc/url-fuzzing | 0 | 0| 
 | 20210316T19:57:07Z | Hacking tools written by me. IP fortune, webmap -- web vulns scanner, rtsp brute+fuzz, and more. | https://github.com/fagcinsk/h4ck | 1 | 0| 
 | 20210316T19:54:09Z | generate contextually sensible fuzz tests for servant apps | https://github.com/mwotton/roboservant | 14 | 4| 
+| 20210316T19:43:57Z | Null | https://github.com/Sambigeara/fuzzynote | 2 | 1| 
+| 20210316T19:39:10Z | Fuzzy matching publications for fatcat (wip). | https://github.com/miku/fuzzycat | 1 | 1| 
 
 
 

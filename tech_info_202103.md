@@ -46,7 +46,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20210317T00:48:55Z | CVE-2021-3156 | Sudo Baron Samedit Exploit | https://github.com/worawit/CVE-2021-3156 | Sudo before 1.9.5p2 contains an off-by-one error that can result in a heap-based buffer overflow, which allows privilege escalation to root via %sudoedit -s% and a command-line argument that ends with a single backslash character.| 
+| 20210317T01:01:03Z | CVE-2021-3156 | Sudo Baron Samedit Exploit | https://github.com/worawit/CVE-2021-3156 | | 
 | 20210316T16:39:44Z | CVE-2021-26855 | Null | https://github.com/alt3kx/CVE-2021-26855_PoC | Microsoft Exchange Server Remote Code Execution Vulnerability This CVE ID is unique from CVE-2021-26412, CVE-2021-26854, CVE-2021-26857, CVE-2021-26858, CVE-2021-27065, CVE-2021-27078.| 
 | 20210316T16:10:29Z | CVE-2021-26855 | Null | https://github.com/shacojx/Scan-Vuln-CVE-2021-26855 | Microsoft Exchange Server Remote Code Execution Vulnerability This CVE ID is unique from CVE-2021-26412, CVE-2021-26854, CVE-2021-26857, CVE-2021-26858, CVE-2021-27065, CVE-2021-27078.| 
 | 20210316T13:53:40Z | CVE-2020-1034 | PoC demonstrating the use of cve-2020-1034 for privilege escalation | https://github.com/yardenshafir/CVE-2020-1034 | An elevation of privilege vulnerability exists in the way that the Windows Kernel handles objects in memory, aka %Windows Kernel Elevation of Privilege Vulnerability%.| 
@@ -114,16 +114,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210317T00:58:59Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 30412 | 15474| 
+| 20210317T00:50:55Z | Scalable fuzzing infrastructure. | https://github.com/google/clusterfuzz | 4462 | 425| 
+| 20210317T00:48:27Z | A Haskell library for fuzzy text search | https://github.com/runarorama/fuzzyfind | 8 | 0| 
+| 20210317T00:40:58Z | Null | https://github.com/VeriBlock/fuzz-corpus | 0 | 0| 
 | 20210317T00:32:36Z | Fuzz 403/401ing endpoints for bypasses | https://github.com/intrudir/403fuzzer | 28 | 6| 
 | 20210317T00:08:58Z | data analytics from kaggle | https://github.com/CYKDataWorld/fuzzy-carnival | 0 | 0| 
 | 20210316T23:39:28Z | REST API Fuzz Testing (RAFT): Source code for self-hosted service developed for Azure, including the API, orchestration engine, and default set of security tools (including MSR%s RESTler), that enables developers to embed security tooling into their CI/CD workflows | https://github.com/microsoft/rest-api-fuzz-testing | 116 | 18| 
-| 20210316T23:35:04Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 30411 | 15474| 
-| 20210316T23:33:46Z | Null | https://github.com/VeriBlock/fuzz-corpus | 0 | 0| 
 | 20210316T23:08:31Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6084 | 1222| 
 | 20210316T21:48:09Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 1499 | 306| 
 | 20210316T21:08:57Z | Performed fuzz testing with American Fuzzy Lop (AFL) on a vulnerable string utility program. | https://github.com/bpk9/Fuzz-Testing-Lab | 0 | 0| 
-| 20210316T20:38:25Z | :pig: Tiny and fast fuzzy search in Go | https://github.com/lithammer/fuzzysearch | 603 | 31| 
-| 20210316T19:57:45Z | Null | https://github.com/s9varesc/url-fuzzing | 0 | 0| 
 
 
 
