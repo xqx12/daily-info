@@ -56,9 +56,9 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210317T12:30:13Z | Data exploitation for graph algorithms - applied to Paris | https://github.com/hlefebvr/shortest-path-gtfs | 1 | 0| 
 | 20210317T12:26:00Z | This bash script will help you to hack remote hosts  | https://github.com/FabioDefilippo/linuxallremote | 10 | 1| 
 | 20210317T12:23:53Z | PS4 Exploit list | https://github.com/Hakkuraifu/PS4xploit | 25 | 6| 
-| 20210317T12:06:10Z | Data exploitation for graph algorithms - applied to Paris | https://github.com/hlefebvr/shortest-path-gtfs | 1 | 0| 
 | 20210317T12:02:27Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 11 | 6| 
 | 20210317T11:54:41Z | PS4 Exploit Host | https://github.com/Night-King-Host/Night-King-Host.github.io | 0 | 0| 
 | 20210317T11:51:20Z | Exploit Development - Weaponized Exploit and Proof of Concepts (PoC)  | https://github.com/VoidSec/Exploit-Development | 19 | 7| 
@@ -85,10 +85,10 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210317T12:29:26Z | Null | https://github.com/DarkShinobi100/BehaviourTreesvsFuzzy | 0 | 0| 
 | 20210317T12:10:58Z | Simple rust fuzzer  | https://github.com/carstein/rfuss2 | 8 | 5| 
 | 20210317T12:10:53Z | Potentially dangerous files | https://github.com/Bo0oM/fuzz.txt | 1380 | 258| 
 | 20210317T12:06:30Z | This is a Fuzzer library built in JS and nodeJS | https://github.com/fuzzing-unb/FuzzerJS | 0 | 0| 
-| 20210317T12:02:21Z | Null | https://github.com/DarkShinobi100/BehaviourTreesvsFuzzy | 0 | 0| 
 | 20210317T11:51:54Z | Null | https://github.com/s9varesc/url-fuzzing | 0 | 0| 
 | 20210317T11:44:33Z | afl++ setup | https://github.com/LibreDWG/libredwg-fuzz | 0 | 0| 
 | 20210317T11:42:01Z | Null | https://github.com/JohenanLi/AggregateFuzzing | 0 | 0| 
