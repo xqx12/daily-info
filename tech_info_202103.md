@@ -34,21 +34,21 @@
 | 20210317 | 流行窃密类木马分析（下） | https://mp.weixin.qq.com/s/R4sOXCP-_T3NGN5d7Ybl6Q| 
 | 20210317 | Apache Solr 组件安全概览 | https://mp.weixin.qq.com/s/3WuWUGO61gM0dBpwqTfenQ| 
 | 20210317 | 白嫖CDN，打造封不尽IP的代理池 | https://mp.weixin.qq.com/s/d-q5E8VmqacbwtGCJux3yw| 
+| 20210317 | 一个网络安全从业者的专业搜索引擎 | https://mp.weixin.qq.com/s/D8JhdhzY6cpShKX2J-t_rQ| 
 | 20210315 | 隐蔽信道：隐形网络 | https://www.sec-in.com/article/57| 
 | 20210315 | SecWiki周刊（第367期) | https://www.sec-wiki.com/weekly/367| 
 | 20210315 | 知识图谱技术如何赋能智能安全运营 | https://mp.weixin.qq.com/s/qOuvPv8cm1S-jA-gqH1hZg| 
 | 20210314 | 最后防线：osquery功能与实现 | https://mp.weixin.qq.com/s/PvnLnn1gDcl_X4fyocyPrA| 
 | 20210313 | Shiro 反序列化漏洞利用工具编写思路 | https://mp.weixin.qq.com/s/WDmj4-2lB-hlf_Fm_wDiOg| 
 | 20210313 | 对蚁剑的相关改造及分析 | https://www.anquanke.com/post/id/233114| 
-| 20210313 | 如何攻击深度学习系统——后门攻防 | https://www.anquanke.com/post/id/232414| 
 
 
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20210317T11:43:16Z | CVE-2021-3156 | Sudo Baron Samedit Exploit | https://github.com/worawit/CVE-2021-3156 | | 
-| 20210317T11:30:01Z | CVE-2020-15778 | Null | https://github.com/cpandya2909/CVE-2020-15778 | | 
-| 20210317T11:10:56Z | CVE-2021-22986 | This is a Poc for BIGIP iControl unauth RCE  | https://github.com/dorkerdevil/CVE-2021-22986-Poc | | 
+| 20210317T11:43:16Z | CVE-2021-3156 | Sudo Baron Samedit Exploit | https://github.com/worawit/CVE-2021-3156 | Sudo before 1.9.5p2 contains an off-by-one error that can result in a heap-based buffer overflow, which allows privilege escalation to root via %sudoedit -s% and a command-line argument that ends with a single backslash character.| 
+| 20210317T11:30:01Z | CVE-2020-15778 | Null | https://github.com/cpandya2909/CVE-2020-15778 | scp in OpenSSH through 8.3p1 allows command injection in the scp.c toremote function, as demonstrated by backtick characters in the destination argument. NOTE: the vendor reportedly has stated that they intentionally omit validation of %anomalous argument transfers% because that could %stand a great chance of breaking existing workflows.%| 
+| 20210317T11:10:56Z | CVE-2021-22986 | This is a Poc for BIGIP iControl unauth RCE  | https://github.com/dorkerdevil/CVE-2021-22986-Poc | 未查询到CVE信息| 
 | 20210317T05:51:32Z | CVE-2021-26855 | CVE-2021-26855 proxyLogon metasploit exploit script | https://github.com/TaroballzChen/ProxyLogon-CVE-2021-26855-metasploit | Microsoft Exchange Server Remote Code Execution Vulnerability This CVE ID is unique from CVE-2021-26412, CVE-2021-26854, CVE-2021-26857, CVE-2021-26858, CVE-2021-27065, CVE-2021-27078.| 
 | 20210317T03:11:02Z | CVE-2021-26411 | Null | https://github.com/avboy1337/CVE-2021-26411 | Internet Explorer Memory Corruption Vulnerability| 
 | 20210316T16:39:44Z | CVE-2021-26855 | Null | https://github.com/alt3kx/CVE-2021-26855_PoC | Microsoft Exchange Server Remote Code Execution Vulnerability This CVE ID is unique from CVE-2021-26412, CVE-2021-26854, CVE-2021-26857, CVE-2021-26858, CVE-2021-27065, CVE-2021-27078.| 
