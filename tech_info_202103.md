@@ -6,6 +6,15 @@
 # 玄武实验室 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20210317 | Sudo CVE-2021-3156 漏洞在 Linux x64 平台的利用 | https://github.com/worawit/CVE-2021-3156| 
+| 20210317 | Spectre 漏洞的跨平台 JS 利用实现 | https://dougallj.wordpress.com/2021/03/16/another-approach-to-portable-javascript-spectre-exploitation/| 
+| 20210317 | 从内存特征的角度检测 Cobalt Strike | https://www.elastic.co/blog/detecting-cobalt-strike-with-memory-signatures| 
+| 20210317 | Riscure 团队对三星可信执行框架 TEEGRIS 的逆向分析 | https://www.riscure.com/blog/samsung-investigation-part2| 
+| 20210317 | Chrome issue 1125614 沙箱逃逸漏洞的利用 | https://securitylab.github.com/research/one_day_short_of_a_fullchain_sbx/| 
+| 20210317 | PMFuzz: Test Case Generation for Persistent Memory Programs（Paper） | https://www.cs.virginia.edu/~smk9u/Liu_PMFuzz_ASPLOS21.pdf| 
+| 20210317 | 利用 CodeQL 静态代码分析工具挖掘 JavaScriptCore JS 引擎的漏洞 | https://www.cyberark.com/resources/threat-research-blog/the-mysterious-realm-of-javascriptcore| 
+| 20210317 | Necro 再次升级，使用 Tor+动态域名 DGA 双杀 Windows&Linux | https://blog.netlab.360.com/necro-shi-yong-tor-dong-tai-yu-ming-dga-shuang-sha-windows-linux/| 
+| 20210317 | CVE 2017-0261 的 .EPS 恶意文件分析 | https://paper.seebug.org/1509/| 
 | 20210316 | macOS CoreGraphics 图形库整数溢出漏洞（CVE-2021-1776） | https://bugs.chromium.org/p/project-zero/issues/detail?id=2130| 
 | 20210316 | 有研究员将 macOS 安装在 Docker 里，实现 Run Mac in a Docker | https://github.com/sickcodes/Docker-OSX| 
 | 20210316 | Objective-See 开发的 macOS 平台安全检测工具 KnockKnock 开源了 | https://github.com/objective-see/KnockKnock| 
@@ -17,15 +26,6 @@
 | 20210315 | 利用 Differential Fuzzing 的方法挖掘正则表达式的漏洞 | https://defparam.medium.com/finding-issues-in-regular-expression-logic-using-differential-fuzzing-30d78d4cb1d5| 
 | 20210315 | Hacking Windows HTTP Server - IIS | https://drive.google.com/file/d/1O0IARjqP4Pwa-ae1nAP8Nr9qb0ai2XPu/view| 
 | 20210315 | Java 序列化开源组件 XStream 被发现多个高危漏洞 | http://x-stream.github.io/security.html| 
-| 20210315 | Vajra - Web 渗透测试自动化的信息收集工具 | https://github.com/r3curs1v3-pr0xy/vajra| 
-| 20210315 | Windows 2020 年的补丁的提权与 Diff 分析 | https://wumb0.in/extracting-and-diffing-ms-patches-in-2020.html| 
-| 20210315 | BSidesSF CTF 2021 Writeup | https://blog.skullsecurity.org/2021/bsidessf-ctf-2021-author-writeup-shellcode-primer-runme-runme2-and-runme3| 
-| 20210315 | Red Hat Linux iSCSI Subsystem Vulnerability Report | https://versprite.com/blog/threat-intelligence/red-hat-linux-iscsi-subsystem-vulnerability/| 
-| 20210315 | Google 对 Spectre CPU 漏洞的研究进展：实现了一个 JS 版本的更快的 PoC 泄露浏览器内存 | https://security.googleblog.com/2021/03/a-spectre-proof-of-concept-for-spectre.html?m=1| 
-| 20210315 | 国内开源堡垒机 JumpServer 远程命令执行你可能不知道的点 | https://mp.weixin.qq.com/s/lbcYzNsiOYZRwQzAIYxg3g| 
-| 20210315 | Linux内核AF_VSOCK套接字条件竞争漏洞（CVE-2021-26708）分析 | https://sec.today/pulses/5c53e308-dc18-4d09-b5ae-4b7b0614b77e/| 
-| 20210315 | Linux内核AF_VSOCK套接字条件竞争漏洞（CVE-2021-26708）分析 | https://mp.weixin.qq.com/s/WMFkPJOd29yOiGoC92QFJA| 
-| 20210315 | 在Windows终端中运行Azure Cloud Shell工具介绍视频。 | https://www.youtube.com/watch?v=8CGOARw6zsk| 
 
 
 # 安全维基 推荐
@@ -46,31 +46,31 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20210317T01:58:37Z | CVE-2021-3156 | Sudo Baron Samedit Exploit | https://github.com/worawit/CVE-2021-3156 | Sudo before 1.9.5p2 contains an off-by-one error that can result in a heap-based buffer overflow, which allows privilege escalation to root via %sudoedit -s% and a command-line argument that ends with a single backslash character.| 
+| 20210317T11:43:16Z | CVE-2021-3156 | Sudo Baron Samedit Exploit | https://github.com/worawit/CVE-2021-3156 | Sudo before 1.9.5p2 contains an off-by-one error that can result in a heap-based buffer overflow, which allows privilege escalation to root via %sudoedit -s% and a command-line argument that ends with a single backslash character.| 
+| 20210317T11:30:01Z | CVE-2020-15778 | Null | https://github.com/cpandya2909/CVE-2020-15778 | scp in OpenSSH through 8.3p1 allows command injection in the scp.c toremote function, as demonstrated by backtick characters in the destination argument. NOTE: the vendor reportedly has stated that they intentionally omit validation of %anomalous argument transfers% because that could %stand a great chance of breaking existing workflows.%| 
+| 20210317T11:10:56Z | CVE-2021-22986 | This is a Poc for BIGIP iControl unauth RCE  | https://github.com/dorkerdevil/CVE-2021-22986-Poc | 未查询到CVE信息| 
+| 20210317T05:51:32Z | CVE-2021-26855 | CVE-2021-26855 proxyLogon metasploit exploit script | https://github.com/TaroballzChen/ProxyLogon-CVE-2021-26855-metasploit | Microsoft Exchange Server Remote Code Execution Vulnerability This CVE ID is unique from CVE-2021-26412, CVE-2021-26854, CVE-2021-26857, CVE-2021-26858, CVE-2021-27065, CVE-2021-27078.| 
+| 20210317T03:11:02Z | CVE-2021-26411 | Null | https://github.com/avboy1337/CVE-2021-26411 | Internet Explorer Memory Corruption Vulnerability| 
 | 20210316T16:39:44Z | CVE-2021-26855 | Null | https://github.com/alt3kx/CVE-2021-26855_PoC | Microsoft Exchange Server Remote Code Execution Vulnerability This CVE ID is unique from CVE-2021-26412, CVE-2021-26854, CVE-2021-26857, CVE-2021-26858, CVE-2021-27065, CVE-2021-27078.| 
 | 20210316T16:10:29Z | CVE-2021-26855 | Null | https://github.com/shacojx/Scan-Vuln-CVE-2021-26855 | Microsoft Exchange Server Remote Code Execution Vulnerability This CVE ID is unique from CVE-2021-26412, CVE-2021-26854, CVE-2021-26857, CVE-2021-26858, CVE-2021-27065, CVE-2021-27078.| 
 | 20210316T13:53:40Z | CVE-2020-1034 | PoC demonstrating the use of cve-2020-1034 for privilege escalation | https://github.com/yardenshafir/CVE-2020-1034 | An elevation of privilege vulnerability exists in the way that the Windows Kernel handles objects in memory, aka %Windows Kernel Elevation of Privilege Vulnerability%.| 
 | 20210316T12:55:41Z | CVE-2021-26855 | RCE exploit for ProxyLogon vulnerability in Microsoft Exchange | https://github.com/mil1200/ProxyLogon-CVE-2021-26855 | Microsoft Exchange Server Remote Code Execution Vulnerability This CVE ID is unique from CVE-2021-26412, CVE-2021-26854, CVE-2021-26857, CVE-2021-26858, CVE-2021-27065, CVE-2021-27078.| 
 | 20210316T12:54:30Z | CVE-2021-26855 | CVE-2021-26855: PoC (Not a HoneyPoC for once!) | https://github.com/ZephrFish/Exch-CVE-2021-26855 | Microsoft Exchange Server Remote Code Execution Vulnerability This CVE ID is unique from CVE-2021-26412, CVE-2021-26854, CVE-2021-26857, CVE-2021-26858, CVE-2021-27065, CVE-2021-27078.| 
-| 20210316T12:52:25Z | CVE-2021-26855 | Null | https://github.com/Mr-xn/CVE-2021-26855-d | Microsoft Exchange Server Remote Code Execution Vulnerability This CVE ID is unique from CVE-2021-26412, CVE-2021-26854, CVE-2021-26857, CVE-2021-26858, CVE-2021-27065, CVE-2021-27078.| 
-| 20210316T03:10:54Z | CVE-2021-26855 | PoC of proxylogon chain SSRF(CVE-2021-26855) to write file by testanull, censored by github | https://github.com/hackerschoice/CVE-2021-26855 | Microsoft Exchange Server Remote Code Execution Vulnerability This CVE ID is unique from CVE-2021-26412, CVE-2021-26854, CVE-2021-26857, CVE-2021-26858, CVE-2021-27065, CVE-2021-27078.| 
-| 20210316T02:56:29Z | CVE-2021-26855 | CVE-2021-26855, also known as Proxylogon, is a server-side request forgery (SSRF) vulnerability in Exchange that allows an attacker to send arbitrary HTTP requests and authenticate as the Exchange server. According to Orange Tsai, the researcher who discovered the vulnerabilities, CVE-2021-26855 allows code execution when chained with CVE-2021-27065 (see below). A successful exploit chain would allow an unauthenticated attacker to "execute arbitrary commands on Microsoft Exchange Server through only an open 443 port." More information and a disclosure timeline are available at https://proxylogon.com. | https://github.com/raheel0x01/CVE-2021-26855 | Microsoft Exchange Server Remote Code Execution Vulnerability This CVE ID is unique from CVE-2021-26412, CVE-2021-26854, CVE-2021-26857, CVE-2021-26858, CVE-2021-27065, CVE-2021-27078.| 
-| 20210316T00:51:06Z | CVE-2021-21973 | automate me! | https://github.com/freakanonymous/CVE-2021-21973-Automateme | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210317T09:14:26Z | Symbiotic is a tool for finding bugs in computer programs based on instrumentation, program slicing and KLEE | https://github.com/staticafi/symbiotic | 212 | 34| 
+| 20210317T08:57:28Z | Kleene algebra, regular expressions | https://github.com/phadej/kleene | 27 | 1| 
+| 20210317T08:48:54Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 的 Klee One 的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 333 | 7| 
+| 20210317T05:34:58Z | Git Blog | https://github.com/klee30810/klee30810.github.io | 0 | 0| 
+| 20210317T03:50:51Z | 원신 가챠 시뮬레이터 | https://github.com/LunaNyan/Genshin_Klee_Discord_Bot | 1 | 0| 
 | 20210317T00:52:52Z | Null | https://github.com/TheBeehive/kleene | 0 | 0| 
-| 20210316T23:12:33Z | Git Blog | https://github.com/klee30810/klee30810.github.io | 0 | 0| 
 | 20210316T21:21:48Z | Minimal Working Example (MWE) to evaluate flexible protections in KLEE | https://github.com/jvdbroeck/mwe-klee | 0 | 0| 
-| 20210316T15:24:05Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 的 Klee One 的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 332 | 7| 
 | 20210316T11:23:26Z | Website for the KLEE project: https://klee.github.io/ | https://github.com/klee/klee.github.io | 14 | 42| 
 | 20210316T10:53:00Z | JavaScript graphics | https://github.com/MolluscHotel/MisterKlee | 0 | 0| 
-| 20210316T10:15:01Z | 원신 가챠 시뮬레이터 | https://github.com/LunaNyan/Genshin_Klee_Discord_Bot | 1 | 0| 
 | 20210316T09:29:20Z | Null | https://github.com/kleefi/kleefi.github.io | 0 | 0| 
-| 20210315T12:31:03Z | Null | https://github.com/ioliu/klee | 0 | 0| 
-| 20210315T11:08:46Z | klee.js is a (data driven) generator and wrapper for the magnificent three.js | https://github.com/trenc/klee.js | 1 | 0| 
 
 
 # s2e on Github 推荐
@@ -84,16 +84,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210317T01:58:37Z | Sudo Baron Samedit Exploit | https://github.com/worawit/CVE-2021-3156 | 59 | 7| 
-| 20210317T01:47:00Z | i throw exploit POC%s here | https://github.com/0xmanjoos/Exploit-Development | 1 | 0| 
-| 20210317T01:40:05Z | PS1 savegame exploit using THPS3 | https://github.com/socram8888/tonyhax | 64 | 1| 
-| 20210317T01:28:10Z | Exploit Database binary exploits located in the /sploits directory | https://github.com/offensive-security/exploitdb-bin-sploits | 1410 | 494| 
-| 20210317T01:26:26Z | exploits lfi +reverse shell +scanner | https://github.com/recursec/LFISploit | 0 | 0| 
-| 20210317T01:02:28Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 11 | 6| 
-| 20210317T00:50:25Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 9 | 5| 
-| 20210317T00:48:36Z | Null | https://github.com/Whomever0/exploit-scripts | 0 | 0| 
-| 20210317T00:48:04Z | an exploiting GUI for the roblox game Car Crash Simulator | https://github.com/Froglett/CarCrashSimulator-GUI | 0 | 0| 
-| 20210317T00:25:19Z | Null | https://github.com/SammyKrosoft/Exchange-Vulnerability-02March2021-HAFNIUM-targeting-Exchange-Servers-with-0-day-exploits | 1 | 1| 
+| 20210317T11:54:41Z | PS4 Exploit Host | https://github.com/Night-King-Host/Night-King-Host.github.io | 0 | 0| 
+| 20210317T11:51:20Z | Exploit Development - Weaponized Exploit and Proof of Concepts (PoC)  | https://github.com/VoidSec/Exploit-Development | 19 | 7| 
+| 20210317T11:44:52Z | this is my own exploit, should be private, uses krnl api | https://github.com/XGodsOfWorldsX/Rainer_X-V1.3 | 0 | 0| 
+| 20210317T11:35:13Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9148 | 1474| 
+| 20210317T11:31:36Z | PS4 Exploits 1.01-7.55 | https://github.com/Buzbee/Buzbee.github.io | 0 | 1| 
+| 20210317T11:26:46Z | Null | https://github.com/M0nsterRED/exploit | 0 | 0| 
+| 20210317T11:24:03Z | Null | https://github.com/Whomever0/exploit-scripts | 0 | 0| 
+| 20210317T11:22:55Z | The Hybrid Fake Face (HFF) dataset is built by exploiting the PGGAN, StyleGAN, Glow, and StarGAN.  | https://github.com/EricGzq/Hybrid-Fake-Face-Dataset | 7 | 0| 
+| 20210317T11:13:40Z | Bu Tool İle Local ağdaki bir exploit%i Dış ağa taşıyabilirsiniz. | https://github.com/adeka299aaa/Adeka-MSF-Tool | 2 | 1| 
+| 20210317T11:02:23Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 11 | 6| 
 
 
 # backdoor on Github 推荐
