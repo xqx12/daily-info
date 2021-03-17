@@ -84,6 +84,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210317T01:18:10Z | exploits lfi +reverse shell +scanner | https://github.com/recursec/LFISploit | 0 | 0| 
 | 20210317T01:02:28Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 11 | 6| 
 | 20210317T00:50:25Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 9 | 5| 
 | 20210317T00:48:36Z | Null | https://github.com/Whomever0/exploit-scripts | 0 | 0| 
@@ -93,7 +94,6 @@
 | 20210317T00:24:02Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9145 | 1474| 
 | 20210316T23:46:58Z | A single-core implementation of a cache timing side channel attack making use of the Prime+Probe exploit. | https://github.com/Incapamentum/Single-Core_CacheTiming-SideChannel | 0 | 0| 
 | 20210316T23:40:48Z | A CTF web app designed to teach software developers application security by showcasing what vulnerable code looks like, how to write code to exploit the vulnerability, and how to write code to patch the vulnerability. | https://github.com/neumaneuma/appseccheat.codes | 1 | 0| 
-| 20210316T22:32:06Z | Blockchain CTF code created to exploit some levels of (very interesting) Ethernaut CTF | https://github.com/rriescog/Ethernaut-CTF | 0 | 0| 
 
 
 # backdoor on Github 推荐
