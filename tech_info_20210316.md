@@ -27,7 +27,7 @@
 | 20210316T16:39:44Z | CVE-2021-26855 | Null | https://github.com/alt3kx/CVE-2021-26855_PoC | Microsoft Exchange Server Remote Code Execution Vulnerability This CVE ID is unique from CVE-2021-26412, CVE-2021-26854, CVE-2021-26857, CVE-2021-26858, CVE-2021-27065, CVE-2021-27078.| 
 | 20210316T16:10:29Z | CVE-2021-26855 | Null | https://github.com/shacojx/Scan-Vuln-CVE-2021-26855 | Microsoft Exchange Server Remote Code Execution Vulnerability This CVE ID is unique from CVE-2021-26412, CVE-2021-26854, CVE-2021-26857, CVE-2021-26858, CVE-2021-27065, CVE-2021-27078.| 
 | 20210316T13:53:40Z | CVE-2020-1034 | PoC demonstrating the use of cve-2020-1034 for privilege escalation | https://github.com/yardenshafir/CVE-2020-1034 | An elevation of privilege vulnerability exists in the way that the Windows Kernel handles objects in memory, aka %Windows Kernel Elevation of Privilege Vulnerability%.| 
-| 20210316T12:55:41Z | CVE-2021-26855 | RCE exploit for ProxyLogon vulnerability in Microsoft Exchange | https://github.com/mil1200/ProxyLogon-CVE-2021-26855 | | 
+| 20210316T12:55:41Z | CVE-2021-26855 | RCE exploit for ProxyLogon vulnerability in Microsoft Exchange | https://github.com/mil1200/ProxyLogon-CVE-2021-26855 | Microsoft Exchange Server Remote Code Execution Vulnerability This CVE ID is unique from CVE-2021-26412, CVE-2021-26854, CVE-2021-26857, CVE-2021-26858, CVE-2021-27065, CVE-2021-27078.| 
 | 20210316T12:54:30Z | CVE-2021-26855 | CVE-2021-26855: PoC (Not a HoneyPoC for once!) | https://github.com/ZephrFish/Exch-CVE-2021-26855 | Microsoft Exchange Server Remote Code Execution Vulnerability This CVE ID is unique from CVE-2021-26412, CVE-2021-26854, CVE-2021-26857, CVE-2021-26858, CVE-2021-27065, CVE-2021-27078.| 
 | 20210316T12:52:25Z | CVE-2021-26855 | Null | https://github.com/Mr-xn/CVE-2021-26855-d | Microsoft Exchange Server Remote Code Execution Vulnerability This CVE ID is unique from CVE-2021-26412, CVE-2021-26854, CVE-2021-26857, CVE-2021-26858, CVE-2021-27065, CVE-2021-27078.| 
 | 20210316T03:10:54Z | CVE-2021-26855 | PoC of proxylogon chain SSRF(CVE-2021-26855) to write file by testanull, censored by github | https://github.com/hackerschoice/CVE-2021-26855 | Microsoft Exchange Server Remote Code Execution Vulnerability This CVE ID is unique from CVE-2021-26412, CVE-2021-26854, CVE-2021-26857, CVE-2021-26858, CVE-2021-27065, CVE-2021-27078.| 
@@ -57,7 +57,6 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210316T23:50:06Z | Null | https://github.com/SammyKrosoft/Exchange-Vulnerability-02March2021-HAFNIUM-targeting-Exchange-Servers-with-0-day-exploits | 1 | 1| 
 | 20210316T23:46:58Z | A single-core implementation of a cache timing side channel attack making use of the Prime+Probe exploit. | https://github.com/Incapamentum/Single-Core_CacheTiming-SideChannel | 0 | 0| 
 | 20210316T23:40:48Z | A CTF web app designed to teach software developers application security by showcasing what vulnerable code looks like, how to write code to exploit the vulnerability, and how to write code to patch the vulnerability. | https://github.com/neumaneuma/appseccheat.codes | 1 | 0| 
 | 20210316T23:33:07Z | PS1 savegame exploit using THPS3 | https://github.com/socram8888/tonyhax | 62 | 1| 
@@ -67,6 +66,7 @@
 | 20210316T21:10:01Z | Exploit Manager for A/D Challenges | https://github.com/Omnicrist/exploit_manager | 2 | 0| 
 | 20210316T20:59:45Z | Just tasks from The Art of Exploitation book. | https://github.com/adamczi/theartofexploitation_notes | 0 | 0| 
 | 20210316T20:40:42Z | A simple RCE PoC with a vulnerable Flask App | https://github.com/CalfCrusher/Python-Pickle-RCE-Exploit | 0 | 0| 
+| 20210316T20:28:20Z | Vulnnr is a Vulnerability Scanner & Auto Exploiter You can use this tool to check the security by finding the vulnerability in your website or you can use this tool to Get Shells | https://github.com/X-x-X-0/Vulnnr | 4 | 0| 
 
 
 # backdoor on Github 推荐
