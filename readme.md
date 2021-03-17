@@ -45,7 +45,6 @@
 | 20210316T10:53:00Z | JavaScript graphics | https://github.com/MolluscHotel/MisterKlee | 0 | 0| 
 | 20210316T10:15:01Z | 원신 가챠 시뮬레이터 | https://github.com/LunaNyan/Genshin_Klee_Discord_Bot | 1 | 0| 
 | 20210316T09:29:20Z | Null | https://github.com/kleefi/kleefi.github.io | 0 | 0| 
-| 20210316T00:48:00Z | Null | https://github.com/TheBeehive/kleene | 0 | 0| 
 
 
 # s2e on Github 推荐
