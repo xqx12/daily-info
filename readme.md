@@ -66,6 +66,13 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210317T11:57:33Z | Protect your server against backdoors. | https://github.com/Xalalau/backdoor-shield | 1 | 0| 
+| 20210317T11:42:51Z | UEFI driver that installs backdoor reachable from usermode on Windows | https://github.com/mathisvickie/efi-backdoor | 0 | 0| 
+| 20210317T11:18:24Z | Null | https://github.com/M1kk4l/Backdoor | 0 | 0| 
+| 20210317T08:02:25Z | Detect ip address in apk file to find backdoor app%s owner | https://github.com/JuyunLee/apk_ip_hunter | 0 | 0| 
+| 20210317T07:08:40Z | Null | https://github.com/AbhinavBaranwal/backdoor_apk | 0 | 0| 
+| 20210317T06:51:23Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 190 | 33| 
+| 20210317T05:05:11Z | Command-line tool for backdoor exploitation. | https://github.com/tz4678/backshell | 2 | 0| 
 | 20210317T01:37:46Z | Code for the paper Explanation-Guided Backdoor Poisoning Attacks Against Malware Classifiers | https://github.com/ClonedOne/MalwareBackdoors | 1 | 0| 
 | 20210317T00:33:09Z | IPD-H4K8M05-BS series IP-Camera ( Boavision Branded - Hisee P2P - Hankwebs / Hankvision_- 2016 Backdoor Account) | https://github.com/sperglord8008s/IPD-H4K8M05-BS-Camera-Firmware | 0 | 0| 
 
@@ -73,14 +80,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210317T01:34:22Z | Fuzzy matching utilities for GNU Emacs | https://github.com/auto-complete/fuzzy-el | 44 | 11| 
-| 20210317T01:24:20Z | Null | https://github.com/fernzhao524/Naive-Bayes-and-Fuzzy | 0 | 0| 
-| 20210317T00:58:59Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 30412 | 15474| 
-| 20210317T00:50:55Z | Scalable fuzzing infrastructure. | https://github.com/google/clusterfuzz | 4462 | 425| 
-| 20210317T00:48:27Z | A Haskell library for fuzzy text search | https://github.com/runarorama/fuzzyfind | 8 | 0| 
-| 20210317T00:40:58Z | Null | https://github.com/VeriBlock/fuzz-corpus | 0 | 0| 
-| 20210317T00:32:36Z | Fuzz 403/401ing endpoints for bypasses | https://github.com/intrudir/403fuzzer | 28 | 6| 
-| 20210317T00:08:58Z | data analytics from kaggle | https://github.com/CYKDataWorld/fuzzy-carnival | 0 | 0| 
+| 20210317T11:51:54Z | Null | https://github.com/s9varesc/url-fuzzing | 0 | 0| 
+| 20210317T11:44:33Z | afl++ setup | https://github.com/LibreDWG/libredwg-fuzz | 0 | 0| 
+| 20210317T11:42:01Z | Null | https://github.com/JohenanLi/AggregateFuzzing | 0 | 0| 
+| 20210317T11:19:28Z | Null | https://github.com/DarkShinobi100/BehaviourTreesvsFuzzy | 0 | 0| 
+| 20210317T11:16:11Z | Null | https://github.com/VeriBlock/fuzz-corpus | 0 | 1| 
+| 20210317T11:12:29Z | Turing Machine is a Fuzzer developed in Net Standard that allows to fuzz any type of applications or libraries, focused on .Net Framework, Dotnet Core and Net Standard applications. | https://github.com/Red4Sec/TuringMachine | 2 | 0| 
+| 20210317T11:11:48Z | Null | https://github.com/GianCarloMilanese/fuzzy_taxonomic_reasoning | 0 | 0| 
+| 20210317T10:55:16Z | fzf-like fuzzy-finder as a Go library | https://github.com/ktr0731/go-fuzzyfinder | 217 | 20| 
+| 20210317T10:54:07Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 1501 | 306| 
+| 20210317T10:47:52Z | Generates Elm types, JSON decoders, JSON encoders and fuzz tests from JSON schema specifications | https://github.com/dragonwasrobot/json-schema-to-elm | 64 | 7| 
 
 
 
