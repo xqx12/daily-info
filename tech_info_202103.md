@@ -114,6 +114,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210317T01:34:22Z | Fuzzy matching utilities for GNU Emacs | https://github.com/auto-complete/fuzzy-el | 44 | 11| 
 | 20210317T01:24:20Z | Null | https://github.com/fernzhao524/Naive-Bayes-and-Fuzzy | 0 | 0| 
 | 20210317T00:58:59Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 30412 | 15474| 
 | 20210317T00:50:55Z | Scalable fuzzing infrastructure. | https://github.com/google/clusterfuzz | 4462 | 425| 
@@ -123,7 +124,6 @@
 | 20210317T00:08:58Z | data analytics from kaggle | https://github.com/CYKDataWorld/fuzzy-carnival | 0 | 0| 
 | 20210316T23:39:28Z | REST API Fuzz Testing (RAFT): Source code for self-hosted service developed for Azure, including the API, orchestration engine, and default set of security tools (including MSR%s RESTler), that enables developers to embed security tooling into their CI/CD workflows | https://github.com/microsoft/rest-api-fuzz-testing | 116 | 18| 
 | 20210316T23:08:31Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6084 | 1222| 
-| 20210316T21:48:09Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 1499 | 306| 
 
 
 
