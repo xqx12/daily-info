@@ -85,6 +85,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210318T01:02:35Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 11 | 6| 
 | 20210318T01:00:09Z | Null | https://github.com/nobelherrera/ExploitSource | 0 | 0| 
 | 20210318T00:57:22Z | There was a flaw in the WordPress plugin, Email Subscribers & Newsletters before 4.3.1, that allowed SQL statements to be passed to the database in the hash parameter (a blind SQL injection vulnerability). | https://github.com/jerrylewis9/CVE-2019-20361-EXPLOIT | 0 | 0| 
 | 20210318T00:55:42Z | Microsoft Exchange Proxylogon Exploit Chain EXP分析 | https://github.com/r0ckysec/CVE-2021-26855-Exchange-RCE | 0 | 0| 
@@ -94,7 +95,6 @@
 | 20210318T00:26:30Z | this is my own exploit, should be private, uses krnl api | https://github.com/XGodsOfWorldsX/Rainer_X-V1.3 | 0 | 0| 
 | 20210318T00:24:30Z | Null | https://github.com/SammyKrosoft/Exchange-Vulnerability-02March2021-HAFNIUM-targeting-Exchange-Servers-with-0-day-exploits | 1 | 1| 
 | 20210318T00:11:54Z | Null | https://github.com/CKScripts/RBLX-Exploit | 0 | 0| 
-| 20210318T00:11:32Z | Null | https://github.com/nobelherrrera/ExploitSource | 0 | 0| 
 
 
 # backdoor on Github 推荐
