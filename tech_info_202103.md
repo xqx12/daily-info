@@ -85,11 +85,11 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210318T00:53:41Z | There was a flaw in the WordPress plugin, Email Subscribers & Newsletters before 4.3.1, that allowed SQL statements to be passed to the database in the hash parameter (a blind SQL injection vulnerability). | https://github.com/jerrylewis9/CVE-2019-20361-EXPLOIT | 0 | 0| 
 | 20210318T00:50:26Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 9 | 5| 
 | 20210318T00:46:33Z | Microsoft Exchange Proxylogon Exploit Chain EXP分析 | https://github.com/r0ckysec/CVE-2021-26855-Exchange-RCE | 0 | 0| 
 | 20210318T00:39:45Z | PS1 savegame exploit using THPS3 | https://github.com/socram8888/tonyhax | 74 | 2| 
 | 20210318T00:35:37Z | This project is a sentiment analysis on Twitter Airline text data. By conducting analysis and prediction on sentiments, users could gain more insights on customers’ experience, satisfaction level, and business profitability. The main goal of the project is to derive sentiments from the twitter text narratives. The first part is to exploit exploratory data analysis and transform the dataset for further use. Then, three models were applied to the cleaned data in order to obtain general trends, derive predictions, and reach better performance. | https://github.com/chengzhong666/Twitter_Sentiment_Analysis | 0 | 0| 
-| 20210318T00:26:55Z | There was a flaw in the WordPress plugin, Email Subscribers & Newsletters before 4.3.1, that allowed SQL statements to be passed to the database in the hash parameter (a blind SQL injection vulnerability). | https://github.com/jerrylewis9/CVE-2019-20361-EXPLOIT | 0 | 0| 
 | 20210318T00:26:30Z | this is my own exploit, should be private, uses krnl api | https://github.com/XGodsOfWorldsX/Rainer_X-V1.3 | 0 | 0| 
 | 20210318T00:24:30Z | Null | https://github.com/SammyKrosoft/Exchange-Vulnerability-02March2021-HAFNIUM-targeting-Exchange-Servers-with-0-day-exploits | 1 | 1| 
 | 20210318T00:11:54Z | Null | https://github.com/CKScripts/RBLX-Exploit | 0 | 0| 
