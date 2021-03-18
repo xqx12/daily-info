@@ -35,7 +35,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20210317T23:34:14Z | CVE-2021-3156 | Sudo Baron Samedit Exploit | https://github.com/worawit/CVE-2021-3156 | Sudo before 1.9.5p2 contains an off-by-one error that can result in a heap-based buffer overflow, which allows privilege escalation to root via %sudoedit -s% and a command-line argument that ends with a single backslash character.| 
+| 20210317T23:34:14Z | CVE-2021-3156 | Sudo Baron Samedit Exploit | https://github.com/worawit/CVE-2021-3156 | | 
 | 20210317T20:06:27Z | CVE-2021-22986 | This is a Poc for BIGIP iControl unauth RCE  | https://github.com/dorkerdevil/CVE-2021-22986-Poc | 未查询到CVE信息| 
 | 20210317T18:07:42Z | 未知编号 | Null | https://github.com/0xmahmoudJo0/Check_Emails_For_CVE_2021_26855 | 未查询到CVE信息| 
 | 20210317T17:02:29Z | CVE-2021-26411 | Null | https://github.com/avboy1337/CVE-2021-26411 | Internet Explorer Memory Corruption Vulnerability| 
@@ -68,12 +68,12 @@
 | 20210317T23:29:09Z | A choose-your-own adventure game following the exploits of Kitty Fursbags | https://github.com/emilykmcullen/kitty_fursbags_story_game | 0 | 0| 
 | 20210317T23:17:02Z | An exploitation/information gathering framework designed for Python3 scripts | https://github.com/binexisHATT/simple5ploit | 0 | 0| 
 | 20210317T23:05:22Z | PS1 savegame exploit using THPS3 | https://github.com/socram8888/tonyhax | 74 | 2| 
-| 20210317T23:02:28Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 11 | 6| 
 | 20210317T22:38:40Z | i throw exploit POC%s here | https://github.com/0xmanjoos/Exploit-Development | 1 | 0| 
 | 20210317T22:34:34Z | This repository contains tools developed to hack CS:GO. | https://github.com/samdobsonDEV/csgo-exploits | 0 | 0| 
 | 20210317T22:20:30Z | PS4 Exploits 6.72-7.55 | https://github.com/Buzbee/Buzbee2 | 1 | 0| 
 | 20210317T22:12:43Z | exploits lfi +reverse shell +scanner | https://github.com/recursec/LFISploit | 0 | 0| 
 | 20210317T21:05:38Z | Thi powershell script has got to run in remote windows host, even for pivoting | https://github.com/FabioDefilippo/winallenum | 2 | 1| 
+| 20210317T21:04:36Z | this bash script is for remote linux hosts hacked! | https://github.com/FabioDefilippo/linuxallenum | 9 | 0| 
 
 
 # backdoor on Github 推荐
