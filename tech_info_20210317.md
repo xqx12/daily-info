@@ -67,13 +67,13 @@
 | 20210317T23:53:41Z | A few tools that might help with writing buffer overflow exploits. | https://github.com/pauljoohyunkim/buffer-overflow | 0 | 0| 
 | 20210317T23:29:09Z | A choose-your-own adventure game following the exploits of Kitty Fursbags | https://github.com/emilykmcullen/kitty_fursbags_story_game | 0 | 0| 
 | 20210317T23:17:02Z | An exploitation/information gathering framework designed for Python3 scripts | https://github.com/binexisHATT/simple5ploit | 0 | 0| 
-| 20210317T23:05:22Z | PS1 savegame exploit using THPS3 | https://github.com/socram8888/tonyhax | 74 | 2| 
 | 20210317T22:38:40Z | i throw exploit POC%s here | https://github.com/0xmanjoos/Exploit-Development | 1 | 0| 
 | 20210317T22:34:34Z | This repository contains tools developed to hack CS:GO. | https://github.com/samdobsonDEV/csgo-exploits | 0 | 0| 
 | 20210317T22:20:30Z | PS4 Exploits 6.72-7.55 | https://github.com/Buzbee/Buzbee2 | 1 | 0| 
 | 20210317T22:12:43Z | exploits lfi +reverse shell +scanner | https://github.com/recursec/LFISploit | 0 | 0| 
 | 20210317T21:05:38Z | Thi powershell script has got to run in remote windows host, even for pivoting | https://github.com/FabioDefilippo/winallenum | 2 | 1| 
 | 20210317T21:04:36Z | this bash script is for remote linux hosts hacked! | https://github.com/FabioDefilippo/linuxallenum | 9 | 0| 
+| 20210317T21:03:02Z | This bash script will help you to hack remote hosts  | https://github.com/FabioDefilippo/linuxallremote | 10 | 1| 
 
 
 # backdoor on Github 推荐
