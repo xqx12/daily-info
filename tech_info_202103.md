@@ -85,16 +85,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210318T00:22:08Z | There was a flaw in the WordPress plugin, Email Subscribers & Newsletters before 4.3.1, that allowed SQL statements to be passed to the database in the hash parameter (a blind SQL injection vulnerability). | https://github.com/jerrylewis9/CVE-2019-20361-EXPLOIT | 0 | 0| 
 | 20210318T00:11:54Z | Null | https://github.com/CKScripts/RBLX-Exploit | 0 | 0| 
 | 20210318T00:11:32Z | Null | https://github.com/nobelherrrera/ExploitSource | 0 | 0| 
+| 20210318T00:11:32Z | Null | https://github.com/nobelherrera/ExploitSource | 0 | 0| 
 | 20210318T00:02:27Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 11 | 6| 
 | 20210317T23:53:41Z | A few tools that might help with writing buffer overflow exploits. | https://github.com/pauljoohyunkim/buffer-overflow | 0 | 0| 
 | 20210317T23:29:09Z | A choose-your-own adventure game following the exploits of Kitty Fursbags | https://github.com/emilykmcullen/kitty_fursbags_story_game | 0 | 0| 
 | 20210317T23:17:02Z | An exploitation/information gathering framework designed for Python3 scripts | https://github.com/binexisHATT/simple5ploit | 0 | 0| 
 | 20210317T23:05:22Z | PS1 savegame exploit using THPS3 | https://github.com/socram8888/tonyhax | 74 | 2| 
 | 20210317T22:38:40Z | i throw exploit POC%s here | https://github.com/0xmanjoos/Exploit-Development | 1 | 0| 
-| 20210317T22:34:34Z | This repository contains tools developed to hack CS:GO. | https://github.com/samdobsonDEV/csgo-exploits | 0 | 0| 
-| 20210317T22:20:30Z | PS4 Exploits 6.72-7.55 | https://github.com/Buzbee/Buzbee2 | 1 | 0| 
 
 
 # backdoor on Github 推荐
