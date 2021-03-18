@@ -46,8 +46,8 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20210318T12:43:50Z | CVE-2021-3156 | Sudo Baron Samedit Exploit | https://github.com/worawit/CVE-2021-3156 | Sudo before 1.9.5p2 contains an off-by-one error that can result in a heap-based buffer overflow, which allows privilege escalation to root via %sudoedit -s% and a command-line argument that ends with a single backslash character.| 
 | 20210318T12:27:18Z | CVE-2021-26855 | Null | https://github.com/shacojx/Scan-Vuln-CVE-2021-26855 | Microsoft Exchange Server Remote Code Execution Vulnerability This CVE ID is unique from CVE-2021-26412, CVE-2021-26854, CVE-2021-26857, CVE-2021-26858, CVE-2021-27065, CVE-2021-27078.| 
-| 20210318T11:33:14Z | CVE-2021-3156 | Sudo Baron Samedit Exploit | https://github.com/worawit/CVE-2021-3156 | Sudo before 1.9.5p2 contains an off-by-one error that can result in a heap-based buffer overflow, which allows privilege escalation to root via %sudoedit -s% and a command-line argument that ends with a single backslash character.| 
 | 20210318T11:16:36Z | CVE-2020-17136 | CVE-2020-17136 exploit | https://github.com/xyddnljydd/CVE-2020-17136 | Windows Cloud Files Mini Filter Driver Elevation of Privilege Vulnerability This CVE ID is unique from CVE-2020-17103, CVE-2020-17134.| 
 | 20210318T10:37:28Z | CVE-2021-21300 | Null | https://github.com/Faisal78123/CVE-2021-21300 | Git is an open-source distributed revision control system. In affected versions of Git a specially crafted repository that contains symbolic links as well as files using a clean/smudge filter such as Git LFS, may cause just-checked out script to be executed while cloning onto a case-insensitive file system such as NTFS, HFS+ or APFS (i.e. the default file systems on Windows and macOS). Note that clean/smudge filters have to be configured for that. Git for Windows configures Git LFS by default, and is therefore vulnerable. The problem has been patched in the versions published on Tuesday, March 9th, 2021. As a workaound, if symbolic link support is disabled in Git (e.g. via `git config --global core.symlinks false`), the described attack won%t work. Likewise, if no clean/smudge filters such as Git LFS are configured globally (i.e. _before_ cloning), the attack is foiled. As always, it is best to avoid cloning repositories from untrusted sources. The earliest impacted version is 2.14.2. The fix versions are: 2.30.1, 2.29.3, 2.28.1, 2.27.1, 2.26.3, 2.25.5, 2.24.4, 2.23.4, 2.22.5, 2.21.4, 2.20.5, 2.19.6, 2.18.5, 2.17.62.17.6.| 
 | 20210318T00:55:42Z | CVE-2021-26855 | Microsoft Exchange Proxylogon Exploit Chain EXP分析 | https://github.com/r0ckysec/CVE-2021-26855-Exchange-RCE | Microsoft Exchange Server Remote Code Execution Vulnerability This CVE ID is unique from CVE-2021-26412, CVE-2021-26854, CVE-2021-26857, CVE-2021-26858, CVE-2021-27065, CVE-2021-27078.| 
@@ -85,6 +85,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210318T12:44:54Z | PS1 savegame exploit using THPS3 | https://github.com/socram8888/tonyhax | 76 | 2| 
 | 20210318T12:43:50Z | Pre-Compiled DirtyCow Exploit Binaries and source code | https://github.com/y-ates/DirtyCow | 0 | 0| 
 | 20210318T12:38:38Z | Unit tests for blue teams to aid with building detections for some common macOS post exploitation methods. | https://github.com/cedowens/Swift-Attack | 23 | 2| 
 | 20210318T12:29:52Z | A choose-your-own adventure game following the exploits of Kitty Fursbags | https://github.com/emilykmcullen/kitty_fursbags_story_game | 0 | 0| 
@@ -94,7 +95,6 @@
 | 20210318T11:59:12Z | This repository contains tools developed to hack CS:GO. | https://github.com/samdobsonDEV/csgo-exploits | 0 | 0| 
 | 20210318T11:35:12Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9154 | 1474| 
 | 20210318T11:22:34Z | PS4 Exploits 6.72-7.55 | https://github.com/Buzbee/Buzbee2 | 1 | 0| 
-| 20210318T11:16:36Z | CVE-2020-17136 exploit | https://github.com/xyddnljydd/CVE-2020-17136 | 0 | 0| 
 
 
 # backdoor on Github 推荐
