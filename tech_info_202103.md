@@ -85,6 +85,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210318T00:32:14Z | This project is a sentiment analysis on Twitter Airline text data. By conducting analysis and prediction on sentiments, users could gain more insights on customers’ experience, satisfaction level, and business profitability. The main goal of the project is to derive sentiments from the twitter text narratives. The first part is to exploit exploratory data analysis and transform the dataset for further use. Then, three models were applied to the cleaned data in order to obtain general trends, derive predictions, and reach better performance. | https://github.com/chengzhong666/Twitter_Sentiment_Analysis | 0 | 0| 
 | 20210318T00:26:55Z | There was a flaw in the WordPress plugin, Email Subscribers & Newsletters before 4.3.1, that allowed SQL statements to be passed to the database in the hash parameter (a blind SQL injection vulnerability). | https://github.com/jerrylewis9/CVE-2019-20361-EXPLOIT | 0 | 0| 
 | 20210318T00:26:30Z | this is my own exploit, should be private, uses krnl api | https://github.com/XGodsOfWorldsX/Rainer_X-V1.3 | 0 | 0| 
 | 20210318T00:24:30Z | Null | https://github.com/SammyKrosoft/Exchange-Vulnerability-02March2021-HAFNIUM-targeting-Exchange-Servers-with-0-day-exploits | 1 | 1| 
@@ -94,7 +95,6 @@
 | 20210318T00:02:27Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 11 | 6| 
 | 20210317T23:53:41Z | A few tools that might help with writing buffer overflow exploits. | https://github.com/pauljoohyunkim/buffer-overflow | 0 | 0| 
 | 20210317T23:29:09Z | A choose-your-own adventure game following the exploits of Kitty Fursbags | https://github.com/emilykmcullen/kitty_fursbags_story_game | 0 | 0| 
-| 20210317T23:17:02Z | An exploitation/information gathering framework designed for Python3 scripts | https://github.com/binexisHATT/simple5ploit | 0 | 0| 
 
 
 # backdoor on Github 推荐
