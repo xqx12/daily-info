@@ -45,6 +45,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210318T12:06:46Z | Vulnnr is a Vulnerability Scanner & Auto Exploiter You can use this tool to check the security by finding the vulnerability in your website or you can use this tool to Get Shells | https://github.com/X-x-X-0/Vulnnr | 6 | 0| 
 | 20210318T12:02:41Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 11 | 6| 
 | 20210318T12:00:56Z | Here is the walkthrough of few services on the vunerable machine Metasploitable2. Services like FTP to Sysql database is being exploited.  | https://github.com/SumedhDawadi/Metasploitable2_walkthrough-part1- | 0 | 0| 
 | 20210318T11:59:12Z | This repository contains tools developed to hack CS:GO. | https://github.com/samdobsonDEV/csgo-exploits | 0 | 0| 
@@ -54,7 +55,6 @@
 | 20210318T11:16:36Z | CVE-2020-17136 exploit | https://github.com/xyddnljydd/CVE-2020-17136 | 0 | 0| 
 | 20210318T11:16:28Z | Null | https://github.com/kiarashjam/Exploiting-Video-Games-to-Test-AV | 0 | 1| 
 | 20210318T11:03:25Z | Null | https://github.com/summershrimp/exploits-open | 19 | 2| 
-| 20210318T10:40:25Z | Some Apex Legends Cheats Exploits and Offsets Updated Every Update | https://github.com/Android1337/Apex-Offsets-Season-8 | 4 | 0| 
 
 
 # backdoor on Github 推荐
@@ -67,6 +67,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210318T12:06:40Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6090 | 1229| 
 | 20210318T12:02:35Z | Null | https://github.com/s9varesc/url-fuzzing | 0 | 0| 
 | 20210318T12:00:38Z | Null | https://github.com/GitHub-Techops/fuzzy | 0 | 0| 
 | 20210318T11:51:22Z | CSFuzz: Call Sequence-based Greybox Fuzzing Tool | https://github.com/csfuzz/CSFuzz | 0 | 0| 
@@ -76,7 +77,6 @@
 | 20210318T11:27:49Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 3410 | 783| 
 | 20210318T11:16:49Z | White-box fuzzer for Java bytecode | https://github.com/vorpal-research/kex | 6 | 5| 
 | 20210318T10:38:46Z | The SMB Fuzzer fuzzes the Server  Message Block Protocol that enables file sharing, printing and IPC between Unix and Windows systems. | https://github.com/mellowCS/SMB_Fuzzer | 0 | 0| 
-| 20210318T10:16:44Z | Null | https://github.com/VeriBlock/fuzz-corpus | 0 | 1| 
 
 
 
