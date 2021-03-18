@@ -85,7 +85,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210318T12:47:30Z | A choose-your-own adventure game following the exploits of Kitty Fursbags | https://github.com/emilykmcullen/kitty_fursbags_story_game | 0 | 0| 
+| 20210318T12:50:39Z | A choose-your-own adventure game following the exploits of Kitty Fursbags | https://github.com/emilykmcullen/kitty_fursbags_story_game | 0 | 0| 
 | 20210318T12:46:59Z | PS4 Exploit Host | https://github.com/Night-King-Host/Night-King-Host.github.io | 0 | 0| 
 | 20210318T12:46:54Z | PS1 savegame exploit using THPS3 | https://github.com/socram8888/tonyhax | 76 | 2| 
 | 20210318T12:43:50Z | Pre-Compiled DirtyCow Exploit Binaries and source code | https://github.com/y-ates/DirtyCow | 0 | 0| 
