@@ -85,7 +85,9 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210318T00:22:08Z | There was a flaw in the WordPress plugin, Email Subscribers & Newsletters before 4.3.1, that allowed SQL statements to be passed to the database in the hash parameter (a blind SQL injection vulnerability). | https://github.com/jerrylewis9/CVE-2019-20361-EXPLOIT | 0 | 0| 
+| 20210318T00:26:55Z | There was a flaw in the WordPress plugin, Email Subscribers & Newsletters before 4.3.1, that allowed SQL statements to be passed to the database in the hash parameter (a blind SQL injection vulnerability). | https://github.com/jerrylewis9/CVE-2019-20361-EXPLOIT | 0 | 0| 
+| 20210318T00:26:30Z | this is my own exploit, should be private, uses krnl api | https://github.com/XGodsOfWorldsX/Rainer_X-V1.3 | 0 | 0| 
+| 20210318T00:24:30Z | Null | https://github.com/SammyKrosoft/Exchange-Vulnerability-02March2021-HAFNIUM-targeting-Exchange-Servers-with-0-day-exploits | 1 | 1| 
 | 20210318T00:11:54Z | Null | https://github.com/CKScripts/RBLX-Exploit | 0 | 0| 
 | 20210318T00:11:32Z | Null | https://github.com/nobelherrrera/ExploitSource | 0 | 0| 
 | 20210318T00:11:32Z | Null | https://github.com/nobelherrera/ExploitSource | 0 | 0| 
@@ -93,8 +95,6 @@
 | 20210317T23:53:41Z | A few tools that might help with writing buffer overflow exploits. | https://github.com/pauljoohyunkim/buffer-overflow | 0 | 0| 
 | 20210317T23:29:09Z | A choose-your-own adventure game following the exploits of Kitty Fursbags | https://github.com/emilykmcullen/kitty_fursbags_story_game | 0 | 0| 
 | 20210317T23:17:02Z | An exploitation/information gathering framework designed for Python3 scripts | https://github.com/binexisHATT/simple5ploit | 0 | 0| 
-| 20210317T23:05:22Z | PS1 savegame exploit using THPS3 | https://github.com/socram8888/tonyhax | 74 | 2| 
-| 20210317T22:38:40Z | i throw exploit POC%s here | https://github.com/0xmanjoos/Exploit-Development | 1 | 0| 
 
 
 # backdoor on Github 推荐
@@ -115,16 +115,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210317T12:45:09Z | afl++ setup | https://github.com/LibreDWG/libredwg-fuzz | 0 | 0| 
-| 20210317T12:40:04Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 1502 | 306| 
-| 20210317T12:37:12Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6087 | 1223| 
-| 20210317T12:29:26Z | Null | https://github.com/DarkShinobi100/BehaviourTreesvsFuzzy | 0 | 0| 
-| 20210317T12:10:58Z | Simple rust fuzzer  | https://github.com/carstein/rfuss2 | 8 | 5| 
-| 20210317T12:10:53Z | Potentially dangerous files | https://github.com/Bo0oM/fuzz.txt | 1380 | 258| 
-| 20210317T12:06:30Z | This is a Fuzzer library built in JS and nodeJS | https://github.com/fuzzing-unb/FuzzerJS | 0 | 0| 
-| 20210317T11:51:54Z | Null | https://github.com/s9varesc/url-fuzzing | 0 | 0| 
-| 20210317T11:42:01Z | Null | https://github.com/JohenanLi/AggregateFuzzing | 0 | 0| 
-| 20210317T11:16:11Z | Null | https://github.com/VeriBlock/fuzz-corpus | 0 | 1| 
+| 20210318T00:14:17Z | Automatic Firmware Analysis of Embedded Linux Devices as Preparation for Security Testing / Fuzzing | https://github.com/efi4st/efi4st | 6 | 3| 
+| 20210318T00:09:12Z | Null | https://github.com/VeriBlock/fuzz-corpus | 0 | 1| 
+| 20210317T23:49:06Z | A cross-platform browser fuzzing framework | https://github.com/MozillaSecurity/grizzly | 233 | 31| 
+| 20210317T22:38:55Z | REST API Fuzz Testing (RAFT): Source code for self-hosted service developed for Azure, including the API, orchestration engine, and default set of security tools (including MSR%s RESTler), that enables developers to embed security tooling into their CI/CD workflows | https://github.com/microsoft/rest-api-fuzz-testing | 117 | 18| 
+| 20210317T22:22:38Z | A set of tools for using Fuzzy Logic in JavaScript | https://github.com/valenvb/fuzzy-toolbox | 0 | 0| 
+| 20210317T22:05:53Z | CS 4152 Project | https://github.com/nicbarone/Fuzzy-Kiwi | 0 | 0| 
+| 20210317T21:25:06Z | Send controlled amount of bytes, send msf-pattern, calculate offset, custom buffer, badcharacters all in one. | https://github.com/AceSineX/BOF-fuzzer-python-3-All-in | 0 | 0| 
+| 20210317T20:57:40Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2288 | 119| 
+| 20210317T20:32:52Z | A fuzz test program that identifies reflected Cross-Site Scripting (XSS) bugs. | https://github.com/zamieabdullah/The_Fuzzer | 0 | 0| 
+| 20210317T20:32:01Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6089 | 1227| 
 
 
 

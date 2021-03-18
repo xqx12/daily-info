@@ -94,16 +94,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210317T12:45:09Z | afl++ setup | https://github.com/LibreDWG/libredwg-fuzz | 0 | 0| 
-| 20210317T12:40:04Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 1502 | 306| 
-| 20210317T12:37:12Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6087 | 1223| 
-| 20210317T12:29:26Z | Null | https://github.com/DarkShinobi100/BehaviourTreesvsFuzzy | 0 | 0| 
-| 20210317T12:10:58Z | Simple rust fuzzer  | https://github.com/carstein/rfuss2 | 8 | 5| 
-| 20210317T12:10:53Z | Potentially dangerous files | https://github.com/Bo0oM/fuzz.txt | 1380 | 258| 
-| 20210317T12:06:30Z | This is a Fuzzer library built in JS and nodeJS | https://github.com/fuzzing-unb/FuzzerJS | 0 | 0| 
-| 20210317T11:51:54Z | Null | https://github.com/s9varesc/url-fuzzing | 0 | 0| 
-| 20210317T11:42:01Z | Null | https://github.com/JohenanLi/AggregateFuzzing | 0 | 0| 
-| 20210317T11:16:11Z | Null | https://github.com/VeriBlock/fuzz-corpus | 0 | 1| 
+| 20210317T23:49:06Z | A cross-platform browser fuzzing framework | https://github.com/MozillaSecurity/grizzly | 233 | 31| 
+| 20210317T22:38:55Z | REST API Fuzz Testing (RAFT): Source code for self-hosted service developed for Azure, including the API, orchestration engine, and default set of security tools (including MSR%s RESTler), that enables developers to embed security tooling into their CI/CD workflows | https://github.com/microsoft/rest-api-fuzz-testing | 117 | 18| 
+| 20210317T22:22:38Z | A set of tools for using Fuzzy Logic in JavaScript | https://github.com/valenvb/fuzzy-toolbox | 0 | 0| 
+| 20210317T22:05:53Z | CS 4152 Project | https://github.com/nicbarone/Fuzzy-Kiwi | 0 | 0| 
+| 20210317T21:25:06Z | Send controlled amount of bytes, send msf-pattern, calculate offset, custom buffer, badcharacters all in one. | https://github.com/AceSineX/BOF-fuzzer-python-3-All-in | 0 | 0| 
+| 20210317T20:57:40Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2288 | 119| 
+| 20210317T20:32:52Z | A fuzz test program that identifies reflected Cross-Site Scripting (XSS) bugs. | https://github.com/zamieabdullah/The_Fuzzer | 0 | 0| 
+| 20210317T20:32:01Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6089 | 1227| 
+| 20210317T20:08:07Z | Group 4C Fuzzy Logic Medieval Chess AI Senior Project | https://github.com/arizonagranger/SeniorProjectFuzzyLogicChess | 1 | 1| 
+| 20210317T19:54:40Z | Null | https://github.com/Probably-Jay/Fuzzy | 0 | 0| 
 
 
 
