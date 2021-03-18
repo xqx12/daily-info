@@ -46,7 +46,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20210318T00:46:33Z | CVE-2021-26855 | Microsoft Exchange Proxylogon Exploit Chain EXP分析 | https://github.com/r0ckysec/CVE-2021-26855-Exchange-RCE | | 
+| 20210318T00:46:33Z | CVE-2021-26855 | Microsoft Exchange Proxylogon Exploit Chain EXP分析 | https://github.com/r0ckysec/CVE-2021-26855-Exchange-RCE | Microsoft Exchange Server Remote Code Execution Vulnerability This CVE ID is unique from CVE-2021-26412, CVE-2021-26854, CVE-2021-26857, CVE-2021-26858, CVE-2021-27065, CVE-2021-27078.| 
 | 20210317T23:34:14Z | CVE-2021-3156 | Sudo Baron Samedit Exploit | https://github.com/worawit/CVE-2021-3156 | Sudo before 1.9.5p2 contains an off-by-one error that can result in a heap-based buffer overflow, which allows privilege escalation to root via %sudoedit -s% and a command-line argument that ends with a single backslash character.| 
 | 20210317T20:06:27Z | CVE-2021-22986 | This is a Poc for BIGIP iControl unauth RCE  | https://github.com/dorkerdevil/CVE-2021-22986-Poc | 未查询到CVE信息| 
 | 20210317T18:07:42Z | 未知编号 | Null | https://github.com/0xmahmoudJo0/Check_Emails_For_CVE_2021_26855 | 未查询到CVE信息| 
@@ -85,6 +85,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210318T00:50:26Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 9 | 5| 
 | 20210318T00:46:33Z | Microsoft Exchange Proxylogon Exploit Chain EXP分析 | https://github.com/r0ckysec/CVE-2021-26855-Exchange-RCE | 0 | 0| 
 | 20210318T00:39:45Z | PS1 savegame exploit using THPS3 | https://github.com/socram8888/tonyhax | 74 | 2| 
 | 20210318T00:35:37Z | This project is a sentiment analysis on Twitter Airline text data. By conducting analysis and prediction on sentiments, users could gain more insights on customers’ experience, satisfaction level, and business profitability. The main goal of the project is to derive sentiments from the twitter text narratives. The first part is to exploit exploratory data analysis and transform the dataset for further use. Then, three models were applied to the cleaned data in order to obtain general trends, derive predictions, and reach better performance. | https://github.com/chengzhong666/Twitter_Sentiment_Analysis | 0 | 0| 
@@ -94,7 +95,6 @@
 | 20210318T00:11:54Z | Null | https://github.com/CKScripts/RBLX-Exploit | 0 | 0| 
 | 20210318T00:11:32Z | Null | https://github.com/nobelherrrera/ExploitSource | 0 | 0| 
 | 20210318T00:11:32Z | Null | https://github.com/nobelherrera/ExploitSource | 0 | 0| 
-| 20210318T00:02:27Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 11 | 6| 
 
 
 # backdoor on Github 推荐
