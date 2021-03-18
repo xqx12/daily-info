@@ -45,6 +45,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210318T12:02:41Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 11 | 6| 
 | 20210318T12:00:56Z | Here is the walkthrough of few services on the vunerable machine Metasploitable2. Services like FTP to Sysql database is being exploited.  | https://github.com/SumedhDawadi/Metasploitable2_walkthrough-part1- | 0 | 0| 
 | 20210318T11:59:12Z | This repository contains tools developed to hack CS:GO. | https://github.com/samdobsonDEV/csgo-exploits | 0 | 0| 
 | 20210318T11:50:09Z | A choose-your-own adventure game following the exploits of Kitty Fursbags | https://github.com/emilykmcullen/kitty_fursbags_story_game | 0 | 0| 
@@ -53,22 +54,21 @@
 | 20210318T11:16:36Z | CVE-2020-17136 exploit | https://github.com/xyddnljydd/CVE-2020-17136 | 0 | 0| 
 | 20210318T11:16:28Z | Null | https://github.com/kiarashjam/Exploiting-Video-Games-to-Test-AV | 0 | 1| 
 | 20210318T11:03:25Z | Null | https://github.com/summershrimp/exploits-open | 19 | 2| 
-| 20210318T11:02:30Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 11 | 6| 
 | 20210318T10:40:25Z | Some Apex Legends Cheats Exploits and Offsets Updated Every Update | https://github.com/Android1337/Apex-Offsets-Season-8 | 4 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210318T04:46:29Z | Protect your server against backdoors. | https://github.com/Xalalau/backdoor-shield | 1 | 0| 
 | 20210318T01:17:32Z | Config files for my GitHub profile. | https://github.com/BacKDoor-Khaos/BacKDoor-Khaos | 0 | 0| 
-| 20210318T00:24:11Z | Protect your server against backdoors. | https://github.com/Xalalau/backdoor-shield | 1 | 0| 
 
 
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210318T12:02:35Z | Null | https://github.com/s9varesc/url-fuzzing | 0 | 0| 
 | 20210318T12:00:38Z | Null | https://github.com/GitHub-Techops/fuzzy | 0 | 0| 
-| 20210318T11:59:34Z | Null | https://github.com/s9varesc/url-fuzzing | 0 | 0| 
 | 20210318T11:51:22Z | CSFuzz: Call Sequence-based Greybox Fuzzing Tool | https://github.com/csfuzz/CSFuzz | 0 | 0| 
 | 20210318T11:46:35Z | This repository is for testing a number of open source applications for vulnerabilities using multiple fuzzers. | https://github.com/bartholomewHarris/fuzzingNode.jsApplications | 0 | 0| 
 | 20210318T11:39:51Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 1506 | 308| 
