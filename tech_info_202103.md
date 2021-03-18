@@ -47,7 +47,7 @@
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
 | 20210317T23:34:14Z | CVE-2021-3156 | Sudo Baron Samedit Exploit | https://github.com/worawit/CVE-2021-3156 | Sudo before 1.9.5p2 contains an off-by-one error that can result in a heap-based buffer overflow, which allows privilege escalation to root via %sudoedit -s% and a command-line argument that ends with a single backslash character.| 
-| 20210317T20:06:27Z | CVE-2021-22986 | This is a Poc for BIGIP iControl unauth RCE  | https://github.com/dorkerdevil/CVE-2021-22986-Poc | | 
+| 20210317T20:06:27Z | CVE-2021-22986 | This is a Poc for BIGIP iControl unauth RCE  | https://github.com/dorkerdevil/CVE-2021-22986-Poc | 未查询到CVE信息| 
 | 20210317T18:07:42Z | 未知编号 | Null | https://github.com/0xmahmoudJo0/Check_Emails_For_CVE_2021_26855 | 未查询到CVE信息| 
 | 20210317T17:02:29Z | CVE-2021-26411 | Null | https://github.com/avboy1337/CVE-2021-26411 | Internet Explorer Memory Corruption Vulnerability| 
 | 20210317T16:42:38Z | CVE-2021-26855 | RCE exploit for ProxyLogon vulnerability in Microsoft Exchange | https://github.com/mil1200/ProxyLogon-CVE-2021-26855 | Microsoft Exchange Server Remote Code Execution Vulnerability This CVE ID is unique from CVE-2021-26412, CVE-2021-26854, CVE-2021-26857, CVE-2021-26858, CVE-2021-27065, CVE-2021-27078.| 
@@ -85,7 +85,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210318T00:32:14Z | This project is a sentiment analysis on Twitter Airline text data. By conducting analysis and prediction on sentiments, users could gain more insights on customers’ experience, satisfaction level, and business profitability. The main goal of the project is to derive sentiments from the twitter text narratives. The first part is to exploit exploratory data analysis and transform the dataset for further use. Then, three models were applied to the cleaned data in order to obtain general trends, derive predictions, and reach better performance. | https://github.com/chengzhong666/Twitter_Sentiment_Analysis | 0 | 0| 
+| 20210318T00:35:37Z | This project is a sentiment analysis on Twitter Airline text data. By conducting analysis and prediction on sentiments, users could gain more insights on customers’ experience, satisfaction level, and business profitability. The main goal of the project is to derive sentiments from the twitter text narratives. The first part is to exploit exploratory data analysis and transform the dataset for further use. Then, three models were applied to the cleaned data in order to obtain general trends, derive predictions, and reach better performance. | https://github.com/chengzhong666/Twitter_Sentiment_Analysis | 0 | 0| 
 | 20210318T00:26:55Z | There was a flaw in the WordPress plugin, Email Subscribers & Newsletters before 4.3.1, that allowed SQL statements to be passed to the database in the hash parameter (a blind SQL injection vulnerability). | https://github.com/jerrylewis9/CVE-2019-20361-EXPLOIT | 0 | 0| 
 | 20210318T00:26:30Z | this is my own exploit, should be private, uses krnl api | https://github.com/XGodsOfWorldsX/Rainer_X-V1.3 | 0 | 0| 
 | 20210318T00:24:30Z | Null | https://github.com/SammyKrosoft/Exchange-Vulnerability-02March2021-HAFNIUM-targeting-Exchange-Servers-with-0-day-exploits | 1 | 1| 
