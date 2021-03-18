@@ -55,7 +55,7 @@
 | 20210317T11:30:01Z | CVE-2020-15778 | Null | https://github.com/cpandya2909/CVE-2020-15778 | scp in OpenSSH through 8.3p1 allows command injection in the scp.c toremote function, as demonstrated by backtick characters in the destination argument. NOTE: the vendor reportedly has stated that they intentionally omit validation of %anomalous argument transfers% because that could %stand a great chance of breaking existing workflows.%| 
 | 20210317T05:51:32Z | CVE-2021-26855 | CVE-2021-26855 proxyLogon metasploit exploit script | https://github.com/TaroballzChen/ProxyLogon-CVE-2021-26855-metasploit | Microsoft Exchange Server Remote Code Execution Vulnerability This CVE ID is unique from CVE-2021-26412, CVE-2021-26854, CVE-2021-26857, CVE-2021-26858, CVE-2021-27065, CVE-2021-27078.| 
 | 20210316T16:39:44Z | CVE-2021-26855 | Null | https://github.com/alt3kx/CVE-2021-26855_PoC | Microsoft Exchange Server Remote Code Execution Vulnerability This CVE ID is unique from CVE-2021-26412, CVE-2021-26854, CVE-2021-26857, CVE-2021-26858, CVE-2021-27065, CVE-2021-27078.| 
-| 20210316T16:10:29Z | CVE-2021-26855 | Null | https://github.com/shacojx/Scan-Vuln-CVE-2021-26855 | Microsoft Exchange Server Remote Code Execution Vulnerability This CVE ID is unique from CVE-2021-26412, CVE-2021-26854, CVE-2021-26857, CVE-2021-26858, CVE-2021-27065, CVE-2021-27078.| 
+| 20210316T16:10:29Z | CVE-2021-26855 | Null | https://github.com/shacojx/Scan-Vuln-CVE-2021-26855 | | 
 
 
 # klee on Github 推荐
@@ -85,12 +85,12 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210318T01:05:30Z | PS1 savegame exploit using THPS3 | https://github.com/socram8888/tonyhax | 74 | 2| 
+| 20210318T01:05:01Z | There was a flaw in the WordPress plugin, Email Subscribers & Newsletters before 4.3.1, that allowed SQL statements to be passed to the database in the hash parameter (a blind SQL injection vulnerability). | https://github.com/jerrylewis9/CVE-2019-20361-EXPLOIT | 0 | 0| 
 | 20210318T01:02:35Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 11 | 6| 
 | 20210318T01:00:09Z | Null | https://github.com/nobelherrera/ExploitSource | 0 | 0| 
-| 20210318T00:57:22Z | There was a flaw in the WordPress plugin, Email Subscribers & Newsletters before 4.3.1, that allowed SQL statements to be passed to the database in the hash parameter (a blind SQL injection vulnerability). | https://github.com/jerrylewis9/CVE-2019-20361-EXPLOIT | 0 | 0| 
 | 20210318T00:55:42Z | Microsoft Exchange Proxylogon Exploit Chain EXP分析 | https://github.com/r0ckysec/CVE-2021-26855-Exchange-RCE | 0 | 0| 
 | 20210318T00:50:26Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 9 | 5| 
-| 20210318T00:39:45Z | PS1 savegame exploit using THPS3 | https://github.com/socram8888/tonyhax | 74 | 2| 
 | 20210318T00:35:37Z | This project is a sentiment analysis on Twitter Airline text data. By conducting analysis and prediction on sentiments, users could gain more insights on customers’ experience, satisfaction level, and business profitability. The main goal of the project is to derive sentiments from the twitter text narratives. The first part is to exploit exploratory data analysis and transform the dataset for further use. Then, three models were applied to the cleaned data in order to obtain general trends, derive predictions, and reach better performance. | https://github.com/chengzhong666/Twitter_Sentiment_Analysis | 0 | 0| 
 | 20210318T00:26:30Z | this is my own exploit, should be private, uses krnl api | https://github.com/XGodsOfWorldsX/Rainer_X-V1.3 | 0 | 0| 
 | 20210318T00:24:30Z | Null | https://github.com/SammyKrosoft/Exchange-Vulnerability-02March2021-HAFNIUM-targeting-Exchange-Servers-with-0-day-exploits | 1 | 1| 
