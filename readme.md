@@ -38,8 +38,8 @@
 | 20210317T23:34:14Z | CVE-2021-3156 | Sudo Baron Samedit Exploit | https://github.com/worawit/CVE-2021-3156 | Sudo before 1.9.5p2 contains an off-by-one error that can result in a heap-based buffer overflow, which allows privilege escalation to root via %sudoedit -s% and a command-line argument that ends with a single backslash character.| 
 | 20210317T20:06:27Z | CVE-2021-22986 | This is a Poc for BIGIP iControl unauth RCE  | https://github.com/dorkerdevil/CVE-2021-22986-Poc | 未查询到CVE信息| 
 | 20210317T18:07:42Z | 未知编号 | Null | https://github.com/0xmahmoudJo0/Check_Emails_For_CVE_2021_26855 | 未查询到CVE信息| 
-| 20210317T17:02:29Z | CVE-2021-26411 | Null | https://github.com/avboy1337/CVE-2021-26411 | | 
-| 20210317T16:42:38Z | CVE-2021-26855 | RCE exploit for ProxyLogon vulnerability in Microsoft Exchange | https://github.com/mil1200/ProxyLogon-CVE-2021-26855 | | 
+| 20210317T17:02:29Z | CVE-2021-26411 | Null | https://github.com/avboy1337/CVE-2021-26411 | Internet Explorer Memory Corruption Vulnerability| 
+| 20210317T16:42:38Z | CVE-2021-26855 | RCE exploit for ProxyLogon vulnerability in Microsoft Exchange | https://github.com/mil1200/ProxyLogon-CVE-2021-26855 | Microsoft Exchange Server Remote Code Execution Vulnerability This CVE ID is unique from CVE-2021-26412, CVE-2021-26854, CVE-2021-26857, CVE-2021-26858, CVE-2021-27065, CVE-2021-27078.| 
 | 20210317T11:30:01Z | CVE-2020-15778 | Null | https://github.com/cpandya2909/CVE-2020-15778 | scp in OpenSSH through 8.3p1 allows command injection in the scp.c toremote function, as demonstrated by backtick characters in the destination argument. NOTE: the vendor reportedly has stated that they intentionally omit validation of %anomalous argument transfers% because that could %stand a great chance of breaking existing workflows.%| 
 | 20210317T05:51:32Z | CVE-2021-26855 | CVE-2021-26855 proxyLogon metasploit exploit script | https://github.com/TaroballzChen/ProxyLogon-CVE-2021-26855-metasploit | Microsoft Exchange Server Remote Code Execution Vulnerability This CVE ID is unique from CVE-2021-26412, CVE-2021-26854, CVE-2021-26857, CVE-2021-26858, CVE-2021-27065, CVE-2021-27078.| 
 
@@ -50,7 +50,6 @@
 | 20210317T23:48:17Z | Git Blog | https://github.com/klee30810/klee30810.github.io | 0 | 0| 
 | 20210317T09:14:26Z | Symbiotic is a tool for finding bugs in computer programs based on instrumentation, program slicing and KLEE | https://github.com/staticafi/symbiotic | 212 | 34| 
 | 20210317T08:57:28Z | Kleene algebra, regular expressions | https://github.com/phadej/kleene | 27 | 1| 
-| 20210317T08:48:54Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 的 Klee One 的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 333 | 7| 
 | 20210317T03:50:51Z | 원신 가챠 시뮬레이터 | https://github.com/LunaNyan/Genshin_Klee_Discord_Bot | 1 | 0| 
 | 20210317T00:52:52Z | Null | https://github.com/TheBeehive/kleene | 0 | 0| 
 
