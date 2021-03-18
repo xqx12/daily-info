@@ -54,7 +54,7 @@
 | 20210317T20:06:27Z | CVE-2021-22986 | This is a Poc for BIGIP iControl unauth RCE  | https://github.com/dorkerdevil/CVE-2021-22986-Poc | 未查询到CVE信息| 
 | 20210317T18:07:42Z | 未知编号 | Null | https://github.com/0xmahmoudJo0/Check_Emails_For_CVE_2021_26855 | 未查询到CVE信息| 
 | 20210317T17:02:29Z | CVE-2021-26411 | Null | https://github.com/avboy1337/CVE-2021-26411 | | 
-| 20210317T16:42:38Z | CVE-2021-26855 | RCE exploit for ProxyLogon vulnerability in Microsoft Exchange | https://github.com/mil1200/ProxyLogon-CVE-2021-26855 | | 
+| 20210317T16:42:38Z | CVE-2021-26855 | RCE exploit for ProxyLogon vulnerability in Microsoft Exchange | https://github.com/mil1200/ProxyLogon-CVE-2021-26855 | Microsoft Exchange Server Remote Code Execution Vulnerability This CVE ID is unique from CVE-2021-26412, CVE-2021-26854, CVE-2021-26857, CVE-2021-26858, CVE-2021-27065, CVE-2021-27078.| 
 | 20210317T11:30:01Z | CVE-2020-15778 | Null | https://github.com/cpandya2909/CVE-2020-15778 | scp in OpenSSH through 8.3p1 allows command injection in the scp.c toremote function, as demonstrated by backtick characters in the destination argument. NOTE: the vendor reportedly has stated that they intentionally omit validation of %anomalous argument transfers% because that could %stand a great chance of breaking existing workflows.%| 
 
 
@@ -100,6 +100,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210318T12:49:49Z | WMI无文件后门 | https://github.com/SAMOxtan/WMI_Fileless_Backdoor | 2 | 0| 
 | 20210318T04:46:29Z | Protect your server against backdoors. | https://github.com/Xalalau/backdoor-shield | 1 | 0| 
 | 20210318T01:17:32Z | Config files for my GitHub profile. | https://github.com/BacKDoor-Khaos/BacKDoor-Khaos | 0 | 0| 
 | 20210317T20:18:02Z | Null | https://github.com/Delle9999/backdoor | 0 | 0| 
@@ -109,7 +110,6 @@
 | 20210317T12:36:47Z | Null | https://github.com/M1kk4l/Backdoor | 0 | 0| 
 | 20210317T11:42:51Z | UEFI driver that installs backdoor reachable from usermode on Windows | https://github.com/mathisvickie/efi-backdoor | 0 | 0| 
 | 20210317T08:02:25Z | Detect ip address in apk file to find backdoor app%s owner | https://github.com/JuyunLee/apk_ip_hunter | 0 | 0| 
-| 20210317T07:08:40Z | Null | https://github.com/AbhinavBaranwal/backdoor_apk | 0 | 0| 
 
 
 # fuzz on Github 推荐
