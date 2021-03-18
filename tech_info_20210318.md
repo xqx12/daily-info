@@ -45,6 +45,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210318T12:43:50Z | Pre-Compiled DirtyCow Exploit Binaries and source code | https://github.com/y-ates/DirtyCow | 0 | 0| 
 | 20210318T12:38:38Z | Unit tests for blue teams to aid with building detections for some common macOS post exploitation methods. | https://github.com/cedowens/Swift-Attack | 23 | 2| 
 | 20210318T12:29:52Z | A choose-your-own adventure game following the exploits of Kitty Fursbags | https://github.com/emilykmcullen/kitty_fursbags_story_game | 0 | 0| 
 | 20210318T12:06:46Z | Vulnnr is a Vulnerability Scanner & Auto Exploiter You can use this tool to check the security by finding the vulnerability in your website or you can use this tool to Get Shells | https://github.com/X-x-X-0/Vulnnr | 6 | 0| 
@@ -54,7 +55,6 @@
 | 20210318T11:35:12Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9154 | 1474| 
 | 20210318T11:22:34Z | PS4 Exploits 6.72-7.55 | https://github.com/Buzbee/Buzbee2 | 1 | 0| 
 | 20210318T11:16:36Z | CVE-2020-17136 exploit | https://github.com/xyddnljydd/CVE-2020-17136 | 0 | 0| 
-| 20210318T11:16:28Z | Null | https://github.com/kiarashjam/Exploiting-Video-Games-to-Test-AV | 0 | 1| 
 
 
 # backdoor on Github 推荐
