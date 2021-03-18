@@ -67,8 +67,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210318T00:14:17Z | Automatic Firmware Analysis of Embedded Linux Devices as Preparation for Security Testing / Fuzzing | https://github.com/efi4st/efi4st | 6 | 3| 
-| 20210318T00:09:12Z | Null | https://github.com/VeriBlock/fuzz-corpus | 0 | 1| 
+| 20210318T12:00:38Z | Null | https://github.com/GitHub-Techops/fuzzy | 0 | 0| 
+| 20210318T11:59:34Z | Null | https://github.com/s9varesc/url-fuzzing | 0 | 0| 
+| 20210318T11:51:22Z | CSFuzz: Call Sequence-based Greybox Fuzzing Tool | https://github.com/csfuzz/CSFuzz | 0 | 0| 
+| 20210318T11:46:35Z | This repository is for testing a number of open source applications for vulnerabilities using multiple fuzzers. | https://github.com/bartholomewHarris/fuzzingNode.jsApplications | 0 | 0| 
+| 20210318T11:39:51Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 1506 | 308| 
+| 20210318T11:31:10Z | Null | https://github.com/AleksEiGorRin/fuzzy-spoon | 0 | 0| 
+| 20210318T11:27:49Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 3410 | 783| 
+| 20210318T11:16:49Z | White-box fuzzer for Java bytecode | https://github.com/vorpal-research/kex | 6 | 5| 
+| 20210318T10:38:46Z | The SMB Fuzzer fuzzes the Server  Message Block Protocol that enables file sharing, printing and IPC between Unix and Windows systems. | https://github.com/mellowCS/SMB_Fuzzer | 0 | 0| 
+| 20210318T10:16:44Z | Null | https://github.com/VeriBlock/fuzz-corpus | 0 | 1| 
 
 
 

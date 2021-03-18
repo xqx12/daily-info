@@ -115,16 +115,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210318T00:14:17Z | Automatic Firmware Analysis of Embedded Linux Devices as Preparation for Security Testing / Fuzzing | https://github.com/efi4st/efi4st | 6 | 3| 
-| 20210318T00:09:12Z | Null | https://github.com/VeriBlock/fuzz-corpus | 0 | 1| 
-| 20210317T23:49:06Z | A cross-platform browser fuzzing framework | https://github.com/MozillaSecurity/grizzly | 233 | 31| 
-| 20210317T22:38:55Z | REST API Fuzz Testing (RAFT): Source code for self-hosted service developed for Azure, including the API, orchestration engine, and default set of security tools (including MSR%s RESTler), that enables developers to embed security tooling into their CI/CD workflows | https://github.com/microsoft/rest-api-fuzz-testing | 117 | 18| 
-| 20210317T22:22:38Z | A set of tools for using Fuzzy Logic in JavaScript | https://github.com/valenvb/fuzzy-toolbox | 0 | 0| 
-| 20210317T22:05:53Z | CS 4152 Project | https://github.com/nicbarone/Fuzzy-Kiwi | 0 | 0| 
-| 20210317T21:25:06Z | Send controlled amount of bytes, send msf-pattern, calculate offset, custom buffer, badcharacters all in one. | https://github.com/AceSineX/BOF-fuzzer-python-3-All-in | 0 | 0| 
-| 20210317T20:57:40Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2288 | 119| 
-| 20210317T20:32:52Z | A fuzz test program that identifies reflected Cross-Site Scripting (XSS) bugs. | https://github.com/zamieabdullah/The_Fuzzer | 0 | 0| 
-| 20210317T20:32:01Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6089 | 1227| 
+| 20210318T12:00:38Z | Null | https://github.com/GitHub-Techops/fuzzy | 0 | 0| 
+| 20210318T11:59:34Z | Null | https://github.com/s9varesc/url-fuzzing | 0 | 0| 
+| 20210318T11:51:22Z | CSFuzz: Call Sequence-based Greybox Fuzzing Tool | https://github.com/csfuzz/CSFuzz | 0 | 0| 
+| 20210318T11:46:35Z | This repository is for testing a number of open source applications for vulnerabilities using multiple fuzzers. | https://github.com/bartholomewHarris/fuzzingNode.jsApplications | 0 | 0| 
+| 20210318T11:39:51Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 1506 | 308| 
+| 20210318T11:31:10Z | Null | https://github.com/AleksEiGorRin/fuzzy-spoon | 0 | 0| 
+| 20210318T11:27:49Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 3410 | 783| 
+| 20210318T11:16:49Z | White-box fuzzer for Java bytecode | https://github.com/vorpal-research/kex | 6 | 5| 
+| 20210318T10:38:46Z | The SMB Fuzzer fuzzes the Server  Message Block Protocol that enables file sharing, printing and IPC between Unix and Windows systems. | https://github.com/mellowCS/SMB_Fuzzer | 0 | 0| 
+| 20210318T10:16:44Z | Null | https://github.com/VeriBlock/fuzz-corpus | 0 | 1| 
 
 
 
