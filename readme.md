@@ -26,7 +26,7 @@
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
 | 20210319T11:05:25Z | CVE-2021-3156 | Sudo Baron Samedit Exploit | https://github.com/worawit/CVE-2021-3156 | Sudo before 1.9.5p2 contains an off-by-one error that can result in a heap-based buffer overflow, which allows privilege escalation to root via %sudoedit -s% and a command-line argument that ends with a single backslash character.| 
-| 20210319T07:05:53Z | CVE-2020-27223 | CVE-2020-27223 Vulnerability App & PoC | https://github.com/motikan2010/CVE-2020-27223 | | 
+| 20210319T07:05:53Z | CVE-2020-27223 | CVE-2020-27223 Vulnerability App & PoC | https://github.com/motikan2010/CVE-2020-27223 | In Eclipse Jetty 9.4.6.v20170531 to 9.4.36.v20210114 (inclusive), 10.0.0, and 11.0.0 when Jetty handles a request containing multiple Accept headers with a large number of “quality” (i.e. q) parameters, the server may enter a denial of service (DoS) state due to high CPU usage processing those quality values, resulting in minutes of CPU time exhausted processing those quality values.| 
 | 20210319T05:24:48Z | CVE-2021-22986 | This is a Poc for BIGIP iControl unauth RCE  | https://github.com/dorkerdevil/CVE-2021-22986-Poc | 未查询到CVE信息| 
 | 20210319T02:27:24Z | CVE-2020-17136 | Windows Cloud Files Mini Filter Driver Elevation of Privilege Vulnerability | https://github.com/cssxn/CVE-2020-17136 | Windows Cloud Files Mini Filter Driver Elevation of Privilege Vulnerability This CVE ID is unique from CVE-2020-17103, CVE-2020-17134.| 
 
@@ -46,7 +46,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210319T12:04:17Z | Exploit Education challenges. | https://github.com/theirisbugs/exploit-education-phoenix | 0 | 0| 
+| 20210319T12:08:48Z | Exploit Education challenges. | https://github.com/theirisbugs/exploit-education-phoenix | 0 | 0| 
 | 20210319T12:03:23Z | Every device has a limit on the size of the L2CAP ping. If it gets an L2CAP ping packet, which is beyond the limit of the size, it will crash. And, in BlueSmack Attack, the attacker exploits that. | https://github.com/deadlysnowman3308/BT-ddos-tool | 1 | 0| 
 | 20210319T12:02:28Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 11 | 6| 
 | 20210319T11:58:13Z | This bash script will help you to hack remote hosts  | https://github.com/FabioDefilippo/linuxallremote | 10 | 1| 
