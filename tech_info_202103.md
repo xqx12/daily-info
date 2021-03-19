@@ -14,6 +14,8 @@
 | 20210318 | Google 对 2020 年 GCP VRP 漏洞奖项及报告接收情况的介绍 | https://security.googleblog.com/2021/03/announcing-winners-of-2020-gcp-vrp-prize.html?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+GoogleOnlineSecurityBlog+%28Google+Online+Security+Blog%29| 
 | 20210318 | SharePoint 反序列化漏洞 CVE-2021-27076 分析 | https://www.thezdi.com/blog/2021/3/17/cve-2021-27076-a-replay-style-deserialization-attack-against-sharepoint| 
 | 20210318 | 安全服务公司 Mimecast 确认 SolarWinds 黑客窃取了公司内部多个项目源代码 | https://threatpost.com/mimecast-solarwinds-attackers-stole-source-code/164847/| 
+| 20210318 | 研究人员发现Android新型银行恶意软件“FluBot”并对样本进行分析。 | https://medium.com/csis-techblog/the-brief-glory-of-cabassous-flubot-a-private-android-banking-botnet-bc2ed7917027| 
+| 20210318 | IoT设备渗透测试：对硬件与软件测试方案。 | http://www.vaadata.com/blog/pentest-iot-10-hardware-software-tests/| 
 | 20210317 | Sudo CVE-2021-3156 漏洞在 Linux x64 平台的利用 | https://github.com/worawit/CVE-2021-3156| 
 | 20210317 | Spectre 漏洞的跨平台 JS 利用实现 | https://dougallj.wordpress.com/2021/03/16/another-approach-to-portable-javascript-spectre-exploitation/| 
 | 20210317 | 从内存特征的角度检测 Cobalt Strike | https://www.elastic.co/blog/detecting-cobalt-strike-with-memory-signatures| 
@@ -24,13 +26,13 @@
 | 20210317 | Necro 再次升级，使用 Tor+动态域名 DGA 双杀 Windows&Linux | https://blog.netlab.360.com/necro-shi-yong-tor-dong-tai-yu-ming-dga-shuang-sha-windows-linux/| 
 | 20210317 | CVE 2017-0261 的 .EPS 恶意文件分析 | https://paper.seebug.org/1509/| 
 | 20210317 | Excel 4.0 Macro 恶意代码分析。 | https://paper.seebug.org/1512/| 
-| 20210317 | McAfee安全团队发布针对电信公司的Diànxùn网络间谍活动报告。 | https://www.mcafee.com/blogs/other-blogs/mcafee-labs/operation-dianxun-cyberespionage-campaign-targeting-telecommunication-companies/?utm_source=twitter_mcafee_labs&utm_medium=social_organic&utm_term=&utm_content=&utm_campaign=&sf243984179=1| 
-| 20210316 | macOS CoreGraphics 图形库整数溢出漏洞（CVE-2021-1776） | https://bugs.chromium.org/p/project-zero/issues/detail?id=2130| 
 
 
 # 安全维基 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20210318 | 新型僵尸网络隐匿方式 | https://mp.weixin.qq.com/s/OxLkZyvI2AASVrYUR4GPJg| 
+| 20210318 | 如何高效的挖掘Java反序列化利用链？ | https://www.anquanke.com/post/id/234537| 
 | 20210317 | 流行窃密类木马分析（下） | https://mp.weixin.qq.com/s/R4sOXCP-_T3NGN5d7Ybl6Q| 
 | 20210317 | Apache Solr 组件安全概览 | https://mp.weixin.qq.com/s/3WuWUGO61gM0dBpwqTfenQ| 
 | 20210317 | 白嫖CDN，打造封不尽IP的代理池 | https://mp.weixin.qq.com/s/d-q5E8VmqacbwtGCJux3yw| 
@@ -39,38 +41,36 @@
 | 20210317 | DuckMemoryScan: 内存免杀马检测 | https://github.com/huoji120/DuckMemoryScan| 
 | 20210317 | CVE-2019-2215复现过程记录 | https://xz.aliyun.com/t/9273| 
 | 20210317 | C/C++源码扫描系列- codeql 篇 | https://xz.aliyun.com/t/9275| 
-| 20210315 | 隐蔽信道：隐形网络 | https://www.sec-in.com/article/57| 
-| 20210315 | SecWiki周刊（第367期) | https://www.sec-wiki.com/weekly/367| 
 
 
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20210318T12:43:50Z | CVE-2021-3156 | Sudo Baron Samedit Exploit | https://github.com/worawit/CVE-2021-3156 | Sudo before 1.9.5p2 contains an off-by-one error that can result in a heap-based buffer overflow, which allows privilege escalation to root via %sudoedit -s% and a command-line argument that ends with a single backslash character.| 
+| 20210318T18:44:27Z | CVE-2021-3156 | Sudo Baron Samedit Exploit | https://github.com/worawit/CVE-2021-3156 | Sudo before 1.9.5p2 contains an off-by-one error that can result in a heap-based buffer overflow, which allows privilege escalation to root via %sudoedit -s% and a command-line argument that ends with a single backslash character.| 
+| 20210318T16:42:37Z | CVE-2020-17136 | Windows Cloud Files Mini Filter Driver Elevation of Privilege Vulnerability | https://github.com/cssxn/CVE-2020-17136 | Windows Cloud Files Mini Filter Driver Elevation of Privilege Vulnerability This CVE ID is unique from CVE-2020-17103, CVE-2020-17134.| 
+| 20210318T15:11:29Z | CVE-2020-17136 | CVE-2020-17136 exploit | https://github.com/xyddnljydd/CVE-2020-17136 | Windows Cloud Files Mini Filter Driver Elevation of Privilege Vulnerability This CVE ID is unique from CVE-2020-17103, CVE-2020-17134.| 
 | 20210318T12:27:18Z | CVE-2021-26855 | Null | https://github.com/shacojx/Scan-Vuln-CVE-2021-26855 | Microsoft Exchange Server Remote Code Execution Vulnerability This CVE ID is unique from CVE-2021-26412, CVE-2021-26854, CVE-2021-26857, CVE-2021-26858, CVE-2021-27065, CVE-2021-27078.| 
-| 20210318T11:16:36Z | CVE-2020-17136 | CVE-2020-17136 exploit | https://github.com/xyddnljydd/CVE-2020-17136 | Windows Cloud Files Mini Filter Driver Elevation of Privilege Vulnerability This CVE ID is unique from CVE-2020-17103, CVE-2020-17134.| 
 | 20210318T10:37:28Z | CVE-2021-21300 | Null | https://github.com/Faisal78123/CVE-2021-21300 | Git is an open-source distributed revision control system. In affected versions of Git a specially crafted repository that contains symbolic links as well as files using a clean/smudge filter such as Git LFS, may cause just-checked out script to be executed while cloning onto a case-insensitive file system such as NTFS, HFS+ or APFS (i.e. the default file systems on Windows and macOS). Note that clean/smudge filters have to be configured for that. Git for Windows configures Git LFS by default, and is therefore vulnerable. The problem has been patched in the versions published on Tuesday, March 9th, 2021. As a workaound, if symbolic link support is disabled in Git (e.g. via `git config --global core.symlinks false`), the described attack won%t work. Likewise, if no clean/smudge filters such as Git LFS are configured globally (i.e. _before_ cloning), the attack is foiled. As always, it is best to avoid cloning repositories from untrusted sources. The earliest impacted version is 2.14.2. The fix versions are: 2.30.1, 2.29.3, 2.28.1, 2.27.1, 2.26.3, 2.25.5, 2.24.4, 2.23.4, 2.22.5, 2.21.4, 2.20.5, 2.19.6, 2.18.5, 2.17.62.17.6.| 
 | 20210318T00:55:42Z | CVE-2021-26855 | Microsoft Exchange Proxylogon Exploit Chain EXP分析 | https://github.com/r0ckysec/CVE-2021-26855-Exchange-RCE | Microsoft Exchange Server Remote Code Execution Vulnerability This CVE ID is unique from CVE-2021-26412, CVE-2021-26854, CVE-2021-26857, CVE-2021-26858, CVE-2021-27065, CVE-2021-27078.| 
 | 20210317T20:06:27Z | CVE-2021-22986 | This is a Poc for BIGIP iControl unauth RCE  | https://github.com/dorkerdevil/CVE-2021-22986-Poc | 未查询到CVE信息| 
 | 20210317T18:07:42Z | 未知编号 | Null | https://github.com/0xmahmoudJo0/Check_Emails_For_CVE_2021_26855 | 未查询到CVE信息| 
 | 20210317T17:02:29Z | CVE-2021-26411 | Null | https://github.com/avboy1337/CVE-2021-26411 | | 
 | 20210317T16:42:38Z | CVE-2021-26855 | RCE exploit for ProxyLogon vulnerability in Microsoft Exchange | https://github.com/mil1200/ProxyLogon-CVE-2021-26855 | Microsoft Exchange Server Remote Code Execution Vulnerability This CVE ID is unique from CVE-2021-26412, CVE-2021-26854, CVE-2021-26857, CVE-2021-26858, CVE-2021-27065, CVE-2021-27078.| 
-| 20210317T11:30:01Z | CVE-2020-15778 | Null | https://github.com/cpandya2909/CVE-2020-15778 | scp in OpenSSH through 8.3p1 allows command injection in the scp.c toremote function, as demonstrated by backtick characters in the destination argument. NOTE: the vendor reportedly has stated that they intentionally omit validation of %anomalous argument transfers% because that could %stand a great chance of breaking existing workflows.%| 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210318T08:42:32Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 的 Klee One 的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 336 | 7| 
-| 20210317T23:48:17Z | Git Blog | https://github.com/klee30810/klee30810.github.io | 0 | 0| 
+| 20210318T21:22:29Z | Null | https://github.com/TheBeehive/kleene | 0 | 0| 
+| 20210318T14:38:42Z | RVT is a collection of tools/libraries to support both static and dynamic verification of Rust programs. | https://github.com/project-oak/rust-verification-tools | 111 | 9| 
+| 20210318T14:05:42Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 的 Klee One 的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 337 | 7| 
+| 20210318T13:45:50Z | Git Blog | https://github.com/klee30810/klee30810.github.io | 0 | 0| 
 | 20210317T09:14:26Z | Symbiotic is a tool for finding bugs in computer programs based on instrumentation, program slicing and KLEE | https://github.com/staticafi/symbiotic | 212 | 34| 
 | 20210317T08:57:28Z | Kleene algebra, regular expressions | https://github.com/phadej/kleene | 27 | 1| 
 | 20210317T03:50:51Z | 원신 가챠 시뮬레이터 | https://github.com/LunaNyan/Genshin_Klee_Discord_Bot | 1 | 0| 
-| 20210317T00:52:52Z | Null | https://github.com/TheBeehive/kleene | 0 | 0| 
 | 20210316T21:21:48Z | Minimal Working Example (MWE) to evaluate flexible protections in KLEE | https://github.com/jvdbroeck/mwe-klee | 0 | 0| 
 | 20210316T11:23:26Z | Website for the KLEE project: https://klee.github.io/ | https://github.com/klee/klee.github.io | 14 | 42| 
 | 20210316T10:53:00Z | JavaScript graphics | https://github.com/MolluscHotel/MisterKlee | 0 | 0| 
-| 20210316T09:29:20Z | Null | https://github.com/kleefi/kleefi.github.io | 0 | 0| 
 
 
 # s2e on Github 推荐
@@ -85,46 +85,46 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210318T12:50:39Z | A choose-your-own adventure game following the exploits of Kitty Fursbags | https://github.com/emilykmcullen/kitty_fursbags_story_game | 0 | 0| 
-| 20210318T12:46:59Z | PS4 Exploit Host | https://github.com/Night-King-Host/Night-King-Host.github.io | 0 | 0| 
-| 20210318T12:46:54Z | PS1 savegame exploit using THPS3 | https://github.com/socram8888/tonyhax | 76 | 2| 
-| 20210318T12:43:50Z | Pre-Compiled DirtyCow Exploit Binaries and source code | https://github.com/y-ates/DirtyCow | 0 | 0| 
-| 20210318T12:38:38Z | Unit tests for blue teams to aid with building detections for some common macOS post exploitation methods. | https://github.com/cedowens/Swift-Attack | 23 | 2| 
-| 20210318T12:06:46Z | Vulnnr is a Vulnerability Scanner & Auto Exploiter You can use this tool to check the security by finding the vulnerability in your website or you can use this tool to Get Shells | https://github.com/X-x-X-0/Vulnnr | 6 | 0| 
-| 20210318T12:02:41Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 11 | 6| 
-| 20210318T12:00:56Z | Here is the walkthrough of few services on the vunerable machine Metasploitable2. Services like FTP to Sysql database is being exploited.  | https://github.com/SumedhDawadi/Metasploitable2_walkthrough-part1- | 0 | 0| 
-| 20210318T11:59:12Z | This repository contains tools developed to hack CS:GO. | https://github.com/samdobsonDEV/csgo-exploits | 0 | 0| 
-| 20210318T11:35:12Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9154 | 1474| 
+| 20210318T23:52:26Z | A choose-your-own adventure game following the exploits of Kitty Fursbags | https://github.com/emilykmcullen/kitty_fursbags_story_game | 0 | 0| 
+| 20210318T23:51:49Z | This is a fixed version I found of the Fiona Illegal items remover. The exploits have been patched in this version according to the dev and wanted to share it with you guys! This is not my work it is Funkemoney%s work and if u want this taken down, PM me :) | https://github.com/TheGoodDev725/Fiona-Fix | 0 | 0| 
+| 20210318T23:49:16Z | i throw exploit POC%s here | https://github.com/0xmanjoos/Exploit-Development | 1 | 1| 
+| 20210318T23:40:52Z | DDOS Archive  by RootSec (Scanners, BotNets (Mirai and QBot Premium & Normal and more), Exploits, Methods, Sniffers) | https://github.com/R00tS3c/DDOS-RootSec | 60 | 33| 
+| 20210318T23:39:13Z | Null | https://github.com/CKScripts/RBLX-Exploit | 0 | 0| 
+| 20210318T23:36:50Z | A CTF web app designed to teach software developers application security by showcasing what vulnerable code looks like, how to write code to exploit the vulnerability, and how to write code to patch the vulnerability. | https://github.com/neumaneuma/appseccheat.codes | 1 | 0| 
+| 20210318T23:35:25Z | C# Memory Exploiting Utilities | https://github.com/OpenGamerTips/HackerFramework | 0 | 0| 
+| 20210318T23:26:31Z | A post exploitation framework designed to operate covertly on heavily monitored environments | https://github.com/bats3c/shad0w | 1165 | 194| 
+| 20210318T23:18:50Z | A single-core implementation of a cache timing side channel attack making use of the Prime+Probe exploit. | https://github.com/Incapamentum/Single-Core_CacheTiming-SideChannel | 0 | 0| 
+| 20210318T23:02:22Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 11 | 6| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210318T23:43:56Z | libpcap based ICMP encrypted backdoor for linux. | https://github.com/hal3002/rooty | 112 | 38| 
+| 20210318T23:43:27Z | Null | https://github.com/rlarjsdn2313/backdoor | 0 | 0| 
+| 20210318T22:08:40Z | random backdoors with msf | https://github.com/0xcann0n/rev_shells | 0 | 0| 
+| 20210318T21:34:30Z | The Stick Hacker is an advanced type backdoor made by myself (Ihatestick) this version is 0.1 beta | https://github.com/Ihatestick/The-Stick-Hacker | 1 | 0| 
+| 20210318T20:50:00Z | Python botnet and backdoor | https://github.com/sweetsoftware/Ares | 1049 | 431| 
+| 20210318T20:36:37Z | Linux & MacOS Backdoor | https://github.com/krissemicolon/hiddenbackdoor2 | 0 | 0| 
+| 20210318T20:29:29Z | A demo and explanation of how backdoor poisoning in the form of a Trojan work in neural networks | https://github.com/adit-bala/Introduction-to-Trojans-in-AI | 0 | 0| 
+| 20210318T20:05:45Z | TrojanZoo provides a universal pytorch platform to conduct security researches (especially backdoor attacks/defenses) of image classification in deep learning. | https://github.com/ain-soph/trojanzoo | 52 | 8| 
+| 20210318T13:33:22Z | UEFI driver that installs backdoor reachable from usermode on Windows | https://github.com/mathisvickie/efi-backdoor | 0 | 0| 
 | 20210318T12:49:49Z | WMI无文件后门 | https://github.com/SAMOxtan/WMI_Fileless_Backdoor | 2 | 0| 
-| 20210318T04:46:29Z | Protect your server against backdoors. | https://github.com/Xalalau/backdoor-shield | 1 | 0| 
-| 20210318T01:17:32Z | Config files for my GitHub profile. | https://github.com/BacKDoor-Khaos/BacKDoor-Khaos | 0 | 0| 
-| 20210317T20:18:02Z | Null | https://github.com/Delle9999/backdoor | 0 | 0| 
-| 20210317T20:12:13Z | https://github.blog/2021-03-16-using-github-code-scanning-and-codeql-to-detect-traces-of-solorigate-and-other-backdoors/ | https://github.com/434791829/License-number-12 | 0 | 0| 
-| 20210317T17:02:53Z | Null | https://github.com/dev2033/simple_backdoor_python | 0 | 0| 
-| 20210317T16:49:41Z | https://www.whonix.org/wiki/Verifiable_Builds - for better security. Makes finding backdoors easier. | https://github.com/Whonix/whonix-initializer | 2 | 3| 
-| 20210317T12:36:47Z | Null | https://github.com/M1kk4l/Backdoor | 0 | 0| 
-| 20210317T11:42:51Z | UEFI driver that installs backdoor reachable from usermode on Windows | https://github.com/mathisvickie/efi-backdoor | 0 | 0| 
-| 20210317T08:02:25Z | Detect ip address in apk file to find backdoor app%s owner | https://github.com/JuyunLee/apk_ip_hunter | 0 | 0| 
 
 
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210318T12:06:40Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6090 | 1229| 
-| 20210318T12:02:35Z | Null | https://github.com/s9varesc/url-fuzzing | 0 | 0| 
-| 20210318T12:00:38Z | Null | https://github.com/GitHub-Techops/fuzzy | 0 | 0| 
-| 20210318T11:51:22Z | CSFuzz: Call Sequence-based Greybox Fuzzing Tool | https://github.com/csfuzz/CSFuzz | 0 | 0| 
-| 20210318T11:46:35Z | This repository is for testing a number of open source applications for vulnerabilities using multiple fuzzers. | https://github.com/bartholomewHarris/fuzzingNode.jsApplications | 0 | 0| 
-| 20210318T11:39:51Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 1506 | 308| 
-| 20210318T11:31:10Z | Null | https://github.com/AleksEiGorRin/fuzzy-spoon | 0 | 0| 
-| 20210318T11:27:49Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 3410 | 783| 
-| 20210318T11:16:49Z | White-box fuzzer for Java bytecode | https://github.com/vorpal-research/kex | 6 | 5| 
-| 20210318T10:38:46Z | The SMB Fuzzer fuzzes the Server  Message Block Protocol that enables file sharing, printing and IPC between Unix and Windows systems. | https://github.com/mellowCS/SMB_Fuzzer | 0 | 0| 
+| 20210318T23:50:09Z | Basic fuzzer for malloc implementations | https://github.com/emeryberger/hangover | 4 | 1| 
+| 20210318T23:38:16Z | This repository is for testing a number of open source applications for vulnerabilities using multiple fuzzers. | https://github.com/bartholomewHarris/fuzzingNode.jsApplications | 0 | 0| 
+| 20210318T23:29:09Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 30449 | 15496| 
+| 20210318T23:13:12Z | Null | https://github.com/blahblah5555/fuzz | 0 | 0| 
+| 20210318T22:58:19Z | Fuzzster - fuzzy matching web application | https://github.com/datahappy1/go_fuzzymatch_webapp | 0 | 0| 
+| 20210318T22:05:07Z | A type-safe fuzzy string matcher | https://github.com/citizennet/purescript-fuzzy | 18 | 1| 
+| 20210318T22:04:52Z | REST API Fuzz Testing (RAFT): Source code for self-hosted service developed for Azure, including the API, orchestration engine, and default set of security tools (including MSR%s RESTler), that enables developers to embed security tooling into their CI/CD workflows | https://github.com/microsoft/rest-api-fuzz-testing | 119 | 18| 
+| 20210318T21:47:57Z | Null | https://github.com/Sambigeara/fuzzynote | 2 | 1| 
+| 20210318T21:34:08Z | Null | https://github.com/VeriBlock/fuzz-corpus | 0 | 1| 
+| 20210318T21:31:19Z | CS 4152 Project | https://github.com/nicbarone/Fuzzy-Kiwi | 0 | 0| 
 
 
 
