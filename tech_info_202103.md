@@ -46,8 +46,8 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20210318T18:44:27Z | CVE-2021-3156 | Sudo Baron Samedit Exploit | https://github.com/worawit/CVE-2021-3156 | Sudo before 1.9.5p2 contains an off-by-one error that can result in a heap-based buffer overflow, which allows privilege escalation to root via %sudoedit -s% and a command-line argument that ends with a single backslash character.| 
-| 20210318T16:42:37Z | CVE-2020-17136 | Windows Cloud Files Mini Filter Driver Elevation of Privilege Vulnerability | https://github.com/cssxn/CVE-2020-17136 | | 
+| 20210318T18:44:27Z | CVE-2021-3156 | Sudo Baron Samedit Exploit | https://github.com/worawit/CVE-2021-3156 | | 
+| 20210318T16:42:37Z | CVE-2020-17136 | Windows Cloud Files Mini Filter Driver Elevation of Privilege Vulnerability | https://github.com/cssxn/CVE-2020-17136 | Windows Cloud Files Mini Filter Driver Elevation of Privilege Vulnerability This CVE ID is unique from CVE-2020-17103, CVE-2020-17134.| 
 | 20210318T15:11:29Z | CVE-2020-17136 | CVE-2020-17136 exploit | https://github.com/xyddnljydd/CVE-2020-17136 | Windows Cloud Files Mini Filter Driver Elevation of Privilege Vulnerability This CVE ID is unique from CVE-2020-17103, CVE-2020-17134.| 
 | 20210318T12:27:18Z | CVE-2021-26855 | Null | https://github.com/shacojx/Scan-Vuln-CVE-2021-26855 | Microsoft Exchange Server Remote Code Execution Vulnerability This CVE ID is unique from CVE-2021-26412, CVE-2021-26854, CVE-2021-26857, CVE-2021-26858, CVE-2021-27065, CVE-2021-27078.| 
 | 20210318T10:37:28Z | CVE-2021-21300 | Null | https://github.com/Faisal78123/CVE-2021-21300 | Git is an open-source distributed revision control system. In affected versions of Git a specially crafted repository that contains symbolic links as well as files using a clean/smudge filter such as Git LFS, may cause just-checked out script to be executed while cloning onto a case-insensitive file system such as NTFS, HFS+ or APFS (i.e. the default file systems on Windows and macOS). Note that clean/smudge filters have to be configured for that. Git for Windows configures Git LFS by default, and is therefore vulnerable. The problem has been patched in the versions published on Tuesday, March 9th, 2021. As a workaound, if symbolic link support is disabled in Git (e.g. via `git config --global core.symlinks false`), the described attack won%t work. Likewise, if no clean/smudge filters such as Git LFS are configured globally (i.e. _before_ cloning), the attack is foiled. As always, it is best to avoid cloning repositories from untrusted sources. The earliest impacted version is 2.14.2. The fix versions are: 2.30.1, 2.29.3, 2.28.1, 2.27.1, 2.26.3, 2.25.5, 2.24.4, 2.23.4, 2.22.5, 2.21.4, 2.20.5, 2.19.6, 2.18.5, 2.17.62.17.6.| 
@@ -85,6 +85,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210319T00:07:11Z | This is a repo for the coding done for CTFs / exploits. The writeups are here: https://github.com/dillonwu-97/csec_writeups | https://github.com/dillonwu-97/csec-code | 0 | 0| 
+| 20210319T00:07:03Z | An exploitation/information gathering framework designed for Python3 scripts | https://github.com/binexisHATT/simple5ploit | 0 | 0| 
 | 20210319T00:02:32Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 11 | 6| 
 | 20210318T23:52:26Z | A choose-your-own adventure game following the exploits of Kitty Fursbags | https://github.com/emilykmcullen/kitty_fursbags_story_game | 0 | 0| 
 | 20210318T23:51:49Z | This is a fixed version I found of the Fiona Illegal items remover. The exploits have been patched in this version according to the dev and wanted to share it with you guys! This is not my work it is Funkemoney%s work and if u want this taken down, PM me :) | https://github.com/TheGoodDev725/Fiona-Fix | 0 | 0| 
@@ -93,8 +95,6 @@
 | 20210318T23:39:13Z | Null | https://github.com/CKScripts/RBLX-Exploit | 0 | 0| 
 | 20210318T23:36:50Z | A CTF web app designed to teach software developers application security by showcasing what vulnerable code looks like, how to write code to exploit the vulnerability, and how to write code to patch the vulnerability. | https://github.com/neumaneuma/appseccheat.codes | 1 | 0| 
 | 20210318T23:35:25Z | C# Memory Exploiting Utilities | https://github.com/OpenGamerTips/HackerFramework | 0 | 0| 
-| 20210318T23:26:31Z | A post exploitation framework designed to operate covertly on heavily monitored environments | https://github.com/bats3c/shad0w | 1165 | 194| 
-| 20210318T23:18:50Z | A single-core implementation of a cache timing side channel attack making use of the Prime+Probe exploit. | https://github.com/Incapamentum/Single-Core_CacheTiming-SideChannel | 0 | 0| 
 
 
 # backdoor on Github 推荐
