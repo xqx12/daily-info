@@ -85,6 +85,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210319T01:50:07Z | PS1 savegame exploit using THPS3 | https://github.com/socram8888/tonyhax | 77 | 2| 
 | 20210319T01:38:11Z | exploit-database-papers | https://github.com/offensive-security/exploitdb-papers | 284 | 40| 
 | 20210319T01:26:46Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9160 | 1474| 
 | 20210319T01:11:07Z | Null | https://github.com/0xturazzi/Um-Livrinho-Sobre-Exploit-Dev | 0 | 0| 
@@ -94,7 +95,6 @@
 | 20210319T00:07:11Z | This is a repo for the coding done for CTFs / exploits. The writeups are here: https://github.com/dillonwu-97/csec_writeups | https://github.com/dillonwu-97/csec-code | 0 | 0| 
 | 20210319T00:07:03Z | An exploitation/information gathering framework designed for Python3 scripts | https://github.com/binexisHATT/simple5ploit | 0 | 0| 
 | 20210318T23:52:26Z | A choose-your-own adventure game following the exploits of Kitty Fursbags | https://github.com/emilykmcullen/kitty_fursbags_story_game | 0 | 0| 
-| 20210318T23:51:49Z | This is a fixed version I found of the Fiona Illegal items remover. The exploits have been patched in this version according to the dev and wanted to share it with you guys! This is not my work it is Funkemoney%s work and if u want this taken down, PM me :) | https://github.com/TheGoodDev725/Fiona-Fix | 0 | 0| 
 
 
 # backdoor on Github 推荐
