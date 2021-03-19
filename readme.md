@@ -25,7 +25,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20210319T12:35:28Z | CVE-2021-3156 | Sudo Baron Samedit Exploit | https://github.com/worawit/CVE-2021-3156 | Sudo before 1.9.5p2 contains an off-by-one error that can result in a heap-based buffer overflow, which allows privilege escalation to root via %sudoedit -s% and a command-line argument that ends with a single backslash character.| 
+| 20210319T12:35:28Z | CVE-2021-3156 | Sudo Baron Samedit Exploit | https://github.com/worawit/CVE-2021-3156 | | 
 | 20210319T07:05:53Z | CVE-2020-27223 | CVE-2020-27223 Vulnerability App & PoC | https://github.com/motikan2010/CVE-2020-27223 | In Eclipse Jetty 9.4.6.v20170531 to 9.4.36.v20210114 (inclusive), 10.0.0, and 11.0.0 when Jetty handles a request containing multiple Accept headers with a large number of “quality” (i.e. q) parameters, the server may enter a denial of service (DoS) state due to high CPU usage processing those quality values, resulting in minutes of CPU time exhausted processing those quality values.| 
 | 20210319T05:24:48Z | CVE-2021-22986 | This is a Poc for BIGIP iControl unauth RCE  | https://github.com/dorkerdevil/CVE-2021-22986-Poc | 未查询到CVE信息| 
 | 20210319T02:27:24Z | CVE-2020-17136 | Windows Cloud Files Mini Filter Driver Elevation of Privilege Vulnerability | https://github.com/cssxn/CVE-2020-17136 | Windows Cloud Files Mini Filter Driver Elevation of Privilege Vulnerability This CVE ID is unique from CVE-2020-17103, CVE-2020-17134.| 
@@ -47,6 +47,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210319T12:39:43Z | Jquery File Tree 1.6.6 Path Traversal exploit (CVE-2017-1000170) | https://github.com/Nickguitar/Jquery-File-Tree-1.6.6-Path-Traversal | 0 | 0| 
 | 20210319T12:21:22Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9164 | 1474| 
 | 20210319T12:21:16Z | This program increases a user%s snap score. It uses a Snapchat exploit in order to increase a users snap score. | https://github.com/Quessts/Snapify | 10 | 1| 
 | 20210319T12:11:33Z | Exploit Education challenges. | https://github.com/theirisbugs/exploit-education-phoenix | 0 | 0| 
@@ -56,12 +57,12 @@
 | 20210319T11:23:34Z | Exploitation and Mitigation Slides | https://github.com/dobin/yookiterm-slides | 74 | 25| 
 | 20210319T11:17:23Z | Scripts for private exploit | https://github.com/ubimumu/scripts | 0 | 0| 
 | 20210319T11:05:22Z | Vulmap 是一款 web 漏洞扫描和验证工具, 可对 webapps 进行漏洞扫描, 并且具备漏洞利用功能 | https://github.com/zhzyker/vulmap | 1081 | 195| 
-| 20210319T11:01:19Z | PS1 savegame exploit using THPS3 | https://github.com/socram8888/tonyhax | 78 | 2| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210319T12:39:31Z | Python KeyLogger | https://github.com/sak110/backdoor | 0 | 0| 
 | 20210319T11:02:20Z | A force op or backdoor minecraft plugin which can be used to get OP on a minecraft server | https://github.com/MOMIN5/force-op-backdoor-plugin | 0 | 0| 
 | 20210319T07:38:20Z | Protect your server against backdoors. | https://github.com/Xalalau/backdoor-shield | 1 | 0| 
 | 20210319T06:34:04Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 191 | 34| 
