@@ -48,9 +48,9 @@
 | --- | --- | --- | --- | ---| 
 | 20210319T01:22:13Z | CVE-2021-3156 | Sudo Baron Samedit Exploit | https://github.com/worawit/CVE-2021-3156 | Sudo before 1.9.5p2 contains an off-by-one error that can result in a heap-based buffer overflow, which allows privilege escalation to root via %sudoedit -s% and a command-line argument that ends with a single backslash character.| 
 | 20210318T16:42:37Z | CVE-2020-17136 | Windows Cloud Files Mini Filter Driver Elevation of Privilege Vulnerability | https://github.com/cssxn/CVE-2020-17136 | Windows Cloud Files Mini Filter Driver Elevation of Privilege Vulnerability This CVE ID is unique from CVE-2020-17103, CVE-2020-17134.| 
-| 20210318T15:11:29Z | CVE-2020-17136 | CVE-2020-17136 exploit | https://github.com/xyddnljydd/CVE-2020-17136 | | 
+| 20210318T15:11:29Z | CVE-2020-17136 | CVE-2020-17136 exploit | https://github.com/xyddnljydd/CVE-2020-17136 | Windows Cloud Files Mini Filter Driver Elevation of Privilege Vulnerability This CVE ID is unique from CVE-2020-17103, CVE-2020-17134.| 
 | 20210318T12:27:18Z | CVE-2021-26855 | Null | https://github.com/shacojx/Scan-Vuln-CVE-2021-26855 | Microsoft Exchange Server Remote Code Execution Vulnerability This CVE ID is unique from CVE-2021-26412, CVE-2021-26854, CVE-2021-26857, CVE-2021-26858, CVE-2021-27065, CVE-2021-27078.| 
-| 20210318T10:37:28Z | CVE-2021-21300 | Null | https://github.com/Faisal78123/CVE-2021-21300 | Git is an open-source distributed revision control system. In affected versions of Git a specially crafted repository that contains symbolic links as well as files using a clean/smudge filter such as Git LFS, may cause just-checked out script to be executed while cloning onto a case-insensitive file system such as NTFS, HFS+ or APFS (i.e. the default file systems on Windows and macOS). Note that clean/smudge filters have to be configured for that. Git for Windows configures Git LFS by default, and is therefore vulnerable. The problem has been patched in the versions published on Tuesday, March 9th, 2021. As a workaound, if symbolic link support is disabled in Git (e.g. via `git config --global core.symlinks false`), the described attack won%t work. Likewise, if no clean/smudge filters such as Git LFS are configured globally (i.e. _before_ cloning), the attack is foiled. As always, it is best to avoid cloning repositories from untrusted sources. The earliest impacted version is 2.14.2. The fix versions are: 2.30.1, 2.29.3, 2.28.1, 2.27.1, 2.26.3, 2.25.5, 2.24.4, 2.23.4, 2.22.5, 2.21.4, 2.20.5, 2.19.6, 2.18.5, 2.17.62.17.6.| 
+| 20210318T10:37:28Z | CVE-2021-21300 | Null | https://github.com/Faisal78123/CVE-2021-21300 | | 
 | 20210318T00:55:42Z | CVE-2021-26855 | Microsoft Exchange Proxylogon Exploit Chain EXP分析 | https://github.com/r0ckysec/CVE-2021-26855-Exchange-RCE | Microsoft Exchange Server Remote Code Execution Vulnerability This CVE ID is unique from CVE-2021-26412, CVE-2021-26854, CVE-2021-26857, CVE-2021-26858, CVE-2021-27065, CVE-2021-27078.| 
 | 20210317T20:06:27Z | CVE-2021-22986 | This is a Poc for BIGIP iControl unauth RCE  | https://github.com/dorkerdevil/CVE-2021-22986-Poc | 未查询到CVE信息| 
 | 20210317T18:07:42Z | 未知编号 | Null | https://github.com/0xmahmoudJo0/Check_Emails_For_CVE_2021_26855 | 未查询到CVE信息| 
@@ -85,6 +85,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210319T01:26:46Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9160 | 1474| 
 | 20210319T01:11:07Z | Null | https://github.com/0xturazzi/Um-Livrinho-Sobre-Exploit-Dev | 0 | 0| 
 | 20210319T01:02:26Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 11 | 6| 
 | 20210319T00:50:26Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 9 | 5| 
@@ -94,7 +95,6 @@
 | 20210318T23:52:26Z | A choose-your-own adventure game following the exploits of Kitty Fursbags | https://github.com/emilykmcullen/kitty_fursbags_story_game | 0 | 0| 
 | 20210318T23:51:49Z | This is a fixed version I found of the Fiona Illegal items remover. The exploits have been patched in this version according to the dev and wanted to share it with you guys! This is not my work it is Funkemoney%s work and if u want this taken down, PM me :) | https://github.com/TheGoodDev725/Fiona-Fix | 0 | 0| 
 | 20210318T23:49:16Z | i throw exploit POC%s here | https://github.com/0xmanjoos/Exploit-Development | 1 | 1| 
-| 20210318T23:40:52Z | DDOS Archive  by RootSec (Scanners, BotNets (Mirai and QBot Premium & Normal and more), Exploits, Methods, Sniffers) | https://github.com/R00tS3c/DDOS-RootSec | 60 | 33| 
 
 
 # backdoor on Github 推荐
