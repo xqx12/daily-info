@@ -52,8 +52,8 @@
 | 20210318T12:27:18Z | CVE-2021-26855 | Null | https://github.com/shacojx/Scan-Vuln-CVE-2021-26855 | Microsoft Exchange Server Remote Code Execution Vulnerability This CVE ID is unique from CVE-2021-26412, CVE-2021-26854, CVE-2021-26857, CVE-2021-26858, CVE-2021-27065, CVE-2021-27078.| 
 | 20210318T10:37:28Z | CVE-2021-21300 | Null | https://github.com/Faisal78123/CVE-2021-21300 | Git is an open-source distributed revision control system. In affected versions of Git a specially crafted repository that contains symbolic links as well as files using a clean/smudge filter such as Git LFS, may cause just-checked out script to be executed while cloning onto a case-insensitive file system such as NTFS, HFS+ or APFS (i.e. the default file systems on Windows and macOS). Note that clean/smudge filters have to be configured for that. Git for Windows configures Git LFS by default, and is therefore vulnerable. The problem has been patched in the versions published on Tuesday, March 9th, 2021. As a workaound, if symbolic link support is disabled in Git (e.g. via `git config --global core.symlinks false`), the described attack won%t work. Likewise, if no clean/smudge filters such as Git LFS are configured globally (i.e. _before_ cloning), the attack is foiled. As always, it is best to avoid cloning repositories from untrusted sources. The earliest impacted version is 2.14.2. The fix versions are: 2.30.1, 2.29.3, 2.28.1, 2.27.1, 2.26.3, 2.25.5, 2.24.4, 2.23.4, 2.22.5, 2.21.4, 2.20.5, 2.19.6, 2.18.5, 2.17.62.17.6.| 
 | 20210318T00:55:42Z | CVE-2021-26855 | Microsoft Exchange Proxylogon Exploit Chain EXP分析 | https://github.com/r0ckysec/CVE-2021-26855-Exchange-RCE | Microsoft Exchange Server Remote Code Execution Vulnerability This CVE ID is unique from CVE-2021-26412, CVE-2021-26854, CVE-2021-26857, CVE-2021-26858, CVE-2021-27065, CVE-2021-27078.| 
-| 20210317T20:06:27Z | CVE-2021-22986 | This is a Poc for BIGIP iControl unauth RCE  | https://github.com/dorkerdevil/CVE-2021-22986-Poc | | 
-| 20210317T18:07:42Z | 未知编号 | Null | https://github.com/0xmahmoudJo0/Check_Emails_For_CVE_2021_26855 | 未查询到CVE信息| 
+| 20210317T20:06:27Z | CVE-2021-22986 | This is a Poc for BIGIP iControl unauth RCE  | https://github.com/dorkerdevil/CVE-2021-22986-Poc | 未查询到CVE信息| 
+| 20210317T18:07:42Z | 未知编号 | Null | https://github.com/0xmahmoudJo0/Check_Emails_For_CVE_2021_26855 | | 
 | 20210317T17:02:29Z | CVE-2021-26411 | Null | https://github.com/avboy1337/CVE-2021-26411 | | 
 | 20210317T16:42:38Z | CVE-2021-26855 | RCE exploit for ProxyLogon vulnerability in Microsoft Exchange | https://github.com/mil1200/ProxyLogon-CVE-2021-26855 | Microsoft Exchange Server Remote Code Execution Vulnerability This CVE ID is unique from CVE-2021-26412, CVE-2021-26854, CVE-2021-26857, CVE-2021-26858, CVE-2021-27065, CVE-2021-27078.| 
 
@@ -100,6 +100,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210319T01:58:45Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 190 | 33| 
 | 20210319T00:03:10Z | TrojanZoo provides a universal pytorch platform to conduct security researches (especially backdoor attacks/defenses) of image classification in deep learning. | https://github.com/ain-soph/trojanzoo | 52 | 8| 
 | 20210318T23:43:56Z | libpcap based ICMP encrypted backdoor for linux. | https://github.com/hal3002/rooty | 112 | 38| 
 | 20210318T23:43:27Z | Null | https://github.com/rlarjsdn2313/backdoor | 0 | 0| 
@@ -109,7 +110,6 @@
 | 20210318T20:36:37Z | Linux & MacOS Backdoor | https://github.com/krissemicolon/hiddenbackdoor2 | 0 | 0| 
 | 20210318T20:29:29Z | A demo and explanation of how backdoor poisoning in the form of a Trojan work in neural networks | https://github.com/adit-bala/Introduction-to-Trojans-in-AI | 0 | 0| 
 | 20210318T13:33:22Z | UEFI driver that installs backdoor reachable from usermode on Windows | https://github.com/mathisvickie/efi-backdoor | 0 | 0| 
-| 20210318T12:49:49Z | WMI无文件后门 | https://github.com/SAMOxtan/WMI_Fileless_Backdoor | 2 | 0| 
 
 
 # fuzz on Github 推荐
