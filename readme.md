@@ -57,12 +57,12 @@
 | 20210318T23:51:49Z | This is a fixed version I found of the Fiona Illegal items remover. The exploits have been patched in this version according to the dev and wanted to share it with you guys! This is not my work it is Funkemoney%s work and if u want this taken down, PM me :) | https://github.com/TheGoodDev725/Fiona-Fix | 0 | 0| 
 | 20210318T23:49:16Z | i throw exploit POC%s here | https://github.com/0xmanjoos/Exploit-Development | 1 | 1| 
 | 20210318T23:40:52Z | DDOS Archive  by RootSec (Scanners, BotNets (Mirai and QBot Premium & Normal and more), Exploits, Methods, Sniffers) | https://github.com/R00tS3c/DDOS-RootSec | 60 | 33| 
-| 20210318T23:39:13Z | Null | https://github.com/CKScripts/RBLX-Exploit | 0 | 0| 
 | 20210318T23:36:50Z | A CTF web app designed to teach software developers application security by showcasing what vulnerable code looks like, how to write code to exploit the vulnerability, and how to write code to patch the vulnerability. | https://github.com/neumaneuma/appseccheat.codes | 1 | 0| 
 | 20210318T23:35:25Z | C# Memory Exploiting Utilities | https://github.com/OpenGamerTips/HackerFramework | 0 | 0| 
 | 20210318T23:26:31Z | A post exploitation framework designed to operate covertly on heavily monitored environments | https://github.com/bats3c/shad0w | 1165 | 194| 
 | 20210318T23:18:50Z | A single-core implementation of a cache timing side channel attack making use of the Prime+Probe exploit. | https://github.com/Incapamentum/Single-Core_CacheTiming-SideChannel | 0 | 0| 
 | 20210318T22:53:36Z | forked version of funtuna, a homebrew ps2 app launcher designed to ease the pain of getting a stable exploit for those that have a console uncompatible with FreeMcBoot | https://github.com/israpps/Funtuna-Fork | 3 | 0| 
+| 20210318T22:37:00Z | A simple python3 exploit for CVE-2019-3403 | https://github.com/davidmckennirey/CVE-2019-3403 | 0 | 0| 
 
 
 # backdoor on Github 推荐
