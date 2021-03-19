@@ -49,7 +49,7 @@
 | 20210319T11:05:25Z | CVE-2021-3156 | Sudo Baron Samedit Exploit | https://github.com/worawit/CVE-2021-3156 | Sudo before 1.9.5p2 contains an off-by-one error that can result in a heap-based buffer overflow, which allows privilege escalation to root via %sudoedit -s% and a command-line argument that ends with a single backslash character.| 
 | 20210319T07:05:53Z | CVE-2020-27223 | CVE-2020-27223 Vulnerability App & PoC | https://github.com/motikan2010/CVE-2020-27223 | In Eclipse Jetty 9.4.6.v20170531 to 9.4.36.v20210114 (inclusive), 10.0.0, and 11.0.0 when Jetty handles a request containing multiple Accept headers with a large number of “quality” (i.e. q) parameters, the server may enter a denial of service (DoS) state due to high CPU usage processing those quality values, resulting in minutes of CPU time exhausted processing those quality values.| 
 | 20210319T05:24:48Z | CVE-2021-22986 | This is a Poc for BIGIP iControl unauth RCE  | https://github.com/dorkerdevil/CVE-2021-22986-Poc | 未查询到CVE信息| 
-| 20210319T02:27:24Z | CVE-2020-17136 | Windows Cloud Files Mini Filter Driver Elevation of Privilege Vulnerability | https://github.com/cssxn/CVE-2020-17136 | Windows Cloud Files Mini Filter Driver Elevation of Privilege Vulnerability This CVE ID is unique from CVE-2020-17103, CVE-2020-17134.| 
+| 20210319T02:27:24Z | CVE-2020-17136 | Windows Cloud Files Mini Filter Driver Elevation of Privilege Vulnerability | https://github.com/cssxn/CVE-2020-17136 | | 
 | 20210318T15:11:29Z | CVE-2020-17136 | CVE-2020-17136 exploit | https://github.com/xyddnljydd/CVE-2020-17136 | Windows Cloud Files Mini Filter Driver Elevation of Privilege Vulnerability This CVE ID is unique from CVE-2020-17103, CVE-2020-17134.| 
 | 20210318T12:27:18Z | CVE-2021-26855 | Null | https://github.com/shacojx/Scan-Vuln-CVE-2021-26855 | Microsoft Exchange Server Remote Code Execution Vulnerability This CVE ID is unique from CVE-2021-26412, CVE-2021-26854, CVE-2021-26857, CVE-2021-26858, CVE-2021-27065, CVE-2021-27078.| 
 | 20210318T10:37:28Z | CVE-2021-21300 | Null | https://github.com/Faisal78123/CVE-2021-21300 | Git is an open-source distributed revision control system. In affected versions of Git a specially crafted repository that contains symbolic links as well as files using a clean/smudge filter such as Git LFS, may cause just-checked out script to be executed while cloning onto a case-insensitive file system such as NTFS, HFS+ or APFS (i.e. the default file systems on Windows and macOS). Note that clean/smudge filters have to be configured for that. Git for Windows configures Git LFS by default, and is therefore vulnerable. The problem has been patched in the versions published on Tuesday, March 9th, 2021. As a workaound, if symbolic link support is disabled in Git (e.g. via `git config --global core.symlinks false`), the described attack won%t work. Likewise, if no clean/smudge filters such as Git LFS are configured globally (i.e. _before_ cloning), the attack is foiled. As always, it is best to avoid cloning repositories from untrusted sources. The earliest impacted version is 2.14.2. The fix versions are: 2.30.1, 2.29.3, 2.28.1, 2.27.1, 2.26.3, 2.25.5, 2.24.4, 2.23.4, 2.22.5, 2.21.4, 2.20.5, 2.19.6, 2.18.5, 2.17.62.17.6.| 
@@ -85,10 +85,10 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210319T12:04:17Z | Exploit Education challenges. | https://github.com/theirisbugs/exploit-education-phoenix | 0 | 0| 
 | 20210319T12:03:23Z | Every device has a limit on the size of the L2CAP ping. If it gets an L2CAP ping packet, which is beyond the limit of the size, it will crash. And, in BlueSmack Attack, the attacker exploits that. | https://github.com/deadlysnowman3308/BT-ddos-tool | 1 | 0| 
 | 20210319T12:02:28Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 11 | 6| 
 | 20210319T11:58:13Z | This bash script will help you to hack remote hosts  | https://github.com/FabioDefilippo/linuxallremote | 10 | 1| 
-| 20210319T11:47:38Z | Exploit Education challenges. | https://github.com/theirisbugs/exploit-education-phoenix | 0 | 0| 
 | 20210319T11:35:13Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9163 | 1474| 
 | 20210319T11:23:34Z | Exploitation and Mitigation Slides | https://github.com/dobin/yookiterm-slides | 74 | 25| 
 | 20210319T11:17:23Z | Scripts for private exploit | https://github.com/ubimumu/scripts | 0 | 0| 
@@ -115,16 +115,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210319T01:24:17Z | Basic fuzzer for malloc implementations | https://github.com/emeryberger/hangover | 4 | 1| 
-| 20210319T01:05:51Z | This repository is for testing a number of open source applications for vulnerabilities using multiple fuzzers. | https://github.com/bartholomewHarris/fuzzingNode.jsApplications | 0 | 0| 
-| 20210319T00:50:34Z | Null | https://github.com/AlvaroGSV/FuzzyBeautyProyect | 0 | 0| 
-| 20210319T00:40:39Z | Null | https://github.com/VeriBlock/fuzz-corpus | 0 | 1| 
-| 20210319T00:26:33Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2287 | 119| 
-| 20210319T00:16:16Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 30450 | 15496| 
-| 20210318T23:13:12Z | Null | https://github.com/blahblah5555/fuzz | 0 | 0| 
-| 20210318T22:58:19Z | Fuzzster - fuzzy matching web application | https://github.com/datahappy1/go_fuzzymatch_webapp | 0 | 0| 
-| 20210318T22:05:07Z | A type-safe fuzzy string matcher | https://github.com/citizennet/purescript-fuzzy | 18 | 1| 
-| 20210318T22:04:52Z | REST API Fuzz Testing (RAFT): Source code for self-hosted service developed for Azure, including the API, orchestration engine, and default set of security tools (including MSR%s RESTler), that enables developers to embed security tooling into their CI/CD workflows | https://github.com/microsoft/rest-api-fuzz-testing | 119 | 18| 
+| 20210319T12:05:17Z | Personal website of Laurence Hughes | https://github.com/fuzzylogicxx/fuzzylogic | 4 | 1| 
+| 20210319T12:04:34Z | Null | https://github.com/s9varesc/url-fuzzing | 0 | 0| 
+| 20210319T12:01:40Z | Null | https://github.com/AdamKorcz/go-fuzz-headers | 0 | 0| 
+| 20210319T11:40:25Z | Null | https://github.com/VeriBlock/fuzz-corpus | 0 | 1| 
+| 20210319T11:26:00Z | Null | https://github.com/matusf/open-api-fuzzer | 1 | 0| 
+| 20210319T10:51:47Z | Null | https://github.com/Sambigeara/fuzzynote | 2 | 1| 
+| 20210319T10:50:32Z | SSL and TLS protocol test suite and fuzzer | https://github.com/tlsfuzzer/tlsfuzzer | 335 | 86| 
+| 20210319T10:32:11Z | fuzzy-octo-waffle | https://github.com/sexychicka69/fuzzy-octo-waffle | 0 | 0| 
+| 20210319T10:10:18Z | Null | https://github.com/csendevel/Rider_fuzz | 0 | 0| 
+| 20210319T10:04:20Z | Fuzzster - fuzzy matching web application | https://github.com/datahappy1/go_fuzzymatch_webapp | 0 | 0| 
 
 
 
