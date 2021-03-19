@@ -48,14 +48,14 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210319T13:11:54Z | Scripts for private exploit | https://github.com/ubimumu/scripts | 0 | 0| 
+| 20210319T13:08:43Z | Exploit Education challenges. | https://github.com/theirisbugs/exploit-education-phoenix | 0 | 0| 
 | 20210319T13:02:25Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 11 | 6| 
 | 20210319T13:01:11Z | Jquery File Tree 1.6.6 Path Traversal exploit (CVE-2017-1000170) | https://github.com/Nickguitar/Jquery-File-Tree-1.6.6-Path-Traversal | 0 | 0| 
-| 20210319T12:56:17Z | Scripts for private exploit | https://github.com/ubimumu/scripts | 0 | 0| 
 | 20210319T12:49:02Z | Linux Kernel Runtime Guard (LKRG). LKRG performs runtime integrity checking of the Linux kernel and detection of security vulnerability exploits against the kernel. Debian packaging fork only. Fork Homepage: https://www.whonix.org/wiki/Linux_Kernel_Runtime_Guard_LKRG Upstream original: https://www.openwall.com/lkrg/ | https://github.com/Whonix/lkrg | 15 | 3| 
 | 20210319T12:41:42Z | A better version of EasyExploits | https://github.com/nuldylan/EasyExploitsPlus | 0 | 0| 
 | 20210319T12:21:22Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9164 | 1474| 
 | 20210319T12:21:16Z | This program increases a user%s snap score. It uses a Snapchat exploit in order to increase a users snap score. | https://github.com/Quessts/Snapify | 10 | 1| 
-| 20210319T12:11:33Z | Exploit Education challenges. | https://github.com/theirisbugs/exploit-education-phoenix | 0 | 0| 
 | 20210319T12:03:23Z | Every device has a limit on the size of the L2CAP ping. If it gets an L2CAP ping packet, which is beyond the limit of the size, it will crash. And, in BlueSmack Attack, the attacker exploits that. | https://github.com/deadlysnowman3308/BT-ddos-tool | 1 | 0| 
 | 20210319T11:58:13Z | This bash script will help you to hack remote hosts  | https://github.com/FabioDefilippo/linuxallremote | 10 | 1| 
 
