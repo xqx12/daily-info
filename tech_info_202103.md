@@ -85,6 +85,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210319T01:07:36Z | Null | https://github.com/0xturazzi/Um-Livrinho-Sobre-Exploit-Dev | 0 | 0| 
 | 20210319T01:02:26Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 11 | 6| 
 | 20210319T00:50:26Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 9 | 5| 
 | 20210319T00:42:58Z | Null | https://github.com/CKScripts/RBLX-Exploit | 0 | 0| 
@@ -94,7 +95,6 @@
 | 20210318T23:51:49Z | This is a fixed version I found of the Fiona Illegal items remover. The exploits have been patched in this version according to the dev and wanted to share it with you guys! This is not my work it is Funkemoney%s work and if u want this taken down, PM me :) | https://github.com/TheGoodDev725/Fiona-Fix | 0 | 0| 
 | 20210318T23:49:16Z | i throw exploit POC%s here | https://github.com/0xmanjoos/Exploit-Development | 1 | 1| 
 | 20210318T23:40:52Z | DDOS Archive  by RootSec (Scanners, BotNets (Mirai and QBot Premium & Normal and more), Exploits, Methods, Sniffers) | https://github.com/R00tS3c/DDOS-RootSec | 60 | 33| 
-| 20210318T23:36:50Z | A CTF web app designed to teach software developers application security by showcasing what vulnerable code looks like, how to write code to exploit the vulnerability, and how to write code to patch the vulnerability. | https://github.com/neumaneuma/appseccheat.codes | 1 | 0| 
 
 
 # backdoor on Github 推荐
