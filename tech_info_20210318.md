@@ -62,7 +62,7 @@
 | 20210318T23:35:25Z | C# Memory Exploiting Utilities | https://github.com/OpenGamerTips/HackerFramework | 0 | 0| 
 | 20210318T23:26:31Z | A post exploitation framework designed to operate covertly on heavily monitored environments | https://github.com/bats3c/shad0w | 1165 | 194| 
 | 20210318T23:18:50Z | A single-core implementation of a cache timing side channel attack making use of the Prime+Probe exploit. | https://github.com/Incapamentum/Single-Core_CacheTiming-SideChannel | 0 | 0| 
-| 20210318T23:02:22Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 11 | 6| 
+| 20210318T22:53:36Z | forked version of funtuna, a homebrew ps2 app launcher designed to ease the pain of getting a stable exploit for those that have a console uncompatible with FreeMcBoot | https://github.com/israpps/Funtuna-Fork | 3 | 0| 
 
 
 # backdoor on Github 推荐
@@ -75,9 +75,9 @@
 | 20210318T20:50:00Z | Python botnet and backdoor | https://github.com/sweetsoftware/Ares | 1049 | 431| 
 | 20210318T20:36:37Z | Linux & MacOS Backdoor | https://github.com/krissemicolon/hiddenbackdoor2 | 0 | 0| 
 | 20210318T20:29:29Z | A demo and explanation of how backdoor poisoning in the form of a Trojan work in neural networks | https://github.com/adit-bala/Introduction-to-Trojans-in-AI | 0 | 0| 
-| 20210318T20:05:45Z | TrojanZoo provides a universal pytorch platform to conduct security researches (especially backdoor attacks/defenses) of image classification in deep learning. | https://github.com/ain-soph/trojanzoo | 52 | 8| 
 | 20210318T13:33:22Z | UEFI driver that installs backdoor reachable from usermode on Windows | https://github.com/mathisvickie/efi-backdoor | 0 | 0| 
 | 20210318T12:49:49Z | WMI无文件后门 | https://github.com/SAMOxtan/WMI_Fileless_Backdoor | 2 | 0| 
+| 20210318T04:46:29Z | Protect your server against backdoors. | https://github.com/Xalalau/backdoor-shield | 1 | 0| 
 
 
 # fuzz on Github 推荐
