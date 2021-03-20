@@ -25,7 +25,7 @@
 | 20210320T07:55:11Z | CVE-2021-21972 | A vulnerability scanner that detects CVE-2021-21972 vulnerabilities. | https://github.com/Osyanina/westone-CVE-2021-21972-scanner | The vSphere Client (HTML5) contains a remote code execution vulnerability in a vCenter Server plugin. A malicious actor with network access to port 443 may exploit this issue to execute commands with unrestricted privileges on the underlying operating system that hosts vCenter Server. This affects VMware vCenter Server (7.x before 7.0 U1c, 6.7 before 6.7 U3l and 6.5 before 6.5 U3n) and VMware Cloud Foundation (4.x before 4.2 and 3.x before 3.10.1.2).| 
 | 20210320T07:46:00Z | CVE-2021-22986 | A vulnerability scanner that detects CVE-2021-22986 vulnerabilities. | https://github.com/Osyanina/westone-CVE-2021-22986-scanner | 未查询到CVE信息| 
 | 20210320T01:39:29Z | CVE-2021-26855 | Null | https://github.com/shacojx/Scan-Vuln-CVE-2021-26855 | Microsoft Exchange Server Remote Code Execution Vulnerability This CVE ID is unique from CVE-2021-26412, CVE-2021-26854, CVE-2021-26857, CVE-2021-26858, CVE-2021-27065, CVE-2021-27078.| 
-| 20210320T00:18:51Z | CVE-2021-22986 | This is a Poc for BIGIP iControl unauth RCE  | https://github.com/dorkerdevil/CVE-2021-22986-Poc | 未查询到CVE信息| 
+| 20210320T00:18:51Z | CVE-2021-22986 | This is a Poc for BIGIP iControl unauth RCE  | https://github.com/dorkerdevil/CVE-2021-22986-Poc | | 
 
 
 # klee on Github 推荐
@@ -44,6 +44,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210320T12:18:26Z | Vulnnr is a Vulnerability Scanner & Auto Exploiter You can use this tool to check the security by finding the vulnerability in your website or you can use this tool to Get Shells | https://github.com/X-x-X-0/Vulnnr | 6 | 0| 
+| 20210320T12:17:21Z | Hacking tool that initiates ip  grabbing, scanning the IP then exploiting the possible vulnerabilities present in that IP address. | https://github.com/FonderElite/Euphoria | 0 | 0| 
 | 20210320T12:14:16Z | More Stable Offline Exploit version of PS4 6.72 Jailbreak. | https://github.com/DarkModderVC/PS4JB | 105 | 38| 
 | 20210320T12:02:24Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 11 | 6| 
 | 20210320T11:50:30Z | GUI to transform sunspot drawings into exploitable data. It allows to scan drawings, extract its information and store it in a database. | https://github.com/SabrinaBechet/DigiSun | 0 | 0| 
@@ -52,8 +54,6 @@
 | 20210320T11:09:34Z | -------> RAFEL<------  Android Rat  Written in Java With WebPanel For Controlling Victims | https://github.com/swagkarna/Rafel-Rat | 41 | 20| 
 | 20210320T10:36:27Z | PS1 savegame exploit using THPS3 | https://github.com/socram8888/tonyhax | 80 | 2| 
 | 20210320T09:57:04Z | Attack and defend active directory using modern post exploitation adversary tradecraft activity | https://github.com/infosecn1nja/AD-Attack-Defense | 2646 | 708| 
-| 20210320T09:50:12Z | The official Exploit Database repository | https://github.com/offensive-security/exploitdb | 5957 | 1697| 
-| 20210320T09:46:28Z | Automated solver of classic CTF pwn challenges, with flexibility in mind. | https://github.com/mariuszskon/autorop | 3 | 0| 
 
 
 # backdoor on Github 推荐
