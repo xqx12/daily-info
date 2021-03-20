@@ -85,6 +85,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210320T12:14:16Z | More Stable Offline Exploit version of PS4 6.72 Jailbreak. | https://github.com/DarkModderVC/PS4JB | 105 | 38| 
 | 20210320T12:02:24Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 11 | 6| 
 | 20210320T11:50:30Z | GUI to transform sunspot drawings into exploitable data. It allows to scan drawings, extract its information and store it in a database. | https://github.com/SabrinaBechet/DigiSun | 0 | 0| 
 | 20210320T11:43:48Z | Exploiting CVE-2016-2555 enumerating and dumping the underlying Database. | https://github.com/maximilianmarx/atutor-blind-sqli | 0 | 0| 
@@ -94,7 +95,6 @@
 | 20210320T09:57:04Z | Attack and defend active directory using modern post exploitation adversary tradecraft activity | https://github.com/infosecn1nja/AD-Attack-Defense | 2646 | 708| 
 | 20210320T09:50:12Z | The official Exploit Database repository | https://github.com/offensive-security/exploitdb | 5957 | 1697| 
 | 20210320T09:46:28Z | Automated solver of classic CTF pwn challenges, with flexibility in mind. | https://github.com/mariuszskon/autorop | 3 | 0| 
-| 20210320T09:26:14Z | Windows Exploit Suggester - Next Generation | https://github.com/bitsadmin/wesng | 2243 | 350| 
 
 
 # backdoor on Github 推荐
