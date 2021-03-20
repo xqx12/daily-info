@@ -31,6 +31,9 @@
 # 安全维基 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20210320 | 谈谈国外互联网公司的骨干网 | https://mp.weixin.qq.com/s/jET_vZUtYS8kQD8H-5j5KA| 
+| 20210320 | All Your DNS Records Point to Us | https://mp.weixin.qq.com/s/7-4QBjp_TAX74bWidegXHA| 
+| 20210320 | 商业银行零信任安全架构研究 | https://mp.weixin.qq.com/s/vpXdOOKFlZDioXDQnn0GLg| 
 | 20210319 | 我在学习和实践图数据库 Neo4j 的漫漫成长路 | https://vancir.github.io/the-journey-of-learning-neo4j.html| 
 | 20210319 | 如何在技术领域产生自己的影响力 | https://mp.weixin.qq.com/s/Himw3mpv7fDy96bdJQA5xg| 
 | 20210318 | 新型僵尸网络隐匿方式 | https://mp.weixin.qq.com/s/OxLkZyvI2AASVrYUR4GPJg| 
@@ -38,46 +41,43 @@
 | 20210317 | 流行窃密类木马分析（下） | https://mp.weixin.qq.com/s/R4sOXCP-_T3NGN5d7Ybl6Q| 
 | 20210317 | Apache Solr 组件安全概览 | https://mp.weixin.qq.com/s/3WuWUGO61gM0dBpwqTfenQ| 
 | 20210317 | 白嫖CDN，打造封不尽IP的代理池 | https://mp.weixin.qq.com/s/d-q5E8VmqacbwtGCJux3yw| 
-| 20210317 | 一个网络安全从业者的专业搜索引擎 | https://mp.weixin.qq.com/s/D8JhdhzY6cpShKX2J-t_rQ| 
-| 20210317 | RapidDNS网站在SRC漏洞挖掘中的一个思路 | https://mp.weixin.qq.com/s/bTA0DVfmPVArYXG5MHRAbg| 
-| 20210317 | DuckMemoryScan: 内存免杀马检测 | https://github.com/huoji120/DuckMemoryScan| 
 
 
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20210320T11:50:40Z | CVE-2021-3156 | Sudo Baron Samedit Exploit | https://github.com/worawit/CVE-2021-3156 | Sudo before 1.9.5p2 contains an off-by-one error that can result in a heap-based buffer overflow, which allows privilege escalation to root via %sudoedit -s% and a command-line argument that ends with a single backslash character.| 
+| 20210320T07:57:04Z | CVE-2020-14883 | A vulnerability scanner that detects CVE-2020-14883 vulnerabilities. | https://github.com/Osyanina/westone-CVE-2020-14883-scanner | Vulnerability in the Oracle WebLogic Server product of Oracle Fusion Middleware (component: Console). Supported versions that are affected are 10.3.6.0.0, 12.1.3.0.0, 12.2.1.3.0, 12.2.1.4.0 and 14.1.1.0.0. Easily exploitable vulnerability allows high privileged attacker with network access via HTTP to compromise Oracle WebLogic Server. Successful attacks of this vulnerability can result in takeover of Oracle WebLogic Server. CVSS 3.1 Base Score 7.2 (Confidentiality, Integrity and Availability impacts). CVSS Vector: (CVSS:3.1/AV:N/AC:L/PR:H/UI:N/S:U/C:H/I:H/A:H).| 
+| 20210320T07:55:36Z | CVE-2020-17519 | A vulnerability scanner that detects CVE-2020-17519 vulnerabilities. | https://github.com/Osyanina/westone-CVE-2020-17519-scanner | | 
+| 20210320T07:55:11Z | CVE-2021-21972 | A vulnerability scanner that detects CVE-2021-21972 vulnerabilities. | https://github.com/Osyanina/westone-CVE-2021-21972-scanner | The vSphere Client (HTML5) contains a remote code execution vulnerability in a vCenter Server plugin. A malicious actor with network access to port 443 may exploit this issue to execute commands with unrestricted privileges on the underlying operating system that hosts vCenter Server. This affects VMware vCenter Server (7.x before 7.0 U1c, 6.7 before 6.7 U3l and 6.5 before 6.5 U3n) and VMware Cloud Foundation (4.x before 4.2 and 3.x before 3.10.1.2).| 
+| 20210320T07:46:00Z | CVE-2021-22986 | A vulnerability scanner that detects CVE-2021-22986 vulnerabilities. | https://github.com/Osyanina/westone-CVE-2021-22986-scanner | 未查询到CVE信息| 
 | 20210320T01:39:29Z | CVE-2021-26855 | Null | https://github.com/shacojx/Scan-Vuln-CVE-2021-26855 | Microsoft Exchange Server Remote Code Execution Vulnerability This CVE ID is unique from CVE-2021-26412, CVE-2021-26854, CVE-2021-26857, CVE-2021-26858, CVE-2021-27065, CVE-2021-27078.| 
-| 20210320T00:18:51Z | CVE-2021-22986 | This is a Poc for BIGIP iControl unauth RCE  | https://github.com/dorkerdevil/CVE-2021-22986-Poc | 未查询到CVE信息| 
-| 20210319T18:42:48Z | CVE-2021-3156 | Sudo Baron Samedit Exploit | https://github.com/worawit/CVE-2021-3156 | Sudo before 1.9.5p2 contains an off-by-one error that can result in a heap-based buffer overflow, which allows privilege escalation to root via %sudoedit -s% and a command-line argument that ends with a single backslash character.| 
+| 20210320T00:18:51Z | CVE-2021-22986 | This is a Poc for BIGIP iControl unauth RCE  | https://github.com/dorkerdevil/CVE-2021-22986-Poc | | 
 | 20210319T17:55:03Z | CVE-2020-27223 | CVE-2020-27223 Vulnerability App & PoC | https://github.com/motikan2010/CVE-2020-27223 | In Eclipse Jetty 9.4.6.v20170531 to 9.4.36.v20210114 (inclusive), 10.0.0, and 11.0.0 when Jetty handles a request containing multiple Accept headers with a large number of “quality” (i.e. q) parameters, the server may enter a denial of service (DoS) state due to high CPU usage processing those quality values, resulting in minutes of CPU time exhausted processing those quality values.| 
 | 20210319T17:00:36Z | CVE-2021-3156 | Exploit generator for sudo CVE-2021-3156 | https://github.com/lmol/CVE-2021-3156 | Sudo before 1.9.5p2 contains an off-by-one error that can result in a heap-based buffer overflow, which allows privilege escalation to root via %sudoedit -s% and a command-line argument that ends with a single backslash character.| 
 | 20210319T14:42:51Z | CVE-2021-3019 | CVE-2021-3019 lanproxy目录遍历任意文件读取漏洞探测POC | https://github.com/FanqXu/CVE-2021-3019 | ffay lanproxy 0.1 allows Directory Traversal to read /../conf/config.properties to obtain credentials for a connection to the intranet.| 
-| 20210319T12:48:53Z | CVE-2021-26855 | CVE-2021-26855, also known as Proxylogon, is a server-side request forgery (SSRF) vulnerability in Exchange that allows an attacker to send arbitrary HTTP requests and authenticate as the Exchange server. According to Orange Tsai, the researcher who discovered the vulnerabilities, CVE-2021-26855 allows code execution when chained with CVE-2021-27065 (see below). A successful exploit chain would allow an unauthenticated attacker to "execute arbitrary commands on Microsoft Exchange Server through only an open 443 port." More information and a disclosure timeline are available at https://proxylogon.com. | https://github.com/raheel0x01/CVE-2021-26855 | Microsoft Exchange Server Remote Code Execution Vulnerability This CVE ID is unique from CVE-2021-26412, CVE-2021-26854, CVE-2021-26857, CVE-2021-26858, CVE-2021-27065, CVE-2021-27078.| 
-| 20210319T02:27:24Z | CVE-2020-17136 | Windows Cloud Files Mini Filter Driver Elevation of Privilege Vulnerability | https://github.com/cssxn/CVE-2020-17136 | Windows Cloud Files Mini Filter Driver Elevation of Privilege Vulnerability This CVE ID is unique from CVE-2020-17103, CVE-2020-17134.| 
-| 20210318T15:11:29Z | CVE-2020-17136 | CVE-2020-17136 exploit | https://github.com/xyddnljydd/CVE-2020-17136 | Windows Cloud Files Mini Filter Driver Elevation of Privilege Vulnerability This CVE ID is unique from CVE-2020-17103, CVE-2020-17134.| 
-| 20210318T10:37:28Z | CVE-2021-21300 | Null | https://github.com/Faisal78123/CVE-2021-21300 | Git is an open-source distributed revision control system. In affected versions of Git a specially crafted repository that contains symbolic links as well as files using a clean/smudge filter such as Git LFS, may cause just-checked out script to be executed while cloning onto a case-insensitive file system such as NTFS, HFS+ or APFS (i.e. the default file systems on Windows and macOS). Note that clean/smudge filters have to be configured for that. Git for Windows configures Git LFS by default, and is therefore vulnerable. The problem has been patched in the versions published on Tuesday, March 9th, 2021. As a workaound, if symbolic link support is disabled in Git (e.g. via `git config --global core.symlinks false`), the described attack won%t work. Likewise, if no clean/smudge filters such as Git LFS are configured globally (i.e. _before_ cloning), the attack is foiled. As always, it is best to avoid cloning repositories from untrusted sources. The earliest impacted version is 2.14.2. The fix versions are: 2.30.1, 2.29.3, 2.28.1, 2.27.1, 2.26.3, 2.25.5, 2.24.4, 2.23.4, 2.22.5, 2.21.4, 2.20.5, 2.19.6, 2.18.5, 2.17.62.17.6.| 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210319T16:39:31Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 的 Klee One 的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 340 | 7| 
+| 20210320T07:10:57Z | RVT is a collection of tools/libraries to support both static and dynamic verification of Rust programs. | https://github.com/project-oak/rust-verification-tools | 111 | 9| 
+| 20210320T03:09:41Z | Null | https://github.com/DonaldKLee/DonaldKLee | 0 | 0| 
+| 20210319T16:39:31Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 的 Klee One 的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 340 | 8| 
 | 20210319T07:11:22Z | Git Blog | https://github.com/klee30810/klee30810.github.io | 0 | 0| 
 | 20210318T21:22:29Z | Null | https://github.com/TheBeehive/kleene | 0 | 0| 
-| 20210318T14:38:42Z | RVT is a collection of tools/libraries to support both static and dynamic verification of Rust programs. | https://github.com/project-oak/rust-verification-tools | 111 | 9| 
 | 20210317T09:14:26Z | Symbiotic is a tool for finding bugs in computer programs based on instrumentation, program slicing and KLEE | https://github.com/staticafi/symbiotic | 212 | 34| 
 | 20210317T08:57:28Z | Kleene algebra, regular expressions | https://github.com/phadej/kleene | 27 | 1| 
 | 20210317T03:50:51Z | 원신 가챠 시뮬레이터 | https://github.com/LunaNyan/Genshin_Klee_Discord_Bot | 1 | 0| 
 | 20210316T21:21:48Z | Minimal Working Example (MWE) to evaluate flexible protections in KLEE | https://github.com/jvdbroeck/mwe-klee | 0 | 0| 
 | 20210316T11:23:26Z | Website for the KLEE project: https://klee.github.io/ | https://github.com/klee/klee.github.io | 14 | 42| 
-| 20210316T10:53:00Z | JavaScript graphics | https://github.com/MolluscHotel/MisterKlee | 0 | 0| 
 
 
 # s2e on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210320T02:51:54Z | with the technique of Opencv, we try to achieve traffic identification. | https://github.com/wpfeder/Opencv_traffic_s2e | 0 | 0| 
 | 20210319T12:25:58Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 102 | 24| 
-| 20210317T11:39:38Z | with the technique of Opencv, we try to achieve traffic identification. | https://github.com/wpfeder/Opencv_traffic_s2e | 0 | 0| 
 | 20210313T20:42:17Z | Source of Sonic Eclipse, a romhack of Sonic 2 for Sega Master System circa 2018. http://sonicresearch.org/community/index.php?threads/sonic-eclipse.5524/ | https://github.com/mrcat-pixel/s2eclipse | 3 | 0| 
 | 20210306T11:03:45Z | Master Thesis %Decentralised Location-Based Reputation Management System in IoT using Blockchain% - Experiment S2 region covering in Golang | https://github.com/ponlawat-w/uji_mt-s2encoding | 0 | 0| 
 
@@ -85,31 +85,31 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210320T02:02:24Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 11 | 6| 
-| 20210320T01:59:00Z | Exploit Database binary exploits located in the /sploits directory | https://github.com/offensive-security/exploitdb-bin-sploits | 1413 | 495| 
-| 20210320T01:43:40Z | Automation of buffer overflows corrupting the Saved Return Pointer. | https://github.com/crake7/Binary-Exploitation-Tools | 0 | 0| 
-| 20210320T01:40:45Z | Network Exploitation and Malware python tools. | https://github.com/crake7/Malware-Dev-and-Network-Exploitation-Tools | 0 | 0| 
-| 20210320T01:39:54Z | gen exploits cool | https://github.com/gen40/gen-exploits | 0 | 0| 
-| 20210320T01:36:46Z | An open-source post-exploitation framework for students, researchers and developers. | https://github.com/malwaredllc/byob | 6042 | 1362| 
-| 20210320T00:50:27Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 9 | 5| 
-| 20210320T00:00:34Z | A CTF web app designed to teach software developers application security by showcasing what vulnerable code looks like, how to write code to exploit the vulnerability, and how to write code to patch the vulnerability. | https://github.com/neumaneuma/appseccheat.codes | 1 | 0| 
-| 20210319T23:51:37Z | PS4 Exploit Host | https://github.com/Night-King-Host/Night-King-Host.github.io | 1 | 0| 
-| 20210319T23:51:25Z | -------> RAFEL<------  Android Rat  Written in Java With WebPanel For Controlling Victims | https://github.com/swagkarna/Rafel-Rat | 36 | 18| 
+| 20210320T11:50:30Z | GUI to transform sunspot drawings into exploitable data. It allows to scan drawings, extract its information and store it in a database. | https://github.com/SabrinaBechet/DigiSun | 0 | 0| 
+| 20210320T11:43:48Z | Exploiting CVE-2016-2555 enumerating and dumping the underlying Database. | https://github.com/maximilianmarx/atutor-blind-sqli | 0 | 0| 
+| 20210320T11:35:11Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9170 | 1477| 
+| 20210320T11:09:34Z | -------> RAFEL<------  Android Rat  Written in Java With WebPanel For Controlling Victims | https://github.com/swagkarna/Rafel-Rat | 41 | 20| 
+| 20210320T11:02:25Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 11 | 6| 
+| 20210320T10:36:27Z | PS1 savegame exploit using THPS3 | https://github.com/socram8888/tonyhax | 80 | 2| 
+| 20210320T09:57:04Z | Attack and defend active directory using modern post exploitation adversary tradecraft activity | https://github.com/infosecn1nja/AD-Attack-Defense | 2646 | 708| 
+| 20210320T09:50:12Z | The official Exploit Database repository | https://github.com/offensive-security/exploitdb | 5957 | 1697| 
+| 20210320T09:46:28Z | Automated solver of classic CTF pwn challenges, with flexibility in mind. | https://github.com/mariuszskon/autorop | 3 | 0| 
+| 20210320T09:26:14Z | Windows Exploit Suggester - Next Generation | https://github.com/bitsadmin/wesng | 2243 | 350| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210320T11:23:27Z | Python botnet and backdoor | https://github.com/sweetsoftware/Ares | 1051 | 431| 
+| 20210320T10:11:53Z | Null | https://github.com/EjHvorSerDuVildUdJim/backdoor | 0 | 0| 
+| 20210320T09:16:11Z | A webshell that can bypass some system security | https://github.com/22XploiterCrew-Team/Gel4y-Mini-Shell-Backdoor | 0 | 0| 
+| 20210320T07:35:43Z | Shell Backdoor | https://github.com/FadliYunianto/Fadli | 0 | 0| 
+| 20210320T07:30:06Z | Protect your server against backdoors. | https://github.com/Xalalau/backdoor-shield | 1 | 0| 
 | 20210320T01:28:08Z | A backdoor wrote in Java. (Only for educational purposes! Use at your own risk.) | https://github.com/PulseBeat02/Among-Us-Backdoor | 0 | 0| 
 | 20210320T01:09:43Z | Defending Against Backdoor Attacks Using Robust Covariance Estimation | https://github.com/SewoongLab/spectre-defense | 0 | 0| 
 | 20210320T00:00:53Z | Null | https://github.com/Delle9999/backdoor | 0 | 0| 
 | 20210319T21:04:10Z | Null | https://github.com/ph-luffy/Backdoor | 1 | 1| 
 | 20210319T18:06:18Z | A demo and explanation of how backdoor poisoning in the form of a Trojan work in neural networks | https://github.com/adit-bala/Introduction-to-Trojans-in-AI | 0 | 0| 
-| 20210319T17:52:54Z | This program is an non-object oriented opensource, hidden and undetectable backdoor/reverse shell/RAT for Windows made in Python 3 which contains many features such as multi-client support and cross-platform server. | https://github.com/xp4xbox/Python-Backdoor | 373 | 139| 
-| 20210319T14:27:29Z | Null | https://github.com/hobsnob/backdoor | 0 | 0| 
-| 20210319T12:39:31Z | Python KeyLogger | https://github.com/sak110/backdoor | 0 | 0| 
-| 20210319T11:02:20Z | A force op or backdoor minecraft plugin which can be used to get OP on a minecraft server | https://github.com/MOMIN5/force-op-backdoor-plugin | 0 | 0| 
-| 20210319T07:38:20Z | Protect your server against backdoors. | https://github.com/Xalalau/backdoor-shield | 1 | 0| 
 
 
 # fuzz on Github 推荐
