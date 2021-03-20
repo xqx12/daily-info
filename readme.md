@@ -55,12 +55,12 @@
 | 20210319T23:51:25Z | -------> RAFEL<------  Android Rat  Written in Java With WebPanel For Controlling Victims | https://github.com/swagkarna/Rafel-Rat | 36 | 18| 
 | 20210319T23:16:44Z | hack tools | https://github.com/hacktoolspack/hack-tools | 490 | 342| 
 | 20210319T23:10:56Z | Fix exploits on anarchy minecraft servers | https://github.com/moom0o/AnarchyExploitFixes | 15 | 7| 
-| 20210319T23:02:23Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 11 | 6| 
 | 20210319T22:02:57Z | Random PowerShell scripts mainly focused on post-exploitation capabilities | https://github.com/tmenochet/WinUtils | 3 | 0| 
 | 20210319T21:59:12Z | Python3 script for exploiting cve-2017-8917 - sql injection for Joomla 3.7.0 CMS | https://github.com/gabor-fierka/joomla-370-sqli-cve-2017-8917 | 0 | 0| 
 | 20210319T21:57:36Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9169 | 1475| 
 | 20210319T21:55:01Z | i throw exploit POC%s here | https://github.com/0xmanjoos/Exploit-Development | 1 | 1| 
 | 20210319T21:54:39Z | Building upon the Dirichlet-multinomial regression framework, we develop an high-dimensional Bayesian hierarchical model for microbiota analysis that exploits subject-specific regression coefficients to simultaneously borrow strength across districts and include complex interactions between diet and clinical factors if supported by the data.  | https://github.com/mattpedone/subject-specific-dm-reg | 0 | 0| 
+| 20210319T21:19:06Z | Vulnnr is a Vulnerability Scanner & Auto Exploiter You can use this tool to check the security by finding the vulnerability in your website or you can use this tool to Get Shells | https://github.com/X-x-X-0/Vulnnr | 6 | 0| 
 
 
 # backdoor on Github 推荐
