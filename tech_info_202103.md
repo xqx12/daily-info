@@ -55,7 +55,7 @@
 | 20210320T00:18:51Z | CVE-2021-22986 | This is a Poc for BIGIP iControl unauth RCE  | https://github.com/dorkerdevil/CVE-2021-22986-Poc | 未查询到CVE信息| 
 | 20210319T17:55:03Z | CVE-2020-27223 | CVE-2020-27223 Vulnerability App & PoC | https://github.com/motikan2010/CVE-2020-27223 | In Eclipse Jetty 9.4.6.v20170531 to 9.4.36.v20210114 (inclusive), 10.0.0, and 11.0.0 when Jetty handles a request containing multiple Accept headers with a large number of “quality” (i.e. q) parameters, the server may enter a denial of service (DoS) state due to high CPU usage processing those quality values, resulting in minutes of CPU time exhausted processing those quality values.| 
 | 20210319T17:00:36Z | CVE-2021-3156 | Exploit generator for sudo CVE-2021-3156 | https://github.com/lmol/CVE-2021-3156 | | 
-| 20210319T14:42:51Z | CVE-2021-3019 | CVE-2021-3019 lanproxy目录遍历任意文件读取漏洞探测POC | https://github.com/FanqXu/CVE-2021-3019 | ffay lanproxy 0.1 allows Directory Traversal to read /../conf/config.properties to obtain credentials for a connection to the intranet.| 
+| 20210319T14:42:51Z | CVE-2021-3019 | CVE-2021-3019 lanproxy目录遍历任意文件读取漏洞探测POC | https://github.com/FanqXu/CVE-2021-3019 | | 
 
 
 # klee on Github 推荐
