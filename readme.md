@@ -72,6 +72,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210320T12:05:49Z | Null | https://github.com/AshkanGoharfar/Fuzzy-C-mean-and-Fuzzy-KNN | 0 | 0| 
+| 20210320T11:59:59Z | The code behind getfursu.it | https://github.com/veelkoov/fuzzrake | 6 | 0| 
+| 20210320T11:52:18Z | savedbyOne | https://github.com/smilers/je-van-fuzzy-octo-guide- | 0 | 0| 
+| 20210320T11:33:51Z | Null | https://github.com/VeriBlock/fuzz-corpus | 0 | 1| 
+| 20210320T11:17:59Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 3412 | 785| 
+| 20210320T11:04:24Z | Rapid fuzzy string matching in Python using the Levenshtein Distance | https://github.com/maxbachmann/RapidFuzz | 811 | 29| 
+| 20210320T10:14:51Z | Null | https://github.com/Dijen/fuzzy-journey | 0 | 0| 
+| 20210320T10:03:17Z | Key-value collection to make fuzzy searches | https://github.com/VictorBulba/fuzzy_trie | 3 | 0| 
+| 20210320T09:58:47Z | fuzzerFF | https://github.com/realvindic/fuzzer | 0 | 0| 
+| 20210320T09:53:03Z | A simple web fuzzer written in Go | https://github.com/KeepItFuckingSimple/MeteorFuzz | 0 | 0| 
 
 
 

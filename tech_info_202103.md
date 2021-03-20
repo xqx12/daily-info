@@ -53,8 +53,8 @@
 | 20210320T07:46:00Z | CVE-2021-22986 | A vulnerability scanner that detects CVE-2021-22986 vulnerabilities. | https://github.com/Osyanina/westone-CVE-2021-22986-scanner | 未查询到CVE信息| 
 | 20210320T01:39:29Z | CVE-2021-26855 | Null | https://github.com/shacojx/Scan-Vuln-CVE-2021-26855 | Microsoft Exchange Server Remote Code Execution Vulnerability This CVE ID is unique from CVE-2021-26412, CVE-2021-26854, CVE-2021-26857, CVE-2021-26858, CVE-2021-27065, CVE-2021-27078.| 
 | 20210320T00:18:51Z | CVE-2021-22986 | This is a Poc for BIGIP iControl unauth RCE  | https://github.com/dorkerdevil/CVE-2021-22986-Poc | 未查询到CVE信息| 
-| 20210319T17:55:03Z | CVE-2020-27223 | CVE-2020-27223 Vulnerability App & PoC | https://github.com/motikan2010/CVE-2020-27223 | In Eclipse Jetty 9.4.6.v20170531 to 9.4.36.v20210114 (inclusive), 10.0.0, and 11.0.0 when Jetty handles a request containing multiple Accept headers with a large number of “quality” (i.e. q) parameters, the server may enter a denial of service (DoS) state due to high CPU usage processing those quality values, resulting in minutes of CPU time exhausted processing those quality values.| 
-| 20210319T17:00:36Z | CVE-2021-3156 | Exploit generator for sudo CVE-2021-3156 | https://github.com/lmol/CVE-2021-3156 | | 
+| 20210319T17:55:03Z | CVE-2020-27223 | CVE-2020-27223 Vulnerability App & PoC | https://github.com/motikan2010/CVE-2020-27223 | | 
+| 20210319T17:00:36Z | CVE-2021-3156 | Exploit generator for sudo CVE-2021-3156 | https://github.com/lmol/CVE-2021-3156 | Sudo before 1.9.5p2 contains an off-by-one error that can result in a heap-based buffer overflow, which allows privilege escalation to root via %sudoedit -s% and a command-line argument that ends with a single backslash character.| 
 | 20210319T14:42:51Z | CVE-2021-3019 | CVE-2021-3019 lanproxy目录遍历任意文件读取漏洞探测POC | https://github.com/FanqXu/CVE-2021-3019 | ffay lanproxy 0.1 allows Directory Traversal to read /../conf/config.properties to obtain credentials for a connection to the intranet.| 
 
 
@@ -115,16 +115,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210319T23:55:25Z | Null | https://github.com/PBearson/MQTT_Fuzzer | 0 | 0| 
-| 20210319T23:32:36Z | An experimental high performance, fuzzing oriented Intel Processor Trace capture and analysis suite | https://github.com/trailofbits/Honeybee | 26 | 0| 
-| 20210319T23:27:52Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 30466 | 15511| 
-| 20210319T23:13:24Z | Null | https://github.com/VeriBlock/fuzz-corpus | 0 | 1| 
-| 20210319T23:12:11Z | Null | https://github.com/Juanosorio94/fuzzing-rdma | 0 | 0| 
-| 20210319T23:08:07Z | This is the 3rd assignment of the course Computational Intelligence (AUTh - 8th semester) | https://github.com/tasos-m/Regression-Fuzzy-Systems | 0 | 0| 
-| 20210319T23:07:43Z | This is the 4th assignment of the course Computational Intelligence (AUTh - 8th semester) | https://github.com/tasos-m/Classification-Fuzzy-Systems | 0 | 0| 
-| 20210319T22:50:58Z | Roblox Fuzzy Search Module | https://github.com/GreatestRobloxian/RobloxFuzzySearch | 1 | 0| 
-| 20210319T22:26:19Z | Basic fuzzer for malloc implementations | https://github.com/emeryberger/hangover | 4 | 1| 
-| 20210319T22:02:06Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2289 | 119| 
+| 20210320T12:05:49Z | Null | https://github.com/AshkanGoharfar/Fuzzy-C-mean-and-Fuzzy-KNN | 0 | 0| 
+| 20210320T11:59:59Z | The code behind getfursu.it | https://github.com/veelkoov/fuzzrake | 6 | 0| 
+| 20210320T11:52:18Z | savedbyOne | https://github.com/smilers/je-van-fuzzy-octo-guide- | 0 | 0| 
+| 20210320T11:33:51Z | Null | https://github.com/VeriBlock/fuzz-corpus | 0 | 1| 
+| 20210320T11:17:59Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 3412 | 785| 
+| 20210320T11:04:24Z | Rapid fuzzy string matching in Python using the Levenshtein Distance | https://github.com/maxbachmann/RapidFuzz | 811 | 29| 
+| 20210320T10:14:51Z | Null | https://github.com/Dijen/fuzzy-journey | 0 | 0| 
+| 20210320T10:03:17Z | Key-value collection to make fuzzy searches | https://github.com/VictorBulba/fuzzy_trie | 3 | 0| 
+| 20210320T09:58:47Z | fuzzerFF | https://github.com/realvindic/fuzzer | 0 | 0| 
+| 20210320T09:53:03Z | A simple web fuzzer written in Go | https://github.com/KeepItFuckingSimple/MeteorFuzz | 0 | 0| 
 
 
 
