@@ -100,7 +100,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210321T12:12:36Z | A simple back door scanner tool made using c++ | https://github.com/krishpranav/backdoorscanner | 0 | 0| 
+| 20210321T12:16:06Z | A simple back door scanner tool made using c++ | https://github.com/krishpranav/backdoorscanner | 0 | 0| 
 | 20210321T11:32:02Z | An easy tool to reset cpanel password when you can%t upload backdoor to server. This tool will be useful only if the password reset feature on cpanel is activated. | https://github.com/naufalardhani/cpanel-pass-reset | 0 | 0| 
 | 20210321T11:14:16Z | Null | https://github.com/gurkanguler/Python_Backdoor | 0 | 0| 
 | 20210321T10:41:19Z | Malware classification using VirusTotal API and Python. Classified malware families are Worms, Adware, Virus, Riskware, Spyware, Keylogger, Ransomware, Spam, Backdoor, Dropper, Downloader, Crypt, Agent, Rootkit and Trojan. | https://github.com/buketgencaydin/Malware-Classification | 0 | 0| 
