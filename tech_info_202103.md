@@ -46,12 +46,12 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20210321T11:41:39Z | 未知编号 | Null | https://github.com/feihong-cs/Attacking_Shiro_with_CVE_2020_2555 | 未查询到CVE信息| 
-| 20210321T11:36:03Z | CVE-2021-22986 | This is a Poc for BIGIP iControl unauth RCE  | https://github.com/dorkerdevil/CVE-2021-22986-Poc | | 
+| 20210321T11:41:39Z | 未知编号 | Null | https://github.com/feihong-cs/Attacking_Shiro_with_CVE_2020_2555 | | 
+| 20210321T11:36:03Z | CVE-2021-22986 | This is a Poc for BIGIP iControl unauth RCE  | https://github.com/dorkerdevil/CVE-2021-22986-Poc | 未查询到CVE信息| 
 | 20210321T05:09:09Z | CVE-2021-22986 | F5 BIG-IP/BIG-IQ iControl Rest API SSRF to RCE | https://github.com/Udyz/CVE-2021-22986 | 未查询到CVE信息| 
 | 20210320T23:59:41Z | CVE-2021-3156 | Sudo Baron Samedit Exploit | https://github.com/worawit/CVE-2021-3156 | Sudo before 1.9.5p2 contains an off-by-one error that can result in a heap-based buffer overflow, which allows privilege escalation to root via %sudoedit -s% and a command-line argument that ends with a single backslash character.| 
 | 20210320T07:57:04Z | CVE-2020-14883 | A vulnerability scanner that detects CVE-2020-14883 vulnerabilities. | https://github.com/Osyanina/westone-CVE-2020-14883-scanner | Vulnerability in the Oracle WebLogic Server product of Oracle Fusion Middleware (component: Console). Supported versions that are affected are 10.3.6.0.0, 12.1.3.0.0, 12.2.1.3.0, 12.2.1.4.0 and 14.1.1.0.0. Easily exploitable vulnerability allows high privileged attacker with network access via HTTP to compromise Oracle WebLogic Server. Successful attacks of this vulnerability can result in takeover of Oracle WebLogic Server. CVSS 3.1 Base Score 7.2 (Confidentiality, Integrity and Availability impacts). CVSS Vector: (CVSS:3.1/AV:N/AC:L/PR:H/UI:N/S:U/C:H/I:H/A:H).| 
-| 20210320T07:55:36Z | CVE-2020-17519 | A vulnerability scanner that detects CVE-2020-17519 vulnerabilities. | https://github.com/Osyanina/westone-CVE-2020-17519-scanner | A change introduced in Apache Flink 1.11.0 (and released in 1.11.1 and 1.11.2 as well) allows attackers to read any file on the local filesystem of the JobManager through the REST interface of the JobManager process. Access is restricted to files accessible by the JobManager process. All users should upgrade to Flink 1.11.3 or 1.12.0 if their Flink instance(s) are exposed. The issue was fixed in commit b561010b0ee741543c3953306037f00d7a9f0801 from apache/flink:master.| 
+| 20210320T07:55:36Z | CVE-2020-17519 | A vulnerability scanner that detects CVE-2020-17519 vulnerabilities. | https://github.com/Osyanina/westone-CVE-2020-17519-scanner | | 
 | 20210320T07:55:11Z | CVE-2021-21972 | A vulnerability scanner that detects CVE-2021-21972 vulnerabilities. | https://github.com/Osyanina/westone-CVE-2021-21972-scanner | The vSphere Client (HTML5) contains a remote code execution vulnerability in a vCenter Server plugin. A malicious actor with network access to port 443 may exploit this issue to execute commands with unrestricted privileges on the underlying operating system that hosts vCenter Server. This affects VMware vCenter Server (7.x before 7.0 U1c, 6.7 before 6.7 U3l and 6.5 before 6.5 U3n) and VMware Cloud Foundation (4.x before 4.2 and 3.x before 3.10.1.2).| 
 | 20210320T07:46:00Z | CVE-2021-22986 | A vulnerability scanner that detects CVE-2021-22986 vulnerabilities. | https://github.com/Osyanina/westone-CVE-2021-22986-scanner | 未查询到CVE信息| 
 | 20210320T01:39:29Z | CVE-2021-26855 | Null | https://github.com/shacojx/Scan-Vuln-CVE-2021-26855 | Microsoft Exchange Server Remote Code Execution Vulnerability This CVE ID is unique from CVE-2021-26412, CVE-2021-26854, CVE-2021-26857, CVE-2021-26858, CVE-2021-27065, CVE-2021-27078.| 
@@ -115,16 +115,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210321T01:57:08Z | Null | https://github.com/VeriBlock/fuzz-corpus | 0 | 1| 
-| 20210321T01:35:52Z | rushugh | https://github.com/Kampouse/fuzzy-journey | 0 | 0| 
-| 20210321T00:10:18Z | Deakin SIT215 | https://github.com/tri2820/FuzzyCruiseControl | 0 | 0| 
-| 20210320T23:45:37Z | Null | https://github.com/PBearson/MQTT_Fuzzer | 0 | 0| 
-| 20210320T23:05:16Z | https://github.com/wcventure/FuzzingPaper | https://github.com/mishmashclone/wcventure-FuzzingPaper | 3 | 1| 
-| 20210320T22:10:43Z | Null | https://github.com/ElizBth/Reactive-Navigation-Under-a-Fuzzy-Rules-Based-Scheme-and-Reinforcement-Learning | 0 | 0| 
-| 20210320T21:58:19Z | Null | https://github.com/Probably-Jay/Fuzzy-AI | 0 | 0| 
-| 20210320T21:51:45Z | An implementation of Fuzzy Logic Control Type 2 for Mobile Robot | https://github.com/zeryabmoussaoui/fuzzy-robot-type2 | 1 | 0| 
-| 20210320T21:50:12Z | Hacking tools written by me. IP fortune, webmap -- web vulns scanner, rtsp brute+fuzz, and more. | https://github.com/fagcinsk/h4ck | 1 | 0| 
-| 20210320T21:36:34Z | A simple fuzzing tool based on Java. | https://github.com/yNickoKun/javafuzz | 0 | 0| 
+| 20210321T12:04:50Z | Fuzzing cryptographic libraries. Magic bug printer go brrrr. | https://github.com/guidovranken/cryptofuzz | 261 | 37| 
+| 20210321T11:16:13Z | repo of scripts | https://github.com/johanvargas/fuzzy-projects | 0 | 0| 
+| 20210321T11:05:09Z | Fuzzing the Rust crypto library orion with honggfuzz-rs | https://github.com/brycx/orion-fuzz | 0 | 1| 
+| 20210321T11:03:09Z | Fast as Flash Web Fuzzing tool written in golang. | https://github.com/DarthCucumber/gofuzz | 0 | 0| 
+| 20210321T10:24:39Z | rushugh | https://github.com/Kampouse/fuzzy-journey | 0 | 0| 
+| 20210321T10:16:41Z | Null | https://github.com/VeriBlock/fuzz-corpus | 0 | 1| 
+| 20210321T09:51:28Z | PGF is a protoc plugin used to generate fuzzing functions suitable for use with gofuzz. | https://github.com/srikrsna/protoc-gen-fuzz | 2 | 0| 
+| 20210321T09:44:27Z | Null | https://github.com/richardvogg/fuzzymatch | 0 | 0| 
+| 20210321T09:42:21Z | Null | https://github.com/Sambigeara/fuzzynote | 2 | 1| 
+| 20210321T09:06:40Z | PoC of fuzzing closed-source userspace binaries with KVM | https://github.com/klecko/kvm-fuzz | 1 | 0| 
 
 
 

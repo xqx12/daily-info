@@ -16,8 +16,8 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20210321T11:41:39Z | 未知编号 | Null | https://github.com/feihong-cs/Attacking_Shiro_with_CVE_2020_2555 | 未查询到CVE信息| 
-| 20210321T11:36:03Z | CVE-2021-22986 | This is a Poc for BIGIP iControl unauth RCE  | https://github.com/dorkerdevil/CVE-2021-22986-Poc | | 
+| 20210321T11:41:39Z | 未知编号 | Null | https://github.com/feihong-cs/Attacking_Shiro_with_CVE_2020_2555 | | 
+| 20210321T11:36:03Z | CVE-2021-22986 | This is a Poc for BIGIP iControl unauth RCE  | https://github.com/dorkerdevil/CVE-2021-22986-Poc | 未查询到CVE信息| 
 | 20210321T05:09:09Z | CVE-2021-22986 | F5 BIG-IP/BIG-IQ iControl Rest API SSRF to RCE | https://github.com/Udyz/CVE-2021-22986 | 未查询到CVE信息| 
 
 
@@ -64,9 +64,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210321T01:57:08Z | Null | https://github.com/VeriBlock/fuzz-corpus | 0 | 1| 
-| 20210321T01:35:52Z | rushugh | https://github.com/Kampouse/fuzzy-journey | 0 | 0| 
-| 20210321T00:10:18Z | Deakin SIT215 | https://github.com/tri2820/FuzzyCruiseControl | 0 | 0| 
+| 20210321T12:04:50Z | Fuzzing cryptographic libraries. Magic bug printer go brrrr. | https://github.com/guidovranken/cryptofuzz | 261 | 37| 
+| 20210321T11:16:13Z | repo of scripts | https://github.com/johanvargas/fuzzy-projects | 0 | 0| 
+| 20210321T11:05:09Z | Fuzzing the Rust crypto library orion with honggfuzz-rs | https://github.com/brycx/orion-fuzz | 0 | 1| 
+| 20210321T11:03:09Z | Fast as Flash Web Fuzzing tool written in golang. | https://github.com/DarthCucumber/gofuzz | 0 | 0| 
+| 20210321T10:24:39Z | rushugh | https://github.com/Kampouse/fuzzy-journey | 0 | 0| 
+| 20210321T10:16:41Z | Null | https://github.com/VeriBlock/fuzz-corpus | 0 | 1| 
+| 20210321T09:51:28Z | PGF is a protoc plugin used to generate fuzzing functions suitable for use with gofuzz. | https://github.com/srikrsna/protoc-gen-fuzz | 2 | 0| 
+| 20210321T09:44:27Z | Null | https://github.com/richardvogg/fuzzymatch | 0 | 0| 
+| 20210321T09:42:21Z | Null | https://github.com/Sambigeara/fuzzynote | 2 | 1| 
+| 20210321T09:06:40Z | PoC of fuzzing closed-source userspace binaries with KVM | https://github.com/klecko/kvm-fuzz | 1 | 0| 
 
 
 
