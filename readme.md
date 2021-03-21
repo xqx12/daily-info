@@ -13,6 +13,7 @@
 | --- | --- | ---| 
 | 20210321 | C/C++源码扫描系列- Joern 篇 | https://xz.aliyun.com/t/9277| 
 | 20210321 | 自主搭建的三层网络域渗透靶场打靶记录 | https://xz.aliyun.com/t/9281| 
+| 20210321 | C/C++源码扫描系列- Fortify 篇 | https://xz.aliyun.com/t/9276| 
 
 
 # CVE Github 推荐
@@ -37,7 +38,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210321T12:32:23Z | Chat.JS - Vulnerable NodeJS Web-App to practice NoSQLi and Deserialization exploitation | https://github.com/bmdyy/chat.js | 0 | 0| 
+| 20210321T12:35:27Z | Chat.JS - Vulnerable NodeJS Web-App to practice NoSQLi and Deserialization exploitation | https://github.com/bmdyy/chat.js | 0 | 0| 
 | 20210321T12:14:38Z | Hacking tool that initiates ip  grabbing, scanning the IP then exploiting the possible vulnerabilities present in that IP address. | https://github.com/FonderElite/Euphoria | 1 | 1| 
 | 20210321T12:05:53Z | PS1 savegame exploit using THPS3 | https://github.com/socram8888/tonyhax | 82 | 4| 
 | 20210321T12:02:23Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 11 | 6| 

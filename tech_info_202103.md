@@ -33,6 +33,7 @@
 | --- | --- | ---| 
 | 20210321 | C/C++源码扫描系列- Joern 篇 | https://xz.aliyun.com/t/9277| 
 | 20210321 | 自主搭建的三层网络域渗透靶场打靶记录 | https://xz.aliyun.com/t/9281| 
+| 20210321 | C/C++源码扫描系列- Fortify 篇 | https://xz.aliyun.com/t/9276| 
 | 20210320 | 谈谈国外互联网公司的骨干网 | https://mp.weixin.qq.com/s/jET_vZUtYS8kQD8H-5j5KA| 
 | 20210320 | All Your DNS Records Point to Us | https://mp.weixin.qq.com/s/7-4QBjp_TAX74bWidegXHA| 
 | 20210320 | 商业银行零信任安全架构研究 | https://mp.weixin.qq.com/s/vpXdOOKFlZDioXDQnn0GLg| 
@@ -40,7 +41,6 @@
 | 20210319 | 我在学习和实践图数据库 Neo4j 的漫漫成长路 | https://vancir.github.io/the-journey-of-learning-neo4j.html| 
 | 20210319 | 如何在技术领域产生自己的影响力 | https://mp.weixin.qq.com/s/Himw3mpv7fDy96bdJQA5xg| 
 | 20210318 | 新型僵尸网络隐匿方式 | https://mp.weixin.qq.com/s/OxLkZyvI2AASVrYUR4GPJg| 
-| 20210318 | 如何高效的挖掘Java反序列化利用链？ | https://www.anquanke.com/post/id/234537| 
 
 
 # CVE Github 推荐
@@ -85,7 +85,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210321T12:32:23Z | Chat.JS - Vulnerable NodeJS Web-App to practice NoSQLi and Deserialization exploitation | https://github.com/bmdyy/chat.js | 0 | 0| 
+| 20210321T12:35:27Z | Chat.JS - Vulnerable NodeJS Web-App to practice NoSQLi and Deserialization exploitation | https://github.com/bmdyy/chat.js | 0 | 0| 
 | 20210321T12:14:38Z | Hacking tool that initiates ip  grabbing, scanning the IP then exploiting the possible vulnerabilities present in that IP address. | https://github.com/FonderElite/Euphoria | 1 | 1| 
 | 20210321T12:05:53Z | PS1 savegame exploit using THPS3 | https://github.com/socram8888/tonyhax | 82 | 4| 
 | 20210321T12:02:23Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 11 | 6| 
