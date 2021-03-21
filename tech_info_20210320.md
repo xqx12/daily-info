@@ -55,9 +55,9 @@
 | 20210320T23:27:55Z | this bash script is for remote linux hosts hacked! | https://github.com/FabioDefilippo/linuxallenum | 9 | 0| 
 | 20210320T23:18:46Z | Extensible framework for analyzing publicly available information about vulnerabilities | https://github.com/leonov-av/vulristics | 26 | 1| 
 | 20210320T23:13:29Z | A CTF web app designed to teach software developers application security by showcasing what vulnerable code looks like, how to write code to exploit the vulnerability, and how to write code to patch the vulnerability. | https://github.com/neumaneuma/appseccheat.codes | 1 | 0| 
-| 20210320T23:02:27Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 11 | 6| 
 | 20210320T22:56:50Z | A Rust-based worm that totally doesn%t follow the exploitation vectors NotPetya does... | https://github.com/Worldotank1287/sneaky_thing | 0 | 0| 
 | 20210320T22:52:45Z | An open-source post-exploitation framework for students, researchers and developers. | https://github.com/malwaredllc/byob | 6046 | 1364| 
+| 20210320T22:52:13Z | 📢 🔒  Exploit farm for attack-defense CTF competitions | https://github.com/DestructiveVoice/DestructiveFarm | 122 | 32| 
 
 
 # backdoor on Github 推荐
