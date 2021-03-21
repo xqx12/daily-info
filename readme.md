@@ -17,7 +17,7 @@
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
 | 20210321T11:41:39Z | 未知编号 | Null | https://github.com/feihong-cs/Attacking_Shiro_with_CVE_2020_2555 | 未查询到CVE信息| 
-| 20210321T11:36:03Z | CVE-2021-22986 | This is a Poc for BIGIP iControl unauth RCE  | https://github.com/dorkerdevil/CVE-2021-22986-Poc | 未查询到CVE信息| 
+| 20210321T11:36:03Z | CVE-2021-22986 | This is a Poc for BIGIP iControl unauth RCE  | https://github.com/dorkerdevil/CVE-2021-22986-Poc | | 
 | 20210321T05:09:09Z | CVE-2021-22986 | F5 BIG-IP/BIG-IQ iControl Rest API SSRF to RCE | https://github.com/Udyz/CVE-2021-22986 | 未查询到CVE信息| 
 
 
@@ -35,6 +35,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210321T12:05:53Z | PS1 savegame exploit using THPS3 | https://github.com/socram8888/tonyhax | 82 | 4| 
 | 20210321T12:02:23Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 11 | 6| 
 | 20210321T12:01:09Z | is a LUA script to exploit. Is For game Roblox Prison Life. | https://github.com/o0ctt/MainfiestPison | 0 | 0| 
 | 20210321T11:52:52Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9173 | 1478| 
@@ -44,7 +45,6 @@
 | 20210321T10:47:03Z | Exploit Education challenges. | https://github.com/theirisbugs/exploit-education-phoenix | 0 | 0| 
 | 20210321T10:43:41Z | Automated All-in-One OS command injection and exploitation tool  can be used from web developers, penetration testers or even security   researchers in order to test web-based applications   with the view to find bugs, errors or vulnerabilities   related to command injection attacks.   Installation :  $ apt update && apt upgrade  $ apt install git   $ apt install python2  $ git clone https://github.com/commixproject/commix  $ cd commix  $ chmod +x *  usage :  $ python2 commix.py  Now it shows how you can use this too..  $ python2 commix.py -h   it shows all options...  $ python2 commix.py -u site.com  it shows all information.... | https://github.com/Zack-sys/Commix-Automated-All-in-One-OS-command-injection-ang-exploitation-tool | 3 | 0| 
 | 20210321T10:37:27Z | My notes from doing https://exploit.education/nebula/ | https://github.com/cgolian/nebula-notes | 0 | 0| 
-| 20210321T10:34:40Z | This repository contains tools developed to hack CS:GO. | https://github.com/samdobsonDEV/csgo-exploits | 0 | 0| 
 
 
 # backdoor on Github 推荐
