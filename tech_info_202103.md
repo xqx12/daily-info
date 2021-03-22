@@ -85,6 +85,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210322T12:43:01Z | Null | https://github.com/SammyKrosoft/Exchange-Vulnerability-02March2021-HAFNIUM-targeting-Exchange-Servers-with-0-day-exploits | 1 | 1| 
 | 20210322T12:40:23Z | Null | https://github.com/melTHEboss/php_exploit | 0 | 0| 
 | 20210322T12:36:47Z | PS4 Exploits 1.01-7.55 | https://github.com/Buzbee/Buzbee.github.io | 0 | 1| 
 | 20210322T12:29:48Z | GH repository for the course Immunity Debugger for Exploit Devs - YCSC Lab Essentials | https://github.com/yaksas443/immunitydebugger.github.io | 0 | 0| 
@@ -94,7 +95,6 @@
 | 20210322T11:54:30Z | This bash script will help you to hack remote hosts  | https://github.com/FabioDefilippo/linuxallremote | 10 | 1| 
 | 20210322T11:38:49Z | Development of code to exploit LSST and VISTA imaging | https://github.com/lsst-uk/lsst-ir-fusion | 0 | 0| 
 | 20210322T11:35:50Z | Null | https://github.com/kiarashjam/Exploiting-Video-Games-to-Test-AV | 0 | 1| 
-| 20210322T11:35:28Z | The popular GENIE Generator product is used by nearly all accelerator neutrino experiments and it plays a key role in the exploitation of neutrino data. The Generator implements a modern software framework and it includes state-of-the-art physics modules. It captures the latest results of the GENIE global analysis of neutrino scattering data and includes several tunes that were produced using the proprietary Comparisons and Tuning products. The GENIE physics model is universal and comprehensive:  It handles all neutrinos and targets, and all processes relevant from MeV to PeV energy scales. The Generator includes several tools (flux drivers, detector geometry navigators, specialized event generation apps, event reweighting engines) to simulate complex experimental setups in full detail and to support generator-related analysis tasks.  | https://github.com/GENIE-MC/Generator | 17 | 48| 
 
 
 # backdoor on Github 推荐
