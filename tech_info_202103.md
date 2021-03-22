@@ -47,7 +47,7 @@
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
 | 20210322T01:32:01Z | CVE-2021-22986 | This is a Poc for BIGIP iControl unauth RCE  | https://github.com/dorkerdevil/CVE-2021-22986-Poc | 未查询到CVE信息| 
-| 20210322T01:03:14Z | CVE-2021-3156 | Sudo Baron Samedit Exploit | https://github.com/worawit/CVE-2021-3156 | Sudo before 1.9.5p2 contains an off-by-one error that can result in a heap-based buffer overflow, which allows privilege escalation to root via %sudoedit -s% and a command-line argument that ends with a single backslash character.| 
+| 20210322T01:03:14Z | CVE-2021-3156 | Sudo Baron Samedit Exploit | https://github.com/worawit/CVE-2021-3156 | | 
 | 20210321T22:13:15Z | CVE-2021-22986 | F5 BIG-IP/BIG-IQ iControl Rest API SSRF to RCE | https://github.com/Udyz/CVE-2021-22986 | 未查询到CVE信息| 
 | 20210321T20:59:48Z | CVE-2020-0022 | CVE-2020-0022 vulnerability exploitation on Bouygues BBox Miami (Android TV 8.0 - ARM32 Cortex A9) | https://github.com/Polo35/CVE-2020-0022 | In reassemble_and_dispatch of packet_fragmenter.cc, there is possible out of bounds write due to an incorrect bounds calculation. This could lead to remote code execution over Bluetooth with no additional execution privileges needed. User interaction is not needed for exploitation.Product: AndroidVersions: Android-8.0 Android-8.1 Android-9 Android-10Android ID: A-143894715| 
 | 20210321T15:22:37Z | 未知编号 | Null | https://github.com/feihong-cs/Attacking_Shiro_with_CVE_2020_2555 | 未查询到CVE信息| 
@@ -85,7 +85,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210322T01:43:11Z | PS4 Exploit Host | https://github.com/Night-King-Host/Night-King-Host.github.io | 1 | 0| 
+| 20210322T01:45:58Z | PS4 Exploit Host | https://github.com/Night-King-Host/Night-King-Host.github.io | 1 | 0| 
+| 20210322T01:45:35Z | exploit gitlab vulnerable version 11.4.7 | https://github.com/jayngng/gitlab11.4.7rce | 0 | 0| 
 | 20210322T01:05:53Z | Extensible framework for analyzing publicly available information about vulnerabilities | https://github.com/leonov-av/vulristics | 26 | 1| 
 | 20210322T01:05:24Z | Repository for new and rebuilt exploit scripts | https://github.com/H4rk3nz0/PenTest-Exploits | 3 | 0| 
 | 20210322T01:02:53Z | Post-exploitation tool for lateral movement | https://github.com/tmenochet/PowerExec | 5 | 2| 
@@ -94,7 +95,6 @@
 | 20210322T00:11:21Z | Hacking tool that initiates ip  grabbing, scanning the IP then exploiting the possible vulnerabilities present in that IP address. | https://github.com/FonderElite/Euphoria | 1 | 1| 
 | 20210321T23:47:39Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9174 | 1478| 
 | 20210321T23:44:15Z | GEF - GDB Enhanced Features for exploit devs & reversers | https://github.com/hugsy/gef | 3530 | 495| 
-| 20210321T23:30:21Z | PS4 Exploits 1.01-7.55 | https://github.com/Buzbee/Buzbee.github.io | 0 | 1| 
 
 
 # backdoor on Github 推荐
