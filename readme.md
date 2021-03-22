@@ -22,7 +22,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20210321T22:13:15Z | CVE-2021-22986 | F5 BIG-IP/BIG-IQ iControl Rest API SSRF to RCE | https://github.com/Udyz/CVE-2021-22986 | 未查询到CVE信息| 
+| 20210321T22:13:15Z | CVE-2021-22986 | F5 BIG-IP/BIG-IQ iControl Rest API SSRF to RCE | https://github.com/Udyz/CVE-2021-22986 | | 
 | 20210321T20:59:48Z | CVE-2020-0022 | CVE-2020-0022 vulnerability exploitation on Bouygues BBox Miami (Android TV 8.0 - ARM32 Cortex A9) | https://github.com/Polo35/CVE-2020-0022 | In reassemble_and_dispatch of packet_fragmenter.cc, there is possible out of bounds write due to an incorrect bounds calculation. This could lead to remote code execution over Bluetooth with no additional execution privileges needed. User interaction is not needed for exploitation.Product: AndroidVersions: Android-8.0 Android-8.1 Android-9 Android-10Android ID: A-143894715| 
 | 20210321T15:22:37Z | 未知编号 | Null | https://github.com/feihong-cs/Attacking_Shiro_with_CVE_2020_2555 | 未查询到CVE信息| 
 
@@ -75,13 +75,13 @@
 | 20210321T23:06:48Z | Null | https://github.com/Juanosorio94/fuzzing-rdma | 0 | 0| 
 | 20210321T23:05:43Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 1517 | 310| 
 | 20210321T22:34:03Z | Null | https://github.com/VeriBlock/fuzz-corpus | 0 | 1| 
-| 20210321T21:56:06Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6102 | 1236| 
 | 20210321T21:49:30Z | Personal website of Laurence Hughes | https://github.com/fuzzylogicxx/fuzzylogic | 4 | 1| 
 | 20210321T21:45:13Z | Send controlled amount of bytes, send msf-pattern, calculate offset, custom buffer, badcharacters all in one. | https://github.com/AceSineX/BOF-fuzzer-python-3-All-in | 0 | 0| 
 | 20210321T21:30:31Z | Null | https://github.com/Probably-Jay/Fuzzy-AI | 0 | 0| 
 | 20210321T20:46:10Z | Null | https://github.com/Sambigeara/fuzzynote | 2 | 1| 
 | 20210321T20:33:11Z | Null | https://github.com/matusf/open-api-fuzzer | 1 | 0| 
 | 20210321T20:18:30Z | Fuzzster - fuzzy matching web application | https://github.com/datahappy1/go_fuzzymatch_webapp | 0 | 0| 
+| 20210321T18:07:41Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 3413 | 785| 
 
 
 
