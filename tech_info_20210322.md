@@ -83,6 +83,8 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210322T12:12:05Z | Null | https://github.com/VeriBlock/fuzz-corpus | 0 | 1| 
+| 20210322T12:10:26Z | Jan%s Fuzzy System (JFS) | https://github.com/inniyah/jfs-fuzzy | 0 | 0| 
 | 20210322T12:00:22Z | Null | https://github.com/yash756/fuzzy-invention | 0 | 0| 
 | 20210322T11:58:32Z | Towards fuzzing ROS 2 automatically | https://github.com/JnxF/automatic_fuzzing | 0 | 0| 
 | 20210322T11:39:04Z | Null | https://github.com/HeyuWang/fuzzy_world_search_scheme | 0 | 0| 
@@ -90,9 +92,7 @@
 | 20210322T11:00:55Z | Null | https://github.com/prathameshpbhat/fuzzysearch | 0 | 0| 
 | 20210322T10:50:42Z | rushugh | https://github.com/Kampouse/fuzzy-journey | 0 | 0| 
 | 20210322T10:46:48Z | CSFuzz: Call Sequence-based Greybox Fuzzing Tool | https://github.com/csfuzz/CSFuzz | 0 | 0| 
-| 20210322T10:39:42Z | Null | https://github.com/VeriBlock/fuzz-corpus | 0 | 1| 
 | 20210322T10:05:00Z | An awesome toolkit for testing the BLE device, chip and Protocol stack | https://github.com/Charmve/B1ueB0y-BLE-Fuzzing | 0 | 0| 
-| 20210322T09:39:40Z | Null | https://github.com/ethereum/solidity-fuzzing-corpus | 10 | 4| 
 
 
 
