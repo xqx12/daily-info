@@ -85,7 +85,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210322T12:57:28Z | PS4 Exploits 1.01-7.55 | https://github.com/Buzbee/Buzbee.github.io | 0 | 1| 
+| 20210322T12:57:56Z | PS4 Exploits 1.01-7.55 | https://github.com/Buzbee/Buzbee.github.io | 0 | 1| 
 | 20210322T12:56:55Z | Exploiting neuron activation values for creating adversarial examples | https://github.com/irenevanderblij/GenNeuAct | 0 | 0| 
 | 20210322T12:55:38Z | PS4 Exploit list | https://github.com/Hakkuraifu/PS4xploit | 29 | 8| 
 | 20210322T12:45:08Z | Null | https://github.com/SammyKrosoft/Exchange-Vulnerability-02March2021-HAFNIUM-targeting-Exchange-Servers-with-0-day-exploits | 1 | 1| 
@@ -115,6 +115,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210322T12:52:23Z | Null | https://github.com/AdaLogics/go-fuzz-headers | 0 | 1| 
 | 20210322T12:40:57Z | Null | https://github.com/VeriBlock/fuzz-corpus | 0 | 1| 
 | 20210322T12:24:46Z | Null | https://github.com/yash756/fuzzy-invention | 0 | 0| 
 | 20210322T12:10:26Z | Jan%s Fuzzy System (JFS) | https://github.com/inniyah/jfs-fuzzy | 0 | 0| 
@@ -124,7 +125,6 @@
 | 20210322T11:00:55Z | Null | https://github.com/prathameshpbhat/fuzzysearch | 0 | 0| 
 | 20210322T10:50:42Z | rushugh | https://github.com/Kampouse/fuzzy-journey | 0 | 0| 
 | 20210322T10:46:48Z | CSFuzz: Call Sequence-based Greybox Fuzzing Tool | https://github.com/csfuzz/CSFuzz | 0 | 0| 
-| 20210322T10:05:00Z | An awesome toolkit for testing the BLE device, chip and Protocol stack | https://github.com/Charmve/B1ueB0y-BLE-Fuzzing | 0 | 0| 
 
 
 
