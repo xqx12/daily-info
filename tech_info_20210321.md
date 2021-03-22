@@ -26,7 +26,7 @@
 | 20210321T22:13:15Z | CVE-2021-22986 | F5 BIG-IP/BIG-IQ iControl Rest API SSRF to RCE | https://github.com/Udyz/CVE-2021-22986 | 未查询到CVE信息| 
 | 20210321T20:59:48Z | CVE-2020-0022 | CVE-2020-0022 vulnerability exploitation on Bouygues BBox Miami (Android TV 8.0 - ARM32 Cortex A9) | https://github.com/Polo35/CVE-2020-0022 | In reassemble_and_dispatch of packet_fragmenter.cc, there is possible out of bounds write due to an incorrect bounds calculation. This could lead to remote code execution over Bluetooth with no additional execution privileges needed. User interaction is not needed for exploitation.Product: AndroidVersions: Android-8.0 Android-8.1 Android-9 Android-10Android ID: A-143894715| 
 | 20210321T15:22:37Z | 未知编号 | Null | https://github.com/feihong-cs/Attacking_Shiro_with_CVE_2020_2555 | 未查询到CVE信息| 
-| 20210321T11:36:03Z | CVE-2021-22986 | This is a Poc for BIGIP iControl unauth RCE  | https://github.com/dorkerdevil/CVE-2021-22986-Poc | 未查询到CVE信息| 
+| 20210321T11:36:03Z | CVE-2021-22986 | This is a Poc for BIGIP iControl unauth RCE  | https://github.com/dorkerdevil/CVE-2021-22986-Poc | | 
 
 
 # klee on Github 推荐
@@ -46,7 +46,6 @@
 | --- | --- | --- | --- | ---| 
 | 20210321T23:47:39Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9174 | 1478| 
 | 20210321T23:44:15Z | GEF - GDB Enhanced Features for exploit devs & reversers | https://github.com/hugsy/gef | 3530 | 495| 
-| 20210321T23:43:07Z | Hacking tool that initiates ip  grabbing, scanning the IP then exploiting the possible vulnerabilities present in that IP address. | https://github.com/FonderElite/Euphoria | 1 | 1| 
 | 20210321T23:30:21Z | PS4 Exploits 1.01-7.55 | https://github.com/Buzbee/Buzbee.github.io | 0 | 1| 
 | 20210321T22:25:32Z | PS4 Exploit Host | https://github.com/Night-King-Host/Night-King-Host.github.io | 1 | 0| 
 | 20210321T22:25:28Z | Research project attempting to exploit VAC by %hiding% in kernel space | https://github.com/Joonitoi/CSGODriver | 0 | 0| 
@@ -54,6 +53,7 @@
 | 20210321T22:14:19Z | 🌸 [COMING SOON ... ] - The best and most powerful exploit finder written in Java! 🌸 | https://github.com/blackbinn/nagasaki-rose | 1 | 0| 
 | 20210321T22:13:07Z | i throw exploit POC%s here | https://github.com/0xmanjoos/Exploit-Development | 1 | 1| 
 | 20210321T21:59:31Z | An exploitation/information gathering framework designed for Python3 scripts | https://github.com/binexisHATT/simple5ploit | 1 | 0| 
+| 20210321T21:54:32Z | X Attacker Tool ☣ Website Vulnerability Scanner & Auto Exploiter | https://github.com/Moham3dRiahi/XAttacker | 897 | 408| 
 
 
 # backdoor on Github 推荐
