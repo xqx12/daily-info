@@ -45,13 +45,13 @@
 | 20210321T23:47:39Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9174 | 1478| 
 | 20210321T23:44:15Z | GEF - GDB Enhanced Features for exploit devs & reversers | https://github.com/hugsy/gef | 3530 | 495| 
 | 20210321T23:30:21Z | PS4 Exploits 1.01-7.55 | https://github.com/Buzbee/Buzbee.github.io | 0 | 1| 
-| 20210321T22:25:32Z | PS4 Exploit Host | https://github.com/Night-King-Host/Night-King-Host.github.io | 1 | 0| 
 | 20210321T22:25:28Z | Research project attempting to exploit VAC by %hiding% in kernel space | https://github.com/Joonitoi/CSGODriver | 0 | 0| 
 | 20210321T22:25:04Z | PS4 Exploit list | https://github.com/Hakkuraifu/PS4xploit | 28 | 8| 
 | 20210321T22:14:19Z | 🌸 [COMING SOON ... ] - The best and most powerful exploit finder written in Java! 🌸 | https://github.com/blackbinn/nagasaki-rose | 1 | 0| 
 | 20210321T22:13:07Z | i throw exploit POC%s here | https://github.com/0xmanjoos/Exploit-Development | 1 | 1| 
 | 20210321T21:59:31Z | An exploitation/information gathering framework designed for Python3 scripts | https://github.com/binexisHATT/simple5ploit | 1 | 0| 
 | 20210321T21:54:32Z | X Attacker Tool ☣ Website Vulnerability Scanner & Auto Exploiter | https://github.com/Moham3dRiahi/XAttacker | 897 | 408| 
+| 20210321T21:13:26Z | This bash script will help you to hack remote hosts  | https://github.com/FabioDefilippo/linuxallremote | 10 | 1| 
 
 
 # backdoor on Github 推荐

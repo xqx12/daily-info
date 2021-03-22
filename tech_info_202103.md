@@ -85,6 +85,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210322T01:43:11Z | PS4 Exploit Host | https://github.com/Night-King-Host/Night-King-Host.github.io | 1 | 0| 
 | 20210322T01:05:53Z | Extensible framework for analyzing publicly available information about vulnerabilities | https://github.com/leonov-av/vulristics | 26 | 1| 
 | 20210322T01:05:24Z | Repository for new and rebuilt exploit scripts | https://github.com/H4rk3nz0/PenTest-Exploits | 3 | 0| 
 | 20210322T01:02:53Z | Post-exploitation tool for lateral movement | https://github.com/tmenochet/PowerExec | 5 | 2| 
@@ -94,7 +95,6 @@
 | 20210321T23:47:39Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9174 | 1478| 
 | 20210321T23:44:15Z | GEF - GDB Enhanced Features for exploit devs & reversers | https://github.com/hugsy/gef | 3530 | 495| 
 | 20210321T23:30:21Z | PS4 Exploits 1.01-7.55 | https://github.com/Buzbee/Buzbee.github.io | 0 | 1| 
-| 20210321T22:25:32Z | PS4 Exploit Host | https://github.com/Night-King-Host/Night-King-Host.github.io | 1 | 0| 
 
 
 # backdoor on Github 推荐
