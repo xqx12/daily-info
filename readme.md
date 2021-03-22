@@ -73,16 +73,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210321T12:04:50Z | Fuzzing cryptographic libraries. Magic bug printer go brrrr. | https://github.com/guidovranken/cryptofuzz | 261 | 37| 
-| 20210321T11:16:13Z | repo of scripts | https://github.com/johanvargas/fuzzy-projects | 0 | 0| 
-| 20210321T11:05:09Z | Fuzzing the Rust crypto library orion with honggfuzz-rs | https://github.com/brycx/orion-fuzz | 0 | 1| 
-| 20210321T11:03:09Z | Fast as Flash Web Fuzzing tool written in golang. | https://github.com/DarthCucumber/gofuzz | 0 | 0| 
-| 20210321T10:24:39Z | rushugh | https://github.com/Kampouse/fuzzy-journey | 0 | 0| 
-| 20210321T10:16:41Z | Null | https://github.com/VeriBlock/fuzz-corpus | 0 | 1| 
-| 20210321T09:51:28Z | PGF is a protoc plugin used to generate fuzzing functions suitable for use with gofuzz. | https://github.com/srikrsna/protoc-gen-fuzz | 2 | 0| 
-| 20210321T09:44:27Z | Null | https://github.com/richardvogg/fuzzymatch | 0 | 0| 
-| 20210321T09:42:21Z | Null | https://github.com/Sambigeara/fuzzynote | 2 | 1| 
-| 20210321T09:06:40Z | PoC of fuzzing closed-source userspace binaries with KVM | https://github.com/klecko/kvm-fuzz | 1 | 0| 
+| 20210321T23:09:43Z | A mutation-based fuzzing engine for MQTT brokers. | https://github.com/PBearson/MosquittoByte | 0 | 0| 
+| 20210321T23:06:48Z | Null | https://github.com/Juanosorio94/fuzzing-rdma | 0 | 0| 
+| 20210321T23:05:43Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 1517 | 310| 
+| 20210321T22:34:03Z | Null | https://github.com/VeriBlock/fuzz-corpus | 0 | 1| 
+| 20210321T21:56:06Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6102 | 1236| 
+| 20210321T21:49:30Z | Personal website of Laurence Hughes | https://github.com/fuzzylogicxx/fuzzylogic | 4 | 1| 
+| 20210321T21:45:13Z | Send controlled amount of bytes, send msf-pattern, calculate offset, custom buffer, badcharacters all in one. | https://github.com/AceSineX/BOF-fuzzer-python-3-All-in | 0 | 0| 
+| 20210321T21:30:31Z | Null | https://github.com/Probably-Jay/Fuzzy-AI | 0 | 0| 
+| 20210321T20:46:10Z | Null | https://github.com/Sambigeara/fuzzynote | 2 | 1| 
+| 20210321T20:33:11Z | Null | https://github.com/matusf/open-api-fuzzer | 1 | 0| 
 
 
 
