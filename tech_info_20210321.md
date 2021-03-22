@@ -72,7 +72,6 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210321T23:09:43Z | A mutation-based fuzzing engine for MQTT brokers. | https://github.com/PBearson/MosquittoByte | 0 | 0| 
 | 20210321T23:06:48Z | Null | https://github.com/Juanosorio94/fuzzing-rdma | 0 | 0| 
 | 20210321T23:05:43Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 1517 | 310| 
 | 20210321T22:34:03Z | Null | https://github.com/VeriBlock/fuzz-corpus | 0 | 1| 
@@ -82,6 +81,7 @@
 | 20210321T21:30:31Z | Null | https://github.com/Probably-Jay/Fuzzy-AI | 0 | 0| 
 | 20210321T20:46:10Z | Null | https://github.com/Sambigeara/fuzzynote | 2 | 1| 
 | 20210321T20:33:11Z | Null | https://github.com/matusf/open-api-fuzzer | 1 | 0| 
+| 20210321T20:18:30Z | Fuzzster - fuzzy matching web application | https://github.com/datahappy1/go_fuzzymatch_webapp | 0 | 0| 
 
 
 
