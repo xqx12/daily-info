@@ -55,9 +55,9 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210322T12:43:01Z | Null | https://github.com/SammyKrosoft/Exchange-Vulnerability-02March2021-HAFNIUM-targeting-Exchange-Servers-with-0-day-exploits | 1 | 1| 
+| 20210322T12:43:50Z | Null | https://github.com/SammyKrosoft/Exchange-Vulnerability-02March2021-HAFNIUM-targeting-Exchange-Servers-with-0-day-exploits | 1 | 1| 
+| 20210322T12:43:47Z | PS4 Exploits 1.01-7.55 | https://github.com/Buzbee/Buzbee.github.io | 0 | 1| 
 | 20210322T12:40:23Z | Null | https://github.com/melTHEboss/php_exploit | 0 | 0| 
-| 20210322T12:36:47Z | PS4 Exploits 1.01-7.55 | https://github.com/Buzbee/Buzbee.github.io | 0 | 1| 
 | 20210322T12:29:48Z | GH repository for the course Immunity Debugger for Exploit Devs - YCSC Lab Essentials | https://github.com/yaksas443/immunitydebugger.github.io | 0 | 0| 
 | 20210322T12:04:24Z | this bash script is for remote linux hosts hacked! | https://github.com/FabioDefilippo/linuxallenum | 9 | 0| 
 | 20210322T12:02:26Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 11 | 6| 
