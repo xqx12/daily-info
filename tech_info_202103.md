@@ -85,6 +85,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210322T12:01:39Z | PhoneSploit is tool for remote ADB Exploitation. With the help of this tool you can control android device by just IP address.  pkg up -y pkg install git -y pkg install python -y pkg install openssl-tool pkg install wget -y pip install colorama git clone https://github.com/MasterDevX/Termux-ADB cd Termux-ADB chmod 777 InstallTools.sh bash InstallTools.sh cd $HOME git clone https://github.com/aerosol-can/PhoneSploit cd PhoneSploit python phonesploit.py | https://github.com/Zack-sys/Phonesploit---hacking-android-using-IP-address | 2 | 0| 
 | 20210322T12:00:14Z | GH repository for the course Immunity Debugger for Exploit Devs - YCSC Lab Essentials | https://github.com/yaksas443/immunitydebugger.github.io | 0 | 0| 
 | 20210322T11:54:30Z | This bash script will help you to hack remote hosts  | https://github.com/FabioDefilippo/linuxallremote | 10 | 1| 
 | 20210322T11:38:49Z | Development of code to exploit LSST and VISTA imaging | https://github.com/lsst-uk/lsst-ir-fusion | 0 | 0| 
@@ -94,37 +95,36 @@
 | 20210322T11:31:29Z | Binary exploits presented in web app | https://github.com/Pen-Test3rs/binary_exploits_examples | 0 | 0| 
 | 20210322T11:30:58Z | Educational web application demonstrating techniques of binary exploitation (Front-end) | https://github.com/Pen-Test3rs/binary_exploits_frontend | 0 | 0| 
 | 20210322T11:30:51Z | courses, exploits and lots of code, as i am currently preparing for this exam, i will keep updating everthing i learned or coded here | https://github.com/kainesmicheal/OSWE | 1 | 1| 
-| 20210322T11:28:18Z | Educational web application demonstrating techniques of binary exploitation - (Back-end) | https://github.com/Pen-Test3rs/binary_exploits_backend | 0 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210322T10:59:06Z | FUD cross-platform python2 backdoor with C2 | https://github.com/7h3w4lk3r/pyback | 17 | 5| 
+| 20210322T09:30:36Z | Remote Shell Backdoor V.1.0 | https://github.com/naufalardhani/remote-shell-backdoor | 0 | 1| 
+| 20210322T08:58:40Z | Wurst+2 No rat no backdoor | https://github.com/Turkishinqq/Wurst-2 | 1 | 0| 
+| 20210322T08:43:30Z | supervised reverse tcp backdoor and localhost listener backdoor | https://github.com/karangejo/elixir-backdoor | 0 | 0| 
+| 20210322T08:35:28Z | UEFI driver that installs backdoor reachable from usermode on Windows | https://github.com/mathisvickie/efi-backdoor | 0 | 0| 
+| 20210322T04:50:39Z | A simple back door scanner tool made using c++ | https://github.com/krishpranav/backdoorscanner | 0 | 0| 
+| 20210322T04:39:28Z | An easy tool to reset cpanel password when you can%t upload backdoor to server. This tool will be useful only if the password reset feature on cpanel is activated. | https://github.com/naufalardhani/cpanel-pass-reset | 0 | 0| 
+| 20210322T03:04:53Z | A backdoor wrote in Java. (Only for educational purposes! Use at your own risk.) | https://github.com/PulseBeat02/Among-Us-Backdoor | 0 | 0| 
 | 20210321T23:06:50Z | Ghost Framework is an Android post-exploitation framework that exploits the Android Debug Bridge to remotely access an Android device. Ghost Framework gives you the power and convenience of remote Android device administration. | https://github.com/EntySec/ghost | 998 | 491| 
 | 20210321T22:30:54Z | Threat Emulation and Red Teaming Framework. | https://github.com/quantumcored/remote_hacker_probe | 33 | 5| 
-| 20210321T22:01:11Z | A VBS Backdoor | https://github.com/kgsensei/VBSBackdoor | 0 | 0| 
-| 20210321T21:25:54Z | TrojanZoo provides a universal pytorch platform to conduct security researches (especially backdoor attacks/defenses) of image classification in deep learning. | https://github.com/ain-soph/trojanzoo | 53 | 9| 
-| 20210321T20:28:10Z | esta es la version 2.0 de la anterior BackDoor base85, en esta nueva version estoy trabajando para poder anadir a la conexiones un cifrado AES. el malware todabia no se puede usar en modo trafico encriptado, pero si en trafico plano(sin encriptacion) | https://github.com/desmonHak/BackDoor2.0 | 1 | 0| 
-| 20210321T16:50:34Z | A general-purpose All-in-One backdoor for ethical hacking. Made with utility in mind. | https://github.com/CMPLXapps/Swordfish | 0 | 0| 
-| 20210321T16:44:29Z | Python KeyLogger | https://github.com/sak110/backdoor | 0 | 1| 
-| 20210321T12:16:06Z | A simple back door scanner tool made using c++ | https://github.com/krishpranav/backdoorscanner | 0 | 0| 
-| 20210321T11:32:02Z | An easy tool to reset cpanel password when you can%t upload backdoor to server. This tool will be useful only if the password reset feature on cpanel is activated. | https://github.com/naufalardhani/cpanel-pass-reset | 0 | 0| 
-| 20210321T11:14:16Z | Null | https://github.com/gurkanguler/Python_Backdoor | 0 | 0| 
 
 
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210322T01:52:07Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6102 | 1236| 
-| 20210322T01:36:34Z | A mutation-based fuzzing engine for MQTT brokers. | https://github.com/PBearson/MosquittoByte | 0 | 0| 
-| 20210322T01:27:57Z | Null | https://github.com/mohamednagy5/fuzzy-octo-tribble | 0 | 0| 
-| 20210322T00:47:32Z | View my expiriment!! | https://github.com/arathimahesh/fuzzy-spoon | 0 | 0| 
-| 20210322T00:42:38Z | CS 4152 Project | https://github.com/nicbarone/Fuzzy-Kiwi | 0 | 0| 
-| 20210321T23:06:48Z | Null | https://github.com/Juanosorio94/fuzzing-rdma | 0 | 0| 
-| 20210321T23:05:43Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 1517 | 310| 
-| 20210321T22:34:03Z | Null | https://github.com/VeriBlock/fuzz-corpus | 0 | 1| 
-| 20210321T21:49:30Z | Personal website of Laurence Hughes | https://github.com/fuzzylogicxx/fuzzylogic | 4 | 1| 
-| 20210321T21:45:13Z | Send controlled amount of bytes, send msf-pattern, calculate offset, custom buffer, badcharacters all in one. | https://github.com/AceSineX/BOF-fuzzer-python-3-All-in | 0 | 0| 
+| 20210322T12:00:22Z | Null | https://github.com/yash756/fuzzy-invention | 0 | 0| 
+| 20210322T11:58:32Z | Towards fuzzing ROS 2 automatically | https://github.com/JnxF/automatic_fuzzing | 0 | 0| 
+| 20210322T11:39:04Z | Null | https://github.com/HeyuWang/fuzzy_world_search_scheme | 0 | 0| 
+| 20210322T11:19:58Z | Null | https://github.com/Fuzzy2319/Fuzzy2319 | 0 | 0| 
+| 20210322T11:00:55Z | Null | https://github.com/prathameshpbhat/fuzzysearch | 0 | 0| 
+| 20210322T10:50:42Z | rushugh | https://github.com/Kampouse/fuzzy-journey | 0 | 0| 
+| 20210322T10:46:48Z | CSFuzz: Call Sequence-based Greybox Fuzzing Tool | https://github.com/csfuzz/CSFuzz | 0 | 0| 
+| 20210322T10:39:42Z | Null | https://github.com/VeriBlock/fuzz-corpus | 0 | 1| 
+| 20210322T10:05:00Z | An awesome toolkit for testing the BLE device, chip and Protocol stack | https://github.com/Charmve/B1ueB0y-BLE-Fuzzing | 0 | 0| 
+| 20210322T09:39:40Z | Null | https://github.com/ethereum/solidity-fuzzing-corpus | 10 | 4| 
 
 
 
