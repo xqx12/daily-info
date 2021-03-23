@@ -15,6 +15,9 @@
 | 20210322 | F5 从认证绕过到远程代码执行漏洞分析 | https://blog.riskivy.com/f5%E4%BB%8E%E8%AE%A4%E8%AF%81%E7%BB%95%E8%BF%87%E5%88%B0%E8%BF%9C%E7%A8%8B%E4%BB%A3%E7%A0%81%E6%89%A7%E8%A1%8C%E6%BC%8F%E6%B4%9E%E5%88%86%E6%9E%90/| 
 | 20210322 | Chrome V8 issue 1126249 Exploit 代码 | https://gist.github.com/hkraw/5ba2df87925fb7de8acc3c4bcec4774e| 
 | 20210322 | 基于 Honeybee 和 Intel PT 实现更高效地 Coverage-guided Fuzzing | https://blog.trailofbits.com/2021/03/19/un-bee-lievable-performance-fast-coverage-guided-fuzzing-with-honeybee-and-intel-processor-trace/| 
+| 20210322 | WinDbg基础知识：内核模式调试课程视频 。 | https://www.pentesteracademy.com/course?id=53&utm_source=twitter&utm_medium=content&utm_campaign=organic| 
+| 20210322 | O’Reilly的《面向AI与机器学习指南》电子书。 | https://www.reddit.com/user/OReilly_Learning/comments/m7rsrx/ai_and_machine_learning_for_coders_by_oreilly_and/?utm_source=share&utm_medium=ios_app&utm_name=iossmf| 
+| 20210322 | 逆向工程智能电表视频。 | https://www.reddit.com/r/ReverseEngineering/comments/m8zhya/reverse_engineering_smart_power_meters/| 
 | 20210321 | SilverFish APT团队分析报告。 | https://github.com/blackorbird/APT_REPORT/blob/master/SunBurst/SilverFish_Solarwinds.pdf| 
 | 20210321 | ILEX International Sign＆go 7.1本地权限漏洞（CVE-2020-23968）。 | https://ricardojba.github.io/CVE-2020-23968-ILEX-SignGo-EoP/| 
 | 20210319 | 基于 ES 的大数据日志检索方法检测攻击者的内网横向渗透行为 | https://www.elastic.co/blog/hunting-for-lateral-movement-using-event-query-language| 
@@ -23,9 +26,6 @@
 | 20210319 | 书籍《渗透测试实战第三版(红队版)》的译文版本 | https://www.bookstack.cn/read/The-Hacker-Playbook-3-Translation/content-%E4%BB%8B%E7%BB%8D.md| 
 | 20210319 | Fuzzing: FastStone Image Viewer & CVE-2021-26236 | https://voidsec.com/fuzzing-faststone-image-viewer-cve-2021-26236/| 
 | 20210319 | XcodeSpy - 攻击者通过恶意 Xcode 工程文件的方式入侵开发者 macOS 系统 | https://labs.sentinelone.com/new-macos-malware-xcodespy-targets-xcode-developers-with-eggshell-backdoor/| 
-| 20210319 | Project Zero 去年 10 月发现的 0Day 野外利用本身的一些细节 | https://googleprojectzero.blogspot.com/2021/03/in-wild-series-october-2020-0-day.html| 
-| 20210319 | CredMaster - 利用 Amazon AWS 绕过密码爆破时目标服务器的 IP 限制 | https://github.com/knavesec/CredMaster| 
-| 20210318 | TikTok for Android 1-Click RCE | https://medium.com/@dPhoeniixx/tiktok-for-android-1-click-rce-240266e78105| 
 
 
 # 安全维基 推荐
@@ -46,38 +46,38 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20210322T11:14:33Z | CVE-2021-3156 | Sudo Baron Samedit Exploit | https://github.com/worawit/CVE-2021-3156 | Sudo before 1.9.5p2 contains an off-by-one error that can result in a heap-based buffer overflow, which allows privilege escalation to root via %sudoedit -s% and a command-line argument that ends with a single backslash character.| 
+| 20210322T18:36:36Z | CVE-2021-21123 | Null | https://github.com/Puliczek/CVE-2021-21123-PoC-Google-Chrome | Insufficient data validation in File System API in Google Chrome prior to 88.0.4324.96 allowed a remote attacker to bypass filesystem restrictions via a crafted HTML page.| 
+| 20210322T16:49:58Z | CVE-2021-22986 | F5 BIG-IP/BIG-IQ iControl Rest API SSRF to RCE | https://github.com/Udyz/CVE-2021-22986-SSRF2RCE | 未查询到CVE信息| 
+| 20210322T15:31:08Z | CVE-2021-22986 | CVE-2021-22986 & F5 BIG-IP RCE | https://github.com/Al1ex/CVE-2021-22986 | 未查询到CVE信息| 
+| 20210322T14:46:20Z | CVE-2021-3156 | Sudo Baron Samedit Exploit | https://github.com/worawit/CVE-2021-3156 | Sudo before 1.9.5p2 contains an off-by-one error that can result in a heap-based buffer overflow, which allows privilege escalation to root via %sudoedit -s% and a command-line argument that ends with a single backslash character.| 
 | 20210322T09:28:19Z | 未知编号 | Null | https://github.com/feihong-cs/Attacking_Shiro_with_CVE_2020_2555 | 未查询到CVE信息| 
-| 20210322T09:27:44Z | CVE-2021-22986 | CVE-2021-22986 & F5 BIG-IP RCE | https://github.com/Al1ex/CVE-2021-22986 | 未查询到CVE信息| 
 | 20210322T07:53:50Z | CVE-2021-22986 | F5 BIG-IP/BIG-IQ iControl Rest API SSRF to RCE | https://github.com/Udyz/CVE-2021-22986 | 未查询到CVE信息| 
 | 20210322T06:44:07Z | cve-2021-3019 | lanproxy(CVE-2021-3019)目录遍历 | https://github.com/Aoyuh/cve-2021-3019 | ffay lanproxy 0.1 allows Directory Traversal to read /../conf/config.properties to obtain credentials for a connection to the intranet.| 
 | 20210322T01:32:01Z | CVE-2021-22986 | This is a Poc for BIGIP iControl unauth RCE  | https://github.com/dorkerdevil/CVE-2021-22986-Poc | 未查询到CVE信息| 
 | 20210321T20:59:48Z | CVE-2020-0022 | CVE-2020-0022 vulnerability exploitation on Bouygues BBox Miami (Android TV 8.0 - ARM32 Cortex A9) | https://github.com/Polo35/CVE-2020-0022 | In reassemble_and_dispatch of packet_fragmenter.cc, there is possible out of bounds write due to an incorrect bounds calculation. This could lead to remote code execution over Bluetooth with no additional execution privileges needed. User interaction is not needed for exploitation.Product: AndroidVersions: Android-8.0 Android-8.1 Android-9 Android-10Android ID: A-143894715| 
 | 20210320T07:57:04Z | CVE-2020-14883 | A vulnerability scanner that detects CVE-2020-14883 vulnerabilities. | https://github.com/Osyanina/westone-CVE-2020-14883-scanner | Vulnerability in the Oracle WebLogic Server product of Oracle Fusion Middleware (component: Console). Supported versions that are affected are 10.3.6.0.0, 12.1.3.0.0, 12.2.1.3.0, 12.2.1.4.0 and 14.1.1.0.0. Easily exploitable vulnerability allows high privileged attacker with network access via HTTP to compromise Oracle WebLogic Server. Successful attacks of this vulnerability can result in takeover of Oracle WebLogic Server. CVSS 3.1 Base Score 7.2 (Confidentiality, Integrity and Availability impacts). CVSS Vector: (CVSS:3.1/AV:N/AC:L/PR:H/UI:N/S:U/C:H/I:H/A:H).| 
-| 20210320T07:55:36Z | CVE-2020-17519 | A vulnerability scanner that detects CVE-2020-17519 vulnerabilities. | https://github.com/Osyanina/westone-CVE-2020-17519-scanner | | 
-| 20210320T07:55:11Z | CVE-2021-21972 | A vulnerability scanner that detects CVE-2021-21972 vulnerabilities. | https://github.com/Osyanina/westone-CVE-2021-21972-scanner | The vSphere Client (HTML5) contains a remote code execution vulnerability in a vCenter Server plugin. A malicious actor with network access to port 443 may exploit this issue to execute commands with unrestricted privileges on the underlying operating system that hosts vCenter Server. This affects VMware vCenter Server (7.x before 7.0 U1c, 6.7 before 6.7 U3l and 6.5 before 6.5 U3n) and VMware Cloud Foundation (4.x before 4.2 and 3.x before 3.10.1.2).| 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210322T12:22:28Z | RVT is a collection of tools/libraries to support both static and dynamic verification of Rust programs. | https://github.com/project-oak/rust-verification-tools | 112 | 9| 
+| 20210322T21:36:25Z | Null | https://github.com/klee30810/klee30810 | 1 | 0| 
+| 20210322T19:16:20Z | Null | https://github.com/abbykleespie/LAWk7AbbyKleespie.appstudio | 0 | 0| 
+| 20210322T18:08:48Z | Null | https://github.com/nithinsai263/kleenacademy | 0 | 0| 
+| 20210322T17:10:20Z | Kleene algebra, regular expressions | https://github.com/phadej/kleene | 27 | 1| 
+| 20210322T16:57:50Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1651 | 485| 
+| 20210322T15:15:21Z | RVT is a collection of tools/libraries to support both static and dynamic verification of Rust programs. | https://github.com/project-oak/rust-verification-tools | 112 | 9| 
 | 20210322T10:31:03Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 的 Klee One 的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 343 | 8| 
-| 20210322T07:35:52Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1650 | 485| 
 | 20210322T00:36:52Z | Git Blog | https://github.com/klee30810/klee30810.github.io | 0 | 0| 
 | 20210320T03:09:41Z | Null | https://github.com/DonaldKLee/DonaldKLee | 0 | 0| 
 | 20210318T21:22:29Z | Null | https://github.com/TheBeehive/kleene | 0 | 0| 
-| 20210317T09:14:26Z | Symbiotic is a tool for finding bugs in computer programs based on instrumentation, program slicing and KLEE | https://github.com/staticafi/symbiotic | 212 | 34| 
-| 20210317T08:57:28Z | Kleene algebra, regular expressions | https://github.com/phadej/kleene | 27 | 1| 
-| 20210317T03:50:51Z | 원신 가챠 시뮬레이터 | https://github.com/LunaNyan/Genshin_Klee_Discord_Bot | 1 | 0| 
-| 20210316T21:21:48Z | Minimal Working Example (MWE) to evaluate flexible protections in KLEE | https://github.com/jvdbroeck/mwe-klee | 0 | 0| 
 
 
 # s2e on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210322T13:32:13Z | with the technique of Opencv, we try to achieve traffic identification. | https://github.com/wpfeder/Opencv_traffic_s2e | 0 | 0| 
 | 20210321T00:57:39Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 103 | 24| 
-| 20210320T02:51:54Z | with the technique of Opencv, we try to achieve traffic identification. | https://github.com/wpfeder/Opencv_traffic_s2e | 0 | 0| 
 | 20210313T20:42:17Z | Source of Sonic Eclipse, a romhack of Sonic 2 for Sega Master System circa 2018. http://sonicresearch.org/community/index.php?threads/sonic-eclipse.5524/ | https://github.com/mrcat-pixel/s2eclipse | 3 | 0| 
 | 20210306T11:03:45Z | Master Thesis %Decentralised Location-Based Reputation Management System in IoT using Blockchain% - Experiment S2 region covering in Golang | https://github.com/ponlawat-w/uji_mt-s2encoding | 0 | 0| 
 
@@ -85,31 +85,31 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210322T13:18:48Z | PS4 Exploits 1.01-7.55 | https://github.com/Buzbee/Buzbee.github.io | 0 | 1| 
-| 20210322T13:18:33Z | cursedshell is an exploitation shell meant to exploit LFI,RFI and command injection vulnerabilities  | https://github.com/recurselinux/cursedshell | 0 | 0| 
-| 20210322T13:17:34Z | This bash script will help you to hack remote hosts  | https://github.com/FabioDefilippo/linuxallremote | 10 | 1| 
-| 20210322T13:08:03Z | Development of code to exploit LSST and VISTA imaging | https://github.com/lsst-uk/lsst-ir-fusion | 0 | 0| 
-| 20210322T13:05:30Z | PS4 Exploit Host | https://github.com/Night-King-Host/Night-King-Host.github.io | 2 | 1| 
-| 20210322T13:02:26Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 11 | 6| 
-| 20210322T12:56:55Z | Exploiting neuron activation values for creating adversarial examples | https://github.com/irenevanderblij/GenNeuAct | 0 | 0| 
-| 20210322T12:55:38Z | PS4 Exploit list | https://github.com/Hakkuraifu/PS4xploit | 29 | 8| 
-| 20210322T12:45:08Z | Null | https://github.com/SammyKrosoft/Exchange-Vulnerability-02March2021-HAFNIUM-targeting-Exchange-Servers-with-0-day-exploits | 1 | 1| 
-| 20210322T12:40:23Z | Null | https://github.com/melTHEboss/php_exploit | 0 | 0| 
+| 20210323T00:00:55Z | A selection of rebuilt and from scratch exploits, scripts and ideas that can be used in red-teaming scenarios. | https://github.com/H4rk3nz0/PenTesting | 0 | 0| 
+| 20210322T23:51:49Z | A CTF web app designed to teach software developers application security by showcasing what vulnerable code looks like, how to write code to exploit the vulnerability, and how to write code to patch the vulnerability. | https://github.com/neumaneuma/appseccheat.codes | 1 | 0| 
+| 20210322T23:02:26Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 11 | 6| 
+| 20210322T22:41:34Z | PS1 savegame exploit using THPS3 | https://github.com/socram8888/tonyhax | 139 | 4| 
+| 20210322T22:36:56Z | Null | https://github.com/h4x0r-dz/RCE-Exploit-in-BIG-IP | 120 | 53| 
+| 20210322T22:00:30Z | i throw exploit POC%s here | https://github.com/0xmanjoos/Exploit-Development | 1 | 1| 
+| 20210322T22:00:14Z | 7.02 Exploit Menu | https://github.com/Lesking72/ps4 | 0 | 0| 
+| 20210322T21:55:28Z | Another Host for PS4 Exploits | https://github.com/HoppersPS4/PS4 | 0 | 0| 
+| 20210322T21:53:19Z | windows and linux streams for post exploitation | https://github.com/kymb0/post_exploitation | 1 | 0| 
+| 20210322T21:50:22Z | This ExpressJS app is a sandbox for demonstrating web security exploits, for which certain HTTP headers can help protect against. | https://github.com/Meszerus/http-security-headers-sandbox | 0 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210322T20:36:06Z | TrojanZoo provides a universal pytorch platform to conduct security researches (especially backdoor attacks/defenses) of image classification in deep learning. | https://github.com/ain-soph/trojanzoo | 53 | 9| 
+| 20210322T16:25:26Z | UEFI driver that installs backdoor reachable from usermode on Windows | https://github.com/mathisvickie/efi-backdoor | 1 | 0| 
+| 20210322T15:48:50Z | Simple backdoor using lib python%s socket | https://github.com/NoNameoN-A/Backdoor-Client-Server-Socket-Python | 0 | 0| 
 | 20210322T10:59:06Z | FUD cross-platform python2 backdoor with C2 | https://github.com/7h3w4lk3r/pyback | 17 | 5| 
 | 20210322T09:30:36Z | Remote Shell Backdoor V.1.0 | https://github.com/naufalardhani/remote-shell-backdoor | 0 | 1| 
 | 20210322T08:58:40Z | Wurst+2 No rat no backdoor | https://github.com/Turkishinqq/Wurst-2 | 1 | 0| 
 | 20210322T08:43:30Z | supervised reverse tcp backdoor and localhost listener backdoor | https://github.com/karangejo/elixir-backdoor | 0 | 0| 
-| 20210322T08:35:28Z | UEFI driver that installs backdoor reachable from usermode on Windows | https://github.com/mathisvickie/efi-backdoor | 0 | 0| 
 | 20210322T04:50:39Z | A simple back door scanner tool made using c++ | https://github.com/krishpranav/backdoorscanner | 0 | 0| 
 | 20210322T04:39:28Z | An easy tool to reset cpanel password when you can%t upload backdoor to server. This tool will be useful only if the password reset feature on cpanel is activated. | https://github.com/naufalardhani/cpanel-pass-reset | 0 | 0| 
 | 20210322T03:04:53Z | A backdoor wrote in Java. (Only for educational purposes! Use at your own risk.) | https://github.com/PulseBeat02/Among-Us-Backdoor | 0 | 0| 
-| 20210321T23:06:50Z | Ghost Framework is an Android post-exploitation framework that exploits the Android Debug Bridge to remotely access an Android device. Ghost Framework gives you the power and convenience of remote Android device administration. | https://github.com/EntySec/ghost | 998 | 491| 
-| 20210321T22:30:54Z | Threat Emulation and Red Teaming Framework. | https://github.com/quantumcored/remote_hacker_probe | 33 | 5| 
 
 
 # fuzz on Github 推荐
