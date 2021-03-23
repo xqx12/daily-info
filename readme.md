@@ -36,7 +36,7 @@
 | 20210322T18:36:36Z | CVE-2021-21123 | Null | https://github.com/Puliczek/CVE-2021-21123-PoC-Google-Chrome | Insufficient data validation in File System API in Google Chrome prior to 88.0.4324.96 allowed a remote attacker to bypass filesystem restrictions via a crafted HTML page.| 
 | 20210322T16:49:58Z | CVE-2021-22986 | F5 BIG-IP/BIG-IQ iControl Rest API SSRF to RCE | https://github.com/Udyz/CVE-2021-22986-SSRF2RCE | 未查询到CVE信息| 
 | 20210322T15:31:08Z | CVE-2021-22986 | CVE-2021-22986 & F5 BIG-IP RCE | https://github.com/Al1ex/CVE-2021-22986 | 未查询到CVE信息| 
-| 20210322T14:46:20Z | CVE-2021-3156 | Sudo Baron Samedit Exploit | https://github.com/worawit/CVE-2021-3156 | Sudo before 1.9.5p2 contains an off-by-one error that can result in a heap-based buffer overflow, which allows privilege escalation to root via %sudoedit -s% and a command-line argument that ends with a single backslash character.| 
+| 20210322T14:46:20Z | CVE-2021-3156 | Sudo Baron Samedit Exploit | https://github.com/worawit/CVE-2021-3156 | | 
 | 20210322T09:28:19Z | 未知编号 | Null | https://github.com/feihong-cs/Attacking_Shiro_with_CVE_2020_2555 | 未查询到CVE信息| 
 | 20210322T07:53:50Z | CVE-2021-22986 | F5 BIG-IP/BIG-IQ iControl Rest API SSRF to RCE | https://github.com/Udyz/CVE-2021-22986 | 未查询到CVE信息| 
 | 20210322T06:44:07Z | cve-2021-3019 | lanproxy(CVE-2021-3019)目录遍历 | https://github.com/Aoyuh/cve-2021-3019 | ffay lanproxy 0.1 allows Directory Traversal to read /../conf/config.properties to obtain credentials for a connection to the intranet.| 
@@ -66,7 +66,6 @@
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
 | 20210322T23:51:49Z | A CTF web app designed to teach software developers application security by showcasing what vulnerable code looks like, how to write code to exploit the vulnerability, and how to write code to patch the vulnerability. | https://github.com/neumaneuma/appseccheat.codes | 1 | 0| 
-| 20210322T23:02:26Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 11 | 6| 
 | 20210322T22:41:34Z | PS1 savegame exploit using THPS3 | https://github.com/socram8888/tonyhax | 139 | 4| 
 | 20210322T22:36:56Z | Null | https://github.com/h4x0r-dz/RCE-Exploit-in-BIG-IP | 120 | 53| 
 | 20210322T22:00:30Z | i throw exploit POC%s here | https://github.com/0xmanjoos/Exploit-Development | 1 | 1| 
@@ -75,6 +74,7 @@
 | 20210322T21:53:19Z | windows and linux streams for post exploitation | https://github.com/kymb0/post_exploitation | 1 | 0| 
 | 20210322T21:50:22Z | This ExpressJS app is a sandbox for demonstrating web security exploits, for which certain HTTP headers can help protect against. | https://github.com/Meszerus/http-security-headers-sandbox | 0 | 0| 
 | 20210322T21:47:51Z | X Attacker Tool ☣ Website Vulnerability Scanner & Auto Exploiter | https://github.com/Moham3dRiahi/XAttacker | 898 | 409| 
+| 20210322T21:20:53Z | This tool can help you to see the real IP behind CloudFlare protected websites. | https://github.com/zidansec/CrimeFlare | 1 | 0| 
 
 
 # backdoor on Github 推荐
