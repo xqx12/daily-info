@@ -6,6 +6,17 @@
 # 玄武实验室 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20210323 | IDA 7.6 版本发布，开始原生支持 Apple M1 芯片 | https://www.hex-rays.com/blog/ida-7-6-released/| 
+| 20210323 | iOS 安全漏洞研究环境搭建 | http://www.mac4n6.com/blog/2021/3/21/part-3-step-by-step-tooling-for-ios-research-via-bizzybarney| 
+| 20210323 | IP6_EXTHDR_CHECK Double Free 漏洞 Exploit 代码(CVE-2020-9892) | https://gist.github.com/Cryptogenic/448fd98813ab5a93182fb9620c013e17| 
+| 20210323 | IPyIDA - IPython console integration for IDA Pro | https://github.com/eset/ipyida| 
+| 20210323 | API 安全测试的 31 个 Tips | https://github.com/inonshk/31-days-of-API-Security-Tips| 
+| 20210323 | 取证分析相关的资料整理 | https://github.com/ivbeg/awesome-forensicstools/| 
+| 20210323 | Awesome Penetration Testing - 渗透测试相关的资料整理 | https://github.com/wtsxDev/Penetration-Testing#network-tools| 
+| 20210323 | Awesome Penetration Testing - 渗透测试相关的工具和资料整理 | https://github.com/enaqx/awesome-pentest| 
+| 20210323 | Process Hollowing 进程注入在 Windows 系统的实现与检测方法 | https://www.winitor.com/pdf/Windows-Process-Hollowing.pdf| 
+| 20210323 | 恶意软件分析教程资料 | https://sec.today/pulses/5ef4a506-bcec-44a4-89e6-f9723549c49e/| 
+| 20210323 | 恶意软件分析教程资料 | https://github.com/hasherezade/malware_training_vol1| 
 | 20210322 | medusa - 基于 FRIDA 实现的 Java 动态二进制插桩框架，目标场景是恶意软件 Trace | https://github.com/Ch0pin/medusa| 
 | 20210322 | 智能 LED 应用 Magic Home Pro 被发现存在认证 Bypass 漏洞（CVE-2020-27199） | https://9lyph.github.io/CVE-2020-27199/| 
 | 20210322 | APT 攻击者利用反向代理扫描内网 | https://www.varonis.com/blog/nmap-reverse-proxies/?utm_content=158497201&utm_medium=social&utm_source=twitter&hss_channel=tw-21672993| 
@@ -15,17 +26,6 @@
 | 20210322 | F5 从认证绕过到远程代码执行漏洞分析 | https://blog.riskivy.com/f5%E4%BB%8E%E8%AE%A4%E8%AF%81%E7%BB%95%E8%BF%87%E5%88%B0%E8%BF%9C%E7%A8%8B%E4%BB%A3%E7%A0%81%E6%89%A7%E8%A1%8C%E6%BC%8F%E6%B4%9E%E5%88%86%E6%9E%90/| 
 | 20210322 | Chrome V8 issue 1126249 Exploit 代码 | https://gist.github.com/hkraw/5ba2df87925fb7de8acc3c4bcec4774e| 
 | 20210322 | 基于 Honeybee 和 Intel PT 实现更高效地 Coverage-guided Fuzzing | https://blog.trailofbits.com/2021/03/19/un-bee-lievable-performance-fast-coverage-guided-fuzzing-with-honeybee-and-intel-processor-trace/| 
-| 20210322 | WinDbg基础知识：内核模式调试课程视频 。 | https://www.pentesteracademy.com/course?id=53&utm_source=twitter&utm_medium=content&utm_campaign=organic| 
-| 20210322 | O’Reilly的《面向AI与机器学习指南》电子书。 | https://www.reddit.com/user/OReilly_Learning/comments/m7rsrx/ai_and_machine_learning_for_coders_by_oreilly_and/?utm_source=share&utm_medium=ios_app&utm_name=iossmf| 
-| 20210322 | 逆向工程智能电表视频。 | https://www.reddit.com/r/ReverseEngineering/comments/m8zhya/reverse_engineering_smart_power_meters/| 
-| 20210321 | SilverFish APT团队分析报告。 | https://github.com/blackorbird/APT_REPORT/blob/master/SunBurst/SilverFish_Solarwinds.pdf| 
-| 20210321 | ILEX International Sign＆go 7.1本地权限漏洞（CVE-2020-23968）。 | https://ricardojba.github.io/CVE-2020-23968-ILEX-SignGo-EoP/| 
-| 20210319 | 基于 ES 的大数据日志检索方法检测攻击者的内网横向渗透行为 | https://www.elastic.co/blog/hunting-for-lateral-movement-using-event-query-language| 
-| 20210319 | How I hacked Facebook: Part Two | https://alaa0x2.medium.com/how-i-hacked-facebook-part-two-ffab96d57b19| 
-| 20210319 | F5 BIG-IP 等设备被发现高危 iControl RCE 漏洞，PoC 在 Twitter 上已经被公开了： https://twitter.com/wugeej/status/1372392693989445635 | https://zh-cn.tenable.com/blog/cve-2021-22986-f5-patches-several-critical-vulnerabilities-in-big-ip-big-iq| 
-| 20210319 | 书籍《渗透测试实战第三版(红队版)》的译文版本 | https://www.bookstack.cn/read/The-Hacker-Playbook-3-Translation/content-%E4%BB%8B%E7%BB%8D.md| 
-| 20210319 | Fuzzing: FastStone Image Viewer & CVE-2021-26236 | https://voidsec.com/fuzzing-faststone-image-viewer-cve-2021-26236/| 
-| 20210319 | XcodeSpy - 攻击者通过恶意 Xcode 工程文件的方式入侵开发者 macOS 系统 | https://labs.sentinelone.com/new-macos-malware-xcodespy-targets-xcode-developers-with-eggshell-backdoor/| 
 
 
 # 安全维基 推荐
@@ -46,38 +46,39 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20210323T02:07:32Z | CVE-2021-22986 | CVE-2021-22986 Checker Script in Python3 | https://github.com/ZephrFish/CVE-2021-22986_Check | 未查询到CVE信息| 
-| 20210323T01:14:21Z | CVE-2021-3156 | Sudo Baron Samedit Exploit | https://github.com/worawit/CVE-2021-3156 | Sudo before 1.9.5p2 contains an off-by-one error that can result in a heap-based buffer overflow, which allows privilege escalation to root via %sudoedit -s% and a command-line argument that ends with a single backslash character.| 
-| 20210322T18:36:36Z | CVE-2021-21123 | Null | https://github.com/Puliczek/CVE-2021-21123-PoC-Google-Chrome | Insufficient data validation in File System API in Google Chrome prior to 88.0.4324.96 allowed a remote attacker to bypass filesystem restrictions via a crafted HTML page.| 
+| 20210323T11:55:44Z | CVE-2021-21123 | Null | https://github.com/Puliczek/CVE-2021-21123-PoC-Google-Chrome | Insufficient data validation in File System API in Google Chrome prior to 88.0.4324.96 allowed a remote attacker to bypass filesystem restrictions via a crafted HTML page.| 
+| 20210323T09:15:49Z | CVE-2021-3156 | Sudo Baron Samedit Exploit | https://github.com/worawit/CVE-2021-3156 | Sudo before 1.9.5p2 contains an off-by-one error that can result in a heap-based buffer overflow, which allows privilege escalation to root via %sudoedit -s% and a command-line argument that ends with a single backslash character.| 
+| 20210323T09:06:28Z | CVE-2021-22986 | CVE-2021-22986 & F5 BIG-IP RCE | https://github.com/Al1ex/CVE-2021-22986 | 未查询到CVE信息| 
+| 20210323T07:37:50Z | CVE-2021-26855 | analytics ProxyLogo Mail exchange RCE | https://github.com/hictf/CVE-2021-26855-CVE-2021-27065 | Microsoft Exchange Server Remote Code Execution Vulnerability This CVE ID is unique from CVE-2021-26412, CVE-2021-26854, CVE-2021-26857, CVE-2021-26858, CVE-2021-27065, CVE-2021-27078.| 
+| 20210323T02:46:33Z | CVE-2021-22986 | CVE-2021-22986 Checker Script in Python3 | https://github.com/ZephrFish/CVE-2021-22986_Check | 未查询到CVE信息| 
 | 20210322T16:49:58Z | CVE-2021-22986 | F5 BIG-IP/BIG-IQ iControl Rest API SSRF to RCE | https://github.com/Udyz/CVE-2021-22986-SSRF2RCE | 未查询到CVE信息| 
-| 20210322T15:31:08Z | CVE-2021-22986 | CVE-2021-22986 & F5 BIG-IP RCE | https://github.com/Al1ex/CVE-2021-22986 | 未查询到CVE信息| 
 | 20210322T09:28:19Z | 未知编号 | Null | https://github.com/feihong-cs/Attacking_Shiro_with_CVE_2020_2555 | 未查询到CVE信息| 
 | 20210322T07:53:50Z | CVE-2021-22986 | F5 BIG-IP/BIG-IQ iControl Rest API SSRF to RCE | https://github.com/Udyz/CVE-2021-22986 | 未查询到CVE信息| 
 | 20210322T06:44:07Z | cve-2021-3019 | lanproxy(CVE-2021-3019)目录遍历 | https://github.com/Aoyuh/cve-2021-3019 | ffay lanproxy 0.1 allows Directory Traversal to read /../conf/config.properties to obtain credentials for a connection to the intranet.| 
 | 20210322T01:32:01Z | CVE-2021-22986 | This is a Poc for BIGIP iControl unauth RCE  | https://github.com/dorkerdevil/CVE-2021-22986-Poc | 未查询到CVE信息| 
-| 20210321T20:59:48Z | CVE-2020-0022 | CVE-2020-0022 vulnerability exploitation on Bouygues BBox Miami (Android TV 8.0 - ARM32 Cortex A9) | https://github.com/Polo35/CVE-2020-0022 | In reassemble_and_dispatch of packet_fragmenter.cc, there is possible out of bounds write due to an incorrect bounds calculation. This could lead to remote code execution over Bluetooth with no additional execution privileges needed. User interaction is not needed for exploitation.Product: AndroidVersions: Android-8.0 Android-8.1 Android-9 Android-10Android ID: A-143894715| 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210323T01:01:58Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 的 Klee One 的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 344 | 8| 
+| 20210323T11:18:14Z | ⬇️ File Upload/sharing application, used by thousands of webmasters since 2007.  | https://github.com/kleeja-official/kleeja | 115 | 34| 
+| 20210323T06:09:36Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 的 Klee One 的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 345 | 8| 
+| 20210323T02:14:51Z | Null | https://github.com/abbykleespie/LAWk7AbbyKleespie.appstudio | 0 | 0| 
 | 20210322T21:36:25Z | Null | https://github.com/klee30810/klee30810 | 1 | 0| 
-| 20210322T19:16:20Z | Null | https://github.com/abbykleespie/LAWk7AbbyKleespie.appstudio | 0 | 0| 
 | 20210322T18:08:48Z | Null | https://github.com/nithinsai263/kleenacademy | 0 | 0| 
 | 20210322T17:10:20Z | Kleene algebra, regular expressions | https://github.com/phadej/kleene | 27 | 1| 
 | 20210322T16:57:50Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1651 | 485| 
 | 20210322T15:15:21Z | RVT is a collection of tools/libraries to support both static and dynamic verification of Rust programs. | https://github.com/project-oak/rust-verification-tools | 112 | 9| 
 | 20210322T00:36:52Z | Git Blog | https://github.com/klee30810/klee30810.github.io | 0 | 0| 
 | 20210320T03:09:41Z | Null | https://github.com/DonaldKLee/DonaldKLee | 0 | 0| 
-| 20210318T21:22:29Z | Null | https://github.com/TheBeehive/kleene | 0 | 0| 
 
 
 # s2e on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210323T09:51:18Z | Your S2E project management tools. Visit https://s2e.systems/docs to get started. | https://github.com/S2E/s2e-env | 72 | 30| 
+| 20210323T09:48:56Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 104 | 24| 
 | 20210322T13:32:13Z | with the technique of Opencv, we try to achieve traffic identification. | https://github.com/wpfeder/Opencv_traffic_s2e | 0 | 0| 
-| 20210321T00:57:39Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 103 | 24| 
 | 20210313T20:42:17Z | Source of Sonic Eclipse, a romhack of Sonic 2 for Sega Master System circa 2018. http://sonicresearch.org/community/index.php?threads/sonic-eclipse.5524/ | https://github.com/mrcat-pixel/s2eclipse | 3 | 0| 
 | 20210306T11:03:45Z | Master Thesis %Decentralised Location-Based Reputation Management System in IoT using Blockchain% - Experiment S2 region covering in Golang | https://github.com/ponlawat-w/uji_mt-s2encoding | 0 | 0| 
 
@@ -85,31 +86,31 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210323T02:11:10Z | Null | https://github.com/h4x0r-dz/RCE-Exploit-in-BIG-IP | 124 | 53| 
-| 20210323T02:06:15Z | ok | https://github.com/UILibrary1/Eclipsis-Exploit | 0 | 0| 
-| 20210323T02:02:27Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 11 | 6| 
-| 20210323T01:50:15Z | Official PyTorch implementation of %Puzzle Mix: Exploiting Saliency and Local Statistics for Optimal Mixup% (ICML%20) | https://github.com/snu-mllab/PuzzleMix | 68 | 6| 
-| 20210323T00:57:25Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9175 | 1478| 
-| 20210323T00:50:30Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 9 | 5| 
-| 20210323T00:31:57Z | Null | https://github.com/SammyKrosoft/Exchange-Vulnerability-02March2021-HAFNIUM-targeting-Exchange-Servers-with-0-day-exploits | 1 | 1| 
-| 20210323T00:20:18Z | All the Lua scripts I developed, including exploit scripts (please only use those for educational purposes) | https://github.com/NubH4x/Scripts | 0 | 0| 
-| 20210323T00:13:01Z | An %Old Man of the Sea% based exploit on PHP | https://github.com/rondeo-balos/oms | 0 | 0| 
-| 20210323T00:12:14Z | A selection of rebuilt and from scratch exploits, scripts and ideas that can be used in red-teaming scenarios. | https://github.com/H4rk3nz0/PenTesting | 0 | 0| 
+| 20210323T12:00:35Z | A Swagger API Exploit | https://github.com/lijiejie/swagger-exp | 87 | 8| 
+| 20210323T11:53:05Z | A python console framework used for the creation of payloads, listeners and to exploit vulnerable machines. All in one! | https://github.com/RodrigoCabaco/Joipsploit-Framework | 0 | 0| 
+| 20210323T11:46:24Z | This bash script will help you to hack remote hosts  | https://github.com/FabioDefilippo/linuxallremote | 10 | 1| 
+| 20210323T11:35:12Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9176 | 1478| 
+| 20210323T11:30:10Z | Race condition exploit for Exploit Education Nebula Level 10 | https://github.com/marcoboehrs/nebula_level10 | 0 | 0| 
+| 20210323T11:16:35Z | PS4 exploit host for 6.72. 7.02, 7.5x with 100% success rate. | https://github.com/jhaik13/PS4 | 0 | 0| 
+| 20210323T11:02:29Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 11 | 6| 
+| 20210323T11:00:28Z | courses, exploits and lots of code, as i am currently preparing for this exam, i will keep updating everthing i learned or coded here | https://github.com/kainesmicheal/OSWE | 1 | 1| 
+| 20210323T10:49:48Z | Waterball%s Uber. A Uber-like (Car-Hailing APP) microservice implementation using Java Spring Boot, exploiting the design methodologies: clean architecture / domain driven design / TDD. | https://github.com/Johnny850807/Waber | 1 | 1| 
+| 20210323T10:48:09Z | Null | https://github.com/0x616c6578/Exploit-Research | 0 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210322T20:36:06Z | TrojanZoo provides a universal pytorch platform to conduct security researches (especially backdoor attacks/defenses) of image classification in deep learning. | https://github.com/ain-soph/trojanzoo | 53 | 9| 
+| 20210323T11:43:53Z | TrojanZoo provides a universal pytorch platform to conduct security researches (especially backdoor attacks/defenses) of image classification in deep learning. | https://github.com/ain-soph/trojanzoo | 54 | 9| 
+| 20210323T10:41:01Z | Simple backdoor using lib python%s socket and subprocess for Windows | https://github.com/NoNameoN-A/Backdoor-Client-Server-Socket-Python | 0 | 0| 
+| 20210323T09:06:02Z | Null | https://github.com/3vil-8unny/backdoor-APK | 0 | 0| 
+| 20210323T08:59:14Z | Protect your server against backdoors. | https://github.com/Xalalau/backdoor-shield | 1 | 0| 
 | 20210322T16:25:26Z | UEFI driver that installs backdoor reachable from usermode on Windows | https://github.com/mathisvickie/efi-backdoor | 1 | 0| 
-| 20210322T15:48:50Z | Simple backdoor using lib python%s socket | https://github.com/NoNameoN-A/Backdoor-Client-Server-Socket-Python | 0 | 0| 
 | 20210322T10:59:06Z | FUD cross-platform python2 backdoor with C2 | https://github.com/7h3w4lk3r/pyback | 17 | 5| 
 | 20210322T09:30:36Z | Remote Shell Backdoor V.1.0 | https://github.com/naufalardhani/remote-shell-backdoor | 0 | 1| 
 | 20210322T08:58:40Z | Wurst+2 No rat no backdoor | https://github.com/Turkishinqq/Wurst-2 | 1 | 0| 
 | 20210322T08:43:30Z | supervised reverse tcp backdoor and localhost listener backdoor | https://github.com/karangejo/elixir-backdoor | 0 | 0| 
 | 20210322T04:50:39Z | A simple back door scanner tool made using c++ | https://github.com/krishpranav/backdoorscanner | 0 | 0| 
-| 20210322T04:39:28Z | An easy tool to reset cpanel password when you can%t upload backdoor to server. This tool will be useful only if the password reset feature on cpanel is activated. | https://github.com/naufalardhani/cpanel-pass-reset | 0 | 0| 
-| 20210322T03:04:53Z | A backdoor wrote in Java. (Only for educational purposes! Use at your own risk.) | https://github.com/PulseBeat02/Among-Us-Backdoor | 0 | 0| 
 
 
 # fuzz on Github 推荐
