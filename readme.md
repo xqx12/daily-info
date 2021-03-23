@@ -99,10 +99,10 @@
 | 20210322T22:03:09Z | The fastest Intel-PT decoder for fuzzing | https://github.com/nyx-fuzz/libxdc | 160 | 24| 
 | 20210322T21:43:12Z | An application to predict hand-drawn 2D shapes by an user, using neural network & fuzzy logic, master project done with @xenonCBU, @mirceacs, @andreio16 | https://github.com/ST4NSB/neuro-fuzzy-geometric-shape-recognition | 0 | 0| 
 | 20210322T21:38:24Z | A cross-platform browser fuzzing framework | https://github.com/MozillaSecurity/grizzly | 234 | 31| 
-| 20210322T21:35:04Z | Null | https://github.com/VeriBlock/fuzz-corpus | 0 | 1| 
 | 20210322T21:08:27Z | Personal website of Laurence Hughes | https://github.com/fuzzylogicxx/fuzzylogic | 4 | 1| 
 | 20210322T21:00:53Z | Null | https://github.com/matusf/open-api-fuzzer | 1 | 0| 
 | 20210322T20:59:58Z | Atividade feita para a aula de Inteligência Computacional | https://github.com/BrunoPivoto/AtividadeFuzzy | 0 | 0| 
+| 20210322T20:56:09Z | A mutation-based fuzzing engine for MQTT brokers. | https://github.com/PBearson/MosquittoByte | 0 | 0| 
 
 
 

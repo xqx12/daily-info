@@ -115,6 +115,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210323T01:55:23Z | Null | https://github.com/VeriBlock/fuzz-corpus | 0 | 1| 
 | 20210323T01:54:17Z | HTTP Fuzzer backed with Machine Learning | https://github.com/karust/ml_http_fuzzer | 0 | 0| 
 | 20210323T00:39:34Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2292 | 120| 
 | 20210323T00:29:48Z | Group 4C Fuzzy Logic Medieval Chess AI Senior Project | https://github.com/arizonagranger/SeniorProjectFuzzyLogicChess | 1 | 1| 
@@ -124,7 +125,6 @@
 | 20210322T22:03:09Z | The fastest Intel-PT decoder for fuzzing | https://github.com/nyx-fuzz/libxdc | 160 | 24| 
 | 20210322T21:43:12Z | An application to predict hand-drawn 2D shapes by an user, using neural network & fuzzy logic, master project done with @xenonCBU, @mirceacs, @andreio16 | https://github.com/ST4NSB/neuro-fuzzy-geometric-shape-recognition | 0 | 0| 
 | 20210322T21:38:24Z | A cross-platform browser fuzzing framework | https://github.com/MozillaSecurity/grizzly | 234 | 31| 
-| 20210322T21:35:04Z | Null | https://github.com/VeriBlock/fuzz-corpus | 0 | 1| 
 
 
 
