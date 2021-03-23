@@ -93,16 +93,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210322T12:52:23Z | Null | https://github.com/AdaLogics/go-fuzz-headers | 0 | 1| 
-| 20210322T12:40:57Z | Null | https://github.com/VeriBlock/fuzz-corpus | 0 | 1| 
-| 20210322T12:24:46Z | Null | https://github.com/yash756/fuzzy-invention | 0 | 0| 
-| 20210322T12:10:26Z | Jan%s Fuzzy System (JFS) | https://github.com/inniyah/jfs-fuzzy | 0 | 0| 
-| 20210322T11:58:32Z | Towards fuzzing ROS 2 automatically | https://github.com/JnxF/automatic_fuzzing | 0 | 0| 
-| 20210322T11:39:04Z | Null | https://github.com/HeyuWang/fuzzy_world_search_scheme | 0 | 0| 
-| 20210322T11:19:58Z | Null | https://github.com/Fuzzy2319/Fuzzy2319 | 0 | 0| 
-| 20210322T11:00:55Z | Null | https://github.com/prathameshpbhat/fuzzysearch | 0 | 0| 
-| 20210322T10:50:42Z | rushugh | https://github.com/Kampouse/fuzzy-journey | 0 | 0| 
-| 20210322T10:46:48Z | CSFuzz: Call Sequence-based Greybox Fuzzing Tool | https://github.com/csfuzz/CSFuzz | 0 | 0| 
+| 20210322T23:41:18Z | Null | https://github.com/s9varesc/url-fuzzing | 0 | 0| 
+| 20210322T23:36:11Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6104 | 1239| 
+| 20210322T23:28:34Z | Fuzzster - fuzzy matching web application | https://github.com/datahappy1/go_fuzzymatch_webapp | 0 | 0| 
+| 20210322T22:03:09Z | The fastest Intel-PT decoder for fuzzing | https://github.com/nyx-fuzz/libxdc | 160 | 24| 
+| 20210322T21:43:12Z | An application to predict hand-drawn 2D shapes by an user, using neural network & fuzzy logic, master project done with @xenonCBU, @mirceacs, @andreio16 | https://github.com/ST4NSB/neuro-fuzzy-geometric-shape-recognition | 0 | 0| 
+| 20210322T21:38:24Z | A cross-platform browser fuzzing framework | https://github.com/MozillaSecurity/grizzly | 234 | 31| 
+| 20210322T21:35:04Z | Null | https://github.com/VeriBlock/fuzz-corpus | 0 | 1| 
+| 20210322T21:08:27Z | Personal website of Laurence Hughes | https://github.com/fuzzylogicxx/fuzzylogic | 4 | 1| 
+| 20210322T21:00:53Z | Null | https://github.com/matusf/open-api-fuzzer | 1 | 0| 
+| 20210322T20:59:58Z | Atividade feita para a aula de Inteligência Computacional | https://github.com/BrunoPivoto/AtividadeFuzzy | 0 | 0| 
 
 
 
