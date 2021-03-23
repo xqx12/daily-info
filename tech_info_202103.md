@@ -85,8 +85,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210323T00:10:51Z | An %Old Man of the Sea% based exploit on PHP | https://github.com/rondeo-balos/oms | 0 | 0| 
-| 20210323T00:06:19Z | A selection of rebuilt and from scratch exploits, scripts and ideas that can be used in red-teaming scenarios. | https://github.com/H4rk3nz0/PenTesting | 0 | 0| 
+| 20210323T00:13:01Z | An %Old Man of the Sea% based exploit on PHP | https://github.com/rondeo-balos/oms | 0 | 0| 
+| 20210323T00:12:14Z | A selection of rebuilt and from scratch exploits, scripts and ideas that can be used in red-teaming scenarios. | https://github.com/H4rk3nz0/PenTesting | 0 | 0| 
 | 20210323T00:04:24Z | PS1 savegame exploit using THPS3 | https://github.com/socram8888/tonyhax | 140 | 4| 
 | 20210323T00:02:32Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 11 | 6| 
 | 20210322T23:51:49Z | A CTF web app designed to teach software developers application security by showcasing what vulnerable code looks like, how to write code to exploit the vulnerability, and how to write code to patch the vulnerability. | https://github.com/neumaneuma/appseccheat.codes | 1 | 0| 
