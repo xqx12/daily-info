@@ -52,13 +52,13 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210323T12:02:38Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 11 | 6| 
 | 20210323T12:00:35Z | A Swagger API Exploit | https://github.com/lijiejie/swagger-exp | 87 | 8| 
 | 20210323T11:53:05Z | A python console framework used for the creation of payloads, listeners and to exploit vulnerable machines. All in one! | https://github.com/RodrigoCabaco/Joipsploit-Framework | 0 | 0| 
 | 20210323T11:46:24Z | This bash script will help you to hack remote hosts  | https://github.com/FabioDefilippo/linuxallremote | 10 | 1| 
 | 20210323T11:35:12Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9176 | 1478| 
 | 20210323T11:30:10Z | Race condition exploit for Exploit Education Nebula Level 10 | https://github.com/marcoboehrs/nebula_level10 | 0 | 0| 
 | 20210323T11:16:35Z | PS4 exploit host for 6.72. 7.02, 7.5x with 100% success rate. | https://github.com/jhaik13/PS4 | 0 | 0| 
-| 20210323T11:02:29Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 11 | 6| 
 | 20210323T11:00:28Z | courses, exploits and lots of code, as i am currently preparing for this exam, i will keep updating everthing i learned or coded here | https://github.com/kainesmicheal/OSWE | 1 | 1| 
 | 20210323T10:49:48Z | Waterball%s Uber. A Uber-like (Car-Hailing APP) microservice implementation using Java Spring Boot, exploiting the design methodologies: clean architecture / domain driven design / TDD. | https://github.com/Johnny850807/Waber | 1 | 1| 
 | 20210323T10:48:09Z | Null | https://github.com/0x616c6578/Exploit-Research | 0 | 0| 
