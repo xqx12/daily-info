@@ -52,8 +52,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210323T12:37:46Z | Multi camera gathering and exploiting tool | https://github.com/M0tHs3C/Argo | 21 | 14| 
-| 20210323T12:37:25Z | A Swagger API Exploit | https://github.com/lijiejie/swagger-exp | 91 | 9| 
+| 20210323T12:39:14Z | Multi camera gathering and exploiting tool | https://github.com/M0tHs3C/Argo | 21 | 14| 
+| 20210323T12:37:25Z | A Swagger API Exploit | https://github.com/lijiejie/swagger-exp | 91 | 10| 
 | 20210323T12:34:26Z | Null | https://github.com/OmahaCentralCybersecurity/Web-Applications-and-Exploits | 0 | 0| 
 | 20210323T12:19:32Z | This bash script will help you to hack remote hosts  | https://github.com/FabioDefilippo/linuxallremote | 10 | 1| 
 | 20210323T12:14:09Z | A selection of rebuilt and from scratch exploits, scripts and ideas that can be used in red-teaming scenarios. | https://github.com/H4rk3nz0/PenTesting | 1 | 0| 
