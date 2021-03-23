@@ -33,7 +33,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20210322T18:36:36Z | CVE-2021-21123 | Null | https://github.com/Puliczek/CVE-2021-21123-PoC-Google-Chrome | | 
+| 20210322T18:36:36Z | CVE-2021-21123 | Null | https://github.com/Puliczek/CVE-2021-21123-PoC-Google-Chrome | Insufficient data validation in File System API in Google Chrome prior to 88.0.4324.96 allowed a remote attacker to bypass filesystem restrictions via a crafted HTML page.| 
 | 20210322T16:49:58Z | CVE-2021-22986 | F5 BIG-IP/BIG-IQ iControl Rest API SSRF to RCE | https://github.com/Udyz/CVE-2021-22986-SSRF2RCE | 未查询到CVE信息| 
 | 20210322T15:31:08Z | CVE-2021-22986 | CVE-2021-22986 & F5 BIG-IP RCE | https://github.com/Al1ex/CVE-2021-22986 | 未查询到CVE信息| 
 | 20210322T14:46:20Z | CVE-2021-3156 | Sudo Baron Samedit Exploit | https://github.com/worawit/CVE-2021-3156 | Sudo before 1.9.5p2 contains an off-by-one error that can result in a heap-based buffer overflow, which allows privilege escalation to root via %sudoedit -s% and a command-line argument that ends with a single backslash character.| 
@@ -52,7 +52,6 @@
 | 20210322T17:10:20Z | Kleene algebra, regular expressions | https://github.com/phadej/kleene | 27 | 1| 
 | 20210322T16:57:50Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1651 | 485| 
 | 20210322T15:15:21Z | RVT is a collection of tools/libraries to support both static and dynamic verification of Rust programs. | https://github.com/project-oak/rust-verification-tools | 112 | 9| 
-| 20210322T10:31:03Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 的 Klee One 的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 343 | 8| 
 | 20210322T00:36:52Z | Git Blog | https://github.com/klee30810/klee30810.github.io | 0 | 0| 
 
 

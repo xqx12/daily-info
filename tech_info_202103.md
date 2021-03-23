@@ -46,7 +46,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20210322T18:36:36Z | CVE-2021-21123 | Null | https://github.com/Puliczek/CVE-2021-21123-PoC-Google-Chrome | | 
+| 20210322T18:36:36Z | CVE-2021-21123 | Null | https://github.com/Puliczek/CVE-2021-21123-PoC-Google-Chrome | Insufficient data validation in File System API in Google Chrome prior to 88.0.4324.96 allowed a remote attacker to bypass filesystem restrictions via a crafted HTML page.| 
 | 20210322T16:49:58Z | CVE-2021-22986 | F5 BIG-IP/BIG-IQ iControl Rest API SSRF to RCE | https://github.com/Udyz/CVE-2021-22986-SSRF2RCE | 未查询到CVE信息| 
 | 20210322T15:31:08Z | CVE-2021-22986 | CVE-2021-22986 & F5 BIG-IP RCE | https://github.com/Al1ex/CVE-2021-22986 | 未查询到CVE信息| 
 | 20210322T14:46:20Z | CVE-2021-3156 | Sudo Baron Samedit Exploit | https://github.com/worawit/CVE-2021-3156 | Sudo before 1.9.5p2 contains an off-by-one error that can result in a heap-based buffer overflow, which allows privilege escalation to root via %sudoedit -s% and a command-line argument that ends with a single backslash character.| 
@@ -61,13 +61,13 @@
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210323T01:01:58Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 的 Klee One 的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 344 | 8| 
 | 20210322T21:36:25Z | Null | https://github.com/klee30810/klee30810 | 1 | 0| 
 | 20210322T19:16:20Z | Null | https://github.com/abbykleespie/LAWk7AbbyKleespie.appstudio | 0 | 0| 
 | 20210322T18:08:48Z | Null | https://github.com/nithinsai263/kleenacademy | 0 | 0| 
 | 20210322T17:10:20Z | Kleene algebra, regular expressions | https://github.com/phadej/kleene | 27 | 1| 
 | 20210322T16:57:50Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1651 | 485| 
 | 20210322T15:15:21Z | RVT is a collection of tools/libraries to support both static and dynamic verification of Rust programs. | https://github.com/project-oak/rust-verification-tools | 112 | 9| 
-| 20210322T10:31:03Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 的 Klee One 的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 343 | 8| 
 | 20210322T00:36:52Z | Git Blog | https://github.com/klee30810/klee30810.github.io | 0 | 0| 
 | 20210320T03:09:41Z | Null | https://github.com/DonaldKLee/DonaldKLee | 0 | 0| 
 | 20210318T21:22:29Z | Null | https://github.com/TheBeehive/kleene | 0 | 0| 
@@ -85,6 +85,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210323T01:02:31Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 11 | 6| 
 | 20210323T00:57:25Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9175 | 1478| 
 | 20210323T00:50:30Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 9 | 5| 
 | 20210323T00:31:57Z | Null | https://github.com/SammyKrosoft/Exchange-Vulnerability-02March2021-HAFNIUM-targeting-Exchange-Servers-with-0-day-exploits | 1 | 1| 
@@ -92,7 +93,6 @@
 | 20210323T00:13:01Z | An %Old Man of the Sea% based exploit on PHP | https://github.com/rondeo-balos/oms | 0 | 0| 
 | 20210323T00:12:14Z | A selection of rebuilt and from scratch exploits, scripts and ideas that can be used in red-teaming scenarios. | https://github.com/H4rk3nz0/PenTesting | 0 | 0| 
 | 20210323T00:04:24Z | PS1 savegame exploit using THPS3 | https://github.com/socram8888/tonyhax | 140 | 4| 
-| 20210323T00:02:32Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 11 | 6| 
 | 20210322T23:51:49Z | A CTF web app designed to teach software developers application security by showcasing what vulnerable code looks like, how to write code to exploit the vulnerability, and how to write code to patch the vulnerability. | https://github.com/neumaneuma/appseccheat.codes | 1 | 0| 
 | 20210322T22:36:56Z | Null | https://github.com/h4x0r-dz/RCE-Exploit-in-BIG-IP | 120 | 53| 
 
