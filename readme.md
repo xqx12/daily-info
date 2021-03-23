@@ -29,7 +29,7 @@
 | --- | --- | --- | --- | ---| 
 | 20210323T11:55:44Z | CVE-2021-21123 | Null | https://github.com/Puliczek/CVE-2021-21123-PoC-Google-Chrome | Insufficient data validation in File System API in Google Chrome prior to 88.0.4324.96 allowed a remote attacker to bypass filesystem restrictions via a crafted HTML page.| 
 | 20210323T09:15:49Z | CVE-2021-3156 | Sudo Baron Samedit Exploit | https://github.com/worawit/CVE-2021-3156 | Sudo before 1.9.5p2 contains an off-by-one error that can result in a heap-based buffer overflow, which allows privilege escalation to root via %sudoedit -s% and a command-line argument that ends with a single backslash character.| 
-| 20210323T09:06:28Z | CVE-2021-22986 | CVE-2021-22986 & F5 BIG-IP RCE | https://github.com/Al1ex/CVE-2021-22986 | | 
+| 20210323T09:06:28Z | CVE-2021-22986 | CVE-2021-22986 & F5 BIG-IP RCE | https://github.com/Al1ex/CVE-2021-22986 | 未查询到CVE信息| 
 | 20210323T07:37:50Z | CVE-2021-26855 | analytics ProxyLogo Mail exchange RCE | https://github.com/hictf/CVE-2021-26855-CVE-2021-27065 | Microsoft Exchange Server Remote Code Execution Vulnerability This CVE ID is unique from CVE-2021-26412, CVE-2021-26854, CVE-2021-26857, CVE-2021-26858, CVE-2021-27065, CVE-2021-27078.| 
 | 20210323T02:46:33Z | CVE-2021-22986 | CVE-2021-22986 Checker Script in Python3 | https://github.com/ZephrFish/CVE-2021-22986_Check | 未查询到CVE信息| 
 
@@ -52,8 +52,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210323T12:05:20Z | A Swagger API Exploit | https://github.com/lijiejie/swagger-exp | 88 | 8| 
 | 20210323T12:02:38Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 11 | 6| 
-| 20210323T12:00:35Z | A Swagger API Exploit | https://github.com/lijiejie/swagger-exp | 87 | 8| 
 | 20210323T11:53:05Z | A python console framework used for the creation of payloads, listeners and to exploit vulnerable machines. All in one! | https://github.com/RodrigoCabaco/Joipsploit-Framework | 0 | 0| 
 | 20210323T11:46:24Z | This bash script will help you to hack remote hosts  | https://github.com/FabioDefilippo/linuxallremote | 10 | 1| 
 | 20210323T11:35:12Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9176 | 1478| 
