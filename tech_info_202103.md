@@ -85,7 +85,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210323T01:51:04Z | Null | https://github.com/h4x0r-dz/RCE-Exploit-in-BIG-IP | 122 | 53| 
+| 20210323T01:55:56Z | Null | https://github.com/h4x0r-dz/RCE-Exploit-in-BIG-IP | 123 | 53| 
 | 20210323T01:50:15Z | Official PyTorch implementation of %Puzzle Mix: Exploiting Saliency and Local Statistics for Optimal Mixup% (ICML%20) | https://github.com/snu-mllab/PuzzleMix | 68 | 6| 
 | 20210323T01:02:31Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 11 | 6| 
 | 20210323T00:57:25Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9175 | 1478| 
