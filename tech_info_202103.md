@@ -101,31 +101,31 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210324T00:59:54Z | Protect your server against backdoors. | https://github.com/Xalalau/backdoor-shield | 1 | 0| 
+| 20210324T10:18:10Z | TrojanZoo provides a universal pytorch platform to conduct security researches (especially backdoor attacks/defenses) of image classification in deep learning. | https://github.com/ain-soph/trojanzoo | 55 | 9| 
+| 20210324T09:23:19Z | Null | https://github.com/3vil-8unny/backdoor-APK | 0 | 0| 
+| 20210324T07:06:23Z | A Simple android remote administration tool using sockets. It uses java on the client side and python on the server side | https://github.com/karma9874/AndroRAT | 189 | 84| 
+| 20210324T02:26:33Z | Protect your server against backdoors. | https://github.com/Xalalau/backdoor-shield | 1 | 0| 
 | 20210324T00:31:07Z | A general-purpose backdoor for ethical hacking. Made with utility in mind. | https://github.com/CMPLXapps/Swordfish | 0 | 0| 
 | 20210323T16:08:52Z | no | https://github.com/ReproLK/Roblox-Backdoor-SS- | 0 | 0| 
-| 20210323T13:27:25Z | TrojanZoo provides a universal pytorch platform to conduct security researches (especially backdoor attacks/defenses) of image classification in deep learning. | https://github.com/ain-soph/trojanzoo | 55 | 9| 
 | 20210323T10:41:01Z | Simple backdoor using lib python%s socket and subprocess for Windows | https://github.com/NoNameoN-A/Backdoor-Client-Server-Socket-Python | 0 | 0| 
-| 20210323T09:06:02Z | Null | https://github.com/3vil-8unny/backdoor-APK | 0 | 0| 
 | 20210322T16:25:26Z | UEFI driver that installs backdoor reachable from usermode on Windows | https://github.com/mathisvickie/efi-backdoor | 1 | 0| 
 | 20210322T10:59:06Z | FUD cross-platform python2 backdoor with C2 | https://github.com/7h3w4lk3r/pyback | 17 | 5| 
 | 20210322T09:30:36Z | Remote Shell Backdoor V.1.0 | https://github.com/naufalardhani/remote-shell-backdoor | 0 | 1| 
-| 20210322T08:58:40Z | Wurst+2 No rat no backdoor | https://github.com/Turkishinqq/Wurst-2 | 1 | 0| 
 
 
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210324T01:24:32Z | Null | https://github.com/kppw99/FuzzBuilderEx | 1 | 0| 
-| 20210324T01:09:47Z | Fuzzy charrs are fuzzy. | https://github.com/marenubium87/FuzzyCharr | 0 | 0| 
-| 20210324T00:43:04Z | FuzzBench - Fuzzer benchmarking as a service. | https://github.com/google/fuzzbench | 613 | 105| 
-| 20210324T00:41:53Z | Null | https://github.com/JackLemere/Fuzzy-Logic-Student-Grades | 0 | 0| 
-| 20210324T00:22:57Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2292 | 120| 
-| 20210324T00:14:15Z | Null | https://github.com/ksdevinney/fuzzy-spork | 0 | 0| 
-| 20210324T00:11:31Z | Scalable fuzzing infrastructure. | https://github.com/google/clusterfuzz | 4470 | 427| 
-| 20210323T23:54:32Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6111 | 1239| 
-| 20210323T23:26:34Z | Null | https://github.com/opimentel-github/fuzzy-torch | 1 | 0| 
-| 20210323T23:22:01Z | Null | https://github.com/GbemisolaB/Fuzzy_Logic | 0 | 0| 
+| 20210324T12:02:13Z | FuzzBuilderEx is a system to build seed corpus and fuzzing executables using the test framework automatically. | https://github.com/kppw99/FuzzBuilderEx | 1 | 0| 
+| 20210324T12:00:00Z | Fuzzster - fuzzy matching web application | https://github.com/datahappy1/go_fuzzymatch_webapp | 0 | 0| 
+| 20210324T11:59:26Z | An add-on filament autochanger for existing 3D printers, in duel-spool configuration. | https://github.com/FuzzyNoodle/Fuzzy-Filament-Autochanger | 0 | 0| 
+| 20210324T11:58:06Z | Null | https://github.com/JohenanLi/AggregateFuzzing | 0 | 0| 
+| 20210324T11:57:20Z | generate contextually sensible fuzz tests for servant apps | https://github.com/mwotton/roboservant | 14 | 5| 
+| 20210324T11:39:41Z | Null | https://github.com/VeriBlock/fuzz-corpus | 0 | 1| 
+| 20210324T10:53:19Z | Coverage-guided, in-process fuzzing for the JVM | https://github.com/CodeIntelligenceTesting/jazzer | 248 | 10| 
+| 20210324T10:23:06Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 1523 | 310| 
+| 20210324T09:16:27Z | Null | https://github.com/seteri111/gnn-fuzz | 0 | 0| 
+| 20210324T09:01:54Z | my paper notes of exploit/fuzz/malware and other interesting research  | https://github.com/noobone123/mySecPaperNotes | 0 | 0| 
 
 
 
