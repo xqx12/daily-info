@@ -54,6 +54,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210324T12:48:05Z | PS4 Exploit list | https://github.com/Hakkuraifu/PS4xploit | 30 | 9| 
 | 20210324T12:41:11Z | Can you beat me! | https://github.com/Summeli/tic-tac-exploit | 0 | 0| 
 | 20210324T12:40:32Z | Null | https://github.com/OmahaCentralCybersecurity/Web-Applications-and-Exploits | 0 | 0| 
 | 20210324T12:32:15Z | FiveM CitizenFX Exploit | https://github.com/KOSTA51/fivem-exploit | 0 | 0| 
@@ -63,7 +64,6 @@
 | 20210324T12:08:02Z | PS1 savegame exploit using THPS3 | https://github.com/socram8888/tonyhax | 189 | 4| 
 | 20210324T12:02:44Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 12 | 6| 
 | 20210324T11:49:53Z | Just a temporary website to post my ctf writeups and journey into binary exploitation/malware analysis/exploit development | https://github.com/blackbeard666/blackbeard666.github.io | 0 | 0| 
-| 20210324T11:47:05Z | Vulnerabilities exploitation examples, python | https://github.com/cocomelonc/vulnexipy | 5 | 1| 
 
 
 # backdoor on Github 推荐
