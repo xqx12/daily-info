@@ -54,7 +54,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210324T12:55:35Z | Can you beat me! | https://github.com/Summeli/tic-tac-exploit | 0 | 0| 
+| 20210324T12:57:32Z | Can you beat me! | https://github.com/Summeli/tic-tac-exploit | 0 | 0| 
 | 20210324T12:50:30Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 9 | 5| 
 | 20210324T12:50:09Z | Null | https://github.com/CyberCommands/exploit-proxylogon | 0 | 0| 
 | 20210324T12:49:01Z | FiveM CitizenFX Exploit | https://github.com/KOSTA51/fivem-exploit | 0 | 0| 
