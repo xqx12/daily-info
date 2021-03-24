@@ -54,8 +54,9 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210324T12:29:11Z | Can you beat me! | https://github.com/Summeli/tic-tac-exploit | 0 | 0| 
+| 20210324T12:28:53Z | Just a temporary website to post my ctf writeups and journey into binary/android exploitation/malware analysis/exploit development | https://github.com/blackbeard666/pwn_exhibit | 3 | 1| 
 | 20210324T12:22:10Z | Argus is a novel RDMA-assisted job scheduler which achieves high resource utilization by fully exploiting the structure feature of stage dependency. Comprehensive experiments using large-scale traces collected from real world show that Argus reduces job completion time and job makespan by 21% and 20%, respectively, compared to RDMA-Spark. | https://github.com/CGCL-codes/Argus | 0 | 0| 
-| 20210324T12:22:02Z | Can you beat me! | https://github.com/Summeli/tic-tac-exploit | 0 | 0| 
 | 20210324T12:08:02Z | PS1 savegame exploit using THPS3 | https://github.com/socram8888/tonyhax | 189 | 4| 
 | 20210324T12:02:44Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 12 | 6| 
 | 20210324T11:49:53Z | Just a temporary website to post my ctf writeups and journey into binary exploitation/malware analysis/exploit development | https://github.com/blackbeard666/blackbeard666.github.io | 0 | 0| 
@@ -63,7 +64,6 @@
 | 20210324T11:45:54Z | PS4 Exploit list | https://github.com/Hakkuraifu/PS4xploit | 30 | 9| 
 | 20210324T11:35:14Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9181 | 1479| 
 | 20210324T11:33:23Z | More Stable Offline Exploit version of PS4 6.72 Jailbreak. | https://github.com/DarkModderVC/PS4JB | 111 | 40| 
-| 20210324T11:26:26Z | PS4 Exploits 6.72-7.55 | https://github.com/Buzbee/Buzbee2 | 1 | 0| 
 
 
 # backdoor on Github 推荐
