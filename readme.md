@@ -17,27 +17,35 @@
 | 20210323 | Process Hollowing 进程注入在 Windows 系统的实现与检测方法 | https://www.winitor.com/pdf/Windows-Process-Hollowing.pdf| 
 | 20210323 | 恶意软件分析教程资料 | https://sec.today/pulses/5ef4a506-bcec-44a4-89e6-f9723549c49e/| 
 | 20210323 | 恶意软件分析教程资料 | https://github.com/hasherezade/malware_training_vol1| 
+| 20210323 | 针对黑客组织 Kek Security的恶意软件溯源。 | https://paper.seebug.org/1520/| 
 
 
 # 安全维基 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20210323 | 模型可解释性在保险理赔反欺诈中的实践 | https://mp.weixin.qq.com/s/7Qa4PZCXARqEK-iphVPTjA| 
+| 20210323 | 2020年联网智能设备安全态势报告 | https://mp.weixin.qq.com/s/GdSgHNTLjysqow4ka8tY7w| 
+| 20210323 | 实践之后，我们来谈谈如何做好威胁建模 | https://mp.weixin.qq.com/s/kNfTBoeFu90QPvYbPcR_OQ| 
+| 20210323 | RemRAT潜伏在中东多年的Android间谍软件 | https://mp.weixin.qq.com/s/RhM2qUxDWTyykCbSW6e8SQ| 
+| 20210323 | 《人民检察院办理网络犯罪案件规定》的理解与适用 | https://mp.weixin.qq.com/s/VshK6oANVI_skfjuGEUHSw| 
 
 
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20210323T12:35:51Z | CVE-2021-21123 | Null | https://github.com/Puliczek/CVE-2021-21123-PoC-Google-Chrome | Insufficient data validation in File System API in Google Chrome prior to 88.0.4324.96 allowed a remote attacker to bypass filesystem restrictions via a crafted HTML page.| 
-| 20210323T09:15:49Z | CVE-2021-3156 | Sudo Baron Samedit Exploit | https://github.com/worawit/CVE-2021-3156 | Sudo before 1.9.5p2 contains an off-by-one error that can result in a heap-based buffer overflow, which allows privilege escalation to root via %sudoedit -s% and a command-line argument that ends with a single backslash character.| 
+| 20210323T23:51:33Z | CVE-2021-26295 | Null | https://github.com/yumusb/CVE-2021-26295-POC | | 
+| 20210323T23:09:53Z | CVE-2021-21123 | Null | https://github.com/Puliczek/CVE-2021-21123-PoC-Google-Chrome | Insufficient data validation in File System API in Google Chrome prior to 88.0.4324.96 allowed a remote attacker to bypass filesystem restrictions via a crafted HTML page.| 
+| 20210323T21:25:23Z | CVE-2021-3156 | Sudo Baron Samedit Exploit | https://github.com/worawit/CVE-2021-3156 | Sudo before 1.9.5p2 contains an off-by-one error that can result in a heap-based buffer overflow, which allows privilege escalation to root via %sudoedit -s% and a command-line argument that ends with a single backslash character.| 
+| 20210323T19:02:32Z | CVE-2021-26855 | analytics ProxyLogo Mail exchange RCE | https://github.com/hictf/CVE-2021-26855-CVE-2021-27065 | Microsoft Exchange Server Remote Code Execution Vulnerability This CVE ID is unique from CVE-2021-26412, CVE-2021-26854, CVE-2021-26857, CVE-2021-26858, CVE-2021-27065, CVE-2021-27078.| 
 | 20210323T09:06:28Z | CVE-2021-22986 | CVE-2021-22986 & F5 BIG-IP RCE | https://github.com/Al1ex/CVE-2021-22986 | 未查询到CVE信息| 
-| 20210323T07:37:50Z | CVE-2021-26855 | analytics ProxyLogo Mail exchange RCE | https://github.com/hictf/CVE-2021-26855-CVE-2021-27065 | Microsoft Exchange Server Remote Code Execution Vulnerability This CVE ID is unique from CVE-2021-26412, CVE-2021-26854, CVE-2021-26857, CVE-2021-26858, CVE-2021-27065, CVE-2021-27078.| 
 | 20210323T02:46:33Z | CVE-2021-22986 | CVE-2021-22986 Checker Script in Python3 | https://github.com/ZephrFish/CVE-2021-22986_Check | 未查询到CVE信息| 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210323T11:18:14Z | ⬇️ File Upload/sharing application, used by thousands of webmasters since 2007.  | https://github.com/kleeja-official/kleeja | 115 | 34| 
+| 20210323T19:00:34Z | Scripts to see what errors have been reached in the RERS problems by AFL and KLEE | https://github.com/TCatshoek/AISTRTestcaseEvaluator | 0 | 0| 
+| 20210323T13:02:50Z | ⬇️ File Upload/sharing application, used by thousands of webmasters since 2007.  | https://github.com/kleeja-official/kleeja | 115 | 34| 
 | 20210323T06:09:36Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 的 Klee One 的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 345 | 8| 
 | 20210323T02:14:51Z | Null | https://github.com/abbykleespie/LAWk7AbbyKleespie.appstudio | 0 | 0| 
 
@@ -52,16 +60,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210323T12:50:32Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 9 | 5| 
-| 20210323T12:47:56Z | Exploit Development on my road to OSCP | https://github.com/macosta-42/Exploit-Development | 0 | 0| 
-| 20210323T12:46:45Z | Null | https://github.com/OmahaCentralCybersecurity/Web-Applications-and-Exploits | 0 | 0| 
-| 20210323T12:41:42Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9177 | 1478| 
-| 20210323T12:39:14Z | Multi camera gathering and exploiting tool | https://github.com/M0tHs3C/Argo | 21 | 14| 
-| 20210323T12:37:25Z | A Swagger API Exploit | https://github.com/lijiejie/swagger-exp | 91 | 10| 
-| 20210323T12:19:32Z | This bash script will help you to hack remote hosts  | https://github.com/FabioDefilippo/linuxallremote | 10 | 1| 
-| 20210323T12:14:09Z | A selection of rebuilt and from scratch exploits, scripts and ideas that can be used in red-teaming scenarios. | https://github.com/H4rk3nz0/PenTesting | 1 | 0| 
-| 20210323T12:02:38Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 11 | 6| 
-| 20210323T11:53:05Z | A python console framework used for the creation of payloads, listeners and to exploit vulnerable machines. All in one! | https://github.com/RodrigoCabaco/Joipsploit-Framework | 0 | 0| 
+| 20210323T23:48:55Z | Hello, this is a write-up for a form of a ret2libc ROP attack, which is used to bypass a exploit mitigation, known as NX for linux and DEP for windows. | https://github.com/NopSIed/Ret2sys-Exploit-Write-up | 0 | 0| 
+| 20210323T23:34:44Z | Automated solver of classic CTF pwn challenges, with flexibility in mind. | https://github.com/mariuszskon/autorop | 4 | 0| 
+| 20210323T23:14:35Z | Pown.js is a security testing an exploitation toolkit built on top of Node.js and NPM. | https://github.com/pownjs/pown | 200 | 25| 
+| 20210323T23:02:28Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 12 | 6| 
+| 20210323T22:42:40Z | Python scripts to parse the Exploit-DB RSS Feed | https://github.com/sduig/Exploit-DB-RSS-Feed-Parser | 0 | 0| 
+| 20210323T22:21:07Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9179 | 1479| 
+| 20210323T22:20:25Z | PS4 Exploit list | https://github.com/Hakkuraifu/PS4xploit | 30 | 9| 
+| 20210323T21:31:22Z | A single-core implementation of a cache timing side channel attack making use of the Prime+Probe exploit. | https://github.com/Incapamentum/Single-Core_CacheTiming-SideChannel | 0 | 0| 
+| 20210323T21:14:25Z | ok | https://github.com/UILibrary1/Eclipsis-Exploit | 0 | 0| 
+| 20210323T21:04:19Z | A Monaco fork for Roblox exploiting. All functions from LuaU and custom executor functions are present with documentation. | https://github.com/EthanMcBloxxer/Rosploco | 0 | 0| 
 
 
 # backdoor on Github 推荐
