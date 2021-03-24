@@ -37,7 +37,7 @@
 | 20210323T21:25:23Z | CVE-2021-3156 | Sudo Baron Samedit Exploit | https://github.com/worawit/CVE-2021-3156 | Sudo before 1.9.5p2 contains an off-by-one error that can result in a heap-based buffer overflow, which allows privilege escalation to root via %sudoedit -s% and a command-line argument that ends with a single backslash character.| 
 | 20210323T19:02:32Z | CVE-2021-26855 | analytics ProxyLogo Mail exchange RCE | https://github.com/hictf/CVE-2021-26855-CVE-2021-27065 | Microsoft Exchange Server Remote Code Execution Vulnerability This CVE ID is unique from CVE-2021-26412, CVE-2021-26854, CVE-2021-26857, CVE-2021-26858, CVE-2021-27065, CVE-2021-27078.| 
 | 20210323T09:06:28Z | CVE-2021-22986 | CVE-2021-22986 & F5 BIG-IP RCE | https://github.com/Al1ex/CVE-2021-22986 | 未查询到CVE信息| 
-| 20210323T02:46:33Z | CVE-2021-22986 | CVE-2021-22986 Checker Script in Python3 | https://github.com/ZephrFish/CVE-2021-22986_Check | 未查询到CVE信息| 
+| 20210323T02:46:33Z | CVE-2021-22986 | CVE-2021-22986 Checker Script in Python3 | https://github.com/ZephrFish/CVE-2021-22986_Check | | 
 
 
 # klee on Github 推荐
@@ -84,7 +84,6 @@
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
 | 20210323T23:54:32Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6111 | 1239| 
-| 20210323T23:43:24Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2292 | 120| 
 | 20210323T23:26:34Z | Null | https://github.com/opimentel-github/fuzzy-torch | 1 | 0| 
 | 20210323T23:22:01Z | Null | https://github.com/GbemisolaB/Fuzzy_Logic | 0 | 0| 
 | 20210323T23:16:21Z | Coverage-guided, in-process fuzzing for the JVM | https://github.com/CodeIntelligenceTesting/jazzer | 247 | 10| 
@@ -93,6 +92,7 @@
 | 20210323T22:42:41Z | 2012 - Fuzzy regex pattern matching and capturing. | https://github.com/ZGorlock/FuzzyRegex | 1 | 0| 
 | 20210323T22:35:36Z | Null | https://github.com/VeriBlock/fuzz-corpus | 0 | 1| 
 | 20210323T22:11:33Z | Fuzzster - fuzzy matching web application | https://github.com/datahappy1/go_fuzzymatch_webapp | 0 | 0| 
+| 20210323T22:06:11Z | Null | https://github.com/AdaLogics/go-fuzz-headers | 0 | 1| 
 
 
 

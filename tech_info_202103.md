@@ -51,11 +51,11 @@
 | 20210323T21:25:23Z | CVE-2021-3156 | Sudo Baron Samedit Exploit | https://github.com/worawit/CVE-2021-3156 | Sudo before 1.9.5p2 contains an off-by-one error that can result in a heap-based buffer overflow, which allows privilege escalation to root via %sudoedit -s% and a command-line argument that ends with a single backslash character.| 
 | 20210323T19:02:32Z | CVE-2021-26855 | analytics ProxyLogo Mail exchange RCE | https://github.com/hictf/CVE-2021-26855-CVE-2021-27065 | Microsoft Exchange Server Remote Code Execution Vulnerability This CVE ID is unique from CVE-2021-26412, CVE-2021-26854, CVE-2021-26857, CVE-2021-26858, CVE-2021-27065, CVE-2021-27078.| 
 | 20210323T09:06:28Z | CVE-2021-22986 | CVE-2021-22986 & F5 BIG-IP RCE | https://github.com/Al1ex/CVE-2021-22986 | 未查询到CVE信息| 
-| 20210323T02:46:33Z | CVE-2021-22986 | CVE-2021-22986 Checker Script in Python3 | https://github.com/ZephrFish/CVE-2021-22986_Check | 未查询到CVE信息| 
+| 20210323T02:46:33Z | CVE-2021-22986 | CVE-2021-22986 Checker Script in Python3 | https://github.com/ZephrFish/CVE-2021-22986_Check | | 
 | 20210322T16:49:58Z | CVE-2021-22986 | F5 BIG-IP/BIG-IQ iControl Rest API SSRF to RCE | https://github.com/Udyz/CVE-2021-22986-SSRF2RCE | 未查询到CVE信息| 
 | 20210322T09:28:19Z | 未知编号 | Null | https://github.com/feihong-cs/Attacking_Shiro_with_CVE_2020_2555 | 未查询到CVE信息| 
 | 20210322T07:53:50Z | CVE-2021-22986 | F5 BIG-IP/BIG-IQ iControl Rest API SSRF to RCE | https://github.com/Udyz/CVE-2021-22986 | 未查询到CVE信息| 
-| 20210322T06:44:07Z | cve-2021-3019 | lanproxy(CVE-2021-3019)目录遍历 | https://github.com/Aoyuh/cve-2021-3019 | | 
+| 20210322T06:44:07Z | cve-2021-3019 | lanproxy(CVE-2021-3019)目录遍历 | https://github.com/Aoyuh/cve-2021-3019 | ffay lanproxy 0.1 allows Directory Traversal to read /../conf/config.properties to obtain credentials for a connection to the intranet.| 
 
 
 # klee on Github 推荐
@@ -116,16 +116,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210324T01:09:47Z | Fuzzy charrs are fuzzy. | https://github.com/marenubium87/FuzzyCharr | 0 | 0| 
+| 20210324T00:46:43Z | Null | https://github.com/kppw99/FuzzBuilderEx | 1 | 0| 
+| 20210324T00:43:04Z | FuzzBench - Fuzzer benchmarking as a service. | https://github.com/google/fuzzbench | 613 | 105| 
+| 20210324T00:41:53Z | Null | https://github.com/JackLemere/Fuzzy-Logic-Student-Grades | 0 | 0| 
+| 20210324T00:22:57Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2292 | 120| 
 | 20210324T00:14:15Z | Null | https://github.com/ksdevinney/fuzzy-spork | 0 | 0| 
 | 20210324T00:11:31Z | Scalable fuzzing infrastructure. | https://github.com/google/clusterfuzz | 4470 | 427| 
-| 20210324T00:10:06Z | Null | https://github.com/kppw99/FuzzBuilderEx | 1 | 0| 
-| 20210324T00:04:32Z | Null | https://github.com/JackLemere/Fuzzy-Logic-Student-Grades | 0 | 0| 
 | 20210323T23:54:32Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6111 | 1239| 
-| 20210323T23:43:24Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2292 | 120| 
 | 20210323T23:26:34Z | Null | https://github.com/opimentel-github/fuzzy-torch | 1 | 0| 
 | 20210323T23:22:01Z | Null | https://github.com/GbemisolaB/Fuzzy_Logic | 0 | 0| 
-| 20210323T23:16:21Z | Coverage-guided, in-process fuzzing for the JVM | https://github.com/CodeIntelligenceTesting/jazzer | 247 | 10| 
-| 20210323T22:53:41Z | Null | https://github.com/Sunilstha16/fuzzy-telegram | 0 | 0| 
 
 
 
