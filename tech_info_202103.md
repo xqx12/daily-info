@@ -48,10 +48,10 @@
 | --- | --- | --- | --- | ---| 
 | 20210324T00:28:34Z | CVE-2021-26295 | Null | https://github.com/yumusb/CVE-2021-26295-POC | Apache OFBiz has unsafe deserialization prior to 17.12.06. An unauthenticated attacker can use this vulnerability to successfully take over Apache OFBiz.| 
 | 20210323T23:09:53Z | CVE-2021-21123 | Null | https://github.com/Puliczek/CVE-2021-21123-PoC-Google-Chrome | Insufficient data validation in File System API in Google Chrome prior to 88.0.4324.96 allowed a remote attacker to bypass filesystem restrictions via a crafted HTML page.| 
-| 20210323T21:25:23Z | CVE-2021-3156 | Sudo Baron Samedit Exploit | https://github.com/worawit/CVE-2021-3156 | Sudo before 1.9.5p2 contains an off-by-one error that can result in a heap-based buffer overflow, which allows privilege escalation to root via %sudoedit -s% and a command-line argument that ends with a single backslash character.| 
+| 20210323T21:25:23Z | CVE-2021-3156 | Sudo Baron Samedit Exploit | https://github.com/worawit/CVE-2021-3156 | | 
 | 20210323T19:02:32Z | CVE-2021-26855 | analytics ProxyLogo Mail exchange RCE | https://github.com/hictf/CVE-2021-26855-CVE-2021-27065 | Microsoft Exchange Server Remote Code Execution Vulnerability This CVE ID is unique from CVE-2021-26412, CVE-2021-26854, CVE-2021-26857, CVE-2021-26858, CVE-2021-27065, CVE-2021-27078.| 
 | 20210323T09:06:28Z | CVE-2021-22986 | CVE-2021-22986 & F5 BIG-IP RCE | https://github.com/Al1ex/CVE-2021-22986 | 未查询到CVE信息| 
-| 20210323T02:46:33Z | CVE-2021-22986 | CVE-2021-22986 Checker Script in Python3 | https://github.com/ZephrFish/CVE-2021-22986_Check | 未查询到CVE信息| 
+| 20210323T02:46:33Z | CVE-2021-22986 | CVE-2021-22986 Checker Script in Python3 | https://github.com/ZephrFish/CVE-2021-22986_Check | | 
 | 20210322T16:49:58Z | CVE-2021-22986 | F5 BIG-IP/BIG-IQ iControl Rest API SSRF to RCE | https://github.com/Udyz/CVE-2021-22986-SSRF2RCE | 未查询到CVE信息| 
 | 20210322T09:28:19Z | 未知编号 | Null | https://github.com/feihong-cs/Attacking_Shiro_with_CVE_2020_2555 | 未查询到CVE信息| 
 | 20210322T07:53:50Z | CVE-2021-22986 | F5 BIG-IP/BIG-IQ iControl Rest API SSRF to RCE | https://github.com/Udyz/CVE-2021-22986 | 未查询到CVE信息| 
@@ -86,10 +86,10 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210324T01:24:11Z | Vulnerability Scanner & Auto Exploiter You can use this tool to check the security by finding the vulnerability in your website or you can use this tool to Get Shells | https://github.com/X-x-X-0/Vulnnr | 7 | 0| 
-| 20210324T01:18:47Z | Sécurité des logiciels et exploitation de vulnérabilités | https://github.com/ppepos/inf600c | 4 | 1| 
+| 20210324T01:26:19Z | Sécurité des logiciels et exploitation de vulnérabilités | https://github.com/ppepos/inf600c | 4 | 1| 
+| 20210324T01:26:10Z | Vulnerability Scanner & Auto Exploiter You can use this tool to check the security by finding the vulnerability in your website or you can use this tool to Get Shells | https://github.com/X-x-X-0/Vulnnr | 7 | 0| 
+| 20210324T01:24:50Z | A single-core implementation of a cache timing side channel attack making use of the Prime+Probe exploit. | https://github.com/Incapamentum/Single-Core_CacheTiming-SideChannel | 0 | 0| 
 | 20210324T01:18:03Z | This privesc exploits the systemctl service to allow you to gain root access without password or authentication. Just type %bash -p% to get root shell | https://github.com/BlackBatman1980/Linux-Privesc | 0 | 0| 
-| 20210324T01:09:00Z | A single-core implementation of a cache timing side channel attack making use of the Prime+Probe exploit. | https://github.com/Incapamentum/Single-Core_CacheTiming-SideChannel | 0 | 0| 
 | 20210324T01:05:10Z | 7.02 Exploit Menu | https://github.com/Lesking72/ps4 | 0 | 0| 
 | 20210324T01:02:28Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 12 | 6| 
 | 20210324T00:50:30Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 9 | 5| 
@@ -116,8 +116,8 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210324T01:24:32Z | Null | https://github.com/kppw99/FuzzBuilderEx | 1 | 0| 
 | 20210324T01:09:47Z | Fuzzy charrs are fuzzy. | https://github.com/marenubium87/FuzzyCharr | 0 | 0| 
-| 20210324T00:46:43Z | Null | https://github.com/kppw99/FuzzBuilderEx | 1 | 0| 
 | 20210324T00:43:04Z | FuzzBench - Fuzzer benchmarking as a service. | https://github.com/google/fuzzbench | 613 | 105| 
 | 20210324T00:41:53Z | Null | https://github.com/JackLemere/Fuzzy-Logic-Student-Grades | 0 | 0| 
 | 20210324T00:22:57Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2292 | 120| 
