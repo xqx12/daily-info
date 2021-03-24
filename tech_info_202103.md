@@ -48,7 +48,7 @@
 | --- | --- | --- | --- | ---| 
 | 20210323T23:51:33Z | CVE-2021-26295 | Null | https://github.com/yumusb/CVE-2021-26295-POC | Apache OFBiz has unsafe deserialization prior to 17.12.06. An unauthenticated attacker can use this vulnerability to successfully take over Apache OFBiz.| 
 | 20210323T23:09:53Z | CVE-2021-21123 | Null | https://github.com/Puliczek/CVE-2021-21123-PoC-Google-Chrome | Insufficient data validation in File System API in Google Chrome prior to 88.0.4324.96 allowed a remote attacker to bypass filesystem restrictions via a crafted HTML page.| 
-| 20210323T21:25:23Z | CVE-2021-3156 | Sudo Baron Samedit Exploit | https://github.com/worawit/CVE-2021-3156 | | 
+| 20210323T21:25:23Z | CVE-2021-3156 | Sudo Baron Samedit Exploit | https://github.com/worawit/CVE-2021-3156 | Sudo before 1.9.5p2 contains an off-by-one error that can result in a heap-based buffer overflow, which allows privilege escalation to root via %sudoedit -s% and a command-line argument that ends with a single backslash character.| 
 | 20210323T19:02:32Z | CVE-2021-26855 | analytics ProxyLogo Mail exchange RCE | https://github.com/hictf/CVE-2021-26855-CVE-2021-27065 | Microsoft Exchange Server Remote Code Execution Vulnerability This CVE ID is unique from CVE-2021-26412, CVE-2021-26854, CVE-2021-26857, CVE-2021-26858, CVE-2021-27065, CVE-2021-27078.| 
 | 20210323T09:06:28Z | CVE-2021-22986 | CVE-2021-22986 & F5 BIG-IP RCE | https://github.com/Al1ex/CVE-2021-22986 | 未查询到CVE信息| 
 | 20210323T02:46:33Z | CVE-2021-22986 | CVE-2021-22986 Checker Script in Python3 | https://github.com/ZephrFish/CVE-2021-22986_Check | 未查询到CVE信息| 
@@ -116,6 +116,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210324T00:14:15Z | Null | https://github.com/ksdevinney/fuzzy-spork | 0 | 0| 
 | 20210324T00:11:31Z | Scalable fuzzing infrastructure. | https://github.com/google/clusterfuzz | 4470 | 427| 
 | 20210324T00:10:06Z | Null | https://github.com/kppw99/FuzzBuilderEx | 1 | 0| 
 | 20210324T00:04:32Z | Null | https://github.com/JackLemere/Fuzzy-Logic-Student-Grades | 0 | 0| 
@@ -125,7 +126,6 @@
 | 20210323T23:22:01Z | Null | https://github.com/GbemisolaB/Fuzzy_Logic | 0 | 0| 
 | 20210323T23:16:21Z | Coverage-guided, in-process fuzzing for the JVM | https://github.com/CodeIntelligenceTesting/jazzer | 247 | 10| 
 | 20210323T22:53:41Z | Null | https://github.com/Sunilstha16/fuzzy-telegram | 0 | 0| 
-| 20210323T22:52:37Z | Null | https://github.com/rr1469/fuzzy-telegram | 0 | 0| 
 
 
 
