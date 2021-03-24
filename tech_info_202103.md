@@ -50,12 +50,12 @@
 | 20210324T11:49:39Z | CVE-2021-22986 | F5 BIG-IP/BIG-IQ iControl Rest API SSRF to RCE | https://github.com/Udyz/CVE-2021-22986-SSRF2RCE | 未查询到CVE信息| 
 | 20210324T11:31:44Z | CVE-2021-21123 | Null | https://github.com/Puliczek/CVE-2021-21123-PoC-Google-Chrome | Insufficient data validation in File System API in Google Chrome prior to 88.0.4324.96 allowed a remote attacker to bypass filesystem restrictions via a crafted HTML page.| 
 | 20210324T10:40:31Z | CVE-2021-26295 | CVE-2021-26295 EXP 可成功反弹Shell | https://github.com/r0ckysec/CVE-2021-26295 | Apache OFBiz has unsafe deserialization prior to 17.12.06. An unauthenticated attacker can use this vulnerability to successfully take over Apache OFBiz.| 
-| 20210324T10:39:36Z | CVE-2021-26855 | Microsoft Exchange Proxylogon Exploit Chain EXP分析 | https://github.com/r0ckysec/CVE-2021-26855_Exchange | | 
+| 20210324T10:39:36Z | CVE-2021-26855 | Microsoft Exchange Proxylogon Exploit Chain EXP分析 | https://github.com/r0ckysec/CVE-2021-26855_Exchange | Microsoft Exchange Server Remote Code Execution Vulnerability This CVE ID is unique from CVE-2021-26412, CVE-2021-26854, CVE-2021-26857, CVE-2021-26858, CVE-2021-27065, CVE-2021-27078.| 
 | 20210324T09:45:05Z | CVE-2021-3156 | Sudo Baron Samedit Exploit | https://github.com/worawit/CVE-2021-3156 | Sudo before 1.9.5p2 contains an off-by-one error that can result in a heap-based buffer overflow, which allows privilege escalation to root via %sudoedit -s% and a command-line argument that ends with a single backslash character.| 
 | 20210324T09:01:13Z | CVE-2021-26295 | CVE-2021-26295 Apache OFBiz rmi反序列化POC | https://github.com/rakjong/CVE-2021-26295-Apache-OFBiz | Apache OFBiz has unsafe deserialization prior to 17.12.06. An unauthenticated attacker can use this vulnerability to successfully take over Apache OFBiz.| 
 | 20210324T04:56:04Z | CVE-2021-26295 | Null | https://github.com/yumusb/CVE-2021-26295-POC | Apache OFBiz has unsafe deserialization prior to 17.12.06. An unauthenticated attacker can use this vulnerability to successfully take over Apache OFBiz.| 
 | 20210323T19:02:32Z | CVE-2021-26855 | analytics ProxyLogo Mail exchange RCE | https://github.com/hictf/CVE-2021-26855-CVE-2021-27065 | Microsoft Exchange Server Remote Code Execution Vulnerability This CVE ID is unique from CVE-2021-26412, CVE-2021-26854, CVE-2021-26857, CVE-2021-26858, CVE-2021-27065, CVE-2021-27078.| 
-| 20210323T02:46:33Z | CVE-2021-22986 | CVE-2021-22986 Checker Script in Python3 | https://github.com/ZephrFish/CVE-2021-22986_Check | 未查询到CVE信息| 
+| 20210323T02:46:33Z | CVE-2021-22986 | CVE-2021-22986 Checker Script in Python3 | https://github.com/ZephrFish/CVE-2021-22986_Check | | 
 
 
 # klee on Github 推荐
@@ -86,8 +86,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210324T12:03:21Z | PS1 savegame exploit using THPS3 | https://github.com/socram8888/tonyhax | 188 | 4| 
 | 20210324T12:02:44Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 12 | 6| 
-| 20210324T11:59:05Z | PS1 savegame exploit using THPS3 | https://github.com/socram8888/tonyhax | 188 | 4| 
 | 20210324T11:49:53Z | Just a temporary website to post my ctf writeups and journey into binary exploitation/malware analysis/exploit development | https://github.com/blackbeard666/blackbeard666.github.io | 0 | 0| 
 | 20210324T11:47:05Z | Vulnerabilities exploitation examples, python | https://github.com/cocomelonc/vulnexipy | 5 | 1| 
 | 20210324T11:45:54Z | PS4 Exploit list | https://github.com/Hakkuraifu/PS4xploit | 30 | 9| 
@@ -116,7 +116,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210324T12:05:23Z | An add-on filament autochanger for existing 3D printers, in duel-spool configuration. | https://github.com/FuzzyNoodle/Fuzzy-Filament-Autochanger | 0 | 0| 
+| 20210324T12:06:05Z | An add-on filament autochanger for existing 3D printers, in duel-spool configuration. | https://github.com/FuzzyNoodle/Fuzzy-Filament-Autochanger | 0 | 0| 
 | 20210324T12:05:15Z | FuzzBuilderEx is a system to build seed corpus and fuzzing executables using the test framework automatically. | https://github.com/kppw99/FuzzBuilderEx | 1 | 0| 
 | 20210324T12:00:00Z | Fuzzster - fuzzy matching web application | https://github.com/datahappy1/go_fuzzymatch_webapp | 0 | 0| 
 | 20210324T11:58:06Z | Null | https://github.com/JohenanLi/AggregateFuzzing | 0 | 0| 
