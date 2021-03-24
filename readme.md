@@ -75,7 +75,6 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210323T23:37:31Z | Protect your server against backdoors. | https://github.com/Xalalau/backdoor-shield | 1 | 0| 
 | 20210323T19:09:09Z | A general-purpose backdoor for ethical hacking. Made with utility in mind. | https://github.com/CMPLXapps/Swordfish | 0 | 0| 
 | 20210323T16:08:52Z | no | https://github.com/ReproLK/Roblox-Backdoor-SS- | 0 | 0| 
 | 20210323T13:27:25Z | TrojanZoo provides a universal pytorch platform to conduct security researches (especially backdoor attacks/defenses) of image classification in deep learning. | https://github.com/ain-soph/trojanzoo | 55 | 9| 
