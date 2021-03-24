@@ -48,14 +48,14 @@
 | --- | --- | --- | --- | ---| 
 | 20210323T23:51:33Z | CVE-2021-26295 | Null | https://github.com/yumusb/CVE-2021-26295-POC | Apache OFBiz has unsafe deserialization prior to 17.12.06. An unauthenticated attacker can use this vulnerability to successfully take over Apache OFBiz.| 
 | 20210323T23:09:53Z | CVE-2021-21123 | Null | https://github.com/Puliczek/CVE-2021-21123-PoC-Google-Chrome | Insufficient data validation in File System API in Google Chrome prior to 88.0.4324.96 allowed a remote attacker to bypass filesystem restrictions via a crafted HTML page.| 
-| 20210323T21:25:23Z | CVE-2021-3156 | Sudo Baron Samedit Exploit | https://github.com/worawit/CVE-2021-3156 | Sudo before 1.9.5p2 contains an off-by-one error that can result in a heap-based buffer overflow, which allows privilege escalation to root via %sudoedit -s% and a command-line argument that ends with a single backslash character.| 
+| 20210323T21:25:23Z | CVE-2021-3156 | Sudo Baron Samedit Exploit | https://github.com/worawit/CVE-2021-3156 | | 
 | 20210323T19:02:32Z | CVE-2021-26855 | analytics ProxyLogo Mail exchange RCE | https://github.com/hictf/CVE-2021-26855-CVE-2021-27065 | Microsoft Exchange Server Remote Code Execution Vulnerability This CVE ID is unique from CVE-2021-26412, CVE-2021-26854, CVE-2021-26857, CVE-2021-26858, CVE-2021-27065, CVE-2021-27078.| 
 | 20210323T09:06:28Z | CVE-2021-22986 | CVE-2021-22986 & F5 BIG-IP RCE | https://github.com/Al1ex/CVE-2021-22986 | 未查询到CVE信息| 
 | 20210323T02:46:33Z | CVE-2021-22986 | CVE-2021-22986 Checker Script in Python3 | https://github.com/ZephrFish/CVE-2021-22986_Check | 未查询到CVE信息| 
 | 20210322T16:49:58Z | CVE-2021-22986 | F5 BIG-IP/BIG-IQ iControl Rest API SSRF to RCE | https://github.com/Udyz/CVE-2021-22986-SSRF2RCE | 未查询到CVE信息| 
 | 20210322T09:28:19Z | 未知编号 | Null | https://github.com/feihong-cs/Attacking_Shiro_with_CVE_2020_2555 | 未查询到CVE信息| 
 | 20210322T07:53:50Z | CVE-2021-22986 | F5 BIG-IP/BIG-IQ iControl Rest API SSRF to RCE | https://github.com/Udyz/CVE-2021-22986 | 未查询到CVE信息| 
-| 20210322T06:44:07Z | cve-2021-3019 | lanproxy(CVE-2021-3019)目录遍历 | https://github.com/Aoyuh/cve-2021-3019 | | 
+| 20210322T06:44:07Z | cve-2021-3019 | lanproxy(CVE-2021-3019)目录遍历 | https://github.com/Aoyuh/cve-2021-3019 | ffay lanproxy 0.1 allows Directory Traversal to read /../conf/config.properties to obtain credentials for a connection to the intranet.| 
 
 
 # klee on Github 推荐
@@ -86,6 +86,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210324T00:11:55Z | PS4 Exploits 5.05-7.55 | https://github.com/Buzbee/Buzbee.github.io | 0 | 0| 
 | 20210324T00:02:32Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 12 | 6| 
 | 20210323T23:48:55Z | Hello, this is a write-up for a form of a ret2libc ROP attack, which is used to bypass a exploit mitigation, known as NX for linux and DEP for windows. | https://github.com/NopSIed/Ret2sys-Exploit-Write-up | 0 | 0| 
 | 20210323T23:34:44Z | Automated solver of classic CTF pwn challenges, with flexibility in mind. | https://github.com/mariuszskon/autorop | 4 | 0| 
@@ -95,7 +96,6 @@
 | 20210323T22:20:25Z | PS4 Exploit list | https://github.com/Hakkuraifu/PS4xploit | 30 | 9| 
 | 20210323T21:31:22Z | A single-core implementation of a cache timing side channel attack making use of the Prime+Probe exploit. | https://github.com/Incapamentum/Single-Core_CacheTiming-SideChannel | 0 | 0| 
 | 20210323T21:14:25Z | ok | https://github.com/UILibrary1/Eclipsis-Exploit | 0 | 0| 
-| 20210323T21:04:19Z | A Monaco fork for Roblox exploiting. All functions from LuaU and custom executor functions are present with documentation. | https://github.com/EthanMcBloxxer/Rosploco | 0 | 0| 
 
 
 # backdoor on Github 推荐
