@@ -75,25 +75,27 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210323T11:43:53Z | TrojanZoo provides a universal pytorch platform to conduct security researches (especially backdoor attacks/defenses) of image classification in deep learning. | https://github.com/ain-soph/trojanzoo | 54 | 9| 
+| 20210323T23:37:31Z | Protect your server against backdoors. | https://github.com/Xalalau/backdoor-shield | 1 | 0| 
+| 20210323T19:09:09Z | A general-purpose backdoor for ethical hacking. Made with utility in mind. | https://github.com/CMPLXapps/Swordfish | 0 | 0| 
+| 20210323T16:08:52Z | no | https://github.com/ReproLK/Roblox-Backdoor-SS- | 0 | 0| 
+| 20210323T13:27:25Z | TrojanZoo provides a universal pytorch platform to conduct security researches (especially backdoor attacks/defenses) of image classification in deep learning. | https://github.com/ain-soph/trojanzoo | 55 | 9| 
 | 20210323T10:41:01Z | Simple backdoor using lib python%s socket and subprocess for Windows | https://github.com/NoNameoN-A/Backdoor-Client-Server-Socket-Python | 0 | 0| 
 | 20210323T09:06:02Z | Null | https://github.com/3vil-8unny/backdoor-APK | 0 | 0| 
-| 20210323T08:59:14Z | Protect your server against backdoors. | https://github.com/Xalalau/backdoor-shield | 1 | 0| 
 
 
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210323T12:39:19Z | FormatFuzzer is a framework for high-efficiency, high-quality generation and parsing of binary inputs. | https://github.com/uds-se/FormatFuzzer | 118 | 13| 
-| 20210323T12:13:04Z | Null | https://github.com/VeriBlock/fuzz-corpus | 0 | 1| 
-| 20210323T11:41:35Z | Null | https://github.com/s9varesc/url-fuzzing | 1 | 1| 
-| 20210323T11:21:31Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 3414 | 785| 
-| 20210323T11:19:07Z | Research project on Software Technology for WebAssembly WASM (on superoptimization, diversification, fuzzing) | https://github.com/KTH/slumps | 23 | 4| 
-| 20210323T10:55:13Z | Setup scripts for 32bit JavaScriptCore Fuzzing Setup | https://github.com/pmatos/jsc32-fuzz-setup | 0 | 0| 
-| 20210323T10:49:28Z | Null | https://github.com/AdaLogics/go-fuzz-headers | 0 | 1| 
-| 20210323T10:32:28Z | Null | https://github.com/kinzhong/fuzzer-performance-visualiser | 0 | 0| 
-| 20210323T10:21:53Z | Implementation of fuzzers on smart contracts  | https://github.com/sunbeam891/Smart_contract_fuzzing | 0 | 0| 
-| 20210323T10:06:57Z | Null | https://github.com/yash756/fuzzy-invention | 0 | 0| 
+| 20210323T23:54:32Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6111 | 1239| 
+| 20210323T23:43:24Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2292 | 120| 
+| 20210323T23:26:34Z | Null | https://github.com/opimentel-github/fuzzy-torch | 1 | 0| 
+| 20210323T23:22:01Z | Null | https://github.com/GbemisolaB/Fuzzy_Logic | 0 | 0| 
+| 20210323T23:16:21Z | Coverage-guided, in-process fuzzing for the JVM | https://github.com/CodeIntelligenceTesting/jazzer | 247 | 10| 
+| 20210323T22:53:41Z | Null | https://github.com/Sunilstha16/fuzzy-telegram | 0 | 0| 
+| 20210323T22:52:37Z | Null | https://github.com/rr1469/fuzzy-telegram | 0 | 0| 
+| 20210323T22:42:41Z | 2012 - Fuzzy regex pattern matching and capturing. | https://github.com/ZGorlock/FuzzyRegex | 1 | 0| 
+| 20210323T22:35:36Z | Null | https://github.com/VeriBlock/fuzz-corpus | 0 | 1| 
+| 20210323T22:11:33Z | Fuzzster - fuzzy matching web application | https://github.com/datahappy1/go_fuzzymatch_webapp | 0 | 0| 
 
 
 
