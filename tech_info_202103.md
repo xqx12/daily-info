@@ -6,6 +6,15 @@
 # 玄武实验室 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20210324 | 文件传输软件 Accellion 被用于攻击新西兰中央银行 | https://www.schneier.com/blog/archives/2021/03/accellion-supply-chain-hack.html| 
+| 20210324 | PancakesCon 安全会议视频公开了 | https://www.youtube.com/channel/UCAnBQGSBDlEbq11dkAreUGg| 
+| 20210324 | 眼见不一定为实：对电子邮件伪造攻击的大规模分析 | https://mp.weixin.qq.com/s/RPz_1kKuq5--IANwT_Qvvg| 
+| 20210324 | Trail of Bits 对区块链 Compiler 的 Fuzz | https://blog.trailofbits.com/2021/03/23/a-year-in-the-life-of-a-compiler-fuzzing-campaign/| 
+| 20210324 | RemRAT：潜伏在中东多年的Android间谍软件 | https://blogs.360.cn/post/analysis-of-RemRAT.html| 
+| 20210324 | QEMU Heap Overflow in SDHCI Component | https://starlabs.sg/advisories/21-3409/| 
+| 20210324 | 利用侧信道的方式推测出整个 X86-64 指令集 | https://blog.can.ac/2021/03/22/speculating-x86-64-isa-with-one-weird-trick/| 
+| 20210324 | 有研究员整理的各个 EDR 防护软件在各个模块的 Hook API 列表 | https://github.com/Mr-Un1k0d3r/EDRs| 
+| 20210324 | Stealing arbitrary GitHub Actions secrets | https://blog.teddykatz.com/2021/03/17/github-actions-write-access.html| 
 | 20210323 | IDA 7.6 版本发布，开始原生支持 Apple M1 芯片 | https://www.hex-rays.com/blog/ida-7-6-released/| 
 | 20210323 | iOS 安全漏洞研究环境搭建 | http://www.mac4n6.com/blog/2021/3/21/part-3-step-by-step-tooling-for-ios-research-via-bizzybarney| 
 | 20210323 | IP6_EXTHDR_CHECK Double Free 漏洞 Exploit 代码(CVE-2020-9892) | https://gist.github.com/Cryptogenic/448fd98813ab5a93182fb9620c013e17| 
@@ -17,50 +26,43 @@
 | 20210323 | Process Hollowing 进程注入在 Windows 系统的实现与检测方法 | https://www.winitor.com/pdf/Windows-Process-Hollowing.pdf| 
 | 20210323 | 恶意软件分析教程资料 | https://sec.today/pulses/5ef4a506-bcec-44a4-89e6-f9723549c49e/| 
 | 20210323 | 恶意软件分析教程资料 | https://github.com/hasherezade/malware_training_vol1| 
-| 20210323 | 针对黑客组织 Kek Security的恶意软件溯源。 | https://paper.seebug.org/1520/| 
-| 20210322 | medusa - 基于 FRIDA 实现的 Java 动态二进制插桩框架，目标场景是恶意软件 Trace | https://github.com/Ch0pin/medusa| 
-| 20210322 | 智能 LED 应用 Magic Home Pro 被发现存在认证 Bypass 漏洞（CVE-2020-27199） | https://9lyph.github.io/CVE-2020-27199/| 
-| 20210322 | APT 攻击者利用反向代理扫描内网 | https://www.varonis.com/blog/nmap-reverse-proxies/?utm_content=158497201&utm_medium=social&utm_source=twitter&hss_channel=tw-21672993| 
-| 20210322 | The Road Towards 365 Bugs in Microsoft Office 365 | https://slides.com/mscasharjaved/the-road-towards-365-bugs-in-microsoft-office-365| 
-| 20210322 | Apache Log4j 1.2.X Server 的测试 HTTP Server 存在 RCE 漏洞 | https://0xsapra.github.io/website/CVE-2019-17571| 
-| 20210322 | 日本 CERT 称朝鲜 APT 组织 Lazarus 正在攻击日本企业 | https://blogs.jpcert.or.jp/en/2021/03/Lazarus_malware3.html| 
-| 20210322 | F5 从认证绕过到远程代码执行漏洞分析 | https://blog.riskivy.com/f5%E4%BB%8E%E8%AE%A4%E8%AF%81%E7%BB%95%E8%BF%87%E5%88%B0%E8%BF%9C%E7%A8%8B%E4%BB%A3%E7%A0%81%E6%89%A7%E8%A1%8C%E6%BC%8F%E6%B4%9E%E5%88%86%E6%9E%90/| 
-| 20210322 | Chrome V8 issue 1126249 Exploit 代码 | https://gist.github.com/hkraw/5ba2df87925fb7de8acc3c4bcec4774e| 
 
 
 # 安全维基 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20210324 | 硬核黑客笔记 - 怒吼吧电磁波 (上) | https://mp.weixin.qq.com/s/SUjjKY_TIj10rpQW9tkH9A| 
+| 20210324 | 技术分享 , 域渗透AdminSDHolder | https://mp.weixin.qq.com/s/beFGjQ2zCzjwwwuHXlih2A| 
+| 20210324 | 利用字符集编码绕过waf的burp插件 | https://github.com/GuoKerS/Charset_encoding-Burp| 
+| 20210324 | Driftingblues3靶机渗透 | https://www.sec-in.com/article/967| 
 | 20210323 | 模型可解释性在保险理赔反欺诈中的实践 | https://mp.weixin.qq.com/s/7Qa4PZCXARqEK-iphVPTjA| 
 | 20210323 | 2020年联网智能设备安全态势报告 | https://mp.weixin.qq.com/s/GdSgHNTLjysqow4ka8tY7w| 
 | 20210323 | 实践之后，我们来谈谈如何做好威胁建模 | https://mp.weixin.qq.com/s/kNfTBoeFu90QPvYbPcR_OQ| 
 | 20210323 | RemRAT潜伏在中东多年的Android间谍软件 | https://mp.weixin.qq.com/s/RhM2qUxDWTyykCbSW6e8SQ| 
 | 20210323 | 《人民检察院办理网络犯罪案件规定》的理解与适用 | https://mp.weixin.qq.com/s/VshK6oANVI_skfjuGEUHSw| 
 | 20210322 | 使用 AWS Lambda 隐藏 C&C 流量 | https://mp.weixin.qq.com/s/F6QcVgSyXz3wwJlRDd8TVQ| 
-| 20210322 | 我是如何低成本建立RapidDNS.io网站的 | https://mp.weixin.qq.com/s/IwpflmaxVar3Vk5AqBmdAA| 
-| 20210322 | HFish初版审计学习 | https://www.sec-in.com/article/949| 
-| 20210322 | 浅谈风控的架构 | https://mp.weixin.qq.com/s/GAeau8TJEWZtrv5CHlSHNQ| 
-| 20210322 | SecWiki周刊（第368期) | https://www.sec-wiki.com/weekly/368| 
 
 
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20210324T01:56:49Z | CVE-2021-26295 | Null | https://github.com/yumusb/CVE-2021-26295-POC | Apache OFBiz has unsafe deserialization prior to 17.12.06. An unauthenticated attacker can use this vulnerability to successfully take over Apache OFBiz.| 
-| 20210324T01:41:14Z | CVE-2021-3156 | Sudo Baron Samedit Exploit | https://github.com/worawit/CVE-2021-3156 | Sudo before 1.9.5p2 contains an off-by-one error that can result in a heap-based buffer overflow, which allows privilege escalation to root via %sudoedit -s% and a command-line argument that ends with a single backslash character.| 
-| 20210323T23:09:53Z | CVE-2021-21123 | Null | https://github.com/Puliczek/CVE-2021-21123-PoC-Google-Chrome | Insufficient data validation in File System API in Google Chrome prior to 88.0.4324.96 allowed a remote attacker to bypass filesystem restrictions via a crafted HTML page.| 
+| 20210324T11:57:42Z | CVE-2021-22986 | CVE-2021-22986 & F5 BIG-IP RCE | https://github.com/Al1ex/CVE-2021-22986 | 未查询到CVE信息| 
+| 20210324T11:49:39Z | CVE-2021-22986 | F5 BIG-IP/BIG-IQ iControl Rest API SSRF to RCE | https://github.com/Udyz/CVE-2021-22986-SSRF2RCE | 未查询到CVE信息| 
+| 20210324T11:31:44Z | CVE-2021-21123 | Null | https://github.com/Puliczek/CVE-2021-21123-PoC-Google-Chrome | Insufficient data validation in File System API in Google Chrome prior to 88.0.4324.96 allowed a remote attacker to bypass filesystem restrictions via a crafted HTML page.| 
+| 20210324T10:40:31Z | CVE-2021-26295 | CVE-2021-26295 EXP 可成功反弹Shell | https://github.com/r0ckysec/CVE-2021-26295 | Apache OFBiz has unsafe deserialization prior to 17.12.06. An unauthenticated attacker can use this vulnerability to successfully take over Apache OFBiz.| 
+| 20210324T10:39:36Z | CVE-2021-26855 | Microsoft Exchange Proxylogon Exploit Chain EXP分析 | https://github.com/r0ckysec/CVE-2021-26855_Exchange | | 
+| 20210324T09:45:05Z | CVE-2021-3156 | Sudo Baron Samedit Exploit | https://github.com/worawit/CVE-2021-3156 | Sudo before 1.9.5p2 contains an off-by-one error that can result in a heap-based buffer overflow, which allows privilege escalation to root via %sudoedit -s% and a command-line argument that ends with a single backslash character.| 
+| 20210324T09:01:13Z | CVE-2021-26295 | CVE-2021-26295 Apache OFBiz rmi反序列化POC | https://github.com/rakjong/CVE-2021-26295-Apache-OFBiz | Apache OFBiz has unsafe deserialization prior to 17.12.06. An unauthenticated attacker can use this vulnerability to successfully take over Apache OFBiz.| 
+| 20210324T04:56:04Z | CVE-2021-26295 | Null | https://github.com/yumusb/CVE-2021-26295-POC | Apache OFBiz has unsafe deserialization prior to 17.12.06. An unauthenticated attacker can use this vulnerability to successfully take over Apache OFBiz.| 
 | 20210323T19:02:32Z | CVE-2021-26855 | analytics ProxyLogo Mail exchange RCE | https://github.com/hictf/CVE-2021-26855-CVE-2021-27065 | Microsoft Exchange Server Remote Code Execution Vulnerability This CVE ID is unique from CVE-2021-26412, CVE-2021-26854, CVE-2021-26857, CVE-2021-26858, CVE-2021-27065, CVE-2021-27078.| 
-| 20210323T09:06:28Z | CVE-2021-22986 | CVE-2021-22986 & F5 BIG-IP RCE | https://github.com/Al1ex/CVE-2021-22986 | 未查询到CVE信息| 
 | 20210323T02:46:33Z | CVE-2021-22986 | CVE-2021-22986 Checker Script in Python3 | https://github.com/ZephrFish/CVE-2021-22986_Check | 未查询到CVE信息| 
-| 20210322T16:49:58Z | CVE-2021-22986 | F5 BIG-IP/BIG-IQ iControl Rest API SSRF to RCE | https://github.com/Udyz/CVE-2021-22986-SSRF2RCE | 未查询到CVE信息| 
-| 20210322T09:28:19Z | 未知编号 | Null | https://github.com/feihong-cs/Attacking_Shiro_with_CVE_2020_2555 | 未查询到CVE信息| 
-| 20210322T07:53:50Z | CVE-2021-22986 | F5 BIG-IP/BIG-IQ iControl Rest API SSRF to RCE | https://github.com/Udyz/CVE-2021-22986 | 未查询到CVE信息| 
-| 20210322T06:44:07Z | cve-2021-3019 | lanproxy(CVE-2021-3019)目录遍历 | https://github.com/Aoyuh/cve-2021-3019 | ffay lanproxy 0.1 allows Directory Traversal to read /../conf/config.properties to obtain credentials for a connection to the intranet.| 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210324T09:34:00Z | Symbiotic is a tool for finding bugs in computer programs based on instrumentation, program slicing and KLEE | https://github.com/staticafi/symbiotic | 212 | 34| 
+| 20210324T05:21:54Z | Git Blog | https://github.com/klee30810/klee30810.github.io | 0 | 0| 
 | 20210323T19:00:34Z | Scripts to see what errors have been reached in the RERS problems by AFL and KLEE | https://github.com/TCatshoek/AISTRTestcaseEvaluator | 0 | 0| 
 | 20210323T13:02:50Z | ⬇️ File Upload/sharing application, used by thousands of webmasters since 2007.  | https://github.com/kleeja-official/kleeja | 115 | 34| 
 | 20210323T06:09:36Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 的 Klee One 的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 345 | 8| 
@@ -68,9 +70,7 @@
 | 20210322T21:36:25Z | Null | https://github.com/klee30810/klee30810 | 1 | 0| 
 | 20210322T18:08:48Z | Null | https://github.com/nithinsai263/kleenacademy | 0 | 0| 
 | 20210322T17:10:20Z | Kleene algebra, regular expressions | https://github.com/phadej/kleene | 27 | 1| 
-| 20210322T16:57:50Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1651 | 485| 
-| 20210322T15:15:21Z | RVT is a collection of tools/libraries to support both static and dynamic verification of Rust programs. | https://github.com/project-oak/rust-verification-tools | 112 | 9| 
-| 20210322T00:36:52Z | Git Blog | https://github.com/klee30810/klee30810.github.io | 0 | 0| 
+| 20210322T16:57:50Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1651 | 486| 
 
 
 # s2e on Github 推荐
@@ -86,16 +86,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210324T01:58:04Z | 🌸 [COMING SOON ... ] - The best and most powerful exploit finder written in Java! 🌸 | https://github.com/blackbinn/nagasaki-rose | 1 | 0| 
-| 20210324T01:55:24Z | Repository for information about 0-days exploited in-the-wild. | https://github.com/googleprojectzero/0days-in-the-wild | 161 | 12| 
-| 20210324T01:54:58Z | Sécurité des logiciels et exploitation de vulnérabilités | https://github.com/ppepos/inf600c | 4 | 1| 
-| 20210324T01:42:40Z | Proof-of-concept exploit for CVE-2021-26855 and CVE-2021-27065. Unauthenticated RCE in Exchange. | https://github.com/praetorian-inc/proxylogon-exploit | 1 | 0| 
-| 20210324T01:26:10Z | Vulnerability Scanner & Auto Exploiter You can use this tool to check the security by finding the vulnerability in your website or you can use this tool to Get Shells | https://github.com/X-x-X-0/Vulnnr | 7 | 0| 
-| 20210324T01:24:50Z | A single-core implementation of a cache timing side channel attack making use of the Prime+Probe exploit. | https://github.com/Incapamentum/Single-Core_CacheTiming-SideChannel | 0 | 0| 
-| 20210324T01:18:03Z | This privesc exploits the systemctl service to allow you to gain root access without password or authentication. Just type %bash -p% to get root shell | https://github.com/BlackBatman1980/Linux-Privesc | 0 | 0| 
-| 20210324T01:05:10Z | 7.02 Exploit Menu | https://github.com/Lesking72/ps4 | 0 | 0| 
-| 20210324T01:02:28Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 12 | 6| 
-| 20210324T00:50:30Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 9 | 5| 
+| 20210324T11:59:05Z | PS1 savegame exploit using THPS3 | https://github.com/socram8888/tonyhax | 188 | 4| 
+| 20210324T11:49:53Z | Just a temporary website to post my ctf writeups and journey into binary exploitation/malware analysis/exploit development | https://github.com/blackbeard666/blackbeard666.github.io | 0 | 0| 
+| 20210324T11:47:05Z | Vulnerabilities exploitation examples, python | https://github.com/cocomelonc/vulnexipy | 5 | 1| 
+| 20210324T11:45:54Z | PS4 Exploit list | https://github.com/Hakkuraifu/PS4xploit | 30 | 9| 
+| 20210324T11:35:14Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9181 | 1479| 
+| 20210324T11:33:23Z | More Stable Offline Exploit version of PS4 6.72 Jailbreak. | https://github.com/DarkModderVC/PS4JB | 111 | 40| 
+| 20210324T11:26:26Z | PS4 Exploits 6.72-7.55 | https://github.com/Buzbee/Buzbee2 | 1 | 0| 
+| 20210324T11:24:05Z | CVE-2017-0100、MS17-012、Eop | https://github.com/cssxn/CVE-2017-0100 | 2 | 1| 
+| 20210324T11:02:29Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 12 | 6| 
+| 20210324T10:52:55Z | Hacking tool that initiates ip  grabbing, scanning the IP then exploiting the possible vulnerabilities present in that IP address. | https://github.com/FonderElite/Euphoria | 3 | 1| 
 
 
 # backdoor on Github 推荐
