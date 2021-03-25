@@ -60,7 +60,6 @@
 | --- | --- | --- | --- | ---| 
 | 20210324T23:45:50Z | A tool to find out which user is running a specific network connection. Useful for privilege escalation, because if we can exploit that network connection, we will have shell as the user running that network connection. | https://github.com/Kx1z0/netconenum | 1 | 0| 
 | 20210324T23:38:45Z | Exploits for some pwn challenges on windows and linux .  | https://github.com/HadiMed/pwn | 0 | 0| 
-| 20210324T23:31:40Z | Simple PoC script that allows you to exploit telegram%s %send with timer% feature by saving any media sent with this functionality. | https://github.com/matteounitn/breaking-telegram | 0 | 0| 
 | 20210324T23:07:54Z | Reconstruction of the Akropolis Delphi reentrancy exploit | https://github.com/ethereumvex/Akropolis-delphi-exploit | 1 | 0| 
 | 20210324T22:58:01Z | Sécurité des logiciels et exploitation de vulnérabilités | https://github.com/ppepos/inf600c | 4 | 1| 
 | 20210324T22:45:15Z | A CTF web app designed to teach software developers application security by showcasing what vulnerable code looks like, how to write code to exploit the vulnerability, and how to write code to patch the vulnerability. | https://github.com/neumaneuma/appseccheat.codes | 1 | 0| 
@@ -68,6 +67,7 @@
 | 20210324T22:04:10Z | Null | https://github.com/LtsTibby/EternalExploit | 0 | 0| 
 | 20210324T21:49:01Z | Hacking tool that initiates ip  grabbing, scanning the IP then exploiting the possible vulnerabilities present in that IP address. | https://github.com/FonderElite/Euphoria | 3 | 1| 
 | 20210324T21:45:35Z | Exploit Development on my road to OSCP | https://github.com/macosta-42/Exploit-Development | 0 | 0| 
+| 20210324T21:35:35Z | Blog personal dedicado al exploiting, reversing y CTFs | https://github.com/Pwn2Ninj4/pwn2ninj4.github.io | 0 | 0| 
 
 
 # backdoor on Github 推荐
