@@ -16,6 +16,7 @@
 | 20210325 | 利用 Zoom App 的 SQL 注入漏洞修改用户的摄像头隐私设置 | https://medium.com/@keegan.ryan/patched-zoom-exploit-altering-camera-settings-via-remote-sql-injection-4fdf3de8a0d| 
 | 20210325 | 从 .git 泄露到拿到 Webshell | https://gh0st.cn/archives/2020-11-22/1| 
 | 20210325 | iSecureOS - 研究员 GeoSn0w 开发的一个针对越狱 iPhone 的 App，用于评估越狱后当前手机的安全状态 | https://sec.today/pulses/16801cff-2c65-4c88-a562-d004bbe12232/| 
+| 20210325 | iSecureOS - 研究员 GeoSn0w 开发的一个针对越狱 iPhone 的 App，用于评估越狱后当前手机的安全状态 | https://github.com/GeoSn0w/iSecureOS| 
 
 
 # 安全维基 推荐
@@ -34,8 +35,8 @@
 | 20210325T07:49:48Z | CVE-2021-21123 | 🐱‍💻 👍 Google Chrome - File System Access API - vulnerabilities reported by Maciej Pulikowski , Total Bug Bounty Reward: $5.000 , CVE-2021-21123 and 5 more... | https://github.com/Puliczek/CVE-2021-21123-PoC-Google-Chrome | Insufficient data validation in File System API in Google Chrome prior to 88.0.4324.96 allowed a remote attacker to bypass filesystem restrictions via a crafted HTML page.| 
 | 20210325T06:43:35Z | CVE-2021-26295 | CVE-2021-26295 Apache OFBiz rmi反序列化POC | https://github.com/rakjong/CVE-2021-26295-Apache-OFBiz | Apache OFBiz has unsafe deserialization prior to 17.12.06. An unauthenticated attacker can use this vulnerability to successfully take over Apache OFBiz.| 
 | 20210325T03:27:24Z | CVE-2021-26295 | CVE-2021-26295 EXP 可成功反弹Shell | https://github.com/r0ckysec/CVE-2021-26295 | Apache OFBiz has unsafe deserialization prior to 17.12.06. An unauthenticated attacker can use this vulnerability to successfully take over Apache OFBiz.| 
-| 20210325T03:15:19Z | CVE-2021-26871 | POC for CVE-2021-26871(Maybe) | https://github.com/robotMD5/CVE-2021-26871_POC | | 
-| 20210325T01:20:25Z | CVE-2021-26295 | Null | https://github.com/yumusb/CVE-2021-26295-POC | Apache OFBiz has unsafe deserialization prior to 17.12.06. An unauthenticated attacker can use this vulnerability to successfully take over Apache OFBiz.| 
+| 20210325T03:15:19Z | CVE-2021-26871 | POC for CVE-2021-26871(Maybe) | https://github.com/robotMD5/CVE-2021-26871_POC | Windows WalletService Elevation of Privilege Vulnerability This CVE ID is unique from CVE-2021-26885.| 
+| 20210325T01:20:25Z | CVE-2021-26295 | Null | https://github.com/yumusb/CVE-2021-26295-POC | | 
 
 
 # klee on Github 推荐
@@ -55,21 +56,24 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210325T01:49:48Z | A Roblox Exploit using multiple APIs, written in multiple formats, like WF, WPF, UWP, and CLI. | https://github.com/EthanMcBloxxer/Bloxoit | 0 | 0| 
-| 20210325T01:33:06Z | Blog personal dedicado al exploiting, reversing y CTFs | https://github.com/Pwn2Ninj4/pwn2ninj4.github.io | 0 | 0| 
-| 20210325T01:24:29Z | PS1 savegame exploit using THPS3 | https://github.com/socram8888/tonyhax | 199 | 4| 
-| 20210325T01:22:27Z | Automatic OWA Proxylogon Exploit | https://github.com/Udyz/Automatic-Proxylogon-Exploit | 1 | 0| 
-| 20210325T01:09:15Z | Metasploit Utilities, Post Exploit Scripts and other scripts primarily for reference | https://github.com/reg1reg1/Exploits | 0 | 0| 
-| 20210325T01:02:25Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 12 | 6| 
-| 20210325T01:02:04Z | Null | https://github.com/LtsTibby/EternalExploit | 0 | 0| 
-| 20210325T00:50:31Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 9 | 5| 
-| 20210325T00:16:24Z | This code is an IRC BOT that can connect to an IRC server with SSL The main purpose of this bot is to scan for Open/Unsecured VNC servers. The bot can also search for credit card informations in the computer that the bot is running (removed in last version to optimize compilation process time). Added SSH takeover module/command.. There is also a DDoS module made in Python, for taking out the target from the network. | https://github.com/ind3p3nd3nt/PerlIRCSSL_VNCbypass | 18 | 9| 
-| 20210325T00:13:18Z | The AWS exploitation framework, designed for testing the security of Amazon Web Services environments. | https://github.com/RhinoSecurityLabs/pacu | 1949 | 350| 
+| 20210325T12:02:50Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 12 | 6| 
+| 20210325T11:56:46Z | A GWJ31 Game | https://github.com/ilayws/Exploit | 0 | 0| 
+| 20210325T11:41:36Z | Educational web application demonstrating techniques of binary exploitation (Front-end) | https://github.com/Pen-Test3rs/binary_exploits_frontend | 0 | 0| 
+| 20210325T11:35:11Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9183 | 1479| 
+| 20210325T11:22:53Z | A Compilation of Various Discord Bugs, Exploits and Un-Documented Parts of the Discord API. | https://github.com/DevEntro/discord-bugs-exploits | 5 | 0| 
+| 20210325T11:13:21Z | this bash script is for remote linux hosts hacked! | https://github.com/FabioDefilippo/linuxallenum | 9 | 0| 
+| 20210325T11:08:23Z | This bash script will help you to hack remote hosts  | https://github.com/FabioDefilippo/linuxallremote | 10 | 1| 
+| 20210325T11:07:16Z | Windows kernel exploit for https://github.com/hacksysteam/HackSysExtremeVulnerableDriver | https://github.com/s1vona/HEVD_Exploit | 0 | 0| 
+| 20210325T10:57:36Z | Gathering Data from a website | https://github.com/CHunter-cmd/-WhiteHat-Project-URL-Injection-Exploit-with-Selenium | 0 | 0| 
+| 20210325T10:54:09Z | Reconstruction of the Harvest oracle exploit | https://github.com/ethereumvex/Harvest-exploit | 0 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210325T09:05:19Z | Protect your server against backdoors. | https://github.com/Xalalau/backdoor-shield | 1 | 1| 
+| 20210325T06:23:48Z | Pupy is an opensource, cross-platform (Windows, Linux, OSX, Android) remote administration and post-exploitation tool mainly written in python | https://github.com/n1nj4sec/pupy | 6232 | 1596| 
+| 20210325T04:27:17Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 200 | 34| 
 
 
 # fuzz on Github 推荐
