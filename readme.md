@@ -75,14 +75,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210325T01:54:28Z | This program analyses and tests compiled binaries to determine if a possible vulnerability exists. Currently works with json, xml, csv and plaintext inputs. | https://github.com/Multifactored/6447-Binary-Fuzzer | 2 | 1| 
-| 20210325T01:48:58Z | Group 4C Fuzzy Logic Medieval Chess AI Senior Project | https://github.com/arizonagranger/SeniorProjectFuzzyLogicChess | 1 | 1| 
-| 20210325T01:47:56Z | Null | https://github.com/alvarobatrez/fuzzy_control | 0 | 0| 
-| 20210325T01:45:30Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6129 | 1240| 
-| 20210325T01:20:08Z | Fuzzing cryptographic libraries. Magic bug printer go brrrr. | https://github.com/guidovranken/cryptofuzz | 263 | 37| 
-| 20210325T00:36:15Z | Null | https://github.com/VeriBlock/fuzz-corpus | 0 | 1| 
-| 20210325T00:05:26Z | Epub source for the Standard Ebooks edition of Little Fuzzy, by H. Beam Piper | https://github.com/standardebooks/h-beam-piper_little-fuzzy | 1 | 2| 
-| 20210325T00:05:14Z | Parallel Corpus Minimization for fuzzing | https://github.com/WilliamParks/Para-Min | 0 | 0| 
+| 20210325T11:54:36Z | A fuzzing system based on a seq2seq model to generate valuable seed corpus. | https://github.com/kppw99/ddrfuzz | 1 | 0| 
+| 20210325T11:54:25Z | This repository is for testing a number of open source applications for vulnerabilities using multiple fuzzers. | https://github.com/bartholomewHarris/fuzzingNode.jsApplications | 1 | 1| 
+| 20210325T11:43:55Z | A Fuzzy Matching Approach for Clustering Strings | https://github.com/ebanalyse/fuzzup | 6 | 0| 
+| 20210325T11:30:51Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 3417 | 786| 
+| 20210325T11:06:12Z | A Fuzzy logic system example for Matlab | https://github.com/Madrant/fuzzy_logic_example | 0 | 0| 
+| 20210325T10:33:14Z | PoC of fuzzing closed-source userspace binaries with KVM | https://github.com/klecko/kvm-fuzz | 1 | 0| 
+| 20210325T10:33:08Z | Null | https://github.com/VeriBlock/fuzz-corpus | 0 | 1| 
+| 20210325T10:28:58Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6139 | 1240| 
+| 20210325T10:00:52Z | Coverage-guided, in-process fuzzing for the JVM | https://github.com/CodeIntelligenceTesting/jazzer | 261 | 11| 
+| 20210325T09:30:01Z | An issue for qiling | https://github.com/D0nYu/JpegFuzzer | 0 | 0| 
 
 
 
