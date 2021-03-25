@@ -6,6 +6,16 @@
 # 玄武实验室 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20210325 | Haruspex - 昨天推送了一篇关于侧信道分析 x86-64 完整指令集的文章。作者昨天开源了相关的工具 | https://github.com/can1357/haruspex| 
+| 20210325 | Hunting and detecting Cobalt Strike | https://www.sekoia.io/en/hunting-and-detecting-cobalt-strike/| 
+| 20210325 | RCE on Unauthenticated Redis server | https://trevorsaudi.medium.com/rce-on-unauthenticated-redis-server-11d3494ded5f?source=social.tw| 
+| 20210325 | 漏洞发现到 Real world exploit 的开发过程 | https://github.blog/2021-03-24-real-world-exploit-chains-explained/| 
+| 20210325 | Firefox 87 版本将引入 SmartBlock 保护机制，防护隐私浏览模式下的用户跟踪行为 | https://blog.mozilla.org/security/2021/03/23/introducing-smartblock/| 
+| 20210325 | 硬核黑客笔记 - 怒吼吧电磁波 (上) | https://mp.weixin.qq.com/s/SUjjKY_TIj10rpQW9tkH9A| 
+| 20210325 | Hidden OAuth 攻击方法总结 | https://portswigger.net/research/hidden-oauth-attack-vectors| 
+| 20210325 | 利用 Zoom App 的 SQL 注入漏洞修改用户的摄像头隐私设置 | https://medium.com/@keegan.ryan/patched-zoom-exploit-altering-camera-settings-via-remote-sql-injection-4fdf3de8a0d| 
+| 20210325 | 从 .git 泄露到拿到 Webshell | https://gh0st.cn/archives/2020-11-22/1| 
+| 20210325 | iSecureOS - 研究员 GeoSn0w 开发的一个针对越狱 iPhone 的 App，用于评估越狱后当前手机的安全状态 | https://sec.today/pulses/16801cff-2c65-4c88-a562-d004bbe12232/| 
 | 20210324 | 文件传输软件 Accellion 被用于攻击新西兰中央银行 | https://www.schneier.com/blog/archives/2021/03/accellion-supply-chain-hack.html| 
 | 20210324 | PancakesCon 安全会议视频公开了 | https://www.youtube.com/channel/UCAnBQGSBDlEbq11dkAreUGg| 
 | 20210324 | 眼见不一定为实：对电子邮件伪造攻击的大规模分析 | https://mp.weixin.qq.com/s/RPz_1kKuq5--IANwT_Qvvg| 
@@ -16,21 +26,13 @@
 | 20210324 | 有研究员整理的各个 EDR 防护软件在各个模块的 Hook API 列表 | https://github.com/Mr-Un1k0d3r/EDRs| 
 | 20210324 | Stealing arbitrary GitHub Actions secrets | https://blog.teddykatz.com/2021/03/17/github-actions-write-access.html| 
 | 20210324 | 使用Jazzer模糊器对Java代码测试教程视频。 | https://www.youtube.com/watch?v=Ai3wnnSFC-8&feature=youtu.be| 
-| 20210323 | IDA 7.6 版本发布，开始原生支持 Apple M1 芯片 | https://www.hex-rays.com/blog/ida-7-6-released/| 
-| 20210323 | iOS 安全漏洞研究环境搭建 | http://www.mac4n6.com/blog/2021/3/21/part-3-step-by-step-tooling-for-ios-research-via-bizzybarney| 
-| 20210323 | IP6_EXTHDR_CHECK Double Free 漏洞 Exploit 代码(CVE-2020-9892) | https://gist.github.com/Cryptogenic/448fd98813ab5a93182fb9620c013e17| 
-| 20210323 | IPyIDA - IPython console integration for IDA Pro | https://github.com/eset/ipyida| 
-| 20210323 | API 安全测试的 31 个 Tips | https://github.com/inonshk/31-days-of-API-Security-Tips| 
-| 20210323 | 取证分析相关的资料整理 | https://github.com/ivbeg/awesome-forensicstools/| 
-| 20210323 | Awesome Penetration Testing - 渗透测试相关的资料整理 | https://github.com/wtsxDev/Penetration-Testing#network-tools| 
-| 20210323 | Awesome Penetration Testing - 渗透测试相关的工具和资料整理 | https://github.com/enaqx/awesome-pentest| 
-| 20210323 | Process Hollowing 进程注入在 Windows 系统的实现与检测方法 | https://www.winitor.com/pdf/Windows-Process-Hollowing.pdf| 
-| 20210323 | 恶意软件分析教程资料 | https://sec.today/pulses/5ef4a506-bcec-44a4-89e6-f9723549c49e/| 
 
 
 # 安全维基 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20210325 | H2C Smuggling in the Wild | https://blog.assetnote.io/2021/03/18/h2c-smuggling/| 
+| 20210325 | Hidden OAuth attack vectors | https://portswigger.net/research/hidden-oauth-attack-vectors| 
 | 20210324 | 硬核黑客笔记 - 怒吼吧电磁波 (上) | https://mp.weixin.qq.com/s/SUjjKY_TIj10rpQW9tkH9A| 
 | 20210324 | 技术分享 , 域渗透AdminSDHolder | https://mp.weixin.qq.com/s/beFGjQ2zCzjwwwuHXlih2A| 
 | 20210324 | 利用字符集编码绕过waf的burp插件 | https://github.com/GuoKerS/Charset_encoding-Burp| 
@@ -39,35 +41,33 @@
 | 20210323 | 模型可解释性在保险理赔反欺诈中的实践 | https://mp.weixin.qq.com/s/7Qa4PZCXARqEK-iphVPTjA| 
 | 20210323 | 2020年联网智能设备安全态势报告 | https://mp.weixin.qq.com/s/GdSgHNTLjysqow4ka8tY7w| 
 | 20210323 | 实践之后，我们来谈谈如何做好威胁建模 | https://mp.weixin.qq.com/s/kNfTBoeFu90QPvYbPcR_OQ| 
-| 20210323 | RemRAT潜伏在中东多年的Android间谍软件 | https://mp.weixin.qq.com/s/RhM2qUxDWTyykCbSW6e8SQ| 
-| 20210323 | 《人民检察院办理网络犯罪案件规定》的理解与适用 | https://mp.weixin.qq.com/s/VshK6oANVI_skfjuGEUHSw| 
 
 
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20210325T01:48:39Z | CVE-2021-22986 | CVE-2021-22986 & F5 BIG-IP RCE | https://github.com/Al1ex/CVE-2021-22986 | 未查询到CVE信息| 
+| 20210325T11:19:55Z | CVE-2021-22986 | CVE-2021-22986 & F5 BIG-IP RCE | https://github.com/Al1ex/CVE-2021-22986 | 未查询到CVE信息| 
+| 20210325T11:05:07Z | CVE-2021-3156 | Sudo Baron Samedit Exploit | https://github.com/worawit/CVE-2021-3156 | Sudo before 1.9.5p2 contains an off-by-one error that can result in a heap-based buffer overflow, which allows privilege escalation to root via %sudoedit -s% and a command-line argument that ends with a single backslash character.| 
+| 20210325T08:59:53Z | CVE-2021-21389 | BuddyPress < 7.2.1 - REST API Privilege Escalation to RCE | https://github.com/HoangKien1020/CVE-2021-21389 | 未查询到CVE信息| 
+| 20210325T07:49:48Z | CVE-2021-21123 | 🐱‍💻 👍 Google Chrome - File System Access API - vulnerabilities reported by Maciej Pulikowski , Total Bug Bounty Reward: $5.000 , CVE-2021-21123 and 5 more... | https://github.com/Puliczek/CVE-2021-21123-PoC-Google-Chrome | Insufficient data validation in File System API in Google Chrome prior to 88.0.4324.96 allowed a remote attacker to bypass filesystem restrictions via a crafted HTML page.| 
+| 20210325T06:43:35Z | CVE-2021-26295 | CVE-2021-26295 Apache OFBiz rmi反序列化POC | https://github.com/rakjong/CVE-2021-26295-Apache-OFBiz | Apache OFBiz has unsafe deserialization prior to 17.12.06. An unauthenticated attacker can use this vulnerability to successfully take over Apache OFBiz.| 
+| 20210325T03:27:24Z | CVE-2021-26295 | CVE-2021-26295 EXP 可成功反弹Shell | https://github.com/r0ckysec/CVE-2021-26295 | Apache OFBiz has unsafe deserialization prior to 17.12.06. An unauthenticated attacker can use this vulnerability to successfully take over Apache OFBiz.| 
+| 20210325T03:15:19Z | CVE-2021-26871 | POC for CVE-2021-26871(Maybe) | https://github.com/robotMD5/CVE-2021-26871_POC | | 
 | 20210325T01:20:25Z | CVE-2021-26295 | Null | https://github.com/yumusb/CVE-2021-26295-POC | Apache OFBiz has unsafe deserialization prior to 17.12.06. An unauthenticated attacker can use this vulnerability to successfully take over Apache OFBiz.| 
-| 20210324T23:21:25Z | CVE-2021-21123 | 🐱‍💻 👍 Google Chrome - File System Access API - vulnerabilities reported by Maciej Pulikowski , Total Bug Bounty Reward: $5.000 , CVE-2021-21123 and 5 more... | https://github.com/Puliczek/CVE-2021-21123-PoC-Google-Chrome | | 
-| 20210324T16:02:21Z | CVE-2021-3156 | Sudo Baron Samedit Exploit | https://github.com/worawit/CVE-2021-3156 | Sudo before 1.9.5p2 contains an off-by-one error that can result in a heap-based buffer overflow, which allows privilege escalation to root via %sudoedit -s% and a command-line argument that ends with a single backslash character.| 
-| 20210324T14:36:21Z | CVE-2021-26295 | CVE-2021-26295 Apache OFBiz rmi反序列化POC | https://github.com/rakjong/CVE-2021-26295-Apache-OFBiz | Apache OFBiz has unsafe deserialization prior to 17.12.06. An unauthenticated attacker can use this vulnerability to successfully take over Apache OFBiz.| 
 | 20210324T11:49:39Z | CVE-2021-22986 | F5 BIG-IP/BIG-IQ iControl Rest API SSRF to RCE | https://github.com/Udyz/CVE-2021-22986-SSRF2RCE | 未查询到CVE信息| 
-| 20210324T10:40:31Z | CVE-2021-26295 | CVE-2021-26295 EXP 可成功反弹Shell | https://github.com/r0ckysec/CVE-2021-26295 | Apache OFBiz has unsafe deserialization prior to 17.12.06. An unauthenticated attacker can use this vulnerability to successfully take over Apache OFBiz.| 
 | 20210324T10:39:36Z | CVE-2021-26855 | Microsoft Exchange Proxylogon Exploit Chain EXP分析 | https://github.com/r0ckysec/CVE-2021-26855_Exchange | Microsoft Exchange Server Remote Code Execution Vulnerability This CVE ID is unique from CVE-2021-26412, CVE-2021-26854, CVE-2021-26857, CVE-2021-26858, CVE-2021-27065, CVE-2021-27078.| 
-| 20210323T19:02:32Z | CVE-2021-26855 | analytics ProxyLogo Mail exchange RCE | https://github.com/hictf/CVE-2021-26855-CVE-2021-27065 | Microsoft Exchange Server Remote Code Execution Vulnerability This CVE ID is unique from CVE-2021-26412, CVE-2021-26854, CVE-2021-26857, CVE-2021-26858, CVE-2021-27065, CVE-2021-27078.| 
-| 20210323T02:46:33Z | CVE-2021-22986 | CVE-2021-22986 Checker Script in Python3 | https://github.com/ZephrFish/CVE-2021-22986_Check | 未查询到CVE信息| 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210325T11:53:43Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 的 Klee One 的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 349 | 8| 
+| 20210325T07:01:31Z | Symbiotic is a tool for finding bugs in computer programs based on instrumentation, program slicing and KLEE | https://github.com/staticafi/symbiotic | 214 | 34| 
 | 20210325T00:17:59Z | Null | https://github.com/klee30810/klee30810 | 1 | 0| 
 | 20210324T17:15:56Z | Website for the KLEE project: https://klee.github.io/ | https://github.com/klee/klee.github.io | 14 | 42| 
-| 20210324T09:34:00Z | Symbiotic is a tool for finding bugs in computer programs based on instrumentation, program slicing and KLEE | https://github.com/staticafi/symbiotic | 212 | 34| 
 | 20210324T05:21:54Z | Git Blog | https://github.com/klee30810/klee30810.github.io | 0 | 0| 
 | 20210323T19:00:34Z | Scripts to see what errors have been reached in the RERS problems by AFL and KLEE | https://github.com/TCatshoek/AISTRTestcaseEvaluator | 0 | 0| 
 | 20210323T13:02:50Z | ⬇️ File Upload/sharing application, used by thousands of webmasters since 2007.  | https://github.com/kleeja-official/kleeja | 115 | 34| 
-| 20210323T06:09:36Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 的 Klee One 的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 345 | 8| 
 | 20210323T02:14:51Z | Null | https://github.com/abbykleespie/LAWk7AbbyKleespie.appstudio | 0 | 0| 
 | 20210322T18:08:48Z | Null | https://github.com/nithinsai263/kleenacademy | 0 | 0| 
 | 20210322T17:10:20Z | Kleene algebra, regular expressions | https://github.com/phadej/kleene | 27 | 1| 
@@ -76,7 +76,7 @@
 # s2e on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210324T20:59:02Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 106 | 24| 
+| 20210325T08:25:17Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 108 | 24| 
 | 20210323T09:51:18Z | Your S2E project management tools. Visit https://s2e.systems/docs to get started. | https://github.com/S2E/s2e-env | 72 | 30| 
 | 20210322T13:32:13Z | with the technique of Opencv, we try to achieve traffic identification. | https://github.com/wpfeder/Opencv_traffic_s2e | 0 | 0| 
 | 20210313T20:42:17Z | Source of Sonic Eclipse, a romhack of Sonic 2 for Sega Master System circa 2018. http://sonicresearch.org/community/index.php?threads/sonic-eclipse.5524/ | https://github.com/mrcat-pixel/s2eclipse | 3 | 0| 
