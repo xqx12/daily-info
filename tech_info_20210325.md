@@ -56,16 +56,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210325T12:33:46Z | A Compilation of Various Discord Bugs, Exploits and Un-Documented Parts of the Discord API. | https://github.com/DevEntro/discord-bugs-exploits | 6 | 0| 
+| 20210325T12:31:19Z | Extra goodies for GEF: Open repository for unfiltered contributions to the project. | https://github.com/hugsy/gef-extras | 54 | 25| 
 | 20210325T12:27:44Z | A post-exploitation framework | https://github.com/enkomio/AlanFramework | 10 | 1| 
 | 20210325T12:24:22Z | A GWJ31 Game | https://github.com/ilayws/Exploit | 0 | 0| 
 | 20210325T12:22:51Z | It is elschool.ru vulnerability demonstration | https://github.com/Shkvaldev/elschoolExploit | 0 | 0| 
 | 20210325T12:02:50Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 12 | 6| 
 | 20210325T11:41:36Z | Educational web application demonstrating techniques of binary exploitation (Front-end) | https://github.com/Pen-Test3rs/binary_exploits_frontend | 0 | 0| 
 | 20210325T11:35:11Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9183 | 1479| 
-| 20210325T11:22:53Z | A Compilation of Various Discord Bugs, Exploits and Un-Documented Parts of the Discord API. | https://github.com/DevEntro/discord-bugs-exploits | 5 | 0| 
 | 20210325T11:13:21Z | this bash script is for remote linux hosts hacked! | https://github.com/FabioDefilippo/linuxallenum | 9 | 0| 
 | 20210325T11:08:23Z | This bash script will help you to hack remote hosts  | https://github.com/FabioDefilippo/linuxallremote | 10 | 1| 
-| 20210325T11:07:16Z | Windows kernel exploit for https://github.com/hacksysteam/HackSysExtremeVulnerableDriver | https://github.com/s1vona/HEVD_Exploit | 0 | 0| 
 
 
 # backdoor on Github 推荐
