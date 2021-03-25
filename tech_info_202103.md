@@ -116,16 +116,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210325T01:54:28Z | This program analyses and tests compiled binaries to determine if a possible vulnerability exists. Currently works with json, xml, csv and plaintext inputs. | https://github.com/Multifactored/6447-Binary-Fuzzer | 2 | 1| 
+| 20210325T01:48:58Z | Group 4C Fuzzy Logic Medieval Chess AI Senior Project | https://github.com/arizonagranger/SeniorProjectFuzzyLogicChess | 1 | 1| 
+| 20210325T01:47:56Z | Null | https://github.com/alvarobatrez/fuzzy_control | 0 | 0| 
+| 20210325T01:45:30Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6129 | 1240| 
 | 20210325T01:20:08Z | Fuzzing cryptographic libraries. Magic bug printer go brrrr. | https://github.com/guidovranken/cryptofuzz | 263 | 37| 
-| 20210325T00:59:45Z | Group 4C Fuzzy Logic Medieval Chess AI Senior Project | https://github.com/arizonagranger/SeniorProjectFuzzyLogicChess | 1 | 1| 
-| 20210325T00:38:19Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6128 | 1240| 
 | 20210325T00:36:15Z | Null | https://github.com/VeriBlock/fuzz-corpus | 0 | 1| 
 | 20210325T00:05:26Z | Epub source for the Standard Ebooks edition of Little Fuzzy, by H. Beam Piper | https://github.com/standardebooks/h-beam-piper_little-fuzzy | 1 | 2| 
 | 20210325T00:05:14Z | Parallel Corpus Minimization for fuzzing | https://github.com/WilliamParks/Para-Min | 0 | 0| 
 | 20210324T23:06:41Z | FuzzBuilderEx is a system to build seed corpus and fuzzing executables using the test framework automatically. | https://github.com/kppw99/FuzzBuilderEx | 1 | 0| 
 | 20210324T22:35:52Z | Null | https://github.com/matusf/open-api-fuzzer | 1 | 0| 
-| 20210324T22:02:17Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 1525 | 310| 
-| 20210324T21:51:12Z | fpicker is a Frida-based fuzzing suite supporting various modes (including AFL++ in-process fuzzing) | https://github.com/ttdennis/fpicker | 61 | 4| 
 
 
 
