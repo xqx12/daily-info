@@ -86,6 +86,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210325T01:46:24Z | A Roblox Exploit using multiple APIs, written in multiple formats, like WF, WPF, UWP, and CLI. | https://github.com/EthanMcBloxxer/Bloxoit | 0 | 0| 
 | 20210325T01:33:06Z | Blog personal dedicado al exploiting, reversing y CTFs | https://github.com/Pwn2Ninj4/pwn2ninj4.github.io | 0 | 0| 
 | 20210325T01:24:29Z | PS1 savegame exploit using THPS3 | https://github.com/socram8888/tonyhax | 199 | 4| 
 | 20210325T01:22:27Z | Automatic OWA Proxylogon Exploit | https://github.com/Udyz/Automatic-Proxylogon-Exploit | 1 | 0| 
@@ -95,7 +96,6 @@
 | 20210325T00:50:31Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 9 | 5| 
 | 20210325T00:16:24Z | This code is an IRC BOT that can connect to an IRC server with SSL The main purpose of this bot is to scan for Open/Unsecured VNC servers. The bot can also search for credit card informations in the computer that the bot is running (removed in last version to optimize compilation process time). Added SSH takeover module/command.. There is also a DDoS module made in Python, for taking out the target from the network. | https://github.com/ind3p3nd3nt/PerlIRCSSL_VNCbypass | 18 | 9| 
 | 20210325T00:13:18Z | The AWS exploitation framework, designed for testing the security of Amazon Web Services environments. | https://github.com/RhinoSecurityLabs/pacu | 1949 | 350| 
-| 20210325T00:13:09Z | Simple PoC script that allows you to exploit telegram%s %send with timer% feature by saving any media sent with this functionality. | https://github.com/matteounitn/breaking-telegram | 0 | 0| 
 
 
 # backdoor on Github 推荐
