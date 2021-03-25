@@ -46,7 +46,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20210325T11:19:55Z | CVE-2021-22986 | CVE-2021-22986 & F5 BIG-IP RCE | https://github.com/Al1ex/CVE-2021-22986 | | 
+| 20210325T11:19:55Z | CVE-2021-22986 | CVE-2021-22986 & F5 BIG-IP RCE | https://github.com/Al1ex/CVE-2021-22986 | 未查询到CVE信息| 
 | 20210325T11:05:07Z | CVE-2021-3156 | Sudo Baron Samedit Exploit | https://github.com/worawit/CVE-2021-3156 | Sudo before 1.9.5p2 contains an off-by-one error that can result in a heap-based buffer overflow, which allows privilege escalation to root via %sudoedit -s% and a command-line argument that ends with a single backslash character.| 
 | 20210325T08:59:53Z | CVE-2021-21389 | BuddyPress < 7.2.1 - REST API Privilege Escalation to RCE | https://github.com/HoangKien1020/CVE-2021-21389 | 未查询到CVE信息| 
 | 20210325T07:49:48Z | CVE-2021-21123 | 🐱‍💻 👍 Google Chrome - File System Access API - vulnerabilities reported by Maciej Pulikowski , Total Bug Bounty Reward: $5.000 , CVE-2021-21123 and 5 more... | https://github.com/Puliczek/CVE-2021-21123-PoC-Google-Chrome | Insufficient data validation in File System API in Google Chrome prior to 88.0.4324.96 allowed a remote attacker to bypass filesystem restrictions via a crafted HTML page.| 
@@ -86,6 +86,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210325T12:22:51Z | It is elschool.ru vulnerability demonstration | https://github.com/Shkvaldev/elschoolExploit | 0 | 0| 
 | 20210325T12:16:57Z | A GWJ31 Game | https://github.com/ilayws/Exploit | 0 | 0| 
 | 20210325T12:02:50Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 12 | 6| 
 | 20210325T11:41:36Z | Educational web application demonstrating techniques of binary exploitation (Front-end) | https://github.com/Pen-Test3rs/binary_exploits_frontend | 0 | 0| 
@@ -95,7 +96,6 @@
 | 20210325T11:08:23Z | This bash script will help you to hack remote hosts  | https://github.com/FabioDefilippo/linuxallremote | 10 | 1| 
 | 20210325T11:07:16Z | Windows kernel exploit for https://github.com/hacksysteam/HackSysExtremeVulnerableDriver | https://github.com/s1vona/HEVD_Exploit | 0 | 0| 
 | 20210325T10:57:36Z | Gathering Data from a website | https://github.com/CHunter-cmd/-WhiteHat-Project-URL-Injection-Exploit-with-Selenium | 0 | 0| 
-| 20210325T10:54:09Z | Reconstruction of the Harvest oracle exploit | https://github.com/ethereumvex/Harvest-exploit | 0 | 0| 
 
 
 # backdoor on Github 推荐
