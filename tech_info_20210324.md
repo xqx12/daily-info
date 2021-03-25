@@ -38,7 +38,7 @@
 | 20210324T14:36:21Z | CVE-2021-26295 | CVE-2021-26295 Apache OFBiz rmi反序列化POC | https://github.com/rakjong/CVE-2021-26295-Apache-OFBiz | Apache OFBiz has unsafe deserialization prior to 17.12.06. An unauthenticated attacker can use this vulnerability to successfully take over Apache OFBiz.| 
 | 20210324T11:49:39Z | CVE-2021-22986 | F5 BIG-IP/BIG-IQ iControl Rest API SSRF to RCE | https://github.com/Udyz/CVE-2021-22986-SSRF2RCE | 未查询到CVE信息| 
 | 20210324T10:40:31Z | CVE-2021-26295 | CVE-2021-26295 EXP 可成功反弹Shell | https://github.com/r0ckysec/CVE-2021-26295 | Apache OFBiz has unsafe deserialization prior to 17.12.06. An unauthenticated attacker can use this vulnerability to successfully take over Apache OFBiz.| 
-| 20210324T10:39:36Z | CVE-2021-26855 | Microsoft Exchange Proxylogon Exploit Chain EXP分析 | https://github.com/r0ckysec/CVE-2021-26855_Exchange | | 
+| 20210324T10:39:36Z | CVE-2021-26855 | Microsoft Exchange Proxylogon Exploit Chain EXP分析 | https://github.com/r0ckysec/CVE-2021-26855_Exchange | Microsoft Exchange Server Remote Code Execution Vulnerability This CVE ID is unique from CVE-2021-26412, CVE-2021-26854, CVE-2021-26857, CVE-2021-26858, CVE-2021-27065, CVE-2021-27078.| 
 
 
 # klee on Github 推荐
@@ -66,8 +66,8 @@
 | 20210324T22:23:43Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9183 | 1478| 
 | 20210324T21:49:01Z | Hacking tool that initiates ip  grabbing, scanning the IP then exploiting the possible vulnerabilities present in that IP address. | https://github.com/FonderElite/Euphoria | 3 | 1| 
 | 20210324T21:45:35Z | Exploit Development on my road to OSCP | https://github.com/macosta-42/Exploit-Development | 0 | 0| 
-| 20210324T21:35:35Z | Blog personal dedicado al exploiting, reversing y CTFs | https://github.com/Pwn2Ninj4/pwn2ninj4.github.io | 0 | 0| 
 | 20210324T20:26:45Z | 🎣    Fish for line detections by exploiting the known velocity structure of the disk. | https://github.com/richteague/gofish | 7 | 4| 
+| 20210324T19:58:29Z | Reconstruction of the Harvest oracle exploit | https://github.com/ethereumvex/Harvest-exploit | 0 | 0| 
 
 
 # backdoor on Github 推荐
