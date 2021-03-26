@@ -86,7 +86,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210326T01:15:35Z | CVE-2021-3449 PoC exploit | https://github.com/terorie/cve-2021-3449 | 0 | 0| 
+| 20210326T01:17:10Z | CVE-2021-3449 PoC exploit | https://github.com/terorie/cve-2021-3449 | 0 | 0| 
 | 20210326T01:10:32Z | This is a repo for the coding done for CTFs / exploits. The writeups are here: https://github.com/dillonwu-97/csec_writeups | https://github.com/dillonwu-97/csec-code | 0 | 0| 
 | 20210326T01:02:25Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 13 | 6| 
 | 20210326T00:50:33Z | Ethereum recon and exploitation tool. | https://github.com/cleanunicorn/theo | 116 | 39| 
