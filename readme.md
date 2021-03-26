@@ -39,7 +39,6 @@
 | 20210325T06:43:35Z | CVE-2021-26295 | CVE-2021-26295 Apache OFBiz rmi反序列化POC | https://github.com/rakjong/CVE-2021-26295-Apache-OFBiz | Apache OFBiz has unsafe deserialization prior to 17.12.06. An unauthenticated attacker can use this vulnerability to successfully take over Apache OFBiz.| 
 | 20210325T03:27:24Z | CVE-2021-26295 | CVE-2021-26295 EXP 可成功反弹Shell | https://github.com/r0ckysec/CVE-2021-26295 | Apache OFBiz has unsafe deserialization prior to 17.12.06. An unauthenticated attacker can use this vulnerability to successfully take over Apache OFBiz.| 
 | 20210325T03:15:19Z | CVE-2021-26871 | POC for CVE-2021-26871(Maybe) | https://github.com/robotMD5/CVE-2021-26871_POC | Windows WalletService Elevation of Privilege Vulnerability This CVE ID is unique from CVE-2021-26885.| 
-| 20210325T01:20:25Z | CVE-2021-26295 | Null | https://github.com/yumusb/CVE-2021-26295-POC | Apache OFBiz has unsafe deserialization prior to 17.12.06. An unauthenticated attacker can use this vulnerability to successfully take over Apache OFBiz.| 
 
 
 # klee on Github 推荐
