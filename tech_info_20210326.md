@@ -34,7 +34,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20210326T11:08:37Z | cve-2021-3449 | CVE-2021-3449 PoC exploit | https://github.com/terorie/cve-2021-3449 | An OpenSSL TLS server may crash if sent a maliciously crafted renegotiation ClientHello message from a client. If a TLSv1.2 renegotiation ClientHello omits the signature_algorithms extension (where it was present in the initial ClientHello), but includes a signature_algorithms_cert extension then a NULL pointer dereference will result, leading to a crash and a denial of service attack. A server is only vulnerable if it has TLSv1.2 and renegotiation enabled (which is the default configuration). OpenSSL TLS clients are not impacted by this issue. All OpenSSL 1.1.1 versions are affected by this issue. Users of these versions should upgrade to OpenSSL 1.1.1k. OpenSSL 1.0.2 is not impacted by this issue. Fixed in OpenSSL 1.1.1k (Affected 1.1.1-1.1.1j).| 
+| 20210326T12:34:20Z | cve-2021-3449 | CVE-2021-3449 PoC exploit | https://github.com/terorie/cve-2021-3449 | An OpenSSL TLS server may crash if sent a maliciously crafted renegotiation ClientHello message from a client. If a TLSv1.2 renegotiation ClientHello omits the signature_algorithms extension (where it was present in the initial ClientHello), but includes a signature_algorithms_cert extension then a NULL pointer dereference will result, leading to a crash and a denial of service attack. A server is only vulnerable if it has TLSv1.2 and renegotiation enabled (which is the default configuration). OpenSSL TLS clients are not impacted by this issue. All OpenSSL 1.1.1 versions are affected by this issue. Users of these versions should upgrade to OpenSSL 1.1.1k. OpenSSL 1.0.2 is not impacted by this issue. Fixed in OpenSSL 1.1.1k (Affected 1.1.1-1.1.1j).| 
 | 20210326T10:02:15Z | CVE-2021-22986 | F5 BIG-IP/BIG-IQ iControl Rest API SSRF to RCE | https://github.com/Udyz/CVE-2021-22986-SSRF2RCE | 未查询到CVE信息| 
 | 20210326T07:54:15Z | cve-2021-22986 | F5 BIG-IP远程代码执行；cve-2021-22986，批量检测；命令执行利用 | https://github.com/yaunsky/CVE-202122986-EXP | 未查询到CVE信息| 
 | 20210326T07:49:06Z | CVE-2021-22986 | CVE-2021-22986 & F5 BIG-IP RCE | https://github.com/Al1ex/CVE-2021-22986 | 未查询到CVE信息| 
@@ -60,6 +60,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210326T12:30:46Z | Vulnerability Notes, PoC Exploits and Write-Ups for security issues disclosed by tintinweb | https://github.com/tintinweb/pub | 217 | 122| 
 | 20210326T12:02:26Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 13 | 6| 
 | 20210326T11:55:11Z | The Browser Exploitation Framework Project | https://github.com/beefproject/beef | 5590 | 1331| 
 | 20210326T11:42:51Z | Null | https://github.com/ro-per/VS-Lab2_Memory_Exploits_in_C | 0 | 0| 
@@ -69,7 +70,6 @@
 | 20210326T11:23:01Z | Building upon the Dirichlet-multinomial regression framework, we develop an high-dimensional Bayesian hierarchical model for microbiota analysis that exploits subject-specific regression coefficients to simultaneously borrow strength across districts and include complex interactions between diet and clinical factors if supported by the data.  | https://github.com/mattpedone/subject-specific-dm-reg | 0 | 0| 
 | 20210326T11:20:49Z | Ghost Framework is an Android post-exploitation framework that exploits the Android Debug Bridge to remotely access an Android device. Ghost Framework gives you the power and convenience of remote Android device administration. | https://github.com/EntySec/ghost | 1006 | 494| 
 | 20210326T10:51:50Z | Exploitation and Mitigation Slides | https://github.com/dobin/yookiterm-slides | 74 | 25| 
-| 20210326T10:42:20Z | Null | https://github.com/musyoka101/emdee-five-for-life-exploit-script-HackTheBox | 0 | 0| 
 
 
 # backdoor on Github 推荐
