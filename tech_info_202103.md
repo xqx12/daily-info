@@ -86,7 +86,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210326T00:26:44Z | This repository contains tools developed to hack CS:GO. | https://github.com/samdobsonDEV/csgo-exploits | 0 | 0| 
+| 20210326T00:30:18Z | This repository contains tools developed to hack CS:GO. | https://github.com/samdobsonDEV/csgo-exploits | 0 | 0| 
 | 20210326T00:10:51Z | A Trainer For the Game Geometry Dash used to hack / exploit. | https://github.com/lulacoding/Geometry-Dash-Trainer | 0 | 0| 
 | 20210326T00:10:44Z | Exploits project Hacking Command Center | https://github.com/chacka0101/exploits | 4 | 6| 
 | 20210326T00:09:25Z | Hello, this is a write-up for a form of a ret2libc ROP attack, which is used to bypass a exploit mitigation, known as NX for linux and DEP for windows. | https://github.com/NopSIed/Ret2sys-Exploit-Write-up | 0 | 0| 
