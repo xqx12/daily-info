@@ -85,16 +85,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210325T12:13:11Z | FormatFuzzer is a framework for high-efficiency, high-quality generation and parsing of binary inputs. | https://github.com/uds-se/FormatFuzzer | 118 | 13| 
-| 20210325T12:13:01Z | A Fuzzy Matching Approach for Clustering Strings | https://github.com/ebanalyse/fuzzup | 6 | 0| 
-| 20210325T11:54:36Z | A fuzzing system based on a seq2seq model to generate valuable seed corpus. | https://github.com/kppw99/ddrfuzz | 1 | 0| 
-| 20210325T11:54:25Z | This repository is for testing a number of open source applications for vulnerabilities using multiple fuzzers. | https://github.com/bartholomewHarris/fuzzingNode.jsApplications | 1 | 1| 
-| 20210325T11:30:51Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 3417 | 786| 
-| 20210325T11:06:12Z | A Fuzzy logic system example for Matlab | https://github.com/Madrant/fuzzy_logic_example | 0 | 0| 
-| 20210325T10:33:14Z | PoC of fuzzing closed-source userspace binaries with KVM | https://github.com/klecko/kvm-fuzz | 1 | 0| 
-| 20210325T10:33:08Z | Null | https://github.com/VeriBlock/fuzz-corpus | 0 | 1| 
-| 20210325T10:28:58Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6139 | 1240| 
-| 20210325T10:00:52Z | Coverage-guided, in-process fuzzing for the JVM | https://github.com/CodeIntelligenceTesting/jazzer | 261 | 11| 
+| 20210325T23:25:06Z | Config files for my GitHub profile. | https://github.com/BrainFuzz-hub/BrainFuzz-hub | 0 | 0| 
+| 20210325T23:23:14Z | A case study of a fuzzer in the Rascal Language | https://github.com/fuzzing-unb/rascalFuzz | 0 | 0| 
+| 20210325T23:15:15Z | Null | https://github.com/matusf/open-api-fuzzer | 1 | 0| 
+| 20210325T23:07:41Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2296 | 121| 
+| 20210325T22:50:30Z | Fuzzing cryptographic libraries. Magic bug printer go brrrr. | https://github.com/guidovranken/cryptofuzz | 263 | 37| 
+| 20210325T22:42:54Z | Group 4C Fuzzy Logic Medieval Chess AI Senior Project | https://github.com/arizonagranger/SeniorProjectFuzzyLogicChess | 1 | 1| 
+| 20210325T22:39:22Z | Autofuze has been developped to provide a full toolkit to fuzz and pentest several protocols used in automotive industry such as USB, XCP, UDS, CAN. Everything is done in Python to provide a convenient way to develop automated test. | https://github.com/DanAurea/AutoFuze | 0 | 0| 
+| 20210325T22:37:50Z | Null | https://github.com/Sambigeara/fuzzynote | 2 | 1| 
+| 20210325T22:22:50Z | A groovy/java tabular Data (from CSV,SQL,JSON) processing library that supports fuzzy column matching,tranformations/merging/querying | https://github.com/kayr/fuzzy-csv | 7 | 6| 
+| 20210325T22:13:50Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6142 | 1241| 
 
 
 
