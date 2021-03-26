@@ -55,7 +55,7 @@
 | 20210325T23:52:42Z | CVE-2021-3156 | Exploit generator for sudo CVE-2021-3156 | https://github.com/lmol/CVE-2021-3156 | Sudo before 1.9.5p2 contains an off-by-one error that can result in a heap-based buffer overflow, which allows privilege escalation to root via %sudoedit -s% and a command-line argument that ends with a single backslash character.| 
 | 20210325T17:42:57Z | CVE-2021-3156 | Sudo Baron Samedit Exploit | https://github.com/worawit/CVE-2021-3156 | Sudo before 1.9.5p2 contains an off-by-one error that can result in a heap-based buffer overflow, which allows privilege escalation to root via %sudoedit -s% and a command-line argument that ends with a single backslash character.| 
 | 20210325T08:59:53Z | CVE-2021-21389 | BuddyPress < 7.2.1 - REST API Privilege Escalation to RCE | https://github.com/HoangKien1020/CVE-2021-21389 | 未查询到CVE信息| 
-| 20210325T06:43:35Z | CVE-2021-26295 | CVE-2021-26295 Apache OFBiz rmi反序列化POC | https://github.com/rakjong/CVE-2021-26295-Apache-OFBiz | Apache OFBiz has unsafe deserialization prior to 17.12.06. An unauthenticated attacker can use this vulnerability to successfully take over Apache OFBiz.| 
+| 20210325T06:43:35Z | CVE-2021-26295 | CVE-2021-26295 Apache OFBiz rmi反序列化POC | https://github.com/rakjong/CVE-2021-26295-Apache-OFBiz | | 
 
 
 # klee on Github 推荐
@@ -116,16 +116,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210326T00:07:42Z | Null | https://github.com/xrisbarney/fuzzer | 0 | 0| 
-| 20210325T23:25:06Z | Config files for my GitHub profile. | https://github.com/BrainFuzz-hub/BrainFuzz-hub | 0 | 0| 
-| 20210325T23:23:14Z | A case study of a fuzzer in the Rascal Language | https://github.com/fuzzing-unb/rascalFuzz | 0 | 0| 
-| 20210325T23:15:15Z | Null | https://github.com/matusf/open-api-fuzzer | 1 | 0| 
-| 20210325T23:07:41Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2296 | 121| 
-| 20210325T22:50:30Z | Fuzzing cryptographic libraries. Magic bug printer go brrrr. | https://github.com/guidovranken/cryptofuzz | 263 | 37| 
-| 20210325T22:42:54Z | Group 4C Fuzzy Logic Medieval Chess AI Senior Project | https://github.com/arizonagranger/SeniorProjectFuzzyLogicChess | 1 | 1| 
-| 20210325T22:39:22Z | Autofuze has been developped to provide a full toolkit to fuzz and pentest several protocols used in automotive industry such as USB, XCP, UDS, CAN. Everything is done in Python to provide a convenient way to develop automated test. | https://github.com/DanAurea/AutoFuze | 0 | 0| 
-| 20210325T22:37:50Z | Null | https://github.com/Sambigeara/fuzzynote | 2 | 1| 
-| 20210325T22:22:50Z | A groovy/java tabular Data (from CSV,SQL,JSON) processing library that supports fuzzy column matching,tranformations/merging/querying | https://github.com/kayr/fuzzy-csv | 7 | 6| 
+| 20210326T12:03:09Z | Coverage-guided, in-process fuzzing for the JVM | https://github.com/CodeIntelligenceTesting/jazzer | 264 | 12| 
+| 20210326T11:59:06Z | Fuzzing cryptographic libraries. Magic bug printer go brrrr. | https://github.com/guidovranken/cryptofuzz | 263 | 37| 
+| 20210326T11:50:28Z | Null | https://github.com/nhsd-exeter/dos-service-fuzzy-search-api | 0 | 0| 
+| 20210326T11:25:35Z | PoC of fuzzing closed-source userspace binaries with KVM | https://github.com/klecko/kvm-fuzz | 1 | 0| 
+| 20210326T11:11:31Z | Potentially dangerous files | https://github.com/Bo0oM/fuzz.txt | 1387 | 260| 
+| 20210326T11:01:23Z | C++/QML simulation of robot movement, which is controlled by fuzzy controller (Simulink). | https://github.com/JWarcholC/mobile-fuzzy-robot | 0 | 0| 
+| 20210326T10:08:55Z | Null | https://github.com/VeriBlock/fuzz-corpus | 0 | 1| 
+| 20210326T10:04:58Z | A collection of fuzzers in a harness for testing the SpiderMonkey JavaScript engine. | https://github.com/MozillaSecurity/funfuzz | 560 | 120| 
+| 20210326T09:54:28Z | An add-on filament autochanger for existing 3D printers, in duel-spool configuration. | https://github.com/FuzzyNoodle/Fuzzy-Filament-Autochanger | 0 | 0| 
+| 20210326T09:49:53Z | 模糊聚类算法_python版 | https://github.com/ChoiNgai/FuzzyClustering | 0 | 0| 
 
 
 

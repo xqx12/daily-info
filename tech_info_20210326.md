@@ -88,7 +88,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210326T00:07:42Z | Null | https://github.com/xrisbarney/fuzzer | 0 | 0| 
+| 20210326T12:03:09Z | Coverage-guided, in-process fuzzing for the JVM | https://github.com/CodeIntelligenceTesting/jazzer | 264 | 12| 
+| 20210326T11:59:06Z | Fuzzing cryptographic libraries. Magic bug printer go brrrr. | https://github.com/guidovranken/cryptofuzz | 263 | 37| 
+| 20210326T11:50:28Z | Null | https://github.com/nhsd-exeter/dos-service-fuzzy-search-api | 0 | 0| 
+| 20210326T11:25:35Z | PoC of fuzzing closed-source userspace binaries with KVM | https://github.com/klecko/kvm-fuzz | 1 | 0| 
+| 20210326T11:11:31Z | Potentially dangerous files | https://github.com/Bo0oM/fuzz.txt | 1387 | 260| 
+| 20210326T11:01:23Z | C++/QML simulation of robot movement, which is controlled by fuzzy controller (Simulink). | https://github.com/JWarcholC/mobile-fuzzy-robot | 0 | 0| 
+| 20210326T10:08:55Z | Null | https://github.com/VeriBlock/fuzz-corpus | 0 | 1| 
+| 20210326T10:04:58Z | A collection of fuzzers in a harness for testing the SpiderMonkey JavaScript engine. | https://github.com/MozillaSecurity/funfuzz | 560 | 120| 
+| 20210326T09:54:28Z | An add-on filament autochanger for existing 3D printers, in duel-spool configuration. | https://github.com/FuzzyNoodle/Fuzzy-Filament-Autochanger | 0 | 0| 
+| 20210326T09:49:53Z | 模糊聚类算法_python版 | https://github.com/ChoiNgai/FuzzyClustering | 0 | 0| 
 
 
 
