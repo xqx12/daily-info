@@ -55,7 +55,7 @@
 | 20210325T08:59:53Z | CVE-2021-21389 | BuddyPress < 7.2.1 - REST API Privilege Escalation to RCE | https://github.com/HoangKien1020/CVE-2021-21389 | 未查询到CVE信息| 
 | 20210325T07:49:48Z | CVE-2021-21123 | 🐱‍💻 👍 Google Chrome - File System Access API - vulnerabilities reported by Maciej Pulikowski , Total Bug Bounty Reward: $5.000 , CVE-2021-21123 and 5 more... | https://github.com/Puliczek/CVE-2021-21123-PoC-Google-Chrome | Insufficient data validation in File System API in Google Chrome prior to 88.0.4324.96 allowed a remote attacker to bypass filesystem restrictions via a crafted HTML page.| 
 | 20210325T06:43:35Z | CVE-2021-26295 | CVE-2021-26295 Apache OFBiz rmi反序列化POC | https://github.com/rakjong/CVE-2021-26295-Apache-OFBiz | Apache OFBiz has unsafe deserialization prior to 17.12.06. An unauthenticated attacker can use this vulnerability to successfully take over Apache OFBiz.| 
-| 20210325T03:27:24Z | CVE-2021-26295 | CVE-2021-26295 EXP 可成功反弹Shell | https://github.com/r0ckysec/CVE-2021-26295 | Apache OFBiz has unsafe deserialization prior to 17.12.06. An unauthenticated attacker can use this vulnerability to successfully take over Apache OFBiz.| 
+| 20210325T03:27:24Z | CVE-2021-26295 | CVE-2021-26295 EXP 可成功反弹Shell | https://github.com/r0ckysec/CVE-2021-26295 | | 
 
 
 # klee on Github 推荐
@@ -86,6 +86,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210326T01:38:02Z | Null | https://github.com/IPLOM/ArabExploit | 0 | 0| 
 | 20210326T01:35:56Z | Exploit Database binary exploits located in the /sploits directory | https://github.com/offensive-security/exploitdb-bin-sploits | 1418 | 495| 
 | 20210326T01:23:32Z | CVE-2021-3449 PoC exploit | https://github.com/terorie/cve-2021-3449 | 2 | 0| 
 | 20210326T01:10:32Z | This is a repo for the coding done for CTFs / exploits. The writeups are here: https://github.com/dillonwu-97/csec_writeups | https://github.com/dillonwu-97/csec-code | 0 | 0| 
@@ -95,7 +96,6 @@
 | 20210326T00:42:34Z | PS1 savegame exploit using THPS3 | https://github.com/socram8888/tonyhax | 206 | 4| 
 | 20210326T00:30:18Z | This repository contains tools developed to hack CS:GO. | https://github.com/samdobsonDEV/csgo-exploits | 0 | 0| 
 | 20210326T00:10:51Z | A Trainer For the Game Geometry Dash used to hack / exploit. | https://github.com/lulacoding/Geometry-Dash-Trainer | 0 | 0| 
-| 20210326T00:10:44Z | Exploits project Hacking Command Center | https://github.com/chacka0101/exploits | 4 | 6| 
 
 
 # backdoor on Github 推荐
