@@ -86,6 +86,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210327T12:22:38Z | Null | https://github.com/TERIHAX/Exploit_Desire_X | 0 | 0| 
 | 20210327T12:07:17Z | A collection of intentionally vulnerable pieces of code used to demonstrate different insecure programming practices, how they can be exploited and how they can be fixed, | https://github.com/ColourLaserPrinterWithDuplexPrint/VulnerableByDesign | 0 | 0| 
 | 20210327T12:02:49Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 13 | 6| 
 | 20210327T11:43:17Z | A game of spaceships exploiting astroids. | https://github.com/BlackLambert/astrominer | 0 | 0| 
@@ -95,7 +96,6 @@
 | 20210327T09:53:35Z | K8博客内容存档 | https://github.com/k8gege/k8gege.github.io | 11 | 6| 
 | 20210327T09:52:12Z | Binary Exploitation and Reverse-Engineering (from assembly into C) | https://github.com/anyaschukin/OverRide | 0 | 1| 
 | 20210327T09:51:40Z | Binary Exploitation and Reverse-Engineering (from assembly into C) | https://github.com/anyaschukin/RainFall | 4 | 4| 
-| 20210327T09:49:55Z | -------> RAFEL<------  Android Rat  Written in Java With WebPanel For Controlling Victims | https://github.com/swagkarna/Rafel-Rat | 56 | 28| 
 
 
 # backdoor on Github 推荐
@@ -116,7 +116,8 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210327T12:18:37Z | Null | https://github.com/Gnyblast/BurpFuzzExtension | 0 | 0| 
+| 20210327T12:23:03Z | Null | https://github.com/Gnyblast/BurpFuzzExtension | 0 | 0| 
+| 20210327T12:21:35Z | Generic plugin based web application security fuzzing for anomalies by Slándáil Research Limited | https://github.com/maK-/scanomaly | 1 | 0| 
 | 20210327T11:21:43Z | An awesome toolkit for testing the BLE device, chip and Protocol stack | https://github.com/Charmve/B1ueB0y-BLE-Fuzzing | 0 | 0| 
 | 20210327T11:07:06Z | Null | https://github.com/VeriBlock/fuzz-corpus | 0 | 1| 
 | 20210327T10:52:35Z | Null | https://github.com/Sambigeara/fuzzynote | 2 | 1| 
@@ -125,7 +126,6 @@
 | 20210327T07:05:34Z | Null | https://github.com/Richard1m/fuzzy-octo-doodle | 0 | 0| 
 | 20210327T06:38:05Z | Null | https://github.com/onsoim/FuzzBuilderEx | 1 | 0| 
 | 20210327T06:06:52Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6151 | 1243| 
-| 20210327T05:32:37Z | Null | https://github.com/jiradeto/fuzzbench-result | 0 | 0| 
 
 
 
