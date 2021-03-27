@@ -116,16 +116,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210327T01:16:15Z | Null | https://github.com/VeriBlock/fuzz-corpus | 0 | 1| 
-| 20210326T23:44:45Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6149 | 1243| 
-| 20210326T23:39:59Z | A groovy/java tabular Data (from CSV,SQL,JSON) processing library that supports fuzzy column matching,tranformations/merging/querying | https://github.com/kayr/fuzzy-csv | 7 | 6| 
-| 20210326T23:33:35Z | Null | https://github.com/JoseMAP-99/FuzzyLogic | 0 | 0| 
-| 20210326T22:49:06Z | CS 4152 Project | https://github.com/nicbarone/Fuzzy-Kiwi | 0 | 0| 
-| 20210326T22:45:39Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2294 | 121| 
-| 20210326T22:42:11Z | Null | https://github.com/forallfuzzers/fuzzers | 0 | 0| 
-| 20210326T22:28:51Z | Add interface function for DecFuzzer | https://github.com/hz90937880/NewDecFuzzer | 0 | 0| 
-| 20210326T22:25:19Z | A mutation-based fuzzing engine for MQTT brokers. | https://github.com/PBearson/MosquittoByte | 0 | 0| 
-| 20210326T22:07:43Z | JavaScript class for on-line approximate string matching (for use with auto-complete) | https://github.com/stollcri/fuzziac.js | 5 | 0| 
+| 20210327T11:21:43Z | An awesome toolkit for testing the BLE device, chip and Protocol stack | https://github.com/Charmve/B1ueB0y-BLE-Fuzzing | 0 | 0| 
+| 20210327T11:07:06Z | Null | https://github.com/VeriBlock/fuzz-corpus | 0 | 1| 
+| 20210327T10:52:35Z | Null | https://github.com/Sambigeara/fuzzynote | 2 | 1| 
+| 20210327T10:41:11Z | Personal website of Laurence Hughes | https://github.com/fuzzylogicxx/fuzzylogic | 4 | 1| 
+| 20210327T10:37:26Z | A Swift package to perform fuzzy search queries on strings | https://github.com/truizlop/FuzzyFind | 0 | 0| 
+| 20210327T07:05:34Z | Null | https://github.com/Richard1m/fuzzy-octo-doodle | 0 | 0| 
+| 20210327T06:38:05Z | Null | https://github.com/onsoim/FuzzBuilderEx | 1 | 0| 
+| 20210327T06:06:52Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6151 | 1243| 
+| 20210327T05:32:37Z | Null | https://github.com/jiradeto/fuzzbench-result | 0 | 0| 
+| 20210327T05:15:23Z | This repository is for testing a number of open source applications for vulnerabilities using multiple fuzzers. | https://github.com/bartholomewHarris/fuzzingNode.jsApplications | 1 | 1| 
 
 
 
