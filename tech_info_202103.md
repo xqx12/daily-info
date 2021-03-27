@@ -86,6 +86,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210327T01:38:20Z | exploit-database-papers | https://github.com/offensive-security/exploitdb-papers | 286 | 40| 
 | 20210327T01:02:34Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 13 | 6| 
 | 20210327T00:50:32Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 10 | 6| 
 | 20210327T00:41:39Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9190 | 1480| 
@@ -95,7 +96,6 @@
 | 20210327T00:23:23Z | A simple Python script that exploits Google%s email share feature to gather names and emails. | https://github.com/Veedex/Email-Hoarder | 0 | 0| 
 | 20210326T23:32:39Z | An external ROBLOX print exploit made in C# | https://github.com/deaddlocust/EyeStep-Print-Exploit | 0 | 0| 
 | 20210326T23:14:24Z | Metasploit Post-Exploitation Gather module for Exchange Server | https://github.com/sophoslabs/metasploit_gather_exchange | 21 | 1| 
-| 20210326T22:56:48Z | Null | https://github.com/TERIHAX/Exploit_Desire_X | 0 | 0| 
 
 
 # backdoor on Github 推荐
