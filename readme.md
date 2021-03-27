@@ -66,12 +66,12 @@
 | 20210326T23:32:39Z | An external ROBLOX print exploit made in C# | https://github.com/deaddlocust/EyeStep-Print-Exploit | 0 | 0| 
 | 20210326T23:17:28Z | A simple Python script that exploits Google%s email share feature to gather names and emails. | https://github.com/Veedex/Email-Hoarder | 0 | 0| 
 | 20210326T23:14:24Z | Metasploit Post-Exploitation Gather module for Exchange Server | https://github.com/sophoslabs/metasploit_gather_exchange | 21 | 1| 
-| 20210326T23:02:31Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 13 | 6| 
 | 20210326T22:56:48Z | Null | https://github.com/TERIHAX/Exploit_Desire_X | 0 | 0| 
 | 20210326T22:11:47Z | Disables command suggestions for FastAsyncWorldEdit Sponge. This fixes an exploit in the most recent release of FAWE that has been affecting a lot of Minecraft Sponge servers. | https://github.com/Pokecentral/fawe-dont-suggest | 0 | 0| 
 | 20210326T22:03:08Z | A collection of more than 140+ tools, scripts, cheatsheets and other loots that I have developed over years for Red Teaming/Pentesting/IT Security audits purposes. Most of them came handy on at least one of my real-world engagements. | https://github.com/mgeeky/Penetration-Testing-Tools | 623 | 152| 
 | 20210326T21:50:42Z | i throw exploit POC%s here | https://github.com/0xmanjoos/Exploit-Development | 1 | 1| 
 | 20210326T21:40:22Z | Null | https://github.com/HarryTheKing1/Harry-s-exploit-api | 0 | 0| 
+| 20210326T21:31:00Z | Try to implement  Semantic-Based K-Means Clustering for Microblogs Exploiting Folksonomy paper by Jee-Uk Heu | https://github.com/amirzand2002/Semantic-Based-K-Means | 1 | 0| 
 
 
 # backdoor on Github 推荐
