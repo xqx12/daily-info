@@ -37,7 +37,7 @@
 | 20210326T21:06:39Z | 未知编号 | Null | https://github.com/CyberCommands/CVE2021-23132 | 未查询到CVE信息| 
 | 20210326T20:48:19Z | CVE-2021-22986 | CVE-2021-22986 & F5 BIG-IP RCE | https://github.com/Al1ex/CVE-2021-22986 | 未查询到CVE信息| 
 | 20210326T20:06:42Z | CVE-2021-21123 | 🐱‍💻 👍 Google Chrome - File System Access API - vulnerabilities reported by Maciej Pulikowski , Total Bug Bounty Reward: $5.000 , CVE-2021-21123 and 5 more... | https://github.com/Puliczek/CVE-2021-21123-PoC-Google-Chrome | Insufficient data validation in File System API in Google Chrome prior to 88.0.4324.96 allowed a remote attacker to bypass filesystem restrictions via a crafted HTML page.| 
-| 20210326T19:52:37Z | cve-2021-22986 | F5 BIG-IP远程代码执行；cve-2021-22986，批量检测；命令执行利用 | https://github.com/yaunsky/CVE-202122986-EXP | | 
+| 20210326T19:52:37Z | cve-2021-22986 | F5 BIG-IP远程代码执行；cve-2021-22986，批量检测；命令执行利用 | https://github.com/yaunsky/CVE-202122986-EXP | 未查询到CVE信息| 
 | 20210326T10:02:15Z | CVE-2021-22986 | F5 BIG-IP/BIG-IQ iControl Rest API SSRF to RCE | https://github.com/Udyz/CVE-2021-22986-SSRF2RCE | 未查询到CVE信息| 
 | 20210326T06:31:29Z | CVE-2021-26295 | Null | https://github.com/yumusb/CVE-2021-26295-POC | Apache OFBiz has unsafe deserialization prior to 17.12.06. An unauthenticated attacker can use this vulnerability to successfully take over Apache OFBiz.| 
 
@@ -62,7 +62,6 @@
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
 | 20210326T23:32:39Z | An external ROBLOX print exploit made in C# | https://github.com/deaddlocust/EyeStep-Print-Exploit | 0 | 0| 
-| 20210326T23:17:28Z | A simple Python script that exploits Google%s email share feature to gather names and emails. | https://github.com/Veedex/Email-Hoarder | 0 | 0| 
 | 20210326T23:14:24Z | Metasploit Post-Exploitation Gather module for Exchange Server | https://github.com/sophoslabs/metasploit_gather_exchange | 21 | 1| 
 | 20210326T22:56:48Z | Null | https://github.com/TERIHAX/Exploit_Desire_X | 0 | 0| 
 | 20210326T22:11:47Z | Disables command suggestions for FastAsyncWorldEdit Sponge. This fixes an exploit in the most recent release of FAWE that has been affecting a lot of Minecraft Sponge servers. | https://github.com/Pokecentral/fawe-dont-suggest | 0 | 0| 
@@ -71,6 +70,7 @@
 | 20210326T21:40:22Z | Null | https://github.com/HarryTheKing1/Harry-s-exploit-api | 0 | 0| 
 | 20210326T21:31:00Z | Try to implement  Semantic-Based K-Means Clustering for Microblogs Exploiting Folksonomy paper by Jee-Uk Heu | https://github.com/amirzand2002/Semantic-Based-K-Means | 1 | 0| 
 | 20210326T21:13:35Z | This is the Python code for running the experiments given in https://arxiv.org/pdf/1902.09025.pdf, %Single-forward-step projective splitting: Exploiting cocoercivity%,  Patrick R. Johnstone and Jonathan Eckstein.  arXiv preprint arXiv:1902.09025 (2019). | https://github.com/projective-splitting/coco | 0 | 0| 
+| 20210326T20:53:10Z | Post-exploitation tool for Active Directory recon | https://github.com/tmenochet/ADMap | 0 | 0| 
 
 
 # backdoor on Github 推荐
