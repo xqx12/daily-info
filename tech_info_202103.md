@@ -116,8 +116,9 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210327T12:41:54Z | PoC of fuzzing closed-source userspace binaries with KVM | https://github.com/klecko/kvm-fuzz | 1 | 0| 
+| 20210327T12:41:39Z | Generic plugin based web application security fuzzing for anomalies by Slándáil Research Limited | https://github.com/maK-/scanomaly | 3 | 0| 
 | 20210327T12:40:15Z | A mutation-based fuzzing engine for MQTT brokers. | https://github.com/PBearson/MosquittoByte | 0 | 0| 
-| 20210327T12:40:09Z | Generic plugin based web application security fuzzing for anomalies by Slándáil Research Limited | https://github.com/maK-/scanomaly | 2 | 0| 
 | 20210327T12:38:40Z | Null | https://github.com/LKeynes/fuzzy_logic_engine | 0 | 0| 
 | 20210327T12:32:51Z | Null | https://github.com/VeriBlock/fuzz-corpus | 0 | 1| 
 | 20210327T12:30:43Z | Hacking tools written by me. IP fortune, webmap -- web vulns scanner, rtsp brute+fuzz, and more. | https://github.com/fagcinsk/h4ck | 1 | 0| 
@@ -125,7 +126,6 @@
 | 20210327T11:21:43Z | An awesome toolkit for testing the BLE device, chip and Protocol stack | https://github.com/Charmve/B1ueB0y-BLE-Fuzzing | 0 | 0| 
 | 20210327T10:52:35Z | Null | https://github.com/Sambigeara/fuzzynote | 2 | 1| 
 | 20210327T10:41:11Z | Personal website of Laurence Hughes | https://github.com/fuzzylogicxx/fuzzylogic | 4 | 1| 
-| 20210327T10:37:26Z | A Swift package to perform fuzzy search queries on strings | https://github.com/truizlop/FuzzyFind | 0 | 0| 
 
 
 
