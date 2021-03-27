@@ -86,10 +86,10 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210327T01:43:42Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9191 | 1480| 
 | 20210327T01:38:20Z | exploit-database-papers | https://github.com/offensive-security/exploitdb-papers | 286 | 40| 
 | 20210327T01:02:34Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 13 | 6| 
 | 20210327T00:50:32Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 10 | 6| 
-| 20210327T00:41:39Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9190 | 1480| 
 | 20210327T00:38:57Z | Shadow Strike is a hacking framework that aids in information gathering, payload generation, payload delivery, and website exploitation. | https://github.com/diegomardian/ShadowStrike | 5 | 6| 
 | 20210327T00:35:22Z | PS1 savegame exploit | https://github.com/socram8888/tonyhax | 208 | 4| 
 | 20210327T00:33:39Z | An open-source post-exploitation framework for students, researchers and developers. | https://github.com/malwaredllc/byob | 6083 | 1374| 
