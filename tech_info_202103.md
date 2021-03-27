@@ -116,16 +116,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210326T12:55:50Z | This tool is based on web directory fuzzing. | https://github.com/vivashu27/WebFUZZ | 2 | 0| 
-| 20210326T12:51:48Z | Fuzzing cryptographic libraries. Magic bug printer go brrrr. | https://github.com/guidovranken/cryptofuzz | 263 | 37| 
-| 20210326T12:47:50Z | SSL and TLS protocol test suite and fuzzer | https://github.com/tlsfuzzer/tlsfuzzer | 348 | 86| 
-| 20210326T12:33:16Z | Null | https://github.com/VeriBlock/fuzz-corpus | 0 | 1| 
-| 20210326T12:26:51Z | A differential fuzzer for x86 decoders | https://github.com/trailofbits/mishegos | 139 | 21| 
-| 20210326T12:03:09Z | Coverage-guided, in-process fuzzing for the JVM | https://github.com/CodeIntelligenceTesting/jazzer | 264 | 12| 
-| 20210326T11:50:28Z | Null | https://github.com/nhsd-exeter/dos-service-fuzzy-search-api | 0 | 0| 
-| 20210326T11:25:35Z | PoC of fuzzing closed-source userspace binaries with KVM | https://github.com/klecko/kvm-fuzz | 1 | 0| 
-| 20210326T11:11:31Z | Potentially dangerous files | https://github.com/Bo0oM/fuzz.txt | 1387 | 260| 
-| 20210326T11:01:23Z | C++/QML simulation of robot movement, which is controlled by fuzzy controller (Simulink). | https://github.com/JWarcholC/mobile-fuzzy-robot | 0 | 0| 
+| 20210327T00:34:58Z | Null | https://github.com/VeriBlock/fuzz-corpus | 0 | 1| 
+| 20210326T23:44:45Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6149 | 1243| 
+| 20210326T23:39:59Z | A groovy/java tabular Data (from CSV,SQL,JSON) processing library that supports fuzzy column matching,tranformations/merging/querying | https://github.com/kayr/fuzzy-csv | 7 | 6| 
+| 20210326T23:33:35Z | Null | https://github.com/JoseMAP-99/FuzzyLogic | 0 | 0| 
+| 20210326T22:49:06Z | CS 4152 Project | https://github.com/nicbarone/Fuzzy-Kiwi | 0 | 0| 
+| 20210326T22:45:39Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2294 | 121| 
+| 20210326T22:42:11Z | Null | https://github.com/forallfuzzers/fuzzers | 0 | 0| 
+| 20210326T22:28:51Z | Add interface function for DecFuzzer | https://github.com/hz90937880/NewDecFuzzer | 0 | 0| 
+| 20210326T22:25:19Z | A mutation-based fuzzing engine for MQTT brokers. | https://github.com/PBearson/MosquittoByte | 0 | 0| 
+| 20210326T22:07:43Z | JavaScript class for on-line approximate string matching (for use with auto-complete) | https://github.com/stollcri/fuzziac.js | 5 | 0| 
 
 
 
