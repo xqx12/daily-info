@@ -86,6 +86,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210328T01:38:17Z | exploit-database-papers | https://github.com/offensive-security/exploitdb-papers | 286 | 40| 
 | 20210328T01:29:07Z | Project Carthage is a Roblox Exploit that inspired by code lyoko | https://github.com/DeletedUser0x96/Project-Carthage | 0 | 0| 
 | 20210328T01:28:19Z | Null | https://github.com/TheMolb/BananoExploit | 0 | 0| 
 | 20210328T01:02:24Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 13 | 6| 
@@ -95,7 +96,6 @@
 | 20210327T23:44:55Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9193 | 1480| 
 | 20210327T23:24:21Z | A simple Python script that exploits Google%s email share feature to gather names and emails. | https://github.com/Veedex/Email-Hoarder | 0 | 0| 
 | 20210327T23:03:40Z | A simple tool for find IDOR.<br>For start:<br>git clone https://github.com/Exploit-lang/IDOR-scraper.git<br>cd IDOR-scraper<br>python3 main.py | https://github.com/Exploit-lang/IDOR-scraper | 0 | 0| 
-| 20210327T22:43:09Z | Exploiting & Refining Depth Distributions with Triangulation Light Curtains | https://github.com/soulslicer/rgb-lc-fusion | 0 | 0| 
 
 
 # backdoor on Github 推荐
