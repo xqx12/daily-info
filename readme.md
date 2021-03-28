@@ -41,6 +41,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210328T12:57:21Z | PS4 Exploits 5.05-7.55 | https://github.com/Buzbee/Buzbee.github.io | 0 | 0| 
 | 20210328T12:50:47Z | CVE-2021-3449 OpenSSL denial-of-service exploit 👨🏻‍💻 | https://github.com/terorie/cve-2021-3449 | 74 | 16| 
 | 20210328T12:50:34Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 10 | 6| 
 | 20210328T12:44:04Z | The project is about exploiting the heavily parallelized architecture of a GPU, using the Nvidia CUDA library, in order to calculate the autocorrelation function of a given set of data | https://github.com/Lapo9/AutocorrelationCUDA | 0 | 0| 
@@ -50,7 +51,6 @@
 | 20210328T12:09:30Z | Every script I made for Roblox. For exploits and games. | https://github.com/lolpippiou/roblox | 0 | 0| 
 | 20210328T12:02:33Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 13 | 6| 
 | 20210328T11:37:16Z | A collection of scripts I%ve written, including automation, enumeration, exploitation, etc. | https://github.com/jessisec/scripts | 0 | 0| 
-| 20210328T11:12:21Z | Offensive tool to check and exploit vulnerabilities in Microsoft Windows over the Samba protocol (SMB) using the Metasploit Framework. | https://github.com/d4t4s3c/SMBploit | 39 | 11| 
 
 
 # backdoor on Github 推荐
