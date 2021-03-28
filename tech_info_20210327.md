@@ -45,7 +45,6 @@
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
 | 20210327T23:59:07Z | A Simple Retro/Classic Exploit Host Menu for PS4 5.05 FW | https://github.com/xforce505/xforce505.github.io | 0 | 0| 
-| 20210327T23:44:55Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9193 | 1481| 
 | 20210327T23:24:21Z | A simple Python script that exploits Google%s email share feature to gather names and emails. | https://github.com/Veedex/Email-Hoarder | 0 | 0| 
 | 20210327T23:03:40Z | A simple tool for find IDOR.<br>For start:<br>git clone https://github.com/Exploit-lang/IDOR-scraper.git<br>cd IDOR-scraper<br>python3 main.py | https://github.com/Exploit-lang/IDOR-scraper | 0 | 0| 
 | 20210327T22:43:09Z | Exploiting & Refining Depth Distributions with Triangulation Light Curtains | https://github.com/soulslicer/rgb-lc-fusion | 0 | 0| 
@@ -54,6 +53,7 @@
 | 20210327T21:50:03Z | Random stuff related to exploitation, reversing, etc | https://github.com/mike-hilton/binary-fun | 0 | 0| 
 | 20210327T21:36:59Z | An anti-exploit attempt for Fabric | https://github.com/samolego/GolfIV | 18 | 3| 
 | 20210327T21:21:41Z | 🔧 The program that allows you to grab certain info about the victim | https://github.com/Zeczero/Discord-Data-Grabber | 3 | 0| 
+| 20210327T20:27:48Z | Null | https://github.com/TERIHAX/Exploit_Desire_X | 0 | 0| 
 
 
 # backdoor on Github 推荐
