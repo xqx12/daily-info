@@ -46,7 +46,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20210328T11:59:51Z | CVE-2021-22192 | CVE-2021-22192 靶场： 未授权用户 RCE 漏洞 | https://github.com/lyy289065406/CVE-2021-22192 | An issue has been discovered in GitLab CE/EE affecting all versions starting from 13.2 allowing unauthorized authenticated users to execute arbitrary code on the server.| 
+| 20210328T11:59:51Z | CVE-2021-22192 | CVE-2021-22192 靶场： 未授权用户 RCE 漏洞 | https://github.com/lyy289065406/CVE-2021-22192 | | 
 | 20210328T11:20:50Z | CVE-2021-3156 | Sudo Baron Samedit Exploit | https://github.com/worawit/CVE-2021-3156 | Sudo before 1.9.5p2 contains an off-by-one error that can result in a heap-based buffer overflow, which allows privilege escalation to root via %sudoedit -s% and a command-line argument that ends with a single backslash character.| 
 | 20210328T10:45:13Z | CVE-2021-21123 | 🐱‍💻 👍 Google Chrome - File System Access API - vulnerabilities reported by Maciej Pulikowski , Total Bug Bounty Reward: $5.000 , CVE-2021-21123 and 5 more... | https://github.com/Puliczek/CVE-2021-21123-PoC-Google-Chrome | Insufficient data validation in File System API in Google Chrome prior to 88.0.4324.96 allowed a remote attacker to bypass filesystem restrictions via a crafted HTML page.| 
 | 20210328T08:42:58Z | cve-2021-3449 | CVE-2021-3449 OpenSSL denial-of-service exploit 👨🏻‍💻 | https://github.com/terorie/cve-2021-3449 | An OpenSSL TLS server may crash if sent a maliciously crafted renegotiation ClientHello message from a client. If a TLSv1.2 renegotiation ClientHello omits the signature_algorithms extension (where it was present in the initial ClientHello), but includes a signature_algorithms_cert extension then a NULL pointer dereference will result, leading to a crash and a denial of service attack. A server is only vulnerable if it has TLSv1.2 and renegotiation enabled (which is the default configuration). OpenSSL TLS clients are not impacted by this issue. All OpenSSL 1.1.1 versions are affected by this issue. Users of these versions should upgrade to OpenSSL 1.1.1k. OpenSSL 1.0.2 is not impacted by this issue. Fixed in OpenSSL 1.1.1k (Affected 1.1.1-1.1.1j).| 
@@ -86,6 +86,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210328T12:44:04Z | The project is about exploiting the heavily parallelized architecture of a GPU, using the Nvidia CUDA library, in order to calculate the autocorrelation function of a given set of data | https://github.com/Lapo9/AutocorrelationCUDA | 0 | 0| 
 | 20210328T12:38:07Z | Config files for my GitHub profile. | https://github.com/Hackerboy-exploit/Hackerboy-exploit | 0 | 0| 
 | 20210328T12:13:37Z | PS4 Exploit list | https://github.com/Hakkuraifu/PS4xploit | 30 | 10| 
 | 20210328T12:10:22Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9196 | 1482| 
@@ -95,7 +96,6 @@
 | 20210328T11:12:21Z | Offensive tool to check and exploit vulnerabilities in Microsoft Windows over the Samba protocol (SMB) using the Metasploit Framework. | https://github.com/d4t4s3c/SMBploit | 39 | 11| 
 | 20210328T10:10:44Z | PS4 Exploit Host | https://github.com/Night-King-Host/Night-King-Host.github.io | 7 | 3| 
 | 20210328T09:54:04Z | Exploit for RakNet | https://github.com/DevClancy/raknet_fucker | 1 | 0| 
-| 20210328T09:50:54Z | Windows kernel exploit for https://github.com/hacksysteam/HackSysExtremeVulnerableDriver | https://github.com/s1vona/HEVD_Exploit | 0 | 0| 
 
 
 # backdoor on Github 推荐
