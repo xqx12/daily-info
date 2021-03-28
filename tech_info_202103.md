@@ -52,7 +52,7 @@
 | 20210328T08:42:58Z | cve-2021-3449 | CVE-2021-3449 OpenSSL denial-of-service exploit 👨🏻‍💻 | https://github.com/terorie/cve-2021-3449 | An OpenSSL TLS server may crash if sent a maliciously crafted renegotiation ClientHello message from a client. If a TLSv1.2 renegotiation ClientHello omits the signature_algorithms extension (where it was present in the initial ClientHello), but includes a signature_algorithms_cert extension then a NULL pointer dereference will result, leading to a crash and a denial of service attack. A server is only vulnerable if it has TLSv1.2 and renegotiation enabled (which is the default configuration). OpenSSL TLS clients are not impacted by this issue. All OpenSSL 1.1.1 versions are affected by this issue. Users of these versions should upgrade to OpenSSL 1.1.1k. OpenSSL 1.0.2 is not impacted by this issue. Fixed in OpenSSL 1.1.1k (Affected 1.1.1-1.1.1j).| 
 | 20210328T04:46:00Z | 未知编号 | Null | https://github.com/CyberCommands/CVE2021-23132 | 未查询到CVE信息| 
 | 20210328T00:01:54Z | CVE-2021-21389 | BuddyPress < 7.2.1 - REST API Privilege Escalation to RCE | https://github.com/HoangKien1020/CVE-2021-21389 | BuddyPress is an open source WordPress plugin to build a community site. In releases of BuddyPress from 5.0.0 before 7.2.1 it%s possible for a non-privileged, regular user to obtain administrator rights by exploiting an issue in the REST API members endpoint. The vulnerability has been fixed in BuddyPress 7.2.1. Existing installations of the plugin should be updated to this version to mitigate the issue.| 
-| 20210327T13:34:17Z | CVE-2020-0601 | Null | https://github.com/okanulkr/CurveBall-CVE-2020-0601-PoC | | 
+| 20210327T13:34:17Z | CVE-2020-0601 | Null | https://github.com/okanulkr/CurveBall-CVE-2020-0601-PoC | A spoofing vulnerability exists in the way Windows CryptoAPI (Crypt32.dll) validates Elliptic Curve Cryptography (ECC) certificates.An attacker could exploit the vulnerability by using a spoofed code-signing certificate to sign a malicious executable, making it appear the file was from a trusted, legitimate source, aka %Windows CryptoAPI Spoofing Vulnerability%.| 
 | 20210327T08:03:18Z | CVE-2020-11932 | Null | https://github.com/code-developers/CVE-2020-11932 | It was discovered that the Subiquity installer for Ubuntu Server logged the LUKS full disk encryption password if one was entered.| 
 | 20210327T03:16:33Z | CVE-2020-0022 | CVE-2020-0022 vulnerability exploitation on Bouygues BBox Miami (Android TV 8.0 - ARM32 Cortex A9) | https://github.com/Polo35/CVE-2020-0022 | In reassemble_and_dispatch of packet_fragmenter.cc, there is possible out of bounds write due to an incorrect bounds calculation. This could lead to remote code execution over Bluetooth with no additional execution privileges needed. User interaction is not needed for exploitation.Product: AndroidVersions: Android-8.0 Android-8.1 Android-9 Android-10Android ID: A-143894715| 
 | 20210327T02:50:03Z | CVE-2021-26295 | Null | https://github.com/yumusb/CVE-2021-26295-POC | Apache OFBiz has unsafe deserialization prior to 17.12.06. An unauthenticated attacker can use this vulnerability to successfully take over Apache OFBiz.| 
@@ -86,6 +86,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210328T12:13:37Z | PS4 Exploit list | https://github.com/Hakkuraifu/PS4xploit | 30 | 10| 
 | 20210328T12:10:22Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9196 | 1482| 
 | 20210328T12:09:30Z | Every script I made for Roblox. For exploits and games. | https://github.com/lolpippiou/roblox | 0 | 0| 
 | 20210328T12:02:33Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 13 | 6| 
@@ -95,12 +96,12 @@
 | 20210328T09:54:04Z | Exploit for RakNet | https://github.com/DevClancy/raknet_fucker | 1 | 0| 
 | 20210328T09:50:54Z | Windows kernel exploit for https://github.com/hacksysteam/HackSysExtremeVulnerableDriver | https://github.com/s1vona/HEVD_Exploit | 0 | 0| 
 | 20210328T09:34:55Z | iblessing is an iOS security exploiting toolkit, it mainly includes application information collection, static analysis and dynamic analysis. It can be used for reverse engineering, binary analysis and vulnerability mining. | https://github.com/Soulghost/iblessing | 329 | 49| 
-| 20210328T08:42:58Z | CVE-2021-3449 OpenSSL denial-of-service exploit 👨🏻‍💻 | https://github.com/terorie/cve-2021-3449 | 73 | 16| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210328T12:15:13Z | A basic backdoor with keylogger and other functionalities | https://github.com/D3epDiv3r/Python-backdoor | 0 | 0| 
 | 20210328T11:19:23Z | Null | https://github.com/viamAhmadi/ninja-backdoor-server | 0 | 0| 
 | 20210328T10:32:18Z | Null | https://github.com/viamAhmadi/ninja-backdoor | 0 | 0| 
 | 20210328T09:29:31Z | Null | https://github.com/ph-luffy/Backdoor | 1 | 1| 
@@ -110,22 +111,21 @@
 | 20210328T02:23:29Z | Ghost Framework is an Android post-exploitation framework that exploits the Android Debug Bridge to remotely access an Android device. Ghost Framework gives you the power and convenience of remote Android device administration. | https://github.com/EntySec/ghost | 1008 | 496| 
 | 20210328T00:42:40Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 200 | 34| 
 | 20210327T17:49:18Z | Pupy is an opensource, cross-platform (Windows, Linux, OSX, Android) remote administration and post-exploitation tool mainly written in python | https://github.com/n1nj4sec/pupy | 6236 | 1600| 
-| 20210327T17:14:32Z | A Simple android remote administration tool using sockets. It uses java on the client side and python on the server side | https://github.com/karma9874/AndroRAT | 190 | 83| 
 
 
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210328T00:52:18Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 3422 | 787| 
-| 20210328T00:50:18Z | A dart port of the popular fuzzywuzzy package | https://github.com/SphericalKat/dart-fuzzywuzzy | 0 | 0| 
-| 20210328T00:36:48Z | CS 4152 Project | https://github.com/nicbarone/Fuzzy-Kiwi | 0 | 0| 
-| 20210328T00:00:52Z | Null | https://github.com/C-Thayer/Fuzzy_project | 0 | 0| 
-| 20210327T23:54:10Z | collection of helper tools for fuzzing | https://github.com/fuzzah/fuzzaide | 2 | 0| 
-| 20210327T23:31:33Z | Null | https://github.com/VeriBlock/fuzz-corpus | 0 | 1| 
-| 20210327T23:24:43Z | Null | https://github.com/keithkthai/fuzzy-engine | 0 | 0| 
-| 20210327T22:07:50Z | Null | https://github.com/gdepuydt/fuzzoz | 0 | 0| 
-| 20210327T21:57:25Z | Hacking tools written by me. IP fortune, webmap -- web vulns scanner, rtsp brute+fuzz, and more. | https://github.com/fagcinsk/h4ck | 1 | 0| 
-| 20210327T21:44:04Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6152 | 1243| 
+| 20210328T12:12:31Z | Null | https://github.com/DanielEbert/EmulatedFirmwareFuzzing | 0 | 0| 
+| 20210328T12:05:56Z | Fast web fuzzer written in Go | https://github.com/ffuf/ffuf | 4181 | 497| 
+| 20210328T12:05:05Z | Null | https://github.com/VeriBlock/fuzz-corpus | 0 | 1| 
+| 20210328T12:03:22Z | Personal website of Laurence Hughes | https://github.com/fuzzylogicxx/fuzzylogic | 4 | 1| 
+| 20210328T11:45:14Z | Hacking tools written by me. IP fortune, webmap -- web vulns scanner, rtsp brute+fuzz, and more. | https://github.com/fagcinsk/h4ck | 1 | 0| 
+| 20210328T11:18:44Z | This repository is for testing a number of open source applications for vulnerabilities using multiple fuzzers. | https://github.com/bartholomewHarris/fuzzingNode.jsApplications | 1 | 1| 
+| 20210328T11:11:00Z | Null | https://github.com/marco428/fuzzy-octo-meme | 0 | 0| 
+| 20210328T11:02:41Z | a c program containing vulnerable code for common types of vulnerabilities, can be used to show fuzzing concepts. | https://github.com/hardik05/Damn_Vulnerable_C_Program | 215 | 22| 
+| 20210328T09:44:07Z | A dart port of the popular fuzzywuzzy package | https://github.com/SphericalKat/dart-fuzzywuzzy | 5 | 1| 
+| 20210328T09:38:01Z | Fuzz testing common properties of python methods | https://github.com/steverpalmer/GenericTesting | 0 | 0| 
 
 
 

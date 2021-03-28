@@ -41,6 +41,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210328T12:13:37Z | PS4 Exploit list | https://github.com/Hakkuraifu/PS4xploit | 30 | 10| 
 | 20210328T12:10:22Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9196 | 1482| 
 | 20210328T12:09:30Z | Every script I made for Roblox. For exploits and games. | https://github.com/lolpippiou/roblox | 0 | 0| 
 | 20210328T12:02:33Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 13 | 6| 
@@ -50,12 +51,12 @@
 | 20210328T09:54:04Z | Exploit for RakNet | https://github.com/DevClancy/raknet_fucker | 1 | 0| 
 | 20210328T09:50:54Z | Windows kernel exploit for https://github.com/hacksysteam/HackSysExtremeVulnerableDriver | https://github.com/s1vona/HEVD_Exploit | 0 | 0| 
 | 20210328T09:34:55Z | iblessing is an iOS security exploiting toolkit, it mainly includes application information collection, static analysis and dynamic analysis. It can be used for reverse engineering, binary analysis and vulnerability mining. | https://github.com/Soulghost/iblessing | 329 | 49| 
-| 20210328T08:42:58Z | CVE-2021-3449 OpenSSL denial-of-service exploit 👨🏻‍💻 | https://github.com/terorie/cve-2021-3449 | 73 | 16| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210328T12:15:13Z | A basic backdoor with keylogger and other functionalities | https://github.com/D3epDiv3r/Python-backdoor | 0 | 0| 
 | 20210328T11:19:23Z | Null | https://github.com/viamAhmadi/ninja-backdoor-server | 0 | 0| 
 | 20210328T10:32:18Z | Null | https://github.com/viamAhmadi/ninja-backdoor | 0 | 0| 
 | 20210328T09:29:31Z | Null | https://github.com/ph-luffy/Backdoor | 1 | 1| 
@@ -69,10 +70,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210328T00:52:18Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 3422 | 787| 
-| 20210328T00:50:18Z | A dart port of the popular fuzzywuzzy package | https://github.com/SphericalKat/dart-fuzzywuzzy | 0 | 0| 
-| 20210328T00:36:48Z | CS 4152 Project | https://github.com/nicbarone/Fuzzy-Kiwi | 0 | 0| 
-| 20210328T00:00:52Z | Null | https://github.com/C-Thayer/Fuzzy_project | 0 | 0| 
+| 20210328T12:12:31Z | Null | https://github.com/DanielEbert/EmulatedFirmwareFuzzing | 0 | 0| 
+| 20210328T12:05:56Z | Fast web fuzzer written in Go | https://github.com/ffuf/ffuf | 4181 | 497| 
+| 20210328T12:05:05Z | Null | https://github.com/VeriBlock/fuzz-corpus | 0 | 1| 
+| 20210328T12:03:22Z | Personal website of Laurence Hughes | https://github.com/fuzzylogicxx/fuzzylogic | 4 | 1| 
+| 20210328T11:45:14Z | Hacking tools written by me. IP fortune, webmap -- web vulns scanner, rtsp brute+fuzz, and more. | https://github.com/fagcinsk/h4ck | 1 | 0| 
+| 20210328T11:18:44Z | This repository is for testing a number of open source applications for vulnerabilities using multiple fuzzers. | https://github.com/bartholomewHarris/fuzzingNode.jsApplications | 1 | 1| 
+| 20210328T11:11:00Z | Null | https://github.com/marco428/fuzzy-octo-meme | 0 | 0| 
+| 20210328T11:02:41Z | a c program containing vulnerable code for common types of vulnerabilities, can be used to show fuzzing concepts. | https://github.com/hardik05/Damn_Vulnerable_C_Program | 215 | 22| 
+| 20210328T09:44:07Z | A dart port of the popular fuzzywuzzy package | https://github.com/SphericalKat/dart-fuzzywuzzy | 5 | 1| 
+| 20210328T09:38:01Z | Fuzz testing common properties of python methods | https://github.com/steverpalmer/GenericTesting | 0 | 0| 
 
 
 
