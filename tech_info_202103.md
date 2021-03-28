@@ -50,7 +50,7 @@
 | 20210327T22:36:41Z | CVE-2021-21123 | 🐱‍💻 👍 Google Chrome - File System Access API - vulnerabilities reported by Maciej Pulikowski , Total Bug Bounty Reward: $5.000 , CVE-2021-21123 and 5 more... | https://github.com/Puliczek/CVE-2021-21123-PoC-Google-Chrome | Insufficient data validation in File System API in Google Chrome prior to 88.0.4324.96 allowed a remote attacker to bypass filesystem restrictions via a crafted HTML page.| 
 | 20210327T22:24:35Z | CVE-2021-3156 | Sudo Baron Samedit Exploit | https://github.com/worawit/CVE-2021-3156 | Sudo before 1.9.5p2 contains an off-by-one error that can result in a heap-based buffer overflow, which allows privilege escalation to root via %sudoedit -s% and a command-line argument that ends with a single backslash character.| 
 | 20210327T19:59:06Z | cve-2021-3449 | CVE-2021-3449 OpenSSL denial-of-service exploit 👨🏻‍💻 | https://github.com/terorie/cve-2021-3449 | An OpenSSL TLS server may crash if sent a maliciously crafted renegotiation ClientHello message from a client. If a TLSv1.2 renegotiation ClientHello omits the signature_algorithms extension (where it was present in the initial ClientHello), but includes a signature_algorithms_cert extension then a NULL pointer dereference will result, leading to a crash and a denial of service attack. A server is only vulnerable if it has TLSv1.2 and renegotiation enabled (which is the default configuration). OpenSSL TLS clients are not impacted by this issue. All OpenSSL 1.1.1 versions are affected by this issue. Users of these versions should upgrade to OpenSSL 1.1.1k. OpenSSL 1.0.2 is not impacted by this issue. Fixed in OpenSSL 1.1.1k (Affected 1.1.1-1.1.1j).| 
-| 20210327T13:34:17Z | CVE-2020-0601 | Null | https://github.com/okanulkr/CurveBall-CVE-2020-0601-PoC | A spoofing vulnerability exists in the way Windows CryptoAPI (Crypt32.dll) validates Elliptic Curve Cryptography (ECC) certificates.An attacker could exploit the vulnerability by using a spoofed code-signing certificate to sign a malicious executable, making it appear the file was from a trusted, legitimate source, aka %Windows CryptoAPI Spoofing Vulnerability%.| 
+| 20210327T13:34:17Z | CVE-2020-0601 | Null | https://github.com/okanulkr/CurveBall-CVE-2020-0601-PoC | | 
 | 20210327T11:59:36Z | 未知编号 | Null | https://github.com/CyberCommands/CVE2021-23132 | 未查询到CVE信息| 
 | 20210327T09:30:21Z | CVE-2021-22192 | CVE-2021-22192 靶场： 未授权用户 RCE 漏洞 | https://github.com/lyy289065406/CVE-2021-22192 | An issue has been discovered in GitLab CE/EE affecting all versions starting from 13.2 allowing unauthorized authenticated users to execute arbitrary code on the server.| 
 | 20210327T08:03:18Z | CVE-2020-11932 | Null | https://github.com/code-developers/CVE-2020-11932 | It was discovered that the Subiquity installer for Ubuntu Server logged the LUKS full disk encryption password if one was entered.| 
@@ -116,16 +116,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210327T12:41:54Z | PoC of fuzzing closed-source userspace binaries with KVM | https://github.com/klecko/kvm-fuzz | 1 | 0| 
-| 20210327T12:41:39Z | Generic plugin based web application security fuzzing for anomalies by Slándáil Research Limited | https://github.com/maK-/scanomaly | 3 | 0| 
-| 20210327T12:40:15Z | A mutation-based fuzzing engine for MQTT brokers. | https://github.com/PBearson/MosquittoByte | 0 | 0| 
-| 20210327T12:38:40Z | Null | https://github.com/LKeynes/fuzzy_logic_engine | 0 | 0| 
-| 20210327T12:32:51Z | Null | https://github.com/VeriBlock/fuzz-corpus | 0 | 1| 
-| 20210327T12:30:43Z | Hacking tools written by me. IP fortune, webmap -- web vulns scanner, rtsp brute+fuzz, and more. | https://github.com/fagcinsk/h4ck | 1 | 0| 
-| 20210327T12:23:03Z | Null | https://github.com/Gnyblast/BurpFuzzExtension | 0 | 0| 
-| 20210327T11:21:43Z | An awesome toolkit for testing the BLE device, chip and Protocol stack | https://github.com/Charmve/B1ueB0y-BLE-Fuzzing | 0 | 0| 
-| 20210327T10:52:35Z | Null | https://github.com/Sambigeara/fuzzynote | 2 | 1| 
-| 20210327T10:41:11Z | Personal website of Laurence Hughes | https://github.com/fuzzylogicxx/fuzzylogic | 4 | 1| 
+| 20210328T00:23:06Z | A dart port of the popular fuzzywuzzy package | https://github.com/SphericalKat/dart-fuzzywuzzy | 0 | 0| 
+| 20210328T00:20:51Z | CS 4152 Project | https://github.com/nicbarone/Fuzzy-Kiwi | 0 | 0| 
+| 20210328T00:00:52Z | Null | https://github.com/C-Thayer/Fuzzy_project | 0 | 0| 
+| 20210327T23:54:10Z | collection of helper tools for fuzzing | https://github.com/fuzzah/fuzzaide | 2 | 0| 
+| 20210327T23:31:33Z | Null | https://github.com/VeriBlock/fuzz-corpus | 0 | 1| 
+| 20210327T23:24:43Z | Null | https://github.com/keithkthai/fuzzy-engine | 0 | 0| 
+| 20210327T22:07:50Z | Null | https://github.com/gdepuydt/fuzzoz | 0 | 0| 
+| 20210327T21:57:25Z | Hacking tools written by me. IP fortune, webmap -- web vulns scanner, rtsp brute+fuzz, and more. | https://github.com/fagcinsk/h4ck | 1 | 0| 
+| 20210327T21:44:04Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6152 | 1243| 
+| 20210327T21:19:19Z | Fuzzing cryptographic libraries. Magic bug printer go brrrr. | https://github.com/guidovranken/cryptofuzz | 264 | 37| 
 
 
 
