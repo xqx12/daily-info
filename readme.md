@@ -59,7 +59,6 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210328T20:30:11Z | Ghost Framework is an Android post-exploitation framework that exploits the Android Debug Bridge to remotely access an Android device. Ghost Framework gives you the power and convenience of remote Android device administration. | https://github.com/EntySec/ghost | 1009 | 496| 
 | 20210328T19:07:22Z | AMWScan (PHP Antimalware Scanner) is a free tool to scan php files and analyze your project to find any malicious code inside it. | https://github.com/marcocesarato/PHP-Antimalware-Scanner | 184 | 34| 
 | 20210328T12:46:38Z | Backdoors Framework for Deep Learning and Federated Learning. A light-weight tool to conduct your research on backdoors. | https://github.com/ebagdasa/backdoors101 | 60 | 11| 
 | 20210328T12:15:48Z | A basic backdoor with keylogger and other functionalities | https://github.com/D3epDiv3r/Python-backdoor | 0 | 0| 
@@ -69,6 +68,7 @@
 | 20210328T06:52:57Z | Fully Undetectable Malware Backdoor | https://github.com/raunvk/stealthware-backdoor | 4 | 2| 
 | 20210328T04:43:31Z | a simple ruby tool for generating backdoor | https://github.com/code-developers/rb-reverse-shell | 0 | 0| 
 | 20210328T04:34:00Z | Security cameras aren%t my thing, so this article is for linking to open source security camera systems with no known backdoors. | https://github.com/seanpm2001/Open-source-security-camera | 1 | 0| 
+| 20210328T00:42:40Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 200 | 34| 
 
 
 # fuzz on Github 推荐
