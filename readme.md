@@ -20,7 +20,7 @@
 | --- | --- | --- | --- | ---| 
 | 20210328T18:33:53Z | CVE-2021-21123 | 🐱‍💻 👍 Google Chrome - File System Access API - vulnerabilities reported by Maciej Pulikowski , Total Bug Bounty Reward: $5.000 , CVE-2021-21123 and 5 more... | https://github.com/Puliczek/CVE-2021-21123-PoC-Google-Chrome | Insufficient data validation in File System API in Google Chrome prior to 88.0.4324.96 allowed a remote attacker to bypass filesystem restrictions via a crafted HTML page.| 
 | 20210328T15:23:01Z | CVE-2021-3156 | Sudo Baron Samedit Exploit | https://github.com/worawit/CVE-2021-3156 | Sudo before 1.9.5p2 contains an off-by-one error that can result in a heap-based buffer overflow, which allows privilege escalation to root via %sudoedit -s% and a command-line argument that ends with a single backslash character.| 
-| 20210328T11:59:51Z | CVE-2021-22192 | CVE-2021-22192 靶场： 未授权用户 RCE 漏洞 | https://github.com/lyy289065406/CVE-2021-22192 | | 
+| 20210328T11:59:51Z | CVE-2021-22192 | CVE-2021-22192 靶场： 未授权用户 RCE 漏洞 | https://github.com/lyy289065406/CVE-2021-22192 | An issue has been discovered in GitLab CE/EE affecting all versions starting from 13.2 allowing unauthorized authenticated users to execute arbitrary code on the server.| 
 | 20210328T04:46:00Z | 未知编号 | Null | https://github.com/CyberCommands/CVE2021-23132 | 未查询到CVE信息| 
 | 20210328T00:01:54Z | CVE-2021-21389 | BuddyPress < 7.2.1 - REST API Privilege Escalation to RCE | https://github.com/HoangKien1020/CVE-2021-21389 | BuddyPress is an open source WordPress plugin to build a community site. In releases of BuddyPress from 5.0.0 before 7.2.1 it%s possible for a non-privileged, regular user to obtain administrator rights by exploiting an issue in the REST API members endpoint. The vulnerability has been fixed in BuddyPress 7.2.1. Existing installations of the plugin should be updated to this version to mitigate the issue.| 
 
@@ -74,16 +74,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210328T12:12:31Z | Null | https://github.com/DanielEbert/EmulatedFirmwareFuzzing | 0 | 0| 
-| 20210328T12:05:56Z | Fast web fuzzer written in Go | https://github.com/ffuf/ffuf | 4181 | 497| 
-| 20210328T12:05:05Z | Null | https://github.com/VeriBlock/fuzz-corpus | 0 | 1| 
-| 20210328T12:03:22Z | Personal website of Laurence Hughes | https://github.com/fuzzylogicxx/fuzzylogic | 4 | 1| 
-| 20210328T11:45:14Z | Hacking tools written by me. IP fortune, webmap -- web vulns scanner, rtsp brute+fuzz, and more. | https://github.com/fagcinsk/h4ck | 1 | 0| 
-| 20210328T11:18:44Z | This repository is for testing a number of open source applications for vulnerabilities using multiple fuzzers. | https://github.com/bartholomewHarris/fuzzingNode.jsApplications | 1 | 1| 
-| 20210328T11:11:00Z | Null | https://github.com/marco428/fuzzy-octo-meme | 0 | 0| 
-| 20210328T11:02:41Z | a c program containing vulnerable code for common types of vulnerabilities, can be used to show fuzzing concepts. | https://github.com/hardik05/Damn_Vulnerable_C_Program | 215 | 22| 
-| 20210328T09:44:07Z | A dart port of the popular fuzzywuzzy package | https://github.com/SphericalKat/dart-fuzzywuzzy | 5 | 1| 
-| 20210328T09:38:01Z | Fuzz testing common properties of python methods | https://github.com/steverpalmer/GenericTesting | 0 | 0| 
+| 20210328T23:35:01Z | Render a subset of a collection with fuzzy searching | https://github.com/jdlehman/react-fuzzy-filter | 37 | 4| 
+| 20210328T23:31:18Z | Null | https://github.com/VeriBlock/fuzz-corpus | 0 | 1| 
+| 20210328T23:18:31Z | 9. Node.js Challenge Professional README Generator | https://github.com/dotdlew/fuzzy-spoon | 0 | 0| 
+| 20210328T22:46:58Z | Transfer AFL files over a mesh to fuzz across multiple servers | https://github.com/maride/afl-transmit | 0 | 0| 
+| 20210328T22:07:53Z | A mutation-based fuzzing engine for MQTT brokers. | https://github.com/PBearson/MosquittoByte | 0 | 0| 
+| 20210328T21:55:21Z | Null | https://github.com/DanielEbert/EmulatedFirmwareFuzzing | 0 | 0| 
+| 20210328T21:51:12Z | Basic fuzzer for malloc implementations | https://github.com/emeryberger/hangover | 4 | 1| 
+| 20210328T21:49:04Z | Um Sistema Fuzzy que recebe o tamanho de um imóvel e sua qualidade, retornando o valor estimado de preço para ele | https://github.com/FredericoBender/Sistema-Fuzzy-Avaliador_de_imovel | 0 | 0| 
+| 20210328T21:44:20Z | Autofuze has been developped to provide a full toolkit to fuzz and pentest several protocols used in automotive industry such as USB, XCP, UDS, CAN. Everything is done in Python to provide a convenient way to develop automated test. | https://github.com/DanAurea/AutoFuze | 0 | 0| 
+| 20210328T21:39:01Z | Hacking tools written by me. IP fortune, webmap -- web vulns scanner, rtsp brute+fuzz, and more. | https://github.com/fagcinsk/h4ck | 1 | 0| 
 
 
 

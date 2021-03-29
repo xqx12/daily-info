@@ -49,13 +49,13 @@
 | 20210329T00:45:20Z | cve-2021-3449 | CVE-2021-3449 OpenSSL denial-of-service exploit 👨🏻‍💻 | https://github.com/terorie/cve-2021-3449 | An OpenSSL TLS server may crash if sent a maliciously crafted renegotiation ClientHello message from a client. If a TLSv1.2 renegotiation ClientHello omits the signature_algorithms extension (where it was present in the initial ClientHello), but includes a signature_algorithms_cert extension then a NULL pointer dereference will result, leading to a crash and a denial of service attack. A server is only vulnerable if it has TLSv1.2 and renegotiation enabled (which is the default configuration). OpenSSL TLS clients are not impacted by this issue. All OpenSSL 1.1.1 versions are affected by this issue. Users of these versions should upgrade to OpenSSL 1.1.1k. OpenSSL 1.0.2 is not impacted by this issue. Fixed in OpenSSL 1.1.1k (Affected 1.1.1-1.1.1j).| 
 | 20210328T18:33:53Z | CVE-2021-21123 | 🐱‍💻 👍 Google Chrome - File System Access API - vulnerabilities reported by Maciej Pulikowski , Total Bug Bounty Reward: $5.000 , CVE-2021-21123 and 5 more... | https://github.com/Puliczek/CVE-2021-21123-PoC-Google-Chrome | Insufficient data validation in File System API in Google Chrome prior to 88.0.4324.96 allowed a remote attacker to bypass filesystem restrictions via a crafted HTML page.| 
 | 20210328T15:23:01Z | CVE-2021-3156 | Sudo Baron Samedit Exploit | https://github.com/worawit/CVE-2021-3156 | Sudo before 1.9.5p2 contains an off-by-one error that can result in a heap-based buffer overflow, which allows privilege escalation to root via %sudoedit -s% and a command-line argument that ends with a single backslash character.| 
-| 20210328T11:59:51Z | CVE-2021-22192 | CVE-2021-22192 靶场： 未授权用户 RCE 漏洞 | https://github.com/lyy289065406/CVE-2021-22192 | | 
+| 20210328T11:59:51Z | CVE-2021-22192 | CVE-2021-22192 靶场： 未授权用户 RCE 漏洞 | https://github.com/lyy289065406/CVE-2021-22192 | An issue has been discovered in GitLab CE/EE affecting all versions starting from 13.2 allowing unauthorized authenticated users to execute arbitrary code on the server.| 
 | 20210328T04:46:00Z | 未知编号 | Null | https://github.com/CyberCommands/CVE2021-23132 | 未查询到CVE信息| 
 | 20210328T00:01:54Z | CVE-2021-21389 | BuddyPress < 7.2.1 - REST API Privilege Escalation to RCE | https://github.com/HoangKien1020/CVE-2021-21389 | BuddyPress is an open source WordPress plugin to build a community site. In releases of BuddyPress from 5.0.0 before 7.2.1 it%s possible for a non-privileged, regular user to obtain administrator rights by exploiting an issue in the REST API members endpoint. The vulnerability has been fixed in BuddyPress 7.2.1. Existing installations of the plugin should be updated to this version to mitigate the issue.| 
 | 20210327T13:34:17Z | CVE-2020-0601 | Null | https://github.com/okanulkr/CurveBall-CVE-2020-0601-PoC | A spoofing vulnerability exists in the way Windows CryptoAPI (Crypt32.dll) validates Elliptic Curve Cryptography (ECC) certificates.An attacker could exploit the vulnerability by using a spoofed code-signing certificate to sign a malicious executable, making it appear the file was from a trusted, legitimate source, aka %Windows CryptoAPI Spoofing Vulnerability%.| 
 | 20210327T08:03:18Z | CVE-2020-11932 | Null | https://github.com/code-developers/CVE-2020-11932 | It was discovered that the Subiquity installer for Ubuntu Server logged the LUKS full disk encryption password if one was entered.| 
 | 20210327T03:16:33Z | CVE-2020-0022 | CVE-2020-0022 vulnerability exploitation on Bouygues BBox Miami (Android TV 8.0 - ARM32 Cortex A9) | https://github.com/Polo35/CVE-2020-0022 | In reassemble_and_dispatch of packet_fragmenter.cc, there is possible out of bounds write due to an incorrect bounds calculation. This could lead to remote code execution over Bluetooth with no additional execution privileges needed. User interaction is not needed for exploitation.Product: AndroidVersions: Android-8.0 Android-8.1 Android-9 Android-10Android ID: A-143894715| 
-| 20210327T02:50:03Z | CVE-2021-26295 | Null | https://github.com/yumusb/CVE-2021-26295-POC | Apache OFBiz has unsafe deserialization prior to 17.12.06. An unauthenticated attacker can use this vulnerability to successfully take over Apache OFBiz.| 
+| 20210327T02:50:03Z | CVE-2021-26295 | Null | https://github.com/yumusb/CVE-2021-26295-POC | | 
 
 
 # klee on Github 推荐
@@ -86,8 +86,9 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210329T00:50:34Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 10 | 6| 
+| 20210329T00:50:23Z | %Ike: A binary exploitation and reversing handbook.  | https://github.com/mahaloz/ike | 2 | 0| 
 | 20210329T00:45:17Z | Repository for information about 0-days exploited in-the-wild. | https://github.com/googleprojectzero/0days-in-the-wild | 201 | 20| 
-| 20210329T00:32:37Z | %Ike: A binary exploitation and reversing handbook.  | https://github.com/mahaloz/ike | 2 | 0| 
 | 20210329T00:20:23Z | A collection of challenge writeups, CVE POC%s, and explanations | https://github.com/0xmanjoos/Exploit-Development | 1 | 1| 
 | 20210329T00:02:52Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 13 | 6| 
 | 20210329T00:02:17Z | An advanced minecraft plugin that actually works pretty well with an integrated GUI | https://github.com/Larskrs/ExploitPatcher | 0 | 0| 
@@ -95,7 +96,6 @@
 | 20210328T22:24:30Z | Null | https://github.com/Exploit-lang/Exploit-lang.github.io | 0 | 0| 
 | 20210328T21:51:15Z | A Simple Retro/Classic Exploit Host Menu for PS4 5.05 FW | https://github.com/xforce505/GitHub-IO-Menu | 0 | 0| 
 | 20210328T21:43:43Z | solutions for exploit.education/fusion with pwntools | https://github.com/vincemann/exploit.education-fusion-solutions | 0 | 0| 
-| 20210328T21:21:14Z | Comment faire une fausse url discord | https://github.com/reko2cool/vanity-exploit | 0 | 0| 
 
 
 # backdoor on Github 推荐
@@ -116,16 +116,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210328T12:12:31Z | Null | https://github.com/DanielEbert/EmulatedFirmwareFuzzing | 0 | 0| 
-| 20210328T12:05:56Z | Fast web fuzzer written in Go | https://github.com/ffuf/ffuf | 4181 | 497| 
-| 20210328T12:05:05Z | Null | https://github.com/VeriBlock/fuzz-corpus | 0 | 1| 
-| 20210328T12:03:22Z | Personal website of Laurence Hughes | https://github.com/fuzzylogicxx/fuzzylogic | 4 | 1| 
-| 20210328T11:45:14Z | Hacking tools written by me. IP fortune, webmap -- web vulns scanner, rtsp brute+fuzz, and more. | https://github.com/fagcinsk/h4ck | 1 | 0| 
-| 20210328T11:18:44Z | This repository is for testing a number of open source applications for vulnerabilities using multiple fuzzers. | https://github.com/bartholomewHarris/fuzzingNode.jsApplications | 1 | 1| 
-| 20210328T11:11:00Z | Null | https://github.com/marco428/fuzzy-octo-meme | 0 | 0| 
-| 20210328T11:02:41Z | a c program containing vulnerable code for common types of vulnerabilities, can be used to show fuzzing concepts. | https://github.com/hardik05/Damn_Vulnerable_C_Program | 215 | 22| 
-| 20210328T09:44:07Z | A dart port of the popular fuzzywuzzy package | https://github.com/SphericalKat/dart-fuzzywuzzy | 5 | 1| 
-| 20210328T09:38:01Z | Fuzz testing common properties of python methods | https://github.com/steverpalmer/GenericTesting | 0 | 0| 
+| 20210329T00:50:12Z | Property-based testing of Earthstar using fast-check | https://github.com/earthstar-project/earthstar-fuzz | 1 | 0| 
+| 20210329T00:36:57Z | Functions to extract drug records from the FAERS (FDA Adverse Event Reporting System) database | https://github.com/tystan/fuzzyfaers | 0 | 0| 
+| 20210329T00:23:40Z | Null | https://github.com/Baoanh217/fuzzy-octo-tribble | 0 | 0| 
+| 20210329T00:02:21Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6153 | 1243| 
+| 20210328T23:35:01Z | Render a subset of a collection with fuzzy searching | https://github.com/jdlehman/react-fuzzy-filter | 37 | 4| 
+| 20210328T23:31:18Z | Null | https://github.com/VeriBlock/fuzz-corpus | 0 | 1| 
+| 20210328T23:18:31Z | 9. Node.js Challenge Professional README Generator | https://github.com/dotdlew/fuzzy-spoon | 0 | 0| 
+| 20210328T22:46:58Z | Transfer AFL files over a mesh to fuzz across multiple servers | https://github.com/maride/afl-transmit | 0 | 0| 
+| 20210328T22:07:53Z | A mutation-based fuzzing engine for MQTT brokers. | https://github.com/PBearson/MosquittoByte | 0 | 0| 
+| 20210328T21:55:21Z | Null | https://github.com/DanielEbert/EmulatedFirmwareFuzzing | 0 | 0| 
 
 
 
