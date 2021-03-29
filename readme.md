@@ -28,7 +28,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20210329T12:35:24Z | CVE-2021-3156 | Sudo Baron Samedit Exploit | https://github.com/worawit/CVE-2021-3156 | Sudo before 1.9.5p2 contains an off-by-one error that can result in a heap-based buffer overflow, which allows privilege escalation to root via %sudoedit -s% and a command-line argument that ends with a single backslash character.| 
+| 20210329T12:35:24Z | CVE-2021-3156 | Sudo Baron Samedit Exploit | https://github.com/worawit/CVE-2021-3156 | | 
 | 20210329T12:09:43Z | cve-2021-3449 | CVE-2021-3449 OpenSSL denial-of-service exploit 👨🏻‍💻 | https://github.com/terorie/cve-2021-3449 | An OpenSSL TLS server may crash if sent a maliciously crafted renegotiation ClientHello message from a client. If a TLSv1.2 renegotiation ClientHello omits the signature_algorithms extension (where it was present in the initial ClientHello), but includes a signature_algorithms_cert extension then a NULL pointer dereference will result, leading to a crash and a denial of service attack. A server is only vulnerable if it has TLSv1.2 and renegotiation enabled (which is the default configuration). OpenSSL TLS clients are not impacted by this issue. All OpenSSL 1.1.1 versions are affected by this issue. Users of these versions should upgrade to OpenSSL 1.1.1k. OpenSSL 1.0.2 is not impacted by this issue. Fixed in OpenSSL 1.1.1k (Affected 1.1.1-1.1.1j).| 
 | 20210329T11:55:46Z | CVE-2021-29267 | SherlockIM ChatBot XSS | https://github.com/Security-AVS/CVE-2021-29267 | 未查询到CVE信息| 
 | 20210329T11:32:42Z | CVE-2021-22986 | CVE-2021-22986 & F5 BIG-IP RCE | https://github.com/Al1ex/CVE-2021-22986 | 未查询到CVE信息| 
@@ -52,16 +52,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210329T12:38:37Z | Master Thesis | https://github.com/FlavioLorenzi/Continuous-Learning-on-Unity-dataset-exploiting-the-Activity-Recognition-Engine | 0 | 0| 
+| 20210329T12:39:15Z | Master Thesis | https://github.com/FlavioLorenzi/Continuous-Learning-on-Unity-dataset-exploiting-the-Activity-Recognition-Engine | 0 | 0| 
+| 20210329T12:39:10Z | Eternalblue written in CSharp. Contains version detection, vulnerability scanner and exploit of MS17-010 | https://github.com/povlteksttv/Eternalblue | 39 | 6| 
+| 20210329T12:39:05Z | SumUps and Resumees of different Exploiting techniques | https://github.com/phalanx8/awesomeExploiting | 0 | 0| 
 | 20210329T12:37:38Z | A collection of more than 140+ tools, scripts, cheatsheets and other loots that I have developed over years for Red Teaming/Pentesting/IT Security audits purposes. Most of them came handy on at least one of my real-world engagements. | https://github.com/mgeeky/Penetration-Testing-Tools | 627 | 153| 
 | 20210329T12:35:49Z | The report and the exploit of CVE-2021-26943, the kernel-to-SMM local privilege escalation vulnerability in ASUS UX360CA BIOS version 303. | https://github.com/tandasat/SmmExploit | 0 | 0| 
 | 20210329T12:33:57Z | Roblox Scripts To Exploites. | https://github.com/luascrip/luascriptsroblox | 0 | 0| 
-| 20210329T12:25:54Z | Eternalblue written in CSharp. Contains version detection, vulnerability scanner and exploit of MS17-010 | https://github.com/povlteksttv/Eternalblue | 38 | 6| 
 | 20210329T12:22:44Z | CTF framework and exploit development library | https://github.com/Gallopsled/pwntools | 7685 | 1370| 
 | 20210329T12:13:55Z | Java安全相关的漏洞和技术demo，原生Java、Fastjson、Jackson、Hessian2、XML反序列化漏洞利用和Spring、Dubbo、Shiro、CAS、Tomcat、RMI、Nexus等框架\中间件\功能的exploits以及Java Security Manager绕过、Dubbo-Hessian2安全加固等等实践代码。 | https://github.com/threedr3am/learnjavabug | 1272 | 302| 
 | 20210329T12:08:50Z | To understand the non-uniform distribution of English letters and how that may be exploited in cryptanalysis | https://github.com/ItCallum/Cryptography-project-1 | 0 | 0| 
 | 20210329T12:02:40Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 13 | 6| 
-| 20210329T11:50:00Z | Null | https://github.com/kiarashjam/Exploiting-Video-Games-to-Test-AV | 0 | 1| 
 
 
 # backdoor on Github 推荐
