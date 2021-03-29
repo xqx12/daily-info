@@ -86,8 +86,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210329T12:08:50Z | To understand the non-uniform distribution of English letters and how that may be exploited in cryptanalysis | https://github.com/ItCallum/Cryptography-project-1 | 0 | 0| 
 | 20210329T12:04:25Z | A collection of more than 140+ tools, scripts, cheatsheets and other loots that I have developed over years for Red Teaming/Pentesting/IT Security audits purposes. Most of them came handy on at least one of my real-world engagements. | https://github.com/mgeeky/Penetration-Testing-Tools | 627 | 153| 
-| 20210329T12:03:38Z | To understand the non-uniform distribution of English letters and how that may be exploited in cryptanalysis | https://github.com/ItCallum/Cryptography-project-1 | 0 | 0| 
 | 20210329T12:02:40Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 13 | 6| 
 | 20210329T11:50:00Z | Null | https://github.com/kiarashjam/Exploiting-Video-Games-to-Test-AV | 0 | 1| 
 | 20210329T11:43:31Z | Model of resource exploitation of Iron Age communities in southwest Anatolia. To be presented at ReSoc conference | https://github.com/driesdaems10/Resoc | 1 | 1| 
