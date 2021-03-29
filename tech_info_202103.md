@@ -116,7 +116,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210329T00:50:12Z | Property-based testing of Earthstar using fast-check | https://github.com/earthstar-project/earthstar-fuzz | 1 | 0| 
+| 20210329T00:58:33Z | Property-based testing of Earthstar using fast-check | https://github.com/earthstar-project/earthstar-fuzz | 1 | 0| 
 | 20210329T00:36:57Z | Functions to extract drug records from the FAERS (FDA Adverse Event Reporting System) database | https://github.com/tystan/fuzzyfaers | 0 | 0| 
 | 20210329T00:23:40Z | Null | https://github.com/Baoanh217/fuzzy-octo-tribble | 0 | 0| 
 | 20210329T00:02:21Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6153 | 1243| 
