@@ -19,7 +19,7 @@
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
 | 20210328T20:37:34Z | cve-2021-3449 | CVE-2021-3449 OpenSSL denial-of-service exploit 👨🏻‍💻 | https://github.com/terorie/cve-2021-3449 | An OpenSSL TLS server may crash if sent a maliciously crafted renegotiation ClientHello message from a client. If a TLSv1.2 renegotiation ClientHello omits the signature_algorithms extension (where it was present in the initial ClientHello), but includes a signature_algorithms_cert extension then a NULL pointer dereference will result, leading to a crash and a denial of service attack. A server is only vulnerable if it has TLSv1.2 and renegotiation enabled (which is the default configuration). OpenSSL TLS clients are not impacted by this issue. All OpenSSL 1.1.1 versions are affected by this issue. Users of these versions should upgrade to OpenSSL 1.1.1k. OpenSSL 1.0.2 is not impacted by this issue. Fixed in OpenSSL 1.1.1k (Affected 1.1.1-1.1.1j).| 
-| 20210328T18:33:53Z | CVE-2021-21123 | 🐱‍💻 👍 Google Chrome - File System Access API - vulnerabilities reported by Maciej Pulikowski , Total Bug Bounty Reward: $5.000 , CVE-2021-21123 and 5 more... | https://github.com/Puliczek/CVE-2021-21123-PoC-Google-Chrome | | 
+| 20210328T18:33:53Z | CVE-2021-21123 | 🐱‍💻 👍 Google Chrome - File System Access API - vulnerabilities reported by Maciej Pulikowski , Total Bug Bounty Reward: $5.000 , CVE-2021-21123 and 5 more... | https://github.com/Puliczek/CVE-2021-21123-PoC-Google-Chrome | Insufficient data validation in File System API in Google Chrome prior to 88.0.4324.96 allowed a remote attacker to bypass filesystem restrictions via a crafted HTML page.| 
 | 20210328T15:23:01Z | CVE-2021-3156 | Sudo Baron Samedit Exploit | https://github.com/worawit/CVE-2021-3156 | Sudo before 1.9.5p2 contains an off-by-one error that can result in a heap-based buffer overflow, which allows privilege escalation to root via %sudoedit -s% and a command-line argument that ends with a single backslash character.| 
 | 20210328T11:59:51Z | CVE-2021-22192 | CVE-2021-22192 靶场： 未授权用户 RCE 漏洞 | https://github.com/lyy289065406/CVE-2021-22192 | An issue has been discovered in GitLab CE/EE affecting all versions starting from 13.2 allowing unauthorized authenticated users to execute arbitrary code on the server.| 
 | 20210328T04:46:00Z | 未知编号 | Null | https://github.com/CyberCommands/CVE2021-23132 | 未查询到CVE信息| 
@@ -29,8 +29,10 @@
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210328T19:04:38Z | KLEE%s version of uClibc | https://github.com/klee/klee-uclibc | 32 | 35| 
+| 20210328T15:21:04Z | Null | https://github.com/Ankit1608/Kleensecuritylanding | 0 | 0| 
 | 20210328T08:34:17Z | Null | https://github.com/davidtr1037/klee-aaqc | 1 | 0| 
-| 20210328T07:24:26Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 的 Klee One 的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 371 | 9| 
+| 20210328T07:24:26Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 的 Klee One 的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 371 | 10| 
 | 20210328T02:11:12Z | Create CFGs and compute complexity metrics for Python, C++, and Java code. | https://github.com/hmc-alpaqa/metrinome | 6 | 0| 
 
 
@@ -44,15 +46,15 @@
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
 | 20210328T23:53:56Z | Repository for information about 0-days exploited in-the-wild. | https://github.com/googleprojectzero/0days-in-the-wild | 200 | 19| 
-| 20210328T23:42:16Z | i throw exploit POC%s here | https://github.com/0xmanjoos/Exploit-Development | 1 | 1| 
 | 20210328T23:31:24Z | Another implementation for linux privilege escalation exploit via snap(d) (CVE-2019-7304) | https://github.com/bendalisoftpro/snap_priv_esc | 0 | 0| 
 | 20210328T23:21:47Z | %Ike: A binary exploitation and reversing handbook.  | https://github.com/mahaloz/ike | 2 | 0| 
-| 20210328T23:02:48Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 13 | 6| 
 | 20210328T22:24:30Z | Null | https://github.com/Exploit-lang/Exploit-lang.github.io | 0 | 0| 
 | 20210328T21:51:15Z | A Simple Retro/Classic Exploit Host Menu for PS4 5.05 FW | https://github.com/xforce505/GitHub-IO-Menu | 0 | 0| 
 | 20210328T21:43:43Z | solutions for exploit.education/fusion with pwntools | https://github.com/vincemann/exploit.education-fusion-solutions | 0 | 0| 
 | 20210328T21:21:14Z | Comment faire une fausse url discord | https://github.com/reko2cool/vanity-exploit | 0 | 0| 
 | 20210328T20:35:48Z | Null | https://github.com/FreedomForeverMC/F_x-s-Exploit-Pack | 0 | 0| 
+| 20210328T20:35:10Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9198 | 1482| 
+| 20210328T20:13:12Z | Null | https://github.com/kiarashjam/Exploiting-Video-Games-to-Test-AV | 0 | 1| 
 
 
 # backdoor on Github 推荐
