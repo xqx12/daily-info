@@ -82,6 +82,9 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210329T12:48:37Z | Fuzzy matching for `company-mode%. | https://github.com/jcs-elpa/company-fuzzy | 56 | 4| 
+| 20210329T12:35:24Z | A fork of AFL for fuzzing Windows binaries | https://github.com/googleprojectzero/winafl | 1634 | 419| 
+| 20210329T12:30:44Z | Null | https://github.com/eh24905/fuzzy-octo-spork | 0 | 0| 
 | 20210329T12:07:28Z | Python-based code for estiamtion of highway bottleneck probability using speed transition matrices.  | https://github.com/tisljaricleo/fuzzy-highway-bottleneck-python | 0 | 0| 
 | 20210329T12:00:18Z | White-box fuzzer for Java bytecode | https://github.com/vorpal-research/kex | 6 | 5| 
 | 20210329T11:38:39Z | Null | https://github.com/s9varesc/url-fuzzing-docker | 0 | 0| 
@@ -89,9 +92,6 @@
 | 20210329T11:37:30Z | Sensor gula yang dibangun dengan konsep pembiasan cahaya dalam suatu larutan menggunakan atmega32 di bascom avr | https://github.com/Dzikrul-Hamdi-Nasution/Sensor-Gula-dengan-Fuzzy-Logic | 0 | 0| 
 | 20210329T11:30:43Z | Null | https://github.com/FDU-Program-Analysis/chunk-fuzzer-pass | 0 | 0| 
 | 20210329T11:08:59Z | Null | https://github.com/VeriBlock/fuzz-corpus | 0 | 1| 
-| 20210329T10:53:24Z | A fork of AFL for fuzzing Windows binaries | https://github.com/googleprojectzero/winafl | 1634 | 419| 
-| 20210329T10:50:58Z | fuzzy matching for very large datasets in .NET | https://github.com/mohamedshabanofficial/FuzzyMatching | 0 | 0| 
-| 20210329T10:46:23Z | Fuzzy TS optimisation based on genetic algorithm | https://github.com/jairpaulino/fuzzy-ts-opt | 0 | 0| 
 
 
 
