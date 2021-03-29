@@ -55,7 +55,7 @@
 | 20210328T18:33:53Z | CVE-2021-21123 | 🐱‍💻 👍 Google Chrome - File System Access API - vulnerabilities reported by Maciej Pulikowski , Total Bug Bounty Reward: $5.000 , CVE-2021-21123 and 5 more... | https://github.com/Puliczek/CVE-2021-21123-PoC-Google-Chrome | Insufficient data validation in File System API in Google Chrome prior to 88.0.4324.96 allowed a remote attacker to bypass filesystem restrictions via a crafted HTML page.| 
 | 20210328T11:59:51Z | CVE-2021-22192 | CVE-2021-22192 靶场： 未授权用户 RCE 漏洞 | https://github.com/lyy289065406/CVE-2021-22192 | An issue has been discovered in GitLab CE/EE affecting all versions starting from 13.2 allowing unauthorized authenticated users to execute arbitrary code on the server.| 
 | 20210328T04:46:00Z | 未知编号 | Null | https://github.com/CyberCommands/CVE2021-23132 | 未查询到CVE信息| 
-| 20210328T00:01:54Z | CVE-2021-21389 | BuddyPress < 7.2.1 - REST API Privilege Escalation to RCE | https://github.com/HoangKien1020/CVE-2021-21389 | | 
+| 20210328T00:01:54Z | CVE-2021-21389 | BuddyPress < 7.2.1 - REST API Privilege Escalation to RCE | https://github.com/HoangKien1020/CVE-2021-21389 | BuddyPress is an open source WordPress plugin to build a community site. In releases of BuddyPress from 5.0.0 before 7.2.1 it%s possible for a non-privileged, regular user to obtain administrator rights by exploiting an issue in the REST API members endpoint. The vulnerability has been fixed in BuddyPress 7.2.1. Existing installations of the plugin should be updated to this version to mitigate the issue.| 
 
 
 # klee on Github 推荐
@@ -101,7 +101,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210329T12:05:30Z | A self-spreading parasitic, polymorphic internet-worm for the netBIOS backdoor | https://github.com/timo-cmd2/Win32.ThemalSh4ke | 1 | 0| 
+| 20210329T12:07:39Z | A self-spreading parasitic, polymorphic internet-worm for the netBIOS backdoor | https://github.com/timo-cmd2/Win32.ThemalSh4ke | 1 | 0| 
 | 20210329T11:02:10Z | WaNet - Imperceptible Warping-based Backdoor Attack (ICLR 2021) | https://github.com/VinAIResearch/Warping-based_Backdoor_Attack-release | 5 | 2| 
 | 20210329T09:28:30Z | Null | https://github.com/viamAhmadi/ninja-backdoor-server | 0 | 0| 
 | 20210329T09:26:49Z | Null | https://github.com/viamAhmadi/ninja-backdoor | 0 | 0| 
