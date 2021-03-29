@@ -52,6 +52,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210329T12:50:35Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 10 | 6| 
 | 20210329T12:48:37Z | SumUps and Resumees of different Exploiting techniques | https://github.com/phalanx8/awesomeExploiting | 0 | 0| 
 | 20210329T12:45:15Z | Eternalblue written in CSharp. Contains version detection, vulnerability scanner and exploit of MS17-010 | https://github.com/povlteksttv/Eternalblue | 40 | 6| 
 | 20210329T12:39:55Z | Master Thesis | https://github.com/FlavioLorenzi/Continuous-Learning-on-Unity-dataset-exploiting-the-Activity-Recognition-Engine | 0 | 0| 
@@ -61,7 +62,6 @@
 | 20210329T12:22:44Z | CTF framework and exploit development library | https://github.com/Gallopsled/pwntools | 7685 | 1370| 
 | 20210329T12:13:55Z | Java安全相关的漏洞和技术demo，原生Java、Fastjson、Jackson、Hessian2、XML反序列化漏洞利用和Spring、Dubbo、Shiro、CAS、Tomcat、RMI、Nexus等框架\中间件\功能的exploits以及Java Security Manager绕过、Dubbo-Hessian2安全加固等等实践代码。 | https://github.com/threedr3am/learnjavabug | 1272 | 302| 
 | 20210329T12:08:50Z | To understand the non-uniform distribution of English letters and how that may be exploited in cryptanalysis | https://github.com/ItCallum/Cryptography-project-1 | 0 | 0| 
-| 20210329T12:02:40Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 13 | 6| 
 
 
 # backdoor on Github 推荐
