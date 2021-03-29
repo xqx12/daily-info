@@ -86,11 +86,11 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210329T01:02:24Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 13 | 6| 
 | 20210329T00:50:34Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 10 | 6| 
 | 20210329T00:50:23Z | %Ike: A binary exploitation and reversing handbook.  | https://github.com/mahaloz/ike | 2 | 0| 
 | 20210329T00:45:17Z | Repository for information about 0-days exploited in-the-wild. | https://github.com/googleprojectzero/0days-in-the-wild | 201 | 20| 
 | 20210329T00:20:23Z | A collection of challenge writeups, CVE POC%s, and explanations | https://github.com/0xmanjoos/Exploit-Development | 1 | 1| 
-| 20210329T00:02:52Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 13 | 6| 
 | 20210329T00:02:17Z | An advanced minecraft plugin that actually works pretty well with an integrated GUI | https://github.com/Larskrs/ExploitPatcher | 0 | 0| 
 | 20210328T23:31:24Z | Another implementation for linux privilege escalation exploit via snap(d) (CVE-2019-7304) | https://github.com/bendalisoftpro/snap_priv_esc | 0 | 0| 
 | 20210328T22:24:30Z | Null | https://github.com/Exploit-lang/Exploit-lang.github.io | 0 | 0| 
