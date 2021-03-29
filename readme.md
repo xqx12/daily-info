@@ -52,8 +52,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210329T12:38:37Z | Master Thesis | https://github.com/FlavioLorenzi/Continuous-Learning-on-Unity-dataset-exploiting-the-Activity-Recognition-Engine | 0 | 0| 
 | 20210329T12:37:38Z | A collection of more than 140+ tools, scripts, cheatsheets and other loots that I have developed over years for Red Teaming/Pentesting/IT Security audits purposes. Most of them came handy on at least one of my real-world engagements. | https://github.com/mgeeky/Penetration-Testing-Tools | 627 | 153| 
-| 20210329T12:36:55Z | Master Thesis | https://github.com/FlavioLorenzi/Continuous-Learning-on-Unity-dataset-exploiting-the-Activity-Recognition-Engine | 0 | 0| 
 | 20210329T12:35:49Z | The report and the exploit of CVE-2021-26943, the kernel-to-SMM local privilege escalation vulnerability in ASUS UX360CA BIOS version 303. | https://github.com/tandasat/SmmExploit | 0 | 0| 
 | 20210329T12:33:57Z | Roblox Scripts To Exploites. | https://github.com/luascrip/luascriptsroblox | 0 | 0| 
 | 20210329T12:25:54Z | Eternalblue written in CSharp. Contains version detection, vulnerability scanner and exploit of MS17-010 | https://github.com/povlteksttv/Eternalblue | 38 | 6| 
