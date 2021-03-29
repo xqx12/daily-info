@@ -86,6 +86,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210329T01:57:17Z | Exploit found in spectrum to instantly pull address from any IP address, For educational purposes only and highly recommended this gets patched asap | https://github.com/worse/Spectrum-Exploit | 0 | 0| 
 | 20210329T01:45:38Z | Vulmap 是一款 web 漏洞扫描和验证工具, 可对 webapps 进行漏洞扫描, 并且具备漏洞利用功能 | https://github.com/zhzyker/vulmap | 1132 | 203| 
 | 20210329T01:19:41Z | A collection of challenge writeups, CVE POC%s, and explanations | https://github.com/0xmanjoos/Exploit-Development | 1 | 1| 
 | 20210329T01:02:24Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 13 | 6| 
@@ -95,7 +96,6 @@
 | 20210329T00:02:17Z | An advanced minecraft plugin that actually works pretty well with an integrated GUI | https://github.com/Larskrs/ExploitPatcher | 0 | 0| 
 | 20210328T23:31:24Z | Another implementation for linux privilege escalation exploit via snap(d) (CVE-2019-7304) | https://github.com/bendalisoftpro/snap_priv_esc | 0 | 0| 
 | 20210328T22:24:30Z | Null | https://github.com/Exploit-lang/Exploit-lang.github.io | 0 | 0| 
-| 20210328T21:51:15Z | A Simple Retro/Classic Exploit Host Menu for PS4 5.05 FW | https://github.com/xforce505/GitHub-IO-Menu | 0 | 0| 
 
 
 # backdoor on Github 推荐
