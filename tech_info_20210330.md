@@ -17,12 +17,12 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20210330T11:59:30Z | cve-2021-3449 | CVE-2021-3449 OpenSSL denial-of-service exploit 👨🏻‍💻 | https://github.com/terorie/cve-2021-3449 | | 
+| 20210330T11:59:30Z | cve-2021-3449 | CVE-2021-3449 OpenSSL denial-of-service exploit 👨🏻‍💻 | https://github.com/terorie/cve-2021-3449 | An OpenSSL TLS server may crash if sent a maliciously crafted renegotiation ClientHello message from a client. If a TLSv1.2 renegotiation ClientHello omits the signature_algorithms extension (where it was present in the initial ClientHello), but includes a signature_algorithms_cert extension then a NULL pointer dereference will result, leading to a crash and a denial of service attack. A server is only vulnerable if it has TLSv1.2 and renegotiation enabled (which is the default configuration). OpenSSL TLS clients are not impacted by this issue. All OpenSSL 1.1.1 versions are affected by this issue. Users of these versions should upgrade to OpenSSL 1.1.1k. OpenSSL 1.0.2 is not impacted by this issue. Fixed in OpenSSL 1.1.1k (Affected 1.1.1-1.1.1j).| 
 | 20210330T11:25:48Z | CVE-2021-1656 | Null | https://github.com/waleedassar/CVE-2021-1656 | TPM Device Driver Information Disclosure Vulnerability| 
 | 20210330T11:13:44Z | CVE-2021-22192 | CVE-2021-22192 靶场： 未授权用户 RCE 漏洞 | https://github.com/lyy289065406/CVE-2021-22192 | An issue has been discovered in GitLab CE/EE affecting all versions starting from 13.2 allowing unauthorized authenticated users to execute arbitrary code on the server.| 
 | 20210330T08:32:05Z | CVE-2021-1732 | Null | https://github.com/ltfafei/CVE-2021-1732_exp | Windows Win32k Elevation of Privilege Vulnerability This CVE ID is unique from CVE-2021-1698.| 
 | 20210330T07:56:01Z | CVE-2021-26295 | CVE-2021-26295 EXP 可成功反弹Shell | https://github.com/r0ckysec/CVE-2021-26295 | Apache OFBiz has unsafe deserialization prior to 17.12.06. An unauthenticated attacker can use this vulnerability to successfully take over Apache OFBiz.| 
-| 20210330T07:19:13Z | CVE-2020-27955 | CVE-2020-27955 Poc | https://github.com/NeoDarwin/CVE-2020-27955 | | 
+| 20210330T07:19:13Z | CVE-2020-27955 | CVE-2020-27955 Poc | https://github.com/NeoDarwin/CVE-2020-27955 | Git LFS 2.12.0 allows Remote Code Execution.| 
 | 20210330T07:10:36Z | CVE-2020-25078 | D-Link DCS系列账号密码信息泄露漏洞，通过脚本获取账号密码，可批量。 | https://github.com/MzzdToT/CVE-2020-25078 | An issue was discovered on D-Link DCS-2530L before 1.06.01 Hotfix and DCS-2670L through 2.02 devices. The unauthenticated /config/getuser endpoint allows for remote administrator password disclosure.| 
 | 20210330T06:59:35Z | CVE-2021-3156 | CVE-2021-3156漏洞修复Shell | https://github.com/Nokialinux/CVE-2021-3156 | Sudo before 1.9.5p2 contains an off-by-one error that can result in a heap-based buffer overflow, which allows privilege escalation to root via %sudoedit -s% and a command-line argument that ends with a single backslash character.| 
 | 20210330T06:43:56Z | cve-2021-22986 | F5 BIG-IP远程代码执行；cve-2021-22986，批量检测；命令执行利用 | https://github.com/yaunsky/CVE-202122986-EXP | 未查询到CVE信息| 
@@ -44,7 +44,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210330T12:07:20Z | Roblox Scripts To Exploites. | https://github.com/luascrip/luascriptsroblox | 0 | 0| 
+| 20210330T12:09:44Z | a tool for creating exploited media files for discord | https://github.com/Schmenn/discord-exploits | 44 | 3| 
+| 20210330T12:09:16Z | Roblox Scripts To Exploites. | https://github.com/luascrip/luascriptsroblox | 0 | 0| 
 | 20210330T12:06:13Z | This tool lets you search your gadgets on your binaries to facilitate your ROP exploitation. ROPgadget supports ELF, PE and Mach-O format on x86, x64, ARM, ARM64, PowerPC, SPARC and MIPS architectures.  | https://github.com/JonathanSalwan/ROPgadget | 2626 | 497| 
 | 20210330T12:02:47Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 13 | 6| 
 | 20210330T12:00:59Z | Various ASM, C and C++ tools, shellcodes and exploit experiments. | https://github.com/forrest-orr/ExploitDev | 57 | 6| 
@@ -53,7 +54,6 @@
 | 20210330T11:17:41Z | A list of commands, tools and notes about enumerating and exploiting Active Directory and how to defend against these attacks | https://github.com/thegoatreich/AD_attack_defend_cheatsheet | 0 | 0| 
 | 20210330T10:15:53Z | Pulse is a mobile health platform that seeks to exploit the ever-expanding compute power of smart devices and the power of machine learning to help people take ownership of their health by promoting good health and wellbeing. | https://github.com/samadon1/ProjectPulse | 0 | 0| 
 | 20210330T10:14:43Z | PhoneSploit is tool for remote ADB Exploitation. With the help of this tool you can control android device by just IP address.  pkg up -y pkg install git -y pkg install python -y pkg install openssl-tool pkg install wget -y pip install colorama git clone https://github.com/MasterDevX/Termux-ADB cd Termux-ADB chmod 777 InstallTools.sh bash InstallTools.sh cd $HOME git clone https://github.com/aerosol-can/PhoneSploit cd PhoneSploit python phonesploit.py | https://github.com/Zack-sys/Phonesploit---hacking-android-using-IP-address | 3 | 0| 
-| 20210330T10:08:34Z | Master Thesis | https://github.com/FlavioLorenzi/Continuous-Learning-on-Unity-dataset-exploiting-the-Activity-Recognition-Engine | 0 | 0| 
 
 
 # backdoor on Github 推荐
