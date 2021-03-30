@@ -89,16 +89,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210329T12:48:37Z | Fuzzy matching for `company-mode%. | https://github.com/jcs-elpa/company-fuzzy | 56 | 4| 
-| 20210329T12:35:24Z | A fork of AFL for fuzzing Windows binaries | https://github.com/googleprojectzero/winafl | 1634 | 419| 
-| 20210329T12:30:44Z | Null | https://github.com/eh24905/fuzzy-octo-spork | 0 | 0| 
-| 20210329T12:07:28Z | Python-based code for estiamtion of highway bottleneck probability using speed transition matrices.  | https://github.com/tisljaricleo/fuzzy-highway-bottleneck-python | 0 | 0| 
-| 20210329T12:00:18Z | White-box fuzzer for Java bytecode | https://github.com/vorpal-research/kex | 6 | 5| 
-| 20210329T11:38:39Z | Null | https://github.com/s9varesc/url-fuzzing-docker | 0 | 0| 
-| 20210329T11:38:07Z | Null | https://github.com/iii-i/zlib-fuzz | 2 | 0| 
-| 20210329T11:37:30Z | Sensor gula yang dibangun dengan konsep pembiasan cahaya dalam suatu larutan menggunakan atmega32 di bascom avr | https://github.com/Dzikrul-Hamdi-Nasution/Sensor-Gula-dengan-Fuzzy-Logic | 0 | 0| 
-| 20210329T11:30:43Z | Null | https://github.com/FDU-Program-Analysis/chunk-fuzzer-pass | 0 | 0| 
-| 20210329T11:08:59Z | Null | https://github.com/VeriBlock/fuzz-corpus | 0 | 1| 
+| 20210329T23:58:25Z | PoC of fuzzing closed-source userspace binaries with KVM | https://github.com/klecko/kvm-fuzz | 1 | 0| 
+| 20210329T23:57:34Z | Null | https://github.com/lyx174/fuzzy-octo-spoon | 0 | 0| 
+| 20210329T23:46:29Z | Black-box fuzzer that fuzzes APIs based on OpenAPI specification | https://github.com/matusf/openapi-fuzzer | 1 | 0| 
+| 20210329T23:39:01Z | Coding practice for HTML/CSS/anything else web based | https://github.com/FuzzyPumpkin/FuzzyPumpkin.github.io | 5 | 1| 
+| 20210329T23:05:22Z | Fuzzing cryptographic libraries. Magic bug printer go brrrr. | https://github.com/guidovranken/cryptofuzz | 265 | 37| 
+| 20210329T23:00:09Z | A cross-platform browser fuzzing framework | https://github.com/MozillaSecurity/grizzly | 234 | 31| 
+| 20210329T22:49:04Z | Generic plugin based web application security fuzzing for anomalies by Slándáil Research Limited | https://github.com/maK-/scanomaly | 6 | 1| 
+| 20210329T22:45:11Z | Business Brochure Wordpress Theme | https://github.com/robmccormack89/fuzzy-waddle | 0 | 0| 
+| 20210329T22:42:15Z | Rapid fuzzy string matching in Python using the Levenshtein Distance | https://github.com/maxbachmann/RapidFuzz | 817 | 31| 
+| 20210329T22:39:38Z | Autofuze has been developped to provide a full toolkit to fuzz and pentest several protocols used in automotive industry such as USB, XCP, UDS, CAN. Everything is done in Python to provide a convenient way to develop automated test. | https://github.com/DanAurea/AutoFuze | 0 | 0| 
 
 
 
