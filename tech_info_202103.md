@@ -86,7 +86,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210330T00:09:20Z | Null | https://github.com/mednic/slmail-exploit | 3 | 0| 
+| 20210330T00:12:46Z | Null | https://github.com/mednic/slmail-exploit | 3 | 0| 
 | 20210330T00:07:43Z | Entry point exploit | https://github.com/azobackup/Entry-point-exploits | 0 | 0| 
 | 20210330T00:02:32Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 13 | 6| 
 | 20210329T23:32:40Z | PS1 savegame exploit | https://github.com/socram8888/tonyhax | 220 | 4| 
