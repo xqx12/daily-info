@@ -18,7 +18,7 @@
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
 | 20210330T12:37:01Z | cve-2021-3449 | CVE-2021-3449 OpenSSL denial-of-service exploit 👨🏻‍💻 | https://github.com/terorie/cve-2021-3449 | | 
-| 20210330T12:24:10Z | CVE-2021-22192 | CVE-2021-22192 靶场： 未授权用户 RCE 漏洞 | https://github.com/lyy289065406/CVE-2021-22192 | | 
+| 20210330T12:24:10Z | CVE-2021-22192 | CVE-2021-22192 靶场： 未授权用户 RCE 漏洞 | https://github.com/lyy289065406/CVE-2021-22192 | 未查询到CVE信息| 
 | 20210330T11:25:48Z | CVE-2021-1656 | Null | https://github.com/waleedassar/CVE-2021-1656 | | 
 | 20210330T08:32:05Z | CVE-2021-1732 | Null | https://github.com/ltfafei/CVE-2021-1732_exp | 未查询到CVE信息| 
 | 20210330T07:56:01Z | CVE-2021-26295 | CVE-2021-26295 EXP 可成功反弹Shell | https://github.com/r0ckysec/CVE-2021-26295 | Apache OFBiz has unsafe deserialization prior to 17.12.06. An unauthenticated attacker can use this vulnerability to successfully take over Apache OFBiz.| 
