@@ -31,6 +31,7 @@
 # 安全维基 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20210330 | SecWiki周刊（第369期) | https://www.sec-wiki.com/weekly/369| 
 | 20210329 | 病毒分析之伪装eset升级程序 | https://www.sec-in.com/article/960| 
 | 20210326 | 浅析软件供应链攻击之包抢注低成本钓鱼 | https://mp.weixin.qq.com/s/JWSjKZWyuSvXdzYhU0INmQ| 
 | 20210326 | Kscan：轻量级的资产发现工具 | https://github.com/lcvvvv/kscan| 
@@ -40,29 +41,28 @@
 | 20210326 | 一些网络空间搜索引擎相关的资料 | https://github.com/EXHades/CyberSpaceSearchEngine-Research| 
 | 20210326 | 一些webshell免杀的技巧 | https://xz.aliyun.com/t/9290| 
 | 20210326 | 蓝队溯源与反制 | https://xz.aliyun.com/t/9316| 
-| 20210326 | 记一次跌宕起伏的白盒审计到RCE | https://xz.aliyun.com/t/9319| 
 
 
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20210330T01:36:02Z | cve-2021-3449 | CVE-2021-3449 OpenSSL denial-of-service exploit 👨🏻‍💻 | https://github.com/terorie/cve-2021-3449 | | 
-| 20210330T00:50:23Z | CVE-2020-23839 | Public PoC Disclosure for CVE-2020-23839 -  GetSimple CMS v3.3.16 suffers from a Reflected XSS on the Admin Login Portal | https://github.com/boku7/CVE-2020-23839 | | 
-| 20210329T20:21:10Z | CVE-2021-3156 | Sudo Baron Samedit Exploit | https://github.com/worawit/CVE-2021-3156 | Sudo before 1.9.5p2 contains an off-by-one error that can result in a heap-based buffer overflow, which allows privilege escalation to root via %sudoedit -s% and a command-line argument that ends with a single backslash character.| 
-| 20210329T13:34:39Z | CVE-2021-29267 | SherlockIM ChatBot XSS | https://github.com/Security-AVS/CVE-2021-29267 | Sherlock SherlockIM through 2021-03-29 allows Cross Site Scripting (XSS) by leveraging the api/Files/Attachment URI to attack help-desk staff via the chatbot feature.| 
-| 20210329T13:04:49Z | CVE-2021-22986 | Null | https://github.com/dotslashed/CVE-2021-22986 | 未查询到CVE信息| 
-| 20210329T11:32:42Z | CVE-2021-22986 | CVE-2021-22986 & F5 BIG-IP RCE | https://github.com/Al1ex/CVE-2021-22986 | 未查询到CVE信息| 
-| 20210329T05:58:53Z | CVE-2021-22986 | Code By:Tas9er / F5 BIG-IP 远程命令执行漏洞 | https://github.com/Tas9er/CVE-2021-22986 | 未查询到CVE信息| 
-| 20210329T03:13:04Z | CVE-2020-1938 | Null | https://github.com/Hancheng-Lei/Hacking-Vulnerability-CVE-2020-1938-Ghostcat | When using the Apache JServ Protocol (AJP), care must be taken when trusting incoming connections to Apache Tomcat. Tomcat treats AJP connections as having higher trust than, for example, a similar HTTP connection. If such connections are available to an attacker, they can be exploited in ways that may be surprising. In Apache Tomcat 9.0.0.M1 to 9.0.0.30, 8.5.0 to 8.5.50 and 7.0.0 to 7.0.99, Tomcat shipped with an AJP Connector enabled by default that listened on all configured IP addresses. It was expected (and recommended in the security guide) that this Connector would be disabled if not required. This vulnerability report identified a mechanism that allowed: - returning arbitrary files from anywhere in the web application - processing any file in the web application as a JSP Further, if the web application allowed file upload and stored those files within the web application (or the attacker was able to control the content of the web application by some other means) then this, along with the ability to process a file as a JSP, made remote code execution possible. It is important to note that mitigation is only required if an AJP port is accessible to untrusted users. Users wishing to take a defence-in-depth approach and block the vector that permits returning arbitrary files and execution as JSP may upgrade to Apache Tomcat 9.0.31, 8.5.51 or 7.0.100 or later. A number of changes were made to the default AJP Connector configuration in 9.0.31 to harden the default configuration. It is likely that users upgrading to 9.0.31, 8.5.51 or 7.0.100 or later will need to make small changes to their configurations.| 
-| 20210328T18:33:53Z | CVE-2021-21123 | 🐱‍💻 👍 Google Chrome - File System Access API - vulnerabilities reported by Maciej Pulikowski , Total Bug Bounty Reward: $5.000 , CVE-2021-21123 and 5 more... | https://github.com/Puliczek/CVE-2021-21123-PoC-Google-Chrome | Insufficient data validation in File System API in Google Chrome prior to 88.0.4324.96 allowed a remote attacker to bypass filesystem restrictions via a crafted HTML page.| 
-| 20210328T11:59:51Z | CVE-2021-22192 | CVE-2021-22192 靶场： 未授权用户 RCE 漏洞 | https://github.com/lyy289065406/CVE-2021-22192 | An issue has been discovered in GitLab CE/EE affecting all versions starting from 13.2 allowing unauthorized authenticated users to execute arbitrary code on the server.| 
+| 20210330T11:59:30Z | cve-2021-3449 | CVE-2021-3449 OpenSSL denial-of-service exploit 👨🏻‍💻 | https://github.com/terorie/cve-2021-3449 | | 
+| 20210330T11:25:48Z | CVE-2021-1656 | Null | https://github.com/waleedassar/CVE-2021-1656 | TPM Device Driver Information Disclosure Vulnerability| 
+| 20210330T11:13:44Z | CVE-2021-22192 | CVE-2021-22192 靶场： 未授权用户 RCE 漏洞 | https://github.com/lyy289065406/CVE-2021-22192 | An issue has been discovered in GitLab CE/EE affecting all versions starting from 13.2 allowing unauthorized authenticated users to execute arbitrary code on the server.| 
+| 20210330T08:32:05Z | CVE-2021-1732 | Null | https://github.com/ltfafei/CVE-2021-1732_exp | Windows Win32k Elevation of Privilege Vulnerability This CVE ID is unique from CVE-2021-1698.| 
+| 20210330T07:56:01Z | CVE-2021-26295 | CVE-2021-26295 EXP 可成功反弹Shell | https://github.com/r0ckysec/CVE-2021-26295 | Apache OFBiz has unsafe deserialization prior to 17.12.06. An unauthenticated attacker can use this vulnerability to successfully take over Apache OFBiz.| 
+| 20210330T07:19:13Z | CVE-2020-27955 | CVE-2020-27955 Poc | https://github.com/NeoDarwin/CVE-2020-27955 | Git LFS 2.12.0 allows Remote Code Execution.| 
+| 20210330T07:10:36Z | CVE-2020-25078 | D-Link DCS系列账号密码信息泄露漏洞，通过脚本获取账号密码，可批量。 | https://github.com/MzzdToT/CVE-2020-25078 | An issue was discovered on D-Link DCS-2530L before 1.06.01 Hotfix and DCS-2670L through 2.02 devices. The unauthenticated /config/getuser endpoint allows for remote administrator password disclosure.| 
+| 20210330T06:59:35Z | CVE-2021-3156 | CVE-2021-3156漏洞修复Shell | https://github.com/Nokialinux/CVE-2021-3156 | Sudo before 1.9.5p2 contains an off-by-one error that can result in a heap-based buffer overflow, which allows privilege escalation to root via %sudoedit -s% and a command-line argument that ends with a single backslash character.| 
+| 20210330T06:43:56Z | cve-2021-22986 | F5 BIG-IP远程代码执行；cve-2021-22986，批量检测；命令执行利用 | https://github.com/yaunsky/CVE-202122986-EXP | 未查询到CVE信息| 
+| 20210330T00:50:23Z | CVE-2020-23839 | Public PoC Disclosure for CVE-2020-23839 -  GetSimple CMS v3.3.16 suffers from a Reflected XSS on the Admin Login Portal | https://github.com/boku7/CVE-2020-23839 | A Reflected Cross-Site Scripting (XSS) vulnerability in GetSimple CMS v3.3.16, in the admin/index.php login portal webpage, allows remote attackers to execute JavaScript code in the client%s browser and harvest login credentials after a client clicks a link, enters credentials, and submits the login form.| 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210330T02:56:33Z | RVT is a collection of tools/libraries to support both static and dynamic verification of Rust programs. | https://github.com/project-oak/rust-verification-tools | 113 | 9| 
 | 20210329T19:11:30Z | Null | https://github.com/abbykleespie/LAWk8AbbyKleepsie.appstudio | 0 | 0| 
-| 20210329T18:22:21Z | RVT is a collection of tools/libraries to support both static and dynamic verification of Rust programs. | https://github.com/project-oak/rust-verification-tools | 112 | 9| 
 | 20210329T16:46:01Z | A personnal UI library made as an excuse to have a published UI package | https://github.com/Liinkiing/klee | 5 | 1| 
 | 20210329T13:33:32Z | Null | https://github.com/thierry-tct/KLEE-SEMu | 2 | 2| 
 | 20210329T13:29:56Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 的 Klee One 的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 373 | 10| 
@@ -87,31 +87,31 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210330T01:58:31Z | A collection of more than 140+ tools, scripts, cheatsheets and other loots that I have developed over years for Red Teaming/Pentesting/IT Security audits purposes. Most of them came handy on at least one of my real-world engagements. | https://github.com/mgeeky/Penetration-Testing-Tools | 627 | 153| 
-| 20210330T01:30:56Z | GEF - GDB Enhanced Features for exploit devs & reversers | https://github.com/hugsy/gef | 3555 | 497| 
-| 20210330T01:11:31Z | PS4 Exploits 5.05-7.55 | https://github.com/Buzbee/Buzbee.github.io | 0 | 0| 
-| 20210330T01:04:01Z | Null | https://github.com/mednic/slmail-exploit | 3 | 0| 
-| 20210330T01:02:23Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 13 | 6| 
-| 20210330T00:50:35Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 10 | 6| 
-| 20210330T00:47:00Z | A collection of scripts I%ve written, including automation, enumeration, exploitation, etc. | https://github.com/jessisec/scripts | 0 | 0| 
-| 20210330T00:33:36Z | Entry point exploit | https://github.com/azobackup/Entry-point-exploits | 0 | 0| 
-| 20210329T23:32:40Z | PS1 savegame exploit | https://github.com/socram8888/tonyhax | 220 | 4| 
-| 20210329T23:18:18Z | 2 year old csgo exploits | https://github.com/revollucian/old-game-exploit | 1 | 1| 
+| 20210330T12:00:28Z | Roblox Scripts To Exploites. | https://github.com/luascrip/luascriptsroblox | 0 | 0| 
+| 20210330T11:59:08Z | -------> RAFEL<------  Android Rat  Written in Java With WebPanel For Controlling Victims | https://github.com/swagkarna/Rafel-Rat | 62 | 32| 
+| 20210330T11:35:12Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9203 | 1483| 
+| 20210330T11:17:41Z | A list of commands, tools and notes about enumerating and exploiting Active Directory and how to defend against these attacks | https://github.com/thegoatreich/AD_attack_defend_cheatsheet | 0 | 0| 
+| 20210330T11:02:28Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 13 | 6| 
+| 20210330T10:15:53Z | Pulse is a mobile health platform that seeks to exploit the ever-expanding compute power of smart devices and the power of machine learning to help people take ownership of their health by promoting good health and wellbeing. | https://github.com/samadon1/ProjectPulse | 0 | 0| 
+| 20210330T10:14:43Z | PhoneSploit is tool for remote ADB Exploitation. With the help of this tool you can control android device by just IP address.  pkg up -y pkg install git -y pkg install python -y pkg install openssl-tool pkg install wget -y pip install colorama git clone https://github.com/MasterDevX/Termux-ADB cd Termux-ADB chmod 777 InstallTools.sh bash InstallTools.sh cd $HOME git clone https://github.com/aerosol-can/PhoneSploit cd PhoneSploit python phonesploit.py | https://github.com/Zack-sys/Phonesploit---hacking-android-using-IP-address | 3 | 0| 
+| 20210330T10:08:34Z | Master Thesis | https://github.com/FlavioLorenzi/Continuous-Learning-on-Unity-dataset-exploiting-the-Activity-Recognition-Engine | 0 | 0| 
+| 20210330T10:03:29Z | A choose-your-own adventure game following the exploits of Kitty Fursbags | https://github.com/emilykmcullen/kitty_fursbags_story_game | 1 | 0| 
+| 20210330T09:50:41Z | Waterball%s Uber. A Uber-like (Car-Hailing APP) microservice implementation using Java Spring Boot, exploiting the design methodologies: clean architecture / domain driven design / TDD. | https://github.com/Johnny850807/Waber | 1 | 1| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210330T10:30:22Z | 🤖An Evil and Smart Bot for Enslaving Windows. | https://github.com/wildonion/katyusha | 1 | 1| 
+| 20210330T09:24:43Z | How to Embed a backdoor in a PDF file | https://github.com/xitizbasnet/How-to-Embed-a-backdoor-in-a-PDF-file | 0 | 0| 
+| 20210330T07:13:44Z | Linux backdoor | https://github.com/juniordevsec2021/backdoor | 0 | 0| 
+| 20210330T06:37:40Z | Null | https://github.com/xpf/Backdoor-Learning-arXiv | 0 | 0| 
+| 20210330T03:20:06Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 200 | 34| 
+| 20210330T02:46:03Z | Null | https://github.com/SourceCode1037/Backdoor-Attacks | 2 | 0| 
 | 20210330T00:18:49Z | A backdoor wrote in Java. (Only for educational purposes! Use at your own risk.) | https://github.com/PulseBeat02/Among-Us-Backdoor | 0 | 0| 
 | 20210329T19:12:40Z | Simple bind backdoor destined for linux servers | https://github.com/mednic/b4ckd0or | 2 | 0| 
 | 20210329T17:53:50Z | A demo and explanation of how backdoor poisoning in the form of a Trojan work in neural networks | https://github.com/adit-bala/Introduction-to-Trojans-in-AI | 0 | 0| 
 | 20210329T17:36:11Z | PCI Express DIY hacking toolkit for Xilinx SP605 | https://github.com/Cr4sh/s6_pcie_microblaze | 303 | 76| 
-| 20210329T17:23:04Z | I created this script to help make it easier for you to directly attack index.html on the website | https://github.com/penucuriCode/shell-backdoor | 1 | 1| 
-| 20210329T16:21:17Z | Un shell remoto (remote shell) es un programa que puede ejecutar comandos de shell como otro usuario desde otra computadora a través de la red, usando el modelo cliente-servidor. Cuando este programa no es legítimo o se utiliza para fines no permitidos o ilícitos, recibe el nombre de puerta trasera (backdoor). | https://github.com/Andres-Hernandez-Mata/Backdoor-Shell | 0 | 0| 
-| 20210329T15:34:43Z | A sample app to demonstrate how to create Xamarin UITests using the Page Object architecture, Backdoor Methods and App Links (aka Deep Linking) | https://github.com/brminnick/UITestSampleApp | 34 | 26| 
-| 20210329T15:24:02Z | Null | https://github.com/Wiilldd/backdoor | 0 | 0| 
-| 20210329T14:25:53Z | 🤖An Evil and Smart Bot for Enslaving Windows. | https://github.com/wildonion/katyusha | 1 | 1| 
-| 20210329T14:17:12Z | Silent, customizable backdoor plugin for 1.12.2. | https://github.com/ThiccIndustries/Minecraft-Backdoor | 1 | 1| 
 
 
 # fuzz on Github 推荐
