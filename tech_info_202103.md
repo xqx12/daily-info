@@ -17,6 +17,8 @@
 | 20210329 | 有 Android 恶意软件伪造成系统更新 App 攻击用户 | https://blog.zimperium.com/new-advanced-android-malware-posing-as-system-update/| 
 | 20210329 | 基于 CodeQL 的 C/C++ 源码静态分析实践 | https://sec.today/pulses/da6d77b2-a763-4d17-ac77-db0ff6d9482e/| 
 | 20210329 | 基于 CodeQL 的 C/C++ 源码静态分析实践 | https://xz.aliyun.com/t/9275| 
+| 20210329 | [翻译]深入 .NET ViewState 反序列化及其利用。 | https://cyto.top/2021/03/29/translation-deep-dive-into-net-viewstate-deserialization-and-its-exploitation/| 
+| 20210329 | 挑战破解RSA加密算法。 | https://medium.com/asecuritysite-when-bob-met-alice/cracking-rsa-a-challenge-generator-2b64c4edb3e7| 
 | 20210328 | 安全研究人员发现新的恶意软件“Purple Fox”，该恶意软件存在威胁Windows设备。 | https://gbhackers.com/purple-fox-malware-propagates-as-worms/| 
 | 20210328 | 针对Kimsuky组织的网络攻击活动追溯分析报告。 | https://mp.weixin.qq.com/s/pkCK1ryXvGWFuoHQk9Rahg| 
 | 20210326 | 程序分析（Program Analysis）相关的资料整理 | https://gist.github.com/MattPD/00573ee14bf85ccac6bed3c0678ddbef| 
@@ -24,8 +26,6 @@
 | 20210326 | GLib 整数溢出漏洞分析（CVE-2021-27219） | https://securitylab.github.com/advisories/GHSL-2021-045-g_bytes_new/| 
 | 20210326 | Microsoft Exchange 漏洞（CVE-2021-26855）在野扫描分析报告 | http://blog.netlab.360.com/microsoft-exchange-vulnerability-cve-2021-26855-scan-analysis/| 
 | 20210326 | NetSPI 将之前的 Linux 渗透测试学习环境整合成了一个 Docker | https://blog.netspi.com/dockerizing-the-netspi-linux-labs/| 
-| 20210326 | Google 正在推动建立 Android Ready SE 联盟，用于 SE 安全芯片标准的研发 | https://security.googleblog.com/2021/03/announcing-android-ready-se-alliance.html?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+GoogleOnlineSecurityBlog+%28Google+Online+Security+Blog%29| 
-| 20210326 | BITTER APT 组织所使用的 win32k CVE-2021-1732 越界访问漏洞分析 | https://iamelli0t.github.io/2021/03/25/CVE-2021-1732.html| 
 
 
 # 安全维基 推荐
@@ -46,37 +46,37 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20210329T12:53:22Z | CVE-2021-29267 | SherlockIM ChatBot XSS | https://github.com/Security-AVS/CVE-2021-29267 | 未查询到CVE信息| 
-| 20210329T12:44:10Z | cve-2021-3449 | CVE-2021-3449 OpenSSL denial-of-service exploit 👨🏻‍💻 | https://github.com/terorie/cve-2021-3449 | An OpenSSL TLS server may crash if sent a maliciously crafted renegotiation ClientHello message from a client. If a TLSv1.2 renegotiation ClientHello omits the signature_algorithms extension (where it was present in the initial ClientHello), but includes a signature_algorithms_cert extension then a NULL pointer dereference will result, leading to a crash and a denial of service attack. A server is only vulnerable if it has TLSv1.2 and renegotiation enabled (which is the default configuration). OpenSSL TLS clients are not impacted by this issue. All OpenSSL 1.1.1 versions are affected by this issue. Users of these versions should upgrade to OpenSSL 1.1.1k. OpenSSL 1.0.2 is not impacted by this issue. Fixed in OpenSSL 1.1.1k (Affected 1.1.1-1.1.1j).| 
-| 20210329T12:35:24Z | CVE-2021-3156 | Sudo Baron Samedit Exploit | https://github.com/worawit/CVE-2021-3156 | Sudo before 1.9.5p2 contains an off-by-one error that can result in a heap-based buffer overflow, which allows privilege escalation to root via %sudoedit -s% and a command-line argument that ends with a single backslash character.| 
+| 20210329T23:11:46Z | cve-2021-3449 | CVE-2021-3449 OpenSSL denial-of-service exploit 👨🏻‍💻 | https://github.com/terorie/cve-2021-3449 | An OpenSSL TLS server may crash if sent a maliciously crafted renegotiation ClientHello message from a client. If a TLSv1.2 renegotiation ClientHello omits the signature_algorithms extension (where it was present in the initial ClientHello), but includes a signature_algorithms_cert extension then a NULL pointer dereference will result, leading to a crash and a denial of service attack. A server is only vulnerable if it has TLSv1.2 and renegotiation enabled (which is the default configuration). OpenSSL TLS clients are not impacted by this issue. All OpenSSL 1.1.1 versions are affected by this issue. Users of these versions should upgrade to OpenSSL 1.1.1k. OpenSSL 1.0.2 is not impacted by this issue. Fixed in OpenSSL 1.1.1k (Affected 1.1.1-1.1.1j).| 
+| 20210329T20:21:10Z | CVE-2021-3156 | Sudo Baron Samedit Exploit | https://github.com/worawit/CVE-2021-3156 | Sudo before 1.9.5p2 contains an off-by-one error that can result in a heap-based buffer overflow, which allows privilege escalation to root via %sudoedit -s% and a command-line argument that ends with a single backslash character.| 
+| 20210329T13:34:39Z | CVE-2021-29267 | SherlockIM ChatBot XSS | https://github.com/Security-AVS/CVE-2021-29267 | Sherlock SherlockIM through 2021-03-29 allows Cross Site Scripting (XSS) by leveraging the api/Files/Attachment URI to attack help-desk staff via the chatbot feature.| 
+| 20210329T13:04:49Z | CVE-2021-22986 | Null | https://github.com/dotslashed/CVE-2021-22986 | 未查询到CVE信息| 
 | 20210329T11:32:42Z | CVE-2021-22986 | CVE-2021-22986 & F5 BIG-IP RCE | https://github.com/Al1ex/CVE-2021-22986 | 未查询到CVE信息| 
 | 20210329T05:58:53Z | CVE-2021-22986 | Code By:Tas9er / F5 BIG-IP 远程命令执行漏洞 | https://github.com/Tas9er/CVE-2021-22986 | 未查询到CVE信息| 
 | 20210329T03:13:04Z | CVE-2020-1938 | Null | https://github.com/Hancheng-Lei/Hacking-Vulnerability-CVE-2020-1938-Ghostcat | When using the Apache JServ Protocol (AJP), care must be taken when trusting incoming connections to Apache Tomcat. Tomcat treats AJP connections as having higher trust than, for example, a similar HTTP connection. If such connections are available to an attacker, they can be exploited in ways that may be surprising. In Apache Tomcat 9.0.0.M1 to 9.0.0.30, 8.5.0 to 8.5.50 and 7.0.0 to 7.0.99, Tomcat shipped with an AJP Connector enabled by default that listened on all configured IP addresses. It was expected (and recommended in the security guide) that this Connector would be disabled if not required. This vulnerability report identified a mechanism that allowed: - returning arbitrary files from anywhere in the web application - processing any file in the web application as a JSP Further, if the web application allowed file upload and stored those files within the web application (or the attacker was able to control the content of the web application by some other means) then this, along with the ability to process a file as a JSP, made remote code execution possible. It is important to note that mitigation is only required if an AJP port is accessible to untrusted users. Users wishing to take a defence-in-depth approach and block the vector that permits returning arbitrary files and execution as JSP may upgrade to Apache Tomcat 9.0.31, 8.5.51 or 7.0.100 or later. A number of changes were made to the default AJP Connector configuration in 9.0.31 to harden the default configuration. It is likely that users upgrading to 9.0.31, 8.5.51 or 7.0.100 or later will need to make small changes to their configurations.| 
 | 20210328T18:33:53Z | CVE-2021-21123 | 🐱‍💻 👍 Google Chrome - File System Access API - vulnerabilities reported by Maciej Pulikowski , Total Bug Bounty Reward: $5.000 , CVE-2021-21123 and 5 more... | https://github.com/Puliczek/CVE-2021-21123-PoC-Google-Chrome | Insufficient data validation in File System API in Google Chrome prior to 88.0.4324.96 allowed a remote attacker to bypass filesystem restrictions via a crafted HTML page.| 
 | 20210328T11:59:51Z | CVE-2021-22192 | CVE-2021-22192 靶场： 未授权用户 RCE 漏洞 | https://github.com/lyy289065406/CVE-2021-22192 | An issue has been discovered in GitLab CE/EE affecting all versions starting from 13.2 allowing unauthorized authenticated users to execute arbitrary code on the server.| 
-| 20210328T04:46:00Z | 未知编号 | Null | https://github.com/CyberCommands/CVE2021-23132 | 未查询到CVE信息| 
-| 20210328T00:01:54Z | CVE-2021-21389 | BuddyPress < 7.2.1 - REST API Privilege Escalation to RCE | https://github.com/HoangKien1020/CVE-2021-21389 | BuddyPress is an open source WordPress plugin to build a community site. In releases of BuddyPress from 5.0.0 before 7.2.1 it%s possible for a non-privileged, regular user to obtain administrator rights by exploiting an issue in the REST API members endpoint. The vulnerability has been fixed in BuddyPress 7.2.1. Existing installations of the plugin should be updated to this version to mitigate the issue.| 
+| 20210328T04:46:00Z | 未知编号 | Null | https://github.com/CyberCommands/CVE2021-23132 | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210329T19:11:30Z | Null | https://github.com/abbykleespie/LAWk8AbbyKleepsie.appstudio | 0 | 0| 
+| 20210329T18:22:21Z | RVT is a collection of tools/libraries to support both static and dynamic verification of Rust programs. | https://github.com/project-oak/rust-verification-tools | 112 | 9| 
+| 20210329T16:46:01Z | A personnal UI library made as an excuse to have a published UI package | https://github.com/Liinkiing/klee | 5 | 1| 
+| 20210329T13:33:32Z | Null | https://github.com/thierry-tct/KLEE-SEMu | 2 | 2| 
+| 20210329T13:29:56Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 的 Klee One 的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 373 | 10| 
 | 20210329T11:52:11Z | learn klee | https://github.com/dajun183/kleeverify | 0 | 0| 
 | 20210329T04:17:14Z | Create CFGs and compute complexity metrics for Python, C++, and Java code. | https://github.com/hmc-alpaqa/metrinome | 6 | 0| 
-| 20210329T02:56:38Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 的 Klee One 的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 372 | 10| 
 | 20210328T19:04:38Z | KLEE%s version of uClibc | https://github.com/klee/klee-uclibc | 32 | 35| 
 | 20210328T15:21:04Z | Null | https://github.com/Ankit1608/Kleensecuritylanding | 0 | 0| 
 | 20210328T08:34:17Z | Null | https://github.com/davidtr1037/klee-aaqc | 1 | 0| 
-| 20210327T23:32:32Z | Git Blog | https://github.com/klee30810/klee30810.github.io | 0 | 0| 
-| 20210327T23:15:21Z | Null | https://github.com/ZHYfeng/2018-Klee_Confirm_Path | 0 | 0| 
-| 20210327T19:21:27Z | C library to support Map2Check Tool | https://github.com/hbgit/map2check-library | 0 | 0| 
-| 20210327T18:20:53Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1656 | 486| 
 
 
 # s2e on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210328T11:49:26Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 113 | 24| 
+| 20210328T11:49:26Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 113 | 25| 
 | 20210323T09:51:18Z | Your S2E project management tools. Visit https://s2e.systems/docs to get started. | https://github.com/S2E/s2e-env | 72 | 30| 
 | 20210322T13:32:13Z | with the technique of Opencv, we try to achieve traffic identification. | https://github.com/wpfeder/Opencv_traffic_s2e | 0 | 0| 
 | 20210313T20:42:17Z | Source of Sonic Eclipse, a romhack of Sonic 2 for Sega Master System circa 2018. http://sonicresearch.org/community/index.php?threads/sonic-eclipse.5524/ | https://github.com/mrcat-pixel/s2eclipse | 3 | 0| 
@@ -86,31 +86,31 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210329T12:58:10Z | Eternalblue written in CSharp. Contains version detection, vulnerability scanner and exploit of MS17-010 | https://github.com/povlteksttv/Eternalblue | 41 | 6| 
-| 20210329T12:50:35Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 10 | 6| 
-| 20210329T12:48:37Z | SumUps and Resumees of different Exploiting techniques | https://github.com/phalanx8/awesomeExploiting | 0 | 0| 
-| 20210329T12:39:55Z | Master Thesis | https://github.com/FlavioLorenzi/Continuous-Learning-on-Unity-dataset-exploiting-the-Activity-Recognition-Engine | 0 | 0| 
-| 20210329T12:37:38Z | A collection of more than 140+ tools, scripts, cheatsheets and other loots that I have developed over years for Red Teaming/Pentesting/IT Security audits purposes. Most of them came handy on at least one of my real-world engagements. | https://github.com/mgeeky/Penetration-Testing-Tools | 627 | 153| 
-| 20210329T12:35:49Z | The report and the exploit of CVE-2021-26943, the kernel-to-SMM local privilege escalation vulnerability in ASUS UX360CA BIOS version 303. | https://github.com/tandasat/SmmExploit | 0 | 0| 
-| 20210329T12:33:57Z | Roblox Scripts To Exploites. | https://github.com/luascrip/luascriptsroblox | 0 | 0| 
-| 20210329T12:22:44Z | CTF framework and exploit development library | https://github.com/Gallopsled/pwntools | 7685 | 1370| 
-| 20210329T12:13:55Z | Java安全相关的漏洞和技术demo，原生Java、Fastjson、Jackson、Hessian2、XML反序列化漏洞利用和Spring、Dubbo、Shiro、CAS、Tomcat、RMI、Nexus等框架\中间件\功能的exploits以及Java Security Manager绕过、Dubbo-Hessian2安全加固等等实践代码。 | https://github.com/threedr3am/learnjavabug | 1272 | 302| 
-| 20210329T12:08:50Z | To understand the non-uniform distribution of English letters and how that may be exploited in cryptanalysis | https://github.com/ItCallum/Cryptography-project-1 | 0 | 0| 
+| 20210329T23:32:40Z | PS1 savegame exploit | https://github.com/socram8888/tonyhax | 220 | 4| 
+| 20210329T23:18:18Z | 2 year old csgo exploits | https://github.com/revollucian/old-game-exploit | 1 | 1| 
+| 20210329T23:12:34Z | Post-exploitation tool for Active Directory recon | https://github.com/tmenochet/ADMap | 0 | 0| 
+| 20210329T23:02:26Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 13 | 6| 
+| 20210329T22:58:10Z | Le but de ce projet est de réaliser un mécanisme d’allocation / désallocation de mémoire inspiré du fameux couple malloc() / free() de la librairie standard. La gestion de l’espace libre (par exemple suite à la suppression de structures allouées) est un aspect important du projet. Le système devra s’appuyer sur une zone mémoire allouée en début de programme. Il y a donc 4 fonctions à écrire pour pouvoir l’utiliser : /* initialisation de la zone de travail */ int initMemory(int nBytes); /* allocation dynamique d’espace dans la zone */ void* myalloc(int nBytes); /* désallocation d’une zone adressée par un pointeur */ int myfree(void* p); /* recuperation de la zone initialement reservee */ int freeMemory(); | https://github.com/tbdev99/Projet-Systeme-d-exploitation-Allocation-Dynamique | 0 | 0| 
+| 20210329T22:43:40Z | This is a chrome extension that removes the psychological exploit that is Reddit Karma | https://github.com/BeckTimothy/reddit-volition | 0 | 0| 
+| 20210329T22:28:24Z | A selection of rebuilt and from scratch exploits, scripts and ideas that can be used in red-teaming scenarios. | https://github.com/H4rk3nz0/PenTesting | 1 | 0| 
+| 20210329T21:51:29Z | PS4 Exploits 5.05-7.55 | https://github.com/Buzbee/Buzbee.github.io | 0 | 0| 
+| 20210329T21:36:35Z | Bukkit/BungeeCord plugin that aims on fixing Exploits in your Minecraft network. [Requires HamsterAPI to work] | https://github.com/2LStudios-MC/ExploitFixer | 75 | 20| 
+| 20210329T21:18:30Z | A list of commands, tools and notes about enumerating and exploiting Active Directory and how to defend against these attacks | https://github.com/thegoatreich/AD_attack_defend_cheatsheet | 0 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210329T12:31:09Z | A self-spreading parasitic, polymorphic internet-worm for the netBIOS backdoor | https://github.com/timo-cmd2/Win32.ThemalSh4ke | 1 | 0| 
-| 20210329T11:02:10Z | WaNet - Imperceptible Warping-based Backdoor Attack (ICLR 2021) | https://github.com/VinAIResearch/Warping-based_Backdoor_Attack-release | 5 | 2| 
-| 20210329T09:28:30Z | Null | https://github.com/viamAhmadi/ninja-backdoor-server | 0 | 0| 
-| 20210329T09:26:49Z | Null | https://github.com/viamAhmadi/ninja-backdoor | 0 | 0| 
-| 20210329T08:45:04Z | 🤖An Evil and Smart Bot for Enslaving Windows. | https://github.com/wildonion/katyusha | 1 | 1| 
-| 20210329T08:10:01Z | Null | https://github.com/xpf/Backdoor-Learning-arXiv | 0 | 0| 
-| 20210329T04:40:14Z | Input-aware Dynamic Backdoor Attack (NeurIPS 2020) | https://github.com/VinAIResearch/input-aware-backdoor-attack-release | 27 | 3| 
-| 20210329T04:29:06Z | Fully Undetectable Malware Backdoor | https://github.com/raunvk/stealthware-backdoor | 3 | 2| 
-| 20210329T04:24:22Z | Worst Panel/Script | https://github.com/sumsspiffy/worst-wtf | 1 | 0| 
-| 20210329T03:15:47Z | Null | https://github.com/Madff386/backdoor | 0 | 0| 
+| 20210329T19:12:40Z | Simple bind backdoor destined for linux servers | https://github.com/mednic/b4ckd0or | 2 | 0| 
+| 20210329T17:53:50Z | A demo and explanation of how backdoor poisoning in the form of a Trojan work in neural networks | https://github.com/adit-bala/Introduction-to-Trojans-in-AI | 0 | 0| 
+| 20210329T17:36:11Z | PCI Express DIY hacking toolkit for Xilinx SP605 | https://github.com/Cr4sh/s6_pcie_microblaze | 303 | 76| 
+| 20210329T17:23:04Z | I created this script to help make it easier for you to directly attack index.html on the website | https://github.com/penucuriCode/shell-backdoor | 1 | 1| 
+| 20210329T16:21:17Z | Un shell remoto (remote shell) es un programa que puede ejecutar comandos de shell como otro usuario desde otra computadora a través de la red, usando el modelo cliente-servidor. Cuando este programa no es legítimo o se utiliza para fines no permitidos o ilícitos, recibe el nombre de puerta trasera (backdoor). | https://github.com/Andres-Hernandez-Mata/Backdoor-Shell | 0 | 0| 
+| 20210329T15:34:43Z | A sample app to demonstrate how to create Xamarin UITests using the Page Object architecture, Backdoor Methods and App Links (aka Deep Linking) | https://github.com/brminnick/UITestSampleApp | 34 | 26| 
+| 20210329T15:24:02Z | Null | https://github.com/Wiilldd/backdoor | 0 | 0| 
+| 20210329T14:25:53Z | 🤖An Evil and Smart Bot for Enslaving Windows. | https://github.com/wildonion/katyusha | 1 | 1| 
+| 20210329T14:17:12Z | Silent, customizable backdoor plugin for 1.12.2. | https://github.com/ThiccIndustries/Minecraft-Backdoor | 1 | 1| 
+| 20210329T14:11:13Z | A self-spreading parasitic, polymorphic internet-worm for the netBIOS backdoor | https://github.com/timo-cmd2/Win32.ThermalShake | 1 | 0| 
 
 
 # fuzz on Github 推荐
