@@ -65,9 +65,9 @@
 | 20210329T22:43:40Z | This is a chrome extension that removes the psychological exploit that is Reddit Karma | https://github.com/BeckTimothy/reddit-volition | 0 | 0| 
 | 20210329T22:28:24Z | A selection of rebuilt and from scratch exploits, scripts and ideas that can be used in red-teaming scenarios. | https://github.com/H4rk3nz0/PenTesting | 1 | 0| 
 | 20210329T21:36:35Z | Bukkit/BungeeCord plugin that aims on fixing Exploits in your Minecraft network. [Requires HamsterAPI to work] | https://github.com/2LStudios-MC/ExploitFixer | 75 | 20| 
+| 20210329T21:36:35Z | Bukkit/BungeeCord plugin that aims on fixing Exploits in your Minecraft network. [Requires HamsterAPI to work] | https://github.com/2lstudios-mc/ExploitFixer | 75 | 20| 
 | 20210329T21:18:30Z | A list of commands, tools and notes about enumerating and exploiting Active Directory and how to defend against these attacks | https://github.com/thegoatreich/AD_attack_defend_cheatsheet | 0 | 0| 
 | 20210329T20:50:23Z | A repository for learning various heap exploitation techniques. | https://github.com/shellphish/how2heap | 4463 | 897| 
-| 20210329T20:44:24Z | Exploiting the Rolling Shutter Mechanism for ENF extraction from Video Recordings | https://github.com/deerajnagothu/pyENF_extraction_rolling_shutter | 0 | 0| 
 
 
 # backdoor on Github 推荐
