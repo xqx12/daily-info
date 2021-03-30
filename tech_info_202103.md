@@ -52,9 +52,9 @@
 | 20210330T08:32:05Z | CVE-2021-1732 | Null | https://github.com/ltfafei/CVE-2021-1732_exp | Windows Win32k Elevation of Privilege Vulnerability This CVE ID is unique from CVE-2021-1698.| 
 | 20210330T07:56:01Z | CVE-2021-26295 | CVE-2021-26295 EXP 可成功反弹Shell | https://github.com/r0ckysec/CVE-2021-26295 | Apache OFBiz has unsafe deserialization prior to 17.12.06. An unauthenticated attacker can use this vulnerability to successfully take over Apache OFBiz.| 
 | 20210330T07:19:13Z | CVE-2020-27955 | CVE-2020-27955 Poc | https://github.com/NeoDarwin/CVE-2020-27955 | Git LFS 2.12.0 allows Remote Code Execution.| 
-| 20210330T07:10:36Z | CVE-2020-25078 | D-Link DCS系列账号密码信息泄露漏洞，通过脚本获取账号密码，可批量。 | https://github.com/MzzdToT/CVE-2020-25078 | An issue was discovered on D-Link DCS-2530L before 1.06.01 Hotfix and DCS-2670L through 2.02 devices. The unauthenticated /config/getuser endpoint allows for remote administrator password disclosure.| 
+| 20210330T07:10:36Z | CVE-2020-25078 | D-Link DCS系列账号密码信息泄露漏洞，通过脚本获取账号密码，可批量。 | https://github.com/MzzdToT/CVE-2020-25078 | | 
 | 20210330T06:59:35Z | CVE-2021-3156 | CVE-2021-3156漏洞修复Shell | https://github.com/Nokialinux/CVE-2021-3156 | Sudo before 1.9.5p2 contains an off-by-one error that can result in a heap-based buffer overflow, which allows privilege escalation to root via %sudoedit -s% and a command-line argument that ends with a single backslash character.| 
-| 20210330T06:43:56Z | cve-2021-22986 | F5 BIG-IP远程代码执行；cve-2021-22986，批量检测；命令执行利用 | https://github.com/yaunsky/CVE-202122986-EXP | | 
+| 20210330T06:43:56Z | cve-2021-22986 | F5 BIG-IP远程代码执行；cve-2021-22986，批量检测；命令执行利用 | https://github.com/yaunsky/CVE-202122986-EXP | 未查询到CVE信息| 
 | 20210330T00:50:23Z | CVE-2020-23839 | Public PoC Disclosure for CVE-2020-23839 -  GetSimple CMS v3.3.16 suffers from a Reflected XSS on the Admin Login Portal | https://github.com/boku7/CVE-2020-23839 | A Reflected Cross-Site Scripting (XSS) vulnerability in GetSimple CMS v3.3.16, in the admin/index.php login portal webpage, allows remote attackers to execute JavaScript code in the client%s browser and harvest login credentials after a client clicks a link, enters credentials, and submits the login form.| 
 
 
