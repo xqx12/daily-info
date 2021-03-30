@@ -62,13 +62,13 @@
 | 20210329T23:32:40Z | PS1 savegame exploit | https://github.com/socram8888/tonyhax | 220 | 4| 
 | 20210329T23:18:18Z | 2 year old csgo exploits | https://github.com/revollucian/old-game-exploit | 1 | 1| 
 | 20210329T23:12:34Z | Post-exploitation tool for Active Directory recon | https://github.com/tmenochet/ADMap | 0 | 0| 
-| 20210329T23:02:26Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 13 | 6| 
 | 20210329T22:58:10Z | Le but de ce projet est de réaliser un mécanisme d’allocation / désallocation de mémoire inspiré du fameux couple malloc() / free() de la librairie standard. La gestion de l’espace libre (par exemple suite à la suppression de structures allouées) est un aspect important du projet. Le système devra s’appuyer sur une zone mémoire allouée en début de programme. Il y a donc 4 fonctions à écrire pour pouvoir l’utiliser : /* initialisation de la zone de travail */ int initMemory(int nBytes); /* allocation dynamique d’espace dans la zone */ void* myalloc(int nBytes); /* désallocation d’une zone adressée par un pointeur */ int myfree(void* p); /* recuperation de la zone initialement reservee */ int freeMemory(); | https://github.com/tbdev99/Projet-Systeme-d-exploitation-Allocation-Dynamique | 0 | 0| 
 | 20210329T22:43:40Z | This is a chrome extension that removes the psychological exploit that is Reddit Karma | https://github.com/BeckTimothy/reddit-volition | 0 | 0| 
 | 20210329T22:28:24Z | A selection of rebuilt and from scratch exploits, scripts and ideas that can be used in red-teaming scenarios. | https://github.com/H4rk3nz0/PenTesting | 1 | 0| 
 | 20210329T21:51:29Z | PS4 Exploits 5.05-7.55 | https://github.com/Buzbee/Buzbee.github.io | 0 | 0| 
 | 20210329T21:36:35Z | Bukkit/BungeeCord plugin that aims on fixing Exploits in your Minecraft network. [Requires HamsterAPI to work] | https://github.com/2LStudios-MC/ExploitFixer | 75 | 20| 
 | 20210329T21:18:30Z | A list of commands, tools and notes about enumerating and exploiting Active Directory and how to defend against these attacks | https://github.com/thegoatreich/AD_attack_defend_cheatsheet | 0 | 0| 
+| 20210329T20:50:23Z | A repository for learning various heap exploitation techniques. | https://github.com/shellphish/how2heap | 4463 | 897| 
 
 
 # backdoor on Github 推荐
