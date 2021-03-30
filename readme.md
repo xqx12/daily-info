@@ -19,6 +19,13 @@
 | 20210329 | 基于 CodeQL 的 C/C++ 源码静态分析实践 | https://xz.aliyun.com/t/9275| 
 | 20210329 | [翻译]深入 .NET ViewState 反序列化及其利用。 | https://cyto.top/2021/03/29/translation-deep-dive-into-net-viewstate-deserialization-and-its-exploitation/| 
 | 20210329 | 挑战破解RSA加密算法。 | https://medium.com/asecuritysite-when-bob-met-alice/cracking-rsa-a-challenge-generator-2b64c4edb3e7| 
+| 20210329 | Exploitation and Sanitization of Hidden Data in PDF Files | https://arxiv.org/pdf/2103.02707.pdf| 
+| 20210329 | SAML XML Injection | https://research.nccgroup.com/2021/03/29/saml-xml-injection/| 
+| 20210329 | 滥用 Audio API 实现浏览器指纹 | https://fingerprintjs.com/blog/audio-fingerprinting/| 
+| 20210329 | PHP Git 源码库被提交后门代码，通过在请求中指定 User-Agent 可以直接 eval() 代码执行 | https://news-web.php.net/php.internals/113838| 
+| 20210329 | 开源逆向框架 Cutter 发布 2.0 大版本 | https://cutter.re/cutter-2.0| 
+| 20210329 | Apache Druid CVE-2021-25646 代码执行漏洞分析 | https://www.thezdi.com/blog/2021/3/25/cve-2021-25646-getting-code-execution-on-apache-druid| 
+| 20210329 | 利用 DCI 与 Windbg 调试器调试 SMM 模式的代码 | http://standa-note.blogspot.com/2021/03/debugging-system-with-dci-and-windbg.html| 
 
 
 # 安全维基 推荐

@@ -19,13 +19,13 @@
 | 20210329 | 基于 CodeQL 的 C/C++ 源码静态分析实践 | https://xz.aliyun.com/t/9275| 
 | 20210329 | [翻译]深入 .NET ViewState 反序列化及其利用。 | https://cyto.top/2021/03/29/translation-deep-dive-into-net-viewstate-deserialization-and-its-exploitation/| 
 | 20210329 | 挑战破解RSA加密算法。 | https://medium.com/asecuritysite-when-bob-met-alice/cracking-rsa-a-challenge-generator-2b64c4edb3e7| 
-| 20210328 | 安全研究人员发现新的恶意软件“Purple Fox”，该恶意软件存在威胁Windows设备。 | https://gbhackers.com/purple-fox-malware-propagates-as-worms/| 
-| 20210328 | 针对Kimsuky组织的网络攻击活动追溯分析报告。 | https://mp.weixin.qq.com/s/pkCK1ryXvGWFuoHQk9Rahg| 
-| 20210326 | 程序分析（Program Analysis）相关的资料整理 | https://gist.github.com/MattPD/00573ee14bf85ccac6bed3c0678ddbef| 
-| 20210326 | systemd-resolved varlink 接口类型混淆漏洞分析 | https://securitylab.github.com/advisories/GHSL-2021-049-systemd-resolved-varlink/| 
-| 20210326 | GLib 整数溢出漏洞分析（CVE-2021-27219） | https://securitylab.github.com/advisories/GHSL-2021-045-g_bytes_new/| 
-| 20210326 | Microsoft Exchange 漏洞（CVE-2021-26855）在野扫描分析报告 | http://blog.netlab.360.com/microsoft-exchange-vulnerability-cve-2021-26855-scan-analysis/| 
-| 20210326 | NetSPI 将之前的 Linux 渗透测试学习环境整合成了一个 Docker | https://blog.netspi.com/dockerizing-the-netspi-linux-labs/| 
+| 20210329 | Exploitation and Sanitization of Hidden Data in PDF Files | https://arxiv.org/pdf/2103.02707.pdf| 
+| 20210329 | SAML XML Injection | https://research.nccgroup.com/2021/03/29/saml-xml-injection/| 
+| 20210329 | 滥用 Audio API 实现浏览器指纹 | https://fingerprintjs.com/blog/audio-fingerprinting/| 
+| 20210329 | PHP Git 源码库被提交后门代码，通过在请求中指定 User-Agent 可以直接 eval() 代码执行 | https://news-web.php.net/php.internals/113838| 
+| 20210329 | 开源逆向框架 Cutter 发布 2.0 大版本 | https://cutter.re/cutter-2.0| 
+| 20210329 | Apache Druid CVE-2021-25646 代码执行漏洞分析 | https://www.thezdi.com/blog/2021/3/25/cve-2021-25646-getting-code-execution-on-apache-druid| 
+| 20210329 | 利用 DCI 与 Windbg 调试器调试 SMM 模式的代码 | http://standa-note.blogspot.com/2021/03/debugging-system-with-dci-and-windbg.html| 
 
 
 # 安全维基 推荐
@@ -46,7 +46,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20210330T00:50:23Z | CVE-2020-23839 | Public PoC Disclosure for CVE-2020-23839 -  GetSimple CMS v3.3.16 suffers from a Reflected XSS on the Admin Login Portal | https://github.com/boku7/CVE-2020-23839 | | 
+| 20210330T00:50:23Z | CVE-2020-23839 | Public PoC Disclosure for CVE-2020-23839 -  GetSimple CMS v3.3.16 suffers from a Reflected XSS on the Admin Login Portal | https://github.com/boku7/CVE-2020-23839 | A Reflected Cross-Site Scripting (XSS) vulnerability in GetSimple CMS v3.3.16, in the admin/index.php login portal webpage, allows remote attackers to execute JavaScript code in the client%s browser and harvest login credentials after a client clicks a link, enters credentials, and submits the login form.| 
 | 20210330T00:16:41Z | cve-2021-3449 | CVE-2021-3449 OpenSSL denial-of-service exploit 👨🏻‍💻 | https://github.com/terorie/cve-2021-3449 | An OpenSSL TLS server may crash if sent a maliciously crafted renegotiation ClientHello message from a client. If a TLSv1.2 renegotiation ClientHello omits the signature_algorithms extension (where it was present in the initial ClientHello), but includes a signature_algorithms_cert extension then a NULL pointer dereference will result, leading to a crash and a denial of service attack. A server is only vulnerable if it has TLSv1.2 and renegotiation enabled (which is the default configuration). OpenSSL TLS clients are not impacted by this issue. All OpenSSL 1.1.1 versions are affected by this issue. Users of these versions should upgrade to OpenSSL 1.1.1k. OpenSSL 1.0.2 is not impacted by this issue. Fixed in OpenSSL 1.1.1k (Affected 1.1.1-1.1.1j).| 
 | 20210329T20:21:10Z | CVE-2021-3156 | Sudo Baron Samedit Exploit | https://github.com/worawit/CVE-2021-3156 | Sudo before 1.9.5p2 contains an off-by-one error that can result in a heap-based buffer overflow, which allows privilege escalation to root via %sudoedit -s% and a command-line argument that ends with a single backslash character.| 
 | 20210329T13:34:39Z | CVE-2021-29267 | SherlockIM ChatBot XSS | https://github.com/Security-AVS/CVE-2021-29267 | Sherlock SherlockIM through 2021-03-29 allows Cross Site Scripting (XSS) by leveraging the api/Files/Attachment URI to attack help-desk staff via the chatbot feature.| 
@@ -117,16 +117,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210330T01:16:55Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6160 | 1244| 
+| 20210330T01:03:10Z | RESTler is the first stateful REST API fuzzing tool for automatically testing cloud services through their REST APIs and finding security and reliability bugs in these services. | https://github.com/microsoft/restler-fuzzer | 724 | 74| 
 | 20210330T00:36:40Z | Property-based testing of Earthstar using fast-check | https://github.com/earthstar-project/earthstar-fuzz | 1 | 0| 
 | 20210330T00:34:50Z | Null | https://github.com/VeriBlock/fuzz-corpus | 0 | 1| 
-| 20210330T00:14:23Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6159 | 1244| 
 | 20210330T00:01:14Z | Null | https://github.com/IsabelleCrispim/fuzzy-broccoli | 0 | 0| 
 | 20210330T00:01:04Z | Group 4C Fuzzy Logic Medieval Chess AI Senior Project | https://github.com/arizonagranger/SeniorProjectFuzzyLogicChess | 1 | 1| 
 | 20210329T23:58:25Z | PoC of fuzzing closed-source userspace binaries with KVM | https://github.com/klecko/kvm-fuzz | 1 | 0| 
 | 20210329T23:57:34Z | Null | https://github.com/lyx174/fuzzy-octo-spoon | 0 | 0| 
 | 20210329T23:46:29Z | Black-box fuzzer that fuzzes APIs based on OpenAPI specification | https://github.com/matusf/openapi-fuzzer | 1 | 0| 
 | 20210329T23:39:01Z | Coding practice for HTML/CSS/anything else web based | https://github.com/FuzzyPumpkin/FuzzyPumpkin.github.io | 5 | 1| 
-| 20210329T23:05:22Z | Fuzzing cryptographic libraries. Magic bug printer go brrrr. | https://github.com/guidovranken/cryptofuzz | 265 | 37| 
 
 
 
