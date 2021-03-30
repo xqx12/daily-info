@@ -87,6 +87,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210330T01:46:30Z | A collection of more than 140+ tools, scripts, cheatsheets and other loots that I have developed over years for Red Teaming/Pentesting/IT Security audits purposes. Most of them came handy on at least one of my real-world engagements. | https://github.com/mgeeky/Penetration-Testing-Tools | 627 | 153| 
 | 20210330T01:30:56Z | GEF - GDB Enhanced Features for exploit devs & reversers | https://github.com/hugsy/gef | 3555 | 497| 
 | 20210330T01:11:31Z | PS4 Exploits 5.05-7.55 | https://github.com/Buzbee/Buzbee.github.io | 0 | 0| 
 | 20210330T01:04:01Z | Null | https://github.com/mednic/slmail-exploit | 3 | 0| 
@@ -96,7 +97,6 @@
 | 20210330T00:33:36Z | Entry point exploit | https://github.com/azobackup/Entry-point-exploits | 0 | 0| 
 | 20210329T23:32:40Z | PS1 savegame exploit | https://github.com/socram8888/tonyhax | 220 | 4| 
 | 20210329T23:18:18Z | 2 year old csgo exploits | https://github.com/revollucian/old-game-exploit | 1 | 1| 
-| 20210329T23:12:34Z | Post-exploitation tool for Active Directory recon | https://github.com/tmenochet/ADMap | 0 | 0| 
 
 
 # backdoor on Github 推荐
