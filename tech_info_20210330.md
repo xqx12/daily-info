@@ -71,6 +71,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210330T12:35:21Z | Null | https://github.com/Juanosorio94/fuzzing-rdma | 0 | 0| 
 | 20210330T12:34:00Z | Labs & Fuzz | https://github.com/stoicescuvlad15/CTS-Workspace | 0 | 0| 
 | 20210330T11:58:51Z | Null | https://github.com/ccesarrod/.NetCoreFuzzy | 0 | 0| 
 | 20210330T11:48:17Z | Null | https://github.com/fuzzsa/fuzzsa-bugs | 0 | 1| 
@@ -80,7 +81,6 @@
 | 20210330T10:26:12Z | Generic plugin based web application security fuzzing for anomalies by Slándáil Research Limited | https://github.com/maK-/scanomaly | 6 | 1| 
 | 20210330T10:12:45Z | Null | https://github.com/rdelhougne/GraalFuzzing | 0 | 0| 
 | 20210330T10:11:20Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 1547 | 311| 
-| 20210330T09:54:56Z | C++14 automated code test infrastructure with permutation, fuzzing, sanitising and edge coverage | https://github.com/ned14/kerneltest | 11 | 2| 
 
 
 
