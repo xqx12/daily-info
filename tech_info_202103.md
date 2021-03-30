@@ -46,16 +46,16 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20210330T12:37:01Z | cve-2021-3449 | CVE-2021-3449 OpenSSL denial-of-service exploit 👨🏻‍💻 | https://github.com/terorie/cve-2021-3449 | | 
+| 20210330T12:37:01Z | cve-2021-3449 | CVE-2021-3449 OpenSSL denial-of-service exploit 👨🏻‍💻 | https://github.com/terorie/cve-2021-3449 | 未查询到CVE信息| 
 | 20210330T12:24:10Z | CVE-2021-22192 | CVE-2021-22192 靶场： 未授权用户 RCE 漏洞 | https://github.com/lyy289065406/CVE-2021-22192 | 未查询到CVE信息| 
-| 20210330T11:25:48Z | CVE-2021-1656 | Null | https://github.com/waleedassar/CVE-2021-1656 | | 
+| 20210330T11:25:48Z | CVE-2021-1656 | Null | https://github.com/waleedassar/CVE-2021-1656 | 未查询到CVE信息| 
 | 20210330T08:32:05Z | CVE-2021-1732 | Null | https://github.com/ltfafei/CVE-2021-1732_exp | 未查询到CVE信息| 
 | 20210330T07:56:01Z | CVE-2021-26295 | CVE-2021-26295 EXP 可成功反弹Shell | https://github.com/r0ckysec/CVE-2021-26295 | Apache OFBiz has unsafe deserialization prior to 17.12.06. An unauthenticated attacker can use this vulnerability to successfully take over Apache OFBiz.| 
-| 20210330T07:19:13Z | CVE-2020-27955 | CVE-2020-27955 Poc | https://github.com/NeoDarwin/CVE-2020-27955 | | 
-| 20210330T07:10:36Z | CVE-2020-25078 | D-Link DCS系列账号密码信息泄露漏洞，通过脚本获取账号密码，可批量。 | https://github.com/MzzdToT/CVE-2020-25078 | | 
-| 20210330T06:59:35Z | CVE-2021-3156 | CVE-2021-3156漏洞修复Shell | https://github.com/Nokialinux/CVE-2021-3156 | | 
+| 20210330T07:19:13Z | CVE-2020-27955 | CVE-2020-27955 Poc | https://github.com/NeoDarwin/CVE-2020-27955 | 未查询到CVE信息| 
+| 20210330T07:10:36Z | CVE-2020-25078 | D-Link DCS系列账号密码信息泄露漏洞，通过脚本获取账号密码，可批量。 | https://github.com/MzzdToT/CVE-2020-25078 | 未查询到CVE信息| 
+| 20210330T06:59:35Z | CVE-2021-3156 | CVE-2021-3156漏洞修复Shell | https://github.com/Nokialinux/CVE-2021-3156 | Sudo before 1.9.5p2 contains an off-by-one error that can result in a heap-based buffer overflow, which allows privilege escalation to root via %sudoedit -s% and a command-line argument that ends with a single backslash character.| 
 | 20210330T06:43:56Z | cve-2021-22986 | F5 BIG-IP远程代码执行；cve-2021-22986，批量检测；命令执行利用 | https://github.com/yaunsky/CVE-202122986-EXP | | 
-| 20210330T00:50:23Z | CVE-2020-23839 | Public PoC Disclosure for CVE-2020-23839 -  GetSimple CMS v3.3.16 suffers from a Reflected XSS on the Admin Login Portal | https://github.com/boku7/CVE-2020-23839 | | 
+| 20210330T00:50:23Z | CVE-2020-23839 | Public PoC Disclosure for CVE-2020-23839 -  GetSimple CMS v3.3.16 suffers from a Reflected XSS on the Admin Login Portal | https://github.com/boku7/CVE-2020-23839 | A Reflected Cross-Site Scripting (XSS) vulnerability in GetSimple CMS v3.3.16, in the admin/index.php login portal webpage, allows remote attackers to execute JavaScript code in the client%s browser and harvest login credentials after a client clicks a link, enters credentials, and submits the login form.| 
 
 
 # klee on Github 推荐
