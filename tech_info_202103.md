@@ -87,11 +87,11 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210330T01:02:23Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 13 | 6| 
 | 20210330T00:50:35Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 10 | 6| 
 | 20210330T00:47:00Z | A collection of scripts I%ve written, including automation, enumeration, exploitation, etc. | https://github.com/jessisec/scripts | 0 | 0| 
 | 20210330T00:33:36Z | Entry point exploit | https://github.com/azobackup/Entry-point-exploits | 0 | 0| 
 | 20210330T00:15:00Z | Null | https://github.com/mednic/slmail-exploit | 3 | 0| 
-| 20210330T00:02:32Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 13 | 6| 
 | 20210329T23:32:40Z | PS1 savegame exploit | https://github.com/socram8888/tonyhax | 220 | 4| 
 | 20210329T23:18:18Z | 2 year old csgo exploits | https://github.com/revollucian/old-game-exploit | 1 | 1| 
 | 20210329T23:12:34Z | Post-exploitation tool for Active Directory recon | https://github.com/tmenochet/ADMap | 0 | 0| 
@@ -117,8 +117,9 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210330T00:36:40Z | Property-based testing of Earthstar using fast-check | https://github.com/earthstar-project/earthstar-fuzz | 1 | 0| 
+| 20210330T00:34:50Z | Null | https://github.com/VeriBlock/fuzz-corpus | 0 | 1| 
 | 20210330T00:14:23Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6159 | 1244| 
-| 20210330T00:04:25Z | Property-based testing of Earthstar using fast-check | https://github.com/earthstar-project/earthstar-fuzz | 1 | 0| 
 | 20210330T00:01:14Z | Null | https://github.com/IsabelleCrispim/fuzzy-broccoli | 0 | 0| 
 | 20210330T00:01:04Z | Group 4C Fuzzy Logic Medieval Chess AI Senior Project | https://github.com/arizonagranger/SeniorProjectFuzzyLogicChess | 1 | 1| 
 | 20210329T23:58:25Z | PoC of fuzzing closed-source userspace binaries with KVM | https://github.com/klecko/kvm-fuzz | 1 | 0| 
@@ -126,7 +127,6 @@
 | 20210329T23:46:29Z | Black-box fuzzer that fuzzes APIs based on OpenAPI specification | https://github.com/matusf/openapi-fuzzer | 1 | 0| 
 | 20210329T23:39:01Z | Coding practice for HTML/CSS/anything else web based | https://github.com/FuzzyPumpkin/FuzzyPumpkin.github.io | 5 | 1| 
 | 20210329T23:05:22Z | Fuzzing cryptographic libraries. Magic bug printer go brrrr. | https://github.com/guidovranken/cryptofuzz | 265 | 37| 
-| 20210329T23:00:09Z | A cross-platform browser fuzzing framework | https://github.com/MozillaSecurity/grizzly | 234 | 31| 
 
 
 
