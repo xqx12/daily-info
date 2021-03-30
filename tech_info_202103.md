@@ -49,9 +49,9 @@
 | 20210330T12:24:10Z | CVE-2021-22192 | CVE-2021-22192 靶场： 未授权用户 RCE 漏洞 | https://github.com/lyy289065406/CVE-2021-22192 | An issue has been discovered in GitLab CE/EE affecting all versions starting from 13.2 allowing unauthorized authenticated users to execute arbitrary code on the server.| 
 | 20210330T12:17:50Z | cve-2021-3449 | CVE-2021-3449 OpenSSL denial-of-service exploit 👨🏻‍💻 | https://github.com/terorie/cve-2021-3449 | 未查询到CVE信息| 
 | 20210330T11:25:48Z | CVE-2021-1656 | Null | https://github.com/waleedassar/CVE-2021-1656 | TPM Device Driver Information Disclosure Vulnerability| 
-| 20210330T08:32:05Z | CVE-2021-1732 | Null | https://github.com/ltfafei/CVE-2021-1732_exp | | 
+| 20210330T08:32:05Z | CVE-2021-1732 | Null | https://github.com/ltfafei/CVE-2021-1732_exp | Windows Win32k Elevation of Privilege Vulnerability This CVE ID is unique from CVE-2021-1698.| 
 | 20210330T07:56:01Z | CVE-2021-26295 | CVE-2021-26295 EXP 可成功反弹Shell | https://github.com/r0ckysec/CVE-2021-26295 | Apache OFBiz has unsafe deserialization prior to 17.12.06. An unauthenticated attacker can use this vulnerability to successfully take over Apache OFBiz.| 
-| 20210330T07:19:13Z | CVE-2020-27955 | CVE-2020-27955 Poc | https://github.com/NeoDarwin/CVE-2020-27955 | 未查询到CVE信息| 
+| 20210330T07:19:13Z | CVE-2020-27955 | CVE-2020-27955 Poc | https://github.com/NeoDarwin/CVE-2020-27955 | Git LFS 2.12.0 allows Remote Code Execution.| 
 | 20210330T07:10:36Z | CVE-2020-25078 | D-Link DCS系列账号密码信息泄露漏洞，通过脚本获取账号密码，可批量。 | https://github.com/MzzdToT/CVE-2020-25078 | An issue was discovered on D-Link DCS-2530L before 1.06.01 Hotfix and DCS-2670L through 2.02 devices. The unauthenticated /config/getuser endpoint allows for remote administrator password disclosure.| 
 | 20210330T06:59:35Z | CVE-2021-3156 | CVE-2021-3156漏洞修复Shell | https://github.com/Nokialinux/CVE-2021-3156 | Sudo before 1.9.5p2 contains an off-by-one error that can result in a heap-based buffer overflow, which allows privilege escalation to root via %sudoedit -s% and a command-line argument that ends with a single backslash character.| 
 | 20210330T06:43:56Z | cve-2021-22986 | F5 BIG-IP远程代码执行；cve-2021-22986，批量检测；命令执行利用 | https://github.com/yaunsky/CVE-202122986-EXP | 未查询到CVE信息| 
@@ -87,8 +87,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210330T12:31:41Z | Various ASM, C and C++ tools, shellcodes and exploit experiments. | https://github.com/forrest-orr/ExploitDev | 57 | 6| 
 | 20210330T12:14:37Z | -------> RAFEL<------  Android Rat  Written in Java With WebPanel For Controlling Victims | https://github.com/swagkarna/Rafel-Rat | 62 | 32| 
-| 20210330T12:13:38Z | Various ASM, C and C++ tools, shellcodes and exploit experiments. | https://github.com/forrest-orr/ExploitDev | 57 | 6| 
 | 20210330T12:09:44Z | a tool for creating exploited media files for discord | https://github.com/Schmenn/discord-exploits | 44 | 3| 
 | 20210330T12:09:16Z | Roblox Scripts To Exploites. | https://github.com/luascrip/luascriptsroblox | 0 | 0| 
 | 20210330T12:06:13Z | This tool lets you search your gadgets on your binaries to facilitate your ROP exploitation. ROPgadget supports ELF, PE and Mach-O format on x86, x64, ARM, ARM64, PowerPC, SPARC and MIPS architectures.  | https://github.com/JonathanSalwan/ROPgadget | 2626 | 497| 
