@@ -102,6 +102,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210331T12:19:44Z | https://github.blog/2021-03-16-using-github-code-scanning-and-codeql-to-detect-traces-of-solorigate-and-other-backdoors/ | https://github.com/434791829/License-number-12 | 1 | 0| 
 | 20210331T11:26:46Z | Null | https://github.com/Delle9999/backdoor | 0 | 0| 
 | 20210331T09:24:21Z | Null | https://github.com/xpf/Backdoor-Learning-arXiv | 0 | 0| 
 | 20210331T08:19:55Z | AMWScan (PHP Antimalware Scanner) is a free tool to scan php files and analyze your project to find any malicious code inside it. | https://github.com/marcocesarato/PHP-Antimalware-Scanner | 186 | 34| 
@@ -111,7 +112,6 @@
 | 20210330T20:55:23Z | Null | https://github.com/Martiros888/backdoor | 0 | 0| 
 | 20210330T17:19:00Z | A self-spreading parasitic, polymorphic internet-worm for the netBIOS backdoor | https://github.com/timo-cmd2/Win32.ThermalShake | 1 | 0| 
 | 20210330T15:18:52Z | Minecraft Server Backdoor Plugin | https://github.com/NeunXKILLER20/PluginPwn | 0 | 0| 
-| 20210330T13:18:05Z | I created this script to help make it easier for you to directly attack index.php on the website | https://github.com/penucuriCode/shell-backdoor | 1 | 1| 
 
 
 # fuzz on Github 推荐
