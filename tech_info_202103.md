@@ -52,7 +52,7 @@
 | 20210331T06:01:30Z | CVE-2021-1656 | Null | https://github.com/waleedassar/CVE-2021-1656 | TPM Device Driver Information Disclosure Vulnerability| 
 | 20210331T03:49:34Z | CVE-2021-26828 | Null | https://github.com/hevox/CVE-2021-26828_ScadaBR_RCE | 未查询到CVE信息| 
 | 20210331T01:53:28Z | 未知编号 | Null | https://github.com/feihong-cs/Attacking_Shiro_with_CVE_2020_2555 | 未查询到CVE信息| 
-| 20210330T16:38:12Z | CVE-2020-23839 | Public PoC Disclosure for CVE-2020-23839 -  GetSimple CMS v3.3.16 suffers from a Reflected XSS on the Admin Login Portal | https://github.com/boku7/CVE-2020-23839 | | 
+| 20210330T16:38:12Z | CVE-2020-23839 | Public PoC Disclosure for CVE-2020-23839 -  GetSimple CMS v3.3.16 suffers from a Reflected XSS on the Admin Login Portal | https://github.com/boku7/CVE-2020-23839 | A Reflected Cross-Site Scripting (XSS) vulnerability in GetSimple CMS v3.3.16, in the admin/index.php login portal webpage, allows remote attackers to execute JavaScript code in the client%s browser and harvest login credentials after a client clicks a link, enters credentials, and submits the login form.| 
 | 20210330T15:53:22Z | 未知编号 | test | https://github.com/f0ns1/CVE-2020 | 未查询到CVE信息| 
 | 20210330T15:46:10Z | cve-2021-22986 | F5 BIG-IP远程代码执行；cve-2021-22986，批量检测；命令执行利用 | https://github.com/yaunsky/CVE-202122986-EXP | 未查询到CVE信息| 
 | 20210330T13:24:50Z | CVE-2021-29267 | SherlockIM ChatBot XSS | https://github.com/Security-AVS/CVE-2021-29267 | Sherlock SherlockIM through 2021-03-29 allows Cross Site Scripting (XSS) by leveraging the api/Files/Attachment URI to attack help-desk staff via the chatbot feature.| 
@@ -117,16 +117,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210331T01:08:52Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6164 | 1244| 
-| 20210331T00:55:15Z | Fuzzing cryptographic libraries. Magic bug printer go brrrr. | https://github.com/guidovranken/cryptofuzz | 266 | 37| 
-| 20210331T00:54:31Z | Null | https://github.com/joaopedro28/sistema-fuzzy-imoveis | 0 | 0| 
-| 20210331T00:52:51Z | Null | https://github.com/indietechjuliet/cs594_techinalwriteup1_fuzzing | 0 | 0| 
-| 20210331T00:18:50Z | Code and Analysis for our paper titled %Fuzzy Classification of Multi-intent Utterances% | https://github.com/bihani-g/Fuzzy_Intents | 0 | 0| 
-| 20210331T00:11:33Z | Scalable fuzzing infrastructure. | https://github.com/google/clusterfuzz | 4473 | 427| 
-| 20210330T23:58:45Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2293 | 122| 
-| 20210330T23:32:28Z | Black-box fuzzer that fuzzes APIs based on OpenAPI specification | https://github.com/matusf/openapi-fuzzer | 1 | 0| 
-| 20210330T23:21:51Z | Generic plugin based web application security fuzzing for anomalies by Slándáil Research Limited | https://github.com/maK-/scanomaly | 6 | 1| 
-| 20210330T23:09:33Z | A dart port of the popular fuzzywuzzy package | https://github.com/SphericalKat/dart-fuzzywuzzy | 6 | 1| 
+| 20210331T12:13:31Z | Null | https://github.com/primait/ex_fuzzywuzzy | 0 | 0| 
+| 20210331T12:09:04Z | 📨 Responsive email template generator. | https://github.com/luangjokaj/fuzzymail | 114 | 4| 
+| 20210331T12:03:01Z | Null | https://github.com/kinzhong/fuzzing-automation-tools | 0 | 0| 
+| 20210331T11:43:22Z | Null | https://github.com/FDU-Program-Analysis/chunk-fuzzer-pass | 0 | 0| 
+| 20210331T11:09:42Z | Null | https://github.com/Yin-Lynn-Htun/Fuzzy-shop | 0 | 0| 
+| 20210331T11:07:24Z | Null | https://github.com/s9varesc/url-fuzzing | 1 | 1| 
+| 20210331T10:51:22Z | Null | https://github.com/s9varesc/url-fuzzing-docker | 0 | 0| 
+| 20210331T10:35:48Z | Hacking tools written by me. IP fortune, webmap -- web vulns scanner, rtsp brute+fuzz, and more. | https://github.com/fagcinsk/h4ck | 1 | 0| 
+| 20210331T09:47:32Z | A simple approximate string matching algorithm | https://github.com/vladlazar94/fuzzy-search | 0 | 0| 
+| 20210331T09:46:56Z | This is a run-time fuzz tool used to find vulnerabilities in open source web software.  | https://github.com/summer17/vul_farm | 0 | 0| 
 
 
 

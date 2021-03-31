@@ -75,12 +75,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210331T01:08:52Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6164 | 1244| 
-| 20210331T00:55:15Z | Fuzzing cryptographic libraries. Magic bug printer go brrrr. | https://github.com/guidovranken/cryptofuzz | 266 | 37| 
-| 20210331T00:54:31Z | Null | https://github.com/joaopedro28/sistema-fuzzy-imoveis | 0 | 0| 
-| 20210331T00:52:51Z | Null | https://github.com/indietechjuliet/cs594_techinalwriteup1_fuzzing | 0 | 0| 
-| 20210331T00:18:50Z | Code and Analysis for our paper titled %Fuzzy Classification of Multi-intent Utterances% | https://github.com/bihani-g/Fuzzy_Intents | 0 | 0| 
-| 20210331T00:11:33Z | Scalable fuzzing infrastructure. | https://github.com/google/clusterfuzz | 4473 | 427| 
+| 20210331T12:13:31Z | Null | https://github.com/primait/ex_fuzzywuzzy | 0 | 0| 
+| 20210331T12:09:04Z | 📨 Responsive email template generator. | https://github.com/luangjokaj/fuzzymail | 114 | 4| 
+| 20210331T12:03:01Z | Null | https://github.com/kinzhong/fuzzing-automation-tools | 0 | 0| 
+| 20210331T11:43:22Z | Null | https://github.com/FDU-Program-Analysis/chunk-fuzzer-pass | 0 | 0| 
+| 20210331T11:09:42Z | Null | https://github.com/Yin-Lynn-Htun/Fuzzy-shop | 0 | 0| 
+| 20210331T11:07:24Z | Null | https://github.com/s9varesc/url-fuzzing | 1 | 1| 
+| 20210331T10:51:22Z | Null | https://github.com/s9varesc/url-fuzzing-docker | 0 | 0| 
+| 20210331T10:35:48Z | Hacking tools written by me. IP fortune, webmap -- web vulns scanner, rtsp brute+fuzz, and more. | https://github.com/fagcinsk/h4ck | 1 | 0| 
+| 20210331T09:47:32Z | A simple approximate string matching algorithm | https://github.com/vladlazar94/fuzzy-search | 0 | 0| 
+| 20210331T09:46:56Z | This is a run-time fuzz tool used to find vulnerabilities in open source web software.  | https://github.com/summer17/vul_farm | 0 | 0| 
 
 
 
