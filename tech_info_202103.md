@@ -87,6 +87,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210331T00:50:35Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 10 | 6| 
 | 20210331T00:43:59Z | Entry point exploit | https://github.com/azobackup/Entry-point-exploits | 0 | 0| 
 | 20210331T00:32:58Z | This repository contains five coding based mini-projects from which I implemented and exploited different sorting algorithms, BFS and DFS algorithms, Bellman-Ford algorithm, edit distance algorithm, Prim’s algorithm and Kruskal algorithm.  | https://github.com/suqianwang/Algorithms | 0 | 0| 
 | 20210331T00:24:45Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9206 | 1483| 
@@ -96,7 +97,6 @@
 | 20210330T22:18:58Z | Exploit Development - Weaponized Exploit and Proof of Concepts (PoC)  | https://github.com/VoidSec/Exploit-Development | 24 | 9| 
 | 20210330T22:15:30Z | lab_tool is a system that allows you to do ethical hacking tests. | https://github.com/dylan14567/lab_tool | 1 | 2| 
 | 20210330T21:46:46Z | Swiss Boot Memory Cards and Game Save Hacks a la GCMM | https://github.com/GameCubeHomebrew/GameSave-Exploits | 0 | 0| 
-| 20210330T21:31:10Z | Various ASM, C and C++ tools, shellcodes and exploit experiments. | https://github.com/forrest-orr/ExploitDev | 57 | 6| 
 
 
 # backdoor on Github 推荐
