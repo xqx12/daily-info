@@ -31,7 +31,7 @@
 | 20210331T06:44:09Z | CVE-2021-3156 | Sudo Baron Samedit Exploit | https://github.com/worawit/CVE-2021-3156 | Sudo before 1.9.5p2 contains an off-by-one error that can result in a heap-based buffer overflow, which allows privilege escalation to root via %sudoedit -s% and a command-line argument that ends with a single backslash character.| 
 | 20210331T06:01:30Z | CVE-2021-1656 | Null | https://github.com/waleedassar/CVE-2021-1656 | TPM Device Driver Information Disclosure Vulnerability| 
 | 20210331T03:49:34Z | CVE-2021-26828 | Null | https://github.com/hevox/CVE-2021-26828_ScadaBR_RCE | 未查询到CVE信息| 
-| 20210331T01:53:28Z | 未知编号 | Null | https://github.com/feihong-cs/Attacking_Shiro_with_CVE_2020_2555 | | 
+| 20210331T01:53:28Z | 未知编号 | Null | https://github.com/feihong-cs/Attacking_Shiro_with_CVE_2020_2555 | 未查询到CVE信息| 
 
 
 # klee on Github 推荐
@@ -49,13 +49,13 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210331T12:21:01Z | A-Rat = Remote access tool  we can generate python based rat  installation :  $ apt update   $ apt upgrade  $ apt install git  $ apt install python2  $ apt install python  $ git clone https://github.com/Xi4u7/A-Rat  $ cd A-Rat  $ chmod +x *  usage :  $ python2 A-Rat.py  $ help  $ set host 127.0.0.1 [your ip]  $ set port 1337  $ set output /$HOME/rat.py  $ generate  It generates rat.py in termux home directory  Open termux new session   type $ ls  here you get that rat.py   go to again A-Rat means privious session of termux  Type run to start exploit.  $ run  and then open new session and run rat like this  $ python rat.py  and come back to A-Rat session   Now its connected to that rat. means Hacked.  press control + c to stop. | https://github.com/Zack-sys/A-Rat-Exploit | 16 | 1| 
 | 20210331T12:18:30Z | PhoneSploit is tool for remote ADB Exploitation. With the help of this tool you can control android device by just IP address.  pkg up -y pkg install git -y pkg install python -y pkg install openssl-tool pkg install wget -y pip install colorama git clone https://github.com/MasterDevX/Termux-ADB cd Termux-ADB chmod 777 InstallTools.sh bash InstallTools.sh cd $HOME git clone https://github.com/aerosol-can/PhoneSploit cd PhoneSploit python phonesploit.py | https://github.com/Zack-sys/Phonesploit---hacking-android-using-IP-address | 5 | 0| 
 | 20210331T12:10:55Z | Scripts for private exploit | https://github.com/ubimumu/scripts | 0 | 0| 
 | 20210331T12:09:55Z | CMS Detection and Exploitation suite - Scan WordPress, Joomla, Drupal and 100 other CMSs  Functions Of CMSeek :  Basic CMS Detection of over 80 CMS Drupal version detection Advanced Wordpress Scans Detects Version User Enumeration Plugins Enumeration Theme Enumeration Detects Users (3 Detection Methods) Looks for Version Vulnerabilities and much more! Advanced Joomla Scans Version detection Backup files finder Admin page finder Core vulnerability detection Directory listing check Config leak detection Various other checks Modular bruteforce system Use pre made bruteforce modules or create your own and integrate with it  Installation :  $ apt update && apt upgrade  $ apt install git   $ apt install python2  $ apt install python  $ git clone https://github.com/Tuhinshubhra/CMSeeK  $ cd CMSeeK  $ chmod +x *  Run :   $ python cmseek.py   here select your oprion and use.. | https://github.com/Zack-sys/CMSEEK-SUIT---CMS-Detection-and-Exploitation-suite---Scan-WordPress-Joomla-Drupal-and-100-other-CM | 4 | 0| 
 | 20210331T12:02:47Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 13 | 6| 
 | 20210331T12:00:12Z | CVE-2021-3449 OpenSSL denial-of-service exploit 👨🏻‍💻 | https://github.com/terorie/cve-2021-3449 | 149 | 24| 
 | 20210331T11:50:20Z | 在科研（摸鱼）过程中，收集到的或者自己写的一些有用的（经过实战检验的）exp/poc，欢迎提交issue和PR | https://github.com/ycdxsb/Exploits | 2 | 0| 
-| 20210331T11:48:32Z | A-Rat = Remote access tool  we can generate python based rat  installation :  $ apt update   $ apt upgrade  $ apt install git  $ apt install python2  $ apt install python  $ git clone https://github.com/Xi4u7/A-Rat  $ cd A-Rat  $ chmod +x *  usage :  $ python2 A-Rat.py  $ help  $ set host 127.0.0.1 [your ip]  $ set port 1337  $ set output /$HOME/rat.py  $ generate  It generates rat.py in termux home directory  Open termux new session   type $ ls  here you get that rat.py   go to again A-Rat means privious session of termux  Type run to start exploit.  $ run  and then open new session and run rat like this  $ python rat.py  and come back to A-Rat session   Now its connected to that rat. means Hacked.  press control + c to stop. | https://github.com/Zack-sys/A-Rat-Exploit | 16 | 1| 
 | 20210331T11:45:33Z | Post-exploitation tool for Active Directory recon | https://github.com/tmenochet/ADMap | 0 | 0| 
 | 20210331T11:44:28Z | Android RAT  | https://github.com/Th30neAnd0nly/Ohm | 2 | 0| 
 | 20210331T11:35:13Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9210 | 1487| 
@@ -76,6 +76,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210331T12:21:59Z | Null | https://github.com/fuzzsa/fuzzsa-bugs | 0 | 1| 
 | 20210331T12:13:31Z | Null | https://github.com/primait/ex_fuzzywuzzy | 0 | 0| 
 | 20210331T12:09:04Z | 📨 Responsive email template generator. | https://github.com/luangjokaj/fuzzymail | 114 | 4| 
 | 20210331T12:03:01Z | Null | https://github.com/kinzhong/fuzzing-automation-tools | 0 | 0| 
@@ -85,7 +86,6 @@
 | 20210331T10:51:22Z | Null | https://github.com/s9varesc/url-fuzzing-docker | 0 | 0| 
 | 20210331T10:35:48Z | Hacking tools written by me. IP fortune, webmap -- web vulns scanner, rtsp brute+fuzz, and more. | https://github.com/fagcinsk/h4ck | 1 | 0| 
 | 20210331T09:47:32Z | A simple approximate string matching algorithm | https://github.com/vladlazar94/fuzzy-search | 0 | 0| 
-| 20210331T09:46:56Z | This is a run-time fuzz tool used to find vulnerabilities in open source web software.  | https://github.com/summer17/vul_farm | 0 | 0| 
 
 
 
