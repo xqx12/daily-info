@@ -87,7 +87,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210331T12:46:28Z | A Kindle jailbreak by Kaneki07 | https://github.com/Kaneki07/SphinxKJB | 0 | 0| 
+| 20210331T12:48:41Z | A list of commands, tools and notes about enumerating and exploiting Active Directory and how to defend against these attacks | https://github.com/thegoatreich/AD_attack_defend_cheatsheet | 0 | 0| 
+| 20210331T12:46:59Z | A Kindle jailbreak by Kaneki07 | https://github.com/Kaneki07/SphinxKJB | 0 | 0| 
 | 20210331T12:44:04Z | -------> RAFEL<------  Android Rat  Written in Java With WebPanel For Controlling Victims | https://github.com/swagkarna/Rafel-Rat | 62 | 33| 
 | 20210331T12:42:55Z | [+] Web crawler that look for possible exploits | https://github.com/vLeeH/httpmapper | 0 | 0| 
 | 20210331T12:28:19Z | Automated All-in-One OS command injection and exploitation tool  can be used from web developers, penetration testers or even security   researchers in order to test web-based applications   with the view to find bugs, errors or vulnerabilities   related to command injection attacks.   Installation :  $ apt update && apt upgrade  $ apt install git   $ apt install python2  $ git clone https://github.com/commixproject/commix  $ cd commix  $ chmod +x *  usage :  $ python2 commix.py  Now it shows how you can use this too..  $ python2 commix.py -h   it shows all options...  $ python2 commix.py -u site.com  it shows all information.... | https://github.com/Zack-sys/Commix-Automated-All-in-One-OS-command-injection-ang-exploitation-tool | 6 | 0| 
@@ -96,7 +97,6 @@
 | 20210331T12:10:55Z | Scripts for private exploit | https://github.com/ubimumu/scripts | 0 | 0| 
 | 20210331T12:09:55Z | CMS Detection and Exploitation suite - Scan WordPress, Joomla, Drupal and 100 other CMSs  Functions Of CMSeek :  Basic CMS Detection of over 80 CMS Drupal version detection Advanced Wordpress Scans Detects Version User Enumeration Plugins Enumeration Theme Enumeration Detects Users (3 Detection Methods) Looks for Version Vulnerabilities and much more! Advanced Joomla Scans Version detection Backup files finder Admin page finder Core vulnerability detection Directory listing check Config leak detection Various other checks Modular bruteforce system Use pre made bruteforce modules or create your own and integrate with it  Installation :  $ apt update && apt upgrade  $ apt install git   $ apt install python2  $ apt install python  $ git clone https://github.com/Tuhinshubhra/CMSeeK  $ cd CMSeeK  $ chmod +x *  Run :   $ python cmseek.py   here select your oprion and use.. | https://github.com/Zack-sys/CMSEEK-SUIT---CMS-Detection-and-Exploitation-suite---Scan-WordPress-Joomla-Drupal-and-100-other-CM | 4 | 0| 
 | 20210331T12:02:47Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 13 | 6| 
-| 20210331T12:00:12Z | CVE-2021-3449 OpenSSL denial-of-service exploit 👨🏻‍💻 | https://github.com/terorie/cve-2021-3449 | 149 | 24| 
 
 
 # backdoor on Github 推荐
