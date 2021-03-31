@@ -26,7 +26,7 @@
 | 20210330T15:53:22Z | 未知编号 | test | https://github.com/f0ns1/CVE-2020 | 未查询到CVE信息| 
 | 20210330T15:46:10Z | cve-2021-22986 | F5 BIG-IP远程代码执行；cve-2021-22986，批量检测；命令执行利用 | https://github.com/yaunsky/CVE-202122986-EXP | 未查询到CVE信息| 
 | 20210330T13:24:50Z | CVE-2021-29267 | SherlockIM ChatBot XSS | https://github.com/Security-AVS/CVE-2021-29267 | Sherlock SherlockIM through 2021-03-29 allows Cross Site Scripting (XSS) by leveraging the api/Files/Attachment URI to attack help-desk staff via the chatbot feature.| 
-| 20210330T12:24:10Z | CVE-2021-22192 | CVE-2021-22192 靶场： 未授权用户 RCE 漏洞 | https://github.com/lyy289065406/CVE-2021-22192 | An issue has been discovered in GitLab CE/EE affecting all versions starting from 13.2 allowing unauthorized authenticated users to execute arbitrary code on the server.| 
+| 20210330T12:24:10Z | CVE-2021-22192 | CVE-2021-22192 靶场： 未授权用户 RCE 漏洞 | https://github.com/lyy289065406/CVE-2021-22192 | | 
 | 20210330T08:32:05Z | CVE-2021-1732 | Null | https://github.com/ltfafei/CVE-2021-1732_exp | Windows Win32k Elevation of Privilege Vulnerability This CVE ID is unique from CVE-2021-1698.| 
 
 

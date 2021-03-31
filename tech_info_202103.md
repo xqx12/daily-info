@@ -54,7 +54,7 @@
 | 20210330T15:53:22Z | 未知编号 | test | https://github.com/f0ns1/CVE-2020 | 未查询到CVE信息| 
 | 20210330T15:46:10Z | cve-2021-22986 | F5 BIG-IP远程代码执行；cve-2021-22986，批量检测；命令执行利用 | https://github.com/yaunsky/CVE-202122986-EXP | 未查询到CVE信息| 
 | 20210330T13:24:50Z | CVE-2021-29267 | SherlockIM ChatBot XSS | https://github.com/Security-AVS/CVE-2021-29267 | Sherlock SherlockIM through 2021-03-29 allows Cross Site Scripting (XSS) by leveraging the api/Files/Attachment URI to attack help-desk staff via the chatbot feature.| 
-| 20210330T12:24:10Z | CVE-2021-22192 | CVE-2021-22192 靶场： 未授权用户 RCE 漏洞 | https://github.com/lyy289065406/CVE-2021-22192 | An issue has been discovered in GitLab CE/EE affecting all versions starting from 13.2 allowing unauthorized authenticated users to execute arbitrary code on the server.| 
+| 20210330T12:24:10Z | CVE-2021-22192 | CVE-2021-22192 靶场： 未授权用户 RCE 漏洞 | https://github.com/lyy289065406/CVE-2021-22192 | | 
 | 20210330T08:32:05Z | CVE-2021-1732 | Null | https://github.com/ltfafei/CVE-2021-1732_exp | Windows Win32k Elevation of Privilege Vulnerability This CVE ID is unique from CVE-2021-1698.| 
 
 
@@ -87,6 +87,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210331T00:32:58Z | This repository contains five coding based mini-projects from which I implemented and exploited different sorting algorithms, BFS and DFS algorithms, Bellman-Ford algorithm, edit distance algorithm, Prim’s algorithm and Kruskal algorithm.  | https://github.com/suqianwang/Algorithms | 0 | 0| 
 | 20210331T00:24:45Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9206 | 1483| 
 | 20210331T00:02:26Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 13 | 6| 
 | 20210330T23:52:02Z | Null | https://github.com/caddickzac/Motivated-Reasoning-in-an-Explore-Exploit-Task | 0 | 0| 
@@ -96,7 +97,6 @@
 | 20210330T21:46:46Z | Swiss Boot Memory Cards and Game Save Hacks a la GCMM | https://github.com/GameCubeHomebrew/GameSave-Exploits | 0 | 0| 
 | 20210330T21:31:10Z | Various ASM, C and C++ tools, shellcodes and exploit experiments. | https://github.com/forrest-orr/ExploitDev | 57 | 6| 
 | 20210330T21:22:48Z | Tools and Exploits | https://github.com/abundov/exploits | 0 | 0| 
-| 20210330T21:20:00Z | A list of commands, tools and notes about enumerating and exploiting Active Directory and how to defend against these attacks | https://github.com/thegoatreich/AD_attack_defend_cheatsheet | 0 | 0| 
 
 
 # backdoor on Github 推荐
