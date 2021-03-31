@@ -87,6 +87,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210331T01:39:43Z | Vulnerabilities% Risk of Exploitation | https://github.com/thiagofigcosta/V-REx | 0 | 0| 
+| 20210331T01:38:23Z | exploit-database-papers | https://github.com/offensive-security/exploitdb-papers | 287 | 40| 
 | 20210331T01:35:05Z | Writeup on how to exploit PHP Deserialization! | https://github.com/MoeTaher/Debug-Writeup | 0 | 0| 
 | 20210331T01:31:23Z | Hacking tool that initiates ip  grabbing, scanning the IP then exploiting the possible vulnerabilities present in that IP address. | https://github.com/FonderElite/Euphoria | 4 | 1| 
 | 20210331T01:30:36Z | Various ASM, C and C++ tools, shellcodes and exploit experiments. | https://github.com/forrest-orr/ExploitDev | 57 | 6| 
@@ -95,8 +97,6 @@
 | 20210331T01:03:11Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 13 | 6| 
 | 20210331T01:00:06Z | Entry point exploit | https://github.com/azobackup/Entry-point-exploits | 0 | 0| 
 | 20210331T00:50:35Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 10 | 6| 
-| 20210331T00:32:58Z | This repository contains five coding based mini-projects from which I implemented and exploited different sorting algorithms, BFS and DFS algorithms, Bellman-Ford algorithm, edit distance algorithm, Prim’s algorithm and Kruskal algorithm.  | https://github.com/suqianwang/Algorithms | 0 | 0| 
-| 20210331T00:24:45Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9206 | 1482| 
 
 
 # backdoor on Github 推荐
