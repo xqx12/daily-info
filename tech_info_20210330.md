@@ -53,12 +53,12 @@
 | 20210330T23:23:13Z | Post-exploitation tool for Active Directory recon | https://github.com/tmenochet/ADMap | 0 | 0| 
 | 20210330T22:18:58Z | Exploit Development - Weaponized Exploit and Proof of Concepts (PoC)  | https://github.com/VoidSec/Exploit-Development | 24 | 9| 
 | 20210330T21:46:46Z | Swiss Boot Memory Cards and Game Save Hacks a la GCMM | https://github.com/GameCubeHomebrew/GameSave-Exploits | 0 | 0| 
-| 20210330T21:31:10Z | Various ASM, C and C++ tools, shellcodes and exploit experiments. | https://github.com/forrest-orr/ExploitDev | 57 | 6| 
 | 20210330T21:22:48Z | Tools and Exploits | https://github.com/abundov/exploits | 0 | 0| 
 | 20210330T21:20:00Z | A list of commands, tools and notes about enumerating and exploiting Active Directory and how to defend against these attacks | https://github.com/thegoatreich/AD_attack_defend_cheatsheet | 0 | 0| 
 | 20210330T20:47:23Z | Udemy – Linux Heap Exploitation | https://github.com/limitedeternity/HeapLAB | 0 | 0| 
 | 20210330T20:44:15Z | A collection of challenge writeups, CVE POC%s, and explanations | https://github.com/0xmanjoos/Exploit-Development | 1 | 1| 
 | 20210330T20:41:26Z | Extra goodies for GEF: Open repository for unfiltered contributions to the project. | https://github.com/hugsy/gef-extras | 55 | 25| 
+| 20210330T20:31:31Z | Roblox Scripts To Exploites. | https://github.com/luascrip/luascriptsroblox | 0 | 0| 
 
 
 # backdoor on Github 推荐
