@@ -87,6 +87,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210331T12:36:47Z | A Kindle jailbreak by Kaneki07 | https://github.com/Kaneki07/SphinxKJB | 0 | 0| 
 | 20210331T12:28:19Z | Automated All-in-One OS command injection and exploitation tool  can be used from web developers, penetration testers or even security   researchers in order to test web-based applications   with the view to find bugs, errors or vulnerabilities   related to command injection attacks.   Installation :  $ apt update && apt upgrade  $ apt install git   $ apt install python2  $ git clone https://github.com/commixproject/commix  $ cd commix  $ chmod +x *  usage :  $ python2 commix.py  Now it shows how you can use this too..  $ python2 commix.py -h   it shows all options...  $ python2 commix.py -u site.com  it shows all information.... | https://github.com/Zack-sys/Commix-Automated-All-in-One-OS-command-injection-ang-exploitation-tool | 6 | 0| 
 | 20210331T12:21:01Z | A-Rat = Remote access tool  we can generate python based rat  installation :  $ apt update   $ apt upgrade  $ apt install git  $ apt install python2  $ apt install python  $ git clone https://github.com/Xi4u7/A-Rat  $ cd A-Rat  $ chmod +x *  usage :  $ python2 A-Rat.py  $ help  $ set host 127.0.0.1 [your ip]  $ set port 1337  $ set output /$HOME/rat.py  $ generate  It generates rat.py in termux home directory  Open termux new session   type $ ls  here you get that rat.py   go to again A-Rat means privious session of termux  Type run to start exploit.  $ run  and then open new session and run rat like this  $ python rat.py  and come back to A-Rat session   Now its connected to that rat. means Hacked.  press control + c to stop. | https://github.com/Zack-sys/A-Rat-Exploit | 16 | 1| 
 | 20210331T12:18:30Z | PhoneSploit is tool for remote ADB Exploitation. With the help of this tool you can control android device by just IP address.  pkg up -y pkg install git -y pkg install python -y pkg install openssl-tool pkg install wget -y pip install colorama git clone https://github.com/MasterDevX/Termux-ADB cd Termux-ADB chmod 777 InstallTools.sh bash InstallTools.sh cd $HOME git clone https://github.com/aerosol-can/PhoneSploit cd PhoneSploit python phonesploit.py | https://github.com/Zack-sys/Phonesploit---hacking-android-using-IP-address | 5 | 0| 
@@ -96,7 +97,6 @@
 | 20210331T12:00:12Z | CVE-2021-3449 OpenSSL denial-of-service exploit 👨🏻‍💻 | https://github.com/terorie/cve-2021-3449 | 149 | 24| 
 | 20210331T11:50:20Z | 在科研（摸鱼）过程中，收集到的或者自己写的一些有用的（经过实战检验的）exp/poc，欢迎提交issue和PR | https://github.com/ycdxsb/Exploits | 2 | 0| 
 | 20210331T11:45:33Z | Post-exploitation tool for Active Directory recon | https://github.com/tmenochet/ADMap | 0 | 0| 
-| 20210331T11:44:28Z | Android RAT  | https://github.com/Th30neAnd0nly/Ohm | 2 | 0| 
 
 
 # backdoor on Github 推荐
