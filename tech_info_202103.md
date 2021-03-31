@@ -87,8 +87,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210331T01:00:06Z | Entry point exploit | https://github.com/azobackup/Entry-point-exploits | 0 | 0| 
 | 20210331T00:50:35Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 10 | 6| 
-| 20210331T00:43:59Z | Entry point exploit | https://github.com/azobackup/Entry-point-exploits | 0 | 0| 
 | 20210331T00:32:58Z | This repository contains five coding based mini-projects from which I implemented and exploited different sorting algorithms, BFS and DFS algorithms, Bellman-Ford algorithm, edit distance algorithm, Prim’s algorithm and Kruskal algorithm.  | https://github.com/suqianwang/Algorithms | 0 | 0| 
 | 20210331T00:24:45Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9206 | 1483| 
 | 20210331T00:02:26Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 13 | 6| 
