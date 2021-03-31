@@ -50,7 +50,6 @@
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
 | 20210330T23:52:02Z | Null | https://github.com/caddickzac/Motivated-Reasoning-in-an-Explore-Exploit-Task | 0 | 0| 
-| 20210330T23:26:05Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9205 | 1483| 
 | 20210330T23:23:13Z | Post-exploitation tool for Active Directory recon | https://github.com/tmenochet/ADMap | 0 | 0| 
 | 20210330T22:18:58Z | Exploit Development - Weaponized Exploit and Proof of Concepts (PoC)  | https://github.com/VoidSec/Exploit-Development | 24 | 9| 
 | 20210330T22:15:30Z | lab_tool is a system that allows you to do ethical hacking tests. | https://github.com/dylan14567/lab_tool | 1 | 2| 
@@ -59,6 +58,7 @@
 | 20210330T21:22:48Z | Tools and Exploits | https://github.com/abundov/exploits | 0 | 0| 
 | 20210330T21:20:00Z | A list of commands, tools and notes about enumerating and exploiting Active Directory and how to defend against these attacks | https://github.com/thegoatreich/AD_attack_defend_cheatsheet | 0 | 0| 
 | 20210330T20:47:23Z | Udemy – Linux Heap Exploitation | https://github.com/limitedeternity/HeapLAB | 0 | 0| 
+| 20210330T20:44:15Z | A collection of challenge writeups, CVE POC%s, and explanations | https://github.com/0xmanjoos/Exploit-Development | 1 | 1| 
 
 
 # backdoor on Github 推荐

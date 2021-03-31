@@ -87,9 +87,9 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210331T00:24:45Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9206 | 1483| 
 | 20210331T00:02:26Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 13 | 6| 
 | 20210330T23:52:02Z | Null | https://github.com/caddickzac/Motivated-Reasoning-in-an-Explore-Exploit-Task | 0 | 0| 
-| 20210330T23:26:05Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9205 | 1483| 
 | 20210330T23:23:13Z | Post-exploitation tool for Active Directory recon | https://github.com/tmenochet/ADMap | 0 | 0| 
 | 20210330T22:18:58Z | Exploit Development - Weaponized Exploit and Proof of Concepts (PoC)  | https://github.com/VoidSec/Exploit-Development | 24 | 9| 
 | 20210330T22:15:30Z | lab_tool is a system that allows you to do ethical hacking tests. | https://github.com/dylan14567/lab_tool | 1 | 2| 
