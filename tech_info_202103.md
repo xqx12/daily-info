@@ -117,7 +117,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210331T12:21:59Z | Null | https://github.com/fuzzsa/fuzzsa-bugs | 0 | 1| 
+| 20210331T12:27:22Z | Null | https://github.com/fuzzsa/fuzzsa-bugs | 0 | 1| 
 | 20210331T12:13:31Z | Null | https://github.com/primait/ex_fuzzywuzzy | 0 | 0| 
 | 20210331T12:09:04Z | 📨 Responsive email template generator. | https://github.com/luangjokaj/fuzzymail | 114 | 4| 
 | 20210331T12:03:01Z | Null | https://github.com/kinzhong/fuzzing-automation-tools | 0 | 0| 
