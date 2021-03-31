@@ -46,13 +46,13 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20210331T12:00:12Z | cve-2021-3449 | CVE-2021-3449 OpenSSL denial-of-service exploit 👨🏻‍💻 | https://github.com/terorie/cve-2021-3449 | An OpenSSL TLS server may crash if sent a maliciously crafted renegotiation ClientHello message from a client. If a TLSv1.2 renegotiation ClientHello omits the signature_algorithms extension (where it was present in the initial ClientHello), but includes a signature_algorithms_cert extension then a NULL pointer dereference will result, leading to a crash and a denial of service attack. A server is only vulnerable if it has TLSv1.2 and renegotiation enabled (which is the default configuration). OpenSSL TLS clients are not impacted by this issue. All OpenSSL 1.1.1 versions are affected by this issue. Users of these versions should upgrade to OpenSSL 1.1.1k. OpenSSL 1.0.2 is not impacted by this issue. Fixed in OpenSSL 1.1.1k (Affected 1.1.1-1.1.1j).| 
+| 20210331T12:00:12Z | cve-2021-3449 | CVE-2021-3449 OpenSSL denial-of-service exploit 👨🏻‍💻 | https://github.com/terorie/cve-2021-3449 | | 
 | 20210331T11:56:37Z | CVE-2021-1699 | POC for CVE-2021-1699 | https://github.com/waleedassar/CVE-2021-1699 | Windows (modem.sys) Information Disclosure Vulnerability| 
-| 20210331T06:44:09Z | CVE-2021-3156 | Sudo Baron Samedit Exploit | https://github.com/worawit/CVE-2021-3156 | Sudo before 1.9.5p2 contains an off-by-one error that can result in a heap-based buffer overflow, which allows privilege escalation to root via %sudoedit -s% and a command-line argument that ends with a single backslash character.| 
+| 20210331T06:44:09Z | CVE-2021-3156 | Sudo Baron Samedit Exploit | https://github.com/worawit/CVE-2021-3156 | | 
 | 20210331T06:01:30Z | CVE-2021-1656 | Null | https://github.com/waleedassar/CVE-2021-1656 | TPM Device Driver Information Disclosure Vulnerability| 
 | 20210331T03:49:34Z | CVE-2021-26828 | Null | https://github.com/hevox/CVE-2021-26828_ScadaBR_RCE | 未查询到CVE信息| 
-| 20210331T01:53:28Z | 未知编号 | Null | https://github.com/feihong-cs/Attacking_Shiro_with_CVE_2020_2555 | 未查询到CVE信息| 
-| 20210330T16:38:12Z | CVE-2020-23839 | Public PoC Disclosure for CVE-2020-23839 -  GetSimple CMS v3.3.16 suffers from a Reflected XSS on the Admin Login Portal | https://github.com/boku7/CVE-2020-23839 | | 
+| 20210331T01:53:28Z | 未知编号 | Null | https://github.com/feihong-cs/Attacking_Shiro_with_CVE_2020_2555 | | 
+| 20210330T16:38:12Z | CVE-2020-23839 | Public PoC Disclosure for CVE-2020-23839 -  GetSimple CMS v3.3.16 suffers from a Reflected XSS on the Admin Login Portal | https://github.com/boku7/CVE-2020-23839 | A Reflected Cross-Site Scripting (XSS) vulnerability in GetSimple CMS v3.3.16, in the admin/index.php login portal webpage, allows remote attackers to execute JavaScript code in the client%s browser and harvest login credentials after a client clicks a link, enters credentials, and submits the login form.| 
 | 20210330T15:53:22Z | 未知编号 | test | https://github.com/f0ns1/CVE-2020 | 未查询到CVE信息| 
 | 20210330T15:46:10Z | cve-2021-22986 | F5 BIG-IP远程代码执行；cve-2021-22986，批量检测；命令执行利用 | https://github.com/yaunsky/CVE-202122986-EXP | 未查询到CVE信息| 
 | 20210330T13:24:50Z | CVE-2021-29267 | SherlockIM ChatBot XSS | https://github.com/Security-AVS/CVE-2021-29267 | Sherlock SherlockIM through 2021-03-29 allows Cross Site Scripting (XSS) by leveraging the api/Files/Attachment URI to attack help-desk staff via the chatbot feature.| 
@@ -87,6 +87,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210331T12:50:36Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 11 | 7| 
 | 20210331T12:48:41Z | A list of commands, tools and notes about enumerating and exploiting Active Directory and how to defend against these attacks | https://github.com/thegoatreich/AD_attack_defend_cheatsheet | 0 | 0| 
 | 20210331T12:46:59Z | A Kindle jailbreak by Kaneki07 | https://github.com/Kaneki07/SphinxKJB | 0 | 0| 
 | 20210331T12:44:04Z | -------> RAFEL<------  Android Rat  Written in Java With WebPanel For Controlling Victims | https://github.com/swagkarna/Rafel-Rat | 62 | 33| 
@@ -96,7 +97,6 @@
 | 20210331T12:18:30Z | PhoneSploit is tool for remote ADB Exploitation. With the help of this tool you can control android device by just IP address.  pkg up -y pkg install git -y pkg install python -y pkg install openssl-tool pkg install wget -y pip install colorama git clone https://github.com/MasterDevX/Termux-ADB cd Termux-ADB chmod 777 InstallTools.sh bash InstallTools.sh cd $HOME git clone https://github.com/aerosol-can/PhoneSploit cd PhoneSploit python phonesploit.py | https://github.com/Zack-sys/Phonesploit---hacking-android-using-IP-address | 5 | 0| 
 | 20210331T12:10:55Z | Scripts for private exploit | https://github.com/ubimumu/scripts | 0 | 0| 
 | 20210331T12:09:55Z | CMS Detection and Exploitation suite - Scan WordPress, Joomla, Drupal and 100 other CMSs  Functions Of CMSeek :  Basic CMS Detection of over 80 CMS Drupal version detection Advanced Wordpress Scans Detects Version User Enumeration Plugins Enumeration Theme Enumeration Detects Users (3 Detection Methods) Looks for Version Vulnerabilities and much more! Advanced Joomla Scans Version detection Backup files finder Admin page finder Core vulnerability detection Directory listing check Config leak detection Various other checks Modular bruteforce system Use pre made bruteforce modules or create your own and integrate with it  Installation :  $ apt update && apt upgrade  $ apt install git   $ apt install python2  $ apt install python  $ git clone https://github.com/Tuhinshubhra/CMSeeK  $ cd CMSeeK  $ chmod +x *  Run :   $ python cmseek.py   here select your oprion and use.. | https://github.com/Zack-sys/CMSEEK-SUIT---CMS-Detection-and-Exploitation-suite---Scan-WordPress-Joomla-Drupal-and-100-other-CM | 4 | 0| 
-| 20210331T12:02:47Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 13 | 6| 
 
 
 # backdoor on Github 推荐
@@ -117,7 +117,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210331T12:32:04Z | Null | https://github.com/fuzzsa/fuzzsa-bugs | 0 | 1| 
+| 20210331T12:34:57Z | Null | https://github.com/fuzzsa/fuzzsa-bugs | 0 | 1| 
 | 20210331T12:30:33Z | AFLNet: A Greybox Fuzzer for Network Protocols (https://thuanpv.github.io/publications/AFLNet_ICST20.pdf) | https://github.com/aflnet/aflnet | 386 | 63| 
 | 20210331T12:13:31Z | Null | https://github.com/primait/ex_fuzzywuzzy | 0 | 0| 
 | 20210331T12:09:04Z | 📨 Responsive email template generator. | https://github.com/luangjokaj/fuzzymail | 114 | 4| 
