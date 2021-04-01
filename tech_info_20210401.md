@@ -56,6 +56,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210401T12:41:06Z | Forestry Thematic Exploitation Platform | https://github.com/cgi-eoss/ftep | 4 | 0| 
 | 20210401T12:28:04Z | Eternalblue written in CSharp. Contains version detection, vulnerability scanner and exploit of MS17-010 | https://github.com/povlteksttv/Eternalblue | 77 | 7| 
 | 20210401T12:13:03Z | Post-exploitation tool for Active Directory recon | https://github.com/tmenochet/ADMap | 0 | 0| 
 | 20210401T12:02:44Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 13 | 6| 
@@ -65,7 +66,6 @@
 | 20210401T11:35:13Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9216 | 1488| 
 | 20210401T11:31:11Z | Implementation of %Collective Robustness Certificates: Exploiting Interdependence in Graph Neural Networks% | https://github.com/jan-schuchardt/collective_robustness | 0 | 0| 
 | 20210401T11:10:07Z | Binary Exploitation and Reverse-Engineering (from assembly into C) | https://github.com/anyaschukin/RainFall | 9 | 4| 
-| 20210401T11:08:32Z | Binary Exploitation and Reverse-Engineering (from assembly into C) | https://github.com/anyaschukin/OverRide | 0 | 1| 
 
 
 # backdoor on Github 推荐
