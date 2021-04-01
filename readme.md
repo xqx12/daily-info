@@ -31,7 +31,7 @@
 | --- | --- | --- | --- | ---| 
 | 20210331T23:35:24Z | CVE-2021-1699 | POC for CVE-2021-1699 | https://github.com/waleedassar/CVE-2021-1699 | Windows (modem.sys) Information Disclosure Vulnerability| 
 | 20210331T21:44:59Z | cve-2021-3449 | CVE-2021-3449 OpenSSL denial-of-service exploit 👨🏻‍💻 | https://github.com/terorie/cve-2021-3449 | An OpenSSL TLS server may crash if sent a maliciously crafted renegotiation ClientHello message from a client. If a TLSv1.2 renegotiation ClientHello omits the signature_algorithms extension (where it was present in the initial ClientHello), but includes a signature_algorithms_cert extension then a NULL pointer dereference will result, leading to a crash and a denial of service attack. A server is only vulnerable if it has TLSv1.2 and renegotiation enabled (which is the default configuration). OpenSSL TLS clients are not impacted by this issue. All OpenSSL 1.1.1 versions are affected by this issue. Users of these versions should upgrade to OpenSSL 1.1.1k. OpenSSL 1.0.2 is not impacted by this issue. Fixed in OpenSSL 1.1.1k (Affected 1.1.1-1.1.1j).| 
-| 20210331T20:49:38Z | CVE-2020-13401 | Study on CVE-2020-13401 vulnerability of containers in dockers older than 19.03.11 | https://github.com/mmzaeimi/Docker-Container-CVE-2020-13401 | | 
+| 20210331T20:49:38Z | CVE-2020-13401 | Study on CVE-2020-13401 vulnerability of containers in dockers older than 19.03.11 | https://github.com/mmzaeimi/Docker-Container-CVE-2020-13401 | An issue was discovered in Docker Engine before 19.03.11. An attacker in a container, with the CAP_NET_RAW capability, can craft IPv6 router advertisements, and consequently spoof external IPv6 hosts, obtain sensitive information, or cause a denial of service.| 
 | 20210331T19:36:29Z | CVE-2021-29349 | Null | https://github.com/0xBaz/CVE-2021-29349 | Mahara 20.10 is affected by Cross Site Request Forgery (CSRF) that allows a remote attacker to remove inbox-mail on the server. The application fails to validate the CSRF token for a POST request. An attacker can craft a module/multirecipientnotification/inbox.php pieform_delete_all_notifications request, which leads to removing all messages from a mailbox.| 
 | 20210331T17:12:35Z | CVE-2021-1656 | Null | https://github.com/waleedassar/CVE-2021-1656 | TPM Device Driver Information Disclosure Vulnerability| 
 | 20210331T15:50:29Z | CVE-2021-21975 | CVE-2021-21975 vRealize Operations Manager SSRF | https://github.com/Al1ex/CVE-2021-21975 | Server Side Request Forgery in vRealize Operations Manager API (CVE-2021-21975) prior to 8.4 may allow a malicious actor with network access to the vRealize Operations Manager API can perform a Server Side Request Forgery attack to steal administrative credentials.| 
@@ -91,16 +91,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210331T12:34:57Z | Null | https://github.com/fuzzsa/fuzzsa-bugs | 0 | 1| 
-| 20210331T12:30:33Z | AFLNet: A Greybox Fuzzer for Network Protocols (https://thuanpv.github.io/publications/AFLNet_ICST20.pdf) | https://github.com/aflnet/aflnet | 386 | 63| 
-| 20210331T12:13:31Z | Null | https://github.com/primait/ex_fuzzywuzzy | 0 | 0| 
-| 20210331T12:09:04Z | 📨 Responsive email template generator. | https://github.com/luangjokaj/fuzzymail | 114 | 4| 
-| 20210331T12:03:01Z | Null | https://github.com/kinzhong/fuzzing-automation-tools | 0 | 0| 
-| 20210331T11:43:22Z | Null | https://github.com/FDU-Program-Analysis/chunk-fuzzer-pass | 0 | 0| 
-| 20210331T11:09:42Z | Null | https://github.com/Yin-Lynn-Htun/Fuzzy-shop | 0 | 0| 
-| 20210331T11:07:24Z | Null | https://github.com/s9varesc/url-fuzzing | 1 | 1| 
-| 20210331T10:51:22Z | Null | https://github.com/s9varesc/url-fuzzing-docker | 0 | 0| 
-| 20210331T10:35:48Z | Hacking tools written by me. IP fortune, webmap -- web vulns scanner, rtsp brute+fuzz, and more. | https://github.com/fagcinsk/h4ck | 1 | 0| 
+| 20210331T23:43:06Z | Multi-threaded web fuzzer written in C. | https://github.com/kukrimate/tnt | 1 | 0| 
+| 20210331T23:15:13Z | Autofuze has been developped to provide a full toolkit to fuzz and pentest several protocols used in automotive industry such as USB, XCP, UDS, CAN. Everything is done in Python to provide a convenient way to develop automated test. | https://github.com/DanAurea/AutoFuze | 0 | 0| 
+| 20210331T23:11:30Z | Group 4C Fuzzy Logic Medieval Chess AI Senior Project | https://github.com/arizonagranger/SeniorProjectFuzzyLogicChess | 1 | 1| 
+| 20210331T22:50:00Z | A fuzzer framework built in Rust | https://github.com/microsoft/lain | 424 | 32| 
+| 20210331T22:31:34Z | REST API Fuzz Testing (RAFT): Source code for self-hosted service developed for Azure, including the API, orchestration engine, and default set of security tools (including MSR%s RESTler), that enables developers to embed security tooling into their CI/CD workflows | https://github.com/microsoft/rest-api-fuzz-testing | 127 | 21| 
+| 20210331T22:01:05Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2293 | 121| 
+| 20210331T21:59:08Z | fuzzy fusion finder | https://github.com/stephenvrice/fuzzion2 | 0 | 0| 
+| 20210331T21:54:47Z | Null | https://github.com/Nayyar-Iqbal/Fuzzy-Software-Completeness | 0 | 0| 
+| 20210331T21:49:32Z | Null | https://github.com/AdaLogics/go-fuzz-headers | 0 | 1| 
+| 20210331T21:20:49Z | Epub source for the Standard Ebooks edition of Little Fuzzy, by H. Beam Piper | https://github.com/standardebooks/h-beam-piper_little-fuzzy | 1 | 2| 
 
 
 
