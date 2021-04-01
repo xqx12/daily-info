@@ -108,10 +108,10 @@
 | 20210331T19:53:08Z | Null | https://github.com/EjHvorSerDuVildUdJim/backdoor | 0 | 0| 
 | 20210331T18:51:50Z | Null | https://github.com/Delle9999/backdoor | 0 | 0| 
 | 20210331T12:19:44Z | https://github.blog/2021-03-16-using-github-code-scanning-and-codeql-to-detect-traces-of-solorigate-and-other-backdoors/ | https://github.com/434791829/License-number-12 | 1 | 0| 
-| 20210331T09:24:21Z | Null | https://github.com/xpf/Backdoor-Learning-arXiv | 0 | 0| 
 | 20210331T03:26:55Z | Python 3 Reverse Shell | https://github.com/trackmastersteve/shell | 12 | 4| 
 | 20210331T01:28:34Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 200 | 34| 
 | 20210330T20:55:23Z | Null | https://github.com/Martiros888/backdoor | 0 | 0| 
+| 20210330T17:19:00Z | A self-spreading parasitic, polymorphic internet-worm for the netBIOS backdoor | https://github.com/timo-cmd2/Win32.ThermalShake | 1 | 0| 
 
 
 # fuzz on Github 推荐
