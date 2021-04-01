@@ -91,12 +91,12 @@
 | 20210331T23:30:17Z | PS4 Exploit Host | https://github.com/Night-King-Host/Night-King-Host.github.io | 6 | 3| 
 | 20210331T23:28:46Z | A Remote Code Execution (RCE) exploit for Huawei HG532d based on CVE-2017-17215 vulnerability. Modded from original PoC code from exploit-db.com | https://github.com/wilfred-wulbou/HG532d-RCE-Exploit | 0 | 1| 
 | 20210331T23:10:08Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 3547 | 518| 
-| 20210331T23:02:25Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 13 | 6| 
 | 20210331T22:51:08Z | Null | https://github.com/caddickzac/Motivated-Reasoning-in-an-Explore-Exploit-Task | 0 | 0| 
 | 20210331T22:45:33Z | This bash script will help you to hack remote hosts  | https://github.com/FabioDefilippo/linuxallremote | 10 | 1| 
 | 20210331T22:33:20Z | Null | https://github.com/Kayky-cmd/CORS-Exploit | 0 | 0| 
 | 20210331T22:32:39Z | Exploit para vulnerabiliade de Content-Security-Politic | https://github.com/Kayky-cmd/Exploit-CORS | 0 | 0| 
 | 20210331T22:24:10Z | Common exploitaton tecniques | https://github.com/sal65535/ExploitationCompassSheet | 1 | 0| 
+| 20210331T21:50:56Z | Blog personal dedicado al exploiting, reversing y CTFs | https://github.com/Pwn2Ninj4/pwn2ninj4.github.io | 0 | 1| 
 
 
 # backdoor on Github 推荐
