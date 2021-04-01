@@ -29,7 +29,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20210401T12:52:34Z | 未知编号 | Null | https://github.com/feihong-cs/Attacking_Shiro_with_CVE_2020_2555 | 未查询到CVE信息| 
+| 20210401T12:52:34Z | 未知编号 | Null | https://github.com/feihong-cs/Attacking_Shiro_with_CVE_2020_2555 | | 
 | 20210401T12:48:44Z | CVE-2021-21975 | CVE-2021-21975 vRealize Operations Manager SSRF | https://github.com/Al1ex/CVE-2021-21975 | Server Side Request Forgery in vRealize Operations Manager API (CVE-2021-21975) prior to 8.4 may allow a malicious actor with network access to the vRealize Operations Manager API can perform a Server Side Request Forgery attack to steal administrative credentials.| 
 | 20210401T12:45:34Z | CVE-2021-1699 | POC for CVE-2021-1699 | https://github.com/waleedassar/CVE-2021-1699 | Windows (modem.sys) Information Disclosure Vulnerability| 
 | 20210401T12:42:37Z | CVE-2021-3156 | Sudo Baron Samedit Exploit | https://github.com/worawit/CVE-2021-3156 | Sudo before 1.9.5p2 contains an off-by-one error that can result in a heap-based buffer overflow, which allows privilege escalation to root via %sudoedit -s% and a command-line argument that ends with a single backslash character.| 
@@ -37,7 +37,7 @@
 | 20210401T12:15:16Z | CVE-2021-26295 | CVE-2021-26295 Apache OFBiz POC | https://github.com/ltfafei/CVE-2021-26295_Apache_OFBiz_POC | Apache OFBiz has unsafe deserialization prior to 17.12.06. An unauthenticated attacker can use this vulnerability to successfully take over Apache OFBiz.| 
 | 20210401T10:38:21Z | CVE-2021-26295 | Null | https://github.com/yumusb/CVE-2021-26295-POC | Apache OFBiz has unsafe deserialization prior to 17.12.06. An unauthenticated attacker can use this vulnerability to successfully take over Apache OFBiz.| 
 | 20210401T09:59:53Z | CVE-2020-9496 | Null | https://github.com/Vulnmachines/apache-ofbiz-CVE-2020-9496 | XML-RPC request are vulnerable to unsafe deserialization and Cross-Site Scripting issues in Apache OFBiz 17.12.03| 
-| 20210401T07:34:25Z | CVE-2021-24098 | POC for CVE-2021-24098 | https://github.com/waleedassar/CVE-2021-24098 | | 
+| 20210401T07:34:25Z | CVE-2021-24098 | POC for CVE-2021-24098 | https://github.com/waleedassar/CVE-2021-24098 | Windows Console Driver Denial of Service Vulnerability| 
 | 20210401T02:55:30Z | CVE-2021-26828 | Null | https://github.com/hevox/CVE-2021-26828_ScadaBR_RCE | 未查询到CVE信息| 
 
 
@@ -56,12 +56,12 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210401T12:57:45Z | -------> RAFEL<------  Android Rat  Written in Java With WebPanel For Controlling Victims | https://github.com/swagkarna/Rafel-Rat | 62 | 33| 
 | 20210401T12:55:57Z | Eternalblue written in CSharp. Contains version detection, vulnerability scanner and exploit of MS17-010 | https://github.com/povlteksttv/Eternalblue | 78 | 7| 
 | 20210401T12:50:36Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 12 | 7| 
 | 20210401T12:41:06Z | Forestry Thematic Exploitation Platform | https://github.com/cgi-eoss/ftep | 4 | 0| 
 | 20210401T12:13:03Z | Post-exploitation tool for Active Directory recon | https://github.com/tmenochet/ADMap | 0 | 0| 
 | 20210401T12:02:44Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 13 | 6| 
-| 20210401T12:00:52Z | -------> RAFEL<------  Android Rat  Written in Java With WebPanel For Controlling Victims | https://github.com/swagkarna/Rafel-Rat | 62 | 33| 
 | 20210401T11:54:36Z | An open-source post-exploitation framework for students, researchers and developers. | https://github.com/malwaredllc/byob | 6115 | 1384| 
 | 20210401T11:42:55Z | We propose an approach in which the developer interacts with the SBFL algorithm by giving feedback on the elements of the prioritized list. We exploit contextual knowledge of the user about the next item in the ranked list, with which larger code entities can be repositioned in their suspiciousness. | https://github.com/InteractiveFaultLocalization/InteractiveFaultLocalization.github.io | 0 | 0| 
 | 20210401T11:35:13Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9216 | 1488| 
