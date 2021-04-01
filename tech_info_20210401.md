@@ -36,7 +36,7 @@
 | 20210401T11:02:53Z | CVE-2021-3156 | Sudo Baron Samedit Exploit | https://github.com/worawit/CVE-2021-3156 | Sudo before 1.9.5p2 contains an off-by-one error that can result in a heap-based buffer overflow, which allows privilege escalation to root via %sudoedit -s% and a command-line argument that ends with a single backslash character.| 
 | 20210401T10:38:21Z | CVE-2021-26295 | Null | https://github.com/yumusb/CVE-2021-26295-POC | Apache OFBiz has unsafe deserialization prior to 17.12.06. An unauthenticated attacker can use this vulnerability to successfully take over Apache OFBiz.| 
 | 20210401T09:59:53Z | CVE-2020-9496 | Null | https://github.com/Vulnmachines/apache-ofbiz-CVE-2020-9496 | XML-RPC request are vulnerable to unsafe deserialization and Cross-Site Scripting issues in Apache OFBiz 17.12.03| 
-| 20210401T07:34:25Z | CVE-2021-24098 | POC for CVE-2021-24098 | https://github.com/waleedassar/CVE-2021-24098 | | 
+| 20210401T07:34:25Z | CVE-2021-24098 | POC for CVE-2021-24098 | https://github.com/waleedassar/CVE-2021-24098 | Windows Console Driver Denial of Service Vulnerability| 
 | 20210401T07:00:47Z | CVE-2021-1699 | POC for CVE-2021-1699 | https://github.com/waleedassar/CVE-2021-1699 | Windows (modem.sys) Information Disclosure Vulnerability| 
 | 20210401T02:55:30Z | CVE-2021-26828 | Null | https://github.com/hevox/CVE-2021-26828_ScadaBR_RCE | 未查询到CVE信息| 
 
@@ -71,6 +71,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210401T12:30:52Z | Minecraft Server Backdoor Plugin | https://github.com/NeunXKILLER20/PluginPwn | 1 | 0| 
 | 20210401T12:26:19Z | Null | https://github.com/AliAbdallah454/backdoor | 0 | 0| 
 | 20210401T08:54:02Z | PCI Express DIY hacking toolkit for Xilinx SP605 | https://github.com/Cr4sh/s6_pcie_microblaze | 305 | 76| 
 | 20210401T08:09:52Z | generator of php_backdoor | https://github.com/M4chin3M4N/backdoor-gen | 0 | 0| 
@@ -80,7 +81,6 @@
 | 20210401T03:34:43Z | I created this script to help make it easier for you to directly attack index.php on the website | https://github.com/penucuriCode/shell-backdoor | 1 | 1| 
 | 20210401T02:07:57Z | Null | https://github.com/xpf/Backdoor-Learning-arXiv | 1 | 0| 
 | 20210401T01:09:28Z | Null | https://github.com/xpf/Backdoor-Learning | 0 | 0| 
-| 20210401T00:41:26Z | Simple bind backdoor destined for linux servers | https://github.com/mednic/b4ckd0or | 2 | 0| 
 
 
 # fuzz on Github 推荐
