@@ -81,10 +81,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210401T00:38:07Z | Upgrade yarn dependencies to latest with fuzzy matching | https://github.com/AndrewLeedham/yarn-upgrade-fuzzy | 0 | 0| 
-| 20210401T00:35:07Z | Fuzzing cryptographic libraries. Magic bug printer go brrrr. | https://github.com/guidovranken/cryptofuzz | 266 | 37| 
-| 20210401T00:24:02Z | Software for fuzzing, used on web application pentestings. | https://github.com/NESCAU-UFLA/FuzzingTool | 36 | 2| 
-| 20210401T00:08:06Z | Null | https://github.com/VeriBlock/fuzz-corpus | 0 | 1| 
+| 20210401T12:00:45Z | Simple fuzzer for OpenAPI 3 specification based APIs | https://github.com/vwt-digital/openapi3-fuzzer | 5 | 2| 
+| 20210401T11:59:14Z | The SMB Fuzzer fuzzes the Server  Message Block Protocol that enables file sharing, printing and IPC between Unix and Windows systems. | https://github.com/mellowCS/SMB_Fuzzer | 0 | 0| 
+| 20210401T11:56:45Z | A fuzzing system based on a seq2seq model to generate valuable seed corpus. | https://github.com/kppw99/ddrfuzz | 1 | 1| 
+| 20210401T11:46:56Z | A simple approximate string matching algorithm | https://github.com/vladlazar94/fuzzy-search | 0 | 0| 
+| 20210401T11:46:52Z | Null | https://github.com/pankaj846/Fuzzy_Logic_Image_Enhancement | 0 | 0| 
+| 20210401T11:11:36Z | a RESTful chat API in Spring Boot Gradle project !! | https://github.com/dbijaya/fuzzy-train | 1 | 0| 
+| 20210401T11:04:09Z | Null | https://github.com/erdifajarf/PMDK_FuzzyAHP | 0 | 0| 
+| 20210401T10:59:34Z | Fuzzy logic and neural networking assignments | https://github.com/diegoportela99/FuzzyNeural | 0 | 0| 
+| 20210401T10:40:43Z | Using different tools to fuzz audit deamon | https://github.com/punnal/Audit-Fuzzing | 1 | 1| 
+| 20210401T10:31:42Z | PoC of fuzzing closed-source userspace binaries with KVM | https://github.com/klecko/kvm-fuzz | 1 | 0| 
 
 
 
