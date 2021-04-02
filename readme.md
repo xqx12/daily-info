@@ -89,16 +89,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210401T12:54:14Z | Null | https://github.com/s9varesc/url-fuzzing | 1 | 1| 
-| 20210401T12:32:48Z | Null | https://github.com/VeriBlock/fuzz-corpus | 0 | 1| 
-| 20210401T12:30:28Z | A case study of a fuzzer in the Java Language | https://github.com/fuzzing-unb/jfuzzer | 1 | 1| 
-| 20210401T12:26:52Z | MNIST semi-supervised learning experiments using differentiable fuzzy logic | https://github.com/HEmile/differentiable-fuzzy-logics | 0 | 0| 
-| 20210401T12:20:17Z | A fuzzing system based on a seq2seq model to generate valuable seed corpus. | https://github.com/kppw99/ddrfuzz | 1 | 1| 
-| 20210401T12:15:11Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 1 | 0| 
-| 20210401T12:02:42Z | The SMB Fuzzer fuzzes the Server  Message Block Protocol that enables file sharing, printing and IPC between Unix and Windows systems. | https://github.com/mellowCS/SMB_Fuzzer | 0 | 0| 
-| 20210401T12:00:45Z | Simple fuzzer for OpenAPI 3 specification based APIs | https://github.com/vwt-digital/openapi3-fuzzer | 5 | 2| 
-| 20210401T11:46:56Z | A simple approximate string matching algorithm | https://github.com/vladlazar94/fuzzy-search | 0 | 0| 
-| 20210401T11:46:52Z | Null | https://github.com/pankaj846/Fuzzy_Logic_Image_Enhancement | 0 | 0| 
+| 20210401T23:38:45Z | Fuzzing cryptographic libraries. Magic bug printer go brrrr. | https://github.com/guidovranken/cryptofuzz | 266 | 37| 
+| 20210401T23:24:47Z | A mutation-based fuzzing engine for MQTT brokers. | https://github.com/PBearson/MosquittoByte | 0 | 0| 
+| 20210401T23:16:12Z | Null | https://github.com/VeriBlock/fuzz-corpus | 0 | 1| 
+| 20210401T23:09:35Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6170 | 1247| 
+| 20210401T22:16:56Z | REST API Fuzz Testing (RAFT): Source code for self-hosted service developed for Azure, including the API, orchestration engine, and default set of security tools (including MSR%s RESTler), that enables developers to embed security tooling into their CI/CD workflows | https://github.com/microsoft/rest-api-fuzz-testing | 127 | 21| 
+| 20210401T22:15:47Z | This code is based on a watering system case study from CII-2M3 Pengantar Kecerdasan Buatan Pokok Bahasan 07.ppt Telkom University | https://github.com/rarrazaan/fuzzyLogicPython | 0 | 0| 
+| 20210401T22:14:28Z | Hacking tools written by me. IP fortune, webmap -- web vulns scanner, rtsp brute+fuzz, and more. | https://github.com/fagcinsk/h4ck | 1 | 0| 
+| 20210401T22:03:39Z | A case study of a fuzzer in the Rascal Language | https://github.com/fuzzing-unb/rascalFuzz | 0 | 0| 
+| 20210401T21:48:44Z | Autofuze has been developped to provide a full toolkit to fuzz and pentest several protocols used in automotive industry such as USB, XCP, UDS, CAN. Everything is done in Python to provide a convenient way to develop automated test. | https://github.com/DanAurea/AutoFuze | 0 | 0| 
+| 20210401T20:33:46Z | This is a Fuzzer library built in JS and nodeJS | https://github.com/fuzzing-unb/FuzzerJS | 0 | 0| 
 
 
 
