@@ -33,7 +33,7 @@
 | 20210402T00:32:17Z | CVE-2021-21975 | Nmap script to check vulnerability CVE-2021-21975 | https://github.com/GuayoyoCyber/CVE-2021-21975 | Server Side Request Forgery in vRealize Operations Manager API (CVE-2021-21975) prior to 8.4 may allow a malicious actor with network access to the vRealize Operations Manager API can perform a Server Side Request Forgery attack to steal administrative credentials.| 
 | 20210401T17:11:06Z | CVE-2021-26295 | Null | https://github.com/yumusb/CVE-2021-26295 | Apache OFBiz has unsafe deserialization prior to 17.12.06. An unauthenticated attacker can use this vulnerability to successfully take over Apache OFBiz.| 
 | 20210401T17:02:00Z | CVE-2021-24098 | POC for CVE-2021-24098 | https://github.com/waleedassar/CVE-2021-24098 | Windows Console Driver Denial of Service Vulnerability| 
-| 20210401T16:38:22Z | CVE-2021-1699 | POC for CVE-2021-1699 | https://github.com/waleedassar/CVE-2021-1699 | | 
+| 20210401T16:38:22Z | CVE-2021-1699 | POC for CVE-2021-1699 | https://github.com/waleedassar/CVE-2021-1699 | Windows (modem.sys) Information Disclosure Vulnerability| 
 | 20210401T12:52:34Z | 未知编号 | Null | https://github.com/feihong-cs/Attacking_Shiro_with_CVE_2020_2555 | 未查询到CVE信息| 
 | 20210401T12:48:44Z | CVE-2021-21975 | CVE-2021-21975 vRealize Operations Manager SSRF | https://github.com/Al1ex/CVE-2021-21975 | Server Side Request Forgery in vRealize Operations Manager API (CVE-2021-21975) prior to 8.4 may allow a malicious actor with network access to the vRealize Operations Manager API can perform a Server Side Request Forgery attack to steal administrative credentials.| 
 | 20210401T12:42:37Z | CVE-2021-3156 | Sudo Baron Samedit Exploit | https://github.com/worawit/CVE-2021-3156 | Sudo before 1.9.5p2 contains an off-by-one error that can result in a heap-based buffer overflow, which allows privilege escalation to root via %sudoedit -s% and a command-line argument that ends with a single backslash character.| 
@@ -89,6 +89,8 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210402T01:06:11Z | Easy to use and powerful fuzzy string matching, port of fuzzywuzzy. | https://github.com/nol13/fuzzball.js | 225 | 27| 
+| 20210402T00:41:11Z | Fuzzy charrs are fuzzy. | https://github.com/marenubium87/FuzzyCharr | 0 | 0| 
 | 20210401T23:38:45Z | Fuzzing cryptographic libraries. Magic bug printer go brrrr. | https://github.com/guidovranken/cryptofuzz | 266 | 37| 
 | 20210401T23:24:47Z | A mutation-based fuzzing engine for MQTT brokers. | https://github.com/PBearson/MosquittoByte | 0 | 0| 
 | 20210401T23:16:12Z | Null | https://github.com/VeriBlock/fuzz-corpus | 0 | 1| 
@@ -97,8 +99,6 @@
 | 20210401T22:15:47Z | This code is based on a watering system case study from CII-2M3 Pengantar Kecerdasan Buatan Pokok Bahasan 07.ppt Telkom University | https://github.com/rarrazaan/fuzzyLogicPython | 0 | 0| 
 | 20210401T22:14:28Z | Hacking tools written by me. IP fortune, webmap -- web vulns scanner, rtsp brute+fuzz, and more. | https://github.com/fagcinsk/h4ck | 1 | 0| 
 | 20210401T22:03:39Z | A case study of a fuzzer in the Rascal Language | https://github.com/fuzzing-unb/rascalFuzz | 0 | 0| 
-| 20210401T21:48:44Z | Autofuze has been developped to provide a full toolkit to fuzz and pentest several protocols used in automotive industry such as USB, XCP, UDS, CAN. Everything is done in Python to provide a convenient way to develop automated test. | https://github.com/DanAurea/AutoFuze | 0 | 0| 
-| 20210401T20:33:46Z | This is a Fuzzer library built in JS and nodeJS | https://github.com/fuzzing-unb/FuzzerJS | 0 | 0| 
 
 
 
