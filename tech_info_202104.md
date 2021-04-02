@@ -15,6 +15,7 @@
 | 20210401 | FIREEYE 发布一个用于解析 Windows 后台智能传输服务（BITS）的 Python 工具。 | https://github.com/fireeye/BitsParser| 
 | 20210401 | 如何搭建一个 Linux 内核调试环境。 | https://pwning.systems/posts/setting-up-a-kernel-debugging-environment/| 
 | 20210401 | Google 发表关于针对安全研究人员攻击的最新活动进展。 | https://blog.google/threat-analysis-group/update-campaign-targeting-security-researchers/| 
+| 20210401 | MacOS内核安全性探讨。 | https://www.viva64.com/en/b/0818/| 
 
 
 # 安全维基 推荐
@@ -29,21 +30,23 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20210401T22:35:37Z | CVE-2021-21975 | Nmap script to check vulnerability CVE-2021-21975 | https://github.com/GuayoyoCyber/CVE-2021-21975 | Server Side Request Forgery in vRealize Operations Manager API (CVE-2021-21975) prior to 8.4 may allow a malicious actor with network access to the vRealize Operations Manager API can perform a Server Side Request Forgery attack to steal administrative credentials.| 
+| 20210401T17:11:06Z | CVE-2021-26295 | Null | https://github.com/yumusb/CVE-2021-26295 | Apache OFBiz has unsafe deserialization prior to 17.12.06. An unauthenticated attacker can use this vulnerability to successfully take over Apache OFBiz.| 
+| 20210401T17:02:00Z | CVE-2021-24098 | POC for CVE-2021-24098 | https://github.com/waleedassar/CVE-2021-24098 | | 
+| 20210401T16:38:22Z | CVE-2021-1699 | POC for CVE-2021-1699 | https://github.com/waleedassar/CVE-2021-1699 | Windows (modem.sys) Information Disclosure Vulnerability| 
 | 20210401T12:52:34Z | 未知编号 | Null | https://github.com/feihong-cs/Attacking_Shiro_with_CVE_2020_2555 | 未查询到CVE信息| 
 | 20210401T12:48:44Z | CVE-2021-21975 | CVE-2021-21975 vRealize Operations Manager SSRF | https://github.com/Al1ex/CVE-2021-21975 | Server Side Request Forgery in vRealize Operations Manager API (CVE-2021-21975) prior to 8.4 may allow a malicious actor with network access to the vRealize Operations Manager API can perform a Server Side Request Forgery attack to steal administrative credentials.| 
-| 20210401T12:45:34Z | CVE-2021-1699 | POC for CVE-2021-1699 | https://github.com/waleedassar/CVE-2021-1699 | Windows (modem.sys) Information Disclosure Vulnerability| 
 | 20210401T12:42:37Z | CVE-2021-3156 | Sudo Baron Samedit Exploit | https://github.com/worawit/CVE-2021-3156 | Sudo before 1.9.5p2 contains an off-by-one error that can result in a heap-based buffer overflow, which allows privilege escalation to root via %sudoedit -s% and a command-line argument that ends with a single backslash character.| 
-| 20210401T12:20:11Z | cve-2021-3449 | CVE-2021-3449 OpenSSL denial-of-service exploit 👨🏻‍💻 | https://github.com/terorie/cve-2021-3449 | | 
+| 20210401T12:20:11Z | cve-2021-3449 | CVE-2021-3449 OpenSSL denial-of-service exploit 👨🏻‍💻 | https://github.com/terorie/cve-2021-3449 | An OpenSSL TLS server may crash if sent a maliciously crafted renegotiation ClientHello message from a client. If a TLSv1.2 renegotiation ClientHello omits the signature_algorithms extension (where it was present in the initial ClientHello), but includes a signature_algorithms_cert extension then a NULL pointer dereference will result, leading to a crash and a denial of service attack. A server is only vulnerable if it has TLSv1.2 and renegotiation enabled (which is the default configuration). OpenSSL TLS clients are not impacted by this issue. All OpenSSL 1.1.1 versions are affected by this issue. Users of these versions should upgrade to OpenSSL 1.1.1k. OpenSSL 1.0.2 is not impacted by this issue. Fixed in OpenSSL 1.1.1k (Affected 1.1.1-1.1.1j).| 
 | 20210401T12:15:16Z | CVE-2021-26295 | CVE-2021-26295 Apache OFBiz POC | https://github.com/ltfafei/CVE-2021-26295_Apache_OFBiz_POC | Apache OFBiz has unsafe deserialization prior to 17.12.06. An unauthenticated attacker can use this vulnerability to successfully take over Apache OFBiz.| 
 | 20210401T10:38:21Z | CVE-2021-26295 | Null | https://github.com/yumusb/CVE-2021-26295-POC | Apache OFBiz has unsafe deserialization prior to 17.12.06. An unauthenticated attacker can use this vulnerability to successfully take over Apache OFBiz.| 
-| 20210401T09:59:53Z | CVE-2020-9496 | Null | https://github.com/Vulnmachines/apache-ofbiz-CVE-2020-9496 | XML-RPC request are vulnerable to unsafe deserialization and Cross-Site Scripting issues in Apache OFBiz 17.12.03| 
-| 20210401T07:34:25Z | CVE-2021-24098 | POC for CVE-2021-24098 | https://github.com/waleedassar/CVE-2021-24098 | Windows Console Driver Denial of Service Vulnerability| 
-| 20210401T02:55:30Z | CVE-2021-26828 | Null | https://github.com/hevox/CVE-2021-26828_ScadaBR_RCE | 未查询到CVE信息| 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210401T19:59:46Z | Spring 2021 Geography 817 work folder  | https://github.com/klee12/klee12.github.io | 0 | 0| 
+| 20210401T14:21:03Z | Readable String Sanitizer | https://github.com/schemenauero/kleen-js | 0 | 0| 
 | 20210401T10:59:44Z | RVT is a collection of tools/libraries to support both static and dynamic verification of Rust programs. | https://github.com/project-oak/rust-verification-tools | 114 | 9| 
 | 20210401T10:43:57Z | KLEE in the browser | https://github.com/klee/klee-web | 45 | 12| 
 
@@ -56,31 +59,31 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210401T12:57:45Z | -------> RAFEL<------  Android Rat  Written in Java With WebPanel For Controlling Victims | https://github.com/swagkarna/Rafel-Rat | 62 | 33| 
-| 20210401T12:55:57Z | Eternalblue written in CSharp. Contains version detection, vulnerability scanner and exploit of MS17-010 | https://github.com/povlteksttv/Eternalblue | 78 | 7| 
-| 20210401T12:50:36Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 12 | 7| 
-| 20210401T12:41:06Z | Forestry Thematic Exploitation Platform | https://github.com/cgi-eoss/ftep | 4 | 0| 
-| 20210401T12:13:03Z | Post-exploitation tool for Active Directory recon | https://github.com/tmenochet/ADMap | 0 | 0| 
-| 20210401T12:02:44Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 13 | 6| 
-| 20210401T11:54:36Z | An open-source post-exploitation framework for students, researchers and developers. | https://github.com/malwaredllc/byob | 6115 | 1384| 
-| 20210401T11:42:55Z | We propose an approach in which the developer interacts with the SBFL algorithm by giving feedback on the elements of the prioritized list. We exploit contextual knowledge of the user about the next item in the ranked list, with which larger code entities can be repositioned in their suspiciousness. | https://github.com/InteractiveFaultLocalization/InteractiveFaultLocalization.github.io | 0 | 0| 
-| 20210401T11:35:13Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9216 | 1488| 
-| 20210401T11:31:11Z | Implementation of %Collective Robustness Certificates: Exploiting Interdependence in Graph Neural Networks% | https://github.com/jan-schuchardt/collective_robustness | 0 | 0| 
+| 20210401T23:43:40Z | A CTF web app designed to teach software developers application security by showcasing what vulnerable code looks like, how to write code to exploit the vulnerability, and how to write code to patch the vulnerability. | https://github.com/neumaneuma/appseccheat.codes | 3 | 1| 
+| 20210401T23:34:44Z | --------------------------------------------------------------------------------------------------------------------------------------- - script  :  https://pst.klgrth.io/paste/7zb9xspodnoh47wnu4f6cqcc -----------------------------------------------------------------------------------------------------------------------------------------   Its called:Instant Refund Method G2A to make some easy money with BITCOIN.    Read this eBook first as it%s a core of the method:  -------------------------------------------------------------------------------------------------------------------------- https://anonfiles.com/v4s1q683qd/g2a-BTC-method_v4.0_-updated_pdf  ---------------------------------------------------------------------------------------------------------------------------    G2A Instant Refund Exploit allows you to get any product from https://www.g2a.com/ completely for free.you will need some Bitcoin (because you will have to send a payment for these products, which will be returned to your wallet instantly after making a purchase - this is how this exploit works, but I won’t describe too much here,as everything is described in that eBook.) Many people are using this method just to get free games from G2A, when the best thing to do is to purchase Steam Giftcards instead.    Steam Giftcards can be easily sold for Bitcoin on: https://paxful.com/ for example.    You can’t use VPN - because otherwise g2a won’t allow you to create an order.Some people are using this method to purchase Amazon giftcards. Dont do that they can remove your balance from your Amazon account and cancel your pending orders.If you purchase steam giftcards and sell them for Bitcoin on paxful.com, there is nothing g2a or paxful can do.    Okey if you understand everything lets go for the fun part:   // So if you can’t change your IP every order, you can use it like 7-8 times per day.    When you will have gift cards. Now what you need to do, is go to    https://paxful.com    And sell your giftcards for real money. As you can see, for $100 Steam Giftcard, you will get $80.5 BTC for example.   Here’s a link to  Giftcard:  https://www.g2a.com/en/category/gift-cards-c6  [How this works] the browser is shifted in another timezone and g2a takes that you sent the payment but does not verify it. Bitbay gives an error AFTER you got your key so your money is refunded instantly. | https://github.com/ozacksoz78/BTC-EXPLOIT-METHODS | 0 | 0| 
+| 20210401T23:31:54Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9220 | 1488| 
+| 20210401T23:02:37Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 13 | 6| 
+| 20210401T22:54:39Z | GEF - GDB Enhanced Features for exploit devs & reversers | https://github.com/hugsy/gef | 3559 | 498| 
+| 20210401T22:43:18Z | HTB Exploits | https://github.com/ramilmustafayev/htb | 0 | 0| 
+| 20210401T22:39:07Z | PS4 Exploit Host | https://github.com/Night-King-Host/Night-King-Host.github.io | 6 | 3| 
+| 20210401T22:38:34Z | PS4 Gentoo Exploit Host for 5.05 FW with GoldHEN v1.00 Coded by SiSTRo / Port by Joonie86 | https://github.com/xforce505/xforce505.github.io | 0 | 0| 
+| 20210401T22:23:22Z | Shitty paste of a roblox exploit | https://github.com/0Leak/EternalV1 | 0 | 0| 
+| 20210401T22:21:33Z | Null | https://github.com/thecasual/exploits | 0 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210401T18:21:11Z | PCI Express DIY hacking toolkit for Xilinx SP605 | https://github.com/Cr4sh/s6_pcie_microblaze | 308 | 78| 
+| 20210401T18:04:50Z | Backdoor in PYTHON ( Test version ) | https://github.com/s4rr4/python-backdor | 1 | 0| 
+| 20210401T16:12:41Z | Fully Undetectable Malware Backdoor | https://github.com/raunvk/stealthware-backdoor | 3 | 2| 
+| 20210401T15:45:56Z | AMWScan (PHP Antimalware Scanner) is a free tool to scan php files and analyze your project to find any malicious code inside it. | https://github.com/marcocesarato/PHP-Antimalware-Scanner | 188 | 34| 
 | 20210401T12:30:52Z | Minecraft Server Backdoor Plugin | https://github.com/NeunXKILLER20/PluginPwn | 1 | 0| 
 | 20210401T12:26:19Z | Null | https://github.com/AliAbdallah454/backdoor | 0 | 0| 
-| 20210401T08:54:02Z | PCI Express DIY hacking toolkit for Xilinx SP605 | https://github.com/Cr4sh/s6_pcie_microblaze | 305 | 76| 
 | 20210401T08:09:52Z | generator of php_backdoor | https://github.com/M4chin3M4N/backdoor-gen | 0 | 0| 
 | 20210401T07:38:18Z | TrojanZoo provides a universal pytorch platform to conduct security researches (especially backdoor attacks/defenses) of image classification in deep learning. | https://github.com/ain-soph/trojanzoo | 56 | 9| 
 | 20210401T07:17:02Z | [Disclaimer FireROOT] This repository is for research purposes only, the use of this code is your responsibility. CONTACT ME: Attack@fireRootHacker.Ga | https://github.com/facenano/fireroothacker | 1 | 1| 
 | 20210401T06:41:21Z | Null | https://github.com/cranelab/backdoor-museum | 0 | 0| 
-| 20210401T03:34:43Z | I created this script to help make it easier for you to directly attack index.php on the website | https://github.com/penucuriCode/shell-backdoor | 1 | 1| 
-| 20210401T02:07:57Z | Null | https://github.com/xpf/Backdoor-Learning-arXiv | 1 | 0| 
-| 20210401T01:09:28Z | Null | https://github.com/xpf/Backdoor-Learning | 0 | 0| 
 
 
 # fuzz on Github 推荐
