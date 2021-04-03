@@ -12,6 +12,8 @@
 | ts | title | url| 
 | --- | --- | ---| 
 | 20210403 | 网络空间资产测绘(CAM)能力指南 | https://mp.weixin.qq.com/s/p3LwmZq7nrGOy5qy7p9SDQ| 
+| 20210403 | 安全是一门语言的艺术：威胁调查分析语言概述 | https://mp.weixin.qq.com/s/U8E4JxMDeL5IeVGAh9fuiQ| 
+| 20210403 | 对美军新近发展作战理念的梳理与思考 | https://mp.weixin.qq.com/s/D8T6ImssRi8sjDqD4_bGpg| 
 
 
 # CVE Github 推荐
@@ -22,7 +24,7 @@
 | 20210403T08:56:32Z | CVE-2021-21975 | [CVE-2021-21975] VMware vRealize Operations Manager API Server Side Request Forgery (SSRF) | https://github.com/murataydemir/CVE-2021-21975 | Server Side Request Forgery in vRealize Operations Manager API (CVE-2021-21975) prior to 8.4 may allow a malicious actor with network access to the vRealize Operations Manager API can perform a Server Side Request Forgery attack to steal administrative credentials.| 
 | 20210403T02:35:05Z | CVE-2021-3156 | Sudo Baron Samedit Exploit | https://github.com/worawit/CVE-2021-3156 | Sudo before 1.9.5p2 contains an off-by-one error that can result in a heap-based buffer overflow, which allows privilege escalation to root via %sudoedit -s% and a command-line argument that ends with a single backslash character.| 
 | 20210403T02:21:23Z | CVE-2021-21975 | Nmap script to check vulnerability CVE-2021-21975 | https://github.com/GuayoyoCyber/CVE-2021-21975 | Server Side Request Forgery in vRealize Operations Manager API (CVE-2021-21975) prior to 8.4 may allow a malicious actor with network access to the vRealize Operations Manager API can perform a Server Side Request Forgery attack to steal administrative credentials.| 
-| 20210403T02:01:20Z | 未知编号 | Null | https://github.com/feihong-cs/Attacking_Shiro_with_CVE_2020_2555 | | 
+| 20210403T02:01:20Z | 未知编号 | Null | https://github.com/feihong-cs/Attacking_Shiro_with_CVE_2020_2555 | 未查询到CVE信息| 
 
 
 # klee on Github 推荐
@@ -39,6 +41,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210403T12:25:45Z | System Exploitation Fundamental | https://github.com/JiWonOck/DreamHack | 0 | 0| 
 | 20210403T12:10:15Z | Config files for my GitHub profile. | https://github.com/Code-Jester/Roblox-Exploit | 1 | 0| 
 | 20210403T12:02:48Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 14 | 7| 
 | 20210403T11:56:10Z | Multi camera gathering and exploiting tool | https://github.com/M0tHs3C/Argo | 22 | 14| 
@@ -48,7 +51,6 @@
 | 20210403T11:31:27Z | if u know any stressers or u own a stresser using bootme leaked src, STOP using it there is backdoors and this script exploits them.  | https://github.com/X-x-X-0/bootme.club-RCE | 1 | 0| 
 | 20210403T11:30:31Z |   rsGen is a Reverse Shell Payload Generator for hacking. | https://github.com/FlyfishSec/rsGen | 48 | 19| 
 | 20210403T11:29:14Z | anon-exploiter.github.io | https://github.com/Anon-Exploiter/anon-exploiter.github.io | 0 | 0| 
-| 20210403T10:45:08Z | Exploiting Non-uniform Inherent Cues to Improve Presentation Attack Detection. | https://github.com/SherwinXYW/Non-uniform-cues | 0 | 0| 
 
 
 # backdoor on Github 推荐
