@@ -66,8 +66,8 @@
 | 20210402T22:22:14Z | Le but de ce projet est de réaliser un mécanisme d’allocation / désallocation de mémoire inspiré du fameux couple malloc() / free() de la librairie standard. La gestion de l’espace libre (par exemple suite à la suppression de structures allouées) est un aspect important du projet. Le système devra s’appuyer sur une zone mémoire allouée en début de programme. Il y a donc 4 fonctions à écrire pour pouvoir l’utiliser : /* initialisation de la zone de travail */ int initMemory(int nBytes); /* allocation dynamique d’espace dans la zone */ void* myalloc(int nBytes); /* désallocation d’une zone adressée par un pointeur */ int myfree(void* p); /* recuperation de la zone initialement reservee */ int freeMemory(); | https://github.com/tbdev99/Projet-Systeme-d-exploitation-Allocation-Dynamique | 0 | 0| 
 | 20210402T22:19:57Z | Modular penetration testing platform that enables you to write, test, and execute exploit code. | https://github.com/EntySec/HatSploit | 24 | 8| 
 | 20210402T22:15:17Z | A simple pickle assembler to make handcrafting pickle bytecode easier. | https://github.com/gousaiyang/pickleassem | 0 | 0| 
-| 20210402T22:03:20Z | PS4 Exploit Host | https://github.com/Night-King-Host/Night-King-Host.github.io | 6 | 3| 
 | 20210402T21:28:33Z | Various ASM, C and C++ tools, shellcodes and exploit experiments. | https://github.com/forrest-orr/ExploitDev | 57 | 6| 
+| 20210402T21:22:10Z | scan/ exploit lfi vulnerabilities | https://github.com/DSimsek000/finc | 0 | 0| 
 
 
 # backdoor on Github 推荐
