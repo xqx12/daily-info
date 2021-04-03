@@ -66,8 +66,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210403T01:16:56Z | Null | https://github.com/VeriBlock/fuzz-corpus | 0 | 1| 
-| 20210403T01:08:38Z | Fuzzing cryptographic libraries. Magic bug printer go brrrr. | https://github.com/guidovranken/cryptofuzz | 269 | 37| 
+| 20210403T12:19:39Z | A mutation-based fuzzing engine for MQTT brokers. | https://github.com/PBearson/MosquittoByte | 0 | 0| 
+| 20210403T12:15:12Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 1 | 0| 
+| 20210403T11:53:26Z | Fake News Detection, Repository. | https://github.com/hrs2203/fuzzy-pancake | 0 | 0| 
+| 20210403T11:05:39Z | Code themes in qualitative data with fuzzy matching | https://github.com/jag1g13/fuzzycoding | 0 | 0| 
+| 20210403T10:51:27Z | Recent Fuzzing Paper | https://github.com/wcventure/FuzzingPaper | 797 | 133| 
+| 20210403T10:43:24Z | Null | https://github.com/Yin-Lynn-Htun/Fuzzy-shop | 0 | 0| 
+| 20210403T09:48:21Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6172 | 1248| 
+| 20210403T09:42:32Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2299 | 122| 
+| 20210403T08:32:00Z | Null | https://github.com/VeriBlock/fuzz-corpus | 0 | 1| 
+| 20210403T08:26:51Z | Null | https://github.com/s9varesc/url-fuzzing-docker | 0 | 0| 
 
 
 
