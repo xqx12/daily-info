@@ -93,6 +93,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210403T12:46:13Z | Fully Undetectable Malware Backdoor | https://github.com/raunvk/stealthware-backdoor | 4 | 2| 
 | 20210403T11:31:27Z | if u know any stressers or u own a stresser using bootme leaked src, STOP using it there is backdoors and this script exploits them.  | https://github.com/X-x-X-0/bootme.club-RCE | 1 | 0| 
 | 20210403T08:47:50Z | TrojanZoo provides a universal pytorch platform to conduct security researches (especially backdoor attacks/defenses) of image classification in deep learning. | https://github.com/ain-soph/trojanzoo | 56 | 10| 
 | 20210403T08:13:39Z | A pseudo C2 Server and backdoor to *simulate* the way usual C2 server works | https://github.com/alainpetit21/POLY_CY101_client_Server | 0 | 0| 
@@ -102,7 +103,6 @@
 | 20210403T00:58:33Z | [Disclaimer FireROOT] This repository is for research purposes only, the use of this code is your responsibility. CONTACT ME: Attack@fireRootHacker.Ga | https://github.com/facenano/fireroothacker | 1 | 1| 
 | 20210403T00:42:39Z | Null | https://github.com/ouldevloper/python-backdoor | 0 | 0| 
 | 20210402T23:38:25Z | PCI Express DIY hacking toolkit for Xilinx SP605 | https://github.com/Cr4sh/s6_pcie_microblaze | 312 | 79| 
-| 20210402T23:28:43Z | Simple lua backdoor, Dong, watheck, jayboy  | https://github.com/IncognitoBasePlate/Backdoor-test-for-roblox | 0 | 0| 
 
 
 # fuzz on Github 推荐
