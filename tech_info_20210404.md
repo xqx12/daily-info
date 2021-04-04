@@ -39,9 +39,9 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210404T12:02:27Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 14 | 7| 
 | 20210404T11:27:22Z | Modular penetration testing platform that enables you to write, test, and execute exploit code. | https://github.com/EntySec/HatSploit | 24 | 8| 
 | 20210404T11:03:42Z | This bash script will help you to hack remote hosts  | https://github.com/FabioDefilippo/linuxallremote | 10 | 1| 
-| 20210404T11:02:29Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 14 | 7| 
 | 20210404T10:59:51Z | buffer overflow exploit for vulnserver, feel free to use. | https://github.com/yezen19/vulnserverexploit | 0 | 0| 
 | 20210404T10:56:21Z | anon-exploiter.github.io | https://github.com/Anon-Exploiter/anon-exploiter.github.io | 0 | 0| 
 | 20210404T10:35:36Z | rce exploit for nginx | https://github.com/exec1337/NGINX-RCE | 0 | 0| 
@@ -54,6 +54,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210404T12:03:58Z | Null | https://github.com/password520/backdoorppt | 0 | 0| 
 | 20210404T11:40:49Z | Null | https://github.com/password520/backdoor | 0 | 0| 
 | 20210404T10:55:02Z | Thefatrat a massive exploiting tool : Easy tool to generate backdoor and easy tool to post exploitation attack like browser attack and etc . This tool compiles a malware with popular payload and then the compiled malware can be execute on windows, android, mac . The malware that created with this tool also have an ability to bypass most AV software protection . | https://github.com/Screetsec/TheFatRat | 5108 | 1670| 
 | 20210404T09:15:11Z | Null | https://github.com/kietbuiduc2020/reserve_backdoor-listener | 0 | 0| 
@@ -63,7 +64,6 @@
 | 20210404T05:29:22Z | A simple python 2 server-client command control backdoor | https://github.com/Leandro-Kogan/Simple-Backdoor | 0 | 0| 
 | 20210404T05:14:06Z | TrojanZoo provides a universal pytorch platform to conduct security researches (especially backdoor attacks/defenses) of image classification in deep learning. | https://github.com/ain-soph/trojanzoo | 56 | 10| 
 | 20210404T03:15:18Z | Null | https://github.com/austenm/web-server-with-backdoor | 0 | 0| 
-| 20210404T01:08:08Z | Null | https://github.com/password520/Advanced-Backdoor | 0 | 0| 
 
 
 # fuzz on Github 推荐
