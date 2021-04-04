@@ -29,6 +29,7 @@
 # 安全维基 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20210404 | 技术分享 , Git-RCE：CVE-2021-21300 | https://mp.weixin.qq.com/s/VO2dHNVbPcpZQtnBRMNNag| 
 | 20210403 | 网络空间资产测绘(CAM)能力指南 | https://mp.weixin.qq.com/s/p3LwmZq7nrGOy5qy7p9SDQ| 
 | 20210403 | 安全是一门语言的艺术：威胁调查分析语言概述 | https://mp.weixin.qq.com/s/U8E4JxMDeL5IeVGAh9fuiQ| 
 | 20210403 | 对美军新近发展作战理念的梳理与思考 | https://mp.weixin.qq.com/s/D8T6ImssRi8sjDqD4_bGpg| 
@@ -38,12 +39,13 @@
 | 20210402 | 驱动病毒那些事(三)----APC注入 | https://www.sec-in.com/article/994| 
 | 20210401 | 驱动病毒那些事(二)----回调 | https://www.sec-in.com/article/992| 
 | 20210401 | 邬晓磊：基于关键词的大型红蓝对抗经验分享 | https://mp.weixin.qq.com/s/8boR_ZucLk5nMJwfi2UdGA| 
-| 20210401 | 洞态IAST Agent正式开源 | https://mp.weixin.qq.com/s/iSHmK4Fbl0whDvIH-u8tag| 
 
 
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20210404T07:56:06Z | CVE-2020-21224 | 浪潮ClusterEngineV4.0 远程命令执行漏洞扫描脚本。 | https://github.com/MzzdToT/CVE-2020-21224 | A Remote Code Execution vulnerability has been found in Inspur ClusterEngine V4.0. A remote attacker can send a malicious login packet to the control server| 
+| 20210404T02:56:12Z | cve-2020-1337 | Null | https://github.com/password520/cve-2020-1337-poc | An elevation of privilege vulnerability exists when the Windows Print Spooler service improperly allows arbitrary writing to the file system, aka %Windows Print Spooler Elevation of Privilege Vulnerability%.| 
 | 20210404T01:15:15Z | CVE-2021-3156 | Null | https://github.com/password520/CVE-2021-3156 | Sudo before 1.9.5p2 contains an off-by-one error that can result in a heap-based buffer overflow, which allows privilege escalation to root via %sudoedit -s% and a command-line argument that ends with a single backslash character.| 
 | 20210404T00:15:45Z | CVE-2021-21975 | Nmap script to check vulnerability CVE-2021-21975 | https://github.com/GuayoyoCyber/CVE-2021-21975 | Server Side Request Forgery in vRealize Operations Manager API (CVE-2021-21975) prior to 8.4 may allow a malicious actor with network access to the vRealize Operations Manager API can perform a Server Side Request Forgery attack to steal administrative credentials.| 
 | 20210403T23:47:22Z | cve-2021-3449 | CVE-2021-3449 OpenSSL denial-of-service exploit 👨🏻‍💻 | https://github.com/terorie/cve-2021-3449 | An OpenSSL TLS server may crash if sent a maliciously crafted renegotiation ClientHello message from a client. If a TLSv1.2 renegotiation ClientHello omits the signature_algorithms extension (where it was present in the initial ClientHello), but includes a signature_algorithms_cert extension then a NULL pointer dereference will result, leading to a crash and a denial of service attack. A server is only vulnerable if it has TLSv1.2 and renegotiation enabled (which is the default configuration). OpenSSL TLS clients are not impacted by this issue. All OpenSSL 1.1.1 versions are affected by this issue. Users of these versions should upgrade to OpenSSL 1.1.1k. OpenSSL 1.0.2 is not impacted by this issue. Fixed in OpenSSL 1.1.1k (Affected 1.1.1-1.1.1j).| 
@@ -52,14 +54,14 @@
 | 20210403T13:53:06Z | CVE-2020-25213 | Null | https://github.com/piruprohacking/CVE-2020-25213 | The File Manager (wp-file-manager) plugin before 6.9 for WordPress allows remote attackers to upload and execute arbitrary PHP code because it renames an unsafe example elFinder connector file to have the .php extension. This, for example, allows attackers to run the elFinder upload (or mkfile and put) command to write PHP code into the wp-content/plugins/wp-file-manager/lib/files/ directory. This was exploited in the wild in August and September 2020.| 
 | 20210403T13:50:42Z | CVE-2020-17453 | PoC (Proof of Concept) - CVE-2020-17453 | https://github.com/JHHAX/CVE-2020-17453-PoC | 未查询到CVE信息| 
 | 20210403T12:56:38Z | CVE-2021-22986 | CVE-2021-22986 & F5 BIG-IP RCE | https://github.com/Al1ex/CVE-2021-22986 | On BIG-IP versions 16.0.x before 16.0.1.1, 15.1.x before 15.1.2.1, 14.1.x before 14.1.4, 13.1.x before 13.1.3.6, and 12.1.x before 12.1.5.3 amd BIG-IQ 7.1.0.x before 7.1.0.3 and 7.0.0.x before 7.0.0.2, the iControl REST interface has an unauthenticated remote command execution vulnerability. Note: Software versions which have reached End of Software Development (EoSD) are not evaluated.| 
-| 20210403T12:10:03Z | CVE-2021-21972 | Null | https://github.com/password520/CVE-2021-21972 | The vSphere Client (HTML5) contains a remote code execution vulnerability in a vCenter Server plugin. A malicious actor with network access to port 443 may exploit this issue to execute commands with unrestricted privileges on the underlying operating system that hosts vCenter Server. This affects VMware vCenter Server (7.x before 7.0 U1c, 6.7 before 6.7 U3l and 6.5 before 6.5 U3n) and VMware Cloud Foundation (4.x before 4.2 and 3.x before 3.10.1.2).| 
-| 20210403T08:56:32Z | CVE-2021-21975 | [CVE-2021-21975] VMware vRealize Operations Manager API Server Side Request Forgery (SSRF) | https://github.com/murataydemir/CVE-2021-21975 | Server Side Request Forgery in vRealize Operations Manager API (CVE-2021-21975) prior to 8.4 may allow a malicious actor with network access to the vRealize Operations Manager API can perform a Server Side Request Forgery attack to steal administrative credentials.| 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210403T13:51:43Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 的 Klee One 的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 377 | 9| 
+| 20210404T11:10:53Z | Git Blog | https://github.com/klee30810/klee30810.github.io | 0 | 0| 
+| 20210404T04:27:55Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 的 Klee One 的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 378 | 9| 
+| 20210404T03:49:15Z | Create CFGs and compute complexity metrics for Python, C++, and Java code. | https://github.com/hmc-alpaqa/metrinome | 7 | 0| 
 | 20210403T13:37:18Z | RVT is a collection of tools/libraries to support both static and dynamic verification of Rust programs. | https://github.com/project-oak/rust-verification-tools | 116 | 10| 
 | 20210402T23:50:49Z | Null | https://github.com/abbykleespie/LAWk8AbbyKleespie.appstudio | 0 | 0| 
 | 20210402T19:52:36Z | Spring 2021 Geography 817 work folder  | https://github.com/klee12/klee12.github.io | 0 | 0| 
@@ -78,31 +80,31 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210404T01:55:40Z | 7 days of Red Teaming TTPs that your favorite tools may use to acheive a post exploitation goal | https://github.com/jsecu/7DaysofRed | 0 | 0| 
-| 20210404T01:41:53Z | Null | https://github.com/Shrewk/exploit | 0 | 0| 
-| 20210404T01:40:57Z | GEF - GDB Enhanced Features for exploit devs & reversers | https://github.com/hugsy/gef | 3563 | 499| 
-| 20210404T01:38:23Z | exploit-database-papers | https://github.com/offensive-security/exploitdb-papers | 287 | 40| 
-| 20210404T01:14:14Z | Null | https://github.com/password520/UAC_Exploit | 0 | 0| 
-| 20210404T01:02:32Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 14 | 7| 
-| 20210404T00:34:20Z | This is a plugin for Minecraft that aids in building, as it gives the player creative mode and charges them for each block they place. All exploits are patched as well. | https://github.com/bsalha1/Printer | 2 | 4| 
-| 20210404T00:13:25Z | Thefatrat a massive exploiting tool : Easy tool to generate backdoor and easy tool to post exploitation attack like browser attack and etc . This tool compiles a malware with popular payload and then the compiled malware can be execute on windows, android, mac . The malware that created with this tool also have an ability to bypass most AV software protection . | https://github.com/Screetsec/TheFatRat | 5106 | 1670| 
-| 20210403T23:30:19Z | Null | https://github.com/capnhowdie11/OnlyFans-exploit | 0 | 0| 
-| 20210403T22:53:06Z | Le but de ce projet est de réaliser un mécanisme d’allocation / désallocation de mémoire inspiré du fameux couple malloc() / free() de la librairie standard. La gestion de l’espace libre (par exemple suite à la suppression de structures allouées) est un aspect important du projet. Le système devra s’appuyer sur une zone mémoire allouée en début de programme. Il y a donc 4 fonctions à écrire pour pouvoir l’utiliser : /* initialisation de la zone de travail */ int initMemory(int nBytes); /* allocation dynamique d’espace dans la zone */ void* myalloc(int nBytes); /* désallocation d’une zone adressée par un pointeur */ int myfree(void* p); /* recuperation de la zone initialement reservee */ int freeMemory(); | https://github.com/tbdev99/Projet-Systeme-d-exploitation-Allocation-Dynamique | 0 | 0| 
+| 20210404T11:27:22Z | Modular penetration testing platform that enables you to write, test, and execute exploit code. | https://github.com/EntySec/HatSploit | 24 | 8| 
+| 20210404T11:03:42Z | This bash script will help you to hack remote hosts  | https://github.com/FabioDefilippo/linuxallremote | 10 | 1| 
+| 20210404T11:02:29Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 14 | 7| 
+| 20210404T10:59:51Z | buffer overflow exploit for vulnserver, feel free to use. | https://github.com/yezen19/vulnserverexploit | 0 | 0| 
+| 20210404T10:56:21Z | anon-exploiter.github.io | https://github.com/Anon-Exploiter/anon-exploiter.github.io | 0 | 0| 
+| 20210404T10:35:36Z | rce exploit for nginx | https://github.com/exec1337/NGINX-RCE | 0 | 0| 
+| 20210404T10:19:14Z | Fixes some Minecraft Server exploits and lag exploits | https://github.com/NickyAdmin/NickysFixer | 1 | 0| 
+| 20210404T10:18:47Z | Automated All-in-One OS command injection and exploitation tool  can be used from web developers, penetration testers or even security   researchers in order to test web-based applications   with the view to find bugs, errors or vulnerabilities   related to command injection attacks.   Installation :  $ apt update && apt upgrade  $ apt install git   $ apt install python2  $ git clone https://github.com/commixproject/commix  $ cd commix  $ chmod +x *  usage :  $ python2 commix.py  Now it shows how you can use this too..  $ python2 commix.py -h   it shows all options...  $ python2 commix.py -u site.com  it shows all information.... | https://github.com/Zack-sys/Commix-Automated-All-in-One-OS-command-injection-ang-exploitation-tool | 6 | 0| 
+| 20210404T10:17:34Z | A-Rat = Remote access tool  we can generate python based rat  installation :  $ apt update   $ apt upgrade  $ apt install git  $ apt install python2  $ apt install python  $ git clone https://github.com/Xi4u7/A-Rat  $ cd A-Rat  $ chmod +x *  usage :  $ python2 A-Rat.py  $ help  $ set host 127.0.0.1 [your ip]  $ set port 1337  $ set output /$HOME/rat.py  $ generate  It generates rat.py in termux home directory  Open termux new session   type $ ls  here you get that rat.py   go to again A-Rat means privious session of termux  Type run to start exploit.  $ run  and then open new session and run rat like this  $ python rat.py  and come back to A-Rat session   Now its connected to that rat. means Hacked.  press control + c to stop. | https://github.com/Zack-sys/A-Rat-Exploit | 20 | 1| 
+| 20210404T10:16:54Z | PhoneSploit is tool for remote ADB Exploitation. With the help of this tool you can control android device by just IP address.  pkg up -y pkg install git -y pkg install python -y pkg install openssl-tool pkg install wget -y pip install colorama git clone https://github.com/MasterDevX/Termux-ADB cd Termux-ADB chmod 777 InstallTools.sh bash InstallTools.sh cd $HOME git clone https://github.com/aerosol-can/PhoneSploit cd PhoneSploit python phonesploit.py | https://github.com/Zack-sys/Phonesploit---hacking-android-using-IP-address | 6 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210404T11:40:49Z | Null | https://github.com/password520/backdoor | 0 | 0| 
+| 20210404T10:55:02Z | Thefatrat a massive exploiting tool : Easy tool to generate backdoor and easy tool to post exploitation attack like browser attack and etc . This tool compiles a malware with popular payload and then the compiled malware can be execute on windows, android, mac . The malware that created with this tool also have an ability to bypass most AV software protection . | https://github.com/Screetsec/TheFatRat | 5108 | 1670| 
+| 20210404T09:15:11Z | Null | https://github.com/kietbuiduc2020/reserve_backdoor-listener | 0 | 0| 
+| 20210404T08:54:56Z | A simple python tool to hide backdoor in cookie | https://github.com/krishpranav/backcookie | 0 | 0| 
+| 20210404T07:49:57Z | [Disclaimer FireROOT] This repository is for research purposes only, the use of this code is your responsibility. CONTACT ME: Attack@fireRootHacker.Ga | https://github.com/facenano/fireroothacker | 1 | 1| 
+| 20210404T07:02:00Z | if u know any stressers or u own a stresser using bootme leaked src, STOP using it there is backdoors and this script exploits them.  | https://github.com/X-x-X-0/bootme.club-RCE | 4 | 0| 
+| 20210404T05:29:22Z | A simple python 2 server-client command control backdoor | https://github.com/Leandro-Kogan/Simple-Backdoor | 0 | 0| 
+| 20210404T05:14:06Z | TrojanZoo provides a universal pytorch platform to conduct security researches (especially backdoor attacks/defenses) of image classification in deep learning. | https://github.com/ain-soph/trojanzoo | 56 | 10| 
+| 20210404T03:15:18Z | Null | https://github.com/austenm/web-server-with-backdoor | 0 | 0| 
 | 20210404T01:08:08Z | Null | https://github.com/password520/Advanced-Backdoor | 0 | 0| 
-| 20210404T01:01:51Z | if u know any stressers or u own a stresser using bootme leaked src, STOP using it there is backdoors and this script exploits them.  | https://github.com/X-x-X-0/bootme.club-RCE | 3 | 0| 
-| 20210404T00:13:25Z | Thefatrat a massive exploiting tool : Easy tool to generate backdoor and easy tool to post exploitation attack like browser attack and etc . This tool compiles a malware with popular payload and then the compiled malware can be execute on windows, android, mac . The malware that created with this tool also have an ability to bypass most AV software protection . | https://github.com/Screetsec/TheFatRat | 5106 | 1670| 
-| 20210403T22:14:59Z | TrojanZoo provides a universal pytorch platform to conduct security researches (especially backdoor attacks/defenses) of image classification in deep learning. | https://github.com/ain-soph/trojanzoo | 56 | 10| 
-| 20210403T21:11:39Z | Fully Undetectable Malware Backdoor | https://github.com/raunvk/stealthware-backdoor | 10 | 5| 
-| 20210403T20:31:05Z | Null | https://github.com/Wiilldd/backdoor | 0 | 0| 
-| 20210403T08:13:39Z | A pseudo C2 Server and backdoor to *simulate* the way usual C2 server works | https://github.com/alainpetit21/POLY_CY101_client_Server | 0 | 0| 
-| 20210403T06:30:22Z | Null | https://github.com/rlarjsdn2313/backdoor | 0 | 0| 
-| 20210403T06:00:26Z | I created this script to help make it easier for you to directly attack index.php on the website | https://github.com/penucuriCode/shell-backdoor | 1 | 1| 
-| 20210403T01:11:51Z | Null | https://github.com/cranelab/backdoor-museum | 0 | 0| 
 
 
 # fuzz on Github 推荐
