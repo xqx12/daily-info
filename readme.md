@@ -39,7 +39,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210404T12:28:36Z | Les plannings de l%UPMC, avec des liens ical qui marchent et peut-être bientôt un site exploitable sur mobile | https://github.com/AmauryCarrade/PlanningsUPMC | 0 | 0| 
+| 20210404T12:29:55Z | Les plannings de l%UPMC, avec des liens ical qui marchent et peut-être bientôt un site exploitable sur mobile | https://github.com/AmauryCarrade/PlanningsUPMC | 0 | 0| 
 | 20210404T12:03:57Z | A list of commands, tools and notes about enumerating and exploiting Active Directory and how to defend against these attacks | https://github.com/thegoatreich/AD_attack_defend_cheatsheet | 0 | 0| 
 | 20210404T12:02:27Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 14 | 7| 
 | 20210404T11:27:22Z | Modular penetration testing platform that enables you to write, test, and execute exploit code. | https://github.com/EntySec/HatSploit | 24 | 8| 
