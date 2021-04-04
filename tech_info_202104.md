@@ -78,6 +78,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210404T01:14:14Z | Null | https://github.com/password520/UAC_Exploit | 0 | 0| 
 | 20210404T01:02:32Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 14 | 7| 
 | 20210404T00:44:21Z | Null | https://github.com/Shrewk/exploit | 0 | 0| 
 | 20210404T00:34:20Z | This is a plugin for Minecraft that aids in building, as it gives the player creative mode and charges them for each block they place. All exploits are patched as well. | https://github.com/bsalha1/Printer | 2 | 4| 
@@ -87,7 +88,6 @@
 | 20210403T22:45:36Z | PS4 Exploit Host | https://github.com/Night-King-Host/Night-King-Host.github.io | 6 | 3| 
 | 20210403T22:41:10Z | PS1 savegame exploit | https://github.com/socram8888/tonyhax | 230 | 6| 
 | 20210403T22:38:45Z | exploit/unix/selea/authenticated_command_execution | https://github.com/enty8080/selea_authenticated_rce | 1 | 0| 
-| 20210403T22:35:28Z | Swiss Boot Memory Cards and Game Save Hacks a la GCMM | https://github.com/GameCubeHomebrew/GameSave-Exploits | 0 | 0| 
 
 
 # backdoor on Github 推荐
