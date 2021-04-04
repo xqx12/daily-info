@@ -78,7 +78,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210404T00:25:46Z | Null | https://github.com/Shrewk/exploit | 0 | 0| 
+| 20210404T00:28:03Z | Null | https://github.com/Shrewk/exploit | 0 | 0| 
 | 20210404T00:13:25Z | Thefatrat a massive exploiting tool : Easy tool to generate backdoor and easy tool to post exploitation attack like browser attack and etc . This tool compiles a malware with popular payload and then the compiled malware can be execute on windows, android, mac . The malware that created with this tool also have an ability to bypass most AV software protection . | https://github.com/Screetsec/TheFatRat | 5106 | 1670| 
 | 20210404T00:02:37Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 14 | 7| 
 | 20210403T23:30:19Z | Null | https://github.com/capnhowdie11/OnlyFans-exploit | 0 | 0| 
