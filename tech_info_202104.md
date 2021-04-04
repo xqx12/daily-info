@@ -50,7 +50,7 @@
 | 20210403T16:23:43Z | 未知编号 | Null | https://github.com/CyberCommands/CVE2021-21975 | 未查询到CVE信息| 
 | 20210403T13:53:06Z | CVE-2020-25213 | Null | https://github.com/piruprohacking/CVE-2020-25213 | The File Manager (wp-file-manager) plugin before 6.9 for WordPress allows remote attackers to upload and execute arbitrary PHP code because it renames an unsafe example elFinder connector file to have the .php extension. This, for example, allows attackers to run the elFinder upload (or mkfile and put) command to write PHP code into the wp-content/plugins/wp-file-manager/lib/files/ directory. This was exploited in the wild in August and September 2020.| 
 | 20210403T13:50:42Z | CVE-2020-17453 | PoC (Proof of Concept) - CVE-2020-17453 | https://github.com/JHHAX/CVE-2020-17453-PoC | 未查询到CVE信息| 
-| 20210403T12:56:38Z | CVE-2021-22986 | CVE-2021-22986 & F5 BIG-IP RCE | https://github.com/Al1ex/CVE-2021-22986 | On BIG-IP versions 16.0.x before 16.0.1.1, 15.1.x before 15.1.2.1, 14.1.x before 14.1.4, 13.1.x before 13.1.3.6, and 12.1.x before 12.1.5.3 amd BIG-IQ 7.1.0.x before 7.1.0.3 and 7.0.0.x before 7.0.0.2, the iControl REST interface has an unauthenticated remote command execution vulnerability. Note: Software versions which have reached End of Software Development (EoSD) are not evaluated.| 
+| 20210403T12:56:38Z | CVE-2021-22986 | CVE-2021-22986 & F5 BIG-IP RCE | https://github.com/Al1ex/CVE-2021-22986 | | 
 | 20210403T12:10:03Z | CVE-2021-21972 | Null | https://github.com/password520/CVE-2021-21972 | The vSphere Client (HTML5) contains a remote code execution vulnerability in a vCenter Server plugin. A malicious actor with network access to port 443 may exploit this issue to execute commands with unrestricted privileges on the underlying operating system that hosts vCenter Server. This affects VMware vCenter Server (7.x before 7.0 U1c, 6.7 before 6.7 U3l and 6.5 before 6.5 U3n) and VMware Cloud Foundation (4.x before 4.2 and 3.x before 3.10.1.2).| 
 | 20210403T08:56:32Z | CVE-2021-21975 | [CVE-2021-21975] VMware vRealize Operations Manager API Server Side Request Forgery (SSRF) | https://github.com/murataydemir/CVE-2021-21975 | Server Side Request Forgery in vRealize Operations Manager API (CVE-2021-21975) prior to 8.4 may allow a malicious actor with network access to the vRealize Operations Manager API can perform a Server Side Request Forgery attack to steal administrative credentials.| 
 | 20210403T02:35:05Z | CVE-2021-3156 | Sudo Baron Samedit Exploit | https://github.com/worawit/CVE-2021-3156 | Sudo before 1.9.5p2 contains an off-by-one error that can result in a heap-based buffer overflow, which allows privilege escalation to root via %sudoedit -s% and a command-line argument that ends with a single backslash character.| 
@@ -78,6 +78,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210404T00:23:32Z | Null | https://github.com/Shrewk/exploit | 0 | 0| 
 | 20210404T00:13:25Z | Thefatrat a massive exploiting tool : Easy tool to generate backdoor and easy tool to post exploitation attack like browser attack and etc . This tool compiles a malware with popular payload and then the compiled malware can be execute on windows, android, mac . The malware that created with this tool also have an ability to bypass most AV software protection . | https://github.com/Screetsec/TheFatRat | 5106 | 1670| 
 | 20210404T00:02:37Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 14 | 7| 
 | 20210403T23:30:19Z | Null | https://github.com/capnhowdie11/OnlyFans-exploit | 0 | 0| 
@@ -87,7 +88,6 @@
 | 20210403T22:38:45Z | exploit/unix/selea/authenticated_command_execution | https://github.com/enty8080/selea_authenticated_rce | 1 | 0| 
 | 20210403T22:35:28Z | Swiss Boot Memory Cards and Game Save Hacks a la GCMM | https://github.com/GameCubeHomebrew/GameSave-Exploits | 0 | 0| 
 | 20210403T21:47:17Z | Windows Exploit Suggester - Next Generation | https://github.com/bitsadmin/wesng | 2258 | 355| 
-| 20210403T21:03:34Z | Modular penetration testing platform that enables you to write, test, and execute exploit code. | https://github.com/EntySec/HatSploit | 24 | 8| 
 
 
 # backdoor on Github 推荐
@@ -108,16 +108,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210403T12:19:39Z | A mutation-based fuzzing engine for MQTT brokers. | https://github.com/PBearson/MosquittoByte | 0 | 0| 
-| 20210403T12:15:12Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 1 | 0| 
-| 20210403T11:53:26Z | Fake News Detection, Repository. | https://github.com/hrs2203/fuzzy-pancake | 0 | 0| 
-| 20210403T11:05:39Z | Code themes in qualitative data with fuzzy matching | https://github.com/jag1g13/fuzzycoding | 0 | 0| 
-| 20210403T10:51:27Z | Recent Fuzzing Paper | https://github.com/wcventure/FuzzingPaper | 797 | 133| 
-| 20210403T10:43:24Z | Null | https://github.com/Yin-Lynn-Htun/Fuzzy-shop | 0 | 0| 
-| 20210403T09:48:21Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6172 | 1248| 
-| 20210403T09:42:32Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2299 | 122| 
-| 20210403T08:32:00Z | Null | https://github.com/VeriBlock/fuzz-corpus | 0 | 1| 
-| 20210403T08:26:51Z | Null | https://github.com/s9varesc/url-fuzzing-docker | 0 | 0| 
+| 20210404T00:08:42Z | Null | https://github.com/VeriBlock/fuzz-corpus | 0 | 1| 
+| 20210404T00:05:10Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 1 | 0| 
+| 20210404T00:05:01Z | CS 4152 Project | https://github.com/nicbarone/Fuzzy-Kiwi | 0 | 0| 
+| 20210403T23:28:23Z | Software for fuzzing, used on web application pentestings. | https://github.com/NESCAU-UFLA/FuzzingTool | 42 | 4| 
+| 20210403T22:52:33Z | Fuzzy matching for Neovim | https://github.com/amirrezaask/fuzzy.nvim | 23 | 1| 
+| 20210403T22:38:53Z | Null | https://github.com/Juanosorio94/fuzzing-rdma | 0 | 0| 
+| 20210403T22:35:48Z | Fuzzing cryptographic libraries. Magic bug printer go brrrr. | https://github.com/guidovranken/cryptofuzz | 269 | 37| 
+| 20210403T22:05:40Z | https://github.com/wcventure/FuzzingPaper | https://github.com/mishmashclone/wcventure-FuzzingPaper | 5 | 1| 
+| 20210403T22:00:53Z | Personal website of Laurence Hughes | https://github.com/fuzzylogicxx/fuzzylogic | 4 | 1| 
+| 20210403T21:33:29Z | Null | https://github.com/Sambigeara/fuzzynote | 2 | 1| 
 
 
 
