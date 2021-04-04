@@ -108,6 +108,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210404T01:02:09Z | My end of year project_ Not done yet ! | https://github.com/Rad-hi/Fuzzy_Fire_Detection | 0 | 0| 
 | 20210404T00:08:42Z | Null | https://github.com/VeriBlock/fuzz-corpus | 0 | 1| 
 | 20210404T00:05:10Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 1 | 0| 
 | 20210404T00:05:01Z | CS 4152 Project | https://github.com/nicbarone/Fuzzy-Kiwi | 0 | 0| 
@@ -117,7 +118,6 @@
 | 20210403T22:35:48Z | Fuzzing cryptographic libraries. Magic bug printer go brrrr. | https://github.com/guidovranken/cryptofuzz | 269 | 37| 
 | 20210403T22:05:40Z | https://github.com/wcventure/FuzzingPaper | https://github.com/mishmashclone/wcventure-FuzzingPaper | 5 | 1| 
 | 20210403T22:00:53Z | Personal website of Laurence Hughes | https://github.com/fuzzylogicxx/fuzzylogic | 4 | 1| 
-| 20210403T21:33:29Z | Null | https://github.com/Sambigeara/fuzzynote | 2 | 1| 
 
 
 
