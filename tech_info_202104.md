@@ -80,7 +80,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210405T01:35:06Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9225 | 1492| 
+| 20210405T01:39:09Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9226 | 1492| 
 | 20210405T01:27:41Z | An Exploit Written For A Remote Code Execution Attack For Windows SMB(1) Servers. | https://github.com/0day-3xploit/MS17-010 | 0 | 0| 
 | 20210405T01:27:06Z | This Is A Python3 Version Of MS08_067 A Windows Exploit Coded By Me :))))). | https://github.com/0day-3xploit/MS08-067 | 0 | 0| 
 | 20210405T01:21:03Z | C2/post-exploitation framework | https://github.com/loseys/BlackMamba | 594 | 66| 
