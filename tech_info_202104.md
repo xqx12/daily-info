@@ -80,6 +80,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210405T01:56:12Z | Null | https://github.com/0xturazzi/Um-Livrinho-Sobre-Exploit-Dev | 0 | 0| 
 | 20210405T01:39:09Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9226 | 1492| 
 | 20210405T01:27:41Z | An Exploit Written For A Remote Code Execution Attack For Windows SMB(1) Servers. | https://github.com/0day-3xploit/MS17-010 | 0 | 0| 
 | 20210405T01:27:06Z | This Is A Python3 Version Of MS08_067 A Windows Exploit Coded By Me :))))). | https://github.com/0day-3xploit/MS08-067 | 0 | 0| 
@@ -89,12 +90,12 @@
 | 20210405T01:02:33Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 14 | 7| 
 | 20210405T00:48:39Z | Null | https://github.com/GeomarPerales/Subroutines-for-hydroelectric-exploitation | 0 | 0| 
 | 20210405T00:25:28Z | roblox lego exploiting | https://github.com/iiiSeaIGamerxxx/A | 0 | 0| 
-| 20210404T22:16:28Z | GEF - GDB Enhanced Features for exploit devs & reversers | https://github.com/hugsy/gef | 3564 | 499| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210405T01:43:25Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 201 | 34| 
 | 20210404T23:10:49Z | Minecraft Server Backdoor Plugin | https://github.com/NeunXKILLER20/PluginPwn | 1 | 0| 
 | 20210404T18:59:53Z | Det her er en DEMO af TeamKineser,s Server Filer bygget op på Devo Filer (NO BACKDOOR) | https://github.com/TeamKineser/TeamKineser-DEMO-Filer | 0 | 0| 
 | 20210404T18:13:52Z | Invisible, customizable backdoor for Minecraft Spigot Plugins. | https://github.com/ThiccIndustries/Minecraft-Backdoor | 2 | 2| 
@@ -104,7 +105,6 @@
 | 20210404T12:03:58Z | Null | https://github.com/password520/backdoorppt | 0 | 0| 
 | 20210404T11:40:49Z | Null | https://github.com/password520/backdoor | 0 | 0| 
 | 20210404T09:15:11Z | Null | https://github.com/kietbuiduc2020/reserve_backdoor-listener | 0 | 0| 
-| 20210404T08:54:56Z | A simple python tool to hide backdoor in cookie | https://github.com/krishpranav/backcookie | 0 | 0| 
 
 
 # fuzz on Github 推荐
