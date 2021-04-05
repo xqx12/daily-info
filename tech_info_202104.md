@@ -29,6 +29,9 @@
 # 安全维基 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20210405 | GAN的前世今生 | https://mp.weixin.qq.com/s/CGngRxjVtOKHNsTrXBiD7w| 
+| 20210405 | 硬件安全技术研究 | https://mp.weixin.qq.com/s/YuYmMryfgFi0XqD96WelHg| 
+| 20210405 | SecWiki周刊（第370期) | https://www.sec-wiki.com/weekly/370| 
 | 20210404 | 技术分享 , Git-RCE：CVE-2021-21300 | https://mp.weixin.qq.com/s/VO2dHNVbPcpZQtnBRMNNag| 
 | 20210403 | 网络空间资产测绘(CAM)能力指南 | https://mp.weixin.qq.com/s/p3LwmZq7nrGOy5qy7p9SDQ| 
 | 20210403 | 安全是一门语言的艺术：威胁调查分析语言概述 | https://mp.weixin.qq.com/s/U8E4JxMDeL5IeVGAh9fuiQ| 
@@ -36,24 +39,21 @@
 | 20210403 | DGA域名检测的工程实践 | https://mp.weixin.qq.com/s/GlWqTWQzBfoXt8J8uJAPRQ| 
 | 20210403 | CVE-2016-0165 Win32k漏洞分析笔记 | https://xz.aliyun.com/t/9348| 
 | 20210402 | 国内伪基站垃圾短信生态系统研究 | https://mp.weixin.qq.com/s/te4igYM_PHbf2xedXdmQxw| 
-| 20210402 | 驱动病毒那些事(三)----APC注入 | https://www.sec-in.com/article/994| 
-| 20210401 | 驱动病毒那些事(二)----回调 | https://www.sec-in.com/article/992| 
-| 20210401 | 邬晓磊：基于关键词的大型红蓝对抗经验分享 | https://mp.weixin.qq.com/s/8boR_ZucLk5nMJwfi2UdGA| 
 
 
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20210405T10:35:01Z | CVE-2021-3156 | Exploit for Sudo heap overflow (CVE-2021-3156) on Debain 10 | https://github.com/0xdevil/CVE-2021-3156 | Sudo before 1.9.5p2 contains an off-by-one error that can result in a heap-based buffer overflow, which allows privilege escalation to root via %sudoedit -s% and a command-line argument that ends with a single backslash character.| 
+| 20210405T10:20:40Z | CVE-2021-30109 | Froala Persistent XSS | https://github.com/Hackdwerg/CVE-2021-30109 | 未查询到CVE信息| 
+| 20210405T09:36:12Z | CVE-2021-26295 | CVE-2021-26295 Apache OFBiz POC | https://github.com/ltfafei/CVE-2021-26295_Apache_OFBiz_POC | Apache OFBiz has unsafe deserialization prior to 17.12.06. An unauthenticated attacker can use this vulnerability to successfully take over Apache OFBiz.| 
+| 20210405T02:43:23Z | 未知编号 | Null | https://github.com/shacojx/CVE_2021_26855_SSRF | 未查询到CVE信息| 
+| 20210405T02:36:52Z | CVE-2021-26855 | Null | https://github.com/shacojx/CVE-2021-26855-exploit-Exchange | | 
 | 20210405T01:19:25Z | CVE-2021-21975 | Nmap script to check vulnerability CVE-2021-21975 | https://github.com/GuayoyoCyber/CVE-2021-21975 | Server Side Request Forgery in vRealize Operations Manager API (CVE-2021-21975) prior to 8.4 may allow a malicious actor with network access to the vRealize Operations Manager API can perform a Server Side Request Forgery attack to steal administrative credentials.| 
 | 20210404T17:29:51Z | CVE-2021-22986 | CVE-2021-22986 & F5 BIG-IP RCE | https://github.com/Al1ex/CVE-2021-22986 | On BIG-IP versions 16.0.x before 16.0.1.1, 15.1.x before 15.1.2.1, 14.1.x before 14.1.4, 13.1.x before 13.1.3.6, and 12.1.x before 12.1.5.3 amd BIG-IQ 7.1.0.x before 7.1.0.3 and 7.0.0.x before 7.0.0.2, the iControl REST interface has an unauthenticated remote command execution vulnerability. Note: Software versions which have reached End of Software Development (EoSD) are not evaluated.| 
 | 20210404T15:15:32Z | CVE-2021-3156 | Null | https://github.com/dock0d1/CVE-2021-3156 | Sudo before 1.9.5p2 contains an off-by-one error that can result in a heap-based buffer overflow, which allows privilege escalation to root via %sudoedit -s% and a command-line argument that ends with a single backslash character.| 
 | 20210404T07:56:06Z | CVE-2020-21224 | 浪潮ClusterEngineV4.0 远程命令执行漏洞扫描脚本。 | https://github.com/MzzdToT/CVE-2020-21224 | A Remote Code Execution vulnerability has been found in Inspur ClusterEngine V4.0. A remote attacker can send a malicious login packet to the control server| 
 | 20210404T02:56:12Z | cve-2020-1337 | Null | https://github.com/password520/cve-2020-1337-poc | An elevation of privilege vulnerability exists when the Windows Print Spooler service improperly allows arbitrary writing to the file system, aka %Windows Print Spooler Elevation of Privilege Vulnerability%.| 
-| 20210404T01:15:15Z | CVE-2021-3156 | Null | https://github.com/password520/CVE-2021-3156 | Sudo before 1.9.5p2 contains an off-by-one error that can result in a heap-based buffer overflow, which allows privilege escalation to root via %sudoedit -s% and a command-line argument that ends with a single backslash character.| 
-| 20210403T23:47:22Z | cve-2021-3449 | CVE-2021-3449 OpenSSL denial-of-service exploit 👨🏻‍💻 | https://github.com/terorie/cve-2021-3449 | An OpenSSL TLS server may crash if sent a maliciously crafted renegotiation ClientHello message from a client. If a TLSv1.2 renegotiation ClientHello omits the signature_algorithms extension (where it was present in the initial ClientHello), but includes a signature_algorithms_cert extension then a NULL pointer dereference will result, leading to a crash and a denial of service attack. A server is only vulnerable if it has TLSv1.2 and renegotiation enabled (which is the default configuration). OpenSSL TLS clients are not impacted by this issue. All OpenSSL 1.1.1 versions are affected by this issue. Users of these versions should upgrade to OpenSSL 1.1.1k. OpenSSL 1.0.2 is not impacted by this issue. Fixed in OpenSSL 1.1.1k (Affected 1.1.1-1.1.1j).| 
-| 20210403T21:17:20Z | CVE-2021-24098 | POC for CVE-2021-24098 | https://github.com/waleedassar/CVE-2021-24098 | Windows Console Driver Denial of Service Vulnerability| 
-| 20210403T16:23:43Z | 未知编号 | Null | https://github.com/CyberCommands/CVE2021-21975 | 未查询到CVE信息| 
-| 20210403T13:53:06Z | CVE-2020-25213 | Null | https://github.com/piruprohacking/CVE-2020-25213 | The File Manager (wp-file-manager) plugin before 6.9 for WordPress allows remote attackers to upload and execute arbitrary PHP code because it renames an unsafe example elFinder connector file to have the .php extension. This, for example, allows attackers to run the elFinder upload (or mkfile and put) command to write PHP code into the wp-content/plugins/wp-file-manager/lib/files/ directory. This was exploited in the wild in August and September 2020.| 
 
 
 # klee on Github 推荐
@@ -80,46 +80,46 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210405T01:56:12Z | Null | https://github.com/0xturazzi/Um-Livrinho-Sobre-Exploit-Dev | 0 | 0| 
-| 20210405T01:39:09Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9226 | 1492| 
-| 20210405T01:27:41Z | An Exploit Written For A Remote Code Execution Attack For Windows SMB(1) Servers. | https://github.com/0day-3xploit/MS17-010 | 0 | 0| 
-| 20210405T01:27:06Z | This Is A Python3 Version Of MS08_067 A Windows Exploit Coded By Me :))))). | https://github.com/0day-3xploit/MS08-067 | 0 | 0| 
-| 20210405T01:21:03Z | C2/post-exploitation framework | https://github.com/loseys/BlackMamba | 594 | 66| 
-| 20210405T01:15:37Z | The purpose of this program is to help beginner and intermediate users to hone their web exploitation and development skills by mirroring a vunerable e-commerce application. | https://github.com/Surreptitious-Coder/GVW | 0 | 3| 
-| 20210405T01:15:19Z | 7 days of Red Teaming TTPs that your favorite tools may use to acheive a post exploitation goal | https://github.com/jsecu/7DaysofRed | 0 | 0| 
-| 20210405T01:02:33Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 14 | 7| 
-| 20210405T00:48:39Z | Null | https://github.com/GeomarPerales/Subroutines-for-hydroelectric-exploitation | 0 | 0| 
-| 20210405T00:25:28Z | roblox lego exploiting | https://github.com/iiiSeaIGamerxxx/A | 0 | 0| 
+| 20210405T12:56:30Z | Null | https://github.com/THECyb0rgLab/Exploit-Development | 0 | 0| 
+| 20210405T12:55:06Z | Null | https://github.com/r4j0x00/exploits | 426 | 100| 
+| 20210405T12:50:39Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 12 | 8| 
+| 20210405T12:50:23Z | Herramienta para usar The Browser Exploitation Framework fuera de LAN, con diferentes opciones para hacking | https://github.com/tony23x/beef-for-cerberus | 0 | 0| 
+| 20210405T12:49:08Z | JUlia Moon Phase (JuMP) is a Julia script that calculates the moon phase in a given date from the user. It exploits the module %mphase% in the library AstroLib. | https://github.com/robertobastone/JuMP | 0 | 0| 
+| 20210405T12:45:48Z | CDK is an open-sourced container penetration toolkit, offering stable exploitation in different slimmed containers without any OS dependency. It comes with penetration tools and many powerful PoCs/EXPs helps you to escape container and takeover K8s cluster easily. | https://github.com/cdk-team/CDK | 1302 | 183| 
+| 20210405T12:45:17Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 16 | 7| 
+| 20210405T12:35:14Z | A python script file to forensically investigate and analyse binary files for buffer overflow exploits. | https://github.com/BroadbentT/BIN-MASTER | 0 | 0| 
+| 20210405T12:35:11Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9225 | 1492| 
+| 20210405T12:29:31Z | Random scripts and exploits I used or modified | https://github.com/0iphor13/Scripts-and-Exploits | 0 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210405T12:48:07Z | Obsidian no me pegues por eso xd | https://github.com/NKz32/LeuxBackdoor-0.6-craked- | 0 | 0| 
+| 20210405T12:02:40Z | Null | https://github.com/xpf/Backdoor-Learning-arXiv | 1 | 0| 
+| 20210405T06:54:13Z | Null | https://github.com/NullCode13/Python-Backdoors | 0 | 0| 
+| 20210405T06:36:09Z | I created this script to help make it easier for you to directly attack index.php on the website | https://github.com/penucuriCode/shell-backdoor | 1 | 1| 
 | 20210405T01:43:25Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 201 | 34| 
 | 20210404T23:10:49Z | Minecraft Server Backdoor Plugin | https://github.com/NeunXKILLER20/PluginPwn | 1 | 0| 
 | 20210404T18:59:53Z | Det her er en DEMO af TeamKineser,s Server Filer bygget op på Devo Filer (NO BACKDOOR) | https://github.com/TeamKineser/TeamKineser-DEMO-Filer | 0 | 0| 
 | 20210404T18:13:52Z | Invisible, customizable backdoor for Minecraft Spigot Plugins. | https://github.com/ThiccIndustries/Minecraft-Backdoor | 2 | 2| 
-| 20210404T16:22:46Z | Thefatrat a massive exploiting tool : Easy tool to generate backdoor and easy tool to post exploitation attack like browser attack and etc . This tool compiles a malware with popular payload and then the compiled malware can be execute on windows, android, mac . The malware that created with this tool also have an ability to bypass most AV software protection . | https://github.com/Screetsec/TheFatRat | 5109 | 1670| 
-| 20210404T13:51:45Z | Null | https://github.com/NullCode13/Python-Backdoors | 0 | 0| 
+| 20210404T16:22:46Z | Thefatrat a massive exploiting tool : Easy tool to generate backdoor and easy tool to post exploitation attack like browser attack and etc . This tool compiles a malware with popular payload and then the compiled malware can be execute on windows, android, mac . The malware that created with this tool also have an ability to bypass most AV software protection . | https://github.com/Screetsec/TheFatRat | 5109 | 1671| 
 | 20210404T12:54:46Z | Null | https://github.com/NullCode13/Python-Batch-Backdoors | 0 | 0| 
-| 20210404T12:03:58Z | Null | https://github.com/password520/backdoorppt | 0 | 0| 
-| 20210404T11:40:49Z | Null | https://github.com/password520/backdoor | 0 | 0| 
-| 20210404T09:15:11Z | Null | https://github.com/kietbuiduc2020/reserve_backdoor-listener | 0 | 0| 
 
 
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210404T12:27:58Z | CPython bytecode instrumentation and forkserver tools for fuzzing pure python and mixed python/c code using AFL | https://github.com/risicle/cpytraceafl | 15 | 2| 
-| 20210404T11:55:26Z | My end of year project_ Not done yet ! | https://github.com/Rad-hi/Fuzzy_Fire_Detection | 0 | 0| 
-| 20210404T11:48:50Z | Null | https://github.com/s9varesc/url-fuzzing-docker | 0 | 0| 
-| 20210404T11:37:10Z | Null | https://github.com/Yin-Lynn-Htun/Fuzzy-shop | 0 | 0| 
-| 20210404T10:57:50Z | PoC of fuzzing closed-source userspace binaries with KVM | https://github.com/klecko/kvm-fuzz | 1 | 0| 
-| 20210404T10:43:32Z | ### ༒︎᯾𝐀𝐍𝐆𝐑𝐘 𝐅𝐔𝐙𝐙𝐄𝐑᯾༒︎  ### ✰𝙰𝙱𝙾𝚄𝚃✰ > Tools for information gathering,Discover hidden files and directories on a web server. The application tries to find url relative paths of the given website by comparing them with a given set .  ### ✰𝙵𝙴𝙰𝚁𝚄𝚁𝙴𝚂✰  > * Fuzz url set from an input file  > * Concurrent relative path search  > * Configurable number of fuzzing workers  > * Fuzz CMS ==> Wordpress,Durpal,Joomla  > * Generate reports of the valid paths  ### 𝙸𝙽𝚂𝚃𝙰𝙻𝙻𝙰𝚃𝙸𝙾𝙽 : ``` $ apt update && apt upgrade ``` ``` $ apt install git ``` ``` $ apt install python2 ``` ``` $ apt install python ``` ``` $ git clone https://github.com/ihebski/angryFuzzer ``` ``` $ cd angryFuzzer ``` ``` $ pip2 install -r requirements.txt ``` ``` $ pip2 install requests ``` ``` $ chmod +x * ```  ### 𝚄𝚜𝚊𝚐𝚎  : ``` $ python2 angryFuzzer.py -h ``` > It shows all options of this tool  ``` $ python2 angryFuzzer.py -u http:site.com ``` > Now it starts collecting target information...  ### ⚠️ 𝙻𝙴𝙶𝙰𝙻 𝙳𝙸𝚂𝙲𝙻𝙰𝙸𝙼𝙴𝚁 ⚠️  > Usage of Angry Fuzzer for attacking targets without prior mutual consent is illegal. It%s the end user%s responsibility to obey all applicable local, state and federal laws. Developers assume no liability and are not responsible for any misuse or damage caused by this program. | https://github.com/Zack-sys/AngryFuzzer-Tools-for-information-gathering-Discover-hidden-files-and-directories-on-a-web-server. | 1 | 0| 
-| 20210404T10:36:59Z | Null | https://github.com/VeriBlock/fuzz-corpus | 0 | 1| 
-| 20210404T10:12:28Z | Software for fuzzing, used on web application pentestings. | https://github.com/NESCAU-UFLA/FuzzingTool | 46 | 6| 
-| 20210404T09:03:08Z | fuzzeREST is an open-source hard fork of Unity%s Hot-Fuzz | https://github.com/sherbie/fuzzerest | 0 | 0| 
-| 20210404T08:47:18Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6174 | 1248| 
+| 20210405T12:15:12Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 1 | 0| 
+| 20210405T12:15:10Z | Null | https://github.com/s9varesc/url-fuzzing-docker | 0 | 0| 
+| 20210405T12:13:51Z | revault_tx fuzz testing corpus | https://github.com/revault/revault_tx_corpus | 0 | 0| 
+| 20210405T12:12:19Z | fuzzy-engine | https://github.com/solveforce/fuzzy-engine | 0 | 0| 
+| 20210405T12:12:02Z | Personal website of Laurence Hughes | https://github.com/fuzzylogicxx/fuzzylogic | 4 | 1| 
+| 20210405T12:06:01Z | Null | https://github.com/s9varesc/url-fuzzing | 1 | 1| 
+| 20210405T11:36:07Z | fuzzy-meme | https://github.com/solveforce/fuzzy-meme | 1 | 0| 
+| 20210405T11:32:05Z | Null | https://github.com/VeriBlock/fuzz-corpus | 0 | 1| 
+| 20210405T11:16:14Z | fuzzeREST is an open-source hard fork of Unity%s Hot-Fuzz | https://github.com/sherbie/fuzzerest | 0 | 0| 
+| 20210405T11:15:42Z | Some sort of a social network using react js, hello from 2004 :) | https://github.com/androranogajec/fuzzy-social-network | 0 | 0| 
 
 
 
