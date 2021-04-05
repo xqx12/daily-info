@@ -45,11 +45,11 @@
 | 20210404T22:01:25Z | -------> RAFEL<------  Android Rat  Written in Java With WebPanel For Controlling Victims | https://github.com/swagkarna/Rafel-Rat | 67 | 35| 
 | 20210404T21:59:41Z | AMES is a tool to parse the new Nessus output files and autogenerate an easy to copy and paste command line exploit using Metasploit CLI | https://github.com/CiscoCXSecurity/AMES | 0 | 0| 
 | 20210404T21:56:37Z | Microbiome Analysis Powered By Recursive Quasi-species Networks: Uncovering rules of organization, competition, succession and exploitation | https://github.com/zeroknowledgediscovery/qbiome | 0 | 0| 
-| 20210404T21:35:11Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9224 | 1492| 
 | 20210404T19:42:11Z | This repository contains tools developed to hack CS:GO. | https://github.com/samdobsonDEV/csgo-exploits | 0 | 0| 
 | 20210404T19:02:15Z | Le but de ce projet est de réaliser un mécanisme d’allocation / désallocation de mémoire inspiré du fameux couple malloc() / free() de la librairie standard. La gestion de l’espace libre (par exemple suite à la suppression de structures allouées) est un aspect important du projet. Le système devra s’appuyer sur une zone mémoire allouée en début de programme. Il y a donc 4 fonctions à écrire pour pouvoir l’utiliser : /* initialisation de la zone de travail */ int initMemory(int nBytes); /* allocation dynamique d’espace dans la zone */ void* myalloc(int nBytes); /* désallocation d’une zone adressée par un pointeur */ int myfree(void* p); /* recuperation de la zone initialement reservee */ int freeMemory(); | https://github.com/tbdev99/Projet-Systeme-d-exploitation-Allocation-Dynamique | 0 | 0| 
 | 20210404T19:00:32Z | OSINT, Threat Hunting, Network and Web Recon, Discovery, Enumeration, Vulnerability Mapping, Exploitation, Reporting | https://github.com/aryanguenthner/365 | 7 | 4| 
 | 20210404T18:59:47Z | Modular penetration testing platform that enables you to write, test, and execute exploit code. | https://github.com/EntySec/HatSploit | 25 | 8| 
+| 20210404T18:47:28Z | Plugin to fix exploits and add functionality to anarchy servers | https://github.com/254nm/L2X9Core | 12 | 13| 
 
 
 # backdoor on Github 推荐
