@@ -44,21 +44,22 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20210406T01:57:31Z | CVE-2021-26855 | Null | https://github.com/shacojx/CVE-2021-26855-exploit-Exchange | Microsoft Exchange Server Remote Code Execution Vulnerability This CVE ID is unique from CVE-2021-26412, CVE-2021-26854, CVE-2021-26857, CVE-2021-26858, CVE-2021-27065, CVE-2021-27078.| 
+| 20210406T01:48:40Z | CVE-2021-21300 | Null | https://github.com/fengzhouc/CVE-2021-21300 | Git is an open-source distributed revision control system. In affected versions of Git a specially crafted repository that contains symbolic links as well as files using a clean/smudge filter such as Git LFS, may cause just-checked out script to be executed while cloning onto a case-insensitive file system such as NTFS, HFS+ or APFS (i.e. the default file systems on Windows and macOS). Note that clean/smudge filters have to be configured for that. Git for Windows configures Git LFS by default, and is therefore vulnerable. The problem has been patched in the versions published on Tuesday, March 9th, 2021. As a workaound, if symbolic link support is disabled in Git (e.g. via `git config --global core.symlinks false`), the described attack won%t work. Likewise, if no clean/smudge filters such as Git LFS are configured globally (i.e. _before_ cloning), the attack is foiled. As always, it is best to avoid cloning repositories from untrusted sources. The earliest impacted version is 2.14.2. The fix versions are: 2.30.1, 2.29.3, 2.28.1, 2.27.1, 2.26.3, 2.25.5, 2.24.4, 2.23.4, 2.22.5, 2.21.4, 2.20.5, 2.19.6, 2.18.5, 2.17.62.17.6.| 
+| 20210406T01:24:42Z | CVE-2021-21975 | Nmap script to check vulnerability CVE-2021-21975 | https://github.com/GuayoyoCyber/CVE-2021-21975 | Server Side Request Forgery in vRealize Operations Manager API (CVE-2021-21975) prior to 8.4 may allow a malicious actor with network access to the vRealize Operations Manager API can perform a Server Side Request Forgery attack to steal administrative credentials.| 
+| 20210405T19:08:26Z | CVE-2021-30109 | Froala Persistent XSS | https://github.com/Hackdwerg/CVE-2021-30109 | Froala Editor 3.2.6 is affected by Cross Site Scripting (XSS). Under certain conditions, a base64 crafted string leads to persistent Cross-site scripting (XSS) vulnerability within the hyperlink creation module.| 
+| 20210405T18:39:34Z | CVE-2021-3156 | Null | https://github.com/AlexSeniorProject/CVE-2021-3156 | Sudo before 1.9.5p2 contains an off-by-one error that can result in a heap-based buffer overflow, which allows privilege escalation to root via %sudoedit -s% and a command-line argument that ends with a single backslash character.| 
 | 20210405T10:35:01Z | CVE-2021-3156 | Exploit for Sudo heap overflow (CVE-2021-3156) on Debain 10 | https://github.com/0xdevil/CVE-2021-3156 | Sudo before 1.9.5p2 contains an off-by-one error that can result in a heap-based buffer overflow, which allows privilege escalation to root via %sudoedit -s% and a command-line argument that ends with a single backslash character.| 
-| 20210405T10:20:40Z | CVE-2021-30109 | Froala Persistent XSS | https://github.com/Hackdwerg/CVE-2021-30109 | 未查询到CVE信息| 
 | 20210405T09:36:12Z | CVE-2021-26295 | CVE-2021-26295 Apache OFBiz POC | https://github.com/ltfafei/CVE-2021-26295_Apache_OFBiz_POC | Apache OFBiz has unsafe deserialization prior to 17.12.06. An unauthenticated attacker can use this vulnerability to successfully take over Apache OFBiz.| 
 | 20210405T02:43:23Z | 未知编号 | Null | https://github.com/shacojx/CVE_2021_26855_SSRF | 未查询到CVE信息| 
-| 20210405T02:36:52Z | CVE-2021-26855 | Null | https://github.com/shacojx/CVE-2021-26855-exploit-Exchange | | 
-| 20210405T01:19:25Z | CVE-2021-21975 | Nmap script to check vulnerability CVE-2021-21975 | https://github.com/GuayoyoCyber/CVE-2021-21975 | Server Side Request Forgery in vRealize Operations Manager API (CVE-2021-21975) prior to 8.4 may allow a malicious actor with network access to the vRealize Operations Manager API can perform a Server Side Request Forgery attack to steal administrative credentials.| 
 | 20210404T17:29:51Z | CVE-2021-22986 | CVE-2021-22986 & F5 BIG-IP RCE | https://github.com/Al1ex/CVE-2021-22986 | On BIG-IP versions 16.0.x before 16.0.1.1, 15.1.x before 15.1.2.1, 14.1.x before 14.1.4, 13.1.x before 13.1.3.6, and 12.1.x before 12.1.5.3 amd BIG-IQ 7.1.0.x before 7.1.0.3 and 7.0.0.x before 7.0.0.2, the iControl REST interface has an unauthenticated remote command execution vulnerability. Note: Software versions which have reached End of Software Development (EoSD) are not evaluated.| 
 | 20210404T15:15:32Z | CVE-2021-3156 | Null | https://github.com/dock0d1/CVE-2021-3156 | Sudo before 1.9.5p2 contains an off-by-one error that can result in a heap-based buffer overflow, which allows privilege escalation to root via %sudoedit -s% and a command-line argument that ends with a single backslash character.| 
-| 20210404T07:56:06Z | CVE-2020-21224 | 浪潮ClusterEngineV4.0 远程命令执行漏洞扫描脚本。 | https://github.com/MzzdToT/CVE-2020-21224 | A Remote Code Execution vulnerability has been found in Inspur ClusterEngine V4.0. A remote attacker can send a malicious login packet to the control server| 
-| 20210404T02:56:12Z | cve-2020-1337 | Null | https://github.com/password520/cve-2020-1337-poc | An elevation of privilege vulnerability exists when the Windows Print Spooler service improperly allows arbitrary writing to the file system, aka %Windows Print Spooler Elevation of Privilege Vulnerability%.| 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210405T19:32:51Z | Website for the KLEE project: https://klee.github.io/ | https://github.com/klee/klee.github.io | 14 | 43| 
 | 20210404T11:10:53Z | Git Blog | https://github.com/klee30810/klee30810.github.io | 0 | 0| 
 | 20210404T04:27:55Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 的 Klee One 的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 378 | 9| 
 | 20210404T03:49:15Z | Create CFGs and compute complexity metrics for Python, C++, and Java code. | https://github.com/hmc-alpaqa/metrinome | 7 | 0| 
@@ -68,7 +69,6 @@
 | 20210402T17:02:49Z | Personal Blog | https://github.com/klee1611/klee1611.github.io | 0 | 0| 
 | 20210402T12:45:42Z | A personnal UI library made as an excuse to have a published UI package | https://github.com/Liinkiing/klee | 6 | 1| 
 | 20210401T14:21:03Z | Readable String Sanitizer | https://github.com/schemenauero/kleen-js | 0 | 0| 
-| 20210401T10:43:57Z | KLEE in the browser | https://github.com/klee/klee-web | 45 | 12| 
 
 
 # s2e on Github 推荐
@@ -80,46 +80,46 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210405T12:56:30Z | Null | https://github.com/THECyb0rgLab/Exploit-Development | 0 | 0| 
-| 20210405T12:55:06Z | Null | https://github.com/r4j0x00/exploits | 426 | 100| 
-| 20210405T12:50:39Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 12 | 8| 
-| 20210405T12:50:23Z | Herramienta para usar The Browser Exploitation Framework fuera de LAN, con diferentes opciones para hacking | https://github.com/tony23x/beef-for-cerberus | 0 | 0| 
-| 20210405T12:49:08Z | JUlia Moon Phase (JuMP) is a Julia script that calculates the moon phase in a given date from the user. It exploits the module %mphase% in the library AstroLib. | https://github.com/robertobastone/JuMP | 0 | 0| 
-| 20210405T12:45:48Z | CDK is an open-sourced container penetration toolkit, offering stable exploitation in different slimmed containers without any OS dependency. It comes with penetration tools and many powerful PoCs/EXPs helps you to escape container and takeover K8s cluster easily. | https://github.com/cdk-team/CDK | 1302 | 183| 
-| 20210405T12:45:17Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 16 | 7| 
-| 20210405T12:35:14Z | A python script file to forensically investigate and analyse binary files for buffer overflow exploits. | https://github.com/BroadbentT/BIN-MASTER | 0 | 0| 
-| 20210405T12:35:11Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9225 | 1492| 
-| 20210405T12:29:31Z | Random scripts and exploits I used or modified | https://github.com/0iphor13/Scripts-and-Exploits | 0 | 0| 
+| 20210406T01:56:57Z | windows and linux streams for post exploitation | https://github.com/kymb0/post_exploitation | 1 | 0| 
+| 20210406T01:56:13Z | Vulmap 是一款 web 漏洞扫描和验证工具, 可对 webapps 进行漏洞扫描, 并且具备漏洞利用功能 | https://github.com/zhzyker/vulmap | 1167 | 207| 
+| 20210406T01:39:07Z | Null | https://github.com/sheenieboy/ExploiterChat | 1 | 0| 
+| 20210406T01:35:54Z | Exploit for CVE-2012-2982 | https://github.com/Ari-Weinberg/CVE-2012-2982 | 0 | 0| 
+| 20210406T01:24:39Z | Null | https://github.com/tnomelly/exploits | 0 | 0| 
+| 20210406T01:22:42Z | TPLINK TL-WR840N Exploit  | https://github.com/theace1/tl-wr840PoC | 1 | 0| 
+| 20210406T01:02:27Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 20 | 8| 
+| 20210406T00:51:40Z | Null | https://github.com/ayooo-glizzy/Exploit-Tools | 0 | 0| 
+| 20210406T00:50:39Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 12 | 8| 
+| 20210406T00:39:39Z | Repositório dedicado a informações gerais. Com um foco especial a resolução de bugs e exploits públicos dentro do servidor. | https://github.com/ZombieRage/public | 0 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210406T00:26:30Z | [Disclaimer FireROOT] This repository is for research purposes only, the use of this code is your responsibility. CONTACT ME: Attack@fireRootHacker.Ga | https://github.com/facenano/fireroothacker | 1 | 1| 
+| 20210406T00:13:50Z | Arsnick is a Python IRC Bot/Backdoor written in Python | https://github.com/netzwerk/Arsnick | 0 | 0| 
+| 20210406T00:04:39Z | hidden Backdoor in Python | https://github.com/ilovehcking/Backdoor_JUSTIN | 1 | 0| 
+| 20210405T20:04:59Z | Null | https://github.com/Delle9999/backdoor | 0 | 0| 
+| 20210405T18:38:15Z | Null | https://github.com/UMBCvision/ssl-backdoor | 0 | 0| 
+| 20210405T18:30:39Z | Minecraft Server Backdoor Plugin | https://github.com/NeunXKILLER20/PluginPwn | 1 | 0| 
+| 20210405T16:13:20Z | Null | https://github.com/Omega33c/backdoor | 0 | 0| 
+| 20210405T15:57:02Z | Hidden backdoor attack on NMT | https://github.com/chichidd/HiddenBackdoorNMT | 0 | 0| 
+| 20210405T15:52:02Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 201 | 34| 
 | 20210405T12:48:07Z | Obsidian no me pegues por eso xd | https://github.com/NKz32/LeuxBackdoor-0.6-craked- | 0 | 0| 
-| 20210405T12:02:40Z | Null | https://github.com/xpf/Backdoor-Learning-arXiv | 1 | 0| 
-| 20210405T06:54:13Z | Null | https://github.com/NullCode13/Python-Backdoors | 0 | 0| 
-| 20210405T06:36:09Z | I created this script to help make it easier for you to directly attack index.php on the website | https://github.com/penucuriCode/shell-backdoor | 1 | 1| 
-| 20210405T01:43:25Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 201 | 34| 
-| 20210404T23:10:49Z | Minecraft Server Backdoor Plugin | https://github.com/NeunXKILLER20/PluginPwn | 1 | 0| 
-| 20210404T18:59:53Z | Det her er en DEMO af TeamKineser,s Server Filer bygget op på Devo Filer (NO BACKDOOR) | https://github.com/TeamKineser/TeamKineser-DEMO-Filer | 0 | 0| 
-| 20210404T18:13:52Z | Invisible, customizable backdoor for Minecraft Spigot Plugins. | https://github.com/ThiccIndustries/Minecraft-Backdoor | 2 | 2| 
-| 20210404T16:22:46Z | Thefatrat a massive exploiting tool : Easy tool to generate backdoor and easy tool to post exploitation attack like browser attack and etc . This tool compiles a malware with popular payload and then the compiled malware can be execute on windows, android, mac . The malware that created with this tool also have an ability to bypass most AV software protection . | https://github.com/Screetsec/TheFatRat | 5109 | 1671| 
-| 20210404T12:54:46Z | Null | https://github.com/NullCode13/Python-Batch-Backdoors | 0 | 0| 
 
 
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210405T12:15:12Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 1 | 0| 
-| 20210405T12:15:10Z | Null | https://github.com/s9varesc/url-fuzzing-docker | 0 | 0| 
-| 20210405T12:13:51Z | revault_tx fuzz testing corpus | https://github.com/revault/revault_tx_corpus | 0 | 0| 
-| 20210405T12:12:19Z | fuzzy-engine | https://github.com/solveforce/fuzzy-engine | 0 | 0| 
-| 20210405T12:12:02Z | Personal website of Laurence Hughes | https://github.com/fuzzylogicxx/fuzzylogic | 4 | 1| 
-| 20210405T12:06:01Z | Null | https://github.com/s9varesc/url-fuzzing | 1 | 1| 
-| 20210405T11:36:07Z | fuzzy-meme | https://github.com/solveforce/fuzzy-meme | 1 | 0| 
-| 20210405T11:32:05Z | Null | https://github.com/VeriBlock/fuzz-corpus | 0 | 1| 
-| 20210405T11:16:14Z | fuzzeREST is an open-source hard fork of Unity%s Hot-Fuzz | https://github.com/sherbie/fuzzerest | 0 | 0| 
-| 20210405T11:15:42Z | Some sort of a social network using react js, hello from 2004 :) | https://github.com/androranogajec/fuzzy-social-network | 0 | 0| 
+| 20210406T01:27:12Z | Generator of random circuits | https://github.com/drom/circt-fuzzer | 1 | 0| 
+| 20210406T00:53:03Z | RESTler is the first stateful REST API fuzzing tool for automatically testing cloud services through their REST APIs and finding security and reliability bugs in these services. | https://github.com/microsoft/restler-fuzzer | 739 | 75| 
+| 20210406T00:44:22Z | Software for fuzzing, used on web application pentestings. | https://github.com/NESCAU-UFLA/FuzzingTool | 48 | 8| 
+| 20210406T00:37:42Z | Fuzzy matching for Neovim | https://github.com/amirrezaask/fuzzy.nvim | 23 | 1| 
+| 20210406T00:29:38Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2305 | 123| 
+| 20210406T00:15:32Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6179 | 1248| 
+| 20210406T00:09:33Z | A Fuzzer implementation in Rust following the guidelines exposed in https://www.fuzzingbook.org/. | https://github.com/fuzzing-unb/Ruszzer | 0 | 0| 
+| 20210406T00:07:29Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 1 | 0| 
+| 20210405T23:39:07Z | Fuzzing cryptographic libraries. Magic bug printer go brrrr. | https://github.com/guidovranken/cryptofuzz | 271 | 37| 
+| 20210405T23:22:43Z | The Official Fuzzy Britches Repository. | https://github.com/ThePapaw/fuzzybritches | 0 | 0| 
 
 
 
