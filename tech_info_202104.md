@@ -6,6 +6,17 @@
 # 玄武实验室 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20210407 | AOSP 现在支持 Rust 开发，以解决 C 和 C++ 开发带来的内存安全错误。 | https://security.googleblog.com/2021/04/rust-in-android-platform.html?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+GoogleOnlineSecurityBlog+%28Google+Online+Security+Blog%29| 
+| 20210407 | 如何绕过 Cloudflare, Incapsula, SUCURI 和其它的 WAF。 | https://miloserdov.org/?p=2960| 
+| 20210407 | OAuth2 和 OpenID 的安全问题研究。 | https://www.notion.so/1-Hidden-OAuth-attack-vectors-d5a01415c8594118bc019c53a71f9082| 
+| 20210407 | Terminal 中间人的实现。 | https://posts.specterops.io/man-in-the-terminal-65476e6165b9?gi=dc8b85487037| 
+| 20210407 | Justin Warner：Using Kaitai to Parse Cobalt Strike Beacon Configs | https://sixdub.medium.com/using-kaitai-to-parse-cobalt-strike-beacon-configs-f5f0552d5a6e| 
+| 20210407 | BleedingTooth：Linux 系统中蓝牙模块的零交互漏洞。允许未经身份验证的远程攻击者在具有漏洞的设备上执行具有 kernel privileges 权限的任意代码。 | https://google.github.io/security-research/pocs/linux/bleedingtooth/writeup| 
+| 20210407 | 如何使用 Radare2 静态分析恶意软件。 | https://www.blueteamsacademy.com/radare2/| 
+| 20210407 | Firefox 使用 ThreadSanitizer 来缓解 Data Races。 | https://hacks.mozilla.org/2021/04/eliminating-data-races-in-firefox-a-technical-report/| 
+| 20210407 | Pwn2Own 2021 的日程表。 | https://www.zerodayinitiative.com/blog/2021/4/2/pwn2own-2021-schedule-and-live-results| 
+| 20210407 | Priv2Admin：在 Windows 中利用漏洞提权。 | https://sec.today/pulses/6dfd8925-9bf7-4c7c-8ba2-583f3171ffd0/| 
+| 20210407 | 【图片】有关 Windows privileges 的备忘录。 | https://sec.today/pulses/b6d22f58-5a27-40d6-80e4-b9407864b12f/| 
 | 20210406 | 有关漏洞挖掘时需要做的工作的教程。 | https://github.com/KathanP19/HowToHunt| 
 | 20210406 | 有关渗透等的 Hack 技术分享。 | https://book.hacktricks.xyz/| 
 | 20210406 | 什么是有效的电子邮件地址？关于 RFC5321 4.1.2节定义的分析。 | http://www.netmeister.org/blog/email.html| 
@@ -15,47 +26,36 @@
 | 20210406 | 基于 Rust 编写 Windows 内核驱动程序。 | https://not-matthias.github.io/kernel-driver-with-rust/| 
 | 20210406 | AFINE：总结当前的 Java 反序列化的测试和利用方法。 | https://afinepl.medium.com/testing-and-exploiting-java-deserialization-in-2021-e762f3e43ca2| 
 | 20210406 | CVE-2019-8761：由于 macOS 的默认文本编辑软件 TextEdit 解析 txt 文本中 HTML 标签，可以被利用泄漏文件或产生其它安全问题。 | https://www.paulosyibelo.com/2021/04/this-man-thought-opening-txt-file-is.html| 
-| 20210406 | 基于上下文模糊测试和动态分析的XSS漏洞自动检测。 | https://sec.today/pulses/a74b6e7a-1a10-4f25-8a26-fe071d72d08f/| 
-| 20210406 | PageBuster：静默转储 Linux 进程中所有可执行页面的工具。 | https://sec.today/pulses/9bfed75c-958c-4455-be5d-f068fbebb04e/| 
-| 20210406 | John Hammond：一个基于 PowerShell 的 Payload 分析。 | https://sec.today/pulses/c37dba1f-57d5-44c9-bf74-407e6df1c174/| 
-| 20210406 | Solar：对于 Solidity 智能合约开发语言的交互式静态分析框架。 | https://sec.today/pulses/ab70893d-a866-465f-87aa-7fc49bc1cb3f/| 
-| 20210406 | PageBuster：静默转储 Linux 进程中所有可执行页面的工具。 | https://rev.ng/blog/pagebuster/post.html| 
-| 20210406 | John Hammond：一个基于 PowerShell 的 Payload 分析。 | http://threatpost.com/powershell-payload-analysis-malware/165188/| 
-| 20210406 | Solar：对于 Solidity 智能合约开发语言的交互式静态分析框架。 | https://blog.trailofbits.com/2021/04/02/solar-context-free-interactive-analysis-for-solidity/| 
-| 20210406 | 基于上下文模糊测试和动态分析的XSS漏洞自动检测。 | http://repositum.tuwien.at/bitstream/20.500.12708/7741/2/Automated%20XSS%20vulnerability%20detection%20through%20context%20aware%20fuzzing%20and%20dynamic%20analysis.pdf| 
-| 20210406 | NVISO Labs：React Native 生物识别库的安全分析。 | https://blog.nviso.eu/2021/04/06/a-closer-look-at-the-security-of-react-native-biometric-libraries/| 
-| 20210406 | 自动执行web缓存中毒漏洞分析。 | https://blog.melbadry9.xyz/fuzzing/nuclei-cache-poisoning| 
-| 20210406 | 网络安全研究人员近期发现朝鲜黑客再次利用网络虚假账号欺骗网络安全领域的用户分析报道。 | https://gbhackers.com/north-korean-hackers-use-exploits-to-plant-malware-on-researchers-computers/| 
 
 
 # 安全维基 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20210407 | HIDS-Agent开发之检测反弹shell | https://www.anquanke.com/post/id/235717| 
+| 20210407 | IDA 辅助工具Karta——二进制文件中搜索开源代码 | https://www.anquanke.com/post/id/235632| 
+| 20210407 | ELK在渗透测试中的利用与安全配置解析 | https://xz.aliyun.com/t/9370| 
+| 20210407 | 内网渗透--对不出网目标的打法 | https://xz.aliyun.com/t/9372| 
+| 20210407 | 某VPN客户端远程下载文件执行挖掘 | https://mp.weixin.qq.com/s/XbsxziIFKx8VhGd-pv0Ghg| 
+| 20210407 | Shiro-550反序列化漏洞分析 | https://www.sec-in.com/article/999| 
 | 20210406 | 俄罗斯网络空间攻击特点与模式 | https://mp.weixin.qq.com/s/oMy1EDOYPT82ec5QEdiIVA| 
 | 20210406 | Dragos《2020年度工控网络安全回顾》 | https://mp.weixin.qq.com/s/ceASNJrgKkqgzlCnxNps7Q| 
 | 20210406 | 驱动病毒那些事（完结）----劫持 | https://www.sec-in.com/article/997| 
 | 20210406 | As-Exploits-部分后渗透模块 | https://mp.weixin.qq.com/s/8G0il9gIkubI1w15gOBX6A| 
-| 20210405 | GAN的前世今生 | https://mp.weixin.qq.com/s/CGngRxjVtOKHNsTrXBiD7w| 
-| 20210405 | 硬件安全技术研究 | https://mp.weixin.qq.com/s/YuYmMryfgFi0XqD96WelHg| 
-| 20210405 | SecWiki周刊（第370期) | https://www.sec-wiki.com/weekly/370| 
-| 20210404 | 技术分享 , Git-RCE：CVE-2021-21300 | https://mp.weixin.qq.com/s/VO2dHNVbPcpZQtnBRMNNag| 
-| 20210403 | 网络空间资产测绘(CAM)能力指南 | https://mp.weixin.qq.com/s/p3LwmZq7nrGOy5qy7p9SDQ| 
-| 20210403 | 安全是一门语言的艺术：威胁调查分析语言概述 | https://mp.weixin.qq.com/s/U8E4JxMDeL5IeVGAh9fuiQ| 
 
 
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20210406T22:48:44Z | 未知编号 | Null | https://github.com/jessica0f0116/cve_2021_1732 | 未查询到CVE信息| 
+| 20210407T11:25:28Z | CVE-2020-14882 | Null | https://github.com/nice0e3/CVE-2020-14882_Exploit_Gui | Vulnerability in the Oracle WebLogic Server product of Oracle Fusion Middleware (component: Console). Supported versions that are affected are 10.3.6.0.0, 12.1.3.0.0, 12.2.1.3.0, 12.2.1.4.0 and 14.1.1.0.0. Easily exploitable vulnerability allows unauthenticated attacker with network access via HTTP to compromise Oracle WebLogic Server. Successful attacks of this vulnerability can result in takeover of Oracle WebLogic Server. CVSS 3.1 Base Score 9.8 (Confidentiality, Integrity and Availability impacts). CVSS Vector: (CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H).| 
+| 20210407T10:37:30Z | CVE-2021-22192 | CVE-2021-22192 靶场： 未授权用户 RCE 漏洞 | https://github.com/lyy289065406/CVE-2021-22192 | An issue has been discovered in GitLab CE/EE affecting all versions starting from 13.2 allowing unauthorized authenticated users to execute arbitrary code on the server.| 
+| 20210407T09:46:02Z | CVE-2021-21300 | Null | https://github.com/danshuizhangyu/CVE-2021-21300 | Git is an open-source distributed revision control system. In affected versions of Git a specially crafted repository that contains symbolic links as well as files using a clean/smudge filter such as Git LFS, may cause just-checked out script to be executed while cloning onto a case-insensitive file system such as NTFS, HFS+ or APFS (i.e. the default file systems on Windows and macOS). Note that clean/smudge filters have to be configured for that. Git for Windows configures Git LFS by default, and is therefore vulnerable. The problem has been patched in the versions published on Tuesday, March 9th, 2021. As a workaound, if symbolic link support is disabled in Git (e.g. via `git config --global core.symlinks false`), the described attack won%t work. Likewise, if no clean/smudge filters such as Git LFS are configured globally (i.e. _before_ cloning), the attack is foiled. As always, it is best to avoid cloning repositories from untrusted sources. The earliest impacted version is 2.14.2. The fix versions are: 2.30.1, 2.29.3, 2.28.1, 2.27.1, 2.26.3, 2.25.5, 2.24.4, 2.23.4, 2.22.5, 2.21.4, 2.20.5, 2.19.6, 2.18.5, 2.17.62.17.6.| 
+| 20210407T03:02:12Z | 未知编号 | Null | https://github.com/jessica0f0116/cve_2021_1732 | 未查询到CVE信息| 
 | 20210406T16:17:13Z | CVE-2021-30149 | RCE 0day (Orion Hridoy) | https://github.com/orionhridoy/CVE-2021-30149 | Composr 10.0.36 allows upload and execution of PHP files.| 
 | 20210406T16:15:58Z | CVE-2021-21972 | [CVE-2021-21972] VMware vSphere Client Unauthorized File Upload to Remote Code Execution (RCE) | https://github.com/murataydemir/CVE-2021-21972 | The vSphere Client (HTML5) contains a remote code execution vulnerability in a vCenter Server plugin. A malicious actor with network access to port 443 may exploit this issue to execute commands with unrestricted privileges on the underlying operating system that hosts vCenter Server. This affects VMware vCenter Server (7.x before 7.0 U1c, 6.7 before 6.7 U3l and 6.5 before 6.5 U3n) and VMware Cloud Foundation (4.x before 4.2 and 3.x before 3.10.1.2).| 
 | 20210406T16:15:26Z | CVE-2021-30150 | XSS Discovered By: Orion Hridoy | https://github.com/orionhridoy/CVE-2021-30150 | Composr 10.0.36 allows XSS in an XML script.| 
-| 20210406T10:44:28Z | CVE-2021-30109 | Froala Persistent XSS | https://github.com/Hackdwerg/CVE-2021-30109 | | 
+| 20210406T10:44:28Z | CVE-2021-30109 | Froala Persistent XSS | https://github.com/Hackdwerg/CVE-2021-30109 | Froala Editor 3.2.6 is affected by Cross Site Scripting (XSS). Under certain conditions, a base64 crafted string leads to persistent Cross-site scripting (XSS) vulnerability within the hyperlink creation module.| 
 | 20210406T10:26:41Z | CVE-2021-22986 | CVE-2021-22986 & F5 BIG-IP RCE | https://github.com/Al1ex/CVE-2021-22986 | On BIG-IP versions 16.0.x before 16.0.1.1, 15.1.x before 15.1.2.1, 14.1.x before 14.1.4, 13.1.x before 13.1.3.6, and 12.1.x before 12.1.5.3 amd BIG-IQ 7.1.0.x before 7.1.0.3 and 7.0.0.x before 7.0.0.2, the iControl REST interface has an unauthenticated remote command execution vulnerability. Note: Software versions which have reached End of Software Development (EoSD) are not evaluated.| 
 | 20210406T09:29:49Z | CVE-2021-30146 | Seafile 7.0.5 Persistent XSS | https://github.com/Security-AVS/CVE-2021-30146 | Seafile 7.0.5 (2019) allows Persistent XSS via the %share of library functionality.%| 
-| 20210406T09:17:43Z | CVE-2021-3297 | Null | https://github.com/Sec504/Zyxel-NBG2105-CVE-2021-3297 | On Zyxel NBG2105 V1.00(AAGU.2)C0 devices, setting the login cookie to 1 provides administrator access.| 
-| 20210406T08:21:28Z | CVE-2021-3156 | Exploit for Sudo heap overflow (CVE-2021-3156) on Debain 10 | https://github.com/0xdevil/CVE-2021-3156 | Sudo before 1.9.5p2 contains an off-by-one error that can result in a heap-based buffer overflow, which allows privilege escalation to root via %sudoedit -s% and a command-line argument that ends with a single backslash character.| 
-| 20210406T02:14:31Z | CVE-2021-21300 | Null | https://github.com/fengzhouc/CVE-2021-21300 | Git is an open-source distributed revision control system. In affected versions of Git a specially crafted repository that contains symbolic links as well as files using a clean/smudge filter such as Git LFS, may cause just-checked out script to be executed while cloning onto a case-insensitive file system such as NTFS, HFS+ or APFS (i.e. the default file systems on Windows and macOS). Note that clean/smudge filters have to be configured for that. Git for Windows configures Git LFS by default, and is therefore vulnerable. The problem has been patched in the versions published on Tuesday, March 9th, 2021. As a workaound, if symbolic link support is disabled in Git (e.g. via `git config --global core.symlinks false`), the described attack won%t work. Likewise, if no clean/smudge filters such as Git LFS are configured globally (i.e. _before_ cloning), the attack is foiled. As always, it is best to avoid cloning repositories from untrusted sources. The earliest impacted version is 2.14.2. The fix versions are: 2.30.1, 2.29.3, 2.28.1, 2.27.1, 2.26.3, 2.25.5, 2.24.4, 2.23.4, 2.22.5, 2.21.4, 2.20.5, 2.19.6, 2.18.5, 2.17.62.17.6.| 
 
 
 # klee on Github 推荐
@@ -82,16 +82,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210407T01:54:56Z | lab_tool is a system that allows you to do ethical hacking tests. | https://github.com/dylan14567/lab_tool | 1 | 2| 
-| 20210407T01:54:19Z | Exploit. In development. | https://github.com/grittif1er/ox1dizer | 0 | 0| 
-| 20210407T01:40:13Z | Fix exploits on anarchy minecraft servers | https://github.com/moom0o/AnarchyExploitFixes | 21 | 7| 
-| 20210407T01:37:45Z | Null | https://github.com/r4j0x00/exploits | 529 | 121| 
-| 20210407T01:23:43Z | Null | https://github.com/thecasual/exploits | 0 | 0| 
-| 20210407T01:02:37Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 21 | 8| 
-| 20210407T00:50:41Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 12 | 8| 
-| 20210407T00:45:29Z | DVR Cameras automated exploit by python | https://github.com/Quzziy/DVR-CamKatana | 0 | 0| 
-| 20210407T00:45:29Z | DVR Cameras automated exploit by python | https://github.com/m1zuk1g3/DVR-CamKatana | 0 | 0| 
-| 20210407T00:38:45Z | Codiad 2.8.4 - Remote Code Execution (Authenticated)  | https://github.com/dock0d1/Codiad-2.8.4-EXPLOIT-RCE | 0 | 0| 
+| 20210407T12:01:05Z | weblogic full vulnerability exploit tool, support T3/XMLDecoder vulnerability scanning . | https://github.com/DesaiParekh/weblogic_cmd_plus | 4 | 2| 
+| 20210407T12:00:47Z | anon-exploiter.github.io | https://github.com/Anon-Exploiter/anon-exploiter.github.io | 0 | 0| 
+| 20210407T11:59:07Z | xcube is a Python package for generating and exploiting data cubes powered by xarray, dask, and zarr. | https://github.com/dcs4cop/xcube | 72 | 13| 
+| 20210407T11:54:28Z | A highly scalable autonomous DNS hijacking exploitation server based on dnsmasq and iptables  | https://github.com/BenChaliah/PoseidonDNS | 11 | 5| 
+| 20210407T11:34:44Z |  Dell OpenManage Server Administrator 9.4.0.0 - Arbitrary File Read | https://github.com/dock0d1/Exploit-Dell-OpenManage-Server-Administrator-9.4.0.0 | 0 | 0| 
+| 20210407T11:25:28Z | Null | https://github.com/nice0e3/CVE-2020-14882_Exploit_Gui | 5 | 0| 
+| 20210407T11:24:38Z | Guardiran Exploit Database or GuExDb | https://github.com/msa-dom/exploit-db.ga | 0 | 0| 
+| 20210407T11:08:15Z | Forestry Thematic Exploitation Platform | https://github.com/cgi-eoss/ftep | 5 | 0| 
+| 20210407T11:02:33Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 21 | 8| 
+| 20210407T09:48:20Z | Scripts for private exploit | https://github.com/ubimumu/scripts | 0 | 0| 
 
 
 # backdoor on Github 推荐
