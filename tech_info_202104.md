@@ -52,10 +52,10 @@
 | 20210407T03:02:12Z | 未知编号 | Null | https://github.com/jessica0f0116/cve_2021_1732 | 未查询到CVE信息| 
 | 20210406T16:17:13Z | CVE-2021-30149 | RCE 0day (Orion Hridoy) | https://github.com/orionhridoy/CVE-2021-30149 | Composr 10.0.36 allows upload and execution of PHP files.| 
 | 20210406T16:15:58Z | CVE-2021-21972 | [CVE-2021-21972] VMware vSphere Client Unauthorized File Upload to Remote Code Execution (RCE) | https://github.com/murataydemir/CVE-2021-21972 | The vSphere Client (HTML5) contains a remote code execution vulnerability in a vCenter Server plugin. A malicious actor with network access to port 443 may exploit this issue to execute commands with unrestricted privileges on the underlying operating system that hosts vCenter Server. This affects VMware vCenter Server (7.x before 7.0 U1c, 6.7 before 6.7 U3l and 6.5 before 6.5 U3n) and VMware Cloud Foundation (4.x before 4.2 and 3.x before 3.10.1.2).| 
-| 20210406T16:15:26Z | CVE-2021-30150 | XSS Discovered By: Orion Hridoy | https://github.com/orionhridoy/CVE-2021-30150 | Composr 10.0.36 allows XSS in an XML script.| 
-| 20210406T10:44:28Z | CVE-2021-30109 | Froala Persistent XSS | https://github.com/Hackdwerg/CVE-2021-30109 | Froala Editor 3.2.6 is affected by Cross Site Scripting (XSS). Under certain conditions, a base64 crafted string leads to persistent Cross-site scripting (XSS) vulnerability within the hyperlink creation module.| 
+| 20210406T16:15:26Z | CVE-2021-30150 | XSS Discovered By: Orion Hridoy | https://github.com/orionhridoy/CVE-2021-30150 | 未查询到CVE信息| 
+| 20210406T10:44:28Z | CVE-2021-30109 | Froala Persistent XSS | https://github.com/Hackdwerg/CVE-2021-30109 | | 
 | 20210406T10:26:41Z | CVE-2021-22986 | CVE-2021-22986 & F5 BIG-IP RCE | https://github.com/Al1ex/CVE-2021-22986 | On BIG-IP versions 16.0.x before 16.0.1.1, 15.1.x before 15.1.2.1, 14.1.x before 14.1.4, 13.1.x before 13.1.3.6, and 12.1.x before 12.1.5.3 amd BIG-IQ 7.1.0.x before 7.1.0.3 and 7.0.0.x before 7.0.0.2, the iControl REST interface has an unauthenticated remote command execution vulnerability. Note: Software versions which have reached End of Software Development (EoSD) are not evaluated.| 
-| 20210406T09:29:49Z | CVE-2021-30146 | Seafile 7.0.5 Persistent XSS | https://github.com/Security-AVS/CVE-2021-30146 | Seafile 7.0.5 (2019) allows Persistent XSS via the %share of library functionality.%| 
+| 20210406T09:29:49Z | CVE-2021-30146 | Seafile 7.0.5 Persistent XSS | https://github.com/Security-AVS/CVE-2021-30146 | 未查询到CVE信息| 
 
 
 # klee on Github 推荐
@@ -112,6 +112,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210407T12:18:45Z | A mutation-based fuzzing engine for MQTT brokers. | https://github.com/PBearson/MosquittoByte | 0 | 0| 
 | 20210407T12:16:17Z | Null | https://github.com/FDU-Program-Analysis/chunk-fuzzer-pass | 0 | 0| 
 | 20210407T12:15:15Z | Functions to extract drug records from the FAERS (FDA Adverse Event Reporting System) database | https://github.com/tystan/fuzzyfaers | 0 | 0| 
 | 20210407T12:15:12Z | This is a Fuzzer library built in JS and nodeJS | https://github.com/fuzzing-unb/FuzzerJS | 0 | 0| 
@@ -121,7 +122,6 @@
 | 20210407T11:54:32Z | Studies on Fuzzy Inference developed under my masters degree. | https://github.com/renatolm/fuzzy-inference | 0 | 0| 
 | 20210407T11:48:03Z | Write unit and fuzz tests for Elm code. | https://github.com/elm-explorations/test | 195 | 29| 
 | 20210407T11:42:58Z | Null | https://github.com/s9varesc/url-fuzzing-docker | 0 | 0| 
-| 20210407T11:19:32Z | Fuzzing with the generated argument | https://github.com/zodf0055980/Yuan-fuzz | 14 | 2| 
 
 
 

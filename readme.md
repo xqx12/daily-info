@@ -83,6 +83,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210407T12:18:45Z | A mutation-based fuzzing engine for MQTT brokers. | https://github.com/PBearson/MosquittoByte | 0 | 0| 
 | 20210407T12:16:17Z | Null | https://github.com/FDU-Program-Analysis/chunk-fuzzer-pass | 0 | 0| 
 | 20210407T12:15:15Z | Functions to extract drug records from the FAERS (FDA Adverse Event Reporting System) database | https://github.com/tystan/fuzzyfaers | 0 | 0| 
 | 20210407T12:15:12Z | This is a Fuzzer library built in JS and nodeJS | https://github.com/fuzzing-unb/FuzzerJS | 0 | 0| 
@@ -92,7 +93,6 @@
 | 20210407T11:54:32Z | Studies on Fuzzy Inference developed under my masters degree. | https://github.com/renatolm/fuzzy-inference | 0 | 0| 
 | 20210407T11:48:03Z | Write unit and fuzz tests for Elm code. | https://github.com/elm-explorations/test | 195 | 29| 
 | 20210407T11:42:58Z | Null | https://github.com/s9varesc/url-fuzzing-docker | 0 | 0| 
-| 20210407T11:19:32Z | Fuzzing with the generated argument | https://github.com/zodf0055980/Yuan-fuzz | 14 | 2| 
 
 
 
