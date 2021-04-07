@@ -50,7 +50,7 @@
 | 20210406T16:17:13Z | CVE-2021-30149 | RCE 0day (Orion Hridoy) | https://github.com/orionhridoy/CVE-2021-30149 | Composr 10.0.36 allows upload and execution of PHP files.| 
 | 20210406T16:15:58Z | CVE-2021-21972 | [CVE-2021-21972] VMware vSphere Client Unauthorized File Upload to Remote Code Execution (RCE) | https://github.com/murataydemir/CVE-2021-21972 | The vSphere Client (HTML5) contains a remote code execution vulnerability in a vCenter Server plugin. A malicious actor with network access to port 443 may exploit this issue to execute commands with unrestricted privileges on the underlying operating system that hosts vCenter Server. This affects VMware vCenter Server (7.x before 7.0 U1c, 6.7 before 6.7 U3l and 6.5 before 6.5 U3n) and VMware Cloud Foundation (4.x before 4.2 and 3.x before 3.10.1.2).| 
 | 20210406T16:15:26Z | CVE-2021-30150 | XSS Discovered By: Orion Hridoy | https://github.com/orionhridoy/CVE-2021-30150 | Composr 10.0.36 allows XSS in an XML script.| 
-| 20210406T10:44:28Z | CVE-2021-30109 | Froala Persistent XSS | https://github.com/Hackdwerg/CVE-2021-30109 | Froala Editor 3.2.6 is affected by Cross Site Scripting (XSS). Under certain conditions, a base64 crafted string leads to persistent Cross-site scripting (XSS) vulnerability within the hyperlink creation module.| 
+| 20210406T10:44:28Z | CVE-2021-30109 | Froala Persistent XSS | https://github.com/Hackdwerg/CVE-2021-30109 | | 
 | 20210406T10:26:41Z | CVE-2021-22986 | CVE-2021-22986 & F5 BIG-IP RCE | https://github.com/Al1ex/CVE-2021-22986 | On BIG-IP versions 16.0.x before 16.0.1.1, 15.1.x before 15.1.2.1, 14.1.x before 14.1.4, 13.1.x before 13.1.3.6, and 12.1.x before 12.1.5.3 amd BIG-IQ 7.1.0.x before 7.1.0.3 and 7.0.0.x before 7.0.0.2, the iControl REST interface has an unauthenticated remote command execution vulnerability. Note: Software versions which have reached End of Software Development (EoSD) are not evaluated.| 
 | 20210406T09:29:49Z | CVE-2021-30146 | Seafile 7.0.5 Persistent XSS | https://github.com/Security-AVS/CVE-2021-30146 | Seafile 7.0.5 (2019) allows Persistent XSS via the %share of library functionality.%| 
 | 20210406T09:17:43Z | CVE-2021-3297 | Null | https://github.com/Sec504/Zyxel-NBG2105-CVE-2021-3297 | On Zyxel NBG2105 V1.00(AAGU.2)C0 devices, setting the login cookie to 1 provides administrator access.| 
@@ -82,28 +82,28 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210407T01:54:56Z | lab_tool is a system that allows you to do ethical hacking tests. | https://github.com/dylan14567/lab_tool | 1 | 2| 
+| 20210407T01:54:19Z | Exploit. In development. | https://github.com/grittif1er/ox1dizer | 0 | 0| 
 | 20210407T01:40:13Z | Fix exploits on anarchy minecraft servers | https://github.com/moom0o/AnarchyExploitFixes | 21 | 7| 
 | 20210407T01:37:45Z | Null | https://github.com/r4j0x00/exploits | 529 | 121| 
-| 20210407T01:35:47Z | Exploit. In development. | https://github.com/grittif1er/ox1dizer | 0 | 0| 
 | 20210407T01:23:43Z | Null | https://github.com/thecasual/exploits | 0 | 0| 
 | 20210407T01:02:37Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 21 | 8| 
 | 20210407T00:50:41Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 12 | 8| 
 | 20210407T00:45:29Z | DVR Cameras automated exploit by python | https://github.com/Quzziy/DVR-CamKatana | 0 | 0| 
 | 20210407T00:45:29Z | DVR Cameras automated exploit by python | https://github.com/m1zuk1g3/DVR-CamKatana | 0 | 0| 
 | 20210407T00:38:45Z | Codiad 2.8.4 - Remote Code Execution (Authenticated)  | https://github.com/dock0d1/Codiad-2.8.4-EXPLOIT-RCE | 0 | 0| 
-| 20210407T00:37:14Z | OpenEMR 4.1.0 - %u% SQL Injection  | https://github.com/dock0d1/OpenEMR-EXPLOIT | 0 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210407T01:52:18Z | Windows RAT written in Java for learning purposes | https://github.com/hacefresko/JRAT | 7 | 4| 
 | 20210407T00:19:39Z | Reverse TCP trojan backdoor written in python | https://github.com/userlandkernel/Pyrovalerone | 0 | 0| 
 | 20210406T23:34:29Z | Null | https://github.com/CrimRock/backdoor | 0 | 0| 
 | 20210406T21:12:31Z | TrojanZoo provides a universal pytorch platform to conduct security researches (especially backdoor attacks/defenses) of image classification in deep learning. | https://github.com/ain-soph/trojanzoo | 56 | 10| 
 | 20210406T20:27:12Z | The Yuka Takaoka is an advanced type backdoor made by myself (Ihatestick) this version is 0.2 beta | https://github.com/Ihatestick/Yuka-Takaoka | 1 | 0| 
 | 20210406T11:57:13Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 204 | 34| 
 | 20210406T11:40:07Z | hidden Backdoor in Python | https://github.com/ilovehcking/Backdoor_JUSTIN | 0 | 0| 
-| 20210406T10:59:11Z | Windows RAT written in Java for learning purposes | https://github.com/hacefresko/JRAT | 6 | 4| 
 | 20210406T08:53:21Z | Null | https://github.com/xpf/Backdoor-Learning-arXiv | 1 | 0| 
 | 20210406T08:29:44Z | OWASP ZAP add-on containing the web-backdoors and attack files from FuzzDB | https://github.com/zaproxy/fuzzdb-offensive | 6 | 6| 
 | 20210406T07:30:06Z | Hidden backdoor attack on NMT | https://github.com/chichidd/HiddenBackdoorNMT | 0 | 0| 
