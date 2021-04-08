@@ -82,6 +82,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210408T01:10:01Z | This is a repo for the coding done for CTFs / exploits. The writeups are here: https://github.com/dillonwu-97/csec_writeups | https://github.com/dillonwu-97/csec-code | 0 | 0| 
 | 20210408T01:02:27Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 21 | 8| 
 | 20210408T00:54:50Z | Development studies of exploits development studies of exploits | https://github.com/0xdutra/exploitation-labs | 0 | 0| 
 | 20210408T00:50:41Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 12 | 8| 
@@ -91,7 +92,6 @@
 | 20210408T00:39:59Z | A general variable selection approach in the presence of missing data in both covariates and outcomes. This approach exploits the flexibility of machine learning modeling techniques and bootstrap imputation, which is amenable to nonparametric methods in which the effect sizes of predictor variables are not naturally defined as in parametric models. Six methods are considered and compared: XGBoost, Random Forests, Conditional Random Forests, Bayesian Additive Regression Trees, lasso, stepwise backward selection.  | https://github.com/liangyuanhu/Variable-selection-w-missing-data | 0 | 0| 
 | 20210408T00:38:03Z | CTFs and solutions for Linux binary exploitation. | https://github.com/MaherAzzouzi/LinuxExploitation | 9 | 5| 
 | 20210408T00:33:43Z | Sécurité des logiciels et exploitation de vulnérabilités | https://github.com/ppepos/inf600c | 4 | 0| 
-| 20210408T00:19:11Z | Hacking: The Art of Exploitation | https://github.com/vwv-prog/HTAOE | 0 | 0| 
 
 
 # backdoor on Github 推荐
