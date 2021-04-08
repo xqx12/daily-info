@@ -54,7 +54,7 @@
 | 20210408T01:18:57Z | 未知编号 | Null | https://github.com/jessica0f0116/cve_2021_1732 | 未查询到CVE信息| 
 | 20210407T15:49:11Z | CVE-2021-3165 | CVE-2021-3165: SmartAgent 3.1.0 - Privilege Escalation | https://github.com/orionhridoy/CVE-2021-3165 | SmartAgent 3.1.0 allows a ViewOnly attacker to create a SuperUser account via the /#/CampaignManager/users URI.| 
 | 20210407T15:43:45Z | CVE-2021-30150 | XSS Discovered By: Orion Hridoy | https://github.com/orionhridoy/CVE-2021-30150 | Composr 10.0.36 allows XSS in an XML script.| 
-| 20210406T16:17:13Z | CVE-2021-30149 | RCE 0day (Orion Hridoy) | https://github.com/orionhridoy/CVE-2021-30149 | | 
+| 20210406T16:17:13Z | CVE-2021-30149 | RCE 0day (Orion Hridoy) | https://github.com/orionhridoy/CVE-2021-30149 | Composr 10.0.36 allows upload and execution of PHP files.| 
 | 20210406T16:15:58Z | CVE-2021-21972 | [CVE-2021-21972] VMware vSphere Client Unauthorized File Upload to Remote Code Execution (RCE) | https://github.com/murataydemir/CVE-2021-21972 | The vSphere Client (HTML5) contains a remote code execution vulnerability in a vCenter Server plugin. A malicious actor with network access to port 443 may exploit this issue to execute commands with unrestricted privileges on the underlying operating system that hosts vCenter Server. This affects VMware vCenter Server (7.x before 7.0 U1c, 6.7 before 6.7 U3l and 6.5 before 6.5 U3n) and VMware Cloud Foundation (4.x before 4.2 and 3.x before 3.10.1.2).| 
 
 
@@ -82,6 +82,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210408T12:14:36Z | Roblox Exploit GUI lol | https://github.com/TheMinecrafter05/FaceLesS | 0 | 0| 
 | 20210408T12:13:49Z | Just a temporary website to post my ctf writeups and journey into binary exploitation/malware analysis/exploit development | https://github.com/blackbeard666/blackbeard666.github.io | 0 | 0| 
 | 20210408T12:11:38Z |  DMA Radius Manager 4.4.0 - Cross-Site Request Forgery (CSRF) | https://github.com/dock0d1/Exploit-DMA-Radius-Manager-4.4.0---Cross-Site-Request-Forgery-CSRF- | 0 | 0| 
 | 20210408T12:03:22Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 21 | 8| 
@@ -91,7 +92,6 @@
 | 20210408T10:55:14Z | Vulmap 是一款 web 漏洞扫描和验证工具, 可对 webapps 进行漏洞扫描, 并且具备漏洞验证功能 | https://github.com/zhzyker/vulmap | 1193 | 217| 
 | 20210408T10:40:40Z | Educational web application demonstrating techniques of binary exploitation - (Back-end) | https://github.com/Pen-Test3rs/binary_exploits_backend | 0 | 0| 
 | 20210408T09:58:28Z | Buffer Overflow in Seattle Lab Mail (SLmail) 5.5 - POP3 | https://github.com/SxNade/CVE-2003-0264_EXPLOIT | 0 | 0| 
-| 20210408T09:51:57Z | Repo for testing some exploits | https://github.com/RobertFent/exploits | 0 | 0| 
 
 
 # backdoor on Github 推荐
