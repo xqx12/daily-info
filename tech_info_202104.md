@@ -82,7 +82,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210408T12:24:32Z | Just a temporary website to post my ctf writeups and journey into binary exploitation/malware analysis/exploit development | https://github.com/blackbeard666/blackbeard666.github.io | 0 | 0| 
+| 20210408T12:27:23Z | Just a temporary website to post my ctf writeups and journey into binary exploitation/malware analysis/exploit development | https://github.com/blackbeard666/blackbeard666.github.io | 0 | 0| 
 | 20210408T12:20:16Z | Nagios XI 5.7.X - Remote Code Execution RCE (Authenticated) | https://github.com/dock0d1/Exploit-Nagios-XI-5.7.X---Remote-Code-Execution-RCE-Authenticated- | 0 | 0| 
 | 20210408T12:18:46Z | These exploits are made while practicing exploit development  | https://github.com/TamilHackz/i-make-exploits | 3 | 2| 
 | 20210408T12:14:36Z | Roblox Exploit GUI lol | https://github.com/TheMinecrafter05/FaceLesS | 0 | 0| 
