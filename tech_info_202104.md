@@ -82,16 +82,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210408T12:56:47Z | Just a temporary website to post my ctf writeups and journey into binary exploitation/malware analysis/exploit development | https://github.com/blackbeard666/blackbeard666.github.io | 0 | 0| 
+| 20210408T12:55:26Z | System Exploitation Fundamental | https://github.com/JiWonOck/DreamHack | 0 | 0| 
 | 20210408T12:54:15Z | Null | https://github.com/Dev-sketch23/The-Deer-God-DevelopersExploit | 0 | 0| 
 | 20210408T12:53:17Z | The exploits i made for real life applications and ctf%s :) | https://github.com/TamilHackz/i-make-exploits | 3 | 2| 
-| 20210408T12:52:12Z | Just a temporary website to post my ctf writeups and journey into binary exploitation/malware analysis/exploit development | https://github.com/blackbeard666/blackbeard666.github.io | 0 | 0| 
 | 20210408T12:50:42Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 12 | 8| 
 | 20210408T12:45:44Z | Vulmap 是一款 web 漏洞扫描和验证工具, 可对 webapps 进行漏洞扫描, 并且具备漏洞验证功能 | https://github.com/zhzyker/vulmap | 1194 | 217| 
 | 20210408T12:40:49Z | Attack and defend active directory using modern post exploitation adversary tradecraft activity | https://github.com/infosecn1nja/AD-Attack-Defense | 2754 | 720| 
 | 20210408T12:35:14Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9232 | 1492| 
 | 20210408T12:20:16Z | Nagios XI 5.7.X - Remote Code Execution RCE (Authenticated) | https://github.com/dock0d1/Exploit-Nagios-XI-5.7.X---Remote-Code-Execution-RCE-Authenticated- | 0 | 0| 
 | 20210408T12:14:36Z | Roblox Exploit GUI lol | https://github.com/TheMinecrafter05/FaceLesS | 0 | 0| 
-| 20210408T12:11:38Z |  DMA Radius Manager 4.4.0 - Cross-Site Request Forgery (CSRF) | https://github.com/dock0d1/Exploit-DMA-Radius-Manager-4.4.0---Cross-Site-Request-Forgery-CSRF- | 0 | 0| 
 
 
 # backdoor on Github 推荐
@@ -112,6 +112,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210408T12:43:14Z | A Fuzzer implementation in Rust following the guidelines exposed in https://www.fuzzingbook.org/. | https://github.com/fuzzing-unb/Ruszzer | 0 | 0| 
 | 20210408T12:19:01Z | Python scripts to fuzz test a MUD through telnet. | https://github.com/virthe/mudfuzz | 0 | 0| 
 | 20210408T12:15:14Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 1 | 1| 
 | 20210408T11:45:16Z | PoC of fuzzing closed-source userspace binaries with KVM | https://github.com/klecko/kvm-fuzz | 3 | 1| 
@@ -121,7 +122,6 @@
 | 20210408T09:51:33Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 1561 | 314| 
 | 20210408T09:39:52Z | Recent Fuzzing Paper | https://github.com/wcventure/FuzzingPaper | 807 | 137| 
 | 20210408T09:34:07Z | Null | https://github.com/tamara9avr/Fuzzy-logic | 0 | 0| 
-| 20210408T09:27:00Z | Null | https://github.com/nguyenanh1997/Fuzzz | 0 | 0| 
 
 
 
