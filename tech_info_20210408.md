@@ -40,7 +40,7 @@
 | 20210408T08:38:31Z | CVE-2021-21402 | Jellyfin系统任意文件读取漏洞批量扫描验证脚本。 | https://github.com/MzzdToT/CVE-2021-21402 | Jellyfin is a Free Software Media System. In Jellyfin before version 10.7.1, with certain endpoints, well crafted requests will allow arbitrary file read from a Jellyfin server%s file system. This issue is more prevalent when Windows is used as the host OS. Servers that are exposed to the public Internet are potentially at risk. This is fixed in version 10.7.1. As a workaround, users may be able to restrict some access by enforcing strict security permissions on their filesystem, however, it is recommended to update as soon as possible.| 
 | 20210408T07:46:40Z | CVE-2020-14882 | Null | https://github.com/nice0e3/CVE-2020-14882_Exploit_Gui | Vulnerability in the Oracle WebLogic Server product of Oracle Fusion Middleware (component: Console). Supported versions that are affected are 10.3.6.0.0, 12.1.3.0.0, 12.2.1.3.0, 12.2.1.4.0 and 14.1.1.0.0. Easily exploitable vulnerability allows unauthenticated attacker with network access via HTTP to compromise Oracle WebLogic Server. Successful attacks of this vulnerability can result in takeover of Oracle WebLogic Server. CVSS 3.1 Base Score 9.8 (Confidentiality, Integrity and Availability impacts). CVSS Vector: (CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H).| 
 | 20210408T01:46:54Z | CVE-2021-21300 | Null | https://github.com/danshuizhangyu/CVE-2021-21300 | Git is an open-source distributed revision control system. In affected versions of Git a specially crafted repository that contains symbolic links as well as files using a clean/smudge filter such as Git LFS, may cause just-checked out script to be executed while cloning onto a case-insensitive file system such as NTFS, HFS+ or APFS (i.e. the default file systems on Windows and macOS). Note that clean/smudge filters have to be configured for that. Git for Windows configures Git LFS by default, and is therefore vulnerable. The problem has been patched in the versions published on Tuesday, March 9th, 2021. As a workaound, if symbolic link support is disabled in Git (e.g. via `git config --global core.symlinks false`), the described attack won%t work. Likewise, if no clean/smudge filters such as Git LFS are configured globally (i.e. _before_ cloning), the attack is foiled. As always, it is best to avoid cloning repositories from untrusted sources. The earliest impacted version is 2.14.2. The fix versions are: 2.30.1, 2.29.3, 2.28.1, 2.27.1, 2.26.3, 2.25.5, 2.24.4, 2.23.4, 2.22.5, 2.21.4, 2.20.5, 2.19.6, 2.18.5, 2.17.62.17.6.| 
-| 20210408T01:18:57Z | 未知编号 | Null | https://github.com/jessica0f0116/cve_2021_1732 | | 
+| 20210408T01:18:57Z | 未知编号 | Null | https://github.com/jessica0f0116/cve_2021_1732 | 未查询到CVE信息| 
 
 
 # klee on Github 推荐
@@ -59,6 +59,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210408T12:11:38Z |  DMA Radius Manager 4.4.0 - Cross-Site Request Forgery (CSRF) | https://github.com/dock0d1/Exploit-DMA-Radius-Manager-4.4.0---Cross-Site-Request-Forgery-CSRF- | 0 | 0| 
+| 20210408T12:11:04Z | Just a temporary website to post my ctf writeups and journey into binary exploitation/malware analysis/exploit development | https://github.com/blackbeard666/blackbeard666.github.io | 0 | 0| 
 | 20210408T12:03:22Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 21 | 8| 
 | 20210408T11:49:33Z |  Linux Kernel 5.4 - %BleedingTooth% Bluetooth Zero-Click Remote Code Execution | https://github.com/dock0d1/Exploit-Linux-Kernel-5.4---BleedingTooth-Bluetooth-Zero-Click-Remote-Code-Execution | 0 | 0| 
 | 20210408T11:00:50Z | Attack and defend active directory using modern post exploitation adversary tradecraft activity | https://github.com/infosecn1nja/AD-Attack-Defense | 2753 | 720| 
@@ -67,8 +69,6 @@
 | 20210408T10:40:40Z | Educational web application demonstrating techniques of binary exploitation - (Back-end) | https://github.com/Pen-Test3rs/binary_exploits_backend | 0 | 0| 
 | 20210408T09:58:28Z | Buffer Overflow in Seattle Lab Mail (SLmail) 5.5 - POP3 | https://github.com/SxNade/CVE-2003-0264_EXPLOIT | 0 | 0| 
 | 20210408T09:51:57Z | Repo for testing some exploits | https://github.com/RobertFent/exploits | 0 | 0| 
-| 20210408T09:26:43Z | Null | https://github.com/MrOmegaIsNotBad/Exploit | 0 | 0| 
-| 20210408T09:21:54Z | Malware Exploits | https://github.com/0x00fy/malware-exploits | 2 | 0| 
 
 
 # backdoor on Github 推荐
