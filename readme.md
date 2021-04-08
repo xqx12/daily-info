@@ -35,16 +35,20 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20210407T12:58:06Z | CVE-2021-24086 | Proof of concept for CVE-2021-24086, a NULL dereference in tcpip.sys. | https://github.com/0vercl0k/CVE-2021-24086 | Windows TCP/IP Denial of Service Vulnerability| 
-| 20210407T11:25:28Z | CVE-2020-14882 | Null | https://github.com/nice0e3/CVE-2020-14882_Exploit_Gui | Vulnerability in the Oracle WebLogic Server product of Oracle Fusion Middleware (component: Console). Supported versions that are affected are 10.3.6.0.0, 12.1.3.0.0, 12.2.1.3.0, 12.2.1.4.0 and 14.1.1.0.0. Easily exploitable vulnerability allows unauthenticated attacker with network access via HTTP to compromise Oracle WebLogic Server. Successful attacks of this vulnerability can result in takeover of Oracle WebLogic Server. CVSS 3.1 Base Score 9.8 (Confidentiality, Integrity and Availability impacts). CVSS Vector: (CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H).| 
+| 20210407T23:57:20Z | CVE-2021-24086 | Proof of concept for CVE-2021-24086, a NULL dereference in tcpip.sys triggered remotely. | https://github.com/0vercl0k/CVE-2021-24086 | Windows TCP/IP Denial of Service Vulnerability| 
+| 20210407T15:58:52Z | CVE-2021-21300 | Null | https://github.com/danshuizhangyu/CVE-2021-21300 | Git is an open-source distributed revision control system. In affected versions of Git a specially crafted repository that contains symbolic links as well as files using a clean/smudge filter such as Git LFS, may cause just-checked out script to be executed while cloning onto a case-insensitive file system such as NTFS, HFS+ or APFS (i.e. the default file systems on Windows and macOS). Note that clean/smudge filters have to be configured for that. Git for Windows configures Git LFS by default, and is therefore vulnerable. The problem has been patched in the versions published on Tuesday, March 9th, 2021. As a workaound, if symbolic link support is disabled in Git (e.g. via `git config --global core.symlinks false`), the described attack won%t work. Likewise, if no clean/smudge filters such as Git LFS are configured globally (i.e. _before_ cloning), the attack is foiled. As always, it is best to avoid cloning repositories from untrusted sources. The earliest impacted version is 2.14.2. The fix versions are: 2.30.1, 2.29.3, 2.28.1, 2.27.1, 2.26.3, 2.25.5, 2.24.4, 2.23.4, 2.22.5, 2.21.4, 2.20.5, 2.19.6, 2.18.5, 2.17.62.17.6.| 
+| 20210407T15:49:14Z | CVE-2020-14882 | Null | https://github.com/nice0e3/CVE-2020-14882_Exploit_Gui | Vulnerability in the Oracle WebLogic Server product of Oracle Fusion Middleware (component: Console). Supported versions that are affected are 10.3.6.0.0, 12.1.3.0.0, 12.2.1.3.0, 12.2.1.4.0 and 14.1.1.0.0. Easily exploitable vulnerability allows unauthenticated attacker with network access via HTTP to compromise Oracle WebLogic Server. Successful attacks of this vulnerability can result in takeover of Oracle WebLogic Server. CVSS 3.1 Base Score 9.8 (Confidentiality, Integrity and Availability impacts). CVSS Vector: (CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H).| 
+| 20210407T15:49:11Z | CVE-2021-3165 | CVE-2021-3165: SmartAgent 3.1.0 - Privilege Escalation | https://github.com/orionhridoy/CVE-2021-3165 | SmartAgent 3.1.0 allows a ViewOnly attacker to create a SuperUser account via the /#/CampaignManager/users URI.| 
+| 20210407T15:43:45Z | CVE-2021-30150 | XSS Discovered By: Orion Hridoy | https://github.com/orionhridoy/CVE-2021-30150 | Composr 10.0.36 allows XSS in an XML script.| 
 | 20210407T10:37:30Z | CVE-2021-22192 | CVE-2021-22192 靶场： 未授权用户 RCE 漏洞 | https://github.com/lyy289065406/CVE-2021-22192 | An issue has been discovered in GitLab CE/EE affecting all versions starting from 13.2 allowing unauthorized authenticated users to execute arbitrary code on the server.| 
-| 20210407T09:46:02Z | CVE-2021-21300 | Null | https://github.com/danshuizhangyu/CVE-2021-21300 | Git is an open-source distributed revision control system. In affected versions of Git a specially crafted repository that contains symbolic links as well as files using a clean/smudge filter such as Git LFS, may cause just-checked out script to be executed while cloning onto a case-insensitive file system such as NTFS, HFS+ or APFS (i.e. the default file systems on Windows and macOS). Note that clean/smudge filters have to be configured for that. Git for Windows configures Git LFS by default, and is therefore vulnerable. The problem has been patched in the versions published on Tuesday, March 9th, 2021. As a workaound, if symbolic link support is disabled in Git (e.g. via `git config --global core.symlinks false`), the described attack won%t work. Likewise, if no clean/smudge filters such as Git LFS are configured globally (i.e. _before_ cloning), the attack is foiled. As always, it is best to avoid cloning repositories from untrusted sources. The earliest impacted version is 2.14.2. The fix versions are: 2.30.1, 2.29.3, 2.28.1, 2.27.1, 2.26.3, 2.25.5, 2.24.4, 2.23.4, 2.22.5, 2.21.4, 2.20.5, 2.19.6, 2.18.5, 2.17.62.17.6.| 
 | 20210407T03:02:12Z | 未知编号 | Null | https://github.com/jessica0f0116/cve_2021_1732 | 未查询到CVE信息| 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210407T22:59:47Z | Null | https://github.com/mrexodia/klee_vscode | 0 | 0| 
+| 20210407T15:05:35Z | Null | https://github.com/dorawei/klee-tc | 0 | 0| 
 
 
 # s2e on Github 推荐
@@ -55,30 +59,31 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210407T12:52:14Z | Fix exploits for CS:S v34 | https://github.com/PowerTakeDev/ProtectCmds | 0 | 1| 
-| 20210407T12:50:40Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 12 | 8| 
-| 20210407T12:43:49Z | IC1 project part %Low% (Exploitation) | https://github.com/buykjk/ic1-project-low | 0 | 0| 
-| 20210407T12:43:46Z | Computer Network Exploitation (CNE) Field Manual | https://github.com/mzet-/z-field-manual | 2 | 2| 
-| 20210407T12:39:00Z | 在科研（摸鱼）过程中，收集到的或者自己写的一些有用的（经过实战检验的）exp/poc，欢迎提交issue和PR | https://github.com/ycdxsb/Exploits | 2 | 0| 
-| 20210407T12:35:12Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9231 | 1492| 
-| 20210407T12:19:22Z | courses, exploits and lots of code, as i am currently preparing for this exam, i will keep updating everthing i learned or coded here | https://github.com/kainesmicheal/OSWE | 1 | 1| 
-| 20210407T12:06:58Z | weblogic full vulnerability exploit tool, support T3/XMLDecoder vulnerability scanning . | https://github.com/DesaiParekh/weblogic_cmd_plus | 5 | 2| 
-| 20210407T12:02:59Z | [+] Web crawler that look for possible exploits in URL%s | https://github.com/vLeeH/httpmapper | 2 | 0| 
-| 20210407T12:02:52Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 21 | 8| 
+| 20210407T23:58:40Z | A open-sourced ROBLOX exploit library | https://github.com/iamtryingtofindname/Artemis | 0 | 0| 
+| 20210407T23:51:47Z | A simple pickle assembler to make handcrafting pickle bytecode easier. | https://github.com/gousaiyang/pickleassem | 0 | 0| 
+| 20210407T23:47:12Z | Null | https://github.com/Raycodex/Exploiting | 0 | 0| 
+| 20210407T23:40:18Z | Bukkit/BungeeCord plugin that aims on fixing Exploits in your Minecraft network. [Requires HamsterAPI to work] | https://github.com/2lstudios-mc/ExploitFixer | 80 | 21| 
+| 20210407T23:33:36Z | PS4 Exploit Host | https://github.com/Night-King-Host/Night-King-Host.github.io | 6 | 3| 
+| 20210407T23:10:35Z | Files for Fox Exploit. | https://github.com/Syn-Max/FoxExploit | 0 | 0| 
+| 20210407T23:02:45Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 21 | 8| 
+| 20210407T22:49:26Z | Educational web application demonstrating techniques of binary exploitation - (Back-end) | https://github.com/Pen-Test3rs/binary_exploits_backend | 0 | 0| 
+| 20210407T22:48:53Z | Null | https://github.com/HarryTheKing1/Harrys-Exploit | 0 | 0| 
+| 20210407T22:47:38Z | Null | https://github.com/HarryTheKing1/Harry-s-exploit-api | 0 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210407T12:56:10Z | Null | https://github.com/xpf/Backdoor-Learning-arXiv | 1 | 0| 
+| 20210407T23:59:05Z | kumpulan shell backdoor | https://github.com/FRMFOX/SH3LL-BKDR | 0 | 0| 
+| 20210407T21:36:52Z | We find most existing triggers of backdoor attacks in deep learning contain severe artifacts in the frequency domain. This Repo. explores how we can use these artifacts to develop stronger backdoor defenses and attacks. | https://github.com/YiZeng623/frequency-backdoor | 1 | 0| 
+| 20210407T21:07:08Z | An evil bit backdoor for iptables | https://github.com/FlamingSpork/iptable_evil | 0 | 0| 
+| 20210407T19:38:17Z | haj | https://github.com/RehderK/Backdoor | 0 | 0| 
+| 20210407T19:16:23Z | Null | https://github.com/UMBCvision/SSL-Backdoor | 0 | 0| 
+| 20210407T18:36:28Z | Invisible, customizable backdoor for Minecraft Spigot Plugins. | https://github.com/ThiccIndustries/Minecraft-Backdoor | 2 | 2| 
+| 20210407T17:35:15Z | TrojanZoo provides a universal pytorch platform to conduct security researches (especially backdoor attacks/defenses) of image classification in deep learning. | https://github.com/ain-soph/trojanzoo | 57 | 10| 
+| 20210407T16:03:08Z | A sample app to demonstrate how to create Xamarin UITests using the Page Object architecture, Backdoor Methods and App Links (aka Deep Linking) | https://github.com/brminnick/UITestSampleApp | 34 | 26| 
+| 20210407T13:08:12Z | Null | https://github.com/xpf/Backdoor-Learning-arXiv | 1 | 0| 
 | 20210407T11:58:12Z | Arduino scrpts and meterpreter reverse_tcp backdoor with hid | https://github.com/Taewinzer/Arduino-backdoor-with-meterpreter | 0 | 0| 
-| 20210407T11:03:20Z | Minecraft 1.12.2 client  | https://github.com/NKz32/MajorasBackdoor-Clean | 0 | 0| 
-| 20210407T06:01:40Z | Backdoor | https://github.com/walpurgisnatch/netrat | 0 | 0| 
-| 20210407T05:23:55Z | AUTO-db is a Python script which automates many tools - nmap , file transfer using apache2 and python , remote connections using ssh and msfvenom backdoor,  enum4linux , nikto , dirbuster , gobuster , oscanner , wpscan , nmapAutomator and autorecon | https://github.com/Devansh-git-stor/AUTO-db | 1 | 0| 
-| 20210407T03:06:02Z | Null | https://github.com/password520/SmsBackdoor | 0 | 0| 
-| 20210407T02:11:08Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 204 | 34| 
-| 20210407T01:52:18Z | Windows RAT written in Java for learning purposes | https://github.com/hacefresko/JRAT | 7 | 4| 
-| 20210407T00:19:39Z | Reverse TCP trojan backdoor written in python | https://github.com/userlandkernel/Pyrovalerone | 0 | 0| 
 
 
 # fuzz on Github 推荐
