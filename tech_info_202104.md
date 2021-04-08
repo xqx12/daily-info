@@ -82,6 +82,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210408T00:14:56Z | Hacking: The Art of Exploitation | https://github.com/vwv-prog/HTAOE | 0 | 0| 
 | 20210408T00:02:27Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 21 | 8| 
 | 20210407T23:58:40Z | A open-sourced ROBLOX exploit library | https://github.com/iamtryingtofindname/Artemis | 0 | 0| 
 | 20210407T23:51:47Z | A simple pickle assembler to make handcrafting pickle bytecode easier. | https://github.com/gousaiyang/pickleassem | 0 | 0| 
@@ -91,17 +92,16 @@
 | 20210407T23:10:35Z | Files for Fox Exploit. | https://github.com/Syn-Max/FoxExploit | 0 | 0| 
 | 20210407T22:49:26Z | Educational web application demonstrating techniques of binary exploitation - (Back-end) | https://github.com/Pen-Test3rs/binary_exploits_backend | 0 | 0| 
 | 20210407T22:48:53Z | Null | https://github.com/HarryTheKing1/Harrys-Exploit | 0 | 0| 
-| 20210407T22:47:38Z | Null | https://github.com/HarryTheKing1/Harry-s-exploit-api | 0 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210408T00:15:21Z | Null | https://github.com/UMBCvision/SSL-Backdoor | 0 | 0| 
 | 20210407T23:59:05Z | kumpulan shell backdoor | https://github.com/FRMFOX/SH3LL-BKDR | 0 | 0| 
 | 20210407T21:36:52Z | We find most existing triggers of backdoor attacks in deep learning contain severe artifacts in the frequency domain. This Repo. explores how we can use these artifacts to develop stronger backdoor defenses and attacks. | https://github.com/YiZeng623/frequency-backdoor | 1 | 0| 
 | 20210407T21:07:08Z | An evil bit backdoor for iptables | https://github.com/FlamingSpork/iptable_evil | 0 | 0| 
 | 20210407T19:38:17Z | haj | https://github.com/RehderK/Backdoor | 0 | 0| 
-| 20210407T19:16:23Z | Null | https://github.com/UMBCvision/SSL-Backdoor | 0 | 0| 
 | 20210407T18:36:28Z | Invisible, customizable backdoor for Minecraft Spigot Plugins. | https://github.com/ThiccIndustries/Minecraft-Backdoor | 2 | 2| 
 | 20210407T17:35:15Z | TrojanZoo provides a universal pytorch platform to conduct security researches (especially backdoor attacks/defenses) of image classification in deep learning. | https://github.com/ain-soph/trojanzoo | 57 | 10| 
 | 20210407T16:03:08Z | A sample app to demonstrate how to create Xamarin UITests using the Page Object architecture, Backdoor Methods and App Links (aka Deep Linking) | https://github.com/brminnick/UITestSampleApp | 34 | 26| 

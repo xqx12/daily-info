@@ -77,12 +77,12 @@
 | 20210407T21:36:52Z | We find most existing triggers of backdoor attacks in deep learning contain severe artifacts in the frequency domain. This Repo. explores how we can use these artifacts to develop stronger backdoor defenses and attacks. | https://github.com/YiZeng623/frequency-backdoor | 1 | 0| 
 | 20210407T21:07:08Z | An evil bit backdoor for iptables | https://github.com/FlamingSpork/iptable_evil | 0 | 0| 
 | 20210407T19:38:17Z | haj | https://github.com/RehderK/Backdoor | 0 | 0| 
-| 20210407T19:16:23Z | Null | https://github.com/UMBCvision/SSL-Backdoor | 0 | 0| 
 | 20210407T18:36:28Z | Invisible, customizable backdoor for Minecraft Spigot Plugins. | https://github.com/ThiccIndustries/Minecraft-Backdoor | 2 | 2| 
 | 20210407T17:35:15Z | TrojanZoo provides a universal pytorch platform to conduct security researches (especially backdoor attacks/defenses) of image classification in deep learning. | https://github.com/ain-soph/trojanzoo | 57 | 10| 
 | 20210407T16:03:08Z | A sample app to demonstrate how to create Xamarin UITests using the Page Object architecture, Backdoor Methods and App Links (aka Deep Linking) | https://github.com/brminnick/UITestSampleApp | 34 | 26| 
 | 20210407T13:08:12Z | Null | https://github.com/xpf/Backdoor-Learning-arXiv | 1 | 0| 
 | 20210407T11:58:12Z | Arduino scrpts and meterpreter reverse_tcp backdoor with hid | https://github.com/Taewinzer/Arduino-backdoor-with-meterpreter | 0 | 0| 
+| 20210407T11:03:20Z | Minecraft 1.12.2 client  | https://github.com/NKz32/MajorasBackdoor-Clean | 0 | 0| 
 
 
 # fuzz on Github 推荐
