@@ -82,6 +82,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210408T12:45:44Z | Vulmap 是一款 web 漏洞扫描和验证工具, 可对 webapps 进行漏洞扫描, 并且具备漏洞验证功能 | https://github.com/zhzyker/vulmap | 1194 | 217| 
 | 20210408T12:40:49Z | Attack and defend active directory using modern post exploitation adversary tradecraft activity | https://github.com/infosecn1nja/AD-Attack-Defense | 2754 | 720| 
 | 20210408T12:36:35Z | Just a temporary website to post my ctf writeups and journey into binary exploitation/malware analysis/exploit development | https://github.com/blackbeard666/blackbeard666.github.io | 0 | 0| 
 | 20210408T12:35:14Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9232 | 1492| 
@@ -91,7 +92,6 @@
 | 20210408T12:11:38Z |  DMA Radius Manager 4.4.0 - Cross-Site Request Forgery (CSRF) | https://github.com/dock0d1/Exploit-DMA-Radius-Manager-4.4.0---Cross-Site-Request-Forgery-CSRF- | 0 | 0| 
 | 20210408T12:03:22Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 21 | 8| 
 | 20210408T11:49:33Z |  Linux Kernel 5.4 - %BleedingTooth% Bluetooth Zero-Click Remote Code Execution | https://github.com/dock0d1/Exploit-Linux-Kernel-5.4---BleedingTooth-Bluetooth-Zero-Click-Remote-Code-Execution | 0 | 0| 
-| 20210408T11:00:32Z | Null | https://github.com/r4j0x00/exploits | 539 | 124| 
 
 
 # backdoor on Github 推荐
