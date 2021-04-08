@@ -82,7 +82,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210408T12:17:21Z | These exploits are made while practicing exploit development  | https://github.com/TamilHackz/i-make-exploits | 3 | 2| 
+| 20210408T12:19:44Z | Nagios XI 5.7.X - Remote Code Execution RCE (Authenticated) | https://github.com/dock0d1/Exploit-Nagios-XI-5.7.X---Remote-Code-Execution-RCE-Authenticated- | 0 | 0| 
+| 20210408T12:18:46Z | These exploits are made while practicing exploit development  | https://github.com/TamilHackz/i-make-exploits | 3 | 2| 
 | 20210408T12:14:36Z | Roblox Exploit GUI lol | https://github.com/TheMinecrafter05/FaceLesS | 0 | 0| 
 | 20210408T12:13:49Z | Just a temporary website to post my ctf writeups and journey into binary exploitation/malware analysis/exploit development | https://github.com/blackbeard666/blackbeard666.github.io | 0 | 0| 
 | 20210408T12:11:38Z |  DMA Radius Manager 4.4.0 - Cross-Site Request Forgery (CSRF) | https://github.com/dock0d1/Exploit-DMA-Radius-Manager-4.4.0---Cross-Site-Request-Forgery-CSRF- | 0 | 0| 
@@ -91,7 +92,6 @@
 | 20210408T11:00:50Z | Attack and defend active directory using modern post exploitation adversary tradecraft activity | https://github.com/infosecn1nja/AD-Attack-Defense | 2753 | 720| 
 | 20210408T11:00:32Z | Null | https://github.com/r4j0x00/exploits | 539 | 124| 
 | 20210408T10:55:14Z | Vulmap 是一款 web 漏洞扫描和验证工具, 可对 webapps 进行漏洞扫描, 并且具备漏洞验证功能 | https://github.com/zhzyker/vulmap | 1193 | 217| 
-| 20210408T10:40:40Z | Educational web application demonstrating techniques of binary exploitation - (Back-end) | https://github.com/Pen-Test3rs/binary_exploits_backend | 0 | 0| 
 
 
 # backdoor on Github 推荐
@@ -112,16 +112,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210408T01:05:56Z | Ethereum smart contract fuzzer | https://github.com/crytic/echidna | 590 | 95| 
-| 20210408T01:04:29Z | Software for fuzzing, used on web application pentestings. | https://github.com/NESCAU-UFLA/FuzzingTool | 50 | 8| 
-| 20210408T01:00:58Z | My end of year project_ Not done yet ! | https://github.com/Rad-hi/Fuzzy_Fire_Detection | 0 | 0| 
-| 20210408T00:42:40Z | Fuzzy matching for Neovim | https://github.com/amirrezaask/fuzzy.nvim | 23 | 1| 
-| 20210408T00:19:38Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 1 | 0| 
-| 20210408T00:18:47Z | A list of payload and bypass lists for penetration testing and red team infrastructure build. | https://github.com/ffffffff0x/AboutSecurity | 169 | 45| 
-| 20210408T00:17:45Z | Fuzzing cryptographic libraries. Magic bug printer go brrrr. | https://github.com/guidovranken/cryptofuzz | 272 | 37| 
-| 20210408T00:13:00Z | RESTler is the first stateful REST API fuzzing tool for automatically testing cloud services through their REST APIs and finding security and reliability bugs in these services. | https://github.com/microsoft/restler-fuzzer | 741 | 75| 
-| 20210407T23:58:35Z | Null | https://github.com/nadavRazT/fuzzer | 0 | 0| 
-| 20210407T23:37:26Z | Scalable fuzzing infrastructure. | https://github.com/google/clusterfuzz | 4480 | 428| 
+| 20210408T12:19:01Z | Python scripts to fuzz test a MUD through telnet. | https://github.com/virthe/mudfuzz | 0 | 0| 
+| 20210408T12:15:14Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 1 | 1| 
+| 20210408T11:45:16Z | PoC of fuzzing closed-source userspace binaries with KVM | https://github.com/klecko/kvm-fuzz | 3 | 1| 
+| 20210408T11:10:13Z | Null | https://github.com/valheruborn/fuzzy-parakeet | 0 | 0| 
+| 20210408T10:28:36Z | DDRFuzz is a fuzzing system based on a seq2seq model to generate valuable seed corpus. | https://github.com/kppw99/ddrfuzz | 1 | 1| 
+| 20210408T10:21:01Z | Fuzzy matching for Neovim | https://github.com/amirrezaask/fuzzy.nvim | 23 | 1| 
+| 20210408T09:51:33Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 1561 | 314| 
+| 20210408T09:39:52Z | Recent Fuzzing Paper | https://github.com/wcventure/FuzzingPaper | 807 | 137| 
+| 20210408T09:34:07Z | Null | https://github.com/tamara9avr/Fuzzy-logic | 0 | 0| 
+| 20210408T09:27:00Z | Null | https://github.com/nguyenanh1997/Fuzzz | 0 | 0| 
 
 
 
