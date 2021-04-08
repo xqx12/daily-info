@@ -59,6 +59,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210408T12:17:21Z | These exploits are made while practicing exploit development  | https://github.com/TamilHackz/i-make-exploits | 3 | 2| 
 | 20210408T12:14:36Z | Roblox Exploit GUI lol | https://github.com/TheMinecrafter05/FaceLesS | 0 | 0| 
 | 20210408T12:13:49Z | Just a temporary website to post my ctf writeups and journey into binary exploitation/malware analysis/exploit development | https://github.com/blackbeard666/blackbeard666.github.io | 0 | 0| 
 | 20210408T12:11:38Z |  DMA Radius Manager 4.4.0 - Cross-Site Request Forgery (CSRF) | https://github.com/dock0d1/Exploit-DMA-Radius-Manager-4.4.0---Cross-Site-Request-Forgery-CSRF- | 0 | 0| 
@@ -68,7 +69,6 @@
 | 20210408T11:00:32Z | Null | https://github.com/r4j0x00/exploits | 539 | 124| 
 | 20210408T10:55:14Z | Vulmap 是一款 web 漏洞扫描和验证工具, 可对 webapps 进行漏洞扫描, 并且具备漏洞验证功能 | https://github.com/zhzyker/vulmap | 1193 | 217| 
 | 20210408T10:40:40Z | Educational web application demonstrating techniques of binary exploitation - (Back-end) | https://github.com/Pen-Test3rs/binary_exploits_backend | 0 | 0| 
-| 20210408T09:58:28Z | Buffer Overflow in Seattle Lab Mail (SLmail) 5.5 - POP3 | https://github.com/SxNade/CVE-2003-0264_EXPLOIT | 0 | 0| 
 
 
 # backdoor on Github 推荐
