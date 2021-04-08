@@ -40,7 +40,7 @@
 | 20210407T15:49:11Z | CVE-2021-3165 | CVE-2021-3165: SmartAgent 3.1.0 - Privilege Escalation | https://github.com/orionhridoy/CVE-2021-3165 | SmartAgent 3.1.0 allows a ViewOnly attacker to create a SuperUser account via the /#/CampaignManager/users URI.| 
 | 20210407T15:43:45Z | CVE-2021-30150 | XSS Discovered By: Orion Hridoy | https://github.com/orionhridoy/CVE-2021-30150 | Composr 10.0.36 allows XSS in an XML script.| 
 | 20210407T10:37:30Z | CVE-2021-22192 | CVE-2021-22192 靶场： 未授权用户 RCE 漏洞 | https://github.com/lyy289065406/CVE-2021-22192 | An issue has been discovered in GitLab CE/EE affecting all versions starting from 13.2 allowing unauthorized authenticated users to execute arbitrary code on the server.| 
-| 20210407T03:02:12Z | 未知编号 | Null | https://github.com/jessica0f0116/cve_2021_1732 | | 
+| 20210407T03:02:12Z | 未知编号 | Null | https://github.com/jessica0f0116/cve_2021_1732 | 未查询到CVE信息| 
 
 
 # klee on Github 推荐
