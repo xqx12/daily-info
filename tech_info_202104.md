@@ -82,6 +82,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210408T00:33:43Z | Sécurité des logiciels et exploitation de vulnérabilités | https://github.com/ppepos/inf600c | 4 | 0| 
 | 20210408T00:19:11Z | Hacking: The Art of Exploitation | https://github.com/vwv-prog/HTAOE | 0 | 0| 
 | 20210408T00:02:27Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 21 | 8| 
 | 20210407T23:58:40Z | A open-sourced ROBLOX exploit library | https://github.com/iamtryingtofindname/Artemis | 0 | 0| 
@@ -91,7 +92,6 @@
 | 20210407T23:33:36Z | PS4 Exploit Host | https://github.com/Night-King-Host/Night-King-Host.github.io | 6 | 3| 
 | 20210407T23:10:35Z | Files for Fox Exploit. | https://github.com/Syn-Max/FoxExploit | 0 | 0| 
 | 20210407T22:49:26Z | Educational web application demonstrating techniques of binary exploitation - (Back-end) | https://github.com/Pen-Test3rs/binary_exploits_backend | 0 | 0| 
-| 20210407T22:48:53Z | Null | https://github.com/HarryTheKing1/Harrys-Exploit | 0 | 0| 
 
 
 # backdoor on Github 推荐
