@@ -55,7 +55,7 @@
 | 20210407T03:02:12Z | 未知编号 | Null | https://github.com/jessica0f0116/cve_2021_1732 | 未查询到CVE信息| 
 | 20210406T16:17:13Z | CVE-2021-30149 | RCE 0day (Orion Hridoy) | https://github.com/orionhridoy/CVE-2021-30149 | Composr 10.0.36 allows upload and execution of PHP files.| 
 | 20210406T16:15:58Z | CVE-2021-21972 | [CVE-2021-21972] VMware vSphere Client Unauthorized File Upload to Remote Code Execution (RCE) | https://github.com/murataydemir/CVE-2021-21972 | The vSphere Client (HTML5) contains a remote code execution vulnerability in a vCenter Server plugin. A malicious actor with network access to port 443 may exploit this issue to execute commands with unrestricted privileges on the underlying operating system that hosts vCenter Server. This affects VMware vCenter Server (7.x before 7.0 U1c, 6.7 before 6.7 U3l and 6.5 before 6.5 U3n) and VMware Cloud Foundation (4.x before 4.2 and 3.x before 3.10.1.2).| 
-| 20210406T10:44:28Z | CVE-2021-30109 | Froala Persistent XSS | https://github.com/Hackdwerg/CVE-2021-30109 | | 
+| 20210406T10:44:28Z | CVE-2021-30109 | Froala Persistent XSS | https://github.com/Hackdwerg/CVE-2021-30109 | Froala Editor 3.2.6 is affected by Cross Site Scripting (XSS). Under certain conditions, a base64 crafted string leads to persistent Cross-site scripting (XSS) vulnerability within the hyperlink creation module.| 
 
 
 # klee on Github 推荐
