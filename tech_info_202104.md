@@ -52,7 +52,7 @@
 | 20210407T15:49:11Z | CVE-2021-3165 | CVE-2021-3165: SmartAgent 3.1.0 - Privilege Escalation | https://github.com/orionhridoy/CVE-2021-3165 | SmartAgent 3.1.0 allows a ViewOnly attacker to create a SuperUser account via the /#/CampaignManager/users URI.| 
 | 20210407T15:43:45Z | CVE-2021-30150 | XSS Discovered By: Orion Hridoy | https://github.com/orionhridoy/CVE-2021-30150 | Composr 10.0.36 allows XSS in an XML script.| 
 | 20210407T10:37:30Z | CVE-2021-22192 | CVE-2021-22192 靶场： 未授权用户 RCE 漏洞 | https://github.com/lyy289065406/CVE-2021-22192 | An issue has been discovered in GitLab CE/EE affecting all versions starting from 13.2 allowing unauthorized authenticated users to execute arbitrary code on the server.| 
-| 20210407T03:02:12Z | 未知编号 | Null | https://github.com/jessica0f0116/cve_2021_1732 | 未查询到CVE信息| 
+| 20210407T03:02:12Z | 未知编号 | Null | https://github.com/jessica0f0116/cve_2021_1732 | | 
 | 20210406T16:17:13Z | CVE-2021-30149 | RCE 0day (Orion Hridoy) | https://github.com/orionhridoy/CVE-2021-30149 | Composr 10.0.36 allows upload and execution of PHP files.| 
 | 20210406T16:15:58Z | CVE-2021-21972 | [CVE-2021-21972] VMware vSphere Client Unauthorized File Upload to Remote Code Execution (RCE) | https://github.com/murataydemir/CVE-2021-21972 | The vSphere Client (HTML5) contains a remote code execution vulnerability in a vCenter Server plugin. A malicious actor with network access to port 443 may exploit this issue to execute commands with unrestricted privileges on the underlying operating system that hosts vCenter Server. This affects VMware vCenter Server (7.x before 7.0 U1c, 6.7 before 6.7 U3l and 6.5 before 6.5 U3n) and VMware Cloud Foundation (4.x before 4.2 and 3.x before 3.10.1.2).| 
 | 20210406T10:44:28Z | CVE-2021-30109 | Froala Persistent XSS | https://github.com/Hackdwerg/CVE-2021-30109 | Froala Editor 3.2.6 is affected by Cross Site Scripting (XSS). Under certain conditions, a base64 crafted string leads to persistent Cross-site scripting (XSS) vulnerability within the hyperlink creation module.| 
@@ -112,16 +112,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210407T12:49:58Z | I.C. project. A method to choose the best way to implant sensors in management zones | https://github.com/lucasdasilvalima/agrilab-fuzzy-cmeans | 0 | 0| 
-| 20210407T12:46:27Z | A mutation-based fuzzing engine for MQTT brokers. | https://github.com/PBearson/MosquittoByte | 0 | 0| 
-| 20210407T12:29:54Z | Null | https://github.com/Nafis/unbaised-feature-selection-fuzzy-forest | 0 | 0| 
-| 20210407T12:27:55Z | White-box fuzzer for Java bytecode | https://github.com/vorpal-research/kex | 6 | 5| 
-| 20210407T12:16:17Z | Null | https://github.com/FDU-Program-Analysis/chunk-fuzzer-pass | 0 | 0| 
-| 20210407T12:15:15Z | Functions to extract drug records from the FAERS (FDA Adverse Event Reporting System) database | https://github.com/tystan/fuzzyfaers | 0 | 0| 
-| 20210407T12:15:12Z | This is a Fuzzer library built in JS and nodeJS | https://github.com/fuzzing-unb/FuzzerJS | 0 | 0| 
-| 20210407T12:06:25Z | A kotlin implementation of sublime text editor%s fuzzy search | https://github.com/android-password-store/sublime-fuzzy | 3 | 0| 
-| 20210407T12:03:16Z | Null | https://github.com/prateekgrover-in/NeuralNetworksFuzzyLogic | 0 | 0| 
-| 20210407T11:54:32Z | Studies on Fuzzy Inference developed under my masters degree. | https://github.com/renatolm/fuzzy-inference | 0 | 0| 
+| 20210408T00:42:40Z | Fuzzy matching for Neovim | https://github.com/amirrezaask/fuzzy.nvim | 23 | 1| 
+| 20210408T00:37:20Z | Software for fuzzing, used on web application pentestings. | https://github.com/NESCAU-UFLA/FuzzingTool | 48 | 8| 
+| 20210408T00:19:38Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 1 | 0| 
+| 20210408T00:18:47Z | A list of payload and bypass lists for penetration testing and red team infrastructure build. | https://github.com/ffffffff0x/AboutSecurity | 169 | 45| 
+| 20210408T00:17:45Z | Fuzzing cryptographic libraries. Magic bug printer go brrrr. | https://github.com/guidovranken/cryptofuzz | 272 | 37| 
+| 20210408T00:13:00Z | RESTler is the first stateful REST API fuzzing tool for automatically testing cloud services through their REST APIs and finding security and reliability bugs in these services. | https://github.com/microsoft/restler-fuzzer | 741 | 75| 
+| 20210407T23:58:35Z | Null | https://github.com/nadavRazT/fuzzer | 0 | 0| 
+| 20210407T23:37:26Z | Scalable fuzzing infrastructure. | https://github.com/google/clusterfuzz | 4480 | 428| 
+| 20210407T23:33:47Z | Null | https://github.com/VeriBlock/fuzz-corpus | 0 | 1| 
+| 20210407T23:32:27Z | Fuzz 403/401ing endpoints for bypasses | https://github.com/intrudir/403fuzzer | 66 | 9| 
 
 
 
