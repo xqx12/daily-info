@@ -47,13 +47,13 @@
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
 | 20210409T00:41:55Z | CVE-2020-14882 | Null | https://github.com/nice0e3/CVE-2020-14882_Exploit_Gui | Vulnerability in the Oracle WebLogic Server product of Oracle Fusion Middleware (component: Console). Supported versions that are affected are 10.3.6.0.0, 12.1.3.0.0, 12.2.1.3.0, 12.2.1.4.0 and 14.1.1.0.0. Easily exploitable vulnerability allows unauthenticated attacker with network access via HTTP to compromise Oracle WebLogic Server. Successful attacks of this vulnerability can result in takeover of Oracle WebLogic Server. CVSS 3.1 Base Score 9.8 (Confidentiality, Integrity and Availability impacts). CVSS Vector: (CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H).| 
-| 20210408T23:31:35Z | CVE-2021-24086 | Proof of concept for CVE-2021-24086, a NULL dereference in tcpip.sys triggered remotely. | https://github.com/0vercl0k/CVE-2021-24086 | Windows TCP/IP Denial of Service Vulnerability| 
+| 20210408T23:31:35Z | CVE-2021-24086 | Proof of concept for CVE-2021-24086, a NULL dereference in tcpip.sys triggered remotely. | https://github.com/0vercl0k/CVE-2021-24086 | | 
 | 20210408T20:19:52Z | 未知编号 | 2020l4web-app-mockup-DanCvejn created by GitHub Classroom | https://github.com/pslib-cz/2020l4web-app-mockup-DanCvejn | 未查询到CVE信息| 
-| 20210408T16:53:25Z | CVE-2020-0601 | PoC for CVE-2020-0601- Windows CryptoAPI (Crypt32.dll)  POC: https://github.com/ollypwn/CurveBall | https://github.com/yanghaoi/CVE-2020-0601 | A spoofing vulnerability exists in the way Windows CryptoAPI (Crypt32.dll) validates Elliptic Curve Cryptography (ECC) certificates.An attacker could exploit the vulnerability by using a spoofed code-signing certificate to sign a malicious executable, making it appear the file was from a trusted, legitimate source, aka %Windows CryptoAPI Spoofing Vulnerability%.| 
+| 20210408T16:53:25Z | CVE-2020-0601 | PoC for CVE-2020-0601- Windows CryptoAPI (Crypt32.dll)  POC: https://github.com/ollypwn/CurveBall | https://github.com/yanghaoi/CVE-2020-0601 | | 
 | 20210408T15:39:33Z | CVE-2021-24098 | test | https://github.com/xuejilinhan/CVE-2021-24098 | Windows Console Driver Denial of Service Vulnerability| 
 | 20210408T15:37:26Z | CVE-2021-24086 | test | https://github.com/xuejilinhan/CVE-2021-24086 | Windows TCP/IP Denial of Service Vulnerability| 
 | 20210408T15:13:28Z | cve-2021-21635 | 测试 | https://github.com/kenyon-wong/cve-2021-21635 | Jenkins REST List Parameter Plugin 1.3.0 and earlier does not escape a parameter name reference in embedded JavaScript, resulting in a stored cross-site scripting (XSS) vulnerability exploitable by attackers with Job/Configure permission.| 
-| 20210408T10:24:19Z | CVE-2021-22192 | CVE-2021-22192 靶场： 未授权用户 RCE 漏洞 | https://github.com/lyy289065406/CVE-2021-22192 | An issue has been discovered in GitLab CE/EE affecting all versions starting from 13.2 allowing unauthorized authenticated users to execute arbitrary code on the server.| 
+| 20210408T10:24:19Z | CVE-2021-22192 | CVE-2021-22192 靶场： 未授权用户 RCE 漏洞 | https://github.com/lyy289065406/CVE-2021-22192 | | 
 | 20210408T08:38:31Z | CVE-2021-21402 | Jellyfin系统任意文件读取漏洞批量扫描验证脚本。 | https://github.com/MzzdToT/CVE-2021-21402 | Jellyfin is a Free Software Media System. In Jellyfin before version 10.7.1, with certain endpoints, well crafted requests will allow arbitrary file read from a Jellyfin server%s file system. This issue is more prevalent when Windows is used as the host OS. Servers that are exposed to the public Internet are potentially at risk. This is fixed in version 10.7.1. As a workaround, users may be able to restrict some access by enforcing strict security permissions on their filesystem, however, it is recommended to update as soon as possible.| 
 | 20210408T01:46:54Z | CVE-2021-21300 | Null | https://github.com/danshuizhangyu/CVE-2021-21300 | Git is an open-source distributed revision control system. In affected versions of Git a specially crafted repository that contains symbolic links as well as files using a clean/smudge filter such as Git LFS, may cause just-checked out script to be executed while cloning onto a case-insensitive file system such as NTFS, HFS+ or APFS (i.e. the default file systems on Windows and macOS). Note that clean/smudge filters have to be configured for that. Git for Windows configures Git LFS by default, and is therefore vulnerable. The problem has been patched in the versions published on Tuesday, March 9th, 2021. As a workaound, if symbolic link support is disabled in Git (e.g. via `git config --global core.symlinks false`), the described attack won%t work. Likewise, if no clean/smudge filters such as Git LFS are configured globally (i.e. _before_ cloning), the attack is foiled. As always, it is best to avoid cloning repositories from untrusted sources. The earliest impacted version is 2.14.2. The fix versions are: 2.30.1, 2.29.3, 2.28.1, 2.27.1, 2.26.3, 2.25.5, 2.24.4, 2.23.4, 2.22.5, 2.21.4, 2.20.5, 2.19.6, 2.18.5, 2.17.62.17.6.| 
 
@@ -82,6 +82,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210409T00:50:41Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 12 | 8| 
 | 20210409T00:44:02Z | Exploits project Hacking Command Center | https://github.com/chacka0101/exploits | 5 | 6| 
 | 20210409T00:41:48Z | Null | https://github.com/EXtremeExploit/EXtremeExploit.github.io | 0 | 0| 
 | 20210409T00:02:28Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 21 | 8| 
@@ -91,7 +92,6 @@
 | 20210408T22:13:06Z | Null | https://github.com/HarryTheKing1/Harrys-Exploit | 0 | 0| 
 | 20210408T22:07:09Z | Merlin is a cross-platform post-exploitation HTTP/2 Command & Control  server and agent written in golang. | https://github.com/Ne0nd0g/merlin | 3101 | 470| 
 | 20210408T21:47:43Z | DVR Cameras automated exploit by python | https://github.com/m1zuk1g3/DVR-CamKatana | 2 | 1| 
-| 20210408T21:35:13Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9235 | 1494| 
 
 
 # backdoor on Github 推荐
