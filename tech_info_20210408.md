@@ -45,7 +45,7 @@
 | 20210408T15:39:33Z | CVE-2021-24098 | test | https://github.com/xuejilinhan/CVE-2021-24098 | Windows Console Driver Denial of Service Vulnerability| 
 | 20210408T15:37:26Z | CVE-2021-24086 | test | https://github.com/xuejilinhan/CVE-2021-24086 | Windows TCP/IP Denial of Service Vulnerability| 
 | 20210408T15:13:28Z | cve-2021-21635 | 测试 | https://github.com/kenyon-wong/cve-2021-21635 | Jenkins REST List Parameter Plugin 1.3.0 and earlier does not escape a parameter name reference in embedded JavaScript, resulting in a stored cross-site scripting (XSS) vulnerability exploitable by attackers with Job/Configure permission.| 
-| 20210408T10:24:19Z | CVE-2021-22192 | CVE-2021-22192 靶场： 未授权用户 RCE 漏洞 | https://github.com/lyy289065406/CVE-2021-22192 | | 
+| 20210408T10:24:19Z | CVE-2021-22192 | CVE-2021-22192 靶场： 未授权用户 RCE 漏洞 | https://github.com/lyy289065406/CVE-2021-22192 | An issue has been discovered in GitLab CE/EE affecting all versions starting from 13.2 allowing unauthorized authenticated users to execute arbitrary code on the server.| 
 | 20210408T08:38:31Z | CVE-2021-21402 | Jellyfin系统任意文件读取漏洞批量扫描验证脚本。 | https://github.com/MzzdToT/CVE-2021-21402 | Jellyfin is a Free Software Media System. In Jellyfin before version 10.7.1, with certain endpoints, well crafted requests will allow arbitrary file read from a Jellyfin server%s file system. This issue is more prevalent when Windows is used as the host OS. Servers that are exposed to the public Internet are potentially at risk. This is fixed in version 10.7.1. As a workaround, users may be able to restrict some access by enforcing strict security permissions on their filesystem, however, it is recommended to update as soon as possible.| 
 | 20210408T01:46:54Z | CVE-2021-21300 | Null | https://github.com/danshuizhangyu/CVE-2021-21300 | Git is an open-source distributed revision control system. In affected versions of Git a specially crafted repository that contains symbolic links as well as files using a clean/smudge filter such as Git LFS, may cause just-checked out script to be executed while cloning onto a case-insensitive file system such as NTFS, HFS+ or APFS (i.e. the default file systems on Windows and macOS). Note that clean/smudge filters have to be configured for that. Git for Windows configures Git LFS by default, and is therefore vulnerable. The problem has been patched in the versions published on Tuesday, March 9th, 2021. As a workaound, if symbolic link support is disabled in Git (e.g. via `git config --global core.symlinks false`), the described attack won%t work. Likewise, if no clean/smudge filters such as Git LFS are configured globally (i.e. _before_ cloning), the attack is foiled. As always, it is best to avoid cloning repositories from untrusted sources. The earliest impacted version is 2.14.2. The fix versions are: 2.30.1, 2.29.3, 2.28.1, 2.27.1, 2.26.3, 2.25.5, 2.24.4, 2.23.4, 2.22.5, 2.21.4, 2.20.5, 2.19.6, 2.18.5, 2.17.62.17.6.| 
 
@@ -63,33 +63,37 @@
 # s2e on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210408T14:29:39Z | Null | https://github.com/yuvalkirstain/s2e-coref | 3 | 2| 
 
 
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210408T12:56:47Z | Just a temporary website to post my ctf writeups and journey into binary exploitation/malware analysis/exploit development | https://github.com/blackbeard666/blackbeard666.github.io | 0 | 0| 
-| 20210408T12:55:26Z | System Exploitation Fundamental | https://github.com/JiWonOck/DreamHack | 0 | 0| 
-| 20210408T12:54:15Z | Null | https://github.com/Dev-sketch23/The-Deer-God-DevelopersExploit | 0 | 0| 
-| 20210408T12:53:17Z | The exploits i made for real life applications and ctf%s :) | https://github.com/TamilHackz/i-make-exploits | 3 | 2| 
-| 20210408T12:50:42Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 12 | 8| 
-| 20210408T12:45:44Z | Vulmap 是一款 web 漏洞扫描和验证工具, 可对 webapps 进行漏洞扫描, 并且具备漏洞验证功能 | https://github.com/zhzyker/vulmap | 1194 | 217| 
-| 20210408T12:40:49Z | Attack and defend active directory using modern post exploitation adversary tradecraft activity | https://github.com/infosecn1nja/AD-Attack-Defense | 2754 | 720| 
-| 20210408T12:35:14Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9232 | 1492| 
-| 20210408T12:20:16Z | Nagios XI 5.7.X - Remote Code Execution RCE (Authenticated) | https://github.com/dock0d1/Exploit-Nagios-XI-5.7.X---Remote-Code-Execution-RCE-Authenticated- | 0 | 0| 
-| 20210408T12:14:36Z | Roblox Exploit GUI lol | https://github.com/TheMinecrafter05/FaceLesS | 0 | 0| 
+| 20210408T23:34:42Z | Self contained htaccess shells and attacks | https://github.com/wireghoul/htshells | 710 | 171| 
+| 20210408T23:18:43Z | Null | https://github.com/0xturazzi/Um-Livrinho-Sobre-Exploit-Dev | 0 | 0| 
+| 20210408T22:41:44Z | Fix seed glitch/exploit for Beta 1.1_02. | https://github.com/OldSchoolMinecraft/SeedFix | 0 | 0| 
+| 20210408T22:13:06Z | Null | https://github.com/HarryTheKing1/Harrys-Exploit | 0 | 0| 
+| 20210408T22:07:09Z | Merlin is a cross-platform post-exploitation HTTP/2 Command & Control  server and agent written in golang. | https://github.com/Ne0nd0g/merlin | 3101 | 470| 
+| 20210408T21:47:43Z | DVR Cameras automated exploit by python | https://github.com/m1zuk1g3/DVR-CamKatana | 2 | 1| 
+| 20210408T21:35:13Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9235 | 1494| 
+| 20210408T21:20:17Z | hack tools | https://github.com/hacktoolspack/hack-tools | 506 | 348| 
+| 20210408T21:20:11Z | this bash script is for remote linux hosts hacked! | https://github.com/FabioDefilippo/linuxallenum | 9 | 0| 
+| 20210408T21:19:39Z | PS4 Exploit Host | https://github.com/Night-King-Host/Night-King-Host.github.io | 7 | 3| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210408T18:22:06Z | Invisible, customizable backdoor for Minecraft Spigot Plugins. | https://github.com/ThiccIndustries/Minecraft-Backdoor | 2 | 2| 
+| 20210408T17:27:37Z | A demo and explanation of how backdoor poisoning in the form of a Trojan work in neural networks | https://github.com/adit-bala/Introduction-to-Trojans-in-AI | 0 | 0| 
+| 20210408T17:16:20Z | Reverse TCP trojan backdoor written in python | https://github.com/userlandkernel/Pyrovalerone | 3 | 0| 
+| 20210408T16:33:46Z | Just a repo for backdoors I find within webshells | https://github.com/meme-lord/PHPShellBackdoors | 0 | 2| 
+| 20210408T13:20:42Z | Null | https://github.com/UMBCvision/SSL-Backdoor | 0 | 0| 
 | 20210408T10:56:41Z | haj | https://github.com/RehderK/Backdoor | 0 | 0| 
 | 20210408T10:27:25Z | Windows RAT written in Java for learning purposes | https://github.com/hacefresko/JRAT | 9 | 4| 
 | 20210408T10:08:53Z | Null | https://github.com/GBSWHS/Wakeup-backdoor | 0 | 0| 
 | 20210408T09:27:54Z | Shell Backdoor | https://github.com/FadliYunianto/Fadli | 0 | 0| 
 | 20210408T05:32:29Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 205 | 34| 
-| 20210408T04:54:26Z | TrojanZoo provides a universal pytorch platform to conduct security researches (especially backdoor attacks/defenses) of image classification in deep learning. | https://github.com/ain-soph/trojanzoo | 57 | 10| 
-| 20210408T00:19:54Z | Null | https://github.com/UMBCvision/SSL-Backdoor | 0 | 0| 
 
 
 # fuzz on Github 推荐
