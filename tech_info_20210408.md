@@ -38,7 +38,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20210408T20:19:52Z | 未知编号 | 2020l4web-app-mockup-DanCvejn created by GitHub Classroom | https://github.com/pslib-cz/2020l4web-app-mockup-DanCvejn | | 
+| 20210408T20:19:52Z | 未知编号 | 2020l4web-app-mockup-DanCvejn created by GitHub Classroom | https://github.com/pslib-cz/2020l4web-app-mockup-DanCvejn | 未查询到CVE信息| 
 | 20210408T16:53:25Z | CVE-2020-0601 | PoC for CVE-2020-0601- Windows CryptoAPI (Crypt32.dll)  POC: https://github.com/ollypwn/CurveBall | https://github.com/yanghaoi/CVE-2020-0601 | A spoofing vulnerability exists in the way Windows CryptoAPI (Crypt32.dll) validates Elliptic Curve Cryptography (ECC) certificates.An attacker could exploit the vulnerability by using a spoofed code-signing certificate to sign a malicious executable, making it appear the file was from a trusted, legitimate source, aka %Windows CryptoAPI Spoofing Vulnerability%.| 
 | 20210408T15:39:33Z | CVE-2021-24098 | test | https://github.com/xuejilinhan/CVE-2021-24098 | Windows Console Driver Denial of Service Vulnerability| 
 | 20210408T15:37:26Z | CVE-2021-24086 | test | https://github.com/xuejilinhan/CVE-2021-24086 | Windows TCP/IP Denial of Service Vulnerability| 
@@ -75,9 +75,9 @@
 | 20210408T22:07:09Z | Merlin is a cross-platform post-exploitation HTTP/2 Command & Control  server and agent written in golang. | https://github.com/Ne0nd0g/merlin | 3101 | 470| 
 | 20210408T21:47:43Z | DVR Cameras automated exploit by python | https://github.com/m1zuk1g3/DVR-CamKatana | 2 | 1| 
 | 20210408T21:35:13Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9235 | 1494| 
-| 20210408T21:20:17Z | hack tools | https://github.com/hacktoolspack/hack-tools | 506 | 348| 
 | 20210408T21:20:11Z | this bash script is for remote linux hosts hacked! | https://github.com/FabioDefilippo/linuxallenum | 9 | 0| 
 | 20210408T21:19:39Z | PS4 Exploit Host | https://github.com/Night-King-Host/Night-King-Host.github.io | 7 | 3| 
+| 20210408T21:18:08Z | This bash script will help you to hack remote hosts  | https://github.com/FabioDefilippo/linuxallremote | 10 | 1| 
 
 
 # backdoor on Github 推荐
