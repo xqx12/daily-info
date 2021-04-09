@@ -99,16 +99,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210408T12:43:14Z | A Fuzzer implementation in Rust following the guidelines exposed in https://www.fuzzingbook.org/. | https://github.com/fuzzing-unb/Ruszzer | 0 | 0| 
-| 20210408T12:19:01Z | Python scripts to fuzz test a MUD through telnet. | https://github.com/virthe/mudfuzz | 0 | 0| 
-| 20210408T12:15:14Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 1 | 1| 
-| 20210408T11:45:16Z | PoC of fuzzing closed-source userspace binaries with KVM | https://github.com/klecko/kvm-fuzz | 3 | 1| 
-| 20210408T11:10:13Z | Null | https://github.com/valheruborn/fuzzy-parakeet | 0 | 0| 
-| 20210408T10:28:36Z | DDRFuzz is a fuzzing system based on a seq2seq model to generate valuable seed corpus. | https://github.com/kppw99/ddrfuzz | 1 | 1| 
-| 20210408T10:21:01Z | Fuzzy matching for Neovim | https://github.com/amirrezaask/fuzzy.nvim | 23 | 1| 
-| 20210408T09:51:33Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 1561 | 314| 
-| 20210408T09:39:52Z | Recent Fuzzing Paper | https://github.com/wcventure/FuzzingPaper | 807 | 137| 
-| 20210408T09:34:07Z | Null | https://github.com/tamara9avr/Fuzzy-logic | 0 | 0| 
+| 20210408T23:44:21Z | Studies on Fuzzy Inference developed under my masters degree. | https://github.com/renatolm/fuzzy-inference | 0 | 0| 
+| 20210408T23:42:45Z | Software for fuzzing, used on web application pentestings. | https://github.com/NESCAU-UFLA/FuzzingTool | 52 | 8| 
+| 20210408T23:08:10Z | Null | https://github.com/VeriBlock/fuzz-corpus | 0 | 1| 
+| 20210408T22:45:58Z | Scalable fuzzing infrastructure. | https://github.com/google/clusterfuzz | 4481 | 429| 
+| 20210408T22:43:16Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6181 | 1249| 
+| 20210408T22:12:37Z | Null | https://github.com/Perezc1143/fuzzy-octo-doodle | 0 | 0| 
+| 20210408T22:04:50Z | Personal website of Laurence Hughes | https://github.com/fuzzylogicxx/fuzzylogic | 4 | 1| 
+| 20210408T21:57:12Z | Python scripts to fuzz test a MUD through telnet. | https://github.com/virthe/mudfuzz | 1 | 0| 
+| 20210408T21:50:30Z | A python web-directory-fuzzer(tool that finds hidden directories or files on a target webserver), the python version of gobuster!!! | https://github.com/pb-cyb3r/Fuxxer | 1 | 0| 
+| 20210408T21:45:20Z | fpicker is a Frida-based fuzzing suite supporting various modes (including AFL++ in-process fuzzing) | https://github.com/ttdennis/fpicker | 64 | 4| 
 
 
 

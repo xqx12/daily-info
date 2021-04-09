@@ -112,16 +112,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210408T12:43:14Z | A Fuzzer implementation in Rust following the guidelines exposed in https://www.fuzzingbook.org/. | https://github.com/fuzzing-unb/Ruszzer | 0 | 0| 
-| 20210408T12:19:01Z | Python scripts to fuzz test a MUD through telnet. | https://github.com/virthe/mudfuzz | 0 | 0| 
-| 20210408T12:15:14Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 1 | 1| 
-| 20210408T11:45:16Z | PoC of fuzzing closed-source userspace binaries with KVM | https://github.com/klecko/kvm-fuzz | 3 | 1| 
-| 20210408T11:10:13Z | Null | https://github.com/valheruborn/fuzzy-parakeet | 0 | 0| 
-| 20210408T10:28:36Z | DDRFuzz is a fuzzing system based on a seq2seq model to generate valuable seed corpus. | https://github.com/kppw99/ddrfuzz | 1 | 1| 
-| 20210408T10:21:01Z | Fuzzy matching for Neovim | https://github.com/amirrezaask/fuzzy.nvim | 23 | 1| 
-| 20210408T09:51:33Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 1561 | 314| 
-| 20210408T09:39:52Z | Recent Fuzzing Paper | https://github.com/wcventure/FuzzingPaper | 807 | 137| 
-| 20210408T09:34:07Z | Null | https://github.com/tamara9avr/Fuzzy-logic | 0 | 0| 
+| 20210409T00:24:37Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 1 | 1| 
+| 20210409T00:22:54Z | FuzzBench - Fuzzer benchmarking as a service. | https://github.com/google/fuzzbench | 619 | 108| 
+| 20210409T00:15:19Z | Null | https://github.com/sudomakeinstall2/fuzzgoat-js | 0 | 0| 
+| 20210409T00:10:52Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2310 | 124| 
+| 20210409T00:04:31Z | CS 4152 Project | https://github.com/nicbarone/Fuzzy-Kiwi | 0 | 0| 
+| 20210409T00:03:58Z | This repository is for testing a number of open source applications for vulnerabilities using multiple fuzzers. | https://github.com/bartholomewHarris/fuzzingNode.jsApplications | 1 | 1| 
+| 20210408T23:44:21Z | Studies on Fuzzy Inference developed under my masters degree. | https://github.com/renatolm/fuzzy-inference | 0 | 0| 
+| 20210408T23:42:45Z | Software for fuzzing, used on web application pentestings. | https://github.com/NESCAU-UFLA/FuzzingTool | 52 | 8| 
+| 20210408T23:08:10Z | Null | https://github.com/VeriBlock/fuzz-corpus | 0 | 1| 
+| 20210408T22:45:58Z | Scalable fuzzing infrastructure. | https://github.com/google/clusterfuzz | 4481 | 429| 
 
 
 
