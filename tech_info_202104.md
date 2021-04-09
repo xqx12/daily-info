@@ -55,7 +55,7 @@
 | 20210408T15:37:26Z | CVE-2021-24086 | test | https://github.com/xuejilinhan/CVE-2021-24086 | Windows TCP/IP Denial of Service Vulnerability| 
 | 20210408T15:13:28Z | cve-2021-21635 | 测试 | https://github.com/kenyon-wong/cve-2021-21635 | Jenkins REST List Parameter Plugin 1.3.0 and earlier does not escape a parameter name reference in embedded JavaScript, resulting in a stored cross-site scripting (XSS) vulnerability exploitable by attackers with Job/Configure permission.| 
 | 20210408T10:24:19Z | CVE-2021-22192 | CVE-2021-22192 靶场： 未授权用户 RCE 漏洞 | https://github.com/lyy289065406/CVE-2021-22192 | An issue has been discovered in GitLab CE/EE affecting all versions starting from 13.2 allowing unauthorized authenticated users to execute arbitrary code on the server.| 
-| 20210408T08:38:31Z | CVE-2021-21402 | Jellyfin系统任意文件读取漏洞批量扫描验证脚本。 | https://github.com/MzzdToT/CVE-2021-21402 | Jellyfin is a Free Software Media System. In Jellyfin before version 10.7.1, with certain endpoints, well crafted requests will allow arbitrary file read from a Jellyfin server%s file system. This issue is more prevalent when Windows is used as the host OS. Servers that are exposed to the public Internet are potentially at risk. This is fixed in version 10.7.1. As a workaround, users may be able to restrict some access by enforcing strict security permissions on their filesystem, however, it is recommended to update as soon as possible.| 
+| 20210408T08:38:31Z | CVE-2021-21402 | Jellyfin系统任意文件读取漏洞批量扫描验证脚本。 | https://github.com/MzzdToT/CVE-2021-21402 | | 
 
 
 # klee on Github 推荐
@@ -82,10 +82,10 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210409T01:45:55Z | IoT 固件漏洞复现环境 | https://github.com/firmianay/IoT-vulhub | 359 | 31| 
 | 20210409T01:42:55Z | Just a temporary website to post my ctf writeups and journey into binary/android exploitation/malware analysis/exploit development | https://github.com/blackbeard666/pwn_exhibit | 3 | 1| 
 | 20210409T01:42:16Z | Merlin is a cross-platform post-exploitation HTTP/2 Command & Control  server and agent written in golang. | https://github.com/Ne0nd0g/merlin | 3102 | 471| 
 | 20210409T01:40:56Z | hack tools | https://github.com/hacktoolspack/hack-tools | 507 | 348| 
-| 20210409T01:20:13Z | IoT 固件漏洞复现环境 | https://github.com/firmianay/IoT-vulhub | 359 | 31| 
 | 20210409T01:02:27Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 21 | 8| 
 | 20210409T00:58:02Z | Hello, this is a write-up for a form of a ret2libc ROP attack, which is used to bypass a exploit mitigation, known as NX for linux and DEP for windows. | https://github.com/NopSIed/Ret2sys-Exploit-Write-up | 0 | 0| 
 | 20210409T00:50:41Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 12 | 8| 
