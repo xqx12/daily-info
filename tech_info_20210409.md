@@ -34,7 +34,7 @@
 | 20210409T12:04:50Z | CVE-2021-24086 | Proof of concept for CVE-2021-24086, a NULL dereference in tcpip.sys triggered remotely. | https://github.com/0vercl0k/CVE-2021-24086 | Windows TCP/IP Denial of Service Vulnerability| 
 | 20210409T10:08:27Z | CVE-2021-21402 | CVE-2021-21402-Jellyfin-任意文件读取 | https://github.com/jiaocoll/CVE-2021-21402-Jellyfin | Jellyfin is a Free Software Media System. In Jellyfin before version 10.7.1, with certain endpoints, well crafted requests will allow arbitrary file read from a Jellyfin server%s file system. This issue is more prevalent when Windows is used as the host OS. Servers that are exposed to the public Internet are potentially at risk. This is fixed in version 10.7.1. As a workaround, users may be able to restrict some access by enforcing strict security permissions on their filesystem, however, it is recommended to update as soon as possible.| 
 | 20210409T09:37:11Z | CVE-2020-35729 | CVE-2020-35729 | https://github.com/Al1ex/CVE-2020-35729 | KLog Server 2.4.1 allows OS command injection via shell metacharacters in the actions/authenticate.php user parameter.| 
-| 20210409T07:41:42Z | CVE-2020-9472 | Null | https://github.com/john-dooe/CVE-2020-9472-poisoned-plugin | Umbraco CMS 8.5.3 allows an authenticated file upload (and consequently Remote Code Execution) via the Install Package functionality.| 
+| 20210409T07:41:42Z | CVE-2020-9472 | Null | https://github.com/john-dooe/CVE-2020-9472-poisoned-plugin | | 
 | 20210409T07:38:09Z | CVE-2021-3317 | CVE-2021-3317 | https://github.com/Al1ex/CVE-2021-3317 | KLog Server through 2.4.1 allows authenticated command injection. async.php calls shell_exec() on the original value of the source parameter.| 
 | 20210409T06:42:34Z | CVE-2021-21402 | CVE-2021-21402 | https://github.com/xiaoshu-bit/CVE-2021-21402 | Jellyfin is a Free Software Media System. In Jellyfin before version 10.7.1, with certain endpoints, well crafted requests will allow arbitrary file read from a Jellyfin server%s file system. This issue is more prevalent when Windows is used as the host OS. Servers that are exposed to the public Internet are potentially at risk. This is fixed in version 10.7.1. As a workaround, users may be able to restrict some access by enforcing strict security permissions on their filesystem, however, it is recommended to update as soon as possible.| 
 | 20210409T00:52:13Z | cve-2021-34567 | Null | https://github.com/hu185396/cve-2021-34567 | 未查询到CVE信息| 
@@ -55,7 +55,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210409T12:24:12Z | Deep dive into Function, Predicate, Consumer, and Supplier. Understand how these functional interfaces are exploited by Java Stream and combinator pattern.  | https://github.com/davidmbochi/JavaFunctionalProgramming | 0 | 0| 
+| 20210409T12:25:19Z | Deep dive into Function, Predicate, Consumer, and Supplier. Understand how these functional interfaces are exploited by Java Stream and combinator pattern.  | https://github.com/davidmbochi/JavaFunctionalProgramming | 0 | 0| 
+| 20210409T12:25:03Z | Dette er basic runcode. Brug CEVA eller noget andet til at test lortet. Tak til @servercfg for den orginalle backdoor da vi fik ideen ud fra dem.  | https://github.com/DerpIsInactive/VpsStealerFiveM | 0 | 0| 
 | 20210409T12:19:32Z | This tool can help you to see the real IP behind CloudFlare protected websites. | https://github.com/zidansec/CrimeFlare | 29 | 9| 
 | 20210409T12:15:58Z | SikAl Exploit | https://github.com/rodirodi12/Script-Hub | 0 | 0| 
 | 20210409T12:09:53Z | Null | https://github.com/sudorm1023/cve-exploits | 0 | 0| 
@@ -64,7 +65,6 @@
 | 20210409T11:59:42Z | [+] Web crawler that look for possible exploits in URL%s | https://github.com/vLeeH/httpmapper | 2 | 0| 
 | 20210409T11:44:46Z | Null | https://github.com/exploiteverythingtamil/exploiteverythingtamil.github.io | 0 | 1| 
 | 20210409T11:22:30Z | Resources and articles I need to take a look at. Mostly about malware/exploit development and analysis. | https://github.com/Cerbersec/notes | 0 | 0| 
-| 20210409T11:20:59Z | 📈 A visualization of MetricQ data exploiting the advantages of the HTA db backend  | https://github.com/metricq/metricq-webview | 0 | 1| 
 
 
 # backdoor on Github 推荐
