@@ -82,7 +82,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210409T12:27:28Z | Dette er basic runcode. Brug CEVA eller noget andet til at test lortet. Tak til @servercfg for den orginalle backdoor da vi fik ideen ud fra dem.  | https://github.com/DerpIsInactive/VpsStealerFiveM | 0 | 0| 
+| 20210409T12:29:51Z | Dette er basic runcode. Brug CEVA eller noget andet til at test lortet. Tak til @servercfg for den orginalle backdoor da vi fik ideen ud fra dem.  | https://github.com/DerpIsInactive/VpsStealerFiveM | 1 | 1| 
 | 20210409T12:25:19Z | Deep dive into Function, Predicate, Consumer, and Supplier. Understand how these functional interfaces are exploited by Java Stream and combinator pattern.  | https://github.com/davidmbochi/JavaFunctionalProgramming | 0 | 0| 
 | 20210409T12:19:32Z | This tool can help you to see the real IP behind CloudFlare protected websites. | https://github.com/zidansec/CrimeFlare | 29 | 9| 
 | 20210409T12:15:58Z | SikAl Exploit | https://github.com/rodirodi12/Script-Hub | 0 | 0| 
@@ -97,7 +97,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210409T12:27:28Z | Dette er basic runcode. Brug CEVA eller noget andet til at test lortet. Tak til @servercfg for den orginalle backdoor da vi fik ideen ud fra dem.  | https://github.com/DerpIsInactive/VpsStealerFiveM | 0 | 0| 
+| 20210409T12:29:51Z | Dette er basic runcode. Brug CEVA eller noget andet til at test lortet. Tak til @servercfg for den orginalle backdoor da vi fik ideen ud fra dem.  | https://github.com/DerpIsInactive/VpsStealerFiveM | 1 | 1| 
 | 20210409T08:58:15Z | haj | https://github.com/RehderK/Backdoor | 0 | 0| 
 | 20210409T07:11:02Z | Un shell remoto (remote shell) es un programa que puede ejecutar comandos de shell como otro usuario desde otra computadora a través de la red, usando el modelo cliente-servidor. Cuando este programa no es legítimo o se utiliza para fines no permitidos o ilícitos, recibe el nombre de puerta trasera (backdoor). | https://github.com/Andres-Hernandez-Mata/Backdoor-Shell | 0 | 0| 
 | 20210409T04:55:58Z | Backdoor/Malware test in C. Uses two segments - Backdoor and Server; Backdoor works on windows machines and Server on Linux. No masking yet. | https://github.com/dh00mk3tu/Sling | 6 | 0| 
