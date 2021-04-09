@@ -47,13 +47,13 @@
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
 | 20210409T12:04:50Z | CVE-2021-24086 | Proof of concept for CVE-2021-24086, a NULL dereference in tcpip.sys triggered remotely. | https://github.com/0vercl0k/CVE-2021-24086 | 未查询到CVE信息| 
-| 20210409T10:08:27Z | CVE-2021-21402 | CVE-2021-21402-Jellyfin-任意文件读取 | https://github.com/jiaocoll/CVE-2021-21402-Jellyfin | 未查询到CVE信息| 
+| 20210409T10:08:27Z | CVE-2021-21402 | CVE-2021-21402-Jellyfin-任意文件读取 | https://github.com/jiaocoll/CVE-2021-21402-Jellyfin | | 
 | 20210409T09:37:11Z | CVE-2020-35729 | CVE-2020-35729 | https://github.com/Al1ex/CVE-2020-35729 | 未查询到CVE信息| 
 | 20210409T07:41:42Z | CVE-2020-9472 | Null | https://github.com/john-dooe/CVE-2020-9472-poisoned-plugin | 未查询到CVE信息| 
 | 20210409T07:38:09Z | CVE-2021-3317 | CVE-2021-3317 | https://github.com/Al1ex/CVE-2021-3317 | 未查询到CVE信息| 
 | 20210409T06:42:34Z | CVE-2021-21402 | CVE-2021-21402 | https://github.com/xiaoshu-bit/CVE-2021-21402 | 未查询到CVE信息| 
-| 20210409T00:52:13Z | cve-2021-34567 | Null | https://github.com/hu185396/cve-2021-34567 | | 
-| 20210409T00:41:55Z | CVE-2020-14882 | Null | https://github.com/nice0e3/CVE-2020-14882_Exploit_Gui | 未查询到CVE信息| 
+| 20210409T00:52:13Z | cve-2021-34567 | Null | https://github.com/hu185396/cve-2021-34567 | 未查询到CVE信息| 
+| 20210409T00:41:55Z | CVE-2020-14882 | Null | https://github.com/nice0e3/CVE-2020-14882_Exploit_Gui | | 
 | 20210408T20:19:52Z | 未知编号 | 2020l4web-app-mockup-DanCvejn created by GitHub Classroom | https://github.com/pslib-cz/2020l4web-app-mockup-DanCvejn | 未查询到CVE信息| 
 | 20210408T16:53:25Z | CVE-2020-0601 | PoC for CVE-2020-0601- Windows CryptoAPI (Crypt32.dll)  POC: https://github.com/ollypwn/CurveBall | https://github.com/yanghaoi/CVE-2020-0601 | 未查询到CVE信息| 
 
@@ -82,6 +82,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210409T12:19:32Z | This tool can help you to see the real IP behind CloudFlare protected websites. | https://github.com/zidansec/CrimeFlare | 29 | 9| 
 | 20210409T12:18:13Z | Deep dive into Function, Predicate, Consumer, and Supplier. Understand how these functional interfaces are exploited by Java Stream and combinator pattern.  | https://github.com/davidmbochi/JavaFunctionalProgramming | 0 | 0| 
 | 20210409T12:15:58Z | SikAl Exploit | https://github.com/rodirodi12/Script-Hub | 0 | 0| 
 | 20210409T12:09:53Z | Null | https://github.com/sudorm1023/cve-exploits | 0 | 0| 
@@ -91,7 +92,6 @@
 | 20210409T11:44:46Z | Null | https://github.com/exploiteverythingtamil/exploiteverythingtamil.github.io | 0 | 1| 
 | 20210409T11:22:30Z | Resources and articles I need to take a look at. Mostly about malware/exploit development and analysis. | https://github.com/Cerbersec/notes | 0 | 0| 
 | 20210409T11:20:59Z | 📈 A visualization of MetricQ data exploiting the advantages of the HTA db backend  | https://github.com/metricq/metricq-webview | 0 | 1| 
-| 20210409T10:40:18Z | PS4 Exploit list | https://github.com/Hakkuraifu/PS4xploit | 32 | 10| 
 
 
 # backdoor on Github 推荐
