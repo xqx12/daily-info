@@ -52,7 +52,7 @@
 | 20210409T07:41:42Z | CVE-2020-9472 | Null | https://github.com/john-dooe/CVE-2020-9472-poisoned-plugin | Umbraco CMS 8.5.3 allows an authenticated file upload (and consequently Remote Code Execution) via the Install Package functionality.| 
 | 20210409T07:38:09Z | CVE-2021-3317 | CVE-2021-3317 | https://github.com/Al1ex/CVE-2021-3317 | KLog Server through 2.4.1 allows authenticated command injection. async.php calls shell_exec() on the original value of the source parameter.| 
 | 20210409T06:42:34Z | CVE-2021-21402 | CVE-2021-21402 | https://github.com/xiaoshu-bit/CVE-2021-21402 | Jellyfin is a Free Software Media System. In Jellyfin before version 10.7.1, with certain endpoints, well crafted requests will allow arbitrary file read from a Jellyfin server%s file system. This issue is more prevalent when Windows is used as the host OS. Servers that are exposed to the public Internet are potentially at risk. This is fixed in version 10.7.1. As a workaround, users may be able to restrict some access by enforcing strict security permissions on their filesystem, however, it is recommended to update as soon as possible.| 
-| 20210409T00:52:13Z | cve-2021-34567 | Null | https://github.com/hu185396/cve-2021-34567 | | 
+| 20210409T00:52:13Z | cve-2021-34567 | Null | https://github.com/hu185396/cve-2021-34567 | 未查询到CVE信息| 
 | 20210409T00:41:55Z | CVE-2020-14882 | Null | https://github.com/nice0e3/CVE-2020-14882_Exploit_Gui | Vulnerability in the Oracle WebLogic Server product of Oracle Fusion Middleware (component: Console). Supported versions that are affected are 10.3.6.0.0, 12.1.3.0.0, 12.2.1.3.0, 12.2.1.4.0 and 14.1.1.0.0. Easily exploitable vulnerability allows unauthenticated attacker with network access via HTTP to compromise Oracle WebLogic Server. Successful attacks of this vulnerability can result in takeover of Oracle WebLogic Server. CVSS 3.1 Base Score 9.8 (Confidentiality, Integrity and Availability impacts). CVSS Vector: (CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H).| 
 | 20210408T20:19:52Z | 未知编号 | 2020l4web-app-mockup-DanCvejn created by GitHub Classroom | https://github.com/pslib-cz/2020l4web-app-mockup-DanCvejn | 未查询到CVE信息| 
 | 20210408T16:53:25Z | CVE-2020-0601 | PoC for CVE-2020-0601- Windows CryptoAPI (Crypt32.dll)  POC: https://github.com/ollypwn/CurveBall | https://github.com/yanghaoi/CVE-2020-0601 | A spoofing vulnerability exists in the way Windows CryptoAPI (Crypt32.dll) validates Elliptic Curve Cryptography (ECC) certificates.An attacker could exploit the vulnerability by using a spoofed code-signing certificate to sign a malicious executable, making it appear the file was from a trusted, legitimate source, aka %Windows CryptoAPI Spoofing Vulnerability%.| 
@@ -82,31 +82,31 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210409T01:53:47Z | hack tools | https://github.com/hacktoolspack/hack-tools | 506 | 348| 
-| 20210409T01:45:55Z | IoT 固件漏洞复现环境 | https://github.com/firmianay/IoT-vulhub | 359 | 31| 
-| 20210409T01:42:55Z | Just a temporary website to post my ctf writeups and journey into binary/android exploitation/malware analysis/exploit development | https://github.com/blackbeard666/pwn_exhibit | 3 | 1| 
-| 20210409T01:42:16Z | Merlin is a cross-platform post-exploitation HTTP/2 Command & Control  server and agent written in golang. | https://github.com/Ne0nd0g/merlin | 3102 | 471| 
-| 20210409T01:02:27Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 21 | 8| 
-| 20210409T00:58:02Z | Hello, this is a write-up for a form of a ret2libc ROP attack, which is used to bypass a exploit mitigation, known as NX for linux and DEP for windows. | https://github.com/NopSIed/Ret2sys-Exploit-Write-up | 0 | 0| 
-| 20210409T00:50:41Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 12 | 8| 
-| 20210409T00:44:02Z | Exploits project Hacking Command Center | https://github.com/chacka0101/exploits | 5 | 6| 
-| 20210409T00:41:48Z | Null | https://github.com/EXtremeExploit/EXtremeExploit.github.io | 0 | 0| 
-| 20210408T23:34:42Z | Self contained htaccess shells and attacks | https://github.com/wireghoul/htshells | 710 | 171| 
+| 20210409T12:02:40Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 21 | 8| 
+| 20210409T12:02:10Z | Writeups for the binary exploitation challenges, from protostar | https://github.com/Hep151/Protostar-Writeups | 0 | 0| 
+| 20210409T11:59:42Z | [+] Web crawler that look for possible exploits in URL%s | https://github.com/vLeeH/httpmapper | 2 | 0| 
+| 20210409T11:44:46Z | Null | https://github.com/exploiteverythingtamil/exploiteverythingtamil.github.io | 0 | 1| 
+| 20210409T11:22:30Z | Resources and articles I need to take a look at. Mostly about malware/exploit development and analysis. | https://github.com/Cerbersec/notes | 0 | 0| 
+| 20210409T11:20:59Z | 📈 A visualization of MetricQ data exploiting the advantages of the HTA db backend  | https://github.com/metricq/metricq-webview | 0 | 1| 
+| 20210409T10:40:18Z | PS4 Exploit list | https://github.com/Hakkuraifu/PS4xploit | 32 | 10| 
+| 20210409T10:27:22Z | weblogic full vulnerability exploit tool, support T3/XMLDecoder vulnerability scanning . | https://github.com/DesaiParekh/weblogic_cmd_plus | 24 | 5| 
+| 20210409T10:14:13Z | Exploitation and Mitigation Slides | https://github.com/dobin/yookiterm-slides | 74 | 25| 
+| 20210409T10:11:17Z | Null | https://github.com/C8739742/SaturnExploit | 0 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210409T08:58:15Z | haj | https://github.com/RehderK/Backdoor | 0 | 0| 
+| 20210409T07:11:02Z | Un shell remoto (remote shell) es un programa que puede ejecutar comandos de shell como otro usuario desde otra computadora a través de la red, usando el modelo cliente-servidor. Cuando este programa no es legítimo o se utiliza para fines no permitidos o ilícitos, recibe el nombre de puerta trasera (backdoor). | https://github.com/Andres-Hernandez-Mata/Backdoor-Shell | 0 | 0| 
+| 20210409T04:55:58Z | Backdoor/Malware test in C. Uses two segments - Backdoor and Server; Backdoor works on windows machines and Server on Linux. No masking yet. | https://github.com/dh00mk3tu/Sling | 6 | 0| 
+| 20210409T04:33:06Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 206 | 34| 
 | 20210409T01:41:13Z | Reverse TCP trojan backdoor written in python | https://github.com/userlandkernel/Pyrovalerone | 3 | 0| 
 | 20210408T18:22:06Z | Invisible, customizable backdoor for Minecraft Spigot Plugins. | https://github.com/ThiccIndustries/Minecraft-Backdoor | 2 | 2| 
 | 20210408T17:27:37Z | A demo and explanation of how backdoor poisoning in the form of a Trojan work in neural networks | https://github.com/adit-bala/Introduction-to-Trojans-in-AI | 0 | 0| 
 | 20210408T16:33:46Z | Just a repo for backdoors I find within webshells | https://github.com/meme-lord/PHPShellBackdoors | 0 | 2| 
 | 20210408T13:20:42Z | Null | https://github.com/UMBCvision/SSL-Backdoor | 0 | 0| 
-| 20210408T10:56:41Z | haj | https://github.com/RehderK/Backdoor | 0 | 0| 
 | 20210408T10:27:25Z | Windows RAT written in Java for learning purposes | https://github.com/hacefresko/JRAT | 9 | 4| 
-| 20210408T10:08:53Z | Null | https://github.com/GBSWHS/Wakeup-backdoor | 0 | 0| 
-| 20210408T09:27:54Z | Shell Backdoor | https://github.com/FadliYunianto/Fadli | 0 | 0| 
-| 20210408T05:32:29Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 205 | 34| 
 
 
 # fuzz on Github 推荐
