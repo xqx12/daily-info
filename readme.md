@@ -72,12 +72,12 @@
 | 20210408T23:18:43Z | Null | https://github.com/0xturazzi/Um-Livrinho-Sobre-Exploit-Dev | 0 | 0| 
 | 20210408T22:41:44Z | Fix seed glitch/exploit for Beta 1.1_02. | https://github.com/OldSchoolMinecraft/SeedFix | 0 | 0| 
 | 20210408T22:13:06Z | Null | https://github.com/HarryTheKing1/Harrys-Exploit | 0 | 0| 
-| 20210408T22:07:09Z | Merlin is a cross-platform post-exploitation HTTP/2 Command & Control  server and agent written in golang. | https://github.com/Ne0nd0g/merlin | 3101 | 470| 
 | 20210408T21:47:43Z | DVR Cameras automated exploit by python | https://github.com/m1zuk1g3/DVR-CamKatana | 2 | 1| 
 | 20210408T21:35:13Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9235 | 1494| 
 | 20210408T21:20:11Z | this bash script is for remote linux hosts hacked! | https://github.com/FabioDefilippo/linuxallenum | 9 | 0| 
 | 20210408T21:19:39Z | PS4 Exploit Host | https://github.com/Night-King-Host/Night-King-Host.github.io | 7 | 3| 
 | 20210408T21:18:08Z | This bash script will help you to hack remote hosts  | https://github.com/FabioDefilippo/linuxallremote | 10 | 1| 
+| 20210408T21:12:31Z | Null | https://github.com/HarryTheKing1/Harry-s-exploit-api | 0 | 0| 
 
 
 # backdoor on Github 推荐
