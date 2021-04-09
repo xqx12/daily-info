@@ -55,6 +55,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210409T12:14:10Z | Deep dive into Function, Predicate, Consumer, and Supplier. How this functional interfaces are exploited by Java Stream and combinator pattern.  | https://github.com/davidmbochi/JavaFunctionalProgramming | 0 | 0| 
 | 20210409T12:09:53Z | Null | https://github.com/sudorm1023/cve-exploits | 0 | 0| 
 | 20210409T12:02:40Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 21 | 8| 
 | 20210409T12:02:10Z | Writeups for the binary exploitation challenges, from protostar | https://github.com/Hep151/Protostar-Writeups | 0 | 0| 
@@ -64,7 +65,6 @@
 | 20210409T11:20:59Z | 📈 A visualization of MetricQ data exploiting the advantages of the HTA db backend  | https://github.com/metricq/metricq-webview | 0 | 1| 
 | 20210409T10:40:18Z | PS4 Exploit list | https://github.com/Hakkuraifu/PS4xploit | 32 | 10| 
 | 20210409T10:27:22Z | weblogic full vulnerability exploit tool, support T3/XMLDecoder vulnerability scanning . | https://github.com/DesaiParekh/weblogic_cmd_plus | 24 | 5| 
-| 20210409T10:14:13Z | Exploitation and Mitigation Slides | https://github.com/dobin/yookiterm-slides | 74 | 25| 
 
 
 # backdoor on Github 推荐
