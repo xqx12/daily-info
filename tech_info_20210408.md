@@ -101,7 +101,6 @@
 | --- | --- | --- | --- | ---| 
 | 20210408T23:44:21Z | Studies on Fuzzy Inference developed under my masters degree. | https://github.com/renatolm/fuzzy-inference | 0 | 0| 
 | 20210408T23:42:45Z | Software for fuzzing, used on web application pentestings. | https://github.com/NESCAU-UFLA/FuzzingTool | 52 | 8| 
-| 20210408T23:08:10Z | Null | https://github.com/VeriBlock/fuzz-corpus | 0 | 1| 
 | 20210408T22:45:58Z | Scalable fuzzing infrastructure. | https://github.com/google/clusterfuzz | 4481 | 429| 
 | 20210408T22:43:16Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6181 | 1249| 
 | 20210408T22:12:37Z | Null | https://github.com/Perezc1143/fuzzy-octo-doodle | 0 | 0| 
@@ -109,6 +108,7 @@
 | 20210408T21:57:12Z | Python scripts to fuzz test a MUD through telnet. | https://github.com/virthe/mudfuzz | 1 | 0| 
 | 20210408T21:50:30Z | A python web-directory-fuzzer(tool that finds hidden directories or files on a target webserver), the python version of gobuster!!! | https://github.com/pb-cyb3r/Fuxxer | 1 | 0| 
 | 20210408T21:45:20Z | fpicker is a Frida-based fuzzing suite supporting various modes (including AFL++ in-process fuzzing) | https://github.com/ttdennis/fpicker | 64 | 4| 
+| 20210408T21:37:26Z | Robust and versatile headless monkey (fuzz) testing for the web with reproducible steps, error alerts, strategy sharing and many other good things. | https://github.com/bell-lab-apps/fuzz-monkey | 0 | 0| 
 
 
 
