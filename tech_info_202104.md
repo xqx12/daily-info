@@ -82,6 +82,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210409T01:36:26Z | Just a temporary website to post my ctf writeups and journey into binary/android exploitation/malware analysis/exploit development | https://github.com/blackbeard666/pwn_exhibit | 3 | 1| 
 | 20210409T01:20:13Z | IoT 固件漏洞复现环境 | https://github.com/firmianay/IoT-vulhub | 359 | 31| 
 | 20210409T01:02:27Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 21 | 8| 
 | 20210409T00:58:02Z | Hello, this is a write-up for a form of a ret2libc ROP attack, which is used to bypass a exploit mitigation, known as NX for linux and DEP for windows. | https://github.com/NopSIed/Ret2sys-Exploit-Write-up | 0 | 0| 
@@ -91,7 +92,6 @@
 | 20210408T23:34:42Z | Self contained htaccess shells and attacks | https://github.com/wireghoul/htshells | 710 | 171| 
 | 20210408T23:18:43Z | Null | https://github.com/0xturazzi/Um-Livrinho-Sobre-Exploit-Dev | 0 | 0| 
 | 20210408T22:41:44Z | Fix seed glitch/exploit for Beta 1.1_02. | https://github.com/OldSchoolMinecraft/SeedFix | 0 | 0| 
-| 20210408T22:13:06Z | Null | https://github.com/HarryTheKing1/Harrys-Exploit | 0 | 0| 
 
 
 # backdoor on Github 推荐
