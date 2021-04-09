@@ -6,6 +6,15 @@
 # 玄武实验室 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20210409 | Hiding in the Particles: When Return-Oriented Programming Meets Program Obfuscation | https://arxiv.org/abs/2012.06658| 
+| 20210409 | CVE-2021-1386：Cisco AMP、Immunet 和 ClamAV 本地提权漏洞。 | https://zeroperil.com/cisco-amp-and-immunet-local-privilege-escalation-vulnerability-cve-2021-1386/| 
+| 20210409 | 针对 Symantec Endpoint Protection 的日志、隔离文件和上报引擎的研究。 | https://malwaremaloney.blogspot.com/p/all-things-symantec.html| 
+| 20210409 | Check Point Research 报告了伊朗的 APT34（OilRig）针对黎巴嫩攻击的证据，并发现新的后门变种 SideTwist。 | https://research.checkpoint.com/2021/irans-apt34-returns-with-an-updated-arsenal/| 
+| 20210409 | 记录一些有关内存注入检测的概念，并使用 TiETwAgent 测试一些检测用例。 | https://blog.redbluepurple.io/windows-security-research/kernel-tracing-injection-detection| 
+| 20210409 | CVE-2021-29154：Linux 内核中 BPF JIT 由于 branch displacements 错误计算，存在内核提权漏洞。 | https://seclists.org/oss-sec/2021/q2/12| 
+| 20210409 | 揭秘 Windows 减少攻击面（ASR：attack surface reduction）的细节。 | https://github.com/commial/experiments/tree/master/windows-defender/ASR| 
+| 20210409 | kubesploit：基于 Golang 开发的 C&C HTTP/2 服务，专注容器环境。 | https://github.com/cyberark/kubesploit| 
+| 20210409 | 提取 S3（ACPI 即高级配置与电源接口的模式之一） 启动脚本。 | https://labs.sentinelone.com/adventures-from-uefi-land-the-hunt-for-the-s3-boot-script/| 
 | 20210408 | 剖析 AZORult C&C 的设计和漏洞。 | https://www.virusbulletin.com/virusbulletin/2021/04/dissecting-design-and-vulnerabilities-azorultccpanels/| 
 | 20210408 | 有关 LSA Protection (aka Runs PPL) 的核心概念。 | https://itm4n.github.io/lsass-runasppl/| 
 | 20210408 | Attack Detection Fundamentals 2021 Windows Lab #4：窃取目标用户的 Chrome 浏览器中的 cookie，并探索如何检测这类可疑的劫持行为。 | https://labs.f-secure.com/blog/attack-detection-fundamentals-2021-windows-lab-4/| 
@@ -17,52 +26,43 @@
 | 20210408 | 分析 iOS 和 Android 上传到 Apple 和 Google 的隐私数据。 | https://www.scss.tcd.ie/doug.leith/apple_google.pdf| 
 | 20210408 | CVE-2021-24086 漏洞原理分析。CVE-2021-24086 是 Windows IPv6 协议栈存在一处拒绝服务漏洞，远程攻击者可通过向存在此漏洞的系统发送特制数据包，导致目标系统拒绝服务（蓝屏）。 | https://sec.today/pulses/00b64fa9-5ba2-4c24-a406-e446d9e71823/| 
 | 20210408 | 游戏业务 DDoS 攻防对抗案例分享。 | https://sec.today/pulses/eb18f392-7f30-439f-ac78-d3ef87f6810b/| 
-| 20210408 | 研究人员发现 Android 上一恶意应用通过 WhatsApp 的自动回复进行传播并执行恶意活动。 | https://sec.today/pulses/64cc7991-b6d8-4235-9043-888d5970382c/| 
-| 20210408 | 智能合约安全系列：百万合约之母以太坊的漏洞攻防术（上集） | https://sec.today/pulses/5e2ea863-e233-4ec9-8ac1-fd1ed1113585/| 
-| 20210408 | CVE-2021-24086 漏洞原理分析。CVE-2021-24086 是 Windows IPv6 协议栈存在一处拒绝服务漏洞，远程攻击者可通过向存在此漏洞的系统发送特制数据包，导致目标系统拒绝服务（蓝屏）。 | https://blog.quarkslab.com/analysis-of-a-windows-ipv6-fragmentation-vulnerability-cve-2021-24086.html| 
-| 20210408 | 游戏业务 DDoS 攻防对抗案例分享。 | https://security.tencent.com/index.php/blog/msg/186| 
-| 20210408 | 研究人员发现 Android 上一恶意应用通过 WhatsApp 的自动回复进行传播并执行恶意活动。 | https://research.checkpoint.com/2021/new-wormable-android-malware-spreads-by-creating-auto-replies-to-messages-in-whatsapp/| 
-| 20210408 | 智能合约安全系列：百万合约之母以太坊的漏洞攻防术（上集） | https://paper.seebug.org/1544/| 
-| 20210408 | 针对大规模HTTPS拦截的分析。 | https://blog.apnic.net/2021/02/15/an-analysis-of-a-large-scale-https-interception/| 
-| 20210408 | PowerShell Empire 渗透测试工具内置Mimikatz模块功能介绍。 | https://www.hackingarticles.in/powershell-empire-for-pentester-mimikatz-module/| 
-| 20210408 | IDA Pro 分析 dyld_shared_cache. | https://paper.seebug.org/1551/| 
 
 
 # 安全维基 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20210409 | 开始使用 Go | https://docs.microsoft.com/zh-cn/learn/paths/go-first-steps/| 
+| 20210409 | Pwn2Own 2021全程（附结果和录像视频） | https://mp.weixin.qq.com/s/blwGELCaPKC1HTczBcWkfQ| 
+| 20210409 | 从CTF比赛真题中学习压缩包伪加密与图片隐写术 | https://www.sec-in.com/article/1002| 
+| 20210409 | 游戏业务DDoS攻防对抗案例分享 | https://security.tencent.com/index.php/blog/msg/186| 
+| 20210409 | IDA Pro 分析 dyld_shared_cache | https://mp.weixin.qq.com/s/PGC7LKu-oC5ZaRxLFrhTsg| 
+| 20210409 | 记一次完整的内网渗透经历 | https://xz.aliyun.com/t/9374| 
 | 20210408 | 动态定时任务业务中的RCE | https://www.sec-in.com/article/1001| 
 | 20210408 | S&P 2021 论文录用列表 | https://mp.weixin.qq.com/s/8GUnjS_T1H7gqSVPInFObg| 
 | 20210407 | HIDS-Agent开发之检测反弹shell | https://www.anquanke.com/post/id/235717| 
 | 20210407 | IDA 辅助工具Karta——二进制文件中搜索开源代码 | https://www.anquanke.com/post/id/235632| 
-| 20210407 | ELK在渗透测试中的利用与安全配置解析 | https://xz.aliyun.com/t/9370| 
-| 20210407 | 内网渗透--对不出网目标的打法 | https://xz.aliyun.com/t/9372| 
-| 20210407 | 某VPN客户端远程下载文件执行挖掘 | https://mp.weixin.qq.com/s/XbsxziIFKx8VhGd-pv0Ghg| 
-| 20210407 | Shiro-550反序列化漏洞分析 | https://www.sec-in.com/article/999| 
-| 20210406 | 俄罗斯网络空间攻击特点与模式 | https://mp.weixin.qq.com/s/oMy1EDOYPT82ec5QEdiIVA| 
-| 20210406 | Dragos《2020年度工控网络安全回顾》 | https://mp.weixin.qq.com/s/ceASNJrgKkqgzlCnxNps7Q| 
 
 
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20210409T01:34:10Z | CVE-2021-24086 | Proof of concept for CVE-2021-24086, a NULL dereference in tcpip.sys triggered remotely. | https://github.com/0vercl0k/CVE-2021-24086 | Windows TCP/IP Denial of Service Vulnerability| 
-| 20210409T00:52:13Z | cve-2021-34567 | Null | https://github.com/hu185396/cve-2021-34567 | 未查询到CVE信息| 
-| 20210409T00:41:55Z | CVE-2020-14882 | Null | https://github.com/nice0e3/CVE-2020-14882_Exploit_Gui | | 
+| 20210409T10:08:27Z | CVE-2021-21402 | CVE-2021-21402-Jellyfin-任意文件读取 | https://github.com/jiaocoll/CVE-2021-21402-Jellyfin | Jellyfin is a Free Software Media System. In Jellyfin before version 10.7.1, with certain endpoints, well crafted requests will allow arbitrary file read from a Jellyfin server%s file system. This issue is more prevalent when Windows is used as the host OS. Servers that are exposed to the public Internet are potentially at risk. This is fixed in version 10.7.1. As a workaround, users may be able to restrict some access by enforcing strict security permissions on their filesystem, however, it is recommended to update as soon as possible.| 
+| 20210409T09:56:47Z | CVE-2021-24086 | Proof of concept for CVE-2021-24086, a NULL dereference in tcpip.sys triggered remotely. | https://github.com/0vercl0k/CVE-2021-24086 | Windows TCP/IP Denial of Service Vulnerability| 
+| 20210409T09:37:11Z | CVE-2020-35729 | CVE-2020-35729 | https://github.com/Al1ex/CVE-2020-35729 | KLog Server 2.4.1 allows OS command injection via shell metacharacters in the actions/authenticate.php user parameter.| 
+| 20210409T07:41:42Z | CVE-2020-9472 | Null | https://github.com/john-dooe/CVE-2020-9472-poisoned-plugin | Umbraco CMS 8.5.3 allows an authenticated file upload (and consequently Remote Code Execution) via the Install Package functionality.| 
+| 20210409T07:38:09Z | CVE-2021-3317 | CVE-2021-3317 | https://github.com/Al1ex/CVE-2021-3317 | KLog Server through 2.4.1 allows authenticated command injection. async.php calls shell_exec() on the original value of the source parameter.| 
+| 20210409T06:42:34Z | CVE-2021-21402 | CVE-2021-21402 | https://github.com/xiaoshu-bit/CVE-2021-21402 | Jellyfin is a Free Software Media System. In Jellyfin before version 10.7.1, with certain endpoints, well crafted requests will allow arbitrary file read from a Jellyfin server%s file system. This issue is more prevalent when Windows is used as the host OS. Servers that are exposed to the public Internet are potentially at risk. This is fixed in version 10.7.1. As a workaround, users may be able to restrict some access by enforcing strict security permissions on their filesystem, however, it is recommended to update as soon as possible.| 
+| 20210409T00:52:13Z | cve-2021-34567 | Null | https://github.com/hu185396/cve-2021-34567 | | 
+| 20210409T00:41:55Z | CVE-2020-14882 | Null | https://github.com/nice0e3/CVE-2020-14882_Exploit_Gui | Vulnerability in the Oracle WebLogic Server product of Oracle Fusion Middleware (component: Console). Supported versions that are affected are 10.3.6.0.0, 12.1.3.0.0, 12.2.1.3.0, 12.2.1.4.0 and 14.1.1.0.0. Easily exploitable vulnerability allows unauthenticated attacker with network access via HTTP to compromise Oracle WebLogic Server. Successful attacks of this vulnerability can result in takeover of Oracle WebLogic Server. CVSS 3.1 Base Score 9.8 (Confidentiality, Integrity and Availability impacts). CVSS Vector: (CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H).| 
 | 20210408T20:19:52Z | 未知编号 | 2020l4web-app-mockup-DanCvejn created by GitHub Classroom | https://github.com/pslib-cz/2020l4web-app-mockup-DanCvejn | 未查询到CVE信息| 
 | 20210408T16:53:25Z | CVE-2020-0601 | PoC for CVE-2020-0601- Windows CryptoAPI (Crypt32.dll)  POC: https://github.com/ollypwn/CurveBall | https://github.com/yanghaoi/CVE-2020-0601 | A spoofing vulnerability exists in the way Windows CryptoAPI (Crypt32.dll) validates Elliptic Curve Cryptography (ECC) certificates.An attacker could exploit the vulnerability by using a spoofed code-signing certificate to sign a malicious executable, making it appear the file was from a trusted, legitimate source, aka %Windows CryptoAPI Spoofing Vulnerability%.| 
-| 20210408T15:39:33Z | CVE-2021-24098 | test | https://github.com/xuejilinhan/CVE-2021-24098 | Windows Console Driver Denial of Service Vulnerability| 
-| 20210408T15:37:26Z | CVE-2021-24086 | test | https://github.com/xuejilinhan/CVE-2021-24086 | Windows TCP/IP Denial of Service Vulnerability| 
-| 20210408T15:13:28Z | cve-2021-21635 | 测试 | https://github.com/kenyon-wong/cve-2021-21635 | | 
-| 20210408T10:24:19Z | CVE-2021-22192 | CVE-2021-22192 靶场： 未授权用户 RCE 漏洞 | https://github.com/lyy289065406/CVE-2021-22192 | An issue has been discovered in GitLab CE/EE affecting all versions starting from 13.2 allowing unauthorized authenticated users to execute arbitrary code on the server.| 
-| 20210408T08:38:31Z | CVE-2021-21402 | Jellyfin系统任意文件读取漏洞批量扫描验证脚本。 | https://github.com/MzzdToT/CVE-2021-21402 | Jellyfin is a Free Software Media System. In Jellyfin before version 10.7.1, with certain endpoints, well crafted requests will allow arbitrary file read from a Jellyfin server%s file system. This issue is more prevalent when Windows is used as the host OS. Servers that are exposed to the public Internet are potentially at risk. This is fixed in version 10.7.1. As a workaround, users may be able to restrict some access by enforcing strict security permissions on their filesystem, however, it is recommended to update as soon as possible.| 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210409T09:21:49Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1662 | 487| 
 | 20210408T22:33:14Z | Create CFGs and compute complexity metrics for Python, C++, and Java code. | https://github.com/hmc-alpaqa/metrinome | 9 | 0| 
-| 20210408T19:53:36Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1661 | 487| 
 | 20210408T17:45:19Z | 원신 가챠 시뮬레이터 | https://github.com/LunaNyan/Genshin_Klee_Discord_Bot | 1 | 0| 
 | 20210408T15:46:59Z | Website for the KLEE project: https://klee.github.io/ | https://github.com/klee/klee.github.io | 14 | 43| 
 | 20210408T08:23:01Z | Symbiotic is a tool for finding bugs in computer programs based on instrumentation, program slicing and KLEE | https://github.com/staticafi/symbiotic | 214 | 35| 
