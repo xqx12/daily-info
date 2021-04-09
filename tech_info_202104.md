@@ -82,6 +82,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210409T00:58:02Z | Hello, this is a write-up for a form of a ret2libc ROP attack, which is used to bypass a exploit mitigation, known as NX for linux and DEP for windows. | https://github.com/NopSIed/Ret2sys-Exploit-Write-up | 0 | 0| 
 | 20210409T00:50:41Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 12 | 8| 
 | 20210409T00:44:02Z | Exploits project Hacking Command Center | https://github.com/chacka0101/exploits | 5 | 6| 
 | 20210409T00:41:48Z | Null | https://github.com/EXtremeExploit/EXtremeExploit.github.io | 0 | 0| 
@@ -91,7 +92,6 @@
 | 20210408T22:41:44Z | Fix seed glitch/exploit for Beta 1.1_02. | https://github.com/OldSchoolMinecraft/SeedFix | 0 | 0| 
 | 20210408T22:13:06Z | Null | https://github.com/HarryTheKing1/Harrys-Exploit | 0 | 0| 
 | 20210408T22:07:09Z | Merlin is a cross-platform post-exploitation HTTP/2 Command & Control  server and agent written in golang. | https://github.com/Ne0nd0g/merlin | 3101 | 470| 
-| 20210408T21:47:43Z | DVR Cameras automated exploit by python | https://github.com/m1zuk1g3/DVR-CamKatana | 2 | 1| 
 
 
 # backdoor on Github 推荐
