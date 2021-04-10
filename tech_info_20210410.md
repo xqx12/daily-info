@@ -68,7 +68,8 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210410T12:22:48Z | Null | https://github.com/s9varesc/url-fuzzing | 1 | 1| 
+| 20210410T12:31:08Z | Null | https://github.com/mnathvt/nlp_fuzzy_match_algorithms | 0 | 0| 
+| 20210410T12:29:04Z | Null | https://github.com/s9varesc/url-fuzzing | 1 | 1| 
 | 20210410T12:19:33Z | Fuzzy matching for Neovim | https://github.com/amirrezaask/fuzzy.nvim | 23 | 1| 
 | 20210410T12:15:09Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 1 | 2| 
 | 20210410T12:12:00Z | Fast web fuzzer written in Go | https://github.com/ffuf/ffuf | 4280 | 508| 
@@ -77,7 +78,6 @@
 | 20210410T12:01:02Z | Challenging testcases for fuzzers | https://github.com/AFLplusplus/fuzzer-challenges | 23 | 2| 
 | 20210410T11:58:28Z | Python scripts to fuzz test a MUD through telnet. | https://github.com/virthe/mudfuzz | 1 | 0| 
 | 20210410T11:51:50Z | Fuzzing, analysis response and detect vulnerability web application | https://github.com/hoangthanhnguyen/bigdig | 0 | 0| 
-| 20210410T11:32:23Z | Null | https://github.com/DanielEbert/EmulatedFirmwareFuzzing | 0 | 0| 
 
 
 
