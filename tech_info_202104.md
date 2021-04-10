@@ -82,7 +82,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210410T00:51:03Z | PS4 Exploit Host | https://github.com/Night-King-Host/Night-King-Host.github.io | 7 | 3| 
+| 20210410T00:53:44Z | PS4 Exploit Host | https://github.com/Night-King-Host/Night-King-Host.github.io | 7 | 3| 
 | 20210410T00:50:42Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 12 | 8| 
 | 20210410T00:49:07Z | Yet Another Exploit Host | https://github.com/Wr0zen/wr0zen.github.io | 1 | 1| 
 | 20210410T00:33:35Z | Various ASM, C and C++ tools, shellcodes and exploit experiments. | https://github.com/forrest-orr/ExploitDev | 3 | 0| 
