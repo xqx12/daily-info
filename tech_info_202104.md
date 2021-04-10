@@ -82,6 +82,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210410T00:25:13Z | Yet Another Exploit Host | https://github.com/Wr0zen/wr0zen.github.io | 1 | 1| 
 | 20210410T00:23:45Z | PS4 Exploit Host | https://github.com/Night-King-Host/Night-King-Host.github.io | 7 | 3| 
 | 20210410T00:06:09Z | Exploit allowing to load arbitrary code on the PSX using only a memory card (no game needed) | https://github.com/brad-lin/FreePSXBoot | 1 | 1| 
 | 20210410T00:02:31Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 21 | 8| 
@@ -91,7 +92,6 @@
 | 20210409T22:46:50Z | X Attacker Tool ☣ Website Vulnerability Scanner & Auto Exploiter | https://github.com/Moham3dRiahi/XAttacker | 909 | 409| 
 | 20210409T22:46:08Z | Various ASM, C and C++ tools, shellcodes and exploit experiments. | https://github.com/forrest-orr/ExploitDev | 3 | 0| 
 | 20210409T21:48:37Z | Null | https://github.com/PazonDiscord/FlunksExploit | 0 | 0| 
-| 20210409T21:41:09Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9238 | 1494| 
 
 
 # backdoor on Github 推荐
