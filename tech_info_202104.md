@@ -31,6 +31,9 @@
 # 安全维基 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20210410 | Four Bytes of Power: exploiting CVE-2021-26708 in the Linu... | http://blog.ptsecurity.com/2021/04/four-bytes-of-power-exploiting-cve-2021.html| 
+| 20210410 | 深度分析：4种国产CPU架构和6大品牌 | https://mp.weixin.qq.com/s/FoAPSNW0LFKuerEPJfFmgw| 
+| 20210410 | 白盒代码审计系统建设实践2：深入理解SAST | https://mp.weixin.qq.com/s/jQfsUg4vhEs3XwTcXkqhyQ| 
 | 20210409 | 开始使用 Go | https://docs.microsoft.com/zh-cn/learn/paths/go-first-steps/| 
 | 20210409 | Pwn2Own 2021全程（附结果和录像视频） | https://mp.weixin.qq.com/s/blwGELCaPKC1HTczBcWkfQ| 
 | 20210409 | 从CTF比赛真题中学习压缩包伪加密与图片隐写术 | https://www.sec-in.com/article/1002| 
@@ -38,39 +41,36 @@
 | 20210409 | IDA Pro 分析 dyld_shared_cache | https://mp.weixin.qq.com/s/PGC7LKu-oC5ZaRxLFrhTsg| 
 | 20210409 | 记一次完整的内网渗透经历 | https://xz.aliyun.com/t/9374| 
 | 20210408 | 动态定时任务业务中的RCE | https://www.sec-in.com/article/1001| 
-| 20210408 | S&P 2021 论文录用列表 | https://mp.weixin.qq.com/s/8GUnjS_T1H7gqSVPInFObg| 
-| 20210407 | HIDS-Agent开发之检测反弹shell | https://www.anquanke.com/post/id/235717| 
-| 20210407 | IDA 辅助工具Karta——二进制文件中搜索开源代码 | https://www.anquanke.com/post/id/235632| 
 
 
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20210410T01:33:16Z | CVE-2021-24086 | Proof of concept for CVE-2021-24086, a NULL dereference in tcpip.sys triggered remotely. | https://github.com/0vercl0k/CVE-2021-24086 | Windows TCP/IP Denial of Service Vulnerability| 
+| 20210410T09:25:32Z | CVE-2021-25374 | Null | https://github.com/FSecureLABS/CVE-2021-25374_Samsung-Account-Access | An improper authorization vulnerability in Samsung Members %samsungrewards% scheme for deeplink in versions 2.4.83.9 in Android O(8.1) and below, and 3.9.00.9 in Android P(9.0) and above allows remote attackers to access a user data related with Samsung Account.| 
+| 20210410T08:45:48Z | CVE-2021-24086 | Proof of concept for CVE-2021-24086, a NULL dereference in tcpip.sys triggered remotely. | https://github.com/0vercl0k/CVE-2021-24086 | Windows TCP/IP Denial of Service Vulnerability| 
+| 20210410T06:05:46Z | CVE-2021-3297 | Null | https://github.com/Sec504/Zyxel-NBG2105-CVE-2021-3297 | On Zyxel NBG2105 V1.00(AAGU.2)C0 devices, setting the login cookie to 1 provides administrator access.| 
+| 20210410T05:10:05Z | cve-2020-10977 | GitLab 12.9.0 Arbitrary File Read  | https://github.com/thewhiteh4t/cve-2020-10977 | GitLab EE/CE 8.5 to 12.9 is vulnerable to a an path traversal when moving an issue between projects.| 
+| 20210410T03:53:41Z | CVE-2021-9876543210 | Null | https://github.com/lorddian/CVE-2021-9876543210 | 未查询到CVE信息| 
+| 20210410T03:42:46Z | CVE-2021-12345678910 | Null | https://github.com/lorddian/CVE-2021-12345678910JQK | 未查询到CVE信息| 
+| 20210410T03:39:39Z | CVE-2021-88888888899 | Null | https://github.com/lorddian/CVE-2021-88888888899 | 未查询到CVE信息| 
+| 20210410T03:10:17Z | CVE-2021-21402 | CVE-2021-21402-Jellyfin-任意文件读取 | https://github.com/jiaocoll/CVE-2021-21402-Jellyfin | Jellyfin is a Free Software Media System. In Jellyfin before version 10.7.1, with certain endpoints, well crafted requests will allow arbitrary file read from a Jellyfin server%s file system. This issue is more prevalent when Windows is used as the host OS. Servers that are exposed to the public Internet are potentially at risk. This is fixed in version 10.7.1. As a workaround, users may be able to restrict some access by enforcing strict security permissions on their filesystem, however, it is recommended to update as soon as possible.| 
 | 20210409T18:03:03Z | 未知编号 | Null | https://github.com/jessica0f0116/cve_2021_1732 | 未查询到CVE信息| 
-| 20210409T16:21:07Z | CVE-2021-21402 | CVE-2021-21402-Jellyfin-任意文件读取 | https://github.com/jiaocoll/CVE-2021-21402-Jellyfin | Jellyfin is a Free Software Media System. In Jellyfin before version 10.7.1, with certain endpoints, well crafted requests will allow arbitrary file read from a Jellyfin server%s file system. This issue is more prevalent when Windows is used as the host OS. Servers that are exposed to the public Internet are potentially at risk. This is fixed in version 10.7.1. As a workaround, users may be able to restrict some access by enforcing strict security permissions on their filesystem, however, it is recommended to update as soon as possible.| 
 | 20210409T16:20:21Z | CVE-2021-26295 | CVE-2021-26295-POC 利用DNSlog进行CVE-2021-26295的漏洞验证。  使用 poc：将目标放于target.txt后运行python poc.py即可。（Jdk环境需<12，否则ysoserial无法正常生成有效载荷）  exp：python exp.py https://baidu.com然后进入命令执行界面（无回显） | https://github.com/coolyin001/CVE-2021-26295-- | Apache OFBiz has unsafe deserialization prior to 17.12.06. An unauthenticated attacker can use this vulnerability to successfully take over Apache OFBiz.| 
-| 20210409T09:37:11Z | CVE-2020-35729 | CVE-2020-35729 | https://github.com/Al1ex/CVE-2020-35729 | KLog Server 2.4.1 allows OS command injection via shell metacharacters in the actions/authenticate.php user parameter.| 
-| 20210409T07:41:42Z | CVE-2020-9472 | Null | https://github.com/john-dooe/CVE-2020-9472-poisoned-plugin | Umbraco CMS 8.5.3 allows an authenticated file upload (and consequently Remote Code Execution) via the Install Package functionality.| 
-| 20210409T07:38:09Z | CVE-2021-3317 | CVE-2021-3317 | https://github.com/Al1ex/CVE-2021-3317 | KLog Server through 2.4.1 allows authenticated command injection. async.php calls shell_exec() on the original value of the source parameter.| 
-| 20210409T06:42:34Z | CVE-2021-21402 | CVE-2021-21402 | https://github.com/xiaoshu-bit/CVE-2021-21402 | Jellyfin is a Free Software Media System. In Jellyfin before version 10.7.1, with certain endpoints, well crafted requests will allow arbitrary file read from a Jellyfin server%s file system. This issue is more prevalent when Windows is used as the host OS. Servers that are exposed to the public Internet are potentially at risk. This is fixed in version 10.7.1. As a workaround, users may be able to restrict some access by enforcing strict security permissions on their filesystem, however, it is recommended to update as soon as possible.| 
-| 20210409T00:52:13Z | cve-2021-34567 | Null | https://github.com/hu185396/cve-2021-34567 | 未查询到CVE信息| 
-| 20210409T00:41:55Z | CVE-2020-14882 | Null | https://github.com/nice0e3/CVE-2020-14882_Exploit_Gui | Vulnerability in the Oracle WebLogic Server product of Oracle Fusion Middleware (component: Console). Supported versions that are affected are 10.3.6.0.0, 12.1.3.0.0, 12.2.1.3.0, 12.2.1.4.0 and 14.1.1.0.0. Easily exploitable vulnerability allows unauthenticated attacker with network access via HTTP to compromise Oracle WebLogic Server. Successful attacks of this vulnerability can result in takeover of Oracle WebLogic Server. CVSS 3.1 Base Score 9.8 (Confidentiality, Integrity and Availability impacts). CVSS Vector: (CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H).| 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210410T11:58:38Z | Config files for my GitHub profile. | https://github.com/einKlee/einKlee | 0 | 0| 
+| 20210410T10:12:17Z | Personal Blog | https://github.com/klee1611/klee1611.github.io | 0 | 0| 
+| 20210410T10:10:18Z | RVT is a collection of tools/libraries to support both static and dynamic verification of Rust programs. | https://github.com/project-oak/rust-verification-tools | 119 | 10| 
 | 20210409T21:40:26Z | Spring 2021 Geography 817 work folder  | https://github.com/klee12/klee12.github.io | 0 | 0| 
 | 20210409T17:15:00Z | Null | https://github.com/yuexu-98/klee | 0 | 0| 
-| 20210409T15:39:21Z | RVT is a collection of tools/libraries to support both static and dynamic verification of Rust programs. | https://github.com/project-oak/rust-verification-tools | 118 | 10| 
 | 20210409T14:33:23Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1665 | 487| 
 | 20210408T22:33:14Z | Create CFGs and compute complexity metrics for Python, C++, and Java code. | https://github.com/hmc-alpaqa/metrinome | 9 | 0| 
 | 20210408T17:45:19Z | 원신 가챠 시뮬레이터 | https://github.com/LunaNyan/Genshin_Klee_Discord_Bot | 1 | 0| 
 | 20210408T15:46:59Z | Website for the KLEE project: https://klee.github.io/ | https://github.com/klee/klee.github.io | 14 | 43| 
 | 20210408T08:23:01Z | Symbiotic is a tool for finding bugs in computer programs based on instrumentation, program slicing and KLEE | https://github.com/staticafi/symbiotic | 214 | 35| 
-| 20210407T22:59:47Z | Null | https://github.com/mrexodia/klee_vscode | 0 | 0| 
-| 20210407T15:05:35Z | Null | https://github.com/dorawei/klee-tc | 0 | 0| 
 
 
 # s2e on Github 推荐
