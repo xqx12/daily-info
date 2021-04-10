@@ -82,7 +82,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210410T12:39:45Z | HOW TO EXPLOIT THE VULNERABILITY IN WINDOWS USING THE METASPLOIT FRAME WORK | https://github.com/ROHITHRAVAN1/PENTESTING-WINDOWS-USING-METASPLOIT | 0 | 0| 
+| 20210410T12:40:42Z | HOW TO EXPLOIT THE VULNERABILITY IN WINDOWS USING THE METASPLOIT FRAME WORK | https://github.com/ROHITHRAVAN1/PENTESTING-WINDOWS-USING-METASPLOIT | 0 | 0| 
 | 20210410T12:39:03Z | CROS Exploit | https://github.com/SecFathy/CROS-Exploit | 0 | 1| 
 | 20210410T12:35:42Z | Several tools for exploits. | https://github.com/vLeeH/WebCracker | 1 | 0| 
 | 20210410T12:35:11Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9237 | 1493| 
