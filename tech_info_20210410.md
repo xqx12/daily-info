@@ -26,7 +26,7 @@
 | 20210410T03:53:41Z | CVE-2021-9876543210 | Null | https://github.com/lorddian/CVE-2021-9876543210 | 未查询到CVE信息| 
 | 20210410T03:42:46Z | CVE-2021-12345678910 | Null | https://github.com/lorddian/CVE-2021-12345678910JQK | 未查询到CVE信息| 
 | 20210410T03:39:39Z | CVE-2021-88888888899 | Null | https://github.com/lorddian/CVE-2021-88888888899 | 未查询到CVE信息| 
-| 20210410T03:10:17Z | CVE-2021-21402 | CVE-2021-21402-Jellyfin-任意文件读取 | https://github.com/jiaocoll/CVE-2021-21402-Jellyfin | | 
+| 20210410T03:10:17Z | CVE-2021-21402 | CVE-2021-21402-Jellyfin-任意文件读取 | https://github.com/jiaocoll/CVE-2021-21402-Jellyfin | Jellyfin is a Free Software Media System. In Jellyfin before version 10.7.1, with certain endpoints, well crafted requests will allow arbitrary file read from a Jellyfin server%s file system. This issue is more prevalent when Windows is used as the host OS. Servers that are exposed to the public Internet are potentially at risk. This is fixed in version 10.7.1. As a workaround, users may be able to restrict some access by enforcing strict security permissions on their filesystem, however, it is recommended to update as soon as possible.| 
 
 
 # klee on Github 推荐
@@ -60,6 +60,9 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210410T11:00:14Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 207 | 34| 
+| 20210410T09:17:11Z | 🤖An Evil and Smart Bot for Enslaving Windows. | https://github.com/wildonion/katyusha | 1 | 1| 
+| 20210410T08:50:36Z | Null | https://github.com/igpig/igpigs-Backdoor | 0 | 0| 
 
 
 # fuzz on Github 推荐

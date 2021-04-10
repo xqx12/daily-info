@@ -53,7 +53,7 @@
 | 20210410T03:53:41Z | CVE-2021-9876543210 | Null | https://github.com/lorddian/CVE-2021-9876543210 | 未查询到CVE信息| 
 | 20210410T03:42:46Z | CVE-2021-12345678910 | Null | https://github.com/lorddian/CVE-2021-12345678910JQK | 未查询到CVE信息| 
 | 20210410T03:39:39Z | CVE-2021-88888888899 | Null | https://github.com/lorddian/CVE-2021-88888888899 | 未查询到CVE信息| 
-| 20210410T03:10:17Z | CVE-2021-21402 | CVE-2021-21402-Jellyfin-任意文件读取 | https://github.com/jiaocoll/CVE-2021-21402-Jellyfin | | 
+| 20210410T03:10:17Z | CVE-2021-21402 | CVE-2021-21402-Jellyfin-任意文件读取 | https://github.com/jiaocoll/CVE-2021-21402-Jellyfin | Jellyfin is a Free Software Media System. In Jellyfin before version 10.7.1, with certain endpoints, well crafted requests will allow arbitrary file read from a Jellyfin server%s file system. This issue is more prevalent when Windows is used as the host OS. Servers that are exposed to the public Internet are potentially at risk. This is fixed in version 10.7.1. As a workaround, users may be able to restrict some access by enforcing strict security permissions on their filesystem, however, it is recommended to update as soon as possible.| 
 | 20210409T18:03:03Z | 未知编号 | Null | https://github.com/jessica0f0116/cve_2021_1732 | 未查询到CVE信息| 
 | 20210409T16:20:21Z | CVE-2021-26295 | CVE-2021-26295-POC 利用DNSlog进行CVE-2021-26295的漏洞验证。  使用 poc：将目标放于target.txt后运行python poc.py即可。（Jdk环境需<12，否则ysoserial无法正常生成有效载荷）  exp：python exp.py https://baidu.com然后进入命令执行界面（无回显） | https://github.com/coolyin001/CVE-2021-26295-- | Apache OFBiz has unsafe deserialization prior to 17.12.06. An unauthenticated attacker can use this vulnerability to successfully take over Apache OFBiz.| 
 
@@ -97,16 +97,16 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210410T11:00:14Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 207 | 34| 
+| 20210410T09:17:11Z | 🤖An Evil and Smart Bot for Enslaving Windows. | https://github.com/wildonion/katyusha | 1 | 1| 
+| 20210410T08:50:36Z | Null | https://github.com/igpig/igpigs-Backdoor | 0 | 0| 
 | 20210409T21:23:55Z | Null | https://github.com/Wiilldd/backdoor | 0 | 0| 
-| 20210409T16:07:22Z | 🤖An Evil and Smart Bot for Enslaving Windows. | https://github.com/wildonion/katyusha | 1 | 1| 
 | 20210409T15:40:39Z | Reverse TCP trojan backdoor written in python | https://github.com/userlandkernel/Pyrovalerone | 3 | 0| 
 | 20210409T15:32:14Z | Undetectable & Xor encrypting with custom KEY (FUD Metasploit Rat) bypass Top Antivirus like BitDefender,Malwarebytes,Avast,ESET-NOD32,AVG,... & Automatically Add ICON and MANIFEST to excitable | https://github.com/persianhydra/Xeexe-TopAntivirusEvasion | 424 | 100| 
 | 20210409T14:57:48Z | Null | https://github.com/Delle9999/backdoor | 0 | 0| 
 | 20210409T12:35:13Z | Dette er basic runcode. Brug CEVA eller noget andet til at test lortet. Tak til @servercfg for den orginalle backdoor da vi fik ideen ud fra dem.  | https://github.com/DerpIsInactive/VpsStealerFiveM | 2 | 1| 
 | 20210409T08:58:15Z | haj | https://github.com/RehderK/Backdoor | 0 | 0| 
 | 20210409T07:11:02Z | Un shell remoto (remote shell) es un programa que puede ejecutar comandos de shell como otro usuario desde otra computadora a través de la red, usando el modelo cliente-servidor. Cuando este programa no es legítimo o se utiliza para fines no permitidos o ilícitos, recibe el nombre de puerta trasera (backdoor). | https://github.com/Andres-Hernandez-Mata/Backdoor-Shell | 0 | 0| 
-| 20210409T04:55:58Z | Backdoor/Malware test in C. Uses two segments - Backdoor and Server; Backdoor works on windows machines and Server on Linux. No masking yet. | https://github.com/dh00mk3tu/Sling | 6 | 0| 
-| 20210409T04:33:06Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 206 | 34| 
 
 
 # fuzz on Github 推荐
