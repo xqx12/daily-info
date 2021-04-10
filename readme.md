@@ -46,6 +46,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210410T12:38:22Z | CROS Exploit | https://github.com/SecFathy/CROS-Exploit | 0 | 1| 
 | 20210410T12:35:42Z | Several tools for exploits. | https://github.com/vLeeH/WebCracker | 1 | 0| 
 | 20210410T12:35:11Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9237 | 1493| 
 | 20210410T12:33:56Z | IC1 project part %Low% (Exploitation) | https://github.com/buykjk/ic1-project-low | 0 | 0| 
@@ -55,7 +56,6 @@
 | 20210410T11:44:15Z | Roblox Exploit GUI lol | https://github.com/TheMinecrafter05/FaceLesS | 0 | 0| 
 | 20210410T11:31:17Z | Writeups for the binary exploitation challenges, from protostar | https://github.com/Hep151/Protostar-Writeups | 0 | 0| 
 | 20210410T11:24:54Z | More Stable Offline Exploit version of PS4 6.72 Jailbreak. | https://github.com/DarkModderVC/PS4JB | 128 | 49| 
-| 20210410T11:23:41Z | A python script file to statically and dynamically investigate and analyse binary files for buffer overflow exploits. | https://github.com/BroadbentT/BINARY-MASTER | 0 | 0| 
 
 
 # backdoor on Github 推荐
