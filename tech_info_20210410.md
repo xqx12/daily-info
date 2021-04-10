@@ -63,10 +63,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210410T01:06:32Z | OSS-Fuzz seed corpora for libjpeg-turbo | https://github.com/libjpeg-turbo/seed-corpora | 0 | 0| 
-| 20210410T00:28:01Z | Fuzzing cryptographic libraries. Magic bug printer go brrrr. | https://github.com/guidovranken/cryptofuzz | 272 | 37| 
-| 20210410T00:23:30Z | Null | https://github.com/cyrus1123/FuzzyCevae | 0 | 0| 
-| 20210410T00:09:14Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 30846 | 15762| 
+| 20210410T12:01:59Z | Fast web fuzzer written in Go | https://github.com/ffuf/ffuf | 4280 | 508| 
+| 20210410T12:01:02Z | Challenging testcases for fuzzers | https://github.com/AFLplusplus/fuzzer-challenges | 23 | 2| 
+| 20210410T12:00:16Z | Null | https://github.com/tiffanybonzon/serie5_parsing_fuzzing | 0 | 0| 
+| 20210410T11:58:28Z | Python scripts to fuzz test a MUD through telnet. | https://github.com/virthe/mudfuzz | 1 | 0| 
+| 20210410T11:52:29Z | Null | https://github.com/Sambigeara/fuzzynote | 2 | 1| 
+| 20210410T11:51:50Z | Fuzzing, analysis response and detect vulnerability web application | https://github.com/hoangthanhnguyen/bigdig | 0 | 0| 
+| 20210410T11:32:23Z | Null | https://github.com/DanielEbert/EmulatedFirmwareFuzzing | 0 | 0| 
+| 20210410T11:27:39Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 3451 | 793| 
+| 20210410T11:08:33Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6186 | 1248| 
+| 20210410T11:06:03Z | My end of year project_ Not done yet ! | https://github.com/Rad-hi/Fuzzy_Fire_Detection | 0 | 0| 
 
 
 
