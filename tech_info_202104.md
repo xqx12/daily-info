@@ -112,6 +112,8 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210410T00:28:01Z | Fuzzing cryptographic libraries. Magic bug printer go brrrr. | https://github.com/guidovranken/cryptofuzz | 272 | 37| 
+| 20210410T00:23:30Z | Null | https://github.com/cyrus1123/FuzzyCevae | 0 | 0| 
 | 20210410T00:09:14Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 30846 | 15762| 
 | 20210409T23:37:20Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2312 | 124| 
 | 20210409T22:46:01Z | Python scripts to fuzz test a MUD through telnet. | https://github.com/virthe/mudfuzz | 1 | 0| 
@@ -120,8 +122,6 @@
 | 20210409T21:05:20Z | Robust and versatile headless monkey (fuzz) testing for the web with reproducible steps, error alerts, strategy sharing and many other good things. | https://github.com/bell-lab-apps/fuzz-monkey | 0 | 0| 
 | 20210409T21:03:48Z | Fast SublimeText-like fuzzy search for JavaScript. | https://github.com/farzher/fuzzysort | 2405 | 125| 
 | 20210409T20:38:41Z | Null | https://github.com/gdepuydt/fuzzoz | 0 | 0| 
-| 20210409T20:35:14Z | JQF + Zest: Coverage-guided semantic fuzzing for Java. | https://github.com/rohanpadhye/JQF | 343 | 47| 
-| 20210409T20:24:59Z | The SMB Fuzzer fuzzes the Server  Message Block Protocol that enables file sharing, printing and IPC between Unix and Windows systems. | https://github.com/mellowCS/SMB_Fuzzer | 0 | 0| 
 
 
 
