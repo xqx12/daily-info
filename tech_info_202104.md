@@ -46,8 +46,8 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20210410T01:33:16Z | CVE-2021-24086 | Proof of concept for CVE-2021-24086, a NULL dereference in tcpip.sys triggered remotely. | https://github.com/0vercl0k/CVE-2021-24086 | | 
-| 20210409T18:03:03Z | 未知编号 | Null | https://github.com/jessica0f0116/cve_2021_1732 | 未查询到CVE信息| 
+| 20210410T01:33:16Z | CVE-2021-24086 | Proof of concept for CVE-2021-24086, a NULL dereference in tcpip.sys triggered remotely. | https://github.com/0vercl0k/CVE-2021-24086 | Windows TCP/IP Denial of Service Vulnerability| 
+| 20210409T18:03:03Z | 未知编号 | Null | https://github.com/jessica0f0116/cve_2021_1732 | | 
 | 20210409T16:21:07Z | CVE-2021-21402 | CVE-2021-21402-Jellyfin-任意文件读取 | https://github.com/jiaocoll/CVE-2021-21402-Jellyfin | Jellyfin is a Free Software Media System. In Jellyfin before version 10.7.1, with certain endpoints, well crafted requests will allow arbitrary file read from a Jellyfin server%s file system. This issue is more prevalent when Windows is used as the host OS. Servers that are exposed to the public Internet are potentially at risk. This is fixed in version 10.7.1. As a workaround, users may be able to restrict some access by enforcing strict security permissions on their filesystem, however, it is recommended to update as soon as possible.| 
 | 20210409T16:20:21Z | CVE-2021-26295 | CVE-2021-26295-POC 利用DNSlog进行CVE-2021-26295的漏洞验证。  使用 poc：将目标放于target.txt后运行python poc.py即可。（Jdk环境需<12，否则ysoserial无法正常生成有效载荷）  exp：python exp.py https://baidu.com然后进入命令执行界面（无回显） | https://github.com/coolyin001/CVE-2021-26295-- | Apache OFBiz has unsafe deserialization prior to 17.12.06. An unauthenticated attacker can use this vulnerability to successfully take over Apache OFBiz.| 
 | 20210409T09:37:11Z | CVE-2020-35729 | CVE-2020-35729 | https://github.com/Al1ex/CVE-2020-35729 | KLog Server 2.4.1 allows OS command injection via shell metacharacters in the actions/authenticate.php user parameter.| 
