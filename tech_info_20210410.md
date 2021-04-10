@@ -68,6 +68,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210410T12:16:59Z | Null | https://github.com/s9varesc/url-fuzzing | 1 | 1| 
 | 20210410T12:15:09Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 1 | 2| 
 | 20210410T12:12:00Z | Fast web fuzzer written in Go | https://github.com/ffuf/ffuf | 4280 | 508| 
 | 20210410T12:11:48Z | Null | https://github.com/Sambigeara/fuzzynote | 2 | 1| 
@@ -77,7 +78,6 @@
 | 20210410T11:51:50Z | Fuzzing, analysis response and detect vulnerability web application | https://github.com/hoangthanhnguyen/bigdig | 0 | 0| 
 | 20210410T11:32:23Z | Null | https://github.com/DanielEbert/EmulatedFirmwareFuzzing | 0 | 0| 
 | 20210410T11:27:39Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 3451 | 793| 
-| 20210410T11:08:33Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6186 | 1248| 
 
 
 
