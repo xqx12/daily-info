@@ -90,16 +90,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210409T12:05:04Z | Using different tools to fuzz audit deamon | https://github.com/punnal/Audit-Fuzzing | 1 | 1| 
-| 20210409T11:52:20Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2311 | 124| 
-| 20210409T11:40:52Z | 📨 Responsive email template generator. | https://github.com/luangjokaj/fuzzymail | 114 | 4| 
-| 20210409T11:16:19Z | Python scripts to fuzz test a MUD through telnet. | https://github.com/virthe/mudfuzz | 1 | 0| 
-| 20210409T11:13:46Z | Fuzzing, analysis response and detect vulnerability web application | https://github.com/hoangthanhnguyen/bigdig | 0 | 0| 
-| 20210409T11:11:48Z | Fuzzy Quantification of Common and Rare Species in Ecological Communities | https://github.com/Ligophorus/FuzzyQ | 0 | 0| 
-| 20210409T10:50:30Z | Python-based code for estimation of highway bottleneck probability using speed transition matrices.  | https://github.com/tisljaricleo/fuzzy-highway-bottleneck-python | 0 | 0| 
-| 20210409T10:39:26Z | Generic plugin based web application security fuzzing for anomalies by Slándáil Research Limited | https://github.com/maK-/scanomaly | 9 | 1| 
-| 20210409T10:34:41Z | Null | https://github.com/VigilGLC/fuzzy-match | 0 | 0| 
-| 20210409T10:33:21Z | Fuzzy Match a name with a standard list | https://github.com/India-Alliance/Fuzzy-Matcher | 2 | 0| 
+| 20210409T23:37:20Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2312 | 124| 
+| 20210409T22:46:01Z | Python scripts to fuzz test a MUD through telnet. | https://github.com/virthe/mudfuzz | 1 | 0| 
+| 20210409T22:08:49Z | Group 4C Fuzzy Logic Medieval Chess AI Senior Project | https://github.com/arizonagranger/SeniorProjectFuzzyLogicChess | 1 | 1| 
+| 20210409T21:07:00Z | Null | https://github.com/VeriBlock/fuzz-corpus | 0 | 1| 
+| 20210409T21:05:20Z | Robust and versatile headless monkey (fuzz) testing for the web with reproducible steps, error alerts, strategy sharing and many other good things. | https://github.com/bell-lab-apps/fuzz-monkey | 0 | 0| 
+| 20210409T21:03:48Z | Fast SublimeText-like fuzzy search for JavaScript. | https://github.com/farzher/fuzzysort | 2405 | 125| 
+| 20210409T20:38:41Z | Null | https://github.com/gdepuydt/fuzzoz | 0 | 0| 
+| 20210409T20:35:14Z | JQF + Zest: Coverage-guided semantic fuzzing for Java. | https://github.com/rohanpadhye/JQF | 343 | 47| 
+| 20210409T20:24:59Z | The SMB Fuzzer fuzzes the Server  Message Block Protocol that enables file sharing, printing and IPC between Unix and Windows systems. | https://github.com/mellowCS/SMB_Fuzzer | 0 | 0| 
+| 20210409T20:24:26Z | :mag: Fast autocomplete suggestion engine using approximate string matching | https://github.com/jeancroy/FuzzySearch | 150 | 26| 
 
 
 
