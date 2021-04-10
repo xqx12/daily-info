@@ -46,6 +46,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20210410T12:36:07Z | CVE-2021-21975 | VMWare-CVE-2021-21975 SSRF vulnerability | https://github.com/Vulnmachines/VMWare-CVE-2021-21975 | Server Side Request Forgery in vRealize Operations Manager API (CVE-2021-21975) prior to 8.4 may allow a malicious actor with network access to the vRealize Operations Manager API can perform a Server Side Request Forgery attack to steal administrative credentials.| 
 | 20210410T09:25:32Z | CVE-2021-25374 | Null | https://github.com/FSecureLABS/CVE-2021-25374_Samsung-Account-Access | An improper authorization vulnerability in Samsung Members %samsungrewards% scheme for deeplink in versions 2.4.83.9 in Android O(8.1) and below, and 3.9.00.9 in Android P(9.0) and above allows remote attackers to access a user data related with Samsung Account.| 
 | 20210410T08:45:48Z | CVE-2021-24086 | Proof of concept for CVE-2021-24086, a NULL dereference in tcpip.sys triggered remotely. | https://github.com/0vercl0k/CVE-2021-24086 | Windows TCP/IP Denial of Service Vulnerability| 
 | 20210410T06:05:46Z | CVE-2021-3297 | Null | https://github.com/Sec504/Zyxel-NBG2105-CVE-2021-3297 | On Zyxel NBG2105 V1.00(AAGU.2)C0 devices, setting the login cookie to 1 provides administrator access.| 
@@ -55,7 +56,6 @@
 | 20210410T03:39:39Z | CVE-2021-88888888899 | Null | https://github.com/lorddian/CVE-2021-88888888899 | 未查询到CVE信息| 
 | 20210410T03:10:17Z | CVE-2021-21402 | CVE-2021-21402-Jellyfin-任意文件读取 | https://github.com/jiaocoll/CVE-2021-21402-Jellyfin | Jellyfin is a Free Software Media System. In Jellyfin before version 10.7.1, with certain endpoints, well crafted requests will allow arbitrary file read from a Jellyfin server%s file system. This issue is more prevalent when Windows is used as the host OS. Servers that are exposed to the public Internet are potentially at risk. This is fixed in version 10.7.1. As a workaround, users may be able to restrict some access by enforcing strict security permissions on their filesystem, however, it is recommended to update as soon as possible.| 
 | 20210409T18:03:03Z | 未知编号 | Null | https://github.com/jessica0f0116/cve_2021_1732 | 未查询到CVE信息| 
-| 20210409T16:20:21Z | CVE-2021-26295 | CVE-2021-26295-POC 利用DNSlog进行CVE-2021-26295的漏洞验证。  使用 poc：将目标放于target.txt后运行python poc.py即可。（Jdk环境需<12，否则ysoserial无法正常生成有效载荷）  exp：python exp.py https://baidu.com然后进入命令执行界面（无回显） | https://github.com/coolyin001/CVE-2021-26295-- | Apache OFBiz has unsafe deserialization prior to 17.12.06. An unauthenticated attacker can use this vulnerability to successfully take over Apache OFBiz.| 
 
 
 # klee on Github 推荐
@@ -82,6 +82,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210410T12:35:42Z | Several tools for exploits. | https://github.com/vLeeH/WebCracker | 1 | 0| 
+| 20210410T12:35:11Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9237 | 1493| 
 | 20210410T12:33:56Z | IC1 project part %Low% (Exploitation) | https://github.com/buykjk/ic1-project-low | 0 | 0| 
 | 20210410T12:02:52Z |   rsGen is a Reverse Shell Payload Generator for hacking. | https://github.com/FlyfishSec/rsGen | 56 | 20| 
 | 20210410T12:02:31Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 21 | 8| 
@@ -90,8 +92,6 @@
 | 20210410T11:31:17Z | Writeups for the binary exploitation challenges, from protostar | https://github.com/Hep151/Protostar-Writeups | 0 | 0| 
 | 20210410T11:24:54Z | More Stable Offline Exploit version of PS4 6.72 Jailbreak. | https://github.com/DarkModderVC/PS4JB | 128 | 49| 
 | 20210410T11:23:41Z | A python script file to statically and dynamically investigate and analyse binary files for buffer overflow exploits. | https://github.com/BroadbentT/BINARY-MASTER | 0 | 0| 
-| 20210410T11:16:49Z | Null | https://github.com/exploiteverythingtamil/exploiteverythingtamil.github.io | 0 | 0| 
-| 20210410T11:00:33Z | Null | https://github.com/kiarashjam/Exploiting-Video-Games-to-Test-AV | 0 | 1| 
 
 
 # backdoor on Github 推荐
@@ -112,10 +112,10 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210410T12:36:22Z | Null | https://github.com/mnathvt/nlp_fuzzy_match_algorithms | 0 | 0| 
+| 20210410T12:36:22Z | Null | https://github.com/s9varesc/url-fuzzing | 1 | 1| 
 | 20210410T12:32:59Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6187 | 1248| 
 | 20210410T12:32:28Z | Simple tool to rename source files by matching a list of choices. | https://github.com/pcjco/PyFuzzy-renamer | 0 | 0| 
-| 20210410T12:31:08Z | Null | https://github.com/mnathvt/nlp_fuzzy_match_algorithms | 0 | 0| 
-| 20210410T12:29:04Z | Null | https://github.com/s9varesc/url-fuzzing | 1 | 1| 
 | 20210410T12:19:33Z | Fuzzy matching for Neovim | https://github.com/amirrezaask/fuzzy.nvim | 23 | 1| 
 | 20210410T12:15:09Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 1 | 2| 
 | 20210410T12:12:00Z | Fast web fuzzer written in Go | https://github.com/ffuf/ffuf | 4280 | 508| 
