@@ -46,6 +46,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210410T12:48:51Z | A python script file to statically and dynamically investigate and analyse binary files for buffer overflow exploits. | https://github.com/BroadbentT/BINARY-MASTER | 0 | 0| 
 | 20210410T12:45:36Z | Simple ProFTPd1.3.3c Exploit | https://github.com/HiFeV/ProFTPd-1.3.3c-Exploit | 0 | 0| 
 | 20210410T12:43:15Z | Null | https://github.com/archsploit/archsploit-exploitation | 0 | 0| 
 | 20210410T12:41:51Z | HOW TO EXPLOIT THE VULNERABILITY IN WINDOWS USING THE METASPLOIT FRAME WORK | https://github.com/ROHITHRAVAN1/PENTESTING-WINDOWS-USING-METASPLOIT | 1 | 0| 
@@ -55,7 +56,6 @@
 | 20210410T12:33:56Z | IC1 project part %Low% (Exploitation) | https://github.com/buykjk/ic1-project-low | 0 | 0| 
 | 20210410T12:02:52Z |   rsGen is a Reverse Shell Payload Generator for hacking. | https://github.com/FlyfishSec/rsGen | 56 | 20| 
 | 20210410T12:02:31Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 21 | 8| 
-| 20210410T11:51:30Z |  Golden FTP Server 4.70 - %PASS% Buffer Overflow (2) | https://github.com/dock0d1/Exploit-Golden-FTP-Server-4.70 | 0 | 0| 
 
 
 # backdoor on Github 推荐
