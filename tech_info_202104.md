@@ -53,7 +53,7 @@
 | 20210410T08:45:48Z | CVE-2021-24086 | Proof of concept for CVE-2021-24086, a NULL dereference in tcpip.sys triggered remotely. | https://github.com/0vercl0k/CVE-2021-24086 | Windows TCP/IP Denial of Service Vulnerability| 
 | 20210410T06:05:46Z | CVE-2021-3297 | Null | https://github.com/Sec504/Zyxel-NBG2105-CVE-2021-3297 | On Zyxel NBG2105 V1.00(AAGU.2)C0 devices, setting the login cookie to 1 provides administrator access.| 
 | 20210410T05:10:05Z | cve-2020-10977 | GitLab 12.9.0 Arbitrary File Read  | https://github.com/thewhiteh4t/cve-2020-10977 | GitLab EE/CE 8.5 to 12.9 is vulnerable to a an path traversal when moving an issue between projects.| 
-| 20210410T03:53:41Z | CVE-2021-9876543210 | Null | https://github.com/lorddian/CVE-2021-9876543210 | 未查询到CVE信息| 
+| 20210410T03:53:41Z | CVE-2021-9876543210 | Null | https://github.com/lorddian/CVE-2021-9876543210 | | 
 | 20210410T03:42:46Z | CVE-2021-12345678910 | Null | https://github.com/lorddian/CVE-2021-12345678910JQK | 未查询到CVE信息| 
 | 20210410T03:39:39Z | CVE-2021-88888888899 | Null | https://github.com/lorddian/CVE-2021-88888888899 | 未查询到CVE信息| 
 
