@@ -80,7 +80,6 @@
 | --- | --- | --- | --- | ---| 
 | 20210410T23:55:50Z | A bare-metal x86 instruction set fuzzer a la Sandsifter | https://github.com/blitz/baresifter | 35 | 3| 
 | 20210410T23:11:50Z | Towards fuzzing ROS 2 automatically | https://github.com/JnxF/automatic_fuzzing | 0 | 0| 
-| 20210410T23:07:53Z | Null | https://github.com/VeriBlock/fuzz-corpus | 0 | 1| 
 | 20210410T23:02:46Z | Software for fuzzing, used on web application pentestings. | https://github.com/NESCAU-UFLA/FuzzingTool | 52 | 8| 
 | 20210410T22:31:07Z | Fuzzy Inference System Library for C | https://github.com/kmilo17pet/FuzzLib | 0 | 0| 
 | 20210410T22:11:15Z | fuzzing aplications | https://github.com/MucahitSaratar/myfuzzer | 0 | 0| 
@@ -88,6 +87,7 @@
 | 20210410T20:45:59Z | Null | https://github.com/rochdiD/fuzzy-search | 0 | 0| 
 | 20210410T20:45:51Z | Challenging testcases for fuzzers | https://github.com/AFLplusplus/fuzzer-challenges | 23 | 2| 
 | 20210410T20:33:58Z | Personal website of Laurence Hughes | https://github.com/fuzzylogicxx/fuzzylogic | 4 | 1| 
+| 20210410T20:20:53Z | Null | https://github.com/gdepuydt/fuzzoz | 0 | 0| 
 
 
 

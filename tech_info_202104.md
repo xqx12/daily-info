@@ -112,16 +112,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210411T00:45:35Z | CS 4152 Project | https://github.com/nicbarone/Fuzzy-Kiwi | 0 | 0| 
+| 20210411T00:34:49Z | Null | https://github.com/VeriBlock/fuzz-corpus | 0 | 1| 
 | 20210411T00:09:41Z | Fuzzy Library | https://github.com/mfd7/my_fuzzy_lib | 0 | 0| 
 | 20210411T00:08:02Z | UTS Pemrograman Simulasi | https://github.com/mfd7/fuzzy | 0 | 0| 
 | 20210411T00:05:13Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 1 | 2| 
 | 20210410T23:55:50Z | A bare-metal x86 instruction set fuzzer a la Sandsifter | https://github.com/blitz/baresifter | 35 | 3| 
 | 20210410T23:11:50Z | Towards fuzzing ROS 2 automatically | https://github.com/JnxF/automatic_fuzzing | 0 | 0| 
-| 20210410T23:07:53Z | Null | https://github.com/VeriBlock/fuzz-corpus | 0 | 1| 
 | 20210410T23:02:46Z | Software for fuzzing, used on web application pentestings. | https://github.com/NESCAU-UFLA/FuzzingTool | 52 | 8| 
 | 20210410T22:31:07Z | Fuzzy Inference System Library for C | https://github.com/kmilo17pet/FuzzLib | 0 | 0| 
 | 20210410T22:11:15Z | fuzzing aplications | https://github.com/MucahitSaratar/myfuzzer | 0 | 0| 
-| 20210410T22:05:36Z | https://github.com/wcventure/FuzzingPaper | https://github.com/mishmashclone/wcventure-FuzzingPaper | 6 | 1| 
 
 
 
