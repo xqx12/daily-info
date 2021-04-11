@@ -84,7 +84,7 @@
 | --- | --- | --- | --- | ---| 
 | 20210411T01:46:26Z | PS4 Exploit Host | https://github.com/Night-King-Host/Night-King-Host.github.io | 7 | 3| 
 | 20210411T01:43:12Z | Exploit allowing to load arbitrary code on the PSX using only a memory card (no game needed) | https://github.com/brad-lin/FreePSXBoot | 42 | 2| 
-| 20210411T01:07:13Z |   rsGen is a Reverse Shell Payload Generator for hacking. | https://github.com/FlyfishSec/rsGen | 56 | 20| 
+| 20210411T01:07:13Z |   rsGen is a Reverse Shell Payload Generator for hacking. | https://github.com/FlyfishSec/rsGen | 56 | 21| 
 | 20210411T01:02:23Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 21 | 8| 
 | 20210411T00:37:12Z | A general purpose memory allocator that implements an isolation security strategy to mitigate memory safety issues while maintaining good performance | https://github.com/struct/isoalloc | 149 | 10| 
 | 20210411T00:09:58Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9238 | 1493| 
