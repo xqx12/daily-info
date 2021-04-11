@@ -82,7 +82,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210411T01:23:23Z | Exploit allowing to load arbitrary code on the PSX using only a memory card (no game needed) | https://github.com/brad-lin/FreePSXBoot | 41 | 2| 
+| 20210411T01:43:12Z | Exploit allowing to load arbitrary code on the PSX using only a memory card (no game needed) | https://github.com/brad-lin/FreePSXBoot | 42 | 2| 
 | 20210411T01:07:13Z |   rsGen is a Reverse Shell Payload Generator for hacking. | https://github.com/FlyfishSec/rsGen | 56 | 20| 
 | 20210411T01:02:23Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 21 | 8| 
 | 20210411T00:37:12Z | A general purpose memory allocator that implements an isolation security strategy to mitigate memory safety issues while maintaining good performance | https://github.com/struct/isoalloc | 149 | 10| 
@@ -112,7 +112,8 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210411T00:45:35Z | CS 4152 Project | https://github.com/nicbarone/Fuzzy-Kiwi | 0 | 0| 
+| 20210411T01:37:43Z | Collection of quality safety articles. Awesome articles.   | https://github.com/tom0li/collection-document | 1407 | 433| 
+| 20210411T01:31:32Z | CS 4152 Project | https://github.com/nicbarone/Fuzzy-Kiwi | 0 | 0| 
 | 20210411T00:34:49Z | Null | https://github.com/VeriBlock/fuzz-corpus | 0 | 1| 
 | 20210411T00:09:41Z | Fuzzy Library | https://github.com/mfd7/my_fuzzy_lib | 0 | 0| 
 | 20210411T00:08:02Z | UTS Pemrograman Simulasi | https://github.com/mfd7/fuzzy | 0 | 0| 
@@ -121,7 +122,6 @@
 | 20210410T23:11:50Z | Towards fuzzing ROS 2 automatically | https://github.com/JnxF/automatic_fuzzing | 0 | 0| 
 | 20210410T23:02:46Z | Software for fuzzing, used on web application pentestings. | https://github.com/NESCAU-UFLA/FuzzingTool | 52 | 8| 
 | 20210410T22:31:07Z | Fuzzy Inference System Library for C | https://github.com/kmilo17pet/FuzzLib | 0 | 0| 
-| 20210410T22:11:15Z | fuzzing aplications | https://github.com/MucahitSaratar/myfuzzer | 0 | 0| 
 
 
 
