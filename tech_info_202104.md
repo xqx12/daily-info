@@ -55,7 +55,7 @@
 | 20210410T05:10:05Z | cve-2020-10977 | GitLab 12.9.0 Arbitrary File Read  | https://github.com/thewhiteh4t/cve-2020-10977 | GitLab EE/CE 8.5 to 12.9 is vulnerable to a an path traversal when moving an issue between projects.| 
 | 20210410T03:53:41Z | CVE-2021-9876543210 | Null | https://github.com/lorddian/CVE-2021-9876543210 | 未查询到CVE信息| 
 | 20210410T03:42:46Z | CVE-2021-12345678910 | Null | https://github.com/lorddian/CVE-2021-12345678910JQK | 未查询到CVE信息| 
-| 20210410T03:39:39Z | CVE-2021-88888888899 | Null | https://github.com/lorddian/CVE-2021-88888888899 | | 
+| 20210410T03:39:39Z | CVE-2021-88888888899 | Null | https://github.com/lorddian/CVE-2021-88888888899 | 未查询到CVE信息| 
 
 
 # klee on Github 推荐
