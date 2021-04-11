@@ -38,7 +38,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210411T11:57:45Z | Protekt Protocol puts crypto to work insuring users against hacks, bugs, and exploits of any DeFi protocol or smart contract. The goal is to support and catalyze the growth of the DeFi ecosystem by protecting users from getting rekt. | https://github.com/ProtektProtocol/protekt-frontend | 0 | 0| 
+| 20210411T12:02:06Z | Protekt Protocol puts crypto to work insuring users against hacks, bugs, and exploits of any DeFi protocol or smart contract. The goal is to support and catalyze the growth of the DeFi ecosystem by protecting users from getting rekt. | https://github.com/ProtektProtocol/protekt-frontend | 0 | 0| 
 | 20210411T11:38:42Z | GitLab 11.4.7 CE RCE exploit with different reverse shells. CVE-2018-19571 + CVE-2018-19585 | https://github.com/Algafix/gitlab-RCE-11.4.7 | 0 | 0| 
 | 20210411T11:28:44Z | A python script file to statically and dynamically investigate and analyse binary files for buffer overflow exploits. | https://github.com/BroadbentT/BINARY-MASTER | 3 | 0| 
 | 20210411T11:22:11Z | Protekt Protocol puts crypto to work insuring users against hacks, bugs, and exploits of any DeFi protocol or smart contract. The goal is to support and catalyze the growth of the DeFi ecosystem by protecting users from getting rekt. | https://github.com/ProtektProtocol/protekt-protocol-contracts | 6 | 1| 
@@ -53,7 +53,12 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210411T01:56:29Z | An Intermediate level backdoor that utilizes HTTP/TCP sockets, light Caesar cypher encryption & more. | https://github.com/malikrbooker/VipersPublicBackdoor1 | 0 | 0| 
+| 20210411T11:56:03Z | PCI Express DIY hacking toolkit for Xilinx SP605 | https://github.com/Cr4sh/s6_pcie_microblaze | 315 | 79| 
+| 20210411T11:16:37Z | Null | https://github.com/EjHvorSerDuVildUdJim/backdoor | 0 | 0| 
+| 20210411T10:54:46Z | Null | https://github.com/BSalwiczek/backdoor-trojan | 0 | 0| 
+| 20210411T09:12:10Z | 🤖An Evil and Smart Bot for Enslaving Windows. | https://github.com/wildonion/katyusha | 1 | 1| 
+| 20210411T04:23:20Z | An Intermediate level backdoor that utilizes HTTP/TCP sockets, light Caesar cypher encryption & more. | https://github.com/malikrbooker/VipersPublicBackdoor1 | 0 | 0| 
+| 20210411T03:34:17Z | Undetectable & Xor encrypting with custom KEY (FUD Metasploit Rat) bypass Top Antivirus like BitDefender,Malwarebytes,Avast,ESET-NOD32,AVG,... & Automatically Add ICON and MANIFEST to excitable | https://github.com/persianhydra/Xeexe-TopAntivirusEvasion | 428 | 101| 
 | 20210411T01:47:27Z | Null | https://github.com/xpf/Backdoor-Learning-arXiv | 1 | 0| 
 | 20210411T01:34:04Z | Invisible, customizable backdoor for Minecraft Spigot Plugins. | https://github.com/ThiccIndustries/Minecraft-Backdoor | 2 | 2| 
 
@@ -61,12 +66,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210411T01:37:43Z | Collection of quality safety articles. Awesome articles.   | https://github.com/tom0li/collection-document | 1407 | 433| 
-| 20210411T01:31:32Z | CS 4152 Project | https://github.com/nicbarone/Fuzzy-Kiwi | 0 | 0| 
-| 20210411T00:34:49Z | Null | https://github.com/VeriBlock/fuzz-corpus | 0 | 1| 
-| 20210411T00:09:41Z | Fuzzy Library | https://github.com/mfd7/my_fuzzy_lib | 0 | 0| 
-| 20210411T00:08:02Z | UTS Pemrograman Simulasi | https://github.com/mfd7/fuzzy | 0 | 0| 
-| 20210411T00:05:13Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 1 | 2| 
+| 20210411T11:51:26Z | Fuzzy matching for Neovim | https://github.com/amirrezaask/fuzzy.nvim | 23 | 1| 
+| 20210411T11:46:48Z | Implementation and experiments with https://www.sciencedirect.com/science/article/pii/S1568494613001373 | https://github.com/kenoma/neo-fuzzy-neuron | 0 | 0| 
+| 20210411T11:44:05Z | PoC of fuzzing closed-source userspace binaries with KVM | https://github.com/klecko/kvm-fuzz | 4 | 1| 
+| 20210411T11:38:01Z | fuzz all type  of most comman attackes  | https://github.com/herry8899/fuzz | 0 | 0| 
+| 20210411T11:26:43Z | fuzzing aplications | https://github.com/MucahitSaratar/myfuzzer | 0 | 0| 
+| 20210411T11:07:57Z | Python scripts to fuzz test a MUD through telnet. | https://github.com/virthe/mudfuzz | 1 | 0| 
+| 20210411T10:26:18Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 30874 | 15774| 
+| 20210411T10:06:52Z | Null | https://github.com/VeriBlock/fuzz-corpus | 0 | 1| 
+| 20210411T09:51:47Z | Hacking tools written by me. IP fortune, webmap -- web vulns scanner, rtsp brute+fuzz, and more. | https://github.com/fagcinsk/h4ck | 1 | 0| 
+| 20210411T09:15:29Z | Coverage-guided, in-process fuzzing for the JVM | https://github.com/CodeIntelligenceTesting/jazzer | 276 | 15| 
 
 
 
