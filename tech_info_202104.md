@@ -97,31 +97,31 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210410T12:59:42Z | Undetectable & Xor encrypting with custom KEY (FUD Metasploit Rat) bypass Top Antivirus like BitDefender,Malwarebytes,Avast,ESET-NOD32,AVG,... & Automatically Add ICON and MANIFEST to excitable | https://github.com/persianhydra/Xeexe-TopAntivirusEvasion | 425 | 100| 
+| 20210410T20:44:05Z | Dette er basic runcode. Brug CEVA eller noget andet til at test lortet. Tak til @servercfg for den orginalle backdoor da vi fik ideen ud fra dem.  | https://github.com/DerpIsInactive/VpsStealerFiveM | 2 | 1| 
+| 20210410T19:41:48Z | A Remote Administration Tool (RAT) | https://github.com/0xmanjoos/Pieta | 15 | 5| 
+| 20210410T19:00:57Z | Undetectable & Xor encrypting with custom KEY (FUD Metasploit Rat) bypass Top Antivirus like BitDefender,Malwarebytes,Avast,ESET-NOD32,AVG,... & Automatically Add ICON and MANIFEST to excitable | https://github.com/persianhydra/Xeexe-TopAntivirusEvasion | 427 | 101| 
+| 20210410T18:50:27Z | A sample app to demonstrate how to create Xamarin UITests using the Page Object architecture, Backdoor Methods and App Links (aka Deep Linking) | https://github.com/brminnick/UITestSampleApp | 34 | 26| 
+| 20210410T17:51:33Z | Minecraft Server Backdoor Plugin | https://github.com/NeunXKILLER20/PluginPwn | 1 | 0| 
+| 20210410T17:49:11Z | 🤖An Evil and Smart Bot for Enslaving Windows. | https://github.com/wildonion/katyusha | 1 | 1| 
+| 20210410T14:47:28Z | her findes gamle devo filer, som er uden planke ck og backdoor! | https://github.com/CRYXX/reasouces | 0 | 0| 
 | 20210410T11:00:14Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 207 | 34| 
-| 20210410T09:17:11Z | 🤖An Evil and Smart Bot for Enslaving Windows. | https://github.com/wildonion/katyusha | 1 | 1| 
 | 20210410T08:50:36Z | Null | https://github.com/igpig/igpigs-Backdoor | 0 | 0| 
 | 20210409T21:23:55Z | Null | https://github.com/Wiilldd/backdoor | 0 | 0| 
-| 20210409T15:40:39Z | Reverse TCP trojan backdoor written in python | https://github.com/userlandkernel/Pyrovalerone | 3 | 0| 
-| 20210409T14:57:48Z | Null | https://github.com/Delle9999/backdoor | 0 | 0| 
-| 20210409T12:35:13Z | Dette er basic runcode. Brug CEVA eller noget andet til at test lortet. Tak til @servercfg for den orginalle backdoor da vi fik ideen ud fra dem.  | https://github.com/DerpIsInactive/VpsStealerFiveM | 2 | 1| 
-| 20210409T08:58:15Z | haj | https://github.com/RehderK/Backdoor | 0 | 0| 
-| 20210409T07:11:02Z | Un shell remoto (remote shell) es un programa que puede ejecutar comandos de shell como otro usuario desde otra computadora a través de la red, usando el modelo cliente-servidor. Cuando este programa no es legítimo o se utiliza para fines no permitidos o ilícitos, recibe el nombre de puerta trasera (backdoor). | https://github.com/Andres-Hernandez-Mata/Backdoor-Shell | 0 | 0| 
 
 
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210410T12:37:55Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6188 | 1248| 
-| 20210410T12:36:22Z | Null | https://github.com/mnathvt/nlp_fuzzy_match_algorithms | 0 | 0| 
-| 20210410T12:36:22Z | Null | https://github.com/s9varesc/url-fuzzing | 1 | 1| 
-| 20210410T12:32:28Z | Simple tool to rename source files by matching a list of choices. | https://github.com/pcjco/PyFuzzy-renamer | 0 | 0| 
-| 20210410T12:19:33Z | Fuzzy matching for Neovim | https://github.com/amirrezaask/fuzzy.nvim | 23 | 1| 
-| 20210410T12:15:09Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 1 | 2| 
-| 20210410T12:12:00Z | Fast web fuzzer written in Go | https://github.com/ffuf/ffuf | 4280 | 508| 
-| 20210410T12:11:48Z | Null | https://github.com/Sambigeara/fuzzynote | 2 | 1| 
-| 20210410T12:03:13Z | Null | https://github.com/tiffanybonzon/serie5_parsing_fuzzing | 0 | 0| 
-| 20210410T12:01:02Z | Challenging testcases for fuzzers | https://github.com/AFLplusplus/fuzzer-challenges | 23 | 2| 
+| 20210410T23:55:50Z | A bare-metal x86 instruction set fuzzer a la Sandsifter | https://github.com/blitz/baresifter | 35 | 3| 
+| 20210410T23:11:50Z | Towards fuzzing ROS 2 automatically | https://github.com/JnxF/automatic_fuzzing | 0 | 0| 
+| 20210410T23:07:53Z | Null | https://github.com/VeriBlock/fuzz-corpus | 0 | 1| 
+| 20210410T23:02:46Z | Software for fuzzing, used on web application pentestings. | https://github.com/NESCAU-UFLA/FuzzingTool | 52 | 8| 
+| 20210410T22:31:07Z | Fuzzy Inference System Library for C | https://github.com/kmilo17pet/FuzzLib | 0 | 0| 
+| 20210410T22:11:15Z | fuzzing aplications | https://github.com/MucahitSaratar/myfuzzer | 0 | 0| 
+| 20210410T22:05:36Z | https://github.com/wcventure/FuzzingPaper | https://github.com/mishmashclone/wcventure-FuzzingPaper | 6 | 1| 
+| 20210410T20:45:59Z | Null | https://github.com/rochdiD/fuzzy-search | 0 | 0| 
+| 20210410T20:45:51Z | Challenging testcases for fuzzers | https://github.com/AFLplusplus/fuzzer-challenges | 23 | 2| 
+| 20210410T20:33:58Z | Personal website of Laurence Hughes | https://github.com/fuzzylogicxx/fuzzylogic | 4 | 1| 
 
 
 
