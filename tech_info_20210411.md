@@ -20,7 +20,7 @@
 | --- | --- | --- | --- | ---| 
 | 20210411T07:32:59Z | CVE-2021-21402 | CVE-2021-21402 | https://github.com/xiaoshu-bit/CVE-2021-21402 | Jellyfin is a Free Software Media System. In Jellyfin before version 10.7.1, with certain endpoints, well crafted requests will allow arbitrary file read from a Jellyfin server%s file system. This issue is more prevalent when Windows is used as the host OS. Servers that are exposed to the public Internet are potentially at risk. This is fixed in version 10.7.1. As a workaround, users may be able to restrict some access by enforcing strict security permissions on their filesystem, however, it is recommended to update as soon as possible.| 
 | 20210411T06:32:35Z | cve-2020-10977 | cve-2020-10977 read and execute | https://github.com/lisp3r/cve-2020-10977-read-and-execute | GitLab EE/CE 8.5 to 12.9 is vulnerable to a an path traversal when moving an issue between projects.| 
-| 20210411T02:55:59Z | CVE-2021-11112 | Null | https://github.com/hu185396/CVE-2021-11112 | | 
+| 20210411T02:55:59Z | CVE-2021-11112 | Null | https://github.com/hu185396/CVE-2021-11112 | 未查询到CVE信息| 
 
 
 # klee on Github 推荐
@@ -39,13 +39,13 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210411T12:10:46Z | linux post-exploitation framework made by linux user | https://github.com/jm33-m0/emp3r0r | 443 | 83| 
 | 20210411T12:03:45Z | Protekt Protocol puts crypto to work insuring users against hacks, bugs, and exploits of any DeFi protocol or smart contract. The goal is to support and catalyze the growth of the DeFi ecosystem by protecting users from getting rekt. | https://github.com/ProtektProtocol/protekt-frontend | 0 | 0| 
 | 20210411T12:02:26Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 21 | 8| 
 | 20210411T11:38:42Z | GitLab 11.4.7 CE RCE exploit with different reverse shells. CVE-2018-19571 + CVE-2018-19585 | https://github.com/Algafix/gitlab-RCE-11.4.7 | 0 | 0| 
 | 20210411T11:28:44Z | A python script file to statically and dynamically investigate and analyse binary files for buffer overflow exploits. | https://github.com/BroadbentT/BINARY-MASTER | 3 | 0| 
 | 20210411T11:22:11Z | Protekt Protocol puts crypto to work insuring users against hacks, bugs, and exploits of any DeFi protocol or smart contract. The goal is to support and catalyze the growth of the DeFi ecosystem by protecting users from getting rekt. | https://github.com/ProtektProtocol/protekt-protocol-contracts | 6 | 1| 
 | 20210411T11:03:25Z | hack tools | https://github.com/hacktoolspack/hack-tools | 506 | 350| 
-| 20210411T10:45:24Z | linux post-exploitation framework made by linux user | https://github.com/jm33-m0/emp3r0r | 442 | 82| 
 | 20210411T10:21:35Z | Master Thesis | https://github.com/FlavioLorenzi/Continuous-Learning-on-Unity-dataset-exploiting-the-Activity-Recognition-Engine | 0 | 0| 
 | 20210411T10:15:44Z | This bash script will help you to hack remote hosts  | https://github.com/FabioDefilippo/linuxallremote | 10 | 1| 
 | 20210411T09:46:17Z | Null | https://github.com/UserName123456712345678/YtExploit | 0 | 0| 
