@@ -51,7 +51,7 @@
 | 20210411T02:55:59Z | CVE-2021-11112 | Null | https://github.com/hu185396/CVE-2021-11112 | 未查询到CVE信息| 
 | 20210410T21:28:02Z | 未知编号 | Null | https://github.com/jessica0f0116/cve_2021_1732 | 未查询到CVE信息| 
 | 20210410T14:07:22Z | CVE-2021-11111 | Null | https://github.com/hu185396/CVE-2021-11111 | 未查询到CVE信息| 
-| 20210410T12:41:46Z | CVE-2021-21975 | VMWare-CVE-2021-21975 SSRF vulnerability | https://github.com/Vulnmachines/VMWare-CVE-2021-21975 | | 
+| 20210410T12:41:46Z | CVE-2021-21975 | VMWare-CVE-2021-21975 SSRF vulnerability | https://github.com/Vulnmachines/VMWare-CVE-2021-21975 | Server Side Request Forgery in vRealize Operations Manager API (CVE-2021-21975) prior to 8.4 may allow a malicious actor with network access to the vRealize Operations Manager API can perform a Server Side Request Forgery attack to steal administrative credentials.| 
 | 20210410T09:25:32Z | CVE-2021-25374 | Null | https://github.com/FSecureLABS/CVE-2021-25374_Samsung-Account-Access | An improper authorization vulnerability in Samsung Members %samsungrewards% scheme for deeplink in versions 2.4.83.9 in Android O(8.1) and below, and 3.9.00.9 in Android P(9.0) and above allows remote attackers to access a user data related with Samsung Account.| 
 | 20210410T08:45:48Z | CVE-2021-24086 | Proof of concept for CVE-2021-24086, a NULL dereference in tcpip.sys triggered remotely. | https://github.com/0vercl0k/CVE-2021-24086 | Windows TCP/IP Denial of Service Vulnerability| 
 | 20210410T06:05:46Z | CVE-2021-3297 | Null | https://github.com/Sec504/Zyxel-NBG2105-CVE-2021-3297 | On Zyxel NBG2105 V1.00(AAGU.2)C0 devices, setting the login cookie to 1 provides administrator access.| 
@@ -83,6 +83,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210411T12:48:14Z | A simplistic simulation game, written in C++, of robots exploring and exploiting an area. (2015) | https://github.com/mmarios90/PlanetExploration | 0 | 0| 
 | 20210411T12:35:11Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9243 | 1495| 
 | 20210411T12:33:26Z | linux post-exploitation framework made by linux user | https://github.com/jm33-m0/emp3r0r | 443 | 83| 
 | 20210411T12:26:14Z | A python script file to statically and dynamically investigate and analyse binary files for buffer overflow exploits. | https://github.com/BroadbentT/BINARY-MASTER | 3 | 0| 
@@ -92,7 +93,6 @@
 | 20210411T11:38:42Z | GitLab 11.4.7 CE RCE exploit with different reverse shells. CVE-2018-19571 + CVE-2018-19585 | https://github.com/Algafix/gitlab-RCE-11.4.7 | 0 | 0| 
 | 20210411T11:22:11Z | Protekt Protocol puts crypto to work insuring users against hacks, bugs, and exploits of any DeFi protocol or smart contract. The goal is to support and catalyze the growth of the DeFi ecosystem by protecting users from getting rekt. | https://github.com/ProtektProtocol/protekt-protocol-contracts | 6 | 1| 
 | 20210411T11:03:25Z | hack tools | https://github.com/hacktoolspack/hack-tools | 506 | 350| 
-| 20210411T10:21:35Z | Master Thesis | https://github.com/FlavioLorenzi/Continuous-Learning-on-Unity-dataset-exploiting-the-Activity-Recognition-Engine | 0 | 0| 
 
 
 # backdoor on Github 推荐
