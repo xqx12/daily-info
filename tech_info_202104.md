@@ -83,7 +83,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210412T00:29:18Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9247 | 1495| 
+| 20210412T00:35:29Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9247 | 1495| 
 | 20210412T00:16:11Z | Exploit development training | https://github.com/0xdutra/exploitation-labs | 0 | 0| 
 | 20210412T00:14:18Z | Exploit mod to be used on Territorial **purely for finding and eliminating exploits** | https://github.com/SpaceClouds42/TerritorialHax | 0 | 0| 
 | 20210412T00:14:14Z | Security and Hacking Tools, Exploits, Proof of Concepts, Shellcodes, Scripts. | https://github.com/nullsecuritynet/tools | 1362 | 452| 
