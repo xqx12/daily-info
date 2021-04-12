@@ -46,26 +46,26 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20210412T01:59:11Z | CVE-2021-24086 | Proof of concept for CVE-2021-24086, a NULL dereference in tcpip.sys triggered remotely. | https://github.com/0vercl0k/CVE-2021-24086 | Windows TCP/IP Denial of Service Vulnerability| 
 | 20210412T01:57:14Z | 未知编号 | Null | https://github.com/jessica0f0116/cve_2021_1732 | 未查询到CVE信息| 
-| 20210411T19:12:00Z | CVE-2021-24086 | Proof of concept for CVE-2021-24086, a NULL dereference in tcpip.sys triggered remotely. | https://github.com/0vercl0k/CVE-2021-24086 | Windows TCP/IP Denial of Service Vulnerability| 
 | 20210411T16:28:46Z | cve-2020-10977 | GitLab 12.9.0 Arbitrary File Read  | https://github.com/thewhiteh4t/cve-2020-10977 | GitLab EE/CE 8.5 to 12.9 is vulnerable to a an path traversal when moving an issue between projects.| 
 | 20210411T13:45:13Z | CVE-2021-26700 | RCE in NPM VSCode Extension | https://github.com/jackadamson/CVE-2021-26700 | Visual Studio Code npm-script Extension Remote Code Execution Vulnerability| 
 | 20210411T07:32:59Z | CVE-2021-21402 | CVE-2021-21402 | https://github.com/xiaoshu-bit/CVE-2021-21402 | Jellyfin is a Free Software Media System. In Jellyfin before version 10.7.1, with certain endpoints, well crafted requests will allow arbitrary file read from a Jellyfin server%s file system. This issue is more prevalent when Windows is used as the host OS. Servers that are exposed to the public Internet are potentially at risk. This is fixed in version 10.7.1. As a workaround, users may be able to restrict some access by enforcing strict security permissions on their filesystem, however, it is recommended to update as soon as possible.| 
-| 20210411T06:32:35Z | cve-2020-10977 | cve-2020-10977 read and execute | https://github.com/lisp3r/cve-2020-10977-read-and-execute | | 
-| 20210411T02:55:59Z | CVE-2021-11112 | Null | https://github.com/hu185396/CVE-2021-11112 | 未查询到CVE信息| 
+| 20210411T06:32:35Z | cve-2020-10977 | cve-2020-10977 read and execute | https://github.com/lisp3r/cve-2020-10977-read-and-execute | GitLab EE/CE 8.5 to 12.9 is vulnerable to a an path traversal when moving an issue between projects.| 
+| 20210411T02:55:59Z | CVE-2021-11112 | Null | https://github.com/hu185396/CVE-2021-11112 | | 
 | 20210410T14:07:22Z | CVE-2021-11111 | Null | https://github.com/hu185396/CVE-2021-11111 | 未查询到CVE信息| 
 | 20210410T12:41:46Z | CVE-2021-21975 | VMWare-CVE-2021-21975 SSRF vulnerability | https://github.com/Vulnmachines/VMWare-CVE-2021-21975 | Server Side Request Forgery in vRealize Operations Manager API (CVE-2021-21975) prior to 8.4 may allow a malicious actor with network access to the vRealize Operations Manager API can perform a Server Side Request Forgery attack to steal administrative credentials.| 
-| 20210410T09:25:32Z | CVE-2021-25374 | Null | https://github.com/FSecureLABS/CVE-2021-25374_Samsung-Account-Access | An improper authorization vulnerability in Samsung Members %samsungrewards% scheme for deeplink in versions 2.4.83.9 in Android O(8.1) and below, and 3.9.00.9 in Android P(9.0) and above allows remote attackers to access a user data related with Samsung Account.| 
+| 20210410T09:25:32Z | CVE-2021-25374 | Null | https://github.com/FSecureLABS/CVE-2021-25374_Samsung-Account-Access | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210412T01:59:13Z | KLEE demonstration on the program second_largest | https://github.com/basu-abhinav/second_largest | 0 | 0| 
 | 20210411T15:58:53Z | Config files for my GitHub profile. | https://github.com/Kleebi99/Kleebi99 | 0 | 0| 
 | 20210411T15:29:52Z | RVT is a collection of tools/libraries to support both static and dynamic verification of Rust programs. | https://github.com/project-oak/rust-verification-tools | 120 | 11| 
 | 20210411T15:21:57Z | Null | https://github.com/luchunchen/klee | 0 | 0| 
 | 20210411T13:19:05Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1666 | 489| 
-| 20210411T12:08:07Z | KLEE demonstration on the program second_largest | https://github.com/basu-abhinav/second_largest | 0 | 0| 
 | 20210410T18:33:08Z | Personal Blog | https://github.com/klee1611/klee1611.github.io | 0 | 0| 
 | 20210410T11:58:38Z | Config files for my GitHub profile. | https://github.com/einKlee/einKlee | 0 | 0| 
 | 20210409T21:40:26Z | Spring 2021 Geography 817 work folder  | https://github.com/klee12/klee12.github.io | 0 | 0| 
