@@ -64,7 +64,6 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210411T23:19:44Z | An Intermediate level backdoor that utilizes HTTP/TCP sockets, light Caesar cypher encryption & more. | https://github.com/malikrbooker/Vipers-Public-Backdoor-1 | 2 | 0| 
 | 20210411T20:26:42Z | PCI Express DIY hacking toolkit for Xilinx SP605 | https://github.com/Cr4sh/s6_pcie_microblaze | 316 | 79| 
 | 20210411T18:37:27Z | This program is an non-object oriented opensource, hidden and undetectable backdoor/reverse shell/RAT for Windows made in Python 3 which contains many features such as multi-client support and cross-platform server. | https://github.com/xp4xbox/Python-Backdoor | 383 | 140| 
 | 20210411T17:01:22Z | A webshell that can bypass some system security | https://github.com/22XploiterCrew-Team/Gel4y-Mini-Shell-Backdoor | 18 | 5| 
@@ -74,6 +73,7 @@
 | 20210411T13:35:22Z | 🤖An Evil and Smart Bot for Enslaving Windows. | https://github.com/wildonion/katyusha | 1 | 1| 
 | 20210411T11:16:37Z | Null | https://github.com/EjHvorSerDuVildUdJim/backdoor | 0 | 0| 
 | 20210411T04:23:20Z | An Intermediate level backdoor that utilizes HTTP/TCP sockets, light Caesar cypher encryption & more. | https://github.com/malikrbooker/VipersPublicBackdoor1 | 0 | 0| 
+| 20210411T03:34:17Z | Undetectable & Xor encrypting with custom KEY (FUD Metasploit Rat) bypass Top Antivirus like BitDefender,Malwarebytes,Avast,ESET-NOD32,AVG,... & Automatically Add ICON and MANIFEST to excitable | https://github.com/persianhydra/Xeexe-TopAntivirusEvasion | 428 | 101| 
 
 
 # fuzz on Github 推荐

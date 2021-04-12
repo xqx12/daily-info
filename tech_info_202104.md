@@ -52,7 +52,7 @@
 | 20210411T07:32:59Z | CVE-2021-21402 | CVE-2021-21402 | https://github.com/xiaoshu-bit/CVE-2021-21402 | Jellyfin is a Free Software Media System. In Jellyfin before version 10.7.1, with certain endpoints, well crafted requests will allow arbitrary file read from a Jellyfin server%s file system. This issue is more prevalent when Windows is used as the host OS. Servers that are exposed to the public Internet are potentially at risk. This is fixed in version 10.7.1. As a workaround, users may be able to restrict some access by enforcing strict security permissions on their filesystem, however, it is recommended to update as soon as possible.| 
 | 20210411T06:32:35Z | cve-2020-10977 | cve-2020-10977 read and execute | https://github.com/lisp3r/cve-2020-10977-read-and-execute | GitLab EE/CE 8.5 to 12.9 is vulnerable to a an path traversal when moving an issue between projects.| 
 | 20210411T02:55:59Z | CVE-2021-11112 | Null | https://github.com/hu185396/CVE-2021-11112 | 未查询到CVE信息| 
-| 20210410T21:28:02Z | 未知编号 | Null | https://github.com/jessica0f0116/cve_2021_1732 | | 
+| 20210410T21:28:02Z | 未知编号 | Null | https://github.com/jessica0f0116/cve_2021_1732 | 未查询到CVE信息| 
 | 20210410T14:07:22Z | CVE-2021-11111 | Null | https://github.com/hu185396/CVE-2021-11111 | 未查询到CVE信息| 
 | 20210410T12:41:46Z | CVE-2021-21975 | VMWare-CVE-2021-21975 SSRF vulnerability | https://github.com/Vulnmachines/VMWare-CVE-2021-21975 | | 
 | 20210410T09:25:32Z | CVE-2021-25374 | Null | https://github.com/FSecureLABS/CVE-2021-25374_Samsung-Account-Access | An improper authorization vulnerability in Samsung Members %samsungrewards% scheme for deeplink in versions 2.4.83.9 in Android O(8.1) and below, and 3.9.00.9 in Android P(9.0) and above allows remote attackers to access a user data related with Samsung Account.| 
@@ -83,6 +83,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210412T00:50:35Z | This tool is great for information gathering and post- exploitation | https://github.com/Cybercrack-bot/Cybercrack | 4 | 3| 
 | 20210412T00:45:24Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9247 | 1495| 
 | 20210412T00:42:37Z | PS1 savegame exploit | https://github.com/socram8888/tonyhax | 243 | 7| 
 | 20210412T00:16:11Z | Exploit development training | https://github.com/0xdutra/exploitation-labs | 0 | 0| 
@@ -92,13 +93,12 @@
 | 20210412T00:00:46Z | Exploit allowing to load arbitrary code on the PSX using only a memory card (no game needed) | https://github.com/brad-lin/FreePSXBoot | 90 | 5| 
 | 20210411T23:40:07Z | Null | https://github.com/PFCELeopard/Roblox-Exploits-Executor | 0 | 0| 
 | 20210411T23:38:20Z | This is a whole guidebook on how to be in this community without being fucked over by your own mistakes in the Roblox Exploiting Community.  | https://github.com/ZeraTS/GuidetotheCommunity | 0 | 0| 
-| 20210411T23:05:50Z | Several tools for exploits. | https://github.com/vLeeH/WebCracker | 1 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210411T23:19:44Z | An Intermediate level backdoor that utilizes HTTP/TCP sockets, light Caesar cypher encryption & more. | https://github.com/malikrbooker/Vipers-Public-Backdoor-1 | 2 | 0| 
+| 20210412T00:50:29Z | An Intermediate level backdoor that utilizes HTTP/TCP sockets, light Caesar cypher encryption & more. | https://github.com/malikrbooker/Vipers-Public-Backdoor-1 | 3 | 0| 
 | 20210411T20:26:42Z | PCI Express DIY hacking toolkit for Xilinx SP605 | https://github.com/Cr4sh/s6_pcie_microblaze | 316 | 79| 
 | 20210411T18:37:27Z | This program is an non-object oriented opensource, hidden and undetectable backdoor/reverse shell/RAT for Windows made in Python 3 which contains many features such as multi-client support and cross-platform server. | https://github.com/xp4xbox/Python-Backdoor | 383 | 140| 
 | 20210411T17:01:22Z | A webshell that can bypass some system security | https://github.com/22XploiterCrew-Team/Gel4y-Mini-Shell-Backdoor | 18 | 5| 
