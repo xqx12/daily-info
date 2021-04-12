@@ -64,29 +64,31 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210411T11:56:03Z | PCI Express DIY hacking toolkit for Xilinx SP605 | https://github.com/Cr4sh/s6_pcie_microblaze | 315 | 79| 
+| 20210411T23:19:44Z | An Intermediate level backdoor that utilizes HTTP/TCP sockets, light Caesar cypher encryption & more. | https://github.com/malikrbooker/Vipers-Public-Backdoor-1 | 2 | 0| 
+| 20210411T20:26:42Z | PCI Express DIY hacking toolkit for Xilinx SP605 | https://github.com/Cr4sh/s6_pcie_microblaze | 316 | 79| 
+| 20210411T18:37:27Z | This program is an non-object oriented opensource, hidden and undetectable backdoor/reverse shell/RAT for Windows made in Python 3 which contains many features such as multi-client support and cross-platform server. | https://github.com/xp4xbox/Python-Backdoor | 383 | 140| 
+| 20210411T17:01:22Z | A webshell that can bypass some system security | https://github.com/22XploiterCrew-Team/Gel4y-Mini-Shell-Backdoor | 18 | 5| 
+| 20210411T16:13:38Z | Simple Backdoor Manager with Python (based on weevely) | https://github.com/tegal1337/Shelly | 47 | 17| 
+| 20210411T14:37:36Z | A Simple android remote administration tool using sockets. It uses java on the client side and python on the server side | https://github.com/karma9874/AndroRAT | 200 | 91| 
+| 20210411T13:52:50Z | Null | https://github.com/BSalwiczek/backdoor-trojan | 0 | 0| 
+| 20210411T13:35:22Z | 🤖An Evil and Smart Bot for Enslaving Windows. | https://github.com/wildonion/katyusha | 1 | 1| 
 | 20210411T11:16:37Z | Null | https://github.com/EjHvorSerDuVildUdJim/backdoor | 0 | 0| 
-| 20210411T10:54:46Z | Null | https://github.com/BSalwiczek/backdoor-trojan | 0 | 0| 
-| 20210411T09:12:10Z | 🤖An Evil and Smart Bot for Enslaving Windows. | https://github.com/wildonion/katyusha | 1 | 1| 
 | 20210411T04:23:20Z | An Intermediate level backdoor that utilizes HTTP/TCP sockets, light Caesar cypher encryption & more. | https://github.com/malikrbooker/VipersPublicBackdoor1 | 0 | 0| 
-| 20210411T03:34:17Z | Undetectable & Xor encrypting with custom KEY (FUD Metasploit Rat) bypass Top Antivirus like BitDefender,Malwarebytes,Avast,ESET-NOD32,AVG,... & Automatically Add ICON and MANIFEST to excitable | https://github.com/persianhydra/Xeexe-TopAntivirusEvasion | 428 | 101| 
-| 20210411T01:47:27Z | Null | https://github.com/xpf/Backdoor-Learning-arXiv | 1 | 0| 
-| 20210411T01:34:04Z | Invisible, customizable backdoor for Minecraft Spigot Plugins. | https://github.com/ThiccIndustries/Minecraft-Backdoor | 2 | 2| 
 
 
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210411T12:44:51Z | Null | https://github.com/erdifajarf/PMDK_FuzzyAHP | 0 | 0| 
-| 20210411T12:24:11Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 30875 | 15774| 
-| 20210411T12:21:20Z | Software for fuzzing, used on web application pentestings. | https://github.com/NESCAU-UFLA/FuzzingTool | 52 | 8| 
-| 20210411T12:15:15Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 1 | 2| 
-| 20210411T12:12:43Z | Why fuzzy broccoli? Github recommends it! A Backend Template using Golang Gin-Gonic and GORM. | https://github.com/ravielze/fuzzy-broccoli | 0 | 0| 
-| 20210411T12:12:14Z | PoC of fuzzing closed-source userspace binaries with KVM | https://github.com/klecko/kvm-fuzz | 5 | 1| 
-| 20210411T12:11:22Z | Python scripts to fuzz test a MUD through telnet. | https://github.com/virthe/mudfuzz | 1 | 0| 
-| 20210411T12:08:00Z | Fuzzy search a Jira project to quickly identify issues and open them in a web browser | https://github.com/DamonBaker/fuzzy-jira | 3 | 0| 
-| 20210411T11:51:26Z | Fuzzy matching for Neovim | https://github.com/amirrezaask/fuzzy.nvim | 23 | 1| 
-| 20210411T11:46:48Z | Implementation and experiments with https://www.sciencedirect.com/science/article/pii/S1568494613001373 | https://github.com/kenoma/neo-fuzzy-neuron | 0 | 0| 
+| 20210411T22:09:40Z | PoC of fuzzing closed-source userspace binaries with KVM | https://github.com/klecko/kvm-fuzz | 5 | 1| 
+| 20210411T21:59:49Z | Python scripts to fuzz test a MUD through telnet. | https://github.com/virthe/mudfuzz | 1 | 0| 
+| 20210411T21:54:03Z | Group 4C Fuzzy Logic Medieval Chess AI Senior Project | https://github.com/arizonagranger/SeniorProjectFuzzyLogicChess | 1 | 1| 
+| 20210411T21:44:09Z | Repository holding database dumps from getfursu.it | https://github.com/veelkoov/fuzzrake-data | 0 | 0| 
+| 20210411T21:36:14Z | Null | https://github.com/sudomakeinstall2/fuzzgoat-js | 0 | 0| 
+| 20210411T20:03:40Z | Null | https://github.com/gdepuydt/fuzzoz | 0 | 0| 
+| 20210411T19:58:42Z | 1sttest | https://github.com/5GA3rWPYX9mPvBAr/fuzzy-spoon | 0 | 0| 
+| 20210411T19:51:24Z | Null | https://github.com/Juanosorio94/fuzzing-rdma | 0 | 0| 
+| 20210411T19:48:41Z | Why fuzzy broccoli? Github recommends it! A Backend Template using Golang Gin-Gonic and GORM. | https://github.com/ravielze/fuzzy-broccoli | 0 | 0| 
+| 20210411T19:40:32Z | Software for fuzzing, used on web application pentestings. | https://github.com/NESCAU-UFLA/FuzzingTool | 52 | 8| 
 
 
 
