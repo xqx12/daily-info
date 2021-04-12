@@ -81,7 +81,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210412T12:31:20Z | A fuzzer aflchurn | https://github.com/aflchurn/aflchurn | 2 | 1| 
+| 20210412T12:32:32Z | A regression greybox fuzzer aflchurn | https://github.com/aflchurn/aflchurn | 2 | 1| 
 | 20210412T12:30:47Z | Analyzing-MavenFuzzyFactory-E-commerce-Data-with-MySQL | https://github.com/innocent-dike/MavenFuzzyFactory | 0 | 0| 
 | 20210412T12:23:34Z | A fuzzer that generates random Go programs | https://github.com/ALTree/microsmith | 7 | 0| 
 | 20210412T12:02:15Z | Null | https://github.com/tiffanybonzon/serie5_parsing_fuzzing | 0 | 0| 
