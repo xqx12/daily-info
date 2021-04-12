@@ -81,6 +81,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210412T12:37:36Z | This is a dashboard created by myself in reactjs library for projects in need of frontend services and products in reactjs | https://github.com/Dete-Desai/React-Fuzzy-Octo-Couscous | 0 | 0| 
 | 20210412T12:35:46Z | Analyzing-MavenFuzzyFactory-E-commerce-Data-with-MySQL | https://github.com/innocent-dike/MavenFuzzyFactory | 0 | 0| 
 | 20210412T12:32:32Z | A regression greybox fuzzer aflchurn | https://github.com/aflchurn/aflchurn | 2 | 1| 
 | 20210412T12:23:34Z | A fuzzer that generates random Go programs | https://github.com/ALTree/microsmith | 7 | 0| 
@@ -90,7 +91,6 @@
 | 20210412T11:49:11Z | 基于libfuzzer和Unicorn的黑盒模糊测试框架 | https://github.com/migraine-sudo/infinite-fuzzer | 0 | 0| 
 | 20210412T11:26:54Z | A JavaScript Engine Fuzzer | https://github.com/googleprojectzero/fuzzilli | 1170 | 203| 
 | 20210412T11:24:49Z | Fuzzing Based on Seed Importance By Interprocedural Control Flow Graph | https://github.com/xiaoxiongwang/FunAFL | 0 | 0| 
-| 20210412T11:24:00Z | Fuzzing, analysis response and detect vulnerability web application | https://github.com/hoangthanhnguyen/bigdig | 0 | 0| 
 
 
 

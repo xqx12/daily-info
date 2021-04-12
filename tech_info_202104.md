@@ -50,12 +50,12 @@
 | 20210412T07:53:01Z | cve-2021-29627 | Trigger-only for CVE-2021-29627 | https://github.com/raymontag/cve-2021-29627 | In FreeBSD 13.0-STABLE before n245050, 12.2-STABLE before r369525, 13.0-RC4 before p0, and 12.2-RELEASE before p6, listening socket accept filters implementing the accf_create callback incorrectly freed a process supplied argument string. Additional operations on the socket can lead to a double free or use after free.| 
 | 20210412T01:57:14Z | 未知编号 | Null | https://github.com/jessica0f0116/cve_2021_1732 | 未查询到CVE信息| 
 | 20210411T16:28:46Z | cve-2020-10977 | GitLab 12.9.0 Arbitrary File Read  | https://github.com/thewhiteh4t/cve-2020-10977 | GitLab EE/CE 8.5 to 12.9 is vulnerable to a an path traversal when moving an issue between projects.| 
-| 20210411T13:45:13Z | CVE-2021-26700 | RCE in NPM VSCode Extension | https://github.com/jackadamson/CVE-2021-26700 | | 
+| 20210411T13:45:13Z | CVE-2021-26700 | RCE in NPM VSCode Extension | https://github.com/jackadamson/CVE-2021-26700 | Visual Studio Code npm-script Extension Remote Code Execution Vulnerability| 
 | 20210411T07:32:59Z | CVE-2021-21402 | CVE-2021-21402 | https://github.com/xiaoshu-bit/CVE-2021-21402 | Jellyfin is a Free Software Media System. In Jellyfin before version 10.7.1, with certain endpoints, well crafted requests will allow arbitrary file read from a Jellyfin server%s file system. This issue is more prevalent when Windows is used as the host OS. Servers that are exposed to the public Internet are potentially at risk. This is fixed in version 10.7.1. As a workaround, users may be able to restrict some access by enforcing strict security permissions on their filesystem, however, it is recommended to update as soon as possible.| 
 | 20210411T06:32:35Z | cve-2020-10977 | cve-2020-10977 read and execute | https://github.com/lisp3r/cve-2020-10977-read-and-execute | GitLab EE/CE 8.5 to 12.9 is vulnerable to a an path traversal when moving an issue between projects.| 
 | 20210411T02:55:59Z | CVE-2021-11112 | Null | https://github.com/hu185396/CVE-2021-11112 | 未查询到CVE信息| 
 | 20210410T14:07:22Z | CVE-2021-11111 | Null | https://github.com/hu185396/CVE-2021-11111 | 未查询到CVE信息| 
-| 20210410T12:41:46Z | CVE-2021-21975 | VMWare-CVE-2021-21975 SSRF vulnerability | https://github.com/Vulnmachines/VMWare-CVE-2021-21975 | | 
+| 20210410T12:41:46Z | CVE-2021-21975 | VMWare-CVE-2021-21975 SSRF vulnerability | https://github.com/Vulnmachines/VMWare-CVE-2021-21975 | Server Side Request Forgery in vRealize Operations Manager API (CVE-2021-21975) prior to 8.4 may allow a malicious actor with network access to the vRealize Operations Manager API can perform a Server Side Request Forgery attack to steal administrative credentials.| 
 
 
 # klee on Github 推荐
@@ -113,6 +113,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210412T12:37:36Z | This is a dashboard created by myself in reactjs library for projects in need of frontend services and products in reactjs | https://github.com/Dete-Desai/React-Fuzzy-Octo-Couscous | 0 | 0| 
 | 20210412T12:35:46Z | Analyzing-MavenFuzzyFactory-E-commerce-Data-with-MySQL | https://github.com/innocent-dike/MavenFuzzyFactory | 0 | 0| 
 | 20210412T12:32:32Z | A regression greybox fuzzer aflchurn | https://github.com/aflchurn/aflchurn | 2 | 1| 
 | 20210412T12:23:34Z | A fuzzer that generates random Go programs | https://github.com/ALTree/microsmith | 7 | 0| 
@@ -122,7 +123,6 @@
 | 20210412T11:49:11Z | 基于libfuzzer和Unicorn的黑盒模糊测试框架 | https://github.com/migraine-sudo/infinite-fuzzer | 0 | 0| 
 | 20210412T11:26:54Z | A JavaScript Engine Fuzzer | https://github.com/googleprojectzero/fuzzilli | 1170 | 203| 
 | 20210412T11:24:49Z | Fuzzing Based on Seed Importance By Interprocedural Control Flow Graph | https://github.com/xiaoxiongwang/FunAFL | 0 | 0| 
-| 20210412T11:24:00Z | Fuzzing, analysis response and detect vulnerability web application | https://github.com/hoangthanhnguyen/bigdig | 0 | 0| 
 
 
 
