@@ -67,6 +67,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210412T12:57:57Z | Ez backdoor check | https://github.com/DarkFaridN/ByteCode-Viewer-2.9.22 | 0 | 0| 
 | 20210412T12:15:49Z | Dette er basic runcode. Brug CEVA eller noget andet til at test lortet. Tak til @servercfg for den orginalle backdoor da vi fik ideen ud fra dem.  | https://github.com/DerpIsInactive/VpsStealerFiveM | 2 | 1| 
 | 20210412T11:20:43Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 208 | 34| 
 | 20210412T11:18:50Z | This program is an non-object oriented opensource, hidden and undetectable backdoor/reverse shell/RAT for Windows made in Python 3 which contains many features such as multi-client support and cross-platform server. | https://github.com/xp4xbox/Python-Backdoor | 384 | 140| 
@@ -76,7 +77,6 @@
 | 20210412T07:22:55Z | TrojanZoo provides a universal pytorch platform to conduct security researches (especially backdoor attacks/defenses) of image classification in deep learning. | https://github.com/ain-soph/trojanzoo | 59 | 10| 
 | 20210412T06:19:38Z | A webshell that can bypass some system security | https://github.com/22XploiterCrew-Team/Gel4y-Mini-Shell-Backdoor | 20 | 5| 
 | 20210412T04:43:44Z | PCI Express DIY hacking toolkit for Xilinx SP605 | https://github.com/Cr4sh/s6_pcie_microblaze | 317 | 79| 
-| 20210412T00:50:29Z | An Intermediate level backdoor that utilizes HTTP/TCP sockets, light Caesar cypher encryption & more. | https://github.com/malikrbooker/Vipers-Public-Backdoor-1 | 3 | 0| 
 
 
 # fuzz on Github 推荐
