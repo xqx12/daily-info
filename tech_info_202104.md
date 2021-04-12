@@ -6,6 +6,7 @@
 # 玄武实验室 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20210411 | GDB逆向工程系列教程：断点，修改内存和打印其内容介绍。 | https://www.reddit.com/r/ReverseEngineering/comments/mmtmq4/gdb_tutorial_for_reverse_engineers_breakpoints/| 
 | 20210409 | Hiding in the Particles: When Return-Oriented Programming Meets Program Obfuscation | https://arxiv.org/abs/2012.06658| 
 | 20210409 | CVE-2021-1386：Cisco AMP、Immunet 和 ClamAV 本地提权漏洞。 | https://zeroperil.com/cisco-amp-and-immunet-local-privilege-escalation-vulnerability-cve-2021-1386/| 
 | 20210409 | 针对 Symantec Endpoint Protection 的日志、隔离文件和上报引擎的研究。 | https://malwaremaloney.blogspot.com/p/all-things-symantec.html| 
@@ -25,7 +26,6 @@
 | 20210408 | VM 检测技巧：Hyper-V RAW Network Protocol | https://labs.nettitude.com/blog/vm-detection-tricks-part-3-hyper-v-raw-network-protocol/| 
 | 20210408 | 分析 iOS 和 Android 上传到 Apple 和 Google 的隐私数据。 | https://www.scss.tcd.ie/doug.leith/apple_google.pdf| 
 | 20210408 | CVE-2021-24086 漏洞原理分析。CVE-2021-24086 是 Windows IPv6 协议栈存在一处拒绝服务漏洞，远程攻击者可通过向存在此漏洞的系统发送特制数据包，导致目标系统拒绝服务（蓝屏）。 | https://sec.today/pulses/00b64fa9-5ba2-4c24-a406-e446d9e71823/| 
-| 20210408 | 游戏业务 DDoS 攻防对抗案例分享。 | https://sec.today/pulses/eb18f392-7f30-439f-ac78-d3ef87f6810b/| 
 
 
 # 安全维基 推荐
@@ -33,44 +33,44 @@
 | --- | --- | ---| 
 | 20210411 | 深度揭密高通4/5G移动基带消息系统和状态机 | https://github.com/vessial/baseband/blob/master/Qualcomm_BaseBand_Messaging_and_State_Machine.md| 
 | 20210411 | 浅析 AWS S3 子域名接管漏洞 | https://mp.weixin.qq.com/s/q3bsrCKacuepKoFljYxJcg| 
+| 20210411 | 红队攻击前隐匿流量的基本方法 | https://mp.weixin.qq.com/s/eoui4xAuUF5X2H3jWq43tQ| 
+| 20210411 | NLP知识简单总结及NLP论文撰写之道 | https://mp.weixin.qq.com/s/Ioov6PCm8o6cRq0W9sykQw| 
+| 20210411 | 深度分析：主流网络侦察技术与应对策略 | https://mp.weixin.qq.com/s/Aaxu4C_Lf3I-bdPIXi8tIw| 
 | 20210410 | Four Bytes of Power: exploiting CVE-2021-26708 in the Linu... | http://blog.ptsecurity.com/2021/04/four-bytes-of-power-exploiting-cve-2021.html| 
 | 20210410 | 深度分析：4种国产CPU架构和6大品牌 | https://mp.weixin.qq.com/s/FoAPSNW0LFKuerEPJfFmgw| 
 | 20210410 | 白盒代码审计系统建设实践2：深入理解SAST | https://mp.weixin.qq.com/s/jQfsUg4vhEs3XwTcXkqhyQ| 
 | 20210410 | 基于javaAgent内存马检测查杀指南 | https://mp.weixin.qq.com/s/Whta6akjaZamc3nOY1Tvxg| 
 | 20210410 | 一次嵌入式固件逆向实践 | https://mp.weixin.qq.com/s/-eUweGQi633D2W1Vs_bIFg| 
-| 20210409 | 开始使用 Go | https://docs.microsoft.com/zh-cn/learn/paths/go-first-steps/| 
-| 20210409 | Pwn2Own 2021全程（附结果和录像视频） | https://mp.weixin.qq.com/s/blwGELCaPKC1HTczBcWkfQ| 
-| 20210409 | 从CTF比赛真题中学习压缩包伪加密与图片隐写术 | https://www.sec-in.com/article/1002| 
 
 
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20210411T12:51:43Z | CVE-2021-24086 | Proof of concept for CVE-2021-24086, a NULL dereference in tcpip.sys triggered remotely. | https://github.com/0vercl0k/CVE-2021-24086 | | 
+| 20210411T19:12:00Z | CVE-2021-24086 | Proof of concept for CVE-2021-24086, a NULL dereference in tcpip.sys triggered remotely. | https://github.com/0vercl0k/CVE-2021-24086 | Windows TCP/IP Denial of Service Vulnerability| 
+| 20210411T16:28:46Z | cve-2020-10977 | GitLab 12.9.0 Arbitrary File Read  | https://github.com/thewhiteh4t/cve-2020-10977 | GitLab EE/CE 8.5 to 12.9 is vulnerable to a an path traversal when moving an issue between projects.| 
+| 20210411T13:45:13Z | CVE-2021-26700 | RCE in NPM VSCode Extension | https://github.com/jackadamson/CVE-2021-26700 | Visual Studio Code npm-script Extension Remote Code Execution Vulnerability| 
 | 20210411T07:32:59Z | CVE-2021-21402 | CVE-2021-21402 | https://github.com/xiaoshu-bit/CVE-2021-21402 | Jellyfin is a Free Software Media System. In Jellyfin before version 10.7.1, with certain endpoints, well crafted requests will allow arbitrary file read from a Jellyfin server%s file system. This issue is more prevalent when Windows is used as the host OS. Servers that are exposed to the public Internet are potentially at risk. This is fixed in version 10.7.1. As a workaround, users may be able to restrict some access by enforcing strict security permissions on their filesystem, however, it is recommended to update as soon as possible.| 
 | 20210411T06:32:35Z | cve-2020-10977 | cve-2020-10977 read and execute | https://github.com/lisp3r/cve-2020-10977-read-and-execute | GitLab EE/CE 8.5 to 12.9 is vulnerable to a an path traversal when moving an issue between projects.| 
 | 20210411T02:55:59Z | CVE-2021-11112 | Null | https://github.com/hu185396/CVE-2021-11112 | 未查询到CVE信息| 
 | 20210410T21:28:02Z | 未知编号 | Null | https://github.com/jessica0f0116/cve_2021_1732 | 未查询到CVE信息| 
 | 20210410T14:07:22Z | CVE-2021-11111 | Null | https://github.com/hu185396/CVE-2021-11111 | 未查询到CVE信息| 
 | 20210410T12:41:46Z | CVE-2021-21975 | VMWare-CVE-2021-21975 SSRF vulnerability | https://github.com/Vulnmachines/VMWare-CVE-2021-21975 | Server Side Request Forgery in vRealize Operations Manager API (CVE-2021-21975) prior to 8.4 may allow a malicious actor with network access to the vRealize Operations Manager API can perform a Server Side Request Forgery attack to steal administrative credentials.| 
-| 20210410T09:25:32Z | CVE-2021-25374 | Null | https://github.com/FSecureLABS/CVE-2021-25374_Samsung-Account-Access | An improper authorization vulnerability in Samsung Members %samsungrewards% scheme for deeplink in versions 2.4.83.9 in Android O(8.1) and below, and 3.9.00.9 in Android P(9.0) and above allows remote attackers to access a user data related with Samsung Account.| 
-| 20210410T06:05:46Z | CVE-2021-3297 | Null | https://github.com/Sec504/Zyxel-NBG2105-CVE-2021-3297 | On Zyxel NBG2105 V1.00(AAGU.2)C0 devices, setting the login cookie to 1 provides administrator access.| 
-| 20210410T05:10:05Z | cve-2020-10977 | GitLab 12.9.0 Arbitrary File Read  | https://github.com/thewhiteh4t/cve-2020-10977 | GitLab EE/CE 8.5 to 12.9 is vulnerable to a an path traversal when moving an issue between projects.| 
+| 20210410T09:25:32Z | CVE-2021-25374 | Null | https://github.com/FSecureLABS/CVE-2021-25374_Samsung-Account-Access | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210411T15:58:53Z | Config files for my GitHub profile. | https://github.com/Kleebi99/Kleebi99 | 0 | 0| 
+| 20210411T15:29:52Z | RVT is a collection of tools/libraries to support both static and dynamic verification of Rust programs. | https://github.com/project-oak/rust-verification-tools | 120 | 11| 
+| 20210411T15:21:57Z | Null | https://github.com/luchunchen/klee | 0 | 0| 
+| 20210411T13:19:05Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1666 | 489| 
 | 20210411T12:08:07Z | KLEE demonstration on the program second_largest | https://github.com/basu-abhinav/second_largest | 0 | 0| 
-| 20210411T01:14:29Z | RVT is a collection of tools/libraries to support both static and dynamic verification of Rust programs. | https://github.com/project-oak/rust-verification-tools | 120 | 11| 
 | 20210410T18:33:08Z | Personal Blog | https://github.com/klee1611/klee1611.github.io | 0 | 0| 
 | 20210410T11:58:38Z | Config files for my GitHub profile. | https://github.com/einKlee/einKlee | 0 | 0| 
 | 20210409T21:40:26Z | Spring 2021 Geography 817 work folder  | https://github.com/klee12/klee12.github.io | 0 | 0| 
 | 20210409T17:15:00Z | Null | https://github.com/yuexu-98/klee | 0 | 0| 
-| 20210409T14:33:23Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1665 | 488| 
 | 20210408T22:33:14Z | Create CFGs and compute complexity metrics for Python, C++, and Java code. | https://github.com/hmc-alpaqa/metrinome | 9 | 0| 
-| 20210408T17:45:19Z | 원신 가챠 시뮬레이터 | https://github.com/LunaNyan/Genshin_Klee_Discord_Bot | 1 | 0| 
-| 20210408T15:46:59Z | Website for the KLEE project: https://klee.github.io/ | https://github.com/klee/klee.github.io | 14 | 43| 
 
 
 # s2e on Github 推荐
@@ -83,16 +83,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210411T12:48:14Z | A simplistic simulation game, written in C++, of robots exploring and exploiting an area. (2015) | https://github.com/mmarios90/PlanetExploration | 0 | 0| 
-| 20210411T12:35:11Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9243 | 1495| 
-| 20210411T12:33:26Z | linux post-exploitation framework made by linux user | https://github.com/jm33-m0/emp3r0r | 443 | 83| 
-| 20210411T12:26:14Z | A python script file to statically and dynamically investigate and analyse binary files for buffer overflow exploits. | https://github.com/BroadbentT/BINARY-MASTER | 3 | 0| 
-| 20210411T12:16:30Z | CVE-PoC-Exploits! (Work in progress...) | https://github.com/CVEexploiter/CVE-PoC-Exploits | 13 | 5| 
-| 20210411T12:03:45Z | Protekt Protocol puts crypto to work insuring users against hacks, bugs, and exploits of any DeFi protocol or smart contract. The goal is to support and catalyze the growth of the DeFi ecosystem by protecting users from getting rekt. | https://github.com/ProtektProtocol/protekt-frontend | 0 | 0| 
-| 20210411T12:02:26Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 21 | 8| 
-| 20210411T11:38:42Z | GitLab 11.4.7 CE RCE exploit with different reverse shells. CVE-2018-19571 + CVE-2018-19585 | https://github.com/Algafix/gitlab-RCE-11.4.7 | 0 | 0| 
-| 20210411T11:22:11Z | Protekt Protocol puts crypto to work insuring users against hacks, bugs, and exploits of any DeFi protocol or smart contract. The goal is to support and catalyze the growth of the DeFi ecosystem by protecting users from getting rekt. | https://github.com/ProtektProtocol/protekt-protocol-contracts | 6 | 1| 
-| 20210411T11:03:25Z | hack tools | https://github.com/hacktoolspack/hack-tools | 506 | 350| 
+| 20210412T00:00:46Z | Exploit allowing to load arbitrary code on the PSX using only a memory card (no game needed) | https://github.com/brad-lin/FreePSXBoot | 90 | 5| 
+| 20210411T23:57:07Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9245 | 1495| 
+| 20210411T23:40:07Z | Null | https://github.com/PFCELeopard/Roblox-Exploits-Executor | 0 | 0| 
+| 20210411T23:38:20Z | This is a whole guidebook on how to be in this community without being fucked over by your own mistakes in the Roblox Exploiting Community.  | https://github.com/ZeraTS/GuidetotheCommunity | 0 | 0| 
+| 20210411T23:05:50Z | Several tools for exploits. | https://github.com/vLeeH/WebCracker | 1 | 0| 
+| 20210411T23:03:24Z | PS1 savegame exploit | https://github.com/socram8888/tonyhax | 243 | 7| 
+| 20210411T23:02:29Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 21 | 8| 
+| 20210411T22:55:13Z | Fast jacobian computation through sparsity exploitation and matrix coloring | https://github.com/JuliaDiff/SparseDiffTools.jl | 90 | 17| 
+| 20210411T22:39:55Z | lab_tool is a system that allows you to do ethical hacking tests. | https://github.com/dylan14567/lab_tool | 1 | 2| 
+| 20210411T22:29:38Z | Null | https://github.com/dingoatemybeans/Loki-sExploit | 0 | 0| 
 
 
 # backdoor on Github 推荐
