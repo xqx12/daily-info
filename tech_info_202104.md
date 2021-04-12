@@ -47,10 +47,10 @@
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
 | 20210411T19:12:00Z | CVE-2021-24086 | Proof of concept for CVE-2021-24086, a NULL dereference in tcpip.sys triggered remotely. | https://github.com/0vercl0k/CVE-2021-24086 | Windows TCP/IP Denial of Service Vulnerability| 
-| 20210411T16:28:46Z | cve-2020-10977 | GitLab 12.9.0 Arbitrary File Read  | https://github.com/thewhiteh4t/cve-2020-10977 | | 
+| 20210411T16:28:46Z | cve-2020-10977 | GitLab 12.9.0 Arbitrary File Read  | https://github.com/thewhiteh4t/cve-2020-10977 | GitLab EE/CE 8.5 to 12.9 is vulnerable to a an path traversal when moving an issue between projects.| 
 | 20210411T13:45:13Z | CVE-2021-26700 | RCE in NPM VSCode Extension | https://github.com/jackadamson/CVE-2021-26700 | Visual Studio Code npm-script Extension Remote Code Execution Vulnerability| 
 | 20210411T07:32:59Z | CVE-2021-21402 | CVE-2021-21402 | https://github.com/xiaoshu-bit/CVE-2021-21402 | Jellyfin is a Free Software Media System. In Jellyfin before version 10.7.1, with certain endpoints, well crafted requests will allow arbitrary file read from a Jellyfin server%s file system. This issue is more prevalent when Windows is used as the host OS. Servers that are exposed to the public Internet are potentially at risk. This is fixed in version 10.7.1. As a workaround, users may be able to restrict some access by enforcing strict security permissions on their filesystem, however, it is recommended to update as soon as possible.| 
-| 20210411T06:32:35Z | cve-2020-10977 | cve-2020-10977 read and execute | https://github.com/lisp3r/cve-2020-10977-read-and-execute | GitLab EE/CE 8.5 to 12.9 is vulnerable to a an path traversal when moving an issue between projects.| 
+| 20210411T06:32:35Z | cve-2020-10977 | cve-2020-10977 read and execute | https://github.com/lisp3r/cve-2020-10977-read-and-execute | | 
 | 20210411T02:55:59Z | CVE-2021-11112 | Null | https://github.com/hu185396/CVE-2021-11112 | 未查询到CVE信息| 
 | 20210410T21:28:02Z | 未知编号 | Null | https://github.com/jessica0f0116/cve_2021_1732 | 未查询到CVE信息| 
 | 20210410T14:07:22Z | CVE-2021-11111 | Null | https://github.com/hu185396/CVE-2021-11111 | 未查询到CVE信息| 
@@ -113,6 +113,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210412T01:06:38Z | Null | https://github.com/chesney-create/fuzzy-octo-funicular | 0 | 0| 
 | 20210412T00:11:03Z | Towards fuzzing ROS 2 automatically | https://github.com/JnxF/automatic_fuzzing | 0 | 0| 
 | 20210412T00:09:29Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 1 | 2| 
 | 20210411T22:09:40Z | PoC of fuzzing closed-source userspace binaries with KVM | https://github.com/klecko/kvm-fuzz | 5 | 1| 
@@ -122,7 +123,6 @@
 | 20210411T21:36:14Z | Null | https://github.com/sudomakeinstall2/fuzzgoat-js | 0 | 0| 
 | 20210411T20:03:40Z | Null | https://github.com/gdepuydt/fuzzoz | 0 | 0| 
 | 20210411T19:58:42Z | 1sttest | https://github.com/5GA3rWPYX9mPvBAr/fuzzy-spoon | 0 | 0| 
-| 20210411T19:51:24Z | Null | https://github.com/Juanosorio94/fuzzing-rdma | 0 | 0| 
 
 
 
