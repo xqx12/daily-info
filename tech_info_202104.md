@@ -61,6 +61,7 @@
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210412T12:41:26Z | Raw bindings for KLEE | https://github.com/markhakansson/klee-bindings | 0 | 0| 
 | 20210412T12:39:04Z | Safe KLEE API for Rust | https://github.com/markhakansson/klee-rs | 0 | 0| 
 | 20210412T08:47:24Z | Config files for my GitHub profile. | https://github.com/klee06420/klee06420 | 0 | 0| 
 | 20210412T06:50:58Z | KLEE demonstration on the program second_largest | https://github.com/basu-abhinav/second_largest | 0 | 0| 
@@ -70,7 +71,6 @@
 | 20210411T15:21:57Z | Null | https://github.com/luchunchen/klee | 0 | 0| 
 | 20210410T18:33:08Z | Personal Blog | https://github.com/klee1611/klee1611.github.io | 0 | 0| 
 | 20210410T11:58:38Z | Config files for my GitHub profile. | https://github.com/einKlee/einKlee | 0 | 0| 
-| 20210409T21:40:26Z | Spring 2021 Geography 817 work folder  | https://github.com/klee12/klee12.github.io | 0 | 0| 
 
 
 # s2e on Github 推荐
@@ -83,6 +83,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210412T12:40:16Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9247 | 1496| 
 | 20210412T12:20:09Z | A python script file to statically and dynamically investigate and analyse binary files for buffer overflow exploits. | https://github.com/BroadbentT/BINARY-MASTER | 4 | 0| 
 | 20210412T12:15:49Z | Dette er basic runcode. Brug CEVA eller noget andet til at test lortet. Tak til @servercfg for den orginalle backdoor da vi fik ideen ud fra dem.  | https://github.com/DerpIsInactive/VpsStealerFiveM | 2 | 1| 
 | 20210412T12:14:57Z | Computer Network Exploitation (CNE) Field Manual | https://github.com/mzet-/z-field-manual | 2 | 2| 
@@ -92,7 +93,6 @@
 | 20210412T11:22:52Z | EFX-Exploit is one of the most simple payload generator for Desktopb based Linux and Termux | https://github.com/efxtv/All-Metasploit-Exploit | 0 | 0| 
 | 20210412T10:19:46Z | During the COVID-19 pandemic it is necessary, to prevent contagion, to keep a safe distance from other individuals, in particular in public places. This project was created to provide a tool that, through Neural Networks and Artificial Vision, exploits images collected by surveillance video systems, producing useful information for respecting interpersonal distancing. | https://github.com/MatteoLucchi1998/InterpersonalDistances | 0 | 0| 
 | 20210412T09:17:18Z | Windows Exploit Development Toolkit for Exploit Developers | https://github.com/itsjeffersonli/exploit-development-toolkit | 0 | 0| 
-| 20210412T09:17:16Z | linux post-exploitation framework made by linux user | https://github.com/jm33-m0/emp3r0r | 443 | 83| 
 
 
 # backdoor on Github 推荐
