@@ -50,12 +50,12 @@
 | 20210411T16:28:46Z | cve-2020-10977 | GitLab 12.9.0 Arbitrary File Read  | https://github.com/thewhiteh4t/cve-2020-10977 | GitLab EE/CE 8.5 to 12.9 is vulnerable to a an path traversal when moving an issue between projects.| 
 | 20210411T13:45:13Z | CVE-2021-26700 | RCE in NPM VSCode Extension | https://github.com/jackadamson/CVE-2021-26700 | Visual Studio Code npm-script Extension Remote Code Execution Vulnerability| 
 | 20210411T07:32:59Z | CVE-2021-21402 | CVE-2021-21402 | https://github.com/xiaoshu-bit/CVE-2021-21402 | Jellyfin is a Free Software Media System. In Jellyfin before version 10.7.1, with certain endpoints, well crafted requests will allow arbitrary file read from a Jellyfin server%s file system. This issue is more prevalent when Windows is used as the host OS. Servers that are exposed to the public Internet are potentially at risk. This is fixed in version 10.7.1. As a workaround, users may be able to restrict some access by enforcing strict security permissions on their filesystem, however, it is recommended to update as soon as possible.| 
-| 20210411T06:32:35Z | cve-2020-10977 | cve-2020-10977 read and execute | https://github.com/lisp3r/cve-2020-10977-read-and-execute | GitLab EE/CE 8.5 to 12.9 is vulnerable to a an path traversal when moving an issue between projects.| 
+| 20210411T06:32:35Z | cve-2020-10977 | cve-2020-10977 read and execute | https://github.com/lisp3r/cve-2020-10977-read-and-execute | | 
 | 20210411T02:55:59Z | CVE-2021-11112 | Null | https://github.com/hu185396/CVE-2021-11112 | 未查询到CVE信息| 
 | 20210410T21:28:02Z | 未知编号 | Null | https://github.com/jessica0f0116/cve_2021_1732 | 未查询到CVE信息| 
 | 20210410T14:07:22Z | CVE-2021-11111 | Null | https://github.com/hu185396/CVE-2021-11111 | 未查询到CVE信息| 
 | 20210410T12:41:46Z | CVE-2021-21975 | VMWare-CVE-2021-21975 SSRF vulnerability | https://github.com/Vulnmachines/VMWare-CVE-2021-21975 | Server Side Request Forgery in vRealize Operations Manager API (CVE-2021-21975) prior to 8.4 may allow a malicious actor with network access to the vRealize Operations Manager API can perform a Server Side Request Forgery attack to steal administrative credentials.| 
-| 20210410T09:25:32Z | CVE-2021-25374 | Null | https://github.com/FSecureLABS/CVE-2021-25374_Samsung-Account-Access | | 
+| 20210410T09:25:32Z | CVE-2021-25374 | Null | https://github.com/FSecureLABS/CVE-2021-25374_Samsung-Account-Access | An improper authorization vulnerability in Samsung Members %samsungrewards% scheme for deeplink in versions 2.4.83.9 in Android O(8.1) and below, and 3.9.00.9 in Android P(9.0) and above allows remote attackers to access a user data related with Samsung Account.| 
 
 
 # klee on Github 推荐
@@ -83,6 +83,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210412T01:24:15Z | IoT 固件漏洞复现环境 | https://github.com/firmianay/IoT-vulhub | 365 | 32| 
 | 20210412T01:13:44Z | This tool is great for information gathering and post- exploitation | https://github.com/Cybercrack-bot/Cybercrack | 4 | 3| 
 | 20210412T01:05:34Z | This repository contains tools developed to hack CS:GO. | https://github.com/samdobsonDEV/csgo-exploits | 0 | 0| 
 | 20210412T01:02:24Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 21 | 8| 
@@ -92,7 +93,6 @@
 | 20210412T00:53:09Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9247 | 1496| 
 | 20210412T00:42:37Z | PS1 savegame exploit | https://github.com/socram8888/tonyhax | 243 | 7| 
 | 20210412T00:16:11Z | Exploit development training | https://github.com/0xdutra/exploitation-labs | 0 | 0| 
-| 20210412T00:14:14Z | Security and Hacking Tools, Exploits, Proof of Concepts, Shellcodes, Scripts. | https://github.com/nullsecuritynet/tools | 1362 | 452| 
 
 
 # backdoor on Github 推荐
