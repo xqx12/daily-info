@@ -30,7 +30,7 @@
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
 | 20210412T07:55:53Z | CVE-2021-24086 | Proof of concept for CVE-2021-24086, a NULL dereference in tcpip.sys triggered remotely. | https://github.com/0vercl0k/CVE-2021-24086 | Windows TCP/IP Denial of Service Vulnerability| 
-| 20210412T07:53:01Z | cve-2021-29627 | Trigger-only for CVE-2021-29627 | https://github.com/raymontag/cve-2021-29627 | In FreeBSD 13.0-STABLE before n245050, 12.2-STABLE before r369525, 13.0-RC4 before p0, and 12.2-RELEASE before p6, listening socket accept filters implementing the accf_create callback incorrectly freed a process supplied argument string. Additional operations on the socket can lead to a double free or use after free.| 
+| 20210412T07:53:01Z | cve-2021-29627 | Trigger-only for CVE-2021-29627 | https://github.com/raymontag/cve-2021-29627 | | 
 | 20210412T01:57:14Z | 未知编号 | Null | https://github.com/jessica0f0116/cve_2021_1732 | 未查询到CVE信息| 
 
 
@@ -52,11 +52,11 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210412T12:46:02Z | Exploit allowing to load arbitrary code on the PSX using only a memory card (no game needed) | https://github.com/brad-lin/FreePSXBoot | 105 | 7| 
 | 20210412T12:43:24Z | A python script file to statically and dynamically investigate and analyse binary files for buffer overflow exploits. | https://github.com/BroadbentT/BINARY-MASTER | 4 | 0| 
 | 20210412T12:40:16Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9247 | 1496| 
 | 20210412T12:15:49Z | Dette er basic runcode. Brug CEVA eller noget andet til at test lortet. Tak til @servercfg for den orginalle backdoor da vi fik ideen ud fra dem.  | https://github.com/DerpIsInactive/VpsStealerFiveM | 2 | 1| 
 | 20210412T12:14:57Z | Computer Network Exploitation (CNE) Field Manual | https://github.com/mzet-/z-field-manual | 2 | 2| 
-| 20210412T12:08:37Z | Exploit allowing to load arbitrary code on the PSX using only a memory card (no game needed) | https://github.com/brad-lin/FreePSXBoot | 104 | 7| 
 | 20210412T12:02:28Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 21 | 8| 
 | 20210412T11:29:02Z | A demo configuration that exploits ingress controller to serve different web apps inside a k3s cluster, and certificates will be generated automatically using letsencrypt. | https://github.com/wuhanstudio/k3d-ingress | 0 | 0| 
 | 20210412T11:22:52Z | EFX-Exploit is one of the most simple payload generator for Desktopb based Linux and Termux | https://github.com/efxtv/All-Metasploit-Exploit | 0 | 0| 
