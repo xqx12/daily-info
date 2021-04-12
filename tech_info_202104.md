@@ -83,6 +83,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210412T01:39:34Z | Samba 3.0.20 username map script exploit | https://github.com/Un4gi/CVE-2007-2447 | 0 | 0| 
 | 20210412T01:37:23Z | IoT 固件漏洞复现环境 | https://github.com/firmianay/IoT-vulhub | 366 | 32| 
 | 20210412T01:27:09Z | A general purpose memory allocator that implements an isolation security strategy to mitigate memory safety issues while maintaining good performance | https://github.com/struct/isoalloc | 149 | 10| 
 | 20210412T01:13:44Z | This tool is great for information gathering and post- exploitation | https://github.com/Cybercrack-bot/Cybercrack | 4 | 3| 
@@ -92,7 +93,6 @@
 | 20210412T00:58:08Z | Exploit mod to be used on Territorial **purely for finding and eliminating exploits** | https://github.com/SpaceClouds42/TerritorialHax | 0 | 0| 
 | 20210412T00:53:33Z | A python script file to statically and dynamically investigate and analyse binary files for buffer overflow exploits. | https://github.com/BroadbentT/BINARY-MASTER | 4 | 0| 
 | 20210412T00:53:09Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9247 | 1496| 
-| 20210412T00:42:37Z | PS1 savegame exploit | https://github.com/socram8888/tonyhax | 243 | 7| 
 
 
 # backdoor on Github 推荐
