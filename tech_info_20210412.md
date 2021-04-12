@@ -51,11 +51,11 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210412T12:02:28Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 21 | 8| 
 | 20210412T11:55:15Z | A python script file to statically and dynamically investigate and analyse binary files for buffer overflow exploits. | https://github.com/BroadbentT/BINARY-MASTER | 4 | 0| 
 | 20210412T11:46:32Z | Exploit allowing to load arbitrary code on the PSX using only a memory card (no game needed) | https://github.com/brad-lin/FreePSXBoot | 103 | 7| 
 | 20210412T11:29:02Z | A demo configuration that exploits ingress controller to serve different web apps inside a k3s cluster, and certificates will be generated automatically using letsencrypt. | https://github.com/wuhanstudio/k3d-ingress | 0 | 0| 
 | 20210412T11:22:52Z | EFX-Exploit is one of the most simple payload generator for Desktopb based Linux and Termux | https://github.com/efxtv/All-Metasploit-Exploit | 0 | 0| 
-| 20210412T11:02:26Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 21 | 8| 
 | 20210412T10:19:46Z | During the COVID-19 pandemic it is necessary, to prevent contagion, to keep a safe distance from other individuals, in particular in public places. This project was created to provide a tool that, through Neural Networks and Artificial Vision, exploits images collected by surveillance video systems, producing useful information for respecting interpersonal distancing. | https://github.com/MatteoLucchi1998/InterpersonalDistances | 0 | 0| 
 | 20210412T10:17:11Z | Computer Network Exploitation (CNE) Field Manual | https://github.com/mzet-/z-field-manual | 2 | 2| 
 | 20210412T09:17:18Z | Windows Exploit Development Toolkit for Exploit Developers | https://github.com/itsjeffersonli/exploit-development-toolkit | 0 | 0| 
