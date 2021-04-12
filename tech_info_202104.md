@@ -46,11 +46,11 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20210412T07:55:53Z | CVE-2021-24086 | Proof of concept for CVE-2021-24086, a NULL dereference in tcpip.sys triggered remotely. | https://github.com/0vercl0k/CVE-2021-24086 | | 
+| 20210412T07:55:53Z | CVE-2021-24086 | Proof of concept for CVE-2021-24086, a NULL dereference in tcpip.sys triggered remotely. | https://github.com/0vercl0k/CVE-2021-24086 | Windows TCP/IP Denial of Service Vulnerability| 
 | 20210412T07:53:01Z | cve-2021-29627 | Trigger-only for CVE-2021-29627 | https://github.com/raymontag/cve-2021-29627 | In FreeBSD 13.0-STABLE before n245050, 12.2-STABLE before r369525, 13.0-RC4 before p0, and 12.2-RELEASE before p6, listening socket accept filters implementing the accf_create callback incorrectly freed a process supplied argument string. Additional operations on the socket can lead to a double free or use after free.| 
-| 20210412T01:57:14Z | 未知编号 | Null | https://github.com/jessica0f0116/cve_2021_1732 | 未查询到CVE信息| 
+| 20210412T01:57:14Z | 未知编号 | Null | https://github.com/jessica0f0116/cve_2021_1732 | | 
 | 20210411T16:28:46Z | cve-2020-10977 | GitLab 12.9.0 Arbitrary File Read  | https://github.com/thewhiteh4t/cve-2020-10977 | GitLab EE/CE 8.5 to 12.9 is vulnerable to a an path traversal when moving an issue between projects.| 
-| 20210411T13:45:13Z | CVE-2021-26700 | RCE in NPM VSCode Extension | https://github.com/jackadamson/CVE-2021-26700 | Visual Studio Code npm-script Extension Remote Code Execution Vulnerability| 
+| 20210411T13:45:13Z | CVE-2021-26700 | RCE in NPM VSCode Extension | https://github.com/jackadamson/CVE-2021-26700 | | 
 | 20210411T07:32:59Z | CVE-2021-21402 | CVE-2021-21402 | https://github.com/xiaoshu-bit/CVE-2021-21402 | Jellyfin is a Free Software Media System. In Jellyfin before version 10.7.1, with certain endpoints, well crafted requests will allow arbitrary file read from a Jellyfin server%s file system. This issue is more prevalent when Windows is used as the host OS. Servers that are exposed to the public Internet are potentially at risk. This is fixed in version 10.7.1. As a workaround, users may be able to restrict some access by enforcing strict security permissions on their filesystem, however, it is recommended to update as soon as possible.| 
 | 20210411T06:32:35Z | cve-2020-10977 | cve-2020-10977 read and execute | https://github.com/lisp3r/cve-2020-10977-read-and-execute | GitLab EE/CE 8.5 to 12.9 is vulnerable to a an path traversal when moving an issue between projects.| 
 | 20210411T02:55:59Z | CVE-2021-11112 | Null | https://github.com/hu185396/CVE-2021-11112 | 未查询到CVE信息| 
@@ -83,6 +83,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210412T12:04:48Z | Dette er basic runcode. Brug CEVA eller noget andet til at test lortet. Tak til @servercfg for den orginalle backdoor da vi fik ideen ud fra dem.  | https://github.com/DerpIsInactive/VpsStealerFiveM | 2 | 1| 
 | 20210412T12:02:28Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 21 | 8| 
 | 20210412T11:55:15Z | A python script file to statically and dynamically investigate and analyse binary files for buffer overflow exploits. | https://github.com/BroadbentT/BINARY-MASTER | 4 | 0| 
 | 20210412T11:46:32Z | Exploit allowing to load arbitrary code on the PSX using only a memory card (no game needed) | https://github.com/brad-lin/FreePSXBoot | 103 | 7| 
@@ -92,12 +93,12 @@
 | 20210412T10:17:11Z | Computer Network Exploitation (CNE) Field Manual | https://github.com/mzet-/z-field-manual | 2 | 2| 
 | 20210412T09:17:18Z | Windows Exploit Development Toolkit for Exploit Developers | https://github.com/itsjeffersonli/exploit-development-toolkit | 0 | 0| 
 | 20210412T09:17:16Z | linux post-exploitation framework made by linux user | https://github.com/jm33-m0/emp3r0r | 443 | 83| 
-| 20210412T09:09:31Z | Null | https://github.com/th3ken-dev/TH3KEN-EDITON | 2 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210412T12:04:48Z | Dette er basic runcode. Brug CEVA eller noget andet til at test lortet. Tak til @servercfg for den orginalle backdoor da vi fik ideen ud fra dem.  | https://github.com/DerpIsInactive/VpsStealerFiveM | 2 | 1| 
 | 20210412T11:20:43Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 208 | 34| 
 | 20210412T11:18:50Z | This program is an non-object oriented opensource, hidden and undetectable backdoor/reverse shell/RAT for Windows made in Python 3 which contains many features such as multi-client support and cross-platform server. | https://github.com/xp4xbox/Python-Backdoor | 384 | 140| 
 | 20210412T09:34:17Z | Collection shell backdoor 2021 new | https://github.com/penucuriCode/Kumpulan-Backdoor | 0 | 0| 
@@ -107,22 +108,21 @@
 | 20210412T06:19:38Z | A webshell that can bypass some system security | https://github.com/22XploiterCrew-Team/Gel4y-Mini-Shell-Backdoor | 20 | 5| 
 | 20210412T04:43:44Z | PCI Express DIY hacking toolkit for Xilinx SP605 | https://github.com/Cr4sh/s6_pcie_microblaze | 317 | 79| 
 | 20210412T00:50:29Z | An Intermediate level backdoor that utilizes HTTP/TCP sockets, light Caesar cypher encryption & more. | https://github.com/malikrbooker/Vipers-Public-Backdoor-1 | 3 | 0| 
-| 20210411T16:13:38Z | Simple Backdoor Manager with Python (based on weevely) | https://github.com/tegal1337/Shelly | 47 | 17| 
 
 
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210412T01:27:08Z | Fuzzy search a Jira project to quickly identify issues and open them in a web browser | https://github.com/DamonBaker/fuzzy-jira | 3 | 0| 
-| 20210412T01:06:38Z | Null | https://github.com/chesney-create/fuzzy-octo-funicular | 0 | 0| 
-| 20210412T00:11:03Z | Towards fuzzing ROS 2 automatically | https://github.com/JnxF/automatic_fuzzing | 0 | 0| 
-| 20210412T00:09:29Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 1 | 2| 
-| 20210411T22:09:40Z | PoC of fuzzing closed-source userspace binaries with KVM | https://github.com/klecko/kvm-fuzz | 5 | 1| 
-| 20210411T21:59:49Z | Python scripts to fuzz test a MUD through telnet. | https://github.com/virthe/mudfuzz | 1 | 0| 
-| 20210411T21:54:03Z | Group 4C Fuzzy Logic Medieval Chess AI Senior Project | https://github.com/arizonagranger/SeniorProjectFuzzyLogicChess | 1 | 1| 
-| 20210411T21:44:09Z | Repository holding database dumps from getfursu.it | https://github.com/veelkoov/fuzzrake-data | 0 | 0| 
-| 20210411T21:36:14Z | Null | https://github.com/sudomakeinstall2/fuzzgoat-js | 0 | 0| 
-| 20210411T20:03:40Z | Null | https://github.com/gdepuydt/fuzzoz | 0 | 0| 
+| 20210412T12:02:15Z | Null | https://github.com/tiffanybonzon/serie5_parsing_fuzzing | 0 | 0| 
+| 20210412T11:59:30Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6191 | 1248| 
+| 20210412T11:57:24Z | White-box fuzzer for Java bytecode | https://github.com/vorpal-research/kex | 6 | 5| 
+| 20210412T11:49:11Z | 基于libfuzzer和Unicorn的黑盒模糊测试框架 | https://github.com/migraine-sudo/infinite-fuzzer | 0 | 0| 
+| 20210412T11:26:54Z | A JavaScript Engine Fuzzer | https://github.com/googleprojectzero/fuzzilli | 1170 | 203| 
+| 20210412T11:24:49Z | Fuzzing Based on Seed Importance By Interprocedural Control Flow Graph | https://github.com/xiaoxiongwang/FunAFL | 0 | 0| 
+| 20210412T11:24:00Z | Fuzzing, analysis response and detect vulnerability web application | https://github.com/hoangthanhnguyen/bigdig | 0 | 0| 
+| 20210412T11:06:59Z | A fuzzer aflchurn | https://github.com/aflchurn/aflchurn | 1 | 1| 
+| 20210412T11:03:40Z | Null | https://github.com/Sdhandia/fuzzy-octo-waffle | 0 | 0| 
+| 20210412T11:02:16Z | Null | https://github.com/s9varesc/url-fuzzing | 1 | 1| 
 
 
 
