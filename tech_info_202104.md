@@ -83,7 +83,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210412T00:44:23Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9247 | 1495| 
+| 20210412T00:45:24Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9247 | 1495| 
 | 20210412T00:42:37Z | PS1 savegame exploit | https://github.com/socram8888/tonyhax | 243 | 7| 
 | 20210412T00:16:11Z | Exploit development training | https://github.com/0xdutra/exploitation-labs | 0 | 0| 
 | 20210412T00:14:18Z | Exploit mod to be used on Territorial **purely for finding and eliminating exploits** | https://github.com/SpaceClouds42/TerritorialHax | 0 | 0| 
