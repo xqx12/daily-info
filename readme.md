@@ -30,8 +30,8 @@
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
 | 20210412T07:55:53Z | CVE-2021-24086 | Proof of concept for CVE-2021-24086, a NULL dereference in tcpip.sys triggered remotely. | https://github.com/0vercl0k/CVE-2021-24086 | Windows TCP/IP Denial of Service Vulnerability| 
-| 20210412T07:53:01Z | cve-2021-29627 | Trigger-only for CVE-2021-29627 | https://github.com/raymontag/cve-2021-29627 | | 
-| 20210412T01:57:14Z | 未知编号 | Null | https://github.com/jessica0f0116/cve_2021_1732 | | 
+| 20210412T07:53:01Z | cve-2021-29627 | Trigger-only for CVE-2021-29627 | https://github.com/raymontag/cve-2021-29627 | In FreeBSD 13.0-STABLE before n245050, 12.2-STABLE before r369525, 13.0-RC4 before p0, and 12.2-RELEASE before p6, listening socket accept filters implementing the accf_create callback incorrectly freed a process supplied argument string. Additional operations on the socket can lead to a double free or use after free.| 
+| 20210412T01:57:14Z | 未知编号 | Null | https://github.com/jessica0f0116/cve_2021_1732 | 未查询到CVE信息| 
 
 
 # klee on Github 推荐
@@ -81,8 +81,8 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210412T12:35:46Z | Analyzing-MavenFuzzyFactory-E-commerce-Data-with-MySQL | https://github.com/innocent-dike/MavenFuzzyFactory | 0 | 0| 
 | 20210412T12:32:32Z | A regression greybox fuzzer aflchurn | https://github.com/aflchurn/aflchurn | 2 | 1| 
-| 20210412T12:30:47Z | Analyzing-MavenFuzzyFactory-E-commerce-Data-with-MySQL | https://github.com/innocent-dike/MavenFuzzyFactory | 0 | 0| 
 | 20210412T12:23:34Z | A fuzzer that generates random Go programs | https://github.com/ALTree/microsmith | 7 | 0| 
 | 20210412T12:02:15Z | Null | https://github.com/tiffanybonzon/serie5_parsing_fuzzing | 0 | 0| 
 | 20210412T11:59:30Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6191 | 1248| 
