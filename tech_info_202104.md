@@ -54,7 +54,7 @@
 | 20210412T13:30:23Z | CVE-2021-24086 | Proof of concept for CVE-2021-24086, a NULL dereference in tcpip.sys triggered remotely. | https://github.com/0vercl0k/CVE-2021-24086 | Windows TCP/IP Denial of Service Vulnerability| 
 | 20210412T01:57:14Z | 未知编号 | Null | https://github.com/jessica0f0116/cve_2021_1732 | 未查询到CVE信息| 
 | 20210411T16:28:46Z | cve-2020-10977 | GitLab 12.9.0 Arbitrary File Read  | https://github.com/thewhiteh4t/cve-2020-10977 | GitLab EE/CE 8.5 to 12.9 is vulnerable to a an path traversal when moving an issue between projects.| 
-| 20210411T13:45:13Z | CVE-2021-26700 | RCE in NPM VSCode Extension | https://github.com/jackadamson/CVE-2021-26700 | Visual Studio Code npm-script Extension Remote Code Execution Vulnerability| 
+| 20210411T13:45:13Z | CVE-2021-26700 | RCE in NPM VSCode Extension | https://github.com/jackadamson/CVE-2021-26700 | | 
 | 20210411T07:32:59Z | CVE-2021-21402 | CVE-2021-21402 | https://github.com/xiaoshu-bit/CVE-2021-21402 | Jellyfin is a Free Software Media System. In Jellyfin before version 10.7.1, with certain endpoints, well crafted requests will allow arbitrary file read from a Jellyfin server%s file system. This issue is more prevalent when Windows is used as the host OS. Servers that are exposed to the public Internet are potentially at risk. This is fixed in version 10.7.1. As a workaround, users may be able to restrict some access by enforcing strict security permissions on their filesystem, however, it is recommended to update as soon as possible.| 
 
 
@@ -83,8 +83,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210413T00:51:34Z | Ded Security - Toolkit | https://github.com/dedsecubr/dedsecurity-framework | 6 | 2| 
 | 20210413T00:50:45Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 12 | 8| 
-| 20210413T00:49:56Z | Ded Security - Toolkit | https://github.com/dedsecubr/dedsecurity-framework | 6 | 2| 
 | 20210413T00:43:34Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9256 | 1499| 
 | 20210413T00:40:17Z | Tool for creating Base64 encoded payloads for exploiting insecure Python Pickle Deserialization | https://github.com/secw01f/PickleRick | 0 | 0| 
 | 20210413T00:30:04Z | Exploit allowing to load arbitrary code on the PSX using only a memory card (no game needed) | https://github.com/brad-lin/FreePSXBoot | 117 | 9| 
