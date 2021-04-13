@@ -53,7 +53,7 @@
 | 20210413T00:33:00Z | CVE-2021- | Null | https://github.com/givemefivw/CVE-2021-Test | 未查询到CVE信息| 
 | 20210412T22:56:55Z | cve-2020-10977 | cve-2020-10977 read and execute | https://github.com/lisp3r/cve-2020-10977-read-and-execute | GitLab EE/CE 8.5 to 12.9 is vulnerable to a an path traversal when moving an issue between projects.| 
 | 20210412T14:10:19Z | cve-2021-29627 | Trigger-only for CVE-2021-29627 | https://github.com/raymontag/cve-2021-29627 | In FreeBSD 13.0-STABLE before n245050, 12.2-STABLE before r369525, 13.0-RC4 before p0, and 12.2-RELEASE before p6, listening socket accept filters implementing the accf_create callback incorrectly freed a process supplied argument string. Additional operations on the socket can lead to a double free or use after free.| 
-| 20210412T13:30:23Z | CVE-2021-24086 | Proof of concept for CVE-2021-24086, a NULL dereference in tcpip.sys triggered remotely. | https://github.com/0vercl0k/CVE-2021-24086 | Windows TCP/IP Denial of Service Vulnerability| 
+| 20210412T13:30:23Z | CVE-2021-24086 | Proof of concept for CVE-2021-24086, a NULL dereference in tcpip.sys triggered remotely. | https://github.com/0vercl0k/CVE-2021-24086 | | 
 | 20210412T01:57:14Z | 未知编号 | Null | https://github.com/jessica0f0116/cve_2021_1732 | 未查询到CVE信息| 
 | 20210411T16:28:46Z | cve-2020-10977 | GitLab 12.9.0 Arbitrary File Read  | https://github.com/thewhiteh4t/cve-2020-10977 | GitLab EE/CE 8.5 to 12.9 is vulnerable to a an path traversal when moving an issue between projects.| 
 
@@ -83,7 +83,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210413T01:56:34Z | Null | https://github.com/r4j0x00/exploits | 693 | 179| 
+| 20210413T01:58:49Z | Null | https://github.com/r4j0x00/exploits | 694 | 180| 
 | 20210413T01:42:54Z | Ded Security - Toolkit | https://github.com/dedsecubr/dedsecurity-framework | 6 | 2| 
 | 20210413T01:40:24Z | The AWS exploitation framework, designed for testing the security of Amazon Web Services environments. | https://github.com/RhinoSecurityLabs/pacu | 1977 | 357| 
 | 20210413T01:37:05Z | A python script file to statically and dynamically investigate and analyse binary files for buffer overflow exploits. | https://github.com/BroadbentT/BINARY-MASTER | 4 | 0| 
@@ -98,11 +98,11 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210413T01:57:07Z | A Simple android remote administration tool using sockets. It uses java on the client side and python on the server side | https://github.com/karma9874/AndroRAT | 202 | 91| 
 | 20210412T23:46:21Z | A webshell that can bypass some system security | https://github.com/22XploiterCrew-Team/Gel4y-Mini-Shell-Backdoor | 22 | 5| 
 | 20210412T20:46:58Z | An evil bit backdoor for iptables | https://github.com/FlamingSpork/iptable_evil | 0 | 0| 
 | 20210412T16:36:35Z | 🤖An Evil and Smart Bot for Enslaving Windows. | https://github.com/wildonion/katyusha | 1 | 1| 
 | 20210412T15:53:51Z | Null | https://github.com/victormuller2007/backdoor | 0 | 0| 
-| 20210412T15:42:14Z | A Simple android remote administration tool using sockets. It uses java on the client side and python on the server side | https://github.com/karma9874/AndroRAT | 201 | 91| 
 | 20210412T15:42:06Z | Collection shell backdoor 2021 new | https://github.com/penucuriCode/Kumpulan-Backdoor | 0 | 0| 
 | 20210412T15:35:47Z | Ez backdoor check | https://github.com/DarkFaridN/ByteCode-Viewer-2.9.22 | 1 | 0| 
 | 20210412T15:32:41Z | Null | https://github.com/igpig/igpigs-Backdoor | 0 | 0| 

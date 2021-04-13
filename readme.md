@@ -33,7 +33,7 @@
 | --- | --- | --- | --- | ---| 
 | 20210412T22:56:55Z | cve-2020-10977 | cve-2020-10977 read and execute | https://github.com/lisp3r/cve-2020-10977-read-and-execute | GitLab EE/CE 8.5 to 12.9 is vulnerable to a an path traversal when moving an issue between projects.| 
 | 20210412T14:10:19Z | cve-2021-29627 | Trigger-only for CVE-2021-29627 | https://github.com/raymontag/cve-2021-29627 | In FreeBSD 13.0-STABLE before n245050, 12.2-STABLE before r369525, 13.0-RC4 before p0, and 12.2-RELEASE before p6, listening socket accept filters implementing the accf_create callback incorrectly freed a process supplied argument string. Additional operations on the socket can lead to a double free or use after free.| 
-| 20210412T13:30:23Z | CVE-2021-24086 | Proof of concept for CVE-2021-24086, a NULL dereference in tcpip.sys triggered remotely. | https://github.com/0vercl0k/CVE-2021-24086 | Windows TCP/IP Denial of Service Vulnerability| 
+| 20210412T13:30:23Z | CVE-2021-24086 | Proof of concept for CVE-2021-24086, a NULL dereference in tcpip.sys triggered remotely. | https://github.com/0vercl0k/CVE-2021-24086 | | 
 | 20210412T01:57:14Z | 未知编号 | Null | https://github.com/jessica0f0116/cve_2021_1732 | 未查询到CVE信息| 
 
 
@@ -75,12 +75,12 @@
 | 20210412T20:46:58Z | An evil bit backdoor for iptables | https://github.com/FlamingSpork/iptable_evil | 0 | 0| 
 | 20210412T16:36:35Z | 🤖An Evil and Smart Bot for Enslaving Windows. | https://github.com/wildonion/katyusha | 1 | 1| 
 | 20210412T15:53:51Z | Null | https://github.com/victormuller2007/backdoor | 0 | 0| 
-| 20210412T15:42:14Z | A Simple android remote administration tool using sockets. It uses java on the client side and python on the server side | https://github.com/karma9874/AndroRAT | 201 | 91| 
 | 20210412T15:42:06Z | Collection shell backdoor 2021 new | https://github.com/penucuriCode/Kumpulan-Backdoor | 0 | 0| 
 | 20210412T15:35:47Z | Ez backdoor check | https://github.com/DarkFaridN/ByteCode-Viewer-2.9.22 | 1 | 0| 
 | 20210412T15:32:41Z | Null | https://github.com/igpig/igpigs-Backdoor | 0 | 0| 
 | 20210412T12:15:49Z | Dette er basic runcode. Brug CEVA eller noget andet til at test lortet. Tak til @servercfg for den orginalle backdoor da vi fik ideen ud fra dem.  | https://github.com/DerpIsInactive/VpsStealerFiveM | 2 | 1| 
 | 20210412T11:20:43Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 208 | 34| 
+| 20210412T11:18:50Z | This program is an non-object oriented opensource, hidden and undetectable backdoor/reverse shell/RAT for Windows made in Python 3 which contains many features such as multi-client support and cross-platform server. | https://github.com/xp4xbox/Python-Backdoor | 384 | 140| 
 
 
 # fuzz on Github 推荐
