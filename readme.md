@@ -23,6 +23,8 @@
 | 20210413 | 从BCTF人机对抗视角浅谈自动化攻防技术发展 | https://mp.weixin.qq.com/s/5wR37FLoTPn3fftxZw_Brw| 
 | 20210413 | MindAPI: Bringing order to API hacking chaos | https://github.com/dsopas/MindAPI| 
 | 20210413 | 主流WebShell工具流量层分析 | https://xz.aliyun.com/t/9404| 
+| 20210413 | Spring Boot Fat Jar 写文件漏洞到稳定 RCE 的探索 | https://landgrey.me/blog/22/| 
+| 20210413 | SmartyPHP沙箱逃逸分析 | https://www.anquanke.com/post/id/235505| 
 
 
 # CVE Github 推荐
