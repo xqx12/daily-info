@@ -22,6 +22,7 @@
 | 20210413 | 微信小程序反编译 | https://www.sec-in.com/article/1012| 
 | 20210413 | 从BCTF人机对抗视角浅谈自动化攻防技术发展 | https://mp.weixin.qq.com/s/5wR37FLoTPn3fftxZw_Brw| 
 | 20210413 | MindAPI: Bringing order to API hacking chaos | https://github.com/dsopas/MindAPI| 
+| 20210413 | 主流WebShell工具流量层分析 | https://xz.aliyun.com/t/9404| 
 
 
 # CVE Github 推荐
@@ -57,8 +58,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210413T12:39:30Z | Null | https://github.com/v3l1d/Windows7-Exploiting-ReverseShell-PDF | 0 | 0| 
 | 20210413T12:35:13Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9257 | 1500| 
-| 20210413T12:33:13Z | Null | https://github.com/v3l1d/Windows7-Exploiting-ReverseShell-PDF | 0 | 0| 
 | 20210413T12:22:57Z | Project for stopping the child exploitation . Aim of the project is stop all child labour practices | https://github.com/harsh414/Google-Solution-Challenge-Project | 0 | 0| 
 | 20210413T12:18:08Z | C2/post-exploitation framework | https://github.com/loseys/BlackMamba | 607 | 69| 
 | 20210413T12:03:48Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 21 | 8| 
