@@ -32,7 +32,7 @@
 | --- | --- | --- | --- | ---| 
 | 20210413T11:51:21Z | cve-2021-29627 | Trigger-only for CVE-2021-29627 | https://github.com/raymontag/cve-2021-29627 | In FreeBSD 13.0-STABLE before n245050, 12.2-STABLE before r369525, 13.0-RC4 before p0, and 12.2-RELEASE before p6, listening socket accept filters implementing the accf_create callback incorrectly freed a process supplied argument string. Additional operations on the socket can lead to a double free or use after free.| 
 | 20210413T11:44:17Z | CVE-2020-17519 | CVE-2020-17519 Cheetah | https://github.com/givemefivw/CVE-2020-17519 | A change introduced in Apache Flink 1.11.0 (and released in 1.11.1 and 1.11.2 as well) allows attackers to read any file on the local filesystem of the JobManager through the REST interface of the JobManager process. Access is restricted to files accessible by the JobManager process. All users should upgrade to Flink 1.11.3 or 1.12.0 if their Flink instance(s) are exposed. The issue was fixed in commit b561010b0ee741543c3953306037f00d7a9f0801 from apache/flink:master.| 
-| 20210413T09:07:38Z | CVE-2021-6666 | Null | https://github.com/givemefivw/CVE-2021-6666 | 未查询到CVE信息| 
+| 20210413T09:07:38Z | CVE-2021-6666 | Null | https://github.com/givemefivw/CVE-2021-6666 | | 
 | 20210413T07:51:29Z | CVE-2021-24086 | Proof of concept for CVE-2021-24086, a NULL dereference in tcpip.sys triggered remotely. | https://github.com/0vercl0k/CVE-2021-24086 | Windows TCP/IP Denial of Service Vulnerability| 
 | 20210413T07:12:14Z | CVE-2020-5902 | Auto exploit RCE CVE-2020-5902  | https://github.com/haisenberg/CVE-2020-5902 | In BIG-IP versions 15.0.0-15.1.0.3, 14.1.0-14.1.2.5, 13.1.0-13.1.3.3, 12.1.0-12.1.5.1, and 11.6.1-11.6.5.1, the Traffic Management User Interface (TMUI), also referred to as the Configuration utility, has a Remote Code Execution (RCE) vulnerability in undisclosed pages.| 
 | 20210413T04:26:27Z | CVE-2021-26832 | Cross Site Scripting (XSS) at the "Reset Password" page form of Priority Enterprise Management System v8.00 allows attackers to execute javascript on behalf of the victim by sending a malicious URL or directing the victim to a malicious site. | https://github.com/NagliNagli/CVE-2021-26832 | 未查询到CVE信息| 
@@ -60,6 +60,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210413T12:53:15Z | PS4 Exploit Host | https://github.com/Night-King-Host/Night-King-Host.github.io | 8 | 4| 
 | 20210413T12:50:46Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 12 | 8| 
 | 20210413T12:39:30Z | Null | https://github.com/v3l1d/Windows7-Exploiting-ReverseShell-PDF | 0 | 0| 
 | 20210413T12:35:13Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9257 | 1500| 
@@ -69,7 +70,6 @@
 | 20210413T11:53:29Z | Null | https://github.com/oneoy/exploits1 | 0 | 0| 
 | 20210413T11:42:49Z | Several tools for exploits. | https://github.com/vLeeH/protocol-tools | 0 | 0| 
 | 20210413T11:36:27Z | Android RAT with web panel and undetectable App | https://github.com/Th30neAnd0nly/Ohm | 15 | 6| 
-| 20210413T11:04:03Z | PS4 Exploit Host | https://github.com/Night-King-Host/Night-King-Host.github.io | 8 | 4| 
 
 
 # backdoor on Github 推荐
