@@ -61,11 +61,11 @@
 | 20210412T23:33:10Z | GEF - GDB Enhanced Features for exploit devs & reversers | https://github.com/hugsy/gef | 3572 | 503| 
 | 20210412T23:20:13Z | The AWS exploitation framework, designed for testing the security of Amazon Web Services environments. | https://github.com/RhinoSecurityLabs/pacu | 1978 | 357| 
 | 20210412T23:14:41Z | 一些自己写的exp，练手。 | https://github.com/ADummmy/exploits | 0 | 0| 
-| 20210412T23:02:26Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 21 | 8| 
 | 20210412T22:56:34Z | Null | https://github.com/LucasAMiranda/Bind_Shell_Exploiting | 0 | 0| 
 | 20210412T22:47:16Z | PS4 Exploit Host | https://github.com/Night-King-Host/Night-King-Host.github.io | 8 | 4| 
 | 20210412T22:19:55Z | lab_tool is a system that allows you to do ethical hacking tests. | https://github.com/dylan14567/lab_tool | 1 | 2| 
 | 20210412T21:38:57Z | My exploits, write-ups and notes that I%ve been using while learning things related to pwn. | https://github.com/cemonatk/pwn-exercises | 0 | 0| 
+| 20210412T21:35:11Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9255 | 1499| 
 
 
 # backdoor on Github 推荐
