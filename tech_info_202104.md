@@ -83,7 +83,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210413T01:45:58Z | Null | https://github.com/r4j0x00/exploits | 687 | 178| 
+| 20210413T01:47:22Z | Null | https://github.com/r4j0x00/exploits | 688 | 178| 
 | 20210413T01:42:54Z | Ded Security - Toolkit | https://github.com/dedsecubr/dedsecurity-framework | 6 | 2| 
 | 20210413T01:40:24Z | The AWS exploitation framework, designed for testing the security of Amazon Web Services environments. | https://github.com/RhinoSecurityLabs/pacu | 1977 | 357| 
 | 20210413T01:37:05Z | A python script file to statically and dynamically investigate and analyse binary files for buffer overflow exploits. | https://github.com/BroadbentT/BINARY-MASTER | 4 | 0| 
