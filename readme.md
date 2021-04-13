@@ -86,16 +86,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210412T12:37:36Z | This is a dashboard created by myself in reactjs library for projects in need of frontend services and products in reactjs | https://github.com/Dete-Desai/React-Fuzzy-Octo-Couscous | 0 | 0| 
-| 20210412T12:35:46Z | Analyzing-MavenFuzzyFactory-E-commerce-Data-with-MySQL | https://github.com/innocent-dike/MavenFuzzyFactory | 0 | 0| 
-| 20210412T12:32:32Z | A regression greybox fuzzer aflchurn | https://github.com/aflchurn/aflchurn | 2 | 1| 
-| 20210412T12:23:34Z | A fuzzer that generates random Go programs | https://github.com/ALTree/microsmith | 7 | 0| 
-| 20210412T12:02:15Z | Null | https://github.com/tiffanybonzon/serie5_parsing_fuzzing | 0 | 0| 
-| 20210412T11:59:30Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6191 | 1248| 
-| 20210412T11:57:24Z | White-box fuzzer for Java bytecode | https://github.com/vorpal-research/kex | 6 | 5| 
-| 20210412T11:49:11Z | 基于libfuzzer和Unicorn的黑盒模糊测试框架 | https://github.com/migraine-sudo/infinite-fuzzer | 0 | 0| 
-| 20210412T11:26:54Z | A JavaScript Engine Fuzzer | https://github.com/googleprojectzero/fuzzilli | 1170 | 203| 
-| 20210412T11:24:49Z | Fuzzing Based on Seed Importance By Interprocedural Control Flow Graph | https://github.com/xiaoxiongwang/FunAFL | 0 | 0| 
+| 20210412T23:56:14Z | Null | https://github.com/MatheusEli/Logica_Fuzzy | 0 | 0| 
+| 20210412T23:20:55Z | fuzzing applications | https://github.com/MucahitSaratar/myfuzzer | 0 | 0| 
+| 20210412T23:11:09Z | SQL project to analyse a growing business and colect relevant information to help steer the company%s future. | https://github.com/alanaselli/MavenFuzzyFactory_Project | 0 | 0| 
+| 20210412T22:41:11Z | A bare-metal x86 instruction set fuzzer a la Sandsifter | https://github.com/blitz/baresifter | 35 | 3| 
+| 20210412T22:40:17Z | Null | https://github.com/vommazone/fuzzy-couscous | 0 | 0| 
+| 20210412T22:32:57Z | Null | https://github.com/VeriBlock/fuzz-corpus | 0 | 1| 
+| 20210412T22:26:11Z | Null | https://github.com/AlhimnyDU/fuzzy | 0 | 0| 
+| 20210412T22:08:32Z | Python scripts to fuzz test a MUD through telnet. | https://github.com/virthe/mudfuzz | 1 | 0| 
+| 20210412T21:45:22Z | Fuzzing cryptographic libraries. Magic bug printer go brrrr. | https://github.com/guidovranken/cryptofuzz | 272 | 37| 
+| 20210412T21:00:18Z | Robust and versatile headless monkey (fuzz) testing for the web with reproducible steps, error alerts, strategy sharing and many other good things. | https://github.com/bell-lab-apps/fuzz-monkey | 0 | 0| 
 
 
 
