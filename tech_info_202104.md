@@ -83,6 +83,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210413T12:18:08Z | C2/post-exploitation framework | https://github.com/loseys/BlackMamba | 607 | 69| 
 | 20210413T12:03:48Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 21 | 8| 
 | 20210413T11:53:29Z | Null | https://github.com/oneoy/exploits1 | 0 | 0| 
 | 20210413T11:42:49Z | Several tools for exploits. | https://github.com/vLeeH/protocol-tools | 0 | 0| 
@@ -92,7 +93,6 @@
 | 20210413T10:35:52Z | CDK is an open-sourced container penetration toolkit, offering stable exploitation in different slimmed containers without any OS dependency. It comes with penetration tools and many powerful PoCs/EXPs helps you to escape container and takeover K8s cluster easily. | https://github.com/cdk-team/CDK | 1316 | 186| 
 | 20210413T10:32:30Z | Null | https://github.com/luigifeola/CollectiveResourceExploitation | 0 | 0| 
 | 20210413T10:04:53Z | Computer Network Exploitation (CNE) Field Manual | https://github.com/mzet-/z-field-manual | 2 | 2| 
-| 20210413T09:54:01Z | Null | https://github.com/th3ken-dev/TH3KEN-EDITON | 2 | 0| 
 
 
 # backdoor on Github 推荐
