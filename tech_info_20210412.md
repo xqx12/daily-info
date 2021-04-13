@@ -58,7 +58,6 @@
 | --- | --- | --- | --- | ---| 
 | 20210412T23:41:29Z | Several tools for exploits. | https://github.com/vLeeH/protocol-tools | 0 | 0| 
 | 20210412T23:33:10Z | GEF - GDB Enhanced Features for exploit devs & reversers | https://github.com/hugsy/gef | 3572 | 503| 
-| 20210412T23:20:13Z | The AWS exploitation framework, designed for testing the security of Amazon Web Services environments. | https://github.com/RhinoSecurityLabs/pacu | 1978 | 357| 
 | 20210412T23:14:41Z | 一些自己写的exp，练手。 | https://github.com/ADummmy/exploits | 0 | 0| 
 | 20210412T22:56:34Z | Null | https://github.com/LucasAMiranda/Bind_Shell_Exploiting | 0 | 0| 
 | 20210412T22:47:16Z | PS4 Exploit Host | https://github.com/Night-King-Host/Night-King-Host.github.io | 8 | 4| 
@@ -66,6 +65,7 @@
 | 20210412T21:38:57Z | My exploits, write-ups and notes that I%ve been using while learning things related to pwn. | https://github.com/cemonatk/pwn-exercises | 0 | 0| 
 | 20210412T21:08:50Z | Fix exploits on anarchy minecraft servers | https://github.com/moom0o/AnarchyExploitFixes | 23 | 7| 
 | 20210412T21:04:12Z | CTF framework and exploit development library | https://github.com/Gallopsled/pwntools | 7752 | 1374| 
+| 20210412T20:40:07Z | Exploit development training | https://github.com/0xdutra/exploitation-labs | 0 | 0| 
 
 
 # backdoor on Github 推荐

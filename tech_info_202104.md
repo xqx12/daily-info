@@ -83,7 +83,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210413T01:38:03Z | Null | https://github.com/r4j0x00/exploits | 685 | 175| 
+| 20210413T01:41:33Z | Null | https://github.com/r4j0x00/exploits | 686 | 175| 
+| 20210413T01:40:24Z | The AWS exploitation framework, designed for testing the security of Amazon Web Services environments. | https://github.com/RhinoSecurityLabs/pacu | 1977 | 357| 
 | 20210413T01:37:05Z | A python script file to statically and dynamically investigate and analyse binary files for buffer overflow exploits. | https://github.com/BroadbentT/BINARY-MASTER | 4 | 0| 
 | 20210413T01:36:22Z | Exploit allowing to load arbitrary code on the PSX using only a memory card (no game needed) | https://github.com/brad-lin/FreePSXBoot | 118 | 9| 
 | 20210413T01:19:36Z | Network security project solutions - reach out to me for the rest of the solutions at markcheung46@gmail.com | https://github.com/FrankyCodes-123/Software-NetworkExploitation-master | 0 | 0| 
@@ -92,7 +93,6 @@
 | 20210413T01:02:28Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 21 | 8| 
 | 20210413T00:51:34Z | Ded Security - Toolkit | https://github.com/dedsecubr/dedsecurity-framework | 6 | 2| 
 | 20210413T00:50:45Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 12 | 8| 
-| 20210413T00:40:17Z | Tool for creating Base64 encoded payloads for exploiting insecure Python Pickle Deserialization | https://github.com/secw01f/PickleRick | 0 | 0| 
 
 
 # backdoor on Github 推荐
@@ -113,6 +113,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210413T01:24:40Z | Digunakan untuk pengumpulan tugas PRAK. SCPK logika fuzzy | https://github.com/egaputra69/EgaErinovian_123190113_FuzzyLogic | 0 | 0| 
 | 20210413T00:38:15Z | setup for fuzzing the Rust compiler | https://github.com/dwrensha/fuzz-rustc | 29 | 0| 
 | 20210413T00:30:05Z | 📨 Responsive email template generator. | https://github.com/luangjokaj/fuzzymail | 114 | 4| 
 | 20210413T00:06:40Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 1 | 2| 
@@ -122,7 +123,6 @@
 | 20210412T22:41:11Z | A bare-metal x86 instruction set fuzzer a la Sandsifter | https://github.com/blitz/baresifter | 35 | 3| 
 | 20210412T22:40:17Z | Null | https://github.com/vommazone/fuzzy-couscous | 0 | 0| 
 | 20210412T22:32:57Z | Null | https://github.com/VeriBlock/fuzz-corpus | 0 | 1| 
-| 20210412T22:26:11Z | Null | https://github.com/AlhimnyDU/fuzzy | 0 | 0| 
 
 
 
