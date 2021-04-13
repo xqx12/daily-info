@@ -46,16 +46,16 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20210413T01:07:21Z | cve-2020-2021 | Null | https://github.com/givemefivw/cve-2020-2021 | When Security Assertion Markup Language (SAML) authentication is enabled and the %Validate Identity Provider Certificate% option is disabled (unchecked), improper verification of signatures in PAN-OS SAML authentication enables an unauthenticated network-based attacker to access protected resources. The attacker must have network access to the vulnerable server to exploit this vulnerability. This issue affects PAN-OS 9.1 versions earlier than PAN-OS 9.1.3; PAN-OS 9.0 versions earlier than PAN-OS 9.0.9; PAN-OS 8.1 versions earlier than PAN-OS 8.1.15, and all versions of PAN-OS 8.0 (EOL). This issue does not affect PAN-OS 7.1. This issue cannot be exploited if SAML is not used for authentication. This issue cannot be exploited if the %Validate Identity Provider Certificate% option is enabled (checked) in the SAML Identity Provider Server Profile. Resources that can be protected by SAML-based single sign-on (SSO) authentication are: GlobalProtect Gateway, GlobalProtect Portal, GlobalProtect Clientless VPN, Authentication and Captive Portal, PAN-OS next-generation firewalls (PA-Series, VM-Series) and Panorama web interfaces, Prisma Access In the case of GlobalProtect Gateways, GlobalProtect Portal, Clientless VPN, Captive Portal, and Prisma Access, an unauthenticated attacker with network access to the affected servers can gain access to protected resources if allowed by configured authentication and Security policies. There is no impact on the integrity and availability of the gateway, portal or VPN server. An attacker cannot inspect or tamper with sessions of regular users. In the worst case, this is a critical severity vulnerability with a CVSS Base Score of 10.0 (CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:C/C:H/I:H/A:N). In the case of PAN-OS and Panorama web interfaces, this issue allows an unauthenticated attacker with network access to the PAN-OS or Panorama web interfaces to log in as an administrator and perform administrative actions. In the worst-case scenario, this is a critical severity vulnerability with a CVSS Base Score of 10.0 (CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:C/C:H/I:H/A:H). If the web interfaces are only accessible to a restricted management network, then the issue is lowered to a CVSS Base Score of 9.6 (CVSS:3.1/AV:A/AC:L/PR:N/UI:N/S:C/C:H/I:H/A:H). Palo Alto Networks is not aware of any malicious attempts to exploit this vulnerability.| 
 | 20210413T01:05:46Z | cve-2020- | Null | https://github.com/givemefivw/cve-2020-tttt | 未查询到CVE信息| 
 | 20210413T00:49:41Z | CVE-2021- | Null | https://github.com/givemefivw/CVE-2021-Finaltest | 未查询到CVE信息| 
 | 20210413T00:46:22Z | CVE-2021- | Null | https://github.com/givemefivw/CVE-2021-Retest | 未查询到CVE信息| 
 | 20210413T00:33:00Z | CVE-2021- | Null | https://github.com/givemefivw/CVE-2021-Test | 未查询到CVE信息| 
-| 20210412T22:56:55Z | cve-2020-10977 | cve-2020-10977 read and execute | https://github.com/lisp3r/cve-2020-10977-read-and-execute | | 
-| 20210412T14:10:19Z | cve-2021-29627 | Trigger-only for CVE-2021-29627 | https://github.com/raymontag/cve-2021-29627 | In FreeBSD 13.0-STABLE before n245050, 12.2-STABLE before r369525, 13.0-RC4 before p0, and 12.2-RELEASE before p6, listening socket accept filters implementing the accf_create callback incorrectly freed a process supplied argument string. Additional operations on the socket can lead to a double free or use after free.| 
+| 20210412T22:56:55Z | cve-2020-10977 | cve-2020-10977 read and execute | https://github.com/lisp3r/cve-2020-10977-read-and-execute | GitLab EE/CE 8.5 to 12.9 is vulnerable to a an path traversal when moving an issue between projects.| 
+| 20210412T14:10:19Z | cve-2021-29627 | Trigger-only for CVE-2021-29627 | https://github.com/raymontag/cve-2021-29627 | | 
 | 20210412T13:30:23Z | CVE-2021-24086 | Proof of concept for CVE-2021-24086, a NULL dereference in tcpip.sys triggered remotely. | https://github.com/0vercl0k/CVE-2021-24086 | Windows TCP/IP Denial of Service Vulnerability| 
 | 20210412T01:57:14Z | 未知编号 | Null | https://github.com/jessica0f0116/cve_2021_1732 | 未查询到CVE信息| 
-| 20210411T16:28:46Z | cve-2020-10977 | GitLab 12.9.0 Arbitrary File Read  | https://github.com/thewhiteh4t/cve-2020-10977 | GitLab EE/CE 8.5 to 12.9 is vulnerable to a an path traversal when moving an issue between projects.| 
-| 20210411T13:45:13Z | CVE-2021-26700 | RCE in NPM VSCode Extension | https://github.com/jackadamson/CVE-2021-26700 | Visual Studio Code npm-script Extension Remote Code Execution Vulnerability| 
+| 20210411T16:28:46Z | cve-2020-10977 | GitLab 12.9.0 Arbitrary File Read  | https://github.com/thewhiteh4t/cve-2020-10977 | | 
 
 
 # klee on Github 推荐
@@ -83,6 +83,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210413T01:08:17Z | Herramienta para usar The Browser Exploitation Framework fuera de LAN, con diferentes opciones para hacking | https://github.com/tony23x/beef-for-cerberus | 1 | 0| 
 | 20210413T01:02:28Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 21 | 8| 
 | 20210413T00:51:34Z | Ded Security - Toolkit | https://github.com/dedsecubr/dedsecurity-framework | 6 | 2| 
 | 20210413T00:50:45Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 12 | 8| 
@@ -92,7 +93,6 @@
 | 20210412T23:41:29Z | Several tools for exploits. | https://github.com/vLeeH/protocol-tools | 0 | 0| 
 | 20210412T23:33:10Z | GEF - GDB Enhanced Features for exploit devs & reversers | https://github.com/hugsy/gef | 3572 | 503| 
 | 20210412T23:20:13Z | The AWS exploitation framework, designed for testing the security of Amazon Web Services environments. | https://github.com/RhinoSecurityLabs/pacu | 1978 | 357| 
-| 20210412T23:14:41Z | 一些自己写的exp，练手。 | https://github.com/ADummmy/exploits | 0 | 0| 
 
 
 # backdoor on Github 推荐
