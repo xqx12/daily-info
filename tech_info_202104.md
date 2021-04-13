@@ -33,6 +33,7 @@
 | --- | --- | ---| 
 | 20210413 | 微信小程序反编译 | https://www.sec-in.com/article/1012| 
 | 20210413 | 从BCTF人机对抗视角浅谈自动化攻防技术发展 | https://mp.weixin.qq.com/s/5wR37FLoTPn3fftxZw_Brw| 
+| 20210413 | MindAPI: Bringing order to API hacking chaos | https://github.com/dsopas/MindAPI| 
 | 20210412 | InScan: 边界打点后的自动化渗透工具 | https://github.com/inbug-team/InScan/| 
 | 20210412 | HackMyVM：CROSSROADS:1 | https://www.sec-in.com/article/1009| 
 | 20210412 | SecWiki周刊（第371期) | https://www.sec-wiki.com/weekly/371| 
@@ -40,13 +41,12 @@
 | 20210411 | 深度揭密高通4/5G移动基带消息系统和状态机 | https://github.com/vessial/baseband/blob/master/Qualcomm_BaseBand_Messaging_and_State_Machine.md| 
 | 20210411 | 浅析 AWS S3 子域名接管漏洞 | https://mp.weixin.qq.com/s/q3bsrCKacuepKoFljYxJcg| 
 | 20210411 | 红队攻击前隐匿流量的基本方法 | https://mp.weixin.qq.com/s/eoui4xAuUF5X2H3jWq43tQ| 
-| 20210411 | NLP知识简单总结及NLP论文撰写之道 | https://mp.weixin.qq.com/s/Ioov6PCm8o6cRq0W9sykQw| 
 
 
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20210413T11:51:21Z | cve-2021-29627 | Trigger-only for CVE-2021-29627 | https://github.com/raymontag/cve-2021-29627 | | 
+| 20210413T11:51:21Z | cve-2021-29627 | Trigger-only for CVE-2021-29627 | https://github.com/raymontag/cve-2021-29627 | In FreeBSD 13.0-STABLE before n245050, 12.2-STABLE before r369525, 13.0-RC4 before p0, and 12.2-RELEASE before p6, listening socket accept filters implementing the accf_create callback incorrectly freed a process supplied argument string. Additional operations on the socket can lead to a double free or use after free.| 
 | 20210413T11:44:17Z | CVE-2020-17519 | CVE-2020-17519 Cheetah | https://github.com/givemefivw/CVE-2020-17519 | A change introduced in Apache Flink 1.11.0 (and released in 1.11.1 and 1.11.2 as well) allows attackers to read any file on the local filesystem of the JobManager through the REST interface of the JobManager process. Access is restricted to files accessible by the JobManager process. All users should upgrade to Flink 1.11.3 or 1.12.0 if their Flink instance(s) are exposed. The issue was fixed in commit b561010b0ee741543c3953306037f00d7a9f0801 from apache/flink:master.| 
 | 20210413T09:07:38Z | CVE-2021-6666 | Null | https://github.com/givemefivw/CVE-2021-6666 | 未查询到CVE信息| 
 | 20210413T07:51:29Z | CVE-2021-24086 | Proof of concept for CVE-2021-24086, a NULL dereference in tcpip.sys triggered remotely. | https://github.com/0vercl0k/CVE-2021-24086 | Windows TCP/IP Denial of Service Vulnerability| 
@@ -113,16 +113,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210413T01:24:40Z | Digunakan untuk pengumpulan tugas PRAK. SCPK logika fuzzy | https://github.com/egaputra69/EgaErinovian_123190113_FuzzyLogic | 0 | 0| 
-| 20210413T00:38:15Z | setup for fuzzing the Rust compiler | https://github.com/dwrensha/fuzz-rustc | 29 | 0| 
-| 20210413T00:30:05Z | 📨 Responsive email template generator. | https://github.com/luangjokaj/fuzzymail | 114 | 4| 
-| 20210413T00:06:40Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 1 | 2| 
-| 20210412T23:56:14Z | Null | https://github.com/MatheusEli/Logica_Fuzzy | 0 | 0| 
-| 20210412T23:20:55Z | fuzzing applications | https://github.com/MucahitSaratar/myfuzzer | 0 | 0| 
-| 20210412T23:11:09Z | SQL project to analyse a growing business and colect relevant information to help steer the company%s future. | https://github.com/alanaselli/MavenFuzzyFactory_Project | 0 | 0| 
-| 20210412T22:41:11Z | A bare-metal x86 instruction set fuzzer a la Sandsifter | https://github.com/blitz/baresifter | 35 | 3| 
-| 20210412T22:40:17Z | Null | https://github.com/vommazone/fuzzy-couscous | 0 | 0| 
-| 20210412T22:32:57Z | Null | https://github.com/VeriBlock/fuzz-corpus | 0 | 1| 
+| 20210413T12:29:56Z | Null | https://github.com/risangpanggalih/Tugas-Logika-Fuzzy | 0 | 0| 
+| 20210413T12:27:00Z | Python scripts to fuzz test a MUD through telnet. | https://github.com/virthe/mudfuzz | 1 | 0| 
+| 20210413T12:26:13Z | Null | https://github.com/pkdng/TugasLogikaFuzzy | 0 | 0| 
+| 20210413T12:25:54Z | Object clustering framework using latent variables of trained fully convolutional neural networks. | https://github.com/cjuliani/tf-object-neuro-fuzzy-clustering | 0 | 0| 
+| 20210413T12:19:16Z | Null | https://github.com/JohenanLi/AggregateFuzzing | 0 | 0| 
+| 20210413T12:15:18Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 1 | 2| 
+| 20210413T12:14:41Z | White-box fuzzer for Java bytecode | https://github.com/vorpal-research/kex | 6 | 5| 
+| 20210413T12:11:21Z | Null | https://github.com/certaays/TugasLogikaFuzzy | 0 | 0| 
+| 20210413T12:08:31Z | Null | https://github.com/Muhamadfazly/FuzzyLogicSimulation | 0 | 0| 
+| 20210413T11:46:26Z | Software for fuzzing, used on web application pentestings. | https://github.com/NESCAU-UFLA/FuzzingTool | 53 | 8| 
 
 
 
