@@ -56,7 +56,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210413T12:25:34Z | Null | https://github.com/v3l1d/Windows7-Exploiting-ReverseShell-PDF | 0 | 0| 
+| 20210413T12:25:58Z | Null | https://github.com/v3l1d/Windows7-Exploiting-ReverseShell-PDF | 0 | 0| 
 | 20210413T12:22:57Z | Project for stopping the child exploitation . Aim of the project is stop all child labour practices | https://github.com/harsh414/Google-Solution-Challenge-Project | 0 | 0| 
 | 20210413T12:18:08Z | C2/post-exploitation framework | https://github.com/loseys/BlackMamba | 607 | 69| 
 | 20210413T12:03:48Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 21 | 8| 
