@@ -60,6 +60,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210413T12:50:46Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 12 | 8| 
 | 20210413T12:39:30Z | Null | https://github.com/v3l1d/Windows7-Exploiting-ReverseShell-PDF | 0 | 0| 
 | 20210413T12:35:13Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9257 | 1500| 
 | 20210413T12:22:57Z | Project for stopping the child exploitation . Aim of the project is stop all child labour practices | https://github.com/harsh414/Google-Solution-Challenge-Project | 0 | 0| 
@@ -69,7 +70,6 @@
 | 20210413T11:42:49Z | Several tools for exploits. | https://github.com/vLeeH/protocol-tools | 0 | 0| 
 | 20210413T11:36:27Z | Android RAT with web panel and undetectable App | https://github.com/Th30neAnd0nly/Ohm | 15 | 6| 
 | 20210413T11:04:03Z | PS4 Exploit Host | https://github.com/Night-King-Host/Night-King-Host.github.io | 8 | 4| 
-| 20210413T11:03:00Z | RGraph is an RDMA-assisted asynchronous distributed graph processing system. RGraph distributes edges into two parts to isolate master and mirror vertices. RGraph exploits the asymmetry of RDMA to accelerate the one-to-many communication between master and mirror vertices.  The results in comprehensive experiments show that compared to existing designs, PowerGraph, RGraph reduces the execution time by up to 81%. | https://github.com/CGCL-codes/RGraph | 4 | 4| 
 
 
 # backdoor on Github 推荐
