@@ -46,6 +46,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20210413T01:05:46Z | cve-2020- | Null | https://github.com/givemefivw/cve-2020-tttt | 未查询到CVE信息| 
 | 20210413T00:49:41Z | CVE-2021- | Null | https://github.com/givemefivw/CVE-2021-Finaltest | 未查询到CVE信息| 
 | 20210413T00:46:22Z | CVE-2021- | Null | https://github.com/givemefivw/CVE-2021-Retest | 未查询到CVE信息| 
 | 20210413T00:33:00Z | CVE-2021- | Null | https://github.com/givemefivw/CVE-2021-Test | 未查询到CVE信息| 
@@ -55,7 +56,6 @@
 | 20210412T01:57:14Z | 未知编号 | Null | https://github.com/jessica0f0116/cve_2021_1732 | 未查询到CVE信息| 
 | 20210411T16:28:46Z | cve-2020-10977 | GitLab 12.9.0 Arbitrary File Read  | https://github.com/thewhiteh4t/cve-2020-10977 | GitLab EE/CE 8.5 to 12.9 is vulnerable to a an path traversal when moving an issue between projects.| 
 | 20210411T13:45:13Z | CVE-2021-26700 | RCE in NPM VSCode Extension | https://github.com/jackadamson/CVE-2021-26700 | Visual Studio Code npm-script Extension Remote Code Execution Vulnerability| 
-| 20210411T07:32:59Z | CVE-2021-21402 | CVE-2021-21402 | https://github.com/xiaoshu-bit/CVE-2021-21402 | Jellyfin is a Free Software Media System. In Jellyfin before version 10.7.1, with certain endpoints, well crafted requests will allow arbitrary file read from a Jellyfin server%s file system. This issue is more prevalent when Windows is used as the host OS. Servers that are exposed to the public Internet are potentially at risk. This is fixed in version 10.7.1. As a workaround, users may be able to restrict some access by enforcing strict security permissions on their filesystem, however, it is recommended to update as soon as possible.| 
 
 
 # klee on Github 推荐
