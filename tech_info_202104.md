@@ -83,6 +83,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210413T00:40:17Z | Tool for creating Base64 encoded payloads for exploiting insecure Python Pickle Deserialization | https://github.com/secw01f/PickleRick | 0 | 0| 
 | 20210413T00:35:03Z | Ded Security - Toolkit | https://github.com/dedsecubr/dedsecurity-framework | 6 | 2| 
 | 20210413T00:30:04Z | Exploit allowing to load arbitrary code on the PSX using only a memory card (no game needed) | https://github.com/brad-lin/FreePSXBoot | 117 | 9| 
 | 20210413T00:02:36Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 21 | 8| 
@@ -92,7 +93,6 @@
 | 20210412T23:14:41Z | 一些自己写的exp，练手。 | https://github.com/ADummmy/exploits | 0 | 0| 
 | 20210412T22:56:34Z | Null | https://github.com/LucasAMiranda/Bind_Shell_Exploiting | 0 | 0| 
 | 20210412T22:47:16Z | PS4 Exploit Host | https://github.com/Night-King-Host/Night-King-Host.github.io | 8 | 4| 
-| 20210412T22:19:55Z | lab_tool is a system that allows you to do ethical hacking tests. | https://github.com/dylan14567/lab_tool | 1 | 2| 
 
 
 # backdoor on Github 推荐

@@ -65,7 +65,7 @@
 | 20210412T22:19:55Z | lab_tool is a system that allows you to do ethical hacking tests. | https://github.com/dylan14567/lab_tool | 1 | 2| 
 | 20210412T21:38:57Z | My exploits, write-ups and notes that I%ve been using while learning things related to pwn. | https://github.com/cemonatk/pwn-exercises | 0 | 0| 
 | 20210412T21:35:11Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9255 | 1499| 
-| 20210412T21:33:48Z | Tool for creating Base64 encoded payloads for exploiting insecure Python Pickle Deserialization | https://github.com/secw01f/PickleRick | 0 | 0| 
+| 20210412T21:08:50Z | Fix exploits on anarchy minecraft servers | https://github.com/moom0o/AnarchyExploitFixes | 23 | 7| 
 
 
 # backdoor on Github 推荐
