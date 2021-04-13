@@ -83,12 +83,12 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210413T01:02:28Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 21 | 8| 
 | 20210413T00:51:34Z | Ded Security - Toolkit | https://github.com/dedsecubr/dedsecurity-framework | 6 | 2| 
 | 20210413T00:50:45Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 12 | 8| 
 | 20210413T00:43:34Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9256 | 1499| 
 | 20210413T00:40:17Z | Tool for creating Base64 encoded payloads for exploiting insecure Python Pickle Deserialization | https://github.com/secw01f/PickleRick | 0 | 0| 
 | 20210413T00:30:04Z | Exploit allowing to load arbitrary code on the PSX using only a memory card (no game needed) | https://github.com/brad-lin/FreePSXBoot | 117 | 9| 
-| 20210413T00:02:36Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 21 | 8| 
 | 20210412T23:41:29Z | Several tools for exploits. | https://github.com/vLeeH/protocol-tools | 0 | 0| 
 | 20210412T23:33:10Z | GEF - GDB Enhanced Features for exploit devs & reversers | https://github.com/hugsy/gef | 3572 | 503| 
 | 20210412T23:20:13Z | The AWS exploitation framework, designed for testing the security of Amazon Web Services environments. | https://github.com/RhinoSecurityLabs/pacu | 1978 | 357| 
