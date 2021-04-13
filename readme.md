@@ -31,7 +31,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20210412T22:56:55Z | cve-2020-10977 | cve-2020-10977 read and execute | https://github.com/lisp3r/cve-2020-10977-read-and-execute | | 
+| 20210412T22:56:55Z | cve-2020-10977 | cve-2020-10977 read and execute | https://github.com/lisp3r/cve-2020-10977-read-and-execute | GitLab EE/CE 8.5 to 12.9 is vulnerable to a an path traversal when moving an issue between projects.| 
 | 20210412T14:10:19Z | cve-2021-29627 | Trigger-only for CVE-2021-29627 | https://github.com/raymontag/cve-2021-29627 | In FreeBSD 13.0-STABLE before n245050, 12.2-STABLE before r369525, 13.0-RC4 before p0, and 12.2-RELEASE before p6, listening socket accept filters implementing the accf_create callback incorrectly freed a process supplied argument string. Additional operations on the socket can lead to a double free or use after free.| 
 | 20210412T13:30:23Z | CVE-2021-24086 | Proof of concept for CVE-2021-24086, a NULL dereference in tcpip.sys triggered remotely. | https://github.com/0vercl0k/CVE-2021-24086 | Windows TCP/IP Denial of Service Vulnerability| 
 | 20210412T01:57:14Z | 未知编号 | Null | https://github.com/jessica0f0116/cve_2021_1732 | 未查询到CVE信息| 
@@ -56,7 +56,6 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210412T23:59:28Z | Exploit allowing to load arbitrary code on the PSX using only a memory card (no game needed) | https://github.com/brad-lin/FreePSXBoot | 116 | 9| 
 | 20210412T23:41:29Z | Several tools for exploits. | https://github.com/vLeeH/protocol-tools | 0 | 0| 
 | 20210412T23:33:10Z | GEF - GDB Enhanced Features for exploit devs & reversers | https://github.com/hugsy/gef | 3572 | 503| 
 | 20210412T23:20:13Z | The AWS exploitation framework, designed for testing the security of Amazon Web Services environments. | https://github.com/RhinoSecurityLabs/pacu | 1978 | 357| 
@@ -66,6 +65,7 @@
 | 20210412T22:19:55Z | lab_tool is a system that allows you to do ethical hacking tests. | https://github.com/dylan14567/lab_tool | 1 | 2| 
 | 20210412T21:38:57Z | My exploits, write-ups and notes that I%ve been using while learning things related to pwn. | https://github.com/cemonatk/pwn-exercises | 0 | 0| 
 | 20210412T21:35:11Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9255 | 1499| 
+| 20210412T21:33:48Z | Tool for creating Base64 encoded payloads for exploiting insecure Python Pickle Deserialization | https://github.com/secw01f/PickleRick | 0 | 0| 
 
 
 # backdoor on Github 推荐
