@@ -83,7 +83,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210414T01:32:37Z | Toying around with an exploit gui for the SCP-3008 Roblox game (Synapse only) | https://github.com/chexburger/scp-3008-gui | 0 | 0| 
+| 20210414T01:38:40Z | Toying around with an exploit gui for the SCP-3008 Roblox game (Synapse only) | https://github.com/chexburger/scp-3008-gui | 0 | 0| 
 | 20210414T01:21:45Z | Windows Exploit Development Toolkit for Exploit Developers | https://github.com/itsjeffersonli/exploit-development-toolkit | 0 | 0| 
 | 20210414T01:18:19Z | A simple script to exploit  Google%s search autofill api database by sending several modified packets to collect emails, names, and potentially other information. | https://github.com/Veedex/Email-Hoarder | 0 | 0| 
 | 20210414T01:02:26Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 21 | 8| 
@@ -98,7 +98,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210414T01:37:36Z | Null | https://github.com/xpf/Backdoor-Learning-arXiv | 1 | 0| 
+| 20210414T01:38:06Z | Null | https://github.com/xpf/Backdoor-Learning-arXiv | 1 | 0| 
 | 20210414T00:37:37Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 210 | 34| 
 | 20210413T19:57:22Z | Backdoor is going to be an interactive web console for Elixir & Phoenix projects | https://github.com/amberbit/backdoor | 2 | 1| 
 | 20210413T16:36:49Z | A webshell that can bypass some system security | https://github.com/22XploiterCrew-Team/Gel4y-Mini-Shell-Backdoor | 22 | 5| 
