@@ -67,7 +67,6 @@
 | --- | --- | --- | --- | ---| 
 | 20210413T23:57:43Z | The PS4 5.05 Exploit Host Menu created by xforce505 | https://github.com/xforce505/PS4-Exploit-Host-Menu | 0 | 0| 
 | 20210413T23:52:04Z | Null | https://github.com/akkaiba/pythonDeface-Exploit | 0 | 0| 
-| 20210413T23:44:28Z | Toying around with an exploit gui for the SCP-3008 Roblox game (Synapse only) | https://github.com/chexburger/scp-3008-gui | 0 | 0| 
 | 20210413T23:39:39Z | Ded Security - Toolkit | https://github.com/dedsecubr/dedsecurity-framework | 6 | 2| 
 | 20210413T23:32:49Z | PS4 Exploit Host | https://github.com/Night-King-Host/Night-King-Host.github.io | 8 | 4| 
 | 20210413T23:30:46Z | Automatic Linux privesc via exploitation of low-hanging fruit e.g. gtfobins :arrow_up: :skull_and_crossbones: | https://github.com/liamg/traitor | 3054 | 152| 
@@ -75,6 +74,7 @@
 | 20210413T23:24:05Z | Download My Roblox Exploit:  | https://github.com/AngeltvFAN/Key | 0 | 0| 
 | 20210413T23:20:10Z | This library is designed to exclusively aid in process exploitation, function analysis, and operations similar to IDA Pro/Cheat Engine | https://github.com/thedoomed/EyeStep-CPP-Extended | 4 | 5| 
 | 20210413T22:20:27Z | Microbiome Analysis Powered By Recursive Quasi-species Networks: Uncovering rules of organization, competition, succession and exploitation | https://github.com/zeroknowledgediscovery/qbiome | 0 | 0| 
+| 20210413T21:48:27Z | 存储各类渗透测试 工具/exp等 | https://github.com/ClassBluer/Exploit_Tools | 0 | 0| 
 
 
 # backdoor on Github 推荐

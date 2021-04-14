@@ -83,16 +83,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210414T00:23:00Z | A Paper Mario: The Thousand-Year Door Save Exploit | https://github.com/Zephiles/ttyd-exploit | 5 | 0| 
+| 20210414T00:22:20Z | Toying around with an exploit gui for the SCP-3008 Roblox game (Synapse only) | https://github.com/chexburger/scp-3008-gui | 0 | 0| 
 | 20210414T00:18:23Z | This is a work in progress. This includes some basic bash scripting to automate tasks within Linux, Specifically Kali Linux. It acts as a shortcut to launch some basic exploit programs. The second main function of this script is to automate some NMAP scans, by providing a target ip and choosing which option you%d like to use.  | https://github.com/LumenwoodSecurity/ExploitToolBox | 0 | 0| 
 | 20210414T00:12:42Z | PS1 savegame exploit | https://github.com/socram8888/tonyhax | 246 | 7| 
 | 20210414T00:02:34Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 21 | 8| 
 | 20210413T23:57:43Z | The PS4 5.05 Exploit Host Menu created by xforce505 | https://github.com/xforce505/PS4-Exploit-Host-Menu | 0 | 0| 
 | 20210413T23:52:04Z | Null | https://github.com/akkaiba/pythonDeface-Exploit | 0 | 0| 
-| 20210413T23:44:28Z | Toying around with an exploit gui for the SCP-3008 Roblox game (Synapse only) | https://github.com/chexburger/scp-3008-gui | 0 | 0| 
 | 20210413T23:39:39Z | Ded Security - Toolkit | https://github.com/dedsecubr/dedsecurity-framework | 6 | 2| 
 | 20210413T23:32:49Z | PS4 Exploit Host | https://github.com/Night-King-Host/Night-King-Host.github.io | 8 | 4| 
 | 20210413T23:30:46Z | Automatic Linux privesc via exploitation of low-hanging fruit e.g. gtfobins :arrow_up: :skull_and_crossbones: | https://github.com/liamg/traitor | 3054 | 152| 
-| 20210413T23:28:11Z | I made this for fun so don%t exploit with it. | https://github.com/RJScriptingDevelopment/LUA-EXPLOIT-FOR-ROBLOX | 0 | 0| 
 
 
 # backdoor on Github 推荐
