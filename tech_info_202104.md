@@ -51,7 +51,7 @@
 | 20210413T19:15:08Z | CVE-2020-14368 | Interactive RCE exploit demo for Eclipse CHE | https://github.com/codingchili/CVE-2020-14368 | A flaw was found in Eclipse Che in versions prior to 7.14.0 that impacts CodeReady Workspaces. When configured with cookies authentication, Theia IDE doesn%t properly set the SameSite value, allowing a Cross-Site Request Forgery (CSRF) and consequently allowing a cross-site WebSocket hijack on Theia IDE. This flaw allows an attacker to gain full access to the victim%s workspace through the /services endpoint. To perform a successful attack, the attacker conducts a Man-in-the-middle attack (MITM) and tricks the victim into executing a request via an untrusted link, which performs the CSRF and the Socket hijack. The highest threat from this vulnerability is to confidentiality, integrity, as well as system availability.| 
 | 20210413T16:11:40Z | cve-2021-29627 | Trigger-only for CVE-2021-29627 | https://github.com/raymontag/cve-2021-29627 | In FreeBSD 13.0-STABLE before n245050, 12.2-STABLE before r369525, 13.0-RC4 before p0, and 12.2-RELEASE before p6, listening socket accept filters implementing the accf_create callback incorrectly freed a process supplied argument string. Additional operations on the socket can lead to a double free or use after free.| 
 | 20210413T15:33:32Z | CVE-2020-14882 | Null | https://github.com/nice0e3/CVE-2020-14882_Exploit_Gui | Vulnerability in the Oracle WebLogic Server product of Oracle Fusion Middleware (component: Console). Supported versions that are affected are 10.3.6.0.0, 12.1.3.0.0, 12.2.1.3.0, 12.2.1.4.0 and 14.1.1.0.0. Easily exploitable vulnerability allows unauthenticated attacker with network access via HTTP to compromise Oracle WebLogic Server. Successful attacks of this vulnerability can result in takeover of Oracle WebLogic Server. CVSS 3.1 Base Score 9.8 (Confidentiality, Integrity and Availability impacts). CVSS Vector: (CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H).| 
-| 20210413T14:26:49Z | CVE-2021-3138 | Disource POC | https://github.com/Mesh3l911/CVE-2021-3138 | In Discourse 2.7.0 through beta1, a rate-limit bypass leads to a bypass of the 2FA requirement for certain forms.| 
+| 20210413T14:26:49Z | CVE-2021-3138 | Disource POC | https://github.com/Mesh3l911/CVE-2021-3138 | | 
 | 20210413T11:44:17Z | CVE-2020-17519 | CVE-2020-17519 Cheetah | https://github.com/givemefivw/CVE-2020-17519 | A change introduced in Apache Flink 1.11.0 (and released in 1.11.1 and 1.11.2 as well) allows attackers to read any file on the local filesystem of the JobManager through the REST interface of the JobManager process. Access is restricted to files accessible by the JobManager process. All users should upgrade to Flink 1.11.3 or 1.12.0 if their Flink instance(s) are exposed. The issue was fixed in commit b561010b0ee741543c3953306037f00d7a9f0801 from apache/flink:master.| 
 | 20210413T09:07:38Z | CVE-2021-6666 | Null | https://github.com/givemefivw/CVE-2021-6666 | 未查询到CVE信息| 
 | 20210413T04:26:27Z | CVE-2021-26832 | Cross Site Scripting (XSS) at the "Reset Password" page form of Priority Enterprise Management System v8.00 allows attackers to execute javascript on behalf of the victim by sending a malicious URL or directing the victim to a malicious site. | https://github.com/NagliNagli/CVE-2021-26832 | 未查询到CVE信息| 
@@ -83,6 +83,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210414T00:10:00Z | This is a work in progress. This includes some basic bash scripting to automate tasks within Linux, Specifically Kali Linux. It acts as a shortcut to launch some basic exploit programs. The second main function of this script is to automate some NMAP scans, by providing a target ip and choosing which option you%d like to use.  | https://github.com/LumenwoodSecurity/ExploitToolBox | 0 | 0| 
 | 20210414T00:02:34Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 21 | 8| 
 | 20210413T23:57:43Z | The PS4 5.05 Exploit Host Menu created by xforce505 | https://github.com/xforce505/PS4-Exploit-Host-Menu | 0 | 0| 
 | 20210413T23:52:04Z | Null | https://github.com/akkaiba/pythonDeface-Exploit | 0 | 0| 
@@ -92,7 +93,6 @@
 | 20210413T23:30:46Z | Automatic Linux privesc via exploitation of low-hanging fruit e.g. gtfobins :arrow_up: :skull_and_crossbones: | https://github.com/liamg/traitor | 3054 | 152| 
 | 20210413T23:28:11Z | I made this for fun so don%t exploit with it. | https://github.com/RJScriptingDevelopment/LUA-EXPLOIT-FOR-ROBLOX | 0 | 0| 
 | 20210413T23:24:05Z | Download My Roblox Exploit:  | https://github.com/AngeltvFAN/Key | 0 | 0| 
-| 20210413T23:20:10Z | This library is designed to exclusively aid in process exploitation, function analysis, and operations similar to IDA Pro/Cheat Engine | https://github.com/thedoomed/EyeStep-CPP-Extended | 4 | 5| 
 
 
 # backdoor on Github 推荐
@@ -113,16 +113,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210413T12:29:56Z | Null | https://github.com/risangpanggalih/Tugas-Logika-Fuzzy | 0 | 0| 
-| 20210413T12:27:00Z | Python scripts to fuzz test a MUD through telnet. | https://github.com/virthe/mudfuzz | 1 | 0| 
-| 20210413T12:26:13Z | Null | https://github.com/pkdng/TugasLogikaFuzzy | 0 | 0| 
-| 20210413T12:25:54Z | Object clustering framework using latent variables of trained fully convolutional neural networks. | https://github.com/cjuliani/tf-object-neuro-fuzzy-clustering | 0 | 0| 
-| 20210413T12:19:16Z | Null | https://github.com/JohenanLi/AggregateFuzzing | 0 | 0| 
-| 20210413T12:15:18Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 1 | 2| 
-| 20210413T12:14:41Z | White-box fuzzer for Java bytecode | https://github.com/vorpal-research/kex | 6 | 5| 
-| 20210413T12:11:21Z | Null | https://github.com/certaays/TugasLogikaFuzzy | 0 | 0| 
-| 20210413T12:08:31Z | Null | https://github.com/Muhamadfazly/FuzzyLogicSimulation | 0 | 0| 
-| 20210413T11:46:26Z | Software for fuzzing, used on web application pentestings. | https://github.com/NESCAU-UFLA/FuzzingTool | 53 | 8| 
+| 20210414T00:06:31Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 1 | 2| 
+| 20210413T23:53:39Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2316 | 124| 
+| 20210413T23:08:22Z | CS 4152 Project | https://github.com/nicbarone/Fuzzy-Kiwi | 0 | 0| 
+| 20210413T22:43:44Z | Robust and versatile headless monkey (fuzz) testing for the web with reproducible steps, error alerts, strategy sharing and many other good things. | https://github.com/bell-lab-apps/fuzz-monkey | 0 | 0| 
+| 20210413T21:59:20Z | Personal website of Laurence Hughes | https://github.com/fuzzylogicxx/fuzzylogic | 4 | 1| 
+| 20210413T21:35:52Z | Calculating CardiovascularDiseaseRisk using Fuzzy logic | https://github.com/StefanutVlad/fuzzyCardiovascularDiseaseRisk | 0 | 0| 
+| 20210413T21:25:27Z | Fuzzing cryptographic libraries. Magic bug printer go brrrr. | https://github.com/guidovranken/cryptofuzz | 272 | 37| 
+| 20210413T21:12:37Z | This calendar gives you 1-2 sentences about a thing that a marginalised person in computing did connected to the date. | https://github.com/fuzzy-binaires/fuzzy-binaires.github.io | 0 | 0| 
+| 20210413T21:12:16Z | Fuzzster - fuzzy matching web application | https://github.com/datahappy1/go_fuzzymatch_webapp | 0 | 0| 
+| 20210413T21:08:24Z | Fuzzy Logic Implementation | https://github.com/Nico-Duduf/DuFuzzyLogic | 2 | 1| 
 
 
 
