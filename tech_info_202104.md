@@ -83,6 +83,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210414T12:16:15Z | PS4 Exploits 5.05-7.55 | https://github.com/Buzbee/Buzbee.github.io | 1 | 0| 
 | 20210414T12:11:56Z | PS1 savegame exploit | https://github.com/socram8888/tonyhax | 248 | 7| 
 | 20210414T12:03:34Z | public CVE exploits | https://github.com/code-developers/exploits | 0 | 0| 
 | 20210414T12:02:56Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 21 | 8| 
@@ -92,7 +93,6 @@
 | 20210414T10:56:21Z | XL-AMR is a sequence-to-graph cross-lingual AMR parser that exploits transfer learning (EMNLP2020).   | https://github.com/SapienzaNLP/xl-amr | 5 | 1| 
 | 20210414T10:51:44Z | Collect data from home directory  | https://github.com/milanm98/Home-data-exploit | 0 | 0| 
 | 20210414T10:42:32Z | Fast jacobian computation through sparsity exploitation and matrix coloring | https://github.com/JuliaDiff/SparseDiffTools.jl | 90 | 17| 
-| 20210414T10:38:52Z | PS4 Exploit list | https://github.com/Hakkuraifu/PS4xploit | 33 | 11| 
 
 
 # backdoor on Github 推荐
