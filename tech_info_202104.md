@@ -14,6 +14,8 @@
 | 20210413 | PD Actions：使用 GitHub Actions 实现自动化的安全工作流程。 | https://blog.projectdiscovery.io/github-actions-for-application-security/| 
 | 20210413 | 在 Tesla Model 3 上利用 CVE-2020-6418。 | https://leethax0.rs/2021/04/ElectricChrome/| 
 | 20210413 | 关于内核漏洞的原理分析。 | http://www.yuque.com/posec/public/sp9bs1| 
+| 20210413 | 针对CycloneTCP上的远程拒绝服务漏洞（CVE-2021-26788） | https://blog.quarkslab.com/remote-denial-of-service-on-cyclonetcp-cve-2021-26788.html| 
+| 20210413 | AT＆T 3B2与3B5计算机驱动程序设计指南手册。 | https://archive.org/details/Att3b2And3b5ComputerDriverDesignGuide| 
 | 20210412 | 分析如何追踪 Cobalt Strike DNS 服务器。 | https://labs.f-secure.com/blog/detecting-exposed-cobalt-strike-dns-redirectors/| 
 | 20210412 | 对比 Rust 和 Clang 的 clamp 在 LLVM IR 中实现的差异。 | https://secret.club/2021/04/09/std-clamp.html| 
 | 20210412 | APKPure 3.17.18 版本存在恶意代码。 | https://securelist.com/apkpure-android-app-store-infected/101845/| 
@@ -24,8 +26,6 @@
 | 20210412 | 通过 Wi-Fi 连接远程攻击 iOS ，无需交互并且绕过沙箱。 | https://marcograss.github.io/security/apple/ios/wifi/2016/06/17/remotely-pwning-ios-via-wifi.html| 
 | 20210412 | CVE-2021-26411 在野样本分析：利用 Windows RPC 绕过 CFG 缓解措施。 | https://iamelli0t.github.io/2021/04/10/RPC-Bypass-CFG.html| 
 | 20210412 | 逆向工程基于UEFI的BIOS模块分析。 | https://standa-note.blogspot.com/2021/04/reverse-engineering-absolute-uefi.html| 
-| 20210412 | 硬盘固件渗透测试（第1部分）-MalwareTech | https://www.malwaretech.com/2015/04/hard-disk-firmware-hacking-part-1.html| 
-| 20210411 | GDB逆向工程系列教程：断点，修改内存和打印其内容介绍。 | https://www.reddit.com/r/ReverseEngineering/comments/mmtmq4/gdb_tutorial_for_reverse_engineers_breakpoints/| 
 
 
 # 安全维基 推荐
@@ -46,31 +46,31 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20210413T11:51:21Z | cve-2021-29627 | Trigger-only for CVE-2021-29627 | https://github.com/raymontag/cve-2021-29627 | In FreeBSD 13.0-STABLE before n245050, 12.2-STABLE before r369525, 13.0-RC4 before p0, and 12.2-RELEASE before p6, listening socket accept filters implementing the accf_create callback incorrectly freed a process supplied argument string. Additional operations on the socket can lead to a double free or use after free.| 
+| 20210413T21:13:25Z | CVE-2020-5902 | Auto exploit RCE CVE-2020-5902  | https://github.com/haisenberg/CVE-2020-5902 | In BIG-IP versions 15.0.0-15.1.0.3, 14.1.0-14.1.2.5, 13.1.0-13.1.3.3, 12.1.0-12.1.5.1, and 11.6.1-11.6.5.1, the Traffic Management User Interface (TMUI), also referred to as the Configuration utility, has a Remote Code Execution (RCE) vulnerability in undisclosed pages.| 
+| 20210413T20:07:05Z | CVE-2021-24086 | Proof of concept for CVE-2021-24086, a NULL dereference in tcpip.sys triggered remotely. | https://github.com/0vercl0k/CVE-2021-24086 | Windows TCP/IP Denial of Service Vulnerability| 
+| 20210413T19:15:08Z | CVE-2020-14368 | Interactive RCE exploit demo for Eclipse CHE | https://github.com/codingchili/CVE-2020-14368 | A flaw was found in Eclipse Che in versions prior to 7.14.0 that impacts CodeReady Workspaces. When configured with cookies authentication, Theia IDE doesn%t properly set the SameSite value, allowing a Cross-Site Request Forgery (CSRF) and consequently allowing a cross-site WebSocket hijack on Theia IDE. This flaw allows an attacker to gain full access to the victim%s workspace through the /services endpoint. To perform a successful attack, the attacker conducts a Man-in-the-middle attack (MITM) and tricks the victim into executing a request via an untrusted link, which performs the CSRF and the Socket hijack. The highest threat from this vulnerability is to confidentiality, integrity, as well as system availability.| 
+| 20210413T16:11:40Z | cve-2021-29627 | Trigger-only for CVE-2021-29627 | https://github.com/raymontag/cve-2021-29627 | In FreeBSD 13.0-STABLE before n245050, 12.2-STABLE before r369525, 13.0-RC4 before p0, and 12.2-RELEASE before p6, listening socket accept filters implementing the accf_create callback incorrectly freed a process supplied argument string. Additional operations on the socket can lead to a double free or use after free.| 
+| 20210413T15:33:32Z | CVE-2020-14882 | Null | https://github.com/nice0e3/CVE-2020-14882_Exploit_Gui | | 
+| 20210413T14:26:49Z | CVE-2021-3138 | Disource POC | https://github.com/Mesh3l911/CVE-2021-3138 | In Discourse 2.7.0 through beta1, a rate-limit bypass leads to a bypass of the 2FA requirement for certain forms.| 
 | 20210413T11:44:17Z | CVE-2020-17519 | CVE-2020-17519 Cheetah | https://github.com/givemefivw/CVE-2020-17519 | A change introduced in Apache Flink 1.11.0 (and released in 1.11.1 and 1.11.2 as well) allows attackers to read any file on the local filesystem of the JobManager through the REST interface of the JobManager process. Access is restricted to files accessible by the JobManager process. All users should upgrade to Flink 1.11.3 or 1.12.0 if their Flink instance(s) are exposed. The issue was fixed in commit b561010b0ee741543c3953306037f00d7a9f0801 from apache/flink:master.| 
-| 20210413T09:07:38Z | CVE-2021-6666 | Null | https://github.com/givemefivw/CVE-2021-6666 | | 
-| 20210413T07:51:29Z | CVE-2021-24086 | Proof of concept for CVE-2021-24086, a NULL dereference in tcpip.sys triggered remotely. | https://github.com/0vercl0k/CVE-2021-24086 | Windows TCP/IP Denial of Service Vulnerability| 
-| 20210413T07:12:14Z | CVE-2020-5902 | Auto exploit RCE CVE-2020-5902  | https://github.com/haisenberg/CVE-2020-5902 | In BIG-IP versions 15.0.0-15.1.0.3, 14.1.0-14.1.2.5, 13.1.0-13.1.3.3, 12.1.0-12.1.5.1, and 11.6.1-11.6.5.1, the Traffic Management User Interface (TMUI), also referred to as the Configuration utility, has a Remote Code Execution (RCE) vulnerability in undisclosed pages.| 
+| 20210413T09:07:38Z | CVE-2021-6666 | Null | https://github.com/givemefivw/CVE-2021-6666 | 未查询到CVE信息| 
 | 20210413T04:26:27Z | CVE-2021-26832 | Cross Site Scripting (XSS) at the "Reset Password" page form of Priority Enterprise Management System v8.00 allows attackers to execute javascript on behalf of the victim by sending a malicious URL or directing the victim to a malicious site. | https://github.com/NagliNagli/CVE-2021-26832 | 未查询到CVE信息| 
 | 20210413T01:07:21Z | cve-2020-2021 | Null | https://github.com/givemefivw/cve-2020-2021 | When Security Assertion Markup Language (SAML) authentication is enabled and the %Validate Identity Provider Certificate% option is disabled (unchecked), improper verification of signatures in PAN-OS SAML authentication enables an unauthenticated network-based attacker to access protected resources. The attacker must have network access to the vulnerable server to exploit this vulnerability. This issue affects PAN-OS 9.1 versions earlier than PAN-OS 9.1.3; PAN-OS 9.0 versions earlier than PAN-OS 9.0.9; PAN-OS 8.1 versions earlier than PAN-OS 8.1.15, and all versions of PAN-OS 8.0 (EOL). This issue does not affect PAN-OS 7.1. This issue cannot be exploited if SAML is not used for authentication. This issue cannot be exploited if the %Validate Identity Provider Certificate% option is enabled (checked) in the SAML Identity Provider Server Profile. Resources that can be protected by SAML-based single sign-on (SSO) authentication are: GlobalProtect Gateway, GlobalProtect Portal, GlobalProtect Clientless VPN, Authentication and Captive Portal, PAN-OS next-generation firewalls (PA-Series, VM-Series) and Panorama web interfaces, Prisma Access In the case of GlobalProtect Gateways, GlobalProtect Portal, Clientless VPN, Captive Portal, and Prisma Access, an unauthenticated attacker with network access to the affected servers can gain access to protected resources if allowed by configured authentication and Security policies. There is no impact on the integrity and availability of the gateway, portal or VPN server. An attacker cannot inspect or tamper with sessions of regular users. In the worst case, this is a critical severity vulnerability with a CVSS Base Score of 10.0 (CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:C/C:H/I:H/A:N). In the case of PAN-OS and Panorama web interfaces, this issue allows an unauthenticated attacker with network access to the PAN-OS or Panorama web interfaces to log in as an administrator and perform administrative actions. In the worst-case scenario, this is a critical severity vulnerability with a CVSS Base Score of 10.0 (CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:C/C:H/I:H/A:H). If the web interfaces are only accessible to a restricted management network, then the issue is lowered to a CVSS Base Score of 9.6 (CVSS:3.1/AV:A/AC:L/PR:N/UI:N/S:C/C:H/I:H/A:H). Palo Alto Networks is not aware of any malicious attempts to exploit this vulnerability.| 
-| 20210413T01:05:46Z | cve-2020- | Null | https://github.com/givemefivw/cve-2020-tttt | 未查询到CVE信息| 
-| 20210413T00:49:41Z | CVE-2021- | Null | https://github.com/givemefivw/CVE-2021-Finaltest | 未查询到CVE信息| 
-| 20210413T00:46:22Z | CVE-2021- | Null | https://github.com/givemefivw/CVE-2021-Retest | 未查询到CVE信息| 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210413T22:15:22Z | Git Blog | https://github.com/klee30810/klee30810.github.io | 0 | 0| 
+| 20210413T20:06:48Z | Spring 2021 Geography 817 work folder  | https://github.com/klee12/klee12.github.io | 0 | 0| 
+| 20210413T16:49:14Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1670 | 489| 
+| 20210413T14:28:13Z | A very fun and useful bot containing many features.  | https://github.com/quantix-dev/Kleebot | 1 | 0| 
 | 20210413T08:46:44Z | Safe KLEE API for Rust | https://github.com/markhakansson/klee-rs | 0 | 0| 
 | 20210413T08:27:10Z | Symbiotic is a tool for finding bugs in computer programs based on instrumentation, program slicing and KLEE | https://github.com/staticafi/symbiotic | 214 | 35| 
 | 20210413T07:57:03Z | Raw bindings for KLEE | https://github.com/markhakansson/klee-bindings | 0 | 0| 
-| 20210413T06:04:12Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1669 | 489| 
 | 20210413T05:41:32Z | RVT is a collection of tools/libraries to support both static and dynamic verification of Rust programs. | https://github.com/project-oak/rust-verification-tools | 122 | 11| 
 | 20210412T08:47:24Z | Config files for my GitHub profile. | https://github.com/klee06420/klee06420 | 0 | 0| 
 | 20210412T06:50:58Z | KLEE demonstration on the program second_largest | https://github.com/basu-abhinav/second_largest | 0 | 0| 
-| 20210411T15:58:53Z | Config files for my GitHub profile. | https://github.com/Kleebi99/Kleebi99 | 0 | 0| 
-| 20210411T15:21:57Z | Null | https://github.com/luchunchen/klee | 0 | 0| 
-| 20210410T18:33:08Z | Personal Blog | https://github.com/klee1611/klee1611.github.io | 0 | 0| 
 
 
 # s2e on Github 推荐
@@ -83,21 +83,24 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210413T12:53:15Z | PS4 Exploit Host | https://github.com/Night-King-Host/Night-King-Host.github.io | 8 | 4| 
-| 20210413T12:50:46Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 12 | 8| 
-| 20210413T12:39:30Z | Null | https://github.com/v3l1d/Windows7-Exploiting-ReverseShell-PDF | 0 | 0| 
-| 20210413T12:35:13Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9257 | 1500| 
-| 20210413T12:22:57Z | Project for stopping the child exploitation . Aim of the project is stop all child labour practices | https://github.com/harsh414/Google-Solution-Challenge-Project | 0 | 0| 
-| 20210413T12:18:08Z | C2/post-exploitation framework | https://github.com/loseys/BlackMamba | 607 | 69| 
-| 20210413T12:03:48Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 21 | 8| 
-| 20210413T11:53:29Z | Null | https://github.com/oneoy/exploits1 | 0 | 0| 
-| 20210413T11:42:49Z | Several tools for exploits. | https://github.com/vLeeH/protocol-tools | 0 | 0| 
-| 20210413T11:36:27Z | Android RAT with web panel and undetectable App | https://github.com/Th30neAnd0nly/Ohm | 15 | 6| 
+| 20210413T23:57:43Z | The PS4 5.05 Exploit Host Menu created by xforce505 | https://github.com/xforce505/PS4-Exploit-Host-Menu | 0 | 0| 
+| 20210413T23:52:04Z | Null | https://github.com/akkaiba/pythonDeface-Exploit | 0 | 0| 
+| 20210413T23:44:28Z | Toying around with an exploit gui for the SCP-3008 Roblox game (Synapse only) | https://github.com/chexburger/scp-3008-gui | 0 | 0| 
+| 20210413T23:39:39Z | Ded Security - Toolkit | https://github.com/dedsecubr/dedsecurity-framework | 6 | 2| 
+| 20210413T23:32:49Z | PS4 Exploit Host | https://github.com/Night-King-Host/Night-King-Host.github.io | 8 | 4| 
+| 20210413T23:30:46Z | Automatic Linux privesc via exploitation of low-hanging fruit e.g. gtfobins :arrow_up: :skull_and_crossbones: | https://github.com/liamg/traitor | 3054 | 152| 
+| 20210413T23:28:11Z | I made this for fun so don%t exploit with it. | https://github.com/RJScriptingDevelopment/LUA-EXPLOIT-FOR-ROBLOX | 0 | 0| 
+| 20210413T23:24:05Z | Download My Roblox Exploit:  | https://github.com/AngeltvFAN/Key | 0 | 0| 
+| 20210413T23:20:10Z | This library is designed to exclusively aid in process exploitation, function analysis, and operations similar to IDA Pro/Cheat Engine | https://github.com/thedoomed/EyeStep-CPP-Extended | 4 | 5| 
+| 20210413T23:02:29Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 21 | 8| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210413T19:57:22Z | Backdoor is going to be an interactive web console for Elixir & Phoenix projects | https://github.com/amberbit/backdoor | 2 | 1| 
+| 20210413T16:36:49Z | A webshell that can bypass some system security | https://github.com/22XploiterCrew-Team/Gel4y-Mini-Shell-Backdoor | 22 | 5| 
+| 20210413T14:50:05Z | Null | https://github.com/ph-luffy/Backdoor | 1 | 1| 
 | 20210413T11:36:52Z | Null | https://github.com/BSalwiczek/backdoor-trojan | 0 | 0| 
 | 20210413T10:25:32Z | Null | https://github.com/Bifrostbiolabs/Yggdrasil_Backdoor | 0 | 0| 
 | 20210413T09:06:58Z | QA tasks for %Hidden Backdoors in Human-Centric Language Models% | https://github.com/HLori/Question-Answering | 0 | 0| 
@@ -105,9 +108,6 @@
 | 20210413T04:18:07Z | 🤖An Evil and Smart Bot for Enslaving Windows. | https://github.com/wildonion/katyusha | 1 | 1| 
 | 20210413T02:21:56Z | TrojanZoo provides a universal pytorch platform to conduct security researches (especially backdoor attacks/defenses) of image classification in deep learning. | https://github.com/ain-soph/trojanzoo | 60 | 10| 
 | 20210413T01:57:07Z | A Simple android remote administration tool using sockets. It uses java on the client side and python on the server side | https://github.com/karma9874/AndroRAT | 202 | 92| 
-| 20210412T23:46:21Z | A webshell that can bypass some system security | https://github.com/22XploiterCrew-Team/Gel4y-Mini-Shell-Backdoor | 22 | 5| 
-| 20210412T20:46:58Z | An evil bit backdoor for iptables | https://github.com/FlamingSpork/iptable_evil | 0 | 0| 
-| 20210412T15:53:51Z | Null | https://github.com/victormuller2007/backdoor | 0 | 0| 
 
 
 # fuzz on Github 推荐
