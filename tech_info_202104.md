@@ -46,7 +46,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20210414T01:47:28Z | CVE-2021-24086 | Proof of concept for CVE-2021-24086, a NULL dereference in tcpip.sys triggered remotely. | https://github.com/0vercl0k/CVE-2021-24086 | | 
+| 20210414T01:47:28Z | CVE-2021-24086 | Proof of concept for CVE-2021-24086, a NULL dereference in tcpip.sys triggered remotely. | https://github.com/0vercl0k/CVE-2021-24086 | Windows TCP/IP Denial of Service Vulnerability| 
 | 20210413T21:13:25Z | CVE-2020-5902 | Auto exploit RCE CVE-2020-5902  | https://github.com/haisenberg/CVE-2020-5902 | In BIG-IP versions 15.0.0-15.1.0.3, 14.1.0-14.1.2.5, 13.1.0-13.1.3.3, 12.1.0-12.1.5.1, and 11.6.1-11.6.5.1, the Traffic Management User Interface (TMUI), also referred to as the Configuration utility, has a Remote Code Execution (RCE) vulnerability in undisclosed pages.| 
 | 20210413T19:15:08Z | CVE-2020-14368 | Interactive RCE exploit demo for Eclipse CHE | https://github.com/codingchili/CVE-2020-14368 | A flaw was found in Eclipse Che in versions prior to 7.14.0 that impacts CodeReady Workspaces. When configured with cookies authentication, Theia IDE doesn%t properly set the SameSite value, allowing a Cross-Site Request Forgery (CSRF) and consequently allowing a cross-site WebSocket hijack on Theia IDE. This flaw allows an attacker to gain full access to the victim%s workspace through the /services endpoint. To perform a successful attack, the attacker conducts a Man-in-the-middle attack (MITM) and tricks the victim into executing a request via an untrusted link, which performs the CSRF and the Socket hijack. The highest threat from this vulnerability is to confidentiality, integrity, as well as system availability.| 
 | 20210413T16:11:40Z | cve-2021-29627 | Trigger-only for CVE-2021-29627 | https://github.com/raymontag/cve-2021-29627 | In FreeBSD 13.0-STABLE before n245050, 12.2-STABLE before r369525, 13.0-RC4 before p0, and 12.2-RELEASE before p6, listening socket accept filters implementing the accf_create callback incorrectly freed a process supplied argument string. Additional operations on the socket can lead to a double free or use after free.| 
@@ -83,7 +83,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210414T01:54:44Z | Toying around with an exploit gui for the SCP-3008 Roblox game (Synapse only) | https://github.com/chexburger/scp-3008-gui | 0 | 0| 
+| 20210414T01:56:10Z | Toying around with an exploit gui for the SCP-3008 Roblox game (Synapse only) | https://github.com/chexburger/scp-3008-gui | 0 | 0| 
 | 20210414T01:50:13Z | A simple script to exploit  Google%s search autofill api database by sending several modified packets to collect emails, names, and potentially other information. | https://github.com/Veedex/Email-Hoarder | 0 | 0| 
 | 20210414T01:43:21Z | Hack/Exploits for https://krunker.io/ | https://github.com/glixzzy/krunker.io-hacks | 6 | 22| 
 | 20210414T01:21:45Z | Windows Exploit Development Toolkit for Exploit Developers | https://github.com/itsjeffersonli/exploit-development-toolkit | 0 | 0| 
@@ -113,16 +113,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210414T00:47:30Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 2 | 3| 
-| 20210414T00:35:01Z | Null | https://github.com/VeriBlock/fuzz-corpus | 0 | 1| 
-| 20210414T00:11:42Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6194 | 1249| 
-| 20210413T23:53:39Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2316 | 124| 
-| 20210413T23:08:22Z | CS 4152 Project | https://github.com/nicbarone/Fuzzy-Kiwi | 0 | 0| 
-| 20210413T22:43:44Z | Robust and versatile headless monkey (fuzz) testing for the web with reproducible steps, error alerts, strategy sharing and many other good things. | https://github.com/bell-lab-apps/fuzz-monkey | 0 | 0| 
-| 20210413T21:59:20Z | Personal website of Laurence Hughes | https://github.com/fuzzylogicxx/fuzzylogic | 4 | 1| 
-| 20210413T21:35:52Z | Calculating CardiovascularDiseaseRisk using Fuzzy logic | https://github.com/StefanutVlad/fuzzyCardiovascularDiseaseRisk | 0 | 0| 
-| 20210413T21:25:27Z | Fuzzing cryptographic libraries. Magic bug printer go brrrr. | https://github.com/guidovranken/cryptofuzz | 272 | 37| 
-| 20210413T21:12:37Z | This calendar gives you 1-2 sentences about a thing that a marginalised person in computing did connected to the date. | https://github.com/fuzzy-binaires/fuzzy-binaires.github.io | 0 | 0| 
+| 20210414T01:55:07Z | setup for fuzzing the Rust compiler | https://github.com/dwrensha/fuzz-rustc | 30 | 0| 
+| 20210414T01:50:44Z | A Haskell library for fuzzy text search | https://github.com/runarorama/fuzzyfind | 9 | 0| 
+| 20210414T01:30:40Z | Fuzzing on JSON parsers. | https://github.com/Kanatoko/jsonfuzz | 0 | 0| 
+| 20210414T01:22:42Z | Null | https://github.com/DzakiL/fuzzy1 | 0 | 0| 
+| 20210414T01:15:30Z | Bazel Starlark extensions for defining fuzz tests in Bazel projects | https://github.com/bazelbuild/rules_fuzzing | 28 | 3| 
+| 20210414T01:14:47Z | Null | https://github.com/rat-21/fuzzy-pancake | 0 | 0| 
+| 20210414T01:05:51Z | Null | https://github.com/ZeroEngineLegacy/FuzzyLogic | 0 | 0| 
+| 20210414T01:03:20Z | Null | https://github.com/hirenshah-pyt/fuzzy-parakeet | 0 | 0| 
+| 20210414T01:01:01Z | Null | https://github.com/zeqiii/EVAL-FUZZ | 0 | 0| 
+| 20210414T00:56:56Z | Null | https://github.com/Refriyan/uts_Implementasi_fuzzy | 0 | 0| 
 
 
 
