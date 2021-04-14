@@ -6,6 +6,13 @@
 # 玄武实验室 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20210414 | Xstream反序列化远程代码执行漏洞深入分析。 | http://blog.topsec.com.cn/xstream%E5%8F%8D%E5%BA%8F%E5%88%97%E5%8C%96%E8%BF%9C%E7%A8%8B%E4%BB%A3%E7%A0%81%E6%89%A7%E8%A1%8C%E6%BC%8F%E6%B4%9E%E6%B7%B1%E5%85%A5%E5%88%86%E6%9E%90/| 
+| 20210414 | EFB 的攻击面分析。 | https://www.pentestpartners.com/security-blog/efb-tampering-2-device-integrity/| 
+| 20210414 | Chrome 的 0day EXP。 | https://github.com/r4j0x00/exploits/tree/master/chrome-0day| 
+| 20210414 | Server-side request forgery via ftp account | https://speakerdeck.com/bo0om/ftp2rce| 
+| 20210414 | Cockpit CMS 通过 CVE-2020-35846（NoSQL 注入）实现 RCE。 | https://swarm.ptsecurity.com/rce-cockpit-cms/| 
+| 20210414 | 防病毒软件的隔离文件分析。 | https://static.ernw.de/whitepaper/ERNW-Whitepaper-71_AV_Quarantine_signed.pdf| 
+| 20210414 | Desktop Window Manager（CVE-2021-28310）在野利用分析。 | https://securelist.com/zero-day-vulnerability-in-desktop-window-manager-cve-2021-28310-used-in-the-wild/101898/| 
 | 20210413 | CVE-2021-29627：由于 FreeBSD 的 accept_filter 处理程序错误而留下一个空指针，可能被利用于内核提权。 | https://github.com/raymontag/cve-2021-29627| 
 | 20210413 | Process Herpaderping：通过在映像映射后修改磁盘上的内容来掩盖进程意图的方法。 | https://movaxbx.ru/2021/04/11/process-herpaderping/| 
 | 20210413 | Chrome 和Firefox 等浏览器的 WebDriver REST APIs RCE 分析。 | https://starlabs.sg/blog/2021/04/you-talking-to-me/| 
@@ -19,18 +26,12 @@
 | 20210412 | 分析如何追踪 Cobalt Strike DNS 服务器。 | https://labs.f-secure.com/blog/detecting-exposed-cobalt-strike-dns-redirectors/| 
 | 20210412 | 对比 Rust 和 Clang 的 clamp 在 LLVM IR 中实现的差异。 | https://secret.club/2021/04/09/std-clamp.html| 
 | 20210412 | APKPure 3.17.18 版本存在恶意代码。 | https://securelist.com/apkpure-android-app-store-infected/101845/| 
-| 20210412 | 分析 CVE-2021-26708 是如何绕过 SMEP 和 SMAP 在 Fedora 33 Server x86 上实现提权。 | http://blog.ptsecurity.com/2021/04/four-bytes-of-power-exploiting-cve-2021.html| 
-| 20210412 | 深度揭密高通4/5G移动基带消息系统和状态机。 | https://paper.seebug.org/1555/| 
-| 20210412 | Azure Functions 提权漏洞分析。 | https://www.intezer.com/blog/cloud-security/royal-flush-privilege-escalation-vulnerability-in-azure-functions/| 
-| 20210412 | Rooting macOS Big Sur on Apple Silicon | https://github.com/wangtielei/Slides/blob/main/zer0con21.pdf| 
-| 20210412 | 通过 Wi-Fi 连接远程攻击 iOS ，无需交互并且绕过沙箱。 | https://marcograss.github.io/security/apple/ios/wifi/2016/06/17/remotely-pwning-ios-via-wifi.html| 
-| 20210412 | CVE-2021-26411 在野样本分析：利用 Windows RPC 绕过 CFG 缓解措施。 | https://iamelli0t.github.io/2021/04/10/RPC-Bypass-CFG.html| 
-| 20210412 | 逆向工程基于UEFI的BIOS模块分析。 | https://standa-note.blogspot.com/2021/04/reverse-engineering-absolute-uefi.html| 
 
 
 # 安全维基 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20210414 | 基于TTPs的自动化威胁主体追踪技术 | https://mp.weixin.qq.com/s/VMOEL7jIQZPZwdCtXo0e3Q| 
 | 20210413 | 微信小程序反编译 | https://www.sec-in.com/article/1012| 
 | 20210413 | 从BCTF人机对抗视角浅谈自动化攻防技术发展 | https://mp.weixin.qq.com/s/5wR37FLoTPn3fftxZw_Brw| 
 | 20210413 | MindAPI: Bringing order to API hacking chaos | https://github.com/dsopas/MindAPI| 
@@ -40,22 +41,21 @@
 | 20210412 | InScan: 边界打点后的自动化渗透工具 | https://github.com/inbug-team/InScan/| 
 | 20210412 | HackMyVM：CROSSROADS:1 | https://www.sec-in.com/article/1009| 
 | 20210412 | SecWiki周刊（第371期) | https://www.sec-wiki.com/weekly/371| 
-| 20210412 | 安全学术圈2020年度总结 | https://mp.weixin.qq.com/s/Tn_nNer_xdDbWmComqV8uw| 
 
 
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20210414T11:59:26Z | CVE-2021-26295 | Null | https://github.com/S0por/CVE-2021-26295-Apache-OFBiz-EXP | Apache OFBiz has unsafe deserialization prior to 17.12.06. An unauthenticated attacker can use this vulnerability to successfully take over Apache OFBiz.| 
+| 20210414T11:47:27Z | CVE-2020-25078 | Null | https://github.com/S0por/CVE-2020-25078 | An issue was discovered on D-Link DCS-2530L before 1.06.01 Hotfix and DCS-2670L through 2.02 devices. The unauthenticated /config/getuser endpoint allows for remote administrator password disclosure.| 
+| 20210414T07:39:19Z | CVE-2021-3019 | Null | https://github.com/givemefivw/CVE-2021-3019 | ffay lanproxy 0.1 allows Directory Traversal to read /../conf/config.properties to obtain credentials for a connection to the intranet.| 
+| 20210414T07:16:47Z | CVE-2021-28310 | Malicious Payloads that abuses Win32k Elevation of Privilege Vulnerability (CVE-2021-28310) | https://github.com/Rafael-Svechinskaya/IOC_for_CVE-2021-28310 | Win32k Elevation of Privilege Vulnerability This CVE ID is unique from CVE-2021-27072.| 
+| 20210414T06:15:21Z | CVE-2020-14882 | Null | https://github.com/nice0e3/CVE-2020-14882_Exploit_Gui | Vulnerability in the Oracle WebLogic Server product of Oracle Fusion Middleware (component: Console). Supported versions that are affected are 10.3.6.0.0, 12.1.3.0.0, 12.2.1.3.0, 12.2.1.4.0 and 14.1.1.0.0. Easily exploitable vulnerability allows unauthenticated attacker with network access via HTTP to compromise Oracle WebLogic Server. Successful attacks of this vulnerability can result in takeover of Oracle WebLogic Server. CVSS 3.1 Base Score 9.8 (Confidentiality, Integrity and Availability impacts). CVSS Vector: (CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H).| 
+| 20210414T05:57:11Z | CVE-2021-6857 | Config files for my GitHub profile. | https://github.com/ZiHeny/CVE-2021-6857 | 未查询到CVE信息| 
+| 20210414T03:54:20Z | cve-2021-29627 | Trigger-only for CVE-2021-29627 | https://github.com/raymontag/cve-2021-29627 | In FreeBSD 13.0-STABLE before n245050, 12.2-STABLE before r369525, 13.0-RC4 before p0, and 12.2-RELEASE before p6, listening socket accept filters implementing the accf_create callback incorrectly freed a process supplied argument string. Additional operations on the socket can lead to a double free or use after free.| 
 | 20210414T01:47:28Z | CVE-2021-24086 | Proof of concept for CVE-2021-24086, a NULL dereference in tcpip.sys triggered remotely. | https://github.com/0vercl0k/CVE-2021-24086 | Windows TCP/IP Denial of Service Vulnerability| 
 | 20210413T21:13:25Z | CVE-2020-5902 | Auto exploit RCE CVE-2020-5902  | https://github.com/haisenberg/CVE-2020-5902 | In BIG-IP versions 15.0.0-15.1.0.3, 14.1.0-14.1.2.5, 13.1.0-13.1.3.3, 12.1.0-12.1.5.1, and 11.6.1-11.6.5.1, the Traffic Management User Interface (TMUI), also referred to as the Configuration utility, has a Remote Code Execution (RCE) vulnerability in undisclosed pages.| 
 | 20210413T19:15:08Z | CVE-2020-14368 | Interactive RCE exploit demo for Eclipse CHE | https://github.com/codingchili/CVE-2020-14368 | A flaw was found in Eclipse Che in versions prior to 7.14.0 that impacts CodeReady Workspaces. When configured with cookies authentication, Theia IDE doesn%t properly set the SameSite value, allowing a Cross-Site Request Forgery (CSRF) and consequently allowing a cross-site WebSocket hijack on Theia IDE. This flaw allows an attacker to gain full access to the victim%s workspace through the /services endpoint. To perform a successful attack, the attacker conducts a Man-in-the-middle attack (MITM) and tricks the victim into executing a request via an untrusted link, which performs the CSRF and the Socket hijack. The highest threat from this vulnerability is to confidentiality, integrity, as well as system availability.| 
-| 20210413T16:11:40Z | cve-2021-29627 | Trigger-only for CVE-2021-29627 | https://github.com/raymontag/cve-2021-29627 | In FreeBSD 13.0-STABLE before n245050, 12.2-STABLE before r369525, 13.0-RC4 before p0, and 12.2-RELEASE before p6, listening socket accept filters implementing the accf_create callback incorrectly freed a process supplied argument string. Additional operations on the socket can lead to a double free or use after free.| 
-| 20210413T15:33:32Z | CVE-2020-14882 | Null | https://github.com/nice0e3/CVE-2020-14882_Exploit_Gui | Vulnerability in the Oracle WebLogic Server product of Oracle Fusion Middleware (component: Console). Supported versions that are affected are 10.3.6.0.0, 12.1.3.0.0, 12.2.1.3.0, 12.2.1.4.0 and 14.1.1.0.0. Easily exploitable vulnerability allows unauthenticated attacker with network access via HTTP to compromise Oracle WebLogic Server. Successful attacks of this vulnerability can result in takeover of Oracle WebLogic Server. CVSS 3.1 Base Score 9.8 (Confidentiality, Integrity and Availability impacts). CVSS Vector: (CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H).| 
-| 20210413T14:26:49Z | CVE-2021-3138 | Disource POC | https://github.com/Mesh3l911/CVE-2021-3138 | In Discourse 2.7.0 through beta1, a rate-limit bypass leads to a bypass of the 2FA requirement for certain forms.| 
-| 20210413T11:44:17Z | CVE-2020-17519 | CVE-2020-17519 Cheetah | https://github.com/givemefivw/CVE-2020-17519 | A change introduced in Apache Flink 1.11.0 (and released in 1.11.1 and 1.11.2 as well) allows attackers to read any file on the local filesystem of the JobManager through the REST interface of the JobManager process. Access is restricted to files accessible by the JobManager process. All users should upgrade to Flink 1.11.3 or 1.12.0 if their Flink instance(s) are exposed. The issue was fixed in commit b561010b0ee741543c3953306037f00d7a9f0801 from apache/flink:master.| 
-| 20210413T09:07:38Z | CVE-2021-6666 | Null | https://github.com/givemefivw/CVE-2021-6666 | 未查询到CVE信息| 
-| 20210413T04:26:27Z | CVE-2021-26832 | Cross Site Scripting (XSS) at the "Reset Password" page form of Priority Enterprise Management System v8.00 allows attackers to execute javascript on behalf of the victim by sending a malicious URL or directing the victim to a malicious site. | https://github.com/NagliNagli/CVE-2021-26832 | 未查询到CVE信息| 
-| 20210413T01:07:21Z | cve-2020-2021 | Null | https://github.com/givemefivw/cve-2020-2021 | When Security Assertion Markup Language (SAML) authentication is enabled and the %Validate Identity Provider Certificate% option is disabled (unchecked), improper verification of signatures in PAN-OS SAML authentication enables an unauthenticated network-based attacker to access protected resources. The attacker must have network access to the vulnerable server to exploit this vulnerability. This issue affects PAN-OS 9.1 versions earlier than PAN-OS 9.1.3; PAN-OS 9.0 versions earlier than PAN-OS 9.0.9; PAN-OS 8.1 versions earlier than PAN-OS 8.1.15, and all versions of PAN-OS 8.0 (EOL). This issue does not affect PAN-OS 7.1. This issue cannot be exploited if SAML is not used for authentication. This issue cannot be exploited if the %Validate Identity Provider Certificate% option is enabled (checked) in the SAML Identity Provider Server Profile. Resources that can be protected by SAML-based single sign-on (SSO) authentication are: GlobalProtect Gateway, GlobalProtect Portal, GlobalProtect Clientless VPN, Authentication and Captive Portal, PAN-OS next-generation firewalls (PA-Series, VM-Series) and Panorama web interfaces, Prisma Access In the case of GlobalProtect Gateways, GlobalProtect Portal, Clientless VPN, Captive Portal, and Prisma Access, an unauthenticated attacker with network access to the affected servers can gain access to protected resources if allowed by configured authentication and Security policies. There is no impact on the integrity and availability of the gateway, portal or VPN server. An attacker cannot inspect or tamper with sessions of regular users. In the worst case, this is a critical severity vulnerability with a CVSS Base Score of 10.0 (CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:C/C:H/I:H/A:N). In the case of PAN-OS and Panorama web interfaces, this issue allows an unauthenticated attacker with network access to the PAN-OS or Panorama web interfaces to log in as an administrator and perform administrative actions. In the worst-case scenario, this is a critical severity vulnerability with a CVSS Base Score of 10.0 (CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:C/C:H/I:H/A:H). If the web interfaces are only accessible to a restricted management network, then the issue is lowered to a CVSS Base Score of 9.6 (CVSS:3.1/AV:A/AC:L/PR:N/UI:N/S:C/C:H/I:H/A:H). Palo Alto Networks is not aware of any malicious attempts to exploit this vulnerability.| 
 
 
 # klee on Github 推荐
@@ -83,16 +83,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210414T01:56:10Z | Toying around with an exploit gui for the SCP-3008 Roblox game (Synapse only) | https://github.com/chexburger/scp-3008-gui | 0 | 0| 
-| 20210414T01:50:13Z | A simple script to exploit  Google%s search autofill api database by sending several modified packets to collect emails, names, and potentially other information. | https://github.com/Veedex/Email-Hoarder | 0 | 0| 
-| 20210414T01:43:21Z | Hack/Exploits for https://krunker.io/ | https://github.com/glixzzy/krunker.io-hacks | 6 | 22| 
-| 20210414T01:21:45Z | Windows Exploit Development Toolkit for Exploit Developers | https://github.com/itsjeffersonli/exploit-development-toolkit | 0 | 0| 
-| 20210414T01:02:26Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 21 | 8| 
-| 20210414T00:50:45Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 12 | 8| 
-| 20210414T00:47:37Z | An html page to test the RCE Exploit Released by  r4j0x00 for Unpatched Chrome, Opera, and Brave Browsers | https://github.com/JonnyBanana/r4j0x00_RCE_exploit.github.io | 0 | 0| 
-| 20210414T00:29:13Z | A Paper Mario: The Thousand-Year Door Save Exploit | https://github.com/Zephiles/ttyd-exploit | 5 | 0| 
-| 20210414T00:18:23Z | This is a work in progress. This includes some basic bash scripting to automate tasks within Linux, Specifically Kali Linux. It acts as a shortcut to launch some basic exploit programs. The second main function of this script is to automate some NMAP scans, by providing a target ip and choosing which option you%d like to use.  | https://github.com/LumenwoodSecurity/ExploitToolBox | 0 | 0| 
-| 20210414T00:12:42Z | PS1 savegame exploit | https://github.com/socram8888/tonyhax | 246 | 7| 
+| 20210414T11:57:21Z | public CVE exploits | https://github.com/code-developers/exploits | 0 | 0| 
+| 20210414T11:42:16Z | linux post-exploitation framework made by linux user | https://github.com/jm33-m0/emp3r0r | 443 | 83| 
+| 20210414T11:36:55Z | Vulnerabilities exploitation examples, python | https://github.com/cocomelonc/vulnexipy | 5 | 1| 
+| 20210414T11:28:57Z | PS1 savegame exploit | https://github.com/socram8888/tonyhax | 248 | 7| 
+| 20210414T11:02:29Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 21 | 8| 
+| 20210414T10:57:57Z | Development of code to exploit LSST and VISTA imaging | https://github.com/lsst-uk/lsst-ir-fusion | 0 | 0| 
+| 20210414T10:56:21Z | XL-AMR is a sequence-to-graph cross-lingual AMR parser that exploits transfer learning (EMNLP2020).   | https://github.com/SapienzaNLP/xl-amr | 5 | 1| 
+| 20210414T10:51:44Z | Collect data from home directory  | https://github.com/milanm98/Home-data-exploit | 0 | 0| 
+| 20210414T10:42:32Z | Fast jacobian computation through sparsity exploitation and matrix coloring | https://github.com/JuliaDiff/SparseDiffTools.jl | 90 | 17| 
+| 20210414T10:38:52Z | PS4 Exploit list | https://github.com/Hakkuraifu/PS4xploit | 33 | 11| 
 
 
 # backdoor on Github 推荐
