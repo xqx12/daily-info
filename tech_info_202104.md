@@ -55,7 +55,7 @@
 | 20210414T03:54:20Z | cve-2021-29627 | Trigger-only for CVE-2021-29627 | https://github.com/raymontag/cve-2021-29627 | In FreeBSD 13.0-STABLE before n245050, 12.2-STABLE before r369525, 13.0-RC4 before p0, and 12.2-RELEASE before p6, listening socket accept filters implementing the accf_create callback incorrectly freed a process supplied argument string. Additional operations on the socket can lead to a double free or use after free.| 
 | 20210414T01:47:28Z | CVE-2021-24086 | Proof of concept for CVE-2021-24086, a NULL dereference in tcpip.sys triggered remotely. | https://github.com/0vercl0k/CVE-2021-24086 | Windows TCP/IP Denial of Service Vulnerability| 
 | 20210413T21:13:25Z | CVE-2020-5902 | Auto exploit RCE CVE-2020-5902  | https://github.com/haisenberg/CVE-2020-5902 | In BIG-IP versions 15.0.0-15.1.0.3, 14.1.0-14.1.2.5, 13.1.0-13.1.3.3, 12.1.0-12.1.5.1, and 11.6.1-11.6.5.1, the Traffic Management User Interface (TMUI), also referred to as the Configuration utility, has a Remote Code Execution (RCE) vulnerability in undisclosed pages.| 
-| 20210413T19:15:08Z | CVE-2020-14368 | Interactive RCE exploit demo for Eclipse CHE | https://github.com/codingchili/CVE-2020-14368 | A flaw was found in Eclipse Che in versions prior to 7.14.0 that impacts CodeReady Workspaces. When configured with cookies authentication, Theia IDE doesn%t properly set the SameSite value, allowing a Cross-Site Request Forgery (CSRF) and consequently allowing a cross-site WebSocket hijack on Theia IDE. This flaw allows an attacker to gain full access to the victim%s workspace through the /services endpoint. To perform a successful attack, the attacker conducts a Man-in-the-middle attack (MITM) and tricks the victim into executing a request via an untrusted link, which performs the CSRF and the Socket hijack. The highest threat from this vulnerability is to confidentiality, integrity, as well as system availability.| 
+| 20210413T19:15:08Z | CVE-2020-14368 | Interactive RCE exploit demo for Eclipse CHE | https://github.com/codingchili/CVE-2020-14368 | | 
 
 
 # klee on Github 推荐
@@ -83,8 +83,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210414T12:20:29Z | PS1 savegame exploit | https://github.com/socram8888/tonyhax | 248 | 7| 
 | 20210414T12:16:15Z | PS4 Exploits 5.05-7.55 | https://github.com/Buzbee/Buzbee.github.io | 1 | 0| 
-| 20210414T12:11:56Z | PS1 savegame exploit | https://github.com/socram8888/tonyhax | 248 | 7| 
 | 20210414T12:03:34Z | public CVE exploits | https://github.com/code-developers/exploits | 0 | 0| 
 | 20210414T12:02:56Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 21 | 8| 
 | 20210414T11:42:16Z | linux post-exploitation framework made by linux user | https://github.com/jm33-m0/emp3r0r | 443 | 83| 
