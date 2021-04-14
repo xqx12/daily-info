@@ -47,6 +47,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210414T12:35:13Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9266 | 1500| 
 | 20210414T12:31:20Z | WordPress plugin jobmanager exploit  | https://github.com/Ki11i0n4ir3/job-madnager | 0 | 0| 
 | 20210414T12:20:29Z | PS1 savegame exploit | https://github.com/socram8888/tonyhax | 248 | 7| 
 | 20210414T12:16:15Z | PS4 Exploits 5.05-7.55 | https://github.com/Buzbee/Buzbee.github.io | 1 | 0| 
@@ -56,7 +57,6 @@
 | 20210414T11:36:55Z | Vulnerabilities exploitation examples, python | https://github.com/cocomelonc/vulnexipy | 5 | 1| 
 | 20210414T10:57:57Z | Development of code to exploit LSST and VISTA imaging | https://github.com/lsst-uk/lsst-ir-fusion | 0 | 0| 
 | 20210414T10:56:21Z | XL-AMR is a sequence-to-graph cross-lingual AMR parser that exploits transfer learning (EMNLP2020).   | https://github.com/SapienzaNLP/xl-amr | 5 | 1| 
-| 20210414T10:51:44Z | Collect data from home directory  | https://github.com/milanm98/Home-data-exploit | 0 | 0| 
 
 
 # backdoor on Github 推荐
