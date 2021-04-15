@@ -29,16 +29,16 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20210415T12:46:56Z | CVE-2021-24086 | Proof of concept for CVE-2021-24086, a NULL dereference in tcpip.sys triggered remotely. | https://github.com/0vercl0k/CVE-2021-24086 | Windows TCP/IP Denial of Service Vulnerability| 
 | 20210415T12:03:59Z | CVE-2021-25646 | CVE-2021-25646 Apache Druid 远程代码执行漏洞 Wker脚本 | https://github.com/givemefivw/CVE-2021-25646 | Apache Druid includes the ability to execute user-provided JavaScript code embedded in various types of requests. This functionality is intended for use in high-trust environments, and is disabled by default. However, in Druid 0.20.0 and earlier, it is possible for an authenticated user to send a specially-crafted request that forces Druid to run user-provided JavaScript code for that request, regardless of server configuration. This can be leveraged to execute code on the target machine with the privileges of the Druid server process.| 
 | 20210415T11:20:53Z | CVE-2020-14882 | Null | https://github.com/nice0e3/CVE-2020-14882_Exploit_Gui | Vulnerability in the Oracle WebLogic Server product of Oracle Fusion Middleware (component: Console). Supported versions that are affected are 10.3.6.0.0, 12.1.3.0.0, 12.2.1.3.0, 12.2.1.4.0 and 14.1.1.0.0. Easily exploitable vulnerability allows unauthenticated attacker with network access via HTTP to compromise Oracle WebLogic Server. Successful attacks of this vulnerability can result in takeover of Oracle WebLogic Server. CVSS 3.1 Base Score 9.8 (Confidentiality, Integrity and Availability impacts). CVSS Vector: (CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H).| 
-| 20210415T10:10:15Z | cve-2020-13777 | Zeek script to detect servers vulnerable to CVE-2020-13777 | https://github.com/0xxon/cve-2020-13777 | | 
+| 20210415T10:10:15Z | cve-2020-13777 | Zeek script to detect servers vulnerable to CVE-2020-13777 | https://github.com/0xxon/cve-2020-13777 | GnuTLS 3.6.x before 3.6.14 uses incorrect cryptography for encrypting a session ticket (a loss of confidentiality in TLS 1.2, and an authentication bypass in TLS 1.3). The earliest affected version is 3.6.4 (2018-09-24) because of an error in a 2018-09-18 commit. Until the first key rotation, the TLS server always uses wrong data in place of an encryption key derived from an application.| 
 | 20210415T10:07:36Z | cve-2020-0601 | Zeek package to detect CVE-2020-0601 | https://github.com/0xxon/cve-2020-0601 | A spoofing vulnerability exists in the way Windows CryptoAPI (Crypt32.dll) validates Elliptic Curve Cryptography (ECC) certificates.An attacker could exploit the vulnerability by using a spoofed code-signing certificate to sign a malicious executable, making it appear the file was from a trusted, legitimate source, aka %Windows CryptoAPI Spoofing Vulnerability%.| 
 | 20210415T09:44:20Z | CVE-2020-25078 | Null | https://github.com/S0por/CVE-2020-25078 | An issue was discovered on D-Link DCS-2530L before 1.06.01 Hotfix and DCS-2670L through 2.02 devices. The unauthenticated /config/getuser endpoint allows for remote administrator password disclosure.| 
 | 20210415T09:43:53Z | CVE-2021-26295 | Null | https://github.com/S0por/CVE-2021-26295-Apache-OFBiz-EXP | Apache OFBiz has unsafe deserialization prior to 17.12.06. An unauthenticated attacker can use this vulnerability to successfully take over Apache OFBiz.| 
 | 20210415T09:27:37Z | CVE-2021-22192 | CVE-2021-22192 靶场： 未授权用户 RCE 漏洞 | https://github.com/lyy289065406/CVE-2021-22192 | An issue has been discovered in GitLab CE/EE affecting all versions starting from 13.2 allowing unauthorized authenticated users to execute arbitrary code on the server.| 
 | 20210415T07:07:10Z | CVE-2020-7461 | PoC for DHCP vulnerability (NAME:WRECK) in FreeBSD | https://github.com/knqyf263/CVE-2020-7461 | In FreeBSD 12.1-STABLE before r365010, 11.4-STABLE before r365011, 12.1-RELEASE before p9, 11.4-RELEASE before p3, and 11.3-RELEASE before p13, dhclient(8) fails to handle certain malformed input related to handling of DHCP option 119 resulting a heap overflow. The heap overflow could in principle be exploited to achieve remote code execution. The affected process runs with reduced privileges in a Capsicum sandbox, limiting the immediate impact of an exploit.| 
 | 20210415T03:06:06Z | cve-2021-29627 | Trigger-only for CVE-2021-29627 | https://github.com/raymontag/cve-2021-29627 | In FreeBSD 13.0-STABLE before n245050, 12.2-STABLE before r369525, 13.0-RC4 before p0, and 12.2-RELEASE before p6, listening socket accept filters implementing the accf_create callback incorrectly freed a process supplied argument string. Additional operations on the socket can lead to a double free or use after free.| 
-| 20210415T03:04:56Z | CVE-2021-1000000 | Null | https://github.com/13202311145/CVE-2021-1000000 | 未查询到CVE信息| 
 
 
 # klee on Github 推荐
@@ -56,16 +56,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210415T12:07:40Z | Exploit_Scripts | https://github.com/wendy9593/Exploit_Scripts | 1 | 0| 
+| 20210415T12:56:22Z | linux post-exploitation framework made by linux user | https://github.com/jm33-m0/emp3r0r | 446 | 83| 
+| 20210415T12:50:47Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 12 | 8| 
+| 20210415T12:48:44Z | Educational platform to present and exploit three attacks : Arp Poisoning, DHCP Spoofing and VoIP Eavesdropping.  | https://github.com/khoukhi2021/Attacks-on-virtual-machines | 0 | 0| 
+| 20210415T12:42:36Z | Windows Exploit Development Tutorial Series | https://github.com/whichbuffer/WindowsExploitDev | 0 | 1| 
+| 20210415T12:42:28Z | Exploit_Scripts | https://github.com/wendy9593/Exploit_Scripts | 1 | 0| 
+| 20210415T12:40:15Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9273 | 1502| 
+| 20210415T12:30:56Z | Computer Network Exploitation (CNE) Field Manual | https://github.com/mzet-/z-field-manual | 2 | 2| 
 | 20210415T12:02:42Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 21 | 8| 
 | 20210415T11:53:16Z | Exploit allowing to load arbitrary code on the PSX using only a memory card (no game needed) | https://github.com/brad-lin/FreePSXBoot | 142 | 12| 
 | 20210415T11:20:53Z | Null | https://github.com/nice0e3/CVE-2020-14882_Exploit_Gui | 10 | 0| 
-| 20210415T11:19:23Z | Resources and articles I need to take a look at. Mostly about malware/exploit development and analysis. | https://github.com/Cerbersec/notes | 0 | 0| 
-| 20210415T11:17:23Z | A python script file to statically and dynamically investigate and analyse binary files for buffer overflow exploits. | https://github.com/BroadbentT/BINARY-MASTER | 4 | 0| 
-| 20210415T11:13:29Z | Educational web application demonstrating techniques of binary exploitation - (Back-end) | https://github.com/Pen-Test3rs/binary_exploits_backend | 0 | 0| 
-| 20210415T11:01:50Z | Null | https://github.com/Arturo8V/Exploit-DB-Scraping | 0 | 0| 
-| 20210415T11:01:39Z | CTF framework and exploit development library | https://github.com/Gallopsled/pwntools | 7759 | 1376| 
-| 20210415T10:51:52Z | linux post-exploitation framework made by linux user | https://github.com/jm33-m0/emp3r0r | 446 | 83| 
 
 
 # backdoor on Github 推荐
@@ -83,15 +83,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210415T01:16:17Z | Null | https://github.com/VeriBlock/fuzz-corpus | 0 | 1| 
-| 20210415T01:15:54Z | Null | https://github.com/kelvinnguyen3196/fuzzy-octo-eureka | 0 | 0| 
-| 20210415T01:15:32Z | Fuzzy matching for Neovim | https://github.com/amirrezaask/fuzzy.nvim | 24 | 1| 
-| 20210415T01:06:46Z | Null | https://github.com/manekinekko/fuzzy-eureka | 1 | 0| 
-| 20210415T01:05:47Z | A Haskell library for fuzzy text search | https://github.com/runarorama/fuzzyfind | 9 | 0| 
-| 20210415T00:50:02Z | Generator of random circuits | https://github.com/drom/circt-fuzzer | 1 | 0| 
-| 20210415T00:44:53Z | Group 4C Fuzzy Logic Medieval Chess AI Senior Project | https://github.com/arizonagranger/SeniorProjectFuzzyLogicChess | 1 | 1| 
-| 20210415T00:37:15Z | Null | https://github.com/opimentel-github/fuzzy-torch | 1 | 0| 
-| 20210415T00:31:16Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6197 | 1249| 
+| 20210415T12:42:14Z | Null | https://github.com/DEEPAKKK07/fuzzy-enigma | 0 | 0| 
+| 20210415T12:40:48Z | Null | https://github.com/Edelweislk/UTS-SimulasiFuzzyLogic | 0 | 0| 
+| 20210415T12:39:07Z | Null | https://github.com/Edelweislk/Simulasi-Fuzzy-Logic | 0 | 0| 
+| 20210415T12:20:11Z | Coverage-guided, in-process fuzzing for the JVM | https://github.com/CodeIntelligenceTesting/jazzer | 279 | 15| 
+| 20210415T12:19:37Z | This is a mini project i am currently working on to show my skills as a web dev. My friend suggested me to use github to show code to others so, I uploaded all the work i%ve done so far(except cloudinary file which contains credentials). there is still some work to do. | https://github.com/tisaravind/fuzzy-waddle | 0 | 0| 
+| 20210415T12:16:26Z | Golf totems | https://github.com/simonproudfoot/fuzzy-golf | 0 | 0| 
+| 20210415T12:16:03Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 2 | 3| 
+| 20210415T11:48:08Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6200 | 1250| 
+| 20210415T11:34:08Z | Fuzzing, analysis response and detect vulnerability web application | https://github.com/hoangthanhnguyen/bigdig | 0 | 0| 
+| 20210415T11:31:29Z | A case study of a fuzzer in the Java Language | https://github.com/fuzzing-unb/jfuzzer | 1 | 1| 
 
 
 
