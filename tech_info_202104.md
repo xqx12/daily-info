@@ -83,8 +83,9 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210416T00:36:36Z | The Izanami Framework is a phishing attacks framework, that use ARP spoof attack and DNS spoofing attack to redirect all LAN devices HTTP requests to a specified address to perform a Powerful Phishing attack, IZanami inject beef-xss hook.js file into each requested HTML page , to target and exploit users%s browsers. | https://github.com/yasserjanah/IZanamiFramework | 3 | 0| 
+| 20210416T00:35:57Z | Ded Security - Toolkit | https://github.com/dedsecubr/dedsecurity-framework | 6 | 2| 
 | 20210416T00:35:49Z | A simple pickle assembler to make handcrafting pickle bytecode easier. | https://github.com/gousaiyang/pickleassem | 0 | 0| 
-| 20210416T00:32:33Z | Ded Security - Toolkit | https://github.com/dedsecubr/dedsecurity-framework | 6 | 2| 
 | 20210416T00:02:31Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 21 | 8| 
 | 20210415T23:52:38Z | A collection of challenge writeups, CVE POC%s, and explanations | https://github.com/0xmanjoos/Exploit-Development | 1 | 1| 
 | 20210415T23:42:54Z | A simple exploit that I wrote for my old school website :)) | https://github.com/kn1pnc/etelg-ph | 0 | 0| 
@@ -92,7 +93,6 @@
 | 20210415T22:43:18Z | Extra goodies for GEF: Open repository for unfiltered contributions to the project. | https://github.com/hugsy/gef-extras | 56 | 25| 
 | 20210415T22:32:32Z | my https://exploit.education/ writeups | https://github.com/amirr0r/exploit-exercises | 0 | 0| 
 | 20210415T22:22:03Z | A python script file to statically and dynamically investigate and analyse binary files for buffer overflow exploits. | https://github.com/BroadbentT/BINARY-MASTER | 4 | 0| 
-| 20210415T22:21:49Z | Jenkins exploit for Servers without authentication | https://github.com/Hacker5preme/jenkins-exploit | 0 | 0| 
 
 
 # backdoor on Github 推荐
