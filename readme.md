@@ -83,6 +83,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210416T12:45:06Z | Null | https://github.com/mickey123422/fuzzz-web-project | 0 | 0| 
 | 20210416T12:41:36Z | Null | https://github.com/lianuva/fuzzy-waffle | 0 | 0| 
 | 20210416T12:04:20Z | Null | https://github.com/VeriBlock/fuzz-corpus | 0 | 1| 
 | 20210416T12:01:45Z | Null | https://github.com/pmutua/fuzzy-octo-engine | 0 | 0| 
@@ -92,7 +93,6 @@
 | 20210416T11:15:32Z | Add interface function for DecFuzzer | https://github.com/hz90937880/NewDecFuzzer | 0 | 0| 
 | 20210416T11:12:23Z | Null | https://github.com/sifatnabil/fuzzy_nodejs | 0 | 0| 
 | 20210416T11:12:05Z | Python scripts to fuzz test a MUD through telnet. | https://github.com/virthe/mudfuzz | 1 | 0| 
-| 20210416T11:04:54Z | Library and command line utility to do approximate string matching of a source against a bitext index and get matched source and target.  | https://github.com/SYSTRAN/fuzzy-match | 18 | 4| 
 
 
 
