@@ -55,7 +55,7 @@
 | 20210415T12:03:59Z | CVE-2021-25646 | CVE-2021-25646 Apache Druid 远程代码执行漏洞 Wker脚本 | https://github.com/givemefivw/CVE-2021-25646 | Apache Druid includes the ability to execute user-provided JavaScript code embedded in various types of requests. This functionality is intended for use in high-trust environments, and is disabled by default. However, in Druid 0.20.0 and earlier, it is possible for an authenticated user to send a specially-crafted request that forces Druid to run user-provided JavaScript code for that request, regardless of server configuration. This can be leveraged to execute code on the target machine with the privileges of the Druid server process.| 
 | 20210415T11:20:53Z | CVE-2020-14882 | Null | https://github.com/nice0e3/CVE-2020-14882_Exploit_Gui | Vulnerability in the Oracle WebLogic Server product of Oracle Fusion Middleware (component: Console). Supported versions that are affected are 10.3.6.0.0, 12.1.3.0.0, 12.2.1.3.0, 12.2.1.4.0 and 14.1.1.0.0. Easily exploitable vulnerability allows unauthenticated attacker with network access via HTTP to compromise Oracle WebLogic Server. Successful attacks of this vulnerability can result in takeover of Oracle WebLogic Server. CVSS 3.1 Base Score 9.8 (Confidentiality, Integrity and Availability impacts). CVSS Vector: (CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H).| 
 | 20210415T10:10:15Z | cve-2020-13777 | Zeek script to detect servers vulnerable to CVE-2020-13777 | https://github.com/0xxon/cve-2020-13777 | GnuTLS 3.6.x before 3.6.14 uses incorrect cryptography for encrypting a session ticket (a loss of confidentiality in TLS 1.2, and an authentication bypass in TLS 1.3). The earliest affected version is 3.6.4 (2018-09-24) because of an error in a 2018-09-18 commit. Until the first key rotation, the TLS server always uses wrong data in place of an encryption key derived from an application.| 
-| 20210415T10:07:36Z | cve-2020-0601 | Zeek package to detect CVE-2020-0601 | https://github.com/0xxon/cve-2020-0601 | | 
+| 20210415T10:07:36Z | cve-2020-0601 | Zeek package to detect CVE-2020-0601 | https://github.com/0xxon/cve-2020-0601 | A spoofing vulnerability exists in the way Windows CryptoAPI (Crypt32.dll) validates Elliptic Curve Cryptography (ECC) certificates.An attacker could exploit the vulnerability by using a spoofed code-signing certificate to sign a malicious executable, making it appear the file was from a trusted, legitimate source, aka %Windows CryptoAPI Spoofing Vulnerability%.| 
 
 
 # klee on Github 推荐
@@ -83,6 +83,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210416T01:07:53Z | 微信小程序-->还原 豆瓣电影 | https://github.com/qsbit/DouBan-wxExploit | 0 | 0| 
 | 20210416T01:03:07Z | Exploits project Hacking Command Center | https://github.com/chacka0101/exploits | 5 | 6| 
 | 20210416T01:02:28Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 21 | 8| 
 | 20210416T01:00:46Z | Monitor for latest exploits. Docker + sqlite + telegram bot | https://github.com/KazZey0/CVEMonitor | 0 | 0| 
@@ -92,7 +93,6 @@
 | 20210416T00:35:57Z | Ded Security - Toolkit | https://github.com/dedsecubr/dedsecurity-framework | 6 | 2| 
 | 20210416T00:35:49Z | A simple pickle assembler to make handcrafting pickle bytecode easier. | https://github.com/gousaiyang/pickleassem | 0 | 0| 
 | 20210415T23:52:38Z | A collection of challenge writeups, CVE POC%s, and explanations | https://github.com/0xmanjoos/Exploit-Development | 1 | 1| 
-| 20210415T23:42:54Z | A simple exploit that I wrote for my old school website :)) | https://github.com/kn1pnc/etelg-ph | 0 | 0| 
 
 
 # backdoor on Github 推荐
