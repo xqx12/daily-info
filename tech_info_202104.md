@@ -98,6 +98,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210416T01:20:41Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 210 | 34| 
 | 20210416T01:13:29Z | LeuxBackdoor 100% clean y Deobf UwU, Cualquier duda Mandarme MD Luscius#0001 | https://github.com/Luscius-Dev/LeuxBackdoor-0.6-DEOBF | 0 | 0| 
 | 20210416T00:10:30Z | Null | https://github.com/0xada4d/backdoor | 0 | 0| 
 | 20210415T19:15:10Z | A simple java backdoor | https://github.com/mav8557/JavaBackdoor | 0 | 0| 
@@ -107,7 +108,6 @@
 | 20210415T17:16:06Z | Null | https://github.com/Wrench56/Backdoor | 0 | 0| 
 | 20210415T14:51:29Z | A Potato-themed backdoor developed in C#.  | https://github.com/malwaredetective/spudnet | 0 | 0| 
 | 20210415T14:16:43Z | Abrir um backdoor utilizando o ESP32 e Arduino Leonardo Pro Micro | https://github.com/unifgabsantos/Backdoor_USB | 0 | 0| 
-| 20210415T11:44:18Z | Hidden backdoor attack on NMT | https://github.com/chichidd/HiddenBackdoorNMT | 0 | 0| 
 
 
 # fuzz on Github 推荐
