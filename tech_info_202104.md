@@ -55,7 +55,7 @@
 | 20210415T12:03:59Z | CVE-2021-25646 | CVE-2021-25646 Apache Druid 远程代码执行漏洞 Wker脚本 | https://github.com/givemefivw/CVE-2021-25646 | Apache Druid includes the ability to execute user-provided JavaScript code embedded in various types of requests. This functionality is intended for use in high-trust environments, and is disabled by default. However, in Druid 0.20.0 and earlier, it is possible for an authenticated user to send a specially-crafted request that forces Druid to run user-provided JavaScript code for that request, regardless of server configuration. This can be leveraged to execute code on the target machine with the privileges of the Druid server process.| 
 | 20210415T11:20:53Z | CVE-2020-14882 | Null | https://github.com/nice0e3/CVE-2020-14882_Exploit_Gui | Vulnerability in the Oracle WebLogic Server product of Oracle Fusion Middleware (component: Console). Supported versions that are affected are 10.3.6.0.0, 12.1.3.0.0, 12.2.1.3.0, 12.2.1.4.0 and 14.1.1.0.0. Easily exploitable vulnerability allows unauthenticated attacker with network access via HTTP to compromise Oracle WebLogic Server. Successful attacks of this vulnerability can result in takeover of Oracle WebLogic Server. CVSS 3.1 Base Score 9.8 (Confidentiality, Integrity and Availability impacts). CVSS Vector: (CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H).| 
 | 20210415T10:10:15Z | cve-2020-13777 | Zeek script to detect servers vulnerable to CVE-2020-13777 | https://github.com/0xxon/cve-2020-13777 | GnuTLS 3.6.x before 3.6.14 uses incorrect cryptography for encrypting a session ticket (a loss of confidentiality in TLS 1.2, and an authentication bypass in TLS 1.3). The earliest affected version is 3.6.4 (2018-09-24) because of an error in a 2018-09-18 commit. Until the first key rotation, the TLS server always uses wrong data in place of an encryption key derived from an application.| 
-| 20210415T10:07:36Z | cve-2020-0601 | Zeek package to detect CVE-2020-0601 | https://github.com/0xxon/cve-2020-0601 | | 
+| 20210415T10:07:36Z | cve-2020-0601 | Zeek package to detect CVE-2020-0601 | https://github.com/0xxon/cve-2020-0601 | A spoofing vulnerability exists in the way Windows CryptoAPI (Crypt32.dll) validates Elliptic Curve Cryptography (ECC) certificates.An attacker could exploit the vulnerability by using a spoofed code-signing certificate to sign a malicious executable, making it appear the file was from a trusted, legitimate source, aka %Windows CryptoAPI Spoofing Vulnerability%.| 
 
 
 # klee on Github 推荐
@@ -98,6 +98,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210416T01:13:29Z | LeuxBackdoor 100% clean y Deobf UwU, Cualquier duda Mandarme MD Luscius#0001 | https://github.com/Luscius-Dev/LeuxBackdoor-0.6-DEOBF | 0 | 0| 
 | 20210416T00:10:30Z | Null | https://github.com/0xada4d/backdoor | 0 | 0| 
 | 20210415T19:15:10Z | A simple java backdoor | https://github.com/mav8557/JavaBackdoor | 0 | 0| 
 | 20210415T18:58:55Z | A webshell that can bypass some system security | https://github.com/22XploiterCrew-Team/Gel4y-Mini-Shell-Backdoor | 25 | 5| 
@@ -107,7 +108,6 @@
 | 20210415T14:51:29Z | A Potato-themed backdoor developed in C#.  | https://github.com/malwaredetective/spudnet | 0 | 0| 
 | 20210415T14:16:43Z | Abrir um backdoor utilizando o ESP32 e Arduino Leonardo Pro Micro | https://github.com/unifgabsantos/Backdoor_USB | 0 | 0| 
 | 20210415T11:44:18Z | Hidden backdoor attack on NMT | https://github.com/chichidd/HiddenBackdoorNMT | 0 | 0| 
-| 20210415T11:11:46Z | Null | https://github.com/lishaofeng/NLP_Backdoor | 0 | 0| 
 
 
 # fuzz on Github 推荐
