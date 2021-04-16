@@ -83,13 +83,13 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210416T01:02:28Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 21 | 8| 
 | 20210416T01:00:46Z | Monitor for latest exploits. Docker + sqlite + telegram bot | https://github.com/KazZey0/CVEMonitor | 0 | 0| 
 | 20210416T00:50:47Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 12 | 8| 
 | 20210416T00:42:43Z | writeups for binary exploitation challenges | https://github.com/Bex-WriteUp/binary-exploitation | 0 | 0| 
 | 20210416T00:36:36Z | The Izanami Framework is a phishing attacks framework, that use ARP spoof attack and DNS spoofing attack to redirect all LAN devices HTTP requests to a specified address to perform a Powerful Phishing attack, IZanami inject beef-xss hook.js file into each requested HTML page , to target and exploit users%s browsers. | https://github.com/yasserjanah/IZanamiFramework | 3 | 0| 
 | 20210416T00:35:57Z | Ded Security - Toolkit | https://github.com/dedsecubr/dedsecurity-framework | 6 | 2| 
 | 20210416T00:35:49Z | A simple pickle assembler to make handcrafting pickle bytecode easier. | https://github.com/gousaiyang/pickleassem | 0 | 0| 
-| 20210416T00:02:31Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 21 | 8| 
 | 20210415T23:52:38Z | A collection of challenge writeups, CVE POC%s, and explanations | https://github.com/0xmanjoos/Exploit-Development | 1 | 1| 
 | 20210415T23:42:54Z | A simple exploit that I wrote for my old school website :)) | https://github.com/kn1pnc/etelg-ph | 0 | 0| 
 | 20210415T22:59:32Z | Sécurité des logiciels et exploitation de vulnérabilités | https://github.com/ppepos/inf600c | 4 | 0| 
