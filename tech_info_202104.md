@@ -83,6 +83,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210416T01:55:02Z | Vulmap 是一款 web 漏洞扫描和验证工具, 可对 webapps 进行漏洞扫描, 并且具备漏洞验证功能 | https://github.com/zhzyker/vulmap | 1226 | 221| 
 | 20210416T01:07:53Z | 微信小程序-->还原 豆瓣电影 | https://github.com/qsbit/DouBan-wxExploit | 0 | 0| 
 | 20210416T01:03:07Z | Exploits project Hacking Command Center | https://github.com/chacka0101/exploits | 5 | 6| 
 | 20210416T01:02:28Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 21 | 8| 
@@ -92,7 +93,6 @@
 | 20210416T00:36:36Z | The Izanami Framework is a phishing attacks framework, that use ARP spoof attack and DNS spoofing attack to redirect all LAN devices HTTP requests to a specified address to perform a Powerful Phishing attack, IZanami inject beef-xss hook.js file into each requested HTML page , to target and exploit users%s browsers. | https://github.com/yasserjanah/IZanamiFramework | 3 | 0| 
 | 20210416T00:35:57Z | Ded Security - Toolkit | https://github.com/dedsecubr/dedsecurity-framework | 6 | 2| 
 | 20210416T00:35:49Z | A simple pickle assembler to make handcrafting pickle bytecode easier. | https://github.com/gousaiyang/pickleassem | 0 | 0| 
-| 20210415T23:52:38Z | A collection of challenge writeups, CVE POC%s, and explanations | https://github.com/0xmanjoos/Exploit-Development | 1 | 1| 
 
 
 # backdoor on Github 推荐
