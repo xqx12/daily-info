@@ -16,6 +16,7 @@
 | 20210416 | 通过 Fuzz 发现 Telegrams animated stickers 的远程攻击漏洞。 | https://www.shielder.it/blog/2021/02/hunting-for-bugs-in-telegrams-animated-stickers-remote-attack-surface/| 
 | 20210416 | JTAGulator：辅助从目标设备上识别 OCD（On-chip debug） 接口的开源工具。OCD 接口可以提供对目标设备 chip-level 权限控制，便于提取程序或数据，修改寄存器内容。 | https://github.com/grandideastudio/jtagulator/blob/1.11/CHANGES.markdown| 
 | 20210416 | Attack Detection Fundamentals 2021 macOS - Lab #1：通过 Office 获取访问权限（包括沙箱穿透） | https://sec.today/pulses/60949952-6461-42d9-a963-57b905f28c4c/| 
+| 20210416 | Attack Detection Fundamentals 2021 macOS - Lab #1：通过 Office 获取访问权限（包括沙箱穿透） | https://labs.f-secure.com/blog/attack-detection-fundamentals-2021-macos-lab-1/| 
 
 
 # 安全维基 推荐
@@ -30,7 +31,7 @@
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
 | 20210416T08:02:37Z | CVE-2021-24086 | Proof of concept for CVE-2021-24086, a NULL dereference in tcpip.sys triggered remotely. | https://github.com/0vercl0k/CVE-2021-24086 | Windows TCP/IP Denial of Service Vulnerability| 
-| 20210416T07:55:48Z | CVE-2020-7461 | PoC for DHCP vulnerability (NAME:WRECK) in FreeBSD | https://github.com/knqyf263/CVE-2020-7461 | In FreeBSD 12.1-STABLE before r365010, 11.4-STABLE before r365011, 12.1-RELEASE before p9, 11.4-RELEASE before p3, and 11.3-RELEASE before p13, dhclient(8) fails to handle certain malformed input related to handling of DHCP option 119 resulting a heap overflow. The heap overflow could in principle be exploited to achieve remote code execution. The affected process runs with reduced privileges in a Capsicum sandbox, limiting the immediate impact of an exploit.| 
+| 20210416T07:55:48Z | CVE-2020-7461 | PoC for DHCP vulnerability (NAME:WRECK) in FreeBSD | https://github.com/knqyf263/CVE-2020-7461 | | 
 | 20210416T06:04:51Z | CVE-2021-21402 | CVE-2021-21402 Jellyfin任意文件读取 Wker脚本，可批量。 | https://github.com/givemefivw/CVE-2021-21402 | Jellyfin is a Free Software Media System. In Jellyfin before version 10.7.1, with certain endpoints, well crafted requests will allow arbitrary file read from a Jellyfin server%s file system. This issue is more prevalent when Windows is used as the host OS. Servers that are exposed to the public Internet are potentially at risk. This is fixed in version 10.7.1. As a workaround, users may be able to restrict some access by enforcing strict security permissions on their filesystem, however, it is recommended to update as soon as possible.| 
 | 20210416T05:40:58Z | CVE-2020-25078 | D-Link DCS系列摄像头账号密码信息泄露批量脚本 | https://github.com/S0por/CVE-2020-25078 | An issue was discovered on D-Link DCS-2530L before 1.06.01 Hotfix and DCS-2670L through 2.02 devices. The unauthenticated /config/getuser endpoint allows for remote administrator password disclosure.| 
 | 20210416T05:40:05Z | CVE-2021-26295 | Apache OFBiz rmi反序列化EXP(CVE-2021-26295) | https://github.com/S0por/CVE-2021-26295-Apache-OFBiz-EXP | Apache OFBiz has unsafe deserialization prior to 17.12.06. An unauthenticated attacker can use this vulnerability to successfully take over Apache OFBiz.| 
@@ -52,11 +53,11 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210416T12:02:32Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 21 | 8| 
 | 20210416T11:46:31Z | Exploit allowing to load arbitrary code on the PSX using only a memory card (no game needed) | https://github.com/brad-lin/FreePSXBoot | 147 | 12| 
 | 20210416T11:30:22Z | Jenkins exploit for Servers without authentication | https://github.com/Hacker5preme/jenkins-exploit | 0 | 0| 
 | 20210416T11:21:18Z | IC1 project part %Low% (Exploitation) | https://github.com/buykjk/ic1-project-low | 0 | 0| 
 | 20210416T11:16:04Z | Null | https://github.com/A0x01/exploit | 0 | 0| 
-| 20210416T11:02:29Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 21 | 8| 
 | 20210416T10:59:30Z | Eyou_Rce_Exploit | https://github.com/nice0e3/Eyou_Rce_Exploit | 1 | 0| 
 | 20210416T10:55:05Z | Null | https://github.com/th3ken-dev/TH3KEN-EDITON | 2 | 0| 
 | 20210416T10:50:30Z | Vulnerabilities exploitation examples, python | https://github.com/cocomelonc/vulnexipy | 5 | 1| 
