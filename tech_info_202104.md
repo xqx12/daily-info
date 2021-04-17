@@ -84,6 +84,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210417T12:54:22Z | Search for Unix binaries that can be exploited to bypass system security restrictions. | https://github.com/t0thkr1s/gtfo | 74 | 14| 
 | 20210417T12:49:22Z | CTF framework and exploit development library | https://github.com/Gallopsled/pwntools | 7769 | 1375| 
 | 20210417T12:46:14Z | My course work about basic binary exploitation.🤿 | https://github.com/whatsyourask/basics-of-pwn | 0 | 0| 
 | 20210417T12:35:12Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9297 | 1504| 
@@ -93,7 +94,6 @@
 | 20210417T11:39:10Z | A python script file to statically and dynamically investigate and analyse binary files for buffer overflow exploits. | https://github.com/BroadbentT/BINARY-MASTER | 4 | 0| 
 | 20210417T11:17:27Z | Null | https://github.com/hicwwq/OutageExploit-v1 | 1 | 1| 
 | 20210417T10:07:08Z | 2021hvv漏洞exp | https://github.com/smallpiggy/2021HVV-exploit | 2 | 0| 
-| 20210417T10:00:20Z | Unpack the full potential of your PlayStation 4. | https://github.com/ps4h3x/ps4h3x.xyz | 1 | 0| 
 
 
 # backdoor on Github 推荐
