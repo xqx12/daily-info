@@ -62,9 +62,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210417T01:45:45Z | Fuzzy matching for Neovim | https://github.com/amirrezaask/fuzzy.nvim | 25 | 1| 
-| 20210417T01:10:03Z | SSL and TLS protocol test suite and fuzzer | https://github.com/tlsfuzzer/tlsfuzzer | 375 | 87| 
-| 20210417T01:09:17Z | CS 4152 Project | https://github.com/nicbarone/Fuzzy-Kiwi | 0 | 0| 
+| 20210417T11:14:28Z | Null | https://github.com/malmarz/fuzzy-winner | 0 | 0| 
+| 20210417T11:14:06Z | An add-on filament autochanger for existing 3D printers, in duel-spool configuration. | https://github.com/FuzzyNoodle/Fuzzy-Spooder | 1 | 0| 
+| 20210417T10:48:00Z | This is a mini project i am currently working on to show my skills as a web dev. My friend suggested me to use github to show code to others so, I uploaded all the work i%ve done so far(except cloudinary file which contains credentials). there is still some work to do. | https://github.com/tisaravind/fuzzy-waddle | 0 | 0| 
+| 20210417T10:46:23Z | Python scripts to fuzz test a MUD through telnet. | https://github.com/virthe/mudfuzz | 1 | 0| 
+| 20210417T10:29:21Z | Null | https://github.com/JohenanLi/AggregateFuzzing | 0 | 0| 
+| 20210417T10:07:36Z | Simple SQL table fuzzing | https://github.com/PumpkinSeed/sqlfuzz | 82 | 9| 
+| 20210417T09:58:21Z | A collection of user-space Linux kernel specific guided fuzzers based on LKL | https://github.com/atrosinenko/kbdysch | 48 | 7| 
+| 20210417T09:44:18Z | Docker registry UI made with love | https://github.com/Tchoupinax/fuzzy-engine | 7 | 0| 
+| 20210417T09:34:36Z | ClusterFuzz官方文档中文翻译 | https://github.com/Vancir/clusterfuzz-document-cn | 0 | 0| 
+| 20210417T08:58:55Z | Null | https://github.com/hpkaur25/fuzzy-succotash | 0 | 0| 
 
 
 

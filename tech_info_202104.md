@@ -114,16 +114,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210417T01:45:45Z | Fuzzy matching for Neovim | https://github.com/amirrezaask/fuzzy.nvim | 25 | 1| 
-| 20210417T01:10:03Z | SSL and TLS protocol test suite and fuzzer | https://github.com/tlsfuzzer/tlsfuzzer | 375 | 87| 
-| 20210417T01:09:17Z | CS 4152 Project | https://github.com/nicbarone/Fuzzy-Kiwi | 0 | 0| 
-| 20210416T23:01:23Z | RESTler is the first stateful REST API fuzzing tool for automatically testing cloud services through their REST APIs and finding security and reliability bugs in these services. | https://github.com/microsoft/restler-fuzzer | 750 | 76| 
-| 20210416T21:58:22Z | Usermode code for the ARM OS fuzzer project | https://github.com/jprx/arm-os-fuzzer-usercode | 0 | 0| 
-| 20210416T21:43:35Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2315 | 124| 
-| 20210416T21:38:06Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6203 | 1250| 
-| 20210416T21:38:01Z | My custom buffer overflow fuzzer and exploit script | https://github.com/A1-exe/bufferoverflow | 0 | 0| 
-| 20210416T21:12:25Z | Security oriented software fuzzer. Supports evolutionary, feedback-driven fuzzing based on code coverage (SW and HW based) | https://github.com/google/honggfuzz | 2191 | 439| 
-| 20210416T20:44:27Z | Null | https://github.com/rochdiD/fuzzy-search | 0 | 0| 
+| 20210417T11:14:28Z | Null | https://github.com/malmarz/fuzzy-winner | 0 | 0| 
+| 20210417T11:14:06Z | An add-on filament autochanger for existing 3D printers, in duel-spool configuration. | https://github.com/FuzzyNoodle/Fuzzy-Spooder | 1 | 0| 
+| 20210417T10:48:00Z | This is a mini project i am currently working on to show my skills as a web dev. My friend suggested me to use github to show code to others so, I uploaded all the work i%ve done so far(except cloudinary file which contains credentials). there is still some work to do. | https://github.com/tisaravind/fuzzy-waddle | 0 | 0| 
+| 20210417T10:46:23Z | Python scripts to fuzz test a MUD through telnet. | https://github.com/virthe/mudfuzz | 1 | 0| 
+| 20210417T10:29:21Z | Null | https://github.com/JohenanLi/AggregateFuzzing | 0 | 0| 
+| 20210417T10:07:36Z | Simple SQL table fuzzing | https://github.com/PumpkinSeed/sqlfuzz | 82 | 9| 
+| 20210417T09:58:21Z | A collection of user-space Linux kernel specific guided fuzzers based on LKL | https://github.com/atrosinenko/kbdysch | 48 | 7| 
+| 20210417T09:44:18Z | Docker registry UI made with love | https://github.com/Tchoupinax/fuzzy-engine | 7 | 0| 
+| 20210417T09:34:36Z | ClusterFuzz官方文档中文翻译 | https://github.com/Vancir/clusterfuzz-document-cn | 0 | 0| 
+| 20210417T08:58:55Z | Null | https://github.com/hpkaur25/fuzzy-succotash | 0 | 0| 
 
 
 
