@@ -46,8 +46,8 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20210416T21:40:35Z | CVE-2021-24086 | Proof of concept for CVE-2021-24086, a NULL dereference in tcpip.sys triggered remotely. | https://github.com/0vercl0k/CVE-2021-24086 | | 
-| 20210416T20:49:41Z | CVE-2021-29447 | Null | https://github.com/motikan2010/CVE-2021-29447 | Wordpress is an open source CMS. A user with the ability to upload files (like an Author) can exploit an XML parsing issue in the Media Library leading to XXE attacks. This requires WordPress installation to be using PHP 8. Access to internal files is possible in a successful XXE attack. This has been patched in WordPress version 5.7.1, along with the older affected versions via a minor release. We strongly recommend you keep auto-updates enabled.| 
+| 20210416T21:40:35Z | CVE-2021-24086 | Proof of concept for CVE-2021-24086, a NULL dereference in tcpip.sys triggered remotely. | https://github.com/0vercl0k/CVE-2021-24086 | Windows TCP/IP Denial of Service Vulnerability| 
+| 20210416T20:49:41Z | CVE-2021-29447 | Null | https://github.com/motikan2010/CVE-2021-29447 | | 
 | 20210416T19:33:02Z | CVE-2021-22986 | Null | https://github.com/nice0e3/CVE-2021-22986_F5_BIG_IP_GUI_Exploit | On BIG-IP versions 16.0.x before 16.0.1.1, 15.1.x before 15.1.2.1, 14.1.x before 14.1.4, 13.1.x before 13.1.3.6, and 12.1.x before 12.1.5.3 amd BIG-IQ 7.1.0.x before 7.1.0.3 and 7.0.0.x before 7.0.0.2, the iControl REST interface has an unauthenticated remote command execution vulnerability. Note: Software versions which have reached End of Software Development (EoSD) are not evaluated.| 
 | 20210416T19:31:53Z | CVE-2020-14882 | Null | https://github.com/nice0e3/CVE-2020-14882_Exploit_Gui | Vulnerability in the Oracle WebLogic Server product of Oracle Fusion Middleware (component: Console). Supported versions that are affected are 10.3.6.0.0, 12.1.3.0.0, 12.2.1.3.0, 12.2.1.4.0 and 14.1.1.0.0. Easily exploitable vulnerability allows unauthenticated attacker with network access via HTTP to compromise Oracle WebLogic Server. Successful attacks of this vulnerability can result in takeover of Oracle WebLogic Server. CVSS 3.1 Base Score 9.8 (Confidentiality, Integrity and Availability impacts). CVSS Vector: (CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H).| 
 | 20210416T15:07:57Z | CVE-2020-9472 | CVE-2020-9472 构造文件 | https://github.com/john-dooe/CVE-2020-9472-poisoned-plugin | Umbraco CMS 8.5.3 allows an authenticated file upload (and consequently Remote Code Execution) via the Install Package functionality.| 
@@ -84,6 +84,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210417T00:31:50Z | Network Exploitation and Malware to use during a penetration test.  | https://github.com/crake7/Malware-Dev-and-Network-Exploitation-Tools | 0 | 0| 
 | 20210417T00:15:06Z | Learning Automatic Exploit Generation | https://github.com/shinmao/awesome-AEG | 0 | 0| 
 | 20210417T00:08:48Z | A windows post exploitation tool that contains a lot of features for information gathering and more. | https://github.com/0x1CA3/Crowbar | 6 | 0| 
 | 20210417T00:06:39Z | PS4 Exploit Host | https://github.com/Night-King-Host/Night-King-Host.github.io | 8 | 4| 
@@ -93,7 +94,6 @@
 | 20210416T23:40:59Z | Null | https://github.com/hicwwq/OutageExploit-v1 | 0 | 0| 
 | 20210416T23:34:51Z | Identifying and exploiting vulnerabilities on a target server while also investigating the attack%s characteristics using Kibana SIEM | https://github.com/gabalayan/Penetration-Testing-and-Incident-Response-Project | 0 | 0| 
 | 20210416T23:10:06Z | A collection of challenge writeups, CVE POC%s, and explanations | https://github.com/0xmanjoos/Exploit-Development | 1 | 1| 
-| 20210416T23:09:35Z | Security and Hacking Tools, Exploits, Proof of Concepts, Shellcodes, Scripts. | https://github.com/nullsecuritynet/tools | 1371 | 453| 
 
 
 # backdoor on Github 推荐
