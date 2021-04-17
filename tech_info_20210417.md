@@ -40,7 +40,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210417T12:27:32Z | My course work about basic binary exploitation.🤿 | https://github.com/whatsyourask/basics-of-pwn | 0 | 0| 
+| 20210417T12:32:04Z | My course work about basic binary exploitation.🤿 | https://github.com/whatsyourask/basics-of-pwn | 0 | 0| 
 | 20210417T12:02:33Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 21 | 8| 
 | 20210417T12:00:38Z | PS1 savegame exploit | https://github.com/socram8888/tonyhax | 253 | 7| 
 | 20210417T11:58:19Z | my https://exploit.education/ writeups | https://github.com/amirr0r/exploit-exercises | 0 | 0| 
