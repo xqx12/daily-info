@@ -58,7 +58,6 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210416T23:57:25Z | A windows post exploitation tool that contains a lot of features for information gathering and more. | https://github.com/0x1CA3/Crowbar | 5 | 0| 
 | 20210416T23:47:22Z | passive keyless entry exploit research | https://github.com/zeetulsa/pke | 1 | 0| 
 | 20210416T23:44:35Z | Null | https://github.com/tedtag/exploits | 0 | 0| 
 | 20210416T23:40:59Z | Null | https://github.com/hicwwq/OutageExploit-v1 | 0 | 0| 
@@ -68,6 +67,7 @@
 | 20210416T23:02:30Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 21 | 8| 
 | 20210416T23:01:09Z | PS4 Gentoo Exploit Host for 5.05 FW with GoldHEN v1.1 Coded by SiSTRo / Port by Joonie86 | https://github.com/xforce505/xforce505.github.io | 0 | 0| 
 | 20210416T22:40:39Z | dockerized version of https://github.com/Al-Azif/ps4-exploit-host/releases | https://github.com/phixion/psx-docker | 0 | 0| 
+| 20210416T22:20:45Z | This study has exploited correlation analysis and machine learning-based algorithms to identify relevant attributes in the used cars dataset which has a significant impact on predicting a used car%s price. | https://github.com/xizhao1019/UsedCars-Analysis | 0 | 0| 
 
 
 # backdoor on Github 推荐
