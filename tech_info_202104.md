@@ -46,14 +46,14 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20210417T11:45:38Z | CVE-2021-29447 | Null | https://github.com/motikan2010/CVE-2021-29447 | | 
+| 20210417T11:45:38Z | CVE-2021-29447 | Null | https://github.com/motikan2010/CVE-2021-29447 | Wordpress is an open source CMS. A user with the ability to upload files (like an Author) can exploit an XML parsing issue in the Media Library leading to XXE attacks. This requires WordPress installation to be using PHP 8. Access to internal files is possible in a successful XXE attack. This has been patched in WordPress version 5.7.1, along with the older affected versions via a minor release. We strongly recommend you keep auto-updates enabled.| 
 | 20210417T08:17:49Z | CVE-2020-9472 | CVE-2020-9472 构造文件 | https://github.com/john-dooe/CVE-2020-9472 | Umbraco CMS 8.5.3 allows an authenticated file upload (and consequently Remote Code Execution) via the Install Package functionality.| 
 | 20210417T06:54:36Z | CVE-2021-9999 | 张师傅牛逼 | https://github.com/Reach-Z/CVE-2021-9999 | 未查询到CVE信息| 
 | 20210417T06:10:53Z | CVE-2020-14882 | Null | https://github.com/nice0e3/CVE-2020-14882_Exploit_Gui | Vulnerability in the Oracle WebLogic Server product of Oracle Fusion Middleware (component: Console). Supported versions that are affected are 10.3.6.0.0, 12.1.3.0.0, 12.2.1.3.0, 12.2.1.4.0 and 14.1.1.0.0. Easily exploitable vulnerability allows unauthenticated attacker with network access via HTTP to compromise Oracle WebLogic Server. Successful attacks of this vulnerability can result in takeover of Oracle WebLogic Server. CVSS 3.1 Base Score 9.8 (Confidentiality, Integrity and Availability impacts). CVSS Vector: (CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H).| 
 | 20210417T04:09:20Z | CVE-2021-22192 | CVE-2021-22192 靶场： 未授权用户 RCE 漏洞 | https://github.com/lyy289065406/CVE-2021-22192 | An issue has been discovered in GitLab CE/EE affecting all versions starting from 13.2 allowing unauthorized authenticated users to execute arbitrary code on the server.| 
 | 20210417T03:26:50Z | CVE-2020-17519 | CVE-2020-17519 Cheetah | https://github.com/givemefivw/CVE-2020-17519 | A change introduced in Apache Flink 1.11.0 (and released in 1.11.1 and 1.11.2 as well) allows attackers to read any file on the local filesystem of the JobManager through the REST interface of the JobManager process. Access is restricted to files accessible by the JobManager process. All users should upgrade to Flink 1.11.3 or 1.12.0 if their Flink instance(s) are exposed. The issue was fixed in commit b561010b0ee741543c3953306037f00d7a9f0801 from apache/flink:master.| 
 | 20210417T01:29:49Z | CVE-2021-30481 | https://nvd.nist.gov/vuln/detail/CVE-2021-30481 | https://github.com/floesen/CVE-2021-30481 | Valve Steam through 2021-04-10, when a Source engine game is installed, allows remote authenticated users to execute arbitrary code because of a buffer overflow that occurs for a Steam invite after one click.| 
-| 20210416T21:40:35Z | CVE-2021-24086 | Proof of concept for CVE-2021-24086, a NULL dereference in tcpip.sys triggered remotely. | https://github.com/0vercl0k/CVE-2021-24086 | Windows TCP/IP Denial of Service Vulnerability| 
+| 20210416T21:40:35Z | CVE-2021-24086 | Proof of concept for CVE-2021-24086, a NULL dereference in tcpip.sys triggered remotely. | https://github.com/0vercl0k/CVE-2021-24086 | | 
 | 20210416T19:33:02Z | CVE-2021-22986 | Null | https://github.com/nice0e3/CVE-2021-22986_F5_BIG_IP_GUI_Exploit | On BIG-IP versions 16.0.x before 16.0.1.1, 15.1.x before 15.1.2.1, 14.1.x before 14.1.4, 13.1.x before 13.1.3.6, and 12.1.x before 12.1.5.3 amd BIG-IQ 7.1.0.x before 7.1.0.3 and 7.0.0.x before 7.0.0.2, the iControl REST interface has an unauthenticated remote command execution vulnerability. Note: Software versions which have reached End of Software Development (EoSD) are not evaluated.| 
 | 20210416T15:07:57Z | CVE-2020-9472 | CVE-2020-9472 构造文件 | https://github.com/john-dooe/CVE-2020-9472-poisoned-plugin | Umbraco CMS 8.5.3 allows an authenticated file upload (and consequently Remote Code Execution) via the Install Package functionality.| 
 
@@ -84,6 +84,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210417T12:49:22Z | CTF framework and exploit development library | https://github.com/Gallopsled/pwntools | 7769 | 1375| 
 | 20210417T12:46:14Z | My course work about basic binary exploitation.🤿 | https://github.com/whatsyourask/basics-of-pwn | 0 | 0| 
 | 20210417T12:35:12Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9297 | 1504| 
 | 20210417T12:02:33Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 21 | 8| 
@@ -93,12 +94,12 @@
 | 20210417T11:17:27Z | Null | https://github.com/hicwwq/OutageExploit-v1 | 1 | 1| 
 | 20210417T10:07:08Z | 2021hvv漏洞exp | https://github.com/smallpiggy/2021HVV-exploit | 2 | 0| 
 | 20210417T10:00:20Z | Unpack the full potential of your PlayStation 4. | https://github.com/ps4h3x/ps4h3x.xyz | 1 | 0| 
-| 20210417T09:30:49Z | CTF framework and exploit development library | https://github.com/Gallopsled/pwntools | 7768 | 1375| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210417T12:49:52Z | Backdoor software in python | https://github.com/jaanonim/Backdoor | 0 | 0| 
 | 20210417T11:59:56Z | A webshell that can bypass some system security | https://github.com/22XploiterCrew-Team/Gel4y-Mini-Shell-Backdoor | 35 | 10| 
 | 20210417T08:16:57Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 211 | 34| 
 | 20210416T21:10:48Z | LeuxBackdoor 100% clean y Deobf UwU, Cualquier duda Mandarme MD Luscius#0001 | https://github.com/Luscius-Dev/LeuxBackdoor-0.6-DEOBF | 1 | 1| 
@@ -108,7 +109,6 @@
 | 20210416T19:17:18Z | This is a fully functional Backdoor program, which is made in python 2. It includes many useful and important functions which are related to CyberSecurity and Hacking. | https://github.com/Muhammad-Haris-Arain/Advance-Backdoor-Program | 0 | 0| 
 | 20210416T16:15:29Z | Null | https://github.com/subhomoy-roy-choudhury/BackDoor_Script | 0 | 0| 
 | 20210416T13:16:48Z | Null | https://github.com/mikkelskov1/backdoor2 | 0 | 0| 
-| 20210416T12:14:57Z | Null | https://github.com/sanjayVontela/Backdoor | 0 | 0| 
 
 
 # fuzz on Github 推荐
