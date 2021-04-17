@@ -46,25 +46,25 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20210417T01:29:49Z | CVE-2021-30481 | https://nvd.nist.gov/vuln/detail/CVE-2021-30481 | https://github.com/floesen/CVE-2021-30481 | | 
+| 20210417T11:45:38Z | CVE-2021-29447 | Null | https://github.com/motikan2010/CVE-2021-29447 | Wordpress is an open source CMS. A user with the ability to upload files (like an Author) can exploit an XML parsing issue in the Media Library leading to XXE attacks. This requires WordPress installation to be using PHP 8. Access to internal files is possible in a successful XXE attack. This has been patched in WordPress version 5.7.1, along with the older affected versions via a minor release. We strongly recommend you keep auto-updates enabled.| 
+| 20210417T08:17:49Z | CVE-2020-9472 | CVE-2020-9472 构造文件 | https://github.com/john-dooe/CVE-2020-9472 | Umbraco CMS 8.5.3 allows an authenticated file upload (and consequently Remote Code Execution) via the Install Package functionality.| 
+| 20210417T06:54:36Z | CVE-2021-9999 | 张师傅牛逼 | https://github.com/Reach-Z/CVE-2021-9999 | 未查询到CVE信息| 
+| 20210417T06:10:53Z | CVE-2020-14882 | Null | https://github.com/nice0e3/CVE-2020-14882_Exploit_Gui | Vulnerability in the Oracle WebLogic Server product of Oracle Fusion Middleware (component: Console). Supported versions that are affected are 10.3.6.0.0, 12.1.3.0.0, 12.2.1.3.0, 12.2.1.4.0 and 14.1.1.0.0. Easily exploitable vulnerability allows unauthenticated attacker with network access via HTTP to compromise Oracle WebLogic Server. Successful attacks of this vulnerability can result in takeover of Oracle WebLogic Server. CVSS 3.1 Base Score 9.8 (Confidentiality, Integrity and Availability impacts). CVSS Vector: (CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H).| 
+| 20210417T04:09:20Z | CVE-2021-22192 | CVE-2021-22192 靶场： 未授权用户 RCE 漏洞 | https://github.com/lyy289065406/CVE-2021-22192 | An issue has been discovered in GitLab CE/EE affecting all versions starting from 13.2 allowing unauthorized authenticated users to execute arbitrary code on the server.| 
+| 20210417T03:26:50Z | CVE-2020-17519 | CVE-2020-17519 Cheetah | https://github.com/givemefivw/CVE-2020-17519 | A change introduced in Apache Flink 1.11.0 (and released in 1.11.1 and 1.11.2 as well) allows attackers to read any file on the local filesystem of the JobManager through the REST interface of the JobManager process. Access is restricted to files accessible by the JobManager process. All users should upgrade to Flink 1.11.3 or 1.12.0 if their Flink instance(s) are exposed. The issue was fixed in commit b561010b0ee741543c3953306037f00d7a9f0801 from apache/flink:master.| 
+| 20210417T01:29:49Z | CVE-2021-30481 | https://nvd.nist.gov/vuln/detail/CVE-2021-30481 | https://github.com/floesen/CVE-2021-30481 | Valve Steam through 2021-04-10, when a Source engine game is installed, allows remote authenticated users to execute arbitrary code because of a buffer overflow that occurs for a Steam invite after one click.| 
 | 20210416T21:40:35Z | CVE-2021-24086 | Proof of concept for CVE-2021-24086, a NULL dereference in tcpip.sys triggered remotely. | https://github.com/0vercl0k/CVE-2021-24086 | Windows TCP/IP Denial of Service Vulnerability| 
-| 20210416T20:49:41Z | CVE-2021-29447 | Null | https://github.com/motikan2010/CVE-2021-29447 | Wordpress is an open source CMS. A user with the ability to upload files (like an Author) can exploit an XML parsing issue in the Media Library leading to XXE attacks. This requires WordPress installation to be using PHP 8. Access to internal files is possible in a successful XXE attack. This has been patched in WordPress version 5.7.1, along with the older affected versions via a minor release. We strongly recommend you keep auto-updates enabled.| 
 | 20210416T19:33:02Z | CVE-2021-22986 | Null | https://github.com/nice0e3/CVE-2021-22986_F5_BIG_IP_GUI_Exploit | On BIG-IP versions 16.0.x before 16.0.1.1, 15.1.x before 15.1.2.1, 14.1.x before 14.1.4, 13.1.x before 13.1.3.6, and 12.1.x before 12.1.5.3 amd BIG-IQ 7.1.0.x before 7.1.0.3 and 7.0.0.x before 7.0.0.2, the iControl REST interface has an unauthenticated remote command execution vulnerability. Note: Software versions which have reached End of Software Development (EoSD) are not evaluated.| 
-| 20210416T19:31:53Z | CVE-2020-14882 | Null | https://github.com/nice0e3/CVE-2020-14882_Exploit_Gui | Vulnerability in the Oracle WebLogic Server product of Oracle Fusion Middleware (component: Console). Supported versions that are affected are 10.3.6.0.0, 12.1.3.0.0, 12.2.1.3.0, 12.2.1.4.0 and 14.1.1.0.0. Easily exploitable vulnerability allows unauthenticated attacker with network access via HTTP to compromise Oracle WebLogic Server. Successful attacks of this vulnerability can result in takeover of Oracle WebLogic Server. CVSS 3.1 Base Score 9.8 (Confidentiality, Integrity and Availability impacts). CVSS Vector: (CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H).| 
 | 20210416T15:07:57Z | CVE-2020-9472 | CVE-2020-9472 构造文件 | https://github.com/john-dooe/CVE-2020-9472-poisoned-plugin | Umbraco CMS 8.5.3 allows an authenticated file upload (and consequently Remote Code Execution) via the Install Package functionality.| 
-| 20210416T13:56:27Z | CVE-2021-3156 | CVE-2021-3156: Sudo heap overflow exploit for Debain 10 | https://github.com/0xdevil/CVE-2021-3156 | Sudo before 1.9.5p2 contains an off-by-one error that can result in a heap-based buffer overflow, which allows privilege escalation to root via %sudoedit -s% and a command-line argument that ends with a single backslash character.| 
-| 20210416T07:55:48Z | CVE-2020-7461 | PoC for DHCP vulnerability (NAME:WRECK) in FreeBSD | https://github.com/knqyf263/CVE-2020-7461 | | 
-| 20210416T06:04:51Z | CVE-2021-21402 | CVE-2021-21402 Jellyfin任意文件读取 Wker脚本，可批量。 | https://github.com/givemefivw/CVE-2021-21402 | Jellyfin is a Free Software Media System. In Jellyfin before version 10.7.1, with certain endpoints, well crafted requests will allow arbitrary file read from a Jellyfin server%s file system. This issue is more prevalent when Windows is used as the host OS. Servers that are exposed to the public Internet are potentially at risk. This is fixed in version 10.7.1. As a workaround, users may be able to restrict some access by enforcing strict security permissions on their filesystem, however, it is recommended to update as soon as possible.| 
-| 20210416T05:40:58Z | CVE-2020-25078 | D-Link DCS系列摄像头账号密码信息泄露批量脚本 | https://github.com/S0por/CVE-2020-25078 | An issue was discovered on D-Link DCS-2530L before 1.06.01 Hotfix and DCS-2670L through 2.02 devices. The unauthenticated /config/getuser endpoint allows for remote administrator password disclosure.| 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210417T10:14:10Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1673 | 489| 
+| 20210417T04:07:03Z | Git Blog | https://github.com/klee30810/klee30810.github.io | 0 | 0| 
 | 20210416T10:15:55Z | test | https://github.com/xenoney/kleee | 0 | 0| 
-| 20210415T22:13:51Z | Git Blog | https://github.com/klee30810/klee30810.github.io | 0 | 0| 
 | 20210415T16:35:20Z | RVT is a collection of tools/libraries to support both static and dynamic verification of Rust programs. | https://github.com/project-oak/rust-verification-tools | 123 | 12| 
-| 20210415T10:17:46Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1672 | 489| 
 | 20210415T02:12:28Z | Spring 2021 Geography 817 work folder  | https://github.com/klee12/klee12.github.io | 0 | 0| 
 | 20210414T16:58:57Z | Null | https://github.com/dorawei/klee-tc | 0 | 0| 
 | 20210413T14:28:13Z | A very fun and useful bot containing many features.  | https://github.com/quantix-dev/Kleebot | 1 | 0| 
@@ -84,22 +84,23 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210417T01:28:26Z | Bem Vindo Ao Zyr0-Exploit | https://github.com/D4rkZyr0/Zyr0-Exploit | 0 | 0| 
-| 20210417T01:24:13Z | The AWS exploitation framework, designed for testing the security of Amazon Web Services environments. | https://github.com/RhinoSecurityLabs/pacu | 1984 | 358| 
-| 20210417T01:21:35Z | Various techniques for exploiting Windows | https://github.com/billchaison/Windows-Trix | 5 | 0| 
-| 20210417T01:02:30Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 21 | 8| 
-| 20210417T00:50:48Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 12 | 9| 
-| 20210417T00:32:42Z | Network Exploitation and Malware to use during a penetration test.  | https://github.com/crake7/Malware-Dev-and-Network-Exploitation-Tools | 0 | 0| 
-| 20210417T00:15:06Z | Learning Automatic Exploit Generation | https://github.com/shinmao/awesome-AEG | 0 | 0| 
-| 20210417T00:08:48Z | A windows post exploitation tool that contains a lot of features for information gathering and more. | https://github.com/0x1CA3/Crowbar | 6 | 0| 
-| 20210417T00:06:39Z | PS4 Exploit Host | https://github.com/Night-King-Host/Night-King-Host.github.io | 8 | 4| 
-| 20210416T23:47:22Z | passive keyless entry exploit research | https://github.com/zeetulsa/pke | 1 | 0| 
+| 20210417T12:00:38Z | PS1 savegame exploit | https://github.com/socram8888/tonyhax | 253 | 7| 
+| 20210417T11:58:19Z | my https://exploit.education/ writeups | https://github.com/amirr0r/exploit-exercises | 0 | 0| 
+| 20210417T11:39:10Z | A python script file to statically and dynamically investigate and analyse binary files for buffer overflow exploits. | https://github.com/BroadbentT/BINARY-MASTER | 4 | 0| 
+| 20210417T11:17:27Z | Null | https://github.com/hicwwq/OutageExploit-v1 | 1 | 1| 
+| 20210417T11:02:27Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 21 | 8| 
+| 20210417T10:07:08Z | 2021hvv漏洞exp | https://github.com/smallpiggy/2021HVV-exploit | 2 | 0| 
+| 20210417T10:00:20Z | Unpack the full potential of your PlayStation 4. | https://github.com/ps4h3x/ps4h3x.xyz | 1 | 0| 
+| 20210417T09:30:49Z | CTF framework and exploit development library | https://github.com/Gallopsled/pwntools | 7768 | 1375| 
+| 20210417T09:28:38Z | Abstract: The Bellman operator constitutes the foundation for the dynamic programming (DP) algorithm. An alternative is presented by the Gauss-Seidel version of the DP algorithm, which, in contrast to the Bellman operator, updates one state at a time, while incorporating into the computation the interim results. The provably faster algorithmic convergence of the Gauss-Seidel version comes at the price of an inherent sequentiality, which prevents from the exploitation of modern multi-core systems. The project first introduces the new operator, namely, the Randomized Mini-Batch Gauss-Seidel operator, which aims at realizing the trade-off between the faster convergence of the Gauss-Seidel DP algorithm and the parallelization capability offered by the Bellman operator. After the introduction of the new operator, a theoretical analysis for validating its fundamental properties is conducted, which allows to successfully deploy it in the main dynamic programming schemes. Furthermore, the theoretical analysis compares the convergence of the DP algorithm based on the new operator with that of the counterparts, shedding lights on the algorithmic advantages of the new formulation. Finally, an extensive experimental evaluation of the newly introduced operator is conducted when used in the modified policy iteration and value iteration methods. In accordance with the theoretical derivations, the numerical results show the competitive performance of the proposed operator and its superior flexibility, which allows to adapt the efficiency of its iterations to different structures of MDPs and hardware setups.   | https://github.com/maxmartinezruts/Randomized-Mini-Batch-Gauss-Seidel-Operator | 0 | 0| 
+| 20210417T09:28:05Z | Null | https://github.com/th3ken-dev/TH3KEN-EDITON | 2 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210417T01:29:18Z | A webshell that can bypass some system security | https://github.com/22XploiterCrew-Team/Gel4y-Mini-Shell-Backdoor | 34 | 8| 
+| 20210417T11:59:56Z | A webshell that can bypass some system security | https://github.com/22XploiterCrew-Team/Gel4y-Mini-Shell-Backdoor | 35 | 10| 
+| 20210417T08:16:57Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 211 | 34| 
 | 20210416T21:10:48Z | LeuxBackdoor 100% clean y Deobf UwU, Cualquier duda Mandarme MD Luscius#0001 | https://github.com/Luscius-Dev/LeuxBackdoor-0.6-DEOBF | 1 | 1| 
 | 20210416T20:02:48Z | Null | https://github.com/ChGunay/Backdoor-ArkaKapi | 0 | 0| 
 | 20210416T19:36:04Z | PCI Express DIY hacking toolkit for Xilinx SP605 | https://github.com/Cr4sh/s6_pcie_microblaze | 318 | 79| 
@@ -108,7 +109,6 @@
 | 20210416T16:15:29Z | Null | https://github.com/subhomoy-roy-choudhury/BackDoor_Script | 0 | 0| 
 | 20210416T13:16:48Z | Null | https://github.com/mikkelskov1/backdoor2 | 0 | 0| 
 | 20210416T12:14:57Z | Null | https://github.com/sanjayVontela/Backdoor | 0 | 0| 
-| 20210416T08:01:57Z | Null | https://github.com/Wrench56/Backdoor | 0 | 0| 
 
 
 # fuzz on Github 推荐
