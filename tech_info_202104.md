@@ -84,6 +84,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210418T01:06:46Z | bespoke tooling for offensive security%s Windows Usermode Exploit Dev course (OSED) | https://github.com/epi052/osed-scripts | 14 | 8| 
 | 20210418T01:02:27Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 21 | 8| 
 | 20210418T00:02:21Z | Null | https://github.com/Whomever0/exploit-scripts | 0 | 0| 
 | 20210417T22:47:07Z | Bukkit/BungeeCord plugin that aims on fixing Exploits in your Minecraft network. [Requires HamsterAPI to work] | https://github.com/2lstudios-mc/ExploitFixer | 81 | 23| 
@@ -93,7 +94,6 @@
 | 20210417T22:34:28Z | No credit needed! | https://github.com/Roblotastical/Exploit-Template | 0 | 0| 
 | 20210417T22:28:23Z | 7 days of Red Teaming TTPs that your favorite tools may use to acheive a post exploitation goal | https://github.com/jsecu/7DaysofRed | 1 | 0| 
 | 20210417T22:26:00Z | Collection of bash scripts I wrote to make my life easier or test myself that you may find useful. | https://github.com/tobor88/Bash | 12 | 4| 
-| 20210417T22:11:11Z | 存储各类渗透测试 工具/exp等 | https://github.com/ClassBluer/Exploit_Tools | 0 | 0| 
 
 
 # backdoor on Github 推荐
