@@ -84,7 +84,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210418T01:44:17Z | Hack/Exploits for https://krunker.io/ | https://github.com/glixzzy/krunker.io-hacks | 7 | 27| 
+| 20210418T01:54:07Z | Hack/Exploits for https://krunker.io/ | https://github.com/glixzzy/krunker.io-hacks | 7 | 27| 
 | 20210418T01:06:46Z | bespoke tooling for offensive security%s Windows Usermode Exploit Dev course (OSED) | https://github.com/epi052/osed-scripts | 14 | 8| 
 | 20210418T01:02:27Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 21 | 8| 
 | 20210418T00:02:21Z | Null | https://github.com/Whomever0/exploit-scripts | 0 | 0| 
