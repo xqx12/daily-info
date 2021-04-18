@@ -13,6 +13,9 @@
 | --- | --- | ---| 
 | 20210418 | 安全招聘汇总 , 第十三期 | https://mp.weixin.qq.com/s/I6F0GP_lPcdc2Zh8hc_T4w| 
 | 20210418 | 三款开源HIDS功能对比评估 | https://mp.weixin.qq.com/s/6zLrq-jfkaQWBdeNO2RaYQ| 
+| 20210418 | 什么是安全架构《二》 | https://iami.xyz/Security-Architecture-Review-II/| 
+| 20210418 | 什么是安全架构 | https://iami.xyz/Security-Architecture-Review/| 
+| 20210418 | 什么是安全架构《三》 | https://iami.xyz/Security-Architecture-Review-III/| 
 
 
 # CVE Github 推荐

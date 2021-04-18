@@ -33,14 +33,14 @@
 | --- | --- | ---| 
 | 20210418 | 安全招聘汇总 , 第十三期 | https://mp.weixin.qq.com/s/I6F0GP_lPcdc2Zh8hc_T4w| 
 | 20210418 | 三款开源HIDS功能对比评估 | https://mp.weixin.qq.com/s/6zLrq-jfkaQWBdeNO2RaYQ| 
+| 20210418 | 什么是安全架构《二》 | https://iami.xyz/Security-Architecture-Review-II/| 
+| 20210418 | 什么是安全架构 | https://iami.xyz/Security-Architecture-Review/| 
+| 20210418 | 什么是安全架构《三》 | https://iami.xyz/Security-Architecture-Review-III/| 
 | 20210416 | 哥斯拉插件开发指南——初入茅庐 | https://mp.weixin.qq.com/s/Q2eFRQQCEVf4bf_jNsWX2g| 
 | 20210416 | Spring Boot中关于%2e的Trick | http://rui0.cn/archives/1643| 
 | 20210416 | Driftingblues5靶机实战 | https://www.sec-in.com/article/1021| 
 | 20210416 | 可扩展跨平台网络安全工具套件 CaptfEncoder v2.0.0 发布 | https://mp.weixin.qq.com/s?__biz=MzI0ODU5Mzg0NA==&mid=2247483998&idx=1&sn=baaa69c5576a1e52b7d8aeb9482e1cf3&chksm=e99f2e85dee8a79304a5535dbf6c77e9f9def6b2a7438c73e28792ac5ea3c628a02204d116e6&token=2122222341&lang=zh_CN#rd| 
 | 20210415 | CobaltStrike上线Chrome 0day | https://misakikata.github.io/2021/04/CobaltStrike%E4%B8%8A%E7%BA%BFChrome-0day/| 
-| 20210415 | 深入 .NET ViewState 反序列化及其利用 | https://mp.weixin.qq.com/s/RlY5HL_ak4G8EdcXyevWDg| 
-| 20210415 | 推特Chrome 0.5day漏洞分析 | https://mp.weixin.qq.com/s/O81Kw-ujcbjY_1S6dFKpxQ| 
-| 20210415 | “域前置Cobalt Strike”之踩坑 | https://mp.weixin.qq.com/s/Wh-A3qiyrjPv0KzYeAS-Xw| 
 
 
 # CVE Github 推荐
