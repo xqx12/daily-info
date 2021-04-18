@@ -21,7 +21,7 @@
 | 20210417T06:54:36Z | CVE-2021-9999 | 张师傅牛逼 | https://github.com/Reach-Z/CVE-2021-9999 | 未查询到CVE信息| 
 | 20210417T06:10:53Z | CVE-2020-14882 | Null | https://github.com/nice0e3/CVE-2020-14882_Exploit_Gui | Vulnerability in the Oracle WebLogic Server product of Oracle Fusion Middleware (component: Console). Supported versions that are affected are 10.3.6.0.0, 12.1.3.0.0, 12.2.1.3.0, 12.2.1.4.0 and 14.1.1.0.0. Easily exploitable vulnerability allows unauthenticated attacker with network access via HTTP to compromise Oracle WebLogic Server. Successful attacks of this vulnerability can result in takeover of Oracle WebLogic Server. CVSS 3.1 Base Score 9.8 (Confidentiality, Integrity and Availability impacts). CVSS Vector: (CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H).| 
 | 20210417T04:09:20Z | CVE-2021-22192 | CVE-2021-22192 靶场： 未授权用户 RCE 漏洞 | https://github.com/lyy289065406/CVE-2021-22192 | An issue has been discovered in GitLab CE/EE affecting all versions starting from 13.2 allowing unauthorized authenticated users to execute arbitrary code on the server.| 
-| 20210417T03:26:50Z | CVE-2020-17519 | CVE-2020-17519 Cheetah | https://github.com/givemefivw/CVE-2020-17519 | A change introduced in Apache Flink 1.11.0 (and released in 1.11.1 and 1.11.2 as well) allows attackers to read any file on the local filesystem of the JobManager through the REST interface of the JobManager process. Access is restricted to files accessible by the JobManager process. All users should upgrade to Flink 1.11.3 or 1.12.0 if their Flink instance(s) are exposed. The issue was fixed in commit b561010b0ee741543c3953306037f00d7a9f0801 from apache/flink:master.| 
+| 20210417T03:26:50Z | CVE-2020-17519 | CVE-2020-17519 Cheetah | https://github.com/givemefivw/CVE-2020-17519 | | 
 | 20210417T01:29:49Z | CVE-2021-30481 | https://nvd.nist.gov/vuln/detail/CVE-2021-30481 | https://github.com/floesen/CVE-2021-30481 | Valve Steam through 2021-04-10, when a Source engine game is installed, allows remote authenticated users to execute arbitrary code because of a buffer overflow that occurs for a Steam invite after one click.| 
 
 
@@ -71,16 +71,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210417T12:16:00Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 2 | 3| 
-| 20210417T12:08:31Z | An add-on filament autochanger for existing 3D printers, in duel-spool configuration. | https://github.com/FuzzyNoodle/Fuzzy-Spooder | 1 | 0| 
-| 20210417T11:14:28Z | Null | https://github.com/malmarz/fuzzy-winner | 0 | 0| 
-| 20210417T10:48:00Z | This is a mini project i am currently working on to show my skills as a web dev. My friend suggested me to use github to show code to others so, I uploaded all the work i%ve done so far(except cloudinary file which contains credentials). there is still some work to do. | https://github.com/tisaravind/fuzzy-waddle | 0 | 0| 
-| 20210417T10:46:23Z | Python scripts to fuzz test a MUD through telnet. | https://github.com/virthe/mudfuzz | 1 | 0| 
-| 20210417T10:29:21Z | Null | https://github.com/JohenanLi/AggregateFuzzing | 0 | 0| 
-| 20210417T10:07:36Z | Simple SQL table fuzzing | https://github.com/PumpkinSeed/sqlfuzz | 82 | 9| 
-| 20210417T09:58:21Z | A collection of user-space Linux kernel specific guided fuzzers based on LKL | https://github.com/atrosinenko/kbdysch | 48 | 7| 
-| 20210417T09:44:18Z | Docker registry UI made with love | https://github.com/Tchoupinax/fuzzy-engine | 7 | 0| 
-| 20210417T09:34:36Z | ClusterFuzz官方文档中文翻译 | https://github.com/Vancir/clusterfuzz-document-cn | 0 | 0| 
+| 20210417T23:40:18Z | A simple example of how to use docker for a Python Web App | https://github.com/lecovi/fuzzy-lamp | 0 | 0| 
+| 20210417T23:18:47Z | Null | https://github.com/nikolastanojevic16/fuzzy_logic_expert_system | 0 | 0| 
+| 20210417T23:15:39Z | This is a place for hosting Public files that anyone can download from the web. | https://github.com/usmanhyder/BrowserFingerprint_FuzzyHashing_Files | 0 | 0| 
+| 20210417T21:24:44Z | Null | https://github.com/Juanosorio94/fuzzing-rdma | 0 | 0| 
+| 20210417T21:16:31Z | Null | https://github.com/RunzhouHan/fuzzing_fs_aware_applications | 0 | 0| 
+| 20210417T19:37:18Z | Fuzzy matching for Neovim | https://github.com/amirrezaask/fuzzy.nvim | 25 | 1| 
+| 20210417T18:47:51Z | Why fuzzy broccoli? Github recommends it! A Backend Template using Golang Gin-Gonic and GORM. | https://github.com/ravielze/fuzzy-broccoli | 0 | 0| 
+| 20210417T18:06:13Z | Null | https://github.com/FuzzCube/FuzzCube | 0 | 0| 
+| 20210417T18:03:25Z | Null | https://github.com/AuwoFu/Computational-Intelligence_Fuzzy-Rule | 0 | 0| 
+| 20210417T17:57:35Z | My custom buffer overflow fuzzer and exploit script | https://github.com/A1-exe/bufferoverflow | 0 | 0| 
 
 
 
