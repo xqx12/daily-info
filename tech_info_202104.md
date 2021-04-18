@@ -49,10 +49,10 @@
 | 20210418T12:25:09Z | CVE-2020- | Cibersecurity paython3 tool that search CVE by different patterns | https://github.com/f0ns1/CVE-2020-python_tool | 未查询到CVE信息| 
 | 20210418T11:22:10Z | CVE-2020-1472 | CVE-2020-1472复现流程 | https://github.com/NAXG/CVE-2020-1472 | An elevation of privilege vulnerability exists when an attacker establishes a vulnerable Netlogon secure channel connection to a domain controller, using the Netlogon Remote Protocol (MS-NRPC), aka %Netlogon Elevation of Privilege Vulnerability%.| 
 | 20210418T04:21:23Z | CVE-2021-25281 | demo testing CVE-2021-25281 | https://github.com/SkyBulk/CVE-2021-25281 | An issue was discovered in through SaltStack Salt before 3002.5. salt-api does not honor eauth credentials for the wheel_async client. Thus, an attacker can remotely run any wheel modules on the master.| 
-| 20210418T03:06:05Z | CVE-2021-29447 | WordPress - Authenticated XXE (CVE-2021-29447) | https://github.com/motikan2010/CVE-2021-29447 | | 
+| 20210418T03:06:05Z | CVE-2021-29447 | WordPress - Authenticated XXE (CVE-2021-29447) | https://github.com/motikan2010/CVE-2021-29447 | Wordpress is an open source CMS. A user with the ability to upload files (like an Author) can exploit an XML parsing issue in the Media Library leading to XXE attacks. This requires WordPress installation to be using PHP 8. Access to internal files is possible in a successful XXE attack. This has been patched in WordPress version 5.7.1, along with the older affected versions via a minor release. We strongly recommend you keep auto-updates enabled.| 
 | 20210417T18:54:50Z | CVE-2021-29349 | CVE-2021-29349 CSRF to remove all messages in Mahara 20.10 | https://github.com/Vulnmachines/CVE-2021-29349 | Mahara 20.10 is affected by Cross Site Request Forgery (CSRF) that allows a remote attacker to remove inbox-mail on the server. The application fails to validate the CSRF token for a POST request. An attacker can craft a module/multirecipientnotification/inbox.php pieform_delete_all_notifications request, which leads to removing all messages from a mailbox.| 
 | 20210417T08:17:49Z | CVE-2020-9472 | CVE-2020-9472 构造文件 | https://github.com/john-dooe/CVE-2020-9472 | Umbraco CMS 8.5.3 allows an authenticated file upload (and consequently Remote Code Execution) via the Install Package functionality.| 
-| 20210417T06:54:36Z | CVE-2021-9999 | 张师傅牛逼 | https://github.com/Reach-Z/CVE-2021-9999 | 未查询到CVE信息| 
+| 20210417T06:54:36Z | CVE-2021-9999 | 张师傅牛逼 | https://github.com/Reach-Z/CVE-2021-9999 | | 
 | 20210417T06:10:53Z | CVE-2020-14882 | Null | https://github.com/nice0e3/CVE-2020-14882_Exploit_Gui | Vulnerability in the Oracle WebLogic Server product of Oracle Fusion Middleware (component: Console). Supported versions that are affected are 10.3.6.0.0, 12.1.3.0.0, 12.2.1.3.0, 12.2.1.4.0 and 14.1.1.0.0. Easily exploitable vulnerability allows unauthenticated attacker with network access via HTTP to compromise Oracle WebLogic Server. Successful attacks of this vulnerability can result in takeover of Oracle WebLogic Server. CVSS 3.1 Base Score 9.8 (Confidentiality, Integrity and Availability impacts). CVSS Vector: (CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H).| 
 | 20210417T04:09:20Z | CVE-2021-22192 | CVE-2021-22192 靶场： 未授权用户 RCE 漏洞 | https://github.com/lyy289065406/CVE-2021-22192 | An issue has been discovered in GitLab CE/EE affecting all versions starting from 13.2 allowing unauthorized authenticated users to execute arbitrary code on the server.| 
 | 20210417T03:26:50Z | CVE-2020-17519 | CVE-2020-17519 Cheetah | https://github.com/givemefivw/CVE-2020-17519 | A change introduced in Apache Flink 1.11.0 (and released in 1.11.1 and 1.11.2 as well) allows attackers to read any file on the local filesystem of the JobManager through the REST interface of the JobManager process. Access is restricted to files accessible by the JobManager process. All users should upgrade to Flink 1.11.3 or 1.12.0 if their Flink instance(s) are exposed. The issue was fixed in commit b561010b0ee741543c3953306037f00d7a9f0801 from apache/flink:master.| 
@@ -114,16 +114,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210418T00:39:22Z | http://127.0.0.1:5500/ | https://github.com/Diya032709/fuzzy-octo-journey | 0 | 0| 
-| 20210418T00:34:41Z | Null | https://github.com/VeriBlock/fuzz-corpus | 0 | 1| 
-| 20210418T00:21:19Z | Fuzzy charrs are fuzzy. | https://github.com/marenubium87/FuzzyCharr | 0 | 0| 
-| 20210417T23:40:18Z | A simple example of how to use docker for a Python Web App | https://github.com/lecovi/fuzzy-lamp | 0 | 0| 
-| 20210417T23:18:47Z | Null | https://github.com/nikolastanojevic16/fuzzy_logic_expert_system | 0 | 0| 
-| 20210417T23:15:39Z | This is a place for hosting Public files that anyone can download from the web. | https://github.com/usmanhyder/BrowserFingerprint_FuzzyHashing_Files | 0 | 0| 
-| 20210417T21:24:44Z | Null | https://github.com/Juanosorio94/fuzzing-rdma | 0 | 0| 
-| 20210417T21:16:31Z | Null | https://github.com/RunzhouHan/fuzzing_fs_aware_applications | 0 | 0| 
-| 20210417T19:37:18Z | Fuzzy matching for Neovim | https://github.com/amirrezaask/fuzzy.nvim | 25 | 1| 
-| 20210417T18:47:51Z | Why fuzzy broccoli? Github recommends it! A Backend Template using Golang Gin-Gonic and GORM. | https://github.com/ravielze/fuzzy-broccoli | 0 | 0| 
+| 20210418T12:21:46Z | Null | https://github.com/joseffaghihi/Causal-fuzzy | 0 | 0| 
+| 20210418T12:16:20Z | Fuzzy matching for Neovim | https://github.com/amirrezaask/fuzzy.nvim | 25 | 1| 
+| 20210418T12:15:18Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 3 | 3| 
+| 20210418T11:47:38Z | Null | https://github.com/JoDeMiro/Fuzzy | 0 | 0| 
+| 20210418T11:07:48Z | Python scripts to fuzz test a MUD through telnet. | https://github.com/virthe/mudfuzz | 1 | 0| 
+| 20210418T10:56:06Z | Null | https://github.com/del1ght/Fuzzy-lab2 | 0 | 0| 
+| 20210418T10:41:10Z | Fast web fuzzer written in Go | https://github.com/ffuf/ffuf | 4332 | 514| 
+| 20210418T10:10:19Z | Personal website of Laurence Hughes | https://github.com/fuzzylogicxx/fuzzylogic | 4 | 1| 
+| 20210418T09:42:07Z | Null | https://github.com/OMGfox/fuzzing_environment | 0 | 0| 
+| 20210418T09:25:39Z | Hybrid Machine Learning Model of Extreme Learning Machine Radial basis function for Breast Cancer Detection and Diagnosis; a Multilayer Fuzzy Expert System | https://github.com/SivaRanjan17/Multilayer-Fuzzy-Expert-System | 0 | 0| 
 
 
 
