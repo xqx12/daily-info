@@ -84,6 +84,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210418T01:44:17Z | Hack/Exploits for https://krunker.io/ | https://github.com/glixzzy/krunker.io-hacks | 7 | 27| 
 | 20210418T01:06:46Z | bespoke tooling for offensive security%s Windows Usermode Exploit Dev course (OSED) | https://github.com/epi052/osed-scripts | 14 | 8| 
 | 20210418T01:02:27Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 21 | 8| 
 | 20210418T00:02:21Z | Null | https://github.com/Whomever0/exploit-scripts | 0 | 0| 
@@ -93,7 +94,6 @@
 | 20210417T22:37:08Z | bring shell grabber a python bot which grab shells easily just by entering site list and it search for vulnerabilities as well as exploit them and get the shell automatically. | https://github.com/AngelSecurityTeam/BotExploits | 8 | 3| 
 | 20210417T22:34:28Z | No credit needed! | https://github.com/Roblotastical/Exploit-Template | 0 | 0| 
 | 20210417T22:28:23Z | 7 days of Red Teaming TTPs that your favorite tools may use to acheive a post exploitation goal | https://github.com/jsecu/7DaysofRed | 1 | 0| 
-| 20210417T22:26:00Z | Collection of bash scripts I wrote to make my life easier or test myself that you may find useful. | https://github.com/tobor88/Bash | 12 | 4| 
 
 
 # backdoor on Github 推荐
