@@ -75,6 +75,8 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210419T12:17:10Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 3 | 3| 
+| 20210419T12:14:35Z | A fork of AFL for fuzzing Windows binaries | https://github.com/googleprojectzero/winafl | 1649 | 426| 
 | 20210419T12:02:31Z | Some sort of a social network using react js, hello from 2004 :) | https://github.com/androranogajec/fuzzy-social-network | 0 | 0| 
 | 20210419T11:42:41Z | simple fuzzing library | https://github.com/robre/sfl | 0 | 0| 
 | 20210419T11:41:53Z | Hybrid Machine Learning Model of Extreme Learning Machine Radial basis function for Breast Cancer Detection and Diagnosis; a Multilayer Fuzzy Expert System | https://github.com/SivaRanjan17/Multilayer-Fuzzy-Expert-System | 0 | 0| 
@@ -83,8 +85,6 @@
 | 20210419T11:26:04Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6207 | 1251| 
 | 20210419T11:13:14Z | Null | https://github.com/nhsd-exeter/dos-service-fuzzy-search-api | 0 | 0| 
 | 20210419T10:38:52Z | a fuzzy distance controller for a following vehicle in a bidirectional movement space. This is a simple test to demonstrate the mechanics of such a controller. The driving behaviour and the current distance are taken into account. Further components can be easily added. The output variable is the adjustment of the speed. | https://github.com/Perledition/fuzzy-controller | 2 | 0| 
-| 20210419T10:32:52Z | Add interface function for DecFuzzer | https://github.com/hz90937880/NewDecFuzzer | 0 | 0| 
-| 20210419T09:49:14Z | Modeling of a dynamic system using fuzzy logic. | https://github.com/m0wer/fuzzy_showers | 0 | 0| 
 
 
 
