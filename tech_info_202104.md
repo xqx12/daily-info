@@ -84,6 +84,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210419T01:30:56Z | A general purpose memory allocator that implements an isolation security strategy to mitigate memory safety issues while maintaining good performance | https://github.com/struct/isoalloc | 150 | 10| 
 | 20210419T01:15:45Z | KeyHub is an ROBLOX EXPLOIT!  | https://github.com/giulioxD1/KeyHub | 0 | 0| 
 | 20210419T01:02:29Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 21 | 8| 
 | 20210419T00:40:15Z | Extensible framework for analyzing publicly available information about vulnerabilities | https://github.com/leonov-av/vulristics | 26 | 1| 
@@ -93,7 +94,6 @@
 | 20210418T22:11:48Z | Security and Hacking Tools, Exploits, Proof of Concepts, Shellcodes, Scripts. | https://github.com/nullsecuritynet/tools | 1374 | 453| 
 | 20210418T22:08:07Z | PS4 Exploit Host | https://github.com/Night-King-Host/Night-King-Host.github.io | 8 | 4| 
 | 20210418T21:54:28Z | Several tools for exploits. | https://github.com/vLeeH/protocol-tools | 0 | 0| 
-| 20210418T21:43:01Z | Herramienta para usar The Browser Exploitation Framework fuera de LAN, con diferentes opciones para hacking | https://github.com/tony23x/beef-for-cerberus | 3 | 0| 
 
 
 # backdoor on Github 推荐
