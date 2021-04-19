@@ -84,6 +84,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210419T01:32:51Z | Python script to automate exploitation and generation of ROP chains for a chosen binary. | https://github.com/samH-FIT/AutoROP | 0 | 0| 
 | 20210419T01:30:56Z | A general purpose memory allocator that implements an isolation security strategy to mitigate memory safety issues while maintaining good performance | https://github.com/struct/isoalloc | 150 | 10| 
 | 20210419T01:15:45Z | KeyHub is an ROBLOX EXPLOIT!  | https://github.com/giulioxD1/KeyHub | 0 | 0| 
 | 20210419T01:02:29Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 21 | 8| 
@@ -93,7 +94,6 @@
 | 20210418T23:20:39Z | Fix exploits on anarchy minecraft servers | https://github.com/moom0o/AnarchyExploitFixes | 28 | 7| 
 | 20210418T22:11:48Z | Security and Hacking Tools, Exploits, Proof of Concepts, Shellcodes, Scripts. | https://github.com/nullsecuritynet/tools | 1374 | 453| 
 | 20210418T22:08:07Z | PS4 Exploit Host | https://github.com/Night-King-Host/Night-King-Host.github.io | 8 | 4| 
-| 20210418T21:54:28Z | Several tools for exploits. | https://github.com/vLeeH/protocol-tools | 0 | 0| 
 
 
 # backdoor on Github 推荐
