@@ -47,7 +47,7 @@
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
 | 20210419T11:56:34Z | 未知编号 | Null | https://github.com/r90tpass/CVE_2021-6123111 | 未查询到CVE信息| 
-| 20210419T10:14:21Z | CVE-2021-1 | 1 | https://github.com/hackzuoji/CVE-2021-1 | 未查询到CVE信息| 
+| 20210419T10:14:21Z | CVE-2021-1 | 1 | https://github.com/hackzuoji/CVE-2021-1 | | 
 | 20210419T06:22:40Z | CVE-2021-24086 | Proof of concept for CVE-2021-24086, a NULL dereference in tcpip.sys triggered remotely. | https://github.com/0vercl0k/CVE-2021-24086 | Windows TCP/IP Denial of Service Vulnerability| 
 | 20210418T14:52:17Z | CVE-2020-24033 | Null | https://github.com/M0NsTeRRR/CVE-2020-24033 | An issue was discovered in fs.com S3900 24T4S 1.7.0 and earlier. The form does not have an authentication or token authentication mechanism that allows remote attackers to forge requests on behalf of a site administrator to change all settings including deleting users, creating new users with escalated privileges.| 
 | 20210418T12:36:36Z | CVE-2020- | Cibersecurity paython3 tool that search CVE by different patterns | https://github.com/f0ns1/CVE-2020-python_tool | 未查询到CVE信息| 
@@ -84,6 +84,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210419T12:36:30Z | Academic papers related to fuzzing, binary analysis, and exploit dev, which I want to read or have already read | https://github.com/0xricksanchez/paper_collection | 719 | 81| 
 | 20210419T12:35:14Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9300 | 1503| 
 | 20210419T12:21:39Z | Desktop application mixed with database allowing to allocate patients in a clinic rooms with the goal of avoiding health-based conficts between them and exploiting user authorization to granting access and organise the clinic. Project being meant as a base for mine and my team%s future Engineer%s Thesis. | https://github.com/Too55/pz_project | 1 | 0| 
 | 20210419T12:02:32Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 21 | 8| 
@@ -93,12 +94,12 @@
 | 20210419T11:31:29Z | This project is a modification of FreeHep vector graphics package to exploit its capabilities of generating SVG, EPS, GIF and EMF from vector graphics draw on a JPanel in Java | https://github.com/nilostolte/FreeHep | 0 | 0| 
 | 20210419T11:16:09Z | A proof-of-concept tool for generating payloads that exploit unsafe Java object deserialization. | https://github.com/frohoff/ysoserial | 4038 | 1186| 
 | 20210419T10:34:31Z | Master Thesis | https://github.com/FlavioLorenzi/Continuous-Learning-on-Unity-dataset-exploiting-the-Activity-Recognition-Engine | 0 | 0| 
-| 20210419T10:16:44Z | PS4 Exploits 6.72-7.55 | https://github.com/Buzbee/Buzbee2 | 1 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210419T12:35:44Z | free and open source nonobf server backdoor plugin | https://github.com/AcaiBerii/Bakdooro | 0 | 0| 
 | 20210419T10:13:50Z | Rxploit | https://github.com/NANI1734/Rxploit | 0 | 0| 
 | 20210419T09:51:41Z | Shell Backdoor | https://github.com/FadliYunianto/Fadli | 0 | 0| 
 | 20210419T09:09:39Z | A simple python backdoor script | https://github.com/noukos69/simple-backdoor | 0 | 0| 
@@ -108,7 +109,6 @@
 | 20210419T02:37:53Z | Null | https://github.com/mustblade/phpstudy_backdoor_exp | 0 | 0| 
 | 20210418T20:42:03Z | PCI Express DIY hacking toolkit for Xilinx SP605 | https://github.com/Cr4sh/s6_pcie_microblaze | 318 | 79| 
 | 20210418T19:51:08Z | I made this repository to help Roblox developers don%t know how to security your games | https://github.com/Pr1sth2/Backdoor-Check | 0 | 0| 
-| 20210418T19:11:41Z | Null | https://github.com/MitchellvdKlij/python-backdoor | 0 | 0| 
 
 
 # fuzz on Github 推荐
