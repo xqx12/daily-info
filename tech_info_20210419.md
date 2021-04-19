@@ -29,9 +29,10 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20210419T12:48:13Z | cve-2021-6666 | 就是玩，哎，让你监测TM的。 | https://github.com/r90tpass/cve-2021-6666 | 未查询到CVE信息| 
 | 20210419T11:56:34Z | 未知编号 | Null | https://github.com/r90tpass/CVE_2021-6123111 | 未查询到CVE信息| 
 | 20210419T10:14:21Z | CVE-2021-1 | 1 | https://github.com/hackzuoji/CVE-2021-1 | 未查询到CVE信息| 
-| 20210419T06:22:40Z | CVE-2021-24086 | Proof of concept for CVE-2021-24086, a NULL dereference in tcpip.sys triggered remotely. | https://github.com/0vercl0k/CVE-2021-24086 | Windows TCP/IP Denial of Service Vulnerability| 
+| 20210419T06:22:40Z | CVE-2021-24086 | Proof of concept for CVE-2021-24086, a NULL dereference in tcpip.sys triggered remotely. | https://github.com/0vercl0k/CVE-2021-24086 | | 
 
 
 # klee on Github 推荐
@@ -63,7 +64,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210419T12:35:44Z | free and open source nonobf server backdoor plugin | https://github.com/AcaiBerii/Bakdooro | 0 | 0| 
+| 20210419T12:48:23Z | free and open source nonobf server backdoor plugin | https://github.com/AcaiBerii/Bakdooro | 0 | 0| 
 | 20210419T10:13:50Z | Rxploit | https://github.com/NANI1734/Rxploit | 0 | 0| 
 | 20210419T09:51:41Z | Shell Backdoor | https://github.com/FadliYunianto/Fadli | 0 | 0| 
 | 20210419T09:09:39Z | A simple python backdoor script | https://github.com/noukos69/simple-backdoor | 0 | 0| 
@@ -76,6 +77,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210419T12:47:50Z | A list of payload and bypass lists for penetration testing and red team infrastructure build. | https://github.com/ffffffff0x/AboutSecurity | 174 | 46| 
 | 20210419T12:44:17Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6207 | 1251| 
 | 20210419T12:36:30Z | Academic papers related to fuzzing, binary analysis, and exploit dev, which I want to read or have already read | https://github.com/0xricksanchez/paper_collection | 719 | 81| 
 | 20210419T12:31:19Z | Simple CI program for running fuzzing over TezEdge. | https://github.com/tezedge/fuzzing-ci | 0 | 0| 
@@ -85,7 +87,6 @@
 | 20210419T11:42:41Z | simple fuzzing library | https://github.com/robre/sfl | 0 | 0| 
 | 20210419T11:41:53Z | Hybrid Machine Learning Model of Extreme Learning Machine Radial basis function for Breast Cancer Detection and Diagnosis; a Multilayer Fuzzy Expert System | https://github.com/SivaRanjan17/Multilayer-Fuzzy-Expert-System | 0 | 0| 
 | 20210419T11:37:01Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 1587 | 322| 
-| 20210419T11:26:17Z | Golf totems | https://github.com/simonproudfoot/fuzzy-golf | 0 | 0| 
 
 
 
