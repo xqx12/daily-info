@@ -46,16 +46,16 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20210419T11:56:34Z | 未知编号 | Null | https://github.com/r90tpass/CVE_2021-6123111 | | 
+| 20210419T11:56:34Z | 未知编号 | Null | https://github.com/r90tpass/CVE_2021-6123111 | 未查询到CVE信息| 
 | 20210419T10:14:21Z | CVE-2021-1 | 1 | https://github.com/hackzuoji/CVE-2021-1 | 未查询到CVE信息| 
-| 20210419T06:22:40Z | CVE-2021-24086 | Proof of concept for CVE-2021-24086, a NULL dereference in tcpip.sys triggered remotely. | https://github.com/0vercl0k/CVE-2021-24086 | Windows TCP/IP Denial of Service Vulnerability| 
-| 20210418T14:52:17Z | CVE-2020-24033 | Null | https://github.com/M0NsTeRRR/CVE-2020-24033 | An issue was discovered in fs.com S3900 24T4S 1.7.0 and earlier. The form does not have an authentication or token authentication mechanism that allows remote attackers to forge requests on behalf of a site administrator to change all settings including deleting users, creating new users with escalated privileges.| 
+| 20210419T06:22:40Z | CVE-2021-24086 | Proof of concept for CVE-2021-24086, a NULL dereference in tcpip.sys triggered remotely. | https://github.com/0vercl0k/CVE-2021-24086 | 未查询到CVE信息| 
+| 20210418T14:52:17Z | CVE-2020-24033 | Null | https://github.com/M0NsTeRRR/CVE-2020-24033 | 未查询到CVE信息| 
 | 20210418T12:36:36Z | CVE-2020- | Cibersecurity paython3 tool that search CVE by different patterns | https://github.com/f0ns1/CVE-2020-python_tool | 未查询到CVE信息| 
-| 20210418T11:22:10Z | CVE-2020-1472 | CVE-2020-1472复现流程 | https://github.com/NAXG/CVE-2020-1472 | An elevation of privilege vulnerability exists when an attacker establishes a vulnerable Netlogon secure channel connection to a domain controller, using the Netlogon Remote Protocol (MS-NRPC), aka %Netlogon Elevation of Privilege Vulnerability%.| 
+| 20210418T11:22:10Z | CVE-2020-1472 | CVE-2020-1472复现流程 | https://github.com/NAXG/CVE-2020-1472 | 未查询到CVE信息| 
 | 20210418T04:21:23Z | CVE-2021-25281 | demo testing CVE-2021-25281 | https://github.com/SkyBulk/CVE-2021-25281 | An issue was discovered in through SaltStack Salt before 3002.5. salt-api does not honor eauth credentials for the wheel_async client. Thus, an attacker can remotely run any wheel modules on the master.| 
-| 20210418T03:06:05Z | CVE-2021-29447 | WordPress - Authenticated XXE (CVE-2021-29447) | https://github.com/motikan2010/CVE-2021-29447 | | 
+| 20210418T03:06:05Z | CVE-2021-29447 | WordPress - Authenticated XXE (CVE-2021-29447) | https://github.com/motikan2010/CVE-2021-29447 | 未查询到CVE信息| 
 | 20210417T18:54:50Z | CVE-2021-29349 | CVE-2021-29349 CSRF to remove all messages in Mahara 20.10 | https://github.com/Vulnmachines/CVE-2021-29349 | Mahara 20.10 is affected by Cross Site Request Forgery (CSRF) that allows a remote attacker to remove inbox-mail on the server. The application fails to validate the CSRF token for a POST request. An attacker can craft a module/multirecipientnotification/inbox.php pieform_delete_all_notifications request, which leads to removing all messages from a mailbox.| 
-| 20210417T08:17:49Z | CVE-2020-9472 | CVE-2020-9472 构造文件 | https://github.com/john-dooe/CVE-2020-9472 | Umbraco CMS 8.5.3 allows an authenticated file upload (and consequently Remote Code Execution) via the Install Package functionality.| 
+| 20210417T08:17:49Z | CVE-2020-9472 | CVE-2020-9472 构造文件 | https://github.com/john-dooe/CVE-2020-9472 | 未查询到CVE信息| 
 
 
 # klee on Github 推荐
