@@ -84,6 +84,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210419T12:21:39Z | Desktop application mixed with database allowing to allocate patients in a clinic rooms with the goal of avoiding health-based conficts between them and exploiting user authorization to granting access and organise the clinic. Project being meant as a base for mine and my team%s future Engineer%s Thesis. | https://github.com/Too55/pz_project | 1 | 0| 
 | 20210419T12:02:32Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 21 | 8| 
 | 20210419T11:53:36Z | Null | https://github.com/BM-TechID/Exploit-PHPShell | 0 | 0| 
 | 20210419T11:52:07Z | 携程小城首页还原（静态） | https://github.com/qsbit/XieCheng-wxExploit | 0 | 0| 
@@ -93,7 +94,6 @@
 | 20210419T10:34:31Z | Master Thesis | https://github.com/FlavioLorenzi/Continuous-Learning-on-Unity-dataset-exploiting-the-Activity-Recognition-Engine | 0 | 0| 
 | 20210419T10:16:44Z | PS4 Exploits 6.72-7.55 | https://github.com/Buzbee/Buzbee2 | 1 | 0| 
 | 20210419T10:13:50Z | Rxploit | https://github.com/NANI1734/Rxploit | 0 | 0| 
-| 20210419T09:59:41Z | Github pages site hosting content of umar0x01.sh | https://github.com/Anon-Exploiter/anon-exploiter.github.io | 0 | 0| 
 
 
 # backdoor on Github 推荐
