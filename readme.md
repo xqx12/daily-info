@@ -29,7 +29,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20210419T11:56:34Z | 未知编号 | Null | https://github.com/r90tpass/CVE_2021-6123111 | 未查询到CVE信息| 
+| 20210419T11:56:34Z | 未知编号 | Null | https://github.com/r90tpass/CVE_2021-6123111 | | 
 | 20210419T10:14:21Z | CVE-2021-1 | 1 | https://github.com/hackzuoji/CVE-2021-1 | 未查询到CVE信息| 
 | 20210419T06:22:40Z | CVE-2021-24086 | Proof of concept for CVE-2021-24086, a NULL dereference in tcpip.sys triggered remotely. | https://github.com/0vercl0k/CVE-2021-24086 | Windows TCP/IP Denial of Service Vulnerability| 
 
@@ -75,6 +75,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210419T12:31:19Z | Simple CI program for running fuzzing over TezEdge. | https://github.com/tezedge/fuzzing-ci | 0 | 0| 
 | 20210419T12:17:10Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 3 | 3| 
 | 20210419T12:14:35Z | A fork of AFL for fuzzing Windows binaries | https://github.com/googleprojectzero/winafl | 1649 | 426| 
 | 20210419T12:02:31Z | Some sort of a social network using react js, hello from 2004 :) | https://github.com/androranogajec/fuzzy-social-network | 0 | 0| 
@@ -84,7 +85,6 @@
 | 20210419T11:26:17Z | Golf totems | https://github.com/simonproudfoot/fuzzy-golf | 0 | 0| 
 | 20210419T11:26:04Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6207 | 1251| 
 | 20210419T11:13:14Z | Null | https://github.com/nhsd-exeter/dos-service-fuzzy-search-api | 0 | 0| 
-| 20210419T10:38:52Z | a fuzzy distance controller for a following vehicle in a bidirectional movement space. This is a simple test to demonstrate the mechanics of such a controller. The driving behaviour and the current distance are taken into account. Further components can be easily added. The output variable is the adjustment of the speed. | https://github.com/Perledition/fuzzy-controller | 2 | 0| 
 
 
 
