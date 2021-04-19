@@ -46,14 +46,14 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20210419T11:56:34Z | 未知编号 | Null | https://github.com/r90tpass/CVE_2021-6123111 | | 
+| 20210419T11:56:34Z | 未知编号 | Null | https://github.com/r90tpass/CVE_2021-6123111 | 未查询到CVE信息| 
 | 20210419T10:14:21Z | CVE-2021-1 | 1 | https://github.com/hackzuoji/CVE-2021-1 | 未查询到CVE信息| 
-| 20210419T06:22:40Z | CVE-2021-24086 | Proof of concept for CVE-2021-24086, a NULL dereference in tcpip.sys triggered remotely. | https://github.com/0vercl0k/CVE-2021-24086 | | 
+| 20210419T06:22:40Z | CVE-2021-24086 | Proof of concept for CVE-2021-24086, a NULL dereference in tcpip.sys triggered remotely. | https://github.com/0vercl0k/CVE-2021-24086 | Windows TCP/IP Denial of Service Vulnerability| 
 | 20210418T14:52:17Z | CVE-2020-24033 | Null | https://github.com/M0NsTeRRR/CVE-2020-24033 | An issue was discovered in fs.com S3900 24T4S 1.7.0 and earlier. The form does not have an authentication or token authentication mechanism that allows remote attackers to forge requests on behalf of a site administrator to change all settings including deleting users, creating new users with escalated privileges.| 
 | 20210418T12:36:36Z | CVE-2020- | Cibersecurity paython3 tool that search CVE by different patterns | https://github.com/f0ns1/CVE-2020-python_tool | 未查询到CVE信息| 
 | 20210418T11:22:10Z | CVE-2020-1472 | CVE-2020-1472复现流程 | https://github.com/NAXG/CVE-2020-1472 | An elevation of privilege vulnerability exists when an attacker establishes a vulnerable Netlogon secure channel connection to a domain controller, using the Netlogon Remote Protocol (MS-NRPC), aka %Netlogon Elevation of Privilege Vulnerability%.| 
 | 20210418T04:21:23Z | CVE-2021-25281 | demo testing CVE-2021-25281 | https://github.com/SkyBulk/CVE-2021-25281 | An issue was discovered in through SaltStack Salt before 3002.5. salt-api does not honor eauth credentials for the wheel_async client. Thus, an attacker can remotely run any wheel modules on the master.| 
-| 20210418T03:06:05Z | CVE-2021-29447 | WordPress - Authenticated XXE (CVE-2021-29447) | https://github.com/motikan2010/CVE-2021-29447 | | 
+| 20210418T03:06:05Z | CVE-2021-29447 | WordPress - Authenticated XXE (CVE-2021-29447) | https://github.com/motikan2010/CVE-2021-29447 | Wordpress is an open source CMS. A user with the ability to upload files (like an Author) can exploit an XML parsing issue in the Media Library leading to XXE attacks. This requires WordPress installation to be using PHP 8. Access to internal files is possible in a successful XXE attack. This has been patched in WordPress version 5.7.1, along with the older affected versions via a minor release. We strongly recommend you keep auto-updates enabled.| 
 | 20210417T18:54:50Z | CVE-2021-29349 | CVE-2021-29349 CSRF to remove all messages in Mahara 20.10 | https://github.com/Vulnmachines/CVE-2021-29349 | Mahara 20.10 is affected by Cross Site Request Forgery (CSRF) that allows a remote attacker to remove inbox-mail on the server. The application fails to validate the CSRF token for a POST request. An attacker can craft a module/multirecipientnotification/inbox.php pieform_delete_all_notifications request, which leads to removing all messages from a mailbox.| 
 | 20210417T08:17:49Z | CVE-2020-9472 | CVE-2020-9472 构造文件 | https://github.com/john-dooe/CVE-2020-9472 | Umbraco CMS 8.5.3 allows an authenticated file upload (and consequently Remote Code Execution) via the Install Package functionality.| 
 
@@ -114,16 +114,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210418T12:28:25Z | Null | https://github.com/joseffaghihi/Causal-probabilistic-fuzzy-logic | 0 | 0| 
-| 20210418T12:21:46Z | Null | https://github.com/joseffaghihi/Causal-fuzzy | 0 | 0| 
-| 20210418T12:16:20Z | Fuzzy matching for Neovim | https://github.com/amirrezaask/fuzzy.nvim | 25 | 1| 
-| 20210418T12:15:18Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 3 | 3| 
-| 20210418T11:47:38Z | Null | https://github.com/JoDeMiro/Fuzzy | 0 | 0| 
-| 20210418T11:07:48Z | Python scripts to fuzz test a MUD through telnet. | https://github.com/virthe/mudfuzz | 1 | 0| 
-| 20210418T10:56:06Z | Null | https://github.com/del1ght/Fuzzy-lab2 | 0 | 0| 
-| 20210418T10:41:10Z | Fast web fuzzer written in Go | https://github.com/ffuf/ffuf | 4332 | 514| 
-| 20210418T10:10:19Z | Personal website of Laurence Hughes | https://github.com/fuzzylogicxx/fuzzylogic | 4 | 1| 
-| 20210418T09:42:07Z | Null | https://github.com/OMGfox/fuzzing_environment | 0 | 0| 
+| 20210419T12:02:31Z | Some sort of a social network using react js, hello from 2004 :) | https://github.com/androranogajec/fuzzy-social-network | 0 | 0| 
+| 20210419T11:42:41Z | simple fuzzing library | https://github.com/robre/sfl | 0 | 0| 
+| 20210419T11:41:53Z | Hybrid Machine Learning Model of Extreme Learning Machine Radial basis function for Breast Cancer Detection and Diagnosis; a Multilayer Fuzzy Expert System | https://github.com/SivaRanjan17/Multilayer-Fuzzy-Expert-System | 0 | 0| 
+| 20210419T11:37:01Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 1587 | 322| 
+| 20210419T11:26:17Z | Golf totems | https://github.com/simonproudfoot/fuzzy-golf | 0 | 0| 
+| 20210419T11:26:04Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6207 | 1251| 
+| 20210419T11:13:14Z | Null | https://github.com/nhsd-exeter/dos-service-fuzzy-search-api | 0 | 0| 
+| 20210419T10:38:52Z | a fuzzy distance controller for a following vehicle in a bidirectional movement space. This is a simple test to demonstrate the mechanics of such a controller. The driving behaviour and the current distance are taken into account. Further components can be easily added. The output variable is the adjustment of the speed. | https://github.com/Perledition/fuzzy-controller | 2 | 0| 
+| 20210419T10:32:52Z | Add interface function for DecFuzzer | https://github.com/hz90937880/NewDecFuzzer | 0 | 0| 
+| 20210419T09:49:14Z | Modeling of a dynamic system using fuzzy logic. | https://github.com/m0wer/fuzzy_showers | 0 | 0| 
 
 
 

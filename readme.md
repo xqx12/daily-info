@@ -29,9 +29,9 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20210419T11:56:34Z | 未知编号 | Null | https://github.com/r90tpass/CVE_2021-6123111 | | 
+| 20210419T11:56:34Z | 未知编号 | Null | https://github.com/r90tpass/CVE_2021-6123111 | 未查询到CVE信息| 
 | 20210419T10:14:21Z | CVE-2021-1 | 1 | https://github.com/hackzuoji/CVE-2021-1 | 未查询到CVE信息| 
-| 20210419T06:22:40Z | CVE-2021-24086 | Proof of concept for CVE-2021-24086, a NULL dereference in tcpip.sys triggered remotely. | https://github.com/0vercl0k/CVE-2021-24086 | | 
+| 20210419T06:22:40Z | CVE-2021-24086 | Proof of concept for CVE-2021-24086, a NULL dereference in tcpip.sys triggered remotely. | https://github.com/0vercl0k/CVE-2021-24086 | Windows TCP/IP Denial of Service Vulnerability| 
 
 
 # klee on Github 推荐
@@ -75,6 +75,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210419T12:02:31Z | Some sort of a social network using react js, hello from 2004 :) | https://github.com/androranogajec/fuzzy-social-network | 0 | 0| 
+| 20210419T11:42:41Z | simple fuzzing library | https://github.com/robre/sfl | 0 | 0| 
+| 20210419T11:41:53Z | Hybrid Machine Learning Model of Extreme Learning Machine Radial basis function for Breast Cancer Detection and Diagnosis; a Multilayer Fuzzy Expert System | https://github.com/SivaRanjan17/Multilayer-Fuzzy-Expert-System | 0 | 0| 
+| 20210419T11:37:01Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 1587 | 322| 
+| 20210419T11:26:17Z | Golf totems | https://github.com/simonproudfoot/fuzzy-golf | 0 | 0| 
+| 20210419T11:26:04Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6207 | 1251| 
+| 20210419T11:13:14Z | Null | https://github.com/nhsd-exeter/dos-service-fuzzy-search-api | 0 | 0| 
+| 20210419T10:38:52Z | a fuzzy distance controller for a following vehicle in a bidirectional movement space. This is a simple test to demonstrate the mechanics of such a controller. The driving behaviour and the current distance are taken into account. Further components can be easily added. The output variable is the adjustment of the speed. | https://github.com/Perledition/fuzzy-controller | 2 | 0| 
+| 20210419T10:32:52Z | Add interface function for DecFuzzer | https://github.com/hz90937880/NewDecFuzzer | 0 | 0| 
+| 20210419T09:49:14Z | Modeling of a dynamic system using fuzzy logic. | https://github.com/m0wer/fuzzy_showers | 0 | 0| 
 
 
 
