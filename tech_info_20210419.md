@@ -31,7 +31,7 @@
 | --- | --- | --- | --- | ---| 
 | 20210419T11:56:34Z | 未知编号 | Null | https://github.com/r90tpass/CVE_2021-6123111 | | 
 | 20210419T10:14:21Z | CVE-2021-1 | 1 | https://github.com/hackzuoji/CVE-2021-1 | 未查询到CVE信息| 
-| 20210419T06:22:40Z | CVE-2021-24086 | Proof of concept for CVE-2021-24086, a NULL dereference in tcpip.sys triggered remotely. | https://github.com/0vercl0k/CVE-2021-24086 | Windows TCP/IP Denial of Service Vulnerability| 
+| 20210419T06:22:40Z | CVE-2021-24086 | Proof of concept for CVE-2021-24086, a NULL dereference in tcpip.sys triggered remotely. | https://github.com/0vercl0k/CVE-2021-24086 | | 
 
 
 # klee on Github 推荐
@@ -48,12 +48,12 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210419T12:02:32Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 21 | 8| 
 | 20210419T11:53:36Z | Null | https://github.com/BM-TechID/Exploit-PHPShell | 0 | 0| 
 | 20210419T11:52:07Z | 携程小城首页还原（静态） | https://github.com/qsbit/XieCheng-wxExploit | 0 | 0| 
 | 20210419T11:43:58Z | my https://exploit.education/ writeups | https://github.com/amirr0r/exploit-exercises | 0 | 0| 
 | 20210419T11:31:29Z | This project is a modification of FreeHep vector graphics package to exploit its capabilities of generating SVG, EPS, GIF and EMF from vector graphics draw on a JPanel in Java | https://github.com/nilostolte/FreeHep | 0 | 0| 
 | 20210419T11:16:09Z | A proof-of-concept tool for generating payloads that exploit unsafe Java object deserialization. | https://github.com/frohoff/ysoserial | 4038 | 1186| 
-| 20210419T11:02:27Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 21 | 8| 
 | 20210419T10:34:31Z | Master Thesis | https://github.com/FlavioLorenzi/Continuous-Learning-on-Unity-dataset-exploiting-the-Activity-Recognition-Engine | 0 | 0| 
 | 20210419T10:16:44Z | PS4 Exploits 6.72-7.55 | https://github.com/Buzbee/Buzbee2 | 1 | 0| 
 | 20210419T10:13:50Z | Rxploit | https://github.com/NANI1734/Rxploit | 0 | 0| 
