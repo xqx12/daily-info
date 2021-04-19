@@ -26,7 +26,7 @@
 | --- | --- | --- | --- | ---| 
 | 20210418T14:52:17Z | CVE-2020-24033 | Null | https://github.com/M0NsTeRRR/CVE-2020-24033 | An issue was discovered in fs.com S3900 24T4S 1.7.0 and earlier. The form does not have an authentication or token authentication mechanism that allows remote attackers to forge requests on behalf of a site administrator to change all settings including deleting users, creating new users with escalated privileges.| 
 | 20210418T12:36:36Z | CVE-2020- | Cibersecurity paython3 tool that search CVE by different patterns | https://github.com/f0ns1/CVE-2020-python_tool | 未查询到CVE信息| 
-| 20210418T11:22:10Z | CVE-2020-1472 | CVE-2020-1472复现流程 | https://github.com/NAXG/CVE-2020-1472 | | 
+| 20210418T11:22:10Z | CVE-2020-1472 | CVE-2020-1472复现流程 | https://github.com/NAXG/CVE-2020-1472 | An elevation of privilege vulnerability exists when an attacker establishes a vulnerable Netlogon secure channel connection to a domain controller, using the Netlogon Remote Protocol (MS-NRPC), aka %Netlogon Elevation of Privilege Vulnerability%.| 
 | 20210418T04:21:23Z | CVE-2021-25281 | demo testing CVE-2021-25281 | https://github.com/SkyBulk/CVE-2021-25281 | An issue was discovered in through SaltStack Salt before 3002.5. salt-api does not honor eauth credentials for the wheel_async client. Thus, an attacker can remotely run any wheel modules on the master.| 
 | 20210418T03:06:05Z | CVE-2021-29447 | WordPress - Authenticated XXE (CVE-2021-29447) | https://github.com/motikan2010/CVE-2021-29447 | Wordpress is an open source CMS. A user with the ability to upload files (like an Author) can exploit an XML parsing issue in the Media Library leading to XXE attacks. This requires WordPress installation to be using PHP 8. Access to internal files is possible in a successful XXE attack. This has been patched in WordPress version 5.7.1, along with the older affected versions via a minor release. We strongly recommend you keep auto-updates enabled.| 
 
@@ -67,7 +67,6 @@
 | --- | --- | --- | --- | ---| 
 | 20210418T20:42:03Z | PCI Express DIY hacking toolkit for Xilinx SP605 | https://github.com/Cr4sh/s6_pcie_microblaze | 318 | 79| 
 | 20210418T20:40:46Z | Null | https://github.com/Wrench56/Backdoor | 1 | 0| 
-| 20210418T20:12:19Z | TrojanZoo provides a universal pytorch platform to conduct security researches (especially backdoor attacks/defenses) of image classification in deep learning. | https://github.com/ain-soph/trojanzoo | 63 | 11| 
 | 20210418T19:51:08Z | I made this repository to help Roblox developers don%t know how to security your games | https://github.com/Pr1sth2/Backdoor-Check | 0 | 0| 
 | 20210418T19:11:41Z | Null | https://github.com/MitchellvdKlij/python-backdoor | 0 | 0| 
 | 20210418T18:55:42Z | Create a new admin user after a certain date or time and ping us when ready! | https://github.com/majidamiri70/Creating_a_backdoor_in_WordPress | 0 | 0| 
@@ -75,6 +74,7 @@
 | 20210418T18:32:34Z | Null | https://github.com/TheSaltyBoys/backdoor-v4 | 0 | 0| 
 | 20210418T17:41:21Z | Reverse engineering is the process of decompiling a product to expose it’s internal architecture and learn how it was built. Router firmwares are mostly in binary format since they are hardware specific and cannot be read. Therefore, they are reverse engineered to decompress the file system present in it. | https://github.com/GOKULPANDY/Router-Reverse-Engineering-And-Backdooring | 0 | 0| 
 | 20210418T16:20:02Z | unlock the advanced menu of Lenovo Yoga Slim 7 BIOS | https://github.com/esno/yoga-bios-unlock | 23 | 2| 
+| 20210418T16:10:42Z | Python 3 IRC Bot / Botnet | https://github.com/trackmastersteve/HackServ | 18 | 16| 
 
 
 # fuzz on Github 推荐
