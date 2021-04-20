@@ -114,7 +114,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210420T01:13:31Z | Group 4C Fuzzy Logic Medieval Chess AI Senior Project | https://github.com/arizonagranger/SeniorProjectFuzzyLogicChess | 1 | 1| 
+| 20210420T01:15:40Z | Group 4C Fuzzy Logic Medieval Chess AI Senior Project | https://github.com/arizonagranger/SeniorProjectFuzzyLogicChess | 1 | 1| 
 | 20210420T01:08:06Z | Fuzzer to generate decimal tests | https://github.com/paupino/decfuzzgen | 0 | 0| 
 | 20210420T01:04:33Z | Null | https://github.com/arfan21/fuzzy-logic | 0 | 0| 
 | 20210420T01:03:20Z | JP2KLib.dll harness for WinAFL | https://github.com/ronwai/jp2k_fuzz | 12 | 2| 
