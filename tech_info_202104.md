@@ -84,9 +84,9 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210420T01:31:57Z | Null | https://github.com/CKScripts/RBLX-Exploit | 0 | 0| 
+| 20210420T01:41:54Z | Null | https://github.com/CKScripts/RBLX-Exploit | 0 | 0| 
+| 20210420T01:39:52Z | PS-Phwoar! Alpha Version Exploit Host Menu for 5.05 FW with GoldHEN v1.1 Coded by SiSTRo / Port by Joonie86 | https://github.com/xforce505/xforce505.github.io | 0 | 0| 
 | 20210420T01:29:55Z | A helpful Java Deserialization exploit framework based on ysoserial | https://github.com/wh1t3p1g/ysomap | 351 | 27| 
-| 20210420T01:29:05Z | PS-Phwoar! Alpha Version Exploit Host Menu for 5.05 FW with GoldHEN v1.1 Coded by SiSTRo / Port by Joonie86 | https://github.com/xforce505/xforce505.github.io | 0 | 0| 
 | 20210420T01:27:19Z | Exploit allowing to load arbitrary code on the PSX using only a memory card (no game needed) | https://github.com/brad-lin/FreePSXBoot | 165 | 12| 
 | 20210420T01:13:20Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9303 | 1503| 
 | 20210420T01:07:14Z | Various ASM, C and C++ tools, shellcodes and exploit experiments. | https://github.com/forrest-orr/ExploitDev | 6 | 0| 
@@ -114,8 +114,8 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210420T01:20:00Z | Black-box fuzzer that fuzzes APIs based on OpenAPI specification | https://github.com/matusf/openapi-fuzzer | 4 | 0| 
-| 20210420T01:15:40Z | Group 4C Fuzzy Logic Medieval Chess AI Senior Project | https://github.com/arizonagranger/SeniorProjectFuzzyLogicChess | 1 | 1| 
+| 20210420T01:34:13Z | Black-box fuzzer that fuzzes APIs based on OpenAPI specification | https://github.com/matusf/openapi-fuzzer | 4 | 0| 
+| 20210420T01:32:44Z | Group 4C Fuzzy Logic Medieval Chess AI Senior Project | https://github.com/arizonagranger/SeniorProjectFuzzyLogicChess | 1 | 1| 
 | 20210420T01:08:06Z | Fuzzer to generate decimal tests | https://github.com/paupino/decfuzzgen | 0 | 0| 
 | 20210420T01:04:33Z | Null | https://github.com/arfan21/fuzzy-logic | 0 | 0| 
 | 20210420T01:03:20Z | JP2KLib.dll harness for WinAFL | https://github.com/ronwai/jp2k_fuzz | 12 | 2| 
