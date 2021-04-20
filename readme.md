@@ -69,7 +69,6 @@
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
 | 20210419T23:32:27Z | PCI Express DIY hacking toolkit for Xilinx SP605 | https://github.com/Cr4sh/s6_pcie_microblaze | 319 | 79| 
-| 20210419T23:02:17Z | free and open source nonobf server backdoor plugin | https://github.com/AcaiBerii/Bakdooro | 0 | 0| 
 | 20210419T22:08:11Z | TrojanZoo provides a universal pytorch platform to conduct security researches (especially backdoor attacks/defenses) of image classification in deep learning. | https://github.com/ain-soph/trojanzoo | 64 | 11| 
 | 20210419T21:23:29Z | Null | https://github.com/piyushsharma220699/Backdoor-in-Cyber-Security | 0 | 0| 
 | 20210419T19:11:52Z | Python 3 IRC Bot / Botnet | https://github.com/trackmastersteve/HackServ | 18 | 16| 
@@ -78,6 +77,7 @@
 | 20210419T13:48:04Z | A sample app to demonstrate how to create Xamarin UITests using the Page Object architecture, Backdoor Methods and App Links (aka Deep Linking) | https://github.com/brminnick/UITestSampleApp | 35 | 26| 
 | 20210419T13:36:11Z | Rxploit | https://github.com/NANI1734/Rxploit | 2 | 0| 
 | 20210419T13:01:55Z | Null | https://github.com/ChGunay/Backdoor-ArkaKapi | 0 | 0| 
+| 20210419T09:51:41Z | Shell Backdoor | https://github.com/FadliYunianto/Fadli | 0 | 0| 
 
 
 # fuzz on Github 推荐
