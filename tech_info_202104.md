@@ -16,6 +16,7 @@
 | 20210420 | Lazarus APT 组织将恶意代码写入 BMP 图像的攻击方法。 | https://blog.malwarebytes.com/malwarebytes-news/2021/04/lazarus-apt-conceals-malicious-code-within-bmp-file-to-drop-its-rat/| 
 | 20210420 | 逆向分析 Guloader 的工作流程和其反逆向的机制。 | https://elis531989.medium.com/dancing-with-shellcodes-cracking-the-latest-version-of-guloader-75083fb15cb4| 
 | 20210420 | PlaidCTF 2021 The-False-Promise Chrome 的 Writeup。 | https://sec.today/pulses/f1054dfc-bff6-48ee-bc7e-f7fabb48afcc/| 
+| 20210420 | PlaidCTF 2021 The-False-Promise Chrome 的 Writeup。 | https://hackmd.io/@aventador/BJkOOyi8u| 
 | 20210419 | xscreensaver：raw socket leak | https://bugs.chromium.org/p/project-zero/issues/detail?id=2174| 
 | 20210419 | CVE-2021-20291：CRI-O 和 Podman 的DOS 漏洞成因和缓解方法。 | https://sysdig.com/blog/cve-2021-20291-cri-o-podman/| 
 | 20210419 | CVE-2021-28316：Microsoft Windows WLAN AutoConfig Service 安全功能绕过漏洞。由于入域的工作站在锁屏页面中可以修改连接 Wi-Fi，攻击者可以滥用此功能将工作站接入非法的 Wi-Fi 中进行身份验证，以捕捉 MSCHAPv2。 | https://shenaniganslabs.io/2021/04/13/Airstrike.html| 
@@ -25,7 +26,6 @@
 | 20210419 | 任意删除 Facebook 上直播视频的漏洞。 | https://infosecwriteups.com/poc-remove-any-facebooks-live-video-14-000-bounty-70c8135b7b4c?gi=5367bc83f14e| 
 | 20210419 | Elie Bursztein：分析账户如何被盗用，深入概述 Google 是如何保护用户免受此类攻击。 | https://elie.net/talk/account-protections-a-google-perspective/| 
 | 20210419 | Todd Austin 解释了他们团队的设计的处理器是如何挑战 DARPAs hardware hacking。 | https://spectrum.ieee.org/tech-talk/semiconductors/processors/morpheus-turns-a-cpu-into-a-rubiks-cube-to-defeat-hackers| 
-| 20210419 | 通过逆向 tcpic.sys 分析 CVE-2021-24086 。 | https://sec.today/pulses/e609fefa-1407-4672-ab1a-f182a931592d/| 
 
 
 # 安全维基 推荐
@@ -85,10 +85,10 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210420T12:02:46Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 22 | 9| 
 | 20210420T11:50:55Z | PS4 Exploit list | https://github.com/Hakkuraifu/PS4xploit | 34 | 11| 
 | 20210420T11:18:27Z | This bash script will help you to hack remote hosts  | https://github.com/FabioDefilippo/linuxallremote | 10 | 2| 
 | 20210420T11:13:21Z | HoneyPoC: Proof-of-Concept (PoC) script to exploit SIGRed (CVE-2020-1350). Achieves Domain Admin on Domain Controllers running Windows Server 2000 up to Windows Server 2019. | https://github.com/ZephrFish/CVE-2020-1350 | 247 | 75| 
-| 20210420T11:02:28Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 22 | 9| 
 | 20210420T10:55:19Z | Config files for my GitHub profile. | https://github.com/Code-Jester/Roblox-Exploit | 1 | 0| 
 | 20210420T10:49:35Z | Development of code to exploit LSST and VISTA imaging | https://github.com/lsst-uk/lsst-ir-fusion | 0 | 0| 
 | 20210420T10:20:42Z | Exploits for Sync-Breeze  | https://github.com/laordenhacker/Sync-Breeze | 0 | 0| 
@@ -100,6 +100,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210420T12:02:21Z | Ghost Framework is an Android post-exploitation framework that exploits the Android Debug Bridge to remotely access an Android device. | https://github.com/EntySec/ghost | 1043 | 504| 
 | 20210420T10:39:26Z | Null | https://github.com/Delle9999/backdoor | 0 | 0| 
 | 20210420T08:30:04Z | Null | https://github.com/igpig/igpigs-Backdoor | 0 | 0| 
 | 20210420T03:05:41Z | Hidden backdoor attack on NLP systems | https://github.com/lishaofeng/NLP_Backdoor | 1 | 0| 
@@ -109,7 +110,6 @@
 | 20210419T22:08:11Z | TrojanZoo provides a universal pytorch platform to conduct security researches (especially backdoor attacks/defenses) of image classification in deep learning. | https://github.com/ain-soph/trojanzoo | 64 | 11| 
 | 20210419T21:23:29Z | Null | https://github.com/piyushsharma220699/Backdoor-in-Cyber-Security | 0 | 0| 
 | 20210419T19:11:52Z | Python 3 IRC Bot / Botnet | https://github.com/trackmastersteve/HackServ | 18 | 16| 
-| 20210419T18:09:38Z | Ghost Framework is an Android post-exploitation framework that exploits the Android Debug Bridge to remotely access an Android device. | https://github.com/EntySec/ghost | 1042 | 504| 
 
 
 # fuzz on Github 推荐
