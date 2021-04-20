@@ -54,6 +54,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210420T12:10:54Z | Null | https://github.com/Udyz/Pdf-exploit | 0 | 0| 
 | 20210420T12:02:46Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 22 | 9| 
 | 20210420T11:50:55Z | PS4 Exploit list | https://github.com/Hakkuraifu/PS4xploit | 34 | 11| 
 | 20210420T11:18:27Z | This bash script will help you to hack remote hosts  | https://github.com/FabioDefilippo/linuxallremote | 10 | 2| 
@@ -63,7 +64,6 @@
 | 20210420T10:20:42Z | Exploits for Sync-Breeze  | https://github.com/laordenhacker/Sync-Breeze | 0 | 0| 
 | 20210420T09:58:44Z | Website application for searching devices on the internet with vulnerability summarization and exploits demonstration. | https://github.com/larescze/bpc-akr-seclab | 0 | 0| 
 | 20210420T09:52:18Z | Null | https://github.com/Raycodex/Exploiting | 0 | 1| 
-| 20210420T09:50:03Z | Null | https://github.com/codeVerson1/Roblox-Exploits | 0 | 0| 
 
 
 # backdoor on Github 推荐
