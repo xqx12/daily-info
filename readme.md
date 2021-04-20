@@ -68,6 +68,9 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210420T10:39:26Z | Null | https://github.com/Delle9999/backdoor | 0 | 0| 
+| 20210420T08:30:04Z | Null | https://github.com/igpig/igpigs-Backdoor | 0 | 0| 
+| 20210420T03:05:41Z | Hidden backdoor attack on NLP systems | https://github.com/lishaofeng/NLP_Backdoor | 1 | 0| 
 | 20210420T01:20:02Z | free and open source nonobf server backdoor plugin | https://github.com/AcaiBerii/Bakdooro | 0 | 0| 
 | 20210420T01:14:45Z | Null | https://github.com/mustblade/phpstudy_backdoor_exp | 0 | 0| 
 
@@ -75,16 +78,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210420T01:34:13Z | Black-box fuzzer that fuzzes APIs based on OpenAPI specification | https://github.com/matusf/openapi-fuzzer | 4 | 0| 
-| 20210420T01:32:44Z | Group 4C Fuzzy Logic Medieval Chess AI Senior Project | https://github.com/arizonagranger/SeniorProjectFuzzyLogicChess | 1 | 1| 
-| 20210420T01:08:06Z | Fuzzer to generate decimal tests | https://github.com/paupino/decfuzzgen | 0 | 0| 
-| 20210420T01:04:33Z | Null | https://github.com/arfan21/fuzzy-logic | 0 | 0| 
-| 20210420T01:03:20Z | JP2KLib.dll harness for WinAFL | https://github.com/ronwai/jp2k_fuzz | 12 | 2| 
-| 20210420T00:59:32Z | Crie um programa, em qualquer linguagem, que resolva o problema abaixo: Aproveitando as novas tendências do mercado, você e mais um colega resolveram montar uma empresa para desenvolver sistemas utilizando inteligência artificial. Como este é um campo muito amplo, vocês limitaram o desenvolvimento de suas aplicações em duas áreas principais: redes neurais artificiais e lógica nebulosa. Como as duas técnicas podem ser utilizadas para a resolução da mesma gama de problemas, visando facilitar seu trabalho, construíram um questionário simples (muuuuuuito simples) para ajudá-los na escolha da técnica a ser utilizada. A Relação 1 deverá receber as respostas fornecidas pelos clientes, que é qual a informação disponível para o desenvolvimento. A tabela idealizada por vocês, que leva em consideração algumas características destas técnicas, encontra-se na Relação 2. | https://github.com/lucascardosoroscoe/Ex.-AI-L-gica-Fuzzy | 0 | 0| 
-| 20210420T00:51:33Z | RESTler is the first stateful REST API fuzzing tool for automatically testing cloud services through their REST APIs and finding security and reliability bugs in these services. | https://github.com/microsoft/restler-fuzzer | 752 | 76| 
-| 20210420T00:47:44Z | This is a project for class cosc6386: A symbolic fuzzer based on %fuzzingbook%. | https://github.com/raafatfeki/cosc6386_symbolicFuzzer | 0 | 0| 
-| 20210420T00:37:55Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 3470 | 800| 
-| 20210420T00:06:58Z | Fuzzy matching for Neovim | https://github.com/amirrezaask/fuzzy.nvim | 35 | 1| 
+| 20210420T12:02:00Z | Null | https://github.com/DanielEbert/EmulatedFirmwareFuzzing | 0 | 0| 
+| 20210420T11:57:55Z | Playground with fuzzy logic | https://github.com/perinm/proj-fuzzy | 0 | 0| 
+| 20210420T11:56:44Z | Null | https://github.com/erdifajarf/PMDK_FuzzyAHP | 0 | 0| 
+| 20210420T11:15:03Z | Python library to compute a fuzzy time difference. | https://github.com/hXtreme/fuzzy_delta_time | 0 | 0| 
+| 20210420T11:08:06Z | Null | https://github.com/milhamm/restaurant-fuzzy-logic | 0 | 0| 
+| 20210420T10:32:14Z | Fuzzy Front End 2021 - Pimp my makerspace | https://github.com/olenesheim/fuzzy_front_end | 0 | 0| 
+| 20210420T10:30:12Z | Binary, coverage-guided fuzzer for Windows and macOS | https://github.com/googleprojectzero/Jackalope | 498 | 56| 
+| 20210420T10:08:37Z | Null | https://github.com/KonradMierzwa/OfficeSamurai.FuzzyWuzzy | 0 | 0| 
+| 20210420T10:07:33Z | Null | https://github.com/VeriBlock/fuzz-corpus | 0 | 1| 
+| 20210420T09:56:01Z | Null | https://github.com/Nafis/unbaised-feature-selection-fuzzy-forest | 0 | 0| 
 
 
 
