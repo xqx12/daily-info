@@ -115,8 +115,8 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210420T12:09:56Z | Playground with fuzzy logic | https://github.com/perinm/proj-fuzzy | 0 | 0| 
 | 20210420T12:02:00Z | Null | https://github.com/DanielEbert/EmulatedFirmwareFuzzing | 0 | 0| 
-| 20210420T11:57:55Z | Playground with fuzzy logic | https://github.com/perinm/proj-fuzzy | 0 | 0| 
 | 20210420T11:56:44Z | Null | https://github.com/erdifajarf/PMDK_FuzzyAHP | 0 | 0| 
 | 20210420T11:15:03Z | Python library to compute a fuzzy time difference. | https://github.com/hXtreme/fuzzy_delta_time | 0 | 0| 
 | 20210420T11:08:06Z | Null | https://github.com/milhamm/restaurant-fuzzy-logic | 0 | 0| 
