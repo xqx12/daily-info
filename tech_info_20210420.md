@@ -54,7 +54,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210420T12:41:46Z | Linux privilege escalation auditing tool | https://github.com/mzet-/linux-exploit-suggester | 2566 | 674| 
+| 20210420T12:46:02Z | Linux privilege escalation auditing tool | https://github.com/mzet-/linux-exploit-suggester | 2567 | 674| 
 | 20210420T12:40:16Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9307 | 1503| 
 | 20210420T12:38:57Z | More Stable Offline Exploit version of PS4 6.72 Jailbreak. | https://github.com/DarkModderVC/PS4JB | 134 | 52| 
 | 20210420T12:28:29Z | Null | https://github.com/Udyz/Pdf-exploit | 0 | 0| 
