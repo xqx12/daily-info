@@ -55,7 +55,7 @@
 | 20210419T06:22:40Z | CVE-2021-24086 | Proof of concept for CVE-2021-24086, a NULL dereference in tcpip.sys triggered remotely. | https://github.com/0vercl0k/CVE-2021-24086 | Windows TCP/IP Denial of Service Vulnerability| 
 | 20210418T14:52:17Z | CVE-2020-24033 | Null | https://github.com/M0NsTeRRR/CVE-2020-24033 | An issue was discovered in fs.com S3900 24T4S 1.7.0 and earlier. The form does not have an authentication or token authentication mechanism that allows remote attackers to forge requests on behalf of a site administrator to change all settings including deleting users, creating new users with escalated privileges.| 
 | 20210418T12:36:36Z | CVE-2020- | Cibersecurity paython3 tool that search CVE by different patterns | https://github.com/f0ns1/CVE-2020-python_tool | 未查询到CVE信息| 
-| 20210418T11:22:10Z | CVE-2020-1472 | CVE-2020-1472复现流程 | https://github.com/NAXG/CVE-2020-1472 | An elevation of privilege vulnerability exists when an attacker establishes a vulnerable Netlogon secure channel connection to a domain controller, using the Netlogon Remote Protocol (MS-NRPC), aka %Netlogon Elevation of Privilege Vulnerability%.| 
+| 20210418T11:22:10Z | CVE-2020-1472 | CVE-2020-1472复现流程 | https://github.com/NAXG/CVE-2020-1472 | | 
 
 
 # klee on Github 推荐
@@ -84,6 +84,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210420T00:50:50Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 15 | 9| 
+| 20210420T00:49:14Z | Null | https://github.com/MaherAzzouzi/BrowserExploitation | 0 | 0| 
 | 20210420T00:44:44Z | The AWS exploitation framework, designed for testing the security of Amazon Web Services environments. | https://github.com/RhinoSecurityLabs/pacu | 2001 | 360| 
 | 20210420T00:43:52Z | Bukkit/BungeeCord plugin that aims on fixing Exploits in your Minecraft network. [Requires HamsterAPI to work] | https://github.com/2lstudios-mc/ExploitFixer | 82 | 23| 
 | 20210420T00:21:39Z | Various ASM, C and C++ tools, shellcodes and exploit experiments. | https://github.com/forrest-orr/ExploitDev | 6 | 0| 
@@ -92,8 +94,6 @@
 | 20210419T23:20:34Z | Exploit allowing to load arbitrary code on the PSX using only a memory card (no game needed) | https://github.com/brad-lin/FreePSXBoot | 164 | 12| 
 | 20210419T23:11:32Z | Crea tu Exploit apk de forma rapida para hackeos   | https://github.com/FastmoreCrak/ZicelTT | 0 | 0| 
 | 20210419T22:43:43Z | Merlin is a cross-platform post-exploitation HTTP/2 Command & Control  server and agent written in golang. | https://github.com/Ne0nd0g/merlin | 3151 | 495| 
-| 20210419T22:33:33Z | Educational web application demonstrating techniques of binary exploitation (Front-end) | https://github.com/Pen-Test3rs/binary_exploits_frontend | 0 | 0| 
-| 20210419T22:19:10Z | This exploit was created for TryHackMe VulnNet machine | https://github.com/abeljm/Exploit-ClipBucket-4-File-Upload | 0 | 0| 
 
 
 # backdoor on Github 推荐
