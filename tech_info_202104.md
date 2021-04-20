@@ -85,6 +85,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210420T12:40:16Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9307 | 1503| 
+| 20210420T12:38:57Z | More Stable Offline Exploit version of PS4 6.72 Jailbreak. | https://github.com/DarkModderVC/PS4JB | 134 | 52| 
 | 20210420T12:28:29Z | Null | https://github.com/Udyz/Pdf-exploit | 0 | 0| 
 | 20210420T12:02:46Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 22 | 9| 
 | 20210420T11:50:55Z | PS4 Exploit list | https://github.com/Hakkuraifu/PS4xploit | 34 | 11| 
@@ -93,8 +95,6 @@
 | 20210420T10:55:19Z | Config files for my GitHub profile. | https://github.com/Code-Jester/Roblox-Exploit | 1 | 0| 
 | 20210420T10:49:35Z | Development of code to exploit LSST and VISTA imaging | https://github.com/lsst-uk/lsst-ir-fusion | 0 | 0| 
 | 20210420T10:20:42Z | Exploits for Sync-Breeze  | https://github.com/laordenhacker/Sync-Breeze | 0 | 0| 
-| 20210420T09:58:44Z | Website application for searching devices on the internet with vulnerability summarization and exploits demonstration. | https://github.com/larescze/bpc-akr-seclab | 0 | 0| 
-| 20210420T09:52:18Z | Null | https://github.com/Raycodex/Exploiting | 0 | 1| 
 
 
 # backdoor on Github 推荐
