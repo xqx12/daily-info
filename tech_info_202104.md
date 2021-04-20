@@ -48,7 +48,7 @@
 | --- | --- | --- | --- | ---| 
 | 20210420T01:00:44Z | CVE-2021-3493 | Ubuntu OverlayFS Local Privesc | https://github.com/briskets/CVE-2021-3493 | The overlayfs implementation in the linux kernel did not properly validate with respect to user namespaces the setting of file capabilities on files in an underlying file system. Due to the combination of unprivileged user namespaces along with a patch carried in the Ubuntu kernel to allow unprivileged overlay mounts, an attacker could use this to gain elevated privileges.| 
 | 20210419T21:09:30Z | CVE-2020-1350 | HoneyPoC: Proof-of-Concept (PoC) script to exploit SIGRed (CVE-2020-1350). Achieves Domain Admin on Domain Controllers running Windows Server 2000 up to Windows Server 2019. | https://github.com/ZephrFish/CVE-2020-1350 | A remote code execution vulnerability exists in Windows Domain Name System servers when they fail to properly handle requests, aka %Windows DNS Server Remote Code Execution Vulnerability%.| 
-| 20210419T18:08:13Z | CVE-2021-30481 | https://nvd.nist.gov/vuln/detail/CVE-2021-30481 | https://github.com/floesen/CVE-2021-30481 | | 
+| 20210419T18:08:13Z | CVE-2021-30481 | https://nvd.nist.gov/vuln/detail/CVE-2021-30481 | https://github.com/floesen/CVE-2021-30481 | Valve Steam through 2021-04-10, when a Source engine game is installed, allows remote authenticated users to execute arbitrary code because of a buffer overflow that occurs for a Steam invite after one click.| 
 | 20210419T12:48:13Z | cve-2021-6666 | 就是玩，哎，让你监测TM的。 | https://github.com/r90tpass/cve-2021-6666 | 未查询到CVE信息| 
 | 20210419T11:56:34Z | 未知编号 | Null | https://github.com/r90tpass/CVE_2021-6123111 | 未查询到CVE信息| 
 | 20210419T10:14:21Z | CVE-2021-1 | 1 | https://github.com/hackzuoji/CVE-2021-1 | 未查询到CVE信息| 
@@ -84,6 +84,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210420T01:13:20Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9303 | 1503| 
 | 20210420T01:07:14Z | Various ASM, C and C++ tools, shellcodes and exploit experiments. | https://github.com/forrest-orr/ExploitDev | 6 | 0| 
 | 20210420T01:02:29Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 21 | 8| 
 | 20210420T00:58:15Z | %The software will be building a network server from scratch that at startup will have the ability to selectively enable insecure portions of code that can be exploited. The software could be developed as a honeypot for detection of exploitation attempts within a network and/or as a practice server for pentesters.  The project may also need to develop companion software that can test the code, or collect logs from the server.% | https://github.com/TimHanneman/Multi_Purpose_Exploitable_Server | 0 | 0| 
@@ -93,7 +94,6 @@
 | 20210420T00:43:52Z | Bukkit/BungeeCord plugin that aims on fixing Exploits in your Minecraft network. [Requires HamsterAPI to work] | https://github.com/2lstudios-mc/ExploitFixer | 82 | 23| 
 | 20210419T23:47:08Z | PS-Phwoar! Alpha Version Exploit Host Menu for 5.05 FW with GoldHEN v1.1 Coded by SiSTRo / Port by Joonie86 | https://github.com/xforce505/xforce505.github.io | 0 | 0| 
 | 20210419T23:20:34Z | Exploit allowing to load arbitrary code on the PSX using only a memory card (no game needed) | https://github.com/brad-lin/FreePSXBoot | 164 | 12| 
-| 20210419T23:11:32Z | Crea tu Exploit apk de forma rapida para hackeos   | https://github.com/FastmoreCrak/ZicelTT | 0 | 0| 
 
 
 # backdoor on Github 推荐
@@ -114,16 +114,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210420T01:13:31Z | Group 4C Fuzzy Logic Medieval Chess AI Senior Project | https://github.com/arizonagranger/SeniorProjectFuzzyLogicChess | 1 | 1| 
+| 20210420T01:08:06Z | Fuzzer to generate decimal tests | https://github.com/paupino/decfuzzgen | 0 | 0| 
+| 20210420T01:04:33Z | Null | https://github.com/arfan21/fuzzy-logic | 0 | 0| 
+| 20210420T01:03:20Z | JP2KLib.dll harness for WinAFL | https://github.com/ronwai/jp2k_fuzz | 12 | 2| 
+| 20210420T00:59:32Z | Crie um programa, em qualquer linguagem, que resolva o problema abaixo: Aproveitando as novas tendências do mercado, você e mais um colega resolveram montar uma empresa para desenvolver sistemas utilizando inteligência artificial. Como este é um campo muito amplo, vocês limitaram o desenvolvimento de suas aplicações em duas áreas principais: redes neurais artificiais e lógica nebulosa. Como as duas técnicas podem ser utilizadas para a resolução da mesma gama de problemas, visando facilitar seu trabalho, construíram um questionário simples (muuuuuuito simples) para ajudá-los na escolha da técnica a ser utilizada. A Relação 1 deverá receber as respostas fornecidas pelos clientes, que é qual a informação disponível para o desenvolvimento. A tabela idealizada por vocês, que leva em consideração algumas características destas técnicas, encontra-se na Relação 2. | https://github.com/lucascardosoroscoe/Ex.-AI-L-gica-Fuzzy | 0 | 0| 
+| 20210420T00:51:33Z | RESTler is the first stateful REST API fuzzing tool for automatically testing cloud services through their REST APIs and finding security and reliability bugs in these services. | https://github.com/microsoft/restler-fuzzer | 752 | 76| 
+| 20210420T00:47:44Z | This is a project for class cosc6386: A symbolic fuzzer based on %fuzzingbook%. | https://github.com/raafatfeki/cosc6386_symbolicFuzzer | 0 | 0| 
+| 20210420T00:37:55Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 3470 | 800| 
 | 20210420T00:06:58Z | Fuzzy matching for Neovim | https://github.com/amirrezaask/fuzzy.nvim | 35 | 1| 
 | 20210419T22:58:31Z | A unit test-like interface for fuzzing and symbolic execution | https://github.com/trailofbits/deepstate | 608 | 62| 
-| 20210419T22:53:08Z | Fuzzer to generate decimal tests | https://github.com/paupino/decfuzzgen | 0 | 0| 
-| 20210419T22:51:10Z | Null | https://github.com/DanoKalhor/fuzzy | 0 | 0| 
-| 20210419T22:25:10Z | Scalable fuzzing infrastructure. | https://github.com/google/clusterfuzz | 4488 | 432| 
-| 20210419T22:08:10Z | interactive `git` with the help of `fzf` | https://github.com/bigH/git-fuzzy | 1749 | 34| 
-| 20210419T21:34:44Z | Null | https://github.com/joseffaghihi/Causal-probabilistic-fuzzy-logic | 0 | 0| 
-| 20210419T21:28:12Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6208 | 1251| 
-| 20210419T21:22:44Z | A site that allows you to reverse image search millions of furry images in under a second | https://github.com/Syfaro/fuzzysearch | 7 | 1| 
-| 20210419T21:22:01Z | Manage & generate prefs.js files | https://github.com/MozillaSecurity/prefpicker | 5 | 2| 
 
 
 
