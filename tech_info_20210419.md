@@ -84,16 +84,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210419T12:50:02Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6207 | 1251| 
-| 20210419T12:47:50Z | A list of payload and bypass lists for penetration testing and red team infrastructure build. | https://github.com/ffffffff0x/AboutSecurity | 174 | 46| 
-| 20210419T12:36:30Z | Academic papers related to fuzzing, binary analysis, and exploit dev, which I want to read or have already read | https://github.com/0xricksanchez/paper_collection | 719 | 81| 
-| 20210419T12:31:19Z | Simple CI program for running fuzzing over TezEdge. | https://github.com/tezedge/fuzzing-ci | 0 | 0| 
-| 20210419T12:17:10Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 3 | 3| 
-| 20210419T12:14:35Z | A fork of AFL for fuzzing Windows binaries | https://github.com/googleprojectzero/winafl | 1649 | 426| 
-| 20210419T12:02:31Z | Some sort of a social network using react js, hello from 2004 :) | https://github.com/androranogajec/fuzzy-social-network | 0 | 0| 
-| 20210419T11:42:41Z | simple fuzzing library | https://github.com/robre/sfl | 0 | 0| 
-| 20210419T11:41:53Z | Hybrid Machine Learning Model of Extreme Learning Machine Radial basis function for Breast Cancer Detection and Diagnosis; a Multilayer Fuzzy Expert System | https://github.com/SivaRanjan17/Multilayer-Fuzzy-Expert-System | 0 | 0| 
-| 20210419T11:37:01Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 1587 | 322| 
+| 20210419T22:58:31Z | A unit test-like interface for fuzzing and symbolic execution | https://github.com/trailofbits/deepstate | 608 | 62| 
+| 20210419T22:53:08Z | Fuzzer to generate decimal tests | https://github.com/paupino/decfuzzgen | 0 | 0| 
+| 20210419T22:51:10Z | Null | https://github.com/DanoKalhor/fuzzy | 0 | 0| 
+| 20210419T22:25:10Z | Scalable fuzzing infrastructure. | https://github.com/google/clusterfuzz | 4488 | 432| 
+| 20210419T22:08:10Z | interactive `git` with the help of `fzf` | https://github.com/bigH/git-fuzzy | 1749 | 34| 
+| 20210419T21:34:44Z | Null | https://github.com/joseffaghihi/Causal-probabilistic-fuzzy-logic | 0 | 0| 
+| 20210419T21:28:12Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6208 | 1251| 
+| 20210419T21:22:44Z | A site that allows you to reverse image search millions of furry images in under a second | https://github.com/Syfaro/fuzzysearch | 7 | 1| 
+| 20210419T21:22:01Z | Manage & generate prefs.js files | https://github.com/MozillaSecurity/prefpicker | 5 | 2| 
+| 20210419T20:25:34Z | Ethereum smart contract fuzzer | https://github.com/crytic/echidna | 597 | 94| 
 
 
 
