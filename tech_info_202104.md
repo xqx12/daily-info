@@ -46,7 +46,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20210420T01:00:44Z | CVE-2021-3493 | Ubuntu OverlayFS Local Privesc | https://github.com/briskets/CVE-2021-3493 | The overlayfs implementation in the linux kernel did not properly validate with respect to user namespaces the setting of file capabilities on files in an underlying file system. Due to the combination of unprivileged user namespaces along with a patch carried in the Ubuntu kernel to allow unprivileged overlay mounts, an attacker could use this to gain elevated privileges.| 
+| 20210420T01:27:45Z | CVE-2021-3493 | Ubuntu OverlayFS Local Privesc | https://github.com/briskets/CVE-2021-3493 | The overlayfs implementation in the linux kernel did not properly validate with respect to user namespaces the setting of file capabilities on files in an underlying file system. Due to the combination of unprivileged user namespaces along with a patch carried in the Ubuntu kernel to allow unprivileged overlay mounts, an attacker could use this to gain elevated privileges.| 
 | 20210419T21:09:30Z | CVE-2020-1350 | HoneyPoC: Proof-of-Concept (PoC) script to exploit SIGRed (CVE-2020-1350). Achieves Domain Admin on Domain Controllers running Windows Server 2000 up to Windows Server 2019. | https://github.com/ZephrFish/CVE-2020-1350 | A remote code execution vulnerability exists in Windows Domain Name System servers when they fail to properly handle requests, aka %Windows DNS Server Remote Code Execution Vulnerability%.| 
 | 20210419T18:08:13Z | CVE-2021-30481 | https://nvd.nist.gov/vuln/detail/CVE-2021-30481 | https://github.com/floesen/CVE-2021-30481 | Valve Steam through 2021-04-10, when a Source engine game is installed, allows remote authenticated users to execute arbitrary code because of a buffer overflow that occurs for a Steam invite after one click.| 
 | 20210419T12:48:13Z | cve-2021-6666 | 就是玩，哎，让你监测TM的。 | https://github.com/r90tpass/cve-2021-6666 | 未查询到CVE信息| 
@@ -114,6 +114,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210420T01:20:00Z | Black-box fuzzer that fuzzes APIs based on OpenAPI specification | https://github.com/matusf/openapi-fuzzer | 4 | 0| 
 | 20210420T01:15:40Z | Group 4C Fuzzy Logic Medieval Chess AI Senior Project | https://github.com/arizonagranger/SeniorProjectFuzzyLogicChess | 1 | 1| 
 | 20210420T01:08:06Z | Fuzzer to generate decimal tests | https://github.com/paupino/decfuzzgen | 0 | 0| 
 | 20210420T01:04:33Z | Null | https://github.com/arfan21/fuzzy-logic | 0 | 0| 
@@ -123,7 +124,6 @@
 | 20210420T00:47:44Z | This is a project for class cosc6386: A symbolic fuzzer based on %fuzzingbook%. | https://github.com/raafatfeki/cosc6386_symbolicFuzzer | 0 | 0| 
 | 20210420T00:37:55Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 3470 | 800| 
 | 20210420T00:06:58Z | Fuzzy matching for Neovim | https://github.com/amirrezaask/fuzzy.nvim | 35 | 1| 
-| 20210419T22:58:31Z | A unit test-like interface for fuzzing and symbolic execution | https://github.com/trailofbits/deepstate | 608 | 62| 
 
 
 
