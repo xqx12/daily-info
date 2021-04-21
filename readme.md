@@ -76,16 +76,16 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210420T23:42:49Z | Null | https://github.com/piyushsharma220699/Backdoor-in-Cyber-Security | 0 | 0| 
 | 20210420T23:39:50Z | LKM rootkit for Linux Kernels 2.6.x/3.x/4.x/5.x (x86/x86_64 and ARM64) | https://github.com/m0nad/Diamorphine | 755 | 280| 
 | 20210420T20:57:21Z | Simple Python Backdoor | https://github.com/zNairy/Sonaris | 5 | 0| 
 | 20210420T19:38:42Z | Null | https://github.com/Wrench56/Backdoor | 1 | 0| 
 | 20210420T19:03:29Z | TrojanZoo provides a universal pytorch platform to conduct security researches (especially backdoor attacks/defenses) of image classification in deep learning. | https://github.com/ain-soph/trojanzoo | 65 | 11| 
-| 20210420T18:04:01Z | free and open source nonobf server backdoor plugin | https://github.com/AcaiBerii/Bakdooro | 0 | 0| 
 | 20210420T16:35:46Z | I created this script to help make it easier for you to directly attack index.php on the website | https://github.com/penucuriCode/shell-backdoor | 2 | 1| 
 | 20210420T13:21:03Z | OWASP ZAP add-on containing the web-backdoors and attack files from FuzzDB | https://github.com/zaproxy/fuzzdb-offensive | 6 | 6| 
 | 20210420T13:12:20Z | Three sub-projects of different backdoor attack configurations scaling in complexity, with server and client implementations. | https://github.com/BrunoScaglione/Backdoor-Attack-Simulation | 0 | 0| 
 | 20210420T12:02:21Z | Ghost Framework is an Android post-exploitation framework that exploits the Android Debug Bridge to remotely access an Android device. | https://github.com/EntySec/ghost | 1043 | 504| 
+| 20210420T10:39:26Z | Null | https://github.com/Delle9999/backdoor | 0 | 0| 
+| 20210420T08:30:04Z | Null | https://github.com/igpig/igpigs-Backdoor | 0 | 0| 
 
 
 # fuzz on Github 推荐
