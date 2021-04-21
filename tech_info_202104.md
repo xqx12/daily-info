@@ -52,7 +52,7 @@
 | 20210421T10:59:57Z | CVE-2021-22192 | CVE-2021-22192 靶场： 未授权用户 RCE 漏洞 | https://github.com/lyy289065406/CVE-2021-22192 | 未查询到CVE信息| 
 | 20210421T10:58:48Z | CVE-2021-30481 | https://nvd.nist.gov/vuln/detail/CVE-2021-30481 | https://github.com/floesen/CVE-2021-30481 | 未查询到CVE信息| 
 | 20210421T10:58:41Z | CVE-2021-22893 | Pulse Connect Secure RCE Vulnerability (CVE-2021-22893) | https://github.com/Mad-robot/CVE-2021-22893 | 未查询到CVE信息| 
-| 20210421T09:31:14Z | CVE-2020-14364 | Null | https://github.com/gejian-iscas/CVE-2020-14364 | 未查询到CVE信息| 
+| 20210421T09:31:14Z | CVE-2020-14364 | Null | https://github.com/gejian-iscas/CVE-2020-14364 | | 
 | 20210421T08:32:02Z | CVE-2021-3156 | CVE-2021-3156: Sudo heap overflow exploit for Debain 10 | https://github.com/0xdevil/CVE-2021-3156 | 未查询到CVE信息| 
 | 20210421T07:18:09Z | CVE-2021-26295 | Apache OFBiz rmi反序列化EXP(CVE-2021-26295) | https://github.com/S0por/CVE-2021-26295-Apache-OFBiz-EXP | 未查询到CVE信息| 
 | 20210420T23:07:23Z | CVE-2020-1350 | HoneyPoC: Proof-of-Concept (PoC) script to exploit SIGRed (CVE-2020-1350). Achieves Domain Admin on Domain Controllers running Windows Server 2000 up to Windows Server 2019. | https://github.com/ZephrFish/CVE-2020-1350 | 未查询到CVE信息| 
