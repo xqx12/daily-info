@@ -85,6 +85,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210421T01:28:26Z | Root repository for CS 6265: Information Security Lab - Reverse Engineering and Binary Exploitation | https://github.com/one2blame/cs6265 | 1 | 2| 
 | 20210421T01:12:01Z | Exploit allowing to load arbitrary code on the PSX using only a memory card (no game needed) | https://github.com/brad-lin/FreePSXBoot | 175 | 13| 
 | 20210421T01:06:34Z | Infinite Honey And Pollen Exploit (Saves what ever you buy) | https://github.com/EzRobloxExploits/Infinite-Honey-And-Pollen-Exploit | 0 | 0| 
 | 20210421T01:02:16Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 22 | 9| 
@@ -92,7 +93,6 @@
 | 20210421T00:48:56Z | PS-Phwoar! Alpha Version Exploit Host Menu for 5.05 FW with GoldHen v1.1 Coded by SiSTRo / Port by Joonie86 | https://github.com/xforce505/xforce505.github.io | 0 | 0| 
 | 20210421T00:42:26Z | Various ASM, C and C++ tools, shellcodes and exploit experiments. | https://github.com/forrest-orr/ExploitDev | 6 | 0| 
 | 20210421T00:35:26Z | Exploit for the RpcEptMapper registry key permissions vulnerability (Windows 7 / 2088R2 / 8 / 2012) | https://github.com/itm4n/Perfusion | 284 | 44| 
-| 20210421T00:07:32Z | Root repository for CS 6265: Information Security Lab - Reverse Engineering and Binary Exploitation | https://github.com/one2blame/cs6265 | 1 | 2| 
 | 20210421T00:00:11Z |   rsGen is a Reverse Shell Payload Generator for hacking. | https://github.com/FlyfishSec/rsGen | 59 | 24| 
 | 20210420T23:43:13Z | Null | https://github.com/Kro0oz/Wp-exploit-upload-shell | 0 | 0| 
 
@@ -115,16 +115,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210421T01:29:01Z | Group 4C Fuzzy Logic Medieval Chess AI Senior Project | https://github.com/arizonagranger/SeniorProjectFuzzyLogicChess | 1 | 1| 
+| 20210421T01:14:36Z | A regression greybox fuzzer aflchurn | https://github.com/aflchurn/aflchurn | 21 | 1| 
+| 20210421T01:04:01Z | Null | https://github.com/igorsodre/fuzzy-trader | 0 | 0| 
+| 20210421T00:51:18Z | Take the current implementation and turning a microservice architecture | https://github.com/ccesarrod/FuzzyMicrosrvices | 0 | 0| 
+| 20210421T00:39:12Z | A test framework for running integration and regression testing on Fuzzy Merging in CluedIn | https://github.com/CluedIn-io/Fuzzy-Merging-TestBed | 0 | 0| 
+| 20210421T00:28:00Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6210 | 1253| 
+| 20210421T00:21:46Z | This repository is for testing a number of open source applications for vulnerabilities using multiple fuzzers. | https://github.com/bartholomewHarris/fuzzingNode.jsApplications | 1 | 1| 
 | 20210421T00:05:32Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 3 | 3| 
 | 20210421T00:02:49Z | Null | https://github.com/josh-mountain/fuzzy-potato | 0 | 0| 
 | 20210420T23:59:28Z | SQL project to analyse a growing business and colect relevant information to help steer the company%s future. | https://github.com/alanaselli/MavenFuzzyFactory_Project | 0 | 0| 
-| 20210420T23:29:04Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2318 | 125| 
-| 20210420T23:18:35Z | A test framework for running integration and regression testing on Fuzzy Merging in CluedIn | https://github.com/CluedIn-io/Fuzzy-Merging-TestBed | 0 | 0| 
-| 20210420T22:51:22Z | Fuzzy Logic for Python 3 | https://github.com/amogorkon/fuzzylogic | 22 | 9| 
-| 20210420T22:48:18Z | Null | https://github.com/barddes/fuzzer-opencv | 0 | 0| 
-| 20210420T22:46:20Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6210 | 1253| 
-| 20210420T22:33:19Z | A symbolic fuzzer that can generate input values symbolically for a python function. We assume that the function is not recursive and at most calls two self-contained methods. We can assume that all variables are annotated with the type information, and only container used in the programs are lists with the maximum size 10. | https://github.com/mathews1193/Symbolic_Fuzzer | 0 | 0| 
-| 20210420T22:03:48Z | Security oriented software fuzzer. Supports evolutionary, feedback-driven fuzzing based on code coverage (SW and HW based) | https://github.com/google/honggfuzz | 2193 | 442| 
 
 
 

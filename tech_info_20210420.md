@@ -91,14 +91,14 @@
 | --- | --- | --- | --- | ---| 
 | 20210420T23:59:28Z | SQL project to analyse a growing business and colect relevant information to help steer the company%s future. | https://github.com/alanaselli/MavenFuzzyFactory_Project | 0 | 0| 
 | 20210420T23:29:04Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2318 | 125| 
-| 20210420T23:18:35Z | A test framework for running integration and regression testing on Fuzzy Merging in CluedIn | https://github.com/CluedIn-io/Fuzzy-Merging-TestBed | 0 | 0| 
 | 20210420T22:51:22Z | Fuzzy Logic for Python 3 | https://github.com/amogorkon/fuzzylogic | 22 | 9| 
 | 20210420T22:48:18Z | Null | https://github.com/barddes/fuzzer-opencv | 0 | 0| 
-| 20210420T22:46:20Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6210 | 1253| 
 | 20210420T22:33:19Z | A symbolic fuzzer that can generate input values symbolically for a python function. We assume that the function is not recursive and at most calls two self-contained methods. We can assume that all variables are annotated with the type information, and only container used in the programs are lists with the maximum size 10. | https://github.com/mathews1193/Symbolic_Fuzzer | 0 | 0| 
 | 20210420T22:03:48Z | Security oriented software fuzzer. Supports evolutionary, feedback-driven fuzzing based on code coverage (SW and HW based) | https://github.com/google/honggfuzz | 2193 | 442| 
 | 20210420T21:32:30Z | criando arquivo .fis no Matlab usando linhas de comando | https://github.com/jacimarajp/Controle-fuzzy | 0 | 0| 
 | 20210420T21:04:41Z | Fuzzy matching for Neovim | https://github.com/amirrezaask/fuzzy.nvim | 35 | 1| 
+| 20210420T20:55:02Z | Remote areas monitoring IoT node: ULP (Energy-harvesting powered) fire detection & alarming system using Fuzzy logic with an edge computing approach for daily temperature logging. | https://github.com/Rad-hi/Fuzzy_Fire_Detection | 0 | 0| 
+| 20210420T20:43:27Z | fuzzyset.js - A fuzzy string set for javascript | https://github.com/Glench/fuzzyset.js | 1235 | 102| 
 
 
 
