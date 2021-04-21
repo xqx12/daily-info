@@ -17,6 +17,9 @@
 | 20210420 | 逆向分析 Guloader 的工作流程和其反逆向的机制。 | https://elis531989.medium.com/dancing-with-shellcodes-cracking-the-latest-version-of-guloader-75083fb15cb4| 
 | 20210420 | PlaidCTF 2021 The-False-Promise Chrome 的 Writeup。 | https://sec.today/pulses/f1054dfc-bff6-48ee-bc7e-f7fabb48afcc/| 
 | 20210420 | PlaidCTF 2021 The-False-Promise Chrome 的 Writeup。 | https://hackmd.io/@aventador/BJkOOyi8u| 
+| 20210420 | NAT 原理以及 UDP 穿透实现。 | https://paper.seebug.org/1561/| 
+| 20210420 | 解密钴矿攻击流量分析。 | https://isc.sans.edu/diary/rss/27322| 
+| 20210420 | Metasploit Windows最全的漏洞利用列表。 | https://www.infosecmatter.com/list-of-metasploit-windows-exploits-detailed-spreadsheet/| 
 
 
 # 安全维基 推荐
@@ -26,22 +29,26 @@
 | 20210420 | 可扩展跨平台网络安全工具套件 CaptfEncoder v2.0.0 | https://mp.weixin.qq.com/s?__biz=MzI0ODU5Mzg0NA==&mid=2247483998&idx=1&sn=baaa69c5576a1e52b7d8aeb9482e1cf3&chksm=e99f2e85dee8a79304a5535dbf6c77e9f9def6b2a7438c73e28792ac5ea3c628a02204d116e6&token=1448493475&lang=zh_CN#rd| 
 | 20210420 | Java反序列化 — URLDNS利用链分析 | https://xz.aliyun.com/t/9417| 
 | 20210420 | Yii2反序列化RCE 新POP链 | https://xz.aliyun.com/t/9420| 
+| 20210420 | 人工智能在网络安全领域的应用现状 | https://dl.ccf.org.cn/institude/institudeDetail?_ack=1&id=5398508341266432| 
 
 
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20210420T12:47:06Z | CVE-2021-3493 | Ubuntu OverlayFS Local Privesc | https://github.com/briskets/CVE-2021-3493 | The overlayfs implementation in the linux kernel did not properly validate with respect to user namespaces the setting of file capabilities on files in an underlying file system. Due to the combination of unprivileged user namespaces along with a patch carried in the Ubuntu kernel to allow unprivileged overlay mounts, an attacker could use this to gain elevated privileges.| 
-| 20210420T11:13:21Z | CVE-2020-1350 | HoneyPoC: Proof-of-Concept (PoC) script to exploit SIGRed (CVE-2020-1350). Achieves Domain Admin on Domain Controllers running Windows Server 2000 up to Windows Server 2019. | https://github.com/ZephrFish/CVE-2020-1350 | A remote code execution vulnerability exists in Windows Domain Name System servers when they fail to properly handle requests, aka %Windows DNS Server Remote Code Execution Vulnerability%.| 
+| 20210420T23:07:23Z | CVE-2020-1350 | HoneyPoC: Proof-of-Concept (PoC) script to exploit SIGRed (CVE-2020-1350). Achieves Domain Admin on Domain Controllers running Windows Server 2000 up to Windows Server 2019. | https://github.com/ZephrFish/CVE-2020-1350 | A remote code execution vulnerability exists in Windows Domain Name System servers when they fail to properly handle requests, aka %Windows DNS Server Remote Code Execution Vulnerability%.| 
+| 20210420T21:07:49Z | CVE-2021-30481 | https://nvd.nist.gov/vuln/detail/CVE-2021-30481 | https://github.com/floesen/CVE-2021-30481 | Valve Steam through 2021-04-10, when a Source engine game is installed, allows remote authenticated users to execute arbitrary code because of a buffer overflow that occurs for a Steam invite after one click.| 
+| 20210420T20:20:23Z | CVE-2021-3493 | Ubuntu OverlayFS Local Privesc | https://github.com/briskets/CVE-2021-3493 | The overlayfs implementation in the linux kernel did not properly validate with respect to user namespaces the setting of file capabilities on files in an underlying file system. Due to the combination of unprivileged user namespaces along with a patch carried in the Ubuntu kernel to allow unprivileged overlay mounts, an attacker could use this to gain elevated privileges.| 
+| 20210420T19:00:47Z | CVE-2021-22192 | CVE-2021-22192 靶场： 未授权用户 RCE 漏洞 | https://github.com/lyy289065406/CVE-2021-22192 | An issue has been discovered in GitLab CE/EE affecting all versions starting from 13.2 allowing unauthorized authenticated users to execute arbitrary code on the server.| 
 | 20210420T04:03:57Z | CVE-2020-14882 | Null | https://github.com/nice0e3/CVE-2020-14882_Exploit_Gui | Vulnerability in the Oracle WebLogic Server product of Oracle Fusion Middleware (component: Console). Supported versions that are affected are 10.3.6.0.0, 12.1.3.0.0, 12.2.1.3.0, 12.2.1.4.0 and 14.1.1.0.0. Easily exploitable vulnerability allows unauthenticated attacker with network access via HTTP to compromise Oracle WebLogic Server. Successful attacks of this vulnerability can result in takeover of Oracle WebLogic Server. CVSS 3.1 Base Score 9.8 (Confidentiality, Integrity and Availability impacts). CVSS Vector: (CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H).| 
 | 20210420T03:04:13Z | CVE-2020-14364 | Null | https://github.com/gejian-iscas/CVE-2020-14364 | An out-of-bounds read/write access flaw was found in the USB emulator of the QEMU in versions before 5.2.0. This issue occurs while processing USB packets from a guest when USBDevice %setup_len% exceeds its %data_buf[4096]% in the do_token_in, do_token_out routines. This flaw allows a guest user to crash the QEMU process, resulting in a denial of service, or the potential execution of arbitrary code with the privileges of the QEMU process on the host.| 
-| 20210420T02:41:51Z | CVE-2021-26295 | Apache OFBiz rmi反序列化EXP(CVE-2021-26295) | https://github.com/S0por/CVE-2021-26295-Apache-OFBiz-EXP | Apache OFBiz has unsafe deserialization prior to 17.12.06. An unauthenticated attacker can use this vulnerability to successfully take over Apache OFBiz.| 
+| 20210420T02:41:51Z | CVE-2021-26295 | Apache OFBiz rmi反序列化EXP(CVE-2021-26295) | https://github.com/S0por/CVE-2021-26295-Apache-OFBiz-EXP | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210420T10:42:27Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1675 | 489| 
+| 20210420T22:58:07Z | Spring 2021 Geography 817 work folder  | https://github.com/klee12/klee12.github.io | 0 | 0| 
+| 20210420T22:41:29Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1674 | 489| 
 | 20210420T08:37:55Z | Null | https://github.com/Jython1415/penguin-Klee | 0 | 0| 
 
 
@@ -54,16 +61,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210420T12:53:32Z | A python script file to statically and dynamically investigate and analyse binary files for buffer overflow exploits. | https://github.com/BroadbentT/BINARY-MASTER | 4 | 0| 
-| 20210420T12:50:50Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 15 | 10| 
-| 20210420T12:46:02Z | Linux privilege escalation auditing tool | https://github.com/mzet-/linux-exploit-suggester | 2567 | 674| 
-| 20210420T12:40:16Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9307 | 1503| 
-| 20210420T12:38:57Z | More Stable Offline Exploit version of PS4 6.72 Jailbreak. | https://github.com/DarkModderVC/PS4JB | 134 | 52| 
-| 20210420T12:28:29Z | Null | https://github.com/Udyz/Pdf-exploit | 0 | 0| 
-| 20210420T12:02:46Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 22 | 9| 
-| 20210420T11:50:55Z | PS4 Exploit list | https://github.com/Hakkuraifu/PS4xploit | 34 | 11| 
-| 20210420T11:18:27Z | This bash script will help you to hack remote hosts  | https://github.com/FabioDefilippo/linuxallremote | 10 | 2| 
-| 20210420T11:13:21Z | HoneyPoC: Proof-of-Concept (PoC) script to exploit SIGRed (CVE-2020-1350). Achieves Domain Admin on Domain Controllers running Windows Server 2000 up to Windows Server 2019. | https://github.com/ZephrFish/CVE-2020-1350 | 247 | 75| 
+| 20210420T23:43:13Z | Null | https://github.com/Kro0oz/Wp-exploit-upload-shell | 0 | 0| 
+| 20210420T23:22:15Z | Exploit Manager for A/D Challenges | https://github.com/Omnicrist/exploit_manager | 2 | 0| 
+| 20210420T23:13:47Z | Null | https://github.com/brerodrigues/exploit_drafts | 0 | 0| 
+| 20210420T23:10:23Z | PS-Phwoar! Alpha Version Exploit Host Menu for 5.05 FW with GoldHEN v1.1 Coded by SiSTRo / Port by Joonie86 | https://github.com/xforce505/xforce505.github.io | 0 | 0| 
+| 20210420T23:01:55Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 22 | 9| 
+| 20210420T22:19:49Z | No Sandbox - Applications That Run Chromium and Chrome Without The Sandbox. TL;DR exploits in these browser based applications are already sandboxed escaped: https://no-sandbox.io/ | https://github.com/sickcodes/no-sandbox | 135 | 13| 
+| 20210420T22:06:09Z | Exploit allowing to load arbitrary code on the PSX using only a memory card (no game needed) | https://github.com/brad-lin/FreePSXBoot | 174 | 13| 
+| 20210420T21:51:11Z | Exploit Jenkins using Shodan API | https://github.com/streghstreek/shodan-shell | 0 | 0| 
+| 20210420T21:49:39Z | Exploit for the RpcEptMapper registry key permissions vulnerability (Windows 7 / 2088R2 / 8 / 2012) | https://github.com/itm4n/Perfusion | 283 | 44| 
+| 20210420T21:43:23Z | Crea tu Exploit apk de forma rapida para hackeos   | https://github.com/FastmoreCrak/ZicelTT | 0 | 0| 
 
 
 # backdoor on Github 推荐
