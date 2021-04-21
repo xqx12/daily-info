@@ -85,6 +85,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210421T12:16:17Z | Linux/Windows Exploits | https://github.com/tedelm/Exploits | 0 | 0| 
 | 20210421T12:11:22Z | SECMON is a web-based tool for the automation of infosec watching and vulnerability management with a web interface. | https://github.com/Guezone/SECMON | 1 | 0| 
 | 20210421T12:11:17Z | jvav shiro exploit | https://github.com/M4da0/ShiroExploit | 0 | 0| 
 | 20210421T12:09:05Z | Null | https://github.com/Lemeilleurprince/Exploit | 0 | 0| 
@@ -92,7 +93,6 @@
 | 20210421T12:01:02Z | Null | https://github.com/Nyhrox1337/Exploit-Remote-File-Executor-Discord | 0 | 0| 
 | 20210421T11:55:01Z | a tool for creating exploited media files for discord | https://github.com/Schmenn/discord-exploits | 99 | 13| 
 | 20210421T11:48:59Z | PoC for exploiting RCE in Exchange CVEs: CVE-2021-28480, CVE-2021-28481, CVE-2021-28482 and CVE-2021-28483.  Achieves Domain Admin on Exchange Servers running Windows Server 2003 up to Windows Server 2019. | https://github.com/ZephrFish/ExchangeRCE-CVE-2021-28480 | 2 | 0| 
-| 20210421T11:29:46Z | Linux/Windows Exploits | https://github.com/tedelm/Exploits | 0 | 0| 
 | 20210421T11:23:47Z | A python script file to statically and dynamically investigate and analyse binary files for buffer overflow exploits. | https://github.com/BroadbentT/BINARY-MASTER | 5 | 1| 
 | 20210421T11:18:33Z | Proof-of-Concept (PoC) script to exploit Pulse Secure CVE-2021-22893.  | https://github.com/ZephrFish/CVE-2021-22893 | 0 | 0| 
 
