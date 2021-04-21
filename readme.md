@@ -38,7 +38,7 @@
 | 20210420T23:07:23Z | CVE-2020-1350 | HoneyPoC: Proof-of-Concept (PoC) script to exploit SIGRed (CVE-2020-1350). Achieves Domain Admin on Domain Controllers running Windows Server 2000 up to Windows Server 2019. | https://github.com/ZephrFish/CVE-2020-1350 | A remote code execution vulnerability exists in Windows Domain Name System servers when they fail to properly handle requests, aka %Windows DNS Server Remote Code Execution Vulnerability%.| 
 | 20210420T21:07:49Z | CVE-2021-30481 | https://nvd.nist.gov/vuln/detail/CVE-2021-30481 | https://github.com/floesen/CVE-2021-30481 | Valve Steam through 2021-04-10, when a Source engine game is installed, allows remote authenticated users to execute arbitrary code because of a buffer overflow that occurs for a Steam invite after one click.| 
 | 20210420T20:20:23Z | CVE-2021-3493 | Ubuntu OverlayFS Local Privesc | https://github.com/briskets/CVE-2021-3493 | The overlayfs implementation in the linux kernel did not properly validate with respect to user namespaces the setting of file capabilities on files in an underlying file system. Due to the combination of unprivileged user namespaces along with a patch carried in the Ubuntu kernel to allow unprivileged overlay mounts, an attacker could use this to gain elevated privileges.| 
-| 20210420T19:00:47Z | CVE-2021-22192 | CVE-2021-22192 靶场： 未授权用户 RCE 漏洞 | https://github.com/lyy289065406/CVE-2021-22192 | An issue has been discovered in GitLab CE/EE affecting all versions starting from 13.2 allowing unauthorized authenticated users to execute arbitrary code on the server.| 
+| 20210420T19:00:47Z | CVE-2021-22192 | CVE-2021-22192 靶场： 未授权用户 RCE 漏洞 | https://github.com/lyy289065406/CVE-2021-22192 | | 
 | 20210420T04:03:57Z | CVE-2020-14882 | Null | https://github.com/nice0e3/CVE-2020-14882_Exploit_Gui | Vulnerability in the Oracle WebLogic Server product of Oracle Fusion Middleware (component: Console). Supported versions that are affected are 10.3.6.0.0, 12.1.3.0.0, 12.2.1.3.0, 12.2.1.4.0 and 14.1.1.0.0. Easily exploitable vulnerability allows unauthenticated attacker with network access via HTTP to compromise Oracle WebLogic Server. Successful attacks of this vulnerability can result in takeover of Oracle WebLogic Server. CVSS 3.1 Base Score 9.8 (Confidentiality, Integrity and Availability impacts). CVSS Vector: (CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H).| 
 | 20210420T03:04:13Z | CVE-2020-14364 | Null | https://github.com/gejian-iscas/CVE-2020-14364 | An out-of-bounds read/write access flaw was found in the USB emulator of the QEMU in versions before 5.2.0. This issue occurs while processing USB packets from a guest when USBDevice %setup_len% exceeds its %data_buf[4096]% in the do_token_in, do_token_out routines. This flaw allows a guest user to crash the QEMU process, resulting in a denial of service, or the potential execution of arbitrary code with the privileges of the QEMU process on the host.| 
 | 20210420T02:41:51Z | CVE-2021-26295 | Apache OFBiz rmi反序列化EXP(CVE-2021-26295) | https://github.com/S0por/CVE-2021-26295-Apache-OFBiz-EXP | | 
@@ -76,27 +76,31 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210420T12:44:54Z | free and open source nonobf server backdoor plugin | https://github.com/AcaiBerii/Bakdooro | 0 | 0| 
+| 20210420T23:42:49Z | Null | https://github.com/piyushsharma220699/Backdoor-in-Cyber-Security | 0 | 0| 
+| 20210420T23:39:50Z | LKM rootkit for Linux Kernels 2.6.x/3.x/4.x/5.x (x86/x86_64 and ARM64) | https://github.com/m0nad/Diamorphine | 755 | 280| 
+| 20210420T20:57:21Z | Simple Python Backdoor | https://github.com/zNairy/Sonaris | 5 | 0| 
+| 20210420T19:38:42Z | Null | https://github.com/Wrench56/Backdoor | 1 | 0| 
+| 20210420T19:03:29Z | TrojanZoo provides a universal pytorch platform to conduct security researches (especially backdoor attacks/defenses) of image classification in deep learning. | https://github.com/ain-soph/trojanzoo | 65 | 11| 
+| 20210420T18:04:01Z | free and open source nonobf server backdoor plugin | https://github.com/AcaiBerii/Bakdooro | 0 | 0| 
+| 20210420T16:35:46Z | I created this script to help make it easier for you to directly attack index.php on the website | https://github.com/penucuriCode/shell-backdoor | 2 | 1| 
+| 20210420T13:21:03Z | OWASP ZAP add-on containing the web-backdoors and attack files from FuzzDB | https://github.com/zaproxy/fuzzdb-offensive | 6 | 6| 
+| 20210420T13:12:20Z | Three sub-projects of different backdoor attack configurations scaling in complexity, with server and client implementations. | https://github.com/BrunoScaglione/Backdoor-Attack-Simulation | 0 | 0| 
 | 20210420T12:02:21Z | Ghost Framework is an Android post-exploitation framework that exploits the Android Debug Bridge to remotely access an Android device. | https://github.com/EntySec/ghost | 1043 | 504| 
-| 20210420T10:39:26Z | Null | https://github.com/Delle9999/backdoor | 0 | 0| 
-| 20210420T08:30:04Z | Null | https://github.com/igpig/igpigs-Backdoor | 0 | 0| 
-| 20210420T03:05:41Z | Hidden backdoor attack on NLP systems | https://github.com/lishaofeng/NLP_Backdoor | 1 | 0| 
-| 20210420T01:14:45Z | Null | https://github.com/mustblade/phpstudy_backdoor_exp | 0 | 0| 
 
 
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210420T12:51:33Z | 参数 , 字典 collections | https://github.com/7hang/Fuzz_dic | 210 | 68| 
-| 20210420T12:20:53Z | Scripts de trabalhos e aulas de Lógica Fuzzy - 7° semestre | https://github.com/erikas0/Logica_Fuzzy | 0 | 0| 
-| 20210420T12:09:56Z | Playground with fuzzy logic | https://github.com/perinm/proj-fuzzy | 0 | 0| 
-| 20210420T12:02:00Z | Null | https://github.com/DanielEbert/EmulatedFirmwareFuzzing | 0 | 0| 
-| 20210420T11:56:44Z | Null | https://github.com/erdifajarf/PMDK_FuzzyAHP | 0 | 0| 
-| 20210420T11:15:03Z | Python library to compute a fuzzy time difference. | https://github.com/hXtreme/fuzzy_delta_time | 0 | 0| 
-| 20210420T11:08:06Z | Null | https://github.com/milhamm/restaurant-fuzzy-logic | 0 | 0| 
-| 20210420T10:32:14Z | Fuzzy Front End 2021 - Pimp my makerspace | https://github.com/olenesheim/fuzzy_front_end | 0 | 0| 
-| 20210420T10:30:12Z | Binary, coverage-guided fuzzer for Windows and macOS | https://github.com/googleprojectzero/Jackalope | 498 | 56| 
-| 20210420T10:08:37Z | Null | https://github.com/KonradMierzwa/OfficeSamurai.FuzzyWuzzy | 0 | 0| 
+| 20210420T23:59:28Z | SQL project to analyse a growing business and colect relevant information to help steer the company%s future. | https://github.com/alanaselli/MavenFuzzyFactory_Project | 0 | 0| 
+| 20210420T23:29:04Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2318 | 125| 
+| 20210420T23:18:35Z | A test framework for running integration and regression testing on Fuzzy Merging in CluedIn | https://github.com/CluedIn-io/Fuzzy-Merging-TestBed | 0 | 0| 
+| 20210420T22:51:22Z | Fuzzy Logic for Python 3 | https://github.com/amogorkon/fuzzylogic | 22 | 9| 
+| 20210420T22:48:18Z | Null | https://github.com/barddes/fuzzer-opencv | 0 | 0| 
+| 20210420T22:46:20Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6210 | 1253| 
+| 20210420T22:33:19Z | A symbolic fuzzer that can generate input values symbolically for a python function. We assume that the function is not recursive and at most calls two self-contained methods. We can assume that all variables are annotated with the type information, and only container used in the programs are lists with the maximum size 10. | https://github.com/mathews1193/Symbolic_Fuzzer | 0 | 0| 
+| 20210420T22:03:48Z | Security oriented software fuzzer. Supports evolutionary, feedback-driven fuzzing based on code coverage (SW and HW based) | https://github.com/google/honggfuzz | 2193 | 442| 
+| 20210420T21:32:30Z | criando arquivo .fis no Matlab usando linhas de comando | https://github.com/jacimarajp/Controle-fuzzy | 0 | 0| 
+| 20210420T21:04:41Z | Fuzzy matching for Neovim | https://github.com/amirrezaask/fuzzy.nvim | 35 | 1| 
 
 
 
