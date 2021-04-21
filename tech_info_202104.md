@@ -115,16 +115,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210421T01:29:01Z | Group 4C Fuzzy Logic Medieval Chess AI Senior Project | https://github.com/arizonagranger/SeniorProjectFuzzyLogicChess | 1 | 1| 
-| 20210421T01:14:36Z | A regression greybox fuzzer aflchurn | https://github.com/aflchurn/aflchurn | 21 | 1| 
-| 20210421T01:04:01Z | Null | https://github.com/igorsodre/fuzzy-trader | 0 | 0| 
-| 20210421T00:51:18Z | Take the current implementation and turning a microservice architecture | https://github.com/ccesarrod/FuzzyMicrosrvices | 0 | 0| 
-| 20210421T00:39:12Z | A test framework for running integration and regression testing on Fuzzy Merging in CluedIn | https://github.com/CluedIn-io/Fuzzy-Merging-TestBed | 0 | 0| 
-| 20210421T00:28:00Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6210 | 1253| 
-| 20210421T00:21:46Z | This repository is for testing a number of open source applications for vulnerabilities using multiple fuzzers. | https://github.com/bartholomewHarris/fuzzingNode.jsApplications | 1 | 1| 
-| 20210421T00:05:32Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 3 | 3| 
-| 20210421T00:02:49Z | Null | https://github.com/josh-mountain/fuzzy-potato | 0 | 0| 
-| 20210420T23:59:28Z | SQL project to analyse a growing business and colect relevant information to help steer the company%s future. | https://github.com/alanaselli/MavenFuzzyFactory_Project | 0 | 0| 
+| 20210421T12:04:04Z | Null | https://github.com/princeypiexd/fuzzy-potato | 0 | 0| 
+| 20210421T11:59:59Z | Null | https://github.com/atEaE/fuzzy-bookmarks | 0 | 0| 
+| 20210421T11:55:24Z | Brainfuck fuzzing project | https://github.com/keworr/Brainfuck-fuzz-project | 0 | 0| 
+| 20210421T11:54:03Z | Null | https://github.com/JohenanLi/AggregateFuzzing | 0 | 0| 
+| 20210421T11:42:05Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6214 | 1253| 
+| 20210421T11:19:05Z | collection of helper tools for fuzzing | https://github.com/fuzzah/fuzzaide | 2 | 0| 
+| 20210421T11:10:02Z | php fuzzer | https://github.com/HGUfuzzing/php-fuzzer | 0 | 0| 
+| 20210421T11:01:03Z | Coverage-guided, in-process fuzzing for the JVM | https://github.com/CodeIntelligenceTesting/jazzer | 281 | 16| 
+| 20210421T10:35:22Z | Packer Fuzzer is a fast and efficient scanner for security detection of websites constructed by javascript module bundler such as Webpack.  | https://github.com/rtcatc/Packer-Fuzzer | 799 | 102| 
+| 20210421T10:30:02Z | Null | https://github.com/loucol1/project_fuzzer | 0 | 0| 
 
 
 
