@@ -85,6 +85,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210421T00:35:26Z | Exploit for the RpcEptMapper registry key permissions vulnerability (Windows 7 / 2088R2 / 8 / 2012) | https://github.com/itm4n/Perfusion | 284 | 44| 
 | 20210421T00:26:46Z | PS-Phwoar! Alpha Version Exploit Host Menu for 5.05 FW with GoldHen v1.1 Coded by SiSTRo / Port by Joonie86 | https://github.com/xforce505/xforce505.github.io | 0 | 0| 
 | 20210421T00:07:32Z | Root repository for CS 6265: Information Security Lab - Reverse Engineering and Binary Exploitation | https://github.com/one2blame/cs6265 | 1 | 2| 
 | 20210421T00:02:45Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 22 | 9| 
@@ -94,7 +95,6 @@
 | 20210420T23:13:47Z | Null | https://github.com/brerodrigues/exploit_drafts | 0 | 0| 
 | 20210420T22:19:49Z | No Sandbox - Applications That Run Chromium and Chrome Without The Sandbox. TL;DR exploits in these browser based applications are already sandboxed escaped: https://no-sandbox.io/ | https://github.com/sickcodes/no-sandbox | 135 | 13| 
 | 20210420T22:06:09Z | Exploit allowing to load arbitrary code on the PSX using only a memory card (no game needed) | https://github.com/brad-lin/FreePSXBoot | 174 | 13| 
-| 20210420T21:51:11Z | Exploit Jenkins using Shodan API | https://github.com/streghstreek/shodan-shell | 0 | 0| 
 
 
 # backdoor on Github 推荐
