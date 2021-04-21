@@ -19,13 +19,13 @@
 | 20210421 | CVE-2021-26413：Windows Installer 签名欺骗漏洞 | https://sec.today/pulses/63e8a3c7-ab25-463b-a757-8c76f20b299d/| 
 | 20210421 | 研究发现 APT 攻击者通过 0day 绕过 Pulse Secure VPN 身份验证。 | https://sec.today/pulses/b6165b1d-3413-401f-9845-86d7dfb28828/| 
 | 20210421 | Perfusion：Windows 7, Windows Server 2008R2, Windows 8, and Windows Server 2012 上的本地提权工具。 | https://sec.today/pulses/25405811-53fe-4074-a6b1-9c8d1d84e098/| 
+| 20210421 | Tenet：IDA Pro 的插件，用于清晰的展示和探索被分析的程序执行状态。 | https://blog.ret2.io/2021/04/20/tenet-trace-explorer/| 
+| 20210421 | CVE-2021-26413：Windows Installer 签名欺骗漏洞 | https://sec.okta.com/articles/2021/04/uncovering-and-disclosing-signature-spoofing-vulnerability-windows/| 
+| 20210421 | 研究发现 APT 攻击者通过 0day 绕过 Pulse Secure VPN 身份验证。 | https://www.fireeye.com/blog/threat-research/2021/04/suspected-apt-actors-leverage-bypass-techniques-pulse-secure-zero-day.html| 
+| 20210421 | Perfusion：Windows 7, Windows Server 2008R2, Windows 8, and Windows Server 2012 上的本地提权工具。 | https://github.com/itm4n/Perfusion/blob/master/RegistryPatch.ps1| 
 | 20210420 | Codecov Bash Uploader 工具被黑客修改，可能将用户的 CI（持续集成）的密钥、代码等机密信息发送到了第三方服务器上。 | https://about.codecov.io/security-update/| 
 | 20210420 | Pass-the-Hash (PTH): a PoC code to use Pass-the-Hash for authentication on a local Named Pipe user Impersonation. | https://s3cur3th1ssh1t.github.io/Named-Pipe-PTH/| 
 | 20210420 | 在 Chrome 沙箱中利用 1Day 和 渲染器重定向实现信息泄漏。 | https://ptr-yudai.hatenablog.com/entry/2021/04/19/140802| 
-| 20210420 | CVE-2021-3493：Ubuntu 下利用 overlayfs 提权。 | https://ssd-disclosure.com/ssd-advisory-overlayfs-pe/| 
-| 20210420 | 介绍一些例如 GA 等自定义 fuzzer 的功能和设计。 | https://github.com/hardenedlinux/harbian-qa/blob/master/survey.md| 
-| 20210420 | 通过 WebDriver REST API 的 RCE。 | https://lorexxar.cn/2021/04/16/chrome-webdriver-attack/| 
-| 20210420 | Tenda D151 和 D301 无需身份认证下载配置信息及登录的 POC。 | https://github.com/BenChaliah/Tenda_D151_D301_POC| 
 
 
 # 安全维基 推荐
@@ -50,7 +50,7 @@
 | 20210421T11:48:59Z | CVE-2021-28480 | PoC for exploiting RCE in Exchange CVEs: CVE-2021-28480, CVE-2021-28481, CVE-2021-28482 and CVE-2021-28483.  Achieves Domain Admin on Exchange Servers running Windows Server 2003 up to Windows Server 2019. | https://github.com/ZephrFish/ExchangeRCE-CVE-2021-28480 | Microsoft Exchange Server Remote Code Execution Vulnerability This CVE ID is unique from CVE-2021-28481, CVE-2021-28482, CVE-2021-28483.| 
 | 20210421T11:18:33Z | CVE-2021-22893 | Proof-of-Concept (PoC) script to exploit Pulse Secure CVE-2021-22893.  | https://github.com/ZephrFish/CVE-2021-22893 | 未查询到CVE信息| 
 | 20210421T10:59:57Z | CVE-2021-22192 | CVE-2021-22192 靶场： 未授权用户 RCE 漏洞 | https://github.com/lyy289065406/CVE-2021-22192 | An issue has been discovered in GitLab CE/EE affecting all versions starting from 13.2 allowing unauthorized authenticated users to execute arbitrary code on the server.| 
-| 20210421T10:58:48Z | CVE-2021-30481 | https://nvd.nist.gov/vuln/detail/CVE-2021-30481 | https://github.com/floesen/CVE-2021-30481 | | 
+| 20210421T10:58:48Z | CVE-2021-30481 | https://nvd.nist.gov/vuln/detail/CVE-2021-30481 | https://github.com/floesen/CVE-2021-30481 | Valve Steam through 2021-04-10, when a Source engine game is installed, allows remote authenticated users to execute arbitrary code because of a buffer overflow that occurs for a Steam invite after one click.| 
 | 20210421T10:58:41Z | CVE-2021-22893 | Pulse Connect Secure RCE Vulnerability (CVE-2021-22893) | https://github.com/Mad-robot/CVE-2021-22893 | 未查询到CVE信息| 
 | 20210421T09:31:14Z | CVE-2020-14364 | Null | https://github.com/gejian-iscas/CVE-2020-14364 | An out-of-bounds read/write access flaw was found in the USB emulator of the QEMU in versions before 5.2.0. This issue occurs while processing USB packets from a guest when USBDevice %setup_len% exceeds its %data_buf[4096]% in the do_token_in, do_token_out routines. This flaw allows a guest user to crash the QEMU process, resulting in a denial of service, or the potential execution of arbitrary code with the privileges of the QEMU process on the host.| 
 | 20210421T08:32:02Z | CVE-2021-3156 | CVE-2021-3156: Sudo heap overflow exploit for Debain 10 | https://github.com/0xdevil/CVE-2021-3156 | Sudo before 1.9.5p2 contains an off-by-one error that can result in a heap-based buffer overflow, which allows privilege escalation to root via %sudoedit -s% and a command-line argument that ends with a single backslash character.| 
@@ -85,6 +85,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210421T12:02:30Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 22 | 9| 
 | 20210421T12:01:02Z | Null | https://github.com/Nyhrox1337/Exploit-Remote-File-Executor-Discord | 0 | 0| 
 | 20210421T11:55:01Z | a tool for creating exploited media files for discord | https://github.com/Schmenn/discord-exploits | 99 | 13| 
 | 20210421T11:48:59Z | PoC for exploiting RCE in Exchange CVEs: CVE-2021-28480, CVE-2021-28481, CVE-2021-28482 and CVE-2021-28483.  Achieves Domain Admin on Exchange Servers running Windows Server 2003 up to Windows Server 2019. | https://github.com/ZephrFish/ExchangeRCE-CVE-2021-28480 | 2 | 0| 
@@ -93,7 +94,6 @@
 | 20210421T11:23:47Z | A python script file to statically and dynamically investigate and analyse binary files for buffer overflow exploits. | https://github.com/BroadbentT/BINARY-MASTER | 5 | 1| 
 | 20210421T11:18:33Z | Proof-of-Concept (PoC) script to exploit Pulse Secure CVE-2021-22893.  | https://github.com/ZephrFish/CVE-2021-22893 | 0 | 0| 
 | 20210421T11:15:01Z | Example C Program for Binary Exploitation Workshops | https://github.com/kevinalmansa/vulnerable-c-program | 1 | 0| 
-| 20210421T11:02:28Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 22 | 9| 
 | 20210421T11:00:35Z | jvav shiro exploit | https://github.com/M4da0/ShiroExploit | 0 | 0| 
 
 
