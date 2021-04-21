@@ -115,16 +115,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210421T12:04:04Z | Null | https://github.com/princeypiexd/fuzzy-potato | 0 | 0| 
-| 20210421T11:59:59Z | Null | https://github.com/atEaE/fuzzy-bookmarks | 0 | 0| 
+| 20210421T12:06:49Z | Null | https://github.com/atEaE/fuzzy-bookmarks | 0 | 0| 
+| 20210421T12:05:25Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 3472 | 800| 
+| 20210421T12:05:19Z | Null | https://github.com/princeypiexd/fuzzy-potato | 0 | 0| 
+| 20210421T12:05:11Z | Null | https://github.com/Piyush9323/Fuzzy-c-means | 0 | 0| 
 | 20210421T11:55:24Z | Brainfuck fuzzing project | https://github.com/keworr/Brainfuck-fuzz-project | 0 | 0| 
 | 20210421T11:54:03Z | Null | https://github.com/JohenanLi/AggregateFuzzing | 0 | 0| 
 | 20210421T11:42:05Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6214 | 1253| 
 | 20210421T11:19:05Z | collection of helper tools for fuzzing | https://github.com/fuzzah/fuzzaide | 2 | 0| 
 | 20210421T11:10:02Z | php fuzzer | https://github.com/HGUfuzzing/php-fuzzer | 0 | 0| 
 | 20210421T11:01:03Z | Coverage-guided, in-process fuzzing for the JVM | https://github.com/CodeIntelligenceTesting/jazzer | 281 | 16| 
-| 20210421T10:35:22Z | Packer Fuzzer is a fast and efficient scanner for security detection of websites constructed by javascript module bundler such as Webpack.  | https://github.com/rtcatc/Packer-Fuzzer | 799 | 102| 
-| 20210421T10:30:02Z | Null | https://github.com/loucol1/project_fuzzer | 0 | 0| 
 
 
 
