@@ -55,7 +55,7 @@
 | 20210420T02:41:51Z | CVE-2021-26295 | Apache OFBiz rmi反序列化EXP(CVE-2021-26295) | https://github.com/S0por/CVE-2021-26295-Apache-OFBiz-EXP | Apache OFBiz has unsafe deserialization prior to 17.12.06. An unauthenticated attacker can use this vulnerability to successfully take over Apache OFBiz.| 
 | 20210419T12:48:13Z | cve-2021-6666 | 就是玩，哎，让你监测TM的。 | https://github.com/r90tpass/cve-2021-6666 | 未查询到CVE信息| 
 | 20210419T11:56:34Z | 未知编号 | Null | https://github.com/r90tpass/CVE_2021-6123111 | 未查询到CVE信息| 
-| 20210419T10:14:21Z | CVE-2021-1 | 1 | https://github.com/hackzuoji/CVE-2021-1 | | 
+| 20210419T10:14:21Z | CVE-2021-1 | 1 | https://github.com/hackzuoji/CVE-2021-1 | 未查询到CVE信息| 
 
 
 # klee on Github 推荐
@@ -100,6 +100,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210421T01:10:13Z | A demo and explanation of how backdoor poisoning in the form of a Trojan work in neural networks | https://github.com/adit-bala/Introduction-to-Trojans-in-AI | 0 | 0| 
 | 20210421T00:09:49Z | free and open source nonobf server backdoor plugin | https://github.com/AcaiBerii/Bakdooro | 0 | 0| 
 | 20210421T00:09:19Z | Null | https://github.com/piyushsharma220699/Backdoor-in-Cyber-Security | 0 | 0| 
 | 20210420T23:39:50Z | LKM rootkit for Linux Kernels 2.6.x/3.x/4.x/5.x (x86/x86_64 and ARM64) | https://github.com/m0nad/Diamorphine | 755 | 280| 
@@ -109,7 +110,6 @@
 | 20210420T16:35:46Z | I created this script to help make it easier for you to directly attack index.php on the website | https://github.com/penucuriCode/shell-backdoor | 2 | 1| 
 | 20210420T13:21:03Z | OWASP ZAP add-on containing the web-backdoors and attack files from FuzzDB | https://github.com/zaproxy/fuzzdb-offensive | 6 | 6| 
 | 20210420T13:12:20Z | Three sub-projects of different backdoor attack configurations scaling in complexity, with server and client implementations. | https://github.com/BrunoScaglione/Backdoor-Attack-Simulation | 0 | 0| 
-| 20210420T12:02:21Z | Ghost Framework is an Android post-exploitation framework that exploits the Android Debug Bridge to remotely access an Android device. | https://github.com/EntySec/ghost | 1043 | 504| 
 
 
 # fuzz on Github 推荐
