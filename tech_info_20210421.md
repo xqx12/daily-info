@@ -35,11 +35,11 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20210421T12:19:28Z | CVE-2021-3493 | Ubuntu OverlayFS Local Privesc | https://github.com/briskets/CVE-2021-3493 | 未查询到CVE信息| 
+| 20210421T12:19:28Z | CVE-2021-3493 | Ubuntu OverlayFS Local Privesc | https://github.com/briskets/CVE-2021-3493 | | 
 | 20210421T11:48:59Z | CVE-2021-28480 | PoC for exploiting RCE in Exchange CVEs: CVE-2021-28480, CVE-2021-28481, CVE-2021-28482 and CVE-2021-28483.  Achieves Domain Admin on Exchange Servers running Windows Server 2003 up to Windows Server 2019. | https://github.com/ZephrFish/ExchangeRCE-CVE-2021-28480 | 未查询到CVE信息| 
 | 20210421T11:18:33Z | CVE-2021-22893 | Proof-of-Concept (PoC) script to exploit Pulse Secure CVE-2021-22893.  | https://github.com/ZephrFish/CVE-2021-22893 | 未查询到CVE信息| 
 | 20210421T10:59:57Z | CVE-2021-22192 | CVE-2021-22192 靶场： 未授权用户 RCE 漏洞 | https://github.com/lyy289065406/CVE-2021-22192 | 未查询到CVE信息| 
-| 20210421T10:58:48Z | CVE-2021-30481 | https://nvd.nist.gov/vuln/detail/CVE-2021-30481 | https://github.com/floesen/CVE-2021-30481 | 未查询到CVE信息| 
+| 20210421T10:58:48Z | CVE-2021-30481 | https://nvd.nist.gov/vuln/detail/CVE-2021-30481 | https://github.com/floesen/CVE-2021-30481 | | 
 | 20210421T10:58:41Z | CVE-2021-22893 | Pulse Connect Secure RCE Vulnerability (CVE-2021-22893) | https://github.com/Mad-robot/CVE-2021-22893 | 未查询到CVE信息| 
 | 20210421T09:31:14Z | CVE-2020-14364 | Null | https://github.com/gejian-iscas/CVE-2020-14364 | 未查询到CVE信息| 
 | 20210421T08:32:02Z | CVE-2021-3156 | CVE-2021-3156: Sudo heap overflow exploit for Debain 10 | https://github.com/0xdevil/CVE-2021-3156 | 未查询到CVE信息| 
@@ -92,16 +92,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210421T12:28:28Z | Null | https://github.com/DanielEbert/EmulatedFirmwareFuzzing | 0 | 0| 
+| 20210421T12:28:18Z | Null | https://github.com/JohenanLi/AggregateFuzzing | 0 | 0| 
+| 20210421T12:24:40Z | Null | https://github.com/princeypiexd/fuzzy-potato | 0 | 0| 
 | 20210421T12:18:11Z | Coverage-guided, in-process fuzzing for the JVM | https://github.com/CodeIntelligenceTesting/jazzer | 281 | 16| 
 | 20210421T12:17:44Z | 📨 Responsive email template generator. | https://github.com/luangjokaj/fuzzymail | 114 | 4| 
 | 20210421T12:11:04Z | Null | https://github.com/radareorg/radare2-fuzz | 0 | 0| 
 | 20210421T12:09:45Z | Null | https://github.com/Piyush9323/Fuzzy-c-means | 0 | 0| 
 | 20210421T12:06:49Z | Null | https://github.com/atEaE/fuzzy-bookmarks | 0 | 0| 
 | 20210421T12:05:25Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 3472 | 800| 
-| 20210421T12:05:19Z | Null | https://github.com/princeypiexd/fuzzy-potato | 0 | 0| 
 | 20210421T11:55:24Z | Brainfuck fuzzing project | https://github.com/keworr/Brainfuck-fuzz-project | 0 | 0| 
-| 20210421T11:54:03Z | Null | https://github.com/JohenanLi/AggregateFuzzing | 0 | 0| 
-| 20210421T11:42:05Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6214 | 1254| 
 
 
 
