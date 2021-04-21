@@ -85,6 +85,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210421T12:50:53Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 15 | 10| 
 | 20210421T12:48:35Z | SECMON is a web-based tool for the automation of infosec watching and vulnerability management with a web interface. | https://github.com/Guezone/SECMON | 3 | 0| 
 | 20210421T12:35:15Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9309 | 1503| 
 | 20210421T12:29:47Z | PS4 Exploit list | https://github.com/Hakkuraifu/PS4xploit | 34 | 11| 
@@ -94,7 +95,6 @@
 | 20210421T12:11:17Z | jvav shiro exploit | https://github.com/M4da0/ShiroExploit | 0 | 0| 
 | 20210421T12:09:05Z | Null | https://github.com/Lemeilleurprince/Exploit | 0 | 0| 
 | 20210421T12:02:30Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 22 | 9| 
-| 20210421T12:01:02Z | Null | https://github.com/Nyhrox1337/Exploit-Remote-File-Executor-Discord | 0 | 0| 
 
 
 # backdoor on Github 推荐
