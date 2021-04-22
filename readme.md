@@ -44,7 +44,7 @@
 | 20210421T10:58:41Z | CVE-2021-22893 | Pulse Connect Secure RCE Vulnerability (CVE-2021-22893) | https://github.com/Mad-robot/CVE-2021-22893 | 未查询到CVE信息| 
 | 20210421T09:31:14Z | CVE-2020-14364 | Null | https://github.com/gejian-iscas/CVE-2020-14364 | | 
 | 20210421T08:32:02Z | CVE-2021-3156 | CVE-2021-3156: Sudo heap overflow exploit for Debain 10 | https://github.com/0xdevil/CVE-2021-3156 | | 
-| 20210421T07:18:09Z | CVE-2021-26295 | Apache OFBiz rmi反序列化EXP(CVE-2021-26295) | https://github.com/S0por/CVE-2021-26295-Apache-OFBiz-EXP | | 
+| 20210421T07:18:09Z | CVE-2021-26295 | Apache OFBiz rmi反序列化EXP(CVE-2021-26295) | https://github.com/S0por/CVE-2021-26295-Apache-OFBiz-EXP | Apache OFBiz has unsafe deserialization prior to 17.12.06. An unauthenticated attacker can use this vulnerability to successfully take over Apache OFBiz.| 
 
 
 # klee on Github 推荐
