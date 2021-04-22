@@ -85,6 +85,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210422T00:44:31Z | A GameCube save exploit for PAL Super Mario Sunshine | https://github.com/QbeRoot/shinehax-gc | 15 | 0| 
 | 20210422T00:28:29Z | PS4 Exploits 5.05-7.55 | https://github.com/Buzbee/Buzbee.github.io | 1 | 0| 
 | 20210422T00:02:57Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 22 | 9| 
 | 20210421T23:55:17Z | Root repository for CS 6265: Information Security Lab - Reverse Engineering and Binary Exploitation | https://github.com/one2blame/cs6265 | 1 | 2| 
@@ -94,7 +95,6 @@
 | 20210421T22:50:57Z | Null | https://github.com/exploit-code/exploit-code.github.io | 0 | 0| 
 | 20210421T22:07:13Z | Null | https://github.com/CKScripts/RBLX-Exploit | 0 | 0| 
 | 20210421T21:35:38Z | A proof of concept of CVE-2020-15808 vulnerability exploit on STM32F4 Discovery board | https://github.com/manucuf/CVE202015808 | 0 | 0| 
-| 20210421T21:11:55Z | Powerful payload generation and shellcode injection tool that provides support for common platforms and architectures. | https://github.com/EntySec/HatVenom | 0 | 0| 
 
 
 # backdoor on Github 推荐
