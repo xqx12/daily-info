@@ -6,6 +6,13 @@
 # 玄武实验室 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20210422 | 以色列军火商的 UFED 和 Physical Analyzer 数字取证工具被发现严重安全漏洞。 | https://signal.org/blog/cellebrite-vulnerabilities/| 
+| 20210422 | 捕捉到三个有关 SonicWall Email 野外利用的 0day。 | https://www.fireeye.com/blog/threat-research/2021/04/zero-day-exploits-in-sonicwall-email-security-lead-to-compromise.html| 
+| 20210422 | 由于 Homebrew 的 git-diff 脚本存在错误，攻击者可以修改 Cask repo 进行远程命令执行。 | https://blog.ryotak.me/post/homebrew-security-incident-en/| 
+| 20210422 | CVE-2021-26415：Windows Installer 本地提权漏洞的分析。 | https://www.cloaked.pl/2021/04/cve-2021-26415/| 
+| 20210422 | CertStealer：无落地文件的 Windows 证书导入导出工具。 | https://github.com/TheWover/CertStealer| 
+| 20210422 | 将 Azure Application Proxy 服务用于 Cobalt Strike Malleable C2。 | https://www.trustedsec.com/blog/azure-application-proxy-c2/| 
+| 20210422 | 因涉嫌故意提交存在漏洞的代码，Greg Kroah-Hartman 禁止明尼苏达大学（ University of Minnesota ）的开发者参与 Linux 内核开发。 | https://www.zdnet.com/article/greg-kroah-hartman-bans-university-of-minnesota-from-linux-development-for-deliberately-buggy-patches/| 
 | 20210421 | CVE-2020-28973：ABUS Secvest 无线报警系统的未鉴权漏洞。 | https://eye.security/en/blog/breaking-abus-secvest-internet-connected-alarm-systems-cve-2020-28973| 
 | 20210421 | HabitsRAT：Go 语言开发的 Windows Server 和 Linux 的后门软件。 | https://www.intezer.com/blog/malware-analysis/habitsrat-used-to-target-linux-and-windows-servers/| 
 | 20210421 | CVE-2021-30481：利用 Steamworks API 和 Source Engine，通过 Steam 邀请实现 RCE。 | https://secret.club/2021/04/20/source-engine-rce-invite.html| 
@@ -19,43 +26,36 @@
 | 20210421 | CVE-2021-26413：Windows Installer 签名欺骗漏洞 | https://sec.today/pulses/63e8a3c7-ab25-463b-a757-8c76f20b299d/| 
 | 20210421 | 研究发现 APT 攻击者通过 0day 绕过 Pulse Secure VPN 身份验证。 | https://sec.today/pulses/b6165b1d-3413-401f-9845-86d7dfb28828/| 
 | 20210421 | Perfusion：Windows 7, Windows Server 2008R2, Windows 8, and Windows Server 2012 上的本地提权工具。 | https://sec.today/pulses/25405811-53fe-4074-a6b1-9c8d1d84e098/| 
-| 20210421 | Tenet：IDA Pro 的插件，用于清晰的展示和探索被分析的程序执行状态。 | https://blog.ret2.io/2021/04/20/tenet-trace-explorer/| 
-| 20210421 | CVE-2021-26413：Windows Installer 签名欺骗漏洞 | https://sec.okta.com/articles/2021/04/uncovering-and-disclosing-signature-spoofing-vulnerability-windows/| 
-| 20210421 | 研究发现 APT 攻击者通过 0day 绕过 Pulse Secure VPN 身份验证。 | https://www.fireeye.com/blog/threat-research/2021/04/suspected-apt-actors-leverage-bypass-techniques-pulse-secure-zero-day.html| 
-| 20210421 | Perfusion：Windows 7, Windows Server 2008R2, Windows 8, and Windows Server 2012 上的本地提权工具。 | https://github.com/itm4n/Perfusion/blob/master/RegistryPatch.ps1| 
-| 20210421 | 使用PsExec远程执行工具实现与目标主机通信加密原理分析。 | https://archercreat.github.io/psexec_encryption/| 
-| 20210420 | Codecov Bash Uploader 工具被黑客修改，可能将用户的 CI（持续集成）的密钥、代码等机密信息发送到了第三方服务器上。 | https://about.codecov.io/security-update/| 
-| 20210420 | Pass-the-Hash (PTH): a PoC code to use Pass-the-Hash for authentication on a local Named Pipe user Impersonation. | https://s3cur3th1ssh1t.github.io/Named-Pipe-PTH/| 
 
 
 # 安全维基 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20210422 | [HTB] Worker Writeup | https://mp.weixin.qq.com/s/J5jKKfbwBbOTjpnwcFotrg| 
+| 20210422 | [HTB] Passage Writeup | https://mp.weixin.qq.com/s/UxwpzwuvvDd3T852yrGNFw| 
+| 20210422 | [HTB] Academy Writeup | https://mp.weixin.qq.com/s/0b-C5MHDMP-oKj8W5baeWg| 
+| 20210422 | [HTB] Shocker Writeup | https://mp.weixin.qq.com/s/oABTaWPOSyNzn112zOnUQA| 
 | 20210421 | 如何制作一个微型内核 | https://www.sec-in.com/article/1028| 
 | 20210421 | Analysis of a use-after-free Vulnerability in Adobe Acroba... | https://blog.exodusintel.com/2021/04/20/analysis-of-a-use-after-free-vulnerability-in-adobe-acrobat-reader-dc/| 
 | 20210420 | MyBatis和MyBatis可能导致的sql注入 | https://www.sec-in.com/article/1022| 
 | 20210420 | 可扩展跨平台网络安全工具套件 CaptfEncoder v2.0.0 | https://mp.weixin.qq.com/s?__biz=MzI0ODU5Mzg0NA==&mid=2247483998&idx=1&sn=baaa69c5576a1e52b7d8aeb9482e1cf3&chksm=e99f2e85dee8a79304a5535dbf6c77e9f9def6b2a7438c73e28792ac5ea3c628a02204d116e6&token=1448493475&lang=zh_CN#rd| 
 | 20210420 | Java反序列化 — URLDNS利用链分析 | https://xz.aliyun.com/t/9417| 
 | 20210420 | Yii2反序列化RCE 新POP链 | https://xz.aliyun.com/t/9420| 
-| 20210420 | 人工智能在网络安全领域的应用现状 | https://dl.ccf.org.cn/institude/institudeDetail?_ack=1&id=5398508341266432| 
-| 20210419 | 蚁剑流量改造学习 | https://www.sec-in.com/article/1025| 
-| 20210419 | 恶意软件在沙盒中应该执行多长时间？ | https://mp.weixin.qq.com/s/z1MS0Df89NhSeAU9IxF5nw| 
-| 20210418 | 安全招聘汇总 , 第十三期 | https://mp.weixin.qq.com/s/I6F0GP_lPcdc2Zh8hc_T4w| 
 
 
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20210422T01:48:47Z | CVE-2021-22192 | CVE-2021-22192 靶场： 未授权用户 RCE 漏洞 | https://github.com/lyy289065406/CVE-2021-22192 | An issue has been discovered in GitLab CE/EE affecting all versions starting from 13.2 allowing unauthorized authenticated users to execute arbitrary code on the server.| 
+| 20210422T11:57:02Z | CVE-2021-3493 | Ubuntu OverlayFS Local Privesc | https://github.com/briskets/CVE-2021-3493 | The overlayfs implementation in the linux kernel did not properly validate with respect to user namespaces the setting of file capabilities on files in an underlying file system. Due to the combination of unprivileged user namespaces along with a patch carried in the Ubuntu kernel to allow unprivileged overlay mounts, an attacker could use this to gain elevated privileges.| 
+| 20210422T11:54:13Z | CVE-2021-22893 | Proof-of-Concept (PoC) script to exploit Pulse Secure CVE-2021-22893.  | https://github.com/ZephrFish/CVE-2021-22893 | 未查询到CVE信息| 
+| 20210422T09:27:08Z | CVE-2021-22192 | CVE-2021-22192 靶场： 未授权用户 RCE 漏洞 | https://github.com/lyy289065406/CVE-2021-22192 | An issue has been discovered in GitLab CE/EE affecting all versions starting from 13.2 allowing unauthorized authenticated users to execute arbitrary code on the server.| 
+| 20210422T08:13:02Z | CVE-2021-22893 | Pulse Connect Secure RCE Vulnerability (CVE-2021-22893) | https://github.com/Mad-robot/CVE-2021-22893 | 未查询到CVE信息| 
+| 20210422T07:45:31Z | CVE-2021-30481 | https://nvd.nist.gov/vuln/detail/CVE-2021-30481 | https://github.com/floesen/CVE-2021-30481 | Valve Steam through 2021-04-10, when a Source engine game is installed, allows remote authenticated users to execute arbitrary code because of a buffer overflow that occurs for a Steam invite after one click.| 
+| 20210422T05:17:28Z | CVE-2020-35489 | Null | https://github.com/X0UCYB3R/Check-WP-CVE-2020-35489 | The contact-form-7 (aka Contact Form 7) plugin before 5.3.2 for WordPress allows Unrestricted File Upload and remote code execution because a filename may contain special characters.| 
+| 20210422T02:06:33Z | CVE-2021-3493 | Null | https://github.com/oneoy/CVE-2021-3493 | The overlayfs implementation in the linux kernel did not properly validate with respect to user namespaces the setting of file capabilities on files in an underlying file system. Due to the combination of unprivileged user namespaces along with a patch carried in the Ubuntu kernel to allow unprivileged overlay mounts, an attacker could use this to gain elevated privileges.| 
 | 20210422T01:47:10Z | CVE-2021-28480 | PoC for exploiting RCE in Exchange CVEs: CVE-2021-28480, CVE-2021-28481, CVE-2021-28482 and CVE-2021-28483.  Achieves Domain Admin on Exchange Servers running Windows Server 2003 up to Windows Server 2019. | https://github.com/ZephrFish/ExchangeRCE-CVE-2021-28480 | Microsoft Exchange Server Remote Code Execution Vulnerability This CVE ID is unique from CVE-2021-28481, CVE-2021-28482, CVE-2021-28483.| 
 | 20210422T01:44:08Z | CVE-2020-1350 | HoneyPoC: Proof-of-Concept (PoC) script to exploit SIGRed (CVE-2020-1350). Achieves Domain Admin on Domain Controllers running Windows Server 2000 up to Windows Server 2019. | https://github.com/ZephrFish/CVE-2020-1350 | A remote code execution vulnerability exists in Windows Domain Name System servers when they fail to properly handle requests, aka %Windows DNS Server Remote Code Execution Vulnerability%.| 
-| 20210422T01:34:57Z | CVE-2021-3493 | Ubuntu OverlayFS Local Privesc | https://github.com/briskets/CVE-2021-3493 | The overlayfs implementation in the linux kernel did not properly validate with respect to user namespaces the setting of file capabilities on files in an underlying file system. Due to the combination of unprivileged user namespaces along with a patch carried in the Ubuntu kernel to allow unprivileged overlay mounts, an attacker could use this to gain elevated privileges.| 
-| 20210422T00:11:31Z | CVE-2021-22893 | Proof-of-Concept (PoC) script to exploit Pulse Secure CVE-2021-22893.  | https://github.com/ZephrFish/CVE-2021-22893 | | 
 | 20210421T21:35:38Z | CVE-2020-15808 | A proof of concept of CVE-2020-15808 vulnerability exploit on STM32F4 Discovery board | https://github.com/manucuf/CVE202015808 | 未查询到CVE信息| 
-| 20210421T19:52:00Z | CVE-2021-30481 | https://nvd.nist.gov/vuln/detail/CVE-2021-30481 | https://github.com/floesen/CVE-2021-30481 | Valve Steam through 2021-04-10, when a Source engine game is installed, allows remote authenticated users to execute arbitrary code because of a buffer overflow that occurs for a Steam invite after one click.| 
-| 20210421T10:58:41Z | CVE-2021-22893 | Pulse Connect Secure RCE Vulnerability (CVE-2021-22893) | https://github.com/Mad-robot/CVE-2021-22893 | 未查询到CVE信息| 
-| 20210421T09:31:14Z | CVE-2020-14364 | Null | https://github.com/gejian-iscas/CVE-2020-14364 | An out-of-bounds read/write access flaw was found in the USB emulator of the QEMU in versions before 5.2.0. This issue occurs while processing USB packets from a guest when USBDevice %setup_len% exceeds its %data_buf[4096]% in the do_token_in, do_token_out routines. This flaw allows a guest user to crash the QEMU process, resulting in a denial of service, or the potential execution of arbitrary code with the privileges of the QEMU process on the host.| 
-| 20210421T08:32:02Z | CVE-2021-3156 | CVE-2021-3156: Sudo heap overflow exploit for Debain 10 | https://github.com/0xdevil/CVE-2021-3156 | | 
 
 
 # klee on Github 推荐
@@ -85,31 +85,31 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210422T01:44:08Z | HoneyPoC: Proof-of-Concept (PoC) script to exploit SIGRed (CVE-2020-1350). Achieves Domain Admin on Domain Controllers running Windows Server 2000 up to Windows Server 2019. | https://github.com/ZephrFish/CVE-2020-1350 | 250 | 75| 
-| 20210422T01:38:40Z | exploit-database-papers | https://github.com/offensive-security/exploitdb-papers | 297 | 42| 
-| 20210422T01:26:40Z | Root repository for CS 6265: Information Security Lab - Reverse Engineering and Binary Exploitation | https://github.com/one2blame/cs6265 | 1 | 2| 
-| 20210422T01:02:40Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 22 | 9| 
-| 20210422T00:50:54Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 15 | 10| 
-| 20210422T00:44:31Z | A GameCube save exploit for PAL Super Mario Sunshine | https://github.com/QbeRoot/shinehax-gc | 15 | 0| 
-| 20210422T00:28:29Z | PS4 Exploits 5.05-7.55 | https://github.com/Buzbee/Buzbee.github.io | 1 | 0| 
-| 20210421T23:00:32Z | PS-Phwoar! Alpha Version Exploit Host Menu for 5.05 FW with GoldHEN v1.1 Coded by SiSTRo / Port by Joonie86 | https://github.com/xforce505/xforce505.github.io | 0 | 0| 
-| 20210421T22:53:52Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9310 | 1503| 
-| 20210421T22:50:57Z | Null | https://github.com/exploit-code/exploit-code.github.io | 0 | 0| 
+| 20210422T11:40:34Z |  Foothold-to-agent exploitation workbench written in PowerShell core.  | https://github.com/WillChaos/Kitty | 0 | 0| 
+| 20210422T11:09:56Z | Development of code to exploit LSST and VISTA imaging | https://github.com/lsst-uk/lsst-ir-fusion | 0 | 0| 
+| 20210422T11:02:42Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 22 | 9| 
+| 20210422T10:46:14Z | Had to change this due to people not understanding this real discord rce exploit | https://github.com/rcegod/Discord-Rce-Exploit | 1 | 0| 
+| 20210422T10:41:55Z | Exploit allowing to load arbitrary code on the PSX using only a memory card (no game needed) | https://github.com/brad-lin/FreePSXBoot | 179 | 13| 
+| 20210422T10:03:34Z | Codes and data for %Adaptive Exploration Policy for Exploration-Exploitation Tradeoff in Continuous Action Control Optimization%. | https://github.com/grcai/AEP-algorithm | 0 | 0| 
+| 20210422T10:02:54Z | Null | https://github.com/th3ken-dev/TH3KEN-EDITON | 2 | 0| 
+| 20210422T09:38:00Z | My collection of pentesting tools, notes and exploits | https://github.com/gikabyte27/Pentest | 0 | 0| 
+| 20210422T09:01:00Z | A python script file to statically and dynamically investigate and analyse binary files for buffer overflow exploits. | https://github.com/BroadbentT/BINARY-MASTER | 5 | 1| 
+| 20210422T08:56:33Z | linux post-exploitation framework made by linux user | https://github.com/jm33-m0/emp3r0r | 453 | 84| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210422T01:35:01Z | Simple Python Backdoor | https://github.com/zNairy/Sonaris | 5 | 0| 
-| 20210422T01:07:46Z | LKM rootkit for Linux Kernels 2.6.x/3.x/4.x/5.x (x86/x86_64 and ARM64) | https://github.com/m0nad/Diamorphine | 757 | 281| 
+| 20210422T07:57:30Z | Rxploit | https://github.com/NANI1734/Rxploit | 2 | 0| 
+| 20210422T07:51:44Z | Null | https://github.com/Ily-1606/Backdoor | 0 | 0| 
+| 20210422T07:05:51Z | Tiny backdoor, built for survival | https://github.com/Raffy27/Hydra | 2 | 1| 
+| 20210422T06:54:15Z | Null | https://github.com/xpf/Backdoor-Learning-arXiv | 1 | 0| 
+| 20210422T06:06:23Z | Null | https://github.com/subhomoy-roy-choudhury/BackDoor_Script | 0 | 0| 
+| 20210422T05:53:53Z | LKM rootkit for Linux Kernels 2.6.x/3.x/4.x/5.x (x86/x86_64 and ARM64) | https://github.com/m0nad/Diamorphine | 758 | 281| 
+| 20210422T02:44:12Z | Simple Python Backdoor | https://github.com/zNairy/Sonaris | 5 | 0| 
 | 20210421T23:04:16Z | free and open source nonobf server backdoor plugin | https://github.com/AcaiBerii/Bakdooro | 1 | 0| 
 | 20210421T22:01:47Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 221 | 37| 
 | 20210421T20:03:31Z | Python 3 IRC Bot / Botnet | https://github.com/trackmastersteve/HackServ | 19 | 16| 
-| 20210421T17:32:21Z | Simple bind backdoor destined for linux servers | https://github.com/mednic/b4ckd0or | 2 | 0| 
-| 20210421T16:34:50Z | Null | https://github.com/Wrench56/Backdoor | 1 | 0| 
-| 20210421T14:31:52Z | Null | https://github.com/BSalwiczek/backdoor-trojan | 0 | 0| 
-| 20210421T13:39:22Z | Null | https://github.com/piyushsharma220699/Backdoor-in-Cyber-Security | 0 | 0| 
-| 20210421T13:32:40Z | Null | https://github.com/subhomoy-roy-choudhury/BackDoor_Script | 0 | 0| 
 
 
 # fuzz on Github 推荐
