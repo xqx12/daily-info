@@ -46,7 +46,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20210422T00:10:19Z | CVE-2021-22893 | Proof-of-Concept (PoC) script to exploit Pulse Secure CVE-2021-22893.  | https://github.com/ZephrFish/CVE-2021-22893 | 未查询到CVE信息| 
+| 20210422T00:11:31Z | CVE-2021-22893 | Proof-of-Concept (PoC) script to exploit Pulse Secure CVE-2021-22893.  | https://github.com/ZephrFish/CVE-2021-22893 | 未查询到CVE信息| 
 | 20210421T23:52:59Z | CVE-2020-1350 | HoneyPoC: Proof-of-Concept (PoC) script to exploit SIGRed (CVE-2020-1350). Achieves Domain Admin on Domain Controllers running Windows Server 2000 up to Windows Server 2019. | https://github.com/ZephrFish/CVE-2020-1350 | A remote code execution vulnerability exists in Windows Domain Name System servers when they fail to properly handle requests, aka %Windows DNS Server Remote Code Execution Vulnerability%.| 
 | 20210421T21:35:38Z | CVE-2020-15808 | A proof of concept of CVE-2020-15808 vulnerability exploit on STM32F4 Discovery board | https://github.com/manucuf/CVE202015808 | 未查询到CVE信息| 
 | 20210421T20:46:02Z | CVE-2021-3493 | Ubuntu OverlayFS Local Privesc | https://github.com/briskets/CVE-2021-3493 | The overlayfs implementation in the linux kernel did not properly validate with respect to user namespaces the setting of file capabilities on files in an underlying file system. Due to the combination of unprivileged user namespaces along with a patch carried in the Ubuntu kernel to allow unprivileged overlay mounts, an attacker could use this to gain elevated privileges.| 
@@ -115,6 +115,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210422T00:08:45Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 3 | 3| 
 | 20210421T23:49:40Z | A mutation-based fuzzing engine for MQTT brokers. | https://github.com/PBearson/MosquittoByte | 0 | 0| 
 | 20210421T23:40:29Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 1592 | 324| 
 | 20210421T23:33:56Z | SQL project to analyse a growing business and colect relevant information to help steer the company%s future. | https://github.com/alanaselli/MavenFuzzyFactory_Project | 0 | 0| 
@@ -124,7 +125,6 @@
 | 20210421T22:06:49Z | Null | https://github.com/VeriBlock/fuzz-corpus | 0 | 1| 
 | 20210421T22:05:00Z | Fuzzer for LP models in MPS | https://github.com/elefthei/lp-fuzzer | 0 | 0| 
 | 20210421T22:04:13Z | Security oriented software fuzzer. Supports evolutionary, feedback-driven fuzzing based on code coverage (SW and HW based) | https://github.com/google/honggfuzz | 2193 | 442| 
-| 20210421T22:00:13Z | Null | https://github.com/RunzhouHan/fuzzing_fs_aware_applications | 0 | 0| 
 
 
 
