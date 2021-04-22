@@ -85,6 +85,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210422T12:46:31Z | 中国蚁剑后渗透框架 | https://github.com/yzddmr6/As-Exploits | 358 | 65| 
 | 20210422T12:35:15Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9311 | 1504| 
 | 20210422T12:33:11Z |  :beetle: Repository of CVE found by OCD people | https://github.com/Orange-Cyberdefense/CVE-repository | 8 | 3| 
 | 20210422T12:31:01Z | Learning shell scripting with a small exploiting tool | https://github.com/iAgonyii/TheUltimateEdulabExploiter | 0 | 0| 
@@ -94,7 +95,6 @@
 | 20210422T11:09:56Z | Development of code to exploit LSST and VISTA imaging | https://github.com/lsst-uk/lsst-ir-fusion | 0 | 0| 
 | 20210422T10:46:14Z | Had to change this due to people not understanding this real discord rce exploit | https://github.com/rcegod/Discord-Rce-Exploit | 1 | 0| 
 | 20210422T10:41:55Z | Exploit allowing to load arbitrary code on the PSX using only a memory card (no game needed) | https://github.com/brad-lin/FreePSXBoot | 179 | 14| 
-| 20210422T10:03:34Z | Codes and data for %Adaptive Exploration Policy for Exploration-Exploitation Tradeoff in Continuous Action Control Optimization%. | https://github.com/grcai/AEP-algorithm | 0 | 0| 
 
 
 # backdoor on Github 推荐
