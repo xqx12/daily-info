@@ -115,16 +115,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210422T01:21:48Z | A site that allows you to reverse image search millions of furry images in under a second | https://github.com/Syfaro/fuzzysearch | 7 | 1| 
-| 20210422T01:07:57Z | Null | https://github.com/raafatfeki/cosc6386SymbolicFuzzer | 0 | 0| 
-| 20210422T00:59:32Z | This is a project for class cosc6386: A symbolic fuzzer based on %fuzzingbook%. | https://github.com/raafatfeki/cosc6386_symbolicFuzzer | 0 | 0| 
-| 20210422T00:40:55Z | Null | https://github.com/nadavRazT/fuzzer | 0 | 0| 
-| 20210422T00:36:28Z | Null | https://github.com/VeriBlock/fuzz-corpus | 0 | 1| 
-| 20210422T00:08:45Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 3 | 3| 
-| 20210421T23:49:40Z | A mutation-based fuzzing engine for MQTT brokers. | https://github.com/PBearson/MosquittoByte | 0 | 0| 
-| 20210421T23:40:29Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 1592 | 324| 
-| 20210421T23:33:56Z | SQL project to analyse a growing business and colect relevant information to help steer the company%s future. | https://github.com/alanaselli/MavenFuzzyFactory_Project | 0 | 0| 
-| 20210421T22:51:03Z | Nodejs, Docker & Jenkins integration | https://github.com/ralarconb/fuzzy | 0 | 0| 
+| 20210422T12:19:48Z | Ein Suchfeld, das während des Tippens bereits Suchergebnisse anzeigt. | https://github.com/phoenixreisen/fuzzy-input | 0 | 0| 
+| 20210422T12:15:31Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 3 | 3| 
+| 20210422T12:03:31Z | Null | https://github.com/gdepuydt/fuzzoz | 0 | 0| 
+| 20210422T11:31:45Z | Null | https://github.com/VeriBlock/fuzz-corpus | 0 | 1| 
+| 20210422T11:21:52Z | Нейро-нечеткие системы | https://github.com/Blackblackofficial/neuro-fuzzy_systems | 0 | 0| 
+| 20210422T11:00:20Z | Null | https://github.com/s9varesc/url-fuzzing | 1 | 1| 
+| 20210422T10:48:00Z | A fuzzer that generates random Go programs | https://github.com/ALTree/microsmith | 8 | 0| 
+| 20210422T10:45:39Z | Null | https://github.com/nhsd-exeter/dos-service-fuzzy-search-api | 1 | 0| 
+| 20210422T10:33:12Z | Add interface function for DecFuzzer | https://github.com/hz90937880/NewDecFuzzer | 0 | 0| 
+| 20210422T10:16:23Z | Null | https://github.com/loucol1/project_fuzzer | 0 | 0| 
 
 
 
