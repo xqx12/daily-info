@@ -23,9 +23,9 @@
 | 20210421 | CVE-2021-26413：Windows Installer 签名欺骗漏洞 | https://sec.okta.com/articles/2021/04/uncovering-and-disclosing-signature-spoofing-vulnerability-windows/| 
 | 20210421 | 研究发现 APT 攻击者通过 0day 绕过 Pulse Secure VPN 身份验证。 | https://www.fireeye.com/blog/threat-research/2021/04/suspected-apt-actors-leverage-bypass-techniques-pulse-secure-zero-day.html| 
 | 20210421 | Perfusion：Windows 7, Windows Server 2008R2, Windows 8, and Windows Server 2012 上的本地提权工具。 | https://github.com/itm4n/Perfusion/blob/master/RegistryPatch.ps1| 
+| 20210421 | 使用PsExec远程执行工具实现与目标主机通信加密原理分析。 | https://archercreat.github.io/psexec_encryption/| 
 | 20210420 | Codecov Bash Uploader 工具被黑客修改，可能将用户的 CI（持续集成）的密钥、代码等机密信息发送到了第三方服务器上。 | https://about.codecov.io/security-update/| 
 | 20210420 | Pass-the-Hash (PTH): a PoC code to use Pass-the-Hash for authentication on a local Named Pipe user Impersonation. | https://s3cur3th1ssh1t.github.io/Named-Pipe-PTH/| 
-| 20210420 | 在 Chrome 沙箱中利用 1Day 和 渲染器重定向实现信息泄漏。 | https://ptr-yudai.hatenablog.com/entry/2021/04/19/140802| 
 
 
 # 安全维基 推荐
@@ -46,29 +46,29 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20210421T12:52:44Z | CVE-2021-22893 | Proof-of-Concept (PoC) script to exploit Pulse Secure CVE-2021-22893.  | https://github.com/ZephrFish/CVE-2021-22893 | 未查询到CVE信息| 
-| 20210421T12:19:28Z | CVE-2021-3493 | Ubuntu OverlayFS Local Privesc | https://github.com/briskets/CVE-2021-3493 | The overlayfs implementation in the linux kernel did not properly validate with respect to user namespaces the setting of file capabilities on files in an underlying file system. Due to the combination of unprivileged user namespaces along with a patch carried in the Ubuntu kernel to allow unprivileged overlay mounts, an attacker could use this to gain elevated privileges.| 
-| 20210421T11:48:59Z | CVE-2021-28480 | PoC for exploiting RCE in Exchange CVEs: CVE-2021-28480, CVE-2021-28481, CVE-2021-28482 and CVE-2021-28483.  Achieves Domain Admin on Exchange Servers running Windows Server 2003 up to Windows Server 2019. | https://github.com/ZephrFish/ExchangeRCE-CVE-2021-28480 | Microsoft Exchange Server Remote Code Execution Vulnerability This CVE ID is unique from CVE-2021-28481, CVE-2021-28482, CVE-2021-28483.| 
-| 20210421T10:59:57Z | CVE-2021-22192 | CVE-2021-22192 靶场： 未授权用户 RCE 漏洞 | https://github.com/lyy289065406/CVE-2021-22192 | An issue has been discovered in GitLab CE/EE affecting all versions starting from 13.2 allowing unauthorized authenticated users to execute arbitrary code on the server.| 
-| 20210421T10:58:48Z | CVE-2021-30481 | https://nvd.nist.gov/vuln/detail/CVE-2021-30481 | https://github.com/floesen/CVE-2021-30481 | Valve Steam through 2021-04-10, when a Source engine game is installed, allows remote authenticated users to execute arbitrary code because of a buffer overflow that occurs for a Steam invite after one click.| 
-| 20210421T10:58:41Z | CVE-2021-22893 | Pulse Connect Secure RCE Vulnerability (CVE-2021-22893) | https://github.com/Mad-robot/CVE-2021-22893 | 未查询到CVE信息| 
+| 20210421T23:52:59Z | CVE-2020-1350 | HoneyPoC: Proof-of-Concept (PoC) script to exploit SIGRed (CVE-2020-1350). Achieves Domain Admin on Domain Controllers running Windows Server 2000 up to Windows Server 2019. | https://github.com/ZephrFish/CVE-2020-1350 | A remote code execution vulnerability exists in Windows Domain Name System servers when they fail to properly handle requests, aka %Windows DNS Server Remote Code Execution Vulnerability%.| 
+| 20210421T21:35:38Z | CVE-2020-15808 | A proof of concept of CVE-2020-15808 vulnerability exploit on STM32F4 Discovery board | https://github.com/manucuf/CVE202015808 | 未查询到CVE信息| 
+| 20210421T20:48:52Z | CVE-2021-22893 | Proof-of-Concept (PoC) script to exploit Pulse Secure CVE-2021-22893.  | https://github.com/ZephrFish/CVE-2021-22893 | 未查询到CVE信息| 
+| 20210421T20:46:02Z | CVE-2021-3493 | Ubuntu OverlayFS Local Privesc | https://github.com/briskets/CVE-2021-3493 | The overlayfs implementation in the linux kernel did not properly validate with respect to user namespaces the setting of file capabilities on files in an underlying file system. Due to the combination of unprivileged user namespaces along with a patch carried in the Ubuntu kernel to allow unprivileged overlay mounts, an attacker could use this to gain elevated privileges.| 
+| 20210421T19:52:00Z | CVE-2021-30481 | https://nvd.nist.gov/vuln/detail/CVE-2021-30481 | https://github.com/floesen/CVE-2021-30481 | Valve Steam through 2021-04-10, when a Source engine game is installed, allows remote authenticated users to execute arbitrary code because of a buffer overflow that occurs for a Steam invite after one click.| 
+| 20210421T17:31:35Z | CVE-2021-22192 | CVE-2021-22192 靶场： 未授权用户 RCE 漏洞 | https://github.com/lyy289065406/CVE-2021-22192 | An issue has been discovered in GitLab CE/EE affecting all versions starting from 13.2 allowing unauthorized authenticated users to execute arbitrary code on the server.| 
+| 20210421T13:44:46Z | CVE-2021-28480 | PoC for exploiting RCE in Exchange CVEs: CVE-2021-28480, CVE-2021-28481, CVE-2021-28482 and CVE-2021-28483.  Achieves Domain Admin on Exchange Servers running Windows Server 2003 up to Windows Server 2019. | https://github.com/ZephrFish/ExchangeRCE-CVE-2021-28480 | Microsoft Exchange Server Remote Code Execution Vulnerability This CVE ID is unique from CVE-2021-28481, CVE-2021-28482, CVE-2021-28483.| 
+| 20210421T10:58:41Z | CVE-2021-22893 | Pulse Connect Secure RCE Vulnerability (CVE-2021-22893) | https://github.com/Mad-robot/CVE-2021-22893 | | 
 | 20210421T09:31:14Z | CVE-2020-14364 | Null | https://github.com/gejian-iscas/CVE-2020-14364 | An out-of-bounds read/write access flaw was found in the USB emulator of the QEMU in versions before 5.2.0. This issue occurs while processing USB packets from a guest when USBDevice %setup_len% exceeds its %data_buf[4096]% in the do_token_in, do_token_out routines. This flaw allows a guest user to crash the QEMU process, resulting in a denial of service, or the potential execution of arbitrary code with the privileges of the QEMU process on the host.| 
 | 20210421T08:32:02Z | CVE-2021-3156 | CVE-2021-3156: Sudo heap overflow exploit for Debain 10 | https://github.com/0xdevil/CVE-2021-3156 | | 
-| 20210421T07:18:09Z | CVE-2021-26295 | Apache OFBiz rmi反序列化EXP(CVE-2021-26295) | https://github.com/S0por/CVE-2021-26295-Apache-OFBiz-EXP | Apache OFBiz has unsafe deserialization prior to 17.12.06. An unauthenticated attacker can use this vulnerability to successfully take over Apache OFBiz.| 
-| 20210420T23:07:23Z | CVE-2020-1350 | HoneyPoC: Proof-of-Concept (PoC) script to exploit SIGRed (CVE-2020-1350). Achieves Domain Admin on Domain Controllers running Windows Server 2000 up to Windows Server 2019. | https://github.com/ZephrFish/CVE-2020-1350 | A remote code execution vulnerability exists in Windows Domain Name System servers when they fail to properly handle requests, aka %Windows DNS Server Remote Code Execution Vulnerability%.| 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210421T23:58:43Z | A personnal UI library made as an excuse to have a published UI package | https://github.com/Liinkiing/klee | 7 | 1| 
+| 20210421T17:43:20Z | RVT is a collection of tools/libraries to support both static and dynamic verification of Rust programs. | https://github.com/project-oak/rust-verification-tools | 125 | 12| 
 | 20210421T08:37:43Z | Null | https://github.com/Jython1415/penguin-Klee | 1 | 0| 
-| 20210421T06:11:47Z | A personnal UI library made as an excuse to have a published UI package | https://github.com/Liinkiing/klee | 7 | 1| 
 | 20210420T22:58:07Z | Spring 2021 Geography 817 work folder  | https://github.com/klee12/klee12.github.io | 0 | 0| 
 | 20210420T22:41:29Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1674 | 489| 
 | 20210418T18:28:01Z | Website for the KLEE project: https://klee.github.io/ | https://github.com/klee/klee.github.io | 14 | 43| 
 | 20210418T06:36:11Z | KLEE demonstration on the program second_largest | https://github.com/basu-abhinav/second_largest | 0 | 0| 
 | 20210418T03:24:29Z | Git Blog | https://github.com/klee30810/klee30810.github.io | 0 | 0| 
-| 20210417T18:14:06Z | RVT is a collection of tools/libraries to support both static and dynamic verification of Rust programs. | https://github.com/project-oak/rust-verification-tools | 125 | 12| 
 | 20210416T10:15:55Z | test | https://github.com/xenoney/kleee | 0 | 0| 
 | 20210414T16:58:57Z | Null | https://github.com/dorawei/klee-tc | 0 | 0| 
 
@@ -85,46 +85,46 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210421T12:57:47Z | PS4 Exploits 5.05-7.55 | https://github.com/Buzbee/Buzbee.github.io | 1 | 0| 
-| 20210421T12:52:44Z | Proof-of-Concept (PoC) script to exploit Pulse Secure CVE-2021-22893.  | https://github.com/ZephrFish/CVE-2021-22893 | 1 | 1| 
-| 20210421T12:50:53Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 15 | 10| 
-| 20210421T12:48:35Z | SECMON is a web-based tool for the automation of infosec watching and vulnerability management with a web interface. | https://github.com/Guezone/SECMON | 3 | 0| 
-| 20210421T12:35:15Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9309 | 1503| 
-| 20210421T12:29:47Z | PS4 Exploit list | https://github.com/Hakkuraifu/PS4xploit | 34 | 11| 
-| 20210421T12:28:55Z | Computer Network Exploitation (CNE) Field Manual | https://github.com/mzet-/z-field-manual | 2 | 2| 
-| 20210421T12:25:56Z | Null | https://github.com/MTK-bypass/exploits_collection | 82 | 40| 
-| 20210421T12:21:43Z | Linux/Windows Exploits | https://github.com/tedelm/Exploits | 0 | 0| 
-| 20210421T12:11:17Z | jvav shiro exploit | https://github.com/M4da0/ShiroExploit | 0 | 0| 
+| 20210421T23:55:17Z | Root repository for CS 6265: Information Security Lab - Reverse Engineering and Binary Exploitation | https://github.com/one2blame/cs6265 | 1 | 2| 
+| 20210421T23:52:59Z | HoneyPoC: Proof-of-Concept (PoC) script to exploit SIGRed (CVE-2020-1350). Achieves Domain Admin on Domain Controllers running Windows Server 2000 up to Windows Server 2019. | https://github.com/ZephrFish/CVE-2020-1350 | 249 | 75| 
+| 20210421T23:02:39Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 22 | 9| 
+| 20210421T23:00:32Z | PS-Phwoar! Alpha Version Exploit Host Menu for 5.05 FW with GoldHEN v1.1 Coded by SiSTRo / Port by Joonie86 | https://github.com/xforce505/xforce505.github.io | 0 | 0| 
+| 20210421T22:53:52Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9310 | 1503| 
+| 20210421T22:50:57Z | Null | https://github.com/exploit-code/exploit-code.github.io | 0 | 0| 
+| 20210421T22:07:13Z | Null | https://github.com/CKScripts/RBLX-Exploit | 0 | 0| 
+| 20210421T21:35:38Z | A proof of concept of CVE-2020-15808 vulnerability exploit on STM32F4 Discovery board | https://github.com/manucuf/CVE202015808 | 0 | 0| 
+| 20210421T21:11:55Z | Powerful payload generation and shellcode injection tool that provides support for common platforms and architectures. | https://github.com/EntySec/HatVenom | 0 | 0| 
+| 20210421T21:03:42Z | E_jinshan_RCE_Exploit | https://github.com/nice0e3/E_jinshan_RCE_Exploit | 0 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210421T12:39:58Z | Tiny backdoor, built for survival | https://github.com/Raffy27/Hydra | 1 | 0| 
-| 20210421T11:27:02Z | A Backdoor made from my malware development notes. | https://github.com/0x1CA3/Cbackdoor | 0 | 0| 
-| 20210421T11:18:11Z | LKM rootkit for Linux Kernels 2.6.x/3.x/4.x/5.x (x86/x86_64 and ARM64) | https://github.com/m0nad/Diamorphine | 756 | 280| 
-| 20210421T09:48:11Z | Ghost Framework is an Android post-exploitation framework that exploits the Android Debug Bridge to remotely access an Android device. | https://github.com/EntySec/ghost | 1044 | 505| 
-| 20210421T07:37:32Z | Null | https://github.com/subhomoy-roy-choudhury/BackDoor_Script | 0 | 0| 
-| 20210421T03:34:13Z | Simple Python Backdoor | https://github.com/zNairy/Sonaris | 5 | 0| 
-| 20210421T03:07:47Z | Null | https://github.com/piyushsharma220699/Backdoor-in-Cyber-Security | 0 | 0| 
-| 20210421T02:30:14Z | Python 3 IRC Bot / Botnet | https://github.com/trackmastersteve/HackServ | 18 | 16| 
-| 20210421T01:10:13Z | A demo and explanation of how backdoor poisoning in the form of a Trojan work in neural networks | https://github.com/adit-bala/Introduction-to-Trojans-in-AI | 0 | 0| 
-| 20210421T00:09:49Z | free and open source nonobf server backdoor plugin | https://github.com/AcaiBerii/Bakdooro | 0 | 0| 
+| 20210421T23:04:16Z | free and open source nonobf server backdoor plugin | https://github.com/AcaiBerii/Bakdooro | 1 | 0| 
+| 20210421T22:01:47Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 221 | 37| 
+| 20210421T20:03:31Z | Python 3 IRC Bot / Botnet | https://github.com/trackmastersteve/HackServ | 19 | 16| 
+| 20210421T17:32:21Z | Simple bind backdoor destined for linux servers | https://github.com/mednic/b4ckd0or | 2 | 0| 
+| 20210421T16:34:50Z | Null | https://github.com/Wrench56/Backdoor | 1 | 0| 
+| 20210421T14:31:52Z | Null | https://github.com/BSalwiczek/backdoor-trojan | 0 | 0| 
+| 20210421T13:39:22Z | Null | https://github.com/piyushsharma220699/Backdoor-in-Cyber-Security | 0 | 0| 
+| 20210421T13:32:40Z | Null | https://github.com/subhomoy-roy-choudhury/BackDoor_Script | 0 | 0| 
+| 20210421T13:09:02Z | 🤖An Evil and Smart Bot for Enslaving Windows. | https://github.com/wildonion/katyusha | 3 | 1| 
+| 20210421T13:03:38Z | Config files for my GitHub profile. | https://github.com/backdoordhaka/backdoordhaka | 0 | 0| 
 
 
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210421T12:48:33Z | Null | https://github.com/princeypiexd/fuzzy-potato | 0 | 0| 
-| 20210421T12:48:30Z |  Memilih 10 restoran terbaik di kota A dengan menggunakan fuzzy logic | https://github.com/krobus00/Tugas-2-Pengantar-AI-Fuzzy-Logic | 0 | 0| 
-| 20210421T12:46:55Z | Null | https://github.com/JohenanLi/AggregateFuzzing | 0 | 0| 
-| 20210421T12:35:29Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6215 | 1254| 
-| 20210421T12:33:53Z | Null | https://github.com/loucol1/project_fuzzer | 0 | 0| 
-| 20210421T12:28:28Z | Null | https://github.com/DanielEbert/EmulatedFirmwareFuzzing | 0 | 0| 
-| 20210421T12:18:11Z | Coverage-guided, in-process fuzzing for the JVM | https://github.com/CodeIntelligenceTesting/jazzer | 281 | 16| 
-| 20210421T12:17:44Z | 📨 Responsive email template generator. | https://github.com/luangjokaj/fuzzymail | 114 | 4| 
-| 20210421T12:11:04Z | Null | https://github.com/radareorg/radare2-fuzz | 0 | 0| 
-| 20210421T12:09:45Z | Null | https://github.com/Piyush9323/Fuzzy-c-means | 0 | 0| 
+| 20210421T23:49:40Z | A mutation-based fuzzing engine for MQTT brokers. | https://github.com/PBearson/MosquittoByte | 0 | 0| 
+| 20210421T23:40:29Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 1592 | 324| 
+| 20210421T23:33:56Z | SQL project to analyse a growing business and colect relevant information to help steer the company%s future. | https://github.com/alanaselli/MavenFuzzyFactory_Project | 0 | 0| 
+| 20210421T23:26:18Z | A site that allows you to reverse image search millions of furry images in under a second | https://github.com/Syfaro/fuzzysearch | 7 | 1| 
+| 20210421T22:51:03Z | Nodejs, Docker & Jenkins integration | https://github.com/ralarconb/fuzzy | 0 | 0| 
+| 20210421T22:26:22Z | Null | https://github.com/DanielEbert/EmulatedFirmwareFuzzing | 0 | 0| 
+| 20210421T22:06:49Z | Null | https://github.com/VeriBlock/fuzz-corpus | 0 | 1| 
+| 20210421T22:05:00Z | Fuzzer for LP models in MPS | https://github.com/elefthei/lp-fuzzer | 0 | 0| 
+| 20210421T22:04:13Z | Security oriented software fuzzer. Supports evolutionary, feedback-driven fuzzing based on code coverage (SW and HW based) | https://github.com/google/honggfuzz | 2193 | 442| 
+| 20210421T22:00:13Z | Null | https://github.com/RunzhouHan/fuzzing_fs_aware_applications | 0 | 0| 
 
 
 
