@@ -90,8 +90,9 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210423T12:15:38Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6219 | 1256| 
+| 20210423T12:15:21Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 3 | 3| 
 | 20210423T11:50:54Z | Null | https://github.com/JohenanLi/AggregateFuzzing | 0 | 0| 
-| 20210423T11:43:27Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6219 | 1256| 
 | 20210423T11:42:19Z | Setup scripts for 32bit JavaScriptCore Fuzzing Setup | https://github.com/pmatos/jsc32-fuzz-setup | 0 | 0| 
 | 20210423T11:27:07Z | Fast web fuzzer written in Go | https://github.com/ffuf/ffuf | 4375 | 515| 
 | 20210423T11:22:34Z | Null | https://github.com/s9varesc/url-fuzzing | 1 | 1| 
@@ -99,7 +100,6 @@
 | 20210423T10:42:28Z | Null | https://github.com/nhsd-exeter/dos-service-fuzzy-search-api | 1 | 0| 
 | 20210423T10:32:34Z | Fuzzing resources for JSC32 | https://github.com/pmatos/jsc32-fuzz | 0 | 0| 
 | 20210423T10:32:08Z | Null | https://github.com/VeriBlock/fuzz-corpus | 0 | 1| 
-| 20210423T10:07:39Z | Fuzzy Logic for Python 3 | https://github.com/amogorkon/fuzzylogic | 22 | 9| 
 
 
 
