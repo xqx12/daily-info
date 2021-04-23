@@ -90,7 +90,6 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210422T23:43:43Z | This repository is for testing a number of open source applications for vulnerabilities using multiple fuzzers. | https://github.com/bartholomewHarris/fuzzingNode.jsApplications | 1 | 1| 
 | 20210422T23:34:52Z | SQL project to analyse a growing business and colect relevant information to help steer the company%s future. | https://github.com/alanaselli/MavenFuzzyFactory_Project | 0 | 0| 
 | 20210422T23:21:27Z | Null | https://github.com/Weber1974/fuzzy-octo-chainsaw | 0 | 0| 
 | 20210422T23:08:56Z | A unit test-like interface for fuzzing and symbolic execution | https://github.com/trailofbits/deepstate | 609 | 63| 
@@ -100,6 +99,7 @@
 | 20210422T22:30:09Z | Null | https://github.com/georgehodgkins/libpaxos3-fuzzing | 0 | 0| 
 | 20210422T22:19:48Z | Null | https://github.com/alvarobatrez/FuzzyControl | 0 | 0| 
 | 20210422T21:53:55Z | Null | https://github.com/ahi-hfg/fuzzy-dollop | 0 | 0| 
+| 20210422T21:43:01Z | VMI Kernel Fuzzer for Xen Project - VM forking, VMI & AFL integration demo | https://github.com/intel/kernel-fuzzer-for-xen-project | 303 | 45| 
 
 
 
