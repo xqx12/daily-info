@@ -42,7 +42,7 @@
 | 20210423T11:35:35Z | CVE-2021-1732 | CVE-2021-1732 poc & exp; tested on 20H2 | https://github.com/Pai-Po/CVE-2021-1732 | 未查询到CVE信息| 
 | 20210423T11:30:21Z | CVE-2020-15808 | A proof of concept of CVE-2020-15808 vulnerability exploit on STM32F4 Discovery board | https://github.com/manucuf/CVE202015808 | 未查询到CVE信息| 
 | 20210423T10:00:28Z | CVE-2021-25735 | Exploit CVE-2021-25735: Kubernetes Validating Admission Webhook Bypass | https://github.com/darryk10/CVE-2021-25735 | 未查询到CVE信息| 
-| 20210423T05:36:26Z | CVE-2021-3493 | Ubuntu OverlayFS Local Privesc | https://github.com/briskets/CVE-2021-3493 | 未查询到CVE信息| 
+| 20210423T05:36:26Z | CVE-2021-3493 | Ubuntu OverlayFS Local Privesc | https://github.com/briskets/CVE-2021-3493 | The overlayfs implementation in the linux kernel did not properly validate with respect to user namespaces the setting of file capabilities on files in an underlying file system. Due to the combination of unprivileged user namespaces along with a patch carried in the Ubuntu kernel to allow unprivileged overlay mounts, an attacker could use this to gain elevated privileges.| 
 
 
 # klee on Github 推荐
@@ -78,7 +78,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210423T12:17:25Z | free and open source nonobf server backdoor plugin | https://github.com/AcaiBerii/Bakdooro | 1 | 0| 
+| 20210423T12:34:00Z | free and open source nonobf server backdoor plugin | https://github.com/AcaiBerii/Bakdooro | 1 | 0| 
 | 20210423T11:18:28Z | Simple backdoor using lib python%s socket and subprocess for Windows | https://github.com/NoNameoN-A/Backdoor-Client-Server-Socket-Python | 2 | 1| 
 | 20210423T10:10:35Z | Its a trojan-horse-virus/backdoor or whatever it it its cool and written in python. | https://github.com/Zahin-Tajwar/Trojan_Horse | 1 | 0| 
 | 20210423T09:53:13Z | using shellcode to add wmi fileless backdoor | https://github.com/cssxn/shellcode_for_fileless_wmi_backdoor | 1 | 1| 
@@ -90,7 +90,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210423T12:27:38Z | Hello Fuk | https://github.com/KurtCbain/fuzzy-lamp | 0 | 0| 
+| 20210423T12:29:11Z | Hello Fuk | https://github.com/KurtCbain/fuzzy-lamp | 0 | 0| 
 | 20210423T12:15:38Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6219 | 1256| 
 | 20210423T12:15:21Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 3 | 3| 
 | 20210423T11:50:54Z | Null | https://github.com/JohenanLi/AggregateFuzzing | 0 | 0| 

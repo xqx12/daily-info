@@ -49,13 +49,13 @@
 | 20210423T11:35:35Z | CVE-2021-1732 | CVE-2021-1732 poc & exp; tested on 20H2 | https://github.com/Pai-Po/CVE-2021-1732 | 未查询到CVE信息| 
 | 20210423T11:30:21Z | CVE-2020-15808 | A proof of concept of CVE-2020-15808 vulnerability exploit on STM32F4 Discovery board | https://github.com/manucuf/CVE202015808 | 未查询到CVE信息| 
 | 20210423T10:00:28Z | CVE-2021-25735 | Exploit CVE-2021-25735: Kubernetes Validating Admission Webhook Bypass | https://github.com/darryk10/CVE-2021-25735 | 未查询到CVE信息| 
-| 20210423T05:36:26Z | CVE-2021-3493 | Ubuntu OverlayFS Local Privesc | https://github.com/briskets/CVE-2021-3493 | 未查询到CVE信息| 
-| 20210422T21:30:45Z | CVE-2021-28480 | PoC for exploiting RCE in Exchange CVEs: CVE-2021-28480, CVE-2021-28481, CVE-2021-28482 and CVE-2021-28483.  Achieves Domain Admin on Exchange Servers running Windows Server 2003 up to Windows Server 2019. | https://github.com/ZephrFish/ExchangeRCE-CVE-2021-28480 | 未查询到CVE信息| 
+| 20210423T05:36:26Z | CVE-2021-3493 | Ubuntu OverlayFS Local Privesc | https://github.com/briskets/CVE-2021-3493 | The overlayfs implementation in the linux kernel did not properly validate with respect to user namespaces the setting of file capabilities on files in an underlying file system. Due to the combination of unprivileged user namespaces along with a patch carried in the Ubuntu kernel to allow unprivileged overlay mounts, an attacker could use this to gain elevated privileges.| 
+| 20210422T21:30:45Z | CVE-2021-28480 | PoC for exploiting RCE in Exchange CVEs: CVE-2021-28480, CVE-2021-28481, CVE-2021-28482 and CVE-2021-28483.  Achieves Domain Admin on Exchange Servers running Windows Server 2003 up to Windows Server 2019. | https://github.com/ZephrFish/ExchangeRCE-CVE-2021-28480 | Microsoft Exchange Server Remote Code Execution Vulnerability This CVE ID is unique from CVE-2021-28481, CVE-2021-28482, CVE-2021-28483.| 
 | 20210422T20:13:06Z | CVE-2021-22893 | Proof-of-Concept (PoC) script to exploit Pulse Secure CVE-2021-22893.  | https://github.com/ZephrFish/CVE-2021-22893 | 未查询到CVE信息| 
 | 20210422T19:03:41Z | CVE-2020-1472 | Null | https://github.com/itssmikefm/CVE-2020-1472 | 未查询到CVE信息| 
-| 20210422T18:25:31Z | CVE-2021-30481 | https://nvd.nist.gov/vuln/detail/CVE-2021-30481 | https://github.com/floesen/CVE-2021-30481 | 未查询到CVE信息| 
-| 20210422T14:05:59Z | CVE-2021-26415 | All files needed to reproduce PoC for CVE-2021-26415: https://www.cloaked.pl/2021/04/cve-2021-26415/ | https://github.com/adenkiewicz/CVE-2021-26415 | | 
-| 20210422T12:04:30Z | CVE-2021-22192 | CVE-2021-22192 靶场： 未授权用户 RCE 漏洞 | https://github.com/lyy289065406/CVE-2021-22192 | 未查询到CVE信息| 
+| 20210422T18:25:31Z | CVE-2021-30481 | https://nvd.nist.gov/vuln/detail/CVE-2021-30481 | https://github.com/floesen/CVE-2021-30481 | Valve Steam through 2021-04-10, when a Source engine game is installed, allows remote authenticated users to execute arbitrary code because of a buffer overflow that occurs for a Steam invite after one click.| 
+| 20210422T14:05:59Z | CVE-2021-26415 | All files needed to reproduce PoC for CVE-2021-26415: https://www.cloaked.pl/2021/04/cve-2021-26415/ | https://github.com/adenkiewicz/CVE-2021-26415 | 未查询到CVE信息| 
+| 20210422T12:04:30Z | CVE-2021-22192 | CVE-2021-22192 靶场： 未授权用户 RCE 漏洞 | https://github.com/lyy289065406/CVE-2021-22192 | An issue has been discovered in GitLab CE/EE affecting all versions starting from 13.2 allowing unauthorized authenticated users to execute arbitrary code on the server.| 
 
 
 # klee on Github 推荐
@@ -100,7 +100,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210423T12:17:25Z | free and open source nonobf server backdoor plugin | https://github.com/AcaiBerii/Bakdooro | 1 | 0| 
+| 20210423T12:34:00Z | free and open source nonobf server backdoor plugin | https://github.com/AcaiBerii/Bakdooro | 1 | 0| 
 | 20210423T11:18:28Z | Simple backdoor using lib python%s socket and subprocess for Windows | https://github.com/NoNameoN-A/Backdoor-Client-Server-Socket-Python | 2 | 1| 
 | 20210423T10:10:35Z | Its a trojan-horse-virus/backdoor or whatever it it its cool and written in python. | https://github.com/Zahin-Tajwar/Trojan_Horse | 1 | 0| 
 | 20210423T09:53:13Z | using shellcode to add wmi fileless backdoor | https://github.com/cssxn/shellcode_for_fileless_wmi_backdoor | 1 | 1| 
@@ -115,7 +115,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210423T12:27:38Z | Hello Fuk | https://github.com/KurtCbain/fuzzy-lamp | 0 | 0| 
+| 20210423T12:29:11Z | Hello Fuk | https://github.com/KurtCbain/fuzzy-lamp | 0 | 0| 
 | 20210423T12:15:38Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6219 | 1256| 
 | 20210423T12:15:21Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 3 | 3| 
 | 20210423T11:50:54Z | Null | https://github.com/JohenanLi/AggregateFuzzing | 0 | 0| 
