@@ -85,6 +85,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210423T01:40:45Z | Writeups For Exploit Education Challenges | https://github.com/Hellsender01/Exploit-Education | 2 | 0| 
 | 20210423T01:38:38Z | exploit-database-papers | https://github.com/offensive-security/exploitdb-papers | 298 | 42| 
 | 20210423T01:12:13Z | Example C Program for Binary Exploitation Workshops | https://github.com/kevinalmansa/vulnerable-c-program | 1 | 0| 
 | 20210423T01:02:41Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 22 | 9| 
@@ -94,7 +95,6 @@
 | 20210423T00:04:43Z | PS4 Exploit list | https://github.com/Hakkuraifu/PS4xploit | 34 | 12| 
 | 20210422T23:44:53Z | Null | https://github.com/CKScripts/RBLX-Exploit | 0 | 0| 
 | 20210422T23:37:23Z | Exploit allowing to load arbitrary code on the PSX using only a memory card (no game needed) | https://github.com/brad-lin/FreePSXBoot | 180 | 14| 
-| 20210422T23:28:22Z | Hack/Exploits for https://krunker.io/ | https://github.com/glixzzy/krunker.io-hacks | 7 | 28| 
 
 
 # backdoor on Github 推荐
