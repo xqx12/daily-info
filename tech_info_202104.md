@@ -85,12 +85,12 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210423T00:04:43Z | PS4 Exploit list | https://github.com/Hakkuraifu/PS4xploit | 34 | 12| 
 | 20210423T00:02:54Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 22 | 9| 
 | 20210422T23:44:53Z | Null | https://github.com/CKScripts/RBLX-Exploit | 0 | 0| 
 | 20210422T23:37:23Z | Exploit allowing to load arbitrary code on the PSX using only a memory card (no game needed) | https://github.com/brad-lin/FreePSXBoot | 180 | 14| 
 | 20210422T23:28:22Z | Hack/Exploits for https://krunker.io/ | https://github.com/glixzzy/krunker.io-hacks | 7 | 28| 
 | 20210422T22:44:25Z | Gentoo IO Exploit Host Menu for 5.05 FW with GoldHEN v1.1 Coded by SiSTRo / Port by Joonie86 | https://github.com/xforce505/Gentoo-IO-Exploit-Host-Menu | 0 | 0| 
-| 20210422T22:06:18Z | PS4 Exploit list | https://github.com/Hakkuraifu/PS4xploit | 34 | 12| 
 | 20210422T21:58:10Z | Exploits project Hacking Command Center | https://github.com/chacka0101/exploits | 5 | 6| 
 | 20210422T21:35:14Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9314 | 1505| 
 | 20210422T21:24:59Z | Blog consacré au Raspberry Pi. Au programme : des actualités, des tutoriels en français, des conseils, des projets, et bien plus pour exploiter le maximum de votre framboise ! | https://github.com/Skyost/FramboisePi | 0 | 0| 
