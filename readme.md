@@ -19,6 +19,10 @@
 | 20210423 | CVE-2021-20226：Linux 内核的 io_uring subsystem 存在 UAF（Use After Free） 漏洞。 | https://sec.today/pulses/6872878a-75cb-49b9-97a1-74a52716799e/| 
 | 20210423 | Microsoft Outlook 存在外部邮件警告标识的绕过方法。 | https://sec.today/pulses/6f8bfd4a-35b0-4c0d-957b-7b40c98c4397/| 
 | 20210423 | 剖析 SockFuzzer 的设计和思想。 | https://sec.today/pulses/2b279dd6-8224-40bd-931d-26a702952162/| 
+| 20210423 | CVE-2021-0223：Juniper Junos OS 的 telnetd 本地提取漏洞。 | https://starlabs.sg/advisories/21-0223/| 
+| 20210423 | CVE-2021-20226：Linux 内核的 io_uring subsystem 存在 UAF（Use After Free） 漏洞。 | https://www.thezdi.com/blog/2021/4/22/cve-2021-20226-a-reference-counting-bug-in-the-linux-kernel-iouring-subsystem| 
+| 20210423 | Microsoft Outlook 存在外部邮件警告标识的绕过方法。 | https://whynotsecurity.com/blog/external-email-warning-bypass/| 
+| 20210423 | 剖析 SockFuzzer 的设计和思想。 | https://googleprojectzero.blogspot.com/2021/04/designing-sockfuzzer-network-syscall.html| 
 
 
 # 安全维基 推荐
@@ -59,13 +63,13 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210423T12:02:44Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 23 | 9| 
 | 20210423T11:49:24Z | Null | https://github.com/georgesotiriadis/CVES-EXPLOIT-PORTS | 0 | 0| 
 | 20210423T11:46:24Z | exploit-exercices (old school bugs) | https://github.com/ozswar94/Protostar | 0 | 0| 
 | 20210423T11:30:21Z | A proof of concept of CVE-2020-15808 vulnerability exploit on STM32F4 Discovery board | https://github.com/manucuf/CVE202015808 | 0 | 0| 
 | 20210423T11:30:21Z | Here is where I will post all of my exploits where you will have to go through the linkvertise to get the password to the scripts. | https://github.com/sjonks/Exploits | 0 | 0| 
 | 20210423T11:14:21Z | Discord Nitro Code Generator and Checker. Generates Classic and Boost Nitro Codes. Using HTTPS Proxy (Autoscraper) | https://github.com/heatxyz/DiscordExploit | 0 | 0| 
 | 20210423T11:06:50Z | Development of code to exploit LSST and VISTA imaging | https://github.com/lsst-uk/lsst-ir-fusion | 0 | 0| 
-| 20210423T11:02:41Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 23 | 9| 
 | 20210423T10:50:41Z | Zenith configs. Exploit them at your own risk. | https://github.com/egorbelibov/unix_configs | 1 | 0| 
 | 20210423T10:36:54Z | Exploit Jenkins using Shodan API | https://github.com/streghstreek/shodan-shell | 0 | 0| 
 | 20210423T10:31:13Z | macos/ios exploit writeup | https://github.com/houjingyi233/macOS-iOS-system-security | 89 | 9| 

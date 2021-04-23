@@ -19,13 +19,13 @@
 | 20210423 | CVE-2021-20226：Linux 内核的 io_uring subsystem 存在 UAF（Use After Free） 漏洞。 | https://sec.today/pulses/6872878a-75cb-49b9-97a1-74a52716799e/| 
 | 20210423 | Microsoft Outlook 存在外部邮件警告标识的绕过方法。 | https://sec.today/pulses/6f8bfd4a-35b0-4c0d-957b-7b40c98c4397/| 
 | 20210423 | 剖析 SockFuzzer 的设计和思想。 | https://sec.today/pulses/2b279dd6-8224-40bd-931d-26a702952162/| 
+| 20210423 | CVE-2021-0223：Juniper Junos OS 的 telnetd 本地提取漏洞。 | https://starlabs.sg/advisories/21-0223/| 
+| 20210423 | CVE-2021-20226：Linux 内核的 io_uring subsystem 存在 UAF（Use After Free） 漏洞。 | https://www.thezdi.com/blog/2021/4/22/cve-2021-20226-a-reference-counting-bug-in-the-linux-kernel-iouring-subsystem| 
+| 20210423 | Microsoft Outlook 存在外部邮件警告标识的绕过方法。 | https://whynotsecurity.com/blog/external-email-warning-bypass/| 
+| 20210423 | 剖析 SockFuzzer 的设计和思想。 | https://googleprojectzero.blogspot.com/2021/04/designing-sockfuzzer-network-syscall.html| 
 | 20210422 | 以色列军火商的 UFED 和 Physical Analyzer 数字取证工具被发现严重安全漏洞。 | https://signal.org/blog/cellebrite-vulnerabilities/| 
 | 20210422 | 捕捉到三个有关 SonicWall Email 野外利用的 0day。 | https://www.fireeye.com/blog/threat-research/2021/04/zero-day-exploits-in-sonicwall-email-security-lead-to-compromise.html| 
 | 20210422 | 由于 Homebrew 的 git-diff 脚本存在错误，攻击者可以修改 Cask repo 进行远程命令执行。 | https://blog.ryotak.me/post/homebrew-security-incident-en/| 
-| 20210422 | CVE-2021-26415：Windows Installer 本地提权漏洞的分析。 | https://www.cloaked.pl/2021/04/cve-2021-26415/| 
-| 20210422 | CertStealer：无落地文件的 Windows 证书导入导出工具。 | https://github.com/TheWover/CertStealer| 
-| 20210422 | 将 Azure Application Proxy 服务用于 Cobalt Strike Malleable C2。 | https://www.trustedsec.com/blog/azure-application-proxy-c2/| 
-| 20210422 | 因涉嫌故意提交存在漏洞的代码，Greg Kroah-Hartman 禁止明尼苏达大学（ University of Minnesota ）的开发者参与 Linux 内核开发。 | https://www.zdnet.com/article/greg-kroah-hartman-bans-university-of-minnesota-from-linux-development-for-deliberately-buggy-patches/| 
 
 
 # 安全维基 推荐
@@ -85,13 +85,13 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210423T12:02:44Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 23 | 9| 
 | 20210423T11:49:24Z | Null | https://github.com/georgesotiriadis/CVES-EXPLOIT-PORTS | 0 | 0| 
 | 20210423T11:46:24Z | exploit-exercices (old school bugs) | https://github.com/ozswar94/Protostar | 0 | 0| 
 | 20210423T11:30:21Z | A proof of concept of CVE-2020-15808 vulnerability exploit on STM32F4 Discovery board | https://github.com/manucuf/CVE202015808 | 0 | 0| 
 | 20210423T11:30:21Z | Here is where I will post all of my exploits where you will have to go through the linkvertise to get the password to the scripts. | https://github.com/sjonks/Exploits | 0 | 0| 
 | 20210423T11:14:21Z | Discord Nitro Code Generator and Checker. Generates Classic and Boost Nitro Codes. Using HTTPS Proxy (Autoscraper) | https://github.com/heatxyz/DiscordExploit | 0 | 0| 
 | 20210423T11:06:50Z | Development of code to exploit LSST and VISTA imaging | https://github.com/lsst-uk/lsst-ir-fusion | 0 | 0| 
-| 20210423T11:02:41Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 23 | 9| 
 | 20210423T10:50:41Z | Zenith configs. Exploit them at your own risk. | https://github.com/egorbelibov/unix_configs | 1 | 0| 
 | 20210423T10:36:54Z | Exploit Jenkins using Shodan API | https://github.com/streghstreek/shodan-shell | 0 | 0| 
 | 20210423T10:31:13Z | macos/ios exploit writeup | https://github.com/houjingyi233/macOS-iOS-system-security | 89 | 9| 
