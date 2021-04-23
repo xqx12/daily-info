@@ -51,7 +51,7 @@
 | 20210422T20:13:06Z | CVE-2021-22893 | Proof-of-Concept (PoC) script to exploit Pulse Secure CVE-2021-22893.  | https://github.com/ZephrFish/CVE-2021-22893 | 未查询到CVE信息| 
 | 20210422T19:03:41Z | CVE-2020-1472 | Null | https://github.com/itssmikefm/CVE-2020-1472 | An elevation of privilege vulnerability exists when an attacker establishes a vulnerable Netlogon secure channel connection to a domain controller, using the Netlogon Remote Protocol (MS-NRPC), aka %Netlogon Elevation of Privilege Vulnerability%.| 
 | 20210422T18:25:31Z | CVE-2021-30481 | https://nvd.nist.gov/vuln/detail/CVE-2021-30481 | https://github.com/floesen/CVE-2021-30481 | Valve Steam through 2021-04-10, when a Source engine game is installed, allows remote authenticated users to execute arbitrary code because of a buffer overflow that occurs for a Steam invite after one click.| 
-| 20210422T14:05:59Z | CVE-2021-26415 | All files needed to reproduce PoC for CVE-2021-26415: https://www.cloaked.pl/2021/04/cve-2021-26415/ | https://github.com/adenkiewicz/CVE-2021-26415 | Windows Installer Elevation of Privilege Vulnerability This CVE ID is unique from CVE-2021-28440.| 
+| 20210422T14:05:59Z | CVE-2021-26415 | All files needed to reproduce PoC for CVE-2021-26415: https://www.cloaked.pl/2021/04/cve-2021-26415/ | https://github.com/adenkiewicz/CVE-2021-26415 | | 
 | 20210422T12:04:30Z | CVE-2021-22192 | CVE-2021-22192 靶场： 未授权用户 RCE 漏洞 | https://github.com/lyy289065406/CVE-2021-22192 | An issue has been discovered in GitLab CE/EE affecting all versions starting from 13.2 allowing unauthorized authenticated users to execute arbitrary code on the server.| 
 | 20210422T08:13:02Z | CVE-2021-22893 | Pulse Connect Secure RCE Vulnerability (CVE-2021-22893) | https://github.com/Mad-robot/CVE-2021-22893 | 未查询到CVE信息| 
 | 20210422T05:17:28Z | CVE-2020-35489 | Null | https://github.com/X0UCYB3R/Check-WP-CVE-2020-35489 | The contact-form-7 (aka Contact Form 7) plugin before 5.3.2 for WordPress allows Unrestricted File Upload and remote code execution because a filename may contain special characters.| 
@@ -85,7 +85,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210423T01:56:55Z | PS4 Exploits 5.05-7.55 | https://github.com/Buzbee/Buzbee.github.io | 1 | 0| 
+| 20210423T01:57:50Z | PS4 Exploits 5.05-7.55 | https://github.com/Buzbee/Buzbee.github.io | 1 | 0| 
 | 20210423T01:41:13Z | Writeups For Exploit Education Challenges | https://github.com/Hellsender01/Exploit-Education | 2 | 0| 
 | 20210423T01:38:38Z | exploit-database-papers | https://github.com/offensive-security/exploitdb-papers | 298 | 42| 
 | 20210423T01:12:13Z | Example C Program for Binary Exploitation Workshops | https://github.com/kevinalmansa/vulnerable-c-program | 1 | 0| 
@@ -115,16 +115,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210423T01:57:46Z | CS 4152 Project | https://github.com/nicbarone/Fuzzy-Kiwi | 0 | 0| 
+| 20210423T01:56:34Z | Null | https://github.com/igorsodre/fuzzy-trader | 0 | 0| 
+| 20210423T01:51:26Z | Null | https://github.com/ferek202/fuzzy-octo-garbanzo | 0 | 0| 
+| 20210423T01:47:02Z | A site that allows you to reverse image search millions of furry images in under a second | https://github.com/Syfaro/fuzzysearch | 7 | 1| 
+| 20210423T01:34:43Z | 📨 Responsive email template generator. | https://github.com/luangjokaj/fuzzymail | 113 | 4| 
+| 20210423T01:30:43Z | Brainfuck fuzzing project | https://github.com/keworr/Brainfuck-fuzz-project | 0 | 0| 
+| 20210423T01:25:45Z | Fuzzy matching for Neovim | https://github.com/amirrezaask/fuzzy.nvim | 36 | 1| 
+| 20210423T01:23:15Z | This repository is for testing a number of open source applications for vulnerabilities using multiple fuzzers. | https://github.com/bartholomewHarris/fuzzingNode.jsApplications | 1 | 1| 
 | 20210423T00:48:39Z | RESTler is the first stateful REST API fuzzing tool for automatically testing cloud services through their REST APIs and finding security and reliability bugs in these services. | https://github.com/microsoft/restler-fuzzer | 752 | 77| 
 | 20210423T00:44:25Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6219 | 1255| 
-| 20210423T00:21:54Z | Fuzzy matching for Neovim | https://github.com/amirrezaask/fuzzy.nvim | 36 | 1| 
-| 20210423T00:20:59Z | 📨 Responsive email template generator. | https://github.com/luangjokaj/fuzzymail | 114 | 4| 
-| 20210423T00:20:23Z | Null | https://github.com/apachevirus/fuzzy-spork | 0 | 0| 
-| 20210423T00:13:58Z | This repository is for testing a number of open source applications for vulnerabilities using multiple fuzzers. | https://github.com/bartholomewHarris/fuzzingNode.jsApplications | 1 | 1| 
-| 20210423T00:08:25Z | Null | https://github.com/VeriBlock/fuzz-corpus | 0 | 1| 
-| 20210423T00:06:27Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 3 | 3| 
-| 20210422T23:34:52Z | SQL project to analyse a growing business and colect relevant information to help steer the company%s future. | https://github.com/alanaselli/MavenFuzzyFactory_Project | 0 | 0| 
-| 20210422T23:21:27Z | Null | https://github.com/Weber1974/fuzzy-octo-chainsaw | 0 | 0| 
 
 
 
