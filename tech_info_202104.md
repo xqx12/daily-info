@@ -100,16 +100,16 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210423T11:18:28Z | Simple backdoor using lib python%s socket and subprocess for Windows | https://github.com/NoNameoN-A/Backdoor-Client-Server-Socket-Python | 2 | 1| 
+| 20210423T10:10:35Z | Its a trojan-horse-virus/backdoor or whatever it it its cool and written in python. | https://github.com/Zahin-Tajwar/Trojan_Horse | 1 | 0| 
+| 20210423T09:53:13Z | using shellcode to add wmi fileless backdoor | https://github.com/cssxn/shellcode_for_fileless_wmi_backdoor | 1 | 1| 
+| 20210423T09:10:45Z | Dashboard for conducting Backdoors and Breaches sessions over Zoom. | https://github.com/p3hndrx/B-B-Shuffle | 35 | 1| 
+| 20210423T07:29:57Z | generator of php_backdoor | https://github.com/Ki11i0n4ir3/backdoor-gen | 0 | 0| 
+| 20210423T02:49:44Z | Simple Python Backdoor | https://github.com/zNairy/Sonaris | 5 | 0| 
 | 20210422T23:58:14Z | Ghost Framework is an Android post-exploitation framework that exploits the Android Debug Bridge to remotely access an Android device. | https://github.com/EntySec/ghost | 1046 | 508| 
-| 20210422T23:15:35Z | Dashboard for conducting Backdoors and Breaches sessions over Zoom. | https://github.com/p3hndrx/B-B-Shuffle | 34 | 0| 
 | 20210422T20:46:52Z | Null | https://github.com/EjHvorSerDuVildUdJim/backdoor | 0 | 0| 
 | 20210422T18:25:18Z | A demo and explanation of how a trojan backdoor attack can be performed on the classic MNIST experiment | https://github.com/adit-bala/Introduction-to-Trojans-in-AI | 0 | 0| 
 | 20210422T17:56:28Z | Null | https://github.com/piyushsharma220699/Backdoor-in-Cyber-Security | 0 | 0| 
-| 20210422T17:47:22Z | free and open source nonobf server backdoor plugin | https://github.com/AcaiBerii/Bakdooro | 1 | 0| 
-| 20210422T17:43:22Z | Leux Backdoor cracked by me | https://github.com/Itsmaitiv/LeuxBackdoor0.6 | 1 | 0| 
-| 20210422T15:51:59Z | unlock the advanced menu of Lenovo Yoga Slim 7 BIOS | https://github.com/esno/yoga-bios-unlock | 23 | 2| 
-| 20210422T13:48:15Z | Injecting Payload into an Android app and Testing Android Device Penetration. | https://github.com/Aravinddotcom/Testing-Android-Payload-BackDoor | 0 | 0| 
-| 20210422T13:32:40Z | Remote control over the target%s machine, different actions such as uploading and downloading files without the target%s permission. | https://github.com/HaythemBH2003/Backdoor-Python | 0 | 0| 
 
 
 # fuzz on Github 推荐

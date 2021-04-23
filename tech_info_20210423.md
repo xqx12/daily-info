@@ -74,6 +74,12 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210423T11:18:28Z | Simple backdoor using lib python%s socket and subprocess for Windows | https://github.com/NoNameoN-A/Backdoor-Client-Server-Socket-Python | 2 | 1| 
+| 20210423T10:10:35Z | Its a trojan-horse-virus/backdoor or whatever it it its cool and written in python. | https://github.com/Zahin-Tajwar/Trojan_Horse | 1 | 0| 
+| 20210423T09:53:13Z | using shellcode to add wmi fileless backdoor | https://github.com/cssxn/shellcode_for_fileless_wmi_backdoor | 1 | 1| 
+| 20210423T09:10:45Z | Dashboard for conducting Backdoors and Breaches sessions over Zoom. | https://github.com/p3hndrx/B-B-Shuffle | 35 | 1| 
+| 20210423T07:29:57Z | generator of php_backdoor | https://github.com/Ki11i0n4ir3/backdoor-gen | 0 | 0| 
+| 20210423T02:49:44Z | Simple Python Backdoor | https://github.com/zNairy/Sonaris | 5 | 0| 
 
 
 # fuzz on Github 推荐
