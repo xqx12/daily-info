@@ -34,8 +34,8 @@
 | 20210422T19:02:56Z | CVE-2021-3493 | Ubuntu OverlayFS Local Privesc | https://github.com/briskets/CVE-2021-3493 | The overlayfs implementation in the linux kernel did not properly validate with respect to user namespaces the setting of file capabilities on files in an underlying file system. Due to the combination of unprivileged user namespaces along with a patch carried in the Ubuntu kernel to allow unprivileged overlay mounts, an attacker could use this to gain elevated privileges.| 
 | 20210422T18:25:31Z | CVE-2021-30481 | https://nvd.nist.gov/vuln/detail/CVE-2021-30481 | https://github.com/floesen/CVE-2021-30481 | Valve Steam through 2021-04-10, when a Source engine game is installed, allows remote authenticated users to execute arbitrary code because of a buffer overflow that occurs for a Steam invite after one click.| 
 | 20210422T14:05:59Z | CVE-2021-26415 | All files needed to reproduce PoC for CVE-2021-26415: https://www.cloaked.pl/2021/04/cve-2021-26415/ | https://github.com/adenkiewicz/CVE-2021-26415 | Windows Installer Elevation of Privilege Vulnerability This CVE ID is unique from CVE-2021-28440.| 
-| 20210422T12:04:30Z | CVE-2021-22192 | CVE-2021-22192 靶场： 未授权用户 RCE 漏洞 | https://github.com/lyy289065406/CVE-2021-22192 | | 
-| 20210422T08:13:02Z | CVE-2021-22893 | Pulse Connect Secure RCE Vulnerability (CVE-2021-22893) | https://github.com/Mad-robot/CVE-2021-22893 | | 
+| 20210422T12:04:30Z | CVE-2021-22192 | CVE-2021-22192 靶场： 未授权用户 RCE 漏洞 | https://github.com/lyy289065406/CVE-2021-22192 | An issue has been discovered in GitLab CE/EE affecting all versions starting from 13.2 allowing unauthorized authenticated users to execute arbitrary code on the server.| 
+| 20210422T08:13:02Z | CVE-2021-22893 | Pulse Connect Secure RCE Vulnerability (CVE-2021-22893) | https://github.com/Mad-robot/CVE-2021-22893 | 未查询到CVE信息| 
 | 20210422T05:17:28Z | CVE-2020-35489 | Null | https://github.com/X0UCYB3R/Check-WP-CVE-2020-35489 | The contact-form-7 (aka Contact Form 7) plugin before 5.3.2 for WordPress allows Unrestricted File Upload and remote code execution because a filename may contain special characters.| 
 | 20210422T02:06:33Z | CVE-2021-3493 | Null | https://github.com/oneoy/CVE-2021-3493 | The overlayfs implementation in the linux kernel did not properly validate with respect to user namespaces the setting of file capabilities on files in an underlying file system. Due to the combination of unprivileged user namespaces along with a patch carried in the Ubuntu kernel to allow unprivileged overlay mounts, an attacker could use this to gain elevated privileges.| 
 
@@ -75,14 +75,16 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210422T12:59:14Z | using shellcode to add wmi fileless backdoor | https://github.com/cssxn/shellcode_for_fileless_wmi_backdoor | 0 | 0| 
-| 20210422T07:57:30Z | Rxploit | https://github.com/NANI1734/Rxploit | 2 | 0| 
-| 20210422T07:51:44Z | Null | https://github.com/Ily-1606/Backdoor | 0 | 0| 
-| 20210422T07:05:51Z | Tiny backdoor, built for survival | https://github.com/Raffy27/Hydra | 2 | 1| 
-| 20210422T06:54:15Z | Null | https://github.com/xpf/Backdoor-Learning-arXiv | 1 | 0| 
-| 20210422T06:06:23Z | Null | https://github.com/subhomoy-roy-choudhury/BackDoor_Script | 0 | 0| 
-| 20210422T05:53:53Z | LKM rootkit for Linux Kernels 2.6.x/3.x/4.x/5.x (x86/x86_64 and ARM64) | https://github.com/m0nad/Diamorphine | 758 | 281| 
-| 20210422T02:44:12Z | Simple Python Backdoor | https://github.com/zNairy/Sonaris | 5 | 0| 
+| 20210422T23:58:14Z | Ghost Framework is an Android post-exploitation framework that exploits the Android Debug Bridge to remotely access an Android device. | https://github.com/EntySec/ghost | 1046 | 508| 
+| 20210422T23:15:35Z | Dashboard for conducting Backdoors and Breaches sessions over Zoom. | https://github.com/p3hndrx/B-B-Shuffle | 34 | 0| 
+| 20210422T20:46:52Z | Null | https://github.com/EjHvorSerDuVildUdJim/backdoor | 0 | 0| 
+| 20210422T18:25:18Z | A demo and explanation of how a trojan backdoor attack can be performed on the classic MNIST experiment | https://github.com/adit-bala/Introduction-to-Trojans-in-AI | 0 | 0| 
+| 20210422T17:56:28Z | Null | https://github.com/piyushsharma220699/Backdoor-in-Cyber-Security | 0 | 0| 
+| 20210422T17:47:22Z | free and open source nonobf server backdoor plugin | https://github.com/AcaiBerii/Bakdooro | 1 | 0| 
+| 20210422T17:43:22Z | Leux Backdoor cracked by me | https://github.com/Itsmaitiv/LeuxBackdoor0.6 | 1 | 0| 
+| 20210422T15:51:59Z | unlock the advanced menu of Lenovo Yoga Slim 7 BIOS | https://github.com/esno/yoga-bios-unlock | 23 | 2| 
+| 20210422T13:48:15Z | Injecting Payload into an Android app and Testing Android Device Penetration. | https://github.com/Aravinddotcom/Testing-Android-Payload-BackDoor | 0 | 0| 
+| 20210422T13:32:40Z | Remote control over the target%s machine, different actions such as uploading and downloading files without the target%s permission. | https://github.com/HaythemBH2003/Backdoor-Python | 0 | 0| 
 
 
 # fuzz on Github 推荐
