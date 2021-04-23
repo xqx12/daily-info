@@ -13,6 +13,7 @@
 | 20210422 | CertStealer：无落地文件的 Windows 证书导入导出工具。 | https://github.com/TheWover/CertStealer| 
 | 20210422 | 将 Azure Application Proxy 服务用于 Cobalt Strike Malleable C2。 | https://www.trustedsec.com/blog/azure-application-proxy-c2/| 
 | 20210422 | 因涉嫌故意提交存在漏洞的代码，Greg Kroah-Hartman 禁止明尼苏达大学（ University of Minnesota ）的开发者参与 Linux 内核开发。 | https://www.zdnet.com/article/greg-kroah-hartman-bans-university-of-minnesota-from-linux-development-for-deliberately-buggy-patches/| 
+| 20210422 | As-Exploits: 中国蚁剑后渗透框架 | https://paper.seebug.org/1565/| 
 
 
 # 安全维基 推荐
@@ -27,21 +28,27 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20210422T12:51:22Z | CVE-2021-3493 | Ubuntu OverlayFS Local Privesc | https://github.com/briskets/CVE-2021-3493 | The overlayfs implementation in the linux kernel did not properly validate with respect to user namespaces the setting of file capabilities on files in an underlying file system. Due to the combination of unprivileged user namespaces along with a patch carried in the Ubuntu kernel to allow unprivileged overlay mounts, an attacker could use this to gain elevated privileges.| 
-| 20210422T12:26:47Z | CVE-2021-22893 | Proof-of-Concept (PoC) script to exploit Pulse Secure CVE-2021-22893.  | https://github.com/ZephrFish/CVE-2021-22893 | 未查询到CVE信息| 
-| 20210422T12:04:30Z | CVE-2021-22192 | CVE-2021-22192 靶场： 未授权用户 RCE 漏洞 | https://github.com/lyy289065406/CVE-2021-22192 | An issue has been discovered in GitLab CE/EE affecting all versions starting from 13.2 allowing unauthorized authenticated users to execute arbitrary code on the server.| 
-| 20210422T08:13:02Z | CVE-2021-22893 | Pulse Connect Secure RCE Vulnerability (CVE-2021-22893) | https://github.com/Mad-robot/CVE-2021-22893 | 未查询到CVE信息| 
-| 20210422T07:45:31Z | CVE-2021-30481 | https://nvd.nist.gov/vuln/detail/CVE-2021-30481 | https://github.com/floesen/CVE-2021-30481 | Valve Steam through 2021-04-10, when a Source engine game is installed, allows remote authenticated users to execute arbitrary code because of a buffer overflow that occurs for a Steam invite after one click.| 
+| 20210422T21:30:45Z | CVE-2021-28480 | PoC for exploiting RCE in Exchange CVEs: CVE-2021-28480, CVE-2021-28481, CVE-2021-28482 and CVE-2021-28483.  Achieves Domain Admin on Exchange Servers running Windows Server 2003 up to Windows Server 2019. | https://github.com/ZephrFish/ExchangeRCE-CVE-2021-28480 | Microsoft Exchange Server Remote Code Execution Vulnerability This CVE ID is unique from CVE-2021-28481, CVE-2021-28482, CVE-2021-28483.| 
+| 20210422T20:13:06Z | CVE-2021-22893 | Proof-of-Concept (PoC) script to exploit Pulse Secure CVE-2021-22893.  | https://github.com/ZephrFish/CVE-2021-22893 | 未查询到CVE信息| 
+| 20210422T19:03:41Z | CVE-2020-1472 | Null | https://github.com/itssmikefm/CVE-2020-1472 | An elevation of privilege vulnerability exists when an attacker establishes a vulnerable Netlogon secure channel connection to a domain controller, using the Netlogon Remote Protocol (MS-NRPC), aka %Netlogon Elevation of Privilege Vulnerability%.| 
+| 20210422T19:02:56Z | CVE-2021-3493 | Ubuntu OverlayFS Local Privesc | https://github.com/briskets/CVE-2021-3493 | The overlayfs implementation in the linux kernel did not properly validate with respect to user namespaces the setting of file capabilities on files in an underlying file system. Due to the combination of unprivileged user namespaces along with a patch carried in the Ubuntu kernel to allow unprivileged overlay mounts, an attacker could use this to gain elevated privileges.| 
+| 20210422T18:25:31Z | CVE-2021-30481 | https://nvd.nist.gov/vuln/detail/CVE-2021-30481 | https://github.com/floesen/CVE-2021-30481 | Valve Steam through 2021-04-10, when a Source engine game is installed, allows remote authenticated users to execute arbitrary code because of a buffer overflow that occurs for a Steam invite after one click.| 
+| 20210422T14:05:59Z | CVE-2021-26415 | All files needed to reproduce PoC for CVE-2021-26415: https://www.cloaked.pl/2021/04/cve-2021-26415/ | https://github.com/adenkiewicz/CVE-2021-26415 | Windows Installer Elevation of Privilege Vulnerability This CVE ID is unique from CVE-2021-28440.| 
+| 20210422T12:04:30Z | CVE-2021-22192 | CVE-2021-22192 靶场： 未授权用户 RCE 漏洞 | https://github.com/lyy289065406/CVE-2021-22192 | | 
+| 20210422T08:13:02Z | CVE-2021-22893 | Pulse Connect Secure RCE Vulnerability (CVE-2021-22893) | https://github.com/Mad-robot/CVE-2021-22893 | | 
 | 20210422T05:17:28Z | CVE-2020-35489 | Null | https://github.com/X0UCYB3R/Check-WP-CVE-2020-35489 | The contact-form-7 (aka Contact Form 7) plugin before 5.3.2 for WordPress allows Unrestricted File Upload and remote code execution because a filename may contain special characters.| 
 | 20210422T02:06:33Z | CVE-2021-3493 | Null | https://github.com/oneoy/CVE-2021-3493 | The overlayfs implementation in the linux kernel did not properly validate with respect to user namespaces the setting of file capabilities on files in an underlying file system. Due to the combination of unprivileged user namespaces along with a patch carried in the Ubuntu kernel to allow unprivileged overlay mounts, an attacker could use this to gain elevated privileges.| 
-| 20210422T01:47:10Z | CVE-2021-28480 | PoC for exploiting RCE in Exchange CVEs: CVE-2021-28480, CVE-2021-28481, CVE-2021-28482 and CVE-2021-28483.  Achieves Domain Admin on Exchange Servers running Windows Server 2003 up to Windows Server 2019. | https://github.com/ZephrFish/ExchangeRCE-CVE-2021-28480 | Microsoft Exchange Server Remote Code Execution Vulnerability This CVE ID is unique from CVE-2021-28481, CVE-2021-28482, CVE-2021-28483.| 
-| 20210422T01:44:08Z | CVE-2020-1350 | HoneyPoC: Proof-of-Concept (PoC) script to exploit SIGRed (CVE-2020-1350). Achieves Domain Admin on Domain Controllers running Windows Server 2000 up to Windows Server 2019. | https://github.com/ZephrFish/CVE-2020-1350 | A remote code execution vulnerability exists in Windows Domain Name System servers when they fail to properly handle requests, aka %Windows DNS Server Remote Code Execution Vulnerability%.| 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210422T11:53:21Z | A personnal UI library made as an excuse to have a published UI package | https://github.com/Liinkiing/klee | 7 | 1| 
+| 20210422T23:58:56Z | A personnal UI library made as an excuse to have a published UI package | https://github.com/Liinkiing/klee | 8 | 1| 
+| 20210422T22:09:27Z | An opiniated Next TypeScript powered starter which include Klee, emotion / styled-system, framer motion, jest and Cypress | https://github.com/Liinkiing/next-ts-klee-starter | 0 | 0| 
+| 20210422T20:12:35Z | Symbiotic is a tool for finding bugs in computer programs based on instrumentation, program slicing and KLEE | https://github.com/staticafi/symbiotic | 214 | 35| 
+| 20210422T19:43:53Z | KLEE demonstration on the program second_largest | https://github.com/basu-abhinav/second_largest | 0 | 0| 
+| 20210422T19:14:39Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1675 | 489| 
+| 20210422T18:18:59Z | ⬇️ File Upload/sharing application, used by thousands of webmasters since 2007.  | https://github.com/kleeja-official/kleeja | 118 | 35| 
 | 20210422T03:05:41Z | Spring 2021 Geography 817 work folder  | https://github.com/klee12/klee12.github.io | 0 | 0| 
 
 
@@ -53,16 +60,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210422T12:57:03Z | PS1 savegame exploit | https://github.com/socram8888/tonyhax | 259 | 7| 
-| 20210422T12:55:50Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9310 | 1504| 
-| 20210422T12:55:39Z | Exploit Jenkins using Shodan API | https://github.com/streghstreek/shodan-shell | 0 | 0| 
-| 20210422T12:50:52Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 15 | 10| 
-| 20210422T12:46:31Z | 中国蚁剑后渗透框架 | https://github.com/yzddmr6/As-Exploits | 358 | 65| 
-| 20210422T12:33:11Z |  :beetle: Repository of CVE found by OCD people | https://github.com/Orange-Cyberdefense/CVE-repository | 8 | 3| 
-| 20210422T12:31:01Z | Learning shell scripting with a small exploiting tool | https://github.com/iAgonyii/TheUltimateEdulabExploiter | 0 | 0| 
-| 20210422T12:21:41Z | Null | https://github.com/exploit-code/exploit-code.github.io | 0 | 0| 
-| 20210422T12:02:56Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 22 | 9| 
-| 20210422T11:40:34Z |  Foothold-to-agent exploitation workbench written in PowerShell core.  | https://github.com/WillChaos/Kitty | 0 | 0| 
+| 20210422T23:44:53Z | Null | https://github.com/CKScripts/RBLX-Exploit | 0 | 0| 
+| 20210422T23:37:23Z | Exploit allowing to load arbitrary code on the PSX using only a memory card (no game needed) | https://github.com/brad-lin/FreePSXBoot | 180 | 14| 
+| 20210422T23:28:22Z | Hack/Exploits for https://krunker.io/ | https://github.com/glixzzy/krunker.io-hacks | 7 | 28| 
+| 20210422T23:02:56Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 22 | 9| 
+| 20210422T22:44:25Z | Gentoo IO Exploit Host Menu for 5.05 FW with GoldHEN v1.1 Coded by SiSTRo / Port by Joonie86 | https://github.com/xforce505/Gentoo-IO-Exploit-Host-Menu | 0 | 0| 
+| 20210422T22:06:18Z | PS4 Exploit list | https://github.com/Hakkuraifu/PS4xploit | 34 | 12| 
+| 20210422T21:58:10Z | Exploits project Hacking Command Center | https://github.com/chacka0101/exploits | 5 | 6| 
+| 20210422T21:35:14Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9314 | 1505| 
+| 20210422T21:24:59Z | Blog consacré au Raspberry Pi. Au programme : des actualités, des tutoriels en français, des conseils, des projets, et bien plus pour exploiter le maximum de votre framboise ! | https://github.com/Skyost/FramboisePi | 0 | 0| 
+| 20210422T21:23:52Z | thx @Siguza | https://github.com/spacepilotAV/PhoenixExploitButEasy | 0 | 0| 
 
 
 # backdoor on Github 推荐
@@ -81,16 +88,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210422T12:19:48Z | Ein Suchfeld, das während des Tippens bereits Suchergebnisse anzeigt. | https://github.com/phoenixreisen/fuzzy-input | 0 | 0| 
-| 20210422T12:15:31Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 3 | 3| 
-| 20210422T12:03:31Z | Null | https://github.com/gdepuydt/fuzzoz | 0 | 0| 
-| 20210422T11:31:45Z | Null | https://github.com/VeriBlock/fuzz-corpus | 0 | 1| 
-| 20210422T11:21:52Z | Нейро-нечеткие системы | https://github.com/Blackblackofficial/neuro-fuzzy_systems | 0 | 0| 
-| 20210422T11:00:20Z | Null | https://github.com/s9varesc/url-fuzzing | 1 | 1| 
-| 20210422T10:48:00Z | A fuzzer that generates random Go programs | https://github.com/ALTree/microsmith | 8 | 0| 
-| 20210422T10:45:39Z | Null | https://github.com/nhsd-exeter/dos-service-fuzzy-search-api | 1 | 0| 
-| 20210422T10:33:12Z | Add interface function for DecFuzzer | https://github.com/hz90937880/NewDecFuzzer | 0 | 0| 
-| 20210422T10:16:23Z | Null | https://github.com/loucol1/project_fuzzer | 0 | 0| 
+| 20210422T23:43:43Z | This repository is for testing a number of open source applications for vulnerabilities using multiple fuzzers. | https://github.com/bartholomewHarris/fuzzingNode.jsApplications | 1 | 1| 
+| 20210422T23:34:52Z | SQL project to analyse a growing business and colect relevant information to help steer the company%s future. | https://github.com/alanaselli/MavenFuzzyFactory_Project | 0 | 0| 
+| 20210422T23:21:27Z | Null | https://github.com/Weber1974/fuzzy-octo-chainsaw | 0 | 0| 
+| 20210422T23:08:56Z | A unit test-like interface for fuzzing and symbolic execution | https://github.com/trailofbits/deepstate | 609 | 63| 
+| 20210422T22:57:51Z | Nodejs, Docker & Jenkins integration | https://github.com/ralarconb/fuzzy | 0 | 0| 
+| 20210422T22:42:24Z | Software for fuzzing, used on web application pentestings. | https://github.com/NESCAU-UFLA/FuzzingTool | 61 | 11| 
+| 20210422T22:35:48Z | A Docker image for radamsa, a general purpose fuzzer | https://github.com/sjinks/docker-scratch-radamsa | 0 | 0| 
+| 20210422T22:30:09Z | Null | https://github.com/georgehodgkins/libpaxos3-fuzzing | 0 | 0| 
+| 20210422T22:19:48Z | Null | https://github.com/alvarobatrez/FuzzyControl | 0 | 0| 
+| 20210422T21:53:55Z | Null | https://github.com/ahi-hfg/fuzzy-dollop | 0 | 0| 
 
 
 
