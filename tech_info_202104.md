@@ -61,6 +61,7 @@
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210423T01:19:54Z | KLEE demonstration on the program second_largest | https://github.com/basu-abhinav/automatic_evaluation_tool | 0 | 0| 
 | 20210423T01:09:22Z | A personnal UI library made as an excuse to have a published UI package | https://github.com/Liinkiing/klee | 8 | 1| 
 | 20210423T00:31:54Z | Create CFGs and compute complexity metrics for Python, C++, and Java code. | https://github.com/hmc-alpaqa/metrinome | 10 | 0| 
 | 20210422T22:09:27Z | An opiniated Next TypeScript powered starter which include Klee, emotion / styled-system, framer motion, jest and Cypress | https://github.com/Liinkiing/next-ts-klee-starter | 0 | 0| 
@@ -70,7 +71,6 @@
 | 20210422T18:18:59Z | ⬇️ File Upload/sharing application, used by thousands of webmasters since 2007.  | https://github.com/kleeja-official/kleeja | 118 | 35| 
 | 20210422T03:05:41Z | Spring 2021 Geography 817 work folder  | https://github.com/klee12/klee12.github.io | 0 | 0| 
 | 20210421T17:43:20Z | RVT is a collection of tools/libraries to support both static and dynamic verification of Rust programs. | https://github.com/project-oak/rust-verification-tools | 125 | 12| 
-| 20210421T08:37:43Z | Null | https://github.com/Jython1415/penguin-Klee | 1 | 0| 
 
 
 # s2e on Github 推荐
