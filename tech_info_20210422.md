@@ -36,14 +36,13 @@
 | 20210422T12:04:30Z | CVE-2021-22192 | CVE-2021-22192 靶场： 未授权用户 RCE 漏洞 | https://github.com/lyy289065406/CVE-2021-22192 | An issue has been discovered in GitLab CE/EE affecting all versions starting from 13.2 allowing unauthorized authenticated users to execute arbitrary code on the server.| 
 | 20210422T08:13:02Z | CVE-2021-22893 | Pulse Connect Secure RCE Vulnerability (CVE-2021-22893) | https://github.com/Mad-robot/CVE-2021-22893 | 未查询到CVE信息| 
 | 20210422T05:17:28Z | CVE-2020-35489 | Null | https://github.com/X0UCYB3R/Check-WP-CVE-2020-35489 | The contact-form-7 (aka Contact Form 7) plugin before 5.3.2 for WordPress allows Unrestricted File Upload and remote code execution because a filename may contain special characters.| 
-| 20210422T02:06:33Z | CVE-2021-3493 | Null | https://github.com/oneoy/CVE-2021-3493 | The overlayfs implementation in the linux kernel did not properly validate with respect to user namespaces the setting of file capabilities on files in an underlying file system. Due to the combination of unprivileged user namespaces along with a patch carried in the Ubuntu kernel to allow unprivileged overlay mounts, an attacker could use this to gain elevated privileges.| 
+| 20210422T02:06:33Z | CVE-2021-3493 | Null | https://github.com/oneoy/CVE-2021-3493 | | 
 | 20210422T01:44:08Z | CVE-2020-1350 | HoneyPoC: Proof-of-Concept (PoC) script to exploit SIGRed (CVE-2020-1350). Achieves Domain Admin on Domain Controllers running Windows Server 2000 up to Windows Server 2019. | https://github.com/ZephrFish/CVE-2020-1350 | A remote code execution vulnerability exists in Windows Domain Name System servers when they fail to properly handle requests, aka %Windows DNS Server Remote Code Execution Vulnerability%.| 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210422T23:58:56Z | A personnal UI library made as an excuse to have a published UI package | https://github.com/Liinkiing/klee | 8 | 1| 
 | 20210422T22:09:27Z | An opiniated Next TypeScript powered starter which include Klee, emotion / styled-system, framer motion, jest and Cypress | https://github.com/Liinkiing/next-ts-klee-starter | 0 | 0| 
 | 20210422T20:12:35Z | Symbiotic is a tool for finding bugs in computer programs based on instrumentation, program slicing and KLEE | https://github.com/staticafi/symbiotic | 214 | 35| 
 | 20210422T19:43:53Z | KLEE demonstration on the program second_largest | https://github.com/basu-abhinav/second_largest | 0 | 0| 
