@@ -115,6 +115,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210423T00:08:25Z | Null | https://github.com/VeriBlock/fuzz-corpus | 0 | 1| 
 | 20210423T00:06:27Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 3 | 3| 
 | 20210423T00:06:10Z | This repository is for testing a number of open source applications for vulnerabilities using multiple fuzzers. | https://github.com/bartholomewHarris/fuzzingNode.jsApplications | 1 | 1| 
 | 20210422T23:34:52Z | SQL project to analyse a growing business and colect relevant information to help steer the company%s future. | https://github.com/alanaselli/MavenFuzzyFactory_Project | 0 | 0| 
@@ -124,7 +125,6 @@
 | 20210422T22:42:24Z | Software for fuzzing, used on web application pentestings. | https://github.com/NESCAU-UFLA/FuzzingTool | 61 | 11| 
 | 20210422T22:35:48Z | A Docker image for radamsa, a general purpose fuzzer | https://github.com/sjinks/docker-scratch-radamsa | 0 | 0| 
 | 20210422T22:30:09Z | Null | https://github.com/georgehodgkins/libpaxos3-fuzzing | 0 | 0| 
-| 20210422T22:19:48Z | Null | https://github.com/alvarobatrez/FuzzyControl | 0 | 0| 
 
 
 
