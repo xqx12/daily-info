@@ -63,7 +63,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210423T12:25:17Z | By: itzzz Exploit | https://github.com/sazgarpinky/Uptime | 0 | 0| 
+| 20210423T12:26:50Z | By: itzzz Exploit | https://github.com/sazgarpinky/Uptime | 0 | 0| 
 | 20210423T12:24:35Z | CAUTION - Malicious files 💀 | https://github.com/Am0rphous/Malware | 19 | 6| 
 | 20210423T12:21:09Z | Development of code to exploit LSST and VISTA imaging | https://github.com/lsst-uk/lsst-ir-fusion | 0 | 0| 
 | 20210423T12:17:43Z | exploit-exercices (old school bugs) | https://github.com/ozswar94/Protostar | 0 | 0| 
@@ -90,6 +90,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210423T12:27:38Z | Hello Fuk | https://github.com/KurtCbain/fuzzy-lamp | 0 | 0| 
 | 20210423T12:15:38Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6219 | 1256| 
 | 20210423T12:15:21Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 3 | 3| 
 | 20210423T11:50:54Z | Null | https://github.com/JohenanLi/AggregateFuzzing | 0 | 0| 
@@ -99,7 +100,6 @@
 | 20210423T11:08:02Z | Some sort of a social network using react js, hello from 2004 :) | https://github.com/androranogajec/fuzzy-social-network | 0 | 0| 
 | 20210423T10:42:28Z | Null | https://github.com/nhsd-exeter/dos-service-fuzzy-search-api | 1 | 0| 
 | 20210423T10:32:34Z | Fuzzing resources for JSC32 | https://github.com/pmatos/jsc32-fuzz | 0 | 0| 
-| 20210423T10:32:08Z | Null | https://github.com/VeriBlock/fuzz-corpus | 0 | 1| 
 
 
 
