@@ -39,10 +39,10 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20210423T11:35:35Z | CVE-2021-1732 | CVE-2021-1732 poc & exp; tested on 20H2 | https://github.com/Pai-Po/CVE-2021-1732 | Windows Win32k Elevation of Privilege Vulnerability This CVE ID is unique from CVE-2021-1698.| 
+| 20210423T11:35:35Z | CVE-2021-1732 | CVE-2021-1732 poc & exp; tested on 20H2 | https://github.com/Pai-Po/CVE-2021-1732 | 未查询到CVE信息| 
 | 20210423T11:30:21Z | CVE-2020-15808 | A proof of concept of CVE-2020-15808 vulnerability exploit on STM32F4 Discovery board | https://github.com/manucuf/CVE202015808 | 未查询到CVE信息| 
 | 20210423T10:00:28Z | CVE-2021-25735 | Exploit CVE-2021-25735: Kubernetes Validating Admission Webhook Bypass | https://github.com/darryk10/CVE-2021-25735 | 未查询到CVE信息| 
-| 20210423T05:36:26Z | CVE-2021-3493 | Ubuntu OverlayFS Local Privesc | https://github.com/briskets/CVE-2021-3493 | The overlayfs implementation in the linux kernel did not properly validate with respect to user namespaces the setting of file capabilities on files in an underlying file system. Due to the combination of unprivileged user namespaces along with a patch carried in the Ubuntu kernel to allow unprivileged overlay mounts, an attacker could use this to gain elevated privileges.| 
+| 20210423T05:36:26Z | CVE-2021-3493 | Ubuntu OverlayFS Local Privesc | https://github.com/briskets/CVE-2021-3493 | 未查询到CVE信息| 
 
 
 # klee on Github 推荐
@@ -63,6 +63,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210423T12:29:38Z | Discord Nitro Code Generator and Checker. Generates Classic and Boost Nitro Codes. Using HTTPS Proxy (Autoscraper) | https://github.com/heatxyz/DiscordExploit | 0 | 0| 
 | 20210423T12:26:50Z | By: itzzz Exploit | https://github.com/sazgarpinky/Uptime | 0 | 0| 
 | 20210423T12:24:35Z | CAUTION - Malicious files 💀 | https://github.com/Am0rphous/Malware | 19 | 6| 
 | 20210423T12:21:09Z | Development of code to exploit LSST and VISTA imaging | https://github.com/lsst-uk/lsst-ir-fusion | 0 | 0| 
@@ -70,7 +71,6 @@
 | 20210423T12:16:16Z | a simple bash script which is automated to download searchsploit exploits from exploit-db | https://github.com/shamsi9/automated-exploit-downloader | 0 | 0| 
 | 20210423T12:15:41Z | Automated NoSQL database enumeration and web application exploitation tool. | https://github.com/Saiprasad16/MapNoSQL | 1 | 0| 
 | 20210423T12:08:14Z | Root repository for CS 6265: Information Security Lab - Reverse Engineering and Binary Exploitation | https://github.com/one2blame/cs6265 | 1 | 2| 
-| 20210423T12:08:05Z | Discord Nitro Code Generator and Checker. Generates Classic and Boost Nitro Codes. Using HTTPS Proxy (Autoscraper) | https://github.com/heatxyz/DiscordExploit | 0 | 0| 
 | 20210423T12:02:44Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 23 | 9| 
 | 20210423T11:49:24Z | Null | https://github.com/georgesotiriadis/CVES-EXPLOIT-PORTS | 0 | 0| 
 
