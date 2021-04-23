@@ -46,9 +46,9 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20210423T11:35:35Z | CVE-2021-1732 | CVE-2021-1732 poc & exp; tested on 20H2 | https://github.com/Pai-Po/CVE-2021-1732 | | 
+| 20210423T12:59:03Z | CVE-2021-25735 | Exploit CVE-2021-25735: Kubernetes Validating Admission Webhook Bypass | https://github.com/darryk10/CVE-2021-25735 | 未查询到CVE信息| 
+| 20210423T11:35:35Z | CVE-2021-1732 | CVE-2021-1732 poc & exp; tested on 20H2 | https://github.com/Pai-Po/CVE-2021-1732 | 未查询到CVE信息| 
 | 20210423T11:30:21Z | CVE-2020-15808 | A proof of concept of CVE-2020-15808 vulnerability exploit on STM32F4 Discovery board | https://github.com/manucuf/CVE202015808 | 未查询到CVE信息| 
-| 20210423T10:00:28Z | CVE-2021-25735 | Exploit CVE-2021-25735: Kubernetes Validating Admission Webhook Bypass | https://github.com/darryk10/CVE-2021-25735 | 未查询到CVE信息| 
 | 20210423T05:36:26Z | CVE-2021-3493 | Ubuntu OverlayFS Local Privesc | https://github.com/briskets/CVE-2021-3493 | 未查询到CVE信息| 
 | 20210422T21:30:45Z | CVE-2021-28480 | PoC for exploiting RCE in Exchange CVEs: CVE-2021-28480, CVE-2021-28481, CVE-2021-28482 and CVE-2021-28483.  Achieves Domain Admin on Exchange Servers running Windows Server 2003 up to Windows Server 2019. | https://github.com/ZephrFish/ExchangeRCE-CVE-2021-28480 | 未查询到CVE信息| 
 | 20210422T20:13:06Z | CVE-2021-22893 | Proof-of-Concept (PoC) script to exploit Pulse Secure CVE-2021-22893.  | https://github.com/ZephrFish/CVE-2021-22893 | 未查询到CVE信息| 
@@ -85,16 +85,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210423T12:44:45Z | Advisories, proof of concept files and exploits that have been made public by @pedrib. | https://github.com/pedrib/PoC | 384 | 99| 
+| 20210423T12:59:03Z | Exploit CVE-2021-25735: Kubernetes Validating Admission Webhook Bypass | https://github.com/darryk10/CVE-2021-25735 | 0 | 1| 
+| 20210423T12:59:00Z | A python script file to statically and dynamically investigate and analyse binary files for buffer overflow exploits. | https://github.com/BroadbentT/BINARY-MASTER | 5 | 1| 
+| 20210423T12:55:53Z | PowerShell Post-exploitation agent based on Mitre Att&ck framework | https://github.com/benyG/PentaDrone | 3 | 3| 
+| 20210423T12:52:58Z | Project Carthage is a Roblox Exploit that inspired by code lyoko | https://github.com/DeletedUser0x96/Project-Carthage | 0 | 0| 
+| 20210423T12:50:53Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 15 | 10| 
+| 20210423T12:50:02Z | Advisories, proof of concept files and exploits that have been made public by @pedrib. | https://github.com/pedrib/PoC | 384 | 99| 
+| 20210423T12:47:44Z | a simple bash script which is automated to download searchsploit exploits from exploit-db | https://github.com/shamsi9/automated-exploit-downloader | 0 | 0| 
 | 20210423T12:40:39Z | Development of code to exploit LSST and VISTA imaging | https://github.com/lsst-uk/lsst-ir-fusion | 0 | 0| 
 | 20210423T12:35:14Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9317 | 1505| 
 | 20210423T12:29:38Z | Discord Nitro Code Generator and Checker. Generates Classic and Boost Nitro Codes. Using HTTPS Proxy (Autoscraper) | https://github.com/heatxyz/DiscordExploit | 0 | 0| 
-| 20210423T12:26:50Z | By: itzzz Exploit | https://github.com/sazgarpinky/Uptime | 0 | 0| 
-| 20210423T12:24:35Z | CAUTION - Malicious files 💀 | https://github.com/Am0rphous/Malware | 19 | 6| 
-| 20210423T12:17:43Z | exploit-exercices (old school bugs) | https://github.com/ozswar94/Protostar | 0 | 0| 
-| 20210423T12:16:16Z | a simple bash script which is automated to download searchsploit exploits from exploit-db | https://github.com/shamsi9/automated-exploit-downloader | 0 | 0| 
-| 20210423T12:15:41Z | Automated NoSQL database enumeration and web application exploitation tool. | https://github.com/Saiprasad16/MapNoSQL | 1 | 0| 
-| 20210423T12:08:14Z | Root repository for CS 6265: Information Security Lab - Reverse Engineering and Binary Exploitation | https://github.com/one2blame/cs6265 | 1 | 2| 
 
 
 # backdoor on Github 推荐
