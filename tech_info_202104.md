@@ -53,7 +53,7 @@
 | 20210424T07:53:06Z | CVE-2021-25735 | Exploit CVE-2021-25735: Kubernetes Validating Admission Webhook Bypass | https://github.com/darryk10/CVE-2021-25735 | 未查询到CVE信息| 
 | 20210423T20:41:44Z | CVE-2021-30481 | https://nvd.nist.gov/vuln/detail/CVE-2021-30481 | https://github.com/floesen/CVE-2021-30481 | Valve Steam through 2021-04-10, when a Source engine game is installed, allows remote authenticated users to execute arbitrary code because of a buffer overflow that occurs for a Steam invite after one click.| 
 | 20210423T20:13:51Z | cve-2020-10977 | cve-2020-10977 read and execute | https://github.com/lisp3r/cve-2020-10977-read-and-execute | GitLab EE/CE 8.5 to 12.9 is vulnerable to a an path traversal when moving an issue between projects.| 
-| 20210423T18:12:59Z | CVE-2021-22893 | Proof-of-Concept (PoC) script to exploit Pulse Secure CVE-2021-22893.  | https://github.com/ZephrFish/CVE-2021-22893 | 未查询到CVE信息| 
+| 20210423T18:12:59Z | CVE-2021-22893 | Proof-of-Concept (PoC) script to exploit Pulse Secure CVE-2021-22893.  | https://github.com/ZephrFish/CVE-2021-22893 | Pulse Connect Secure 9.0R3/9.1R1 and higher is vulnerable to an authentication bypass vulnerability exposed by the Windows File Share Browser and Pulse Secure Collaboration features of Pulse Connect Secure that can allow an unauthenticated user to perform remote arbitrary code execution on the Pulse Connect Secure gateway. This vulnerability has been exploited in the wild.| 
 | 20210423T15:55:27Z | CVE-2021-28480 | PoC for exploiting RCE in Exchange CVEs: CVE-2021-28480, CVE-2021-28481, CVE-2021-28482 and CVE-2021-28483.  Achieves Domain Admin on Exchange Servers running Windows Server 2003 up to Windows Server 2019. | https://github.com/ZephrFish/ExchangeRCE-CVE-2021-28480 | Microsoft Exchange Server Remote Code Execution Vulnerability This CVE ID is unique from CVE-2021-28481, CVE-2021-28482, CVE-2021-28483.| 
 | 20210423T11:30:21Z | CVE-2020-15808 | A proof of concept of CVE-2020-15808 vulnerability exploit on STM32F4 Discovery board | https://github.com/manucuf/CVE202015808 | 未查询到CVE信息| 
 
@@ -100,7 +100,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210424T12:41:16Z | Null | https://github.com/iwantlotsofcookies/BackDoor | 0 | 0| 
+| 20210424T12:49:20Z | Null | https://github.com/iwantlotsofcookies/BackDoor | 0 | 0| 
 | 20210424T12:31:53Z | using msfvenom to make RAT(remote access trojan) using backdoor | https://github.com/anthonykid/kali_netasploit_windows_10 | 0 | 0| 
 | 20210424T10:51:57Z | FUD cross-platform python2 backdoor with C2 | https://github.com/7h3w4lk3r/pyback | 22 | 9| 
 | 20210424T08:20:02Z | Sample code and instructions for minting ERC721 NFT tokens with a backdoor | https://github.com/kf106/sleepmint-template | 0 | 0| 
