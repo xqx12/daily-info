@@ -62,13 +62,27 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210424T10:51:57Z | FUD cross-platform python2 backdoor with C2 | https://github.com/7h3w4lk3r/pyback | 22 | 9| 
+| 20210424T08:20:02Z | Sample code and instructions for minting ERC721 NFT tokens with a backdoor | https://github.com/kf106/sleepmint-template | 0 | 0| 
+| 20210424T07:52:01Z | Null | https://github.com/TheSaltyBoys/backdoor-v4 | 0 | 0| 
+| 20210424T07:47:44Z | Micro web-shells for pentesting | https://github.com/joseigbv/uws | 0 | 0| 
+| 20210424T06:23:13Z | Python 3 IRC Bot / Botnet | https://github.com/trackmastersteve/HackServ | 19 | 16| 
 | 20210424T00:43:41Z | Simple Python Backdoor | https://github.com/zNairy/Sonaris | 6 | 0| 
 
 
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210424T00:06:11Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 3 | 3| 
+| 20210424T11:47:03Z | Null | https://github.com/DanielEbert/EmulatedFirmwareFuzzing | 0 | 0| 
+| 20210424T11:27:21Z | Null | https://github.com/MaximZagorsk/Fuzzy-test-case | 0 | 0| 
+| 20210424T11:03:01Z | The Official Fuzzy Britches Repository. | https://github.com/ThePapaw/fuzzybritches | 0 | 0| 
+| 20210424T10:58:27Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 1628 | 326| 
+| 20210424T10:27:52Z | A symbolic fuzzer that can generate input values symbolically for a python function by generating all the path constraints in a function.  | https://github.com/mathews1193/Symbolic_Fuzzer | 0 | 0| 
+| 20210424T09:47:11Z | Null | https://github.com/rbaumier/vscode-go-to-fuzzy | 0 | 0| 
+| 20210424T09:25:09Z | Null | https://github.com/setsal/fuzz_bench | 0 | 0| 
+| 20210424T09:21:37Z | Null | https://github.com/s9varesc/url-fuzzing-docker | 0 | 0| 
+| 20210424T09:21:12Z | Null | https://github.com/syifzaaa/fuzz-algorithm | 0 | 0| 
+| 20210424T09:02:01Z | Fuzzing, analysis response and detect vulnerability web application | https://github.com/hoangthanhnguyen/bigdig | 0 | 0| 
 
 
 

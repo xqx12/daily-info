@@ -100,31 +100,31 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210424T10:51:57Z | FUD cross-platform python2 backdoor with C2 | https://github.com/7h3w4lk3r/pyback | 22 | 9| 
+| 20210424T08:20:02Z | Sample code and instructions for minting ERC721 NFT tokens with a backdoor | https://github.com/kf106/sleepmint-template | 0 | 0| 
+| 20210424T07:52:01Z | Null | https://github.com/TheSaltyBoys/backdoor-v4 | 0 | 0| 
+| 20210424T07:47:44Z | Micro web-shells for pentesting | https://github.com/joseigbv/uws | 0 | 0| 
+| 20210424T06:23:13Z | Python 3 IRC Bot / Botnet | https://github.com/trackmastersteve/HackServ | 19 | 16| 
 | 20210424T00:43:41Z | Simple Python Backdoor | https://github.com/zNairy/Sonaris | 6 | 0| 
 | 20210423T23:55:52Z | Simple bind backdoor destined for linux servers | https://github.com/mednic/b4ckd0or | 2 | 0| 
 | 20210423T21:03:51Z | Null | https://github.com/Peppooo/Backdoor.js | 0 | 0| 
-| 20210423T19:49:21Z | FUD cross-platform python2 backdoor with C2 | https://github.com/7h3w4lk3r/pyback | 22 | 9| 
 | 20210423T19:34:20Z | Dashboard for conducting Backdoors and Breaches sessions over Zoom. | https://github.com/p3hndrx/B-B-Shuffle | 35 | 2| 
 | 20210423T18:26:02Z | Null | https://github.com/piyushsharma220699/Backdoor-in-Cyber-Security | 0 | 0| 
-| 20210423T18:22:41Z | TrojanZoo provides a universal pytorch platform to conduct security researches (especially backdoor attacks/defenses) of image classification in deep learning. | https://github.com/ain-soph/trojanzoo | 66 | 11| 
-| 20210423T17:59:15Z | I made this repository to help Roblox developers don%t know how to security your games | https://github.com/Pr1sth2/Backdoor-Check | 0 | 0| 
-| 20210423T17:12:34Z | Null | https://github.com/iwantlotsofcookies/BackDoor | 0 | 0| 
-| 20210423T16:53:46Z | Null | https://github.com/McSl0vv/backdoor | 0 | 0| 
 
 
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210424T00:06:11Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 3 | 3| 
-| 20210423T23:57:42Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6223 | 1256| 
-| 20210423T23:44:19Z | Code for fuzzy monkeys. | https://github.com/fuzzyatelin/fuzzyatelin.github.io | 3 | 9| 
-| 20210423T22:18:34Z | fpicker is a Frida-based fuzzing suite supporting various modes (including AFL++ in-process fuzzing) | https://github.com/ttdennis/fpicker | 68 | 6| 
-| 20210423T22:08:15Z | Good vibe  | https://github.com/moneyisme/fuzzy-disco | 0 | 0| 
-| 20210423T21:37:47Z | A fork and successor of the Sulley Fuzzing Framework | https://github.com/jtpereyda/boofuzz | 1206 | 239| 
-| 20210423T21:36:59Z | Null | https://github.com/TensileFuzz/TensileFuzz | 0 | 0| 
-| 20210423T21:31:54Z | Null | https://github.com/VeriBlock/fuzz-corpus | 0 | 1| 
-| 20210423T20:57:18Z | JQF + Zest: Coverage-guided semantic fuzzing for Java. | https://github.com/rohanpadhye/JQF | 347 | 48| 
-| 20210423T20:34:34Z | Words  | https://github.com/denis-pn/Algorithm_for_fuzzy_search_for_words_and_phrases | 0 | 0| 
+| 20210424T11:47:03Z | Null | https://github.com/DanielEbert/EmulatedFirmwareFuzzing | 0 | 0| 
+| 20210424T11:27:21Z | Null | https://github.com/MaximZagorsk/Fuzzy-test-case | 0 | 0| 
+| 20210424T11:03:01Z | The Official Fuzzy Britches Repository. | https://github.com/ThePapaw/fuzzybritches | 0 | 0| 
+| 20210424T10:58:27Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 1628 | 326| 
+| 20210424T10:27:52Z | A symbolic fuzzer that can generate input values symbolically for a python function by generating all the path constraints in a function.  | https://github.com/mathews1193/Symbolic_Fuzzer | 0 | 0| 
+| 20210424T09:47:11Z | Null | https://github.com/rbaumier/vscode-go-to-fuzzy | 0 | 0| 
+| 20210424T09:25:09Z | Null | https://github.com/setsal/fuzz_bench | 0 | 0| 
+| 20210424T09:21:37Z | Null | https://github.com/s9varesc/url-fuzzing-docker | 0 | 0| 
+| 20210424T09:21:12Z | Null | https://github.com/syifzaaa/fuzz-algorithm | 0 | 0| 
+| 20210424T09:02:01Z | Fuzzing, analysis response and detect vulnerability web application | https://github.com/hoangthanhnguyen/bigdig | 0 | 0| 
 
 
 
