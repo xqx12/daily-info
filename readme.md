@@ -48,6 +48,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210424T12:37:26Z | Config files for my GitHub profile. | https://github.com/exploitblizzard/exploitblizzard | 0 | 0| 
+| 20210424T12:35:11Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9319 | 1507| 
 | 20210424T12:16:59Z | Null | https://github.com/b1tg/wechat-0day-CVE-2018-6065-exploit | 0 | 0| 
 | 20210424T12:05:04Z | Here is where I will post all of my exploits where you will have to go through the linkvertise to get the password to the scripts. | https://github.com/sjonks/Exploits | 0 | 0| 
 | 20210424T12:02:42Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 23 | 9| 
@@ -56,8 +58,6 @@
 | 20210424T11:44:10Z | A repository containing the exploit code for the Pylington IDE. | https://github.com/salman-ahm3d/pylington_exploit | 0 | 0| 
 | 20210424T11:36:00Z | Null | https://github.com/KOZ1OL/Kali-Linux-Exploit | 0 | 0| 
 | 20210424T11:34:20Z | Null | https://github.com/HarryTheKing1/Harry-s-exploit-api | 0 | 0| 
-| 20210424T10:56:00Z | More Stable Offline Exploit version of PS4 6.72 Jailbreak. | https://github.com/DarkModderVC/PS4JB | 139 | 54| 
-| 20210424T10:18:50Z | Tutorials and Tools to get your Xiaomi Router in English. All of this is tested on an Xiaomi 4A non Gigabit (but it should work on other too) | https://github.com/devilAPI/XiaomiRouter-EnglishExploit | 0 | 0| 
 
 
 # backdoor on Github 推荐
@@ -75,6 +75,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210424T12:38:15Z | Null | https://github.com/alidogancodes/Adaptive-neuro-fuzzy-inference-system | 0 | 0| 
 | 20210424T12:34:12Z | Null | https://github.com/VarunDevPro/fuzzy-lamp | 0 | 0| 
 | 20210424T12:34:03Z | Null | https://github.com/serlysetyani/fuzzyLogic | 0 | 0| 
 | 20210424T12:17:33Z | Null | https://github.com/Juanosorio94/fuzzing-rdma | 0 | 0| 
@@ -84,7 +85,6 @@
 | 20210424T11:27:21Z | Null | https://github.com/MaximZagorsk/Fuzzy-test-case | 0 | 0| 
 | 20210424T11:03:01Z | The Official Fuzzy Britches Repository. | https://github.com/ThePapaw/fuzzybritches | 0 | 0| 
 | 20210424T10:58:27Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 1628 | 326| 
-| 20210424T10:27:52Z | A symbolic fuzzer that can generate input values symbolically for a python function by generating all the path constraints in a function.  | https://github.com/mathews1193/Symbolic_Fuzzer | 0 | 0| 
 
 
 
