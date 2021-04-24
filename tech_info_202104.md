@@ -46,31 +46,31 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20210423T12:59:03Z | CVE-2021-25735 | Exploit CVE-2021-25735: Kubernetes Validating Admission Webhook Bypass | https://github.com/darryk10/CVE-2021-25735 | 未查询到CVE信息| 
-| 20210423T11:35:35Z | CVE-2021-1732 | CVE-2021-1732 poc & exp; tested on 20H2 | https://github.com/Pai-Po/CVE-2021-1732 | 未查询到CVE信息| 
+| 20210423T23:36:54Z | CVE-2021-1732 | CVE-2021-1732 poc & exp; tested on 20H2 | https://github.com/Pai-Po/CVE-2021-1732 | Windows Win32k Elevation of Privilege Vulnerability This CVE ID is unique from CVE-2021-1698.| 
+| 20210423T21:42:35Z | cve-2020-10977 | GitLab 12.9.0 Arbitrary File Read  | https://github.com/thewhiteh4t/cve-2020-10977 | GitLab EE/CE 8.5 to 12.9 is vulnerable to a an path traversal when moving an issue between projects.| 
+| 20210423T20:41:44Z | CVE-2021-30481 | https://nvd.nist.gov/vuln/detail/CVE-2021-30481 | https://github.com/floesen/CVE-2021-30481 | Valve Steam through 2021-04-10, when a Source engine game is installed, allows remote authenticated users to execute arbitrary code because of a buffer overflow that occurs for a Steam invite after one click.| 
+| 20210423T20:13:51Z | cve-2020-10977 | cve-2020-10977 read and execute | https://github.com/lisp3r/cve-2020-10977-read-and-execute | GitLab EE/CE 8.5 to 12.9 is vulnerable to a an path traversal when moving an issue between projects.| 
+| 20210423T18:12:59Z | CVE-2021-22893 | Proof-of-Concept (PoC) script to exploit Pulse Secure CVE-2021-22893.  | https://github.com/ZephrFish/CVE-2021-22893 | Pulse Connect Secure 9.0R3/9.1R1 and higher is vulnerable to an authentication bypass vulnerability exposed by the Windows File Share Browser and Pulse Secure Collaboration features of Pulse Connect Secure that can allow an unauthenticated user to perform remote arbitrary code execution on the Pulse Connect Secure gateway. This vulnerability has been exploited in the wild.| 
+| 20210423T16:13:09Z | CVE-2021-3493 | Ubuntu OverlayFS Local Privesc | https://github.com/briskets/CVE-2021-3493 | The overlayfs implementation in the linux kernel did not properly validate with respect to user namespaces the setting of file capabilities on files in an underlying file system. Due to the combination of unprivileged user namespaces along with a patch carried in the Ubuntu kernel to allow unprivileged overlay mounts, an attacker could use this to gain elevated privileges.| 
+| 20210423T15:55:27Z | CVE-2021-28480 | PoC for exploiting RCE in Exchange CVEs: CVE-2021-28480, CVE-2021-28481, CVE-2021-28482 and CVE-2021-28483.  Achieves Domain Admin on Exchange Servers running Windows Server 2003 up to Windows Server 2019. | https://github.com/ZephrFish/ExchangeRCE-CVE-2021-28480 | | 
+| 20210423T13:32:58Z | CVE-2021-22192 | CVE-2021-22192 靶场： 未授权用户 RCE 漏洞 | https://github.com/lyy289065406/CVE-2021-22192 | An issue has been discovered in GitLab CE/EE affecting all versions starting from 13.2 allowing unauthorized authenticated users to execute arbitrary code on the server.| 
+| 20210423T13:11:19Z | CVE-2021-25735 | Exploit CVE-2021-25735: Kubernetes Validating Admission Webhook Bypass | https://github.com/darryk10/CVE-2021-25735 | 未查询到CVE信息| 
 | 20210423T11:30:21Z | CVE-2020-15808 | A proof of concept of CVE-2020-15808 vulnerability exploit on STM32F4 Discovery board | https://github.com/manucuf/CVE202015808 | 未查询到CVE信息| 
-| 20210423T05:36:26Z | CVE-2021-3493 | Ubuntu OverlayFS Local Privesc | https://github.com/briskets/CVE-2021-3493 | 未查询到CVE信息| 
-| 20210422T21:30:45Z | CVE-2021-28480 | PoC for exploiting RCE in Exchange CVEs: CVE-2021-28480, CVE-2021-28481, CVE-2021-28482 and CVE-2021-28483.  Achieves Domain Admin on Exchange Servers running Windows Server 2003 up to Windows Server 2019. | https://github.com/ZephrFish/ExchangeRCE-CVE-2021-28480 | 未查询到CVE信息| 
-| 20210422T20:13:06Z | CVE-2021-22893 | Proof-of-Concept (PoC) script to exploit Pulse Secure CVE-2021-22893.  | https://github.com/ZephrFish/CVE-2021-22893 | 未查询到CVE信息| 
-| 20210422T19:03:41Z | CVE-2020-1472 | Null | https://github.com/itssmikefm/CVE-2020-1472 | 未查询到CVE信息| 
-| 20210422T18:25:31Z | CVE-2021-30481 | https://nvd.nist.gov/vuln/detail/CVE-2021-30481 | https://github.com/floesen/CVE-2021-30481 | 未查询到CVE信息| 
-| 20210422T14:05:59Z | CVE-2021-26415 | All files needed to reproduce PoC for CVE-2021-26415: https://www.cloaked.pl/2021/04/cve-2021-26415/ | https://github.com/adenkiewicz/CVE-2021-26415 | 未查询到CVE信息| 
-| 20210422T12:04:30Z | CVE-2021-22192 | CVE-2021-22192 靶场： 未授权用户 RCE 漏洞 | https://github.com/lyy289065406/CVE-2021-22192 | 未查询到CVE信息| 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210423T22:47:38Z | Whole Program LLVM: wllvm ported to go | https://github.com/SRI-CSL/gllvm | 127 | 21| 
+| 20210423T16:14:28Z | Symbiotic is a tool for finding bugs in computer programs based on instrumentation, program slicing and KLEE | https://github.com/staticafi/symbiotic | 215 | 35| 
 | 20210423T11:31:20Z | An opiniated Next TypeScript powered starter which include Klee, emotion / styled-system, framer motion, jest and Cypress | https://github.com/Liinkiing/next-ts-klee-starter | 0 | 0| 
 | 20210423T11:28:41Z | A personnal UI library made as an excuse to have a published UI package | https://github.com/Liinkiing/klee | 8 | 1| 
 | 20210423T09:57:45Z | Git Blog | https://github.com/klee30810/klee30810.github.io | 0 | 0| 
 | 20210423T08:48:28Z | Create CFGs and compute complexity metrics for Python, C++, and Java code. | https://github.com/hmc-alpaqa/metrinome | 11 | 0| 
 | 20210423T01:26:45Z | KLEE demonstration on the program second_largest | https://github.com/basu-abhinav/automatic_evaluation_tool | 0 | 0| 
-| 20210422T20:12:35Z | Symbiotic is a tool for finding bugs in computer programs based on instrumentation, program slicing and KLEE | https://github.com/staticafi/symbiotic | 214 | 35| 
 | 20210422T19:43:53Z | KLEE demonstration on the program second_largest | https://github.com/basu-abhinav/second_largest | 0 | 0| 
 | 20210422T19:14:39Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1675 | 489| 
 | 20210422T18:18:59Z | ⬇️ File Upload/sharing application, used by thousands of webmasters since 2007.  | https://github.com/kleeja-official/kleeja | 118 | 35| 
-| 20210422T03:05:41Z | Spring 2021 Geography 817 work folder  | https://github.com/klee12/klee12.github.io | 0 | 0| 
 
 
 # s2e on Github 推荐
@@ -85,46 +85,46 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210423T12:59:03Z | Exploit CVE-2021-25735: Kubernetes Validating Admission Webhook Bypass | https://github.com/darryk10/CVE-2021-25735 | 0 | 1| 
-| 20210423T12:59:00Z | A python script file to statically and dynamically investigate and analyse binary files for buffer overflow exploits. | https://github.com/BroadbentT/BINARY-MASTER | 5 | 1| 
-| 20210423T12:55:53Z | PowerShell Post-exploitation agent based on Mitre Att&ck framework | https://github.com/benyG/PentaDrone | 3 | 3| 
-| 20210423T12:52:58Z | Project Carthage is a Roblox Exploit that inspired by code lyoko | https://github.com/DeletedUser0x96/Project-Carthage | 0 | 0| 
-| 20210423T12:50:53Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 15 | 10| 
-| 20210423T12:50:02Z | Advisories, proof of concept files and exploits that have been made public by @pedrib. | https://github.com/pedrib/PoC | 384 | 99| 
-| 20210423T12:47:44Z | a simple bash script which is automated to download searchsploit exploits from exploit-db | https://github.com/shamsi9/automated-exploit-downloader | 0 | 0| 
-| 20210423T12:40:39Z | Development of code to exploit LSST and VISTA imaging | https://github.com/lsst-uk/lsst-ir-fusion | 0 | 0| 
-| 20210423T12:35:14Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9317 | 1505| 
-| 20210423T12:29:38Z | Discord Nitro Code Generator and Checker. Generates Classic and Boost Nitro Codes. Using HTTPS Proxy (Autoscraper) | https://github.com/heatxyz/DiscordExploit | 0 | 0| 
+| 20210423T23:57:22Z | Null | https://github.com/0xturazzi/Um-Livrinho-Sobre-Exploit-Dev | 0 | 0| 
+| 20210423T23:27:49Z | Null | https://github.com/zYan666/Demon-Exploit | 0 | 0| 
+| 20210423T23:21:07Z | [UNDEDECTED] - League of Legends - Allows aram boost exploit by converting the client to its previous version. League of Legends one click cheat. | https://github.com/R3nzTheCodeGOD/LOL-Aram-Boost-Exploit | 2 | 1| 
+| 20210423T23:13:39Z | Null | https://github.com/thao-samyn/exploit | 0 | 0| 
+| 20210423T23:07:02Z | Scripts I made to exploit the challenges in HackTheBox%s Cyber Apocolapyse. | https://github.com/elbee-cyber/CA-HTB-CTF-scripts | 1 | 0| 
+| 20210423T23:05:55Z | 1.12.2 continuation of Paper to patch some exploits | https://github.com/moom0o/Durian | 0 | 0| 
+| 20210423T23:02:40Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 23 | 9| 
+| 20210423T22:57:06Z | This is a repo for the coding done for CTFs / exploits. The writeups are here: https://github.com/dillonwu-97/csec_writeups | https://github.com/dillonwu-97/csec-code | 0 | 0| 
+| 20210423T22:39:28Z | PS4 Exploits 5.05-7.55 | https://github.com/Buzbee/Buzbee.github.io | 1 | 0| 
+| 20210423T22:29:15Z | A open source whitelisting/licensing service for exploits | https://github.com/VoidMasterX/Whitelist-Service | 0 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210423T12:34:00Z | free and open source nonobf server backdoor plugin | https://github.com/AcaiBerii/Bakdooro | 1 | 0| 
-| 20210423T11:18:28Z | Simple backdoor using lib python%s socket and subprocess for Windows | https://github.com/NoNameoN-A/Backdoor-Client-Server-Socket-Python | 2 | 1| 
-| 20210423T10:10:35Z | Its a trojan-horse-virus/backdoor or whatever it it its cool and written in python. | https://github.com/Zahin-Tajwar/Trojan_Horse | 1 | 0| 
-| 20210423T09:53:13Z | using shellcode to add wmi fileless backdoor | https://github.com/cssxn/shellcode_for_fileless_wmi_backdoor | 1 | 1| 
-| 20210423T09:10:45Z | Dashboard for conducting Backdoors and Breaches sessions over Zoom. | https://github.com/p3hndrx/B-B-Shuffle | 35 | 1| 
-| 20210423T07:29:57Z | generator of php_backdoor | https://github.com/Ki11i0n4ir3/backdoor-gen | 0 | 0| 
-| 20210423T02:49:44Z | Simple Python Backdoor | https://github.com/zNairy/Sonaris | 5 | 0| 
-| 20210422T23:58:14Z | Ghost Framework is an Android post-exploitation framework that exploits the Android Debug Bridge to remotely access an Android device. | https://github.com/EntySec/ghost | 1046 | 508| 
-| 20210422T20:46:52Z | Null | https://github.com/EjHvorSerDuVildUdJim/backdoor | 0 | 0| 
-| 20210422T18:25:18Z | A demo and explanation of how a trojan backdoor attack can be performed on the classic MNIST experiment | https://github.com/adit-bala/Introduction-to-Trojans-in-AI | 0 | 0| 
+| 20210423T23:55:52Z | Simple bind backdoor destined for linux servers | https://github.com/mednic/b4ckd0or | 2 | 0| 
+| 20210423T21:03:51Z | Null | https://github.com/Peppooo/Backdoor.js | 0 | 0| 
+| 20210423T19:49:21Z | FUD cross-platform python2 backdoor with C2 | https://github.com/7h3w4lk3r/pyback | 22 | 9| 
+| 20210423T19:34:20Z | Dashboard for conducting Backdoors and Breaches sessions over Zoom. | https://github.com/p3hndrx/B-B-Shuffle | 35 | 2| 
+| 20210423T18:26:02Z | Null | https://github.com/piyushsharma220699/Backdoor-in-Cyber-Security | 0 | 0| 
+| 20210423T18:22:41Z | TrojanZoo provides a universal pytorch platform to conduct security researches (especially backdoor attacks/defenses) of image classification in deep learning. | https://github.com/ain-soph/trojanzoo | 66 | 11| 
+| 20210423T17:59:15Z | I made this repository to help Roblox developers don%t know how to security your games | https://github.com/Pr1sth2/Backdoor-Check | 0 | 0| 
+| 20210423T17:12:34Z | Null | https://github.com/iwantlotsofcookies/BackDoor | 0 | 0| 
+| 20210423T16:53:46Z | Null | https://github.com/McSl0vv/backdoor | 0 | 0| 
+| 20210423T16:28:59Z | free and open source nonobf server backdoor plugin | https://github.com/AcaiBerii/Bakdooro | 1 | 0| 
 
 
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210423T12:29:11Z | Hello Fuk | https://github.com/KurtCbain/fuzzy-lamp | 0 | 0| 
-| 20210423T12:15:38Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6219 | 1256| 
-| 20210423T12:15:21Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 3 | 3| 
-| 20210423T11:50:54Z | Null | https://github.com/JohenanLi/AggregateFuzzing | 0 | 0| 
-| 20210423T11:42:19Z | Setup scripts for 32bit JavaScriptCore Fuzzing Setup | https://github.com/pmatos/jsc32-fuzz-setup | 0 | 0| 
-| 20210423T11:27:07Z | Fast web fuzzer written in Go | https://github.com/ffuf/ffuf | 4375 | 515| 
-| 20210423T11:22:34Z | Null | https://github.com/s9varesc/url-fuzzing | 1 | 1| 
-| 20210423T11:08:02Z | Some sort of a social network using react js, hello from 2004 :) | https://github.com/androranogajec/fuzzy-social-network | 0 | 0| 
-| 20210423T10:42:28Z | Null | https://github.com/nhsd-exeter/dos-service-fuzzy-search-api | 1 | 0| 
-| 20210423T10:32:34Z | Fuzzing resources for JSC32 | https://github.com/pmatos/jsc32-fuzz | 0 | 0| 
+| 20210423T23:57:42Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6223 | 1256| 
+| 20210423T23:44:19Z | Code for fuzzy monkeys. | https://github.com/fuzzyatelin/fuzzyatelin.github.io | 3 | 9| 
+| 20210423T22:18:34Z | fpicker is a Frida-based fuzzing suite supporting various modes (including AFL++ in-process fuzzing) | https://github.com/ttdennis/fpicker | 68 | 6| 
+| 20210423T22:08:15Z | Good vibe  | https://github.com/moneyisme/fuzzy-disco | 0 | 0| 
+| 20210423T21:37:47Z | A fork and successor of the Sulley Fuzzing Framework | https://github.com/jtpereyda/boofuzz | 1206 | 239| 
+| 20210423T21:36:59Z | Null | https://github.com/TensileFuzz/TensileFuzz | 0 | 0| 
+| 20210423T21:31:54Z | Null | https://github.com/VeriBlock/fuzz-corpus | 0 | 1| 
+| 20210423T20:57:18Z | JQF + Zest: Coverage-guided semantic fuzzing for Java. | https://github.com/rohanpadhye/JQF | 347 | 48| 
+| 20210423T20:34:34Z | Words  | https://github.com/denis-pn/Algorithm_for_fuzzy_search_for_words_and_phrases | 0 | 0| 
+| 20210423T20:23:54Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2317 | 126| 
 
 
 
