@@ -28,7 +28,7 @@
 | 20210424T11:29:36Z | CVE-2021-3493 | Ubuntu OverlayFS Local Privesc | https://github.com/briskets/CVE-2021-3493 | The overlayfs implementation in the linux kernel did not properly validate with respect to user namespaces the setting of file capabilities on files in an underlying file system. Due to the combination of unprivileged user namespaces along with a patch carried in the Ubuntu kernel to allow unprivileged overlay mounts, an attacker could use this to gain elevated privileges.| 
 | 20210424T10:07:45Z | CVE-2021-1732 | CVE-2021-1732 poc & exp; tested on 20H2 | https://github.com/Pai-Po/CVE-2021-1732 | Windows Win32k Elevation of Privilege Vulnerability This CVE ID is unique from CVE-2021-1698.| 
 | 20210424T07:59:36Z | CVE-2021-22192 | CVE-2021-22192 靶场： 未授权用户 RCE 漏洞 | https://github.com/lyy289065406/CVE-2021-22192 | An issue has been discovered in GitLab CE/EE affecting all versions starting from 13.2 allowing unauthorized authenticated users to execute arbitrary code on the server.| 
-| 20210424T07:53:06Z | CVE-2021-25735 | Exploit CVE-2021-25735: Kubernetes Validating Admission Webhook Bypass | https://github.com/darryk10/CVE-2021-25735 | 未查询到CVE信息| 
+| 20210424T07:53:06Z | CVE-2021-25735 | Exploit CVE-2021-25735: Kubernetes Validating Admission Webhook Bypass | https://github.com/darryk10/CVE-2021-25735 | | 
 
 
 # klee on Github 推荐
@@ -76,8 +76,8 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210424T12:42:04Z | Null | https://github.com/alidogancodes/Adaptive-neuro-fuzzy-inference-system | 0 | 0| 
-| 20210424T12:40:36Z | Null | https://github.com/VarunDevPro/fuzzy-lamp | 0 | 0| 
+| 20210424T12:47:00Z | Null | https://github.com/alidogancodes/Adaptive-neuro-fuzzy-inference-system | 0 | 0| 
+| 20210424T12:43:50Z | Null | https://github.com/VarunDevPro/fuzzy-lamp | 0 | 0| 
 | 20210424T12:34:03Z | Null | https://github.com/serlysetyani/fuzzyLogic | 0 | 0| 
 | 20210424T12:17:33Z | Null | https://github.com/Juanosorio94/fuzzing-rdma | 0 | 0| 
 | 20210424T12:17:04Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 3 | 3| 
