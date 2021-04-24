@@ -85,6 +85,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210424T00:37:47Z | Code for manuscript: Modeling opportunistic exploitation: increased extinction risk when targeting more than one species | https://github.com/sthurner11/Modeling-Opportunistic-Exploitation | 0 | 0| 
 | 20210424T00:02:52Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 23 | 9| 
 | 20210423T23:57:22Z | Null | https://github.com/0xturazzi/Um-Livrinho-Sobre-Exploit-Dev | 0 | 0| 
 | 20210423T23:27:49Z | Null | https://github.com/zYan666/Demon-Exploit | 0 | 0| 
@@ -94,7 +95,6 @@
 | 20210423T23:05:55Z | 1.12.2 continuation of Paper to patch some exploits | https://github.com/moom0o/Durian | 0 | 0| 
 | 20210423T22:57:06Z | This is a repo for the coding done for CTFs / exploits. The writeups are here: https://github.com/dillonwu-97/csec_writeups | https://github.com/dillonwu-97/csec-code | 0 | 0| 
 | 20210423T22:39:28Z | PS4 Exploits 5.05-7.55 | https://github.com/Buzbee/Buzbee.github.io | 1 | 0| 
-| 20210423T22:29:15Z | A open source whitelisting/licensing service for exploits | https://github.com/VoidMasterX/Whitelist-Service | 0 | 0| 
 
 
 # backdoor on Github 推荐
