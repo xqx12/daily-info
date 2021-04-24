@@ -47,7 +47,7 @@
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
 | 20210423T23:36:54Z | CVE-2021-1732 | CVE-2021-1732 poc & exp; tested on 20H2 | https://github.com/Pai-Po/CVE-2021-1732 | Windows Win32k Elevation of Privilege Vulnerability This CVE ID is unique from CVE-2021-1698.| 
-| 20210423T21:42:35Z | cve-2020-10977 | GitLab 12.9.0 Arbitrary File Read  | https://github.com/thewhiteh4t/cve-2020-10977 | | 
+| 20210423T21:42:35Z | cve-2020-10977 | GitLab 12.9.0 Arbitrary File Read  | https://github.com/thewhiteh4t/cve-2020-10977 | GitLab EE/CE 8.5 to 12.9 is vulnerable to a an path traversal when moving an issue between projects.| 
 | 20210423T20:41:44Z | CVE-2021-30481 | https://nvd.nist.gov/vuln/detail/CVE-2021-30481 | https://github.com/floesen/CVE-2021-30481 | Valve Steam through 2021-04-10, when a Source engine game is installed, allows remote authenticated users to execute arbitrary code because of a buffer overflow that occurs for a Steam invite after one click.| 
 | 20210423T20:13:51Z | cve-2020-10977 | cve-2020-10977 read and execute | https://github.com/lisp3r/cve-2020-10977-read-and-execute | GitLab EE/CE 8.5 to 12.9 is vulnerable to a an path traversal when moving an issue between projects.| 
 | 20210423T18:12:59Z | CVE-2021-22893 | Proof-of-Concept (PoC) script to exploit Pulse Secure CVE-2021-22893.  | https://github.com/ZephrFish/CVE-2021-22893 | Pulse Connect Secure 9.0R3/9.1R1 and higher is vulnerable to an authentication bypass vulnerability exposed by the Windows File Share Browser and Pulse Secure Collaboration features of Pulse Connect Secure that can allow an unauthenticated user to perform remote arbitrary code execution on the Pulse Connect Secure gateway. This vulnerability has been exploited in the wild.| 
@@ -85,6 +85,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210424T00:50:56Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 15 | 10| 
 | 20210424T00:37:47Z | Code for manuscript: Modeling opportunistic exploitation: increased extinction risk when targeting more than one species | https://github.com/sthurner11/Modeling-Opportunistic-Exploitation | 0 | 0| 
 | 20210424T00:02:52Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 23 | 9| 
 | 20210423T23:57:22Z | Null | https://github.com/0xturazzi/Um-Livrinho-Sobre-Exploit-Dev | 0 | 0| 
@@ -94,7 +95,6 @@
 | 20210423T23:07:02Z | Scripts I made to exploit the challenges in HackTheBox%s Cyber Apocolapyse. | https://github.com/elbee-cyber/CA-HTB-CTF-scripts | 1 | 0| 
 | 20210423T23:05:55Z | 1.12.2 continuation of Paper to patch some exploits | https://github.com/moom0o/Durian | 0 | 0| 
 | 20210423T22:57:06Z | This is a repo for the coding done for CTFs / exploits. The writeups are here: https://github.com/dillonwu-97/csec_writeups | https://github.com/dillonwu-97/csec-code | 0 | 0| 
-| 20210423T22:39:28Z | PS4 Exploits 5.05-7.55 | https://github.com/Buzbee/Buzbee.github.io | 1 | 0| 
 
 
 # backdoor on Github 推荐
