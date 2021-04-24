@@ -63,6 +63,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210424T12:41:16Z | Null | https://github.com/iwantlotsofcookies/BackDoor | 0 | 0| 
 | 20210424T12:31:53Z | using msfvenom to make RAT(remote access trojan) using backdoor | https://github.com/anthonykid/kali_netasploit_windows_10 | 0 | 0| 
 | 20210424T10:51:57Z | FUD cross-platform python2 backdoor with C2 | https://github.com/7h3w4lk3r/pyback | 22 | 9| 
 | 20210424T08:20:02Z | Sample code and instructions for minting ERC721 NFT tokens with a backdoor | https://github.com/kf106/sleepmint-template | 0 | 0| 
@@ -75,8 +76,8 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210424T12:38:15Z | Null | https://github.com/alidogancodes/Adaptive-neuro-fuzzy-inference-system | 0 | 0| 
-| 20210424T12:34:12Z | Null | https://github.com/VarunDevPro/fuzzy-lamp | 0 | 0| 
+| 20210424T12:42:04Z | Null | https://github.com/alidogancodes/Adaptive-neuro-fuzzy-inference-system | 0 | 0| 
+| 20210424T12:40:36Z | Null | https://github.com/VarunDevPro/fuzzy-lamp | 0 | 0| 
 | 20210424T12:34:03Z | Null | https://github.com/serlysetyani/fuzzyLogic | 0 | 0| 
 | 20210424T12:17:33Z | Null | https://github.com/Juanosorio94/fuzzing-rdma | 0 | 0| 
 | 20210424T12:17:04Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 3 | 3| 
