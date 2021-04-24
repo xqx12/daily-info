@@ -28,7 +28,7 @@
 | 20210424T11:29:36Z | CVE-2021-3493 | Ubuntu OverlayFS Local Privesc | https://github.com/briskets/CVE-2021-3493 | The overlayfs implementation in the linux kernel did not properly validate with respect to user namespaces the setting of file capabilities on files in an underlying file system. Due to the combination of unprivileged user namespaces along with a patch carried in the Ubuntu kernel to allow unprivileged overlay mounts, an attacker could use this to gain elevated privileges.| 
 | 20210424T10:07:45Z | CVE-2021-1732 | CVE-2021-1732 poc & exp; tested on 20H2 | https://github.com/Pai-Po/CVE-2021-1732 | Windows Win32k Elevation of Privilege Vulnerability This CVE ID is unique from CVE-2021-1698.| 
 | 20210424T07:59:36Z | CVE-2021-22192 | CVE-2021-22192 靶场： 未授权用户 RCE 漏洞 | https://github.com/lyy289065406/CVE-2021-22192 | An issue has been discovered in GitLab CE/EE affecting all versions starting from 13.2 allowing unauthorized authenticated users to execute arbitrary code on the server.| 
-| 20210424T07:53:06Z | CVE-2021-25735 | Exploit CVE-2021-25735: Kubernetes Validating Admission Webhook Bypass | https://github.com/darryk10/CVE-2021-25735 | | 
+| 20210424T07:53:06Z | CVE-2021-25735 | Exploit CVE-2021-25735: Kubernetes Validating Admission Webhook Bypass | https://github.com/darryk10/CVE-2021-25735 | 未查询到CVE信息| 
 
 
 # klee on Github 推荐
@@ -74,6 +74,8 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210424T12:17:33Z | Null | https://github.com/Juanosorio94/fuzzing-rdma | 0 | 0| 
+| 20210424T12:17:04Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 3 | 3| 
 | 20210424T12:05:23Z | Null | https://github.com/VeriBlock/fuzz-corpus | 0 | 1| 
 | 20210424T11:47:03Z | Null | https://github.com/DanielEbert/EmulatedFirmwareFuzzing | 0 | 0| 
 | 20210424T11:27:21Z | Null | https://github.com/MaximZagorsk/Fuzzy-test-case | 0 | 0| 
@@ -82,8 +84,6 @@
 | 20210424T10:27:52Z | A symbolic fuzzer that can generate input values symbolically for a python function by generating all the path constraints in a function.  | https://github.com/mathews1193/Symbolic_Fuzzer | 0 | 0| 
 | 20210424T09:47:11Z | Null | https://github.com/rbaumier/vscode-go-to-fuzzy | 0 | 0| 
 | 20210424T09:25:09Z | Null | https://github.com/setsal/fuzz_bench | 0 | 0| 
-| 20210424T09:21:37Z | Null | https://github.com/s9varesc/url-fuzzing-docker | 0 | 0| 
-| 20210424T09:21:12Z | Null | https://github.com/syifzaaa/fuzz-algorithm | 0 | 0| 
 
 
 
