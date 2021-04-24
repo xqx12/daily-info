@@ -24,7 +24,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20210424T12:07:53Z | cve-2020-10977 | GitLab 12.9.0 Arbitrary File Read  | https://github.com/thewhiteh4t/cve-2020-10977 | GitLab EE/CE 8.5 to 12.9 is vulnerable to a an path traversal when moving an issue between projects.| 
+| 20210424T12:07:53Z | cve-2020-10977 | GitLab 12.9.0 Arbitrary File Read  | https://github.com/thewhiteh4t/cve-2020-10977 | | 
 | 20210424T11:29:36Z | CVE-2021-3493 | Ubuntu OverlayFS Local Privesc | https://github.com/briskets/CVE-2021-3493 | The overlayfs implementation in the linux kernel did not properly validate with respect to user namespaces the setting of file capabilities on files in an underlying file system. Due to the combination of unprivileged user namespaces along with a patch carried in the Ubuntu kernel to allow unprivileged overlay mounts, an attacker could use this to gain elevated privileges.| 
 | 20210424T10:07:45Z | CVE-2021-1732 | CVE-2021-1732 poc & exp; tested on 20H2 | https://github.com/Pai-Po/CVE-2021-1732 | Windows Win32k Elevation of Privilege Vulnerability This CVE ID is unique from CVE-2021-1698.| 
 | 20210424T07:59:36Z | CVE-2021-22192 | CVE-2021-22192 靶场： 未授权用户 RCE 漏洞 | https://github.com/lyy289065406/CVE-2021-22192 | An issue has been discovered in GitLab CE/EE affecting all versions starting from 13.2 allowing unauthorized authenticated users to execute arbitrary code on the server.| 
@@ -48,8 +48,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210424T12:59:50Z | Config files for my GitHub profile. | https://github.com/exploitblizzard/exploitblizzard | 0 | 0| 
-| 20210424T12:59:19Z | Not related to software bugs and exploits; this repo contains snippets of code that demonstrate some interesting functionality or a handy trick. | https://github.com/badd1e/Proof-of-Concept | 0 | 0| 
+| 20210424T13:01:17Z | Config files for my GitHub profile. | https://github.com/exploitblizzard/exploitblizzard | 0 | 0| 
+| 20210424T13:00:35Z | Not related to software bugs and exploits; this repo contains snippets of code that demonstrate some interesting functionality or a handy trick. | https://github.com/badd1e/Proof-of-Concept | 0 | 0| 
 | 20210424T12:35:11Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9319 | 1507| 
 | 20210424T12:16:59Z | Null | https://github.com/b1tg/wechat-0day-CVE-2018-6065-exploit | 0 | 0| 
 | 20210424T12:05:04Z | Here is where I will post all of my exploits where you will have to go through the linkvertise to get the password to the scripts. | https://github.com/sjonks/Exploits | 0 | 0| 
