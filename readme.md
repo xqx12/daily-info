@@ -48,7 +48,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210424T12:37:26Z | Config files for my GitHub profile. | https://github.com/exploitblizzard/exploitblizzard | 0 | 0| 
+| 20210424T12:59:50Z | Config files for my GitHub profile. | https://github.com/exploitblizzard/exploitblizzard | 0 | 0| 
+| 20210424T12:59:19Z | Not related to software bugs and exploits; this repo contains snippets of code that demonstrate some interesting functionality or a handy trick. | https://github.com/badd1e/Proof-of-Concept | 0 | 0| 
 | 20210424T12:35:11Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9319 | 1507| 
 | 20210424T12:16:59Z | Null | https://github.com/b1tg/wechat-0day-CVE-2018-6065-exploit | 0 | 0| 
 | 20210424T12:05:04Z | Here is where I will post all of my exploits where you will have to go through the linkvertise to get the password to the scripts. | https://github.com/sjonks/Exploits | 0 | 0| 
@@ -57,7 +58,6 @@
 | 20210424T11:52:03Z | this bash script is for remote linux hosts hacked! | https://github.com/FabioDefilippo/linuxallenum | 10 | 0| 
 | 20210424T11:44:10Z | A repository containing the exploit code for the Pylington IDE. | https://github.com/salman-ahm3d/pylington_exploit | 0 | 0| 
 | 20210424T11:36:00Z | Null | https://github.com/KOZ1OL/Kali-Linux-Exploit | 0 | 0| 
-| 20210424T11:34:20Z | Null | https://github.com/HarryTheKing1/Harry-s-exploit-api | 0 | 0| 
 
 
 # backdoor on Github 推荐
