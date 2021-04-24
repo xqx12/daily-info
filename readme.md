@@ -25,7 +25,7 @@
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
 | 20210424T11:29:36Z | CVE-2021-3493 | Ubuntu OverlayFS Local Privesc | https://github.com/briskets/CVE-2021-3493 | | 
-| 20210424T10:07:45Z | CVE-2021-1732 | CVE-2021-1732 poc & exp; tested on 20H2 | https://github.com/Pai-Po/CVE-2021-1732 | Windows Win32k Elevation of Privilege Vulnerability This CVE ID is unique from CVE-2021-1698.| 
+| 20210424T10:07:45Z | CVE-2021-1732 | CVE-2021-1732 poc & exp; tested on 20H2 | https://github.com/Pai-Po/CVE-2021-1732 | | 
 | 20210424T07:59:36Z | CVE-2021-22192 | CVE-2021-22192 靶场： 未授权用户 RCE 漏洞 | https://github.com/lyy289065406/CVE-2021-22192 | An issue has been discovered in GitLab CE/EE affecting all versions starting from 13.2 allowing unauthorized authenticated users to execute arbitrary code on the server.| 
 | 20210424T07:53:06Z | CVE-2021-25735 | Exploit CVE-2021-25735: Kubernetes Validating Admission Webhook Bypass | https://github.com/darryk10/CVE-2021-25735 | 未查询到CVE信息| 
 
@@ -47,6 +47,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210424T12:05:04Z | Here is where I will post all of my exploits where you will have to go through the linkvertise to get the password to the scripts. | https://github.com/sjonks/Exploits | 0 | 0| 
+| 20210424T12:04:54Z | Null | https://github.com/b1tg/wechat-0day-CVE-2018-6065-exploit | 0 | 0| 
 | 20210424T12:02:42Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 23 | 9| 
 | 20210424T11:54:41Z | A Meteor Client addon devoted to making previously private exploits or mods public. | https://github.com/ForeverPublic/The-Public-Addon | 1 | 0| 
 | 20210424T11:52:03Z | this bash script is for remote linux hosts hacked! | https://github.com/FabioDefilippo/linuxallenum | 10 | 0| 
@@ -54,9 +56,7 @@
 | 20210424T11:36:00Z | Null | https://github.com/KOZ1OL/Kali-Linux-Exploit | 0 | 0| 
 | 20210424T11:34:20Z | Null | https://github.com/HarryTheKing1/Harry-s-exploit-api | 0 | 0| 
 | 20210424T10:56:00Z | More Stable Offline Exploit version of PS4 6.72 Jailbreak. | https://github.com/DarkModderVC/PS4JB | 139 | 54| 
-| 20210424T10:33:23Z | Here is where I will post all of my exploits where you will have to go through the linkvertise to get the password to the scripts. | https://github.com/sjonks/Exploits | 0 | 0| 
 | 20210424T10:18:50Z | Tutorials and Tools to get your Xiaomi Router in English. All of this is tested on an Xiaomi 4A non Gigabit (but it should work on other too) | https://github.com/devilAPI/XiaomiRouter-EnglishExploit | 0 | 0| 
-| 20210424T10:16:39Z | Exploitation of a Movies DataBase with Laravel | https://github.com/remihayrimbault/movies_api | 0 | 0| 
 
 
 # backdoor on Github 推荐
