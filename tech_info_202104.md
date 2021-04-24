@@ -31,46 +31,46 @@
 # 安全维基 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20210424 | [HTB] Grandpa Writeup | https://mp.weixin.qq.com/s/oin5ZGjw_-AY5kwYuUCz1Q| 
+| 20210424 | [HTB] Granny Writeup | https://mp.weixin.qq.com/s/0iMqH0-P7vyaKB-xvfDLhA| 
+| 20210424 | 智能家居安全风险：设备共享场景下的漏洞及其利用 | https://mp.weixin.qq.com/s/n74QyEN4KSUxW6uRgJ-VsQ| 
+| 20210424 | [译] APT分析报告：09.漏洞利用图谱–通过查找作者的指纹来寻... | https://mp.weixin.qq.com/s/wmI13qLfRPX3v6G7DinUMA| 
+| 20210424 | 关于反诈工作的几个问题及思考 | https://mp.weixin.qq.com/s/ps7GG2rKc5-J8J2Iybhi8Q| 
+| 20210424 | 攻防演练后的一点随记 | https://mp.weixin.qq.com/s/1VuQb0Q0ZYlBmlLCcOPc3Q| 
+| 20210424 | 数据分类分级的技术实践指南 | https://mp.weixin.qq.com/s/WknW2_lR4ryBLIgCma30Vw| 
+| 20210424 | 基于数据分析特斯拉事故原因 | https://mp.weixin.qq.com/s/_72ibt7GzNRDhV_SEKU_9g| 
 | 20210423 | [HTB] Legacy Writeup | https://mp.weixin.qq.com/s/C9f0T6NaApLpZg6vcuw7xg| 
 | 20210423 | [HTB] Blue Writeup | https://mp.weixin.qq.com/s/_aofHejy1udowtstD2tgag| 
-| 20210423 | [HTB] Heist Writeup | https://mp.weixin.qq.com/s/x9omAbVjQdtZ0jjQfumeTg| 
-| 20210423 | [HTB] Netmon Writeup | https://mp.weixin.qq.com/s/bRR-8iFJTdqGspzAm9Gdbw| 
-| 20210423 | [HTB] Jerry Writeup | https://mp.weixin.qq.com/s/30Xpwv3H50KKcxl3jY8aYQ| 
-| 20210423 | [HTB] Lame Writeup | https://mp.weixin.qq.com/s/_ImRBi8AE1TcAaiuk6Wd1Q| 
-| 20210422 | [HTB] Worker Writeup | https://mp.weixin.qq.com/s/J5jKKfbwBbOTjpnwcFotrg| 
-| 20210422 | [HTB] Passage Writeup | https://mp.weixin.qq.com/s/UxwpzwuvvDd3T852yrGNFw| 
-| 20210422 | [HTB] Academy Writeup | https://mp.weixin.qq.com/s/0b-C5MHDMP-oKj8W5baeWg| 
-| 20210422 | [HTB] Shocker Writeup | https://mp.weixin.qq.com/s/oABTaWPOSyNzn112zOnUQA| 
 
 
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20210424T01:51:46Z | CVE-2021-3493 | Ubuntu OverlayFS Local Privesc | https://github.com/briskets/CVE-2021-3493 | The overlayfs implementation in the linux kernel did not properly validate with respect to user namespaces the setting of file capabilities on files in an underlying file system. Due to the combination of unprivileged user namespaces along with a patch carried in the Ubuntu kernel to allow unprivileged overlay mounts, an attacker could use this to gain elevated privileges.| 
-| 20210423T23:36:54Z | CVE-2021-1732 | CVE-2021-1732 poc & exp; tested on 20H2 | https://github.com/Pai-Po/CVE-2021-1732 | Windows Win32k Elevation of Privilege Vulnerability This CVE ID is unique from CVE-2021-1698.| 
+| 20210424T11:29:36Z | CVE-2021-3493 | Ubuntu OverlayFS Local Privesc | https://github.com/briskets/CVE-2021-3493 | The overlayfs implementation in the linux kernel did not properly validate with respect to user namespaces the setting of file capabilities on files in an underlying file system. Due to the combination of unprivileged user namespaces along with a patch carried in the Ubuntu kernel to allow unprivileged overlay mounts, an attacker could use this to gain elevated privileges.| 
+| 20210424T10:07:45Z | CVE-2021-1732 | CVE-2021-1732 poc & exp; tested on 20H2 | https://github.com/Pai-Po/CVE-2021-1732 | Windows Win32k Elevation of Privilege Vulnerability This CVE ID is unique from CVE-2021-1698.| 
+| 20210424T07:59:36Z | CVE-2021-22192 | CVE-2021-22192 靶场： 未授权用户 RCE 漏洞 | https://github.com/lyy289065406/CVE-2021-22192 | An issue has been discovered in GitLab CE/EE affecting all versions starting from 13.2 allowing unauthorized authenticated users to execute arbitrary code on the server.| 
+| 20210424T07:53:06Z | CVE-2021-25735 | Exploit CVE-2021-25735: Kubernetes Validating Admission Webhook Bypass | https://github.com/darryk10/CVE-2021-25735 | 未查询到CVE信息| 
 | 20210423T21:42:35Z | cve-2020-10977 | GitLab 12.9.0 Arbitrary File Read  | https://github.com/thewhiteh4t/cve-2020-10977 | GitLab EE/CE 8.5 to 12.9 is vulnerable to a an path traversal when moving an issue between projects.| 
 | 20210423T20:41:44Z | CVE-2021-30481 | https://nvd.nist.gov/vuln/detail/CVE-2021-30481 | https://github.com/floesen/CVE-2021-30481 | Valve Steam through 2021-04-10, when a Source engine game is installed, allows remote authenticated users to execute arbitrary code because of a buffer overflow that occurs for a Steam invite after one click.| 
 | 20210423T20:13:51Z | cve-2020-10977 | cve-2020-10977 read and execute | https://github.com/lisp3r/cve-2020-10977-read-and-execute | GitLab EE/CE 8.5 to 12.9 is vulnerable to a an path traversal when moving an issue between projects.| 
 | 20210423T18:12:59Z | CVE-2021-22893 | Proof-of-Concept (PoC) script to exploit Pulse Secure CVE-2021-22893.  | https://github.com/ZephrFish/CVE-2021-22893 | Pulse Connect Secure 9.0R3/9.1R1 and higher is vulnerable to an authentication bypass vulnerability exposed by the Windows File Share Browser and Pulse Secure Collaboration features of Pulse Connect Secure that can allow an unauthenticated user to perform remote arbitrary code execution on the Pulse Connect Secure gateway. This vulnerability has been exploited in the wild.| 
-| 20210423T15:55:27Z | CVE-2021-28480 | PoC for exploiting RCE in Exchange CVEs: CVE-2021-28480, CVE-2021-28481, CVE-2021-28482 and CVE-2021-28483.  Achieves Domain Admin on Exchange Servers running Windows Server 2003 up to Windows Server 2019. | https://github.com/ZephrFish/ExchangeRCE-CVE-2021-28480 | Microsoft Exchange Server Remote Code Execution Vulnerability This CVE ID is unique from CVE-2021-28481, CVE-2021-28482, CVE-2021-28483.| 
-| 20210423T13:32:58Z | CVE-2021-22192 | CVE-2021-22192 靶场： 未授权用户 RCE 漏洞 | https://github.com/lyy289065406/CVE-2021-22192 | An issue has been discovered in GitLab CE/EE affecting all versions starting from 13.2 allowing unauthorized authenticated users to execute arbitrary code on the server.| 
-| 20210423T13:11:19Z | CVE-2021-25735 | Exploit CVE-2021-25735: Kubernetes Validating Admission Webhook Bypass | https://github.com/darryk10/CVE-2021-25735 | 未查询到CVE信息| 
+| 20210423T15:55:27Z | CVE-2021-28480 | PoC for exploiting RCE in Exchange CVEs: CVE-2021-28480, CVE-2021-28481, CVE-2021-28482 and CVE-2021-28483.  Achieves Domain Admin on Exchange Servers running Windows Server 2003 up to Windows Server 2019. | https://github.com/ZephrFish/ExchangeRCE-CVE-2021-28480 | | 
 | 20210423T11:30:21Z | CVE-2020-15808 | A proof of concept of CVE-2020-15808 vulnerability exploit on STM32F4 Discovery board | https://github.com/manucuf/CVE202015808 | 未查询到CVE信息| 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210424T01:19:21Z | A personnal UI library made as an excuse to have a published UI package | https://github.com/Liinkiing/klee | 8 | 1| 
+| 20210424T08:17:49Z | Git Blog | https://github.com/klee30810/klee30810.github.io | 0 | 0| 
+| 20210424T05:29:36Z | This is code that Sejun and Joshua are working on for 99484C | https://github.com/Jython1415/penguin-Klee | 1 | 0| 
+| 20210424T04:10:44Z | An opiniated Next TypeScript powered starter which include Klee, emotion / styled-system, framer motion, jest and Cypress | https://github.com/Liinkiing/next-ts-klee-starter | 0 | 0| 
+| 20210424T03:37:07Z | A personnal UI library made as an excuse to have a published UI package | https://github.com/Liinkiing/klee | 8 | 1| 
 | 20210423T22:47:38Z | Whole Program LLVM: wllvm ported to go | https://github.com/SRI-CSL/gllvm | 127 | 21| 
 | 20210423T16:14:28Z | Symbiotic is a tool for finding bugs in computer programs based on instrumentation, program slicing and KLEE | https://github.com/staticafi/symbiotic | 215 | 35| 
-| 20210423T11:31:20Z | An opiniated Next TypeScript powered starter which include Klee, emotion / styled-system, framer motion, jest and Cypress | https://github.com/Liinkiing/next-ts-klee-starter | 0 | 0| 
-| 20210423T09:57:45Z | Git Blog | https://github.com/klee30810/klee30810.github.io | 0 | 0| 
 | 20210423T08:48:28Z | Create CFGs and compute complexity metrics for Python, C++, and Java code. | https://github.com/hmc-alpaqa/metrinome | 11 | 0| 
 | 20210423T01:26:45Z | KLEE demonstration on the program second_largest | https://github.com/basu-abhinav/automatic_evaluation_tool | 0 | 0| 
 | 20210422T19:43:53Z | KLEE demonstration on the program second_largest | https://github.com/basu-abhinav/second_largest | 0 | 0| 
 | 20210422T19:14:39Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1675 | 489| 
-| 20210422T18:18:59Z | ⬇️ File Upload/sharing application, used by thousands of webmasters since 2007.  | https://github.com/kleeja-official/kleeja | 118 | 35| 
 
 
 # s2e on Github 推荐
@@ -85,16 +85,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210424T01:08:04Z | A Paper Mario: The Thousand-Year Door Save Exploit | https://github.com/Zephiles/ttyd-exploit | 6 | 0| 
-| 20210424T01:03:03Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 23 | 9| 
-| 20210424T00:50:56Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 15 | 10| 
-| 20210424T00:37:47Z | Code for manuscript: Modeling opportunistic exploitation: increased extinction risk when targeting more than one species | https://github.com/sthurner11/Modeling-Opportunistic-Exploitation | 0 | 0| 
-| 20210423T23:57:22Z | Null | https://github.com/0xturazzi/Um-Livrinho-Sobre-Exploit-Dev | 0 | 0| 
-| 20210423T23:27:49Z | Null | https://github.com/zYan666/Demon-Exploit | 0 | 0| 
-| 20210423T23:21:07Z | [UNDEDECTED] - League of Legends - Allows aram boost exploit by converting the client to its previous version. League of Legends one click cheat. | https://github.com/R3nzTheCodeGOD/LOL-Aram-Boost-Exploit | 2 | 1| 
-| 20210423T23:13:39Z | Null | https://github.com/thao-samyn/exploit | 0 | 0| 
-| 20210423T23:07:02Z | Scripts I made to exploit the challenges in HackTheBox%s Cyber Apocolapyse. | https://github.com/elbee-cyber/CA-HTB-CTF-scripts | 1 | 0| 
-| 20210423T23:05:55Z | 1.12.2 continuation of Paper to patch some exploits | https://github.com/moom0o/Durian | 0 | 0| 
+| 20210424T11:54:41Z | A Meteor Client addon devoted to making previously private exploits or mods public. | https://github.com/ForeverPublic/The-Public-Addon | 1 | 0| 
+| 20210424T11:52:03Z | this bash script is for remote linux hosts hacked! | https://github.com/FabioDefilippo/linuxallenum | 10 | 0| 
+| 20210424T11:44:10Z | A repository containing the exploit code for the Pylington IDE. | https://github.com/salman-ahm3d/pylington_exploit | 0 | 0| 
+| 20210424T11:36:00Z | Null | https://github.com/KOZ1OL/Kali-Linux-Exploit | 0 | 0| 
+| 20210424T11:34:20Z | Null | https://github.com/HarryTheKing1/Harry-s-exploit-api | 0 | 0| 
+| 20210424T11:02:38Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 23 | 9| 
+| 20210424T10:56:00Z | More Stable Offline Exploit version of PS4 6.72 Jailbreak. | https://github.com/DarkModderVC/PS4JB | 139 | 54| 
+| 20210424T10:33:23Z | Here is where I will post all of my exploits where you will have to go through the linkvertise to get the password to the scripts. | https://github.com/sjonks/Exploits | 0 | 0| 
+| 20210424T10:18:50Z | Tutorials and Tools to get your Xiaomi Router in English. All of this is tested on an Xiaomi 4A non Gigabit (but it should work on other too) | https://github.com/devilAPI/XiaomiRouter-EnglishExploit | 0 | 0| 
+| 20210424T10:16:39Z | Exploitation of a Movies DataBase with Laravel | https://github.com/remihayrimbault/movies_api | 0 | 0| 
 
 
 # backdoor on Github 推荐
