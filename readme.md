@@ -50,6 +50,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210425T12:47:22Z | A Good One Exploit | https://github.com/NiZXD471/BKHAX-Repost | 0 | 0| 
 | 20210425T12:44:20Z | A vulnerability exploitation tool for SVN source disclosure. and support various versions of SVN. | https://github.com/X3NNY/SvnFuck | 5 | 0| 
 | 20210425T12:37:16Z | Simple exploit in ruby | https://github.com/Lojacopsen/SimpleExploit.rb | 0 | 0| 
 | 20210425T12:35:11Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9325 | 1507| 
@@ -59,7 +60,6 @@
 | 20210425T12:04:03Z | Null | https://github.com/sazgarpinky/blak-system-exploit | 0 | 0| 
 | 20210425T12:02:45Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 23 | 9| 
 | 20210425T11:31:58Z | Development of code to exploit LSST and VISTA imaging | https://github.com/lsst-uk/lsst-ir-fusion | 0 | 0| 
-| 20210425T10:53:54Z | Scripthub made for Robloxian Exploiting | https://github.com/zekgt/ZekeHub | 0 | 0| 
 
 
 # backdoor on Github 推荐
