@@ -30,9 +30,9 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20210425T11:42:29Z | CVE-2021-3291 | rebuild cve | https://github.com/ImHades101/CVE-2021-3291 | 未查询到CVE信息| 
-| 20210425T11:08:16Z | CVE-2021-22192 | CVE-2021-22192 靶场： 未授权用户 RCE 漏洞 | https://github.com/lyy289065406/CVE-2021-22192 | 未查询到CVE信息| 
-| 20210425T10:00:41Z | CVE-2021-1732 | CVE-2021-1732 poc & exp; tested on 20H2 | https://github.com/Pai-Po/CVE-2021-1732 | 未查询到CVE信息| 
+| 20210425T11:42:29Z | CVE-2021-3291 | rebuild cve | https://github.com/ImHades101/CVE-2021-3291 | Zen Cart 1.5.7b allows admins to execute arbitrary OS commands by inspecting an HTML radio input element (within the modules edit page) and inserting a command.| 
+| 20210425T11:08:16Z | CVE-2021-22192 | CVE-2021-22192 靶场： 未授权用户 RCE 漏洞 | https://github.com/lyy289065406/CVE-2021-22192 | An issue has been discovered in GitLab CE/EE affecting all versions starting from 13.2 allowing unauthorized authenticated users to execute arbitrary code on the server.| 
+| 20210425T10:00:41Z | CVE-2021-1732 | CVE-2021-1732 poc & exp; tested on 20H2 | https://github.com/Pai-Po/CVE-2021-1732 | Windows Win32k Elevation of Privilege Vulnerability This CVE ID is unique from CVE-2021-1698.| 
 
 
 # klee on Github 推荐
@@ -50,6 +50,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210425T12:37:16Z | Simple exploit in ruby | https://github.com/Lojacopsen/SimpleExploit.rb | 0 | 0| 
+| 20210425T12:35:11Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9325 | 1507| 
 | 20210425T12:27:29Z | Null | https://github.com/xw103/DepthExploit | 0 | 0| 
 | 20210425T12:15:52Z | A vulnerability exploitation tool for SVN source disclosure. and support various versions of SVN. | https://github.com/X3NNY/SvnFuck | 5 | 0| 
 | 20210425T12:14:23Z | StarBlox is a simple, but fresh looking hub made for the rblx exploiters to have a good time!  | https://github.com/Githubhelper-cloud/star-blox | 0 | 0| 
@@ -58,8 +60,6 @@
 | 20210425T12:02:45Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 23 | 9| 
 | 20210425T11:31:58Z | Development of code to exploit LSST and VISTA imaging | https://github.com/lsst-uk/lsst-ir-fusion | 0 | 0| 
 | 20210425T10:53:54Z | Scripthub made for Robloxian Exploiting | https://github.com/zekgt/ZekeHub | 0 | 0| 
-| 20210425T10:45:10Z | In this project, the program will construct a graph extracted from real data by exploiting the  Twitter API data-set. | https://github.com/adilo231/Twitter-Graph-data-extraction-by-location | 0 | 0| 
-| 20210425T10:44:54Z | Github pages site hosting content of umar0x01.sh | https://github.com/Anon-Exploiter/anon-exploiter.github.io | 0 | 0| 
 
 
 # backdoor on Github 推荐
