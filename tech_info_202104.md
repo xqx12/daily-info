@@ -85,6 +85,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210425T01:34:53Z | This application has the purpose of demonstrating the Buffer Overflow process on 32-bit Linux system using custom exploits made in python 3. | https://github.com/mr-r4ms0n/Buffer-Overflow-Windows-System-32-Bits | 0 | 0| 
 | 20210425T01:02:42Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 23 | 9| 
 | 20210425T00:47:13Z | BlendWARE Anti Exploit & Anti Lag plugin for minecraft 1.8-1.16 servers. | https://github.com/blendware1/antiexploit | 0 | 0| 
 | 20210425T00:15:52Z | The Browser Exploitation Framework Project | https://github.com/beefproject/beef | 5653 | 1342| 
@@ -94,7 +95,6 @@
 | 20210424T23:19:15Z | PS4 Exploits 5.05-7.55 | https://github.com/Buzbee/Buzbee.github.io | 2 | 0| 
 | 20210424T23:10:34Z | Null | https://github.com/WizardMortal/Exploit | 0 | 0| 
 | 20210424T23:06:40Z | Null | https://github.com/clemclemcol/IN405-Systeme-Exploitation | 0 | 0| 
-| 20210424T22:35:43Z | A thorough library database to assist with binary exploitation tasks. | https://github.com/0xb0bb/karkinos | 170 | 17| 
 
 
 # backdoor on Github 推荐
