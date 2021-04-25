@@ -85,7 +85,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210425T00:45:34Z | BlendWARE Anti Exploit for minecraft 1.8-1.16 servers. | https://github.com/blendware1/antiexploit | 0 | 0| 
+| 20210425T00:47:13Z | BlendWARE Anti Exploit & Anti Lag plugin for minecraft 1.8-1.16 servers. | https://github.com/blendware1/antiexploit | 0 | 0| 
 | 20210425T00:15:52Z | The Browser Exploitation Framework Project | https://github.com/beefproject/beef | 5653 | 1342| 
 | 20210425T00:02:39Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 23 | 9| 
 | 20210424T23:56:49Z | viiper Exploit website | https://github.com/ThatsMyMute/viiper.xyz | 0 | 0| 
