@@ -27,7 +27,7 @@
 | --- | --- | --- | --- | ---| 
 | 20210424T16:41:04Z | CVE-2021-1732 | CVE-2021-1732 poc & exp; tested on 20H2 | https://github.com/Pai-Po/CVE-2021-1732 | Windows Win32k Elevation of Privilege Vulnerability This CVE ID is unique from CVE-2021-1698.| 
 | 20210424T16:14:17Z | CVE-2021-3493 | Null | https://github.com/oneoy/CVE-2021-3493 | The overlayfs implementation in the linux kernel did not properly validate with respect to user namespaces the setting of file capabilities on files in an underlying file system. Due to the combination of unprivileged user namespaces along with a patch carried in the Ubuntu kernel to allow unprivileged overlay mounts, an attacker could use this to gain elevated privileges.| 
-| 20210424T12:07:53Z | cve-2020-10977 | GitLab 12.9.0 Arbitrary File Read  | https://github.com/thewhiteh4t/cve-2020-10977 | | 
+| 20210424T12:07:53Z | cve-2020-10977 | GitLab 12.9.0 Arbitrary File Read  | https://github.com/thewhiteh4t/cve-2020-10977 | GitLab EE/CE 8.5 to 12.9 is vulnerable to a an path traversal when moving an issue between projects.| 
 | 20210424T11:29:36Z | CVE-2021-3493 | Ubuntu OverlayFS Local Privesc | https://github.com/briskets/CVE-2021-3493 | The overlayfs implementation in the linux kernel did not properly validate with respect to user namespaces the setting of file capabilities on files in an underlying file system. Due to the combination of unprivileged user namespaces along with a patch carried in the Ubuntu kernel to allow unprivileged overlay mounts, an attacker could use this to gain elevated privileges.| 
 | 20210424T07:59:36Z | CVE-2021-22192 | CVE-2021-22192 靶场： 未授权用户 RCE 漏洞 | https://github.com/lyy289065406/CVE-2021-22192 | An issue has been discovered in GitLab CE/EE affecting all versions starting from 13.2 allowing unauthorized authenticated users to execute arbitrary code on the server.| 
 | 20210424T07:53:06Z | CVE-2021-25735 | Exploit CVE-2021-25735: Kubernetes Validating Admission Webhook Bypass | https://github.com/darryk10/CVE-2021-25735 | 未查询到CVE信息| 
@@ -51,16 +51,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210424T13:01:17Z | Config files for my GitHub profile. | https://github.com/exploitblizzard/exploitblizzard | 0 | 0| 
-| 20210424T13:00:35Z | Not related to software bugs and exploits; this repo contains snippets of code that demonstrate some interesting functionality or a handy trick. | https://github.com/badd1e/Proof-of-Concept | 0 | 0| 
-| 20210424T12:35:11Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9319 | 1507| 
-| 20210424T12:16:59Z | Null | https://github.com/b1tg/wechat-0day-CVE-2018-6065-exploit | 0 | 0| 
-| 20210424T12:05:04Z | Here is where I will post all of my exploits where you will have to go through the linkvertise to get the password to the scripts. | https://github.com/sjonks/Exploits | 0 | 0| 
-| 20210424T12:02:42Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 23 | 9| 
-| 20210424T11:54:41Z | A Meteor Client addon devoted to making previously private exploits or mods public. | https://github.com/ForeverPublic/The-Public-Addon | 1 | 0| 
-| 20210424T11:52:03Z | this bash script is for remote linux hosts hacked! | https://github.com/FabioDefilippo/linuxallenum | 10 | 0| 
-| 20210424T11:44:10Z | A repository containing the exploit code for the Pylington IDE. | https://github.com/salman-ahm3d/pylington_exploit | 0 | 0| 
-| 20210424T11:36:00Z | Null | https://github.com/KOZ1OL/Kali-Linux-Exploit | 0 | 0| 
+| 20210424T23:56:49Z | viiper Exploit website | https://github.com/ThatsMyMute/viiper.xyz | 0 | 0| 
+| 20210424T23:25:59Z | 1.12.2 continuation of Paper to patch some exploits | https://github.com/moom0o/Papaya | 0 | 0| 
+| 20210424T23:23:13Z | Tips and tricks that I come across and need to remember for exploitation. | https://github.com/oneNutW0nder/pwn-tips | 1 | 0| 
+| 20210424T23:19:15Z | PS4 Exploits 5.05-7.55 | https://github.com/Buzbee/Buzbee.github.io | 2 | 0| 
+| 20210424T23:10:34Z | Null | https://github.com/WizardMortal/Exploit | 0 | 0| 
+| 20210424T23:06:40Z | Null | https://github.com/clemclemcol/IN405-Systeme-Exploitation | 0 | 0| 
+| 20210424T22:35:43Z | A thorough library database to assist with binary exploitation tasks. | https://github.com/0xb0bb/karkinos | 170 | 17| 
+| 20210424T22:27:08Z | %The software will be building a network server from scratch that at startup will have the ability to selectively enable insecure portions of code that can be exploited. The software could be developed as a honeypot for detection of exploitation attempts within a network and/or as a practice server for pentesters.  The project may also need to develop companion software that can test the code, or collect logs from the server.% | https://github.com/TimHanneman/Multi_Purpose_Exploitable_Server | 0 | 0| 
+| 20210424T22:27:00Z | Pown.js is a security testing an exploitation toolkit built on top of Node.js and NPM. | https://github.com/pownjs/pown | 203 | 25| 
+| 20210424T22:08:18Z | Exploiting a Reflected Cross-Site Scripting (XSS) attack to get a Remote Command Execution (RCE) through the Webmin%s running process feature | https://github.com/electronicbots/CVE-2021-31761 | 0 | 0| 
 
 
 # backdoor on Github 推荐
