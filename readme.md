@@ -50,6 +50,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210425T12:03:47Z | Null | https://github.com/sazgarpinky/blak-system-exploit | 0 | 0| 
 | 20210425T12:02:51Z | StarBlox is a simple, but fresh looking hub made for the rblx exploiters to have a good time!  | https://github.com/Githubhelper-cloud/star-blox | 0 | 0| 
 | 20210425T12:02:45Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 23 | 9| 
 | 20210425T11:52:58Z | Null | https://github.com/xw103/DepthExploit | 0 | 0| 
@@ -59,7 +60,6 @@
 | 20210425T10:44:54Z | Github pages site hosting content of umar0x01.sh | https://github.com/Anon-Exploiter/anon-exploiter.github.io | 0 | 0| 
 | 20210425T10:18:46Z | PS1 savegame exploit | https://github.com/socram8888/tonyhax | 262 | 7| 
 | 20210425T09:58:14Z | Repository of eCOS platforms exploits. | https://github.com/ecos-wtf/ecosploits | 0 | 0| 
-| 20210425T09:19:11Z | My course work about basic binary exploitation.🤿 | https://github.com/whatsyourask/basics-of-pwn | 0 | 0| 
 
 
 # backdoor on Github 推荐

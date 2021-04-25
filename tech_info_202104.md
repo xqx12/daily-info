@@ -54,7 +54,7 @@
 | 20210424T11:29:36Z | CVE-2021-3493 | Ubuntu OverlayFS Local Privesc | https://github.com/briskets/CVE-2021-3493 | The overlayfs implementation in the linux kernel did not properly validate with respect to user namespaces the setting of file capabilities on files in an underlying file system. Due to the combination of unprivileged user namespaces along with a patch carried in the Ubuntu kernel to allow unprivileged overlay mounts, an attacker could use this to gain elevated privileges.| 
 | 20210424T07:53:06Z | CVE-2021-25735 | Exploit CVE-2021-25735: Kubernetes Validating Admission Webhook Bypass | https://github.com/darryk10/CVE-2021-25735 | 未查询到CVE信息| 
 | 20210423T20:41:44Z | CVE-2021-30481 | https://nvd.nist.gov/vuln/detail/CVE-2021-30481 | https://github.com/floesen/CVE-2021-30481 | Valve Steam through 2021-04-10, when a Source engine game is installed, allows remote authenticated users to execute arbitrary code because of a buffer overflow that occurs for a Steam invite after one click.| 
-| 20210423T20:13:51Z | cve-2020-10977 | cve-2020-10977 read and execute | https://github.com/lisp3r/cve-2020-10977-read-and-execute | | 
+| 20210423T20:13:51Z | cve-2020-10977 | cve-2020-10977 read and execute | https://github.com/lisp3r/cve-2020-10977-read-and-execute | GitLab EE/CE 8.5 to 12.9 is vulnerable to a an path traversal when moving an issue between projects.| 
 | 20210423T18:12:59Z | CVE-2021-22893 | Proof-of-Concept (PoC) script to exploit Pulse Secure CVE-2021-22893.  | https://github.com/ZephrFish/CVE-2021-22893 | Pulse Connect Secure 9.0R3/9.1R1 and higher is vulnerable to an authentication bypass vulnerability exposed by the Windows File Share Browser and Pulse Secure Collaboration features of Pulse Connect Secure that can allow an unauthenticated user to perform remote arbitrary code execution on the Pulse Connect Secure gateway. This vulnerability has been exploited in the wild.| 
 
 
@@ -85,6 +85,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210425T12:03:47Z | Null | https://github.com/sazgarpinky/blak-system-exploit | 0 | 0| 
 | 20210425T12:02:51Z | StarBlox is a simple, but fresh looking hub made for the rblx exploiters to have a good time!  | https://github.com/Githubhelper-cloud/star-blox | 0 | 0| 
 | 20210425T12:02:45Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 23 | 9| 
 | 20210425T11:52:58Z | Null | https://github.com/xw103/DepthExploit | 0 | 0| 
@@ -94,7 +95,6 @@
 | 20210425T10:44:54Z | Github pages site hosting content of umar0x01.sh | https://github.com/Anon-Exploiter/anon-exploiter.github.io | 0 | 0| 
 | 20210425T10:18:46Z | PS1 savegame exploit | https://github.com/socram8888/tonyhax | 262 | 7| 
 | 20210425T09:58:14Z | Repository of eCOS platforms exploits. | https://github.com/ecos-wtf/ecosploits | 0 | 0| 
-| 20210425T09:19:11Z | My course work about basic binary exploitation.🤿 | https://github.com/whatsyourask/basics-of-pwn | 0 | 0| 
 
 
 # backdoor on Github 推荐
