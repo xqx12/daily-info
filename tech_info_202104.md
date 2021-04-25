@@ -48,7 +48,7 @@
 | --- | --- | --- | --- | ---| 
 | 20210425T11:42:29Z | CVE-2021-3291 | rebuild cve | https://github.com/ImHades101/CVE-2021-3291 | Zen Cart 1.5.7b allows admins to execute arbitrary OS commands by inspecting an HTML radio input element (within the modules edit page) and inserting a command.| 
 | 20210425T11:08:16Z | CVE-2021-22192 | CVE-2021-22192 靶场： 未授权用户 RCE 漏洞 | https://github.com/lyy289065406/CVE-2021-22192 | An issue has been discovered in GitLab CE/EE affecting all versions starting from 13.2 allowing unauthorized authenticated users to execute arbitrary code on the server.| 
-| 20210425T10:00:41Z | CVE-2021-1732 | CVE-2021-1732 poc & exp; tested on 20H2 | https://github.com/Pai-Po/CVE-2021-1732 | Windows Win32k Elevation of Privilege Vulnerability This CVE ID is unique from CVE-2021-1698.| 
+| 20210425T10:00:41Z | CVE-2021-1732 | CVE-2021-1732 poc & exp; tested on 20H2 | https://github.com/Pai-Po/CVE-2021-1732 | | 
 | 20210424T16:14:17Z | CVE-2021-3493 | Null | https://github.com/oneoy/CVE-2021-3493 | The overlayfs implementation in the linux kernel did not properly validate with respect to user namespaces the setting of file capabilities on files in an underlying file system. Due to the combination of unprivileged user namespaces along with a patch carried in the Ubuntu kernel to allow unprivileged overlay mounts, an attacker could use this to gain elevated privileges.| 
 | 20210424T12:07:53Z | cve-2020-10977 | GitLab 12.9.0 Arbitrary File Read  | https://github.com/thewhiteh4t/cve-2020-10977 | GitLab EE/CE 8.5 to 12.9 is vulnerable to a an path traversal when moving an issue between projects.| 
 | 20210424T11:29:36Z | CVE-2021-3493 | Ubuntu OverlayFS Local Privesc | https://github.com/briskets/CVE-2021-3493 | The overlayfs implementation in the linux kernel did not properly validate with respect to user namespaces the setting of file capabilities on files in an underlying file system. Due to the combination of unprivileged user namespaces along with a patch carried in the Ubuntu kernel to allow unprivileged overlay mounts, an attacker could use this to gain elevated privileges.| 
@@ -115,8 +115,9 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210425T12:11:41Z | Null | https://github.com/GopherConRu/pb-fuzz-workshop | 0 | 0| 
+| 20210425T12:11:21Z | Null | https://github.com/imuyankan/FuzzylogicExperimentData | 0 | 0| 
 | 20210425T11:51:19Z | Hello Fuk | https://github.com/KurtCbain/fuzzy-lamp | 0 | 0| 
-| 20210425T11:46:30Z | Null | https://github.com/GopherConRu/pb-fuzz-workshop | 0 | 0| 
 | 20210425T11:36:56Z | An extremely fast and flexible web fuzzer | https://github.com/henshin/filebuster | 177 | 42| 
 | 20210425T11:28:32Z | Personal website of Laurence Hughes | https://github.com/fuzzylogicxx/fuzzylogic | 4 | 1| 
 | 20210425T11:16:54Z | Null | https://github.com/s9varesc/url-fuzzing | 1 | 1| 
@@ -124,7 +125,6 @@
 | 20210425T09:31:55Z | Null | https://github.com/VeriBlock/fuzz-corpus | 0 | 1| 
 | 20210425T09:17:01Z | Fuzzing (fuzz testing) : automated software testing technique that involves providing invalid or random data as inputs to a computer program. | https://github.com/Vilquid/Fuzzing | 1 | 0| 
 | 20210425T08:56:02Z | Null | https://github.com/loucol1/project_fuzzer | 0 | 0| 
-| 20210425T08:20:51Z | Null | https://github.com/guardstrikelab/fuzzx_cpp_example | 0 | 1| 
 
 
 
