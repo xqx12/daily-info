@@ -17,6 +17,8 @@
 | 20210425 | 剖析 CVE-2021-1732 内核提权漏洞。 | https://www.yuque.com/posec/public/qvzr6g| 
 | 20210425 | Spilling Local Files via XXE when HTTP OOB fails. | https://sec.today/pulses/53b311c7-b346-44e1-8730-c5a58605d314/| 
 | 20210425 | Reflow：配合 Unicorn Engine 和 memflow 的进程调试工具。 | https://sec.today/pulses/b4c60dde-d2dc-4e9a-8333-3cbd6225ac2c/| 
+| 20210425 | Spilling Local Files via XXE when HTTP OOB fails. | https://blog.noob.ninja/spilling-local-files-via-xxe-when/| 
+| 20210425 | Reflow：配合 Unicorn Engine 和 memflow 的进程调试工具。 | https://github.com/memflow/reflow| 
 | 20210423 | SockFuzzer：XNU的网络协议栈的 Fuzz 工具。 | https://github.com/googleprojectzero/SockFuzzer| 
 | 20210423 | Attack Detection Fundamentals 2021 AWS - Lab #3：利用提权进行 s3 删除修改等操作。 | https://labs.f-secure.com/blog/attack-detection-fundamentals-2021-aws-lab-3/| 
 | 20210423 | Attack Detection Fundamentals 2021 AWS - Lab #2：利用“被盗用”的用户凭据添加其它的访问密钥和登录配置，以便通过 Web UI 访问目标账户。 | https://labs.f-secure.com/blog/attack-detection-fundamentals-2021-aws-lab-2/| 
@@ -24,8 +26,6 @@
 | 20210423 | iOS 9.3.5 的越狱脚本。 | https://gist.github.com/Siguza/96ae6d6806e974199b1d44ffffca5331| 
 | 20210423 | MBA-Blast: Unveiling and Simplifying Mixed Boolean-Arithmetic Obfuscation | https://www.usenix.org/conference/usenixsecurity21/presentation/liu-binbin| 
 | 20210423 | 分析如何在用户态下绕过 LSA 保护机制。 | https://blog.scrt.ch/2021/04/22/bypassing-lsa-protection-in-userland/| 
-| 20210423 | 利用 SSH 隧道代理进行攻击的指南。 | https://posts.specterops.io/offensive-security-guide-to-ssh-tunnels-and-proxies-b525cbd4d4c6?gi=d0836eb852a7| 
-| 20210423 | 微软发布了 WSL 的 GUI 应用支持的预览版本。 | https://devblogs.microsoft.com/commandline/the-initial-preview-of-gui-app-support-is-now-available-for-the-windows-subsystem-for-linux-2/| 
 
 
 # 安全维基 推荐
@@ -52,7 +52,7 @@
 | 20210424T16:14:17Z | CVE-2021-3493 | Null | https://github.com/oneoy/CVE-2021-3493 | The overlayfs implementation in the linux kernel did not properly validate with respect to user namespaces the setting of file capabilities on files in an underlying file system. Due to the combination of unprivileged user namespaces along with a patch carried in the Ubuntu kernel to allow unprivileged overlay mounts, an attacker could use this to gain elevated privileges.| 
 | 20210424T12:07:53Z | cve-2020-10977 | GitLab 12.9.0 Arbitrary File Read  | https://github.com/thewhiteh4t/cve-2020-10977 | GitLab EE/CE 8.5 to 12.9 is vulnerable to a an path traversal when moving an issue between projects.| 
 | 20210424T11:29:36Z | CVE-2021-3493 | Ubuntu OverlayFS Local Privesc | https://github.com/briskets/CVE-2021-3493 | The overlayfs implementation in the linux kernel did not properly validate with respect to user namespaces the setting of file capabilities on files in an underlying file system. Due to the combination of unprivileged user namespaces along with a patch carried in the Ubuntu kernel to allow unprivileged overlay mounts, an attacker could use this to gain elevated privileges.| 
-| 20210424T07:53:06Z | CVE-2021-25735 | Exploit CVE-2021-25735: Kubernetes Validating Admission Webhook Bypass | https://github.com/darryk10/CVE-2021-25735 | | 
+| 20210424T07:53:06Z | CVE-2021-25735 | Exploit CVE-2021-25735: Kubernetes Validating Admission Webhook Bypass | https://github.com/darryk10/CVE-2021-25735 | 未查询到CVE信息| 
 | 20210423T20:41:44Z | CVE-2021-30481 | https://nvd.nist.gov/vuln/detail/CVE-2021-30481 | https://github.com/floesen/CVE-2021-30481 | Valve Steam through 2021-04-10, when a Source engine game is installed, allows remote authenticated users to execute arbitrary code because of a buffer overflow that occurs for a Steam invite after one click.| 
 | 20210423T20:13:51Z | cve-2020-10977 | cve-2020-10977 read and execute | https://github.com/lisp3r/cve-2020-10977-read-and-execute | | 
 | 20210423T18:12:59Z | CVE-2021-22893 | Proof-of-Concept (PoC) script to exploit Pulse Secure CVE-2021-22893.  | https://github.com/ZephrFish/CVE-2021-22893 | Pulse Connect Secure 9.0R3/9.1R1 and higher is vulnerable to an authentication bypass vulnerability exposed by the Windows File Share Browser and Pulse Secure Collaboration features of Pulse Connect Secure that can allow an unauthenticated user to perform remote arbitrary code execution on the Pulse Connect Secure gateway. This vulnerability has been exploited in the wild.| 
@@ -85,10 +85,10 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210425T11:59:53Z | StarBlox is a simple, but fresh looking hub made for the rblx exploiters to have a good time!  | https://github.com/Githubhelper-cloud/star-blox | 0 | 0| 
+| 20210425T12:02:51Z | StarBlox is a simple, but fresh looking hub made for the rblx exploiters to have a good time!  | https://github.com/Githubhelper-cloud/star-blox | 0 | 0| 
+| 20210425T12:02:45Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 23 | 9| 
 | 20210425T11:52:58Z | Null | https://github.com/xw103/DepthExploit | 0 | 0| 
 | 20210425T11:31:58Z | Development of code to exploit LSST and VISTA imaging | https://github.com/lsst-uk/lsst-ir-fusion | 0 | 0| 
-| 20210425T11:02:39Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 23 | 9| 
 | 20210425T10:53:54Z | Scripthub made for Robloxian Exploiting | https://github.com/zekgt/ZekeHub | 0 | 0| 
 | 20210425T10:45:10Z | In this project, the program will construct a graph extracted from real data by exploiting the  Twitter API data-set. | https://github.com/adilo231/Twitter-Graph-data-extraction-by-location | 0 | 0| 
 | 20210425T10:44:54Z | Github pages site hosting content of umar0x01.sh | https://github.com/Anon-Exploiter/anon-exploiter.github.io | 0 | 0| 
@@ -100,7 +100,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210425T11:59:17Z | Null | https://github.com/danchik1155/BackdoorIstok | 0 | 0| 
+| 20210425T12:02:07Z | Null | https://github.com/danchik1155/BackdoorIstok | 0 | 0| 
 | 20210425T11:58:08Z | It is a backdoor which consists of a server and a Client  | https://github.com/snowdox/OffensiveSecurity | 0 | 0| 
 | 20210425T09:12:08Z | Ghost Framework is an Android post-exploitation framework that exploits the Android Debug Bridge to remotely access an Android device. | https://github.com/EntySec/ghost | 1049 | 509| 
 | 20210425T06:11:32Z | Create a backdoor to a WordPress website. | https://github.com/majidamiri70/backdoor_for_wp | 0 | 0| 

@@ -17,6 +17,8 @@
 | 20210425 | 剖析 CVE-2021-1732 内核提权漏洞。 | https://www.yuque.com/posec/public/qvzr6g| 
 | 20210425 | Spilling Local Files via XXE when HTTP OOB fails. | https://sec.today/pulses/53b311c7-b346-44e1-8730-c5a58605d314/| 
 | 20210425 | Reflow：配合 Unicorn Engine 和 memflow 的进程调试工具。 | https://sec.today/pulses/b4c60dde-d2dc-4e9a-8333-3cbd6225ac2c/| 
+| 20210425 | Spilling Local Files via XXE when HTTP OOB fails. | https://blog.noob.ninja/spilling-local-files-via-xxe-when/| 
+| 20210425 | Reflow：配合 Unicorn Engine 和 memflow 的进程调试工具。 | https://github.com/memflow/reflow| 
 
 
 # 安全维基 推荐
@@ -48,10 +50,10 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210425T11:59:53Z | StarBlox is a simple, but fresh looking hub made for the rblx exploiters to have a good time!  | https://github.com/Githubhelper-cloud/star-blox | 0 | 0| 
+| 20210425T12:02:51Z | StarBlox is a simple, but fresh looking hub made for the rblx exploiters to have a good time!  | https://github.com/Githubhelper-cloud/star-blox | 0 | 0| 
+| 20210425T12:02:45Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 23 | 9| 
 | 20210425T11:52:58Z | Null | https://github.com/xw103/DepthExploit | 0 | 0| 
 | 20210425T11:31:58Z | Development of code to exploit LSST and VISTA imaging | https://github.com/lsst-uk/lsst-ir-fusion | 0 | 0| 
-| 20210425T11:02:39Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 23 | 9| 
 | 20210425T10:53:54Z | Scripthub made for Robloxian Exploiting | https://github.com/zekgt/ZekeHub | 0 | 0| 
 | 20210425T10:45:10Z | In this project, the program will construct a graph extracted from real data by exploiting the  Twitter API data-set. | https://github.com/adilo231/Twitter-Graph-data-extraction-by-location | 0 | 0| 
 | 20210425T10:44:54Z | Github pages site hosting content of umar0x01.sh | https://github.com/Anon-Exploiter/anon-exploiter.github.io | 0 | 0| 
@@ -63,7 +65,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210425T11:59:17Z | Null | https://github.com/danchik1155/BackdoorIstok | 0 | 0| 
+| 20210425T12:02:07Z | Null | https://github.com/danchik1155/BackdoorIstok | 0 | 0| 
 | 20210425T11:58:08Z | It is a backdoor which consists of a server and a Client  | https://github.com/snowdox/OffensiveSecurity | 0 | 0| 
 | 20210425T09:12:08Z | Ghost Framework is an Android post-exploitation framework that exploits the Android Debug Bridge to remotely access an Android device. | https://github.com/EntySec/ghost | 1049 | 509| 
 | 20210425T06:11:32Z | Create a backdoor to a WordPress website. | https://github.com/majidamiri70/backdoor_for_wp | 0 | 0| 
