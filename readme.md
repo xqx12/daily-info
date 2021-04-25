@@ -77,8 +77,8 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210425T12:18:14Z | Null | https://github.com/imuyankan/FuzzylogicExperimentData | 0 | 0| 
 | 20210425T12:11:41Z | Null | https://github.com/GopherConRu/pb-fuzz-workshop | 0 | 0| 
-| 20210425T12:11:21Z | Null | https://github.com/imuyankan/FuzzylogicExperimentData | 0 | 0| 
 | 20210425T11:51:19Z | Hello Fuk | https://github.com/KurtCbain/fuzzy-lamp | 0 | 0| 
 | 20210425T11:36:56Z | An extremely fast and flexible web fuzzer | https://github.com/henshin/filebuster | 177 | 42| 
 | 20210425T11:28:32Z | Personal website of Laurence Hughes | https://github.com/fuzzylogicxx/fuzzylogic | 4 | 1| 
