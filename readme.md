@@ -81,16 +81,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210424T12:47:00Z | Null | https://github.com/alidogancodes/Adaptive-neuro-fuzzy-inference-system | 0 | 0| 
-| 20210424T12:43:50Z | Null | https://github.com/VarunDevPro/fuzzy-lamp | 0 | 0| 
-| 20210424T12:34:03Z | Null | https://github.com/serlysetyani/fuzzyLogic | 0 | 0| 
-| 20210424T12:17:33Z | Null | https://github.com/Juanosorio94/fuzzing-rdma | 0 | 0| 
-| 20210424T12:17:04Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 3 | 3| 
-| 20210424T12:05:23Z | Null | https://github.com/VeriBlock/fuzz-corpus | 0 | 1| 
-| 20210424T11:47:03Z | Null | https://github.com/DanielEbert/EmulatedFirmwareFuzzing | 0 | 0| 
-| 20210424T11:27:21Z | Null | https://github.com/MaximZagorsk/Fuzzy-test-case | 0 | 0| 
-| 20210424T11:03:01Z | The Official Fuzzy Britches Repository. | https://github.com/ThePapaw/fuzzybritches | 0 | 0| 
-| 20210424T10:58:27Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 1628 | 326| 
+| 20210424T23:32:31Z | Null | https://github.com/opimentel-github/fuzzy-torch | 1 | 0| 
+| 20210424T23:04:25Z | Null | https://github.com/raafatfeki/cosc6386SymbolicFuzzer | 0 | 0| 
+| 20210424T22:41:48Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6225 | 1257| 
+| 20210424T22:09:18Z | Emulation based snapshot fuzzer | https://github.com/joelengelcrona/gingersnap | 0 | 0| 
+| 20210424T22:06:35Z | A mutation-based fuzzing engine for MQTT brokers. | https://github.com/PBearson/MosquittoByte | 0 | 0| 
+| 20210424T22:05:42Z | https://github.com/wcventure/FuzzingPaper | https://github.com/mishmashclone/wcventure-FuzzingPaper | 6 | 1| 
+| 20210424T21:54:59Z | Nuxt ui elements and components | https://github.com/abyshakeanand/fuzzy-octo-memory | 0 | 0| 
+| 20210424T21:53:51Z | Layer 7 Fuzzer (TCP) written in Golang | https://github.com/wxpq/l7fuzz | 1 | 0| 
+| 20210424T21:42:08Z | Null | https://github.com/Juanosorio94/fuzzing-rdma | 0 | 0| 
+| 20210424T21:06:00Z | Null | https://github.com/DanielEbert/EmulatedFirmwareFuzzing | 0 | 0| 
 
 
 
