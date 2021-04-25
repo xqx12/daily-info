@@ -100,31 +100,31 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210425T11:59:17Z | Null | https://github.com/danchik1155/BackdoorIstok | 0 | 0| 
+| 20210425T11:58:08Z | It is a backdoor which consists of a server and a Client  | https://github.com/snowdox/OffensiveSecurity | 0 | 0| 
+| 20210425T09:12:08Z | Ghost Framework is an Android post-exploitation framework that exploits the Android Debug Bridge to remotely access an Android device. | https://github.com/EntySec/ghost | 1049 | 509| 
+| 20210425T06:11:32Z | Create a backdoor to a WordPress website. | https://github.com/majidamiri70/backdoor_for_wp | 0 | 0| 
+| 20210425T04:44:31Z | TrojanZoo provides a universal pytorch platform to conduct security researches (especially backdoor attacks/defenses) of image classification in deep learning. | https://github.com/ain-soph/trojanzoo | 66 | 11| 
 | 20210425T01:43:16Z | Null | https://github.com/SkchupDePana/Backdoor-By-Shell | 0 | 0| 
 | 20210425T01:26:07Z | Null | https://github.com/DragoraC/Backdoor-By-Shell | 0 | 0| 
 | 20210424T22:40:10Z | Dashboard for conducting Backdoors and Breaches sessions over Zoom. | https://github.com/p3hndrx/B-B-Shuffle | 36 | 2| 
 | 20210424T21:28:54Z | Null | https://github.com/piyushsharma220699/Backdoor-in-Cyber-Security | 0 | 0| 
 | 20210424T21:03:27Z | Simple Python Backdoor | https://github.com/zNairy/Sonaris | 6 | 0| 
-| 20210424T20:02:14Z | free and open source nonobf server backdoor plugin | https://github.com/AcaiBerii/Bakdooro | 1 | 0| 
-| 20210424T19:57:11Z | Ghost Framework is an Android post-exploitation framework that exploits the Android Debug Bridge to remotely access an Android device. | https://github.com/EntySec/ghost | 1048 | 509| 
-| 20210424T18:14:31Z | Create a backdoor to a WordPress website. | https://github.com/majidamiri70/backdoor_for_wp | 0 | 0| 
-| 20210424T17:38:55Z | Null | https://github.com/iwantlotsofcookies/BackDoor | 0 | 0| 
-| 20210424T16:52:40Z | TrojanZoo provides a universal pytorch platform to conduct security researches (especially backdoor attacks/defenses) of image classification in deep learning. | https://github.com/ain-soph/trojanzoo | 66 | 11| 
 
 
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210425T01:57:11Z | Null | https://github.com/VeriBlock/fuzz-corpus | 0 | 1| 
-| 20210425T01:49:00Z | An extremely fast and flexible web fuzzer | https://github.com/henshin/filebuster | 177 | 42| 
-| 20210425T01:35:18Z | Null | https://github.com/igorsodre/fuzzy-trader | 0 | 0| 
-| 20210425T01:19:32Z | Null | https://github.com/raafatfeki/cosc6386SymbolicFuzzer | 0 | 0| 
-| 20210425T01:18:44Z | Nodejs, Docker & Jenkins integration | https://github.com/ralarconb/fuzzy | 0 | 0| 
-| 20210425T01:16:49Z | Null | https://github.com/Macht1984/Fuzzy-Disco | 0 | 0| 
-| 20210425T00:42:30Z | Null | https://github.com/Nithinkrishna1111/symbolic_fuzzer | 0 | 0| 
-| 20210425T00:37:31Z | Null | https://github.com/JacobC1921/PyFuzzer | 0 | 0| 
-| 20210425T00:34:17Z | Fuzzing, analysis response and detect vulnerability web application | https://github.com/hoangthanhnguyen/bigdig | 0 | 0| 
-| 20210424T23:32:31Z | Null | https://github.com/opimentel-github/fuzzy-torch | 1 | 0| 
+| 20210425T11:51:19Z | Hello Fuk | https://github.com/KurtCbain/fuzzy-lamp | 0 | 0| 
+| 20210425T11:46:30Z | Null | https://github.com/GopherConRu/pb-fuzz-workshop | 0 | 0| 
+| 20210425T11:36:56Z | An extremely fast and flexible web fuzzer | https://github.com/henshin/filebuster | 177 | 42| 
+| 20210425T11:28:32Z | Personal website of Laurence Hughes | https://github.com/fuzzylogicxx/fuzzylogic | 4 | 1| 
+| 20210425T11:16:54Z | Null | https://github.com/s9varesc/url-fuzzing | 1 | 1| 
+| 20210425T09:45:09Z | Null | https://github.com/JacobC1921/PyFuzzer | 0 | 0| 
+| 20210425T09:31:55Z | Null | https://github.com/VeriBlock/fuzz-corpus | 0 | 1| 
+| 20210425T09:17:01Z | Fuzzing (fuzz testing) : automated software testing technique that involves providing invalid or random data as inputs to a computer program. | https://github.com/Vilquid/Fuzzing | 1 | 0| 
+| 20210425T08:56:02Z | Null | https://github.com/loucol1/project_fuzzer | 0 | 0| 
+| 20210425T08:20:51Z | Null | https://github.com/guardstrikelab/fuzzx_cpp_example | 0 | 1| 
 
 
 
