@@ -55,7 +55,7 @@
 | 20210423T20:41:44Z | CVE-2021-30481 | https://nvd.nist.gov/vuln/detail/CVE-2021-30481 | https://github.com/floesen/CVE-2021-30481 | Valve Steam through 2021-04-10, when a Source engine game is installed, allows remote authenticated users to execute arbitrary code because of a buffer overflow that occurs for a Steam invite after one click.| 
 | 20210423T20:13:51Z | cve-2020-10977 | cve-2020-10977 read and execute | https://github.com/lisp3r/cve-2020-10977-read-and-execute | GitLab EE/CE 8.5 to 12.9 is vulnerable to a an path traversal when moving an issue between projects.| 
 | 20210423T18:12:59Z | CVE-2021-22893 | Proof-of-Concept (PoC) script to exploit Pulse Secure CVE-2021-22893.  | https://github.com/ZephrFish/CVE-2021-22893 | Pulse Connect Secure 9.0R3/9.1R1 and higher is vulnerable to an authentication bypass vulnerability exposed by the Windows File Share Browser and Pulse Secure Collaboration features of Pulse Connect Secure that can allow an unauthenticated user to perform remote arbitrary code execution on the Pulse Connect Secure gateway. This vulnerability has been exploited in the wild.| 
-| 20210423T15:55:27Z | CVE-2021-28480 | PoC for exploiting RCE in Exchange CVEs: CVE-2021-28480, CVE-2021-28481, CVE-2021-28482 and CVE-2021-28483.  Achieves Domain Admin on Exchange Servers running Windows Server 2003 up to Windows Server 2019. | https://github.com/ZephrFish/ExchangeRCE-CVE-2021-28480 | Microsoft Exchange Server Remote Code Execution Vulnerability This CVE ID is unique from CVE-2021-28481, CVE-2021-28482, CVE-2021-28483.| 
+| 20210423T15:55:27Z | CVE-2021-28480 | PoC for exploiting RCE in Exchange CVEs: CVE-2021-28480, CVE-2021-28481, CVE-2021-28482 and CVE-2021-28483.  Achieves Domain Admin on Exchange Servers running Windows Server 2003 up to Windows Server 2019. | https://github.com/ZephrFish/ExchangeRCE-CVE-2021-28480 | | 
 
 
 # klee on Github 推荐
@@ -115,16 +115,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210425T01:35:18Z | Null | https://github.com/igorsodre/fuzzy-trader | 0 | 0| 
+| 20210425T01:19:32Z | Null | https://github.com/raafatfeki/cosc6386SymbolicFuzzer | 0 | 0| 
+| 20210425T01:18:44Z | Nodejs, Docker & Jenkins integration | https://github.com/ralarconb/fuzzy | 0 | 0| 
+| 20210425T01:16:49Z | Null | https://github.com/Macht1984/Fuzzy-Disco | 0 | 0| 
 | 20210425T00:52:51Z | An extremely fast and flexible web fuzzer | https://github.com/henshin/filebuster | 177 | 42| 
-| 20210425T00:44:17Z | Nodejs, Docker & Jenkins integration | https://github.com/ralarconb/fuzzy | 0 | 0| 
 | 20210425T00:42:30Z | Null | https://github.com/Nithinkrishna1111/symbolic_fuzzer | 0 | 0| 
 | 20210425T00:37:31Z | Null | https://github.com/JacobC1921/PyFuzzer | 0 | 0| 
 | 20210425T00:34:17Z | Fuzzing, analysis response and detect vulnerability web application | https://github.com/hoangthanhnguyen/bigdig | 0 | 0| 
 | 20210424T23:32:31Z | Null | https://github.com/opimentel-github/fuzzy-torch | 1 | 0| 
-| 20210424T23:04:25Z | Null | https://github.com/raafatfeki/cosc6386SymbolicFuzzer | 0 | 0| 
 | 20210424T22:41:48Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6225 | 1257| 
-| 20210424T22:09:18Z | Emulation based snapshot fuzzer | https://github.com/joelengelcrona/gingersnap | 0 | 0| 
-| 20210424T22:06:35Z | A mutation-based fuzzing engine for MQTT brokers. | https://github.com/PBearson/MosquittoByte | 0 | 0| 
 
 
 

@@ -82,7 +82,6 @@
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
 | 20210424T23:32:31Z | Null | https://github.com/opimentel-github/fuzzy-torch | 1 | 0| 
-| 20210424T23:04:25Z | Null | https://github.com/raafatfeki/cosc6386SymbolicFuzzer | 0 | 0| 
 | 20210424T22:41:48Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6225 | 1257| 
 | 20210424T22:09:18Z | Emulation based snapshot fuzzer | https://github.com/joelengelcrona/gingersnap | 0 | 0| 
 | 20210424T22:06:35Z | A mutation-based fuzzing engine for MQTT brokers. | https://github.com/PBearson/MosquittoByte | 0 | 0| 
@@ -91,6 +90,7 @@
 | 20210424T21:53:51Z | Layer 7 Fuzzer (TCP) written in Golang | https://github.com/wxpq/l7fuzz | 1 | 0| 
 | 20210424T21:42:08Z | Null | https://github.com/Juanosorio94/fuzzing-rdma | 0 | 0| 
 | 20210424T21:06:00Z | Null | https://github.com/DanielEbert/EmulatedFirmwareFuzzing | 0 | 0| 
+| 20210424T20:59:09Z | Null | https://github.com/gdepuydt/fuzzoz | 0 | 0| 
 
 
 
