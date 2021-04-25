@@ -115,11 +115,11 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210425T01:49:00Z | An extremely fast and flexible web fuzzer | https://github.com/henshin/filebuster | 177 | 42| 
 | 20210425T01:35:18Z | Null | https://github.com/igorsodre/fuzzy-trader | 0 | 0| 
 | 20210425T01:19:32Z | Null | https://github.com/raafatfeki/cosc6386SymbolicFuzzer | 0 | 0| 
 | 20210425T01:18:44Z | Nodejs, Docker & Jenkins integration | https://github.com/ralarconb/fuzzy | 0 | 0| 
 | 20210425T01:16:49Z | Null | https://github.com/Macht1984/Fuzzy-Disco | 0 | 0| 
-| 20210425T00:52:51Z | An extremely fast and flexible web fuzzer | https://github.com/henshin/filebuster | 177 | 42| 
 | 20210425T00:42:30Z | Null | https://github.com/Nithinkrishna1111/symbolic_fuzzer | 0 | 0| 
 | 20210425T00:37:31Z | Null | https://github.com/JacobC1921/PyFuzzer | 0 | 0| 
 | 20210425T00:34:17Z | Fuzzing, analysis response and detect vulnerability web application | https://github.com/hoangthanhnguyen/bigdig | 0 | 0| 
