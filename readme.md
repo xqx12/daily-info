@@ -60,7 +60,6 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210425T23:56:37Z | Some notes + templates that you can use in your hypervisor research, either for full exploits, or to verify / falsify any assumptions you may make while auditing code. | https://github.com/farazsth98/hypervisor_exploit_templates | 12 | 0| 
 | 20210425T23:40:35Z | Null | https://github.com/EvanGamerYT101/Exploit | 0 | 0| 
 | 20210425T23:31:54Z | Extraction et exploitation des données de conversations Messenger | https://github.com/adrien-chinour/statistiques-messenger | 0 | 0| 
 | 20210425T23:30:48Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9327 | 1506| 
@@ -70,6 +69,7 @@
 | 20210425T22:07:25Z | A module for Garry%s Mod that mitigates exploits on the Source engine. | https://github.com/danielga/gmsv_serversecure | 62 | 18| 
 | 20210425T22:04:55Z | Bot Mod By: itzzz Exploit | https://github.com/sazgarpinky/exploit-bot-mod | 0 | 0| 
 | 20210425T22:01:16Z | A open-sourced ROBLOX exploit library | https://github.com/iamtryingtofindname/Artemis | 0 | 0| 
+| 20210425T20:54:52Z | Null | https://github.com/yousef0x01/Exploit-Development | 0 | 0| 
 
 
 # backdoor on Github 推荐
