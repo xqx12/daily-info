@@ -85,7 +85,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210426T12:47:56Z | CAUTION - Malicious files 💀 | https://github.com/Am0rphous/Malware | 19 | 6| 
+| 20210426T12:50:57Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 15 | 10| 
+| 20210426T12:50:04Z | CAUTION - Malicious files 💀 | https://github.com/Am0rphous/Malware | 19 | 6| 
 | 20210426T12:35:14Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9328 | 1506| 
 | 20210426T12:19:32Z | My course work about basic binary exploitation.🤿 | https://github.com/whatsyourask/basics-of-pwn | 0 | 0| 
 | 20210426T12:19:18Z | A collection of browser exploitation codes from Singular Security Lab. | https://github.com/singularseclab/Browser_Exploits | 12 | 1| 
@@ -94,7 +95,6 @@
 | 20210426T11:13:45Z | macos/ios exploit writeup | https://github.com/houjingyi233/macOS-iOS-system-security | 99 | 10| 
 | 20210426T10:31:27Z | Here is where I will post all of my exploits where you will have to go through the linkvertise to get the password to the scripts. | https://github.com/sjonks/Exploits | 0 | 0| 
 | 20210426T10:22:27Z | PS4 Exploit Host | https://github.com/Night-King-Host/Night-King-Host.github.io | 8 | 4| 
-| 20210426T10:08:22Z | hack the android mobile using metasploit | https://github.com/ethicalhackergopinath/exploittheandroidmobileusingmetasploit | 0 | 0| 
 
 
 # backdoor on Github 推荐
