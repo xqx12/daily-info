@@ -50,7 +50,7 @@
 | 20210425T17:22:35Z | CVE-2021-22192 | CVE-2021-22192 靶场： 未授权用户 RCE 漏洞 | https://github.com/lyy289065406/CVE-2021-22192 | An issue has been discovered in GitLab CE/EE affecting all versions starting from 13.2 allowing unauthorized authenticated users to execute arbitrary code on the server.| 
 | 20210425T15:33:40Z | CVE-2021-1732 | CVE-2021-1732 poc & exp; tested on 20H2 | https://github.com/Pai-Po/CVE-2021-1732 | | 
 | 20210425T15:12:48Z | CVE-2021-1732 | Read my  blog for more info -  | https://github.com/exploitblizzard/Windows-Privilege-Escalation-CVE-2021-1732 | Windows Win32k Elevation of Privilege Vulnerability This CVE ID is unique from CVE-2021-1698.| 
-| 20210425T14:55:34Z | CVE-2020-3161 | Null | https://github.com/uromulouinthehouse/CVE-2020-3161 | A vulnerability in the web server for Cisco IP Phones could allow an unauthenticated, remote attacker to execute code with root privileges or cause a reload of an affected IP phone, resulting in a denial of service (DoS) condition. The vulnerability is due to a lack of proper input validation of HTTP requests. An attacker could exploit this vulnerability by sending a crafted HTTP request to the web server of a targeted device. A successful exploit could allow the attacker to remotely execute code with root privileges or cause a reload of an affected IP phone, resulting in a DoS condition.| 
+| 20210425T14:55:34Z | CVE-2020-3161 | Null | https://github.com/uromulouinthehouse/CVE-2020-3161 | | 
 | 20210425T11:42:29Z | CVE-2021-3291 | rebuild cve | https://github.com/ImHades101/CVE-2021-3291 | Zen Cart 1.5.7b allows admins to execute arbitrary OS commands by inspecting an HTML radio input element (within the modules edit page) and inserting a command.| 
 | 20210424T16:14:17Z | CVE-2021-3493 | Null | https://github.com/oneoy/CVE-2021-3493 | The overlayfs implementation in the linux kernel did not properly validate with respect to user namespaces the setting of file capabilities on files in an underlying file system. Due to the combination of unprivileged user namespaces along with a patch carried in the Ubuntu kernel to allow unprivileged overlay mounts, an attacker could use this to gain elevated privileges.| 
 | 20210424T12:07:53Z | cve-2020-10977 | GitLab 12.9.0 Arbitrary File Read  | https://github.com/thewhiteh4t/cve-2020-10977 | GitLab EE/CE 8.5 to 12.9 is vulnerable to a an path traversal when moving an issue between projects.| 
@@ -85,10 +85,10 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210426T01:10:57Z | A windows post exploitation tool that contains a lot of features for information gathering and more. | https://github.com/0x1CA3/Crowbar | 15 | 0| 
 | 20210426T01:06:59Z | Roblox exploit DLL base using the LBI execution method | https://github.com/deaddlocust/LBI-Base | 0 | 0| 
 | 20210426T01:02:37Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 23 | 9| 
 | 20210426T00:51:06Z | Some notes + templates that you can use in your hypervisor research, either for full exploits, or to verify / falsify any assumptions you may make while auditing code. | https://github.com/farazsth98/hypervisor_exploit_templates | 13 | 0| 
-| 20210426T00:44:14Z | A windows post exploitation tool that contains a lot of features for information gathering and more. | https://github.com/0x1CA3/Crowbar | 15 | 0| 
 | 20210426T00:28:35Z | This is a repo for the coding done for CTFs / exploits. The writeups are here: https://github.com/dillonwu-97/csec_writeups | https://github.com/dillonwu-97/csec-code | 0 | 0| 
 | 20210426T00:10:10Z | Exploit Flickr or any other image hosting service to serve static pages | https://github.com/gogorikidze/leechserve | 0 | 0| 
 | 20210426T00:08:14Z | Null | https://github.com/0xturazzi/Um-Livrinho-Sobre-Exploit-Dev | 0 | 0| 
@@ -115,9 +115,9 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210426T01:11:17Z | Nodejs, Docker & Jenkins integration | https://github.com/ralarconb/fuzzy | 0 | 0| 
 | 20210426T01:10:17Z | Application launcher in Python using Tk (Linux Only) | https://github.com/mgurga/fuzzmenu | 0 | 0| 
 | 20210426T01:06:22Z | Read-only mirror of %fuzzysim% from r-forge SVN. | https://github.com/r-forge/fuzzysim | 0 | 0| 
-| 20210426T01:06:10Z | Nodejs, Docker & Jenkins integration | https://github.com/ralarconb/fuzzy | 0 | 0| 
 | 20210426T00:57:28Z | Null | https://github.com/RunzhouHan/fuzzing_fs_aware_applications | 0 | 0| 
 | 20210426T00:48:11Z | An extremely fast and flexible web fuzzer | https://github.com/henshin/filebuster | 178 | 42| 
 | 20210426T00:22:56Z | Null | https://github.com/fuzzball-muck/fuzzball-muf | 6 | 6| 
