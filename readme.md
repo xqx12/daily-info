@@ -85,16 +85,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210426T12:49:40Z | Null | https://github.com/mzakibhr/Fuzzy_Logic | 0 | 0| 
+| 20210426T12:49:22Z | Setup scripts for 32bit JavaScriptCore Fuzzing Setup | https://github.com/pmatos/jsc32-fuzz-setup | 0 | 0| 
+| 20210426T12:47:03Z | Null | https://github.com/IsSabuhi/Laba-2-The-fuzzy-set | 0 | 0| 
+| 20210426T12:45:29Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2317 | 126| 
+| 20210426T12:38:47Z | VSCode extension for managing miscellaneous bookmarks. | https://github.com/atEaE/fuzzy-bookmarks | 0 | 0| 
+| 20210426T12:37:54Z | Coverage-guided, in-process fuzzing for the JVM | https://github.com/CodeIntelligenceTesting/jazzer | 281 | 16| 
 | 20210426T12:21:46Z | Some small fuzz-interesting GBAs along with compile tools | https://github.com/mahaloz/small-gbas | 1 | 0| 
 | 20210426T12:01:48Z | Null | https://github.com/s9varesc/url-fuzzing | 1 | 1| 
 | 20210426T11:51:59Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 3483 | 805| 
 | 20210426T11:49:10Z | Fuzzing cryptographic libraries. Magic bug printer go brrrr. | https://github.com/guidovranken/cryptofuzz | 272 | 37| 
-| 20210426T11:46:40Z | Coverage-guided, in-process fuzzing for the JVM | https://github.com/CodeIntelligenceTesting/jazzer | 281 | 16| 
-| 20210426T11:41:46Z | Fast HTTP enumerator | https://github.com/RedTeamPentesting/monsoon | 308 | 29| 
-| 20210426T11:31:06Z | Personal website of Laurence Hughes | https://github.com/fuzzylogicxx/fuzzylogic | 4 | 1| 
-| 20210426T11:18:40Z | Null | https://github.com/IsSabuhi/Laba-2-The-fuzzy-set | 0 | 0| 
-| 20210426T11:03:19Z | PoC of fuzzing closed-source userspace binaries with KVM | https://github.com/klecko/kvm-fuzz | 51 | 5| 
-| 20210426T10:54:09Z | Null | https://github.com/arfan21/fuzzy-logic | 0 | 1| 
 
 
 
