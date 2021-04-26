@@ -19,13 +19,13 @@
 | 20210425 | Reflow：配合 Unicorn Engine 和 memflow 的进程调试工具。 | https://sec.today/pulses/b4c60dde-d2dc-4e9a-8333-3cbd6225ac2c/| 
 | 20210425 | Spilling Local Files via XXE when HTTP OOB fails. | https://blog.noob.ninja/spilling-local-files-via-xxe-when/| 
 | 20210425 | Reflow：配合 Unicorn Engine 和 memflow 的进程调试工具。 | https://github.com/memflow/reflow| 
+| 20210425 | Sample ARM64 PoC for CVE-2021-21224 | https://gist.github.com/wdormann/bbf95c5ccebb826a1e21124cfb320106| 
+| 20210425 | 新型挖矿病毒Sysrv-hello处理最佳实践 | https://sec.today/pulses/2c3a65ef-1cb9-49bf-a51d-7f07c54cb440/| 
+| 20210425 | 新型挖矿病毒Sysrv-hello处理最佳实践 | http://help.aliyun.com/document_detail/196163.html| 
 | 20210423 | SockFuzzer：XNU的网络协议栈的 Fuzz 工具。 | https://github.com/googleprojectzero/SockFuzzer| 
 | 20210423 | Attack Detection Fundamentals 2021 AWS - Lab #3：利用提权进行 s3 删除修改等操作。 | https://labs.f-secure.com/blog/attack-detection-fundamentals-2021-aws-lab-3/| 
 | 20210423 | Attack Detection Fundamentals 2021 AWS - Lab #2：利用“被盗用”的用户凭据添加其它的访问密钥和登录配置，以便通过 Web UI 访问目标账户。 | https://labs.f-secure.com/blog/attack-detection-fundamentals-2021-aws-lab-2/| 
 | 20210423 | Attack Detection Fundamentals 2021 AWS - Lab #1：攻击者利用“被盗用”的用户凭据进行 IAM 枚举和侦查工作。防守方通过日志发现到这些可疑的操作行为。 | https://labs.f-secure.com/blog/attack-detection-fundamentals-2021-aws-lab-1/| 
-| 20210423 | iOS 9.3.5 的越狱脚本。 | https://gist.github.com/Siguza/96ae6d6806e974199b1d44ffffca5331| 
-| 20210423 | MBA-Blast: Unveiling and Simplifying Mixed Boolean-Arithmetic Obfuscation | https://www.usenix.org/conference/usenixsecurity21/presentation/liu-binbin| 
-| 20210423 | 分析如何在用户态下绕过 LSA 保护机制。 | https://blog.scrt.ch/2021/04/22/bypassing-lsa-protection-in-userland/| 
 
 
 # 安全维基 推荐
@@ -46,70 +46,70 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20210426T00:00:24Z | CVE-2020-27199 | CVE-2020-27199 | https://github.com/9lyph/CVE-2020-27199 | The Magic Home Pro application 1.5.1 for Android allows Authentication Bypass. The security control that the application currently has in place is a simple Username and Password authentication function. Using enumeration, an attacker is able to forge a User specific token without the need for correct password to gain access to the mobile application as that victim user.| 
+| 20210425T17:22:35Z | CVE-2021-22192 | CVE-2021-22192 靶场： 未授权用户 RCE 漏洞 | https://github.com/lyy289065406/CVE-2021-22192 | An issue has been discovered in GitLab CE/EE affecting all versions starting from 13.2 allowing unauthorized authenticated users to execute arbitrary code on the server.| 
+| 20210425T15:33:40Z | CVE-2021-1732 | CVE-2021-1732 poc & exp; tested on 20H2 | https://github.com/Pai-Po/CVE-2021-1732 | | 
+| 20210425T15:12:48Z | CVE-2021-1732 | Read my  blog for more info -  | https://github.com/exploitblizzard/Windows-Privilege-Escalation-CVE-2021-1732 | Windows Win32k Elevation of Privilege Vulnerability This CVE ID is unique from CVE-2021-1698.| 
+| 20210425T14:55:34Z | CVE-2020-3161 | Null | https://github.com/uromulouinthehouse/CVE-2020-3161 | A vulnerability in the web server for Cisco IP Phones could allow an unauthenticated, remote attacker to execute code with root privileges or cause a reload of an affected IP phone, resulting in a denial of service (DoS) condition. The vulnerability is due to a lack of proper input validation of HTTP requests. An attacker could exploit this vulnerability by sending a crafted HTTP request to the web server of a targeted device. A successful exploit could allow the attacker to remotely execute code with root privileges or cause a reload of an affected IP phone, resulting in a DoS condition.| 
 | 20210425T11:42:29Z | CVE-2021-3291 | rebuild cve | https://github.com/ImHades101/CVE-2021-3291 | Zen Cart 1.5.7b allows admins to execute arbitrary OS commands by inspecting an HTML radio input element (within the modules edit page) and inserting a command.| 
-| 20210425T11:08:16Z | CVE-2021-22192 | CVE-2021-22192 靶场： 未授权用户 RCE 漏洞 | https://github.com/lyy289065406/CVE-2021-22192 | | 
-| 20210425T10:00:41Z | CVE-2021-1732 | CVE-2021-1732 poc & exp; tested on 20H2 | https://github.com/Pai-Po/CVE-2021-1732 | Windows Win32k Elevation of Privilege Vulnerability This CVE ID is unique from CVE-2021-1698.| 
 | 20210424T16:14:17Z | CVE-2021-3493 | Null | https://github.com/oneoy/CVE-2021-3493 | The overlayfs implementation in the linux kernel did not properly validate with respect to user namespaces the setting of file capabilities on files in an underlying file system. Due to the combination of unprivileged user namespaces along with a patch carried in the Ubuntu kernel to allow unprivileged overlay mounts, an attacker could use this to gain elevated privileges.| 
 | 20210424T12:07:53Z | cve-2020-10977 | GitLab 12.9.0 Arbitrary File Read  | https://github.com/thewhiteh4t/cve-2020-10977 | GitLab EE/CE 8.5 to 12.9 is vulnerable to a an path traversal when moving an issue between projects.| 
 | 20210424T11:29:36Z | CVE-2021-3493 | Ubuntu OverlayFS Local Privesc | https://github.com/briskets/CVE-2021-3493 | The overlayfs implementation in the linux kernel did not properly validate with respect to user namespaces the setting of file capabilities on files in an underlying file system. Due to the combination of unprivileged user namespaces along with a patch carried in the Ubuntu kernel to allow unprivileged overlay mounts, an attacker could use this to gain elevated privileges.| 
 | 20210424T07:53:06Z | CVE-2021-25735 | Exploit CVE-2021-25735: Kubernetes Validating Admission Webhook Bypass | https://github.com/darryk10/CVE-2021-25735 | 未查询到CVE信息| 
-| 20210423T20:41:44Z | CVE-2021-30481 | https://nvd.nist.gov/vuln/detail/CVE-2021-30481 | https://github.com/floesen/CVE-2021-30481 | Valve Steam through 2021-04-10, when a Source engine game is installed, allows remote authenticated users to execute arbitrary code because of a buffer overflow that occurs for a Steam invite after one click.| 
-| 20210423T20:13:51Z | cve-2020-10977 | cve-2020-10977 read and execute | https://github.com/lisp3r/cve-2020-10977-read-and-execute | GitLab EE/CE 8.5 to 12.9 is vulnerable to a an path traversal when moving an issue between projects.| 
-| 20210423T18:12:59Z | CVE-2021-22893 | Proof-of-Concept (PoC) script to exploit Pulse Secure CVE-2021-22893.  | https://github.com/ZephrFish/CVE-2021-22893 | Pulse Connect Secure 9.0R3/9.1R1 and higher is vulnerable to an authentication bypass vulnerability exposed by the Windows File Share Browser and Pulse Secure Collaboration features of Pulse Connect Secure that can allow an unauthenticated user to perform remote arbitrary code execution on the Pulse Connect Secure gateway. This vulnerability has been exploited in the wild.| 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210425T22:39:56Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1677 | 489| 
+| 20210425T21:57:36Z | A personnal UI library made as an excuse to have a published UI package | https://github.com/Liinkiing/klee | 8 | 1| 
+| 20210425T21:12:48Z | Spring 2021 Geography 817 work folder  | https://github.com/klee12/klee12.github.io | 1 | 0| 
+| 20210425T14:34:16Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 的 Klee One 的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 396 | 9| 
 | 20210425T05:57:52Z | 99484C Worlds Code | https://github.com/Jython1415/penguin-Klee | 1 | 0| 
 | 20210425T04:56:42Z | Create CFGs and compute complexity metrics for Python, C++, and Java code. | https://github.com/hmc-alpaqa/metrinome | 11 | 0| 
-| 20210424T18:50:34Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1676 | 489| 
 | 20210424T08:17:49Z | Git Blog | https://github.com/klee30810/klee30810.github.io | 0 | 0| 
 | 20210424T04:10:44Z | An opiniated Next TypeScript powered starter which include Klee, emotion / styled-system, framer motion, jest and Cypress | https://github.com/Liinkiing/next-ts-klee-starter | 0 | 0| 
-| 20210424T03:37:07Z | A personnal UI library made as an excuse to have a published UI package | https://github.com/Liinkiing/klee | 8 | 1| 
 | 20210423T22:47:38Z | Whole Program LLVM: wllvm ported to go | https://github.com/SRI-CSL/gllvm | 127 | 21| 
 | 20210423T16:14:28Z | Symbiotic is a tool for finding bugs in computer programs based on instrumentation, program slicing and KLEE | https://github.com/staticafi/symbiotic | 215 | 35| 
-| 20210423T01:26:45Z | KLEE demonstration on the program second_largest | https://github.com/basu-abhinav/automatic_evaluation_tool | 0 | 0| 
-| 20210422T19:43:53Z | KLEE demonstration on the program second_largest | https://github.com/basu-abhinav/second_largest | 0 | 0| 
 
 
 # s2e on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210425T22:22:17Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 116 | 27| 
 | 20210421T07:37:39Z | Null | https://github.com/yuvalkirstain/s2e-coref | 3 | 2| 
 | 20210420T06:08:42Z | GUI Configuration tool for WIZnet serial to ethernet devices. | https://github.com/Wiznet/WIZnet-S2E-Tool-GUI | 12 | 7| 
-| 20210416T10:04:27Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 115 | 27| 
 | 20210411T10:32:25Z | Null | https://github.com/Lyes7/TDM_S2E1 | 0 | 0| 
 
 
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210425T12:57:40Z | Null | https://github.com/xw103/DepthExploit-example | 0 | 0| 
-| 20210425T12:56:08Z | The hacking challenges I%ve solved | https://github.com/andrewbae/playground | 1 | 1| 
-| 20210425T12:47:22Z | A Good One Exploit | https://github.com/NiZXD471/BKHAX-Repost | 0 | 0| 
-| 20210425T12:44:20Z | A vulnerability exploitation tool for SVN source disclosure. and support various versions of SVN. | https://github.com/X3NNY/SvnFuck | 5 | 0| 
-| 20210425T12:37:16Z | Simple exploit in ruby | https://github.com/Lojacopsen/SimpleExploit.rb | 0 | 0| 
-| 20210425T12:35:11Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9325 | 1507| 
-| 20210425T12:27:29Z | Null | https://github.com/xw103/DepthExploit | 0 | 0| 
-| 20210425T12:14:23Z | StarBlox is a simple, but fresh looking hub made for the rblx exploiters to have a good time!  | https://github.com/Githubhelper-cloud/star-blox | 0 | 0| 
-| 20210425T12:04:50Z | my https://exploit.education/ writeups | https://github.com/amirr0r/exploit-exercises | 0 | 0| 
-| 20210425T12:04:03Z | Null | https://github.com/sazgarpinky/blak-system-exploit | 0 | 0| 
+| 20210425T23:56:59Z | Null | https://github.com/0xturazzi/Um-Livrinho-Sobre-Exploit-Dev | 0 | 0| 
+| 20210425T23:56:37Z | Some notes + templates that you can use in your hypervisor research, either for full exploits, or to verify / falsify any assumptions you may make while auditing code. | https://github.com/farazsth98/hypervisor_exploit_templates | 12 | 0| 
+| 20210425T23:40:35Z | Null | https://github.com/EvanGamerYT101/Exploit | 0 | 0| 
+| 20210425T23:31:54Z | Extraction et exploitation des données de conversations Messenger | https://github.com/adrien-chinour/statistiques-messenger | 0 | 0| 
+| 20210425T23:30:48Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9327 | 1506| 
+| 20210425T23:02:39Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 23 | 9| 
+| 20210425T22:46:25Z | An open-source post-exploitation framework for students, researchers and developers. | https://github.com/malwaredllc/byob | 6212 | 1417| 
+| 20210425T22:16:27Z | A collection of challenge writeups, CVE POC%s, and explanations | https://github.com/0xmanjoos/Exploit-Development | 1 | 1| 
+| 20210425T22:12:11Z | PS1 savegame exploit | https://github.com/socram8888/tonyhax | 263 | 7| 
+| 20210425T22:07:25Z | A module for Garry%s Mod that mitigates exploits on the Source engine. | https://github.com/danielga/gmsv_serversecure | 62 | 18| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210425T12:11:04Z | It is a backdoor which consists of a server and a Client  | https://github.com/snowdox/OffensiveSecurity | 0 | 0| 
-| 20210425T12:02:07Z | Null | https://github.com/danchik1155/BackdoorIstok | 0 | 0| 
-| 20210425T09:12:08Z | Ghost Framework is an Android post-exploitation framework that exploits the Android Debug Bridge to remotely access an Android device. | https://github.com/EntySec/ghost | 1049 | 509| 
-| 20210425T06:11:32Z | Create a backdoor to a WordPress website. | https://github.com/majidamiri70/backdoor_for_wp | 0 | 0| 
-| 20210425T04:44:31Z | TrojanZoo provides a universal pytorch platform to conduct security researches (especially backdoor attacks/defenses) of image classification in deep learning. | https://github.com/ain-soph/trojanzoo | 66 | 11| 
-| 20210425T01:43:16Z | Null | https://github.com/SkchupDePana/Backdoor-By-Shell | 0 | 0| 
-| 20210425T01:26:07Z | Null | https://github.com/DragoraC/Backdoor-By-Shell | 0 | 0| 
-| 20210424T22:40:10Z | Dashboard for conducting Backdoors and Breaches sessions over Zoom. | https://github.com/p3hndrx/B-B-Shuffle | 36 | 2| 
-| 20210424T21:28:54Z | Null | https://github.com/piyushsharma220699/Backdoor-in-Cyber-Security | 0 | 0| 
-| 20210424T21:03:27Z | Simple Python Backdoor | https://github.com/zNairy/Sonaris | 6 | 0| 
+| 20210425T23:51:07Z | Defending Against Backdoor Attacks Using Robust Covariance Estimation | https://github.com/SewoongLab/spectre-defense | 0 | 0| 
+| 20210425T22:59:04Z | Null | https://github.com/connorbuck/backdoor-dispensary-website | 0 | 0| 
+| 20210425T22:51:03Z | Simple Python Backdoor | https://github.com/zNairy/Sonaris | 6 | 0| 
+| 20210425T21:26:32Z | PCI Express DIY hacking toolkit for Xilinx SP605 | https://github.com/Cr4sh/s6_pcie_microblaze | 319 | 79| 
+| 20210425T20:42:28Z | Null | https://github.com/danchik1155/BackdoorIstok | 0 | 0| 
+| 20210425T20:07:27Z | Dette er basic runcode. Brug CEVA eller noget andet til at test lortet. Tak til @servercfg for den orginalle backdoor da vi fik ideen ud fra dem.  | https://github.com/DerpIsInactive/VpsStealerFiveM | 4 | 1| 
+| 20210425T18:12:47Z | Ghost Framework is an Android post-exploitation framework that exploits the Android Debug Bridge to remotely access an Android device. | https://github.com/EntySec/ghost | 1051 | 507| 
+| 20210425T15:13:28Z | TrojanZoo provides a universal pytorch platform to conduct security researches (especially backdoor attacks/defenses) of image classification in deep learning. | https://github.com/ain-soph/trojanzoo | 67 | 11| 
+| 20210425T14:17:19Z | Dashboard for conducting Backdoors and Breaches sessions over Zoom. | https://github.com/p3hndrx/B-B-Shuffle | 36 | 2| 
+| 20210425T13:51:24Z | Null | https://github.com/iwantlotsofcookies/BackDoor | 0 | 0| 
 
 
 # fuzz on Github 推荐
