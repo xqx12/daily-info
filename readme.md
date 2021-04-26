@@ -55,8 +55,9 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210426T12:19:32Z | My course work about basic binary exploitation.🤿 | https://github.com/whatsyourask/basics-of-pwn | 0 | 0| 
+| 20210426T12:19:18Z | A collection of browser exploitation codes from Singular Security Lab. | https://github.com/singularseclab/Browser_Exploits | 12 | 1| 
 | 20210426T12:02:43Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 22 | 9| 
-| 20210426T11:45:56Z | A collection of browser exploitation codes from Singular Security Lab. | https://github.com/singularseclab/Browser_Exploits | 11 | 1| 
 | 20210426T11:36:03Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 3606 | 527| 
 | 20210426T11:13:45Z | macos/ios exploit writeup | https://github.com/houjingyi233/macOS-iOS-system-security | 99 | 10| 
 | 20210426T10:31:27Z | Here is where I will post all of my exploits where you will have to go through the linkvertise to get the password to the scripts. | https://github.com/sjonks/Exploits | 0 | 0| 
@@ -64,7 +65,6 @@
 | 20210426T10:08:22Z | hack the android mobile using metasploit | https://github.com/ethicalhackergopinath/exploittheandroidmobileusingmetasploit | 0 | 0| 
 | 20210426T10:03:37Z | 2021hvv漏洞exp | https://github.com/smallpiggy/2021HVV-exploit | 4 | 1| 
 | 20210426T09:40:41Z | Kubernetes security and vulnerability tools and utilities. | https://github.com/kris-nova/hack | 4 | 1| 
-| 20210426T09:13:07Z | Roblox exploit DLL base using the LBI execution method | https://github.com/deaddlocust/LBI-Base | 0 | 0| 
 
 
 # backdoor on Github 推荐
