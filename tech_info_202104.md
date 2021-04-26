@@ -85,8 +85,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210426T00:08:14Z | Null | https://github.com/0xturazzi/Um-Livrinho-Sobre-Exploit-Dev | 0 | 0| 
 | 20210426T00:02:39Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 23 | 9| 
-| 20210425T23:56:59Z | Null | https://github.com/0xturazzi/Um-Livrinho-Sobre-Exploit-Dev | 0 | 0| 
 | 20210425T23:56:37Z | Some notes + templates that you can use in your hypervisor research, either for full exploits, or to verify / falsify any assumptions you may make while auditing code. | https://github.com/farazsth98/hypervisor_exploit_templates | 12 | 0| 
 | 20210425T23:40:35Z | Null | https://github.com/EvanGamerYT101/Exploit | 0 | 0| 
 | 20210425T23:31:54Z | Extraction et exploitation des données de conversations Messenger | https://github.com/adrien-chinour/statistiques-messenger | 0 | 0| 
