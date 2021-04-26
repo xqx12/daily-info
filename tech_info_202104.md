@@ -85,6 +85,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210426T00:10:10Z | Exploit Flickr or any other image hosting service to serve static pages | https://github.com/gogorikidze/leechserve | 0 | 0| 
 | 20210426T00:08:14Z | Null | https://github.com/0xturazzi/Um-Livrinho-Sobre-Exploit-Dev | 0 | 0| 
 | 20210426T00:02:39Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 23 | 9| 
 | 20210425T23:56:37Z | Some notes + templates that you can use in your hypervisor research, either for full exploits, or to verify / falsify any assumptions you may make while auditing code. | https://github.com/farazsth98/hypervisor_exploit_templates | 12 | 0| 
@@ -94,7 +95,6 @@
 | 20210425T22:46:25Z | An open-source post-exploitation framework for students, researchers and developers. | https://github.com/malwaredllc/byob | 6212 | 1417| 
 | 20210425T22:16:27Z | A collection of challenge writeups, CVE POC%s, and explanations | https://github.com/0xmanjoos/Exploit-Development | 1 | 1| 
 | 20210425T22:12:11Z | PS1 savegame exploit | https://github.com/socram8888/tonyhax | 263 | 7| 
-| 20210425T22:07:25Z | A module for Garry%s Mod that mitigates exploits on the Source engine. | https://github.com/danielga/gmsv_serversecure | 62 | 18| 
 
 
 # backdoor on Github 推荐
