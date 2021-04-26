@@ -76,7 +76,6 @@
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
 | 20210425T23:51:07Z | Defending Against Backdoor Attacks Using Robust Covariance Estimation | https://github.com/SewoongLab/spectre-defense | 0 | 0| 
-| 20210425T22:59:04Z | Null | https://github.com/connorbuck/backdoor-dispensary-website | 0 | 0| 
 | 20210425T22:51:03Z | Simple Python Backdoor | https://github.com/zNairy/Sonaris | 6 | 0| 
 | 20210425T21:26:32Z | PCI Express DIY hacking toolkit for Xilinx SP605 | https://github.com/Cr4sh/s6_pcie_microblaze | 319 | 79| 
 | 20210425T20:42:28Z | Null | https://github.com/danchik1155/BackdoorIstok | 0 | 0| 
@@ -85,6 +84,7 @@
 | 20210425T15:13:28Z | TrojanZoo provides a universal pytorch platform to conduct security researches (especially backdoor attacks/defenses) of image classification in deep learning. | https://github.com/ain-soph/trojanzoo | 67 | 11| 
 | 20210425T14:17:19Z | Dashboard for conducting Backdoors and Breaches sessions over Zoom. | https://github.com/p3hndrx/B-B-Shuffle | 36 | 2| 
 | 20210425T13:51:24Z | Null | https://github.com/iwantlotsofcookies/BackDoor | 0 | 0| 
+| 20210425T13:30:09Z | Null | https://github.com/Delle9999/backdoor | 0 | 0| 
 
 
 # fuzz on Github 推荐
