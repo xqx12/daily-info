@@ -48,7 +48,7 @@
 | --- | --- | --- | --- | ---| 
 | 20210426T00:35:11Z | CVE-2020-27199 | CVE-2020-27199 | https://github.com/9lyph/CVE-2020-27199 | The Magic Home Pro application 1.5.1 for Android allows Authentication Bypass. The security control that the application currently has in place is a simple Username and Password authentication function. Using enumeration, an attacker is able to forge a User specific token without the need for correct password to gain access to the mobile application as that victim user.| 
 | 20210425T17:22:35Z | CVE-2021-22192 | CVE-2021-22192 靶场： 未授权用户 RCE 漏洞 | https://github.com/lyy289065406/CVE-2021-22192 | An issue has been discovered in GitLab CE/EE affecting all versions starting from 13.2 allowing unauthorized authenticated users to execute arbitrary code on the server.| 
-| 20210425T15:33:40Z | CVE-2021-1732 | CVE-2021-1732 poc & exp; tested on 20H2 | https://github.com/Pai-Po/CVE-2021-1732 | | 
+| 20210425T15:33:40Z | CVE-2021-1732 | CVE-2021-1732 poc & exp; tested on 20H2 | https://github.com/Pai-Po/CVE-2021-1732 | Windows Win32k Elevation of Privilege Vulnerability This CVE ID is unique from CVE-2021-1698.| 
 | 20210425T15:12:48Z | CVE-2021-1732 | Read my  blog for more info -  | https://github.com/exploitblizzard/Windows-Privilege-Escalation-CVE-2021-1732 | Windows Win32k Elevation of Privilege Vulnerability This CVE ID is unique from CVE-2021-1698.| 
 | 20210425T14:55:34Z | CVE-2020-3161 | Null | https://github.com/uromulouinthehouse/CVE-2020-3161 | A vulnerability in the web server for Cisco IP Phones could allow an unauthenticated, remote attacker to execute code with root privileges or cause a reload of an affected IP phone, resulting in a denial of service (DoS) condition. The vulnerability is due to a lack of proper input validation of HTTP requests. An attacker could exploit this vulnerability by sending a crafted HTTP request to the web server of a targeted device. A successful exploit could allow the attacker to remotely execute code with root privileges or cause a reload of an affected IP phone, resulting in a DoS condition.| 
 | 20210425T11:42:29Z | CVE-2021-3291 | rebuild cve | https://github.com/ImHades101/CVE-2021-3291 | Zen Cart 1.5.7b allows admins to execute arbitrary OS commands by inspecting an HTML radio input element (within the modules edit page) and inserting a command.| 
@@ -85,6 +85,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210426T00:37:31Z | A windows post exploitation tool that contains a lot of features for information gathering and more. | https://github.com/0x1CA3/Crowbar | 15 | 0| 
 | 20210426T00:28:35Z | This is a repo for the coding done for CTFs / exploits. The writeups are here: https://github.com/dillonwu-97/csec_writeups | https://github.com/dillonwu-97/csec-code | 0 | 0| 
 | 20210426T00:10:10Z | Exploit Flickr or any other image hosting service to serve static pages | https://github.com/gogorikidze/leechserve | 0 | 0| 
 | 20210426T00:08:14Z | Null | https://github.com/0xturazzi/Um-Livrinho-Sobre-Exploit-Dev | 0 | 0| 
@@ -94,7 +95,6 @@
 | 20210425T23:31:54Z | Extraction et exploitation des données de conversations Messenger | https://github.com/adrien-chinour/statistiques-messenger | 0 | 0| 
 | 20210425T23:30:48Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9327 | 1506| 
 | 20210425T22:46:25Z | An open-source post-exploitation framework for students, researchers and developers. | https://github.com/malwaredllc/byob | 6212 | 1417| 
-| 20210425T22:16:27Z | A collection of challenge writeups, CVE POC%s, and explanations | https://github.com/0xmanjoos/Exploit-Development | 1 | 1| 
 
 
 # backdoor on Github 推荐
