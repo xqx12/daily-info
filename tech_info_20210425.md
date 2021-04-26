@@ -37,7 +37,7 @@
 | 20210425T15:33:40Z | CVE-2021-1732 | CVE-2021-1732 poc & exp; tested on 20H2 | https://github.com/Pai-Po/CVE-2021-1732 | Windows Win32k Elevation of Privilege Vulnerability This CVE ID is unique from CVE-2021-1698.| 
 | 20210425T15:12:48Z | CVE-2021-1732 | Read my  blog for more info -  | https://github.com/exploitblizzard/Windows-Privilege-Escalation-CVE-2021-1732 | Windows Win32k Elevation of Privilege Vulnerability This CVE ID is unique from CVE-2021-1698.| 
 | 20210425T14:55:34Z | CVE-2020-3161 | Null | https://github.com/uromulouinthehouse/CVE-2020-3161 | A vulnerability in the web server for Cisco IP Phones could allow an unauthenticated, remote attacker to execute code with root privileges or cause a reload of an affected IP phone, resulting in a denial of service (DoS) condition. The vulnerability is due to a lack of proper input validation of HTTP requests. An attacker could exploit this vulnerability by sending a crafted HTTP request to the web server of a targeted device. A successful exploit could allow the attacker to remotely execute code with root privileges or cause a reload of an affected IP phone, resulting in a DoS condition.| 
-| 20210425T11:42:29Z | CVE-2021-3291 | rebuild cve | https://github.com/ImHades101/CVE-2021-3291 | | 
+| 20210425T11:42:29Z | CVE-2021-3291 | rebuild cve | https://github.com/ImHades101/CVE-2021-3291 | Zen Cart 1.5.7b allows admins to execute arbitrary OS commands by inspecting an HTML radio input element (within the modules edit page) and inserting a command.| 
 
 
 # klee on Github 推荐
@@ -90,16 +90,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210425T12:40:10Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 31134 | 15943| 
-| 20210425T12:26:29Z | Null | https://github.com/imuyankan/FuzzylogicExperimentData | 0 | 0| 
-| 20210425T12:11:41Z | Null | https://github.com/GopherConRu/pb-fuzz-workshop | 0 | 0| 
-| 20210425T11:51:19Z | Hello Fuk | https://github.com/KurtCbain/fuzzy-lamp | 0 | 0| 
-| 20210425T11:36:56Z | An extremely fast and flexible web fuzzer | https://github.com/henshin/filebuster | 177 | 42| 
-| 20210425T11:28:32Z | Personal website of Laurence Hughes | https://github.com/fuzzylogicxx/fuzzylogic | 4 | 1| 
-| 20210425T11:16:54Z | Null | https://github.com/s9varesc/url-fuzzing | 1 | 1| 
-| 20210425T09:45:09Z | Null | https://github.com/JacobC1921/PyFuzzer | 0 | 0| 
-| 20210425T09:31:55Z | Null | https://github.com/VeriBlock/fuzz-corpus | 0 | 1| 
-| 20210425T09:17:01Z | Fuzzing (fuzz testing) : automated software testing technique that involves providing invalid or random data as inputs to a computer program. | https://github.com/Vilquid/Fuzzing | 1 | 0| 
+| 20210425T23:22:50Z | 3D surface adaptation problem resolved with a fuzzy filtered genetic algorithm made with Python. | https://github.com/AlexisNeri/Fuzzy_GA_Curve | 0 | 0| 
+| 20210425T23:10:27Z | Null | https://github.com/opimentel-github/fuzzy-torch | 1 | 0| 
+| 20210425T23:07:41Z | SQL project to analyse a growing business and colect relevant information to help steer the company%s future. | https://github.com/alanaselli/MavenFuzzyFactory_Project | 0 | 0| 
+| 20210425T22:56:49Z | Null | https://github.com/fuzzybritches0/fuzzybritches0.github.io | 0 | 0| 
+| 20210425T22:43:43Z | JQF + Zest: Coverage-guided semantic fuzzing for Java. | https://github.com/rohanpadhye/JQF | 347 | 49| 
+| 20210425T21:57:09Z | Null | https://github.com/raafatfeki/cosc6386SymbolicFuzzer | 0 | 0| 
+| 20210425T21:55:34Z | Repository holding database dumps from getfursu.it | https://github.com/veelkoov/fuzzrake-data | 0 | 0| 
+| 20210425T21:48:12Z | The code behind getfursu.it | https://github.com/veelkoov/fuzzrake | 6 | 0| 
+| 20210425T21:41:44Z | Fuzzing cryptographic libraries. Magic bug printer go brrrr. | https://github.com/guidovranken/cryptofuzz | 272 | 37| 
+| 20210425T21:36:31Z | Null | https://github.com/igorsodre/fuzzy-trader | 0 | 0| 
 
 
 
