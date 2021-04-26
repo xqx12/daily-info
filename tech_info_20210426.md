@@ -70,21 +70,31 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210426T11:50:02Z | A self-spreading parasitic, polymorphic internet-worm for the netBIOS backdoor | https://github.com/timo-cmd2/Win32.ThermalStorm | 1 | 0| 
+| 20210426T11:22:36Z | Shell Backdoor | https://github.com/PhenaxGod/Shell-Backdoor | 0 | 0| 
+| 20210426T10:14:59Z | Sample Blockchain Smart Contract Backdoor | https://github.com/MAYASEVEN/Sample-Blockchain-Smart-Contract-Backdoor | 0 | 0| 
+| 20210426T09:08:45Z | Web Shell Backdoors - No Content Yet | https://github.com/PhenaxGod/Web-Shell-Backdoors | 0 | 0| 
+| 20210426T06:21:03Z | It is a backdoor which consists of a server and a Client  | https://github.com/snowdox/OffensiveSecurity | 0 | 0| 
+| 20210426T04:54:53Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 226 | 38| 
+| 20210426T04:10:41Z | Defending Against Backdoor Attacks Using Robust Covariance Estimation | https://github.com/SewoongLab/spectre-defense | 0 | 0| 
+| 20210426T04:04:42Z | Python 3 IRC Bot / Botnet | https://github.com/trackmastersteve/HackServ | 19 | 16| 
+| 20210426T02:55:21Z | TrojanZoo provides a universal pytorch platform to conduct security researches (especially backdoor attacks/defenses) of image classification in deep learning. | https://github.com/ain-soph/trojanzoo | 67 | 11| 
 | 20210426T00:42:57Z | Null | https://github.com/connorbuck/backdoor-dispensary-website | 0 | 0| 
 
 
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210426T01:26:49Z | An extremely fast and flexible web fuzzer | https://github.com/henshin/filebuster | 178 | 42| 
-| 20210426T01:19:16Z | Null | https://github.com/raafatfeki/cosc6386SymbolicFuzzer | 0 | 0| 
-| 20210426T01:11:17Z | Nodejs, Docker & Jenkins integration | https://github.com/ralarconb/fuzzy | 0 | 0| 
-| 20210426T01:10:17Z | Application launcher in Python using Tk (Linux Only) | https://github.com/mgurga/fuzzmenu | 0 | 0| 
-| 20210426T01:06:22Z | Read-only mirror of %fuzzysim% from r-forge SVN. | https://github.com/r-forge/fuzzysim | 0 | 0| 
-| 20210426T00:57:28Z | Null | https://github.com/RunzhouHan/fuzzing_fs_aware_applications | 0 | 0| 
-| 20210426T00:22:56Z | Null | https://github.com/fuzzball-muck/fuzzball-muf | 6 | 6| 
-| 20210426T00:08:52Z | Null | https://github.com/VeriBlock/fuzz-corpus | 0 | 1| 
-| 20210426T00:04:42Z | Ongoing development of the Fuzzball MUCK server software and associated functionality. | https://github.com/fuzzball-muck/fuzzball | 32 | 23| 
+| 20210426T12:01:48Z | Null | https://github.com/s9varesc/url-fuzzing | 1 | 1| 
+| 20210426T11:51:59Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 3483 | 805| 
+| 20210426T11:49:10Z | Fuzzing cryptographic libraries. Magic bug printer go brrrr. | https://github.com/guidovranken/cryptofuzz | 272 | 37| 
+| 20210426T11:46:40Z | Coverage-guided, in-process fuzzing for the JVM | https://github.com/CodeIntelligenceTesting/jazzer | 281 | 16| 
+| 20210426T11:41:46Z | Fast HTTP enumerator | https://github.com/RedTeamPentesting/monsoon | 308 | 29| 
+| 20210426T11:31:06Z | Personal website of Laurence Hughes | https://github.com/fuzzylogicxx/fuzzylogic | 4 | 1| 
+| 20210426T11:28:41Z | Some small fuzz-interesting GBAs along with compile tools | https://github.com/mahaloz/small-gbas | 0 | 0| 
+| 20210426T11:18:40Z | Null | https://github.com/IsSabuhi/Laba-2-The-fuzzy-set | 0 | 0| 
+| 20210426T11:03:19Z | PoC of fuzzing closed-source userspace binaries with KVM | https://github.com/klecko/kvm-fuzz | 51 | 5| 
+| 20210426T10:54:09Z | Null | https://github.com/arfan21/fuzzy-logic | 0 | 1| 
 
 
 
