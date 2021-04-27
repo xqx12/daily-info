@@ -49,6 +49,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210427T12:17:45Z | 在科研（摸鱼）过程中，收集到的或者自己写的一些有用的（经过实战检验的）exp/poc，欢迎提交issue和PR | https://github.com/ycdxsb/Exploits | 2 | 0| 
 | 20210427T12:09:22Z | Null | https://github.com/MTK-bypass/exploits_collection | 84 | 40| 
 | 20210427T12:05:17Z | This bash script will help you to hack remote hosts  | https://github.com/FabioDefilippo/linuxallremote | 11 | 3| 
 | 20210427T12:03:32Z | xcube is a Python package for generating and exploiting data cubes powered by xarray, dask, and zarr. | https://github.com/dcs4cop/xcube | 73 | 13| 
@@ -57,7 +58,6 @@
 | 20210427T11:45:12Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 3609 | 531| 
 | 20210427T11:08:13Z | Null | https://github.com/xw103/DepthExploit | 0 | 0| 
 | 20210427T11:08:09Z | Thi powershell script has got to run in remote windows host, even for pivoting | https://github.com/FabioDefilippo/winallenum | 2 | 1| 
-| 20210427T11:00:21Z | 在科研（摸鱼）过程中，收集到的或者自己写的一些有用的（经过实战检验的）exp/poc，欢迎提交issue和PR | https://github.com/ycdxsb/Exploits | 2 | 0| 
 | 20210427T10:56:21Z | Shellcode_IA32 is a dataset consisting of challenging but common assembly instructions, collected from real shellcodes, with their natural language descriptions. The dataset can be used for neural machine translation tasks to automatically generate software exploits from natural language. | https://github.com/dessertlab/Shellcode_IA32 | 0 | 0| 
 
 
