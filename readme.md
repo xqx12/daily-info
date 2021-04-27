@@ -24,7 +24,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20210427T12:00:19Z | CVE-2021-31221 | Indicator of Compromise Scanner for CVE-2021-31221  | https://github.com/fireaye/ioc-scanner-CVE-2021-31221 | 未查询到CVE信息| 
+| 20210427T12:02:01Z | CVE-2021-31221 | Indicator of Compromise Scanner for CVE-2021-31221  | https://github.com/fireaye/ioc-scanner-CVE-2021-31221 | 未查询到CVE信息| 
 | 20210427T11:53:06Z | CVE-2021-26868 | Null | https://github.com/mavillon/CVE-2021-26868 | Windows Graphics Component Elevation of Privilege Vulnerability| 
 | 20210427T10:33:39Z | CVE-2021-3291 | rebuild cve | https://github.com/ImHades101/CVE-2021-3291 | Zen Cart 1.5.7b allows admins to execute arbitrary OS commands by inspecting an HTML radio input element (within the modules edit page) and inserting a command.| 
 | 20210427T09:10:33Z | CVE-2021-22192 | CVE-2021-22192 靶场： 未授权用户 RCE 漏洞 | https://github.com/lyy289065406/CVE-2021-22192 | An issue has been discovered in GitLab CE/EE affecting all versions starting from 13.2 allowing unauthorized authenticated users to execute arbitrary code on the server.| 
@@ -49,23 +49,28 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210427T12:02:41Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 22 | 9| 
+| 20210427T12:01:12Z | xcube is a Python package for generating and exploiting data cubes powered by xarray, dask, and zarr. | https://github.com/dcs4cop/xcube | 73 | 13| 
 | 20210427T11:58:22Z | Null | https://github.com/Username132131231/exploit | 0 | 0| 
 | 20210427T11:45:12Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 3609 | 531| 
 | 20210427T11:08:13Z | Null | https://github.com/xw103/DepthExploit | 0 | 0| 
 | 20210427T11:08:09Z | Thi powershell script has got to run in remote windows host, even for pivoting | https://github.com/FabioDefilippo/winallenum | 2 | 1| 
-| 20210427T11:02:39Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 22 | 9| 
 | 20210427T11:00:21Z | 在科研（摸鱼）过程中，收集到的或者自己写的一些有用的（经过实战检验的）exp/poc，欢迎提交issue和PR | https://github.com/ycdxsb/Exploits | 2 | 0| 
 | 20210427T10:56:21Z | Shellcode_IA32 is a dataset consisting of challenging but common assembly instructions, collected from real shellcodes, with their natural language descriptions. The dataset can be used for neural machine translation tasks to automatically generate software exploits from natural language. | https://github.com/dessertlab/Shellcode_IA32 | 0 | 0| 
 | 20210427T10:26:58Z | LFI Exploitation tool  | https://github.com/krishpranav/lfi-exploiter | 0 | 0| 
 | 20210427T10:07:12Z | macos/ios exploit writeup | https://github.com/houjingyi233/macOS-iOS-system-security | 99 | 10| 
-| 20210427T09:51:56Z | A Gaussian Process package to train and exploit Gaussian Process models | https://github.com/ShuaiGuo16/Gaussian-Process-Package | 0 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210427T01:47:40Z | Null | https://github.com/FelipeDosAnjos/HarpiaBackdoor | 0 | 0| 
-| 20210427T01:39:33Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 226 | 38| 
+| 20210427T10:50:50Z | A token logger for discord + steals Brave/Chrome passwords and usernames , I only made this for fun, so please don%t use it maliciously🙏 | https://github.com/CUPZYY/Backdoor-Machine | 1 | 0| 
+| 20210427T09:33:28Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 227 | 38| 
+| 20210427T09:09:40Z | Null | https://github.com/haehae00/backdoor | 0 | 0| 
+| 20210427T04:30:26Z | Null | https://github.com/FelipeDosAnjos/HarpiaBackdoor | 0 | 0| 
+| 20210427T03:59:34Z | generator of php_backdoor | https://github.com/Ki11i0n4ir3/backdoor-gen | 0 | 0| 
+| 20210427T03:18:29Z | Backdoor Untuk Rce | https://github.com/ChokkaXploiter/azure | 1 | 0| 
+| 20210427T02:26:22Z | Sample Blockchain Smart Contract Backdoor | https://github.com/MAYASEVEN/Sample-Blockchain-Smart-Contract-Backdoor | 1 | 0| 
 | 20210427T01:35:13Z | Shell Backdoor. Credits to ph.luffy | https://github.com/PhenaxGod/Shell-Backdoor | 0 | 0| 
 | 20210427T00:54:10Z | Arsnick is a Python IRC Bot/Backdoor written in Python | https://github.com/netzwerk/Arsnick | 0 | 0| 
 
