@@ -79,7 +79,6 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210426T23:56:28Z | Arsnick is a Python IRC Bot/Backdoor written in Python | https://github.com/netzwerk/Arsnick | 0 | 0| 
 | 20210426T22:30:50Z | A wrapper for commands to be executed as Windows services | https://github.com/tasooshi/ServiceWrapper | 0 | 0| 
 | 20210426T21:51:10Z | Defending Against Backdoor Attacks Using Robust Covariance Estimation | https://github.com/SewoongLab/spectre-defense | 2 | 0| 
 | 20210426T18:42:14Z | Python 3 IRC Bot / Botnet | https://github.com/trackmastersteve/HackServ | 19 | 16| 
@@ -89,6 +88,7 @@
 | 20210426T14:39:48Z | Android Payload in Kali Linux | https://github.com/Aravinddotcom/Testing-Android-Payload-BackDoor | 0 | 0| 
 | 20210426T12:10:10Z | Shell Backdoor. Credits to ph.luffy | https://github.com/PhenaxGod/Shell-Backdoor | 0 | 0| 
 | 20210426T11:50:02Z | A self-spreading parasitic, polymorphic internet-worm for the netBIOS backdoor | https://github.com/timo-cmd2/Win32.ThermalStorm | 1 | 0| 
+| 20210426T10:14:59Z | Sample Blockchain Smart Contract Backdoor | https://github.com/MAYASEVEN/Sample-Blockchain-Smart-Contract-Backdoor | 0 | 0| 
 
 
 # fuzz on Github 推荐

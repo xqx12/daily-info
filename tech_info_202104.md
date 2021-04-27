@@ -100,7 +100,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210426T23:56:28Z | Arsnick is a Python IRC Bot/Backdoor written in Python | https://github.com/netzwerk/Arsnick | 0 | 0| 
+| 20210427T00:54:10Z | Arsnick is a Python IRC Bot/Backdoor written in Python | https://github.com/netzwerk/Arsnick | 0 | 0| 
 | 20210426T22:30:50Z | A wrapper for commands to be executed as Windows services | https://github.com/tasooshi/ServiceWrapper | 0 | 0| 
 | 20210426T21:51:10Z | Defending Against Backdoor Attacks Using Robust Covariance Estimation | https://github.com/SewoongLab/spectre-defense | 2 | 0| 
 | 20210426T18:42:14Z | Python 3 IRC Bot / Botnet | https://github.com/trackmastersteve/HackServ | 19 | 16| 
