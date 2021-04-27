@@ -66,7 +66,6 @@
 | --- | --- | --- | --- | ---| 
 | 20210426T23:15:44Z | SAFETY IN NUMBERS ( S.I.N. ) A collective of people capable of becoming Catalyst community advisors but are motivated to be part of a project themselves. The team is formed by members with complementary talents and skills. Working as a unity in creating dapps and value added services makes it possible for every member to fully exploit their talents while being helped in dealing with their weaknesses. Our collective will not only advise and assess, but will also leave room to plan and execute personal projects as members & pools. The organisation of the collective in the below programs is constructed to ensure maximum synergies in between the different Programs while maximising cross-selling Collaboration as a collective also ensures cost cutting through scaling efficiencies and more effective and lower costs of combined marketing | https://github.com/Janjaweed/S-I-N | 0 | 0| 
 | 20210426T23:10:15Z | A place to keep track of exercises from %Hacking, the Art of Exploitation% | https://github.com/smithhmark/HAOE | 0 | 0| 
-| 20210426T22:29:11Z | Maian Cart 3.8 preauth RCE exploit | https://github.com/DreyAnd/maian-cart-rce | 0 | 0| 
 | 20210426T22:26:30Z | Exploiting & Refining Depth Distributions with Triangulation Light Curtains | https://github.com/soulslicer/rgb-lc-fusion | 0 | 0| 
 | 20210426T21:57:17Z | Educational web application demonstrating techniques of binary exploitation (Front-end) | https://github.com/Pen-Test3rs/binary_exploits_frontend | 0 | 0| 
 | 20210426T21:42:57Z | Parmap is a minimalistic library allowing to exploit multicore architecture for OCaml programs with minimal modifications. | https://github.com/rdicosmo/parmap | 80 | 17| 
@@ -74,6 +73,7 @@
 | 20210426T20:37:13Z | Powerful payload generation and shellcode injection tool that provides support for common platforms and architectures. | https://github.com/EntySec/HatVenom | 6 | 1| 
 | 20210426T19:58:22Z | Desktop application mixed with database allowing to allocate patients in a clinic rooms with the goal of avoiding health-based conficts between them and exploiting user authorization to granting access and organise the clinic. Project being meant as a base for mine and my team%s future Engineer%s Thesis. | https://github.com/Too55/pz_project | 1 | 0| 
 | 20210426T19:29:55Z | this code have copyright, only for educational purposes | https://github.com/ShitpostMDX/WPF-Roblox-Exploit | 0 | 0| 
+| 20210426T19:09:37Z | Various ASM, C and C++ tools, shellcodes and exploit experiments. | https://github.com/forrest-orr/ExploitDev | 9 | 1| 
 
 
 # backdoor on Github 推荐
