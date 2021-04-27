@@ -85,6 +85,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210427T00:50:56Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 15 | 10| 
 | 20210427T00:50:40Z | Null | https://github.com/Raxxers/Exploit | 0 | 0| 
 | 20210427T00:37:01Z | A collection of scripts I%ve written, including automation, enumeration, exploitation, etc. | https://github.com/jessisec/scripts | 0 | 0| 
 | 20210427T00:35:13Z | Null | https://github.com/Raxxers/Exploit-Scripts | 1 | 0| 
@@ -94,7 +95,6 @@
 | 20210427T00:02:40Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 22 | 9| 
 | 20210426T23:15:44Z | SAFETY IN NUMBERS ( S.I.N. ) A collective of people capable of becoming Catalyst community advisors but are motivated to be part of a project themselves. The team is formed by members with complementary talents and skills. Working as a unity in creating dapps and value added services makes it possible for every member to fully exploit their talents while being helped in dealing with their weaknesses. Our collective will not only advise and assess, but will also leave room to plan and execute personal projects as members & pools. The organisation of the collective in the below programs is constructed to ensure maximum synergies in between the different Programs while maximising cross-selling Collaboration as a collective also ensures cost cutting through scaling efficiencies and more effective and lower costs of combined marketing | https://github.com/Janjaweed/S-I-N | 0 | 0| 
 | 20210426T23:10:15Z | A place to keep track of exercises from %Hacking, the Art of Exploitation% | https://github.com/smithhmark/HAOE | 0 | 0| 
-| 20210426T22:26:30Z | Exploiting & Refining Depth Distributions with Triangulation Light Curtains | https://github.com/soulslicer/rgb-lc-fusion | 0 | 0| 
 
 
 # backdoor on Github 推荐
