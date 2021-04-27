@@ -53,7 +53,7 @@
 | 20210426T15:28:51Z | CVE-2021-25735 | Exploit CVE-2021-25735: Kubernetes Validating Admission Webhook Bypass | https://github.com/darryk10/CVE-2021-25735 | 未查询到CVE信息| 
 | 20210426T14:00:59Z | CVE-2020-15808 | A proof of concept of CVE-2020-15808 vulnerability exploit on STM32F4 Discovery board | https://github.com/manucuf/CVE202015808 | 未查询到CVE信息| 
 | 20210426T11:04:48Z | CVE-2021-26415 | All files needed to reproduce PoC for CVE-2021-26415: https://www.cloaked.pl/2021/04/cve-2021-26415/ | https://github.com/adenkiewicz/CVE-2021-26415 | Windows Installer Elevation of Privilege Vulnerability This CVE ID is unique from CVE-2021-28440.| 
-| 20210426T10:43:20Z | CVE-2021-22192 | CVE-2021-22192 靶场： 未授权用户 RCE 漏洞 | https://github.com/lyy289065406/CVE-2021-22192 | An issue has been discovered in GitLab CE/EE affecting all versions starting from 13.2 allowing unauthorized authenticated users to execute arbitrary code on the server.| 
+| 20210426T10:43:20Z | CVE-2021-22192 | CVE-2021-22192 靶场： 未授权用户 RCE 漏洞 | https://github.com/lyy289065406/CVE-2021-22192 | | 
 | 20210426T01:02:54Z | CVE-2020-27199 | CVE-2020-27199 | https://github.com/9lyph/CVE-2020-27199 | The Magic Home Pro application 1.5.1 for Android allows Authentication Bypass. The security control that the application currently has in place is a simple Username and Password authentication function. Using enumeration, an attacker is able to forge a User specific token without the need for correct password to gain access to the mobile application as that victim user.| 
 | 20210425T15:12:48Z | CVE-2021-1732 | Read my  blog for more info -  | https://github.com/exploitblizzard/Windows-Privilege-Escalation-CVE-2021-1732 | Windows Win32k Elevation of Privilege Vulnerability This CVE ID is unique from CVE-2021-1698.| 
 
@@ -85,6 +85,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210427T00:42:37Z | Null | https://github.com/Raxxers/Exploit | 1 | 0| 
 | 20210427T00:37:01Z | A collection of scripts I%ve written, including automation, enumeration, exploitation, etc. | https://github.com/jessisec/scripts | 0 | 0| 
 | 20210427T00:35:13Z | Null | https://github.com/Raxxers/Exploit-Scripts | 1 | 0| 
 | 20210427T00:27:03Z | writeups for binary exploitation challenges | https://github.com/Bex-WriteUp/binary-exploitation | 0 | 0| 
@@ -94,7 +95,6 @@
 | 20210426T23:15:44Z | SAFETY IN NUMBERS ( S.I.N. ) A collective of people capable of becoming Catalyst community advisors but are motivated to be part of a project themselves. The team is formed by members with complementary talents and skills. Working as a unity in creating dapps and value added services makes it possible for every member to fully exploit their talents while being helped in dealing with their weaknesses. Our collective will not only advise and assess, but will also leave room to plan and execute personal projects as members & pools. The organisation of the collective in the below programs is constructed to ensure maximum synergies in between the different Programs while maximising cross-selling Collaboration as a collective also ensures cost cutting through scaling efficiencies and more effective and lower costs of combined marketing | https://github.com/Janjaweed/S-I-N | 0 | 0| 
 | 20210426T23:10:15Z | A place to keep track of exercises from %Hacking, the Art of Exploitation% | https://github.com/smithhmark/HAOE | 0 | 0| 
 | 20210426T22:26:30Z | Exploiting & Refining Depth Distributions with Triangulation Light Curtains | https://github.com/soulslicer/rgb-lc-fusion | 0 | 0| 
-| 20210426T21:57:17Z | Educational web application demonstrating techniques of binary exploitation (Front-end) | https://github.com/Pen-Test3rs/binary_exploits_frontend | 0 | 0| 
 
 
 # backdoor on Github 推荐
