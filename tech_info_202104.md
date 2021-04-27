@@ -85,6 +85,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210427T01:02:40Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 22 | 9| 
 | 20210427T00:50:56Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 15 | 10| 
 | 20210427T00:50:40Z | Null | https://github.com/Raxxers/Exploit | 0 | 0| 
 | 20210427T00:37:01Z | A collection of scripts I%ve written, including automation, enumeration, exploitation, etc. | https://github.com/jessisec/scripts | 0 | 0| 
@@ -92,7 +93,6 @@
 | 20210427T00:27:03Z | writeups for binary exploitation challenges | https://github.com/Bex-WriteUp/binary-exploitation | 0 | 0| 
 | 20210427T00:12:19Z | Maian Cart 3.8 preauth RCE exploit | https://github.com/DreyAnd/maian-cart-rce | 0 | 0| 
 | 20210427T00:05:05Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9332 | 1509| 
-| 20210427T00:02:40Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 22 | 9| 
 | 20210426T23:15:44Z | SAFETY IN NUMBERS ( S.I.N. ) A collective of people capable of becoming Catalyst community advisors but are motivated to be part of a project themselves. The team is formed by members with complementary talents and skills. Working as a unity in creating dapps and value added services makes it possible for every member to fully exploit their talents while being helped in dealing with their weaknesses. Our collective will not only advise and assess, but will also leave room to plan and execute personal projects as members & pools. The organisation of the collective in the below programs is constructed to ensure maximum synergies in between the different Programs while maximising cross-selling Collaboration as a collective also ensures cost cutting through scaling efficiencies and more effective and lower costs of combined marketing | https://github.com/Janjaweed/S-I-N | 0 | 0| 
 | 20210426T23:10:15Z | A place to keep track of exercises from %Hacking, the Art of Exploitation% | https://github.com/smithhmark/HAOE | 0 | 0| 
 
@@ -115,7 +115,9 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210427T00:02:12Z | Software for fuzzing, used on web application pentestings. | https://github.com/NESCAU-UFLA/FuzzingTool | 61 | 11| 
+| 20210427T01:03:46Z | Null | https://github.com/arfan21/fuzzy-logic | 0 | 1| 
+| 20210427T00:37:48Z | Scalable fuzzing infrastructure. | https://github.com/google/clusterfuzz | 4491 | 434| 
+| 20210427T00:12:14Z | Software for fuzzing, used on web application pentestings. | https://github.com/NESCAU-UFLA/FuzzingTool | 61 | 11| 
 | 20210426T23:47:32Z | Crie um programa, em qualquer linguagem, que resolva o problema abaixo: Aproveitando as novas tendências do mercado, você e mais um colega resolveram montar uma empresa para desenvolver sistemas utilizando inteligência artificial. Como este é um campo muito amplo, vocês limitaram o desenvolvimento de suas aplicações em duas áreas principais: redes neurais artificiais e lógica nebulosa. Como as duas técnicas podem ser utilizadas para a resolução da mesma gama de problemas, visando facilitar seu trabalho, construíram um questionário simples (muuuuuuito simples) para ajudá-los na escolha da técnica a ser utilizada. A Relação 1 deverá receber as respostas fornecidas pelos clientes, que é qual a informação disponível para o desenvolvimento. A tabela idealizada por vocês, que leva em consideração algumas características destas técnicas, encontra-se na Relação 2. | https://github.com/lucascardosoroscoe/Ex.-AI-L-gica-Fuzzy | 1 | 0| 
 | 20210426T23:27:01Z | Null | https://github.com/raafatfeki/cosc6386SymbolicFuzzer | 0 | 0| 
 | 20210426T23:26:53Z | Null | https://github.com/a-rattana/fuzzy-router | 0 | 0| 
@@ -123,8 +125,6 @@
 | 20210426T22:58:23Z | Null | https://github.com/Sht97/fuzzy-waddle | 0 | 0| 
 | 20210426T22:34:42Z | Null | https://github.com/mnurichsan/beasiswa-fuzzy | 0 | 0| 
 | 20210426T22:26:22Z | Transfer AFL files over a mesh to fuzz across multiple servers | https://github.com/maride/afl-transmit | 0 | 0| 
-| 20210426T22:05:01Z | Null | https://github.com/paul-gomes/Neuro-Fuzzy-System | 0 | 0| 
-| 20210426T21:46:15Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 3483 | 808| 
 
 
 
