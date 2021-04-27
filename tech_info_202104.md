@@ -85,8 +85,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210427T01:14:12Z | 2021hvv漏洞exp | https://github.com/smallpiggy/2021HVV-exploit | 4 | 1| 
 | 20210427T01:09:21Z | A collection of scripts I%ve written, including automation, enumeration, exploitation, etc. | https://github.com/jessisec/scripts | 0 | 0| 
-| 20210427T01:06:05Z | 2021hvv漏洞exp | https://github.com/smallpiggy/2021HVV-exploit | 4 | 1| 
 | 20210427T01:02:40Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 22 | 9| 
 | 20210427T00:50:56Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 15 | 10| 
 | 20210427T00:50:40Z | Null | https://github.com/Raxxers/Exploit | 0 | 0| 
@@ -115,6 +115,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210427T01:13:18Z | php fuzzer | https://github.com/HGUfuzzing/php-fuzzer | 0 | 0| 
 | 20210427T01:03:46Z | Null | https://github.com/arfan21/fuzzy-logic | 0 | 1| 
 | 20210427T00:37:48Z | Scalable fuzzing infrastructure. | https://github.com/google/clusterfuzz | 4491 | 434| 
 | 20210427T00:12:14Z | Software for fuzzing, used on web application pentestings. | https://github.com/NESCAU-UFLA/FuzzingTool | 61 | 11| 
@@ -124,7 +125,6 @@
 | 20210426T23:26:13Z | A fork of Netflix dial-reference to demonstrate Travis CI integration for fuzz testing with Mayhem by ForAllSecure, Inc. | https://github.com/ForAllSecure/Mayhem-with-TravisCI-netflix-dial-example | 0 | 0| 
 | 20210426T22:58:23Z | Null | https://github.com/Sht97/fuzzy-waddle | 0 | 0| 
 | 20210426T22:34:42Z | Null | https://github.com/mnurichsan/beasiswa-fuzzy | 0 | 0| 
-| 20210426T22:26:22Z | Transfer AFL files over a mesh to fuzz across multiple servers | https://github.com/maride/afl-transmit | 0 | 0| 
 
 
 
