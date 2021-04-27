@@ -85,6 +85,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210427T01:29:03Z | viiper Exploit website | https://github.com/ThatsMyMute/viiper.xyz | 0 | 0| 
 | 20210427T01:14:12Z | 2021hvv漏洞exp | https://github.com/smallpiggy/2021HVV-exploit | 4 | 1| 
 | 20210427T01:09:21Z | A collection of scripts I%ve written, including automation, enumeration, exploitation, etc. | https://github.com/jessisec/scripts | 0 | 0| 
 | 20210427T01:02:40Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 22 | 9| 
@@ -94,7 +95,6 @@
 | 20210427T00:27:03Z | writeups for binary exploitation challenges | https://github.com/Bex-WriteUp/binary-exploitation | 0 | 0| 
 | 20210427T00:12:19Z | Maian Cart 3.8 preauth RCE exploit | https://github.com/DreyAnd/maian-cart-rce | 0 | 0| 
 | 20210427T00:05:05Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9332 | 1509| 
-| 20210426T23:15:44Z | SAFETY IN NUMBERS ( S.I.N. ) A collective of people capable of becoming Catalyst community advisors but are motivated to be part of a project themselves. The team is formed by members with complementary talents and skills. Working as a unity in creating dapps and value added services makes it possible for every member to fully exploit their talents while being helped in dealing with their weaknesses. Our collective will not only advise and assess, but will also leave room to plan and execute personal projects as members & pools. The organisation of the collective in the below programs is constructed to ensure maximum synergies in between the different Programs while maximising cross-selling Collaboration as a collective also ensures cost cutting through scaling efficiencies and more effective and lower costs of combined marketing | https://github.com/Janjaweed/S-I-N | 0 | 0| 
 
 
 # backdoor on Github 推荐
