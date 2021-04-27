@@ -115,16 +115,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210426T12:49:40Z | Null | https://github.com/mzakibhr/Fuzzy_Logic | 0 | 0| 
-| 20210426T12:49:22Z | Setup scripts for 32bit JavaScriptCore Fuzzing Setup | https://github.com/pmatos/jsc32-fuzz-setup | 0 | 0| 
-| 20210426T12:47:03Z | Null | https://github.com/IsSabuhi/Laba-2-The-fuzzy-set | 0 | 0| 
-| 20210426T12:45:29Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2317 | 126| 
-| 20210426T12:38:47Z | VSCode extension for managing miscellaneous bookmarks. | https://github.com/atEaE/fuzzy-bookmarks | 0 | 0| 
-| 20210426T12:37:54Z | Coverage-guided, in-process fuzzing for the JVM | https://github.com/CodeIntelligenceTesting/jazzer | 281 | 16| 
-| 20210426T12:21:46Z | Some small fuzz-interesting GBAs along with compile tools | https://github.com/mahaloz/small-gbas | 1 | 0| 
-| 20210426T12:01:48Z | Null | https://github.com/s9varesc/url-fuzzing | 1 | 1| 
-| 20210426T11:51:59Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 3483 | 805| 
-| 20210426T11:49:10Z | Fuzzing cryptographic libraries. Magic bug printer go brrrr. | https://github.com/guidovranken/cryptofuzz | 272 | 37| 
+| 20210427T00:02:12Z | Software for fuzzing, used on web application pentestings. | https://github.com/NESCAU-UFLA/FuzzingTool | 61 | 11| 
+| 20210426T23:47:32Z | Crie um programa, em qualquer linguagem, que resolva o problema abaixo: Aproveitando as novas tendências do mercado, você e mais um colega resolveram montar uma empresa para desenvolver sistemas utilizando inteligência artificial. Como este é um campo muito amplo, vocês limitaram o desenvolvimento de suas aplicações em duas áreas principais: redes neurais artificiais e lógica nebulosa. Como as duas técnicas podem ser utilizadas para a resolução da mesma gama de problemas, visando facilitar seu trabalho, construíram um questionário simples (muuuuuuito simples) para ajudá-los na escolha da técnica a ser utilizada. A Relação 1 deverá receber as respostas fornecidas pelos clientes, que é qual a informação disponível para o desenvolvimento. A tabela idealizada por vocês, que leva em consideração algumas características destas técnicas, encontra-se na Relação 2. | https://github.com/lucascardosoroscoe/Ex.-AI-L-gica-Fuzzy | 1 | 0| 
+| 20210426T23:27:01Z | Null | https://github.com/raafatfeki/cosc6386SymbolicFuzzer | 0 | 0| 
+| 20210426T23:26:53Z | Null | https://github.com/a-rattana/fuzzy-router | 0 | 0| 
+| 20210426T23:26:13Z | A fork of Netflix dial-reference to demonstrate Travis CI integration for fuzz testing with Mayhem by ForAllSecure, Inc. | https://github.com/ForAllSecure/Mayhem-with-TravisCI-netflix-dial-example | 0 | 0| 
+| 20210426T22:58:23Z | Null | https://github.com/Sht97/fuzzy-waddle | 0 | 0| 
+| 20210426T22:34:42Z | Null | https://github.com/mnurichsan/beasiswa-fuzzy | 0 | 0| 
+| 20210426T22:26:22Z | Transfer AFL files over a mesh to fuzz across multiple servers | https://github.com/maride/afl-transmit | 0 | 0| 
+| 20210426T22:05:01Z | Null | https://github.com/paul-gomes/Neuro-Fuzzy-System | 0 | 0| 
+| 20210426T21:46:15Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 3483 | 808| 
 
 
 
