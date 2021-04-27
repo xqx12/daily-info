@@ -71,9 +71,9 @@
 | 20210426T21:57:17Z | Educational web application demonstrating techniques of binary exploitation (Front-end) | https://github.com/Pen-Test3rs/binary_exploits_frontend | 0 | 0| 
 | 20210426T21:42:57Z | Parmap is a minimalistic library allowing to exploit multicore architecture for OCaml programs with minimal modifications. | https://github.com/rdicosmo/parmap | 80 | 17| 
 | 20210426T21:39:59Z | my https://exploit.education/ writeups | https://github.com/amirr0r/exploit-exercises | 0 | 0| 
-| 20210426T21:35:13Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9331 | 1509| 
 | 20210426T20:37:13Z | Powerful payload generation and shellcode injection tool that provides support for common platforms and architectures. | https://github.com/EntySec/HatVenom | 6 | 1| 
 | 20210426T19:58:22Z | Desktop application mixed with database allowing to allocate patients in a clinic rooms with the goal of avoiding health-based conficts between them and exploiting user authorization to granting access and organise the clinic. Project being meant as a base for mine and my team%s future Engineer%s Thesis. | https://github.com/Too55/pz_project | 1 | 0| 
+| 20210426T19:29:55Z | this code have copyright, only for educational purposes | https://github.com/ShitpostMDX/WPF-Roblox-Exploit | 0 | 0| 
 
 
 # backdoor on Github 推荐
