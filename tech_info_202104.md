@@ -53,7 +53,7 @@
 | 20210426T15:28:51Z | CVE-2021-25735 | Exploit CVE-2021-25735: Kubernetes Validating Admission Webhook Bypass | https://github.com/darryk10/CVE-2021-25735 | 未查询到CVE信息| 
 | 20210426T14:00:59Z | CVE-2020-15808 | A proof of concept of CVE-2020-15808 vulnerability exploit on STM32F4 Discovery board | https://github.com/manucuf/CVE202015808 | 未查询到CVE信息| 
 | 20210426T11:04:48Z | CVE-2021-26415 | All files needed to reproduce PoC for CVE-2021-26415: https://www.cloaked.pl/2021/04/cve-2021-26415/ | https://github.com/adenkiewicz/CVE-2021-26415 | Windows Installer Elevation of Privilege Vulnerability This CVE ID is unique from CVE-2021-28440.| 
-| 20210426T10:43:20Z | CVE-2021-22192 | CVE-2021-22192 靶场： 未授权用户 RCE 漏洞 | https://github.com/lyy289065406/CVE-2021-22192 | An issue has been discovered in GitLab CE/EE affecting all versions starting from 13.2 allowing unauthorized authenticated users to execute arbitrary code on the server.| 
+| 20210426T10:43:20Z | CVE-2021-22192 | CVE-2021-22192 靶场： 未授权用户 RCE 漏洞 | https://github.com/lyy289065406/CVE-2021-22192 | | 
 | 20210426T01:02:54Z | CVE-2020-27199 | CVE-2020-27199 | https://github.com/9lyph/CVE-2020-27199 | The Magic Home Pro application 1.5.1 for Android allows Authentication Bypass. The security control that the application currently has in place is a simple Username and Password authentication function. Using enumeration, an attacker is able to forge a User specific token without the need for correct password to gain access to the mobile application as that victim user.| 
 | 20210425T15:12:48Z | CVE-2021-1732 | Read my  blog for more info -  | https://github.com/exploitblizzard/Windows-Privilege-Escalation-CVE-2021-1732 | Windows Win32k Elevation of Privilege Vulnerability This CVE ID is unique from CVE-2021-1698.| 
 
@@ -85,6 +85,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210427T01:56:29Z | macos/ios exploit writeup | https://github.com/houjingyi233/macOS-iOS-system-security | 99 | 10| 
 | 20210427T01:40:41Z | Infinite Yield ID2 is a %port% of the popular exploit script Infinite Yield for normal Roblox game scripts (Identity 2) | https://github.com/Nextrixcs/infinite-yield-id2 | 0 | 0| 
 | 20210427T01:29:03Z | viiper Exploit website | https://github.com/ThatsMyMute/viiper.xyz | 0 | 0| 
 | 20210427T01:14:12Z | 2021hvv漏洞exp | https://github.com/smallpiggy/2021HVV-exploit | 4 | 1| 
@@ -94,7 +95,6 @@
 | 20210427T00:50:40Z | Null | https://github.com/Raxxers/Exploit | 0 | 0| 
 | 20210427T00:35:13Z | Null | https://github.com/Raxxers/Exploit-Scripts | 1 | 0| 
 | 20210427T00:27:03Z | writeups for binary exploitation challenges | https://github.com/Bex-WriteUp/binary-exploitation | 0 | 0| 
-| 20210427T00:12:19Z | Maian Cart 3.8 preauth RCE exploit | https://github.com/DreyAnd/maian-cart-rce | 0 | 0| 
 
 
 # backdoor on Github 推荐
