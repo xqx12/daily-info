@@ -55,7 +55,7 @@
 | 20210426T11:04:48Z | CVE-2021-26415 | All files needed to reproduce PoC for CVE-2021-26415: https://www.cloaked.pl/2021/04/cve-2021-26415/ | https://github.com/adenkiewicz/CVE-2021-26415 | Windows Installer Elevation of Privilege Vulnerability This CVE ID is unique from CVE-2021-28440.| 
 | 20210426T10:43:20Z | CVE-2021-22192 | CVE-2021-22192 靶场： 未授权用户 RCE 漏洞 | https://github.com/lyy289065406/CVE-2021-22192 | An issue has been discovered in GitLab CE/EE affecting all versions starting from 13.2 allowing unauthorized authenticated users to execute arbitrary code on the server.| 
 | 20210426T01:02:54Z | CVE-2020-27199 | CVE-2020-27199 | https://github.com/9lyph/CVE-2020-27199 | The Magic Home Pro application 1.5.1 for Android allows Authentication Bypass. The security control that the application currently has in place is a simple Username and Password authentication function. Using enumeration, an attacker is able to forge a User specific token without the need for correct password to gain access to the mobile application as that victim user.| 
-| 20210425T15:12:48Z | CVE-2021-1732 | Read my  blog for more info -  | https://github.com/exploitblizzard/Windows-Privilege-Escalation-CVE-2021-1732 | | 
+| 20210425T15:12:48Z | CVE-2021-1732 | Read my  blog for more info -  | https://github.com/exploitblizzard/Windows-Privilege-Escalation-CVE-2021-1732 | Windows Win32k Elevation of Privilege Vulnerability This CVE ID is unique from CVE-2021-1698.| 
 
 
 # klee on Github 推荐
@@ -85,7 +85,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210427T00:42:37Z | Null | https://github.com/Raxxers/Exploit | 1 | 0| 
+| 20210427T00:50:40Z | Null | https://github.com/Raxxers/Exploit | 0 | 0| 
 | 20210427T00:37:01Z | A collection of scripts I%ve written, including automation, enumeration, exploitation, etc. | https://github.com/jessisec/scripts | 0 | 0| 
 | 20210427T00:35:13Z | Null | https://github.com/Raxxers/Exploit-Scripts | 1 | 0| 
 | 20210427T00:27:03Z | writeups for binary exploitation challenges | https://github.com/Bex-WriteUp/binary-exploitation | 0 | 0| 
