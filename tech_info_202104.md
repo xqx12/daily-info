@@ -85,7 +85,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210427T01:37:12Z | Infinite Yield ID2 is a %port% of the popular exploit script Infinite Yield for normal Roblox game scripts (Identity 2) | https://github.com/Nextrixcs/infinite-yield-id2 | 0 | 0| 
+| 20210427T01:39:01Z | Infinite Yield ID2 is a %port% of the popular exploit script Infinite Yield for normal Roblox game scripts (Identity 2) | https://github.com/Nextrixcs/infinite-yield-id2 | 0 | 0| 
 | 20210427T01:29:03Z | viiper Exploit website | https://github.com/ThatsMyMute/viiper.xyz | 0 | 0| 
 | 20210427T01:14:12Z | 2021hvv漏洞exp | https://github.com/smallpiggy/2021HVV-exploit | 4 | 1| 
 | 20210427T01:09:21Z | A collection of scripts I%ve written, including automation, enumeration, exploitation, etc. | https://github.com/jessisec/scripts | 0 | 0| 
@@ -100,6 +100,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210427T01:39:33Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 226 | 38| 
 | 20210427T01:38:52Z | Null | https://github.com/FelipeDosAnjos/HarpiaBackdoor | 0 | 0| 
 | 20210427T01:35:13Z | Shell Backdoor. Credits to ph.luffy | https://github.com/PhenaxGod/Shell-Backdoor | 0 | 0| 
 | 20210427T00:54:10Z | Arsnick is a Python IRC Bot/Backdoor written in Python | https://github.com/netzwerk/Arsnick | 0 | 0| 
@@ -109,7 +110,6 @@
 | 20210426T16:34:39Z | Dashboard for conducting Backdoors and Breaches sessions over Zoom. | https://github.com/p3hndrx/B-B-Shuffle | 37 | 2| 
 | 20210426T15:45:40Z | PCI Express DIY hacking toolkit for Xilinx SP605 | https://github.com/Cr4sh/s6_pcie_microblaze | 319 | 79| 
 | 20210426T15:17:10Z | Web Shell Backdoors Collection | https://github.com/PhenaxGod/Web-Shell-Backdoors | 0 | 0| 
-| 20210426T14:39:48Z | Android Payload in Kali Linux | https://github.com/Aravinddotcom/Testing-Android-Payload-BackDoor | 0 | 0| 
 
 
 # fuzz on Github 推荐
