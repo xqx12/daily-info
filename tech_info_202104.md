@@ -6,6 +6,14 @@
 # 玄武实验室 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20210427 | Alive2: Bounded Translation Validation for LLVM | http://www.cs.utah.edu/~regehr/alive2-pldi21.pdf| 
+| 20210427 | Singular Security Lab 公开的 PPT。 | https://github.com/singularseclab/Slides| 
+| 20210427 | 深入了解 QEMU 的工作原理，例如添加设备、中断、计时器等。 | https://airbus-seclab.github.io/qemu_blog/| 
+| 20210427 | CVE-2021–28482（Microsoft Exchange Server 远程代码执行漏洞）的分析。 | https://testbnull.medium.com/microsoft-exchange-from-deserialization-to-post-auth-rce-cve-2021-28482-e713001d915f| 
+| 20210427 | 利用 Windows 内置的工具进行横向渗透扫描。 | https://posts.slayerlabs.com/living-off-the-land/| 
+| 20210427 | Wireshark 解密 RDP 流量的教程。 | https://unit42.paloaltonetworks.com/wireshark-tutorial-decrypting-rdp-traffic/| 
+| 20210427 | CVE-2021-30657：由于 macOS 安全验证存在逻辑缺陷，未经签名和公证（Notarizing）的脚本或程序可以避开安全机制的检查。 | https://objective-see.com/blog/blog_0x64.html| 
+| 20210427 | 苹果发布 iOS 14.5 和 macOS Big Sur 11.3 版本，修复多个高危漏洞，包括玄武实验室 Zhipeng Huo 和 Yuebin Sun 发现的3个漏洞。 | https://support.apple.com/zh-cn/HT212317| 
 | 20210426 | 分析 TapJacking 攻击和缓解这类攻击的方法。 | https://valsamaras.medium.com/tapjacking-attacks-a-thorough-guide-last-part-3-f19614314b7| 
 | 20210426 | Reverse Shell 杂谈。 | https://evilpan.com/2021/04/25/reverse-shell/| 
 | 20210426 | Hacking GraphQL 第二部分，讲解 GraphQL 的常见错误和测试 GraphQL 的流程。 | https://infosecwriteups.com/hacking-graphql-for-fun-and-profit-part-2-methodology-and-examples-5992093bcc24?gi=9d859f6256b| 
@@ -18,14 +26,6 @@
 | 20210426 | SSH端口嗅探方法与防御措施。 | https://www.infosecmatter.com/ssh-sniffing-ssh-spying-methods-and-defense/| 
 | 20210425 | 面向多功能打印机的渗透测试。 | https://syscall.eu/pdf/INFILTRATE2020-RIGO-Xerox-final.pdf| 
 | 20210425 | 通过蓝牙触发 WLAN RAM Sharing 的代码执行漏洞。 | https://naehrdine.blogspot.com/2021/04/bluetooth-wi-fi-code-execution-wi-fi.html| 
-| 20210425 | S3 Account Search：通过公开的 S3 存储桶寻找 AWS 账户 ID。 | https://github.com/WeAreCloudar/s3-account-search| 
-| 20210425 | Parallels Desktop 的虚拟机逃逸。 | https://zerodayengineering.com/blog/dont-share-your-home.html| 
-| 20210425 | 绕过 Duo 双重身份验证。 | https://sensepost.com/blog/2021/duo-two-factor-authentication-bypass/| 
-| 20210425 | 在 Android 上利用 Linux 内核的尝试。 | https://mcyoloswagham.github.io/linux/| 
-| 20210425 | 暴露在公网的 Pulse Connect Secure 版本和受漏洞影响的统计。 | https://research.nccgroup.com/2021/04/23/a-census-of-deployed-pulse-connect-secure-pcs-versions/| 
-| 20210425 | Clickstudios 的 PASSWORDSTATE（密码管理器）被发现供应链攻击行为。 | https://www.csis.dk/newsroom-blog-overview/2021/moserpass-supply-chain/| 
-| 20210425 | 剖析 CVE-2021-1732 内核提权漏洞。 | https://www.yuque.com/posec/public/qvzr6g| 
-| 20210425 | Spilling Local Files via XXE when HTTP OOB fails. | https://sec.today/pulses/53b311c7-b346-44e1-8730-c5a58605d314/| 
 
 
 # 安全维基 推荐
@@ -46,21 +46,23 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20210426T23:33:07Z | CVE-2021-26868 | Null | https://github.com/mavillon/CVE-2021-26868 | Windows Graphics Component Elevation of Privilege Vulnerability| 
+| 20210427T12:00:19Z | CVE-2021-31221 | Indicator of Compromise Scanner for CVE-2021-31221  | https://github.com/fireaye/ioc-scanner-CVE-2021-31221 | 未查询到CVE信息| 
+| 20210427T11:53:06Z | CVE-2021-26868 | Null | https://github.com/mavillon/CVE-2021-26868 | Windows Graphics Component Elevation of Privilege Vulnerability| 
+| 20210427T10:33:39Z | CVE-2021-3291 | rebuild cve | https://github.com/ImHades101/CVE-2021-3291 | Zen Cart 1.5.7b allows admins to execute arbitrary OS commands by inspecting an HTML radio input element (within the modules edit page) and inserting a command.| 
+| 20210427T09:10:33Z | CVE-2021-22192 | CVE-2021-22192 靶场： 未授权用户 RCE 漏洞 | https://github.com/lyy289065406/CVE-2021-22192 | An issue has been discovered in GitLab CE/EE affecting all versions starting from 13.2 allowing unauthorized authenticated users to execute arbitrary code on the server.| 
+| 20210427T08:09:49Z | CVE-2021-1732 | Read my  blog for more info -  | https://github.com/exploitblizzard/Windows-Privilege-Escalation-CVE-2021-1732 | Windows Win32k Elevation of Privilege Vulnerability This CVE ID is unique from CVE-2021-1698.| 
+| 20210427T03:31:23Z | cve-2021-3449 | CVE-2021-3449 OpenSSL denial-of-service exploit 👨🏻‍💻 | https://github.com/terorie/cve-2021-3449 | An OpenSSL TLS server may crash if sent a maliciously crafted renegotiation ClientHello message from a client. If a TLSv1.2 renegotiation ClientHello omits the signature_algorithms extension (where it was present in the initial ClientHello), but includes a signature_algorithms_cert extension then a NULL pointer dereference will result, leading to a crash and a denial of service attack. A server is only vulnerable if it has TLSv1.2 and renegotiation enabled (which is the default configuration). OpenSSL TLS clients are not impacted by this issue. All OpenSSL 1.1.1 versions are affected by this issue. Users of these versions should upgrade to OpenSSL 1.1.1k. OpenSSL 1.0.2 is not impacted by this issue. Fixed in OpenSSL 1.1.1k (Affected 1.1.1-1.1.1j).| 
+| 20210427T03:23:26Z | cve-2021-11123 | 测试用的 | https://github.com/chenanu123/cve-2021-11123 | 未查询到CVE信息| 
 | 20210426T19:19:33Z | CVE-2021-1732 | CVE-2021-1732 poc & exp; tested on 20H2 | https://github.com/Pai-Po/CVE-2021-1732 | Windows Win32k Elevation of Privilege Vulnerability This CVE ID is unique from CVE-2021-1698.| 
-| 20210426T18:21:45Z | cve-2021-3449 | CVE-2021-3449 OpenSSL denial-of-service exploit 👨🏻‍💻 | https://github.com/terorie/cve-2021-3449 | An OpenSSL TLS server may crash if sent a maliciously crafted renegotiation ClientHello message from a client. If a TLSv1.2 renegotiation ClientHello omits the signature_algorithms extension (where it was present in the initial ClientHello), but includes a signature_algorithms_cert extension then a NULL pointer dereference will result, leading to a crash and a denial of service attack. A server is only vulnerable if it has TLSv1.2 and renegotiation enabled (which is the default configuration). OpenSSL TLS clients are not impacted by this issue. All OpenSSL 1.1.1 versions are affected by this issue. Users of these versions should upgrade to OpenSSL 1.1.1k. OpenSSL 1.0.2 is not impacted by this issue. Fixed in OpenSSL 1.1.1k (Affected 1.1.1-1.1.1j).| 
 | 20210426T17:00:43Z | CVE-2021-28480 | PoC for exploiting RCE in Exchange CVEs: CVE-2021-28480, CVE-2021-28481, CVE-2021-28482 and CVE-2021-28483.  Achieves Domain Admin on Exchange Servers running Windows Server 2003 up to Windows Server 2019. | https://github.com/ZephrFish/ExchangeRCE-CVE-2021-28480 | Microsoft Exchange Server Remote Code Execution Vulnerability This CVE ID is unique from CVE-2021-28481, CVE-2021-28482, CVE-2021-28483.| 
 | 20210426T15:28:51Z | CVE-2021-25735 | Exploit CVE-2021-25735: Kubernetes Validating Admission Webhook Bypass | https://github.com/darryk10/CVE-2021-25735 | 未查询到CVE信息| 
-| 20210426T14:00:59Z | CVE-2020-15808 | A proof of concept of CVE-2020-15808 vulnerability exploit on STM32F4 Discovery board | https://github.com/manucuf/CVE202015808 | 未查询到CVE信息| 
-| 20210426T11:04:48Z | CVE-2021-26415 | All files needed to reproduce PoC for CVE-2021-26415: https://www.cloaked.pl/2021/04/cve-2021-26415/ | https://github.com/adenkiewicz/CVE-2021-26415 | Windows Installer Elevation of Privilege Vulnerability This CVE ID is unique from CVE-2021-28440.| 
-| 20210426T10:43:20Z | CVE-2021-22192 | CVE-2021-22192 靶场： 未授权用户 RCE 漏洞 | https://github.com/lyy289065406/CVE-2021-22192 | An issue has been discovered in GitLab CE/EE affecting all versions starting from 13.2 allowing unauthorized authenticated users to execute arbitrary code on the server.| 
-| 20210426T01:02:54Z | CVE-2020-27199 | CVE-2020-27199 | https://github.com/9lyph/CVE-2020-27199 | The Magic Home Pro application 1.5.1 for Android allows Authentication Bypass. The security control that the application currently has in place is a simple Username and Password authentication function. Using enumeration, an attacker is able to forge a User specific token without the need for correct password to gain access to the mobile application as that victim user.| 
-| 20210425T15:12:48Z | CVE-2021-1732 | Read my  blog for more info -  | https://github.com/exploitblizzard/Windows-Privilege-Escalation-CVE-2021-1732 | Windows Win32k Elevation of Privilege Vulnerability This CVE ID is unique from CVE-2021-1698.| 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210427T11:17:31Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 的 Klee One 的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 417 | 10| 
+| 20210427T05:58:08Z | Symbiotic is a tool for finding bugs in computer programs based on instrumentation, program slicing and KLEE | https://github.com/staticafi/symbiotic | 215 | 35| 
 | 20210426T20:25:17Z | RVT is a collection of tools/libraries to support both static and dynamic verification of Rust programs. | https://github.com/project-oak/rust-verification-tools | 126 | 12| 
 | 20210426T18:28:52Z | Personal Blog | https://github.com/klee1611/klee1611.github.io | 0 | 0| 
 | 20210426T14:52:21Z | Whole Program LLVM: wllvm ported to go | https://github.com/SRI-CSL/gllvm | 128 | 21| 
@@ -68,9 +70,7 @@
 | 20210426T06:50:04Z | An opiniated Next TypeScript powered starter which include Klee, emotion / styled-system, framer motion, jest and Cypress | https://github.com/Liinkiing/next-ts-klee-starter | 0 | 0| 
 | 20210426T06:48:09Z | A personnal UI library made as an excuse to have a published UI package | https://github.com/Liinkiing/klee | 8 | 1| 
 | 20210426T06:11:25Z | Null | https://github.com/coffeemore6/SAD-Kleejung | 0 | 0| 
-| 20210426T04:14:30Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 的 Klee One 的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 397 | 9| 
 | 20210425T21:12:48Z | Spring 2021 Geography 817 work folder  | https://github.com/klee12/klee12.github.io | 1 | 0| 
-| 20210425T05:57:52Z | 99484C Worlds Code | https://github.com/Jython1415/penguin-Klee | 1 | 0| 
 
 
 # s2e on Github 推荐
@@ -85,16 +85,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210427T01:56:29Z | macos/ios exploit writeup | https://github.com/houjingyi233/macOS-iOS-system-security | 99 | 10| 
-| 20210427T01:40:41Z | Infinite Yield ID2 is a %port% of the popular exploit script Infinite Yield for normal Roblox game scripts (Identity 2) | https://github.com/Nextrixcs/infinite-yield-id2 | 0 | 0| 
-| 20210427T01:29:03Z | viiper Exploit website | https://github.com/ThatsMyMute/viiper.xyz | 0 | 0| 
-| 20210427T01:14:12Z | 2021hvv漏洞exp | https://github.com/smallpiggy/2021HVV-exploit | 4 | 1| 
-| 20210427T01:09:21Z | A collection of scripts I%ve written, including automation, enumeration, exploitation, etc. | https://github.com/jessisec/scripts | 0 | 0| 
-| 20210427T01:02:40Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 22 | 9| 
-| 20210427T00:50:56Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 15 | 10| 
-| 20210427T00:50:40Z | Null | https://github.com/Raxxers/Exploit | 0 | 0| 
-| 20210427T00:35:13Z | Null | https://github.com/Raxxers/Exploit-Scripts | 1 | 0| 
-| 20210427T00:27:03Z | writeups for binary exploitation challenges | https://github.com/Bex-WriteUp/binary-exploitation | 0 | 0| 
+| 20210427T11:58:22Z | Null | https://github.com/Username132131231/exploit | 0 | 0| 
+| 20210427T11:45:12Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 3609 | 531| 
+| 20210427T11:08:13Z | Null | https://github.com/xw103/DepthExploit | 0 | 0| 
+| 20210427T11:08:09Z | Thi powershell script has got to run in remote windows host, even for pivoting | https://github.com/FabioDefilippo/winallenum | 2 | 1| 
+| 20210427T11:02:39Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 22 | 9| 
+| 20210427T11:00:21Z | 在科研（摸鱼）过程中，收集到的或者自己写的一些有用的（经过实战检验的）exp/poc，欢迎提交issue和PR | https://github.com/ycdxsb/Exploits | 2 | 0| 
+| 20210427T10:56:21Z | Shellcode_IA32 is a dataset consisting of challenging but common assembly instructions, collected from real shellcodes, with their natural language descriptions. The dataset can be used for neural machine translation tasks to automatically generate software exploits from natural language. | https://github.com/dessertlab/Shellcode_IA32 | 0 | 0| 
+| 20210427T10:26:58Z | LFI Exploitation tool  | https://github.com/krishpranav/lfi-exploiter | 0 | 0| 
+| 20210427T10:07:12Z | macos/ios exploit writeup | https://github.com/houjingyi233/macOS-iOS-system-security | 99 | 10| 
+| 20210427T09:51:56Z | A Gaussian Process package to train and exploit Gaussian Process models | https://github.com/ShuaiGuo16/Gaussian-Process-Package | 0 | 0| 
 
 
 # backdoor on Github 推荐
