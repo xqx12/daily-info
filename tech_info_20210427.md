@@ -82,16 +82,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210427T12:47:37Z | very advanced (web) fuzzer | https://github.com/d4rckh/vaf | 0 | 0| 
+| 20210427T12:57:57Z | Null | https://github.com/SuryaSD/Finding-Similar-Types-of-Names-Fuzzy-Search | 0 | 0| 
+| 20210427T12:56:12Z | very advanced (web) fuzzer | https://github.com/d4rckh/vaf | 0 | 0| 
+| 20210427T12:54:50Z | Simple CI program for running fuzzing over TezEdge. | https://github.com/tezedge/fuzzing-ci | 0 | 0| 
+| 20210427T12:54:30Z | Null | https://github.com/jeffeuxMartin/fuzzy-rotary-phone | 0 | 0| 
+| 20210427T12:52:06Z | Parameter fuzzer for finding hidden parameters and SSRF. Useful for bug bounty or external pentest. | https://github.com/redfr0g/ssrfuzzer | 0 | 0| 
 | 20210427T12:43:16Z | node.js implementation of a web fuzzer | https://github.com/aJesus37/njFuzz | 0 | 0| 
 | 20210427T12:21:54Z | Fuzzy matching for Neovim | https://github.com/amirrezaask/fuzzy.nvim | 37 | 1| 
 | 20210427T12:13:47Z | This is a Fuzzer library built in JS and nodeJS | https://github.com/fuzzing-unb/FuzzerJS | 0 | 0| 
-| 20210427T12:09:32Z | Null | https://github.com/SuryaSD/Finding-Similar-Types-of-Names-Fuzzy-Search | 0 | 0| 
 | 20210427T12:00:58Z | Ev description  | https://github.com/muz4151/fuzzy-succotash | 0 | 0| 
 | 20210427T11:55:52Z | 渗透测试路径字典，爆破字典。内容来自互联网和实战积累。 | https://github.com/cpkkcb/fuzzDicts | 65 | 38| 
-| 20210427T11:54:46Z | Fuzzing cryptographic libraries. Magic bug printer go brrrr. | https://github.com/guidovranken/cryptofuzz | 272 | 37| 
-| 20210427T11:47:10Z | Null | https://github.com/HighlApp/spark-fuzzy | 0 | 0| 
-| 20210427T11:40:05Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6233 | 1259| 
 
 
 
