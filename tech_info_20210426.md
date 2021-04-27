@@ -32,7 +32,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20210426T23:33:07Z | CVE-2021-26868 | Null | https://github.com/mavillon/CVE-2021-26868 | | 
+| 20210426T23:33:07Z | CVE-2021-26868 | Null | https://github.com/mavillon/CVE-2021-26868 | Windows Graphics Component Elevation of Privilege Vulnerability| 
 | 20210426T19:19:33Z | CVE-2021-1732 | CVE-2021-1732 poc & exp; tested on 20H2 | https://github.com/Pai-Po/CVE-2021-1732 | Windows Win32k Elevation of Privilege Vulnerability This CVE ID is unique from CVE-2021-1698.| 
 | 20210426T18:21:45Z | cve-2021-3449 | CVE-2021-3449 OpenSSL denial-of-service exploit 👨🏻‍💻 | https://github.com/terorie/cve-2021-3449 | An OpenSSL TLS server may crash if sent a maliciously crafted renegotiation ClientHello message from a client. If a TLSv1.2 renegotiation ClientHello omits the signature_algorithms extension (where it was present in the initial ClientHello), but includes a signature_algorithms_cert extension then a NULL pointer dereference will result, leading to a crash and a denial of service attack. A server is only vulnerable if it has TLSv1.2 and renegotiation enabled (which is the default configuration). OpenSSL TLS clients are not impacted by this issue. All OpenSSL 1.1.1 versions are affected by this issue. Users of these versions should upgrade to OpenSSL 1.1.1k. OpenSSL 1.0.2 is not impacted by this issue. Fixed in OpenSSL 1.1.1k (Affected 1.1.1-1.1.1j).| 
 | 20210426T17:00:43Z | CVE-2021-28480 | PoC for exploiting RCE in Exchange CVEs: CVE-2021-28480, CVE-2021-28481, CVE-2021-28482 and CVE-2021-28483.  Achieves Domain Admin on Exchange Servers running Windows Server 2003 up to Windows Server 2019. | https://github.com/ZephrFish/ExchangeRCE-CVE-2021-28480 | Microsoft Exchange Server Remote Code Execution Vulnerability This CVE ID is unique from CVE-2021-28481, CVE-2021-28482, CVE-2021-28483.| 
@@ -86,9 +86,9 @@
 | 20210426T15:45:40Z | PCI Express DIY hacking toolkit for Xilinx SP605 | https://github.com/Cr4sh/s6_pcie_microblaze | 319 | 79| 
 | 20210426T15:17:10Z | Web Shell Backdoors Collection | https://github.com/PhenaxGod/Web-Shell-Backdoors | 0 | 0| 
 | 20210426T14:39:48Z | Android Payload in Kali Linux | https://github.com/Aravinddotcom/Testing-Android-Payload-BackDoor | 0 | 0| 
-| 20210426T12:10:10Z | Shell Backdoor. Credits to ph.luffy | https://github.com/PhenaxGod/Shell-Backdoor | 0 | 0| 
 | 20210426T11:50:02Z | A self-spreading parasitic, polymorphic internet-worm for the netBIOS backdoor | https://github.com/timo-cmd2/Win32.ThermalStorm | 1 | 0| 
 | 20210426T10:14:59Z | Sample Blockchain Smart Contract Backdoor | https://github.com/MAYASEVEN/Sample-Blockchain-Smart-Contract-Backdoor | 0 | 0| 
+| 20210426T06:21:03Z | It is a backdoor which consists of a server and a Client  | https://github.com/snowdox/OffensiveSecurity | 0 | 0| 
 
 
 # fuzz on Github 推荐
