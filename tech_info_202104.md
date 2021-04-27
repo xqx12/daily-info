@@ -85,7 +85,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210427T01:39:01Z | Infinite Yield ID2 is a %port% of the popular exploit script Infinite Yield for normal Roblox game scripts (Identity 2) | https://github.com/Nextrixcs/infinite-yield-id2 | 0 | 0| 
+| 20210427T01:40:41Z | Infinite Yield ID2 is a %port% of the popular exploit script Infinite Yield for normal Roblox game scripts (Identity 2) | https://github.com/Nextrixcs/infinite-yield-id2 | 0 | 0| 
 | 20210427T01:29:03Z | viiper Exploit website | https://github.com/ThatsMyMute/viiper.xyz | 0 | 0| 
 | 20210427T01:14:12Z | 2021hvv漏洞exp | https://github.com/smallpiggy/2021HVV-exploit | 4 | 1| 
 | 20210427T01:09:21Z | A collection of scripts I%ve written, including automation, enumeration, exploitation, etc. | https://github.com/jessisec/scripts | 0 | 0| 
