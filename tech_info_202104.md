@@ -46,8 +46,8 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20210427T12:43:28Z | CVE-2021-26868 | Null | https://github.com/mavillon/CVE-2021-26868 | Windows Graphics Component Elevation of Privilege Vulnerability| 
 | 20210427T12:21:49Z | CVE-2021-31221 | Indicator of Compromise Scanner for CVE-2021-31221  | https://github.com/fireaye/ioc-scanner-CVE-2021-31221 | 未查询到CVE信息| 
-| 20210427T11:53:06Z | CVE-2021-26868 | Null | https://github.com/mavillon/CVE-2021-26868 | Windows Graphics Component Elevation of Privilege Vulnerability| 
 | 20210427T10:33:39Z | CVE-2021-3291 | rebuild cve | https://github.com/ImHades101/CVE-2021-3291 | Zen Cart 1.5.7b allows admins to execute arbitrary OS commands by inspecting an HTML radio input element (within the modules edit page) and inserting a command.| 
 | 20210427T10:14:18Z | 未知编号 | CVE-2021-22192 | https://github.com/PetrusViet/Gitlab-RCE | 未查询到CVE信息| 
 | 20210427T09:10:33Z | CVE-2021-22192 | CVE-2021-22192 靶场： 未授权用户 RCE 漏洞 | https://github.com/lyy289065406/CVE-2021-22192 | An issue has been discovered in GitLab CE/EE affecting all versions starting from 13.2 allowing unauthorized authenticated users to execute arbitrary code on the server.| 
@@ -85,7 +85,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210427T12:39:42Z | Learning shell scripting with a small exploiting tool created for a specific scenario. | https://github.com/iAgonyii/TheUltimateEdulabExploiter | 0 | 0| 
+| 20210427T12:44:10Z | Learning shell scripting with a small exploiting tool created for a specific scenario. | https://github.com/iAgonyii/TheUltimateEdulabExploiter | 0 | 0| 
 | 20210427T12:36:48Z | iblessing is an iOS security exploiting toolkit, it mainly includes application information collection, static analysis and dynamic analysis. It can be used for reverse engineering, binary analysis and vulnerability mining. | https://github.com/Soulghost/iblessing | 344 | 51| 
 | 20210427T12:35:14Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9333 | 1509| 
 | 20210427T12:29:57Z | Forestry Thematic Exploitation Platform | https://github.com/cgi-eoss/ftep | 5 | 0| 
@@ -115,6 +115,8 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210427T12:47:37Z | very advanced (web) fuzzer | https://github.com/d4rckh/vaf | 0 | 0| 
+| 20210427T12:43:16Z | node.js implementation of a web fuzzer | https://github.com/aJesus37/njFuzz | 0 | 0| 
 | 20210427T12:21:54Z | Fuzzy matching for Neovim | https://github.com/amirrezaask/fuzzy.nvim | 37 | 1| 
 | 20210427T12:13:47Z | This is a Fuzzer library built in JS and nodeJS | https://github.com/fuzzing-unb/FuzzerJS | 0 | 0| 
 | 20210427T12:09:32Z | Null | https://github.com/SuryaSD/Finding-Similar-Types-of-Names-Fuzzy-Search | 0 | 0| 
@@ -123,8 +125,6 @@
 | 20210427T11:54:46Z | Fuzzing cryptographic libraries. Magic bug printer go brrrr. | https://github.com/guidovranken/cryptofuzz | 272 | 37| 
 | 20210427T11:47:10Z | Null | https://github.com/HighlApp/spark-fuzzy | 0 | 0| 
 | 20210427T11:40:05Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6233 | 1259| 
-| 20210427T11:37:08Z | Parameter fuzzer for finding hidden parameters and SSRF. Useful for bug bounty or external pentest. | https://github.com/redfr0g/ssrfuzzer | 0 | 0| 
-| 20210427T10:56:02Z | VSCode extension for managing miscellaneous bookmarks. | https://github.com/atEaE/fuzzy-bookmarks | 0 | 0| 
 
 
 
