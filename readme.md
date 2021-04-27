@@ -67,8 +67,8 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210427T12:59:40Z | A token logger for discord + steals Brave/Chrome passwords and usernames , I only made this for fun, so please don%t use it maliciously🙏 | https://github.com/CUPZYY/Backdoor-Machine | 1 | 0| 
 | 20210427T12:34:52Z | Web Shell Backdoors Collection | https://github.com/PhenaxGod/Web-Shell-Backdoors | 0 | 0| 
-| 20210427T10:50:50Z | A token logger for discord + steals Brave/Chrome passwords and usernames , I only made this for fun, so please don%t use it maliciously🙏 | https://github.com/CUPZYY/Backdoor-Machine | 1 | 0| 
 | 20210427T09:33:28Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 227 | 38| 
 | 20210427T09:09:40Z | Null | https://github.com/haehae00/backdoor | 0 | 0| 
 | 20210427T04:30:26Z | Null | https://github.com/FelipeDosAnjos/HarpiaBackdoor | 0 | 0| 
