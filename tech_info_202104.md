@@ -85,6 +85,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210428T01:44:01Z | Android RAT with web panel and undetectable App | https://github.com/Th30neAnd0nly/Ohm | 20 | 8| 
 | 20210428T01:02:43Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 22 | 9| 
 | 20210428T00:59:59Z | go语言编写的一款基于json格式poc的漏洞利用框工具 | https://github.com/CobaltZirs0n/RunExploit | 2 | 0| 
 | 20210428T00:50:56Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 15 | 10| 
@@ -94,7 +95,6 @@
 | 20210427T22:12:22Z | Null | https://github.com/Pasxeegamer/Coinmaster-Exploitzz-v2 | 0 | 0| 
 | 20210427T22:04:10Z | this is a simple python exploition tool with loads more! | https://github.com/buffkermitisagod/router-sploit | 1 | 0| 
 | 20210427T21:54:02Z | Fix exploits on anarchy minecraft servers | https://github.com/moom0o/AnarchyExploitFixes | 30 | 6| 
-| 20210427T21:49:37Z | Null | https://github.com/WhoTippedMyCows/SoftwareExploitation | 0 | 0| 
 
 
 # backdoor on Github 推荐
