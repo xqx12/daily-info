@@ -100,31 +100,31 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210428T10:55:03Z | the dashboard for managing the backdoor data for the luxr system | https://github.com/EDMONDGIHOZO/luxr_dashboard | 0 | 0| 
+| 20210428T07:11:50Z | Dette er basic runcode. Brug CEVA eller noget andet til at test lortet. Tak til @servercfg for den orginalle backdoor da vi fik ideen ud fra dem.  | https://github.com/DerpIsInactive/VpsStealerFiveM | 4 | 1| 
+| 20210428T06:37:19Z | A token logger for discord + steals Brave/Chrome passwords and usernames | https://github.com/CUPZYY/Backdoor-Machine | 1 | 0| 
+| 20210428T03:32:24Z | 🤖An Evil and Smart Bot for Enslaving Windows. | https://github.com/wildonion/katyusha | 3 | 1| 
 | 20210428T00:58:02Z | Null | https://github.com/connorbuck/backdoor-dispensary-website | 0 | 0| 
 | 20210428T00:08:25Z | Backdoor framework for Linux platforms written in C | https://github.com/deveyNull/sleepyBob | 0 | 0| 
 | 20210427T19:23:38Z | A python backdoor | https://github.com/FelipeDosAnjos/HarpiaBackdoor | 0 | 0| 
 | 20210427T18:44:14Z | Python 3 IRC Bot / Botnet | https://github.com/trackmastersteve/HackServ | 19 | 16| 
-| 20210427T18:33:03Z | A token logger for discord + steals Brave/Chrome passwords and usernames | https://github.com/CUPZYY/Backdoor-Machine | 1 | 0| 
 | 20210427T18:07:28Z | TrojanZoo provides a universal pytorch platform to conduct security researches (especially backdoor attacks/defenses) of image classification in deep learning. | https://github.com/ain-soph/trojanzoo | 67 | 11| 
 | 20210427T13:55:48Z | Web Shell Backdoors Collection | https://github.com/PhenaxGod/Web-Shell-Backdoors | 0 | 0| 
-| 20210427T13:27:11Z | A self-spreading parasitic, polymorphic internet-worm for the netBIOS backdoor | https://github.com/timo-cmd2/Win32.ThermalStorm | 1 | 0| 
-| 20210427T09:33:28Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 227 | 38| 
-| 20210427T09:09:40Z | Null | https://github.com/haehae00/backdoor | 0 | 0| 
 
 
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210428T01:55:56Z | Null | https://github.com/Perdiocactus/fuzzy-waddle | 0 | 0| 
-| 20210428T01:53:34Z | Fast web fuzzer written in Go | https://github.com/ffuf/ffuf | 4402 | 519| 
-| 20210428T01:21:49Z | Null | https://github.com/opimentel-github/fuzzy-torch | 1 | 0| 
-| 20210428T00:39:16Z | Rust based CAN bus fuzzer  | https://github.com/Rusty-CAN-Factory/rusty-can-fuzzer | 2 | 0| 
-| 20210428T00:34:18Z | Ev description  | https://github.com/muz4151/fuzzy-succotash | 0 | 0| 
-| 20210427T22:41:37Z | Scalable fuzzing infrastructure. | https://github.com/google/clusterfuzz | 4490 | 434| 
-| 20210427T22:17:32Z | Fuzzy charrs are fuzzy. | https://github.com/marenubium87/FuzzyCharr | 0 | 0| 
-| 20210427T22:07:43Z | Null | https://github.com/Juanosorio94/fuzzing-rdma | 0 | 0| 
-| 20210427T22:00:34Z | A unit test-like interface for fuzzing and symbolic execution | https://github.com/trailofbits/deepstate | 611 | 64| 
-| 20210427T21:55:33Z | Null | https://github.com/RunzhouHan/fuzzing_fs_aware_applications | 0 | 0| 
+| 20210428T11:53:28Z | Fuzzing with the generated argument | https://github.com/zodf0055980/Yuan-fuzz | 14 | 2| 
+| 20210428T11:50:34Z | Coverage-guided, in-process fuzzing for the JVM | https://github.com/CodeIntelligenceTesting/jazzer | 285 | 16| 
+| 20210428T11:48:51Z | Null | https://github.com/rezimaindra/Fuzzy-Logic-Algorithm | 0 | 0| 
+| 20210428T11:38:28Z | Null | https://github.com/MazenH24/fuzzy_system_carbon_dioxide_percentage | 0 | 0| 
+| 20210428T11:30:19Z | Fuzzy search modules for searching lists of words in low quality OCR and HTR text. | https://github.com/marijnkoolen/fuzzy-search | 7 | 1| 
+| 20210428T11:07:37Z | Null | https://github.com/Kozimov/fuzzy-sniffle | 0 | 0| 
+| 20210428T11:05:37Z | Null | https://github.com/Ismoilovizzatillo/fuzzi-wacht | 0 | 0| 
+| 20210428T10:59:49Z | Null | https://github.com/ahi-hfg/fuzzy-dollop | 0 | 0| 
+| 20210428T10:48:20Z | Implementation of a differential fuzzer for Ethereum Virtual Machines | https://github.com/MariusVanDerWijden/FuzzyVM | 0 | 0| 
+| 20210428T10:35:44Z | Usermode code for the ARM OS fuzzer project | https://github.com/jprx/arm-os-fuzzer-usercode | 0 | 0| 
 
 
 
