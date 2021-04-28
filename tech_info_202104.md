@@ -85,6 +85,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210428T12:16:03Z | Development of code to exploit LSST and VISTA imaging | https://github.com/lsst-uk/lsst-ir-fusion | 0 | 0| 
 | 20210428T12:09:13Z | Automated All-in-One OS Command Injection Exploitation Tool | https://github.com/commixproject/commix | 2638 | 601| 
 | 20210428T12:03:13Z | Zenith configs. Exploit them at your own risk. | https://github.com/egorbelibov/unix_configs | 1 | 0| 
 | 20210428T12:03:03Z | Description lol. | https://github.com/dasan5352/Exploiter-Not-Found | 0 | 0| 
@@ -94,7 +95,6 @@
 | 20210428T10:09:18Z | Modular penetration testing platform that enables you to write, test, and execute exploit code. | https://github.com/EntySec/HatSploit | 42 | 13| 
 | 20210428T09:59:12Z | Powerful payload generation and shellcode injection tool that provides support for common platforms and architectures. | https://github.com/EntySec/HatVenom | 8 | 1| 
 | 20210428T09:37:16Z | a tool for creating exploited media files for discord | https://github.com/Schmenn/discord-exploits | 111 | 13| 
-| 20210428T09:25:42Z | My course work about basic binary exploitation.🤿 | https://github.com/whatsyourask/basics-of-pwn | 1 | 1| 
 
 
 # backdoor on Github 推荐
