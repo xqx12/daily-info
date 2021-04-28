@@ -85,8 +85,9 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210428T12:03:13Z | Zenith configs. Exploit them at your own risk. | https://github.com/egorbelibov/unix_configs | 1 | 0| 
+| 20210428T12:03:03Z | Description lol. | https://github.com/dasan5352/Exploiter-Not-Found | 0 | 0| 
 | 20210428T12:02:39Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 22 | 9| 
-| 20210428T12:02:29Z | Description lol. | https://github.com/dasan5352/Exploiter-Not-Found | 0 | 0| 
 | 20210428T11:44:54Z | Some Binary Exploitation CTF writeups | https://github.com/ElliyahuRosha/Binary-Exploitation-writeups | 1 | 0| 
 | 20210428T11:13:49Z | Github pages site hosting content of umar0x01.sh | https://github.com/Anon-Exploiter/anon-exploiter.github.io | 0 | 0| 
 | 20210428T10:09:18Z | Modular penetration testing platform that enables you to write, test, and execute exploit code. | https://github.com/EntySec/HatSploit | 42 | 13| 
@@ -94,7 +95,6 @@
 | 20210428T09:37:16Z | a tool for creating exploited media files for discord | https://github.com/Schmenn/discord-exploits | 111 | 13| 
 | 20210428T09:25:42Z | My course work about basic binary exploitation.🤿 | https://github.com/whatsyourask/basics-of-pwn | 1 | 1| 
 | 20210428T09:17:29Z | Forestry Thematic Exploitation Platform | https://github.com/cgi-eoss/ftep | 5 | 0| 
-| 20210428T09:09:14Z | Experiments and evaluation for the paper %DAG Scheduling and Analysis on Multiprocessor Systems: Exploitation of Parallelism and Dependency%, RTSS 2020. (artifacts evaluation passed) | https://github.com/automaticdai/research-dag-scheduling-analysis | 2 | 0| 
 
 
 # backdoor on Github 推荐
