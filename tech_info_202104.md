@@ -61,7 +61,7 @@
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210428T01:42:06Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 的 Klee One 的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 423 | 10| 
+| 20210428T01:54:35Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 的 Klee One 的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 424 | 10| 
 | 20210428T01:38:07Z | A personnal UI library made as an excuse to have a published UI package | https://github.com/Liinkiing/klee | 8 | 1| 
 | 20210427T19:06:41Z | Spring 2021 Geography 817 work folder  | https://github.com/klee12/klee12.github.io | 1 | 0| 
 | 20210427T15:11:46Z | Symbiotic is a tool for finding bugs in computer programs based on instrumentation, program slicing and KLEE | https://github.com/staticafi/symbiotic | 216 | 35| 
@@ -85,6 +85,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210428T01:53:57Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9336 | 1509| 
 | 20210428T01:52:34Z | generate the initial line of script for binary exploit | https://github.com/Ki11i0n4ir3/genpy | 0 | 0| 
 | 20210428T01:44:01Z | Android RAT with web panel and undetectable App | https://github.com/Th30neAnd0nly/Ohm | 20 | 8| 
 | 20210428T01:02:43Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 22 | 9| 
@@ -94,7 +95,6 @@
 | 20210427T23:19:43Z | CTFs and solutions for Linux binary exploitation. | https://github.com/MaherAzzouzi/LinuxExploitation | 10 | 6| 
 | 20210427T22:56:31Z | Null | https://github.com/adam-pawelek/Software-Exploitation | 0 | 0| 
 | 20210427T22:12:22Z | Null | https://github.com/Pasxeegamer/Coinmaster-Exploitzz-v2 | 0 | 0| 
-| 20210427T22:04:10Z | this is a simple python exploition tool with loads more! | https://github.com/buffkermitisagod/router-sploit | 1 | 0| 
 
 
 # backdoor on Github 推荐
@@ -115,16 +115,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210428T01:55:56Z | Null | https://github.com/Perdiocactus/fuzzy-waddle | 0 | 0| 
+| 20210428T01:53:34Z | Fast web fuzzer written in Go | https://github.com/ffuf/ffuf | 4402 | 519| 
 | 20210428T01:21:49Z | Null | https://github.com/opimentel-github/fuzzy-torch | 1 | 0| 
 | 20210428T00:39:16Z | Rust based CAN bus fuzzer  | https://github.com/Rusty-CAN-Factory/rusty-can-fuzzer | 2 | 0| 
 | 20210428T00:34:18Z | Ev description  | https://github.com/muz4151/fuzzy-succotash | 0 | 0| 
 | 20210427T22:41:37Z | Scalable fuzzing infrastructure. | https://github.com/google/clusterfuzz | 4490 | 434| 
-| 20210427T22:18:14Z | Fast web fuzzer written in Go | https://github.com/ffuf/ffuf | 4401 | 519| 
 | 20210427T22:17:32Z | Fuzzy charrs are fuzzy. | https://github.com/marenubium87/FuzzyCharr | 0 | 0| 
 | 20210427T22:07:43Z | Null | https://github.com/Juanosorio94/fuzzing-rdma | 0 | 0| 
 | 20210427T22:00:34Z | A unit test-like interface for fuzzing and symbolic execution | https://github.com/trailofbits/deepstate | 611 | 64| 
 | 20210427T21:55:33Z | Null | https://github.com/RunzhouHan/fuzzing_fs_aware_applications | 0 | 0| 
-| 20210427T21:50:19Z | This is the main website and system for Ball Fuzz Tennis Center. | https://github.com/Ball-Fuzz-Tennis-Center/tennis-system | 0 | 0| 
 
 
 

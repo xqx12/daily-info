@@ -63,8 +63,8 @@
 | 20210427T21:54:02Z | Fix exploits on anarchy minecraft servers | https://github.com/moom0o/AnarchyExploitFixes | 30 | 6| 
 | 20210427T21:49:37Z | Null | https://github.com/WhoTippedMyCows/SoftwareExploitation | 0 | 0| 
 | 20210427T21:47:14Z | Extraction et exploitation des données de conversations Messenger | https://github.com/adrien-chinour/statistiques-messenger | 0 | 0| 
-| 20210427T21:35:13Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9335 | 1509| 
 | 20210427T21:05:30Z | An experimental debt system for me and my friends, exploiting git requests for financial safety and gits history for trust | https://github.com/psorus/git-pay | 0 | 2| 
+| 20210427T20:24:11Z | forked version of funtuna, a homebrew ps2 app launcher designed to ease the pain of getting a stable exploit for those that have a console uncompatible with FreeMcBoot | https://github.com/israpps/Funtuna-Fork | 3 | 0| 
 
 
 # backdoor on Github 推荐
@@ -86,7 +86,6 @@
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
 | 20210427T22:41:37Z | Scalable fuzzing infrastructure. | https://github.com/google/clusterfuzz | 4490 | 434| 
-| 20210427T22:18:14Z | Fast web fuzzer written in Go | https://github.com/ffuf/ffuf | 4401 | 519| 
 | 20210427T22:17:32Z | Fuzzy charrs are fuzzy. | https://github.com/marenubium87/FuzzyCharr | 0 | 0| 
 | 20210427T22:07:43Z | Null | https://github.com/Juanosorio94/fuzzing-rdma | 0 | 0| 
 | 20210427T22:00:34Z | A unit test-like interface for fuzzing and symbolic execution | https://github.com/trailofbits/deepstate | 611 | 64| 
@@ -95,6 +94,7 @@
 | 20210427T21:46:12Z | Null | https://github.com/JonathanScialpi/CorDapp_Fuzzer | 0 | 0| 
 | 20210427T21:43:59Z | Null | https://github.com/JoDeMiro/Fuzzy | 0 | 0| 
 | 20210427T21:13:38Z | Usermode code for the ARM OS fuzzer project | https://github.com/jprx/arm-os-fuzzer-usercode | 0 | 0| 
+| 20210427T21:08:38Z | Null | https://github.com/MazenH24/fuzzy_system_carbon_dioxide_percentage | 0 | 0| 
 
 
 
