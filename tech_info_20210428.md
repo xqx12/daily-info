@@ -52,6 +52,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210428T12:09:13Z | Automated All-in-One OS Command Injection Exploitation Tool | https://github.com/commixproject/commix | 2638 | 601| 
 | 20210428T12:03:13Z | Zenith configs. Exploit them at your own risk. | https://github.com/egorbelibov/unix_configs | 1 | 0| 
 | 20210428T12:03:03Z | Description lol. | https://github.com/dasan5352/Exploiter-Not-Found | 0 | 0| 
 | 20210428T12:02:39Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 22 | 9| 
@@ -61,7 +62,6 @@
 | 20210428T09:59:12Z | Powerful payload generation and shellcode injection tool that provides support for common platforms and architectures. | https://github.com/EntySec/HatVenom | 8 | 1| 
 | 20210428T09:37:16Z | a tool for creating exploited media files for discord | https://github.com/Schmenn/discord-exploits | 111 | 13| 
 | 20210428T09:25:42Z | My course work about basic binary exploitation.🤿 | https://github.com/whatsyourask/basics-of-pwn | 1 | 1| 
-| 20210428T09:17:29Z | Forestry Thematic Exploitation Platform | https://github.com/cgi-eoss/ftep | 5 | 0| 
 
 
 # backdoor on Github 推荐
@@ -78,11 +78,11 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210428T12:09:59Z | Null | https://github.com/MazenH24/fuzzy_system_carbon_dioxide_percentage | 0 | 0| 
 | 20210428T12:09:11Z | Null | https://github.com/Joypaul11/fuzzy-octo-fortnight | 0 | 0| 
 | 20210428T11:53:28Z | Fuzzing with the generated argument | https://github.com/zodf0055980/Yuan-fuzz | 14 | 2| 
 | 20210428T11:50:34Z | Coverage-guided, in-process fuzzing for the JVM | https://github.com/CodeIntelligenceTesting/jazzer | 285 | 16| 
 | 20210428T11:48:51Z | Null | https://github.com/rezimaindra/Fuzzy-Logic-Algorithm | 0 | 0| 
-| 20210428T11:38:28Z | Null | https://github.com/MazenH24/fuzzy_system_carbon_dioxide_percentage | 0 | 0| 
 | 20210428T11:30:19Z | Fuzzy search modules for searching lists of words in low quality OCR and HTR text. | https://github.com/marijnkoolen/fuzzy-search | 7 | 1| 
 | 20210428T11:07:37Z | Null | https://github.com/Kozimov/fuzzy-sniffle | 0 | 0| 
 | 20210428T11:05:37Z | Null | https://github.com/Ismoilovizzatillo/fuzzi-wacht | 0 | 0| 
