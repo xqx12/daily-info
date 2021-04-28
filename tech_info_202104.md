@@ -46,7 +46,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20210428T00:31:42Z | CVE-2020-27199 | CVE-2020-27199 | https://github.com/9lyph/CVE-2020-27199 | The Magic Home Pro application 1.5.1 for Android allows Authentication Bypass. The security control that the application currently has in place is a simple Username and Password authentication function. Using enumeration, an attacker is able to forge a User specific token without the need for correct password to gain access to the mobile application as that victim user.| 
+| 20210428T00:31:42Z | CVE-2020-27199 | CVE-2020-27199 | https://github.com/9lyph/CVE-2020-27199 | | 
 | 20210427T21:13:20Z | CVE-2021-1732 | Read my  blog for more info -  | https://github.com/exploitblizzard/Windows-Privilege-Escalation-CVE-2021-1732 | Windows Win32k Elevation of Privilege Vulnerability This CVE ID is unique from CVE-2021-1698.| 
 | 20210427T19:20:50Z | CVE-2021-26868 | Null | https://github.com/mavillon/CVE-2021-26868 | Windows Graphics Component Elevation of Privilege Vulnerability| 
 | 20210427T18:36:14Z | CVE-2020-8958 | CVE-2020-8958: Authenticated RCE exploit for NetLink HG323 | https://github.com/Asjidkalam/CVE-2020-8958 | Guangzhou 1GE ONU V2801RW 1.9.1-181203 through 2.9.0-181024 and V2804RGW 1.9.1-181203 through 2.9.0-181024 devices allow remote attackers to execute arbitrary OS commands via shell metacharacters in the boaform/admin/formPing Dest IP Address field.| 
@@ -85,11 +85,11 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210428T01:55:57Z | go语言编写的一款基于json格式poc的漏洞利用框工具 | https://github.com/CobaltZirs0n/RunExploit | 3 | 0| 
 | 20210428T01:53:57Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9336 | 1509| 
 | 20210428T01:52:34Z | generate the initial line of script for binary exploit | https://github.com/Ki11i0n4ir3/genpy | 0 | 0| 
 | 20210428T01:44:01Z | Android RAT with web panel and undetectable App | https://github.com/Th30neAnd0nly/Ohm | 20 | 8| 
 | 20210428T01:02:43Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 22 | 9| 
-| 20210428T00:59:59Z | go语言编写的一款基于json格式poc的漏洞利用框工具 | https://github.com/CobaltZirs0n/RunExploit | 2 | 0| 
 | 20210428T00:50:56Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 15 | 10| 
 | 20210427T23:51:52Z | Create a scan bot that keeps users hidden, scans photos on each page visited compares individuals pictured against missing and exploited people database as well as databases for lost, stolen or missing artwork. Upon any match sends info on site, time and date as well as subject to appropriate parties.  | https://github.com/CryptoEnvy/recoveryscan | 0 | 0| 
 | 20210427T23:19:43Z | CTFs and solutions for Linux binary exploitation. | https://github.com/MaherAzzouzi/LinuxExploitation | 10 | 6| 
