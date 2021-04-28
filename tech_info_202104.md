@@ -52,7 +52,7 @@
 | 20210427T15:01:11Z | CVE-2020-1938 | Null | https://github.com/streghstreek/CVE-2020-1938 | When using the Apache JServ Protocol (AJP), care must be taken when trusting incoming connections to Apache Tomcat. Tomcat treats AJP connections as having higher trust than, for example, a similar HTTP connection. If such connections are available to an attacker, they can be exploited in ways that may be surprising. In Apache Tomcat 9.0.0.M1 to 9.0.0.30, 8.5.0 to 8.5.50 and 7.0.0 to 7.0.99, Tomcat shipped with an AJP Connector enabled by default that listened on all configured IP addresses. It was expected (and recommended in the security guide) that this Connector would be disabled if not required. This vulnerability report identified a mechanism that allowed: - returning arbitrary files from anywhere in the web application - processing any file in the web application as a JSP Further, if the web application allowed file upload and stored those files within the web application (or the attacker was able to control the content of the web application by some other means) then this, along with the ability to process a file as a JSP, made remote code execution possible. It is important to note that mitigation is only required if an AJP port is accessible to untrusted users. Users wishing to take a defence-in-depth approach and block the vector that permits returning arbitrary files and execution as JSP may upgrade to Apache Tomcat 9.0.31, 8.5.51 or 7.0.100 or later. A number of changes were made to the default AJP Connector configuration in 9.0.31 to harden the default configuration. It is likely that users upgrading to 9.0.31, 8.5.51 or 7.0.100 or later will need to make small changes to their configurations.| 
 | 20210427T14:46:59Z | CVE-2021-22192 | CVE-2021-22192 靶场： 未授权用户 RCE 漏洞 | https://github.com/lyy289065406/CVE-2021-22192 | An issue has been discovered in GitLab CE/EE affecting all versions starting from 13.2 allowing unauthorized authenticated users to execute arbitrary code on the server.| 
 | 20210427T12:21:49Z | CVE-2021-31221 | Indicator of Compromise Scanner for CVE-2021-31221  | https://github.com/fireaye/ioc-scanner-CVE-2021-31221 | 未查询到CVE信息| 
-| 20210427T10:33:39Z | CVE-2021-3291 | rebuild cve | https://github.com/ImHades101/CVE-2021-3291 | | 
+| 20210427T10:33:39Z | CVE-2021-3291 | rebuild cve | https://github.com/ImHades101/CVE-2021-3291 | Zen Cart 1.5.7b allows admins to execute arbitrary OS commands by inspecting an HTML radio input element (within the modules edit page) and inserting a command.| 
 | 20210427T10:14:18Z | 未知编号 | CVE-2021-22192 | https://github.com/PetrusViet/Gitlab-RCE | 未查询到CVE信息| 
 | 20210427T08:27:04Z | 未知编号 | CVE-2021-1732 poc & exp; tested on 20H2 | https://github.com/Pai-Po/CVE-2021-1732 | 未查询到CVE信息| 
 | 20210427T08:07:39Z | CVE-2020-14883 | Alibaba-Nacos-Unauthorized/ApacheDruid-RCE_CVE-2021-25646/MS-Exchange-SSRF-CVE-2021-26885/Oracle-WebLogic-CVE-2021-2109_RCE/RG-CNVD-2021-14536/RJ-SSL-VPN-UltraVires/Redis-Unauthorized-RCE/TDOA-V11.7-GetOnlineCookie/VMware-vCenter-GetAnyFile/yongyou-GRP-U8-XXE/Oracle-WebLogic-CVE-2020-14883/Oracle-WebLogic-CVE-2020-14882/Apache-Solr-GetAnyFile/F5-BIG-IP-CVE-2021-22986/Sonicwall-SSL-VPN-RCE/GitLab-Graphql-CNVD-2021-14193/D-Link-DCS-CVE-2020-25078/WLAN-AP-WEA453e-RCE/360TianQing-Unauthorized/360TianQing-SQLinjection/FanWeiOA-V8-SQLinjection/QiZhiBaoLeiJi-AnyUserLogin/QiAnXin-WangKangFirewall-RCE/金山-V8-终端安全系统/NCCloud-SQLinjection/ShowDoc-RCE | https://github.com/Yang0615777/PocList | | 
@@ -100,6 +100,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210428T00:11:19Z | Null | https://github.com/connorbuck/backdoor-dispensary-website | 0 | 0| 
 | 20210428T00:08:25Z | Backdoor framework for Linux platforms written in C | https://github.com/deveyNull/sleepyBob | 0 | 0| 
 | 20210427T19:23:38Z | A python backdoor | https://github.com/FelipeDosAnjos/HarpiaBackdoor | 0 | 0| 
 | 20210427T18:44:14Z | Python 3 IRC Bot / Botnet | https://github.com/trackmastersteve/HackServ | 19 | 16| 
@@ -109,7 +110,6 @@
 | 20210427T13:27:11Z | A self-spreading parasitic, polymorphic internet-worm for the netBIOS backdoor | https://github.com/timo-cmd2/Win32.ThermalStorm | 1 | 0| 
 | 20210427T09:33:28Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 227 | 38| 
 | 20210427T09:09:40Z | Null | https://github.com/haehae00/backdoor | 0 | 0| 
-| 20210427T03:59:34Z | generator of php_backdoor | https://github.com/Ki11i0n4ir3/backdoor-gen | 0 | 0| 
 
 
 # fuzz on Github 推荐
