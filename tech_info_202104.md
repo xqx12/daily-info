@@ -115,10 +115,10 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210428T00:39:16Z | Rust based CAN bus fuzzer  | https://github.com/Rusty-CAN-Factory/rusty-can-fuzzer | 2 | 0| 
+| 20210428T00:34:18Z | Ev description  | https://github.com/muz4151/fuzzy-succotash | 0 | 0| 
 | 20210427T23:46:55Z | Null | https://github.com/opimentel-github/fuzzy-torch | 1 | 0| 
 | 20210427T22:41:37Z | Scalable fuzzing infrastructure. | https://github.com/google/clusterfuzz | 4490 | 434| 
-| 20210427T22:29:19Z | Ev description  | https://github.com/muz4151/fuzzy-succotash | 0 | 0| 
-| 20210427T22:23:25Z | Rust based CAN bus fuzzer  | https://github.com/Rusty-CAN-Factory/rusty-can-fuzzer | 2 | 0| 
 | 20210427T22:18:14Z | Fast web fuzzer written in Go | https://github.com/ffuf/ffuf | 4401 | 519| 
 | 20210427T22:17:32Z | Fuzzy charrs are fuzzy. | https://github.com/marenubium87/FuzzyCharr | 0 | 0| 
 | 20210427T22:07:43Z | Null | https://github.com/Juanosorio94/fuzzing-rdma | 0 | 0| 
