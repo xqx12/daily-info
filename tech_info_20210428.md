@@ -52,7 +52,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210428T12:52:01Z | a tool for creating exploited media files for discord | https://github.com/Schmenn/discord-exploits | 112 | 13| 
+| 20210428T12:54:48Z | a tool for creating exploited media files for discord | https://github.com/Schmenn/discord-exploits | 112 | 13| 
 | 20210428T12:50:58Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 15 | 10| 
 | 20210428T12:40:15Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9339 | 1509| 
 | 20210428T12:29:12Z | viiper Exploit website | https://github.com/ThatsMyMute/viiper.xyz | 0 | 0| 
