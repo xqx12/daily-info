@@ -78,6 +78,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210428T12:09:11Z | Null | https://github.com/Joypaul11/fuzzy-octo-fortnight | 0 | 0| 
 | 20210428T11:53:28Z | Fuzzing with the generated argument | https://github.com/zodf0055980/Yuan-fuzz | 14 | 2| 
 | 20210428T11:50:34Z | Coverage-guided, in-process fuzzing for the JVM | https://github.com/CodeIntelligenceTesting/jazzer | 285 | 16| 
 | 20210428T11:48:51Z | Null | https://github.com/rezimaindra/Fuzzy-Logic-Algorithm | 0 | 0| 
@@ -87,7 +88,6 @@
 | 20210428T11:05:37Z | Null | https://github.com/Ismoilovizzatillo/fuzzi-wacht | 0 | 0| 
 | 20210428T10:59:49Z | Null | https://github.com/ahi-hfg/fuzzy-dollop | 0 | 0| 
 | 20210428T10:48:20Z | Implementation of a differential fuzzer for Ethereum Virtual Machines | https://github.com/MariusVanDerWijden/FuzzyVM | 0 | 0| 
-| 20210428T10:35:44Z | Usermode code for the ARM OS fuzzer project | https://github.com/jprx/arm-os-fuzzer-usercode | 0 | 0| 
 
 
 
