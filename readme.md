@@ -78,7 +78,9 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210428T12:24:59Z | Algoritmo Genético para sintonia de Controladores Fuzzy | https://github.com/leandrolrs18/AlgoritmoGeneticoControleFuzzy | 0 | 0| 
+| 20210428T12:34:24Z | Null | https://github.com/mzakibhr/Fuzzy_Logic | 0 | 0| 
+| 20210428T12:31:45Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 1656 | 328| 
+| 20210428T12:28:51Z | Algoritmo Genético para sintonia de Controladores Fuzzy | https://github.com/leandrolrs18/AlgoritmoGeneticoControleFuzzy | 0 | 0| 
 | 20210428T12:19:48Z |  Memilih 10 restoran terbaik di kota A dengan menggunakan fuzzy logic | https://github.com/krobus00/Tugas-2-Pengantar-AI-Fuzzy-Logic | 0 | 0| 
 | 20210428T12:19:30Z | Implementation of a differential fuzzer for Ethereum Virtual Machines | https://github.com/MariusVanDerWijden/FuzzyVM | 1 | 1| 
 | 20210428T12:17:37Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 3 | 4| 
@@ -86,8 +88,6 @@
 | 20210428T12:09:11Z | Null | https://github.com/Joypaul11/fuzzy-octo-fortnight | 0 | 0| 
 | 20210428T11:53:28Z | Fuzzing with the generated argument | https://github.com/zodf0055980/Yuan-fuzz | 14 | 2| 
 | 20210428T11:50:34Z | Coverage-guided, in-process fuzzing for the JVM | https://github.com/CodeIntelligenceTesting/jazzer | 285 | 16| 
-| 20210428T11:48:51Z | Null | https://github.com/rezimaindra/Fuzzy-Logic-Algorithm | 0 | 0| 
-| 20210428T11:30:19Z | Fuzzy search modules for searching lists of words in low quality OCR and HTR text. | https://github.com/marijnkoolen/fuzzy-search | 7 | 1| 
 
 
 
