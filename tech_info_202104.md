@@ -47,10 +47,10 @@
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
 | 20210428T21:07:43Z | CVE-2020-14295 | Authenticated SQL injection to command execution on Cacti 1.2.12  | https://github.com/0z09e/CVE-2020-14295 | A SQL injection issue in color.php in Cacti 1.2.12 allows an admin to inject SQL via the filter parameter. This can lead to remote command execution because the product accepts stacked queries.| 
-| 20210428T20:21:33Z | CVE-2020-14321 | Null | https://github.com/lanzt/CVE-2020-14321 | | 
+| 20210428T20:21:33Z | CVE-2020-14321 | Null | https://github.com/lanzt/CVE-2020-14321 | 未查询到CVE信息| 
 | 20210428T16:27:03Z | CVE-2020-8958 | CVE-2020-8958: Authenticated RCE exploit for NetLink HG323 | https://github.com/Asjidkalam/CVE-2020-8958 | Guangzhou 1GE ONU V2801RW 1.9.1-181203 through 2.9.0-181024 and V2804RGW 1.9.1-181203 through 2.9.0-181024 devices allow remote attackers to execute arbitrary OS commands via shell metacharacters in the boaform/admin/formPing Dest IP Address field.| 
 | 20210428T13:14:46Z | CVE-2021-31221 |  Indicator of Compromise Scanner for CVE-2021-31221  | https://github.com/f1reeye/ioc-scanner-CVE-2021-31221 | 未查询到CVE信息| 
-| 20210428T11:41:24Z | CVE-2021-22192 | CVE-2021-22192 靶场： 未授权用户 RCE 漏洞 | https://github.com/lyy289065406/CVE-2021-22192 | | 
+| 20210428T11:41:24Z | CVE-2021-22192 | CVE-2021-22192 靶场： 未授权用户 RCE 漏洞 | https://github.com/lyy289065406/CVE-2021-22192 | An issue has been discovered in GitLab CE/EE affecting all versions starting from 13.2 allowing unauthorized authenticated users to execute arbitrary code on the server.| 
 | 20210428T04:21:25Z | CVE-2021-26868 | Null | https://github.com/mavillon/CVE-2021-26868 | Windows Graphics Component Elevation of Privilege Vulnerability| 
 | 20210428T02:29:30Z | CVE-2020-27199 | CVE-2020-27199 | https://github.com/9lyph/CVE-2020-27199 | The Magic Home Pro application 1.5.1 for Android allows Authentication Bypass. The security control that the application currently has in place is a simple Username and Password authentication function. Using enumeration, an attacker is able to forge a User specific token without the need for correct password to gain access to the mobile application as that victim user.| 
 | 20210427T21:13:20Z | CVE-2021-1732 | Read my  blog for more info -  | https://github.com/exploitblizzard/Windows-Privilege-Escalation-CVE-2021-1732 | Windows Win32k Elevation of Privilege Vulnerability This CVE ID is unique from CVE-2021-1698.| 
@@ -85,6 +85,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210429T01:40:16Z | Null | https://github.com/WhoTippedMyCows/SoftwareExploitation | 0 | 0| 
 | 20210429T01:38:44Z | exploit-database-papers | https://github.com/offensive-security/exploitdb-papers | 298 | 41| 
 | 20210429T01:35:32Z | CTFs and solutions for Linux binary exploitation. | https://github.com/MaherAzzouzi/LinuxExploitation | 16 | 8| 
 | 20210429T01:02:41Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 22 | 9| 
@@ -94,7 +95,6 @@
 | 20210428T23:43:03Z | Null | https://github.com/247arjun/ExploitDevelopment | 0 | 0| 
 | 20210428T23:36:42Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9344 | 1509| 
 | 20210428T23:23:40Z | CTF framework and exploit development library | https://github.com/Gallopsled/pwntools | 7813 | 1381| 
-| 20210428T23:04:03Z | Some Binary Exploitation CTF writeups | https://github.com/ElliyahuRosha/Binary-Exploitation-writeups | 1 | 0| 
 
 
 # backdoor on Github 推荐
