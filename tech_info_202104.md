@@ -85,7 +85,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210429T01:40:16Z | Null | https://github.com/WhoTippedMyCows/SoftwareExploitation | 0 | 0| 
+| 20210429T01:43:36Z | Null | https://github.com/WhoTippedMyCows/SoftwareExploitation | 0 | 0| 
 | 20210429T01:38:44Z | exploit-database-papers | https://github.com/offensive-security/exploitdb-papers | 298 | 41| 
 | 20210429T01:35:32Z | CTFs and solutions for Linux binary exploitation. | https://github.com/MaherAzzouzi/LinuxExploitation | 16 | 8| 
 | 20210429T01:02:41Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 22 | 9| 
