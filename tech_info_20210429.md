@@ -77,8 +77,8 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210429T12:50:55Z | Null | https://github.com/ia87/FuzzBuzz | 0 | 0| 
 | 20210429T12:49:19Z | Binary, coverage-guided fuzzer for Windows and macOS | https://github.com/googleprojectzero/Jackalope | 505 | 56| 
-| 20210429T12:40:38Z | Null | https://github.com/ia87/FuzzBuzz | 0 | 0| 
 | 20210429T12:33:57Z |  Memilih 10 restoran terbaik di kota A dengan menggunakan fuzzy logic | https://github.com/krobus00/Tugas-2-Pengantar-AI-Fuzzy-Logic | 0 | 0| 
 | 20210429T12:29:46Z | Null | https://github.com/s9varesc/url-fuzzing | 1 | 1| 
 | 20210429T12:28:35Z | Null | https://github.com/mnurichsan/beasiswa-fuzzy | 0 | 0| 
