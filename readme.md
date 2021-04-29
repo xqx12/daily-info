@@ -40,7 +40,7 @@
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
 | 20210428T21:07:43Z | CVE-2020-14295 | Authenticated SQL injection to command execution on Cacti 1.2.12  | https://github.com/0z09e/CVE-2020-14295 | A SQL injection issue in color.php in Cacti 1.2.12 allows an admin to inject SQL via the filter parameter. This can lead to remote command execution because the product accepts stacked queries.| 
-| 20210428T20:21:33Z | CVE-2020-14321 | Null | https://github.com/lanzt/CVE-2020-14321 | 未查询到CVE信息| 
+| 20210428T20:21:33Z | CVE-2020-14321 | Null | https://github.com/lanzt/CVE-2020-14321 | | 
 | 20210428T16:27:03Z | CVE-2020-8958 | CVE-2020-8958: Authenticated RCE exploit for NetLink HG323 | https://github.com/Asjidkalam/CVE-2020-8958 | Guangzhou 1GE ONU V2801RW 1.9.1-181203 through 2.9.0-181024 and V2804RGW 1.9.1-181203 through 2.9.0-181024 devices allow remote attackers to execute arbitrary OS commands via shell metacharacters in the boaform/admin/formPing Dest IP Address field.| 
 | 20210428T13:14:46Z | CVE-2021-31221 |  Indicator of Compromise Scanner for CVE-2021-31221  | https://github.com/f1reeye/ioc-scanner-CVE-2021-31221 | 未查询到CVE信息| 
 | 20210428T11:41:24Z | CVE-2021-22192 | CVE-2021-22192 靶场： 未授权用户 RCE 漏洞 | https://github.com/lyy289065406/CVE-2021-22192 | An issue has been discovered in GitLab CE/EE affecting all versions starting from 13.2 allowing unauthorized authenticated users to execute arbitrary code on the server.| 
@@ -74,21 +74,25 @@
 | 20210428T23:36:42Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9344 | 1509| 
 | 20210428T23:23:40Z | CTF framework and exploit development library | https://github.com/Gallopsled/pwntools | 7813 | 1381| 
 | 20210428T23:04:03Z | Some Binary Exploitation CTF writeups | https://github.com/ElliyahuRosha/Binary-Exploitation-writeups | 1 | 0| 
-| 20210428T23:02:44Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 22 | 9| 
 | 20210428T22:54:41Z | Null | https://github.com/exthari/Protostar_Exploit.Education | 0 | 0| 
 | 20210428T22:44:45Z | Exploit OpenPLC 3 - Remote Code Execution (Authenticated) | https://github.com/dock0d1/-OpenPLC-3---Remote-Code-Execution-Authenticated- | 0 | 0| 
 | 20210428T22:31:32Z | Exploitation of the theory of the six degrees of separation. | https://github.com/arthur-fontaine/dupondt | 1 | 1| 
 | 20210428T22:27:08Z | Null | https://github.com/XenorInspire/Exploit-BufferOverflow | 0 | 0| 
+| 20210428T21:56:48Z | Mario Kart 7 download play exploit. | https://github.com/mariohackandglitch/kartdlphax | 0 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210428T10:55:03Z | the dashboard for managing the backdoor data for the luxr system | https://github.com/EDMONDGIHOZO/luxr_dashboard | 0 | 0| 
+| 20210428T22:34:25Z | The best backdoor scanner there is. | https://github.com/iK4oS/backdoor.exe | 1 | 1| 
+| 20210428T21:55:33Z | Null | https://github.com/connorbuck/backdoor-dispensary-website | 0 | 0| 
+| 20210428T20:13:04Z | Null | https://github.com/ericwu1997/packet-sniffing-backdoor | 0 | 0| 
+| 20210428T17:37:45Z | TrojanZoo provides a universal pytorch platform to conduct security researches (especially backdoor attacks/defenses) of image classification in deep learning. | https://github.com/ain-soph/trojanzoo | 67 | 11| 
+| 20210428T15:04:24Z | A sample app to demonstrate how to create Xamarin UITests using the Page Object architecture, Backdoor Methods and App Links (aka Deep Linking) | https://github.com/brminnick/UITestSampleApp | 35 | 26| 
+| 20210428T14:35:57Z | the dashboard for managing the backdoor data for the luxr system | https://github.com/EDMONDGIHOZO/luxr_dashboard | 0 | 0| 
+| 20210428T13:53:23Z | A token logger for discord + steals Brave/Chrome passwords and usernames | https://github.com/CUPZYY/Backdoor-Machine | 1 | 0| 
 | 20210428T07:11:50Z | Dette er basic runcode. Brug CEVA eller noget andet til at test lortet. Tak til @servercfg for den orginalle backdoor da vi fik ideen ud fra dem.  | https://github.com/DerpIsInactive/VpsStealerFiveM | 4 | 1| 
-| 20210428T06:37:19Z | A token logger for discord + steals Brave/Chrome passwords and usernames | https://github.com/CUPZYY/Backdoor-Machine | 1 | 0| 
 | 20210428T03:32:24Z | 🤖An Evil and Smart Bot for Enslaving Windows. | https://github.com/wildonion/katyusha | 3 | 1| 
-| 20210428T00:58:02Z | Null | https://github.com/connorbuck/backdoor-dispensary-website | 0 | 0| 
 | 20210428T00:08:25Z | Backdoor framework for Linux platforms written in C | https://github.com/deveyNull/sleepyBob | 0 | 0| 
 
 
