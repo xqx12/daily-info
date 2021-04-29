@@ -46,7 +46,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20210428T21:07:43Z | CVE-2020-14295 | Authenticated SQL injection to command execution on Cacti 1.2.12  | https://github.com/0z09e/CVE-2020-14295 | | 
+| 20210428T21:07:43Z | CVE-2020-14295 | Authenticated SQL injection to command execution on Cacti 1.2.12  | https://github.com/0z09e/CVE-2020-14295 | A SQL injection issue in color.php in Cacti 1.2.12 allows an admin to inject SQL via the filter parameter. This can lead to remote command execution because the product accepts stacked queries.| 
 | 20210428T20:21:33Z | CVE-2020-14321 | Null | https://github.com/lanzt/CVE-2020-14321 | 未查询到CVE信息| 
 | 20210428T16:27:03Z | CVE-2020-8958 | CVE-2020-8958: Authenticated RCE exploit for NetLink HG323 | https://github.com/Asjidkalam/CVE-2020-8958 | Guangzhou 1GE ONU V2801RW 1.9.1-181203 through 2.9.0-181024 and V2804RGW 1.9.1-181203 through 2.9.0-181024 devices allow remote attackers to execute arbitrary OS commands via shell metacharacters in the boaform/admin/formPing Dest IP Address field.| 
 | 20210428T13:14:46Z | CVE-2021-31221 |  Indicator of Compromise Scanner for CVE-2021-31221  | https://github.com/f1reeye/ioc-scanner-CVE-2021-31221 | 未查询到CVE信息| 
@@ -85,8 +85,9 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210429T01:52:31Z | Null | https://github.com/b1tg/CVE-2018-6065-exploit | 0 | 0| 
+| 20210429T01:52:09Z | Null | https://github.com/WhoTippedMyCows/SoftwareExploitation | 0 | 0| 
 | 20210429T01:49:58Z | CTFs and solutions for Linux binary exploitation. | https://github.com/MaherAzzouzi/LinuxExploitation | 17 | 8| 
-| 20210429T01:43:36Z | Null | https://github.com/WhoTippedMyCows/SoftwareExploitation | 0 | 0| 
 | 20210429T01:38:44Z | exploit-database-papers | https://github.com/offensive-security/exploitdb-papers | 298 | 41| 
 | 20210429T01:02:41Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 22 | 9| 
 | 20210429T00:50:57Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 15 | 10| 
@@ -94,7 +95,6 @@
 | 20210428T23:43:04Z | A Discord bot that detects and bans users who attempt to speak while appearing as muted or deafened. | https://github.com/Caeden117/VCMuteExploitDetectionBot | 0 | 0| 
 | 20210428T23:43:03Z | Null | https://github.com/247arjun/ExploitDevelopment | 0 | 0| 
 | 20210428T23:36:42Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9344 | 1509| 
-| 20210428T23:23:40Z | CTF framework and exploit development library | https://github.com/Gallopsled/pwntools | 7813 | 1381| 
 
 
 # backdoor on Github 推荐
