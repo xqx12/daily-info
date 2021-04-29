@@ -26,10 +26,10 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20210429T09:13:57Z | cve-2021-3449 | CVE-2021-3449 OpenSSL denial-of-service exploit 👨🏻‍💻 | https://github.com/terorie/cve-2021-3449 | An OpenSSL TLS server may crash if sent a maliciously crafted renegotiation ClientHello message from a client. If a TLSv1.2 renegotiation ClientHello omits the signature_algorithms extension (where it was present in the initial ClientHello), but includes a signature_algorithms_cert extension then a NULL pointer dereference will result, leading to a crash and a denial of service attack. A server is only vulnerable if it has TLSv1.2 and renegotiation enabled (which is the default configuration). OpenSSL TLS clients are not impacted by this issue. All OpenSSL 1.1.1 versions are affected by this issue. Users of these versions should upgrade to OpenSSL 1.1.1k. OpenSSL 1.0.2 is not impacted by this issue. Fixed in OpenSSL 1.1.1k (Affected 1.1.1-1.1.1j).| 
+| 20210429T09:13:57Z | cve-2021-3449 | CVE-2021-3449 OpenSSL denial-of-service exploit 👨🏻‍💻 | https://github.com/terorie/cve-2021-3449 | 未查询到CVE信息| 
 | 20210429T08:02:44Z | CVE-2021-31221 |  Indicator of Compromise Scanner for CVE-2021-31221  | https://github.com/f1reeye/ioc-scanner-CVE-2021-31221 | 未查询到CVE信息| 
-| 20210429T02:14:00Z | CVE-2021-26868 | Null | https://github.com/mavillon/CVE-2021-26868 | Windows Graphics Component Elevation of Privilege Vulnerability| 
-| 20210429T02:12:22Z | CVE-2020-14295 | Authenticated SQL injection to command execution on Cacti 1.2.12  | https://github.com/0z09e/CVE-2020-14295 | A SQL injection issue in color.php in Cacti 1.2.12 allows an admin to inject SQL via the filter parameter. This can lead to remote command execution because the product accepts stacked queries.| 
+| 20210429T02:14:00Z | CVE-2021-26868 | Null | https://github.com/mavillon/CVE-2021-26868 | 未查询到CVE信息| 
+| 20210429T02:12:22Z | CVE-2020-14295 | Authenticated SQL injection to command execution on Cacti 1.2.12  | https://github.com/0z09e/CVE-2020-14295 | 未查询到CVE信息| 
 
 
 # klee on Github 推荐
@@ -77,16 +77,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210429T12:03:30Z | Write a program to print Intersection of 2 fuzzy sets | https://github.com/OmkarGharat/Intersection-of-2-fuzzy-sets | 0 | 0| 
-| 20210429T11:40:22Z | Null | https://github.com/s9varesc/url-fuzzing | 1 | 1| 
+| 20210429T12:29:46Z | Null | https://github.com/s9varesc/url-fuzzing | 1 | 1| 
+| 20210429T12:29:15Z | Binary, coverage-guided fuzzer for Windows and macOS | https://github.com/googleprojectzero/Jackalope | 505 | 56| 
+| 20210429T12:28:35Z | Null | https://github.com/mnurichsan/beasiswa-fuzzy | 0 | 0| 
+| 20210429T12:05:46Z | Write a program to print the Union of 2 fuzzy sets | https://github.com/OmkarGharat/Union-of-2-fuzzy-Sets | 1 | 0| 
+| 20210429T12:03:47Z | Write a program to print Intersection of 2 fuzzy sets | https://github.com/OmkarGharat/Intersection-of-2-fuzzy-sets | 1 | 0| 
 | 20210429T11:35:00Z | Tugpro 2 AI | https://github.com/AkbarFauzy/Tugpro2_FuzzyAlgorithm | 0 | 0| 
 | 20210429T11:15:20Z | Null | https://github.com/AshwAthi8/r0fuzz | 1 | 0| 
 | 20210429T11:12:56Z | Implementation of a differential fuzzer for Ethereum Virtual Machines | https://github.com/MariusVanDerWijden/FuzzyVM | 7 | 2| 
 | 20210429T10:54:30Z | Rockyou for web fuzzing | https://github.com/six2dez/OneListForAll | 231 | 50| 
 | 20210429T10:49:27Z | https://github.com/wcventure/FuzzingPaper | https://github.com/mishmashclone/wcventure-FuzzingPaper | 6 | 1| 
-| 20210429T10:42:13Z | An add-on filament autochanger for existing 3D printers, in duel-spool configuration. | https://github.com/FuzzyNoodle/Fuzzy-Spooder | 1 | 0| 
-| 20210429T10:22:35Z | Null | https://github.com/eavarlamova/fuzzy-transport-problem | 0 | 0| 
-| 20210429T10:16:16Z | Null | https://github.com/ShinyQ/Tugas-Pengantar-AI-2_Fuzzy_Logic | 1 | 1| 
 
 
 
