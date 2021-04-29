@@ -52,8 +52,8 @@
 | 20210428T13:14:46Z | CVE-2021-31221 |  Indicator of Compromise Scanner for CVE-2021-31221  | https://github.com/f1reeye/ioc-scanner-CVE-2021-31221 | 未查询到CVE信息| 
 | 20210428T11:41:24Z | CVE-2021-22192 | CVE-2021-22192 靶场： 未授权用户 RCE 漏洞 | https://github.com/lyy289065406/CVE-2021-22192 | An issue has been discovered in GitLab CE/EE affecting all versions starting from 13.2 allowing unauthorized authenticated users to execute arbitrary code on the server.| 
 | 20210428T04:21:25Z | CVE-2021-26868 | Null | https://github.com/mavillon/CVE-2021-26868 | Windows Graphics Component Elevation of Privilege Vulnerability| 
-| 20210428T02:29:30Z | CVE-2020-27199 | CVE-2020-27199 | https://github.com/9lyph/CVE-2020-27199 | | 
-| 20210427T21:13:20Z | CVE-2021-1732 | Read my  blog for more info -  | https://github.com/exploitblizzard/Windows-Privilege-Escalation-CVE-2021-1732 | | 
+| 20210428T02:29:30Z | CVE-2020-27199 | CVE-2020-27199 | https://github.com/9lyph/CVE-2020-27199 | The Magic Home Pro application 1.5.1 for Android allows Authentication Bypass. The security control that the application currently has in place is a simple Username and Password authentication function. Using enumeration, an attacker is able to forge a User specific token without the need for correct password to gain access to the mobile application as that victim user.| 
+| 20210427T21:13:20Z | CVE-2021-1732 | Read my  blog for more info -  | https://github.com/exploitblizzard/Windows-Privilege-Escalation-CVE-2021-1732 | Windows Win32k Elevation of Privilege Vulnerability This CVE ID is unique from CVE-2021-1698.| 
 | 20210427T15:01:11Z | CVE-2020-1938 | Null | https://github.com/streghstreek/CVE-2020-1938 | When using the Apache JServ Protocol (AJP), care must be taken when trusting incoming connections to Apache Tomcat. Tomcat treats AJP connections as having higher trust than, for example, a similar HTTP connection. If such connections are available to an attacker, they can be exploited in ways that may be surprising. In Apache Tomcat 9.0.0.M1 to 9.0.0.30, 8.5.0 to 8.5.50 and 7.0.0 to 7.0.99, Tomcat shipped with an AJP Connector enabled by default that listened on all configured IP addresses. It was expected (and recommended in the security guide) that this Connector would be disabled if not required. This vulnerability report identified a mechanism that allowed: - returning arbitrary files from anywhere in the web application - processing any file in the web application as a JSP Further, if the web application allowed file upload and stored those files within the web application (or the attacker was able to control the content of the web application by some other means) then this, along with the ability to process a file as a JSP, made remote code execution possible. It is important to note that mitigation is only required if an AJP port is accessible to untrusted users. Users wishing to take a defence-in-depth approach and block the vector that permits returning arbitrary files and execution as JSP may upgrade to Apache Tomcat 9.0.31, 8.5.51 or 7.0.100 or later. A number of changes were made to the default AJP Connector configuration in 9.0.31 to harden the default configuration. It is likely that users upgrading to 9.0.31, 8.5.51 or 7.0.100 or later will need to make small changes to their configurations.| 
 | 20210427T12:21:49Z | CVE-2021-31221 | Indicator of Compromise Scanner for CVE-2021-31221  | https://github.com/fireaye/ioc-scanner-CVE-2021-31221 | 未查询到CVE信息| 
 
@@ -100,6 +100,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210429T00:42:35Z | #Just a simple program to upload shell backdoor to vulnrability website  | https://github.com/FajarTheGGman/CSRF-Uploader | 1 | 1| 
 | 20210429T00:05:08Z | My Personal Portfolio | https://github.com/FlyingBackdoor/FlyingBackdoor.github.io | 0 | 0| 
 | 20210428T22:34:25Z | The best backdoor scanner there is. | https://github.com/iK4oS/backdoor.exe | 1 | 1| 
 | 20210428T21:55:33Z | Null | https://github.com/connorbuck/backdoor-dispensary-website | 0 | 0| 
@@ -109,7 +110,6 @@
 | 20210428T14:35:57Z | the dashboard for managing the backdoor data for the luxr system | https://github.com/EDMONDGIHOZO/luxr_dashboard | 0 | 0| 
 | 20210428T13:53:23Z | A token logger for discord + steals Brave/Chrome passwords and usernames | https://github.com/CUPZYY/Backdoor-Machine | 1 | 0| 
 | 20210428T07:11:50Z | Dette er basic runcode. Brug CEVA eller noget andet til at test lortet. Tak til @servercfg for den orginalle backdoor da vi fik ideen ud fra dem.  | https://github.com/DerpIsInactive/VpsStealerFiveM | 4 | 1| 
-| 20210428T03:32:24Z | 🤖An Evil and Smart Bot for Enslaving Windows. | https://github.com/wildonion/katyusha | 3 | 1| 
 
 
 # fuzz on Github 推荐
