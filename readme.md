@@ -101,13 +101,13 @@
 | 20210428T23:51:31Z | Null | https://github.com/Sht97/fuzzy-waddle | 0 | 0| 
 | 20210428T23:41:50Z | Null | https://github.com/JonathanScialpi/CorDapp_Fuzzer | 0 | 0| 
 | 20210428T23:24:18Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2318 | 126| 
-| 20210428T23:24:01Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 1658 | 329| 
 | 20210428T23:18:06Z | RESTler is the first stateful REST API fuzzing tool for automatically testing cloud services through their REST APIs and finding security and reliability bugs in these services. | https://github.com/microsoft/restler-fuzzer | 757 | 79| 
 | 20210428T23:08:36Z | Remote areas monitoring IoT node: ULP (Energy-harvesting powered) fire detection & alarming system using Fuzzy logic with an edge computing approach for daily temperature logging. | https://github.com/Rad-hi/Fuzzy_Fire_Detection | 0 | 0| 
 | 20210428T22:29:54Z | Real-time physically-based atmospheric scattering using Vulkan and Rust | https://github.com/Ralith/fuzzyblue | 11 | 1| 
 | 20210428T22:04:49Z | Ev description  | https://github.com/muz4151/fuzzy-succotash | 0 | 0| 
 | 20210428T21:57:57Z | 99minutos coverage maps | https://github.com/99minutos/fuzzy-journey | 0 | 0| 
 | 20210428T21:47:57Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6239 | 1260| 
+| 20210428T21:44:37Z | Usermode code for the ARM OS fuzzer project | https://github.com/jprx/arm-os-fuzzer-usercode | 0 | 0| 
 
 
 

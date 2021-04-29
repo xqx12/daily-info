@@ -85,8 +85,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210429T01:57:52Z | Null | https://github.com/WhoTippedMyCows/SoftwareExploitation | 0 | 0| 
 | 20210429T01:52:31Z | Null | https://github.com/b1tg/CVE-2018-6065-exploit | 0 | 0| 
-| 20210429T01:52:09Z | Null | https://github.com/WhoTippedMyCows/SoftwareExploitation | 0 | 0| 
 | 20210429T01:49:58Z | CTFs and solutions for Linux binary exploitation. | https://github.com/MaherAzzouzi/LinuxExploitation | 17 | 8| 
 | 20210429T01:38:44Z | exploit-database-papers | https://github.com/offensive-security/exploitdb-papers | 298 | 41| 
 | 20210429T01:02:41Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 22 | 9| 
@@ -115,16 +115,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210429T00:35:42Z | Null | https://github.com/VeriBlock/fuzz-corpus | 0 | 1| 
+| 20210429T01:55:34Z |  Memilih 10 restoran terbaik di kota A dengan menggunakan fuzzy logic | https://github.com/krobus00/Tugas-2-Pengantar-AI-Fuzzy-Logic | 0 | 0| 
+| 20210429T01:50:39Z | Null | https://github.com/gasukageloy/fuzzy-computing-machine | 0 | 0| 
+| 20210429T01:47:10Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 1660 | 329| 
+| 20210429T01:15:26Z | Null | https://github.com/VeriBlock/fuzz-corpus | 0 | 1| 
 | 20210428T23:51:31Z | Null | https://github.com/Sht97/fuzzy-waddle | 0 | 0| 
 | 20210428T23:41:50Z | Null | https://github.com/JonathanScialpi/CorDapp_Fuzzer | 0 | 0| 
 | 20210428T23:24:18Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2318 | 126| 
-| 20210428T23:24:01Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 1658 | 329| 
 | 20210428T23:18:06Z | RESTler is the first stateful REST API fuzzing tool for automatically testing cloud services through their REST APIs and finding security and reliability bugs in these services. | https://github.com/microsoft/restler-fuzzer | 757 | 79| 
 | 20210428T23:08:36Z | Remote areas monitoring IoT node: ULP (Energy-harvesting powered) fire detection & alarming system using Fuzzy logic with an edge computing approach for daily temperature logging. | https://github.com/Rad-hi/Fuzzy_Fire_Detection | 0 | 0| 
 | 20210428T22:29:54Z | Real-time physically-based atmospheric scattering using Vulkan and Rust | https://github.com/Ralith/fuzzyblue | 11 | 1| 
-| 20210428T22:04:49Z | Ev description  | https://github.com/muz4151/fuzzy-succotash | 0 | 0| 
-| 20210428T21:57:57Z | 99minutos coverage maps | https://github.com/99minutos/fuzzy-journey | 0 | 0| 
 
 
 
