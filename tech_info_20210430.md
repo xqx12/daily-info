@@ -21,7 +21,7 @@
 | 20210430T09:43:25Z | CVE-2020-27955 | Null | https://github.com/DeeLMind/CVE-2020-27955-LFS | Git LFS 2.12.0 allows Remote Code Execution.| 
 | 20210430T08:34:16Z | CVE-2020-9496 | Apache OFBiz unsafe deserialization of XMLRPC arguments | https://github.com/g33xter/CVE-2020-9496 | XML-RPC request are vulnerable to unsafe deserialization and Cross-Site Scripting issues in Apache OFBiz 17.12.03| 
 | 20210430T08:30:02Z | CVE-2021-30128 | Null | https://github.com/LioTree/CVE-2021-30128-EXP | | 
-| 20210430T02:36:18Z | cve-2021-3449 | CVE-2021-3449 OpenSSL denial-of-service exploit 👨🏻‍💻 | https://github.com/terorie/cve-2021-3449 | An OpenSSL TLS server may crash if sent a maliciously crafted renegotiation ClientHello message from a client. If a TLSv1.2 renegotiation ClientHello omits the signature_algorithms extension (where it was present in the initial ClientHello), but includes a signature_algorithms_cert extension then a NULL pointer dereference will result, leading to a crash and a denial of service attack. A server is only vulnerable if it has TLSv1.2 and renegotiation enabled (which is the default configuration). OpenSSL TLS clients are not impacted by this issue. All OpenSSL 1.1.1 versions are affected by this issue. Users of these versions should upgrade to OpenSSL 1.1.1k. OpenSSL 1.0.2 is not impacted by this issue. Fixed in OpenSSL 1.1.1k (Affected 1.1.1-1.1.1j).| 
+| 20210430T02:36:18Z | cve-2021-3449 | CVE-2021-3449 OpenSSL denial-of-service exploit 👨🏻‍💻 | https://github.com/terorie/cve-2021-3449 | | 
 | 20210430T02:01:44Z | CVE-2021-3156 | Null | https://github.com/dock0d1/CVE-2021-3156 | Sudo before 1.9.5p2 contains an off-by-one error that can result in a heap-based buffer overflow, which allows privilege escalation to root via %sudoedit -s% and a command-line argument that ends with a single backslash character.| 
 | 20210430T01:21:12Z | CVE-2021-27552 | Steps for Exploitation  | https://github.com/sapkota2k20/CVE-2021-27552 | 未查询到CVE信息| 
 
@@ -56,7 +56,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210430T12:02:04Z | Null | https://github.com/connorbuck/backdoor-dispensary-website | 0 | 0| 
+| 20210430T12:05:48Z | Null | https://github.com/connorbuck/backdoor-dispensary-website | 0 | 0| 
 | 20210430T10:46:49Z | Script backdoor upload untuk disisipkan pada file php yang ada di website target  | https://github.com/kurniawandata/xcodebackdoorupload | 1 | 2| 
 | 20210430T10:42:34Z | Tool untuk membantu eksploitasi shell di linux target seperti membuat user backdoor dengan akses root, mendapatkan user dan password linux dari memory server dan menghapus jejak dari target server | https://github.com/kurniawandata/xcodeshellexploitation | 3 | 1| 
 | 20210430T09:02:33Z | Adversarial Backdoor Attack | https://github.com/ZQ-Struggle/AdvDoor | 0 | 0| 
