@@ -15,6 +15,8 @@
 | 20210429 | Ubuntu 内核 OverlayFS 提权漏洞分析（CVE-2021-3493）。 | https://mp.weixin.qq.com/s?__biz=MzAwNTI1NDI3MQ==&mid=2649616308&idx=1&sn=f5712d1c7082d6b7fcff67955db299b3&chksm=830632a4b471bbb2e069f0e8ddfb0f3a10a66b6af479034dd434550fb0d653c6613ef6d0d897&&xtrack=1&scene=90&subscene=93| 
 | 20210429 | 有证据显示网络间谍组织 UNC1151 与 Ghostwriter 行动有关。 | https://www.fireeye.com/blog/threat-research/2021/04/espionage-group-unc1151-likely-conducts-ghostwriter-influence-activity.html| 
 | 20210429 | ATT&CK 发布了 v9 更新，主要更新了数据源，增加了 Containers 和 Google Workspace 平台和替换 AWS 等服务平台。 | https://medium.com/mitre-attack/attack-april-2021-release-39accaf23c81| 
+| 20210429 | TBONE（Tesla 的一些安全漏洞）细节公开。 | https://kunnamon.io/tbone/| 
+| 20210429 | 探究 Intel CET 技术的应用。 | https://www.offensive-security.com/offsec/intel-cet-in-action/| 
 | 20210428 | Linux Kernel 5.13 加入了堆栈随机偏移的特性，提高内核堆栈的安全性。 | https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/commit/?id=eea2647e74cd7bd5d04861ce55fa502de165de14| 
 | 20210428 | Abusing Replication: Stealing AD FS Secrets Over the Network | https://www.fireeye.com/blog/threat-research/2021/04/abusing-replication-stealing-adfs-secrets-over-the-network.html| 
 | 20210428 | SignedUEFIShell：签名的 UEFIShell，和 ACPI WPBT 的 PoC。 | https://github.com/HackingThings/SignedUEFIShell| 
@@ -24,8 +26,6 @@
 | 20210428 | 如何导出 ADFS 配置数据和加密密钥以提取 ADFS 证书，同时如何检测和预防这类攻击。 | https://o365blog.com/post/adfs/| 
 | 20210428 | BeaconHunter：基于 ETW（Event Tracing for Windows）检测并响应 Cobalt Strike 攻击。 | https://github.com/3lp4tr0n/BeaconHunter| 
 | 20210428 | 通过 ADExplorer 离线检索 Active Directory。 | https://www.trustedsec.com/blog/adexplorer-on-engagements/| 
-| 20210428 | 滥用 session moniker 激活其它 session，进行跨会话攻击。 | https://www.tiraniddo.dev/2021/04/standard-activating-yourself-to.html| 
-| 20210428 | 利用 AFL++ 和 Ghidra emulation engine 来 fuzz 嵌入式程序。 | https://airbus-cyber-security.com/fuzzing-exotic-arch-with-afl-using-ghidra-emulator/| 
 
 
 # 安全维基 推荐
@@ -49,12 +49,12 @@
 | 20210429T18:04:35Z | CVE-2021-30128 | Null | https://github.com/LioTree/CVE-2021-30128 | Apache OFBiz has unsafe deserialization prior to 17.12.07 version| 
 | 20210429T14:33:16Z | CVE-2021-31221 |  Indicator of Compromise Scanner for CVE-2021-31221  | https://github.com/f1reeye/ioc-scanner-CVE-2021-31221 | 未查询到CVE信息| 
 | 20210429T13:40:15Z | 未知编号 | 2020l4web-app-mockup-DanCvejn created by GitHub Classroom | https://github.com/pslib-cz/2020l4web-app-mockup-DanCvejn | 未查询到CVE信息| 
-| 20210429T09:13:57Z | cve-2021-3449 | CVE-2021-3449 OpenSSL denial-of-service exploit 👨🏻‍💻 | https://github.com/terorie/cve-2021-3449 | An OpenSSL TLS server may crash if sent a maliciously crafted renegotiation ClientHello message from a client. If a TLSv1.2 renegotiation ClientHello omits the signature_algorithms extension (where it was present in the initial ClientHello), but includes a signature_algorithms_cert extension then a NULL pointer dereference will result, leading to a crash and a denial of service attack. A server is only vulnerable if it has TLSv1.2 and renegotiation enabled (which is the default configuration). OpenSSL TLS clients are not impacted by this issue. All OpenSSL 1.1.1 versions are affected by this issue. Users of these versions should upgrade to OpenSSL 1.1.1k. OpenSSL 1.0.2 is not impacted by this issue. Fixed in OpenSSL 1.1.1k (Affected 1.1.1-1.1.1j).| 
+| 20210429T09:13:57Z | cve-2021-3449 | CVE-2021-3449 OpenSSL denial-of-service exploit 👨🏻‍💻 | https://github.com/terorie/cve-2021-3449 | | 
 | 20210429T02:14:00Z | CVE-2021-26868 | Null | https://github.com/mavillon/CVE-2021-26868 | Windows Graphics Component Elevation of Privilege Vulnerability| 
 | 20210429T02:12:22Z | CVE-2020-14295 | Authenticated SQL injection to command execution on Cacti 1.2.12  | https://github.com/0z09e/CVE-2020-14295 | A SQL injection issue in color.php in Cacti 1.2.12 allows an admin to inject SQL via the filter parameter. This can lead to remote command execution because the product accepts stacked queries.| 
 | 20210428T20:21:33Z | CVE-2020-14321 | Null | https://github.com/lanzt/CVE-2020-14321 | 未查询到CVE信息| 
 | 20210428T16:27:03Z | CVE-2020-8958 | CVE-2020-8958: Authenticated RCE exploit for NetLink HG323 | https://github.com/Asjidkalam/CVE-2020-8958 | Guangzhou 1GE ONU V2801RW 1.9.1-181203 through 2.9.0-181024 and V2804RGW 1.9.1-181203 through 2.9.0-181024 devices allow remote attackers to execute arbitrary OS commands via shell metacharacters in the boaform/admin/formPing Dest IP Address field.| 
-| 20210428T11:41:24Z | CVE-2021-22192 | CVE-2021-22192 靶场： 未授权用户 RCE 漏洞 | https://github.com/lyy289065406/CVE-2021-22192 | | 
+| 20210428T11:41:24Z | CVE-2021-22192 | CVE-2021-22192 靶场： 未授权用户 RCE 漏洞 | https://github.com/lyy289065406/CVE-2021-22192 | An issue has been discovered in GitLab CE/EE affecting all versions starting from 13.2 allowing unauthorized authenticated users to execute arbitrary code on the server.| 
 | 20210428T02:29:30Z | CVE-2020-27199 | CVE-2020-27199 | https://github.com/9lyph/CVE-2020-27199 | The Magic Home Pro application 1.5.1 for Android allows Authentication Bypass. The security control that the application currently has in place is a simple Username and Password authentication function. Using enumeration, an attacker is able to forge a User specific token without the need for correct password to gain access to the mobile application as that victim user.| 
 
 
@@ -85,6 +85,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210430T01:03:07Z | A Roblox admin script designed to put the user%s best interests into consideration, and make Roblox more interesting. | https://github.com/ex7ase/eden | 0 | 0| 
+| 20210430T01:02:39Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 22 | 9| 
 | 20210430T00:59:07Z | Keeps track of what repos needs to be saved from the new Github % Exploits and malware policy% | https://github.com/SamantazFox/cybersec-archive | 3 | 1| 
 | 20210430T00:50:58Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 15 | 11| 
 | 20210430T00:47:24Z | Tools and Exploits | https://github.com/abundov/exploits | 0 | 0| 
@@ -92,9 +94,7 @@
 | 20210430T00:20:32Z | An happy heap editor to support your exploitation process :slightly_smiling_face: | https://github.com/gand3lf/heappy | 4 | 0| 
 | 20210430T00:09:55Z | Hack/Exploits for https://krunker.io/ | https://github.com/glixzzy/krunker.io-hacks | 7 | 31| 
 | 20210430T00:04:45Z | Null | https://github.com/supercellgamer/Exploit-GUI | 0 | 0| 
-| 20210430T00:02:50Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 22 | 9| 
 | 20210430T00:02:03Z | Null | https://github.com/robloxHacks2021/Exploit-GUI | 0 | 0| 
-| 20210429T23:43:10Z | The AWS exploitation framework, designed for testing the security of Amazon Web Services environments. | https://github.com/RhinoSecurityLabs/pacu | 2025 | 365| 
 
 
 # backdoor on Github 推荐
