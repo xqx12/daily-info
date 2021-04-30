@@ -47,12 +47,12 @@
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
 | 20210429T18:04:35Z | CVE-2021-30128 | Null | https://github.com/LioTree/CVE-2021-30128 | Apache OFBiz has unsafe deserialization prior to 17.12.07 version| 
-| 20210429T14:33:16Z | CVE-2021-31221 |  Indicator of Compromise Scanner for CVE-2021-31221  | https://github.com/f1reeye/ioc-scanner-CVE-2021-31221 | | 
+| 20210429T14:33:16Z | CVE-2021-31221 |  Indicator of Compromise Scanner for CVE-2021-31221  | https://github.com/f1reeye/ioc-scanner-CVE-2021-31221 | 未查询到CVE信息| 
 | 20210429T13:40:15Z | 未知编号 | 2020l4web-app-mockup-DanCvejn created by GitHub Classroom | https://github.com/pslib-cz/2020l4web-app-mockup-DanCvejn | 未查询到CVE信息| 
-| 20210429T09:13:57Z | cve-2021-3449 | CVE-2021-3449 OpenSSL denial-of-service exploit 👨🏻‍💻 | https://github.com/terorie/cve-2021-3449 | An OpenSSL TLS server may crash if sent a maliciously crafted renegotiation ClientHello message from a client. If a TLSv1.2 renegotiation ClientHello omits the signature_algorithms extension (where it was present in the initial ClientHello), but includes a signature_algorithms_cert extension then a NULL pointer dereference will result, leading to a crash and a denial of service attack. A server is only vulnerable if it has TLSv1.2 and renegotiation enabled (which is the default configuration). OpenSSL TLS clients are not impacted by this issue. All OpenSSL 1.1.1 versions are affected by this issue. Users of these versions should upgrade to OpenSSL 1.1.1k. OpenSSL 1.0.2 is not impacted by this issue. Fixed in OpenSSL 1.1.1k (Affected 1.1.1-1.1.1j).| 
+| 20210429T09:13:57Z | cve-2021-3449 | CVE-2021-3449 OpenSSL denial-of-service exploit 👨🏻‍💻 | https://github.com/terorie/cve-2021-3449 | | 
 | 20210429T02:14:00Z | CVE-2021-26868 | Null | https://github.com/mavillon/CVE-2021-26868 | Windows Graphics Component Elevation of Privilege Vulnerability| 
 | 20210429T02:12:22Z | CVE-2020-14295 | Authenticated SQL injection to command execution on Cacti 1.2.12  | https://github.com/0z09e/CVE-2020-14295 | A SQL injection issue in color.php in Cacti 1.2.12 allows an admin to inject SQL via the filter parameter. This can lead to remote command execution because the product accepts stacked queries.| 
-| 20210428T20:21:33Z | CVE-2020-14321 | Null | https://github.com/lanzt/CVE-2020-14321 | 未查询到CVE信息| 
+| 20210428T20:21:33Z | CVE-2020-14321 | Null | https://github.com/lanzt/CVE-2020-14321 | | 
 | 20210428T16:27:03Z | CVE-2020-8958 | CVE-2020-8958: Authenticated RCE exploit for NetLink HG323 | https://github.com/Asjidkalam/CVE-2020-8958 | Guangzhou 1GE ONU V2801RW 1.9.1-181203 through 2.9.0-181024 and V2804RGW 1.9.1-181203 through 2.9.0-181024 devices allow remote attackers to execute arbitrary OS commands via shell metacharacters in the boaform/admin/formPing Dest IP Address field.| 
 | 20210428T11:41:24Z | CVE-2021-22192 | CVE-2021-22192 靶场： 未授权用户 RCE 漏洞 | https://github.com/lyy289065406/CVE-2021-22192 | An issue has been discovered in GitLab CE/EE affecting all versions starting from 13.2 allowing unauthorized authenticated users to execute arbitrary code on the server.| 
 | 20210428T02:29:30Z | CVE-2020-27199 | CVE-2020-27199 | https://github.com/9lyph/CVE-2020-27199 | The Magic Home Pro application 1.5.1 for Android allows Authentication Bypass. The security control that the application currently has in place is a simple Username and Password authentication function. Using enumeration, an attacker is able to forge a User specific token without the need for correct password to gain access to the mobile application as that victim user.| 
@@ -85,12 +85,12 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210430T00:01:09Z | Null | https://github.com/robloxHacks2021/Exploit-GUI | 0 | 0| 
+| 20210430T00:02:50Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 22 | 9| 
+| 20210430T00:02:13Z | Null | https://github.com/supercellgamer/Exploit-GUI | 0 | 0| 
+| 20210430T00:02:03Z | Null | https://github.com/robloxHacks2021/Exploit-GUI | 0 | 0| 
 | 20210429T23:54:18Z | Keeps track of what repos needs to be saved from the new Github % Exploits and malware policy% | https://github.com/SamantazFox/cybersec-archive | 1 | 1| 
-| 20210429T23:47:33Z | Null | https://github.com/supercellgamer/Exploit-GUI | 0 | 0| 
 | 20210429T23:43:10Z | The AWS exploitation framework, designed for testing the security of Amazon Web Services environments. | https://github.com/RhinoSecurityLabs/pacu | 2025 | 365| 
 | 20210429T23:17:18Z | Root repository for CS 6265: Information Security Lab - Reverse Engineering and Binary Exploitation | https://github.com/one2blame/cs6265 | 1 | 2| 
-| 20210429T23:02:42Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 22 | 9| 
 | 20210429T23:02:06Z | Null | https://github.com/th3ken-dev/TH3KEN-EDITON | 2 | 0| 
 | 20210429T22:45:16Z | Exploit for CVE-2018-19320 | https://github.com/a00x90/CVE-2018-19320 | 0 | 0| 
 | 20210429T22:38:04Z | PS4 Exploit Host | https://github.com/Night-King-Host/Night-King-Host.github.io | 8 | 4| 
@@ -100,31 +100,31 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210429T12:55:51Z | auth & backdoor removed | https://github.com/Not-Hax/melonhack-cracked | 0 | 0| 
-| 20210429T12:55:43Z | A demo and explanation of how a trojan backdoor attack can be performed on the classic MNIST experiment | https://github.com/adit-bala/Introduction-to-Trojans-in-AI | 0 | 0| 
+| 20210429T23:48:14Z | Null | https://github.com/connorbuck/backdoor-dispensary-website | 0 | 0| 
+| 20210429T19:15:38Z | Quickly create a backdoor on the US Cyber Range Dual Environment | https://github.com/cyber-org/backdoor | 0 | 0| 
+| 20210429T19:10:19Z | Python 3 IRC Bot / Botnet | https://github.com/trackmastersteve/HackServ | 19 | 16| 
+| 20210429T17:36:15Z | Implementation of Stealthy Backdoors as Compression Artifacts | https://github.com/yulongtzzz/Stealthy-Backdoors-as-Compression-Artifacts | 0 | 0| 
+| 20210429T16:05:59Z | USBdriveby is a device you stylishly wear around your neck which can quickly and covertly install a backdoor and override DNS settings on an unlocked machine via USB in a matter of seconds. It does this by emulating a keyboard and mouse, blindly typing controlled commands, flailing the mouse pointer around and weaponizing mouse clicks.  In this project, we%ll learn how to exploit a system%s blind trust in USB devices, and learn how a $20 Teensy microcontroller can evade various security settings on a real system, open a permanent backdoor, disable a firewall, control the flow of network traffic, and all within a few seconds and permanently, even after the device has been removed. | https://github.com/4df/usbdriveby | 1 | 0| 
+| 20210429T15:20:13Z | TrojanZoo provides a universal pytorch platform to conduct security researches (especially backdoor attacks/defenses) of image classification in deep learning. | https://github.com/ain-soph/trojanzoo | 68 | 11| 
+| 20210429T14:56:30Z | A demo and explanation of how a trojan backdoor attack can be performed on the classic MNIST experiment | https://github.com/adit-bala/Introduction-to-Trojans-in-AI | 0 | 0| 
+| 20210429T13:01:46Z | auth & backdoor removed | https://github.com/Not-Hax/melonhack-cracked | 1 | 0| 
 | 20210429T12:13:17Z | Dashboard for conducting Backdoors and Breaches sessions over Zoom. | https://github.com/p3hndrx/B-B-Shuffle | 38 | 2| 
 | 20210429T11:53:11Z | Python based backdoor that uses Gmail to exfiltrate data as an e-mail attachment. | https://github.com/krishpranav/powershell-rat | 0 | 0| 
-| 20210429T11:41:17Z | the dashboard for managing the backdoor data for the luxr system | https://github.com/EDMONDGIHOZO/luxr_dashboard | 0 | 0| 
-| 20210429T09:21:23Z | All Alfa Tesla / Team Web Shell Backdoors | https://github.com/PhenaxGod/Alfa-Shell | 0 | 0| 
-| 20210429T07:42:15Z | phpStudy后门检测工具 | https://github.com/Assassins-white/phpStudy_BackDoor | 0 | 0| 
-| 20210429T07:38:24Z | A token logger for discord + steals Brave/Chrome passwords and usernames | https://github.com/CUPZYY/Backdoor-Machine | 1 | 0| 
-| 20210429T02:17:25Z | Python 3 IRC Bot / Botnet | https://github.com/trackmastersteve/HackServ | 19 | 16| 
-| 20210429T00:42:35Z | #Just a simple program to upload shell backdoor to vulnrability website  | https://github.com/FajarTheGGman/CSRF-Uploader | 1 | 1| 
 
 
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210429T12:50:55Z | Null | https://github.com/ia87/FuzzBuzz | 0 | 0| 
-| 20210429T12:49:19Z | Binary, coverage-guided fuzzer for Windows and macOS | https://github.com/googleprojectzero/Jackalope | 505 | 56| 
-| 20210429T12:33:57Z |  Memilih 10 restoran terbaik di kota A dengan menggunakan fuzzy logic | https://github.com/krobus00/Tugas-2-Pengantar-AI-Fuzzy-Logic | 0 | 0| 
-| 20210429T12:29:46Z | Null | https://github.com/s9varesc/url-fuzzing | 1 | 1| 
-| 20210429T12:28:35Z | Null | https://github.com/mnurichsan/beasiswa-fuzzy | 0 | 0| 
-| 20210429T12:05:46Z | Write a program to print the Union of 2 fuzzy sets | https://github.com/OmkarGharat/Union-of-2-fuzzy-Sets | 1 | 0| 
-| 20210429T12:03:47Z | Write a program to print Intersection of 2 fuzzy sets | https://github.com/OmkarGharat/Intersection-of-2-fuzzy-sets | 1 | 0| 
-| 20210429T11:35:00Z | Tugpro 2 AI | https://github.com/AkbarFauzy/Tugpro2_FuzzyAlgorithm | 0 | 0| 
-| 20210429T11:15:20Z | Null | https://github.com/AshwAthi8/r0fuzz | 1 | 0| 
-| 20210429T11:12:56Z | Implementation of a differential fuzzer for Ethereum Virtual Machines | https://github.com/MariusVanDerWijden/FuzzyVM | 7 | 2| 
+| 20210430T00:03:34Z | Software for fuzzing, used on web application pentestings. | https://github.com/NESCAU-UFLA/FuzzingTool | 65 | 15| 
+| 20210430T00:03:03Z | %Seed Selection for Successful Fuzzing% artifact (at ISSTA 2021) | https://github.com/HexHive/fuzzing-seed-selection | 2 | 0| 
+| 20210429T23:56:51Z | Hi thre, I%m TRÄW🤟🏻, i%m a beginner in ethical hacking and Content Creator on Level iv Security & NOOBSEC. I Spend most of time coding outstanding ethical hacking projects or recording useful short tutorials . I love programming ethical hacking tools, fuzzing and hacking all the things | https://github.com/spectertraww/spectertraww | 1 | 0| 
+| 20210429T23:02:38Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 3 | 4| 
+| 20210429T22:43:27Z | Null | https://github.com/opimentel-github/fuzzy-torch | 1 | 0| 
+| 20210429T22:39:27Z | Null | https://github.com/rizkyasepsutrisna/FuzzyLogicBestRestaurant | 0 | 0| 
+| 20210429T22:39:09Z | To make fuzzing Rust easy | https://github.com/trailofbits/test-fuzz | 1 | 1| 
+| 20210429T22:19:53Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6238 | 1260| 
+| 20210429T21:43:56Z | 3D surface adaptation problem resolved with a fuzzy filtered genetic algorithm made with Python. | https://github.com/AlexisNeri/Fuzzy_GA_Curve | 0 | 0| 
+| 20210429T21:23:33Z | JQF + Zest: Coverage-guided semantic fuzzing for Java. | https://github.com/rohanpadhye/JQF | 349 | 50| 
 
 
 
