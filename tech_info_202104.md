@@ -85,6 +85,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210430T12:25:21Z | xcube is a Python package for generating and exploiting data cubes powered by xarray, dask, and zarr. | https://github.com/dcs4cop/xcube | 74 | 13| 
 | 20210430T12:07:34Z | Keeps track of what repos needs to be saved from the new Github % Exploits and malware policy% | https://github.com/SamantazFox/cybersec-archive | 10 | 1| 
 | 20210430T12:07:06Z | PS4 Exploit list | https://github.com/Hakkuraifu/PS4xploit | 43 | 12| 
 | 20210430T12:02:43Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 22 | 9| 
@@ -94,14 +95,13 @@
 | 20210430T11:02:53Z | A python script file to statically and dynamically investigate and analyse binary files for buffer overflow exploits. | https://github.com/BroadbentT/BINARY-MASTER | 5 | 1| 
 | 20210430T10:34:41Z | Adds some exploits | https://github.com/powerfart-plugins/forbidden-fruit | 0 | 0| 
 | 20210430T10:31:21Z | The official Exploit Database repository | https://github.com/offensive-security/exploitdb | 6072 | 1721| 
-| 20210430T09:39:21Z | Null | https://github.com/NoctisAtrae/exploitneverland | 0 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210430T12:24:52Z | Null | https://github.com/connorbuck/backdoor-dispensary-website | 0 | 0| 
 | 20210430T12:21:32Z | Null | https://github.com/Hem1700/reverse_backdoor | 0 | 0| 
-| 20210430T12:19:54Z | Null | https://github.com/connorbuck/backdoor-dispensary-website | 0 | 0| 
 | 20210430T10:46:49Z | Script backdoor upload untuk disisipkan pada file php yang ada di website target  | https://github.com/kurniawandata/xcodebackdoorupload | 1 | 2| 
 | 20210430T10:42:34Z | Tool untuk membantu eksploitasi shell di linux target seperti membuat user backdoor dengan akses root, mendapatkan user dan password linux dari memory server dan menghapus jejak dari target server | https://github.com/kurniawandata/xcodeshellexploitation | 3 | 1| 
 | 20210430T09:02:33Z | Adversarial Backdoor Attack | https://github.com/ZQ-Struggle/AdvDoor | 0 | 0| 
