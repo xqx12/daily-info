@@ -6,6 +6,7 @@
 # 玄武实验室 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20210429 | IDA Pro：如何编写IDA Python脚本以跟踪执行的功能视频教程 | https://www.youtube.com/watch?v=uWVQUfhEbpM&feature=youtu.be| 
 
 
 # 安全维基 推荐
@@ -26,8 +27,10 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20210429T18:04:35Z | CVE-2021-30128 | Null | https://github.com/LioTree/CVE-2021-30128 | Apache OFBiz has unsafe deserialization prior to 17.12.07 version| 
+| 20210429T14:33:16Z | CVE-2021-31221 |  Indicator of Compromise Scanner for CVE-2021-31221  | https://github.com/f1reeye/ioc-scanner-CVE-2021-31221 | | 
+| 20210429T13:40:15Z | 未知编号 | 2020l4web-app-mockup-DanCvejn created by GitHub Classroom | https://github.com/pslib-cz/2020l4web-app-mockup-DanCvejn | 未查询到CVE信息| 
 | 20210429T09:13:57Z | cve-2021-3449 | CVE-2021-3449 OpenSSL denial-of-service exploit 👨🏻‍💻 | https://github.com/terorie/cve-2021-3449 | An OpenSSL TLS server may crash if sent a maliciously crafted renegotiation ClientHello message from a client. If a TLSv1.2 renegotiation ClientHello omits the signature_algorithms extension (where it was present in the initial ClientHello), but includes a signature_algorithms_cert extension then a NULL pointer dereference will result, leading to a crash and a denial of service attack. A server is only vulnerable if it has TLSv1.2 and renegotiation enabled (which is the default configuration). OpenSSL TLS clients are not impacted by this issue. All OpenSSL 1.1.1 versions are affected by this issue. Users of these versions should upgrade to OpenSSL 1.1.1k. OpenSSL 1.0.2 is not impacted by this issue. Fixed in OpenSSL 1.1.1k (Affected 1.1.1-1.1.1j).| 
-| 20210429T08:02:44Z | CVE-2021-31221 |  Indicator of Compromise Scanner for CVE-2021-31221  | https://github.com/f1reeye/ioc-scanner-CVE-2021-31221 | 未查询到CVE信息| 
 | 20210429T02:14:00Z | CVE-2021-26868 | Null | https://github.com/mavillon/CVE-2021-26868 | Windows Graphics Component Elevation of Privilege Vulnerability| 
 | 20210429T02:12:22Z | CVE-2020-14295 | Authenticated SQL injection to command execution on Cacti 1.2.12  | https://github.com/0z09e/CVE-2020-14295 | A SQL injection issue in color.php in Cacti 1.2.12 allows an admin to inject SQL via the filter parameter. This can lead to remote command execution because the product accepts stacked queries.| 
 
@@ -35,7 +38,10 @@
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210429T09:05:13Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 的 Klee One 的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 427 | 10| 
+| 20210429T15:15:02Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 的 Klee One 的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 428 | 10| 
+| 20210429T15:01:26Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1679 | 492| 
+| 20210429T14:46:08Z | 99484C Worlds Code | https://github.com/Jython1415/penguin-Klee | 1 | 0| 
+| 20210429T13:08:35Z | Website for the KLEE project: https://klee.github.io/ | https://github.com/klee/klee.github.io | 14 | 43| 
 | 20210429T03:36:29Z | An opiniated Next TypeScript powered starter which include Klee, emotion / styled-system, framer motion, jest and Cypress | https://github.com/Liinkiing/next-ts-klee-starter | 0 | 0| 
 
 
@@ -47,16 +53,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210429T12:53:27Z | Null | https://github.com/Zubee567AA/HydiaExploit | 0 | 0| 
-| 20210429T12:41:00Z | viiper Exploit website | https://github.com/ThatsMyMute/viiper.xyz | 0 | 0| 
-| 20210429T12:40:20Z | Config files for my GitHub profile. | https://github.com/exploitblizzard/exploitblizzard | 0 | 0| 
-| 20210429T12:36:14Z | PS1 savegame exploit | https://github.com/socram8888/tonyhax | 264 | 7| 
-| 20210429T12:35:15Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9344 | 1509| 
-| 20210429T12:02:39Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 22 | 9| 
-| 20210429T11:51:23Z | An anti-exploit attempt for Fabric | https://github.com/samolego/GolfIV | 21 | 3| 
-| 20210429T11:44:23Z | Null | https://github.com/johnreysd/Dahood-Crasher-Exploit | 0 | 0| 
-| 20210429T11:23:52Z | Null | https://github.com/Maverick-asmit/Exploit | 0 | 0| 
-| 20210429T11:21:15Z | my https://exploit.education/ writeups | https://github.com/amirr0r/exploit-exercises | 0 | 0| 
+| 20210429T23:54:18Z | Keeps track of what repos needs to be saved from the new Github % Exploits and malware policy% | https://github.com/SamantazFox/cybersec-archive | 1 | 1| 
+| 20210429T23:47:33Z | Null | https://github.com/supercellgamer/Exploit-GUI | 0 | 0| 
+| 20210429T23:43:10Z | The AWS exploitation framework, designed for testing the security of Amazon Web Services environments. | https://github.com/RhinoSecurityLabs/pacu | 2025 | 365| 
+| 20210429T23:17:18Z | Root repository for CS 6265: Information Security Lab - Reverse Engineering and Binary Exploitation | https://github.com/one2blame/cs6265 | 1 | 2| 
+| 20210429T23:02:42Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 22 | 9| 
+| 20210429T23:02:06Z | Null | https://github.com/th3ken-dev/TH3KEN-EDITON | 2 | 0| 
+| 20210429T22:45:16Z | Exploit for CVE-2018-19320 | https://github.com/a00x90/CVE-2018-19320 | 0 | 0| 
+| 20210429T22:38:04Z | PS4 Exploit Host | https://github.com/Night-King-Host/Night-King-Host.github.io | 8 | 4| 
+| 20210429T22:15:53Z | Sécurité des logiciels et exploitation de vulnérabilités | https://github.com/ppepos/inf600c | 4 | 0| 
+| 20210429T21:55:09Z | Bukkit/BungeeCord plugin that aims on fixing Exploits in your Minecraft network. [Requires HamsterAPI to work] | https://github.com/2lstudios-mc/ExploitFixer | 85 | 23| 
 
 
 # backdoor on Github 推荐
