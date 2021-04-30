@@ -85,10 +85,10 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210430T01:24:07Z | Keeps track of what repos needs to be saved from the new Github % Exploits and malware policy% | https://github.com/SamantazFox/cybersec-archive | 4 | 1| 
 | 20210430T01:21:12Z | Steps for Exploitation  | https://github.com/sapkota2k20/CVE-2021-27552 | 0 | 0| 
 | 20210430T01:16:22Z | A Roblox admin script designed to put the user%s best interests into consideration, and make Roblox more interesting. | https://github.com/ex7ase/eden | 0 | 0| 
 | 20210430T01:02:39Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 22 | 9| 
-| 20210430T00:59:07Z | Keeps track of what repos needs to be saved from the new Github % Exploits and malware policy% | https://github.com/SamantazFox/cybersec-archive | 3 | 1| 
 | 20210430T00:50:58Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 15 | 11| 
 | 20210430T00:47:24Z | Tools and Exploits | https://github.com/abundov/exploits | 0 | 0| 
 | 20210430T00:23:31Z | Null | https://github.com/ExploitHax/ExploitHax | 0 | 0| 
