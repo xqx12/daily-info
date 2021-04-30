@@ -7,6 +7,12 @@
 | ts | title | url| 
 | --- | --- | ---| 
 | 20210429 | IDA Pro：如何编写IDA Python脚本以跟踪执行的功能视频教程 | https://www.youtube.com/watch?v=uWVQUfhEbpM&feature=youtu.be| 
+| 20210429 | 分析 WordPress 5.7 XXE 漏洞（CVE-2021-29447）细节和修补方案。 | http://blog.sonarsource.com/wordpress-xxe-security-vulnerability/| 
+| 20210429 | 探讨如何分析 IoT 的 BLE 协议。 | https://www.nowsecure.com/blog/2021/04/28/standardizing-automated-security-testing-for-iot-bluetooth-le-ble/| 
+| 20210429 | DripLoader：绕过常见 EDR 的 Shellcode loader 工具。 | http://github.com/xinbailu/DripLoader| 
+| 20210429 | 由于 Cellebrite Physical Analyzer 被发现存在安全问题，更新后不再支持直接分析 iPhone 数据的功能。 | https://9to5mac.com/2021/04/27/cellebrite-physical-analyzer-iphone/| 
+| 20210429 | Collaborative Fuzzing：分布式 Fuzz 工具。 | https://github.com/vusec/collabfuzz| 
+| 20210429 | Ubuntu 内核 OverlayFS 提权漏洞分析（CVE-2021-3493）。 | https://mp.weixin.qq.com/s?__biz=MzAwNTI1NDI3MQ==&mid=2649616308&idx=1&sn=f5712d1c7082d6b7fcff67955db299b3&chksm=830632a4b471bbb2e069f0e8ddfb0f3a10a66b6af479034dd434550fb0d653c6613ef6d0d897&&xtrack=1&scene=90&subscene=93| 
 | 20210428 | Linux Kernel 5.13 加入了堆栈随机偏移的特性，提高内核堆栈的安全性。 | https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/commit/?id=eea2647e74cd7bd5d04861ce55fa502de165de14| 
 | 20210428 | Abusing Replication: Stealing AD FS Secrets Over the Network | https://www.fireeye.com/blog/threat-research/2021/04/abusing-replication-stealing-adfs-secrets-over-the-network.html| 
 | 20210428 | SignedUEFIShell：签名的 UEFIShell，和 ACPI WPBT 的 PoC。 | https://github.com/HackingThings/SignedUEFIShell| 
@@ -20,12 +26,6 @@
 | 20210428 | 利用 AFL++ 和 Ghidra emulation engine 来 fuzz 嵌入式程序。 | https://airbus-cyber-security.com/fuzzing-exotic-arch-with-afl-using-ghidra-emulator/| 
 | 20210428 | CVE-2021-0430：读取 MIFARE Classic（MFC）的 rw_mfc_handle_read_op 函数缺少边界检查，导致恶意的 NFC 数据包可以远程代码执行。 | https://bugs.chromium.org/p/project-zero/issues/detail?id=2144| 
 | 20210428 | Exploit Pack：用于渗透测试的集成工具。 | https://exploitpack.gitbook.io/exploit-pack-manual-pages/| 
-| 20210428 | 如何以最小的代价恢复受损的 Active Directory 服务的指南。 | https://m365internals.com/2021/04/27/practical-compromise-recovery-guidance-for-active-directory/| 
-| 20210428 | Attack Detection Fundamentals 2021 Azure - Lab #3：克隆目标 VM 的磁盘进行分析，以避免触发目标 VM 上的安全监控工具。 | https://labs.f-secure.com/blog/attack-detection-fundamentals-2021-azure-lab-3/| 
-| 20210428 | Attack Detection Fundamentals 2021 Azure - Lab #2：利用受害者凭据发现其它敏感信息，并完成提权。 | http://labs.f-secure.com/blog/attack-detection-fundamentals-2021-azure-lab-2/| 
-| 20210428 | Attack Detection Fundamentals 2021 Azure - Lab #1：通过钓鱼接管受害者的邮箱和其它 Microsoft 365 服务。防守方通过查看 Azure AD 日志事件发现这类攻击。 | https://labs.f-secure.com/blog/attack-detection-fundamentals-2021-azure-lab-1/| 
-| 20210428 | 面向二进制初学者的学习笔记。 | https://parsiya.io/reverse-engineering/frida-boot-workshop/| 
-| 20210428 | CVE-2021-25735：Kubernetes 的 Validation Admission Webhook 绕过校验漏洞。 | https://sec.today/pulses/b409039b-1a88-4d54-9269-b2e352b1ac71/| 
 
 
 # 安全维基 推荐
@@ -48,7 +48,7 @@
 | --- | --- | --- | --- | ---| 
 | 20210429T18:04:35Z | CVE-2021-30128 | Null | https://github.com/LioTree/CVE-2021-30128 | Apache OFBiz has unsafe deserialization prior to 17.12.07 version| 
 | 20210429T14:33:16Z | CVE-2021-31221 |  Indicator of Compromise Scanner for CVE-2021-31221  | https://github.com/f1reeye/ioc-scanner-CVE-2021-31221 | 未查询到CVE信息| 
-| 20210429T13:40:15Z | 未知编号 | 2020l4web-app-mockup-DanCvejn created by GitHub Classroom | https://github.com/pslib-cz/2020l4web-app-mockup-DanCvejn | 未查询到CVE信息| 
+| 20210429T13:40:15Z | 未知编号 | 2020l4web-app-mockup-DanCvejn created by GitHub Classroom | https://github.com/pslib-cz/2020l4web-app-mockup-DanCvejn | | 
 | 20210429T09:13:57Z | cve-2021-3449 | CVE-2021-3449 OpenSSL denial-of-service exploit 👨🏻‍💻 | https://github.com/terorie/cve-2021-3449 | An OpenSSL TLS server may crash if sent a maliciously crafted renegotiation ClientHello message from a client. If a TLSv1.2 renegotiation ClientHello omits the signature_algorithms extension (where it was present in the initial ClientHello), but includes a signature_algorithms_cert extension then a NULL pointer dereference will result, leading to a crash and a denial of service attack. A server is only vulnerable if it has TLSv1.2 and renegotiation enabled (which is the default configuration). OpenSSL TLS clients are not impacted by this issue. All OpenSSL 1.1.1 versions are affected by this issue. Users of these versions should upgrade to OpenSSL 1.1.1k. OpenSSL 1.0.2 is not impacted by this issue. Fixed in OpenSSL 1.1.1k (Affected 1.1.1-1.1.1j).| 
 | 20210429T02:14:00Z | CVE-2021-26868 | Null | https://github.com/mavillon/CVE-2021-26868 | Windows Graphics Component Elevation of Privilege Vulnerability| 
 | 20210429T02:12:22Z | CVE-2020-14295 | Authenticated SQL injection to command execution on Cacti 1.2.12  | https://github.com/0z09e/CVE-2020-14295 | A SQL injection issue in color.php in Cacti 1.2.12 allows an admin to inject SQL via the filter parameter. This can lead to remote command execution because the product accepts stacked queries.| 
@@ -85,8 +85,9 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210430T00:07:48Z | Hack/Exploits for https://krunker.io/ | https://github.com/glixzzy/krunker.io-hacks | 7 | 31| 
-| 20210430T00:05:37Z | Keeps track of what repos needs to be saved from the new Github % Exploits and malware policy% | https://github.com/SamantazFox/cybersec-archive | 1 | 1| 
+| 20210430T00:20:32Z | An happy heap editor to support your exploitation process :slightly_smiling_face: | https://github.com/gand3lf/heappy | 4 | 0| 
+| 20210430T00:10:09Z | Keeps track of what repos needs to be saved from the new Github % Exploits and malware policy% | https://github.com/SamantazFox/cybersec-archive | 1 | 1| 
+| 20210430T00:09:55Z | Hack/Exploits for https://krunker.io/ | https://github.com/glixzzy/krunker.io-hacks | 7 | 31| 
 | 20210430T00:04:45Z | Null | https://github.com/supercellgamer/Exploit-GUI | 0 | 0| 
 | 20210430T00:02:50Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 22 | 9| 
 | 20210430T00:02:03Z | Null | https://github.com/robloxHacks2021/Exploit-GUI | 0 | 0| 
@@ -94,13 +95,13 @@
 | 20210429T23:17:18Z | Root repository for CS 6265: Information Security Lab - Reverse Engineering and Binary Exploitation | https://github.com/one2blame/cs6265 | 1 | 2| 
 | 20210429T23:02:06Z | Null | https://github.com/th3ken-dev/TH3KEN-EDITON | 2 | 0| 
 | 20210429T22:45:16Z | Exploit for CVE-2018-19320 | https://github.com/a00x90/CVE-2018-19320 | 0 | 0| 
-| 20210429T22:38:04Z | PS4 Exploit Host | https://github.com/Night-King-Host/Night-King-Host.github.io | 8 | 4| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210429T23:48:14Z | Null | https://github.com/connorbuck/backdoor-dispensary-website | 0 | 0| 
+| 20210430T00:20:36Z | Null | https://github.com/connorbuck/backdoor-dispensary-website | 0 | 0| 
+| 20210430T00:15:11Z | A Backdoor made from my malware development notes. | https://github.com/0x1CA3/backdoor | 0 | 0| 
 | 20210429T19:15:38Z | Quickly create a backdoor on the US Cyber Range Dual Environment | https://github.com/cyber-org/backdoor | 0 | 0| 
 | 20210429T19:10:19Z | Python 3 IRC Bot / Botnet | https://github.com/trackmastersteve/HackServ | 19 | 16| 
 | 20210429T17:36:15Z | Implementation of Stealthy Backdoors as Compression Artifacts | https://github.com/yulongtzzz/Stealthy-Backdoors-as-Compression-Artifacts | 0 | 0| 
@@ -109,7 +110,6 @@
 | 20210429T14:56:30Z | A demo and explanation of how a trojan backdoor attack can be performed on the classic MNIST experiment | https://github.com/adit-bala/Introduction-to-Trojans-in-AI | 0 | 0| 
 | 20210429T13:01:46Z | auth & backdoor removed | https://github.com/Not-Hax/melonhack-cracked | 1 | 0| 
 | 20210429T12:13:17Z | Dashboard for conducting Backdoors and Breaches sessions over Zoom. | https://github.com/p3hndrx/B-B-Shuffle | 38 | 2| 
-| 20210429T11:53:11Z | Python based backdoor that uses Gmail to exfiltrate data as an e-mail attachment. | https://github.com/krishpranav/powershell-rat | 0 | 0| 
 
 
 # fuzz on Github 推荐

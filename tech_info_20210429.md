@@ -7,6 +7,12 @@
 | ts | title | url| 
 | --- | --- | ---| 
 | 20210429 | IDA Pro：如何编写IDA Python脚本以跟踪执行的功能视频教程 | https://www.youtube.com/watch?v=uWVQUfhEbpM&feature=youtu.be| 
+| 20210429 | 分析 WordPress 5.7 XXE 漏洞（CVE-2021-29447）细节和修补方案。 | http://blog.sonarsource.com/wordpress-xxe-security-vulnerability/| 
+| 20210429 | 探讨如何分析 IoT 的 BLE 协议。 | https://www.nowsecure.com/blog/2021/04/28/standardizing-automated-security-testing-for-iot-bluetooth-le-ble/| 
+| 20210429 | DripLoader：绕过常见 EDR 的 Shellcode loader 工具。 | http://github.com/xinbailu/DripLoader| 
+| 20210429 | 由于 Cellebrite Physical Analyzer 被发现存在安全问题，更新后不再支持直接分析 iPhone 数据的功能。 | https://9to5mac.com/2021/04/27/cellebrite-physical-analyzer-iphone/| 
+| 20210429 | Collaborative Fuzzing：分布式 Fuzz 工具。 | https://github.com/vusec/collabfuzz| 
+| 20210429 | Ubuntu 内核 OverlayFS 提权漏洞分析（CVE-2021-3493）。 | https://mp.weixin.qq.com/s?__biz=MzAwNTI1NDI3MQ==&mid=2649616308&idx=1&sn=f5712d1c7082d6b7fcff67955db299b3&chksm=830632a4b471bbb2e069f0e8ddfb0f3a10a66b6af479034dd434550fb0d653c6613ef6d0d897&&xtrack=1&scene=90&subscene=93| 
 
 
 # 安全维基 推荐
@@ -29,7 +35,7 @@
 | --- | --- | --- | --- | ---| 
 | 20210429T18:04:35Z | CVE-2021-30128 | Null | https://github.com/LioTree/CVE-2021-30128 | Apache OFBiz has unsafe deserialization prior to 17.12.07 version| 
 | 20210429T14:33:16Z | CVE-2021-31221 |  Indicator of Compromise Scanner for CVE-2021-31221  | https://github.com/f1reeye/ioc-scanner-CVE-2021-31221 | 未查询到CVE信息| 
-| 20210429T13:40:15Z | 未知编号 | 2020l4web-app-mockup-DanCvejn created by GitHub Classroom | https://github.com/pslib-cz/2020l4web-app-mockup-DanCvejn | 未查询到CVE信息| 
+| 20210429T13:40:15Z | 未知编号 | 2020l4web-app-mockup-DanCvejn created by GitHub Classroom | https://github.com/pslib-cz/2020l4web-app-mockup-DanCvejn | | 
 | 20210429T09:13:57Z | cve-2021-3449 | CVE-2021-3449 OpenSSL denial-of-service exploit 👨🏻‍💻 | https://github.com/terorie/cve-2021-3449 | An OpenSSL TLS server may crash if sent a maliciously crafted renegotiation ClientHello message from a client. If a TLSv1.2 renegotiation ClientHello omits the signature_algorithms extension (where it was present in the initial ClientHello), but includes a signature_algorithms_cert extension then a NULL pointer dereference will result, leading to a crash and a denial of service attack. A server is only vulnerable if it has TLSv1.2 and renegotiation enabled (which is the default configuration). OpenSSL TLS clients are not impacted by this issue. All OpenSSL 1.1.1 versions are affected by this issue. Users of these versions should upgrade to OpenSSL 1.1.1k. OpenSSL 1.0.2 is not impacted by this issue. Fixed in OpenSSL 1.1.1k (Affected 1.1.1-1.1.1j).| 
 | 20210429T02:14:00Z | CVE-2021-26868 | Null | https://github.com/mavillon/CVE-2021-26868 | Windows Graphics Component Elevation of Privilege Vulnerability| 
 | 20210429T02:12:22Z | CVE-2020-14295 | Authenticated SQL injection to command execution on Cacti 1.2.12  | https://github.com/0z09e/CVE-2020-14295 | A SQL injection issue in color.php in Cacti 1.2.12 allows an admin to inject SQL via the filter parameter. This can lead to remote command execution because the product accepts stacked queries.| 
@@ -61,14 +67,13 @@
 | 20210429T22:15:53Z | Sécurité des logiciels et exploitation de vulnérabilités | https://github.com/ppepos/inf600c | 4 | 0| 
 | 20210429T21:55:09Z | Bukkit/BungeeCord plugin that aims on fixing Exploits in your Minecraft network. [Requires HamsterAPI to work] | https://github.com/2lstudios-mc/ExploitFixer | 85 | 23| 
 | 20210429T21:39:10Z | Null | https://github.com/HarryTheKing1/Harry-s-exploit-api | 0 | 0| 
-| 20210429T21:38:58Z | An happy heap editor to support your exploitation process :slightly_smiling_face: | https://github.com/gand3lf/heappy | 3 | 0| 
 | 20210429T21:35:12Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9345 | 1508| 
+| 20210429T21:29:37Z | A very primitive MyBB plugin for exploiting HTTP headers set by Cloudflare. | https://github.com/yuliu/mybb-plugin-cloudflare-helper | 1 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210429T23:48:14Z | Null | https://github.com/connorbuck/backdoor-dispensary-website | 0 | 0| 
 | 20210429T19:15:38Z | Quickly create a backdoor on the US Cyber Range Dual Environment | https://github.com/cyber-org/backdoor | 0 | 0| 
 | 20210429T19:10:19Z | Python 3 IRC Bot / Botnet | https://github.com/trackmastersteve/HackServ | 19 | 16| 
 | 20210429T17:36:15Z | Implementation of Stealthy Backdoors as Compression Artifacts | https://github.com/yulongtzzz/Stealthy-Backdoors-as-Compression-Artifacts | 0 | 0| 
@@ -78,6 +83,7 @@
 | 20210429T13:01:46Z | auth & backdoor removed | https://github.com/Not-Hax/melonhack-cracked | 1 | 0| 
 | 20210429T12:13:17Z | Dashboard for conducting Backdoors and Breaches sessions over Zoom. | https://github.com/p3hndrx/B-B-Shuffle | 38 | 2| 
 | 20210429T11:53:11Z | Python based backdoor that uses Gmail to exfiltrate data as an e-mail attachment. | https://github.com/krishpranav/powershell-rat | 0 | 0| 
+| 20210429T11:41:17Z | the dashboard for managing the backdoor data for the luxr system | https://github.com/EDMONDGIHOZO/luxr_dashboard | 0 | 0| 
 
 
 # fuzz on Github 推荐
