@@ -14,6 +14,7 @@
 | 20210429 | Collaborative Fuzzing：分布式 Fuzz 工具。 | https://github.com/vusec/collabfuzz| 
 | 20210429 | Ubuntu 内核 OverlayFS 提权漏洞分析（CVE-2021-3493）。 | https://mp.weixin.qq.com/s?__biz=MzAwNTI1NDI3MQ==&mid=2649616308&idx=1&sn=f5712d1c7082d6b7fcff67955db299b3&chksm=830632a4b471bbb2e069f0e8ddfb0f3a10a66b6af479034dd434550fb0d653c6613ef6d0d897&&xtrack=1&scene=90&subscene=93| 
 | 20210429 | 有证据显示网络间谍组织 UNC1151 与 Ghostwriter 行动有关。 | https://www.fireeye.com/blog/threat-research/2021/04/espionage-group-unc1151-likely-conducts-ghostwriter-influence-activity.html| 
+| 20210429 | ATT&CK 发布了 v9 更新，主要更新了数据源，增加了 Containers 和 Google Workspace 平台和替换 AWS 等服务平台。 | https://medium.com/mitre-attack/attack-april-2021-release-39accaf23c81| 
 | 20210428 | Linux Kernel 5.13 加入了堆栈随机偏移的特性，提高内核堆栈的安全性。 | https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/commit/?id=eea2647e74cd7bd5d04861ce55fa502de165de14| 
 | 20210428 | Abusing Replication: Stealing AD FS Secrets Over the Network | https://www.fireeye.com/blog/threat-research/2021/04/abusing-replication-stealing-adfs-secrets-over-the-network.html| 
 | 20210428 | SignedUEFIShell：签名的 UEFIShell，和 ACPI WPBT 的 PoC。 | https://github.com/HackingThings/SignedUEFIShell| 
@@ -25,7 +26,6 @@
 | 20210428 | 通过 ADExplorer 离线检索 Active Directory。 | https://www.trustedsec.com/blog/adexplorer-on-engagements/| 
 | 20210428 | 滥用 session moniker 激活其它 session，进行跨会话攻击。 | https://www.tiraniddo.dev/2021/04/standard-activating-yourself-to.html| 
 | 20210428 | 利用 AFL++ 和 Ghidra emulation engine 来 fuzz 嵌入式程序。 | https://airbus-cyber-security.com/fuzzing-exotic-arch-with-afl-using-ghidra-emulator/| 
-| 20210428 | CVE-2021-0430：读取 MIFARE Classic（MFC）的 rw_mfc_handle_read_op 函数缺少边界检查，导致恶意的 NFC 数据包可以远程代码执行。 | https://bugs.chromium.org/p/project-zero/issues/detail?id=2144| 
 
 
 # 安全维基 推荐
@@ -48,7 +48,7 @@
 | --- | --- | --- | --- | ---| 
 | 20210429T18:04:35Z | CVE-2021-30128 | Null | https://github.com/LioTree/CVE-2021-30128 | Apache OFBiz has unsafe deserialization prior to 17.12.07 version| 
 | 20210429T14:33:16Z | CVE-2021-31221 |  Indicator of Compromise Scanner for CVE-2021-31221  | https://github.com/f1reeye/ioc-scanner-CVE-2021-31221 | 未查询到CVE信息| 
-| 20210429T13:40:15Z | 未知编号 | 2020l4web-app-mockup-DanCvejn created by GitHub Classroom | https://github.com/pslib-cz/2020l4web-app-mockup-DanCvejn | | 
+| 20210429T13:40:15Z | 未知编号 | 2020l4web-app-mockup-DanCvejn created by GitHub Classroom | https://github.com/pslib-cz/2020l4web-app-mockup-DanCvejn | 未查询到CVE信息| 
 | 20210429T09:13:57Z | cve-2021-3449 | CVE-2021-3449 OpenSSL denial-of-service exploit 👨🏻‍💻 | https://github.com/terorie/cve-2021-3449 | An OpenSSL TLS server may crash if sent a maliciously crafted renegotiation ClientHello message from a client. If a TLSv1.2 renegotiation ClientHello omits the signature_algorithms extension (where it was present in the initial ClientHello), but includes a signature_algorithms_cert extension then a NULL pointer dereference will result, leading to a crash and a denial of service attack. A server is only vulnerable if it has TLSv1.2 and renegotiation enabled (which is the default configuration). OpenSSL TLS clients are not impacted by this issue. All OpenSSL 1.1.1 versions are affected by this issue. Users of these versions should upgrade to OpenSSL 1.1.1k. OpenSSL 1.0.2 is not impacted by this issue. Fixed in OpenSSL 1.1.1k (Affected 1.1.1-1.1.1j).| 
 | 20210429T02:14:00Z | CVE-2021-26868 | Null | https://github.com/mavillon/CVE-2021-26868 | Windows Graphics Component Elevation of Privilege Vulnerability| 
 | 20210429T02:12:22Z | CVE-2020-14295 | Authenticated SQL injection to command execution on Cacti 1.2.12  | https://github.com/0z09e/CVE-2020-14295 | A SQL injection issue in color.php in Cacti 1.2.12 allows an admin to inject SQL via the filter parameter. This can lead to remote command execution because the product accepts stacked queries.| 
