@@ -85,10 +85,10 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210430T01:45:20Z | Keeps track of what repos needs to be saved from the new Github % Exploits and malware policy% | https://github.com/SamantazFox/cybersec-archive | 4 | 1| 
 | 20210430T01:42:48Z | A Simple set of scripts, exploits, malware and malicious codes for exploitation of windows machines | https://github.com/Cyberc1ty/kit-exploitation-windows | 0 | 0| 
 | 20210430T01:38:44Z | exploit-database-papers | https://github.com/offensive-security/exploitdb-papers | 298 | 41| 
 | 20210430T01:38:19Z | A Roblox admin script designed to put the user%s best interests into consideration, and make Roblox more interesting. | https://github.com/ex7ase/eden | 0 | 0| 
-| 20210430T01:24:07Z | Keeps track of what repos needs to be saved from the new Github % Exploits and malware policy% | https://github.com/SamantazFox/cybersec-archive | 4 | 1| 
 | 20210430T01:21:12Z | Steps for Exploitation  | https://github.com/sapkota2k20/CVE-2021-27552 | 0 | 0| 
 | 20210430T01:02:39Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 22 | 9| 
 | 20210430T00:50:58Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 15 | 11| 
@@ -100,7 +100,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210430T01:26:50Z | Null | https://github.com/connorbuck/backdoor-dispensary-website | 0 | 0| 
+| 20210430T01:45:40Z | Null | https://github.com/connorbuck/backdoor-dispensary-website | 0 | 0| 
 | 20210430T01:23:23Z | auth & backdoor removed | https://github.com/Not-Hax/melonhack-cracked | 3 | 0| 
 | 20210430T00:15:11Z | A Backdoor made from my malware development notes. | https://github.com/0x1CA3/backdoor | 0 | 0| 
 | 20210429T19:15:38Z | Quickly create a backdoor on the US Cyber Range Dual Environment | https://github.com/cyber-org/backdoor | 0 | 0| 
@@ -115,9 +115,9 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210430T01:42:16Z | CS 4152 Project | https://github.com/nicbarone/Fuzzy-Kiwi | 0 | 0| 
 | 20210430T01:19:43Z | This Program was made to fulfill my Artificial Intelligence group project | https://github.com/MuhammadZaky44/Fuzzy-Logic | 0 | 0| 
 | 20210430T01:18:37Z | A demonstration of fuzzy logic in solving a real-life problem. | https://github.com/jxq0819/fuzzy-logic-control | 0 | 0| 
-| 20210430T00:53:22Z | CS 4152 Project | https://github.com/nicbarone/Fuzzy-Kiwi | 0 | 0| 
 | 20210430T00:15:42Z | Software for fuzzing, used on web application pentestings. | https://github.com/NESCAU-UFLA/FuzzingTool | 65 | 15| 
 | 20210430T00:03:03Z | %Seed Selection for Successful Fuzzing% artifact (at ISSTA 2021) | https://github.com/HexHive/fuzzing-seed-selection | 2 | 0| 
 | 20210429T23:56:51Z | Hi thre, I%m TRÄW🤟🏻, i%m a beginner in ethical hacking and Content Creator on Level iv Security & NOOBSEC. I Spend most of time coding outstanding ethical hacking projects or recording useful short tutorials . I love programming ethical hacking tools, fuzzing and hacking all the things | https://github.com/spectertraww/spectertraww | 1 | 0| 
