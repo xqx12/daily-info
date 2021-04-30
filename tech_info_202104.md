@@ -115,6 +115,8 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210430T12:14:41Z | Null | https://github.com/AshwAthi8/r0fuzz | 1 | 0| 
+| 20210430T12:14:01Z | A fuzzy ecosystem for evaluating the stability of your computational tools. | https://github.com/verificarlo/fuzzy | 9 | 9| 
 | 20210430T12:01:34Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 1665 | 329| 
 | 20210430T11:57:53Z | This repository is for testing a number of open source applications for vulnerabilities using multiple fuzzers. | https://github.com/bartholomewHarris/fuzzingNode.jsApplications | 1 | 2| 
 | 20210430T11:51:26Z | a javascript tests playground | https://github.com/Saif-Shines/fuzzy-invention | 0 | 0| 
@@ -123,8 +125,6 @@
 | 20210430T11:09:46Z | Null | https://github.com/s9varesc/url-fuzzing | 1 | 1| 
 | 20210430T11:07:51Z | Null | https://github.com/VeriBlock/fuzz-corpus | 0 | 1| 
 | 20210430T11:03:30Z | Khan g | https://github.com/Asimkhan34/fuzzy-system | 1 | 0| 
-| 20210430T10:57:28Z | #hasbiallah  | https://github.com/Kucing121/fuzzy-fortnight | 1 | 0| 
-| 20210430T10:50:16Z | fuzzyjs is a fuzzy search algorithm in javascript | https://github.com/gjuchault/fuzzyjs | 168 | 12| 
 
 
 
