@@ -85,6 +85,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210430T01:42:48Z | A Simple set of scripts, exploits, malware and malicious codes for exploitation of windows machines | https://github.com/Cyberc1ty/kit-exploitation-windows | 0 | 0| 
 | 20210430T01:38:44Z | exploit-database-papers | https://github.com/offensive-security/exploitdb-papers | 298 | 41| 
 | 20210430T01:38:19Z | A Roblox admin script designed to put the user%s best interests into consideration, and make Roblox more interesting. | https://github.com/ex7ase/eden | 0 | 0| 
 | 20210430T01:24:07Z | Keeps track of what repos needs to be saved from the new Github % Exploits and malware policy% | https://github.com/SamantazFox/cybersec-archive | 4 | 1| 
@@ -94,7 +95,6 @@
 | 20210430T00:47:24Z | Tools and Exploits | https://github.com/abundov/exploits | 0 | 0| 
 | 20210430T00:23:31Z | Null | https://github.com/ExploitHax/ExploitHax | 0 | 0| 
 | 20210430T00:20:32Z | An happy heap editor to support your exploitation process :slightly_smiling_face: | https://github.com/gand3lf/heappy | 4 | 0| 
-| 20210430T00:09:55Z | Hack/Exploits for https://krunker.io/ | https://github.com/glixzzy/krunker.io-hacks | 7 | 31| 
 
 
 # backdoor on Github 推荐
