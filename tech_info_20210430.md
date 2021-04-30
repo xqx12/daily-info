@@ -41,12 +41,12 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210430T12:02:43Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 22 | 9| 
 | 20210430T11:59:49Z | Shellcode_IA32 is a dataset consisting of challenging but common assembly instructions, collected from real shellcodes, with their natural language descriptions. The dataset can be used for neural machine translation tasks to automatically generate software exploits from natural language. | https://github.com/dessertlab/Shellcode_IA32 | 2 | 0| 
 | 20210430T11:22:12Z | my https://exploit.education/ writeups | https://github.com/amirr0r/exploit-exercises | 0 | 0| 
 | 20210430T11:13:54Z | Null | https://github.com/scripter54/vbulletin-5.6.1-EXPLOIT- | 0 | 0| 
 | 20210430T11:11:37Z | Keeps track of what repos needs to be saved from the new Github % Exploits and malware policy% | https://github.com/SamantazFox/cybersec-archive | 9 | 1| 
 | 20210430T11:02:53Z | A python script file to statically and dynamically investigate and analyse binary files for buffer overflow exploits. | https://github.com/BroadbentT/BINARY-MASTER | 5 | 1| 
-| 20210430T11:02:41Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 22 | 9| 
 | 20210430T10:34:41Z | Adds some exploits | https://github.com/powerfart-plugins/forbidden-fruit | 0 | 0| 
 | 20210430T10:31:21Z | The official Exploit Database repository | https://github.com/offensive-security/exploitdb | 6072 | 1721| 
 | 20210430T09:39:21Z | Null | https://github.com/NoctisAtrae/exploitneverland | 0 | 0| 
@@ -56,7 +56,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210430T11:54:29Z | Null | https://github.com/connorbuck/backdoor-dispensary-website | 0 | 0| 
+| 20210430T12:02:04Z | Null | https://github.com/connorbuck/backdoor-dispensary-website | 0 | 0| 
 | 20210430T10:46:49Z | Script backdoor upload untuk disisipkan pada file php yang ada di website target  | https://github.com/kurniawandata/xcodebackdoorupload | 1 | 2| 
 | 20210430T10:42:34Z | Tool untuk membantu eksploitasi shell di linux target seperti membuat user backdoor dengan akses root, mendapatkan user dan password linux dari memory server dan menghapus jejak dari target server | https://github.com/kurniawandata/xcodeshellexploitation | 3 | 1| 
 | 20210430T09:02:33Z | Adversarial Backdoor Attack | https://github.com/ZQ-Struggle/AdvDoor | 0 | 0| 
