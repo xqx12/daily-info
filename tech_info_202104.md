@@ -47,10 +47,10 @@
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
 | 20210430T09:43:25Z | CVE-2020-27955 | Null | https://github.com/DeeLMind/CVE-2020-27955-LFS | Git LFS 2.12.0 allows Remote Code Execution.| 
-| 20210430T08:34:16Z | CVE-2020-9496 | Apache OFBiz unsafe deserialization of XMLRPC arguments | https://github.com/g33xter/CVE-2020-9496 | XML-RPC request are vulnerable to unsafe deserialization and Cross-Site Scripting issues in Apache OFBiz 17.12.03| 
+| 20210430T08:34:16Z | CVE-2020-9496 | Apache OFBiz unsafe deserialization of XMLRPC arguments | https://github.com/g33xter/CVE-2020-9496 | | 
 | 20210430T08:30:02Z | CVE-2021-30128 | Null | https://github.com/LioTree/CVE-2021-30128-EXP | Apache OFBiz has unsafe deserialization prior to 17.12.07 version| 
 | 20210430T02:36:18Z | cve-2021-3449 | CVE-2021-3449 OpenSSL denial-of-service exploit 👨🏻‍💻 | https://github.com/terorie/cve-2021-3449 | An OpenSSL TLS server may crash if sent a maliciously crafted renegotiation ClientHello message from a client. If a TLSv1.2 renegotiation ClientHello omits the signature_algorithms extension (where it was present in the initial ClientHello), but includes a signature_algorithms_cert extension then a NULL pointer dereference will result, leading to a crash and a denial of service attack. A server is only vulnerable if it has TLSv1.2 and renegotiation enabled (which is the default configuration). OpenSSL TLS clients are not impacted by this issue. All OpenSSL 1.1.1 versions are affected by this issue. Users of these versions should upgrade to OpenSSL 1.1.1k. OpenSSL 1.0.2 is not impacted by this issue. Fixed in OpenSSL 1.1.1k (Affected 1.1.1-1.1.1j).| 
-| 20210430T02:01:44Z | CVE-2021-3156 | Null | https://github.com/dock0d1/CVE-2021-3156 | | 
+| 20210430T02:01:44Z | CVE-2021-3156 | Null | https://github.com/dock0d1/CVE-2021-3156 | Sudo before 1.9.5p2 contains an off-by-one error that can result in a heap-based buffer overflow, which allows privilege escalation to root via %sudoedit -s% and a command-line argument that ends with a single backslash character.| 
 | 20210430T01:21:12Z | CVE-2021-27552 | Steps for Exploitation  | https://github.com/sapkota2k20/CVE-2021-27552 | 未查询到CVE信息| 
 | 20210429T18:04:35Z | CVE-2021-30128 | Null | https://github.com/LioTree/CVE-2021-30128 | Apache OFBiz has unsafe deserialization prior to 17.12.07 version| 
 | 20210429T14:33:16Z | CVE-2021-31221 |  Indicator of Compromise Scanner for CVE-2021-31221  | https://github.com/f1reeye/ioc-scanner-CVE-2021-31221 | 未查询到CVE信息| 
@@ -85,6 +85,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210430T12:58:18Z | viiper Exploit website | https://github.com/ThatsMyMute/viiper.xyz | 0 | 0| 
 | 20210430T12:51:01Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 16 | 11| 
 | 20210430T12:42:47Z | L4D2 SourceMod plugin: Blocks specific client commands to avoid exploits. | https://github.com/Mystik-Spiral/l4d_command_block | 0 | 0| 
 | 20210430T12:29:26Z | This bash script will help you to hack remote hosts  | https://github.com/FabioDefilippo/linuxallremote | 11 | 3| 
@@ -94,7 +95,6 @@
 | 20210430T12:02:43Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 22 | 9| 
 | 20210430T11:59:49Z | Shellcode_IA32 is a dataset consisting of challenging but common assembly instructions, collected from real shellcodes, with their natural language descriptions. The dataset can be used for neural machine translation tasks to automatically generate software exploits from natural language. | https://github.com/dessertlab/Shellcode_IA32 | 2 | 0| 
 | 20210430T11:22:12Z | my https://exploit.education/ writeups | https://github.com/amirr0r/exploit-exercises | 0 | 0| 
-| 20210430T11:13:54Z | Null | https://github.com/scripter54/vbulletin-5.6.1-EXPLOIT- | 0 | 0| 
 
 
 # backdoor on Github 推荐
