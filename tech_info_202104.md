@@ -46,7 +46,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20210430T09:43:25Z | CVE-2020-27955 | Null | https://github.com/DeeLMind/CVE-2020-27955-LFS | | 
+| 20210430T09:43:25Z | CVE-2020-27955 | Null | https://github.com/DeeLMind/CVE-2020-27955-LFS | Git LFS 2.12.0 allows Remote Code Execution.| 
 | 20210430T08:34:16Z | CVE-2020-9496 | Apache OFBiz unsafe deserialization of XMLRPC arguments | https://github.com/g33xter/CVE-2020-9496 | XML-RPC request are vulnerable to unsafe deserialization and Cross-Site Scripting issues in Apache OFBiz 17.12.03| 
 | 20210430T08:30:02Z | CVE-2021-30128 | Null | https://github.com/LioTree/CVE-2021-30128-EXP | Apache OFBiz has unsafe deserialization prior to 17.12.07 version| 
 | 20210430T02:36:18Z | cve-2021-3449 | CVE-2021-3449 OpenSSL denial-of-service exploit 👨🏻‍💻 | https://github.com/terorie/cve-2021-3449 | An OpenSSL TLS server may crash if sent a maliciously crafted renegotiation ClientHello message from a client. If a TLSv1.2 renegotiation ClientHello omits the signature_algorithms extension (where it was present in the initial ClientHello), but includes a signature_algorithms_cert extension then a NULL pointer dereference will result, leading to a crash and a denial of service attack. A server is only vulnerable if it has TLSv1.2 and renegotiation enabled (which is the default configuration). OpenSSL TLS clients are not impacted by this issue. All OpenSSL 1.1.1 versions are affected by this issue. Users of these versions should upgrade to OpenSSL 1.1.1k. OpenSSL 1.0.2 is not impacted by this issue. Fixed in OpenSSL 1.1.1k (Affected 1.1.1-1.1.1j).| 
@@ -115,8 +115,8 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210430T12:34:09Z | a javascript tests playground | https://github.com/Saif-Shines/fuzzy-invention | 0 | 0| 
 | 20210430T12:31:37Z |  Memilih 10 restoran terbaik di kota A dengan menggunakan fuzzy logic | https://github.com/krobus00/Tugas-2-Pengantar-AI-Fuzzy-Logic | 0 | 0| 
-| 20210430T12:29:22Z | a javascript tests playground | https://github.com/Saif-Shines/fuzzy-invention | 0 | 0| 
 | 20210430T12:17:21Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 3 | 4| 
 | 20210430T12:14:45Z | Null | https://github.com/AshwAthi8/r0fuzz | 0 | 0| 
 | 20210430T12:14:01Z | A fuzzy ecosystem for evaluating the stability of your computational tools. | https://github.com/verificarlo/fuzzy | 9 | 9| 
