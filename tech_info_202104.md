@@ -46,6 +46,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20210430T01:21:12Z | CVE-2021-27552 | Steps for Exploitation  | https://github.com/sapkota2k20/CVE-2021-27552 | 未查询到CVE信息| 
 | 20210429T18:04:35Z | CVE-2021-30128 | Null | https://github.com/LioTree/CVE-2021-30128 | Apache OFBiz has unsafe deserialization prior to 17.12.07 version| 
 | 20210429T14:33:16Z | CVE-2021-31221 |  Indicator of Compromise Scanner for CVE-2021-31221  | https://github.com/f1reeye/ioc-scanner-CVE-2021-31221 | 未查询到CVE信息| 
 | 20210429T13:40:15Z | 未知编号 | 2020l4web-app-mockup-DanCvejn created by GitHub Classroom | https://github.com/pslib-cz/2020l4web-app-mockup-DanCvejn | 未查询到CVE信息| 
@@ -55,7 +56,6 @@
 | 20210428T20:21:33Z | CVE-2020-14321 | Null | https://github.com/lanzt/CVE-2020-14321 | 未查询到CVE信息| 
 | 20210428T16:27:03Z | CVE-2020-8958 | CVE-2020-8958: Authenticated RCE exploit for NetLink HG323 | https://github.com/Asjidkalam/CVE-2020-8958 | Guangzhou 1GE ONU V2801RW 1.9.1-181203 through 2.9.0-181024 and V2804RGW 1.9.1-181203 through 2.9.0-181024 devices allow remote attackers to execute arbitrary OS commands via shell metacharacters in the boaform/admin/formPing Dest IP Address field.| 
 | 20210428T11:41:24Z | CVE-2021-22192 | CVE-2021-22192 靶场： 未授权用户 RCE 漏洞 | https://github.com/lyy289065406/CVE-2021-22192 | An issue has been discovered in GitLab CE/EE affecting all versions starting from 13.2 allowing unauthorized authenticated users to execute arbitrary code on the server.| 
-| 20210428T02:29:30Z | CVE-2020-27199 | CVE-2020-27199 | https://github.com/9lyph/CVE-2020-27199 | The Magic Home Pro application 1.5.1 for Android allows Authentication Bypass. The security control that the application currently has in place is a simple Username and Password authentication function. Using enumeration, an attacker is able to forge a User specific token without the need for correct password to gain access to the mobile application as that victim user.| 
 
 
 # klee on Github 推荐
@@ -85,6 +85,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210430T01:21:12Z | Steps for Exploitation  | https://github.com/sapkota2k20/CVE-2021-27552 | 0 | 0| 
 | 20210430T01:16:22Z | A Roblox admin script designed to put the user%s best interests into consideration, and make Roblox more interesting. | https://github.com/ex7ase/eden | 0 | 0| 
 | 20210430T01:02:39Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 22 | 9| 
 | 20210430T00:59:07Z | Keeps track of what repos needs to be saved from the new Github % Exploits and malware policy% | https://github.com/SamantazFox/cybersec-archive | 3 | 1| 
@@ -94,7 +95,6 @@
 | 20210430T00:20:32Z | An happy heap editor to support your exploitation process :slightly_smiling_face: | https://github.com/gand3lf/heappy | 4 | 0| 
 | 20210430T00:09:55Z | Hack/Exploits for https://krunker.io/ | https://github.com/glixzzy/krunker.io-hacks | 7 | 31| 
 | 20210430T00:04:45Z | Null | https://github.com/supercellgamer/Exploit-GUI | 0 | 0| 
-| 20210430T00:02:03Z | Null | https://github.com/robloxHacks2021/Exploit-GUI | 0 | 0| 
 
 
 # backdoor on Github 推荐
@@ -115,6 +115,8 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210430T01:19:43Z | This Program was made to fulfill my Artificial Intelligence group project | https://github.com/MuhammadZaky44/Fuzzy-Logic | 0 | 0| 
+| 20210430T01:18:37Z | A demonstration of fuzzy logic in solving a real-life problem. | https://github.com/jxq0819/fuzzy-logic-control | 0 | 0| 
 | 20210430T00:53:22Z | CS 4152 Project | https://github.com/nicbarone/Fuzzy-Kiwi | 0 | 0| 
 | 20210430T00:15:42Z | Software for fuzzing, used on web application pentestings. | https://github.com/NESCAU-UFLA/FuzzingTool | 65 | 15| 
 | 20210430T00:03:03Z | %Seed Selection for Successful Fuzzing% artifact (at ISSTA 2021) | https://github.com/HexHive/fuzzing-seed-selection | 2 | 0| 
@@ -123,8 +125,6 @@
 | 20210429T22:43:27Z | Null | https://github.com/opimentel-github/fuzzy-torch | 1 | 0| 
 | 20210429T22:39:27Z | Null | https://github.com/rizkyasepsutrisna/FuzzyLogicBestRestaurant | 0 | 0| 
 | 20210429T22:39:09Z | To make fuzzing Rust easy | https://github.com/trailofbits/test-fuzz | 1 | 1| 
-| 20210429T22:19:53Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6238 | 1260| 
-| 20210429T21:43:56Z | 3D surface adaptation problem resolved with a fuzzy filtered genetic algorithm made with Python. | https://github.com/AlexisNeri/Fuzzy_GA_Curve | 0 | 0| 
 
 
 
