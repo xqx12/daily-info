@@ -37,7 +37,7 @@
 | 20210429T18:04:35Z | CVE-2021-30128 | Null | https://github.com/LioTree/CVE-2021-30128 | Apache OFBiz has unsafe deserialization prior to 17.12.07 version| 
 | 20210429T14:33:16Z | CVE-2021-31221 |  Indicator of Compromise Scanner for CVE-2021-31221  | https://github.com/f1reeye/ioc-scanner-CVE-2021-31221 | 未查询到CVE信息| 
 | 20210429T13:40:15Z | 未知编号 | 2020l4web-app-mockup-DanCvejn created by GitHub Classroom | https://github.com/pslib-cz/2020l4web-app-mockup-DanCvejn | 未查询到CVE信息| 
-| 20210429T09:13:57Z | cve-2021-3449 | CVE-2021-3449 OpenSSL denial-of-service exploit 👨🏻‍💻 | https://github.com/terorie/cve-2021-3449 | | 
+| 20210429T09:13:57Z | cve-2021-3449 | CVE-2021-3449 OpenSSL denial-of-service exploit 👨🏻‍💻 | https://github.com/terorie/cve-2021-3449 | An OpenSSL TLS server may crash if sent a maliciously crafted renegotiation ClientHello message from a client. If a TLSv1.2 renegotiation ClientHello omits the signature_algorithms extension (where it was present in the initial ClientHello), but includes a signature_algorithms_cert extension then a NULL pointer dereference will result, leading to a crash and a denial of service attack. A server is only vulnerable if it has TLSv1.2 and renegotiation enabled (which is the default configuration). OpenSSL TLS clients are not impacted by this issue. All OpenSSL 1.1.1 versions are affected by this issue. Users of these versions should upgrade to OpenSSL 1.1.1k. OpenSSL 1.0.2 is not impacted by this issue. Fixed in OpenSSL 1.1.1k (Affected 1.1.1-1.1.1j).| 
 | 20210429T02:14:00Z | CVE-2021-26868 | Null | https://github.com/mavillon/CVE-2021-26868 | Windows Graphics Component Elevation of Privilege Vulnerability| 
 | 20210429T02:12:22Z | CVE-2020-14295 | Authenticated SQL injection to command execution on Cacti 1.2.12  | https://github.com/0z09e/CVE-2020-14295 | A SQL injection issue in color.php in Cacti 1.2.12 allows an admin to inject SQL via the filter parameter. This can lead to remote command execution because the product accepts stacked queries.| 
 
@@ -81,10 +81,10 @@
 | 20210429T16:05:59Z | USBdriveby is a device you stylishly wear around your neck which can quickly and covertly install a backdoor and override DNS settings on an unlocked machine via USB in a matter of seconds. It does this by emulating a keyboard and mouse, blindly typing controlled commands, flailing the mouse pointer around and weaponizing mouse clicks.  In this project, we%ll learn how to exploit a system%s blind trust in USB devices, and learn how a $20 Teensy microcontroller can evade various security settings on a real system, open a permanent backdoor, disable a firewall, control the flow of network traffic, and all within a few seconds and permanently, even after the device has been removed. | https://github.com/4df/usbdriveby | 1 | 0| 
 | 20210429T15:20:13Z | TrojanZoo provides a universal pytorch platform to conduct security researches (especially backdoor attacks/defenses) of image classification in deep learning. | https://github.com/ain-soph/trojanzoo | 68 | 11| 
 | 20210429T14:56:30Z | A demo and explanation of how a trojan backdoor attack can be performed on the classic MNIST experiment | https://github.com/adit-bala/Introduction-to-Trojans-in-AI | 0 | 0| 
-| 20210429T13:01:46Z | auth & backdoor removed | https://github.com/Not-Hax/melonhack-cracked | 1 | 0| 
 | 20210429T12:13:17Z | Dashboard for conducting Backdoors and Breaches sessions over Zoom. | https://github.com/p3hndrx/B-B-Shuffle | 38 | 2| 
 | 20210429T11:53:11Z | Python based backdoor that uses Gmail to exfiltrate data as an e-mail attachment. | https://github.com/krishpranav/powershell-rat | 0 | 0| 
 | 20210429T11:41:17Z | the dashboard for managing the backdoor data for the luxr system | https://github.com/EDMONDGIHOZO/luxr_dashboard | 0 | 0| 
+| 20210429T09:21:23Z | All Alfa Tesla / Team Web Shell Backdoors | https://github.com/PhenaxGod/Alfa-Shell | 0 | 0| 
 
 
 # fuzz on Github 推荐
