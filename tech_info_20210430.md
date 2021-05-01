@@ -20,7 +20,7 @@
 | --- | --- | --- | --- | ---| 
 | 20210430T17:33:15Z | CVE-2021-22192 | CVE-2021-22192 靶场： 未授权用户 RCE 漏洞 | https://github.com/lyy289065406/CVE-2021-22192 | An issue has been discovered in GitLab CE/EE affecting all versions starting from 13.2 allowing unauthorized authenticated users to execute arbitrary code on the server.| 
 | 20210430T16:08:23Z | CVE-2021-30128 | Null | https://github.com/LioTree/CVE-2021-30128-EXP | Apache OFBiz has unsafe deserialization prior to 17.12.07 version| 
-| 20210430T15:45:05Z | CVE-2021-26121 | Null | https://github.com/sourceincite/CVE-2021-26121 | | 
+| 20210430T15:45:05Z | CVE-2021-26121 | Null | https://github.com/sourceincite/CVE-2021-26121 | 未查询到CVE信息| 
 | 20210430T14:29:08Z | CVE-2020-27955 | CVE-2020-27955 | https://github.com/exileddb/CVE-2020-27955 | Git LFS 2.12.0 allows Remote Code Execution.| 
 | 20210430T13:20:15Z | CVE-2021-3156 | Null | https://github.com/dock0d1/CVE-2021-3156 | Sudo before 1.9.5p2 contains an off-by-one error that can result in a heap-based buffer overflow, which allows privilege escalation to root via %sudoedit -s% and a command-line argument that ends with a single backslash character.| 
 | 20210430T09:43:25Z | CVE-2020-27955 | Null | https://github.com/DeeLMind/CVE-2020-27955-LFS | Git LFS 2.12.0 allows Remote Code Execution.| 
@@ -52,7 +52,7 @@
 | 20210430T23:44:52Z | PS4 Exploits 5.05-7.55 | https://github.com/Buzbee/Buzbee.github.io | 2 | 0| 
 | 20210430T23:20:08Z | GetSimple CMS Custom JS Plugin Exploit RCE Chain | https://github.com/boku7/gsCMS-CustomJS-Csrf2Xss2Rce | 0 | 1| 
 | 20210430T23:07:55Z | Highlights from vulnerabilities I%ve discovered and original exploits | https://github.com/billchaison/trophies | 0 | 0| 
-| 20210430T22:57:58Z | Vulnnr - Scanner Vulnerability And Mass Exploiter. | https://github.com/X-x-X-0/Vulnnr | 28 | 12| 
+| 20210430T22:57:58Z | Vulnnr - Scanner Vulnerability And Mass Exploiter. | https://github.com/X-x-X-0/Vulnnr | 28 | 13| 
 | 20210430T22:46:23Z | Null | https://github.com/LunarExploits/LunarExploit | 0 | 0| 
 | 20210430T22:45:30Z | kernel exploit | https://github.com/jeckles/HACS408T | 0 | 0| 
 | 20210430T22:42:25Z | Ghost Framework is an Android post-exploitation framework that exploits the Android Debug Bridge to remotely access an Android device. | https://github.com/EntySec/ghost | 1061 | 508| 
