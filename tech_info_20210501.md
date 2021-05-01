@@ -47,6 +47,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210501T12:14:58Z | using msfvenom to make RAT(remote access trojan) using backdoor | https://github.com/anthonykid/kali_netasploit_windows_10 | 0 | 0| 
 | 20210501T11:37:41Z | 🤖An Evil and Smart Bot for Enslaving Windows. | https://github.com/wildonion/katyusha | 3 | 1| 
 | 20210501T10:53:49Z | Ghost Framework is an Android post-exploitation framework that exploits the Android Debug Bridge to remotely access an Android device. | https://github.com/EntySec/ghost | 1061 | 509| 
 | 20210501T01:17:16Z | PCI Express DIY hacking toolkit for Xilinx SP605 | https://github.com/Cr4sh/s6_pcie_microblaze | 319 | 79| 
@@ -55,9 +56,9 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210501T12:14:23Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 140 | 10| 
 | 20210501T12:12:12Z | Winnie is an end-to-end system that makes fuzzing Windows applications easy | https://github.com/sslab-gatech/winnie | 79 | 4| 
 | 20210501T12:10:17Z | Null | https://github.com/RMadaan/Adaptive-Neuro-Fuzzy-Inference-System_Malaria-Detection | 1 | 0| 
-| 20210501T12:09:31Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 139 | 10| 
 | 20210501T11:46:38Z | very advanced (web) fuzzer | https://github.com/d4rckh/vaf | 29 | 3| 
 | 20210501T11:34:08Z | Null | https://github.com/JoDeMiro/FuzzyLogic | 0 | 0| 
 | 20210501T11:30:46Z | A fuzzer for hardware network protocols. | https://github.com/AshwAthi8/R0fuzz | 0 | 1| 
