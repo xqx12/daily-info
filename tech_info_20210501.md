@@ -55,9 +55,9 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210501T12:02:45Z | Null | https://github.com/RMadaan/Adaptive-Neuro-Fuzzy-Inference-System_Malaria-Detection | 1 | 0| 
-| 20210501T12:02:10Z | Winnie is an end-to-end system that makes fuzzing Windows applications easy | https://github.com/sslab-gatech/winnie | 77 | 4| 
-| 20210501T11:56:32Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 138 | 10| 
+| 20210501T12:12:12Z | Winnie is an end-to-end system that makes fuzzing Windows applications easy | https://github.com/sslab-gatech/winnie | 79 | 4| 
+| 20210501T12:10:17Z | Null | https://github.com/RMadaan/Adaptive-Neuro-Fuzzy-Inference-System_Malaria-Detection | 1 | 0| 
+| 20210501T12:09:31Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 139 | 10| 
 | 20210501T11:46:38Z | very advanced (web) fuzzer | https://github.com/d4rckh/vaf | 29 | 3| 
 | 20210501T11:34:08Z | Null | https://github.com/JoDeMiro/FuzzyLogic | 0 | 0| 
 | 20210501T11:30:46Z | A fuzzer for hardware network protocols. | https://github.com/AshwAthi8/R0fuzz | 0 | 1| 
