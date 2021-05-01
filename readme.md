@@ -16,7 +16,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20210501T05:19:53Z | CVE-2021-30128 | Null | https://github.com/LioTree/CVE-2021-30128-EXP | Apache OFBiz has unsafe deserialization prior to 17.12.07 version| 
+| 20210501T05:19:53Z | CVE-2021-30128 | Null | https://github.com/LioTree/CVE-2021-30128-EXP | 未查询到CVE信息| 
 
 
 # klee on Github 推荐
