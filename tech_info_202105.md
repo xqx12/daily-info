@@ -16,7 +16,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20210501T05:19:53Z | CVE-2021-30128 | Null | https://github.com/LioTree/CVE-2021-30128-EXP | | 
+| 20210501T05:19:53Z | CVE-2021-30128 | Null | https://github.com/LioTree/CVE-2021-30128-EXP | Apache OFBiz has unsafe deserialization prior to 17.12.07 version| 
 
 
 # klee on Github 推荐
@@ -32,6 +32,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210501T12:58:09Z | A Roblox admin script designed to put the user%s best interests into consideration, and make Roblox more interesting. | https://github.com/ex7ase/eden | 0 | 0| 
+| 20210501T12:57:17Z | Alpine Builder for pentest. Exploit lxd and docker group permission. | https://github.com/Seven-7Up/alpine-builderForPentest | 0 | 0| 
 | 20210501T12:53:12Z | Some practice exp | https://github.com/Drunkmars/Exploit.py | 2 | 1| 
 | 20210501T12:47:32Z | Bukkit/BungeeCord plugin that aims on fixing Exploits in your Minecraft network. [Requires HamsterAPI to work] | https://github.com/2lstudios-mc/ExploitFixer | 86 | 24| 
 | 20210501T12:35:13Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9355 | 1510| 
@@ -40,8 +42,6 @@
 | 20210501T11:53:38Z | Kernel Mode Driver um Exploits zu testen | https://github.com/jtrac3er/KernelControl | 0 | 0| 
 | 20210501T11:48:54Z | Hybrid-Scale Self-Similarity Exploitation for Remote Sensing Image Super-Resolution | https://github.com/Shaosifan/HSENet | 1 | 0| 
 | 20210501T11:48:37Z | -------> RAFEL<------  Android Rat  Written in Java With WebPanel For Controlling Victims...Hack Android Devices | https://github.com/swagkarna/Rafel-Rat | 91 | 53| 
-| 20210501T11:47:33Z | bespoke tooling for offensive security%s Windows Usermode Exploit Dev course (OSED) | https://github.com/epi052/osed-scripts | 25 | 10| 
-| 20210501T11:45:01Z | An advanced XSS exploitation tool. | https://github.com/LoveSteak/Steak | 2 | 0| 
 
 
 # backdoor on Github 推荐
