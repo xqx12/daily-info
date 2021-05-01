@@ -51,8 +51,8 @@
 | 20210430T15:45:05Z | CVE-2021-26121 | Null | https://github.com/sourceincite/CVE-2021-26121 | 未查询到CVE信息| 
 | 20210430T14:29:08Z | CVE-2020-27955 | CVE-2020-27955 | https://github.com/exileddb/CVE-2020-27955 | Git LFS 2.12.0 allows Remote Code Execution.| 
 | 20210430T13:20:15Z | CVE-2021-3156 | Null | https://github.com/dock0d1/CVE-2021-3156 | Sudo before 1.9.5p2 contains an off-by-one error that can result in a heap-based buffer overflow, which allows privilege escalation to root via %sudoedit -s% and a command-line argument that ends with a single backslash character.| 
-| 20210430T09:43:25Z | CVE-2020-27955 | Null | https://github.com/DeeLMind/CVE-2020-27955-LFS | | 
-| 20210430T08:34:16Z | CVE-2020-9496 | Apache OFBiz unsafe deserialization of XMLRPC arguments | https://github.com/g33xter/CVE-2020-9496 | XML-RPC request are vulnerable to unsafe deserialization and Cross-Site Scripting issues in Apache OFBiz 17.12.03| 
+| 20210430T09:43:25Z | CVE-2020-27955 | Null | https://github.com/DeeLMind/CVE-2020-27955-LFS | Git LFS 2.12.0 allows Remote Code Execution.| 
+| 20210430T08:34:16Z | CVE-2020-9496 | Apache OFBiz unsafe deserialization of XMLRPC arguments | https://github.com/g33xter/CVE-2020-9496 | | 
 | 20210430T02:36:18Z | cve-2021-3449 | CVE-2021-3449 OpenSSL denial-of-service exploit 👨🏻‍💻 | https://github.com/terorie/cve-2021-3449 | An OpenSSL TLS server may crash if sent a maliciously crafted renegotiation ClientHello message from a client. If a TLSv1.2 renegotiation ClientHello omits the signature_algorithms extension (where it was present in the initial ClientHello), but includes a signature_algorithms_cert extension then a NULL pointer dereference will result, leading to a crash and a denial of service attack. A server is only vulnerable if it has TLSv1.2 and renegotiation enabled (which is the default configuration). OpenSSL TLS clients are not impacted by this issue. All OpenSSL 1.1.1 versions are affected by this issue. Users of these versions should upgrade to OpenSSL 1.1.1k. OpenSSL 1.0.2 is not impacted by this issue. Fixed in OpenSSL 1.1.1k (Affected 1.1.1-1.1.1j).| 
 | 20210430T01:21:12Z | CVE-2021-27552 | Steps for Exploitation  | https://github.com/sapkota2k20/CVE-2021-27552 | 未查询到CVE信息| 
 | 20210429T18:04:35Z | CVE-2021-30128 | Null | https://github.com/LioTree/CVE-2021-30128 | Apache OFBiz has unsafe deserialization prior to 17.12.07 version| 
@@ -87,7 +87,7 @@
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
 | 20210430T23:44:52Z | PS4 Exploits 5.05-7.55 | https://github.com/Buzbee/Buzbee.github.io | 2 | 0| 
-| 20210430T23:20:08Z | GetSimple CMS Custom JS Plugin Exploit RCE Chain | https://github.com/boku7/gsCMS-CustomJS-Csrf2Xss2Rce | 0 | 0| 
+| 20210430T23:20:08Z | GetSimple CMS Custom JS Plugin Exploit RCE Chain | https://github.com/boku7/gsCMS-CustomJS-Csrf2Xss2Rce | 0 | 1| 
 | 20210430T23:07:55Z | Highlights from vulnerabilities I%ve discovered and original exploits | https://github.com/billchaison/trophies | 0 | 0| 
 | 20210430T22:57:58Z | Vulnnr - Scanner Vulnerability And Mass Exploiter. | https://github.com/X-x-X-0/Vulnnr | 28 | 12| 
 | 20210430T22:46:23Z | Null | https://github.com/LunarExploits/LunarExploit | 0 | 0| 
