@@ -16,7 +16,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20210501T05:19:53Z | CVE-2021-30128 | Null | https://github.com/LioTree/CVE-2021-30128-EXP | 未查询到CVE信息| 
+| 20210501T05:19:53Z | CVE-2021-30128 | Null | https://github.com/LioTree/CVE-2021-30128-EXP | Apache OFBiz has unsafe deserialization prior to 17.12.07 version| 
 
 
 # klee on Github 推荐
@@ -57,12 +57,12 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210501T12:22:14Z | Null | https://github.com/StanislavShchukin/fuzzy-octo-memory | 0 | 0| 
-| 20210501T12:21:50Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 141 | 10| 
+| 20210501T12:43:33Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 142 | 10| 
+| 20210501T12:36:20Z | very advanced (web) fuzzer | https://github.com/d4rckh/vaf | 30 | 3| 
+| 20210501T12:34:17Z | Null | https://github.com/StanislavShchukin/fuzzy-octo-memory | 0 | 0| 
 | 20210501T12:17:15Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 3 | 4| 
 | 20210501T12:12:12Z | Winnie is an end-to-end system that makes fuzzing Windows applications easy | https://github.com/sslab-gatech/winnie | 79 | 4| 
 | 20210501T12:10:17Z | Null | https://github.com/RMadaan/Adaptive-Neuro-Fuzzy-Inference-System_Malaria-Detection | 1 | 0| 
-| 20210501T11:46:38Z | very advanced (web) fuzzer | https://github.com/d4rckh/vaf | 29 | 3| 
 | 20210501T11:34:08Z | Null | https://github.com/JoDeMiro/FuzzyLogic | 0 | 0| 
 | 20210501T11:30:46Z | A fuzzer for hardware network protocols. | https://github.com/AshwAthi8/R0fuzz | 0 | 1| 
 | 20210501T11:22:41Z | Null | https://github.com/crgz/fuzzy-parser | 0 | 0| 
