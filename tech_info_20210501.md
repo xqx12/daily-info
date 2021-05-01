@@ -32,13 +32,13 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210501T12:02:48Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 22 | 9| 
 | 20210501T11:53:38Z | Kernel Mode Driver um Exploits zu testen | https://github.com/jtrac3er/KernelControl | 0 | 0| 
 | 20210501T11:48:54Z | Hybrid-Scale Self-Similarity Exploitation for Remote Sensing Image Super-Resolution | https://github.com/Shaosifan/HSENet | 1 | 0| 
 | 20210501T11:48:37Z | -------> RAFEL<------  Android Rat  Written in Java With WebPanel For Controlling Victims...Hack Android Devices | https://github.com/swagkarna/Rafel-Rat | 91 | 53| 
 | 20210501T11:47:33Z | bespoke tooling for offensive security%s Windows Usermode Exploit Dev course (OSED) | https://github.com/epi052/osed-scripts | 25 | 10| 
 | 20210501T11:45:01Z | An advanced XSS exploitation tool. | https://github.com/LoveSteak/Steak | 2 | 0| 
 | 20210501T11:38:14Z | Null | https://github.com/TERIHAX/Exploit_Desire_X | 0 | 0| 
-| 20210501T11:02:49Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 22 | 9| 
 | 20210501T10:30:40Z | A python based tool for exploiting and managing android devices via ADB | https://github.com/krishpranav/adbsploit | 1 | 0| 
 | 20210501T10:26:40Z | 32bit 8.4.1-9.1 untethered jailbreak. codesign bypass & kernel exploit | https://github.com/dora2-iOS/daibutsu | 17 | 3| 
 | 20210501T10:09:40Z | Null | https://github.com/LunarExploits/LunarExploit | 0 | 0| 
@@ -55,9 +55,9 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210501T11:56:47Z | Null | https://github.com/RMadaan/Adaptive-Neuro-Fuzzy-Inference-System_Malaria-Detection | 1 | 0| 
+| 20210501T12:02:45Z | Null | https://github.com/RMadaan/Adaptive-Neuro-Fuzzy-Inference-System_Malaria-Detection | 1 | 0| 
+| 20210501T12:02:10Z | Winnie is an end-to-end system that makes fuzzing Windows applications easy | https://github.com/sslab-gatech/winnie | 77 | 4| 
 | 20210501T11:56:32Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 138 | 10| 
-| 20210501T11:50:22Z | Winnie is an end-to-end system that makes fuzzing Windows applications easy | https://github.com/sslab-gatech/winnie | 76 | 4| 
 | 20210501T11:46:38Z | very advanced (web) fuzzer | https://github.com/d4rckh/vaf | 29 | 3| 
 | 20210501T11:34:08Z | Null | https://github.com/JoDeMiro/FuzzyLogic | 0 | 0| 
 | 20210501T11:30:46Z | A fuzzer for hardware network protocols. | https://github.com/AshwAthi8/R0fuzz | 0 | 1| 
