@@ -32,6 +32,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210501T12:19:10Z | More Stable Offline Exploit version of PS4 6.72 Jailbreak. | https://github.com/DarkModderVC/PS4JB | 142 | 53| 
 | 20210501T12:02:48Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 22 | 9| 
 | 20210501T11:53:38Z | Kernel Mode Driver um Exploits zu testen | https://github.com/jtrac3er/KernelControl | 0 | 0| 
 | 20210501T11:48:54Z | Hybrid-Scale Self-Similarity Exploitation for Remote Sensing Image Super-Resolution | https://github.com/Shaosifan/HSENet | 1 | 0| 
@@ -41,7 +42,6 @@
 | 20210501T11:38:14Z | Null | https://github.com/TERIHAX/Exploit_Desire_X | 0 | 0| 
 | 20210501T10:30:40Z | A python based tool for exploiting and managing android devices via ADB | https://github.com/krishpranav/adbsploit | 1 | 0| 
 | 20210501T10:26:40Z | 32bit 8.4.1-9.1 untethered jailbreak. codesign bypass & kernel exploit | https://github.com/dora2-iOS/daibutsu | 17 | 3| 
-| 20210501T10:09:40Z | Null | https://github.com/LunarExploits/LunarExploit | 0 | 0| 
 
 
 # backdoor on Github 推荐
