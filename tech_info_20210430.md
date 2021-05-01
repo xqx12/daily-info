@@ -23,8 +23,8 @@
 | 20210430T15:45:05Z | CVE-2021-26121 | Null | https://github.com/sourceincite/CVE-2021-26121 | 未查询到CVE信息| 
 | 20210430T14:29:08Z | CVE-2020-27955 | CVE-2020-27955 | https://github.com/exileddb/CVE-2020-27955 | Git LFS 2.12.0 allows Remote Code Execution.| 
 | 20210430T13:20:15Z | CVE-2021-3156 | Null | https://github.com/dock0d1/CVE-2021-3156 | 未查询到CVE信息| 
-| 20210430T09:43:25Z | CVE-2020-27955 | Null | https://github.com/DeeLMind/CVE-2020-27955-LFS | | 
-| 20210430T08:34:16Z | CVE-2020-9496 | Apache OFBiz unsafe deserialization of XMLRPC arguments | https://github.com/g33xter/CVE-2020-9496 | 未查询到CVE信息| 
+| 20210430T09:43:25Z | CVE-2020-27955 | Null | https://github.com/DeeLMind/CVE-2020-27955-LFS | Git LFS 2.12.0 allows Remote Code Execution.| 
+| 20210430T08:34:16Z | CVE-2020-9496 | Apache OFBiz unsafe deserialization of XMLRPC arguments | https://github.com/g33xter/CVE-2020-9496 | | 
 | 20210430T02:36:18Z | cve-2021-3449 | CVE-2021-3449 OpenSSL denial-of-service exploit 👨🏻‍💻 | https://github.com/terorie/cve-2021-3449 | 未查询到CVE信息| 
 | 20210430T01:21:12Z | CVE-2021-27552 | Steps for Exploitation  | https://github.com/sapkota2k20/CVE-2021-27552 | 未查询到CVE信息| 
 
