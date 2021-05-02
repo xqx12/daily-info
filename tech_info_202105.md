@@ -16,7 +16,8 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20210501T15:31:02Z | CVE-2020-14321 | Python script to exploit CVE-2020-14321 - Course enrolments allowed privilege escalation from teacher role into manager role to RCE. | https://github.com/lanzt/CVE-2020-14321 | 未查询到CVE信息| 
+| 20210502T01:58:40Z | CVE-2021-3493 | Null | https://github.com/Abdennour-py/CVE-2021-3493 | | 
+| 20210501T15:31:02Z | CVE-2020-14321 | Python script to exploit CVE-2020-14321 - Course enrolments allowed privilege escalation from teacher role into manager role to RCE. | https://github.com/lanzt/CVE-2020-14321 | | 
 | 20210501T14:20:29Z | CVE-2021-22192 | CVE-2021-22192 靶场： 未授权用户 RCE 漏洞 | https://github.com/lyy289065406/CVE-2021-22192 | An issue has been discovered in GitLab CE/EE affecting all versions starting from 13.2 allowing unauthorized authenticated users to execute arbitrary code on the server.| 
 | 20210501T05:19:53Z | CVE-2021-30128 | Null | https://github.com/LioTree/CVE-2021-30128-EXP | Apache OFBiz has unsafe deserialization prior to 17.12.07 version| 
 
@@ -66,7 +67,8 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210502T01:52:54Z | This repository is for testing a number of open source applications for vulnerabilities using multiple fuzzers. | https://github.com/bartholomewHarris/fuzzingNode.jsApplications | 1 | 2| 
+| 20210502T02:00:07Z | This repository is for testing a number of open source applications for vulnerabilities using multiple fuzzers. | https://github.com/bartholomewHarris/fuzzingNode.jsApplications | 1 | 2| 
+| 20210502T01:58:19Z | Fuzzy logic using sugeno method | https://github.com/serlysetyani/fuzzyLogic | 0 | 0| 
 | 20210502T01:50:17Z | Winnie is an end-to-end system that makes fuzzing Windows applications easy | https://github.com/sslab-gatech/winnie | 128 | 10| 
 | 20210502T01:47:43Z | Fuzzy_Howework_Multi-dimensional_lists | https://github.com/taleb-hub/Fuzzy_Howework_Multi-dimensional_lists | 0 | 0| 
 | 20210502T01:42:56Z | Ev description  | https://github.com/muz4151/fuzzy-succotash | 0 | 0| 
@@ -75,7 +77,6 @@
 | 20210502T00:40:55Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 31284 | 16025| 
 | 20210502T00:05:29Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 3 | 4| 
 | 20210502T00:00:18Z | Null | https://github.com/DashaFah/Fuzzy-sets | 0 | 0| 
-| 20210501T23:58:37Z | A heavily edited version of Privoxy intended for fuzzing. | https://github.com/MegaManSec/privoxy-fuzz | 0 | 0| 
 
 
 
