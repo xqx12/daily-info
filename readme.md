@@ -37,6 +37,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210502T12:31:45Z | Kernel Mode Driver um Exploits zu testen | https://github.com/jtrac3er/KernelControl | 0 | 0| 
 | 20210502T12:22:35Z | Null | https://github.com/th3ken-dev/TH3KEN-EDITON | 2 | 0| 
 | 20210502T12:18:05Z | This bash script will help you to hack remote hosts  | https://github.com/FabioDefilippo/linuxallremote | 11 | 3| 
 | 20210502T12:12:48Z | Search for Unix binaries that can be exploited to bypass system security restrictions. | https://github.com/t0thkr1s/gtfo | 74 | 14| 
@@ -46,15 +47,14 @@
 | 20210502T09:24:22Z | Roblox exploit DLL base using the LBI execution method | https://github.com/deaddlocust/LBI-Base | 0 | 1| 
 | 20210502T08:51:26Z | GitLab Arbitrary File Read Exploit | https://github.com/nickvdyck/gitlab-cve-2020-10977 | 0 | 0| 
 | 20210502T08:32:30Z | -------> RAFEL<------  Android Rat  Written in Java With WebPanel For Controlling Victims...Hack Android Devices | https://github.com/swagkarna/Rafel-Rat | 93 | 54| 
-| 20210502T08:03:15Z | Some practice exp | https://github.com/Drunkmars/Exploit.py | 3 | 1| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210502T12:31:38Z | Small and convenient C2 tool for Windows targets | https://github.com/Cr4sh/MicroBackdoor | 58 | 8| 
 | 20210502T12:29:54Z | Hanoman is an GUI antivirus engine singature based detection 🐒 | https://github.com/hrtywhy/Hanoman | 1 | 0| 
 | 20210502T12:29:30Z | PCI Express DIY hacking toolkit for Xilinx SP605 | https://github.com/Cr4sh/s6_pcie_microblaze | 333 | 86| 
-| 20210502T12:03:50Z | Small and convenient C2 tool for Windows targets | https://github.com/Cr4sh/MicroBackdoor | 57 | 8| 
 | 20210502T11:59:19Z | Pupy is an opensource, cross-platform (Windows, Linux, OSX, Android) remote administration and post-exploitation tool mainly written in python | https://github.com/n1nj4sec/pupy | 6301 | 1624| 
 | 20210502T10:25:57Z | A token logger for discord + steals Brave/Chrome passwords and usernames | https://github.com/CUPZYY/Backdoor-Machine | 2 | 0| 
 | 20210502T09:33:00Z | Null | https://github.com/d4rkh/multi-threaded-backdoor | 0 | 0| 
