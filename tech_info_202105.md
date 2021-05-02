@@ -17,11 +17,11 @@
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
 | 20210502T08:51:26Z | cve-2020-10977 | GitLab Arbitrary File Read Exploit | https://github.com/nickvdyck/gitlab-cve-2020-10977 | GitLab EE/CE 8.5 to 12.9 is vulnerable to a an path traversal when moving an issue between projects.| 
-| 20210502T05:34:31Z | CVE-2021-22192 | CVE-2021-22192 靶场： 未授权用户 RCE 漏洞 | https://github.com/lyy289065406/CVE-2021-22192 | 未查询到CVE信息| 
-| 20210502T04:01:38Z | CVE-2020-23342 | Null | https://github.com/DXY0411/CVE-2020-23342 | 未查询到CVE信息| 
-| 20210502T01:58:40Z | CVE-2021-3493 | Null | https://github.com/Abdennour-py/CVE-2021-3493 | 未查询到CVE信息| 
+| 20210502T05:34:31Z | CVE-2021-22192 | CVE-2021-22192 靶场： 未授权用户 RCE 漏洞 | https://github.com/lyy289065406/CVE-2021-22192 | An issue has been discovered in GitLab CE/EE affecting all versions starting from 13.2 allowing unauthorized authenticated users to execute arbitrary code on the server.| 
+| 20210502T04:01:38Z | CVE-2020-23342 | Null | https://github.com/DXY0411/CVE-2020-23342 | A CSRF vulnerability exists in Anchor CMS 0.12.7 anchor/views/users/edit.php that can change the Delete admin users.| 
+| 20210502T01:58:40Z | CVE-2021-3493 | Null | https://github.com/Abdennour-py/CVE-2021-3493 | The overlayfs implementation in the linux kernel did not properly validate with respect to user namespaces the setting of file capabilities on files in an underlying file system. Due to the combination of unprivileged user namespaces along with a patch carried in the Ubuntu kernel to allow unprivileged overlay mounts, an attacker could use this to gain elevated privileges.| 
 | 20210501T15:31:02Z | CVE-2020-14321 | Python script to exploit CVE-2020-14321 - Course enrolments allowed privilege escalation from teacher role into manager role to RCE. | https://github.com/lanzt/CVE-2020-14321 | 未查询到CVE信息| 
-| 20210501T05:19:53Z | CVE-2021-30128 | Null | https://github.com/LioTree/CVE-2021-30128-EXP | 未查询到CVE信息| 
+| 20210501T05:19:53Z | CVE-2021-30128 | Null | https://github.com/LioTree/CVE-2021-30128-EXP | Apache OFBiz has unsafe deserialization prior to 17.12.07 version| 
 
 
 # klee on Github 推荐
@@ -40,6 +40,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210502T12:50:37Z | Python based Reverse-Shell Backdoor Exploitation Framework with various features. | https://github.com/cyb3rm0nk3y/ReverseSploit | 0 | 0| 
 | 20210502T12:35:12Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9361 | 1513| 
 | 20210502T12:31:45Z | Kernel Mode Driver um Exploits zu testen | https://github.com/jtrac3er/KernelControl | 0 | 0| 
 | 20210502T12:22:35Z | Null | https://github.com/th3ken-dev/TH3KEN-EDITON | 2 | 0| 
@@ -49,12 +50,12 @@
 | 20210502T11:06:12Z | bespoke tooling for offensive security%s Windows Usermode Exploit Dev course (OSED) | https://github.com/epi052/osed-scripts | 26 | 10| 
 | 20210502T10:04:07Z | Mario Kart 7 semi-primary exploit for the Nintendo 3DS. | https://github.com/mariohackandglitch/kartdlphax | 19 | 0| 
 | 20210502T09:24:22Z | Roblox exploit DLL base using the LBI execution method | https://github.com/deaddlocust/LBI-Base | 0 | 1| 
-| 20210502T08:51:26Z | GitLab Arbitrary File Read Exploit | https://github.com/nickvdyck/gitlab-cve-2020-10977 | 0 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210502T12:50:37Z | Python based Reverse-Shell Backdoor Exploitation Framework with various features. | https://github.com/cyb3rm0nk3y/ReverseSploit | 0 | 0| 
 | 20210502T12:31:38Z | Small and convenient C2 tool for Windows targets | https://github.com/Cr4sh/MicroBackdoor | 58 | 8| 
 | 20210502T12:29:54Z | Hanoman is an GUI antivirus engine singature based detection 🐒 | https://github.com/hrtywhy/Hanoman | 1 | 0| 
 | 20210502T12:29:30Z | PCI Express DIY hacking toolkit for Xilinx SP605 | https://github.com/Cr4sh/s6_pcie_microblaze | 333 | 86| 
@@ -64,7 +65,6 @@
 | 20210502T07:28:52Z | Ghost Framework is an Android post-exploitation framework that exploits the Android Debug Bridge to remotely access an Android device. | https://github.com/EntySec/ghost | 1063 | 510| 
 | 20210502T06:05:17Z | A static analysis tool to reveal backdoor threats in Ethereum smart contracts | https://github.com/SmartContractBackdoor/Pied-Piper-tool | 0 | 0| 
 | 20210502T04:41:34Z | Null | https://github.com/connorbuck/backdoor-dispensary-website | 0 | 0| 
-| 20210502T03:15:26Z | Null | https://github.com/laerson-hammes/backdoor | 0 | 0| 
 
 
 # fuzz on Github 推荐
