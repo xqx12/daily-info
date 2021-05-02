@@ -37,7 +37,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210502T12:53:54Z | Python based Reverse-Shell Backdoor Exploitation Framework with various features. | https://github.com/cyb3rm0nk3y/ReverseSploit | 0 | 0| 
+| 20210502T12:55:01Z | Python based Reverse-Shell Backdoor Exploitation Framework with various features. | https://github.com/cyb3rm0nk3y/ReverseSploit | 0 | 0| 
 | 20210502T12:53:19Z | Roblox exploit DLL base using the LBI execution method | https://github.com/deaddlocust/LBI-Base | 0 | 1| 
 | 20210502T12:35:12Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9361 | 1513| 
 | 20210502T12:31:45Z | Kernel Mode Driver um Exploits zu testen | https://github.com/jtrac3er/KernelControl | 0 | 0| 
