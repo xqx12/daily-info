@@ -16,7 +16,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20210501T15:31:02Z | CVE-2020-14321 | Python script to exploit CVE-2020-14321 - Course enrolments allowed privilege escalation from teacher role into manager role to RCE. | https://github.com/lanzt/CVE-2020-14321 | 未查询到CVE信息| 
+| 20210501T15:31:02Z | CVE-2020-14321 | Python script to exploit CVE-2020-14321 - Course enrolments allowed privilege escalation from teacher role into manager role to RCE. | https://github.com/lanzt/CVE-2020-14321 | | 
 | 20210501T14:20:29Z | CVE-2021-22192 | CVE-2021-22192 靶场： 未授权用户 RCE 漏洞 | https://github.com/lyy289065406/CVE-2021-22192 | An issue has been discovered in GitLab CE/EE affecting all versions starting from 13.2 allowing unauthorized authenticated users to execute arbitrary code on the server.| 
 | 20210501T05:19:53Z | CVE-2021-30128 | Null | https://github.com/LioTree/CVE-2021-30128-EXP | Apache OFBiz has unsafe deserialization prior to 17.12.07 version| 
 
@@ -35,13 +35,13 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210502T00:34:24Z | PS1 savegame exploit | https://github.com/socram8888/tonyhax | 267 | 7| 
 | 20210502T00:06:37Z | Unpack the full potential of your PlayStation 4. | https://github.com/ps4h3x/ps4h3x.xyz | 2 | 0| 
 | 20210502T00:02:40Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 22 | 9| 
 | 20210501T23:34:07Z | A general purpose memory allocator that implements an isolation security strategy to mitigate memory safety issues while maintaining good performance | https://github.com/struct/isoalloc | 150 | 10| 
 | 20210501T23:28:57Z | The hacking challenges I%ve solved | https://github.com/andrewbae/playground | 1 | 1| 
 | 20210501T23:15:05Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9358 | 1511| 
 | 20210501T23:05:24Z | This is a plugin for Minecraft that aids in building, as it gives the player creative mode and charges them for each block they place. All exploits are patched as well. | https://github.com/bsalha1/Printer | 2 | 4| 
-| 20210501T22:16:22Z | PS1 savegame exploit | https://github.com/socram8888/tonyhax | 267 | 7| 
 | 20210501T22:10:37Z | Docker group permission escalation Automated, usually for pentesting. | https://github.com/Seven-7Up/docker-exploitAutomation | 0 | 0| 
 | 20210501T22:08:10Z | Automate lxd exploit for linux. | https://github.com/Seven-7Up/lxd-exploitAutomation | 0 | 0| 
 | 20210501T21:27:21Z | Code for the paper %Improved Cooperation by Exploiting a Common Signal% (https://arxiv.org/abs/2102.02304). | https://github.com/panayiotisd/Improved-Cooperation-by-Exploiting-a-Common-Signal | 0 | 0| 
