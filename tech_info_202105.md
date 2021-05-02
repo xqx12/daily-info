@@ -65,11 +65,11 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210502T00:29:39Z | Winnie is an end-to-end system that makes fuzzing Windows applications easy | https://github.com/sslab-gatech/winnie | 126 | 10| 
 | 20210502T00:13:33Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 169 | 13| 
 | 20210502T00:05:29Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 3 | 4| 
 | 20210502T00:00:18Z | Null | https://github.com/DashaFah/Fuzzy-sets | 0 | 0| 
 | 20210501T23:58:37Z | A heavily edited version of Privoxy intended for fuzzing. | https://github.com/MegaManSec/privoxy-fuzz | 0 | 0| 
-| 20210501T23:32:44Z | Winnie is an end-to-end system that makes fuzzing Windows applications easy | https://github.com/sslab-gatech/winnie | 125 | 10| 
 | 20210501T22:19:34Z | CS 4152 Project | https://github.com/nicbarone/Fuzzy-Kiwi | 0 | 0| 
 | 20210501T22:06:02Z | https://github.com/wcventure/FuzzingPaper | https://github.com/mishmashclone/wcventure-FuzzingPaper | 6 | 1| 
 | 20210501T22:05:07Z | Null | https://github.com/jyu6-6/fuzzy-grouping | 0 | 0| 
