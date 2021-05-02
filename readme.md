@@ -17,9 +17,9 @@
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
 | 20210502T08:51:26Z | cve-2020-10977 | GitLab Arbitrary File Read Exploit | https://github.com/nickvdyck/gitlab-cve-2020-10977 | GitLab EE/CE 8.5 to 12.9 is vulnerable to a an path traversal when moving an issue between projects.| 
-| 20210502T05:34:31Z | CVE-2021-22192 | CVE-2021-22192 靶场： 未授权用户 RCE 漏洞 | https://github.com/lyy289065406/CVE-2021-22192 | An issue has been discovered in GitLab CE/EE affecting all versions starting from 13.2 allowing unauthorized authenticated users to execute arbitrary code on the server.| 
-| 20210502T04:01:38Z | CVE-2020-23342 | Null | https://github.com/DXY0411/CVE-2020-23342 | A CSRF vulnerability exists in Anchor CMS 0.12.7 anchor/views/users/edit.php that can change the Delete admin users.| 
-| 20210502T01:58:40Z | CVE-2021-3493 | Null | https://github.com/Abdennour-py/CVE-2021-3493 | The overlayfs implementation in the linux kernel did not properly validate with respect to user namespaces the setting of file capabilities on files in an underlying file system. Due to the combination of unprivileged user namespaces along with a patch carried in the Ubuntu kernel to allow unprivileged overlay mounts, an attacker could use this to gain elevated privileges.| 
+| 20210502T05:34:31Z | CVE-2021-22192 | CVE-2021-22192 靶场： 未授权用户 RCE 漏洞 | https://github.com/lyy289065406/CVE-2021-22192 | 未查询到CVE信息| 
+| 20210502T04:01:38Z | CVE-2020-23342 | Null | https://github.com/DXY0411/CVE-2020-23342 | 未查询到CVE信息| 
+| 20210502T01:58:40Z | CVE-2021-3493 | Null | https://github.com/Abdennour-py/CVE-2021-3493 | 未查询到CVE信息| 
 
 
 # klee on Github 推荐
@@ -67,7 +67,8 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210502T12:30:12Z | Null | https://github.com/s9varesc/url-fuzzing | 1 | 1| 
+| 20210502T12:36:55Z | Null | https://github.com/seghi/fuzzy-pancake | 0 | 0| 
+| 20210502T12:34:01Z | Null | https://github.com/s9varesc/url-fuzzing | 1 | 1| 
 | 20210502T12:16:52Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 4 | 4| 
 | 20210502T11:22:59Z | a simple  code that detects attempted fuzzing to port 22, by reading from computer logs (only on linux) | https://github.com/eloblo/ssh_fuzz_detector | 0 | 0| 
 | 20210502T10:40:59Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 3493 | 808| 
@@ -76,7 +77,6 @@
 | 20210502T08:20:36Z | Null | https://github.com/rizkyasepsutrisna/FuzzyLogicBestRestaurant | 0 | 0| 
 | 20210502T08:06:23Z | Null | https://github.com/VeriBlock/fuzz-corpus | 0 | 1| 
 | 20210502T07:56:01Z | Null | https://github.com/setsal/fuzz_bench | 0 | 0| 
-| 20210502T07:55:45Z | A fuzzer for hardware network protocols. | https://github.com/AshwAthi8/R0fuzz | 0 | 1| 
 
 
 
