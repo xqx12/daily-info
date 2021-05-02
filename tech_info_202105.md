@@ -40,7 +40,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210502T12:08:52Z | Search for Unix binaries that can be exploited to bypass system security restrictions. | https://github.com/t0thkr1s/gtfo | 74 | 14| 
+| 20210502T12:09:28Z | Search for Unix binaries that can be exploited to bypass system security restrictions. | https://github.com/t0thkr1s/gtfo | 74 | 14| 
 | 20210502T12:02:36Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 22 | 9| 
 | 20210502T11:06:12Z | bespoke tooling for offensive security%s Windows Usermode Exploit Dev course (OSED) | https://github.com/epi052/osed-scripts | 26 | 10| 
 | 20210502T10:04:07Z | Mario Kart 7 semi-primary exploit for the Nintendo 3DS. | https://github.com/mariohackandglitch/kartdlphax | 19 | 0| 
