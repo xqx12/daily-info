@@ -40,21 +40,26 @@
 | 20210501T23:28:57Z | The hacking challenges I%ve solved | https://github.com/andrewbae/playground | 1 | 1| 
 | 20210501T23:15:05Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9358 | 1511| 
 | 20210501T23:05:24Z | This is a plugin for Minecraft that aids in building, as it gives the player creative mode and charges them for each block they place. All exploits are patched as well. | https://github.com/bsalha1/Printer | 2 | 4| 
-| 20210501T23:02:38Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 22 | 9| 
 | 20210501T22:16:22Z | PS1 savegame exploit | https://github.com/socram8888/tonyhax | 267 | 7| 
 | 20210501T22:10:37Z | Docker group permission escalation Automated, usually for pentesting. | https://github.com/Seven-7Up/docker-exploitAutomation | 0 | 0| 
 | 20210501T22:08:10Z | Automate lxd exploit for linux. | https://github.com/Seven-7Up/lxd-exploitAutomation | 0 | 0| 
 | 20210501T21:27:21Z | Code for the paper %Improved Cooperation by Exploiting a Common Signal% (https://arxiv.org/abs/2102.02304). | https://github.com/panayiotisd/Improved-Cooperation-by-Exploiting-a-Common-Signal | 0 | 0| 
+| 20210501T20:47:36Z | Pixelplace.io exploit  | https://github.com/gHuseyinabi/pixelplace-exploit | 0 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210501T12:24:50Z | using msfvenom to make RAT(remote access trojan) using backdoor, if you want to know more about how to make it, you can issue this project, or contact me on twitter | https://github.com/anthonykid/kali_metasploit_windows_10 | 0 | 0| 
-| 20210501T12:14:58Z | using msfvenom to make RAT(remote access trojan) using backdoor | https://github.com/anthonykid/kali_netasploit_windows_10 | 0 | 0| 
-| 20210501T11:37:41Z | 🤖An Evil and Smart Bot for Enslaving Windows. | https://github.com/wildonion/katyusha | 3 | 1| 
-| 20210501T10:53:49Z | Ghost Framework is an Android post-exploitation framework that exploits the Android Debug Bridge to remotely access an Android device. | https://github.com/EntySec/ghost | 1061 | 509| 
-| 20210501T01:17:16Z | PCI Express DIY hacking toolkit for Xilinx SP605 | https://github.com/Cr4sh/s6_pcie_microblaze | 319 | 79| 
+| 20210501T23:17:46Z | Ghost Framework is an Android post-exploitation framework that exploits the Android Debug Bridge to remotely access an Android device. | https://github.com/EntySec/ghost | 1062 | 509| 
+| 20210501T23:07:43Z | Administration and troubleshooting tools inside a docker container | https://github.com/jonathadv/docker-admin-toolkit | 6 | 2| 
+| 20210501T22:10:47Z | Small and convenient C2 tool for Windows targets | https://github.com/Cr4sh/MicroBackdoor | 16 | 0| 
+| 20210501T22:10:37Z | PCI Express DIY hacking toolkit for Xilinx SP605 | https://github.com/Cr4sh/s6_pcie_microblaze | 325 | 82| 
+| 20210501T21:33:58Z | TrojanZoo provides a universal pytorch platform to conduct security researches (especially backdoor attacks/defenses) of image classification in deep learning. | https://github.com/ain-soph/trojanzoo | 69 | 11| 
+| 20210501T21:32:53Z | Null | https://github.com/connorbuck/backdoor-dispensary-website | 0 | 0| 
+| 20210501T21:21:48Z | Hanoman is an GUI antivirus engine singature based detection 🐒 | https://github.com/hrtywhy/Hanoman | 0 | 0| 
+| 20210501T20:50:08Z | A token logger for discord + steals Brave/Chrome passwords and usernames | https://github.com/CUPZYY/Backdoor-Machine | 2 | 0| 
+| 20210501T20:41:19Z | Simple Python Backdoor | https://github.com/zNairy/Sonaris | 6 | 0| 
+| 20210501T18:02:31Z | PEI stage backdoor for UEFI compatible firmware | https://github.com/Cr4sh/PeiBackdoor | 151 | 50| 
 
 
 # fuzz on Github 推荐
