@@ -35,7 +35,6 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210501T23:58:52Z | Unpack the full potential of your PlayStation 4. | https://github.com/ps4h3x/ps4h3x.xyz | 2 | 0| 
 | 20210501T23:34:07Z | A general purpose memory allocator that implements an isolation security strategy to mitigate memory safety issues while maintaining good performance | https://github.com/struct/isoalloc | 150 | 10| 
 | 20210501T23:28:57Z | The hacking challenges I%ve solved | https://github.com/andrewbae/playground | 1 | 1| 
 | 20210501T23:15:05Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9358 | 1511| 
@@ -45,6 +44,7 @@
 | 20210501T22:08:10Z | Automate lxd exploit for linux. | https://github.com/Seven-7Up/lxd-exploitAutomation | 0 | 0| 
 | 20210501T21:27:21Z | Code for the paper %Improved Cooperation by Exploiting a Common Signal% (https://arxiv.org/abs/2102.02304). | https://github.com/panayiotisd/Improved-Cooperation-by-Exploiting-a-Common-Signal | 0 | 0| 
 | 20210501T20:47:36Z | Pixelplace.io exploit  | https://github.com/gHuseyinabi/pixelplace-exploit | 0 | 0| 
+| 20210501T20:41:28Z | Kernel Mode Driver um Exploits zu testen | https://github.com/jtrac3er/KernelControl | 0 | 0| 
 
 
 # backdoor on Github 推荐
