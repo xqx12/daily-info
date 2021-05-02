@@ -65,9 +65,9 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210502T01:01:14Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 170 | 13| 
 | 20210502T00:40:55Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 31284 | 16024| 
 | 20210502T00:29:39Z | Winnie is an end-to-end system that makes fuzzing Windows applications easy | https://github.com/sslab-gatech/winnie | 126 | 10| 
-| 20210502T00:13:33Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 169 | 13| 
 | 20210502T00:05:29Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 3 | 4| 
 | 20210502T00:00:18Z | Null | https://github.com/DashaFah/Fuzzy-sets | 0 | 0| 
 | 20210501T23:58:37Z | A heavily edited version of Privoxy intended for fuzzing. | https://github.com/MegaManSec/privoxy-fuzz | 0 | 0| 
