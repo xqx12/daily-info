@@ -16,12 +16,15 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20210501T15:31:02Z | CVE-2020-14321 | Python script to exploit CVE-2020-14321 - Course enrolments allowed privilege escalation from teacher role into manager role to RCE. | https://github.com/lanzt/CVE-2020-14321 | 未查询到CVE信息| 
+| 20210501T14:20:29Z | CVE-2021-22192 | CVE-2021-22192 靶场： 未授权用户 RCE 漏洞 | https://github.com/lyy289065406/CVE-2021-22192 | An issue has been discovered in GitLab CE/EE affecting all versions starting from 13.2 allowing unauthorized authenticated users to execute arbitrary code on the server.| 
 | 20210501T05:19:53Z | CVE-2021-30128 | Null | https://github.com/LioTree/CVE-2021-30128-EXP | Apache OFBiz has unsafe deserialization prior to 17.12.07 version| 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210501T15:40:02Z | 99484C Worlds Code | https://github.com/Jython1415/penguin-Klee | 1 | 0| 
 
 
 # s2e on Github 推荐
@@ -32,16 +35,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210501T12:58:09Z | A Roblox admin script designed to put the user%s best interests into consideration, and make Roblox more interesting. | https://github.com/ex7ase/eden | 0 | 0| 
-| 20210501T12:57:17Z | Alpine Builder for pentest. Exploit lxd and docker group permission. | https://github.com/Seven-7Up/alpine-builderForPentest | 0 | 0| 
-| 20210501T12:53:12Z | Some practice exp | https://github.com/Drunkmars/Exploit.py | 2 | 1| 
-| 20210501T12:47:32Z | Bukkit/BungeeCord plugin that aims on fixing Exploits in your Minecraft network. [Requires HamsterAPI to work] | https://github.com/2lstudios-mc/ExploitFixer | 86 | 24| 
-| 20210501T12:35:13Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9355 | 1510| 
-| 20210501T12:19:10Z | More Stable Offline Exploit version of PS4 6.72 Jailbreak. | https://github.com/DarkModderVC/PS4JB | 142 | 53| 
-| 20210501T12:02:48Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 22 | 9| 
-| 20210501T11:53:38Z | Kernel Mode Driver um Exploits zu testen | https://github.com/jtrac3er/KernelControl | 0 | 0| 
-| 20210501T11:48:54Z | Hybrid-Scale Self-Similarity Exploitation for Remote Sensing Image Super-Resolution | https://github.com/Shaosifan/HSENet | 1 | 0| 
-| 20210501T11:48:37Z | -------> RAFEL<------  Android Rat  Written in Java With WebPanel For Controlling Victims...Hack Android Devices | https://github.com/swagkarna/Rafel-Rat | 91 | 53| 
+| 20210501T23:58:52Z | Unpack the full potential of your PlayStation 4. | https://github.com/ps4h3x/ps4h3x.xyz | 2 | 0| 
+| 20210501T23:34:07Z | A general purpose memory allocator that implements an isolation security strategy to mitigate memory safety issues while maintaining good performance | https://github.com/struct/isoalloc | 150 | 10| 
+| 20210501T23:28:57Z | The hacking challenges I%ve solved | https://github.com/andrewbae/playground | 1 | 1| 
+| 20210501T23:15:05Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9358 | 1511| 
+| 20210501T23:05:24Z | This is a plugin for Minecraft that aids in building, as it gives the player creative mode and charges them for each block they place. All exploits are patched as well. | https://github.com/bsalha1/Printer | 2 | 4| 
+| 20210501T23:02:38Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 22 | 9| 
+| 20210501T22:16:22Z | PS1 savegame exploit | https://github.com/socram8888/tonyhax | 267 | 7| 
+| 20210501T22:10:37Z | Docker group permission escalation Automated, usually for pentesting. | https://github.com/Seven-7Up/docker-exploitAutomation | 0 | 0| 
+| 20210501T22:08:10Z | Automate lxd exploit for linux. | https://github.com/Seven-7Up/lxd-exploitAutomation | 0 | 0| 
+| 20210501T21:27:21Z | Code for the paper %Improved Cooperation by Exploiting a Common Signal% (https://arxiv.org/abs/2102.02304). | https://github.com/panayiotisd/Improved-Cooperation-by-Exploiting-a-Common-Signal | 0 | 0| 
 
 
 # backdoor on Github 推荐
@@ -57,16 +60,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210501T12:43:33Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 142 | 10| 
-| 20210501T12:36:20Z | very advanced (web) fuzzer | https://github.com/d4rckh/vaf | 30 | 3| 
-| 20210501T12:34:17Z | Null | https://github.com/StanislavShchukin/fuzzy-octo-memory | 0 | 0| 
-| 20210501T12:17:15Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 3 | 4| 
-| 20210501T12:12:12Z | Winnie is an end-to-end system that makes fuzzing Windows applications easy | https://github.com/sslab-gatech/winnie | 79 | 4| 
-| 20210501T12:10:17Z | Null | https://github.com/RMadaan/Adaptive-Neuro-Fuzzy-Inference-System_Malaria-Detection | 1 | 0| 
-| 20210501T11:34:08Z | Null | https://github.com/JoDeMiro/FuzzyLogic | 0 | 0| 
-| 20210501T11:30:46Z | A fuzzer for hardware network protocols. | https://github.com/AshwAthi8/R0fuzz | 0 | 1| 
-| 20210501T11:22:41Z | Null | https://github.com/crgz/fuzzy-parser | 0 | 0| 
-| 20210501T11:18:32Z | The C4 Concurrent C Fuzzer | https://github.com/c4-project/c4f | 7 | 1| 
+| 20210501T23:58:37Z | A heavily edited version of Privoxy intended for fuzzing. | https://github.com/MegaManSec/privoxy-fuzz | 0 | 0| 
+| 20210501T23:49:51Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 168 | 13| 
+| 20210501T23:32:44Z | Winnie is an end-to-end system that makes fuzzing Windows applications easy | https://github.com/sslab-gatech/winnie | 125 | 10| 
+| 20210501T22:19:34Z | CS 4152 Project | https://github.com/nicbarone/Fuzzy-Kiwi | 0 | 0| 
+| 20210501T22:06:02Z | https://github.com/wcventure/FuzzingPaper | https://github.com/mishmashclone/wcventure-FuzzingPaper | 6 | 1| 
+| 20210501T22:05:07Z | Null | https://github.com/jyu6-6/fuzzy-grouping | 0 | 0| 
+| 20210501T21:59:18Z | Emulation based snapshot fuzzer | https://github.com/joelengelcrona/gingersnap | 0 | 0| 
+| 20210501T21:32:07Z | Null | https://github.com/VeriBlock/fuzz-corpus | 0 | 1| 
+| 20210501T20:29:33Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 31283 | 16024| 
+| 20210501T20:03:30Z | Null | https://github.com/gdepuydt/fuzzoz | 0 | 0| 
 
 
 
