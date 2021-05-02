@@ -40,6 +40,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210502T12:35:12Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9361 | 1513| 
 | 20210502T12:31:45Z | Kernel Mode Driver um Exploits zu testen | https://github.com/jtrac3er/KernelControl | 0 | 0| 
 | 20210502T12:22:35Z | Null | https://github.com/th3ken-dev/TH3KEN-EDITON | 2 | 0| 
 | 20210502T12:18:05Z | This bash script will help you to hack remote hosts  | https://github.com/FabioDefilippo/linuxallremote | 11 | 3| 
@@ -49,7 +50,6 @@
 | 20210502T10:04:07Z | Mario Kart 7 semi-primary exploit for the Nintendo 3DS. | https://github.com/mariohackandglitch/kartdlphax | 19 | 0| 
 | 20210502T09:24:22Z | Roblox exploit DLL base using the LBI execution method | https://github.com/deaddlocust/LBI-Base | 0 | 1| 
 | 20210502T08:51:26Z | GitLab Arbitrary File Read Exploit | https://github.com/nickvdyck/gitlab-cve-2020-10977 | 0 | 0| 
-| 20210502T08:32:30Z | -------> RAFEL<------  Android Rat  Written in Java With WebPanel For Controlling Victims...Hack Android Devices | https://github.com/swagkarna/Rafel-Rat | 93 | 54| 
 
 
 # backdoor on Github 推荐
