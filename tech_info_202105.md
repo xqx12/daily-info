@@ -35,7 +35,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210502T00:34:24Z | PS1 savegame exploit | https://github.com/socram8888/tonyhax | 267 | 7| 
+| 20210502T00:45:58Z | PS1 savegame exploit | https://github.com/socram8888/tonyhax | 267 | 7| 
 | 20210502T00:06:37Z | Unpack the full potential of your PlayStation 4. | https://github.com/ps4h3x/ps4h3x.xyz | 2 | 0| 
 | 20210502T00:02:40Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 22 | 9| 
 | 20210501T23:34:07Z | A general purpose memory allocator that implements an isolation security strategy to mitigate memory safety issues while maintaining good performance | https://github.com/struct/isoalloc | 150 | 10| 
