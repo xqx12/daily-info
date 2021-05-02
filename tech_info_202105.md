@@ -66,16 +66,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210502T01:46:35Z | This repository is for testing a number of open source applications for vulnerabilities using multiple fuzzers. | https://github.com/bartholomewHarris/fuzzingNode.jsApplications | 1 | 2| 
+| 20210502T01:52:54Z | This repository is for testing a number of open source applications for vulnerabilities using multiple fuzzers. | https://github.com/bartholomewHarris/fuzzingNode.jsApplications | 1 | 2| 
+| 20210502T01:50:17Z | Winnie is an end-to-end system that makes fuzzing Windows applications easy | https://github.com/sslab-gatech/winnie | 128 | 10| 
+| 20210502T01:47:43Z | Fuzzy_Howework_Multi-dimensional_lists | https://github.com/taleb-hub/Fuzzy_Howework_Multi-dimensional_lists | 0 | 0| 
 | 20210502T01:42:56Z | Ev description  | https://github.com/muz4151/fuzzy-succotash | 0 | 0| 
-| 20210502T01:41:28Z | Winnie is an end-to-end system that makes fuzzing Windows applications easy | https://github.com/sslab-gatech/winnie | 127 | 10| 
 | 20210502T01:35:11Z | Multiplication and Division in Multi-dimensional lists | https://github.com/taleb-hub/Fuzzy_Howework_Multi-dimensional-lists | 0 | 0| 
 | 20210502T01:10:34Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 171 | 13| 
-| 20210502T00:40:55Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 31284 | 16024| 
+| 20210502T00:40:55Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 31284 | 16025| 
 | 20210502T00:05:29Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 3 | 4| 
 | 20210502T00:00:18Z | Null | https://github.com/DashaFah/Fuzzy-sets | 0 | 0| 
 | 20210501T23:58:37Z | A heavily edited version of Privoxy intended for fuzzing. | https://github.com/MegaManSec/privoxy-fuzz | 0 | 0| 
-| 20210501T22:19:34Z | CS 4152 Project | https://github.com/nicbarone/Fuzzy-Kiwi | 0 | 0| 
 
 
 
