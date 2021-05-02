@@ -16,8 +16,8 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20210501T15:31:02Z | CVE-2020-14321 | Python script to exploit CVE-2020-14321 - Course enrolments allowed privilege escalation from teacher role into manager role to RCE. | https://github.com/lanzt/CVE-2020-14321 | | 
-| 20210501T14:20:29Z | CVE-2021-22192 | CVE-2021-22192 靶场： 未授权用户 RCE 漏洞 | https://github.com/lyy289065406/CVE-2021-22192 | An issue has been discovered in GitLab CE/EE affecting all versions starting from 13.2 allowing unauthorized authenticated users to execute arbitrary code on the server.| 
+| 20210501T15:31:02Z | CVE-2020-14321 | Python script to exploit CVE-2020-14321 - Course enrolments allowed privilege escalation from teacher role into manager role to RCE. | https://github.com/lanzt/CVE-2020-14321 | 未查询到CVE信息| 
+| 20210501T14:20:29Z | CVE-2021-22192 | CVE-2021-22192 靶场： 未授权用户 RCE 漏洞 | https://github.com/lyy289065406/CVE-2021-22192 | | 
 | 20210501T05:19:53Z | CVE-2021-30128 | Null | https://github.com/LioTree/CVE-2021-30128-EXP | Apache OFBiz has unsafe deserialization prior to 17.12.07 version| 
 
 
@@ -65,6 +65,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210502T00:05:10Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 3 | 4| 
 | 20210502T00:00:18Z | Null | https://github.com/DashaFah/Fuzzy-sets | 0 | 0| 
 | 20210501T23:58:37Z | A heavily edited version of Privoxy intended for fuzzing. | https://github.com/MegaManSec/privoxy-fuzz | 0 | 0| 
 | 20210501T23:49:51Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 168 | 13| 
@@ -74,7 +75,6 @@
 | 20210501T22:05:07Z | Null | https://github.com/jyu6-6/fuzzy-grouping | 0 | 0| 
 | 20210501T21:59:18Z | Emulation based snapshot fuzzer | https://github.com/joelengelcrona/gingersnap | 0 | 0| 
 | 20210501T21:32:07Z | Null | https://github.com/VeriBlock/fuzz-corpus | 0 | 1| 
-| 20210501T20:29:33Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 31283 | 16024| 
 
 
 
