@@ -37,7 +37,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210502T12:09:28Z | Search for Unix binaries that can be exploited to bypass system security restrictions. | https://github.com/t0thkr1s/gtfo | 74 | 14| 
+| 20210502T12:12:48Z | Search for Unix binaries that can be exploited to bypass system security restrictions. | https://github.com/t0thkr1s/gtfo | 74 | 14| 
 | 20210502T12:02:36Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 22 | 9| 
 | 20210502T11:06:12Z | bespoke tooling for offensive security%s Windows Usermode Exploit Dev course (OSED) | https://github.com/epi052/osed-scripts | 26 | 10| 
 | 20210502T10:04:07Z | Mario Kart 7 semi-primary exploit for the Nintendo 3DS. | https://github.com/mariohackandglitch/kartdlphax | 19 | 0| 
@@ -67,7 +67,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210502T12:02:33Z | Null | https://github.com/s9varesc/url-fuzzing | 1 | 1| 
+| 20210502T12:07:26Z | Null | https://github.com/s9varesc/url-fuzzing | 1 | 1| 
 | 20210502T11:22:59Z | a simple  code that detects attempted fuzzing to port 22, by reading from computer logs (only on linux) | https://github.com/eloblo/ssh_fuzz_detector | 0 | 0| 
 | 20210502T10:40:59Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 3493 | 808| 
 | 20210502T10:20:55Z | A curated list of different AFL forks and AFL inspired fuzzers with detailed equivalent academic papers and AFL-fuzzing tutorials | https://github.com/Microsvuln/Awesome-AFL | 392 | 48| 
