@@ -71,10 +71,10 @@
 | 20210501T22:05:07Z | Null | https://github.com/jyu6-6/fuzzy-grouping | 0 | 0| 
 | 20210501T21:59:18Z | Emulation based snapshot fuzzer | https://github.com/joelengelcrona/gingersnap | 0 | 0| 
 | 20210501T21:32:07Z | Null | https://github.com/VeriBlock/fuzz-corpus | 0 | 1| 
-| 20210501T20:29:33Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 31283 | 16025| 
 | 20210501T20:03:30Z | Null | https://github.com/gdepuydt/fuzzoz | 0 | 0| 
 | 20210501T19:30:15Z | A differential fuzzer for x86 decoders | https://github.com/trailofbits/mishegos | 147 | 22| 
 | 20210501T19:26:56Z | Ethereum smart contract fuzzer | https://github.com/crytic/echidna | 605 | 95| 
+| 20210501T19:24:08Z | Cyber ​​Lab - Protection | https://github.com/Nadavkeysar/Fuzzing | 0 | 0| 
 
 
 
