@@ -53,12 +53,12 @@
 | 20210502T23:52:02Z | Fix exploits on anarchy minecraft servers | https://github.com/moom0o/AnarchyExploitFixes | 32 | 7| 
 | 20210502T23:31:45Z | Null | https://github.com/andrewjing404/sorryMicrosoftForExploitingYourResources | 0 | 0| 
 | 20210502T23:21:18Z | A general purpose memory allocator that implements an isolation security strategy to mitigate memory safety issues while maintaining good performance | https://github.com/struct/isoalloc | 151 | 10| 
-| 20210502T23:02:40Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 22 | 9| 
 | 20210502T22:53:44Z | Completed a working exploit for CVE-2018-17463 for fun. | https://github.com/kdmarti2/CVE-2018-17463 | 0 | 0| 
 | 20210502T21:45:26Z | PS1 savegame exploit | https://github.com/socram8888/tonyhax | 267 | 7| 
 | 20210502T21:35:10Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9362 | 1513| 
 | 20210502T21:23:10Z | Exploit Flickr or any other image hosting service to serve static pages | https://github.com/gogorikidze/leechserve | 0 | 0| 
 | 20210502T21:21:36Z | A form input sanitization and possible exploitation attempts logging schema for flask apps | https://github.com/t3l3machus/flask-input-sanitization-and-logging | 0 | 0| 
+| 20210502T21:07:51Z | post exploitation tool for suggesting local kernel exploits | https://github.com/pbkangafoo/rootme | 0 | 0| 
 
 
 # backdoor on Github 推荐
