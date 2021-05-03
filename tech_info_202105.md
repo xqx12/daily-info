@@ -28,7 +28,7 @@
 | --- | --- | --- | --- | ---| 
 | 20210502T15:22:19Z | CVE-2020-27955 | Null | https://github.com/DeeLMind/CVE-2020-27955-LFS | Git LFS 2.12.0 allows Remote Code Execution.| 
 | 20210502T08:51:26Z | cve-2020-10977 | GitLab Arbitrary File Read Exploit | https://github.com/nickvdyck/gitlab-cve-2020-10977 | GitLab EE/CE 8.5 to 12.9 is vulnerable to a an path traversal when moving an issue between projects.| 
-| 20210502T05:34:31Z | CVE-2021-22192 | CVE-2021-22192 靶场： 未授权用户 RCE 漏洞 | https://github.com/lyy289065406/CVE-2021-22192 | An issue has been discovered in GitLab CE/EE affecting all versions starting from 13.2 allowing unauthorized authenticated users to execute arbitrary code on the server.| 
+| 20210502T05:34:31Z | CVE-2021-22192 | CVE-2021-22192 靶场： 未授权用户 RCE 漏洞 | https://github.com/lyy289065406/CVE-2021-22192 | | 
 | 20210502T04:01:38Z | CVE-2020-23342 | Null | https://github.com/DXY0411/CVE-2020-23342 | A CSRF vulnerability exists in Anchor CMS 0.12.7 anchor/views/users/edit.php that can change the Delete admin users.| 
 | 20210502T01:58:40Z | CVE-2021-3493 | Null | https://github.com/Abdennour-py/CVE-2021-3493 | The overlayfs implementation in the linux kernel did not properly validate with respect to user namespaces the setting of file capabilities on files in an underlying file system. Due to the combination of unprivileged user namespaces along with a patch carried in the Ubuntu kernel to allow unprivileged overlay mounts, an attacker could use this to gain elevated privileges.| 
 | 20210501T15:31:02Z | CVE-2020-14321 | Python script to exploit CVE-2020-14321 - Course enrolments allowed privilege escalation from teacher role into manager role to RCE. | https://github.com/lanzt/CVE-2020-14321 | 未查询到CVE信息| 
@@ -52,15 +52,15 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210503T01:33:46Z | Collection of exploits, mainly to see where I%m at. | https://github.com/Crystalware/HEVD-Exploits | 0 | 0| 
+| 20210503T01:35:43Z | Fix exploits on anarchy minecraft servers | https://github.com/moom0o/AnarchyExploitFixes | 33 | 7| 
+| 20210503T01:35:37Z | Collection of exploits, mainly to see where I%m at. | https://github.com/Crystalware/HEVD-Exploits | 0 | 0| 
+| 20210503T01:35:12Z | MNIST dataset exploitation without using the pictures themselves | https://github.com/td-us/MNIST-dataset | 0 | 0| 
 | 20210503T01:30:40Z | Null | https://github.com/andrewjing404/sorryMicrosoftForExploitingYourResources | 0 | 0| 
-| 20210503T01:26:16Z | MNIST dataset exploitation without using the pictures themselves | https://github.com/td-us/MNIST-dataset | 0 | 0| 
 | 20210503T01:02:36Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 22 | 9| 
 | 20210503T00:31:57Z | exploits | https://github.com/itsixvy/gfn | 0 | 0| 
 | 20210503T00:07:30Z | I got showed this trick by some random cunt on Discord that was in my group. I forgot his name. Shoutout to you though | https://github.com/anwir-prota/Discord-Embed-Trick | 0 | 0| 
 | 20210503T00:07:07Z | No credit needed! | https://github.com/Roblotastical/Exploit-Template | 0 | 0| 
 | 20210502T23:54:57Z | OWASP Top 10 Web Application vulnerabilities using C# and .Net core framework | https://github.com/Sytechia/Exploit_me | 1 | 0| 
-| 20210502T23:52:02Z | Fix exploits on anarchy minecraft servers | https://github.com/moom0o/AnarchyExploitFixes | 32 | 7| 
 | 20210502T23:21:18Z | A general purpose memory allocator that implements an isolation security strategy to mitigate memory safety issues while maintaining good performance | https://github.com/struct/isoalloc | 151 | 10| 
 
 
