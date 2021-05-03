@@ -26,7 +26,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20210502T15:22:19Z | CVE-2020-27955 | Null | https://github.com/DeeLMind/CVE-2020-27955-LFS | Git LFS 2.12.0 allows Remote Code Execution.| 
+| 20210502T15:22:19Z | CVE-2020-27955 | Null | https://github.com/DeeLMind/CVE-2020-27955-LFS | | 
 | 20210502T08:51:26Z | cve-2020-10977 | GitLab Arbitrary File Read Exploit | https://github.com/nickvdyck/gitlab-cve-2020-10977 | GitLab EE/CE 8.5 to 12.9 is vulnerable to a an path traversal when moving an issue between projects.| 
 | 20210502T05:34:31Z | CVE-2021-22192 | CVE-2021-22192 靶场： 未授权用户 RCE 漏洞 | https://github.com/lyy289065406/CVE-2021-22192 | An issue has been discovered in GitLab CE/EE affecting all versions starting from 13.2 allowing unauthorized authenticated users to execute arbitrary code on the server.| 
 | 20210502T04:01:38Z | CVE-2020-23342 | Null | https://github.com/DXY0411/CVE-2020-23342 | A CSRF vulnerability exists in Anchor CMS 0.12.7 anchor/views/users/edit.php that can change the Delete admin users.| 
@@ -67,7 +67,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210503T00:09:33Z | Small and convenient C2 tool for Windows targets | https://github.com/Cr4sh/MicroBackdoor | 90 | 16| 
+| 20210503T00:11:39Z | Small and convenient C2 tool for Windows targets | https://github.com/Cr4sh/MicroBackdoor | 91 | 16| 
 | 20210502T23:44:37Z | A demo and explanation of how a trojan backdoor attack can be performed on the classic MNIST experiment | https://github.com/adit-bala/Introduction-to-Trojans-in-AI | 0 | 0| 
 | 20210502T21:58:53Z | Null | https://github.com/connorbuck/backdoor-dispensary-website | 0 | 0| 
 | 20210502T21:18:00Z | C# backdoor client | https://github.com/Theo-Morin/Backdoor-CLIENT | 0 | 0| 
