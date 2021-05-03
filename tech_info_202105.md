@@ -57,7 +57,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210503T12:11:05Z | Some Binary Exploitation CTF writeups | https://github.com/ElliyahuRosha/Binary-Exploitation-writeups | 1 | 0| 
+| 20210503T12:12:49Z | Some Binary Exploitation CTF writeups | https://github.com/ElliyahuRosha/Binary-Exploitation-writeups | 1 | 0| 
 | 20210503T12:02:39Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 22 | 9| 
 | 20210503T11:51:05Z | X Attacker Tool ☣ Website Vulnerability Scanner & Auto Exploiter | https://github.com/Moham3dRiahi/XAttacker | 928 | 413| 
 | 20210503T11:15:48Z | Null | https://github.com/Username132131231/Exploits-and-dlls | 0 | 0| 
@@ -87,6 +87,8 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210503T12:10:58Z | Null | https://github.com/Suyun514/fuzzy-clipboard | 0 | 0| 
+| 20210503T12:10:57Z | Fake News Detection, Repository. | https://github.com/hrs2203/fuzzy-pancake | 0 | 0| 
 | 20210503T12:03:29Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 272 | 20| 
 | 20210503T12:03:08Z | Fuzzing test lab | https://github.com/zodf0055980/NYCU-Software-Testing-2021-Lab8 | 3 | 0| 
 | 20210503T11:56:25Z | xFuzz | https://github.com/ToolmanInside/xFuzz | 0 | 0| 
@@ -95,8 +97,6 @@
 | 20210503T09:53:45Z | Null | https://github.com/loucol1/project_fuzzer | 0 | 0| 
 | 20210503T09:32:23Z | Null | https://github.com/VeriBlock/fuzz-corpus | 0 | 1| 
 | 20210503T09:29:42Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 1680 | 332| 
-| 20210503T09:27:04Z | american fuzzy lop - a security-oriented fuzzer | https://github.com/google/AFL | 1893 | 312| 
-| 20210503T08:58:05Z | Fuzzing powered by grammar coverage | https://github.com/havrikov/tribble | 0 | 0| 
 
 
 
