@@ -40,7 +40,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210503T12:08:40Z | Some Binary Exploitation CTF writeups | https://github.com/ElliyahuRosha/Binary-Exploitation-writeups | 1 | 0| 
+| 20210503T12:11:05Z | Some Binary Exploitation CTF writeups | https://github.com/ElliyahuRosha/Binary-Exploitation-writeups | 1 | 0| 
 | 20210503T12:02:39Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 22 | 9| 
 | 20210503T11:51:05Z | X Attacker Tool ☣ Website Vulnerability Scanner & Auto Exploiter | https://github.com/Moham3dRiahi/XAttacker | 928 | 413| 
 | 20210503T11:15:48Z | Null | https://github.com/Username132131231/Exploits-and-dlls | 0 | 0| 
