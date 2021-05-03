@@ -34,8 +34,8 @@
 | 20210502T15:22:19Z | CVE-2020-27955 | Null | https://github.com/DeeLMind/CVE-2020-27955-LFS | 未查询到CVE信息| 
 | 20210502T08:51:26Z | cve-2020-10977 | GitLab Arbitrary File Read Exploit | https://github.com/nickvdyck/gitlab-cve-2020-10977 | 未查询到CVE信息| 
 | 20210502T05:34:31Z | CVE-2021-22192 | CVE-2021-22192 靶场： 未授权用户 RCE 漏洞 | https://github.com/lyy289065406/CVE-2021-22192 | 未查询到CVE信息| 
-| 20210502T04:01:38Z | CVE-2020-23342 | Null | https://github.com/DXY0411/CVE-2020-23342 | | 
-| 20210502T01:58:40Z | CVE-2021-3493 | Null | https://github.com/Abdennour-py/CVE-2021-3493 | 未查询到CVE信息| 
+| 20210502T04:01:38Z | CVE-2020-23342 | Null | https://github.com/DXY0411/CVE-2020-23342 | 未查询到CVE信息| 
+| 20210502T01:58:40Z | CVE-2021-3493 | Null | https://github.com/Abdennour-py/CVE-2021-3493 | | 
 
 
 # klee on Github 推荐
@@ -57,6 +57,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210503T12:45:51Z | A simple bash script that use a fake image.jpg to exploit targets | https://github.com/krishpranav/image-exploiter | 0 | 0| 
+| 20210503T12:42:18Z | PS4 Exploits 5.05-7.55 | https://github.com/Buzbee/Buzbee.github.io | 2 | 0| 
 | 20210503T12:40:53Z | Some Binary Exploitation CTF writeups | https://github.com/ElliyahuRosha/Binary-Exploitation-writeups | 1 | 0| 
 | 20210503T12:35:42Z | Exploit for RakNet | https://github.com/DevClancy/raknet_fucker | 1 | 0| 
 | 20210503T12:35:14Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9365 | 1513| 
@@ -65,8 +67,6 @@
 | 20210503T11:51:05Z | X Attacker Tool ☣ Website Vulnerability Scanner & Auto Exploiter | https://github.com/Moham3dRiahi/XAttacker | 928 | 413| 
 | 20210503T11:15:48Z | Null | https://github.com/Username132131231/Exploits-and-dlls | 0 | 0| 
 | 20210503T11:08:26Z | Collect data from home directory  | https://github.com/milanm98/Home-data-exploit | 0 | 0| 
-| 20210503T11:04:47Z | A cheat sheet that contains common enumeration and attack methods for Windows Active Directory. | https://github.com/S1ckB0y1337/Active-Directory-Exploitation-Cheat-Sheet | 1559 | 391| 
-| 20210503T11:00:47Z | Discord Nitro Code Generator and Checker. Generates Classic and Boost Nitro Codes. Using HTTPS Proxy (Autoscraper) | https://github.com/heatxyz/DiscordExploit | 0 | 0| 
 
 
 # backdoor on Github 推荐
@@ -87,16 +87,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210503T12:35:59Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 273 | 20| 
+| 20210503T12:35:49Z | The fastest Intel-PT decoder for fuzzing | https://github.com/nyx-fuzz/libxdc | 196 | 26| 
 | 20210503T12:32:17Z | Null | https://github.com/VeriBlock/fuzz-corpus | 0 | 1| 
 | 20210503T12:31:16Z | Fuzzing test lab | https://github.com/zodf0055980/NYCU-Software-Testing-2021-Lab8 | 5 | 0| 
 | 20210503T12:23:58Z | xFuzz | https://github.com/ToolmanInside/xFuzz | 0 | 0| 
 | 20210503T12:17:59Z | Null | https://github.com/Suyun514/fuzzy-clipboard | 0 | 0| 
 | 20210503T12:15:21Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 4 | 4| 
 | 20210503T12:10:57Z | Fake News Detection, Repository. | https://github.com/hrs2203/fuzzy-pancake | 0 | 0| 
-| 20210503T12:03:29Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 272 | 20| 
 | 20210503T11:44:48Z | Null | https://github.com/eavarlamova/fuzzy-transport-problem | 0 | 0| 
 | 20210503T11:28:07Z | To make fuzzing Rust easy | https://github.com/trailofbits/test-fuzz | 1 | 1| 
-| 20210503T09:53:45Z | Null | https://github.com/loucol1/project_fuzzer | 0 | 0| 
 
 
 
