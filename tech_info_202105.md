@@ -52,7 +52,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210503T01:27:14Z | Null | https://github.com/andrewjing404/sorryMicrosoftForExploitingYourResources | 0 | 0| 
+| 20210503T01:30:40Z | Null | https://github.com/andrewjing404/sorryMicrosoftForExploitingYourResources | 0 | 0| 
 | 20210503T01:26:16Z | MNIST dataset exploitation without using the pictures themselves | https://github.com/td-us/MNIST-dataset | 0 | 0| 
 | 20210503T01:02:36Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 22 | 9| 
 | 20210503T00:31:57Z | exploits | https://github.com/itsixvy/gfn | 0 | 0| 
