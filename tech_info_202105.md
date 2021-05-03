@@ -33,7 +33,7 @@
 | 20210503T03:52:36Z | CVE-2020-14295 | Authenticated SQL injection to command execution on Cacti 1.2.12  | https://github.com/0z09e/CVE-2020-14295 | A SQL injection issue in color.php in Cacti 1.2.12 allows an admin to inject SQL via the filter parameter. This can lead to remote command execution because the product accepts stacked queries.| 
 | 20210502T15:22:19Z | CVE-2020-27955 | Null | https://github.com/DeeLMind/CVE-2020-27955-LFS | Git LFS 2.12.0 allows Remote Code Execution.| 
 | 20210502T08:51:26Z | cve-2020-10977 | GitLab Arbitrary File Read Exploit | https://github.com/nickvdyck/gitlab-cve-2020-10977 | GitLab EE/CE 8.5 to 12.9 is vulnerable to a an path traversal when moving an issue between projects.| 
-| 20210502T05:34:31Z | CVE-2021-22192 | CVE-2021-22192 靶场： 未授权用户 RCE 漏洞 | https://github.com/lyy289065406/CVE-2021-22192 | | 
+| 20210502T05:34:31Z | CVE-2021-22192 | CVE-2021-22192 靶场： 未授权用户 RCE 漏洞 | https://github.com/lyy289065406/CVE-2021-22192 | An issue has been discovered in GitLab CE/EE affecting all versions starting from 13.2 allowing unauthorized authenticated users to execute arbitrary code on the server.| 
 | 20210502T04:01:38Z | CVE-2020-23342 | Null | https://github.com/DXY0411/CVE-2020-23342 | A CSRF vulnerability exists in Anchor CMS 0.12.7 anchor/views/users/edit.php that can change the Delete admin users.| 
 | 20210502T01:58:40Z | CVE-2021-3493 | Null | https://github.com/Abdennour-py/CVE-2021-3493 | The overlayfs implementation in the linux kernel did not properly validate with respect to user namespaces the setting of file capabilities on files in an underlying file system. Due to the combination of unprivileged user namespaces along with a patch carried in the Ubuntu kernel to allow unprivileged overlay mounts, an attacker could use this to gain elevated privileges.| 
 
@@ -87,7 +87,8 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210503T12:35:59Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 273 | 20| 
+| 20210503T12:54:46Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 1681 | 332| 
+| 20210503T12:46:27Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 274 | 20| 
 | 20210503T12:35:49Z | The fastest Intel-PT decoder for fuzzing | https://github.com/nyx-fuzz/libxdc | 196 | 26| 
 | 20210503T12:32:17Z | Null | https://github.com/VeriBlock/fuzz-corpus | 0 | 1| 
 | 20210503T12:31:16Z | Fuzzing test lab | https://github.com/zodf0055980/NYCU-Software-Testing-2021-Lab8 | 5 | 0| 
@@ -96,7 +97,6 @@
 | 20210503T12:15:21Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 4 | 4| 
 | 20210503T12:10:57Z | Fake News Detection, Repository. | https://github.com/hrs2203/fuzzy-pancake | 0 | 0| 
 | 20210503T11:44:48Z | Null | https://github.com/eavarlamova/fuzzy-transport-problem | 0 | 0| 
-| 20210503T11:28:07Z | To make fuzzing Rust easy | https://github.com/trailofbits/test-fuzz | 1 | 1| 
 
 
 

@@ -70,7 +70,8 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210503T12:35:59Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 273 | 20| 
+| 20210503T12:54:46Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 1681 | 332| 
+| 20210503T12:46:27Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 274 | 20| 
 | 20210503T12:35:49Z | The fastest Intel-PT decoder for fuzzing | https://github.com/nyx-fuzz/libxdc | 196 | 26| 
 | 20210503T12:32:17Z | Null | https://github.com/VeriBlock/fuzz-corpus | 0 | 1| 
 | 20210503T12:31:16Z | Fuzzing test lab | https://github.com/zodf0055980/NYCU-Software-Testing-2021-Lab8 | 5 | 0| 
@@ -79,7 +80,6 @@
 | 20210503T12:15:21Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 4 | 4| 
 | 20210503T12:10:57Z | Fake News Detection, Repository. | https://github.com/hrs2203/fuzzy-pancake | 0 | 0| 
 | 20210503T11:44:48Z | Null | https://github.com/eavarlamova/fuzzy-transport-problem | 0 | 0| 
-| 20210503T11:28:07Z | To make fuzzing Rust easy | https://github.com/trailofbits/test-fuzz | 1 | 1| 
 
 
 
