@@ -52,7 +52,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210503T00:25:27Z | exploits | https://github.com/itsixvy/gfn | 0 | 0| 
+| 20210503T00:27:16Z | exploits | https://github.com/itsixvy/gfn | 0 | 0| 
 | 20210503T00:07:30Z | I got showed this trick by some random cunt on Discord that was in my group. I forgot his name. Shoutout to you though | https://github.com/anwir-prota/Discord-Embed-Trick | 0 | 0| 
 | 20210503T00:07:07Z | No credit needed! | https://github.com/Roblotastical/Exploit-Template | 0 | 0| 
 | 20210503T00:02:37Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 22 | 9| 
