@@ -82,8 +82,9 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210503T00:15:22Z | Winnie is an end-to-end system that makes fuzzing Windows applications easy | https://github.com/sslab-gatech/winnie | 154 | 12| 
-| 20210503T00:11:14Z | Null | https://github.com/paul-gomes/Neuro-Fuzzy-System | 0 | 0| 
+| 20210503T00:52:00Z | Winnie is an end-to-end system that makes fuzzing Windows applications easy | https://github.com/sslab-gatech/winnie | 155 | 12| 
+| 20210503T00:48:15Z | Scalable fuzzing infrastructure. | https://github.com/google/clusterfuzz | 4489 | 436| 
+| 20210503T00:22:32Z | Null | https://github.com/paul-gomes/Neuro-Fuzzy-System | 0 | 0| 
 | 20210503T00:08:09Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 4 | 4| 
 | 20210503T00:00:13Z | FormatFuzzer is a framework for high-efficiency, high-quality generation and parsing of binary inputs. | https://github.com/uds-se/FormatFuzzer | 121 | 13| 
 | 20210502T23:32:07Z | Null | https://github.com/VeriBlock/fuzz-corpus | 0 | 1| 
@@ -91,7 +92,6 @@
 | 20210502T22:56:05Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6241 | 1262| 
 | 20210502T22:17:43Z | Software for fuzzing, used on web application pentestings. | https://github.com/NESCAU-UFLA/FuzzingTool | 66 | 15| 
 | 20210502T22:04:30Z | Ethereum smart contract fuzzer | https://github.com/crytic/echidna | 608 | 95| 
-| 20210502T20:55:03Z | Null | https://github.com/igorsodre/fuzzy-trader | 0 | 0| 
 
 
 
