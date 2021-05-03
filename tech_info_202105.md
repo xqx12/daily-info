@@ -29,7 +29,7 @@
 | 20210503T06:59:41Z | CVE-2020-14321 | Python script to exploit CVE-2020-14321 - Course enrolments allowed privilege escalation from teacher role into manager role to RCE. | https://github.com/lanzt/CVE-2020-14321 | 未查询到CVE信息| 
 | 20210503T06:10:28Z | CVE-2021-27552 | Steps for Exploitation  | https://github.com/sapkota2k20/CVE-2021-27552 | 未查询到CVE信息| 
 | 20210503T06:08:17Z | CVE-2021-27553 | Null | https://github.com/sapkota2k20/CVE-2021-27553 | 未查询到CVE信息| 
-| 20210503T06:06:46Z | CVE-2021-3493 | Null | https://github.com/AmIAHuman/OverlayFS-CVE-2021-3493 | The overlayfs implementation in the linux kernel did not properly validate with respect to user namespaces the setting of file capabilities on files in an underlying file system. Due to the combination of unprivileged user namespaces along with a patch carried in the Ubuntu kernel to allow unprivileged overlay mounts, an attacker could use this to gain elevated privileges.| 
+| 20210503T06:06:46Z | CVE-2021-3493 | Null | https://github.com/AmIAHuman/OverlayFS-CVE-2021-3493 | | 
 | 20210503T03:52:36Z | CVE-2020-14295 | Authenticated SQL injection to command execution on Cacti 1.2.12  | https://github.com/0z09e/CVE-2020-14295 | A SQL injection issue in color.php in Cacti 1.2.12 allows an admin to inject SQL via the filter parameter. This can lead to remote command execution because the product accepts stacked queries.| 
 | 20210502T15:22:19Z | CVE-2020-27955 | Null | https://github.com/DeeLMind/CVE-2020-27955-LFS | Git LFS 2.12.0 allows Remote Code Execution.| 
 | 20210502T08:51:26Z | cve-2020-10977 | GitLab Arbitrary File Read Exploit | https://github.com/nickvdyck/gitlab-cve-2020-10977 | GitLab EE/CE 8.5 to 12.9 is vulnerable to a an path traversal when moving an issue between projects.| 
@@ -57,8 +57,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210503T12:32:19Z | Some Binary Exploitation CTF writeups | https://github.com/ElliyahuRosha/Binary-Exploitation-writeups | 1 | 0| 
 | 20210503T12:29:30Z | In  this  github page  we  propose  an  extended  version  of  the  Susceptible-Exposed-Infected-Recovered-Susceptible (SEIRS) model considering the population space and age distribution. The model is defined by exploiting the AM-ESSN formalism. | https://github.com/qBioTurin/AM-ESSN | 0 | 0| 
-| 20210503T12:27:14Z | Some Binary Exploitation CTF writeups | https://github.com/ElliyahuRosha/Binary-Exploitation-writeups | 1 | 0| 
 | 20210503T12:02:39Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 22 | 9| 
 | 20210503T11:51:05Z | X Attacker Tool ☣ Website Vulnerability Scanner & Auto Exploiter | https://github.com/Moham3dRiahi/XAttacker | 928 | 413| 
 | 20210503T11:15:48Z | Null | https://github.com/Username132131231/Exploits-and-dlls | 0 | 0| 
@@ -87,16 +87,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210503T12:32:17Z | Null | https://github.com/VeriBlock/fuzz-corpus | 0 | 1| 
+| 20210503T12:31:16Z | Fuzzing test lab | https://github.com/zodf0055980/NYCU-Software-Testing-2021-Lab8 | 5 | 0| 
+| 20210503T12:23:58Z | xFuzz | https://github.com/ToolmanInside/xFuzz | 0 | 0| 
+| 20210503T12:17:59Z | Null | https://github.com/Suyun514/fuzzy-clipboard | 0 | 0| 
 | 20210503T12:15:21Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 4 | 4| 
-| 20210503T12:14:38Z | Fuzzing test lab | https://github.com/zodf0055980/NYCU-Software-Testing-2021-Lab8 | 4 | 0| 
-| 20210503T12:10:58Z | Null | https://github.com/Suyun514/fuzzy-clipboard | 0 | 0| 
 | 20210503T12:10:57Z | Fake News Detection, Repository. | https://github.com/hrs2203/fuzzy-pancake | 0 | 0| 
 | 20210503T12:03:29Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 272 | 20| 
-| 20210503T11:56:25Z | xFuzz | https://github.com/ToolmanInside/xFuzz | 0 | 0| 
 | 20210503T11:44:48Z | Null | https://github.com/eavarlamova/fuzzy-transport-problem | 0 | 0| 
 | 20210503T11:28:07Z | To make fuzzing Rust easy | https://github.com/trailofbits/test-fuzz | 1 | 1| 
 | 20210503T09:53:45Z | Null | https://github.com/loucol1/project_fuzzer | 0 | 0| 
-| 20210503T09:32:23Z | Null | https://github.com/VeriBlock/fuzz-corpus | 0 | 1| 
 
 
 
