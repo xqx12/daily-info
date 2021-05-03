@@ -65,7 +65,6 @@
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
 | 20210502T23:44:37Z | A demo and explanation of how a trojan backdoor attack can be performed on the classic MNIST experiment | https://github.com/adit-bala/Introduction-to-Trojans-in-AI | 0 | 0| 
-| 20210502T22:48:21Z | Small and convenient C2 tool for Windows targets | https://github.com/Cr4sh/MicroBackdoor | 89 | 16| 
 | 20210502T21:58:53Z | Null | https://github.com/connorbuck/backdoor-dispensary-website | 0 | 0| 
 | 20210502T21:18:00Z | C# backdoor client | https://github.com/Theo-Morin/Backdoor-CLIENT | 0 | 0| 
 | 20210502T21:17:42Z | Javascript & PHP backdoor manager | https://github.com/Theo-Morin/Backdoor-MANAGER | 0 | 0| 
@@ -74,6 +73,7 @@
 | 20210502T16:10:21Z | 🤖An Evil and Smart Bot for Enslaving Windows. | https://github.com/wildonion/katyusha | 3 | 1| 
 | 20210502T13:55:46Z | A token logger for discord + steals Brave/Chrome passwords and usernames | https://github.com/CUPZYY/Backdoor-Machine | 2 | 0| 
 | 20210502T12:56:36Z | Python based Reverse-Shell Backdoor Exploitation Framework with various features. | https://github.com/cyb3rm0nk3y/ReverseSploit | 0 | 0| 
+| 20210502T11:59:19Z | Pupy is an opensource, cross-platform (Windows, Linux, OSX, Android) remote administration and post-exploitation tool mainly written in python | https://github.com/n1nj4sec/pupy | 6301 | 1624| 
 
 
 # fuzz on Github 推荐

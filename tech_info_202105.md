@@ -67,8 +67,8 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210503T00:09:33Z | Small and convenient C2 tool for Windows targets | https://github.com/Cr4sh/MicroBackdoor | 90 | 16| 
 | 20210502T23:44:37Z | A demo and explanation of how a trojan backdoor attack can be performed on the classic MNIST experiment | https://github.com/adit-bala/Introduction-to-Trojans-in-AI | 0 | 0| 
-| 20210502T22:48:21Z | Small and convenient C2 tool for Windows targets | https://github.com/Cr4sh/MicroBackdoor | 89 | 16| 
 | 20210502T21:58:53Z | Null | https://github.com/connorbuck/backdoor-dispensary-website | 0 | 0| 
 | 20210502T21:18:00Z | C# backdoor client | https://github.com/Theo-Morin/Backdoor-CLIENT | 0 | 0| 
 | 20210502T21:17:42Z | Javascript & PHP backdoor manager | https://github.com/Theo-Morin/Backdoor-MANAGER | 0 | 0| 
@@ -82,6 +82,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210503T00:08:09Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 4 | 4| 
 | 20210503T00:00:13Z | FormatFuzzer is a framework for high-efficiency, high-quality generation and parsing of binary inputs. | https://github.com/uds-se/FormatFuzzer | 121 | 13| 
 | 20210502T23:57:23Z | Winnie is an end-to-end system that makes fuzzing Windows applications easy | https://github.com/sslab-gatech/winnie | 153 | 12| 
 | 20210502T23:32:07Z | Null | https://github.com/VeriBlock/fuzz-corpus | 0 | 1| 
@@ -91,7 +92,6 @@
 | 20210502T22:04:30Z | Ethereum smart contract fuzzer | https://github.com/crytic/echidna | 608 | 95| 
 | 20210502T20:55:03Z | Null | https://github.com/igorsodre/fuzzy-trader | 0 | 0| 
 | 20210502T20:21:02Z | Null | https://github.com/gdepuydt/fuzzoz | 0 | 0| 
-| 20210502T20:07:09Z | Null | https://github.com/yndxm/fuzzy-octo-spoon | 0 | 0| 
 
 
 
