@@ -40,6 +40,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210503T12:35:42Z | Exploit for RakNet | https://github.com/DevClancy/raknet_fucker | 1 | 0| 
+| 20210503T12:35:14Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9365 | 1513| 
 | 20210503T12:34:40Z | Some Binary Exploitation CTF writeups | https://github.com/ElliyahuRosha/Binary-Exploitation-writeups | 1 | 0| 
 | 20210503T12:32:58Z | In  this  github page  we  propose  an  extended  version  of  the  Susceptible-Exposed-Infected-Recovered-Susceptible (SEIRS) model considering the population space and age distribution. The model is defined by exploiting the AM-ESSN formalism. | https://github.com/qBioTurin/AM-ESSN | 0 | 0| 
 | 20210503T12:02:39Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 22 | 9| 
@@ -48,14 +50,12 @@
 | 20210503T11:08:26Z | Collect data from home directory  | https://github.com/milanm98/Home-data-exploit | 0 | 0| 
 | 20210503T11:04:47Z | A cheat sheet that contains common enumeration and attack methods for Windows Active Directory. | https://github.com/S1ckB0y1337/Active-Directory-Exploitation-Cheat-Sheet | 1559 | 391| 
 | 20210503T11:00:47Z | Discord Nitro Code Generator and Checker. Generates Classic and Boost Nitro Codes. Using HTTPS Proxy (Autoscraper) | https://github.com/heatxyz/DiscordExploit | 0 | 0| 
-| 20210503T10:51:55Z | The code for paper %Exploiting diverse information in Pre-trained Language Model for Multi-choice Machine Reading Comprehension% | https://github.com/bestbzw/Multi-Decision-Transformer | 0 | 0| 
-| 20210503T10:49:14Z | App for validate XSS exploit and vulnerability  | https://github.com/himstar/xss-tutorial-app | 0 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210503T12:33:06Z | Hanoman is an GUI antivirus engine singature based detection 🐒 | https://github.com/hrtywhy/Hanoman | 1 | 1| 
+| 20210503T12:35:32Z | Hanoman is an GUI antivirus engine singature based detection 🐒 | https://github.com/hrtywhy/Hanoman | 1 | 1| 
 | 20210503T12:23:21Z | A demo and explanation of how a trojan backdoor attack can be performed on the classic MNIST experiment | https://github.com/adit-bala/Introduction-to-Trojans-in-AI | 0 | 0| 
 | 20210503T11:50:00Z | Small and convenient C2 tool for Windows targets | https://github.com/Cr4sh/MicroBackdoor | 107 | 18| 
 | 20210503T11:36:27Z | PCI Express DIY hacking toolkit for Xilinx SP605 | https://github.com/Cr4sh/s6_pcie_microblaze | 340 | 87| 
