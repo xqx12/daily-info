@@ -17,7 +17,7 @@
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
 | 20210503T06:59:41Z | CVE-2020-14321 | Python script to exploit CVE-2020-14321 - Course enrolments allowed privilege escalation from teacher role into manager role to RCE. | https://github.com/lanzt/CVE-2020-14321 | 未查询到CVE信息| 
-| 20210503T06:10:28Z | CVE-2021-27552 | Steps for Exploitation  | https://github.com/sapkota2k20/CVE-2021-27552 | | 
+| 20210503T06:10:28Z | CVE-2021-27552 | Steps for Exploitation  | https://github.com/sapkota2k20/CVE-2021-27552 | 未查询到CVE信息| 
 | 20210503T06:08:17Z | CVE-2021-27553 | Null | https://github.com/sapkota2k20/CVE-2021-27553 | 未查询到CVE信息| 
 | 20210503T06:06:46Z | CVE-2021-3493 | Null | https://github.com/AmIAHuman/OverlayFS-CVE-2021-3493 | The overlayfs implementation in the linux kernel did not properly validate with respect to user namespaces the setting of file capabilities on files in an underlying file system. Due to the combination of unprivileged user namespaces along with a patch carried in the Ubuntu kernel to allow unprivileged overlay mounts, an attacker could use this to gain elevated privileges.| 
 | 20210503T03:52:36Z | CVE-2020-14295 | Authenticated SQL injection to command execution on Cacti 1.2.12  | https://github.com/0z09e/CVE-2020-14295 | A SQL injection issue in color.php in Cacti 1.2.12 allows an admin to inject SQL via the filter parameter. This can lead to remote command execution because the product accepts stacked queries.| 
@@ -55,8 +55,9 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210503T12:21:53Z | A demo and explanation of how a trojan backdoor attack can be performed on the classic MNIST experiment | https://github.com/adit-bala/Introduction-to-Trojans-in-AI | 0 | 0| 
+| 20210503T12:21:30Z | Hanoman is an GUI antivirus engine singature based detection 🐒 | https://github.com/hrtywhy/Hanoman | 1 | 1| 
 | 20210503T11:50:00Z | Small and convenient C2 tool for Windows targets | https://github.com/Cr4sh/MicroBackdoor | 107 | 18| 
-| 20210503T11:40:58Z | Hanoman is an GUI antivirus engine singature based detection 🐒 | https://github.com/hrtywhy/Hanoman | 1 | 1| 
 | 20210503T11:36:27Z | PCI Express DIY hacking toolkit for Xilinx SP605 | https://github.com/Cr4sh/s6_pcie_microblaze | 340 | 87| 
 | 20210503T09:05:17Z | Null | https://github.com/Hem1700/backdoor | 0 | 0| 
 | 20210503T08:18:48Z | using msfvenom to make RAT(remote access trojan) using backdoor, if you want to know more about how to make it, you can issue this project, or contact me on twitter | https://github.com/anthonykid/kali_metasploit_windows_10 | 0 | 0| 
@@ -64,7 +65,6 @@
 | 20210503T04:58:00Z | TrojanZoo provides a universal pytorch platform to conduct security researches (especially backdoor attacks/defenses) of image classification in deep learning. | https://github.com/ain-soph/trojanzoo | 69 | 11| 
 | 20210503T04:41:13Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 227 | 38| 
 | 20210503T04:13:58Z | Python based Reverse-Shell Backdoor Exploitation Framework with various features. | https://github.com/cyb3rm0nk3y/ReverseSploit | 0 | 0| 
-| 20210503T03:19:57Z | Python 3 IRC Bot / Botnet | https://github.com/trackmastersteve/HackServ | 19 | 16| 
 
 
 # fuzz on Github 推荐
