@@ -79,7 +79,6 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210502T23:57:23Z | Winnie is an end-to-end system that makes fuzzing Windows applications easy | https://github.com/sslab-gatech/winnie | 153 | 12| 
 | 20210502T23:32:07Z | Null | https://github.com/VeriBlock/fuzz-corpus | 0 | 1| 
 | 20210502T23:23:29Z | Null | https://github.com/doigj98/fuzzy-barnacle | 0 | 0| 
 | 20210502T22:56:05Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6241 | 1262| 
@@ -89,6 +88,7 @@
 | 20210502T20:21:02Z | Null | https://github.com/gdepuydt/fuzzoz | 0 | 0| 
 | 20210502T20:07:09Z | Null | https://github.com/yndxm/fuzzy-octo-spoon | 0 | 0| 
 | 20210502T19:20:04Z | Fuzzing the OS-Peripheral boundary without hardware | https://github.com/buszk/Drifuzz | 0 | 0| 
+| 20210502T19:09:48Z | Simple fuzzy regulator implemented in Matlab | https://github.com/zelimirmaletic/FuzzyRegulator | 0 | 0| 
 
 
 
