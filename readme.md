@@ -40,6 +40,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210503T12:55:01Z | Null | https://github.com/evilbuffer/malware-and-exploitdev-resources | 0 | 0| 
+| 20210503T12:53:20Z | This repository is for my senior year capstone. For my capstone I am developing a multipurpose web exploitation tool in python3. | https://github.com/nicholas-lueth/Web-Exploitation-Tool-Capstone | 0 | 1| 
 | 20210503T12:52:43Z | Pixelplace.io exploit  | https://github.com/gHuseyinabi/pixelplace-exploit | 0 | 1| 
 | 20210503T12:48:19Z | A simple bash script that use a fake image.jpg to exploit targets | https://github.com/krishpranav/image-exploiter | 0 | 0| 
 | 20210503T12:42:18Z | PS4 Exploits 5.05-7.55 | https://github.com/Buzbee/Buzbee.github.io | 2 | 0| 
@@ -48,8 +50,6 @@
 | 20210503T12:35:14Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9365 | 1513| 
 | 20210503T12:32:58Z | In  this  github page  we  propose  an  extended  version  of  the  Susceptible-Exposed-Infected-Recovered-Susceptible (SEIRS) model considering the population space and age distribution. The model is defined by exploiting the AM-ESSN formalism. | https://github.com/qBioTurin/AM-ESSN | 0 | 0| 
 | 20210503T12:02:39Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 22 | 9| 
-| 20210503T11:51:05Z | X Attacker Tool ☣ Website Vulnerability Scanner & Auto Exploiter | https://github.com/Moham3dRiahi/XAttacker | 928 | 413| 
-| 20210503T11:15:48Z | Null | https://github.com/Username132131231/Exploits-and-dlls | 0 | 0| 
 
 
 # backdoor on Github 推荐
