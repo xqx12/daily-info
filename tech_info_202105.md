@@ -52,6 +52,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210503T00:23:02Z | exploits | https://github.com/itsixvy/gfn | 0 | 0| 
 | 20210503T00:07:30Z | I got showed this trick by some random cunt on Discord that was in my group. I forgot his name. Shoutout to you though | https://github.com/anwir-prota/Discord-Embed-Trick | 0 | 0| 
 | 20210503T00:07:07Z | No credit needed! | https://github.com/Roblotastical/Exploit-Template | 0 | 0| 
 | 20210503T00:02:37Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 22 | 9| 
@@ -61,7 +62,6 @@
 | 20210502T23:21:18Z | A general purpose memory allocator that implements an isolation security strategy to mitigate memory safety issues while maintaining good performance | https://github.com/struct/isoalloc | 151 | 10| 
 | 20210502T22:53:44Z | Completed a working exploit for CVE-2018-17463 for fun. | https://github.com/kdmarti2/CVE-2018-17463 | 0 | 0| 
 | 20210502T21:45:26Z | PS1 savegame exploit | https://github.com/socram8888/tonyhax | 267 | 7| 
-| 20210502T21:35:10Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9362 | 1513| 
 
 
 # backdoor on Github 推荐
