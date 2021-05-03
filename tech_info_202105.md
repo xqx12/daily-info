@@ -27,14 +27,14 @@
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
 | 20210503T06:59:41Z | CVE-2020-14321 | Python script to exploit CVE-2020-14321 - Course enrolments allowed privilege escalation from teacher role into manager role to RCE. | https://github.com/lanzt/CVE-2020-14321 | 未查询到CVE信息| 
-| 20210503T06:10:28Z | CVE-2021-27552 | Steps for Exploitation  | https://github.com/sapkota2k20/CVE-2021-27552 | | 
+| 20210503T06:10:28Z | CVE-2021-27552 | Steps for Exploitation  | https://github.com/sapkota2k20/CVE-2021-27552 | 未查询到CVE信息| 
 | 20210503T06:08:17Z | CVE-2021-27553 | Null | https://github.com/sapkota2k20/CVE-2021-27553 | 未查询到CVE信息| 
 | 20210503T06:06:46Z | CVE-2021-3493 | Null | https://github.com/AmIAHuman/OverlayFS-CVE-2021-3493 | The overlayfs implementation in the linux kernel did not properly validate with respect to user namespaces the setting of file capabilities on files in an underlying file system. Due to the combination of unprivileged user namespaces along with a patch carried in the Ubuntu kernel to allow unprivileged overlay mounts, an attacker could use this to gain elevated privileges.| 
 | 20210503T03:52:36Z | CVE-2020-14295 | Authenticated SQL injection to command execution on Cacti 1.2.12  | https://github.com/0z09e/CVE-2020-14295 | A SQL injection issue in color.php in Cacti 1.2.12 allows an admin to inject SQL via the filter parameter. This can lead to remote command execution because the product accepts stacked queries.| 
 | 20210502T15:22:19Z | CVE-2020-27955 | Null | https://github.com/DeeLMind/CVE-2020-27955-LFS | Git LFS 2.12.0 allows Remote Code Execution.| 
 | 20210502T08:51:26Z | cve-2020-10977 | GitLab Arbitrary File Read Exploit | https://github.com/nickvdyck/gitlab-cve-2020-10977 | GitLab EE/CE 8.5 to 12.9 is vulnerable to a an path traversal when moving an issue between projects.| 
 | 20210502T05:34:31Z | CVE-2021-22192 | CVE-2021-22192 靶场： 未授权用户 RCE 漏洞 | https://github.com/lyy289065406/CVE-2021-22192 | An issue has been discovered in GitLab CE/EE affecting all versions starting from 13.2 allowing unauthorized authenticated users to execute arbitrary code on the server.| 
-| 20210502T04:01:38Z | CVE-2020-23342 | Null | https://github.com/DXY0411/CVE-2020-23342 | A CSRF vulnerability exists in Anchor CMS 0.12.7 anchor/views/users/edit.php that can change the Delete admin users.| 
+| 20210502T04:01:38Z | CVE-2020-23342 | Null | https://github.com/DXY0411/CVE-2020-23342 | | 
 | 20210502T01:58:40Z | CVE-2021-3493 | Null | https://github.com/Abdennour-py/CVE-2021-3493 | The overlayfs implementation in the linux kernel did not properly validate with respect to user namespaces the setting of file capabilities on files in an underlying file system. Due to the combination of unprivileged user namespaces along with a patch carried in the Ubuntu kernel to allow unprivileged overlay mounts, an attacker could use this to gain elevated privileges.| 
 
 
@@ -57,7 +57,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210503T12:17:10Z | Some Binary Exploitation CTF writeups | https://github.com/ElliyahuRosha/Binary-Exploitation-writeups | 1 | 0| 
+| 20210503T12:20:04Z | In  this  github page  we  propose  an  extended  version  of  the  Susceptible-Exposed-Infected-Recovered-Susceptible (SEIRS) model considering the population space and age distribution. The model is defined by exploiting the AM-ESSN formalism. | https://github.com/qBioTurin/AM-ESSN | 0 | 0| 
+| 20210503T12:19:43Z | Some Binary Exploitation CTF writeups | https://github.com/ElliyahuRosha/Binary-Exploitation-writeups | 1 | 0| 
 | 20210503T12:02:39Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 22 | 9| 
 | 20210503T11:51:05Z | X Attacker Tool ☣ Website Vulnerability Scanner & Auto Exploiter | https://github.com/Moham3dRiahi/XAttacker | 928 | 413| 
 | 20210503T11:15:48Z | Null | https://github.com/Username132131231/Exploits-and-dlls | 0 | 0| 
@@ -66,7 +67,6 @@
 | 20210503T11:00:47Z | Discord Nitro Code Generator and Checker. Generates Classic and Boost Nitro Codes. Using HTTPS Proxy (Autoscraper) | https://github.com/heatxyz/DiscordExploit | 0 | 0| 
 | 20210503T10:51:55Z | The code for paper %Exploiting diverse information in Pre-trained Language Model for Multi-choice Machine Reading Comprehension% | https://github.com/bestbzw/Multi-Decision-Transformer | 0 | 0| 
 | 20210503T10:49:14Z | App for validate XSS exploit and vulnerability  | https://github.com/himstar/xss-tutorial-app | 0 | 0| 
-| 20210503T10:33:06Z | PS4 Exploit list | https://github.com/Hakkuraifu/PS4xploit | 43 | 12| 
 
 
 # backdoor on Github 推荐
