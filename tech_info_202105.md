@@ -82,6 +82,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210503T00:11:14Z | Null | https://github.com/paul-gomes/Neuro-Fuzzy-System | 0 | 0| 
 | 20210503T00:08:09Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 4 | 4| 
 | 20210503T00:00:13Z | FormatFuzzer is a framework for high-efficiency, high-quality generation and parsing of binary inputs. | https://github.com/uds-se/FormatFuzzer | 121 | 13| 
 | 20210502T23:57:23Z | Winnie is an end-to-end system that makes fuzzing Windows applications easy | https://github.com/sslab-gatech/winnie | 153 | 12| 
@@ -91,7 +92,6 @@
 | 20210502T22:17:43Z | Software for fuzzing, used on web application pentestings. | https://github.com/NESCAU-UFLA/FuzzingTool | 66 | 15| 
 | 20210502T22:04:30Z | Ethereum smart contract fuzzer | https://github.com/crytic/echidna | 608 | 95| 
 | 20210502T20:55:03Z | Null | https://github.com/igorsodre/fuzzy-trader | 0 | 0| 
-| 20210502T20:21:02Z | Null | https://github.com/gdepuydt/fuzzoz | 0 | 0| 
 
 
 
