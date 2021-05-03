@@ -82,6 +82,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210503T01:09:58Z | Null | https://github.com/Fuzzwah/irstatsbot.fuzzwah.com | 1 | 0| 
 | 20210503T01:00:15Z | Winnie is an end-to-end system that makes fuzzing Windows applications easy | https://github.com/sslab-gatech/winnie | 156 | 12| 
 | 20210503T00:48:15Z | Scalable fuzzing infrastructure. | https://github.com/google/clusterfuzz | 4489 | 436| 
 | 20210503T00:22:32Z | Null | https://github.com/paul-gomes/Neuro-Fuzzy-System | 0 | 0| 
@@ -91,7 +92,6 @@
 | 20210502T23:23:29Z | Null | https://github.com/doigj98/fuzzy-barnacle | 0 | 0| 
 | 20210502T22:56:05Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6241 | 1262| 
 | 20210502T22:17:43Z | Software for fuzzing, used on web application pentestings. | https://github.com/NESCAU-UFLA/FuzzingTool | 66 | 15| 
-| 20210502T22:04:30Z | Ethereum smart contract fuzzer | https://github.com/crytic/echidna | 608 | 95| 
 
 
 
