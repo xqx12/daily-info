@@ -32,7 +32,7 @@
 | 20210502T04:01:38Z | CVE-2020-23342 | Null | https://github.com/DXY0411/CVE-2020-23342 | A CSRF vulnerability exists in Anchor CMS 0.12.7 anchor/views/users/edit.php that can change the Delete admin users.| 
 | 20210502T01:58:40Z | CVE-2021-3493 | Null | https://github.com/Abdennour-py/CVE-2021-3493 | The overlayfs implementation in the linux kernel did not properly validate with respect to user namespaces the setting of file capabilities on files in an underlying file system. Due to the combination of unprivileged user namespaces along with a patch carried in the Ubuntu kernel to allow unprivileged overlay mounts, an attacker could use this to gain elevated privileges.| 
 | 20210501T15:31:02Z | CVE-2020-14321 | Python script to exploit CVE-2020-14321 - Course enrolments allowed privilege escalation from teacher role into manager role to RCE. | https://github.com/lanzt/CVE-2020-14321 | 未查询到CVE信息| 
-| 20210501T05:19:53Z | CVE-2021-30128 | Null | https://github.com/LioTree/CVE-2021-30128-EXP | Apache OFBiz has unsafe deserialization prior to 17.12.07 version| 
+| 20210501T05:19:53Z | CVE-2021-30128 | Null | https://github.com/LioTree/CVE-2021-30128-EXP | | 
 
 
 # klee on Github 推荐
