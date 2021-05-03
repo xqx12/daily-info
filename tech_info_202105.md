@@ -52,16 +52,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210503T01:27:14Z | Null | https://github.com/andrewjing404/sorryMicrosoftForExploitingYourResources | 0 | 0| 
+| 20210503T01:26:16Z | MNIST dataset exploitation without using the pictures themselves | https://github.com/td-us/MNIST-dataset | 0 | 0| 
 | 20210503T01:02:36Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 22 | 9| 
 | 20210503T00:31:57Z | exploits | https://github.com/itsixvy/gfn | 0 | 0| 
 | 20210503T00:07:30Z | I got showed this trick by some random cunt on Discord that was in my group. I forgot his name. Shoutout to you though | https://github.com/anwir-prota/Discord-Embed-Trick | 0 | 0| 
 | 20210503T00:07:07Z | No credit needed! | https://github.com/Roblotastical/Exploit-Template | 0 | 0| 
 | 20210502T23:54:57Z | OWASP Top 10 Web Application vulnerabilities using C# and .Net core framework | https://github.com/Sytechia/Exploit_me | 1 | 0| 
 | 20210502T23:52:02Z | Fix exploits on anarchy minecraft servers | https://github.com/moom0o/AnarchyExploitFixes | 32 | 7| 
-| 20210502T23:31:45Z | Null | https://github.com/andrewjing404/sorryMicrosoftForExploitingYourResources | 0 | 0| 
 | 20210502T23:21:18Z | A general purpose memory allocator that implements an isolation security strategy to mitigate memory safety issues while maintaining good performance | https://github.com/struct/isoalloc | 151 | 10| 
 | 20210502T22:53:44Z | Completed a working exploit for CVE-2018-17463 for fun. | https://github.com/kdmarti2/CVE-2018-17463 | 0 | 0| 
-| 20210502T21:45:26Z | PS1 savegame exploit | https://github.com/socram8888/tonyhax | 267 | 7| 
 
 
 # backdoor on Github 推荐
