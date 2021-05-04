@@ -42,6 +42,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210504T12:32:01Z | Implementation for %Exploiting Aliasing for Manga Restoration% (CVPR 2021) | https://github.com/msxie92/MangaRestoration | 0 | 0| 
 | 20210504T12:28:40Z | A personalized/enhanced re-creation of the Darkhotel %Double Star% APT exploit chain with a focus on Windows 8.1 and mixed with some of my own techniques | https://github.com/forrest-orr/DoubleStar | 2 | 0| 
 | 20210504T12:18:33Z | sourflamez is a roblox exploit which supports multi API%s. Check here for more info!; https://sites.google.com/view/sourflamez/ | https://github.com/ice1919/sourflamez | 0 | 0| 
 | 20210504T12:02:41Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 22 | 9| 
@@ -51,7 +52,6 @@
 | 20210504T11:12:21Z | Forestry Thematic Exploitation Platform | https://github.com/cgi-eoss/ftep | 5 | 0| 
 | 20210504T11:03:28Z | Automated All-in-One OS Command Injection Exploitation Tool | https://github.com/commixproject/commix | 2669 | 606| 
 | 20210504T11:00:22Z | Null | https://github.com/ExploitHax/ExploitHax | 0 | 0| 
-| 20210504T10:02:18Z | PoC List | https://github.com/s-index/poc-list | 4 | 0| 
 
 
 # backdoor on Github 推荐
