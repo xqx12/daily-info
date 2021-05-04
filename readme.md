@@ -42,6 +42,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210504T12:50:22Z | Small crash client base for retarded(german) people who steal other people%s code. | https://github.com/narumii/Niko | 9 | 0| 
 | 20210504T12:49:59Z | sourflamez is one of the roblox exploits that supports multi API%s. Check it out here! | https://github.com/ice1919/official-sourflamez-download-page | 0 | 0| 
 | 20210504T12:47:10Z | sourflamez is a roblox exploit which supports multi API%s. Check here for more info!; https://sites.google.com/view/sourflamez/ | https://github.com/ice1919/test240452 | 0 | 0| 
 | 20210504T12:46:35Z | An interactive memory info for pwning / exploiting | https://github.com/david942j/heapinfo | 87 | 11| 
@@ -51,7 +52,6 @@
 | 20210504T12:41:37Z | A personalized/enhanced re-creation of the Darkhotel %Double Star% APT exploit chain with a focus on Windows 8.1 and mixed with some of my own techniques | https://github.com/forrest-orr/DoubleStar | 5 | 0| 
 | 20210504T12:33:00Z | Implementation for %Exploiting Aliasing for Manga Restoration% (CVPR 2021) | https://github.com/msxie92/MangaRestoration | 0 | 0| 
 | 20210504T12:18:33Z | sourflamez is a roblox exploit which supports multi API%s. Check here for more info!; https://sites.google.com/view/sourflamez/ | https://github.com/ice1919/sourflamez | 0 | 0| 
-| 20210504T12:02:41Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 22 | 9| 
 
 
 # backdoor on Github 推荐
