@@ -18,9 +18,9 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20210504T10:19:52Z | CVE-2021-22893 | Proof-of-Concept (PoC) script to exploit Pulse Secure CVE-2021-22893.  | https://github.com/ZephrFish/CVE-2021-22893 | 未查询到CVE信息| 
-| 20210504T01:20:04Z | CVE-2021-3493 | Null | https://github.com/AmIAHuman/OverlayFS-CVE-2021-3493 | 未查询到CVE信息| 
-| 20210504T01:08:17Z | CVE-2021-30128 | Null | https://github.com/LioTree/CVE-2021-30128-EXP | 未查询到CVE信息| 
+| 20210504T10:19:52Z | CVE-2021-22893 | Proof-of-Concept (PoC) script to exploit Pulse Secure CVE-2021-22893.  | https://github.com/ZephrFish/CVE-2021-22893 | Pulse Connect Secure 9.0R3/9.1R1 and higher is vulnerable to an authentication bypass vulnerability exposed by the Windows File Share Browser and Pulse Secure Collaboration features of Pulse Connect Secure that can allow an unauthenticated user to perform remote arbitrary code execution on the Pulse Connect Secure gateway. This vulnerability has been exploited in the wild.| 
+| 20210504T01:20:04Z | CVE-2021-3493 | Null | https://github.com/AmIAHuman/OverlayFS-CVE-2021-3493 | The overlayfs implementation in the linux kernel did not properly validate with respect to user namespaces the setting of file capabilities on files in an underlying file system. Due to the combination of unprivileged user namespaces along with a patch carried in the Ubuntu kernel to allow unprivileged overlay mounts, an attacker could use this to gain elevated privileges.| 
+| 20210504T01:08:17Z | CVE-2021-30128 | Null | https://github.com/LioTree/CVE-2021-30128-EXP | | 
 
 
 # klee on Github 推荐
@@ -42,16 +42,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210504T12:35:13Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9370 | 1513| 
-| 20210504T12:34:37Z | A personalized/enhanced re-creation of the Darkhotel %Double Star% APT exploit chain with a focus on Windows 8.1 and mixed with some of my own techniques | https://github.com/forrest-orr/DoubleStar | 4 | 0| 
+| 20210504T12:42:30Z | Null | https://github.com/neeavicc/Vob-Exploit | 0 | 0| 
+| 20210504T12:42:22Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9371 | 1513| 
+| 20210504T12:42:00Z | A simple bash script that use a fake image.jpg to exploit targets | https://github.com/krishpranav/image-exploiter | 0 | 0| 
+| 20210504T12:41:37Z | A personalized/enhanced re-creation of the Darkhotel %Double Star% APT exploit chain with a focus on Windows 8.1 and mixed with some of my own techniques | https://github.com/forrest-orr/DoubleStar | 5 | 0| 
 | 20210504T12:33:00Z | Implementation for %Exploiting Aliasing for Manga Restoration% (CVPR 2021) | https://github.com/msxie92/MangaRestoration | 0 | 0| 
 | 20210504T12:18:33Z | sourflamez is a roblox exploit which supports multi API%s. Check here for more info!; https://sites.google.com/view/sourflamez/ | https://github.com/ice1919/sourflamez | 0 | 0| 
 | 20210504T12:02:41Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 22 | 9| 
 | 20210504T12:00:03Z | Basic services enumeration and exploitation | https://github.com/dar3k93/Basic-service-enumeration | 0 | 0| 
 | 20210504T11:59:01Z | A cheat sheet that contains common enumeration and attack methods for Windows Active Directory. | https://github.com/S1ckB0y1337/Active-Directory-Exploitation-Cheat-Sheet | 1562 | 391| 
 | 20210504T11:26:35Z | Null | https://github.com/evilbuffer/malware-and-exploitdev-resources | 0 | 0| 
-| 20210504T11:12:21Z | Forestry Thematic Exploitation Platform | https://github.com/cgi-eoss/ftep | 5 | 0| 
-| 20210504T11:03:28Z | Automated All-in-One OS Command Injection Exploitation Tool | https://github.com/commixproject/commix | 2669 | 606| 
 
 
 # backdoor on Github 推荐
@@ -70,12 +70,12 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210504T12:42:42Z | FormatFuzzer is a framework for high-efficiency, high-quality generation and parsing of binary inputs. | https://github.com/uds-se/FormatFuzzer | 122 | 13| 
 | 20210504T12:24:11Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 293 | 22| 
 | 20210504T12:15:29Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 4 | 4| 
 | 20210504T11:59:18Z | A fuzzer for hardware network protocols. | https://github.com/AshwAthi8/R0fuzz | 0 | 1| 
 | 20210504T11:54:41Z | A heavily edited version of Privoxy intended for fuzzing. | https://github.com/MegaManSec/privoxy-fuzz | 0 | 0| 
 | 20210504T11:24:27Z | Fuzz data for the klauspost/compress package | https://github.com/klauspost/compress-fuzz | 1 | 1| 
-| 20210504T11:18:32Z | FormatFuzzer is a framework for high-efficiency, high-quality generation and parsing of binary inputs. | https://github.com/uds-se/FormatFuzzer | 121 | 13| 
 | 20210504T11:12:39Z | Null | https://github.com/AFKD98/fuzzififcation | 0 | 0| 
 | 20210504T11:10:05Z | Winnie is an end-to-end system that makes fuzzing Windows applications easy | https://github.com/sslab-gatech/winnie | 190 | 14| 
 | 20210504T11:02:23Z | Concurrency property fuzzing tool for multicore OCaml programs | https://github.com/SumitPadhiyar/parafuzz | 0 | 0| 
