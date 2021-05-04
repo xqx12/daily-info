@@ -30,7 +30,7 @@
 | --- | --- | --- | --- | ---| 
 | 20210504T01:08:17Z | CVE-2021-30128 | Null | https://github.com/LioTree/CVE-2021-30128-EXP | Apache OFBiz has unsafe deserialization prior to 17.12.07 version| 
 | 20210503T22:18:47Z | cve-2020-10977 | GitLab Arbitrary File Read Exploit | https://github.com/nickvdyck/gitlab-cve-2020-10977 | GitLab EE/CE 8.5 to 12.9 is vulnerable to a an path traversal when moving an issue between projects.| 
-| 20210503T18:50:58Z | CVE-2021-22893 | Proof-of-Concept (PoC) script to exploit Pulse Secure CVE-2021-22893.  | https://github.com/ZephrFish/CVE-2021-22893 | | 
+| 20210503T18:50:58Z | CVE-2021-22893 | Proof-of-Concept (PoC) script to exploit Pulse Secure CVE-2021-22893.  | https://github.com/ZephrFish/CVE-2021-22893 | Pulse Connect Secure 9.0R3/9.1R1 and higher is vulnerable to an authentication bypass vulnerability exposed by the Windows File Share Browser and Pulse Secure Collaboration features of Pulse Connect Secure that can allow an unauthenticated user to perform remote arbitrary code execution on the Pulse Connect Secure gateway. This vulnerability has been exploited in the wild.| 
 | 20210503T16:01:14Z | 未知编号 | cve-2020_6418-exploittt.js | https://github.com/Jabri1/cve-2020_6418-exploit | 未查询到CVE信息| 
 | 20210503T14:29:51Z | CVE-2021-28482 | POC from TestANull for CVE-2021-28482 on Exchange Server | https://github.com/Shadow0ps/CVE-2021-28482-Exchange-POC | Microsoft Exchange Server Remote Code Execution Vulnerability This CVE ID is unique from CVE-2021-28480, CVE-2021-28481, CVE-2021-28483.| 
 | 20210503T06:59:41Z | CVE-2020-14321 | Python script to exploit CVE-2020-14321 - Course enrolments allowed privilege escalation from teacher role into manager role to RCE. | https://github.com/lanzt/CVE-2020-14321 | 未查询到CVE信息| 
@@ -59,9 +59,9 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210504T01:08:45Z | A series of CTF/hacking challenge solutions for binary exploitation(or pwn)/reverse engineering/vulnerability research/memory corruption(or whatever term you use) | https://github.com/docfate111/binary-exploitation-solution-scripts | 0 | 0| 
-| 20210504T01:08:28Z | OWASP Top 10 Web Application vulnerabilities using C# and .Net core framework | https://github.com/Sytechia/Exploit_me | 1 | 0| 
-| 20210504T01:07:52Z | Full-chain RCE exploit for Source Engine games | https://github.com/Gbps/sourceengine-packetentities-rce-poc | 0 | 0| 
+| 20210504T01:13:29Z | OWASP Top 10 Web Application vulnerabilities using C# and .Net core framework | https://github.com/Sytechia/Exploit_me | 1 | 0| 
+| 20210504T01:13:27Z | A series of CTF/hacking challenge solutions for binary exploitation(or pwn)/reverse engineering/vulnerability research/memory corruption(or whatever term you use) | https://github.com/docfate111/binary-exploitation-solution-scripts | 0 | 0| 
+| 20210504T01:12:46Z | Full-chain RCE exploit for Source Engine games | https://github.com/Gbps/sourceengine-packetentities-rce-poc | 1 | 0| 
 | 20210504T01:02:41Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 22 | 9| 
 | 20210504T00:55:22Z | 🍇 Map, analyze, exploit vulnerabilities and mitigate multiple targets at once. Written in C# and totally open source! 🍇 | https://github.com/blackbinn/Dionisio | 0 | 0| 
 | 20210504T00:51:01Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 16 | 11| 
@@ -89,8 +89,8 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210504T01:09:24Z | Null | https://github.com/rittermi/Feeling-Fuzzy | 0 | 0| 
 | 20210504T01:00:44Z | Null | https://github.com/igorsodre/fuzzy-trader | 0 | 0| 
-| 20210504T01:00:00Z | Null | https://github.com/rittermi/Feeling-Fuzzy | 0 | 0| 
 | 20210504T00:48:46Z | Android Development | https://github.com/josemenis/fuzzy-umbrella | 0 | 0| 
 | 20210503T23:55:09Z | CS 4152 Project | https://github.com/nicbarone/Fuzzy-Kiwi | 0 | 0| 
 | 20210503T23:53:53Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2320 | 125| 
