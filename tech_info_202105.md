@@ -59,6 +59,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210504T00:51:01Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 16 | 11| 
 | 20210504T00:41:01Z | Exploiting wordpress because it%s fun | https://github.com/keeperazra/sec440-wordpress | 0 | 0| 
 | 20210504T00:22:13Z | A place where i store my proof of concepts of cve%s and exploits :) | https://github.com/purpler0se/poc | 0 | 0| 
 | 20210504T00:02:53Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 22 | 9| 
@@ -68,7 +69,6 @@
 | 20210503T23:36:44Z | Various ASM, C and C++ tools, shellcodes and exploit experiments. | https://github.com/forrest-orr/ExploitDev | 10 | 1| 
 | 20210503T23:29:47Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9368 | 1513| 
 | 20210503T23:23:27Z | PS4 Exploit Host | https://github.com/Night-King-Host/Night-King-Host.github.io | 9 | 4| 
-| 20210503T23:12:17Z | Null | https://github.com/0xturazzi/Um-Livrinho-Sobre-Exploit-Dev | 0 | 0| 
 
 
 # backdoor on Github 推荐
