@@ -42,6 +42,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210504T12:35:13Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9370 | 1513| 
 | 20210504T12:34:37Z | A personalized/enhanced re-creation of the Darkhotel %Double Star% APT exploit chain with a focus on Windows 8.1 and mixed with some of my own techniques | https://github.com/forrest-orr/DoubleStar | 4 | 0| 
 | 20210504T12:33:00Z | Implementation for %Exploiting Aliasing for Manga Restoration% (CVPR 2021) | https://github.com/msxie92/MangaRestoration | 0 | 0| 
 | 20210504T12:18:33Z | sourflamez is a roblox exploit which supports multi API%s. Check here for more info!; https://sites.google.com/view/sourflamez/ | https://github.com/ice1919/sourflamez | 0 | 0| 
@@ -51,7 +52,6 @@
 | 20210504T11:26:35Z | Null | https://github.com/evilbuffer/malware-and-exploitdev-resources | 0 | 0| 
 | 20210504T11:12:21Z | Forestry Thematic Exploitation Platform | https://github.com/cgi-eoss/ftep | 5 | 0| 
 | 20210504T11:03:28Z | Automated All-in-One OS Command Injection Exploitation Tool | https://github.com/commixproject/commix | 2669 | 606| 
-| 20210504T11:00:22Z | Null | https://github.com/ExploitHax/ExploitHax | 0 | 0| 
 
 
 # backdoor on Github 推荐
