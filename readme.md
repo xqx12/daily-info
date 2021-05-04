@@ -50,13 +50,13 @@
 | 20210503T23:56:42Z | Null | https://github.com/Nixcution/Ruby-for-ethical-hacking-exploits | 0 | 0| 
 | 20210503T23:54:05Z | T0R Browser 0Day JavaScript Exploit (old version) | https://github.com/Jabri1/TOR-0Day | 0 | 0| 
 | 20210503T23:52:43Z | Null | https://github.com/Nixcution/Ruby-for-ethical-hacking-practice-and-exploits | 0 | 0| 
-| 20210503T23:52:32Z | Exploiting wordpress because it%s fun | https://github.com/keeperazra/sec440-wordpress | 0 | 0| 
 | 20210503T23:36:44Z | Various ASM, C and C++ tools, shellcodes and exploit experiments. | https://github.com/forrest-orr/ExploitDev | 10 | 1| 
 | 20210503T23:29:47Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9368 | 1513| 
 | 20210503T23:23:27Z | PS4 Exploit Host | https://github.com/Night-King-Host/Night-King-Host.github.io | 9 | 4| 
 | 20210503T23:12:17Z | Null | https://github.com/0xturazzi/Um-Livrinho-Sobre-Exploit-Dev | 0 | 0| 
 | 20210503T22:53:13Z | Null | https://github.com/AssassinUKG/tarWildcardExploit | 0 | 0| 
 | 20210503T22:31:34Z | A collection of links related to Linux kernel security and exploitation | https://github.com/xairy/linux-kernel-exploitation | 3443 | 763| 
+| 20210503T22:18:47Z | GitLab Arbitrary File Read Exploit | https://github.com/nickvdyck/gitlab-cve-2020-10977 | 0 | 0| 
 
 
 # backdoor on Github 推荐
