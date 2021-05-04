@@ -20,7 +20,7 @@
 | --- | --- | --- | --- | ---| 
 | 20210504T10:19:52Z | CVE-2021-22893 | Proof-of-Concept (PoC) script to exploit Pulse Secure CVE-2021-22893.  | https://github.com/ZephrFish/CVE-2021-22893 | Pulse Connect Secure 9.0R3/9.1R1 and higher is vulnerable to an authentication bypass vulnerability exposed by the Windows File Share Browser and Pulse Secure Collaboration features of Pulse Connect Secure that can allow an unauthenticated user to perform remote arbitrary code execution on the Pulse Connect Secure gateway. This vulnerability has been exploited in the wild.| 
 | 20210504T01:20:04Z | CVE-2021-3493 | Null | https://github.com/AmIAHuman/OverlayFS-CVE-2021-3493 | The overlayfs implementation in the linux kernel did not properly validate with respect to user namespaces the setting of file capabilities on files in an underlying file system. Due to the combination of unprivileged user namespaces along with a patch carried in the Ubuntu kernel to allow unprivileged overlay mounts, an attacker could use this to gain elevated privileges.| 
-| 20210504T01:08:17Z | CVE-2021-30128 | Null | https://github.com/LioTree/CVE-2021-30128-EXP | | 
+| 20210504T01:08:17Z | CVE-2021-30128 | Null | https://github.com/LioTree/CVE-2021-30128-EXP | Apache OFBiz has unsafe deserialization prior to 17.12.07 version| 
 
 
 # klee on Github 推荐
@@ -42,9 +42,9 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210504T12:42:30Z | Null | https://github.com/neeavicc/Vob-Exploit | 0 | 0| 
+| 20210504T12:43:31Z | A simple bash script that use a fake image.jpg to exploit targets | https://github.com/krishpranav/image-exploiter | 0 | 0| 
+| 20210504T12:42:33Z | Null | https://github.com/neeavicc/Vob-Exploit | 0 | 0| 
 | 20210504T12:42:22Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9371 | 1513| 
-| 20210504T12:42:00Z | A simple bash script that use a fake image.jpg to exploit targets | https://github.com/krishpranav/image-exploiter | 0 | 0| 
 | 20210504T12:41:37Z | A personalized/enhanced re-creation of the Darkhotel %Double Star% APT exploit chain with a focus on Windows 8.1 and mixed with some of my own techniques | https://github.com/forrest-orr/DoubleStar | 5 | 0| 
 | 20210504T12:33:00Z | Implementation for %Exploiting Aliasing for Manga Restoration% (CVPR 2021) | https://github.com/msxie92/MangaRestoration | 0 | 0| 
 | 20210504T12:18:33Z | sourflamez is a roblox exploit which supports multi API%s. Check here for more info!; https://sites.google.com/view/sourflamez/ | https://github.com/ice1919/sourflamez | 0 | 0| 
