@@ -28,16 +28,16 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20210504T10:19:52Z | CVE-2021-22893 | Proof-of-Concept (PoC) script to exploit Pulse Secure CVE-2021-22893.  | https://github.com/ZephrFish/CVE-2021-22893 | 未查询到CVE信息| 
-| 20210504T01:20:04Z | CVE-2021-3493 | Null | https://github.com/AmIAHuman/OverlayFS-CVE-2021-3493 | 未查询到CVE信息| 
-| 20210504T01:08:17Z | CVE-2021-30128 | Null | https://github.com/LioTree/CVE-2021-30128-EXP | 未查询到CVE信息| 
-| 20210503T22:18:47Z | cve-2020-10977 | GitLab Arbitrary File Read Exploit | https://github.com/nickvdyck/gitlab-cve-2020-10977 | 未查询到CVE信息| 
+| 20210504T10:19:52Z | CVE-2021-22893 | Proof-of-Concept (PoC) script to exploit Pulse Secure CVE-2021-22893.  | https://github.com/ZephrFish/CVE-2021-22893 | Pulse Connect Secure 9.0R3/9.1R1 and higher is vulnerable to an authentication bypass vulnerability exposed by the Windows File Share Browser and Pulse Secure Collaboration features of Pulse Connect Secure that can allow an unauthenticated user to perform remote arbitrary code execution on the Pulse Connect Secure gateway. This vulnerability has been exploited in the wild.| 
+| 20210504T01:20:04Z | CVE-2021-3493 | Null | https://github.com/AmIAHuman/OverlayFS-CVE-2021-3493 | The overlayfs implementation in the linux kernel did not properly validate with respect to user namespaces the setting of file capabilities on files in an underlying file system. Due to the combination of unprivileged user namespaces along with a patch carried in the Ubuntu kernel to allow unprivileged overlay mounts, an attacker could use this to gain elevated privileges.| 
+| 20210504T01:08:17Z | CVE-2021-30128 | Null | https://github.com/LioTree/CVE-2021-30128-EXP | Apache OFBiz has unsafe deserialization prior to 17.12.07 version| 
+| 20210503T22:18:47Z | cve-2020-10977 | GitLab Arbitrary File Read Exploit | https://github.com/nickvdyck/gitlab-cve-2020-10977 | GitLab EE/CE 8.5 to 12.9 is vulnerable to a an path traversal when moving an issue between projects.| 
 | 20210503T16:01:14Z | 未知编号 | cve-2020_6418-exploittt.js | https://github.com/Jabri1/cve-2020_6418-exploit | 未查询到CVE信息| 
-| 20210503T14:29:51Z | CVE-2021-28482 | POC from TestANull for CVE-2021-28482 on Exchange Server | https://github.com/Shadow0ps/CVE-2021-28482-Exchange-POC | 未查询到CVE信息| 
+| 20210503T14:29:51Z | CVE-2021-28482 | POC from TestANull for CVE-2021-28482 on Exchange Server | https://github.com/Shadow0ps/CVE-2021-28482-Exchange-POC | Microsoft Exchange Server Remote Code Execution Vulnerability This CVE ID is unique from CVE-2021-28480, CVE-2021-28481, CVE-2021-28483.| 
 | 20210503T06:59:41Z | CVE-2020-14321 | Python script to exploit CVE-2020-14321 - Course enrolments allowed privilege escalation from teacher role into manager role to RCE. | https://github.com/lanzt/CVE-2020-14321 | 未查询到CVE信息| 
 | 20210503T06:10:28Z | CVE-2021-27552 | Steps for Exploitation  | https://github.com/sapkota2k20/CVE-2021-27552 | 未查询到CVE信息| 
 | 20210503T06:08:17Z | CVE-2021-27553 | Null | https://github.com/sapkota2k20/CVE-2021-27553 | 未查询到CVE信息| 
-| 20210503T03:52:36Z | CVE-2020-14295 | Authenticated SQL injection to command execution on Cacti 1.2.12  | https://github.com/0z09e/CVE-2020-14295 | 未查询到CVE信息| 
+| 20210503T03:52:36Z | CVE-2020-14295 | Authenticated SQL injection to command execution on Cacti 1.2.12  | https://github.com/0z09e/CVE-2020-14295 | | 
 
 
 # klee on Github 推荐
@@ -92,16 +92,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210504T12:24:11Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 293 | 22| 
+| 20210504T12:15:29Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 4 | 4| 
 | 20210504T11:59:18Z | A fuzzer for hardware network protocols. | https://github.com/AshwAthi8/R0fuzz | 0 | 1| 
 | 20210504T11:54:41Z | A heavily edited version of Privoxy intended for fuzzing. | https://github.com/MegaManSec/privoxy-fuzz | 0 | 0| 
-| 20210504T11:31:33Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 292 | 22| 
 | 20210504T11:24:27Z | Fuzz data for the klauspost/compress package | https://github.com/klauspost/compress-fuzz | 1 | 1| 
 | 20210504T11:18:32Z | FormatFuzzer is a framework for high-efficiency, high-quality generation and parsing of binary inputs. | https://github.com/uds-se/FormatFuzzer | 121 | 13| 
 | 20210504T11:12:39Z | Null | https://github.com/AFKD98/fuzzififcation | 0 | 0| 
 | 20210504T11:10:05Z | Winnie is an end-to-end system that makes fuzzing Windows applications easy | https://github.com/sslab-gatech/winnie | 190 | 14| 
 | 20210504T11:02:23Z | Concurrency property fuzzing tool for multicore OCaml programs | https://github.com/SumitPadhiyar/parafuzz | 0 | 0| 
 | 20210504T10:56:41Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 3495 | 808| 
-| 20210504T10:42:30Z | Null | https://github.com/intAV/fuzz | 0 | 0| 
 
 
 
