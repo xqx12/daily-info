@@ -32,7 +32,7 @@
 | 20210504T01:08:17Z | CVE-2021-30128 | Null | https://github.com/LioTree/CVE-2021-30128-EXP | Apache OFBiz has unsafe deserialization prior to 17.12.07 version| 
 | 20210503T22:18:47Z | cve-2020-10977 | GitLab Arbitrary File Read Exploit | https://github.com/nickvdyck/gitlab-cve-2020-10977 | GitLab EE/CE 8.5 to 12.9 is vulnerable to a an path traversal when moving an issue between projects.| 
 | 20210503T18:50:58Z | CVE-2021-22893 | Proof-of-Concept (PoC) script to exploit Pulse Secure CVE-2021-22893.  | https://github.com/ZephrFish/CVE-2021-22893 | Pulse Connect Secure 9.0R3/9.1R1 and higher is vulnerable to an authentication bypass vulnerability exposed by the Windows File Share Browser and Pulse Secure Collaboration features of Pulse Connect Secure that can allow an unauthenticated user to perform remote arbitrary code execution on the Pulse Connect Secure gateway. This vulnerability has been exploited in the wild.| 
-| 20210503T16:01:14Z | 未知编号 | cve-2020_6418-exploittt.js | https://github.com/Jabri1/cve-2020_6418-exploit | | 
+| 20210503T16:01:14Z | 未知编号 | cve-2020_6418-exploittt.js | https://github.com/Jabri1/cve-2020_6418-exploit | 未查询到CVE信息| 
 | 20210503T14:29:51Z | CVE-2021-28482 | POC from TestANull for CVE-2021-28482 on Exchange Server | https://github.com/Shadow0ps/CVE-2021-28482-Exchange-POC | Microsoft Exchange Server Remote Code Execution Vulnerability This CVE ID is unique from CVE-2021-28480, CVE-2021-28481, CVE-2021-28483.| 
 | 20210503T06:59:41Z | CVE-2020-14321 | Python script to exploit CVE-2020-14321 - Course enrolments allowed privilege escalation from teacher role into manager role to RCE. | https://github.com/lanzt/CVE-2020-14321 | 未查询到CVE信息| 
 | 20210503T06:10:28Z | CVE-2021-27552 | Steps for Exploitation  | https://github.com/sapkota2k20/CVE-2021-27552 | 未查询到CVE信息| 
@@ -59,6 +59,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210504T01:30:08Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9369 | 1513| 
 | 20210504T01:13:29Z | OWASP Top 10 Web Application vulnerabilities using C# and .Net core framework | https://github.com/Sytechia/Exploit_me | 1 | 0| 
 | 20210504T01:13:27Z | A series of CTF/hacking challenge solutions for binary exploitation(or pwn)/reverse engineering/vulnerability research/memory corruption(or whatever term you use) | https://github.com/docfate111/binary-exploitation-solution-scripts | 0 | 0| 
 | 20210504T01:12:46Z | Full-chain RCE exploit for Source Engine games | https://github.com/Gbps/sourceengine-packetentities-rce-poc | 1 | 0| 
@@ -68,7 +69,6 @@
 | 20210504T00:41:01Z | Exploiting wordpress because it%s fun | https://github.com/keeperazra/sec440-wordpress | 0 | 0| 
 | 20210504T00:22:13Z | A place where i store my proof of concepts of cve%s and exploits :) | https://github.com/purpler0se/poc | 0 | 0| 
 | 20210503T23:56:42Z | Null | https://github.com/Nixcution/Ruby-for-ethical-hacking-exploits | 0 | 0| 
-| 20210503T23:54:05Z | T0R Browser 0Day JavaScript Exploit (old version) | https://github.com/Jabri1/TOR-0Day | 0 | 0| 
 
 
 # backdoor on Github 推荐

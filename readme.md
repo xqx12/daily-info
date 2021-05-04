@@ -21,7 +21,7 @@
 | --- | --- | --- | --- | ---| 
 | 20210503T22:18:47Z | cve-2020-10977 | GitLab Arbitrary File Read Exploit | https://github.com/nickvdyck/gitlab-cve-2020-10977 | GitLab EE/CE 8.5 to 12.9 is vulnerable to a an path traversal when moving an issue between projects.| 
 | 20210503T18:50:58Z | CVE-2021-22893 | Proof-of-Concept (PoC) script to exploit Pulse Secure CVE-2021-22893.  | https://github.com/ZephrFish/CVE-2021-22893 | Pulse Connect Secure 9.0R3/9.1R1 and higher is vulnerable to an authentication bypass vulnerability exposed by the Windows File Share Browser and Pulse Secure Collaboration features of Pulse Connect Secure that can allow an unauthenticated user to perform remote arbitrary code execution on the Pulse Connect Secure gateway. This vulnerability has been exploited in the wild.| 
-| 20210503T16:01:14Z | 未知编号 | cve-2020_6418-exploittt.js | https://github.com/Jabri1/cve-2020_6418-exploit | | 
+| 20210503T16:01:14Z | 未知编号 | cve-2020_6418-exploittt.js | https://github.com/Jabri1/cve-2020_6418-exploit | 未查询到CVE信息| 
 | 20210503T14:29:51Z | CVE-2021-28482 | POC from TestANull for CVE-2021-28482 on Exchange Server | https://github.com/Shadow0ps/CVE-2021-28482-Exchange-POC | Microsoft Exchange Server Remote Code Execution Vulnerability This CVE ID is unique from CVE-2021-28480, CVE-2021-28481, CVE-2021-28483.| 
 | 20210503T06:59:41Z | CVE-2020-14321 | Python script to exploit CVE-2020-14321 - Course enrolments allowed privilege escalation from teacher role into manager role to RCE. | https://github.com/lanzt/CVE-2020-14321 | 未查询到CVE信息| 
 | 20210503T06:10:28Z | CVE-2021-27552 | Steps for Exploitation  | https://github.com/sapkota2k20/CVE-2021-27552 | 未查询到CVE信息| 
@@ -50,12 +50,12 @@
 | 20210503T23:54:05Z | T0R Browser 0Day JavaScript Exploit (old version) | https://github.com/Jabri1/TOR-0Day | 0 | 0| 
 | 20210503T23:52:43Z | Null | https://github.com/Nixcution/Ruby-for-ethical-hacking-practice-and-exploits | 0 | 0| 
 | 20210503T23:36:44Z | Various ASM, C and C++ tools, shellcodes and exploit experiments. | https://github.com/forrest-orr/ExploitDev | 10 | 1| 
-| 20210503T23:29:47Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9368 | 1513| 
 | 20210503T23:23:27Z | PS4 Exploit Host | https://github.com/Night-King-Host/Night-King-Host.github.io | 9 | 4| 
 | 20210503T23:12:17Z | Null | https://github.com/0xturazzi/Um-Livrinho-Sobre-Exploit-Dev | 0 | 0| 
 | 20210503T22:53:13Z | Null | https://github.com/AssassinUKG/tarWildcardExploit | 0 | 0| 
 | 20210503T22:31:34Z | A collection of links related to Linux kernel security and exploitation | https://github.com/xairy/linux-kernel-exploitation | 3443 | 763| 
 | 20210503T22:18:47Z | GitLab Arbitrary File Read Exploit | https://github.com/nickvdyck/gitlab-cve-2020-10977 | 0 | 0| 
+| 20210503T20:39:36Z | Null | https://github.com/Pasxeegamer/Coinmaster-Exploitzz-v2 | 0 | 0| 
 
 
 # backdoor on Github 推荐
