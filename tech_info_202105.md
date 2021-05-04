@@ -33,8 +33,8 @@
 | 20210504T01:08:17Z | CVE-2021-30128 | Null | https://github.com/LioTree/CVE-2021-30128-EXP | Apache OFBiz has unsafe deserialization prior to 17.12.07 version| 
 | 20210503T22:18:47Z | cve-2020-10977 | GitLab Arbitrary File Read Exploit | https://github.com/nickvdyck/gitlab-cve-2020-10977 | GitLab EE/CE 8.5 to 12.9 is vulnerable to a an path traversal when moving an issue between projects.| 
 | 20210503T16:01:14Z | 未知编号 | cve-2020_6418-exploittt.js | https://github.com/Jabri1/cve-2020_6418-exploit | 未查询到CVE信息| 
-| 20210503T14:29:51Z | CVE-2021-28482 | POC from TestANull for CVE-2021-28482 on Exchange Server | https://github.com/Shadow0ps/CVE-2021-28482-Exchange-POC | Microsoft Exchange Server Remote Code Execution Vulnerability This CVE ID is unique from CVE-2021-28480, CVE-2021-28481, CVE-2021-28483.| 
-| 20210503T06:59:41Z | CVE-2020-14321 | Python script to exploit CVE-2020-14321 - Course enrolments allowed privilege escalation from teacher role into manager role to RCE. | https://github.com/lanzt/CVE-2020-14321 | 未查询到CVE信息| 
+| 20210503T14:29:51Z | CVE-2021-28482 | POC from TestANull for CVE-2021-28482 on Exchange Server | https://github.com/Shadow0ps/CVE-2021-28482-Exchange-POC | | 
+| 20210503T06:59:41Z | CVE-2020-14321 | Python script to exploit CVE-2020-14321 - Course enrolments allowed privilege escalation from teacher role into manager role to RCE. | https://github.com/lanzt/CVE-2020-14321 | | 
 | 20210503T06:10:28Z | CVE-2021-27552 | Steps for Exploitation  | https://github.com/sapkota2k20/CVE-2021-27552 | 未查询到CVE信息| 
 | 20210503T06:08:17Z | CVE-2021-27553 | Null | https://github.com/sapkota2k20/CVE-2021-27553 | 未查询到CVE信息| 
 | 20210503T03:52:36Z | CVE-2020-14295 | Authenticated SQL injection to command execution on Cacti 1.2.12  | https://github.com/0z09e/CVE-2020-14295 | A SQL injection issue in color.php in Cacti 1.2.12 allows an admin to inject SQL via the filter parameter. This can lead to remote command execution because the product accepts stacked queries.| 
@@ -62,7 +62,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210504T12:54:17Z | A personalized/enhanced re-creation of the Darkhotel %Double Star% APT exploit chain with a focus on Windows 8.1 and mixed with some of my own techniques | https://github.com/forrest-orr/DoubleStar | 7 | 0| 
+| 20210504T12:57:42Z | Forestry Thematic Exploitation Platform | https://github.com/cgi-eoss/ftep | 5 | 0| 
+| 20210504T12:54:17Z | A personalized/enhanced re-creation of the Darkhotel %Double Star% APT exploit chain with a focus on Windows 8.1 and mixed with some of my own techniques | https://github.com/forrest-orr/DoubleStar | 7 | 1| 
 | 20210504T12:51:27Z | Small crash client base for retarded(german) people who steal other people%s code. | https://github.com/narumii/Niko | 9 | 0| 
 | 20210504T12:49:59Z | sourflamez is one of the roblox exploits that supports multi API%s. Check it out here! | https://github.com/ice1919/official-sourflamez-download-page | 0 | 0| 
 | 20210504T12:47:10Z | sourflamez is a roblox exploit which supports multi API%s. Check here for more info!; https://sites.google.com/view/sourflamez/ | https://github.com/ice1919/test240452 | 0 | 0| 
@@ -71,7 +72,6 @@
 | 20210504T12:42:33Z | Null | https://github.com/neeavicc/Vob-Exploit | 0 | 0| 
 | 20210504T12:42:22Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9371 | 1513| 
 | 20210504T12:33:00Z | Implementation for %Exploiting Aliasing for Manga Restoration% (CVPR 2021) | https://github.com/msxie92/MangaRestoration | 0 | 0| 
-| 20210504T12:18:33Z | sourflamez is a roblox exploit which supports multi API%s. Check here for more info!; https://sites.google.com/view/sourflamez/ | https://github.com/ice1919/sourflamez | 0 | 0| 
 
 
 # backdoor on Github 推荐
