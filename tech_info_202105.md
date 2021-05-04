@@ -59,7 +59,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210504T00:38:02Z | Exploiting wordpress because it%s fun | https://github.com/keeperazra/sec440-wordpress | 0 | 0| 
+| 20210504T00:41:01Z | Exploiting wordpress because it%s fun | https://github.com/keeperazra/sec440-wordpress | 0 | 0| 
 | 20210504T00:22:13Z | A place where i store my proof of concepts of cve%s and exploits :) | https://github.com/purpler0se/poc | 0 | 0| 
 | 20210504T00:02:53Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 22 | 9| 
 | 20210503T23:56:42Z | Null | https://github.com/Nixcution/Ruby-for-ethical-hacking-exploits | 0 | 0| 
