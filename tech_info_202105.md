@@ -78,6 +78,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210505T12:32:04Z | the dashboard for managing the backdoor data for the luxr system | https://github.com/EDMONDGIHOZO/luxr_dashboard | 0 | 0| 
 | 20210505T12:07:44Z | Backdoor Attack in the Frequency Domain | https://github.com/FTrojanAttack/FTrojan | 0 | 0| 
 | 20210505T11:43:08Z | The best backdoor scanner there is. | https://github.com/iK4oS/backdoor.exe | 1 | 1| 
 | 20210505T11:12:30Z | Null | https://github.com/Hem1700/backdoor | 0 | 0| 
@@ -87,7 +88,6 @@
 | 20210505T04:01:10Z | Full-featured C2 framework which silently persists on webserver with a single-line PHP backdoor | https://github.com/nil0x42/phpsploit | 1261 | 343| 
 | 20210505T02:30:00Z | Simple Python Backdoor | https://github.com/zNairy/Sonaris | 6 | 0| 
 | 20210505T02:07:58Z | Meterpreter Encrypted Payload by C# | https://github.com/DamonMohammadbagher/NativePayload_Reverse_tcp | 132 | 64| 
-| 20210504T20:58:22Z | LKM rootkit for Linux Kernels 2.6.x/3.x/4.x/5.x (x86/x86_64 and ARM64) | https://github.com/m0nad/Diamorphine | 764 | 283| 
 
 
 # fuzz on Github 推荐
