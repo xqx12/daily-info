@@ -41,6 +41,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210505T12:18:56Z | A server sided anti exploit capable of handling common exploits smoothly.  | https://github.com/SilentsReplacement/BoboFighter | 5 | 2| 
 | 20210505T12:16:56Z | A cheat sheet that contains common enumeration and attack methods for Windows Active Directory. | https://github.com/S1ckB0y1337/Active-Directory-Exploitation-Cheat-Sheet | 1597 | 397| 
 | 20210505T12:16:14Z | Thi powershell script has got to run in remote windows host, even for pivoting | https://github.com/FabioDefilippo/winallenum | 2 | 1| 
 | 20210505T12:15:01Z | PS4 7.55 EXPLOIT HOST | https://github.com/therayner/projectcali755 | 0 | 0| 
@@ -50,7 +51,6 @@
 | 20210505T11:46:02Z | This is an optimized and efficient scene segmentation model which exploits multi-scale feature fusion technique for capturing contextual information from the scene. This model produces less parameters and FLOPS compare to many existing real-time scene segmentation model. | https://github.com/tanmaysingha/FANet | 0 | 1| 
 | 20210505T11:32:27Z | My collection of pentesting tools, notes and exploits | https://github.com/gikabyte27/Pentest | 0 | 0| 
 | 20210505T11:05:13Z | Null | https://github.com/VictorSuraj/php-exploit | 1 | 0| 
-| 20210505T10:53:23Z | The CTF requires an understanding of how Flask works in order to exploit an SSTI. | https://github.com/TheSerialiZator/FlaskyCTF-2020 | 1 | 0| 
 
 
 # backdoor on Github 推荐
