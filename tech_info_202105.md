@@ -63,6 +63,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210505T01:47:01Z | Roblox exploit DLL base using the LBI execution method | https://github.com/deaddlocust/LBI-Base | 0 | 1| 
 | 20210505T01:38:45Z | exploit-database-papers | https://github.com/offensive-security/exploitdb-papers | 300 | 41| 
 | 20210505T01:33:17Z | Kubernetes security and vulnerability tools and utilities. | https://github.com/kris-nova/hack | 10 | 1| 
 | 20210505T01:21:51Z | A happy heap editor to support your exploitation process :slightly_smiling_face: | https://github.com/gand3lf/heappy | 32 | 2| 
@@ -72,7 +73,6 @@
 | 20210505T00:51:02Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 16 | 11| 
 | 20210505T00:23:48Z | lab_tool is a system that allows you to do ethical hacking tests. | https://github.com/dylan14567/lab_tool | 1 | 3| 
 | 20210505T00:06:55Z | Hello, I had said in my ret2sys/ret2libc exploit attack write-up i%d be making another write-up for binaries with exploit mitigations such as NX and ASLR on, and today is that day I will start to work on my writeup! | https://github.com/Ret2plt/Ret2plt-Exploit-write-up | 0 | 0| 
-| 20210504T23:57:41Z | FULL-W2V: Fully Exploiting Data Reuse for W2V on GPU-Accelerated Systems | https://github.com/tlranda/FULL-W2V | 0 | 0| 
 
 
 # backdoor on Github 推荐
