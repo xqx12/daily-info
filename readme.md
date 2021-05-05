@@ -16,7 +16,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20210505T08:55:20Z | CVE-2021-31856 | Null | https://github.com/ssst0n3/CVE-2021-31856 | A SQL Injection vulnerability in the REST API in Layer5 Meshery 0.5.2 allows an attacker to execute arbitrary SQL commands via the /experimental/patternfiles endpoint (order parameter in GetMesheryPatterns in models/meshery_pattern_persister.go).| 
+| 20210505T08:55:20Z | CVE-2021-31856 | Null | https://github.com/ssst0n3/CVE-2021-31856 | | 
 | 20210505T04:58:52Z | CVE-2021-3156 | Null | https://github.com/ajtech-hue/CVE-2021-3156-Mitigation-ShellScript-Build | Sudo before 1.9.5p2 contains an off-by-one error that can result in a heap-based buffer overflow, which allows privilege escalation to root via %sudoedit -s% and a command-line argument that ends with a single backslash character.| 
 | 20210505T01:02:05Z | CVE-2021-0259 | Null | https://github.com/GoogleProjectZer0/CVE-2021-0259 | | 
 | 20210505T01:02:01Z | CVE-2021-0257 | Null | https://github.com/GoogleProjectZer0/CVE-2021-0257 | On Juniper Networks MX Series and EX9200 Series platforms with Trio-based MPCs (Modular Port Concentrators) where Integrated Routing and Bridging (IRB) interfaces are configured and mapped to a VPLS instance or a Bridge-Domain, certain Layer 2 network events at Customer Edge (CE) devices may cause memory leaks in the MPC of Provider Edge (PE) devices which can cause an out of memory condition and MPC restart. When this issue occurs, there will be temporary traffic interruption until the MPC is restored. An administrator can use the following CLI command to monitor the status of memory usage level of the MPC: user@device> show system resource-monitor fpc FPC Resource Usage Summary Free Heap Mem Watermark : 20 % Free NH Mem Watermark : 20 % Free Filter Mem Watermark : 20 % * - Watermark reached Slot # % Heap Free RTT Average RTT 1 87 PFE # % ENCAP mem Free % NH mem Free % FW mem Free 0 NA 88 99 1 NA 89 99 When the issue is occurring, the value of “% NH mem Free” will go down until the MPC restarts. This issue affects MX Series and EX9200 Series with Trio-based PFEs (Packet Forwarding Engines), including MX-MPC1-3D, MX-MPC1E-3D, MX-MPC2-3D, MX-MPC2E-3D, MPC-3D-16XGE, and CHAS-MXxx Series MPCs. No other products or platforms are affected by this issue. This issue affects Juniper Networks Junos OS on MX Series, EX9200 Series: 17.3 versions prior to 17.3R3-S10; 17.4 versions prior to 17.4R3-S3; 18.2 versions prior to 18.2R3-S7; 18.3 versions prior to 18.3R3-S4; 18.4 versions prior to 18.4R3-S6; 19.2 versions prior to 19.2R3-S2; 19.3 versions prior to 19.3R3-S1; 19.4 versions prior to 19.4R2-S2, 19.4R3; 20.2 versions prior to 20.2R1-S3, 20.2R2; 20.3 versions prior to 20.3R1-S1,, 20.3R2. This issue does not affect Juniper Networks Junos OS: 17.3 versions prior to 17.3R3-S8; 17.4 versions prior to 17.4R3-S2; 18.1; 18.2 versions prior to 18.2R3-S4; 18.3 versions prior to 18.3R3-S2; 18.4 versions prior to 18.4R3-S1; 19.1; 19.2 versions prior to 19.2R2; 19.3 versions prior to 19.3R3; 19.4 versions prior to 19.4R2.| 
@@ -41,16 +41,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210505T12:12:56Z | PS4 7.55 EXPLOIT HOST | https://github.com/therayner/projectcali755 | 0 | 0| 
+| 20210505T12:15:01Z | PS4 7.55 EXPLOIT HOST | https://github.com/therayner/projectcali755 | 0 | 0| 
+| 20210505T12:14:17Z | A cheat sheet that contains common enumeration and attack methods for Windows Active Directory. | https://github.com/S1ckB0y1337/Active-Directory-Exploitation-Cheat-Sheet | 1596 | 397| 
+| 20210505T12:14:07Z | xcube is a Python package for generating and exploiting data cubes powered by xarray, dask, and zarr. | https://github.com/dcs4cop/xcube | 74 | 13| 
 | 20210505T12:12:46Z | This bash script will help you to hack remote hosts  | https://github.com/FabioDefilippo/linuxallremote | 11 | 3| 
 | 20210505T12:02:46Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 22 | 9| 
 | 20210505T11:46:02Z | This is an optimized and efficient scene segmentation model which exploits multi-scale feature fusion technique for capturing contextual information from the scene. This model produces less parameters and FLOPS compare to many existing real-time scene segmentation model. | https://github.com/tanmaysingha/FANet | 0 | 1| 
 | 20210505T11:32:27Z | My collection of pentesting tools, notes and exploits | https://github.com/gikabyte27/Pentest | 0 | 0| 
 | 20210505T11:05:13Z | Null | https://github.com/VictorSuraj/php-exploit | 1 | 0| 
 | 20210505T10:53:23Z | The CTF requires an understanding of how Flask works in order to exploit an SSTI. | https://github.com/TheSerialiZator/FlaskyCTF-2020 | 1 | 0| 
-| 20210505T10:17:24Z | A cheat sheet that contains common enumeration and attack methods for Windows Active Directory. | https://github.com/S1ckB0y1337/Active-Directory-Exploitation-Cheat-Sheet | 1595 | 397| 
 | 20210505T10:09:17Z | Null | https://github.com/johnreysd/Dahood-Crasher-Exploit | 0 | 0| 
-| 20210505T10:03:57Z | Null | https://github.com/duongdang1/exploit-db-CLI | 0 | 0| 
 
 
 # backdoor on Github 推荐
