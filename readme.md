@@ -55,11 +55,11 @@
 | 20210504T23:43:41Z |  Just another project for monitoring public exploits for CVEs | https://github.com/ARPSyndicate/cvemon | 0 | 0| 
 | 20210504T23:24:58Z | Kubernetes security and vulnerability tools and utilities. | https://github.com/kris-nova/hack | 9 | 1| 
 | 20210504T23:02:43Z | Raspberry Pi 0 automate Exploitation OSINT  | https://github.com/F0rbidden-Equation/Pi_OSINT | 0 | 0| 
-| 20210504T23:02:40Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 22 | 9| 
 | 20210504T22:40:34Z | Small crash client base for retarded(german) people who steal other people%s code. | https://github.com/narumii/Niko | 9 | 0| 
 | 20210504T22:25:53Z | GitLab Arbitrary File Read Exploit | https://github.com/nickvdyck/gitlab-cve-2020-10977 | 0 | 0| 
 | 20210504T21:45:13Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9375 | 1514| 
 | 20210504T21:11:01Z | Unit tests for blue teams to aid with building detections for some common macOS post exploitation methods. | https://github.com/cedowens/Swift-Attack | 31 | 3| 
+| 20210504T21:10:21Z | Phonesploit tool which exploit devices connected to Adb | https://github.com/TripleHat/phonesploit | 1 | 0| 
 
 
 # backdoor on Github 推荐
