@@ -63,6 +63,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210505T00:51:02Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 16 | 11| 
 | 20210505T00:29:28Z | Kubernetes security and vulnerability tools and utilities. | https://github.com/kris-nova/hack | 9 | 1| 
 | 20210505T00:23:48Z | lab_tool is a system that allows you to do ethical hacking tests. | https://github.com/dylan14567/lab_tool | 1 | 3| 
 | 20210505T00:06:55Z | Hello, I had said in my ret2sys/ret2libc exploit attack write-up i%d be making another write-up for binaries with exploit mitigations such as NX and ASLR on, and today is that day I will start to work on my writeup! | https://github.com/Ret2plt/Ret2plt-Exploit-write-up | 0 | 0| 
@@ -72,7 +73,6 @@
 | 20210504T23:02:43Z | Raspberry Pi 0 automate Exploitation OSINT  | https://github.com/F0rbidden-Equation/Pi_OSINT | 0 | 0| 
 | 20210504T22:40:34Z | Small crash client base for retarded(german) people who steal other people%s code. | https://github.com/narumii/Niko | 9 | 0| 
 | 20210504T22:25:53Z | GitLab Arbitrary File Read Exploit | https://github.com/nickvdyck/gitlab-cve-2020-10977 | 0 | 0| 
-| 20210504T21:45:13Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9375 | 1513| 
 
 
 # backdoor on Github 推荐
