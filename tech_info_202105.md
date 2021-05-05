@@ -63,7 +63,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210505T00:20:29Z | lab_tool is a system that allows you to do ethical hacking tests. | https://github.com/dylan14567/lab_tool | 1 | 3| 
+| 20210505T00:23:05Z | lab_tool is a system that allows you to do ethical hacking tests. | https://github.com/dylan14567/lab_tool | 1 | 3| 
 | 20210505T00:06:55Z | Hello, I had said in my ret2sys/ret2libc exploit attack write-up i%d be making another write-up for binaries with exploit mitigations such as NX and ASLR on, and today is that day I will start to work on my writeup! | https://github.com/Ret2plt/Ret2plt-Exploit-write-up | 0 | 0| 
 | 20210505T00:02:54Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 22 | 9| 
 | 20210504T23:57:41Z | FULL-W2V: Fully Exploiting Data Reuse for W2V on GPU-Accelerated Systems | https://github.com/tlranda/FULL-W2V | 0 | 0| 
@@ -93,11 +93,11 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210505T00:19:22Z | Null | https://github.com/rittermi/Feeling-Fuzzy | 0 | 0| 
 | 20210505T00:09:36Z | CS 4152 Project | https://github.com/nicbarone/Fuzzy-Kiwi | 0 | 0| 
 | 20210505T00:03:41Z | Fuzzing cryptographic libraries. Magic bug printer go brrrr. | https://github.com/guidovranken/cryptofuzz | 278 | 37| 
 | 20210504T23:56:18Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 302 | 23| 
 | 20210504T23:03:38Z | Fuzz testing for go. | https://github.com/google/gofuzz | 1038 | 97| 
-| 20210504T22:49:15Z | Null | https://github.com/rittermi/Feeling-Fuzzy | 0 | 0| 
 | 20210504T22:15:47Z | FormatFuzzer is a framework for high-efficiency, high-quality generation and parsing of binary inputs. | https://github.com/uds-se/FormatFuzzer | 122 | 13| 
 | 20210504T21:40:04Z | Repository holding database dumps from getfursu.it | https://github.com/veelkoov/fuzzrake-data | 0 | 0| 
 | 20210504T21:38:23Z | Collection of code in python for machine learning course in university | https://github.com/GGkas/neuro-fuzzy | 0 | 0| 

@@ -82,7 +82,6 @@
 | --- | --- | --- | --- | ---| 
 | 20210504T23:56:18Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 302 | 23| 
 | 20210504T23:03:38Z | Fuzz testing for go. | https://github.com/google/gofuzz | 1038 | 97| 
-| 20210504T22:49:15Z | Null | https://github.com/rittermi/Feeling-Fuzzy | 0 | 0| 
 | 20210504T22:15:47Z | FormatFuzzer is a framework for high-efficiency, high-quality generation and parsing of binary inputs. | https://github.com/uds-se/FormatFuzzer | 122 | 13| 
 | 20210504T21:40:04Z | Repository holding database dumps from getfursu.it | https://github.com/veelkoov/fuzzrake-data | 0 | 0| 
 | 20210504T21:38:23Z | Collection of code in python for machine learning course in university | https://github.com/GGkas/neuro-fuzzy | 0 | 0| 
@@ -90,6 +89,7 @@
 | 20210504T20:44:59Z | Null | https://github.com/vjsantojaca/fuzzy-map-antiquity | 0 | 0| 
 | 20210504T20:22:24Z | Software for fuzzing, used on web application pentestings. | https://github.com/NESCAU-UFLA/FuzzingTool | 66 | 15| 
 | 20210504T20:11:38Z | Group 4C Fuzzy Logic Medieval Chess AI Senior Project | https://github.com/arizonagranger/SeniorProjectFuzzyLogicChess | 1 | 1| 
+| 20210504T19:36:59Z | App to create broken files, can be used as fuzzer for some apps. | https://github.com/qarmin/create_broken_files | 0 | 0| 
 
 
 
