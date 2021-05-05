@@ -93,16 +93,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210505T01:16:59Z | Script to discover and trigger a buffer overflow vulnerability in applications | https://github.com/AvetisP/Fuzzer.py | 0 | 0| 
-| 20210505T01:15:27Z | Fuzz testing for go. | https://github.com/google/gofuzz | 1037 | 97| 
-| 20210505T00:55:30Z | Software for fuzzing, used on web application pentestings. | https://github.com/NESCAU-UFLA/FuzzingTool | 67 | 15| 
-| 20210505T00:53:16Z | CS 4152 Project | https://github.com/nicbarone/Fuzzy-Kiwi | 0 | 0| 
-| 20210505T00:51:08Z | Null | https://github.com/paul-gomes/Neuro-Fuzzy-System | 0 | 0| 
-| 20210505T00:46:04Z | Cyber ​​Lab - Protection | https://github.com/Nadavkeysar/Fuzzing | 0 | 0| 
-| 20210505T00:30:30Z | Coding practice for HTML/CSS/anything else web based | https://github.com/FuzzyPumpkin/FuzzyPumpkin.github.io | 5 | 1| 
-| 20210505T00:19:22Z | Null | https://github.com/rittermi/Feeling-Fuzzy | 0 | 0| 
-| 20210505T00:03:41Z | Fuzzing cryptographic libraries. Magic bug printer go brrrr. | https://github.com/guidovranken/cryptofuzz | 278 | 37| 
-| 20210504T23:56:18Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 302 | 23| 
+| 20210505T12:42:21Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 312 | 24| 
+| 20210505T12:38:44Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 31341 | 16064| 
+| 20210505T12:24:03Z | Personal website of Laurence Hughes | https://github.com/fuzzylogicxx/fuzzylogic | 4 | 1| 
+| 20210505T12:22:41Z | Fuzzing test lab | https://github.com/zodf0055980/NYCU-Software-Testing-2021-Lab8 | 7 | 0| 
+| 20210505T12:20:09Z | Null | https://github.com/mnurichsan/beasiswa-fuzzy | 0 | 0| 
+| 20210505T12:17:26Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 4 | 4| 
+| 20210505T11:34:43Z | Research project on Software Technology for WebAssembly WASM (on superoptimization, diversification, fuzzing) | https://github.com/KTH/slumps | 27 | 4| 
+| 20210505T11:20:31Z | Web application fuzzer | https://github.com/xmendez/wfuzz | 3662 | 938| 
+| 20210505T11:15:14Z | Null | https://github.com/AFKD98/fuzzififcation | 0 | 0| 
+| 20210505T11:01:58Z | This fuzzy inference using s-norm Zadeh, Lukasiewicz Implication, and Mamdani Combination. The case study is how to find amount of swimming pool%s visitors if the temperature is 21 degree.  | https://github.com/arivle/FuzzyInference | 0 | 0| 
 
 
 
