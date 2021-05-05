@@ -93,8 +93,9 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210505T00:30:30Z | Coding practice for HTML/CSS/anything else web based | https://github.com/FuzzyPumpkin/FuzzyPumpkin.github.io | 5 | 1| 
+| 20210505T00:25:35Z | CS 4152 Project | https://github.com/nicbarone/Fuzzy-Kiwi | 0 | 0| 
 | 20210505T00:19:22Z | Null | https://github.com/rittermi/Feeling-Fuzzy | 0 | 0| 
-| 20210505T00:09:36Z | CS 4152 Project | https://github.com/nicbarone/Fuzzy-Kiwi | 0 | 0| 
 | 20210505T00:03:41Z | Fuzzing cryptographic libraries. Magic bug printer go brrrr. | https://github.com/guidovranken/cryptofuzz | 278 | 37| 
 | 20210504T23:56:18Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 302 | 23| 
 | 20210504T23:03:38Z | Fuzz testing for go. | https://github.com/google/gofuzz | 1038 | 97| 
@@ -102,7 +103,6 @@
 | 20210504T21:40:04Z | Repository holding database dumps from getfursu.it | https://github.com/veelkoov/fuzzrake-data | 0 | 0| 
 | 20210504T21:38:23Z | Collection of code in python for machine learning course in university | https://github.com/GGkas/neuro-fuzzy | 0 | 0| 
 | 20210504T21:05:39Z | Null | https://github.com/georgehodgkins/libpaxos3-fuzzing | 0 | 0| 
-| 20210504T20:44:59Z | Null | https://github.com/vjsantojaca/fuzzy-map-antiquity | 0 | 0| 
 
 
 
