@@ -93,6 +93,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210505T00:51:08Z | Null | https://github.com/paul-gomes/Neuro-Fuzzy-System | 0 | 0| 
 | 20210505T00:46:04Z | Cyber ​​Lab - Protection | https://github.com/Nadavkeysar/Fuzzing | 0 | 0| 
 | 20210505T00:44:22Z | CS 4152 Project | https://github.com/nicbarone/Fuzzy-Kiwi | 0 | 0| 
 | 20210505T00:30:30Z | Coding practice for HTML/CSS/anything else web based | https://github.com/FuzzyPumpkin/FuzzyPumpkin.github.io | 5 | 1| 
@@ -102,7 +103,6 @@
 | 20210504T23:03:38Z | Fuzz testing for go. | https://github.com/google/gofuzz | 1038 | 97| 
 | 20210504T22:15:47Z | FormatFuzzer is a framework for high-efficiency, high-quality generation and parsing of binary inputs. | https://github.com/uds-se/FormatFuzzer | 122 | 13| 
 | 20210504T21:40:04Z | Repository holding database dumps from getfursu.it | https://github.com/veelkoov/fuzzrake-data | 0 | 0| 
-| 20210504T21:38:23Z | Collection of code in python for machine learning course in university | https://github.com/GGkas/neuro-fuzzy | 0 | 0| 
 
 
 
