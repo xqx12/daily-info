@@ -32,7 +32,7 @@
 | 20210505T22:07:13Z | CVE-2021-24265 | Null | https://github.com/GoogleProjectZer0/CVE-2021-24265 | The â€œRife Elementor Extensions & Templatesâ€? WordPress Plugin before 1.1.6 has a widget that is vulnerable to stored Cross-Site Scripting(XSS) by lower-privileged users such as contributors, all via a similar method.| 
 | 20210505T22:07:10Z | CVE-2021-24276 | Null | https://github.com/GoogleProjectZer0/CVE-2021-24276 | The Contact Form by Supsystic WordPress plugin before 1.7.15 did not sanitise the tab parameter of its options page before outputting it in an attribute, leading to a reflected Cross-Site Scripting issue| 
 | 20210505T22:07:07Z | CVE-2021-24273 | Null | https://github.com/GoogleProjectZer0/CVE-2021-24273 | The â€œClever Addons for Elementorâ€? WordPress Plugin before 2.1.0 has several widgets that are vulnerable to stored Cross-Site Scripting (XSS) by lower-privileged users such as contributors, all via a similar method.| 
-| 20210505T22:07:04Z | CVE-2021-24260 | Null | https://github.com/GoogleProjectZer0/CVE-2021-24260 | | 
+| 20210505T22:07:04Z | CVE-2021-24260 | Null | https://github.com/GoogleProjectZer0/CVE-2021-24260 | The â€œLivemesh Addons for Elementorâ€? WordPress Plugin before 6.8 has several widgets that are vulnerable to stored Cross-Site Scripting (XSS) by lower-privileged users such as contributors, all via a similar method.| 
 | 20210505T22:07:00Z | CVE-2021-24268 | Null | https://github.com/GoogleProjectZer0/CVE-2021-24268 | The â€œJetWidgets For Elementorâ€? WordPress Plugin before 1.0.9 has several widgets that are vulnerable to stored Cross-Site Scripting (XSS) by lower-privileged users such as contributors, all via a similar method.| 
 | 20210505T22:06:56Z | CVE-2021-26909 | Null | https://github.com/GoogleProjectZer0/CVE-2021-26909 | Automox Agent prior to version 31 uses an insufficiently protected S3 bucket endpoint for storing sensitive files, which could be brute-forced by an attacker to subvert an organization%s security program. The issue has since been fixed in version 31 of the Automox Agent.| 
 | 20210505T22:06:53Z | CVE-2020-22785 | Null | https://github.com/GoogleProjectZer0/CVE-2020-22785 | Etherpad < 1.8.3 is affected by a missing lock check which could cause a denial of service. Aggressively targeting random pad import endpoints with empty data would flatten all pads due to lack of rate limiting and missing ownership check.| 
@@ -63,6 +63,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210506T01:47:40Z | Collection of exploits, mainly to see where I%m at. | https://github.com/Crystalware/HEVD-Exploits | 1 | 0| 
 | 20210506T01:33:06Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9384 | 1516| 
 | 20210506T01:31:33Z | PwnWiki shared Exploit file archive | https://github.com/JustYoomoon/Exploit | 0 | 0| 
 | 20210506T01:03:36Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 22 | 9| 
@@ -72,7 +73,6 @@
 | 20210506T00:30:27Z | CDK is an open-sourced container penetration toolkit, offering stable exploitation in different slimmed containers without any OS dependency. It comes with penetration tools and many powerful PoCs/EXPs helps you to escape container and takeover K8s cluster easily. | https://github.com/cdk-team/CDK | 1353 | 196| 
 | 20210506T00:26:24Z | sourflamez is one of the roblox exploits that supports multi API%s. Check it out here! | https://github.com/ice1919/official-sourflamez-download-page | 1 | 0| 
 | 20210506T00:21:35Z | Unsorted, raw, ugly & probably poorly usable tools for reversing, exploit and pentest | https://github.com/hugsy/stuff | 149 | 49| 
-| 20210505T23:36:45Z | Null | https://github.com/xing1357/Exploitable | 2 | 0| 
 
 
 # backdoor on Github 推荐
