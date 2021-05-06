@@ -24,8 +24,8 @@
 | 20210505T22:07:00Z | CVE-2021-24268 | Null | https://github.com/GoogleProjectZer0/CVE-2021-24268 | The â€œJetWidgets For Elementorâ€? WordPress Plugin before 1.0.9 has several widgets that are vulnerable to stored Cross-Site Scripting (XSS) by lower-privileged users such as contributors, all via a similar method.| 
 | 20210505T22:06:56Z | CVE-2021-26909 | Null | https://github.com/GoogleProjectZer0/CVE-2021-26909 | Automox Agent prior to version 31 uses an insufficiently protected S3 bucket endpoint for storing sensitive files, which could be brute-forced by an attacker to subvert an organization%s security program. The issue has since been fixed in version 31 of the Automox Agent.| 
 | 20210505T22:06:53Z | CVE-2020-22785 | Null | https://github.com/GoogleProjectZer0/CVE-2020-22785 | Etherpad < 1.8.3 is affected by a missing lock check which could cause a denial of service. Aggressively targeting random pad import endpoints with empty data would flatten all pads due to lack of rate limiting and missing ownership check.| 
-| 20210505T22:06:49Z | CVE-2021-20708 | Null | https://github.com/GoogleProjectZer0/CVE-2021-20708 | NEC Aterm devices (Aterm WF1200CR firmware Ver1.3.2 and earlier, Aterm WG1200CR firmware Ver1.3.3 and earlier, and Aterm WG2600HS firmware Ver1.5.1 and earlier) allow authenticated attackers to execute arbitrary OS commands by sending a specially crafted request to a specific URL.| 
-| 20210505T22:01:46Z | CVE-2020-22783 | Null | https://github.com/GoogleProjectZer0/CVE-2020-22783 | | 
+| 20210505T22:06:49Z | CVE-2021-20708 | Null | https://github.com/GoogleProjectZer0/CVE-2021-20708 | | 
+| 20210505T22:01:46Z | CVE-2020-22783 | Null | https://github.com/GoogleProjectZer0/CVE-2020-22783 | Etherpad <1.8.3 stored passwords used by users insecurely in the database and in log files. This affects every database backend supported by Etherpad.| 
 
 
 # klee on Github 推荐
@@ -79,7 +79,7 @@
 | 20210505T23:08:43Z | A heavily edited version of Privoxy intended for fuzzing. | https://github.com/MegaManSec/privoxy-fuzz | 0 | 0| 
 | 20210505T21:53:59Z | Fuzzing the OS-Peripheral boundary without hardware | https://github.com/buszk/Drifuzz | 0 | 0| 
 | 20210505T21:44:51Z | Null | https://github.com/JonathanScialpi/CorDapp_Fuzzer | 0 | 0| 
-| 20210505T21:36:01Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 3499 | 809| 
+| 20210505T21:36:01Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 3499 | 810| 
 | 20210505T21:19:57Z | The code behind getfursu.it | https://github.com/veelkoov/fuzzrake | 6 | 0| 
 | 20210505T21:16:30Z | Repository holding database dumps from getfursu.it | https://github.com/veelkoov/fuzzrake-data | 0 | 0| 
 | 20210505T21:12:38Z | Fuzzing cryptographic libraries. Magic bug printer go brrrr. | https://github.com/guidovranken/cryptofuzz | 278 | 37| 

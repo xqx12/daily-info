@@ -36,14 +36,14 @@
 | 20210505T22:07:00Z | CVE-2021-24268 | Null | https://github.com/GoogleProjectZer0/CVE-2021-24268 | The â€œJetWidgets For Elementorâ€? WordPress Plugin before 1.0.9 has several widgets that are vulnerable to stored Cross-Site Scripting (XSS) by lower-privileged users such as contributors, all via a similar method.| 
 | 20210505T22:06:56Z | CVE-2021-26909 | Null | https://github.com/GoogleProjectZer0/CVE-2021-26909 | Automox Agent prior to version 31 uses an insufficiently protected S3 bucket endpoint for storing sensitive files, which could be brute-forced by an attacker to subvert an organization%s security program. The issue has since been fixed in version 31 of the Automox Agent.| 
 | 20210505T22:06:53Z | CVE-2020-22785 | Null | https://github.com/GoogleProjectZer0/CVE-2020-22785 | Etherpad < 1.8.3 is affected by a missing lock check which could cause a denial of service. Aggressively targeting random pad import endpoints with empty data would flatten all pads due to lack of rate limiting and missing ownership check.| 
-| 20210505T22:06:49Z | CVE-2021-20708 | Null | https://github.com/GoogleProjectZer0/CVE-2021-20708 | NEC Aterm devices (Aterm WF1200CR firmware Ver1.3.2 and earlier, Aterm WG1200CR firmware Ver1.3.3 and earlier, and Aterm WG2600HS firmware Ver1.5.1 and earlier) allow authenticated attackers to execute arbitrary OS commands by sending a specially crafted request to a specific URL.| 
-| 20210505T22:01:46Z | CVE-2020-22783 | Null | https://github.com/GoogleProjectZer0/CVE-2020-22783 | | 
+| 20210505T22:06:49Z | CVE-2021-20708 | Null | https://github.com/GoogleProjectZer0/CVE-2021-20708 | | 
+| 20210505T22:01:46Z | CVE-2020-22783 | Null | https://github.com/GoogleProjectZer0/CVE-2020-22783 | Etherpad <1.8.3 stored passwords used by users insecurely in the database and in log files. This affects every database backend supported by Etherpad.| 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210506T01:35:18Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 的 Klee One 的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 496 | 11| 
+| 20210506T01:39:38Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 的 Klee One 的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 497 | 11| 
 | 20210506T00:34:14Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1681 | 491| 
 | 20210505T14:23:55Z | OVO | https://github.com/iKleeOVO/iKleeOVO.github.io | 0 | 1| 
 | 20210505T01:40:45Z | Create CFGs and compute complexity metrics for Python, C++, and Java code. | https://github.com/hmc-alpaqa/metrinome | 11 | 0| 
@@ -93,16 +93,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210506T00:56:39Z | Null | https://github.com/averiebeltran/fuzzy-spoon | 0 | 0| 
-| 20210506T00:46:34Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 324 | 24| 
+| 20210506T01:32:26Z | Null | https://github.com/averiebeltran/fuzzy-spoon | 0 | 0| 
+| 20210506T01:20:35Z | Null | https://github.com/vitorglemos/fuzzy-phishing-similarity | 0 | 0| 
+| 20210506T01:07:04Z | Null | https://github.com/shelvenzhou/ferry-fuzzbench | 0 | 0| 
+| 20210506T01:03:21Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 325 | 24| 
+| 20210506T01:03:20Z | Null | https://github.com/AFKD98/fuzzififcation | 0 | 0| 
 | 20210506T00:12:37Z | Bazz Fuss guitar fuzz pedal on a stomp switch | https://github.com/mstratman/stompfuzz | 4 | 0| 
 | 20210506T00:06:32Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 4 | 4| 
 | 20210506T00:06:05Z | Coding practice for HTML/CSS/anything else web based | https://github.com/FuzzyPumpkin/FuzzyPumpkin.github.io | 5 | 1| 
 | 20210505T23:21:43Z | Null | https://github.com/Iamcrazymanny/fuzzy-enigma | 0 | 0| 
 | 20210505T23:19:46Z | Null | https://github.com/Maysbae/fuzzy-eureka | 0 | 0| 
-| 20210505T23:15:24Z | Null | https://github.com/VeriBlock/fuzz-corpus | 0 | 1| 
-| 20210505T23:08:43Z | A heavily edited version of Privoxy intended for fuzzing. | https://github.com/MegaManSec/privoxy-fuzz | 0 | 0| 
-| 20210505T21:53:59Z | Fuzzing the OS-Peripheral boundary without hardware | https://github.com/buszk/Drifuzz | 0 | 0| 
 
 
 
