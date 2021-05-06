@@ -93,7 +93,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210506T00:52:35Z | Null | https://github.com/averiebeltran/fuzzy-spoon | 0 | 0| 
+| 20210506T00:56:39Z | Null | https://github.com/averiebeltran/fuzzy-spoon | 0 | 0| 
 | 20210506T00:46:34Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 324 | 24| 
 | 20210506T00:12:37Z | Bazz Fuss guitar fuzz pedal on a stomp switch | https://github.com/mstratman/stompfuzz | 4 | 0| 
 | 20210506T00:06:32Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 4 | 4| 
