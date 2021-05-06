@@ -17,6 +17,8 @@
 | 20210506 | 由于 Instagrams 的授权令牌存在越权使用的问题，可能造成 instagrams 或者 Facebook 账户被接管。 | http://ysamm.com/?p=684| 
 | 20210506 | Mystikal：macOS 的 Payload 生成工具。 | https://sec.today/pulses/226d9a2f-c5ea-478b-9744-1afa37e297e2/| 
 | 20210506 | Parallels Desktop EDPMC（Read Performance-Monitoring Counter）的 CVE-2021-31424 和 CVE-2021-31427 漏洞详情。 | https://sec.today/pulses/62aa9931-c1cf-4bd4-b12d-b68d61b8cd0e/| 
+| 20210506 | Mystikal：macOS 的 Payload 生成工具。 | https://posts.specterops.io/introducing-mystikal-4fbd2f7ae520?gi=96475659c866| 
+| 20210506 | Parallels Desktop EDPMC（Read Performance-Monitoring Counter）的 CVE-2021-31424 和 CVE-2021-31427 漏洞详情。 | https://www.zerodayinitiative.com/blog/2021/4/26/parallels-desktop-rdpmc-hypercall-interface-and-vulnerabilities| 
 | 20210503 | pystinger：通过webshell实现SOCK4代理与端口映射工具。 | https://securityonline.info/pystinger-bypass-firewall-for-traffic-forwarding-using-webshell/| 
 | 20210503 | 恶意软件分析：针对Ragnarok勒索软件。 | https://www.reddit.com/r/ReverseEngineering/comments/n1771o/malware_analysis_ragnarok_ransomware/| 
 
@@ -44,7 +46,7 @@
 | 20210505T22:07:13Z | CVE-2021-24265 | Null | https://github.com/GoogleProjectZer0/CVE-2021-24265 | The â€œRife Elementor Extensions & Templatesâ€? WordPress Plugin before 1.1.6 has a widget that is vulnerable to stored Cross-Site Scripting(XSS) by lower-privileged users such as contributors, all via a similar method.| 
 | 20210505T22:07:10Z | CVE-2021-24276 | Null | https://github.com/GoogleProjectZer0/CVE-2021-24276 | The Contact Form by Supsystic WordPress plugin before 1.7.15 did not sanitise the tab parameter of its options page before outputting it in an attribute, leading to a reflected Cross-Site Scripting issue| 
 | 20210505T22:07:07Z | CVE-2021-24273 | Null | https://github.com/GoogleProjectZer0/CVE-2021-24273 | The â€œClever Addons for Elementorâ€? WordPress Plugin before 2.1.0 has several widgets that are vulnerable to stored Cross-Site Scripting (XSS) by lower-privileged users such as contributors, all via a similar method.| 
-| 20210505T22:07:04Z | CVE-2021-24260 | Null | https://github.com/GoogleProjectZer0/CVE-2021-24260 | | 
+| 20210505T22:07:04Z | CVE-2021-24260 | Null | https://github.com/GoogleProjectZer0/CVE-2021-24260 | The â€œLivemesh Addons for Elementorâ€? WordPress Plugin before 6.8 has several widgets that are vulnerable to stored Cross-Site Scripting (XSS) by lower-privileged users such as contributors, all via a similar method.| 
 | 20210505T22:07:00Z | CVE-2021-24268 | Null | https://github.com/GoogleProjectZer0/CVE-2021-24268 | The â€œJetWidgets For Elementorâ€? WordPress Plugin before 1.0.9 has several widgets that are vulnerable to stored Cross-Site Scripting (XSS) by lower-privileged users such as contributors, all via a similar method.| 
 | 20210505T22:06:56Z | CVE-2021-26909 | Null | https://github.com/GoogleProjectZer0/CVE-2021-26909 | Automox Agent prior to version 31 uses an insufficiently protected S3 bucket endpoint for storing sensitive files, which could be brute-forced by an attacker to subvert an organization%s security program. The issue has since been fixed in version 31 of the Automox Agent.| 
 | 20210505T22:06:53Z | CVE-2020-22785 | Null | https://github.com/GoogleProjectZer0/CVE-2020-22785 | Etherpad < 1.8.3 is affected by a missing lock check which could cause a denial of service. Aggressively targeting random pad import endpoints with empty data would flatten all pads due to lack of rate limiting and missing ownership check.| 
@@ -74,7 +76,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210506T12:01:02Z | I%m proud of myself   | https://github.com/ethereal03/ExploitSearcher | 0 | 0| 
+| 20210506T12:01:41Z | I%m proud of myself   | https://github.com/ethereal03/ExploitSearcher | 0 | 0| 
 | 20210506T11:56:14Z | High level Open Port exploitation framework. | https://github.com/cyb3rm0nk3y/OpenSploit | 0 | 0| 
 | 20210506T11:45:13Z | CDK is an open-sourced container penetration toolkit, offering stable exploitation in different slimmed containers without any OS dependency. It comes with penetration tools and many powerful PoCs/EXPs helps you to escape container and takeover K8s cluster easily. | https://github.com/cdk-team/CDK | 1356 | 197| 
 | 20210506T11:35:45Z | My collection of pentesting tools, notes and exploits | https://github.com/gikabyte27/Pentest | 0 | 0| 

@@ -17,6 +17,8 @@
 | 20210506 | 由于 Instagrams 的授权令牌存在越权使用的问题，可能造成 instagrams 或者 Facebook 账户被接管。 | http://ysamm.com/?p=684| 
 | 20210506 | Mystikal：macOS 的 Payload 生成工具。 | https://sec.today/pulses/226d9a2f-c5ea-478b-9744-1afa37e297e2/| 
 | 20210506 | Parallels Desktop EDPMC（Read Performance-Monitoring Counter）的 CVE-2021-31424 和 CVE-2021-31427 漏洞详情。 | https://sec.today/pulses/62aa9931-c1cf-4bd4-b12d-b68d61b8cd0e/| 
+| 20210506 | Mystikal：macOS 的 Payload 生成工具。 | https://posts.specterops.io/introducing-mystikal-4fbd2f7ae520?gi=96475659c866| 
+| 20210506 | Parallels Desktop EDPMC（Read Performance-Monitoring Counter）的 CVE-2021-31424 和 CVE-2021-31427 漏洞详情。 | https://www.zerodayinitiative.com/blog/2021/4/26/parallels-desktop-rdpmc-hypercall-interface-and-vulnerabilities| 
 
 
 # 安全维基 推荐
@@ -48,7 +50,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210506T12:01:02Z | I%m proud of myself   | https://github.com/ethereal03/ExploitSearcher | 0 | 0| 
+| 20210506T12:01:41Z | I%m proud of myself   | https://github.com/ethereal03/ExploitSearcher | 0 | 0| 
 | 20210506T11:56:14Z | High level Open Port exploitation framework. | https://github.com/cyb3rm0nk3y/OpenSploit | 0 | 0| 
 | 20210506T11:45:13Z | CDK is an open-sourced container penetration toolkit, offering stable exploitation in different slimmed containers without any OS dependency. It comes with penetration tools and many powerful PoCs/EXPs helps you to escape container and takeover K8s cluster easily. | https://github.com/cdk-team/CDK | 1356 | 197| 
 | 20210506T11:35:45Z | My collection of pentesting tools, notes and exploits | https://github.com/gikabyte27/Pentest | 0 | 0| 
