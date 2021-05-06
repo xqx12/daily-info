@@ -37,7 +37,7 @@
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210506T12:29:28Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 的 Klee One 的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 530 | 13| 
+| 20210506T12:29:32Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 的 Klee One 的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 531 | 13| 
 | 20210506T11:32:54Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1683 | 491| 
 | 20210506T04:27:17Z | A personnal UI library made as an excuse to have a published UI package | https://github.com/Liinkiing/klee | 9 | 1| 
 
@@ -80,16 +80,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210506T12:29:40Z | Null | https://github.com/s9varesc/url-fuzzing | 1 | 1| 
+| 20210506T12:17:07Z | A fuzzer for SMT solvers | https://github.com/testsmt/yinyang | 94 | 7| 
+| 20210506T12:15:12Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 4 | 4| 
 | 20210506T11:49:17Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2320 | 125| 
 | 20210506T11:48:26Z | A generation-based fuzzer designed to make buffer overflows easier to execute. | https://github.com/cyberphor/gbfuzzer | 0 | 0| 
-| 20210506T11:07:41Z | Null | https://github.com/s9varesc/url-fuzzing | 1 | 1| 
 | 20210506T10:56:50Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 1689 | 335| 
 | 20210506T10:54:13Z | Null | https://github.com/shelvenzhou/ferry-fuzzbench | 0 | 0| 
 | 20210506T10:45:45Z | Scalable fuzzing infrastructure. | https://github.com/google/clusterfuzz | 4486 | 437| 
 | 20210506T10:18:54Z | Null | https://github.com/s9varesc/url-fuzzing-docker | 0 | 0| 
 | 20210506T09:52:14Z | Null | https://github.com/kekavigi/fuzzydigilib | 0 | 0| 
-| 20210506T09:51:59Z | Null | https://github.com/eavarlamova/fuzzy-transport-problem | 0 | 0| 
-| 20210506T09:46:29Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 339 | 25| 
 
 
 
