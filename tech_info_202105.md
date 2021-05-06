@@ -63,6 +63,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210506T00:30:27Z | CDK is an open-sourced container penetration toolkit, offering stable exploitation in different slimmed containers without any OS dependency. It comes with penetration tools and many powerful PoCs/EXPs helps you to escape container and takeover K8s cluster easily. | https://github.com/cdk-team/CDK | 1353 | 196| 
 | 20210506T00:26:24Z | sourflamez is one of the roblox exploits that supports multi API%s. Check it out here! | https://github.com/ice1919/official-sourflamez-download-page | 1 | 0| 
 | 20210506T00:21:35Z | Unsorted, raw, ugly & probably poorly usable tools for reversing, exploit and pentest | https://github.com/hugsy/stuff | 149 | 49| 
 | 20210506T00:03:51Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 22 | 9| 
@@ -72,7 +73,6 @@
 | 20210505T23:14:38Z | this is a simple python exploition tool with loads more! | https://github.com/buffkermitisagod/router-sploit | 1 | 0| 
 | 20210505T22:49:25Z | Zenith configs. Exploit them at your own risk. | https://github.com/egorbelibov/unix_configs | 1 | 0| 
 | 20210505T22:39:05Z | just random shit i either stole or wrote myself | https://github.com/fry99999/roblox-lua-exploits | 0 | 0| 
-| 20210505T22:24:33Z | Null | https://github.com/HazimAr/Revival-Frontend-Exploit | 1 | 1| 
 
 
 # backdoor on Github 推荐
