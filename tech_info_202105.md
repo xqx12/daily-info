@@ -37,7 +37,7 @@
 | 20210505T22:06:56Z | CVE-2021-26909 | Null | https://github.com/GoogleProjectZer0/CVE-2021-26909 | Automox Agent prior to version 31 uses an insufficiently protected S3 bucket endpoint for storing sensitive files, which could be brute-forced by an attacker to subvert an organization%s security program. The issue has since been fixed in version 31 of the Automox Agent.| 
 | 20210505T22:06:53Z | CVE-2020-22785 | Null | https://github.com/GoogleProjectZer0/CVE-2020-22785 | Etherpad < 1.8.3 is affected by a missing lock check which could cause a denial of service. Aggressively targeting random pad import endpoints with empty data would flatten all pads due to lack of rate limiting and missing ownership check.| 
 | 20210505T22:06:49Z | CVE-2021-20708 | Null | https://github.com/GoogleProjectZer0/CVE-2021-20708 | NEC Aterm devices (Aterm WF1200CR firmware Ver1.3.2 and earlier, Aterm WG1200CR firmware Ver1.3.3 and earlier, and Aterm WG2600HS firmware Ver1.5.1 and earlier) allow authenticated attackers to execute arbitrary OS commands by sending a specially crafted request to a specific URL.| 
-| 20210505T22:01:46Z | CVE-2020-22783 | Null | https://github.com/GoogleProjectZer0/CVE-2020-22783 | | 
+| 20210505T22:01:46Z | CVE-2020-22783 | Null | https://github.com/GoogleProjectZer0/CVE-2020-22783 | Etherpad <1.8.3 stored passwords used by users insecurely in the database and in log files. This affects every database backend supported by Etherpad.| 
 
 
 # klee on Github 推荐
