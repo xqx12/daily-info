@@ -41,10 +41,10 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20210506T05:39:20Z | CVE-2020-27955 | Null | https://github.com/IanSmith123/CVE-2020-27955 | Git LFS 2.12.0 allows Remote Code Execution.| 
+| 20210506T05:39:20Z | CVE-2020-27955 | Null | https://github.com/IanSmith123/CVE-2020-27955 | | 
 | 20210505T22:07:17Z | CVE-2021-24258 | Null | https://github.com/GoogleProjectZer0/CVE-2021-24258 | The Elements Kit Lite and Elements Kit Pro WordPress Plugins before 2.2.0 have a number of widgets that are vulnerable to stored Cross-Site Scripting (XSS) by lower-privileged users such as contributors, all via a similar method.| 
 | 20210505T22:07:13Z | CVE-2021-24265 | Null | https://github.com/GoogleProjectZer0/CVE-2021-24265 | The â€œRife Elementor Extensions & Templatesâ€? WordPress Plugin before 1.1.6 has a widget that is vulnerable to stored Cross-Site Scripting(XSS) by lower-privileged users such as contributors, all via a similar method.| 
-| 20210505T22:07:10Z | CVE-2021-24276 | Null | https://github.com/GoogleProjectZer0/CVE-2021-24276 | The Contact Form by Supsystic WordPress plugin before 1.7.15 did not sanitise the tab parameter of its options page before outputting it in an attribute, leading to a reflected Cross-Site Scripting issue| 
+| 20210505T22:07:10Z | CVE-2021-24276 | Null | https://github.com/GoogleProjectZer0/CVE-2021-24276 | | 
 | 20210505T22:07:07Z | CVE-2021-24273 | Null | https://github.com/GoogleProjectZer0/CVE-2021-24273 | The â€œClever Addons for Elementorâ€? WordPress Plugin before 2.1.0 has several widgets that are vulnerable to stored Cross-Site Scripting (XSS) by lower-privileged users such as contributors, all via a similar method.| 
 | 20210505T22:07:04Z | CVE-2021-24260 | Null | https://github.com/GoogleProjectZer0/CVE-2021-24260 | The â€œLivemesh Addons for Elementorâ€? WordPress Plugin before 6.8 has several widgets that are vulnerable to stored Cross-Site Scripting (XSS) by lower-privileged users such as contributors, all via a similar method.| 
 | 20210505T22:07:00Z | CVE-2021-24268 | Null | https://github.com/GoogleProjectZer0/CVE-2021-24268 | The â€œJetWidgets For Elementorâ€? WordPress Plugin before 1.0.9 has several widgets that are vulnerable to stored Cross-Site Scripting (XSS) by lower-privileged users such as contributors, all via a similar method.| 
@@ -56,7 +56,7 @@
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210506T11:40:18Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 的 Klee One 的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 529 | 13| 
+| 20210506T12:10:02Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 的 Klee One 的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 530 | 13| 
 | 20210506T11:32:54Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1683 | 491| 
 | 20210506T04:27:17Z | A personnal UI library made as an excuse to have a published UI package | https://github.com/Liinkiing/klee | 9 | 1| 
 | 20210505T14:23:55Z | OVO | https://github.com/iKleeOVO/iKleeOVO.github.io | 0 | 1| 
