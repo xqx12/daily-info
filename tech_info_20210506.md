@@ -48,6 +48,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210506T12:01:02Z | I%m proud of myself   | https://github.com/ethereal03/ExploitSearcher | 0 | 0| 
 | 20210506T11:56:14Z | High level Open Port exploitation framework. | https://github.com/cyb3rm0nk3y/OpenSploit | 0 | 0| 
 | 20210506T11:45:13Z | CDK is an open-sourced container penetration toolkit, offering stable exploitation in different slimmed containers without any OS dependency. It comes with penetration tools and many powerful PoCs/EXPs helps you to escape container and takeover K8s cluster easily. | https://github.com/cdk-team/CDK | 1356 | 197| 
 | 20210506T11:35:45Z | My collection of pentesting tools, notes and exploits | https://github.com/gikabyte27/Pentest | 0 | 0| 
@@ -57,28 +58,36 @@
 | 20210506T10:44:01Z | Null | https://github.com/Noizeeee/Exploits | 0 | 0| 
 | 20210506T10:40:24Z | Educational web application demonstrating techniques of binary exploitation - (Back-end) | https://github.com/Pen-Test3rs/binary_exploits_backend | 0 | 0| 
 | 20210506T10:39:52Z | A cheat sheet that contains common enumeration and attack methods for Windows Active Directory. | https://github.com/S1ckB0y1337/Active-Directory-Exploitation-Cheat-Sheet | 1611 | 399| 
-| 20210506T10:35:32Z | Educational web application demonstrating techniques of binary exploitation (Front-end) | https://github.com/Pen-Test3rs/binary_exploits_frontend | 0 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210506T01:28:10Z | A PHP backdoor management and generation tool/C2 featuring end to end encrypted payload streaming designed to bypass WAF, IDS, SIEM systems. | https://github.com/gellin/bantam | 185 | 27| 
-| 20210506T01:18:32Z | Text-based adventure based on Black Hills Information Security%s %Backdoors and Breaches% | https://github.com/mttaggart/bnb-py | 1 | 0| 
-| 20210506T01:16:31Z | Small and convenient C2 tool for Windows targets | https://github.com/Cr4sh/MicroBackdoor | 159 | 28| 
+| 20210506T11:59:32Z | Null | https://github.com/HarunResit-cyber/Backdoor---Trojan | 0 | 0| 
+| 20210506T11:33:38Z | A Simple android remote administration tool using sockets. It uses java on the client side and python on the server side | https://github.com/karma9874/AndroRAT | 214 | 100| 
+| 20210506T08:58:02Z | Python network worm that spreads on the local network and gives the attacker control of these machines. | https://github.com/pylyf/NetWorm | 143 | 66| 
+| 20210506T08:37:00Z | Null | https://github.com/Hem1700/backdoor | 0 | 0| 
+| 20210506T08:08:52Z | Null | https://github.com/xpf/Backdoor-Learning-arXiv | 1 | 0| 
+| 20210506T06:08:22Z | Small and convenient C2 tool for Windows targets | https://github.com/Cr4sh/MicroBackdoor | 165 | 30| 
+| 20210506T05:37:39Z | Backdoors Framework for Deep Learning and Federated Learning. A light-weight tool to conduct your research on backdoors. | https://github.com/ebagdasa/backdoors101 | 69 | 13| 
+| 20210506T04:47:00Z | TrojanZoo provides a universal pytorch platform to conduct security researches (especially backdoor attacks/defenses) of image classification in deep learning. | https://github.com/ain-soph/trojanzoo | 69 | 11| 
+| 20210506T04:25:07Z | Avyukt is a Exploitation Framework which can be used to generate Malicious Payloads and exploit Windows OS | https://github.com/Vedant-Bhalgama/Avyukt | 29 | 14| 
+| 20210506T03:17:40Z | Simple Python Backdoor | https://github.com/zNairy/Sonaris | 6 | 0| 
 
 
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210506T01:32:26Z | Null | https://github.com/averiebeltran/fuzzy-spoon | 0 | 0| 
-| 20210506T01:20:35Z | Null | https://github.com/vitorglemos/fuzzy-phishing-similarity | 0 | 0| 
-| 20210506T01:07:04Z | Null | https://github.com/shelvenzhou/ferry-fuzzbench | 0 | 0| 
-| 20210506T01:03:21Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 325 | 24| 
-| 20210506T01:03:20Z | Null | https://github.com/AFKD98/fuzzififcation | 0 | 0| 
-| 20210506T00:12:37Z | Bazz Fuss guitar fuzz pedal on a stomp switch | https://github.com/mstratman/stompfuzz | 4 | 0| 
-| 20210506T00:06:32Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 4 | 4| 
-| 20210506T00:06:05Z | Coding practice for HTML/CSS/anything else web based | https://github.com/FuzzyPumpkin/FuzzyPumpkin.github.io | 5 | 1| 
+| 20210506T11:49:17Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2320 | 125| 
+| 20210506T11:48:26Z | A generation-based fuzzer designed to make buffer overflows easier to execute. | https://github.com/cyberphor/gbfuzzer | 0 | 0| 
+| 20210506T11:07:41Z | Null | https://github.com/s9varesc/url-fuzzing | 1 | 1| 
+| 20210506T10:56:50Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 1689 | 335| 
+| 20210506T10:54:13Z | Null | https://github.com/shelvenzhou/ferry-fuzzbench | 0 | 0| 
+| 20210506T10:45:45Z | Scalable fuzzing infrastructure. | https://github.com/google/clusterfuzz | 4486 | 437| 
+| 20210506T10:18:54Z | Null | https://github.com/s9varesc/url-fuzzing-docker | 0 | 0| 
+| 20210506T09:52:14Z | Null | https://github.com/kekavigi/fuzzydigilib | 0 | 0| 
+| 20210506T09:51:59Z | Null | https://github.com/eavarlamova/fuzzy-transport-problem | 0 | 0| 
+| 20210506T09:46:29Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 339 | 25| 
 
 
 
