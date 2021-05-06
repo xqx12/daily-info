@@ -31,8 +31,8 @@
 | 20210505T22:07:17Z | CVE-2021-24258 | Null | https://github.com/GoogleProjectZer0/CVE-2021-24258 | The Elements Kit Lite and Elements Kit Pro WordPress Plugins before 2.2.0 have a number of widgets that are vulnerable to stored Cross-Site Scripting (XSS) by lower-privileged users such as contributors, all via a similar method.| 
 | 20210505T22:07:13Z | CVE-2021-24265 | Null | https://github.com/GoogleProjectZer0/CVE-2021-24265 | The â€œRife Elementor Extensions & Templatesâ€? WordPress Plugin before 1.1.6 has a widget that is vulnerable to stored Cross-Site Scripting(XSS) by lower-privileged users such as contributors, all via a similar method.| 
 | 20210505T22:07:10Z | CVE-2021-24276 | Null | https://github.com/GoogleProjectZer0/CVE-2021-24276 | The Contact Form by Supsystic WordPress plugin before 1.7.15 did not sanitise the tab parameter of its options page before outputting it in an attribute, leading to a reflected Cross-Site Scripting issue| 
-| 20210505T22:07:07Z | CVE-2021-24273 | Null | https://github.com/GoogleProjectZer0/CVE-2021-24273 | The â€œClever Addons for Elementorâ€? WordPress Plugin before 2.1.0 has several widgets that are vulnerable to stored Cross-Site Scripting (XSS) by lower-privileged users such as contributors, all via a similar method.| 
-| 20210505T22:07:04Z | CVE-2021-24260 | Null | https://github.com/GoogleProjectZer0/CVE-2021-24260 | | 
+| 20210505T22:07:07Z | CVE-2021-24273 | Null | https://github.com/GoogleProjectZer0/CVE-2021-24273 | | 
+| 20210505T22:07:04Z | CVE-2021-24260 | Null | https://github.com/GoogleProjectZer0/CVE-2021-24260 | The â€œLivemesh Addons for Elementorâ€? WordPress Plugin before 6.8 has several widgets that are vulnerable to stored Cross-Site Scripting (XSS) by lower-privileged users such as contributors, all via a similar method.| 
 | 20210505T22:07:00Z | CVE-2021-24268 | Null | https://github.com/GoogleProjectZer0/CVE-2021-24268 | The â€œJetWidgets For Elementorâ€? WordPress Plugin before 1.0.9 has several widgets that are vulnerable to stored Cross-Site Scripting (XSS) by lower-privileged users such as contributors, all via a similar method.| 
 | 20210505T22:06:56Z | CVE-2021-26909 | Null | https://github.com/GoogleProjectZer0/CVE-2021-26909 | Automox Agent prior to version 31 uses an insufficiently protected S3 bucket endpoint for storing sensitive files, which could be brute-forced by an attacker to subvert an organization%s security program. The issue has since been fixed in version 31 of the Automox Agent.| 
 | 20210505T22:06:53Z | CVE-2020-22785 | Null | https://github.com/GoogleProjectZer0/CVE-2020-22785 | Etherpad < 1.8.3 is affected by a missing lock check which could cause a denial of service. Aggressively targeting random pad import endpoints with empty data would flatten all pads due to lack of rate limiting and missing ownership check.| 
@@ -43,8 +43,8 @@
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210506T01:43:52Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1682 | 491| 
 | 20210506T01:39:38Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 的 Klee One 的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 497 | 11| 
-| 20210506T00:34:14Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1681 | 491| 
 | 20210505T14:23:55Z | OVO | https://github.com/iKleeOVO/iKleeOVO.github.io | 0 | 1| 
 | 20210505T01:40:45Z | Create CFGs and compute complexity metrics for Python, C++, and Java code. | https://github.com/hmc-alpaqa/metrinome | 11 | 0| 
 | 20210504T12:00:35Z | ovo | https://github.com/Mtoly/klee.github.io | 0 | 0| 
