@@ -33,7 +33,7 @@
 | 20210505T22:07:10Z | CVE-2021-24276 | Null | https://github.com/GoogleProjectZer0/CVE-2021-24276 | The Contact Form by Supsystic WordPress plugin before 1.7.15 did not sanitise the tab parameter of its options page before outputting it in an attribute, leading to a reflected Cross-Site Scripting issue| 
 | 20210505T22:07:07Z | CVE-2021-24273 | Null | https://github.com/GoogleProjectZer0/CVE-2021-24273 | The â€œClever Addons for Elementorâ€? WordPress Plugin before 2.1.0 has several widgets that are vulnerable to stored Cross-Site Scripting (XSS) by lower-privileged users such as contributors, all via a similar method.| 
 | 20210505T22:07:04Z | CVE-2021-24260 | Null | https://github.com/GoogleProjectZer0/CVE-2021-24260 | The â€œLivemesh Addons for Elementorâ€? WordPress Plugin before 6.8 has several widgets that are vulnerable to stored Cross-Site Scripting (XSS) by lower-privileged users such as contributors, all via a similar method.| 
-| 20210505T22:07:00Z | CVE-2021-24268 | Null | https://github.com/GoogleProjectZer0/CVE-2021-24268 | The â€œJetWidgets For Elementorâ€? WordPress Plugin before 1.0.9 has several widgets that are vulnerable to stored Cross-Site Scripting (XSS) by lower-privileged users such as contributors, all via a similar method.| 
+| 20210505T22:07:00Z | CVE-2021-24268 | Null | https://github.com/GoogleProjectZer0/CVE-2021-24268 | | 
 | 20210505T22:06:56Z | CVE-2021-26909 | Null | https://github.com/GoogleProjectZer0/CVE-2021-26909 | Automox Agent prior to version 31 uses an insufficiently protected S3 bucket endpoint for storing sensitive files, which could be brute-forced by an attacker to subvert an organization%s security program. The issue has since been fixed in version 31 of the Automox Agent.| 
 | 20210505T22:06:53Z | CVE-2020-22785 | Null | https://github.com/GoogleProjectZer0/CVE-2020-22785 | Etherpad < 1.8.3 is affected by a missing lock check which could cause a denial of service. Aggressively targeting random pad import endpoints with empty data would flatten all pads due to lack of rate limiting and missing ownership check.| 
 | 20210505T22:06:49Z | CVE-2021-20708 | Null | https://github.com/GoogleProjectZer0/CVE-2021-20708 | NEC Aterm devices (Aterm WF1200CR firmware Ver1.3.2 and earlier, Aterm WG1200CR firmware Ver1.3.3 and earlier, and Aterm WG2600HS firmware Ver1.5.1 and earlier) allow authenticated attackers to execute arbitrary OS commands by sending a specially crafted request to a specific URL.| 
@@ -63,6 +63,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210506T00:21:35Z | Unsorted, raw, ugly & probably poorly usable tools for reversing, exploit and pentest | https://github.com/hugsy/stuff | 149 | 49| 
 | 20210506T00:06:11Z | sourflamez is one of the roblox exploits that supports multi API%s. Check it out here! | https://github.com/ice1919/official-sourflamez-download-page | 1 | 0| 
 | 20210506T00:03:51Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 22 | 9| 
 | 20210505T23:36:45Z | Null | https://github.com/xing1357/Exploitable | 2 | 0| 
@@ -72,7 +73,6 @@
 | 20210505T22:49:25Z | Zenith configs. Exploit them at your own risk. | https://github.com/egorbelibov/unix_configs | 1 | 0| 
 | 20210505T22:39:05Z | just random shit i either stole or wrote myself | https://github.com/fry99999/roblox-lua-exploits | 0 | 0| 
 | 20210505T22:24:33Z | Null | https://github.com/HazimAr/Revival-Frontend-Exploit | 1 | 1| 
-| 20210505T22:07:13Z | In recent years, the ability to assess the uncertainty of depth estimates in the context of dense stereo matching has received increased attention due to its potential to detect erroneous estimates. Especially, the introduction of deep learning approaches greatly improved general performance, with feature extraction from multiple modalities proving to be highly advantageous due to the unique and different characteristics of each modality. However, most work in the literature focuses on using only mono- or bi- or rarely tri-modal input, not considering the potential effectiveness of modalities, going beyond tri-modality. To further advance the idea of combining different types of features for confidence estimation, in this work, a CNN-based approach is proposed, exploiting uncertainty cues from up to four modalities. | https://github.com/kheinrich93/LGC-Plus | 0 | 0| 
 
 
 # backdoor on Github 推荐
