@@ -31,7 +31,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20210506T05:39:20Z | CVE-2020-27955 | Null | https://github.com/IanSmith123/CVE-2020-27955 | | 
+| 20210506T05:39:20Z | CVE-2020-27955 | Null | https://github.com/IanSmith123/CVE-2020-27955 | Git LFS 2.12.0 allows Remote Code Execution.| 
 
 
 # klee on Github 推荐
