@@ -50,12 +50,12 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210506T12:43:45Z | CDK is an open-sourced container penetration toolkit, offering stable exploitation in different slimmed containers without any OS dependency. It comes with penetration tools and many powerful PoCs/EXPs helps you to escape container and takeover K8s cluster easily. | https://github.com/cdk-team/CDK | 1356 | 197| 
 | 20210506T12:35:12Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9385 | 1516| 
 | 20210506T12:14:56Z | Null | https://github.com/Noizeeee/Exploits | 0 | 0| 
 | 20210506T12:03:42Z | I%m proud of myself   | https://github.com/ethereal03/ExploitSearcher | 0 | 0| 
 | 20210506T12:02:56Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 22 | 9| 
 | 20210506T11:56:14Z | High level Open Port exploitation framework. | https://github.com/cyb3rm0nk3y/OpenSploit | 0 | 0| 
-| 20210506T11:45:13Z | CDK is an open-sourced container penetration toolkit, offering stable exploitation in different slimmed containers without any OS dependency. It comes with penetration tools and many powerful PoCs/EXPs helps you to escape container and takeover K8s cluster easily. | https://github.com/cdk-team/CDK | 1356 | 197| 
 | 20210506T11:35:45Z | My collection of pentesting tools, notes and exploits | https://github.com/gikabyte27/Pentest | 0 | 0| 
 | 20210506T11:33:38Z | A Simple android remote administration tool using sockets. It uses java on the client side and python on the server side | https://github.com/karma9874/AndroRAT | 214 | 100| 
 | 20210506T11:26:04Z | A step by step workshop to exploit various vulnerabilities in Node.js and Java applications | https://github.com/snyk/exploit-workshop | 117 | 63| 
