@@ -81,16 +81,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210507T12:32:17Z | Hack Club%s Friendly Neighborhood Moderator Bot | https://github.com/hackclub/the-fuzz | 3 | 3| 
+| 20210507T12:28:27Z | fuzzy string matching in R | https://github.com/mlampros/fuzzywuzzyR | 26 | 3| 
+| 20210507T12:15:13Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 5 | 4| 
+| 20210507T12:13:27Z | Null | https://github.com/nyoycie/fuzzy | 0 | 0| 
 | 20210507T11:52:03Z | Null | https://github.com/BartekBac/FuzzyFlink | 0 | 0| 
 | 20210507T11:42:45Z | Some sort of a social network using react js, hello from 2004 :) | https://github.com/androranogajec/fuzzy-social-network | 0 | 0| 
 | 20210507T11:40:04Z | To make fuzzing Rust easy | https://github.com/trailofbits/test-fuzz | 1 | 1| 
 | 20210507T11:36:21Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 363 | 28| 
 | 20210507T11:25:58Z | Fake News Detection, Repository. | https://github.com/hrs2203/fuzzy-pancake | 0 | 0| 
 | 20210507T11:16:52Z | Null | https://github.com/shelvenzhou/ferry-fuzzbench | 0 | 0| 
-| 20210507T10:56:22Z | An add-on filament autochanger for existing 3D printers, in duel-spool configuration. | https://github.com/FuzzyNoodle/Fuzzy-Spooder | 1 | 0| 
-| 20210507T10:35:23Z | Null | https://github.com/VeriBlock/fuzz-corpus | 0 | 1| 
-| 20210507T10:27:52Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6252 | 1266| 
-| 20210507T10:23:18Z | This repository is for testing a number of open source applications for vulnerabilities using multiple fuzzers. | https://github.com/bartholomewHarris/fuzzingNode.jsApplications | 1 | 2| 
 
 
 

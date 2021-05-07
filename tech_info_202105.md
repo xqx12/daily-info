@@ -55,7 +55,7 @@
 | 20210506T21:45:31Z | CVE-2021-31420 | PoC for exploiting CVE-2021-31420 | https://github.com/JamesGeee/CVE-2021-31420 | This vulnerability allows local attackers to escalate privileges on affected installations of Parallels Desktop 16.1.0-48950. An attacker must first obtain the ability to execute low-privileged code on the target guest system in order to exploit this vulnerability. The specific flaw exists within the Toolgate component. The issue results from the lack of proper validation of the length of user-supplied data prior to copying it to a fixed-length stack-based buffer. An attacker can leverage this vulnerability to escalate privileges and execute arbitrary code in the context of the hypervisor. Was ZDI-CAN-12220.| 
 | 20210506T21:45:27Z | CVE-2021-31419 | PoC for exploiting CVE-2021-31419 | https://github.com/JamesGeee/CVE-2021-31419 | This vulnerability allows local attackers to disclose sensitive information on affected installations of Parallels Desktop 15.1.4-47270. An attacker must first obtain the ability to execute low-privileged code on the target guest system in order to exploit this vulnerability. The specific flaw exists within the Toolgate component. The issue results from the lack of proper initialization of memory prior to accessing it. An attacker can leverage this in conjunction with other vulnerabilities to escalate privileges and execute arbitrary code in the context of the hypervisor. Was ZDI-CAN-12136.| 
 | 20210506T21:45:24Z | CVE-2020-25453 | PoC for exploiting CVE-2020-25453 | https://github.com/JamesGeee/CVE-2020-25453 | An issue was discovered in BlackCat CMS before 1.4. There is a CSRF vulnerability (bypass csrf_token) that allows remote arbitrary code execution.| 
-| 20210506T21:45:21Z | CVE-2021-31828 | PoC for exploiting CVE-2021-31828 | https://github.com/JamesGeee/CVE-2021-31828 | | 
+| 20210506T21:45:21Z | CVE-2021-31828 | PoC for exploiting CVE-2021-31828 | https://github.com/JamesGeee/CVE-2021-31828 | An SSRF issue in Open Distro for Elasticsearch (ODFE) before 1.13.1.0 allows an existing privileged user to enumerate listening services or interact with configured resources via HTTP requests exceeding the Alerting plugin%s intended scope.| 
 
 
 # klee on Github 推荐
@@ -111,16 +111,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210507T12:32:17Z | Hack Club%s Friendly Neighborhood Moderator Bot | https://github.com/hackclub/the-fuzz | 3 | 3| 
+| 20210507T12:28:27Z | fuzzy string matching in R | https://github.com/mlampros/fuzzywuzzyR | 26 | 3| 
+| 20210507T12:15:13Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 5 | 4| 
+| 20210507T12:13:27Z | Null | https://github.com/nyoycie/fuzzy | 0 | 0| 
 | 20210507T11:52:03Z | Null | https://github.com/BartekBac/FuzzyFlink | 0 | 0| 
 | 20210507T11:42:45Z | Some sort of a social network using react js, hello from 2004 :) | https://github.com/androranogajec/fuzzy-social-network | 0 | 0| 
 | 20210507T11:40:04Z | To make fuzzing Rust easy | https://github.com/trailofbits/test-fuzz | 1 | 1| 
 | 20210507T11:36:21Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 363 | 28| 
 | 20210507T11:25:58Z | Fake News Detection, Repository. | https://github.com/hrs2203/fuzzy-pancake | 0 | 0| 
 | 20210507T11:16:52Z | Null | https://github.com/shelvenzhou/ferry-fuzzbench | 0 | 0| 
-| 20210507T10:56:22Z | An add-on filament autochanger for existing 3D printers, in duel-spool configuration. | https://github.com/FuzzyNoodle/Fuzzy-Spooder | 1 | 0| 
-| 20210507T10:35:23Z | Null | https://github.com/VeriBlock/fuzz-corpus | 0 | 1| 
-| 20210507T10:27:52Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6252 | 1266| 
-| 20210507T10:23:18Z | This repository is for testing a number of open source applications for vulnerabilities using multiple fuzzers. | https://github.com/bartholomewHarris/fuzzingNode.jsApplications | 1 | 2| 
 
 
 
