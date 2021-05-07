@@ -96,6 +96,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210507T12:28:26Z | Null | https://github.com/Hem1700/backdoor | 0 | 0| 
 | 20210507T11:51:04Z | A Simple android remote administration tool using sockets. It uses java on the client side and python on the server side | https://github.com/karma9874/AndroRAT | 217 | 100| 
 | 20210507T07:59:04Z | Small and convenient C2 tool for Windows targets | https://github.com/Cr4sh/MicroBackdoor | 172 | 31| 
 | 20210507T07:32:49Z | Simples Backdoor Camuflada em um Programa. | https://github.com/Kanui-C/BackdoorSUID | 0 | 0| 
@@ -105,7 +106,6 @@
 | 20210506T23:39:46Z | Criando um Sniffer em C para detecção de BackDoors. | https://github.com/agenteph/Sniffer-em-C | 0 | 1| 
 | 20210506T22:05:51Z | Simple Python Backdoor | https://github.com/zNairy/Sonaris | 6 | 0| 
 | 20210506T18:49:05Z | Python 3 IRC Bot / Botnet | https://github.com/trackmastersteve/HackServ | 19 | 16| 
-| 20210506T16:40:52Z | Null | https://github.com/connorbuck/backdoor-dispensary-website | 0 | 0| 
 
 
 # fuzz on Github 推荐
