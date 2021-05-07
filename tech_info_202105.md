@@ -43,10 +43,10 @@
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
 | 20210506T23:58:07Z | CVE-2021-30461 | CVE-2021-30461 | https://github.com/daedalus/CVE-2021-30461 | 未查询到CVE信息| 
-| 20210506T22:30:27Z | CVE-2021-31728 | Vulnerability in zam64.sys, zam32.sys allowing ring 0 code execution. | https://github.com/irql0/CVE-2021-31728 | 未查询到CVE信息| 
+| 20210506T22:30:27Z | CVE-2021-31728 | Vulnerability in zam64.sys, zam32.sys allowing ring 0 code execution. | https://github.com/irql0/CVE-2021-31728 | | 
 | 20210506T21:46:04Z | CVE-2021-31795 | PoC for exploiting CVE-2021-31795 | https://github.com/JamesGeee/CVE-2021-31795 | The PowerVR GPU kernel driver in pvrsrvkm.ko through 2021-04-24 for the Linux kernel, as used on Alcatel 1S phones, allows attackers to overwrite heap memory via PhysmemNewRamBackedPMR.| 
 | 20210506T21:45:49Z | CVE-2021-31417 | PoC for exploiting CVE-2021-31417 | https://github.com/JamesGeee/CVE-2021-31417 | This vulnerability allows local attackers to disclose sensitive information on affected installations of Parallels Desktop 15.1.4-47270. An attacker must first obtain the ability to execute low-privileged code on the target guest system in order to exploit this vulnerability. The specific flaw exists within the Toolgate component. The issue results from the lack of proper initialization of memory prior to accessing it. An attacker can leverage this in conjunction with other vulnerabilities to escalate privileges and execute arbitrary code in the context of the hypervisor. Was ZDI-CAN-12131.| 
-| 20210506T21:45:35Z | CVE-2021-31418 | PoC for exploiting CVE-2021-31418 | https://github.com/JamesGeee/CVE-2021-31418 | | 
+| 20210506T21:45:35Z | CVE-2021-31418 | PoC for exploiting CVE-2021-31418 | https://github.com/JamesGeee/CVE-2021-31418 | This vulnerability allows local attackers to disclose sensitive information on affected installations of Parallels Desktop 15.1.4-47270. An attacker must first obtain the ability to execute low-privileged code on the target guest system in order to exploit this vulnerability. The specific flaw exists within the Toolgate component. The issue results from the lack of proper initialization of memory prior to accessing it. An attacker can leverage this in conjunction with other vulnerabilities to escalate privileges and execute arbitrary code in the context of the hypervisor. Was ZDI-CAN-12221.| 
 | 20210506T21:45:31Z | CVE-2021-31420 | PoC for exploiting CVE-2021-31420 | https://github.com/JamesGeee/CVE-2021-31420 | This vulnerability allows local attackers to escalate privileges on affected installations of Parallels Desktop 16.1.0-48950. An attacker must first obtain the ability to execute low-privileged code on the target guest system in order to exploit this vulnerability. The specific flaw exists within the Toolgate component. The issue results from the lack of proper validation of the length of user-supplied data prior to copying it to a fixed-length stack-based buffer. An attacker can leverage this vulnerability to escalate privileges and execute arbitrary code in the context of the hypervisor. Was ZDI-CAN-12220.| 
 | 20210506T21:45:27Z | CVE-2021-31419 | PoC for exploiting CVE-2021-31419 | https://github.com/JamesGeee/CVE-2021-31419 | This vulnerability allows local attackers to disclose sensitive information on affected installations of Parallels Desktop 15.1.4-47270. An attacker must first obtain the ability to execute low-privileged code on the target guest system in order to exploit this vulnerability. The specific flaw exists within the Toolgate component. The issue results from the lack of proper initialization of memory prior to accessing it. An attacker can leverage this in conjunction with other vulnerabilities to escalate privileges and execute arbitrary code in the context of the hypervisor. Was ZDI-CAN-12136.| 
 | 20210506T21:45:24Z | CVE-2020-25453 | PoC for exploiting CVE-2020-25453 | https://github.com/JamesGeee/CVE-2020-25453 | An issue was discovered in BlackCat CMS before 1.4. There is a CSRF vulnerability (bypass csrf_token) that allows remote arbitrary code execution.| 
@@ -77,6 +77,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210507T01:25:19Z | Reverse engineering tooling for automating exploit identification and exploitation | https://github.com/roostercoopllc/repytk | 0 | 0| 
 | 20210507T01:02:49Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 22 | 9| 
 | 20210507T00:52:06Z | Kubernetes security and vulnerability tools and utilities. | https://github.com/kris-nova/hack | 15 | 1| 
 | 20210507T00:51:03Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 16 | 11| 
@@ -86,7 +87,6 @@
 | 20210506T23:43:25Z | Fully undetected Android Binder  | https://github.com/xiangin/Android-Exploit-2021 | 0 | 0| 
 | 20210506T23:42:14Z | PDF Exploit FUD 2021 + Fully Undetectable + Docx Exploit FUD  + Bypass All Antivirus. | https://github.com/xiangin/PDF-Exploit-FUD-2021 | 1 | 0| 
 | 20210506T23:30:53Z | Pseudo shells for different Lambda Runtime Environments & Lambda persistency exploits | https://github.com/Djkusik/Lambda-sHell | 0 | 0| 
-| 20210506T23:08:02Z | Thi powershell script has got to run in remote windows host, even for pivoting | https://github.com/FabioDefilippo/winallenum | 2 | 1| 
 
 
 # backdoor on Github 推荐
