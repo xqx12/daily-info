@@ -81,6 +81,9 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210507T12:51:03Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 16 | 11| 
+| 20210507T12:50:45Z | A simple btc exchange written in DJango that exploits MongoDB through DJongo. | https://github.com/lucagobbi/bitfinis | 0 | 0| 
+| 20210507T12:48:05Z | Exploit Sandboxie 5.49.7 - Denial of Service (PoC) | https://github.com/dock0d1/Exploit-Sandboxie-5.49.7-Denial-of-Service-PoC | 0 | 0| 
 | 20210507T12:47:41Z | Exploit Sandboxie 5.49.7 - Denial of Service (PoC) | https://github.com/dock0d1/Exploit-Sandboxie-5.49.7---Denial-of-Service-PoC- | 0 | 0| 
 | 20210507T12:35:14Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9386 | 1516| 
 | 20210507T12:03:28Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 22 | 9| 
@@ -88,9 +91,6 @@
 | 20210507T11:49:09Z | Zenith configs. Exploit them at your own risk. | https://github.com/egorbelibov/unix_configs | 1 | 0| 
 | 20210507T11:35:48Z | Various Scripts for Zabbix exploitation | https://github.com/aldevar/zbx_scripts | 1 | 0| 
 | 20210507T11:24:20Z | A silly script that helps to download pdf files from https://masterthecase.com where all the pdf files are protected by a WordPress plugin called %Pdf Embedder Premium Secure%, http://wp-pdf.com/ | https://github.com/RKursatV/MasterTheCasePdfDownloader | 1 | 0| 
-| 20210507T11:19:04Z | xcube is a Python package for generating and exploiting data cubes powered by xarray, dask, and zarr. | https://github.com/dcs4cop/xcube | 74 | 13| 
-| 20210507T09:47:09Z | Forestry Thematic Exploitation Platform | https://github.com/cgi-eoss/ftep | 5 | 0| 
-| 20210507T09:14:13Z | Null | https://github.com/Noizeeee/Exploits | 0 | 0| 
 
 
 # backdoor on Github 推荐
