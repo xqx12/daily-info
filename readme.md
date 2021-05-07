@@ -54,6 +54,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210507T12:54:39Z | Forestry Thematic Exploitation Platform | https://github.com/cgi-eoss/ftep | 5 | 0| 
 | 20210507T12:51:03Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 16 | 11| 
 | 20210507T12:50:45Z | A simple btc exchange written in DJango that exploits MongoDB through DJongo. | https://github.com/lucagobbi/bitfinis | 0 | 0| 
 | 20210507T12:48:05Z | Exploit Sandboxie 5.49.7 - Denial of Service (PoC) | https://github.com/dock0d1/Exploit-Sandboxie-5.49.7-Denial-of-Service-PoC | 0 | 0| 
@@ -63,15 +64,14 @@
 | 20210507T11:55:38Z | Null | https://github.com/YiPrograms/CSST-BinaryExploitation | 0 | 0| 
 | 20210507T11:49:09Z | Zenith configs. Exploit them at your own risk. | https://github.com/egorbelibov/unix_configs | 1 | 0| 
 | 20210507T11:35:48Z | Various Scripts for Zabbix exploitation | https://github.com/aldevar/zbx_scripts | 1 | 0| 
-| 20210507T11:24:20Z | A silly script that helps to download pdf files from https://masterthecase.com where all the pdf files are protected by a WordPress plugin called %Pdf Embedder Premium Secure%, http://wp-pdf.com/ | https://github.com/RKursatV/MasterTheCasePdfDownloader | 1 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210507T12:53:38Z | Small and convenient C2 tool for Windows targets | https://github.com/Cr4sh/MicroBackdoor | 173 | 31| 
 | 20210507T12:43:36Z | Null | https://github.com/Hem1700/backdoor | 0 | 0| 
 | 20210507T11:51:04Z | A Simple android remote administration tool using sockets. It uses java on the client side and python on the server side | https://github.com/karma9874/AndroRAT | 217 | 100| 
-| 20210507T07:59:04Z | Small and convenient C2 tool for Windows targets | https://github.com/Cr4sh/MicroBackdoor | 172 | 31| 
 | 20210507T07:32:49Z | Simples Backdoor Camuflada em um Programa. | https://github.com/Kanui-C/BackdoorSUID | 0 | 0| 
 | 20210507T07:21:13Z | Backdoors Framework for Deep Learning and Federated Learning. A light-weight tool to conduct your research on backdoors. | https://github.com/ebagdasa/backdoors101 | 72 | 13| 
 | 20210507T03:01:11Z | TrojanZoo provides a universal pytorch platform to conduct security researches (especially backdoor attacks/defenses) of image classification in deep learning. | https://github.com/ain-soph/trojanzoo | 69 | 11| 

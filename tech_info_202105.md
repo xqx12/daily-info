@@ -53,7 +53,7 @@
 | 20210506T21:45:49Z | CVE-2021-31417 | PoC for exploiting CVE-2021-31417 | https://github.com/JamesGeee/CVE-2021-31417 | This vulnerability allows local attackers to disclose sensitive information on affected installations of Parallels Desktop 15.1.4-47270. An attacker must first obtain the ability to execute low-privileged code on the target guest system in order to exploit this vulnerability. The specific flaw exists within the Toolgate component. The issue results from the lack of proper initialization of memory prior to accessing it. An attacker can leverage this in conjunction with other vulnerabilities to escalate privileges and execute arbitrary code in the context of the hypervisor. Was ZDI-CAN-12131.| 
 | 20210506T21:45:35Z | CVE-2021-31418 | PoC for exploiting CVE-2021-31418 | https://github.com/JamesGeee/CVE-2021-31418 | This vulnerability allows local attackers to disclose sensitive information on affected installations of Parallels Desktop 15.1.4-47270. An attacker must first obtain the ability to execute low-privileged code on the target guest system in order to exploit this vulnerability. The specific flaw exists within the Toolgate component. The issue results from the lack of proper initialization of memory prior to accessing it. An attacker can leverage this in conjunction with other vulnerabilities to escalate privileges and execute arbitrary code in the context of the hypervisor. Was ZDI-CAN-12221.| 
 | 20210506T21:45:31Z | CVE-2021-31420 | PoC for exploiting CVE-2021-31420 | https://github.com/JamesGeee/CVE-2021-31420 | This vulnerability allows local attackers to escalate privileges on affected installations of Parallels Desktop 16.1.0-48950. An attacker must first obtain the ability to execute low-privileged code on the target guest system in order to exploit this vulnerability. The specific flaw exists within the Toolgate component. The issue results from the lack of proper validation of the length of user-supplied data prior to copying it to a fixed-length stack-based buffer. An attacker can leverage this vulnerability to escalate privileges and execute arbitrary code in the context of the hypervisor. Was ZDI-CAN-12220.| 
-| 20210506T21:45:27Z | CVE-2021-31419 | PoC for exploiting CVE-2021-31419 | https://github.com/JamesGeee/CVE-2021-31419 | This vulnerability allows local attackers to disclose sensitive information on affected installations of Parallels Desktop 15.1.4-47270. An attacker must first obtain the ability to execute low-privileged code on the target guest system in order to exploit this vulnerability. The specific flaw exists within the Toolgate component. The issue results from the lack of proper initialization of memory prior to accessing it. An attacker can leverage this in conjunction with other vulnerabilities to escalate privileges and execute arbitrary code in the context of the hypervisor. Was ZDI-CAN-12136.| 
+| 20210506T21:45:27Z | CVE-2021-31419 | PoC for exploiting CVE-2021-31419 | https://github.com/JamesGeee/CVE-2021-31419 | | 
 | 20210506T21:45:24Z | CVE-2020-25453 | PoC for exploiting CVE-2020-25453 | https://github.com/JamesGeee/CVE-2020-25453 | An issue was discovered in BlackCat CMS before 1.4. There is a CSRF vulnerability (bypass csrf_token) that allows remote arbitrary code execution.| 
 | 20210506T21:45:21Z | CVE-2021-31828 | PoC for exploiting CVE-2021-31828 | https://github.com/JamesGeee/CVE-2021-31828 | An SSRF issue in Open Distro for Elasticsearch (ODFE) before 1.13.1.0 allows an existing privileged user to enumerate listening services or interact with configured resources via HTTP requests exceeding the Alerting plugin%s intended scope.| 
 
@@ -81,6 +81,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210507T12:54:39Z | Forestry Thematic Exploitation Platform | https://github.com/cgi-eoss/ftep | 5 | 0| 
 | 20210507T12:51:03Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 16 | 11| 
 | 20210507T12:50:45Z | A simple btc exchange written in DJango that exploits MongoDB through DJongo. | https://github.com/lucagobbi/bitfinis | 0 | 0| 
 | 20210507T12:48:05Z | Exploit Sandboxie 5.49.7 - Denial of Service (PoC) | https://github.com/dock0d1/Exploit-Sandboxie-5.49.7-Denial-of-Service-PoC | 0 | 0| 
@@ -90,15 +91,14 @@
 | 20210507T11:55:38Z | Null | https://github.com/YiPrograms/CSST-BinaryExploitation | 0 | 0| 
 | 20210507T11:49:09Z | Zenith configs. Exploit them at your own risk. | https://github.com/egorbelibov/unix_configs | 1 | 0| 
 | 20210507T11:35:48Z | Various Scripts for Zabbix exploitation | https://github.com/aldevar/zbx_scripts | 1 | 0| 
-| 20210507T11:24:20Z | A silly script that helps to download pdf files from https://masterthecase.com where all the pdf files are protected by a WordPress plugin called %Pdf Embedder Premium Secure%, http://wp-pdf.com/ | https://github.com/RKursatV/MasterTheCasePdfDownloader | 1 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210507T12:53:38Z | Small and convenient C2 tool for Windows targets | https://github.com/Cr4sh/MicroBackdoor | 173 | 31| 
 | 20210507T12:43:36Z | Null | https://github.com/Hem1700/backdoor | 0 | 0| 
 | 20210507T11:51:04Z | A Simple android remote administration tool using sockets. It uses java on the client side and python on the server side | https://github.com/karma9874/AndroRAT | 217 | 100| 
-| 20210507T07:59:04Z | Small and convenient C2 tool for Windows targets | https://github.com/Cr4sh/MicroBackdoor | 172 | 31| 
 | 20210507T07:32:49Z | Simples Backdoor Camuflada em um Programa. | https://github.com/Kanui-C/BackdoorSUID | 0 | 0| 
 | 20210507T07:21:13Z | Backdoors Framework for Deep Learning and Federated Learning. A light-weight tool to conduct your research on backdoors. | https://github.com/ebagdasa/backdoors101 | 72 | 13| 
 | 20210507T03:01:11Z | TrojanZoo provides a universal pytorch platform to conduct security researches (especially backdoor attacks/defenses) of image classification in deep learning. | https://github.com/ain-soph/trojanzoo | 69 | 11| 
