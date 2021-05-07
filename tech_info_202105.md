@@ -77,6 +77,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210507T00:15:39Z | Kubernetes security and vulnerability tools and utilities. | https://github.com/kris-nova/hack | 15 | 1| 
 | 20210507T00:08:26Z | A Monaco fork for Roblox (exploiting). All functions from LuaU and custom executor functions are present with documentation. | https://github.com/EthanMcBloxxer/Rosploco | 0 | 0| 
 | 20210507T00:02:43Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 22 | 9| 
 | 20210506T23:51:25Z | Extensible framework for analyzing publicly available information about vulnerabilities | https://github.com/leonov-av/vulristics | 27 | 1| 
@@ -86,7 +87,6 @@
 | 20210506T23:08:02Z | Thi powershell script has got to run in remote windows host, even for pivoting | https://github.com/FabioDefilippo/winallenum | 2 | 1| 
 | 20210506T22:58:56Z | scripts to reproduce analysis | https://github.com/sigmap666/NaturalExploiters | 0 | 0| 
 | 20210506T22:49:46Z | PoC exploits for software vulnerabilities | https://github.com/lockedbyte/CVE-Exploits | 456 | 99| 
-| 20210506T22:41:56Z | Tools and Exploits | https://github.com/abundov/exploits | 0 | 0| 
 
 
 # backdoor on Github 推荐
