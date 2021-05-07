@@ -48,10 +48,10 @@
 | 20210506T21:45:49Z | CVE-2021-31417 | PoC for exploiting CVE-2021-31417 | https://github.com/JamesGeee/CVE-2021-31417 | This vulnerability allows local attackers to disclose sensitive information on affected installations of Parallels Desktop 15.1.4-47270. An attacker must first obtain the ability to execute low-privileged code on the target guest system in order to exploit this vulnerability. The specific flaw exists within the Toolgate component. The issue results from the lack of proper initialization of memory prior to accessing it. An attacker can leverage this in conjunction with other vulnerabilities to escalate privileges and execute arbitrary code in the context of the hypervisor. Was ZDI-CAN-12131.| 
 | 20210506T21:45:35Z | CVE-2021-31418 | PoC for exploiting CVE-2021-31418 | https://github.com/JamesGeee/CVE-2021-31418 | This vulnerability allows local attackers to disclose sensitive information on affected installations of Parallels Desktop 15.1.4-47270. An attacker must first obtain the ability to execute low-privileged code on the target guest system in order to exploit this vulnerability. The specific flaw exists within the Toolgate component. The issue results from the lack of proper initialization of memory prior to accessing it. An attacker can leverage this in conjunction with other vulnerabilities to escalate privileges and execute arbitrary code in the context of the hypervisor. Was ZDI-CAN-12221.| 
 | 20210506T21:45:31Z | CVE-2021-31420 | PoC for exploiting CVE-2021-31420 | https://github.com/JamesGeee/CVE-2021-31420 | This vulnerability allows local attackers to escalate privileges on affected installations of Parallels Desktop 16.1.0-48950. An attacker must first obtain the ability to execute low-privileged code on the target guest system in order to exploit this vulnerability. The specific flaw exists within the Toolgate component. The issue results from the lack of proper validation of the length of user-supplied data prior to copying it to a fixed-length stack-based buffer. An attacker can leverage this vulnerability to escalate privileges and execute arbitrary code in the context of the hypervisor. Was ZDI-CAN-12220.| 
-| 20210506T21:45:27Z | CVE-2021-31419 | PoC for exploiting CVE-2021-31419 | https://github.com/JamesGeee/CVE-2021-31419 | | 
+| 20210506T21:45:27Z | CVE-2021-31419 | PoC for exploiting CVE-2021-31419 | https://github.com/JamesGeee/CVE-2021-31419 | This vulnerability allows local attackers to disclose sensitive information on affected installations of Parallels Desktop 15.1.4-47270. An attacker must first obtain the ability to execute low-privileged code on the target guest system in order to exploit this vulnerability. The specific flaw exists within the Toolgate component. The issue results from the lack of proper initialization of memory prior to accessing it. An attacker can leverage this in conjunction with other vulnerabilities to escalate privileges and execute arbitrary code in the context of the hypervisor. Was ZDI-CAN-12136.| 
 | 20210506T21:45:24Z | CVE-2020-25453 | PoC for exploiting CVE-2020-25453 | https://github.com/JamesGeee/CVE-2020-25453 | An issue was discovered in BlackCat CMS before 1.4. There is a CSRF vulnerability (bypass csrf_token) that allows remote arbitrary code execution.| 
 | 20210506T21:45:21Z | CVE-2021-31828 | PoC for exploiting CVE-2021-31828 | https://github.com/JamesGeee/CVE-2021-31828 | An SSRF issue in Open Distro for Elasticsearch (ODFE) before 1.13.1.0 allows an existing privileged user to enumerate listening services or interact with configured resources via HTTP requests exceeding the Alerting plugin%s intended scope.| 
-| 20210506T21:45:17Z | CVE-2021-21536 | PoC for exploiting CVE-2021-21536 | https://github.com/JamesGeee/CVE-2021-21536 | | 
+| 20210506T21:45:17Z | CVE-2021-21536 | PoC for exploiting CVE-2021-21536 | https://github.com/JamesGeee/CVE-2021-21536 | Dell Hybrid Client versions prior to 1.5 contain an information exposure vulnerability. A local unauthenticated attacker may exploit this vulnerability in order to register the client to a server in order to view sensitive information.| 
 
 
 # klee on Github 推荐
@@ -77,6 +77,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210507T00:04:18Z | A Monaco fork for Roblox exploiting. All functions from LuaU and custom executor functions are present with documentation. | https://github.com/EthanMcBloxxer/Rosploco | 0 | 0| 
 | 20210507T00:02:43Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 22 | 9| 
 | 20210506T23:51:25Z | Extensible framework for analyzing publicly available information about vulnerabilities | https://github.com/leonov-av/vulristics | 27 | 1| 
 | 20210506T23:43:25Z | Fully undetected Android Binder  | https://github.com/xiangin/Android-Exploit-2021 | 0 | 0| 
@@ -86,7 +87,6 @@
 | 20210506T22:58:56Z | scripts to reproduce analysis | https://github.com/sigmap666/NaturalExploiters | 0 | 0| 
 | 20210506T22:49:46Z | PoC exploits for software vulnerabilities | https://github.com/lockedbyte/CVE-Exploits | 456 | 99| 
 | 20210506T22:41:56Z | Tools and Exploits | https://github.com/abundov/exploits | 0 | 0| 
-| 20210506T21:53:40Z | this is a simple python exploition tool with loads more! | https://github.com/buffkermitisagod/routerex | 1 | 0| 
 
 
 # backdoor on Github 推荐
