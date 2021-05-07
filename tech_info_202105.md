@@ -19,6 +19,7 @@
 | 20210506 | Parallels Desktop EDPMC（Read Performance-Monitoring Counter）的 CVE-2021-31424 和 CVE-2021-31427 漏洞详情。 | https://sec.today/pulses/62aa9931-c1cf-4bd4-b12d-b68d61b8cd0e/| 
 | 20210506 | Mystikal：macOS 的 Payload 生成工具。 | https://posts.specterops.io/introducing-mystikal-4fbd2f7ae520?gi=96475659c866| 
 | 20210506 | Parallels Desktop EDPMC（Read Performance-Monitoring Counter）的 CVE-2021-31424 和 CVE-2021-31427 漏洞详情。 | https://www.zerodayinitiative.com/blog/2021/4/26/parallels-desktop-rdpmc-hypercall-interface-and-vulnerabilities| 
+| 20210506 | CVE-2021-26411 在野样本中利用 RPC 绕过 CFG 缓解技术的研究. | https://paper.seebug.org/1579/| 
 | 20210503 | pystinger：通过webshell实现SOCK4代理与端口映射工具。 | https://securityonline.info/pystinger-bypass-firewall-for-traffic-forwarding-using-webshell/| 
 | 20210503 | 恶意软件分析：针对Ragnarok勒索软件。 | https://www.reddit.com/r/ReverseEngineering/comments/n1771o/malware_analysis_ragnarok_ransomware/| 
 
@@ -41,22 +42,22 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20210506T05:39:20Z | CVE-2020-27955 | Null | https://github.com/IanSmith123/CVE-2020-27955 | Git LFS 2.12.0 allows Remote Code Execution.| 
-| 20210505T22:07:17Z | CVE-2021-24258 | Null | https://github.com/GoogleProjectZer0/CVE-2021-24258 | The Elements Kit Lite and Elements Kit Pro WordPress Plugins before 2.2.0 have a number of widgets that are vulnerable to stored Cross-Site Scripting (XSS) by lower-privileged users such as contributors, all via a similar method.| 
-| 20210505T22:07:13Z | CVE-2021-24265 | Null | https://github.com/GoogleProjectZer0/CVE-2021-24265 | The â€œRife Elementor Extensions & Templatesâ€? WordPress Plugin before 1.1.6 has a widget that is vulnerable to stored Cross-Site Scripting(XSS) by lower-privileged users such as contributors, all via a similar method.| 
-| 20210505T22:07:10Z | CVE-2021-24276 | Null | https://github.com/GoogleProjectZer0/CVE-2021-24276 | The Contact Form by Supsystic WordPress plugin before 1.7.15 did not sanitise the tab parameter of its options page before outputting it in an attribute, leading to a reflected Cross-Site Scripting issue| 
-| 20210505T22:07:07Z | CVE-2021-24273 | Null | https://github.com/GoogleProjectZer0/CVE-2021-24273 | The â€œClever Addons for Elementorâ€? WordPress Plugin before 2.1.0 has several widgets that are vulnerable to stored Cross-Site Scripting (XSS) by lower-privileged users such as contributors, all via a similar method.| 
-| 20210505T22:07:04Z | CVE-2021-24260 | Null | https://github.com/GoogleProjectZer0/CVE-2021-24260 | The â€œLivemesh Addons for Elementorâ€? WordPress Plugin before 6.8 has several widgets that are vulnerable to stored Cross-Site Scripting (XSS) by lower-privileged users such as contributors, all via a similar method.| 
-| 20210505T22:07:00Z | CVE-2021-24268 | Null | https://github.com/GoogleProjectZer0/CVE-2021-24268 | The â€œJetWidgets For Elementorâ€? WordPress Plugin before 1.0.9 has several widgets that are vulnerable to stored Cross-Site Scripting (XSS) by lower-privileged users such as contributors, all via a similar method.| 
-| 20210505T22:06:56Z | CVE-2021-26909 | Null | https://github.com/GoogleProjectZer0/CVE-2021-26909 | Automox Agent prior to version 31 uses an insufficiently protected S3 bucket endpoint for storing sensitive files, which could be brute-forced by an attacker to subvert an organization%s security program. The issue has since been fixed in version 31 of the Automox Agent.| 
-| 20210505T22:06:53Z | CVE-2020-22785 | Null | https://github.com/GoogleProjectZer0/CVE-2020-22785 | Etherpad < 1.8.3 is affected by a missing lock check which could cause a denial of service. Aggressively targeting random pad import endpoints with empty data would flatten all pads due to lack of rate limiting and missing ownership check.| 
-| 20210505T22:06:49Z | CVE-2021-20708 | Null | https://github.com/GoogleProjectZer0/CVE-2021-20708 | NEC Aterm devices (Aterm WF1200CR firmware Ver1.3.2 and earlier, Aterm WG1200CR firmware Ver1.3.3 and earlier, and Aterm WG2600HS firmware Ver1.5.1 and earlier) allow authenticated attackers to execute arbitrary OS commands by sending a specially crafted request to a specific URL.| 
+| 20210506T23:58:07Z | CVE-2021-30461 | CVE-2021-30461 | https://github.com/daedalus/CVE-2021-30461 | 未查询到CVE信息| 
+| 20210506T22:30:27Z | CVE-2021-31728 | Vulnerability in zam64.sys, zam32.sys allowing ring 0 code execution. | https://github.com/irql0/CVE-2021-31728 | 未查询到CVE信息| 
+| 20210506T21:46:04Z | CVE-2021-31795 | PoC for exploiting CVE-2021-31795 | https://github.com/JamesGeee/CVE-2021-31795 | The PowerVR GPU kernel driver in pvrsrvkm.ko through 2021-04-24 for the Linux kernel, as used on Alcatel 1S phones, allows attackers to overwrite heap memory via PhysmemNewRamBackedPMR.| 
+| 20210506T21:45:49Z | CVE-2021-31417 | PoC for exploiting CVE-2021-31417 | https://github.com/JamesGeee/CVE-2021-31417 | This vulnerability allows local attackers to disclose sensitive information on affected installations of Parallels Desktop 15.1.4-47270. An attacker must first obtain the ability to execute low-privileged code on the target guest system in order to exploit this vulnerability. The specific flaw exists within the Toolgate component. The issue results from the lack of proper initialization of memory prior to accessing it. An attacker can leverage this in conjunction with other vulnerabilities to escalate privileges and execute arbitrary code in the context of the hypervisor. Was ZDI-CAN-12131.| 
+| 20210506T21:45:35Z | CVE-2021-31418 | PoC for exploiting CVE-2021-31418 | https://github.com/JamesGeee/CVE-2021-31418 | This vulnerability allows local attackers to disclose sensitive information on affected installations of Parallels Desktop 15.1.4-47270. An attacker must first obtain the ability to execute low-privileged code on the target guest system in order to exploit this vulnerability. The specific flaw exists within the Toolgate component. The issue results from the lack of proper initialization of memory prior to accessing it. An attacker can leverage this in conjunction with other vulnerabilities to escalate privileges and execute arbitrary code in the context of the hypervisor. Was ZDI-CAN-12221.| 
+| 20210506T21:45:31Z | CVE-2021-31420 | PoC for exploiting CVE-2021-31420 | https://github.com/JamesGeee/CVE-2021-31420 | This vulnerability allows local attackers to escalate privileges on affected installations of Parallels Desktop 16.1.0-48950. An attacker must first obtain the ability to execute low-privileged code on the target guest system in order to exploit this vulnerability. The specific flaw exists within the Toolgate component. The issue results from the lack of proper validation of the length of user-supplied data prior to copying it to a fixed-length stack-based buffer. An attacker can leverage this vulnerability to escalate privileges and execute arbitrary code in the context of the hypervisor. Was ZDI-CAN-12220.| 
+| 20210506T21:45:27Z | CVE-2021-31419 | PoC for exploiting CVE-2021-31419 | https://github.com/JamesGeee/CVE-2021-31419 | This vulnerability allows local attackers to disclose sensitive information on affected installations of Parallels Desktop 15.1.4-47270. An attacker must first obtain the ability to execute low-privileged code on the target guest system in order to exploit this vulnerability. The specific flaw exists within the Toolgate component. The issue results from the lack of proper initialization of memory prior to accessing it. An attacker can leverage this in conjunction with other vulnerabilities to escalate privileges and execute arbitrary code in the context of the hypervisor. Was ZDI-CAN-12136.| 
+| 20210506T21:45:24Z | CVE-2020-25453 | PoC for exploiting CVE-2020-25453 | https://github.com/JamesGeee/CVE-2020-25453 | An issue was discovered in BlackCat CMS before 1.4. There is a CSRF vulnerability (bypass csrf_token) that allows remote arbitrary code execution.| 
+| 20210506T21:45:21Z | CVE-2021-31828 | PoC for exploiting CVE-2021-31828 | https://github.com/JamesGeee/CVE-2021-31828 | An SSRF issue in Open Distro for Elasticsearch (ODFE) before 1.13.1.0 allows an existing privileged user to enumerate listening services or interact with configured resources via HTTP requests exceeding the Alerting plugin%s intended scope.| 
+| 20210506T21:45:17Z | CVE-2021-21536 | PoC for exploiting CVE-2021-21536 | https://github.com/JamesGeee/CVE-2021-21536 | Dell Hybrid Client versions prior to 1.5 contain an information exposure vulnerability. A local unauthenticated attacker may exploit this vulnerability in order to register the client to a server in order to view sensitive information.| 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210506T12:29:32Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 的 Klee One 的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 531 | 13| 
+| 20210506T23:13:37Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 的 Klee One 的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 541 | 13| 
 | 20210506T11:32:54Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1683 | 491| 
 | 20210506T04:27:17Z | A personnal UI library made as an excuse to have a published UI package | https://github.com/Liinkiing/klee | 9 | 1| 
 | 20210505T14:23:55Z | OVO | https://github.com/iKleeOVO/iKleeOVO.github.io | 0 | 1| 
@@ -76,31 +77,31 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210506T12:43:45Z | CDK is an open-sourced container penetration toolkit, offering stable exploitation in different slimmed containers without any OS dependency. It comes with penetration tools and many powerful PoCs/EXPs helps you to escape container and takeover K8s cluster easily. | https://github.com/cdk-team/CDK | 1356 | 197| 
-| 20210506T12:35:12Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9385 | 1516| 
-| 20210506T12:14:56Z | Null | https://github.com/Noizeeee/Exploits | 0 | 0| 
-| 20210506T12:03:42Z | I%m proud of myself   | https://github.com/ethereal03/ExploitSearcher | 0 | 0| 
-| 20210506T12:02:56Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 22 | 9| 
-| 20210506T11:56:14Z | High level Open Port exploitation framework. | https://github.com/cyb3rm0nk3y/OpenSploit | 0 | 0| 
-| 20210506T11:35:45Z | My collection of pentesting tools, notes and exploits | https://github.com/gikabyte27/Pentest | 0 | 0| 
-| 20210506T11:33:38Z | A Simple android remote administration tool using sockets. It uses java on the client side and python on the server side | https://github.com/karma9874/AndroRAT | 214 | 100| 
-| 20210506T11:26:04Z | A step by step workshop to exploit various vulnerabilities in Node.js and Java applications | https://github.com/snyk/exploit-workshop | 117 | 63| 
-| 20210506T10:40:24Z | Educational web application demonstrating techniques of binary exploitation - (Back-end) | https://github.com/Pen-Test3rs/binary_exploits_backend | 0 | 0| 
+| 20210506T23:51:25Z | Extensible framework for analyzing publicly available information about vulnerabilities | https://github.com/leonov-av/vulristics | 27 | 1| 
+| 20210506T23:43:25Z | Fully undetected Android Binder  | https://github.com/xiangin/Android-Exploit-2021 | 0 | 0| 
+| 20210506T23:42:14Z | PDF Exploit FUD 2021 + Fully Undetectable + Docx Exploit FUD  + Bypass All Antivirus. | https://github.com/xiangin/PDF-Exploit-FUD-2021 | 1 | 0| 
+| 20210506T23:30:53Z | Pseudo shells for different Lambda Runtime Environments & Lambda persistency exploits | https://github.com/Djkusik/Lambda-sHell | 0 | 0| 
+| 20210506T23:08:02Z | Thi powershell script has got to run in remote windows host, even for pivoting | https://github.com/FabioDefilippo/winallenum | 2 | 1| 
+| 20210506T23:02:42Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 22 | 9| 
+| 20210506T22:58:56Z | scripts to reproduce analysis | https://github.com/sigmap666/NaturalExploiters | 0 | 0| 
+| 20210506T22:49:46Z | PoC exploits for software vulnerabilities | https://github.com/lockedbyte/CVE-Exploits | 456 | 99| 
+| 20210506T22:41:56Z | Tools and Exploits | https://github.com/abundov/exploits | 0 | 0| 
+| 20210506T21:53:40Z | this is a simple python exploition tool with loads more! | https://github.com/buffkermitisagod/routerex | 1 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210506T11:59:32Z | Null | https://github.com/HarunResit-cyber/Backdoor---Trojan | 0 | 0| 
-| 20210506T11:33:38Z | A Simple android remote administration tool using sockets. It uses java on the client side and python on the server side | https://github.com/karma9874/AndroRAT | 214 | 100| 
-| 20210506T08:58:02Z | Python network worm that spreads on the local network and gives the attacker control of these machines. | https://github.com/pylyf/NetWorm | 143 | 66| 
-| 20210506T08:37:00Z | Null | https://github.com/Hem1700/backdoor | 0 | 0| 
-| 20210506T08:08:52Z | Null | https://github.com/xpf/Backdoor-Learning-arXiv | 1 | 0| 
-| 20210506T06:08:22Z | Small and convenient C2 tool for Windows targets | https://github.com/Cr4sh/MicroBackdoor | 165 | 30| 
-| 20210506T05:37:39Z | Backdoors Framework for Deep Learning and Federated Learning. A light-weight tool to conduct your research on backdoors. | https://github.com/ebagdasa/backdoors101 | 69 | 13| 
-| 20210506T04:47:00Z | TrojanZoo provides a universal pytorch platform to conduct security researches (especially backdoor attacks/defenses) of image classification in deep learning. | https://github.com/ain-soph/trojanzoo | 69 | 11| 
-| 20210506T04:25:07Z | Avyukt is a Exploitation Framework which can be used to generate Malicious Payloads and exploit Windows OS | https://github.com/Vedant-Bhalgama/Avyukt | 29 | 14| 
-| 20210506T03:17:40Z | Simple Python Backdoor | https://github.com/zNairy/Sonaris | 6 | 0| 
+| 20210506T23:39:46Z | Criando um Sniffer em C para detecção de BackDoors. | https://github.com/agenteph/Sniffer-em-C | 0 | 1| 
+| 20210506T22:30:54Z | Small and convenient C2 tool for Windows targets | https://github.com/Cr4sh/MicroBackdoor | 170 | 31| 
+| 20210506T22:05:51Z | Simple Python Backdoor | https://github.com/zNairy/Sonaris | 6 | 0| 
+| 20210506T18:49:05Z | Python 3 IRC Bot / Botnet | https://github.com/trackmastersteve/HackServ | 19 | 16| 
+| 20210506T17:19:55Z | A Simple android remote administration tool using sockets. It uses java on the client side and python on the server side | https://github.com/karma9874/AndroRAT | 215 | 100| 
+| 20210506T16:40:52Z | Null | https://github.com/connorbuck/backdoor-dispensary-website | 0 | 0| 
+| 20210506T15:03:15Z | Backdoors Framework for Deep Learning and Federated Learning. A light-weight tool to conduct your research on backdoors. | https://github.com/ebagdasa/backdoors101 | 70 | 13| 
+| 20210506T14:44:13Z | the dashboard for managing the backdoor data for the luxr system | https://github.com/EDMONDGIHOZO/luxr_dashboard | 0 | 0| 
+| 20210506T14:30:23Z | LKM rootkit for Linux Kernels 2.6.x/3.x/4.x/5.x (x86/x86_64 and ARM64) | https://github.com/m0nad/Diamorphine | 767 | 283| 
+| 20210506T13:45:18Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 229 | 38| 
 
 
 # fuzz on Github 推荐
