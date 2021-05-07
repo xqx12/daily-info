@@ -77,7 +77,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210507T01:52:09Z | A Python Tool that exploits then mass upload WSO shells on a list of websites | https://github.com/rootsmadi/ShellStorming | 0 | 0| 
+| 20210507T01:53:22Z | A Python Tool that exploits then mass upload WSO shells on a list of websites | https://github.com/rootsmadi/ShellStorming | 0 | 0| 
 | 20210507T01:33:01Z | Null | https://github.com/0xturazzi/Um-Livrinho-Sobre-Exploit-Dev | 0 | 0| 
 | 20210507T01:25:19Z | Reverse engineering tooling for automating exploit identification and exploitation | https://github.com/roostercoopllc/repytk | 0 | 0| 
 | 20210507T01:02:49Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 22 | 9| 
