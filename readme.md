@@ -54,6 +54,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210507T12:35:14Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9386 | 1516| 
 | 20210507T12:03:28Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 22 | 9| 
 | 20210507T11:55:38Z | Null | https://github.com/YiPrograms/CSST-BinaryExploitation | 0 | 0| 
 | 20210507T11:49:09Z | Zenith configs. Exploit them at your own risk. | https://github.com/egorbelibov/unix_configs | 1 | 0| 
@@ -63,7 +64,6 @@
 | 20210507T09:47:09Z | Forestry Thematic Exploitation Platform | https://github.com/cgi-eoss/ftep | 5 | 0| 
 | 20210507T09:14:13Z | Null | https://github.com/Noizeeee/Exploits | 0 | 0| 
 | 20210507T09:13:36Z | A simple btc exchange written in DJango that exploits MongoDB through DJongo. | https://github.com/lucagobbi/bitfinis | 0 | 0| 
-| 20210507T08:55:50Z | CTF framework and exploit development library | https://github.com/Gallopsled/pwntools | 7846 | 1384| 
 
 
 # backdoor on Github 推荐
