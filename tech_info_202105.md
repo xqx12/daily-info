@@ -111,8 +111,8 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210508T01:35:13Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6255 | 1267| 
 | 20210508T01:20:06Z | Fuzzing cryptographic libraries. Magic bug printer go brrrr. | https://github.com/guidovranken/cryptofuzz | 279 | 37| 
-| 20210508T01:07:57Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6254 | 1267| 
 | 20210508T01:01:01Z | Projeto da Avaliação 3 da aula de Modelos de Incerteza | https://github.com/osnirxadrez/Avaliacao3LogicaFuzzy | 0 | 0| 
 | 20210508T00:31:50Z | Fuzzing the OS-Peripheral boundary without hardware | https://github.com/buszk/Drifuzz | 0 | 0| 
 | 20210507T23:31:24Z | Null | https://github.com/paul-gomes/Neuro-Fuzzy-System | 0 | 0| 
