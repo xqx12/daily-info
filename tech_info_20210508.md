@@ -74,7 +74,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210508T12:55:22Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6256 | 1267| 
+| 20210508T12:57:04Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6256 | 1267| 
 | 20210508T12:34:32Z | This is React whatsapp with Google authentication | https://github.com/rookasrudzianskas/Fuzzy-Whatsapp-app | 1 | 0| 
 | 20210508T12:24:43Z | Null | https://github.com/sahandfcc/fuzzy-octo-lamp | 0 | 0| 
 | 20210508T12:23:37Z | fzf-like fuzzy-finder as a Go library | https://github.com/ktr0731/go-fuzzyfinder | 223 | 21| 
