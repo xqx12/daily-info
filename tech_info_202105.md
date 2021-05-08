@@ -81,6 +81,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210508T00:57:21Z | A collection of intentionally vulnerable pieces of code used to demonstrate different insecure programming practices, how they can be exploited and how they can be fixed, | https://github.com/ColourLaserPrinterWithDuplexPrint/VulnerableByDesign | 0 | 0| 
 | 20210508T00:51:19Z | Made By SquiddyPepe (aka BeefStew45/BeefStewz, Marshellow, and RobbieTheHedgehog) and The Ace. | https://github.com/anwir-prota/WikiVandalismCode | 0 | 0| 
 | 20210508T00:51:07Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 16 | 11| 
 | 20210508T00:44:17Z | Discord User Tag Discriminator Bruteforcer Program Written In Python3 By Anwir Prota, Chis & Father Satan. | https://github.com/H3R3T1CS/Discrim-Bruteforce | 0 | 0| 
@@ -90,7 +91,6 @@
 | 20210507T22:15:55Z | Thi powershell script has got to run in remote windows host, even for pivoting | https://github.com/FabioDefilippo/winallenum | 2 | 1| 
 | 20210507T22:07:39Z | Null | https://github.com/th3ken-dev/TH3KEN-EDITON | 2 | 0| 
 | 20210507T21:55:36Z | sourflamez is one of the roblox exploits that supports multi API%s. Check it out here! | https://github.com/ice1919/official-sourflamez-download-page | 1 | 0| 
-| 20210507T21:35:13Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9389 | 1517| 
 
 
 # backdoor on Github 推荐
