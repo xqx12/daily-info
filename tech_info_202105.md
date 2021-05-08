@@ -53,7 +53,7 @@
 | 20210507T17:43:18Z | CVE-2020-9496 | CVE-2020-9496 manual exploit | https://github.com/cyber-niz/CVE-2020-9496 | XML-RPC request are vulnerable to unsafe deserialization and Cross-Site Scripting issues in Apache OFBiz 17.12.03| 
 | 20210507T15:25:57Z | CVE-2021-3493 | Null | https://github.com/Ishan3011/CVE-2021-3493 | The overlayfs implementation in the linux kernel did not properly validate with respect to user namespaces the setting of file capabilities on files in an underlying file system. Due to the combination of unprivileged user namespaces along with a patch carried in the Ubuntu kernel to allow unprivileged overlay mounts, an attacker could use this to gain elevated privileges.| 
 | 20210507T15:02:07Z | CVE-2021-21315 | CVE 2021-21315 PoC | https://github.com/ForbiddenProgrammer/CVE-2021-21315-PoC | The System Information Library for Node.JS (npm package %systeminformation%) is an open source collection of functions to retrieve detailed hardware, system and OS information. In systeminformation before version 5.3.1 there is a command injection vulnerability. Problem was fixed in version 5.3.1. As a workaround instead of upgrading, be sure to check or sanitize service parameters that are passed to si.inetLatency(), si.inetChecksite(), si.services(), si.processLoad() ... do only allow strings, reject any arrays. String sanitation works as expected.| 
-| 20210507T13:24:21Z | CVE-2021-30461 | VOIP RCE | https://github.com/Vulnmachines/CVE-2021-30461 | | 
+| 20210507T13:24:21Z | CVE-2021-30461 | VOIP RCE | https://github.com/Vulnmachines/CVE-2021-30461 | 未查询到CVE信息| 
 | 20210506T21:46:04Z | CVE-2021-31795 | PoC for exploiting CVE-2021-31795 | https://github.com/JamesGeee/CVE-2021-31795 | The PowerVR GPU kernel driver in pvrsrvkm.ko through 2021-04-24 for the Linux kernel, as used on Alcatel 1S phones, allows attackers to overwrite heap memory via PhysmemNewRamBackedPMR.| 
 | 20210506T21:45:49Z | CVE-2021-31417 | PoC for exploiting CVE-2021-31417 | https://github.com/JamesGeee/CVE-2021-31417 | This vulnerability allows local attackers to disclose sensitive information on affected installations of Parallels Desktop 15.1.4-47270. An attacker must first obtain the ability to execute low-privileged code on the target guest system in order to exploit this vulnerability. The specific flaw exists within the Toolgate component. The issue results from the lack of proper initialization of memory prior to accessing it. An attacker can leverage this in conjunction with other vulnerabilities to escalate privileges and execute arbitrary code in the context of the hypervisor. Was ZDI-CAN-12131.| 
 
@@ -111,16 +111,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210508T01:35:13Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6255 | 1267| 
-| 20210508T01:20:06Z | Fuzzing cryptographic libraries. Magic bug printer go brrrr. | https://github.com/guidovranken/cryptofuzz | 279 | 37| 
-| 20210508T01:01:01Z | Projeto da Avaliação 3 da aula de Modelos de Incerteza | https://github.com/osnirxadrez/Avaliacao3LogicaFuzzy | 0 | 0| 
-| 20210508T00:31:50Z | Fuzzing the OS-Peripheral boundary without hardware | https://github.com/buszk/Drifuzz | 0 | 0| 
-| 20210507T23:31:24Z | Null | https://github.com/paul-gomes/Neuro-Fuzzy-System | 0 | 0| 
-| 20210507T22:47:06Z | Fuzzy Telegram | https://github.com/ShotaroMatsuya/fuzzy-telegram | 0 | 0| 
-| 20210507T22:37:48Z | This paper presents the design and development of a Fuzzy Inference Systems (FIS) to provide advice and assist in the decision- making process for job application into the cyber security industry.  | https://github.com/robertandreibarbulescu/fuzzy_inference_system | 1 | 0| 
-| 20210507T22:33:57Z | fuzzy-disco.com public site project from omni-solutiont-tech.com%s html-boilerplate #0005. | https://github.com/AdamRj-765/fuzzy-disco.com | 0 | 0| 
-| 20210507T21:15:23Z | Null | https://github.com/Juanosorio94/fuzzing-rdma | 0 | 0| 
-| 20210507T21:14:54Z | Coding practice for HTML/CSS/anything else web based | https://github.com/FuzzyPumpkin/FuzzyPumpkin.github.io | 5 | 1| 
+| 20210508T12:24:43Z | Null | https://github.com/sahandfcc/fuzzy-octo-lamp | 0 | 0| 
+| 20210508T12:23:37Z | fzf-like fuzzy-finder as a Go library | https://github.com/ktr0731/go-fuzzyfinder | 223 | 21| 
+| 20210508T12:18:28Z | React native playground | https://github.com/robert-gruner/fuzzy-barnacle | 0 | 0| 
+| 20210508T12:11:13Z | My Master Thesis Project for Fuzzy Logic Control System on Raspberry Pi 4 with Python PL | https://github.com/Yerlan999/FuzzyLogic_Control_on_RaspberryPi | 0 | 0| 
+| 20210508T11:52:55Z | Null | https://github.com/mmunar97/discrete-fuzzy-operators | 0 | 0| 
+| 20210508T11:50:42Z | This is React whatsapp with Google authentication | https://github.com/rookasrudzianskas/Fuzzy-Whatsapp-app | 1 | 0| 
+| 20210508T11:50:37Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 373 | 30| 
+| 20210508T10:48:34Z | Ev description  | https://github.com/muz4151/fuzzy-succotash | 0 | 0| 
+| 20210508T10:34:26Z | Null | https://github.com/VeriBlock/fuzz-corpus | 0 | 1| 
+| 20210508T10:33:41Z | a javascript tests playground | https://github.com/Saif-Shines/fuzzy-invention | 0 | 0| 
 
 
 
