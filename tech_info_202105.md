@@ -55,7 +55,7 @@
 | 20210506T23:58:07Z | CVE-2021-30461 | CVE-2021-30461 | https://github.com/daedalus/CVE-2021-30461 | 未查询到CVE信息| 
 | 20210506T21:46:04Z | CVE-2021-31795 | PoC for exploiting CVE-2021-31795 | https://github.com/JamesGeee/CVE-2021-31795 | The PowerVR GPU kernel driver in pvrsrvkm.ko through 2021-04-24 for the Linux kernel, as used on Alcatel 1S phones, allows attackers to overwrite heap memory via PhysmemNewRamBackedPMR.| 
 | 20210506T21:45:49Z | CVE-2021-31417 | PoC for exploiting CVE-2021-31417 | https://github.com/JamesGeee/CVE-2021-31417 | This vulnerability allows local attackers to disclose sensitive information on affected installations of Parallels Desktop 15.1.4-47270. An attacker must first obtain the ability to execute low-privileged code on the target guest system in order to exploit this vulnerability. The specific flaw exists within the Toolgate component. The issue results from the lack of proper initialization of memory prior to accessing it. An attacker can leverage this in conjunction with other vulnerabilities to escalate privileges and execute arbitrary code in the context of the hypervisor. Was ZDI-CAN-12131.| 
-| 20210506T21:45:35Z | CVE-2021-31418 | PoC for exploiting CVE-2021-31418 | https://github.com/JamesGeee/CVE-2021-31418 | | 
+| 20210506T21:45:35Z | CVE-2021-31418 | PoC for exploiting CVE-2021-31418 | https://github.com/JamesGeee/CVE-2021-31418 | This vulnerability allows local attackers to disclose sensitive information on affected installations of Parallels Desktop 15.1.4-47270. An attacker must first obtain the ability to execute low-privileged code on the target guest system in order to exploit this vulnerability. The specific flaw exists within the Toolgate component. The issue results from the lack of proper initialization of memory prior to accessing it. An attacker can leverage this in conjunction with other vulnerabilities to escalate privileges and execute arbitrary code in the context of the hypervisor. Was ZDI-CAN-12221.| 
 
 
 # klee on Github 推荐
@@ -111,16 +111,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210507T12:32:17Z | Hack Club%s Friendly Neighborhood Moderator Bot | https://github.com/hackclub/the-fuzz | 3 | 3| 
-| 20210507T12:28:27Z | fuzzy string matching in R | https://github.com/mlampros/fuzzywuzzyR | 26 | 3| 
-| 20210507T12:15:13Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 5 | 4| 
-| 20210507T12:13:27Z | Null | https://github.com/nyoycie/fuzzy | 0 | 0| 
-| 20210507T11:52:03Z | Null | https://github.com/BartekBac/FuzzyFlink | 0 | 0| 
-| 20210507T11:42:45Z | Some sort of a social network using react js, hello from 2004 :) | https://github.com/androranogajec/fuzzy-social-network | 0 | 0| 
-| 20210507T11:40:04Z | To make fuzzing Rust easy | https://github.com/trailofbits/test-fuzz | 1 | 1| 
-| 20210507T11:36:21Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 363 | 28| 
-| 20210507T11:25:58Z | Fake News Detection, Repository. | https://github.com/hrs2203/fuzzy-pancake | 0 | 0| 
-| 20210507T11:16:52Z | Null | https://github.com/shelvenzhou/ferry-fuzzbench | 0 | 0| 
+| 20210508T01:20:06Z | Fuzzing cryptographic libraries. Magic bug printer go brrrr. | https://github.com/guidovranken/cryptofuzz | 279 | 37| 
+| 20210508T01:07:57Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6254 | 1267| 
+| 20210508T01:01:01Z | Projeto da Avaliação 3 da aula de Modelos de Incerteza | https://github.com/osnirxadrez/Avaliacao3LogicaFuzzy | 0 | 0| 
+| 20210508T00:31:50Z | Fuzzing the OS-Peripheral boundary without hardware | https://github.com/buszk/Drifuzz | 0 | 0| 
+| 20210507T23:31:24Z | Null | https://github.com/paul-gomes/Neuro-Fuzzy-System | 0 | 0| 
+| 20210507T22:47:06Z | Fuzzy Telegram | https://github.com/ShotaroMatsuya/fuzzy-telegram | 0 | 0| 
+| 20210507T22:37:48Z | This paper presents the design and development of a Fuzzy Inference Systems (FIS) to provide advice and assist in the decision- making process for job application into the cyber security industry.  | https://github.com/robertandreibarbulescu/fuzzy_inference_system | 1 | 0| 
+| 20210507T22:33:57Z | fuzzy-disco.com public site project from omni-solutiont-tech.com%s html-boilerplate #0005. | https://github.com/AdamRj-765/fuzzy-disco.com | 0 | 0| 
+| 20210507T21:15:23Z | Null | https://github.com/Juanosorio94/fuzzing-rdma | 0 | 0| 
+| 20210507T21:14:54Z | Coding practice for HTML/CSS/anything else web based | https://github.com/FuzzyPumpkin/FuzzyPumpkin.github.io | 5 | 1| 
 
 
 

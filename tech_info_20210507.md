@@ -88,16 +88,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210507T12:32:17Z | Hack Club%s Friendly Neighborhood Moderator Bot | https://github.com/hackclub/the-fuzz | 3 | 3| 
-| 20210507T12:28:27Z | fuzzy string matching in R | https://github.com/mlampros/fuzzywuzzyR | 26 | 3| 
-| 20210507T12:15:13Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 5 | 4| 
-| 20210507T12:13:27Z | Null | https://github.com/nyoycie/fuzzy | 0 | 0| 
-| 20210507T11:52:03Z | Null | https://github.com/BartekBac/FuzzyFlink | 0 | 0| 
-| 20210507T11:42:45Z | Some sort of a social network using react js, hello from 2004 :) | https://github.com/androranogajec/fuzzy-social-network | 0 | 0| 
-| 20210507T11:40:04Z | To make fuzzing Rust easy | https://github.com/trailofbits/test-fuzz | 1 | 1| 
-| 20210507T11:36:21Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 363 | 28| 
-| 20210507T11:25:58Z | Fake News Detection, Repository. | https://github.com/hrs2203/fuzzy-pancake | 0 | 0| 
-| 20210507T11:16:52Z | Null | https://github.com/shelvenzhou/ferry-fuzzbench | 0 | 0| 
+| 20210507T23:31:24Z | Null | https://github.com/paul-gomes/Neuro-Fuzzy-System | 0 | 0| 
+| 20210507T22:47:06Z | Fuzzy Telegram | https://github.com/ShotaroMatsuya/fuzzy-telegram | 0 | 0| 
+| 20210507T22:37:48Z | This paper presents the design and development of a Fuzzy Inference Systems (FIS) to provide advice and assist in the decision- making process for job application into the cyber security industry.  | https://github.com/robertandreibarbulescu/fuzzy_inference_system | 1 | 0| 
+| 20210507T22:33:57Z | fuzzy-disco.com public site project from omni-solutiont-tech.com%s html-boilerplate #0005. | https://github.com/AdamRj-765/fuzzy-disco.com | 0 | 0| 
+| 20210507T21:15:23Z | Null | https://github.com/Juanosorio94/fuzzing-rdma | 0 | 0| 
+| 20210507T21:14:54Z | Coding practice for HTML/CSS/anything else web based | https://github.com/FuzzyPumpkin/FuzzyPumpkin.github.io | 5 | 1| 
+| 20210507T20:10:52Z | Null | https://github.com/gdepuydt/fuzzoz | 0 | 0| 
+| 20210507T19:20:15Z | Null | https://github.com/shobensack/fuzzy_sweater_main | 0 | 0| 
+| 20210507T19:15:39Z | The project deals with data integrity in reliable cloud storage. We tried to implement the better algorithms which ensures better data integrity. We created seperated portals for users and admin for the functioning of the project. | https://github.com/vjaideep08/Fuzzy-Identity-Based-Data-Integrity-Auditing-For-Reliable-Cloud-Storage-Systems | 1 | 0| 
+| 20210507T18:24:35Z | Null | https://github.com/vHanda/fuzzy_search | 0 | 0| 
 
 
 
