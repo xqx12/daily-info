@@ -37,7 +37,7 @@
 | --- | --- | --- | --- | ---| 
 | 20210507T23:06:28Z | CVE-2021-28312 | POC and description for CVE-2021-28312 | https://github.com/shubham0d/CVE-2021-28312 | Windows NTFS Denial of Service Vulnerability| 
 | 20210507T20:22:42Z | CVE-2021-31728 | Vulnerability in zam64.sys, zam32.sys allowing ring 0 code execution. | https://github.com/irql0/CVE-2021-31728 | 未查询到CVE信息| 
-| 20210507T17:43:18Z | CVE-2020-9496 | CVE-2020-9496 manual exploit | https://github.com/cyber-niz/CVE-2020-9496 | XML-RPC request are vulnerable to unsafe deserialization and Cross-Site Scripting issues in Apache OFBiz 17.12.03| 
+| 20210507T17:43:18Z | CVE-2020-9496 | CVE-2020-9496 manual exploit | https://github.com/cyber-niz/CVE-2020-9496 | | 
 | 20210507T15:25:57Z | CVE-2021-3493 | Null | https://github.com/Ishan3011/CVE-2021-3493 | The overlayfs implementation in the linux kernel did not properly validate with respect to user namespaces the setting of file capabilities on files in an underlying file system. Due to the combination of unprivileged user namespaces along with a patch carried in the Ubuntu kernel to allow unprivileged overlay mounts, an attacker could use this to gain elevated privileges.| 
 | 20210507T15:02:07Z | CVE-2021-21315 | CVE 2021-21315 PoC | https://github.com/ForbiddenProgrammer/CVE-2021-21315-PoC | The System Information Library for Node.JS (npm package %systeminformation%) is an open source collection of functions to retrieve detailed hardware, system and OS information. In systeminformation before version 5.3.1 there is a command injection vulnerability. Problem was fixed in version 5.3.1. As a workaround instead of upgrading, be sure to check or sanitize service parameters that are passed to si.inetLatency(), si.inetChecksite(), si.services(), si.processLoad() ... do only allow strings, reject any arrays. String sanitation works as expected.| 
 | 20210507T13:24:21Z | CVE-2021-30461 | VOIP RCE | https://github.com/Vulnmachines/CVE-2021-30461 | 未查询到CVE信息| 
@@ -46,7 +46,6 @@
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210507T22:30:18Z | Kleeja Open Source Desktop Application (Windows / Linux / Mac) | https://github.com/anasybal/Kleeja-da | 0 | 0| 
 | 20210507T18:22:02Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 的 Klee One 的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 559 | 13| 
 | 20210507T17:05:22Z | A personnal UI library made as an excuse to have a published UI package | https://github.com/Liinkiing/klee | 10 | 1| 
 | 20210507T00:04:51Z | Null | https://github.com/sosp21paper780/vigor-klee | 0 | 0| 
