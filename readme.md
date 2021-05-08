@@ -49,6 +49,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210508T12:22:37Z | Null | https://github.com/doantung99/exploit | 0 | 0| 
 | 20210508T12:16:23Z | L4D2 SourceMod plugin: Blocks specific client commands to avoid exploits. | https://github.com/Mystik-Spiral/l4d_command_block | 1 | 0| 
 | 20210508T12:02:45Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 22 | 9| 
 | 20210508T11:30:01Z | CDK is an open-sourced container penetration toolkit, offering stable exploitation in different slimmed containers without any OS dependency. It comes with penetration tools and many powerful PoCs/EXPs helps you to escape container and takeover K8s cluster easily. | https://github.com/cdk-team/CDK | 1367 | 199| 
@@ -58,7 +59,6 @@
 | 20210508T10:50:59Z | Null | https://github.com/Username132131231/exploit | 0 | 0| 
 | 20210508T10:29:55Z | A list of fun things to do with DarkRP addons | https://github.com/OverlordAkise/darkrp-exploits | 0 | 0| 
 | 20210508T09:57:03Z | The Browser Exploitation Framework Project | https://github.com/beefproject/beef | 5683 | 1350| 
-| 20210508T09:41:33Z | Null | https://github.com/nice0e3/CVE-2020-14882_Exploit_Gui | 10 | 0| 
 
 
 # backdoor on Github 推荐
