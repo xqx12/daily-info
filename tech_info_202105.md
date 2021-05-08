@@ -81,6 +81,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210508T01:45:19Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9390 | 1517| 
 | 20210508T01:41:24Z | macos/ios exploit writeup | https://github.com/houjingyi233/macOS-iOS-system-security | 101 | 11| 
 | 20210508T01:02:44Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 22 | 9| 
 | 20210508T00:57:21Z | A collection of intentionally vulnerable pieces of code used to demonstrate different insecure programming practices, how they can be exploited and how they can be fixed, | https://github.com/ColourLaserPrinterWithDuplexPrint/VulnerableByDesign | 0 | 0| 
@@ -90,7 +91,6 @@
 | 20210508T00:33:18Z | 7.5x Exploit Host Menu Binloader | https://github.com/ps4h3x/75x-auto-exploit | 1 | 0| 
 | 20210507T22:57:18Z | PS4 Exploit Host | https://github.com/Night-King-Host/Night-King-Host.github.io | 9 | 4| 
 | 20210507T22:15:55Z | Thi powershell script has got to run in remote windows host, even for pivoting | https://github.com/FabioDefilippo/winallenum | 2 | 1| 
-| 20210507T22:07:39Z | Null | https://github.com/th3ken-dev/TH3KEN-EDITON | 2 | 0| 
 
 
 # backdoor on Github 推荐
