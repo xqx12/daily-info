@@ -6,6 +6,17 @@
 # 玄武实验室 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20210508 | Cilium：利用 BPF 实现为 Docker 和 Kubernetes 的 API 感知网络安全过滤服务。 | https://github.com/cilium/cilium| 
+| 20210508 | CVE-2020-27904 的漏洞演示代码。CVE-2020-27904：由于 FAT 功能实现存在缺陷，攻击者可以利用此缺陷实现内核中的任意代码执行。 | https://github.com/pattern-f/xattr-oob-swap| 
+| 20210508 | DS3（Developing Secure Systems Summit） Fuzz 专题分享。 | https://www.youtube.com/watch?v=vJGfY6neIQ0| 
+| 20210508 | 使用 Jazzer 进行模糊测试（fuzz）。 | https://blog.code-intelligence.com/fuzz-targets-jazzer| 
+| 20210508 | 关于分支预测和 BTB 的技术分享，包括在 x86 和 M1 下的基准测试。 | https://blog.cloudflare.com/branch-predictor/| 
+| 20210508 | 深入研究 Windows PEB。 | https://mohamed-fakroud.gitbook.io/t3nb3w/peb| 
+| 20210508 | Workplace from Facebook 创建新账户时存在未授权的漏洞。 | https://mvinni.medium.com/workplace-by-facebook-unauthorized-access-to-companies-environment-27-5k-a593a57092f1| 
+| 20210508 | Data Only Attack: Neutralizing EtwTi Provider | https://public.cnotools.studio/bring-your-own-vulnerable-kernel-driver-byovkd/exploits/data-only-attack-neutralizing-etwti-provider| 
+| 20210508 | 关于深入理解 Windows 的一些逆向代码笔记。 | https://github.com/vxcute/WindowsReversed| 
+| 20210508 | CVE-2021-1815（利用 cfprefsd 本地提权）的细节分析。 | https://sec.today/pulses/b243c97a-dcd6-401d-96a2-0834c73d7586/| 
+| 20210508 | CVE-2021-1815（利用 cfprefsd 本地提权）的细节分析。 | https://www.offensive-security.com/offsec/macos-preferences-priv-escalation/?utm_content=165476462&utm_medium=social&utm_source=twitter&hss_channel=tw-134994790| 
 | 20210507 | Heappy：基于 gdb / gef 的编辑器，辅助开发 PoC 时处理堆栈问题。 | https://github.com/gand3lf/heappy| 
 | 20210507 | 利用 GCC 11 检测内存管理错误——第一部分：理解动态内存分配 | https://developers.redhat.com/blog/2021/04/30/detecting-memory-management-bugs-with-gcc-11-part-1-understanding-dynamic-allocation/| 
 | 20210507 | Android NFC 中的 Felica 处理存在内存泄漏、OOB 和 Double Free。 | https://bugs.chromium.org/p/project-zero/issues/detail?id=2152| 
@@ -15,22 +26,12 @@
 | 20210507 | UNC2529 钓鱼活动的追踪分析报告。 | https://www.fireeye.com/blog/threat-research/2021/05/unc2529-triple-double-trifecta-phishing-campaign.html| 
 | 20210507 | 对于高通 DSP（Digital Signal Processor ）安全研究。 | https://research.checkpoint.com/2021/pwn2own-qualcomm-dsp/| 
 | 20210507 | 在 TunnelSnake 活动中新发现了 Moriya Rootkit，及对 Moriya 的分析。 | https://securelist.com/operation-tunnelsnake-and-moriya-rootkit/101831/| 
-| 20210507 | 使用 Cosign 等签名流程可以有效的改善容器供应链安全。 | https://sec.today/pulses/296eff43-096c-40ac-b00a-140b950d0325/| 
-| 20210507 | 不同浏览器的 HSTS 缓存实现的分析。 | https://sec.today/pulses/30613f88-8a71-4576-89e4-226d42e5ce39/| 
-| 20210507 | 高通 MSM（Mobile Station Modem）安全性调研。 | https://sec.today/pulses/6b6c178a-c048-48ff-a357-529a18dda7b2/| 
-| 20210507 | 使用 Cosign 等签名流程可以有效的改善容器供应链安全。 | https://security.googleblog.com/2021/05/making-internet-more-secure-one-signed.html?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+GoogleOnlineSecurityBlog+%28Google+Online+Security+Blog%29| 
-| 20210507 | 不同浏览器的 HSTS 缓存实现的分析。 | http://insinuator.net/2021/05/analysis-of-hsts-caches-of-different-browsers/| 
-| 20210507 | 高通 MSM（Mobile Station Modem）安全性调研。 | https://research.checkpoint.com/2021/security-probe-of-qualcomm-msm/| 
-| 20210506 | Windows Chrome 90 版本启用了基于硬件的堆栈保护机制（Hardware-enforced Stack Protection）。 | https://security.googleblog.com/2021/05/enabling-hardware-enforced-stack.html?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+GoogleOnlineSecurityBlog+%28Google+Online+Security+Blog%29| 
-| 20210506 | CVE-2021-26900：通过 win32k 提权漏洞的详细分析和 PoC。 | https://www.zerodayinitiative.com/blog/2021/5/3/cve-2021-26900-privilege-escalation-via-a-use-after-free-vulnerability-in-win32k| 
-| 20210506 | Jenkins Attack Framework：针对 Jenkins 的攻击框架。 | https://github.com/Accenture/jenkins-attack-framework| 
-| 20210506 | 利用 Java Bytecode 攻击 Google App Engine。 | https://blog.polybdenum.com/2021/05/05/how-i-hacked-google-app-engine-anatomy-of-a-java-bytecode-exploit.html| 
-| 20210506 | 滥用 Google People API 导出 organization 目录数据。 | https://antman1p-30185.medium.com/abusing-the-google-people-api-c9bd2b8c74cd| 
 
 
 # 安全维基 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20210508 | 2021海华AI挑战赛·中文阅读理解·技术组 Rank12 | https://mp.weixin.qq.com/s/I3oA4VioFZM3zFOmj5gqJw| 
 | 20210507 | gemnasium-db: GitLab 漏洞依赖项扫描的数据库 | https://github.com/Tabll/gemnasium-db| 
 | 20210507 | PHP文件包含小总结 | https://www.anquanke.com/post/id/232358| 
 | 20210507 | PHP 原生类在 CTF 中的利用 | https://www.anquanke.com/post/id/238482| 
@@ -40,32 +41,31 @@
 | 20210504 | FTPServer的Fuzzing | https://mp.weixin.qq.com/s/ezo0W22-igu8uhnbO8sR-Q| 
 | 20210504 | 解析以色列网络空间作战力量 | https://mp.weixin.qq.com/s/4QvU3yHKVbLzTupW4aF37Q| 
 | 20210503 | SecWiki周刊（第374期) | https://www.sec-wiki.com/weekly/374| 
-| 20210502 | 工作中常用的相似度算法以及特征提取算法 | https://mp.weixin.qq.com/s/vUS553WX8pFIiWoqhkFNlg| 
 
 
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20210508T11:43:59Z | CVE-2021-31728 | Vulnerability in zam64.sys, zam32.sys allowing ring 0 code execution. | https://github.com/irql0/CVE-2021-31728 | 未查询到CVE信息| 
+| 20210508T11:25:22Z | CVE-2021-30461 | CVE-2021-30461 | https://github.com/daedalus/CVE-2021-30461 | 未查询到CVE信息| 
+| 20210508T09:41:33Z | CVE-2020-14882 | Null | https://github.com/nice0e3/CVE-2020-14882_Exploit_Gui | Vulnerability in the Oracle WebLogic Server product of Oracle Fusion Middleware (component: Console). Supported versions that are affected are 10.3.6.0.0, 12.1.3.0.0, 12.2.1.3.0, 12.2.1.4.0 and 14.1.1.0.0. Easily exploitable vulnerability allows unauthenticated attacker with network access via HTTP to compromise Oracle WebLogic Server. Successful attacks of this vulnerability can result in takeover of Oracle WebLogic Server. CVSS 3.1 Base Score 9.8 (Confidentiality, Integrity and Availability impacts). CVSS Vector: (CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H).| 
 | 20210507T23:06:28Z | CVE-2021-28312 | POC and description for CVE-2021-28312 | https://github.com/shubham0d/CVE-2021-28312 | Windows NTFS Denial of Service Vulnerability| 
-| 20210507T20:22:42Z | CVE-2021-31728 | Vulnerability in zam64.sys, zam32.sys allowing ring 0 code execution. | https://github.com/irql0/CVE-2021-31728 | 未查询到CVE信息| 
 | 20210507T17:43:18Z | CVE-2020-9496 | CVE-2020-9496 manual exploit | https://github.com/cyber-niz/CVE-2020-9496 | XML-RPC request are vulnerable to unsafe deserialization and Cross-Site Scripting issues in Apache OFBiz 17.12.03| 
 | 20210507T15:25:57Z | CVE-2021-3493 | Null | https://github.com/Ishan3011/CVE-2021-3493 | The overlayfs implementation in the linux kernel did not properly validate with respect to user namespaces the setting of file capabilities on files in an underlying file system. Due to the combination of unprivileged user namespaces along with a patch carried in the Ubuntu kernel to allow unprivileged overlay mounts, an attacker could use this to gain elevated privileges.| 
 | 20210507T15:02:07Z | CVE-2021-21315 | CVE 2021-21315 PoC | https://github.com/ForbiddenProgrammer/CVE-2021-21315-PoC | The System Information Library for Node.JS (npm package %systeminformation%) is an open source collection of functions to retrieve detailed hardware, system and OS information. In systeminformation before version 5.3.1 there is a command injection vulnerability. Problem was fixed in version 5.3.1. As a workaround instead of upgrading, be sure to check or sanitize service parameters that are passed to si.inetLatency(), si.inetChecksite(), si.services(), si.processLoad() ... do only allow strings, reject any arrays. String sanitation works as expected.| 
 | 20210507T13:24:21Z | CVE-2021-30461 | VOIP RCE | https://github.com/Vulnmachines/CVE-2021-30461 | 未查询到CVE信息| 
-| 20210506T23:58:07Z | CVE-2021-30461 | CVE-2021-30461 | https://github.com/daedalus/CVE-2021-30461 | 未查询到CVE信息| 
 | 20210506T21:46:04Z | CVE-2021-31795 | PoC for exploiting CVE-2021-31795 | https://github.com/JamesGeee/CVE-2021-31795 | The PowerVR GPU kernel driver in pvrsrvkm.ko through 2021-04-24 for the Linux kernel, as used on Alcatel 1S phones, allows attackers to overwrite heap memory via PhysmemNewRamBackedPMR.| 
 | 20210506T21:45:49Z | CVE-2021-31417 | PoC for exploiting CVE-2021-31417 | https://github.com/JamesGeee/CVE-2021-31417 | This vulnerability allows local attackers to disclose sensitive information on affected installations of Parallels Desktop 15.1.4-47270. An attacker must first obtain the ability to execute low-privileged code on the target guest system in order to exploit this vulnerability. The specific flaw exists within the Toolgate component. The issue results from the lack of proper initialization of memory prior to accessing it. An attacker can leverage this in conjunction with other vulnerabilities to escalate privileges and execute arbitrary code in the context of the hypervisor. Was ZDI-CAN-12131.| 
-| 20210506T21:45:35Z | CVE-2021-31418 | PoC for exploiting CVE-2021-31418 | https://github.com/JamesGeee/CVE-2021-31418 | This vulnerability allows local attackers to disclose sensitive information on affected installations of Parallels Desktop 15.1.4-47270. An attacker must first obtain the ability to execute low-privileged code on the target guest system in order to exploit this vulnerability. The specific flaw exists within the Toolgate component. The issue results from the lack of proper initialization of memory prior to accessing it. An attacker can leverage this in conjunction with other vulnerabilities to escalate privileges and execute arbitrary code in the context of the hypervisor. Was ZDI-CAN-12221.| 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210508T01:27:05Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 的 Klee One 的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 561 | 13| 
-| 20210508T00:22:56Z | Kleeja Open Source Desktop Application (Windows / Linux / Mac) | https://github.com/anasybal/Kleeja-da | 0 | 0| 
+| 20210508T11:01:59Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 的 Klee One 的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 570 | 13| 
+| 20210508T02:55:53Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1684 | 491| 
+| 20210508T00:22:56Z | Kleeja Open Source Desktop Application (Windows / Linux / Mac) | https://github.com/anasybal/Kleeja-da | 0 | 1| 
 | 20210507T17:05:22Z | A personnal UI library made as an excuse to have a published UI package | https://github.com/Liinkiing/klee | 10 | 1| 
 | 20210507T00:04:51Z | Null | https://github.com/sosp21paper780/vigor-klee | 0 | 0| 
-| 20210506T11:32:54Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1683 | 491| 
 | 20210505T14:23:55Z | OVO | https://github.com/iKleeOVO/iKleeOVO.github.io | 0 | 1| 
 | 20210505T01:40:45Z | Create CFGs and compute complexity metrics for Python, C++, and Java code. | https://github.com/hmc-alpaqa/metrinome | 11 | 0| 
 | 20210504T12:00:35Z | ovo | https://github.com/Mtoly/klee.github.io | 0 | 0| 
@@ -81,31 +81,31 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210508T01:45:19Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9390 | 1517| 
-| 20210508T01:41:24Z | macos/ios exploit writeup | https://github.com/houjingyi233/macOS-iOS-system-security | 101 | 11| 
-| 20210508T01:02:44Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 22 | 9| 
-| 20210508T00:57:21Z | A collection of intentionally vulnerable pieces of code used to demonstrate different insecure programming practices, how they can be exploited and how they can be fixed, | https://github.com/ColourLaserPrinterWithDuplexPrint/VulnerableByDesign | 0 | 0| 
-| 20210508T00:51:19Z | Made By SquiddyPepe (aka BeefStew45/BeefStewz, Marshellow, and RobbieTheHedgehog) and The Ace. | https://github.com/anwir-prota/WikiVandalismCode | 0 | 0| 
-| 20210508T00:51:07Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 16 | 11| 
-| 20210508T00:44:17Z | Discord User Tag Discriminator Bruteforcer Program Written In Python3 By Anwir Prota, Chis & Father Satan. | https://github.com/H3R3T1CS/Discrim-Bruteforce | 0 | 0| 
-| 20210508T00:33:18Z | 7.5x Exploit Host Menu Binloader | https://github.com/ps4h3x/75x-auto-exploit | 1 | 0| 
-| 20210507T22:57:18Z | PS4 Exploit Host | https://github.com/Night-King-Host/Night-King-Host.github.io | 9 | 4| 
-| 20210507T22:15:55Z | Thi powershell script has got to run in remote windows host, even for pivoting | https://github.com/FabioDefilippo/winallenum | 2 | 1| 
+| 20210508T12:02:45Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 22 | 9| 
+| 20210508T11:30:01Z | CDK is an open-sourced container penetration toolkit, offering stable exploitation in different slimmed containers without any OS dependency. It comes with penetration tools and many powerful PoCs/EXPs helps you to escape container and takeover K8s cluster easily. | https://github.com/cdk-team/CDK | 1367 | 199| 
+| 20210508T11:16:39Z | One stop place for exploiting Jira instances in your proximity | https://github.com/0x48piraj/Jiraffe | 96 | 18| 
+| 20210508T11:10:44Z | Thi powershell script has got to run in remote windows host, even for pivoting | https://github.com/FabioDefilippo/winallenum | 2 | 1| 
+| 20210508T10:54:24Z | This bash script will help you to hack remote hosts  | https://github.com/FabioDefilippo/linuxallremote | 11 | 3| 
+| 20210508T10:50:59Z | Null | https://github.com/Username132131231/exploit | 0 | 0| 
+| 20210508T10:29:55Z | A list of fun things to do with DarkRP addons | https://github.com/OverlordAkise/darkrp-exploits | 0 | 0| 
+| 20210508T09:57:03Z | The Browser Exploitation Framework Project | https://github.com/beefproject/beef | 5683 | 1350| 
+| 20210508T09:41:33Z | Null | https://github.com/nice0e3/CVE-2020-14882_Exploit_Gui | 10 | 0| 
+| 20210508T09:30:27Z | Collection of exploits, mainly to see where I%m at. | https://github.com/Crystalware/HEVD-Exploits | 2 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210508T11:42:36Z | Full-featured C2 framework which silently persists on webserver with a single-line PHP backdoor | https://github.com/nil0x42/phpsploit | 1274 | 345| 
+| 20210508T10:07:19Z | Null | https://github.com/load-the-code/backdoor-python | 0 | 0| 
+| 20210508T08:24:56Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 231 | 38| 
+| 20210508T08:02:14Z | Small and convenient C2 tool for Windows targets | https://github.com/Cr4sh/MicroBackdoor | 178 | 33| 
+| 20210508T07:50:53Z | A tool for the persistent XSS exploitation with a focus for mobile web browsers | https://github.com/echo-devim/xbackdoor | 34 | 11| 
 | 20210507T20:42:50Z | Simples Backdoor Camuflada em um Programa. | https://github.com/Kanui-C/BackdoorSUID | 0 | 0| 
-| 20210507T20:38:25Z | Small and convenient C2 tool for Windows targets | https://github.com/Cr4sh/MicroBackdoor | 175 | 31| 
 | 20210507T19:56:03Z | Null | https://github.com/Alfalmi/python-backdoor | 0 | 0| 
 | 20210507T19:09:30Z | Python 3 IRC Bot / Botnet | https://github.com/trackmastersteve/HackServ | 19 | 16| 
 | 20210507T19:02:59Z | Simple Python Backdoor | https://github.com/zNairy/Sonaris | 6 | 0| 
 | 20210507T17:31:29Z | Quick and dirty scripts to create linux backdoors for a range of scenarios. | https://github.com/elbee-cyber/Linux-Backdoors | 1 | 1| 
-| 20210507T15:42:58Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 230 | 38| 
-| 20210507T13:40:14Z | Null | https://github.com/Hem1700/backdoor | 0 | 0| 
-| 20210507T13:20:18Z | the dashboard for managing the backdoor data for the luxr system | https://github.com/EDMONDGIHOZO/luxr_dashboard | 0 | 0| 
-| 20210507T11:51:04Z | A Simple android remote administration tool using sockets. It uses java on the client side and python on the server side | https://github.com/karma9874/AndroRAT | 217 | 100| 
 
 
 # fuzz on Github 推荐
