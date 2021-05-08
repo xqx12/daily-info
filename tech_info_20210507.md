@@ -35,12 +35,12 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20210507T23:06:28Z | CVE-2021-28312 | POC and description for CVE-2021-28312 | https://github.com/shubham0d/CVE-2021-28312 | | 
+| 20210507T23:06:28Z | CVE-2021-28312 | POC and description for CVE-2021-28312 | https://github.com/shubham0d/CVE-2021-28312 | Windows NTFS Denial of Service Vulnerability| 
 | 20210507T20:22:42Z | CVE-2021-31728 | Vulnerability in zam64.sys, zam32.sys allowing ring 0 code execution. | https://github.com/irql0/CVE-2021-31728 | 未查询到CVE信息| 
 | 20210507T17:43:18Z | CVE-2020-9496 | CVE-2020-9496 manual exploit | https://github.com/cyber-niz/CVE-2020-9496 | XML-RPC request are vulnerable to unsafe deserialization and Cross-Site Scripting issues in Apache OFBiz 17.12.03| 
 | 20210507T15:25:57Z | CVE-2021-3493 | Null | https://github.com/Ishan3011/CVE-2021-3493 | The overlayfs implementation in the linux kernel did not properly validate with respect to user namespaces the setting of file capabilities on files in an underlying file system. Due to the combination of unprivileged user namespaces along with a patch carried in the Ubuntu kernel to allow unprivileged overlay mounts, an attacker could use this to gain elevated privileges.| 
 | 20210507T15:02:07Z | CVE-2021-21315 | CVE 2021-21315 PoC | https://github.com/ForbiddenProgrammer/CVE-2021-21315-PoC | The System Information Library for Node.JS (npm package %systeminformation%) is an open source collection of functions to retrieve detailed hardware, system and OS information. In systeminformation before version 5.3.1 there is a command injection vulnerability. Problem was fixed in version 5.3.1. As a workaround instead of upgrading, be sure to check or sanitize service parameters that are passed to si.inetLatency(), si.inetChecksite(), si.services(), si.processLoad() ... do only allow strings, reject any arrays. String sanitation works as expected.| 
-| 20210507T13:24:21Z | CVE-2021-30461 | VOIP RCE | https://github.com/Vulnmachines/CVE-2021-30461 | | 
+| 20210507T13:24:21Z | CVE-2021-30461 | VOIP RCE | https://github.com/Vulnmachines/CVE-2021-30461 | 未查询到CVE信息| 
 
 
 # klee on Github 推荐
@@ -63,12 +63,12 @@
 | 20210507T22:15:55Z | Thi powershell script has got to run in remote windows host, even for pivoting | https://github.com/FabioDefilippo/winallenum | 2 | 1| 
 | 20210507T22:07:39Z | Null | https://github.com/th3ken-dev/TH3KEN-EDITON | 2 | 0| 
 | 20210507T21:55:36Z | sourflamez is one of the roblox exploits that supports multi API%s. Check it out here! | https://github.com/ice1919/official-sourflamez-download-page | 1 | 0| 
-| 20210507T21:51:41Z | Made By SquiddyPepe (aka BeefStew45/BeefStewz, Marshellow, and RobbieTheHedgehog) and The Ace. | https://github.com/anwir-prota/WikiVandalismCode | 0 | 0| 
 | 20210507T21:35:13Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9389 | 1517| 
 | 20210507T21:25:13Z | Modular penetration testing platform that enables you to write, test, and execute exploit code. | https://github.com/EntySec/HatSploit | 44 | 14| 
 | 20210507T21:24:30Z | A Roblox Exploit WITH A GOOD UI , Owl Hub Support, Level 6/7, Watch the Video: https://www.youtube.com/watch?v=mRLKPmc5U0A | https://github.com/TERIHAX/Level7ExploitTutorial | 0 | 0| 
 | 20210507T21:17:01Z | Collection of bash scripts I wrote to make my life easier or test myself that you may find useful. | https://github.com/tobor88/Bash | 13 | 4| 
 | 20210507T20:44:28Z | Exploits project Hacking Command Center | https://github.com/chacka0101/exploits | 5 | 6| 
+| 20210507T20:36:35Z | Compilação de Exploits para League Of Legends em um só script | https://github.com/BlackReaperSK/lolexploits | 0 | 0| 
 
 
 # backdoor on Github 推荐
