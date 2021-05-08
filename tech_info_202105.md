@@ -81,6 +81,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210508T12:37:53Z | One stop place for exploiting Jira instances in your proximity | https://github.com/0x48piraj/Jiraffe | 96 | 18| 
 | 20210508T12:35:12Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9391 | 1517| 
 | 20210508T12:30:53Z | notes about 🔍 Reverse Engineering and 🔥 Exploit Development | https://github.com/bmedicke/REED | 3 | 1| 
 | 20210508T12:26:13Z | The official Exploit Database repository | https://github.com/offensive-security/exploitdb | 6088 | 1725| 
@@ -88,7 +89,6 @@
 | 20210508T12:16:23Z | L4D2 SourceMod plugin: Blocks specific client commands to avoid exploits. | https://github.com/Mystik-Spiral/l4d_command_block | 1 | 0| 
 | 20210508T12:02:45Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 22 | 9| 
 | 20210508T11:30:01Z | CDK is an open-sourced container penetration toolkit, offering stable exploitation in different slimmed containers without any OS dependency. It comes with penetration tools and many powerful PoCs/EXPs helps you to escape container and takeover K8s cluster easily. | https://github.com/cdk-team/CDK | 1367 | 199| 
-| 20210508T11:16:39Z | One stop place for exploiting Jira instances in your proximity | https://github.com/0x48piraj/Jiraffe | 96 | 18| 
 | 20210508T11:10:44Z | Thi powershell script has got to run in remote windows host, even for pivoting | https://github.com/FabioDefilippo/winallenum | 2 | 1| 
 | 20210508T10:54:24Z | This bash script will help you to hack remote hosts  | https://github.com/FabioDefilippo/linuxallremote | 11 | 3| 
 
