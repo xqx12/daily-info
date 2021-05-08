@@ -49,6 +49,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210508T12:30:53Z | notes about 🔍 Reverse Engineering and 🔥 Exploit Development | https://github.com/bmedicke/REED | 3 | 1| 
 | 20210508T12:26:13Z | The official Exploit Database repository | https://github.com/offensive-security/exploitdb | 6088 | 1725| 
 | 20210508T12:25:44Z | Null | https://github.com/doantung99/exploit | 0 | 0| 
 | 20210508T12:16:23Z | L4D2 SourceMod plugin: Blocks specific client commands to avoid exploits. | https://github.com/Mystik-Spiral/l4d_command_block | 1 | 0| 
@@ -58,7 +59,6 @@
 | 20210508T11:10:44Z | Thi powershell script has got to run in remote windows host, even for pivoting | https://github.com/FabioDefilippo/winallenum | 2 | 1| 
 | 20210508T10:54:24Z | This bash script will help you to hack remote hosts  | https://github.com/FabioDefilippo/linuxallremote | 11 | 3| 
 | 20210508T10:50:59Z | Null | https://github.com/Username132131231/exploit | 0 | 0| 
-| 20210508T10:29:55Z | A list of fun things to do with DarkRP addons | https://github.com/OverlordAkise/darkrp-exploits | 0 | 0| 
 
 
 # backdoor on Github 推荐
