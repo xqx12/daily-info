@@ -29,7 +29,7 @@
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
 | 20210508T11:43:59Z | CVE-2021-31728 | Vulnerability in zam64.sys, zam32.sys allowing ring 0 code execution. | https://github.com/irql0/CVE-2021-31728 | 未查询到CVE信息| 
-| 20210508T11:25:22Z | CVE-2021-30461 | CVE-2021-30461 | https://github.com/daedalus/CVE-2021-30461 | | 
+| 20210508T11:25:22Z | CVE-2021-30461 | CVE-2021-30461 | https://github.com/daedalus/CVE-2021-30461 | 未查询到CVE信息| 
 | 20210508T09:41:33Z | CVE-2020-14882 | Null | https://github.com/nice0e3/CVE-2020-14882_Exploit_Gui | Vulnerability in the Oracle WebLogic Server product of Oracle Fusion Middleware (component: Console). Supported versions that are affected are 10.3.6.0.0, 12.1.3.0.0, 12.2.1.3.0, 12.2.1.4.0 and 14.1.1.0.0. Easily exploitable vulnerability allows unauthenticated attacker with network access via HTTP to compromise Oracle WebLogic Server. Successful attacks of this vulnerability can result in takeover of Oracle WebLogic Server. CVSS 3.1 Base Score 9.8 (Confidentiality, Integrity and Availability impacts). CVSS Vector: (CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H).| 
 
 
@@ -49,6 +49,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210508T12:16:23Z | L4D2 SourceMod plugin: Blocks specific client commands to avoid exploits. | https://github.com/Mystik-Spiral/l4d_command_block | 1 | 0| 
 | 20210508T12:02:45Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 22 | 9| 
 | 20210508T11:30:01Z | CDK is an open-sourced container penetration toolkit, offering stable exploitation in different slimmed containers without any OS dependency. It comes with penetration tools and many powerful PoCs/EXPs helps you to escape container and takeover K8s cluster easily. | https://github.com/cdk-team/CDK | 1367 | 199| 
 | 20210508T11:16:39Z | One stop place for exploiting Jira instances in your proximity | https://github.com/0x48piraj/Jiraffe | 96 | 18| 
@@ -58,7 +59,6 @@
 | 20210508T10:29:55Z | A list of fun things to do with DarkRP addons | https://github.com/OverlordAkise/darkrp-exploits | 0 | 0| 
 | 20210508T09:57:03Z | The Browser Exploitation Framework Project | https://github.com/beefproject/beef | 5683 | 1350| 
 | 20210508T09:41:33Z | Null | https://github.com/nice0e3/CVE-2020-14882_Exploit_Gui | 10 | 0| 
-| 20210508T09:30:27Z | Collection of exploits, mainly to see where I%m at. | https://github.com/Crystalware/HEVD-Exploits | 2 | 0| 
 
 
 # backdoor on Github 推荐
