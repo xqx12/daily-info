@@ -46,7 +46,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20210507T23:06:28Z | CVE-2021-28312 | POC and description for CVE-2021-28312 | https://github.com/shubham0d/CVE-2021-28312 | | 
+| 20210507T23:06:28Z | CVE-2021-28312 | POC and description for CVE-2021-28312 | https://github.com/shubham0d/CVE-2021-28312 | Windows NTFS Denial of Service Vulnerability| 
 | 20210507T20:22:42Z | CVE-2021-31728 | Vulnerability in zam64.sys, zam32.sys allowing ring 0 code execution. | https://github.com/irql0/CVE-2021-31728 | 未查询到CVE信息| 
 | 20210507T17:43:18Z | CVE-2020-9496 | CVE-2020-9496 manual exploit | https://github.com/cyber-niz/CVE-2020-9496 | XML-RPC request are vulnerable to unsafe deserialization and Cross-Site Scripting issues in Apache OFBiz 17.12.03| 
 | 20210507T15:25:57Z | CVE-2021-3493 | Null | https://github.com/Ishan3011/CVE-2021-3493 | The overlayfs implementation in the linux kernel did not properly validate with respect to user namespaces the setting of file capabilities on files in an underlying file system. Due to the combination of unprivileged user namespaces along with a patch carried in the Ubuntu kernel to allow unprivileged overlay mounts, an attacker could use this to gain elevated privileges.| 
@@ -55,7 +55,7 @@
 | 20210506T23:58:07Z | CVE-2021-30461 | CVE-2021-30461 | https://github.com/daedalus/CVE-2021-30461 | 未查询到CVE信息| 
 | 20210506T21:46:04Z | CVE-2021-31795 | PoC for exploiting CVE-2021-31795 | https://github.com/JamesGeee/CVE-2021-31795 | The PowerVR GPU kernel driver in pvrsrvkm.ko through 2021-04-24 for the Linux kernel, as used on Alcatel 1S phones, allows attackers to overwrite heap memory via PhysmemNewRamBackedPMR.| 
 | 20210506T21:45:49Z | CVE-2021-31417 | PoC for exploiting CVE-2021-31417 | https://github.com/JamesGeee/CVE-2021-31417 | This vulnerability allows local attackers to disclose sensitive information on affected installations of Parallels Desktop 15.1.4-47270. An attacker must first obtain the ability to execute low-privileged code on the target guest system in order to exploit this vulnerability. The specific flaw exists within the Toolgate component. The issue results from the lack of proper initialization of memory prior to accessing it. An attacker can leverage this in conjunction with other vulnerabilities to escalate privileges and execute arbitrary code in the context of the hypervisor. Was ZDI-CAN-12131.| 
-| 20210506T21:45:35Z | CVE-2021-31418 | PoC for exploiting CVE-2021-31418 | https://github.com/JamesGeee/CVE-2021-31418 | This vulnerability allows local attackers to disclose sensitive information on affected installations of Parallels Desktop 15.1.4-47270. An attacker must first obtain the ability to execute low-privileged code on the target guest system in order to exploit this vulnerability. The specific flaw exists within the Toolgate component. The issue results from the lack of proper initialization of memory prior to accessing it. An attacker can leverage this in conjunction with other vulnerabilities to escalate privileges and execute arbitrary code in the context of the hypervisor. Was ZDI-CAN-12221.| 
+| 20210506T21:45:35Z | CVE-2021-31418 | PoC for exploiting CVE-2021-31418 | https://github.com/JamesGeee/CVE-2021-31418 | | 
 
 
 # klee on Github 推荐
