@@ -81,6 +81,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210508T12:26:13Z | The official Exploit Database repository | https://github.com/offensive-security/exploitdb | 6088 | 1725| 
 | 20210508T12:25:44Z | Null | https://github.com/doantung99/exploit | 0 | 0| 
 | 20210508T12:16:23Z | L4D2 SourceMod plugin: Blocks specific client commands to avoid exploits. | https://github.com/Mystik-Spiral/l4d_command_block | 1 | 0| 
 | 20210508T12:02:45Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 22 | 9| 
@@ -90,7 +91,6 @@
 | 20210508T10:54:24Z | This bash script will help you to hack remote hosts  | https://github.com/FabioDefilippo/linuxallremote | 11 | 3| 
 | 20210508T10:50:59Z | Null | https://github.com/Username132131231/exploit | 0 | 0| 
 | 20210508T10:29:55Z | A list of fun things to do with DarkRP addons | https://github.com/OverlordAkise/darkrp-exploits | 0 | 0| 
-| 20210508T09:57:03Z | The Browser Exploitation Framework Project | https://github.com/beefproject/beef | 5683 | 1350| 
 
 
 # backdoor on Github 推荐
