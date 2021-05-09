@@ -38,6 +38,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210509T12:35:12Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9397 | 1517| 
 | 20210509T12:13:11Z | Roblox exploit DLL base using the LBI execution method | https://github.com/deaddlocust/LBI-Base | 1 | 1| 
 | 20210509T12:11:55Z | Code for exploit for CVE-2020-12717 | https://github.com/wabzqem/covidsafe-CVE-2020-12717-exploit | 2 | 4| 
 | 20210509T12:02:38Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 22 | 9| 
@@ -47,7 +48,6 @@
 | 20210509T11:35:58Z | Microsoft » Windows 10 : Security Vulnerabilities | https://github.com/nu11secur1ty/Windows10Exploits | 330 | 92| 
 | 20210509T11:33:14Z | Null | https://github.com/Username132131231/exploit | 0 | 0| 
 | 20210509T11:08:08Z | Analysis of kernel mode device drivers, in an attempt to find bugs or vulnerabilities. All exploits that have been patched by the vendor that are related to the device driver will be disclosed in this GitHub repository as well. | https://github.com/Crystalware/Driver-Analysis | 0 | 0| 
-| 20210509T10:57:44Z | This is a GUI application of the Contract Automata Toolkit,  exploiting the contract automata library to put contract automata at work | https://github.com/davidebasile/ContractAutomataApp | 0 | 0| 
 
 
 # backdoor on Github 推荐
