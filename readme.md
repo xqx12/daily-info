@@ -28,6 +28,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20210508T17:14:21Z | CVE-2021-28312 | POC and description for CVE-2021-28312 | https://github.com/shubham0d/CVE-2021-28312 | Windows NTFS Denial of Service Vulnerability| 
 | 20210508T11:43:59Z | CVE-2021-31728 | Vulnerability in zam64.sys, zam32.sys allowing ring 0 code execution. | https://github.com/irql0/CVE-2021-31728 | 未查询到CVE信息| 
 | 20210508T11:25:22Z | CVE-2021-30461 | CVE-2021-30461 | https://github.com/daedalus/CVE-2021-30461 | 未查询到CVE信息| 
 | 20210508T09:41:33Z | CVE-2020-14882 | Null | https://github.com/nice0e3/CVE-2020-14882_Exploit_Gui | Vulnerability in the Oracle WebLogic Server product of Oracle Fusion Middleware (component: Console). Supported versions that are affected are 10.3.6.0.0, 12.1.3.0.0, 12.2.1.3.0, 12.2.1.4.0 and 14.1.1.0.0. Easily exploitable vulnerability allows unauthenticated attacker with network access via HTTP to compromise Oracle WebLogic Server. Successful attacks of this vulnerability can result in takeover of Oracle WebLogic Server. CVSS 3.1 Base Score 9.8 (Confidentiality, Integrity and Availability impacts). CVSS Vector: (CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H).| 
@@ -36,9 +37,10 @@
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210508T21:42:33Z | Null | https://github.com/thierry-tct/KLEE-SEMu | 2 | 2| 
+| 20210508T19:27:21Z | ⚡ Kleeja Open Source Desktop Application (Windows / Linux / Mac) | https://github.com/anasybal/Kleeja-da | 0 | 1| 
 | 20210508T11:01:59Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 的 Klee One 的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 570 | 13| 
 | 20210508T02:55:53Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1684 | 491| 
-| 20210508T00:22:56Z | Kleeja Open Source Desktop Application (Windows / Linux / Mac) | https://github.com/anasybal/Kleeja-da | 0 | 1| 
 
 
 # s2e on Github 推荐
@@ -49,23 +51,25 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210508T12:54:36Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9392 | 1517| 
-| 20210508T12:37:53Z | One stop place for exploiting Jira instances in your proximity | https://github.com/0x48piraj/Jiraffe | 96 | 18| 
-| 20210508T12:30:53Z | notes about 🔍 Reverse Engineering and 🔥 Exploit Development | https://github.com/bmedicke/REED | 3 | 1| 
-| 20210508T12:26:13Z | The official Exploit Database repository | https://github.com/offensive-security/exploitdb | 6088 | 1725| 
-| 20210508T12:25:44Z | Null | https://github.com/doantung99/exploit | 0 | 0| 
-| 20210508T12:16:23Z | L4D2 SourceMod plugin: Blocks specific client commands to avoid exploits. | https://github.com/Mystik-Spiral/l4d_command_block | 1 | 0| 
-| 20210508T12:02:45Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 22 | 9| 
-| 20210508T11:30:01Z | CDK is an open-sourced container penetration toolkit, offering stable exploitation in different slimmed containers without any OS dependency. It comes with penetration tools and many powerful PoCs/EXPs helps you to escape container and takeover K8s cluster easily. | https://github.com/cdk-team/CDK | 1367 | 199| 
-| 20210508T11:10:44Z | Thi powershell script has got to run in remote windows host, even for pivoting | https://github.com/FabioDefilippo/winallenum | 2 | 1| 
-| 20210508T10:54:24Z | This bash script will help you to hack remote hosts  | https://github.com/FabioDefilippo/linuxallremote | 11 | 3| 
+| 20210508T23:58:53Z | Null | https://github.com/Username132131231/exploit | 0 | 0| 
+| 20210508T23:24:04Z | Bukkit plugin that aims on fixing Exploits in your Minecraft network. [Requires HamsterAPI to work] | https://github.com/2lstudios-mc/ExploitFixer | 89 | 24| 
+| 20210508T23:02:40Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 22 | 9| 
+| 20210508T22:52:42Z | Docker group permission escalation Automated, usually for pentesting. | https://github.com/Seven-7Up/docker-exploitAutomation | 0 | 0| 
+| 20210508T21:42:39Z | Windows Exploit Suggester - Next Generation | https://github.com/bitsadmin/wesng | 2292 | 357| 
+| 20210508T21:36:42Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9395 | 1517| 
+| 20210508T21:28:38Z | Hello, I had said in my ret2sys/ret2libc exploit attack write-up i%d be making another write-up for binaries with exploit mitigations such as NX and ASLR on, and today is that day I will start to work on my writeup! | https://github.com/Ret2plt/Ret2plt-Exploit-write-up | 1 | 0| 
+| 20210508T21:23:57Z | Null | https://github.com/andrewjing404/sorryMicrosoftForExploitingYourResources | 0 | 0| 
+| 20210508T21:13:38Z | A Roblox admin script and GUI. | https://github.com/ex7ase/eden | 1 | 0| 
+| 20210508T20:50:39Z | Modular penetration testing platform that enables you to write, test, and execute exploit code. | https://github.com/EntySec/HatSploit | 46 | 15| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210508T12:33:41Z | Small and convenient C2 tool for Windows targets | https://github.com/Cr4sh/MicroBackdoor | 179 | 34| 
-| 20210508T11:42:36Z | Full-featured C2 framework which silently persists on webserver with a single-line PHP backdoor | https://github.com/nil0x42/phpsploit | 1274 | 345| 
+| 20210508T22:36:48Z | Small and convenient C2 tool for Windows targets | https://github.com/Cr4sh/MicroBackdoor | 183 | 35| 
+| 20210508T19:59:37Z | Null | https://github.com/connorbuck/backdoor-dispensary-website | 0 | 0| 
+| 20210508T16:03:24Z | Full-featured C2 framework which silently persists on webserver with a single-line PHP backdoor | https://github.com/nil0x42/phpsploit | 1275 | 345| 
+| 20210508T13:40:55Z | A Simple android remote administration tool using sockets. It uses java on the client side and python on the server side | https://github.com/karma9874/AndroRAT | 217 | 100| 
 | 20210508T10:07:19Z | Null | https://github.com/load-the-code/backdoor-python | 0 | 0| 
 | 20210508T08:24:56Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 231 | 38| 
 | 20210508T07:50:53Z | A tool for the persistent XSS exploitation with a focus for mobile web browsers | https://github.com/echo-devim/xbackdoor | 34 | 11| 
