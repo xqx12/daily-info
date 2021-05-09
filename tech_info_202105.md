@@ -81,6 +81,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210509T12:57:09Z | Mini project, exploiting security breach in Slack | https://github.com/DorGal23/SlackDLLHijack | 0 | 0| 
 | 20210509T12:44:02Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9398 | 1517| 
 | 20210509T12:13:11Z | Roblox exploit DLL base using the LBI execution method | https://github.com/deaddlocust/LBI-Base | 1 | 1| 
 | 20210509T12:11:55Z | Code for exploit for CVE-2020-12717 | https://github.com/wabzqem/covidsafe-CVE-2020-12717-exploit | 2 | 4| 
@@ -90,7 +91,6 @@
 | 20210509T11:37:26Z | Null | https://github.com/th3ken-dev/TH3KEN-EDITON | 2 | 0| 
 | 20210509T11:35:58Z | Microsoft » Windows 10 : Security Vulnerabilities | https://github.com/nu11secur1ty/Windows10Exploits | 330 | 92| 
 | 20210509T11:33:14Z | Null | https://github.com/Username132131231/exploit | 0 | 0| 
-| 20210509T11:08:08Z | Analysis of kernel mode device drivers, in an attempt to find bugs or vulnerabilities. All exploits that have been patched by the vendor that are related to the device driver will be disclosed in this GitHub repository as well. | https://github.com/Crystalware/Driver-Analysis | 0 | 0| 
 
 
 # backdoor on Github 推荐
