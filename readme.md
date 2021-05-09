@@ -28,10 +28,10 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20210508T17:14:21Z | CVE-2021-28312 | POC and description for CVE-2021-28312 | https://github.com/shubham0d/CVE-2021-28312 | | 
+| 20210508T17:14:21Z | CVE-2021-28312 | POC and description for CVE-2021-28312 | https://github.com/shubham0d/CVE-2021-28312 | Windows NTFS Denial of Service Vulnerability| 
 | 20210508T11:43:59Z | CVE-2021-31728 | Vulnerability in zam64.sys, zam32.sys allowing ring 0 code execution. | https://github.com/irql0/CVE-2021-31728 | 未查询到CVE信息| 
 | 20210508T11:25:22Z | CVE-2021-30461 | CVE-2021-30461 | https://github.com/daedalus/CVE-2021-30461 | 未查询到CVE信息| 
-| 20210508T09:41:33Z | CVE-2020-14882 | Null | https://github.com/nice0e3/CVE-2020-14882_Exploit_Gui | Vulnerability in the Oracle WebLogic Server product of Oracle Fusion Middleware (component: Console). Supported versions that are affected are 10.3.6.0.0, 12.1.3.0.0, 12.2.1.3.0, 12.2.1.4.0 and 14.1.1.0.0. Easily exploitable vulnerability allows unauthenticated attacker with network access via HTTP to compromise Oracle WebLogic Server. Successful attacks of this vulnerability can result in takeover of Oracle WebLogic Server. CVSS 3.1 Base Score 9.8 (Confidentiality, Integrity and Availability impacts). CVSS Vector: (CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H).| 
+| 20210508T09:41:33Z | CVE-2020-14882 | Null | https://github.com/nice0e3/CVE-2020-14882_Exploit_Gui | | 
 
 
 # klee on Github 推荐
