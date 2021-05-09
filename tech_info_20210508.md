@@ -51,7 +51,6 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210508T23:58:53Z | Null | https://github.com/Username132131231/exploit | 0 | 0| 
 | 20210508T23:24:04Z | Bukkit plugin that aims on fixing Exploits in your Minecraft network. [Requires HamsterAPI to work] | https://github.com/2lstudios-mc/ExploitFixer | 89 | 24| 
 | 20210508T22:52:42Z | Docker group permission escalation Automated, usually for pentesting. | https://github.com/Seven-7Up/docker-exploitAutomation | 0 | 0| 
 | 20210508T21:42:39Z | Windows Exploit Suggester - Next Generation | https://github.com/bitsadmin/wesng | 2292 | 357| 
@@ -61,6 +60,7 @@
 | 20210508T21:13:38Z | A Roblox admin script and GUI. | https://github.com/ex7ase/eden | 1 | 0| 
 | 20210508T20:50:39Z | Modular penetration testing platform that enables you to write, test, and execute exploit code. | https://github.com/EntySec/HatSploit | 46 | 15| 
 | 20210508T20:31:13Z | Blog consacré au Raspberry Pi. Au programme : des actualités, des tutoriels en français, des conseils, des projets, et bien plus pour exploiter le maximum de votre framboise ! | https://github.com/Skyost/FramboisePi | 0 | 0| 
+| 20210508T19:12:23Z | pwninit - automate starting binary exploit challenges | https://github.com/io12/pwninit | 144 | 7| 
 
 
 # backdoor on Github 推荐
