@@ -67,8 +67,8 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210509T12:41:52Z | This is React whatsapp with Google authentication | https://github.com/rookasrudzianskas/Fuzzy-Whatsapp-app | 1 | 0| 
 | 20210509T12:39:37Z | Fuzzy logic example | https://github.com/PKopel/fuzzy | 0 | 0| 
-| 20210509T12:37:56Z | This is React whatsapp with Google authentication | https://github.com/rookasrudzianskas/Fuzzy-Whatsapp-app | 1 | 0| 
 | 20210509T12:23:45Z | Hi thre, I%m TRÄW🤟🏻, i%m a beginner in ethical hacking and Content Creator on Level iv Security & NOOBSEC. I Spend most of time coding outstanding ethical hacking projects or recording useful short tutorials . I love programming ethical hacking tools, fuzzing and hacking all the things | https://github.com/spectertraww/spectertraww | 1 | 0| 
 | 20210509T12:20:48Z | The code behind getfursu.it | https://github.com/veelkoov/fuzzrake | 6 | 0| 
 | 20210509T11:55:51Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 380 | 32| 
