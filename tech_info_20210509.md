@@ -67,7 +67,9 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210509T12:02:31Z | The code behind getfursu.it | https://github.com/veelkoov/fuzzrake | 6 | 0| 
+| 20210509T12:32:17Z | This is React whatsapp with Google authentication | https://github.com/rookasrudzianskas/Fuzzy-Whatsapp-app | 1 | 0| 
+| 20210509T12:23:45Z | Hi thre, I%m TRÄW🤟🏻, i%m a beginner in ethical hacking and Content Creator on Level iv Security & NOOBSEC. I Spend most of time coding outstanding ethical hacking projects or recording useful short tutorials . I love programming ethical hacking tools, fuzzing and hacking all the things | https://github.com/spectertraww/spectertraww | 1 | 0| 
+| 20210509T12:20:48Z | The code behind getfursu.it | https://github.com/veelkoov/fuzzrake | 6 | 0| 
 | 20210509T11:55:51Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 380 | 32| 
 | 20210509T11:16:20Z | Senior Design Project for COE Students, Group 8, Spring 2021 | https://github.com/HGElMir/fuzzy-logic-greenhouse | 0 | 0| 
 | 20210509T10:30:57Z | Null | https://github.com/nnamdi095/Fuzzy-rules-extraction-with-traingular-membership-function | 0 | 0| 
@@ -75,8 +77,6 @@
 | 20210509T10:04:41Z | This is the main website and system for Ball Fuzz Tennis Center. | https://github.com/Ball-Fuzz-Tennis-Center/tennis-system | 0 | 0| 
 | 20210509T09:47:05Z | Created with CodeSandbox | https://github.com/Abolajii/Fuzzy-search | 0 | 0| 
 | 20210509T09:41:14Z | Null | https://github.com/AlexiWolf/fuzz_rss | 0 | 0| 
-| 20210509T08:57:46Z | Repository holding database dumps from getfursu.it | https://github.com/veelkoov/fuzzrake-data | 0 | 0| 
-| 20210509T08:42:53Z | Null | https://github.com/mickey123422/fuzzy-deploy | 0 | 0| 
 
 
 
