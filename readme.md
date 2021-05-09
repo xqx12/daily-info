@@ -78,16 +78,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210508T12:57:04Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6256 | 1267| 
-| 20210508T12:34:32Z | This is React whatsapp with Google authentication | https://github.com/rookasrudzianskas/Fuzzy-Whatsapp-app | 1 | 0| 
-| 20210508T12:24:43Z | Null | https://github.com/sahandfcc/fuzzy-octo-lamp | 0 | 0| 
-| 20210508T12:23:37Z | fzf-like fuzzy-finder as a Go library | https://github.com/ktr0731/go-fuzzyfinder | 223 | 21| 
-| 20210508T12:18:28Z | React native playground | https://github.com/robert-gruner/fuzzy-barnacle | 0 | 0| 
-| 20210508T12:11:13Z | My Master Thesis Project for Fuzzy Logic Control System on Raspberry Pi 4 with Python PL | https://github.com/Yerlan999/FuzzyLogic_Control_on_RaspberryPi | 0 | 0| 
-| 20210508T11:52:55Z | Null | https://github.com/mmunar97/discrete-fuzzy-operators | 0 | 0| 
-| 20210508T11:50:37Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 373 | 30| 
-| 20210508T10:48:34Z | Ev description  | https://github.com/muz4151/fuzzy-succotash | 0 | 0| 
-| 20210508T10:34:26Z | Null | https://github.com/VeriBlock/fuzz-corpus | 0 | 1| 
+| 20210508T23:35:06Z | Null | https://github.com/VeriBlock/fuzz-corpus | 0 | 1| 
+| 20210508T22:56:11Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 1703 | 340| 
+| 20210508T22:42:12Z | CS 4152 Project | https://github.com/nicbarone/Fuzzy-Kiwi | 0 | 0| 
+| 20210508T22:33:38Z | Null | https://github.com/fuzziebrain/fuzziebrain.github.io | 0 | 0| 
+| 20210508T22:15:28Z | The code behind getfursu.it | https://github.com/veelkoov/fuzzrake | 6 | 0| 
+| 20210508T21:33:37Z | Personal website of Laurence Hughes | https://github.com/fuzzylogicxx/fuzzylogic | 4 | 1| 
+| 20210508T20:52:23Z | Null | https://github.com/nnorden/audio_fuzzing | 0 | 0| 
+| 20210508T20:29:27Z | Collection of code in python for machine learning course in university | https://github.com/GGkas/neuro-fuzzy | 0 | 0| 
+| 20210508T18:52:13Z | This is a compilation of different methods to abord fuzzy logic. It includes basic concepts of fuzzy sets, Jang Methods, Ponce Methods, Tsukamoto Methods, Centroid Methods, Semiautomatic clusters detection, etc. | https://github.com/JaimeJonathanOrtizVelazco/Fuzzy-Logic | 0 | 0| 
+| 20210508T18:50:39Z | Null | https://github.com/munat1/fuzzy-c-means | 0 | 0| 
 
 
 
