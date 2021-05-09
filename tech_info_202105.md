@@ -81,8 +81,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210509T00:37:23Z | A collection where my current and future writeups for exploits/CTF will go | https://github.com/Cryptogenic/Exploit-Writeups | 678 | 115| 
-| 20210509T00:33:09Z | Null | https://github.com/Username132131231/exploit | 0 | 0| 
+| 20210509T00:40:47Z | A collection where my current and future writeups for exploits/CTF will go | https://github.com/Cryptogenic/Exploit-Writeups | 678 | 115| 
+| 20210509T00:40:10Z | Null | https://github.com/Username132131231/exploit | 0 | 0| 
 | 20210509T00:02:42Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 22 | 9| 
 | 20210508T23:24:04Z | Bukkit plugin that aims on fixing Exploits in your Minecraft network. [Requires HamsterAPI to work] | https://github.com/2lstudios-mc/ExploitFixer | 89 | 24| 
 | 20210508T22:52:42Z | Docker group permission escalation Automated, usually for pentesting. | https://github.com/Seven-7Up/docker-exploitAutomation | 0 | 0| 
