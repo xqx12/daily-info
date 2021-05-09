@@ -19,7 +19,7 @@
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
 | 20210509T12:11:55Z | CVE-2020-12717 | Code for exploit for CVE-2020-12717 | https://github.com/wabzqem/covidsafe-CVE-2020-12717-exploit | The COVIDSafe (Australia) app 1.0 and 1.1 for iOS allows a remote attacker to crash the app, and consequently interfere with COVID-19 contact tracing, via a Bluetooth advertisement containing manufacturer data that is too short. This occurs because of an erroneous OpenTrace manuData.subdata call. The ABTraceTogether (Alberta), ProteGO (Poland), and TraceTogether (Singapore) apps were also affected.| 
-| 20210509T06:54:11Z | CVE-2021-21349 | XStream SSRF CVE-2021-21349 | https://github.com/s-index/CVE-2021-21349 | XStream is a Java library to serialize objects to XML and back again. In XStream before version 1.4.16, there is a vulnerability which may allow a remote attacker to request data from internal resources that are not publicly available only by manipulating the processed input stream. No user is affected, who followed the recommendation to setup XStream%s security framework with a whitelist limited to the minimal required types. If you rely on XStream%s default blacklist of the Security Framework, you will have to use at least version 1.4.16.| 
+| 20210509T06:54:11Z | CVE-2021-21349 | XStream SSRF CVE-2021-21349 | https://github.com/s-index/CVE-2021-21349 | | 
 | 20210509T06:48:28Z | CVE-2021-21341 | XStream DoS CVE-2021-21341 | https://github.com/s-index/CVE-2021-21341 | XStream is a Java library to serialize objects to XML and back again. In XStream before version 1.4.16, there is vulnerability which may allow a remote attacker to allocate 100% CPU time on the target system depending on CPU type or parallel execution of such a payload resulting in a denial of service only by manipulating the processed input stream. No user is affected who followed the recommendation to setup XStream%s security framework with a whitelist limited to the minimal required types. If you rely on XStream%s default blacklist of the Security Framework, you will have to use at least version 1.4.16.| 
 | 20210509T06:48:04Z | CVE-2020-13957 | Apache Solr RCE CVE-2020-13957 | https://github.com/s-index/CVE-2020-13957 | Apache Solr versions 6.6.0 to 6.6.6, 7.0.0 to 7.7.3 and 8.0.0 to 8.6.2 prevents some features considered dangerous (which could be used for remote code execution) to be configured in a ConfigSet that%s uploaded via API without authentication/authorization. The checks in place to prevent such features can be circumvented by using a combination of UPLOAD/CREATE actions.| 
 
@@ -38,7 +38,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210509T12:35:12Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9397 | 1517| 
+| 20210509T12:44:02Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9398 | 1517| 
 | 20210509T12:13:11Z | Roblox exploit DLL base using the LBI execution method | https://github.com/deaddlocust/LBI-Base | 1 | 1| 
 | 20210509T12:11:55Z | Code for exploit for CVE-2020-12717 | https://github.com/wabzqem/covidsafe-CVE-2020-12717-exploit | 2 | 4| 
 | 20210509T12:02:38Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 22 | 9| 
@@ -67,6 +67,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210509T12:46:04Z | React native playground | https://github.com/robert-gruner/fuzzy-barnacle | 0 | 0| 
 | 20210509T12:44:21Z | FuzzBench - Fuzzer benchmarking as a service. | https://github.com/google/fuzzbench | 636 | 115| 
 | 20210509T12:43:29Z | This is React whatsapp with Google authentication | https://github.com/rookasrudzianskas/Fuzzy-Whatsapp-app | 1 | 0| 
 | 20210509T12:39:37Z | Fuzzy logic example | https://github.com/PKopel/fuzzy | 0 | 0| 
@@ -76,7 +77,6 @@
 | 20210509T11:16:20Z | Senior Design Project for COE Students, Group 8, Spring 2021 | https://github.com/HGElMir/fuzzy-logic-greenhouse | 0 | 0| 
 | 20210509T10:30:57Z | Null | https://github.com/nnamdi095/Fuzzy-rules-extraction-with-traingular-membership-function | 0 | 0| 
 | 20210509T10:13:07Z | Null | https://github.com/VeriBlock/fuzz-corpus | 0 | 1| 
-| 20210509T10:04:41Z | This is the main website and system for Ball Fuzz Tennis Center. | https://github.com/Ball-Fuzz-Tennis-Center/tennis-system | 0 | 0| 
 
 
 
