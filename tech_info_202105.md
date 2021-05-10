@@ -53,7 +53,7 @@
 | 20210509T22:55:27Z | CVE-2021-30165 | PoC for exploiting CVE-2021-30165 | https://github.com/JamesGeee/CVE-2021-30165 | The default administrator account & password of the EDIMAX wireless network camera is hard-coded. Remote attackers can disassemble firmware to obtain the privileged permission and further control the devices.| 
 | 20210509T22:55:23Z | CVE-2020-36326 | PoC for exploiting CVE-2020-36326 | https://github.com/JamesGeee/CVE-2020-36326 | PHPMailer 6.1.8 through 6.4.0 allows object injection through Phar Deserialization via addAttachment with a UNC pathname. NOTE: this is similar to CVE-2018-19296, but arose because 6.1.8 fixed a functionality problem in which UNC pathnames were always considered unreadable by PHPMailer, even in safe contexts. As an unintended side effect, this fix eliminated the code that blocked addAttachment exploitation.| 
 | 20210509T22:55:20Z | CVE-2021-31826 | PoC for exploiting CVE-2021-31826 | https://github.com/JamesGeee/CVE-2021-31826 | Shibboleth Service Provider 3.x before 3.2.2 is prone to a NULL pointer dereference flaw involving the session recovery feature. The flaw is exploitable (for a daemon crash) on systems not using this feature if a crafted cookie is supplied.| 
-| 20210509T22:55:17Z | CVE-2020-23127 | PoC for exploiting CVE-2020-23127 | https://github.com/JamesGeee/CVE-2020-23127 | Chamilo LMS 1.11.10 is affected by Cross Site Request Forgery (CSRF) via the edit_user function by targeting an admin user.| 
+| 20210509T22:55:17Z | CVE-2020-23127 | PoC for exploiting CVE-2020-23127 | https://github.com/JamesGeee/CVE-2020-23127 | | 
 | 20210509T22:55:14Z | CVE-2020-17517 | PoC for exploiting CVE-2020-17517 | https://github.com/JamesGeee/CVE-2020-17517 | The S3 buckets and keys in a secure Apache Ozone Cluster must be inaccessible to anonymous access by default. The current security vulnerability allows access to keys and buckets through a curl command or an unauthenticated HTTP request. This enables unauthorized access to buckets and keys thereby exposing data to anonymous clients or users. This affected Apache Ozone prior to the 1.1.0 release.| 
 | 20210509T22:55:11Z | CVE-2021-28125 | PoC for exploiting CVE-2021-28125 | https://github.com/JamesGeee/CVE-2021-28125 | Apache Superset up to and including 1.0.1 allowed for the creation of an external URL that could be malicious. By not checking user input for open redirects the URL shortener functionality would allow for a malicious user to create a short URL for a dashboard that could convince the user to click the link.| 
 
@@ -96,10 +96,10 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210510T01:46:23Z | TrojanZoo provides a universal pytorch platform to conduct security researches (especially backdoor attacks/defenses) of image classification in deep learning. | https://github.com/ain-soph/trojanzoo | 69 | 11| 
 | 20210510T00:58:41Z | Quick and dirty scripts to create linux backdoors for a range of scenarios. | https://github.com/elbee-cyber/Linux-Backdoors | 1 | 1| 
 | 20210509T23:28:37Z | killer v 1 multi shell backdoors builder  | https://github.com/ABDO10DZ/shell-killer | 3 | 3| 
 | 20210509T19:40:46Z | Null | https://github.com/adhamhas/backdoor-listener | 0 | 0| 
-| 20210509T19:21:26Z | TrojanZoo provides a universal pytorch platform to conduct security researches (especially backdoor attacks/defenses) of image classification in deep learning. | https://github.com/ain-soph/trojanzoo | 69 | 11| 
 | 20210509T16:29:37Z | A LKM rootkit targeting 4.x and 5.x kernel versions which can opens a backdoor which can be used to spawn a reverse shell to a remote host and more. | https://github.com/h3xduck/Umbra | 2 | 0| 
 | 20210509T14:19:18Z | This is an implementation demo of the ICLR 2021 paper [Neural Attention Distillation: Erasing Backdoor Triggers from Deep Neural Networks](https://arxiv.org/abs/2101.05930) in PyTorch. | https://github.com/bboylyg/NAD | 22 | 5| 
 | 20210509T12:57:07Z | Small and convenient C2 tool for Windows targets | https://github.com/Cr4sh/MicroBackdoor | 186 | 35| 
