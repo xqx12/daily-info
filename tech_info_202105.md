@@ -81,7 +81,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210510T00:12:10Z | Various techniques for exploiting Windows | https://github.com/billchaison/Windows-Trix | 5 | 0| 
+| 20210510T00:36:19Z | Various techniques for exploiting Windows | https://github.com/billchaison/Windows-Trix | 5 | 0| 
 | 20210510T00:02:41Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 22 | 9| 
 | 20210509T23:37:03Z | Roblox Exploit GUI lol | https://github.com/TheMinecrafter05/FaceLesS | 0 | 0| 
 | 20210509T23:35:33Z | lab_tool is a framework and its use is for ethical hacking and computer security | https://github.com/dylan14567/lab_tool | 1 | 3| 
