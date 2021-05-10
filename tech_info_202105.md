@@ -46,13 +46,13 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20210510T02:09:53Z | CVE-2021-26295 | CVE-2021-26295 EXP 可成功反弹Shell | https://github.com/r0ckysec/CVE-2021-26295 | Apache OFBiz has unsafe deserialization prior to 17.12.06. An unauthenticated attacker can use this vulnerability to successfully take over Apache OFBiz.| 
+| 20210510T02:09:53Z | CVE-2021-26295 | CVE-2021-26295 EXP 可成功反弹Shell | https://github.com/r0ckysec/CVE-2021-26295 | | 
 | 20210510T02:08:28Z | CVE-2021-30128 | CVE-2021-30128 Apache OFBiz 反序列化漏洞远程代码执行 | https://github.com/r0ckysec/CVE-2021-30128 | Apache OFBiz has unsafe deserialization prior to 17.12.07 version| 
-| 20210509T22:55:55Z | CVE-2021-28269 | PoC for exploiting CVE-2021-28269 | https://github.com/JamesGeee/CVE-2021-28269 | 未查询到CVE信息| 
+| 20210509T22:55:55Z | CVE-2021-28269 | PoC for exploiting CVE-2021-28269 | https://github.com/JamesGeee/CVE-2021-28269 | Soyal Technology 701Client 9.0.1 is vulnerable to Insecure permissions via client.exe binary with Authenticated Users group with Full permissions.| 
 | 20210509T22:55:42Z | CVE-2021-30642 | PoC for exploiting CVE-2021-30642 | https://github.com/JamesGeee/CVE-2021-30642 | 未查询到CVE信息| 
 | 20210509T22:55:39Z | CVE-2021-30502 | PoC for exploiting CVE-2021-30502 | https://github.com/JamesGeee/CVE-2021-30502 | 未查询到CVE信息| 
 | 20210509T22:55:30Z | CVE-2021-20716 | PoC for exploiting CVE-2021-20716 | https://github.com/JamesGeee/CVE-2021-20716 | 未查询到CVE信息| 
-| 20210509T22:55:27Z | CVE-2021-30165 | PoC for exploiting CVE-2021-30165 | https://github.com/JamesGeee/CVE-2021-30165 | 未查询到CVE信息| 
+| 20210509T22:55:27Z | CVE-2021-30165 | PoC for exploiting CVE-2021-30165 | https://github.com/JamesGeee/CVE-2021-30165 | | 
 | 20210509T22:55:23Z | CVE-2020-36326 | PoC for exploiting CVE-2020-36326 | https://github.com/JamesGeee/CVE-2020-36326 | 未查询到CVE信息| 
 | 20210509T22:55:20Z | CVE-2021-31826 | PoC for exploiting CVE-2021-31826 | https://github.com/JamesGeee/CVE-2021-31826 | 未查询到CVE信息| 
 | 20210509T22:55:17Z | CVE-2020-23127 | PoC for exploiting CVE-2020-23127 | https://github.com/JamesGeee/CVE-2020-23127 | 未查询到CVE信息| 
