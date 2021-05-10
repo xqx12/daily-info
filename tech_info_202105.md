@@ -82,6 +82,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210510T12:19:40Z | Automated All-in-One OS Command Injection Exploitation Tool | https://github.com/commixproject/commix | 2682 | 607| 
 | 20210510T12:06:05Z | linux post-exploitation framework made by linux user | https://github.com/jm33-m0/emp3r0r | 460 | 84| 
 | 20210510T12:02:44Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 22 | 9| 
 | 20210510T11:56:16Z | Buffer overflow exploit for TryHackMe Room %Binary Heaven% | https://github.com/Arduino3128/BinaryHeavenExploit | 0 | 0| 
@@ -91,7 +92,6 @@
 | 20210510T10:39:16Z | Vulnerabilities exploitation examples, python | https://github.com/cocomelonc/vulnexipy | 7 | 1| 
 | 20210510T10:04:27Z | Abitti Open Access (exploit)  - AntiBitti project | https://github.com/Testausserveri/abittiOpenAccess | 0 | 0| 
 | 20210510T09:50:25Z | Null | https://github.com/skypoc/Exploit | 0 | 0| 
-| 20210510T08:58:45Z | PoC exploits for software vulnerabilities | https://github.com/lockedbyte/CVE-Exploits | 457 | 99| 
 
 
 # backdoor on Github 推荐
