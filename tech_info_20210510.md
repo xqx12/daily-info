@@ -65,6 +65,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210510T12:20:44Z | Simple bind backdoor destined for linux servers | https://github.com/mednic/b4ckd0or | 2 | 1| 
 | 20210510T12:13:28Z | Null | https://github.com/Hem1700/backdoor | 0 | 0| 
 | 20210510T11:52:47Z | A Simple android remote administration tool using sockets. It uses java on the client side and python on the server side | https://github.com/karma9874/AndroRAT | 222 | 101| 
 | 20210510T11:49:48Z | Null | https://github.com/ph-luffy/Backdoor | 1 | 2| 
@@ -74,7 +75,6 @@
 | 20210510T08:47:14Z | Hanoman is an GUI antivirus engine singature based detection 🐒 | https://github.com/hrtywhy/Hanoman | 1 | 1| 
 | 20210510T07:30:40Z | A LKM rootkit targeting 4.x and 5.x kernel versions which opens a backdoor which can be used to spawn a reverse shell to a remote host and more. | https://github.com/h3xduck/Umbra | 3 | 0| 
 | 20210510T01:46:23Z | TrojanZoo provides a universal pytorch platform to conduct security researches (especially backdoor attacks/defenses) of image classification in deep learning. | https://github.com/ain-soph/trojanzoo | 69 | 11| 
-| 20210510T00:58:41Z | Quick and dirty scripts to create linux backdoors for a range of scenarios. | https://github.com/elbee-cyber/Linux-Backdoors | 1 | 1| 
 
 
 # fuzz on Github 推荐
