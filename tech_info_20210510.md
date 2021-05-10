@@ -80,14 +80,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210510T01:12:30Z | Fuzzing cryptographic libraries. Magic bug printer go brrrr. | https://github.com/guidovranken/cryptofuzz | 279 | 37| 
-| 20210510T01:08:53Z | An automatic fuzzing tool for ROS 2 C++ projects | https://github.com/JnxF/automatic_fuzzing | 0 | 0| 
-| 20210510T01:06:55Z | VSCode extension for managing miscellaneous bookmarks. | https://github.com/atEaE/fuzzy-bookmarks | 1 | 0| 
-| 20210510T00:56:55Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 1711 | 340| 
-| 20210510T00:39:51Z | Null | https://github.com/thantzinphyoaung/fuzzy-guacamole | 1 | 0| 
-| 20210510T00:12:21Z | Null | https://github.com/VeriBlock/fuzz-corpus | 0 | 1| 
-| 20210510T00:10:08Z | Collapsible (vertical) navigation bar html, css, js script | https://github.com/lilianarosas/fuzzy-potato | 0 | 0| 
-| 20210510T00:05:32Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 6 | 5| 
+| 20210510T12:08:42Z | Setup scripts for 32bit JavaScriptCore Fuzzing Setup | https://github.com/pmatos/jsc32-fuzz-setup | 0 | 0| 
+| 20210510T12:08:37Z | This is React Native | https://github.com/rookasrudzianskas/Fuzzy-signal | 0 | 0| 
+| 20210510T12:04:35Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 3503 | 810| 
+| 20210510T11:57:51Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 1716 | 340| 
+| 20210510T11:55:41Z | A tool to fuzz directories of a website | https://github.com/Arvialo/bustR | 0 | 0| 
+| 20210510T11:30:53Z | Take the current implementation and turning a microservice architecture | https://github.com/ccesarrod/FuzzyMicrosrvices | 0 | 0| 
+| 20210510T11:29:16Z | Null | https://github.com/ccesarrod/.NetCoreFuzzy | 0 | 0| 
+| 20210510T11:03:24Z | Test | https://github.com/BesseJrand/fuzzy-fiesta | 0 | 0| 
+| 20210510T10:49:31Z | Null | https://github.com/schemathesis/web-api-fuzzing-project | 0 | 0| 
+| 20210510T10:46:20Z | Senior Design Project for COE Students, Group 8, Spring 2021 | https://github.com/HGElMir/fuzzy-logic-greenhouse | 0 | 0| 
 
 
 
