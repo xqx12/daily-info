@@ -28,7 +28,7 @@
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
 | 20210510T02:09:53Z | CVE-2021-26295 | CVE-2021-26295 EXP 可成功反弹Shell | https://github.com/r0ckysec/CVE-2021-26295 | Apache OFBiz has unsafe deserialization prior to 17.12.06. An unauthenticated attacker can use this vulnerability to successfully take over Apache OFBiz.| 
-| 20210510T02:08:28Z | CVE-2021-30128 | CVE-2021-30128 Apache OFBiz 反序列化漏洞远程代码执行 | https://github.com/r0ckysec/CVE-2021-30128 | | 
+| 20210510T02:08:28Z | CVE-2021-30128 | CVE-2021-30128 Apache OFBiz 反序列化漏洞远程代码执行 | https://github.com/r0ckysec/CVE-2021-30128 | Apache OFBiz has unsafe deserialization prior to 17.12.07 version| 
 
 
 # klee on Github 推荐
@@ -80,8 +80,9 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210510T12:43:08Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6263 | 1268| 
+| 20210510T12:27:49Z | This is React Native | https://github.com/rookasrudzianskas/Fuzzy-signal | 0 | 0| 
 | 20210510T12:08:42Z | Setup scripts for 32bit JavaScriptCore Fuzzing Setup | https://github.com/pmatos/jsc32-fuzz-setup | 0 | 0| 
-| 20210510T12:08:37Z | This is React Native | https://github.com/rookasrudzianskas/Fuzzy-signal | 0 | 0| 
 | 20210510T12:04:35Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 3503 | 810| 
 | 20210510T11:57:51Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 1716 | 340| 
 | 20210510T11:55:41Z | A tool to fuzz directories of a website | https://github.com/Arvialo/bustR | 0 | 0| 
@@ -89,7 +90,6 @@
 | 20210510T11:29:16Z | Null | https://github.com/ccesarrod/.NetCoreFuzzy | 0 | 0| 
 | 20210510T11:03:24Z | Test | https://github.com/BesseJrand/fuzzy-fiesta | 0 | 0| 
 | 20210510T10:49:31Z | Null | https://github.com/schemathesis/web-api-fuzzing-project | 0 | 0| 
-| 20210510T10:46:20Z | Senior Design Project for COE Students, Group 8, Spring 2021 | https://github.com/HGElMir/fuzzy-logic-greenhouse | 0 | 0| 
 
 
 

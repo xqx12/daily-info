@@ -47,15 +47,15 @@
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
 | 20210510T02:09:53Z | CVE-2021-26295 | CVE-2021-26295 EXP 可成功反弹Shell | https://github.com/r0ckysec/CVE-2021-26295 | Apache OFBiz has unsafe deserialization prior to 17.12.06. An unauthenticated attacker can use this vulnerability to successfully take over Apache OFBiz.| 
-| 20210510T02:08:28Z | CVE-2021-30128 | CVE-2021-30128 Apache OFBiz 反序列化漏洞远程代码执行 | https://github.com/r0ckysec/CVE-2021-30128 | | 
-| 20210509T22:55:55Z | CVE-2021-28269 | PoC for exploiting CVE-2021-28269 | https://github.com/JamesGeee/CVE-2021-28269 | Soyal Technology 701Client 9.0.1 is vulnerable to Insecure permissions via client.exe binary with Authenticated Users group with Full permissions.| 
-| 20210509T22:55:42Z | CVE-2021-30642 | PoC for exploiting CVE-2021-30642 | https://github.com/JamesGeee/CVE-2021-30642 | | 
-| 20210509T22:55:39Z | CVE-2021-30502 | PoC for exploiting CVE-2021-30502 | https://github.com/JamesGeee/CVE-2021-30502 | The unofficial vscode-ghc-simple (aka Simple Glasgow Haskell Compiler) extension before 0.2.3 for Visual Studio Code allows remote code execution via a crafted workspace configuration with replCommand.| 
-| 20210509T22:55:30Z | CVE-2021-20716 | PoC for exploiting CVE-2021-20716 | https://github.com/JamesGeee/CVE-2021-20716 | Hidden functionality in multiple Buffalo network devices (BHR-4RV firmware Ver.2.55 and prior, FS-G54 firmware Ver.2.04 and prior, WBR2-B11 firmware Ver.2.32 and prior, WBR2-G54 firmware Ver.2.32 and prior, WBR2-G54-KD firmware Ver.2.32 and prior, WBR-B11 firmware Ver.2.23 and prior, WBR-G54 firmware Ver.2.23 and prior, WBR-G54L firmware Ver.2.20 and prior, WHR2-A54G54 firmware Ver.2.25 and prior, WHR2-G54 firmware Ver.2.23 and prior, WHR2-G54V firmware Ver.2.55 and prior, WHR3-AG54 firmware Ver.2.23 and prior, WHR-G54 firmware Ver.2.16 and prior, WHR-G54-NF firmware Ver.2.10 and prior, WLA2-G54 firmware Ver.2.24 and prior, WLA2-G54C firmware Ver.2.24 and prior, WLA-B11 firmware Ver.2.20 and prior, WLA-G54 firmware Ver.2.20 and prior, WLA-G54C firmware Ver.2.20 and prior, WLAH-A54G54 firmware Ver.2.54 and prior, WLAH-AM54G54 firmware Ver.2.54 and prior, WLAH-G54 firmware Ver.2.54 and prior, WLI2-TX1-AG54 firmware Ver.2.53 and prior, WLI2-TX1-AMG54 firmware Ver.2.53 and prior, WLI2-TX1-G54 firmware Ver.2.20 and prior, WLI3-TX1-AMG54 firmware Ver.2.53 and prior, WLI3-TX1-G54 firmware Ver.2.53 and prior, WLI-T1-B11 firmware Ver.2.20 and prior, WLI-TX1-G54 firmware Ver.2.20 and prior, WVR-G54-NF firmware Ver.2.02 and prior, WZR-G108 firmware Ver.2.41 and prior, WZR-G54 firmware Ver.2.41 and prior, WZR-HP-G54 firmware Ver.2.41 and prior, WZR-RS-G54 firmware Ver.2.55 and prior, and WZR-RS-G54HP firmware Ver.2.55 and prior) allows a remote attacker to enable the debug option and to execute arbitrary code or OS commands, change the configuration, and cause a denial of service (DoS) condition.| 
-| 20210509T22:55:27Z | CVE-2021-30165 | PoC for exploiting CVE-2021-30165 | https://github.com/JamesGeee/CVE-2021-30165 | The default administrator account & password of the EDIMAX wireless network camera is hard-coded. Remote attackers can disassemble firmware to obtain the privileged permission and further control the devices.| 
-| 20210509T22:55:23Z | CVE-2020-36326 | PoC for exploiting CVE-2020-36326 | https://github.com/JamesGeee/CVE-2020-36326 | PHPMailer 6.1.8 through 6.4.0 allows object injection through Phar Deserialization via addAttachment with a UNC pathname. NOTE: this is similar to CVE-2018-19296, but arose because 6.1.8 fixed a functionality problem in which UNC pathnames were always considered unreadable by PHPMailer, even in safe contexts. As an unintended side effect, this fix eliminated the code that blocked addAttachment exploitation.| 
-| 20210509T22:55:20Z | CVE-2021-31826 | PoC for exploiting CVE-2021-31826 | https://github.com/JamesGeee/CVE-2021-31826 | Shibboleth Service Provider 3.x before 3.2.2 is prone to a NULL pointer dereference flaw involving the session recovery feature. The flaw is exploitable (for a daemon crash) on systems not using this feature if a crafted cookie is supplied.| 
-| 20210509T22:55:17Z | CVE-2020-23127 | PoC for exploiting CVE-2020-23127 | https://github.com/JamesGeee/CVE-2020-23127 | Chamilo LMS 1.11.10 is affected by Cross Site Request Forgery (CSRF) via the edit_user function by targeting an admin user.| 
+| 20210510T02:08:28Z | CVE-2021-30128 | CVE-2021-30128 Apache OFBiz 反序列化漏洞远程代码执行 | https://github.com/r0ckysec/CVE-2021-30128 | Apache OFBiz has unsafe deserialization prior to 17.12.07 version| 
+| 20210509T22:55:55Z | CVE-2021-28269 | PoC for exploiting CVE-2021-28269 | https://github.com/JamesGeee/CVE-2021-28269 | 未查询到CVE信息| 
+| 20210509T22:55:42Z | CVE-2021-30642 | PoC for exploiting CVE-2021-30642 | https://github.com/JamesGeee/CVE-2021-30642 | 未查询到CVE信息| 
+| 20210509T22:55:39Z | CVE-2021-30502 | PoC for exploiting CVE-2021-30502 | https://github.com/JamesGeee/CVE-2021-30502 | 未查询到CVE信息| 
+| 20210509T22:55:30Z | CVE-2021-20716 | PoC for exploiting CVE-2021-20716 | https://github.com/JamesGeee/CVE-2021-20716 | 未查询到CVE信息| 
+| 20210509T22:55:27Z | CVE-2021-30165 | PoC for exploiting CVE-2021-30165 | https://github.com/JamesGeee/CVE-2021-30165 | 未查询到CVE信息| 
+| 20210509T22:55:23Z | CVE-2020-36326 | PoC for exploiting CVE-2020-36326 | https://github.com/JamesGeee/CVE-2020-36326 | 未查询到CVE信息| 
+| 20210509T22:55:20Z | CVE-2021-31826 | PoC for exploiting CVE-2021-31826 | https://github.com/JamesGeee/CVE-2021-31826 | 未查询到CVE信息| 
+| 20210509T22:55:17Z | CVE-2020-23127 | PoC for exploiting CVE-2020-23127 | https://github.com/JamesGeee/CVE-2020-23127 | 未查询到CVE信息| 
 
 
 # klee on Github 推荐
@@ -112,8 +112,9 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210510T12:43:08Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6263 | 1268| 
+| 20210510T12:27:49Z | This is React Native | https://github.com/rookasrudzianskas/Fuzzy-signal | 0 | 0| 
 | 20210510T12:08:42Z | Setup scripts for 32bit JavaScriptCore Fuzzing Setup | https://github.com/pmatos/jsc32-fuzz-setup | 0 | 0| 
-| 20210510T12:08:37Z | This is React Native | https://github.com/rookasrudzianskas/Fuzzy-signal | 0 | 0| 
 | 20210510T12:04:35Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 3503 | 810| 
 | 20210510T11:57:51Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 1716 | 340| 
 | 20210510T11:55:41Z | A tool to fuzz directories of a website | https://github.com/Arvialo/bustR | 0 | 0| 
@@ -121,7 +122,6 @@
 | 20210510T11:29:16Z | Null | https://github.com/ccesarrod/.NetCoreFuzzy | 0 | 0| 
 | 20210510T11:03:24Z | Test | https://github.com/BesseJrand/fuzzy-fiesta | 0 | 0| 
 | 20210510T10:49:31Z | Null | https://github.com/schemathesis/web-api-fuzzing-project | 0 | 0| 
-| 20210510T10:46:20Z | Senior Design Project for COE Students, Group 8, Spring 2021 | https://github.com/HGElMir/fuzzy-logic-greenhouse | 0 | 0| 
 
 
 
