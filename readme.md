@@ -28,7 +28,7 @@
 | 20210509T22:55:20Z | CVE-2021-31826 | PoC for exploiting CVE-2021-31826 | https://github.com/JamesGeee/CVE-2021-31826 | Shibboleth Service Provider 3.x before 3.2.2 is prone to a NULL pointer dereference flaw involving the session recovery feature. The flaw is exploitable (for a daemon crash) on systems not using this feature if a crafted cookie is supplied.| 
 | 20210509T22:55:17Z | CVE-2020-23127 | PoC for exploiting CVE-2020-23127 | https://github.com/JamesGeee/CVE-2020-23127 | Chamilo LMS 1.11.10 is affected by Cross Site Request Forgery (CSRF) via the edit_user function by targeting an admin user.| 
 | 20210509T22:55:14Z | CVE-2020-17517 | PoC for exploiting CVE-2020-17517 | https://github.com/JamesGeee/CVE-2020-17517 | The S3 buckets and keys in a secure Apache Ozone Cluster must be inaccessible to anonymous access by default. The current security vulnerability allows access to keys and buckets through a curl command or an unauthenticated HTTP request. This enables unauthorized access to buckets and keys thereby exposing data to anonymous clients or users. This affected Apache Ozone prior to the 1.1.0 release.| 
-| 20210509T22:55:11Z | CVE-2021-28125 | PoC for exploiting CVE-2021-28125 | https://github.com/JamesGeee/CVE-2021-28125 | | 
+| 20210509T22:55:11Z | CVE-2021-28125 | PoC for exploiting CVE-2021-28125 | https://github.com/JamesGeee/CVE-2021-28125 | Apache Superset up to and including 1.0.1 allowed for the creation of an external URL that could be malicious. By not checking user input for open redirects the URL shortener functionality would allow for a malicious user to create a short URL for a dashboard that could convince the user to click the link.| 
 
 
 # klee on Github 推荐
