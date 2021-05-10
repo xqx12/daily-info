@@ -6,6 +6,7 @@
 # 玄武实验室 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20210509 | 使用Sysmon工具分析已知的DLL劫持和命名管道令牌模拟攻击测试。 | https://labs.jumpsec.com/detecting-known-dll-hijacking-and-named-pipe-token-impersonation-attacks-with-sysmon/| 
 | 20210508 | Cilium：利用 BPF 实现为 Docker 和 Kubernetes 的 API 感知网络安全过滤服务。 | https://github.com/cilium/cilium| 
 | 20210508 | CVE-2020-27904 的漏洞演示代码。CVE-2020-27904：由于 FAT 功能实现存在缺陷，攻击者可以利用此缺陷实现内核中的任意代码执行。 | https://github.com/pattern-f/xattr-oob-swap| 
 | 20210508 | DS3（Developing Secure Systems Summit） Fuzz 专题分享。 | https://www.youtube.com/watch?v=vJGfY6neIQ0| 
@@ -25,7 +26,6 @@
 | 20210507 | BadAlloc：影响 IoT 和 OT 设备的一系列内存分配漏洞，攻击者可以利用这些漏洞绕过安全限制，以执行恶意代码。 | https://msrc-blog.microsoft.com/2021/04/29/badalloc-memory-allocation-vulnerabilities-could-affect-wide-range-of-iot-and-ot-devices-in-industrial-medical-and-enterprise-networks/| 
 | 20210507 | UNC2529 钓鱼活动的追踪分析报告。 | https://www.fireeye.com/blog/threat-research/2021/05/unc2529-triple-double-trifecta-phishing-campaign.html| 
 | 20210507 | 对于高通 DSP（Digital Signal Processor ）安全研究。 | https://research.checkpoint.com/2021/pwn2own-qualcomm-dsp/| 
-| 20210507 | 在 TunnelSnake 活动中新发现了 Moriya Rootkit，及对 Moriya 的分析。 | https://securelist.com/operation-tunnelsnake-and-moriya-rootkit/101831/| 
 
 
 # 安全维基 推荐
@@ -46,22 +46,23 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20210509T12:11:55Z | CVE-2020-12717 | Code for exploit for CVE-2020-12717 | https://github.com/wabzqem/covidsafe-CVE-2020-12717-exploit | The COVIDSafe (Australia) app 1.0 and 1.1 for iOS allows a remote attacker to crash the app, and consequently interfere with COVID-19 contact tracing, via a Bluetooth advertisement containing manufacturer data that is too short. This occurs because of an erroneous OpenTrace manuData.subdata call. The ABTraceTogether (Alberta), ProteGO (Poland), and TraceTogether (Singapore) apps were also affected.| 
-| 20210509T06:54:11Z | CVE-2021-21349 | XStream SSRF CVE-2021-21349 | https://github.com/s-index/CVE-2021-21349 | XStream is a Java library to serialize objects to XML and back again. In XStream before version 1.4.16, there is a vulnerability which may allow a remote attacker to request data from internal resources that are not publicly available only by manipulating the processed input stream. No user is affected, who followed the recommendation to setup XStream%s security framework with a whitelist limited to the minimal required types. If you rely on XStream%s default blacklist of the Security Framework, you will have to use at least version 1.4.16.| 
-| 20210509T06:48:28Z | CVE-2021-21341 | XStream DoS CVE-2021-21341 | https://github.com/s-index/CVE-2021-21341 | XStream is a Java library to serialize objects to XML and back again. In XStream before version 1.4.16, there is vulnerability which may allow a remote attacker to allocate 100% CPU time on the target system depending on CPU type or parallel execution of such a payload resulting in a denial of service only by manipulating the processed input stream. No user is affected who followed the recommendation to setup XStream%s security framework with a whitelist limited to the minimal required types. If you rely on XStream%s default blacklist of the Security Framework, you will have to use at least version 1.4.16.| 
-| 20210509T06:48:04Z | CVE-2020-13957 | Apache Solr RCE CVE-2020-13957 | https://github.com/s-index/CVE-2020-13957 | Apache Solr versions 6.6.0 to 6.6.6, 7.0.0 to 7.7.3 and 8.0.0 to 8.6.2 prevents some features considered dangerous (which could be used for remote code execution) to be configured in a ConfigSet that%s uploaded via API without authentication/authorization. The checks in place to prevent such features can be circumvented by using a combination of UPLOAD/CREATE actions.| 
-| 20210508T17:14:21Z | CVE-2021-28312 | POC and description for CVE-2021-28312 | https://github.com/shubham0d/CVE-2021-28312 | Windows NTFS Denial of Service Vulnerability| 
-| 20210508T11:43:59Z | CVE-2021-31728 | Vulnerability in zam64.sys, zam32.sys allowing ring 0 code execution. | https://github.com/irql0/CVE-2021-31728 | 未查询到CVE信息| 
-| 20210508T11:25:22Z | CVE-2021-30461 | CVE-2021-30461 | https://github.com/daedalus/CVE-2021-30461 | 未查询到CVE信息| 
-| 20210508T09:41:33Z | CVE-2020-14882 | Null | https://github.com/nice0e3/CVE-2020-14882_Exploit_Gui | Vulnerability in the Oracle WebLogic Server product of Oracle Fusion Middleware (component: Console). Supported versions that are affected are 10.3.6.0.0, 12.1.3.0.0, 12.2.1.3.0, 12.2.1.4.0 and 14.1.1.0.0. Easily exploitable vulnerability allows unauthenticated attacker with network access via HTTP to compromise Oracle WebLogic Server. Successful attacks of this vulnerability can result in takeover of Oracle WebLogic Server. CVSS 3.1 Base Score 9.8 (Confidentiality, Integrity and Availability impacts). CVSS Vector: (CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H).| 
-| 20210507T17:43:18Z | CVE-2020-9496 | CVE-2020-9496 manual exploit | https://github.com/cyber-niz/CVE-2020-9496 | XML-RPC request are vulnerable to unsafe deserialization and Cross-Site Scripting issues in Apache OFBiz 17.12.03| 
-| 20210507T15:25:57Z | CVE-2021-3493 | Null | https://github.com/Ishan3011/CVE-2021-3493 | The overlayfs implementation in the linux kernel did not properly validate with respect to user namespaces the setting of file capabilities on files in an underlying file system. Due to the combination of unprivileged user namespaces along with a patch carried in the Ubuntu kernel to allow unprivileged overlay mounts, an attacker could use this to gain elevated privileges.| 
+| 20210509T22:55:55Z | CVE-2021-28269 | PoC for exploiting CVE-2021-28269 | https://github.com/JamesGeee/CVE-2021-28269 | Soyal Technology 701Client 9.0.1 is vulnerable to Insecure permissions via client.exe binary with Authenticated Users group with Full permissions.| 
+| 20210509T22:55:42Z | CVE-2021-30642 | PoC for exploiting CVE-2021-30642 | https://github.com/JamesGeee/CVE-2021-30642 | An input validation flaw in the Symantec Security Analytics web UI 7.2 prior 7.2.7, 8.1, prior to 8.1.3-NSR3, 8.2, prior to 8.2.1-NSR2 or 8.2.2 allows a remote, unauthenticated attacker to execute arbitrary OS commands on the target with elevated privileges.| 
+| 20210509T22:55:39Z | CVE-2021-30502 | PoC for exploiting CVE-2021-30502 | https://github.com/JamesGeee/CVE-2021-30502 | The unofficial vscode-ghc-simple (aka Simple Glasgow Haskell Compiler) extension before 0.2.3 for Visual Studio Code allows remote code execution via a crafted workspace configuration with replCommand.| 
+| 20210509T22:55:30Z | CVE-2021-20716 | PoC for exploiting CVE-2021-20716 | https://github.com/JamesGeee/CVE-2021-20716 | Hidden functionality in multiple Buffalo network devices (BHR-4RV firmware Ver.2.55 and prior, FS-G54 firmware Ver.2.04 and prior, WBR2-B11 firmware Ver.2.32 and prior, WBR2-G54 firmware Ver.2.32 and prior, WBR2-G54-KD firmware Ver.2.32 and prior, WBR-B11 firmware Ver.2.23 and prior, WBR-G54 firmware Ver.2.23 and prior, WBR-G54L firmware Ver.2.20 and prior, WHR2-A54G54 firmware Ver.2.25 and prior, WHR2-G54 firmware Ver.2.23 and prior, WHR2-G54V firmware Ver.2.55 and prior, WHR3-AG54 firmware Ver.2.23 and prior, WHR-G54 firmware Ver.2.16 and prior, WHR-G54-NF firmware Ver.2.10 and prior, WLA2-G54 firmware Ver.2.24 and prior, WLA2-G54C firmware Ver.2.24 and prior, WLA-B11 firmware Ver.2.20 and prior, WLA-G54 firmware Ver.2.20 and prior, WLA-G54C firmware Ver.2.20 and prior, WLAH-A54G54 firmware Ver.2.54 and prior, WLAH-AM54G54 firmware Ver.2.54 and prior, WLAH-G54 firmware Ver.2.54 and prior, WLI2-TX1-AG54 firmware Ver.2.53 and prior, WLI2-TX1-AMG54 firmware Ver.2.53 and prior, WLI2-TX1-G54 firmware Ver.2.20 and prior, WLI3-TX1-AMG54 firmware Ver.2.53 and prior, WLI3-TX1-G54 firmware Ver.2.53 and prior, WLI-T1-B11 firmware Ver.2.20 and prior, WLI-TX1-G54 firmware Ver.2.20 and prior, WVR-G54-NF firmware Ver.2.02 and prior, WZR-G108 firmware Ver.2.41 and prior, WZR-G54 firmware Ver.2.41 and prior, WZR-HP-G54 firmware Ver.2.41 and prior, WZR-RS-G54 firmware Ver.2.55 and prior, and WZR-RS-G54HP firmware Ver.2.55 and prior) allows a remote attacker to enable the debug option and to execute arbitrary code or OS commands, change the configuration, and cause a denial of service (DoS) condition.| 
+| 20210509T22:55:27Z | CVE-2021-30165 | PoC for exploiting CVE-2021-30165 | https://github.com/JamesGeee/CVE-2021-30165 | The default administrator account & password of the EDIMAX wireless network camera is hard-coded. Remote attackers can disassemble firmware to obtain the privileged permission and further control the devices.| 
+| 20210509T22:55:23Z | CVE-2020-36326 | PoC for exploiting CVE-2020-36326 | https://github.com/JamesGeee/CVE-2020-36326 | PHPMailer 6.1.8 through 6.4.0 allows object injection through Phar Deserialization via addAttachment with a UNC pathname. NOTE: this is similar to CVE-2018-19296, but arose because 6.1.8 fixed a functionality problem in which UNC pathnames were always considered unreadable by PHPMailer, even in safe contexts. As an unintended side effect, this fix eliminated the code that blocked addAttachment exploitation.| 
+| 20210509T22:55:20Z | CVE-2021-31826 | PoC for exploiting CVE-2021-31826 | https://github.com/JamesGeee/CVE-2021-31826 | Shibboleth Service Provider 3.x before 3.2.2 is prone to a NULL pointer dereference flaw involving the session recovery feature. The flaw is exploitable (for a daemon crash) on systems not using this feature if a crafted cookie is supplied.| 
+| 20210509T22:55:17Z | CVE-2020-23127 | PoC for exploiting CVE-2020-23127 | https://github.com/JamesGeee/CVE-2020-23127 | Chamilo LMS 1.11.10 is affected by Cross Site Request Forgery (CSRF) via the edit_user function by targeting an admin user.| 
+| 20210509T22:55:14Z | CVE-2020-17517 | PoC for exploiting CVE-2020-17517 | https://github.com/JamesGeee/CVE-2020-17517 | The S3 buckets and keys in a secure Apache Ozone Cluster must be inaccessible to anonymous access by default. The current security vulnerability allows access to keys and buckets through a curl command or an unauthenticated HTTP request. This enables unauthorized access to buckets and keys thereby exposing data to anonymous clients or users. This affected Apache Ozone prior to the 1.1.0 release.| 
+| 20210509T22:55:11Z | CVE-2021-28125 | PoC for exploiting CVE-2021-28125 | https://github.com/JamesGeee/CVE-2021-28125 | Apache Superset up to and including 1.0.1 allowed for the creation of an external URL that could be malicious. By not checking user input for open redirects the URL shortener functionality would allow for a malicious user to create a short URL for a dashboard that could convince the user to click the link.| 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210509T09:54:05Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 的 Klee One 的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 573 | 13| 
+| 20210509T23:30:18Z | New portfolio website using react and material ui.  | https://github.com/collinkleest/kleest.io | 1 | 0| 
+| 20210509T14:43:58Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 的 Klee One 的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 575 | 13| 
 | 20210508T21:42:33Z | Null | https://github.com/thierry-tct/KLEE-SEMu | 2 | 2| 
 | 20210508T19:27:21Z | ⚡ Kleeja Open Source Desktop Application (Windows / Linux / Mac) | https://github.com/anasybal/Kleeja-da | 0 | 1| 
 | 20210508T02:55:53Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1684 | 491| 
@@ -70,7 +71,6 @@
 | 20210505T14:23:55Z | OVO | https://github.com/iKleeOVO/iKleeOVO.github.io | 0 | 1| 
 | 20210505T01:40:45Z | Create CFGs and compute complexity metrics for Python, C++, and Java code. | https://github.com/hmc-alpaqa/metrinome | 11 | 0| 
 | 20210504T12:00:35Z | ovo | https://github.com/Mtoly/klee.github.io | 0 | 0| 
-| 20210504T10:13:09Z | 99484C Worlds Code | https://github.com/Jython1415/penguin-Klee | 1 | 0| 
 
 
 # s2e on Github 推荐
@@ -81,16 +81,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210509T12:57:09Z | Mini project, exploiting security breach in Slack | https://github.com/DorGal23/SlackDLLHijack | 0 | 0| 
-| 20210509T12:44:02Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9398 | 1517| 
-| 20210509T12:13:11Z | Roblox exploit DLL base using the LBI execution method | https://github.com/deaddlocust/LBI-Base | 1 | 1| 
-| 20210509T12:11:55Z | Code for exploit for CVE-2020-12717 | https://github.com/wabzqem/covidsafe-CVE-2020-12717-exploit | 2 | 4| 
-| 20210509T12:02:38Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 22 | 9| 
-| 20210509T11:58:47Z | Null | https://github.com/Chinz101/exploit | 0 | 0| 
-| 20210509T11:53:15Z | Null | https://github.com/MrEyup448/ExploitKeys | 0 | 0| 
-| 20210509T11:37:26Z | Null | https://github.com/th3ken-dev/TH3KEN-EDITON | 2 | 0| 
-| 20210509T11:35:58Z | Microsoft » Windows 10 : Security Vulnerabilities | https://github.com/nu11secur1ty/Windows10Exploits | 330 | 92| 
-| 20210509T11:33:14Z | Null | https://github.com/Username132131231/exploit | 0 | 0| 
+| 20210509T23:37:03Z | Roblox Exploit GUI lol | https://github.com/TheMinecrafter05/FaceLesS | 0 | 0| 
+| 20210509T23:35:33Z | lab_tool is a framework and its use is for ethical hacking and computer security | https://github.com/dylan14567/lab_tool | 1 | 3| 
+| 20210509T23:02:42Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 22 | 9| 
+| 20210509T22:55:55Z | PoC for exploiting CVE-2021-28269 | https://github.com/JamesGeee/CVE-2021-28269 | 0 | 0| 
+| 20210509T22:55:42Z | PoC for exploiting CVE-2021-30642 | https://github.com/JamesGeee/CVE-2021-30642 | 0 | 0| 
+| 20210509T22:55:39Z | PoC for exploiting CVE-2021-30502 | https://github.com/JamesGeee/CVE-2021-30502 | 0 | 0| 
+| 20210509T22:55:30Z | PoC for exploiting CVE-2021-20716 | https://github.com/JamesGeee/CVE-2021-20716 | 0 | 0| 
+| 20210509T22:55:27Z | PoC for exploiting CVE-2021-30165 | https://github.com/JamesGeee/CVE-2021-30165 | 0 | 0| 
+| 20210509T22:55:23Z | PoC for exploiting CVE-2020-36326 | https://github.com/JamesGeee/CVE-2020-36326 | 0 | 0| 
+| 20210509T22:55:20Z | PoC for exploiting CVE-2021-31826 | https://github.com/JamesGeee/CVE-2021-31826 | 0 | 0| 
 
 
 # backdoor on Github 推荐
