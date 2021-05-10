@@ -6,6 +6,17 @@
 # 玄武实验室 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20210510 | Blackhat 议题：利用 CDN 隐藏 C2 流量。 | https://i.blackhat.com/asia-21/Thursday-Handouts/as-21-Ding-Domain-Borrowing-Catch-My-C2-Traffic-If-You-Can.pdf| 
+| 20210510 | Blackhat 议题：Windows Services 中的特权提升。 | https://i.blackhat.com/asia-21/Thursday-Handouts/as21-Cocomazzi-The-Rise-of-Potatoes-Privilege-Escalations-in-Windows-Services.pdf| 
+| 20210510 | Blackhat 议题：公开了一种基于 SQL 注入攻击 IIS 和 SQL Server 的新攻击面。 | https://i.blackhat.com/asia-21/Thursday-Handouts/as-21-Yan-Give-Me-a-Sql-Injection-I-Shall-Pwn-IIS-and-Sql-Server.pdf| 
+| 20210510 | Blackhat 议题：macOS 内核内存映射的竞争条件漏洞。 | https://i.blackhat.com/asia-21/Thursday-Handouts/as-21-Wang-Racing-The-Dark-A-New-Tocttou-Story-From-Apples-Core.pdf| 
+| 20210510 | 追踪分析恶意 tor 中继出口。 | https://nusenu.medium.com/tracking-one-year-of-malicious-tor-exit-relay-activities-part-ii-85c80875c5df| 
+| 20210510 | Morphisec 揭示了 Snip3 的免杀加密工具流程。 | https://blog.morphisec.com/revealing-the-snip3-crypter-a-highly-evasive-rat-loader| 
+| 20210510 | 收集和统计公网上的 Cobalt Strike 服务和配置信息。 | https://svch0st.medium.com/stats-from-hunting-cobalt-strike-beacons-c17e56255f9b| 
+| 20210510 | 绕过受保护的 nRF52 系列的 APPROTECT，并重新激活串口的调试功能（SWD）。 | https://limitedresults.com/2020/06/nrf52-debug-resurrection-approtect-bypass/| 
+| 20210510 | Chrome 和 Mozilla 共同开发了一个 HTML Sanitizer API，用以缓解 XSS 攻击。 | https://portswigger.net/daily-swig/google-and-mozilla-will-bake-html-sanitization-into-their-browsers| 
+| 20210510 | mac_apt：macOS 数字取证和分析工具。 | https://sec.today/pulses/96cddc90-7b50-4495-acc5-c5f8ec411f59/| 
+| 20210510 | mac_apt：macOS 数字取证和分析工具。 | https://github.com/ydkhatri/mac_apt| 
 | 20210509 | 使用Sysmon工具分析已知的DLL劫持和命名管道令牌模拟攻击测试。 | https://labs.jumpsec.com/detecting-known-dll-hijacking-and-named-pipe-token-impersonation-attacks-with-sysmon/| 
 | 20210508 | Cilium：利用 BPF 实现为 Docker 和 Kubernetes 的 API 感知网络安全过滤服务。 | https://github.com/cilium/cilium| 
 | 20210508 | CVE-2020-27904 的漏洞演示代码。CVE-2020-27904：由于 FAT 功能实现存在缺陷，攻击者可以利用此缺陷实现内核中的任意代码执行。 | https://github.com/pattern-f/xattr-oob-swap| 
@@ -15,17 +26,6 @@
 | 20210508 | 深入研究 Windows PEB。 | https://mohamed-fakroud.gitbook.io/t3nb3w/peb| 
 | 20210508 | Workplace from Facebook 创建新账户时存在未授权的漏洞。 | https://mvinni.medium.com/workplace-by-facebook-unauthorized-access-to-companies-environment-27-5k-a593a57092f1| 
 | 20210508 | Data Only Attack: Neutralizing EtwTi Provider | https://public.cnotools.studio/bring-your-own-vulnerable-kernel-driver-byovkd/exploits/data-only-attack-neutralizing-etwti-provider| 
-| 20210508 | 关于深入理解 Windows 的一些逆向代码笔记。 | https://github.com/vxcute/WindowsReversed| 
-| 20210508 | CVE-2021-1815（利用 cfprefsd 本地提权）的细节分析。 | https://sec.today/pulses/b243c97a-dcd6-401d-96a2-0834c73d7586/| 
-| 20210508 | CVE-2021-1815（利用 cfprefsd 本地提权）的细节分析。 | https://www.offensive-security.com/offsec/macos-preferences-priv-escalation/?utm_content=165476462&utm_medium=social&utm_source=twitter&hss_channel=tw-134994790| 
-| 20210507 | Heappy：基于 gdb / gef 的编辑器，辅助开发 PoC 时处理堆栈问题。 | https://github.com/gand3lf/heappy| 
-| 20210507 | 利用 GCC 11 检测内存管理错误——第一部分：理解动态内存分配 | https://developers.redhat.com/blog/2021/04/30/detecting-memory-management-bugs-with-gcc-11-part-1-understanding-dynamic-allocation/| 
-| 20210507 | Android NFC 中的 Felica 处理存在内存泄漏、OOB 和 Double Free。 | https://bugs.chromium.org/p/project-zero/issues/detail?id=2152| 
-| 20210507 | Apple Silicon Hardware Secrets: SPRR and Guarded Exception Levels (GXF) | https://blog.svenpeter.dev/posts/m1_sprr_gxf/| 
-| 20210507 | Quarkslab 对 Oxen 下的 Session（即时聊天工具）安全审计。 | https://blog.quarkslab.com/audit-of-session-secure-messaging-application.html| 
-| 20210507 | BadAlloc：影响 IoT 和 OT 设备的一系列内存分配漏洞，攻击者可以利用这些漏洞绕过安全限制，以执行恶意代码。 | https://msrc-blog.microsoft.com/2021/04/29/badalloc-memory-allocation-vulnerabilities-could-affect-wide-range-of-iot-and-ot-devices-in-industrial-medical-and-enterprise-networks/| 
-| 20210507 | UNC2529 钓鱼活动的追踪分析报告。 | https://www.fireeye.com/blog/threat-research/2021/05/unc2529-triple-double-trifecta-phishing-campaign.html| 
-| 20210507 | 对于高通 DSP（Digital Signal Processor ）安全研究。 | https://research.checkpoint.com/2021/pwn2own-qualcomm-dsp/| 
 
 
 # 安全维基 推荐
@@ -46,66 +46,67 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20210509T22:55:55Z | CVE-2021-28269 | PoC for exploiting CVE-2021-28269 | https://github.com/JamesGeee/CVE-2021-28269 | | 
+| 20210510T02:09:53Z | CVE-2021-26295 | CVE-2021-26295 EXP 可成功反弹Shell | https://github.com/r0ckysec/CVE-2021-26295 | Apache OFBiz has unsafe deserialization prior to 17.12.06. An unauthenticated attacker can use this vulnerability to successfully take over Apache OFBiz.| 
+| 20210510T02:08:28Z | CVE-2021-30128 | CVE-2021-30128 Apache OFBiz 反序列化漏洞远程代码执行 | https://github.com/r0ckysec/CVE-2021-30128 | Apache OFBiz has unsafe deserialization prior to 17.12.07 version| 
+| 20210509T22:55:55Z | CVE-2021-28269 | PoC for exploiting CVE-2021-28269 | https://github.com/JamesGeee/CVE-2021-28269 | Soyal Technology 701Client 9.0.1 is vulnerable to Insecure permissions via client.exe binary with Authenticated Users group with Full permissions.| 
 | 20210509T22:55:42Z | CVE-2021-30642 | PoC for exploiting CVE-2021-30642 | https://github.com/JamesGeee/CVE-2021-30642 | An input validation flaw in the Symantec Security Analytics web UI 7.2 prior 7.2.7, 8.1, prior to 8.1.3-NSR3, 8.2, prior to 8.2.1-NSR2 or 8.2.2 allows a remote, unauthenticated attacker to execute arbitrary OS commands on the target with elevated privileges.| 
 | 20210509T22:55:39Z | CVE-2021-30502 | PoC for exploiting CVE-2021-30502 | https://github.com/JamesGeee/CVE-2021-30502 | The unofficial vscode-ghc-simple (aka Simple Glasgow Haskell Compiler) extension before 0.2.3 for Visual Studio Code allows remote code execution via a crafted workspace configuration with replCommand.| 
-| 20210509T22:55:30Z | CVE-2021-20716 | PoC for exploiting CVE-2021-20716 | https://github.com/JamesGeee/CVE-2021-20716 | | 
+| 20210509T22:55:30Z | CVE-2021-20716 | PoC for exploiting CVE-2021-20716 | https://github.com/JamesGeee/CVE-2021-20716 | Hidden functionality in multiple Buffalo network devices (BHR-4RV firmware Ver.2.55 and prior, FS-G54 firmware Ver.2.04 and prior, WBR2-B11 firmware Ver.2.32 and prior, WBR2-G54 firmware Ver.2.32 and prior, WBR2-G54-KD firmware Ver.2.32 and prior, WBR-B11 firmware Ver.2.23 and prior, WBR-G54 firmware Ver.2.23 and prior, WBR-G54L firmware Ver.2.20 and prior, WHR2-A54G54 firmware Ver.2.25 and prior, WHR2-G54 firmware Ver.2.23 and prior, WHR2-G54V firmware Ver.2.55 and prior, WHR3-AG54 firmware Ver.2.23 and prior, WHR-G54 firmware Ver.2.16 and prior, WHR-G54-NF firmware Ver.2.10 and prior, WLA2-G54 firmware Ver.2.24 and prior, WLA2-G54C firmware Ver.2.24 and prior, WLA-B11 firmware Ver.2.20 and prior, WLA-G54 firmware Ver.2.20 and prior, WLA-G54C firmware Ver.2.20 and prior, WLAH-A54G54 firmware Ver.2.54 and prior, WLAH-AM54G54 firmware Ver.2.54 and prior, WLAH-G54 firmware Ver.2.54 and prior, WLI2-TX1-AG54 firmware Ver.2.53 and prior, WLI2-TX1-AMG54 firmware Ver.2.53 and prior, WLI2-TX1-G54 firmware Ver.2.20 and prior, WLI3-TX1-AMG54 firmware Ver.2.53 and prior, WLI3-TX1-G54 firmware Ver.2.53 and prior, WLI-T1-B11 firmware Ver.2.20 and prior, WLI-TX1-G54 firmware Ver.2.20 and prior, WVR-G54-NF firmware Ver.2.02 and prior, WZR-G108 firmware Ver.2.41 and prior, WZR-G54 firmware Ver.2.41 and prior, WZR-HP-G54 firmware Ver.2.41 and prior, WZR-RS-G54 firmware Ver.2.55 and prior, and WZR-RS-G54HP firmware Ver.2.55 and prior) allows a remote attacker to enable the debug option and to execute arbitrary code or OS commands, change the configuration, and cause a denial of service (DoS) condition.| 
 | 20210509T22:55:27Z | CVE-2021-30165 | PoC for exploiting CVE-2021-30165 | https://github.com/JamesGeee/CVE-2021-30165 | The default administrator account & password of the EDIMAX wireless network camera is hard-coded. Remote attackers can disassemble firmware to obtain the privileged permission and further control the devices.| 
 | 20210509T22:55:23Z | CVE-2020-36326 | PoC for exploiting CVE-2020-36326 | https://github.com/JamesGeee/CVE-2020-36326 | PHPMailer 6.1.8 through 6.4.0 allows object injection through Phar Deserialization via addAttachment with a UNC pathname. NOTE: this is similar to CVE-2018-19296, but arose because 6.1.8 fixed a functionality problem in which UNC pathnames were always considered unreadable by PHPMailer, even in safe contexts. As an unintended side effect, this fix eliminated the code that blocked addAttachment exploitation.| 
 | 20210509T22:55:20Z | CVE-2021-31826 | PoC for exploiting CVE-2021-31826 | https://github.com/JamesGeee/CVE-2021-31826 | Shibboleth Service Provider 3.x before 3.2.2 is prone to a NULL pointer dereference flaw involving the session recovery feature. The flaw is exploitable (for a daemon crash) on systems not using this feature if a crafted cookie is supplied.| 
 | 20210509T22:55:17Z | CVE-2020-23127 | PoC for exploiting CVE-2020-23127 | https://github.com/JamesGeee/CVE-2020-23127 | Chamilo LMS 1.11.10 is affected by Cross Site Request Forgery (CSRF) via the edit_user function by targeting an admin user.| 
-| 20210509T22:55:14Z | CVE-2020-17517 | PoC for exploiting CVE-2020-17517 | https://github.com/JamesGeee/CVE-2020-17517 | The S3 buckets and keys in a secure Apache Ozone Cluster must be inaccessible to anonymous access by default. The current security vulnerability allows access to keys and buckets through a curl command or an unauthenticated HTTP request. This enables unauthorized access to buckets and keys thereby exposing data to anonymous clients or users. This affected Apache Ozone prior to the 1.1.0 release.| 
-| 20210509T22:55:11Z | CVE-2021-28125 | PoC for exploiting CVE-2021-28125 | https://github.com/JamesGeee/CVE-2021-28125 | Apache Superset up to and including 1.0.1 allowed for the creation of an external URL that could be malicious. By not checking user input for open redirects the URL shortener functionality would allow for a malicious user to create a short URL for a dashboard that could convince the user to click the link.| 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210510T00:17:32Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1685 | 491| 
+| 20210510T10:49:36Z | RVT is a collection of tools/libraries to support both static and dynamic verification of Rust programs. | https://github.com/project-oak/rust-verification-tools | 128 | 13| 
+| 20210510T10:42:34Z | Demonstration of KLEE-Float for verifying programs. | https://github.com/mob-group/klee-demo | 0 | 0| 
+| 20210510T10:40:38Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1686 | 492| 
+| 20210510T10:14:31Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 的 Klee One 的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 578 | 13| 
+| 20210510T07:55:20Z | 99484C Worlds Code | https://github.com/Jython1415/penguin-Klee | 1 | 0| 
 | 20210509T23:30:18Z | New portfolio website using react and material ui.  | https://github.com/collinkleest/kleest.io | 1 | 0| 
-| 20210509T14:43:58Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 的 Klee One 的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 575 | 13| 
 | 20210508T21:42:33Z | Null | https://github.com/thierry-tct/KLEE-SEMu | 2 | 2| 
 | 20210508T19:27:21Z | ⚡ Kleeja Open Source Desktop Application (Windows / Linux / Mac) | https://github.com/anasybal/Kleeja-da | 0 | 1| 
 | 20210507T17:05:22Z | A personnal UI library made as an excuse to have a published UI package | https://github.com/Liinkiing/klee | 10 | 1| 
 | 20210507T00:04:51Z | Null | https://github.com/sosp21paper780/vigor-klee | 0 | 0| 
-| 20210505T14:23:55Z | OVO | https://github.com/iKleeOVO/iKleeOVO.github.io | 0 | 1| 
-| 20210505T01:40:45Z | Create CFGs and compute complexity metrics for Python, C++, and Java code. | https://github.com/hmc-alpaqa/metrinome | 11 | 0| 
-| 20210504T12:00:35Z | ovo | https://github.com/Mtoly/klee.github.io | 0 | 0| 
 
 
 # s2e on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210510T04:11:46Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 118 | 30| 
 
 
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210510T01:26:32Z | Roblox Exploit | https://github.com/Bomby324/Harley-Quinn-v3- | 0 | 0| 
-| 20210510T01:19:29Z | Cointegration analysis and exploitation for long-short strategy | https://github.com/lccm8/Long-Short | 0 | 0| 
-| 20210510T01:02:51Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 22 | 9| 
-| 20210510T00:56:38Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9402 | 1519| 
-| 20210510T00:44:12Z | Various techniques for exploiting Windows | https://github.com/billchaison/Windows-Trix | 5 | 0| 
-| 20210509T23:37:03Z | Roblox Exploit GUI lol | https://github.com/TheMinecrafter05/FaceLesS | 0 | 0| 
-| 20210509T23:35:33Z | lab_tool is a framework and its use is for ethical hacking and computer security | https://github.com/dylan14567/lab_tool | 1 | 3| 
-| 20210509T22:55:55Z | PoC for exploiting CVE-2021-28269 | https://github.com/JamesGeee/CVE-2021-28269 | 0 | 0| 
-| 20210509T22:55:42Z | PoC for exploiting CVE-2021-30642 | https://github.com/JamesGeee/CVE-2021-30642 | 0 | 0| 
-| 20210509T22:55:39Z | PoC for exploiting CVE-2021-30502 | https://github.com/JamesGeee/CVE-2021-30502 | 0 | 0| 
+| 20210510T11:56:16Z | Buffer overflow exploit for TryHackMe Room %Binary Heaven% | https://github.com/Arduino3128/BinaryHeavenExploit | 0 | 0| 
+| 20210510T11:52:47Z | A Simple android remote administration tool using sockets. It uses java on the client side and python on the server side | https://github.com/karma9874/AndroRAT | 222 | 101| 
+| 20210510T11:16:40Z | Experimental CSGO external game exploit. | https://github.com/jamesmoriarty/gohack | 21 | 3| 
+| 20210510T11:02:42Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 22 | 9| 
+| 20210510T11:02:22Z | The Browser Exploitation Framework Project | https://github.com/beefproject/beef | 5689 | 1350| 
+| 20210510T10:48:56Z | linux post-exploitation framework made by linux user | https://github.com/jm33-m0/emp3r0r | 460 | 84| 
+| 20210510T10:39:16Z | Vulnerabilities exploitation examples, python | https://github.com/cocomelonc/vulnexipy | 7 | 1| 
+| 20210510T10:04:27Z | Abitti Open Access (exploit)  - AntiBitti project | https://github.com/Testausserveri/abittiOpenAccess | 0 | 0| 
+| 20210510T09:50:25Z | Null | https://github.com/skypoc/Exploit | 0 | 0| 
+| 20210510T08:58:45Z | PoC exploits for software vulnerabilities | https://github.com/lockedbyte/CVE-Exploits | 457 | 99| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210510T11:52:47Z | A Simple android remote administration tool using sockets. It uses java on the client side and python on the server side | https://github.com/karma9874/AndroRAT | 222 | 101| 
+| 20210510T11:50:07Z | Null | https://github.com/Hem1700/backdoor | 0 | 0| 
+| 20210510T11:49:48Z | Null | https://github.com/ph-luffy/Backdoor | 1 | 2| 
+| 20210510T11:30:40Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 231 | 38| 
+| 20210510T10:46:16Z | Backdoor Attack in the Frequency Domain | https://github.com/FTrojanAttack/FTrojan | 0 | 0| 
+| 20210510T09:29:59Z | backdoor | https://github.com/muhammadrazan999/shell | 0 | 0| 
+| 20210510T08:47:14Z | Hanoman is an GUI antivirus engine singature based detection 🐒 | https://github.com/hrtywhy/Hanoman | 1 | 1| 
+| 20210510T07:30:40Z | A LKM rootkit targeting 4.x and 5.x kernel versions which opens a backdoor which can be used to spawn a reverse shell to a remote host and more. | https://github.com/h3xduck/Umbra | 3 | 0| 
 | 20210510T01:46:23Z | TrojanZoo provides a universal pytorch platform to conduct security researches (especially backdoor attacks/defenses) of image classification in deep learning. | https://github.com/ain-soph/trojanzoo | 69 | 11| 
 | 20210510T00:58:41Z | Quick and dirty scripts to create linux backdoors for a range of scenarios. | https://github.com/elbee-cyber/Linux-Backdoors | 1 | 1| 
-| 20210509T23:28:37Z | killer v 1 multi shell backdoors builder  | https://github.com/ABDO10DZ/shell-killer | 3 | 3| 
-| 20210509T19:40:46Z | Null | https://github.com/adhamhas/backdoor-listener | 0 | 0| 
-| 20210509T16:29:37Z | A LKM rootkit targeting 4.x and 5.x kernel versions which can opens a backdoor which can be used to spawn a reverse shell to a remote host and more. | https://github.com/h3xduck/Umbra | 2 | 0| 
-| 20210509T14:19:18Z | This is an implementation demo of the ICLR 2021 paper [Neural Attention Distillation: Erasing Backdoor Triggers from Deep Neural Networks](https://arxiv.org/abs/2101.05930) in PyTorch. | https://github.com/bboylyg/NAD | 22 | 5| 
-| 20210509T12:57:07Z | Small and convenient C2 tool for Windows targets | https://github.com/Cr4sh/MicroBackdoor | 186 | 35| 
-| 20210509T12:30:42Z | Null | https://github.com/load-the-code/backdoor-python | 2 | 0| 
-| 20210509T11:23:45Z | Full-featured C2 framework which silently persists on webserver with a single-line PHP backdoor | https://github.com/nil0x42/phpsploit | 1276 | 345| 
-| 20210509T10:46:31Z | Null | https://github.com/Hem1700/backdoor | 0 | 0| 
 
 
 # fuzz on Github 推荐
