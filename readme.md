@@ -61,30 +61,31 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210509T23:28:37Z | killer v 1 multi shell backdoors builder  | https://github.com/ABDO10DZ/shell-killer | 3 | 3| 
+| 20210509T19:40:46Z | Null | https://github.com/adhamhas/backdoor-listener | 0 | 0| 
+| 20210509T19:21:26Z | TrojanZoo provides a universal pytorch platform to conduct security researches (especially backdoor attacks/defenses) of image classification in deep learning. | https://github.com/ain-soph/trojanzoo | 69 | 11| 
+| 20210509T16:29:37Z | A LKM rootkit targeting 4.x and 5.x kernel versions which can opens a backdoor which can be used to spawn a reverse shell to a remote host and more. | https://github.com/h3xduck/Umbra | 2 | 0| 
+| 20210509T14:19:18Z | This is an implementation demo of the ICLR 2021 paper [Neural Attention Distillation: Erasing Backdoor Triggers from Deep Neural Networks](https://arxiv.org/abs/2101.05930) in PyTorch. | https://github.com/bboylyg/NAD | 22 | 5| 
 | 20210509T12:57:07Z | Small and convenient C2 tool for Windows targets | https://github.com/Cr4sh/MicroBackdoor | 186 | 35| 
 | 20210509T12:30:42Z | Null | https://github.com/load-the-code/backdoor-python | 2 | 0| 
 | 20210509T11:23:45Z | Full-featured C2 framework which silently persists on webserver with a single-line PHP backdoor | https://github.com/nil0x42/phpsploit | 1276 | 345| 
 | 20210509T10:46:31Z | Null | https://github.com/Hem1700/backdoor | 0 | 0| 
 | 20210509T07:14:13Z | Null | https://github.com/luckystars0612/backdoor_data | 0 | 0| 
-| 20210509T04:31:42Z | Null | https://github.com/luckystars0612/backdoor | 0 | 0| 
-| 20210509T03:15:14Z | Simples Backdoor Camuflada em um Programa. | https://github.com/Kanui-C/BackdoorSUID | 1 | 0| 
-| 20210509T01:59:04Z | Python 3 IRC Bot / Botnet | https://github.com/trackmastersteve/HackServ | 19 | 16| 
-| 20210509T01:55:42Z | Backdoor Attack in the Frequency Domain | https://github.com/FTrojanAttack/FTrojan | 0 | 0| 
 
 
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210509T12:54:47Z | This is React whatsapp with Google authentication | https://github.com/rookasrudzianskas/Fuzzy-Whatsapp-app | 1 | 0| 
-| 20210509T12:51:03Z | VMI Kernel Fuzzer for Xen Project - VM forking, VMI & AFL integration demo | https://github.com/intel/kernel-fuzzer-for-xen-project | 313 | 45| 
-| 20210509T12:46:04Z | React native playground | https://github.com/robert-gruner/fuzzy-barnacle | 0 | 0| 
-| 20210509T12:44:21Z | FuzzBench - Fuzzer benchmarking as a service. | https://github.com/google/fuzzbench | 636 | 115| 
-| 20210509T12:39:37Z | Fuzzy logic example | https://github.com/PKopel/fuzzy | 0 | 0| 
-| 20210509T12:23:45Z | Hi thre, I%m TRÄW🤟🏻, i%m a beginner in ethical hacking and Content Creator on Level iv Security & NOOBSEC. I Spend most of time coding outstanding ethical hacking projects or recording useful short tutorials . I love programming ethical hacking tools, fuzzing and hacking all the things | https://github.com/spectertraww/spectertraww | 1 | 0| 
-| 20210509T12:20:48Z | The code behind getfursu.it | https://github.com/veelkoov/fuzzrake | 6 | 0| 
-| 20210509T11:55:51Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 380 | 32| 
-| 20210509T11:16:20Z | Senior Design Project for COE Students, Group 8, Spring 2021 | https://github.com/HGElMir/fuzzy-logic-greenhouse | 0 | 0| 
-| 20210509T10:30:57Z | Null | https://github.com/nnamdi095/Fuzzy-rules-extraction-with-traingular-membership-function | 0 | 0| 
+| 20210509T23:58:56Z | Null | https://github.com/paul-gomes/Neuro-Fuzzy-System | 0 | 0| 
+| 20210509T23:54:42Z | Null | https://github.com/nguyenanh1997/Fuzzz | 0 | 0| 
+| 20210509T23:52:28Z | Null | https://github.com/AlexiWolf/fuzz_rss | 0 | 0| 
+| 20210509T23:47:28Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6260 | 1268| 
+| 20210509T23:33:59Z | Null | https://github.com/jicowan/fuzzy-pancake | 0 | 0| 
+| 20210509T23:24:09Z | An automatic fuzzing tool for ROS 2 C++ projects | https://github.com/JnxF/automatic_fuzzing | 0 | 0| 
+| 20210509T23:19:50Z | Collapsible (vertical) navigation bar html, css, js script | https://github.com/lilianarosas/fuzzy-potato | 0 | 0| 
+| 20210509T22:53:02Z | repo of scripts | https://github.com/johanvargas/fuzzy-projects | 0 | 0| 
+| 20210509T22:48:52Z | VMI Kernel Fuzzer for Xen Project - VM forking, VMI & AFL integration demo | https://github.com/intel/kernel-fuzzer-for-xen-project | 313 | 45| 
+| 20210509T22:23:58Z | Software for fuzzing, used on web application pentestings. | https://github.com/NESCAU-UFLA/FuzzingTool | 69 | 16| 
 
 
 
