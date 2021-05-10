@@ -27,8 +27,8 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20210510T02:09:53Z | CVE-2021-26295 | CVE-2021-26295 EXP 可成功反弹Shell | https://github.com/r0ckysec/CVE-2021-26295 | | 
-| 20210510T02:08:28Z | CVE-2021-30128 | CVE-2021-30128 Apache OFBiz 反序列化漏洞远程代码执行 | https://github.com/r0ckysec/CVE-2021-30128 | Apache OFBiz has unsafe deserialization prior to 17.12.07 version| 
+| 20210510T02:09:53Z | CVE-2021-26295 | CVE-2021-26295 EXP 可成功反弹Shell | https://github.com/r0ckysec/CVE-2021-26295 | Apache OFBiz has unsafe deserialization prior to 17.12.06. An unauthenticated attacker can use this vulnerability to successfully take over Apache OFBiz.| 
+| 20210510T02:08:28Z | CVE-2021-30128 | CVE-2021-30128 Apache OFBiz 反序列化漏洞远程代码执行 | https://github.com/r0ckysec/CVE-2021-30128 | | 
 
 
 # klee on Github 推荐
@@ -50,6 +50,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210510T12:51:53Z | iblessing is an iOS security exploiting toolkit, it mainly includes application information collection, static analysis and dynamic analysis. It can be used for reverse engineering, binary analysis and vulnerability mining. | https://github.com/Soulghost/iblessing | 355 | 52| 
+| 20210510T12:51:06Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 16 | 11| 
 | 20210510T12:40:16Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9405 | 1519| 
 | 20210510T12:19:40Z | Automated All-in-One OS Command Injection Exploitation Tool | https://github.com/commixproject/commix | 2682 | 607| 
 | 20210510T12:06:05Z | linux post-exploitation framework made by linux user | https://github.com/jm33-m0/emp3r0r | 460 | 84| 
@@ -58,8 +60,6 @@
 | 20210510T11:52:47Z | A Simple android remote administration tool using sockets. It uses java on the client side and python on the server side | https://github.com/karma9874/AndroRAT | 222 | 101| 
 | 20210510T11:16:40Z | Experimental CSGO external game exploit. | https://github.com/jamesmoriarty/gohack | 21 | 3| 
 | 20210510T11:02:22Z | The Browser Exploitation Framework Project | https://github.com/beefproject/beef | 5689 | 1350| 
-| 20210510T10:39:16Z | Vulnerabilities exploitation examples, python | https://github.com/cocomelonc/vulnexipy | 7 | 1| 
-| 20210510T10:04:27Z | Abitti Open Access (exploit)  - AntiBitti project | https://github.com/Testausserveri/abittiOpenAccess | 0 | 0| 
 
 
 # backdoor on Github 推荐
