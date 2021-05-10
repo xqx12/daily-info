@@ -111,7 +111,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210510T00:19:08Z | Fuzzing cryptographic libraries. Magic bug printer go brrrr. | https://github.com/guidovranken/cryptofuzz | 279 | 37| 
+| 20210510T00:30:23Z | Fuzzing cryptographic libraries. Magic bug printer go brrrr. | https://github.com/guidovranken/cryptofuzz | 279 | 37| 
 | 20210510T00:16:43Z | An automatic fuzzing tool for ROS 2 C++ projects | https://github.com/JnxF/automatic_fuzzing | 0 | 0| 
 | 20210510T00:12:21Z | Null | https://github.com/VeriBlock/fuzz-corpus | 0 | 1| 
 | 20210510T00:10:08Z | Collapsible (vertical) navigation bar html, css, js script | https://github.com/lilianarosas/fuzzy-potato | 0 | 0| 
