@@ -31,7 +31,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20210511T12:23:59Z | CVE-2021-1111 | Null | https://github.com/woliujizhou/CVE-2021-1111 | | 
+| 20210511T12:23:59Z | CVE-2021-1111 | Null | https://github.com/woliujizhou/CVE-2021-1111 | 未查询到CVE信息| 
 | 20210511T10:42:52Z | CVE-2021-29200 | Null | https://github.com/r0ckysec/CVE-2021-29200 | Apache OFBiz has unsafe deserialization prior to 17.12.07 version An unauthenticated user can perform an RCE attack| 
 | 20210511T08:15:49Z | CVE-2021-30461 | CVE-2021-30461 | https://github.com/Al1ex/CVE-2021-30461 | 未查询到CVE信息| 
 
