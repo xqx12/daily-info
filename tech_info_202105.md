@@ -82,6 +82,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210511T00:59:58Z | Just a temporary website to post my ctf writeups and journey into binary/android exploitation/malware analysis/exploit development | https://github.com/blackbeard666/pwn_exhibit | 3 | 1| 
 | 20210511T00:51:28Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 16 | 11| 
 | 20210511T00:30:42Z | Null | https://github.com/HazimAr/Revival-Frontend-Exploit | 1 | 1| 
 | 20210511T00:29:02Z | Exploit Pack contains a full set of 39.000+ exploits, you can be sure that your next pentest will become unstoppable. All operating systems are supported as targets, including: Windows, Linux, Unix, Minix, SCO, Solaris, OSX, etc. and even mobile and web platforms. | https://github.com/AngelSecurityTeam/Tool-ExploitPack | 1 | 0| 
@@ -91,7 +92,6 @@
 | 20210511T00:13:44Z | Null | https://github.com/cbritt0n/privacy-exploit | 0 | 0| 
 | 20210511T00:02:51Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 22 | 9| 
 | 20210510T22:51:10Z | Null | https://github.com/robloxHacks2021/Exploit-GUI | 0 | 0| 
-| 20210510T22:47:17Z | roblox lego exploiting | https://github.com/iiiSeaIGamerxxx/A | 0 | 0| 
 
 
 # backdoor on Github 推荐
