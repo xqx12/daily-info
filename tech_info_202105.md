@@ -82,12 +82,12 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210511T00:14:31Z | lab_tool is a framework and its use is for ethical hacking and computer security | https://github.com/dylan14567/labsecurity | 1 | 3| 
+| 20210511T00:18:51Z | lab_tool is a framework and its use is for ethical hacking and computer security | https://github.com/dylan14567/labsecurity | 1 | 3| 
+| 20210511T00:17:17Z | This Chrome Extension exploits the Chrome downloads permission.  | https://github.com/cbritt0n/downloads-exploit | 0 | 0| 
 | 20210511T00:13:48Z | This project is a modification of FreeHep vector graphics package to exploit its capabilities of generating SVG, EPS, GIF and EMF from vector graphics draw on a JPanel in Java | https://github.com/nilostolte/FreeHep | 0 | 0| 
 | 20210511T00:13:44Z | Null | https://github.com/cbritt0n/privacy-exploit | 0 | 0| 
 | 20210511T00:02:51Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 22 | 9| 
 | 20210510T23:54:32Z | Exploit Pack contains a full set of 39.000+ exploits, you can be sure that your next pentest will become unstoppable. All operating systems are supported as targets, including: Windows, Linux, Unix, Minix, SCO, Solaris, OSX, etc. and even mobile and web platforms. | https://github.com/AngelSecurityTeam/Tool-ExploitPack | 0 | 0| 
-| 20210510T23:49:29Z | This Chrome Extension exploits the Chrome downloads permission.  | https://github.com/cbritt0n/downloads-exploit | 0 | 0| 
 | 20210510T22:51:10Z | Null | https://github.com/robloxHacks2021/Exploit-GUI | 0 | 0| 
 | 20210510T22:47:17Z | roblox lego exploiting | https://github.com/iiiSeaIGamerxxx/A | 0 | 0| 
 | 20210510T22:41:29Z | Null | https://github.com/HazimAr/Revival-Frontend-Exploit | 1 | 1| 
