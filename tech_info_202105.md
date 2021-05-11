@@ -82,7 +82,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210511T00:24:47Z | lab_tool is a framework and its use is for ethical hacking and computer security | https://github.com/dylan14567/labsecurity | 1 | 3| 
+| 20210511T00:25:44Z | lab_tool is a framework and its use is for ethical hacking and computer security | https://github.com/dylan14567/labsecurity | 1 | 3| 
 | 20210511T00:17:17Z | This Chrome Extension exploits the Chrome downloads permission.  | https://github.com/cbritt0n/downloads-exploit | 0 | 0| 
 | 20210511T00:13:48Z | This project is a modification of FreeHep vector graphics package to exploit its capabilities of generating SVG, EPS, GIF and EMF from vector graphics draw on a JPanel in Java | https://github.com/nilostolte/FreeHep | 0 | 0| 
 | 20210511T00:13:44Z | Null | https://github.com/cbritt0n/privacy-exploit | 0 | 0| 
