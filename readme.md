@@ -31,7 +31,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20210511T10:42:52Z | CVE-2021-29200 | Null | https://github.com/r0ckysec/CVE-2021-29200 | | 
+| 20210511T10:42:52Z | CVE-2021-29200 | Null | https://github.com/r0ckysec/CVE-2021-29200 | Apache OFBiz has unsafe deserialization prior to 17.12.07 version An unauthenticated user can perform an RCE attack| 
 | 20210511T08:15:49Z | CVE-2021-30461 | CVE-2021-30461 | https://github.com/Al1ex/CVE-2021-30461 | 未查询到CVE信息| 
 
 
@@ -51,8 +51,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210511T12:07:34Z | Null | https://github.com/exploit-re/exploit-re.github.io | 0 | 1| 
 | 20210511T12:02:46Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 22 | 9| 
-| 20210511T12:01:37Z | Null | https://github.com/exploit-re/exploit-re.github.io | 0 | 1| 
 | 20210511T11:33:16Z | POC Exploit written in Ruby | https://github.com/scumdestroy/CVE-2019-5420.rb | 0 | 0| 
 | 20210511T11:31:03Z | Exploit  for Node-jose < 0.11.0 written in Ruby | https://github.com/scumdestroy/CVE-2018-0114 | 0 | 0| 
 | 20210511T11:28:36Z | These are the scripts & methodologies that can be used in Buffer Over Flow Fuzzing and Exploitation | https://github.com/IamLucif3r/Buffer-Overflow | 1 | 0| 
@@ -76,7 +76,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210511T12:00:41Z | Null | https://github.com/osmandagli/Fuzzy2 | 0 | 0| 
+| 20210511T12:07:15Z | Null | https://github.com/osmandagli/Fuzzy2 | 0 | 0| 
 | 20210511T11:40:33Z | PoC of fuzzing closed-source userspace binaries with KVM | https://github.com/klecko/kvm-fuzz | 63 | 5| 
 | 20210511T11:37:56Z | Just another repository | https://github.com/Monib21/fuzzy-guacamole | 0 | 0| 
 | 20210511T11:34:42Z | Fuzzing cryptographic libraries. Magic bug printer go brrrr. | https://github.com/guidovranken/cryptofuzz | 279 | 37| 
