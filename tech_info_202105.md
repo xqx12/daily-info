@@ -46,7 +46,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20210511T10:42:52Z | CVE-2021-29200 | Null | https://github.com/r0ckysec/CVE-2021-29200 | | 
+| 20210511T10:42:52Z | CVE-2021-29200 | Null | https://github.com/r0ckysec/CVE-2021-29200 | Apache OFBiz has unsafe deserialization prior to 17.12.07 version An unauthenticated user can perform an RCE attack| 
 | 20210511T08:15:49Z | CVE-2021-30461 | CVE-2021-30461 | https://github.com/Al1ex/CVE-2021-30461 | 未查询到CVE信息| 
 | 20210510T21:54:50Z | CVE-2020-14882 | Check YouTube - https://youtu.be/O0ZnLXRY5Wo | https://github.com/exploitblizzard/CVE-2020-14882-WebLogic | Vulnerability in the Oracle WebLogic Server product of Oracle Fusion Middleware (component: Console). Supported versions that are affected are 10.3.6.0.0, 12.1.3.0.0, 12.2.1.3.0, 12.2.1.4.0 and 14.1.1.0.0. Easily exploitable vulnerability allows unauthenticated attacker with network access via HTTP to compromise Oracle WebLogic Server. Successful attacks of this vulnerability can result in takeover of Oracle WebLogic Server. CVSS 3.1 Base Score 9.8 (Confidentiality, Integrity and Availability impacts). CVSS Vector: (CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H).| 
 | 20210510T20:42:35Z | CVE-2021-31728 | vulnerability in zam64.sys, zam32.sys allowing ring 0 code execution. CVE-2021-31727 and CVE-2021-31728 public reference. | https://github.com/irql0/CVE-2021-31728 | 未查询到CVE信息| 
@@ -82,7 +82,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210511T12:14:38Z | Null | https://github.com/exploit-re/exploit-re.github.io | 0 | 1| 
+| 20210511T12:18:53Z | Null | https://github.com/exploit-re/exploit-re.github.io | 0 | 1| 
 | 20210511T12:02:46Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 22 | 9| 
 | 20210511T11:33:16Z | POC Exploit written in Ruby | https://github.com/scumdestroy/CVE-2019-5420.rb | 0 | 0| 
 | 20210511T11:31:03Z | Exploit  for Node-jose < 0.11.0 written in Ruby | https://github.com/scumdestroy/CVE-2018-0114 | 0 | 0| 
