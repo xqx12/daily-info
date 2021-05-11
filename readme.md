@@ -50,7 +50,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210511T11:58:18Z | Null | https://github.com/exploit-re/exploit-re.github.io | 0 | 1| 
+| 20210511T12:01:37Z | Null | https://github.com/exploit-re/exploit-re.github.io | 0 | 1| 
 | 20210511T11:33:16Z | POC Exploit written in Ruby | https://github.com/scumdestroy/CVE-2019-5420.rb | 0 | 0| 
 | 20210511T11:31:03Z | Exploit  for Node-jose < 0.11.0 written in Ruby | https://github.com/scumdestroy/CVE-2018-0114 | 0 | 0| 
 | 20210511T11:28:36Z | These are the scripts & methodologies that can be used in Buffer Over Flow Fuzzing and Exploitation | https://github.com/IamLucif3r/Buffer-Overflow | 1 | 0| 
@@ -65,14 +65,26 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210511T11:12:04Z | Git introduction with a backdoor | https://github.com/niwantya/First-git | 0 | 0| 
+| 20210511T10:53:50Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 233 | 38| 
+| 20210511T09:59:19Z | Avyukt is a Exploitation Framework which can be used to generate Malicious Payloads and exploit Windows OS | https://github.com/Vedant-Bhalgama/Avyukt | 30 | 14| 
+| 20210511T05:59:58Z | Hanoman is an GUI antivirus engine singature based detection 🐒 | https://github.com/hrtywhy/Hanoman | 1 | 1| 
+| 20210511T03:30:54Z | Able to connect and run commands from a remote computer. | https://github.com/Yamsterdam/Python-Backdoor | 1 | 0| 
 
 
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210511T00:53:44Z | Null | https://github.com/paul-gomes/Neuro-Fuzzy-System | 0 | 0| 
-| 20210511T00:50:18Z | repo of scripts | https://github.com/johanvargas/fuzzy-projects | 0 | 0| 
-| 20210511T00:48:32Z | Scalable fuzzing infrastructure. | https://github.com/google/clusterfuzz | 4489 | 437| 
+| 20210511T12:00:41Z | Null | https://github.com/osmandagli/Fuzzy2 | 0 | 0| 
+| 20210511T11:40:33Z | PoC of fuzzing closed-source userspace binaries with KVM | https://github.com/klecko/kvm-fuzz | 63 | 5| 
+| 20210511T11:37:56Z | Just another repository | https://github.com/Monib21/fuzzy-guacamole | 0 | 0| 
+| 20210511T11:34:42Z | Fuzzing cryptographic libraries. Magic bug printer go brrrr. | https://github.com/guidovranken/cryptofuzz | 279 | 37| 
+| 20210511T11:28:36Z | These are the scripts & methodologies that can be used in Buffer Over Flow Fuzzing and Exploitation | https://github.com/IamLucif3r/Buffer-Overflow | 1 | 0| 
+| 20210511T11:12:59Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 385 | 32| 
+| 20210511T11:04:13Z | Null | https://github.com/vHanda/fuzzy_search | 0 | 0| 
+| 20210511T10:40:23Z | This is a test | https://github.com/pauldeguire/fuzzy-pancake | 0 | 0| 
+| 20210511T10:32:42Z | White-box fuzzer for Java bytecode | https://github.com/vorpal-research/kex | 6 | 5| 
+| 20210511T10:27:50Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6269 | 1268| 
 
 
 
