@@ -28,7 +28,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20210510T21:54:50Z | CVE-2020-14882 | Check YouTube - https://youtu.be/O0ZnLXRY5Wo | https://github.com/exploitblizzard/CVE-2020-14882-WebLogic | | 
+| 20210510T21:54:50Z | CVE-2020-14882 | Check YouTube - https://youtu.be/O0ZnLXRY5Wo | https://github.com/exploitblizzard/CVE-2020-14882-WebLogic | Vulnerability in the Oracle WebLogic Server product of Oracle Fusion Middleware (component: Console). Supported versions that are affected are 10.3.6.0.0, 12.1.3.0.0, 12.2.1.3.0, 12.2.1.4.0 and 14.1.1.0.0. Easily exploitable vulnerability allows unauthenticated attacker with network access via HTTP to compromise Oracle WebLogic Server. Successful attacks of this vulnerability can result in takeover of Oracle WebLogic Server. CVSS 3.1 Base Score 9.8 (Confidentiality, Integrity and Availability impacts). CVSS Vector: (CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H).| 
 | 20210510T20:42:35Z | CVE-2021-31728 | vulnerability in zam64.sys, zam32.sys allowing ring 0 code execution. CVE-2021-31727 and CVE-2021-31728 public reference. | https://github.com/irql0/CVE-2021-31728 | 未查询到CVE信息| 
 | 20210510T02:09:53Z | CVE-2021-26295 | CVE-2021-26295 EXP 可成功反弹Shell | https://github.com/r0ckysec/CVE-2021-26295 | Apache OFBiz has unsafe deserialization prior to 17.12.06. An unauthenticated attacker can use this vulnerability to successfully take over Apache OFBiz.| 
 | 20210510T02:08:28Z | CVE-2021-30128 | CVE-2021-30128 Apache OFBiz 反序列化漏洞远程代码执行 | https://github.com/r0ckysec/CVE-2021-30128 | Apache OFBiz has unsafe deserialization prior to 17.12.07 version| 
@@ -69,16 +69,16 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210510T21:31:07Z | PCI Express DIY hacking toolkit for Xilinx SP605 | https://github.com/Cr4sh/s6_pcie_microblaze | 351 | 87| 
+| 20210510T21:26:45Z | Create a backdoor to a WordPress website. | https://github.com/majidamiri70/backdoor_for_wp | 0 | 0| 
+| 20210510T21:07:50Z | A netcat and nircmd based windows backdoor for fun | https://github.com/f00kthisc0de/FunFramework | 0 | 0| 
+| 20210510T20:58:15Z | Simple Backdoor Coded in Python | https://github.com/Drew-Alleman/backdoor | 0 | 0| 
+| 20210510T20:26:39Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 232 | 38| 
+| 20210510T19:06:19Z | Python 3 IRC Bot / Botnet | https://github.com/trackmastersteve/HackServ | 19 | 16| 
+| 20210510T18:27:42Z | A Termux Backdoor  | https://github.com/f00kthisc0de/TermFun | 0 | 0| 
+| 20210510T14:45:17Z | backdoor-for-tefw | https://github.com/JoyGhoshs/tefw-backdoors | 1 | 0| 
 | 20210510T12:20:44Z | Simple bind backdoor destined for linux servers | https://github.com/mednic/b4ckd0or | 2 | 1| 
 | 20210510T12:13:28Z | Null | https://github.com/Hem1700/backdoor | 0 | 0| 
-| 20210510T11:52:47Z | A Simple android remote administration tool using sockets. It uses java on the client side and python on the server side | https://github.com/karma9874/AndroRAT | 222 | 101| 
-| 20210510T11:49:48Z | Null | https://github.com/ph-luffy/Backdoor | 1 | 2| 
-| 20210510T11:30:40Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 231 | 38| 
-| 20210510T10:46:16Z | Backdoor Attack in the Frequency Domain | https://github.com/FTrojanAttack/FTrojan | 0 | 0| 
-| 20210510T09:29:59Z | backdoor | https://github.com/muhammadrazan999/shell | 0 | 0| 
-| 20210510T08:47:14Z | Hanoman is an GUI antivirus engine singature based detection 🐒 | https://github.com/hrtywhy/Hanoman | 1 | 1| 
-| 20210510T07:30:40Z | A LKM rootkit targeting 4.x and 5.x kernel versions which opens a backdoor which can be used to spawn a reverse shell to a remote host and more. | https://github.com/h3xduck/Umbra | 3 | 0| 
-| 20210510T01:46:23Z | TrojanZoo provides a universal pytorch platform to conduct security researches (especially backdoor attacks/defenses) of image classification in deep learning. | https://github.com/ain-soph/trojanzoo | 69 | 11| 
 
 
 # fuzz on Github 推荐

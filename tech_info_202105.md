@@ -46,15 +46,15 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20210510T21:54:50Z | CVE-2020-14882 | Check YouTube - https://youtu.be/O0ZnLXRY5Wo | https://github.com/exploitblizzard/CVE-2020-14882-WebLogic | | 
+| 20210510T21:54:50Z | CVE-2020-14882 | Check YouTube - https://youtu.be/O0ZnLXRY5Wo | https://github.com/exploitblizzard/CVE-2020-14882-WebLogic | Vulnerability in the Oracle WebLogic Server product of Oracle Fusion Middleware (component: Console). Supported versions that are affected are 10.3.6.0.0, 12.1.3.0.0, 12.2.1.3.0, 12.2.1.4.0 and 14.1.1.0.0. Easily exploitable vulnerability allows unauthenticated attacker with network access via HTTP to compromise Oracle WebLogic Server. Successful attacks of this vulnerability can result in takeover of Oracle WebLogic Server. CVSS 3.1 Base Score 9.8 (Confidentiality, Integrity and Availability impacts). CVSS Vector: (CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H).| 
 | 20210510T20:42:35Z | CVE-2021-31728 | vulnerability in zam64.sys, zam32.sys allowing ring 0 code execution. CVE-2021-31727 and CVE-2021-31728 public reference. | https://github.com/irql0/CVE-2021-31728 | 未查询到CVE信息| 
 | 20210510T02:09:53Z | CVE-2021-26295 | CVE-2021-26295 EXP 可成功反弹Shell | https://github.com/r0ckysec/CVE-2021-26295 | Apache OFBiz has unsafe deserialization prior to 17.12.06. An unauthenticated attacker can use this vulnerability to successfully take over Apache OFBiz.| 
 | 20210510T02:08:28Z | CVE-2021-30128 | CVE-2021-30128 Apache OFBiz 反序列化漏洞远程代码执行 | https://github.com/r0ckysec/CVE-2021-30128 | Apache OFBiz has unsafe deserialization prior to 17.12.07 version| 
 | 20210509T22:55:55Z | CVE-2021-28269 | PoC for exploiting CVE-2021-28269 | https://github.com/JamesGeee/CVE-2021-28269 | Soyal Technology 701Client 9.0.1 is vulnerable to Insecure permissions via client.exe binary with Authenticated Users group with Full permissions.| 
 | 20210509T22:55:42Z | CVE-2021-30642 | PoC for exploiting CVE-2021-30642 | https://github.com/JamesGeee/CVE-2021-30642 | An input validation flaw in the Symantec Security Analytics web UI 7.2 prior 7.2.7, 8.1, prior to 8.1.3-NSR3, 8.2, prior to 8.2.1-NSR2 or 8.2.2 allows a remote, unauthenticated attacker to execute arbitrary OS commands on the target with elevated privileges.| 
 | 20210509T22:55:39Z | CVE-2021-30502 | PoC for exploiting CVE-2021-30502 | https://github.com/JamesGeee/CVE-2021-30502 | The unofficial vscode-ghc-simple (aka Simple Glasgow Haskell Compiler) extension before 0.2.3 for Visual Studio Code allows remote code execution via a crafted workspace configuration with replCommand.| 
-| 20210509T22:55:30Z | CVE-2021-20716 | PoC for exploiting CVE-2021-20716 | https://github.com/JamesGeee/CVE-2021-20716 | Hidden functionality in multiple Buffalo network devices (BHR-4RV firmware Ver.2.55 and prior, FS-G54 firmware Ver.2.04 and prior, WBR2-B11 firmware Ver.2.32 and prior, WBR2-G54 firmware Ver.2.32 and prior, WBR2-G54-KD firmware Ver.2.32 and prior, WBR-B11 firmware Ver.2.23 and prior, WBR-G54 firmware Ver.2.23 and prior, WBR-G54L firmware Ver.2.20 and prior, WHR2-A54G54 firmware Ver.2.25 and prior, WHR2-G54 firmware Ver.2.23 and prior, WHR2-G54V firmware Ver.2.55 and prior, WHR3-AG54 firmware Ver.2.23 and prior, WHR-G54 firmware Ver.2.16 and prior, WHR-G54-NF firmware Ver.2.10 and prior, WLA2-G54 firmware Ver.2.24 and prior, WLA2-G54C firmware Ver.2.24 and prior, WLA-B11 firmware Ver.2.20 and prior, WLA-G54 firmware Ver.2.20 and prior, WLA-G54C firmware Ver.2.20 and prior, WLAH-A54G54 firmware Ver.2.54 and prior, WLAH-AM54G54 firmware Ver.2.54 and prior, WLAH-G54 firmware Ver.2.54 and prior, WLI2-TX1-AG54 firmware Ver.2.53 and prior, WLI2-TX1-AMG54 firmware Ver.2.53 and prior, WLI2-TX1-G54 firmware Ver.2.20 and prior, WLI3-TX1-AMG54 firmware Ver.2.53 and prior, WLI3-TX1-G54 firmware Ver.2.53 and prior, WLI-T1-B11 firmware Ver.2.20 and prior, WLI-TX1-G54 firmware Ver.2.20 and prior, WVR-G54-NF firmware Ver.2.02 and prior, WZR-G108 firmware Ver.2.41 and prior, WZR-G54 firmware Ver.2.41 and prior, WZR-HP-G54 firmware Ver.2.41 and prior, WZR-RS-G54 firmware Ver.2.55 and prior, and WZR-RS-G54HP firmware Ver.2.55 and prior) allows a remote attacker to enable the debug option and to execute arbitrary code or OS commands, change the configuration, and cause a denial of service (DoS) condition.| 
-| 20210509T22:55:27Z | CVE-2021-30165 | PoC for exploiting CVE-2021-30165 | https://github.com/JamesGeee/CVE-2021-30165 | | 
+| 20210509T22:55:30Z | CVE-2021-20716 | PoC for exploiting CVE-2021-20716 | https://github.com/JamesGeee/CVE-2021-20716 | | 
+| 20210509T22:55:27Z | CVE-2021-30165 | PoC for exploiting CVE-2021-30165 | https://github.com/JamesGeee/CVE-2021-30165 | The default administrator account & password of the EDIMAX wireless network camera is hard-coded. Remote attackers can disassemble firmware to obtain the privileged permission and further control the devices.| 
 | 20210509T22:55:23Z | CVE-2020-36326 | PoC for exploiting CVE-2020-36326 | https://github.com/JamesGeee/CVE-2020-36326 | PHPMailer 6.1.8 through 6.4.0 allows object injection through Phar Deserialization via addAttachment with a UNC pathname. NOTE: this is similar to CVE-2018-19296, but arose because 6.1.8 fixed a functionality problem in which UNC pathnames were always considered unreadable by PHPMailer, even in safe contexts. As an unintended side effect, this fix eliminated the code that blocked addAttachment exploitation.| 
 
 
@@ -82,8 +82,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210511T00:06:40Z | lab_tool is a framework and its use is for ethical hacking and computer security | https://github.com/dylan14567/labsecurity | 1 | 3| 
 | 20210511T00:02:51Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 22 | 9| 
-| 20210511T00:02:28Z | lab_tool is a framework and its use is for ethical hacking and computer security | https://github.com/dylan14567/labsecurity | 1 | 3| 
 | 20210510T23:54:32Z | Exploit Pack contains a full set of 39.000+ exploits, you can be sure that your next pentest will become unstoppable. All operating systems are supported as targets, including: Windows, Linux, Unix, Minix, SCO, Solaris, OSX, etc. and even mobile and web platforms. | https://github.com/AngelSecurityTeam/Tool-ExploitPack | 0 | 0| 
 | 20210510T23:49:29Z | This Chrome Extension exploits the Chrome downloads permission.  | https://github.com/cbritt0n/downloads-exploit | 0 | 0| 
 | 20210510T22:51:10Z | Null | https://github.com/robloxHacks2021/Exploit-GUI | 0 | 0| 
@@ -97,16 +97,16 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210510T21:31:07Z | PCI Express DIY hacking toolkit for Xilinx SP605 | https://github.com/Cr4sh/s6_pcie_microblaze | 351 | 87| 
+| 20210510T21:26:45Z | Create a backdoor to a WordPress website. | https://github.com/majidamiri70/backdoor_for_wp | 0 | 0| 
+| 20210510T21:07:50Z | A netcat and nircmd based windows backdoor for fun | https://github.com/f00kthisc0de/FunFramework | 0 | 0| 
+| 20210510T20:58:15Z | Simple Backdoor Coded in Python | https://github.com/Drew-Alleman/backdoor | 0 | 0| 
+| 20210510T20:26:39Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 232 | 38| 
+| 20210510T19:06:19Z | Python 3 IRC Bot / Botnet | https://github.com/trackmastersteve/HackServ | 19 | 16| 
+| 20210510T18:27:42Z | A Termux Backdoor  | https://github.com/f00kthisc0de/TermFun | 0 | 0| 
+| 20210510T14:45:17Z | backdoor-for-tefw | https://github.com/JoyGhoshs/tefw-backdoors | 1 | 0| 
 | 20210510T12:20:44Z | Simple bind backdoor destined for linux servers | https://github.com/mednic/b4ckd0or | 2 | 1| 
 | 20210510T12:13:28Z | Null | https://github.com/Hem1700/backdoor | 0 | 0| 
-| 20210510T11:52:47Z | A Simple android remote administration tool using sockets. It uses java on the client side and python on the server side | https://github.com/karma9874/AndroRAT | 222 | 101| 
-| 20210510T11:49:48Z | Null | https://github.com/ph-luffy/Backdoor | 1 | 2| 
-| 20210510T11:30:40Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 231 | 38| 
-| 20210510T10:46:16Z | Backdoor Attack in the Frequency Domain | https://github.com/FTrojanAttack/FTrojan | 0 | 0| 
-| 20210510T09:29:59Z | backdoor | https://github.com/muhammadrazan999/shell | 0 | 0| 
-| 20210510T08:47:14Z | Hanoman is an GUI antivirus engine singature based detection 🐒 | https://github.com/hrtywhy/Hanoman | 1 | 1| 
-| 20210510T07:30:40Z | A LKM rootkit targeting 4.x and 5.x kernel versions which opens a backdoor which can be used to spawn a reverse shell to a remote host and more. | https://github.com/h3xduck/Umbra | 3 | 0| 
-| 20210510T01:46:23Z | TrojanZoo provides a universal pytorch platform to conduct security researches (especially backdoor attacks/defenses) of image classification in deep learning. | https://github.com/ain-soph/trojanzoo | 69 | 11| 
 
 
 # fuzz on Github 推荐
