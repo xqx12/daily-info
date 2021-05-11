@@ -51,7 +51,7 @@
 | 20210510T21:54:50Z | CVE-2020-14882 | Check YouTube - https://youtu.be/O0ZnLXRY5Wo | https://github.com/exploitblizzard/CVE-2020-14882-WebLogic | Vulnerability in the Oracle WebLogic Server product of Oracle Fusion Middleware (component: Console). Supported versions that are affected are 10.3.6.0.0, 12.1.3.0.0, 12.2.1.3.0, 12.2.1.4.0 and 14.1.1.0.0. Easily exploitable vulnerability allows unauthenticated attacker with network access via HTTP to compromise Oracle WebLogic Server. Successful attacks of this vulnerability can result in takeover of Oracle WebLogic Server. CVSS 3.1 Base Score 9.8 (Confidentiality, Integrity and Availability impacts). CVSS Vector: (CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H).| 
 | 20210510T20:42:35Z | CVE-2021-31728 | vulnerability in zam64.sys, zam32.sys allowing ring 0 code execution. CVE-2021-31727 and CVE-2021-31728 public reference. | https://github.com/irql0/CVE-2021-31728 | 未查询到CVE信息| 
 | 20210510T02:09:53Z | CVE-2021-26295 | CVE-2021-26295 EXP 可成功反弹Shell | https://github.com/r0ckysec/CVE-2021-26295 | Apache OFBiz has unsafe deserialization prior to 17.12.06. An unauthenticated attacker can use this vulnerability to successfully take over Apache OFBiz.| 
-| 20210510T02:08:28Z | CVE-2021-30128 | CVE-2021-30128 Apache OFBiz 反序列化漏洞远程代码执行 | https://github.com/r0ckysec/CVE-2021-30128 | Apache OFBiz has unsafe deserialization prior to 17.12.07 version| 
+| 20210510T02:08:28Z | CVE-2021-30128 | CVE-2021-30128 Apache OFBiz 反序列化漏洞远程代码执行 | https://github.com/r0ckysec/CVE-2021-30128 | | 
 | 20210509T22:55:55Z | CVE-2021-28269 | PoC for exploiting CVE-2021-28269 | https://github.com/JamesGeee/CVE-2021-28269 | Soyal Technology 701Client 9.0.1 is vulnerable to Insecure permissions via client.exe binary with Authenticated Users group with Full permissions.| 
 | 20210509T22:55:42Z | CVE-2021-30642 | PoC for exploiting CVE-2021-30642 | https://github.com/JamesGeee/CVE-2021-30642 | An input validation flaw in the Symantec Security Analytics web UI 7.2 prior 7.2.7, 8.1, prior to 8.1.3-NSR3, 8.2, prior to 8.2.1-NSR2 or 8.2.2 allows a remote, unauthenticated attacker to execute arbitrary OS commands on the target with elevated privileges.| 
 | 20210509T22:55:39Z | CVE-2021-30502 | PoC for exploiting CVE-2021-30502 | https://github.com/JamesGeee/CVE-2021-30502 | The unofficial vscode-ghc-simple (aka Simple Glasgow Haskell Compiler) extension before 0.2.3 for Visual Studio Code allows remote code execution via a crafted workspace configuration with replCommand.| 
@@ -82,7 +82,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210511T12:07:34Z | Null | https://github.com/exploit-re/exploit-re.github.io | 0 | 1| 
+| 20210511T12:08:01Z | Null | https://github.com/exploit-re/exploit-re.github.io | 0 | 1| 
 | 20210511T12:02:46Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 22 | 9| 
 | 20210511T11:33:16Z | POC Exploit written in Ruby | https://github.com/scumdestroy/CVE-2019-5420.rb | 0 | 0| 
 | 20210511T11:31:03Z | Exploit  for Node-jose < 0.11.0 written in Ruby | https://github.com/scumdestroy/CVE-2018-0114 | 0 | 0| 

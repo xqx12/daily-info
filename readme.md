@@ -51,7 +51,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210511T12:07:34Z | Null | https://github.com/exploit-re/exploit-re.github.io | 0 | 1| 
+| 20210511T12:08:01Z | Null | https://github.com/exploit-re/exploit-re.github.io | 0 | 1| 
 | 20210511T12:02:46Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 22 | 9| 
 | 20210511T11:33:16Z | POC Exploit written in Ruby | https://github.com/scumdestroy/CVE-2019-5420.rb | 0 | 0| 
 | 20210511T11:31:03Z | Exploit  for Node-jose < 0.11.0 written in Ruby | https://github.com/scumdestroy/CVE-2018-0114 | 0 | 0| 
