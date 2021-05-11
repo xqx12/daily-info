@@ -31,6 +31,7 @@
 # 安全维基 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20210510 | SecWiki周刊（第375期) | https://www.sec-wiki.com/weekly/375| 
 | 20210509 | 数据安全怎么做——数据跨境的思考 | https://mp.weixin.qq.com/s/tPKbHyMU54iARe4ojD7czg| 
 | 20210509 | 上交所VPN攻防札记 | https://mp.weixin.qq.com/s/uygNjOZmBwGcMdvILN-psw| 
 | 20210508 | 2021海华AI挑战赛·中文阅读理解·技术组 Rank12 | https://mp.weixin.qq.com/s/I3oA4VioFZM3zFOmj5gqJw| 
@@ -40,12 +41,13 @@
 | 20210507 | 堆的unlink利用 | https://www.sec-in.com/article/1048| 
 | 20210506 | 记一次相对完整的渗透测试 | https://www.sec-in.com/article/1034| 
 | 20210506 | 一种多维数据融合的网络威胁溯源迭代分析模型研究 | https://mp.weixin.qq.com/s/luD2v2kqXx41KWKqnItyBg| 
-| 20210504 | FTPServer的Fuzzing | https://mp.weixin.qq.com/s/ezo0W22-igu8uhnbO8sR-Q| 
 
 
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20210510T21:54:50Z | CVE-2020-14882 | Check YouTube - https://youtu.be/O0ZnLXRY5Wo | https://github.com/exploitblizzard/CVE-2020-14882-WebLogic | Vulnerability in the Oracle WebLogic Server product of Oracle Fusion Middleware (component: Console). Supported versions that are affected are 10.3.6.0.0, 12.1.3.0.0, 12.2.1.3.0, 12.2.1.4.0 and 14.1.1.0.0. Easily exploitable vulnerability allows unauthenticated attacker with network access via HTTP to compromise Oracle WebLogic Server. Successful attacks of this vulnerability can result in takeover of Oracle WebLogic Server. CVSS 3.1 Base Score 9.8 (Confidentiality, Integrity and Availability impacts). CVSS Vector: (CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H).| 
+| 20210510T20:42:35Z | CVE-2021-31728 | vulnerability in zam64.sys, zam32.sys allowing ring 0 code execution. CVE-2021-31727 and CVE-2021-31728 public reference. | https://github.com/irql0/CVE-2021-31728 | 未查询到CVE信息| 
 | 20210510T02:09:53Z | CVE-2021-26295 | CVE-2021-26295 EXP 可成功反弹Shell | https://github.com/r0ckysec/CVE-2021-26295 | Apache OFBiz has unsafe deserialization prior to 17.12.06. An unauthenticated attacker can use this vulnerability to successfully take over Apache OFBiz.| 
 | 20210510T02:08:28Z | CVE-2021-30128 | CVE-2021-30128 Apache OFBiz 反序列化漏洞远程代码执行 | https://github.com/r0ckysec/CVE-2021-30128 | Apache OFBiz has unsafe deserialization prior to 17.12.07 version| 
 | 20210509T22:55:55Z | CVE-2021-28269 | PoC for exploiting CVE-2021-28269 | https://github.com/JamesGeee/CVE-2021-28269 | Soyal Technology 701Client 9.0.1 is vulnerable to Insecure permissions via client.exe binary with Authenticated Users group with Full permissions.| 
@@ -53,24 +55,22 @@
 | 20210509T22:55:39Z | CVE-2021-30502 | PoC for exploiting CVE-2021-30502 | https://github.com/JamesGeee/CVE-2021-30502 | The unofficial vscode-ghc-simple (aka Simple Glasgow Haskell Compiler) extension before 0.2.3 for Visual Studio Code allows remote code execution via a crafted workspace configuration with replCommand.| 
 | 20210509T22:55:30Z | CVE-2021-20716 | PoC for exploiting CVE-2021-20716 | https://github.com/JamesGeee/CVE-2021-20716 | Hidden functionality in multiple Buffalo network devices (BHR-4RV firmware Ver.2.55 and prior, FS-G54 firmware Ver.2.04 and prior, WBR2-B11 firmware Ver.2.32 and prior, WBR2-G54 firmware Ver.2.32 and prior, WBR2-G54-KD firmware Ver.2.32 and prior, WBR-B11 firmware Ver.2.23 and prior, WBR-G54 firmware Ver.2.23 and prior, WBR-G54L firmware Ver.2.20 and prior, WHR2-A54G54 firmware Ver.2.25 and prior, WHR2-G54 firmware Ver.2.23 and prior, WHR2-G54V firmware Ver.2.55 and prior, WHR3-AG54 firmware Ver.2.23 and prior, WHR-G54 firmware Ver.2.16 and prior, WHR-G54-NF firmware Ver.2.10 and prior, WLA2-G54 firmware Ver.2.24 and prior, WLA2-G54C firmware Ver.2.24 and prior, WLA-B11 firmware Ver.2.20 and prior, WLA-G54 firmware Ver.2.20 and prior, WLA-G54C firmware Ver.2.20 and prior, WLAH-A54G54 firmware Ver.2.54 and prior, WLAH-AM54G54 firmware Ver.2.54 and prior, WLAH-G54 firmware Ver.2.54 and prior, WLI2-TX1-AG54 firmware Ver.2.53 and prior, WLI2-TX1-AMG54 firmware Ver.2.53 and prior, WLI2-TX1-G54 firmware Ver.2.20 and prior, WLI3-TX1-AMG54 firmware Ver.2.53 and prior, WLI3-TX1-G54 firmware Ver.2.53 and prior, WLI-T1-B11 firmware Ver.2.20 and prior, WLI-TX1-G54 firmware Ver.2.20 and prior, WVR-G54-NF firmware Ver.2.02 and prior, WZR-G108 firmware Ver.2.41 and prior, WZR-G54 firmware Ver.2.41 and prior, WZR-HP-G54 firmware Ver.2.41 and prior, WZR-RS-G54 firmware Ver.2.55 and prior, and WZR-RS-G54HP firmware Ver.2.55 and prior) allows a remote attacker to enable the debug option and to execute arbitrary code or OS commands, change the configuration, and cause a denial of service (DoS) condition.| 
 | 20210509T22:55:27Z | CVE-2021-30165 | PoC for exploiting CVE-2021-30165 | https://github.com/JamesGeee/CVE-2021-30165 | The default administrator account & password of the EDIMAX wireless network camera is hard-coded. Remote attackers can disassemble firmware to obtain the privileged permission and further control the devices.| 
-| 20210509T22:55:23Z | CVE-2020-36326 | PoC for exploiting CVE-2020-36326 | https://github.com/JamesGeee/CVE-2020-36326 | PHPMailer 6.1.8 through 6.4.0 allows object injection through Phar Deserialization via addAttachment with a UNC pathname. NOTE: this is similar to CVE-2018-19296, but arose because 6.1.8 fixed a functionality problem in which UNC pathnames were always considered unreadable by PHPMailer, even in safe contexts. As an unintended side effect, this fix eliminated the code that blocked addAttachment exploitation.| 
-| 20210509T22:55:20Z | CVE-2021-31826 | PoC for exploiting CVE-2021-31826 | https://github.com/JamesGeee/CVE-2021-31826 | | 
-| 20210509T22:55:17Z | CVE-2020-23127 | PoC for exploiting CVE-2020-23127 | https://github.com/JamesGeee/CVE-2020-23127 | Chamilo LMS 1.11.10 is affected by Cross Site Request Forgery (CSRF) via the edit_user function by targeting an admin user.| 
+| 20210509T22:55:23Z | CVE-2020-36326 | PoC for exploiting CVE-2020-36326 | https://github.com/JamesGeee/CVE-2020-36326 | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210510T20:18:36Z | RVT is a collection of tools/libraries to support both static and dynamic verification of Rust programs. | https://github.com/project-oak/rust-verification-tools | 129 | 13| 
+| 20210510T16:48:40Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1686 | 492| 
+| 20210510T14:25:37Z | Website for the KLEE project: https://klee.github.io/ | https://github.com/klee/klee.github.io | 14 | 43| 
 | 20210510T12:24:58Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 的 Klee One 的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 579 | 13| 
 | 20210510T12:15:37Z | Demonstration of KLEE-Float for verifying programs. | https://github.com/mob-group/klee-demo | 0 | 0| 
-| 20210510T10:49:36Z | RVT is a collection of tools/libraries to support both static and dynamic verification of Rust programs. | https://github.com/project-oak/rust-verification-tools | 128 | 13| 
-| 20210510T10:40:38Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1686 | 492| 
 | 20210510T07:55:20Z | 99484C Worlds Code | https://github.com/Jython1415/penguin-Klee | 1 | 0| 
 | 20210509T23:30:18Z | New portfolio website using react and material ui.  | https://github.com/collinkleest/kleest.io | 1 | 0| 
 | 20210508T21:42:33Z | Null | https://github.com/thierry-tct/KLEE-SEMu | 2 | 2| 
 | 20210508T19:27:21Z | ⚡ Kleeja Open Source Desktop Application (Windows / Linux / Mac) | https://github.com/anasybal/Kleeja-da | 0 | 1| 
 | 20210507T17:05:22Z | A personnal UI library made as an excuse to have a published UI package | https://github.com/Liinkiing/klee | 10 | 1| 
-| 20210507T00:04:51Z | Null | https://github.com/sosp21paper780/vigor-klee | 0 | 0| 
 
 
 # s2e on Github 推荐
@@ -82,16 +82,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210510T12:51:53Z | iblessing is an iOS security exploiting toolkit, it mainly includes application information collection, static analysis and dynamic analysis. It can be used for reverse engineering, binary analysis and vulnerability mining. | https://github.com/Soulghost/iblessing | 355 | 52| 
-| 20210510T12:51:06Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 16 | 11| 
-| 20210510T12:40:16Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9405 | 1519| 
-| 20210510T12:19:40Z | Automated All-in-One OS Command Injection Exploitation Tool | https://github.com/commixproject/commix | 2682 | 607| 
-| 20210510T12:06:05Z | linux post-exploitation framework made by linux user | https://github.com/jm33-m0/emp3r0r | 460 | 84| 
-| 20210510T12:02:44Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 22 | 9| 
-| 20210510T11:56:16Z | Buffer overflow exploit for TryHackMe Room %Binary Heaven% | https://github.com/Arduino3128/BinaryHeavenExploit | 0 | 0| 
-| 20210510T11:52:47Z | A Simple android remote administration tool using sockets. It uses java on the client side and python on the server side | https://github.com/karma9874/AndroRAT | 222 | 101| 
-| 20210510T11:16:40Z | Experimental CSGO external game exploit. | https://github.com/jamesmoriarty/gohack | 21 | 3| 
-| 20210510T11:02:22Z | The Browser Exploitation Framework Project | https://github.com/beefproject/beef | 5689 | 1350| 
+| 20210511T00:00:30Z | lab_tool is a framework and its use is for ethical hacking and computer security | https://github.com/dylan14567/labsecurity | 1 | 3| 
+| 20210510T23:54:32Z | Exploit Pack contains a full set of 39.000+ exploits, you can be sure that your next pentest will become unstoppable. All operating systems are supported as targets, including: Windows, Linux, Unix, Minix, SCO, Solaris, OSX, etc. and even mobile and web platforms. | https://github.com/AngelSecurityTeam/Tool-ExploitPack | 0 | 0| 
+| 20210510T23:49:29Z | This Chrome Extension exploits the Chrome downloads permission.  | https://github.com/cbritt0n/downloads-exploit | 0 | 0| 
+| 20210510T23:02:42Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 22 | 9| 
+| 20210510T22:51:10Z | Null | https://github.com/robloxHacks2021/Exploit-GUI | 0 | 0| 
+| 20210510T22:47:17Z | roblox lego exploiting | https://github.com/iiiSeaIGamerxxx/A | 0 | 0| 
+| 20210510T22:41:29Z | Null | https://github.com/HazimAr/Revival-Frontend-Exploit | 1 | 1| 
+| 20210510T22:29:30Z | kernel exploit | https://github.com/jeckles/HACS408T | 0 | 0| 
+| 20210510T21:48:10Z | Roblox Exploit GUI lol | https://github.com/TheMinecrafter05/FaceLesS | 0 | 0| 
+| 20210510T21:47:05Z | General template used for exploiting shared objection injection. | https://github.com/Jedd117/linux-shared-object-injection | 0 | 0| 
 
 
 # backdoor on Github 推荐
@@ -112,16 +112,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210510T12:43:08Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6263 | 1268| 
-| 20210510T12:27:49Z | This is React Native | https://github.com/rookasrudzianskas/Fuzzy-signal | 0 | 0| 
-| 20210510T12:08:42Z | Setup scripts for 32bit JavaScriptCore Fuzzing Setup | https://github.com/pmatos/jsc32-fuzz-setup | 0 | 0| 
-| 20210510T12:04:35Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 3503 | 810| 
-| 20210510T11:57:51Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 1716 | 340| 
-| 20210510T11:55:41Z | A tool to fuzz directories of a website | https://github.com/Arvialo/bustR | 0 | 0| 
-| 20210510T11:30:53Z | Take the current implementation and turning a microservice architecture | https://github.com/ccesarrod/FuzzyMicrosrvices | 0 | 0| 
-| 20210510T11:29:16Z | Null | https://github.com/ccesarrod/.NetCoreFuzzy | 0 | 0| 
-| 20210510T11:03:24Z | Test | https://github.com/BesseJrand/fuzzy-fiesta | 0 | 0| 
-| 20210510T10:49:31Z | Null | https://github.com/schemathesis/web-api-fuzzing-project | 0 | 0| 
+| 20210510T23:46:32Z | Null | https://github.com/munat1/fuzzy-c-means | 0 | 0| 
+| 20210510T23:37:16Z | Recipe book that produces recipes based on user input of given ingredients. | https://github.com/DominicYoung1/fuzzy-octo-garbanzo | 0 | 0| 
+| 20210510T23:32:01Z | Arduino-controlled fuzz factory with MIDI controlled LFOs | https://github.com/howbuildingsfail/oscifuzzfac | 0 | 0| 
+| 20210510T23:10:11Z | Null | https://github.com/paul-gomes/Neuro-Fuzzy-System | 0 | 0| 
+| 20210510T22:58:02Z | Null | https://github.com/OpenZeppelin/fuzzy-import-parser | 1 | 1| 
+| 20210510T22:50:14Z | Null | https://github.com/churellano/fuzzy-enigma | 0 | 0| 
+| 20210510T22:48:30Z | Null | https://github.com/opimentel-github/fuzzy-torch | 1 | 0| 
+| 20210510T22:36:29Z | Fuzzing cryptographic libraries. Magic bug printer go brrrr. | https://github.com/guidovranken/cryptofuzz | 279 | 37| 
+| 20210510T22:35:04Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 1720 | 340| 
+| 20210510T22:18:17Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2322 | 125| 
 
 
 

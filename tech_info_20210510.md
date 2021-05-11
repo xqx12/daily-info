@@ -22,11 +22,14 @@
 # 安全维基 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20210510 | SecWiki周刊（第375期) | https://www.sec-wiki.com/weekly/375| 
 
 
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20210510T21:54:50Z | CVE-2020-14882 | Check YouTube - https://youtu.be/O0ZnLXRY5Wo | https://github.com/exploitblizzard/CVE-2020-14882-WebLogic | Vulnerability in the Oracle WebLogic Server product of Oracle Fusion Middleware (component: Console). Supported versions that are affected are 10.3.6.0.0, 12.1.3.0.0, 12.2.1.3.0, 12.2.1.4.0 and 14.1.1.0.0. Easily exploitable vulnerability allows unauthenticated attacker with network access via HTTP to compromise Oracle WebLogic Server. Successful attacks of this vulnerability can result in takeover of Oracle WebLogic Server. CVSS 3.1 Base Score 9.8 (Confidentiality, Integrity and Availability impacts). CVSS Vector: (CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H).| 
+| 20210510T20:42:35Z | CVE-2021-31728 | vulnerability in zam64.sys, zam32.sys allowing ring 0 code execution. CVE-2021-31727 and CVE-2021-31728 public reference. | https://github.com/irql0/CVE-2021-31728 | 未查询到CVE信息| 
 | 20210510T02:09:53Z | CVE-2021-26295 | CVE-2021-26295 EXP 可成功反弹Shell | https://github.com/r0ckysec/CVE-2021-26295 | Apache OFBiz has unsafe deserialization prior to 17.12.06. An unauthenticated attacker can use this vulnerability to successfully take over Apache OFBiz.| 
 | 20210510T02:08:28Z | CVE-2021-30128 | CVE-2021-30128 Apache OFBiz 反序列化漏洞远程代码执行 | https://github.com/r0ckysec/CVE-2021-30128 | Apache OFBiz has unsafe deserialization prior to 17.12.07 version| 
 
@@ -34,10 +37,11 @@
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210510T20:18:36Z | RVT is a collection of tools/libraries to support both static and dynamic verification of Rust programs. | https://github.com/project-oak/rust-verification-tools | 129 | 13| 
+| 20210510T16:48:40Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1686 | 492| 
+| 20210510T14:25:37Z | Website for the KLEE project: https://klee.github.io/ | https://github.com/klee/klee.github.io | 14 | 43| 
 | 20210510T12:24:58Z | An open-source Chinese font derived from Fontworks% Klee One. 一款基于 FONTWORKS 的 Klee One 的开源中文字体。 | https://github.com/lxgw/LxgwWenKai | 579 | 13| 
 | 20210510T12:15:37Z | Demonstration of KLEE-Float for verifying programs. | https://github.com/mob-group/klee-demo | 0 | 0| 
-| 20210510T10:49:36Z | RVT is a collection of tools/libraries to support both static and dynamic verification of Rust programs. | https://github.com/project-oak/rust-verification-tools | 128 | 13| 
-| 20210510T10:40:38Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 1686 | 492| 
 | 20210510T07:55:20Z | 99484C Worlds Code | https://github.com/Jython1415/penguin-Klee | 1 | 0| 
 
 
@@ -50,16 +54,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210510T12:51:53Z | iblessing is an iOS security exploiting toolkit, it mainly includes application information collection, static analysis and dynamic analysis. It can be used for reverse engineering, binary analysis and vulnerability mining. | https://github.com/Soulghost/iblessing | 355 | 52| 
-| 20210510T12:51:06Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 16 | 11| 
-| 20210510T12:40:16Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9405 | 1519| 
-| 20210510T12:19:40Z | Automated All-in-One OS Command Injection Exploitation Tool | https://github.com/commixproject/commix | 2682 | 607| 
-| 20210510T12:06:05Z | linux post-exploitation framework made by linux user | https://github.com/jm33-m0/emp3r0r | 460 | 84| 
-| 20210510T12:02:44Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 22 | 9| 
-| 20210510T11:56:16Z | Buffer overflow exploit for TryHackMe Room %Binary Heaven% | https://github.com/Arduino3128/BinaryHeavenExploit | 0 | 0| 
-| 20210510T11:52:47Z | A Simple android remote administration tool using sockets. It uses java on the client side and python on the server side | https://github.com/karma9874/AndroRAT | 222 | 101| 
-| 20210510T11:16:40Z | Experimental CSGO external game exploit. | https://github.com/jamesmoriarty/gohack | 21 | 3| 
-| 20210510T11:02:22Z | The Browser Exploitation Framework Project | https://github.com/beefproject/beef | 5689 | 1350| 
+| 20210510T23:54:32Z | Exploit Pack contains a full set of 39.000+ exploits, you can be sure that your next pentest will become unstoppable. All operating systems are supported as targets, including: Windows, Linux, Unix, Minix, SCO, Solaris, OSX, etc. and even mobile and web platforms. | https://github.com/AngelSecurityTeam/Tool-ExploitPack | 0 | 0| 
+| 20210510T23:49:29Z | This Chrome Extension exploits the Chrome downloads permission.  | https://github.com/cbritt0n/downloads-exploit | 0 | 0| 
+| 20210510T23:02:42Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 22 | 9| 
+| 20210510T22:51:10Z | Null | https://github.com/robloxHacks2021/Exploit-GUI | 0 | 0| 
+| 20210510T22:47:17Z | roblox lego exploiting | https://github.com/iiiSeaIGamerxxx/A | 0 | 0| 
+| 20210510T22:41:29Z | Null | https://github.com/HazimAr/Revival-Frontend-Exploit | 1 | 1| 
+| 20210510T22:29:30Z | kernel exploit | https://github.com/jeckles/HACS408T | 0 | 0| 
+| 20210510T21:48:10Z | Roblox Exploit GUI lol | https://github.com/TheMinecrafter05/FaceLesS | 0 | 0| 
+| 20210510T21:47:05Z | General template used for exploiting shared objection injection. | https://github.com/Jedd117/linux-shared-object-injection | 0 | 0| 
+| 20210510T21:35:12Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9409 | 1520| 
 
 
 # backdoor on Github 推荐
@@ -80,16 +84,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210510T12:43:08Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6263 | 1268| 
-| 20210510T12:27:49Z | This is React Native | https://github.com/rookasrudzianskas/Fuzzy-signal | 0 | 0| 
-| 20210510T12:08:42Z | Setup scripts for 32bit JavaScriptCore Fuzzing Setup | https://github.com/pmatos/jsc32-fuzz-setup | 0 | 0| 
-| 20210510T12:04:35Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 3503 | 810| 
-| 20210510T11:57:51Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 1716 | 340| 
-| 20210510T11:55:41Z | A tool to fuzz directories of a website | https://github.com/Arvialo/bustR | 0 | 0| 
-| 20210510T11:30:53Z | Take the current implementation and turning a microservice architecture | https://github.com/ccesarrod/FuzzyMicrosrvices | 0 | 0| 
-| 20210510T11:29:16Z | Null | https://github.com/ccesarrod/.NetCoreFuzzy | 0 | 0| 
-| 20210510T11:03:24Z | Test | https://github.com/BesseJrand/fuzzy-fiesta | 0 | 0| 
-| 20210510T10:49:31Z | Null | https://github.com/schemathesis/web-api-fuzzing-project | 0 | 0| 
+| 20210510T23:46:32Z | Null | https://github.com/munat1/fuzzy-c-means | 0 | 0| 
+| 20210510T23:37:16Z | Recipe book that produces recipes based on user input of given ingredients. | https://github.com/DominicYoung1/fuzzy-octo-garbanzo | 0 | 0| 
+| 20210510T23:32:01Z | Arduino-controlled fuzz factory with MIDI controlled LFOs | https://github.com/howbuildingsfail/oscifuzzfac | 0 | 0| 
+| 20210510T23:10:11Z | Null | https://github.com/paul-gomes/Neuro-Fuzzy-System | 0 | 0| 
+| 20210510T22:58:02Z | Null | https://github.com/OpenZeppelin/fuzzy-import-parser | 1 | 1| 
+| 20210510T22:50:14Z | Null | https://github.com/churellano/fuzzy-enigma | 0 | 0| 
+| 20210510T22:48:30Z | Null | https://github.com/opimentel-github/fuzzy-torch | 1 | 0| 
+| 20210510T22:36:29Z | Fuzzing cryptographic libraries. Magic bug printer go brrrr. | https://github.com/guidovranken/cryptofuzz | 279 | 37| 
+| 20210510T22:35:04Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 1720 | 340| 
+| 20210510T22:18:17Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2322 | 125| 
 
 
 
