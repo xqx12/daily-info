@@ -31,6 +31,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20210511T12:27:00Z | cve-2021-2222 | Null | https://github.com/woliujizhou/cve-2021-2222 | Vulnerability in the Oracle Bill Presentment Architecture product of Oracle E-Business Suite (component: Template Search). Supported versions that are affected are 12.1.1-12.1.3 and 12.2.3-12.2.10. Easily exploitable vulnerability allows low privileged attacker with network access via HTTP to compromise Oracle Bill Presentment Architecture. Successful attacks of this vulnerability can result in unauthorized creation, deletion or modification access to critical data or all Oracle Bill Presentment Architecture accessible data as well as unauthorized access to critical data or complete access to all Oracle Bill Presentment Architecture accessible data. CVSS 3.1 Base Score 8.1 (Confidentiality and Integrity impacts). CVSS Vector: (CVSS:3.1/AV:N/AC:L/PR:L/UI:N/S:U/C:H/I:H/A:N).| 
 | 20210511T12:23:59Z | CVE-2021-1111 | Null | https://github.com/woliujizhou/CVE-2021-1111 | 未查询到CVE信息| 
 | 20210511T10:42:52Z | CVE-2021-29200 | Null | https://github.com/r0ckysec/CVE-2021-29200 | Apache OFBiz has unsafe deserialization prior to 17.12.07 version An unauthenticated user can perform an RCE attack| 
 | 20210511T08:15:49Z | CVE-2021-30461 | CVE-2021-30461 | https://github.com/Al1ex/CVE-2021-30461 | 未查询到CVE信息| 
