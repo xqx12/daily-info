@@ -54,16 +54,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20210510T23:54:32Z | Exploit Pack contains a full set of 39.000+ exploits, you can be sure that your next pentest will become unstoppable. All operating systems are supported as targets, including: Windows, Linux, Unix, Minix, SCO, Solaris, OSX, etc. and even mobile and web platforms. | https://github.com/AngelSecurityTeam/Tool-ExploitPack | 0 | 0| 
 | 20210510T22:51:10Z | Null | https://github.com/robloxHacks2021/Exploit-GUI | 0 | 0| 
 | 20210510T22:47:17Z | roblox lego exploiting | https://github.com/iiiSeaIGamerxxx/A | 0 | 0| 
-| 20210510T22:41:29Z | Null | https://github.com/HazimAr/Revival-Frontend-Exploit | 1 | 1| 
 | 20210510T22:29:30Z | kernel exploit | https://github.com/jeckles/HACS408T | 0 | 0| 
 | 20210510T21:48:10Z | Roblox Exploit GUI lol | https://github.com/TheMinecrafter05/FaceLesS | 0 | 0| 
 | 20210510T21:47:05Z | General template used for exploiting shared objection injection. | https://github.com/Jedd117/linux-shared-object-injection | 0 | 0| 
 | 20210510T21:35:12Z | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 9409 | 1520| 
 | 20210510T21:32:39Z | This is used for LD_PRELOAD exploitation. This is just a library that gets the root user and runs a reverse shell.  | https://github.com/Jedd117/Linux_LD_PRELOAD | 0 | 0| 
 | 20210510T20:58:33Z | Tox/Mass Report Bomb For Discord Made Originally By Dropout 1337, Anwir Prota & Chis | https://github.com/anwir-prota/Discord-Mass-Report-Bomb | 0 | 0| 
+| 20210510T20:57:15Z | Pseudo shells for different Lambda Runtime Environments & Lambda persistency exploits | https://github.com/Djkusik/Lambda-sHell | 0 | 0| 
+| 20210510T20:55:46Z | Made By SquiddyPepe (aka BeefStew45/BeefStewz, Marshellow, and RobbieTheHedgehog) and The Ace. | https://github.com/anwir-prota/WikiVandalismCode | 0 | 0| 
 
 
 # backdoor on Github 推荐
