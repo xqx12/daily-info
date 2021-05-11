@@ -112,6 +112,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210511T12:56:32Z | Fuzzy String Search, developed using C++, to implement fuzzy string matching. This is done using the Data Structure, BK-Trees. Given a file containing words, the contents are extracted and inserted to the BK-Tree to enable searching and spelling corrections. | https://github.com/ShreenidhiN/Fuzzy-String-Search | 0 | 0| 
 | 20210511T12:54:25Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2322 | 125| 
 | 20210511T12:46:19Z | Null | https://github.com/mrtonykhiem/FuzzyCal | 0 | 0| 
 | 20210511T12:07:15Z | Null | https://github.com/osmandagli/Fuzzy2 | 0 | 0| 
@@ -121,7 +122,6 @@
 | 20210511T11:28:36Z | These are the scripts & methodologies that can be used in Buffer Over Flow Fuzzing and Exploitation | https://github.com/IamLucif3r/Buffer-Overflow | 1 | 0| 
 | 20210511T11:12:59Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 385 | 32| 
 | 20210511T11:04:13Z | Null | https://github.com/vHanda/fuzzy_search | 0 | 0| 
-| 20210511T10:40:23Z | This is a test | https://github.com/pauldeguire/fuzzy-pancake | 0 | 0| 
 
 
 
