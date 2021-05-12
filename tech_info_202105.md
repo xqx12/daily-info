@@ -55,7 +55,7 @@
 | 20210512T01:50:52Z | CVE-2020-4932 | PoC for exploiting CVE-2020-4932 | https://github.com/JamesGeee/CVE-2020-4932 | IBM QRadar SIEM 7.3 and 7.4 contains hard-coded credentials, such as a password or cryptographic key, which it uses for its own inbound authentication, outbound communication to external components, or encryption of internal data. IBM X-Force ID: 191748.| 
 | 20210512T01:50:43Z | CVE-2020-4979 | PoC for exploiting CVE-2020-4979 | https://github.com/JamesGeee/CVE-2020-4979 | IBM QRadar SIEM 7.3 and 7.4 is vulnerable to insecure inter-deployment communication. An attacker that is able to comprimise or spoof traffic between hosts may be able to execute arbitrary commands. IBM X-Force D: 192538.| 
 | 20210512T01:50:40Z | CVE-2020-4883 | PoC for exploiting CVE-2020-4883 | https://github.com/JamesGeee/CVE-2020-4883 | IBM QRadar SIEM 7.3 and 7.4 could disclose sensitive information about other domains which could be used in further attacks against the system. IBM X-Force ID: 190907.| 
-| 20210512T01:50:37Z | CVE-2020-4929 | PoC for exploiting CVE-2020-4929 | https://github.com/JamesGeee/CVE-2020-4929 | IBM QRadar SIEM 7.3 and 7.4 is vulnerable to cross-site scripting. This vulnerability allows users to embed arbitrary JavaScript code in the Web UI thus altering the intended functionality potentially leading to credentials disclosure within a trusted session. IBM X-Force ID: 191706.| 
+| 20210512T01:50:37Z | CVE-2020-4929 | PoC for exploiting CVE-2020-4929 | https://github.com/JamesGeee/CVE-2020-4929 | | 
 
 
 # klee on Github 推荐
@@ -112,6 +112,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210512T12:47:03Z | A grey-box web fuzzer. Note that this is a mirror repo. The actual project is hosted in Bitbucket. | https://github.com/ovanr/webFuzz | 0 | 0| 
 | 20210512T12:41:58Z | Null | https://github.com/JonathanScialpi/CorDapp_Fuzzer | 0 | 0| 
 | 20210512T12:40:20Z | Null | https://github.com/lacygoill/vim-fuzzy | 0 | 1| 
 | 20210512T12:23:09Z | Fuzzy matching for Neovim | https://github.com/amirrezaask/fuzzy.nvim | 38 | 1| 
@@ -121,7 +122,6 @@
 | 20210512T11:19:35Z | FormatFuzzer is a framework for high-efficiency, high-quality generation and parsing of binary inputs. | https://github.com/uds-se/FormatFuzzer | 123 | 13| 
 | 20210512T11:13:15Z | Null | https://github.com/mmunar97/discrete_fuzzy_morphology | 0 | 0| 
 | 20210512T10:52:25Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 3504 | 813| 
-| 20210512T10:36:23Z | PoC of fuzzing closed-source userspace binaries with KVM | https://github.com/klecko/kvm-fuzz | 63 | 5| 
 
 
 
