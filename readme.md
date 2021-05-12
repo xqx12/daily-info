@@ -60,6 +60,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210512T12:56:18Z | Keep sending your mules. Offline dump, Have fun! | https://github.com/upal212/karo_dump | 0 | 0| 
 | 20210512T12:51:08Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 16 | 11| 
 | 20210512T12:50:10Z | A search engine on information delivered by OSINT sources to support Vulnerability Assessment | https://github.com/antonioforte1995/ISEV | 4 | 0| 
 | 20210512T12:41:15Z | A simple btc exchange written in DJango that exploits MongoDB through DJongo. | https://github.com/lucagobbi/bitfinis | 0 | 0| 
@@ -69,7 +70,6 @@
 | 20210512T12:09:11Z | These are the scripts & methodologies that can be used in Buffer Over Flow Fuzzing and Exploitation | https://github.com/IamLucif3r/Buffer-Overflow | 1 | 0| 
 | 20210512T12:06:45Z | Null | https://github.com/SickDev803/ParalyzedExploit | 0 | 0| 
 | 20210512T12:02:41Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 22 | 9| 
-| 20210512T12:01:23Z | Sudo Baron Samedit Exploit | https://github.com/worawit/CVE-2021-3156 | 309 | 51| 
 
 
 # backdoor on Github 推荐
