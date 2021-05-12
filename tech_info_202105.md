@@ -46,6 +46,9 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20210512T01:51:10Z | CVE-2020-5013 | PoC for exploiting CVE-2020-5013 | https://github.com/JamesGeee/CVE-2020-5013 | IBM QRadar SIEM 7.3 and 7.4 may vulnerable to a XML External Entity Injection (XXE) attack when processing XML data. A remote attacker could exploit this vulnerability to expose sensitive information or consume memory resources. IBM X-Force ID: 193245.| 
+| 20210512T01:51:06Z | CVE-2020-4993 | PoC for exploiting CVE-2020-4993 | https://github.com/JamesGeee/CVE-2020-4993 | IBM QRadar SIEM 7.3 and 7.4 when decompressing or verifying signature of zip files processes data in a way that may be vulnerable to path traversal attacks. IBM X-Force ID: 192905.| 
+| 20210512T01:50:52Z | CVE-2020-4932 | PoC for exploiting CVE-2020-4932 | https://github.com/JamesGeee/CVE-2020-4932 | IBM QRadar SIEM 7.3 and 7.4 contains hard-coded credentials, such as a password or cryptographic key, which it uses for its own inbound authentication, outbound communication to external components, or encryption of internal data. IBM X-Force ID: 191748.| 
 | 20210512T01:50:43Z | CVE-2020-4979 | PoC for exploiting CVE-2020-4979 | https://github.com/JamesGeee/CVE-2020-4979 | IBM QRadar SIEM 7.3 and 7.4 is vulnerable to insecure inter-deployment communication. An attacker that is able to comprimise or spoof traffic between hosts may be able to execute arbitrary commands. IBM X-Force D: 192538.| 
 | 20210512T01:50:40Z | CVE-2020-4883 | PoC for exploiting CVE-2020-4883 | https://github.com/JamesGeee/CVE-2020-4883 | IBM QRadar SIEM 7.3 and 7.4 could disclose sensitive information about other domains which could be used in further attacks against the system. IBM X-Force ID: 190907.| 
 | 20210512T01:50:37Z | CVE-2020-4929 | PoC for exploiting CVE-2020-4929 | https://github.com/JamesGeee/CVE-2020-4929 | IBM QRadar SIEM 7.3 and 7.4 is vulnerable to cross-site scripting. This vulnerability allows users to embed arbitrary JavaScript code in the Web UI thus altering the intended functionality potentially leading to credentials disclosure within a trusted session. IBM X-Force ID: 191706.| 
@@ -53,9 +56,6 @@
 | 20210512T01:50:27Z | CVE-2021-30128 | PoC for exploiting CVE-2021-30128 | https://github.com/JamesGeee/CVE-2021-30128 | Apache OFBiz has unsafe deserialization prior to 17.12.07 version| 
 | 20210512T01:50:24Z | CVE-2021-29138 | PoC for exploiting CVE-2021-29138 | https://github.com/JamesGeee/CVE-2021-29138 | A remote disclosure of privileged information vulnerability was discovered in Aruba ClearPass Policy Manager version(s) prior to 6.9.5, 6.8.9, 6.7.14-HF1. Aruba has released patches for Aruba ClearPass Policy Manager that address this security vulnerability.| 
 | 20210512T01:50:07Z | CVE-2021-29140 | PoC for exploiting CVE-2021-29140 | https://github.com/JamesGeee/CVE-2021-29140 | A remote XML external entity (XXE) vulnerability was discovered in Aruba ClearPass Policy Manager version(s): Prior to 6.9.5, 6.8.9, 6.7.14-HF1. Aruba has released patches for Aruba ClearPass Policy Manager that address this security vulnerability.| 
-| 20210512T01:49:42Z | CVE-2021-32259 | PoC for exploiting CVE-2021-32259 | https://github.com/JamesGeee/CVE-2021-32259 | ** REJECT ** DO NOT USE THIS CANDIDATE NUMBER. ConsultIDs: none. Reason: This candidate was withdrawn by its CNA.| 
-| 20210512T01:49:38Z | CVE-2021-29488 | PoC for exploiting CVE-2021-29488 | https://github.com/JamesGeee/CVE-2021-29488 | SABnzbd is an open source binary newsreader. A vulnerability was discovered in SABnzbd that could trick the `filesystem.renamer()` function into writing downloaded files outside the configured Download Folder via malicious PAR2 files. A patch was released as part of SABnzbd 3.2.1RC1. As a workaround, limit downloads to NZBs without PAR2 files, deny write permissions to the SABnzbd process outside areas it must access to perform its job, or update to a fixed version.| 
-| 20210512T01:49:35Z | CVE-2021-27437 | PoC for exploiting CVE-2021-27437 | https://github.com/JamesGeee/CVE-2021-27437 | The affected product allows attackers to obtain sensitive information from the WISE-PaaS dashboard. The system contains a hard-coded administrator username and password that can be used to query Grafana APIs. Authentication is not required for exploitation on the WISE-PaaS/RMM (versions prior to 9.0.1).| 
 
 
 # klee on Github 推荐
@@ -112,6 +112,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210512T01:52:00Z | repo of scripts | https://github.com/johanvargas/fuzzy-projects | 0 | 0| 
 | 20210512T01:45:47Z | Coding practice for HTML/CSS/anything else web based | https://github.com/FuzzyPumpkin/FuzzyPumpkin.github.io | 5 | 1| 
 | 20210512T01:20:31Z | To make fuzzing Rust easy | https://github.com/trailofbits/test-fuzz | 1 | 1| 
 | 20210512T01:17:42Z | Fast fuzzy search utility | https://github.com/EthanRutherford/fast-fuzzy | 27 | 3| 
@@ -121,7 +122,6 @@
 | 20210512T00:30:24Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 6272 | 1268| 
 | 20210512T00:26:07Z | CS 4152 Project | https://github.com/nicbarone/Fuzzy-Kiwi | 0 | 0| 
 | 20210512T00:21:41Z | RESTler is the first stateful REST API fuzzing tool for automatically testing cloud services through their REST APIs and finding security and reliability bugs in these services. | https://github.com/microsoft/restler-fuzzer | 778 | 81| 
-| 20210512T00:06:41Z | Null | https://github.com/aplawson7707/fuzzy_matching | 0 | 0| 
 
 
 
