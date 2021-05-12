@@ -34,7 +34,7 @@
 | 20210512T12:18:52Z | CVE-2020-28502 | CVE-2020-28502 node-XMLHttpRequest RCE | https://github.com/s-index/CVE-2020-28502 | 未查询到CVE信息| 
 | 20210512T12:01:23Z | CVE-2021-3156 | Sudo Baron Samedit Exploit | https://github.com/worawit/CVE-2021-3156 | 未查询到CVE信息| 
 | 20210512T09:09:58Z | CVE-2021-22204 | Null | https://github.com/se162xg/CVE-2021-22204 | 未查询到CVE信息| 
-| 20210512T09:09:38Z | 未知编号 | Null | https://github.com/Magicsmx/CVE-2020.6_2021.3 | | 
+| 20210512T09:09:38Z | 未知编号 | Null | https://github.com/Magicsmx/CVE-2020.6_2021.3 | 未查询到CVE信息| 
 | 20210512T01:51:10Z | CVE-2020-5013 | PoC for exploiting CVE-2020-5013 | https://github.com/JamesGeee/CVE-2020-5013 | 未查询到CVE信息| 
 | 20210512T01:51:06Z | CVE-2020-4993 | PoC for exploiting CVE-2020-4993 | https://github.com/JamesGeee/CVE-2020-4993 | 未查询到CVE信息| 
 | 20210512T01:50:52Z | CVE-2020-4932 | PoC for exploiting CVE-2020-4932 | https://github.com/JamesGeee/CVE-2020-4932 | 未查询到CVE信息| 
