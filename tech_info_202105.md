@@ -53,9 +53,9 @@
 | 20210512T01:51:10Z | CVE-2020-5013 | PoC for exploiting CVE-2020-5013 | https://github.com/JamesGeee/CVE-2020-5013 | IBM QRadar SIEM 7.3 and 7.4 may vulnerable to a XML External Entity Injection (XXE) attack when processing XML data. A remote attacker could exploit this vulnerability to expose sensitive information or consume memory resources. IBM X-Force ID: 193245.| 
 | 20210512T01:51:06Z | CVE-2020-4993 | PoC for exploiting CVE-2020-4993 | https://github.com/JamesGeee/CVE-2020-4993 | IBM QRadar SIEM 7.3 and 7.4 when decompressing or verifying signature of zip files processes data in a way that may be vulnerable to path traversal attacks. IBM X-Force ID: 192905.| 
 | 20210512T01:50:52Z | CVE-2020-4932 | PoC for exploiting CVE-2020-4932 | https://github.com/JamesGeee/CVE-2020-4932 | IBM QRadar SIEM 7.3 and 7.4 contains hard-coded credentials, such as a password or cryptographic key, which it uses for its own inbound authentication, outbound communication to external components, or encryption of internal data. IBM X-Force ID: 191748.| 
-| 20210512T01:50:43Z | CVE-2020-4979 | PoC for exploiting CVE-2020-4979 | https://github.com/JamesGeee/CVE-2020-4979 | | 
+| 20210512T01:50:43Z | CVE-2020-4979 | PoC for exploiting CVE-2020-4979 | https://github.com/JamesGeee/CVE-2020-4979 | IBM QRadar SIEM 7.3 and 7.4 is vulnerable to insecure inter-deployment communication. An attacker that is able to comprimise or spoof traffic between hosts may be able to execute arbitrary commands. IBM X-Force D: 192538.| 
 | 20210512T01:50:40Z | CVE-2020-4883 | PoC for exploiting CVE-2020-4883 | https://github.com/JamesGeee/CVE-2020-4883 | IBM QRadar SIEM 7.3 and 7.4 could disclose sensitive information about other domains which could be used in further attacks against the system. IBM X-Force ID: 190907.| 
-| 20210512T01:50:37Z | CVE-2020-4929 | PoC for exploiting CVE-2020-4929 | https://github.com/JamesGeee/CVE-2020-4929 | | 
+| 20210512T01:50:37Z | CVE-2020-4929 | PoC for exploiting CVE-2020-4929 | https://github.com/JamesGeee/CVE-2020-4929 | IBM QRadar SIEM 7.3 and 7.4 is vulnerable to cross-site scripting. This vulnerability allows users to embed arbitrary JavaScript code in the Web UI thus altering the intended functionality potentially leading to credentials disclosure within a trusted session. IBM X-Force ID: 191706.| 
 
 
 # klee on Github 推荐
@@ -97,6 +97,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210512T12:53:17Z | backdoors Disclaimer:ich hafte keine schäden was das programm verursachen kann | https://github.com/djweasy/Backdoors | 1 | 0| 
 | 20210512T12:31:59Z | Into backdoor with node and express! | https://github.com/dasgupta002/web-node-advanced | 0 | 0| 
 | 20210512T09:34:43Z | A curated list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 234 | 38| 
 | 20210512T08:53:30Z | Rxploit | https://github.com/NANI1734/Rxploit | 3 | 0| 
@@ -106,7 +107,6 @@
 | 20210511T19:51:46Z | some php backdoor shell collection :%) | https://github.com/darkhunter141/Backdoor-Shell | 1 | 0| 
 | 20210511T19:32:32Z | Create a backdoor to a WordPress website. | https://github.com/majidamiri70/backdoor_for_wp | 0 | 0| 
 | 20210511T19:19:42Z | Python 3 IRC Bot / Botnet | https://github.com/trackmastersteve/HackServ | 19 | 16| 
-| 20210511T15:49:18Z | Fully Undetectable Malware Backdoor | https://github.com/raunvk/stealthware-backdoor | 13 | 7| 
 
 
 # fuzz on Github 推荐
