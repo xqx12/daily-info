@@ -82,6 +82,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20210512T00:52:16Z | Reverse Engineering Exploit and Tool coding for Security Professionals by James C. Foster with Mike Price | https://github.com/giovannyortegon/SocketsShellcodePortingAndCoding | 0 | 0| 
+| 20210512T00:51:09Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 16 | 11| 
 | 20210512T00:47:49Z | Null | https://github.com/1SolAqua/Loli-X-Exploit | 0 | 0| 
 | 20210512T00:02:58Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 22 | 9| 
 | 20210511T23:14:18Z | Search for sensitive information within ASCII files during post exploitation activities in a Windows environment. | https://github.com/captaininappropriate/WSIS | 0 | 0| 
@@ -90,8 +92,6 @@
 | 20210511T22:12:53Z | PoC for exploiting CVE-2021-28269 | https://github.com/JamesGeee/CVE-2021-28269 | 0 | 0| 
 | 20210511T22:12:36Z | PoC for exploiting CVE-2021-30642 | https://github.com/JamesGeee/CVE-2021-30642 | 0 | 0| 
 | 20210511T22:12:33Z | PoC for exploiting CVE-2021-30502 | https://github.com/JamesGeee/CVE-2021-30502 | 0 | 0| 
-| 20210511T22:12:29Z | PoC for exploiting CVE-2021-20716 | https://github.com/JamesGeee/CVE-2021-20716 | 0 | 0| 
-| 20210511T22:12:27Z | PoC for exploiting CVE-2021-30165 | https://github.com/JamesGeee/CVE-2021-30165 | 0 | 0| 
 
 
 # backdoor on Github 推荐
