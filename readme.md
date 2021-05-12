@@ -101,12 +101,12 @@
 | 20210511T23:49:47Z | Project for the subject %Introducción a Inteligencia Artificial% of 6th year of the electronic engineering career | https://github.com/fedegonzalezit/Fuzzy-logic-TradingAlgo | 0 | 0| 
 | 20210511T23:47:02Z | Null | https://github.com/ottypes/fuzzer | 15 | 4| 
 | 20210511T23:34:54Z | Null | https://github.com/VeriBlock/fuzz-corpus | 0 | 1| 
-| 20210511T22:51:38Z | RESTler is the first stateful REST API fuzzing tool for automatically testing cloud services through their REST APIs and finding security and reliability bugs in these services. | https://github.com/microsoft/restler-fuzzer | 778 | 81| 
 | 20210511T22:43:37Z | Null | https://github.com/BiancaAnaP/fuzzy-potato | 0 | 0| 
 | 20210511T22:37:03Z | Personal website of Laurence Hughes | https://github.com/fuzzylogicxx/fuzzylogic | 4 | 1| 
 | 20210511T22:05:52Z | Software for fuzzing, used on web application pentestings. | https://github.com/NESCAU-UFLA/FuzzingTool | 70 | 16| 
 | 20210511T21:51:42Z | Fuzzco Nuxt template. | https://github.com/fuzzco/fuzznuxt | 5 | 1| 
 | 20210511T21:36:45Z | Null | https://github.com/setsal/fuzz_bench | 0 | 0| 
+| 20210511T21:31:14Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2324 | 125| 
 
 
 
